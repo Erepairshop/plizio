@@ -326,6 +326,188 @@
           "Take time for a coffee break in one of the local confectioneries.",
           "The Sparkassenpark is the perfect place for a small picnic."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Spaziergang beginnt unter den Arkaden des Rathauses, die perfekten Schutz vor den ersten Tropfen bieten. Mittags dient die barocke Stadtpfarrkirche als beeindruckendes und trockenes Refugium, während man die Ruhe genießt. Am Nachmittag lockt das Belvedereschlössl mit seinen Innenräumen und Ausstellungen, weit weg vom nassen Grau. Der Tag endet gemütlich in einem zentrumsnahen Gasthaus bei wärmenden österreichischen Spezialitäten.",
+            "hu": "A séta a Városháza árkádjai alatt indul, ahol az eső kopogása ritmust ad a városnézésnek. Délben a Szent István templom hatalmas barokk belsője nyújt csendes és száraz menedéket a látogatóknak. Délután a Belvedereschlössl helytörténeti kiállításai között repül az idő, teljesen elfeledtetve a kinti szürkeséget. Az este egy hangulatos belvárosi étteremben ér véget, gőzölgő húslevessel és helyi borokkal.",
+            "ro": "Plimbarea începe sub arcadele primăriei, oferind un adăpost perfect împotriva primilor stropi de ploaie. La prânz, interiorul baroc al bisericii parohiale servește ca un refugiu impresionant și uscat pentru reculegere. După-amiaza, Belvedereschlössl vă invită să explorați expozițiile sale interioare, departe de griul de afară. Ziua se încheie confortabil într-un restaurant local, cu preparate calde specifice Austriei Inferioare.",
+            "en": "The walk begins under the Town Hall arcades, providing perfect shelter from the morning drizzle. At noon, the baroque Parish Church serves as a grand and dry sanctuary, offering a moment of quiet reflection. In the afternoon, the Belvedereschlössl lures you inside with its district museum exhibits, keeping you away from the wet weather. The day concludes cozily in a central tavern with warming Austrian specialties."
+          },
+          "stops": [
+            {
+              "name": "Town Hall and Koloman Fountain",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden des Rathauses, um die Architektur im Trockenen zu bewundern.",
+                "hu": "Használja a városháza árkádjait, hogy szárazon maradva csodálhassa meg az épületet.",
+                "ro": "Folosiți arcadele primăriei pentru a admira arhitectura stând la adăpost.",
+                "en": "Use the Town Hall arcades to admire the architecture while staying dry."
+              }
+            },
+            {
+              "name": "Parish Church of St. Stephen",
+              "tip_5lang": {
+                "de": "Idealer Zeitpunkt für eine ausgiebige Innenbesichtigung des höchsten Barockturms.",
+                "hu": "Tökéletes időpont a legmagasabb alsó-ausztriai barokk torony belső megtekintésére.",
+                "ro": "Moment ideal pentru o vizită detaliată a interiorului celui mai înalt turn baroc.",
+                "en": "Ideal time for an extensive interior visit of the tallest baroque tower."
+              }
+            },
+            {
+              "name": "Belvedereschlössl Castle",
+              "tip_5lang": {
+                "de": "Das Bezirksmuseum im Inneren bietet spannende Einblicke ohne nass zu werden.",
+                "hu": "A benne található helytörténeti múzeum izgalmas látnivalókat kínál fedett helyen.",
+                "ro": "Muzeul districtual din interior oferă perspective fascinante fără a vă uda.",
+                "en": "The district museum inside offers fascinating insights without getting wet."
+              }
+            },
+            {
+              "name": "Lunch in the City Center",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Lokal mit Garderobe für Ihre nassen Regensachen.",
+                "hu": "Válasszon olyan helyet, ahol van ruhatár a vizes kabátoknak.",
+                "ro": "Alegeți un local cu garderobă pentru hainele de ploaie ude.",
+                "en": "Choose a place with a cloakroom for your wet rain gear."
+              }
+            },
+            {
+              "name": "Lenau Theatre",
+              "tip_5lang": {
+                "de": "Ein kurzes Innehalten am Eingang, benannt nach dem Dichter Nikolaus Lenau.",
+                "hu": "Rövid pihenő a bejáratnál, melyet Nikolaus Lenau költőről neveztek el.",
+                "ro": "O scurtă oprire la intrare, teatrul fiind numit după poetul Nikolaus Lenau.",
+                "en": "A short pause at the entrance, named after the poet Nikolaus Lenau."
+              }
+            },
+            {
+              "name": "Sparkassenpark",
+              "tip_5lang": {
+                "de": "Die dichten Baumkronen bieten bei leichtem Regen einen natürlichen Schirm.",
+                "hu": "A sűrű lombok enyhe esőben természetes ernyőként szolgálnak.",
+                "ro": "Coroanele dese ale copacilor oferă o umbrelă naturală în caz de ploaie ușoară.",
+                "en": "The dense tree canopies offer a natural umbrella during light rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da das Pflaster in der Altstadt rutschig sein kann.",
+              "Die Passage zwischen Rathausplatz und Schießstattgasse bietet Abkürzungen im Trockenen.",
+              "Kombinieren Sie die Wege mit Besuchen in den lokalen Konditoreien.",
+              "Ein Taschenschirm ist bei den kurzen Distanzen im Zentrum sehr praktisch."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert az óvárosi macskakő csúszós lehet.",
+              "A Városháza tér és a Schießstattgasse közötti átjárók száraz rövidítéseket kínálnak.",
+              "Iktasson be pihenőket a helyi cukrászdákban az esősebb időszakokban.",
+              "Egy összecsukható esernyő bőven elég a rövid belvárosi távokhoz."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, deoarece pavajul din centrul vechi poate fi alunecos.",
+              "Pasajul dintre Rathausplatz și Schießstattgasse oferă scurtături uscate.",
+              "Combinați deplasarea cu opriri în cofetăriile locale pentru a aștepta trecerea ploii.",
+              "O umbrelă de buzunar este foarte practică pentru distanțele scurte din centru."
+            ],
+            "en": [
+              "Wear waterproof shoes as the cobblestones in the old town can be slippery.",
+              "The passage between Rathausplatz and Schießstattgasse offers dry shortcuts.",
+              "Combine your walks with visits to local pastry shops to wait out the rain.",
+              "A pocket umbrella is very practical for the short distances in the center."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Stockerau zeigt sich im Winter von einer beschaulichen Seite, wenn der Frost auf dem Rathausplatz glitzert. Mittags bietet die beheizte Stadtpfarrkirche einen Ort der Wärme und inneren Einkehr. Der kurze Weg zum Belvedereschlössl führt durch die klare Winterluft, die die Sinne schärft, bevor man sich im Museum aufwärmt. Der Tag klingt bei einem heißen Punsch oder Tee in einem der Cafés aus, während die Dämmerung früh einsetzt.",
+            "hu": "Stockerau télen a nyugodt arcát mutatja, amikor a zúzmara megcsillan a Városháza téren. Délben a fűtött templom nemcsak lelki, hanem fizikai felmelegedést is kínál a látogatónak. A Belvedereschlössl felé vezető rövid séta a friss téli levegőn felfrissít, mielőtt belépnénk a múzeum melegébe. A nap egy forró puncs vagy tea mellett ér véget a főtér egyik kávézójában, miközben korán leszáll az est.",
+            "ro": "Stockerau se dezvăluie iarna într-o lumină liniștită, când promoroaca strălucește în piața primăriei. La prânz, biserica parohială încălzită oferă un loc de căldură și reculegere interioară. Scurta plimbare spre Belvedereschlössl prin aerul curat de iarnă revigorează simțurile înainte de a intra în muzeu. Ziua se încheie cu un punch fierbinte sau un ceai într-o cafenea, în timp ce amurgul se lasă devreme.",
+            "en": "Stockerau shows its tranquil side in winter, with frost glistening on the Town Hall square. At noon, the heated Parish Church provides a place of warmth and inner peace for visitors. The short walk to Belvedereschlössl through the crisp winter air sharpens the senses before you warm up inside the museum. The day ends with a hot punch or tea in one of the cafes as the early winter twilight sets in."
+          },
+          "stops": [
+            {
+              "name": "Town Hall and Koloman Fountain",
+              "tip_5lang": {
+                "de": "Der Brunnen ist im Winter meist abgedeckt, aber die Fassade strahlt im Winterlicht.",
+                "hu": "A szökőkutat télire lefedik, de a homlokzat csodás a téli napsütésben.",
+                "ro": "Fântâna este de obicei acoperită iarna, dar fațada strălucește în lumina rece.",
+                "en": "The fountain is usually covered in winter, but the facade glows in the winter light."
+              }
+            },
+            {
+              "name": "Parish Church of St. Stephen",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Kirchenbänke für eine kurze Aufwärmpause in stiller Atmosphäre.",
+                "hu": "Használja ki a templompadokat egy rövid melegedő szünetre a csendes környezetben.",
+                "ro": "Folosiți băncile din biserică pentru o scurtă pauză de încălzire în liniște.",
+                "en": "Take advantage of the church pews for a short warm-up break in a quiet atmosphere."
+              }
+            },
+            {
+              "name": "Belvedereschlössl Castle",
+              "tip_5lang": {
+                "de": "Die Ausstellungen im Inneren sind der perfekte Zufluchtsort vor der Kälte.",
+                "hu": "A benti kiállítások tökéletes menedéket nyújtanak a hideg elől.",
+                "ro": "Expozițiile din interior sunt refugiul perfect împotriva frigului de afară.",
+                "en": "The indoor exhibits are the perfect sanctuary from the cold weather."
+              }
+            },
+            {
+              "name": "Lunch in the City Center",
+              "tip_5lang": {
+                "de": "Probieren Sie typische Wintergerichte wie Rindssuppe mit Frittaten.",
+                "hu": "Kóstolja meg a tipikus téli ételeket, például a fridattós marhahúslevest.",
+                "ro": "Încercați mâncăruri tipice de iarnă, cum ar fi supa de vită cu tăieței.",
+                "en": "Try typical winter dishes like beef soup with pancake strips."
+              }
+            },
+            {
+              "name": "Lenau Theatre",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Abendspielplan für ein kulturelles Erlebnis im Warmen.",
+                "hu": "Nézze meg az esti műsort egy kellemes, meleg kulturális élményhez.",
+                "ro": "Verificați programul de seară pentru o experiență culturală la căldură.",
+                "en": "Check the evening schedule for a cultural experience in the warmth."
+              }
+            },
+            {
+              "name": "Sparkassenpark",
+              "tip_5lang": {
+                "de": "Ein zügiger Winterspaziergang durch den Park regt den Kreislauf an.",
+                "hu": "Egy tempós téli séta a parkban felpezsdíti a vérkeringést.",
+                "ro": "O plimbare vioaie de iarnă prin parc stimulează circulația.",
+                "en": "A brisk winter walk through the park stimulates the circulation."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie warme Schichten, da der Wind in den Gassen kühl wehen kann.",
+              "Die Sonne geht im Dezember bereits gegen 16:00 Uhr unter.",
+              "Achten Sie auf eventuelle kleine Adventsmärkte am Wochenende.",
+              "Die Gehwege werden geräumt, können aber bei Frost stellenweise glatt sein."
+            ],
+            "hu": [
+              "Öltözzön rétegesen, mert a sikátorokban hűvös lehet a szél.",
+              "A nap decemberben már délután 4 óra körül lemegy.",
+              "Hétvégente figyeljen az esetleges adventi vásárokra a főtéren.",
+              "A járdákat takarítják, de fagy esetén helyenként csúszósak lehetnek."
+            ],
+            "ro": [
+              "Purtați haine în straturi, deoarece vântul poate fi tăios pe străduțe.",
+              "Soarele apune în decembrie deja în jurul orei 16:00.",
+              "Căutați micile piețe de Advent organizate în weekend.",
+              "Trotuarele sunt curățate, dar pot fi alunecoase în locurile cu îngheț."
+            ],
+            "en": [
+              "Wear warm layers as the wind can be chilly in the narrow streets.",
+              "The sun sets as early as 4:00 PM in December.",
+              "Look out for potential small Advent markets on weekends.",
+              "Sidewalks are cleared but can be slippery in places when frozen."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -646,6 +828,188 @@
           "Always lock your bike securely in the city center.",
           "The cycle paths are well-developed, but be careful in city traffic."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen bietet die Tour zur Au ein besonderes Naturerlebnis, wenn der Wald intensiv duftet. Vormittags geht es zügig durch die Stadt, wo die Reifen auf dem Asphalt sicher greifen. Mittags dient ein Stopp an der Donau als Erfrischung, bevor die Rückfahrt durch das grünere Umland ansteht. Der Tag endet mit dem Gefühl, die Natur hautnah gespürt zu haben, gefolgt von einer heißen Dusche in der Unterkunft.",
+            "hu": "Az eső ellenére az ártéri erdőbe tett túra különleges élmény, ilyenkor az erdő illata sokkal intenzívebb. Délelőtt gyorsan haladhatunk át a városon, ahol az aszfalt biztonságos tapadást nyújt. Délben a Duna-parti megálló frissítő erejű, mielőtt visszakerekeznénk a zöldellő környéken keresztül. A nap a természet közelségének élményével zárul, amit egy forró zuhany követ a szálláson.",
+            "ro": "În ciuda ploii, turul spre zona de luncă oferă o experiență specială, când pădurea miroase intens. Dimineața se traversează rapid orașul, unde anvelopele au aderență bună pe asfalt. La prânz, o oprire pe malul Dunării este revigorantă înainte de drumul de întoarcere prin împrejurimile verzi. Ziua se încheie cu sentimentul de conexiune cu natura, urmat de un duș fierbinte la cazare.",
+            "en": "Despite the rain, the tour to the floodplains offers a unique nature experience as the forest scent intensifies. In the morning, you ride quickly through town, where tires grip the asphalt securely. At noon, a stop by the Danube is refreshing before the return journey through the lush surroundings. The day ends with the feeling of having experienced nature firsthand, followed by a hot shower back at your base."
+          },
+          "stops": [
+            {
+              "name": "Town Hall and Koloman Fountain",
+              "tip_5lang": {
+                "de": "Vorsicht beim Losfahren auf dem nassen Pflasterstein am Marktplatz.",
+                "hu": "Vigyázzon az induláskor a vizes macskakövön a piactéren.",
+                "ro": "Atenție la plecare pe pavajul ud din piața centrală.",
+                "en": "Be careful when starting off on the wet cobblestones at the market square."
+              }
+            },
+            {
+              "name": "Parish Church of St. Stephen",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich für einen kurzen Check der Regenkleidung.",
+                "hu": "Használja a fedett bejáratot az esőruházat gyors ellenőrzésére.",
+                "ro": "Folosiți zona de intrare acoperită pentru o verificare rapidă a pelerinei.",
+                "en": "Use the covered entrance area for a quick check of your rain gear."
+              }
+            },
+            {
+              "name": "Belvedereschlössl Castle",
+              "tip_5lang": {
+                "de": "Fahrradabstellplätze im Hof bieten oft etwas Schutz vor direktem Regen.",
+                "hu": "Az udvari kerékpártárolók némi védelmet nyújtanak a közvetlen eső elől.",
+                "ro": "Suporturile de biciclete din curte oferă puțină protecție împotriva ploii.",
+                "en": "Bike racks in the courtyard often provide some protection from direct rain."
+              }
+            },
+            {
+              "name": "Ride to the Au-Terrasse",
+              "tip_5lang": {
+                "de": "Die Wege in der Au können matschig sein; fahren Sie mit angemessenem Reifendruck.",
+                "hu": "Az ártéri utak sarasak lehetnek; megfelelő guminyomással közlekedjen.",
+                "ro": "Drumurile din luncă pot fi noroioase; circulați cu o presiune adecvată în pneuri.",
+                "en": "Paths in the floodplains can be muddy; ride with appropriate tire pressure."
+              }
+            },
+            {
+              "name": "Lunch near the Danube",
+              "tip_5lang": {
+                "de": "Ein Handtuch für den Sattel ist nach der Pause Gold wert.",
+                "hu": "Egy törölköző a nyereghez aranyat ér a pihenő után.",
+                "ro": "Un prosop pentru șa valorează aur după pauza de prânz.",
+                "en": "A towel for the saddle is worth its weight in gold after the break."
+              }
+            },
+            {
+              "name": "Return to the Center & Sparkassenpark",
+              "tip_5lang": {
+                "de": "Achten Sie auf nasses Laub auf den Radwegen im Park.",
+                "hu": "Ügyeljen a vizes levelekre a park kerékpárútjain.",
+                "ro": "Atenție la frunzele ude de pe pistele de biciclete din parc.",
+                "en": "Watch out for wet leaves on the bike paths in the park."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche am Fahrrad sind bei diesem Wetter absolut empfehlenswert.",
+              "Vermeiden Sie hektisches Bremsen auf metallischen Kanaldeckeln.",
+              "Tragen Sie eine Brille, um die Regentropfen aus den Augen zu halten.",
+              "Wasserdichte Packtaschen schützen Ihre Kamera und Wechselkleidung."
+            ],
+            "hu": [
+              "Sárvédő használata ilyenkor kifejezetten ajánlott a kerékpáron.",
+              "Kerülje a hirtelen fékezést a fém csatornafedeleken.",
+              "Viseljen szemüveget, hogy az esőcseppek ne kerüljenek a szemébe.",
+              "A vízálló táskák megvédik a fényképezőgépet és a váltóruhát."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt absolut recomandate pe această vreme.",
+              "Evitați frânarea bruscă pe capacele de canal metalice.",
+              "Purtați ochelari pentru a ține picăturile de ploaie departe de ochi.",
+              "Geantele impermeabile vă protejează camera și hainele de schimb."
+            ],
+            "en": [
+              "Mudguards on your bike are highly recommended in this weather.",
+              "Avoid sudden braking on metal manhole covers.",
+              "Wear glasses to keep raindrops out of your eyes while riding.",
+              "Waterproof panniers will protect your camera and spare clothes."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintertour erfordert gute Vorbereitung, belohnt aber mit einsamen Wegen und klarer Sicht. Der Vormittag im Zentrum ist belebend, während man von Sehenswürdigkeit zu Sehenswürdigkeit pedalt. Die Fahrt zur Donau führt durch die frostige Landschaft der Stockerauer Au, die im Winter eine ganz eigene Stille ausstrahlt. Nach einem kurzen Stopp an der Au-Terrasse geht es zügig zurück in die Stadt, um die Wärme eines Cafés zu genießen.",
+            "hu": "A téli túra jó felkészülést igényel, de csendes utakkal és tiszta kilátással jutalmaz meg. A délelőtt a belvárosban élénkítő, miközben egyik látnivalótól a másikig kerekezünk. A Duna felé vezető út a Stockerauer Au deres tájain visz keresztül, amely télen sajátos nyugalmat áraszt. Az Au-Terrasse-nál tett rövid pihenő után gyorsan visszatérünk a városba, hogy egy kávézó melegét élvezzük.",
+            "ro": "Turul de iarnă necesită o pregătire bună, dar răsplătește cu drumuri pustii și vizibilitate clară. Dimineața în centru este revigorantă, pedalând între principalele atracții. Drumul spre Dunăre trece prin peisajul înghețat al luncii Stockerau, care emană o liniște aparte iarna. După o scurtă oprire la Au-Terrasse, revenirea în oraș este rapidă pentru a savura căldura unei cafenele.",
+            "en": "The winter tour requires good preparation but rewards you with empty paths and clear views. The morning in the center is invigorating as you pedal from sight to sight. The ride to the Danube leads through the frosty landscape of the Stockerau floodplains, which radiate a unique silence in winter. After a quick stop at the Au-Terrasse, you head back to town swiftly to enjoy the warmth of a local cafe."
+          },
+          "stops": [
+            {
+              "name": "Town Hall and Koloman Fountain",
+              "tip_5lang": {
+                "de": "Handschuhe sind für die erste Etappe im kalten Morgenwind essenziell.",
+                "hu": "A kesztyű elengedhetetlen az első szakaszhoz a hideg reggeli szélben.",
+                "ro": "Mănușile sunt esențiale pentru prima etapă în vântul rece de dimineață.",
+                "en": "Gloves are essential for the first stage in the cold morning wind."
+              }
+            },
+            {
+              "name": "Parish Church of St. Stephen",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad sicher ab; Metallständer können sehr kalt und glatt sein.",
+                "hu": "Biztonságosan támassza le a biciklit; a fémtárolók nagyon hidegek és csúszósak lehetnek.",
+                "ro": "Parcați bicicleta în siguranță; suporturile metalice pot fi foarte reci și alunecoase.",
+                "en": "Park your bike securely; metal racks can be very cold and slippery."
+              }
+            },
+            {
+              "name": "Belvedereschlössl Castle",
+              "tip_5lang": {
+                "de": "Ein kurzer Museumsbesuch wärmt die kalten Finger wieder auf.",
+                "hu": "Egy rövid múzeumlátogatás során felmelegítheti átfagyott ujjait.",
+                "ro": "O scurtă vizită la muzeu vă va încălzi degetele înghețate.",
+                "en": "A quick museum visit will warm up your cold fingers."
+              }
+            },
+            {
+              "name": "Ride to the Au-Terrasse",
+              "tip_5lang": {
+                "de": "Achten Sie auf gefrorene Pfützen auf den unbefestigten Waldwegen.",
+                "hu": "Ügyeljen a befagyott tócsákra a burkolatlan erdei utakon.",
+                "ro": "Atenție la bălțile înghețate de pe drumurile de pământ din pădure.",
+                "en": "Watch out for frozen puddles on the unpaved forest paths."
+              }
+            },
+            {
+              "name": "Lunch near the Danube",
+              "tip_5lang": {
+                "de": "Suchen Sie ein Lokal mit Abstellmöglichkeit in Sichtweite.",
+                "hu": "Keressen olyan helyet, ahol rálát a leparkolt kerékpárra.",
+                "ro": "Căutați un local unde puteți vedea bicicleta parcată.",
+                "en": "Look for a place where you can keep an eye on your bike."
+              }
+            },
+            {
+              "name": "Return to the Center & Sparkassenpark",
+              "tip_5lang": {
+                "de": "Planen Sie die Rückkehr vor Einbruch der Dunkelheit (ca. 16:30 Uhr).",
+                "hu": "Tervezze a visszatérést sötétedés előtt (kb. 16:30).",
+                "ro": "Planificați revenirea înainte de lăsarea întunericului (aprox. 16:30).",
+                "en": "Plan to return before dark (approx. 4:30 PM)."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahren Sie mit etwas niedrigerem Reifendruck für mehr Grip bei Glätte.",
+              "Prüfen Sie vorab die Funktionsfähigkeit Ihrer Beleuchtung.",
+              "Ein Thermosbecher mit warmem Tee im Flaschenhalter hilft gegen die Kälte.",
+              "Vermeiden Sie lange Standzeiten im Freien, um das Einfrieren von Zügen zu verhindern."
+            ],
+            "hu": [
+              "Használjon kicsit alacsonyabb guminyomást a jobb tapadásért csúszós úton.",
+              "Indulás előtt ellenőrizze a világítás működését.",
+              "Egy termosz meleg teával a kulacstartóban sokat segít a hideg ellen.",
+              "Kerülje a hosszú várakozást a szabadban, hogy ne fagyjanak be a bowdenek."
+            ],
+            "ro": [
+              "Circulați cu o presiune puțin mai mică în pneuri pentru aderență pe gheață.",
+              "Verificați funcționarea luminilor înainte de plecare.",
+              "Un termos cu ceai cald în suportul de bidon ajută împotriva frigului.",
+              "Evitați staționările lungi în aer liber pentru a preveni înghețarea cablurilor."
+            ],
+            "en": [
+              "Ride with slightly lower tire pressure for better grip on slippery surfaces.",
+              "Check that your lights are working properly before you set off.",
+              "A thermos of warm tea in the bottle cage helps against the cold.",
+              "Avoid long periods of standing outside to prevent cables from freezing."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -966,6 +1330,188 @@
           "Do not leave valuables visible in the car.",
           "Combine the visit with a trip to a local wine tavern in the area."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Auto ist bei Regen der ideale Begleiter für Stockerau, da es bequeme Übergänge zwischen den Highlights ermöglicht. Nach dem Parken im Zentrum sind die Wege kurz und das Regenrisiko minimal. Die Fahrt zur Au-Terrasse bietet einen trockenen Logenplatz für den Blick auf die Donau, während draußen der Regen fällt. Der Tag endet stressfrei mit einer kurzen Fahrt zurück, geschützt vor Wind und Wetter.",
+            "hu": "Az autó esőben az ideális kísérő Stockerauban, mivel kényelmes átmenetet biztosít a látnivalók között. A központi parkolás után a távok rövidek, az elázás veszélye minimális. Az Au-Terrasse felé vezető út során az autó száraz páholyt kínál a dunai panorámához, miközben odakint esik. A nap stresszmentesen zárul egy rövid visszaúttal, védve a széltől és az időjárástól.",
+            "ro": "Mașina este partenerul ideal în Stockerau pe ploaie, permițând tranziții confortabile între principalele obiective. După parcarea în centru, distanțele sunt scurte și riscul de a vă uda este minim. Drumul spre Au-Terrasse oferă un loc uscat „la lojă” pentru priveliștea spre Dunăre, în timp ce afară plouă. Ziua se încheie fără stres cu o scurtă călătorie înapoi, protejați de vânt și vreme.",
+            "en": "The car is the ideal companion for Stockerau in the rain, providing comfortable transitions between highlights. After parking in the center, walking distances are short and the risk of getting soaked is minimal. The drive to the Au-Terrasse offers a dry front-row seat for the Danube view while the rain falls outside. The day ends stress-free with a short drive back, shielded from the wind and weather."
+          },
+          "stops": [
+            {
+              "name": "Arrival and Parking in the Center",
+              "tip_5lang": {
+                "de": "Nutzen Sie Parkgaragen oder Parkplätze in unmittelbarer Nähe zum Rathausplatz.",
+                "hu": "Használja a parkolóházakat vagy a Városháza térhez közeli parkolókat.",
+                "ro": "Folosiți parcările etajate sau locurile de parcare din imediata apropiere a pieței.",
+                "en": "Use parking garages or spots in the immediate vicinity of the Town Hall square."
+              }
+            },
+            {
+              "name": "Town Hall and Koloman Fountain",
+              "tip_5lang": {
+                "de": "Lassen Sie den Schirm griffbereit im Auto für die kurzen Fußwege.",
+                "hu": "Tartsa az esernyőt kézközelben az autóban a rövid sétákhoz.",
+                "ro": "Țineți umbrela la îndemână în mașină pentru scurtele reprize de mers pe jos.",
+                "en": "Keep your umbrella handy in the car for the short walking distances."
+              }
+            },
+            {
+              "name": "Parish Church of St. Stephen",
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Parkplatz zum Portal hält Sie trocken.",
+                "hu": "Egy rövid sprint a parkolótól a kapuig, és máris szárazon maradhat.",
+                "ro": "Un scurt sprint de la parcare la poarta bisericii vă va menține uscat.",
+                "en": "A short sprint from the parking spot to the portal will keep you dry."
+              }
+            },
+            {
+              "name": "Belvedereschlössl Castle",
+              "tip_5lang": {
+                "de": "In der Nähe des Schlosses gibt es oft straßenseitige Parkmöglichkeiten.",
+                "hu": "A kastély közelében gyakran található utcai parkolóhely.",
+                "ro": "În apropierea castelului există adesea locuri de parcare la marginea drumului.",
+                "en": "There are often street-side parking options near the castle."
+              }
+            },
+            {
+              "name": "Drive to the Au-Terrasse",
+              "tip_5lang": {
+                "de": "Genießen Sie die Aussicht direkt aus dem warmen und trockenen Fahrzeug.",
+                "hu": "Élvezze a kilátást közvetlenül a meleg és száraz autóból.",
+                "ro": "Bucurați-vă de priveliște direct din vehiculul cald și uscat.",
+                "en": "Enjoy the view directly from the warm and dry vehicle."
+              }
+            },
+            {
+              "name": "Walk and Coffee",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Café mit eigenem Gästeparkplatz, falls verfügbar.",
+                "hu": "Válasszon olyan kávézót, amelynek van saját vendégparkolója, ha lehetséges.",
+                "ro": "Alegeți o cafenea cu parcare proprie pentru clienți, dacă este disponibilă.",
+                "en": "Choose a cafe with its own guest parking if available."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Zustand Ihrer Scheibenwischer vor der Abfahrt.",
+              "Achten Sie in den engen Gassen auf große Pfützen und Fußgänger.",
+              "Nutzen Sie die Park-Apps für Stockerau, um im Auto bezahlen zu können.",
+              "Ein Mikrofasertuch hilft gegen beschlagene Scheiben bei nasser Kleidung."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze az ablaktörlők állapotát.",
+              "A szűk utcákban ügyeljen a nagy tócsákra és a gyalogosokra.",
+              "Használja a helyi parkolási applikációkat, hogy az autóból fizethessen.",
+              "Egy mikroszálas kendő segít a vizes ruhák miatti párásodás ellen."
+            ],
+            "ro": [
+              "Verificați starea ștergătoarelor înainte de plecare.",
+              "Atenție la bălțile mari și la pietoni pe străduțele înguste.",
+              "Utilizați aplicațiile de parcare pentru a plăti fără a ieși din mașină.",
+              "O lavetă din microfibră ajută împotriva aburirii geamurilor."
+            ],
+            "en": [
+              "Check the condition of your windshield wipers before setting off.",
+              "Watch out for large puddles and pedestrians in the narrow streets.",
+              "Use parking apps to pay conveniently from inside the car.",
+              "A microfiber cloth helps with fogged-up windows caused by wet clothes."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Stockerau lässt sich am besten mit dem Auto erkunden, wenn die Heizung für Wohlbefinden sorgt. Die Stadtbesichtigung am Vormittag ist dank kurzer Fußwege vom Auto aus sehr angenehm. Die Fahrt in die Au bietet beeindruckende Blicke auf den winterlichen Wald, ohne dass man der Kälte zu lange ausgesetzt ist. Zum Abschluss wärmt man sich in einem Café auf, bevor die kurze Heimreise im vorgewärmten Wagen ansteht.",
+            "hu": "A téli Stockerau autóval fedezhető fel a legjobban, miközben a fűtés biztosítja a komfortot. A délelőtti városnézés az autótól tett rövid sétáknak köszönhetően nagyon kényelmes. Az ártérbe vezető út lenyűgöző kilátást nyújt a téli erdőre anélkül, hogy túl sokáig lennénk kitéve a hidegnek. Végezetül egy kávézóban melegedhetünk fel, mielőtt elindulnánk haza az előmelegített kocsival.",
+            "ro": "Stockerau pe timp de iarnă se explorează cel mai bine cu mașina, căldura de la bord asigurând confortul. Vizitarea orașului dimineața este foarte plăcută datorită distanțelor scurte parcurse pe jos. Drumul spre luncă oferă priveliști impresionante asupra pădurii înghețate, fără a vă expune prea mult frigului. La final, vă puteți încălzi într-o cafenea înainte de drumul spre casă.",
+            "en": "Wintery Stockerau is best explored by car, with the heater ensuring your well-being. The morning sightseeing is very pleasant thanks to short walks from the vehicle. The drive into the floodplains offers impressive views of the winter forest without being exposed to the cold for too long. To finish, warm up in a cafe before the short drive home in your pre-warmed car."
+          },
+          "stops": [
+            {
+              "name": "Arrival and Parking in the Center",
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe beleuchteter Zonen, da es früh dunkel wird.",
+                "hu": "Parkoljon kivilágított zónák közelében, mert korán sötétedik.",
+                "ro": "Parcați în apropierea zonelor iluminate, deoarece se întunecă devreme.",
+                "en": "Park near well-lit zones as it gets dark early."
+              }
+            },
+            {
+              "name": "Town Hall and Koloman Fountain",
+              "tip_5lang": {
+                "de": "Ein schneller Blick auf den frostigen Marktplatz, dann zurück in die Wärme.",
+                "hu": "Gyors pillantás a deres piactérre, majd vissza a melegbe.",
+                "ro": "O privire rapidă asupra pieței înghețate, apoi înapoi la căldură.",
+                "en": "A quick look at the frosty market square, then back to the warmth."
+              }
+            },
+            {
+              "name": "Parish Church of St. Stephen",
+              "tip_5lang": {
+                "de": "Die Kirche bietet auch im Winter einen geschützten Raum für Besichtigungen.",
+                "hu": "A templom télen is védett helyszínt kínál a látogatáshoz.",
+                "ro": "Biserica oferă un spațiu protejat pentru vizitare și pe timp de iarnă.",
+                "en": "The church offers a protected space for sightseeing even in winter."
+              }
+            },
+            {
+              "name": "Belvedereschlössl Castle",
+              "tip_5lang": {
+                "de": "Kurze Wege vom Auto zum Schlosseingang minimieren die Kälteexposition.",
+                "hu": "Az autótól a kastélyig tartó rövid út minimalizálja a hidegnek való kitettséget.",
+                "ro": "Distanța scurtă de la mașină la intrare reduce expunerea la frig.",
+                "en": "Short distances from the car to the castle entrance minimize cold exposure."
+              }
+            },
+            {
+              "name": "Drive to the Au-Terrasse",
+              "tip_5lang": {
+                "de": "Die Straßen in die Au können bei Reifglätte tückisch sein; vorsichtig fahren.",
+                "hu": "Az ártérbe vezető utak zúzmarásodáskor csalókák lehetnek; vezessen óvatosan.",
+                "ro": "Drumurile spre luncă pot fi înșelătoare în caz de polei; conduceți cu prudență.",
+                "en": "Roads to the floodplains can be tricky with frost; drive carefully."
+              }
+            },
+            {
+              "name": "Walk and Coffee",
+              "tip_5lang": {
+                "de": "Warmer Kaffee ist der perfekte Abschluss nach einem winterlichen Ausflug.",
+                "hu": "A meleg kávé tökéletes befejezés egy téli kirándulás után.",
+                "ro": "O cafea caldă este finalul perfect după o excursie de iarnă.",
+                "en": "Warm coffee is the perfect conclusion after a winter outing."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Führen Sie einen Eiskratzer und eventuell Enteiserspray mit.",
+              "Prüfen Sie den Frostschutz in Ihrer Scheibenwaschanlage.",
+              "Vermeiden Sie es, die Handbremse bei starkem Frost fest anzuziehen.",
+              "Planen Sie etwas mehr Zeit für das Freimachen des Fahrzeugs ein."
+            ],
+            "hu": [
+              "Legyen kéznél jégkaparó és esetleg jégoldó spray.",
+              "Ellenőrizze a fagyálló szintjét a szélvédőmosóban.",
+              "Erős fagy esetén kerülje a kézifék behúzását hosszabb parkoláskor.",
+              "Számoljon több idővel az autó jégmentesítésére indulás előtt."
+            ],
+            "ro": [
+              "Aveți la îndemână o racletă și eventual un spray de dezghețare.",
+              "Verificați nivelul antigelului din lichidul de parbriz.",
+              "Evitați tragerea frânei de mână în caz de îngheț puternic.",
+              "Planificați mai mult timp pentru curățarea mașinii înainte de plecare."
+            ],
+            "en": [
+              "Keep an ice scraper and possibly a de-icer spray in the car.",
+              "Check the antifreeze levels in your windshield washer fluid.",
+              "Avoid pulling the handbrake too tightly in severe frost.",
+              "Allow extra time for clearing snow or ice from the vehicle."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1286,6 +1832,188 @@
           "The walk from the station to the center is short and easy to find.",
           "Plan enough buffer time for the way back to the station."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Ankunft mit der Bahn bietet einen trockenen Start, gefolgt von kurzen Wegen im Zentrum. Vormittags lässt sich die Stadtpfarrkirche bequem zu Fuß erreichen, bevor der Bus Schutz vor stärkeren Schauern bietet. Mittags verbindet der Nahverkehr die Highlights perfekt, während man den Ausblick aus dem Fenster genießt. Der Tag endet sicher am Bahnhof, wo man im Warteraum entspannt auf den Zug nach Hause wartet.",
+            "hu": "A vonattal való érkezés száraz kezdést biztosít, majd rövid sétákkal folytatódik a belvárosban. Délelőtt a templom könnyen elérhető gyalog, mielőtt a busz menedéket nyújtana a hevesebb záporok elől. Délben a tömegközlekedés tökéletesen összeköti a főbb pontokat, miközben az ablakból csodálhatjuk a várost. A nap a vasútállomáson zárul, ahol a váróteremben kényelmesen várhatjuk a vonatunkat.",
+            "ro": "Sosirea cu trenul oferă un start uscat, urmat de scurte deplasări în centru. Dimineața, biserica parohială este ușor de accesat pe jos înainte ca autobuzul să ofere adăpost împotriva averselor. La prânz, transportul public conectează perfect punctele de interes, oferind o priveliște relaxantă de la fereastră. Ziua se încheie în siguranță la gară, așteptând trenul în sala de așteptare.",
+            "en": "Arriving by train offers a dry start, followed by short walks in the center. In the morning, the Parish Church is easily accessible on foot before the bus provides shelter from heavier showers. At noon, public transport connects the highlights perfectly while you enjoy the view from the window. The day ends safely at the train station, where you can wait for your train in the comfort of the waiting room."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Stockerau train station",
+              "tip_5lang": {
+                "de": "Der Bahnhof bietet einen trockenen Unterstand bei der Ankunft.",
+                "hu": "A vasútállomás fedett helyet biztosít az érkezéskor.",
+                "ro": "Gara oferă un adăpost uscat la sosire.",
+                "en": "The train station provides dry shelter upon arrival."
+              }
+            },
+            {
+              "name": "Town Hall and Main Square",
+              "tip_5lang": {
+                "de": "Die Busstation am Rathausplatz ist meist überdacht.",
+                "hu": "A Városháza téri buszmegálló általában fedett.",
+                "ro": "Stația de autobuz din piață este de obicei acoperită.",
+                "en": "The bus stop at the Town Hall square is mostly covered."
+              }
+            },
+            {
+              "name": "Parish Church of St. Stephen",
+              "tip_5lang": {
+                "de": "Wenige Gehminuten von der Haltestelle entfernt.",
+                "hu": "Csak néhány perc sétára található a buszmegállótól.",
+                "ro": "La doar câteva minute de mers pe jos de stația de autobuz.",
+                "en": "Only a few minutes' walk from the bus stop."
+              }
+            },
+            {
+              "name": "Lunch and Belvedereschlössl Castle",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit im Lokal, um die nächste Busverbindung zu prüfen.",
+                "hu": "Használja ki az étteremben töltött időt a következő busz ellenőrzésére.",
+                "ro": "Utilizați timpul petrecut la masă pentru a verifica următoarea conexiune.",
+                "en": "Use your time at lunch to check the next bus connection."
+              }
+            },
+            {
+              "name": "Bus ride to Sparkassenpark",
+              "tip_5lang": {
+                "de": "Der Bus bringt Sie direkt und trocken in die Nähe des Parks.",
+                "hu": "A busz közvetlenül és szárazon viszi Önt a park közelébe.",
+                "ro": "Autobuzul vă duce direct și fără a vă uda în apropierea parcului.",
+                "en": "The bus takes you directly and dryly near the park."
+              }
+            },
+            {
+              "name": "City Hall and return to the station",
+              "tip_5lang": {
+                "de": "Die kurzen Intervalle zum Bahnhof sind bei Regen ideal.",
+                "hu": "A vasútállomás felé tartó sűrű járatok esőben ideálisak.",
+                "ro": "Intervalele scurte spre gară sunt ideale în caz de ploaie.",
+                "en": "The frequent intervals to the station are ideal during rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die VOR AnachB App für Echtzeit-Fahrplandaten.",
+              "Halten Sie Ihr Ticket griffbereit, um langes Suchen im Regen zu vermeiden.",
+              "Die Wartehäuschen an den Haltestellen bieten Schutz bei Schauern.",
+              "Achten Sie auf eventuelle Gleisänderungen bei starkem Unwetter."
+            ],
+            "hu": [
+              "Használja a VOR AnachB alkalmazást a valós idejű menetrendhez.",
+              "Tartsa a jegyét kézközelben, hogy ne kelljen az esőben keresgélni.",
+              "A megállók várói védelmet nyújtanak a záporok idején.",
+              "Figyeljen az esetleges vágányzárókra vagy változásokra vihar esetén."
+            ],
+            "ro": [
+              "Utilizați aplicația VOR AnachB pentru date despre program în timp real.",
+              "Țineți biletul la îndemână pentru a evita căutările lungi în ploaie.",
+              "Refugiile din stații oferă protecție în timpul averselor.",
+              "Fiți atenți la eventualele modificări de peron în caz de vreme severă."
+            ],
+            "en": [
+              "Use the VOR AnachB app for real-time schedule information.",
+              "Keep your ticket handy to avoid searching for it in the rain.",
+              "The shelters at the bus stops provide protection during showers.",
+              "Be aware of potential platform changes during severe weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Mit den Öffis lässt sich das winterliche Stockerau entspannt und warm erkunden. Der Vormittag am Bahnhof ist der Startpunkt für die Entdeckung der frostigen Stadt, wobei man sich immer wieder im Bus aufwärmen kann. Die Fahrten zwischen den Sehenswürdigkeiten bieten eine gemütliche Perspektive auf die verschneiten Gassen. Vor der Abreise bietet das Bahnhofscafé die perfekte Gelegenheit, sich bei einem Heißgetränk auf die Rückreise einzustimmen.",
+            "hu": "Tömegközlekedéssel Stockerau télen is nyugodtan és melegen fedezhető fel. A délelőtti vasútállomási érkezés a jeges város felfedezésének kezdete, miközben a buszokon mindig felmelegedhetünk. A látnivalók közötti utazás kényelmes rálátást biztosít a havas utcákra. Az indulás előtt a vasútállomás kávézója tökéletes alkalom egy forró italra és a hazautazásra való felkészülésre.",
+            "ro": "Cu transportul public, Stockerau iarna poate fi explorat relaxat și la căldură. Dimineața la gară este punctul de plecare pentru descoperirea orașului înghețat, putându-vă încălzi oricând în autobuz. Călătoriile între obiective oferă o perspectivă confortabilă asupra străzilor înzăpezite. Înainte de plecare, cafeneaua din gară este ocazia perfectă pentru o băutură caldă.",
+            "en": "Public transport allows you to explore wintery Stockerau in a relaxed and warm way. The morning at the station marks the start of discovering the frosty city, with the buses offering a chance to warm up between stops. The rides between sights provide a cozy perspective on the snowy streets. Before departure, the station cafe is the perfect place to warm up with a hot drink for the journey home."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Stockerau train station",
+              "tip_5lang": {
+                "de": "Der Warteraum am Bahnhof ist im Winter beheizt.",
+                "hu": "A vasútállomás váróterme télen fűtött.",
+                "ro": "Sala de așteptare din gară este încălzită iarna.",
+                "en": "The waiting room at the station is heated in winter."
+              }
+            },
+            {
+              "name": "Town Hall and Main Square",
+              "tip_5lang": {
+                "de": "Die kurzen Wege minimieren die Zeit in der Kälte.",
+                "hu": "A rövid távok minimalizálják a hidegben töltött időt.",
+                "ro": "Distanțele scurte reduc timpul petrecut în frig.",
+                "en": "Short distances minimize your time in the cold."
+              }
+            },
+            {
+              "name": "Parish Church of St. Stephen",
+              "tip_5lang": {
+                "de": "In der Nähe der Haltestelle gibt es oft warme Cafés zum Aufwärmen.",
+                "hu": "A buszmegálló közelében gyakran vannak meleg kávézók.",
+                "ro": "În apropierea stației există adesea cafenele calde pentru încălzire.",
+                "en": "There are often warm cafes near the stop for a quick warm-up."
+              }
+            },
+            {
+              "name": "Lunch and Belvedereschlössl Castle",
+              "tip_5lang": {
+                "de": "Ein längerer Aufenthalt im Schlossmuseum ist im Winter sehr angenehm.",
+                "hu": "A kastélymúzeumban eltöltött hosszabb idő télen nagyon kellemes.",
+                "ro": "O ședere mai lungă la muzeul castelului este foarte plăcută iarna.",
+                "en": "A longer stay at the castle museum is very pleasant in winter."
+              }
+            },
+            {
+              "name": "Bus ride to Sparkassenpark",
+              "tip_5lang": {
+                "de": "Genießen Sie die Fahrt im gut geheizten Bus.",
+                "hu": "Élvezze az utazást a jól fűtött buszon.",
+                "ro": "Bucurați-vă de călătoria în autobuzul bine încălzit.",
+                "en": "Enjoy the ride in the well-heated bus."
+              }
+            },
+            {
+              "name": "City Hall and return to the station",
+              "tip_5lang": {
+                "de": "Planen Sie die Rückfahrt so, dass Sie nicht lange am Bahnsteig warten müssen.",
+                "hu": "Úgy tervezze a visszautat, hogy ne kelljen sokat várnia a peronon.",
+                "ro": "Planificați revenirea astfel încât să nu așteptați mult pe peron.",
+                "en": "Plan your return trip to avoid long waits on the platform."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf winterliche Fahrplanänderungen im Regionalverkehr.",
+              "Die Züge sind meist gut klimatisiert und bieten eine warme Basis.",
+              "Nutzen Sie die Wartezeiten für ein heißes Getränk im Bahnhof.",
+              "Bei Schneefall kann es zu kleineren Verspätungen kommen; planen Sie Pufferzeiten ein."
+            ],
+            "hu": [
+              "Figyeljen a regionális közlekedés téli menetrendi változásaira.",
+              "A vonatok általában jól fűtöttek és meleg bázist nyújtanak.",
+              "Használja ki a várakozási időt egy forró italra az állomáson.",
+              "Hóesés esetén előfordulhatnak kisebb késések; tervezzen be ráhagyást."
+            ],
+            "ro": [
+              "Fiți atenți la modificările de program de iarnă în transportul regional.",
+              "Trenurile sunt de obicei bine încălzite și oferă o bază caldă.",
+              "Utilizați timpii de așteptare pentru o băutură caldă în gară.",
+              "În caz de ninsoare pot apărea mici întârzieri; planificați timpi de rezervă."
+            ],
+            "en": [
+              "Watch for winter schedule changes in regional transport.",
+              "Trains are usually well-heated and provide a warm base for your trip.",
+              "Use waiting times for a hot drink at the station.",
+              "Snowfall may cause minor delays; allow for some buffer time."
+            ]
+          }
+        }
       }
     }
   }

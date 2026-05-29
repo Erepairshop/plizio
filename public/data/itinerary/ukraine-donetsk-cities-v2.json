@@ -379,6 +379,214 @@
           "Allow plenty of time for the Art Museum; it's larger than it looks.",
           "Keep a map or navigation app handy."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens schützt die dichte Bebauung der Artema-Straße vor leichtem Regen, bevor die Kathedrale trockenen Unterschlupf bietet. Mittags verlagert sich der Fokus ganz auf das Kunstmuseum, wo man stundenlang im Trockenen bleibt. Nachmittags erfordert der Spaziergang durch die Parks feste Regenschirme. Der Tag endet angenehm in den ufernahen Cafés der Kalmius-Promenade bei warmer Beleuchtung.",
+            "hu": "Reggel az Artyoma utca épületei adnak némi menedéket, majd a székesegyház belső tere nyújt száraz pihenőt. Délben a hangsúly a Művészeti Múzeumra helyeződik, ahol órákig böngészhetünk fedett helyen. Délután a parkok és a kovácsolt vasak kiállítása esernyővel is bejárható. A nap a Kalmiusz-part menti kávézókban és éttermekben zárul, meleg belső térben.",
+            "ro": "Dimineața, clădirile de pe strada Artema oferă adăpost parțial, urmate de interiorul uscat al catedralei. La prânz, atenția se îndreaptă spre Muzeul de Artă, unde puteți petrece ore în șir la adăpost. După-amiaza, plimbarea prin parcuri necesită umbrele solide pentru a admira statuile. Ziua se încheie confortabil în cafenelele de pe faleza râului Kalmius.",
+            "en": "In the morning, the dense buildings of Artema Street offer partial shelter before the cathedral provides a dry refuge. At noon, the focus shifts to the Art Museum, allowing hours of indoor exploration. Afternoon walks through the parks require sturdy umbrellas to enjoy the outdoor art. The day concludes comfortably inside the cozy cafés along the Kalmius embankment."
+          },
+          "stops": [
+            {
+              "name": "Artema Street",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Vordächer der Geschäfte als Regenschutz.",
+                "hu": "Használja az üzletek előtetőit az eső elleni védelemre.",
+                "ro": "Folosiți copertinele magazinelor ca adăpost împotriva ploii.",
+                "en": "Use the shop awnings as temporary shelter from the rain."
+              }
+            },
+            {
+              "name": "Holy Transfiguration Cathedral",
+              "tip_5lang": {
+                "de": "Perfekter Ort für eine längere, trockene Besichtigungpause.",
+                "hu": "Meredek lépcsők helyett bent töltsön el hosszabb időt.",
+                "ro": "Loc perfect pentru o pauză lungă și uscată de vizitare.",
+                "en": "Perfect place for a long, dry sightseeing break inside."
+              }
+            },
+            {
+              "name": "Opera and Ballet Theatre",
+              "tip_5lang": {
+                "de": "Das breite Portal bietet schnellen Schutz vor Schauern.",
+                "hu": "A széles bejárati portikusz kiváló menedék zápor esetén.",
+                "ro": "Portalul lat oferă adăpost rapid în caz de aversă.",
+                "en": "The wide entrance portal provides quick shelter from showers."
+              }
+            },
+            {
+              "name": "Donetsk Art Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe für nasse Mäntel und Schirme.",
+                "hu": "Használja a ruhatárat a nedves kabátok és esernyők számára.",
+                "ro": "Folosiți garderoba pentru haine și umbrele umede.",
+                "en": "Use the cloakroom for wet coats and umbrellas."
+              }
+            },
+            {
+              "name": "Park of Forged Figures",
+              "tip_5lang": {
+                "de": "Die Metallskulpturen glänzen im Regen, Wege sind asphaltiert.",
+                "hu": "A fémszobrok szépen csillognak az esőben, az utak aszfaltozottak.",
+                "ro": "Sculpturile metalice strălucesc în ploaie, aleile sunt asfaltate.",
+                "en": "The metal sculptures gleam in the rain, walkways are paved."
+              }
+            },
+            {
+              "name": "Shcherbakov Park",
+              "tip_5lang": {
+                "de": "Suchen Sie bei starkem Guss Schutz unter den Pavillons.",
+                "hu": "Heves zivatar esetén keressen menedéket a pavilonok alatt.",
+                "ro": "Căutați adăpost sub pavilioane în caz de ploaie torențială.",
+                "en": "Seek shelter under the pavilions during heavy downpours."
+              }
+            },
+            {
+              "name": "Kalmius River Embankment",
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag direkt in einem der ufernahen Cafés.",
+                "hu": "Zárja a napot közvetlenül a vízparti kávézók egyikében.",
+                "ro": "Încheiați ziua direct într-una dintre cafenelele de pe mal.",
+                "en": "End the day directly inside one of the waterfront cafés."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserdichte Wanderschuhe, da sich in den Parks Pfützen bilden können.",
+              "Halten Sie Ihren Regenschirm bei Windböen nahe an den Gebäuden fest.",
+              "Planen Sie mehr Zeit für den Museumsbesuch ein, um Schauer auszusitzen.",
+              "Die Uferpromenade kann bei starkem Regen spritzendes Wasser führen.",
+              "Nutzen Sie die Passage-Bereiche entlang der Artema-Straße zum Aufwärmen."
+            ],
+            "hu": [
+              "Viseljen vízálló gyaloglócipőt, mert a parkokban tócsák alakulhatnak ki.",
+              "Szeles időben tartsa szorosan az esernyőt az épületek közelében.",
+              "Tervezzen hosszabb múzeumlátogatást, hogy kivárja a nagyobb záporokat.",
+              "A vízparti sétányon heves esőzéskor a szél felkorbácsolhatja a vizet.",
+              "Használja ki az Artyoma utca menti átjárókat a felmelegedéshez."
+            ],
+            "ro": [
+              "Purtați pantofi de mers impermeabili, deoarece se pot forma bălți în parcuri.",
+              "Țineți umbrela strâns lângă clădiri în timpul rafalelor de vânt.",
+              "Planificați mai mult timp la muzeu pentru a aștepta trecerea averselor.",
+              "Faleza râului poate fi expusă stropilor de apă în timpul ploilor abundente.",
+              "Folosiți zonele de pasaj de-a lungul străzii Artema pentru a vă încălzi."
+            ],
+            "en": [
+              "Wear waterproof walking shoes as puddles can form quickly in the parks.",
+              "Hold your umbrella firmly when walking near buildings during wind gusts.",
+              "Allocate extra time for the museum visit to wait out heavy downpours.",
+              "The river embankment can be windy and wet during heavy rainfalls.",
+              "Take advantage of the shopping passages along Artema Street to dry off."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen beginnt frisch auf der Artema-Straße, doch die beheizte Kathedrale wärmt die Spaziergänger rasch auf. Mittags bietet das Kunstmuseum eine lange, behagliche Pause abseits der eisigen Temperaturen. Nachmittags zeigt sich der Skulpturenpark unter einer feinen Schneedecke besonders fotogen. Wegen des frühen Sonnenuntergangs um 16:30 Uhr wechselt man bald in die beleuchteten Cafés am Fluss.",
+            "hu": "A téli reggel frissen indul az Artyoma utcán, de a fűtött székesegyház gyorsan felmelegíti a sétálókat. Délben a Művészeti Múzeum nyújt hosszú, barátságos menedéket a jeges hideg elől. Délután a kovácsolt vasak parkja a hó alatt kifejezetten fotogén arcát mutatja. A korai, 16:30-as naplemente miatt a program korán a kivilágított folyóparti kávézókba költözik.",
+            "ro": "Dimineața de iarnă începe geroasă pe strada Artema, dar catedrala încălzită oferă un refugiu termic rapid. La prânz, Muzeul de Artă asigură o pauză lungă și confortabilă departe de frig. După-amiaza, parcul de sculpturi este extrem de fotogenic sub stratul de zăpadă. Din cauza apusului timpuriu de la 16:30, traseul se mută repede în cafenelele luminate.",
+            "en": "The winter morning starts briskly on Artema Street, but the heated cathedral quickly warms up walkers. At noon, the Art Museum offers a long, cozy respite from the freezing temperatures. In the afternoon, the sculpture park appears highly photogenic under a blanket of snow. Due to the early sunset at 16:30, the route quickly transitions into the illuminated riverfront cafés."
+          },
+          "stops": [
+            {
+              "name": "Artema Street",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stellen auf den Gehwegen.",
+                "hu": "Ügyeljen a járdák esetlegesen jeges, csúszós szakaszaira.",
+                "ro": "Atenție la porțiunile înghețate de pe trotuare.",
+                "en": "Watch out for icy patches on the sidewalks."
+              }
+            },
+            {
+              "name": "Holy Transfiguration Cathedral",
+              "tip_5lang": {
+                "de": "Nutzen Sie den beheizten Innenraum zum Aufwärmen.",
+                "hu": "Használja ki a fűtött belső teret a teljes felmelegedéshez.",
+                "ro": "Folosiți interiorul încălzit pentru a vă dezmorți.",
+                "en": "Take advantage of the heated interior to warm up thoroughly."
+              }
+            },
+            {
+              "name": "Opera and Ballet Theatre",
+              "tip_5lang": {
+                "de": "Die beleuchtete Fassade wirkt im Wintergrau imposant.",
+                "hu": "A kivilágított homlokzat impozáns látványt nyújt a téli szürkeségben.",
+                "ro": "Fațada iluminată arată impresionant în griul iernii.",
+                "en": "The illuminated facade looks imposing against the winter gray."
+              }
+            },
+            {
+              "name": "Donetsk Art Museum",
+              "tip_5lang": {
+                "de": "Ideale beheizte Station während der kältesten Mittagsstunden.",
+                "hu": "Ideális fűtött állomás a leghidegebb déli órákban.",
+                "ro": "Stație încălzită ideală în cele mai reci ore ale amiezii.",
+                "en": "Ideal heated stop during the coldest midday hours."
+              }
+            },
+            {
+              "name": "Park of Forged Figures",
+              "tip_5lang": {
+                "de": "Die verschneiten Eisenskulpturen bieten tolle Fotomotive.",
+                "hu": "A havas vaskonstrukciók különleges fotótémát szolgáltatnak.",
+                "ro": "Sculpturile din fier înzăpezite oferă oportunități foto deosebite.",
+                "en": "The snow-covered iron sculptures offer great photo opportunities."
+              }
+            },
+            {
+              "name": "Shcherbakov Park",
+              "tip_5lang": {
+                "de": "Gehen Sie zügig, da der Wind im offenen Park stark abkühlt.",
+                "hu": "Sétáljon tempósan, mert a nyitott parkban a szél erősen hűt.",
+                "ro": "Mergeți în ritm alert, vântul accentuează frigul în parcul deschis.",
+                "en": "Walk briskly as the wind cools down the open park area significantly."
+              }
+            },
+            {
+              "name": "Kalmius River Embankment",
+              "tip_5lang": {
+                "de": "Der Fluss kann teilweise zugefroren sein, warme Kleidung nötig.",
+                "hu": "A folyó részben be fagyhat, szélálló meleg ruházat kötelező.",
+                "ro": "Râul poate fi parțial înghețat, este necesară îmbrăcăminte groasă.",
+                "en": "The river might be partially frozen; windproof warm clothing is a must."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Winter bereits gegen 16:30 Uhr unter, planen Sie das Tageslicht ein.",
+              "Tragen Sie Schuhe mit rutschfestem Profil für die verschneiten Parkwege.",
+              "Nutzen Sie Kirchen und Museen strategisch als Wärmestationen.",
+              "Der Wind am Kalmius-Ufer kann die gefühlte Temperatur stark senken.",
+              "Nehmen Sie eine Thermoskanne mit einem heißen Getränk für die Parkspaziergänge mit."
+            ],
+            "hu": [
+              "A nap télen már 16:30 körül lemegy, kalkuláljon a korai sötétedéssel.",
+              "Viseljen csúszásmentes talpú cipőt a havas parki sétányokhoz.",
+              "Használja a templomokat és múzeumokat stratégiai melegedőpontként.",
+              "A Kalmiusz-parti szél jelentősen csökkentheti a hőérzetet.",
+              "Vigyen magával meleg teát termoszházban a parki szakaszokra."
+            ],
+            "ro": [
+              "Soarele apune în jur de 16:30 iarna, planificați traseul în funcție de lumină.",
+              "Purtați încălțăminte cu talpă antiderapantă pentru aleile înzăpezite.",
+              "Folosiți bisericile și muzeele ca stații strategice de încălzire.",
+              "Vântul de pe malul râului Kalmius poate scădea mult temperatura resimțită.",
+              "Luați un termos cu băutură caldă pentru plimbările prin parcuri."
+            ],
+            "en": [
+              "The sun sets around 16:30 in winter, so maximize the limited daylight hours.",
+              "Wear boots with good grip for the snow-covered park pathways.",
+              "Use churches and the art museum strategically as heating stations.",
+              "The wind along the Kalmius riverbank can lower the perceived temperature vastly.",
+              "Carry a thermos with a hot beverage for the outdoor park segments."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -752,6 +960,214 @@
           "Bring a good lock to secure your bike.",
           "A bottle of water is essential on a bike tour."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Radfahren auf der Artema-Straße erfordert bei Regen erhöhte Vorsicht vor Rutschgefahr. Mittags bieten der geschützte Skulpturenpark und die Donbass-Arena gute Orientierungspunkte mit asphaltierten Wegen. Nachmittags führt die Route zügig am windigen Kalmius-Ufer entlang zur Kathedrale. Die Tour schließt nach den nassen Parkwegen entspannt am Opernhaus ab, wo warme Innenräume warten.",
+            "hu": "Az Artyoma utcai kerékpározás esőben fokozott figyelmet követel a csúszásveszély miatt. Délben a védettebb szoborpark és a Donbassz Aréna aszfaltozott útjai jó támpontot adnak. Délután a kerékpárút tempósan halad a szeles Kalmiusz-parton át a katedrális felé. A túra a nedves parki szakaszok után az Operaháznál zárul, ahol meleg belső terek várnak.",
+            "ro": "Ciclismul pe strada Artema pe timp de ploaie necesită atenție sporită din cauza riscului de derapare. La prânz, parcul de sculpturi și Donbass Arena oferă repere bune cu alei asfaltate. După-amiaza, traseul rulează rapid pe faleza vântoasă spre catedrală. Turul se încheie relaxat lângă Operă, după parcurgerea aleilor umede din parcuri.",
+            "en": "Cycling on Artema Street in the rain demands extra caution due to slippery surfaces. At noon, the forged figures park and the Donbass Arena offer reliable paved routes with minor shelter. In the afternoon, the itinerary moves quickly along the windy Kalmius bank toward the cathedral. The tour finishes smoothly near the Opera House after navigating the wet park lanes."
+          },
+          "stops": [
+            {
+              "name": "Artema Street",
+              "tip_5lang": {
+                "de": "Vorsicht beim Überqueren von nassen Fahrbahnmarkierungen.",
+                "hu": "Óvatosan haladjon át a nedves útburkolati jeleken.",
+                "ro": "Atenție sporită la traversarea marcajelor rutiere umede.",
+                "en": "Exercise caution when crossing wet road markings."
+              }
+            },
+            {
+              "name": "Park of Forged Figures",
+              "tip_5lang": {
+                "de": "Asphaltierte Wege erlauben sicheres Fahren trotz Nässe.",
+                "hu": "Az aszfaltozott utak biztonságos haladást nyújtanak esőben is.",
+                "ro": "Aleile asfaltate permit rularea în siguranță în ciuda ploii.",
+                "en": "Paved pathways allow safe riding despite the rainy conditions."
+              }
+            },
+            {
+              "name": "Donbass Arena",
+              "tip_5lang": {
+                "de": "Das Stadiondach bietet am Rand guten Schutz vor Regen.",
+                "hu": "A stadion tetőszerkezete a peremeken jó szélvédelmet nyújt.",
+                "ro": "Copertina stadionului oferă adăpost bun împotriva ploii la margini.",
+                "en": "The stadium roof overhang offers good rain shelter at the edges."
+              }
+            },
+            {
+              "name": "Kalmius River Embankment",
+              "tip_5lang": {
+                "de": "Achten Sie auf Pfützen auf dem ufernahen Radweg.",
+                "hu": "Ügyeljen a tócsákra a vízparti kerékpárúton.",
+                "ro": "Atenție la bălțile de pe pista de biciclete de pe mal.",
+                "en": "Watch out for deep puddles on the waterfront bike path."
+              }
+            },
+            {
+              "name": "Holy Transfiguration Cathedral",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad geschützt ab für eine Innenpause.",
+                "hu": "Parkolja le a kerékpárt védett helyen egy benti szünetre.",
+                "ro": "Parcați bicicleta într-un loc ferit pentru o pauză în interior.",
+                "en": "Park your bike in a sheltered spot for an indoor break."
+              }
+            },
+            {
+              "name": "Shcherbakov Park",
+              "tip_5lang": {
+                "de": "Reduzieren Sie das Tempo auf von Laub bedeckten Wegen.",
+                "hu": "Csökkentse a sebességet a vizes levelekkel borított utakon.",
+                "ro": "Reduceți viteza pe aleile acoperite de frunze umede.",
+                "en": "Reduce your speed on paths covered with wet autumn leaves."
+              }
+            },
+            {
+              "name": "Opera and Ballet Theatre",
+              "tip_5lang": {
+                "de": "Endstation mit Fahrradständern nahe trockener Cafés.",
+                "hu": "Végállomás kerékpártárolókkal a száraz kávézók közelében.",
+                "ro": "Stație finală cu rastele de biciclete aproape de cafenele.",
+                "en": "Final stop with bike racks close to dry, warm cafés."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Verwenden Sie unbedingt Schutzbleche, um Spritzwasser zu vermeiden.",
+              "Bremsen Sie auf nassem Pflaster frühzeitig und materialschonend.",
+              "Tragen Sie vollkommen wasserdichte Regenbekleidung und Handschuhe.",
+              "Meiden Sie erdige Nebenwege in den großen Parks komplett.",
+              "Überprüfen Sie vor der Abfahrt die Funktionstüchtigkeit der Fahrradbeleuchtung."
+            ],
+            "hu": [
+              "Mindenképpen használjon sárvédőt a felverődő víz ellen.",
+              "A nedves macskaköveken fékezzen időben és óvatosan.",
+              "Viseljen teljesen vízálló esőkabátot és vízhatlan nadrágot.",
+              "Kerülje el teljesen a földes mellékutakat a nagy parkokban.",
+              "Indulás előtt ellenőrizze a kerékpáros világítás működését."
+            ],
+            "ro": [
+              "Folosiți neapărat apărători de noroi pentru a evita stropirea.",
+              "Frânați din timp și cu prudență pe pavajul umed.",
+              "Purtați echipament de ploaie complet impermeabil și mănuși.",
+              "Evitați complet potecile de pământ din marile parcuri.",
+              "Verificați funcționarea luminilor bicicletei înainte de plecare."
+            ],
+            "en": [
+              "Make sure to use mudguards to prevent water from splashing up.",
+              "Brake early and gently on wet cobblestones to avoid skidding.",
+              "Wear fully waterproof rain gear including jacket and trousers.",
+              "Avoid unpaved side paths in the large parks entirely during rain.",
+              "Check the proper functionality of your bike lights before starting."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Radtour startet frostig auf der Artema-Straße, wo geräumte Wege wichtig sind. Mittags geht es über den verschneiten Skulpturenpark zur Donbass-Arena, deren weite Asphaltflächen meist gut befahrbar bleiben. Nachmittags fordert der eisige Wind am Kalmius-Ufer warme Kleidung, bevor die Kathedrale Aufwärmung verspricht. Die Tour endet sportlich im Dämmerungslicht an der Oper.",
+            "hu": "A téli kerékpáros túra fagyosan indul az Artyoma utcán, ahol a letakarított utak elengedhetetlenek. Délben a havas szoborparkon át haladunk a Donbassz Aréna felé, melynek tágas aszfaltfelületei jól járhatóak. Délután a Kalmiusz-parti jeges szél meleg ruhát követel, mielőtt a katedrális menedéket adna. A túra sportosan zárul a sötétedő Operaháznál.",
+            "ro": "Turul cu bicicleta pe timp de iarnă începe geros pe strada Artema, unde pistele curățate sunt esențiale. La prânz, se trece prin parcul de sculpturi înzăpezit spre Donbass Arena, ale cărei suprafețe sunt practicabile. După-amiaza, vântul înghețat de pe malul râului impune haine groase înainte de oprirea la catedrală. Turul se termină la Operă.",
+            "en": "A winter bike tour kicks off frostily on Artema Street, where cleared lanes are crucial. At noon, the route leads through the snowy sculpture park to Donbass Arena, whose vast paved spaces remain mostly ridable. In the afternoon, freezing winds along the Kalmius bank demand heavy layers before the cathedral offers warmth. The tour concludes at the darkening Opera."
+          },
+          "stops": [
+            {
+              "name": "Artema Street",
+              "tip_5lang": {
+                "de": "Vorsicht vor unsichtbarem Black Ice auf den Straßen.",
+                "hu": "Óvakodjon a láthatatlan fekete jégtől az úttesten.",
+                "ro": "Atenție la gheața neagră insesizabilă de pe carosabil.",
+                "en": "Watch out for invisible black ice on the roadway."
+              }
+            },
+            {
+              "name": "Park of Forged Figures",
+              "tip_5lang": {
+                "de": "Hauptwege sind oft geräumt, Nebenwege meiden.",
+                "hu": "A főutakat gyakran takarítják, a mellékutakat kerülje el.",
+                "ro": "Aleile principale sunt curățate, evitați potecile lăturalnice.",
+                "en": "Main paths are often cleared; avoid snow-covered side tracks."
+              }
+            },
+            {
+              "name": "Donbass Arena",
+              "tip_5lang": {
+                "de": "Große, offene Asphaltflächen können windig und glatt sein.",
+                "hu": "A nagy, nyitott aszfaltfelületek szelesek és csúszósak lehetnek.",
+                "ro": "Spațiile largi deschise pot fi foarte vântoase și alunecoase.",
+                "en": "Vast open paved areas can be very windy and slippery."
+              }
+            },
+            {
+              "name": "Kalmius River Embankment",
+              "tip_5lang": {
+                "de": "Extremer Gegenwind möglich, warme Handschuhe sind Pflicht.",
+                "hu": "Erős szembe-szél lehetséges, a meleg kesztyű kötelező.",
+                "ro": "Vânt puternic din față, mănușile groase sunt obligatorii.",
+                "en": "Strong headwind possible; warm winter gloves are mandatory."
+              }
+            },
+            {
+              "name": "Holy Transfiguration Cathedral",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Rast für eine ausgiebige Aufwärmpause drinnen.",
+                "hu": "Használja ki a pihenőt egy kiadós benti melegedésre.",
+                "ro": "Folosiți oprirea pentru o pauză lungă de încălzire în interior.",
+                "en": "Use this stop for an extended indoor warming break."
+              }
+            },
+            {
+              "name": "Shcherbakov Park",
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig bei Schneeübergängen auf den Brücken.",
+                "hu": "Közlekedjen óvatosan a hidak havas átkelőinél.",
+                "ro": "Rulați cu atenție sporită pe podurile acoperite de zăpadă.",
+                "en": "Ride carefully across snow-packed bridge crossings in the park."
+              }
+            },
+            {
+              "name": "Opera and Ballet Theatre",
+              "tip_5lang": {
+                "de": "Schließen Sie das Rad schnell ab und gehen Sie ins Warme.",
+                "hu": "Zárja le gyorsan a biciklit, és siessen fűtött helyre.",
+                "ro": "Legați rapid bicicleta și îndreptați-vă spre căldură.",
+                "en": "Lock your bike quickly and head into a heated environment."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermo-Unterwäsche und winddichte Außenbekleidung.",
+              "Senken Sie den Reifendruck leicht für eine bessere Haftung auf Schnee.",
+              "Achten Sie auf das frühe Schwinden des Tageslichts ab 16:00 Uhr.",
+              "Halten Sie die Kette gut geschmiert gegen Streusalzschäden.",
+              "Vermeiden Sie abruptes Lenken oder starkes Abbremsen in Kurven."
+            ],
+            "hu": [
+              "Viseljen hőtartó aláöltözetet és szélálló külső ruházatot.",
+              "Csökkentse kissé a gumi nyomását a jobb tapadásért a havon.",
+              "Ügyeljen a nappali fény korai, 16:00 utáni csökkenésére.",
+              "Tartsa a láncot jól kenve a lúgos hólé és só ellen.",
+              "Kerülje el a hirtelen kanyarodást vagy erős fékezést íveken."
+            ],
+            "ro": [
+              "Purtați lenjerie termică și îmbrăcăminte exterioară anti-vânt.",
+              "Reduceți ușor presiunea din pneuri pentru aderență pe zăpadă.",
+              "Țineți cont de scăderea rapidă a luminii după ora 16:00.",
+              "Păstrați lanțul bine lubrifiat împotriva efectului sării rutiere.",
+              "Evitați virajele bruște sau frânarea violentă pe porțiunile curbate."
+            ],
+            "en": [
+              "Wear thermal base layers and windproof outer cycling gear.",
+              "Lower your tire pressure slightly for better traction on packed snow.",
+              "Be mindful of the rapidly fading daylight after 16:00.",
+              "Keep the bike chain well-lubricated against road salt damage.",
+              "Avoid abrupt steering movements or hard braking while turning."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1156,6 +1572,232 @@
           "The car allows you to reach sights slightly further out.",
           "Check parking regulations carefully to avoid fines."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Autotour bietet bei Regen idealen Komfort. Nach dem Parken an der Oper geht es schnell zum Skulpturenpark und weiter über die Artema-Straße. Mittags schützt das Auto vor schweren Schauern auf dem Weg zur Kathedrale. Nachmittags ermöglicht die Fahrt zur Donbass-Arena und zum Shcherbakov-Park flexible Stopps, bevor der Tag bei einem gemütlichen Abendessen am Kalmius-Ufer ausklingt.",
+            "hu": "Az autós túra esős időben maximális komfortot nyújt. Az operaházi parkolás után gyorsan elérhető a szoborpark, majd az Artyoma utca. Délben a gépkocsi megvédi a látogatókat a komolyabb záporoktól a székesegyház felé haladva. Délután a Donbassz Aréna és a Scserbakov park felé vezető út rugalmas megállókat biztosít, míg a nap a Kalmiusz-parti vacsorával zárul.",
+            "ro": "Turul cu mașina oferă confort maxim pe timp de ploaie. După parcarea de la Operă, se ajunge rapid la parcul de sculpturi și pe strada Artema. La prânz, vehiculul protejează pasagerii de aversele puternice în drum spre catedrală. După-amiaza, deplasarea spre Donbass Arena și parcul Shcherbakov permite opriri flexibile, iar ziua se încheie cu o cină pe faleză.",
+            "en": "The car tour provides maximum comfort during rainy weather. After parking near the Opera, you can quickly reach the sculpture park and Artema Street. At noon, the vehicle shields you from heavy downpours on the way to the cathedral. Afternoon drives to Donbass Arena and Shcherbakov Park allow flexible stops, leading to a pleasant dinner along the Kalmius embankment."
+          },
+          "stops": [
+            {
+              "name": "Parking at the Opera House",
+              "tip_5lang": {
+                "de": "Zentraler, asphaltierter Parkplatz, ideal bei Regen.",
+                "hu": "Központi, aszfaltozott parkoló, esőben ideális kiindulópont.",
+                "ro": "Parcare centrală asfaltată, punct de pornire ideal pe ploaie.",
+                "en": "Central paved parking lot, ideal starting point in the rain."
+              }
+            },
+            {
+              "name": "Opera and Ballet Theatre",
+              "tip_5lang": {
+                "de": "Nur wenige Schritte vom Parkplatz bis zum Haupteingang.",
+                "hu": "Csak pár lépés a parkolótól a főbejáratig.",
+                "ro": "Doar câțiva pași de la parcare până la intrarea principală.",
+                "en": "Just a few steps from the parking zone to the main entrance."
+              }
+            },
+            {
+              "name": "Park of Forged Figures",
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe, um Gehzeiten im Regen zu minimieren.",
+                "hu": "Parkoljon a közelben, hogy minimalizálja az esőben gyaloglást.",
+                "ro": "Parcați în apropiere pentru a reduce mersul prin ploaie.",
+                "en": "Park nearby to minimize walking distance in the wet weather."
+              }
+            },
+            {
+              "name": "Artema Street",
+              "tip_5lang": {
+                "de": "Nutzen Sie bewachte Parkbuchten entlang der Hauptstraße.",
+                "hu": "Használja a főút menti kijelölt parkolósávokat.",
+                "ro": "Folosiți locurile de parcare amenajate de-a lungul străzii.",
+                "en": "Use the designated parking bays along the main street."
+              }
+            },
+            {
+              "name": "Holy Transfiguration Cathedral",
+              "tip_5lang": {
+                "de": "Der Vorplatz hat Parkmöglichkeiten, Vorsicht beim Aussteigen.",
+                "hu": "A főtérnél vannak parkolóhelyek, óvatosan szálljon ki.",
+                "ro": "Există locuri de parcare lângă piață, atenție la coborâre.",
+                "en": "Parking spaces available near the square; watch your step."
+              }
+            },
+            {
+              "name": "Drive to Donbass Arena",
+              "tip_5lang": {
+                "de": "Großer Stadionparkplatz bietet kurzen Weg zum Umfeld.",
+                "hu": "A nagy stadionparkoló rövid sétát biztosít az épületig.",
+                "ro": "Parcarea mare a stadionului asigură acces rapid în zonă.",
+                "en": "The large stadium parking area ensures a short walk nearby."
+              }
+            },
+            {
+              "name": "Drive to Shcherbakov Park",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz am Haupteingang des Parks.",
+                "hu": "Használja a park főbejáratánál található parkolót.",
+                "ro": "Folosiți parcarea de la intrarea principală a parcului.",
+                "en": "Utilize the parking lot located at the main park entrance."
+              }
+            },
+            {
+              "name": "Dinner at the Kalmius Embankment",
+              "tip_5lang": {
+                "de": "Suchen Sie Restaurants mit hauseigenem Parkplatz.",
+                "hu": "Keressen saját parkolóval rendelkező vízparti éttermeket.",
+                "ro": "Căutați restaurante cu parcare privată pe faleză.",
+                "en": "Look for waterfront restaurants with private parking facilities."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf den breiten Hauptverkehrsstraßen.",
+              "Halten Sie Kleingeld oder Park-Apps für die Innenstadt bereit.",
+              "Nutzen Sie die Scheibenwisch-Automatik bei starkem Gischtverkehr.",
+              "Vermeiden Sie das Parken unter alten Bäumen bei Sturmböen.",
+              "Planen Sie Stoßzeiten ein, da Regen oft dichten Verkehr verursacht."
+            ],
+            "hu": [
+              "Ügyeljen az aquaplaning veszélyére a széles főutakon.",
+              "Készítsen elő aprópénzt vagy parkolási appot a belvároshoz.",
+              "Használja az ablaktörlők maximális fokozatát sűrű szembejövő forgalomban.",
+              "Kerülje el a viharos szélben az idős fák alatti parkolást.",
+              "Számoljon a csúcsforgalommal, mert az eső lassítja a várost."
+            ],
+            "ro": [
+              "Atenție la fenomenul de acvaplanare pe marile bulevarde.",
+              "Pregătiți fise sau aplicația de parcare pentru zona centrală.",
+              "Folosiți ștergătoarele la viteză adecvată în trafic intens.",
+              "Evitați parcarea sub copaci bătrâni în caz de vijelie.",
+              "Planificați timp suplimentar, ploaia aglomerează traficul rutier."
+            ],
+            "en": [
+              "Watch out for aquaplaning risks on the wide main avenues.",
+              "Keep small change or local parking apps ready for downtown zones.",
+              "Set your windshield wipers to maximum during heavy spray from traffic.",
+              "Avoid parking under old trees during severe wind gusts.",
+              "Anticipate delays as rainy conditions often increase traffic density."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Fahrt durch Donezk schützt perfekt vor eisigen Temperaturen. Nach dem sicheren Parken an der Oper führt der Weg über die Artema-Straße zur Kathedrale. Mittags sorgt die beheizte Fahrt zur Donbass-Arena für angenehme Wärme. Nachmittags wird der Shcherbakov-Park im Schnee besichtigt, bevor das Auto direkt an ein gemütliches Restaurant am Kalmius-Ufer steuert.",
+            "hu": "A téli autós utazás Doneckben tökéletes védelmet nyújt a fagyos hőmérséklet ellen. Az operaházi biztonságos parkolás után az út az Artyoma utcán át a székesegyházhoz vezet. Délben a fűtött autó utastere kellemes meleget biztosít a Donbassz Aréna felé menet. Délután a havas Scserbakov parkot látogatjuk meg, majd a gépkocsi egy vízparti étteremnél áll meg.",
+            "ro": "Călătoria de iarnă prin Donețk protejează perfect împotriva temperaturilor înghețate. După parcarea sigură de la Operă, traseul duce pe strada Artema către catedrală. La prânz, habitaclul încălzit asigură confort în drum spre Donbass Arena. După-amiaza se vizitează parcul Shcherbakov înzăpezit, apoi mașina oprește direct la un restaurant pe malul râului.",
+            "en": "The winter drive through Donetsk shields you perfectly from the freezing cold. After parking safely near the Opera, the route follows Artema Street toward the cathedral. At noon, the heated car interior keeps you warm on the way to Donbass Arena. In the afternoon, explore the snowy Shcherbakov Park, then drive directly to a cozy restaurant on the Kalmius bank."
+          },
+          "stops": [
+            {
+              "name": "Parking at the Opera House",
+              "tip_5lang": {
+                "de": "Verschneite Markierungen beachten, defensiv einparken.",
+                "hu": "A havas burkolati jelekre ügyeljen, óvatosan parkoljon le.",
+                "ro": "Atenție la marcajele acoperite de zăpadă, parcați prudent.",
+                "en": "Mind the snow-covered markings; park with extra caution."
+              }
+            },
+            {
+              "name": "Opera and Ballet Theatre",
+              "tip_5lang": {
+                "de": "Der Vorplatz kann glatt sein, Winterschuhe tragen.",
+                "hu": "A színház előtti tér csúszós lehet, hordjon téli cipőt.",
+                "ro": "Piațeta poate fi alunecoasă, purtați încălțăminte de iarnă.",
+                "en": "The theatre forecourt can be slippery; wear proper winter boots."
+              }
+            },
+            {
+              "name": "Park of Forged Figures",
+              "tip_5lang": {
+                "de": "Nutzen Sie geräumte Straßenränder für den kurzen Stopp.",
+                "hu": "Használja a letakarított útpadkát a rövid megállóhoz.",
+                "ro": "Folosiți marginile curățate ale drumului pentru oprire.",
+                "en": "Use cleared roadside spots for a brief drop-off close by."
+              }
+            },
+            {
+              "name": "Artema Street",
+              "tip_5lang": {
+                "de": "Hauptstraße ist gut geräumt, auf Schneematsch achten.",
+                "hu": "A főút jól takarított, de a latyakra figyelni kell.",
+                "ro": "Strada principală este deszăpezită, atenție la fleșcăială.",
+                "en": "The main street is well cleared, but watch out for slush."
+              }
+            },
+            {
+              "name": "Holy Transfiguration Cathedral",
+              "tip_5lang": {
+                "de": "Heizung im Auto laufen lassen bei kurzen Stopps.",
+                "hu": "A rövid megálló idejére is hagyja fűtve a gépjárművet.",
+                "ro": "Păstrați căldura în mașină pe durata opririlor scurte.",
+                "en": "Keep the car interior warm even during brief stops."
+              }
+            },
+            {
+              "name": "Drive to Donbass Arena",
+              "tip_5lang": {
+                "de": "Die Zufahrten sind meist gestreut, vorsichtig fahren.",
+                "hu": "A stadionhoz vezető utak többnyire sózottak, vezessen óvatosan.",
+                "ro": "Căile de acces sunt de obicei sate, conduceți prudent.",
+                "en": "Access roads are mostly salted; drive at a moderate speed."
+              }
+            },
+            {
+              "name": "Drive to Shcherbakov Park",
+              "tip_5lang": {
+                "de": "Einfahrt kann eisig sein, niedrigen Gang wählen.",
+                "hu": "A parkoló bejárata jeges lehet, váltson alacsony fokozatba.",
+                "ro": "Intrarea în parcare poate fi înghețată, folosiți treaptă inferioară.",
+                "en": "The parking entrance might be icy; shift to a lower gear."
+              }
+            },
+            {
+              "name": "Dinner at the Kalmius Embankment",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Restaurant wegen starkem Uferwind.",
+                "hu": "Parkoljon közel az étteremhez az erős vízparti szél miatt.",
+                "ro": "Parcați aproape de restaurant din cauza vântului de pe mal.",
+                "en": "Park close to the restaurant venue due to harsh waterfront winds."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen und ausreichende Frostschutzmittel sind zwingend nötig.",
+              "Vermeiden Sie abrupte Bremsmanöver auf Brücken über den Kalmius.",
+              "Nutzen Sie die Standheizung oder Sitzheizung für schnellen Komfort.",
+              "Planen Sie Fahrten vor dem frühen Einbruch der Dunkelheit um 16:30 Uhr.",
+              "Achten Sie auf Streufahrzeuge und halten Sie ausreichend Abstand."
+            ],
+            "hu": [
+              "Téli gumiabroncsok és megfelelő fagyálló folyadék kötelező.",
+              "Kerülje el a hirtelen fékezést a Kalmiusz feletti hidakon.",
+              "Használja az ülésfűtést a gyors és komfortos melegedéshez.",
+              "Tervezze a vezetést a korai, 16:30-as sötétség beállta előtt.",
+              "Ügyeljen a szóróautókra, és tartson megfelelő követési távolságot."
+            ],
+            "ro": [
+              "Anvelopele de iarnă și lichidul de parbriz antigel sunt obligatorii.",
+              "Evitați frânarea bruscă pe podurile peste râul Kalmius.",
+              "Folosiți încălzirea în scaune pentru un confort termic rapid.",
+              "Planificați deplasarea înainte de lăsarea întunericului la 16:30.",
+              "Atenție la utilajele de deszăpezire, păstrați distanța de siguranță."
+            ],
+            "en": [
+              "Winter tires and adequate windshield anti-freeze are strictly required.",
+              "Avoid sudden braking maneuvers on bridges over the Kalmius river.",
+              "Use seat heaters or climate control for rapid thermal comfort.",
+              "Complete most of the driving before the early nightfall at 16:30.",
+              "Watch out for salt gritter trucks and maintain a safe distance."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1560,6 +2202,232 @@
           "Keep small change ready for tickets.",
           "Ask locals for the right bus or trolleybus line; they are happy to help."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit den öffentlichen Verkehrsmitteln lässt sich Donezk auch bei Regen gut erkunden. Die Haltestelle 'Universität' bietet einen strategischen Startpunkt nahe der Artema-Straße. Mittags wechseln sich Busfahrten zum Opernhaus und der Kathedrale ab, was lange Gehzeiten im Regen verhindert. Der Nachmittag im Kunstmuseum und der Donbass-Arena bleibt trocken, bevor die Tour im Shcherbakov-Park endet.",
+            "hu": "A tömegközlekedéssel Doneck esőben is kényelmesen felfedezhető. Az 'Egyetem' megálló stratégiai kezdőpont az Artyoma utca közelében. Délben buszos szakaszok kötik össze az Operaházat és a székesegyházat, minimalizálva az esőben gyaloglást. A délután a Művészeti Múzeumban és az Arénában szárazon telik, mielőtt a program a Scserbakov parknál zárulna.",
+            "ro": "Cu transportul public, Donețkul poate fi explorat confortabil și pe ploaie. Stația „Universitate” oferă un punct de pornire strategic lângă strada Artema. La prânz, rutele de autobuz fac legătura între Operă și catedrală, evitând mersul lung prin ploaie. După-amiaza la muzeu și Arenă rămâne uscată, înainte de finalul din parcul Shcherbakov.",
+            "en": "Public transit allows a comfortable exploration of Donetsk even during rainy days. The 'University' stop provides a strategic starting node close to Artema Street. At noon, bus rides connect the Opera House and the cathedral, avoiding long walks in the rain. The afternoon spent inside the Art Museum and the Arena stays dry before finishing near Shcherbakov Park."
+          },
+          "stops": [
+            {
+              "name": "Arrival at 'University' Stop",
+              "tip_5lang": {
+                "de": "Überdachte Haltestelle, ideal zum Abwarten von Schauern.",
+                "hu": "Fedett buszmegálló, kiváló az eső elöli menedékre.",
+                "ro": "Stație de autobuz acoperită, excelentă pentru adăpost.",
+                "en": "Covered transit stop, excellent for waiting out passing showers."
+              }
+            },
+            {
+              "name": "Artema Street",
+              "tip_5lang": {
+                "de": "Mehrere Buslinien kreuzen hier, kurze Taktzeiten.",
+                "hu": "Számos buszjárat keresztezi az utcát, sűrű a követési idő.",
+                "ro": "Numeroase linii de autobuz trec pe aici, intervale scurte.",
+                "en": "Multiple bus lines cross here, ensuring short waiting times."
+              }
+            },
+            {
+              "name": "Opera and Ballet Theatre",
+              "tip_5lang": {
+                "de": "Haltestelle liegt fast direkt vor dem Theatergebäude.",
+                "hu": "A megálló szinte közvetlenül a színház épülete előtt található.",
+                "ro": "Stația se află aproape direct în fața clădirii teatrului.",
+                "en": "The transit stop is located almost directly outside the theatre."
+              }
+            },
+            {
+              "name": "Trip to the Cathedral",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Trolleybus für eine trockene Fahrt.",
+                "hu": "Használja a trolibuszt a teljesen száraz utazás érdekében.",
+                "ro": "Folosiți troleibuzul pentru o călătorie complet uscată.",
+                "en": "Take the trolleybus for a fully dry and comfortable ride."
+              }
+            },
+            {
+              "name": "Donetsk Art Museum",
+              "tip_5lang": {
+                "de": "Haltestelle in Gehweite, Schirm auf dem kurzen Weg nötig.",
+                "hu": "A megálló sétatávolságra van, esernyő szükséges a rövid úton.",
+                "ro": "Stația este aproape, aveți nevoie de umbrelă pentru drum.",
+                "en": "The stop is within walking distance; umbrella needed for the short walk."
+              }
+            },
+            {
+              "name": "Trip to Donbass Arena",
+              "tip_5lang": {
+                "de": "Direkte Busverbindung schützt vor nassen Wegen.",
+                "hu": "A közvetlen buszkapcsolat megóv a hosszú, vizes gyaloglástól.",
+                "ro": "Legătura directă de autobuz vă scutește de mersul prin ploaie.",
+                "en": "Direct bus connection protects you from walking along wet streets."
+              }
+            },
+            {
+              "name": "Park of Forged Figures",
+              "tip_5lang": {
+                "de": "Nahegelegene Haltestellen bieten Schutzmöglichkeiten.",
+                "hu": "A közeli megállók beállóit használhatja menedékként.",
+                "ro": "Puteți folosi copertinele stațiilor din apropiere ca adăpost.",
+                "en": "You can use the shelters of nearby stops for quick cover."
+              }
+            },
+            {
+              "name": "Trip to Shcherbakov Park",
+              "tip_5lang": {
+                "de": "Letzte Fahrt führt direkt zum großen Parkeingang.",
+                "hu": "Az utolsó utazás közvetlenül a park főbejáratához visz.",
+                "ro": "Ultima călătorie vă duce direct la intrarea principală.",
+                "en": "The final transit ride drops you directly at the main park entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie Fahrkarten vorab elektronisch, um Wartezeiten zu vermeiden.",
+              "Halten Sie an den Haltestellen Abstand zum Fahrbahnrand wegen Spritzwasser.",
+              "Nutzen Sie die Fahrpläne in Echtzeit über lokale Nahverkehrs-Apps.",
+              "Fahrzeuge können bei starkem Regen aufgrund von Staus verspätet sein.",
+              "Tragen Sie wasserfeste Kleidung für die kurzen Umsteigewege."
+            ],
+            "hu": [
+              "Vásárolja meg a jegyeket előre elektronikusan a sorban állás elkerülésére.",
+              "A megállókban álljon távolabb a padkától a felverődő víz miatt.",
+              "Kövesse a menetrendet valós időben a helyi közlekedési appokon.",
+              "A járművek heves esőzéskor a dugók miatt késést halmozhatnak fel.",
+              "Viseljen vízálló ruházatot a rövid átszállási szakaszokra."
+            ],
+            "ro": [
+              "Cumpărați biletele în avans electronic pentru a evita așteptarea.",
+              "În stații, stați mai departe de bordură din cauza stropilor de apă.",
+              "Urmăriți orarul în timp real prin aplicațiile locale de transport.",
+              "Vehiculele pot avea întârzieri în timpul ploilor abundente din cauza traficului.",
+              "Purtați haine impermeabile pentru perioadele scurte de transfer."
+            ],
+            "en": [
+              "Purchase transit tickets in advance electronically to save time.",
+              "Stand back from the curb at stops to avoid splashes from passing cars.",
+              "Track schedules in real-time using local public transport apps.",
+              "Vehicles might accumulate delays during heavy rain due to gridlocks.",
+              "Wear waterproof clothing for the brief transfer walks between lines."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Nahverkehr in Donezk bietet im Winter eine beheizte Zuflucht zwischen den Sehenswürdigkeiten. Von der Haltestelle 'Universität' geht es zügig über die Artema-Straße. Mittags verbinden Trolleybusse die Oper, die Kathedrale und das Kunstmuseum ohne lange Kältepausen. Nachmittags bringt der Bus die Besucher komfortabel zur Donbass-Arena und schließlich zum verschneiten Shcherbakov-Park.",
+            "hu": "A donecki tömegközlekedés télen fűtött menedéket nyújt a látnivalók között. Az 'Egyetem' megállótól gyorsan elérhető az Artyoma utca. Délben trolibuszok kötik össze az Operát, a katedrálist és a múzeumot, elkerülve a hosszú hidegben tartózkodást. Délután a buszjárat kényelmesen szállítja a látogatókat a Donbassz Arénához, majd a havas Scserbakov parkhoz.",
+            "ro": "Transportul în comun din Donețk oferă un refugiu încălzit între obiective pe timp de iarnă. De la stația „Universitate” se ajunge rapid pe strada Artema. La prânz, troleibuzele conectează Opera, catedrala și muzeul, evitând expunerea lungă la frig. După-amiaza, autobuzul transportă confortabil vizitatorii la Donbass Arena și la parcul Shcherbakov.",
+            "en": "Public transit in Donetsk offers a well-heated refuge between sightseeing spots in winter. From the 'University' stop, quickly access Artema Street. At noon, trolleybuses link the Opera, cathedral, and art museum without long exposures to the freezing air. In the afternoon, bus services transport visitors comfortably to Donbass Arena and the snowy Shcherbakov Park."
+          },
+          "stops": [
+            {
+              "name": "Arrival at 'University' Stop",
+              "tip_5lang": {
+                "de": "Bereiten Sie sich auf den Kältewechsel beim Aussteigen vor.",
+                "hu": "Készüljön fel a hideg levegőre a fűtött járműből való kiszálláskor.",
+                "ro": "Pregătiți-vă pentru aerul rece la coborârea din vehicul.",
+                "en": "Prepare for the cold air when stepping out of the heated vehicle."
+              }
+            },
+            {
+              "name": "Artema Street",
+              "tip_5lang": {
+                "de": "Haltestellenbereiche können durch festgetretenen Schnee glatt sein.",
+                "hu": "A megállók környéke a letaposott hótól csúszós lehet.",
+                "ro": "Zona stațiilor poate fi alunecoasă din cauza zăpezii bătătorite.",
+                "en": "Transit stop areas can be slippery due to packed snow."
+              }
+            },
+            {
+              "name": "Opera and Ballet Theatre",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg zur Haltestelle schont die Kräfte bei Frost.",
+                "hu": "A megállóhoz vezető rövid séta kíméli az erőt a nagy fagyban.",
+                "ro": "Distanța scurtă până la stație protejează împotriva gerului.",
+                "en": "The short walk to the stop conserves energy during deep frost."
+              }
+            },
+            {
+              "name": "Trip to the Cathedral",
+              "tip_5lang": {
+                "de": "Trolleybusse sind im Winter gut beheizt, Jacke geschlossen halten.",
+                "hu": "A trolibuszok télen jól fűtöttek, tartsa zárva a kabátját.",
+                "ro": "Troleibuzele sunt bine încălzite iarna, păstrați haina încheiată.",
+                "en": "Trolleybuses are well-heated in winter; keep your coat zipped."
+              }
+            },
+            {
+              "name": "Donetsk Art Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Fahrtzeit für eine kurze Sitz- und Aufwärmpause.",
+                "hu": "Használja ki az utazási időt egy rövid ülő és melegedő szünetre.",
+                "ro": "Folosiți timpul de parcurs pentru o scurtă pauză de încălzire.",
+                "en": "Use the transit travel time for a brief sitting and warming break."
+              }
+            },
+            {
+              "name": "Trip to Donbass Arena",
+              "tip_5lang": {
+                "de": "Busse fahren regelmäßig, vermeiden Sie langes Warten draußen.",
+                "hu": "A buszok rendszeresen járnak, kerülje el a hosszú kinti várakozást.",
+                "ro": "Autobuzele circulă regulat, evitați așteptarea lungă în frig.",
+                "en": "Buses run frequently; avoid standing outside for too long."
+              }
+            },
+            {
+              "name": "Park of Forged Figures",
+              "tip_5lang": {
+                "de": "Gehen Sie vorsichtig von der Haltestelle zu den Skulpturen.",
+                "hu": "Közlekedjen óvatosan a megállótól a szobrok felé vezető úton.",
+                "ro": "Mergeți cu atenție de la stație către zona cu sculpturi.",
+                "en": "Walk carefully from the bus stop toward the frozen sculptures."
+              }
+            },
+            {
+              "name": "Trip to Shcherbakov Park",
+              "tip_5lang": {
+                "de": "Beachten Sie den frühen Sonnenuntergang bei der Zielankunft.",
+                "hu": "Vegye figyelembe a korai naplementét a célállomáshoz érkezéskor.",
+                "ro": "Țineți cont de apusul timpuriu la sosirea la destinație.",
+                "en": "Mind the early sunset time when arriving at the park destination."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Halten Sie Ihre Fahrkarte griffbereit, um kalte Hände zu vermeiden.",
+              "Achten Sie auf Schneematsch auf den Stufen beim Einstieg in den Bus.",
+              "Nutzen Sie die Wartehäuschen als Windschutz an offenen Straßen.",
+              "Planen Sie Pufferzeiten ein, da Schneefall den Nahverkehr verzögert.",
+              "Der Sonnenuntergang um 16:30 Uhr begrenzt das Fotografieren im Freien."
+            ],
+            "hu": [
+              "Tartsa a menetjegyet könnyen elérhető helyen a fagyos kezek elkerülésére.",
+              "Ügyeljen a havas latyakra a busz lépcsőin felszálláskor.",
+              "Használja a megállók üvegfalait szélvédelemre a nyitott utakon.",
+              "Számoljon pufferidővel, mert a havazás lassítja a tömegközlekedést.",
+              "A 16:30-as korai naplemente korlátozza a szabadtéri fotózást."
+            ],
+            "ro": [
+              "Păstrați biletul la îndemână pentru a evita expunerea mâinilor la frig.",
+              "Atenție la fleșcăiala înghețată de pe treptele autobuzului la urcare.",
+              "Folosiți adăposturile din stații ca protecție împotriva vântului tăios.",
+              "Planificați marje de timp, ninsorile pot încetini transportul public.",
+              "Apusul timpuriu de la 16:30 limitează timpul pentru fotografii în aer liber."
+            ],
+            "en": [
+              "Keep your transit ticket easily accessible to avoid freezing your hands.",
+              "Watch out for slippery slush on the bus steps when boarding.",
+              "Use the passenger shelters as windbreaks along wide open streets.",
+              "Allow extra buffer time as heavy snowfall delays public transit operations.",
+              "The early sunset at 16:30 restricts outdoor sightseeing photography."
+            ]
+          }
+        }
       }
     }
   }

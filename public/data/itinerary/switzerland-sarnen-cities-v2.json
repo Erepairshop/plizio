@@ -379,6 +379,207 @@
           "Check museum opening times in advance as they can vary.",
           "Even in summer, it can get cool in the mountains, so a light jacket is advisable."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt am Landenberg unter dem Regenschirm. Die Altstadt bietet mit ihren historischen Fassaden einen stimmungsvollen Anblick trotz grauer Wolken. Mittags kehren wir in ein gemütliches Gasthaus im Zentrum ein, um uns aufzuwärmen. Den Nachmittag verbringen wir im trockenen Museum Obwalden, das tief in die Geschichte der Region eintaucht. Zum Abschluss folgt ein kurzer, erfrischender Uferspaziergang mit Blick auf den wolkenverhangenen Sarnersee.",
+            "hu": "A reggel a Landenbergen kezdődik esernyővel a kézben. Az óváros történelmi homlokzatai a szürke felhők alatt is hangulatos látványt nyújtanak. Ebédre egy központi vendéglőbe térünk be felmelegedni. A délutánt a száraz Obwalden Múzeumban töltjük, amely mélyen elkalauzol a régió történelmébe. Végezetül egy rövid, frissítő tóparti séta következik a felhőbe burkolózott Sarnersee mentén.",
+            "ro": "Dimineața începe la Landenberg sub umbrelă. Fațadele istorice ale orașului vechi oferă o priveliște atmosferică în ciuda norilor cenușii. La prânz, ne retragem într-o pensiune primitoare din centru pentru a ne încălzi. După-amiaza o petrecem în interiorul uscat al Muzeului Obwalden, care explorează istoria regiunii. În final, urmează o scurtă plimbare revigorantă pe malul lacului Sarnen, cu vedere spre apele învăluite de nori.",
+            "en": "The morning starts at Landenberg under an umbrella. The old town's historic facades offer an atmospheric sight despite the gray clouds. At noon, we stop at a cozy inn in the center to warm up. We spend the afternoon in the dry Museum Obwalden, which dives deep into the region's history. To conclude, a short, refreshing lakeside walk follows with a view of the cloud-covered Lake Sarnen."
+          },
+          "stops": [
+            {
+              "name": "Landenberg and Old Town",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden der historischen Gebäude als Schutz vor kurzen Schauern.",
+                "hu": "Használja a történelmi épületek árkádjait menedékként a rövid záporok elől.",
+                "ro": "Folosiți arcadele clădirilor istorice ca adăpost împotriva averselor scurte.",
+                "en": "Use the arcades of the historical buildings as shelter from short showers."
+              }
+            },
+            {
+              "name": "Sarnen Town Hall",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur des Ratssaals, während es draußen regnet.",
+                "hu": "Csodálja meg a tanácsterem építészetét, miközben kint esik az eső.",
+                "ro": "Admirați arhitectura sălii consiliului în timp ce afară plouă.",
+                "en": "Admire the architecture of the council chamber while it rains outside."
+              }
+            },
+            {
+              "name": "Witch's Tower",
+              "tip_5lang": {
+                "de": "Vorsicht auf den nassen Treppenstufen rund um das Turmfundament.",
+                "hu": "Vigyázzon a vizes lépcsőfokokon a torony alapja körül.",
+                "ro": "Atenție la treptele umede din jurul fundației turnului.",
+                "en": "Be careful on the wet stairs around the tower foundation."
+              }
+            },
+            {
+              "name": "Collegiate Church of St. Martin",
+              "tip_5lang": {
+                "de": "Die barocke Pracht bietet einen perfekten, trockenen Ort für stille Besinnung.",
+                "hu": "A barokk pompa tökéletes, száraz helyszín a csendes elmélyüléshez.",
+                "ro": "Splendoarea barocă oferă un loc perfect și uscat pentru reflecție tăcută.",
+                "en": "The baroque splendor offers a perfect, dry place for quiet reflection."
+              }
+            },
+            {
+              "name": "Lunch in the Center",
+              "total_km": 3.8,
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit Garderobe für Ihre nassen Regenmäntel.",
+                "hu": "Válasszon olyan éttermet, ahol van ruhatár a vizes esőkabátoknak.",
+                "ro": "Alegeți un restaurant cu garderobă pentru pelerinele de ploaie umede.",
+                "en": "Choose a restaurant with a cloakroom for your wet raincoats."
+              }
+            },
+            {
+              "name": "Museum Obwalden",
+              "tip_5lang": {
+                "de": "Idealer Stopp für regnerische Stunden mit umfangreichen Indoor-Ausstellungen.",
+                "hu": "Ideális megálló esős órákra kiterjedt beltéri kiállításokkal.",
+                "ro": "Oprire ideală pentru orele ploioase, cu expoziții interioare extinse.",
+                "en": "Ideal stop for rainy hours with extensive indoor exhibitions."
+              }
+            },
+            {
+              "name": "Walk along Lake Sarnen",
+              "tip_5lang": {
+                "de": "Der Uferweg ist asphaltiert und daher auch bei Regen gut begehbar.",
+                "hu": "A tóparti út aszfaltozott, így esőben is jól járható.",
+                "ro": "Drumul de pe mal este asfaltat și, prin urmare, ușor de parcurs chiar și pe ploaie.",
+                "en": "The lakeside path is paved and therefore easy to walk even in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da sich in der Altstadt Pfützen bilden können.",
+              "Das Museum Obwalden bietet Schließfächer für nasse Regenschirme.",
+              "Die Kirchenbesichtigung lässt sich hervorragend als Regenpause nutzen.",
+              "Innerschweizer Wetter kann schnell wechseln, halten Sie den Schirm bereit."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert az óvárosban tócsák alakulhatnak ki.",
+              "Az Obwalden Múzeumban szekrények állnak rendelkezésre a vizes esernyőknek.",
+              "A templomlátogatás kiválóan alkalmas az eső elöli menedékre.",
+              "Közép-Svájc időjárása gyorsan változhat, tartsa készenlétben az esernyőt."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, deoarece se pot forma bălți în orașul vechi.",
+              "Muzeul Obwalden oferă dulapuri pentru umbrelele umede.",
+              "Vizitarea bisericii poate fi folosită ca o pauză excelentă de ploaie.",
+              "Vremea din Elveția Centrală se poate schimba rapid, țineți umbrela la îndemână."
+            ],
+            "en": [
+              "Wear waterproof shoes as puddles can form in the old town.",
+              "Museum Obwalden offers lockers for wet umbrellas.",
+              "The church visit can be used as an excellent rain break.",
+              "Central Swiss weather can change quickly, keep your umbrella ready."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen am Landenberg mit Blick auf die schneebedeckten Gipfel der Obwaldner Alpen. Die Altstadt wirkt in der kalten Luft besonders friedlich. Mittags genießen wir eine kräftige Käsesuppe im warmen Zentrum. Der Nachmittag im Museum bietet Schutz vor dem Frost, bevor wir bei früh einsetzender Dämmerung den winterlichen Sarnersee besuchen. Das sanfte Licht der tiefstehenden Sonne spiegelt sich im eiskalten Wasser.",
+            "hu": "Tiszta téli reggel a Landenbergen, kilátással az Obwaldeni-Alpok hófödte csúcsaira. Az óváros különösen békés a hideg levegőben. Ebédre egy laktató sajtmártást vagy levest fogyasztunk a meleg központban. A múzeumban töltött délután védelmet nyújt a fagy ellen, mielőtt a korai szürkületben meglátogatjuk a téli Sarnersee-t. Az alacsonyan járó nap lágy fénye tükröződik a jéghideg vízben.",
+            "ro": "O dimineață senină de iarnă la Landenberg, cu vedere spre vârfurile înzăpezite ale Alpilor din Obwalden. Orașul vechi pare deosebit de liniștit în aerul rece. La prânz, savurăm o supă consistentă de brânză în centrul călduros. După-amiaza la muzeu oferă protecție împotriva gerului, înainte de a vizita lacul Sarnen în amurgul timpuriu. Lumina blândă a soarelui se reflectă în apa înghețată.",
+            "en": "A clear winter morning at Landenberg with a view of the snow-capped peaks of the Obwalden Alps. The old town feels particularly peaceful in the cold air. At noon, we enjoy a hearty cheese soup in the warm center. The afternoon at the museum provides shelter from the frost before visiting the wintry Lake Sarnen at early dusk. The soft light of the low sun reflects in the ice-cold water."
+          },
+          "stops": [
+            {
+              "name": "Landenberg and Old Town",
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Sicht auf die Berge, die im Winter oft besonders scharf ist.",
+                "hu": "Élvezze a tiszta kilátást a hegyekre, amely télen gyakran különösen éles.",
+                "ro": "Bucurați-vă de vederea clară asupra munților, care este adesea foarte bine definită iarna.",
+                "en": "Enjoy the clear view of the mountains, which is often especially sharp in winter."
+              }
+            },
+            {
+              "name": "Sarnen Town Hall",
+              "tip_5lang": {
+                "de": "Der historische Bau strahlt im Winter eine besondere Ruhe aus.",
+                "hu": "A történelmi épület télen különleges nyugalmat áraszt.",
+                "ro": "Clădirea istorică emană o liniște deosebită în timpul iernii.",
+                "en": "The historic building radiates a special tranquility in winter."
+              }
+            },
+            {
+              "name": "Witch's Tower",
+              "tip_5lang": {
+                "de": "Vorsicht vor Vereisungen auf den schattigen Wegen rund um den Turm.",
+                "hu": "Vigyázzon a jegesedésre a torony körüli árnyékos utakon.",
+                "ro": "Atenție la porțiunile înghețate de pe potecile umbrite din jurul turnului.",
+                "en": "Watch out for icy patches on the shaded paths around the tower."
+              }
+            },
+            {
+              "name": "Collegiate Church of St. Martin",
+              "tip_5lang": {
+                "de": "Ein warmer Ort für eine kurze Pause während des Stadtrundgangs.",
+                "hu": "Meleg helyszín egy rövid pihenőhöz a városnézés során.",
+                "ro": "Un loc călduros pentru o scurtă pauză în timpul turului orașului.",
+                "en": "A warm place for a short break during the city tour."
+              }
+            },
+            {
+              "name": "Lunch in the Center",
+              "tip_5lang": {
+                "de": "Probieren Sie lokale Winterspezialitäten wie Älplermagronen.",
+                "hu": "Kóstolja meg a helyi téli különlegességeket, például az Älplermagronen-t.",
+                "ro": "Încercați specialități locale de iarnă, cum ar fi Älplermagronen.",
+                "en": "Try local winter specialties like Älplermagronen."
+              }
+            },
+            {
+              "name": "Museum Obwalden",
+              "tip_5lang": {
+                "de": "Nutzen Sie die beheizten Räume, um sich nach dem Vormittag aufzuwärmen.",
+                "hu": "Használja a fűtött tereket a délelőtti lehűlés utáni felmelegedéshez.",
+                "ro": "Folosiți spațiile încălzite pentru a vă încălzi după plimbarea de dimineață.",
+                "en": "Use the heated spaces to warm up after the morning walk."
+              }
+            },
+            {
+              "name": "Walk along Lake Sarnen",
+              "tip_5lang": {
+                "de": "Planen Sie den Spaziergang vor 16:30 Uhr, bevor es dunkel wird.",
+                "hu": "A sétát 16:30 előtt tervezze be, mielőtt besötétedik.",
+                "ro": "Planificați plimbarea înainte de ora 16:30, înainte de a se întuneca.",
+                "en": "Plan the walk before 4:30 PM before it gets dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Kleidung in Schichten ist aufgrund des Sees und der Berge Pflicht.",
+              "Die Sonne geht im Tal früh unter, nutzen Sie das Tageslicht effizient.",
+              "Die Wege am See können bei Frost rutschig sein.",
+              "In vielen Cafés gibt es hausgemachte heiße Schokolade."
+            ],
+            "hu": [
+              "A réteges, meleg öltözet a tó és a hegyek miatt kötelező.",
+              "A nap korán lemegy a völgyben, használja ki hatékonyan a nappali fényt.",
+              "A tóparti utak fagy esetén csúszósak lehetnek.",
+              "Sok kávézóban kapható házi készítésű forró csokoládé."
+            ],
+            "ro": [
+              "Îmbrăcămintea călduroasă în straturi este obligatorie din cauza lacului și a munților.",
+              "Soarele apune devreme în vale, folosiți eficient lumina zilei.",
+              "Potecile de lângă lac pot fi alunecoase în caz de îngheț.",
+              "Multe cafenele oferă ciocolată caldă de casă."
+            ],
+            "en": [
+              "Warm layered clothing is a must due to the lake and mountains.",
+              "The sun sets early in the valley, use daylight efficiently.",
+              "The paths by the lake can be slippery in case of frost.",
+              "Many cafes offer homemade hot chocolate."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -752,6 +953,206 @@
           "Plan your route in advance, but be flexible.",
           "Bring snacks and water, especially for longer stretches outside the town."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour am Sarnersee führt heute durch eine mystische, neblige Landschaft. Trotz Regen bietet der asphaltierte Radweg guten Halt. Zur Mittagszeit stärken wir uns direkt am Seeufer unter einem schützenden Vordach. Am Nachmittag besuchen wir das Heimatmuseum, während die Räder im Trockenen parken. Die kurze Fahrt zum Kapuzinerkloster bildet den Abschluss eines sportlichen, wenn auch feuchten Tages.",
+            "hu": "A kerékpártúra a Sarnersee körül ma misztikus, ködös tájon vezet keresztül. Az eső ellenére az aszfaltozott kerékpárút jó tapadást biztosít. Ebédidőben közvetlenül a tóparton, egy védőtető alatt frissülünk fel. Délután meglátogatjuk a tájházat, miközben a biciklik száraz helyen parkolnak. A rövid tekerés a kapucinus kolostorig zárja ezt a sportos, bár nedves napot.",
+            "ro": "Turul cu bicicleta pe lângă lacul Sarnen trece astăzi printr-un peisaj mistic și cețos. În ciuda ploii, pista de biciclete asfaltată oferă o aderență bună. La prânz, ne refacem forțele chiar pe malul lacului, sub un acoperiș protector. După-amiaza vizităm muzeul local, în timp ce bicicletele sunt parcate la loc uscat. Scurta plimbare până la mănăstirea capucinilor încheie o zi sportivă, deși umedă.",
+            "en": "Today's bike tour along Lake Sarnen leads through a mystical, misty landscape. Despite the rain, the paved bike path offers good grip. At lunchtime, we recharge right by the lakeshore under a protective canopy. In the afternoon, we visit the local history museum while the bikes are parked in the dry. The short ride to the Capuchin monastery concludes a sporty, albeit wet day."
+          },
+          "stops": [
+            {
+              "name": "Bike ride along Lake Sarnen",
+              "tip_5lang": {
+                "de": "Vorsicht in den Kurven, nasses Laub kann den Radweg rutschig machen.",
+                "hu": "Vigyázzon a kanyarokban, a vizes levelek csúszóssá tehetik az utat.",
+                "ro": "Atenție în curbe, frunzele umede pot face pista de biciclete alunecoasă.",
+                "en": "Be careful in curves, wet leaves can make the bike path slippery."
+              }
+            },
+            {
+              "name": "Landenberg and Old Town",
+              "tip_5lang": {
+                "de": "Das Kopfsteinpflaster in der Altstadt erfordert erhöhte Aufmerksamkeit beim Fahren.",
+                "hu": "Az óvárosi macskakő fokozott figyelmet igényel kerékpározás közben.",
+                "ro": "Paveaua din orașul vechi necesită o atenție sporită în timpul mersului.",
+                "en": "The cobblestones in the old town require extra attention while riding."
+              }
+            },
+            {
+              "name": "Witch's Tower",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad nah am Turm unter den Dachvorsprüngen.",
+                "hu": "Parkolja le kerékpárját a torony közelében az ereszek alatt.",
+                "ro": "Parcați bicicleta aproape de turn, sub streșini.",
+                "en": "Park your bike close to the tower under the eaves."
+              }
+            },
+            {
+              "name": "Collegiate Church of St. Martin",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp für eine Trockenpause im beeindruckenden Innenraum.",
+                "hu": "Használja ki a megállót egy száradási szünetre a lenyűgöző belső térben.",
+                "ro": "Folosiți oprirea pentru o pauză de uscare în interiorul impresionant.",
+                "en": "Use the stop for a dry break in the impressive interior."
+              }
+            },
+            {
+              "name": "Lunch by the Lake",
+              "tip_5lang": {
+                "de": "Suchen Sie ein Lokal mit überdachtem Außenbereich für Ihre Ausrüstung.",
+                "hu": "Keressen fedett terasszal rendelkező helyet a felszerelése számára.",
+                "ro": "Căutați un loc cu terasă acoperită pentru echipamentul dumneavoastră.",
+                "en": "Look for a place with a covered outdoor area for your gear."
+              }
+            },
+            {
+              "name": "Sarnen Local History Museum",
+              "tip_5lang": {
+                "de": "Guter Ort, um die Regenkleidung kurzzeitig abzulegen.",
+                "hu": "Jó hely az esőruházat rövid időre történő levételéhez.",
+                "ro": "Un loc bun pentru a lăsa echipamentul de ploaie pentru o scurtă perioadă.",
+                "en": "A good place to briefly take off your rain gear."
+              }
+            },
+            {
+              "name": "Capuchin Monastery Sarnen",
+              "tip_5lang": {
+                "de": "Abschluss an einem ruhigen Ort, bevor es zurück ins Hotel geht.",
+                "hu": "Zárja a napot egy nyugodt helyen, mielőtt visszatérne a szállásra.",
+                "ro": "Finalizați ziua într-un loc liniștit înainte de a vă întoarce la cazare.",
+                "en": "End the day at a quiet spot before returning to your accommodation."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Bremsbeläge; auf nassen Felgen verlängert sich der Bremsweg.",
+              "Tragen Sie helle, wasserfeste Kleidung für bessere Sichtbarkeit.",
+              "Schutzbleche am Fahrrad sind bei diesem Wetter unverzichtbar.",
+              "Vermeiden Sie Pfützen, da deren Tiefe oft schwer einzuschätzen ist."
+            ],
+            "hu": [
+              "Ellenőrizze a fékbetéteket; a vizes felniken megnő a féktávolság.",
+              "Viseljen világos, vízálló ruházatot a jobb láthatóság érdekében.",
+              "A sárvédő elengedhetetlen ilyen időjárási körülmények között.",
+              "Kerülje a tócsákat, mert mélységüket gyakran nehéz megbecsülni."
+            ],
+            "ro": [
+              "Verificați plăcuțele de frână; pe jantele umede, distanța de frânare crește.",
+              "Purtați haine luminoase și impermeabile pentru o mai bună vizibilitate.",
+              "Apărătorile de noroi la bicicletă sunt indispensabile pe această vreme.",
+              "Evitați bălțile, deoarece adâncimea lor este adesea greu de estimat."
+            ],
+            "en": [
+              "Check your brake pads; braking distance increases on wet rims.",
+              "Wear bright, waterproof clothing for better visibility.",
+              "Mudguards on your bike are indispensable in this weather.",
+              "Avoid puddles as their depth is often difficult to estimate."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frische Brise und glitzerndes Frost am Seeufer begleiten den Start der Radtour. Die winterliche Stille am Sarnersee ist ein besonderes Erlebnis. Zum Aufwärmen machen wir mittags einen Halt im historischen Zentrum und genießen warme Spezialitäten. Das Heimatmuseum bietet am Nachmittag kulturelle Wärme. Den Tag beenden wir am Kloster, während die Sonne hinter den schneebedeckten Gipfeln versinkt.",
+            "hu": "Friss szellő és csillogó zúzmara a tóparton kíséri a kerékpártúra kezdetét. A téli csend a Sarnersee mentén különleges élmény. Napközben a történelmi központban állunk meg felmelegedni és meleg ételeket élvezni. A tájház délután kulturális feltöltődést kínál. A napot a kolostornál zárjuk, miközben a nap a hófödte csúcsok mögé bukik.",
+            "ro": "O briză proaspătă și bruma sclipitoare de pe malul lacului însoțesc începutul turului cu bicicleta. Liniștea de iarnă de pe lacul Sarnen este o experiență deosebită. Pentru a ne încălzi, facem o oprire la prânz în centrul istoric și savurăm specialități calde. Muzeul local oferă căldură culturală după-amiaza. Încheiem ziua la mănăstire, în timp ce soarele apune după vârfurile înzăpezite.",
+            "en": "A fresh breeze and sparkling frost by the lakeshore accompany the start of the bike tour. The winter silence at Lake Sarnen is a special experience. To warm up, we make a stop at noon in the historic center and enjoy warm specialties. The local history museum offers cultural warmth in the afternoon. We end the day at the monastery as the sun sets behind the snow-capped peaks."
+          },
+          "stops": [
+            {
+              "name": "Bike ride along Lake Sarnen",
+              "tip_5lang": {
+                "de": "Vorsicht vor überfrierender Nässe in schattigen Abschnitten des Radwegs.",
+                "hu": "Vigyázzon a lefagyásokra a kerékpárút árnyékos szakaszain.",
+                "ro": "Atenție la porțiunile de drum înghețate în secțiunile umbrite ale pistei.",
+                "en": "Watch out for black ice in shaded sections of the bike path."
+              }
+            },
+            {
+              "name": "Landenberg and Old Town",
+              "tip_5lang": {
+                "de": "Die gepflasterten Gassen können bei Frost sehr glatt sein.",
+                "hu": "A kövezett utcák fagy esetén nagyon csúszósak lehetnek.",
+                "ro": "Străzile pavate pot fi foarte alunecoase în caz de îngheț.",
+                "en": "The paved alleys can be very slippery during frost."
+              }
+            },
+            {
+              "name": "Witch's Tower",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp; der Fahrtwind kühlt bei niedrigen Temperaturen schnell aus.",
+                "hu": "Rövid fotómegálló; a menetszél alacsony hőmérsékleten gyorsan lehűt.",
+                "ro": "O scurtă oprire pentru fotografii; vântul de mișcare răcește rapid la temperaturi scăzute.",
+                "en": "Brief photo stop; the wind chill cools you down quickly at low temperatures."
+              }
+            },
+            {
+              "name": "Collegiate Church of St. Martin",
+              "tip_5lang": {
+                "de": "Ein ruhiger, windgeschützter Ort zur kurzen Erholung.",
+                "hu": "Nyugodt, széltől védett hely egy rövid pihenéshez.",
+                "ro": "Un loc liniștit și ferit de vânt pentru o scurtă recuperare.",
+                "en": "A quiet, wind-sheltered place for a short recovery."
+              }
+            },
+            {
+              "name": "Lunch by the Lake",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit Blick auf den See aus dem warmen Innenraum.",
+                "hu": "Válasszon tóra néző éttermet a meleg belső térből.",
+                "ro": "Alegeți un restaurant cu vedere la lac din interiorul călduros.",
+                "en": "Choose a restaurant with a lake view from the warm interior."
+              }
+            },
+            {
+              "name": "Sarnen Local History Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe für Ihre Winter-Bike-Ausrüstung.",
+                "hu": "Használja a ruhatárat a téli kerékpáros felszerelése számára.",
+                "ro": "Folosiți garderoba pentru echipamentul de iarnă pentru bicicletă.",
+                "en": "Use the cloakroom for your winter bike gear."
+              }
+            },
+            {
+              "name": "Capuchin Monastery Sarnen",
+              "tip_5lang": {
+                "de": "Das Licht am späten Nachmittag ist hier besonders fotogen.",
+                "hu": "A késő délutáni fények itt különösen fotogének.",
+                "ro": "Lumina de după-amiază târzie este deosebit de fotogenă aici.",
+                "en": "The late afternoon light is particularly photogenic here."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermounterwäsche und winddichte Kleidung.",
+              "Prüfen Sie den Luftdruck; etwas weniger Druck bietet mehr Grip auf Eis.",
+              "Vergessen Sie nicht, auch im Winter ausreichend Wasser zu trinken.",
+              "Achten Sie auf die Akkulaufzeit bei E-Bikes, die bei Kälte sinkt."
+            ],
+            "hu": [
+              "Viseljen termő alsóneműt és szélálló ruházatot.",
+              "Ellenőrizze a guminyomást; a kissé alacsonyabb nyomás jobb tapadást biztosít jégen.",
+              "Ne felejtsen el télen is elegendő vizet inni.",
+              "Ügyeljen az e-bike akkumulátorára, amely hidegben gyorsabban merül."
+            ],
+            "ro": [
+              "Purtați lenjerie termică și haine rezistente la vânt.",
+              "Verificați presiunea anvelopelor; o presiune puțin mai mică oferă aderență pe gheață.",
+              "Nu uitați să beți suficientă apă chiar și iarna.",
+              "Atenție la durata bateriei la bicicletele electrice, care scade la frig."
+            ],
+            "en": [
+              "Wear thermal underwear and windproof clothing.",
+              "Check tire pressure; slightly lower pressure provides more grip on ice.",
+              "Don't forget to drink enough water even in winter.",
+              "Watch out for e-bike battery life, which decreases in the cold."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1107,6 +1508,188 @@
           "A navigation device is helpful, especially for trips in the surrounding area.",
           "Pay attention to speed limits, which are strictly enforced in Switzerland."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Bequemer Start im Parkhaus Sarnen Center, nur wenige Schritte von der Altstadt entfernt. Wir erkunden die Sehenswürdigkeiten zwischen den Regenschauern. Das Mittagessen genießen wir in einem Restaurant mit Parkplatz direkt vor der Tür. Der Nachmittag im Museum Obwalden bietet eine trockene, kulturelle Pause. Den Tag beschließen wir mit einer gemütlichen Fahrt am Seeufer und einem Kaffee mit Seeblick.",
+            "hu": "Kényelmes kezdés a Sarnen Center parkolóházában, csak pár lépésre az óvárostól. Az esőszünetekben fedezzük fel a látnivalókat. Az ebédet egy olyan étteremben fogyasztjuk el, ahol közvetlenül az ajtó előtt van parkoló. Az Obwalden Múzeumban töltött délután száraz, kulturális kikapcsolódást nyújt. A napot egy kellemes tóparti autózással és egy tóra néző kávéval zárjuk.",
+            "ro": "Început confortabil în parcarea Sarnen Center, la doar câțiva pași de orașul vechi. Explorăm obiectivele turistice între reprizele de ploaie. Savurăm prânzul într-un restaurant cu parcare chiar în față. După-amiaza la Muzeul Obwalden oferă o pauză culturală uscată. Încheiem ziua cu o plimbare relaxantă cu mașina pe malul lacului și o cafea cu vedere la lac.",
+            "en": "Convenient start at the Sarnen Center car park, just steps away from the old town. We explore the sights between rain showers. We enjoy lunch in a restaurant with parking right at the door. The afternoon at Museum Obwalden offers a dry, cultural break. We conclude the day with a cozy drive along the lakeshore and a coffee with a lake view."
+          },
+          "stops": [
+            {
+              "name": "Cluster Start: Sarnen Center Car Park",
+              "tip_5lang": {
+                "de": "Überdachtes Parken ermöglicht einen trockenen Start in den Tag.",
+                "hu": "A fedett parkolás lehetővé teszi a nap száraz kezdését.",
+                "ro": "Parcarea acoperită permite un început de zi fără umezeală.",
+                "en": "Covered parking allows for a dry start to the day."
+              }
+            },
+            {
+              "name": "Landenberg & Town Hall",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen den Gebäuden minimieren die Zeit im Regen.",
+                "hu": "Az épületek közötti rövid távolság minimalizálja az esőben töltött időt.",
+                "ro": "Distanțele scurte între clădiri minimizează timpul petrecut în ploaie.",
+                "en": "Short distances between buildings minimize time spent in the rain."
+              }
+            },
+            {
+              "name": "Collegiate Church of St. Martin",
+              "tip_5lang": {
+                "de": "Parken Sie in der blauen Zone direkt in der Nähe des Kircheneingangs.",
+                "hu": "Parkoljon a kék zónában közvetlenül a templom bejárata közelében.",
+                "ro": "Parcați în zona albastră direct lângă intrarea în biserică.",
+                "en": "Park in the blue zone directly near the church entrance."
+              }
+            },
+            {
+              "name": "Museum Obwalden",
+              "tip_5lang": {
+                "de": "Großartige Indoor-Aktivität; Schirme können im Eingangsbereich bleiben.",
+                "hu": "Nagyszerű beltéri program; az esernyők a bejáratnál hagyhatók.",
+                "ro": "Activitate interioară excelentă; umbrelele pot fi lăsate la intrare.",
+                "en": "Great indoor activity; umbrellas can be left in the entrance area."
+              }
+            },
+            {
+              "name": "Cluster Change: Drive to Lake Sarnen",
+              "tip_5lang": {
+                "de": "Genießen Sie die Aussicht auf den stürmischen See bequem aus dem Auto.",
+                "hu": "Élvezze a viharos tó látványát kényelmesen az autóból.",
+                "ro": "Bucurați-vă de vederea lacului agitat confortabil din mașină.",
+                "en": "Enjoy the view of the stormy lake comfortably from the car."
+              }
+            },
+            {
+              "name": "Walk and Café at the Lake",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Café mit direktem Blick auf das Wasser.",
+                "hu": "Válasszon közvetlen vízre néző kávézót.",
+                "ro": "Alegeți o cafenea cu vedere directă la apă.",
+                "en": "Choose a café with a direct view of the water."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Halten Sie Kleingeld oder eine Park-App für die Parkuhren bereit.",
+              "Das Parkhaus im Zentrum bietet den besten Schutz für Ihr Fahrzeug.",
+              "Die Uferstraße bietet viele Haltebuchten für kurze Fotostopps im Trockenen.",
+              "Nutzen Sie die Sitzheizung nach längeren Aufenthalten im Freien."
+            ],
+            "hu": [
+              "Készítsen elő aprópénzt vagy parkolási applikációt az órákhoz.",
+              "A központi parkolóház nyújtja a legjobb védelmet járművének.",
+              "A tóparti út mentén számos megállóhely van rövid, száraz fotószünetekhez.",
+              "Hosszabb kinti tartózkodás után használja az ülésfűtést."
+            ],
+            "ro": [
+              "Aveți la îndemână mărunțiș sau o aplicație de parcare pentru automate.",
+              "Parcarea etajată din centru oferă cea mai bună protecție pentru vehicul.",
+              "Drumul de pe mal oferă multe alveole pentru opriri scurte de poze.",
+              "Folosiți încălzirea în scaune după perioade lungi petrecute afară."
+            ],
+            "en": [
+              "Have small change or a parking app ready for the meters.",
+              "The multi-story car park in the center offers the best protection for your vehicle.",
+              "The shore road offers many lay-bys for short, dry photo stops.",
+              "Use the seat heating after long periods spent outdoors."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintertag beginnt mit einer Fahrt durch das verschneite Sarnen. Der Landenberg bietet ein beeindruckendes Panorama auf die winterlichen Berge. Mittags wärmen wir uns in einem Restaurant im Zentrum auf. Nach dem Museumsbesuch am Nachmittag fahren wir entlang des Sarnersees, wo das Eis am Ufer in der tiefstehenden Sonne glitzert. Ein heißes Getränk im Café bildet den perfekten Abschluss.",
+            "hu": "Tiszta téli nap kezdődik autózással a havas Sarnenben. A Landenberg lenyűgöző panorámát nyújt a téli hegyekre. Ebédre egy központi étteremben melegszünk fel. A délutáni múzeumlátogatás után a Sarnersee mentén autózunk, ahol a parti jég csillog az alacsonyan járó napfényben. Egy forró ital a kávézóban tökéletes zárás.",
+            "ro": "O zi senină de iarnă începe cu o plimbare prin Sarnenul înzăpezit. Landenberg oferă o panoramă impresionantă asupra munților de iarnă. La prânz, ne încălzim într-un restaurant din centru. După vizita la muzeu, conducem de-a lungul lacului Sarnen, unde gheața de pe mal sclipeste în soarele slab. O băutură caldă la cafenea reprezintă finalul perfect.",
+            "en": "A clear winter day begins with a drive through snowy Sarnen. Landenberg offers an impressive panorama of the wintry mountains. At noon, we warm up in a restaurant in the center. After the museum visit in the afternoon, we drive along Lake Sarnen, where the ice on the shore sparkles in the low sun. A hot drink at the café is the perfect conclusion."
+          },
+          "stops": [
+            {
+              "name": "Cluster Start: Sarnen Center Car Park",
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Eiskratzen durch Parken im Parkhaus.",
+                "hu": "Kerülje el a jégkaparást a parkolóházban való parkolással.",
+                "ro": "Evitați răzuirea gheții parcând în parcarea etajată.",
+                "en": "Avoid scraping ice by parking in the multi-story car park."
+              }
+            },
+            {
+              "name": "Landenberg & Town Hall",
+              "tip_5lang": {
+                "de": "Das Panorama der Alpen ist im Winter oft klarer als im Sommer.",
+                "hu": "Az Alpok panorámája télen gyakran tisztább, mint nyáron.",
+                "ro": "Panorama Alpilor este adesea mai clară iarna decât vara.",
+                "en": "The panorama of the Alps is often clearer in winter than in summer."
+              }
+            },
+            {
+              "name": "Collegiate Church of St. Martin",
+              "tip_5lang": {
+                "de": "Achten Sie auf geräumte Parkflächen in der Nähe der Kirche.",
+                "hu": "Ügyeljen a letakarított parkolóhelyekre a templom közelében.",
+                "ro": "Căutați locuri de parcare deszăpezite în apropierea bisericii.",
+                "en": "Look for cleared parking spaces near the church."
+              }
+            },
+            {
+              "name": "Museum Obwalden",
+              "tip_5lang": {
+                "de": "Idealer Ort, um die kälteste Zeit des Tages im Warmen zu verbringen.",
+                "hu": "Ideális hely a nap leghidegebb óráinak melegben töltéséhez.",
+                "ro": "Locul ideal pentru a petrece cea mai rece perioadă a zilei la căldură.",
+                "en": "Ideal place to spend the coldest part of the day in the warm."
+              }
+            },
+            {
+              "name": "Cluster Change: Drive to Lake Sarnen",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Straßenzustand; Uferstraßen können schattig und glatt sein.",
+                "hu": "Ellenőrizze az útviszonyokat; a tóparti utak árnyékosak és csúszósak lehetnek.",
+                "ro": "Verificați starea drumului; drumurile de pe mal pot fi umbrite și alunecoase.",
+                "en": "Check road conditions; shore roads can be shaded and slippery."
+              }
+            },
+            {
+              "name": "Walk and Café at the Lake",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Café mit Parkplätzen, um weite Wege in der Kälte zu vermeiden.",
+                "hu": "Válasszon parkolóval rendelkező kávézót, hogy elkerülje a hosszú utat a hidegben.",
+                "ro": "Alegeți o cafenea cu parcare pentru a evita drumurile lungi prin frig.",
+                "en": "Choose a café with parking to avoid long walks in the cold."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in dieser Region von Oktober bis April absolut notwendig.",
+              "Führen Sie einen Eiskratzer und Schneebesen im Auto mit.",
+              "Achten Sie auf tiefstehende Sonne, die beim Fahren am See blenden kann.",
+              "Parkhäuser sind im Winter oft wärmer als Außenparkplätze."
+            ],
+            "hu": [
+              "Ebben a régióban október és április között a téli gumi elengedhetetlen.",
+              "Tartson jégkaparót és hókefét az autóban.",
+              "Ügyeljen az alacsonyan járó napra, amely elvakíthat a tóparti vezetéskor.",
+              "A parkolóházak télen gyakran melegebbek, mint a kültéri parkolók."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt absolut necesare în această regiune din octombrie până în aprilie.",
+              "Păstrați o răzuitoare de gheață și o perie de zăpadă în mașină.",
+              "Atenție la soarele jos, care poate fi orbitor când conduceți pe lângă lac.",
+              "Parcările etajate sunt adesea mai calde iarna decât parcările exterioare."
+            ],
+            "en": [
+              "Winter tires are absolutely necessary in this region from October to April.",
+              "Keep an ice scraper and a snow brush in the car.",
+              "Watch out for the low sun, which can be blinding when driving by the lake.",
+              "Car parks are often warmer in winter than outdoor parking spaces."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1462,6 +2045,188 @@
           "The SBB app is very useful for planning train and bus connections.",
           "Have small change ready for bus tickets if you can't buy in advance."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ankunft am Bahnhof Sarnen, wo uns der Zug pünktlich absetzt. Kurze Wege führen zum Kapuzinerkloster. Mit dem Bus erreichen wir bequem das Zentrum, um die Altstadt zwischen den Schauern zu erkunden. Mittags stärken wir uns in einer Brasserie nahe der Postplatz-Haltestelle. Der Nachmittag gehört der Kirche und dem Hexenturm, bevor uns der Bus zum Sarnersee bringt, wo wir den Regen bei einem Tee beobachten.",
+            "hu": "Érkezés a sarneni vasútállomásra, ahol a vonat pontosan tesz le minket. Rövid séták vezetnek a kapucinus kolostorig. Busszal kényelmesen elérjük a központot, hogy az esőszünetekben felfedezzük az óvárost. Ebédre a Postplatz megálló közelében lévő sörözőben frissülünk fel. A délután a templomé és a Hexenturmé, mielőtt a busz a Sarnersee-hez vinne minket teázni.",
+            "ro": "Sosire la gara Sarnen, unde trenul ne lasă la fix. Distanțe scurte ne conduc spre mănăstirea capucinilor. Cu autobuzul ajungem confortabil în centru pentru a explora orașul vechi între aversă. La prânz, ne refacem forțele într-o braserie lângă stația Postplatz. După-amiaza este dedicată bisericii și turnului vrăjitoarelor, înainte ca autobuzul să ne ducă la lacul Sarnen.",
+            "en": "Arrival at Sarnen station, where the train drops us off on time. Short walks lead to the Capuchin monastery. By bus, we easily reach the center to explore the old town between showers. At noon, we recharge in a brasserie near the Postplatz stop. The afternoon belongs to the church and the Witch's Tower before the bus takes us to Lake Sarnen to watch the rain over tea."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Sarnen Station, Start Station Cluster",
+              "tip_5lang": {
+                "de": "Der Kiosk am Bahnhof bietet Regenschutz und Snacks für den Start.",
+                "hu": "Az állomási kioszk esővédőt és harapnivalót kínál a kezdéshez.",
+                "ro": "Chioșcul din gară oferă protecție împotriva ploii și gustări pentru început.",
+                "en": "The station kiosk offers rain gear and snacks for the start."
+              }
+            },
+            {
+              "name": "Capuchin Monastery Sarnen",
+              "tip_5lang": {
+                "de": "Nur 5 Minuten Fußweg vom Bahnhof entfernt, ideal bei leichtem Regen.",
+                "hu": "Csak 5 perc séta az állomástól, ideális enyhe esőben.",
+                "ro": "La doar 5 minute de mers pe jos de gară, ideal pe ploaie ușoară.",
+                "en": "Only a 5-minute walk from the station, ideal in light rain."
+              }
+            },
+            {
+              "name": "Cluster Change: Bus to the Center (Postplatz)",
+              "tip_5lang": {
+                "de": "Die Bushaltestellen sind meist überdacht und bieten Schutz.",
+                "hu": "A buszmegállók többnyire fedettek és védelmet nyújtanak.",
+                "ro": "Stațiile de autobuz sunt în mare parte acoperite și oferă adăpost.",
+                "en": "The bus stops are mostly covered and provide shelter."
+              }
+            },
+            {
+              "name": "Collegiate Church & Witch's Tower",
+              "tip_5lang": {
+                "de": "Planen Sie den Aufenthalt in der Kirche während eines kräftigen Schauers.",
+                "hu": "Tervezze a templomi tartózkodást egy erősebb zápor idejére.",
+                "ro": "Planificați șederea în biserică în timpul unei averse puternice.",
+                "en": "Plan your stay in the church during a heavy shower."
+              }
+            },
+            {
+              "name": "Cluster Change: Bus to Lake Sarnen",
+              "tip_5lang": {
+                "de": "Nutzen Sie die App 'SBB Mobile' für Echtzeit-Infos bei Regen.",
+                "hu": "Használja az 'SBB Mobile' alkalmazást a valós idejű infókért esőben.",
+                "ro": "Folosiți aplicația 'SBB Mobile' pentru informații în timp real pe ploaie.",
+                "en": "Use the 'SBB Mobile' app for real-time info during rain."
+              }
+            },
+            {
+              "name": "Walk and Relaxation at the Lake",
+              "tip_5lang": {
+                "de": "Das Café am See ist ein gemütlicher Ort, um auf den Rückbus zu warten.",
+                "hu": "A tóparti kávézó kellemes hely a visszatérő buszra való várakozáshoz.",
+                "ro": "Cafeneaua de pe mal este un loc plăcut pentru a aștepta autobuzul de întoarcere.",
+                "en": "The lakeside café is a cozy place to wait for the return bus."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Züge und Busse in Sarnen sind sehr pünktlich, ideal bei schlechtem Wetter.",
+              "Die Haltestelle 'Sarnen, Postplatz' ist zentraler Knotenpunkt für alle Linien.",
+              "Ein Tagespass für die Zone ist oft günstiger als Einzeltickets.",
+              "Die Wartebereiche am Bahnhof sind beheizt und trocken."
+            ],
+            "hu": [
+              "A vonatok és buszok Sarnenben nagyon pontosak, ideális rossz időben.",
+              "A 'Sarnen, Postplatz' megálló a központi csomópont minden vonal számára.",
+              "Egy napijegy gyakran olcsóbb, mint az egyéni jegyek.",
+              "Az állomási várakozóhelyek fűtöttek és szárazak."
+            ],
+            "ro": [
+              "Trenurile și autobuzele din Sarnen sunt foarte punctuale, ideale pe vreme rea.",
+              "Stația 'Sarnen, Postplatz' este nodul central pentru toate liniile.",
+              "Un permis de o zi pentru zonă este adesea mai ieftin decât biletele individuale.",
+              "Zonele de așteptare din gară sunt încălzite și uscate."
+            ],
+            "en": [
+              "Trains and buses in Sarnen are very punctual, ideal in bad weather.",
+              "The 'Sarnen, Postplatz' stop is the central hub for all lines.",
+              "A day pass for the zone is often cheaper than individual tickets.",
+              "The waiting areas at the station are heated and dry."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der winterliche Tag beginnt am stimmungsvoll beleuchteten Bahnhof Sarnen. Der kurze Weg zum Kloster führt durch die klare, kalte Morgenluft. Mit dem geheizten Bus fahren wir zum Postplatz und erkunden die friedliche Altstadt. Nach einem warmen Mittagessen besuchen wir die prächtige St. Martinskirche. Am Nachmittag bringt uns der Bus zum Sarnersee, wo wir die Winterlandschaft genießen, bevor wir uns im warmen See-Café aufwärmen.",
+            "hu": "A téli nap a hangulatosan megvilágított sarneni vasútállomáson kezdődik. A kolostorig tartó rövid út a tiszta, hideg reggeli levegőn vezet át. Fűtött busszal utazunk a Postplatzra, és felfedezzük a békés óvárost. Meleg ebéd után meglátogatjuk a pompás Szent Márton-templomot. Délután a busz a Sarnersee-hez visz, ahol élvezzük a téli tájat, majd felmelegszünk a tóparti kávézóban.",
+            "ro": "Ziua de iarnă începe la gara Sarnen, iluminată feeric. Scurta plimbare spre mănăstire trece prin aerul curat și rece al dimineții. Cu autobuzul încălzit mergem la Postplatz și explorăm orașul vechi liniștit. După un prânz cald, vizităm magnifica biserică Sf. Martin. După-amiaza, autobuzul ne duce la lacul Sarnen, unde ne bucurăm de peisajul de iarnă înainte de a ne încălzi în cafenea.",
+            "en": "The winter day begins at the atmospherically lit Sarnen station. The short walk to the monastery leads through the clear, cold morning air. We take the heated bus to Postplatz and explore the peaceful old town. After a warm lunch, we visit the magnificent St. Martin's Church. In the afternoon, the bus takes us to Lake Sarnen, where we enjoy the winter landscape before warming up in the lakeside café."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Sarnen Station, Start Station Cluster",
+              "tip_5lang": {
+                "de": "Nutzen Sie den beheizten Warteraum, falls der Anschlussbus Verspätung hat.",
+                "hu": "Használja a fűtött várótermet, ha a csatlakozó busz késne.",
+                "ro": "Folosiți sala de așteptare încălzită dacă autobuzul de legătură întârzie.",
+                "en": "Use the heated waiting room if the connecting bus is delayed."
+              }
+            },
+            {
+              "name": "Capuchin Monastery Sarnen",
+              "tip_5lang": {
+                "de": "Ein kurzer, knackiger Winterspaziergang vom Bahnhof aus.",
+                "hu": "Rövid, frissítő téli séta az állomástól.",
+                "ro": "O plimbare scurtă și vioaie de iarnă de la gară.",
+                "en": "A short, crisp winter walk from the station."
+              }
+            },
+            {
+              "name": "Cluster Change: Bus to the Center (Postplatz)",
+              "tip_5lang": {
+                "de": "Genießen Sie die Wärme im Bus während der kurzen Fahrt.",
+                "hu": "Élvezze a meleget a buszon a rövid út alatt.",
+                "ro": "Bucurați-vă de căldura din autobuz în timpul scurtului drum.",
+                "en": "Enjoy the warmth on the bus during the short ride."
+              }
+            },
+            {
+              "name": "Collegiate Church & Witch's Tower",
+              "tip_5lang": {
+                "de": "Die Kirche bietet eine ruhige, oft geheizte Atmosphäre.",
+                "hu": "A templom nyugodt, gyakran fűtött légkört biztosít.",
+                "ro": "Biserica oferă o atmosferă liniștită, adesea încălzită.",
+                "en": "The church offers a quiet, often heated atmosphere."
+              }
+            },
+            {
+              "name": "Cluster Change: Bus to Lake Sarnen",
+              "tip_5lang": {
+                "de": "Der Bus verkehrt auch im Winter regelmäßig nach Fahrplan.",
+                "hu": "A busz télen is rendszeresen közlekedik a menetrend szerint.",
+                "ro": "Autobuzul circulă regulat conform programului chiar și iarna.",
+                "en": "The bus runs regularly according to the schedule even in winter."
+              }
+            },
+            {
+              "name": "Walk and Relaxation at the Lake",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle liegt nah am See und am warmen Café.",
+                "hu": "A buszmegálló közel van a tóhoz és a meleg kávézóhoz.",
+                "ro": "Stația de autobuz este aproape de lac și de cafeneaua călduroasă.",
+                "en": "The bus stop is close to the lake and the warm café."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "In den Bussen ist es meist sehr warm, planen Sie Kleidung zum Ablegen ein.",
+              "Abends sind die Bahnhöfe gut beleuchtet und sicher.",
+              "Prüfen Sie den Winterfahrplan, manche Bergverbindungen könnten abweichen.",
+              "Warme Getränke sind an Automaten am Bahnhof Sarnen verfügbar."
+            ],
+            "hu": [
+              "A buszokon általában nagyon meleg van, készüljön levehető rétegekkel.",
+              "Este az állomások jól megvilágítottak és biztonságosak.",
+              "Ellenőrizze a téli menetrendet, egyes hegyi járatok eltérhetnek.",
+              "Meleg italok kaphatók az automatákból a sarneni állomáson."
+            ],
+            "ro": [
+              "În autobuze este de obicei foarte cald, planificați haine în straturi.",
+              "Seara, gările sunt bine iluminate și sigure.",
+              "Verificați programul de iarnă, unele conexiuni montane pot diferi.",
+              "Băuturi calde sunt disponibile la automatele din gara Sarnen."
+            ],
+            "en": [
+              "It's usually very warm on the buses, plan for removable layers.",
+              "At night, the stations are well-lit and safe.",
+              "Check the winter schedule, some mountain connections might differ.",
+              "Warm drinks are available at vending machines at Sarnen station."
+            ]
+          }
+        }
       }
     }
   }

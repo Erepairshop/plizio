@@ -334,6 +334,170 @@
           "Bring water, especially for the climb to the castle ruins.",
           "Check the museum's opening hours in advance."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag trocken in der Stadtpfarrkirche, deren Fresken auch bei grauem Himmel leuchten. Das Gailtaler Heimatmuseum im Schloss Lerchenhof bietet danach den idealen Zufluchtsort vor dem Regen. Mittags wärmen Sie sich in einem der gemütlichen Gasthöfe im Zentrum auf. Ein kurzer Spaziergang an der Gail im leichten Nieselregen wirkt erfrischend, bevor Sie den Tag entspannt ausklingen lassen.",
+            "hu": "Kezdje a napot szárazon a plébániatemplomban, ahol a freskók szürke égbolt mellett is ragyognak. A Lerchenhof-kastélyban található múzeum tökéletes menedék az eső elől. Ebédre keressen egy barátságos fogadót a központban. Egy rövid séta a Gail-folyó partján frissítő, még szemerkélő esőben is, mielőtt az esti pihenéshez érkezne a romok közelében.",
+            "ro": "Începeți ziua la adăpost în biserica parohială, admirând frescele interioare. Muzeul din castelul Lerchenhof este refugiul ideal împotriva ploii, oferind expoziții vaste. La prânz, încălziți-vă într-o tavernă locală din centru. O scurtă plimbare pe malul râului Gail este revigorantă chiar și sub umbrelă, urmată de o vizită prudentă la ruinele castelului.",
+            "en": "Start the day dry in the parish church, where the frescoes shine even under gray skies. The heritage museum in Lerchenhof Castle then provides the ideal shelter from the rain. For lunch, warm up in a cozy inn in the center. A short walk along the Gail River in the drizzle is refreshing before ending the day with a cautious look at the ruins."
+          },
+          "stops": [
+            {
+              "name": "Parish Church of St. Hermagoras",
+              "tip_5lang": {
+                "de": "Bewundern Sie die spätgotischen Wandmalereien im trockenen Kirchenschiff.",
+                "hu": "Csodálja meg a késő gótikus falfestményeket a száraz templomhajóban.",
+                "ro": "Admirați picturile murale gotice în interiorul uscat al navei.",
+                "en": "Admire the late Gothic murals in the dry interior of the nave."
+              }
+            },
+            {
+              "name": "Gailtal Heritage Museum in Lerchenhof Castle",
+              "tip_5lang": {
+                "de": "Perfekter Indoor-Stopp; planen Sie bei starkem Regen mehr Zeit für die Ausstellungen ein.",
+                "hu": "Tökéletes fedett program; erős esőben szánjon több időt a kiállításokra.",
+                "ro": "Popas interior perfect; alocați mai mult timp expozițiilor dacă plouă tare.",
+                "en": "Perfect indoor stop; allow more time for exhibitions if it rains heavily."
+              }
+            },
+            {
+              "name": "Lunch at a local inn",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit, um die Kleidung am Kachelofen zu trocknen.",
+                "hu": "Használja ki az időt a ruhák megszárítására a cserépkályha mellett.",
+                "ro": "Folosiți timpul pentru a vă usca hainele lângă soba de teracotă.",
+                "en": "Use the time to dry your clothes near the tiled stove."
+              }
+            },
+            {
+              "name": "Walk along the Gail River",
+              "tip_5lang": {
+                "de": "Fester Boden auf den Hauptwegen, aber Vorsicht vor Pfützen am Ufer.",
+                "hu": "Szilárd talaj a főutakon, de ügyeljen a tócsákra a part mentén.",
+                "ro": "Teren stabil pe potecile principale, dar atenție la bălțile de pe mal.",
+                "en": "Solid ground on main paths, but watch out for puddles along the bank."
+              }
+            },
+            {
+              "name": "Malenthein Castle Ruins",
+              "tip_5lang": {
+                "de": "Vorsicht auf rutschigem Kopfsteinpflaster und nassen Steinstufen.",
+                "hu": "Vigyázat a csúszós macskaköveken és a nedves vizes lépcsőkön.",
+                "ro": "Atenție la pietrele alunecoase și la treptele de piatră umede.",
+                "en": "Careful on slippery cobblestones and wet stone steps."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Wege an der Gail sind meist gut befestigt, aber Pfützen sind unvermeidlich.",
+              "Das Museum im Lerchenhof ist beheizt und bietet guten Schutz.",
+              "Ein großer Stockschirm ist bei Wind im Tal praktischer als ein kleiner Knirps.",
+              "Die Ruinen von Malenthein haben bei Regen eine mystische, neblige Atmosphäre."
+            ],
+            "hu": [
+              "A Gail-parti utak többnyire jól kiépítettek, de a tócsák elkerülhetetlenek.",
+              "A Lerchenhof múzeuma fűtött és kiváló védelmet nyújt.",
+              "A völgyben lévő szél miatt egy nagy boternyő praktikusabb, mint egy kicsi.",
+              "Malenthein romjai esőben misztikus, ködös hangulatot árasztanak."
+            ],
+            "ro": [
+              "Potecile de pe râul Gail sunt bine amenajate, dar bălțile sunt inevitabile.",
+              "Muzeul Lerchenhof este încălzit și oferă o protecție excelentă.",
+              "O umbrelă mare este mai practică decât una mică din cauza vântului din vale.",
+              "Ruinele Malenthein au o atmosferă mistică și cețoasă pe ploaie."
+            ],
+            "en": [
+              "The paths along the Gail are mostly well-paved, but puddles are inevitable.",
+              "The Lerchenhof museum is heated and provides excellent shelter.",
+              "A large umbrella is more practical than a small one due to the wind in the valley.",
+              "The Malenthein ruins have a mystical, misty atmosphere in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens empfängt Sie die Pfarrkirche mit einer stillen, frostigen Ruhe. Das Museum im Schloss Lerchenhof ist angenehm beheizt und zeigt die Geschichte des winterlichen Tals. Nach einem herzhaften Kärntner Mittagessen führt der Weg entlang der verschneiten Gail, wo der Frost die Bäume in Kristalle verwandelt. Beenden Sie den Tag bei den Ruinen, bevor die frühe Dämmerung gegen 16:30 Uhr einsetzt.",
+            "hu": "Reggel a plébániatemplom csendes, fagyos nyugalommal fogadja. A Lerchenhof-kastély múzeuma kellemesen fűtött, bemutatva a téli völgy történetét. Egy kiadós karintiai ebéd után az út a havas Gail mentén vezet, ahol a zúzmara kristályokká változtatja a fákat. A napot a romoknál fejezze be, mielőtt 16:30 körül leszáll a korai szürkület.",
+            "ro": "Dimineața, biserica parohială vă întâmpină cu o liniște înghețată. Muzeul din castelul Lerchenhof este încălzit plăcut, prezentând istoria văii pe timp de iarnă. După un prânz carintian copios, drumul continuă pe malul înzăpezit al râului Gail. Încheiați ziua la ruine înainte de lăsarea întunericului, în jurul orei 16:30.",
+            "en": "In the morning, the parish church welcomes you with a quiet, frosty calm. The museum in Lerchenhof Castle is pleasantly heated, showcasing the winter history of the valley. After a hearty Carinthian lunch, the path leads along the snowy Gail. End the day at the ruins before the early dusk sets in around 4:30 PM."
+          },
+          "stops": [
+            {
+              "name": "Parish Church of St. Hermagoras",
+              "tip_5lang": {
+                "de": "Nutzen Sie den windgeschützten Innenraum zum Aufwärmen nach dem Anmarsch.",
+                "hu": "Használja a szélvédett belső teret bemelegítésre az érkezés után.",
+                "ro": "Folosiți interiorul ferit de vânt pentru a vă încălzi după sosire.",
+                "en": "Use the wind-sheltered interior to warm up after your arrival."
+              }
+            },
+            {
+              "name": "Gailtal Heritage Museum in Lerchenhof Castle",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Sonderausstellungen zur Alpwirtschaft im warmen Inneren.",
+                "hu": "Látogassa meg az alpesi gazdálkodásról szóló időszaki kiállításokat a melegben.",
+                "ro": "Vizitați expozițiile speciale despre agricultura alpină în interiorul cald.",
+                "en": "Visit the special exhibitions on alpine farming in the warm interior."
+              }
+            },
+            {
+              "name": "Lunch at a local inn",
+              "tip_5lang": {
+                "de": "Bestellen Sie Kärntner Kasnudeln – das ideale Seelenfutter im Winter.",
+                "hu": "Rendeljen karintiai töltött tésztát (Kasnudeln) – ideális téli étel.",
+                "ro": "Comandați Kasnudeln carintiene – mâncarea ideală pentru confort iarna.",
+                "en": "Order Carinthian Kasnudeln – the ideal winter comfort food."
+              }
+            },
+            {
+              "name": "Walk along the Gail River",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stellen; die Wege werden geräumt, aber es bleibt glatt.",
+                "hu": "Ügyeljen a jeges szakaszokra; az utakat takarítják, de csúszós maradhat.",
+                "ro": "Atenție la porțiunile înghețate; potecile sunt curățate, dar rămân alunecoase.",
+                "en": "Watch out for icy spots; paths are cleared but remain slippery."
+              }
+            },
+            {
+              "name": "Malenthein Castle Ruins",
+              "tip_5lang": {
+                "de": "Festes Schuhwerk ist wegen Schnee auf den unebenen Wegen Pflicht.",
+                "hu": "A havas, egyenetlen utakon kötelező a stabil, zárt lábbeli.",
+                "ro": "Încălțămintea solidă este obligatorie din cauza zăpezii de pe poteci.",
+                "en": "Sturdy footwear is mandatory due to snow on the uneven paths."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne verschwindet im Tal früh hinter den Bergen; planen Sie das Ende für 16:00 Uhr.",
+              "Tragen Sie Zwiebelprinzip, da das Museum warm, der Gailweg aber sehr zugig ist.",
+              "Die Wege an der Gail werden im Winter als Winterwanderwege präpariert.",
+              "Die Burgruine ist im Winter nicht beleuchtet; Taschenlampe für den Abstieg einpacken."
+            ],
+            "hu": [
+              "A nap korán eltűnik a hegyek mögött a völgyben; tervezze a befejezést 16:00-ra.",
+              "Öltözzön rétegesen, mert a múzeum meleg, de a Gail-menti út szeles.",
+              "A Gail-menti utakat télen téli túraútvonalként tartják karban.",
+              "A várrom télen nincs kivilágítva; vigyen zseblámpát a leereszkedéshez."
+            ],
+            "ro": [
+              "Soarele dispare devreme după munți; planificați finalul traseului pentru ora 16:00.",
+              "Îmbrăcați-vă în straturi: muzeul este cald, dar drumul de pe Gail este vântos.",
+              "Potecile de pe râul Gail sunt pregătite iarna ca trasee de drumeție montană.",
+              "Ruinele nu sunt iluminate iarna; luați o lanternă pentru coborâre."
+            ],
+            "en": [
+              "The sun disappears behind the mountains early in the valley; plan to finish by 4 PM.",
+              "Dress in layers, as the museum is warm but the Gail path is very drafty.",
+              "The paths along the Gail are maintained as winter hiking trails.",
+              "The castle ruins are not illuminated in winter; pack a flashlight for the descent."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -662,6 +826,170 @@
           "The cycle path is very popular; ride with foresight on weekends.",
           "A helmet is strongly recommended."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Holen Sie Ihr Leihrad ab und rüsten Sie sich mit Regenponchos aus. Die Fahrt auf dem R3 Radweg entlang der Gail ist flach und auch bei Nässe sicher befahrbar. Am Pressegger See angekommen, wirkt das Wasser unter den tief hängenden Wolken fast silbern. Ein langes Mittagessen am Seeufer lässt den Regen vorbeiziehen, bevor Sie am Nachmittag entspannt zurückradeln.",
+            "hu": "Vegye át a bérelt kerékpárt, és készüljön esőponchóval. Az R3 kerékpárút a Gail mentén sík, és nedves időben is biztonságosan járható. A Presseggeri-tóhoz érve a víz szinte ezüstösnek tűnik az alacsony felhők alatt. Egy hosszú ebéd a tóparton segít kivárni az esőt, mielőtt délután visszatekernének.",
+            "ro": "Luați bicicleta închiriată și echipați-vă cu pelerine. Traseul R3 de-a lungul râului Gail este plat și sigur chiar și pe ploaie. La lacul Pressegger, apa pare argintie sub norii joși. Un prânz prelungit pe malul lacului vă va feri de ploaie înainte de drumul de întoarcere din cursul după-amiezii.",
+            "en": "Pick up your rental bike and equip yourself with rain ponchos. The ride on the R3 cycle path along the Gail is flat and safe even in wet conditions. At Lake Pressegger, the water looks almost silvery under the low-hanging clouds. A long lunch by the lake lets the rain pass before cycling back in the afternoon."
+          },
+          "stops": [
+            {
+              "name": "Bike Rental & Start in Hermagor",
+              "tip_5lang": {
+                "de": "Fragen Sie nach Rädern mit guten Schutzblechen gegen Spritzwasser.",
+                "hu": "Kérjen sárvédővel jól felszerelt kerékpárt a felfröccsenő víz ellen.",
+                "ro": "Cereți biciclete cu aripi bune pentru a vă proteja de apă.",
+                "en": "Ask for bikes with good fenders to protect against splashes."
+              }
+            },
+            {
+              "name": "Ride along the Gailtal Cycle Path R3",
+              "tip_5lang": {
+                "de": "Vorsicht in Kurven auf nassen Blättern oder Holzbrücken.",
+                "hu": "Vigyázat a kanyarokban a nedves leveleken vagy fahidakon.",
+                "ro": "Atenție în curbe pe frunzele ude sau pe podurile de lemn.",
+                "en": "Be careful in turns on wet leaves or wooden bridges."
+              }
+            },
+            {
+              "name": "Lake Pressegger",
+              "tip_5lang": {
+                "de": "Das Strandbad bietet überdachte Unterstände für eine kurze Pause.",
+                "hu": "A strandfürdő fedett pihenőhelyeket kínál egy rövid szünetre.",
+                "ro": "Ștrandul oferă adăposturi acoperite pentru o scurtă pauză.",
+                "en": "The lido offers covered shelters for a short break."
+              }
+            },
+            {
+              "name": "Lunch by the lake",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit direktem Blick auf den verregneten See.",
+                "hu": "Válasszon egy éttermet, ahonnan közvetlen kilátás nyílik az esős tóra.",
+                "ro": "Alegeți un restaurant cu vedere directă spre lacul plouat.",
+                "en": "Choose a restaurant with a direct view of the rainy lake."
+              }
+            },
+            {
+              "name": "Return ride to Hermagor",
+              "tip_5lang": {
+                "de": "Prüfen Sie vor der Abfahrt nochmals die Bremsbeläge auf Nässeeffizienz.",
+                "hu": "Indulás előtt ellenőrizze újra a fékhatást nedves körülmények között.",
+                "ro": "Verificați din nou eficiența frânelor pe carosabil umed înainte de plecare.",
+                "en": "Check brake efficiency in wet conditions again before departure."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der R3 ist asphaltiert, was die Fahrt bei Regen deutlich angenehmer macht als auf Schotter.",
+              "Nehmen Sie wasserdichte Packtaschen für Wertsachen und Kamera mit.",
+              "Die Sicht kann durch Dunst eingeschränkt sein; schalten Sie das Fahrradlicht ein.",
+              "Nach der Tour gibt es in Hermagor Möglichkeiten zum Aufwärmen bei heißer Schokolade."
+            ],
+            "hu": [
+              "Az R3 út aszfaltozott, ami esőben sokkal kellemesebb, mint a murva.",
+              "Vigyen vízálló táskát az értéktárgyaknak és a kamerának.",
+              "A pára miatt a látótávolság korlátozott lehet; kapcsolja be a kerékpáros világítást.",
+              "A túra után Hermagorban érdemes felmelegedni egy forró csokoládéval."
+            ],
+            "ro": [
+              "R3 este asfaltat, ceea ce face plimbarea mult mai plăcută pe ploaie decât pe pietriș.",
+              "Luați genți impermeabile pentru obiectele de valoare și aparatul foto.",
+              "Vizibilitatea poate fi redusă de ceață; aprindeți luminile bicicletei.",
+              "După tură, există locuri în Hermagor unde vă puteți încălzi cu o ciocolată caldă."
+            ],
+            "en": [
+              "The R3 is paved, which makes riding in the rain much more pleasant than on gravel.",
+              "Bring waterproof panniers for valuables and your camera.",
+              "Visibility may be limited by mist; turn on your bike lights.",
+              "After the tour, there are places in Hermagor to warm up with hot chocolate."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie dick eingepackt mit Handschuhen und Mütze am Radverleih. Die Fahrt zum Pressegger See führt durch eine glitzernde Winterlandschaft entlang der Gail. Der See ist im Winter oft zugefroren und bietet eine beeindruckende Kulisse für heißen Tee am Ufer. Genießen Sie die klare, kalte Luft auf dem Rückweg, während die tiefstehende Sonne lange Schatten wirft.",
+            "hu": "Induljon vastagon felöltözve, kesztyűben és sapkában a kerékpárkölcsönzőtől. Az út a Presseggeri-tóhoz csillogó téli tájon át vezet a Gail mentén. A tó télen gyakran befagy, lenyűgöző díszletet kínálva egy forró teához a parton. Élvezze a tiszta, hideg levegőt a visszaúton, miközben az alacsonyan járó nap hosszú árnyékokat vet.",
+            "ro": "Porniți bine echipați cu mănuși și căciulă de la centrul de închirieri. Drumul spre lacul Pressegger trece printr-un peisaj de iarnă sclipitor. Lacul este adesea înghețat iarna, oferind un cadru impresionant pentru un ceai fierbinte. Bucurați-vă de aerul rece și curat la întoarcere, sub soarele blând de iarnă.",
+            "en": "Start warmly dressed with gloves and a hat at the bike rental. The ride to Lake Pressegger leads through a glittering winter landscape along the Gail. The lake is often frozen in winter, offering an impressive backdrop for hot tea on the shore. Enjoy the clear, cold air on the way back as the low sun casts long shadows."
+          },
+          "stops": [
+            {
+              "name": "Bike Rental & Start in Hermagor",
+              "tip_5lang": {
+                "de": "Fragen Sie nach Mountainbikes mit breiteren Reifen für besseren Grip bei Reifglätte.",
+                "hu": "Kérjen szélesebb gumis mountain bike-ot a jobb tapadásért zúzmarás úton.",
+                "ro": "Cereți biciclete cu anvelope mai late pentru o aderență mai bună pe polei.",
+                "en": "Ask for mountain bikes with wider tires for better grip on frosty surfaces."
+              }
+            },
+            {
+              "name": "Ride along the Gailtal Cycle Path R3",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenem Kondenswasser in schattigen Waldstücken.",
+                "hu": "Vigyázat az árnyékos erdei szakaszokon megfagyott pára miatt.",
+                "ro": "Atenție la condensul înghețat în porțiunile de pădure umbrite.",
+                "en": "Watch out for frozen condensation in shaded forest sections."
+              }
+            },
+            {
+              "name": "Lake Pressegger",
+              "tip_5lang": {
+                "de": "Sollte der See zum Eislaufen freigegeben sein, können Sie hier eine Pause einlegen.",
+                "hu": "Ha a tavat megnyitják korcsolyázásra, itt tarthat egy hosszabb szünetet.",
+                "ro": "Dacă lacul este deschis pentru patinaj, puteți face o pauză aici.",
+                "en": "If the lake is open for ice skating, you can take a break here."
+              }
+            },
+            {
+              "name": "Lunch by the lake",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Lokal mit Kamin oder Heizstrahlern auf der Terrasse.",
+                "hu": "Válasszon kandallós helyet vagy olyat, ahol hősugárzó van a teraszon.",
+                "ro": "Alegeți un local cu șemineu sau radiatoare pe terasă.",
+                "en": "Choose a place with a fireplace or heaters on the terrace."
+              }
+            },
+            {
+              "name": "Return ride to Hermagor",
+              "tip_5lang": {
+                "de": "Planen Sie die Rückkehr spätestens für 16:00 Uhr, da es danach sehr schnell kalt wird.",
+                "hu": "Tervezze a visszatérést legkésőbb 16:00-ra, utána hirtelen hűl le a levegő.",
+                "ro": "Planificați întoarcerea cel târziu la ora 16:00, deoarece se răcește rapid.",
+                "en": "Plan to return by 4 PM at the latest, as it gets cold very quickly afterwards."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrradbrillen schützen die Augen vor dem kalten Fahrtwind und Tränen.",
+              "Die Radwege werden im Winter nicht immer prioritär geräumt; mit Schnee rechnen.",
+              "Ein kleiner Thermosbecher mit heißem Getränk ist auf dieser Tour Gold wert.",
+              "Akkus von E-Bikes entladen sich bei Kälte schneller; Reichweite genau prüfen."
+            ],
+            "hu": [
+              "A kerékpáros szemüveg védi a szemet a hideg menetszéltől és a könnyezéstől.",
+              "A kerékpárutakat télen nem mindig takarítják prioritással; számítson hóra.",
+              "Egy kis termosz forró itallal aranyat ér ezen a túrán.",
+              "Az e-bike akkumulátorok hidegben gyorsabban merülnek; ellenőrizze a hatótávot."
+            ],
+            "ro": [
+              "Ochelarii de ciclism protejează ochii de vântul rece și de lăcrimare.",
+              "Pistele de biciclete nu sunt întotdeauna curățate prioritar iarna; așteptați-vă la zăpadă.",
+              "Un termos mic cu o băutură caldă valorează aur în această tură.",
+              "Bateriile bicicletelor electrice se descarcă mai repede la frig; verificați autonomia."
+            ],
+            "en": [
+              "Cycling glasses protect your eyes from the cold wind and tearing up.",
+              "Cycle paths are not always prioritized for clearing in winter; expect snow.",
+              "A small thermos with a hot drink is worth its weight in gold on this tour.",
+              "E-bike batteries discharge faster in the cold; check your range carefully."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1054,6 +1382,206 @@
           "On sunny days, the parking lot at the lake can get full; arrive early.",
           "Bring both hiking gear and swimwear."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie das Auto als mobile Basis und parken Sie nah am Zentrum von Hermagor. Vormittags bieten Kirche und Museum ein reichhaltiges Kulturprogramm im Trockenen. Die Fahrt zum Pressegger See ist auch bei Regen entspannt, und das Mittagessen mit Seeblick bleibt gemütlich. Nachmittags bringt Sie die Millennium-Express-Gondel über die Regenwolken hinauf aufs Nassfeld, wo oft eine ganz eigene Atmosphäre herrscht.",
+            "hu": "Használja az autót mobil bázisként, és parkoljon közel Hermagor központjához. Délelőtt a templom és a múzeum gazdag kulturális programot kínál szárazon. Az út a Presseggeri-tóhoz esőben is pihentető, a tóparti ebéd pedig hangulatos marad. Délután a Millennium-Express gondola a felhők fölé viszi a Nassfeldre, ahol gyakran egészen különleges a hangulat.",
+            "ro": "Folosiți mașina ca bază mobilă și parcați aproape de centrul orașului Hermagor. Dimineața, biserica și muzeul oferă un program cultural bogat la adăpost. Drumul spre lacul Pressegger este relaxant chiar și pe ploaie. După-amiaza, telegondola Millennium-Express vă duce deasupra norilor de ploaie, pe Nassfeld.",
+            "en": "Use the car as a mobile base and park close to the center of Hermagor. In the morning, the church and museum offer a rich cultural program indoors. The drive to Lake Pressegger is relaxing even in the rain, and lunch with a lake view remains cozy. In the afternoon, the Millennium-Express gondola takes you above the rain clouds to Nassfeld."
+          },
+          "stops": [
+            {
+              "name": "Parking and Old Town Hermagor",
+              "tip_5lang": {
+                "de": "Parkplatz Gasserplatz ist nah am Museum und bietet schnellen Zugang zum Trockenen.",
+                "hu": "A Gasserplatz parkoló közel van a múzeumhoz, gyors bejutást biztosítva.",
+                "ro": "Parcarea Gasserplatz este aproape de muzeu și oferă acces rapid la adăpost.",
+                "en": "Gasserplatz parking is close to the museum and offers quick access to shelter."
+              }
+            },
+            {
+              "name": "Parish Church & Heritage Museum",
+              "tip_5lang": {
+                "de": "Hinterlegen Sie nasse Schirme an der Garderobe des Schlosses Lerchenhof.",
+                "hu": "Hagyja a vizes esernyőket a Lerchenhof-kastély ruhatárában.",
+                "ro": "Lăsați umbrelele ude la garderoba castelului Lerchenhof.",
+                "en": "Leave wet umbrellas at the cloakroom of Lerchenhof Castle."
+              }
+            },
+            {
+              "name": "Drive to Lake Pressegger",
+              "tip_5lang": {
+                "de": "Parken Sie direkt beim Strandbad, um die Wege im Freien zu minimieren.",
+                "hu": "Parkoljon közvetlenül a strandnál, hogy minimálisra csökkentse a kinti sétát.",
+                "ro": "Parcați direct la ștrand pentru a minimiza plimbările în aer liber.",
+                "en": "Park directly at the lido to minimize outdoor walking."
+              }
+            },
+            {
+              "name": "Lunch and relaxation by the lake",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Regenschleier über dem Wasser vom warmen Lokal aus.",
+                "hu": "Élvezze a víz feletti esőfüggöny látványát a meleg étteremből.",
+                "ro": "Bucurați-vă de vederea pânzelor de ploaie de pe apă din localul cald.",
+                "en": "Enjoy the view of rain veils over the water from the warm restaurant."
+              }
+            },
+            {
+              "name": "Drive to Millennium-Express valley station",
+              "tip_5lang": {
+                "de": "Die Parkplätze bei der Talstation sind bei Regen meist weniger frequentiert.",
+                "hu": "Az alsó állomásnál lévő parkolók esőben általában kevésbé zsúfoltak.",
+                "ro": "Parcările de la stația de plecare sunt de obicei mai libere pe ploaie.",
+                "en": "Parking spaces at the valley station are usually less busy when it rains."
+              }
+            },
+            {
+              "name": "Ascent to Nassfeld",
+              "tip_5lang": {
+                "de": "Geschlossene Kabinen bieten Schutz; oben gibt es mehrere gemütliche Almhütten.",
+                "hu": "A zárt kabinok védelmet nyújtanak; fent több hangulatos alpesi hütte várja.",
+                "ro": "Cabinele închise oferă protecție; sus există mai multe cabane primitoare.",
+                "en": "Closed cabins provide shelter; there are several cozy alpine huts at the top."
+              }
+            },
+            {
+              "name": "Garnitzenklamm (optional short stop)",
+              "tip_5lang": {
+                "de": "Bei Starkregen wegen Steinschlaggefahr und Hochwasser meiden.",
+                "hu": "Erős esőzés esetén kőomlás és áradásveszély miatt kerülendő.",
+                "ro": "Evitați zona în caz de ploaie torențială din cauza riscului de căderi de pietre.",
+                "en": "Avoid in heavy rain due to danger of falling rocks and high water."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahren Sie auf der B111 vorsichtig bei Aquaplaning-Gefahr im Tal.",
+              "Die Bergbahn fährt auch bei Regen, stellt den Betrieb aber bei Sturm ein.",
+              "Im Auto haben Sie die Freiheit, Ersatzkleidung für alle Fälle mitzuführen.",
+              "Die Garnitzenklamm ist bei Regen oft gesperrt; Infotafel im Ort prüfen."
+            ],
+            "hu": [
+              "Vezessen óvatosan a B111-es úton a völgyben kialakuló vízátfolyások miatt.",
+              "A felvonó esőben is jár, de vihar esetén leállítják.",
+              "Az autóban tarthat váltóruhát minden eshetőségre.",
+              "A Garnitzenklamm esőben gyakran le van zárva; ellenőrizze a táblát a faluban."
+            ],
+            "ro": [
+              "Conduceți cu atenție pe B111 din cauza riscului de acvaplanare în vale.",
+              "Telegondola funcționează și pe ploaie, dar se oprește în caz de furtună.",
+              "În mașină aveți libertatea de a lua haine de schimb pentru orice eventualitate.",
+              "Cheile Garnitzenklamm sunt adesea închise pe ploaie; verificați panoul din sat."
+            ],
+            "en": [
+              "Drive carefully on the B111 due to aquaplaning risk in the valley.",
+              "The cable car runs in rain but stops operating during storms.",
+              "In the car, you have the freedom to carry spare clothes for all eventualities.",
+              "Garnitzenklamm is often closed during rain; check the info board in town."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie mit einem freien Blick auf die schneebedeckten Gipfel. Das Auto bringt Sie bequem zu den kulturellen Schätzen Hermagors. Die kurze Fahrt zum Pressegger See führt durch eine Märchenlandschaft; der See selbst lädt zum Winterwandern ein. Der Höhepunkt ist die Fahrt aufs Nassfeld, das im Winter ein pulsierendes Skigebiet ist. Genießen Sie das Alpenpanorama bequem von der Bergstation aus.",
+            "hu": "Kezdje a napot tiszta kilátással a hófödte csúcsokra. Az autó kényelmesen elviszi Hermagor kulturális kincseihez. A rövid út a Presseggeri-tóhoz mesebeli tájon át vezet; maga a tó téli túrázásra csábít. A csúcspont a Nassfeldre való feljutás, amely télen pezsgő síparadicsom. Élvezze az alpesi panorámát kényelmesen a hegyi állomásról.",
+            "ro": "Începeți ziua cu o vedere clară asupra vârfurilor înzăpezite. Mașina vă duce confortabil la comorile culturale din Hermagor. Drumul scurt spre lacul Pressegger trece printr-un peisaj de basm. Punctul culminant este urcarea pe Nassfeld, care iarna este o stațiune de schi vibrantă. Bucurați-vă de panorama alpină de la stația de sus.",
+            "en": "Start with a clear view of the snow-covered peaks. The car comfortably takes you to the cultural treasures of Hermagor. The short drive to Lake Pressegger leads through a fairy-tale landscape; the lake itself invites you for winter hiking. The highlight is the trip to Nassfeld, a vibrant ski resort in winter. Enjoy the alpine panorama from the mountain station."
+          },
+          "stops": [
+            {
+              "name": "Parking and Old Town Hermagor",
+              "tip_5lang": {
+                "de": "Achten Sie auf geräumte Parkflächen; blaue Zonen sind oft schneeüberhäuft.",
+                "hu": "Figyeljen a letakarított parkolókra; a kék zónák gyakran havasak.",
+                "ro": "Căutați locuri de parcare deszăpezite; zonele albastre sunt adesea acoperite de zăpadă.",
+                "en": "Look for cleared parking areas; blue zones are often covered in snow."
+              }
+            },
+            {
+              "name": "Parish Church & Heritage Museum",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Weihnachtsausstellungen, falls Sie im Dezember reisen.",
+                "hu": "Látogassa meg a karácsonyi kiállításokat, ha decemberben utazik.",
+                "ro": "Vizitați expozițiile de Crăciun dacă călătoriți în decembrie.",
+                "en": "Visit the Christmas exhibitions if you are traveling in December."
+              }
+            },
+            {
+              "name": "Drive to Lake Pressegger",
+              "tip_5lang": {
+                "de": "Winterreifen sind auf den Nebenstraßen zum See zwingend erforderlich.",
+                "hu": "A tóhoz vezető mellékutakon kötelező a téli gumi.",
+                "ro": "Anvelopele de iarnă sunt obligatorii pe drumurile secundare spre lac.",
+                "en": "Winter tires are mandatory on the side roads to the lake."
+              }
+            },
+            {
+              "name": "Lunch and relaxation by the lake",
+              "tip_5lang": {
+                "de": "Beobachten Sie Eissegler oder Schlittschuhläufer vom Fenster aus.",
+                "hu": "Figyelje a jégvitorlázókat vagy korcsolyázókat az ablakból.",
+                "ro": "Observați iahturile cu pânze pe gheață sau patinatorii de la fereastră.",
+                "en": "Watch ice sailors or ice skaters from the window."
+              }
+            },
+            {
+              "name": "Drive to Millennium-Express valley station",
+              "tip_5lang": {
+                "de": "Planen Sie mehr Zeit ein; Skifahrer sorgen für erhöhtes Verkehrsaufkommen.",
+                "hu": "Szánjon rá több időt; a síelők miatt nagyobb lehet a forgalom.",
+                "ro": "Planificați mai mult timp; schiorii cauzează un trafic mai intens.",
+                "en": "Allow more time; skiers cause increased traffic volume."
+              }
+            },
+            {
+              "name": "Ascent to Nassfeld",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Pisten; auch für Nicht-Skifahrer ein Erlebnis.",
+                "hu": "Élvezze a kilátást a pályákra; nem síelőknek is nagy élmény.",
+                "ro": "Bucurați-vă de vederea pârtiilor; o experiență și pentru cei care nu schiază.",
+                "en": "Enjoy the view of the slopes; an experience even for non-skiers."
+              }
+            },
+            {
+              "name": "Garnitzenklamm (optional short stop)",
+              "tip_5lang": {
+                "de": "Im Winter meist gesperrt; nur der Eingangsbereich ist sicher begehbar.",
+                "hu": "Télen többnyire le van zárva; csak a bejárati rész látogatható biztonságosan.",
+                "ro": "De cele mai multe ori închis iarna; doar zona de intrare este sigură.",
+                "en": "Mostly closed in winter; only the entrance area is safely accessible."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Führen Sie Schneeketten mit, falls Sie direkt auf Passstraßen fahren möchten.",
+              "Die Bergstation Nassfeld liegt auf 1.500m; es ist dort deutlich kälter als im Tal.",
+              "Parkplätze bei der Talstation sind für Tagesgäste oft schnell belegt.",
+              "Prüfen Sie morgens den Wetterbericht für die Gipfellagen (Webcams)."
+            ],
+            "hu": [
+              "Vigyen hóláncot, ha közvetlenül a hágó utakon szeretne autózni.",
+              "A nassfeldi hegyi állomás 1500 méteren van; ott sokkal hidegebb van, mint a völgyben.",
+              "Az alsó állomás parkolói a napijegyes vendégek miatt gyorsan betelnek.",
+              "Reggel ellenőrizze a csúcsokon várható időjárást (webkamerák)."
+            ],
+            "ro": [
+              "Luați lanțuri de zăpadă dacă doriți să conduceți direct pe drumurile montane.",
+              "Stația de sus de pe Nassfeld este la 1.500 m; acolo este mult mai frig decât în vale.",
+              "Parcările de la stația de plecare se ocupă repede de către turiștii de o zi.",
+              "Verificați prognoza meteo pentru vârfuri dimineața (camere web)."
+            ],
+            "en": [
+              "Carry snow chains if you plan to drive directly on pass roads.",
+              "The Nassfeld mountain station is at 1,500m; it is significantly colder there than in the valley.",
+              "Parking spaces at the valley station often fill up quickly with day guests.",
+              "Check the weather report for the summit areas in the morning (webcams)."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1398,6 +1926,170 @@
           "Check the bus schedule online in advance, especially for the last return trip.",
           "Be at the bus stop on time, buses in rural areas do not wait."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie die Postbusse, um trocken zwischen den Highlights zu pendeln. Vormittags erkunden Sie das Zentrum von Hermagor. Die Busfahrt zum Pressegger See bietet einen Blick auf das verregnete Tal, ohne nass zu werden. Nach einem gemütlichen Mittagessen am See bringt Sie der Bus zurück in Richtung Garnitzenklamm, wobei Sie bei starkem Regen eher im warmen Bus bleiben sollten.",
+            "hu": "Használja a Postbus járatokat, hogy szárazon közlekedjen a látnivalók között. Délelőtt fedezze fel Hermagor központját. A buszos út a Presseggeri-tóhoz kilátást nyújt az esős völgyre anélkül, hogy elázna. Egy tóparti ebéd után a busz visszaviszi a Garnitzenklamm irányába, bár erős esőben érdemesebb a meleg buszban maradni.",
+            "ro": "Folosiți autobuzele Postbus pentru a călători între principalele atracții. Dimineața, explorați centrul orașului Hermagor. Drumul spre lacul Pressegger oferă o vedere asupra văii plouate. După un prânz plăcut la lac, autobuzul vă duce înapoi spre Garnitzenklamm, deși pe ploaie tare e mai bine să rămâneți în autobuz.",
+            "en": "Use the Postbus to commute dry between the highlights. In the morning, explore the center of Hermagor. The bus ride to Lake Pressegger offers a view of the rainy valley without getting wet. After a cozy lunch by the lake, the bus takes you back towards Garnitzenklamm, though in heavy rain, it's better to stay in the warm bus."
+          },
+          "stops": [
+            {
+              "name": "Hermagor Town Center & Church",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle im Zentrum hat einen überdachten Wartebereich.",
+                "hu": "A központi buszmegálló fedett várakozóhellyel rendelkezik.",
+                "ro": "Stația de autobuz din centru are o zonă de așteptare acoperită.",
+                "en": "The bus stop in the center has a covered waiting area."
+              }
+            },
+            {
+              "name": "Bus ride to Lake Pressegger",
+              "tip_5lang": {
+                "de": "Genießen Sie die Fahrt; der Bus hält direkt am Eingang zum See.",
+                "hu": "Élvezze az utat; a busz közvetlenül a tó bejáratánál áll meg.",
+                "ro": "Bucurați-vă de drum; autobuzul oprește chiar la intrarea spre lac.",
+                "en": "Enjoy the ride; the bus stops directly at the entrance to the lake."
+              }
+            },
+            {
+              "name": "Lunch and walk by the lake",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant nah an der Bushaltestelle, um den Regenweg kurz zu halten.",
+                "hu": "Válasszon buszmegállóhoz közeli éttermet, hogy rövid legyen az esőben megtett út.",
+                "ro": "Alegeți un restaurant aproape de stație pentru a scurta drumul prin ploaie.",
+                "en": "Choose a restaurant near the bus stop to keep the walk in the rain short."
+              }
+            },
+            {
+              "name": "Bus ride to Garnitzenklamm",
+              "tip_5lang": {
+                "de": "Fragen Sie den Fahrer nach dem aktuellen Status der Klamm bei Regen.",
+                "hu": "Kérdezze a sofőrt a szurdok aktuális állapotáról esőben.",
+                "ro": "Întrebați șoferul despre starea actuală a cheilor pe ploaie.",
+                "en": "Ask the driver about the current status of the gorge during rain."
+              }
+            },
+            {
+              "name": "Return trip to Hermagor",
+              "tip_5lang": {
+                "de": "Die Busse verkehren auch bei schlechtem Wetter zuverlässig nach Plan.",
+                "hu": "A buszok rossz időben is megbízhatóan, menetrend szerint közlekednek.",
+                "ro": "Autobuzele circulă regulat conform programului, chiar și pe vreme rea.",
+                "en": "Buses operate reliably according to schedule even in bad weather."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Laden Sie die ÖBB Scotty App für Echtzeit-Infos bei witterungsbedingten Verzögerungen.",
+              "Mit der Regionskarte ist der Bus oft kostenlos; beim Einsteigen vorzeigen.",
+              "Die Haltestellen am See bieten wenig Schutz; Timing ist hier alles.",
+              "Helfen Sie anderen Fahrgästen mit dem Regenschirm beim Ein- und Aussteigen."
+            ],
+            "hu": [
+              "Töltse le az ÖBB Scotty alkalmazást a valós idejű információkhoz.",
+              "A régiós kártyával a busz gyakran ingyenes; mutassa be felszálláskor.",
+              "A tónál lévő megállók kevés védelmet nyújtanak; az időzítés fontos.",
+              "Segítsen más utasoknak az esernyővel a fel- és leszálláskor."
+            ],
+            "ro": [
+              "Descărcați aplicația ÖBB Scotty pentru informații în timp real.",
+              "Cu cardul regional, autobuzul este adesea gratuit; prezentați-l la urcare.",
+              "Stațiile de la lac oferă puțin adăpost; sincronizarea este esențială.",
+              "Ajutați ceilalți pasageri cu umbrela la urcarea și coborârea din autobuz."
+            ],
+            "en": [
+              "Download the ÖBB Scotty app for real-time info on weather-related delays.",
+              "With the regional card, the bus is often free; show it when boarding.",
+              "The stops at the lake offer little shelter; timing is everything here.",
+              "Help other passengers with your umbrella when boarding and alighting."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie die winterliche Ruhe des Gailtals vom warmen Postbus aus. Morgens besichtigen Sie die historischen Stätten in Hermagor. Die Fahrt zum Pressegger See führt durch tief verschneite Dörfer. Am Nachmittag bringt Sie der Bus in die Nähe der Garnitzenklamm, wobei Sie im Winter die winterliche Stille am Taleingang genießen können, bevor es zurück ins beleuchtete Hermagor geht.",
+            "hu": "Élje át a Gail-völgy téli nyugalmát a meleg Postbusból. Reggel látogassa meg Hermagor történelmi helyszíneit. Az út a Presseggeri-tóhoz mélyen havas falvakon át vezet. Délután a busz a Garnitzenklamm közelébe viszi, ahol élvezheti a téli csendet a völgy bejáratánál, mielőtt visszatérne a kivilágított Hermagorba.",
+            "ro": "Experimentați liniștea de iarnă a văii Gail din autobuzul cald. Dimineața, vizitați locurile istorice din Hermagor. Drumul spre lac trece prin sate înzăpezite. După-amiaza, autobuzul vă duce spre cheile Garnitzenklamm, unde puteți savura liniștea iernii la intrarea în vale.",
+            "en": "Experience the winter peace of the Gail Valley from the warm Postbus. In the morning, visit the historical sites in Hermagor. The trip to Lake Pressegger leads through villages deep in snow. In the afternoon, the bus takes you near the Garnitzenklamm, where you can enjoy the winter silence at the valley entrance before returning to illuminated Hermagor."
+          },
+          "stops": [
+            {
+              "name": "Hermagor Town Center & Church",
+              "tip_5lang": {
+                "de": "Der Bahnhof Hermagor bietet einen beheizten Wartesaal.",
+                "hu": "A hermagori vasútállomáson fűtött váróterem található.",
+                "ro": "Gara din Hermagor oferă o sală de așteptare încălzită.",
+                "en": "Hermagor train station offers a heated waiting room."
+              }
+            },
+            {
+              "name": "Bus ride to Lake Pressegger",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den oft schneebedeckten See aus dem Fenster.",
+                "hu": "Élvezze a kilátást a havas tóra a busz ablakából.",
+                "ro": "Bucurați-vă de vederea lacului înzăpezit de la fereastra autobuzului.",
+                "en": "Enjoy the view of the often snow-covered lake from the window."
+              }
+            },
+            {
+              "name": "Lunch and walk by the lake",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Rückfahrzeiten; im Winter fahren manche Busse seltener.",
+                "hu": "Ellenőrizze a visszaindulási időket; télen egyes buszok ritkábban járnak.",
+                "ro": "Verificați orele de întoarcere; iarna, unele autobuze circulă mai rar.",
+                "en": "Check return times; in winter, some buses run less frequently."
+              }
+            },
+            {
+              "name": "Bus ride to Garnitzenklamm",
+              "tip_5lang": {
+                "de": "Der Bus hält an der Hauptstraße; von dort ist es ein kurzer Winterspaziergang.",
+                "hu": "A busz a főúton áll meg; onnan egy rövid téli séta a bejárat.",
+                "ro": "Autobuzul oprește la drumul principal; de acolo urmează o scurtă plimbare.",
+                "en": "The bus stops at the main road; from there it's a short winter walk."
+              }
+            },
+            {
+              "name": "Return trip to Hermagor",
+              "tip_5lang": {
+                "de": "Achten Sie auf Rutschgefahr beim Einsteigen durch mitgebrachten Schnee.",
+                "hu": "Vigyázzon, felszálláskor a behordott hó miatt csúszós lehet a busz padlója.",
+                "ro": "Atenție la riscul de alunecare la urcare din cauza zăpezii aduse pe încălțăminte.",
+                "en": "Watch out for slippery floors when boarding due to snow brought in on shoes."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Im Winter können Busse aufgrund von Schneefall leichte Verspätungen haben.",
+              "Die Haltestellen werden meist geräumt, aber es kann am Rand glatt sein.",
+              "Die Heizung in den Bussen ist sehr stark; Zwiebelprinzip ist ratsam.",
+              "Nutzen Sie die letzte Busverbindung vor Einbruch der Dunkelheit (ca. 16:30)."
+            ],
+            "hu": [
+              "Télen a buszok a hóesés miatt kisebb késésekkel közlekedhetnek.",
+              "A megállókat többnyire takarítják, de a széleken csúszós lehet.",
+              "A buszok fűtése nagyon erős; érdemes rétegesen öltözni.",
+              "Használja az utolsó buszjáratot sötétedés előtt (kb. 16:30)."
+            ],
+            "ro": [
+              "Iarna, autobuzele pot avea mici întârzieri din cauza căderilor de zăpadă.",
+              "Stațiile sunt de obicei deszăpezite, dar marginile pot fi alunecoase.",
+              "Încălzirea în autobuze este foarte puternică; se recomandă îmbrăcămintea în straturi.",
+              "Folosiți ultima conexiune de autobuz înainte de lăsarea întunericului (cca. 16:30)."
+            ],
+            "en": [
+              "In winter, buses may have slight delays due to snowfall.",
+              "Stops are usually cleared, but it can be slippery at the edges.",
+              "The heating in the buses is very strong; dressing in layers is advisable.",
+              "Use the last bus connection before dark (around 4:30 PM)."
+            ]
+          }
+        }
       }
     }
   }

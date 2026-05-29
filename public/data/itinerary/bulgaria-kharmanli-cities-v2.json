@@ -386,6 +386,206 @@
           "Most sights are close to each other, so walking is the best way to experience the city.",
           "Check the museum's opening hours in advance."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren regnerischen Vormittag am alten Uhrturm, wo das Kopfsteinpflaster im Regen glänzt. Das Historische Museum bietet danach den perfekten, trockenen Rückzugsort für eine ausgiebige Besichtigung. Mittags führt der Weg zur St.-Athanasius-Kirche, die eine andächtige Stille ausstrahlt. Den Nachmittag verbringen Sie trotz Schirm an der geschichtsträchtigen Buckelbrücke und beenden den Tag bei einem erfrischenden, feuchten Spaziergang im Gergana-Park.",
+            "hu": "Kezdje az esős délelőttöt a régi óratoronynál, ahol a nedves macskakövek különleges hangulatot árasztanak. A Harmanli Történeti Múzeum kiváló menedéket nyújt a zápor elől, miközben elmerülhet a helyi múltban. Délben látogasson el a Szent Atanáz-templomba, majd esernyővel a kézben csodálja meg a görbe hidat. A napot a Gergana-park vizes ösvényein tett frissítő sétával zárhatja, élvezve a természet illatát az eső után.",
+            "ro": "Începeți dimineața ploioasă la vechiul turn cu ceas, unde pavajul lucește sub picăturile de apă. Muzeul de Istorie oferă apoi refugiul perfect și uscat pentru o explorare detaliată. La prânz, vizitați Biserica Sfântul Atanasie, care oferă o atmosferă liniștită. După-amiaza vă poartă spre Podul Cocoșat, un simbol istoric impunător chiar și sub nori, iar ziua se încheie cu o plimbare revigorantă prin Parcul Gergana, sub adăpostul umbrelei.",
+            "en": "Start your rainy morning at the Old Clock Tower, where the wet cobblestones add a historic sheen. The Historical Museum then provides the perfect dry sanctuary for an extensive visit. At midday, find peace in the Church of Saint Athanasius. Spend the afternoon with an umbrella at the iconic Humpbacked Bridge and conclude your day with a refreshing walk through Gergana Park, enjoying the crisp air and the scent of rain-soaked nature."
+          },
+          "stops": [
+            {
+              "name": "The old Clock Tower",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem rutschigen Kopfsteinpflaster rund um den Turm.",
+                "hu": "Vigyázzon a csúszós macskakövekre a torony körül az esőben.",
+                "ro": "Atenție la pavajul alunecos din jurul turnului pe timp de ploaie.",
+                "en": "Be careful on the slippery cobblestones around the tower base."
+              }
+            },
+            {
+              "name": "Monument of the Unification",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp; halten Sie den Schirm gut gegen den Wind.",
+                "hu": "Gyors fotómegálló; tartsa erősen az esernyőt a szélben.",
+                "ro": "Oprire scurtă pentru poze; țineți bine umbrela împotriva vântului.",
+                "en": "Quick photo stop; hold your umbrella firmly against the wind."
+              }
+            },
+            {
+              "name": "Harmanli Historical Museum",
+              "tip_5lang": {
+                "de": "Idealer Ort, um den stärksten Regen im Trockenen abzuwarten.",
+                "hu": "Ideális hely, hogy fedett helyen várja meg a zápor végét.",
+                "ro": "Locul ideal pentru a aștepta trecerea ploii la adăpost.",
+                "en": "Ideal place to stay dry and wait out the heaviest rain."
+              }
+            },
+            {
+              "name": "Church of Saint Athanasius",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich zum Abschütteln des Schirms.",
+                "hu": "Használja a fedett bejáratot az esernyő lerázásához.",
+                "ro": "Folosiți intrarea acoperită pentru a scutura umbrela.",
+                "en": "Use the covered entrance area to shake off your umbrella."
+              }
+            },
+            {
+              "name": "The Humpbacked Bridge",
+              "tip_5lang": {
+                "de": "Die Steine können bei Nässe sehr glatt sein, Vorsicht beim Gehen.",
+                "hu": "A kövek vizesen nagyon csúszósak lehetnek, óvatosan lépkedjen.",
+                "ro": "Pietrele pot fi foarte alunecoase când sunt ude, mergeți cu grijă.",
+                "en": "The stones can be very slippery when wet, watch your step."
+              }
+            },
+            {
+              "name": "Spring of the White-Legged Maiden",
+              "tip_5lang": {
+                "de": "Das Denkmal wirkt im sanften Regen besonders melancholisch.",
+                "hu": "Az emlékmű a lágy esőben különösen melankolikus hangulatú.",
+                "ro": "Monumentul are o aură melancolică sub ploaia ușoară.",
+                "en": "The monument has a particularly melancholic feel in the rain."
+              }
+            },
+            {
+              "name": "Gergana Park",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den dichten Baumkronen am Hauptweg.",
+                "hu": "Keressen menedéket a sűrű lombok alatt a főút mentén.",
+                "ro": "Căutați adăpost sub coroanele dese de-a lungul aleii principale.",
+                "en": "Seek shelter under the thick tree canopies along the main path."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Schirm ist wegen möglicher Windböen in den offenen Bereichen ratsam.",
+              "Tragen Sie wasserfeste Schuhe, da sich an der Buckelbrücke Pfützen bilden können.",
+              "Das Historische Museum ist der beste Ort für eine längere Regenpause.",
+              "Die Wege im Gergana-Park sind meist befestigt, aber an den Rändern kann es matschig sein."
+            ],
+            "hu": [
+              "A szelesebb szakaszokon érdemes stabilabb esernyőt használni.",
+              "Vízálló cipő ajánlott, mert a híd környékén megállhat a víz.",
+              "A Történeti Múzeum a legalkalmasabb hely egy hosszabb pihenőre esőben.",
+              "A Gergana-park útjai többnyire aszfaltozottak, de a széleken sár lehet."
+            ],
+            "ro": [
+              "O umbrelă rezistentă este recomandată din cauza rafalelor de vânt în zonele deschise.",
+              "Purtați încălțăminte impermeabilă, deoarece se pot forma bălți lângă pod.",
+              "Muzeul de Istorie este cel mai bun loc pentru o pauză lungă pe timp de ploaie.",
+              "Aleile din Parcul Gergana sunt în mare parte pavate, dar marginile pot fi noroioase."
+            ],
+            "en": [
+              "A sturdy umbrella is recommended due to potential wind gusts in open areas.",
+              "Wear waterproof shoes as puddles often form near the Humpbacked Bridge.",
+              "The Historical Museum is the best indoor spot for a long rain break.",
+              "Park paths are mostly paved, but edges can get muddy during heavy downpours."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An einem klaren Wintermorgen wirkt der Uhrturm in der kalten Luft besonders markant. Das Historische Museum empfängt Sie danach mit angenehmer Wärme und faszinierenden Exponaten. Mittags bietet die St.-Athanasius-Kirche einen Ort der Stille, bevor Sie die frostige Schönheit der Buckelbrücke bewundern. Da die Sonne früh untergeht, beenden Sie Ihren Spaziergang am späten Nachmittag im Gergana-Park, wenn die kahlen Bäume eine ganz eigene, grafische Ästhetik entfalten.",
+            "hu": "A tiszta téli reggelen az óratorony büszkén magasodik a hideg levegőben. A Történeti Múzeum kellemes meleget és izgalmas kiállításokat kínál a fázós látogatóknak. Délben a Szent Atanáz-templom csendje után a befagyott folyó feletti görbe híd látványában gyönyörködhet. Mivel a nap korán nyugszik, fejezze be a sétát a Gergana-parkban, ahol a zúzmarás fák különleges téli hangulatot árasztanak a szürkületben.",
+            "ro": "Într-o dimineață geroasă de iarnă, turnul cu ceas se profilează clar pe cerul rece. Muzeul de Istorie vă primește apoi cu căldură și exponate fascinante. La prânz, liniștea Bisericii Sfântul Atanasie este reconfortantă înainte de a admira Podul Cocoșat în haine de iarnă. Deoarece soarele apune devreme, încheiați plimbarea în Parcul Gergana, unde copacii desfrunziți creează un peisaj alb-negru poetic.",
+            "en": "On a crisp winter morning, the Old Clock Tower stands sharp against the cold sky. The Historical Museum then welcomes you with cozy warmth and fascinating local history. At midday, find solace in the quiet Church of Saint Athanasius before admiring the frosty beauty of the Humpbacked Bridge. As the sun sets early, finish your walk in Gergana Park, where the bare trees create a unique winter aesthetic in the late afternoon light."
+          },
+          "stops": [
+            {
+              "name": "The old Clock Tower",
+              "tip_5lang": {
+                "de": "Achten Sie auf mögliche Eisstellen auf dem alten Kopfsteinpflaster.",
+                "hu": "Ügyeljen az esetleges jeges foltokra a régi macskaköveken.",
+                "ro": "Atenție la porțiunile înghețate de pe pavajul vechi.",
+                "en": "Watch out for icy patches on the old cobblestone pavement."
+              }
+            },
+            {
+              "name": "Monument of the Unification",
+              "tip_5lang": {
+                "de": "Der Wind weht hier im Winter oft recht schneidend, Mütze aufsetzen.",
+                "hu": "A szél itt télen gyakran metsző, érdemes sapkát húzni.",
+                "ro": "Vântul suflă tăios aici iarna; purtați căciulă.",
+                "en": "The winter wind can be quite biting here; wear a warm hat."
+              }
+            },
+            {
+              "name": "Harmanli Historical Museum",
+              "tip_5lang": {
+                "de": "Genießen Sie die gute Beheizung während Ihres Rundgangs.",
+                "hu": "Élvezze a jól fűtött termeket a múzeumi séta közben.",
+                "ro": "Bucurați-vă de interiorul bine încălzit în timpul vizitei.",
+                "en": "Enjoy the well-heated interior during your museum tour."
+              }
+            },
+            {
+              "name": "Church of Saint Athanasius",
+              "tip_5lang": {
+                "de": "In der Kirche kann es kühl sein, behalten Sie den Mantel an.",
+                "hu": "A templomban hűvös lehet, ne vegye le a kabátját.",
+                "ro": "Poate fi răcoare în biserică; păstrați haina pe dumneavoastră.",
+                "en": "The church interior can be chilly; keep your coat on."
+              }
+            },
+            {
+              "name": "The Humpbacked Bridge",
+              "tip_5lang": {
+                "de": "Wunderschön bei Reifglätte, aber die Steinstufen sind tückisch.",
+                "hu": "Gyönyörű zúzmarás időben, de a kőlépcsők csalókák lehetnek.",
+                "ro": "Superb când este înghețat, dar treptele de piatră sunt înșelătoare.",
+                "en": "Beautiful when frosty, but the stone steps can be treacherous."
+              }
+            },
+            {
+              "name": "Spring of the White-Legged Maiden",
+              "tip_5lang": {
+                "de": "Ein schneller Stopp für die Legende, bevor es zu kalt wird.",
+                "hu": "Gyors megálló a legenda kedvéért, mielőtt nagyon lehűl az idő.",
+                "ro": "O oprire scurtă pentru legendă înainte de a se face prea frig.",
+                "en": "A quick stop for the legend before the temperature drops further."
+              }
+            },
+            {
+              "name": "Gergana Park",
+              "tip_5lang": {
+                "de": "Die Dämmerung setzt gegen 16:30 Uhr ein, planen Sie das Ende ein.",
+                "hu": "A szürkület 16:30 körül kezdődik, tervezze ehhez a séta végét.",
+                "ro": "Amurgul începe în jur de 16:30; planificați finalul plimbării.",
+                "en": "Twilight starts around 4:30 PM; plan your exit before dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Handschuhe sind für den Weg zur Buckelbrücke unverzichtbar.",
+              "Die Sonne verschwindet früh hinter den Hügeln, nutzen Sie das Licht am Vormittag.",
+              "In den kleinen Cafés nahe dem Zentrum kann man sich zwischendurch aufwärmen.",
+              "Vorsicht vor überfrierender Nässe an den Uferbereichen des Flusses."
+            ],
+            "hu": [
+              "A hídhoz vezető úton elengedhetetlen a meleg kesztyű.",
+              "A nap korán eltűnik a dombok mögött, használja ki a délelőtti fényeket.",
+              "A központ közeli kis kávézókban érdemes néha megállni melegedni.",
+              "Vigyázzon a lefagyásokkal a folyóparti szakaszokon."
+            ],
+            "ro": [
+              "Mănușile călduroase sunt indispensabile pentru drumul spre pod.",
+              "Soarele dispare devreme după dealuri; profitați de lumina dimineții.",
+              "Vă puteți încălzi în cafenelele mici din apropierea centrului.",
+              "Atenție la polei în zonele din apropierea malului râului."
+            ],
+            "en": [
+              "Warm gloves are essential for the walk towards the Humpbacked Bridge.",
+              "The sun disappears early behind the hills; make the most of the morning light.",
+              "Look for small cafes near the center to warm up between stops.",
+              "Be cautious of black ice, especially in areas close to the riverbank."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -766,6 +966,206 @@
           "Harmanli is relatively flat, but some slight inclines are possible.",
           "Always lock your bike when you leave it unattended."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre Radtour vorsichtig am Kulturzentrum Druzhba, während der Regen auf den Asphalt trommelt. Der Uhrturm und das Historische Museum bieten gute Gelegenheiten, das Rad kurz abzustellen und im Trockenen zu verweilen. Mittags erreichen Sie die St.-Athanasius-Kirche, wo Sie unter dem Vordach kurz verschnaufen können. Die Fahrt zur Buckelbrücke erfordert bei Nässe Konzentration, bevor Sie die Tour durch den Gergana-Park auf den asphaltierten Hauptwegen abschließen.",
+            "hu": "Kezdje a biciklitúrát óvatosan a Druzhba Kulturális Központnál, miközben az eső kopog az aszfalton. Az óratorony és a Történeti Múzeum jó alkalom, hogy rövid időre letegye a gépet és fedett helyen pihenjen. Délben érje el a Szent Atanáz-templomot, ahol az előtető alatt kifújhatja magát. A görbe hídhoz vezető út nedves időben koncentrációt igényel, majd a túrát a Gergana-park aszfaltozott főútjain fejezheti be.",
+            "ro": "Începeți turul cu bicicleta cu prudență de la Centrul Cultural Druzhba, în timp ce ploaia bate în asfalt. Turnul cu ceas și Muzeul de Istorie oferă ocazii bune de a parca bicicleta și de a sta la adăpost. La prânz ajungeți la Biserica Sfântul Atanasie, unde vă puteți trage sufletul sub streașină. Drumul spre Podul Cocoșat necesită concentrare pe timp de ploaie, înainte de a încheia turul pe aleile asfaltate din Parcul Gergana.",
+            "en": "Start your bike tour cautiously at the Druzhba Cultural Center as rain taps on the pavement. The Clock Tower and Historical Museum offer good opportunities to park and stay dry for a while. At midday, reach the Church of Saint Athanasius, where you can take a breather under the porch. The ride to the Humpbacked Bridge requires focus on wet roads before finishing your tour on the paved main paths of Gergana Park."
+          },
+          "stops": [
+            {
+              "name": "Druzhba Cultural Center",
+              "tip_5lang": {
+                "de": "Überdachte Stellplätze finden sich oft direkt am Haupteingang.",
+                "hu": "Fedett biciklitárolók gyakran közvetlenül a főbejáratnál vannak.",
+                "ro": "Locuri de parcare acoperite se găsesc adesea chiar la intrare.",
+                "en": "Covered bike parking can often be found right by the main entrance."
+              }
+            },
+            {
+              "name": "The old Clock Tower",
+              "tip_5lang": {
+                "de": "Vorsicht beim Absteigen; die nassen Steine sind sehr rutschig.",
+                "hu": "Vigyázzon a leszálláskor; a vizes kövek nagyon csúsznak.",
+                "ro": "Atenție la descălecare; pietrele ude sunt foarte alunecoase.",
+                "en": "Be careful when dismounting; the wet stones are very slippery."
+              }
+            },
+            {
+              "name": "Harmanli Historical Museum",
+              "tip_5lang": {
+                "de": "Bringen Sie Ihr Schloss mit; das Rad steht im Freien im Regen.",
+                "hu": "Hozzon lakatot; a bicikli kint áll majd az esőben.",
+                "ro": "Aduceți un antifurt; bicicleta va sta afară în ploaie.",
+                "en": "Bring a lock; your bike will be parked outside in the rain."
+              }
+            },
+            {
+              "name": "Church of Saint Athanasius",
+              "tip_5lang": {
+                "de": "Vermeiden Sie scharfe Bremsmanöver auf dem Kirchplatz.",
+                "hu": "Kerülje az erős fékezést a templom körüli kövezeten.",
+                "ro": "Evitați frânările bruște pe pavajul din jurul bisericii.",
+                "en": "Avoid sharp braking on the church square's pavement."
+              }
+            },
+            {
+              "name": "The Humpbacked Bridge",
+              "tip_5lang": {
+                "de": "Schieben Sie das Rad über die Brücke, um Stürze zu vermeiden.",
+                "hu": "Tolja a biciklit a hídon, hogy elkerülje az eséseket.",
+                "ro": "Împingeți bicicleta pe pod pentru a evita căzăturile.",
+                "en": "Push your bike across the bridge to avoid falls."
+              }
+            },
+            {
+              "name": "Spring of the White-Legged Maiden",
+              "tip_5lang": {
+                "de": "Die Zufahrt kann im Regen etwas schlammig sein.",
+                "hu": "A lehajtó esőben kissé saras lehet.",
+                "ro": "Accesul poate fi puțin noroios pe timp de ploaie.",
+                "en": "The access path can get a bit muddy in the rain."
+              }
+            },
+            {
+              "name": "Gergana Park",
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den befestigten Wegen, um Schlamm zu meiden.",
+                "hu": "Maradjon a burkolt utakon, hogy elkerülje a sarat.",
+                "ro": "Rămâneți pe aleile pavate pentru a evita noroiul.",
+                "en": "Stick to the paved paths to avoid getting bogged down in mud."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind bei Regen in Harmanli ein absolutes Muss.",
+              "Tragen Sie eine auffällige Regenjacke, da die Sicht oft eingeschränkt ist.",
+              "Vermeiden Sie Fahrten über die Buckelbrücke; schieben ist sicherer.",
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt, besonders bei Nässe."
+            ],
+            "hu": [
+              "A sárvédő használata esőben Harmanliban elengedhetetlen.",
+              "Viseljen feltűnő esőkabátot, mert a látási viszonyok korlátozottak lehetnek.",
+              "A görbe hídon ne tekerjen át, biztonságosabb a tolás.",
+              "Indulás előtt ellenőrizze a fékeket, különösen nedves időben."
+            ],
+            "ro": [
+              "Aripile la bicicletă sunt obligatorii pe timp de ploaie în Harmanli.",
+              "Purtați o jachetă de ploaie stridentă, vizibilitatea este adesea redusă.",
+              "Evitați să traversați podul pe bicicletă; este mai sigur să o împingeți.",
+              "Verificați frânele înainte de plecare, mai ales pe carosabil umed."
+            ],
+            "en": [
+              "Fenders (mudguards) are an absolute must when cycling in Harmanli rain.",
+              "Wear a high-visibility rain jacket as visibility for drivers is often reduced.",
+              "Don't ride across the Humpbacked Bridge; pushing is much safer.",
+              "Check your brakes before setting off, as stopping distances increase on wet roads."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radeln Sie am Morgen dick eingepackt durch die klare Winterluft zum Uhrturm. Das Historische Museum bietet die nötige Aufwärmpause, bevor es weiter zur St.-Athanasius-Kirche geht. Mittags erreichen Sie die Buckelbrücke, die im Winterlicht besonders eindrucksvoll wirkt, aber Vorsicht vor glatten Stellen ist geboten. Nutzen Sie die letzten Sonnenstunden für eine zügige Runde durch den Gergana-Park, bevor die Kälte am späten Nachmittag spürbar anzieht.",
+            "hu": "Tekerjen a tiszta téli reggelen vastagon felöltözve az óratoronyhoz. A Történeti Múzeum biztosítja a szükséges melegedőt, mielőtt továbbhaladna a Szent Atanáz-templomhoz. Délben érje el a görbe hidat, amely a téli fényben különösen hatásos, de vigyázzon a csúszós részekkel. Használja ki az utolsó napsütéses órákat egy gyors körre a Gergana-parkban, mielőtt a hideg késő délután bekeményítene.",
+            "ro": "Pedalați în dimineața geroasă prin aerul curat spre turnul cu ceas, bine îmbrăcat. Muzeul de Istorie oferă pauza necesară pentru încălzire înainte de a continua spre Biserica Sfântul Atanasie. La prânz ajungeți la Podul Cocoșat, care arată impresionant în lumina iernii, dar prudența este cheia pe zonele alunecoase. Profitați de ultimele ore cu soare pentru o tură prin Parcul Gergana.",
+            "en": "Cycle through the crisp winter air to the Clock Tower, making sure you're layered up. The Historical Museum provides a necessary warm-up break before continuing to the Church of Saint Athanasius. Reach the Humpbacked Bridge at midday, looking striking in the winter light, but be cautious of icy patches. Use the final daylight hours for a brisk ride through Gergana Park before the temperature drops sharply in the late afternoon."
+          },
+          "stops": [
+            {
+              "name": "Druzhba Cultural Center",
+              "tip_5lang": {
+                "de": "Metallständer können im Winter festfrieren, Vorsicht beim Anschließen.",
+                "hu": "A fém tárolók télen odafagyhatnak, óvatosan lakatoljon.",
+                "ro": "Suporturile metalice pot îngheța; atenție când legați bicicleta.",
+                "en": "Metal bike racks can be freezing cold; be careful when locking up."
+              }
+            },
+            {
+              "name": "The old Clock Tower",
+              "tip_5lang": {
+                "de": "Achten Sie auf Raureif auf dem Kopfsteinpflaster.",
+                "hu": "Ügyeljen a zúzmarára a macskaköveken.",
+                "ro": "Atenție la chiciura de pe pavaj.",
+                "en": "Watch out for hoarfrost on the cobblestones."
+              }
+            },
+            {
+              "name": "Harmanli Historical Museum",
+              "tip_5lang": {
+                "de": "Gute Gelegenheit, die steifen Finger kurz aufzuwärmen.",
+                "hu": "Jó alkalom az elgémberedett ujjak átmozgatására.",
+                "ro": "O ocazie bună să vă încălziți degetele amorțite.",
+                "en": "A great chance to warm up your stiff fingers inside."
+              }
+            },
+            {
+              "name": "Church of Saint Athanasius",
+              "tip_5lang": {
+                "de": "Fahren Sie im Schatten der Gebäude besonders vorsichtig.",
+                "hu": "Az épületek árnyékában különösen óvatosan haladjon.",
+                "ro": "Pedalați cu mare atenție în zonele umbrite de clădiri.",
+                "en": "Ride extra carefully in the shadows of buildings where ice lingers."
+              }
+            },
+            {
+              "name": "The Humpbacked Bridge",
+              "tip_5lang": {
+                "de": "Glatteisgefahr! Überqueren Sie die Brücke nur zu Fuß.",
+                "hu": "Jégveszély! Csak gyalogosan keljen át a hídon.",
+                "ro": "Pericol de polei! Traversați podul doar pe jos.",
+                "en": "Risk of black ice! Cross the bridge only on foot."
+              }
+            },
+            {
+              "name": "Spring of the White-Legged Maiden",
+              "tip_5lang": {
+                "de": "Kurze Rast, aber bleiben Sie in Bewegung, um nicht auszukühlen.",
+                "hu": "Rövid pihenő, de maradjon mozgásban, hogy ne fázzon meg.",
+                "ro": "Pauză scurtă, dar rămâneți în mișcare pentru a nu îngheța.",
+                "en": "Short rest, but keep moving to maintain body heat."
+              }
+            },
+            {
+              "name": "Gergana Park",
+              "tip_5lang": {
+                "de": "Sorgen Sie für funktionierende Beleuchtung vor Einbruch der Dunkelheit.",
+                "hu": "Gondoskodjon a világításról a sötétedés beállta előtt.",
+                "ro": "Asigurați-vă că aveți lumini funcționale înainte de lăsarea serii.",
+                "en": "Ensure your bike lights are working before darkness sets in."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme, winddichte Handschuhe sind für Winterradler in Harmanli Pflicht.",
+              "Der Reifendruck sollte für besseren Grip etwas niedriger sein.",
+              "Planen Sie Ihre Tour so, dass Sie vor 16:30 Uhr zurück sind.",
+              "Trinken Sie ausreichend Tee in den Aufwärmpausen im Zentrum."
+            ],
+            "hu": [
+              "A meleg, szélálló kesztyű kötelező a téli bicikliseknek Harmanliban.",
+              "A guminyomás legyen kicsit alacsonyabb a jobb tapadás érdekében.",
+              "Úgy tervezze a túrát, hogy 16:30 előtt érjen vissza.",
+              "Igyon elegendő meleg teát a központban tartott szünetekben."
+            ],
+            "ro": [
+              "Mănușile groase și rezistente la vânt sunt obligatorii pentru iarnă.",
+              "Presiunea în anvelope ar trebui să fie puțin mai mică pentru aderență.",
+              "Planificați turul astfel încât să vă întoarceți înainte de 16:30.",
+              "Beți suficient ceai cald în pauzele de încălzire din centru."
+            ],
+            "en": [
+              "Warm, windproof gloves are mandatory for winter cyclists in Harmanli.",
+              "Lower your tire pressure slightly for better grip on cold surfaces.",
+              "Plan your route to ensure you finish before 4:30 PM.",
+              "Keep hydrated and drink warm tea during your indoor breaks in the center."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1122,6 +1522,188 @@
           "A car also allows you to easily get to restaurants or viewpoints slightly outside the city.",
           "Plan your route between clusters to save time."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den Komfort Ihres Autos an diesem regnerischen Tag und parken Sie direkt am Historischen Museum. Nach der Besichtigung ist der Uhrturm nur eine kurze Fahrt entfernt, wo Sie das Wahrzeichen aus dem trockenen Innenraum bewundern können. Mittags führt die Route zur St.-Athanasius-Kirche, bevor Sie zur Buckelbrücke weiterfahren. Beenden Sie den Ausflug am späten Nachmittag an der Quelle der weißbeinigen Jungfrau, während die Regentropfen auf das Autodach trommeln.",
+            "hu": "Használja ki autója kényelmét ezen az esős napon, és parkoljon közvetlenül a Történeti Múzeumnál. A látogatás után az óratorony csak egy rövid útra van, ahol a száraz utastérből csodálhatja meg a jelképet. Délben az út a Szent Atanáz-templomhoz vezet, majd tovább a görbe hídhoz. Zárja a kirándulást késő délután a Fehérlábú lány forrásánál, miközben az esőcseppek az autótetőn kopognak.",
+            "ro": "Profitați de confortul mașinii în această zi ploioasă și parcați chiar lângă Muzeul de Istorie. După vizită, turnul cu ceas este la doar o scurtă distanță, permițându-vă să-l admirați din interiorul uscat. La prânz, traseul duce la Biserica Sfântul Atanasie, apoi spre Podul Cocoșat. Încheiați excursia după-amiaza târziu la Izvorul Fecioarei cu Picioare Albe, ascultând ploaia pe plafonul mașinii.",
+            "en": "Enjoy the comfort of your car on this rainy day, parking right by the Historical Museum. After your visit, the Clock Tower is just a short drive away, allowing you to admire the landmark from your dry vehicle. At midday, head to the Church of Saint Athanasius before driving on to the Humpbacked Bridge. Conclude your trip in the late afternoon at the Spring of the White-Legged Maiden, listening to the rain drumming on the car roof."
+          },
+          "stops": [
+            {
+              "name": "Parking at the Historical Museum",
+              "tip_5lang": {
+                "de": "Bei Regen bilden sich hier oft große Pfützen, Vorsicht beim Aussteigen.",
+                "hu": "Esőben gyakran nagy tócsák alakulnak ki itt, vigyázzon a kiszállásnál.",
+                "ro": "Se formează adesea bălți mari aici; atenție la coborâre.",
+                "en": "Large puddles often form here in the rain; be careful when stepping out."
+              }
+            },
+            {
+              "name": "Harmanli Historical Museum",
+              "tip_5lang": {
+                "de": "Der Eingang ist nur wenige Schritte vom Parkplatz entfernt.",
+                "hu": "A bejárat csak pár lépésre van a parkolótól.",
+                "ro": "Intrarea este la doar câțiva pași de parcare.",
+                "en": "The entrance is only a few steps away from the parking area."
+              }
+            },
+            {
+              "name": "The old Clock Tower",
+              "tip_5lang": {
+                "de": "Kurzes Halten zum Fotografieren ist meist möglich.",
+                "hu": "Rövid megállás fotózáshoz általában megoldható.",
+                "ro": "Oprirea scurtă pentru fotografii este de obicei posibilă.",
+                "en": "Briefly pulling over for a photo is usually possible nearby."
+              }
+            },
+            {
+              "name": "Church of Saint Athanasius",
+              "tip_5lang": {
+                "de": "Parken Sie auf der befestigten Straße nahe dem Tor.",
+                "hu": "Parkoljon a szilárd burkolatú úton a kapu közelében.",
+                "ro": "Parcați pe strada pavată din apropierea porții.",
+                "en": "Park on the paved street near the entrance gate."
+              }
+            },
+            {
+              "name": "The Humpbacked Bridge",
+              "tip_5lang": {
+                "de": "Parkmöglichkeiten finden sich in der Nähe des Flussufers.",
+                "hu": "Parkolási lehetőség a folyópart közelében található.",
+                "ro": "Locuri de parcare se găsesc în apropierea malului râului.",
+                "en": "Parking spots can be found close to the riverbank."
+              }
+            },
+            {
+              "name": "Spring of the White-Legged Maiden",
+              "tip_5lang": {
+                "de": "Die Zufahrt kann bei starkem Regen etwas rutschig sein.",
+                "hu": "A lehajtó heves esőben kissé csúszós lehet.",
+                "ro": "Accesul poate fi alunecos în caz de ploaie torențială.",
+                "en": "The access road can be a bit slippery during heavy rainfall."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf schlechte Sicht durch beschlagene Scheiben.",
+              "In Harmanli kann das Wasser in Senken nach Starkregen hoch stehen.",
+              "Nutzen Sie die Parkplätze so nah wie möglich an den Eingängen.",
+              "Halten Sie die Nebelscheinwerfer bereit, falls der Regen sehr dicht wird."
+            ],
+            "hu": [
+              "Ügyeljen a bepárásodott szélvédő miatti rossz látási viszonyokra.",
+              "Harmanliban a mélyebb részeken megállhat a víz heves esőzés után.",
+              "Használja a bejáratokhoz legközelebbi parkolóhelyeket.",
+              "Készítse elő a ködlámpát, ha az eső nagyon sűrűvé válik."
+            ],
+            "ro": [
+              "Atenție la vizibilitatea redusă cauzată de aburirea geamurilor.",
+              "În Harmanli, apa se poate acumula în zonele joase după ploi abundente.",
+              "Folosiți locurile de parcare cât mai aproape de intrări.",
+              "Fiți pregătit să folosiți luminile de ceață dacă ploaia devine densă."
+            ],
+            "en": [
+              "Watch out for reduced visibility due to fogged-up windows.",
+              "In Harmanli, water can accumulate in low-lying areas after heavy rain.",
+              "Try to find parking as close to the attraction entrances as possible.",
+              "Keep your fog lights ready if the rain becomes exceptionally heavy."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren winterlichen Ausflug bequem im vorgeheizten Auto am Historischen Museum. Der Weg zum Uhrturm ist kurz und bietet einen klaren Blick auf das historische Zentrum. Mittags besuchen Sie die St.-Athanasius-Kirche, bevor die Fahrt zur Buckelbrücke führt, die bei Frost eine glitzernde Kulisse bietet. Da es früh dunkelt, beenden Sie den Tag an der Quelle der weißbeinigen Jungfrau, deren Legende auch in der Kälte ihre Faszination behält.",
+            "hu": "Kezdje a téli kirándulást kényelmesen az előmelegített autóban a Történeti Múzeumnál. Az út az óratoronyhoz rövid, és tiszta rálátást biztosít a történelmi központra. Délben látogasson el a Szent Atanáz-templomhoz, majd hajtson a görbe hídhoz, amely fagyos időben csillogó díszletet kínál. Mivel korán sötétedik, zárja a napot a Fehérlábú lány forrásánál, amelynek legendája a hidegben is lenyűgöző.",
+            "ro": "Începeți excursia de iarnă confortabil, în mașina preîncălzită, la Muzeul de Istorie. Drumul spre turnul cu ceas este scurt și oferă o vedere clară asupra centrului istoric. La prânz vizitați Biserica Sfântul Atanasie, apoi conduceți spre Podul Cocoșat, care oferă un decor sclipitor pe timp de îngheț. Deoarece se întunecă devreme, încheiați ziua la Izvorul Fecioarei cu Picioare Albe.",
+            "en": "Start your winter outing comfortably in a pre-heated car at the Historical Museum. The drive to the Clock Tower is brief and offers a clear view of the historic center. At midday, visit the Church of Saint Athanasius before driving to the Humpbacked Bridge, which provides a sparkling backdrop in freezing weather. As it gets dark early, finish your day at the Spring of the White-Legged Maiden."
+          },
+          "stops": [
+            {
+              "name": "Parking at the Historical Museum",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenen Stellen auf dem Parkplatzgelände.",
+                "hu": "Vigyázzon a fagyott részekre a parkoló területén.",
+                "ro": "Atenție la porțiunile înghețate din parcare.",
+                "en": "Watch out for frozen patches in the parking area."
+              }
+            },
+            {
+              "name": "Harmanli Historical Museum",
+              "tip_5lang": {
+                "de": "Genießen Sie die warme Heizung im Inneren.",
+                "hu": "Élvezze a benti meleget.",
+                "ro": "Bucurați-vă de căldura din interior.",
+                "en": "Take advantage of the warm heating inside the building."
+              }
+            },
+            {
+              "name": "The old Clock Tower",
+              "tip_5lang": {
+                "de": "Der Motor sollte bei kurzen Stopps nicht unnötig laufen.",
+                "hu": "Rövid megállásoknál ne járassa feleslegesen a motort.",
+                "ro": "Nu lăsați motorul pornit inutil în timpul opririlor scurte.",
+                "en": "Avoid idling your engine unnecessarily during short photo stops."
+              }
+            },
+            {
+              "name": "Church of Saint Athanasius",
+              "tip_5lang": {
+                "de": "Die Straßen im Wohnviertel können glatt sein.",
+                "hu": "A lakónegyed utcái csúszósak lehetnek.",
+                "ro": "Străzile din cartierul rezidențial pot fi alunecoase.",
+                "en": "Streets in the residential area can be icy; drive slowly."
+              }
+            },
+            {
+              "name": "The Humpbacked Bridge",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glätte in Brückennähe durch Flussnebel.",
+                "hu": "Ügyeljen a folyómenti köd miatti lefagyásokra a hídnál.",
+                "ro": "Atenție la poleiul de lângă pod format din cauza ceții.",
+                "en": "Watch for ice near the bridge caused by river mist freezing."
+              }
+            },
+            {
+              "name": "Spring of the White-Legged Maiden",
+              "tip_5lang": {
+                "de": "Planen Sie die Ankunft vor Sonnenuntergang (ca. 16:45) ein.",
+                "hu": "Tervezze az érkezést napnyugta (kb. 16:45) elé.",
+                "ro": "Planificați sosirea înainte de apus (aprox. 16:45).",
+                "en": "Plan to arrive before sunset (around 4:45 PM) for the best view."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Frostschutz in der Scheibenwaschanlage.",
+              "Achten Sie auf Reifglätte auf den Nebenstraßen zum Museum.",
+              "Eiskratzer und Handfeger sollten im Auto griffbereit sein.",
+              "Nutzen Sie die Sitzheizung für die kurzen Fahrten zwischen den Zielen."
+            ],
+            "hu": [
+              "Ellenőrizze a fagyállót a szélvédőmosóban.",
+              "Ügyeljen a zúzmarás utakra a múzeum felé vezető mellékutcákban.",
+              "A jégkaparó és a kefe legyen kéznél az autóban.",
+              "Használja az ülésfűtést a rövid városi szakaszokon."
+            ],
+            "ro": [
+              "Verificați antigelul din lichidul de parbriz.",
+              "Atenție la drumurile înghețate pe străzile secundare spre muzeu.",
+              "Răzuitoarea de gheață și peria ar trebui să fie la îndemână.",
+              "Folosiți încălzirea în scaune pentru drumurile scurte între obiective."
+            ],
+            "en": [
+              "Check the antifreeze levels in your windshield washer fluid.",
+              "Be aware of hoarfrost on side streets leading to the museum.",
+              "Keep an ice scraper and brush handy in the car at all times.",
+              "Utilize seat heaters for comfort during the short drives between stops."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1454,6 +2036,170 @@
           "A day pass might be cheaper if you plan multiple trips.",
           "Pay attention to the stop announcements or follow the route on a map."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren regnerischen Tag an der zentralen Bushaltestelle und nutzen Sie die kurzen Wege zum Kulturzentrum Druzhba. Nach einem Blick auf das Denkmal der Vereinigung bringt Sie der Bus in die Nähe der Buckelbrücke. Den Nachmittag verbringen Sie geschützt in den Transportmitteln oder unter den Wartehäuschen, während Sie das historische Harmanli trotz des trüben Wetters erkunden und den Tag an der Buckelbrücke abschließen.",
+            "hu": "Kezdje az esős napot a központi buszmegállóban, és használja ki a rövid utat a Druzhba Kulturális Központig. Az Egyesülés emlékművének megtekintése után a busz a görbe híd közelébe viszi. A délutánt a járműveken vagy a megállók védelmében töltheti, miközben a borús idő ellenére is felfedezi a történelmi Harmanlit, végül a görbe hídnál zárva a napot.",
+            "ro": "Începeți ziua ploioasă la stația centrală de autobuz și profitați de drumul scurt spre Centrul Cultural Druzhba. După o vizită la Monumentul Unirii, autobuzul vă va duce aproape de Podul Cocoșat. Petreceți după-amiaza la adăpostul mijloacelor de transport sau în stații, explorând Harmanli-ul istoric în ciuda vremii mohorâte.",
+            "en": "Start your rainy day at the Central Bus Stop, making the quick hop to the Druzhba Cultural Center. After visiting the Monument of the Unification, a bus ride takes you near the Humpbacked Bridge. Spend the afternoon sheltered in transit vehicles or at bus stops as you explore historic Harmanli despite the gloomy weather, finishing your tour at the iconic bridge."
+          },
+          "stops": [
+            {
+              "name": "Central Bus Stop",
+              "tip_5lang": {
+                "de": "Das Wartehäuschen bietet guten Schutz vor Wind und Regen.",
+                "hu": "A váróterem jó védelmet nyújt a szél és az eső elől.",
+                "ro": "Refugiul stației oferă protecție bună împotriva vântului și ploii.",
+                "en": "The bus shelter provides good protection from wind and rain."
+              }
+            },
+            {
+              "name": "Druzhba Cultural Center",
+              "tip_5lang": {
+                "de": "Vom Busstop sind es nur zwei Minuten zum Eingang.",
+                "hu": "A buszmegállótól mindössze két perc a bejárat.",
+                "ro": "Sunt doar două minute de la stație până la intrare.",
+                "en": "It's only a two-minute walk from the bus stop to the entrance."
+              }
+            },
+            {
+              "name": "Monument of the Unification",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Abfahrtszeiten per App im Trockenen.",
+                "hu": "Ellenőrizze az indulási időket applikáción, még fedett helyen.",
+                "ro": "Verificați orele de plecare pe aplicație cât timp sunteți la adăpost.",
+                "en": "Check departure times via app while staying dry inside."
+              }
+            },
+            {
+              "name": "Stop near the Humpbacked Bridge",
+              "tip_5lang": {
+                "de": "Halten Sie den Schirm bereit für den kurzen Fußweg zum Fluss.",
+                "hu": "Készítse elő az esernyőt a folyóhoz vezető rövid sétához.",
+                "ro": "Pregătiți umbrela pentru scurta plimbare spre râu.",
+                "en": "Have your umbrella ready for the short walk from the stop to the river."
+              }
+            },
+            {
+              "name": "The Humpbacked Bridge",
+              "tip_5lang": {
+                "de": "Bei starkem Regen ist die Sicht auf den Fluss oft dramatisch.",
+                "hu": "Heves esőben a folyó látványa gyakran drámai.",
+                "ro": "În caz de ploaie puternică, vederea spre râu este adesea dramatică.",
+                "en": "During heavy rain, the view of the river can be quite dramatic."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein Regenschirm ist für die Wege zwischen Haltestelle und Ziel nötig.",
+              "Die Busse in Harmanli sind im Regen oft recht voll; planen Sie Zeit ein.",
+              "Nutzen Sie die Wartehäuschen, um den Fahrplan in Ruhe zu studieren.",
+              "Tragen Sie wasserfeste Kleidung für die kurzen Umsteigewege."
+            ],
+            "hu": [
+              "Esernyőre szükség lesz a megálló és a célpont közötti szakaszokon.",
+              "A buszok Harmanliban esőben gyakran zsúfoltabbak; számoljon ezzel.",
+              "Használja a várókat a menetrend nyugodt áttanulmányozásához.",
+              "Viseljen vízálló ruházatot az átszállások idejére."
+            ],
+            "ro": [
+              "O umbrelă este necesară pentru drumul între stație și obiective.",
+              "Autobuzele din Harmanli pot fi aglomerate pe timp de ploaie.",
+              "Folosiți refugiile stațiilor pentru a studia orarul în liniște.",
+              "Purtați haine impermeabile pentru scurtele segmente de mers pe jos."
+            ],
+            "en": [
+              "An umbrella is essential for the walks between stops and sights.",
+              "Buses in Harmanli can get crowded during rain; allow extra time.",
+              "Use the sheltered bus stops to check the schedule comfortably.",
+              "Wear waterproof clothing for the short transfers between transit lines."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren winterlichen Transit-Tag an der zentralen Haltestelle und genießen Sie die kurzen Wege im beheizten Bus zum Kulturzentrum Druzhba. Das Denkmal der Vereinigung ist nur einen Katzensprung entfernt, bevor Sie weiter zur Buckelbrücke fahren. Die winterliche Atmosphäre Harmanlis lässt sich wunderbar aus dem Fenster beobachten. Beenden Sie die Tour an der geschichtsträchtigen Brücke, wenn die ersten Lichter in der frühen Dämmerung angehen.",
+            "hu": "Kezdje a téli napot a központi megállóban, és élvezze a fűtött busz kényelmét a Druzhba Kulturális Központig. Az Egyesülés emlékműve csak egy ugrásra van, mielőtt továbbmenne a görbe hídhoz. Harmanli téli hangulata remekül megfigyelhető az ablakból. Zárja a túrát a történelmi hídnál, amikor a korai szürkületben kigyúlnak az első fények.",
+            "ro": "Începeți ziua de iarnă la stația centrală și bucurați-vă de drumul scurt cu autobuzul încălzit spre Centrul Cultural Druzhba. Monumentul Unirii este la doar o aruncătură de băț înainte de a continua spre Podul Cocoșat. Atmosfera de iarnă din Harmanli poate fi observată frumos de pe fereastră. Încheiați turul la podul istoric, când primele lumini se aprind în amurg.",
+            "en": "Start your winter transit day at the central stop, enjoying a short ride in a heated bus to the Druzhba Cultural Center. The Monument of the Unification is just a stone's throw away before you continue to the Humpbacked Bridge. You can observe Harmanli's winter atmosphere comfortably from the bus window. Conclude your tour at the historic bridge as the first lights come on in the early twilight."
+          },
+          "stops": [
+            {
+              "name": "Central Bus Stop",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz im Windschatten des Wartehäuschens.",
+                "hu": "Keressen menedéket a buszmegálló szélvédett oldalán.",
+                "ro": "Căutați adăpost în zona ferită de vânt a stației.",
+                "en": "Seek shelter on the leeward side of the bus stop."
+              }
+            },
+            {
+              "name": "Druzhba Cultural Center",
+              "tip_5lang": {
+                "de": "Im Inneren des Zentrums kann man sich gut kurz aufwärmen.",
+                "hu": "A központ belsejében jól fel lehet frissülni és melegedni.",
+                "ro": "Vă puteți încălzi puțin în interiorul centrului cultural.",
+                "en": "The interior of the cultural center is a good place for a quick warm-up."
+              }
+            },
+            {
+              "name": "Monument of the Unification",
+              "tip_5lang": {
+                "de": "Halten Sie die Fahrkarte griffbereit, um nicht lange im Kalten zu suchen.",
+                "hu": "Tartsa készenlétben a jegyét, hogy ne a hidegben kelljen keresgélni.",
+                "ro": "Țineți biletul la îndemână pentru a nu-l căuta în frig.",
+                "en": "Keep your ticket ready so you don't have to fumble for it in the cold."
+              }
+            },
+            {
+              "name": "Stop near the Humpbacked Bridge",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glätte beim Ein- und Aussteigen aus dem Bus.",
+                "hu": "Ügyeljen a csúszásveszélyre a buszra le- és felszálláskor.",
+                "ro": "Atenție la polei când urcați sau coborâți din autobuz.",
+                "en": "Be careful of slippery steps when boarding or exiting the bus."
+              }
+            },
+            {
+              "name": "The Humpbacked Bridge",
+              "tip_5lang": {
+                "de": "Die letzte Rückfahrt ist oft gegen 17:30 Uhr, nicht verpassen.",
+                "hu": "Az utolsó járat visszafelé gyakran 17:30 körül indul, ne késse le.",
+                "ro": "Ultima cursă de întoarcere este adesea în jur de 17:30; nu o ratați.",
+                "en": "The last return bus is often around 5:30 PM; don't miss it."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die beheizten Busse für kleine Pausen zwischen den Zielen.",
+              "Die Fahrpläne können im Winter witterungsbedingt leicht abweichen.",
+              "Tragen Sie warme Schuhe, da das Warten an Haltestellen auskühlen kann.",
+              "Haben Sie Kleingeld für das Ticket passend dabei."
+            ],
+            "hu": [
+              "Használja a fűtött buszokat pihenőnek a célpontok között.",
+              "A menetrendek télen az időjárás miatt kismértékben eltérhetnek.",
+              "Viseljen meleg cipőt, mert a megállókban várakozva fázhat a lába.",
+              "Készítsen össze aprópénzt a jegyvásárláshoz."
+            ],
+            "ro": [
+              "Folosiți autobuzele încălzite pentru scurte pauze între obiective.",
+              "Orarele pot varia ușor iarna din cauza condițiilor meteo.",
+              "Purtați încălțăminte călduroasă, așteptarea în stații poate fi geroasă.",
+              "Aveți pregătit mărunțiș pentru achiziționarea biletului."
+            ],
+            "en": [
+              "Use the heated buses as mini-breaks between the outdoor sights.",
+              "Schedules may vary slightly in winter due to road conditions.",
+              "Wear warm, insulated shoes as waiting at stops can lead to cold feet.",
+              "Have small change ready for ticket purchases to speed up boarding."
+            ]
+          }
+        }
       }
     }
   }

@@ -406,6 +406,224 @@
           "Many museums are free on the first Sunday of the month.",
           "Try a waffle from a street stand for the most authentic experience."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Vormittag beginnt am Place Saint-Lambert, wo die Galeries Saint-Lambert idealen Schutz bieten. Mittags flüchten wir in die trockene Pracht der Kathedrale Saint-Paul. Am Nachmittag erfordern die 374 Stufen der Montagne de Bueren bei Nässe besondere Vorsicht. Den Abend verbringen wir gemütlich und trocken inmitten der Kunstschätze des La Boverie Museums.",
+            "hu": "Az esős délelőtt a Saint-Lambert téren indul, ahol a közeli üzletközpont árkádjai nyújtanak menedéket. Délben a Szent Pál-katedrális falai között találunk száraz nyugalmat. Délután a Montagne de Bueren lépcsői csúszóssá válnak, így csak óvatosan vágjunk neki. A napot a La Boverie múzeum fedett és meleg termeiben, a park közepén zárjuk.",
+            "ro": "O dimineață ploioasă începe în Piața Saint-Lambert, unde galeriile comerciale oferă un refugiu excelent. La prânz, interiorul impunător al Catedralei Sf. Paul ne ferește de umezeală. După-amiaza, cele 374 de trepte de la Montagne de Bueren devin alunecoase, necesitând atenție sporită. Seara se încheie confortabil vizitând expozițiile din interiorul muzeului La Boverie.",
+            "en": "A rainy morning starts at Saint Lambert Square, where the nearby shopping galleries offer perfect cover. At noon, we find a dry sanctuary within the grand Saint Paul's Cathedral. In the afternoon, the 374 steps of Montagne de Bueren require extra caution as they become slippery. The day ends warmly surrounded by art inside the La Boverie Museum."
+          },
+          "stops": [
+            {
+              "name": "Saint Lambert Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Galeries St. Lambert als trockene Abkürzung.",
+                "hu": "Használja a Galeries St Lambert-et száraz átjáróként.",
+                "ro": "Folosiți Galeries St Lambert ca scurtătură uscată.",
+                "en": "Use Galeries St Lambert as a dry shortcut between streets."
+              }
+            },
+            {
+              "name": "Archéoforum",
+              "tip_5lang": {
+                "de": "Vollständig unterirdisch und perfekt für Regentage.",
+                "hu": "Teljesen föld alatti, tökéletes választás esőben.",
+                "ro": "Complet subteran și perfect pentru zilele ploioase.",
+                "en": "Entirely underground and perfect for rainy days."
+              }
+            },
+            {
+              "name": "Palace of the Prince-Bishops",
+              "tip_5lang": {
+                "de": "Der Arkadenhof bietet begrenzten Schutz vor Schauern.",
+                "hu": "Az árkádos udvar korlátozott védelmet nyújt a záporok ellen.",
+                "ro": "Curtea cu arcade oferă protecție limitată împotriva ploii.",
+                "en": "The arcaded courtyard offers limited protection from showers."
+              }
+            },
+            {
+              "name": "Le Perron",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp; das Rathaus gegenüber bietet Vordächer.",
+                "hu": "Gyors fotó; a szemközti városháza ereszei alatt várhatunk.",
+                "ro": "Stop rapid; primăria de vizavi are streșini pentru adăpost.",
+                "en": "Quick photo stop; the town hall opposite has overhangs."
+              }
+            },
+            {
+              "name": "Saint Paul's Cathedral",
+              "tip_5lang": {
+                "de": "Idealer Ort, um eine längere Regenfront abzuwarten.",
+                "hu": "Ideális helyszín egy hosszabb eső elkerülésére.",
+                "ro": "Loc ideal pentru a aștepta trecerea unui front de ploaie.",
+                "en": "Ideal place to wait out a long passing rain front."
+              }
+            },
+            {
+              "name": "Collegiate Church of Saint Bartholomew",
+              "tip_5lang": {
+                "de": "Besichtigen Sie das Taufbecken im trockenen Innenraum.",
+                "hu": "Csodálja meg a keresztelőmedencét a száraz belső térben.",
+                "ro": "Admirați bazinul baptismal în interiorul uscat.",
+                "en": "Admire the baptismal font in the dry interior."
+              }
+            },
+            {
+              "name": "Montagne de Bueren",
+              "tip_5lang": {
+                "de": "Vorsicht, die Steinstufen können extrem rutschig sein.",
+                "hu": "Vigyázat, a kőlépcsők rendkívül csúszósak lehetnek.",
+                "ro": "Atenție, treptele de piatră pot fi extrem de alunecoase.",
+                "en": "Caution, the stone steps can be extremely slippery."
+              }
+            },
+            {
+              "name": "La Boverie Museum",
+              "tip_5lang": {
+                "de": "Der Parkweg ist nass, aber das Museum ist gut beheizt.",
+                "hu": "A parki út vizes, de a múzeum jól fűtött.",
+                "ro": "Aleea parcului e udă, dar muzeul este bine încălzit.",
+                "en": "The park path is wet, but the museum is well heated."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Galeries Saint-Lambert sind ein unterirdisches und überdachtes Einkaufsparadies.",
+              "Lütticher Waffeln schmecken am besten frisch und warm unter einem Vordach.",
+              "Regenschirm ist Pflicht, da die Abstände zwischen den Museen offen sind.",
+              "In der Altstadt gibt es viele kleine Cafés für trockene Pausen."
+            ],
+            "hu": [
+              "A Galeries Saint-Lambert föld alatti folyosói remek menedékek.",
+              "A lüttichi gofri a legjobb frissen és melegen egy esernyő alatt.",
+              "Az esernyő kötelező, mert a múzeumok közötti utak nyitottak.",
+              "Az óvárosban sok kis kávézó vár a száraz pihenőkre."
+            ],
+            "ro": [
+              "Galeries Saint-Lambert sunt un paradis comercial subteran și acoperit.",
+              "Vafele de Liège sunt cele mai bune calde, sub o umbrelă.",
+              "Umbrela este obligatorie, distanțele dintre muzee fiind deschise.",
+              "Orașul vechi are multe cafenele mici pentru pauze uscate."
+            ],
+            "en": [
+              "Galeries Saint-Lambert are an underground and covered shopping paradise.",
+              "Liège waffles are best enjoyed fresh and warm under an umbrella.",
+              "An umbrella is mandatory as the paths between museums are open.",
+              "The old town has many small cafes for dry breaks."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen am Place Saint-Lambert ist oft frostig, aber die Lichter der Stadt wärmen das Herz. Mittags bietet die Kathedrale eine friedliche, windgeschützte Raststätte. Da es bereits gegen 17:00 Uhr dunkel wird, erklimmen wir die Montagne de Bueren am frühen Nachmittag für das letzte Tageslicht. Der Tag endet im warm beleuchteten La Boverie Museum inmitten des winterlichen Parks.",
+            "hu": "A téli reggel a Saint-Lambert téren gyakran fagyos, de a város fényei kárpótolnak. Délben a katedrális vastag falai védenek a jeges széltől. Mivel 17 óra körül sötétedik, a Montagne de Bueren lépcsőit még kora délután másszuk meg a fényben. A napot a téli parkban álló, hívogatóan világító La Boverie múzeumban fejezzük be.",
+            "ro": "O dimineață de iarnă în Piața Saint-Lambert este adesea geroasă, dar luminile orașului încălzesc atmosfera. La prânz, catedrala oferă un popas liniștit și ferit de vânt. Deoarece se întunecă în jurul orei 17:00, urcăm Montagne de Bueren devreme pentru a prinde lumina zilei. Ziua se încheie la muzeul La Boverie, luminat cald în mijlocul parcului înghețat.",
+            "en": "A winter morning at Saint Lambert Square is often frosty, but the city lights warm the soul. At noon, the cathedral provides a peaceful refuge from the biting wind. As darkness falls around 5 PM, we climb Montagne de Bueren in the early afternoon to catch the daylight. The day concludes at the warmly lit La Boverie Museum in the wintry park."
+          },
+          "stops": [
+            {
+              "name": "Saint Lambert Square",
+              "tip_5lang": {
+                "de": "Im Dezember findet hier der Village de Noël statt.",
+                "hu": "Decemberben itt tartják a karácsonyi vásárt (Village de Noël).",
+                "ro": "În decembrie, aici are loc Târgul de Crăciun (Village de Noël).",
+                "en": "In December, the Christmas Village (Village de Noël) is held here."
+              }
+            },
+            {
+              "name": "Archéoforum",
+              "tip_5lang": {
+                "de": "Angenehme, konstante Temperaturen unter der Erde.",
+                "hu": "Kellemes, állandó hőmérséklet a föld alatt.",
+                "ro": "Temperaturi constante și plăcute sub pământ.",
+                "en": "Pleasant, constant temperatures underground."
+              }
+            },
+            {
+              "name": "Palace of the Prince-Bishops",
+              "tip_5lang": {
+                "de": "Achtung bei Glätte im offenen Innenhof.",
+                "hu": "Vigyázzon a jegesedésre a nyitott belső udvaron.",
+                "ro": "Atenție la polei în curtea interioară deschisă.",
+                "en": "Watch out for icy patches in the open courtyard."
+              }
+            },
+            {
+              "name": "Le Perron",
+              "tip_5lang": {
+                "de": "Das Symbol der Freiheit wirkt im Frost besonders stolz.",
+                "hu": "A szabadság szimbóluma büszkén áll a zúzmarában.",
+                "ro": "Simbolul libertății arată impunător în ger.",
+                "en": "The symbol of freedom looks particularly proud in the frost."
+              }
+            },
+            {
+              "name": "Saint Paul's Cathedral",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Weihnachtskrippe in der Adventszeit.",
+                "hu": "Advent idején tekintse meg a betlehemi jászlat.",
+                "ro": "Vizitați ieslea de Crăciun în perioada Adventului.",
+                "en": "Visit the Christmas nativity scene during Advent."
+              }
+            },
+            {
+              "name": "Collegiate Church of Saint Bartholomew",
+              "tip_5lang": {
+                "de": "Die roten Außenwände leuchten hell im grauen Winter.",
+                "hu": "A vörös külső falak ragyognak a szürke télben.",
+                "ro": "Zidurile exterioare roșii strălucesc în iarna gri.",
+                "en": "The red exterior walls glow brightly in the grey winter."
+              }
+            },
+            {
+              "name": "Montagne de Bueren",
+              "tip_5lang": {
+                "de": "Anstrengender Aufstieg hält den Kreislauf warm.",
+                "hu": "A fárasztó lépcsőzés segít melegen tartani a testet.",
+                "ro": "Urcarea solicitantă vă va menține circulația caldă.",
+                "en": "The strenuous climb will keep your circulation warm."
+              }
+            },
+            {
+              "name": "La Boverie Museum",
+              "tip_5lang": {
+                "de": "Perfekt für einen frühen Sonnenuntergang im Warmen.",
+                "hu": "Tökéletes hely a korai naplemente melegben való megvárására.",
+                "ro": "Perfect pentru a vedea apusul timpuriu de la căldură.",
+                "en": "Perfect for watching the early sunset from a warm place."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Kleidung und feste Sohlen für die Bueren-Treppe sind nötig.",
+              "Heiße Schokolade in der Rue Hors-Château wärmt zwischendurch auf.",
+              "Die Sonne geht früh unter; planen Sie Outdoor-Fotos vor 15:30 Uhr.",
+              "Lüttich ist im Winter berühmt für seinen großen Weihnachtsmarkt."
+            ],
+            "hu": [
+              "Meleg ruházat és tapadós talpú cipő kell a Bueren-lépcsőhöz.",
+              "Egy forró csoki a Rue Hors-Château-n segít a felmelegedésben.",
+              "A nap korán nyugszik; a kültéri fotókat tervezze 15:30 előttre.",
+              "Lüttich télen híres a hatalmas karácsonyi vásáráról."
+            ],
+            "ro": [
+              "Haine groase și tălpi aderente sunt necesare pentru scările Bueren.",
+              "O ciocolată caldă pe Rue Hors-Château vă va încălzi parcursul.",
+              "Soarele apune devreme; planificați pozele afară înainte de 15:30.",
+              "Liège este faimos iarna pentru marele său Târg de Crăciun."
+            ],
+            "en": [
+              "Warm clothing and grippy soles are needed for the Bueren stairs.",
+              "A hot chocolate on Rue Hors-Château helps to warm up in between.",
+              "Sunset is early; plan outdoor photos before 3:30 PM.",
+              "Liège is famous in winter for its massive Christmas market."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -782,6 +1000,206 @@
           "Some city center streets are cobbled, ride with care.",
           "A good lock is essential when leaving your bike to visit sights."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen starten wir am futuristischen Bahnhof Liège-Guillemins, dessen Dach weitläufigen Schutz bietet. Die Radtour führt entlang der Maas, wo Pfützen und rutschige Wege Konzentration fordern. Mittags wärmen wir uns in den Kirchen der Altstadt auf. Der Nachmittag gehört der Kunst im La Boverie, bevor wir den Tag kulturreich am Opernhaus ausklingen lassen.",
+            "hu": "Az eső ellenére a futurisztikus Liège-Guillemins állomáson kezdünk, melynek tetőszerkezete védelmet nyújt. A kerékpárút a Meuse mentén halad, ahol a tócsák és a csúszós út koncentrációt igényel. Délben az óváros templomaiban melegszünk fel. A délután a művészeté a La Boverie-ben, majd a napot az Operaháznál zárjuk.",
+            "ro": "În ciuda ploii, începem la gara futuristă Liège-Guillemins, al cărei acoperiș oferă protecție extinsă. Traseul cu bicicleta urmează cursul Meuse, unde bălțile și drumul alunecos cer concentrare. La prânz ne încălzim în bisericile din orașul vechi. După-amiaza este dedicată artei la La Boverie, încheind ziua cultural la Operă.",
+            "en": "Despite the rain, we start at the futuristic Liège-Guillemins station, whose roof provides extensive shelter. The bike tour follows the Meuse, where puddles and slippery paths require concentration. At noon, we warm up in the old town churches. The afternoon is dedicated to art at La Boverie, ending the day culturally at the Opera."
+          },
+          "stops": [
+            {
+              "name": "Liège-Guillemins Station",
+              "tip_5lang": {
+                "de": "Das riesige Dach bietet Schutz beim Vorbereiten der Räder.",
+                "hu": "Az óriási tető alatt szárazon készíthetjük fel a bringákat.",
+                "ro": "Acoperișul uriaș oferă adăpost pentru pregătirea bicicletelor.",
+                "en": "The huge roof provides shelter while preparing the bikes."
+              }
+            },
+            {
+              "name": "La Boverie Museum",
+              "tip_5lang": {
+                "de": "Überdachte Fahrradständer in der Nähe des Eingangs suchen.",
+                "hu": "Keressen fedett biciklitárolót a bejárat közelében.",
+                "ro": "Căutați rastele de biciclete acoperite lângă intrare.",
+                "en": "Look for covered bike racks near the entrance."
+              }
+            },
+            {
+              "name": "Saint Paul's Cathedral",
+              "tip_5lang": {
+                "de": "Vorsicht beim Absteigen auf nassem Kopfsteinpflaster.",
+                "hu": "Vigyázzon a leszálláskor a vizes macskakövön.",
+                "ro": "Atenție la coborârea de pe bicicletă pe piatra cubică udă.",
+                "en": "Be careful when dismounting on wet cobblestones."
+              }
+            },
+            {
+              "name": "Saint Lambert Square",
+              "tip_5lang": {
+                "de": "Großzügige Flächen, aber Pfützengefahr in Senken.",
+                "hu": "Tágas terek, de a mélyedésekben tócsák gyűlhetnek össze.",
+                "ro": "Spații generoase, dar risc de bălți în zonele joase.",
+                "en": "Generous spaces, but risk of puddles in hollows."
+              }
+            },
+            {
+              "name": "Collegiate Church of Saint Bartholomew",
+              "tip_5lang": {
+                "de": "Schutz suchen unter den Portalen bei plötzlichen Schauern.",
+                "hu": "Keressen menedéket a kapuk alatt hirtelen zápor esetén.",
+                "ro": "Căutați adăpost sub portaluri în caz de averse bruște.",
+                "en": "Seek shelter under the portals during sudden showers."
+              }
+            },
+            {
+              "name": "Montagne de Bueren",
+              "tip_5lang": {
+                "de": "Nicht mit dem Rad befahrbar; Räder unten sicher anschließen.",
+                "hu": "Kerékpárral nem járható; lenn zárja le biztonságosan.",
+                "ro": "Inaccesibil cu bicicleta; legați-o în siguranță jos.",
+                "en": "Inaccessible by bike; lock your bike securely at the bottom."
+              }
+            },
+            {
+              "name": "Royal Opera of Wallonia",
+              "tip_5lang": {
+                "de": "Eleganter Abschluss; Radschutzkleidung vor Eintritt ablegen.",
+                "hu": "Elegáns zárás; belépés előtt vegye le az esővédő ruhát.",
+                "ro": "Final elegant; scoateți echipamentul de ploaie la intrare.",
+                "en": "Elegant finish; remove rain gear before entering."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie bei Regen die glatten weißen Markierungen auf dem Asphalt.",
+              "Vorder- und Rücklicht sind bei trübem Wetter auch tagsüber wichtig.",
+              "Die Wege am Flussufer können bei starkem Regen matschig sein.",
+              "Tragen Sie wasserfeste Überschuhe, um die Füße trocken zu halten."
+            ],
+            "hu": [
+              "Esőben kerülje a csúszós fehér útburkolati jeleket.",
+              "A hátsó és első lámpa borús időben nappal is fontos.",
+              "A folyóparti utak heves esőzéskor sárosak lehetnek.",
+              "Viseljen vízálló kamáslit, hogy a lába száraz maradjon."
+            ],
+            "ro": [
+              "Evitați marcajele albe de pe asfalt, care devin alunecoase la ploaie.",
+              "Luminile față și spate sunt importante chiar și ziua pe vreme gri.",
+              "Potecile de pe malul râului pot fi noroioase la ploaie torențială.",
+              "Purtați protecții impermeabile peste încălțăminte."
+            ],
+            "en": [
+              "Avoid slippery white road markings on the asphalt when wet.",
+              "Front and rear lights are important during the day in grey weather.",
+              "Riverside paths can be muddy during heavy rain.",
+              "Wear waterproof shoe covers to keep your feet dry."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Wintertag auf dem Rad beginnt am Bahnhof Guillemins. Die klare Luft am Maasufer erfrischt, erfordert aber warme Handschuhe. Mittags wärmen wir uns in der Kathedrale auf, bevor wir über den Place Saint-Lambert zur Oper fahren. Da die Sonne früh verschwindet, beenden wir unsere Tour im warmen Glanz des Opernviertels, während die Stadtbeleuchtung angeht.",
+            "hu": "Hűvös téli nap indul két keréken a Guillemins állomástól. A friss levegő a Meuse partján üdítő, de meleg kesztyű kell hozzá. Délben a katedrálisban melegszünk fel, majd a Saint-Lambert téren át az Operáig tekerünk. Mivel a nap korán eltűnik, utunkat az operanegyed meleg fényeiben zárjuk, miközben kigyúlnak a város lámpái.",
+            "ro": "O zi răcoroasă de iarnă începe pe bicicletă de la gara Guillemins. Aerul curat de pe malul Meuse este revigorant, dar necesită mănuși groase. La prânz ne încălzim în catedrală, apoi pedalăm prin Piața Saint-Lambert spre Operă. Deoarece soarele apune devreme, încheiem turul în lumina caldă a cartierului Operei.",
+            "en": "A chilly winter day on the bike starts at Guillemins station. The crisp air along the Meuse is refreshing but requires warm gloves. At noon, we warm up in the cathedral before cycling via Saint Lambert Square to the Opera. Since the sun sets early, we finish our tour in the warm glow of the Opera district as the city lights come on."
+          },
+          "stops": [
+            {
+              "name": "Liège-Guillemins Station",
+              "tip_5lang": {
+                "de": "Vorsicht vor Reifglätte auf den metallenen Bahnhofsplattformen.",
+                "hu": "Vigyázzon a dér okozta csúszásveszélyre a fém peronokon.",
+                "ro": "Atenție la poleiul de pe platformele metalice ale gării.",
+                "en": "Watch out for frost on the metal station platforms."
+              }
+            },
+            {
+              "name": "La Boverie Museum",
+              "tip_5lang": {
+                "de": "Die Parkwege werden im Winter früh gestreut.",
+                "hu": "A parki utakat télen korán felszórják csúszásmentesítővel.",
+                "ro": "Aleile parcului sunt curățate devreme în timpul iernii.",
+                "en": "The park paths are gritted early during winter mornings."
+              }
+            },
+            {
+              "name": "Saint Paul's Cathedral",
+              "tip_5lang": {
+                "de": "Fahrradschloss kann bei Frost klemmen; WD-40 hilft.",
+                "hu": "A biciklizár fagyban beragadhat; egy kis jégoldó segíthet.",
+                "ro": "Antifurtul se poate bloca la ger; spray-ul de dezghețare ajută.",
+                "en": "Bike locks can freeze; a bit of de-icer or WD-40 helps."
+              }
+            },
+            {
+              "name": "Saint Lambert Square",
+              "tip_5lang": {
+                "de": "Großer Platz, oft zugig; winddichte Kleidung wichtig.",
+                "hu": "Tágas tér, gyakran huzatos; szélálló ruha fontos.",
+                "ro": "Piață mare, adesea ventilată; hainele anti-vânt sunt vitale.",
+                "en": "Large square, often breezy; windproof clothing is key."
+              }
+            },
+            {
+              "name": "Collegiate Church of Saint Bartholomew",
+              "tip_5lang": {
+                "de": "Kopfsteinpflaster in der Nähe kann bei Frost tückisch sein.",
+                "hu": "A közeli macskakő fagyban trükkös és csúszós lehet.",
+                "ro": "Piatra cubică din apropiere poate fi înșelătoare la îngheț.",
+                "en": "Nearby cobblestones can be treacherous when frozen."
+              }
+            },
+            {
+              "name": "Montagne de Bueren",
+              "tip_5lang": {
+                "de": "Nur für Fußgänger; Treppensteigen wärmt die Beine auf.",
+                "hu": "Csak gyalogosoknak; a lépcsőzés átmelegíti a lábakat.",
+                "ro": "Doar pentru pietoni; urcatul treptelor vă va încălzi picioarele.",
+                "en": "Pedestrians only; climbing the stairs will warm your legs."
+              }
+            },
+            {
+              "name": "Royal Opera of Wallonia",
+              "tip_5lang": {
+                "de": "Beleuchtung der Fassade im Winter besonders stimmungsvoll.",
+                "hu": "A homlokzat kivilágítása télen különösen hangulatos.",
+                "ro": "Iluminatul fațadei este deosebit de spectaculos iarna.",
+                "en": "The facade lighting is particularly atmospheric in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Mehrschichtige Kleidung schützt vor dem kalten Fahrtwind.",
+              "Achten Sie auf gefrorene Pfützen im Halbschatten der Gebäude.",
+              "Die Batterien der Beleuchtung entladen sich in der Kälte schneller.",
+              "Ein Thermosbecher mit Tee im Flaschenhalter ist ein Lebensretter."
+            ],
+            "hu": [
+              "A réteges öltözködés véd a hideg menetszéltől.",
+              "Ügyeljen a fagyott tócsákra az épületek árnyékos oldalán.",
+              "A lámpák elemei a hidegben gyorsabban lemerülnek.",
+              "Egy termosz tea a kulacstartóban életmentő lehet."
+            ],
+            "ro": [
+              "Îmbrăcămintea în straturi protejează de vântul rece din mers.",
+              "Atenție la bălțile înghețate în umbra clădirilor.",
+              "Bateriile luminilor se descarcă mai repede la frig.",
+              "Un termos cu ceai în suportul de bidon este salvator."
+            ],
+            "en": [
+              "Layered clothing protects against the cold wind while riding.",
+              "Watch out for frozen puddles in the shadow of buildings.",
+              "Bike light batteries drain faster in cold temperatures.",
+              "A thermos of tea in the bottle cage is a lifesaver."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1182,6 +1600,224 @@
           "Traffic in the city center can be heavy, plan extra time for drives.",
           "Be aware of the Low Emission Zones (LEZ) in Liège."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag lässt sich in Lüttich am besten per Auto bewältigen, beginnend am Parkhaus des Bahnhofs Guillemins. Wir fahren trockenen Fußes zum La Boverie Museum und nutzen später das zentrale Cité-Parkhaus für den Altstadtbesuch. Mittags und nachmittags besichtigen wir die prachtvollen Kirchen und den Palast, während wir zwischen den Stopps vor dem Regen geschützt sind.",
+            "hu": "Az esős napot Lüttichben autóval a legkényelmesebb abszolválni, a Guillemins állomás parkolójából indulva. Száraz lábbal jutunk el a La Boverie múzeumba, majd a központi Cité parkolóházat használjuk az óvároshoz. Délben és délután a pompás templomokat és a palotát látogatjuk meg, miközben a megállók között védve vagyunk az esőtől.",
+            "ro": "O zi ploioasă în Liège este cel mai ușor de parcurs cu mașina, începând de la parcarea gării Guillemins. Ajungem cu picioarele uscate la muzeul La Boverie și folosim ulterior parcarea Cité pentru centrul vechi. La prânz și după-amiaza vizităm bisericile superbe și palatul, fiind protejați de ploaie între opriri.",
+            "en": "A rainy day in Liège is best managed by car, starting at the Guillemins station parking. We reach La Boverie Museum with dry feet and later use the central Cité parking for the old town. At noon and in the afternoon, we visit the magnificent churches and the palace while staying protected from the rain between stops."
+          },
+          "stops": [
+            {
+              "name": "Parking at Guillemins Station",
+              "tip_5lang": {
+                "de": "Direkter Zugang zum Bahnhof ohne Regen.",
+                "hu": "Közvetlen bejutás az állomásra eső nélkül.",
+                "ro": "Acces direct în gară fără a intra în ploaie.",
+                "en": "Direct access to the station without getting wet."
+              }
+            },
+            {
+              "name": "La Boverie Museum",
+              "tip_5lang": {
+                "de": "Parkplatz direkt am Park; kurzer Fußweg zum Museum.",
+                "hu": "Parkoló közvetlenül a parknál; rövid séta a múzeumig.",
+                "ro": "Parcare chiar lângă parc; mers scurt pe jos până la muzeu.",
+                "en": "Parking right by the park; short walk to the museum."
+              }
+            },
+            {
+              "name": "Cité Parking Garage (Old Town Cluster)",
+              "tip_5lang": {
+                "de": "Perfekt zentral und trockenes Aussteigen möglich.",
+                "hu": "Tökéletesen központi, száraz kiszállást tesz lehetővé.",
+                "ro": "Central și permite coborârea din mașină la adăpost.",
+                "en": "Perfectly central and allows getting out under cover."
+              }
+            },
+            {
+              "name": "Saint Lambert Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie den unterirdischen Zugang vom Parkhaus.",
+                "hu": "Használja a föld alatti feljáratot a parkolóházból.",
+                "ro": "Folosiți accesul subteran din parcarea etajată.",
+                "en": "Use the underground access from the parking garage."
+              }
+            },
+            {
+              "name": "Palace of the Prince-Bishops",
+              "tip_5lang": {
+                "de": "Nur wenige Gehminuten vom Parkhaus entfernt.",
+                "hu": "Csak pár perc gyalog a parkolóháztól.",
+                "ro": "La doar câteva minute de mers de parcare.",
+                "en": "Only a few minutes' walk from the parking garage."
+              }
+            },
+            {
+              "name": "Saint Paul's Cathedral",
+              "tip_5lang": {
+                "de": "Kurze Sprints zwischen den Gebäuden einplanen.",
+                "hu": "Tervezzen rövid sprintet az épületek között.",
+                "ro": "Planificați scurte reprize de mers între clădiri.",
+                "en": "Plan short sprints between buildings."
+              }
+            },
+            {
+              "name": "Collegiate Church of Saint Bartholomew",
+              "tip_5lang": {
+                "de": "Begrenzte Parkplätze direkt davor; besser im Parkhaus bleiben.",
+                "hu": "Kevés hely közvetlenül előtte; jobb a parkolóházban maradni.",
+                "ro": "Parcare limitată în față; e mai bine în parcarea etajată.",
+                "en": "Limited parking directly in front; better to stay in the garage."
+              }
+            },
+            {
+              "name": "Montagne de Bueren",
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Fahren in die engen, nassen Gassen.",
+                "hu": "Kerülje az autóval való behajtást a szűk, vizes utcákba.",
+                "ro": "Evitați condusul pe străduțele înguste și ude.",
+                "en": "Avoid driving into the narrow, wet side streets."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die App 'Parking Liège' für freie Plätze in Echtzeit.",
+              "Vermeiden Sie das Ufer der Maas bei extremem Starkregen (Hochwassergefahr).",
+              "Die Parkhäuser Cité und Saint-Lambert sind die besten Basislager.",
+              "Achten Sie auf Fußgänger mit Regenschirmen, die die Sicht einschränken."
+            ],
+            "hu": [
+              "Használja a 'Parking Liège' appot a szabad helyekhez.",
+              "Heves esőzéskor kerülje a Meuse-parti utakat (árvízveszély).",
+              "A Cité és Saint-Lambert parkolóházak a legjobb bázisok.",
+              "Figyeljen az esernyős gyalogosokra, akik nehezebben látnak."
+            ],
+            "ro": [
+              "Folosiți aplicația 'Parking Liège' pentru locuri libere în timp real.",
+              "Evitați malul Meuse la ploi torențiale (risc de inundații).",
+              "Parcările Cité și Saint-Lambert sunt cele mai bune baze.",
+              "Atenție la pietonii cu umbrele care pot avea vizibilitate redusă."
+            ],
+            "en": [
+              "Use the 'Parking Liège' app for real-time space availability.",
+              "Avoid the Meuse banks during extremely heavy rain (flood risk).",
+              "The Cité and Saint-Lambert parking garages are the best bases.",
+              "Watch out for pedestrians with umbrellas who might have limited vision."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Lüttich beginnt warm im Auto am Bahnhof Guillemins. Die Fahrt durch die festlich beleuchtete Stadt führt uns zur Boverie und später ins Herz der Altstadt. Während es draußen friert, genießen wir die beheizten Fahrten zwischen den historischen Kirchen. Der Tag endet im Cité-Viertel, wo wir den Wagen sicher abstellen, um die Winterstimmung kurz zu Fuß zu genießen.",
+            "hu": "A téli Lüttich meleg autóban indul a Guillemins állomásnál. Az ünnepi díszben úszó városon át a Boverie-hez, majd az óváros szívébe hajtunk. Miközben kint fagy, élvezzük a fűtött utazást a történelmi templomok között. A napot a Cité negyedben zárjuk, ahol biztonságban leparkolunk, hogy gyalog is élvezzük a téli hangulatot.",
+            "ro": "Liège-ul hibernal începe la căldură în mașină la gara Guillemins. Drumul prin orașul luminat festiv ne duce la Boverie și apoi în inima centrului vechi. În timp ce afară e ger, ne bucurăm de drumurile încălzite între bisericile istorice. Ziua se încheie în cartierul Cité, unde lăsăm mașina pentru a simți atmosfera de iarnă pe jos.",
+            "en": "Wintry Liège starts warmly in the car at Guillemins station. The drive through the festively lit city takes us to Boverie and later into the heart of the old town. While it's freezing outside, we enjoy the heated rides between historic churches. The day ends in the Cité district, where we park safely to enjoy the winter atmosphere briefly on foot."
+          },
+          "stops": [
+            {
+              "name": "Parking at Guillemins Station",
+              "tip_5lang": {
+                "de": "Überdachtes Parken schützt vor morgendlichem Scheibenkratzen.",
+                "hu": "A fedett parkoló megvéd a reggeli jégkaparástól.",
+                "ro": "Parcarea acoperită vă scutește de curățatul parbrizului.",
+                "en": "Covered parking protects from morning windshield scraping."
+              }
+            },
+            {
+              "name": "La Boverie Museum",
+              "tip_5lang": {
+                "de": "Parkwege können bei Frost glatt sein; vorsichtig gehen.",
+                "hu": "A parki utak fagyban csúszósak lehetek; járjon óvatosan.",
+                "ro": "Aleile parcului pot fi alunecoase la ger; mergeți cu grijă.",
+                "en": "Park paths can be slippery when frozen; walk carefully."
+              }
+            },
+            {
+              "name": "Cité Parking Garage (Old Town Cluster)",
+              "tip_5lang": {
+                "de": "Bequemes Parken nahe der warmen Geschäfte.",
+                "hu": "Kényelmes parkolás a meleg üzletek közelében.",
+                "ro": "Parcare confortabilă aproape de magazinele încălzite.",
+                "en": "Convenient parking near the warm shops."
+              }
+            },
+            {
+              "name": "Saint Lambert Square",
+              "tip_5lang": {
+                "de": "Der Platz ist im Winter oft windig und kalt.",
+                "hu": "A tér télen gyakran szeles és hideg.",
+                "ro": "Piața este adesea vântoasă și rece iarna.",
+                "en": "The square is often windy and cold in winter."
+              }
+            },
+            {
+              "name": "Palace of the Prince-Bishops",
+              "tip_5lang": {
+                "de": "Besichtigung der Innenhöfe bei Tageslicht empfohlen.",
+                "hu": "A belső udvarok megtekintése nappali fényben ajánlott.",
+                "ro": "Vizitarea curților interioare este recomandată pe lumină.",
+                "en": "Visiting the courtyards is recommended during daylight."
+              }
+            },
+            {
+              "name": "Saint Paul's Cathedral",
+              "tip_5lang": {
+                "de": "Ein herrlich warmer Rückzugsort bei Minusgraden.",
+                "hu": "Csodásan meleg menedék a mínuszok idején.",
+                "ro": "Un refugiu minunat de cald la temperaturi negative.",
+                "en": "A wonderfully warm retreat during sub-zero temperatures."
+              }
+            },
+            {
+              "name": "Collegiate Church of Saint Bartholomew",
+              "tip_5lang": {
+                "de": "Direkte Anfahrt möglich, um Kältebrücken zu minimieren.",
+                "hu": "Közvetlen odahajtás lehetséges a fázás minimalizálására.",
+                "ro": "Acces auto direct pentru a minimiza expunerea la frig.",
+                "en": "Direct drive access possible to minimize cold exposure."
+              }
+            },
+            {
+              "name": "Montagne de Bueren",
+              "tip_5lang": {
+                "de": "Kein Winterdienst auf den Stufen; Aufstieg auf eigene Gefahr.",
+                "hu": "A lépcsőkön nincs hóeltakarítás; saját felelősségre másszon.",
+                "ro": "Nu se deszăpezește pe trepte; urcare pe propria răspundere.",
+                "en": "No snow removal on the steps; climb at your own risk."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in den hügeligen Gassen Lüttichs Pflicht.",
+              "Achten Sie auf Blitzeis auf den Brücken über die Maas.",
+              "Die Batterieleistung Ihres Autos sinkt bei Kälte; Licht prüfen.",
+              "Nutzen Sie die Tiefgaragen, um das Auto eisfrei zu halten."
+            ],
+            "hu": [
+              "A téli gumi kötelező Lüttich dombos utcáin.",
+              "Ügyeljen a hirtelen jegesedésre a Meuse hídjain.",
+              "Az autó akkumulátora gyengülhet a hidegben; ellenőrizze.",
+              "Használja a mélygarázsokat, hogy az autó jégmentes maradjon."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii pe străzile deluroase.",
+              "Atenție la polei pe podurile de peste Meuse.",
+              "Performanța bateriei scade la frig; verificați luminile.",
+              "Folosiți parcările subterane pentru a păstra mașina fără gheață."
+            ],
+            "en": [
+              "Winter tires are mandatory in the hilly streets of Liège.",
+              "Watch out for black ice on the bridges over the Meuse.",
+              "Car battery performance drops in the cold; check your lights.",
+              "Use underground garages to keep the car ice-free."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1558,6 +2194,206 @@
           "The transport authority's app (TEC) is useful for real-time schedules.",
           "Buses can be crowded during peak hours, so be flexible."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag startet am Place Saint-Lambert, dem zentralen Busknotenpunkt mit vielen Unterständen. Mit dem Bus erreichen wir bequem die Kathedrale und später das La Boverie Museum im Park. Der moderne Bahnhof Guillemins dient als architektonisches Highlight und trockener Transitort. Den Tag beenden wir sicher und bequem im Netz des TEC-Nahverkehrs.",
+            "hu": "Esős nap indul a Saint-Lambert téren, a központi buszcsomópont fedett váróiban. Busszal kényelmesen elérjük a katedrálist, majd a parkban lévő La Boverie múzeumot. A modern Guillemins állomás építészeti remekmű és száraz átszállóhely is egyben. A napot biztonságban és kényelemben zárjuk a TEC hálózatán.",
+            "ro": "O zi ploioasă începe în Piața Saint-Lambert, nodul central de autobuze cu multe adăposturi. Cu autobuzul ajungem ușor la catedrală și apoi la muzeul La Boverie din parc. Gara modernă Guillemins servește ca punct culminant arhitectural și loc de tranzit uscat. Încheiem ziua sigur și confortabil folosind rețeaua TEC.",
+            "en": "A rainy day starts at Saint Lambert Square, the central bus hub with many shelters. By bus, we easily reach the cathedral and later the La Boverie Museum in the park. The modern Guillemins station serves as both an architectural highlight and a dry transit point. We end the day safely and comfortably within the TEC transit network."
+          },
+          "stops": [
+            {
+              "name": "Start: Saint Lambert Square",
+              "tip_5lang": {
+                "de": "Große überdachte Bushaltestellen vorhanden.",
+                "hu": "Nagy, fedett buszmegállók állnak rendelkezésre.",
+                "ro": "Există stații de autobuz mari și acoperite.",
+                "en": "Large covered bus stops are available."
+              }
+            },
+            {
+              "name": "Palace of the Prince-Bishops",
+              "tip_5lang": {
+                "de": "Kurzer Weg von der Haltestelle zum Eingang.",
+                "hu": "Rövid séta a megállótól a bejáratig.",
+                "ro": "Distanță scurtă de la stație până la intrare.",
+                "en": "Short walk from the bus stop to the entrance."
+              }
+            },
+            {
+              "name": "Saint Paul's Cathedral",
+              "tip_5lang": {
+                "de": "Mehrere Buslinien halten in unmittelbarer Nähe.",
+                "hu": "Számos buszjárat megáll a közvetlen közelben.",
+                "ro": "Mai multe linii de autobuz opresc în imediata apropiere.",
+                "en": "Several bus lines stop in the immediate vicinity."
+              }
+            },
+            {
+              "name": "La Boverie Museum",
+              "tip_5lang": {
+                "de": "Buslinie 26 oder 31 bringt Sie fast bis vor die Tür.",
+                "hu": "A 26-os vagy 31-es busz majdnem az ajtóig viszi.",
+                "ro": "Liniile 26 sau 31 vă lasă aproape de intrare.",
+                "en": "Bus lines 26 or 31 take you almost to the door."
+              }
+            },
+            {
+              "name": "Liège-Guillemins Station",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um trocken auf den nächsten Zug zu warten.",
+                "hu": "Tökéletes hely szárazon várni a következő vonatra.",
+                "ro": "Loc perfect pentru a aștepta trenul la adăpost.",
+                "en": "Perfect place to wait for the next train while staying dry."
+              }
+            },
+            {
+              "name": "Montagne de Bueren",
+              "tip_5lang": {
+                "de": "Vom Busstopp am Fuße der Treppe ist es nicht weit.",
+                "hu": "A lépcső aljánál lévő buszmegállótól nincs messze.",
+                "ro": "Nu este departe de stația de autobuz de la baza scărilor.",
+                "en": "It's a short walk from the bus stop at the foot of the stairs."
+              }
+            },
+            {
+              "name": "Collegiate Church of Saint Bartholomew",
+              "tip_5lang": {
+                "de": "Haltestelle 'Place du Marché' bietet Schutz in der Nähe.",
+                "hu": "A 'Place du Marché' megálló közeli védelmet nyújt.",
+                "ro": "Stația 'Place du Marché' oferă adăpost în apropiere.",
+                "en": "The 'Place du Marché' stop provides nearby shelter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die 'TEC'-App für Echtzeit-Abfahrten bei Regen.",
+              "Die Fahrkarten können kontaktlos im Bus bezahlt werden.",
+              "Bahnhof Guillemins hat beheizte Warteräume im Inneren.",
+              "Achten Sie auf rutschige Böden in den Bussen bei Nässe."
+            ],
+            "hu": [
+              "Használja a 'TEC' appot az élő menetrendhez esőben.",
+              "A jegyek érintésmentesen is fizethetők a buszon.",
+              "A Guillemins állomáson fűtött várótermek találhatók.",
+              "Vigyázzon a buszok padlójára, ami esőben csúszós lehet."
+            ],
+            "ro": [
+              "Folosiți aplicația 'TEC' pentru orele de plecare în timp real.",
+              "Biletele pot fi plătite contactless direct în autobuz.",
+              "Gara Guillemins are săli de așteptare încălzite în interior.",
+              "Atenție la podelele alunecoase din autobuze când plouă."
+            ],
+            "en": [
+              "Use the 'TEC' app for real-time departures during rain.",
+              "Tickets can be paid contactless on the bus.",
+              "Guillemins station has heated waiting rooms inside.",
+              "Watch out for slippery floors on the buses when wet."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Wintermorgen beginnt am Place Saint-Lambert, wo die wartenden Busse Wärme versprechen. Wir fahren zur Kathedrale und genießen den kurzen Weg von der Haltestelle. Nachmittags bietet der Bahnhof Guillemins einen beeindruckenden, wenn auch zugigen Transitpunkt. Die Tour endet gemütlich, während wir in den beheizten Bussen die beleuchtete Winterstadt an uns vorbeiziehen lassen.",
+            "hu": "Fagyos téli reggel indul a Saint-Lambert téren, ahol a várakozó buszok meleget ígérnek. A katedrálishoz utazunk, élvezve a rövid sétát a megállótól. Délután a Guillemins állomás lenyűgöző, bár kissé huzatos csomópontként szolgál. A túra kényelmesen zárul a fűtött buszokban, miközben nézzük a kivilágított téli várost.",
+            "ro": "O dimineață geroasă de iarnă începe în Piața Saint-Lambert, unde autobuzele promit căldură. Mergem la catedrală, profitând de distanța scurtă de la stație. După-amiaza, gara Guillemins este un punct de tranzit impresionant, deși cam ventilat. Turul se încheie confortabil în autobuzele încălzite, admirând orașul luminat.",
+            "en": "A frosty winter morning starts at Saint Lambert Square, where the waiting buses promise warmth. We travel to the cathedral, enjoying the short walk from the stop. In the afternoon, Guillemins station serves as an impressive, if somewhat breezy, transit point. The tour ends comfortably in heated buses, watching the lit winter city pass by."
+          },
+          "stops": [
+            {
+              "name": "Start: Saint Lambert Square",
+              "tip_5lang": {
+                "de": "Zentraler Ort mit vielen Umsteigemöglichkeiten im Warmen.",
+                "hu": "Központi hely számos átszállási lehetőséggel a melegben.",
+                "ro": "Loc central cu multe opțiuni de transfer la căldură.",
+                "en": "Central location with many transfer options in the warm."
+              }
+            },
+            {
+              "name": "Palace of the Prince-Bishops",
+              "tip_5lang": {
+                "de": "Ziehen Sie sich warm an für den Aufenthalt im Freien.",
+                "hu": "Öltözzön melegen a kültéri várakozáshoz.",
+                "ro": "Îmbrăcați-vă gros pentru timpul petrecut afară.",
+                "en": "Dress warmly for the time spent outdoors."
+              }
+            },
+            {
+              "name": "Saint Paul's Cathedral",
+              "tip_5lang": {
+                "de": "Die Bushaltestellen sind nur einen Katzensprung entfernt.",
+                "hu": "A buszmegállók csak egy ugrásra vannak.",
+                "ro": "Stațiile de autobuz sunt la doar un pas distanță.",
+                "en": "The bus stops are just a stone's throw away."
+              }
+            },
+            {
+              "name": "La Boverie Museum",
+              "tip_5lang": {
+                "de": "Winterspaziergang durch den Park zur Haltestelle einplanen.",
+                "hu": "Tervezzen téli sétát a parkon át a megállóig.",
+                "ro": "Planificați o plimbare de iarnă prin parc spre stație.",
+                "en": "Plan a winter walk through the park to the bus stop."
+              }
+            },
+            {
+              "name": "Liège-Guillemins Station",
+              "tip_5lang": {
+                "de": "Beeindruckende Architektur, aber im Winter sehr zugig.",
+                "hu": "Lenyűgöző építészet, de télen nagyon huzatos.",
+                "ro": "Arhitectură impresionantă, dar foarte ventilată iarna.",
+                "en": "Impressive architecture, but very breezy in winter."
+              }
+            },
+            {
+              "name": "Montagne de Bueren",
+              "tip_5lang": {
+                "de": "Busse fahren regelmäßig zurück ins warme Zentrum.",
+                "hu": "A buszok rendszeresen járnak vissza a meleg központba.",
+                "ro": "Autobuzele circulă regulat înapoi spre centrul cald.",
+                "en": "Buses run regularly back to the warm center."
+              }
+            },
+            {
+              "name": "Collegiate Church of Saint Bartholomew",
+              "tip_5lang": {
+                "de": "Warten Sie in den umliegenden Cafés auf den Bus.",
+                "hu": "Várja a buszt a környező kávézókban.",
+                "ro": "Așteptați autobuzul în cafenelele din jur.",
+                "en": "Wait for the bus in the surrounding cafes."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrpläne können sich bei starkem Schneefall leicht verzögern.",
+              "Die TEC-Busse sind in der Regel sehr gut beheizt.",
+              "Nutzen Sie die Bahnhöfe für längere Pausen im Warmen.",
+              "Abends ist die Frequenz einiger Linien etwas geringer."
+            ],
+            "hu": [
+              "Erős hóesésben a menetrend kissé módosulhat.",
+              "A TEC buszok általában nagyon jól fűtöttek.",
+              "Használja az állomásokat hosszabb, meleg pihenőkre.",
+              "Este egyes járatok ritkábban közlekedhetnek."
+            ],
+            "ro": [
+              "Orarele pot avea mici întârzieri la ninsori puternice.",
+              "Autobuzele TEC sunt, de regulă, foarte bine încălzite.",
+              "Folosiți gările pentru pauze mai lungi la căldură.",
+              "Seara, frecvența unor linii poate fi ușor redusă."
+            ],
+            "en": [
+              "Schedules may have slight delays during heavy snowfall.",
+              "TEC buses are generally very well heated.",
+              "Use the train stations for longer breaks in the warm.",
+              "In the evening, the frequency of some lines is slightly lower."
+            ]
+          }
+        }
       }
     }
   }

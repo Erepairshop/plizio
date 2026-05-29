@@ -362,6 +362,196 @@
           "Always carry a water bottle, especially on warm days.",
           "Some grottos may only accept cash, so be prepared."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt geschützt unter den Arkaden der Piazza Grande. Mittags bietet das Visconteo Castle trockenen Unterschlupf und faszinierende Geschichte. Am Nachmittag bringt Sie die Standseilbahn fast trocken zur Madonna del Sasso, die im Nebel mystisch wirkt. Den Tag beenden Sie entspannt in den warmen Thermalbädern der Termali Salini direkt am Seeufer.",
+            "hu": "A reggel a Piazza Grande árkádjai alatt indul, amelyek tökéletes védelmet nyújtanak. Délben a Visconteo kastély vastag falai között kalandozunk, távol az esőtől. Délután a siklóval emelkedünk a Madonna del Sasso templomhoz, amely ködben is lenyűgöző. Az estét a Lido fedett termálfürdőjének forró medencéiben zárjuk, figyelve a tóra hulló esőcseppeket.",
+            "ro": "Dimineața începe sub arcadele din Piazza Grande, oferind adăpost perfect. La prânz, explorăm Castelul Visconteo, unde expozițiile interioare ne țin la uscat. După-amiaza, funicularul ne duce la sanctuarul Madonna del Sasso, care arată mistic prin ceață. Încheiem ziua relaxându-ne în bazinele termale acoperite de la Termali Salini, privind ploaia peste Lacul Maggiore.",
+            "en": "Start your morning under the protective Lombardy-style arcades of Piazza Grande. At noon, retreat into the sturdy walls of Visconteo Castle to stay dry while exploring history. In the afternoon, take the funicular up to Madonna del Sasso for a misty, atmospheric view. End the day soaking in the heated indoor pools of the Termali Salini & Spa at the Lido."
+          },
+          "stops": [
+            {
+              "name": "Piazza Grande",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden zum Flanieren, ohne nass zu werden.",
+                "hu": "Használja az árkádokat a sétához, így szárazon maradhat.",
+                "ro": "Folosiți arcadele pentru a vă plimba fără să vă udați.",
+                "en": "Walk under the historic arcades to stay perfectly dry."
+              }
+            },
+            {
+              "name": "Church of Sant'Antonio Abate",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort für eine Pause während eines Regenschauers.",
+                "hu": "Csendes menedék egy rövid pihenőhöz az eső elől.",
+                "ro": "Un loc liniștit pentru o pauză în timpul unei averse.",
+                "en": "A peaceful spot for a dry break during a heavy downpour."
+              }
+            },
+            {
+              "name": "Visconteo Castle",
+              "tip_5lang": {
+                "de": "Die Innenräume des Museums sind ideal bei schlechtem Wetter.",
+                "hu": "A múzeum belső terei ideálisak rossz idő esetén.",
+                "ro": "Interioarele muzeului sunt ideale pe vreme rea.",
+                "en": "The museum's indoor galleries are perfect for rainy days."
+              }
+            },
+            {
+              "name": "Sanctuary of Madonna del Sasso",
+              "tip_5lang": {
+                "de": "Die Standseilbahn ist überdacht; genießen Sie die mystische Aussicht.",
+                "hu": "A sikló fedett; élvezze a ködös, misztikus kilátást.",
+                "ro": "Funicularul este acoperit; bucurați-vă de priveliștea mistică.",
+                "en": "The funicular is covered; enjoy the atmospheric misty views."
+              }
+            },
+            {
+              "name": "Parco delle Camelie",
+              "tip_5lang": {
+                "de": "Kurzer Spaziergang; die Farben leuchten im Regen besonders stark.",
+                "hu": "Rövid séta; a színek esőben még élénkebbek a parkban.",
+                "ro": "O plimbare scurtă; culorile sunt vibrante pe timp de ploaie.",
+                "en": "Short walk; the garden colors pop beautifully in the rain."
+              }
+            },
+            {
+              "name": "Lido Locarno",
+              "tip_5lang": {
+                "de": "Das Highlight: Die Termali Salini bietet warme Innenbecken.",
+                "hu": "A fénypont: a Termali Salini meleg beltéri medencéket kínál.",
+                "ro": "Punctul culminant: Termali Salini oferă bazine interioare calde.",
+                "en": "The highlight: Termali Salini offers warm indoor thermal pools."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für die Wege zwischen den Arkaden.",
+              "Die Standseilbahn zur Madonna del Sasso ist der trockenste Aufstieg.",
+              "Die Termali Salini am Lido ist der beste Zufluchtsort bei Dauerregen.",
+              "In der Piazza Grande finden Sie viele Cafés unter den Arkaden.",
+              "Ein Regenschirm ist trotz Arkaden für kurze Übergänge ratsam."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt az árkádok közötti átkeléshez.",
+              "A Madonna del Sasso sikló a legszárazabb módja a feljutásnak.",
+              "A Lido termálfürdője a legjobb menedék tartós esőben.",
+              "A Piazza Grande kávézói az árkádok alatt biztonságosak.",
+              "Egy esernyő jól jön a parkhoz vezető rövid szakaszokon."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru zonele dintre arcade.",
+              "Funicularul spre Madonna del Sasso este cea mai uscată cale de urcare.",
+              "Termali Salini de la Lido este cel mai bun refugiu pe ploaie.",
+              "Multe cafenele din Piazza Grande sunt protejate de arcade.",
+              "O umbrelă este utilă pentru segmentele scurte neacoperite."
+            ],
+            "en": [
+              "Wear waterproof shoes for the segments between the arcades.",
+              "The funicular to Madonna del Sasso is the driest way to ascend.",
+              "The Termali Salini & Spa is the ultimate rainy day sanctuary.",
+              "Piazza Grande offers many cafes sheltered by ancient arcades.",
+              "Keep an umbrella handy for the short walk to the Camelie Park."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen auf der Piazza Grande mit Blick auf die schneebedeckten Gipfel. Mittags wärmen wir uns im Schlossmuseum auf, bevor wir mit der Standseilbahn in die Höhe fahren. Die Madonna del Sasso erstrahlt im sanften Winterlicht. Da es bereits gegen 17:00 Uhr dunkel wird, genießen wir den späten Nachmittag in der wohligen Wärme der Thermalbäder am See.",
+            "hu": "Friss téli reggel a Piazza Grande-n, a távolban havas hegycsúcsokkal. Délben a kastély múzeumában melegszünk fel, majd siklóval indulunk a magasba. A Madonna del Sasso templom különleges fényben tündököl ilyenkor. Mivel korán, 17:00 körül sötétedik, a késő délutánt már a tóparti termálfürdő forró gőzében és vizében töltjük.",
+            "ro": "O dimineață senină de iarnă în Piazza Grande, cu vârfurile înzăpezite în depărtare. La prânz, ne încălzim în muzeul castelului înainte de a urca cu funicularul. Madonna del Sasso strălucește în lumina blândă de iarnă. Deoarece se întunecă devreme (ora 17:00), petrecem după-amiaza târzie în căldura relaxantă a băilor termale de pe malul lacului.",
+            "en": "Enjoy a crisp winter morning on Piazza Grande with views of snow-capped Alpine peaks. At noon, warm up inside the Castle museum before taking the funicular uphill. Madonna del Sasso looks stunning in the low winter sun. As sunset arrives early around 5 PM, spend your late afternoon in the comforting warmth of the thermal baths by the lake."
+          },
+          "stops": [
+            {
+              "name": "Piazza Grande",
+              "tip_5lang": {
+                "de": "Genießen Sie einen heißen Espresso in den beheizten Außenbereichen.",
+                "hu": "Élvezzen egy forró eszpresszót a fűtött teraszok egyikén.",
+                "ro": "Savurați un espresso fierbinte pe terasele încălzite.",
+                "en": "Enjoy a hot espresso in one of the heated outdoor cafe areas."
+              }
+            },
+            {
+              "name": "Church of Sant'Antonio Abate",
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten die Kälte draußen; ideal zur Andacht.",
+                "hu": "A vastag falak kint tartják a hideget; ideális elmélyülésre.",
+                "ro": "Zidurile groase țin frigul afară; loc ideal pentru reculegere.",
+                "en": "The thick walls keep the chill out; perfect for a quiet moment."
+              }
+            },
+            {
+              "name": "Visconteo Castle",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ausstellungen, um der Winterkälte zu entfliehen.",
+                "hu": "Látogassa meg a kiállításokat, hogy elmeneküljön a téli hideg elől.",
+                "ro": "Vizitați expozițiile pentru a scăpa de frigul iernii.",
+                "en": "Explore the indoor exhibits to escape the winter breeze."
+              }
+            },
+            {
+              "name": "Sanctuary of Madonna del Sasso",
+              "tip_5lang": {
+                "de": "Das Winterpanorama über den Lago Maggiore ist oft glasklar.",
+                "hu": "A téli panoráma a Maggiore-tóra ilyenkor gyakran kristálytiszta.",
+                "ro": "Panorama de iarnă peste Lacul Maggiore este adesea extrem de clară.",
+                "en": "The winter panorama over Lake Maggiore is often crystal clear."
+              }
+            },
+            {
+              "name": "Parco delle Camelie",
+              "tip_5lang": {
+                "de": "Im Spätwinter blühen hier bereits die ersten Kamelienarten.",
+                "hu": "Tél végén itt már nyílnak az első különleges kamíliafajták.",
+                "ro": "La sfârșitul iernii, primele specii de camelii încep deja să înflorească.",
+                "en": "In late winter, the first camellia species already begin to bloom."
+              }
+            },
+            {
+              "name": "Lido Locarno",
+              "tip_5lang": {
+                "de": "Außenbecken im Winter: Dampfendes Wasser vor Bergkulisse.",
+                "hu": "Kültéri medence télen: gőzölgő víz a havas hegyek előtt.",
+                "ro": "Piscină exterioară iarna: apă aburindă în fața munților înzăpeziți.",
+                "en": "Outdoor thermal pool in winter: steaming water against snowy peaks."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Kleidung ist wegen der Seebrise unerlässlich.",
+              "Die Sonne verschwindet im Winter früh hinter den Bergen.",
+              "Nutzen Sie die Mittagsstunden für Außenaktivitäten.",
+              "Probieren Sie geröstete Kastanien (Marroni) an Straßenständen.",
+              "Die Standseilbahn fährt auch im Winter regelmäßig."
+            ],
+            "hu": [
+              "A tó felől fújó szél miatt a meleg ruházat elengedhetetlen.",
+              "A nap télen korán eltűnik a magas hegyek mögött.",
+              "Használja ki a déli órákat a szabadtéri sétákhoz.",
+              "Kóstolja meg a sült gesztenyét (marroni) az utcai árusoknál.",
+              "A sikló télen is rendszeresen közlekedik Orselinába."
+            ],
+            "ro": [
+              "Îmbrăcămintea groasă este esențială din cauza brizei lacului.",
+              "Soarele dispare devreme în spatele munților pe timp de iarnă.",
+              "Profitați de orele prânzului pentru activitățile în aer liber.",
+              "Încercați castanele coapte (marroni) de la vânzătorii stradali.",
+              "Funicularul funcționează regulat și în timpul iernii."
+            ],
+            "en": [
+              "Warm clothing is essential due to the biting lake breeze.",
+              "The sun disappears early behind the steep mountains in winter.",
+              "Prioritize outdoor stops during the midday hours for maximum light.",
+              "Try roasted chestnuts (marroni) from local street vendors.",
+              "The funicular to Orselina runs reliably throughout the winter."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -694,6 +884,178 @@
           "Be mindful of pedestrians on shared paths.",
           "Don't forget to lock your bike, even for short stops."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein nasser Start auf zwei Rädern durch die Altstadt. Vormittags erkunden wir das Schloss, wo das Fahrrad sicher geparkt werden kann. Die Fahrt zur Falconeria erfordert Vorsicht auf rutschigen Wegen, aber die Show findet unter Dach statt. Nachmittags radeln wir am See entlang zum Lido, um uns in der Therme von der Nässe zu erholen und aufzuwärmen.",
+            "hu": "Vizes indulás két keréken az óvároson át. Délelőtt a kastélyt nézzük meg, ahol a biciklik biztonságban leparkolhatók. A Falconeria felé vezető út óvatosságot igényel a csúszós szakaszokon, de a bemutató fedett. Délután a tóparton tekerünk a Lidóig, hogy a termálfürdőben pihenjük ki az ázást és melegedjünk fel.",
+            "ro": "Un început umed pe două roți prin orașul vechi. Dimineața explorăm castelul, unde bicicletele pot fi parcate în siguranță. Drumul spre Falconeria necesită atenție pe porțiunile alunecoase, dar spectacolul este acoperit. După-amiaza pedalăm pe malul lacului spre Lido pentru a ne încălzi și usca în bazinele termale.",
+            "en": "A damp start on two wheels through the cobblestone streets. Spend your morning at the Castle, where bikes can be parked safely. The ride to Falconeria requires caution on slippery paths, but the show area is covered. In the afternoon, cycle along the lakefront to the Lido to escape the rain in the warm thermal baths."
+          },
+          "stops": [
+            {
+              "name": "Piazza Grande",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem Kopfsteinpflaster; es wird bei Regen sehr glatt.",
+                "hu": "Vigyázat a macskaköveken; esőben nagyon csúszóssá válnak.",
+                "ro": "Atenție pe piatra cubică; devine foarte alunecoasă pe ploaie.",
+                "en": "Be careful on the cobblestones; they become very slippery when wet."
+              }
+            },
+            {
+              "name": "Visconteo Castle",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit im Museum, um die Regenbekleidung zu lüften.",
+                "hu": "Használja ki a múzeumi időt az esőruházat szárítására.",
+                "ro": "Folosiți timpul în muzeu pentru a vă aerisi echipamentul de ploaie.",
+                "en": "Use your time in the museum to air out your rain gear."
+              }
+            },
+            {
+              "name": "Falconeria Locarno",
+              "tip_5lang": {
+                "de": "Die Zuschauertribünen sind überdacht; ideal für regnerische Tage.",
+                "hu": "A nézőtér fedett; ideális program esős napokra is.",
+                "ro": "Tribunele pentru spectatori sunt acoperite; program ideal pe ploaie.",
+                "en": "The spectator stands are covered; a great rainy day activity."
+              }
+            },
+            {
+              "name": "Parco delle Camelie",
+              "tip_5lang": {
+                "de": "Befestigte Wege ermöglichen das Radfahren auch bei Regen.",
+                "hu": "A kiépített utak esőben is jól járhatók biciklivel.",
+                "ro": "Potecile pavate permit ciclismul chiar și pe timp de ploaie.",
+                "en": "Paved paths allow for easy cycling even during a downpour."
+              }
+            },
+            {
+              "name": "Lido di Locarno",
+              "tip_5lang": {
+                "de": "Fahrradständer direkt am Eingang; Therme ist der perfekte Abschluss.",
+                "hu": "Biciklitárolók közvetlenül a bejáratnál; a fürdő tökéletes zárás.",
+                "ro": "Rastele de biciclete chiar la intrare; termele sunt finalul perfect.",
+                "en": "Bike racks located right at the entrance; the spa is the perfect finish."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche am Fahrrad sind bei diesem Wetter ein Muss.",
+              "Vermeiden Sie scharfes Bremsen auf nassen Pflastersteinen.",
+              "Wasserdichte Packtaschen schützen Ihre Ausrüstung.",
+              "Nutzen Sie die Arkaden der Piazza Grande für kurze Pausen.",
+              "Ein heißer Tee nach der Fahrt beugt Erkältungen vor."
+            ],
+            "hu": [
+              "A sárvédő használata ilyen időben elengedhetetlen.",
+              "Kerülje az erős fékezést a vizes macskaköveken.",
+              "Vízálló táskák használata javasolt a felszerelés védelmében.",
+              "Használja a Piazza Grande árkádjait rövid pihenőkre.",
+              "Egy forró tea a tekerés végén segít megelőzni a megfázást."
+            ],
+            "ro": [
+              "Apărătorile de noroi la bicicletă sunt obligatorii pe această vreme.",
+              "Evitați frânarea bruscă pe pavajul umed.",
+              "Gentile impermeabile vă vor proteja echipamentul.",
+              "Folosiți arcadele din Piazza Grande pentru scurte pauze.",
+              "Un ceai fierbinte după plimbare ajută la prevenirea răcelii."
+            ],
+            "en": [
+              "Mudguards on your bike are essential in this weather.",
+              "Avoid sudden braking on the wet cobblestones of the old town.",
+              "Waterproof panniers are highly recommended for your gear.",
+              "Use the Piazza Grande arcades for brief, dry rest stops.",
+              "A hot tea after the ride is great for warming up."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen auf dem Rad entlang des Sees. Die Piazza Grande ist ruhig, perfekt für einen Kaffee zum Aufwärmen. Mittags erkunden wir das Schloss und radeln dann zur Falconeria, wo die Vögel auch im Winter beeindrucken. Der Nachmittag am Seeufer führt uns zum Lido, wo wir die kalte Brise gegen die wohlige Wärme der Thermalbecken tauschen.",
+            "hu": "Friss téli reggel a tóparti kerékpárúton. A Piazza Grande ilyenkor csendes, ideális egy meleg kávéhoz. Napközben megnézzük a kastélyt, majd a Falconeriához tekerünk, ahol a madarak télen is lenyűgözőek. A délutáni tóparti túra végén a Lidóhoz érünk, ahol a hideg szelet a termálfürdő forró vizére cseréljük.",
+            "ro": "O dimineață răcoroasă de iarnă pe bicicletă de-a lungul lacului. Piazza Grande este liniștită, perfectă pentru o cafea caldă. Vizităm castelul și apoi pedalăm spre Falconeria, unde păsările impresionează și iarna. După-amiaza pe malul lacului ne duce la Lido, unde schimbăm briza rece cu căldura termelor.",
+            "en": "A crisp winter morning ride along the scenic lakefront. Piazza Grande is peaceful, ideal for a quick warm-up coffee. Midday is spent at the Castle and cycling to Falconeria, where the hawks perform even in winter. Finish your afternoon by the lake at the Lido, swapping the chilly breeze for the blissful warmth of the thermal pools."
+          },
+          "stops": [
+            {
+              "name": "Piazza Grande",
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Handschuhe für die Fahrt über den Platz.",
+                "hu": "Viseljen szélálló kesztyűt a téren való áthaladáshoz.",
+                "ro": "Purtați mănuși rezistente la vânt pentru traversarea pieței.",
+                "en": "Wear windproof gloves for the ride across the open square."
+              }
+            },
+            {
+              "name": "Visconteo Castle",
+              "tip_5lang": {
+                "de": "Das Museum ist beheizt; ein guter Ort, um die Hände aufzuwärmen.",
+                "hu": "A múzeum fűtött; jó hely a kezek felmelegítésére.",
+                "ro": "Muzeul este încălzit; un loc bun pentru a vă încălzi mâinile.",
+                "en": "The museum is heated; a good spot to warm up your hands."
+              }
+            },
+            {
+              "name": "Falconeria Locarno",
+              "tip_5lang": {
+                "de": "Ziehen Sie sich für die Flugshow warm an; es weht oft ein Zug.",
+                "hu": "Öltözzön melegen a madárbemutatóhoz; gyakori a huzat.",
+                "ro": "Îmbrăcați-vă gros pentru spectacol; curentul este frecvent.",
+                "en": "Dress warmly for the flight show; the breeze can be chilly."
+              }
+            },
+            {
+              "name": "Parco delle Camelie",
+              "tip_5lang": {
+                "de": "Ruhiger Park im Winter; die Wege sind frei von Eis.",
+                "hu": "Csendes park télen; az utak jégmentesek és jól járhatók.",
+                "ro": "Parc liniștit iarna; potecile sunt curățate de gheață.",
+                "en": "Peaceful park in winter; paths are kept clear of ice."
+              }
+            },
+            {
+              "name": "Lido di Locarno",
+              "tip_5lang": {
+                "de": "Nach der Radtour ist die Sauna in der Termali Salini ein Muss.",
+                "hu": "A biciklitúra után a szauna a Termali Salini-ben kötelező.",
+                "ro": "După tura cu bicicleta, sauna de la Termali Salini este obligatorie.",
+                "en": "After the bike ride, the sauna at Termali Salini is a must."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schichten Sie Ihre Kleidung (Zwiebelprinzip).",
+              "Die Seebrise fühlt sich auf dem Rad deutlich kälter an.",
+              "Achten Sie auf mögliche glatte Stellen im Schatten.",
+              "Wärmen Sie sich regelmäßig in Cafés auf.",
+              "Das Tageslicht endet früh, prüfen Sie Ihre Fahrradbeleuchtung."
+            ],
+            "hu": [
+              "Öltözzön rétegesen (hagyma-elv) a tekeréshez.",
+              "A tavi szél a biciklin sokkal hidegebbnek érződik.",
+              "Ügyeljen az árnyékos helyeken előforduló jegesedésre.",
+              "Rendszeresen tartson pihenőt meleg kávézókban.",
+              "A nappali fény hamar véget ér, ellenőrizze a lámpákat."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi (principiul cepei).",
+              "Briza lacului se simte mult mai rece pe bicicletă.",
+              "Atenție la posibilele porțiuni înghețate la umbră.",
+              "Încălziți-vă regulat în cafenelele de pe traseu.",
+              "Lumina zilei se termină devreme, verificați luminile bicicletei."
+            ],
+            "en": [
+              "Dress in layers to manage your body temperature.",
+              "The lake breeze feels significantly colder while cycling.",
+              "Watch out for icy patches in shaded areas near the lake.",
+              "Take regular breaks in heated cafes to stay warm.",
+              "Daylight ends early; ensure your bike lights are functioning."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1074,6 +1436,214 @@
           "Be aware of ZTL zones (limited traffic zones) in the city center.",
           "A car gives you the flexibility to also explore the surrounding valleys like Vallemaggia or Valle Verzasca."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein entspannter Regentag in Locarno mit dem Auto. Parken Sie bequem nahe der Piazza Grande für einen Kaffee unter den Arkaden. Vormittags besuchen wir das Schloss Visconteo, bevor wir den trockenen Aufstieg nach Orselina zur Madonna del Sasso genießen. Nach einem Panorama-Mittagessen hinter Glas beschließen wir den Tag in den exklusiven Thermen am Lido.",
+            "hu": "Kényelmes esős nap Locarnóban autóval. Parkoljon a Piazza Grande közelében, és kávézzon az árkádok alatt. Délelőtt a Visconteo kastélyt nézzük meg, majd szárazon autózunk fel Orselinába a Madonna del Sasso templomhoz. Egy panorámás, üveg mögötti ebéd után a napot a Lido exkluzív termálfürdőjében zárjuk.",
+            "ro": "O zi relaxantă de ploaie în Locarno cu mașina. Parcați confortabil lângă Piazza Grande pentru o cafea sub arcade. Dimineața vizităm Castelul Visconteo, apoi urcăm la Orselina spre Madonna del Sasso. După un prânz panoramic în spatele geamului, încheiem ziua la termele exclusiviste de la Lido.",
+            "en": "A comfortable rainy day in Locarno by car. Park conveniently near Piazza Grande for a dry coffee under the arcades. Spend your morning at Visconteo Castle, then enjoy the dry drive up to Orselina for Madonna del Sasso. After a scenic lunch behind glass, finish your day at the exclusive thermal baths at the Lido."
+          },
+          "stops": [
+            {
+              "name": "Central Parking & Coffee",
+              "tip_5lang": {
+                "de": "Ein idealer Startpunkt, um trocken ins Zentrum zu gelangen.",
+                "hu": "Ideális kiindulópont, hogy szárazon jusson a központba.",
+                "ro": "Punct de plecare ideal pentru a ajunge uscat în centru.",
+                "en": "An ideal starting point to reach the center without getting wet."
+              }
+            },
+            {
+              "name": "Piazza Grande",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkhäuser; die Arkaden sind nur wenige Schritte entfernt.",
+                "hu": "Használja a parkolóházakat; az árkádok csak pár lépésre vannak.",
+                "ro": "Folosiți parcările etajate; arcadele sunt la doar câțiva pași.",
+                "en": "Use the parking garages; the arcades are just a few steps away."
+              }
+            },
+            {
+              "name": "Visconteo Castle",
+              "tip_5lang": {
+                "de": "Parkplätze in der Nähe ermöglichen einen kurzen Weg ins Museum.",
+                "hu": "A közeli parkolóhelyek rövid sétát tesznek lehetővé a múzeumig.",
+                "ro": "Locurile de parcare din apropiere permit un drum scurt spre muzeu.",
+                "en": "Nearby parking spots allow for a very short walk to the museum."
+              }
+            },
+            {
+              "name": "Sanctuary of Madonna del Sasso",
+              "tip_5lang": {
+                "de": "Die Fahrt nach oben bietet tolle Ausblicke, auch bei Regen.",
+                "hu": "A felfelé vezető út esőben is remek kilátást nyújt.",
+                "ro": "Drumul spre vârf oferă priveliști excelente, chiar și pe ploaie.",
+                "en": "The drive up offers great views even during a downpour."
+              }
+            },
+            {
+              "name": "Lunch in Orselina",
+              "tip_5lang": {
+                "de": "Perfekt: Genießen Sie die Aussicht trocken hinter großen Fenstern.",
+                "hu": "Tökéletes: élvezze a kilátást szárazon, a nagy ablakok mögül.",
+                "ro": "Perfect: savurați priveliștea la uscat, în spatele ferestrelor mari.",
+                "en": "Perfect: enjoy the view from the comfort of indoor seating."
+              }
+            },
+            {
+              "name": "Parco delle Camelie",
+              "tip_5lang": {
+                "de": "Großer Parkplatz direkt am Parkeingang vorhanden.",
+                "hu": "Közvetlenül a park bejáratánál nagy parkoló áll rendelkezésre.",
+                "ro": "Parcare mare disponibilă chiar la intrarea în parc.",
+                "en": "Large parking area available directly at the park entrance."
+              }
+            },
+            {
+              "name": "Lido di Locarno",
+              "tip_5lang": {
+                "de": "Kostenloses Parken für Thermenbesucher oft inbegriffen.",
+                "hu": "A fürdővendégek számára gyakran ingyenes a parkolás.",
+                "ro": "Parcare gratuită adesea inclusă pentru vizitatorii termelor.",
+                "en": "Free parking is often included for thermal bath visitors."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie das Parkhaus 'Piazza Grande' für direkten Zugang.",
+              "Die Bergstraße nach Orselina kann bei Regen rutschig sein.",
+              "Regenschirm für die kurzen Wege zum Auto einplanen.",
+              "Restaurants in Orselina bieten oft Gästeparkplätze.",
+              "Im Lido sind die Umkleiden beheizt und komfortabel."
+            ],
+            "hu": [
+              "Használja a 'Piazza Grande' parkolóházat a közvetlen bejutáshoz.",
+              "Az Orselinába vezető hegyi út esőben csúszós lehet.",
+              "Készítsen be esernyőt az autóhoz vezető rövid szakaszokra.",
+              "Az orselinai éttermek gyakran saját parkolót biztosítanak.",
+              "A Lidóban az öltözők fűtöttek és kényelmesek."
+            ],
+            "ro": [
+              "Folosiți parcarea 'Piazza Grande' pentru acces direct.",
+              "Drumul montan spre Orselina poate fi alunecos pe ploaie.",
+              "Aveți umbrela pregătită pentru drumurile scurte spre mașină.",
+              "Restaurantele din Orselina oferă adesea parcare pentru clienți.",
+              "La Lido, vestiarele sunt încălzite și confortabile."
+            ],
+            "en": [
+              "Use the 'Piazza Grande' parking garage for direct arcade access.",
+              "The mountain road to Orselina can be slippery in heavy rain.",
+              "Keep an umbrella handy for the short walks to and from the car.",
+              "Restaurants in Orselina often provide private guest parking.",
+              "The Lido offers heated and comfortable changing facilities."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterzauber in Locarno mit dem Auto genießen. Starten Sie mit einem warmen Getränk im Zentrum, bevor Sie das historische Schloss besuchen. Die Fahrt nach Orselina bietet spektakuläre Ausblicke auf den winterlichen See und die Alpen. Nach einem gemütlichen Mittagessen bei Kaminfeuer führt der Weg zum Lido, um den Tag im dampfenden Thermalwasser unter freiem Himmel zu krönen.",
+            "hu": "Téli varázslat Locarnóban autóval. Kezdjen egy forró itallal a központban, mielőtt meglátogatná a történelmi kastélyt. Az Orselinába vezető út látványos kilátást nyújt a téli tóra és az Alpokra. Egy hangulatos ebéd után a Lidó felé vesszük az irányt, hogy a napot a gőzölgő termálvízben, a szabad ég alatt koronázzuk meg.",
+            "ro": "Bucurați-vă de magia iernii în Locarno cu mașina. Începeți cu o băutură caldă în centru înainte de a vizita castelul istoric. Drumul spre Orselina oferă priveliști spectaculoase spre lacul de iarnă și Alpi. După un prânz primitor, mergeți la Lido pentru a încununa ziua în apa termală aburindă, sub cerul liber.",
+            "en": "Experience winter magic in Locarno by car. Start with a warm drink in the center before visiting the historic Castle. The drive to Orselina offers spectacular views of the wintry lake and Alps. After a cozy lunch, head to the Lido to crown your day in the steaming outdoor thermal waters against a snowy backdrop."
+          },
+          "stops": [
+            {
+              "name": "Central Parking & Coffee",
+              "tip_5lang": {
+                "de": "Heißgetränke zum Mitnehmen sind ideal für die Weiterfahrt.",
+                "hu": "Az elvitelre kért forró italok ideálisak a továbbutazáshoz.",
+                "ro": "Băuturile calde la pachet sunt ideale pentru drum.",
+                "en": "Hot take-away drinks are perfect for continuing the drive."
+              }
+            },
+            {
+              "name": "Piazza Grande",
+              "tip_5lang": {
+                "de": "Die festliche Beleuchtung macht den Platz im Winter besonders schön.",
+                "hu": "Az ünnepi kivilágítás télen különösen széppé teszi a teret.",
+                "ro": "Iluminatul festiv face piața deosebit de frumoasă iarna.",
+                "en": "The festive lighting makes the square especially beautiful in winter."
+              }
+            },
+            {
+              "name": "Visconteo Castle",
+              "tip_5lang": {
+                "de": "In den Museen ist es angenehm warm; planen Sie genug Zeit ein.",
+                "hu": "A múzeumban kellemes meleg van; tervezzen elegendő időt.",
+                "ro": "În muzeu este plăcut de cald; rezervați-vă suficient timp.",
+                "en": "The museum is pleasantly warm; plan enough time for a visit."
+              }
+            },
+            {
+              "name": "Sanctuary of Madonna del Sasso",
+              "tip_5lang": {
+                "de": "Parken Sie auf den oberen Plätzen für den besten Panoramablick.",
+                "hu": "Parkoljon a felső helyeken a legjobb panoráma érdekében.",
+                "ro": "Parcați în locurile de sus pentru cea mai bună panoramă.",
+                "en": "Park in the upper lots for the best panoramic photo opportunities."
+              }
+            },
+            {
+              "name": "Lunch in Orselina",
+              "tip_5lang": {
+                "de": "Fragen Sie nach einem Tisch am Fenster für die Wintersonne.",
+                "hu": "Kérjen asztalt az ablaknál, hogy élvezze a téli napsütést.",
+                "ro": "Cereți o masă la fereastră pentru a savura soarele de iarnă.",
+                "en": "Request a window table to soak in the winter sunshine."
+              }
+            },
+            {
+              "name": "Parco delle Camelie",
+              "tip_5lang": {
+                "de": "Besuch im Winter kurz halten; es wird früh schattig.",
+                "hu": "A téli látogatást tartsa rövidre; korán árnyékossá válik.",
+                "ro": "Vizita de iarnă trebuie să fie scurtă; umbra apare devreme.",
+                "en": "Keep winter visits short; the park gets shady early."
+              }
+            },
+            {
+              "name": "Lido di Locarno",
+              "tip_5lang": {
+                "de": "Das beheizte Parkhaus bietet direkten Zugang zur Therme.",
+                "hu": "A fűtött parkolóház közvetlen bejutást biztosít a fürdőbe.",
+                "ro": "Parcarea încălzită oferă acces direct la terme.",
+                "en": "The heated parking garage provides direct access to the spa."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind für die Fahrt nach Orselina Pflicht.",
+              "Vorsicht vor Blitzeis auf Brücken und schattigen Straßen.",
+              "Nutzen Sie die Sitzheizung für maximalen Komfort.",
+              "Einige Parkplätze in Orselina können im Winter vereist sein.",
+              "Die Therme am Lido ist im Winter bis spät abends geöffnet."
+            ],
+            "hu": [
+              "A téli gumi kötelező az Orselinába vezető úton.",
+              "Vigyázzon a lefagyásokra a hidakon és az árnyékos utakon.",
+              "Használja az ülésfűtést a maximális kényelemért.",
+              "Néhány orselinai parkolóhely télen jeges lehet.",
+              "A Lido termálfürdője télen késő estig nyitva tart."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii pentru drumul spre Orselina.",
+              "Atenție la polei pe poduri și pe drumurile umbrite.",
+              "Folosiți încălzirea în scaune pentru confort maxim.",
+              "Unele locuri de parcare din Orselina pot fi înghețate iarna.",
+              "Termele de la Lido sunt deschise până târziu în timpul iernii."
+            ],
+            "en": [
+              "Winter tires are mandatory for the drive up to Orselina.",
+              "Beware of black ice on bridges and shaded lake-side roads.",
+              "Utilize seat heating for maximum winter comfort.",
+              "Some parking lots in Orselina might be icy; park carefully.",
+              "The Lido thermal baths stay open late during the winter months."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1430,6 +2000,196 @@
           "The funicular to Madonna del Sasso has a separate fare.",
           "The SBB (Swiss Federal Railways) app is excellent for planning routes in real time."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein perfekt getakteter Regentag mit den Schweizer Verkehrsbetrieben. Von der Station Piazza Grande geht es trocken ins Schlossmuseum. Die Standseilbahn bringt Sie bequem zur Madonna del Sasso, während Sie dem Regen zuschauen. Am Nachmittag bringt Sie der Bus direkt vor die Tür des Lidos, wo Sie die Wärme der Thermen genießen, während es draußen stürmt.",
+            "hu": "Tökéletesen ütemezett esős nap a svájci tömegközlekedéssel. Az állomástól a Piazza Grande árkádjai alatt, szárazon juthat a kastélyig. A sikló kényelmesen repíti a Madonna del Sasso templomhoz, miközben az ablakból nézheti az esőt. Délután a busz közvetlenül a Lido bejáratáig viszi, ahol a termálfürdő melegében pihenhet, amíg kint viharos az idő.",
+            "ro": "O zi de ploaie perfect programată cu transportul elvețian. De la gară, ajungeți uscat la muzeul castelului prin Piazza Grande. Funicularul vă duce confortabil la Madonna del Sasso în timp ce priviți ploaia. După-amiaza, autobuzul vă lasă chiar la ușa Lido, unde vă bucurați de căldura termelor în timp ce afară plouă.",
+            "en": "A perfectly timed rainy day using efficient Swiss transit. From the station, stay dry heading to the Castle via the arcades. The funicular provides a comfortable, dry ride up to Madonna del Sasso with great window views. In the afternoon, the bus drops you right at the Lido entrance, where you can soak in the thermal baths while the rain falls outside."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Station & Piazza Grande",
+              "tip_5lang": {
+                "de": "Kurzer, fast vollständig überdachter Weg vom Bahnhof ins Zentrum.",
+                "hu": "Rövid, szinte teljesen fedett út a vasútállomástól a központig.",
+                "ro": "Drum scurt, aproape complet acoperit, de la gară în centru.",
+                "en": "Short, almost entirely covered walk from the station to the center."
+              }
+            },
+            {
+              "name": "Visconteo Castle",
+              "tip_5lang": {
+                "de": "Bushaltestellen befinden sich in unmittelbarer Nähe zum Schloss.",
+                "hu": "A buszmegállók a kastély közvetlen közelében találhatók.",
+                "ro": "Stațiile de autobuz sunt situate în imediata apropiere a castelului.",
+                "en": "Bus stops are located in the immediate vicinity of the castle."
+              }
+            },
+            {
+              "name": "Trip to Madonna del Sasso",
+              "tip_5lang": {
+                "de": "Die Standseilbahn ist der trockenste und schönste Weg nach oben.",
+                "hu": "A sikló a legszárazabb és legszebb módja a feljutásnak.",
+                "ro": "Funicularul este cea mai uscată și frumoasă cale de a urca.",
+                "en": "The funicular is the driest and most scenic way to ascend."
+              }
+            },
+            {
+              "name": "Sanctuary of Madonna del Sasso",
+              "tip_5lang": {
+                "de": "Warten Sie auf die Rückfahrt in der überdachten Station.",
+                "hu": "Várjon a visszaindulásra a fedett állomáson.",
+                "ro": "Așteptați călătoria de întoarcere în stația acoperită.",
+                "en": "Wait for your return trip inside the covered station area."
+              }
+            },
+            {
+              "name": "Trip to the Lido",
+              "tip_5lang": {
+                "de": "Buslinie 1 bringt Sie direkt vom Zentrum zum Lido.",
+                "hu": "Az 1-es buszvonal közvetlenül a központból viszi a Lidóhoz.",
+                "ro": "Linia 1 de autobuz vă duce direct din centru la Lido.",
+                "en": "Bus line 1 takes you directly from the center to the Lido."
+              }
+            },
+            {
+              "name": "Lido di Locarno & Parco delle Camelie",
+              "tip_5lang": {
+                "de": "Der Bus hält nur wenige Meter vom Eingang der Therme entfernt.",
+                "hu": "A busz csak pár méterre áll meg a fürdő bejáratától.",
+                "ro": "Autobuzul oprește la doar câțiva metri de intrarea la terme.",
+                "en": "The bus stops just a few meters from the spa entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die SBB-App für Echtzeit-Infos bei Verzögerungen.",
+              "Die Standseilbahn fährt alle 15-30 Minuten.",
+              "Das Ticino Ticket bietet oft kostenlose Fahrt für Hotelgäste.",
+              "Warten Sie an Haltestellen unter den Wartehäuschen.",
+              "Der Bus 1 ist die beste Verbindung zum Lido bei Regen."
+            ],
+            "hu": [
+              "Használja az SBB alkalmazást a valós idejű információkhoz.",
+              "A sikló 15-30 percenként közlekedik.",
+              "A Ticino Ticket gyakran ingyenes utazást biztosít a szállóvendégeknek.",
+              "A megállókban várjon a fedett váróhelyiségek alatt.",
+              "Az 1-es busz a legjobb kapcsolat a Lidóhoz esőben."
+            ],
+            "ro": [
+              "Folosiți aplicația SBB pentru informații în timp real.",
+              "Funicularul circulă la fiecare 15-30 de minute.",
+              "Ticino Ticket oferă adesea călătorii gratuite pentru turiști.",
+              "Așteptați în stații sub zonele adăpostite.",
+              "Autobuzul 1 este cea mai bună conexiune către Lido pe ploaie."
+            ],
+            "en": [
+              "Use the SBB app for real-time updates on schedules.",
+              "The funicular runs every 15-30 minutes throughout the day.",
+              "The Ticino Ticket often provides free transit for hotel guests.",
+              "Wait for connections under the sheltered bus stop areas.",
+              "Bus line 1 is the most convenient way to reach the Lido in rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterausflug mit Stil: Nutzen Sie die beheizten Züge und Busse Locarnos. Nach einem Bummel über die Piazza Grande erkunden wir das Schlossmuseum. Die Fahrt mit der Standseilbahn zur Madonna del Sasso bietet ein grandioses Winterpanorama. Den späten Nachmittag verbringen wir im Lido, den wir bequem mit dem Bus erreichen, bevor wir entspannt zum Bahnhof zurückkehren.",
+            "hu": "Téli kirándulás stílusosan: használja Locarno fűtött vonatjait és buszait. A Piazza Grande-n tett séta után a kastély múzeumát fedezzük fel. A siklóút a Madonna del Sasso templomhoz lenyűgöző téli panorámát nyújt. A késő délutánt a Lidóban töltjük, ahová kényelmesen busszal jutunk el, majd pihenten térünk vissza az állomásra.",
+            "ro": "Excursie de iarnă cu stil: folosiți trenurile și autobuzele încălzite din Locarno. După o plimbare prin Piazza Grande, explorăm muzeul castelului. Călătoria cu funicularul spre Madonna del Sasso oferă o panoramă de iarnă grandioasă. Petrecem după-amiaza târzie la Lido, unde ajungem confortabil cu autobuzul, înainte de a reveni la gară.",
+            "en": "Winter travel in style: make use of Locarno’s heated trains and buses. After a stroll through Piazza Grande, explore the Castle museum. The funicular ride to Madonna del Sasso offers a breathtaking winter panorama. Spend your late afternoon at the Lido, easily reached by bus, before a relaxed transit back to the station."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Station & Piazza Grande",
+              "tip_5lang": {
+                "de": "Im Bahnhofsbereich gibt es beheizte Warteräume.",
+                "hu": "A vasútállomás területén fűtött várótermek találhatók.",
+                "ro": "În zona gării există săli de așteptare încălzite.",
+                "en": "Heated waiting rooms are available within the station area."
+              }
+            },
+            {
+              "name": "Visconteo Castle",
+              "tip_5lang": {
+                "de": "Die Busse sind gut beheizt; ideal zum Aufwärmen zwischen den Stopps.",
+                "hu": "A buszok jól fűtöttek; ideális a felmelegedéshez a megállók között.",
+                "ro": "Autobuzele sunt bine încălzite; ideal pentru a vă încălzi între opriri.",
+                "en": "Buses are well-heated; a great way to warm up between stops."
+              }
+            },
+            {
+              "name": "Trip to Madonna del Sasso",
+              "tip_5lang": {
+                "de": "Genießen Sie die Aussicht aus der beheizten Standseilbahn.",
+                "hu": "Élvezze a kilátást a fűtött siklóból.",
+                "ro": "Bucurați-vă de priveliște din funicularul încălzit.",
+                "en": "Enjoy the spectacular winter views from the heated funicular."
+              }
+            },
+            {
+              "name": "Sanctuary of Madonna del Sasso",
+              "tip_5lang": {
+                "de": "Achten Sie auf die Winterfahrpläne der Standseilbahn.",
+                "hu": "Ügyeljen a sikló téli menetrendjére.",
+                "ro": "Atenție la orarul de iarnă al funicularului.",
+                "en": "Check the funicular's winter schedule for any seasonal changes."
+              }
+            },
+            {
+              "name": "Trip to the Lido",
+              "tip_5lang": {
+                "de": "Die Busfahrt am Seeufer entlang ist auch im Winter malerisch.",
+                "hu": "A tóparti buszozás télen is festői látványt nyújt.",
+                "ro": "Călătoria cu autobuzul pe malul lacului este pitorească și iarna.",
+                "en": "The bus ride along the lakefront is scenic even in winter."
+              }
+            },
+            {
+              "name": "Lido di Locarno & Parco delle Camelie",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Bus für den Rückweg, wenn es dunkel und kalt wird.",
+                "hu": "Használja a buszt a visszaúthoz, ha sötét és hideg lesz.",
+                "ro": "Folosiți autobuzul pentru întoarcere când se lasă frigul și întunericul.",
+                "en": "Use the bus for your return trip as it gets dark and cold."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Züge und Busse sind im Winter angenehm warm.",
+              "Prüfen Sie die Abfahrtszeiten, um Wartezeiten im Freien zu minimieren.",
+              "Das Ticino Ticket ist Ihr Schlüssel zu stressfreier Mobilität.",
+              "Die Standseilbahn bietet Schutz vor dem kalten Bergwind.",
+              "Der Bahnhof Locarno ist zentraler Knotenpunkt für alle Ziele."
+            ],
+            "hu": [
+              "A vonatok és buszok télen kellemesen melegek.",
+              "Ellenőrizze az indulási időket, hogy elkerülje a kinti várakozást.",
+              "A Ticino Ticket a kulcsa a stresszmentes közlekedésnek.",
+              "A sikló védelmet nyújt a hideg hegyi szél ellen.",
+              "Locarno vasútállomása minden úti cél központi csomópontja."
+            ],
+            "ro": [
+              "Trenurile și autobuzele sunt plăcut de calde iarna.",
+              "Verificați orele de plecare pentru a minimiza așteptarea afară.",
+              "Ticino Ticket este cheia mobilității fără stres.",
+              "Funicularul oferă protecție împotriva vântului rece de munte.",
+              "Gara Locarno este punctul central pentru toate destinațiile."
+            ],
+            "en": [
+              "Trains and buses are consistently warm and comfortable in winter.",
+              "Check departure times to minimize waiting outside in the cold.",
+              "The Ticino Ticket is your key to stress-free winter mobility.",
+              "The funicular protects you from the biting mountain winds.",
+              "Locarno station is the central hub for reaching all city sights."
+            ]
+          }
+        }
       }
     }
   }

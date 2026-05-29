@@ -342,6 +342,188 @@
           "Bring a reusable water bottle; there are public fountains.",
           "Check the museum's opening hours in advance."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens besuchen wir das Arbeiterheim, wo das Mosaik vor dem Regen schützt. Mittags erkunden wir die St.-Martins-Kirche und das Bergbaumuseum, ideale Zufluchtsorte bei nassem Wetter. Der Nachmittag endet entspannt bei einem ausgiebigen Mittagessen im Stadtzentrum, während draußen der Regen auf die Straßen von Trbovlje prasselt.",
+            "hu": "A reggelt a Munkásotthon mozaikjai alatt kezdjük, védve az esőtől. Délben a Szent Márton-templom és a Bányászati Múzeum nyújt kiváló fedett programot a csapadékos időben. A délutánt egy hosszú, kényelmes ebéddel zárjuk a városközpontban, élvezve a helyi vendégszeretetet, miközben odakint esik.",
+            "ro": "Dimineața vizităm Casa Muncitorilor, protejați de ploaie sub mozaicurile sale. La prânz, Biserica Sf. Martin și Muzeul Mineritului oferă adăpostul perfect pentru explorare culturală. După-amiaza se încheie cu un prânz prelungit în centru, savurând atmosfera locală în timp ce ploaia cade peste Trbovlje.",
+            "en": "Morning starts at the Workers' Home, shielded from the rain. Midday is spent exploring St. Martin's Church and the Coal Mining Museum, both perfect indoor retreats. The afternoon concludes with a long, cozy lunch in the city center, enjoying local flavors while the rain falls outside."
+          },
+          "stops": [
+            {
+              "name": "Trbovlje Workers' Home",
+              "tip_5lang": {
+                "de": "Unter dem Vordach bleiben Sie trocken.",
+                "hu": "Az előtető alatt szárazon maradhat.",
+                "ro": "Rămâneți uscat sub streașina intrării.",
+                "en": "Stay dry under the entrance canopy."
+              }
+            },
+            {
+              "name": "Promenada Park",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Pavillons als Unterstand.",
+                "hu": "Használja a pavilonokat menedékként.",
+                "ro": "Folosiți pavilioanele ca adăpost.",
+                "en": "Use the pavilions as shelters."
+              }
+            },
+            {
+              "name": "Trbovlje House of Culture",
+              "tip_5lang": {
+                "de": "Perfekter Ort für eine Regenpause.",
+                "hu": "Tökéletes hely egy esőszünetre.",
+                "ro": "Locul perfect pentru o pauză de ploaie.",
+                "en": "Perfect place for a rain break."
+              }
+            },
+            {
+              "name": "St. Martin's Church",
+              "tip_5lang": {
+                "de": "Ruhiger, trockener Rückzugsort.",
+                "hu": "Csendes, száraz menedékhely.",
+                "ro": "Refugiu liniștit și uscat.",
+                "en": "Quiet, dry retreat."
+              }
+            },
+            {
+              "name": "Coal Mining Museum of Slovenia",
+              "tip_5lang": {
+                "de": "Großartige Indoor-Ausstellung.",
+                "hu": "Nagyszerű beltéri kiállítás.",
+                "ro": "Expoziție interioară excelentă.",
+                "en": "Great indoor exhibition."
+              }
+            },
+            {
+              "name": "Lunch in the center",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich bei einer Suppe auf.",
+                "hu": "Melegedjen fel egy forró levessel.",
+                "ro": "Încălziți-vă cu o supă fierbinte.",
+                "en": "Warm up with a hot soup."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für die nassen Gehwege.",
+              "Der Weg zum Museum ist leicht ansteigend und kann rutschig sein.",
+              "Nutzen Sie die kulturellen Einrichtungen als trockene Zwischenstopps.",
+              "Ein stabiler Regenschirm ist bei Wind im Tal unerlässlich."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a nedves járdák miatt.",
+              "A múzeum felé vezető út emelkedik és csúszós lehet.",
+              "Használja a kulturális intézményeket száraz pihenőpontként.",
+              "A völgyben fújó szél miatt egy erős esernyő elengedhetetlen."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru trotuarele umede.",
+              "Drumul spre muzeu este în pantă și poate fi alunecos.",
+              "Folosiți instituțiile culturale ca puncte de oprire uscate.",
+              "O umbrelă rezistentă este esențială din cauza vântului din vale."
+            ],
+            "en": [
+              "Wear waterproof shoes for the wet pavements.",
+              "The path to the museum is uphill and can be slippery.",
+              "Use cultural institutions as dry rest stops.",
+              "A sturdy umbrella is essential due to valley winds."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Trbovlje im Winter bietet eine besondere Atmosphäre zwischen Industriegeschichte und verschneiten Gipfeln. Wir beginnen im beheizten Arbeiterheim und besuchen dann die historische Kirche. Das Highlight ist das Bergbaumuseum, bevor wir uns bei einem herzhaften Mittagessen im Zentrum wieder aufwärmen.",
+            "hu": "Trbovlje télen különleges hangulatot áraszt az ipari örökség és a havas hegycsúcsok között. A fűtött Munkásotthonban kezdünk, majd meglátogatjuk a történelmi templomot. A nap fénypontja a Bányászati Múzeum, mielőtt egy kiadós ebéddel felmelegednénk a központban.",
+            "ro": "Trbovlje iarna oferă o atmosferă deosebită între istoria industrială și vârfurile înzăpezite. Începem la Casa Muncitorilor încălzită, apoi vizităm biserica istorică. Punctul culminant este Muzeul Mineritului, înainte de a ne încălzi cu un prânz copios în centru.",
+            "en": "Trbovlje in winter offers a unique atmosphere between industrial heritage and snowy peaks. We start at the heated Workers' Home, then visit the historic church. The highlight is the Coal Mining Museum, before warming up with a hearty lunch in the center."
+          },
+          "stops": [
+            {
+              "name": "Trbovlje Workers' Home",
+              "tip_5lang": {
+                "de": "Genießen Sie die Wärme im Inneren.",
+                "hu": "Élvezze a benti meleget.",
+                "ro": "Bucurați-vă de căldura din interior.",
+                "en": "Enjoy the warmth inside."
+              }
+            },
+            {
+              "name": "Promenada Park",
+              "tip_5lang": {
+                "de": "Kurzer Spaziergang an der frischen Luft.",
+                "hu": "Rövid séta a friss téli levegőn.",
+                "ro": "O scurtă plimbare în aerul curat.",
+                "en": "A short walk in the fresh air."
+              }
+            },
+            {
+              "name": "Trbovlje House of Culture",
+              "tip_5lang": {
+                "de": "Prüfen Sie winterliche Ausstellungen.",
+                "hu": "Nézze meg a téli kiállításokat.",
+                "ro": "Verificați expozițiile de iarnă.",
+                "en": "Check for winter exhibitions."
+              }
+            },
+            {
+              "name": "St. Martin's Church",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Weihnachtskrippe.",
+                "hu": "Nézze meg a karácsonyi betlehemet.",
+                "ro": "Vizitați ieslea de Crăciun.",
+                "en": "Visit the Christmas nativity scene."
+              }
+            },
+            {
+              "name": "Coal Mining Museum of Slovenia",
+              "tip_5lang": {
+                "de": "Konstante Temperaturen unter Tage.",
+                "hu": "Állandó hőmérséklet a föld alatt.",
+                "ro": "Temperatură constantă în subteran.",
+                "en": "Constant temperatures underground."
+              }
+            },
+            {
+              "name": "Lunch in the center",
+              "tip_5lang": {
+                "de": "Probieren Sie lokale Winterspezialitäten.",
+                "hu": "Kóstolja meg a téli különlegességeket.",
+                "ro": "Gustați specialitățile locale de iarnă.",
+                "en": "Try the local winter specialties."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich in Schichten, es wird früh dunkel.",
+              "Achten Sie auf vereiste Stellen auf den Gehwegen.",
+              "Die Museen sind gut beheizt und bieten Komfort.",
+              "Sonnenuntergang ist bereits gegen 16:30 Uhr."
+            ],
+            "hu": [
+              "Öltözzön rétegesen, korán sötétedik.",
+              "Vigyázzon a jeges szakaszokra a járdákon.",
+              "A múzeumok jól fűtöttek és kényelmesek.",
+              "A napnyugta már 16:30 körül bekövetkezik."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi, se întunecă devreme.",
+              "Atenție la porțiunile înghețate de pe trotuare.",
+              "Muzeele sunt bine încălzite și confortabile.",
+              "Apusul soarelui este deja în jurul orei 16:30."
+            ],
+            "en": [
+              "Dress in layers, it gets dark early.",
+              "Watch out for icy patches on the sidewalks.",
+              "The museums are well-heated and comfortable.",
+              "Sunset occurs as early as 4:30 PM."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -678,6 +860,188 @@
           "Check your bike before you leave, especially the brakes.",
           "Bring enough water and snacks, especially for the ride to the chimney."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine regnerische Radtour durch das Savinja-Tal erfordert Ausdauer. Nach dem Arbeiterheim radeln wir zur Kirche und zum Bergbaumuseum. Der virtuelle Stollen bietet trockene Unterhaltung, bevor wir einen Blick auf den Schornstein werfen und uns schließlich im Stadtzentrum bei einem späten Mittagessen regenerieren.",
+            "hu": "Egy esős kerékpártúra a Száva-völgyben kitartást igényel. A Munkásotthon után a templomhoz és a Bányászati Múzeumhoz tekerünk. A virtuális múzeum száraz szórakozást nyújt, mielőtt vetnénk egy pillantást a kéményre, majd a központban egy késői ebéddel regenerálódnánk.",
+            "ro": "O tură cu bicicleta prin valea Savei pe ploaie necesită rezistență. După Casa Muncitorilor, pedalăm spre biserică și Muzeul Mineritului. Muzeul virtual oferă divertisment uscat înainte de a vedea furnalul și a ne recupera la un prânz târziu.",
+            "en": "A rainy bike tour through the Sava Valley requires resilience. After the Workers' Home, we cycle to the church and the Coal Mining Museum. The virtual museum offers dry entertainment before viewing the chimney and finally recovering with a late lunch."
+          },
+          "stops": [
+            {
+              "name": "Trbovlje Workers' Home",
+              "tip_5lang": {
+                "de": "Parken Sie das Rad im Trockenen.",
+                "hu": "Parkolja a bringát fedett helyre.",
+                "ro": "Parcați bicicleta la adăpost.",
+                "en": "Park your bike in a dry spot."
+              }
+            },
+            {
+              "name": "St. Martin's Church",
+              "tip_5lang": {
+                "de": "Vorsicht bei Kopfsteinpflaster.",
+                "hu": "Vigyázzon a csúszós macskakövön.",
+                "ro": "Atenție la pavajul alunecos.",
+                "en": "Watch out for slippery cobblestones."
+              }
+            },
+            {
+              "name": "Coal Mining Museum of Slovenia",
+              "tip_5lang": {
+                "de": "Lange Pause zum Abtrocknen.",
+                "hu": "Hosszú szünet a megszáradáshoz.",
+                "ro": "Pauză lungă pentru uscare.",
+                "en": "Long break to dry off."
+              }
+            },
+            {
+              "name": "Virtual Museum Log",
+              "tip_5lang": {
+                "de": "Perfekter Indoor-Stopp für Radler.",
+                "hu": "Tökéletes fedett megálló bringásoknak.",
+                "ro": "Oprire interioară ideală pentru bicicliști.",
+                "en": "Perfect indoor stop for cyclists."
+              }
+            },
+            {
+              "name": "Trbovlje Chimney",
+              "tip_5lang": {
+                "de": "Achtung, die Straße kann glatt sein.",
+                "hu": "Vigyázat, az út síkos lehet.",
+                "ro": "Atenție, drumul poate fi alunecos.",
+                "en": "Caution, the road may be slick."
+              }
+            },
+            {
+              "name": "Late Lunch & Rest",
+              "tip_5lang": {
+                "de": "Viel Platz für nasse Ausrüstung.",
+                "hu": "Hely a vizes felszerelésnek.",
+                "ro": "Spațiu pentru echipamentul ud.",
+                "en": "Space for wet gear."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Verwenden Sie Schutzbleche gegen Spritzwasser.",
+              "Bremswege verlängern sich bei Nässe erheblich.",
+              "Wasserdichte Packtaschen schützen Ihre Wertsachen.",
+              "Tragen Sie helle, reflektierende Regenbekleidung."
+            ],
+            "hu": [
+              "Használjon sárvédőt a felcsapódó víz ellen.",
+              "A fékút vizes úton jelentősen meghosszabbodik.",
+              "A vízálló táskák megvédik az értékeit.",
+              "Viseljen világos, fényvisszaverő esőruházatot."
+            ],
+            "ro": [
+              "Folosiți aripi pentru a evita stropirea.",
+              "Distanța de frânare crește considerabil pe ud.",
+              "Geantile impermeabile vă protejează valorile.",
+              "Purtați haine de ploaie reflectorizante."
+            ],
+            "en": [
+              "Use mudguards against spray water.",
+              "Braking distances increase significantly when wet.",
+              "Waterproof panniers protect your valuables.",
+              "Wear bright, reflective rain gear."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winter-Biking in Trbovlje ist erfrischend. Wir besuchen die kulturellen Highlights im Tal und wärmen uns in den Museen auf. Die Fahrt zum höchsten Schornstein Europas bietet kalte, klare Luft, bevor wir den Tag bei einem gemütlichen, warmen Essen ausklingen lassen.",
+            "hu": "A téli kerékpározás Trbovljében frissítő élmény. Meglátogatjuk a völgy kulturális pontjait, és a múzeumokban melegedünk fel. A túra Európa legmagasabb kéményéhez hideg, tiszta levegőt kínál, mielőtt a napot egy kellemes meleg étellel zárnánk.",
+            "ro": "Ciclismul de iarnă în Trbovlje este revigorant. Vizităm punctele culturale din vale și ne încălzim în muzee. Drumul spre cel mai înalt furnal din Europa oferă aer rece și curat, înainte de a încheia ziua cu o masă caldă.",
+            "en": "Winter biking in Trbovlje is refreshing. We visit cultural highlights in the valley and warm up in the museums. The ride to Europe's tallest chimney offers crisp, cold air before ending the day with a cozy, warm meal."
+          },
+          "stops": [
+            {
+              "name": "Trbovlje Workers' Home",
+              "tip_5lang": {
+                "de": "Kurzer Stopp zum Aufwärmen.",
+                "hu": "Rövid megálló melegedni.",
+                "ro": "Scurtă oprire pentru încălzire.",
+                "en": "Short stop to warm up."
+              }
+            },
+            {
+              "name": "St. Martin's Church",
+              "tip_5lang": {
+                "de": "Vorsicht bei Reif auf der Straße.",
+                "hu": "Vigyázzon a zúzmarás úton.",
+                "ro": "Atenție la chiciura de pe drum.",
+                "en": "Watch out for frost on the road."
+              }
+            },
+            {
+              "name": "Coal Mining Museum of Slovenia",
+              "tip_5lang": {
+                "de": "Idealer Ort, um Kälte zu entfliehen.",
+                "hu": "Ideális hely a hideg elől.",
+                "ro": "Loc ideal pentru a scăpa de frig.",
+                "en": "Ideal place to escape the cold."
+              }
+            },
+            {
+              "name": "Virtual Museum Log",
+              "tip_5lang": {
+                "de": "Interaktive Wärme im Museum.",
+                "hu": "Interaktív meleg a múzeumban.",
+                "ro": "Căldură interactivă în muzeu.",
+                "en": "Interactive warmth in the museum."
+              }
+            },
+            {
+              "name": "Trbovlje Chimney",
+              "tip_5lang": {
+                "de": "Dick anziehen für die Abfahrt.",
+                "hu": "Öltözzön fel jól a lejtőhöz.",
+                "ro": "Îmbrăcați-vă bine pentru coborâre.",
+                "en": "Dress warmly for the descent."
+              }
+            },
+            {
+              "name": "Late Lunch & Rest",
+              "tip_5lang": {
+                "de": "Heißer Tee ist jetzt perfekt.",
+                "hu": "A forró tea most tökéletes.",
+                "ro": "Un ceai fierbinte e perfect acum.",
+                "en": "Hot tea is perfect now."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Halten Sie Extremitäten mit Thermohandschuhen warm.",
+              "Achten Sie auf Streusalz, das die Kette angreift.",
+              "Der Akku von E-Bikes entlädt sich bei Kälte schneller.",
+              "Fahren Sie defensiv bei möglicher Glätte."
+            ],
+            "hu": [
+              "Tartsa melegen végtagjait thermokesztyűvel.",
+              "Ügyeljen az útszóró sóra, ami marja a láncot.",
+              "Az e-bike-ok akkumulátora gyorsabban merül hidegben.",
+              "Vezessen óvatosan az esetleges jegesedés miatt."
+            ],
+            "ro": [
+              "Păstrați extremitățile calde cu mănuși termice.",
+              "Atenție la sarea de pe drum care atacă lanțul.",
+              "Bateria bicicletelor electrice se descarcă mai repede.",
+              "Conduceți defensiv pe porțiunile cu gheață."
+            ],
+            "en": [
+              "Keep extremities warm with thermal gloves.",
+              "Watch out for road salt that corrodes the chain.",
+              "E-bike batteries discharge faster in the cold.",
+              "Ride defensively on potentially icy patches."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1038,6 +1402,206 @@
           "Check the weather before driving up Kum; conditions can change quickly.",
           "Have some change ready for parking in the city center."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regen ist kein Hindernis für diese Autotour durch Trbovlje. Wir besuchen die Kirche und tauchen tief in das Bergbaumuseum ein. Nach einem gemütlichen Mittagessen fahren wir zum imposanten Schornstein und beenden den Tag auf dem Berg Kum, wo die Wolken mystisch um den Gipfel ziehen.",
+            "hu": "Az eső nem akadály ebben az autós túrában. Meglátogatjuk a templomot, és elmerülünk a Bányászati Múzeum világában. Egy kellemes ebéd után a hatalmas kéményhez hajtunk, majd a Kum-hegyen zárjuk a napot, ahol a felhők misztikusan körüllengik a csúcsot.",
+            "ro": "Ploaia nu este un obstacol pentru acest tur auto. Vizităm biserica și ne scufundăm în lumea Muzeului Mineritului. După un prânz plăcut, conducem spre furnalul uriaș și încheiem ziua pe muntele Kum, unde norii înconjoară mistic vârful.",
+            "en": "Rain is no obstacle for this car tour. We visit the church and dive into the world of the Coal Mining Museum. After a pleasant lunch, we drive to the massive chimney and end the day on Mount Kum, where clouds mistily surround the peak."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Park in the City Center",
+              "tip_5lang": {
+                "de": "Parkhaus bevorzugt nutzen.",
+                "hu": "Használja a parkolóházat.",
+                "ro": "Folosiți parcarea acoperită.",
+                "en": "Prefer covered parking."
+              }
+            },
+            {
+              "name": "St. Martin's Church",
+              "tip_5lang": {
+                "de": "Kurzer Weg vom Parkplatz.",
+                "hu": "Rövid séta a parkolótól.",
+                "ro": "Drum scurt de la parcare.",
+                "en": "Short walk from the parking lot."
+              }
+            },
+            {
+              "name": "Coal Mining Museum of Slovenia",
+              "tip_5lang": {
+                "de": "Parken direkt am Eingang.",
+                "hu": "Parkolás közvetlenül a bejáratnál.",
+                "ro": "Parcare direct la intrare.",
+                "en": "Parking right at the entrance."
+              }
+            },
+            {
+              "name": "Lunch in town",
+              "tip_5lang": {
+                "de": "Vermeiden Sie Parkplatzsuche im Regen.",
+                "hu": "Kerülje a hosszas parkolást az esőben.",
+                "ro": "Evitați căutarea parcării în ploaie.",
+                "en": "Avoid long parking searches in rain."
+              }
+            },
+            {
+              "name": "Cluster 2: Trbovlje Chimney",
+              "tip_5lang": {
+                "de": "Blick aus dem Autofenster genießen.",
+                "hu": "Élvezze a kilátást az autóból.",
+                "ro": "Bucurați-vă de vedere din mașină.",
+                "en": "Enjoy the view from the car window."
+              }
+            },
+            {
+              "name": "Cluster 3: Mount Kum",
+              "tip_5lang": {
+                "de": "Vorsicht bei Nebel auf der Bergstraße.",
+                "hu": "Vigyázzon a ködre a hegyi úton.",
+                "ro": "Atenție la ceață pe drumul montan.",
+                "en": "Beware of fog on the mountain road."
+              }
+            },
+            {
+              "name": "Dinner with a View",
+              "tip_5lang": {
+                "de": "Dramatische Wolkenstimmung.",
+                "hu": "Dramatikus felhős hangulat.",
+                "ro": "Atmosferă dramatică cu nori.",
+                "en": "Dramatic cloudy atmosphere."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Scheibenwischer vor der Fahrt.",
+              "Die Straße zum Kum kann bei Starkregen tückisch sein.",
+              "Halten Sie Abstand auf den engen Talstraßen.",
+              "Nutzen Sie die Nebelscheinwerfer bei Bedarf."
+            ],
+            "hu": [
+              "Ellenőrizze az ablaktörlőket indulás előtt.",
+              "A Kum-hegyi út heves esőben trükkös lehet.",
+              "Tartson távolságot a szűk völgyi utakon.",
+              "Szükség esetén használja a ködfényszórót."
+            ],
+            "ro": [
+              "Verificați ștergătoarele înainte de plecare.",
+              "Drumul spre Kum poate fi periculos pe ploaie torențială.",
+              "Păstrați distanța pe drumurile înguste din vale.",
+              "Folosiți farurile de ceață dacă este necesar."
+            ],
+            "en": [
+              "Check your wipers before starting the trip.",
+              "The road to Kum can be tricky in heavy rain.",
+              "Keep your distance on narrow valley roads.",
+              "Use fog lights if necessary."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Fahrt durch Trbovlje führt uns zu den Wurzeln der Industrie. Nach kulturellen Stopps im Tal erklimmen wir mit dem Auto den Kum. Die verschneite Berglandschaft bietet ein Wintermärchen, das wir mit einem warmen Abendessen im Berggasthof krönen.",
+            "hu": "Egy téli autózás Trbovljében az ipar gyökereihez vezet. A völgyi kulturális megállók után autóval hódítjuk meg a Kum-hegyet. A havas táj téli mesevilágot kínál, amelyet a hegyi fogadóban elfogyasztott meleg vacsorával koronázunk meg.",
+            "ro": "O călătorie de iarnă prin Trbovlje ne duce la rădăcinile industriei. După opririle culturale din vale, cucerim muntele Kum cu mașina. Peisajul înzăpezit oferă o poveste de iarnă, pe care o încununăm cu o cină caldă la cabană.",
+            "en": "A winter drive through Trbovlje leads us to the roots of industry. After cultural stops in the valley, we conquer Mount Kum by car. The snowy landscape offers a winter fairy tale, topped off with a warm dinner at the mountain inn."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Park in the City Center",
+              "tip_5lang": {
+                "de": "Achten Sie auf Schneeräumfahrzeuge.",
+                "hu": "Ügyeljen a hókotrókra.",
+                "ro": "Atenție la utilajele de deszăpezire.",
+                "en": "Watch out for snow plows."
+              }
+            },
+            {
+              "name": "St. Martin's Church",
+              "tip_5lang": {
+                "de": "Heizung im Auto kurz anlassen.",
+                "hu": "Hagyja menni a fűtést egy kicsit.",
+                "ro": "Lăsați căldura pornită puțin.",
+                "en": "Keep the heater on for a bit."
+              }
+            },
+            {
+              "name": "Coal Mining Museum of Slovenia",
+              "tip_5lang": {
+                "de": "Untergrund-Tour ist angenehm warm.",
+                "hu": "A bányatúra kellemesen meleg.",
+                "ro": "Turul minei este plăcut de cald.",
+                "en": "The mine tour is pleasantly warm."
+              }
+            },
+            {
+              "name": "Lunch in town",
+              "tip_5lang": {
+                "de": "Gemütliches Parken in der Nähe.",
+                "hu": "Kényelmes parkolás a közelben.",
+                "ro": "Parcare confortabilă în apropiere.",
+                "en": "Convenient parking nearby."
+              }
+            },
+            {
+              "name": "Cluster 2: Trbovlje Chimney",
+              "tip_5lang": {
+                "de": "Beeindruckend im Winternebel.",
+                "hu": "Lenyűgöző a téli ködben.",
+                "ro": "Impresionant în ceața de iarnă.",
+                "en": "Impressive in the winter mist."
+              }
+            },
+            {
+              "name": "Cluster 3: Mount Kum",
+              "tip_5lang": {
+                "de": "Winterreifen und Ketten Pflicht.",
+                "hu": "Téli gumi és hólánc kötelező.",
+                "ro": "Anvelope de iarnă și lanțuri obligatorii.",
+                "en": "Winter tires and chains mandatory."
+              }
+            },
+            {
+              "name": "Dinner with a View",
+              "tip_5lang": {
+                "de": "Kaminfeuer im Gasthof genießen.",
+                "hu": "Élvezze a kandallót a fogadóban.",
+                "ro": "Bucurați-vă de șemineul de la cabană.",
+                "en": "Enjoy the fireplace at the inn."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterausrüstung ist für den Kum zwingend erforderlich.",
+              "Rechnen Sie mit plötzlichem Glatteis in Schattenlagen.",
+              "Halten Sie den Tank für Notfälle über halb voll.",
+              "Prüfen Sie den Wetterbericht für die Passhöhe."
+            ],
+            "hu": [
+              "A téli felszerelés kötelező a Kum-hegyhez.",
+              "Számítson hirtelen jegesedésre az árnyékos részeken.",
+              "Tartsa az üzemanyagszintet félig felett.",
+              "Ellenőrizze az időjárást a hágó magasságában."
+            ],
+            "ro": [
+              "Echipamentul de iarnă este obligatoriu pentru Kum.",
+              "Așteptați-vă la gheață bruscă în zonele umbrite.",
+              "Păstrați rezervorul peste jumătate plin.",
+              "Verificați prognoza meteo pentru înălțimi."
+            ],
+            "en": [
+              "Winter equipment is mandatory for Mount Kum.",
+              "Expect sudden black ice in shaded areas.",
+              "Keep the fuel tank over half full for emergencies.",
+              "Check the weather forecast for the summit."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1374,6 +1938,188 @@
           "Keep an eye on the time so you don't miss the last bus back.",
           "Download offline maps to help you navigate."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus durch das regnerische Trbovlje ist komfortabel. Wir starten an der Busstation und erreichen schnell das Arbeiterheim und die Kirche. Das Bergbaumuseum bietet Schutz vor dem Wetter, bevor wir mit dem Bus zum Schornstein fahren und den Tag bei einem späten Mittagessen im Trockenen beenden.",
+            "hu": "Busszal közlekedni az esős Trbovljében kényelmes megoldás. Az autóbusz-állomástól indulva gyorsan elérjük a Munkásotthont és a templomot. A Bányászati Múzeum védelmet nyújt, mielőtt busszal a kéményhez mennénk, majd egy száraz helyen elfogyasztott ebéddel zárnánk a napot.",
+            "ro": "Călătoria cu autobuzul prin Trbovlje pe ploaie este confortabilă. Plecând de la autogară, ajungem rapid la Casa Muncitorilor și la biserică. Muzeul Mineritului oferă protecție, înainte de a merge cu autobuzul la furnal și a încheia ziua cu un prânz la uscat.",
+            "en": "Traveling by bus through rainy Trbovlje is a comfortable option. Starting from the bus station, we quickly reach the Workers' Home and the church. The Coal Mining Museum provides shelter before taking the bus to the chimney and ending the day with lunch in the dry."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Arrive at the Bus Station",
+              "tip_5lang": {
+                "de": "Warten Sie im überdachten Bereich.",
+                "hu": "Várjon a fedett váróteremben.",
+                "ro": "Așteptați în zona acoperită.",
+                "en": "Wait in the covered area."
+              }
+            },
+            {
+              "name": "Trbovlje Workers' Home",
+              "tip_5lang": {
+                "de": "Bushaltestelle ist ganz nah.",
+                "hu": "A buszmegálló nagyon közel van.",
+                "ro": "Stația de autobuz este foarte aproape.",
+                "en": "The bus stop is very close."
+              }
+            },
+            {
+              "name": "St. Martin's Church",
+              "tip_5lang": {
+                "de": "Kurzer Sprint durch den Regen.",
+                "hu": "Rövid sprint az esőben.",
+                "ro": "Scurt sprint prin ploaie.",
+                "en": "Short sprint through the rain."
+              }
+            },
+            {
+              "name": "Coal Mining Museum of Slovenia",
+              "tip_5lang": {
+                "de": "Idealer Ort für regnerische Stunden.",
+                "hu": "Ideális hely az esős órákra.",
+                "ro": "Loc ideal pentru orele ploioase.",
+                "en": "Ideal place for rainy hours."
+              }
+            },
+            {
+              "name": "Cluster 2: Bus to the Chimney",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Fahrplan bei Verspätungen.",
+                "hu": "Ellenőrizze a menetrendet esőben.",
+                "ro": "Verificați programul în caz de întârzieri.",
+                "en": "Check the schedule for delays."
+              }
+            },
+            {
+              "name": "Late lunch in the center",
+              "tip_5lang": {
+                "de": "Bushaltestelle direkt vor der Tür.",
+                "hu": "Buszmegálló közvetlenül az ajtó előtt.",
+                "ro": "Stație de autobuz chiar în față.",
+                "en": "Bus stop right in front of the door."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Laden Sie die Fahrplan-App für Echtzeit-Infos.",
+              "Halten Sie Kleingeld oder Ihre Fahrkarte bereit.",
+              "Busse können bei starkem Regen leicht verspätet sein.",
+              "Die Haltestellen sind meist überdacht."
+            ],
+            "hu": [
+              "Töltse le a menetrendi appot a friss infókért.",
+              "Készítse elő az aprópénzt vagy a jegyét.",
+              "Heves esőben a buszok késhetnek kicsit.",
+              "A megállók többsége fedett."
+            ],
+            "ro": [
+              "Descărcați aplicația de transport pentru info în timp real.",
+              "Pregătiți restul sau biletul din timp.",
+              "Autobuzele pot întârzia ușor pe ploaie torențială.",
+              "Majoritatea stațiilor sunt acoperite."
+            ],
+            "en": [
+              "Download the transit app for real-time info.",
+              "Have small change or your ticket ready.",
+              "Buses may be slightly delayed in heavy rain.",
+              "Most stops are covered."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Nahverkehr in Trbovlje bringt uns sicher durch den Winter. Vom Busbahnhof aus erkunden wir die beheizten kulturellen Zentren. Nach dem faszinierenden Besuch im Bergbaumuseum nutzen wir den Bus zum Schornstein, bevor wir uns bei einem warmen Mittagessen in der Stadt aufwärmen.",
+            "hu": "A helyi közlekedés Trbovljében biztonságosan átsegít a télen. A buszpályaudvartól indulva fedezzük fel a fűtött kulturális központokat. A bányamúzeumi látogatás után busszal megyünk a kéményhez, majd a városban egy meleg ebéddel melegszünk fel.",
+            "ro": "Transportul local din Trbovlje ne ajută să trecem în siguranță prin iarnă. De la autogară explorăm centrele culturale încălzite. După vizita la muzeu, luăm autobuzul spre furnal, apoi ne încălzim cu un prânz cald în oraș.",
+            "en": "Local transit in Trbovlje gets us safely through winter. From the bus station, we explore the heated cultural centers. After the mine museum visit, we take the bus to the chimney before warming up with a hot lunch in town."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Arrive at the Bus Station",
+              "tip_5lang": {
+                "de": "Nutzen Sie den beheizten Warteraum.",
+                "hu": "Használja a fűtött várótermet.",
+                "ro": "Folosiți sala de așteptare încălzită.",
+                "en": "Use the heated waiting room."
+              }
+            },
+            {
+              "name": "Trbovlje Workers' Home",
+              "tip_5lang": {
+                "de": "Genießen Sie die warme Atmosphäre.",
+                "hu": "Élvezze a meleg hangulatot.",
+                "ro": "Bucurați-vă de atmosfera caldă.",
+                "en": "Enjoy the warm atmosphere."
+              }
+            },
+            {
+              "name": "St. Martin's Church",
+              "tip_5lang": {
+                "de": "Besuch der winterlichen Kirche.",
+                "hu": "Látogatás a téli templomban.",
+                "ro": "Vizită la biserica de iarnă.",
+                "en": "Visit the winter church."
+              }
+            },
+            {
+              "name": "Coal Mining Museum of Slovenia",
+              "tip_5lang": {
+                "de": "Frostfreies Erlebnis unter Tage.",
+                "hu": "Fagymentes élmény a föld alatt.",
+                "ro": "Experiență fără îngheț în subteran.",
+                "en": "Frost-free experience underground."
+              }
+            },
+            {
+              "name": "Cluster 2: Bus to the Chimney",
+              "tip_5lang": {
+                "de": "Busse sind gut beheizt.",
+                "hu": "A buszok jól fűtöttek.",
+                "ro": "Autobuzele sunt bine încălzite.",
+                "en": "The buses are well-heated."
+              }
+            },
+            {
+              "name": "Late lunch in the center",
+              "tip_5lang": {
+                "de": "Kurzer Weg ins warme Restaurant.",
+                "hu": "Rövid séta a meleg étterembe.",
+                "ro": "Drum scurt spre restaurantul cald.",
+                "en": "Short walk to the warm restaurant."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf geänderte Winterfahrpläne.",
+              "Die Busse sind eine warme Alternative zum Laufen.",
+              "Tragen Sie rutschfeste Schuhe für die Haltestellen.",
+              "Abends fahren die Busse seltener."
+            ],
+            "hu": [
+              "Ügyeljen a módosított téli menetrendre.",
+              "A busz meleg alternatíva a gyalogláshoz képest.",
+              "Viseljen csúszásmentes cipőt a megállókhoz.",
+              "Este a buszok ritkábban közlekednek."
+            ],
+            "ro": [
+              "Atenție la orarele de iarnă modificate.",
+              "Autobuzul este o alternativă caldă la mersul pe jos.",
+              "Purtați pantofi antiderapanți pentru stații.",
+              "Seara autobuzele circulă mai rar."
+            ],
+            "en": [
+              "Watch out for modified winter schedules.",
+              "The bus is a warm alternative to walking.",
+              "Wear non-slip shoes for the stops.",
+              "Buses run less frequently in the evening."
+            ]
+          }
+        }
       }
     }
   }

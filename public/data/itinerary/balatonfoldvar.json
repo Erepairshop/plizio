@@ -370,6 +370,224 @@
           "Bring your swimsuit in case you want a spontaneous dip in the lake.",
           "The old plane trees along the promenade provide plenty of shade during summer."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag am Balaton versprüht eine ganz eigene, melancholische Ruhe. Am Vormittag finden wir Zuflucht in der Heilig-Kreuz-Kirche und dem historischen Kulipintyó. Mittags tauchen wir tief in die Schifffahrtsgeschichte im Besucherzentrum ein. Der Nachmittag gehört trotz Regen der Kvassay-Promenade, bevor wir den Tag im Hafen bei der Taubeninsel ausklingen lassen.",
+            "hu": "Az esős Balaton különleges, ezüstös arcát mutatja. Reggel a Szent Kereszt templom és a Kulipintyó nyújt menedéket a cseppek elől. Délben a Hajózástörténeti Látogatóközpont interaktív tárlatain kalandozunk. Délután a Kvassay sétány platánjai alatt sétálunk, majd a kikötő és a Galamb-sziget párás látványával zárjuk a napot, ahol a víz és az ég összeolvad.",
+            "ro": "O zi ploioasă la Balaton oferă o liniște melancolică aparte. Dimineața ne adăpostim în Biserica Sfânta Cruce și la Kulipintyó. La prânz, explorăm istoria navigației în centrul de vizitare modern. După-amiaza este dedicată Promenadei Kvassay sub umbrelă, iar seara se încheie în port și pe Insula Porumbeilor, unde ceața de pe lac creează un peisaj poetic.",
+            "en": "A rainy day at Lake Balaton has its own silver lining and unique calm. We spend the morning in the dry sanctuary of the Holy Cross Church and Kulipintyó. Midday is perfect for the Shipping History Visitor Center. In the afternoon, we walk under the plane trees of the Kvassay Promenade, ending the day at the harbor and Dove Island as the rain mist covers the water."
+          },
+          "stops": [
+            {
+              "name": "Hl. Kreuz Kirche",
+              "tip_5lang": {
+                "de": "Ein idealer, trockener Ort für Besinnung.",
+                "hu": "Tökéletes száraz menedék a reggeli zápor elől.",
+                "ro": "Un refugiu uscat ideal pentru meditație.",
+                "en": "Perfect dry shelter from the morning rain."
+              }
+            },
+            {
+              "name": "Jubiläumspark",
+              "tip_5lang": {
+                "de": "Die dichten Bäume bieten etwas Regenschutz.",
+                "hu": "A sűrű lombozat némi védelmet nyújt a szitálásban.",
+                "ro": "Copacii deși oferă o oarecare protecție.",
+                "en": "Dense trees provide some cover from drizzle."
+              }
+            },
+            {
+              "name": "Kulipintyó",
+              "tip_5lang": {
+                "de": "Besichtigung der Ausstellung im Inneren.",
+                "hu": "A belső kiállítás remek program esős időben.",
+                "ro": "Expoziția interioară este o opțiune excelentă.",
+                "en": "The indoor exhibition is great for rainy weather."
+              }
+            },
+            {
+              "name": "Besucherzentrum für Schifffahrtsgeschichte",
+              "tip_5lang": {
+                "de": "Perfekt für 2 Stunden im Trockenen.",
+                "hu": "Ideális helyszín 2 órányi benti kikapcsolódáshoz.",
+                "ro": "Locul perfect pentru 2 ore la adăpost.",
+                "en": "Perfect place for 2 hours of indoor discovery."
+              }
+            },
+            {
+              "name": "Sternwarten-Hügel (Hajózástörténeti Kilátó)",
+              "tip_5lang": {
+                "de": "Vorsicht, die Stufen können rutschig sein.",
+                "hu": "Vigyázat, a kilátó lépcsői csúszósak lehetnek.",
+                "ro": "Atenție, treptele pot fi alunecoase.",
+                "en": "Caution, the stairs might be slippery."
+              }
+            },
+            {
+              "name": "Kvassay-Promenade",
+              "tip_5lang": {
+                "de": "Die Platanen wirken im Regen sehr mystisch.",
+                "hu": "A platánsor esőben is gyönyörű és hangulatos.",
+                "ro": "Promenada are un aer mistic pe ploaie.",
+                "en": "The plane trees look mystical in the rain."
+              }
+            },
+            {
+              "name": "Yacht-Hafen",
+              "tip_5lang": {
+                "de": "Die Boote schaukeln sanft im grauen Wasser.",
+                "hu": "A ringatózó hajók látványa esőben is látványos.",
+                "ro": "Bărci legănându-se sub cerul cenușiu.",
+                "en": "The boats swaying in gray water are scenic."
+              }
+            },
+            {
+              "name": "Galambsziget (Taubeninsel)",
+              "tip_5lang": {
+                "de": "Festere Wege nutzen, um Matsch zu vermeiden.",
+                "hu": "Maradjon a szilárd burkolaton a sár elkerülésére.",
+                "ro": "Rămâneți pe aleile pavate pentru a evita noroiul.",
+                "en": "Stay on paved paths to avoid mud."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für die Promenade.",
+              "Das Besucherzentrum ist der beste Ort bei Starkregen.",
+              "Die Platanenallee bietet natürlichen Schutz vor leichtem Regen.",
+              "Ein Taschenschirm ist wegen des Windes am See nützlich."
+            ],
+            "hu": [
+              "Vízálló cipő ajánlott a parti sétányhoz.",
+              "A látogatóközpont a legjobb menedék heves esőben.",
+              "A platánsor természetes ernyőként véd a szitálástól.",
+              "A tavi szél miatt érdemes stabil esernyőt vinni."
+            ],
+            "ro": [
+              "Se recomandă încălțăminte impermeabilă pentru faleză.",
+              "Centrul de vizitare este cel mai bun adăpost pe ploaie torențială.",
+              "Aleea cu platani oferă protecție naturală contra burniței.",
+              "Folosiți o umbrelă rezistentă la vântul de pe lac."
+            ],
+            "en": [
+              "Waterproof shoes are recommended for the lakeside.",
+              "The visitor center is the best refuge during heavy rain.",
+              "The plane trees act as a natural umbrella during light rain.",
+              "Take a sturdy umbrella due to the winds near the lake."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winter in Balatonföldvár bedeutet kristallklare Luft und einsame Ufer. Morgens besuchen wir die stille Kirche und das verschlafene Kulipintyó. Mittags wärmen wir uns im modernen Schifffahrtsmuseum auf. Der Nachmittag bietet einen weiten Blick vom frostigen Hügel über den teils gefrorenen See, bevor wir die winterliche Ruhe im Hafen genießen.",
+            "hu": "A téli Balatonföldvár a kristálytiszta levegő és a csendes vízpart városa. Reggel a néma templomot és a Kulipintyót látogatjuk meg. Délben a modern látogatóközpont melegében pihenünk meg. Délután a kilátóból csodáljuk meg a jeges Balatont, végül a kikötőben és a Galamb-szigeten élvezzük a korai naplemente fényeit.",
+            "ro": "Iarna în Balatonföldvár înseamnă aer proaspăt și maluri pustii. Dimineața vizităm biserica tăcută și Kulipintyó. La prânz ne încălzim în centrul modern de navigație. După-amiaza oferă o priveliște clară de pe dealul înghețat peste lac, iar seara admirăm apusul timpuriu în portul adormit.",
+            "en": "Winter in Balatonföldvár brings crystal clear air and deserted shores. In the morning, we visit the quiet church and the sleepy Kulipintyó. Midday is for warming up in the modern visitor center. The afternoon offers a sharp view from the frosty hill over the lake, ending the day with the early winter sunset at the harbor and Dove Island."
+          },
+          "stops": [
+            {
+              "name": "Hl. Kreuz Kirche",
+              "tip_5lang": {
+                "de": "In der Kirche ist es oft kühler als draußen.",
+                "hu": "A templom belseje télen hűvöse mag maradhat.",
+                "ro": "Interiorul bisericii poate fi destul de rece.",
+                "en": "The church interior can be cooler than outside."
+              }
+            },
+            {
+              "name": "Jubiläumspark",
+              "tip_5lang": {
+                "de": "Schöne Frostmuster auf den kahlen Ästen.",
+                "hu": "Gyönyörű zúzmarás ágak a téli csendben.",
+                "ro": "Modele frumoase de chiciură pe crengi.",
+                "en": "Beautiful frost patterns on bare branches."
+              }
+            },
+            {
+              "name": "Kulipintyó",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Winteröffnungszeiten vorab.",
+                "hu": "Érdemes előre ellenőrizni a téli nyitvatartást.",
+                "ro": "Verificați programul de iarnă în avans.",
+                "en": "Check winter opening hours in advance."
+              }
+            },
+            {
+              "name": "Besucherzentrum für Schifffahrtsgeschichte",
+              "tip_5lang": {
+                "de": "Der wärmste Ort auf dieser Route.",
+                "hu": "A túra legmelegebb pontja, pihenjen meg itt.",
+                "ro": "Cel mai cald punct de pe acest traseu.",
+                "en": "The warmest spot on this route, rest here."
+              }
+            },
+            {
+              "name": "Sternwarten-Hügel (Hajózástörténeti Kilátó)",
+              "tip_5lang": {
+                "de": "Oft sehr windig, warme Mütze einpacken.",
+                "hu": "Itt erősen fújhat a szél, sapka kötelező.",
+                "ro": "Adesea vânt puternic, purtați căciulă.",
+                "en": "Often very windy here, wear a warm hat."
+              }
+            },
+            {
+              "name": "Kvassay-Promenade",
+              "tip_5lang": {
+                "de": "Herrlich leer für einen weiten Blick.",
+                "hu": "Csodásan üres sétány a végtelen panorámával.",
+                "ro": "Promenadă pustie cu o panoramă vastă.",
+                "en": "Wonderfully empty promenade with vast views."
+              }
+            },
+            {
+              "name": "Yacht-Hafen",
+              "tip_5lang": {
+                "de": "Viele Yachten sind nun im Winterlager.",
+                "hu": "A hajók nagy része már téli tárolóban van.",
+                "ro": "Multe iahturi sunt la depozitare pe timp de iarnă.",
+                "en": "Most yachts are in winter storage now."
+              }
+            },
+            {
+              "name": "Galambsziget (Taubeninsel)",
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille auf der Insel.",
+                "hu": "Élvezze a tökéletes nyugalmat a szigeten.",
+                "ro": "Bucurați-vă de liniștea absolută de pe insulă.",
+                "en": "Enjoy the absolute peace on the island."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Sonnenuntergang ist im Winter bereits gegen 16:30 Uhr.",
+              "Kleiden Sie sich in Schichten gegen den Seewind.",
+              "Die Museen sind die einzigen beheizten Stopps.",
+              "Feste Sohlen sind wichtig bei möglichem Glatteis."
+            ],
+            "hu": [
+              "A naplemente télen már délután fél 5 körül bekövetkezik.",
+              "Öltözzön rétegesen a hideg tavi szél ellen.",
+              "A múzeumok az egyetlen fűtött helyszínek az úton.",
+              "Vigyázzon a jégre a parti kövezeten."
+            ],
+            "ro": [
+              "Apusul are loc în jurul orei 16:30 pe timp de iarnă.",
+              "Îmbrăcați-vă în straturi contra vântului tăios.",
+              "Muzeele sunt singurele puncte încălzite.",
+              "Atenție la porțiunile cu gheață de lângă lac."
+            ],
+            "en": [
+              "Sunset occurs as early as 4:30 PM in winter.",
+              "Dress in layers against the sharp lakeside wind.",
+              "Museums are the only heated spots on the route.",
+              "Watch out for icy patches near the water."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -734,6 +952,224 @@
           "Bring plenty of water with you, especially on hot summer days.",
           "The shore promenades are popular with pedestrians, so adjust your speed accordingly."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert die richtige Ausrüstung, bietet aber leere Wege. Wir starten im trockenen Schifffahrtszentrum und wagen uns mittags zum Kulipintyó. Der Nachmittag führt uns durch den Park zur Kvassay-Promenade. Das nasse Pflaster reflektiert die Wolken, während wir den Hafen und die Taubeninsel erkunden.",
+            "hu": "Az esős kerékpározás jó felszerelést igényel, de cserébe mienk az egész part. A látogatóközpont benti programjával kezdünk, majd a Kulipintyó felé tekerünk. Délután a parkon át a Kvassay sétány vizes aszfaltján gurulunk, végül a kikötő és a Galamb-sziget párás fényeit keressük fel.",
+            "ro": "Ciclismul pe ploaie necesită echipament adecvat, dar oferă trasee libere. Începem la centrul de navigație și pedalăm spre Kulipintyó la prânz. După-amiaza ne poartă prin parc spre faleza Kvassay, unde asfaltul ud reflectă cerul, încheind în portul liniștit.",
+            "en": "Cycling in the rain requires proper gear but rewards you with empty paths. We start at the dry visitor center and head to Kulipintyó at noon. The afternoon takes us through the park to the Kvassay Promenade. The wet pavement reflects the clouds as we finish at the harbor and Dove Island."
+          },
+          "stops": [
+            {
+              "name": "Besucherzentrum für Schifffahrtsgeschichte",
+              "tip_5lang": {
+                "de": "Sicherer Abstellplatz für Räder vorhanden.",
+                "hu": "Biztonságos kerékpártároló az épületnél.",
+                "ro": "Parcare sigură pentru biciclete la clădire.",
+                "en": "Secure bike parking available at the building."
+              }
+            },
+            {
+              "name": "Sternwarten-Hügel (Hajózástörténeti Kilátó)",
+              "tip_5lang": {
+                "de": "Der Anstieg kann bei Nässe rutschig sein.",
+                "hu": "Az emelkedő nedves időben csúszós lehet.",
+                "ro": "Urcarea poate fi alunecoasă pe timp de ploaie.",
+                "en": "The climb can be slippery in wet conditions."
+              }
+            },
+            {
+              "name": "Kulipintyó",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp im Trockenen tut gut.",
+                "hu": "Jól fog esni egy rövid benti megálló.",
+                "ro": "Un scurt popas la adăpost este binevenit.",
+                "en": "A short indoor break will feel good."
+              }
+            },
+            {
+              "name": "Hl. Kreuz Kirche",
+              "tip_5lang": {
+                "de": "Vorsicht beim Absteigen auf nassem Grund.",
+                "hu": "Vigyázzon a leszálláskor a vizes talajon.",
+                "ro": "Atenție la coborârea de pe bicicletă.",
+                "en": "Be careful when dismounting on wet ground."
+              }
+            },
+            {
+              "name": "Jubiläumspark",
+              "tip_5lang": {
+                "de": "Glatte Blätter auf den Wegen beachten.",
+                "hu": "Vigyázzon a vizes levelekre az úton.",
+                "ro": "Atenție la frunzele ude de pe drum.",
+                "en": "Watch out for slippery wet leaves on the path."
+              }
+            },
+            {
+              "name": "Kvassay-Promenade",
+              "tip_5lang": {
+                "de": "Lange, gerade Strecke, gut zu befahren.",
+                "hu": "Hosszú, egyenes szakasz, jól tekerhető esőben.",
+                "ro": "Secțiune lungă și dreaptă, ușor de parcurs.",
+                "en": "Long, straight section, easy to cycle."
+              }
+            },
+            {
+              "name": "Yacht-Hafen",
+              "tip_5lang": {
+                "de": "Vorsicht an den Kanten bei Regen.",
+                "hu": "Vigyázzon a móló szélén a vizes köveken.",
+                "ro": "Atenție la marginea docurilor pe ploaie.",
+                "en": "Be careful at the pier edges in the rain."
+              }
+            },
+            {
+              "name": "Galambsziget (Taubeninsel)",
+              "tip_5lang": {
+                "de": "Kurze Runde, dann schnell ins Trockene.",
+                "hu": "Rövid kör, majd irány a fedett helyek.",
+                "ro": "Tur scurt, apoi căutați un loc uscat.",
+                "en": "Short loop, then head for cover."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind bei diesem Wetter unverzichtbar.",
+              "Vermeiden Sie Pfützen, sie könnten tief sein.",
+              "Bremsweg auf nassem Asphalt ist deutlich länger.",
+              "Wasserfeste Kleidung und Handschuhe einplanen."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen ilyen időben.",
+              "Kerülje a tócsákat, mélyebbek lehetnek a vártnál.",
+              "A fékút vizes aszfalton jelentősen megnő.",
+              "Vízálló ruházat és kesztyű javasolt."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt indispensabile acum.",
+              "Evitați bălțile, pot fi mai adânci decât par.",
+              "Distanța de frânare crește pe asfalt ud.",
+              "Planificați haine și mănuși impermeabile."
+            ],
+            "en": [
+              "Fenders are essential in this weather.",
+              "Avoid puddles, they might be deeper than expected.",
+              "Braking distance is significantly longer on wet asphalt.",
+              "Wear waterproof clothing and gloves."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winter-Biking in Földvár ist erfrischend und friedlich. Wir beginnen im geheizten Schifffahrtszentrum. Mittags erklimmen wir den frostigen Hügel für eine klare Fernsicht. Am Nachmittag radeln wir über die leere Kvassay-Promenade, während der kalte Wind vom See weht, und beenden die Tour im Hafen vor Einbruch der Dunkelheit.",
+            "hu": "A téli bringázás Földváron frissítő és békés élmény. A fűtött látogatóközpontból indulunk, majd délben meghódítjuk a fagyos kilátót a tiszta panorámáért. Délután az üres Kvassay sétányon tekerünk a csípős tavi szélben, végül a kikötőben zárjuk a napot még sötétedés előtt.",
+            "ro": "Ciclismul de iarnă în Földvár este revigorant și liniștit. Începem la centrul de navigație încălzit. La prânz urcăm dealul înghețat pentru o vedere clară. După-amiaza pedalăm pe promenada Kvassay pustie, în timp ce vântul rece bate dinspre lac, și terminăm în port înainte de lăsarea întunericului.",
+            "en": "Winter biking in Földvár is refreshing and peaceful. We start in the heated visitor center. At noon, we climb the frosty hill for a clear view. In the afternoon, we cycle along the empty Kvassay Promenade while the cold lake wind blows, ending the tour at the harbor before dark."
+          },
+          "stops": [
+            {
+              "name": "Besucherzentrum für Schifffahrtsgeschichte",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit zum Aufwärmen.",
+                "hu": "Használja ki az időt a bemelegedésre.",
+                "ro": "Folosiți timpul pentru a vă încălzi.",
+                "en": "Take your time to warm up here."
+              }
+            },
+            {
+              "name": "Sternwarten-Hügel (Hajózástörténeti Kilátó)",
+              "tip_5lang": {
+                "de": "Bei Eiswind ist die Abfahrt sehr kalt.",
+                "hu": "Jeges szélben a lejtmenet nagyon hideg.",
+                "ro": "Coborârea este foarte rece pe vânt tăios.",
+                "en": "The descent is very cold in icy winds."
+              }
+            },
+            {
+              "name": "Kulipintyó",
+              "tip_5lang": {
+                "de": "Kurze Pause, um nicht auszukühlen.",
+                "hu": "Csak rövid pihenő, hogy ne hűljön ki.",
+                "ro": "Pauză scurtă pentru a nu vă răci.",
+                "en": "Keep the break short to stay warm."
+              }
+            },
+            {
+              "name": "Hl. Kreuz Kirche",
+              "tip_5lang": {
+                "de": "Ruhiger Ort für einen kurzen Halt.",
+                "hu": "Csendes helyszín egy rövid megállóra.",
+                "ro": "Un loc liniștit pentru o scurtă oprire.",
+                "en": "Quiet spot for a quick stop."
+              }
+            },
+            {
+              "name": "Jubiläumspark",
+              "tip_5lang": {
+                "de": "Vorsicht vor überfrierender Nässe.",
+                "hu": "Vigyázzon a lefagyott útszakaszokra.",
+                "ro": "Atenție la porțiunile cu polei.",
+                "en": "Watch out for patches of black ice."
+              }
+            },
+            {
+              "name": "Kvassay-Promenade",
+              "tip_5lang": {
+                "de": "Der Wind weht hier ungehindert vom See.",
+                "hu": "A szél itt akadálytalanul fúj a tóról.",
+                "ro": "Vântul bate nestingherit dinspre lac.",
+                "en": "The wind blows freely from the lake here."
+              }
+            },
+            {
+              "name": "Yacht-Hafen",
+              "tip_5lang": {
+                "de": "Die Stege können vereist sein.",
+                "hu": "A mólók és mólószárak jegesek lehetnek.",
+                "ro": "Pontoanele pot fi acoperite cu gheață.",
+                "en": "The piers and jetties might be icy."
+              }
+            },
+            {
+              "name": "Galambsziget (Taubeninsel)",
+              "tip_5lang": {
+                "de": "Wunderschön im weichen Winterlicht.",
+                "hu": "Gyönyörű a lágy téli fényekben.",
+                "ro": "Superb în lumina blândă de iarnă.",
+                "en": "Beautiful in the soft winter light."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Kleidung (Softshell).",
+              "Achten Sie auf vereiste Stellen im Schatten.",
+              "Warme Handschuhe sind absolut notwendig.",
+              "Beleuchtung frühzeitig einschalten."
+            ],
+            "hu": [
+              "Viseljen szélálló ruházatot.",
+              "Ügyeljen a jeges foltokra az árnyékos részeken.",
+              "A meleg kesztyű alapfeltétel.",
+              "Kapcsolja be időben a világítást."
+            ],
+            "ro": [
+              "Purtați haine rezistente la vânt.",
+              "Atenție la zonele înghețate din umbră.",
+              "Mănușile groase sunt absolut necesare.",
+              "Aprindeți luminile din timp."
+            ],
+            "en": [
+              "Wear windproof clothing (softshell).",
+              "Watch out for icy spots in shaded areas.",
+              "Warm gloves are an absolute must.",
+              "Turn on your lights early."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1079,6 +1515,206 @@
           "The peak summer season can get busy, so arrive early to find good parking spots.",
           "The shore promenades are strictly pedestrian zones, driving is not permitted there."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Balatonföldvár auch bei Regen komfortabel. Wir parken direkt am Schifffahrtszentrum und genießen die Aussicht vom Hügel aus dem Wagen. Mittags besuchen wir das Kulipintyó. Am Nachmittag machen wir kurze Stopps an der Kvassay-Promenade und dem Hafen, immer mit dem trockenen Auto als Basis.",
+            "hu": "Autóval az esős Balatonföldvár is kényelmesen bejárható. Közvetlenül a látogatóközpontnál parkolunk, a dombról pedig akár a kocsiból is csodálhatjuk a kilátást. Délben a Kulipintyót keressük fel. Délután rövid sétákat teszünk a sétányon és a kikötőben, mindig visszatérve a száraz autóba.",
+            "ro": "Cu mașina, Balatonföldvár este confortabil chiar și pe ploaie. Parcăm direct la centrul de navigație și admirăm vederea de pe deal. La prânz vizităm Kulipintyó. După-amiaza facem opriri scurte la faleza Kvassay și în port, având mereu mașina ca refugiu uscat.",
+            "en": "By car, Balatonföldvár is comfortable even in the rain. We park right at the visitor center and enjoy the view from the hill. At noon, we visit Kulipintyó. In the afternoon, we take short walks at the promenade and the harbor, always returning to the dry car."
+          },
+          "stops": [
+            {
+              "name": "Besucherzentrum für Schifffahrtsgeschichte",
+              "tip_5lang": {
+                "de": "Großer Parkplatz direkt vor der Tür.",
+                "hu": "Tágas parkoló közvetlenül az épület előtt.",
+                "ro": "Parcare spațioasă chiar în fața clădirii.",
+                "en": "Spacious parking right in front of the building."
+              }
+            },
+            {
+              "name": "Sternwarten-Hügel (Hajózástörténeti Kilátó)",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Aussichtspunkt.",
+                "hu": "Parkoljon közel a kilátóponthoz.",
+                "ro": "Parcați aproape de punctul de observație.",
+                "en": "Park close to the lookout point."
+              }
+            },
+            {
+              "name": "Kulipintyó",
+              "tip_5lang": {
+                "de": "Parkplätze in den umliegenden Straßen.",
+                "hu": "Parkolási lehetőség a környező utcákban.",
+                "ro": "Locuri de parcare pe străzile adiacente.",
+                "en": "Parking available in the surrounding streets."
+              }
+            },
+            {
+              "name": "Jubiläumspark",
+              "tip_5lang": {
+                "de": "Kurzer Stopp am Parkrand möglich.",
+                "hu": "Rövid megálló a park szélén lehetséges.",
+                "ro": "Scurtă oprire posibilă la marginea parcului.",
+                "en": "Short stop possible at the edge of the park."
+              }
+            },
+            {
+              "name": "Kvassay-Promenade",
+              "tip_5lang": {
+                "de": "Parken Sie entlang der Zufahrtsstraße.",
+                "hu": "Parkoljon a sétány melletti úton.",
+                "ro": "Parcați de-a lungul drumului de acces.",
+                "en": "Park along the access road near the promenade."
+              }
+            },
+            {
+              "name": "Yacht-Hafen",
+              "tip_5lang": {
+                "de": "Zentraler Parkplatz am Hafeneingang.",
+                "hu": "Központi parkoló a kikötő bejáratánál.",
+                "ro": "Parcare centrală la intrarea în port.",
+                "en": "Central parking at the harbor entrance."
+              }
+            },
+            {
+              "name": "Galambsziget (Taubeninsel)",
+              "tip_5lang": {
+                "de": "Vom Parkplatz nur ein kurzer Fußweg.",
+                "hu": "A parkolótól csak rövid séta a sziget.",
+                "ro": "Doar o scurtă plimbare de la parcare.",
+                "en": "Only a short walk from the parking lot."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Parkplätze nah an den Sehenswürdigkeiten.",
+              "Vorsicht bei Aquaplaning auf der Hauptstraße.",
+              "Gute Sicht durch saubere Scheiben ist wichtig.",
+              "Hinterlassen Sie keine Regenschirme auf den Sitzen."
+            ],
+            "hu": [
+              "Használja a látnivalókhoz közeli parkolókat.",
+              "Vigyázzon a vízátfolyásokra a főúton.",
+              "A tiszta szélvédő fontos a jó kilátáshoz.",
+              "Ne hagyja az ázott ernyőt az ülésen."
+            ],
+            "ro": [
+              "Folosiți parcările apropiate de obiective.",
+              "Atenție la acvaplanare pe drumul principal.",
+              "Vizibilitatea bună este esențială pe ploaie.",
+              "Nu lăsați umbrelele ude pe scaune."
+            ],
+            "en": [
+              "Use parking spots close to the attractions.",
+              "Watch out for aquaplaning on the main road.",
+              "Good visibility through clean windows is key.",
+              "Avoid leaving wet umbrellas on the seats."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Autofahrt nach Földvár zeigt den See von seiner stillen Seite. Wir parken am warmen Schifffahrtszentrum und genießen den Panoramablick vom Hügel. Mittags geht es zum Kulipintyó. Den Nachmittag verbringen wir bei kurzen Spaziergängen an der Promenade und beenden den Tag im Hafen, bevor die Scheiben wieder beschlagen.",
+            "hu": "Téli autós kirándulás Földváron a tó nyugodt arcát mutatja. A meleg látogatóközpontnál kezdünk, majd a dombról élvezzük a panorámát. Délben a Kulipintyónál állunk meg. A délutánt rövid sétákkal töltjük a sétányon, majd a kikötőben zárjuk a napot, mielőtt túl hideg lesz.",
+            "ro": "O călătorie de iarnă cu mașina la Földvár arată latura liniștită a lacului. Parcăm la centrul de navigație și ne bucurăm de panoramă. La prânz mergem la Kulipintyó. După-amiaza facem plimbări scurte pe faleză și încheiem în port înainte de îngheț.",
+            "en": "A winter drive to Földvár shows the quiet side of the lake. We park at the warm visitor center and enjoy the panoramic view from the hill. At noon, we visit Kulipintyó. The afternoon is spent with short walks on the promenade, finishing at the harbor before it gets too cold."
+          },
+          "stops": [
+            {
+              "name": "Besucherzentrum für Schifffahrtsgeschichte",
+              "tip_5lang": {
+                "de": "Parken und im Warmen die Aussicht genießen.",
+                "hu": "Parkoljon le, és élvezze bent a meleget.",
+                "ro": "Parcați și bucurați-vă de căldură în interior.",
+                "en": "Park and enjoy the warmth inside."
+              }
+            },
+            {
+              "name": "Sternwarten-Hügel (Hajózástörténeti Kilátó)",
+              "tip_5lang": {
+                "de": "Vorsicht bei Glätte auf der Zufahrt.",
+                "hu": "Vigyázzon a jegesedésre a felvezető úton.",
+                "ro": "Atenție la polei pe drumul de acces.",
+                "en": "Watch out for icy spots on the access road."
+              }
+            },
+            {
+              "name": "Kulipintyó",
+              "tip_5lang": {
+                "de": "Schnell vom Auto ins warme Museum.",
+                "hu": "Gyors bejutás az autóból a múzeumba.",
+                "ro": "Intrare rapidă din mașină în muzeu.",
+                "en": "Quick access from the car to the museum."
+              }
+            },
+            {
+              "name": "Jubiläumspark",
+              "tip_5lang": {
+                "de": "Vom Auto aus die Winterlandschaft sehen.",
+                "hu": "Csodálja a téli tájat az autóból.",
+                "ro": "Admirați peisajul de iarnă din mașină.",
+                "en": "Admire the winter landscape from the car."
+              }
+            },
+            {
+              "name": "Kvassay-Promenade",
+              "tip_5lang": {
+                "de": "Parken direkt am Anfang der Promenade.",
+                "hu": "Parkoljon közvetlenül a sétány elején.",
+                "ro": "Parcați chiar la începutul falezei.",
+                "en": "Park right at the start of the promenade."
+              }
+            },
+            {
+              "name": "Yacht-Hafen",
+              "tip_5lang": {
+                "de": "Parkplatz ist im Winter meist leer.",
+                "hu": "A parkoló télen általában üres.",
+                "ro": "Parcarea este de obicei goală iarna.",
+                "en": "The parking lot is usually empty in winter."
+              }
+            },
+            {
+              "name": "Galambsziget (Taubeninsel)",
+              "tip_5lang": {
+                "de": "Ein kurzer, knackiger Winterspaziergang.",
+                "hu": "Egy rövid, frissítő téli séta a szigeten.",
+                "ro": "O plimbare scurtă și revigorantă de iarnă.",
+                "en": "A short, crisp winter walk on the island."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in dieser Region Pflicht.",
+              "Achten Sie auf gefrorenes Wasser auf der Straße.",
+              "Parkuhren könnten vereist sein.",
+              "Nutzen Sie die Standheizung, falls vorhanden."
+            ],
+            "hu": [
+              "A téli gumi kötelező a biztonsághoz.",
+              "Ügyeljen a lefagyott útszakaszokra a part közelében.",
+              "A parkolóautomaták befagyhatnak.",
+              "Használja az ablakfűtést a pára ellen."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii.",
+              "Atenție la porțiunile înghețate de lângă apă.",
+              "Automatele de parcare pot fi înghețate.",
+              "Folosiți degivrarea pentru parbriz."
+            ],
+            "en": [
+              "Winter tires are mandatory for safety.",
+              "Watch out for frozen patches near the water.",
+              "Parking meters might be frozen.",
+              "Use your car's defrost settings regularly."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1443,6 +2079,224 @@
           "The promenade and Pigeon Island are strategically located very close to the train station.",
           "You won't need a car at all, as every major sight is within walking distance or a short bus ride."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit Bus und Bahn ist man in Földvár auch bei Regen flexibel. Wir starten an der Kirche und nutzen den Bus zum Schifffahrtszentrum. Mittags erkunden wir das Kulipintyó. Nachmittags spazieren wir kurz über die Promenade und den Hafen, bevor wir von der nahen Haltestelle wieder im Trockenen abfahren.",
+            "hu": "Tömegközlekedéssel esőben is rugalmasan bejárható Földvár. A templomnál kezdünk, majd busszal megyünk a látogatóközpontig. Délben a Kulipintyót nézzük meg. Délután rövid sétát teszünk a sétányon és a kikötőben, végül a közeli megállóból indulunk haza szárazon.",
+            "ro": "Cu transportul public, Földvár este accesibil chiar și pe ploaie. Începem la biserică și luăm autobuzul spre centrul de navigație. La prânz vizităm Kulipintyó. După-amiaza facem o scurtă plimbare în port, apoi plecăm din stația apropiată spre casă.",
+            "en": "With public transport, Földvár remains flexible even in the rain. We start at the church and take the bus to the visitor center. At noon, we explore Kulipintyó. In the afternoon, we take a short walk at the promenade and the harbor, leaving from the nearby stop to stay dry."
+          },
+          "stops": [
+            {
+              "name": "Hl. Kreuz Kirche",
+              "tip_5lang": {
+                "de": "Bushaltestelle ist in Gehweite.",
+                "hu": "A buszmegálló sétatávolságra van.",
+                "ro": "Stația de autobuz este foarte aproape.",
+                "en": "The bus stop is within walking distance."
+              }
+            },
+            {
+              "name": "Jubiläumspark",
+              "tip_5lang": {
+                "de": "Unterstände an den Haltestellen nutzen.",
+                "hu": "Használja a megálló fedett váróit.",
+                "ro": "Folosiți refugiile din stații.",
+                "en": "Use the sheltered bus stops."
+              }
+            },
+            {
+              "name": "Besucherzentrum für Schifffahrtsgeschichte",
+              "tip_5lang": {
+                "de": "Gute Busanbindung vom Zentrum.",
+                "hu": "Jó buszközlekedés a központ felől.",
+                "ro": "Conexiune bună de autobuz din centru.",
+                "en": "Good bus connection from the center."
+              }
+            },
+            {
+              "name": "Sternwarten-Hügel (Hajózástörténeti Kilátó)",
+              "tip_5lang": {
+                "de": "Der Fußweg vom Bus ist kurz.",
+                "hu": "A busztól csak rövid séta a domb.",
+                "ro": "O scurtă plimbare de la autobuz.",
+                "en": "A short walk from the bus stop."
+              }
+            },
+            {
+              "name": "Kulipintyó",
+              "tip_5lang": {
+                "de": "Kurzer Weg zur nächsten Haltestelle.",
+                "hu": "Rövid út a következő megállóig.",
+                "ro": "Drum scurt până la următoarea stație.",
+                "en": "Short distance to the next stop."
+              }
+            },
+            {
+              "name": "Kvassay-Promenade",
+              "tip_5lang": {
+                "de": "Zugang über die Hauptstraße mit dem Bus.",
+                "hu": "Megközelíthető a főúti buszjáratokkal.",
+                "ro": "Accesibil cu liniile de pe drumul principal.",
+                "en": "Accessible via bus lines on the main road."
+              }
+            },
+            {
+              "name": "Yacht-Hafen",
+              "tip_5lang": {
+                "de": "Bahnhof Földvár ist nicht weit weg.",
+                "hu": "A földvári vasútállomás közel van.",
+                "ro": "Gara din Földvár este aproape.",
+                "en": "Földvár train station is not far away."
+              }
+            },
+            {
+              "name": "Galambsziget (Taubeninsel)",
+              "tip_5lang": {
+                "de": "Letzter Stopp vor der Rückreise mit dem Zug.",
+                "hu": "Utolsó megálló a vonatos hazatérés előtt.",
+                "ro": "Ultima oprire înainte de plecarea cu trenul.",
+                "en": "Last stop before returning by train."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Fahrplan der Volán-Busse.",
+              "Nutzen Sie die Bahnstation für die Anreise.",
+              "Haltestellen bieten Schutz bei Schauern.",
+              "Ein Regencape ist praktischer als ein Schirm."
+            ],
+            "hu": [
+              "Ellenőrizze a Volánbusz menetrendjét.",
+              "Használja a vasútállomást az érkezéshez.",
+              "A megállók fedettek, védnek az esőtől.",
+              "Az esőkabát praktikusabb a tömegközlekedésen."
+            ],
+            "ro": [
+              "Verificați orarul autobuzelor Volán.",
+              "Folosiți gara pentru sosire.",
+              "Stațiile oferă protecție contra ploii.",
+              "O pelerină e mai practică decât umbrela."
+            ],
+            "en": [
+              "Check the Volánbusz schedule online.",
+              "Use the train station for your arrival.",
+              "Bus stops provide shelter during showers.",
+              "A raincoat is more practical than an umbrella."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliche Stille in Földvár lässt sich gut mit dem Transit erleben. Wir besuchen die Kirche und fahren dann zum warmen Schifffahrtszentrum. Mittags geht es zum Kulipintyó. Den Nachmittag verbringen wir an der Promenade, bevor wir den Tag im Hafen abschließen und mit dem warmen Zug oder Bus zurückfahren.",
+            "hu": "A téli nyugalom Földváron tömegközlekedéssel is átélhető. A templom után a fűtött látogatóközpontba megyünk. Délben a Kulipintyót keressük fel. A délutánt a sétányon töltjük, majd a kikötői séta után a meleg vonattal vagy busszal utazunk haza.",
+            "ro": "Liniștea de iarnă din Földvár poate fi trăită cu transportul public. Vizităm biserica, apoi mergem la centrul de navigație încălzit. La prânz mergem la Kulipintyó. După-amiaza suntem pe faleză, apoi plecăm cu trenul sau autobuzul.",
+            "en": "Winter peace in Földvár is easily experienced with transit. After the church, we head to the warm visitor center. At noon, we visit Kulipintyó. The afternoon is spent on the promenade, finishing at the harbor before taking the warm train or bus back."
+          },
+          "stops": [
+            {
+              "name": "Hl. Kreuz Kirche",
+              "tip_5lang": {
+                "de": "Warme Kleidung für das Warten nötig.",
+                "hu": "Meleg ruha kell a várakozáshoz.",
+                "ro": "Haine groase necesare pentru așteptare.",
+                "en": "Warm clothing needed for waiting."
+              }
+            },
+            {
+              "name": "Jubiläumspark",
+              "tip_5lang": {
+                "de": "Kurzer Spaziergang zwischen den Bussen.",
+                "hu": "Rövid séta a buszjáratok között.",
+                "ro": "Scurtă plimbare între autobuze.",
+                "en": "Short walk between bus connections."
+              }
+            },
+            {
+              "name": "Besucherzentrum für Schifffahrtsgeschichte",
+              "tip_5lang": {
+                "de": "Der perfekte Ort zum Aufwärmen.",
+                "hu": "A tökéletes hely a bemelegedésre.",
+                "ro": "Locul perfect pentru a vă încălzi.",
+                "en": "The perfect place to warm up."
+              }
+            },
+            {
+              "name": "Sternwarten-Hügel (Hajózástörténeti Kilátó)",
+              "tip_5lang": {
+                "de": "Windfeste Kleidung für den Weg.",
+                "hu": "Szélálló öltözet az idevezető úton.",
+                "ro": "Haine rezistente la vânt pentru drum.",
+                "en": "Windproof clothing for the walk here."
+              }
+            },
+            {
+              "name": "Kulipintyó",
+              "tip_5lang": {
+                "de": "Nahe zur Haltestelle im Ortszentrum.",
+                "hu": "Közel van a központi buszmegállóhoz.",
+                "ro": "Aproape de stația centrală de autobuz.",
+                "en": "Close to the central bus stop."
+              }
+            },
+            {
+              "name": "Kvassay-Promenade",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem Weg vom Bus zum See.",
+                "hu": "Vigyázzon a jégre a busztól a tóig.",
+                "ro": "Atenție la gheață pe drumul spre lac.",
+                "en": "Watch for ice on the way to the lake."
+              }
+            },
+            {
+              "name": "Yacht-Hafen",
+              "tip_5lang": {
+                "de": "Bahnhofsnähe ist im Winter ein Plus.",
+                "hu": "Az állomás közelsége télen előny.",
+                "ro": "Proximitatea gării este un avantaj iarna.",
+                "en": "The proximity of the station is a plus."
+              }
+            },
+            {
+              "name": "Galambsziget (Taubeninsel)",
+              "tip_5lang": {
+                "de": "Abschluss vor der Abfahrt im Dunkeln.",
+                "hu": "Befejezés a sötétedés előtti indulásig.",
+                "ro": "Finalizați înainte de plecarea pe seară.",
+                "en": "Finish up before the evening departure."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterfahrplan kann seltener sein.",
+              "Nutzen Sie die Wartehallen an den Bahnhöfen.",
+              "Planen Sie Pufferzeiten für Verspätungen ein.",
+              "Warme Getränke für unterwegs mitnehmen."
+            ],
+            "hu": [
+              "A téli menetrend ritkább lehet.",
+              "Használja a vasútállomás várótermét.",
+              "Számoljon a késések lehetőségével.",
+              "Vigyen magával meleg italt a várakozáshoz."
+            ],
+            "ro": [
+              "Orarul de iarnă poate fi mai rar.",
+              "Folosiți sălile de așteptare din gări.",
+              "Luați în calcul posibilele întârzieri.",
+              "Luați băuturi calde pentru drum."
+            ],
+            "en": [
+              "Winter schedules might be less frequent.",
+              "Use the waiting rooms at the stations.",
+              "Allow for extra time due to delays.",
+              "Carry warm drinks for the waiting times."
+            ]
+          }
+        }
       }
     }
   }

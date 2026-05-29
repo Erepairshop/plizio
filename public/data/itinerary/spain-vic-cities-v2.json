@@ -346,6 +346,206 @@
           "Many shops close for the afternoon siesta, so plan accordingly.",
           "Look out for the sgraffito decorations on many building facades."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bieten die Arkaden der Plaça Major perfekten Schutz vor dem Regen. Mittags verbringen wir viel Zeit im trockenen Dom und dem Episcopalen Museum. Nachmittags erkunden wir den römischen Tempel und das Lederkunstmuseum im Innenbereich. Abends genießen wir die Atmosphäre der nassen mittelalterlichen Gassen unter einem Regenschirm.",
+            "hu": "Reggel a Plaça Major árkádjai alatt kezdünk, ahol az eső elől a fedett folyosókra húzódhatunk. Délben a katedrális és a Püspöki Múzeum belső tereiben kalandozunk szárazon. Délután a római templom és a Bőrművészeti Múzeum kínál kulturális menedéket. Este az esőtől csillogó középkori utcákon sétálunk vissza a főtérre.",
+            "ro": "Dimineața, arcadele din Plaça Major oferă adăpost ideal împotriva ploii. La prânz, explorăm interiorul uscat al Catedralei și al Muzeului Episcopal. După-amiaza vizităm Templul Roman și Muzeul de Artă în Piele, ambele la interior. Seara ne plimbăm cu umbrela pe străzile medievale care strălucesc sub ploaie.",
+            "en": "In the morning, the porticos of Plaça Major provide perfect shelter from the rain. At noon, we spend time indoors at the Cathedral and the Episcopal Museum. In the afternoon, the Roman Temple and Leather Art Museum offer dry cultural stops. In the evening, we walk through the glistening medieval streets back to the center."
+          },
+          "stops": [
+            {
+              "name": "Plaça Major (Main Square)",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden, um trocken zu bleiben.",
+                "hu": "Használja az árkádokat, hogy száraz maradjon.",
+                "ro": "Folosiți arcadele pentru a rămâne uscați.",
+                "en": "Use the porticos to stay dry while exploring."
+              }
+            },
+            {
+              "name": "Vic Cathedral",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Wandgemälde im Trockenen zu bewundern.",
+                "hu": "Ideális hely a falfestmények megcsodálására szárazon.",
+                "ro": "Un loc ideal pentru a admira picturile la adăpost.",
+                "en": "A great place to admire murals while avoiding rain."
+              }
+            },
+            {
+              "name": "Episcopal Museum of Vic",
+              "tip_5lang": {
+                "de": "Perfektes Indoor-Programm für Regentage.",
+                "hu": "Tökéletes beltéri program esős napokra.",
+                "ro": "Program interior perfect pentru zilele ploioase.",
+                "en": "Perfect indoor activity for rainy days."
+              }
+            },
+            {
+              "name": "Roman Temple",
+              "tip_5lang": {
+                "de": "Kurzer Stopp, der Portikus bietet etwas Schutz.",
+                "hu": "Rövid megálló, az oszlopcsarnok némi védelmet ad.",
+                "ro": "Oprire scurtă, porticul oferă puțin adăpost.",
+                "en": "Short stop, the portico offers some shelter."
+              }
+            },
+            {
+              "name": "Leather Art Museum",
+              "tip_5lang": {
+                "de": "Spannende Ausstellungen in gemütlicher, trockener Umgebung.",
+                "hu": "Izgalmas kiállítások barátságos, száraz környezetben.",
+                "ro": "Expoziții interesante într-un mediu cald și uscat.",
+                "en": "Intriguing exhibits in a cozy, dry environment."
+              }
+            },
+            {
+              "name": "Queralt Bridge",
+              "tip_5lang": {
+                "de": "Vorsicht, das mittelalterliche Pflaster ist bei Nässe rutschig.",
+                "hu": "Vigyázat, a középkori kövezet vizesen csúszik.",
+                "ro": "Atenție, pavajul medieval este alunecos pe ploaie.",
+                "en": "Caution, the medieval stones are slippery when wet."
+              }
+            },
+            {
+              "name": "Vic City Walls",
+              "tip_5lang": {
+                "de": "Schneller Blick von oben, dann zurück ins Trockene.",
+                "hu": "Gyors kilátás a falakról, majd irány a fedett rész.",
+                "ro": "Vedere rapidă de sus, apoi înapoi la adăpost.",
+                "en": "Quick view from the walls, then head back to cover."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nehmen Sie einen stabilen Regenschirm mit.",
+              "Die mittelalterlichen Steine werden sehr rutschig.",
+              "Nutzen Sie die Cafés unter den Arkaden.",
+              "Planen Sie mehr Zeit für die Museen ein."
+            ],
+            "hu": [
+              "Vigyél magaddal strapabíró esernyőt.",
+              "A középkori macskakő nagyon csúszik esőben.",
+              "Használd ki az árkádok alatti kávézókat.",
+              "Tölts több időt a fűtött múzeumokban."
+            ],
+            "ro": [
+              "Luați o umbrelă rezistentă la vânt.",
+              "Piatra cubică medievală devine foarte alunecoasă.",
+              "Profitați de cafenelele de sub arcade.",
+              "Alocați mai mult timp muzeelor la interior."
+            ],
+            "en": [
+              "Bring a sturdy umbrella for the wind.",
+              "The medieval cobblestones get very slippery.",
+              "Take advantage of the cafes under the porticos.",
+              "Plan for longer stays in the museums."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens liegt oft Nebel über Vic, was dem Hauptplatz eine mystische Aura verleiht. Mittags wärmen wir uns in der Kathedrale und den gut beheizten Museen auf. Nachmittags erkunden wir den römischen Tempel in der klaren Winterluft. Abends bewundern wir die Stadtmauer im frühen Sonnenuntergang, bevor wir uns in ein gemütliches Restaurant zurückziehen.",
+            "hu": "Reggel gyakran köd üli meg a várost, misztikus hangulatot adva a főtérnek. Délben a katedrálisban és a jól fűtött múzeumokban melegedünk fel. Délután a római templomot fedezzük fel a friss téli levegőn. Este a városfalaknál nézzük a korai naplementét, majd egy hangulatos étteremben vacsorázunk.",
+            "ro": "Dimineața, ceața acoperă adesea orașul, oferind o aură mistică pieței centrale. La prânz ne încălzim în Catedrală și în muzeele bine încălzite. După-amiaza explorăm Templul Roman în aerul curat de iarnă. Seara admirăm zidurile cetății la apusul devreme, înainte de a merge la un restaurant primitor.",
+            "en": "In the morning, fog often blankets Vic, giving the square a mystic aura. At noon, we warm up in the Cathedral and well-heated museums. In the afternoon, we explore the Roman Temple in the crisp winter air. In the evening, we catch the early sunset at the city walls before heading to a cozy restaurant."
+          },
+          "stops": [
+            {
+              "name": "Plaça Major (Main Square)",
+              "tip_5lang": {
+                "de": "Probieren Sie heiße Schokolade in den Cafés.",
+                "hu": "Kóstolja meg a forró csokoládét a kávézókban.",
+                "ro": "Gustați o ciocolată caldă în cafenele.",
+                "en": "Try some hot chocolate in the local cafes."
+              }
+            },
+            {
+              "name": "Vic Cathedral",
+              "tip_5lang": {
+                "de": "Große Innenräume können kühl sein, Jacke anlassen.",
+                "hu": "A nagy belső terek hűvösek lehetnek, maradjon kabátban.",
+                "ro": "Interioarele mari pot fi reci, păstrați haina.",
+                "en": "Large interiors can be chilly, keep your coat on."
+              }
+            },
+            {
+              "name": "Episcopal Museum of Vic",
+              "tip_5lang": {
+                "de": "Bestens beheizt und voller romanischer Schätze.",
+                "hu": "Kiválóan fűtött, tele románkori kincsekkel.",
+                "ro": "Bine încălzit și plin de comori romanice.",
+                "en": "Well-heated and full of Romanesque treasures."
+              }
+            },
+            {
+              "name": "Roman Temple",
+              "tip_5lang": {
+                "de": "Das Winterlicht eignet sich hervorragend für Fotos.",
+                "hu": "A téli fények kiválóak a fotózáshoz.",
+                "ro": "Lumina de iarnă este excelentă pentru fotografii.",
+                "en": "Winter light is excellent for photography here."
+              }
+            },
+            {
+              "name": "Leather Art Museum",
+              "tip_5lang": {
+                "de": "Ein warmer Rückzugsort mit faszinierender Kunst.",
+                "hu": "Meleg menedék lenyűgöző művészeti alkotásokkal.",
+                "ro": "Un refugiu cald cu artă fascinantă.",
+                "en": "A warm retreat with fascinating art pieces."
+              }
+            },
+            {
+              "name": "Queralt Bridge",
+              "tip_5lang": {
+                "de": "Mystische Aussicht im Winternebel.",
+                "hu": "Misztikus kilátás a téli ködben.",
+                "ro": "Vedere mistică în ceața de iarnă.",
+                "en": "Mystic views in the winter fog."
+              }
+            },
+            {
+              "name": "Vic City Walls",
+              "tip_5lang": {
+                "de": "Seien Sie vor 17:30 Uhr hier für den Sonnenuntergang.",
+                "hu": "Érkezzen 17:30 előtt a naplemente miatt.",
+                "ro": "Sosiți înainte de 17:30 pentru apus.",
+                "en": "Be here before 17:30 to catch the sunset."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie warme Schichten, es ist oft neblig.",
+              "Die Sonne geht gegen 17:30 Uhr unter.",
+              "Probieren Sie den lokalen 'Fuet' in der Markthalle.",
+              "Die Museen sind die besten Orte zum Aufwärmen."
+            ],
+            "hu": [
+              "Öltözzön rétegesen, gyakori a hideg köd.",
+              "A nap korán, 17:30 körül nyugszik.",
+              "Kóstolja meg a helyi fuet kolbászt.",
+              "A múzeumok a legjobb helyek a felmelegedésre."
+            ],
+            "ro": [
+              "Purtați haine groase, ceața este frecventă.",
+              "Soarele apune devreme, în jur de 17:30.",
+              "Gustați faimosul 'Fuet' local.",
+              "Muzeele sunt cele mai bune locuri pentru încălzire."
+            ],
+            "en": [
+              "Wear warm layers, fog is common and cold.",
+              "The sun sets early, around 17:30.",
+              "Taste the local 'Fuet' sausage at the market.",
+              "Museums are the best spots to warm up."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -710,6 +910,224 @@
           "Bring a good lock to secure your bike while you explore sights.",
           "Be mindful of pedestrians in the narrow streets of the old town."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens radeln wir vorsichtig über die nassen Plätze. Mittags parken wir die Räder für ausgiebige Museumsbesuche im Trockenen. Nachmittags führt die Tour zur Queralt-Brücke, wobei wir auf Pfützen achten. Abends beenden wir die Fahrt am Lederkunstmuseum und suchen Schutz in einem nahen Bistro.",
+            "hu": "Reggel óvatosan tekerünk át a vizes tereken. Délben lezárjuk a bringákat a hosszas, száraz múzeumi látogatásokhoz. Délután a Queralt-híd felé vesszük az irányt, kerülgetve a tócsákat. Este a Bőrművészeti Múzeumnál fejezzük be a túrát, és egy közeli bisztróban keresünk menedéket.",
+            "ro": "Dimineața pedalăm cu grijă prin piețele ude. La prânz parcăm bicicletele pentru vizite lungi la muzee, la adăpost. După-amiaza turul continuă spre podul Queralt, evitând bălțile. Seara încheiem traseul la Muzeul de Artă în Piele și căutăm adăpost într-un bistro.",
+            "en": "In the morning, we cycle carefully across the wet squares. At noon, we park the bikes for extensive indoor museum visits. In the afternoon, the route leads to Queralt Bridge, watching out for puddles. In the evening, we finish at the Leather Art Museum and find shelter in a nearby bistro."
+          },
+          "stops": [
+            {
+              "name": "Plaça Major (Main Square)",
+              "tip_5lang": {
+                "de": "Vorsicht beim Bremsen auf nassem Kopfsteinpflaster.",
+                "hu": "Vigyázzon a fékezéssel a vizes macskakövön.",
+                "ro": "Atenție la frânare pe pavajul ud.",
+                "en": "Be careful when braking on wet cobblestones."
+              }
+            },
+            {
+              "name": "Queralt Bridge",
+              "tip_5lang": {
+                "de": "Steigen Sie bei starkem Regen lieber ab.",
+                "hu": "Erős esőben érdemesebb leszállni a nyeregből.",
+                "ro": "E mai sigur să coborâți de pe bicicletă pe ploaie.",
+                "en": "Better to dismount if the rain is heavy."
+              }
+            },
+            {
+              "name": "Roman Temple",
+              "tip_5lang": {
+                "de": "Suchen Sie unter dem Vordach kurz Schutz.",
+                "hu": "Keressen rövid menedéket az előtető alatt.",
+                "ro": "Căutați un scurt adăpost sub cornișă.",
+                "en": "Find brief shelter under the overhang."
+              }
+            },
+            {
+              "name": "Vic Cathedral",
+              "tip_5lang": {
+                "de": "Fahrradständer befinden sich in der Nähe des Eingangs.",
+                "hu": "Kerékpártárolók a bejárat közelében találhatók.",
+                "ro": "Suporturile de bicicletă sunt lângă intrare.",
+                "en": "Bike racks are located near the entrance."
+              }
+            },
+            {
+              "name": "Episcopal Museum of Vic",
+              "tip_5lang": {
+                "de": "Ein langer Stopp hilft, die Kleidung zu trocknen.",
+                "hu": "A hosszú megálló segít megszárítani a ruhákat.",
+                "ro": "O oprire lungă ajută la uscarea hainelor.",
+                "en": "A long stop helps your gear dry out."
+              }
+            },
+            {
+              "name": "Church of Sant Felip",
+              "tip_5lang": {
+                "de": "Ruhiger Ort für eine kurze Regenpause.",
+                "hu": "Csendes hely egy rövid esőszünetre.",
+                "ro": "Loc liniștit pentru o scurtă pauză de ploaie.",
+                "en": "Quiet spot for a short rain break."
+              }
+            },
+            {
+              "name": "Vic City Walls",
+              "tip_5lang": {
+                "de": "Die Auffahrt kann bei Nässe rutschig sein.",
+                "hu": "A felfelé vezető út csúszós lehet vizesen.",
+                "ro": "Urcarea poate fi alunecoasă pe timp de ploaie.",
+                "en": "The climb up can be slippery when wet."
+              }
+            },
+            {
+              "name": "Leather Art Museum",
+              "tip_5lang": {
+                "de": "Sicherer Abstellplatz für das Tourende.",
+                "hu": "Biztonságos tárolóhely a túra végén.",
+                "ro": "Loc sigur de parcare la finalul traseului.",
+                "en": "Safe parking spot for the end of the tour."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind bei diesem Wetter Pflicht.",
+              "Vermeiden Sie schnelle Kurven auf Pflasterstein.",
+              "Tragen Sie eine vollflächige Regenjacke.",
+              "Nutzen Sie Fahrradständer mit Überdachung."
+            ],
+            "hu": [
+              "A sárvédő kötelező ilyen időben.",
+              "Kerülje a hirtelen kanyarodást a kövön.",
+              "Viseljen teljes vízhatlan ruházatot.",
+              "Keresse a fedett kerékpártárolókat."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt obligatorii.",
+              "Evitați virajele bruște pe piatră cubică.",
+              "Purtați o jachetă de ploaie completă.",
+              "Căutați rastele de biciclete acoperite."
+            ],
+            "en": [
+              "Mudguards are essential in this weather.",
+              "Avoid sharp turns on cobblestones.",
+              "Wear a full waterproof rain jacket.",
+              "Look for covered bike parking areas."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens radeln wir durch die frische, neblige Luft von Vic. Mittags ist das Episcopal Museum die perfekte Aufwärmstation. Nachmittags besuchen wir die Stadtmauer im goldenen Winterlicht. Abends beenden wir die Tour zügig vor dem Temperatursturz nach Sonnenuntergang.",
+            "hu": "Reggel a friss, ködös levegőben tekerünk át Vicen. Délben a Püspöki Múzeum a tökéletes melegedőhely. Délután a városfalakat látogatjuk meg az aranyló téli fényben. Este gyorsan befejezzük a túrát, mielőtt a hőmérséklet hirtelen leesne napnyugta után.",
+            "ro": "Dimineața pedalăm prin aerul proaspăt și lăptos al Vic-ului. La prânz, Muzeul Episcopal este locul perfect de încălzire. După-amiaza vizităm zidurile cetății în lumina aurie de iarnă. Seara încheiem rapid turul înainte de scăderea temperaturii.",
+            "en": "In the morning, we cycle through the fresh, misty air of Vic. At noon, the Episcopal Museum is the perfect warming station. In the afternoon, we visit the city walls in the golden winter light. In the evening, we finish the tour quickly before the temperature drops after sunset."
+          },
+          "stops": [
+            {
+              "name": "Plaça Major (Main Square)",
+              "tip_5lang": {
+                "de": "Tragen Sie Handschuhe, der Fahrtwind ist kalt.",
+                "hu": "Viseljen kesztyűt, a menetszél hideg.",
+                "ro": "Purtați mănuși, vântul la pedalat este rece.",
+                "en": "Wear gloves, the wind chill is significant."
+              }
+            },
+            {
+              "name": "Queralt Bridge",
+              "tip_5lang": {
+                "de": "Schöne Aussicht auf den winterlichen Fluss.",
+                "hu": "Szép kilátás a télies folyóra.",
+                "ro": "Vedere frumoasă spre râul de iarnă.",
+                "en": "Beautiful views of the wintry river."
+              }
+            },
+            {
+              "name": "Roman Temple",
+              "tip_5lang": {
+                "de": "Klare Sicht für Architekturdetails.",
+                "hu": "Tiszta látási viszonyok az építészeti részletekhez.",
+                "ro": "Vizibilitate clară pentru detaliile arhitecturale.",
+                "en": "Clear visibility for architectural details."
+              }
+            },
+            {
+              "name": "Vic Cathedral",
+              "tip_5lang": {
+                "de": "Kurze Pause zum Händeaufwärmen.",
+                "hu": "Rövid szünet a kezek felmelegítésére.",
+                "ro": "Scurtă pauză pentru încălzirea mâinilor.",
+                "en": "Short break to warm up your hands."
+              }
+            },
+            {
+              "name": "Episcopal Museum of Vic",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe für Ihre Winterkleidung.",
+                "hu": "Használja a ruhatárat a téli ruhákhoz.",
+                "ro": "Folosiți garderoba pentru hainele groase.",
+                "en": "Use the cloakroom for your winter gear."
+              }
+            },
+            {
+              "name": "Church of Sant Felip",
+              "tip_5lang": {
+                "de": "Ruhiger, windgeschützter Stopp.",
+                "hu": "Csendes, szélvédett megálló.",
+                "ro": "Oprire liniștită, ferită de vânt.",
+                "en": "Quiet, wind-sheltered stop."
+              }
+            },
+            {
+              "name": "Vic City Walls",
+              "tip_5lang": {
+                "de": "Bester Spot für das letzte Tageslicht.",
+                "hu": "A legjobb hely az utolsó nappali fényekhez.",
+                "ro": "Cel mai bun loc pentru ultima lumină a zilei.",
+                "en": "Best spot for the last daylight."
+              }
+            },
+            {
+              "name": "Leather Art Museum",
+              "tip_5lang": {
+                "de": "Warmer Abschluss der Radtour.",
+                "hu": "A kerékpártúra meleg lezárása.",
+                "ro": "Final cald al turului pe bicicletă.",
+                "en": "Warm conclusion to the bike tour."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Beleuchtung für den frühen Abend.",
+              "Tragen Sie Thermokleidung unter der Jacke.",
+              "Vorsicht vor Reif auf Holzbrücken.",
+              "Halten Sie sich mit warmen Getränken fit."
+            ],
+            "hu": [
+              "Ellenőrizze a világítást a korai sötétedés miatt.",
+              "Viseljen termaruházatot a kabát alatt.",
+              "Vigyázzon a dérre a fahidat keresztezve.",
+              "Meleg italokkal tartsa magát frissen."
+            ],
+            "ro": [
+              "Verificați luminile pentru seara devreme.",
+              "Purtați haine termice sub jachetă.",
+              "Atenție la polei pe podurile de lemn.",
+              "Hidratați-vă cu băuturi calde."
+            ],
+            "en": [
+              "Check your lights for the early dusk.",
+              "Wear thermal layers under your jacket.",
+              "Watch out for frost on wooden bridges.",
+              "Stay energized with warm drinks."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1026,6 +1444,188 @@
           "Plan your clusters in advance to avoid unnecessary driving.",
           "Be aware of one-way streets in the historic center."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens parken wir am Stadtrand und nutzen den Schirm für den Weg zur Stadtmauer. Mittags konzentrieren wir uns auf den historischen Kern mit Kathedrale und Museum. Nachmittags besichtigen wir den römischen Tempel und die Queralt-Brücke zwischen den Schauern. Abends fahren wir bequem im trockenen Auto zum Abendessen.",
+            "hu": "Reggel a városszélén parkolunk, és esernyővel indulunk a városfalakhoz. Délben a történelmi magra koncentrálunk: katedrális és múzeum. Délután a római templomot és a Queralt-hidat nézzük meg két zápor között. Este kényelmesen, a száraz autóval hajtunk az étteremhez.",
+            "ro": "Dimineața parcăm la periferie și folosim umbrela spre zidurile cetății. La prânz ne concentrăm pe centrul istoric: Catedrala și Muzeul. După-amiaza vizităm Templul Roman și Podul Queralt între averse. Seara mergem confortabil cu mașina spre cină.",
+            "en": "In the morning, we park on the outskirts and use umbrellas to reach the walls. At noon, we focus on the historic core: Cathedral and Museum. In the afternoon, we visit the Roman Temple and Queralt Bridge between showers. In the evening, we drive comfortably in the dry car to dinner."
+          },
+          "stops": [
+            {
+              "name": "Parking on the outskirts",
+              "tip_5lang": {
+                "de": "Halten Sie den Regenschirm griffbereit.",
+                "hu": "Tartsa kéznél az esernyőt.",
+                "ro": "Țineți umbrela la îndemână.",
+                "en": "Keep your umbrella ready when exiting."
+              }
+            },
+            {
+              "name": "Vic City Walls",
+              "tip_5lang": {
+                "de": "Kurzer, windiger Spaziergang im Regen.",
+                "hu": "Rövid, szeles séta az esőben.",
+                "ro": "Scurtă plimbare vântoasă prin ploaie.",
+                "en": "Short, windy walk in the rain."
+              }
+            },
+            {
+              "name": "Plaça Major (Main Square)",
+              "tip_5lang": {
+                "de": "Parken Sie idealerweise in einer Tiefgarage.",
+                "hu": "Lehetőleg keressen földalatti parkolót.",
+                "ro": "Căutați parcare subterană dacă e posibil.",
+                "en": "Look for underground parking if available."
+              }
+            },
+            {
+              "name": "Central Historic Cluster",
+              "tip_5lang": {
+                "de": "Zentraler Absetzpunkt für kurze Wege.",
+                "hu": "Központi kiszállási pont a rövid sétákhoz.",
+                "ro": "Punct central de coborâre pentru trasee scurte.",
+                "en": "Central drop-off point for short walks."
+              }
+            },
+            {
+              "name": "Cathedral & Episcopal Museum",
+              "tip_5lang": {
+                "de": "Das Auto kann während des Besuchs sicher parken.",
+                "hu": "Az autó biztonságban parkolhat a látogatás alatt.",
+                "ro": "Mașina poate rămâne în siguranță pe durata vizitei.",
+                "en": "The car can stay parked safely during the visit."
+              }
+            },
+            {
+              "name": "Queralt Bridge & Roman Temple",
+              "tip_5lang": {
+                "de": "Schnelle Fotostopps zwischen Regentropfen.",
+                "hu": "Gyors fotómegállók az esőcseppek között.",
+                "ro": "Opriri foto rapide între picăturile de ploaie.",
+                "en": "Quick photo stops between raindrops."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie überdachte Parkhäuser im Zentrum.",
+              "Vermeiden Sie überschwemmte Zufahrtsstraßen.",
+              "Lassen Sie nasse Schirme im Kofferraum.",
+              "Die Hauptmuseen haben nahegelegene Parkplätze."
+            ],
+            "hu": [
+              "Használja a központi fedett parkolóházakat.",
+              "Kerülje a vízátfolyásos mellékutakat.",
+              "A vizes ernyőket a csomagtartóban tárolja.",
+              "A fő múzeumok közelében van parkolási lehetőség."
+            ],
+            "ro": [
+              "Folosiți parcările acoperite din centru.",
+              "Evitați drumurile secundare inundate.",
+              "Lăsați umbrelele ude în portbagaj.",
+              "Muzeele principale au parcări în apropiere."
+            ],
+            "en": [
+              "Use covered parking garages in the center.",
+              "Avoid side roads with deep puddles.",
+              "Store wet umbrellas in the trunk.",
+              "Main museums have parking lots nearby."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens erreichen wir das neblige Vic bequem im beheizten Auto. Mittags ist der Aufenthalt im Museumsquartier der warme Höhepunkt. Nachmittags erkunden wir den römischen Tempel in der klaren Kälte. Abends genießen wir die Fahrt durch das beleuchtete, winterliche Vic.",
+            "hu": "Reggel a ködös Vicet kényelmesen, a fűtött autóval érjük el. Délben a múzeumi negyed látogatása a nap meleg fénypontja. Délután a római templomot fedezzük fel a tiszta hidegben. Este az autóval bejárjuk a kivilágított, télies várost.",
+            "ro": "Dimineața ajungem în Vic-ul cetos confortabil, cu mașina încălzită. La prânz, vizita în cartierul muzeelor este punctul cald al zilei. După-amiaza explorăm Templul Roman în frigul curat. Seara ne bucurăm de o plimbare cu mașina prin orașul iluminat.",
+            "en": "In the morning, we reach misty Vic comfortably in a heated car. At noon, staying in the museum quarter is the warm highlight. In the afternoon, we explore the Roman Temple in the clear cold. In the evening, we drive through the illuminated, wintry Vic."
+          },
+          "stops": [
+            {
+              "name": "Parking on the outskirts",
+              "tip_5lang": {
+                "de": "Vorsicht bei möglichem Glatteis am Morgen.",
+                "hu": "Vigyázzon az esetleges reggeli jegesedésre.",
+                "ro": "Atenție la posibila polei dimineața.",
+                "en": "Watch out for possible black ice in the morning."
+              }
+            },
+            {
+              "name": "Vic City Walls",
+              "tip_5lang": {
+                "de": "Klarer Weitblick über die Osona-Ebene.",
+                "hu": "Tiszta kilátás az Osona-síkságra.",
+                "ro": "Vedere clară spre câmpia Osona.",
+                "en": "Clear views over the Osona plain."
+              }
+            },
+            {
+              "name": "Plaça Major (Main Square)",
+              "tip_5lang": {
+                "de": "Ein kurzer Gang zum warmen Kaffee ist nötig.",
+                "hu": "Egy rövid séta szükséges egy meleg kávéhoz.",
+                "ro": "O scurtă plimbare este necesară pentru o cafea.",
+                "en": "A short walk is needed to reach a warm cafe."
+              }
+            },
+            {
+              "name": "Central Historic Cluster",
+              "tip_5lang": {
+                "de": "Kurze Wege minimieren die Kälteexposition.",
+                "hu": "A rövid utak minimalizálják a hideget.",
+                "ro": "Traseele scurte minimizează expunerea la frig.",
+                "en": "Short routes minimize exposure to the cold."
+              }
+            },
+            {
+              "name": "Cathedral & Episcopal Museum",
+              "tip_5lang": {
+                "de": "Langer, warmer Aufenthalt im Inneren.",
+                "hu": "Hosszú, meleg tartózkodás bent.",
+                "ro": "Ședere lungă și caldă la interior.",
+                "en": "Long, warm stay indoors."
+              }
+            },
+            {
+              "name": "Queralt Bridge & Roman Temple",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Sitzheizung nach dem Stopp.",
+                "hu": "Használja az ülésfűtést a megálló után.",
+                "ro": "Folosiți încălzirea în scaune după oprire.",
+                "en": "Use seat heating after the outdoor stop."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Nebel in der Osona-Ebene.",
+              "Die Scheiben können morgens vereist sein.",
+              "Nutzen Sie das Auto als Aufwärmstation.",
+              "Die Parkhäuser sind im Winter oft leerer."
+            ],
+            "hu": [
+              "Vigyázzon a ködre az Osona-síkságon.",
+              "A szélvédők reggel jegesek lehetnek.",
+              "Használja az autót melegedőhelyként.",
+              "A parkolóházak télen gyakran üresebbek."
+            ],
+            "ro": [
+              "Atenție la ceața din câmpia Osona.",
+              "Parbrizul poate fi înghețat dimineața.",
+              "Folosiți mașina ca punct de încălzire.",
+              "Parcările sunt adesea mai libere iarna."
+            ],
+            "en": [
+              "Watch out for thick fog in the Osona plain.",
+              "Windshields might be icy in the morning.",
+              "Use the car as a quick warming station.",
+              "Parking garages are often emptier in winter."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1318,6 +1918,170 @@
           "Check the bus schedule in advance, especially on weekends.",
           "Most central sights are easily walkable once you arrive by bus."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens kommen wir mit dem Zug an und gehen im Regen zum historischen Kern. Mittags verbringen wir die meiste Zeit in der Kathedrale und dem Museum. Nachmittags erkunden wir den römischen Tempel und die Flussfront mit dem Schirm. Abends fahren wir trocken mit dem Zug zurück.",
+            "hu": "Reggel vonattal érkezünk, és esőben sétálunk a történelmi magig. Délben az időnk nagy részét a katedrálisban és a múzeumban töltjük. Délután a római templomot és a folyópartot nézzük meg ernyővel. Este szárazon, vonattal utazunk haza.",
+            "ro": "Dimineața sosim cu trenul și mergem prin ploaie spre centrul istoric. La prânz petrecem majoritatea timpului în Catedrală și muzeu. După-amiaza explorăm Templul Roman și malul râului cu umbrela. Seara ne întoarcem cu trenul, la uscat.",
+            "en": "In the morning, we arrive by train and walk in the rain to the historic core. At noon, we spend most of our time in the Cathedral and the museum. In the afternoon, we explore the Roman Temple and the riverfront with umbrellas. In the evening, we return home dry by train."
+          },
+          "stops": [
+            {
+              "name": "Vic Train Station",
+              "tip_5lang": {
+                "de": "Warten Sie in der Bahnhofshalle, bis der Regen nachlässt.",
+                "hu": "Várjon a váróteremben, amíg csendesedik az eső.",
+                "ro": "Așteptați în gară până se domolește ploaia.",
+                "en": "Wait in the station hall for the rain to ease."
+              }
+            },
+            {
+              "name": "Historic Core (Cluster 1)",
+              "tip_5lang": {
+                "de": "Kurze Fußwege unter Arkaden nutzen.",
+                "hu": "Használja a rövid sétákat az árkádok alatt.",
+                "ro": "Folosiți traseele scurte pe sub arcade.",
+                "en": "Use short walking paths under the porticos."
+              }
+            },
+            {
+              "name": "Cathedral & Episcopal Museum",
+              "tip_5lang": {
+                "de": "Idealer Ort für eine lange Regenpause.",
+                "hu": "Ideális hely egy hosszú esőszünetre.",
+                "ro": "Loc ideal pentru o pauză lungă de ploaie.",
+                "en": "Ideal spot for a long break from the rain."
+              }
+            },
+            {
+              "name": "Plaça Major & Roman Temple",
+              "tip_5lang": {
+                "de": "Rund um den Platz gibt es viele überdachte Cafés.",
+                "hu": "A tér körül sok fedett kávézó található.",
+                "ro": "Există multe cafenele acoperite în jurul pieței.",
+                "en": "There are many covered cafes around the square."
+              }
+            },
+            {
+              "name": "Riverfront (Cluster 2)",
+              "tip_5lang": {
+                "de": "Bei starkem Regen ist dieser Stopp kurz zu halten.",
+                "hu": "Erős esőben ez a megálló legyen rövid.",
+                "ro": "Pe ploaie puternică, această oprire va fi scurtă.",
+                "en": "Keep this stop brief if the rain is heavy."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Bahnhof bietet guten Schutz vor Regen.",
+              "Prüfen Sie Busverbindungen für kurze Strecken.",
+              "Tragen Sie wasserfeste Schuhe für den Weg.",
+              "Museen sind fußläufig vom Bahnhof erreichbar."
+            ],
+            "hu": [
+              "A vasútállomás jó védelmet nyújt az eső ellen.",
+              "Nézze meg a buszmenetrendet rövid távokra.",
+              "Viseljen vízálló cipőt a sétákhoz.",
+              "A múzeumok gyalogosan elérhetők az állomástól."
+            ],
+            "ro": [
+              "Gara oferă protecție bună împotriva ploii.",
+              "Verificați autobuzele pentru distanțe scurte.",
+              "Purtați încălțăminte impermeabilă.",
+              "Muzeele sunt accesibile pe jos de la gară."
+            ],
+            "en": [
+              "The train station provides good rain shelter.",
+              "Check bus schedules for short transfers.",
+              "Wear waterproof shoes for the walks.",
+              "Museums are within walking distance of the station."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens kommen wir im nebligen Vic an und laufen zur Kathedrale. Mittags wärmen wir uns in den beeindruckenden Museen auf. Nachmittags besichtigen wir den römischen Tempel und die Plaça Major in der Wintersonne. Abends nehmen wir den Zug zurück, bevor es richtig frostig wird.",
+            "hu": "Reggel érkezünk a ködös Vicbe, és a katedrálishoz sétálunk. Délben a lenyűgöző múzeumokban melegedünk fel. Délután a római templomot és a Plaça Majort nézzük meg a téli napsütésben. Este vonattal indulunk vissza, mielőtt igazán megfagyna a levegő.",
+            "ro": "Dimineața sosim în Vic-ul cetos și mergem spre Catedrală. La prânz ne încălzim în muzeele impresionante. După-amiaza vizităm Templul Roman și Plaça Major în soarele de iarnă. Seara luăm trenul înapoi înainte de îngheț.",
+            "en": "In the morning, we arrive in misty Vic and walk to the Cathedral. At noon, we warm up in the impressive museums. In the afternoon, we visit the Roman Temple and Plaça Major in the winter sun. In the evening, we take the train back before it gets truly freezing."
+          },
+          "stops": [
+            {
+              "name": "Vic Train Station",
+              "tip_5lang": {
+                "de": "Der Bahnhof ist beheizt und bietet Komfort.",
+                "hu": "A vasútállomás fűtött és kényelmes.",
+                "ro": "Gara este încălzită și oferă confort.",
+                "en": "The train station is heated and comfortable."
+              }
+            },
+            {
+              "name": "Historic Core (Cluster 1)",
+              "tip_5lang": {
+                "de": "Die Sonne erreicht die engen Gassen spät.",
+                "hu": "A nap későn éri el a szűk utcákat.",
+                "ro": "Soarele ajunge târziu pe străzile înguste.",
+                "en": "The sun reaches narrow streets quite late."
+              }
+            },
+            {
+              "name": "Cathedral & Episcopal Museum",
+              "tip_5lang": {
+                "de": "Genießen Sie die Wärme im Museum.",
+                "hu": "Élvezze a múzeum benti melegét.",
+                "ro": "Bucurați-vă de căldura din muzeu.",
+                "en": "Enjoy the indoor warmth of the museum."
+              }
+            },
+            {
+              "name": "Plaça Major & Roman Temple",
+              "tip_5lang": {
+                "de": "Ideal für einen heißen Tee zwischendurch.",
+                "hu": "Ideális egy forró teára két látnivaló között.",
+                "ro": "Ideal pentru un ceai cald între vizite.",
+                "en": "Ideal for a hot tea between sights."
+              }
+            },
+            {
+              "name": "Riverfront (Cluster 2)",
+              "tip_5lang": {
+                "de": "Kühler Wind am Fluss, ziehen Sie sich warm an.",
+                "hu": "Hideg szél fúj a folyónál, öltözzön fel.",
+                "ro": "Vânt rece la râu, îmbrăcați-vă bine.",
+                "en": "Cold wind by the river, dress warmly."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Züge verkehren regelmäßig nach Barcelona.",
+              "Der Bahnhof liegt etwa 10 Minuten vom Zentrum.",
+              "Achten Sie auf die Gleisansagen bei Nebel.",
+              "Winterliche Ruhe macht die Fahrt entspannter."
+            ],
+            "hu": [
+              "A vonatok rendszeresen járnak Barcelona felé.",
+              "Az állomás kb. 10 percre van a központtól.",
+              "Figyeljen a hangosbemondóra köd esetén.",
+              "A téli nyugalom pihentetőbbé teszi az utat."
+            ],
+            "ro": [
+              "Trenurile circulă regulat spre Barcelona.",
+              "Gara este la 10 minute de centru.",
+              "Atenție la anunțurile din gară pe timp de ceață.",
+              "Liniștea iernii face călătoria mai relaxantă."
+            ],
+            "en": [
+              "Trains run regularly towards Barcelona.",
+              "The station is 10 mins walk from the center.",
+              "Pay attention to announcements in fog.",
+              "The winter quiet makes the trip more relaxing."
+            ]
+          }
+        }
       }
     }
   }

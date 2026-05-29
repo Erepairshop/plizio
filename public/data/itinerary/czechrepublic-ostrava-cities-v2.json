@@ -314,6 +314,178 @@
           "Check the opening hours of the mines and museums in advance.",
           "A power bank for your smartphone will be useful for navigation and photos."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag auf dem Masaryk-Platz unter den Arkaden. Der Regen verleiht dem alten Marktplatz einen glänzenden Charme, ideal für Fotos der Architektur.\n\nMittags bietet das Rathaus Schutz, während Sie mit dem Aufzug zur Aussichtsplattform fahren. Die Wolken hängen tief über der Stadt, was der Industrielandschaft eine dramatische Note verleiht.\n\nNachmittags erkunden Sie die überdachten Bereiche von Dolní Vítkovice. Das industrielle Erbe Ostrava bietet viele Innenräume, in denen Sie trocken bleiben und Technik bestaunen können.\n\nDer Abend endet im Michal-Bergwerk, wo die historischen Gebäude Schutz vor dem Wetter bieten. Die authentische Atmosphäre ist bei Regen besonders spürbar, bevor Sie in ein lokales Restaurant einkehren.",
+            "hu": "Kezdje a napot a Masaryk téren az árkádok alatt. Az esőben megcsillanó macskakövek különleges hangulatot árasztanak az óváros szívében.\n\nDélben az Új Városháza tornya kínál menedéket. Bár a kilátás ködösebb lehet, a felhők között áttörő fények drámai keretbe foglalják az ipari látképet.\n\nDélután a Dolní Vítkovice rozsdás óriásai között barangolhat. A hatalmas csarnokok és fedett átjárók között szárazon fedezheti fel az acélváros titkait.\n\nEste a Michal bánya épületei nyújtanak menedéket. A bányászati gépek látványa esős időben még komorabb és hitelesebb, tökéletes zárása az ipari túrának.",
+            "ro": "Începeți ziua în Piața Masaryk sub arcadele primitoare. Ploaia oferă un luciu aparte centrului vechi, fiind momentul ideal pentru a surprinde arhitectura locală.\n\nLa prânz, Turnul Primăriei oferă adăpost în timp ce urcați spre platforma de observare. Norii joși adaugă o notă dramatică peisajului industrial al Ostravei.\n\nDupă-amiaza este dedicată zonei Dolní Vítkovice. Multe dintre exponatele industriale sunt sub acoperiș, permițându-vă să explorați istoria oțelului fără să vă udați.\n\nSeara se încheie la Mina Michal, unde clădirile istorice vă protejează de intemperii. Atmosfera autentică de mină este intensificată de sunetul ploii pe acoperișurile metalice.",
+            "en": "Start your day at Masaryk Square under the protective arcades. The rain gives the old town square a polished glow, perfect for moody architectural photography.\n\nAt noon, the New City Hall tower provides shelter as you take the lift to the observation deck. Low clouds add a dramatic flair to the sprawling industrial landscape below.\n\nIn the afternoon, explore the covered sections of Dolní Vítkovice. This massive industrial site offers many indoor spaces where you can stay dry while admiring the steel giants.\n\nEvening ends at the Michal Mine, where historic buildings offer solid protection. The authentic mining atmosphere is especially palpable during rainy weather before heading for dinner."
+          },
+          "stops": [
+            {
+              "name": "Masaryk Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkadengänge, um trocken zu bleiben.",
+                "hu": "Használja az árkádokat a sétához, hogy száraz maradjon.",
+                "ro": "Folosiți arcadele pentru a rămâne la adăpost de ploaie.",
+                "en": "Use the arcades around the square to stay dry."
+              }
+            },
+            {
+              "name": "New City Hall",
+              "tip_5lang": {
+                "de": "Die Aussichtsplattform ist überdacht, aber windig.",
+                "hu": "A kilátóterasz fedett, de szeles lehet esőben.",
+                "ro": "Platforma de observație este acoperită, dar vântoasă.",
+                "en": "The observation deck is covered but can be windy."
+              }
+            },
+            {
+              "name": "Silesian Ostrava Castle",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ausstellungen in den Kellerräumen.",
+                "hu": "Látogassa meg a kiállításokat a vár pincéiben.",
+                "ro": "Vizitați expozițiile din interiorul pivnițelor castelului.",
+                "en": "Visit the indoor exhibitions in the castle cellars."
+              }
+            },
+            {
+              "name": "Dolní Vítkovice & Bolt Tower",
+              "tip_5lang": {
+                "de": "Im Inneren des Bolt Tower Cafés ist es gemütlich.",
+                "hu": "A Bolt Tower kávézójában élvezheti a belső kilátást.",
+                "ro": "Interiorul cafenelei Bolt Tower este perfect pe ploaie.",
+                "en": "The interior of Bolt Tower cafe is cozy during rain."
+              }
+            },
+            {
+              "name": "Michal Mine",
+              "tip_5lang": {
+                "de": "Die gesamte Tour findet in Gebäuden statt.",
+                "hu": "A teljes tárlatvezetés épületeken belül zajlik.",
+                "ro": "Întregul tur ghidat are loc în interiorul clădirilor.",
+                "en": "The entire guided tour takes place indoors."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für die Kopfsteinpflastergassen.",
+              "Die Museen in Ostrava sind ideale Zufluchtsorte bei Regen.",
+              "Dolní Vítkovice bietet viele überdachte Industrie-Exponate.",
+              "Regenschirme können in der Nähe des Rathauses ausgeliehen werden.",
+              "Nutzen Sie die Cafés im Bolt Tower für Pausen im Trockenen."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a macskaköves utcákhoz.",
+              "Ostrava múzeumai kiváló menedéket nyújtanak az eső elől.",
+              "A Dolní Vítkovice számos fedett ipari látnivalót kínál.",
+              "A városháza környékén több helyen vásárolható esernyő.",
+              "A Bolt Tower kávézója ideális egy száraz pihenőhöz."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru străzile cu piatră cubică.",
+              "Muzeele din Ostrava sunt refugii ideale în caz de ploaie.",
+              "Dolní Vítkovice oferă multe exponate industriale acoperite.",
+              "Puteți găsi umbrele de vânzare în apropierea Primăriei.",
+              "Folosiți cafenelele din Bolt Tower pentru o pauză la uscat."
+            ],
+            "en": [
+              "Wear waterproof shoes for the cobblestone streets.",
+              "Ostrava's museums are excellent refuges from the rain.",
+              "Dolní Vítkovice offers many covered industrial exhibits.",
+              "Umbrellas are easily available for purchase near the City Hall.",
+              "Use the Bolt Tower cafes for a dry break during your walk."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Masaryk-Platz erstrahlt im Winter mit Festbeleuchtung. Die kalte Luft macht den Spaziergang belebend, während der Duft von heißem Punsch die Straßen füllt.\n\nMittags bietet das Rathaus eine frostige, aber weite Sicht über die schneebedeckten Dächer der Stadt. Die beheizten Innenräume sind eine willkommene Pause.\n\nNachmittags in Dolní Vítkovice wirken die Stahlkonstruktionen im Winterlicht besonders monumental. Der Kontrast zwischen kaltem Metall und warmen Museen ist faszinierend.\n\nDer Tag endet früh bei Sonnenuntergang gegen 16:30 Uhr. Im Michal-Bergwerk spürt man die Geschichte der Arbeiter, die hier einst der Winterkälte trotzten, bevor Sie ein wärmendes tschechisches Abendessen genießen.",
+            "hu": "A Masaryk tér télen ünnepi fényekben pompázik. A hideg levegő frissítő, miközben a közeli kávézók forró italaival melegedhet fel.\n\nDélben az Új Városháza tornyából csodálhatja meg a hófödte Ostrava panorámáját. A fűtött lifttel kényelmesen juthat fel a kilátóba.\n\nDélután a Dolní Vítkovice acélszerkezetei a téli napfényben még monumentálisabbnak tűnnek. A külső séta után érdemes betérni az interaktív technikai múzeumba.\n\nA korai sötétedés miatt 17 óra körül már fényárban úszik a város. A Michal bánya történelmi falaiban megbújva zárhatja a napot, mielőtt egy kiadós cseh vacsorát fogyasztana.",
+            "ro": "Piața Masaryk strălucește în timpul iernii cu luminițe festive. Aerul rece face plimbarea revigorantă, în timp ce mirosul de vin fiert umple străzile.\n\nLa prânz, Primăria oferă o vedere înghețată, dar senină peste acoperișurile înzăpezite ale orașului. Interiorul încălzit este o pauză binevenită de la ger.\n\nDupă-amiaza la Dolní Vítkovice, structurile de oțel par monumentale în lumina palidă a iernii. Contrastul dintre metalul rece și muzeele calde este fascinant.\n\nZiua se încheie devreme, soarele apunând în jurul orei 16:30. La Mina Michal simțiți istoria minerilor care înfruntau gerul, înainte de o cină tradițională caldă.",
+            "en": "Masaryk Square shines in winter with festive lighting. The crisp cold air makes the walk invigorating, while the smell of hot punch fills the streets.\n\nAt noon, the City Hall offers a frosty but clear view over the snow-covered rooftops. The heated interiors are a welcome break from the cold.\n\nIn the afternoon at Dolní Vítkovice, the steel structures look particularly monumental in the winter light. The contrast between cold metal and warm museums is fascinating.\n\nThe day ends early with sunset around 4:30 PM. At the Michal Mine, you feel the history of workers who once braved the winter here, before enjoying a warming Czech dinner."
+          },
+          "stops": [
+            {
+              "name": "Masaryk Square",
+              "tip_5lang": {
+                "de": "Besuchen Sie den kleinen Weihnachtsmarkt im Dezember.",
+                "hu": "Decemberben látogassa meg az adventi vásárt a téren.",
+                "ro": "Vizitați târgul de Crăciun dacă sunteți aici în decembrie.",
+                "en": "Visit the small Christmas market if visiting in December."
+              }
+            },
+            {
+              "name": "New City Hall",
+              "tip_5lang": {
+                "de": "Achtung, die Treppen können bei Frost glatt sein.",
+                "hu": "Vigyázat, a lépcsők fagy esetén csúszósak lehetnek.",
+                "ro": "Atenție, treptele pot fi alunecoase în caz de îngheț.",
+                "en": "Caution, stairs can be slippery during frost."
+              }
+            },
+            {
+              "name": "Silesian Ostrava Castle",
+              "tip_5lang": {
+                "de": "Warme Kleidung für die zugigen Innenhöfe nötig.",
+                "hu": "Meleg ruha ajánlott a szeles várudvarok miatt.",
+                "ro": "Haine groase necesare pentru curțile interioare reci.",
+                "en": "Warm clothes needed for the drafty inner courtyards."
+              }
+            },
+            {
+              "name": "Dolní Vítkovice & Bolt Tower",
+              "tip_5lang": {
+                "de": "Das Technik-Museum ist hervorragend beheizt.",
+                "hu": "A technikai múzeum kiválóan fűtött és kényelmes.",
+                "ro": "Muzeul tehnic este foarte bine încălzit.",
+                "en": "The technical museum is excellently heated and cozy."
+              }
+            },
+            {
+              "name": "Michal Mine",
+              "tip_5lang": {
+                "de": "Frühe Touren wählen, da es früh dunkel wird.",
+                "hu": "Válasszon korai túrát a korai sötétedés miatt.",
+                "ro": "Alegeți tururi matinale, deoarece se întunecă devreme.",
+                "en": "Choose early tours as it gets dark very early."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermokleidung, der Wind in Ostrava ist kalt.",
+              "Die Sonne geht im Winter bereits gegen 16:30 Uhr unter.",
+              "Viele Innenräume in Dolní Vítkovice sind gut beheizt.",
+              "Trinken Sie heißen Tee in den Cafés am Masaryk-Platz.",
+              "Achten Sie auf vereiste Gehwege in den Außenbezirken."
+            ],
+            "hu": [
+              "Viseljen termaruházatot, Ostrava szele télen metsző.",
+              "A nap télen már délután fél öt körül lemegy.",
+              "A Dolní Vítkovice belső terei jól fűtöttek.",
+              "Igyon forró teát a Masaryk tér hangulatos kávézóiban.",
+              "Vigyázzon a jeges járdákra a külsőbb kerületekben."
+            ],
+            "ro": [
+              "Purtați haine termice, vântul în Ostrava este tăios.",
+              "Soarele apune deja în jurul orei 16:30 în timpul iernii.",
+              "Multe spații interioare din Dolní Vítkovice sunt încălzite.",
+              "Beți un ceai fierbinte în cafenelele din Piața Masaryk.",
+              "Atenție la trotuarele înghețate din zonele periferice."
+            ],
+            "en": [
+              "Wear thermal layers, the Ostrava wind can be biting.",
+              "Sunset in winter occurs as early as 4:30 PM.",
+              "Most indoor areas in Dolní Vítkovice are well heated.",
+              "Enjoy hot drinks at the Masaryk Square cafes.",
+              "Watch out for icy pavements in the outer districts."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -646,6 +818,196 @@
           "Wear a helmet and be cautious in city traffic.",
           "A lock is essential to secure your bike at the stops."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour bei Regen in Ostrava erfordert gute Ausrüstung. Starten Sie vorsichtig am Masaryk-Platz, wo die Steine rutschig sein können.\n\nMittags erreichen Sie den Landek Park. Der Weg entlang des Flusses ist bei Regen grün und frisch, aber achten Sie auf Pfützen.\n\nNachmittags führt die Route nach Dolní Vítkovice. Die industriellen Wege sind breit, bieten aber bei starkem Regen wenig Schutz.\n\nDer Abend endet am schlesisch-ostravischen Schloss. Die Radwege sind gut ausgebaut, aber bei Nässe ist erhöhte Aufmerksamkeit in den Kurven nötig, bevor Sie den Tag gemütlich beenden.",
+            "hu": "Az esős biciklitúra Ostravában jó felszerelést igényel. Kezdjen óvatosan a Masaryk téren, ahol a kőburkolat csúszós lehet.\n\nDélben éri el a Landek Parkot. A folyó menti kerékpárút ilyenkor friss és üde, de ügyeljen a tócsákra.\n\nDélután a túra a Dolní Vítkovice területére vezet. Az ipari utak tágasak, de intenzív esőben kevés fedett részt találni útközben.\n\nA nap a sziléziai-ostravai várnál zárul. A kerékpárutak jól karbantartottak, de a nedves kanyarokban fokozott figyelemre van szükség.",
+            "ro": "O tură cu bicicleta pe ploaie în Ostrava necesită echipament adecvat. Începeți cu atenție din Piața Masaryk, unde pavajul poate fi alunecos.\n\nLa prânz ajungeți în Parcul Landek. Drumul de-a lungul râului este proaspăt și verde pe ploaie, dar fiți atenți la bălți.\n\nDupă-amiaza traseul duce spre Dolní Vítkovice. Căile industriale sunt largi, dar oferă puțin adăpost în caz de ploaie torențială.\n\nZiua se încheie la Castelul Silezian Ostrava. Pistele sunt bine întreținute, dar umezeala necesită atenție sporită în curbe.",
+            "en": "A rainy bike tour in Ostrava requires good gear. Start cautiously at Masaryk Square, where the stones can be slippery when wet.\n\nAt noon, you reach Landek Park. The riverside path is fresh and green in the rain, but watch out for large puddles.\n\nIn the afternoon, the route leads to Dolní Vítkovice. The industrial paths are wide but offer little shelter during heavy downpours.\n\nEvening ends at the Silesian Ostrava Castle. The bike paths are well-maintained, but extra attention is needed in wet corners before finishing your day."
+          },
+          "stops": [
+            {
+              "name": "Masaryk Square",
+              "tip_5lang": {
+                "de": "Vorsicht beim Anfahren auf nassem Kopfsteinpflaster.",
+                "hu": "Vigyázzon az induláskor a nedves macskakövön.",
+                "ro": "Atenție la plecare pe pavajul umed.",
+                "en": "Be careful when starting on wet cobblestones."
+              }
+            },
+            {
+              "name": "New City Hall",
+              "tip_5lang": {
+                "de": "Sichere Fahrradständer befinden sich am Eingang.",
+                "hu": "Biztonságos kerékpártárolók találhatók a bejáratnál.",
+                "ro": "Rafturi securizate pentru biciclete la intrare.",
+                "en": "Secure bike racks are located at the entrance."
+              }
+            },
+            {
+              "name": "Landek Park",
+              "tip_5lang": {
+                "de": "Der Weg am Fluss kann schlammig sein.",
+                "hu": "A folyóparti út helyenként sáros lehet.",
+                "ro": "Drumul pe malul râului poate fi noroios.",
+                "en": "The riverside path might be muddy in sections."
+              }
+            },
+            {
+              "name": "Dolní Vítkovice",
+              "tip_5lang": {
+                "de": "Große Metallplatten auf dem Boden sind rutschig.",
+                "hu": "A földön lévő nagy fémlemezek nagyon csúsznak.",
+                "ro": "Plăcile metalice de pe sol sunt foarte alunecoase.",
+                "en": "Large metal plates on the ground are very slippery."
+              }
+            },
+            {
+              "name": "Bolt Tower",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad unter den Brückenpfeilern ab.",
+                "hu": "Parkoljon a híd pillérei alatt az eső elől.",
+                "ro": "Parcați bicicleta sub pilonii podului.",
+                "en": "Park your bike under the bridge pillars for shelter."
+              }
+            },
+            {
+              "name": "Silesian Ostrava Castle",
+              "tip_5lang": {
+                "de": "Der Abstieg zum Schloss ist bei Regen steil.",
+                "hu": "A várhoz vezető lejtő esőben meredek és csúszós.",
+                "ro": "Coborârea spre castel este abruptă pe ploaie.",
+                "en": "The descent to the castle is steep and wet."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie Metallschienen und Gitter auf dem Boden.",
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt im Regen.",
+              "Schutzbleche sind für diese Route absolut notwendig.",
+              "Die Flusswege können kleine Überschwemmungen haben.",
+              "Tragen Sie eine reflektierende Regenjacke für Sichtbarkeit."
+            ],
+            "hu": [
+              "Kerülje a síneket és a fém rácsokat az úton.",
+              "Ellenőrizze a fékeket az esős indulás előtt.",
+              "A sárvédő elengedhetetlen ezen az útvonalon.",
+              "A folyóparti utakon kisebb vízátfolyások lehetnek.",
+              "Viseljen fényvisszaverő esőkabátot a láthatóságért."
+            ],
+            "ro": [
+              "Evitați șinele și grătarele metalice de pe drum.",
+              "Verificați frânele înainte de plecare pe ploaie.",
+              "Apărătorile de noroi sunt esențiale pe acest traseu.",
+              "Drumurile de pe malul râului pot avea mici inundații.",
+              "Purtați o jachetă de ploaie reflectorizantă pentru vizibilitate."
+            ],
+            "en": [
+              "Avoid metal tracks and grates on the road.",
+              "Check your brakes before starting in the rain.",
+              "Mudguards are absolutely necessary for this route.",
+              "Riverside paths may have minor flooding in spots.",
+              "Wear a reflective raincoat for better visibility."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im Winter in Ostrava ist nur für Mutige. Starten Sie dick eingepackt am Masaryk-Platz bei klirrender Kälte.\n\nMittags führt der Weg zum Landek Park. Die kahlen Bäume und der gefrorene Fluss bieten eine stille, fast magische Kulisse.\n\nNachmittags in Dolní Vítkovice glänzt das Eis auf den alten Metallstrukturen. Fahren Sie besonders vorsichtig in Schattenzonen, wo Glätte droht.\n\nDer Abend bricht früh an, daher ist eine gute Beleuchtung am Rad Pflicht. Das Schloss wirkt im Winterlicht wie aus einem Märchen, bevor Sie sich nach der Tour aufwärmen.",
+            "hu": "A téli biciklizés Ostravában csak a bátraknak való. Induljon jól felöltözve a Masaryk térről a csípős hidegben.\n\nDélben a Landek Park felé vegye az irányt. A kopár fák és a jeges folyó csendes, szinte mágikus hátteret adnak a túrához.\n\nDélután a Dolní Vítkovice területén az öreg fémszerkezeteken megcsillan a jég. Legyen óvatos az árnyékos szakaszokon a csúszásveszély miatt.\n\nA korai sötétedés miatt a jó világítás kötelező. A vár a téli fényekben mesebeli látványt nyújt a túra végén.",
+            "ro": "Ciclismul de iarnă în Ostrava este doar pentru cei curajoși. Începeți bine echipat din Piața Masaryk pe un ger tăios.\n\nLa prânz drumul duce spre Parcul Landek. Copacii golași și râul înghețat oferă un decor liniștit, aproape magic.\n\nDupă-amiaza în Dolní Vítkovice, gheața strălucește pe vechile structuri metalice. Conduceți cu prudență în zonele umbrite unde persistă poleiul.\n\nSeara vine devreme, deci iluminarea bună a bicicletei este obligatorie. Castelul arată ca în povești în lumina iernii.",
+            "en": "Winter cycling in Ostrava is for the brave. Start well-layered at Masaryk Square in the biting cold.\n\nAt noon, head towards Landek Park. The bare trees and frozen river offer a quiet, almost magical backdrop for your ride.\n\nIn the afternoon at Dolní Vítkovice, ice glints on the old metal structures. Ride carefully in shaded areas where black ice might linger.\n\nAs evening arrives early, good bike lights are mandatory. The castle looks like something from a fairytale in the winter light before you warm up."
+          },
+          "stops": [
+            {
+              "name": "Masaryk Square",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenem Tauwasser auf den Steinen.",
+                "hu": "Vigyázzon a köveken megfagyott pára miatt.",
+                "ro": "Atenție la condensul înghețat de pe pavaj.",
+                "en": "Watch out for frozen condensation on the stones."
+              }
+            },
+            {
+              "name": "New City Hall",
+              "tip_5lang": {
+                "de": "Halten Sie die Hände in den Handschuhen warm.",
+                "hu": "Tartsa melegen a kezeit vastag kesztyűben.",
+                "ro": "Păstrați-vă mâinile calde cu mănuși groase.",
+                "en": "Keep your hands warm with thick gloves while riding."
+              }
+            },
+            {
+              "name": "Landek Park",
+              "tip_5lang": {
+                "de": "Die Wege im Park werden nicht immer gestreut.",
+                "hu": "A park útjait nem mindig szórják le sóval.",
+                "ro": "Drumurile din parc nu sunt mereu deszăpezite.",
+                "en": "Park paths are not always salted or cleared."
+              }
+            },
+            {
+              "name": "Dolní Vítkovice",
+              "tip_5lang": {
+                "de": "Schattenbereiche zwischen Gebäuden können glatt sein.",
+                "hu": "Az épületek közti árnyékos részek jegesek lehetnek.",
+                "ro": "Zonele umbrite dintre clădiri pot fi înghețate.",
+                "en": "Shaded areas between buildings can be icy."
+              }
+            },
+            {
+              "name": "Bolt Tower",
+              "tip_5lang": {
+                "de": "Kettenöl für niedrige Temperaturen verwenden.",
+                "hu": "Használjon alacsony hőmérsékletre való láncolajat.",
+                "ro": "Folosiți ulei de lanț pentru temperaturi scăzute.",
+                "en": "Use chain oil suitable for low temperatures."
+              }
+            },
+            {
+              "name": "Silesian Ostrava Castle",
+              "tip_5lang": {
+                "de": "Beleuchtung bereits ab 16:00 Uhr einschalten.",
+                "hu": "Kapcsolja be a világítást már délután 4-kor.",
+                "ro": "Aprindeți luminile încă de la ora 16:00.",
+                "en": "Turn on your lights as early as 4:00 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie Reifen mit gutem Profil für den Grip.",
+              "Der Akku von E-Bikes entlädt sich bei Kälte schneller.",
+              "Trinken Sie warme Getränke aus einer Thermoskanne.",
+              "Vermeiden Sie hektische Lenkbewegungen auf Schnee.",
+              "Die Sonne verschwindet früh hinter den Industrieanlagen."
+            ],
+            "hu": [
+              "Használjon jó profilú gumikat a tapadásért.",
+              "Az elektromos biciklik akkuja gyorsabban merül hidegben.",
+              "Igyon meleg italokat termoszpohárból menet közben.",
+              "Kerülje a hirtelen kormánymozdulatokat havon.",
+              "A nap korán eltűnik az ipari létesítmények mögött."
+            ],
+            "ro": [
+              "Folosiți anvelope cu profil bun pentru aderență.",
+              "Bateria bicicletelor electrice se descarcă mai repede la frig.",
+              "Beți băuturi calde dintr-un termos pe parcurs.",
+              "Evitați mișcările bruște de ghidon pe zăpadă.",
+              "Soarele dispare devreme în spatele instalațiilor industriale."
+            ],
+            "en": [
+              "Use tires with good tread for better grip.",
+              "E-bike batteries drain much faster in the cold.",
+              "Carry warm drinks in a thermos for the journey.",
+              "Avoid sudden steering movements on snowy patches.",
+              "The sun disappears early behind the industrial structures."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -962,6 +1324,196 @@
           "Be aware of parking fees, especially in the city center.",
           "Plan your route in advance to avoid traffic."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Ostrava bei Regen bequem zu erkunden. Starten Sie im Zoo, wo Sie in den vielen Tierhäusern trocken bleiben können.\n\nMittags fahren Sie zum Landek Park. Der große Parkplatz ist nah am Museumseingang, sodass Sie kaum im Regen laufen müssen.\n\nNachmittags in Dolní Vítkovice bietet das Areal Drive-in-Möglichkeiten für Fotos, bevor Sie das Auto für den Bolt Tower parken.\n\nDer Abend endet im Zentrum. Parkhäuser in der Nähe des Masaryk-Platzes machen den Besuch der Innenstadt auch bei starkem Regen angenehm, bevor Sie ins Rathaus weiterfahren.",
+            "hu": "Autóval Ostrava esőben is kényelmesen felfedezhető. Kezdjen az állatkertben, ahol a számos állatházban szárazon maradhat.\n\nDélben hajtson a Landek Parkba. A nagy parkoló közel van a múzeum bejáratához, így alig kell az esőben gyalogolnia.\n\nDélután a Dolní Vítkovice területén több helyen is megállhat fotózni az autóból, mielőtt a Bolt Towernél leparkolna.\n\nA nap a központban zárul. A Masaryk tér közeli parkolóházak kényelmessé teszik a városnézést szakadó esőben is.",
+            "ro": "Cu mașina, Ostrava este ușor de explorat chiar și pe ploaie. Începeți la Zoo, unde pavilioanele pentru animale vă mențin la uscat.\n\nLa prânz conduceți spre Parcul Landek. Parcarea mare este aproape de intrarea în muzeu, minimizând mersul prin ploaie.\n\nDupă-amiaza în Dolní Vítkovice puteți opri în diverse puncte pentru poze direct din mașină înainte de a parca pentru Bolt Tower.\n\nZiua se încheie în centru. Parcări acoperite lângă Piața Masaryk fac vizita plăcută chiar și pe ploaie torențială.",
+            "en": "By car, Ostrava is easy to explore even in rainy weather. Start at the Zoo, where numerous animal pavilions keep you dry.\n\nAt noon, drive to Landek Park. The large parking lot is close to the museum entrance, so you'll hardly have to walk in the rain.\n\nIn the afternoon at Dolní Vítkovice, the area offers drive-in spots for photos before parking for the Bolt Tower visit.\n\nEvening ends in the center. Parking garages near Masaryk Square make visiting the old town pleasant even during heavy rain."
+          },
+          "stops": [
+            {
+              "name": "Zoo Ostrava",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkplätze nah am Haupteingang.",
+                "hu": "Használja a főbejárathoz közeli parkolókat.",
+                "ro": "Folosiți parcările cele mai apropiate de intrare.",
+                "en": "Use the parking spaces closest to the main entrance."
+              }
+            },
+            {
+              "name": "Landek Park",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist bei Regen oft matschig.",
+                "hu": "A parkoló esőben gyakran sáros lehet.",
+                "ro": "Parcarea poate fi noroioasă în caz de ploaie.",
+                "en": "The parking lot can be muddy during heavy rain."
+              }
+            },
+            {
+              "name": "Dolní Vítkovice",
+              "tip_5lang": {
+                "de": "Parken Sie im zentralen Parkhaus 'Gong'.",
+                "hu": "Parkoljon a központi 'Gong' parkolóházban.",
+                "ro": "Parcați în garajul central de lângă 'Gong'.",
+                "en": "Park in the central 'Gong' parking garage."
+              }
+            },
+            {
+              "name": "Bolt Tower",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Parkplatz zum Aufzug.",
+                "hu": "Rövid séta a parkolótól a liftig.",
+                "ro": "Drum scurt pe jos de la parcare la lift.",
+                "en": "Short walk from the parking area to the elevator."
+              }
+            },
+            {
+              "name": "Masaryk Square",
+              "tip_5lang": {
+                "de": "Tiefgarage unter dem Platz ist sehr praktisch.",
+                "hu": "A tér alatti mélygarázs nagyon praktikus esőben.",
+                "ro": "Parcarea subterană de sub piață este utilă.",
+                "en": "The underground parking below the square is very handy."
+              }
+            },
+            {
+              "name": "New City Hall",
+              "tip_5lang": {
+                "de": "Parkplätze direkt vor dem Rathaus vorhanden.",
+                "hu": "Parkolóhelyek közvetlenül a városháza előtt.",
+                "ro": "Locuri de parcare disponibile chiar în fața primăriei.",
+                "en": "Parking spots available directly in front of City Hall."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Scheibenwischer vor der Fahrt.",
+              "Die Straßen im Industriegebiet haben oft tiefe Pfützen.",
+              "Nutzen Sie überdachte Parkhäuser in der Innenstadt.",
+              "Achten Sie auf Fußgänger in der Nähe des Masaryk-Platzes.",
+              "Licht einschalten ist bei Regen in Tschechien Pflicht."
+            ],
+            "hu": [
+              "Ellenőrizze az ablaktörlőket indulás előtt.",
+              "Az ipari negyed útjain gyakran mély tócsák vannak.",
+              "Használja a fedett parkolóházakat a belvárosban.",
+              "Ügyeljen a gyalogosokra a Masaryk tér környékén.",
+              "Esőben is kötelező a lámpahasználat Csehországban."
+            ],
+            "ro": [
+              "Verificați ștergătoarele înainte de a pleca la drum.",
+              "Drumurile din zona industrială au adesea bălți adânci.",
+              "Folosiți parcările acoperite din centrul orașului.",
+              "Atenție la pietoni în apropierea Pieței Masaryk.",
+              "Folosirea luminilor este obligatorie pe ploaie în Cehia."
+            ],
+            "en": [
+              "Check your wipers before starting the journey.",
+              "Industrial area roads often have deep puddles.",
+              "Opt for covered parking garages in the city center.",
+              "Watch out for pedestrians near Masaryk Square.",
+              "Turning on lights is mandatory during rain in Czechia."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterfahrten in Ostrava bieten einen Blick auf die schneebedeckte Industriekulisse. Starten Sie im Zoo, wo die winterliche Ruhe besonders friedlich ist.\n\nMittags geht es zum Landek Park. Die Heizung im Auto sorgt für Komfort, während Sie durch die frostige Landschaft fahren.\n\nNachmittags glänzt Dolní Vítkovice unter einer Schneedecke. Die Straßen im Areal werden gut geräumt, aber Vorsicht vor Glätte auf Nebenwegen.\n\nDer Abend endet im beleuchteten Zentrum. Kurze Wege vom warmen Auto zum Masaryk-Platz und zum Rathaus machen den Wintertag perfekt, bevor Sie sich ein warmes tschechisches Menü gönnen.",
+            "hu": "A téli autózás Ostravában különleges rálátást ad a hófödte ipari tájra. Kezdjen az állatkertben, ahol ilyenkor nagy a nyugalom.\n\nDélben a Landek Park felé vegye az irányt. Az autó fűtése kényelmet ad, miközben a fagyos tájon keresztülhajt.\n\nDélután a Dolní Vítkovice hólepel alatt csillog. A főutakat jól takarítják, de a mellékutakon vigyázzon a jegesedésre.\n\nA nap a kivilágított központban zárul. A meleg autóból csak pár lépés a Masaryk tér és a városháza, ideális befejezése a téli napnak.",
+            "ro": "Călătoria cu mașina iarna oferă o perspectivă asupra decorului industrial înzăpezit. Începeți la Zoo, unde liniștea iernii este relaxantă.\n\nLa prânz mergeți spre Parcul Landek. Căldura din mașină oferă confort în timp ce traversați peisajul înghețat.\n\nDupă-amiaza, Dolní Vítkovice strălucește sub zăpadă. Drumurile principale sunt curățate, dar atenție la polei pe aleile secundare.\n\nZiua se încheie în centrul luminat. Distanțele scurte de la mașina caldă la Piața Masaryk fac ziua de iarnă perfectă.",
+            "en": "Winter driving in Ostrava offers views of the snow-covered industrial backdrop. Start at the Zoo, where winter peace is especially serene.\n\nAt noon, head to Landek Park. The car's heater ensures comfort as you drive through the frosty landscape.\n\nIn the afternoon, Dolní Vítkovice shines under a blanket of snow. Main roads are well-cleared, but be careful of ice on secondary paths.\n\nEvening ends in the illuminated center. Short walks from your warm car to Masaryk Square and City Hall make for a perfect winter day."
+          },
+          "stops": [
+            {
+              "name": "Zoo Ostrava",
+              "tip_5lang": {
+                "de": "Planen Sie Zeit zum Enteisen der Scheiben ein.",
+                "hu": "Számoljon időt az ablakok jégmentesítésére.",
+                "ro": "Alocați timp pentru dezghețarea parbrizului.",
+                "en": "Allow extra time for de-icing your windows."
+              }
+            },
+            {
+              "name": "Landek Park",
+              "tip_5lang": {
+                "de": "Die Zufahrtsstraße kann bei Schneefall glatt sein.",
+                "hu": "A bekötőút havazáskor csúszós lehet.",
+                "ro": "Drumul de acces poate fi alunecos în caz de ninsoare.",
+                "en": "The access road can be slippery during snowfall."
+              }
+            },
+            {
+              "name": "Dolní Vítkovice",
+              "tip_5lang": {
+                "de": "Die Außenparkplätze sind oft schneebedeckt.",
+                "hu": "A külső parkolókat gyakran hó fedi.",
+                "ro": "Parcările exterioare sunt adesea acoperite de zăpadă.",
+                "en": "Outdoor parking lots are often covered in snow."
+              }
+            },
+            {
+              "name": "Bolt Tower",
+              "tip_5lang": {
+                "de": "Vorsicht beim Gehen vom Parkplatz zum Lift.",
+                "hu": "Vigyázzon a gyalogúton a parkolótól a liftig.",
+                "ro": "Atenție la mersul pe jos de la parcare la lift.",
+                "en": "Be careful when walking from the parking lot to the lift."
+              }
+            },
+            {
+              "name": "Masaryk Square",
+              "tip_5lang": {
+                "de": "Parkhaus unter dem Platz ist schneefrei.",
+                "hu": "A tér alatti parkolóház hómentes és tiszta.",
+                "ro": "Parcarea subterană de sub piață nu are zăpadă.",
+                "en": "The underground garage is snow-free and clean."
+              }
+            },
+            {
+              "name": "New City Hall",
+              "tip_5lang": {
+                "de": "Winterreifen sind in dieser Region Pflicht.",
+                "hu": "A téli gumi használata kötelező ebben a régióban.",
+                "ro": "Anvelopele de iarnă sunt obligatorii în această regiune.",
+                "en": "Winter tires are mandatory in this region."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Führen Sie immer einen Eiskratzer im Auto mit.",
+              "Prüfen Sie den Frostschutz in der Scheibenwaschanlage.",
+              "Die Bergstraßen um Ostrava können gesperrt sein.",
+              "Vermeiden Sie starkes Bremsen auf vereisten Flächen.",
+              "Parkhäuser sind im Winter die beste Wahl."
+            ],
+            "hu": [
+              "Mindig legyen jégkaparó az autóban.",
+              "Ellenőrizze a fagyállót a szélvédőmosóban.",
+              "Az Ostrava környéki hegyi utak lezárva lehetnek.",
+              "Kerülje a hirtelen fékezést jeges felületen.",
+              "Télen a parkolóházak a legjobb választások."
+            ],
+            "ro": [
+              "Aveți mereu o racletă de gheață în mașină.",
+              "Verificați antigelul din lichidul de parbriz.",
+              "Drumurile montane din jurul Ostravei pot fi închise.",
+              "Evitați frânarea bruscă pe suprafețele înghețate.",
+              "Parcările acoperite sunt cea mai bună alegere iarna."
+            ],
+            "en": [
+              "Always keep an ice scraper in your car.",
+              "Check the antifreeze in your windshield washer fluid.",
+              "Mountain roads around Ostrava might be closed.",
+              "Avoid sudden braking on icy surfaces.",
+              "Parking garages are the best choice in winter."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1278,6 +1830,196 @@
           "Use a public transport app to check routes and schedules in real time.",
           "Pay attention to stop announcements, as they are not always clearly displayed."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Straßenbahnen in Ostrava sind bei Regen das beste Transportmittel. Starten Sie trocken am Masaryk-Platz und nutzen Sie die modernen Bahnen.\n\nMittags bringt Sie die Tram schnell zum Rathaus. Die Haltestellen sind meist überdacht, sodass Sie kaum nass werden.\n\nNachmittags führt die Fahrt nach Dolní Vítkovice. Das Areal ist gut an das Schienennetz angebunden, und die kurzen Wege zwischen den Hallen sind bei Regen ideal.\n\nDer Abend endet nach einem Besuch im Michal-Bergwerk und dem Schloss. Die dichte Taktung der öffentlichen Verkehrsmittel ermöglicht eine flexible Rückkehr ins Hotel ohne Regenschirm-Stress.",
+            "hu": "Az ostravai villamosok esőben a legjobb közlekedési eszközök. Kezdjen szárazon a Masaryk téren a modern járatokat használva.\n\nDélben a villamos gyorsan elviszi a városházához. A megállók többnyire fedettek, így alig éri az eső.\n\nDélután a túra a Dolní Vítkovice felé folytatódik. A terület kiválóan kapcsolódik a hálózathoz, az épületek közti rövid távolságok pedig ideálisak esőben.\n\nA nap a Michal bánya és a vár megtekintése után zárul. A gyakori járatoknak köszönhetően rugalmasan és ázottan térés nélkül érhet vissza szállására.",
+            "ro": "Tramvaiele din Ostrava sunt cel mai bun mijloc de transport pe ploaie. Începeți confortabil din Piața Masaryk folosind liniile moderne.\n\nLa prânz, tramvaiul vă duce rapid la Primărie. Stațiile sunt majoritatea acoperite, ferindu-vă de ploaie.\n\nDupă-amiaza, călătoria continuă spre Dolní Vítkovice. Zona este bine conectată, iar distanțele scurte între clădiri sunt ideale pe vreme umedă.\n\nZiua se încheie după vizita la Mina Michal și Castel. Frecvența mare a transportului public permite o întoarcere flexibilă fără stresul ploii.",
+            "en": "Ostrava's trams are the best way to get around during rain. Start dry at Masaryk Square and make use of the modern fleet.\n\nAt noon, the tram brings you quickly to the City Hall. Most stops are covered, keeping you protected from the elements.\n\nIn the afternoon, head to Dolní Vítkovice. The area is well-connected to the rail network, and the short distances between buildings are ideal in the rain.\n\nEvening ends after visiting Michal Mine and the Castle. The frequent transit schedule allows for a flexible return to your hotel without getting soaked."
+          },
+          "stops": [
+            {
+              "name": "Masaryk Square",
+              "tip_5lang": {
+                "de": "Überdachte Haltestellen am Platz nutzen.",
+                "hu": "Használja a téren lévő fedett megállókat.",
+                "ro": "Folosiți stațiile acoperite din piață.",
+                "en": "Use the covered transit stops at the square."
+              }
+            },
+            {
+              "name": "New City Hall",
+              "tip_5lang": {
+                "de": "Die Tramhaltestelle ist nur 2 Minuten entfernt.",
+                "hu": "A villamosmegálló mindössze 2 percre van.",
+                "ro": "Stația de tramvai este la doar 2 minute distanță.",
+                "en": "The tram stop is only a 2-minute walk away."
+              }
+            },
+            {
+              "name": "Dolní Vítkovice",
+              "tip_5lang": {
+                "de": "Bahnsteige bieten guten Schutz vor Regen.",
+                "hu": "A peronok jó védelmet nyújtanak az eső ellen.",
+                "ro": "Peroanele oferă protecție bună împotriva ploii.",
+                "en": "The platforms provide good shelter from the rain."
+              }
+            },
+            {
+              "name": "Bolt Tower",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Weg durch das Gong-Zentrum.",
+                "hu": "Menjen keresztül a Gong központon szárazon.",
+                "ro": "Treceți prin centrul Gong pentru a rămâne la uscat.",
+                "en": "Walk through the Gong center to stay dry."
+              }
+            },
+            {
+              "name": "Michal Mine",
+              "tip_5lang": {
+                "de": "Busse fahren direkt bis vor das Bergwerkstor.",
+                "hu": "A buszok közvetlenül a bánya kapujáig visznek.",
+                "ro": "Autobuzele opresc chiar în fața porții minei.",
+                "en": "Buses run directly to the main mine gate."
+              }
+            },
+            {
+              "name": "Silesian Ostrava Castle",
+              "tip_5lang": {
+                "de": "Kurzer, teils überdachter Weg von der Tram.",
+                "hu": "Rövid, részben fedett út a villamostól.",
+                "ro": "Drum scurt, parțial acoperit, de la tramvai.",
+                "en": "Short, partly covered walk from the tram."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie Tickets bequem per Kontaktloskarte im Fahrzeug.",
+              "Die Fahrpläne sind bei Regen sehr verlässlich.",
+              "Nutzen Sie die App der Verkehrsbetriebe Ostrava.",
+              "Viele Haltestellen haben digitale Echtzeit-Anzeigen.",
+              "Im Inneren der Fahrzeuge ist es warm und trocken."
+            ],
+            "hu": [
+              "Vásároljon jegyet kényelmesen kártyával a járművön.",
+              "A menetrendek esőben is megbízhatóak.",
+              "Használja az ostravai közlekedési vállalat appját.",
+              "Sok megállóban digitális kijelzők mutatják az időt.",
+              "A járművek belseje fűtött és száraz."
+            ],
+            "ro": [
+              "Cumpărați bilete ușor cu cardul în interiorul vehiculului.",
+              "Orarele sunt foarte de încredere chiar și pe ploaie.",
+              "Folosiți aplicația transportului public din Ostrava.",
+              "Multe stații au afișaje digitale în timp real.",
+              "Interiorul vehiculelor este cald și uscat."
+            ],
+            "en": [
+              "Buy tickets easily with a contactless card on board.",
+              "The schedules are very reliable even during rain.",
+              "Use the Ostrava public transport mobile app.",
+              "Many stops feature digital real-time displays.",
+              "Vehicle interiors are warm and dry."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ostrava mit der Straßenbahn zu erleben, ist im Winter besonders gemütlich. Starten Sie am Masaryk-Platz in einer beheizten Bahn durch die weiße Stadt.\n\nMittags erreichen Sie das Rathaus. Die Wartezeiten an den Haltestellen sind kurz, was bei frostigen Temperaturen ideal ist.\n\nNachmittags in Dolní Vítkovice bietet der Transit eine warme Pause zwischen den Museumsbesuchen. Die Bahnen fahren zuverlässig auch bei Schneefall.\n\nDer Tag endet nach dem Schlossbesuch. Die beleuchteten Trams, die durch die Winternacht gleiten, verleihen der Stadt eine besondere Atmosphäre, bevor Sie sicher an Ihr Ziel kommen.",
+            "hu": "Ostravát villamossal felfedezni télen különösen otthonos. Kezdjen a Masaryk téren, egy fűtött járaton ülve a havas városon keresztül.\n\nDélben éri el a városházát. A várakozási idő a megállókban rövid, ami ideális a fagyos hőmérsékletben.\n\nDélután a Dolní Vítkovice látogatásakor a közösségi közlekedés meleg pihenőt ad a múzeumok között. A járatok havazáskor is pontosak.\n\nA nap a vár látogatása után zárul. A téli éjszakában sikló kivilágított villamosok különleges hangulatot adnak a városnak.",
+            "ro": "Explorarea Ostravei cu tramvaiul este foarte confortabilă iarna. Începeți din Piața Masaryk într-un vehicul încălzit traversând orașul alb.\n\nLa prânz ajungeți la Primărie. Timpii de așteptare în stații sunt scurți, ideal pentru temperaturile de îngheț.\n\nDupă-amiaza în Dolní Vítkovice, transportul public oferă o pauză caldă între vizitele la muzee. Tramvaiele sunt fiabile chiar și când ninge.\n\nZiua se încheie după vizita la Castel. Tramvaiele luminate care alunecă prin noaptea de iarnă oferă o atmosferă aparte orașului.",
+            "en": "Experiencing Ostrava by tram is especially cozy in winter. Start at Masaryk Square, riding in a heated carriage through the snowy city.\n\nAt noon, reach the City Hall. Waiting times at the stops are short, which is perfect during freezing temperatures.\n\nIn the afternoon at Dolní Vítkovice, transit provides a warm break between museum visits. The network remains reliable even during snowfall.\n\nEvening ends after the castle visit. The illuminated trams gliding through the winter night add a special atmosphere to the city."
+          },
+          "stops": [
+            {
+              "name": "Masaryk Square",
+              "tip_5lang": {
+                "de": "Warten Sie in den beheizten Wartebereichen.",
+                "hu": "Várjon a fűtött váróhelyiségekben, ahol lehet.",
+                "ro": "Așteptați în zonele de adăpost încălzite.",
+                "en": "Wait in the sheltered areas of the station."
+              }
+            },
+            {
+              "name": "New City Hall",
+              "tip_5lang": {
+                "de": "Die Trams fahren hier alle 5-10 Minuten.",
+                "hu": "A villamosok itt 5-10 percenként járnak.",
+                "ro": "Tramvaiele circulă aici la fiecare 5-10 minute.",
+                "en": "Trams run every 5-10 minutes from this stop."
+              }
+            },
+            {
+              "name": "Dolní Vítkovice",
+              "tip_5lang": {
+                "de": "Bahnsteige werden bei Schnee regelmäßig geräumt.",
+                "hu": "A peronokat havazáskor rendszeresen takarítják.",
+                "ro": "Peroanele sunt curățate regulat de zăpadă.",
+                "en": "Platforms are regularly cleared of snow."
+              }
+            },
+            {
+              "name": "Bolt Tower",
+              "tip_5lang": {
+                "de": "Warme Kleidung für den Weg zur Tram nötig.",
+                "hu": "Meleg ruha kell a villamosig tartó sétához.",
+                "ro": "Haine groase necesare pentru mersul la tramvai.",
+                "en": "Warm clothes needed for the walk to the tram stop."
+              }
+            },
+            {
+              "name": "Michal Mine",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Winterfahrplan der Busse.",
+                "hu": "Ellenőrizze a buszok téli menetrendjét.",
+                "ro": "Verificați orarul de iarnă al autobuzelor.",
+                "en": "Check the specific winter bus schedules."
+              }
+            },
+            {
+              "name": "Silesian Ostrava Castle",
+              "tip_5lang": {
+                "de": "Vorsicht vor Eisglätte an der Haltestelle.",
+                "hu": "Vigyázzon a jegesedésre a megálló környékén.",
+                "ro": "Atenție la polei în zona stației.",
+                "en": "Watch out for ice around the station area."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Fahrzeuge sind im Winter sehr gut beheizt.",
+              "Nutzen Sie die elektronischen Anzeigen für Verspätungen.",
+              "Entwerten Sie Ihr Ticket direkt beim Einsteigen.",
+              "Die Nachtlinien sind auch im Winter sehr sicher.",
+              "Warten Sie lieber drinnen, bis die Tram kommt."
+            ],
+            "hu": [
+              "A járművek télen nagyon jól fűtöttek.",
+              "Figyelje az elektronikus kijelzőket az esetleges késésekért.",
+              "Érvényesítse jegyét azonnal a felszálláskor.",
+              "Az éjszakai járatok télen is biztonságosak.",
+              "Érdemesebb fedett helyen várni a járat érkezéséig."
+            ],
+            "ro": [
+              "Vehiculele sunt foarte bine încălzite iarna.",
+              "Urmăriți panourile electronice pentru eventuale întârzieri.",
+              "Validați biletul imediat după urcare.",
+              "Liniile de noapte sunt foarte sigure și iarna.",
+              "Așteptați mai degrabă în interior până vine tramvaiul."
+            ],
+            "en": [
+              "Vehicles are very well heated during winter.",
+              "Monitor electronic displays for any weather delays.",
+              "Validate your ticket immediately upon boarding.",
+              "Night lines remain safe and reliable in winter.",
+              "It is better to wait inside a cafe until near departure."
+            ]
+          }
+        }
       }
     }
   }

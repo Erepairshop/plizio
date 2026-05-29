@@ -379,6 +379,214 @@
           "Most sights in the Old Town are very close to each other; walking is the best way to explore.",
           "Get lost in the small alleys to discover hidden courtyards and charming cafes."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt am Krakauer Tor, wo die Torbögen Schutz vor dem ersten Schauer bieten. Mittags laden der Dom und das Tribunal zur Innenbesichtigung ein, fernab vom nassen Kopfsteinpflaster. Am Nachmittag bietet das Schloss Lublin mit seinen Ausstellungen einen perfekten trockenen Rückzugsort. Der Abend klingt in einem gemütlichen Kellerrestaurant in der Altstadt bei Kerzenschein aus.",
+            "hu": "A reggel a Krakkói kapunál indul, ahol az árkádok menedéket nyújtanak az eső elől. Délben a Székesegyház és a Tribunál belső tereit érdemes felfedezni, elkerülve a vizes macskaköveket. Délután a Lublini Vár múzeuma és a Szentháromság-kápolna nyújt száraz, kulturális élményt. Az estét a Grodzka utca egyik hangulatos, meleg pincéjében fejezzük be egy forró levessel.",
+            "ro": "Dimineața începe la Poarta Cracoviei, unde arcadele oferă adăpost împotriva primelor picături. La prânz, Catedrala și Tribunalul oferă un refugiu uscat și plin de istorie. După-amiaza este dedicată Castelului din Lublin, unde muzeele interioare ne feresc de ploaie. Seara se încheie într-un restaurant primitor din Centrul Vechi, savurând atmosfera caldă în timp ce afară plouă.",
+            "en": "Morning starts at the Cracow Gate, where the arches provide shelter from the first showers. At noon, the Cathedral and the Tribunal interiors offer a dry historical escape. In the afternoon, Lublin Castle's museum and the Chapel of the Holy Trinity are perfect indoor highlights. The evening concludes in a cozy Old Town cellar restaurant, enjoying a warm meal away from the rain."
+          },
+          "stops": [
+            {
+              "name": "Cracow Gate",
+              "tip_5lang": {
+                "de": "Warten Sie den Schauer unter dem Torbogen ab.",
+                "hu": "Várja meg a zápor végét a kapu boltívei alatt.",
+                "ro": "Așteptați oprirea ploii sub arcadele porții.",
+                "en": "Wait out the shower under the gate's arches."
+              }
+            },
+            {
+              "name": "Lublin Old Town (Market Square)",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem rutschigen Kopfsteinpflaster.",
+                "hu": "Vigyázzon a csúszós macskaköveken az óvárosban.",
+                "ro": "Atenție la pavajul alunecos din centrul vechi.",
+                "en": "Watch your step on the slippery cobblestones."
+              }
+            },
+            {
+              "name": "Crown Tribunal",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Führung durch die unterirdische Route.",
+                "hu": "Vegyünk részt a föld alatti túrán a száraz élményért.",
+                "ro": "Vizitați traseul subteran pentru a rămâne la uscat.",
+                "en": "Take the underground route tour to stay dry."
+              }
+            },
+            {
+              "name": "Lublin Cathedral",
+              "tip_5lang": {
+                "de": "Bewundern Sie die akustische Sakristei im Inneren.",
+                "hu": "Csodálja meg az akusztikus sekrestyét odabent.",
+                "ro": "Admirați sacristia acustică din interior.",
+                "en": "Admire the acoustic vestry inside the dry cathedral."
+              }
+            },
+            {
+              "name": "Grodzka Gate",
+              "tip_5lang": {
+                "de": "Besuchen Sie das Zentrum 'Brama Grodzka' drinnen.",
+                "hu": "Látogasson el a Brama Grodzka központba belül.",
+                "ro": "Vizitați centrul Brama Grodzka în interior.",
+                "en": "Visit the Brama Grodzka center inside."
+              }
+            },
+            {
+              "name": "Lublin Castle",
+              "tip_5lang": {
+                "de": "Planen Sie viel Zeit für die Museumsgalerien ein.",
+                "hu": "Szánjon több időt a belső múzeumi galériákra.",
+                "ro": "Acordați mai mult timp galeriilor muzeului.",
+                "en": "Spend extra time exploring the museum galleries."
+              }
+            },
+            {
+              "name": "Chapel of the Holy Trinity",
+              "tip_5lang": {
+                "de": "Ein Muss für Kunstliebhaber, komplett überdacht.",
+                "hu": "Művészetkedvelőknek kötelező, teljesen fedett.",
+                "ro": "Obligatoriu pentru iubitorii de artă, complet acoperit.",
+                "en": "A must-see for art lovers, fully covered and dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Regenschirm ist in der windigen Altstadt unverzichtbar.",
+              "Die unterirdische Route Lublins ist perfekt für Regentage.",
+              "Viele Cafés in der Grodzka-Straße bieten gemütliche Innenplätze.",
+              "Das Kopfsteinpflaster wird bei Nässe sehr rutschig.",
+              "Museen haben montags oft geschlossen, prüfen Sie die Zeiten."
+            ],
+            "hu": [
+              "Az esernyő elengedhetetlen a szeles óvárosi utcákon.",
+              "A lublini föld alatti útvonal tökéletes esős napokra.",
+              "A Grodzka utca kávézói barátságos belső tereket kínálnak.",
+              "A macskaköves burkolat vizesen rendkívül csúúszós lehet.",
+              "A múzeumok hétfőnként zárva tarthatnak, ellenőrizze."
+            ],
+            "ro": [
+              "Umbrela este indispensabilă pe străzile vântoase ale orașului.",
+              "Traseul subteran din Lublin este perfect pentru zilele ploioase.",
+              "Cafenelele de pe strada Grodzka oferă spații interioare primitoare.",
+              "Pavajul de piatră devine foarte alunecos când este ud.",
+              "Muzeele pot fi închise lunea, verificați programul."
+            ],
+            "en": [
+              "An umbrella is essential in the windy Old Town streets.",
+              "Lublin's Underground Route is perfect for rainy days.",
+              "Many cafes on Grodzka Street offer cozy indoor seating.",
+              "Cobblestone pavement becomes very slippery when wet.",
+              "Museums might be closed on Mondays, check schedules."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frostige Luft umweht das Krakauer Tor am Morgen, während die Altstadt im Winterlicht glänzt. Mittags bietet die Kathedrale spirituelle Wärme, bevor ein heißer polnischer Eintopf in der Altstadt aufwärmt. Der Nachmittag am Schloss wird von der frühen Dämmerung begleitet, die die Mauern in goldenes Licht taucht. Abends leuchten die Weihnachtsdekorationen und laden zu einem Glühwein am Marktplatz ein.",
+            "hu": "Deres reggel fogad a Krakkói kapunál, az óváros mesebeli arcát mutatja a téli fényben. Délben a Székesegyház hűvös, de békés, utána egy forró lengyel leves ad erőt a folytatáshoz. Délután a várdombon a korai naplemente aranyba vonja a falakat. Este a kivilágított főtér és a forralt bor illata csalogatja a sétálókat.",
+            "ro": "Aerul înghețat înconjoară Poarta Cracoviei dimineața, în timp ce orașul vechi strălucește sub lumina iernii. La prânz, Catedrala oferă liniște, urmată de o porție de colțunași fierbinți într-un restaurant local. După-amiaza la Castel este marcată de apusul timpuriu care colorează zidurile în auriu. Seara, decorațiunile festive ne invită la un vin fiert în Piața Mare.",
+            "en": "Frosty air greets you at the Cracow Gate in the morning, with the Old Town glittering in winter light. At noon, the Cathedral provides a peaceful retreat, followed by a hot Polish meal in a local cellar. Afternoon at the Castle is accompanied by an early sunset, casting golden hues on the stone walls. Evening lights and mulled wine aromas fill the Market Square."
+          },
+          "stops": [
+            {
+              "name": "Cracow Gate",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf den Stufen.",
+                "hu": "Vigyázzon a jegesedésre a lépcsőkön.",
+                "ro": "Atenție la gheața de pe trepte.",
+                "en": "Watch out for ice on the steps."
+              }
+            },
+            {
+              "name": "Lublin Old Town (Market Square)",
+              "tip_5lang": {
+                "de": "Genießen Sie die festliche Beleuchtung ab 16 Uhr.",
+                "hu": "Élvezze az ünnepi kivilágítást délután 4-től.",
+                "ro": "Bucurați-vă de iluminatul festiv după ora 16.",
+                "en": "Enjoy the festive lights starting from 4 PM."
+              }
+            },
+            {
+              "name": "Crown Tribunal",
+              "tip_5lang": {
+                "de": "Im Inneren ist es angenehm temperiert.",
+                "hu": "Odabent kellemes a hőmérséklet a melegedéshez.",
+                "ro": "În interior este o temperatură plăcută pentru încălzire.",
+                "en": "The interior is pleasantly warm for a quick break."
+              }
+            },
+            {
+              "name": "Lublin Cathedral",
+              "tip_5lang": {
+                "de": "Dick anziehen, Kirchenräume können kühl sein.",
+                "hu": "Öltözzön rétegesen, a templombelső hűvös lehet.",
+                "ro": "Îmbrăcați-vă bine, interiorul bisericii poate fi rece.",
+                "en": "Dress warmly, church interiors can be chilly."
+              }
+            },
+            {
+              "name": "Grodzka Gate",
+              "tip_5lang": {
+                "de": "Der Wind pfeift hier im Winter oft stark.",
+                "hu": "A szél itt télen gyakran erősen fúj.",
+                "ro": "Vântul suflă adesea puternic aici iarna.",
+                "en": "The wind often blows strongly here in winter."
+              }
+            },
+            {
+              "name": "Lublin Castle",
+              "tip_5lang": {
+                "de": "Der Aufstieg zum Schlosshügel kann rutschig sein.",
+                "hu": "A várdombra vezető út csúszós lehet a hótól.",
+                "ro": "Urcarea spre castel poate fi alunecoasă din cauza zăpezii.",
+                "en": "The climb to the castle hill can be slippery with snow."
+              }
+            },
+            {
+              "name": "Chapel of the Holy Trinity",
+              "tip_5lang": {
+                "de": "Drinnen sind die wertvollen Fresken geschützt.",
+                "hu": "Odabent a falak védik az értékes freskókat.",
+                "ro": "Frescele prețioase sunt protejate în interior.",
+                "en": "The precious frescoes are well-protected inside."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Dezember bereits gegen 15:45 Uhr unter.",
+              "Tragen Sie Schuhe mit gutem Profil für den Schlosshügel.",
+              "Wärmen Sie sich mit 'Grzaniec' (Glühwein) auf dem Markt auf.",
+              "Die Museen sind im Winter gut beheizt.",
+              "Warme Handschuhe sind beim Fotografieren draußen wichtig."
+            ],
+            "hu": [
+              "A nap decemberben már 15:45 körül lemegy.",
+              "Viseljen jó tapadású cipőt a várdombhoz.",
+              "Melegedjen fel 'Grzaniec'-szel (forralt bor) a főtéren.",
+              "A múzeumok télen is jól fűtöttek és kényelmesek.",
+              "A meleg kesztyű fontos a kinti fotózáshoz."
+            ],
+            "ro": [
+              "Soarele apune deja în jurul orei 15:45 în decembrie.",
+              "Purtați încălțăminte cu aderență bună pentru dealul castelului.",
+              "Încălziți-vă cu un 'Grzaniec' (vin fiert) în Piața Mare.",
+              "Muzeele sunt bine încălzite în timpul iernii.",
+              "Mănușile groase sunt esențiale pentru fotografiatul afară."
+            ],
+            "en": [
+              "Sunset is as early as 3:45 PM in December.",
+              "Wear boots with good grip for the castle hill climb.",
+              "Warm up with 'Grzaniec' (mulled wine) at the Market Square.",
+              "Museums are well-heated and comfortable in winter.",
+              "Warm gloves are essential for outdoor photography."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -752,6 +960,214 @@
           "A good lock is essential, especially when visiting sights for an extended period.",
           "Plan your route to account for one-way streets outside the center."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein erfrischender, nasser Start am Krakauer Tor, wo man unter den Arkaden die Regenjacke richtet. Mittags wird das Radeln in der Altstadt durch glattes Pflaster zur Herausforderung, doch die Kathedrale bietet eine lange Pause. Am Nachmittag führt der Weg zum Schloss, wo die Fahrradständer oft überdacht sind. Der Abend endet nach einer vorsichtigen Fahrt durch Pfützen in einer fahrradfreundlichen Bar.",
+            "hu": "Frissítő, vizes indulás a Krakkói kapunál, az árkádok alatt igazítjuk meg az esőkabátot. Délben a csúszós macskakő próbára teszi a bringásokat az óvárosban, de a Székesegyház hosszú pihenőt nyújt. Délután a vár felé vesszük az irányt, ahol a kerékpártárolók gyakran fedettek. Az este egy óvatos, tócsakerülgetős tekerés után egy bringásbarát bárban ér véget.",
+            "ro": "Un început răcoros și umed la Poarta Cracoviei, unde ne ajustăm pelerinele sub arcade. La prânz, pedalatul prin Centrul Vechi devine o provocare din cauza pavajului ud, dar Catedrala oferă o pauză lungă. După-amiaza traseul duce spre Castel, unde suporturile de biciclete sunt adesea acoperite. Seara se încheie după o tură prudentă printre bălți, într-un bar primitor.",
+            "en": "A refreshing, wet start at Cracow Gate, adjusting rain gear under the arches. At noon, cycling through the Old Town is challenging due to slippery stones, but the Cathedral offers a long rest. In the afternoon, head towards the Castle, where bike racks are often sheltered. The evening ends after a cautious ride through puddles in a bike-friendly local spot."
+          },
+          "stops": [
+            {
+              "name": "Cracow Gate",
+              "tip_5lang": {
+                "de": "Befestigen Sie die Regenhaube auf dem Helm.",
+                "hu": "Rögzítse az esővédőt a sisakján.",
+                "ro": "Fixați husa de ploaie pe cască.",
+                "en": "Secure your helmet's rain cover here."
+              }
+            },
+            {
+              "name": "Lublin Old Town (Market Square)",
+              "tip_5lang": {
+                "de": "Vorsicht in engen Kurven bei Nässe.",
+                "hu": "Vigyázzon a szűk kanyarokban a vizes úton.",
+                "ro": "Atenție în curbele strânse pe carosabil ud.",
+                "en": "Be careful in tight turns on wet stones."
+              }
+            },
+            {
+              "name": "Lublin Cathedral",
+              "tip_5lang": {
+                "de": "Lange Pause nutzen, um die Kleidung zu trocknen.",
+                "hu": "Használja a hosszú pihenőt a ruha szárítására.",
+                "ro": "Folosiți pauza lungă pentru a vă usca hainele.",
+                "en": "Use the long break to let your gear dry."
+              }
+            },
+            {
+              "name": "Dominican Monastery",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter dem Klostereingang.",
+                "hu": "Keressen menedéket a kolostor bejárata alatt.",
+                "ro": "Căutați adăpost sub intrarea mănăstirii.",
+                "en": "Find shelter under the monastery entrance."
+              }
+            },
+            {
+              "name": "Grodzka Gate",
+              "tip_5lang": {
+                "de": "Vermeiden Sie tiefere Pfützen am Straßenrand.",
+                "hu": "Kerülje a mélyebb tócsákat az út szélén.",
+                "ro": "Evitați bălțile adânci de la marginea drumului.",
+                "en": "Avoid deeper puddles at the edge of the road."
+              }
+            },
+            {
+              "name": "Lublin Castle",
+              "tip_5lang": {
+                "de": "Schieben Sie das Rad auf den nassen Rampen.",
+                "hu": "Tolja a biciklit a vizes emelkedőkön.",
+                "ro": "Împingeți bicicleta pe rampele ude.",
+                "en": "Push your bike on the wet ramps for safety."
+              }
+            },
+            {
+              "name": "Chapel of the Holy Trinity",
+              "tip_5lang": {
+                "de": "Fahrradschloss vor Schlamm schützen.",
+                "hu": "Védje a kerékpárzárat a sártól.",
+                "ro": "Protejați încuietoarea bicicletei de noroi.",
+                "en": "Protect your bike lock from mud splashes."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind bei Lublins Kopfsteinpflaster Pflicht.",
+              "Vermeiden Sie das Bremsen auf nassen Metallschächten.",
+              "Wasserdichte Packtaschen halten Ihre Ausrüstung trocken.",
+              "Die Sicht ist bei Regen schlechter, Licht einschalten.",
+              "Prüfen Sie Ihre Bremsbeläge vor der Fahrt im Regen."
+            ],
+            "hu": [
+              "A sárvédő kötelező a lublini macskaköves utakon.",
+              "Kerülje a fékezést a vizes csatornafedeleken.",
+              "A vízálló táskák szárazon tartják a felszerelését.",
+              "Esőben rosszabb a látótávolság, kapcsolja be a lámpát.",
+              "Ellenőrizze a fékbetéteket az esős indulás előtt."
+            ],
+            "ro": [
+              "Apărătorile sunt obligatorii pe străzile pavate.",
+              "Evitați frânarea pe capacele de canalizare ude.",
+              "Genzile impermeabile vă vor păstra echipamentul uscat.",
+              "Vizibilitatea e redusă pe ploaie, aprindeți luminile.",
+              "Verificați saboții de frână înainte de plecare."
+            ],
+            "en": [
+              "Mudguards are mandatory on Lublin's cobblestones.",
+              "Avoid braking on wet metal manhole covers.",
+              "Waterproof panniers will keep your gear dry.",
+              "Visibility is lower in rain, turn on your lights.",
+              "Check your brake pads before riding in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein knackig kalter Morgen am Krakauer Tor erfordert warme Handschuhe am Lenker. Mittags glänzt die Altstadt unter einer dünnen Schneedecke, während das Radeln durch die Kathedralen-Pause unterbrochen wird. Am Nachmittag wird die Fahrt zum Schloss zum Wettlauf gegen die frühe Dunkelheit. Der Abend endet mit einem heißen Tee, nachdem das Rad sicher im Trockenen verstaut wurde.",
+            "hu": "A csípős hideg reggel a Krakkói kapunál meleg kesztyűt követel a kormányon. Délben az óváros vékony hóréteg alatt csillog, a tekerést a Székesegyháznál tartott pihenő töri meg. Délután a vár felé tartó út versenyfutás a korai sötétedéssel. Az este egy forró teával zárul, miután a bringa biztonságos, száraz helyre került.",
+            "ro": "O dimineață geroasă la Poarta Cracoviei necesită mănuși groase pe ghidon. La prânz, orașul vechi strălucește sub un strat subțire de zăpadă, cu o pauză lungă la Catedrală. După-amiaza, drumul spre Castel este o cursă contra cronometru cu întunericul. Seara se încheie cu un ceai fierbinte, după ce bicicleta a fost parcată la loc uscat.",
+            "en": "A crisp, cold morning at Cracow Gate requires warm gloves on the handlebars. At noon, the Old Town glitters under a thin layer of snow, with a cycling break at the Cathedral. In the afternoon, the ride to the Castle is a race against the early darkness. The evening ends with a hot tea after securing the bike in a dry spot."
+          },
+          "stops": [
+            {
+              "name": "Cracow Gate",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenem Kondenswasser am Boden.",
+                "hu": "Vigyázzon a lefagyott páralecsapódásra az úton.",
+                "ro": "Atenție la condensul înghețat de pe carosabil.",
+                "en": "Watch out for frozen condensation on the ground."
+              }
+            },
+            {
+              "name": "Lublin Old Town (Market Square)",
+              "tip_5lang": {
+                "de": "Fahren Sie langsam durch den Schneematsch.",
+                "hu": "Hajtson lassan a latyakos szakaszokon.",
+                "ro": "Pedalați încet prin zonele cu zăpadă topită.",
+                "en": "Ride slowly through the slushy sections."
+              }
+            },
+            {
+              "name": "Lublin Cathedral",
+              "tip_5lang": {
+                "de": "Fahrradschloss kann bei Frost einfrieren.",
+                "hu": "A kerékpárzár befagyhat a nagy hidegben.",
+                "ro": "Antifurtul bicicletei poate îngheța la ger.",
+                "en": "Your bike lock might freeze in heavy frost."
+              }
+            },
+            {
+              "name": "Dominican Monastery",
+              "tip_5lang": {
+                "de": "Schattige Gassen sind oft glatter.",
+                "hu": "Az árnyékos szűk utcák gyakran jegesebbek.",
+                "ro": "Străduțele umbrite sunt adesea mai înghețate.",
+                "en": "Shaded narrow streets are often icier."
+              }
+            },
+            {
+              "name": "Grodzka Gate",
+              "tip_5lang": {
+                "de": "Licht bereits am frühen Nachmittag prüfen.",
+                "hu": "Már kora délután ellenőrizze a lámpákat.",
+                "ro": "Verificați luminile încă de la prânz.",
+                "en": "Check your lights early in the afternoon."
+              }
+            },
+            {
+              "name": "Lublin Castle",
+              "tip_5lang": {
+                "de": "Vorsicht beim Absteigen auf Eisplatten.",
+                "hu": "Vigyázzon a leszállásnál a jégfoltokra.",
+                "ro": "Atenție la coborârea de pe bicicletă pe gheață.",
+                "en": "Be careful when dismounting on icy patches."
+              }
+            },
+            {
+              "name": "Chapel of the Holy Trinity",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Wärme drinnen zur Regeneration.",
+                "hu": "Használja a benti meleget a felfrissüléshez.",
+                "ro": "Folosiți căldura din interior pentru recuperare.",
+                "en": "Use the warmth inside to recover from the cold."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Verringern Sie den Reifendruck für mehr Grip auf Schnee.",
+              "Akku-Lampen entladen sich bei Kälte schneller.",
+              "Tragen Sie winddichte Kleidung in mehreren Schichten.",
+              "Achten Sie auf Streusalz, es greift die Kette an.",
+              "Vermeiden Sie plötzliches Bremsen auf rutschigem Grund."
+            ],
+            "hu": [
+              "Csökkentse a guminyomást a jobb tapadásért havon.",
+              "Az akkumulátoros lámpák gyorsabban merülnek hidegben.",
+              "Viseljen szélálló ruházatot több rétegben.",
+              "Ügyeljen az útszóró sóra, károsítja a láncot.",
+              "Kerülje a hirtelen fékezést csúszós felületen."
+            ],
+            "ro": [
+              "Reduceți presiunea în pneuri pentru aderență pe zăpadă.",
+              "Bateriile luminilor se descarcă mai repede la frig.",
+              "Purtați haine rezistente la vânt în mai multe straturi.",
+              "Atenție la sarea de pe drum, atacă lanțul.",
+              "Evitați frânarea bruscă pe suprafețe alunecoase."
+            ],
+            "en": [
+              "Lower tire pressure slightly for better grip on snow.",
+              "Battery lights drain faster in freezing temperatures.",
+              "Wear windproof clothing in multiple layers.",
+              "Watch out for road salt; it can corrode your chain.",
+              "Avoid sudden braking on slippery surfaces."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1107,6 +1523,196 @@
           "The Old Town is a pedestrian zone; the car is not an option here.",
           "Plan your drives between clusters outside of rush hours to save time."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt entspannt am Parkplatz Targi Lublin, während die Scheibenwischer den Regen rhythmisch beiseiteschieben. Mittags parken wir nah an der Altstadt, um den Weg zum Dom im Trockenen zu bewältigen. Am Nachmittag führt die kurze Fahrt zum Schlossparkplatz direkt vor die Tore der Geschichte. Der Abend endet trocken und komfortabel mit der Rückfahrt durch die beleuchteten, nassen Straßen Lublins.",
+            "hu": "A nap kényelmesen indul a Targi Lublin parkolóban, miközben az ablaktörlők ütemesen söprik az esőt. Délben az óvároshoz közel parkolunk, hogy szárazon jussunk el a Székesegyházhoz. Délután a rövid autózás a vár parkolójáig közvetlenül a történelem kapujába visz. Az este kényelmesen ér véget a kivilágított, vizes utcákon való visszautazással.",
+            "ro": "Ziua începe relaxat la parcarea Targi Lublin, în timp ce ștergătoarele îndepărtează ritmic ploaia. La prânz parcăm aproape de Centrul Vechi pentru a ajunge uscați la Catedrală. După-amiaza, scurta deplasare spre parcarea Castelului ne duce chiar la porțile istoriei. Seara se încheie confortabil cu drumul de întoarcere prin străzile luminate și ude ale orașului.",
+            "en": "The day starts relaxed at Targi Lublin parking, with wipers rhythmically clearing the rain. At noon, we park close to the Old Town to reach the Cathedral while staying dry. In the afternoon, a short drive to the Castle parking brings us right to the gates of history. The evening ends comfortably with a drive through the illuminated, wet streets of Lublin."
+          },
+          "stops": [
+            {
+              "name": "Parking at Targi Lublin",
+              "tip_5lang": {
+                "de": "Parken Sie näher an der Ausfahrt im Regen.",
+                "hu": "Parkoljon közelebb a kijárathoz esőben.",
+                "ro": "Parcați mai aproape de ieșire pe timp de ploaie.",
+                "en": "Park closer to the exit during heavy rain."
+              }
+            },
+            {
+              "name": "Cracow Gate & Old Town",
+              "tip_5lang": {
+                "de": "Nutzen Sie Parkhäuser für trockene Ausstiege.",
+                "hu": "Használjon parkolóházakat a száraz kiszálláshoz.",
+                "ro": "Folosiți parcări etajate pentru a coborî la uscat.",
+                "en": "Use multi-story parking for a dry exit."
+              }
+            },
+            {
+              "name": "Lublin Cathedral",
+              "tip_5lang": {
+                "de": "Kurzer Laufweg vom Parkplatz zum Portal.",
+                "hu": "Rövid séta a parkolótól a főbejáratig.",
+                "ro": "Distanță scurtă de mers de la parcare la poartă.",
+                "en": "Short walking distance from parking to the portal."
+              }
+            },
+            {
+              "name": "Drive to the Castle Parking",
+              "tip_5lang": {
+                "de": "Achten Sie auf Pfützen in Senken beim Fahren.",
+                "hu": "Vigyázzon a mély tócsákra vezetés közben.",
+                "ro": "Atenție la bălțile adânci în timpul condusului.",
+                "en": "Watch out for deep puddles while driving."
+              }
+            },
+            {
+              "name": "Lublin Castle",
+              "tip_5lang": {
+                "de": "Der Parkplatz bietet direkten Zugang zum Hügel.",
+                "hu": "A parkoló közvetlen hozzáférést biztosít a dombhoz.",
+                "ro": "Parcarea oferă acces direct spre deal.",
+                "en": "The parking lot offers direct access to the hill."
+              }
+            },
+            {
+              "name": "Chapel of the Holy Trinity",
+              "tip_5lang": {
+                "de": "Schirm im Auto griffbereit halten.",
+                "hu": "Tartsa az esernyőt kéznél az autóban.",
+                "ro": "Țineți umbrela la îndemână în mașină.",
+                "en": "Keep your umbrella handy in the car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Parkhäuser in der Innenstadt sparen Zeit im Regen.",
+              "Vermeiden Sie das Parken unter alten Bäumen bei Sturm.",
+              "Prüfen Sie den Zustand Ihrer Scheibenwischer vorab.",
+              "Bei starkem Regen ist die Sicht in engen Gassen begrenzt.",
+              "Nutzen Sie Park-Apps, um das Bezahlen im Regen zu vermeiden."
+            ],
+            "hu": [
+              "A belvárosi parkolóházak időt spórolnak esőben.",
+              "Kerülje a parkolást öreg fák alatt viharos esőben.",
+              "Indulás előtt ellenőrizze az ablaktörlők állapotát.",
+              "Heves esőben korlátozott a látótávolság a szűk utcákban.",
+              "Használjon parkoló-appot, hogy ne kelljen kint fizetni."
+            ],
+            "ro": [
+              "Parcările etajate economisesc timp pe ploaie.",
+              "Evitați parcarea sub copaci bătrâni pe furtună.",
+              "Verificați starea ștergătoarelor înainte de plecare.",
+              "Vizibilitatea e redusă pe străduțe în caz de ploaie torențială.",
+              "Folosiți aplicații de parcare pentru a evita plata afară."
+            ],
+            "en": [
+              "Indoor parking lots save time and keep you dry.",
+              "Avoid parking under old trees during stormy rain.",
+              "Check your wiper blades' condition before starting.",
+              "Visibility is limited in narrow streets during heavy rain.",
+              "Use parking apps to avoid paying at machines in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen beginnt mit dem Enteisen der Scheiben am Parkplatz, bevor die Fahrt durch das verschneite Lublin startet. Mittags bietet das Auto einen warmen Rückzugsort zwischen den Besichtigungen der Altstadt und der Kathedrale. Am Nachmittag gleitet der Wagen zum Schlossparkplatz, während die Stadtlichter in der Kälte funkeln. Der Abend endet mit einer gemütlichen Fahrt durch das festlich beleuchtete Lublin.",
+            "hu": "A téli reggel jégkaparással indul a parkolóban, mielőtt nekivágnánk a havas Lublinnak. Délben az autó meleg menedéket nyújt az óvárosi és székesegyházi séta között. Délután a kocsi a vár parkolójába siklik, miközben a város fényei szikráznak a hidegben. Az este kényelmes autózással zárul az ünnepi díszbe öltözött városban.",
+            "ro": "Dimineața de iarnă începe cu dezghețarea parbrizului înainte de a porni prin Lublinul înzăpezit. La prânz, mașina oferă un refugiu cald între vizitele la Centrul Vechi și Catedrală. După-amiaza, mașina alunecă spre parcarea Castelului, în timp ce luminile orașului scânteiază în frig. Seara se încheie cu o plimbare confortabilă prin orașul decorat festiv.",
+            "en": "Winter morning starts with de-icing the windows before driving through snowy Lublin. At noon, the car provides a warm retreat between exploring the Old Town and the Cathedral. In the afternoon, the car glides to the Castle parking as city lights sparkle in the cold. The evening ends with a cozy drive through the festively lit streets."
+          },
+          "stops": [
+            {
+              "name": "Parking at Targi Lublin",
+              "tip_5lang": {
+                "de": "Parkplatz kann morgens sehr glatt sein.",
+                "hu": "A parkoló reggelente nagyon jeges lehet.",
+                "ro": "Parcarea poate fi foarte alunecoasă dimineața.",
+                "en": "The parking lot can be very icy in the morning."
+              }
+            },
+            {
+              "name": "Cracow Gate & Old Town",
+              "tip_5lang": {
+                "de": "Planen Sie Zeit für die Parkplatzsuche ein.",
+                "hu": "Számoljon extra időt a parkolóhely keresésére.",
+                "ro": "Alocați timp suplimentar pentru găsirea parcării.",
+                "en": "Allow extra time for finding a parking spot."
+              }
+            },
+            {
+              "name": "Lublin Cathedral",
+              "tip_5lang": {
+                "de": "Auto vorheizen während der Innenbesichtigung.",
+                "hu": "Melegítse elő az autót a benti látogatás alatt.",
+                "ro": "Preîncălziți mașina în timpul vizitei interioare.",
+                "en": "Pre-heat the car during your indoor visit."
+              }
+            },
+            {
+              "name": "Drive to the Castle Parking",
+              "tip_5lang": {
+                "de": "Vorsicht vor Schneewehen auf den Nebenstraßen.",
+                "hu": "Vigyázzon a hóátfúvásokra a mellékutcákban.",
+                "ro": "Atenție la troienele de zăpadă pe străzile secundare.",
+                "en": "Watch out for snowdrifts on side streets."
+              }
+            },
+            {
+              "name": "Lublin Castle",
+              "tip_5lang": {
+                "de": "Parkplatz wird meist gut geräumt.",
+                "hu": "A parkolót általában jól takarítják a hótól.",
+                "ro": "Parcarea este de obicei bine deszăpezită.",
+                "en": "The parking lot is usually well-cleared of snow."
+              }
+            },
+            {
+              "name": "Chapel of the Holy Trinity",
+              "tip_5lang": {
+                "de": "Eiskratzer im Kofferraum nicht vergessen.",
+                "hu": "Ne felejtse a jégkaparót a csomagtartóban.",
+                "ro": "Nu uitați răzuitoarea de gheață în portbagaj.",
+                "en": "Don't forget the ice scraper in the trunk."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Frostschutz in der Scheibenwaschanlage.",
+              "Die Batterieleistung sinkt bei extremer Kälte.",
+              "Vermeiden Sie die Handbremse bei Frost (Festfrieren).",
+              "Winterreifen sind in Lublin unbedingt erforderlich.",
+              "Halten Sie eine warme Decke für Notfälle im Auto bereit."
+            ],
+            "hu": [
+              "Ellenőrizze a fagyállót a szélvédőmosóban.",
+              "Az akkumulátor teljesítménye csökken nagy hidegben.",
+              "Kerülje a kézifék használatát erős fagyban.",
+              "Téli gumiabroncs használata Lublinban kötelező.",
+              "Tartson egy meleg takarót az autóban vészhelyzetre."
+            ],
+            "ro": [
+              "Verificați antigelul în lichidul de parbriz.",
+              "Performanța bateriei scade la ger extrem.",
+              "Evitați frâna de mână la temperaturi negative.",
+              "Anvelopele de iarnă sunt obligatorii în Lublin.",
+              "Păstrați o pătură caldă în mașină pentru urgențe."
+            ],
+            "en": [
+              "Check the antifreeze level in your washer fluid.",
+              "Battery performance drops in extreme cold.",
+              "Avoid using the handbrake in freezing weather.",
+              "Winter tires are absolutely necessary in Lublin.",
+              "Keep a warm blanket in the car for emergencies."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1462,6 +2068,196 @@
           "Most buses and trolleybuses are modern and air-conditioned.",
           "Validate your ticket immediately upon boarding to avoid a fine."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt trocken in der Ankunftshalle, bevor der kurze Sprint vom Bus zum Krakauer Tor ansteht. Mittags bieten die Haltestellenhäuschen Schutz während der Fahrt zwischen Altstadt und Kathedrale. Am Nachmittag bringt der Transit uns bequem zum Fuße des Schlosses, fast ohne nass zu werden. Der Abend endet mit einer entspannten Fahrt in einem modernen, beheizten Bus zurück zum Startpunkt.",
+            "hu": "A reggel szárazon indul az érkezési csarnokban, mielőtt nekivágnánk a busztól a Krakkói kapuig tartó rövid sprintnek. Délben a megállók várói nyújtanak menedéket az óvárosi és székesegyházi út között. Délután a tömegközlekedés kényelmesen repít a vár lábához, szinte teljesen szárazon. Az este egy fűtött, modern buszon való pihentető utazással zárul.",
+            "ro": "Dimineața începe la uscat în stație, înainte de scurta fugă de la autobuz la Poarta Cracoviei. La prânz, adăposturile din stații ne feresc de ploaie în drum spre Catedrală. După-amiaza, transportul public ne duce confortabil la baza Castelului, aproape fără să ne udăm. Seara se încheie cu o călătorie relaxantă într-un autobuz modern și încălzit.",
+            "en": "Morning starts dry at the arrival stop, followed by a quick sprint from the bus to the Cracow Gate. At noon, bus shelters provide protection during the trip between the Old Town and the Cathedral. In the afternoon, transit brings us comfortably to the foot of the Castle, staying mostly dry. The evening ends with a relaxing ride on a modern, heated bus back to the start."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Brama Krakowska stop",
+              "tip_5lang": {
+                "de": "Warten Sie im Unterstand, bis der Regen nachlässt.",
+                "hu": "Várjon a megálló fedett részén, amíg csendesedik.",
+                "ro": "Așteptați în stația acoperită până se domolește ploaia.",
+                "en": "Wait in the sheltered stop until the rain eases."
+              }
+            },
+            {
+              "name": "Cracow Gate & Old Town",
+              "tip_5lang": {
+                "de": "Die Bushaltestellen sind hier meist überdacht.",
+                "hu": "A buszmegállók itt többnyire fedettek.",
+                "ro": "Stațiile de autobuz sunt în mare parte acoperite aici.",
+                "en": "The bus stops here are mostly sheltered."
+              }
+            },
+            {
+              "name": "Lublin Cathedral",
+              "tip_5lang": {
+                "de": "Planen Sie Pufferzeiten für Verspätungen ein.",
+                "hu": "Számoljon némi késéssel az esős forgalom miatt.",
+                "ro": "Alocați timp suplimentar pentru întârzieri în trafic.",
+                "en": "Allow extra time for transit delays due to rain."
+              }
+            },
+            {
+              "name": "Transit ride to 'Zamek' (Castle) stop",
+              "tip_5lang": {
+                "de": "Vorsicht vor rutschigen Böden in den Bussen.",
+                "hu": "Vigyázzon a buszok vizes, csúszós padlójára.",
+                "ro": "Atenție la podeaua alunecoasă din autobuz.",
+                "en": "Watch out for slippery floors inside the buses."
+              }
+            },
+            {
+              "name": "Lublin Castle",
+              "tip_5lang": {
+                "de": "Haltestelle liegt direkt unterhalb des Hügels.",
+                "hu": "A megálló közvetlenül a domb aljában van.",
+                "ro": "Stația se află chiar la baza dealului.",
+                "en": "The stop is located right at the base of the hill."
+              }
+            },
+            {
+              "name": "Chapel of the Holy Trinity",
+              "tip_5lang": {
+                "de": "Digitale Tickets am Handy im Trockenen kaufen.",
+                "hu": "Vásároljon digitális jegyet a száraz buszon.",
+                "ro": "Cumpărați bilete digitale pe telefon la uscat.",
+                "en": "Buy digital tickets on your phone while in the dry bus."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Lubika-App zeigt Echtzeit-Abfahrten an.",
+              "Vermeiden Sie das Warten direkt am Bordstein (Spritzwasser).",
+              "Tragen Sie Schuhe mit rutschfester Sohle für den Busausstieg.",
+              "In Bussen kann es bei Regen recht voll werden.",
+              "Nutzen Sie die Kontaktlos-Zahlung im Bus."
+            ],
+            "hu": [
+              "A Lubika alkalmazás valós idejű indulásokat mutat.",
+              "Kerülje a padka szélén állást a felcsapódó víz miatt.",
+              "Viseljen csúszásmentes talpú cipőt a buszról leszálláshoz.",
+              "Esőben a buszok a szokásosnál zsúfoltabbak lehetnek.",
+              "Használja az érintésmentes fizetést a járműveken."
+            ],
+            "ro": [
+              "Aplicația Lubika arată plecările în timp real.",
+              "Evitați să stați chiar pe marginea trotuarului (stropi).",
+              "Purtați pantofi cu talpă aderentă pentru coborârea din autobuz.",
+              "Autobuzele pot fi aglomerate pe timp de ploaie.",
+              "Folosiți plata contactless direct în autobuz."
+            ],
+            "en": [
+              "Use the Lubika app for real-time departure info.",
+              "Avoid waiting at the curb to avoid splashes from cars.",
+              "Wear shoes with non-slip soles for exiting buses.",
+              "Buses can get crowded during heavy rain.",
+              "Utilize contactless payment available on board."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frostige Ankunft am Morgen, doch die beheizten Busse machen den Weg zum Krakauer Tor angenehm. Mittags bieten die Transitfahrten zwischen der verschneiten Altstadt und der Kathedrale eine willkommene Aufwärmpause. Am Nachmittag bringt der Bus uns zum Fuß des glitzernden Schlosshügels, während es draußen dunkelt. Der Abend endet mit einer gemütlichen Rückfahrt durch das festlich beleuchtete Lublin.",
+            "hu": "Fagyos érkezés reggel, de a fűtött buszok kellemessé teszik az utat a Krakkói kapuig. Délben a közlekedés az óváros és a székesegyház között jóleső melegedési szünetet nyújt. Délután a busz a csillogó várdomb aljába visz, miközben kint sötétedik. Az este egy kényelmes utazással zárul az ünnepi díszbe öltözött városban.",
+            "ro": "Sosire geroasă dimineața, dar autobuzele încălzite fac drumul spre Poarta Cracoviei plăcut. La prânz, călătoria între Centrul Vechi înzăpezit și Catedrală oferă o pauză de încălzire binevenită. După-amiaza, autobuzul ne lasă la baza dealului sclipitor al Castelului. Seara se încheie cu o întoarcere confortabilă prin orașul luminat festiv.",
+            "en": "Frosty arrival in the morning, but heated buses make the trip to Cracow Gate pleasant. At noon, transit trips between the snowy Old Town and the Cathedral offer a welcome warm-up break. In the afternoon, the bus brings us to the foot of the glittering Castle hill as it darkens outside. The evening ends with a cozy ride through festively lit Lublin."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Brama Krakowska stop",
+              "tip_5lang": {
+                "de": "Warten Sie im Inneren des Terminals, falls möglich.",
+                "hu": "Várjon a terminál belső terében, ha lehetséges.",
+                "ro": "Așteptați în interiorul terminalului dacă este posibil.",
+                "en": "Wait inside the terminal building if possible."
+              }
+            },
+            {
+              "name": "Cracow Gate & Old Town",
+              "tip_5lang": {
+                "de": "Busse sind im Winter meist sehr gut beheizt.",
+                "hu": "A buszok télen általában nagyon jól fűtöttek.",
+                "ro": "Autobuzele sunt de obicei foarte bine încălzite iarna.",
+                "en": "Buses are usually very well-heated in winter."
+              }
+            },
+            {
+              "name": "Lublin Cathedral",
+              "tip_5lang": {
+                "de": "Haltestellen können bei Schneefall glatt sein.",
+                "hu": "A megállók környéke havazáskor csúszós lehet.",
+                "ro": "Stațiile pot fi alunecoase în caz de ninsoare.",
+                "en": "Stop areas can be slippery during snowfall."
+              }
+            },
+            {
+              "name": "Transit ride to 'Zamek' (Castle) stop",
+              "tip_5lang": {
+                "de": "Fahrplanänderungen bei starkem Schneefall prüfen.",
+                "hu": "Erős havazáskor ellenőrizze a menetrendet.",
+                "ro": "Verificați programul în caz de ninsoare abundentă.",
+                "en": "Check schedules for changes during heavy snow."
+              }
+            },
+            {
+              "name": "Lublin Castle",
+              "tip_5lang": {
+                "de": "Weg von der Haltestelle zum Schloss geräumt.",
+                "hu": "A megállótól a várig tartó utat takarítják.",
+                "ro": "Drumul de la stație spre castel este deszăpezit.",
+                "en": "The path from the stop to the castle is cleared."
+              }
+            },
+            {
+              "name": "Chapel of the Holy Trinity",
+              "tip_5lang": {
+                "de": "Handy-Akku vor Kälte schützen (E-Tickets).",
+                "hu": "Védje a telefont a hidegtől az e-jegyek miatt.",
+                "ro": "Protejați bateria telefonului de frig (bilete electronice).",
+                "en": "Keep your phone warm to save battery for e-tickets."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrkartenautomaten an Haltestellen können einfrieren.",
+              "Busse fahren im Winter oft etwas unregelmäßiger.",
+              "Schlagen Sie den Schnee vor dem Einsteigen von den Schuhen.",
+              "Digitale Anzeigetafeln informieren über Verspätungen.",
+              "Nutzen Sie die Wartezeit in Cafés nahe der Haltestellen."
+            ],
+            "hu": [
+              "A megállókban lévő jegyautomaták néha befagynak.",
+              "Télen a buszok gyakran rendszertelenebbül járnak.",
+              "Felszállás előtt verje le a havat a cipőjéről.",
+              "A digitális táblák jelzik az esetleges késéseket.",
+              "A várakozási időt töltse a megállók közeli kávézókban."
+            ],
+            "ro": [
+              "Automatele de bilete din stații pot îngheța.",
+              "Autobuzele pot circula neregulat pe timp de iarnă.",
+              "Scuturați zăpada de pe încălțăminte înainte de urcare.",
+              "Panourile digitale informează despre eventuale întârzieri.",
+              "Folosiți cafenelele de lângă stații pentru așteptare."
+            ],
+            "en": [
+              "Ticket machines at stops can sometimes freeze up.",
+              "Buses may run less regularly during heavy snow.",
+              "Shake snow off your shoes before boarding the bus.",
+              "Digital display boards show real-time delay info.",
+              "Spend wait times in cafes near the transit stops."
+            ]
+          }
+        }
       }
     }
   }

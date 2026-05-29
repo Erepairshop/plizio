@@ -356,6 +356,188 @@
           "Look out for small cafes for a break.",
           "Check the opening hours of the sights in advance."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet der Bahnhof Renens trockenen Unterschlupf für den Start. Mittags schützen die Arkaden an der Place de l'Europe vor dem Guss. Nachmittags sind die dicken Mauern des Schlosses und die Salle de spectacles ideale Rückzugsorte. Abends wirkt der Parc du Silence im Regen melancholisch und ruhig, perfekt für einen kurzen Abschluss unter dem Regenschirm.",
+            "hu": "Reggel a vasútállomás peronjai alatt indul a nap, védve az esőtől. Délben az Európa tér üzletei kínálnak fedezéket. Délután a várkastély masszív falai és a színházterem nyújtanak száraz menedéket a kultúrához. Este a Parc du Silence a kopogó esőben különleges, mélabús hangulatot áraszt, mielőtt visszatérnénk a melegbe.",
+            "ro": "Dimineața începe sub acoperișul gării Renens, feriți de ploaie. La prânz, arcadele din Place de l'Europe oferă adăpost temporar. După-amiaza, zidurile groase ale castelului și sala de spectacole sunt refugii culturale ideale. Seara, Parc du Silence are o atmosferă melancolică sub picăturile de ploaie, oferind un final liniștit zilei.",
+            "en": "Morning starts under the dry platforms of Renens station. At noon, the shopfronts at Place de l'Europe provide cover from the downpour. Afternoon is best spent inside the thick castle walls or the cultural hall. In the evening, the Parc du Silence feels melancholic and quiet in the rain, perfect for a short umbrella stroll to end the day."
+          },
+          "stops": [
+            {
+              "name": "Renens Railway Station",
+              "tip_5lang": {
+                "de": "Warten Sie unter dem Glasdach auf das Nachlassen des Schauers.",
+                "hu": "Várja meg az eső elálltát az üvegtető alatt.",
+                "ro": "Așteptați sub acoperișul de sticlă să treacă ploaia.",
+                "en": "Wait for the shower to pass under the glass roof."
+              }
+            },
+            {
+              "name": "Place de l'Europe",
+              "tip_5lang": {
+                "de": "Die Cafés rund um den Platz bieten gemütliche trockene Plätze.",
+                "hu": "A tér körüli kávézók barátságos, száraz pihenőt kínálnak.",
+                "ro": "Cafenelele din jurul pieței oferă locuri uscate și primitoare.",
+                "en": "Cafés around the square offer cozy dry spots."
+              }
+            },
+            {
+              "name": "Church of Saint-Maurice",
+              "tip_5lang": {
+                "de": "Ein perfekter Ort für stille Besinnung während es draußen regnet.",
+                "hu": "Tökéletes hely a csendes elmélyüléshez, amíg odakint esik.",
+                "ro": "Un loc perfect pentru reflecție liniștită în timp ce plouă afară.",
+                "en": "A perfect place for quiet reflection while it rains outside."
+              }
+            },
+            {
+              "name": "Château de Renens",
+              "tip_5lang": {
+                "de": "Besichtigen Sie die Innenräume, um dem nassen Wetter zu entfliehen.",
+                "hu": "Látogasson el a belső terekbe, hogy elmeneküljön a nedves idő elől.",
+                "ro": "Vizitați interiorul pentru a scăpa de vremea umedă.",
+                "en": "Visit the interiors to escape the wet weather."
+              }
+            },
+            {
+              "name": "Salle de spectacles",
+              "tip_5lang": {
+                "de": "Prüfen Sie das Programm für eine kurzfristige Indoor-Aufführung.",
+                "hu": "Nézze meg a műsort egy hirtelen jött fedett előadáshoz.",
+                "ro": "Verificați programul pentru un spectacol de interior.",
+                "en": "Check the schedule for a last-minute indoor performance."
+              }
+            },
+            {
+              "name": "Parc du Silence",
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den befestigten Wegen, um Pfützen zu vermeiden.",
+                "hu": "Maradjon a kövezett utakon a tócsák elkerülése érdekében.",
+                "ro": "Rămâneți pe aleile pavate pentru a evita bălțile.",
+                "en": "Stay on the paved paths to avoid puddles."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da einige Gehwege in Renens rutschig sein können.",
+              "Die öffentlichen Gebäude in Renens bieten oft kostenloses WLAN zum Planen.",
+              "Nutzen Sie die Unterführungen am Bahnhof als schnelle Abkürzung im Trockenen.",
+              "Ein Taschenschirm ist bei dem wechselhaften Genfersee-Wetter unverzichtbar."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert Renens egyes járdái csúszósak lehetnek.",
+              "A középületekben gyakran van ingyen wifi a további tervezéshez.",
+              "Használja az állomás aluljáróit gyors és száraz útvonalként.",
+              "A Genfi-tó környéki változékony időben egy zsebesernyő elengedhetetlen."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, trotuarele pot fi alunecoase.",
+              "Clădirile publice oferă adesea Wi-Fi gratuit pentru planificare.",
+              "Folosiți pasajele subterane ale gării ca scurtătură uscată.",
+              "O umbrelă de buzunar este esențială în zona lacului Geneva."
+            ],
+            "en": [
+              "Wear waterproof shoes as some pavements in Renens can be slippery.",
+              "Public buildings often offer free Wi-Fi for planning your next move.",
+              "Use the station underpasses as a quick and dry shortcut.",
+              "A pocket umbrella is essential in the changeable Lake Geneva weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen beginnt am belebten Bahnhof. Mittags wärmt ein Heißgetränk an der Place de l'Europe die Geister. Nachmittags bieten das Schloss und die Kulturzentren Schutz vor dem kalten Bise-Wind. Der Tag endet früh im Parc du Silence, wenn die Winterdämmerung die Stadt in ein sanftes, blaues Licht taucht.",
+            "hu": "A fagyos reggel a nyüzsgő állomáson indul. Délben egy forró ital az Európa téren melengeti fel a testet és lelket. Délután a várkastély és a kulturális központok védenek a hideg széltől. A nap korán ér véget a Parc du Silence-ben, amikor a téli szürkület puha kék fénybe vonja a várost.",
+            "ro": "O dimineață geroasă începe în gara plină de viață. La prânz, o băutură caldă în Place de l'Europe reîmprospătează spiritul. După-amiaza, castelul și centrele culturale oferă protecție împotriva vântului rece. Ziua se încheie devreme în Parc du Silence, când amurgul de iarnă scaldă orașul într-o lumină albastră.",
+            "en": "A frosty morning starts at the busy station. At noon, a hot drink at Place de l'Europe warms the spirits. Afternoon visits to the castle and cultural centers provide shelter from the cold wind. The day ends early at Parc du Silence as the winter dusk bathes the city in soft blue light."
+          },
+          "stops": [
+            {
+              "name": "Renens Railway Station",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stellen auf den Bahnsteigen.",
+                "hu": "Vigyázzon a jeges foltokra a peronokon.",
+                "ro": "Atenție la porțiunile înghețate de pe peroane.",
+                "en": "Watch out for icy patches on the platforms."
+              }
+            },
+            {
+              "name": "Place de l'Europe",
+              "tip_5lang": {
+                "de": "Genießen Sie die weihnachtliche Beleuchtung in der Dämmerung.",
+                "hu": "Élvezze az ünnepi kivilágítást a szürkületben.",
+                "ro": "Bucurați-vă de luminile festive la lăsarea serii.",
+                "en": "Enjoy the festive lighting during dusk."
+              }
+            },
+            {
+              "name": "Church of Saint-Maurice",
+              "tip_5lang": {
+                "de": "Die Kirche ist oft beheizt und bietet einen warmen Rückzugsort.",
+                "hu": "A templom gyakran fűtött, meleg menedéket nyújtva.",
+                "ro": "Biserica este adesea încălzită, oferind un refugiu cald.",
+                "en": "The church is often heated, providing a warm retreat."
+              }
+            },
+            {
+              "name": "Château de Renens",
+              "tip_5lang": {
+                "de": "Die verschneiten Gärten bieten tolle Fotomotive.",
+                "hu": "A havas kertek nagyszerű fotótémákat kínálnak.",
+                "ro": "Grădinile înzăpezite oferă oportunități foto excelente.",
+                "en": "The snowy gardens offer great photo opportunities."
+              }
+            },
+            {
+              "name": "Salle de spectacles",
+              "tip_5lang": {
+                "de": "Besuchen Sie eine Abendvorstellung, um der Kälte zu entgehen.",
+                "hu": "Látogasson el egy esti előadásra a hideg elől.",
+                "ro": "Vizitați un spectacol de seară pentru a evita frigul.",
+                "en": "Visit an evening performance to avoid the cold."
+              }
+            },
+            {
+              "name": "Parc du Silence",
+              "tip_5lang": {
+                "de": "Der Park schließt im Winter oft früher, planen Sie den Besuch vor 17 Uhr.",
+                "hu": "A park télen korábban zár, tervezze látogatását 17 óra elé.",
+                "ro": "Parcul se închide adesea mai devreme iarna, planificați vizita înainte de ora 17.",
+                "en": "The park often closes earlier in winter; plan your visit before 5 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Kleidung ist Pflicht, besonders wegen des Windes vom See her.",
+              "Die Sonne geht im Dezember bereits gegen 16:45 Uhr unter.",
+              "Viele Cafés in Renens servieren traditionelles Schweizer Fondue.",
+              "Achten Sie auf rutschige Treppen bei den historischen Gebäuden."
+            ],
+            "hu": [
+              "A meleg ruházat kötelező, különösen a tóról fújó szél miatt.",
+              "A nap decemberben már 16:45 körül lemegy.",
+              "Sok renens-i kávézó kínál hagyományos svájci fondüt.",
+              "Ügyeljen a csúszós lépcsőkre a történelmi épületeknél."
+            ],
+            "ro": [
+              "Îmbrăcămintea groasă este obligatorie din cauza vântului de pe lac.",
+              "Soarele apune în decembrie în jurul orei 16:45.",
+              "Multe cafenele din Renens servesc fondue tradițional elvețian.",
+              "Atenție la scările alunecoase ale clădirilor istorice."
+            ],
+            "en": [
+              "Warm clothing is mandatory, especially due to the wind from the lake.",
+              "The sun sets around 4:45 PM in December.",
+              "Many cafés in Renens serve traditional Swiss fondue.",
+              "Watch out for slippery stairs at historical buildings."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -729,6 +911,206 @@
           "Use bike paths wherever possible.",
           "Always lock your bike securely."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie vorsichtig an der Place de l'Europe auf nassem Kopfsteinpflaster. Das Silo bietet einen industriellen Anblick im Nebel. Die Ferme des Tilleuls ist der perfekte Ort, um das Fahrrad abzustellen und drinnen Kultur zu genießen. Der Parc du Silence wirkt im Regen noch friedlicher, während das Schloss und die Kirche im Grau thronen.",
+            "hu": "Kezdje óvatosan az Európa téren a nedves macskakövön. A Silo ipari látványt nyújt a ködben. A Ferme des Tilleuls tökéletes hely a bicikli leállítására és a benti kultúra élvezésére. A Parc du Silence még békésebb az esőben, miközben a kastély és a templom a szürkeségben trónol.",
+            "ro": "Începeți cu prudență în Place de l'Europe pe pavajul umed. Silo oferă o priveliște industrială în ceață. Ferme des Tilleuls este locul perfect pentru a lăsa bicicleta și a savura cultura în interior. Parc du Silence pare și mai liniștit în ploaie, în timp ce castelul și biserica domină peisajul gri.",
+            "en": "Start carefully at Place de l'Europe on wet cobblestones. The Silo offers an industrial view in the mist. Ferme des Tilleuls is the perfect spot to park the bike and enjoy indoor culture. Parc du Silence feels even more peaceful in the rain, with the castle and church looming in the grey."
+          },
+          "stops": [
+            {
+              "name": "Place de l'Europe",
+              "tip_5lang": {
+                "de": "Bremsen Sie vorsichtig auf dem nassen Pflaster.",
+                "hu": "Fékezzen óvatosan a nedves kövezeten.",
+                "ro": "Frânați cu grijă pe pavajul umed.",
+                "en": "Brake carefully on the wet pavement."
+              }
+            },
+            {
+              "name": "Silo de Renens",
+              "tip_5lang": {
+                "de": "Kurzer Stopp für ein Foto der dramatischen Wolken.",
+                "hu": "Gyors megálló egy fotóra a drámai felhőkről.",
+                "ro": "Scurtă oprire pentru o fotografie cu norii dramatici.",
+                "en": "Short stop for a photo of the dramatic clouds."
+              }
+            },
+            {
+              "name": "Ferme des Tilleuls",
+              "tip_5lang": {
+                "de": "Überdachte Fahrradständer vorhanden, ideal für eine lange Pause.",
+                "hu": "Fedett kerékpártárolók elérhetők, ideális egy hosszú szünetre.",
+                "ro": "Rasteluri de biciclete acoperite, ideal pentru o pauză lungă.",
+                "en": "Covered bike racks available, ideal for a long break."
+              }
+            },
+            {
+              "name": "Parc du Silence",
+              "tip_5lang": {
+                "de": "Vermeiden Sie Rasenflächen, da diese aufweichen.",
+                "hu": "Kerülje a gyepet, mert felázhat.",
+                "ro": "Evitați zonele cu iarbă, deoarece pot fi mlăștinoase.",
+                "en": "Avoid grassy areas as they might be soggy."
+              }
+            },
+            {
+              "name": "Salle de spectacles",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad in Sichtweite des Eingangs ab.",
+                "hu": "Állítsa le a biciklit a bejárat közelében.",
+                "ro": "Lăsați bicicleta la vedere lângă intrare.",
+                "en": "Park your bike within sight of the entrance."
+              }
+            },
+            {
+              "name": "Château de Renens",
+              "tip_5lang": {
+                "de": "Der Anstieg zum Schloss ist bei Regen anstrengender, schalten Sie rechtzeitig.",
+                "hu": "A kastélyhoz vezető emelkedő esőben fárasztóbb, váltson időben sebességet.",
+                "ro": "Urcarea spre castel este mai grea pe ploaie, schimbați viteza la timp.",
+                "en": "The climb to the castle is harder in the rain; shift gears in time."
+              }
+            },
+            {
+              "name": "Church of Saint-Maurice",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um den Regen für einen Moment zu vergessen.",
+                "hu": "Csendes hely, ahol egy pillanatra elfeledheti az esőt.",
+                "ro": "Un loc liniștit unde puteți uita de ploaie pentru un moment.",
+                "en": "A quiet place to forget the rain for a moment."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vollständige Regenbekleidung und Schutzbleche sind sehr zu empfehlen.",
+              "Vermeiden Sie Straßenmarkierungen, da diese extrem rutschig werden.",
+              "Die Fahrradwege in Renens sind gut markiert, aber bei Regen schlechter sichtbar.",
+              "Wischen Sie den Sattel vor der Weiterfahrt immer trocken."
+            ],
+            "hu": [
+              "A teljes esőruházat és a sárvédő erősen ajánlott.",
+              "Kerülje az útburkolati jeleket, mert rendkívül csúszóssá válnak.",
+              "Renens kerékpárútjai jól jelzettek, de esőben kevésbé láthatóak.",
+              "Továbbindulás előtt mindig törölje szárazra a nyerget."
+            ],
+            "ro": [
+              "Echipamentul complet de ploaie și aripile sunt recomandate.",
+              "Evitați marcajele rutiere, devin extrem de alunecoase.",
+              "Pistele de biciclete sunt bine marcate, dar mai puțin vizibile pe ploaie.",
+              "Ștergeți întotdeauna șaua înainte de a pleca din nou."
+            ],
+            "en": [
+              "Full rain gear and mudguards are highly recommended.",
+              "Avoid road markings as they become extremely slippery.",
+              "Cycle paths in Renens are well-marked but less visible in the rain.",
+              "Always wipe the saddle dry before riding off."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frische Winterluft begleitet die Fahrt ab Place de l'Europe. Das Silo ragt imposant in den klaren Himmel. In der Ferme des Tilleuls gibt es Wärme und Kultur. Der Parc du Silence zeigt seine kahle, skulpturale Schönheit, bevor man Salle de spectacles und das Schloss besucht. Der Abschluss an der Kirche ist bei klirrender Kälte besonders atmosphärisch.",
+            "hu": "Friss téli levegő kíséri az utat az Európa tértől. A Silo impozánsan magasodik a tiszta égbolt felé. A Ferme des Tilleuls-ben meleg és kultúra vár. A Parc du Silence megmutatja kopár, szoborszerű szépségét, mielőtt a színházat és a kastélyt meglátogatnánk. A templomi befejezés a metsző hidegben különösen hangulatos.",
+            "ro": "Aerul proaspăt de iarnă însoțește drumul din Place de l'Europe. Silo se înalță impunător spre cerul senin. La Ferme des Tilleuls găsiți căldură și cultură. Parc du Silence își arată frumusețea sculpturală, înainte de a vizita sala de spectacole și castelul. Finalul la biserică este deosebit de atmosferic pe ger.",
+            "en": "Fresh winter air accompanies the ride from Place de l'Europe. The Silo towers imposingly against the clear sky. Ferme des Tilleuls offers warmth and culture. Parc du Silence reveals its bare, sculptural beauty before visiting the theater and castle. The finale at the church is especially atmospheric in the biting cold."
+          },
+          "stops": [
+            {
+              "name": "Place de l'Europe",
+              "tip_5lang": {
+                "de": "Tragen Sie warme Handschuhe für die Fahrt.",
+                "hu": "Viseljen meleg kesztyűt az úthoz.",
+                "ro": "Purtați mănuși groase pentru drum.",
+                "en": "Wear warm gloves for the ride."
+              }
+            },
+            {
+              "name": "Silo de Renens",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp; das Metall wirkt im Winterlicht bläulich.",
+                "hu": "Gyors fotómegálló; a fém kékesnek tűnik a téli fényben.",
+                "ro": "Scurtă oprire foto; metalul pare albăstrui în lumina iernii.",
+                "en": "Short photo stop; the metal looks bluish in the winter light."
+              }
+            },
+            {
+              "name": "Ferme des Tilleuls",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich im Café auf, bevor es weitergeht.",
+                "hu": "Melegedjen fel a kávézóban, mielőtt továbbindulna.",
+                "ro": "Încălziți-vă în cafenea înainte de a continua.",
+                "en": "Warm up in the café before moving on."
+              }
+            },
+            {
+              "name": "Parc du Silence",
+              "tip_5lang": {
+                "de": "Achten Sie auf gefrorenes Laub auf den Wegen.",
+                "hu": "Ügyeljen a fagyott levelekre az utakon.",
+                "ro": "Atenție la frunzele înghețate de pe alei.",
+                "en": "Watch out for frozen leaves on the paths."
+              }
+            },
+            {
+              "name": "Salle de spectacles",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Innenraum für eine Pause vom Wind.",
+                "hu": "Használja a belső teret szélvédett pihenőnek.",
+                "ro": "Folosiți interiorul pentru o pauză de la vânt.",
+                "en": "Use the interior for a break from the wind."
+              }
+            },
+            {
+              "name": "Château de Renens",
+              "tip_5lang": {
+                "de": "Der Blick auf die verschneiten Dächer ist fantastisch.",
+                "hu": "A kilátás a havas tetőkre fantasztikus.",
+                "ro": "Priveliștea asupra acoperișurilor înzăpezite este fantastică.",
+                "en": "The view over the snowy roofs is fantastic."
+              }
+            },
+            {
+              "name": "Church of Saint-Maurice",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad sicher ab; Metall wird bei Frost spröde.",
+                "hu": "Állítsa le biztonságosan a biciklit; a fém fagyban rideggé válik.",
+                "ro": "Lăsați bicicleta în siguranță; metalul devine casant la ger.",
+                "en": "Park your bike safely; metal becomes brittle in frost."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Mehrschichtige Kleidung schützt am besten vor dem Fahrtwind.",
+              "Prüfen Sie den Reifendruck; kalte Luft verringert ihn.",
+              "Die Wege können durch Streusalz rutschig oder klebrig sein.",
+              "Planen Sie kürzere Etappen ein, um nicht auszukühlen."
+            ],
+            "hu": [
+              "A réteges öltözködés véd legjobban a menetszél ellen.",
+              "Ellenőrizze a guminyomást; a hideg levegő csökkenti azt.",
+              "Az utak a szórósótól csúszósak vagy ragacsosak lehetnek.",
+              "Tervezzen rövidebb szakaszokat, hogy ne hűljön ki."
+            ],
+            "ro": [
+              "Îmbrăcămintea stratificată protejează cel mai bine de vânt.",
+              "Verificați presiunea în anvelope; aerul rece o reduce.",
+              "Drumurile pot fi alunecoase sau lipicioase din cauza sării.",
+              "Planificați etape mai scurte pentru a nu vă răci prea tare."
+            ],
+            "en": [
+              "Layered clothing protects best against the wind chill.",
+              "Check tire pressure; cold air reduces it.",
+              "Paths can be slippery or sticky due to road salt.",
+              "Plan shorter legs to avoid getting too cold."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1085,6 +1467,188 @@
           "Pay attention to the speed limits.",
           "Allow time for traffic, especially during peak hours."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die Fahrt durch Renens bei Regen. Start in der Ferme des Tilleuls mit Kultur. Das Silo lässt sich gut vom Auto aus bewundern. An der Place de l'Europe und am Schloss finden Sie nahegelegene Parkplätze. Der Parc du Silence ist ein kurzer, erfrischender Abstecher, bevor Sie im warmen Auto zum Abschluss an die Kirche fahren.",
+            "hu": "Élvezze az autózást Renens-ben esőben. Kezdés a Ferme des Tilleuls-ben kultúrával. A Silo az autóból is jól megcsodálható. Az Európa téren és a kastélynál közeli parkolókat talál. A Parc du Silence egy rövid, frissítő kitérő, mielőtt a meleg autóval a templomhoz hajtana a befejezéshez.",
+            "ro": "Bucurați-vă de drumul prin Renens pe ploaie. Începeți la Ferme des Tilleuls cu cultură. Silo poate fi admirat bine din mașină. În Place de l'Europe și la castel găsiți parcări apropiate. Parc du Silence este o scurtă oprire revigorantă înainte de a merge cu mașina caldă spre biserică.",
+            "en": "Enjoy the drive through Renens in the rain. Start at Ferme des Tilleuls with culture. The Silo can be easily admired from the car. Near Place de l'Europe and the castle, you will find close parking. Parc du Silence is a short, refreshing detour before driving in your warm car to the final stop at the church."
+          },
+          "stops": [
+            {
+              "name": "Cluster Start: Ferme des Tilleuls",
+              "tip_5lang": {
+                "de": "Parkplatz direkt beim Kulturzentrum vorhanden.",
+                "hu": "Parkoló közvetlenül a kulturális központnál elérhető.",
+                "ro": "Parcare disponibilă direct la centrul cultural.",
+                "en": "Parking available right at the cultural center."
+              }
+            },
+            {
+              "name": "Silo de Renens",
+              "tip_5lang": {
+                "de": "Kurzer Halt am Straßenrand für ein schnelles Foto.",
+                "hu": "Rövid megállás az út szélén egy gyors fotóra.",
+                "ro": "Scurtă oprire pe marginea drumului pentru o poză rapidă.",
+                "en": "Short stop at the roadside for a quick photo."
+              }
+            },
+            {
+              "name": "Cluster Change: Place de l'Europe",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus unter dem Platz.",
+                "hu": "Használja a tér alatti parkolóházat.",
+                "ro": "Folosiți parcarea subterană de sub piață.",
+                "en": "Use the underground parking garage beneath the square."
+              }
+            },
+            {
+              "name": "Château de Renens",
+              "tip_5lang": {
+                "de": "Begrenzte Parkplätze, fahren Sie vorsichtig auf den nassen Wegen.",
+                "hu": "Korlátozott parkolóhelyek, vezessen óvatosan a nedves utakon.",
+                "ro": "Locuri de parcare limitate, conduceți cu atenție pe aleile umede.",
+                "en": "Limited parking spaces; drive carefully on the wet paths."
+              }
+            },
+            {
+              "name": "Church of Saint-Maurice",
+              "tip_5lang": {
+                "de": "Ruhiger Parkplatz in der Nähe der Kirche.",
+                "hu": "Csendes parkoló a templom közelében.",
+                "ro": "Parcare liniștită în apropierea bisericii.",
+                "en": "Quiet parking spot near the church."
+              }
+            },
+            {
+              "name": "Cluster Change: Parc du Silence",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den Park durch das Fenster.",
+                "hu": "Élvezze a park látványát az ablakon keresztül.",
+                "ro": "Bucurați-vă de priveliștea parcului prin geam.",
+                "en": "Enjoy the view of the park through the window."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schalten Sie bei Regen immer das Abblendlicht ein.",
+              "Achten Sie auf Aquaplaning auf der Hauptstraße nach Lausanne.",
+              "Viele Parkplätze in Renens sind kostenpflichtig (Parkuhr).",
+              "Lassen Sie keine Wertsachen sichtbar im Auto liegen."
+            ],
+            "hu": [
+              "Esőben mindig kapcsolja be a tompított fényszórót.",
+              "Ügyeljen a vízfelúszásra a Lausanne felé vezető főúton.",
+              "Renens-ben sok parkoló fizetős (parkolóóra).",
+              "Ne hagyjon értéktárgyat látható helyen az autóban."
+            ],
+            "ro": [
+              "Porniți întotdeauna faza scurtă pe ploaie.",
+              "Atenție la acvaplanare pe drumul principal spre Lausanne.",
+              "Multe parcări din Renens sunt cu plată.",
+              "Nu lăsați obiecte de valoare la vedere în mașină."
+            ],
+            "en": [
+              "Always turn on dipped headlights in the rain.",
+              "Watch out for aquaplaning on the main road to Lausanne.",
+              "Many parking spots in Renens are paid (parking meter).",
+              "Do not leave valuables visible in the car."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Verschneite Landschaften machen die Autofahrt in Renens besonders reizvoll. Start in der warmen Ferme des Tilleuls. Das Silo wirkt wie eine Eis-Skulptur. Die Parkhäuser an der Place de l'Europe bieten Schutz vor Frost. Nach dem Schlossbesuch wärmt die Heizung auf dem Weg zum Parc du Silence und der Kirche.",
+            "hu": "A havas táj különösen vonzóvá teszi az autózást Renens-ben. Kezdés a meleg Ferme des Tilleuls-ben. A Silo jégszobornak tűnik. Az Európa téri parkolóházak védenek a fagytól. A kastélylátogatás után a fűtés felmelegít a Parc du Silence és a templom felé vezető úton.",
+            "ro": "Peisajele înzăpezite fac drumul cu mașina în Renens foarte atractiv. Începeți la Ferme des Tilleuls. Silo pare o sculptură de gheață. Parcările din Place de l'Europe oferă protecție contra înghețului. După castel, încălzirea vă va relaxa în drum spre parc și biserică.",
+            "en": "Snowy landscapes make the drive in Renens especially charming. Start at the warm Ferme des Tilleuls. The Silo looks like an ice sculpture. Parking garages at Place de l'Europe provide protection from frost. After the castle visit, the heater warms you on the way to Parc du Silence and the church."
+          },
+          "stops": [
+            {
+              "name": "Cluster Start: Ferme des Tilleuls",
+              "tip_5lang": {
+                "de": "Parkplatz kann bei Schneefall rutschig sein.",
+                "hu": "A parkoló havazáskor csúszós lehet.",
+                "ro": "Parcarea poate fi alunecoasă în caz de ninsoare.",
+                "en": "Parking area can be slippery during snowfall."
+              }
+            },
+            {
+              "name": "Silo de Renens",
+              "tip_5lang": {
+                "de": "Der Silo wirkt im Winterlicht besonders metallisch-kühl.",
+                "hu": "A Silo téli fényben különösen fémesen hűvösnek hat.",
+                "ro": "Silo pare deosebit de rece și metalic în lumina iernii.",
+                "en": "The Silo looks especially metallic and cool in the winter light."
+              }
+            },
+            {
+              "name": "Cluster Change: Place de l'Europe",
+              "tip_5lang": {
+                "de": "Parkhaus schützt das Auto vor dem Einfrieren.",
+                "hu": "A parkolóház megvédi az autót a befagyástól.",
+                "ro": "Parcarea acoperită protejează mașina de îngheț.",
+                "en": "Indoor parking protects the car from freezing."
+              }
+            },
+            {
+              "name": "Château de Renens",
+              "tip_5lang": {
+                "de": "Anfahrt über schmale, eventuell glatte Straßen.",
+                "hu": "Megközelítés szűk, esetleg jeges utakon.",
+                "ro": "Acces pe străzi înguste, posibil alunecoase.",
+                "en": "Access via narrow, potentially icy roads."
+              }
+            },
+            {
+              "name": "Church of Saint-Maurice",
+              "tip_5lang": {
+                "de": "Kurzer Gehweg vom Parkplatz zur Kirche.",
+                "hu": "Rövid séta a parkolótól a templomig.",
+                "ro": "Scurtă plimbare de la parcare la biserică.",
+                "en": "Short walk from the parking to the church."
+              }
+            },
+            {
+              "name": "Cluster Change: Parc du Silence",
+              "tip_5lang": {
+                "de": "Wunderschöner Anblick bei Reif oder Schnee.",
+                "hu": "Gyönyörű látvány zúzmara vagy hó esetén.",
+                "ro": "Priveliște minunată în caz de chiciură sau zăpadă.",
+                "en": "Beautiful sight during hoarfrost or snow."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in der Schweiz bei diesen Bedingungen Pflicht.",
+              "Führen Sie einen Eiskratzer und Besen im Auto mit.",
+              "Prüfen Sie den Frostschutz in der Scheibenwaschanlage.",
+              "Fahren Sie bei Glätte besonders vorausschauend."
+            ],
+            "hu": [
+              "Svájcban téli gumi kötelező ilyen körülmények között.",
+              "Tartson jégkaparót és kefét az autóban.",
+              "Ellenőrizze a fagyállót a szélvédőmosóban.",
+              "Jeges úton vezessen különösen előrelátóan."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii în Elveția în aceste condiții.",
+              "Păstrați o răzuitoare de gheață și o perie în mașină.",
+              "Verificați lichidul de parbriz antigel.",
+              "Conduceți preventiv în caz de polei."
+            ],
+            "en": [
+              "Winter tires are mandatory in Switzerland in these conditions.",
+              "Keep an ice scraper and a brush in the car.",
+              "Check the antifreeze in the windshield washer fluid.",
+              "Drive extra cautiously in icy conditions."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1441,6 +2005,188 @@
           "Pay attention to the timetables, especially in the evening.",
           "Signal the bus driver when you want to get off."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der ÖPNV in Renens ist ideal bei Regen. Start am trockenen Bahnhof, dann mit dem Bus zur Place de l'Europe. Das Schloss und die Ferme des Tilleuls sind gut vernetzt. Die Salle de spectacles bietet ein warmes Abendprogramm. Der Parc du Silence ist ein kurzer Busstopp entfernt, bevor es zurück zum Bahnhof geht.",
+            "hu": "A renens-i tömegközlekedés ideális esőben. Kezdés a száraz állomáson, majd busszal az Európa térre. A kastély és a Ferme des Tilleuls jól megközelíthető. A Salle de spectacles meleg esti műsort kínál. A Parc du Silence egy rövid buszútra van, mielőtt visszatérnénk az állomásra.",
+            "ro": "Transportul public din Renens este ideal pe ploaie. Începeți în gara uscată, apoi cu autobuzul spre Place de l'Europe. Castelul și Ferme des Tilleuls sunt bine conectate. Salle de spectacles oferă un program cald de seară. Parc du Silence e la o scurtă călătorie cu autobuzul.",
+            "en": "Public transit in Renens is ideal in the rain. Start at the dry station, then take the bus to Place de l'Europe. The castle and Ferme des Tilleuls are well-connected. Salle de spectacles offers a warm evening program. Parc du Silence is just a short bus ride away before heading back to the station."
+          },
+          "stops": [
+            {
+              "name": "Arrival: Renens Railway Station",
+              "tip_5lang": {
+                "de": "Zentraler Knotenpunkt, alles im Trockenen erreichbar.",
+                "hu": "Központi csomópont, minden szárazon elérhető.",
+                "ro": "Nod central, totul este accesibil la adăpost.",
+                "en": "Central hub, everything accessible while staying dry."
+              }
+            },
+            {
+              "name": "Place de l'Europe",
+              "tip_5lang": {
+                "de": "Bushaltestelle direkt am Platz mit Unterstand.",
+                "hu": "Buszmegálló közvetlenül a téren, váróval.",
+                "ro": "Stație de autobuz direct în piață, cu adăpost.",
+                "en": "Bus stop right at the square with a shelter."
+              }
+            },
+            {
+              "name": "Château de Renens",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg von der nächsten Haltestelle.",
+                "hu": "Rövid séta a legközelebbi megállótól.",
+                "ro": "Scurtă plimbare de la cea mai apropiată stație.",
+                "en": "Short walk from the nearest bus stop."
+              }
+            },
+            {
+              "name": "Cluster Change: Ferme des Tilleuls",
+              "tip_5lang": {
+                "de": "Perfekt für eine ausgiebige Indoor-Pause.",
+                "hu": "Tökéletes egy alapos benti pihenőre.",
+                "ro": "Perfect pentru o pauză lungă la interior.",
+                "en": "Perfect for an extended indoor break."
+              }
+            },
+            {
+              "name": "Salle de spectacles",
+              "tip_5lang": {
+                "de": "Gute Anbindung für die Rückfahrt am Abend.",
+                "hu": "Jó összeköttetés az esti visszautazáshoz.",
+                "ro": "Conexiuni bune pentru întoarcerea de seară.",
+                "en": "Good connections for the evening return trip."
+              }
+            },
+            {
+              "name": "Cluster Change: Parc du Silence",
+              "tip_5lang": {
+                "de": "Haltestelle in unmittelbarer Nähe des Parks.",
+                "hu": "Megálló a park közvetlen közelében.",
+                "ro": "Stație în imediata apropiere a parcului.",
+                "en": "Bus stop in the immediate vicinity of the park."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die App der TL (Transports lausannois) für Echtzeit-Infos.",
+              "Tageskarten sind oft günstiger als Einzeltickets.",
+              "Die Busse in Renens sind modern und klimatisiert/beheizt.",
+              "Halten Sie Ihren Regenschirm beim Einsteigen geschlossen."
+            ],
+            "hu": [
+              "Használja a TL (Transports lausannois) appot a valós idejű infókért.",
+              "A napijegyek gyakran olcsóbbak, mint az egyedi jegyek.",
+              "Renens buszai modernek és fűtöttek.",
+              "Felszálláskor tartsa zárva az esernyőjét."
+            ],
+            "ro": [
+              "Folosiți aplicația TL pentru informații în timp real.",
+              "Abonamentele de o zi sunt adesea mai ieftine.",
+              "Autobuzele sunt moderne și bine încălzite.",
+              "Țineți umbrela închisă la urcarea în vehicul."
+            ],
+            "en": [
+              "Use the TL (Transports lausannois) app for real-time info.",
+              "Day passes are often cheaper than single tickets.",
+              "Buses in Renens are modern and well-heated.",
+              "Keep your umbrella closed when boarding."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterlicher Komfort mit Bus und Bahn. Start am warmen Bahnhof Renens. Die Place de l'Europe glänzt im Winterlicht. Kurze Busfahrten bringen Sie zum Schloss und zur Ferme des Tilleuls. Abends lockt die Salle de spectacles mit Kultur, bevor man den Parc du Silence in der blauen Stunde besucht und bequem zurückfährt.",
+            "hu": "Téli kényelem busszal és vonattal. Kezdés a meleg renens-i állomáson. Az Európa tér ragyog a téli fényben. Rövid buszutak visznek a kastélyhoz és a Ferme des Tilleuls-höz. Este a színház vonz kultúrával, mielőtt a kék órában meglátogatnánk a parkot és kényelmesen visszatérnénk.",
+            "ro": "Confort de iarnă cu autobuzul și trenul. Începeți în gara caldă. Place de l'Europe strălucește în lumina iernii. Călătorii scurte cu autobuzul vă duc la castel și la Ferme des Tilleuls. Seara, sala de spectacole vă atrage cu cultură înainte de o vizită la parc.",
+            "en": "Winter comfort by bus and train. Start at the warm Renens station. Place de l'Europe shines in the winter light. Short bus rides take you to the castle and Ferme des Tilleuls. In the evening, the theater beckons with culture before visiting the park during the blue hour and heading back comfortably."
+          },
+          "stops": [
+            {
+              "name": "Arrival: Renens Railway Station",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich im Bahnhofsgebäude auf.",
+                "hu": "Melegedjen fel az állomásépületben.",
+                "ro": "Încălziți-vă în clădirea gării.",
+                "en": "Warm up inside the station building."
+              }
+            },
+            {
+              "name": "Place de l'Europe",
+              "tip_5lang": {
+                "de": "Schöner Blick auf die Winterbeleuchtung.",
+                "hu": "Szép kilátás a téli kivilágításra.",
+                "ro": "O vedere frumoasă a luminilor de iarnă.",
+                "en": "Beautiful view of the winter lighting."
+              }
+            },
+            {
+              "name": "Château de Renens",
+              "tip_5lang": {
+                "de": "Busse fahren regelmäßig in Schlossnähe.",
+                "hu": "A buszok rendszeresen járnak a kastély közelében.",
+                "ro": "Autobuzele circulă regulat în apropierea castelului.",
+                "en": "Buses run regularly near the castle."
+              }
+            },
+            {
+              "name": "Cluster Change: Ferme des Tilleuls",
+              "tip_5lang": {
+                "de": "Drinnen gibt es heiße Schokolade und Kunst.",
+                "hu": "Odabent forró csoki és művészet vár.",
+                "ro": "În interior găsiți ciocolată caldă și artă.",
+                "en": "Inside, hot chocolate and art await."
+              }
+            },
+            {
+              "name": "Salle de spectacles",
+              "tip_5lang": {
+                "de": "Genießen Sie die gemütliche Atmosphäre drinnen.",
+                "hu": "Élvezze a barátságos benti hangulatot.",
+                "ro": "Bucurați-vă de atmosfera primitoare de interior.",
+                "en": "Enjoy the cozy indoor atmosphere."
+              }
+            },
+            {
+              "name": "Cluster Change: Parc du Silence",
+              "tip_5lang": {
+                "de": "Ein kurzer Winterspaziergang reicht bei der Kälte.",
+                "hu": "Egy rövid téli séta is elég a hidegben.",
+                "ro": "O scurtă plimbare de iarnă este suficientă pe ger.",
+                "en": "A short winter walk is enough in the cold."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrpläne können bei extremem Schneefall leicht abweichen.",
+              "Die Busse sind gut geheizt – ideal zum Aufwärmen.",
+              "Kaufen Sie Tickets bequem per SMS oder am Automaten.",
+              "Achten Sie auf vereiste Haltestellenbereiche."
+            ],
+            "hu": [
+              "A menetrendek erős havazáskor kissé eltérhetnek.",
+              "A buszok jól fűtöttek – ideálisak a felmelegedéshez.",
+              "Vásároljon jegyet kényelmesen SMS-ben vagy automatánál.",
+              "Ügyeljen a jeges megállókra."
+            ],
+            "ro": [
+              "Orarele pot varia ușor în caz de ninsoare abundentă.",
+              "Autobuzele sunt bine încălzite – ideale pentru încălzire.",
+              "Cumpărați bilete prin SMS sau de la automate.",
+              "Atenție la zonele înghețate din stații."
+            ],
+            "en": [
+              "Schedules may vary slightly during heavy snowfall.",
+              "Buses are well-heated – ideal for warming up.",
+              "Buy tickets conveniently via SMS or at the machine.",
+              "Watch out for icy areas at bus stops."
+            ]
+          }
+        }
       }
     }
   }

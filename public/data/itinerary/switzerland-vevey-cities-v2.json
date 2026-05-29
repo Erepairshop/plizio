@@ -386,6 +386,214 @@
           "Most museums are closed on Mondays, so plan accordingly.",
           "A walk along the lake at sunset is an unforgettable experience."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Morgen am Grande Place, wo die Arkaden Schutz bieten. Das Kameramuseum ist ein perfekter Rückzugsort vor dem Regen mit seiner faszinierenden Technik. Mittags genießen Sie die gemütliche Atmosphäre in einem Restaurant der Altstadt. Den Nachmittag verbringen Sie im interaktiven Alimentarium. Den Tag schließen Sie mit einem kurzen, erfrischenden Spaziergang am Seeufer ab.",
+            "hu": "Kezdje a reggelt a Grande Place-on, ahol az árkádok védelmet nyújtanak. A Kameramúzeum tökéletes menedék az eső elől, lenyűgöző technikai tárlattal. Ebédeljen az óváros egyik hangulatos éttermében, figyelve az eső áztatta utcákat. A délutánt töltse az interaktív Alimentarium falai között. A napot egy rövid, frissítő sétával zárja a tóparton, az esernyője védelmében.",
+            "ro": "Începeți dimineața în Grande Place, unde arcadele oferă adăpost. Muzeul Aparatelor de Fotografiat este un refugiu perfect împotriva ploii, cu tehnologia sa fascinantă. La prânz, bucurați-vă de atmosfera primitoare a unui restaurant din orașul vechi. Petreceți după-amiaza în interiorul muzeului interactiv Alimentarium. Încheiați ziua cu o scurtă plimbare revigorantă pe faleza lacului.",
+            "en": "Start your morning at Grande Place, using the arcades for cover. The Camera Museum is a perfect indoor retreat with its fascinating history of photography. Enjoy a cozy lunch in an old town restaurant while watching the rain outside. Spend the afternoon exploring the interactive exhibits of the Alimentarium. Finish the day with a short, refreshing walk along the lakeshore under your umbrella."
+          },
+          "stops": [
+            {
+              "name": "Grande Place / Market Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden der umliegenden Gebäude als Regenschutz.",
+                "hu": "Használja a környező épületek árkádjait eső elleni védelemként.",
+                "ro": "Folosiți arcadele clădirilor din jur pentru a vă adăposti de ploaie.",
+                "en": "Use the arcades of the surrounding buildings for shelter from the rain."
+              }
+            },
+            {
+              "name": "Swiss Camera Museum",
+              "tip_5lang": {
+                "de": "Idealer Ort, um die stärksten Regenschauer im Trockenen zu verbringen.",
+                "hu": "Ideális hely a nagyobb záporok átvészelésére, fedett helyen.",
+                "ro": "Loc perfect pentru a petrece perioadele de ploaie torențială la adăpost.",
+                "en": "Ideal spot to spend time indoors during the heaviest rain showers."
+              }
+            },
+            {
+              "name": "St. Martin's Church",
+              "tip_5lang": {
+                "de": "Der Innenraum bietet Stille und Schutz vor dem nassen Wetter.",
+                "hu": "A belső tér csendet és védelmet nyújt a nedves időjárás elől.",
+                "ro": "Interiorul oferă liniște și protecție împotriva vremii umede.",
+                "en": "The interior provides silence and protection from the wet weather."
+              }
+            },
+            {
+              "name": "Lunch in the Old Town",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit Garderobe für nasse Mäntel.",
+                "hu": "Válasszon olyan éttermet, ahol van hely a vizes kabátoknak.",
+                "ro": "Alegeți un restaurant cu garderobă pentru hainele ude.",
+                "en": "Choose a restaurant with space to hang wet coats and umbrellas."
+              }
+            },
+            {
+              "name": "Charlie Chaplin Statue",
+              "tip_5lang": {
+                "de": "Ein schnelles Foto lohnt sich auch bei Regen für die Atmosphäre.",
+                "hu": "Egy gyors fotót esőben is megér a hangulatos tóparti háttér.",
+                "ro": "O fotografie rapidă merită chiar și pe ploaie pentru atmosferă.",
+                "en": "A quick photo is worth it even in the rain for the atmosphere."
+              }
+            },
+            {
+              "name": "Alimentarium",
+              "tip_5lang": {
+                "de": "Großes Museum mit Garderobe und Café – ideal für Regentage.",
+                "hu": "Tágas múzeum ruhatárral és kávézóval – ideális esős napokra.",
+                "ro": "Muzeu mare cu garderobă și cafenea – ideal pentru zilele ploioase.",
+                "en": "Spacious museum with a cloakroom and cafe – ideal for rainy days."
+              }
+            },
+            {
+              "name": "Perdonnet Quay",
+              "tip_5lang": {
+                "de": "Der Blick auf die Wolken über dem Genfersee ist sehr dramatisch.",
+                "hu": "A Genfi-tó feletti felhők látványa esőben is drámai és szép.",
+                "ro": "Vederea norilor deasupra lacului Geneva este foarte dramatică.",
+                "en": "The view of the clouds over Lake Geneva is very dramatic in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da das Kopfsteinpflaster rutschig sein kann.",
+              "Die Arkaden am Grande Place bieten trockene Wege zwischen den Geschäften.",
+              "Viele Museen in Vevey haben Schirmständer im Eingangsbereich.",
+              "Der VMCV-Bus hilft, längere Strecken im Regen zu vermeiden.",
+              "Ein heißes Getränk im Alimentarium-Café wärmt nach dem Spaziergang auf."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert a macskakő csúszós lehet az esőben.",
+              "A Grande Place árkádjai száraz útvonalat biztosítanak az üzletek között.",
+              "A legtöbb múzeumnak van esernyőtartója a bejáratnál.",
+              "A VMCV buszok segítenek elkerülni a hosszabb sétákat az esőben.",
+              "Egy forró ital az Alimentarium kávézójában felmelegít a séta után."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, pavajul poate fi alunecos.",
+              "Arcadele din Grande Place oferă trasee uscate între magazine.",
+              "Multe muzee au suporturi pentru umbrele la intrare.",
+              "Autobuzul VMCV vă ajută să evitați distanțele lungi prin ploaie.",
+              "O băutură caldă la cafeneaua Alimentarium vă va încălzi după plimbare."
+            ],
+            "en": [
+              "Wear waterproof shoes as the cobblestones can be slippery when wet.",
+              "The arcades at Grande Place provide dry paths between shops.",
+              "Most museums in Vevey have umbrella stands at the entrance.",
+              "The VMCV bus network helps avoid long walks in the rain.",
+              "A hot drink at the Alimentarium cafe is perfect for warming up."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie die klare Winterluft am Genfersee. Der Morgen am Grande Place ist ruhig, oft liegt ein sanfter Nebel über dem Wasser. Nach dem Besuch im Kameramuseum wärmt ein kräftiges Mittagessen auf. Am Nachmittag bietet das Alimentarium Schutz vor der Kälte. Da die Sonne gegen 17:00 Uhr untergeht, genießen Sie das blaue Licht der Dämmerung an der Uferpromenade.",
+            "hu": "Élje át a Genfi-tó tiszta téli levegőjét. A reggel a Grande Place-on csendes, gyakran köd ül a víz felett. A Kameramúzeum megtekintése után egy kiadós ebéd segít felmelegedni. Délután az Alimentarium kiállításai kínálnak menedéket a hideg elől. Mivel a nap 17:00 körül nyugszik, élvezze a szürkület kék fényeit a tóparti sétányon.",
+            "ro": "Experimentați aerul curat de iarnă de pe malul lacului Geneva. Dimineața în Grande Place este liniștită, adesea cu ceață peste apă. După vizitarea muzeului, un prânz consistent vă va încălzi. După-amiaza, Alimentarium oferă protecție împotriva frigului. Deoarece soarele apune în jur de ora 17:00, bucurați-vă de amurg pe faleză.",
+            "en": "Experience the crisp winter air by Lake Geneva. The morning at Grande Place is quiet, often with a soft mist over the water. After visiting the Camera Museum, a hearty lunch will warm you up. Spend the afternoon in the warmth of the Alimentarium. Since the sun sets around 5:00 PM, enjoy the blue hour lights along the lakefront promenade."
+          },
+          "stops": [
+            {
+              "name": "Grande Place / Market Square",
+              "tip_5lang": {
+                "de": "Achten Sie auf eventuelle Eisglätte auf dem großen Platz.",
+                "hu": "Ügyeljen az esetleges jegesedésre a tágas téren.",
+                "ro": "Atenție la posibilele porțiuni cu gheață în piața mare.",
+                "en": "Watch out for potential icy patches on the large square."
+              }
+            },
+            {
+              "name": "Swiss Camera Museum",
+              "tip_5lang": {
+                "de": "Ein gut geheiztes Museum, perfekt zum Aufwärmen der Hände.",
+                "hu": "Jól fűtött múzeum, tökéletes a kezek felmelegítésére.",
+                "ro": "Un muzeu bine încălzit, perfect pentru a vă încălzi mâinile.",
+                "en": "A well-heated museum, perfect for warming up your hands."
+              }
+            },
+            {
+              "name": "St. Martin's Church",
+              "tip_5lang": {
+                "de": "Die Kirche kann im Winter kühl sein, behalten Sie den Mantel an.",
+                "hu": "A templom télen hűvös lehet, érdemes a kabátot magunkon hagyni.",
+                "ro": "Biserica poate fi răcoroasă iarna, păstrați haina pe dvs.",
+                "en": "The church can be chilly in winter, so keep your coat on."
+              }
+            },
+            {
+              "name": "Lunch in the Old Town",
+              "tip_5lang": {
+                "de": "Probieren Sie ein lokales Fondue, um sich richtig aufzuwärmen.",
+                "hu": "Kóstoljon meg egy helyi fonduét, hogy igazán felmelegedjen.",
+                "ro": "Încercați un fondue local pentru a vă încălzi cu adevărat.",
+                "en": "Try a local fondue to truly warm up during your break."
+              }
+            },
+            {
+              "name": "Charlie Chaplin Statue",
+              "tip_5lang": {
+                "de": "Der Wind vom See kann hier im Winter sehr schneidend sein.",
+                "hu": "A tavi szél télen itt kifejezetten metsző és hideg lehet.",
+                "ro": "Vântul de pe lac poate fi foarte tăios aici pe timp de iarnă.",
+                "en": "The wind from the lake can be very biting here in winter."
+              }
+            },
+            {
+              "name": "Alimentarium",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die verschneiten Berge vom Fenster aus.",
+                "hu": "Élvezze a havas hegyek látványát a múzeum ablakából.",
+                "ro": "Bucurați-vă de vederea munților înzăpeziți de la fereastra muzeului.",
+                "en": "Enjoy the view of the snow-capped mountains from the windows."
+              }
+            },
+            {
+              "name": "Perdonnet Quay",
+              "tip_5lang": {
+                "de": "Die Abendbeleuchtung spiegelt sich wunderschön im dunklen See.",
+                "hu": "Az esti kivilágítás gyönyörűen tükröződik a sötét vízfelületen.",
+                "ro": "Iluminatul de seară se reflectă frumos în apele întunecate ale lacului.",
+                "en": "The evening lights reflect beautifully in the dark lake water."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Handschuhe und Schal gegen die kalte Bise (Seewind).",
+              "Die Sonne geht früh unter, planen Sie Außenaktivitäten vor 16:30 Uhr.",
+              "Genießen Sie die Ruhe, im Winter sind deutlich weniger Touristen da.",
+              "Die Bergkette der Alpen ist im Winter oft klarer zu sehen.",
+              "Warme Marroni-Stände findet man oft in der Nähe des Bahnhofs."
+            ],
+            "hu": [
+              "Viseljen kesztyűt és sálat a hideg tavi szél (Bise) ellen.",
+              "A nap korán nyugszik, a kinti programokat tervezze 16:30 elé.",
+              "Élvezze a nyugalmat, télen jóval kevesebb a turista a városban.",
+              "Az Alpok hegycsúcsai télen gyakran tisztábban látszanak a tónál.",
+              "A vasútállomás környékén gyakran találni sült gesztenye árusokat."
+            ],
+            "ro": [
+              "Purtați mănuși și fular împotriva vântului rece de pe lac.",
+              "Soarele apune devreme, planificați activitățile externe înainte de 16:30.",
+              "Bucurați-vă de liniște, iarna sunt mult mai puțini turiști.",
+              "Lanțul munților Alpi este adesea mai clar vizibil în timpul iernii.",
+              "Tarabe cu castane coapte pot fi găsite adesea lângă gară."
+            ],
+            "en": [
+              "Wear gloves and a scarf against the cold lake wind (Bise).",
+              "The sun sets early, so plan outdoor activities before 4:30 PM.",
+              "Enjoy the peace, as there are significantly fewer tourists in winter.",
+              "The Alpine range is often more clearly visible during winter days.",
+              "Warm roasted chestnut stands can often be found near the station."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -790,6 +998,232 @@
           "A bike lock is essential when visiting museums or restaurants.",
           "Switzerland has excellent cycling paths; follow the red signs."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert Vorsicht auf dem Kopfsteinpflaster von Vevey. Starten Sie am Grande Place und radeln Sie zur St. Martin Kirche. Die Museen wie das Jenisch und das Alimentarium bieten perfekte Pausen im Trockenen. Ein Mittagessen am Seeufer lässt Sie die Regenstimmung genießen, bevor Sie zur Villa Le Lac weiterfahren. Achten Sie auf gute Beleuchtung am späten Nachmittag.",
+            "hu": "Az esőben való biciklizés óvatosságot igényel Vevey macskaköves utcáin. Kezdjen a Grande Place-on, majd tekerjen fel a Szent Márton-templomhoz. A Jenisch és az Alimentarium múzeumok kiváló pihenőt kínálnak fedett helyen. Egy ebéd a tóparton különleges hangulatot ad, mielőtt továbbhajtana a Villa Le Lac felé. Ügyeljen a láthatóságra a késő délutáni órákban.",
+            "ro": "Mersul pe bicicletă în ploaie necesită prudență pe pavajul din Vevey. Începeți în Grande Place și pedalați spre Biserica St. Martin. Muzeele precum Jenisch și Alimentarium oferă pauze perfecte la adăpost. Un prânz pe malul lacului vă permite să vă bucurați de atmosferă înainte de a merge la Villa Le Lac. Atenție la vizibilitate după-amiaza târziu.",
+            "en": "Cycling in the rain requires caution on Vevey's cobblestone streets. Start at Grande Place and ride to St. Martin's Church. Museums like Jenisch and Alimentarium provide perfect dry breaks. A lakeside lunch lets you enjoy the moody weather before heading to Villa Le Lac. Make sure your bike lights are working for the late afternoon ride."
+          },
+          "stops": [
+            {
+              "name": "Grande Place",
+              "tip_5lang": {
+                "de": "Achten Sie beim Anfahren auf die rutschigen Markierungen auf dem Boden.",
+                "hu": "Induláskor ügyeljen a felfestett jelekre, mert vizesen csúszhatnak.",
+                "ro": "Atenție la marcajele de pe sol când plecați, pot fi alunecoase.",
+                "en": "Watch out for slippery ground markings when starting your ride."
+              }
+            },
+            {
+              "name": "St. Martin's Church",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter Bäumen ab, um den Sattel trocken zu halten.",
+                "hu": "Parkoljon a fák alá, hogy a nyereg száraz maradjon.",
+                "ro": "Parcați bicicleta sub copaci pentru a păstra șaua uscată.",
+                "en": "Park your bike under trees to help keep the saddle dry."
+              }
+            },
+            {
+              "name": "Jenisch Museum",
+              "tip_5lang": {
+                "de": "Ein kultureller Stopp, während draußen ein Regenschauer vorbeizieht.",
+                "hu": "Kulturális megálló, amíg kint elvonul egy nagyobb zápor.",
+                "ro": "O oprire culturală în timp ce afară trece o aversă de ploaie.",
+                "en": "A cultural stop to take shelter while a rain shower passes by."
+              }
+            },
+            {
+              "name": "Lunch by the Lake",
+              "tip_5lang": {
+                "de": "Suchen Sie ein Lokal mit überdachter Terrasse für Ihr Fahrrad.",
+                "hu": "Keressen olyan helyet, ahol a közelben van fedett biciklitároló.",
+                "ro": "Căutați un local cu o terasă acoperită pentru bicicletă în apropiere.",
+                "en": "Look for a spot with covered bike parking nearby if possible."
+              }
+            },
+            {
+              "name": "Perdonnet Quay & Chaplin Statue",
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig, Fußgänger mit Schirmen sehen Sie eventuell spät.",
+                "hu": "Hajtson óvatosan, az ernyős gyalogosok később vehetik észre Önt.",
+                "ro": "Pedalați cu grijă, pietonii cu umbrele v-ar putea observa târziu.",
+                "en": "Ride carefully; pedestrians with umbrellas might not see you easily."
+              }
+            },
+            {
+              "name": "Alimentarium",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit für eine ausführliche Indoor-Besichtigung.",
+                "hu": "Használja ki az időt egy alapos benti múzeumlátogatásra.",
+                "ro": "Folosiți timpul pentru o vizită detaliată în interiorul muzeului.",
+                "en": "Take advantage of the rain for a detailed indoor museum tour."
+              }
+            },
+            {
+              "name": "Villa Le Lac - Le Corbusier",
+              "tip_5lang": {
+                "de": "Die Architektur wirkt bei grauem Himmel besonders puristisch.",
+                "hu": "Az épület stílusa szürke égbolt mellett is különleges és letisztult.",
+                "ro": "Arhitectura pare deosebit de puristă sub un cer cenușiu.",
+                "en": "The architecture looks particularly minimalist under a grey sky."
+              }
+            },
+            {
+              "name": "Relax by the lakeshore",
+              "tip_5lang": {
+                "de": "Ein kurzes Verweilen, bevor Sie im Regen zurückradeln.",
+                "hu": "Egy rövid pihenő, mielőtt visszatekernének az esőben.",
+                "ro": "Un scurt popas înainte de a pedala înapoi prin ploaie.",
+                "en": "A brief stop before cycling back through the rainy weather."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie Schutzbleche an Ihrem Fahrrad, um trocken zu bleiben.",
+              "Bremstests auf nassem Asphalt sind wichtig für die Sicherheit.",
+              "Vermeiden Sie das Fahren über nasse Eisenbahnschienen am Hafen.",
+              "Eine wasserfeste Handyhalterung hilft bei der Navigation.",
+              "Tragen Sie eine auffällige Regenjacke für bessere Sichtbarkeit."
+            ],
+            "hu": [
+              "Használjon sárvédőt a biciklin, hogy szárazabb maradjon a ruhája.",
+              "Vizes aszfalton a fékút hosszabb, tesztelje a fékeket induláskor.",
+              "Kerülje a vizes vasúti síneket a kikötő környékén.",
+              "Egy vízálló telefontartó sokat segít a navigációban esőben.",
+              "Viseljen feltűnő esőkabátot a jobb láthatóság érdekében."
+            ],
+            "ro": [
+              "Folosiți apărători la bicicletă pentru a rămâne cât mai uscat.",
+              "Testați frânele pe asfalt umed, distanța de frânare crește.",
+              "Evitați să treceți peste șinele de tren umede din zona portului.",
+              "Un suport de telefon impermeabil ajută la navigare pe ploaie.",
+              "Purtați o jachetă de ploaie reflectorizantă pentru vizibilitate."
+            ],
+            "en": [
+              "Use mudguards on your bike to stay as dry as possible.",
+              "Test your brakes on wet asphalt as stopping distances increase.",
+              "Avoid riding over wet train tracks near the harbour area.",
+              "A waterproof phone holder is very helpful for navigation in rain.",
+              "Wear a high-visibility raincoat for better safety on the road."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im Winter bietet weite Ausblicke über den ruhigen Genfersee. Beginnen Sie am nebligen Grande Place und erklimmen Sie den Hügel zur St. Martin Kirche für eine tolle Aussicht. Wärmen Sie sich in den Museen auf, bevor Sie am Seeufer zu Mittag essen. Die Fahrt zur Villa Le Lac führt entlang der winterlichen Uferpromenade. Planen Sie das Ende der Tour vor Einbruch der Dunkelheit ein.",
+            "hu": "A téli biciklizés tiszta kilátást nyújt a csendes Genfi-tóra. Kezdjen a ködös Grande Place-on, majd tekerjen fel a Szent Márton-templomhoz a panorámáért. Melegedjen fel a múzeumokban a tóparti ebéd előtt. A Villa Le Lac-hoz vezető út a téli rakpart mentén halad. Tervezze úgy a túrát, hogy még sötétedés előtt befejezze.",
+            "ro": "Mersul pe bicicletă iarna oferă vederi largi peste lacul Geneva liniștit. Începeți în Grande Place și urcați spre Biserica St. Martin pentru panoramă. Încălziți-vă în muzee înainte de prânzul de pe malul lacului. Drumul spre Villa Le Lac trece pe faleza de iarnă. Planificați finalul turului înainte de lăsarea întunericului.",
+            "en": "Winter cycling offers expansive views across the calm Lake Geneva. Start at the misty Grande Place and climb the hill to St. Martin's Church for a great vista. Warm up in the museums before a lakeside lunch. The ride to Villa Le Lac takes you along the winter promenade. Plan to finish your tour before darkness falls in the late afternoon."
+          },
+          "stops": [
+            {
+              "name": "Grande Place",
+              "tip_5lang": {
+                "de": "Achten Sie auf Raureif, der den Boden rutschig machen kann.",
+                "hu": "Ügyeljen a zúzmarára, ami csúszóssá teheti az aszfaltot.",
+                "ro": "Atenție la chiciură, care poate face solul alunecos.",
+                "en": "Watch out for frost, which can make the ground quite slippery."
+              }
+            },
+            {
+              "name": "St. Martin's Church",
+              "tip_5lang": {
+                "de": "Die Auffahrt wärmt die Muskeln an einem kalten Wintertag auf.",
+                "hu": "A felfelé menet jól átmozgatja és felmelegíti a hideg téli napon.",
+                "ro": "Urcarea vă va încălzi mușchii într-o zi rece de iarnă.",
+                "en": "The uphill ride will help warm your muscles on a cold winter day."
+              }
+            },
+            {
+              "name": "Jenisch Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp, um die durchgefrorenen Hände aufzuwärmen.",
+                "hu": "Használja ki a megállót az átfagyott kezek felmelegítésére.",
+                "ro": "Folosiți oprirea pentru a vă încălzi mâinile înghețate.",
+                "en": "Use this stop as an opportunity to warm up your cold hands."
+              }
+            },
+            {
+              "name": "Lunch by the Lake",
+              "tip_5lang": {
+                "de": "Ein Platz am Fenster in der Sonne ist im Winter besonders schön.",
+                "hu": "Egy ablak melletti napsütötte asztal télen kifejezetten kellemes.",
+                "ro": "Un loc la fereastră în soare este deosebit de plăcut iarna.",
+                "en": "A sun-drenched window seat is especially pleasant in winter."
+              }
+            },
+            {
+              "name": "Perdonnet Quay & Chaplin Statue",
+              "tip_5lang": {
+                "de": "Vermeiden Sie bei starkem Wind direkt am Wasser zu fahren (Gischt).",
+                "hu": "Erős szélben kerülje a közvetlen vízparti haladást a kicsapó víz miatt.",
+                "ro": "Evitați să pedalați chiar lângă apă dacă vântul este puternic.",
+                "en": "Avoid riding right next to the water if the wind is strong (spray)."
+              }
+            },
+            {
+              "name": "Alimentarium",
+              "tip_5lang": {
+                "de": "Ein idealer Ort für eine längere Pause in behaglicher Wärme.",
+                "hu": "Ideális hely egy hosszabb pihenőhöz a kellemes melegben.",
+                "ro": "Un loc ideal pentru o pauză mai lungă în căldură confortabilă.",
+                "en": "An ideal place for a longer break in cozy indoor warmth."
+              }
+            },
+            {
+              "name": "Villa Le Lac - Le Corbusier",
+              "tip_5lang": {
+                "de": "Prüfen Sie vorab die Winteröffnungszeiten des Hauses.",
+                "hu": "Indulás előtt ellenőrizze a villa téli nyitvatartási idejét.",
+                "ro": "Verificați orarul de iarnă al vilei înainte de a porni.",
+                "en": "Check the winter opening hours of the villa before you arrive."
+              }
+            },
+            {
+              "name": "Relax by the lakeshore",
+              "tip_5lang": {
+                "de": "Halten Sie sich in Bewegung, um bei der Kälte nicht auszukühlen.",
+                "hu": "Maradjon mozgásban, hogy a hidegben ne hűljön ki túlságosan.",
+                "ro": "Rămâneți în mișcare pentru a nu vă răci prea tare în frig.",
+                "en": "Keep moving to avoid getting too cold in the winter temperature."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie mehrere Schichten Kleidung (Zwiebelprinzip).",
+              "Winterhandschuhe sind bei der Abfahrt von St. Martin unerlässlich.",
+              "Prüfen Sie den Reifendruck, er sinkt bei Kälte oft ab.",
+              "Ein Thermosbecher mit Tee hält Sie unterwegs warm.",
+              "Stellen Sie sicher, dass Ihre Fahrradlichter voll geladen sind."
+            ],
+            "hu": [
+              "Öltözzön rétegesen, a menetszél télen sokkal hidegebbnek hat.",
+              "A Szent Márton-templomtól lefelé menet a kesztyű elengedhetetlen.",
+              "Ellenőrizze a guminyomást, mert a hidegben csökkenhet.",
+              "Egy termosz meleg teával sokat segíthet a túra során.",
+              "Győződjön meg róla, hogy a biciklilámpák fel vannak töltve."
+            ],
+            "ro": [
+              "Purtați mai multe straturi de haine (principiul foi de ceapă).",
+              "Mănușile de iarnă sunt esențiale la coborârea de la St. Martin.",
+              "Verificați presiunea în pneuri, aceasta scade adesea la frig.",
+              "O cană termos cu ceai vă va ține de cald pe parcurs.",
+              "Asigurați-vă că luminile bicicletei sunt complet încărcate."
+            ],
+            "en": [
+              "Wear multiple layers of clothing to stay warm while riding.",
+              "Winter gloves are essential for the descent from St. Martin's.",
+              "Check your tyre pressure, as it often drops in cold weather.",
+              "A thermos with warm tea will help keep you cozy on the go.",
+              "Ensure your bike lights are fully charged for early sunset."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1170,6 +1604,214 @@
           "The roads in Lavaux are narrow and winding; drive carefully.",
           "Pay attention to speed limits, which are strictly enforced in Switzerland."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "An einem Regentag in Vevey bietet das Auto maximalen Komfort. Parken Sie direkt am Grande Place und erkunden Sie das Kameramuseum. Die Fahrt zur St. Martin Kirche bietet trockenen Transport zwischen den Sehenswürdigkeiten. Nach einem gemütlichen Mittagessen am Seeufer ist das Alimentarium ein Highlight. Den Abschluss bildet Chaplin's World, das auch bei Regen im Innenbereich viel zu bieten hat.",
+            "hu": "Egy esős napon Vevey-ben az autó maximális kényelmet nyújt. Parkoljon közvetlenül a Grande Place-on, és látogassa meg a Kameramúzeumot. Az autóval való feljutás a Szent Márton-templomhoz száraz megoldás a látnivalók között. Egy kellemes tóparti ebéd után az Alimentarium várja. A napot a Chaplin's World-ben zárja, amely esőben is rengeteg benti látnivalót kínál.",
+            "ro": "Într-o zi ploioasă în Vevey, mașina oferă confort maxim. Parcați direct în Grande Place și explorați muzeul foto. Drumul spre Biserica St. Martin oferă transport uscat între obiective. După un prânz plăcut pe malul lacului, Alimentarium este punctul culminant. Încheiați la Chaplin's World, care oferă multe de văzut la interior.",
+            "en": "On a rainy day in Vevey, the car provides maximum comfort. Park directly at Grande Place and explore the Camera Museum. Driving to St. Martin's Church keeps you dry between attractions. After a cozy lakeside lunch, the Alimentarium is a highlight. End your day at Chaplin's World, which offers plenty of indoor exhibits even in wet weather."
+          },
+          "stops": [
+            {
+              "name": "Grande Place Car Park",
+              "tip_5lang": {
+                "de": "Ein großer, offener Parkplatz, haben Sie den Schirm griffbereit.",
+                "hu": "Tágas, nyitott parkoló, legyen kéznél az esernyő kiszálláskor.",
+                "ro": "Parcare mare, deschisă, aveți umbrela la îndemână la coborâre.",
+                "en": "Large open parking area, have your umbrella ready when exiting."
+              }
+            },
+            {
+              "name": "Grande Place & Camera Museum",
+              "tip_5lang": {
+                "de": "Kurze Wege vom Auto zum Museum minimieren den Regen-Kontakt.",
+                "hu": "Rövid séta az autótól a múzeumig, minimális esőnek kitéve.",
+                "ro": "Distanța scurtă de la mașină la muzeu minimizează contactul cu ploaia.",
+                "en": "Short walk from the car to the museum minimizes time in the rain."
+              }
+            },
+            {
+              "name": "St. Martin's Church",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um trocken in die Kirche zu kommen.",
+                "hu": "Parkoljon közel a bejárathoz, hogy szárazon jusson be a templomba.",
+                "ro": "Parcați aproape de intrare pentru a ajunge uscat în biserică.",
+                "en": "Park close to the entrance to reach the church without getting wet."
+              }
+            },
+            {
+              "name": "Lunch & Lake Promenade",
+              "tip_5lang": {
+                "de": "Suchen Sie Parkplätze in der Nähe des gewählten Restaurants.",
+                "hu": "Keressen parkolóhelyet a választott étterem közvetlen közelében.",
+                "ro": "Căutați locuri de parcare în apropierea restaurantului ales.",
+                "en": "Look for parking spaces in the immediate vicinity of the restaurant."
+              }
+            },
+            {
+              "name": "Alimentarium",
+              "tip_5lang": {
+                "de": "Nutzen Sie Parkhäuser in der Nähe, um das Auto im Trockenen zu lassen.",
+                "hu": "Használja a közeli parkolóházakat, hogy az autó is fedett helyen legyen.",
+                "ro": "Folosiți parcările etajate din apropiere pentru a lăsa mașina la adăpost.",
+                "en": "Use nearby parking garages to keep your car in a dry spot."
+              }
+            },
+            {
+              "name": "Chaplin's World",
+              "tip_5lang": {
+                "de": "Das Hollywood-Studio-Gebäude ist komplett überdacht und perfekt.",
+                "hu": "A stúdióépület teljesen fedett, tökéletes program esős időre.",
+                "ro": "Clădirea studioului este complet acoperită, perfectă pentru ploaie.",
+                "en": "The studio building is completely covered and perfect for rain."
+              }
+            },
+            {
+              "name": "Walk in the Manoir de Ban Park",
+              "tip_5lang": {
+                "de": "Die Wege können bei Regen etwas weich sein, tragen Sie festes Schuhwerk.",
+                "hu": "Az utak esőben felázhatnak, viseljen megfelelő lábbelit a kertben.",
+                "ro": "Potecile pot fi moi după ploaie, purtați încălțăminte adecvată.",
+                "en": "Paths can be soft after rain, so wear sturdy shoes for the park walk."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie das Parkhaus 'Vieille-Ville' für kurzen Zugang zur Altstadt.",
+              "Achten Sie auf Fußgänger, die bei Regen oft unvorsichtiger sind.",
+              "Halten Sie Kleingeld oder eine Park-App für die Automaten bereit.",
+              "Das Auto bietet einen sicheren Ort, um nasse Schirme zu lagern.",
+              "Die Fahrt nach Corsier-sur-Vevey ist bei Regen sehr entspannt."
+            ],
+            "hu": [
+              "Használja a 'Vieille-Ville' parkolóházat az óváros könnyű eléréséhez.",
+              "Ügyeljen a gyalogosokra, akik esőben figyelmetlenebbek lehetnek.",
+              "Készítsen össze aprópénzt vagy használjon parkoló alkalmazást.",
+              "Az autó kiváló hely a vizes esernyők tárolására a megállók között.",
+              "A Corsier-sur-Vevey-be vezető út esőben is kényelmes és gyors."
+            ],
+            "ro": [
+              "Folosiți parcarea 'Vieille-Ville' pentru acces rapid în orașul vechi.",
+              "Atenție la pietoni, aceștia pot fi mai puțin atenți pe ploaie.",
+              "Aveți pregătite monede sau o aplicație de parcare pentru automate.",
+              "Mașina oferă un loc sigur pentru a depozita umbrelele ude.",
+              "Drumul spre Corsier-sur-Vevey este foarte relaxant pe ploaie."
+            ],
+            "en": [
+              "Use the 'Vieille-Ville' parking garage for easy old town access.",
+              "Watch out for pedestrians, who may be less careful in the rain.",
+              "Have some coins ready or use a parking app for the meters.",
+              "The car is a safe place to store wet umbrellas between stops.",
+              "The drive to Corsier-sur-Vevey is very pleasant even in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die winterliche Riviera mit dem Komfort Ihres Autos. Starten Sie am Grande Place, wo die klare Luft den Blick auf die Berge freigibt. Nach dem Kameramuseum bietet die kurze Fahrt zur St. Martin Kirche wunderbare Ausblicke. Ein warmes Mittagessen und der Besuch im Alimentarium sind perfekte Winterstopps. Chaplin's World in Corsier ist im Winter besonders stimmungsvoll beleuchtet.",
+            "hu": "Élvezze a téli Riviérát autója kényelméből. Kezdjen a Grande Place-on, ahol a tiszta levegőben jól látszanak a hegyek. A Kameramúzeum után a Szent Márton-templomhoz vezető rövid út gyönyörű panorámát kínál. Egy meleg ebéd és az Alimentarium látogatása tökéletes téli program. A corsier-i Chaplin's World télen különleges kivilágítást kap.",
+            "ro": "Bucurați-vă de Riviera de iarnă cu confortul mașinii dvs. Începeți în Grande Place, unde aerul curat dezvăluie vederea spre munți. După muzeu, drumul scurt spre Biserica St. Martin oferă panorame superbe. Un prânz cald și vizita la Alimentarium sunt opriri perfecte. Chaplin's World în Corsier este iluminat spectaculos iarna.",
+            "en": "Enjoy the winter Riviera with the comfort of your car. Start at Grande Place, where the crisp air reveals clear mountain views. After the Camera Museum, the short drive to St. Martin's Church offers wonderful vistas. A warm lunch and a visit to the Alimentarium are perfect winter stops. Chaplin's World in Corsier is especially atmospheric with winter lighting."
+          },
+          "stops": [
+            {
+              "name": "Grande Place Car Park",
+              "tip_5lang": {
+                "de": "Heizen Sie das Auto vor, während Sie den Ausblick kurz genießen.",
+                "hu": "Melegítse be az autót, amíg rövid ideig élvezi a kilátást.",
+                "ro": "Încălziți mașina în timp ce vă bucurați scurt de priveliște.",
+                "en": "Pre-heat the car while taking a quick moment to enjoy the view."
+              }
+            },
+            {
+              "name": "Grande Place & Camera Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den kurzen Weg, um der Kälte schnell zu entkommen.",
+                "hu": "Használja ki a rövid távot, hogy hamar bejusson a meleg múzeumba.",
+                "ro": "Folosiți distanța scurtă pentru a scăpa rapid de frig.",
+                "en": "Take advantage of the short walk to quickly escape the cold."
+              }
+            },
+            {
+              "name": "St. Martin's Church",
+              "tip_5lang": {
+                "de": "Die Parkplätze oben bieten eine tolle Sicht auf die Schneegipfel.",
+                "hu": "A fenti parkolókból kiváló rálátás nyílik a havas hegycsúcsokra.",
+                "ro": "Locurile de parcare de sus oferă o vedere excelentă spre vârfuri.",
+                "en": "The parking spots at the top offer great views of the snowy peaks."
+              }
+            },
+            {
+              "name": "Lunch & Lake Promenade",
+              "tip_5lang": {
+                "de": "Ein kurzer Spaziergang am See ist auch bei Kälte sehr erfrischend.",
+                "hu": "Egy rövid séta a tónál a hidegben is kifejezetten frissítő tud lenni.",
+                "ro": "O scurtă plimbare la lac este foarte revigorantă chiar și la frig.",
+                "en": "A short walk by the lake is very refreshing even in the cold."
+              }
+            },
+            {
+              "name": "Alimentarium",
+              "tip_5lang": {
+                "de": "Im Winter ist es hier meist ruhiger, genießen Sie die Atmosphäre.",
+                "hu": "Télen itt általában nagyobb a nyugalom, élvezze a hangulatot.",
+                "ro": "Iarna este de obicei mai liniște aici, bucurați-vă de atmosferă.",
+                "en": "It is usually quieter here in winter, so enjoy the calm atmosphere."
+              }
+            },
+            {
+              "name": "Chaplin's World",
+              "tip_5lang": {
+                "de": "Das Herrenhaus ist im Winter gemütlich und geschichtsträchtig.",
+                "hu": "Az udvarház télen kifejezetten barátságos és történelmi hangulatú.",
+                "ro": "Conacul este primitor și plin de istorie pe timp de iarnă.",
+                "en": "The manor house is cozy and full of history during the winter."
+              }
+            },
+            {
+              "name": "Walk in the Manoir de Ban Park",
+              "tip_5lang": {
+                "de": "Achten Sie bei Dämmerung auf die stimmungsvolle Beleuchtung.",
+                "hu": "Szürkületkor figyeljen a park hangulatos megvilágítására.",
+                "ro": "La amurg, atenție la iluminatul atmosferic al parcului.",
+                "en": "Watch for the atmospheric park lighting as twilight begins."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Ihr Auto wintertauglich ausgestattet ist.",
+              "Die Parkhäuser sind im Winter eine gute Wahl gegen Frost am Auto.",
+              "Die Bergstraßen nach Corsier können bei Schneefall rutschig sein.",
+              "Nutzen Sie die Sitzheizung für die kurzen Fahrten zwischen den POIs.",
+              "Planen Sie Chaplin's World am späten Nachmittag für die Lichter ein."
+            ],
+            "hu": [
+              "Győződjön meg róla, hogy autója fel van készítve a téli utakra.",
+              "A parkolóházak jó választást jelentenek a jegesedés ellen.",
+              "A Corsier felé vezető hegyi utak hóesésben csúszósak lehetnek.",
+              "Használja az ülésfűtést a látnivalók közötti rövid szakaszokon.",
+              "Tervezze a Chaplin's World látogatását késő délutánra a fények miatt."
+            ],
+            "ro": [
+              "Asigurați-vă că mașina este echipată corespunzător pentru iarnă.",
+              "Parcările etajate sunt o alegere bună împotriva înghețului pe mașină.",
+              "Drumurile spre Corsier pot fi alunecoase în caz de ninsoare.",
+              "Folosiți încălzirea în scaune pentru drumurile scurte între obiective.",
+              "Planificați vizita la Chaplin's World după-amiaza pentru lumini."
+            ],
+            "en": [
+              "Ensure your car is properly equipped for winter road conditions.",
+              "Parking garages are a good choice to avoid frost on your car.",
+              "Mountain roads to Corsier can be slippery during snowfall.",
+              "Use seat heaters for the short drives between the points of interest.",
+              "Schedule Chaplin's World for late afternoon to see the lights."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1574,6 +2216,232 @@
           "Buses can be crowded during peak hours, so allow for some buffer time.",
           "Keep an eye on your stop; not all are announced automatically."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie das effiziente Busnetz von Vevey an einem Regentag. Vom Bahnhof gelangen Sie schnell zur St. Martin Kirche und zum Jenisch Museum. Die Busse bringen Sie trocken zum Grande Place und zum Alimentarium. Genießen Sie die Aussicht aus dem warmen Bus, während der Regen gegen die Scheiben prasselt. Den Tag beenden Sie mit einem Spaziergang unter den Arkaden oder am Quai.",
+            "hu": "Használja ki Vevey hatékony buszhálózatát egy esős napon. A vasútállomástól gyorsan elérheti a Szent Márton-templomot és a Jenisch Múzeumot. A buszok szárazon viszik a Grande Place-hoz és az Alimentariumhoz. Élvezze a kilátást a meleg buszból, miközben az eső veri az ablakot. A napot az árkádok alatti sétával vagy a rakparton zárhatja.",
+            "ro": "Folosiți rețeaua eficientă de autobuze din Vevey într-o zi ploioasă. De la gară ajungeți rapid la Biserica St. Martin și la Muzeul Jenisch. Autobuzele vă duc uscat la Grande Place și la Alimentarium. Bucurați-vă de priveliște din autobuzul cald în timp ce plouă. Încheiați ziua cu o plimbare sub arcade sau pe faleză.",
+            "en": "Make use of Vevey's efficient bus network on a rainy day. From the station, you can quickly reach St. Martin's Church and the Jenisch Museum. Buses take you dry to Grande Place and the Alimentarium. Enjoy the views from the warm bus while the rain beats against the windows. End your day with a walk under the arcades or along the quay."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Vevey Train Station",
+              "tip_5lang": {
+                "de": "Der Bahnhof ist gut überdacht, orientieren Sie sich im Trockenen.",
+                "hu": "A vasútállomás jól fedett, nyugodtan tájékozódhat a peronon.",
+                "ro": "Gara este bine acoperită, orientați-vă la adăpost.",
+                "en": "The train station is well covered, so you can orient yourself in the dry."
+              }
+            },
+            {
+              "name": "St. Martin's Church",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Bus der Linie 201/202 für den Weg nach oben.",
+                "hu": "Használja a 201-es vagy 202-es buszvonalat a felfelé vezető úthoz.",
+                "ro": "Folosiți liniile de autobuz 201/202 pentru a urca panta.",
+                "en": "Use bus lines 201 or 202 to handle the uphill journey easily."
+              }
+            },
+            {
+              "name": "Jenisch Museum",
+              "tip_5lang": {
+                "de": "Nur wenige Schritte von der Bushaltestelle entfernt.",
+                "hu": "Csak néhány lépésre található a legközelebbi buszmegállótól.",
+                "ro": "La doar câțiva pași de stația de autobuz.",
+                "en": "Located just a few steps away from the nearest bus stop."
+              }
+            },
+            {
+              "name": "Grande Place & Camera Museum",
+              "tip_5lang": {
+                "de": "Haltestellen befinden sich direkt am großen Platz.",
+                "hu": "A buszmegállók közvetlenül a tágas tér mellett találhatók.",
+                "ro": "Stațiile de autobuz se află chiar lângă marea piață.",
+                "en": "Bus stops are located directly adjacent to the large square."
+              }
+            },
+            {
+              "name": "Lunch",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant in der Nähe einer Bushaltestelle.",
+                "hu": "Válasszon olyan éttermet, amely közel van valamelyik megállóhoz.",
+                "ro": "Alegeți un restaurant în apropierea unei stații de autobuz.",
+                "en": "Select a restaurant located close to one of the bus stops."
+              }
+            },
+            {
+              "name": "Bus ride to Alimentarium",
+              "tip_5lang": {
+                "de": "Die Linie 201 bringt Sie direkt vor den Eingang des Museums.",
+                "hu": "A 201-es buszvonal közvetlenül a múzeum bejáratához viszi Önt.",
+                "ro": "Linia 201 vă lasă chiar în fața intrării muzeului.",
+                "en": "Bus line 201 will drop you off right in front of the museum entrance."
+              }
+            },
+            {
+              "name": "Charlie Chaplin Statue",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp für ein Foto, bevor der nächste Bus kommt.",
+                "hu": "Egy rövid megálló egy fotóra, mielőtt érkezne a következő busz.",
+                "ro": "O oprire scurtă pentru o poză înainte de următorul autobuz.",
+                "en": "A quick stop for a photo before the next bus arrives."
+              }
+            },
+            {
+              "name": "Stroll on Quai Perdonnet",
+              "tip_5lang": {
+                "de": "Bei starkem Regen ist die Fahrt mit dem Bus am See entlang schöner.",
+                "hu": "Erős esőben a tóparti buszozás is szép kilátást nyújt.",
+                "ro": "Pe ploaie torențială, călătoria cu autobuzul pe malul lacului e mai plăcută.",
+                "en": "In heavy rain, riding the bus along the lake is a good alternative."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Holen Sie sich die 'Riviera Card' für kostenlose Fahrten im Hotel.",
+              "Die VMCV-Busse fahren sehr regelmäßig, oft alle 10 Minuten.",
+              "Nutzen Sie die App 'SBB Mobile' für Echtzeit-Fahrpläne.",
+              "Die Haltestellen sind meist gut überdacht und bieten Regenschutz.",
+              "Im Bus ist es warm und trocken, ideal zum Ausruhen."
+            ],
+            "hu": [
+              "Kérje el a 'Riviera Card'-ot a szálláshelyén az ingyenes közlekedéshez.",
+              "A VMCV buszok sűrűn járnak, gyakran 10 percenként.",
+              "Használja az 'SBB Mobile' alkalmazást a valós idejű menetrendekhez.",
+              "A buszmegállók többsége fedett, így védelmet nyújt az eső ellen.",
+              "A buszokon meleg és száraz idő van, ideális egy kis pihenéshez."
+            ],
+            "ro": [
+              "Solicitați 'Riviera Card' la hotel pentru transport gratuit.",
+              "Autobuzele VMCV circulă regulat, adesea la fiecare 10 minute.",
+              "Folosiți aplicația 'SBB Mobile' pentru orare în timp real.",
+              "Stațiile sunt în mare parte acoperite și oferă protecție la ploaie.",
+              "În autobuz este cald și uscat, ideal pentru a vă odihni."
+            ],
+            "en": [
+              "Get the 'Riviera Card' from your hotel for free public transport.",
+              "VMCV buses run very regularly, often every 10 minutes.",
+              "Use the 'SBB Mobile' app for real-time schedule information.",
+              "Most bus stops are well-covered and provide shelter from the rain.",
+              "The bus is warm and dry, making it a perfect spot to rest."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie Vevey im Winter bequem mit den öffentlichen Verkehrsmitteln. Nach der Ankunft am Bahnhof führt der Weg zur St. Martin Kirche und zum Jenisch Museum. Die kurzen Busfahrten zwischen den POIs schützen vor der Kälte. Ein warmes Mittagessen und der Nachmittag im Alimentarium runden den Tag ab. Genießen Sie die winterliche Atmosphäre am Seeufer, bevor Sie zum beleuchteten Bahnhof zurückkehren.",
+            "hu": "Fedezze fel Vevey-t télen kényelmesen, tömegközlekedéssel. A vasútállomásra érkezés után látogasson el a Szent Márton-templomhoz és a Jenisch Múzeumhoz. A látnivalók közötti rövid buszutak megvédik a hidegtől. Egy meleg ebéd és az Alimentariumban töltött délután teszi teljessé a napot. Élvezze a téli hangulatot a tóparton, mielőtt visszatérne a kivilágított állomáshoz.",
+            "ro": "Explorați Vevey iarna confortabil cu transportul public. După sosirea la gară, mergeți spre Biserica St. Martin și Muzeul Jenisch. Călătoriile scurte cu autobuzul între obiective vă protejează de frig. Un prânz cald și după-amiaza la Alimentarium completează ziua. Bucurați-vă de atmosfera de iarnă de pe malul lacului înainte de a reveni la gară.",
+            "en": "Explore Vevey in winter comfortably using public transport. After arriving at the station, head to St. Martin's Church and the Jenisch Museum. Short bus rides between the points of interest will protect you from the cold. A warm lunch and an afternoon at the Alimentarium round off the day. Enjoy the winter atmosphere by the lake before returning to the brightly lit station."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Vevey Train Station",
+              "tip_5lang": {
+                "de": "Die beheizte Bahnhofshalle ist ein guter Ort zum Warten.",
+                "hu": "A fűtött váróterem kiváló hely a várakozásra a hidegben.",
+                "ro": "Sala de așteptare încălzită este un loc bun pentru a aștepta.",
+                "en": "The heated station hall is a good place to wait for your connection."
+              }
+            },
+            {
+              "name": "St. Martin's Church",
+              "tip_5lang": {
+                "de": "Der Bus erspart Ihnen den kalten Aufstieg zu Fuß.",
+                "hu": "A busz megkíméli Önt a hidegben való hegymeneti sétától.",
+                "ro": "Autobuzul vă scutește de urcarea pe jos prin frig.",
+                "en": "The bus saves you from having to walk uphill in the cold air."
+              }
+            },
+            {
+              "name": "Jenisch Museum",
+              "tip_5lang": {
+                "de": "Im Inneren ist es herrlich warm, ideal für Kunstgenuss.",
+                "hu": "Odabent kellemes meleg van, ideális a művészet élvezetéhez.",
+                "ro": "În interior este minunat de cald, ideal pentru artă.",
+                "en": "It is wonderfully warm inside, perfect for enjoying the art."
+              }
+            },
+            {
+              "name": "Grande Place & Camera Museum",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle liegt zentral, kurze Wege im Freien.",
+                "hu": "A buszmegálló központi helyen van, csak rövid ideig lesz kint.",
+                "ro": "Stația de autobuz este centrală, distanțe scurte în aer liber.",
+                "en": "The bus stop is central, so you only spend minimal time outdoors."
+              }
+            },
+            {
+              "name": "Lunch",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit Blick auf die winterliche Stadt.",
+                "hu": "Válasszon olyan éttermet, ahonnan rálátni a téli városra.",
+                "ro": "Alegeți un restaurant cu vedere spre orașul de iarnă.",
+                "en": "Choose a restaurant with a view of the winter city scenery."
+              }
+            },
+            {
+              "name": "Bus ride to Alimentarium",
+              "tip_5lang": {
+                "de": "In den Wintermonaten sind die Busse angenehm geheizt.",
+                "hu": "A téli hónapokban a buszok kellemesen fűtöttek.",
+                "ro": "În lunile de iarnă, autobuzele sunt încălzite plăcut.",
+                "en": "During the winter months, the buses are comfortably heated."
+              }
+            },
+            {
+              "name": "Charlie Chaplin Statue",
+              "tip_5lang": {
+                "de": "Bei Sonnenuntergang (ca. 17:00) ein sehr schönes Fotomotiv.",
+                "hu": "Naplementekor (kb. 17:00) nagyon szép fotótéma a szobor.",
+                "ro": "La apus (cca. 17:00), statuia este un subiect foto foarte frumos.",
+                "en": "At sunset (around 5:00 PM), the statue makes for a great photo."
+              }
+            },
+            {
+              "name": "Stroll on Quai Perdonnet",
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Luft, bevor Sie in den warmen Zug steigen.",
+                "hu": "Élvezze a tiszta levegőt, mielőtt felszállna a meleg vonatra.",
+                "ro": "Bucurați-vă de aerul curat înainte de a urca în trenul cald.",
+                "en": "Enjoy the crisp air before boarding your warm train home."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "In Schweizer Zügen und Bussen ist es meist sehr warm, tragen Sie Schichten.",
+              "Die Fahrpläne sind im Winter verlässlich wie eh und je.",
+              "Nutzen Sie die Riviera Card für unbegrenzte Fahrten in der Zone.",
+              "Vermeiden Sie das Warten im Freien durch die SBB-App-Zeiten.",
+              "Am Bahnhof gibt es warme Snacks für die Rückreise."
+            ],
+            "hu": [
+              "A svájci vonatokon és buszokon meleg van, öltözzön rétegesen.",
+              "A menetrendek télen is hajszálpontosak maradnak.",
+              "Használja a Riviera Card-ot a zónán belüli korlátlan utazáshoz.",
+              "Kerülje a kinti várakozást az SBB alkalmazás pontos adatival.",
+              "A vasútállomáson meleg harapnivalókat is vehet a hazautazáshoz."
+            ],
+            "ro": [
+              "În trenurile și autobuzele elvețiene este cald, purtați straturi.",
+              "Orarele sunt la fel de fiabile și pe timp de iarnă.",
+              "Folosiți Riviera Card pentru călătorii nelimitate în zonă.",
+              "Evitați așteptarea în frig folosind timpii din aplicația SBB.",
+              "În gară se găsesc gustări calde pentru călătoria de întoarcere."
+            ],
+            "en": [
+              "Swiss trains and buses are usually quite warm, so dress in layers.",
+              "The schedules remain as reliable as ever during the winter.",
+              "Use the Riviera Card for unlimited travel within the local zone.",
+              "Avoid waiting outside by checking the exact times on the SBB app.",
+              "Warm snacks are available at the station for your return journey."
+            ]
+          }
+        }
       }
     }
   }

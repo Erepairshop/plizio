@@ -379,6 +379,206 @@
           "Most central sights are easily within walking distance.",
           "Plan for a longer break on the riverbank to soak in the atmosphere."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag am Kleinen Kaptol, während der Regen auf die Kupa trommelt. Der Vormittag gehört der Architektur und der Kathedrale, wo Sie im Trockenen die barocke Pracht bewundern können. Mittags bietet das Stadtmuseum einen ausgiebigen Zufluchtsort vor dem Wetter. Den Nachmittag verbringen Sie in der industriellen Atmosphäre des Holländischen Hauses und beenden den Tag in den massiven Mauern der Festung Sisak, die auch bei Regen imposant wirken.",
+            "hu": "Kezdje a napot a Kis Kaptolnál, miközben az eső a Kupa vizét veri. A délelőtt az építészeté és a székesegyházé, ahol szárazon csodálhatja meg a barokk pompát. Délben a Városi Múzeum kínál bőséges menedéket az időjárás elől. A délutánt a Holland Ház indusztriális légkörében töltse, a napot pedig a sziszeki vár vaskos falai között zárja, amelyek esőben is lenyűgöző látványt nyújtanak.",
+            "ro": "Începeți ziua la Micul Kaptol, în timp ce ploaia bate în apele râului Kupa. Dimineața este dedicată arhitecturii și catedralei, unde puteți admira splendoarea barocă la adăpost. La prânz, Muzeul Orașului oferă un refugiu generos împotriva vremii. Petreceți după-amiaza în atmosfera industrială a Casei Olandeze și încheiați ziua între zidurile masive ale cetății Sisak, care rămân impunătoare chiar și pe ploaie.",
+            "en": "Start your day at Little Kaptol as rain drums on the Kupa river. The morning is dedicated to architecture and the cathedral, where you can admire baroque splendor while staying dry. At noon, the City Museum offers an ample refuge from the weather. Spend the afternoon in the industrial atmosphere of the Dutch House and end the day within the massive walls of Sisak Fortress, which remains imposing even in the rain."
+          },
+          "stops": [
+            {
+              "name": "Little Kaptol",
+              "tip_5lang": {
+                "de": "Kurzer Aufenthalt im Freien, nutzen Sie die Arkaden.",
+                "hu": "Rövid kinti megálló, használja az árkádok fedezékét.",
+                "ro": "Scurtă oprire în aer liber, folosiți arcadele pentru adăpost.",
+                "en": "Short outdoor stop, use the arcades for cover."
+              }
+            },
+            {
+              "name": "Great Kaptol",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Fassade unter Ihrem Regenschirm.",
+                "hu": "Csodálja meg a homlokzatot az esernyője alól.",
+                "ro": "Admirați fațada de sub umbrelă.",
+                "en": "Admire the facade from under your umbrella."
+              }
+            },
+            {
+              "name": "Cathedral of the Exaltation of the Holy Cross",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um einen starken Schauer abzuwarten.",
+                "hu": "Tökéletes hely egy nagyobb zápor kivárásához.",
+                "ro": "Locul perfect pentru a aștepta trecerea unei averse.",
+                "en": "Perfect place to wait out a heavy downpour."
+              }
+            },
+            {
+              "name": "Old Bridge",
+              "tip_5lang": {
+                "de": "Vorsicht, die Ziegel können rutschig sein.",
+                "hu": "Vigyázat, a téglafelület csúszós lehet.",
+                "ro": "Atenție, cărămizile pot fi alunecoase.",
+                "en": "Caution, the bricks can be slippery."
+              }
+            },
+            {
+              "name": "Sisak City Museum",
+              "tip_5lang": {
+                "de": "Planen Sie hier mehr Zeit ein, wenn es stark regnet.",
+                "hu": "Tervezzen ide több időt, ha erősen esik.",
+                "ro": "Alocați mai mult timp aici dacă plouă torențial.",
+                "en": "Plan more time here if it's raining heavily."
+              }
+            },
+            {
+              "name": "Dutch House",
+              "tip_5lang": {
+                "de": "Vollständig überdachte Industrieausstellung.",
+                "hu": "Teljesen fedett ipari kiállítás.",
+                "ro": "Expoziție industrială complet acoperită.",
+                "en": "Fully indoor industrial exhibition."
+              }
+            },
+            {
+              "name": "Sisak Fortress",
+              "tip_5lang": {
+                "de": "Bleiben Sie innerhalb der Festungsmauern.",
+                "hu": "Maradjon a várfalakon belül.",
+                "ro": "Rămâneți în interiorul zidurilor cetății.",
+                "en": "Stay within the fortress walls."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für die Wege an der Kupa.",
+              "Nutzen Sie Museen als strategische Regenpausen.",
+              "Ein stabiler Schirm ist wegen des Windes am Fluss ratsam.",
+              "Die Wege zur Festung können bei Regen schlammig sein."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a Kupa-parti sétához.",
+              "Használja a múzeumokat stratégiai esőpihenőként.",
+              "A folyóparti szél miatt erős esernyő ajánlott.",
+              "A várhoz vezető utak esőben sárosak lehetnek."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru plimbarea pe malul râului.",
+              "Folosiți muzeele ca puncte strategice de odihnă.",
+              "Se recomandă o umbrelă rezistentă din cauza vântului.",
+              "Potecile spre cetate pot fi noroioase pe ploaie."
+            ],
+            "en": [
+              "Wear waterproof shoes for the walk along the Kupa.",
+              "Use museums as strategic rain breaks.",
+              "A sturdy umbrella is recommended due to river winds.",
+              "Paths to the fortress can be muddy in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen beginnt am Kaptol, wo der Raureif die alten Gebäude ziert. Der Vormittag führt Sie in die wärmende Stille der Kathedrale. Mittags bietet das Stadtmuseum eine willkommene Aufwärmpause mit tiefem Einblick in die Geschichte von Siscia. Am Nachmittag erleben Sie die kühle industrielle Eleganz des Holländischen Hauses. Zum Abschluss taucht die frühe Dämmerung die Festung Sisak in ein mystisches Winterlicht, bevor die Kälte vom Fluss heraufzieht.",
+            "hu": "Deres reggel kezdődik a Kaptolnál, ahol a zúzmara díszíti a régi épületeket. A délelőtt a székesegyház melengető csendjébe vezet. Délben a Városi Múzeum kínál üdvözlendő melegedőt, mély betekintéssel Siscia történelmébe. Délután a Holland Ház hűvös indusztriális eleganciáját ismerheti meg. Befejezésül a korai szürkület misztikus téli fénybe öltözteti a várat, mielőtt a folyó felőli hideg felerősödne.",
+            "ro": "O dimineață geroasă începe la Kaptol, unde bruma împodobește clădirile vechi. Dimineața vă conduce în liniștea primitoare a catedralei. La prânz, Muzeul Orașului oferă o pauză de încălzire binevenită. După-amiaza, descoperiți eleganța industrială a Casei Olandeze. La final, amurgul timpuriu îmbracă cetatea Sisak într-o lumină mistică de iarnă, înainte ca frigul de pe râu să se intensifice.",
+            "en": "A frosty morning begins at Kaptol, where hoarfrost adorns the old buildings. The morning leads you into the warming silence of the cathedral. At noon, the City Museum offers a welcome warm-up break with deep insights into Siscia's history. In the afternoon, experience the cool industrial elegance of the Dutch House. To finish, the early twilight bathes Sisak Fortress in a mystical winter light before the river chill sets in."
+          },
+          "stops": [
+            {
+              "name": "Little Kaptol",
+              "tip_5lang": {
+                "de": "Kurze Besichtigung, um nicht auszukühlen.",
+                "hu": "Gyors megtekintés, hogy ne hűljön ki.",
+                "ro": "Vizită scurtă pentru a nu îngheța.",
+                "en": "Quick visit to avoid getting too cold."
+              }
+            },
+            {
+              "name": "Great Kaptol",
+              "tip_5lang": {
+                "de": "Die barocken Details wirken im Winterlicht klar.",
+                "hu": "A barokk részletek élesen látszanak a téli fényben.",
+                "ro": "Detaliile baroce par clare în lumina iernii.",
+                "en": "Baroque details appear sharp in the winter light."
+              }
+            },
+            {
+              "name": "Cathedral of the Exaltation of the Holy Cross",
+              "tip_5lang": {
+                "de": "Ein Ort der Ruhe, oft etwas wärmer als draußen.",
+                "hu": "A nyugalom helye, gyakran melegebb, mint kint.",
+                "ro": "Un loc de liniște, adesea mai cald decât afară.",
+                "en": "A place of peace, often warmer than outside."
+              }
+            },
+            {
+              "name": "Old Bridge",
+              "tip_5lang": {
+                "de": "Vorsicht vor eisigen Winden über dem Wasser.",
+                "hu": "Vigyázzon a víz feletti jeges széllel.",
+                "ro": "Atenție la vântul înghețat deasupra apei.",
+                "en": "Watch out for icy winds over the water."
+              }
+            },
+            {
+              "name": "Sisak City Museum",
+              "tip_5lang": {
+                "de": "Heizung genießen und Ausstellungen studieren.",
+                "hu": "Élvezze a fűtést és tanulmányozza a kiállításokat.",
+                "ro": "Bucurați-vă de căldură și studiați expozițiile.",
+                "en": "Enjoy the heating and study the exhibitions."
+              }
+            },
+            {
+              "name": "Dutch House",
+              "tip_5lang": {
+                "de": "Moderner Innenraum, ideal für den Nachmittag.",
+                "hu": "Modern belső tér, ideális a délutánra.",
+                "ro": "Spațiu interior modern, ideal pentru după-amiază.",
+                "en": "Modern indoor space, ideal for the afternoon."
+              }
+            },
+            {
+              "name": "Sisak Fortress",
+              "tip_5lang": {
+                "de": "Besuch vor Sonnenuntergang um 16:30 Uhr planen.",
+                "hu": "Tervezze a látogatást naplemente előtt (16:30).",
+                "ro": "Planificați vizita înainte de apus (16:30).",
+                "en": "Plan your visit before sunset at 4:30 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich in Schichten für die Flussbrise.",
+              "Die Sonne geht im Winter bereits gegen 16:30 Uhr unter.",
+              "Wärmen Sie sich zwischendurch in den Museen auf.",
+              "Feste Schuhe sind wichtig für die kalten Pflastersteine."
+            ],
+            "hu": [
+              "Öltözzön rétegesen a folyóparti szél miatt.",
+              "A nap télen már 16:30 körül lenyugszik.",
+              "Melegedjen fel időnként a múzeumokban.",
+              "A hideg macskakövek miatt fontos a vastag talpú cipő."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi pentru briza râului.",
+              "Soarele apune iarna în jurul orei 16:30.",
+              "Încălziți-vă periodic în muzee.",
+              "Încălțămintea solidă este importantă pentru pavajul rece."
+            ],
+            "en": [
+              "Dress in layers for the river breeze.",
+              "Sunset in winter is already around 4:30 PM.",
+              "Warm up periodically in the museums.",
+              "Solid shoes are important for the cold cobblestones."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -729,6 +929,195 @@
           "Be mindful of pedestrians on shared paths.",
           "Most of the terrain is flat, but the ride to the fortress can have a slight incline."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine nasse Fahrt über die Alte Brücke eröffnet die Tour, wo die Ziegel im Regen glänzen. Das Holländische Haus bietet eine erste trockene Pause. Trotz Regen lohnen die römischen Ruinen einen kurzen Stopp, bevor Sie zur Festung weiterradeln. Nach einem stärkenden Mittagessen im Trockenen führt der Weg zurück in die Stadt, wo die Kathedrale einen würdigen Abschluss bietet. Regenkleidung ist heute Ihr bester Begleiter auf zwei Rädern.",
+            "hu": "Vizes tekerés az Öreg hídon nyitja a túrát, ahol a téglák csillognak az esőben. A Holland Ház kínálja az első száraz pihenőt. Az eső ellenére a római romok megérnek egy gyors megállót, mielőtt a várhoz tekernénk. Egy száraz helyen elfogyasztott ebéd után az út visszavezet a városba, ahol a székesegyház méltó zárást nyújt. Az esővédő felszerelés ma a legjobb barátja lesz két keréken.",
+            "ro": "O plimbare umedă peste Podul Vechi deschide turul, unde cărămizile strălucesc în ploaie. Casa Olandeză oferă prima pauză uscată. În ciuda ploii, ruinele romane merită o scurtă oprire înainte de a pedala spre cetate. După un prânz revigorant la adăpost, drumul duce înapoi în oraș, unde catedrala oferă un final pe măsură. Echipamentul de ploaie este astăzi cel mai bun partener pe două roți.",
+            "en": "A wet ride across the Old Bridge opens the tour, where the bricks glisten in the rain. The Dutch House offers the first dry break. Despite the rain, the Roman ruins are worth a quick stop before cycling to the fortress. After a refreshing lunch in the dry, the path leads back to the city, where the cathedral provides a worthy conclusion. Rain gear is your best companion on two wheels today."
+          },
+          "stops": [
+            {
+              "name": "Old Bridge",
+              "tip_5lang": {
+                "de": "Vorsicht beim Bremsen auf nassen Ziegeln.",
+                "hu": "Vigyázzon a fékezéssel a vizes téglákon.",
+                "ro": "Atenție la frânare pe cărămizile ude.",
+                "en": "Be careful when braking on wet bricks."
+              }
+            },
+            {
+              "name": "Dutch House",
+              "tip_5lang": {
+                "de": "Guter Ort, um die Regenjacke auszuschütteln.",
+                "hu": "Jó hely az esőkabát lerázására.",
+                "ro": "Loc bun pentru a scutura pelerina de ploaie.",
+                "en": "Good place to shake off your rain jacket."
+              }
+            },
+            {
+              "name": "Roman Ruins of Siscia",
+              "tip_5lang": {
+                "de": "Kurzer Stopp, Boden kann rutschig sein.",
+                "hu": "Gyors megálló, a talaj csúszós lehet.",
+                "ro": "Oprire scurtă, solul poate fi alunecos.",
+                "en": "Quick stop, the ground can be slippery."
+              }
+            },
+            {
+              "name": "Sisak Fortress",
+              "tip_5lang": {
+                "de": "Fahrräder am Eingang im Trockenen parken.",
+                "hu": "Parkolja le a bicikliket fedett helyen a bejáratnál.",
+                "ro": "Parcați bicicletele la adăpost la intrare.",
+                "en": "Park bikes in a dry spot at the entrance."
+              }
+            },
+            {
+              "name": "Lunch Break by the River",
+              "coords": [
+                16.388,
+                45.48
+              ],
+              "arrive_at": "13:06",
+              "stay_min": 80,
+              "category": "gastro",
+              "tip_5lang": {
+                "de": "Suchen Sie ein Restaurant mit Innenplätzen.",
+                "hu": "Keressen beltéri férőhellyel rendelkező éttermet.",
+                "ro": "Căutați un restaurant cu locuri la interior.",
+                "en": "Find a restaurant with indoor seating."
+              }
+            },
+            {
+              "name": "City Center & Cathedral",
+              "tip_5lang": {
+                "de": "Abschluss im Trockenen in der Kirche.",
+                "hu": "Befejezés a templom száraz belső terében.",
+                "ro": "Final la adăpost în interiorul bisericii.",
+                "en": "Finish in the dry interior of the church."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt im Regen.",
+              "Vermeiden Sie Pfützen, die Schlaglöcher verbergen könnten.",
+              "Nutzen Sie wasserfeste Packtaschen für Wertsachen.",
+              "Tragen Sie helle Regenkleidung für bessere Sichtbarkeit."
+            ],
+            "hu": [
+              "Ellenőrizze a fékeket indulás előtt az esőben.",
+              "Kerülje a kátyúkat rejtő tócsákat.",
+              "Használjon vízálló táskát az értékeihez.",
+              "Viseljen világos esővédőt a jobb láthatóságért."
+            ],
+            "ro": [
+              "Verificați frânele înainte de plecare pe ploaie.",
+              "Evitați bălțile care pot ascunde gropi.",
+              "Folosiți genți impermeabile pentru obiecte de valoare.",
+              "Purtați haine de ploaie reflectorizante."
+            ],
+            "en": [
+              "Check your brakes before starting in the rain.",
+              "Avoid puddles that might hide potholes.",
+              "Use waterproof panniers for your valuables.",
+              "Wear bright rain gear for better visibility."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die kalte Winterluft belebt bei der Fahrt über die Alte Brücke. Das Holländische Haus ist die erste Station, um die Hände aufzuwärmen. Die römischen Ruinen wirken unter einer Frostschicht fast erstarrt. Nach der Besichtigung der Festung bringt ein warmes Mittagessen die Energie zurück. Den Tag beenden Sie im Stadtzentrum, wo die Lichter der Kathedrale in der frühen Winterdämmerung leuchten. Handschuhe und eine warme Mütze sind unerlässlich.",
+            "hu": "A hideg téli levegő frissítően hat az Öreg hídon áttekerve. A Holland Ház az első állomás, ahol felmelegítheti a kezeit. A római romok szinte megdermednek a dér alatt. A vár megtekintése után egy meleg ebéd adja vissza az energiát. A napot a városközpontban zárja, ahol a székesegyház fényei világítanak a korai téli szürkületben. A kesztyű és a meleg sapka elengedhetetlen.",
+            "ro": "Aerul rece de iarnă este revigorant în timp ce traversați Podul Vechi. Casa Olandeză este prima oprire pentru a vă încălzi mâinile. Ruinele romane par încremenite sub stratul de brumă. După vizitarea cetății, un prânz cald vă redă energia. Încheiați ziua în centrul orașului, unde luminile catedralei strălucesc în amurgul timpuriu. Mănușile și căciula caldă sunt esențiale.",
+            "en": "The cold winter air is refreshing as you cycle across the Old Bridge. The Dutch House is the first stop to warm your hands. The Roman ruins seem frozen under a layer of frost. After visiting the fortress, a warm lunch restores your energy. End the day in the city center, where the cathedral lights shine in the early winter twilight. Gloves and a warm hat are essential."
+          },
+          "stops": [
+            {
+              "name": "Old Bridge",
+              "tip_5lang": {
+                "de": "Vorsicht vor Straßenglätte auf der Brücke.",
+                "hu": "Vigyázzon a jegesedésre a hídon.",
+                "ro": "Atenție la porțiunile înghețate de pe pod.",
+                "en": "Watch out for icy patches on the bridge."
+              }
+            },
+            {
+              "name": "Dutch House",
+              "tip_5lang": {
+                "de": "Ideal zum Aufwärmen nach dem ersten Teilstück.",
+                "hu": "Ideális melegedő az első szakasz után.",
+                "ro": "Ideal pentru încălzire după prima etapă.",
+                "en": "Ideal for warming up after the first leg."
+              }
+            },
+            {
+              "name": "Roman Ruins of Siscia",
+              "tip_5lang": {
+                "de": "Bodenfrost kann die Wege rutschig machen.",
+                "hu": "A talajmenti fagy csúszóssá teheti az utat.",
+                "ro": "Înghețul la sol poate face potecile alunecoase.",
+                "en": "Ground frost can make the paths slippery."
+              }
+            },
+            {
+              "name": "Sisak Fortress",
+              "tip_5lang": {
+                "de": "Kurze Pause im Freien, windgeschützte Ecken suchen.",
+                "hu": "Rövid kinti szünet, keressen szélvédett sarkokat.",
+                "ro": "Pauză scurtă afară, căutați colțuri ferite de vânt.",
+                "en": "Short outdoor break, look for wind-sheltered corners."
+              }
+            },
+            {
+              "name": "Lunch Break by the River",
+              "tip_5lang": {
+                "de": "Bestellen Sie eine warme kroatische Suppe.",
+                "hu": "Rendeljen egy forró horvát levest.",
+                "ro": "Comandați o supă caldă croată.",
+                "en": "Order a warm Croatian soup."
+              }
+            },
+            {
+              "name": "City Center & Cathedral",
+              "tip_5lang": {
+                "de": "Frühe Dämmerung für Fotos nutzen.",
+                "hu": "Használja ki a korai szürkületet a fotózáshoz.",
+                "ro": "Profitați de amurgul timpuriu pentru fotografii.",
+                "en": "Take advantage of the early twilight for photos."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Kleidung beim Radfahren.",
+              "Schützen Sie Ihre Extremitäten (Hände, Füße) vor Kälte.",
+              "Die Straßen können im Schatten glatt sein.",
+              "Planen Sie kürzere Fahrstrecken als im Sommer ein."
+            ],
+            "hu": [
+              "Viseljen szélálló ruházatot kerékpározáskor.",
+              "Védje végtagjait (kéz, láb) a hidegtől.",
+              "Az árnyékos részeken csúszós lehet az út.",
+              "Tervezzen rövidebb távokat, mint nyáron."
+            ],
+            "ro": [
+              "Purtați haine rezistente la vânt când pedalați.",
+              "Protejați-vă extremitățile (mâini, picioare) de frig.",
+              "Drumurile pot fi alunecoase în zonele umbrite.",
+              "Planificați distanțe mai scurte decât vara."
+            ],
+            "en": [
+              "Wear windproof clothing while cycling.",
+              "Protect your extremities (hands, feet) from the cold.",
+              "Roads can be slippery in shaded areas.",
+              "Plan shorter riding distances than in summer."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1084,6 +1473,188 @@
           "The drive between clusters is short, but plan for traffic.",
           "The cluster-walking method is ideal for families with children."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Genießen Sie den Komfort des Autos, während der Regen gegen die Scheiben prasselt. Der Vormittag führt Sie zu den historischen Kaptols im Zentrum, wo Sie kurze Wege zwischen den Sehenswürdigkeiten haben. Die Kathedrale und die Alte Brücke lassen sich trotz Wetter gut kombinieren. Mittags parken Sie direkt an der Festung, um ohne weite Wege ins Trockene zu gelangen. Der Tag endet bei einem gemütlichen Essen mit Blick auf den Zusammenfluss der Flüsse.",
+            "hu": "Élvezze az autó kényelmét, miközben az eső az ablakon kopog. A délelőtt a központi Kaptolokhoz vezeti, ahol rövid séták várják a látnivalók között. A székesegyház és az Öreg híd az időjárás ellenére is jól kombinálható. Délben parkoljon közvetlenül a várnál, hogy hosszú gyaloglás nélkül juthasson be a fedett részekre. A napot egy hangulatos ebéddel zárja, kilátással a folyók összefolyására.",
+            "ro": "Bucurați-vă de confortul mașinii în timp ce ploaia bate în geamuri. Dimineața vă poartă spre zonele istorice Kaptol din centru, unde distanțele dintre obiective sunt scurte. Catedrala și Podul Vechi pot fi vizitate ușor în ciuda vremii. La prânz, parcați direct la cetate pentru a ajunge rapid la adăpost. Ziua se încheie cu o masă plăcută, cu vedere spre confluența râurilor.",
+            "en": "Enjoy the comfort of your car while rain patters against the windows. The morning takes you to the historic Kaptols in the center, where you have short walks between sights. The cathedral and Old Bridge can be easily combined despite the weather. At noon, park directly at the fortress to reach the dry interior without long walks. The day ends with a cozy meal overlooking the confluence of the rivers."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: City Center Parking",
+              "tip_5lang": {
+                "de": "Suchen Sie einen Parkplatz nah am Gehweg.",
+                "hu": "Keressen járdához közeli parkolót.",
+                "ro": "Căutați un loc de parcare aproape de trotuar.",
+                "en": "Find a parking spot close to the sidewalk."
+              }
+            },
+            {
+              "name": "Little & Great Kaptol",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen Auto und Gebäuden.",
+                "hu": "Rövid távolság az autó és az épületek között.",
+                "ro": "Distanțe scurte între mașină și clădiri.",
+                "en": "Short distances between car and buildings."
+              }
+            },
+            {
+              "name": "Cathedral and Old Bridge",
+              "tip_5lang": {
+                "de": "Regenschirm griffbereit im Auto lassen.",
+                "hu": "Tartsa az esernyőt kéznél az autóban.",
+                "ro": "Țineți umbrela la îndemână în mașină.",
+                "en": "Keep your umbrella handy in the car."
+              }
+            },
+            {
+              "name": "Cluster B: Fortress Parking",
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Tor.",
+                "hu": "Parkoljon a lehető legközelebb a kapuhoz.",
+                "ro": "Parcați cât mai aproape de poartă.",
+                "en": "Park as close to the gate as possible."
+              }
+            },
+            {
+              "name": "Sisak Fortress",
+              "tip_5lang": {
+                "de": "Innenräume besichtigen, während es draußen regnet.",
+                "hu": "Nézze meg a belső tereket, amíg kint esik.",
+                "ro": "Vizitați interiorul în timp ce plouă afară.",
+                "en": "Visit the interiors while it rains outside."
+              }
+            },
+            {
+              "name": "Lunch and walk at the confluence",
+              "tip_5lang": {
+                "de": "Kurzer Lauf vom Parkplatz zum Restaurant.",
+                "hu": "Rövid futás a parkolótól az étteremig.",
+                "ro": "Fuga de la parcare până la restaurant.",
+                "en": "Short dash from the parking lot to the restaurant."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Parkplätze nah an den Museen.",
+              "Lassen Sie nasse Schirme im Kofferraum abtropfen.",
+              "Achten Sie auf Pfützen beim Ein- und Aussteigen.",
+              "Die Sicht kann bei starkem Regen eingeschränkt sein."
+            ],
+            "hu": [
+              "Használja a múzeumokhoz közeli parkolókat.",
+              "Hagyja az esernyőt a csomagtartóban lecsepegni.",
+              "Ügyeljen a tócsákra ki- és beszálláskor.",
+              "A látási viszonyok korlátozottak lehetnek nagy esőben."
+            ],
+            "ro": [
+              "Folosiți parcările din apropierea muzeelor.",
+              "Lăsați umbrelele ude la scurs în portbagaj.",
+              "Atenție la bălți la urcare și coborâre.",
+              "Vizibilitatea poate fi redusă pe ploaie torențială."
+            ],
+            "en": [
+              "Use parking lots close to the museums.",
+              "Let wet umbrellas drip dry in the trunk.",
+              "Watch out for puddles when getting in and out.",
+              "Visibility can be limited during heavy rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie aufgewärmt im Auto in den Wintertag. Das Stadtzentrum mit den Kaptols ist am Vormittag gut erreichbar, die kurzen Wege minimieren die Kälteexposition. Die Kathedrale bietet einen spirituellen und warmen Rückzugsort. Mittags führt die Fahrt zur Festung Sisak, die in der Winterlandschaft besonders markant wirkt. Ein ausgiebiges Mittagessen am Zusammenfluss von Kupa und Sava bildet den Abschluss, bevor die Winterkälte am späten Nachmittag intensiver wird.",
+            "hu": "Induljon bemelegített autóval a téli napnak. A városközpont a Kaptolokkal délelőtt könnyen elérhető, a rövid séták minimalizálják a hideget. A székesegyház spirituális és meleg menedéket nyújt. Délben az út a sziszeki várhoz vezet, amely a téli tájban különösen hangsúlyos. Egy bőséges ebéd a Kupa és a Száva összefolyásánál zárja a napot, mielőtt a téli hideg késő délután felerősödne.",
+            "ro": "Începeți ziua de iarnă în confortul mașinii încălzite. Centrul orașului cu zonele Kaptol este ușor accesibil dimineața, distanțele scurte minimizând expunerea la frig. Catedrala oferă un refugiu spiritual și cald. La prânz, drumul duce la cetatea Sisak, care pare deosebit de marcantă în peisajul de iarnă. Un prânz copios la confluența râurilor Kupa și Sava încheie ziua, înainte ca gerul să se intensifice.",
+            "en": "Start your winter day in a warmed-up car. The city center with the Kaptols is easily accessible in the morning, with short walks minimizing cold exposure. The cathedral offers a spiritual and warm retreat. At noon, the drive leads to Sisak Fortress, which looks particularly striking in the winter landscape. A hearty lunch at the confluence of the Kupa and Sava completes the day before the winter chill intensifies in the late afternoon."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: City Center Parking",
+              "tip_5lang": {
+                "de": "Motor vorwärmen für angenehme Fahrten.",
+                "hu": "Melegítse elő a motort a kellemes utazáshoz.",
+                "ro": "Preîncălziți motorul pentru o călătorie plăcută.",
+                "en": "Warm up the engine for a comfortable ride."
+              }
+            },
+            {
+              "name": "Little & Great Kaptol",
+              "tip_5lang": {
+                "de": "Kurze Aufenthalte im Freien, schnell zurück ins Auto.",
+                "hu": "Rövid kinti tartózkodás, gyorsan vissza az autóba.",
+                "ro": "Sederi scurte afară, reveniți rapid în mașină.",
+                "en": "Short outdoor stays, return to the car quickly."
+              }
+            },
+            {
+              "name": "Cathedral and Old Bridge",
+              "tip_5lang": {
+                "de": "Genießen Sie die Wärme im Kircheninneren.",
+                "hu": "Élvezze a meleget a templom belsejében.",
+                "ro": "Bucurați-vă de căldura din interiorul bisericii.",
+                "en": "Enjoy the warmth inside the church."
+              }
+            },
+            {
+              "name": "Cluster B: Fortress Parking",
+              "tip_5lang": {
+                "de": "Vorsicht vor Eisglätte auf dem Parkplatz.",
+                "hu": "Vigyázzon a jegesedésre a parkolóban.",
+                "ro": "Atenție la polei în parcare.",
+                "en": "Watch out for icy spots in the parking lot."
+              }
+            },
+            {
+              "name": "Sisak Fortress",
+              "tip_5lang": {
+                "de": "Die Wintersonne steht tief über den Mauern.",
+                "hu": "A téli nap alacsonyan jár a falak felett.",
+                "ro": "Soarele de iarnă stă jos deasupra zidurilor.",
+                "en": "The winter sun hangs low over the walls."
+              }
+            },
+            {
+              "name": "Lunch and walk at the confluence",
+              "tip_5lang": {
+                "de": "Perfekter Ort für einen heißen Tee nach dem Essen.",
+                "hu": "Tökéletes hely egy forró teához ebéd után.",
+                "ro": "Locul perfect pentru un ceai fierbinte după masă.",
+                "en": "Perfect place for a hot tea after lunch."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Reifendruck bei Kälte.",
+              "Halten Sie einen Eiskratzer griffbereit.",
+              "Planen Sie Zeit für das Entfrosten der Scheiben ein.",
+              "Achten Sie auf rutschige Stellen auf den Parkplätzen."
+            ],
+            "hu": [
+              "Ellenőrizze a guminyomást a hidegben.",
+              "Tartson jégkaparót kéznél.",
+              "Tervezzen időt a szélvédő jégtelenítésére.",
+              "Ügyeljen a csúszós részekre a parkolókban."
+            ],
+            "ro": [
+              "Verificați presiunea în pneuri pe ger.",
+              "Țineți o racletă la îndemână.",
+              "Alocați timp pentru dezghețarea parbrizului.",
+              "Atenție la porțiunile alunecoase din parcări."
+            ],
+            "en": [
+              "Check tire pressure in the cold.",
+              "Keep an ice scraper handy.",
+              "Allow time for defrosting the windows.",
+              "Watch for slippery spots in parking lots."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1439,6 +2010,188 @@
           "Bus schedules can be found online or at the stops.",
           "Be prepared to walk a bit between bus stops and the sights."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie Bus und Bahn für einen entspannten Regentag in Sisak. Der Vormittag beginnt im Zentrum, wo Kathedrale und Kaptol nah beieinander liegen. Das Stadtmuseum bietet danach stundenlangen Schutz und Kultur. Mittags bringt Sie der Bus in die Nähe des Holländischen Hauses, wo Sie die Industriegeschichte im Trockenen erleben. Ein kurzer Fußweg führt schließlich zur Festung, deren massive Mauern Ihnen auch bei Regen Schutz bieten.",
+            "hu": "Használja a buszt és a vonatot egy pihentető esős naphoz Sziszeken. A délelőtt a központban kezdődik, ahol a székesegyház és a Kaptol közel van egymáshoz. A Városi Múzeum ezután órákon át védelmet és kultúrát nyújt. Délben a busz a Holland Ház közelébe viszi, ahol szárazon ismerheti meg az ipari múltat. Egy rövid séta végül a várhoz vezet, melynek vaskos falai esőben is védelmet nyújtanak.",
+            "ro": "Folosiți autobuzul și trenul pentru o zi ploioasă relaxantă în Sisak. Dimineața începe în centru, unde catedrala și zonele Kaptol sunt aproape una de alta. Muzeul Orașului oferă apoi ore de adăpost și cultură. La prânz, autobuzul vă lasă lângă Casa Olandeză, unde descoperiți istoria industrială la adăpost. O scurtă plimbare vă duce în final la cetate, ale cărei ziduri masive vă oferă protecție.",
+            "en": "Use bus and train for a relaxed rainy day in Sisak. The morning begins in the center, where the cathedral and Kaptol are close to each other. The City Museum then offers hours of shelter and culture. At noon, the bus brings you near the Dutch House, where you can experience industrial history in the dry. A short walk finally leads to the fortress, whose massive walls offer protection even in the rain."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Arrival in the Center",
+              "tip_5lang": {
+                "de": "Warten Sie unter dem Dach der Haltestelle.",
+                "hu": "Várjon a buszmegálló teteje alatt.",
+                "ro": "Așteptați sub copertina stației.",
+                "en": "Wait under the shelter of the bus stop."
+              }
+            },
+            {
+              "name": "Cathedral and Little Kaptol",
+              "tip_5lang": {
+                "de": "Kurze Sprints zwischen den Haltestellen.",
+                "hu": "Gyors séták a megállók között.",
+                "ro": "Scurte deplasări rapide între stații.",
+                "en": "Short dashes between stops."
+              }
+            },
+            {
+              "name": "Sisak City Museum",
+              "tip_5lang": {
+                "de": "Idealer Ort, um die stärkste Regenzeit zu verbringen.",
+                "hu": "Ideális hely a legnagyobb eső idejére.",
+                "ro": "Loc ideal pentru a petrece perioada de vârf a ploii.",
+                "en": "Ideal place to spend the heaviest rain period."
+              }
+            },
+            {
+              "name": "Cluster B: Arrival at the River",
+              "tip_5lang": {
+                "de": "Achten Sie auf heranspritzendes Wasser von Fahrzeugen.",
+                "hu": "Ügyeljen a járművek által felcsapott vízre.",
+                "ro": "Atenție la apa stropită de vehicule.",
+                "en": "Watch out for splashing water from vehicles."
+              }
+            },
+            {
+              "name": "Dutch House & Lunch",
+              "tip_5lang": {
+                "de": "Mittagspause direkt neben der Kultureinrichtung.",
+                "hu": "Ebédszünet közvetlenül a kulturális intézmény mellett.",
+                "ro": "Pauză de prânz chiar lângă instituția culturală.",
+                "en": "Lunch break right next to the cultural institution."
+              }
+            },
+            {
+              "name": "Walk to the Fortress",
+              "tip_5lang": {
+                "de": "Weg kann durch Pfützen erschwert sein.",
+                "hu": "A tócsák nehezíthetik az utat.",
+                "ro": "Bălțile pot îngreuna deplasarea.",
+                "en": "Puddles may make the walk challenging."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die App für aktuelle Busabfahrten.",
+              "Halten Sie Kleingeld für die Fahrkarten bereit.",
+              "Suchen Sie überdachte Haltestellen als Wartepunkt.",
+              "Tragen Sie wasserfeste Kleidung für die Fußwege."
+            ],
+            "hu": [
+              "Használja az alkalmazást a buszok menetrendjéhez.",
+              "Tartson készenlétben aprópénzt a jegyekhez.",
+              "Keressen fedett megállókat a várakozáshoz.",
+              "Viseljen vízálló ruhát a gyalogos szakaszokhoz."
+            ],
+            "ro": [
+              "Folosiți aplicația pentru orarul autobuzelor.",
+              "Pregătiți mărunțiș pentru bilete.",
+              "Căutați stații acoperite pentru așteptare.",
+              "Purtați haine impermeabile pentru segmentele de mers pe jos."
+            ],
+            "en": [
+              "Use the app for real-time bus departures.",
+              "Keep some change ready for tickets.",
+              "Look for covered bus stops while waiting.",
+              "Wear waterproof clothing for the walking sections."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintertag in Sisak lässt sich hervorragend mit öffentlichen Verkehrsmitteln erkunden. Nach der Ankunft im Zentrum wärmt der barocke Charme der Kaptols und der Kathedrale die Seele. Das Stadtmuseum bietet mittags eine behagliche Umgebung für Geschichtsinteressierte. Mit dem Bus geht es weiter zum Holländischen Haus, einem modernen Kulturzentrum. Der letzte Abschnitt führt zur Festung, wo der kühle Winterwind vom Fluss an die Geschichte der Verteidigung erinnert.",
+            "hu": "Egy tiszta téli nap Sziszeken kiválóan felfedezhető tömegközlekedéssel. A központba érkezés után a Kaptolok és a székesegyház barokk bája melengeti a lelket. A Városi Múzeum délben barátságos környezetet kínál a történelem iránt érdeklődőknek. Busszal megyünk tovább a Holland Házhoz, a modern kulturális központhoz. Az utolsó szakasz a várhoz vezet, ahol a folyó felőli hűvös téli szél a védelem történelmére emlékeztet.",
+            "ro": "O zi senină de iarnă în Sisak poate fi explorată excelent cu transportul public. După sosirea în centru, farmecul baroc al zonelor Kaptol și al catedralei vă va încânta. Muzeul Orașului oferă la prânz un mediu primitor pentru pasionații de istorie. Continuați cu autobuzul spre Casa Olandeză, un centru cultural modern. Ultimul segment duce la cetate, unde vântul rece de pe râu amintește de istoria apărării.",
+            "en": "A clear winter day in Sisak can be excellently explored by public transit. After arriving in the center, the baroque charm of the Kaptols and the cathedral warms the soul. The City Museum provides a cozy environment for history buffs at noon. Continue by bus to the Dutch House, a modern cultural center. The final leg leads to the fortress, where the cool winter wind from the river recalls the history of defense."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Arrival in the Center",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Rückfahrplan am Bahnhof/Busbahnhof.",
+                "hu": "Ellenőrizze a visszautat a vasúti/buszállomáson.",
+                "ro": "Verificați orarul de întoarcere la gară/autogară.",
+                "en": "Check the return schedule at the station."
+              }
+            },
+            {
+              "name": "Cathedral and Little Kaptol",
+              "tip_5lang": {
+                "de": "Schnelle Gehwege nutzen, um warm zu bleiben.",
+                "hu": "Haladjon tempósan, hogy melegen tartsa magát.",
+                "ro": "Mergeți vioi pentru a vă menține căldura.",
+                "en": "Walk briskly to keep warm."
+              }
+            },
+            {
+              "name": "Sisak City Museum",
+              "tip_5lang": {
+                "de": "Genießen Sie den Kontrast zur Außenkälte.",
+                "hu": "Élvezze a kontrasztot a kinti hideggel.",
+                "ro": "Bucurați-vă de contrastul cu frigul de afară.",
+                "en": "Enjoy the contrast with the cold outside."
+              }
+            },
+            {
+              "name": "Cluster B: Arrival at the River",
+              "tip_5lang": {
+                "de": "Wartezeit im Bus zur Planung nutzen.",
+                "hu": "Használja a buszon töltött időt tervezésre.",
+                "ro": "Folosiți timpul din autobuz pentru planificare.",
+                "en": "Use the time on the bus for planning."
+              }
+            },
+            {
+              "name": "Dutch House & Lunch",
+              "tip_5lang": {
+                "de": "Gemütliches Mittagessen im beheizten Restaurant.",
+                "hu": "Hangulatos ebéd fűtött étteremben.",
+                "ro": "Prânz plăcut într-un restaurant încălzit.",
+                "en": "Cozy lunch in a heated restaurant."
+              }
+            },
+            {
+              "name": "Walk to the Fortress",
+              "tip_5lang": {
+                "de": "Frühe Dämmerung beachten, Wege sind beleuchtet.",
+                "hu": "Ügyeljen a korai szürkületre, az utak világítottak.",
+                "ro": "Atenție la amurgul timpuriu, drumurile sunt iluminate.",
+                "en": "Mind the early twilight, the paths are lit."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Busse sind im Winter meist gut beheizt.",
+              "Planen Sie Pufferzeiten für Verspätungen ein.",
+              "Nutzen Sie beheizte Warteräume an Bahnhöfen.",
+              "Warme Schuhe für die Wartezeiten an Haltestellen."
+            ],
+            "hu": [
+              "A buszok télen általában jól fűtöttek.",
+              "Tervezzen ráhagyással az esetleges késések miatt.",
+              "Használja a fűtött várótermeket az állomásokon.",
+              "Viseljen meleg cipőt a megállókban való várakozáshoz."
+            ],
+            "ro": [
+              "Autobuzele sunt de obicei bine încălzite iarna.",
+              "Alocați timp suplimentar pentru eventuale întârzieri.",
+              "Folosiți sălile de așteptare încălzite din gări.",
+              "Purtați încălțăminte călduroasă pentru așteptarea în stații."
+            ],
+            "en": [
+              "Buses are usually well-heated in winter.",
+              "Allow extra time for potential delays.",
+              "Use heated waiting rooms at stations.",
+              "Wear warm shoes for waiting at bus stops."
+            ]
+          }
+        }
       }
     }
   }

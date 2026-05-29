@@ -398,6 +398,206 @@
           "Most sights are close to each other, allowing you to take your time and enjoy the atmosphere.",
           "Check the opening hours for the museums in advance as they can vary."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Regen am Grote Markt erfordert einen schnellen Wechsel in die St.-Peters-Kirche. Das rhythmische Prasseln auf das Pflaster begleitet den Weg zum Begijnhof.\n\nMittags bieten das Taxandriamuseum und das Spielkartenmuseum idealen Schutz. Hier lässt sich die Geschichte der Stadt im Trockenen vertiefen.\n\nDer Nachmittag am Schloss der Herzöge von Brabant wirkt durch den Nebel fast mystisch. Kurze Sprints zwischen den historischen Gebäuden halten die Kleidung trocken.\n\nDer Abend im Stadtpark ist kurz, gefolgt von einer gemütlichen Einkehr in ein warmes Café am Hauptplatz, wo die Lichter sich in den Pfützen spiegeln.",
+            "hu": "Az eső kopogása a Grote Markt kövein gyors belépésre késztet a Szent Péter-templomba. A borús égbolt alatt a Begijnhof csendje még meghittebbnek tűnik.\n\nDélben a Taxandria és a Játékkártya Múzeum nyújt menedéket a csapadék elől. A tárlatok felfedezése közben teljesen megfeledkezhetünk a kinti időjárásról.\n\nDélután a Brabanti hercegek kastélya körül sétálunk, ahol a vizes falak sötétebb tónust kapnak. Az esernyő kötelező kellék a rövid szakaszokon.\n\nEste a városi parkban tett gyors kör után a főtér meleg fényű kávézói hívogatnak, ahol egy forró ital mellett nézhetjük az ablakon lecsorgó cseppeket.",
+            "ro": "Ploaia pe Grote Markt impune un refugiu rapid în Biserica Sf. Petru. Sunetul picăturilor pe caldarâm acompaniază plimbarea spre liniștitul Begijnhof.\n\nLa prânz, Muzeul Taxandria și Muzeul Cărților de Joc oferă adăpostul perfect. Expozițiile captivante ne fac să uităm de vremea mohorâtă de afară.\n\nDupă-amiaza, Castelul Ducilor de Brabant capătă un aer misterios prin ceața ușoară. Distanțele scurte între obiective permit explorarea fără a ne uda prea tare.\n\nSeara în parcul orașului este scurtă, fiind urmată de o retragere strategică într-o cafenea primitoare de pe piața centrală, unde luminile se reflectă în bălți.",
+            "en": "Rain on the Grote Markt calls for a quick entry into St. Peter's Church. The rhythmic sound of rain on the cobblestones sets the mood for the Beguinage visit.\n\nAt noon, the Taxandria and Playing Card museums provide the perfect indoor escape. Exploring local history is the best way to stay dry and engaged.\n\nIn the afternoon, the Castle of the Dukes of Brabant looks imposing under the grey sky. Short walks between historic sites keep the dampness at bay.\n\nEvening in the City Park is brief, followed by a cozy stay in a warm café on the main square, watching the city lights shimmer in the puddles."
+          },
+          "stops": [
+            {
+              "name": "Grote Markt (Main Square)",
+              "tip_5lang": {
+                "de": "Die Cafés unter den Arkaden bieten trockene Plätze.",
+                "hu": "Az árkádok alatti teraszok védenek az esőtől.",
+                "ro": "Terasele de sub arcade oferă locuri uscate.",
+                "en": "Café terraces under the arcades offer dry seating."
+              }
+            },
+            {
+              "name": "St. Peter's Church",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um einen starken Schauer abzuwarten.",
+                "hu": "Tökéletes hely egy nagyobb zápor átvészelésére.",
+                "ro": "Locul perfect pentru a aștepta trecerea unei averse.",
+                "en": "Perfect place to wait out a heavy downpour."
+              }
+            },
+            {
+              "name": "Begijnhof (Beguinage)",
+              "tip_5lang": {
+                "de": "Vorsicht, das alte Kopfsteinpflaster ist bei Nässe rutschig.",
+                "hu": "Vigyázat, a régi macskakő esőben csúszós lehet.",
+                "ro": "Atenție, pavajul vechi este alunecos când este ud.",
+                "en": "Caution, the old cobblestones are slippery when wet."
+              }
+            },
+            {
+              "name": "Taxandriamuseum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe für Ihre nassen Mäntel.",
+                "hu": "Használja a ruhatárat a vizes kabátoknak.",
+                "ro": "Folosiți garderoba pentru hainele ude.",
+                "en": "Use the cloakroom for your wet coats."
+              }
+            },
+            {
+              "name": "National Museum of Playing Cards",
+              "tip_5lang": {
+                "de": "Großer Innenbereich, ideal für verregnete Mittage.",
+                "hu": "Tágas belső tér, ideális esős délutánokra.",
+                "ro": "Spațiu interior generos, ideal pentru amiezi ploioase.",
+                "en": "Spacious interior, ideal for rainy afternoons."
+              }
+            },
+            {
+              "name": "Castle of the Dukes of Brabant",
+              "tip_5lang": {
+                "de": "Der Wassergraben wirkt bei Regen besonders stimmungsvoll.",
+                "hu": "A várárok esőben kifejezetten hangulatos.",
+                "ro": "Șanțul cu apă este foarte sugestiv pe ploaie.",
+                "en": "The moat looks particularly atmospheric in the rain."
+              }
+            },
+            {
+              "name": "City Park",
+              "tip_5lang": {
+                "de": "Feste Wege nutzen, um Matsch zu vermeiden.",
+                "hu": "Használja a szilárd burkolatú utakat a sár ellen.",
+                "ro": "Folosiți aleile pavate pentru a evita noroiul.",
+                "en": "Stick to paved paths to avoid the mud."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Turnhouts Zentrum ist kompakt, Regenschirme sind meist ausreichend.",
+              "Die Museen sind montags oft geschlossen, prüfen Sie den Wochentag.",
+              "Nutzen Sie die kostenlosen Schließfächer in den Museen für nasse Ausrüstung.",
+              "Die Grote Markt Cafés haben oft beheizte Außenbereiche."
+            ],
+            "hu": [
+              "Turnhout központja kompakt, egy esernyő általában elég.",
+              "A múzeumok hétfőn zárva tarthatnak, ellenőrizze a napot.",
+              "Használja a múzeumi szekrényeket a vizes holmik tárolására.",
+              "A főtéri kávézók teraszai gyakran fűtöttek és fedettek."
+            ],
+            "ro": [
+              "Centrul orașului Turnhout este compact, umbrela este suficientă.",
+              "Muzeele sunt adesea închise lunea, verificați ziua săptămânii.",
+              "Folosiți dulapurile din muzee pentru echipamentul ud.",
+              "Cafenelele din Grote Markt au adesea zone exterioare încălzite."
+            ],
+            "en": [
+              "Turnhout center is compact, so an umbrella is usually enough.",
+              "Museums are often closed on Mondays; check the weekday.",
+              "Use museum lockers to store your wet gear during visits.",
+              "Grote Markt cafés often have heated and covered terraces."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen am Grote Markt, wo der Dampf aus den Kaffeetassen steigt. Die St.-Peters-Kirche bietet eine andächtige, kühle Stille.\n\nMittags wärmen wir uns im Taxandriamuseum auf. Die kurzen Wege zwischen den Museen sind bei der kalten Winterluft ideal, um nicht auszukühlen.\n\nAm Nachmittag taucht die tiefstehende Sonne das Schloss in ein goldenes Licht, bevor es früh dunkel wird. Die historischen Mauern speichern die winterliche Kälte.\n\nDer Abend endet früh im Stadtpark unter kahlen Bäumen. Schnell zieht es uns zurück zur beleuchteten Grote Markt für ein belgisches Bier in wohliger Wärme.",
+            "hu": "Fagyos reggel a Grote Markton, ahol gőzölögnek a kávéscsészék. A Szent Péter-templom hűvös, áhítatos csendje fogadja a látogatót.\n\nDélben a Taxandria Múzeumban melegszünk fel. A múzeumok közötti rövid séták pont elegendőek a friss téli levegőhöz anélkül, hogy átfagynánk.\n\nDélután az alacsonyan járó nap aranyba vonja a kastélyt, mielőtt korán leszállna az est. A történelmi falak között érezni a tél illatát.\n\nAz este korán kezdődik a kopár fák övezte városi parkban. A kivilágított főtér és egy pohár belga sör melege hívogat minket a nap végén.",
+            "ro": "O dimineață geroasă în Grote Markt, unde aburii se ridică din ceștile de cafea. Biserica Sf. Petru oferă o liniște solemnă și răcoroasă.\n\nLa prânz ne încălzim în Muzeul Taxandria. Distanțele scurte între muzee sunt ideale în aerul rece de iarnă pentru a nu îngheța.\n\nDupă-amiaza, soarele palid scaldă castelul într-o lumină aurie înainte de amurgul timpuriu. Zidurile istorice păstrează frigul iernii.\n\nSeara se lasă devreme peste copacii desfrunziți din parcul orașului. Ne întoarcem rapid spre Grote Markt iluminată pentru o bere belgiană la căldură.",
+            "en": "A frosty morning on Grote Markt, with steam rising from coffee cups. St. Peter's Church offers a quiet, reverent chill to start the day.\n\nAt noon, we warm up inside the Taxandria Museum. The short walks between museums are ideal for enjoying the crisp winter air without getting too cold.\n\nIn the afternoon, the low winter sun bathes the Castle in golden light before the early sunset. The historic walls hold the winter's bite.\n\nEvening comes early in the City Park among bare trees. We quickly head back to the illuminated Grote Markt for a warm Belgian beer in a cozy pub."
+          },
+          "stops": [
+            {
+              "name": "Grote Markt (Main Square)",
+              "tip_5lang": {
+                "de": "Warme Kleidung ist für den offenen Platz wichtig.",
+                "hu": "Réteges öltözködés fontos a nyitott téren.",
+                "ro": "Hainele groase sunt esențiale în piața deschisă.",
+                "en": "Warm clothing is essential for the open square."
+              }
+            },
+            {
+              "name": "St. Peter's Church",
+              "tip_5lang": {
+                "de": "Innen ist es oft kälter als draußen, behalten Sie den Mantel an.",
+                "hu": "Belül gyakran hidegebb van, ne vegye le a kabátot.",
+                "ro": "În interior este adesea mai frig, păstrați haina pe dvs.",
+                "en": "It's often colder inside, keep your coat on."
+              }
+            },
+            {
+              "name": "Begijnhof (Beguinage)",
+              "tip_5lang": {
+                "de": "Die winterliche Ruhe hier ist besonders besinnlich.",
+                "hu": "A téli nyugalom itt különösen meghitt.",
+                "ro": "Liniștea de iarnă de aici este foarte relaxantă.",
+                "en": "The winter silence here is exceptionally peaceful."
+              }
+            },
+            {
+              "name": "Taxandriamuseum",
+              "tip_5lang": {
+                "de": "Ein wunderbarer Ort, um die kalte Mittagszeit zu verbringen.",
+                "hu": "Csodás hely a hideg déli órák eltöltésére.",
+                "ro": "Un loc minunat pentru a petrece amiaza rece.",
+                "en": "A wonderful place to spend the cold midday hours."
+              }
+            },
+            {
+              "name": "National Museum of Playing Cards",
+              "tip_5lang": {
+                "de": "Genießen Sie die Wärme im modernen Museumsbau.",
+                "hu": "Élvezze a modern múzeumépület melegét.",
+                "ro": "Bucurați-vă de căldura din clădirea modernă a muzeului.",
+                "en": "Enjoy the warmth inside the modern museum building."
+              }
+            },
+            {
+              "name": "Castle of the Dukes of Brabant",
+              "tip_5lang": {
+                "de": "Das Schloss ist bei Sonnenuntergang (ca. 16:30) toll beleuchtet.",
+                "hu": "A kastély naplementekor (16:30 körül) csodásan ki van világítva.",
+                "ro": "Castelul este frumos iluminat la apus (aprox. 16:30).",
+                "en": "The castle is beautifully lit at sunset (around 16:30)."
+              }
+            },
+            {
+              "name": "City Park",
+              "tip_5lang": {
+                "de": "Vorsicht vor überfrorenen Stellen auf den Brücken.",
+                "hu": "Vigyázzon a lefagyott részekre a hidakon.",
+                "ro": "Atenție la porțiunile înghețate de pe poduri.",
+                "en": "Watch out for icy patches on the bridges."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Dezember bereits gegen 16:30 Uhr unter.",
+              "Tragen Sie festes Schuhwerk gegen die Bodenkälte.",
+              "Die Museen sind gut geheizt und bieten eine Pause vom Frost.",
+              "Probieren Sie lokale Winterspezialitäten in den Bäckereien."
+            ],
+            "hu": [
+              "A nap decemberben már 16:30 körül lemegy.",
+              "Viseljen vastag talpú cipőt a talajmenti fagy ellen.",
+              "A múzeumok jól fűtöttek, jó pihenőt jelentenek a hidegben.",
+              "Kóstolja meg a helyi téli finomságokat a pékségekben."
+            ],
+            "ro": [
+              "Soarele apune în decembrie deja în jurul orei 16:30.",
+              "Purtați încălțăminte cu talpă groasă împotriva frigului.",
+              "Muzeele sunt bine încălzite și oferă un respiro de la ger.",
+              "Gustați specialitățile locale de iarnă din brutării."
+            ],
+            "en": [
+              "The sun sets as early as 16:30 in December.",
+              "Wear thick-soled shoes to protect against the cold ground.",
+              "Museums are well-heated and offer a break from the frost.",
+              "Try local winter specialties in the nearby bakeries."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -814,6 +1014,224 @@
           "Be mindful of one-way streets in the city center, which sometimes also apply to bikes.",
           "A good lock is essential, especially in busy areas like the Grote Markt."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Auf zwei Rädern trotzen wir dem belgischen Wetter am Grote Markt. Die Fahrt zum Begijnhof erfordert Konzentration auf den nassen Steinen.\n\nMittags parken wir die Räder trocken am Taxandriamuseum. Der Fokus liegt nun auf den Indoor-Schätzen der Spielkartenstadt.\n\nEin kurzer Ritt zum Kulturzentrum De Warande bietet eine architektonische Abwechslung im Regen. Die Reifen wirbeln das Wasser auf den Wegen zum Stadtpark hoch.\n\nDer Tag endet mit einer zügigen Fahrt zurück zum Markt. Ein heißes Getränk ist die verdiente Belohnung für die wetterfesten Radler.",
+            "hu": "Két keréken dacolunk a belga időjárással a Grote Markton. A Begijnhof felé tartó út koncentrációt igényel a vizes köveken.\n\nDélben a Taxandria Múzeumnál hagyjuk a bringákat. A figyelem most a játékkártyák városának fedett kincseire irányul.\n\nEgy rövid tekerés a De Warande kulturális központig építészeti felfrissülést hoz az esőben. A kerekek felverik a vizet a városi park felé vezető úton.\n\nA nap egy tempós visszatekeréssel zárul a főtérre. Egy forró ital megérdemelt jutalom a vízhatlan ruhába öltözött bringásoknak.",
+            "ro": "Pe două roți sfidăm vremea belgiană în Grote Markt. Drumul spre Begijnhof necesită concentrare pe pietrele umede.\n\nLa prânz parcăm bicicletele la loc uscat lângă Muzeul Taxandria. Atenția se mută acum pe comorile de interior ale orașului cărților de joc.\n\nO scurtă plimbare spre centrul cultural De Warande oferă o diversitate arhitecturală pe ploaie. Roțile împroșcă apa pe potecile spre parcul orașului.\n\nZiua se încheie cu o pedalare rapidă înapoi spre piață. O băutură fierbinte este recompensa meritată pentru bicicliștii rezistenți.",
+            "en": "On two wheels, we brave the Belgian weather at Grote Markt. The ride to the Beguinage requires focus on the wet stones.\n\nAt noon, we park the bikes in a dry spot near the Taxandria Museum. The focus shifts to the indoor treasures of the playing card city.\n\nA short ride to De Warande cultural centre offers an architectural break in the rain. Tires splash through puddles on the paths to the City Park.\n\nThe day ends with a brisk ride back to the market. A hot drink is the well-deserved reward for weatherproof cyclists."
+          },
+          "stops": [
+            {
+              "name": "Grote Markt (Main Square)",
+              "tip_5lang": {
+                "de": "Vorsicht beim Anfahren auf dem glatten Pflaster.",
+                "hu": "Vigyázzon az indulásnál a csúszós köveken.",
+                "ro": "Atenție la plecare pe pavajul alunecos.",
+                "en": "Be careful when starting off on the slippery pavement."
+              }
+            },
+            {
+              "name": "Begijnhof (Beguinage)",
+              "tip_5lang": {
+                "de": "Schieben Sie das Rad im Innenhof, da es eng und nass ist.",
+                "hu": "Tolja a bringát az udvaron, mert szűk és vizes.",
+                "ro": "Împingeți bicicleta în curtea interioară, e îngust și ud.",
+                "en": "Walk your bike in the courtyard; it's narrow and wet."
+              }
+            },
+            {
+              "name": "St. Peter's Church",
+              "tip_5lang": {
+                "de": "Suchen Sie überdachte Radständer in der Nähe.",
+                "hu": "Keressen fedett biciklitárolót a közelben.",
+                "ro": "Căutați suporturi de biciclete acoperite în apropiere.",
+                "en": "Look for covered bike racks nearby."
+              }
+            },
+            {
+              "name": "Taxandriamuseum & National Museum of Playing Cards",
+              "tip_5lang": {
+                "de": "Ein Sattelschutz hält den Sitz während des Besuchs trocken.",
+                "hu": "Egy nyeregvédő szárazon tartja az ülést a látogatás alatt.",
+                "ro": "O protecție de șa menține scaunul uscat în timpul vizitei.",
+                "en": "A seat cover keeps the saddle dry during your visit."
+              }
+            },
+            {
+              "name": "De Warande Cultural Centre",
+              "tip_5lang": {
+                "de": "Das Foyer bietet einen trockenen Platz für eine Karte-Check.",
+                "hu": "Az aula száraz helyet kínál a térkép átnézéséhez.",
+                "ro": "Foaierul oferă un loc uscat pentru a verifica harta.",
+                "en": "The foyer offers a dry spot to check your map."
+              }
+            },
+            {
+              "name": "City Park",
+              "tip_5lang": {
+                "de": "Vermeiden Sie Rasenflächen, bleiben Sie auf dem Asphalt.",
+                "hu": "Kerülje a füves területeket, maradjon az aszfalton.",
+                "ro": "Evitați zonele cu iarbă, rămâneți pe asfalt.",
+                "en": "Avoid grassy areas; stay on the asphalt paths."
+              }
+            },
+            {
+              "name": "Castle of the Dukes of Brabant",
+              "tip_5lang": {
+                "de": "Die Brücken können bei Nässe extrem rutschig sein.",
+                "hu": "A hidak esőben rendkívül csúszósak lehetnek.",
+                "ro": "Podurile pot fi extrem de alunecoase pe ploaie.",
+                "en": "The bridges can be extremely slippery when wet."
+              }
+            },
+            {
+              "name": "Farewell Drink at Grote Markt",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die verregnete Stadt von drinnen.",
+                "hu": "Élvezze az esős város látványát bentről.",
+                "ro": "Bucurați-vă de vederea orașului ploios din interior.",
+                "en": "Enjoy the view of the rainy city from inside."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Regenbekleidung (Hose und Jacke) ist in Belgien Pflicht.",
+              "Vermeiden Sie plötzliches Bremsen auf nassem Kopfsteinpflaster.",
+              "Achten Sie auf Markierungen, die bei Regen rutschig werden.",
+              "De Warande ist ein guter Zwischenstopp zum Aufwärmen."
+            ],
+            "hu": [
+              "Az esőruházat (nadrág és kabát) kötelező Belgiumban.",
+              "Kerülje a hirtelen fékezést a vizes macskakövön.",
+              "Ügyeljen a felfestésekre, amik esőben csúszóssá válnak.",
+              "A De Warande jó pihenőhely a felmelegedéshez."
+            ],
+            "ro": [
+              "Pantaloni și jachetă de ploaie sunt obligatorii în Belgia.",
+              "Evitați frânarea bruscă pe pavajul umed.",
+              "Atenție la marcajele rutiere care devin alunecoase pe ploaie.",
+              "De Warande este un popas bun pentru încălzire."
+            ],
+            "en": [
+              "Rain gear (trousers and jacket) is essential in Belgium.",
+              "Avoid sudden braking on wet cobblestones.",
+              "Watch out for road markings that become slippery in the rain.",
+              "De Warande is a good intermediate stop to warm up."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Klare, kalte Luft weht uns am Grote Markt entgegen. Die Fahrt zum Begijnhof ist kurz, aber die Kälte beißt in die Wangen.\n\nMittags bietet die kombinierte Museumstour eine lange Aufwärmpause. Die Räder warten draußen im winterlichen Turnhout.\n\nDas De Warande Zentrum glänzt im Nachmittagslicht. Die Fahrt zum Stadtpark führt durch kahle Alleen, wo der Reif an den Ästen klebt.\n\nBei Einbruch der Dunkelheit radeln wir am beleuchteten Schloss vorbei. Der Grote Markt empfängt uns mit festlicher Beleuchtung und der Aussicht auf ein warmes Lokal.",
+            "hu": "Tiszta, hideg levegő fogad minket a Grote Markton. A Begijnhof felé vezető út rövid, de a fagy megcsípi az arcunkat.\n\nDélben a kombinált múzeumlátogatás hosszú felmelegedési szünetet biztosít. A bringák kint várnak a téli Turnhoutban.\n\nA De Warande központ csillog a délutáni fényben. A városi parkba vezető út kopár fasorok mentén visz, ahol zúzmara tapad az ágakra.\n\nSötétedéskor a kivilágított kastély mellett tekerünk el. A Grote Markt ünnepi fényekkel és egy meleg vendéglő ígéretével vár minket.",
+            "ro": "Aerul curat și rece ne întâmpină în Grote Markt. Drumul spre Begijnhof este scurt, dar gerul ne ciupește obrajii.\n\nLa prânz, turul combinat al muzeelor oferă o pauză lungă de încălzire. Bicicletele așteaptă afară în Turnhout-ul hibernal.\n\nCentrul De Warande strălucește în lumina amiezii. Drumul spre parcul orașului trece prin alei desfrunziție, cu chiciură pe ramuri.\n\nLa lăsarea întunericului pedalăm pe lângă castelul iluminat. Grote Markt ne întâmpină cu lumini festive și perspectiva unui local călduros.",
+            "en": "Crisp, cold air greets us at Grote Markt. The ride to the Beguinage is short, but the cold nips at our cheeks.\n\nAt noon, the combined museum tour provides a long warming break. Our bikes wait outside in the wintry Turnhout air.\n\nThe De Warande centre gleams in the afternoon light. The ride to the City Park goes through bare avenues with frost clinging to the branches.\n\nAs darkness falls, we cycle past the illuminated Castle. Grote Markt welcomes us back with festive lights and the promise of a warm pub."
+          },
+          "stops": [
+            {
+              "name": "Grote Markt (Main Square)",
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Handschuhe beim Radfahren.",
+                "hu": "Viseljen szélálló kesztyűt kerékpározás közben.",
+                "ro": "Purtați mănuși rezistente la vânt când pedalați.",
+                "en": "Wear windproof gloves while cycling."
+              }
+            },
+            {
+              "name": "Begijnhof (Beguinage)",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf dem alten Pflaster.",
+                "hu": "Ügyeljen a jegesedésre a régi macskakövön.",
+                "ro": "Atenție la polei pe pavajul vechi.",
+                "en": "Watch out for black ice on the old cobblestones."
+              }
+            },
+            {
+              "name": "St. Peter's Church",
+              "tip_5lang": {
+                "de": "Kurzer Stopp, um die steifen Finger aufzuwärmen.",
+                "hu": "Rövid megálló az elgémberedett ujjak felmelegítésére.",
+                "ro": "Scurt popas pentru a încălzi degetele amorțite.",
+                "en": "Short stop to warm up stiff fingers."
+              }
+            },
+            {
+              "name": "Taxandriamuseum & National Museum of Playing Cards",
+              "tip_5lang": {
+                "de": "Planen Sie hier die meiste Zeit im Warmen ein.",
+                "hu": "Itt tervezze a legtöbb időt a melegben.",
+                "ro": "Planificați aici cea mai mare parte a timpului la căldură.",
+                "en": "Plan to spend most of your time here in the warm."
+              }
+            },
+            {
+              "name": "De Warande Cultural Centre",
+              "tip_5lang": {
+                "de": "Der Kiosk hier ist ideal für einen heißen Tee.",
+                "hu": "Az itt található büfé ideális egy forró teához.",
+                "ro": "Chioșcul de aici este ideal pentru un ceai fierbinte.",
+                "en": "The kiosk here is ideal for a hot tea."
+              }
+            },
+            {
+              "name": "City Park",
+              "tip_5lang": {
+                "de": "Bei Frost können die Brücken gesperrt sein.",
+                "hu": "Fagy esetén a hidakat lezárhatják.",
+                "ro": "În caz de îngheț, podurile pot fi închise.",
+                "en": "In case of frost, bridges might be closed."
+              }
+            },
+            {
+              "name": "Castle of the Dukes of Brabant",
+              "tip_5lang": {
+                "de": "Beleuchtung prüfen, da es ab 16:30 Uhr dunkel wird.",
+                "hu": "Ellenőrizze a lámpákat, mert 16:30-tól sötét van.",
+                "ro": "Verificați luminile, se întunecă de la ora 16:30.",
+                "en": "Check your bike lights; it gets dark from 16:30."
+              }
+            },
+            {
+              "name": "Farewell Drink at Grote Markt",
+              "tip_5lang": {
+                "de": "Ein lokales Starkbier wärmt von innen auf.",
+                "hu": "Egy helyi barna sör belülről melenget.",
+                "ro": "O bere locală tare vă va încălzi din interior.",
+                "en": "A local strong beer will warm you from the inside."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Funktionierende Fahrradbeleuchtung ist im Winter essenziell.",
+              "Schützen Sie Ihr Gesicht mit einem Schal vor dem Fahrtwind.",
+              "Achten Sie auf feuchte Blätter, die gefrieren können.",
+              "Die Sonne verschwindet früh, planen Sie die Parktour rechtzeitig."
+            ],
+            "hu": [
+              "A működő kerékpáros világítás télen elengedhetetlen.",
+              "Védje arcát sállal a menetszél ellen.",
+              "Ügyeljen a nedves levelekre, amik lefagyhatnak.",
+              "A nap korán lemegy, tervezze időben a parki kört."
+            ],
+            "ro": [
+              "Iluminarea funcțională a bicicletei este esențială iarna.",
+              "Protejați-vă fața cu un fular împotriva curentului.",
+              "Atenție la frunzele umede care pot îngheța.",
+              "Soarele apune devreme, planificați turul parcului la timp."
+            ],
+            "en": [
+              "Working bike lights are essential in winter.",
+              "Protect your face with a scarf against the wind chill.",
+              "Watch out for wet leaves that can freeze over.",
+              "The sun disappears early; plan your park visit accordingly."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1182,6 +1600,188 @@
           "Pay attention to the 'blue zone' which requires a parking disc.",
           "The distances between the two clusters are short, the drive only takes a few minutes."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten im trockenen Parkhaus Muylenberg. Der Regen prasselt gegen die Scheiben, während wir zum Beguinage navigieren.\n\nMittags parken wir zentral am Markt, um die Museen ohne weite Fußwege zu erreichen. Die Stadt wirkt im Regen ruhig und entspannt.\n\nEine kurze Fahrt bringt uns zum Stadtpark, wo wir die Aussicht aus dem Auto genießen, bevor wir einen schnellen Spaziergang wagen.\n\nDer Tag endet am Schloss der Herzöge von Brabant. Die Rückfahrt durch die beleuchteten, nassen Gassen bietet schöne Fotomotive.",
+            "hu": "A száraz Muylenberg parkolóházban kezdünk. Az eső az ablakon kopog, miközben a Beguinage felé navigálunk.\n\nDélben a főtér közelében parkolunk, hogy a múzeumokat hosszú gyaloglás nélkül érjük el. A város esőben nyugodt és ellazult.\n\nEgy rövid autóút a városi parkba visz, ahol a kocsiból élvezzük a kilátást, mielőtt egy gyors sétára vállalkoznánk.\n\nA nap a Brabanti hercegek kastélyánál zárul. A visszautazás a kivilágított, vizes utcákon szép fotótémákat kínál.",
+            "ro": "Începem în parcarea subterană Muylenberg, la adăpost. Ploaia bate în geamuri în timp ce navigăm spre Beguinage.\n\nLa prânz parcăm central lângă piață pentru a ajunge la muzee fără a merge mult pe jos. Orașul pare liniștit și relaxat sub ploaie.\n\nO scurtă cursă ne duce la parcul orașului, unde admirăm priveliștea din mașină înainte de a risca o plimbare rapidă.\n\nZiua se încheie la Castelul Ducilor de Brabant. Drumul de întoarcere prin străzile iluminate și ude oferă motive foto frumoase.",
+            "en": "We start in the dry Muylage parking garage. Rain lashes against the windows as we navigate towards the Beguinage.\n\nAt noon, we park centrally near the market to reach the museums without long walks. The city feels calm and relaxed in the rain.\n\nA short drive takes us to the City Park, where we enjoy the view from the car before braving a quick stroll.\n\nThe day ends at the Castle of the Dukes of Brabant. The drive back through the lit, wet streets offers great photo opportunities."
+          },
+          "stops": [
+            {
+              "name": "City Center Parking (e.g., Parking Muylenberg)",
+              "tip_5lang": {
+                "de": "Überdachtes Parken ist heute ein großer Vorteil.",
+                "hu": "A fedett parkolás ma nagy előny.",
+                "ro": "Parcarea acoperită este un mare avantaj astăzi.",
+                "en": "Covered parking is a big advantage today."
+              }
+            },
+            {
+              "name": "Beguinage & St. Peter's Church",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz nah am Eingang.",
+                "hu": "Használja a bejárathoz közeli parkolót.",
+                "ro": "Folosiți parcarea de lângă intrare.",
+                "en": "Use the parking spot close to the entrance."
+              }
+            },
+            {
+              "name": "Grote Markt & Museums",
+              "tip_5lang": {
+                "de": "Am Markt gibt es Kurzzeitparkplätze für Museumsbesucher.",
+                "hu": "A főtéren vannak rövid távú parkolók a múzeumlátogatóknak.",
+                "ro": "În piață există parcări pe termen scurt pentru vizitatori.",
+                "en": "Short-term parking is available near the market for visitors."
+              }
+            },
+            {
+              "name": "Drive to the City Park",
+              "tip_5lang": {
+                "de": "Scheibenwischer auf Intervall bei leichtem Regen.",
+                "hu": "Ablaktörlő intervallum állásban ideális.",
+                "ro": "Ștergătoarele pe interval sunt ideale pentru ploaie ușoară.",
+                "en": "Set wipers to interval for light rain."
+              }
+            },
+            {
+              "name": "City Park",
+              "tip_5lang": {
+                "de": "Parken Sie am Rand für einen Blick auf den See.",
+                "hu": "Parkoljon a szélen a tavi kilátáshoz.",
+                "ro": "Parcați la margine pentru o vedere spre lac.",
+                "en": "Park at the edge for a view of the lake."
+              }
+            },
+            {
+              "name": "Castle of the Dukes of Brabant",
+              "tip_5lang": {
+                "de": "Direkt vor dem Schloss gibt es oft freie Plätze.",
+                "hu": "Közvetlenül a kastély előtt gyakran van szabad hely.",
+                "ro": "Chiar în fața castelului sunt adesea locuri libere.",
+                "en": "There are often free spots right in front of the castle."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Verwenden Sie Parkhäuser, um trocken ins Auto zu steigen.",
+              "Achten Sie auf Einbahnstraßen im Zentrum bei schlechter Sicht.",
+              "Die Park-App '4411' funktioniert in Turnhout hervorragend.",
+              "Planen Sie etwas mehr Zeit für die Parkplatzsuche am Markt ein."
+            ],
+            "hu": [
+              "Használjon parkolóházakat, hogy szárazon szálljon be.",
+              "Ügyeljen az egyirányú utcákra korlátozott látási viszonyoknál.",
+              "A '4411' parkolási app kiválóan működik Turnhoutban.",
+              "Tervezzen kicsit több időt a főtéri parkolóhely keresésére."
+            ],
+            "ro": [
+              "Folosiți parcările etajate pentru a urca uscat în mașină.",
+              "Atenție la sensurile unice la vizibilitate redusă.",
+              "Aplicația de parcare '4411' funcționează excelent în Turnhout.",
+              "Planificați puțin mai mult timp pentru găsirea locului de parcare."
+            ],
+            "en": [
+              "Use parking garages to stay dry when entering your car.",
+              "Watch for one-way streets in the center during low visibility.",
+              "The parking app '4411' works perfectly in Turnhout.",
+              "Allow a bit more time for finding parking near the market."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Heizung im Auto läuft auf Hochtouren, während wir am Muylenberg starten. Die Stadt ist in ein sanftes Winterlicht getaucht.\n\nMittags erkunden wir die Museen. Es ist angenehm, die Kälte draußen zu wissen, während man drinnen in die Geschichte eintaucht.\n\nDie Fahrt zum Stadtpark führt an weihnachtlich geschmückten Häusern vorbei. Die tiefstehende Sonne blendet leicht auf den trockenen Straßen.\n\nDer Tag endet am beleuchteten Schloss. Die kurzen Wege vom Parkplatz zu den Sehenswürdigkeiten sind bei Frost ideal.",
+            "hu": "A fűtés maximális fokozaton üzemel, miközben a Muylenbergből indulunk. A város lágy téli fényben úszik.\n\nDélben a múzeumokat fedezzük fel. Jó érzés tudni, hogy a hideg kint marad, miközben bent a történelemben kalandozunk.\n\nAz autóút a városi parkba karácsonyi díszbe öltözött házak mellett visz el. Az alacsony nap kicsit vakít a száraz utakon.\n\nA nap a kivilágított kastélynál zárul. A parkoló és a látnivalók közötti rövid távok ideálisak fagyos időben.",
+            "ro": "Încălzirea în mașină funcționează la maxim când plecăm din Muylenberg. Orașul este scăldat într-o lumină blândă de iarnă.\n\nLa prânz explorăm muzeele. E plăcut să știi că frigul rămâne afară în timp ce explorezi istoria în interior.\n\nDrumul spre parcul orașului trece pe lângă case decorate de Crăciun. Soarele de iarnă orbitează ușor pe șoselele uscate.\n\nZiua se încheie la castelul iluminat. Distanțele scurte de la parcare la obiective sunt ideale pe timp de ger.",
+            "en": "The car heater is on full blast as we start from Muylage. The city is bathed in a soft winter light.\n\nAt noon, we explore the museums. It's pleasant to leave the cold outside while diving into history indoors.\n\nThe drive to the City Park passes by houses with Christmas decorations. The low sun is a bit blinding on the dry winter roads.\n\nThe day ends at the illuminated castle. Short walks from the parking spots to the sights are ideal in freezing weather."
+          },
+          "stops": [
+            {
+              "name": "City Center Parking (e.g., Parking Muylenberg)",
+              "tip_5lang": {
+                "de": "Eisfreie Scheiben dank Parkhaus-Start.",
+                "hu": "Jégmentes szélvédők a parkolóháznak köszönhetően.",
+                "ro": "Parbriz fără gheață datorită parcării acoperite.",
+                "en": "Ice-free windows thanks to starting in a garage."
+              }
+            },
+            {
+              "name": "Beguinage & St. Peter's Church",
+              "tip_5lang": {
+                "de": "Vorsicht vor glatten Stellen auf dem Parkplatz.",
+                "hu": "Vigyázzon a jeges foltokra a parkolóban.",
+                "ro": "Atenție la porțiunile alunecoase din parcare.",
+                "en": "Watch out for icy patches in the parking lot."
+              }
+            },
+            {
+              "name": "Grote Markt & Museums",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Taxandriamuseum.",
+                "hu": "Parkoljon közel a Taxandria Múzeumhoz.",
+                "ro": "Parcați aproape de Muzeul Taxandria.",
+                "en": "Park close to the Taxandria Museum."
+              }
+            },
+            {
+              "name": "Drive to the City Park",
+              "tip_5lang": {
+                "de": "Achten Sie auf tiefstehende Wintersonne beim Fahren.",
+                "hu": "Vezetéskor ügyeljen az alacsonyan járó téli napra.",
+                "ro": "Atenție la soarele de iarnă care bate direct în ochi.",
+                "en": "Watch out for the low winter sun while driving."
+              }
+            },
+            {
+              "name": "City Park",
+              "tip_5lang": {
+                "de": "Kurzer Stopp am See, um die Wintervögel zu sehen.",
+                "hu": "Rövid megálló a tónál a téli madarak megfigyelésére.",
+                "ro": "Scurt popas la lac pentru a vedea păsările de iarnă.",
+                "en": "Short stop by the lake to see winter birds."
+              }
+            },
+            {
+              "name": "Castle of the Dukes of Brabant",
+              "tip_5lang": {
+                "de": "Die Beleuchtung kommt nach 16:30 Uhr voll zur Geltung.",
+                "hu": "A kivilágítás 16:30 után érvényesül igazán.",
+                "ro": "Iluminatul este pus în valoare după ora 16:30.",
+                "en": "The lighting looks best after 16:30."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Reifendruck bei plötzlichem Kälteeinbruch.",
+              "Die Parkhäuser sind im Winter oft wärmer als Außenplätze.",
+              "Lassen Sie keine Getränke über Nacht im Auto (Frostgefahr).",
+              "Achten Sie auf Streusalz, das die Sicht einschränken kann."
+            ],
+            "hu": [
+              "Hirtelen lehűléskor ellenőrizze a guminyomást.",
+              "A parkolóházak télen melegebbek a kültéri helyeknél.",
+              "Ne hagyjon italt éjszakára az autóban a fagy miatt.",
+              "Ügyeljen az útszóró sóra, ami rontja a kilátást."
+            ],
+            "ro": [
+              "Verificați presiunea în pneuri la scăderi bruște de temperatură.",
+              "Parcările etajate sunt mai calde iarna decât cele exterioare.",
+              "Nu lăsați băuturi în mașină peste noapte (pericol de îngheț).",
+              "Atenție la sarea de pe drum care poate murdări parbrizul."
+            ],
+            "en": [
+              "Check tire pressure during sudden cold snaps.",
+              "Parking garages are often warmer than outdoor spots in winter.",
+              "Don't leave drinks in the car overnight due to frost risk.",
+              "Watch out for road salt, which can blur your vision."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1550,6 +2150,188 @@
           "The app for the Belgian transport company De Lijn is useful for planning routes and buying tickets.",
           "Be aware that bus frequencies might be lower in the evenings and on weekends."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus erreichen wir den Grote Markt. Die Wartezeiten an den Haltestellen verbringen wir unter den Unterständen.\n\nMittags erkunden wir die Museen. Die gute Anbindung erlaubt es uns, die nassen Wege zu minimieren. Turnhout zeigt sich von seiner funktionalen Seite.\n\nDie Busfahrt zum Stadtpark ist kurz und bietet einen Moment der Ruhe. Wir beobachten die verregnete Stadt durch die beschlagenen Scheiben.\n\nDer Abend am Schloss wird von einer pünktlichen Rückfahrt zum Markt gekrönt. Ein belgisches Bier in einem trockenen Lokal beendet den Tag.",
+            "hu": "Busszal érkezünk a Grote Marktra. A várakozási időt a fedett megállókban töltjük.\n\nDélben a múzeumokat látogatjuk meg. A jó közlekedési kapcsolatok lehetővé teszik a vizes szakaszok minimalizálását.\n\nA buszút a városi parkba rövid és pihentető. A párás ablakon keresztül figyeljük az esős várost.\n\nA napot a kastély látogatása és egy pontos buszjárat zárja vissza a főtérre. Egy belga sör egy száraz vendéglőben tökéletes befejezés.",
+            "ro": "Ajungem cu autobuzul în Grote Markt. Timpul de așteptare în stații îl petrecem sub copertinele protectoare.\n\nLa prânz explorăm muzeele. Conexiunile bune ne permit să minimizăm traseele prin ploaie. Turnhout își arată latura funcțională.\n\nCursa cu autobuzul spre parcul orașului este scurtă și relaxantă. Observăm orașul ploios prin geamurile aburite.\n\nZiua la castel se încheie cu o cursă punctuală înapoi spre piață. O bere belgiană într-un local uscat încheie ziua.",
+            "en": "We arrive at Grote Markt by bus. Waiting times at the stops are spent under protective shelters.\n\nAt noon, we explore the museums. The good transit connections allow us to minimize walking in the rain.\n\nThe bus ride to the City Park is short and offers a moment of rest. We watch the rainy city through the foggy windows.\n\nThe evening at the Castle is followed by a punctual ride back to the market. A Belgian beer in a dry pub ends the day."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Grote Markt",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist direkt am Markt und bietet Schutz.",
+                "hu": "A megálló közvetlenül a piacon van és védett.",
+                "ro": "Stația este chiar în piață și este protejată.",
+                "en": "The stop is right on the market and offers shelter."
+              }
+            },
+            {
+              "name": "Grote Markt & St. Peter's Church",
+              "tip_5lang": {
+                "de": "Kurzer Weg von der Haltestelle zur Kirche.",
+                "hu": "Rövid út a megállótól a templomig.",
+                "ro": "Drum scurt de la stație până la biserică.",
+                "en": "Short walk from the bus stop to the church."
+              }
+            },
+            {
+              "name": "Beguinage & Museums",
+              "tip_5lang": {
+                "de": "Die Museen sind gut zu Fuß von der Haltestelle erreichbar.",
+                "hu": "A múzeumok gyalogosan jól elérhetők a megállótól.",
+                "ro": "Muzeele sunt ușor accesibile pe jos de la stație.",
+                "en": "The museums are easily accessible on foot from the stop."
+              }
+            },
+            {
+              "name": "Bus ride to the City Park",
+              "tip_5lang": {
+                "de": "Trockener Transport zwischen den Vierteln.",
+                "hu": "Száraz közlekedés a városnegyedek között.",
+                "ro": "Transport uscat între cartiere.",
+                "en": "Dry transport between different districts."
+              }
+            },
+            {
+              "name": "De Warande & City Park",
+              "tip_5lang": {
+                "de": "Haltestelle direkt am Kulturzentrum.",
+                "hu": "A megálló közvetlenül a kulturális központnál van.",
+                "ro": "Stație situată chiar lângă centrul cultural.",
+                "en": "Bus stop located right by the cultural center."
+              }
+            },
+            {
+              "name": "Castle of the Dukes of Brabant",
+              "tip_5lang": {
+                "de": "Abendliche Rückfahrt alle 30 Minuten.",
+                "hu": "Esti visszajáratok 30 percenként.",
+                "ro": "Curse de întoarcere seara la fiecare 30 de minute.",
+                "en": "Evening return trips every 30 minutes."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die 'De Lijn' App für Echtzeit-Abfahrten.",
+              "In den Bussen ist es meist warm und trocken.",
+              "Vermeiden Sie das Einsteigen mit komplett nassen Schirmen.",
+              "Die Hauptlinien fahren auch bei starkem Regen zuverlässig."
+            ],
+            "hu": [
+              "Használja a 'De Lijn' appot a valós idejű indulásokhoz.",
+              "A buszokon általában meleg és száraz az idő.",
+              "Lehetőleg ne szálljon fel teljesen vizes, nyitott esernyővel.",
+              "A fővonalak erős esőben is megbízhatóan közlekednek."
+            ],
+            "ro": [
+              "Folosiți aplicația 'De Lijn' pentru plecări în timp real.",
+              "În autobuze este de obicei cald și uscat.",
+              "Evitați urcarea cu umbrela complet udă și deschisă.",
+              "Liniile principale circulă constant chiar și pe ploaie torențială."
+            ],
+            "en": [
+              "Use the 'De Lijn' app for real-time bus departures.",
+              "Buses are usually warm and dry inside.",
+              "Try not to board with a fully open, dripping umbrella.",
+              "Main bus lines run reliably even during heavy rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wartezeit am Grote Markt ist kurz, aber die Winterluft ist spürbar. Der Bus bringt uns zügig zum Beguinage.\n\nMittags genießen wir den Komfort der geheizten Busse. Der Wechsel zwischen kalten Plätzen und warmen Verkehrsmitteln ist angenehm.\n\nDer Stadtpark im Winterlicht ist ein friedlicher Ort. Die Rückfahrt führt uns an den beleuchteten Straßen Turnhouts vorbei.\n\nDer Abend am Schloss ist stimmungsvoll. Die beleuchteten Fenster der Busse versprechen eine warme Heimreise zum Hauptplatz.",
+            "hu": "A várakozási idő a Grote Markton rövid, de a téli levegő harapós. A busz gyorsan elvisz minket a Beguinage-hoz.\n\nDélben élvezzük a fűtött buszok kényelmét. A hideg terek és a meleg járművek közötti váltás kellemes.\n\nA városi park a téli fényekben békés hely. A visszautazás Turnhout kivilágított utcái mentén vezet.\n\nAz este a kastélynál hangulatos. A buszok kivilágított ablakai meleg hazautat ígérnek a főtér felé.",
+            "ro": "Timpul de așteptare în Grote Markt este scurt, dar aerul de iarnă este tăios. Autobuzul ne duce rapid spre Beguinage.\n\nLa prânz ne bucurăm de confortul autobuzelor încălzite. Alternanța între spațiile reci și vehiculele calde este plăcută.\n\nParcul orașului în lumina iernii este un loc liniștit. Cursa de întoarcere ne poartă pe lângă străzile iluminate ale orașului.\n\nSeara la castel este plină de atmosferă. Ferestrele luminate ale autobuzelor promit o călătorie caldă spre piața principală.",
+            "en": "The wait at Grote Markt is short, but the winter air is crisp. The bus whisk us away to the Beguinage quickly.\n\nAt noon, we enjoy the comfort of heated buses. Switching between the cold outdoors and warm transit is pleasant.\n\nThe City Park in winter light is a peaceful spot. The ride back takes us past the brightly lit streets of Turnhout.\n\nEvening at the Castle is atmospheric. The glowing windows of the buses promise a warm journey back to the main square."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Grote Markt",
+              "tip_5lang": {
+                "de": "Halten Sie sich im Windschatten des Wartehäuschens auf.",
+                "hu": "Várjon a megálló szélvédett részén.",
+                "ro": "Stați în zona ferită de vânt a stației.",
+                "en": "Stay in the wind-sheltered part of the bus stop."
+              }
+            },
+            {
+              "name": "Grote Markt & St. Peter's Church",
+              "tip_5lang": {
+                "de": "Die Kirche bietet eine stille, kühle Pause.",
+                "hu": "A templom csendes, hűvös pihenőt nyújt.",
+                "ro": "Biserica oferă un moment de liniște răcoroasă.",
+                "en": "The church provides a quiet, cool break."
+              }
+            },
+            {
+              "name": "Beguinage & Museums",
+              "tip_5lang": {
+                "de": "Aufwärmen in der Museumscafeteria möglich.",
+                "hu": "Felmelegedési lehetőség a múzeumi kávézóban.",
+                "ro": "Posibilitate de încălzire în cafeneaua muzeului.",
+                "en": "Possibility to warm up in the museum cafeteria."
+              }
+            },
+            {
+              "name": "Bus ride to the City Park",
+              "tip_5lang": {
+                "de": "Fensterplatz für den Blick auf die Weihnachtsdeko.",
+                "hu": "Ablak melletti hely a karácsonyi díszek nézéséhez.",
+                "ro": "Loc la geam pentru a vedea decorațiunile de Crăciun.",
+                "en": "Window seat recommended for seeing the holiday decor."
+              }
+            },
+            {
+              "name": "De Warande & City Park",
+              "tip_5lang": {
+                "de": "Das Kulturzentrum ist im Winter ein beliebter Treffpunkt.",
+                "hu": "A kulturális központ télen népszerű találkozóhely.",
+                "ro": "Centrul cultural este un punct de întâlnire popular iarna.",
+                "en": "The cultural center is a popular meeting point in winter."
+              }
+            },
+            {
+              "name": "Castle of the Dukes of Brabant",
+              "tip_5lang": {
+                "de": "Die letzte Fahrt zurück erfolgt pünktlich.",
+                "hu": "Az utolsó járat visszafelé pontosan indul.",
+                "ro": "Ultima cursă spre casă pleacă la timp.",
+                "en": "The final return bus departs punctually."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrkarten können kontaktlos im Bus bezahlt werden.",
+              "Die Busse sind gut klimatisiert und im Winter geheizt.",
+              "Achten Sie auf geänderte Fahrpläne während der Feiertage.",
+              "Die Haltestellenanzeigen informieren über Verspätungen."
+            ],
+            "hu": [
+              "A jegyek érintésmentesen is fizethetők a buszon.",
+              "A buszok jól klimatizáltak és télen fűtöttek.",
+              "Ügyeljen az ünnepek alatti módosított menetrendre.",
+              "A megállók kijelzői tájékoztatnak az esetleges késésekről."
+            ],
+            "ro": [
+              "Biletele pot fi plătite contactless în autobuz.",
+              "Autobuzele sunt bine climatizate și încălzite iarna.",
+              "Atenție la orarul modificat în timpul sărbătorilor.",
+              "Afisajele din stații informează despre eventuale întârzieri."
+            ],
+            "en": [
+              "Tickets can be paid for contactlessly on the bus.",
+              "Buses are well-ventilated and heated in winter.",
+              "Check for adjusted schedules during the holiday season.",
+              "Bus stop displays provide info on any delays."
+            ]
+          }
+        }
       }
     }
   }

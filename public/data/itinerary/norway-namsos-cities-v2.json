@@ -300,6 +300,188 @@
           "Check museum opening times in advance as they can vary seasonally.",
           "A reusable water bottle is handy to stay hydrated."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren regnerischen Tag am Hafen von Namsos, wo der Nebel mystisch über dem Fjord hängt. Das Maritime Museum bietet frühen Schutz vor den Schauern. Mittags führt der Weg zur Kirche und zum Namdal Museum, dessen historische Gebäude im Regen eine ganz eigene Atmosphäre versprühen. Den Nachmittag verbringen Sie trocken im Rock City, bevor Sie den Tag im Oasen-Schwimmbad ausklingen lassen.",
+            "hu": "Kezdje az esős napot a namsosi kikötőben, ahol a köd misztikusan üli meg a fjordot. A Tengerészeti Múzeum korai menedéket nyújt a záporok elől. Délben az út a templomhoz és a Namdal Múzeumba vezet, melynek történelmi épületei az esőben sajátos hangulatot árasztanak. A délutánt töltse szárazon a Rock City-ben, majd zárja a napot az Oasen uszoda barlangi medencéiben.",
+            "ro": "Începeți ziua ploioasă în portul Namsos, unde ceața plutește mistic peste fjord. Muzeul Maritim oferă un adăpost matinal împotriva averselor. La prânz, drumul duce spre biserică și Muzeul Namdal, ale cărui clădiri istorice emană o atmosferă aparte în ploaie. Petreceți după-amiaza la adăpost în Rock City, apoi încheiați ziua în bazinele interioare de la Oasen.",
+            "en": "Start your rainy day at Namsos Harbour, where mist hangs mystically over the fjord. The Maritime Museum provides early shelter from the showers. At noon, head to the church and Namdal Museum, where historic buildings take on a unique atmosphere in the rain. Spend a dry afternoon at Rock City, then conclude your day in the warm mountain cave pools of Oasen."
+          },
+          "stops": [
+            {
+              "name": "Namsos Harbour",
+              "tip_5lang": {
+                "de": "Windgeschützte Stellen am Terminal suchen.",
+                "hu": "Keressen szélvédett helyet a terminálnál.",
+                "ro": "Căutați locuri ferite de vânt la terminal.",
+                "en": "Look for wind-sheltered spots at the terminal."
+              }
+            },
+            {
+              "name": "Maritime Museum",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um den ersten Regenguss abzuwarten.",
+                "hu": "Tökéletes hely az első zápor kivárására.",
+                "ro": "Locul perfect pentru a aștepta trecerea primei averse.",
+                "en": "Perfect place to wait out the first downpour."
+              }
+            },
+            {
+              "name": "Namsos Church",
+              "tip_5lang": {
+                "de": "Kurze, trockene Pause in der modernen Kirche.",
+                "hu": "Rövid, száraz pihenő a modern templomban.",
+                "ro": "Scurtă pauză uscată în biserica modernă.",
+                "en": "Short, dry break inside the modern church."
+              }
+            },
+            {
+              "name": "Namdal Museum",
+              "tip_5lang": {
+                "de": "Einige Gebäude sind begehbar und bieten Schutz.",
+                "hu": "Néhány épület bejárható és menedéket nyújt.",
+                "ro": "Unele clădiri pot fi vizitate și oferă adăpost.",
+                "en": "Some buildings are accessible and offer shelter."
+              }
+            },
+            {
+              "name": "Rock City",
+              "tip_5lang": {
+                "de": "Interaktive Ausstellungen sind ideal für Regenwetter.",
+                "hu": "Az interaktív kiállítások ideálisak esőben.",
+                "ro": "Expozițiile interactive sunt ideale pentru vreme ploioasă.",
+                "en": "Interactive exhibits are ideal for rainy weather."
+              }
+            },
+            {
+              "name": "Oasen Swimming Pool",
+              "tip_5lang": {
+                "de": "Das ultimative Ziel: Ein Pool im Berginneren.",
+                "hu": "A végső cél: egy uszoda a hegy gyomrában.",
+                "ro": "Destinația finală: o piscină în interiorul muntelui.",
+                "en": "The ultimate destination: a pool inside the mountain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da die Wege am Hafen nass sein können.",
+              "Das Oasen-Schwimmbad ist in den Fels gehauen und bietet perfekten Schutz.",
+              "Nutzen Sie die Museen als Etappenziele für trockene Pausen.",
+              "Ein stabiler Regenschirm ist wegen der Küstenwinde unerlässlich."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert a kikötői utak vizesek lehetnek.",
+              "Az Oasen uszoda a sziklába van vájva, tökéletes menedék.",
+              "Használja a múzeumokat szakaszos megállóként a száraz pihenőkhöz.",
+              "A parti szél miatt egy strapabíró esernyő elengedhetetlen."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, drumurile din port pot fi ude.",
+              "Piscina Oasen este săpată în stâncă, oferind adăpost perfect.",
+              "Folosiți muzeele ca puncte de oprire pentru pauze uscate.",
+              "O umbrelă rezistentă este esențială din cauza vântului de coastă."
+            ],
+            "en": [
+              "Wear waterproof shoes as the harbour paths can be very wet.",
+              "Oasen swimming pool is carved into the rock, providing perfect shelter.",
+              "Use the museums as strategic waypoints for dry breaks.",
+              "A sturdy umbrella is essential due to the coastal winds."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie das verschneite Namsos am Hafen, wo das Wasser dunkel gegen den Schnee kontrastiert. Vormittags bieten die Museen angenehme Wärme und Einblicke in die regionale Geschichte. Da die Sonne früh untergeht, besuchen Sie Rock City in der Dämmerung, wenn die Lichter der Stadt zu leuchten beginnen. Den kalten Winterabend krönen Sie mit einem Besuch im beheizten Oasen-Schwimmbad tief im Fels.",
+            "hu": "Ismerje meg a havas Namsost a kikötőnél, ahol a sötét víz kontrasztot alkot a fehér hóval. Délelőtt a múzeumok kellemes meleget és betekintést nyújtanak a régió történetébe. Mivel a nap korán nyugszik, látogasson el a Rock City-be szürkületkor, amikor kigyúlnak a város fényei. A hideg téli estét koronázza meg a fűtött Oasen uszodában a sziklák mélyén.",
+            "ro": "Experimentați Namsos-ul înzăpezit în port, unde apa întunecată contrastează cu zăpada albă. Dimineața, muzeele oferă căldură plăcută și perspective asupra istoriei regionale. Deoarece soarele apune devreme, vizitați Rock City la amurg, când luminile orașului încep să strălucească. Încheiați seara rece de iarnă cu o vizită la piscina încălzită Oasen din interiorul stâncii.",
+            "en": "Experience snowy Namsos at the harbour, where dark waters contrast sharply with the white snow. In the morning, museums offer cozy warmth and insights into regional history. Since the sun sets early, visit Rock City at twilight as the town lights begin to glow. Crown your cold winter evening with a visit to the heated Oasen pool deep inside the rock."
+          },
+          "stops": [
+            {
+              "name": "Namsos Harbour",
+              "tip_5lang": {
+                "de": "Vorsicht vor glatten Stellen an den Kaianlagen.",
+                "hu": "Vigyázzon a csúszós szakaszokra a rakparton.",
+                "ro": "Atenție la porțiunile alunecoase de pe chei.",
+                "en": "Watch out for icy patches on the quay."
+              }
+            },
+            {
+              "name": "Maritime Museum",
+              "tip_5lang": {
+                "de": "Ein warmer Zufluchtsort mit Blick auf den Fjord.",
+                "hu": "Meleg menedék kilátással a fjordra.",
+                "ro": "Un refugiu călduros cu vedere la fjord.",
+                "en": "A warm sanctuary with views of the fjord."
+              }
+            },
+            {
+              "name": "Namsos Church",
+              "tip_5lang": {
+                "de": "Die Architektur wirkt im Schnee besonders markant.",
+                "hu": "Az építészet a hóban különösen karakteres.",
+                "ro": "Arhitectura pare deosebit de marcantă în zăpadă.",
+                "en": "The architecture looks particularly striking in the snow."
+              }
+            },
+            {
+              "name": "Namdal Museum",
+              "tip_5lang": {
+                "de": "Festes Schuhwerk für den verschneiten Rundgang nötig.",
+                "hu": "Bakancs szükséges a havas körúthoz.",
+                "ro": "Încălțăminte solidă necesară pentru turul înzăpezit.",
+                "en": "Sturdy boots needed for the snowy outdoor loop."
+              }
+            },
+            {
+              "name": "Rock City",
+              "tip_5lang": {
+                "de": "Gemütliche Atmosphäre, während es draußen dunkelt.",
+                "hu": "Hangulatos légkör, miközben kint sötétedik.",
+                "ro": "Atmosferă primitoare în timp ce afară se întunecă.",
+                "en": "Cozy atmosphere while it gets dark outside."
+              }
+            },
+            {
+              "name": "Oasen Swimming Pool",
+              "tip_5lang": {
+                "de": "Heißes Wasser im Berg ist der perfekte Winterabschluss.",
+                "hu": "A forró víz a hegyben a tökéletes téli zárás.",
+                "ro": "Apa fierbinte din munte este finalul perfect de iarnă.",
+                "en": "Hot water inside the mountain is the perfect winter finish."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Winter bereits gegen 15:00 Uhr unter.",
+              "Nutzen Sie Schuhspikes (Brodder) für die Gehwege.",
+              "Zwiebelprinzip bei der Kleidung ist für den Wechsel drinnen/draußen ideal.",
+              "Das Oasen-Schwimmbad ist im Winter besonders gut besucht."
+            ],
+            "hu": [
+              "A nap télen már 15:00 körül lenyugszik.",
+              "Használjon cipőre húzható csúszásgátlót a járdákon.",
+              "A réteges öltözködés ideális a kinti/benti hőmérsékletváltáshoz.",
+              "Az Oasen uszoda télen különösen népszerű."
+            ],
+            "ro": [
+              "Soarele apune deja în jurul orei 15:00 iarna.",
+              "Folosiți crampoane pentru încălțăminte pe trotuare.",
+              "Îmbrăcămintea în straturi este ideală pentru schimbările interior/exterior.",
+              "Piscina Oasen este deosebit de aglomerată în timpul iernii."
+            ],
+            "en": [
+              "The sun sets as early as 3:00 PM in winter.",
+              "Use ice spikes (brodder) for the sidewalks.",
+              "Layering your clothes is ideal for moving between indoors and outdoors.",
+              "The Oasen swimming pool is particularly popular in winter."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -617,6 +799,206 @@
           "Lock your bike securely at the main attractions.",
           "Bring snacks and water, especially for the ride to Bjørumsklumpen."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine nasse Radtour durch Namsos beginnt bei den Fredriksberg-Ruinen, wo der Regen die Steine dunkelt. Am Hafen ist Vorsicht auf den rutschigen Holzplanken geboten. Mittags bieten die Kirche und die großen Museen wie das Namdal Museum und Rock City lange, trockene Aufenthalte für Kulturinteressierte. Die Fahrt zum Oasen-Schwimmbad wärmt die Muskeln auf, bevor Sie in das barlangi Erlebnis eintauchen, gefolgt von einer schnellen Fahrt zum Bjørumsklumpen.",
+            "hu": "Az esős biciklis túra a Fredriksberg romoknál indul, ahol az eső sötétre festi a köveket. A kikötőben vigyázzon a csúszós fapallókra. Délben a templom és a nagy múzeumok, mint a Namdal és a Rock City, hosszú, száraz megállókat kínálnak a kultúra kedvelőinek. A tekerés az Oasen uszodáig bemelegíti az izmokat a barlangi élmény előtt, majd egy gyors kitérő következik a Bjørumsklumpen felé.",
+            "ro": "O tură umedă cu bicicleta prin Namsos începe la ruinele Fredriksberg, unde ploaia întunecă pietrele. În port, atenție la scândurile de lemn alunecoase. La prânz, biserica și muzeele mari precum Namdal și Rock City oferă opriri lungi și uscate pentru iubitorii de cultură. Drumul spre piscina Oasen încălzește mușchii înainte de experiența în peșteră, urmat de o scurtă vizită la Bjørumsklumpen.",
+            "en": "A wet cycling tour through Namsos starts at the Fredriksberg ruins, where rain darkens the ancient stones. At the harbour, be careful on slippery wooden planks. By noon, the church and major museums like Namdal and Rock City offer long, dry intervals for culture seekers. The ride to Oasen pool warms up your muscles before diving into the cave experience, followed by a quick dash to Bjørumsklumpen."
+          },
+          "stops": [
+            {
+              "name": "Fredriksberg Ruins",
+              "tip_5lang": {
+                "de": "Rutschgefahr auf den Graspfaden bei den Ruinen.",
+                "hu": "Csúszásveszély a füves ösvényeken a romoknál.",
+                "ro": "Pericol de alunecare pe potecile cu iarbă la ruine.",
+                "en": "Slippery grass paths around the ruins."
+              }
+            },
+            {
+              "name": "Namsos Harbour",
+              "tip_5lang": {
+                "de": "Vorsicht beim Bremsen auf nassen Gleisen am Hafen.",
+                "hu": "Vigyázzon a fékezéssel a vizes síneken a kikötőnél.",
+                "ro": "Atenție la frânare pe șinele ude din port.",
+                "en": "Careful when braking on wet tracks at the harbour."
+              }
+            },
+            {
+              "name": "Namsos Church",
+              "tip_5lang": {
+                "de": "Fahrradständer in der Nähe des Eingangs vorhanden.",
+                "hu": "Kerékpártárolók a bejárat közelében találhatók.",
+                "ro": "Suporturi de biciclete disponibile lângă intrare.",
+                "en": "Bike racks available near the entrance."
+              }
+            },
+            {
+              "name": "Namdal Museum",
+              "tip_5lang": {
+                "de": "Parken Sie das Rad und genießen Sie die Innenräume.",
+                "hu": "Parkolja le a gépet és élvezze a belső tereket.",
+                "ro": "Parcați bicicleta și bucurați-vă de interioare.",
+                "en": "Park the bike and enjoy the indoor exhibits."
+              }
+            },
+            {
+              "name": "Rock City",
+              "tip_5lang": {
+                "de": "Sicherer Abstellplatz direkt vor dem Kulturzentrum.",
+                "hu": "Biztonságos tároló közvetlenül a központ előtt.",
+                "ro": "Loc sigur de parcare chiar în fața centrului.",
+                "en": "Secure parking right in front of the center."
+              }
+            },
+            {
+              "name": "Oasen Swimming Pool",
+              "tip_5lang": {
+                "de": "Handtuch bereithalten für die Fahrt nach dem Bad.",
+                "hu": "Legyen kéznél törölköző az úszás utáni úthoz.",
+                "ro": "Aveți prosopul la îndemână pentru drumul de după baie.",
+                "en": "Keep a towel ready for the ride after your swim."
+              }
+            },
+            {
+              "name": "Bjørumsklumpen",
+              "tip_5lang": {
+                "de": "Der Anstieg kann bei Regen schlammig sein.",
+                "hu": "Az emelkedő esőben sáros lehet.",
+                "ro": "Urcarea poate fi noroioasă pe ploaie.",
+                "en": "The climb can be muddy during rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Gute Schutzbleche sind bei den nassen Straßen in Namsos Pflicht.",
+              "Vermeiden Sie hastiges Bremsen auf Straßenmarkierungen.",
+              "Die Museen bieten meist Garderoben für nasse Regenjacken.",
+              "Wasserdichte Packtaschen schützen Ihre Kameraausrüstung."
+            ],
+            "hu": [
+              "A jó sárvédő kötelező Namsos vizes utcáin.",
+              "Kerülje a hirtelen fékezést az útburkolati jeleken.",
+              "A múzeumokban általában van ruhatár a vizes kabátoknak.",
+              "A vízálló táskák megvédik a felszerelését."
+            ],
+            "ro": [
+              "Apărătorile bune sunt obligatorii pe străzile ude din Namsos.",
+              "Evitați frânarea bruscă pe marcajele rutiere.",
+              "Muzeele oferă de obicei garderobe pentru gecile ude.",
+              "Genzile impermeabile vă protejează echipamentul."
+            ],
+            "en": [
+              "Good mudguards are mandatory on Namsos' wet streets.",
+              "Avoid sudden braking on road markings.",
+              "Museums usually have cloakrooms for wet raincoats.",
+              "Waterproof panniers will protect your gear."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Radtour in Namsos erfordert Ausdauer und gute Ausrüstung. Starten Sie bei den Fredriksberg-Ruinen in der klaren Morgenluft. Am Hafen weht oft eine steife Brise vom Fjord her. Mittags bieten die beheizten Räume des Namdal Museums und Rock City lebenswichtige Aufwärmpausen. Bevor es ganz dunkel wird, radeln Sie zum Oasen-Schwimmbad, um die Kälte aus den Knochen zu vertreiben, und wagen vielleicht den kurzen Aufstieg zum Bjørumsklumpen für die blaue Stunde.",
+            "hu": "A téli biciklis túra Namsosban kitartást és jó felszerelést igényel. Kezdjen a Fredriksberg romoknál a friss reggeli levegőn. A kikötőben gyakran fúj hideg szél a fjord felől. Délben a Namdal Múzeum és a Rock City fűtött termei létfontosságú felmelegedési lehetőséget nyújtanak. Mielőtt teljesen besötétedik, tekerjen az Oasen uszodához, hogy kiűzze a hideget a csontjaiból, és esetleg tegyen egy próbát a Bjørumsklumpen felé a kék órában.",
+            "ro": "O tură de iarnă cu bicicleta în Namsos necesită rezistență și echipament bun. Începeți la ruinele Fredriksberg în aerul proaspăt al dimineții. În port, deseori bate un vânt tăios dinspre fjord. La prânz, spațiile încălzite de la Muzeul Namdal și Rock City oferă pauze vitale de încălzire. Înainte de a se întuneca de tot, pedalați spre piscina Oasen pentru a alunga frigul, apoi încercați urcarea spre Bjørumsklumpen pentru ora albastră.",
+            "en": "A winter cycling tour in Namsos requires stamina and good gear. Start at the Fredriksberg ruins in the crisp morning air. At the harbour, a stiff breeze often blows from the fjord. Midday visits to the heated rooms of Namdal Museum and Rock City provide vital warm-up breaks. Before total darkness hits, cycle to the Oasen pool to shake off the cold, perhaps attempting the short climb to Bjørumsklumpen for the blue hour view."
+          },
+          "stops": [
+            {
+              "name": "Fredriksberg Ruins",
+              "tip_5lang": {
+                "de": "Spikereifen sind auf den gefrorenen Wegen notwendig.",
+                "hu": "Szöges gumi szükséges a fagyott utakon.",
+                "ro": "Anvelopele cu ținte sunt necesare pe drumurile înghețate.",
+                "en": "Studded tires are necessary on frozen paths."
+              }
+            },
+            {
+              "name": "Namsos Harbour",
+              "tip_5lang": {
+                "de": "Achtung vor dem beißenden Wind direkt am Wasser.",
+                "hu": "Vigyázzon a metsző széllel közvetlenül a víznél.",
+                "ro": "Atenție la vântul tăios direct lângă apă.",
+                "en": "Watch out for the biting wind right by the water."
+              }
+            },
+            {
+              "name": "Namsos Church",
+              "tip_5lang": {
+                "de": "Kurzer Stopp zum Aufwärmen im Vorraum möglich.",
+                "hu": "Rövid melegedő pihenő lehetséges az előtérben.",
+                "ro": "Scurtă oprire pentru încălzire posibilă în hol.",
+                "en": "Short warm-up stop possible in the vestibule."
+              }
+            },
+            {
+              "name": "Namdal Museum",
+              "tip_5lang": {
+                "de": "Das Gelände ist oft nur teilweise geräumt.",
+                "hu": "A területet gyakran csak részben takarítják le.",
+                "ro": "Terenul este deseori curățat doar parțial.",
+                "en": "The grounds are often only partially cleared of snow."
+              }
+            },
+            {
+              "name": "Rock City",
+              "tip_5lang": {
+                "de": "Heller Lichtblick an kurzen Wintertagen.",
+                "hu": "Világos fénypont a rövid téli napokon.",
+                "ro": "Un punct luminos în zilele scurte de iarnă.",
+                "en": "A bright beacon on short winter days."
+              }
+            },
+            {
+              "name": "Oasen Swimming Pool",
+              "tip_5lang": {
+                "de": "Perfekt, um die eingefrorenen Zehen aufzuwärmen.",
+                "hu": "Tökéletes az átfagyott lábujjak felmelegítésére.",
+                "ro": "Perfect pentru a încălzi degetele înghețate.",
+                "en": "Perfect for warming up frozen toes."
+              }
+            },
+            {
+              "name": "Bjørumsklumpen",
+              "tip_5lang": {
+                "de": "Beleuchtung für die Abfahrt im Dunkeln mitnehmen.",
+                "hu": "Vigyen világítást a sötétben való leguruláshoz.",
+                "ro": "Luați lumini pentru coborârea în întuneric.",
+                "en": "Take lights for the descent in the dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrradbeleuchtung ist wegen der Polarnacht-ähnlichen Bedingungen kritisch.",
+              "Schmieren Sie die Kette häufiger wegen des Streusalzes.",
+              "Thermoskanne mit heißem Tee ist ein Muss auf dieser Tour.",
+              "Achten Sie auf Schneepflüge auf den Hauptstraßen."
+            ],
+            "hu": [
+              "A kerékpár-világítás kritikus a sötétség miatt.",
+              "Gyakrabban kenje a láncot az útszóró só miatt.",
+              "Egy termosz forró teával kötelező ezen a túrán.",
+              "Figyeljen a hókotrókra a főutakon."
+            ],
+            "ro": [
+              "Iluminarea bicicletei este critică din cauza întunericului.",
+              "Ungeți lanțul mai des din cauza sării de pe drum.",
+              "Termosul cu ceai fierbinte este obligatoriu în acest tur.",
+              "Atenție la plugurile de zăpadă pe drumurile principale."
+            ],
+            "en": [
+              "Bike lights are critical due to the near-constant darkness.",
+              "Lube your chain more frequently because of road salt.",
+              "A thermos with hot tea is a must on this tour.",
+              "Watch out for snow plows on the main roads."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -886,6 +1268,224 @@
           "Plan enough time for traffic between clusters.",
           "A car gives you the flexibility to stay dry even in bad weather."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Genießen Sie Namsos bequem vom Auto aus, während der Regen gegen die Scheiben prasselt. Beginnen Sie am Hafen und parken Sie direkt am Wasser für den Blick auf den grauen Fjord. Das Maritime Museum und Rock City sind dank nahegelegener Parkplätze trockenen Fußes erreichbar. Mittags führt die Fahrt zum Namdal Museum, wo Sie zwischen den Innenräumen pendeln. Zum Abschluss genießen Sie die Aussicht vom Bjørumsklumpen, bevor Sie bei den Fredriksberg-Ruinen den Tag ausklingen lassen.",
+            "hu": "Élvezze Namsost kényelmesen az autóból, miközben az eső veri a szélvédőt. Kezdjen a kikötőnél, és parkoljon közvetlenül a víznél a szürke fjord látványáért. A Tengerészeti Múzeum és a Rock City a közeli parkolók révén száraz lábbal elérhető. Délben irány a Namdal Múzeum, ahol a belső terek között ingázhat. Zárásként élvezze a kilátást a Bjørumsklumpenről, mielőtt a Fredriksberg romoknál fejezné be a napot.",
+            "ro": "Bucurați-vă de Namsos din confortul mașinii în timp ce ploaia bate în parbriz. Începeți în port și parcați direct lângă apă pentru vederea spre fjordul gri. Muzeul Maritim și Rock City sunt accesibile cu picioarele uscate datorită parcărilor apropiate. La prânz, mergeți la Muzeul Namdal, unde puteți naviga între spațiile interioare. La final, admirați priveliștea de pe Bjørumsklumpen înainte de a termina ziua la ruinele Fredriksberg.",
+            "en": "Enjoy Namsos comfortably from your car as rain lashes against the windows. Start at the harbour and park right by the water for a view of the grey fjord. The Maritime Museum and Rock City are reachable with dry feet thanks to nearby parking. At noon, drive to Namdal Museum, where you can hop between indoor exhibits. Conclude with a view from Bjørumsklumpen before finishing the day at Fredriksberg ruins."
+          },
+          "stops": [
+            {
+              "name": "Cluster Parking: Harbour",
+              "tip_5lang": {
+                "de": "Überdachte Parkplätze am Terminal nutzen.",
+                "hu": "Használja a fedett parkolót a terminálnál.",
+                "ro": "Folosiți parcările acoperite de la terminal.",
+                "en": "Use covered parking spots at the terminal."
+              }
+            },
+            {
+              "name": "Namsos Harbour",
+              "tip_5lang": {
+                "de": "Blick auf den Fjord direkt vom Fahrersitz aus.",
+                "hu": "Kilátás a fjordra közvetlenül a vezetőülésből.",
+                "ro": "Vedere spre fjord direct de la locul șoferului.",
+                "en": "View of the fjord directly from the driver's seat."
+              }
+            },
+            {
+              "name": "Maritime Museum",
+              "tip_5lang": {
+                "de": "Kurzer Sprint vom Parkplatz zum Eingang.",
+                "hu": "Rövid sprint a parkolótól a bejáratig.",
+                "ro": "Sprint scurt de la parcare la intrare.",
+                "en": "Short dash from the parking lot to the entrance."
+              }
+            },
+            {
+              "name": "Cluster Parking: Museum Hill",
+              "tip_5lang": {
+                "de": "Zentraler Punkt für Namdal Museum und Rock City.",
+                "hu": "Központi pont a Namdal Múzeumhoz és a Rock City-hez.",
+                "ro": "Punct central pentru Muzeul Namdal și Rock City.",
+                "en": "Central spot for Namdal Museum and Rock City."
+              }
+            },
+            {
+              "name": "Namdal Museum",
+              "tip_5lang": {
+                "de": "Parkplatz direkt am Haupteingang suchen.",
+                "hu": "Keressen parkolót közvetlenül a főbejáratnál.",
+                "ro": "Căutați parcare chiar la intrarea principală.",
+                "en": "Look for parking right by the main entrance."
+              }
+            },
+            {
+              "name": "Rock City",
+              "tip_5lang": {
+                "de": "Parken Sie nah, um den Regen zu vermeiden.",
+                "hu": "Parkoljon közel, hogy elkerülje az esőt.",
+                "ro": "Parcați aproape pentru a evita ploaia.",
+                "en": "Park close to avoid the rain."
+              }
+            },
+            {
+              "name": "Bjørumsklumpen",
+              "tip_5lang": {
+                "de": "Die Straße zum Aussichtspunkt kann rutschig sein.",
+                "hu": "A kilátóhoz vezető út csúszós lehet.",
+                "ro": "Drumul spre punctul de belvedere poate fi alunecos.",
+                "en": "The road to the viewpoint can be slippery."
+              }
+            },
+            {
+              "name": "Fredriksberg Ruins",
+              "tip_5lang": {
+                "de": "Vom Auto aus sind die Ruinen gut beleuchtet.",
+                "hu": "Az autóból nézve a romok jól megvilágítottak.",
+                "ro": "Ruinele sunt bine iluminate, vizibile din mașină.",
+                "en": "The ruins are well-lit and visible from the car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Halten Sie die Fenster sauber, um Beschlagen bei Regen zu vermeiden.",
+              "Parkplätze sind in Namsos bei Regenwetter oft schnell belegt.",
+              "Die Fahrt zum Bjørumsklumpen bietet die beste Aussicht bei minimalem Nass.",
+              "Nutzen Sie Sitzheizung für zusätzlichen Komfort."
+            ],
+            "hu": [
+              "Tartsa tisztán az ablakokat, hogy elkerülje a párásodást.",
+              "Namsosban a parkolók esőben hamar megtelnek.",
+              "A Bjørumsklumpenhez vezető út nyújtja a legjobb kilátást ázás nélkül.",
+              "Használja az ülésfűtést az extra kényelemért."
+            ],
+            "ro": [
+              "Păstrați geamurile curate pentru a evita aburirea pe ploaie.",
+              "Parcările din Namsos se ocupă rapid pe vreme ploioasă.",
+              "Drumul spre Bjørumsklumpen oferă cea mai bună vedere fără udare.",
+              "Folosiți încălzirea în scaune pentru confort sporit."
+            ],
+            "en": [
+              "Keep the windows clean to avoid fogging during rain.",
+              "Parking lots in Namsos fill up quickly on rainy days.",
+              "The drive to Bjørumsklumpen offers the best view with minimal exposure.",
+              "Use seat heating for extra comfort."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Namsos im Winter mit dem Auto zu erkunden ist die sicherste und wärmste Option. Beginnen Sie am Hafen, wo Sie das maritime Treiben im Warmen beobachten können. Die Museen am Museumshügel bieten großartige Stopps für den Vormittag. Da die Straßen steil und verschneit sein können, ist die Fahrt zum Bjørumsklumpen im Winter ein kleines Abenteuer mit belohnendem Ausblick über die verschneite Stadt. Beenden Sie die Tour bei den beleuchteten Fredriksberg-Ruinen.",
+            "hu": "Namsos téli felfedezése autóval a legbiztonságosabb és legmelegebb opció. Kezdjen a kikötőnél, ahol a melegből figyelheti a tengeri nyüzsgést. A múzeumdomb kiállításai remek délelőtti megállók. Mivel az utak meredekek és havasak lehetnek, a Bjørumsklumpenhez vezető út télen igazi kaland, jutalmul a havas város látványával. Fejezze be a túrát a kivilágított Fredriksberg romoknál.",
+            "ro": "Explorarea Namsos-ului iarna cu mașina este cea mai sigură și călduroasă opțiune. Începeți în port, unde puteți urmări activitatea maritimă de la căldură. Muzeele de pe deal oferă opriri excelente pentru dimineață. Deoarece drumurile pot fi abrupte și înzăpezite, drumul spre Bjørumsklumpen este o mică aventură cu o vedere răsplătită asupra orașului. Încheiați turul la ruinele Fredriksberg iluminate.",
+            "en": "Exploring Namsos in winter by car is the safest and warmest option. Start at the harbour, watching maritime life from the comfort of your vehicle. The museums on the hill offer great morning stops. Since roads can be steep and snowy, the drive to Bjørumsklumpen is a winter adventure with a rewarding view over the snowy town. Finish your tour at the illuminated Fredriksberg ruins."
+          },
+          "stops": [
+            {
+              "name": "Cluster Parking: Harbour",
+              "tip_5lang": {
+                "de": "Achten Sie auf Schneehaufen beim Parken.",
+                "hu": "Vigyázzon a hóbuckákra parkoláskor.",
+                "ro": "Atenție la mormanele de zăpadă la parcare.",
+                "en": "Watch out for snow piles when parking."
+              }
+            },
+            {
+              "name": "Namsos Harbour",
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor nicht unnötig im Stand laufen.",
+                "hu": "Ne járassa feleslegesen a motort álló helyzetben.",
+                "ro": "Nu lăsați motorul pornit inutil în staționare.",
+                "en": "Don't leave the engine idling unnecessarily."
+              }
+            },
+            {
+              "name": "Maritime Museum",
+              "tip_5lang": {
+                "de": "Guter Parkplatz oft direkt gegenüber verfügbar.",
+                "hu": "Jó parkolóhely gyakran közvetlenül szemben elérhető.",
+                "ro": "Loc de parcare bun disponibil deseori chiar vizavi.",
+                "en": "Good parking often available directly opposite."
+              }
+            },
+            {
+              "name": "Cluster Parking: Museum Hill",
+              "tip_5lang": {
+                "de": "Steile Anfahrt, Winterreifen sind Pflicht.",
+                "hu": "Meredek felhajtó, téli gumi kötelező.",
+                "ro": "Urcare abruptă, anvelopele de iarnă sunt obligatorii.",
+                "en": "Steep approach, winter tires are mandatory."
+              }
+            },
+            {
+              "name": "Namdal Museum",
+              "tip_5lang": {
+                "de": "Der Parkplatz wird regelmäßig geräumt.",
+                "hu": "A parkolót rendszeresen takarítják.",
+                "ro": "Parcarea este curățată în mod regulat.",
+                "en": "The parking lot is cleared of snow regularly."
+              }
+            },
+            {
+              "name": "Rock City",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen Auto und Kultur.",
+                "hu": "Rövid távolság az autó és a kultúra között.",
+                "ro": "Distanțe scurte între mașină și cultură.",
+                "en": "Short distances between car and culture."
+              }
+            },
+            {
+              "name": "Bjørumsklumpen",
+              "tip_5lang": {
+                "de": "Allradantrieb bei starkem Schneefall empfohlen.",
+                "hu": "Összkerékhajtás ajánlott erős havazáskor.",
+                "ro": "Tracțiune integrală recomandată în caz de ninsori abundente.",
+                "en": "4WD recommended during heavy snowfall."
+              }
+            },
+            {
+              "name": "Fredriksberg Ruins",
+              "tip_5lang": {
+                "de": "Abends ist der Parkplatz hier oft sehr ruhig.",
+                "hu": "Este a parkoló itt gyakran nagyon csendes.",
+                "ro": "Seara, parcarea de aici este deseori foarte liniștită.",
+                "en": "The parking lot here is often very quiet in the evening."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Führen Sie eine Eiskratzer und Schneebesen im Auto mit.",
+              "Prüfen Sie den Reifendruck, da er bei Kälte sinkt.",
+              "Behalten Sie den Tank für Notfälle mindestens halbvoll.",
+              "Die Bergstraßen in Namsos können extrem glatt sein."
+            ],
+            "hu": [
+              "Tartson jégkaparót és hókefét az autóban.",
+              "Ellenőrizze a guminyomást, mert hidegben csökken.",
+              "Vészhelyzet esetére tartsa a tankot legalább félig.",
+              "Namsos hegyi útjai rendkívül csúszósak lehetnek."
+            ],
+            "ro": [
+              "Aveți mereu o racletă și o perie de zăpadă în mașină.",
+              "Verificați presiunea în pneuri, aceasta scade la frig.",
+              "Păstrați rezervorul cel puțin pe jumătate plin pentru urgențe.",
+              "Drumurile montane din Namsos pot fi extrem de alunecoase."
+            ],
+            "en": [
+              "Keep an ice scraper and snow brush in the car.",
+              "Check tire pressure as it drops in cold weather.",
+              "Keep the fuel tank at least half full for emergencies.",
+              "Mountain roads in Namsos can be extremely slippery."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1137,6 +1737,206 @@
           "A day pass might be cheaper than single tickets.",
           "Be aware that buses may run less frequently on weekends."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie das gut ausgebaute Busnetz von Namsos, um bei Regen trocken zu bleiben. Vom Hafen-Cluster aus erreichen Sie schnell die Kirche und die Museen. Die Busse bieten Schutz während der Fahrt zwischen dem Stadtzentrum und dem Museumshügel. Mittags verbringen Sie viel Zeit in den Innenräumen des Namdal Museums und Rock City. Der krönende Abschluss ist die Fahrt zum Oasen-Schwimmbad, wo Sie den Regen komplett vergessen können.",
+            "hu": "Használja Namsos jól kiépített buszhálózatát, hogy száraz maradjon az esőben. A kikötői csomóponttól gyorsan elérheti a templomot és a múzeumokat. A buszok menedéket nyújtanak a városközpont és a múzeumdomb közötti út során. Délben töltsön több időt a Namdal Múzeum és a Rock City belső tereiben. A tökéletes zárás a buszos út az Oasen uszodához, ahol teljesen elfelejtheti az esőt.",
+            "ro": "Folosiți rețeaua bine pusă la punct de autobuze din Namsos pentru a rămâne uscați. Din nodul portuar ajungeți rapid la biserică și muzee. Autobuzele oferă adăpost în timpul drumului între centru și dealul muzeelor. La prânz, petreceți timp în interior la Muzeul Namdal și Rock City. Finalul perfect este drumul cu autobuzul spre piscina Oasen, unde puteți uita complet de ploaie.",
+            "en": "Utilize Namsos' efficient bus network to stay dry during the rain. From the harbour cluster, you can quickly reach the church and museums. Buses provide shelter while traveling between the city center and the museum hill. Spend your midday in the indoor sections of Namdal Museum and Rock City. The highlight is the bus ride to Oasen pool, where you can completely forget about the rain."
+          },
+          "stops": [
+            {
+              "name": "Cluster: Harbour/Centre",
+              "tip_5lang": {
+                "de": "Warten Sie im überdachten Wartebereich.",
+                "hu": "Várjon a fedett váróban.",
+                "ro": "Așteptați în zona de așteptare acoperită.",
+                "en": "Wait in the sheltered waiting area."
+              }
+            },
+            {
+              "name": "Namsos Harbour",
+              "tip_5lang": {
+                "de": "Kurze Wege zur nächsten Haltestelle.",
+                "hu": "Rövid séta a legközelebbi megállóig.",
+                "ro": "Distanțe scurte până la cea mai apropiată stație.",
+                "en": "Short distances to the nearest bus stop."
+              }
+            },
+            {
+              "name": "Namsos Church",
+              "tip_5lang": {
+                "de": "Zentrale Haltestelle direkt vor der Tür.",
+                "hu": "Központi megálló közvetlenül az ajtó előtt.",
+                "ro": "Stație centrală chiar în fața ușii.",
+                "en": "Central bus stop right in front of the door."
+              }
+            },
+            {
+              "name": "Cluster: Museum Hill",
+              "tip_5lang": {
+                "de": "Wichtiger Umstiegspunkt, oft windig.",
+                "hu": "Fontos átszállási pont, gyakran szeles.",
+                "ro": "Punct important de transfer, deseori vântos.",
+                "en": "Important transfer point, often windy."
+              }
+            },
+            {
+              "name": "Namdal Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die App für Echtzeit-Abfahrten.",
+                "hu": "Használja az appot a valós idejű indulásokhoz.",
+                "ro": "Folosiți aplicația pentru plecări în timp real.",
+                "en": "Use the app for real-time departure info."
+              }
+            },
+            {
+              "name": "Rock City",
+              "tip_5lang": {
+                "de": "Helle Haltestelle mit guter Beleuchtung.",
+                "hu": "Világos megálló jó megvilágítással.",
+                "ro": "Stație luminoasă cu iluminare bună.",
+                "en": "Bright bus stop with good lighting."
+              }
+            },
+            {
+              "name": "Oasen Swimming Pool",
+              "tip_5lang": {
+                "de": "Die Endstation bringt Sie direkt zum Eingang.",
+                "hu": "A végállomás közvetlenül a bejárathoz visz.",
+                "ro": "Capătul de linie vă lasă chiar la intrare.",
+                "en": "The terminus drops you right at the entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie Tickets vorab über die AtB-App.",
+              "Die Busse sind im Herbst und Winter gut beheizt.",
+              "Die Haltestellen am Hafen bieten den besten Wetterschutz.",
+              "Achten Sie auf eventuelle Fahrplanänderungen bei Starkregen."
+            ],
+            "hu": [
+              "Vásároljon jegyet előre az AtB alkalmazáson keresztül.",
+              "A buszok ősszel és télen jól fűtöttek.",
+              "A kikötői megállók nyújtják a legjobb védelmet az időjárás ellen.",
+              "Figyeljen az esetleges menetrendi változásokra heves esőzéskor."
+            ],
+            "ro": [
+              "Cumpărați bilete în avans prin aplicația AtB.",
+              "Autobuzele sunt bine încălzite toamna și iarna.",
+              "Stațiile din port oferă cea mai bună protecție contra vremii.",
+              "Atenție la eventualele modificări de program pe ploaie torențială."
+            ],
+            "en": [
+              "Buy tickets in advance via the AtB app.",
+              "Buses are well-heated during autumn and winter.",
+              "The harbour stops offer the best weather protection.",
+              "Check for schedule changes during heavy rainfall."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Winter in Namsos lässt sich am besten mit den warmen Bussen erkunden. Starten Sie am Hafen und nutzen Sie die kurzen Umsteigezeiten im Stadtzentrum. Die Museen sind wichtige Wärmepunkte auf Ihrer Tour. Da es früh dunkel wird, sind die hell beleuchteten Busse ein sicherer Weg durch die verschneite Stadt. Beenden Sie den Tag im Oasen-Schwimmbad, das mit den Linienbussen bequem erreichbar ist, und genießen Sie die Wärme vor der Rückfahrt.",
+            "hu": "A namsosi telet a legjobb meleg buszokkal felfedezni. Kezdjen a kikötőnél, és használja ki a rövid átszállási időket a központban. A múzeumok fontos melegedőpontok a túra során. Mivel korán sötétedik, a jól kivilágított buszok biztonságos utat jelentenek a havas városban. Zárja a napot az Oasen uszodában, amely kényelmesen elérhető járatokkal, és élvezze a meleget a hazatérés előtt.",
+            "ro": "Iarna în Namsos este cel mai bine explorată cu autobuzele călduroase. Începeți în port și profitați de timpii scurți de transfer din centru. Muzeele sunt puncte importante de încălzire. Deoarece se întunecă devreme, autobuzele bine iluminate sunt o cale sigură prin orașul înzăpezit. Încheiați ziua la piscina Oasen, accesibilă ușor cu liniile de autobuz, și bucurați-vă de căldură înainte de plecare.",
+            "en": "Winter in Namsos is best explored using the cozy buses. Start at the harbour and take advantage of short transfer times in the city center. Museums serve as important warm-up points on your tour. As it gets dark early, the brightly lit buses provide a safe way through the snowy town. Finish your day at the Oasen pool, easily reachable by bus, and soak in the warmth before heading back."
+          },
+          "stops": [
+            {
+              "name": "Cluster: Harbour/Centre",
+              "tip_5lang": {
+                "de": "Warme Kleidung für die Wartezeit nötig.",
+                "hu": "Meleg ruházat szükséges a várakozáshoz.",
+                "ro": "Îmbrăcăminte groasă necesară pentru așteptare.",
+                "en": "Warm clothing needed for the wait."
+              }
+            },
+            {
+              "name": "Namsos Harbour",
+              "tip_5lang": {
+                "de": "Eisige Winde am Ufer beachten.",
+                "hu": "Ügyeljen a jeges szélre a parton.",
+                "ro": "Atenție la vântul înghețat de pe mal.",
+                "en": "Beware of icy winds on the shore."
+              }
+            },
+            {
+              "name": "Namsos Church",
+              "tip_5lang": {
+                "de": "Häufige Verbindungen zum Museumshügel.",
+                "hu": "Gyakori járatok a múzeumdomb felé.",
+                "ro": "Legături frecvente spre dealul muzeelor.",
+                "en": "Frequent connections to the museum hill."
+              }
+            },
+            {
+              "name": "Cluster: Museum Hill",
+              "tip_5lang": {
+                "de": "Die Wege zwischen den Haltestellen sind geräumt.",
+                "hu": "A megállók közötti utakat letakarítják.",
+                "ro": "Drumurile dintre stații sunt curățate.",
+                "en": "Paths between stops are cleared of snow."
+              }
+            },
+            {
+              "name": "Namdal Museum",
+              "tip_5lang": {
+                "de": "Checken Sie die App für Winterverspätungen.",
+                "hu": "Ellenőrizze az appot a téli késések miatt.",
+                "ro": "Verificați aplicația pentru întârzieri de iarnă.",
+                "en": "Check the app for winter-related delays."
+              }
+            },
+            {
+              "name": "Rock City",
+              "tip_5lang": {
+                "de": "Sicherer Einstieg direkt am Kulturhaus.",
+                "hu": "Biztonságos felszállás közvetlenül a kultúrháznál.",
+                "ro": "Îmbarcare sigură chiar lângă casa de cultură.",
+                "en": "Safe boarding right by the culture house."
+              }
+            },
+            {
+              "name": "Oasen Swimming Pool",
+              "tip_5lang": {
+                "de": "Letzte Busse fahren meist pünktlich ab.",
+                "hu": "Az utolsó buszok általában pontosan indulnak.",
+                "ro": "Ultimele autobuze pleacă de obicei la timp.",
+                "en": "The last buses usually depart on time."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse sind oft der sicherste Weg bei extremem Glatteis.",
+              "Die Haltestellenanzeigen zeigen Echtzeitdaten an.",
+              "Tragen Sie Reflektoren, um an den Haltestellen gesehen zu werden.",
+              "Oasen ist bis abends gut angebunden."
+            ],
+            "hu": [
+              "A busz gyakran a legbiztonságosabb út tükörjégen.",
+              "A megállókiírások valós idejű adatokat mutatnak.",
+              "Viseljen fényvisszaverőt, hogy látszódjon a megállóban.",
+              "Az Oasen esti órákban is jól megközelíthető."
+            ],
+            "ro": [
+              "Autobuzul este deseori cea mai sigură cale pe polei.",
+              "Afișajele din stații arată date în timp real.",
+              "Purtați reflectorizante pentru a fi văzuți în stații.",
+              "Oasen este bine conectat până seara."
+            ],
+            "en": [
+              "Buses are often the safest way during extreme icing.",
+              "Stop displays show real-time arrival data.",
+              "Wear reflectors to be visible at bus stops.",
+              "Oasen is well-connected even in the evenings."
+            ]
+          }
+        }
       }
     }
   }

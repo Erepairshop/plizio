@@ -379,6 +379,206 @@
           "The walk to Abington Park is a longer one but well worth it. Alternatively, consider taking a bus.",
           "Book ahead for weekend dinners, especially at popular pubs."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag am Market Square, wo die Markisen der Stände ersten Schutz bieten. Das prachtvolle Guildhall ist ein idealer Rückzugsort bei Schauern, ebenso wie die All Saints' Church mit ihrer beeindruckenden Architektur.\n\nDer Mittag gehört dem Design: 78 Derngate bietet eine faszinierende Innenbesichtigung, während es draußen regnet. Die Mackintosh-Interieurs wirken bei gedämpftem Licht besonders stimmungsvoll.\n\nAm Nachmittag ist das Northampton Museum der perfekte Ort, um trocken zu bleiben und die berühmte Schuhsammlung zu bewundern. Ein kurzer Spaziergang zum Abington Park führt Sie direkt in das gemütliche Park-Café.\n\nDer Abend schließt im Stadtzentrum ab. Die kurzen Wege zwischen den Pubs und Restaurants minimieren die Zeit im Regen und sorgen für einen behaglichen Ausklang.",
+            "hu": "Kezdje a napot a Market Square fedett részei alatt, majd meneküljön az eső elől a Guildhall pazar belső tereibe. Az All Saints' Church szintén kiváló menedék, miközben megcsodálhatja a barokk részleteket.\n\nA délidő a dizájné: a 78 Derngate (Mackintosh-ház) belső vezetése tökéletes program, amikor odakint esik. A különleges belső terek ilyenkor még intimebb hangulatot árasztanak.\n\nDélután a Northampton Museum cipőtörténeti kiállítása tartja szárazon. Az Abington Park látogatását érdemes lerövidíteni, és inkább a park kávézójában élvezni a kilátást egy forró ital mellett.\n\nAz este a belvárosban ér véget. A szorosabban elhelyezkedő gasztro-helyek között gyorsan lehet mozogni, így az esernyőre is alig lesz szükség a vacsora után.",
+            "ro": "Începeți ziua la Market Square, profitând de zonele acoperite ale tarabelor. Guildhall și Biserica All Saints' oferă refugii arhitecturale superbe în caz de aversă.\n\nPrânzul este dedicat designului la 78 Derngate. Fiind o vizită interioară lungă, este ideală pentru a evita ploaia, admirând singura casă proiectată de Mackintosh în afara Scoției.\n\nDupă-amiaza, Muzeul din Northampton vă menține uscat în timp ce explorați istoria pantofilor. La Abington Park, îndreptați-vă rapid spre cafenea dacă ploaia se întețește.\n\nSeara se încheie în centrul orașului. Distanțele scurte între restaurante permit o tranziție rapidă, păstrându-vă confortul până la finalul turului.",
+            "en": "Start your morning at Market Square, using the stall awnings for cover. The Guildhall and All Saints' Church provide magnificent indoor retreats if a heavy shower hits.\n\nMidday is perfect for 78 Derngate. This indoor tour of Mackintosh's design is the ideal way to stay dry while soaking up world-class heritage and unique aesthetics.\n\nSpend your afternoon at the Northampton Museum, exploring the world's finest shoe collection far from the puddles. A quick dash through Abington Park leads to the safety of the park pavilion.\n\nYour evening concludes in the city centre. The close proximity of dining options ensures you won't be out in the wet for long before finding a cozy table."
+          },
+          "stops": [
+            {
+              "name": "Market Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Markisen der festen Marktstände als Regenschutz.",
+                "hu": "Használja a fix árusítóhelyek előtetőit eső elleni védelemként.",
+                "ro": "Folosiți copertinele tarabelor fixe ca adăpost împotriva ploii.",
+                "en": "Use the fixed market stall awnings as temporary rain shelters."
+              }
+            },
+            {
+              "name": "Northampton Guildhall",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Statuen an der Fassade schnell und gehen Sie dann hinein.",
+                "hu": "Gyorsan nézze meg a homlokzati szobrokat, majd menjen be a szárazra.",
+                "ro": "Admirați rapid statuile de pe fațadă, apoi intrați la adăpost.",
+                "en": "Admire the facade statues quickly, then head inside to stay dry."
+              }
+            },
+            {
+              "name": "All Saints' Church",
+              "tip_5lang": {
+                "de": "Der Portikus bietet Schutz, aber das Innere ist noch schöner und trocken.",
+                "hu": "Az oszlopcsarnok véd az esőtől, de a belső tér még szebb és száraz.",
+                "ro": "Porticul oferă protecție, dar interiorul este mult mai spectaculos.",
+                "en": "The portico offers shelter, but the interior is warm and dry."
+              }
+            },
+            {
+              "name": "78 Derngate",
+              "tip_5lang": {
+                "de": "Perfekt für Regentage, da die gesamte Tour im Haus stattfindet.",
+                "hu": "Tökéletes esős napra, mivel a teljes tárlatvezetés fedett helyen van.",
+                "ro": "Perfect pentru zile ploioase, vizita fiind în întregime la interior.",
+                "en": "Ideal for rainy days as the entire tour takes place indoors."
+              }
+            },
+            {
+              "name": "Northampton Museum & Art Gallery",
+              "tip_5lang": {
+                "de": "Lassen Sie Ihren nassen Schirm am Eingang im Ständer.",
+                "hu": "Hagyja a vizes esernyőt a bejáratnál lévő tartóban.",
+                "ro": "Lăsați umbrela udă în suportul de la intrare.",
+                "en": "Leave your wet umbrella in the stand at the entrance."
+              }
+            },
+            {
+              "name": "Abington Park",
+              "tip_5lang": {
+                "de": "Die großen Bäume bieten etwas Schutz, aber das Café ist sicherer.",
+                "hu": "A nagy fák adnak némi védelmet, de a kávézó a biztos menedék.",
+                "ro": "Copacii mari oferă ceva protecție, dar cafeneaua este refugiul sigur.",
+                "en": "Large trees offer some cover, but the cafe is the safest refuge."
+              }
+            },
+            {
+              "name": "Dinner in City Centre",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant in der Nähe der St. Giles Street.",
+                "hu": "Válasszon éttermet a St. Giles Street környékén a rövid séta miatt.",
+                "ro": "Alegeți un restaurant lângă St Giles Street pentru o plimbare scurtă.",
+                "en": "Pick a restaurant near St Giles Street to minimize walking in rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da sich auf dem Market Square Pfützen bilden können.",
+              "Die Museen und Kirchen sind hervorragende 'Puffer' für starke Schauer.",
+              "Nutzen Sie die Grosvenor Shopping Centre Passage als Abkürzung im Trockenen.",
+              "Ein Taschenschirm ist bei dem oft windigen Regen in Northampton praktischer."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert a Market Square-en könnyen összegyűlik a víz.",
+              "A múzeumok és templomok kiváló menekülőútvonalak felhőszakadás esetén.",
+              "Használja a Grosvenor Shopping Centre folyosóit száraz átjáróként.",
+              "Az összehajtható esernyő praktikusabb a szeles észak-angliai esőben."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, apa tinde să băltească în Market Square.",
+              "Muzeele și bisericile sunt locuri excelente de așteptat în timpul rafalelor.",
+              "Folosiți pasajele din Grosvenor Shopping Centre pentru a traversa la uscat.",
+              "O umbrelă rezistentă la vânt este esențială în zona Northampton."
+            ],
+            "en": [
+              "Wear waterproof shoes as puddles often form on the Market Square cobblestones.",
+              "Museums and churches are excellent buffer zones during heavy downpours.",
+              "Use the Grosvenor Shopping Centre as a dry shortcut across the town centre.",
+              "A compact umbrella is handy against the often windy local rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen am Market Square, wo oft ein kleiner Weihnachtsmarkt für Wärme sorgt. Das Guildhall glänzt im fahlen Winterlicht besonders majestätisch.\n\nMittags bietet die All Saints' Church eine friedliche, warme Zuflucht. Der anschließende Besuch von 78 Derngate ist ideal, um der Kälte draußen für längere Zeit zu entfliehen.\n\nDer Nachmittag wird kurz, da die Sonne gegen 16:00 Uhr untergeht. Das Museum ist gut beheizt und bietet eine wunderbare Pause, bevor Sie den Abington Park im Zwielicht besuchen.\n\nDer Abend endet gemütlich in einem der historischen Pubs im Zentrum, wo Kaminfeuer und deftiges englisches Essen die Winterkälte vergessen lassen.",
+            "hu": "Fagyos reggel a Market Square-en, ahol a téli fények ünnepi hangulatot árasztanak. A Guildhall ilyenkor különösen fenséges látvány a korai szürkületben.\n\nDélben az All Saints' Church nyújt meleg nyugalmat. A 78 Derngate látogatása remek módja annak, hogy hosszabb időre behúzódjunk a hideg elől.\n\nA délután rövid, hiszen 16:00 körül már sötétedik. A múzeum fűtött terei után az Abington Parkban tett rövid séta frissítő, de érdemes kesztyűt húzni.\n\nAz este egy belvárosi gasztro-élménnyel zárul. A helyi pubok kandallói és a laktató ételek tökéletesen ellensúlyozzák a kinti fagyot.",
+            "ro": "O dimineață geroasă în Market Square, unde luminile de iarnă creează o atmosferă festivă. Guildhall arată maiestuos sub lumina rece a soarelui de iarnă.\n\nLa prânz, Biserica All Saints' oferă un refugiu cald și liniștit. Vizita la 78 Derngate este ideală pentru a petrece timp de calitate departe de frigul exterior.\n\nDupă-amiaza este scurtă, soarele apunând în jurul orei 16:00. Muzeul este bine încălzit, oferind o pauză binevenită înainte de o plimbare rapidă prin Abington Park.\n\nSeara se încheie într-un mod primitor într-un pub istoric din centru, unde focul din șemineu și mâncarea caldă alungă frigul iernii.",
+            "en": "A crisp winter morning at Market Square, often adorned with festive lights. The Guildhall looks particularly grand against a clear, cold winter sky.\n\nBy midday, All Saints' Church provides a serene and warm sanctuary. Following this with 78 Derngate is the perfect strategy to stay out of the cold for an extended period.\n\nAfternoons are brief with sunset around 4 PM. The museum is well-heated and offers a cozy cultural break before a brisk walk through the wintry Abington Park.\n\nYour evening ends in a traditional city centre pub. The warmth of a fireplace and hearty English fare provide the perfect antidote to the winter chill."
+          },
+          "stops": [
+            {
+              "name": "Market Square",
+              "tip_5lang": {
+                "de": "Genießen Sie ein heißes Getränk an einem der Marktstände.",
+                "hu": "Igyon egy forró italt az egyik piaci árusnál.",
+                "ro": "Savurați o băutură caldă de la una dintre tarabele din piață.",
+                "en": "Grab a hot drink from one of the market stalls to keep warm."
+              }
+            },
+            {
+              "name": "Northampton Guildhall",
+              "tip_5lang": {
+                "de": "Besuchen Sie das Innere, um die prächtigen, beheizten Säle zu sehen.",
+                "hu": "Menjen be, hogy megnézze a pazar, fűtött termeket.",
+                "ro": "Vizitați interiorul pentru a vedea sălile splendide și încălzite.",
+                "en": "Visit the interior to see the magnificent, heated halls."
+              }
+            },
+            {
+              "name": "All Saints' Church",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort zum Aufwärmen und Nachdenken.",
+                "hu": "Csendes hely a felmelegedésre és az elmélkedésre.",
+                "ro": "Un loc liniștit pentru a vă încălzi și a reflecta.",
+                "en": "A quiet spot to warm up and reflect during your walk."
+              }
+            },
+            {
+              "name": "78 Derngate",
+              "tip_5lang": {
+                "de": "Buchen Sie im Voraus, um Wartezeiten in der Kälte zu vermeiden.",
+                "hu": "Foglaljon előre, hogy elkerülje a hidegben való várakozást.",
+                "ro": "Rezervați în avans pentru a evita așteptarea în frig.",
+                "en": "Book ahead to avoid waiting outside in the cold."
+              }
+            },
+            {
+              "name": "Northampton Museum & Art Gallery",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe für Ihre schweren Wintermäntel.",
+                "hu": "Használja a ruhatárat a nehéz télikabátokhoz.",
+                "ro": "Folosiți garderoba pentru hainele groase de iarnă.",
+                "en": "Use the cloakroom for your heavy winter coats while exploring."
+              }
+            },
+            {
+              "name": "Abington Park",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Wege in der Nähe der Seen.",
+                "hu": "Vigyázzon a jeges ösvényekre a tavak környékén.",
+                "ro": "Atenție la potecile înghețate din apropierea lacurilor.",
+                "en": "Watch out for icy paths near the ornamental lakes."
+              }
+            },
+            {
+              "name": "Dinner in City Centre",
+              "tip_5lang": {
+                "de": "Suchen Sie einen Pub mit echtem Kaminfeuer (Log Fire).",
+                "hu": "Keressen egy valódi kandallóval rendelkező pubot.",
+                "ro": "Căutați un pub cu șemineu real pentru o atmosferă caldă.",
+                "en": "Look for a pub with a real log fire for a cozy finish."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermokleidung, der Wind in den Straßen kann schneidend sein.",
+              "Die Sonne geht im Dezember bereits gegen 16:00 Uhr unter.",
+              "Öffentliche Gebäude sind meist gut beheizt und bieten Pausen vom Frost.",
+              "Gute Handschuhe sind für Fotos am National Lift Tower unerlässlich."
+            ],
+            "hu": [
+              "Viseljen thermo ruházatot, mert a szél nagyon fagyos lehet az utcákon.",
+              "A nap decemberben már 16:00 körül lemegy, tervezze ehhez a sétát.",
+              "A középületek fűtöttek, használja őket melegedőnek.",
+              "A kesztyű elengedhetetlen, ha fotózni akar a szeles Lift Towernél."
+            ],
+            "ro": [
+              "Purtați haine termice, vântul prin coridoarele străzilor poate fi tăios.",
+              "Soarele apune devreme, în jurul orei 16:00, în luna decembrie.",
+              "Clădirile publice sunt bine încălzite, oferind răgaz de la îngheț.",
+              "Mănușile bune sunt esențiale pentru fotografii la National Lift Tower."
+            ],
+            "en": [
+              "Wear thermal layers; the wind between the stone buildings can be biting.",
+              "Sunset is as early as 4 PM in mid-winter; plan your park visit accordingly.",
+              "Public buildings are generally well-heated and offer a break from the frost.",
+              "Good gloves are essential for taking photos at the windy Lift Tower."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -751,6 +951,206 @@
           "Use the designated cycle lanes wherever possible.",
           "Always lock your bike securely."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein nasser Start am Market Square erfordert Vorsicht auf dem Kopfsteinpflaster. Die Fahrt zum Delapré Abbey führt über Radwege, die bei Regen rutschig sein können.\n\nMittags ist der Halt am National Lift Tower kurz – der Ausblick ist grau, aber die Struktur beeindruckend. Das Museum bietet danach eine lange, trockene Pause.\n\nAm Nachmittag radeln Sie zum Abington Park. Die asphaltierten Wege sind besser als die schlammigen Grasflächen. Das Park-Café ist der ideale Ort zum Aufwärmen.\n\nDer Tag endet wieder im Zentrum. Ein warmes Abendessen ist die Belohnung für die Fahrt durch den britischen Regen.",
+            "hu": "Az esős kezdés a Market Square-en óvatosságot igényel a macskakövön. A Delapré Abbey-hez vezető kerékpárutak csúszósak lehetnek az esőben.\n\nDélben a National Lift Towernél tett megálló rövid – a kilátás szürke, de az építmény monumentális. A múzeum ezután hosszú, száraz pihenőt kínál.\n\nDélután tekerjen az Abington Parkba. Az aszfaltozott utak sokkal jobbak ilyenkor, mint a sáros füves részek. A park kávézója ideális hely a melegedésre.\n\nA nap a belvárosban zárul. Egy forró vacsora a jutalom a brit esőben való tekerésért.",
+            "ro": "Un început ploios în Market Square necesită prudență pe pavaj. Drumul spre Delapré Abbey urmează piste care pot deveni alunecoase la ud.\n\nLa prânz, oprirea la National Lift Tower este scurtă – vizibilitatea e redusă, dar structura e impresionantă. Muzeul oferă apoi o pauză lungă și uscată.\n\nDupă-amiaza pedalați spre Abington Park. Aleile asfaltate sunt preferabile zonelor cu iarbă care devin noroioase. Cafeneaua parcului este locul ideal de încălzire.\n\nZiua se încheie în centru. O cină caldă este recompensa binemeritată după pedalatul prin ploaia britanică.",
+            "en": "A wet start at Market Square requires caution on the slick cobblestones. The ride to Delapré Abbey follows cycle paths that can be slippery when wet.\n\nMidday at the National Lift Tower is a brief stop – the view is grey, but the structure remains imposing. The museum provides a long, dry refuge afterwards.\n\nIn the afternoon, cycle to Abington Park. Stick to the paved paths rather than the muddy grass. The park cafe is the perfect spot to dry off and warm up.\n\nYour day ends back in the centre. A warm dinner is the ultimate reward for navigating the classic British rain on two wheels."
+          },
+          "stops": [
+            {
+              "name": "Market Square",
+              "tip_5lang": {
+                "de": "Vorsicht beim Anfahren auf nassem Kopfsteinpflaster.",
+                "hu": "Vigyázzon az elinduláskor a csúszós macskakövön.",
+                "ro": "Atenție la plecarea de pe loc pe pavajul ud.",
+                "en": "Be extra careful when starting off on the wet cobblestones."
+              }
+            },
+            {
+              "name": "Northampton Guildhall",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad nah am Eingang unter einem Vorsprung.",
+                "hu": "Parkolja le a biciklit közel a bejárathoz egy ereszkedő alatt.",
+                "ro": "Parcați bicicleta aproape de intrare, sub o streașină.",
+                "en": "Park your bike close to the entrance under an overhang."
+              }
+            },
+            {
+              "name": "Delapré Abbey",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Fahrradständer am Café.",
+                "hu": "Használja a kávézónál lévő fedett biciklitárolót.",
+                "ro": "Folosiți rastelele acoperite de biciclete de lângă cafenea.",
+                "en": "Use the covered bike racks near the cafe entrance."
+              }
+            },
+            {
+              "name": "The National Lift Tower",
+              "tip_5lang": {
+                "de": "Starker Wind kann das Radfahren hier erschweren.",
+                "hu": "Az erős szél megnehezítheti itt a biciklizést.",
+                "ro": "Vântul puternic poate îngreuna pedalarea în această zonă.",
+                "en": "Be prepared for strong crosswinds while cycling near the tower."
+              }
+            },
+            {
+              "name": "Northampton Museum & Art Gallery",
+              "tip_5lang": {
+                "de": "Trocknen Sie Ihren Sattel, bevor Sie ihn abstellen.",
+                "hu": "Törölje szárazra a nyerget, mielőtt ott hagyja a gépet.",
+                "ro": "Ștergeți șaua înainte de a lăsa bicicleta în parcare.",
+                "en": "Wipe your saddle dry before locking your bike outside."
+              }
+            },
+            {
+              "name": "Abington Park",
+              "tip_5lang": {
+                "de": "Meiden Sie die unbefestigten Wege; sie werden sehr schlammig.",
+                "hu": "Kerülje a földutakat, mert nagyon sárossá válnak.",
+                "ro": "Evitați potecile de pământ; devin foarte noroioase.",
+                "en": "Avoid unpaved trails as they become very muddy in the rain."
+              }
+            },
+            {
+              "name": "Back at Market Square",
+              "tip_5lang": {
+                "de": "Genießen Sie ein warmes Getränk in einer trockenen Bar.",
+                "hu": "Élvezzen egy forró italt egy száraz bárban.",
+                "ro": "Savurați o băutură caldă într-un bar primitor.",
+                "en": "Warm up with a hot drink in a cozy indoor bar."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vollständige Regenbekleidung (Hose und Jacke) ist unerlässlich.",
+              "Prüfen Sie Ihre Bremsen; der Bremsweg verlängert sich bei Nässe.",
+              "Verwenden Sie Schutzbleche, um Schlammspritzer zu vermeiden.",
+              "Licht einschalten – die Sichtbarkeit ist bei Regen deutlich schlechter."
+            ],
+            "hu": [
+              "A teljes esőruházat (nadrág és kabát) elengedhetetlen.",
+              "Ellenőrizze a fékeket; a fékút jelentősen megnő vizes úton.",
+              "Használjon sárvédőt, hogy elkerülje a felverődő sarat.",
+              "Kapcsolja be a lámpákat – a láthatóság esőben sokkal rosszabb."
+            ],
+            "ro": [
+              "Echipamentul complet de ploaie (pantaloni și jachetă) este esențial.",
+              "Verificați frânele; distanța de frânare crește considerabil pe ud.",
+              "Folosiți apărători de noroi pentru a evita stropirea hainelor.",
+              "Aprindeți luminile – vizibilitatea scade dramatic în timpul ploii."
+            ],
+            "en": [
+              "Full waterproof gear (trousers and jacket) is essential for this mode.",
+              "Check your brakes; stopping distances increase significantly on wet roads.",
+              "Ensure your bike has mudguards to avoid road spray.",
+              "Turn on your lights – visibility is much lower during rain showers."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgenstart. Achten Sie auf Glatteis auf den Radwegen Richtung Delapré Abbey. Die kalte Luft ist erfrischend, aber gute Handschuhe sind Pflicht.\n\nMittags erreichen Sie den National Lift Tower. Der Wind in dieser Höhe kann eisig sein. Das beheizte Museum bietet danach die nötige Wärme für Körper und Hände.\n\nDer Nachmittag im Abington Park ist kurz. Die tiefstehende Wintersonne blendet oft beim Radfahren. Nutzen Sie die asphaltierten Wege, um Eisplatten zu vermeiden.\n\nDer Tag endet früh im Zentrum. Ein heißer Pub-Besuch ist nach einem Tag im winterlichen Sattel genau das Richtige.",
+            "hu": "Fagyos reggeli kezdés. Ügyeljen a jegesedésre a Delapré Abbey felé vezető utakon. A hideg levegő frissítő, de a jó kesztyű kötelező.\n\nDélben éri el a National Lift Towert. A szél ilyen magasságban jeges lehet. A fűtött múzeum ezután megadja a szükséges meleget a testnek és a kezeknek.\n\nAz Abington Parkban töltött délután rövid. Az alacsonyan járó téli nap gyakran elvakítja a biciklistát. Használja az aszfaltozott utakat a jégfoltok elkerülése érdekében.\n\nA nap korán véget ér a belvárosban. Egy forró ital egy pubban pont az, amire a téli nyeregben töltött nap után szükség van.",
+            "ro": "Un început de dimineață geros. Atenție la gheață pe pistele spre Delapré Abbey. Aerul rece este revigorant, dar mănușile bune sunt obligatorii.\n\nLa prânz ajungeți la National Lift Tower. Vântul la această înălțime poate fi tăios. Muzeul încălzit oferă apoi căldura necesară pentru corp și mâini.\n\nDupă-amiaza în Abington Park este scurtă. Soarele jos de iarnă poate fi orbitor pentru bicicliști. Folosiți aleile asfaltate pentru a evita zonele cu gheață.\n\nZiua se încheie devreme în centru. O vizită la un pub călduros este exact ce trebuie după o zi în șaua bicicletei iarna.",
+            "en": "A frosty morning start. Watch out for black ice on the cycle paths towards Delapré Abbey. The cold air is refreshing, but quality gloves are mandatory.\n\nReach the National Lift Tower by midday. The wind at this elevation can be icy. The heated museum provides much-needed warmth for your body and hands afterwards.\n\nAfternoon in Abington Park is short. The low winter sun often dazzles cyclists. Stick to the main paved paths to avoid hidden icy patches in shaded areas.\n\nYour day ends early in the city centre. A hot drink in a welcoming pub is the perfect finish after a day in the winter saddle."
+          },
+          "stops": [
+            {
+              "name": "Market Square",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Reifendruck; etwas weniger bietet mehr Grip auf Eis.",
+                "hu": "Ellenőrizze a guminyomást; a kicsit kisebb nyomás jobb tapadást ad jégen.",
+                "ro": "Verificați presiunea; o presiune mai mică oferă aderență mai bună pe gheață.",
+                "en": "Check your tire pressure; slightly lower pressure offers better grip on ice."
+              }
+            },
+            {
+              "name": "Northampton Guildhall",
+              "tip_5lang": {
+                "de": "Vorsicht bei Metallgittern im Boden, sie sind extrem rutschig.",
+                "hu": "Vigyázzon a fémrácsokkal a földön, rendkívül csúszósak.",
+                "ro": "Atenție la grătarele metalice de pe carosabil, sunt extrem de alunecoase.",
+                "en": "Be cautious over metal utility covers; they are extremely slippery when frosty."
+              }
+            },
+            {
+              "name": "Delapré Abbey",
+              "tip_5lang": {
+                "de": "Die schattigen Wege im Park können noch mittags gefroren sein.",
+                "hu": "A park árnyékos útjai még délben is fagyottak lehetnek.",
+                "ro": "Aleile umbrite din parc pot rămâne înghețate chiar și la prânz.",
+                "en": "Shaded paths in the park can remain frozen even at midday."
+              }
+            },
+            {
+              "name": "The National Lift Tower",
+              "tip_5lang": {
+                "de": "Hier ist es oft windiger und kälter als im Stadtzentrum.",
+                "hu": "Itt gyakran szelesebb és hidegebb van, mint a belvárosban.",
+                "ro": "Aici este adesea mai vânt și mai frig decât în centrul orașului.",
+                "en": "It’s often much windier and colder here than in the sheltered town centre."
+              }
+            },
+            {
+              "name": "Northampton Museum & Art Gallery",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch zum Aufwärmen der Finger.",
+                "hu": "Használja a múzeumi látogatást az ujjai felmelegítésére.",
+                "ro": "Folosiți vizita la muzeu pentru a vă încălzi degetele.",
+                "en": "Use the museum visit as a strategic warm-up for your fingers."
+              }
+            },
+            {
+              "name": "Abington Park",
+              "tip_5lang": {
+                "de": "Fahren Sie vor Sonnenuntergang zurück, um Glätte zu vermeiden.",
+                "hu": "Tekerjen vissza naplemente előtt, hogy elkerülje az újrafagyást.",
+                "ro": "Pedalați înapoi înainte de apus pentru a evita înghețul nocturn.",
+                "en": "Cycle back before sunset to avoid rapidly dropping temperatures."
+              }
+            },
+            {
+              "name": "Back at Market Square",
+              "tip_5lang": {
+                "de": "Gönnen Sie sich eine heiße Mahlzeit nach der Kälte.",
+                "hu": "Kényeztesse magát egy forró étellel a hideg után.",
+                "ro": "Răsfățați-vă cu o masă caldă după frigul de afară.",
+                "en": "Treat yourself to a hearty hot meal after your winter ride."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Mehrlagige Kleidung (Zwiebelprinzip) ist beim Radfahren im Winter ideal.",
+              "Vermeiden Sie hastige Lenkbewegungen auf möglicherweise glatten Stellen.",
+              "Trinken Sie ausreichend; man dehydriert auch bei Kälte.",
+              "Stellen Sie sicher, dass Ihre Beleuchtung voll geladen ist."
+            ],
+            "hu": [
+              "A réteges öltözködés (hagyma-elv) ideális téli biciklizéshez.",
+              "Kerülje a hirtelen kormánymozdulatokat az esetleges jeges foltokon.",
+              "Igyon eleget; a hidegben is felléphet a dehidratáció.",
+              "Győződjön meg róla, hogy a lámpái teljesen fel vannak töltve."
+            ],
+            "ro": [
+              "Îmbrăcămintea în straturi este ideală pentru ciclismul de iarnă.",
+              "Evitați mișcările bruște de ghidon pe porțiunile potențial înghețate.",
+              "Beți suficiente lichide; deshidratarea apare și pe timp de frig.",
+              "Asigurați-vă că luminile bicicletei sunt complet încărcate."
+            ],
+            "en": [
+              "Layered clothing is best for maintaining body heat while cycling.",
+              "Avoid sudden steering movements on potentially icy patches.",
+              "Stay hydrated; you still lose fluids even in cold weather.",
+              "Ensure your bike lights are fully charged for the early darkness."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1106,6 +1506,188 @@
           "Use the cluster strategy: park once and explore on foot to save time and money.",
           "Be aware of Park and Ride options on the outskirts of the town."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Start bei Delapré Abbey – nutzen Sie die Parkplätze nah am Eingang. Die Fahrt durch Northampton kann bei Regen aufgrund von höherem Verkehrsaufkommen länger dauern.\n\nMittags parken Sie im Zentrum (z. B. St. Johns), um Guildhall und All Saints' Church mit minimalem Fußweg im Regen zu erreichen.\n\nDer Nachmittag führt zum Abington Park. Parken Sie direkt am Park-Café, um trocken zu bleiben. Der Ausblick aus dem Auto auf den National Lift Tower ist auch bei Regen beeindruckend.\n\nDer Tag endet entspannt. Viele Restaurants im Zentrum bieten Parkhäuser in direkter Nähe, sodass Sie kaum nass werden.",
+            "hu": "Esős kezdés a Delapré Abbey-nél – használja a bejárathoz közeli parkolókat. A vezetés Northamptonban esőben lassabb lehet a megnövekedett forgalom miatt.\n\nDélben parkoljon a központban (pl. St. Johns), hogy a Guildhallt és a templomot minimális ázással érje el.\n\nDélután az út az Abington Parkba vezet. Parkoljon közvetlenül a park kávézójánál. Az autóból a National Lift Tower látványa esőben is monumentális.\n\nA nap nyugodtan zárul. Számos belvárosi étterem közelében van parkolóház, így szinte szárazon megúszhatja a vacsorát.",
+            "ro": "Început ploios la Delapré Abbey – folosiți parcarea de lângă intrare. Traficul în Northampton poate fi mai intens în zilele cu ploaie.\n\nLa prânz, parcați în centru (ex. St Johns) pentru a ajunge la Guildhall și Biserica All Saints' cu o expunere minimă la ploaie.\n\nDupă-amiaza mergeți spre Abington Park. Parcați lângă cafenea pentru a rămâne uscat. Vederea turnului National Lift din mașină este spectaculoasă chiar și pe ploaie.\n\nZiua se încheie relaxat. Multe restaurante din centru au parcări etajate în apropiere, permițându-vă să rămâneți uscat.",
+            "en": "A rainy start at Delapré Abbey – take advantage of the parking right by the entrance. Driving through Northampton may take longer due to increased traffic in wet weather.\n\nAt midday, park in a central multi-storey (like St Johns) to access the Guildhall and All Saints' Church with minimal walking in the rain.\n\nYour afternoon drive leads to Abington Park. Park near the cafe to keep dry. Viewing the National Lift Tower from the comfort of your car is still a great experience in the rain.\n\nEnd the day comfortably. Many city centre dining spots are close to covered parking, keeping you dry from car to table."
+          },
+          "stops": [
+            {
+              "name": "Park and Start at Delapré Abbey",
+              "tip_5lang": {
+                "de": "Parken Sie auf den befestigten Flächen, um Schlamm zu vermeiden.",
+                "hu": "Parkoljon a szilárd burkolatú részeken a sár elkerülése érdekében.",
+                "ro": "Parcați pe suprafețele asfaltate pentru a evita noroiul.",
+                "en": "Park on the paved surfaces to avoid mud near the abbey entrance."
+              }
+            },
+            {
+              "name": "City Centre Cluster: Park near Guildhall",
+              "tip_5lang": {
+                "de": "Nutzen Sie Parkhäuser für einen trockenen Ausstieg.",
+                "hu": "Használjon parkolóházakat a száraz kiszállás érdekében.",
+                "ro": "Folosiți parcările etajate pentru a coborî din mașină la uscat.",
+                "en": "Use multi-storey car parks for a dry exit from your vehicle."
+              }
+            },
+            {
+              "name": "All Saints' Church",
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Parkplatz zum Kircheneingang.",
+                "hu": "Egy rövid futás a parkolótól a templom bejáratáig.",
+                "ro": "O scurtă alergare de la parcare până la intrarea în biserică.",
+                "en": "A quick dash from your parking spot to the church entrance."
+              }
+            },
+            {
+              "name": "Market Square & Lunch",
+              "tip_5lang": {
+                "de": "In der Nähe gibt es viele überdachte Gastronomieangebote.",
+                "hu": "A közelben sok fedett étkezési lehetőség van.",
+                "ro": "Există multe opțiuni de luat masa sub acoperiș în apropiere.",
+                "en": "Plenty of indoor dining options are available around the square."
+              }
+            },
+            {
+              "name": "Abington Cluster: Drive to Abington Park",
+              "tip_5lang": {
+                "de": "Parken Sie an der Wellingborough Road für schnellen Zugang zum Café.",
+                "hu": "Parkoljon a Wellingborough Roadnál a kávézó gyors eléréséhez.",
+                "ro": "Parcați pe Wellingborough Road pentru acces rapid la cafenea.",
+                "en": "Park on Wellingborough Road for the quickest access to the cafe."
+              }
+            },
+            {
+              "name": "The National Lift Tower (Drive-by)",
+              "tip_5lang": {
+                "de": "Gute Sicht auch bei laufenden Scheibenwischern.",
+                "hu": "Jó rálátás az ablaktörlők használata mellett is.",
+                "ro": "Vizibilitate bună chiar și prin parbrizul udat de ploaie.",
+                "en": "Great views even through the rain; no need to leave the car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie das Parken unter Bäumen wegen herabfallender Äste bei Wind.",
+              "Rechnen Sie mit Stau in der Nähe der Grosvenor-Kreuzung bei Regen.",
+              "Halten Sie einen Schirm im Auto für den Weg zum Parkscheinautomaten bereit.",
+              "Nutzen Sie die Park-Apps, um nicht im Regen am Automaten warten zu müssen."
+            ],
+            "hu": [
+              "Kerülje a fák alatti parkolást a szeles időben lehulló ágak miatt.",
+              "Számítson dugóra a Grosvenor-csomópontnál esős időben.",
+              "Tartson esernyőt az autóban a parkolójegy-automatához vezető útra.",
+              "Használjon parkolási applikációt, hogy ne kelljen az esőben várakoznia."
+            ],
+            "ro": [
+              "Evitați parcarea sub copaci din cauza riscului de cădere a ramurilor.",
+              "Așteptați-vă la trafic aglomerat lângă intersecția Grosvenor pe ploaie.",
+              "Aveți o umbrelă la îndemână pentru drumul până la parcometru.",
+              "Folosiți aplicațiile de parcare pentru a evita așteptarea la automate."
+            ],
+            "en": [
+              "Avoid parking under large trees due to falling branches in windy rain.",
+              "Expect delays near the Grosvenor centre junction during downpours.",
+              "Keep an umbrella in the door pocket for the walk to the pay station.",
+              "Use parking apps where possible to avoid standing in the rain at machines."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kalter Wintermorgen – genießen Sie die Sitzheizung auf dem Weg zur Delapré Abbey. Die verschneite oder frostige Parklandschaft wirkt aus dem warmen Auto bezaubernd.\n\nMittags ist das Parken im Stadtzentrum praktisch, um schnell in die warmen Innenräume der Guildhall und der Kirchen zu gelangen.\n\nNachmittags führt die Fahrt zum Abington Park. Da es früh dunkel wird, ist die Fahrt vorbei am beleuchteten National Lift Tower ein Highlight im winterlichen Northampton.\n\nDer Abend endet gemütlich. Parken Sie direkt im Zentrum, um die festlich beleuchteten Straßen auf dem kurzen Weg zum Restaurant zu genießen.",
+            "hu": "Hideg téli reggel – élvezze az ülésfűtést a Delapré Abbey felé vezető úton. A fagyos park látványa a meleg autóból nézve elragadó.\n\nDélben a belvárosi parkolás praktikus, így gyorsan bejuthat a Guildhall és a templomok fűtött tereibe.\n\nDélután az Abington Parkhoz vezet az út. Mivel korán sötétedik, a kivilágított National Lift Tower melletti elhaladás a téli Northampton fénypontja.\n\nAz este kellemesen zárul. Parkoljon a központban, és élvezze az ünnepi fényeket a rövid séta alatt az étteremig.",
+            "ro": "O dimineață rece de iarnă – bucurați-vă de încălzirea în scaune spre Delapré Abbey. Peisajul înghețat arată încântător din confortul mașinii calde.\n\nLa prânz, parcarea în centrul orașului este practică pentru a intra rapid în spațiile încălzite de la Guildhall și biserici.\n\nDupă-amiaza conduceți spre Abington Park. Deoarece se întunecă devreme, trecerea pe lângă National Lift Tower iluminat este un moment special.\n\nSeara se încheie confortabil. Parcați în centru pentru a admira luminile festive pe drumul scurt spre restaurant.",
+            "en": "A cold winter morning – enjoy the seat heaters on your way to Delapré Abbey. The frosty landscape looks enchanting from the warmth of your car.\n\nAt midday, central parking is practical for quick access to the heated interiors of the Guildhall and town churches.\n\nYour afternoon drive to Abington Park coincides with early twilight. Seeing the National Lift Tower lit up against the winter sky is a highlight of the trip.\n\nEnd your day on a high note. Park in the city centre and enjoy the festive lights on the very short walk to your chosen restaurant."
+          },
+          "stops": [
+            {
+              "name": "Park and Start at Delapré Abbey",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf dem Parkplatzgelände.",
+                "hu": "Ügyeljen a jegesedésre a parkoló területén.",
+                "ro": "Atenție la porțiunile de gheață din parcare.",
+                "en": "Watch out for black ice in the abbey's open parking areas."
+              }
+            },
+            {
+              "name": "City Centre Cluster: Park near Guildhall",
+              "tip_5lang": {
+                "de": "Parkhäuser sind oft wärmer und schützen vor Frost.",
+                "hu": "A parkolóházak gyakran melegebbek és védenek a fagytól.",
+                "ro": "Parcările etajate sunt mai ferite de îngheț și vânt.",
+                "en": "Multi-storey car parks are warmer and keep your car frost-free."
+              }
+            },
+            {
+              "name": "All Saints' Church",
+              "tip_5lang": {
+                "de": "Genießen Sie die Wärme im Inneren nach dem Aussteigen.",
+                "hu": "Élvezze a benti meleget a kiszállás után.",
+                "ro": "Bucurați-vă de căldura din interior după ce ați parcat.",
+                "en": "A great place to warm up immediately after leaving your car."
+              }
+            },
+            {
+              "name": "Market Square & Lunch",
+              "tip_5lang": {
+                "de": "Viele Cafés bieten im Winter spezielle Heißgetränke an.",
+                "hu": "Sok kávézó kínál téli különlegességeket ilyenkor.",
+                "ro": "Multe cafenele oferă băuturi calde speciale de iarnă.",
+                "en": "Check out the seasonal hot drink specials in local cafes."
+              }
+            },
+            {
+              "name": "Abington Cluster: Drive to Abington Park",
+              "tip_5lang": {
+                "de": "Die Parkplätze am Straßenrand können schneebedeckt sein.",
+                "hu": "Az út menti parkolók havasak vagy jegesek lehetnek.",
+                "ro": "Locurile de parcare de pe marginea drumului pot fi înzăpezite.",
+                "en": "Roadside parking spots might be slushy or icy in mid-winter."
+              }
+            },
+            {
+              "name": "The National Lift Tower (Drive-by)",
+              "tip_5lang": {
+                "de": "Im Dunkeln ist der Turm oft beeindruckend beleuchtet.",
+                "hu": "Sötétben a torony gyakran lenyűgözően ki van világítva.",
+                "ro": "Turnul este adesea iluminat spectaculos după lăsarea serii.",
+                "en": "The tower is often dramatically lit up after the early sunset."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Frostschutz im Scheibenwischwasser.",
+              "Lassen Sie den Motor nicht unnötig im Stand laufen.",
+              "Rechnen Sie mit glatten Straßen in den Wohngebieten um das Zentrum.",
+              "Ein Eiskratzer ist für den Abend nach dem Restaurantbesuch wichtig."
+            ],
+            "hu": [
+              "Ellenőrizze a fagyállót a szélvédőmosó folyadékban.",
+              "Ne járassa feleslegesen a motort álló helyzetben.",
+              "Számítson csúszós utakra a belváros körüli lakóövezetekben.",
+              "A jégkaparó fontos lehet az esti éttermi látogatás után."
+            ],
+            "ro": [
+              "Verificați lichidul de parbriz să fie rezistent la îngheț.",
+              "Nu lăsați motorul pornit inutil în staționare.",
+              "Așteptați-vă la drumuri alunecoase în zonele rezidențiale perimetrale.",
+              "O racletă este esențială pentru seara, după ieșirea de la restaurant."
+            ],
+            "en": [
+              "Ensure your screenwash has a high concentration of antifreeze.",
+              "Avoid idling the engine for too long while waiting in the cold.",
+              "Be careful of untreated side roads near Abington Park.",
+              "Keep an ice scraper handy for when you leave the restaurant at night."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1462,6 +2044,188 @@
           "Be aware that buses may be less frequent in the evenings.",
           "Ask the driver if you're unsure of a stop; they are usually helpful."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ankunft an der North Gate Bus Station – ein moderner, überdachter Ort zum Starten. Der kurze Weg zum Market Square ist bei Regen gut zu bewältigen.\n\nMittags ist das Museum ein idealer Ort, um trocken zu bleiben. Die Busse nach Abington Park fahren häufig und bieten Schutz vor dem Wetter.\n\nNachmittags im Abington Park sollten Sie in der Nähe der Bushaltestellen bleiben, um bei plötzlichen Schauern schnell in den nächsten Bus nach Delapré Abbey springen zu können.\n\nDer Abend endet im Zentrum. Die North Gate Bus Station ist hell beleuchtet und bietet einen trockenen Wartebereich für Ihre Rückreise.",
+            "hu": "Érkezés a North Gate buszpályaudvarra – modern, fedett hely a kezdéshez. A Market Square-ig tartó rövid séta esőben is könnyen teljesíthető.\n\nDélben a múzeum ideális hely a szárazon maradáshoz. Az Abington Parkba tartó buszok gyakran járnak és védelmet nyújtanak az időjárás elől.\n\nDélután az Abington Parkban érdemes a buszmegállók közelében maradni, hogy hirtelen eső esetén gyorsan felszállhasson a Delapré Abbey felé tartó járatra.\n\nAz este a belvárosban zárul. A buszpályaudvar jól kivilágított és száraz várakozóhelyet kínál a hazaúthoz.",
+            "ro": "Sosirea la autogara North Gate – un spațiu modern și acoperit pentru început. Drumul scurt până la Market Square este ușor de parcurs chiar și pe ploaie.\n\nLa prânz, muzeul este locul ideal pentru a rămâne uscat. Autobuzele spre Abington Park sunt frecvente și oferă adăpost în timpul deplasării.\n\nDupă-amiaza în Abington Park, stați aproape de stații pentru a putea urca rapid în autobuzul spre Delapré Abbey dacă ploaia se întețește.\n\nSeara se încheie în centru. Autogara North Gate este bine iluminată și oferă o zonă de așteptare uscată pentru plecare.",
+            "en": "Arrive at North Gate Bus Station – a modern, fully covered hub to start your day. The short walk to Market Square is manageable even in light rain.\n\nAt midday, the museum is your sanctuary from the wet. Buses to Abington Park run frequently, providing a dry way to travel across town.\n\nWhile at Abington Park in the afternoon, stay near the bus stops so you can quickly hop on the next service to Delapré Abbey if the heavens open.\n\nYour evening ends back in the centre. North Gate Bus Station is bright and dry, offering a comfortable place to wait for your final connection."
+          },
+          "stops": [
+            {
+              "name": "Arrive at North Gate Bus Station",
+              "tip_5lang": {
+                "de": "Ein hervorragender, trockener Knotenpunkt mit Echtzeitanzeigen.",
+                "hu": "Kiváló, száraz csomópont valós idejű kijelzőkkel.",
+                "ro": "Un nod de tranzit excelent, acoperit, cu afișaje în timp real.",
+                "en": "An excellent, dry hub with real-time departure screens."
+              }
+            },
+            {
+              "name": "Market Square",
+              "tip_5lang": {
+                "de": "Nur 5 Minuten Fußweg von der Busstation entfernt.",
+                "hu": "Csak 5 perc séta a buszpályaudvartól.",
+                "ro": "La doar 5 minute de mers pe jos de autogară.",
+                "en": "Just a 5-minute walk from the main bus station."
+              }
+            },
+            {
+              "name": "Northampton Museum & Art Gallery",
+              "tip_5lang": {
+                "de": "In der Nähe halten viele Linien; ideal bei Regen.",
+                "hu": "Sok járat megáll a közelben; ideális esőben.",
+                "ro": "Multe linii opresc în apropiere; ideal pe ploaie.",
+                "en": "Many bus lines stop nearby; ideal for dodging showers."
+              }
+            },
+            {
+              "name": "Bus to Abington Park",
+              "tip_5lang": {
+                "de": "Warten Sie unter dem Dach der Haltestelle.",
+                "hu": "Várjon a megálló teteje alatt.",
+                "ro": "Așteptați sub copertina stației de autobuz.",
+                "en": "Wait under the shelter at the bus stop for maximum comfort."
+              }
+            },
+            {
+              "name": "Bus to Delapré Abbey",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist nah am Toreingang der Abbey.",
+                "hu": "A megálló közel van az Abbey kapujához.",
+                "ro": "Stația este aproape de poarta de intrare a abației.",
+                "en": "The stop is located conveniently close to the Abbey gates."
+              }
+            },
+            {
+              "name": "Return to Centre for a Farewell Dinner",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant nah an der Drapery (Bus-Knoten).",
+                "hu": "Válasszon éttermet a Drapery (buszcsomópont) közelében.",
+                "ro": "Alegeți un restaurant aproape de Drapery (nod de autobuz).",
+                "en": "Pick a restaurant near The Drapery bus hub for an easy exit."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die 'Stagecoach'-App für Live-Abfahrtszeiten.",
+              "Die Drapery und North Gate sind die besten Orte zum Umsteigen im Trockenen.",
+              "Halten Sie Ihr Ticket oder Handy griffbereit, um nicht im Regen zu suchen.",
+              "Einige Busse können bei Regen aufgrund von Verkehr Verspätung haben."
+            ],
+            "hu": [
+              "Használja a Stagecoach alkalmazást a valós idejű indulásokhoz.",
+              "A Drapery és a North Gate a legjobb helyek a száraz átszálláshoz.",
+              "Tartsa készenlétben a jegyét, hogy ne az esőben kelljen keresgélni.",
+              "Néhány busz késhet az eső miatti nagyobb forgalomban."
+            ],
+            "ro": [
+              "Folosiți aplicația Stagecoach pentru orele de plecare live.",
+              "Drapery și North Gate sunt cele mai bune locuri pentru schimbat autobuzul.",
+              "Aveți biletul sau telefonul pregătit pentru a urca rapid.",
+              "Unele autobuze pot avea întârzieri din cauza traficului pe ploaie."
+            ],
+            "en": [
+              "Use the Stagecoach or bus operator apps for live tracking.",
+              "The Drapery and North Gate are the best dry spots for transfers.",
+              "Have your contactless card or mobile ticket ready before the bus arrives.",
+              "Allow extra time as buses can be delayed by heavy rain traffic."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein winterlicher Start an der North Gate Bus Station – der beheizte Wartebereich ist ein Segen. Der Markt ist im Winterlicht stimmungsvoll.\n\nMittags bietet das Museum eine wunderbare, warme Pause. Die Busse sind im Winter meist gut beheizt und bieten eine gemütliche Fahrt zum Abington Park.\n\nDer Nachmittag im Park ist aufgrund der frühen Dunkelheit kurz. Die Busfahrt zurück zur Delapré Abbey bietet die Möglichkeit, die Weihnachtsbeleuchtung der Stadt zu sehen.\n\nDer Abend endet im Zentrum. Die North Gate Bus Station ist ein sicherer, heller und warmer Ort für die letzte Etappe Ihrer Reise.",
+            "hu": "Téli kezdés a North Gate buszpályaudvaron – a fűtött várakozóhely igazi áldás. A piac a téli fényekben hangulatos.\n\nDélben a múzeum csodálatos, meleg pihenőt kínál. A buszok télen általában jól fűtöttek, így kellemes az út az Abington Parkba.\n\nAz Abington Parkban töltött délután a korai sötétedés miatt rövid. A buszút vissza a Delapré Abbey-hez lehetőséget ad a városi ünnepi fények megtekintésére.\n\nAz este a belvárosban zárul. A buszpályaudvar biztonságos, világos és meleg hely az utazás utolsó szakaszához.",
+            "ro": "Un început de iarnă la autogara North Gate – zona de așteptare încălzită este binevenită. Piața are o atmosferă deosebită sub luminile de iarnă.\n\nLa prânz, muzeul oferă o pauză caldă și plăcută. Autobuzele sunt de obicei bine încălzite iarna, oferind o călătorie confortabilă spre Abington Park.\n\nDupă-amiaza în parc este scurtă din cauza întunericului ce se lasă devreme. Drumul cu autobuzul spre Delapré Abbey vă permite să vedeți luminile de Crăciun.\n\nSeara se încheie în centru. Autogara North Gate este un loc sigur, luminat și cald pentru ultima etapă a călătoriei.",
+            "en": "A winter start at North Gate Bus Station – the indoor waiting area is a blessing on a frost morning. The market feels festive in the crisp air.\n\nAt midday, the museum offers a wonderful warm break. Buses are usually well-heated in winter, making the trip to Abington Park very comfortable.\n\nYour afternoon park visit is brief as light fades early. The bus ride back towards Delapré Abbey offers a chance to see the town's holiday decorations.\n\nEnd your evening in the city centre. The North Gate Bus Station remains a safe, bright, and warm place for the final leg of your journey."
+          },
+          "stops": [
+            {
+              "name": "Arrive at North Gate Bus Station",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Innenbereich zum Aufwärmen nach der Ankunft.",
+                "hu": "Használja a belső teret a felmelegedésre érkezés után.",
+                "ro": "Folosiți zona interioară pentru a vă încălzi după sosire.",
+                "en": "Make use of the indoor seating area to warm up upon arrival."
+              }
+            },
+            {
+              "name": "Market Square",
+              "tip_5lang": {
+                "de": "Im Winter oft Standort eines kleinen Weihnachtsmarktes.",
+                "hu": "Télen gyakran itt kap helyet egy kis karácsonyi vásár.",
+                "ro": "Iarna, aici se organizează adesea un mic târg de Crăciun.",
+                "en": "Often hosts festive stalls and decorations during the winter months."
+              }
+            },
+            {
+              "name": "Northampton Museum & Art Gallery",
+              "tip_5lang": {
+                "de": "Ein großartiger Ort, um der Nachmittagskälte zu entfliehen.",
+                "hu": "Nagyszerű hely a délutáni hideg elöli menekülésre.",
+                "ro": "Un loc excelent pentru a scăpa de frigul de după-amiază.",
+                "en": "A great place to escape the afternoon chill for an hour or two."
+              }
+            },
+            {
+              "name": "Bus to Abington Park",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Winterfahrplan; manche Linien fahren seltener.",
+                "hu": "Ellenőrizze a téli menetrendet; egyes járatok ritkábban járhatnak.",
+                "ro": "Verificați programul de iarnă; unele linii pot fi mai rare.",
+                "en": "Check the winter timetable; some services may vary slightly."
+              }
+            },
+            {
+              "name": "Bus to Delapré Abbey",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die beleuchtete Stadt während der Fahrt.",
+                "hu": "Élvezze a kivilágított város látványát menet közben.",
+                "ro": "Admirați orașul iluminat festiv în timpul călătoriei.",
+                "en": "Enjoy the views of the festive city lights during the ride."
+              }
+            },
+            {
+              "name": "Return to Centre for a Farewell Dinner",
+              "tip_5lang": {
+                "de": "Drappery ist abends gut beleuchtet und sicher.",
+                "hu": "A Drapery este jól kivilágított és biztonságos.",
+                "ro": "Zona Drapery este bine iluminată și sigură seara.",
+                "en": "The Drapery is well-lit and busy, making it a safe evening hub."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie warme Socken, das Warten an Haltestellen kann kalt sein.",
+              "Die Busse sind meist beheizt, was das Reisen im Winter angenehm macht.",
+              "Achten Sie auf Glatteis auf dem Weg zur Bushaltestelle.",
+              "Die Sonne geht gegen 16:00 Uhr unter; planen Sie die Rückfahrt im Hellen."
+            ],
+            "hu": [
+              "Viseljen meleg zoknit, a megállókban való várakozás hideg lehet.",
+              "A buszok általában fűtöttek, ami kellemessé teszi a téli utazást.",
+              "Ügyeljen a jegesedésre a buszmegállóhoz vezető úton.",
+              "A nap 16:00 körül megy le; tervezze a visszautat még világosban."
+            ],
+            "ro": [
+              "Purtați șosete groase, așteptarea în stații poate fi friguroasă.",
+              "Autobuzele sunt de obicei încălzite, făcând tranzitul plăcut.",
+              "Atenție la porțiunile înghețate în drum spre stația de autobuz.",
+              "Soarele apune în jur de ora 16:00; planificați întoarcerea din timp."
+            ],
+            "en": [
+              "Wear warm socks as standing at bus stops can get chilly quickly.",
+              "Buses are usually well-heated, making them a cozy way to see the town.",
+              "Be careful of icy pavements when walking to and from the bus stops.",
+              "With sunset at 4 PM, aim for an earlier return to the city centre."
+            ]
+          }
+        }
       }
     }
   }

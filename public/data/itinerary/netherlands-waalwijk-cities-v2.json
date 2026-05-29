@@ -386,6 +386,214 @@
           "Check the opening hours of the Schoenenkwartier museum in advance.",
           "Bring a reusable water bottle; there are public fountains available."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens schützen die schmalen Gassen der Hooisteeg etwas vor dem Wind, während wir uns zum historischen Rathaus vorkämpfen. Vormittags bietet die monumentale St. Janskerk ein trockenes und imposantes Refugium. Mittags verbringen wir zwei Stunden im Schoenenkwartier, wo das moderne Museumsquartier perfekt für Regenwetter geeignet ist. Nachmittags führt der Weg zur Mühle und Brücke unter dem Regenschirm, bevor wir den Tag im Wandelpark ausklingen lassen.",
+            "hu": "Reggel az esernyők alatt fedezzük fel a Hooisteeg történelmi macskaköveit, majd a városháza felé vesszük az irányt. A délelőtti záporok elől a monumentális Szent János-templom nyújt fenséges menedéket. A déli órákat a Schoenenkwartier modern épületében töltjük, ahol szárazon ismerhetjük meg a régió cipőgyártó múltját. Délután a szélfútta malom és a vasúti híd következik, végül a Wandelpark esőáztatta ösvényein zárjuk a kört.",
+            "ro": "Dimineața explorăm străzile înguste din Hooisteeg sub umbrelă, îndreptându-ne spre primăria istorică. Interiorul bisericii Sf. Ioan oferă un refugiu uscat și liniștit în timpul ploii de dimineață. La prânz, vizităm Schoenenkwartier, un muzeu modern ideal pentru condiții meteo nefavorabile. După-amiaza, drumul spre moară și podul feroviar necesită pelerină de ploaie, finalizând traseul printre arborii uzi din Wandelpark.",
+            "en": "In the morning, the narrow Hooisteeg offers some wind protection as we head to the old Town Hall. The monumental St. John the Baptist Church provides a dry and grand refuge during the late morning rain. Midday is spent inside the modern Schoenenkwartier, perfectly suited for wet weather. Afternoon involves a walk to the windmill and bridge with an umbrella, finishing the day among the rain-soaked paths of Wandelpark."
+          },
+          "stops": [
+            {
+              "name": "Hooisteeg (Historic Street)",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem nassen Kopfsteinpflaster, Rutschgefahr.",
+                "hu": "Vigyázat, a vizes macskakő csúszós lehet a szűk utcában.",
+                "ro": "Atenție la pavajul umed, poate fi alunecos în pasaj.",
+                "en": "Careful on the wet cobblestones, they can be slippery."
+              }
+            },
+            {
+              "name": "Raadhuis Waalwijk (Old Town Hall)",
+              "tip_5lang": {
+                "de": "Der Eingangsbereich bietet kurzzeitigen Schutz vor Schauern.",
+                "hu": "A bejárati rész rövid menedéket nyújt a záporok elől.",
+                "ro": "Zona de intrare oferă adăpost temporar împotriva ploii.",
+                "en": "The entrance area provides brief shelter from showers."
+              }
+            },
+            {
+              "name": "Sint-Jan de Doperkerk (St. John the Baptist Church)",
+              "tip_5lang": {
+                "de": "Idealer Ort, um die Regenpause im trockenen Inneren zu genießen.",
+                "hu": "Ideális hely a zápor átvészelésére a száraz belső térben.",
+                "ro": "Loc ideal pentru a aștepta trecerea ploii în interior.",
+                "en": "Ideal place to wait out a downpour in the dry interior."
+              }
+            },
+            {
+              "name": "Schoenenkwartier (Shoe Quarter Museum)",
+              "tip_5lang": {
+                "de": "Perfekt für Regentage, nutzen Sie die Garderobe für nasse Mäntel.",
+                "hu": "Esős időben a legjobb választás, használja a ruhatárat.",
+                "ro": "Cea mai bună alegere pe ploaie, folosiți garderoba.",
+                "en": "Best choice for rainy days, make use of the cloakroom."
+              }
+            },
+            {
+              "name": "Molen Nooit Volmaakt (Never Perfect Mill)",
+              "tip_5lang": {
+                "de": "Der Außenbereich ist ungeschützt, halten Sie den Schirm fest.",
+                "hu": "A kültér nem védett, tartsa erősen az esernyőt a szélnél.",
+                "ro": "Exteriorul este expus, țineți bine umbrela în vânt.",
+                "en": "The exterior is exposed, hold your umbrella firmly in the wind."
+              }
+            },
+            {
+              "name": "Langstraatspoorbrug (Railway Bridge)",
+              "tip_5lang": {
+                "de": "Offene Brücke, Wind und Regen sind hier besonders spürbar.",
+                "hu": "Nyitott híd, itt a szél és az eső fokozottan érződik.",
+                "ro": "Pod deschis, vântul și ploaia sunt mai intense aici.",
+                "en": "Open bridge, wind and rain are felt more intensely here."
+              }
+            },
+            {
+              "name": "Wandelpark Waalwijk (Walking Park)",
+              "tip_5lang": {
+                "de": "Einige Wege können schlammig sein, festes Schuhwerk empfohlen.",
+                "hu": "Néhány ösvény sáros lehet, vízálló cipő ajánlott.",
+                "ro": "Unele poteci pot fi noroioase, se recomandă încălțăminte adecvată.",
+                "en": "Some paths may be muddy, waterproof footwear is recommended."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Waalwijk hat ein kompaktes Zentrum, nutzen Sie die Arkaden beim Einkaufszentrum.",
+              "Das Schoenenkwartier ist ein hervorragendes Indoor-Ziel für mindestens 2 Stunden.",
+              "Tragen Sie eine wasserfeste Jacke, da der Wind in der Langstraat oft dreht.",
+              "Die Kirche St. Jan hat weite Innenräume, perfekt zum Aufwärmen.",
+              "Die Brücke ist metallisch und bei Nässe glatt, bitte vorsichtig gehen."
+            ],
+            "hu": [
+              "Waalwijk központja kompakt, használja az üzletek előtti fedett részeket.",
+              "A Schoenenkwartier kiváló beltéri program legalább 2 órára.",
+              "Vízálló dzseki ajánlott, mert a Langstraat környékén gyakran fúj a szél.",
+              "A Szent János-templom tágas beltere tökéletes a felmelegedéshez.",
+              "A fémből készült híd nedvesen csúszik, óvatosan lépkedjen rajta."
+            ],
+            "ro": [
+              "Centrul orașului Waalwijk este compact, folosiți arcadele magazinelor.",
+              "Schoenenkwartier este o destinație interioară excelentă pentru cel puțin 2 ore.",
+              "Purtați o jachetă impermeabilă, vântul se schimbă des în zona Langstraat.",
+              "Biserica Sf. Ioan are un interior spațios, ideal pentru a vă încălzi.",
+              "Podul feroviar este metalic și alunecos pe ploaie, mergeți cu grijă."
+            ],
+            "en": [
+              "Waalwijk center is compact, use the shop overhangs for quick cover.",
+              "The Schoenenkwartier is an excellent indoor destination for at least 2 hours.",
+              "Wear a waterproof jacket as the wind often shifts in the Langstraat area.",
+              "St. John's Church has a vast interior, perfect for drying off.",
+              "The railway bridge is metallic and slippery when wet, watch your step."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen beginnt in der Hooisteeg, wo die Kälte in den alten Gassen steht. Vormittags wärmen wir uns in der beeindruckenden St. Janskerk auf, bevor wir das beheizte Schuhmuseum besuchen. Mittags bietet das Schoenenkwartier Schutz vor dem winterlichen Wind. Da die Sonne bereits gegen 16:30 Uhr untergeht, erreichen wir die Mühle und die Brücke im goldenen Dämmerlicht, bevor wir den Tag im beleuchteten Wandelpark abschließen.",
+            "hu": "A fagyos reggel a Hooisteeg szűk utcáin indul, ahol a hideg megül a házak között. Délelőtt a monumentális Szent János-templom belső terében melegszünk fel, majd a fűtött cipőmúzeum következik. A déli órákat a Schoenenkwartier modern termeiben töltjük, védve a téli széltől. Mivel a nap korán, 16:30 körül nyugszik, a malmot és a hidat már szürkületben érjük el, végül a Wandelpark téli fényeiben pihenünk meg.",
+            "ro": "O dimineață geroasă începe în Hooisteeg, unde frigul persistă pe străzile vechi. Înainte de prânz, ne încălzim în biserica Sf. Ioan, apoi vizităm muzeul pantofilor, care este bine încălzit. Prânzul este petrecut în interiorul Schoenenkwartier, feriți de vântul de iarnă. Deoarece soarele apune devreme (în jur de 16:30), ajungem la moară și pod în amurg, încheind ziua în atmosfera de iarnă din Wandelpark.",
+            "en": "A frosty morning begins in Hooisteeg, where the cold lingers in the old alleys. Before noon, we warm up inside the grand St. John's Church, followed by a visit to the heated shoe museum. Midday is spent in the Schoenenkwartier, sheltered from the winter wind. As the sun sets early around 16:30, we reach the windmill and bridge in the twilight, finishing the day in the winter atmosphere of Wandelpark."
+          },
+          "stops": [
+            {
+              "name": "Hooisteeg (Historic Street)",
+              "tip_5lang": {
+                "de": "Morgens oft Reif auf dem Pflaster, Vorsicht beim Gehen.",
+                "hu": "Reggelente gyakori a zúzmara a köveken, vigyázzon a lépteire.",
+                "ro": "Dimineața este adesea brumă pe pavaj, atenție la alunecare.",
+                "en": "Morning frost is common on the stones, watch your step."
+              }
+            },
+            {
+              "name": "Raadhuis Waalwijk (Old Town Hall)",
+              "tip_5lang": {
+                "de": "Das Rathaus wirkt im Winterlicht besonders stimmungsvoll.",
+                "hu": "A városháza a téli fényekben különösen hangulatos látvány.",
+                "ro": "Primăria arată deosebit de atmosferic în lumina de iarnă.",
+                "en": "The town hall looks particularly atmospheric in winter light."
+              }
+            },
+            {
+              "name": "Sint-Jan de Doperkerk (St. John the Baptist Church)",
+              "tip_5lang": {
+                "de": "Die Kirche ist meist kühl, behalten Sie den Mantel an.",
+                "hu": "A templom belső tere hűvös lehet, tartsa magán a kabátot.",
+                "ro": "Interiorul bisericii este răcoros, păstrați haina pe dvs.",
+                "en": "The church interior can be chilly, keep your coat on."
+              }
+            },
+            {
+              "name": "Schoenenkwartier (Shoe Quarter Museum)",
+              "tip_5lang": {
+                "de": "Angenehm temperiert, idealer Ort für die kalte Mittagszeit.",
+                "hu": "Kellemes hőmérséklet, ideális hely a hideg délidőben.",
+                "ro": "Temperatură plăcută, loc ideal pentru orele reci de prânz.",
+                "en": "Pleasantly tempered, ideal place for the cold midday hours."
+              }
+            },
+            {
+              "name": "Molen Nooit Volmaakt (Never Perfect Mill)",
+              "tip_5lang": {
+                "de": "Sehr windanfällig im Winter, warme Handschuhe sind wichtig.",
+                "hu": "Télen nagyon szeles, a meleg kesztyű elengedhetetlen.",
+                "ro": "Foarte vântos iarna, mânușile groase sunt esențiale.",
+                "en": "Very windy in winter, warm gloves are essential here."
+              }
+            },
+            {
+              "name": "Langstraatspoorbrug (Railway Bridge)",
+              "tip_5lang": {
+                "de": "Die Metallbrücke kann bei Frost extrem glatt sein.",
+                "hu": "A fémhíd fagy esetén rendkívül csúszós lehet.",
+                "ro": "Podul metalic poate fi extrem de alunecos în caz de îngheț.",
+                "en": "The metal bridge can be extremely slippery in freezing weather."
+              }
+            },
+            {
+              "name": "Wandelpark Waalwijk (Walking Park)",
+              "tip_5lang": {
+                "de": "Genießen Sie die blaue Stunde, bevor es um 17 Uhr dunkel wird.",
+                "hu": "Élvezze a kék órát, mielőtt 17 órakor teljesen besötétedik.",
+                "ro": "Bucurați-vă de amurg înainte de a se întuneca la ora 17:00.",
+                "en": "Enjoy the blue hour before it gets dark at 17:00."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Besuchen Sie das Schoenenkwartier für eine längere Aufwärmpause.",
+              "Die Sonne geht früh unter, planen Sie die Brücke vor 16 Uhr ein.",
+              "In der Nähe der Kirche gibt es Cafés für eine heiße Schokolade.",
+              "Der Wind von den Poldern kann im Winter sehr schneidend sein.",
+              "Das Rathaus ist oft festlich beleuchtet im Dezember."
+            ],
+            "hu": [
+              "Töltsön több időt a Schoenenkwartierben a felmelegedéshez.",
+              "A nap korán nyugszik, a hidat 16 óra előtt érdemes megnézni.",
+              "A templom környékén több kávézó várja egy forró csokoládéra.",
+              "A polderek felől fújó szél télen nagyon metsző lehet.",
+              "A városháza decemberben gyakran ünnepi kivilágítást kap."
+            ],
+            "ro": [
+              "Vizitați Schoenenkwartier pentru o pauză mai lungă de încălzire.",
+              "Soarele apune devreme, planificați vizita la pod înainte de ora 16:00.",
+              "Lângă biserică există cafenele pentru o ciocolată caldă.",
+              "Vântul de pe poldere poate fi foarte tăios în timpul iernii.",
+              "Primăria este adesea iluminată festiv în luna decembrie."
+            ],
+            "en": [
+              "Spend extra time in the Schoenenkwartier to warm up properly.",
+              "Sun sets early, try to reach the bridge before 16:00.",
+              "Several cafes near the church offer great hot chocolate stops.",
+              "The wind from the polders can be very biting in winter.",
+              "The Town Hall often features festive lighting in December."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -790,6 +998,232 @@
           "Be aware of scooters and other cyclists, especially in the city center.",
           "A bike bell is essential for warning pedestrians."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag auf dem Fahrrad in Waalwijk erfordert gute Ausrüstung. Wir starten am Wandelpark und radeln schnell zum Rathaus. Die St. Janskerk bietet eine trockene Pause für die Besichtigung. Den Großteil des Mittags verbringen wir im Schoenenkwartier, während die Fahrräder draußen warten. Nachmittags geht es an der Kerk aan de Haven vorbei zur Mühle und über die Langstraat-Brücke, wobei wir dem Wind trotzen.",
+            "hu": "Egy esős bringás nap Waalwijkban jó felszerelést igényel. A Wandelparktól indulunk, és gyorsan a városházához tekerünk. A Szent János-templom száraz pihenőt kínál a nézelődéshez. A délidőt a Schoenenkwartierben töltjük, amíg a biciklik kint várnak. Délután a kikötői templom és a malom érintésével tekerünk át a Langstraat hídon, dacolva a szembe széllel.",
+            "ro": "O zi ploioasă de bicicletă în Waalwijk necesită echipament adecvat. Pornim de la Wandelpark și pedalăm rapid spre primărie. Biserica Sf. Ioan oferă o pauză uscată pentru vizitare. Prânzul îl petrecem la Schoenenkwartier, în timp ce bicicletele așteaptă afară. După-amiaza trecem pe lângă biserica portului spre moară și peste podul Langstraat, luptând cu vântul.",
+            "en": "A rainy cycling day in Waalwijk requires good gear. We start at Wandelpark and cycle quickly to the Town Hall. St. John's Church offers a dry break for sightseeing. Midday is spent in the Schoenenkwartier while bikes wait outside. In the afternoon, we pass the harbor church and the windmill, cycling over the Langstraat bridge while defying the wind."
+          },
+          "stops": [
+            {
+              "name": "Wandelpark Waalwijk",
+              "tip_5lang": {
+                "de": "Vorsicht bei nassen Blättern auf den Parkwegen.",
+                "hu": "Vigyázat a vizes levelekkel a park ösvényein.",
+                "ro": "Atenție la frunzele umede pe aleile parcului.",
+                "en": "Watch out for wet leaves on the park paths."
+              }
+            },
+            {
+              "name": "Raadhuis Waalwijk",
+              "tip_5lang": {
+                "de": "Fahrradständer sind in der Nähe vorhanden, aber unüberdacht.",
+                "hu": "Kerékpártárolók vannak a közelben, de nem fedettek.",
+                "ro": "Există rastele de biciclete în apropiere, dar neacoperite.",
+                "en": "Bike racks are available nearby, but they are uncovered."
+              }
+            },
+            {
+              "name": "Hooisteeg",
+              "tip_5lang": {
+                "de": "Langsam fahren, das nasse Pflaster ist für Reifen rutschig.",
+                "hu": "Hajtson lassan, a vizes macskakő csúszik a gumiknak.",
+                "ro": "Pedalați încet, pavajul umed este alunecos pentru cauciucuri.",
+                "en": "Ride slowly, the wet cobblestones are slippery for tires."
+              }
+            },
+            {
+              "name": "Sint-Jan de Doperkerk",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Halt für eine trockene Besichtigung.",
+                "hu": "Használja ki a megállót egy száraz városnézésre.",
+                "ro": "Folosiți oprirea pentru o vizită la interior, la adăpost.",
+                "en": "Use this stop for a dry sightseeing break."
+              }
+            },
+            {
+              "name": "Schoenenkwartier",
+              "tip_5lang": {
+                "de": "Idealer langer Stopp, um die Kleidung trocknen zu lassen.",
+                "hu": "Ideális hosszú megálló a ruházat megszárításához.",
+                "ro": "Oprire lungă ideală pentru a vă usca hainele.",
+                "en": "Ideal long stop to let your clothes dry off."
+              }
+            },
+            {
+              "name": "Kerk aan de Haven",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp, bei starkem Regen weiterfahren.",
+                "hu": "Rövid fotómegálló, heves esőben hajtson tovább.",
+                "ro": "Scurt popas foto, continuați dacă plouă torențial.",
+                "en": "Short photo stop, keep riding if rain is heavy."
+              }
+            },
+            {
+              "name": "Molen Nooit Volmaakt",
+              "tip_5lang": {
+                "de": "Achtung vor Windböen beim Abstellen des Rades.",
+                "hu": "Vigyázzon a széllökésekre a bicikli leállításakor.",
+                "ro": "Atenție la rafalele de vânt când parcați bicicleta.",
+                "en": "Beware of wind gusts when parking your bike."
+              }
+            },
+            {
+              "name": "Langstraatspoorbrug",
+              "tip_5lang": {
+                "de": "Glatte Metallfugen auf der Brücke, vorsichtig bremsen.",
+                "hu": "Csúszós fémillesztések a hídon, óvatosan fékezzen.",
+                "ro": "Îmbinări metalice alunecoase pe pod, frânați cu grijă.",
+                "en": "Slippery metal joints on the bridge, brake carefully."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vollständige Regenbekleidung ist für diese 8,5 km Tour nötig.",
+              "Die Langstraat-Brücke ist exponiert, halten Sie den Lenker fest.",
+              "Waalwijk hat gute Radwege, aber Regenwasser steht oft in Senken.",
+              "Sichern Sie Ihre Wertsachen in wasserdichten Taschen.",
+              "Bremsen Sie auf Kopfsteinpflaster früher als gewöhnlich."
+            ],
+            "hu": [
+              "Teljes esőruházat szükséges ehhez a 8,5 km-es túrához.",
+              "A Langstraat híd nagyon kitett, erősen fogja a kormányt.",
+              "Waalwijkban jók az utak, de a mélyedésekben megáll a víz.",
+              "Értékeit tárolja vízhatlan táskákban a tekerés alatt.",
+              "A macskaköves részeken a szokásosnál korábban kezdjen fékezni."
+            ],
+            "ro": [
+              "Echipamentul complet de ploaie este necesar pentru acest traseu.",
+              "Podul Langstraat este expus, țineți bine ghidonul.",
+              "Drumurile sunt bune, dar apa se poate aduna în denivelări.",
+              "Păstrați obiectele de valoare în genți impermeabile.",
+              "Frânați mai devreme decât de obicei pe pavajul cu piatră cubică."
+            ],
+            "en": [
+              "Full rain gear is essential for this 8.5 km cycling tour.",
+              "The Langstraat bridge is very exposed, grip your handlebars tightly.",
+              "Waalwijk has good cycle paths, but puddles often form in low spots.",
+              "Secure your valuables in waterproof bags while riding.",
+              "Brake earlier than usual on the cobblestone sections."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in der Langstraat bedeutet kalten Gegenwind, aber klare Luft. Wir starten am frostigen Wandelpark und radeln zum Rathaus. Ein Halt an der St. Janskerk lässt uns kurz aufwärmen. Mittags genießen wir die Wärme im Schoenenkwartier. Nachmittags besuchen wir die Kirche am Hafen und die Mühle, bevor wir die Brücke im Dämmerlicht überqueren. Die Rückfahrt erfolgt mit Fahrradbeleuchtung.",
+            "hu": "A téli tekerés a Langstraat környékén hideg szembe szelet, de tiszta levegőt ígér. A fagyos Wandelparktól indulunk a városháza felé. A Szent János-templomban tett megálló segít átmelegedni. Délben a Schoenenkwartier vendégszeretetét élvezzük. Délután a kikötői templom és a malom után szürkületben kelünk át a hídon. A visszaút már bekapcsolt lámpákkal történik.",
+            "ro": "Pedalatul pe timp de iarnă în Langstraat înseamnă vânt rece, dar aer curat. Pornim din Wandelparkul înghețat spre primărie. O oprire la biserica Sf. Ioan ne ajută să ne încălzim. La prânz ne bucurăm de căldura din Schoenenkwartier. După-amiaza vizităm biserica din port și moara, apoi traversăm podul în amurg. Întoarcerea se face cu luminile bicicletei aprinse.",
+            "en": "Winter cycling in the Langstraat means cold headwinds but crisp air. We start at the frosty Wandelpark and head to the Town Hall. A stop at St. John's Church lets us warm up briefly. Midday is spent in the warmth of the Schoenenkwartier. Afternoon visits to the harbor church and windmill lead to a twilight bridge crossing. The return trip requires bike lights."
+          },
+          "stops": [
+            {
+              "name": "Wandelpark Waalwijk",
+              "tip_5lang": {
+                "de": "Morgens kann Raureif die Wege rutschig machen.",
+                "hu": "Reggelente a zúzmara csúszóssá teheti az utakat.",
+                "ro": "Dimineața, chiciura poate face aleile alunecoase.",
+                "en": "Morning frost can make the paths slippery."
+              }
+            },
+            {
+              "name": "Raadhuis Waalwijk",
+              "tip_5lang": {
+                "de": "Kurzer Stopp für Fotos, Hände in den Handschuhen lassen.",
+                "hu": "Rövid fotómegálló, tartsa a kezét a kesztyűben.",
+                "ro": "Oprire scurtă pentru poze, păstrați mânușile pe mâini.",
+                "en": "Short photo stop, keep your hands in your gloves."
+              }
+            },
+            {
+              "name": "Hooisteeg",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenem Kondenswasser zwischen den Steinen.",
+                "hu": "Vigyázat a kövek közé fagyott kondenzvízzel.",
+                "ro": "Atenție la condensul înghețat dintre pietre.",
+                "en": "Beware of frozen condensation between the stones."
+              }
+            },
+            {
+              "name": "Sint-Jan de Doperkerk",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad sicher ab und wärmen Sie sich innen auf.",
+                "hu": "Állítsa le biztonságosan a gépet, és melegedjen bent.",
+                "ro": "Parcați bicicleta în siguranță și încălziți-vă în interior.",
+                "en": "Park your bike securely and warm up inside."
+              }
+            },
+            {
+              "name": "Schoenenkwartier",
+              "tip_5lang": {
+                "de": "Langer Aufenthalt im Warmen, Akkus von E-Bikes schonen.",
+                "hu": "Hosszú tartózkodás a melegben, óvja az e-bike akkumulátorát.",
+                "ro": "Ședere lungă la căldură, protejați bateria bicicletei electrice.",
+                "en": "Long stay in the warm, protect e-bike batteries if applicable."
+              }
+            },
+            {
+              "name": "Kerk aan de Haven",
+              "tip_5lang": {
+                "de": "Im Winter oft geschlossene Türen, Außenansicht genießen.",
+                "hu": "Télen gyakran zárva, élvezze a külső látványt.",
+                "ro": "Iarna ușile sunt adesea închise, admirați exteriorul.",
+                "en": "Doors often closed in winter, enjoy the exterior view."
+              }
+            },
+            {
+              "name": "Molen Nooit Volmaakt",
+              "tip_5lang": {
+                "de": "Sehr kalt durch den Wind, halten Sie den Stopp kurz.",
+                "hu": "A szél miatt nagyon hideg, tartsa rövidre a megállót.",
+                "ro": "Foarte frig din cauza vântului, faceți o oprire scurtă.",
+                "en": "Very cold due to the wind, keep the stop brief."
+              }
+            },
+            {
+              "name": "Langstraatspoorbrug",
+              "tip_5lang": {
+                "de": "Glatteisgefahr auf der Metallkonstruktion, extrem vorsichtig.",
+                "hu": "Fagyveszély a fémszerkezeten, legyen rendkívül óvatos.",
+                "ro": "Pericol de polei pe structura metalică, fiți extrem de precauți.",
+                "en": "Risk of black ice on the metal structure, be extremely careful."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Handschuhe und Gesichtsschutz gegen den Wind empfohlen.",
+              "Prüfen Sie Ihre Fahrradbeleuchtung vor der Abfahrt.",
+              "E-Bike Akkus verlieren bei Kälte schneller an Kapazität.",
+              "Die Metallbrücke friert zuerst ein – Vorsicht bei Kurven.",
+              "Trinken Sie zwischendurch etwas Warmes im Stadtzentrum."
+            ],
+            "hu": [
+              "Meleg kesztyű és arcvédő ajánlott a szél ellen.",
+              "Indulás előtt ellenőrizze a kerékpár világítását.",
+              "Az e-bike akkumulátorok hidegben gyorsabban merülnek.",
+              "A fémhíd fagy meg először – óvatosan a kanyarokban.",
+              "Igyon valami forrót a városközpontban a megállók között."
+            ],
+            "ro": [
+              "Se recomandă mânuși calde și protecție pentru față contra vântului.",
+              "Verificați luminile bicicletei înainte de plecare.",
+              "Bateriile de e-bike pierd capacitate mai repede la frig.",
+              "Podul metalic îngheață primul – atenție la viraje.",
+              "Beți ceva cald în centrul orașului între opriri."
+            ],
+            "en": [
+              "Warm gloves and face protection recommended against the wind.",
+              "Check your bike lights before starting the tour.",
+              "E-bike batteries lose capacity faster in the cold.",
+              "The metal bridge freezes first – be careful in turns.",
+              "Have a warm drink in the city center between stops."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1170,6 +1604,214 @@
           "A GPS is essential for navigating between clusters.",
           "Plan for extra time for traffic, especially during peak hours."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Waalwijk auch bei Regen komfortabel. Wir parken am Wandelpark für einen kurzen, geschützten Spaziergang. Danach geht es zum Zentrumsparkplatz. Das Schoenenkwartier ist das Highlight des Mittags, gefolgt von der St. Janskerk, die man fast direkt anfahren kann. Nachmittags fahren wir zum Halvezolenpad, um die Mühle und Brücke mit minimalen Fußwegen im Regen zu besichtigen.",
+            "hu": "Autóval Waalwijk esőben is kényelmesen felfedezhető. A Wandelparknál parkolunk egy rövid, védett sétához, majd a központi parkoló felé vesszük az irányt. A Schoenenkwartier a délidő fénypontja, majd a Szent János-templom következik, amely szinte közvetlenül megközelíthető. Délután a Halvezolenpadhoz hajtunk, hogy a malmot és a hidat minimális esőben tett sétával nézzük meg.",
+            "ro": "Cu mașina, Waalwijk este confortabil chiar și pe ploaie. Parcăm la Wandelpark pentru o scurtă plimbare protejată, apoi mergem spre parcarea centrală. Schoenenkwartier este punctul culminant al prânzului, urmat de biserica Sf. Ioan, unde se poate ajunge aproape direct. După-amiaza conducem spre Halvezolenpad pentru a vedea moara și podul cu mers minim prin ploaie.",
+            "en": "By car, Waalwijk is comfortable to explore even in the rain. We park at Wandelpark for a short, sheltered walk, then head to the center parking. The Schoenenkwartier is the midday highlight, followed by St. John's Church, which can be reached almost directly. In the afternoon, we drive to Halvezolenpad to see the windmill and bridge with minimal walking in the rain."
+          },
+          "stops": [
+            {
+              "name": "Wandelpark Parking",
+              "tip_5lang": {
+                "de": "Parkplatz kann bei Starkregen Pfützen bilden.",
+                "hu": "A parkolóban heves esőzéskor tócsák alakulhatnak ki.",
+                "ro": "Parcarea poate avea bălți în caz de ploaie torențială.",
+                "en": "Parking lot may form puddles during heavy rain."
+              }
+            },
+            {
+              "name": "Wandelpark Waalwijk",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Waldteil für mehr Schutz vor Regen.",
+                "hu": "Használja az erdős részt a jobb esővédelem érdekében.",
+                "ro": "Folosiți zona împădurită pentru mai multă protecție.",
+                "en": "Use the wooded section for better rain protection."
+              }
+            },
+            {
+              "name": "Drive to Center Parking",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Parkhaus, um trocken auszusteigen.",
+                "hu": "Válasszon parkolóházat a száraz kiszálláshoz.",
+                "ro": "Alegeți o parcare etajată pentru a coborî la uscat.",
+                "en": "Choose a parking garage to exit the car in the dry."
+              }
+            },
+            {
+              "name": "Schoenenkwartier",
+              "tip_5lang": {
+                "de": "Kurzer Weg vom Parkplatz, ideal bei schlechtem Wetter.",
+                "hu": "Rövid út a parkolótól, ideális rossz időben.",
+                "ro": "Drum scurt de la parcare, ideal pe vreme rea.",
+                "en": "Short walk from the parking lot, ideal in bad weather."
+              }
+            },
+            {
+              "name": "Town Hall & St. John's Church",
+              "tip_5lang": {
+                "de": "Parkplätze direkt vor der Kirche oft verfügbar.",
+                "hu": "Közvetlenül a templom előtt gyakran van szabad hely.",
+                "ro": "Locuri de parcare adesea disponibile chiar în fața bisericii.",
+                "en": "Parking spots often available directly in front of the church."
+              }
+            },
+            {
+              "name": "Drive to Halvezolenpad Parking",
+              "tip_5lang": {
+                "de": "Gute Sicht auf die Mühle bereits aus dem Auto.",
+                "hu": "A malomra már az autóból is jó kilátás nyílik.",
+                "ro": "Vedere bună spre moară chiar din mașină.",
+                "en": "Good view of the windmill even from inside the car."
+              }
+            },
+            {
+              "name": "Langstraatspoorbrug & Molen Nooit Volmaakt",
+              "tip_5lang": {
+                "de": "Ein 5-Minuten-Lauf im Regen reicht für Fotos.",
+                "hu": "Egy 5 perces futás az esőben elég a fotókhoz.",
+                "ro": "O fugă de 5 minute prin ploaie este suficientă pentru poze.",
+                "en": "A 5-minute dash in the rain is enough for photos."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Parken Sie im Parkhaus 'De Els' für direkten Zugang zum Zentrum.",
+              "Das Auto bietet perfekten Schutz zwischen den Highlights.",
+              "Vermeiden Sie unbefestigte Parkstreifen bei starkem Regen.",
+              "Die Sicht kann auf der A59 bei Sprühregen eingeschränkt sein.",
+              "Halten Sie einen Regenschirm für die kurzen Wege bereit."
+            ],
+            "hu": [
+              "Parkoljon a 'De Els' parkolóházban a központ közvetlen eléréséhez.",
+              "Az autó tökéletes védelmet nyújt a látnivalók között.",
+              "Kerülje a burkolatlan parkolókat heves esőzéskor.",
+              "A látási viszonyok korlátozottak lehetnek az A59-esen.",
+              "Tartson kéznél esernyőt a rövid gyalogos szakaszokhoz."
+            ],
+            "ro": [
+              "Parcați în garajul 'De Els' pentru acces direct în centru.",
+              "Mașina oferă protecție perfectă între obiective.",
+              "Evitați parcările neasfaltate în caz de ploaie grea.",
+              "Vizibilitatea poate fi redusă pe autostrada A59.",
+              "Aveți pregătită o umbrelă pentru distanțele scurte."
+            ],
+            "en": [
+              "Park in 'De Els' parking garage for direct center access.",
+              "The car provides perfect shelter between the highlights.",
+              "Avoid unpaved parking strips during heavy rain.",
+              "Visibility might be limited on the A59 highway during drizzle.",
+              "Keep an umbrella handy for the short walking distances."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein winterlicher Ausflug mit dem Auto schont die Kräfte bei Kälte. Wir beginnen am Wandelpark, wo der Reif auf den Bäumen glitzert. Danach fahren wir ins beheizte Stadtzentrum. Das Schoenenkwartier bietet stundenlange Unterhaltung im Warmen. Nachmittags geht es zur Mühle und Brücke. Den Sonnenuntergang genießen wir fast windgeschützt in der Nähe des Halvezolenpads, bevor wir die beleuchtete Stadt durchqueren.",
+            "hu": "A téli autós kirándulás kíméli az energiát a nagy hidegben. A Wandelparknál kezdünk, ahol a zúzmara csillog a fákon, majd a fűtött városközpontba hajtunk. A Schoenenkwartier órákig tartó szórakozást nyújt a melegben. Délután a malomhoz és a hídhoz megyünk. A naplementét szélvédett helyen élvezzük a Halvezolenpad közelében, mielőtt átvágnánk a kivilágított városon.",
+            "ro": "O excursie de iarnă cu mașina economisește energia pe ger. Începem la Wandelpark, unde chiciura strălucește pe copaci, apoi mergem spre centrul încălzit. Schoenenkwartier oferă ore de divertisment la căldură. După-amiaza mergem la moară și pod. Ne bucurăm de apus feriți de vânt în apropierea Halvezolenpad, înainte de a traversa orașul iluminat.",
+            "en": "A winter car trip saves energy in the biting cold. We start at Wandelpark, where frost glitters on the trees, then drive to the heated city center. The Schoenenkwartier offers hours of entertainment in the warmth. In the afternoon, we head to the windmill and bridge. We enjoy the sunset sheltered from the wind near Halvezolenpad before crossing the illuminated city."
+          },
+          "stops": [
+            {
+              "name": "Wandelpark Parking",
+              "tip_5lang": {
+                "de": "Vorsicht vor glatten Stellen auf dem Parkplatz morgens.",
+                "hu": "Vigyázat a csúszós foltokkal a parkolóban reggelente.",
+                "ro": "Atenție la porțiunile cu gheață în parcare dimineața.",
+                "en": "Watch out for icy spots in the parking lot in the morning."
+              }
+            },
+            {
+              "name": "Wandelpark Waalwijk",
+              "tip_5lang": {
+                "de": "Kurzer Winterspaziergang, danach Auto aufheizen.",
+                "hu": "Rövid téli séta, utána fűtse fel az autót.",
+                "ro": "Scurtă plimbare de iarnă, apoi încălziți mașina.",
+                "en": "Short winter walk, then warm up the car."
+              }
+            },
+            {
+              "name": "Drive to Center Parking",
+              "tip_5lang": {
+                "de": "Die Straßen im Zentrum sind meist gut geräumt.",
+                "hu": "A központi utak általában jól takarítottak.",
+                "ro": "Drumurile centrale sunt de obicei bine deszăpezite.",
+                "en": "Center roads are usually well-cleared of snow."
+              }
+            },
+            {
+              "name": "Schoenenkwartier",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus, um Kaltstarts zu vermeiden.",
+                "hu": "Használjon parkolóházat a hidegindítás elkerülésére.",
+                "ro": "Folosiți parcarea acoperită pentru a evita pornirea la rece.",
+                "en": "Use a parking garage to avoid cold starts if possible."
+              }
+            },
+            {
+              "name": "Town Hall & St. John's Church",
+              "tip_5lang": {
+                "de": "Abends sind die historischen Gebäude oft beleuchtet.",
+                "hu": "Este a történelmi épületek gyakran díszkivilágítást kapnak.",
+                "ro": "Seara, clădirile istorice sunt adesea iluminate.",
+                "en": "The historic buildings are often illuminated in the evening."
+              }
+            },
+            {
+              "name": "Drive to Halvezolenpad Parking",
+              "tip_5lang": {
+                "de": "Vorsicht bei tiefstehender Wintersonne während der Fahrt.",
+                "hu": "Vigyázzon az alacsonyan járó téli nappal vezetés közben.",
+                "ro": "Atenție la soarele de iarnă aflat jos pe cer în timp ce conduceți.",
+                "en": "Beware of the low winter sun while driving."
+              }
+            },
+            {
+              "name": "Langstraatspoorbrug & Molen Nooit Volmaakt",
+              "tip_5lang": {
+                "de": "Warme Jacke für den Weg vom Auto zur Brücke nötig.",
+                "hu": "Meleg kabát kell az autótól a hídig tartó útra.",
+                "ro": "Este necesară o jachetă groasă pentru drumul de la mașină la pod.",
+                "en": "Warm jacket needed for the walk from the car to the bridge."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Ihr Wischwasser Frostschutz hat.",
+              "Die Parkhäuser im Zentrum sind im Winter angenehmer.",
+              "Brücken frieren bei Frost schneller ein als Straßen.",
+              "Planen Sie die Rückfahrt vor Einbruch der Dunkelheit.",
+              "Das Schoenenkwartier hat eine exzellente Heizung."
+            ],
+            "hu": [
+              "Ellenőrizze a fagyállót a szélvédőmosóban.",
+              "A központi parkolóházak télen kellemesebbek.",
+              "A hidak fagy esetén hamarabb jegesednek, mint az utak.",
+              "Tervezze a visszautat a sötétedés beállta előtt.",
+              "A Schoenenkwartier kiváló fűtéssel rendelkezik."
+            ],
+            "ro": [
+              "Asigurați-vă că aveți lichid de parbriz rezistent la îngheț.",
+              "Parcările acoperite din centru sunt mai plăcute iarna.",
+              "Podurile îngheață mai repede decât drumurile obișnuite.",
+              "Planificați întoarcerea înainte de lăsarea întunericului.",
+              "Schoenenkwartier are un sistem de încălzire excelent."
+            ],
+            "en": [
+              "Ensure your windshield washer fluid has antifreeze.",
+              "The central parking garages are more pleasant in winter.",
+              "Bridges freeze faster than regular roads in cold weather.",
+              "Plan your return trip before total darkness sets in.",
+              "The Schoenenkwartier has excellent heating."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1526,6 +2168,196 @@
           "The 9292 app is very useful for planning public transport journeys in the Netherlands.",
           "Be ready at the stop; buses sometimes only stop briefly."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus erreichen wir Waalwijk trocken und zentral. Von der Busstation ist es nur ein kurzer Sprung zur St. Janskerk und zum Rathaus. Das Schoenenkwartier ist der perfekte Ort, um den regnerischen Mittag zu verbringen. Nachmittags nehmen wir den Bus Richtung Wandelpark oder zur Mühle, wobei wir die Wartezeiten an den überdachten Haltestellen verbringen.",
+            "hu": "Busszal Waalwijk központja szárazon és kényelmesen elérhető. A buszállomástól csak egy ugrás a Szent János-templom és a városháza. A Schoenenkwartier tökéletes hely az esős délidő eltöltésére. Délután busszal megyünk a Wandelpark vagy a malom felé, a várakozási időt a fedett megállókban töltve.",
+            "ro": "Cu autobuzul ajungem în Waalwijk central și uscați. De la autogară este doar o scurtă plimbare până la biserica Sf. Ioan și primărie. Schoenenkwartier este locul perfect pentru a petrece prânzul ploios. După-amiaza luăm autobuzul spre Wandelpark sau moară, așteptând în stațiile acoperite.",
+            "en": "By bus, we reach central Waalwijk dry and efficiently. From the bus station, it's just a short hop to St. John's Church and the Town Hall. The Schoenenkwartier is the perfect place to spend a rainy midday. In the afternoon, we take the bus toward Wandelpark or the windmill, spending wait times in sheltered bus stops."
+          },
+          "stops": [
+            {
+              "name": "Bus to Waalwijk Bus Station",
+              "tip_5lang": {
+                "de": "Zentraler Ankunftspunkt mit Kiosk zum Unterstellen.",
+                "hu": "Központi érkezési pont büfével és fedett résszel.",
+                "ro": "Punct central de sosire cu chioșc și zonă de adăpost.",
+                "en": "Central arrival point with a kiosk for shelter."
+              }
+            },
+            {
+              "name": "Sint-Jan de Doperkerk & Town Hall",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg von der Haltestelle im Regen.",
+                "hu": "Rövid gyalogút a megállótól az esőben.",
+                "ro": "Drum scurt pe jos de la stație prin ploaie.",
+                "en": "Short walk from the stop through the rain."
+              }
+            },
+            {
+              "name": "Schoenenkwartier",
+              "tip_5lang": {
+                "de": "Sehr nah an der Haltestelle 'Vredesplein'.",
+                "hu": "Nagyon közel van a 'Vredesplein' megállóhoz.",
+                "ro": "Foarte aproape de stația 'Vredesplein'.",
+                "en": "Very close to the 'Vredesplein' bus stop."
+              }
+            },
+            {
+              "name": "Bus to Wandelpark",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Abfahrtszeiten online bei Regen.",
+                "hu": "Esőben ellenőrizze az indulási időket online.",
+                "ro": "Verificați orele de plecare online pe timp de ploaie.",
+                "en": "Check departure times online when it is raining."
+              }
+            },
+            {
+              "name": "Bus to Windmill/Bridge",
+              "tip_5lang": {
+                "de": "Die Haltestellen an der Mühle sind meist überdacht.",
+                "hu": "A malomnál lévő megállók többsége fedett.",
+                "ro": "Stațiile de la moară sunt în mare parte acoperite.",
+                "en": "Most bus stops near the windmill are sheltered."
+              }
+            },
+            {
+              "name": "Molen Nooit Volmaakt & Langstraatspoorbrug",
+              "tip_5lang": {
+                "de": "Vom Bus zur Brücke sind es ca. 10 Minuten Fußweg.",
+                "hu": "A busztól a hídig kb. 10 perc gyalogút az esőben.",
+                "ro": "De la autobuz la pod sunt aproximativ 10 minute de mers.",
+                "en": "It's about a 10-minute walk from the bus to the bridge."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die App '9292' für Echtzeit-Busverbindungen.",
+              "Die Haltestelle 'Vredesplein' ist ideal für das Stadtzentrum.",
+              "Warten Sie bei Starkregen im Schoenenkwartier auf den Bus.",
+              "Bustickets können meist kontaktlos bezahlt werden.",
+              "Der Busbahnhof Waalwijk hat gute Verbindungen nach Tilburg."
+            ],
+            "hu": [
+              "Használja a '9292' alkalmazást a valós idejű menetrendhez.",
+              "A 'Vredesplein' megálló ideális a városközponthoz.",
+              "Heves esőben várja meg a buszt a Schoenenkwartierben.",
+              "A buszjegyek többsége érintésmentesen fizethető.",
+              "A waalwijki buszállomás jó összeköttetéssel bír Tilburg felé."
+            ],
+            "ro": [
+              "Folosiți aplicația '9292' pentru conexiuni în timp real.",
+              "Stația 'Vredesplein' este ideală pentru centrul orașului.",
+              "Așteptați autobuzul în Schoenenkwartier dacă plouă tare.",
+              "Biletele pot fi plătite de obicei contactless în autobuz.",
+              "Autogara Waalwijk are conexiuni bune spre Tilburg."
+            ],
+            "en": [
+              "Use the '9292' app for real-time bus connections.",
+              "The 'Vredesplein' stop is ideal for the city center.",
+              "Wait for your bus inside the Schoenenkwartier during heavy rain.",
+              "Most bus tickets can be paid for contactlessly.",
+              "Waalwijk bus station has good connections to Tilburg."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Bus bringt uns warm ins winterliche Waalwijk. Nach der Ankunft besichtigen wir das Stadtzentrum, wobei die St. Janskerk ein kühler, aber imposanter erster Halt ist. Mittags verbringen wir viel Zeit im gut geheizten Schoenenkwartier. Nachmittags nutzen wir die Busverbindungen zum Wandelpark oder zur Mühle, um die Gehwege in der Kälte kurz zu halten.",
+            "hu": "A busz melegben visz minkz a téli Waalwijkba. Érkezés után a városközpontot járjuk be, ahol a Szent János-templom az első, hűvös, de impozáns állomás. Délben sok időt töltünk a jól fűtött Schoenenkwartierben. Délután a buszjáratokat használjuk a Wandelpark vagy a malom felé, hogy a hidegben tett gyaloglást minimálisra csökkentsük.",
+            "ro": "Autobuzul ne duce la căldură în Waalwijkul de iarnă. După sosire, vizităm centrul, biserica Sf. Ioan fiind prima oprire răcoroasă, dar impunătoare. La prânz petrecem mult timp în Schoenenkwartierul bine încălzit. După-amiaza folosim conexiunile de autobuz spre Wandelpark sau moară pentru a scurta mersul pe jos prin ger.",
+            "en": "The bus takes us warmly into wintry Waalwijk. After arrival, we tour the city center, with St. John's Church being a cool but grand first stop. Midday is spent in the well-heated Schoenenkwartier. In the afternoon, we use bus connections to Wandelpark or the windmill to keep walking in the cold to a minimum."
+          },
+          "stops": [
+            {
+              "name": "Bus to Waalwijk Bus Station",
+              "tip_5lang": {
+                "de": "In der Wartehalle kann man sich kurz aufwärmen.",
+                "hu": "A váróteremben lehetőség van egy rövid felmelegedésre.",
+                "ro": "Vă puteți încălzi scurt în sala de așteptare.",
+                "en": "You can warm up briefly in the waiting hall."
+              }
+            },
+            {
+              "name": "Sint-Jan de Doperkerk & Town Hall",
+              "tip_5lang": {
+                "de": "Zügig gehen, der Wind im Zentrum kann schneidend sein.",
+                "hu": "Haladjon tempósan, a központban metsző lehet a szél.",
+                "ro": "Mergeți repede, vântul din centru poate fi tăios.",
+                "en": "Walk briskly, the wind in the center can be biting."
+              }
+            },
+            {
+              "name": "Schoenenkwartier",
+              "tip_5lang": {
+                "de": "Beste Aufwärmmöglichkeit des Tages.",
+                "hu": "A nap legjobb felmelegedési lehetősége.",
+                "ro": "Cea mai bună oportunitate de încălzire a zilei.",
+                "en": "Best warming-up opportunity of the day."
+              }
+            },
+            {
+              "name": "Bus to Wandelpark",
+              "tip_5lang": {
+                "de": "Haltestellen können im Winter zugig sein.",
+                "hu": "A megállók télen huzatosak lehetnek.",
+                "ro": "Stațiile pot fi expuse curentului de aer iarna.",
+                "en": "Bus stops can be drafty in winter."
+              }
+            },
+            {
+              "name": "Bus to Windmill/Bridge",
+              "tip_5lang": {
+                "de": "Achten Sie auf die frühen Rückfahrten im Dunkeln.",
+                "hu": "Figyeljen a sötétedés utáni korai járatokra.",
+                "ro": "Atenție la cursele timpurii de după lăsarea întunericului.",
+                "en": "Watch out for early return trips after dark."
+              }
+            },
+            {
+              "name": "Molen Nooit Volmaakt & Langstraatspoorbrug",
+              "tip_5lang": {
+                "de": "Vorsicht vor Glätte auf dem Weg von der Haltestelle.",
+                "hu": "Vigyázat a jegesedéssel a megállótól vezető úton.",
+                "ro": "Atenție la polei pe drumul de la stație.",
+                "en": "Beware of ice on the path from the bus stop."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse sind im Winter meist gut beheizt.",
+              "Die Haltestelle am Schoenenkwartier spart lange Fußwege.",
+              "Prüfen Sie Abfahrtszeiten vorab, um langes Warten zu vermeiden.",
+              "Das Tagesticket lohnt sich für die kurzen Strecken zwischen den POIs.",
+              "In der Nähe der Haltestellen gibt es oft kleine Bäckereien."
+            ],
+            "hu": [
+              "A buszok télen általában jól fűtöttek.",
+              "A Schoenenkwartier megállója megkíméli a hosszú gyaloglástól.",
+              "Ellenőrizze a menetrendet, hogy ne várjon sokat a hidegben.",
+              "A napijegy megéri a látnivalók közötti rövid utazásokhoz.",
+              "A megállók közelében gyakran vannak kis pékségek."
+            ],
+            "ro": [
+              "Autobuzele sunt de obicei bine încălzite iarna.",
+              "Stația de la Schoenenkwartier vă scutește de mersul pe jos.",
+              "Verificați orarul înainte pentru a nu aștepta mult în frig.",
+              "Abonamentul de o zi merită pentru distanțele dintre obiective.",
+              "Lângă stații se află adesea mici brutării."
+            ],
+            "en": [
+              "Buses are usually well-heated in winter.",
+              "The stop at Schoenenkwartier saves a long walk.",
+              "Check schedules beforehand to avoid waiting in the cold.",
+              "A day ticket is worth it for short hops between POIs.",
+              "There are often small bakeries located near the bus stops."
+            ]
+          }
+        }
       }
     }
   }

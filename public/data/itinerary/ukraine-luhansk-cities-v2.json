@@ -366,6 +366,214 @@
           "Check the opening hours of the museums in advance, as they can vary.",
           "Have some cash on hand for small purchases or tips."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgen: Start am Heldenplatz mit Schirm. Kurzer Stopp am Arbeiterdenkmal.\nMittag: Die Kathedrale und die Gorki-Bibliothek bieten perfekten Schutz vor dem Regen.\nNachmittag: Lange Indoor-Besichtigungen im Regional- und Kunstmuseum.\nAbend: Ein kurzer, nasser Weg zurück zum Zentrum, um den Tag gemütlich ausklingen zu lassen.",
+            "hu": "Reggel: Kezdés a Hősök terén esernyővel. Rövid megálló a Munkás-emlékműnél.\nDélben: A katedrális és a Gorkij Könyvtár tökéletes menedéket nyújt az eső elől.\nDélután: Hosszú benti látogatások a Regionális és Művészeti Múzeumban.\nEste: Rövid, vizes séta vissza a központba, a nap kényelmes lezárásaként.",
+            "ro": "Dimineața: Începeți în Piața Eroilor cu umbrela. Scurtă oprire la Monumentul Muncitorului.\nLa prânz: Catedrala și Biblioteca Gorki oferă adăpostul perfect împotriva ploii.\nDupă-amiaza: Vizite lungi în interior la Muzeul Regional și Muzeul de Artă.\nSeara: O scurtă plimbare umedă înapoi spre centru pentru a încheia ziua confortabil.",
+            "en": "Morning: Start at Heroes' Square with an umbrella. Quick stop at the Worker Monument.\nMidday: The Cathedral and Gorky Library provide perfect shelter from the rain.\nAfternoon: Long indoor visits at the Regional and Art Museums.\nEvening: A short, wet walk back to the center to end the day comfortably."
+          },
+          "stops": [
+            {
+              "name": "Heroes' Square",
+              "tip_5lang": {
+                "de": "Schutz unter den Bäumen suchen.",
+                "hu": "Keressen menedéket a fák alatt.",
+                "ro": "Căutați adăpost sub copaci.",
+                "en": "Seek shelter under the trees."
+              }
+            },
+            {
+              "name": "The Worker Monument",
+              "tip_5lang": {
+                "de": "Vorsicht, rutschige Stufen.",
+                "hu": "Vigyázat, csúszós lépcsők.",
+                "ro": "Atenție la treptele alunecoase.",
+                "en": "Watch out for slippery steps."
+              }
+            },
+            {
+              "name": "Vasnev House",
+              "tip_5lang": {
+                "de": "Blick vom Vordach aus.",
+                "hu": "Kilátás az előtető alól.",
+                "ro": "Vedere de sub streașină.",
+                "en": "View from under the canopy."
+              }
+            },
+            {
+              "name": "St. Vladimir Cathedral",
+              "tip_5lang": {
+                "de": "Ideal zum Aufwärmen im Trockenen.",
+                "hu": "Ideális a szárazon való melegedéshez.",
+                "ro": "Ideal pentru a te încălzi la uscat.",
+                "en": "Ideal for warming up in the dry."
+              }
+            },
+            {
+              "name": "Gorky Library",
+              "tip_5lang": {
+                "de": "Garderobe für nasse Mäntel nutzen.",
+                "hu": "Használja a ruhatárat a vizes kabátoknak.",
+                "ro": "Folosiți garderoba pentru haine ude.",
+                "en": "Use the cloakroom for wet coats."
+              }
+            },
+            {
+              "name": "Luhansk Regional Museum",
+              "tip_5lang": {
+                "de": "Perfekt für regnerische Stunden.",
+                "hu": "Tökéletes az esős órákra.",
+                "ro": "Perfect pentru orele ploioase.",
+                "en": "Perfect for rainy hours."
+              }
+            },
+            {
+              "name": "Regional Art Museum",
+              "tip_5lang": {
+                "de": "Trockener Ausklang des Tages.",
+                "hu": "A nap száraz lezárása.",
+                "ro": "Finalul uscat al zilei.",
+                "en": "Dry end to the day."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nehmen Sie einen stabilen Regenschirm mit.",
+              "Die Museen haben kostenlose Garderoben.",
+              "Achten Sie auf Pfützen auf den Gehwegen.",
+              "Die Bibliothek ist ein ruhiger Rückzugsort.",
+              "Wasserfeste Schuhe sind sehr empfehlenswert."
+            ],
+            "hu": [
+              "Vigyen magával egy erős esernyőt.",
+              "A múzeumokban ingyenes ruhatár működik.",
+              "Ügyeljen a tócsákra a járdákon.",
+              "A könyvtár csendes menedékhely.",
+              "Vízálló cipő erősen ajánlott."
+            ],
+            "ro": [
+              "Luați o umbrelă rezistentă.",
+              "Muzeele au garderobe gratuite.",
+              "Atenție la bălțile de pe trotuare.",
+              "Biblioteca este un refugiu liniștit.",
+              "Încălțămintea impermeabilă este recomandată."
+            ],
+            "en": [
+              "Take a sturdy umbrella with you.",
+              "The museums have free cloakrooms.",
+              "Watch out for puddles on the sidewalks.",
+              "The library is a quiet retreat.",
+              "Waterproof shoes are highly recommended."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgen: Kalter Start am verschneiten Heldenplatz. Kurzer Blick auf das Monument.\nMittag: Aufwärmen in der Kathedrale und der gemütlichen Bibliothek.\nNachmittag: Die Museen sind gut geheizt und ideal für den frühen Sonnenuntergang.\nAbend: Ein zügiger Gang durch die kalte Abendluft zurück ins Hotel.",
+            "hu": "Reggel: Hideg kezdés a havas Hősök terén. Rövid pillantás az emlékműre.\nDélben: Melegedés a katedrálisban és a barátságos könyvtárban.\nDélután: A múzeumok jól fűtöttek, ideálisak a korai naplementéhez.\nEste: Gyors séta a hideg esti levegőben vissza a szálláshoz.",
+            "ro": "Dimineața: Start rece în Piața Eroilor înzăpezită. Scurtă privire la monument.\nLa prânz: Încălzire în catedrală și în biblioteca primitoare.\nDupă-amiaza: Muzeele sunt bine încălzite, ideale pentru apusul timpuriu.\nSeara: O plimbare rapidă prin aerul rece de seară înapoi la hotel.",
+            "en": "Morning: Cold start at the snowy Heroes' Square. Quick look at the monument.\nMidday: Warming up in the cathedral and the cozy library.\nAfternoon: The museums are well-heated, ideal for the early sunset.\nEvening: A brisk walk through the cold evening air back to the hotel."
+          },
+          "stops": [
+            {
+              "name": "Heroes' Square",
+              "tip_5lang": {
+                "de": "Vorsicht vor vereisten Wegen.",
+                "hu": "Vigyázat, jeges utak.",
+                "ro": "Atenție la drumurile înghețate.",
+                "en": "Watch out for icy paths."
+              }
+            },
+            {
+              "name": "The Worker Monument",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp in der Kälte.",
+                "hu": "Rövid fotómegálló a hidegben.",
+                "ro": "Scurt popas foto în frig.",
+                "en": "Short photo stop in the cold."
+              }
+            },
+            {
+              "name": "Vasnev House",
+              "tip_5lang": {
+                "de": "Historische Fassade im Schnee.",
+                "hu": "Történelmi homlokzat a hóban.",
+                "ro": "Fațada istorică în zăpadă.",
+                "en": "Historic facade in the snow."
+              }
+            },
+            {
+              "name": "St. Vladimir Cathedral",
+              "tip_5lang": {
+                "de": "Andächtige Wärme im Inneren.",
+                "hu": "Áhítatos meleg a belső térben.",
+                "ro": "Căldură pioasă în interior.",
+                "en": "Devotional warmth inside."
+              }
+            },
+            {
+              "name": "Gorky Library",
+              "tip_5lang": {
+                "de": "Ein warmer Ort zum Lesen.",
+                "hu": "Meleg hely az olvasáshoz.",
+                "ro": "Un loc cald pentru lectură.",
+                "en": "A warm place for reading."
+              }
+            },
+            {
+              "name": "Luhansk Regional Museum",
+              "tip_5lang": {
+                "de": "Garderobe für dicke Winterjacken.",
+                "hu": "Ruhatár a vastag télikabátoknak.",
+                "ro": "Garderobă pentru haine de iarnă.",
+                "en": "Cloakroom for thick winter jackets."
+              }
+            },
+            {
+              "name": "Regional Art Museum",
+              "tip_5lang": {
+                "de": "Besuch vor Einbruch der Dunkelheit.",
+                "hu": "Látogatás sötétedés előtt.",
+                "ro": "Vizită înainte de lăsarea întunericului.",
+                "en": "Visit before darkness falls."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermokleidung.",
+              "Der Sonnenuntergang ist gegen 16:30 Uhr.",
+              "Achten Sie auf rutschiges Kopfsteinpflaster.",
+              "Nutzen Sie die Heizpausen in Gebäuden.",
+              "Warme Getränke in Thermosflaschen helfen."
+            ],
+            "hu": [
+              "Viseljen termaruházatot.",
+              "A naplemente 16:30 körül van.",
+              "Ügyeljen a csúszós macskakövekre.",
+              "Használja ki a fűtött épületeket.",
+              "Meleg ital termoszban sokat segít."
+            ],
+            "ro": [
+              "Purtați haine termice.",
+              "Apusul este în jur de 16:30.",
+              "Atenție la pavajul alunecos.",
+              "Folosiți pauzele de încălzire în clădiri.",
+              "Băuturile calde în termos ajută."
+            ],
+            "en": [
+              "Wear thermal clothing.",
+              "Sunset is around 16:30.",
+              "Watch out for slippery cobblestones.",
+              "Use heating breaks in buildings.",
+              "Warm drinks in thermoses help."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -726,6 +934,214 @@
           "Plan your route in advance, but be flexible.",
           "A helmet is strongly recommended for your safety."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgen: Radfahrt zum Heldenplatz bei leichtem Nieselregen.\nMittag: Schnelle Wege zwischen der Kathedrale und der Bibliothek.\nNachmittag: Parken Sie das Rad sicher und besuchen Sie die Museen.\nAbend: Vorsichtige Rückfahrt auf nassen Straßen zum Ausgangspunkt.",
+            "hu": "Reggel: Kerékpározás a Hősök terére szemerkélő esőben.\nDélben: Gyors utak a katedrális és a könyvtár között.\nDélután: Parkolja le biztonságosan a biciklit, és látogassa meg a múzeumokat.\nEste: Óvatos visszatekerés a vizes utakon a kiindulópontig.",
+            "ro": "Dimineața: Mers cu bicicleta la Piața Eroilor pe burniță.\nLa prânz: Trasee rapide între catedrală și bibliotecă.\nDupă-amiaza: Parcați bicicleta în siguranță și vizitați muzeele.\nSeara: Întoarcere prudentă pe drumuri ude spre punctul de plecare.",
+            "en": "Morning: Cycling to Heroes' Square in light drizzle.\nMidday: Quick routes between the cathedral and the library.\nAfternoon: Park the bike safely and visit the museums.\nEvening: Cautious ride back on wet roads to the starting point."
+          },
+          "stops": [
+            {
+              "name": "Heroes' Square",
+              "tip_5lang": {
+                "de": "Vorsicht beim Bremsen auf Laub.",
+                "hu": "Vigyázat a fékezésnél a leveleken.",
+                "ro": "Atenție la frânarea pe frunze.",
+                "en": "Careful when braking on leaves."
+              }
+            },
+            {
+              "name": "Gorky Library",
+              "tip_5lang": {
+                "de": "Fahrradständer am Eingang nutzen.",
+                "hu": "Használja a kerékpártárolót a bejáratnál.",
+                "ro": "Folosiți rastelele de la intrare.",
+                "en": "Use the bike racks at the entrance."
+              }
+            },
+            {
+              "name": "The Worker Monument",
+              "tip_5lang": {
+                "de": "Kurzer Stopp, Boden ist rutschig.",
+                "hu": "Rövid megálló, a talaj csúszós.",
+                "ro": "Oprire scurtă, solul este alunecos.",
+                "en": "Short stop, ground is slippery."
+              }
+            },
+            {
+              "name": "Vasnev House",
+              "tip_5lang": {
+                "de": "Kurzer Halt für ein schnelles Foto.",
+                "hu": "Rövid megálló egy gyors fotóra.",
+                "ro": "Oprire scurtă pentru o fotografie.",
+                "en": "Short stop for a quick photo."
+              }
+            },
+            {
+              "name": "St. Vladimir Cathedral",
+              "tip_5lang": {
+                "de": "Fahrrad unterstellen falls möglich.",
+                "hu": "Állítsa fedett helyre a biciklit.",
+                "ro": "Adăpostiți bicicleta dacă se poate.",
+                "en": "Cover the bike if possible."
+              }
+            },
+            {
+              "name": "Luhansk Regional Museum",
+              "tip_5lang": {
+                "de": "Lange Pause, Rad gut abschließen.",
+                "hu": "Hosszú szünet, jól zárja le a gépet.",
+                "ro": "Pauză lungă, încuiați bine bicicleta.",
+                "en": "Long break, lock the bike well."
+              }
+            },
+            {
+              "name": "Regional Art Museum",
+              "tip_5lang": {
+                "de": "Letzter Halt im Trockenen.",
+                "hu": "Utolsó megálló száraz helyen.",
+                "ro": "Ultima oprire la uscat.",
+                "en": "Last stop in the dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind bei Regen Pflicht.",
+              "Tragen Sie wasserfeste Kleidung.",
+              "Bremse auf nassem Asphalt testen.",
+              "Vermeiden Sie Markierungen auf der Straße.",
+              "Beleuchtung auch tagsüber einschalten."
+            ],
+            "hu": [
+              "A sárvédő esőben kötelező.",
+              "Viseljen vízálló ruházatot.",
+              "Tesztelje a féket a vizes aszfalton.",
+              "Kerülje az útburkolati jeleket.",
+              "Nappal is kapcsolja be a világítást."
+            ],
+            "ro": [
+              "Apărătorile sunt obligatorii pe ploaie.",
+              "Purtați haine impermeabile.",
+              "Testați frânele pe asfalt ud.",
+              "Evitați marcajele rutiere.",
+              "Aprindeți luminile și ziua."
+            ],
+            "en": [
+              "Mudguards are mandatory in rain.",
+              "Wear waterproof clothing.",
+              "Test brakes on wet asphalt.",
+              "Avoid road markings.",
+              "Turn on lights even during the day."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgen: Frische Fahrt durch das winterliche Luhansk zum Heldenplatz.\nMittag: Die Strecke zwischen den Monumenten ist kurz, ideal bei Kälte.\nNachmittag: Aufwärmen in den Museen, während das Rad draußen wartet.\nAbend: Rückfahrt vor Einbruch der Dunkelheit und Frost.",
+            "hu": "Reggel: Frissítő tekerés a télies Luhanszkban a Hősök teréig.\nDélben: Az emlékművek közötti táv rövid, ideális hidegben.\nDélután: Melegedés a múzeumokban, amíg a bicikli kint vár.\nEste: Hazatekerés a sötétedés és a fagy beállta előtt.",
+            "ro": "Dimineața: Călătorie răcoroasă prin Luganskul iernatic spre Piața Eroilor.\nLa prânz: Distanța între monumente e scurtă, ideală pe frig.\nDupă-amiaza: Încălzire în muzee, în timp ce bicicleta așteaptă afară.\nSeara: Întoarcere înainte de lăsarea întunericului și a înghețului.",
+            "en": "Morning: Fresh ride through wintry Luhansk to Heroes' Square.\nMidday: The route between monuments is short, ideal in the cold.\nAfternoon: Warming up in the museums while the bike waits outside.\nEvening: Ride back before dark and frost set in."
+          },
+          "stops": [
+            {
+              "name": "Heroes' Square",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenen Pfützen.",
+                "hu": "Vigyázat a fagyott tócsákkal.",
+                "ro": "Atenție la bălțile înghețate.",
+                "en": "Watch out for frozen puddles."
+              }
+            },
+            {
+              "name": "Gorky Library",
+              "tip_5lang": {
+                "de": "Kurze Pause zum Händewärmen.",
+                "hu": "Rövid szünet kézmelegítésre.",
+                "ro": "Scurtă pauză pentru încălzirea mâinilor.",
+                "en": "Short break to warm hands."
+              }
+            },
+            {
+              "name": "The Worker Monument",
+              "tip_5lang": {
+                "de": "Kalter Wind am Denkmal.",
+                "hu": "Hideg szél az emlékműnél.",
+                "ro": "Vânt rece la monument.",
+                "en": "Cold wind at the monument."
+              }
+            },
+            {
+              "name": "Vasnev House",
+              "tip_5lang": {
+                "de": "Schneller Stopp, nicht auskühlen.",
+                "hu": "Gyors megálló, ne hűljön ki.",
+                "ro": "Oprire rapidă, nu vă răciți.",
+                "en": "Quick stop, don't get cold."
+              }
+            },
+            {
+              "name": "St. Vladimir Cathedral",
+              "tip_5lang": {
+                "de": "Platz zum Aufwärmen im Inneren.",
+                "hu": "Hely a benti melegedéshez.",
+                "ro": "Loc pentru încălzire în interior.",
+                "en": "Place for warming up inside."
+              }
+            },
+            {
+              "name": "Luhansk Regional Museum",
+              "tip_5lang": {
+                "de": "Rad sicher und trocken abstellen.",
+                "hu": "Állítsa a gépet biztonságos helyre.",
+                "ro": "Parcați bicicleta sigur și uscat.",
+                "en": "Park the bike safely and dryly."
+              }
+            },
+            {
+              "name": "Regional Art Museum",
+              "tip_5lang": {
+                "de": "Letzte Etappe vor dem Frost.",
+                "hu": "Utolsó szakasz a fagy előtt.",
+                "ro": "Ultima etapă înainte de îngheț.",
+                "en": "Last leg before the frost."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winddichte Handschuhe verwenden.",
+              "Reifendruck leicht senken für Grip.",
+              "Kette nach der Fahrt trocknen.",
+              "Mehrlagige Kleidung (Zwiebelprinzip).",
+              "Vorsicht bei Schneematsch."
+            ],
+            "hu": [
+              "Használjon szélálló kesztyűt.",
+              "Engedje le kicsit a guminyomást.",
+              "Tekerés után szárítsa meg a láncot.",
+              "Réteges öltözködés javasolt.",
+              "Vigyázat a háskás hóval."
+            ],
+            "ro": [
+              "Folosiți mănuși rezistente la vânt.",
+              "Reduceți presiunea în pneuri.",
+              "Uscați lanțul după cursă.",
+              "Îmbrăcăminte în straturi.",
+              "Atenție la zăpada topită."
+            ],
+            "en": [
+              "Use windproof gloves.",
+              "Lower tire pressure slightly for grip.",
+              "Dry the chain after the ride.",
+              "Layered clothing is recommended.",
+              "Watch out for slush."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1086,6 +1502,214 @@
           "Be aware of local traffic laws and parking restrictions.",
           "The cluster-walking concept saves time and parking fees."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgen: Bequeme Fahrt zum Heldenplatz, Parken direkt in der Nähe.\nMittag: Kurze Wege zwischen den Sehenswürdigkeiten, das Auto bleibt trocken.\nNachmittag: Besuch der Museen mit praktischem Parkplatz vor der Tür.\nAbend: Entpannte Rückfahrt durch das regnerische Stadtzentrum.",
+            "hu": "Reggel: Kényelmes út a Hősök terére, parkolás a közelben.\nDélben: Rövid utak a látnivalók között, az autó száraz marad.\nDélután: Múzeumlátogatás praktikus parkolással az ajtó előtt.\nEste: Pihentető visszautazás az esős városközponton keresztül.",
+            "ro": "Dimineața: Călătorie confortabilă spre Piața Eroilor, parcare în apropiere.\nLa prânz: Trasee scurte între obiective, mașina rămâne uscată.\nDupă-amiaza: Vizită la muzee cu parcare practică la intrare.\nSeara: Întoarcere relaxată prin centrul ploios al orașului.",
+            "en": "Morning: Comfortable drive to Heroes' Square, parking directly nearby.\nMidday: Short routes between sights, the car stays dry.\nAfternoon: Museum visit with practical parking in front of the door.\nEvening: Relaxed drive back through the rainy city center."
+          },
+          "stops": [
+            {
+              "name": "Heroes' Square",
+              "tip_5lang": {
+                "de": "Parkhaus in der Nähe nutzen.",
+                "hu": "Használja a közeli parkolóházat.",
+                "ro": "Folosiți parcarea din apropiere.",
+                "en": "Use the nearby parking garage."
+              }
+            },
+            {
+              "name": "The Worker Monument",
+              "tip_5lang": {
+                "de": "Stopp direkt am Straßenrand.",
+                "hu": "Megállás közvetlenül az út szélén.",
+                "ro": "Oprire direct la marginea drumului.",
+                "en": "Stop directly at the roadside."
+              }
+            },
+            {
+              "name": "Vasnev House",
+              "tip_5lang": {
+                "de": "Kurzer Halt, Motor anlassen.",
+                "hu": "Rövid megálló, hagyja járni a motort.",
+                "ro": "Oprire scurtă, lăsați motorul pornit.",
+                "en": "Short stop, leave the engine running."
+              }
+            },
+            {
+              "name": "St. Vladimir Cathedral",
+              "tip_5lang": {
+                "de": "Großer Parkplatz vorhanden.",
+                "hu": "Nagy parkoló áll rendelkezésre.",
+                "ro": "Parcare mare disponibilă.",
+                "en": "Large parking lot available."
+              }
+            },
+            {
+              "name": "Gorky Library",
+              "tip_5lang": {
+                "de": "Zufahrt direkt vor den Eingang.",
+                "hu": "Behajtás közvetlenül a bejáratig.",
+                "ro": "Acces direct în fața intrării.",
+                "en": "Access directly in front of the entrance."
+              }
+            },
+            {
+              "name": "Luhansk Regional Museum",
+              "tip_5lang": {
+                "de": "Sicherer Parkplatz am Museum.",
+                "hu": "Biztonságos parkoló a múzeumnál.",
+                "ro": "Parcare sigură la muzeu.",
+                "en": "Safe parking at the museum."
+              }
+            },
+            {
+              "name": "Regional Art Museum",
+              "tip_5lang": {
+                "de": "Letzter Stopp vor der Heimfahrt.",
+                "hu": "Utolsó megálló hazautazás előtt.",
+                "ro": "Ultima oprire înainte de plecare.",
+                "en": "Last stop before the drive home."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Scheibenwischer vorab prüfen.",
+              "Achten Sie auf Spritzwasser.",
+              "Parkplätze sind bei Regen begehrt.",
+              "Nutzen Sie das Auto als Umkleide.",
+              "Licht bei schlechter Sicht an."
+            ],
+            "hu": [
+              "Ellenőrizze az ablaktörlőket.",
+              "Ügyeljen a felcsapódó vízre.",
+              "Esőben népszerűek a parkolók.",
+              "Használja az autót öltözőnek.",
+              "Rossz látási viszonyoknál világítás."
+            ],
+            "ro": [
+              "Verificați ștergătoarele.",
+              "Atenție la apa împroșcată.",
+              "Parcările sunt căutate pe ploaie.",
+              "Folosiți mașina ca vestiar.",
+              "Farurile aprinse la vizibilitate redusă."
+            ],
+            "en": [
+              "Check windshield wipers beforehand.",
+              "Watch out for splashing water.",
+              "Parking spaces are popular in rain.",
+              "Use the car as a changing room.",
+              "Lights on in poor visibility."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgen: Warmer Start mit dem Auto zum verschneiten Heldenplatz.\nMittag: Die Heizung sorgt für Komfort zwischen Kathedrale und Bibliothek.\nNachmittag: Besuch der Museen, während die Dämmerung früh einsetzt.\nAbend: Sichere Fahrt über geräumte Straßen zurück zum Hotel.",
+            "hu": "Reggel: Meleg indulás autóval a havas Hősök terére.\nDélben: A fűtés kényelmet biztosít a katedrális és a könyvtár között.\nDélután: Múzeumlátogatás, miközben korán beköszönt a szürkület.\nEste: Biztonságos utazás a letakarított utakon vissza a szálláshoz.",
+            "ro": "Dimineața: Start cald cu mașina spre Piața Eroilor înzăpezită.\nLa prânz: Încălzirea asigură confort între catedrală și bibliotecă.\nDupă-amiaza: Vizită la muzee, în timp ce amurgul se lasă devreme.\nSeara: Călătorie sigură pe drumuri deszăpezite înapoi la hotel.",
+            "en": "Morning: Warm start by car to the snowy Heroes' Square.\nMidday: The heater ensures comfort between the cathedral and library.\nAfternoon: Museum visit while dusk sets in early.\nEvening: Safe drive over cleared roads back to the hotel."
+          },
+          "stops": [
+            {
+              "name": "Heroes' Square",
+              "tip_5lang": {
+                "de": "Vorsicht beim Einparken im Schnee.",
+                "hu": "Vigyázat a parkolásnál a hóban.",
+                "ro": "Atenție la parcare în zăpadă.",
+                "en": "Careful when parking in snow."
+              }
+            },
+            {
+              "name": "The Worker Monument",
+              "tip_5lang": {
+                "de": "Kurzer Halt für ein Winterfoto.",
+                "hu": "Rövid megálló egy téli fotóra.",
+                "ro": "Scurtă oprire pentru o poză de iarnă.",
+                "en": "Short stop for a winter photo."
+              }
+            },
+            {
+              "name": "Vasnev House",
+              "tip_5lang": {
+                "de": "Blick aus dem warmen Auto.",
+                "hu": "Kilátás a meleg autóból.",
+                "ro": "Vedere din mașina caldă.",
+                "en": "View from the warm car."
+              }
+            },
+            {
+              "name": "St. Vladimir Cathedral",
+              "tip_5lang": {
+                "de": "Parkplatz oft geräumt.",
+                "hu": "A parkoló gyakran le van takarítva.",
+                "ro": "Parcare adesea deszăpezită.",
+                "en": "Parking lot often cleared."
+              }
+            },
+            {
+              "name": "Gorky Library",
+              "tip_5lang": {
+                "de": "Kurzer Weg vom Auto ins Warme.",
+                "hu": "Rövid út az autóból a melegre.",
+                "ro": "Drum scurt din mașină la căldură.",
+                "en": "Short walk from car to warmth."
+              }
+            },
+            {
+              "name": "Luhansk Regional Museum",
+              "tip_5lang": {
+                "de": "Motor nicht unnötig laufen lassen.",
+                "hu": "Ne járassa feleslegesen a motort.",
+                "ro": "Nu lăsați motorul pornit inutil.",
+                "en": "Don't leave the engine running needlessly."
+              }
+            },
+            {
+              "name": "Regional Art Museum",
+              "tip_5lang": {
+                "de": "Batterie bei Kälte im Blick haben.",
+                "hu": "Figyeljen az akkura a hidegben.",
+                "ro": "Atenție la baterie pe frig.",
+                "en": "Keep an eye on the battery in the cold."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind absolut notwendig.",
+              "Eiskratzer griffbereit halten.",
+              "Frostschutz im Wischwasser prüfen.",
+              "Vorsicht vor Blitzeis auf Brücken.",
+              "Frühzeitig Licht einschalten."
+            ],
+            "hu": [
+              "A téli gumi elengedhetetlen.",
+              "Legyen kéznél jégkaparó.",
+              "Ellenőrizze a fagyállót.",
+              "Vigyázat a ónos esővel a hidakon.",
+              "Időben kapcsolja be a világítást."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt necesare.",
+              "Țineți racleta la îndemână.",
+              "Verificați antigelul în parbriz.",
+              "Atenție la polei pe poduri.",
+              "Aprindeți farurile devreme."
+            ],
+            "en": [
+              "Winter tires are absolutely necessary.",
+              "Keep an ice scraper handy.",
+              "Check antifreeze in wiper fluid.",
+              "Watch out for black ice on bridges.",
+              "Turn on lights early."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1446,6 +2070,214 @@
           "Be mindful of the schedules, especially in the evening.",
           "Always validate your ticket to avoid fines."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgen: Mit dem Bus zum Heldenplatz, trockene Fahrt ins Zentrum.\nMittag: Die Bahnen bringen Sie schnell zur Kathedrale und Bibliothek.\nNachmittag: Nutzen Sie die Linien zu den Museen, um dem Regen zu entgehen.\nAbend: Bequeme Rückfahrt mit der Straßenbahn im Trockenen.",
+            "hu": "Reggel: Busszal a Hősök terére, száraz utazás a központba.\nDélben: A járatok gyorsan elviszik a katedrálishoz és a könyvtárhoz.\nDélután: Használja a múzeumokhoz menő vonalakat az eső elkerülésére.\nEste: Kényelmes visszautazás villamossal, szárazon.",
+            "ro": "Dimineața: Cu autobuzul la Piața Eroilor, călătorie uscată spre centru.\nLa prânz: Liniile vă duc rapid la catedrală și bibliotecă.\nDupă-amiaza: Folosiți liniile spre muzee pentru a evita ploaia.\nSeara: Întoarcere confortabilă cu tramvaiul, la uscat.",
+            "en": "Morning: By bus to Heroes' Square, dry ride to the center.\nMidday: The lines take you quickly to the cathedral and library.\nAfternoon: Use the lines to the museums to avoid the rain.\nEvening: Comfortable ride back by tram in the dry."
+          },
+          "stops": [
+            {
+              "name": "Heroes' Square",
+              "tip_5lang": {
+                "de": "Unterstand an der Haltestelle.",
+                "hu": "Váróterem a megállóban.",
+                "ro": "Adăpost la stație.",
+                "en": "Shelter at the stop."
+              }
+            },
+            {
+              "name": "The Worker Monument",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg von der Bahn.",
+                "hu": "Rövid gyalogút a villamostól.",
+                "ro": "Drum scurt pe jos de la tramvai.",
+                "en": "Short walk from the tram."
+              }
+            },
+            {
+              "name": "Vasnev House",
+              "tip_5lang": {
+                "de": "Haltestelle fast direkt davor.",
+                "hu": "A megálló majdnem előtte van.",
+                "ro": "Stația este aproape în față.",
+                "en": "Stop is almost right in front."
+              }
+            },
+            {
+              "name": "St. Vladimir Cathedral",
+              "tip_5lang": {
+                "de": "Bus hält am Haupttor.",
+                "hu": "A busz a főkapunál áll meg.",
+                "ro": "Autobuzul oprește la poarta principală.",
+                "en": "Bus stops at the main gate."
+              }
+            },
+            {
+              "name": "Gorky Library",
+              "tip_5lang": {
+                "de": "Trockener Wartebereich im Foyer.",
+                "hu": "Száraz váróhely az előtérben.",
+                "ro": "Zonă de așteptare uscată în foaier.",
+                "en": "Dry waiting area in the foyer."
+              }
+            },
+            {
+              "name": "Luhansk Regional Museum",
+              "tip_5lang": {
+                "de": "Gute Anbindung mit dem O-Bus.",
+                "hu": "Jó összeköttetés trolibusszal.",
+                "ro": "Legătură bună cu troleibuzul.",
+                "en": "Good connection by trolleybus."
+              }
+            },
+            {
+              "name": "Regional Art Museum",
+              "tip_5lang": {
+                "de": "Haltestelle direkt am Museum.",
+                "hu": "Megálló közvetlenül a múzeumnál.",
+                "ro": "Stație direct la muzeu.",
+                "en": "Stop directly at the museum."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "E-Ticket App vorab laden.",
+              "Fahrpläne bei Regen oft verzögert.",
+              "Haltestellen mit Dach bevorzugen.",
+              "Kleingeld für den Schaffner bereit.",
+              "Busse sind oft gut geheizt."
+            ],
+            "hu": [
+              "Töltse le előre az e-jegy appot.",
+              "Esőben gyakoriak a késések.",
+              "Részesítse előnyben a fedett megállókat.",
+              "Készítsen aprópénzt a kalauznak.",
+              "A buszok gyakran jól fűtöttek."
+            ],
+            "ro": [
+              "Descărcați aplicația de e-ticketing.",
+              "Întârzieri frecvente pe ploaie.",
+              "Preferați stațiile acoperite.",
+              "Pregătiți mărunțiș pentru taxator.",
+              "Autobuzele sunt adesea bine încălzite."
+            ],
+            "en": [
+              "Download the e-ticket app beforehand.",
+              "Delays are common in rain.",
+              "Prefer stops with a roof.",
+              "Have small change ready for the conductor.",
+              "Buses are often well-heated."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgen: Warme Busfahrt zum winterlichen Heldenplatz.\nMittag: Die Straßenbahnen bieten eine gemütliche Pause zwischen den Stationen.\nNachmittag: Zeitnahe Fahrten zu den Museen vor der frühen Dunkelheit.\nAbend: Rückfahrt im beleuchteten O-Bus durch den Schnee.",
+            "hu": "Reggel: Meleg buszos utazás a télies Hősök terére.\nDélben: A villamosok kényelmes szünetet biztosítanak az állomások között.\nDélután: Időben történő utazás a múzeumokhoz a korai sötétedés előtt.\nEste: Visszautazás a kivilágított trolibuszon a hóban.",
+            "ro": "Dimineața: Călătorie caldă cu autobuzul spre Piața Eroilor iernatică.\nLa prânz: Tramvaiele oferă o pauză confortabilă între stații.\nDupă-amiaza: Călătorii la timp spre muzee înainte de întunericul timpuriu.\nSeara: Întoarcere cu troleibuzul iluminat prin zăpadă.",
+            "en": "Morning: Warm bus ride to the wintry Heroes' Square.\nMidday: The trams offer a cozy break between stations.\nAfternoon: Timely trips to the museums before the early darkness.\nEvening: Ride back in the illuminated trolleybus through the snow."
+          },
+          "stops": [
+            {
+              "name": "Heroes' Square",
+              "tip_5lang": {
+                "de": "Einstieg im Warmen abwarten.",
+                "hu": "Várja meg a felszállást a melegben.",
+                "ro": "Așteptați îmbarcarea la căldură.",
+                "en": "Wait for boarding in the warm."
+              }
+            },
+            {
+              "name": "The Worker Monument",
+              "tip_5lang": {
+                "de": "Vorsicht beim Aussteigen (Eis).",
+                "hu": "Vigyázat a leszállásnál (jég).",
+                "ro": "Atenție la coborâre (gheață).",
+                "en": "Careful when getting off (ice)."
+              }
+            },
+            {
+              "name": "Vasnev House",
+              "tip_5lang": {
+                "de": "Bahnverbindungen sind stabil.",
+                "hu": "A villamosközlekedés stabil.",
+                "ro": "Legăturile de tramvai sunt stabile.",
+                "en": "Tram connections are stable."
+              }
+            },
+            {
+              "name": "St. Vladimir Cathedral",
+              "tip_5lang": {
+                "de": "Haltestelle oft glatt.",
+                "hu": "A megálló gyakran csúszós.",
+                "ro": "Stația este adesea alunecoasă.",
+                "en": "The stop is often slippery."
+              }
+            },
+            {
+              "name": "Gorky Library",
+              "tip_5lang": {
+                "de": "Heizung in der Bahn genießen.",
+                "hu": "Élvezze a fűtést a járaton.",
+                "ro": "Bucurați-vă de căldură în vehicul.",
+                "en": "Enjoy the heating on the line."
+              }
+            },
+            {
+              "name": "Luhansk Regional Museum",
+              "tip_5lang": {
+                "de": "Letzter O-Bus gegen 21 Uhr.",
+                "hu": "Utolsó troli 21 óra körül.",
+                "ro": "Ultimul troleibuz în jur de ora 21.",
+                "en": "Last trolleybus around 9 PM."
+              }
+            },
+            {
+              "name": "Regional Art Museum",
+              "tip_5lang": {
+                "de": "Dunkelheit bei Abfahrt beachten.",
+                "hu": "Ügyeljen a sötétre induláskor.",
+                "ro": "Atenție la întuneric la plecare.",
+                "en": "Watch out for darkness on departure."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrpläne können im Schnee variieren.",
+              "Warme Kleidung für die Wartezeit.",
+              "Nutzen Sie Transit-Apps für Echtzeit.",
+              "Einstiegsbereiche können glatt sein.",
+              "Fenster in der Bahn können beschlagen."
+            ],
+            "hu": [
+              "A menetrend hóban változhat.",
+              "Meleg ruha a várakozáshoz.",
+              "Használjon valós idejű appokat.",
+              "A felszállóhelyek csúszósak lehetnek.",
+              "Az ablakok párásodhatnak."
+            ],
+            "ro": [
+              "Orarele pot varia în zăpadă.",
+              "Haine calde pentru așteptare.",
+              "Folosiți aplicații de tranzit în timp real.",
+              "Zonele de urcare pot fi alunecoase.",
+              "Geamurile pot fi aburite."
+            ],
+            "en": [
+              "Schedules can vary in snow.",
+              "Warm clothing for waiting time.",
+              "Use transit apps for real-time.",
+              "Boarding areas can be slippery.",
+              "Windows on the vehicle may fog up."
+            ]
+          }
+        }
       }
     }
   }

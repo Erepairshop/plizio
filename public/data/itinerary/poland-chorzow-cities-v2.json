@@ -304,6 +304,196 @@
           "Check the opening hours of the museums in advance.",
           "A walk through Chorzów is a journey through industrial revolution and green recovery."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt auf dem Chorzów-Marktplatz unter Regenschirmen, wo die moderne Architektur im Regen glänzt. Danach bietet der President-Förderturm eine raue, industrielle Atmosphäre unter grauem Himmel.\n\nMittags suchen wir Zuflucht im Kulturzentrum, einem idealen Ort, um trocken zu bleiben und lokale Kunst zu genießen. Die kurzen Wege in der Innenstadt sind auch bei Schmuddelwetter machbar.\n\nAm Nachmittag erkunden wir den Schlesischen Park. Die breiten Alleen bieten unter den Bäumen etwas Schutz, und die Cafés laden zu einer gemütlichen Pause ein, während die Regentropfen gegen die Scheiben klopfen.\n\nDer Abend führt uns zurück zum Marktplatz. Die Lichter der Stadt spiegeln sich in den Pfützen und verleihen der Rückkehr einen besonderen, fast filmischen Glanz vor dem Abendessen.",
+            "hu": "A reggel a chorzówi piactéren indul esernyők alatt, ahol a modern építészet különleges fényben tündököl az esőben. A President akna tornya zord, ipari hangulatot áraszt a szürke égbolt alatt.\n\nDélben a Kulturális Központban keresünk menedéket, amely tökéletes hely a szárazon maradáshoz és a helyi művészet élvezetéhez. A belvárosi rövid séták még rossz időben is könnyen teljesíthetők.\n\nDélután a Sziléziai Parkot fedezzük fel. A széles utak a fák alatt némi védelmet nyújtanak, a kávézók pedig hívogatóak egy meleg italra, miközben az eső kopog az ablakon.\n\nAz este visszavezet a piactérre. A város fényei megcsillannak a tócsákban, ami különleges, már-már filmszerű hangulatot kölcsönöz a nap végének a vacsora előtt.",
+            "ro": "Dimineața începe în Piața Pieței din Chorzów sub umbrele, unde arhitectura modernă strălucește în ploaie. Turnul minei President oferă o atmosferă industrială aspră sub cerul cenușiu.\n\nLa prânz căutăm refugiu în Centrul Cultural, un loc ideal pentru a rămâne uscați și a ne bucura de arta locală. Distanțele scurte din centrul orașului sunt fezabile chiar și pe vreme rea.\n\nDupă-amiaza explorăm Parcul Silezian. Aleile largi oferă protecție sub copaci, iar cafenelele sunt primitoare pentru o pauză caldă în timp ce stropii de ploaie bat în geam.\n\nSeara ne întoarcem în Piața Pieței. Luminile orașului se oglindesc în bălți, oferind întoarcerii o strălucire deosebită, aproape cinematografică, înainte de cină.",
+            "en": "The morning starts at Chorzów Market Square under umbrellas, where modern architecture glitters in the rain. The President Mine Shaft Tower offers a raw, industrial atmosphere under grey skies.\n\nAt noon, we seek refuge in the Cultural Centre, an ideal spot to stay dry and enjoy local art. The short walks in the city center are manageable even in damp weather.\n\nIn the afternoon, we explore Silesian Park. The wide alleys provide some shelter under the trees, and the cafes are inviting for a cozy break as raindrops tap against the windows.\n\nEvening leads us back to the Market Square. City lights reflect in the puddles, giving the return a special, almost cinematic glow before heading for dinner."
+          },
+          "stops": [
+            {
+              "name": "Chorzów Market Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Pavillons am Platz, um trocken zu bleiben.",
+                "hu": "Használja a tér fedett pavilonjait, hogy száraz maradjon.",
+                "ro": "Folosiți pavilioanele acoperite din piață pentru a rămâne uscați.",
+                "en": "Use the covered pavilions on the square to stay dry while observing."
+              }
+            },
+            {
+              "name": "President Mine Shaft Tower",
+              "tip_5lang": {
+                "de": "Der Metallturm wirkt bei Regen besonders dramatisch; Vorsicht auf glatten Stufen.",
+                "hu": "A fémtorony esőben különösen drámai; vigyázzon a csúszós lépcsőkön.",
+                "ro": "Turnul metalic pare dramatic în ploaie; atenție la treptele alunecoase.",
+                "en": "The metal tower looks dramatic in rain; be careful on slippery steps."
+              }
+            },
+            {
+              "name": "Chorzów Cultural Centre",
+              "tip_5lang": {
+                "de": "Perfekter Ort für eine längere Pause im Trockenen mit kulturellem Programm.",
+                "hu": "Tökéletes hely egy hosszabb benti pihenőhöz kulturális programokkal.",
+                "ro": "Locul perfect pentru o pauză lungă la adăpost, cu program cultural.",
+                "en": "Perfect place for a longer indoor break with cultural programs."
+              }
+            },
+            {
+              "name": "Silesian Park",
+              "tip_5lang": {
+                "de": "Wählen Sie asphaltierte Wege, um Matsch auf den unbefestigten Pfaden zu vermeiden.",
+                "hu": "Válassza az aszfaltozott utakat, hogy elkerülje a sarat az ösvényeken.",
+                "ro": "Alegeți căile asfaltate pentru a evita noroiul de pe poteci.",
+                "en": "Stick to paved paths to avoid mud on the unpaved trails."
+              }
+            },
+            {
+              "name": "Upper Silesian Ethnographic Park",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Innenräume der historischen Holzhäuser für trockene Einblicke.",
+                "hu": "Látogasson el a történelmi faházak belsejébe a száraz betekintésért.",
+                "ro": "Vizitați interioarele caselor vechi de lemn pentru o experiență uscată.",
+                "en": "Visit the interiors of the historic wooden houses for dry insights."
+              }
+            },
+            {
+              "name": "Return to Market Square",
+              "tip_5lang": {
+                "de": "Die umliegenden Restaurants bieten gemütliche Wärme nach dem Wandertag.",
+                "hu": "A környező éttermek hangulatos meleget kínálnak a túranap végén.",
+                "ro": "Restaurantele din jur oferă căldură primitoare după ziua de mers.",
+                "en": "Surrounding restaurants offer cozy warmth after your walking day."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Wasserdichte Schuhe sind bei den langen Wegen im Park unerlässlich.",
+              "Das Kulturzentrum bietet einen guten Schutzplan bei Starkregen.",
+              "Die Gehwege im Stadtzentrum können bei Nässe rutschig sein.",
+              "Halten Sie einen stabilen Regenschirm bereit, da es im Park windig sein kann.",
+              "Nutzen Sie die Gastronomie im Park für trockene Pausen."
+            ],
+            "hu": [
+              "Vízálló cipő elengedhetetlen a park hosszú útjaihoz.",
+              "A Kulturális Központ kiváló menekülési terv heves esőzés esetén.",
+              "A belvárosi járdák nedvesen csúszósak lehetnek.",
+              "Legyen kéznél erős esernyő, mert a parkban szeles lehet az idő.",
+              "Használja a park vendéglátóhelyeit a száraz pihenőkhöz."
+            ],
+            "ro": [
+              "Încălțămintea impermeabilă este esențială pentru drumurile lungi din parc.",
+              "Centrul Cultural oferă un plan de salvare bun în caz de ploaie torențială.",
+              "Trotuarele din centrul orașului pot fi alunecoase când sunt ude.",
+              "Aveți la îndemână o umbrelă rezistentă, deoarece în parc poate fi vânt.",
+              "Folosiți unitățile gastronomice din parc pentru pauze la uscat."
+            ],
+            "en": [
+              "Waterproof shoes are essential for the long paths in the park.",
+              "The Cultural Centre provides a great backup plan during heavy rain.",
+              "City center pavements can be slippery when wet.",
+              "Keep a sturdy umbrella ready as it can get windy in the park.",
+              "Utilize the park's indoor cafes for dry resting periods."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen am Marktplatz von Chorzów, wo der Atem in der kalten Luft gefriert. Die moderne Gestaltung des Platzes wirkt unter einer dünnen Schneedecke besonders rein und ruhig.\n\nMittags bestaunen wir den Förderturm President. Das rostige Metall bildet einen starken Kontrast zum weißen Schnee. Ein kurzer Spaziergang hält den Kreislauf in Schwung, bevor wir uns aufwärmen.\n\nDer Nachmittag gehört dem Schlesischen Park. Die kahlen Bäume und der gefrorene Boden schaffen eine fast magische Stille. Im Ethnographischen Park wirken die alten Bauernhäuser wie aus einer anderen Zeit.\n\nWenn die Dämmerung gegen 16:30 Uhr einsetzt, kehren wir zum hell erleuchteten Marktplatz zurück. Die Winterbeleuchtung sorgt für eine warme Atmosphäre, während wir den Tag bei einem heißen Tee ausklingen lassen.",
+            "hu": "Fagyos reggel a chorzówi piactéren, ahol a lehelet látszik a hideg levegőben. A tér modern kialakítása a vékony hóréteg alatt különösen tiszta és nyugodt hatást kelt.\n\nDélben a President akna tornyát csodáljuk meg. A rozsdás fém éles kontrasztot alkot a fehér hóval. Egy rövid séta frissen tartja a vérkeringést, mielőtt felmelegednénk.\n\nA délután a Sziléziai Parké. A kopár fák és a fagyos talaj szinte varázslatos csendet árasztanak. A Néprajzi Parkban a régi parasztházak mintha egy másik időből maradtak volna itt.\n\nAmikor 16:30 körül beáll az alkonyat, visszatérünk a fényárban úszó piactérre. A téli kivilágítás meleg hangulatot áraszt, miközben a napot egy forró teával zárjuk.",
+            "ro": "O dimineață geroasă în Piața din Chorzów, unde respirația îngheață în aerul rece. Designul modern al pieței pare deosebit de curat și liniștit sub un strat subțire de zăpadă.\n\nLa prânz admirăm turnul minei President. Metalul ruginit formează un contrast puternic cu zăpada albă. O scurtă plimbare menține circulația înainte de a ne încălzi.\n\nDupă-amiaza aparține Parcului Silezian. Copacii goi și pământul înghețat creează o liniște aproape magică. În Parcul Etnografic, vechile case țărănești par din alt timp.\n\nCând amurgul se lasă în jurul orei 16:30, ne întoarcem în piața luminată festiv. Iluminatul de iarnă oferă o atmosferă caldă în timp ce încheiem ziua cu un ceai fierbinte.",
+            "en": "A frosty morning at Chorzów Market Square, where breath freezes in the cold air. The modern design of the square looks particularly clean and peaceful under a thin layer of snow.\n\nAt noon, we marvel at the President Mine Shaft Tower. The rusty metal creates a sharp contrast with the white snow. A short walk keeps the circulation going before we warm up.\n\nAfternoon belongs to Silesian Park. The bare trees and frozen ground create an almost magical silence. In the Ethnographic Park, old farmhouses look like they are from another time.\n\nAs dusk sets in around 4:30 PM, we return to the brightly lit Market Square. Winter illumination provides a warm atmosphere while we finish the day with a hot tea."
+          },
+          "stops": [
+            {
+              "name": "Chorzów Market Square",
+              "tip_5lang": {
+                "de": "Genießen Sie die Winterdekoration und die beleuchteten Brunnen.",
+                "hu": "Élvezze a téli dekorációt és a kivilágított szökőkutakat.",
+                "ro": "Bucurați-vă de decorațiunile de iarnă și de fântânile iluminate.",
+                "en": "Enjoy the winter decorations and the illuminated fountains."
+              }
+            },
+            {
+              "name": "President Mine Shaft Tower",
+              "tip_5lang": {
+                "de": "Warme Kleidung ist hier wichtig, da der Wind ungehindert durch das Gerüst weht.",
+                "hu": "Fontos a meleg ruha, mert a szél akadálytalanul fúj át a szerkezeten.",
+                "ro": "Hainele groase sunt importante, vântul bate liber prin structură.",
+                "en": "Warm clothing is vital here as wind blows freely through the structure."
+              }
+            },
+            {
+              "name": "Chorzów Cultural Centre",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um sich zwischen den Etappen kurz aufzuwärmen.",
+                "hu": "Ideális hely a rövid felmelegedéshez a szakaszok között.",
+                "ro": "Un loc ideal pentru a vă încălzi scurt între etape.",
+                "en": "An ideal place to warm up briefly between tour stages."
+              }
+            },
+            {
+              "name": "Silesian Park",
+              "tip_5lang": {
+                "de": "Die Wege können vereist sein; achten Sie auf festes Schuhwerk mit Profil.",
+                "hu": "Az utak jegesek lehetnek; figyeljen a jó profilú, stabil lábbelire.",
+                "ro": "Căile pot fi înghețate; purtați încălțăminte cu talpă aderentă.",
+                "en": "Paths may be icy; ensure you have sturdy footwear with good grip."
+              }
+            },
+            {
+              "name": "Upper Silesian Ethnographic Park",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Winteröffnungszeiten, da das Freilichtmuseum früher schließt.",
+                "hu": "Ellenőrizze a téli nyitvatartást, mert a skanzen korábban zár.",
+                "ro": "Verificați programul de iarnă, muzeul în aer liber se închide mai devreme.",
+                "en": "Check winter opening hours as the open-air museum closes earlier."
+              }
+            },
+            {
+              "name": "Return to Market Square",
+              "tip_5lang": {
+                "de": "Suchen Sie ein Restaurant mit Kamin für einen gemütlichen Abschluss.",
+                "hu": "Keressen egy kandallós éttermet a hangulatos befejezéshez.",
+                "ro": "Căutați un restaurant cu șemineu pentru un final primitor.",
+                "en": "Look for a restaurant with a fireplace for a cozy conclusion."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Dezember bereits gegen 16:00 Uhr unter.",
+              "Zwiebelprinzip bei der Kleidung schützt vor dem beißenden Wind.",
+              "Tragen Sie Thermosocken, da die Kälte vom Boden hochzieht.",
+              "Einige Wege im Park werden im Winter nicht geräumt.",
+              "Heißer Tee in einer Thermoskanne ist ein guter Begleiter."
+            ],
+            "hu": [
+              "A nap decemberben már 16:00 körül lemegy.",
+              "A réteges öltözködés véd a metsző szél ellen.",
+              "Viseljen termozoknit, mert a hideg a talaj felől jön.",
+              "A park egyes útjait télen nem takarítják.",
+              "A termoszban vitt forró tea jó kísérő a sétához."
+            ],
+            "ro": [
+              "Soarele apune deja în jurul orei 16:00 în decembrie.",
+              "Îmbrăcămintea în straturi protejează împotriva vântului tăios.",
+              "Purtați șosete termice, deoarece frigul urcă de la sol.",
+              "Unele poteci din parc nu sunt curățate iarna.",
+              "Ceaiul fierbinte într-un termos este un companion bun."
+            ],
+            "en": [
+              "Sunset in December occurs as early as 4:00 PM.",
+              "Layered clothing protects against the biting wind.",
+              "Wear thermal socks as the cold rises from the ground.",
+              "Some paths in the park are not cleared of snow in winter.",
+              "Hot tea in a thermos is a great companion for the walk."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -625,6 +815,214 @@
           "A bike bell is useful for alerting pedestrians on the paths.",
           "Bring a reusable water bottle; there are fountains in the park."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein nasser Start am Marktplatz von Chorzów. Wir prüfen unsere Ausrüstung unter dem Vordach, bevor wir zur kurzen Fahrt zum President-Turm aufbrechen, der im Regen glänzt.\n\nMittags radeln wir zum Schlesischen Park. Die asphaltierten Radwege sind gut befahrbar, aber wir müssen auf Pfützen achten. Das Schlesische Stadion bietet beeindruckende Fotomotive, auch bei grauem Himmel.\n\nAm Nachmittag bietet das Schlesische Planetarium die perfekte Zuflucht. Wir parken die Räder und genießen die Sterne im Trockenen. Danach geht es weiter zu Legendia, wo wir die Atmosphäre des Parks genießen.\n\nDer Abend bringt uns zurück ins Zentrum. Wir fahren vorsichtig über den nassen Asphalt und freuen uns auf eine warme Dusche und ein herzhaftes polnisches Abendessen nach der feuchten Tour.",
+            "hu": "Vizes kezdés a piactéren. Az előtető alatt ellenőrizzük a felszerelést, mielőtt elindulunk a rövid útra a President toronyhoz, amely csillog az esőben.\n\nDélben a Sziléziai Park felé vesszük az irányt. Az aszfaltozott kerékpárutak jól járhatók, de a tócsákra figyelni kell. A Sziléziai Stadion lenyűgöző látványt nyújt szürke égbolt alatt is.\n\nDélután a Sziléziai Planetárium tökéletes menedéket nyújt. Leparkoljuk a gépeket és szárazon élvezzük a csillagokat. Ezután a Legendia felé tekerünk a park hangulatában.\n\nAz este visszavezet a központba. Óvatosan haladunk a vizes aszfalton, és már várjuk a meleg zuhanyt és egy kiadós lengyel vacsorát a nedves túra után.",
+            "ro": "Un început umed în piață. Verificăm echipamentul sub streșini înainte de a pleca spre turnul President, care strălucește în ploaie.\n\nLa prânz pedalăm spre Parcul Silezian. Pistele de biciclete asfaltate sunt bune, dar trebuie să fim atenți la bălți. Stadionul Silezian oferă motive foto impresionante chiar și sub cerul gri.\n\nDupă-amiaza, Planetariul Silezian oferă refugiul perfect. Parcăm bicicletele și ne bucurăm de stele la uscat. Apoi continuăm spre Legendia, savurând atmosfera parcului.\n\nSeara ne aduce înapoi în centru. Mergem cu atenție pe asfaltul ud și așteptăm cu nerăbdare un duș cald și o cină poloneză consistentă după turul umed.",
+            "en": "A wet start at the market square. We check our gear under the canopy before heading to the President tower, which shimmers in the rain.\n\nAt noon, we cycle towards Silesian Park. The paved bike paths are manageable, but we must watch out for puddles. Silesian Stadium offers impressive photo ops even under grey skies.\n\nIn the afternoon, the Silesian Planetarium provides the perfect sanctuary. We park the bikes and enjoy the stars while staying dry. Then we head to Legendia, soaking in the park's atmosphere.\n\nEvening brings us back to the center. We ride carefully over the wet asphalt, looking forward to a warm shower and a hearty Polish dinner after the damp tour."
+          },
+          "stops": [
+            {
+              "name": "Chorzów Market Square",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Reifendruck und die Bremsen vor der Abfahrt im Regen.",
+                "hu": "Ellenőrizze a guminyomást és a fékeket az esős indulás előtt.",
+                "ro": "Verificați presiunea în pneuri și frânele înainte de plecare pe ploaie.",
+                "en": "Check tire pressure and brakes before departing in the rain."
+              }
+            },
+            {
+              "name": "President Mine Shaft Tower",
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Befahren von Metallplatten, da diese extrem rutschig sind.",
+                "hu": "Kerülje a fémlemezeken való áthajtást, mert rendkívül csúszósak.",
+                "ro": "Evitați circularea pe plăci metalice, deoarece sunt extrem de alunecoase.",
+                "en": "Avoid riding over metal plates as they become extremely slippery."
+              }
+            },
+            {
+              "name": "Silesian Park",
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den Hauptwegen; Laub kann auf Nebenpfaden rutschig sein.",
+                "hu": "Maradjon a főutakon; a levelek csúszósak lehetnek a mellékutakon.",
+                "ro": "Rămâneți pe drumurile principale; frunzele pot fi alunecoase pe poteci.",
+                "en": "Stay on main paths; wet leaves can be slippery on side trails."
+              }
+            },
+            {
+              "name": "Silesian Stadium",
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Bereiche am Eingang für eine kurze Trinkpause.",
+                "hu": "Használja a bejáratnál lévő fedett részeket egy rövid ivószünetre.",
+                "ro": "Folosiți zonele acoperite de la intrare pentru o scurtă pauză de hidratare.",
+                "en": "Use the covered areas near the entrance for a quick water break."
+              }
+            },
+            {
+              "name": "Silesian Planetarium",
+              "tip_5lang": {
+                "de": "Sichere Fahrradständer direkt am Eingang vorhanden.",
+                "hu": "Biztonságos biciklitárolók közvetlenül a bejáratnál.",
+                "ro": "Rafturi securizate pentru biciclete disponibile chiar la intrare.",
+                "en": "Secure bike racks available right at the entrance."
+              }
+            },
+            {
+              "name": "Legendia Silesian Amusement Park",
+              "tip_5lang": {
+                "de": "Viele Fahrgeschäfte sind bei Regen geschlossen, aber die Szenerie ist toll.",
+                "hu": "Sok játék zárva van esőben, de a látvány így is remek.",
+                "ro": "Multe atracții sunt închise pe ploaie, dar peisajul este grozav.",
+                "en": "Many rides are closed during rain, but the scenery is still great."
+              }
+            },
+            {
+              "name": "Return to Market Square",
+              "tip_5lang": {
+                "de": "Die Straßenbahnschienen im Zentrum sind bei Nässe eine Sturzgefahr.",
+                "hu": "A belvárosi villamospályák vizesen komoly esésveszélyt jelentenek.",
+                "ro": "Șinele de tramvai din centru sunt un pericol de cădere când sunt ude.",
+                "en": "Tram tracks in the center are a major fall hazard when wet."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind bei dieser Route durch den Park unerlässlich.",
+              "Tragen Sie eine auffällige Regenjacke für bessere Sichtbarkeit.",
+              "Bremsen Sie frühzeitig, da der Bremsweg auf nassem Asphalt länger ist.",
+              "Vermeiden Sie tiefe Pfützen, da diese Schlaglöcher verdecken können.",
+              "Ein Handtuch im Rucksack hilft, den Sattel nach Pausen zu trocknen."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen ezen az útvonalon a parkon át.",
+              "Viseljen feltűnő esőkabátot a jobb láthatóság érdekében.",
+              "Fékezzen időben, mert a fékút vizes aszfalton hosszabb.",
+              "Kerülje a mély tócsákat, mert kátyúkat rejthetnek.",
+              "Egy törölköző a hátizsákban segít megszárítani a nyerget pihenők után."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt esențiale pe această rută prin parc.",
+              "Purtați o jachetă de ploaie vizibilă pentru o mai bună vizibilitate.",
+              "Frânați din timp, distanța de frânare este mai mare pe asfalt ud.",
+              "Evitați bălțile adânci, deoarece pot ascunde gropi.",
+              "Un prosop în rucsac ajută la uscarea șeii după pauze."
+            ],
+            "en": [
+              "Mudguards are essential on this route through the park.",
+              "Wear a high-visibility rain jacket for better safety.",
+              "Brake early as stopping distances are longer on wet asphalt.",
+              "Avoid deep puddles as they can hide potholes.",
+              "Keep a small towel in your bag to dry the saddle after breaks."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Morgenstart. Wir radeln gut eingepackt vom Marktplatz los. Der Fahrtwind ist eisig, aber die klare Sicht auf den Förderturm President belohnt die Mühe.\n\nMittags erreichen wir den Schlesischen Park. Die Luft ist rein und die Wege meist geräumt. Das Stadion wirkt in der Winterlandschaft noch monumentaler. Wir halten uns durch ständiges Treten warm.\n\nDer Nachmittag bringt uns zum Planetarium. Hier können wir uns ausgiebig aufwärmen, während wir das Universum betrachten. Die anschließende Fahrt durch den winterlichen Park ist friedlich und still.\n\nGegen Abend kehren wir zum Marktplatz zurück. Die Dunkelheit bricht früh ein, also verlassen wir uns auf unsere helle Beleuchtung. Ein heißer Kakao im Zentrum ist der perfekte Abschluss für diese frostige Tour.",
+            "hu": "Hűvös reggeli indulás. Jól beöltözve vágunk neki a piactérről. A menetszél jeges, de a tiszta kilátás a President toronyra kárpótol a fáradtságért.\n\nDélben elérjük a Sziléziai Parkot. A levegő tiszta, az utak többnyire takarítottak. A stadion még monumentálisabbnak tűnik a téli tájban. Folyamatos tekeréssel tartjuk magunkat melegen.\n\nA délután a Planetáriumba visz minket. Itt alaposan felmelegedhetünk a csillagok alatt. Az ezt követő gurulás a téli parkon át békés és csendes.\n\nEste felé visszatérünk a piactérre. Korán sötétedik, így az erős világításunkra támaszkodunk. Egy forró kakaó a belvárosban tökéletes zárása ennek a fagyos túrának.",
+            "ro": "Un început de dimineață răcoros. Plecăm din piață bine echipați. Vântul este înghețat, dar vederea clară asupra turnului President răsplătește efortul.\n\nLa prânz ajungem în Parcul Silezian. Aerul este curat și drumurile sunt în mare parte curățate. Stadionul pare și mai monumental în peisajul de iarnă. Ne menținem calzi pedalând constant.\n\nDupă-amiaza ne aduce la Planetariu. Aici ne putem încălzi bine în timp ce privim universul. Plimbarea ulterioară prin parcul de iarnă este pașnică și liniștită.\n\nSpre seară ne întoarcem în piață. Se întunecă devreme, așa că ne bazăm pe luminile noastre puternice. O ciocolată caldă în centru este finalul perfect pentru acest tur geros.",
+            "en": "A cool morning start. Wrapped up warm, we cycle from the market square. The wind chill is icy, but the clear view of the President tower rewards the effort.\n\nAt noon, we reach Silesian Park. The air is crisp, and paths are mostly cleared. The stadium looks even more monumental in the winter landscape. Constant pedaling keeps us warm.\n\nAfternoon brings us to the Planetarium. Here we can warm up thoroughly while observing the universe. The subsequent ride through the winter park is peaceful and silent.\n\nTowards evening, we return to the market square. Darkness falls early, so we rely on our bright lights. A hot cocoa in the center is the perfect end to this frosty tour."
+          },
+          "stops": [
+            {
+              "name": "Chorzów Market Square",
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihre Fahrradbeleuchtung voll aufgeladen ist.",
+                "hu": "Győződjön meg róla, hogy a kerékpár lámpái teljesen fel vannak töltve.",
+                "ro": "Asigurați-vă că luminile bicicletei sunt complet încărcate.",
+                "en": "Ensure your bike lights are fully charged before heading out."
+              }
+            },
+            {
+              "name": "President Mine Shaft Tower",
+              "tip_5lang": {
+                "de": "Halten Sie nur kurz an, um nicht zu stark auszukühlen.",
+                "hu": "Csak rövid időre álljon meg, hogy ne hűljön ki túlságosan.",
+                "ro": "Opriți-vă doar scurt pentru a nu vă răci prea tare.",
+                "en": "Stop only briefly to avoid cooling down too much."
+              }
+            },
+            {
+              "name": "Silesian Park",
+              "tip_5lang": {
+                "de": "Achten Sie auf gefrorene Stellen in schattigen Bereichen der Radwege.",
+                "hu": "Figyeljen a fagyott foltokra a kerékpárutak árnyékos részein.",
+                "ro": "Atenție la porțiunile înghețate din zonele umbrite ale pistelor.",
+                "en": "Watch out for frozen patches in shaded sections of the bike paths."
+              }
+            },
+            {
+              "name": "Silesian Stadium",
+              "tip_5lang": {
+                "de": "Der Wind auf dem freien Gelände kann hier besonders kalt sein.",
+                "hu": "A nyitott terepen a szél itt különösen hideg lehet.",
+                "ro": "Vântul pe terenul deschis poate fi deosebit de rece aici.",
+                "en": "The wind on the open grounds can be particularly cold here."
+              }
+            },
+            {
+              "name": "Silesian Planetarium",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe, um schwere Winterkleidung kurz abzulegen.",
+                "hu": "Használja a ruhatárat, hogy rövid időre letegye a nehéz téli ruhát.",
+                "ro": "Folosiți garderoba pentru a lăsa hainele groase de iarnă.",
+                "en": "Use the cloakroom to temporarily shed heavy winter layers."
+              }
+            },
+            {
+              "name": "Legendia Silesian Amusement Park",
+              "tip_5lang": {
+                "de": "Im Winter ist der Park oft geschlossen, bietet aber eine ruhige Kulisse.",
+                "hu": "Télen a park gyakran zárva van, de nyugodt hátteret nyújt.",
+                "ro": "Iarna parcul este adesea închis, dar oferă un decor liniștit.",
+                "en": "The park is often closed in winter but provides a peaceful backdrop."
+              }
+            },
+            {
+              "name": "Return to Market Square",
+              "tip_5lang": {
+                "de": "Vorsicht vor Streusalz auf den Straßen, es kann den Antrieb angreifen.",
+                "hu": "Vigyázzon az utakon lévő útszóró sóval, károsíthatja a hajtást.",
+                "ro": "Atenție la sarea de pe drumuri, poate afecta transmisia bicicletei.",
+                "en": "Be wary of road salt; it can damage your bike's drivetrain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Handschuhe, um steife Finger zu vermeiden.",
+              "Der Reifendruck sollte etwas niedriger sein für mehr Grip auf Schnee.",
+              "Akku-Lichter verlieren bei Kälte schneller an Leistung.",
+              "Trinken Sie auch bei Kälte genug, am besten warme Getränke.",
+              "Ein Schlauchtuch schützt das Gesicht vor dem eisigen Fahrtwind."
+            ],
+            "hu": [
+              "Viseljen szélálló kesztyűt az elgémberedett ujjak elkerülésére.",
+              "A guminyomás legyen kicsit alacsonyabb a jobb tapadásért a havon.",
+              "Az akkumulátoros lámpák hidegben gyorsabban merülnek.",
+              "Hidegben is igyon eleget, lehetőleg meleg italokat.",
+              "Egy csősál megvédi az arcot a jeges menetszéltől."
+            ],
+            "ro": [
+              "Purtați mănuși rezistente la vânt pentru a evita degetele amorțite.",
+              "Presiunea în pneuri ar trebui să fie puțin mai mică pentru aderență pe zăpadă.",
+              "Luminile cu acumulator pierd energia mai repede la frig.",
+              "Beți suficiente lichide și la frig, de preferință băuturi calde.",
+              "Un fular tip tub protejează fața de vântul înghețat."
+            ],
+            "en": [
+              "Wear windproof gloves to prevent numb fingers.",
+              "Lower tire pressure slightly for better grip on snowy surfaces.",
+              "Battery-powered lights drain faster in cold temperatures.",
+              "Stay hydrated even in the cold, ideally with warm drinks.",
+              "A neck gaiter protects your face from the freezing wind chill."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -933,6 +1331,214 @@
           "The car is ideal for bridging the distance between the center and the park.",
           "Note that you will be walking a lot within the park."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten entspannt im trockenen Auto. Das Parken in der Nähe des Marktplatzes ermöglicht einen schnellen Sprung ins Freie für Fotos, bevor der Regen zu stark wird.\n\nMittags geht es zum President-Turm. Wir können fast bis zum Eingang fahren und die industrielle Wucht bewundern, während die Wischer unaufhörlich arbeiten.\n\nDer Nachmittag ist perfekt für den Schlesischen Park. Wir nutzen den großen Parkplatz am Stadion und besuchen das Planetarium. Drinnen vergessen wir das schlechte Wetter und blicken in die Sterne.\n\nAbends fahren wir zurück ins Zentrum. Die beleuchteten Straßen glänzen im Regen, und wir finden bequem einen Parkplatz in der Nähe eines guten Restaurants für den Abschluss des Tages.",
+            "hu": "Kényelmesen indulunk a száraz autóban. A piactér közeli parkolás lehetővé teszi a gyors fotózást, mielőtt az eső túlságosan rákezdene.\n\nDélben a President toronyhoz hajtunk. Szinte a bejáratig mehetünk, és megcsodálhatjuk az ipari erőt, miközben az ablaktörlők folyamatosan járnak.\n\nA délután tökéletes a Sziléziai Parkhoz. A stadion melletti nagy parkolót használjuk, és ellátogatunk a Planetáriumba. Bent elfelejtjük a rossz időt a csillagok alatt.\n\nEste visszahajtunk a központba. A kivilágított utcák csillognak az esőben, és kényelmesen találunk parkolót egy jó étterem közelében a nap zárásához.",
+            "ro": "Începem relaxați în mașina uscată. Parcarea aproape de piață permite o ieșire rapidă pentru fotografii înainte ca ploaia să devină prea puternică.\n\nLa prânz mergem la turnul President. Putem conduce aproape până la intrare și admirăm forța industrială în timp ce ștergătoarele lucrează neîncetat.\n\nDupă-amiaza este perfectă pentru Parcul Silezian. Folosim parcarea mare de la stadion și vizităm Planetariul. În interior uităm de vremea rea privind stelele.\n\nSeara conducem înapoi în centru. Străzile iluminate strălucesc în ploaie și găsim ușor un loc de parcare lângă un restaurant bun pentru finalul zilei.",
+            "en": "We start relaxed in the dry car. Parking near the market square allows for quick photos before the rain gets too heavy.\n\nAt noon, we drive to the President tower. We can drive almost to the entrance and admire the industrial might while the wipers work incessantly.\n\nAfternoon is perfect for Silesian Park. We use the large parking lot by the stadium and visit the Planetarium. Inside, we forget the bad weather while looking at the stars.\n\nEvening leads us back to the center. The illuminated streets shimmer in the rain, and we easily find parking near a good restaurant to wrap up the day."
+          },
+          "stops": [
+            {
+              "name": "Parking near Market Square",
+              "tip_5lang": {
+                "de": "Überdachte Parkhäuser in der Nähe bevorzugen, um trocken auszusteigen.",
+                "hu": "Részesítse előnyben a közeli fedett parkolóházakat a száraz kiszálláshoz.",
+                "ro": "Preferați parcările etajate acoperite pentru a coborî la uscat.",
+                "en": "Prefer covered parking garages nearby to stay dry when exiting."
+              }
+            },
+            {
+              "name": "Chorzów Market Square",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen den Gebäuden nutzen; Regenschirm im Auto griffbereit lassen.",
+                "hu": "Használja az épületek közötti rövid utakat; az esernyőt hagyja elöl az autóban.",
+                "ro": "Folosiți căile scurte între clădiri; țineți umbrela la îndemână în mașină.",
+                "en": "Use short paths between buildings; keep your umbrella handy in the car."
+              }
+            },
+            {
+              "name": "President Mine Shaft Tower",
+              "tip_5lang": {
+                "de": "Parkplatz direkt am Fuße des Turms vorhanden.",
+                "hu": "Parkoló közvetlenül a torony lábánál található.",
+                "ro": "Parcare disponibilă chiar la baza turnului.",
+                "en": "Parking is available directly at the base of the tower."
+              }
+            },
+            {
+              "name": "Silesian Park Parking",
+              "tip_5lang": {
+                "de": "Dieser Parkplatz ist ideal für den Zugang zu den Indoor-Attraktionen.",
+                "hu": "Ez a parkoló ideális a benti látnivalók megközelítéséhez.",
+                "ro": "Această parcare este ideală pentru accesul la atracțiile interioare.",
+                "en": "This parking lot is ideal for accessing the indoor attractions."
+              }
+            },
+            {
+              "name": "Silesian Stadium",
+              "tip_5lang": {
+                "de": "Bei Regen sind die geführten Stadiontouren eine super Indoor-Alternative.",
+                "hu": "Esőben a vezetett stadiontúrák remek benti alternatívát jelentenek.",
+                "ro": "Pe ploaie, tururile ghidate ale stadionului sunt o variantă excelentă.",
+                "en": "Guided stadium tours are a great indoor alternative during rain."
+              }
+            },
+            {
+              "name": "Upper Silesian Ethnographic Park",
+              "tip_5lang": {
+                "de": "Großer unbefestigter Parkplatz; bei Dauerregen auf Matsch achten.",
+                "hu": "Nagy, nem aszfaltozott parkoló; tartós esőben figyeljen a sárra.",
+                "ro": "Parcare mare neamenajată; atenție la noroi în caz de ploaie prelungită.",
+                "en": "Large unpaved parking; watch out for mud during continuous rain."
+              }
+            },
+            {
+              "name": "Silesian Planetarium",
+              "tip_5lang": {
+                "de": "Behindertengerechte Parkplätze nah am Eingang für schnellen Zugang.",
+                "hu": "Akadálymentes parkolók a bejárat közelében a gyors bejutáshoz.",
+                "ro": "Locuri de parcare pentru persoane cu dizabilități aproape de intrare.",
+                "en": "Accessible parking spots near the entrance for quick access."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Zustand der Scheibenwischer vor der Tour.",
+              "Vermeiden Sie das Parken unter großen Bäumen bei Sturmgefahr.",
+              "Halten Sie Kleingeld für Parkautomaten bereit, die oft nicht überdacht sind.",
+              "Nutzen Sie Apps wie 'AnyPark' für kontaktloses Bezahlen im Trockenen.",
+              "Legen Sie eine Gummimatte in den Fußraum gegen Nässe."
+            ],
+            "hu": [
+              "A túra előtt ellenőrizze az ablaktörlők állapotát.",
+              "Viharveszély esetén kerülje a nagy fák alatti parkolást.",
+              "Legyen kéznél aprópénz a parkolóautomatákhoz, amik gyakran nem fedettek.",
+              "Használjon mobilalkalmazást a parkolás kifizetéséhez a száraz autóból.",
+              "Tegyen gumi lábtörlőt az autóba a behordott nedvesség ellen."
+            ],
+            "ro": [
+              "Verificați starea ștergătoarelor înainte de plecare.",
+              "Evitați parcarea sub copaci mari în caz de risc de furtună.",
+              "Aveți mărunt pentru automatele de parcare, care adesea nu sunt acoperite.",
+              "Folosiți aplicații mobile pentru plata parcării fără a ieși în ploaie.",
+              "Folosiți covorașe de cauciuc pentru a proteja interiorul de umezeală."
+            ],
+            "en": [
+              "Check the condition of your windshield wipers before starting.",
+              "Avoid parking under large trees if a storm is forecasted.",
+              "Keep small change ready for parking meters, which are often unsheltered.",
+              "Use parking apps to pay from the comfort of your dry car.",
+              "Use rubber floor mats to manage the moisture brought into the car."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Wir starten den Tag im vorgeheizten Auto. Der Marktplatz wirkt im frühen Morgenlicht mit Raureif verzaubert. Parken ist im Winter unkompliziert.\n\nMittags steuern wir den President-Turm an. Die Heizung läuft, während wir die beeindruckende Stahlkonstruktion von außen und kurz von innen betrachten.\n\nDer Nachmittag im Schlesischen Park ist dank des Autos komfortabel. Wir parken zentral und besuchen das Stadion und das warme Planetarium. Die verschneite Parklandschaft genießen wir bei kurzen Gängen.\n\nAbends fahren wir durch das winterlich beleuchtete Chorzów. Wir parken direkt vor unserem Ziel im Zentrum und genießen die Wärme eines traditionellen Gasthauses, ohne lange in der Kälte stehen zu müssen.",
+            "hu": "Az előmelegített autóban kezdjük a napot. A piactér a kora reggeli fényben, zúzmarásan varázslatosnak tűnik. A parkolás télen zökkenőmentes.\n\nDélben a President torony felé vesszük az irányt. A fűtés megy, miközben kívülről és egy rövid benti látogatás erejéig megcsodáljuk az acélszerkezetet.\n\nA délután a Sziléziai Parkban az autónak köszönhetően kényelmes. Központi helyen parkolunk, és meglátogatjuk a stadiont és a meleg Planetáriumot. A havas tájat rövid sétákkal élvezzük.\n\nEste a téli díszkivilágításban úszó Chorzów-n át autózunk. Közvetlenül a célunk előtt parkolunk a belvárosban, és élvezzük egy hagyományos étterem melegét.",
+            "ro": "Începem ziua în mașina preîncălzită. Piața pare vrăjită în lumina dimineții, acoperită de chiciură. Parcarea iarna este fără probleme.\n\nLa prânz ne îndreptăm spre turnul President. Căldura merge în timp ce admirăm construcția de oțel din exterior și scurt din interior.\n\nDupă-amiaza în Parcul Silezian este confortabilă datorită mașinii. Parcăm central și vizităm stadionul și Planetariul primitor. Ne bucurăm de peisajul înzăpezit în timpul scurtelor plimbări.\n\nSeara conducem prin Chorzów luminat festiv. Parcăm direct în fața destinației noastre din centru și savurăm căldura unui han tradițional.",
+            "en": "We start the day in a preheated car. The market square looks enchanted in the early morning light with hoarfrost. Parking in winter is straightforward.\n\nAt noon, we head for the President tower. The heater is on while we admire the impressive steel construction from outside and briefly inside.\n\nAfternoon in Silesian Park is comfortable thanks to the car. We park centrally and visit the stadium and the warm Planetarium. We enjoy the snowy landscape during short walks.\n\nIn the evening, we drive through winter-lit Chorzów. We park right in front of our destination in the center and enjoy the warmth of a traditional inn."
+          },
+          "stops": [
+            {
+              "name": "Parking near Market Square",
+              "tip_5lang": {
+                "de": "Achten Sie auf Schneehaufen, die Parklücken verengen können.",
+                "hu": "Figyeljen a hókupacokra, amik leszűkíthetik a parkolóhelyeket.",
+                "ro": "Atenție la mormanele de zăpadă care pot îngusta locurile de parcare.",
+                "en": "Watch out for snow piles that might narrow the available parking spots."
+              }
+            },
+            {
+              "name": "Chorzów Market Square",
+              "tip_5lang": {
+                "de": "Die Gehwege am Platz können bei Frost extrem glatt sein.",
+                "hu": "A tér járdái fagyos időben rendkívül csúszósak lehetnek.",
+                "ro": "Trotuarele din piață pot fi extrem de alunecoase în caz de îngheț.",
+                "en": "The pavements on the square can be extremely slippery when frozen."
+              }
+            },
+            {
+              "name": "President Mine Shaft Tower",
+              "tip_5lang": {
+                "de": "Der Parkplatz wird oft erst spät geräumt; Vorsicht bei Neuschnee.",
+                "hu": "A parkolót gyakran későn takarítják; óvatosan friss hó esetén.",
+                "ro": "Parcarea este adesea curățată târziu; atenție la zăpada proaspătă.",
+                "en": "The parking lot is often cleared late; be careful in fresh snow."
+              }
+            },
+            {
+              "name": "Silesian Park Parking",
+              "tip_5lang": {
+                "de": "Parken Sie nicht unter schneebeladenen Bäumen.",
+                "hu": "Ne parkoljon hóval terhelt fák alá.",
+                "ro": "Nu parcați sub copaci încărcați cu zăpadă.",
+                "en": "Avoid parking under trees heavily laden with snow."
+              }
+            },
+            {
+              "name": "Silesian Stadium",
+              "tip_5lang": {
+                "de": "Der Weg vom Parkplatz zum Eingang ist bei Wind sehr zugig.",
+                "hu": "A parkolótól a bejáratig vezető út szeles időben nagyon huzatos.",
+                "ro": "Drumul de la parcare la intrare este foarte expus vântului.",
+                "en": "The path from the parking lot to the entrance is very drafty."
+              }
+            },
+            {
+              "name": "Upper Silesian Ethnographic Park",
+              "tip_5lang": {
+                "de": "Festgefahrener Schnee auf dem Parkplatz erfordert vorsichtiges Anfahren.",
+                "hu": "A parkolóban lévő letaposott hó óvatos indulást igényel.",
+                "ro": "Zăpada bătătorită din parcare necesită o plecare de pe loc prudentă.",
+                "en": "Packed snow in the parking lot requires careful starting."
+              }
+            },
+            {
+              "name": "Silesian Planetarium",
+              "tip_5lang": {
+                "de": "Die Rampe zum Planetarium wird bei Frost gut gestreut.",
+                "hu": "A Planetáriumhoz vezető rámpát fagy esetén jól szórják.",
+                "ro": "Rampa către Planetariu este bine de obicei curățată iarna.",
+                "en": "The ramp to the Planetarium is usually well-salted during frost."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Führen Sie immer einen Eiskratzer und einen Besen im Auto mit.",
+              "Prüfen Sie den Frostschutz in der Scheibenwaschanlage.",
+              "Planen Sie mehr Zeit für die Parkplatzsuche in geräumten Zonen ein.",
+              "Vermeiden Sie hektische Lenkbewegungen auf vereisten Nebenstraßen.",
+              "Lassen Sie die Handbremse bei starkem Frost nach Möglichkeit offen."
+            ],
+            "hu": [
+              "Mindig tartson jégkaparót és kefét az autóban.",
+              "Ellenőrizze a fagyállót a szélvédőmosóban.",
+              "Hagyjon több időt a parkolóhely keresésére a takarított zónákban.",
+              "Kerülje a hirtelen kormánymozdulatokat a jeges mellékutcákon.",
+              "Erős fagyban lehetőleg ne húzza be a kéziféket."
+            ],
+            "ro": [
+              "Aveți întotdeauna o racletă și o perie în mașină.",
+              "Verificați antigelul în lichidul de parbriz.",
+              "Planificați mai mult timp pentru căutarea locului de parcare în zonele curățate.",
+              "Evitați manevrele bruște pe străzile secundare înghețate.",
+              "Nu trageți frâna de mână în caz de ger puternic."
+            ],
+            "en": [
+              "Always carry an ice scraper and a snow brush in your car.",
+              "Check that your windshield washer fluid is rated for freezing temperatures.",
+              "Allow extra time for finding parking in snow-cleared zones.",
+              "Avoid sudden steering movements on icy side streets.",
+              "Avoid using the parking brake in extreme frost to prevent it from seizing."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1241,6 +1847,214 @@
           "Be aware of rush hours, as buses and trams can be very crowded.",
           "The stops are usually well signposted."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt am Marktplatz von Chorzów. Wir nutzen die modernen Straßenbahnstationen mit ihren großen Dächern, um trocken auf unsere Verbindung zum Förderturm zu warten.\n\nMittags bringt uns die Tram bequem zum Kulturzentrum und weiter Richtung Park. Die Fahrt bietet einen trockenen Ausblick auf das geschäftige Treiben der Stadt im Regen.\n\nAm Nachmittag erreichen wir den Schlesischen Park. Die Haltestelle ist nah an den Indoor-Attraktionen wie dem Planetarium gelegen, sodass wir nur kurz durch den Regen müssen.\n\nDer Abend endet mit der Rückfahrt ins Zentrum. Wir genießen die Wärme in der Straßenbahn und die bunten Reflexionen der Stadtlichter auf den nassen Scheiben, bevor wir den Tag beenden.",
+            "hu": "A nap a chorzówi piactéren indul. A modern villamosmegállók nagy teteje alatt szárazon várhatjuk a csatlakozást a torony felé.\n\nDélben a villamos kényelmesen elvisz a Kulturális Központhoz, majd tovább a park irányába. Az út száraz betekintést nyújt a város esős forgatagába.\n\nDélután elérjük a Sziléziai Parkot. A megálló közel van az olyan benti látnivalókhoz, mint a Planetárium, így csak rövid ideig kell az esőben lennünk.\n\nAz este a visszautazással zárul a központba. Élvezzük a villamos melegét és a városi fények színes tükröződését a vizes ablaküvegeken.",
+            "ro": "Ziua începe în Piața din Chorzów. Folosim stațiile moderne de tramvai cu acoperișuri mari pentru a aștepta conexiunea spre turn la adăpost.\n\nLa prânz, tramvaiul ne duce confortabil la Centrul Cultural și mai departe spre parc. Călătoria oferă o vedere uscată asupra agitației orașului în ploaie.\n\nDupă-amiaza ajungem în Parcul Silezian. Stația este situată aproape de atracțiile interioare, cum ar fi Planetariul, deci stăm puțin în ploaie.\n\nSeara se încheie cu întoarcerea în centru. Savurăm căldura din tramvai și reflexiile colorate ale luminilor orașului pe geamurile ude înainte de finalul zilei.",
+            "en": "The day begins at Chorzów Market Square. We use the modern tram stations with their large roofs to wait dry for our connection to the tower.\n\nAt noon, the tram takes us comfortably to the Cultural Centre and further towards the park. The ride offers a dry view of the city's rainy hustle and bustle.\n\nIn the afternoon, we reach Silesian Park. The stop is located near indoor attractions like the Planetarium, so we only have to be in the rain briefly.\n\nEvening ends with the return trip to the center. We enjoy the warmth in the tram and the colorful reflections of city lights on the wet windows."
+          },
+          "stops": [
+            {
+              "name": "Chorzów Market Square",
+              "tip_5lang": {
+                "de": "Zentraler Knotenpunkt mit vielen überdachten Wartebereichen.",
+                "hu": "Központi csomópont számos fedett várakozóhellyel.",
+                "ro": "Nod central cu multe zone de așteptare acoperite.",
+                "en": "Central hub with many sheltered waiting areas."
+              }
+            },
+            {
+              "name": "President Mine Shaft Tower",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg von der Haltestelle; halten Sie den Schirm bereit.",
+                "hu": "Rövid séta a megállótól; tartsa készenlétben az esernyőt.",
+                "ro": "Scurtă plimbare de la stație; țineți umbrela pregătită.",
+                "en": "Short walk from the stop; keep your umbrella ready."
+              }
+            },
+            {
+              "name": "Chorzów Cultural Centre",
+              "tip_5lang": {
+                "de": "Haltestellen direkt vor der Tür ermöglichen fast trockenes Ankommen.",
+                "hu": "A közvetlenül az ajtó előtt lévő megállók szinte száraz érkezést biztosítanak.",
+                "ro": "Stațiile chiar în fața ușii permit o sosire aproape uscată.",
+                "en": "Stops right outside the door allow for almost dry arrival."
+              }
+            },
+            {
+              "name": "Park Śląski Stop",
+              "tip_5lang": {
+                "de": "Großer Unterstand vorhanden; idealer Startpunkt für den Parkbesuch.",
+                "hu": "Nagy váróterem található; ideális kiindulópont a parklátogatáshoz.",
+                "ro": "Refugiu mare disponibil; punct de plecare ideal pentru vizitarea parcului.",
+                "en": "Large shelter available; ideal starting point for the park visit."
+              }
+            },
+            {
+              "name": "Silesian Planetarium",
+              "tip_5lang": {
+                "de": "Etwas Fußweg im Freien; nutzen Sie die befestigten Wege.",
+                "hu": "Egy kis séta a szabadban; használja a kiépített utakat.",
+                "ro": "Puțin mers pe jos în aer liber; folosiți căile pavate.",
+                "en": "A bit of walking outdoors; stick to the paved paths."
+              }
+            },
+            {
+              "name": "Upper Silesian Ethnographic Park",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist gut angebunden, aber der Park ist weitläufig.",
+                "hu": "A megálló jól megközelíthető, de a park területe hatalmas.",
+                "ro": "Stația este bine conectată, dar parcul este foarte întins.",
+                "en": "The stop is well-connected, but the park area is quite large."
+              }
+            },
+            {
+              "name": "Return to the center",
+              "tip_5lang": {
+                "de": "Straßenbahnen fahren auch bei Regen sehr zuverlässig und oft.",
+                "hu": "A villamosok esőben is megbízhatóan és gyakran járnak.",
+                "ro": "Tramvaiele circulă fiabil și frecvent chiar și pe ploaie.",
+                "en": "Trams run reliably and frequently even during rainy weather."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die App 'Jakdojade' für Echtzeit-Abfahrten.",
+              "Vermeiden Sie das Warten an ungeschützten Bushaltestellen.",
+              "Die Straßenbahnen im GZM-Netz sind meist gut beheizt und trocken.",
+              "Kaufen Sie Tickets vorab digital, um Automaten im Regen zu meiden.",
+              "Halten Sie Abstand zu Pfützen an Bordsteinen, wenn Busse einfahren."
+            ],
+            "hu": [
+              "Használja a 'Jakdojade' alkalmazást a valós idejű indulásokhoz.",
+              "Kerülje a várakozást a fedetlen buszmegállókban.",
+              "A GZM hálózat villamosai általában jól fűtöttek és szárazak.",
+              "Vegye meg a jegyet digitálisan, hogy elkerülje az automatákat az esőben.",
+              "Tartson távolságot a tócsáktól a padkánál, amikor beáll a busz."
+            ],
+            "ro": [
+              "Folosiți aplicația 'Jakdojade' pentru plecări în timp real.",
+              "Evitați așteptarea în stațiile de autobuz neprotejate.",
+              "Tramvaiele din rețeaua GZM sunt de obicei bine încălzite și uscate.",
+              "Cumpărați bilete digital pentru a evita automatele în ploaie.",
+              "Stați departe de bălțile de lângă bordură când intră autobuzul."
+            ],
+            "en": [
+              "Use the 'Jakdojade' app for real-time departure information.",
+              "Avoid waiting at unsheltered bus stops if possible.",
+              "Trams in the GZM network are usually well-heated and dry.",
+              "Purchase tickets digitally to avoid standing at outdoor machines.",
+              "Stay back from puddles near the curb when vehicles are pulling in."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Start am Marktplatz. Wir steigen schnell in die warme Straßenbahn, die uns durch das winterliche Chorzów zum Förderturm bringt.\n\nMittags genießen wir die Fahrt zum Schlesischen Park. Die Tramfenster sind manchmal beschlagen, aber die Wärme im Inneren ist nach dem Aufenthalt im Freien herrlich.\n\nDer Nachmittag im Park wird durch die gute Anbindung erleichtert. Wir fahren bis zum Planetarium und verbringen dort die kälteste Zeit des Tages in angenehmer Temperatur.\n\nAbends bringt uns die Tram zurück ins Zentrum. Die beleuchteten Haltestellen wirken in der Dunkelheit einladend, und wir erreichen schnell ein warmes Café für den Ausklang.",
+            "hu": "Fagyos indulás a piactéren. Gyorsan felszállunk a meleg villamosra, amely a téli Chorzów-n át visz minket a torony felé.\n\nDélben élvezzük az utat a Sziléziai Parkhoz. A villamos ablakai néha párásak, de a benti meleg fenséges a kinti tartózkodás után.\n\nA délután a parkban a jó összeköttetésnek köszönhetően könnyebb. Elmegyünk a Planetáriumig, és ott töltjük a nap leghidegebb részét kellemes hőmérsékletben.\n\nEste a villamos visszavisz a központba. A kivilágított megállók hívogatóak a sötétben, és gyorsan elérünk egy meleg kávézót a záráshoz.",
+            "ro": "Un început geros în piață. Urcăm rapid în tramvaiul cald care ne duce prin Chorzów de iarnă către turn.\n\nLa prânz ne bucurăm de drumul către Parcul Silezian. Geamurile tramvaiului sunt uneori aburite, dar căldura din interior este minunată după timpul petrecut afară.\n\nDupă-amiaza în parc este mai ușoară datorită conexiunilor bune. Mergem până la Planetariu și petrecem acolo cea mai rece parte a zilei la o temperatură plăcută.\n\nSeara tramvaiul ne aduce înapoi în centru. Stațiile iluminate par primitoare în întuneric și ajungem rapid la o cafenea caldă pentru final.",
+            "en": "A frosty start at the market square. We quickly board the warm tram that takes us through wintery Chorzów to the tower.\n\nAt noon, we enjoy the ride to Silesian Park. The tram windows are sometimes foggy, but the warmth inside is wonderful after being outdoors.\n\nAfternoon in the park is made easier by the good connections. We ride to the Planetarium and spend the coldest part of the day there in a pleasant temperature.\n\nEvening leads us back to the center by tram. The illuminated stops look inviting in the dark, and we quickly reach a warm cafe to wrap up."
+          },
+          "stops": [
+            {
+              "name": "Chorzów Market Square",
+              "tip_5lang": {
+                "de": "In der Nähe gibt es Kioske mit heißen Getränken für die Wartezeit.",
+                "hu": "A közelben találhatók bódék forró italokkal a várakozási időre.",
+                "ro": "Există chioșcuri cu băuturi calde în apropiere pentru timpul de așteptare.",
+                "en": "Nearby kiosks offer hot drinks to keep you warm while waiting."
+              }
+            },
+            {
+              "name": "President Mine Shaft Tower",
+              "tip_5lang": {
+                "de": "Die Haltestellen sind im Winter gut gestreut und sicher.",
+                "hu": "A megállókat télen jól szórják és biztonságosak.",
+                "ro": "Stațiile sunt bine curățate și sigure pe timp de iarnă.",
+                "en": "The stops are usually well-salted and safe during winter."
+              }
+            },
+            {
+              "name": "Chorzów Cultural Centre",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Foyer als warmen Wartebereich für die nächste Tram.",
+                "hu": "Használja az aulát meleg várakozóhelyként a következő villamosig.",
+                "ro": "Folosiți holul ca zonă de așteptare caldă pentru următorul tramvai.",
+                "en": "Use the foyer as a warm waiting area for the next tram."
+              }
+            },
+            {
+              "name": "Park Śląski Stop",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Fahrplan genau, da Busse im Winter Verspätung haben können.",
+                "hu": "Ellenőrizze pontosan a menetrendet, mert a buszok télen késhetnek.",
+                "ro": "Verificați programul, autobuzele pot avea întârzieri iarna.",
+                "en": "Check the schedule carefully; buses may experience winter delays."
+              }
+            },
+            {
+              "name": "Silesian Planetarium",
+              "tip_5lang": {
+                "de": "Der Fußweg durch den Park kann bei Schnee länger dauern.",
+                "hu": "A parkon átvezető séta hóban hosszabb ideig tarthat.",
+                "ro": "Plimbarea prin parc poate dura mai mult în caz de zăpadă.",
+                "en": "The walk through the park might take longer in snowy conditions."
+              }
+            },
+            {
+              "name": "Upper Silesian Ethnographic Park",
+              "tip_5lang": {
+                "de": "Die Wege von der Haltestelle zum Parkeingang werden geräumt.",
+                "hu": "A megállótól a park bejáratáig vezető utakat takarítják.",
+                "ro": "Drumurile de la stație până la intrarea în parc sunt curățate.",
+                "en": "The paths from the stop to the park entrance are kept clear."
+              }
+            },
+            {
+              "name": "Return to the center",
+              "tip_5lang": {
+                "de": "Die Abendverbindungen sind auch im Winter sehr frequentiert.",
+                "hu": "Az esti járatok télen is nagyon sűrűn járnak.",
+                "ro": "Conexiunile de seară sunt frecvente și pe timp de iarnă.",
+                "en": "Evening connections remain frequent even during the winter season."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie warme Schuhe, da die Böden in den Bahnen kalt sein können.",
+              "Achten Sie auf Glatteis an den Ein- und Ausstiegen.",
+              "Nutzen Sie die Heizung in den Trams zum Aufwärmen der Hände.",
+              "Die Fahrpläne können bei extremem Schneefall leicht abweichen.",
+              "Haben Sie Ihre Fahrkarte griffbereit, um nicht lange im Kalten zu suchen."
+            ],
+            "hu": [
+              "Viseljen meleg cipőt, mert a járművek padlója hideg lehet.",
+              "Figyeljen a jegesedésre a fel- és leszálláskor.",
+              "Használja a villamosok fűtését a kezei felmelegítésére.",
+              "Extrém hóesésben a menetrendek kis mértékben eltérhetnek.",
+              "Tartsa kéznél a jegyét, hogy ne kelljen sokáig a hidegben keresgélni."
+            ],
+            "ro": [
+              "Purtați încălțăminte groasă, podeaua vehiculelor poate fi rece.",
+              "Atenție la gheață la urcare și coborâre.",
+              "Folosiți încălzirea din tramvaie pentru a vă încălzi mâinile.",
+              "Orarele pot varia ușor în caz de ninsori abundente.",
+              "Aveți biletul la îndemână pentru a nu-l căuta mult timp în frig."
+            ],
+            "en": [
+              "Wear warm boots as vehicle floors can be quite cold.",
+              "Watch out for black ice when boarding or exiting vehicles.",
+              "Use the heaters in the trams to warm up your hands.",
+              "Schedules may vary slightly during heavy snowfall.",
+              "Keep your ticket ready so you don't have to search for it in the cold."
+            ]
+          }
+        }
       }
     }
   }

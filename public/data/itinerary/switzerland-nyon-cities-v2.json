@@ -379,6 +379,206 @@
           "A bottle of water is essential on warm days.",
           "Many museums are closed on Mondays, check opening hours in advance."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein verregneter Tag in Nyon hat seinen ganz eigenen Charme, besonders am Genfersee. Wir beginnen unter den schützenden Kastanienbäumen der Esplanade, bevor wir in die unterirdischen Welten des Römermuseums flüchten. Mittags bietet das Schloss Nyon trockenen Unterschlupf mit herrlicher Aussicht. Den Nachmittag verbringen wir im Musée du Léman, um alles über den See zu erfahren, ohne nass zu werden. Der Tag endet mit einem kurzen, erfrischenden Spaziergang am nebligen Hafen.",
+            "hu": "Egy esős nap Nyonban különleges hangulatot áraszt, főleg a Genfi-tó partján. A gesztenyefák védelmében kezdünk az Esplanade-on, majd a Római Múzeum földalatti termeibe húzódunk az eső elől. Délben a várkastély nyújt menedéket és pazar kilátást. A délutánt a Genfi-tó Múzeumban töltjük, ahol mindent megtudhatunk a tóról anélkül, hogy bőrig áznánk. A napot egy rövid, frissítő sétával zárjuk a ködös kikötőben.",
+            "ro": "O zi ploioasă în Nyon are un farmec aparte, mai ales pe malul Lacului Leman. Începem sub protecția castanilor de pe Esplanadă, înainte de a ne refugia în lumile subterane ale Muzeului Roman. La prânz, Castelul Nyon oferă un adăpost uscat cu vederi magnifice. După-amiaza o petrecem la Muzeul Léman, învățând totul despre lac fără a ne uda. Ziua se încheie cu o scurtă plimbare revigorantă prin portul cețos.",
+            "en": "A rainy day in Nyon has its own unique charm, especially by Lake Geneva. We begin under the protective canopy of the Chestnut Esplanade before escaping the rain into the underground Roman Museum. At noon, Nyon Castle provides dry shelter and magnificent views. Spend the afternoon at the Léman Museum, learning everything about the lake without getting soaked. The day ends with a brief, refreshing walk through the misty port area."
+          },
+          "stops": [
+            {
+              "name": "Esplanade of Chestnut Trees",
+              "tip_5lang": {
+                "de": "Die dichten Kastanienbäume bieten einen natürlichen Regenschutz für den ersten Seeblick.",
+                "hu": "A sűrű gesztenyefák természetes esernyőként szolgálnak az első tóparti kilátáshoz.",
+                "ro": "Castanii deși oferă o protecție naturală împotriva ploii pentru prima vedere a lacului.",
+                "en": "The dense chestnut trees provide a natural umbrella for your first view of the lake."
+              }
+            },
+            {
+              "name": "Roman Columns",
+              "tip_5lang": {
+                "de": "Ein schneller Fotostopp; der Kalkstein glänzt im Regen besonders schön.",
+                "hu": "Gyors fotómegálló; a mészkő oszlopok különösen szépen csillognak az esőben.",
+                "ro": "O oprire rapidă pentru poze; coloanele de calcar strălucesc frumos în ploaie.",
+                "en": "A quick photo stop; the limestone columns glisten beautifully in the rain."
+              }
+            },
+            {
+              "name": "Roman Museum",
+              "tip_5lang": {
+                "de": "Perfekter Ort für Regentage, da sich die Ausstellungen komplett unter der Erde befinden.",
+                "hu": "Tökéletes helyszín esőben, mivel a kiállítások teljesen a föld alatt találhatók.",
+                "ro": "Loc perfect pentru zilele ploioase, deoarece expozițiile sunt complet subterane.",
+                "en": "Perfect spot for rainy days as the exhibitions are located entirely underground."
+              }
+            },
+            {
+              "name": "Nyon Castle",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Innenhof und die Ausstellungsräume, um trocken zu bleiben.",
+                "hu": "Használja a fedett belső udvart és a kiállítótermeket, hogy szárazon maradjon.",
+                "ro": "Folosiți curtea interioară acoperită și sălile de expoziție pentru a rămâne uscați.",
+                "en": "Utilize the covered inner courtyard and exhibition rooms to stay dry."
+              }
+            },
+            {
+              "name": "Temple of Nyon",
+              "tip_5lang": {
+                "de": "Ein ruhiger, trockener Ort für eine kurze Meditation während eines Regenschauers.",
+                "hu": "Csendes, száraz hely egy rövid meditációhoz a zápor idején.",
+                "ro": "Un loc liniștit și uscat pentru o scurtă meditație în timpul unei averse.",
+                "en": "A quiet, dry place for a brief meditation during a rain shower."
+              }
+            },
+            {
+              "name": "Léman Museum",
+              "tip_5lang": {
+                "de": "Ideal, um die Seefauna und -flora im Trockenen zu entdecken.",
+                "hu": "Ideális a tó élővilágának felfedezésére, fedett helyen.",
+                "ro": "Ideal pentru a descoperi fauna și flora lacului într-un mediu uscat.",
+                "en": "Ideal for discovering the lake's fauna and flora while staying dry."
+              }
+            },
+            {
+              "name": "Port of Nyon",
+              "tip_5lang": {
+                "de": "Die Cafés am Hafen sind ideal, um den Regen auf der Wasseroberfläche zu beobachten.",
+                "hu": "A kikötői kávézók ideálisak az esőcseppek táncának megfigyelésére a vízen.",
+                "ro": "Cafenelele din port sunt ideale pentru a observa ploaia pe suprafața apei.",
+                "en": "Harbor cafes are ideal for watching the rain dance on the water's surface."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nehmen Sie einen stabilen Regenschirm mit, da der Wind am See oft stark ist.",
+              "Die meisten Museen liegen nah beieinander, was die Wege im Regen kurz hält.",
+              "Besuchen Sie das Schlossbistro für ein warmes Getränk bei Regen.",
+              "Die Pflastersteine in der Altstadt können bei Nässe rutschig sein."
+            ],
+            "hu": [
+              "Vigyél erős esernyőt, mert a tavi szél gyakran megerősödik.",
+              "A legtöbb múzeum közel van egymáshoz, így rövid ideig kell az esőben gyalogolni.",
+              "Látogass el a vár bisztrójába egy meleg italra, ha elered az eső.",
+              "Az óváros macskakövei nedvesen csúszósak lehetnek."
+            ],
+            "ro": [
+              "Luați o umbrelă rezistentă, deoarece vântul de pe lac este adesea puternic.",
+              "Majoritatea muzeelor sunt aproape unul de celălalt, limitând mersul prin ploaie.",
+              "Vizitați bistroul castelului pentru o băutură caldă când plouă.",
+              "Pavelele din orașul vechi pot fi alunecoase când sunt ude."
+            ],
+            "en": [
+              "Bring a sturdy umbrella as lake winds can be quite strong.",
+              "Most museums are close to each other, minimizing your time walking in the rain.",
+              "Visit the castle bistro for a warm drink during a heavy downpour.",
+              "The cobblestones in the old town can be slippery when wet."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Nyon im Winter ist geprägt von der frischen Brise des Léman und schneebedeckten Alpen am Horizont. Wir beginnen den Morgen mit einem zügigen Spaziergang auf der Esplanade, bevor wir uns in den warmen Galerien des Römermuseums aufheizen. Mittags bietet das Schloss Nyon einen prunkvollen, beheizten Rückzugsort. Nachmittags genießen wir die maritime Winterstimmung im Musée du Léman. Der Tag endet im Hafen, wenn die Lichter der Stadt im kalten Wasser glitzern.",
+            "hu": "A téli Nyon a Genfi-tó friss szeléről és a látóhatáron sorakozó havas Alpokról szól. A reggelt egy frissítő sétával kezdjük az Esplanade-on, majd a Római Múzeum meleg galériáiban melegszünk fel. Délben a várkastély fűtött termeiben pihenünk. Délután a Genfi-tó Múzeum tengerparti téli hangulatát élvezzük. A nap a kikötőben ér véget, ahogy a város fényei csillogni kezdenek a hideg vízben.",
+            "ro": "Nyon în timpul iernii este definit de briza proaspătă a lacului și de Alpii înzăpeziți de la orizont. Începem dimineața cu o plimbare revigorantă pe Esplanadă, înainte de a ne încălzi în galeriile primitoare ale Muzeului Roman. La prânz, Castelul Nyon oferă un refugiu încălzit și fastuos. După-amiaza ne bucurăm de atmosfera maritimă de iarnă la Muzeul Léman. Ziua se încheie în port, când luminile orașului încep să sclipească în apa rece.",
+            "en": "Nyon in winter is defined by the fresh breeze from the Léman and snow-capped Alps on the horizon. Start the morning with a brisk walk on the Esplanade before warming up in the cozy galleries of the Roman Museum. At noon, Nyon Castle provides a heated, grand retreat. In the afternoon, enjoy the maritime winter atmosphere at the Léman Museum. The day concludes at the port as city lights begin to shimmer in the cold water."
+          },
+          "stops": [
+            {
+              "name": "Esplanade of Chestnut Trees",
+              "tip_5lang": {
+                "de": "Hervorragender Blick auf die verschneiten Alpengipfel auf der anderen Seeseite.",
+                "hu": "Kiváló kilátás a túlparton magasodó havas alpesi csúcsokra.",
+                "ro": "O vedere excelentă spre vârfurile înzăpezite ale Alpilor de pe malul opus.",
+                "en": "Excellent views of the snow-capped Alpine peaks on the opposite side of the lake."
+              }
+            },
+            {
+              "name": "Roman Columns",
+              "tip_5lang": {
+                "de": "Die antiken Säulen wirken im klaren Winterlicht besonders majestätisch.",
+                "hu": "Az antik oszlopok a tiszta téli fényben különösen fenségesen mutatnak.",
+                "ro": "Coloanele antice par deosebit de maiestuoase în lumina clară de iarnă.",
+                "en": "The ancient columns look particularly majestic in the clear winter light."
+              }
+            },
+            {
+              "name": "Roman Museum",
+              "tip_5lang": {
+                "de": "Ein behaglicher, beheizter Ort, um der Winterkälte für eine Weile zu entfliehen.",
+                "hu": "Kellemes, fűtött hely, hogy egy időre elmeneküljünk a téli hideg elől.",
+                "ro": "Un loc primitor și încălzit pentru a scăpa de frigul iernii pentru o vreme.",
+                "en": "A cozy, heated place to escape the winter cold for a while."
+              }
+            },
+            {
+              "name": "Nyon Castle",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Porzellansammlung in den warmen, historischen Räumen.",
+                "hu": "Látogassa meg a porcelángyűjteményt a meleg, történelmi termekben.",
+                "ro": "Vizitați colecția de porțelan în camerele istorice bine încălzite.",
+                "en": "Visit the porcelain collection in the warm, historical rooms."
+              }
+            },
+            {
+              "name": "Temple of Nyon",
+              "tip_5lang": {
+                "de": "Schutz vor der 'Bise', dem kalten Nordostwind, der oft durch Nyon weht.",
+                "hu": "Menedék a 'Bise' elől, ami a Nyonban gyakran fújó hideg északkeleti szél.",
+                "ro": "Adăpost împotriva 'Bise', vântul rece de nord-est care suflă adesea prin Nyon.",
+                "en": "Shelter from the 'Bise', the cold northeast wind that often blows through Nyon."
+              }
+            },
+            {
+              "name": "Léman Museum",
+              "tip_5lang": {
+                "de": "Die Aquarien bieten auch im Winter einen lebendigen Einblick in den See.",
+                "hu": "Az akváriumok télen is élénk betekintést nyújtanak a tó életébe.",
+                "ro": "Acvariile oferă o perspectivă vie asupra lacului chiar și în timpul iernii.",
+                "en": "The aquariums provide a lively glimpse into the lake even in winter."
+              }
+            },
+            {
+              "name": "Port of Nyon",
+              "tip_5lang": {
+                "de": "Die Wintersonne geht früh unter (ca. 17:00); genießen Sie das Dämmerlicht.",
+                "hu": "A téli nap korán nyugszik (kb. 17:00); élvezze az alkonyi fényeket.",
+                "ro": "Soarele de iarnă apune devreme (cca 17:00); bucurați-vă de lumina amurgului.",
+                "en": "The winter sun sets early (approx. 17:00); enjoy the twilight colors."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich nach dem Zwiebelprinzip, da die Museen gut beheizt sind.",
+              "Achten Sie auf Glatteis auf den Rampen zum Schloss.",
+              "Dämmerung beginnt um 16:30, planen Sie Ihre Fotos entsprechend.",
+              "Warme Handschuhe sind wegen des kalten Windes am Seeufer unerlässlich."
+            ],
+            "hu": [
+              "Öltözz rétegesen, mert a múzeumok jól fűtöttek.",
+              "Vigyázz a jegesedésre a várba vezető rámpákon.",
+              "A szürkület 16:30-kor kezdődik, tervezd ehhez a fotózást.",
+              "A meleg kesztyű elengedhetetlen a tóparti hideg szél miatt."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi, deoarece muzeele sunt bine încălzite.",
+              "Atenție la polei pe rampele care duc spre castel.",
+              "Amurgul începe la 16:30, planificați fotografiile în consecință.",
+              "Mănușile călduroase sunt esențiale din cauza vântului rece de pe mal."
+            ],
+            "en": [
+              "Dress in layers as the museums are well-heated.",
+              "Watch out for ice on the ramps leading up to the castle.",
+              "Twilight begins at 16:30, plan your photos accordingly.",
+              "Warm gloves are essential due to the cold wind by the lakeside."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -729,6 +929,188 @@
           "Always use a good lock when leaving your bike.",
           "The 'Route du Lac' cycle path is well-signposted and offers a safe and scenic ride."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert in Nyon gute Ausrüstung, aber die Wege am See sind gut befestigt. Wir starten am Hafen und radeln schnell zum schützenden Musée du Léman. Mittags erreichen wir das Schloss, wo wir das Fahrrad im überdachten Bereich abstellen können. Nach dem Römermuseum führt der Weg zum botanischen Garten, der im Regen eine besonders intensive grüne Farbe annimmt. Den Tag beenden wir trotz Nässe mit einem Blick auf den stürmischen Nyon Beach.",
+            "hu": "Az esőben való biciklizés jó felszerelést igényel, de a tóparti utak jól karbantartottak. A kikötőben kezdünk, és gyorsan a védett Genfi-tó Múzeumhoz tekerünk. Délben érjük el a várat, ahol fedett helyen hagyhatjuk a kerékpárt. A Római Múzeum után az út a botanikus kertbe vezet, amely esőben különösen élénkzöld színt ölt. A napot a nedvesség ellenére a viharos Nyon Beach látványával zárjuk.",
+            "ro": "Mersul pe bicicletă în ploaie necesită echipament bun, dar pistele de pe malul lacului sunt bine întreținute. Pornim din port și pedalăm rapid spre Muzeul Léman. La prânz ajungem la castel, unde putem lăsa bicicleta într-o zonă acoperită. După Muzeul Roman, drumul duce la grădina botanică, ce capătă o culoare verde intensă în ploaie. Încheiem ziua cu o privire asupra plajei Nyon, în ciuda vremii umede.",
+            "en": "Cycling in the rain requires good gear, but the lakeside paths in Nyon are well-paved. We start at the port and cycle quickly to the sheltered Léman Museum. At noon, we reach the castle, where bikes can be parked in a covered area. After the Roman Museum, the route leads to the botanical garden, which takes on a vibrant green hue in the rain. End the day with a view of the stormy Nyon Beach despite the wet conditions."
+          },
+          "stops": [
+            {
+              "name": "Port of Nyon",
+              "tip_5lang": {
+                "de": "Vorsicht beim Losfahren; die Markierungen am Boden können bei Nässe rutschig sein.",
+                "hu": "Vigyázz az indulásnál; a felfestések csúszósak lehetnek nedvesen.",
+                "ro": "Atenție la plecare; marcajele de pe sol pot fi alunecoase când sunt ude.",
+                "en": "Careful when starting; road markings can be slippery when wet."
+              }
+            },
+            {
+              "name": "Léman Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch als Trockenpause für Ihre Kleidung.",
+                "hu": "Használd ki a múzeumlátogatást, hogy megszáradjanak a ruháid.",
+                "ro": "Folosiți vizita la muzeu ca o pauză pentru a vă usca hainele.",
+                "en": "Use the museum visit as a dry break for your clothing."
+              }
+            },
+            {
+              "name": "Nyon Castle",
+              "tip_5lang": {
+                "de": "Es gibt Fahrradständer in der Nähe des Schlosseingangs, teils windgeschützt.",
+                "hu": "A vár bejárata közelében vannak biciklitárolók, részben szélvédett helyen.",
+                "ro": "Există rastele pentru biciclete lângă intrarea castelului, parțial ferite de vânt.",
+                "en": "There are bike racks near the castle entrance, some sheltered from the wind."
+              }
+            },
+            {
+              "name": "Roman Museum",
+              "tip_5lang": {
+                "de": "Parken Sie oben am Platz und gehen Sie die Treppen zum Museum hinunter.",
+                "hu": "Parkolj fent a téren, és gyalog menj le a múzeumba vezető lépcsőkön.",
+                "ro": "Parcați sus în piață și coborâți treptele spre muzeu.",
+                "en": "Park up in the square and walk down the stairs to the museum."
+              }
+            },
+            {
+              "name": "Conservatory and Botanical Gardens",
+              "tip_5lang": {
+                "de": "Die Gewächshäuser sind ein idealer Zufluchtsort vor starken Schauern.",
+                "hu": "Az üvegházak ideális menedéket nyújtanak a heves záporok elől.",
+                "ro": "Serele sunt un refugiu ideal în cazul averselor puternice.",
+                "en": "The greenhouses are an ideal sanctuary during heavy showers."
+              }
+            },
+            {
+              "name": "Nyon Beach",
+              "tip_5lang": {
+                "de": "Der Radweg zum Strand ist flach und auch bei Regen gut befahrbar.",
+                "hu": "A strandra vezető bicikliút sík és esőben is jól járható.",
+                "ro": "Pista de biciclete spre plajă este plană și ușor de parcurs chiar și pe ploaie.",
+                "en": "The bike path to the beach is flat and manageable even in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Kleidung und Überschuhe.",
+              "Prüfen Sie Ihre Bremsen, da der Bremsweg auf nassem Asphalt länger ist.",
+              "Vermeiden Sie schnelle Kurven auf den Kopfsteinpflasterabschnitten der Altstadt.",
+              "Ein Regenschutz für den Sattel ist sehr empfehlenswert."
+            ],
+            "hu": [
+              "Viselj vízálló ruházatot és kamáslit.",
+              "Ellenőrizd a fékeket, mert a fékút hosszabb a nedves aszfalton.",
+              "Kerüld a hirtelen kanyarokat az óváros macskaköves részein.",
+              "A nyeregvédő huzat nagyon ajánlott esős időben."
+            ],
+            "ro": [
+              "Purtați haine impermeabile și huse pentru încălțăminte.",
+              "Verificați frânele, deoarece distanța de frânare este mai mare pe asfalt ud.",
+              "Evitați virajele bruște pe secțiunile cu pavaj din orașul vechi.",
+              "O husă de protecție pentru șa este foarte recomandată."
+            ],
+            "en": [
+              "Wear waterproof clothing and shoe covers.",
+              "Check your brakes as stopping distance is longer on wet asphalt.",
+              "Avoid sharp turns on the cobblestone sections of the old town.",
+              "A rain cover for your saddle is highly recommended."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im winterlichen Nyon ist erfrischend, solange man gegen den kalten Wind geschützt ist. Die Tour startet am Hafen mit Blick auf die dampfende Wasseroberfläche. Wir machen Pausen im Léman Museum und im Schloss, um uns aufzuwärmen. Die Fahrt zum botanischen Garten führt durch ruhige, kahle Alleen, die eine meditative Stille ausstrahlen. Der Tag endet am Nyon Beach, wo die tiefstehende Wintersonne das Wasser in goldenes Licht taucht, bevor es frostig wird.",
+            "hu": "A téli biciklizés Nyonban frissítő élmény, amíg védve vagyunk a hideg széltől. A túra a kikötőben indul, rálátással a gőzölgő tó felszínére. Megállunk a Genfi-tó Múzeumnál és a várnál, hogy felmelegedjünk. A botanikus kerthez vezető út csendes, kopár fasorokon visz keresztül. A nap a Nyon Beach-en ér véget, ahol az alacsonyan járó téli nap arany fénybe vonja a vizet, mielőtt beáll a fagy.",
+            "ro": "Mersul pe bicicletă în Nyol iarna este revigorant, atâta timp cât sunteți protejați de vântul rece. Turul începe în port cu o vedere spre suprafața lacului care aburește. Facem pauze la Muzeul Léman și la castel pentru a ne încălzi. Drumul spre grădina botanică trece prin alei liniștite și golașe. Ziua se încheie la plaja Nyon, unde soarele jos de iarnă scaldă apa în lumină aurie înainte de lăsarea gerului.",
+            "en": "Cycling in wintry Nyon is refreshing as long as you are protected against the cold wind. The tour starts at the port with views of the steaming water surface. Take breaks at the Léman Museum and the castle to warm up. The ride to the botanical garden goes through quiet, bare avenues that radiate a meditative silence. The day ends at Nyon Beach, where the low winter sun bathes the water in golden light before it gets frosty."
+          },
+          "stops": [
+            {
+              "name": "Port of Nyon",
+              "tip_5lang": {
+                "de": "Der Wind am Seeufer kann die gefühlte Temperatur deutlich senken.",
+                "hu": "A tóparti szél jelentősen csökkentheti a hőérzetet.",
+                "ro": "Vântul de pe malul lacului poate scădea semnificativ temperatura resimțită.",
+                "en": "The wind by the lakeshore can significantly lower the perceived temperature."
+              }
+            },
+            {
+              "name": "Léman Museum",
+              "tip_5lang": {
+                "de": "Guter Stopp, um die eingefrorenen Finger wieder beweglich zu machen.",
+                "hu": "Jó megálló, hogy az átfagyott ujjainkat újra átmozgassuk.",
+                "ro": "O oprire bună pentru a vă recăpăta mobilitatea degetelor înghețate.",
+                "en": "A good stop to get frozen fingers moving again."
+              }
+            },
+            {
+              "name": "Nyon Castle",
+              "tip_5lang": {
+                "de": "Die Auffahrt zum Schloss hält den Kreislauf in Schwung.",
+                "hu": "A várba való felkapaszkodás segít szinten tartani a vérkeringést.",
+                "ro": "Urcarea spre castel vă va ajuta să vă mențineți circulația activă.",
+                "en": "The ride up to the castle keeps your circulation going."
+              }
+            },
+            {
+              "name": "Roman Museum",
+              "tip_5lang": {
+                "de": "Die unterirdische Lage bietet konstante, milde Temperaturen.",
+                "hu": "A földalatti elhelyezkedés állandó, enyhe hőmérsékletet biztosít.",
+                "ro": "Locația subterană oferă temperaturi constante și blânde.",
+                "en": "The underground location provides constant, mild temperatures."
+              }
+            },
+            {
+              "name": "Conservatory and Botanical Gardens",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe; im Winter sind hier kaum Touristen unterwegs.",
+                "hu": "Élvezze a nyugalmat; télen alig járnak erre turisták.",
+                "ro": "Bucurați-vă de liniște; iarna sunt foarte puțini turiști pe aici.",
+                "en": "Enjoy the peace; very few tourists are around in winter."
+              }
+            },
+            {
+              "name": "Nyon Beach",
+              "tip_5lang": {
+                "de": "Bei Minusgraden können die Steine am Ufer vereist und sehr glatt sein.",
+                "hu": "Mínuszok esetén a parti kövek jegesek és nagyon csúszósak lehetnek.",
+                "ro": "În cazul temperaturilor negative, pietrele de pe mal pot fi înghețate și foarte alunecoase.",
+                "en": "In freezing temperatures, rocks by the shore can be icy and very slippery."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie Thermo-Handschuhe und winddichte Kleidung.",
+              "Die Tage sind kurz; sorgen Sie für eine funktionierende Beleuchtung am Rad.",
+              "Vermeiden Sie Waldwege bei gefrorenem Boden wegen Sturzgefahr.",
+              "Trinken Sie zwischendurch etwas Warmes aus einer Thermoskanne."
+            ],
+            "hu": [
+              "Használj termokesztyűt és szélálló ruházatot.",
+              "A nappalok rövidek; ügyelj a kerékpár megfelelő világítására.",
+              "Fagyott talaj esetén kerüld az erdei utakat az elesés veszélye miatt.",
+              "Igyál időnként valami meleget egy termoszból."
+            ],
+            "ro": [
+              "Folosiți mănuși termice și îmbrăcăminte rezistentă la vânt.",
+              "Zilele sunt scurte; asigurați-vă că aveți lumini funcționale la bicicletă.",
+              "Evitați drumurile prin pădure dacă solul este înghețat, din cauza riscului de cădere.",
+              "Beți ceva cald dintr-un termos din când în când."
+            ],
+            "en": [
+              "Use thermal gloves and windproof clothing.",
+              "Days are short; ensure your bike lights are working properly.",
+              "Avoid forest paths if the ground is frozen due to fall risk.",
+              "Drink something warm from a thermos occasionally."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1084,6 +1466,188 @@
           "The streets in the old town are narrow, drive carefully.",
           "Plan your drives between clusters outside of peak hours to avoid traffic."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Nyon auch bei starkem Regen bequem zu erkunden. Wir parken am Seeufer und erreichen schnell den Hafen und das Musée du Léman. Mittags wechseln wir zum Parkplatz in der Altstadt, um das Schloss und das Römermuseum trockenen Fußes zu erreichen. Die Fahrt zwischen den Sehenswürdigkeiten bietet Schutz vor den Elementen, während man die Aussicht auf den verregneten Genfersee genießt. Den Tag lassen wir entspannt ausklingen, ohne uns um das Wetter sorgen zu müssen.",
+            "hu": "Autóval Nyon heves esőben is kényelmesen felfedezhető. A tóparton parkolunk, ahonnan gyorsan elérjük a kikötőt és a Genfi-tó Múzeumot. Délben az óvárosi parkolóba hajtunk, hogy száraz lábbal érjük el a várat és a Római Múzeumot. A látnivalók közötti út védelmet nyújt az elemektől, miközben élvezzük a kilátást az eső áztatta tóra. A napot nyugodtan zárjuk, nem kell aggódnunk az időjárás miatt.",
+            "ro": "Cu mașina, Nyon poate fi explorat confortabil chiar și pe ploaie torențială. Parcăm pe malul lacului și ajungem rapid în port și la Muzeul Léman. La prânz ne mutăm în parcarea din orașul vechi pentru a ajunge la castel și la Muzeul Roman fără a ne uda picioarele. Drumul între obiective oferă protecție împotriva elementelor, în timp ce ne bucurăm de vederea spre lacul plouat. Încheiem ziua relaxați, fără grija vremii.",
+            "en": "Nyon is easy to explore by car even in heavy rain. Park by the lakeshore to quickly reach the port and Léman Museum. At noon, move to the Old Town parking to access the castle and Roman Museum while staying dry. Driving between sights provides shelter from the elements while you enjoy views of the rainy Lake Geneva. End the day relaxed, without having to worry about the weather."
+          },
+          "stops": [
+            {
+              "name": "Lakeside Parking",
+              "tip_5lang": {
+                "de": "Ein guter Ausgangspunkt, um schnell zu den Museen am See zu gelangen.",
+                "hu": "Jó kiindulópont, hogy gyorsan elérjük a tóparti múzeumokat.",
+                "ro": "Un punct bun de plecare pentru a ajunge rapid la muzeele de pe mal.",
+                "en": "A good starting point to quickly reach the lakeside museums."
+              }
+            },
+            {
+              "name": "Port of Nyon",
+              "tip_5lang": {
+                "de": "Kurze Wege vom Parkplatz zum Hafen minimieren die Zeit im Regen.",
+                "hu": "A parkolótól a kikötőig tartó rövid út minimalizálja az esőben töltött időt.",
+                "ro": "Distanțele scurte de la parcare la port minimizează timpul petrecut în ploaie.",
+                "en": "Short distances from parking to the port minimize time spent in the rain."
+              }
+            },
+            {
+              "name": "Léman Museum",
+              "tip_5lang": {
+                "de": "Das Museum ist nur wenige Schritte von den Parkplätzen entfernt.",
+                "hu": "A múzeum mindössze pár lépésre található a parkolóhelyektől.",
+                "ro": "Muzeul se află la doar câțiva pași de locurile de parcare.",
+                "en": "The museum is just a few steps away from the parking spaces."
+              }
+            },
+            {
+              "name": "Old Town Parking",
+              "tip_5lang": {
+                "de": "Überdachte Parkhäuser in der Nähe sind bei Regen vorzuziehen.",
+                "hu": "A közeli fedett parkolóházakat részesítsük előnyben esőben.",
+                "ro": "Parcările supraetajate acoperite din apropiere sunt de preferat când plouă.",
+                "en": "Covered parking garages nearby are preferable when it rains."
+              }
+            },
+            {
+              "name": "Nyon Castle",
+              "tip_5lang": {
+                "de": "Der Weg vom Altstadtparkplatz zum Schloss ist meist asphaltiert.",
+                "hu": "Az óvárosi parkolótól a várig vezető út többnyire aszfaltozott.",
+                "ro": "Drumul de la parcarea din orașul vechi spre castel este în mare parte asfaltat.",
+                "en": "The path from the Old Town parking to the castle is mostly paved."
+              }
+            },
+            {
+              "name": "Roman Museum",
+              "tip_5lang": {
+                "de": "Vom Parkplatz aus ist der Eingang des Museums in wenigen Minuten erreichbar.",
+                "hu": "A parkolóból a múzeum bejárata pár perc alatt elérhető.",
+                "ro": "De la parcare, intrarea muzeului este accesibilă în câteva minute.",
+                "en": "From the parking lot, the museum entrance is reachable in a few minutes."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Parkhäuser 'La Duche' oder 'Perdtemps', um trocken zu bleiben.",
+              "Stellen Sie sicher, dass Ihre Scheibenwischer einwandfrei funktionieren.",
+              "Planen Sie etwas mehr Zeit für den Verkehr bei Regen ein.",
+              "Haben Sie Kleingeld oder eine Park-App für die Gebühren bereit."
+            ],
+            "hu": [
+              "Használd a 'La Duche' vagy 'Perdtemps' parkolóházakat, hogy száraz maradj.",
+              "Győződj meg róla, hogy az ablaktörlők megfelelően működnek.",
+              "Számolj kicsivel több időt a forgalomra esőben.",
+              "Készíts elő aprópénzt vagy parkolási appot a díjakhoz."
+            ],
+            "ro": [
+              "Folosiți parcările 'La Duche' sau 'Perdtemps' pentru a rămâne uscați.",
+              "Asigurați-vă că ștergătoarele de parbriz funcționează perfect.",
+              "Planificați puțin mai mult timp pentru trafic pe ploaie.",
+              "Aveți pregătit mărunțiș sau o aplicație de parcare pentru taxe."
+            ],
+            "en": [
+              "Use the 'La Duche' or 'Perdtemps' parking garages to stay dry.",
+              "Ensure your windshield wipers are working perfectly.",
+              "Plan a bit more time for traffic during rain.",
+              "Have small change or a parking app ready for the fees."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliche Autofahrten in Nyon bieten wunderschöne Ausblicke auf die verschneite Landschaft rund um den Genfersee. Wir beginnen am Seeufer, wo die klare Luft für weite Sicht sorgt. Die gut beheizten Museen bieten den perfekten Kontrast zur Kälte draußen. Zwischen dem Schloss und dem Römermuseum genießen wir die winterliche Atmosphäre der Altstadt aus der Wärme des Autos. Der Tag endet im Hafen, wo wir den Sonnenuntergang bequem vom Auto aus beobachten können, bevor wir uns auf den Heimweg machen.",
+            "hu": "A téli autózás Nyonban gyönyörű kilátást nyújt a Genfi-tó körüli havas tájra. A tóparton kezdünk, ahol a tiszta levegő messzi kilátást biztosít. A jól fűtött múzeumok tökéletes kontrasztot alkotnak a kinti hideggel. A vár és a Római Múzeum között az autó melegéből élvezzük az óváros téli hangulatát. A nap a kikötőben ér véget, ahol kényelmesen, az autóból nézhetjük végig a naplementét, mielőtt hazaindulnánk.",
+            "ro": "Călătoriile cu mașina în Nyon iarna oferă vederi superbe asupra peisajului înzăpezit din jurul lacului. Începem pe malul lacului, unde aerul clar permite o vizibilitate mare. Muzeele bine încălzite oferă contrastul perfect cu frigul de afară. Între castel și Muzeul Roman, ne bucurăm de atmosfera de iarnă a orașului vechi din căldura mașinii. Ziua se încheie în port, unde putem observa apusul confortabil din mașină înainte de a pleca spre casă.",
+            "en": "Winter drives in Nyon offer beautiful views of the snowy landscape around Lake Geneva. We start at the lakeshore, where the clear air allows for distant views. Well-heated museums provide the perfect contrast to the cold outside. Between the castle and the Roman Museum, enjoy the wintry atmosphere of the old town from the warmth of your car. The day ends at the port, where you can comfortably watch the sunset from your car before heading home."
+          },
+          "stops": [
+            {
+              "name": "Lakeside Parking",
+              "tip_5lang": {
+                "de": "Achten Sie auf eventuelle Vereisung der Parkplatzoberfläche am Morgen.",
+                "hu": "Figyelj a parkoló felületének esetleges jegesedésére reggelente.",
+                "ro": "Atenție la eventuala gheață de pe suprafața parcării dimineața.",
+                "en": "Watch out for potential icing on the parking surface in the morning."
+              }
+            },
+            {
+              "name": "Port of Nyon",
+              "tip_5lang": {
+                "de": "Das Auto bietet einen warmen Rückzugsort nach einem kurzen Spaziergang am See.",
+                "hu": "Az autó meleg menedéket nyújt egy rövid tóparti séta után.",
+                "ro": "Mașina oferă un refugiu călduros după o scurtă plimbare pe mal.",
+                "en": "The car provides a warm retreat after a short walk along the lake."
+              }
+            },
+            {
+              "name": "Léman Museum",
+              "tip_5lang": {
+                "de": "Parkplätze sind im Winter meist reichlich vorhanden.",
+                "hu": "Télen általában bőségesen akad szabad parkolóhely.",
+                "ro": "Locurile de parcare sunt de obicei din abundență în timpul iernii.",
+                "en": "Parking spaces are usually plentiful in winter."
+              }
+            },
+            {
+              "name": "Old Town Parking",
+              "tip_5lang": {
+                "de": "Tiefgaragen sind wärmer und ersparen das Eiskratzen bei der Rückkehr.",
+                "hu": "A mélygarázsok melegebbek, és megkímélnek a jégkaparástól visszatéréskor.",
+                "ro": "Parcările subterane sunt mai calde și vă scutesc de răzuitul gheții la întoarcere.",
+                "en": "Underground garages are warmer and save you from scraping ice upon return."
+              }
+            },
+            {
+              "name": "Nyon Castle",
+              "tip_5lang": {
+                "de": "Die steilen Zufahrten zur Altstadt werden im Winter gut geräumt.",
+                "hu": "Az óvárosba vezető meredek utakat télen jól takarítják.",
+                "ro": "Accesul abrupt spre orașul vechi este bine curățat în timpul iernii.",
+                "en": "The steep access roads to the old town are well-cleared in winter."
+              }
+            },
+            {
+              "name": "Roman Museum",
+              "tip_5lang": {
+                "de": "Ein kurzer Fußweg vom Parkplatz; halten Sie sich an die geräumten Wege.",
+                "hu": "Rövid séta a parkolótól; maradj a letakarított utakon.",
+                "ro": "O scurtă plimbare de la parcare; rămâneți pe drumurile curățate.",
+                "en": "A short walk from the parking lot; stick to the cleared paths."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in der Schweiz von Oktober bis April absolut notwendig.",
+              "Führen Sie einen Eiskratzer und eventuell Enteisungsspray mit.",
+              "Die Straßen in Nyon werden effizient geräumt, aber Vorsicht in Nebenstraßen.",
+              "Überprüfen Sie den Frostschutz in Ihrer Scheibenwaschanlage."
+            ],
+            "hu": [
+              "Svájcban október és április között téli gumi használata kötelező.",
+              "Tarts az autóban jégkaparót és esetleg jégoldó spray-t.",
+              "Nyon útjait hatékonyan takarítják, de a mellékutcákban légy óvatos.",
+              "Ellenőrizd a szélvédőmosó fagyállóságát."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt absolut necesare în Elveția din octombrie până în aprilie.",
+              "Aveți la îndemână o răzuitoare de gheață și eventual un spray de dezghețare.",
+              "Străzile din Nyon sunt curățate eficient, dar atenție pe străzile secundare.",
+              "Verificați nivelul de antigel din lichidul de parbriz."
+            ],
+            "en": [
+              "Winter tires are absolutely necessary in Switzerland from October to April.",
+              "Carry an ice scraper and possibly a de-icing spray in the car.",
+              "Roads in Nyon are cleared efficiently, but be careful on side streets.",
+              "Check the frost protection in your windshield washer fluid."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1439,6 +2003,188 @@
           "Buses run frequently, but check the schedule for the last bus back to your accommodation.",
           "Validate your ticket before boarding or buy it directly from the driver if possible."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Dank der kurzen Wege und guten Busverbindungen ist Nyon auch bei Regen ideal mit dem Nahverkehr zu erkunden. Vom Bahnhof gelangen wir schnell in die Altstadt zum Schloss und zum Römermuseum. Die Busfahrt hinunter zum Hafen schützt uns vor den steilen, nassen Wegen. In den Museen am Seeufer können wir den Nachmittag im Trockenen verbringen. Der Tag endet entspannt mit der Rückfahrt zum Bahnhof, während draußen der Regen gegen die Scheiben peitscht.",
+            "hu": "A rövid távolságoknak és a jó buszközlekedésnek köszönhetően Nyon esőben is kiválóan felfedezhető tömegközlekedéssel. A vasútállomástól gyorsan elérjük az óvárost, a várat és a Római Múzeumot. A kikötőbe lefelé tartó buszút megvéd a meredek, nedves utaktól. A tóparti múzeumokban szárazon tölthetjük a délutánt. A nap nyugodtan zárul a vasútállomásra való visszautazással, miközben odakint az eső veri az ablakot.",
+            "ro": "Datorită distanțelor scurte și a conexiunilor bune de autobuz, Nyon este ideal de explorat cu transportul public chiar și pe ploaie. De la gară ajungem rapid în orașul vechi, la castel și la Muzeul Roman. Călătoria cu autobuzul spre port ne protejează de drumurile abrupte și ude. În muzeele de pe mal ne putem petrece după-amiaza la adăpost. Ziua se încheie relaxat cu drumul înapoi spre gară, în timp ce ploaia bate în geamuri.",
+            "en": "Thanks to short distances and good bus connections, Nyon is ideal to explore by transit even in the rain. From the station, quickly reach the old town, castle, and Roman Museum. The bus ride down to the port protects us from the steep, wet paths. Spend the afternoon in the dry comfort of the lakeside museums. The day ends relaxed with the ride back to the station while the rain lashes against the windows."
+          },
+          "stops": [
+            {
+              "name": "Nyon Train Station",
+              "tip_5lang": {
+                "de": "Der Bahnhof verfügt über überdachte Wartebereiche.",
+                "hu": "A vasútállomás fedett váróterekkel rendelkezik.",
+                "ro": "Gara dispune de zone de așteptare acoperite.",
+                "en": "The station has covered waiting areas."
+              }
+            },
+            {
+              "name": "Nyon Castle",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle befindet sich ganz in der Nähe des Schlosses.",
+                "hu": "A buszmegálló nagyon közel található a várkastélyhoz.",
+                "ro": "Stația de autobuz este situată foarte aproape de castel.",
+                "en": "The bus stop is located very close to the castle."
+              }
+            },
+            {
+              "name": "Roman Museum",
+              "tip_5lang": {
+                "de": "Das Museum ist vom Schloss aus in wenigen Minuten zu Fuß erreichbar.",
+                "hu": "A múzeum a vártól pár perces sétával elérhető.",
+                "ro": "Muzeul este accesibil pe jos în câteva minute de la castel.",
+                "en": "The museum is reachable on foot in a few minutes from the castle."
+              }
+            },
+            {
+              "name": "Esplanade of Chestnut Trees",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp für die Aussicht; Busse fahren regelmäßig ab hier.",
+                "hu": "Rövid megálló a kilátásért; a buszok innen rendszeresen indulnak.",
+                "ro": "O scurtă oprire pentru priveliște; autobuzele pleacă regulat de aici.",
+                "en": "A short stop for the view; buses depart regularly from here."
+              }
+            },
+            {
+              "name": "Port of Nyon",
+              "tip_5lang": {
+                "de": "Vom Hafen aus gibt es direkte Busverbindungen zurück zum Bahnhof.",
+                "hu": "A kikötőtől közvetlen buszjáratok indulnak vissza a vasútállomásra.",
+                "ro": "Din port există conexiuni directe de autobuz înapoi spre gară.",
+                "en": "There are direct bus connections back to the station from the port."
+              }
+            },
+            {
+              "name": "Léman Museum",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle 'Nyon, Rive' liegt fast direkt vor dem Museum.",
+                "hu": "A 'Nyon, Rive' buszmegálló szinte közvetlenül a múzeum előtt van.",
+                "ro": "Stația de autobuz 'Nyon, Rive' este situată aproape direct în fața muzeului.",
+                "en": "The 'Nyon, Rive' bus stop is located almost directly in front of the museum."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die App 'SBB Mobile' für Echtzeit-Fahrpläne.",
+              "Die Buslinie 803 verbindet den Bahnhof bequem mit dem Seeufer.",
+              "Ein Tagesticket ist oft günstiger als Einzelfahrten.",
+              "Bahnhöfe und Busse sind in der Schweiz sauber und trocken."
+            ],
+            "hu": [
+              "Használd az 'SBB Mobile' appot a valós idejű menetrendekhez.",
+              "A 803-as buszvonal kényelmesen összeköti az állomást a tóparttal.",
+              "A napijegy gyakran olcsóbb, mint az egyedi jegyek.",
+              "Svájcban az állomások és a buszok tiszták és szárazak."
+            ],
+            "ro": [
+              "Folosiți aplicația 'SBB Mobile' pentru orare în timp real.",
+              "Linia de autobuz 803 conectează confortabil gara cu malul lacului.",
+              "Un abonament de o zi este adesea mai ieftin decât biletele individuale.",
+              "Gările și autobuzele din Elveția sunt curate și uscate."
+            ],
+            "en": [
+              "Use the 'SBB Mobile' app for real-time schedules.",
+              "Bus line 803 conveniently connects the station with the lakeshore.",
+              "A day pass is often cheaper than individual tickets.",
+              "Stations and buses in Switzerland are clean and dry."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Nyon mit dem Nahverkehr zu erkunden, ist im Winter besonders behaglich. Die beheizten Züge und Busse bieten einen angenehmen Kontrast zur klaren, kalten Winterluft. Wir starten am Bahnhof und erreichen schnell das majestätische Schloss. Die kurzen Wege zwischen den Museen halten die Kälte fern, während wir die kulturellen Schätze Nyons entdecken. Nachmittags genießen wir die winterliche Ruhe am See, bevor uns der Bus zurück in die Wärme des Bahnhofs bringt. Ein entspannter Tag ohne Parkplatzsorgen.",
+            "hu": "Nyon felfedezése tömegközlekedéssel télen különösen otthonos. A fűtött vonatok és buszok kellemes kontrasztot nyújtanak a tiszta, hideg téli levegővel. A vasútállomáson kezdünk, és gyorsan elérjük a fenséges várat. A múzeumok közötti rövid távolságok távol tartják a hideget, miközben felfedezzük Nyon kulturális kincseit. Délután a tóparti téli nyugalmat élvezzük, mielőtt a busz visszavisz minket az állomás melegébe. Nyugodt nap parkolási gondok nélkül.",
+            "ro": "Explorarea orașului Nyon cu transportul public este deosebit de confortabilă iarna. Trenurile și autobuzele încălzite oferă un contrast plăcut cu aerul curat și rece de iarnă. Începem de la gară și ajungem rapid la castelul maiestuos. Distanțele scurte între muzee țin frigul la distanță în timp ce descoperim comorile culturale ale orașului. După-amiaza ne bucurăm de liniștea iernii la lac, înainte ca autobuzul să ne ducă înapoi în căldura gării. O zi relaxată fără grija parcării.",
+            "en": "Exploring Nyon by transit is particularly cozy in winter. Heated trains and buses provide a pleasant contrast to the clear, cold winter air. Start at the station and quickly reach the majestic castle. Short distances between museums keep the cold at bay while you discover Nyon's cultural treasures. In the afternoon, enjoy the wintry peace by the lake before the bus takes you back to the warmth of the station. A relaxed day without parking worries."
+          },
+          "stops": [
+            {
+              "name": "Nyon Train Station",
+              "tip_5lang": {
+                "de": "Idealer Ort, um die Tour bei einem warmen Kaffee zu beginnen.",
+                "hu": "Ideális hely a túra megkezdéséhez egy meleg kávé mellett.",
+                "ro": "Locul ideal pentru a începe turul cu o cafea caldă.",
+                "en": "Ideal place to start the tour with a warm coffee."
+              }
+            },
+            {
+              "name": "Nyon Castle",
+              "tip_5lang": {
+                "de": "Der Bus bringt Sie fast bis vor das Schlosstor, was das Gehen in der Kälte minimiert.",
+                "hu": "A busz szinte a várkapuig visz, minimalizálva a hidegben való gyaloglást.",
+                "ro": "Autobuzul vă duce aproape până la poarta castelului, minimizând mersul prin frig.",
+                "en": "The bus takes you almost to the castle gate, minimizing walking in the cold."
+              }
+            },
+            {
+              "name": "Roman Museum",
+              "tip_5lang": {
+                "de": "Das Museum ist gut beheizt und bietet eine Pause vom Winterwind.",
+                "hu": "A múzeum jól fűtött, és pihenőt nyújt a téli szél elől.",
+                "ro": "Muzeul este bine încălzit și oferă o pauză de la vântul de iarnă.",
+                "en": "The museum is well-heated and offers a break from the winter wind."
+              }
+            },
+            {
+              "name": "Esplanade of Chestnut Trees",
+              "tip_5lang": {
+                "de": "In der Wintersonne leuchten die Alpen gegenüber besonders hell.",
+                "hu": "A téli napsütésben a szemközti Alpok különösen fehéren ragyognak.",
+                "ro": "În soarele de iarnă, Alpii de vizavi strălucesc deosebit de tare.",
+                "en": "In the winter sun, the Alps opposite shine particularly brightly."
+              }
+            },
+            {
+              "name": "Port of Nyon",
+              "tip_5lang": {
+                "de": "Warme Wartehäuschen an den Bushaltestellen sind im Winter sehr willkommen.",
+                "hu": "A buszmegállók meleg várófülkéi télen nagyon hívogatóak.",
+                "ro": "Adăposturile încălzite din stațiile de autobuz sunt foarte binevenite iarna.",
+                "en": "Warm shelters at bus stops are very welcome in winter."
+              }
+            },
+            {
+              "name": "Léman Museum",
+              "tip_5lang": {
+                "de": "Ein Besuch der Aquarien wirkt im Winter besonders beruhigend.",
+                "hu": "Az akváriumok megtekintése télen különösen nyugtató hatású.",
+                "ro": "O vizită la acvarii este deosebit de liniștitoare iarna.",
+                "en": "A visit to the aquariums is particularly calming in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Züge und Busse sind pünktlich, auch bei Schneefall.",
+              "Der Bahnhof Nyon ist ein Knotenpunkt für regionale Ausflüge.",
+              "Nutzen Sie das kostenlose WLAN an vielen Bahnhöfen.",
+              "Ein Schal und eine Mütze sind für die Wartezeiten an Haltestellen wichtig."
+            ],
+            "hu": [
+              "A vonatok és buszok pontosak, még hóesésben is.",
+              "Nyon vasútállomása a regionális kirándulások csomópontja.",
+              "Használd az ingyenes Wi-Fi-t sok vasútállomáson.",
+              "A sál és sapka fontos a megállókban való várakozáshoz."
+            ],
+            "ro": [
+              "Trenurile și autobuzele sunt punctuale, chiar și când ninge.",
+              "Gara Nyon este un nod important pentru excursii regionale.",
+              "Folosiți Wi-Fi-ul gratuit disponibil în multe gări.",
+              "Un fular și o căciulă sunt importante pentru timpii de așteptare în stații."
+            ],
+            "en": [
+              "Trains and buses are punctual, even during snowfall.",
+              "Nyon station is a hub for regional excursions.",
+              "Utilize the free Wi-Fi available at many train stations.",
+              "A scarf and hat are important for waiting times at stops."
+            ]
+          }
+        }
       }
     }
   }

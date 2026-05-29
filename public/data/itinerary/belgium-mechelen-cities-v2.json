@@ -386,6 +386,206 @@
           "Get lost in the small alleys around the Grote Markt.",
           "Many museums are closed on Mondays, so plan accordingly."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bieten die Arkaden am Grote Markt Schutz vor den Schauern. Der Besuch der Kathedrale und des Museums Hof van Busleyden hält Sie mittags und nachmittags im Trockenen. Den Tag lassen Sie bei einem starken Bier in der gemütlichen Brauerei Het Anker ausklingen, weit weg vom Regen.",
+            "hu": "Reggel a főtér árkádjai alatt keressen menedéket a záporok elől. A katedrális és a Hof van Busleyden múzeum szárazon tartja délben és délután. A napot a Het Anker sörfőzde barátságos belső terében zárhatja, ahol egy erős helyi sör mellett várhatja meg az eső végét.",
+            "ro": "Dimineața, arcadele din Grote Markt oferă adăpost împotriva ploii. Vizita la catedrală și la muzeul Hof van Busleyden vă menține la adăpost la prânz și după-amiaza. Încheiați ziua în interiorul primitor al berăriei Het Anker, savurând o bere locală departe de umezeală.",
+            "en": "In the morning, the arcades at Grote Markt provide shelter from the showers. Visiting the cathedral and Hof van Busleyden museum keeps you dry at noon and in the afternoon. End the day inside the cozy Het Anker brewery, enjoying a strong local beer away from the rain."
+          },
+          "stops": [
+            {
+              "name": "Grote Markt (Main Market Square)",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden der umliegenden Cafés als Regenschutz.",
+                "hu": "Használja a környező kávézók árkádjait esővédőként.",
+                "ro": "Folosiți arcadele cafenelelor din jur ca protecție împotriva ploii.",
+                "en": "Use the arcades of the surrounding cafes as rain shelter."
+              }
+            },
+            {
+              "name": "St. Rumbold's Cathedral",
+              "tip_5lang": {
+                "de": "Ideal zum Aufwärmen und Trocknen während eines starken Schauers.",
+                "hu": "Ideális hely a felmelegedésre és száradásra egy erős zápor alatt.",
+                "ro": "Ideal pentru a vă încălzi și usca în timpul unei averse puternice.",
+                "en": "Ideal for warming up and drying off during a heavy shower."
+              }
+            },
+            {
+              "name": "Museum Hof van Busleyden",
+              "tip_5lang": {
+                "de": "Die Garderobe bietet Platz für nasse Mäntel und Schirme.",
+                "hu": "A ruhatárban van hely a vizes kabátoknak és esernyőknek.",
+                "ro": "Garderoba oferă spațiu pentru hainele și umbrelele ude.",
+                "en": "The cloakroom has space for wet coats and umbrellas."
+              }
+            },
+            {
+              "name": "Dyle Path",
+              "tip_5lang": {
+                "de": "Vorsicht, die Holzstege können bei Nässe rutschig sein.",
+                "hu": "Vigyázat, a fapallók nedvesen csúszósak lehetnek.",
+                "ro": "Atenție, podețele de lemn pot fi alunecoase când sunt ude.",
+                "en": "Caution, the wooden walkways can be slippery when wet."
+              }
+            },
+            {
+              "name": "St. John's Church",
+              "tip_5lang": {
+                "de": "Ein ruhiger Rückzugsort vor dem prasselnden Regen.",
+                "hu": "Csendes menedék a kopogó eső elől.",
+                "ro": "Un refugiu liniștit ferit de ploaia care bate în geam.",
+                "en": "A quiet retreat from the pattering rain."
+              }
+            },
+            {
+              "name": "Brussels Gate",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp unter dem Torbogen, um trocken zu bleiben.",
+                "hu": "Rövid fotómegálló a boltív alatt, hogy szárazon maradjon.",
+                "ro": "Scurtă oprire foto sub boltă pentru a rămâne uscat.",
+                "en": "Short photo stop under the archway to stay dry."
+              }
+            },
+            {
+              "name": "Het Anker Brewery",
+              "tip_5lang": {
+                "de": "Perfekter Abschluss im Warmen mit Blick auf das Sudhaus.",
+                "hu": "Tökéletes befejezés a melegben, rálátással a főzőházra.",
+                "ro": "Final perfect la căldură, cu vedere spre sala de fierbere.",
+                "en": "Perfect ending in the warm with a view of the brewhouse."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für das Kopfsteinpflaster.",
+              "Die Museen in Mechelen haben große Schließfächer.",
+              "Nutzen Sie die Durchgänge zwischen den Straßen für Abkürzungen.",
+              "Viele Cafés am Markt haben beheizte Außenbereiche unter Planen."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a macskaköves utcákhoz.",
+              "Mechelen múzeumaiban nagy csomagmegőrzők vannak.",
+              "Használja az utcák közötti átjárókat rövidítésként.",
+              "A főtér számos kávézója fűtött, ponyvás terasszal rendelkezik."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru străzile cu piatră cubică.",
+              "Muzeele din Mechelen au dulapuri mari pentru bagaje.",
+              "Folosiți pasajele dintre străzi pentru scurtături.",
+              "Multe cafenele din piață au zone exterioare încălzite sub copertine."
+            ],
+            "en": [
+              "Wear waterproof shoes for the cobblestone streets.",
+              "Museums in Mechelen have large lockers for umbrellas.",
+              "Use the passages between streets for shortcuts to stay dry.",
+              "Many cafes on the square have heated outdoor areas under covers."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der frostige Wind am Morgen wird beim Aufstieg zur Kathedrale schnell vergessen. Mittags locken warme flämische Gerichte in der Altstadt. Der Nachmittag führt durch die kühlen Gassen zum Brüsseler Tor, bevor die frühe Dunkelheit den Besuch der beleuchteten Brauerei Het Anker besonders stimmungsvoll macht.",
+            "hu": "A reggeli fagyos szelet gyorsan elfelejti a katedrálisba való feljutáskor. Délben meleg flamand ételek csábítanak az óvárosban. A délután hűvös utcákon vezet a Brüsszeli kapuhoz, mielőtt a korai sötétedés különleges hangulatot adna a kivilágított Het Anker sörfőzdének.",
+            "ro": "Vântul înghețat de dimineață este uitat repede în timpul urcării la catedrală. La prânz, mâncărurile flamande calde vă atrag în orașul vechi. După-amiaza vă poartă prin străzile răcoroase spre Poarta Bruxelles, înainte ca întunericul timpuriu să facă vizita la berăria Het Anker deosebit de atmosferică.",
+            "en": "The frosty morning wind is quickly forgotten during the ascent to the cathedral. At noon, warm Flemish dishes entice you in the old town. The afternoon leads through cool alleys to Brussels Gate, before the early darkness makes the visit to the illuminated Het Anker brewery especially atmospheric."
+          },
+          "stops": [
+            {
+              "name": "Grote Markt (Main Market Square)",
+              "tip_5lang": {
+                "de": "Holen Sie sich einen heißen Kakao zum Mitnehmen gegen die Kälte.",
+                "hu": "Vegyen egy forró kakaót elvitelre a hideg ellen.",
+                "ro": "Luați o ciocolată caldă la pachet împotriva frigului.",
+                "en": "Get a hot cocoa to go to fight the cold."
+              }
+            },
+            {
+              "name": "St. Rumbold's Cathedral",
+              "tip_5lang": {
+                "de": "Der Turmaufstieg hält warm, aber oben ist es sehr windig.",
+                "hu": "A toronymászás melegen tart, de fent nagyon szeles az idő.",
+                "ro": "Urcarea în turn vă ține de cald, dar sus este foarte vânt.",
+                "en": "The tower climb keeps you warm, but it is very windy at the top."
+              }
+            },
+            {
+              "name": "Museum Hof van Busleyden",
+              "tip_5lang": {
+                "de": "Perfekt temperierte Räume zum Aufwärmen der Hände.",
+                "hu": "Tökéletes hőmérsékletű termek a kezek felmelegítéséhez.",
+                "ro": "Săli cu temperatură perfectă pentru a vă încălzi mâinile.",
+                "en": "Perfectly tempered rooms to warm up your hands."
+              }
+            },
+            {
+              "name": "Dyle Path",
+              "tip_5lang": {
+                "de": "Bei Frost können die Planken glatt sein; festes Profil wählen.",
+                "hu": "Fagyban a pallók síkosak lehetnek; válasszon tapadós talpú cipőt.",
+                "ro": "Pe îngheț podețele pot fi alunecoase; alegeți talpă aderentă.",
+                "en": "In frost, the planks can be slippery; choose shoes with good grip."
+              }
+            },
+            {
+              "name": "St. John's Church",
+              "tip_5lang": {
+                "de": "Die dicken Mauern schützen gut vor dem eisigen Winterwind.",
+                "hu": "A vastag falak jól védenek a jeges téli szél elől.",
+                "ro": "Zidurile groase protejează bine de vântul înghețat de iarnă.",
+                "en": "The thick walls protect well from the icy winter wind."
+              }
+            },
+            {
+              "name": "Brussels Gate",
+              "tip_5lang": {
+                "de": "Wirkt im Winterlicht am späten Nachmittag sehr imposant.",
+                "hu": "A téli fényben késő délután nagyon impozáns látvány.",
+                "ro": "Arată foarte impunător în lumina de iarnă la sfârșitul după-amiezii.",
+                "en": "Looks very imposing in the winter light in the late afternoon."
+              }
+            },
+            {
+              "name": "Het Anker Brewery",
+              "tip_5lang": {
+                "de": "Probieren Sie das kräftige Weihnachts-Bier (Cuvée van de Keizer).",
+                "hu": "Kóstolja meg az erős karácsonyi sört (Cuvée van de Keizer).",
+                "ro": "Gustați berea tare de Crăciun (Cuvée van de Keizer).",
+                "en": "Try the strong Christmas beer (Cuvée van de Keizer)."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Dezember bereits gegen 16:30 Uhr unter.",
+              "Schichtenprinzip bei Kleidung ist für den Turmaufstieg wichtig.",
+              "Einige Cafés bieten Wärmelampen und Decken an.",
+              "Kopfsteinpflaster leitet Kälte nach oben; dicke Socken tragen."
+            ],
+            "hu": [
+              "A nap decemberben már 16:30 körül lemegy.",
+              "A réteges öltözködés fontos a toronymászáshoz.",
+              "Néhány kávézó hősugárzókat és takarókat is biztosít.",
+              "A macskakő vezeti a hideget; viseljen vastag zoknit."
+            ],
+            "ro": [
+              "Soarele apune deja în jurul orei 16:30 în decembrie.",
+              "Îmbrăcămintea în straturi este importantă pentru urcarea în turn.",
+              "Unele cafenele oferă lămpi de căldură și pături.",
+              "Piatra cubică transmite frigul; purtați șosete groase."
+            ],
+            "en": [
+              "The sun sets around 4:30 PM in December.",
+              "Layering clothes is important for the cathedral tower climb.",
+              "Some cafes offer heat lamps and blankets on their terraces.",
+              "Cobblestones transmit cold upwards; wear thick socks."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -742,6 +942,188 @@
           "Be aware of one-way streets, which may be open for cyclists in both directions.",
           "Some cobblestone streets can be bumpy, so ride carefully."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert in Mechelen gute Ausrüstung, aber die Wege sind kurz. Nach dem Grote Markt bietet das Spielzeugmuseum eine lange, trockene Pause. Die Fahrt entlang der Dijle ist stimmungsvoll, erfordert aber Vorsicht auf nassen Wegen, bevor die Dossin-Kaserne und die Brauerei Het Anker sicheres Obdach bieten.",
+            "hu": "Az esőben való biciklizés jó felszerelést igényel, de az utak rövidek. A főtér után a Játékmúzeum hosszú, száraz pihenőt kínál. A Dijle menti tekerés hangulatos, de óvatosságot igényel a nedves úton, mielőtt a Dossin-laktanya és a Het Anker sörfőzde biztonságos menedéket nyújtana.",
+            "ro": "Mersul pe bicicletă în ploaie necesită echipament bun, dar distanțele sunt scurte. După Grote Markt, Muzeul Jucăriilor oferă o pauză lungă și uscată. Drumul de-a lungul râului Dijle este atmosferic, dar necesită prudență pe carosabilul umed, înainte ca fosta cazarmă Dossin și berăria Het Anker să ofere adăpost.",
+            "en": "Cycling in the rain requires good gear, but the distances are short. After Grote Markt, the Toy Museum offers a long, dry break. The ride along the Dyle is atmospheric but requires caution on wet paths before Kazerne Dossin and Het Anker brewery provide safe shelter."
+          },
+          "stops": [
+            {
+              "name": "Grote Markt & St. Rumbold's Cathedral",
+              "tip_5lang": {
+                "de": "Überdachte Fahrradparkplätze befinden sich in der Nähe des Rathauses.",
+                "hu": "Fedett biciklitárolók találhatók a városháza közelében.",
+                "ro": "Parcări de biciclete acoperite se află lângă primărie.",
+                "en": "Covered bike parking spots are located near the city hall."
+              }
+            },
+            {
+              "name": "Brussels Gate",
+              "tip_5lang": {
+                "de": "Nasses Kopfsteinpflaster ist hier besonders rutschig.",
+                "hu": "A vizes macskakő itt különösen csúszós.",
+                "ro": "Piatra cubică umedă este deosebit de alunecoasă aici.",
+                "en": "Wet cobblestones are especially slippery here."
+              }
+            },
+            {
+              "name": "Toy Museum",
+              "tip_5lang": {
+                "de": "Großer Innenbereich, perfekt um einen Regenguss abzuwarten.",
+                "hu": "Nagy belső tér, tökéletes egy felhőszakadás kivárására.",
+                "ro": "Spațiu interior mare, perfect pentru a aștepta trecerea unei ploi.",
+                "en": "Large indoor area, perfect for waiting out a downpour."
+              }
+            },
+            {
+              "name": "Dyle Path & Lunch",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit Fahrradständern direkt davor.",
+                "hu": "Válasszon olyan éttermet, amely előtt közvetlenül van bringatároló.",
+                "ro": "Alegeți un restaurant cu suporturi de biciclete direct în față.",
+                "en": "Choose a restaurant with bike racks directly in front."
+              }
+            },
+            {
+              "name": "Kazerne Dossin",
+              "tip_5lang": {
+                "de": "Moderner Bau mit trockenem Eingangsbereich für Radfahrer.",
+                "hu": "Modern épület száraz bejárati résszel a bicikliseknek.",
+                "ro": "Clădire modernă cu zonă de intrare uscată pentru bicicliști.",
+                "en": "Modern building with a dry entrance area for cyclists."
+              }
+            },
+            {
+              "name": "Het Anker Brewery",
+              "tip_5lang": {
+                "de": "Fahrräder können sicher und nah am Eingang geparkt werden.",
+                "hu": "A biciklik biztonságosan és a bejárathoz közel parkolhatók.",
+                "ro": "Bicicletele pot fi parcate în siguranță și aproape de intrare.",
+                "en": "Bikes can be parked safely and close to the entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie abrupte Bremsmanöver auf nassem Pflaster.",
+              "Velo Mechelen Leihräder haben meist Schutzbleche.",
+              "Tragen Sie eine auffällige Regenjacke für bessere Sichtbarkeit.",
+              "Ein Sattelschutz hält Ihre Hose beim Parken trocken."
+            ],
+            "hu": [
+              "Kerülje a hirtelen fékezést a nedves burkolaton.",
+              "A Velo Mechelen bérbringákon általában van sárvédő.",
+              "Viseljen feltűnő esőkabátot a jobb láthatóságért.",
+              "A nyeregvédő szárazon tartja a nadrágját parkoláskor."
+            ],
+            "ro": [
+              "Evitați frânările bruște pe pavajul umed.",
+              "Bicicletele de închiriat Velo Mechelen au de obicei aripi.",
+              "Purtați o pelerină de ploaie stridentă pentru vizibilitate mai bună.",
+              "O protecție de șa vă menține pantalonii uscați la parcare."
+            ],
+            "en": [
+              "Avoid sudden braking on wet cobblestones.",
+              "Velo Mechelen rental bikes usually have mudguards.",
+              "Wear a bright raincoat for better visibility in grey weather.",
+              "A saddle cover keeps your pants dry when parked."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine Wintertour mit dem Rad zeigt Mechelen von seiner ruhigen Seite. Vom Grote Markt geht es zügig zum Brüsseler Tor, um den Fahrtwind kurz zu halten. Längere Aufenthalte im Spielzeugmuseum und in der Dossin-Kaserne bieten die nötige Wärme, bevor die Tour in der beheizten Braustube Het Anker endet.",
+            "hu": "Egy téli biciklis túra Mechelen nyugodt arcát mutatja. A főtérről gyorsan a Brüsszeli kapu felé vesszük az irányt, hogy ne fázzunk a menetszélben. A Játékmúzeumban és a Dossin-laktanyában töltött hosszabb idő biztosítja a szükséges meleget, mielőtt a Het Anker fűtött sörözőjében zárnánk a túrát.",
+            "ro": "Un tur de iarnă cu bicicleta arată partea liniștită a orașului Mechelen. De la Grote Markt mergeți rapid spre Poarta Bruxelles pentru a limita expunerea la vânt. Opririle lungi la Muzeul Jucăriilor și la Cazarma Dossin oferă căldura necesară, înainte de a încheia turul în berăria încălzită Het Anker.",
+            "en": "A winter bike tour shows Mechelen's quiet side. From Grote Markt, cycle swiftly to Brussels Gate to keep the wind chill brief. Longer stays at the Toy Museum and Kazerne Dossin provide the necessary warmth before the tour ends in the heated Het Anker taproom."
+          },
+          "stops": [
+            {
+              "name": "Grote Markt & St. Rumbold's Cathedral",
+              "tip_5lang": {
+                "de": "Zentraler Startpunkt, Cafés bieten heißen Tee für den Start.",
+                "hu": "Központi indulópont, a kávézók forró teát kínálnak kezdésnek.",
+                "ro": "Punct central de plecare, cafenelele oferă ceai fierbinte.",
+                "en": "Central start point, cafes offer hot tea for the start."
+              }
+            },
+            {
+              "name": "Brussels Gate",
+              "tip_5lang": {
+                "de": "Der Wind pfeift hier oft durch die Alleen; Windjacke nötig.",
+                "hu": "Itt gyakran süvít a szél a fasorok között; széldzseki kell.",
+                "ro": "Vântul suflă adesea prin alei aici; necesită jachetă de vânt.",
+                "en": "The wind often whistles through the avenues here; windbreaker needed."
+              }
+            },
+            {
+              "name": "Toy Museum",
+              "tip_5lang": {
+                "de": "Viel Platz zum Ausziehen von Schichten und zum Aufwärmen.",
+                "hu": "Sok hely a rétegek levételéhez és a felmelegedéshez.",
+                "ro": "Mult spațiu pentru a da jos straturile de haine și pentru încălzire.",
+                "en": "Plenty of space to remove layers and warm up."
+              }
+            },
+            {
+              "name": "Dyle Path & Lunch",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Mittagspause, um die Akkus (und sich selbst) zu laden.",
+                "hu": "Használja az ebédszünetet az akkumulátorok (és saját maga) feltöltésére.",
+                "ro": "Folosiți pauza de prânz pentru a încărca bateriile (și pe dvs.).",
+                "en": "Use the lunch break to recharge batteries (and yourself)."
+              }
+            },
+            {
+              "name": "Kazerne Dossin",
+              "tip_5lang": {
+                "de": "Das Museum ist gut beheizt; Jacken können abgegeben werden.",
+                "hu": "A múzeum jól fűtött; a kabátokat le lehet adni a ruhatárba.",
+                "ro": "Muzeul este bine încălzit; jachetele pot fi lăsate la garderobă.",
+                "en": "The museum is well-heated; jackets can be left at the cloakroom."
+              }
+            },
+            {
+              "name": "Het Anker Brewery",
+              "tip_5lang": {
+                "de": "Der Kamin im Restaurantbereich ist im Winter oft an.",
+                "hu": "A kávézó kandallója télen gyakran be van gyújtva.",
+                "ro": "Șemineul din zona restaurantului este adesea aprins iarna.",
+                "en": "The fireplace in the restaurant area is often lit in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Gute Handschuhe sind bei Minusgraden auf dem Rad Pflicht.",
+              "Die Wege können durch gefrierende Nässe glatt sein.",
+              "Achten Sie auf funktionierende Beleuchtung, da es früh dunkel wird.",
+              "Vermeiden Sie zu lange Standzeiten im Freien."
+            ],
+            "hu": [
+              "Mínuszokban a jó kesztyű kötelező a biciklin.",
+              "Az utak a lefagyó nedvesség miatt síkosak lehetnek.",
+              "Ügyeljen a működő világításra, mert korán sötétedik.",
+              "Kerülje a túl hosszú szabadtéri várakozást."
+            ],
+            "ro": [
+              "Mănușile bune sunt obligatorii pe bicicletă la temperaturi negative.",
+              "Drumurile pot fi alunecoase din cauza umezelii care îngheață.",
+              "Asigurați-vă că luminile funcționează, se întunecă devreme.",
+              "Evitați staționările prea lungi în aer liber."
+            ],
+            "en": [
+              "Good gloves are mandatory when cycling in freezing temps.",
+              "Paths can be slippery due to freezing moisture.",
+              "Ensure your lights work as it gets dark very early.",
+              "Avoid standing still outdoors for too long; keep moving."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1098,6 +1480,188 @@
           "Underground car parks in the center are convenient but more expensive.",
           "Plan for extra time for traffic, especially during peak hours."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto starten Sie wetterunabhängig im Zoo Planckendael, wo viele Tierhäuser Schutz bieten. Das Parken im Stadtzentrum erfolgt im trockenen Parkhaus Grote Markt. Kurze Wege führen zur Kathedrale und zur Dossin-Kaserne, bevor Sie den Tag entspannt bei Het Anker abschließen, ohne nass zu werden.",
+            "hu": "Autóval időjárástól függetlenül indulhat a Planckendael Állatkertben, ahol számos állatház kínál menedéket. A városközpontban a Grote Markt alatti mélygarázsban parkolhat. Rövid séta vezet a katedrálishoz és a Dossin-laktanyához, mielőtt a napot a Het Ankbernél zárná anélkül, hogy megázna.",
+            "ro": "Cu mașina începeți independent de vreme la Grădina Zoologică Planckendael, unde multe pavilioane oferă adăpost. Parcați în centrul orașului în parcarea subterană Grote Markt. Drumuri scurte duc la catedrală și la fosta cazarmă Dossin, înainte de a încheia ziua relaxat la Het Anker.",
+            "en": "By car, you start weather-independently at Planckendael Zoo, where many animal houses provide shelter. In the city center, park in the dry Grote Markt underground garage. Short walks lead to the cathedral and Kazerne Dossin before ending the day at Het Anker without getting wet."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Planckendael Zoo",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Regenwald- und Asienhäuser bei Schauern.",
+                "hu": "Látogassa meg az esőerdő- és Ázsia-házakat záporok idején.",
+                "ro": "Vizitați pavilioanele tropicale și asiatice în timpul ploii.",
+                "en": "Visit the rainforest and Asia houses during showers."
+              }
+            },
+            {
+              "name": "Cluster 2: Grote Markt",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus 'Indigo' direkt unter dem Platz.",
+                "hu": "Használja a tér alatti 'Indigo' mélygarázst.",
+                "ro": "Folosiți parcarea subterană 'Indigo' direct sub piață.",
+                "en": "Use the 'Indigo' underground parking directly under the square."
+              }
+            },
+            {
+              "name": "St. Rumbold's Cathedral & Lunch",
+              "tip_5lang": {
+                "de": "Restaurants in den Gassen rund um den Dom sind oft überdacht.",
+                "hu": "A dóm körüli utcák éttermei gyakran fedett teraszosak.",
+                "ro": "Restaurantele de pe străduțele din jurul domului sunt adesea acoperite.",
+                "en": "Restaurants in the alleys around the cathedral often have covers."
+              }
+            },
+            {
+              "name": "Dyle Path",
+              "tip_5lang": {
+                "de": "Parken Sie im Parkhaus 'Tinelsite' für einen kürzeren Weg.",
+                "hu": "Parkoljon a 'Tinelsite' garázsban a rövidebb séta érdekében.",
+                "ro": "Parcați în parcarea 'Tinelsite' pentru un drum mai scurt.",
+                "en": "Park in the 'Tinelsite' garage for a shorter walk to the path."
+              }
+            },
+            {
+              "name": "Cluster 3: Kazerne Dossin",
+              "tip_5lang": {
+                "de": "Vom Parkplatz zum Eingang sind es nur wenige Schritte.",
+                "hu": "A parkolótól csak néhány lépés a bejárat.",
+                "ro": "Sunt doar câțiva pași de la parcare până la intrare.",
+                "en": "It's only a few steps from the parking lot to the entrance."
+              }
+            },
+            {
+              "name": "Het Anker Brewery",
+              "tip_5lang": {
+                "de": "Eigener Parkplatz vorhanden, ideal bei starkem Regen.",
+                "hu": "Saját parkoló áll rendelkezésre, ideális erős esőben.",
+                "ro": "Parcare proprie disponibilă, ideală în caz de ploaie torențială.",
+                "en": "Private parking available, ideal during heavy rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie die Rushhour rund um den Mechelner Ring.",
+              "Zahlen Sie Parkgebühren kontaktlos, um im Auto zu bleiben.",
+              "Die Parkhäuser Grote Markt und Tinelsite sind modern und hell.",
+              "Behalten Sie einen Regenschirm im Kofferraum für die kurzen Wege."
+            ],
+            "hu": [
+              "Kerülje a csúcsforgalmat a Mechelen körgyűrű körül.",
+              "Fizessen érintésmentesen a parkolásért, hogy az autóban maradhasson.",
+              "A Grote Markt és Tinelsite garázsok modernek és világosak.",
+              "Tartson esernyőt a csomagtartóban a rövid sétákhoz."
+            ],
+            "ro": [
+              "Evitați ora de vârf în jurul ringului orașului Mechelen.",
+              "Plătiți parcarea contactless pentru a rămâne în mașină.",
+              "Parcările Grote Markt și Tinelsite sunt moderne și luminoase.",
+              "Țineți o umbrelă în portbagaj pentru distanțele scurte."
+            ],
+            "en": [
+              "Avoid rush hour around the Mechelen ring road.",
+              "Pay for parking contactlessly to stay inside the car.",
+              "The Grote Markt and Tinelsite parking garages are modern and bright.",
+              "Keep an umbrella in the trunk for the short walks to entrances."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintertag beginnt im Zoo Planckendael, wo Sie die kühlen Außenanlagen und warmen Tierhäuser im Wechsel genießen. Die Fahrt ins Zentrum führt Sie zu den beleuchteten Monumenten. Ein warmes Mittagessen am Grote Markt stärkt Sie für den Museumsbesuch, bevor Sie bei Het Anker den Tag gemütlich ausklingen lassen.",
+            "hu": "A téli nap a Planckendael Állatkertben kezdődik, ahol felváltva élvezheti a hűvös kültéri kifutókat és a meleg állatházakat. A központba vezető út a kivilágított műemlékekhez visz. Egy meleg ebéd a főtéren erőt ad a múzeumlátogatáshoz, mielőtt a Het Ankbernél kényelmesen zárná a napot.",
+            "ro": "O zi de iarnă începe la Grădina Zoologică Planckendael, unde vă bucurați alternativ de spațiile exterioare răcoroase și pavilioanele calde. Drumul spre centru vă duce la monumentele iluminate. Un prânz cald la Grote Markt vă dă putere pentru vizita la muzeu, înainte de finalul la Het Anker.",
+            "en": "A winter day starts at Planckendael Zoo, where you enjoy cool outdoor enclosures and warm animal houses in turn. The drive to the center leads you to illuminated monuments. A warm lunch at Grote Markt strengthens you for the museum visit before ending the day cozily at Het Anker."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Planckendael Zoo",
+              "tip_5lang": {
+                "de": "Einige Außenanlagen sind im Winter früher geschlossen.",
+                "hu": "Néhány kültéri kifutó télen korábban bezár.",
+                "ro": "Unele spații exterioare sunt închise mai devreme iarna.",
+                "en": "Some outdoor enclosures close earlier in winter."
+              }
+            },
+            {
+              "name": "Cluster 2: Grote Markt",
+              "tip_5lang": {
+                "de": "Der Platz ist im Winter oft festlich beleuchtet.",
+                "hu": "A tér télen gyakran ünnepi kivilágítást kap.",
+                "ro": "Piața este adesea iluminată festiv în timpul iernii.",
+                "en": "The square is often festively illuminated in winter."
+              }
+            },
+            {
+              "name": "St. Rumbold's Cathedral & Lunch",
+              "tip_5lang": {
+                "de": "Im Dom ist es kühl; behalten Sie Ihren Mantel an.",
+                "hu": "A dómban hűvös van; tartsa magán a kabátját.",
+                "ro": "În dom este răcoare; păstrați haina pe dvs.",
+                "en": "It's cool inside the cathedral; keep your coat on."
+              }
+            },
+            {
+              "name": "Dyle Path",
+              "tip_5lang": {
+                "de": "Kurzer Spaziergang empfohlen, um die Winterstimmung am Wasser zu fangen.",
+                "hu": "Rövid séta javasolt a vízi téli hangulat elcsípéséhez.",
+                "ro": "Se recomandă o scurtă plimbare pentru a surprinde atmosfera de iarnă.",
+                "en": "Short walk recommended to catch the winter vibe by the water."
+              }
+            },
+            {
+              "name": "Cluster 3: Kazerne Dossin",
+              "tip_5lang": {
+                "de": "Gut geheiztes Museum, ideal für die frühen Abendstunden.",
+                "hu": "Jól fűtött múzeum, ideális a kora esti órákban.",
+                "ro": "Muzeu bine încălzit, ideal pentru orele serii devreme.",
+                "en": "Well-heated museum, ideal for the early evening hours."
+              }
+            },
+            {
+              "name": "Het Anker Brewery",
+              "tip_5lang": {
+                "de": "Reservieren Sie einen Tisch im Restaurantbereich für mehr Wärme.",
+                "hu": "Foglaljon asztalt az éttermi részben a nagyobb melegért.",
+                "ro": "Rezervați o masă în zona restaurantului pentru mai multă căldură.",
+                "en": "Reserve a table in the restaurant area for more warmth."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind bei Schneefall in Belgien ratsam.",
+              "Achten Sie auf Glätte in den schattigen Gassen der Altstadt.",
+              "Parkhäuser bieten Schutz vor gefrierendem Regen auf der Scheibe.",
+              "Nutzen Sie die Sitzheizung für die kurzen Fahrten zwischen den Clustern."
+            ],
+            "hu": [
+              "Hofalás esetén Belgiumban tanácsos a téli gumi.",
+              "Ügyeljen a csúszós utakra az óváros árnyékos utcáiban.",
+              "A parkolóházak védenek a szélvédőre fagyó eső ellen.",
+              "Használja az ülésfűtést a klaszterek közötti rövid utakon."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt recomandate în Belgia în caz de ninsoare.",
+              "Atenție la polei pe străduțele umbrite din orașul vechi.",
+              "Parcările acoperite protejează de ploaia înghețată pe parbriz.",
+              "Folosiți încălzirea în scaune pentru drumurile scurte între clustere."
+            ],
+            "en": [
+              "Winter tires are advisable in Belgium during snowfall.",
+              "Watch out for icy patches in the shaded alleys of the old town.",
+              "Parking garages protect your windshield from freezing rain.",
+              "Use seat heating for the short drives between clusters."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1454,6 +2018,188 @@
           "Most buses depart from Mechelen's main train station.",
           "Be aware that bus frequencies may be lower in the evenings and on weekends."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus 281 gelangen Sie trocken zum Zoo Planckendael. Zurück im Zentrum bietet das Museum Hof van Busleyden eine lange Pause im Trockenen. Zwischen den Stationen nutzen Sie die kurzen Wege der Buslinien 1 oder 2, um dem Regen zu entgehen, bevor der Tag in der Brauerei Het Anker gemütlich endet.",
+            "hu": "A 281-es busszal szárazon juthat el a Planckendael Állatkertbe. A központba visszatérve a Hof van Busleyden múzeum kínál hosszú pihenőt fedett helyen. Az állomások között használja az 1-es vagy 2-es buszvonalak rövid szakaszait, hogy elkerülje az esőt a Het Anker sörfőzdéig.",
+            "ro": "Cu autobuzul 281 ajungeți la Grădina Zoologică Planckendael feriți de ploaie. Reveniți în centru, unde Muzeul Hof van Busleyden oferă o pauză lungă la adăpost. Între obiective, folosiți liniile de autobuz 1 sau 2 pentru a evita ploaia înainte de finalul la Het Anker.",
+            "en": "Take bus 281 to reach Planckendael Zoo while staying dry. Back in the center, Hof van Busleyden museum offers a long break indoors. Between stops, use short hops on bus lines 1 or 2 to avoid the rain before ending the day cozily at Het Anker brewery."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Planckendael Zoo",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist nah am Eingang; Schirm griffbereit halten.",
+                "hu": "A megálló közel van a bejárathoz; tartsa kéznél az esernyőt.",
+                "ro": "Stația este aproape de intrare; țineți umbrela la îndemână.",
+                "en": "The bus stop is close to the entrance; keep your umbrella handy."
+              }
+            },
+            {
+              "name": "Cluster 2: Grote Markt",
+              "tip_5lang": {
+                "de": "Zentrale Umsteigestelle mit vielen überdachten Wartebereichen.",
+                "hu": "Központi átszállóhely sok fedett várakozóhellyel.",
+                "ro": "Punct central de transfer cu multe zone de așteptare acoperite.",
+                "en": "Central transfer point with many covered waiting areas."
+              }
+            },
+            {
+              "name": "St. Rumbold's Cathedral & Lunch",
+              "tip_5lang": {
+                "de": "Der Dom ist nur 2 Minuten Fußweg von der Bushaltestelle entfernt.",
+                "hu": "A dóm mindössze 2 perc séta a buszmegállótól.",
+                "ro": "Domul este la doar 2 minute de mers pe jos de stația de autobuz.",
+                "en": "The cathedral is only a 2-minute walk from the bus stop."
+              }
+            },
+            {
+              "name": "Museum Hof van Busleyden",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit im Museum, um einen starken Schauer auszusitzen.",
+                "hu": "Használja ki a múzeumi időt egy erős zápor kivárására.",
+                "ro": "Folosiți timpul la muzeu pentru a aștepta trecerea unei averse.",
+                "en": "Use your time in the museum to wait out a heavy downpour."
+              }
+            },
+            {
+              "name": "Cluster 3: Kazerne Dossin",
+              "tip_5lang": {
+                "de": "Haltestelle 'Mechelen Kazerne Dossin' direkt vor dem Museum.",
+                "hu": "A 'Mechelen Kazerne Dossin' megálló közvetlenül a múzeum előtt van.",
+                "ro": "Stația 'Mechelen Kazerne Dossin' este direct în fața muzeului.",
+                "en": "The 'Mechelen Kazerne Dossin' stop is directly in front of the museum."
+              }
+            },
+            {
+              "name": "Het Anker Brewery",
+              "tip_5lang": {
+                "de": "Die Buslinie 1 bringt Sie fast direkt vor die Tür der Brauerei.",
+                "hu": "Az 1-es busz szinte közvetlenül a sörfőzde ajtaja elé visz.",
+                "ro": "Linia de autobuz 1 vă duce aproape direct în fața berăriei.",
+                "en": "Bus line 1 drops you off almost directly in front of the brewery."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie die 'De Lijn' App für Echtzeit-Infos bei Verzögerungen.",
+              "Kaufen Sie Tickets vorab digital, um Wartezeit im Regen zu sparen.",
+              "Der Bahnhof Mechelen hat eine große, trockene Wartehalle.",
+              "Busse fahren im Zentrum sehr frequentiert (alle 10-15 Min)."
+            ],
+            "hu": [
+              "Ellenőrizze a 'De Lijn' alkalmazást a valós idejű infókért.",
+              "Vegye meg a jegyet digitálisan, hogy ne kelljen az esőben várnia.",
+              "A mecheleni vasútállomásnak nagy, száraz váróterme van.",
+              "A buszok a központban sűrűn (10-15 percenként) járnak."
+            ],
+            "ro": [
+              "Verificați aplicația 'De Lijn' pentru info în timp real despre întârzieri.",
+              "Cumpărați bilete digital în avans pentru a nu aștepta în ploaie.",
+              "Gara Mechelen are o sală de așteptare mare și uscată.",
+              "Autobuzele circulă frecvent în centru (la fiecare 10-15 min)."
+            ],
+            "en": [
+              "Check the 'De Lijn' app for real-time info during rain delays.",
+              "Buy tickets digitally in advance to avoid waiting in the rain.",
+              "Mechelen station has a large, dry waiting hall.",
+              "Buses in the center run frequently (every 10-15 mins)."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintertag mit Bus und Bahn beginnt im Zoo Planckendael, wo warme Tierhäuser locken. Im Zentrum angekommen, bieten die Kathedrale und das Hof van Busleyden Museum Schutz vor der Kälte. Der späte Nachmittag in der Dossin-Kaserne führt fließend in den stimmungsvollen Abend bei der Brauerei Het Anker über.",
+            "hu": "A téli nap busszal és vonattal a Planckendael Állatkertben kezdődik, ahol meleg állatházak várják. A központba érve a katedrális és a Hof van Busleyden múzeum nyújt védelmet a hideg ellen. A Dossin-laktanyában töltött késő délután után hangulatos este várja a Het Anker sörfőzdében.",
+            "ro": "Ziua de iarnă cu autobuzul și trenul începe la Grădina Zoologică Planckendael, unde pavilioanele calde vă atrag. Ajunși în centru, catedrala și Muzeul Hof van Busleyden oferă protecție contra frigului. După-amiaza târzie la Cazarma Dossin face trecerea spre seara la berăria Het Anker.",
+            "en": "The winter day by bus and train starts at Planckendael Zoo, where warm animal houses await. Once in the center, the cathedral and Hof van Busleyden museum offer protection from the cold. The late afternoon at Kazerne Dossin transitions smoothly into an atmospheric evening at Het Anker brewery."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Planckendael Zoo",
+              "tip_5lang": {
+                "de": "Beachten Sie den Winterfahrplan des Zoobusses ab dem Bahnhof.",
+                "hu": "Ügyeljen az állatkerti busz téli menetrendjére a vasútállomástól.",
+                "ro": "Respectați mersul trenurilor și al autobuzului spre zoo iarna.",
+                "en": "Note the winter schedule for the zoo bus from the station."
+              }
+            },
+            {
+              "name": "Cluster 2: Grote Markt",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Wartezeit für einen schnellen Kaffee im Stehen.",
+                "hu": "Használja ki a várakozási időt egy gyors álló kávéra.",
+                "ro": "Folosiți timpul de așteptare pentru o cafea rapidă.",
+                "en": "Use the waiting time for a quick coffee to stay warm."
+              }
+            },
+            {
+              "name": "St. Rumbold's Cathedral & Lunch",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen den Haltestellen minimieren die Kälte.",
+                "hu": "A megállók közötti rövid távolságok minimalizálják a fagyoskodást.",
+                "ro": "Distanțele scurte între stații reduc expunerea la frig.",
+                "en": "Short distances between stops minimize exposure to the cold."
+              }
+            },
+            {
+              "name": "Museum Hof van Busleyden",
+              "tip_5lang": {
+                "de": "Ein hervorragender Ort, um die kältesten Stunden des Tages zu verbringen.",
+                "hu": "Kiváló hely a nap leghidegebb óráinak eltöltésére.",
+                "ro": "Un loc excelent pentru a petrece cele mai reci ore ale zilei.",
+                "en": "An excellent place to spend the coldest hours of the day."
+              }
+            },
+            {
+              "name": "Cluster 3: Kazerne Dossin",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist gut beleuchtet, was bei früher Dunkelheit hilft.",
+                "hu": "A megálló jól kivilágított, ami segít a korai sötétedéskor.",
+                "ro": "Stația este bine iluminată, ceea ce ajută pe întunericul timpuriu.",
+                "en": "The stop is well-lit, which helps with the early darkness."
+              }
+            },
+            {
+              "name": "Het Anker Brewery",
+              "tip_5lang": {
+                "de": "Vom Het Anker zurück zum Bahnhof nehmen Sie am besten den Bus 1.",
+                "hu": "A Het Ankertől vissza a vasútállomáshoz a legjobb az 1-es busz.",
+                "ro": "De la Het Anker înapoi la gară, cel mai bine luați autobuzul 1.",
+                "en": "From Het Anker back to the station, it's best to take bus 1."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse sind im Winter oft besser geheizt als die Bahn.",
+              "Mechelen ist ein Knotenpunkt; Züge nach Brüssel/Antwerpen fahren oft.",
+              "Vermeiden Sie langes Warten an ungeschützten Haltestellen.",
+              "Abends ist die Beleuchtung der Stadtmauer vom Bus aus schön zu sehen."
+            ],
+            "hu": [
+              "A buszok télen gyakran jobban fűtöttek, mint a vonatok.",
+              "Mechelen csomópont; sűrűn járnak vonatok Brüsszelbe/Antwerpenbe.",
+              "Kerülje a hosszú várakozást a nyitott megállókban.",
+              "Este a városfal kivilágítása szépen látszik a buszból."
+            ],
+            "ro": [
+              "Autobuzele sunt adesea mai bine încălzite decât trenurile iarna.",
+              "Mechelen este un nod feroviar; trenurile spre Bruxelles/Anvers sunt dese.",
+              "Evitați așteptarea îndelungată în stațiile neprotejate.",
+              "Seara, iluminarea zidului cetății se vede frumos din autobuz."
+            ],
+            "en": [
+              "Buses are often better heated than trains in winter.",
+              "Mechelen is a hub; trains to Brussels/Antwerp run very frequently.",
+              "Avoid long waits at unsheltered bus stops; time your arrival.",
+              "In the evening, the city wall illumination is beautiful from the bus."
+            ]
+          }
+        }
       }
     }
   }

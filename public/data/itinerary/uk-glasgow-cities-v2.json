@@ -294,6 +294,206 @@
           "Many of Glasgow's museums offer free admission, but donations are encouraged.",
           "The West End is full of cafes for taking breaks between sights."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgen: Ein regnerischer Start am George Square, aber die nahe Kathedrale bietet Schutz. Mittag: Erkunden Sie die stimmungsvolle Nekropole und wärmen Sie sich in einem Pub in Merchant City auf. Nachmittag: Bleiben Sie im GoMA trocken und genießen Sie die Kunst. Abend: Ein potenziell bewölkter, aber faszinierender Blick vom Lighthouse beendet den Tag.",
+            "hu": "Reggel: Esős kezdet a George Square-en, de a közeli katedrális menedéket nyújt. Délben: Fedezze fel a hangulatos Nekropoliszt, majd melegedjen fel egy pubban a Merchant Cityben. Délután: Maradjon szárazon a GoMA-ban a művészetet élvezve. Este: Egy felhős, de lenyűgöző kilátás a The Lighthouse-ból zárja a napot.",
+            "ro": "Dimineață: O pornire ploioasă la George Square, dar catedrala din apropiere oferă adăpost. Prânz: Explorați Necropola atmosferică și încălziți-vă la un pub din Merchant City. După-amiază: Rămâneți uscat la GoMA, bucurându-vă de artă. Seară: O priveliște potențial înnorată, dar fascinantă, de la The Lighthouse încheie ziua.",
+            "en": "Morning: A rainy start at George Square, but the nearby Cathedral offers shelter. Noon: Explore the atmospheric Necropolis then warm up in a Merchant City pub. Afternoon: Stay dry inside the GoMA enjoying the art. Evening: A potentially cloudy but fascinating view from The Lighthouse finishes the day."
+          },
+          "stops": [
+            {
+              "name": "George Square",
+              "tip_5lang": {
+                "de": "Die Torbögen der City Chambers bieten bei einem plötzlichen Schauer guten Schutz.",
+                "hu": "A Városháza boltívei jó menedéket nyújtanak egy hirtelen jött zápor esetén.",
+                "ro": "Arcadele Primăriei (City Chambers) oferă un bun adăpost în timpul unei averse bruște.",
+                "en": "The archways of the City Chambers provide good shelter during a sudden downpour."
+              }
+            },
+            {
+              "name": "Glasgow Cathedral",
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um sich aufzuwärmen und das Buntglas zu bewundern, während der Regen draußen prasselt.",
+                "hu": "Tökéletes hely a felmelegedésre és az ólomüveg ablakok csodálatára, miközben kint esik az eső.",
+                "ro": "Un loc perfect pentru a vă usca și a admira vitraliile în timp ce ploaia bate afară.",
+                "en": "A perfect place to dry off and admire the stained glass while the rain patters outside."
+              }
+            },
+            {
+              "name": "Glasgow Necropolis",
+              "tip_5lang": {
+                "de": "Tragen Sie wasserdichte Schuhe; die Wege können schlammig und rutschig sein.",
+                "hu": "Viseljen vízálló cipőt; az ösvények sárosak és csúszósak lehetnek.",
+                "ro": "Purtați încălțăminte impermeabilă; cărările pot deveni noroioase și alunecoase.",
+                "en": "Wear waterproof shoes; the paths can become muddy and slippery."
+              }
+            },
+            {
+              "name": "Merchant City",
+              "tip_5lang": {
+                "de": "Viele der Pubs und Cafés hier bieten eine gemütliche Zuflucht vor dem Regen.",
+                "hu": "Számos pub és kávézó kínál itt hangulatos menedéket az eső elől.",
+                "ro": "Multe dintre pub-urile și cafenelele de aici oferă un refugiu confortabil din calea ploii.",
+                "en": "Many of the pubs and cafes here offer a cosy refuge from the rain."
+              }
+            },
+            {
+              "name": "Gallery of Modern Art (GoMA)",
+              "tip_5lang": {
+                "de": "Nutzen Sie die kostenlose Garderobe, um Ihre nassen Jacken und Schirme abzugeben.",
+                "hu": "Használja az ingyenes ruhatárat a nedves kabátok és esernyők leadásához.",
+                "ro": "Folosiți garderoba gratuită pentru a lăsa jachetele și umbrelele ude.",
+                "en": "Use the free cloakroom to leave your wet jackets and umbrellas."
+              }
+            },
+            {
+              "name": "Buchanan Street",
+              "tip_5lang": {
+                "de": "Die großen Kaufhäuser sind perfekt, um dem nächsten Regenschauer zu entgehen.",
+                "hu": "A nagy áruházak tökéletesek arra, hogy elkerülje a következő záport.",
+                "ro": "Marile magazine universale sunt perfecte pentru a scăpa de următoarea aversă.",
+                "en": "The large department stores are perfect for ducking into to escape the next shower."
+              }
+            },
+            {
+              "name": "The Lighthouse",
+              "tip_5lang": {
+                "de": "Die Aussichtsplattform ist überdacht und bietet einen Panoramablick auf die regnerische Stadt.",
+                "hu": "A kilátóterasz fedett, panorámás kilátást nyújtva az esős városra.",
+                "ro": "Platforma de vizionare este acoperită, oferind o vedere panoramică a orașului ploios.",
+                "en": "The viewing platform is covered, offering a panoramic view of the rainy city."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein Regenschirm ist unerlässlich, aber eine wasserdichte Jacke mit Kapuze ist praktischer.",
+              "Glasgows Sandsteingebäude sehen im Regen besonders dramatisch aus.",
+              "Die meisten Museen sind kostenlos und eine großartige Möglichkeit, dem Wetter zu entfliehen.",
+              "Achten Sie auf rutschige Kopfsteinpflasterstraßen, besonders in Merchant City."
+            ],
+            "hu": [
+              "Az esernyő elengedhetetlen, de egy kapucnis vízálló dzseki praktikusabb.",
+              "Glasgow homokkő épületei különösen drámaian néznek ki esőben.",
+              "A legtöbb múzeum ingyenes, és remek lehetőséget kínál az időjárás elől való menekülésre.",
+              "Vigyázzon a csúszós macskaköves utakon, különösen a Merchant Cityben."
+            ],
+            "ro": [
+              "O umbrelă este esențială, dar o jachetă impermeabilă cu glugă este mai practică.",
+              "Clădirile din Gresie din Glasgow arată deosebit de dramatic pe ploaie.",
+              "Majoritatea muzeelor sunt gratuite și reprezintă o modalitate excelentă de a scăpa de vreme.",
+              "Fiți atenți la străzile pietruite alunecoase, în special în Merchant City."
+            ],
+            "en": [
+              "An umbrella is essential, but a waterproof jacket with a hood is more practical.",
+              "Glasgow's sandstone buildings look particularly dramatic in the rain.",
+              "Most museums are free and a great way to escape the weather.",
+              "Be careful on slippery cobblestone streets, especially in Merchant City."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgen: Ein kühler Morgen auf dem George Square, gefolgt von der feierlichen Stille der Kathedrale. Mittag: Die Nekropole ist im Winterlicht karg und schön; wärmen Sie sich mit einem Mittagessen auf. Nachmittag: Genießen Sie die Wärme der GoMA und die festliche Beleuchtung der Buchanan Street. Abend: Beobachten Sie vom Lighthouse aus, wie die Stadtlichter angehen.",
+            "hu": "Reggel: Hűvös reggel a George Square-en, majd a katedrális ünnepélyes csendje. Délben: A Nekropolisz kopár és szép a téli fényben; melegedjen fel egy ebéddel. Délután: Élvezze a GoMA melegét és a Buchanan Street ünnepi fényeit. Este: Nézze a The Lighthouse-ból, ahogy felgyulladnak a város fényei.",
+            "ro": "Dimineață: O dimineață rece în George Square, urmată de liniștea solemnă a catedralei. Prânz: Necropola este austeră și frumoasă în lumina iernii; încălziți-vă cu un prânz. După-amiază: Bucurați-vă de căldura de la GoMA și de luminile festive de pe Buchanan Street. Seară: Priviți de la The Lighthouse cum se aprind luminile orașului.",
+            "en": "Morning: A crisp morning at George Square, followed by the solemn quiet of the cathedral. Noon: The Necropolis is stark and beautiful in the winter light; warm up with lunch. Afternoon: Enjoy the warmth of the GoMA and the festive lights on Buchanan Street. Evening: Watch the city lights turn on from The Lighthouse."
+          },
+          "stops": [
+            {
+              "name": "George Square",
+              "tip_5lang": {
+                "de": "Halten Sie Ausschau nach dem Weihnachtsmarkt und der Eisbahn, wenn Sie in der Weihnachtszeit hier sind.",
+                "hu": "Keresse a karácsonyi vásárt és a jégpályát, ha az ünnepi szezonban jár itt.",
+                "ro": "Căutați piața de Crăciun și patinoarul dacă sunteți aici în timpul sezonului festiv.",
+                "en": "Look out for the Christmas market and ice rink if you are here during the festive season."
+              }
+            },
+            {
+              "name": "Glasgow Cathedral",
+              "tip_5lang": {
+                "de": "Ein ruhiger, friedlicher Rückzugsort vor der Winterkälte.",
+                "hu": "Csendes, békés menedék a téli hideg elől.",
+                "ro": "Un refugiu liniștit și pașnic din calea frigului iernii.",
+                "en": "A quiet, peaceful retreat from the winter cold."
+              }
+            },
+            {
+              "name": "Glasgow Necropolis",
+              "tip_5lang": {
+                "de": "Achten Sie auf den frühen Sonnenuntergang (gegen 16:00 Uhr) und seien Sie auf vereisten Wegen vorsichtig.",
+                "hu": "Ügyeljen a korai napnyugtára (16:00 körül) és legyen óvatos a jeges utakon.",
+                "ro": "Fiți conștienți de apusul timpuriu (în jur de 16:00) și aveți grijă la potecile înghețate.",
+                "en": "Be aware of the early sunset (around 4 PM) and be careful of icy paths."
+              }
+            },
+            {
+              "name": "Merchant City",
+              "tip_5lang": {
+                "de": "Viele Pubs haben einen Kamin, der es an einem kalten Tag besonders gemütlich macht.",
+                "hu": "Sok pubban van kandalló, ami egy hideg napon különösen hangulatossá teszi őket.",
+                "ro": "Multe pub-uri au un șemineu, făcându-le deosebit de primitoare într-o zi rece.",
+                "en": "Many pubs have a fireplace, making them extra cosy on a cold day."
+              }
+            },
+            {
+              "name": "Gallery of Modern Art (GoMA)",
+              "tip_5lang": {
+                "de": "Eine fantastische, warme und kostenlose Möglichkeit, einen kalten Nachmittag zu verbringen.",
+                "hu": "Fantasztikus, meleg és ingyenes módja egy hideg délután eltöltésének.",
+                "ro": "O modalitate fantastică, caldă și gratuită de a petrece o după-amiază rece.",
+                "en": "A fantastic, warm, and free way to spend a cold afternoon."
+              }
+            },
+            {
+              "name": "Buchanan Street",
+              "tip_5lang": {
+                "de": "Die Weihnachtsbeleuchtung ist berühmt und wird am besten nach Einbruch der Dunkelheit (ca. 16:00 Uhr) bewundert.",
+                "hu": "A karácsonyi fények híresek, és a legjobban sötétedés után (16:00 óra körül) mutatnak.",
+                "ro": "Luminile de Crăciun sunt faimoase și se admiră cel mai bine după lăsarea întunericului (în jur de 16:00).",
+                "en": "The Christmas lights are famous and best admired after dark (around 4 PM)."
+              }
+            },
+            {
+              "name": "The Lighthouse",
+              "tip_5lang": {
+                "de": "Gehen Sie kurz vor Sonnenuntergang hinauf, um zu sehen, wie die Stadt vom Tag zur Nacht übergeht.",
+                "hu": "Menjen fel napnyugta előtt, hogy lássa, ahogy a város nappalból éjszakába vált.",
+                "ro": "Urcați chiar înainte de apus pentru a vedea cum orașul trece de la zi la noapte.",
+                "en": "Go up just before sunset to see the city transition from day to night."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ziehen Sie sich warm an, Mütze und Handschuhe sind unerlässlich.",
+              "Die Tage sind kurz; planen Sie, alle Aktivitäten im Freien vor 15:30 Uhr abzuschließen.",
+              "Eine heiße Schokolade oder ein wärmender Dram Whisky sind perfekt zum Aufwärmen.",
+              "Prüfen Sie, ob es in der Stadt saisonale Veranstaltungen wie Märkte oder Festivals gibt."
+            ],
+            "hu": [
+              "Öltözzön melegen, a sapka és a kesztyű elengedhetetlen.",
+              "A napok rövidek; tervezze a szabadtéri tevékenységeket 15:30 előttre.",
+              "Egy forró csoki vagy egy melegítő korty whisky tökéletes a felmelegedéshez.",
+              "Nézze meg, vannak-e szezonális események, például piacok vagy fesztiválok a városban."
+            ],
+            "ro": [
+              "Îmbrăcați-vă călduros, căciula și mănușile sunt esențiale.",
+              "Zilele sunt scurte; planificați să finalizați orice activități în aer liber înainte de 15:30.",
+              "O ciocolată caldă sau un pahar de whisky sunt perfecte pentru a vă încălzi.",
+              "Verificați evenimentele sezoniere din oraș, cum ar fi piețele sau festivalurile."
+            ],
+            "en": [
+              "Dress in warm layers; a hat and gloves are essential.",
+              "Days are short; plan to finish any outdoor activities before 3:30 PM.",
+              "A hot chocolate or a warming dram of whisky are perfect for warming up.",
+              "Check for seasonal events in the city, like markets or festivals."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -610,6 +810,188 @@
           "Bring a good lock, as you'll be leaving your bike at multiple locations.",
           "Be mindful of traffic, particularly around the city centre."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgen: Eine feuchte Fahrt am Clyde entlang, die glücklicherweise im riesigen Riverside Museum endet. Mittag: Ein kurzer, nasser Sprint zum Kelvingrove, dann eine trockene Pause in den Glashäusern des Botanischen Gartens. Nachmittag: Erkunden Sie die Universität. Abend: Ein wohlverdientes, warmes Getränk in einem Pub in der Ashton Lane.",
+            "hu": "Reggel: Nedves tekerés a Clyde mentén, ami szerencsére a hatalmas Riverside Múzeumban ér véget. Délben: Rövid, vizes sprint a Kelvingrove-hoz, majd egy száraz pihenő a Botanikus Kert üvegházaiban. Délután: Fedezze fel az egyetemet. Este: Jól megérdemelt, meleg ital egy pubban az Ashton Lane-en.",
+            "ro": "Dimineață: O plimbare umedă de-a lungul râului Clyde, care se încheie din fericire la imensul Riverside Museum. Prânz: Un sprint scurt și ud până la Kelvingrove, apoi o pauză uscată în serele Grădinii Botanice. După-amiază: Explorați universitatea. Seară: O băutură caldă binemeritată într-un pub de pe Ashton Lane.",
+            "en": "Morning: A damp ride along the Clyde, happily ending inside the huge Riverside Museum. Noon: A short, wet dash to Kelvingrove, then a dry break in the Botanic Gardens' glasshouses. Afternoon: Explore the university. Evening: A well-earned warm drink in an Ashton Lane pub."
+          },
+          "stops": [
+            {
+              "name": "Clyde Riverside Walkway",
+              "tip_5lang": {
+                "de": "Der Weg kann durch nasses Laub rutschig sein. Fahren Sie vorsichtig.",
+                "hu": "Az ösvény csúszós lehet a nedves levelektől. Vezessen óvatosan.",
+                "ro": "Calea poate fi alunecoasă din cauza frunzelor ude. Mergeți cu prudență.",
+                "en": "The path can be slick with wet leaves. Cycle with caution."
+              }
+            },
+            {
+              "name": "Riverside Museum",
+              "tip_5lang": {
+                "de": "Ein ausgezeichneter Ort, um abzutrocknen. Es gibt Schließfächer für nasse Ausrüstung.",
+                "hu": "Kiváló hely a száradáshoz. Vannak szekrények a nedves felszerelésnek.",
+                "ro": "Un loc excelent pentru a vă usca. Există dulapuri pentru echipamentul ud.",
+                "en": "An excellent place to dry off. There are lockers for wet gear."
+              }
+            },
+            {
+              "name": "Kelvingrove Art Gallery and Museum",
+              "tip_5lang": {
+                "de": "Ein weiteres wunderbares, kostenloses und warmes Museum, um dem Regen zu entkommen.",
+                "hu": "Egy másik csodálatos, ingyenes és meleg múzeum, ahol elmenekülhet az eső elől.",
+                "ro": "Un alt muzeu minunat, gratuit și cald pentru a scăpa de ploaie.",
+                "en": "Another wonderful, free, and warm museum to escape the rain."
+              }
+            },
+            {
+              "name": "University of Glasgow",
+              "tip_5lang": {
+                "de": "Die Kreuzgänge bieten einen schönen, überdachten Ort, um die Architektur zu bewundern.",
+                "hu": "A kerengők gyönyörű, fedett helyet kínálnak az építészet megcsodálásához.",
+                "ro": "Mănăstirile oferă un loc frumos, acoperit, pentru a admira arhitectura.",
+                "en": "The cloisters offer a beautiful, covered spot to admire the architecture."
+              }
+            },
+            {
+              "name": "Glasgow Botanic Gardens",
+              "tip_5lang": {
+                "de": "Gehen Sie direkt zum Kibble Palace; es ist wie eine tropische Flucht vor dem Regen.",
+                "hu": "Menjen egyenesen a Kibble Palace-ba; olyan, mint egy trópusi menekülés az eső elől.",
+                "ro": "Mergeți direct la Palatul Kibble; este ca o evadare tropicală din ploaie.",
+                "en": "Head straight for the Kibble Palace; it's like a tropical escape from the rain."
+              }
+            },
+            {
+              "name": "Ashton Lane",
+              "tip_5lang": {
+                "de": "Das Kopfsteinpflaster ist bei Nässe sehr rutschig. Schieben Sie Ihr Fahrrad möglicherweise.",
+                "hu": "A macskakő nedvesen nagyon csúszós. Lehet, hogy tolnia kell a kerékpárt.",
+                "ro": "Pietrele cubice sunt foarte alunecoase când sunt ude. Poate ar fi bine să mergeți pe lângă bicicletă.",
+                "en": "The cobblestones are very slippery when wet. You may need to walk your bike."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vollständige wasserdichte Kleidung ist unerlässlich.",
+              "Seien Sie beim Überqueren von Straßenbahnschienen extrem vorsichtig, da diese bei Nässe rutschig sind.",
+              "Stellen Sie sicher, dass Ihre Lichter funktionieren, da die Sicht schlecht sein kann.",
+              "Planen Sie Ihre Route mit vielen Indoor-Pausen."
+            ],
+            "hu": [
+              "A teljes vízálló öltözet elengedhetetlen.",
+              "Legyen rendkívül óvatos a villamossínek keresztezésekor, mert nedvesen csúszósak.",
+              "Győződjön meg róla, hogy a lámpái működnek, mivel a látási viszonyok rosszak lehetnek.",
+              "Tervezze az útvonalat sok beltéri szünettel."
+            ],
+            "ro": [
+              "Îmbrăcămintea complet impermeabilă este esențială.",
+              "Fiți extrem de atenți la traversarea liniilor de tramvai, deoarece sunt alunecoase când sunt ude.",
+              "Asigurați-vă că luminile funcționează, deoarece vizibilitatea poate fi slabă.",
+              "Planificați-vă traseul cu o mulțime de pauze în interior."
+            ],
+            "en": [
+              "Full waterproofs are essential.",
+              "Be extremely careful crossing tram tracks as they are slippery when wet.",
+              "Ensure your lights are working as visibility can be poor.",
+              "Plan your route with plenty of indoor breaks."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgen: Eine kühle, aber belebende Fahrt am Fluss, die Sie in den Museen aufwärmt. Mittag: Bewundern Sie die Universität, die im Winterlicht wie Hogwarts aussieht. Nachmittag: Die Glashäuser des Botanischen Gartens sind eine warme Oase. Abend: Beenden Sie den Tag früh mit einem Pint auf der festlich beleuchteten Ashton Lane.",
+            "hu": "Reggel: Hűvös, de élénkítő tekerés a folyó mentén, felmelegedve a múzeumokban. Délben: Csodálja meg az egyetemet, amely a téli fényben úgy néz ki, mint a Roxfort. Délután: A Botanikus Kert üvegházai meleg oázist jelentenek. Este: Zárja a napot korán egy korsó sörrel az ünnepi fényekben úszó Ashton Lane-en.",
+            "ro": "Dimineață: O plimbare răcoroasă, dar înviorătoare, pe malul râului, încălzindu-vă la muzee. Prânz: Admirați universitatea, care arată ca Hogwarts în lumina iernii. După-amiază: Serele Grădinii Botanice sunt o oază de căldură. Seară: Încheiați ziua devreme cu o halbă pe Ashton Lane, luminată festiv.",
+            "en": "Morning: A crisp but invigorating ride by the river, warming up in the museums. Noon: Admire the university looking like Hogwarts in the winter light. Afternoon: The Botanic Gardens' glasshouses provide a warm oasis. Evening: Finish the day early with a pint on a festive Ashton Lane."
+          },
+          "stops": [
+            {
+              "name": "Clyde Riverside Walkway",
+              "tip_5lang": {
+                "de": "Achten Sie auf Eisflächen, besonders am Morgen und an schattigen Stellen.",
+                "hu": "Vigyázzon a jégfoltokra, különösen reggel és árnyékos helyeken.",
+                "ro": "Atenție la porțiunile de gheață, în special dimineața și în zonele umbrite.",
+                "en": "Watch out for patches of ice, especially in the morning and in shaded spots."
+              }
+            },
+            {
+              "name": "Riverside Museum",
+              "tip_5lang": {
+                "de": "Ein großartiger Ort, um die kälteste Zeit des Tages drinnen zu verbringen.",
+                "hu": "Nagyszerű hely, hogy a nap leghidegebb részét beltéren töltse.",
+                "ro": "Un loc minunat pentru a petrece cea mai rece parte a zilei în interior.",
+                "en": "A great place to spend the coldest part of the day indoors."
+              }
+            },
+            {
+              "name": "Kelvingrove Art Gallery and Museum",
+              "tip_5lang": {
+                "de": "Das Café ist ein guter Ort für ein heißes Getränk und einen Kuchen zur Stärkung.",
+                "hu": "A kávézó jó hely egy forró italra és egy süteményre az energia pótlásához.",
+                "ro": "Cafeneaua este un loc bun pentru o băutură caldă și o prăjitură pentru a vă reface energia.",
+                "en": "The cafe is a good spot for a hot drink and a cake to refuel."
+              }
+            },
+            {
+              "name": "University of Glasgow",
+              "tip_5lang": {
+                "de": "Das Hauptgebäude ist für Besucher geöffnet und eine gute Möglichkeit, dem Wind zu entkommen.",
+                "hu": "A főépület nyitva áll a látogatók előtt, és jó lehetőséget kínál a szél elől való menekülésre.",
+                "ro": "Clădirea principală este deschisă vizitatorilor și este o modalitate bună de a scăpa de vânt.",
+                "en": "The main building is open to visitors and a good way to get out of the wind."
+              }
+            },
+            {
+              "name": "Glasgow Botanic Gardens",
+              "tip_5lang": {
+                "de": "Die Wege im Freien können vereist sein, aber die Glashäuser sind warm und voller Leben.",
+                "hu": "A kültéri utak jegesek lehetnek, de az üvegházak melegek és tele vannak élettel.",
+                "ro": "Cărările exterioare pot fi înghețate, dar serele sunt calde și pline de viață.",
+                "en": "The outdoor paths can be icy, but the glasshouses are warm and full of life."
+              }
+            },
+            {
+              "name": "Ashton Lane",
+              "tip_5lang": {
+                "de": "Die Gasse ist im Winter oft mit Lichtern geschmückt und nach Einbruch der Dunkelheit (ab 16:00 Uhr) sehr stimmungsvoll.",
+                "hu": "A sikátort télen gyakran díszítik fényekkel, és sötétedés után (16:00 órától) nagyon hangulatos.",
+                "ro": "Aleea este adesea decorată cu lumini iarna, devenind foarte atmosferică după lăsarea întunericului (de la 16:00).",
+                "en": "The lane is often decorated with lights in winter, making it very atmospheric after dark (from 4pm)."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Kleidung, Handschuhe, Mütze und einen Schal.",
+              "Planen Sie Ihre Route so, dass Sie vor Einbruch der Dunkelheit (ca. 16:00 Uhr) fertig sind.",
+              "Der Akku eines E-Bikes kann sich bei Kälte schneller entladen.",
+              "Trinken Sie viel heiße Flüssigkeit, um warm zu bleiben."
+            ],
+            "hu": [
+              "Viseljen szélálló ruházatot, kesztyűt, sapkát és sálat.",
+              "Tervezze úgy az útvonalát, hogy sötétedés előtt (kb. 16:00) befejezze.",
+              "Az e-bike akkumulátora hidegben gyorsabban lemerülhet.",
+              "Igyon sok forró folyadékot, hogy melegen maradjon."
+            ],
+            "ro": [
+              "Purtați haine rezistente la vânt, mănuși, căciulă și un fular.",
+              "Planificați-vă traseul pentru a termina înainte de lăsarea întunericului (în jur de 16:00).",
+              "Bateria unei biciclete electrice se poate descărca mai repede pe vreme rece.",
+              "Beți multe lichide calde pentru a vă menține căldura."
+            ],
+            "en": [
+              "Wear windproof layers, gloves, a hat, and a scarf.",
+              "Plan your route to finish before it gets dark (around 4 PM).",
+              "An e-bike's battery may drain faster in the cold.",
+              "Drink plenty of hot fluids to stay warm."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -946,6 +1328,224 @@
           "Download a parking app like RingGo to make payment easier.",
           "Traffic can be heavy during peak hours, so plan your driving times around them."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgen: Fahren Sie durch den Regen zur Burrell Collection für einen kulturellen Vormittag. Mittag: Ein schneller Abstecher, um die Hochlandrinder im Pollok Park zu sehen, gefolgt von der Eleganz des House for an Art Lover. Nachmittag: Sehen Sie sich das Tall Ship und den Titan Crane an, beeindruckende Anblicke gegen einen stürmischen Himmel. Abend: Eine stimmungsvolle Fahrt durch die Hügel.",
+            "hu": "Reggel: Vezessen át az esőn a Burrell Collectionhöz egy kulturális délelőttért. Délben: Rövid kitérő a felföldi marhák megtekintésére a Pollok Parkban, majd a House for an Art Lover eleganciája. Délután: Tekintse meg a Tall Shipet és a Titan Crane-t, lenyűgöző látvány a viharos égbolt előtt. Este: Hangulatos autózás a dombokon.",
+            "ro": "Dimineață: Conduceți prin ploaie până la Colecția Burrell pentru o dimineață culturală. Prânz: O scurtă vizită pentru a vedea vacile Highland în Parcul Pollok, urmată de eleganța Casei pentru un iubitor de artă. După-amiază: Vedeți nava The Tall Ship și macaraua Titan, priveliști impresionante pe un cer furtunos. Seară: O plimbare atmosferică cu mașina prin dealuri.",
+            "en": "Morning: Drive through the rain to the Burrell Collection for a cultural morning. Noon: A quick dash to see the Highland cattle in Pollok Park, followed by the elegance of House for an Art Lover. Afternoon: See the Tall Ship and Titan Crane, impressive sights against a stormy sky. Evening: A moody drive through the hills."
+          },
+          "stops": [
+            {
+              "name": "Burrell Collection",
+              "tip_5lang": {
+                "de": "Die großen Glasfenster geben Ihnen das Gefühl, mit dem Park verbunden zu sein, während Sie trocken bleiben.",
+                "hu": "A nagy üvegablakoknak köszönhetően úgy érezheti, hogy kapcsolatban van a parkkal, miközben szárazon marad.",
+                "ro": "Ferestrele mari de sticlă vă fac să vă simțiți conectat la parc în timp ce stați la uscat.",
+                "en": "The large glass windows make you feel connected to the park while staying dry."
+              }
+            },
+            {
+              "name": "Pollok Country Park",
+              "tip_5lang": {
+                "de": "Die berühmten Hochlandrinder können Sie oft vom Auto aus sehen, wenn das Wetter zu schlecht ist.",
+                "hu": "A híres felföldi marhákat gyakran láthatja az autóból, ha túl rossz az idő.",
+                "ro": "Puteți vedea adesea faimoasele vaci Highland din mașină dacă vremea este prea rea.",
+                "en": "You can often see the famous Highland cattle from your car if the weather is too bad."
+              }
+            },
+            {
+              "name": "Ibrox Stadium (Rangers)",
+              "tip_5lang": {
+                "de": "Stadiontouren finden bei jedem Wetter statt und sind eine tolle Indoor-Alternative.",
+                "hu": "A stadiontúrák minden időben működnek, nagyszerű beltéri alternatívát kínálva.",
+                "ro": "Tururile stadionului au loc indiferent de vreme, oferind o alternativă excelentă în interior.",
+                "en": "Stadium tours run whatever the weather, offering a great indoor alternative."
+              }
+            },
+            {
+              "name": "House for an Art Lover",
+              "tip_5lang": {
+                "de": "Genießen Sie eine Tasse Tee im Café mit Blick auf den regnerischen Park.",
+                "hu": "Élvezzen egy csésze teát a kávézóban, kilátással az esős parkra.",
+                "ro": "Bucurați-vă de o ceașcă de ceai în cafeneaua lor, cu vedere la parcul ploios.",
+                "en": "Enjoy a cup of tea in their cafe, overlooking the rainy park."
+              }
+            },
+            {
+              "name": "The Tall Ship Glenlee",
+              "tip_5lang": {
+                "de": "Obwohl ein Großteil des Schiffes ausgesetzt ist, bieten die überdachten Decks etwas Schutz.",
+                "hu": "Bár a hajó nagy része nyitott, a fedett fedélzetek némi menedéket nyújtanak.",
+                "ro": "Deși o mare parte a navei este expusă, punțile acoperite oferă ceva adăpost.",
+                "en": "While much of the ship is exposed, the covered decks offer some shelter."
+              }
+            },
+            {
+              "name": "Titan Crane (Clydebank)",
+              "tip_5lang": {
+                "de": "Die Aussicht kann mit Sturmwolken dramatisch sein, aber die Plattform kann bei starkem Wind schließen.",
+                "hu": "A kilátás drámai lehet a viharfelhőkkel, de a platform erős szélben bezárhat.",
+                "ro": "Priveliștea poate fi dramatică cu nori de furtună, dar platforma se poate închide în condiții de vânt puternic.",
+                "en": "The view can be dramatic with storm clouds, but the platform may close in high winds."
+              }
+            },
+            {
+              "name": "Loch Humphrey View",
+              "tip_5lang": {
+                "de": "Eine malerische Fahrt, aber die Sicht könnte schlecht sein. Genießen Sie die stimmungsvolle Landschaft vom Auto aus.",
+                "hu": "Festői út, de a látási viszonyok rosszak lehetnek. Élvezze a hangulatos tájat az autóból.",
+                "ro": "O plimbare pitorească, dar vizibilitatea ar putea fi slabă. Bucurați-vă de peisajul atmosferic din mașină.",
+                "en": "A scenic drive, but visibility might be poor. Enjoy the moody landscape from the car."
+              }
+            },
+            {
+              "name": "Sunset at Kilpatrick Hills",
+              "tip_5lang": {
+                "de": "Bei Regen gibt es wahrscheinlich keinen Sonnenuntergang zu sehen, aber die Wolken können dramatisch sein.",
+                "hu": "Esőben valószínűleg nem lesz naplemente, de a felhők drámaiak lehetnek.",
+                "ro": "Probabil că nu veți vedea un apus pe ploaie, dar norii pot fi dramatici.",
+                "en": "There's unlikely to be a sunset in the rain, but the clouds can be dramatic."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Verkehr kann bei Regen stärker sein; planen Sie zusätzliche Zeit ein.",
+              "Halten Sie einen Regenschirm im Auto für den Weg vom Parkplatz zum Eingang bereit.",
+              "Viele Parkautomaten in Glasgow erfordern eine App oder eine Karte.",
+              "Die Straßen können rutschig sein, fahren Sie vorsichtig."
+            ],
+            "hu": [
+              "Esőben nagyobb lehet a forgalom; tervezzen plusz idővel.",
+              "Tartson egy esernyőt az autóban a parkolótól a bejáratig tartó útra.",
+              "Sok glasgow-i parkolóautomata alkalmazást vagy kártyát igényel.",
+              "Az utak csúszósak lehetnek, vezessen óvatosan."
+            ],
+            "ro": [
+              "Traficul poate fi mai aglomerat pe ploaie; alocați timp suplimentar.",
+              "Țineți o umbrelă în mașină pentru drumul de la parcare la intrare.",
+              "Multe automate de parcare din Glasgow necesită o aplicație sau un card.",
+              "Drumurile pot fi alunecoase, conduceți cu prudență."
+            ],
+            "en": [
+              "Traffic can be heavier in the rain; allow extra time.",
+              "Keep an umbrella in the car for the dashes from parking lots to entrances.",
+              "Many Glasgow parking meters require an app or card.",
+              "Roads can be slippery, drive with care."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgen: Ein warmes Auto ist ein Segen. Beginnen Sie kulturell in der Burrell Collection. Mittag: Machen Sie einen frostigen Spaziergang im Pollok Park und besuchen Sie das House for an Art Lover. Nachmittag: Es wird am Wasser sehr kalt sein, also ziehen Sie sich warm an für das Tall Ship. Abend: Fahren Sie in die Hügel, bevor es dunkel wird, um die winterliche Aussicht zu genießen.",
+            "hu": "Reggel: A meleg autó áldás. Kezdjen kulturálisan a Burrell Collectionben. Délben: Tegyen egy fagyos sétát a Pollok Parkban, majd látogasson el a House for an Art Loverbe. Délután: Nagyon hideg lesz a vízparton, ezért öltözzön melegen a Tall Shiphez. Este: Menjen fel a dombokra sötétedés előtt, hogy élvezze a téli kilátást.",
+            "ro": "Dimineață: O mașină caldă este o binecuvântare. Începeți cultural la Colecția Burrell. Prânz: Faceți o plimbare geroasă în Parcul Pollok și vizitați Casa pentru un iubitor de artă. După-amiază: Va fi foarte frig lângă apă, așa că îmbrăcați-vă gros pentru The Tall Ship. Seară: Urcați pe dealuri înainte de întuneric pentru priveliștea de iarnă.",
+            "en": "Morning: A warm car is a blessing. Start culturally at the Burrell Collection. Noon: Take a frosty walk in Pollok Park then visit the House for an Art Lover. Afternoon: It will be very cold by the water, so wrap up for the Tall Ship. Evening: Head for the hills before it gets dark for the winter views."
+          },
+          "stops": [
+            {
+              "name": "Burrell Collection",
+              "tip_5lang": {
+                "de": "Ein heller, warmer Raum an einem dunklen Wintertag.",
+                "hu": "Világos, meleg hely egy sötét téli napon.",
+                "ro": "Un spațiu luminos și cald într-o zi întunecată de iarnă.",
+                "en": "A bright, warm space on a dark winter's day."
+              }
+            },
+            {
+              "name": "Pollok Country Park",
+              "tip_5lang": {
+                "de": "Der Boden kann gefroren oder sehr matschig sein. Tragen Sie geeignetes Schuhwerk.",
+                "hu": "A talaj fagyott vagy nagyon sáros lehet. Viseljen megfelelő lábbelit.",
+                "ro": "Pământul poate fi înghețat sau foarte noroios. Purtați încălțăminte adecvată.",
+                "en": "The ground can be frozen or very muddy. Wear appropriate footwear."
+              }
+            },
+            {
+              "name": "Ibrox Stadium (Rangers)",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Winteröffnungszeiten für Touren, die möglicherweise reduziert sind.",
+                "hu": "Ellenőrizze a túrák téli nyitvatartási idejét, amely csökkentett lehet.",
+                "ro": "Verificați programul de iarnă pentru tururi, care poate fi redus.",
+                "en": "Check winter opening times for tours, which may be reduced."
+              }
+            },
+            {
+              "name": "House for an Art Lover",
+              "tip_5lang": {
+                "de": "Die Weihnachtsdekorationen und Veranstaltungen sind oft sehenswert.",
+                "hu": "A karácsonyi díszítéseket és rendezvényeket gyakran érdemes megnézni.",
+                "ro": "Decorațiunile și evenimentele lor festive merită adesea văzute.",
+                "en": "Their festive decorations and events are often worth seeing."
+              }
+            },
+            {
+              "name": "The Tall Ship Glenlee",
+              "tip_5lang": {
+                "de": "Der Wind vom Clyde ist eisig kalt. Ziehen Sie sich sehr warm an.",
+                "hu": "A Clyde felől fújó szél csontig hatoló. Öltözzön nagyon melegen.",
+                "ro": "Vântul de pe Clyde este tăios. Îmbrăcați-vă foarte gros.",
+                "en": "The wind off the Clyde is bitingly cold. Wrap up very warm."
+              }
+            },
+            {
+              "name": "Titan Crane (Clydebank)",
+              "tip_5lang": {
+                "de": "Der Betrieb ist wetterabhängig, insbesondere bei eisigen Bedingungen. Prüfen Sie dies vor Ihrer Abreise.",
+                "hu": "A működés időjárásfüggő, különösen jeges körülmények között. Indulás előtt ellenőrizze.",
+                "ro": "Operațiunile depind de vreme, în special în condiții de gheață. Verificați înainte de a pleca.",
+                "en": "Operations are weather-dependent, especially in icy conditions. Check before you go."
+              }
+            },
+            {
+              "name": "Loch Humphrey View",
+              "tip_5lang": {
+                "de": "Dieser Teil der Reise ist nur am Morgen oder frühen Nachmittag machbar, um das Fahren im Dunkeln zu vermeiden.",
+                "hu": "Az utazás ezen része csak reggel vagy kora délután lehetséges, hogy elkerülje a sötétben való vezetést.",
+                "ro": "Această parte a călătoriei este viabilă doar dimineața sau la începutul după-amiezii pentru a evita condusul pe întuneric.",
+                "en": "This part of the trip is only viable in the morning or early afternoon to avoid driving in the dark."
+              }
+            },
+            {
+              "name": "Sunset at Kilpatrick Hills",
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang ist gegen 16:00 Uhr. Die Straßen können vereist sein, seien Sie also äußerst vorsichtig.",
+                "hu": "A napnyugta 16:00 óra körül van. Az utak jegesek lehetnek, ezért legyen rendkívül óvatos.",
+                "ro": "Apusul este în jur de 16:00. Drumurile pot fi înghețate, așa că fiți extrem de precauți.",
+                "en": "Sunset is around 4 PM. The roads can be icy, so be extremely careful."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie die Straßenverhältnisse, bevor Sie in die Kilpatrick Hills fahren.",
+              "Stellen Sie sicher, dass Ihr Auto über Enteiser und einen Eiskratzer verfügt.",
+              "Planen Sie den Tag so, dass Sie nach Einbruch der Dunkelheit nicht in unbekannten ländlichen Gebieten fahren.",
+              "Halten Sie eine Decke und heiße Getränke im Auto bereit, für alle Fälle."
+            ],
+            "hu": [
+              "Ellenőrizze az útviszonyokat, mielőtt a Kilpatrick Hillsbe indul.",
+              "Győződjön meg róla, hogy az autóban van jégoldó és jégkaparó.",
+              "Tervezze a napot úgy, hogy sötétedés után ne vezessen ismeretlen vidéki területeken.",
+              "Tartson egy takarót és forró italokat az autóban minden eshetőségre."
+            ],
+            "ro": [
+              "Verificați starea drumurilor înainte de a vă îndrepta spre Kilpatrick Hills.",
+              "Asigurați-vă că mașina are degivrant și o racletă de gheață.",
+              "Planificați ziua astfel încât să nu conduceți în zone rurale necunoscute după lăsarea întunericului.",
+              "Păstrați o pătură și băuturi calde în mașină, pentru orice eventualitate."
+            ],
+            "en": [
+              "Check road conditions before heading to the Kilpatrick Hills.",
+              "Ensure your car has de-icer and an ice scraper.",
+              "Plan the day so you are not driving in unfamiliar rural areas after dark.",
+              "Keep a blanket and hot drinks in the car, just in case."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1282,6 +1882,206 @@
           "Be mindful of the operating hours, as the subway closes earlier than in many other cities.",
           "Some stations do not have escalators or elevators, so be prepared for stairs."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgen: Bleiben Sie mit der U-Bahn trocken, um das West End und das Hunterian Museum zu erreichen. Mittag: Nehmen Sie die U-Bahn nach Govan und dann zum überdachten Einkaufszentrum St. Enoch. Nachmittag: Ein kurzer, feuchter Spaziergang zum People's Palace und den Wintergärten. Abend: Trocknen Sie in der gemütlichen West Brewery ab.",
+            "hu": "Reggel: Maradjon szárazon a metróval, hogy elérje a West End-et és a Hunterian Múzeumot. Délben: Menjen metróval Govanbe, majd a fedett St. Enoch bevásárlóközpontba. Délután: Rövid, nedves séta a People's Palace-hoz és a Téli Kertekhez. Este: Száradjon meg a hangulatos West Brewery-ben.",
+            "ro": "Dimineață: Rămâneți uscat folosind metroul pentru a ajunge în West End și la Muzeul Hunterian. Prânz: Luați metroul spre Govan, apoi spre centrul comercial acoperit St. Enoch. După-amiază: O plimbare scurtă și umedă până la People's Palace și Grădinile de Iarnă. Seară: Uscați-vă la confortabila West Brewery.",
+            "en": "Morning: Stay dry using the subway to get to the West End and the Hunterian Museum. Noon: Take the subway to Govan, then to the covered St Enoch shopping centre. Afternoon: A short, damp walk to the People's Palace and Winter Gardens. Evening: Dry off at the cosy West Brewery."
+          },
+          "stops": [
+            {
+              "name": "Hillhead Subway Station",
+              "tip_5lang": {
+                "de": "Von der Station aus sind Sie sofort im Herzen des West End mit vielen Cafés, um dem Regen zu entfliehen.",
+                "hu": "Az állomásról azonnal a West End szívében találja magát, ahol számos kávézóban elmenekülhet az eső elől.",
+                "ro": "Stația vă lasă în inima West End-ului, cu o mulțime de cafenele pentru a scăpa de ploaie.",
+                "en": "The station puts you right in the heart of the West End with plenty of cafes to escape the rain."
+              }
+            },
+            {
+              "name": "The Hunterian Museum",
+              "tip_5lang": {
+                "de": "Ein fantastisches und kostenloses Indoor-Museum, in dem man Stunden verbringen kann, während man auf das Ende des Regens wartet.",
+                "hu": "Fantasztikus és ingyenes beltéri múzeum, ahol órákat tölthet, amíg eláll az eső.",
+                "ro": "Un muzeu fantastic și gratuit în interior, unde puteți petrece ore întregi așteptând să treacă ploaia.",
+                "en": "A fantastic and free indoor museum where you can spend hours waiting for the rain to pass."
+              }
+            },
+            {
+              "name": "Govan Subway / Govan Stones",
+              "tip_5lang": {
+                "de": "Die Govan-Steine befinden sich in der Govan Old Parish Church, ein perfekter Schutz vor dem Regen.",
+                "hu": "A Govan-kövek a Govan Old Parish Church-ben találhatók, tökéletes menedéket nyújtva az eső elől.",
+                "ro": "Pietrele Govan se află în interiorul Bisericii Vechi Govan, un adăpost perfect de ploaie.",
+                "en": "The Govan Stones are inside the Govan Old Parish Church, a perfect rainy shelter."
+              }
+            },
+            {
+              "name": "St Enoch Subway / Shopping",
+              "tip_5lang": {
+                "de": "Das St. Enoch Centre ist ein riesiges Einkaufszentrum, das direkt von der U-Bahn aus zugänglich ist.",
+                "hu": "A St. Enoch Centre egy hatalmas bevásárlóközpont, amely közvetlenül a metróból érhető el.",
+                "ro": "Centrul St. Enoch este un centru comercial imens, accesibil direct de la metrou.",
+                "en": "The St. Enoch Centre is a huge indoor shopping mall directly accessible from the subway."
+              }
+            },
+            {
+              "name": "People's Palace (Glasgow Green)",
+              "tip_5lang": {
+                "de": "Der Spaziergang durch den Glasgow Green wird nass sein, aber die Wintergärten (ein riesiges Glashaus) sind eine großartige Belohnung.",
+                "hu": "A séta a Glasgow Greenen keresztül nedves lesz, de a Téli Kertek (egy óriási üvegház) nagyszerű jutalom.",
+                "ro": "Plimbarea prin Glasgow Green va fi umedă, dar Grădinile de Iarnă (o seră uriașă) sunt o recompensă grozavă.",
+                "en": "The walk through Glasgow Green will be wet, but the Winter Gardens (a giant glasshouse) are a great reward."
+              }
+            },
+            {
+              "name": "Doulton Fountain",
+              "tip_5lang": {
+                "de": "Bewundern Sie ihn von den Fenstern des People's Palace aus, wenn es in Strömen regnet.",
+                "hu": "Csodálja meg a People's Palace ablakaiból, ha szakad az eső.",
+                "ro": "Admirați-o de la ferestrele Palatului Poporului dacă plouă torențial.",
+                "en": "Admire it from the windows of the People's Palace if it's pouring rain."
+              }
+            },
+            {
+              "name": "West Brewery",
+              "tip_5lang": {
+                "de": "Eine deutsche Bierhalle, die sich an einem trüben Tag besonders gemütlich und einladend anfühlt.",
+                "hu": "Egy német söröző, amely egy borongós napon különösen hangulatosnak és hívogatónak tűnik.",
+                "ro": "O berărie în stil german care se simte deosebit de confortabilă și primitoare într-o zi mohorâtă.",
+                "en": "A German-style beer hall that feels extra cosy and welcoming on a dreich day."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein Tagespass für die U-Bahn ist preiswert und hält Sie trocken.",
+              "Die U-Bahn ist schnell und zuverlässig, während Busse im Regenverkehr Verspätung haben können.",
+              "Überprüfen Sie die Abfahrtszeiten der letzten U-Bahn, da diese relativ früh endet.",
+              "Eine wasserdichte Jacke ist besser als ein Regenschirm, wenn Sie zu Bushaltestellen gehen."
+            ],
+            "hu": [
+              "A napijegy a metróra jó ár-érték arányú és szárazon tart.",
+              "A metró gyors és megbízható, míg a buszok késhetnek az esős forgalomban.",
+              "Ellenőrizze az utolsó metró indulási idejét, mivel viszonylag korán leáll.",
+              "Egy vízálló dzseki jobb, mint egy esernyő, amikor buszmegállókhoz sétál."
+            ],
+            "ro": [
+              "Un abonament de o zi pentru metrou are un raport calitate-preț bun și vă menține uscat.",
+              "Metroul este rapid și fiabil, în timp ce autobuzele pot avea întârzieri în traficul ploios.",
+              "Verificați ora ultimului metrou, deoarece serviciul se încheie relativ devreme.",
+              "O jachetă impermeabilă este mai bună decât o umbrelă când mergeți la stațiile de autobuz."
+            ],
+            "en": [
+              "A subway day pass is good value and keeps you dry.",
+              "The subway is quick and reliable, whereas buses can be delayed by traffic in the rain.",
+              "Check the time of the last subway as it finishes relatively early.",
+              "A waterproof jacket is better than an umbrella when walking to and from bus stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgen: Die beheizte U-Bahn ist Ihr Freund. Erkunden Sie das West End und wärmen Sie sich im Hunterian auf. Mittag: Fahren Sie mit der U-Bahn zum historischen Govan, dann tauchen Sie in das belebte St. Enoch Centre ein. Nachmittag: Ein Spaziergang durch ein frostiges Glasgow Green zum People's Palace. Abend: Beenden Sie den Tag mit einem herzhaften deutschen Essen in der West Brewery.",
+            "hu": "Reggel: A fűtött metró a barátja. Fedezze fel a West Endet, és melegedjen fel a Hunterianben. Délben: Menjen metróval a történelmi Govanbe, majd merüljön el a nyüzsgő St. Enoch Centre-ben. Délután: Séta egy fagyos Glasgow Greenen keresztül a People's Palace-hoz. Este: Zárja a napot egy kiadós német étellel a West Brewery-ben.",
+            "ro": "Dimineață: Metroul încălzit este prietenul tău. Explorați West End și încălziți-vă la Hunterian. Prânz: Luați metroul spre istoricul Govan, apoi scufundați-vă în aglomeratul St. Enoch Centre. După-amiază: O plimbare printr-un Glasgow Green înghețat până la People's Palace. Seară: Încheiați ziua cu o masă germană copioasă la West Brewery.",
+            "en": "Morning: The heated subway is your friend. Explore the West End and warm up in the Hunterian. Noon: Take the subway to historic Govan, then dive into the busy St Enoch Centre. Afternoon: A walk through a frosty Glasgow Green to the People's Palace. Evening: Finish with a hearty German meal at West Brewery."
+          },
+          "stops": [
+            {
+              "name": "Hillhead Subway Station",
+              "tip_5lang": {
+                "de": "Ein guter Ausgangspunkt, um das festlich beleuchtete West End zu erkunden.",
+                "hu": "Jó kiindulópont az ünnepi fényekkel díszített West End felfedezéséhez.",
+                "ro": "Un punct de plecare bun pentru a explora West End-ul luminat festiv.",
+                "en": "A good starting point for exploring the festively lit West End."
+              }
+            },
+            {
+              "name": "The Hunterian Museum",
+              "tip_5lang": {
+                "de": "Ein perfekter, warmer Ort, um einen großen Teil eines kalten Tages zu verbringen.",
+                "hu": "Tökéletes, meleg hely egy hideg nap nagy részének eltöltésére.",
+                "ro": "Un loc perfect, cald, pentru a petrece o mare parte dintr-o zi rece.",
+                "en": "A perfect, warm place to spend a large part of a cold day."
+              }
+            },
+            {
+              "name": "Govan Subway / Govan Stones",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Winteröffnungszeiten der Kirche, da diese eingeschränkt sein können.",
+                "hu": "Ellenőrizze a templom téli nyitvatartási idejét, mert az korlátozott lehet.",
+                "ro": "Verificați programul de iarnă al bisericii, deoarece poate fi limitat.",
+                "en": "Check winter opening times for the church as they can be limited."
+              }
+            },
+            {
+              "name": "St Enoch Subway / Shopping",
+              "tip_5lang": {
+                "de": "Ein großartiger Ort zum Weihnachtseinkauf und um der Kälte für ein paar Stunden zu entfliehen.",
+                "hu": "Nagyszerű hely a karácsonyi vásárláshoz és a hideg elől való meneküléshez néhány órára.",
+                "ro": "Un loc minunat pentru cumpărături de Crăciun și pentru a scăpa de frig pentru câteva ore.",
+                "en": "A great place for Christmas shopping and to escape the cold for a few hours."
+              }
+            },
+            {
+              "name": "People's Palace (Glasgow Green)",
+              "tip_5lang": {
+                "de": "Der Spaziergang durch den Glasgow Green wird kalt sein, aber die Wintergärten sind eine wunderbar warme Zuflucht.",
+                "hu": "A séta a Glasgow Greenen keresztül hideg lesz, de a Téli Kertek csodálatosan meleg menedéket nyújtanak.",
+                "ro": "Plimbarea prin Glasgow Green va fi rece, dar Grădinile de Iarnă sunt un refugiu minunat de cald.",
+                "en": "The walk through Glasgow Green will be cold, but the Winter Gardens are a wonderfully warm escape."
+              }
+            },
+            {
+              "name": "Doulton Fountain",
+              "tip_5lang": {
+                "de": "Könnte im tiefen Winter gefroren oder abgeschaltet sein, sieht aber im schwachen Licht karg und schön aus.",
+                "hu": "Lehet, hogy mély télen befagyott vagy kikapcsolt, de a gyenge fényben kopár és szép látványt nyújt.",
+                "ro": "Ar putea fi înghețată sau oprită în timpul iernii adânci, dar arată auster și frumos în lumina slabă.",
+                "en": "Might be frozen or turned off in deep winter, but looks starkly beautiful in the low light."
+              }
+            },
+            {
+              "name": "West Brewery",
+              "tip_5lang": {
+                "de": "Das deftige Essen und die lebhafte Atmosphäre sind perfekt für einen dunklen, kalten Abend.",
+                "hu": "A kiadós ételek és az élénk hangulat tökéletesek egy sötét, hideg estére.",
+                "ro": "Mâncarea consistentă și atmosfera plină de viață sunt perfecte pentru o seară întunecată și rece.",
+                "en": "The hearty food and lively atmosphere are perfect for a dark, cold evening."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Das Warten an Bushaltestellen kann sehr kalt sein; verwenden Sie eine App für Live-Zeiten, um das Warten zu minimieren.",
+              "Die U-Bahn-Wagen sind beheizt und bieten eine willkommene Pause von der Kälte.",
+              "Die Tage sind kurz, beginnen Sie also früh, um das Tageslicht optimal zu nutzen.",
+              "Viele Cafés bieten saisonale Heißgetränke wie gewürzten Glühwein an."
+            ],
+            "hu": [
+              "A buszmegállókban való várakozás nagyon hideg lehet; használjon egy alkalmazást az élő menetrendekhez a várakozás minimalizálása érdekében.",
+              "A metrókocsik fűtöttek, és kellemes pihenést nyújtanak a hideg elől.",
+              "A napok rövidek, ezért kezdje korán, hogy a lehető legjobban kihasználja a napfényt.",
+              "Sok kávézó kínál szezonális forró italokat, például fűszeres forralt bort."
+            ],
+            "ro": [
+              "Așteptarea în stațiile de autobuz poate fi foarte rece; utilizați o aplicație pentru orele live pentru a minimiza așteptarea.",
+              "Vagoanele de metrou sunt încălzite, oferind o pauză binevenită de la frig.",
+              "Zilele sunt scurte, așa că începeți devreme pentru a profita la maximum de lumina zilei.",
+              "Multe cafenele oferă băuturi calde de sezon, cum ar fi vinul fiert cu mirodenii."
+            ],
+            "en": [
+              "Waiting at bus stops can be very cold; use a live times app to minimise waiting.",
+              "The subway carriages are heated, offering a welcome break from the cold.",
+              "Days are short, so start early to make the most of the daylight.",
+              "Many cafes will offer seasonal hot drinks like spiced mulled wine."
+            ]
+          }
+        }
       }
     }
   }

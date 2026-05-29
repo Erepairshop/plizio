@@ -414,6 +414,196 @@
           "Tecla Sala and Can Boixeres make good shade breaks.",
           "If the day runs long, skip the last extra stop."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen in L'Hospitalet beginnt unter grauem Himmel am Rathausplatz, wo das Kopfsteinpflaster im Regen glänzt. Mittags bietet das historische Can Sumarro einen trockenen Rückzugsort inmitten alter Mauern. Am Nachmittag erkunden Sie die weitläufigen Hallen des Tecla Sala Kunstzentrums, ideal für regnerische Stunden. Den Tag lassen Sie bei einem feuchten, aber stimmungsvollen Spaziergang durch den Can Boixeres Park ausklingen, bevor Sie in eine gemütliche Bar einkehren.",
+            "hu": "L'Hospitalet reggele szürke égbolt alatt indul a Városháza téren, ahol az esőben csillog a burkolat. Délben a történelmi Can Sumarro könyvtára kínál száraz menedéket az ősi falak között. Délután a Tecla Sala művészeti központ tágas csarnokai tökéletesek a csapadékos idő elől való menekülésre. A napot egy frissítő, bár párás séta zárja a Can Boixeres parkban, mielőtt behúzódna egy hangulatos helyi tapas bárba.",
+            "ro": "Dimineața în L'Hospitalet începe sub un cer gri în Piața Primăriei, unde pavajul strălucește în ploaie. La prânz, conacul istoric Can Sumarro oferă un refugiu uscat printre zidurile vechi. După-amiaza, explorăm halele spațioase ale centrului de artă Tecla Sala, ideale pentru orele ploioase. Ziua se încheie cu o plimbare umedă, dar atmosferică, prin Parcul Can Boixeres, înainte de a găsi adăpost într-un bar local primitor.",
+            "en": "The morning in L'Hospitalet starts under grey skies at the Town Hall Square, with the pavement glistening in the rain. At noon, the historic Can Sumarro manor provides a dry refuge within its ancient walls. In the afternoon, you explore the vast halls of the Tecla Sala art centre, perfect for rainy hours. The day concludes with a damp but atmospheric walk through Can Boixeres Park before retreating to a cozy local tapas bar."
+          },
+          "stops": [
+            {
+              "name": "Town Hall Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden der umliegenden Gebäude als Regenschutz.",
+                "hu": "Használja a környező épületek árkádjait az eső elleni védelemre.",
+                "ro": "Folosiți arcadele clădirilor din jur pentru a vă proteja de ploaie.",
+                "en": "Use the arcades of the surrounding buildings for shelter from the rain."
+              }
+            },
+            {
+              "name": "Can Sumarro Manor",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Bibliothek im Inneren, um trocken zu bleiben.",
+                "hu": "Látogassa meg a belső könyvtárat, hogy száraz maradjon.",
+                "ro": "Vizitați biblioteca din interior pentru a rămâne uscat.",
+                "en": "Visit the library inside to stay dry and enjoy the architecture."
+              }
+            },
+            {
+              "name": "Santa Bellvitge Chapel",
+              "tip_5lang": {
+                "de": "Ein kurzer, besinnlicher Stopp im Inneren während des Regens.",
+                "hu": "Rövid, elmélyült megálló bent az eső ideje alatt.",
+                "ro": "O scurtă oprire meditativă în interior în timpul ploii.",
+                "en": "A short, contemplative stop inside during the rain."
+              }
+            },
+            {
+              "name": "L'Hospitalet Museum",
+              "tip_5lang": {
+                "de": "Perfekter Ort für eine ausgiebige Besichtigung bei Schlechtwetter.",
+                "hu": "Tökéletes hely egy alapos városnézéshez rossz időben.",
+                "ro": "Locul perfect pentru o vizită detaliată pe vreme rea.",
+                "en": "Perfect place for an extensive visit during bad weather."
+              }
+            },
+            {
+              "name": "Tecla Sala Art Centre",
+              "tip_5lang": {
+                "de": "Große Indoor-Ausstellungen halten Sie garantiert trocken.",
+                "hu": "A nagy beltéri kiállítások garantáltan szárazon tartják.",
+                "ro": "Expozițiile interioare mari vă vor menține cu siguranță uscat.",
+                "en": "Large indoor exhibitions are guaranteed to keep you dry."
+              }
+            },
+            {
+              "name": "Can Boixeres Park",
+              "tip_5lang": {
+                "de": "Vorsicht vor rutschigen Wegen unter den Bäumen.",
+                "hu": "Vigyázzon a csúszós utakra a fák alatt.",
+                "ro": "Atenție la potecile alunecoase de sub copaci.",
+                "en": "Be careful of slippery paths under the trees."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da sich in den engen Gassen Pfützen bilden können.",
+              "Nutzen Sie die Museen als natürliche Pausenstationen während starker Schauer.",
+              "Ein Regenschirm ist bei den teils böigen Winden in Meeresnähe unverzichtbar.",
+              "Die Cafés rund um das Tecla Sala bieten gemütliche Plätze zum Aufwärmen.",
+              "Planen Sie mehr Zeit für die Innenräume ein, wenn der Regen länger anhält."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert a szűk utcákban tócsák alakulhatnak ki.",
+              "Használja a múzeumokat természetes pihenőhelyként a heves záporok alatt.",
+              "Az esernyő elengedhetetlen a tengerközeli, néha szeles időben.",
+              "A Tecla Sala környéki kávézók barátságos helyeket kínálnak a melegedésre.",
+              "Tervezzen több időt a belső terekre, ha az eső tartósnak bizonyul."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, deoarece se pot forma bălți în zonele joase.",
+              "Folosiți muzeele ca puncte naturale de odihnă în timpul averselor puternice.",
+              "O umbrelă este indispensabilă din cauza vântului uneori puternic din apropierea mării.",
+              "Cafenelele din jurul Tecla Sala oferă locuri primitoare pentru a vă încălzi.",
+              "Alocați mai mult timp pentru interior dacă ploaia persistă."
+            ],
+            "en": [
+              "Wear waterproof shoes as puddles can form in narrow streets.",
+              "Use museums as natural break points during heavy showers.",
+              "An umbrella is essential given the sometimes gusty winds near the coast.",
+              "Cafes around Tecla Sala offer cozy spots to warm up and wait out the rain.",
+              "Plan more time for indoor activities if the rain is persistent."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen am Rathausplatz ist frisch und klar, die katalanische Sonne steht tief. Mittags wärmen Sie sich in der geschichtsträchtigen Atmosphäre von Can Sumarro auf. Am Nachmittag bietet das Museum von L'Hospitalet kulturelle Wärme, gefolgt von der beeindruckenden Industriearchitektur des Tecla Sala. Zum Sonnenuntergang, der im Winter bereits gegen 17:30 Uhr einsetzt, bietet der Can Boixeres Park eine wunderschöne, kühle Kulisse für das Ende der Tour.",
+            "hu": "A téli reggel a Városháza téren friss és tiszta, a katalán nap alacsonyan jár. Délben Can Sumarro történelmi falai között melegedhet fel. Délután L'Hospitalet múzeuma kínál kulturális feltöltődést, majd a Tecla Sala lenyűgöző ipari épülete következik. A naplemente télen már 17:30 körül beköszönt, a Can Boixeres park hűvös, de gyönyörű díszletet nyújt a túra lezárásához.",
+            "ro": "Dimineața de iarnă în Piața Primăriei este proaspătă și senină, cu soarele catalan jos pe cer. La prânz, vă încălziți în atmosfera plină de istorie de la Can Sumarro. După-amiaza, Muzeul din L'Hospitalet oferă căldură culturală, urmat de arhitectura industrială impresionantă de la Tecla Sala. La apusul soarelui, care iarna are loc în jur de ora 17:30, Parcul Can Boixeres oferă un cadru răcoros și superb pentru finalul turului.",
+            "en": "The winter morning at Town Hall Square is crisp and clear, with the Catalan sun hanging low. At noon, warm up in the history-steeped atmosphere of Can Sumarro. In the afternoon, the Museum of L'Hospitalet offers cultural warmth, followed by the impressive industrial architecture of Tecla Sala. At sunset, which occurs around 17:30 in winter, Can Boixeres Park provides a beautiful, cool backdrop for the end of the tour."
+          },
+          "stops": [
+            {
+              "name": "Town Hall Square",
+              "tip_5lang": {
+                "de": "Genießen Sie die Morgensonne in einem der windgeschützten Cafés.",
+                "hu": "Élvezze a reggeli napsütést az egyik szélvédett kávézóban.",
+                "ro": "Bucurați-vă de soarele dimineții la una dintre cafenelele ferite de vânt.",
+                "en": "Enjoy the morning sun at one of the wind-sheltered cafes."
+              }
+            },
+            {
+              "name": "Can Sumarro Manor",
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten die Kälte draußen – ideal für eine Pause.",
+                "hu": "A vastag falak kint tartják a hideget – ideális egy szünethez.",
+                "ro": "Zidurile groase țin frigul afară – ideal pentru o pauză.",
+                "en": "The thick walls keep the cold out – ideal for a break."
+              }
+            },
+            {
+              "name": "Santa Bellvitge Chapel",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kapelle, wenn der kalte Wind auf dem Platz auffrischt.",
+                "hu": "Látogassa meg a kápolnát, ha feltámad a hideg szél a téren.",
+                "ro": "Vizitați capela dacă vântul rece se intensifică în piață.",
+                "en": "Visit the chapel if the cold wind picks up on the square."
+              }
+            },
+            {
+              "name": "L'Hospitalet Museum",
+              "tip_5lang": {
+                "de": "Ein angenehm beheizter Ort, um mehr über die Stadt zu erfahren.",
+                "hu": "Kellemesen fűtött hely, ahol többet megtudhat a városról.",
+                "ro": "Un loc încălzit plăcut unde puteți afla mai multe despre oraș.",
+                "en": "A pleasantly heated place to learn more about the city."
+              }
+            },
+            {
+              "name": "Tecla Sala Art Centre",
+              "tip_5lang": {
+                "de": "Das Licht in den Hallen ist im Winter besonders stimmungsvoll.",
+                "hu": "A csarnokok fényei télen különösen hangulatosak.",
+                "ro": "Lumina din hale este deosebit de sugestivă iarna.",
+                "en": "The light in the halls is particularly atmospheric in winter."
+              }
+            },
+            {
+              "name": "Can Boixeres Park",
+              "tip_5lang": {
+                "de": "Besuchen Sie den Park vor 17:30 Uhr, um das Tageslicht zu nutzen.",
+                "hu": "Látogassa meg a parkot 17:30 előtt, hogy kihasználja a nappali fényt.",
+                "ro": "Vizitați parcul înainte de 17:30 pentru a profita de lumina zilei.",
+                "en": "Visit the park before 17:30 to make the most of the daylight."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schichten Sie Ihre Kleidung, da es in der Sonne warm, im Schatten aber kühl ist.",
+              "Die Sonne geht früh unter; beenden Sie Außenaktivitäten bis 17:30 Uhr.",
+              "Nutzen Sie die Mittagszeit für Spaziergänge, wenn die Temperaturen am höchsten sind.",
+              "Viele Cafés bieten im Winter Heizstrahler im Außenbereich an.",
+              "Trinken Sie einen heißen Cortado, um sich zwischendurch aufzuwärmen."
+            ],
+            "hu": [
+              "Öltözködjön rétegesen, mert a napon meleg, de árnyékban hűvös van.",
+              "A nap korán nyugszik; a szabadtéri programokat fejezze be 17:30-ig.",
+              "Használja ki a délidőt a sétákra, amikor a legmagasabb a hőmérséklet.",
+              "Sok kávézó kínál kültéri hősugárzókat a téli időszakban is.",
+              "Igyon egy forró cortadót, hogy felfrissüljön és felmelegedjen."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi, deoarece la soare este cald, dar la umbră este răcoare.",
+              "Soarele apune devreme; terminați activitățile în aer liber până la ora 17:30.",
+              "Profitate de miezul zilei pentru plimbări, când temperaturile sunt maxime.",
+              "Multe cafenele oferă radiatoare în zonele exterioare în timpul iernii.",
+              "Beți un Cortado fierbinte pentru a vă încălzi între vizite."
+            ],
+            "en": [
+              "Dress in layers as it's warm in the sun but chilly in the shade.",
+              "The sun sets early; finish outdoor activities by 17:30.",
+              "Make the most of midday for walking when temperatures are highest.",
+              "Many cafes offer outdoor heaters even during the winter months.",
+              "Have a hot Cortado to warm up between stops."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -846,6 +1036,214 @@
           "Ride defensively on Gran Via and keep crossings calm.",
           "The park is the best place for a longer break."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Rad durch das regnerische L'Hospitalet erfordert Vorsicht auf den glatten Wegen. Der Rathausplatz und Can Sumarro sind schnell erreicht, bieten aber wenig Schutz für das Rad. Mittags flüchten Sie ins Museum, während der Regen auf die Dächer trommelt. Die Fahrt zum Tecla Sala führt über nasse Boulevards, doch die Kunst entschädigt für die Mühe. Ein kurzer Sprint zum Can Boixeres Park und zur Fira beendet die nasse Tour.",
+            "hu": "Kerékpárral az esős L'Hospitaletben óvatosságot igényelnek a csúszós utak. A Városháza tér és Can Sumarro gyorsan elérhető, de kevés védelmet nyújtanak a bringának. Délben a múzeumba menekülhet, miközben az eső a tetőkön kopog. A Tecla Sala felé vezető út vizes sugárutakon visz, de a művészet kárpótol a fáradságért. Egy rövid sprint a Can Boixeres parkhoz és a Firához zárja a vizes túrát.",
+            "ro": "Cu bicicleta prin L'Hospitalet ploios necesită prudență pe drumurile alunecoase. Piața Primăriei și Can Sumarro sunt rapid accesibile, dar oferă puțin adăpost pentru bicicletă. La prânz, vă refugiați în muzeu în timp ce ploaia bate în acoperișuri. Drumul către Tecla Sala trece pe bulevarde umede, dar arta compensează efortul. Un sprint scurt către Parcul Can Boixeres și Fira încheie turul ud.",
+            "en": "Cycling through rainy L'Hospitalet requires caution on the slippery roads. The Town Hall Square and Can Sumarro are quickly reached but offer little shelter for your bike. At noon, take refuge in the museum while the rain drums on the roof. The ride to Tecla Sala takes you across wet boulevards, but the art compensates for the effort. A quick sprint to Can Boixeres Park and Fira concludes the wet tour."
+          },
+          "stops": [
+            {
+              "name": "Town Hall Square",
+              "tip_5lang": {
+                "de": "Vorsicht beim Bremsen auf dem nassen Kopfsteinpflaster.",
+                "hu": "Vigyázzon a fékezéssel a vizes macskakövön.",
+                "ro": "Atenție la frânare pe pavajul umed.",
+                "en": "Be careful when braking on the wet cobblestones."
+              }
+            },
+            {
+              "name": "Can Sumarro Manor",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad möglichst unter einem Vorsprung.",
+                "hu": "Parkolja le a biciklit lehetőleg egy kinyúló tető alá.",
+                "ro": "Parcați bicicleta sub o streașină dacă este posibil.",
+                "en": "Park your bike under an overhang if possible."
+              }
+            },
+            {
+              "name": "Santa Bellvitge Chapel",
+              "tip_5lang": {
+                "de": "Der Platz kann bei Regen sehr rutschig sein.",
+                "hu": "A tér esőben nagyon csúszós lehet.",
+                "ro": "Piața poate fi foarte alunecoasă pe ploaie.",
+                "en": "The square can be very slippery when wet."
+              }
+            },
+            {
+              "name": "L'Hospitalet Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch für eine Trocknungspause.",
+                "hu": "Használja a múzeumlátogatást egy szárítkozó szünetre.",
+                "ro": "Folosiți vizita la muzeu pentru o pauză de uscare.",
+                "en": "Use the museum visit for a drying break."
+              }
+            },
+            {
+              "name": "Tecla Sala Art Centre",
+              "tip_5lang": {
+                "de": "Sicherer Abstellplatz für Fahrräder in der Nähe vorhanden.",
+                "hu": "Biztonságos kerékpárparkoló található a közelben.",
+                "ro": "Există parcare sigură pentru biciclete în apropiere.",
+                "en": "Secure bike parking is available nearby."
+              }
+            },
+            {
+              "name": "Can Boixeres Park",
+              "tip_5lang": {
+                "de": "Vermeiden Sie unbefestigte Wege im Park bei Regen.",
+                "hu": "Esőben kerülje a nem aszfaltozott utakat a parkban.",
+                "ro": "Evitați potecile neasfaltate din parc pe ploaie.",
+                "en": "Avoid unpaved paths in the park when it's raining."
+              }
+            },
+            {
+              "name": "Fira Barcelona",
+              "tip_5lang": {
+                "de": "Große überdachte Flächen bieten Schutz beim Ankommen.",
+                "hu": "A nagy fedett területek védelmet nyújtanak érkezéskor.",
+                "ro": "Zonele mari acoperite oferă protecție la sosire.",
+                "en": "Large covered areas provide protection upon arrival."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine vollständige Regenmontur inklusive Überschuhen.",
+              "Vermeiden Sie Markierungen auf der Straße, diese sind extrem glatt.",
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt auf ihre Wirksamkeit bei Nässe.",
+              "Nutzen Sie die Radwege entlang der Gran Via für eine schnellere Fahrt.",
+              "Ein Schutzblech ist bei diesem Wetter Gold wert."
+            ],
+            "hu": [
+              "Viseljen teljes esőruházatot, beleértve a cipővédőt is.",
+              "Kerülje az útburkolati jeleket, mert azok rendkívül csúszósak.",
+              "Indulás előtt ellenőrizze a fékek hatékonyságát nedves úton.",
+              "Használja a Gran Via menti kerékpárutakat a gyorsabb haladáshoz.",
+              "A sárvédő aranyat ér ilyen időben."
+            ],
+            "ro": [
+              "Purtați echipament complet de ploaie, inclusiv protecții pentru încălțăminte.",
+              "Evitați marcajele rutiere, acestea sunt extrem de alunecoase.",
+              "Verificați eficiența frânelor pe carosabil umed înainte de plecare.",
+              "Folosiți pistele de biciclete de-a lungul Gran Via pentru o călătorie mai rapidă.",
+              "O apărătoare de noroi valorează aur pe o astfel de vreme."
+            ],
+            "en": [
+              "Wear full rain gear, including shoe covers.",
+              "Avoid road markings as they are extremely slippery when wet.",
+              "Check your brakes' effectiveness in wet conditions before starting.",
+              "Use the bike lanes along Gran Via for a faster journey.",
+              "A mudguard is worth its weight in gold in this weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine Wintertour mit dem Rad bietet klare Sicht und frische Luft in L'Hospitalet. Die Fahrt beginnt am belebten Rathausplatz und führt zum ruhigen Can Sumarro. Mittags genießen Sie die Sonne auf dem Radweg zur Santa Bellvitge. Der Nachmittag steht im Zeichen der Kultur im Museum und im Tecla Sala, bevor die Kälte des Abends einsetzt. Den Abschluss bildet die moderne Kulisse der Fira bei einsetzender Dunkelheit.",
+            "hu": "A téli biciklis túra tiszta kilátást és friss levegőt kínál L'Hospitaletben. A túra a nyüzsgő Városháza téren kezdődik, és a csendes Can Sumarróhoz vezet. Délben élvezze a napsütést a Santa Bellvitge felé vezető kerékpárúton. A délután a kultúra jegyében telik a múzeumban és a Tecla Salában, mielőtt beállna az esti hideg. A zárást a Fira modern díszlete adja a sötétség beálltakor.",
+            "ro": "Un tur de iarnă cu bicicleta oferă vizibilitate clară și aer proaspăt în L'Hospitalet. Călătoria începe în Piața Primăriei și continuă spre liniștitul Can Sumarro. La prânz, bucurați-vă de soare pe pista de biciclete spre Santa Bellvitge. După-amiaza este dedicată culturii la muzeu și la Tecla Sala, înainte de lăsarea frigului serii. Finalul este marcat de decorul modern de la Fira la lăsarea întunericului.",
+            "en": "A winter bike tour offers clear views and fresh air in L'Hospitalet. The ride starts at the lively Town Hall Square and leads to the quiet Can Sumarro. At noon, enjoy the sun on the bike path to Santa Bellvitge. The afternoon is dedicated to culture at the museum and Tecla Sala before the evening chill sets in. The conclusion is the modern setting of Fira as darkness falls."
+          },
+          "stops": [
+            {
+              "name": "Town Hall Square",
+              "tip_5lang": {
+                "de": "Tragen Sie warme Handschuhe gegen den kalten Fahrtwind.",
+                "hu": "Viseljen meleg kesztyűt a hideg menetszél ellen.",
+                "ro": "Purtați mănuși calde împotriva vântului rece din timpul mersului.",
+                "en": "Wear warm gloves against the cold wind while riding."
+              }
+            },
+            {
+              "name": "Can Sumarro Manor",
+              "tip_5lang": {
+                "de": "Kurze Aufwärmpause in der Bibliothek einlegen.",
+                "hu": "Tartson egy rövid melegedő szünetet a könyvtárban.",
+                "ro": "Faceți o scurtă pauză de încălzire în bibliotecă.",
+                "en": "Take a short warm-up break in the library."
+              }
+            },
+            {
+              "name": "Santa Bellvitge Chapel",
+              "tip_5lang": {
+                "de": "Die freie Fläche kann im Winter recht windig sein.",
+                "hu": "A nyílt terület télen meglehetősen szeles lehet.",
+                "ro": "Zona deschisă poate fi destul de vântoasă iarna.",
+                "en": "The open area can be quite windy in winter."
+              }
+            },
+            {
+              "name": "L'Hospitalet Museum",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad sicher auf dem Vorplatz ab.",
+                "hu": "Parkolja le biztonságosan a biciklit az előtéren.",
+                "ro": "Parcați bicicleta în siguranță în piața din față.",
+                "en": "Park your bike safely in the front square."
+              }
+            },
+            {
+              "name": "Tecla Sala Art Centre",
+              "tip_5lang": {
+                "de": "Ideal, um die kältesten Stunden des Nachmittags drinnen zu verbringen.",
+                "hu": "Ideális a délután leghidegebb óráit bent tölteni.",
+                "ro": "Ideal pentru a petrece cele mai reci ore ale după-amiezii în interior.",
+                "en": "Ideal for spending the coldest hours of the afternoon indoors."
+              }
+            },
+            {
+              "name": "Can Boixeres Park",
+              "tip_5lang": {
+                "de": "Achten Sie auf das frühe Ende des Tageslichts im Park.",
+                "hu": "Ügyeljen a nappali fény korai végére a parkban.",
+                "ro": "Atenție la sfârșitul timpuriu al luminii naturale în parc.",
+                "en": "Watch out for the early end of daylight in the park."
+              }
+            },
+            {
+              "name": "Fira Barcelona",
+              "tip_5lang": {
+                "de": "Die moderne Beleuchtung wirkt in der Winternacht besonders kühl.",
+                "hu": "A modern világítás a téli éjszakában különösen hűvös hatást kelt.",
+                "ro": "Iluminatul modern arată deosebit de rece în noaptea de iarnă.",
+                "en": "The modern lighting looks particularly cool in the winter night."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf funktionierende Beleuchtung für die frühe Dunkelheit.",
+              "Ein Windstopper unter der Jacke schützt vor Auskühlung.",
+              "Vermeiden Sie schattige Abschnitte, dort bleibt es deutlich kälter.",
+              "Warme Getränke in einer Thermoskanne sind ideal für Pausen.",
+              "Stellen Sie sicher, dass Ihr Reifenprofil auch bei Kälte guten Grip bietet."
+            ],
+            "hu": [
+              "Ügyeljen a működő világításra a korai sötétedés miatt.",
+              "A kabát alatti szélfogó réteg véd a lehűlés ellen.",
+              "Kerülje az árnyékos szakaszokat, ott lényegesen hidegebb marad az idő.",
+              "A termoszban lévő meleg italok ideálisak a szünetekhez.",
+              "Győződjön meg róla, hogy a gumiabroncs profilja hidegben is jó tapadást biztosít."
+            ],
+            "ro": [
+              "Asigurați-vă că aveți lumini funcționale pentru întunericul timpuriu.",
+              "Un strat rezistent la vânt sub jachetă protejează împotriva răcirii.",
+              "Evitați secțiunile umbrite, acolo rămâne considerabil mai frig.",
+              "Băuturile calde într-un termos sunt ideale pentru pauze.",
+              "Asigurați-vă că profilul anvelopelor oferă o aderență bună și la frig."
+            ],
+            "en": [
+              "Ensure you have working lights for the early darkness.",
+              "A windstopper under your jacket protects against chilling.",
+              "Avoid shaded sections, as they stay significantly colder.",
+              "Hot drinks in a thermos are ideal for breaks.",
+              "Make sure your tire tread provides good grip even in the cold."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1302,6 +1700,232 @@
           "Morning is gentler in the centre than late afternoon.",
           "Keep a 30-minute buffer for parking and exit time."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Im Auto lässt sich der Regen in L'Hospitalet bequem ignorieren. Vom Rathausplatz gleiten Sie trocken zum Can Sumarro. Die Fahrt zur Santa Bellvitge und zum markanten Hesperia Tower bietet Ausblicke auf die regennasse Architektur der Stadt. Mittags und nachmittags sind das Museum und Tecla Sala perfekte Ziele ohne nass zu werden. Der Tag endet sicher im modernen Viertel der Fira, geschützt vor dem unbeständigen Wetter.",
+            "hu": "Autóval kényelmesen figyelmen kívül hagyhatja az esőt L'Hospitaletben. A Városháza térről szárazon suhanhat a Can Sumarróhoz. A Santa Bellvitge és a jellegzetes Hesperia Tower felé vezető út kilátást nyújt a város esőáztatta építészetére. Délben és délután a múzeum és a Tecla Sala tökéletes úticélok anélkül, hogy elázna. A nap biztonságosan zárul a Fira modern negyedében, védve a változékony időjárástól.",
+            "ro": "Cu mașina, puteți ignora confortabil ploaia din L'Hospitalet. De la Piața Primăriei, mergeți la uscat către Can Sumarro. Drumul către Santa Bellvitge și turnul Hesperia oferă vederi asupra arhitecturii orașului udat de ploaie. La prânz și după-amiaza, muzeul și Tecla Sala sunt destinații perfecte fără a vă uda. Ziua se încheie în siguranță în cartierul modern Fira, protejat de vremea instabilă.",
+            "en": "By car, you can comfortably ignore the rain in L'Hospitalet. From the Town Hall Square, glide dryly to Can Sumarro. The drive to Santa Bellvitge and the striking Hesperia Tower offers views of the city's rain-soaked architecture. At noon and in the afternoon, the museum and Tecla Sala are perfect destinations without getting wet. The day ends safely in the modern Fira district, protected from the fickle weather."
+          },
+          "stops": [
+            {
+              "name": "Town Hall Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkhäuser in der Nähe, um trockenen Fußes ins Zentrum zu gelangen.",
+                "hu": "Használja a közeli parkolóházakat, hogy száraz lábbal jusson a központba.",
+                "ro": "Folosiți parcările etajate din apropiere pentru a ajunge în centru fără să vă udați.",
+                "en": "Use nearby parking garages to reach the center with dry feet."
+              }
+            },
+            {
+              "name": "Can Sumarro Manor",
+              "tip_5lang": {
+                "de": "Parkplätze sind in den engen Gassen rar, nutzen Sie offizielle Zonen.",
+                "hu": "A szűk utcákban ritka a parkolóhely, használja a kijelölt zónákat.",
+                "ro": "Locurile de parcare sunt rare în străzile înguste, folosiți zonele oficiale.",
+                "en": "Parking is scarce in narrow streets; use official parking zones."
+              }
+            },
+            {
+              "name": "Santa Bellvitge Chapel",
+              "tip_5lang": {
+                "de": "Gute Erreichbarkeit mit dem Auto, Parkmöglichkeiten direkt am Platz.",
+                "hu": "Autóval jól megközelíthető, parkolási lehetőség közvetlenül a téren.",
+                "ro": "Accesibilitate bună cu mașina, locuri de parcare chiar lângă piață.",
+                "en": "Good accessibility by car with parking available right at the square."
+              }
+            },
+            {
+              "name": "Hesperia Tower Hotel",
+              "tip_5lang": {
+                "de": "Das Hotel verfügt über eine große Tiefgarage – ideal bei Regen.",
+                "hu": "A szálloda nagy mélygarázzsal rendelkezik – ideális esőben.",
+                "ro": "Hotelul are un garaj subteran mare – ideal în caz de ploaie.",
+                "en": "The hotel has a large underground garage – ideal when it's raining."
+              }
+            },
+            {
+              "name": "L'Hospitalet Museum",
+              "tip_5lang": {
+                "de": "Vorsicht bei der Anfahrt durch schmale, nasse Einbahnstraßen.",
+                "hu": "Vigyázzon a megközelítéskor a szűk, vizes egyirányú utcákban.",
+                "ro": "Atenție la condusul prin străzile înguste și umede cu sens unic.",
+                "en": "Be careful when driving through narrow, wet one-way streets."
+              }
+            },
+            {
+              "name": "Tecla Sala Art Centre",
+              "tip_5lang": {
+                "de": "Parken Sie auf dem Gelände oder in der direkten Umgebung.",
+                "hu": "Parkoljon a területen vagy a közvetlen környezetben.",
+                "ro": "Parcați în incintă sau în imediata apropiere.",
+                "en": "Park on-site or in the immediate vicinity."
+              }
+            },
+            {
+              "name": "Can Boixeres Park",
+              "tip_5lang": {
+                "de": "Vom Parkplatz ist es nur ein kurzer Weg zu den überdachten Bereichen.",
+                "hu": "A parkolótól csak rövid út vezet a fedett részekhez.",
+                "ro": "De la parcare este doar un drum scurt până la zonele acoperite.",
+                "en": "It's only a short walk from the parking lot to the covered areas."
+              }
+            },
+            {
+              "name": "Fira Barcelona",
+              "tip_5lang": {
+                "de": "Perfekt erschlossen, viele Parkhäuser direkt unter den Hallen.",
+                "hu": "Tökéletesen megközelíthető, sok parkolóház közvetlenül a csarnokok alatt.",
+                "ro": "Acces perfect, multe parcări chiar sub hale.",
+                "en": "Perfectly accessible with many parking garages right under the halls."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Rechnen Sie mit mehr Verkehr auf der Gran Via bei Regen.",
+              "Nutzen Sie die Tiefgaragen der Einkaufszentren als strategische Parkpunkte.",
+              "Vermeiden Sie das Parken in tiefliegenden Zonen bei Starkregen.",
+              "Prüfen Sie Ihre Scheibenwischer auf volle Funktionsfähigkeit.",
+              "Die Sicht kann durch beschlagene Scheiben eingeschränkt sein."
+            ],
+            "hu": [
+              "Számoljon nagyobb forgalommal a Gran Vián esőben.",
+              "Használja a bevásárlóközpontok mélygarázsait stratégiai parkolópontként.",
+              "Heves esőzéskor kerülje a mélyebben fekvő területeken való parkolást.",
+              "Ellenőrizze az ablaktörlők tökéletes működését.",
+              "A párásodó szélvédők miatt a kilátás korlátozott lehet."
+            ],
+            "ro": [
+              "Anticipați un trafic mai intens pe Gran Via când plouă.",
+              "Folosiți parcările subterane ale centrelor comerciale ca puncte strategice.",
+              "Evitați parcarea în zonele joase în timpul ploilor torențiale.",
+              "Verificați funcționarea completă a ștergătoarelor de parbriz.",
+              "Vizibilitatea poate fi limitată de geamurile aburite."
+            ],
+            "en": [
+              "Expect more traffic on Gran Via when it rains.",
+              "Use shopping mall underground garages as strategic parking points.",
+              "Avoid parking in low-lying zones during heavy rain.",
+              "Check your windshield wipers for full functionality.",
+              "Visibility can be limited by fogged-up windows."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter ist das Auto das ideale Mittel, um die verschiedenen Viertel von L'Hospitalet ohne Frieren zu erkunden. Die Tour führt vom Rathausplatz durch das historische Herz zum modernen Hesperia Tower. Während es draußen kühl ist, genießen Sie die Fahrt zwischen den Museen und dem Tecla Sala. Am späten Nachmittag erreichen Sie den Can Boixeres Park und schließlich die Fira, wo die winterliche Beleuchtung der Stadt besonders gut zur Geltung kommt.",
+            "hu": "Télen az autó ideális eszköz L'Hospitalet különböző negyedeinek felfedezéséhez fagyoskodás nélkül. A túra a Városháza térről indul a történelmi szíven át a modern Hesperia Towerig. Miközben kint hűvös az idő, élvezze az utazást a múzeumok és a Tecla Sala között. Késő délután éri el a Can Boixeres parkot, végül a Firát, ahol a város téli kivilágítása különösen jól érvényesül.",
+            "ro": "Iarna, mașina este mijlocul ideal pentru a explora diversele cartiere din L'Hospitalet fără a dârdâi de frig. Turul duce de la Piața Primăriei prin inima istorică până la turnul modern Hesperia. În timp ce afară este răcoare, bucurați-vă de drumul între muzee și Tecla Sala. După-amiaza târziu ajungeți la Parcul Can Boixeres și, în final, la Fira, unde iluminatul hibernal al orașului este pus în valoare.",
+            "en": "In winter, the car is the ideal way to explore the different neighborhoods of L'Hospitalet without freezing. The tour goes from Town Hall Square through the historic heart to the modern Hesperia Tower. While it's cool outside, enjoy the drive between the museums and Tecla Sala. In the late afternoon, you reach Can Boixeres Park and finally Fira, where the city's winter lighting is particularly effective."
+          },
+          "stops": [
+            {
+              "name": "Town Hall Square",
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor nicht unnötig laufen, um die Scheiben zu enteisen.",
+                "hu": "Ne járassa feleslegesen a motort a szélvédő jégtelenítéséhez.",
+                "ro": "Nu lăsați motorul pornit inutil pentru a dezgheța parbrizul.",
+                "en": "Don't leave the engine running unnecessarily to defrost the windows."
+              }
+            },
+            {
+              "name": "Can Sumarro Manor",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Sitzheizung nach dem kurzen Spaziergang zum Anwesen.",
+                "hu": "Használja az ülésfűtést az udvarházhoz tett rövid séta után.",
+                "ro": "Folosiți încălzirea în scaune după scurta plimbare până la conac.",
+                "en": "Use the seat heating after the short walk to the manor."
+              }
+            },
+            {
+              "name": "Santa Bellvitge Chapel",
+              "tip_5lang": {
+                "de": "Kurzer Stopp möglich, da Parkplätze oft direkt davor frei sind.",
+                "hu": "Rövid megálló lehetséges, mert gyakran van szabad hely közvetlenül előtte.",
+                "ro": "Oprire scurtă posibilă, locurile de parcare sunt adesea libere chiar în față.",
+                "en": "Short stop possible as parking spaces are often available right in front."
+              }
+            },
+            {
+              "name": "Hesperia Tower Hotel",
+              "tip_5lang": {
+                "de": "Die Architektur glänzt besonders schön im tiefen Winterlicht.",
+                "hu": "Az építészet különösen szépen ragyog az alacsony téli fényben.",
+                "ro": "Arhitectura strălucește deosebit de frumos în lumina joasă de iarnă.",
+                "en": "The architecture shines particularly beautifully in the low winter light."
+              }
+            },
+            {
+              "name": "L'Hospitalet Museum",
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Abstellen des Wagens in dunklen Ecken am Abend.",
+                "hu": "Kerülje az autó leállítását sötét sarkokban az esti órákban.",
+                "ro": "Evitați oprirea mașinii în colțuri întunecate seara.",
+                "en": "Avoid parking the car in dark corners in the evening."
+              }
+            },
+            {
+              "name": "Tecla Sala Art Centre",
+              "tip_5lang": {
+                "de": "Die Cafés in der Nähe sind im Winter ideale Aufwärmstationen.",
+                "hu": "A közeli kávézók télen ideális melegedőhelyek.",
+                "ro": "Cafenelele din apropiere sunt stații ideale de încălzire iarna.",
+                "en": "Nearby cafes are ideal warm-up stations in winter."
+              }
+            },
+            {
+              "name": "Can Boixeres Park",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Ausgang, wenn Sie erst nach Sonnenuntergang zurückkehren.",
+                "hu": "Parkoljon a kijárathoz közel, ha csak naplemente után térne vissza.",
+                "ro": "Parcați aproape de ieșire dacă vă întoarceți după apusul soarelui.",
+                "en": "Park near the exit if you're returning after sunset."
+              }
+            },
+            {
+              "name": "Fira Barcelona",
+              "tip_5lang": {
+                "de": "Die weite Fläche kann im Winter abends sehr zugig sein.",
+                "hu": "A tágas terület télen este nagyon huzatos lehet.",
+                "ro": "Zona vastă poate fi foarte expusă vântului seara, iarna.",
+                "en": "The wide area can be very drafty in the winter evening."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Reifendruck, da dieser bei Kälte sinken kann.",
+              "Nutzen Sie die Tiefgaragen, um ein Auskühlen des Wagens zu vermeiden.",
+              "Fahren Sie vorausschauend, da Schattenbereiche länger feucht bleiben.",
+              "Haben Sie immer einen Eiskratzer griffbereit, auch in Katalonien.",
+              "Die Batterieleistung kann bei niedrigen Temperaturen nachlassen."
+            ],
+            "hu": [
+              "Ellenőrizze a guminyomást, mert az hidegben csökkenhet.",
+              "Használja a mélygarázsokat, hogy elkerülje az autó lehűlését.",
+              "Vezessen előrelátóan, mert az árnyékos részek tovább nedvesek maradnak.",
+              "Mindig legyen kéznél jégkaparó, még Katalóniában is.",
+              "Az akkumulátor teljesítménye alacsony hőmérsékleten csökkenhet."
+            ],
+            "ro": [
+              "Verificați presiunea anvelopelor, deoarece aceasta poate scădea la frig.",
+              "Folosiți parcările subterane pentru a evita răcirea mașinii.",
+              "Conduceți preventiv, deoarece zonele umbrite rămân umede mai mult timp.",
+              "Aveți întotdeauna o racletă la îndemână, chiar și în Catalonia.",
+              "Performanța bateriei poate scădea la temperaturi scăzute."
+            ],
+            "en": [
+              "Check tire pressure as it can drop in the cold.",
+              "Use underground garages to prevent the car from cooling down.",
+              "Drive defensively as shaded areas remain damp longer.",
+              "Always have an ice scraper handy, even in Catalonia.",
+              "Battery performance can decrease at low temperatures."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1758,6 +2382,232 @@
           "Between stops, the walking links are short enough.",
           "Leave a little evening buffer in case buses are crowded."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit Bus und Metro lässt sich L'Hospitalet auch bei Regen hervorragend erkunden. Die Wege zwischen den Stationen und Zielen wie dem Rathausplatz oder Can Sumarro sind kurz. Mittags bringt Sie die Metro trocken zur Santa Bellvitge und zum Hesperia Tower. Der Nachmittag im Museum und im Tecla Sala ist durch die gute Anbindung wetterunabhängig. Den Abend lassen Sie gemütlich in der Fira ausklingen, stets in Reichweite einer trockenen Metrostation.",
+            "hu": "Busszal és metróval L'Hospitalet esőben is kiválóan felfedezhető. Az állomások és az olyan úticélok közötti távolság, mint a Városháza tér vagy Can Sumarro, rövid. Délben a metró szárazon viszi a Santa Bellvitgéhez és a Hesperia Towerhez. A múzeumban és a Tecla Salában töltött délután a jó összeköttetésnek köszönhetően időjárásfüggetlen. Az estét kényelmesen zárhatja a Firánál, mindig egy száraz metróállomás közelében.",
+            "ro": "Cu autobuzul și metroul, L'Hospitalet poate fi explorat excelent chiar și pe ploaie. Distanțele între stații și obiective precum Piața Primăriei sau Can Sumarro sunt scurte. La prânz, metroul vă duce la uscat la Santa Bellvitge și turnul Hesperia. După-amiaza la muzeu și Tecla Sala este independentă de vreme datorită conexiunilor bune. Încheiați seara confortabil la Fira, mereu aproape de o stație de metrou uscată.",
+            "en": "By bus and metro, L'Hospitalet can be explored excellently even in the rain. The paths between stations and destinations like Town Hall Square or Can Sumarro are short. At noon, the metro takes you dryly to Santa Bellvitge and the Hesperia Tower. The afternoon at the museum and Tecla Sala is weather-independent thanks to the good connections. End the evening comfortably at Fira, always within reach of a dry metro station."
+          },
+          "stops": [
+            {
+              "name": "Town Hall Square",
+              "tip_5lang": {
+                "de": "Mehrere Buslinien halten direkt am Platz – wenig Fußweg im Regen.",
+                "hu": "Több buszjárat megáll közvetlenül a téren – kevés gyaloglás az esőben.",
+                "ro": "Mai multe linii de autobuz opresc direct în piață – puțin de mers pe jos prin ploaie.",
+                "en": "Several bus lines stop right at the square – minimal walking in the rain."
+              }
+            },
+            {
+              "name": "Can Sumarro Manor",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg von der Metrostation Just Oliveras.",
+                "hu": "Rövid séta a Just Oliveras metróállomástól.",
+                "ro": "Drum scurt de mers pe jos de la stația de metrou Just Oliveras.",
+                "en": "Short walk from Just Oliveras metro station."
+              }
+            },
+            {
+              "name": "Santa Bellvitge Chapel",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Metro L1 für eine schnelle, trockene Anreise.",
+                "hu": "Használja az L1-es metrót a gyors és száraz érkezéshez.",
+                "ro": "Folosiți metroul L1 pentru o sosire rapidă și uscată.",
+                "en": "Use metro L1 for a quick, dry arrival."
+              }
+            },
+            {
+              "name": "Hesperia Tower Hotel",
+              "tip_5lang": {
+                "de": "Direkt an der Metrostation Hospital de Bellvitge gelegen.",
+                "hu": "Közvetlenül a Hospital de Bellvitge metróállomásnál található.",
+                "ro": "Situat chiar lângă stația de metrou Hospital de Bellvitge.",
+                "en": "Located right next to the Hospital de Bellvitge metro station."
+              }
+            },
+            {
+              "name": "L'Hospitalet Museum",
+              "tip_5lang": {
+                "de": "Gut erreichbar mit verschiedenen Buslinien aus dem Zentrum.",
+                "hu": "Jól megközelíthető különböző buszjáratokkal a központból.",
+                "ro": "Ușor accesibil cu diverse linii de autobuz din centru.",
+                "en": "Easily accessible with various bus lines from the center."
+              }
+            },
+            {
+              "name": "Tecla Sala Art Centre",
+              "tip_5lang": {
+                "de": "Nur wenige Minuten Fußweg von der Metro Torrassa entfernt.",
+                "hu": "Csak néhány perc séta a Torrassa metróállomástól.",
+                "ro": "La doar câteva minute de mers pe jos de metroul Torrassa.",
+                "en": "Only a few minutes' walk from Torrassa metro station."
+              }
+            },
+            {
+              "name": "Can Boixeres Park",
+              "tip_5lang": {
+                "de": "Die Metrostation gleichen Namens liegt direkt am Parkeingang.",
+                "hu": "Az azonos nevű metróállomás közvetlenül a park bejáratánál van.",
+                "ro": "Stația de metrou cu același nume se află chiar la intrarea în parc.",
+                "en": "The metro station of the same name is right at the park entrance."
+              }
+            },
+            {
+              "name": "Fira Barcelona",
+              "tip_5lang": {
+                "de": "Hervorragende Anbindung an die Metro L9 und L10.",
+                "hu": "Kiváló összeköttetés az L9-es és L10-es metróvonalakkal.",
+                "ro": "Conexiune excelentă cu metroul L9 și L10.",
+                "en": "Excellent connection to metro lines L9 and L10."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die T-Mobilitat Karte für nahtlose Übergänge zwischen Bus und Bahn.",
+              "Die Metrostationen bieten oft Schutz während plötzlicher Schauer.",
+              "Achten Sie auf rutschige Böden in den Metro-Eingängen.",
+              "Busse können bei starkem Regen unpünktlicher sein.",
+              "Die Metro L1 verbindet fast alle wichtigen Punkte dieser Tour."
+            ],
+            "hu": [
+              "Használja a T-Mobilitat kártyát a busz és vonat közötti zökkenőmentes váltáshoz.",
+              "A metróállomások gyakran védelmet nyújtanak hirtelen záporok idején.",
+              "Ügyeljen a csúszós padlóra a metróbejáratoknál.",
+              "Heves esőzéskor a buszok kevésbé lehetnek pontosak.",
+              "Az L1-es metró a túra szinte összes fontos pontját összeköti."
+            ],
+            "ro": [
+              "Folosiți cardul T-Mobilitat pentru transferuri facile între autobuz și tren.",
+              "Stațiile de metrou oferă adesea adăpost în timpul averselor bruște.",
+              "Atenție la podelele alunecoase de la intrările în metrou.",
+              "Autobuzele pot fi mai puțin punctuale în timpul ploilor abundente.",
+              "Metroul L1 conectează aproape toate punctele importante ale acestui tur."
+            ],
+            "en": [
+              "Use the T-Mobilitat card for seamless transitions between bus and train.",
+              "Metro stations often provide shelter during sudden showers.",
+              "Watch out for slippery floors in metro entrances.",
+              "Buses may be less punctual during heavy rain.",
+              "Metro L1 connects almost all important points of this tour."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Öffentliche Verkehrsmittel sind im Winter die wärmste Option für L'Hospitalet. Die Tour beginnt am Rathausplatz, gut angebunden durch Busse. Die Fahrt zur Santa Bellvitge und zum Hesperia Tower in der beheizten Metro ist angenehm. Nachmittags besuchen Sie das Museum und Tecla Sala, wobei die kurzen Wege zur Metro die Kälte draußen halten. Die moderne Fira ist am Abend ein leuchtender Abschluss, bevor Sie bequem mit der Bahn zurückkehren.",
+            "hu": "A tömegközlekedés télen a legmelegebb opció L'Hospitaletben. A túra a Városháza téren kezdődik, amely buszokkal jól megközelíthető. A fűtött metróval tett utazás a Santa Bellvitgéhez és a Hesperia Towerhez kellemes. Délután látogassa meg a múzeumot és a Tecla Salát, a metróhoz vezető rövid utak pedig kint tartják a hideget. A modern Fira este ragyogó zárás, mielőtt kényelmesen visszatérne a vonattal.",
+            "ro": "Transportul public este cea mai călduroasă opțiune pentru L'Hospitalet iarna. Turul începe în Piața Primăriei, bine deservită de autobuze. Călătoria cu metroul încălzit către Santa Bellvitge și turnul Hesperia este plăcută. După-amiaza, vizitați muzeul și Tecla Sala, distanțele scurte până la metrou ținând frigul la distanță. Fira modernă este un final strălucitor seara, înainte de a vă întoarce confortabil cu trenul.",
+            "en": "Public transport is the warmest option for L'Hospitalet in winter. The tour begins at Town Hall Square, well connected by buses. The ride to Santa Bellvitge and the Hesperia Tower in the heated metro is pleasant. In the afternoon, visit the museum and Tecla Sala, with the short paths to the metro keeping the cold out. The modern Fira is a glowing conclusion in the evening before you return comfortably by train."
+          },
+          "stops": [
+            {
+              "name": "Town Hall Square",
+              "tip_5lang": {
+                "de": "Die Wartezeiten an den Bushaltestellen sind im Winter meist kurz.",
+                "hu": "A várakozási idő a buszmegállókban télen többnyire rövid.",
+                "ro": "Timpii de așteptare în stațiile de autobuz sunt de obicei scurți iarna.",
+                "en": "Waiting times at bus stops are usually short in winter."
+              }
+            },
+            {
+              "name": "Can Sumarro Manor",
+              "tip_5lang": {
+                "de": "Nutzen Sie den kurzen Weg zur Metrostation, um nicht auszukühlen.",
+                "hu": "Használja a metróállomáshoz vezető rövid utat, hogy ne hűljön le.",
+                "ro": "Folosiți drumul scurt către stația de metrou pentru a nu vă răci.",
+                "en": "Use the short path to the metro station to avoid getting cold."
+              }
+            },
+            {
+              "name": "Santa Bellvitge Chapel",
+              "tip_5lang": {
+                "de": "Die Metrostation Bellvitge ist unterirdisch und bietet Schutz vor Wind.",
+                "hu": "A Bellvitge metróállomás föld alatti, védelmet nyújt a szél ellen.",
+                "ro": "Stația de metrou Bellvitge este subterană și oferă protecție împotriva vântului.",
+                "en": "Bellvitge metro station is underground and provides shelter from the wind."
+              }
+            },
+            {
+              "name": "Hesperia Tower Hotel",
+              "tip_5lang": {
+                "de": "Ein moderner Transitknotenpunkt mit guten Umsteigemöglichkeiten.",
+                "hu": "Modern közlekedési csomópont jó átszállási lehetőségekkel.",
+                "ro": "Un nod de tranzit modern cu bune posibilități de transfer.",
+                "en": "A modern transit hub with good transfer options."
+              }
+            },
+            {
+              "name": "L'Hospitalet Museum",
+              "tip_5lang": {
+                "de": "Buslinien verbinden das Museum direkt mit anderen warmen Orten.",
+                "hu": "Buszjáratok kötik össze a múzeumot közvetlenül más meleg helyekkel.",
+                "ro": "Liniile de autobuz conectează muzeul direct cu alte locuri calde.",
+                "en": "Bus lines connect the museum directly with other warm locations."
+              }
+            },
+            {
+              "name": "Tecla Sala Art Centre",
+              "tip_5lang": {
+                "de": "Die Metrostation Torrassa ist ein wichtiger Umsteigepunkt.",
+                "hu": "A Torrassa metróállomás fontos átszállási pont.",
+                "ro": "Stația de metrou Torrassa este un punct important de transfer.",
+                "en": "Torrassa metro station is an important transfer point."
+              }
+            },
+            {
+              "name": "Can Boixeres Park",
+              "tip_5lang": {
+                "de": "Abends sind die Metrostationen am Park gut beleuchtet.",
+                "hu": "Este a parknál lévő metróállomások jól megvilágítottak.",
+                "ro": "Seara, stațiile de metrou de lângă parc sunt bine iluminate.",
+                "en": "In the evening, the metro stations near the park are well lit."
+              }
+            },
+            {
+              "name": "Fira Barcelona",
+              "tip_5lang": {
+                "de": "Die Station Europa Fira bietet schnellen Zugang zu den Zügen der FGC.",
+                "hu": "Az Europa Fira állomás gyors hozzáférést biztosít az FGC vonatokhoz.",
+                "ro": "Stația Europa Fira oferă acces rapid la trenurile FGC.",
+                "en": "Europa Fira station provides quick access to FGC trains."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Metrostationen sind im Winter deutlich wärmer als Bushaltestellen.",
+              "Nutzen Sie die App der TMB für Echtzeit-Abfahrtszeiten.",
+              "In der Metro kann es durch die Heizung recht warm werden.",
+              "Vermeiden Sie die Rushhour, um bequemere Sitzplätze zu bekommen.",
+              "Die Nachtbusse (NitBus) bringen Sie auch spät sicher nach Hause."
+            ],
+            "hu": [
+              "A metróállomások télen lényegesen melegebbek, mint a buszmegállók.",
+              "Használja a TMB alkalmazást a valós idejű indulási időkhöz.",
+              "A metróban a fűtés miatt elég meleg lehet.",
+              "Kerülje a csúcsforgalmat, hogy kényelmesebb ülőhelyet kapjon.",
+              "Az éjszakai buszok (NitBus) későn is biztonságban hazaviszik."
+            ],
+            "ro": [
+              "Stațiile de metrou sunt considerabil mai calde iarna decât stațiile de autobuz.",
+              "Folosiți aplicația TMB pentru orele de plecare în timp real.",
+              "În metrou poate fi destul de cald din cauza încălzirii.",
+              "Evitați orele de vârf pentru a găsi locuri pe scaun mai confortabile.",
+              "Autobuzele de noapte (NitBus) vă duc în siguranță acasă chiar și târziu."
+            ],
+            "en": [
+              "Metro stations are significantly warmer in winter than bus stops.",
+              "Use the TMB app for real-time departure times.",
+              "It can get quite warm inside the metro due to the heating.",
+              "Avoid rush hour to get more comfortable seating.",
+              "Night buses (NitBus) will take you home safely even late at night."
+            ]
+          }
+        }
       }
     }
   }

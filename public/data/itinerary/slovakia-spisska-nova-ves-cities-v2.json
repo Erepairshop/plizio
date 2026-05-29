@@ -324,6 +324,206 @@
           "Climbing the tower of the Church of the Assumption is a must for the best view, but be prepared for many steps.",
           "Most sights are located on or right next to the main square, making navigation very easy."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie am regnerischen Marktplatz, wo die Pfützen die barocken Fassaden spiegeln. Vormittags bieten das Rathaus und das Provinzialhaus trockenen Unterschlupf und tiefe Einblicke in die Geschichte der Zips.\n\nMittags genießen Sie die lokale Küche in einem der gemütlichen Restaurants am Platz, während der Regen gegen die Fenster prasselt. Danach wartet die Redoute mit ihrer prachtvollen Architektur.\n\nDer Nachmittag gehört der Kunst in der Galerie der Zipser Künstler, ein perfekter Ort, um dem Wetter zu entkommen. Bewundern Sie die Ausstellungen in den historischen Räumen.\n\nAbends besuchen Sie die Marienkirche. Das sanfte Licht und das Trommeln des Regens auf dem Dach schaffen eine mystische Atmosphäre im höchsten Kirchturm der Slowakei.",
+            "hu": "Kezdje a napot az esőáztatta lencse alakú főtéren, ahol a tócsákban tükröződnek a történelmi házak. A Városháza és a Tartományi Ház árkádjai és múzeuma védelmet nyújtanak az égi áldás elől.\n\nEbédidőben keressen egy meghitt éttermet a téren, ahol megkóstolhatja a környék specialitásait. A Reduta díszes épülete mellett elhaladva folytassa útját.\n\nDélután a Szepesi Művészek Galériája kínál menedéket és kulturális feltöltődést. A vastag falak között elfelejtheti a kinti szürkeséget.\n\nEste a Nagyboldogasszony-templom belső csendje várja. Bár a toronyba ilyenkor kevésbé érdemes felmenni, a templombelső látványa és nyugalma tökéletes zárása a napnak.",
+            "ro": "Începeți ziua în piața în formă de lentilă, unde reflexiile clădirilor în apă creează un decor dramatic. Primăria și Casa Provincială oferă adăpost excelent pentru a explora istoria regiunii Spiš pe timp de ploaie.\n\nLa prânz, relaxați-vă într-un restaurant local, savurând o supă caldă în timp ce privești ploaia prin vitrine. Admirați arhitectura Redoutei în drum spre următoarea oprire.\n\nDupă-amiaza este dedicată Galeriei Artiștilor din Spiš, un spațiu interior generos unde arta locală vă va face să uitați de vremea mohorâtă de afară.\n\nSeara, vizitați Biserica Adormirea Maicii Domnului. Atmosfera solemnă și sunetul ploii pe vitralii oferă o experiență introspectivă deosebită în centrul orașului.",
+            "en": "Start your rainy morning at the lens-shaped square, where wet cobblestones reflect the colorful facades. The Town Hall and Provincial House provide perfect indoor sanctuaries to explore local history.\n\nAt midday, enjoy a slow lunch in a cozy cellar restaurant, watching the rain wash the historic center. Pass the Redoute building, which looks majestic even under grey skies.\n\nSpend the afternoon at the Gallery of Spiš Artists. The extensive indoor collections offer a dry and inspiring environment to appreciate regional creativity.\n\nIn the evening, seek peace in the Church of the Assumption. The rhythmic sound of rain against the high gothic windows enhances the spiritual atmosphere of this historic landmark."
+          },
+          "stops": [
+            {
+              "name": "Lens-shaped Market Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkadengänge der Häuser als Regenschutz.",
+                "hu": "Használja a polgárházak árkádjait esernyő helyett.",
+                "ro": "Folosiți arcadele caselor vechi pentru a rămâne uscat.",
+                "en": "Use the building arcades to shield yourself from the rain."
+              }
+            },
+            {
+              "name": "Town Hall and Provincial House",
+              "tip_5lang": {
+                "de": "Das Spiš-Museum im Inneren ist der ideale Ort bei Regen.",
+                "hu": "A Szepesi Múzeum kiállítása remek benti program esőben.",
+                "ro": "Muzeul Spiš din interior este refugiul ideal pe ploaie.",
+                "en": "The Spiš Museum inside is the perfect indoor activity."
+              }
+            },
+            {
+              "name": "Redoute",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Stuckarbeiten im trockenen Foyer.",
+                "hu": "Csodálja meg a stukkókat a száraz előcsarnokban.",
+                "ro": "Admirați decorațiunile din holul interior uscat.",
+                "en": "Admire the stucco work in the dry foyer area."
+              }
+            },
+            {
+              "name": "Church of the Assumption of the Virgin Mary",
+              "tip_5lang": {
+                "de": "Vorsicht bei den Stufen zum Turm, sie können feucht sein.",
+                "hu": "Vigyázat, a toronyba vezető lépcsők nedvesek lehetnek.",
+                "ro": "Atenție la treptele turnului, pot fi umede și alunecoase.",
+                "en": "Caution on the tower steps, they may be damp and slippery."
+              }
+            },
+            {
+              "name": "Gallery of Spiš Artists",
+              "tip_5lang": {
+                "de": "Planen Sie hier mehr Zeit ein, um den Schauer abzuwarten.",
+                "hu": "Töltsön itt több időt, amíg eláll az eső.",
+                "ro": "Rezervați-vă mai mult timp aici pentru a trece ploaia.",
+                "en": "Plan extra time here to wait out the heavy rain."
+              }
+            },
+            {
+              "name": "Evangelical Church",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort für Besinnung während eines Gewitters.",
+                "hu": "Csendes hely az elmélkedésre egy zivatar alatt.",
+                "ro": "Un loc liniștit pentru reflecție în timpul furtunii.",
+                "en": "A quiet place for reflection during a rainstorm."
+              }
+            },
+            {
+              "name": "Lunch in the Center",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit Garderobe für nasse Mäntel.",
+                "hu": "Válasszon olyan helyet, ahol van ruhatár a vizes kabátnak.",
+                "ro": "Alegeți un restaurant cu garderobă pentru haine ude.",
+                "en": "Choose a restaurant with a cloakroom for wet coats."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da sich auf dem Kopfsteinpflaster Pfützen bilden.",
+              "Die Museen in SNV haben montags oft geschlossen, prüfen Sie die Zeiten.",
+              "Ein Taschenschirm ist bei den kurzen Wegen zwischen den Gebäuden sehr praktisch.",
+              "Nutzen Sie die Kaffeepausen, um Ihre Kleidung zu trocknen."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert a macskakövön megáll a víz.",
+              "A múzeumok hétfőn zárva tarthatnak, ellenőrizze előre.",
+              "Az épületek közötti rövid távok miatt egy kisméretű esernyő is elég.",
+              "Használja ki a kávézókat a ruházat megszárítására."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru pavajul cu piatră cubică.",
+              "Muzeele pot fi închise lunea, verificați programul înainte.",
+              "O umbrelă compactă este suficientă pentru distanțele scurte.",
+              "Folosiți pauzele la cafea pentru a vă usca hainele ude."
+            ],
+            "en": [
+              "Wear waterproof shoes as water pools on the uneven cobblestones.",
+              "Museums are often closed on Mondays, so double-check the schedule.",
+              "A small umbrella is enough for the short distances between sights.",
+              "Use cafe stops as an opportunity to dry off your gear."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie den winterlichen Morgen auf dem weitläufigen Platz, wenn der Frost die Statuen ziert. Die kühle Luft belebt den Geist beim Spaziergang zwischen den historischen Monumenten des Zentrums.\n\nMittags lockt die Wärme des Rathauses und der Museen. Die dicken Mauern speichern die Kälte, doch die Ausstellungen lassen Sie die winterliche Brise draußen schnell vergessen.\n\nAm Nachmittag taucht die früh untergehende Sonne die Stadt in ein goldenes Licht. Die Galerie der Zipser Künstler bietet eine behagliche Atmosphäre für Kunstliebhaber.\n\nDer Abend endet mit einem Blick auf den beleuchteten höchsten Kirchturm. Die klare Winterluft sorgt für eine fantastische Sicht auf das weihnachtlich dekorierte Zentrum von Spišská Nová Ves.",
+            "hu": "Élvezze a téri reggelt, amikor a zúzmara díszíti a szobrokat és a lencse alakú főteret. A friss, csípős levegő segít felébredni a történelmi épületek közötti séta közben.\n\nEbédidőben a Városháza és a múzeumok meleg belső terei nyújtanak menedéket. A Tartományi Ház kiállításai között barangolva felmelegedhet a délutáni program előtt.\n\nDélután a korán nyugvó nap fényeiben tündököl a Reduta. A Szepesi Művészek Galériája ilyenkor a legmeghittebb, tökéletes hely a téli hideg elől.\n\nAz este a kivilágított főtér látványával zárul. A templomtorony büszkén magasodik a város fölé, miközben a környékbeli kávézók forró italaikkal csábítanak.",
+            "ro": "Experimentați o dimineață de iarnă autentică în piața centrală, când chiciura îmbracă statuile. Aerul rece și curat vă va însoți în explorarea monumentelor istorice din inima orașului.\n\nLa prânz, căutați căldura Primăriei și a muzeelor locale. Expozițiile din Casa Provincială sunt refugiul perfect pentru a vă încălzi în timp ce învățați despre trecutul regiunii.\n\nDupă-amiaza, lumina aurie a apusului timpuriu scaldă clădirea Redoutei. Galeria Artiștilor din Spiš oferă o atmosferă primitoare și caldă înainte de lăsarea serii.\n\nSeara se încheie cu admirarea turnului bisericii iluminat sub cerul înstelat de iarnă. Atmosfera de sărbătoare din centru transformă plimbarea într-o amintire de poveste.",
+            "en": "Experience a crisp winter morning on the expansive square, with frost decorating the statues. The cold air is refreshing as you walk between the town's historic monuments.\n\nAt midday, retreat to the warmth of the Town Hall and local museums. The exhibitions inside the Provincial House are a great way to stay warm while learning about Spiš history.\n\nIn the afternoon, the early sunset casts long shadows over the Redoute building. The Gallery of Spiš Artists provides a cozy indoor escape from the winter chill.\n\nThe evening ends with a view of the illuminated church tower against the dark sky. The festive lights of the square create a magical winter atmosphere in the heart of the city."
+          },
+          "stops": [
+            {
+              "name": "Lens-shaped Market Square",
+              "tip_5lang": {
+                "de": "Vorsicht vor glatten Stellen auf dem gefrorenen Stein.",
+                "hu": "Vigyázzon a jeges foltokra a macskaköves burkolaton.",
+                "ro": "Atenție la porțiunile cu gheață de pe pavaj.",
+                "en": "Watch out for icy patches on the stone pavement."
+              }
+            },
+            {
+              "name": "Town Hall and Provincial House",
+              "tip_5lang": {
+                "de": "Die Innentemperatur ist angenehm zum Aufwärmen.",
+                "hu": "A belső hőmérséklet kellemes a felmelegedéshez.",
+                "ro": "Temperatura interioară este optimă pentru încălzire.",
+                "en": "The indoor temperature is perfect for warming up."
+              }
+            },
+            {
+              "name": "Redoute",
+              "tip_5lang": {
+                "de": "Abends oft festlich beleuchtet, ein tolles Fotomotiv.",
+                "hu": "Este gyakran ünnepi kivilágítást kap, remek fotótéma.",
+                "ro": "Iluminată festiv seara, este un loc ideal pentru fotografii.",
+                "en": "Often festively lit in the evening, great for photos."
+              }
+            },
+            {
+              "name": "Church of the Assumption of the Virgin Mary",
+              "tip_5lang": {
+                "de": "Der Turmaufstieg ist im Winter windig, kleiden Sie sich warm.",
+                "hu": "A toronymászás télen szeles, öltözzön fel melegen.",
+                "ro": "Urcarea în turn este vântoasă iarna, îmbrăcați-vă bine.",
+                "en": "The tower climb is windy in winter, dress warmly."
+              }
+            },
+            {
+              "name": "Gallery of Spiš Artists",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um den frühen Sonnenuntergang zu erleben.",
+                "hu": "Csendes hely, ahol megvárhatja a korai naplementét.",
+                "ro": "Un loc liniștit unde puteți aștepta apusul timpuriu.",
+                "en": "A quiet place to spend time during the early sunset."
+              }
+            },
+            {
+              "name": "Evangelical Church",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Winteröffnungszeiten für Besichtigungen.",
+                "hu": "Ellenőrizze a téli nyitvatartást a látogatáshoz.",
+                "ro": "Verificați programul de iarnă pentru vizitare.",
+                "en": "Check the winter opening hours for visits."
+              }
+            },
+            {
+              "name": "Lunch in the Center",
+              "tip_5lang": {
+                "de": "Bestellen Sie eine heiße 'Kapustnica' zur Stärkung.",
+                "hu": "Rendeljen egy forró kapustnicát (káposztalevest) erősítőnek.",
+                "ro": "Comandați o ciorbă de varză 'kapustnica' fierbinte.",
+                "en": "Order a hot 'kapustnica' soup to boost your energy."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Dezember bereits gegen 16:00 Uhr unter.",
+              "Tragen Sie griffige Schuhe für das historische Kopfsteinpflaster.",
+              "Wollmütze und Handschuhe sind für den Kirchturm ein Muss.",
+              "Genießen Sie den lokalen Honigwein (Medovina) auf dem Marktplatz."
+            ],
+            "hu": [
+              "A nap decemberben már délután 4 körül lemegy.",
+              "Viseljen bordázott talpú cipőt a csúszós macskaköveken.",
+              "A templomtoronyba a sapka és kesztyű kötelező kiegészítő.",
+              "Kóstolja meg a helyi mézbort (Medovina) a főtéren."
+            ],
+            "ro": [
+              "Soarele apune în decembrie deja în jurul orei 16:00.",
+              "Purtați încălțăminte cu talpă aderentă pentru pavaj.",
+              "Căciula și mănușile sunt obligatorii pentru vizita în turn.",
+              "Gustați vinul de miere local (Medovina) în piața centrală."
+            ],
+            "en": [
+              "The sun sets as early as 4:00 PM in December.",
+              "Wear shoes with good grip for the slippery cobblestones.",
+              "A hat and gloves are essential for the church tower climb.",
+              "Try the local honey wine (Medovina) at the market square."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -642,6 +842,206 @@
           "The route to the zoo has some gentle inclines but is quite manageable.",
           "Use bike lanes wherever available."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Radtag erfordert gute Ausrüstung auf dem Weg zum Platz. Die Pfützen auf dem Radweg spiegeln die bunten Fassaden, während Sie zügig zu den ersten Sehenswürdigkeiten fahren.\n\nMittags parken Sie Ihr Rad sicher und genießen die Museen im Zentrum. Die kurzen Distanzen zwischen Rathaus und Kirchen sind auch bei Regen auf zwei Rädern schnell bewältigt.\n\nDer Nachmittag führt Sie zum Zoo, wobei der Weg durch den Park etwas schlammig sein kann. Ein Besuch der Tierhäuser bietet Schutz vor dem Dauerregen.\n\nAm Abend kehren Sie ins Zentrum zurück. Die beleuchteten nassen Straßen glänzen im Licht der Laternen, während Sie den Tag bei einem warmen Getränk ausklingen lassen.",
+            "hu": "Egy esős bringás nap jó felszerelést igényel a főtér felé menet. Az úton lévő tócsákban tükröződnek a színes homlokzatok, miközben gyorsan halad a látnivalók felé.\n\nEbédidőben parkolja le biztonságosan a kerékpárt, és élvezze a központi múzeumokat. A városháza és a templomok közötti rövid távok esőben is gyorsan letudhatók két keréken.\n\nDélután tekerjen ki az állatkertbe; a parkon átvezető út ilyenkor kicsit sáros lehet. Az állatházak látogatása jó menedéket nyújt a tartós eső elől.\n\nEste térjen vissza a centrumba. A kivilágított vizes aszfalt csillog a lámpafényben, miközben egy forró ital mellett piheni ki a napot.",
+            "ro": "O zi ploioasă pe bicicletă necesită echipament adecvat spre piața centrală. Bălțile de pe traseu reflectă fațadele colorate în timp ce pedalați rapid spre primele obiective.\n\nLa prânz, parcați bicicleta în siguranță și bucurați-vă de muzeele din centru. Distanțele scurte dintre obiective sunt parcurse rapid pe două roți, chiar și pe ploaie.\n\nDupă-amiaza pedalați spre grădina zoologică, deși drumul prin parc poate fi noroios. Vizitarea pavilioanelor interioare oferă adăpost de ploaia continuă.\n\nSeara reveniți în centru. Străzile ude și luminate strălucesc sub felinare, oferind un cadru deosebit pentru finalul zilei la o băutură caldă.",
+            "en": "A rainy bike day requires good waterproof gear as you head to the square. Puddles on the path reflect the colorful facades while you quickly cycle between the main sights.\n\nAt midday, park your bike securely and enjoy the indoor museums. The short distances between the Town Hall and churches are covered fast on two wheels even in the rain.\n\nIn the afternoon, cycle to the Zoo; note that the park paths might be a bit muddy. Visiting the indoor animal houses provides a great escape from the persistent rain.\n\nIn the evening, return to the center. The wet, illuminated streets shine under the lamplight as you finish your day with a warm drink indoors."
+          },
+          "stops": [
+            {
+              "name": "Lens-shaped Market Square",
+              "tip_5lang": {
+                "de": "Vorsicht beim Bremsen auf nassem Kopfsteinpflaster.",
+                "hu": "Vigyázzon a fékezéssel a nedves macskakövön.",
+                "ro": "Atenție la frânarea pe pavajul umed.",
+                "en": "Be careful when braking on wet cobblestones."
+              }
+            },
+            {
+              "name": "Historic Center (Town Hall, Provincial House, Redoute)",
+              "tip_5lang": {
+                "de": "Überdachte Fahrradständer in der Nähe suchen.",
+                "hu": "Keressen fedett biciklitárolót a közelben.",
+                "ro": "Căutați rastele de biciclete acoperite în apropiere.",
+                "en": "Look for covered bike racks nearby."
+              }
+            },
+            {
+              "name": "Church of Assumption & Evangelical Church",
+              "tip_5lang": {
+                "de": "Räder in Sichtweite der Kameras abstellen.",
+                "hu": "Állítsa a bringát a kamerák látószögébe.",
+                "ro": "Lăsați bicicletele în raza vizuală a camerelor.",
+                "en": "Park your bikes within view of security cameras."
+              }
+            },
+            {
+              "name": "Gallery of Spiš Artists",
+              "tip_5lang": {
+                "de": "Fahrradtaschen mitnehmen, um Diebstahl vorzubeugen.",
+                "hu": "Vigye be a táskákat a lopás megelőzése érdekében.",
+                "ro": "Luați gențile de bicicletă cu voi pentru siguranță.",
+                "en": "Take your bike bags with you to prevent theft."
+              }
+            },
+            {
+              "name": "Lunch in the Center",
+              "tip_5lang": {
+                "de": "Ein Platz am Fenster ermöglicht den Blick auf das Rad.",
+                "hu": "Az ablak melletti asztaltól rálátni a biciklire.",
+                "ro": "O masă la fereastră vă permite să supravegheați bicicleta.",
+                "en": "A window seat lets you keep an eye on your bike."
+              }
+            },
+            {
+              "name": "Zoo Spišská Nová Ves",
+              "tip_5lang": {
+                "de": "Achtung, die Wege im Zoo können rutschig sein.",
+                "hu": "Figyelem, az állatkerti utak csúszósak lehetnek.",
+                "ro": "Atenție, aleile din grădina zoologică pot fi alunecoase.",
+                "en": "Warning: the paths in the Zoo can be slippery."
+              }
+            },
+            {
+              "name": "Return to the Center",
+              "tip_5lang": {
+                "de": "Beleuchtung einschalten, Sichtbarkeit ist bei Regen gering.",
+                "hu": "Kapcsolja be a lámpákat, esőben rosszabb a láthatóság.",
+                "ro": "Aprindeți luminile, vizibilitatea este redusă pe ploaie.",
+                "en": "Turn on your lights; visibility is low in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie schnelle Kurven auf nassem Stein.",
+              "Tragen Sie eine auffällige Regenjacke für mehr Sicherheit.",
+              "Prüfen Sie, ob Ihre Bremsbeläge für Nässe geeignet sind.",
+              "Der Weg zum Zoo ist flach, aber bei Regen spritzt Schlamm."
+            ],
+            "hu": [
+              "Kerülje a hirtelen kanyarodást a nedves köveken.",
+              "Viseljen feltűnő esőkabátot a biztonság érdekében.",
+              "Ellenőrizze, hogy a fékbetétek jól fognak-e vizesen is.",
+              "Az állatkerthez vezető út sík, de esőben felverődhet a sár."
+            ],
+            "ro": [
+              "Evitați virajele bruște pe pavajul umed.",
+              "Purtați o jachetă de ploaie reflectorizantă pentru siguranță.",
+              "Verificați dacă plăcuțele de frână sunt eficiente pe ud.",
+              "Drumul spre zoo este plat, dar noroiul poate sări pe ploaie."
+            ],
+            "en": [
+              "Avoid sharp turns on the wet cobblestone surface.",
+              "Wear a high-visibility raincoat for extra safety.",
+              "Check if your brake pads are effective in wet conditions.",
+              "The path to the Zoo is flat but can get muddy in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen auf dem Fahrrad durch Spišská Nová Ves bietet eine frische Perspektive. Die Reifen knirschen auf dem dünnen Frost des weitläufigen Marktplatzes.\n\nMittags suchen Sie die Wärme der historischen Gebäude. Das Fahrrad ermöglicht es Ihnen, schnell zwischen den Museen zu pendeln, bevor die Kälte in die Glieder kriecht.\n\nDer Nachmittagstrip zum Zoo führt durch eine verschneite Parklandschaft. Die Tiere im Winterpelz sind ein seltener Anblick, den Sie entspannt vom Rad aus erreichen.\n\nZum Abend hin wird es schnell dunkel und kälter. Die Rückfahrt ins Zentrum ist kurz, wo Sie sich in einem Café bei einer heißen Schokolade wieder aufwärmen können.",
+            "hu": "Egy tiszta téli reggel a bringán új perspektívát kínál a városra. A gumiabroncsok ropognak a vékony zúzmarán a hatalmas főtéren tekerve.\n\nEbédidőben keresse a történelmi épületek melegét. A kerékpárral gyorsan válthat a múzeumok között, mielőtt a hideg átjárná a tagjait.\n\nDélután az állatkert felé vezető út havas parkokon át vezet. A téli bundás állatok ritka látványt nyújtanak, amit kényelmesen, bringával érhet el.\n\nEste felé gyorsan sötétedik és hűl a levegő. A központba való visszatekerés rövid, ahol egy kávézóban forró csokoládéval melegedhet fel.",
+            "ro": "O dimineață senină de iarnă pe bicicletă prin oraș oferă o perspectivă proaspătă. Anvelopele scârțâie pe chiciura subțire din piața centrală vastă.\n\nLa prânz, căutați căldura clădirilor istorice. Bicicleta vă permite să navigați rapid între muzee înainte ca frigul să devină pătrunzător.\n\nExcursia de după-amiază la grădina zoologică trece prin parcuri înzăpezite. Animalele cu blană de iarnă sunt o priveliște rară, ușor accesibilă pe două roți.\n\nSpre seară se întunecă rapid și temperatura scade. Drumul de întoarcere în centru este scurt, unde vă puteți încălzi cu o ciocolată caldă la o cafenea.",
+            "en": "A clear winter morning on a bike offers a fresh perspective of the city. Your tires crunch on the thin frost as you cycle across the massive market square.\n\nAt midday, seek the warmth of the historic buildings. Cycling allows you to move quickly between museums before the cold starts to sink in.\n\nYour afternoon trip to the Zoo takes you through snowy parklands. Seeing animals in their winter coats is a unique experience easily reached by bike.\n\nAs evening approaches, it gets dark and cold fast. The ride back to the center is short, where you can warm up in a cafe with a rich hot chocolate."
+          },
+          "stops": [
+            {
+              "name": "Lens-shaped Market Square",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenem Kondenswasser auf den Steinen.",
+                "hu": "Vigyázzon a fagyott páralecsapódásra a köveken.",
+                "ro": "Atenție la condensul înghețat de pe pietre.",
+                "en": "Watch out for frozen condensation on the stones."
+              }
+            },
+            {
+              "name": "Historic Center (Town Hall, Provincial House, Redoute)",
+              "tip_5lang": {
+                "de": "Kürzer parken, um das Einfrieren der Schlösser zu vermeiden.",
+                "hu": "Rövidebb ideig parkoljon, hogy ne fagyjon be a zár.",
+                "ro": "Parcați pe perioade scurte pentru a nu îngheța încuietoarea.",
+                "en": "Park for shorter periods to prevent locks from freezing."
+              }
+            },
+            {
+              "name": "Church of Assumption & Evangelical Church",
+              "tip_5lang": {
+                "de": "Radhandschuhe sind bei den Stopps unverzichtbar.",
+                "hu": "A bringás kesztyű elengedhetetlen a megállóknál.",
+                "ro": "Mănușile de ciclism sunt indispensabile la opriri.",
+                "en": "Cycling gloves are essential during your stops."
+              }
+            },
+            {
+              "name": "Gallery of Spiš Artists",
+              "tip_5lang": {
+                "de": "Fahrrad in Sichtweite des Eingangs abstellen.",
+                "hu": "Állítsa a biciklit a bejárat közelébe.",
+                "ro": "Lăsați bicicleta la vedere, aproape de intrare.",
+                "en": "Park your bike within sight of the entrance."
+              }
+            },
+            {
+              "name": "Lunch in the Center",
+              "tip_5lang": {
+                "de": "Viel heißen Tee trinken, um die Körperwärme zu halten.",
+                "hu": "Igyon sok forró teát a testhőmérséklet megőrzéséhez.",
+                "ro": "Beți ceai fierbinte pentru a menține temperatura corpului.",
+                "en": "Drink plenty of hot tea to keep your body warm."
+              }
+            },
+            {
+              "name": "Zoo Spišská Nová Ves",
+              "tip_5lang": {
+                "de": "Einige Außenwege können bei Eis gesperrt sein.",
+                "hu": "Egyes külső utak jegesedés miatt lezárva lehetnek.",
+                "ro": "Unele alei exterioare pot fi închise din cauza gheții.",
+                "en": "Some outdoor paths might be closed due to ice."
+              }
+            },
+            {
+              "name": "Return to the Center",
+              "tip_5lang": {
+                "de": "Reflektoren prüfen, die Dämmerung setzt früh ein.",
+                "hu": "Ellenőrizze a prizmákat, korán sötétedik.",
+                "ro": "Verificați reflectorizantele, amurgul vine devreme.",
+                "en": "Check your reflectors; dusk sets in early."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fetten Sie die Fahrradkette gut ein gegen Streusalz.",
+              "Tragen Sie mehrere Schichten Kleidung (Zwiebelprinzip).",
+              "Der Luftdruck in den Reifen sollte im Winter etwas niedriger sein.",
+              "Vermeiden Sie das Radfahren bei extremem Glatteis auf dem Platz."
+            ],
+            "hu": [
+              "Zsírozza be jól a láncot az útszóró só ellen.",
+              "Öltözzön rétegesen (hagyma-elv) a tekeréshez.",
+              "Télen érdemes kicsit alacsonyabb guminyomással menni.",
+              "Kerülje a bringázást, ha a főtér kövezete jeges."
+            ],
+            "ro": [
+              "Gresați bine lanțul împotriva sării de pe drum.",
+              "Îmbrăcați-vă în straturi pentru a regla temperatura.",
+              "Presiunea în pneuri ar trebui să fie puțin mai mică iarna.",
+              "Evitați ciclismul dacă piața este acoperită de polei."
+            ],
+            "en": [
+              "Grease your bike chain well against road salt.",
+              "Wear multiple layers of clothing (onion principle).",
+              "Tire pressure should be slightly lower in winter for grip.",
+              "Avoid cycling if the square surface is covered in black ice."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -942,6 +1342,188 @@
           "Plan your drive to the zoo outside of peak hours to avoid traffic.",
           "The car gives you the flexibility to also visit destinations outside the city, like the Slovak Paradise."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein Regentag im Auto bietet den Komfort, trocken zwischen den Highlights von Spišská Nová Ves zu wechseln. Beginnen Sie am zentralen Platz, wo das Parken direkt an den historischen Gebäuden möglich ist.\n\nMittags besuchen Sie das Rathaus und die Museen. Die kurzen Wege vom Parkplatz zu den Eingängen minimieren den Kontakt mit dem nassen Wetter.\n\nNachmittags fahren Sie bequem zum Zoo am Stadtrand. Das Auto ist der ideale Rückzugsort zwischen den Besichtigungen der verschiedenen Tierpavillons.\n\nDer Abend endet entspannt im Stadtzentrum. Die beleuchteten Fassaden wirken bei Regen besonders atmosphärisch, während Sie im trockenen Fahrzeug zurück zum Ausgangspunkt fahren.",
+            "hu": "Egy esős nap az autóban kényelmes közlekedést biztosít Igló látnivalói között. Kezdjen a központi téren, ahol közvetlenül a történelmi épületek mellett parkolhat.\n\nEbédidőben látogassa meg a Városházát és a múzeumokat. A parkolótól a bejáratokig tartó rövid séta minimalizálja az esővel való érintkezést.\n\nDélután autózzon ki kényelmesen a város szélén lévő állatkertbe. Az autó ideális menedék az egyes állatpavilonok megtekintése között.\n\nAz este pihentetően zárul a városközpontban. A kivilágított homlokzatok esőben különleges hangulatot árasztanak, miközben szárazon térhet vissza a kiindulópontra.",
+            "ro": "O zi ploioasă cu mașina oferă confortul de a trece uscat între atracțiile orașului Spišská Nová Ves. Începeți în piața centrală, unde parcarea este disponibilă chiar lângă clădirile istorice.\n\nLa prânz, vizitați Primăria și muzeele locale. Distanțele scurte de la parcare la intrări minimizează contactul cu vremea umedă.\n\nDupă-amiaza conduceți confortabil spre grădina zoologică de la marginea orașului. Mașina este refugiul ideal între vizitele la diferitele pavilioane de animale.\n\nSeara se încheie relaxat în centrul orașului. Fațadele iluminate au o atmosferă aparte pe ploaie, în timp ce vă întoarceți uscat la punctul de plecare.",
+            "en": "A rainy day by car offers the comfort of staying dry while moving between the highlights of Spišská Nová Ves. Start at the central square, where parking is available right next to the historic buildings.\n\nAt midday, visit the Town Hall and the museums. The short walk from the parking area to the entrances minimizes your exposure to the wet weather.\n\nIn the afternoon, drive comfortably to the Zoo on the outskirts of town. The car is an ideal retreat between visiting the various animal pavilions.\n\nIn the evening, enjoy a relaxed end to the day in the city center. The illuminated facades look particularly atmospheric in the rain while you stay dry in your vehicle."
+          },
+          "stops": [
+            {
+              "name": "Parking and Start at the Lens-shaped Market Square",
+              "tip_5lang": {
+                "de": "Zentraler Parkplatz spart lange Wege im Regen.",
+                "hu": "A központi parkolóval megússza a hosszú sétát az esőben.",
+                "ro": "Parcarea centrală vă scutește de mersul prin ploaie.",
+                "en": "Central parking saves you from long walks in the rain."
+              }
+            },
+            {
+              "name": "Town Hall, Provincial House and Redoute",
+              "tip_5lang": {
+                "de": "Museen sind ideale Ziele für regnerische Vormittage.",
+                "hu": "A múzeumok ideális célpontok esős délelőttökre.",
+                "ro": "Muzeele sunt destinații ideale pentru diminețile ploioase.",
+                "en": "Museums are ideal destinations for rainy mornings."
+              }
+            },
+            {
+              "name": "Church of the Assumption",
+              "tip_5lang": {
+                "de": "Kurzer Sprint vom Parkplatz zum Kircheneingang.",
+                "hu": "Rövid futás a parkolótól a templom bejáratáig.",
+                "ro": "Sprint scurt de la parcare la intrarea în biserică.",
+                "en": "A short sprint from the parking spot to the church entrance."
+              }
+            },
+            {
+              "name": "Gallery of Spiš Artists and Lunch",
+              "tip_5lang": {
+                "de": "Parken Sie im Hinterhof, falls möglich.",
+                "hu": "Parkoljon a belső udvarban, ha lehetséges.",
+                "ro": "Parcați în curtea interioară, dacă este posibil.",
+                "en": "Park in the inner courtyard if available."
+              }
+            },
+            {
+              "name": "Drive to Zoo Spišská Nová Ves",
+              "tip_5lang": {
+                "de": "Achtung auf Aquaplaning auf der Straße zum Zoo.",
+                "hu": "Vigyázzon a felvizesedett utakra az állatkert felé.",
+                "ro": "Atenție la acvaplanare pe drumul spre grădina zoologică.",
+                "en": "Watch out for aquaplaning on the road to the Zoo."
+              }
+            },
+            {
+              "name": "Return and End of Tour",
+              "tip_5lang": {
+                "de": "Scheibenwischer und Licht prüfen bei starkem Regen.",
+                "hu": "Ellenőrizze az ablaktörlőket és a világítást nagy esőben.",
+                "ro": "Verificați ștergătoarele și luminile pe ploaie torențială.",
+                "en": "Check wipers and lights during heavy rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Parkgebühren können per SMS oder Automat gezahlt werden.",
+              "Lassen Sie keine Wertsachen sichtbar im Auto liegen.",
+              "Die Hauptstraße zum Zoo kann bei Regen stauanfällig sein.",
+              "Ein Regenschirm im Kofferraum ist für die Stopps ratsam."
+            ],
+            "hu": [
+              "A parkolási díjat SMS-ben vagy automatánál fizetheti.",
+              "Ne hagyjon értéket látható helyen az autóban.",
+              "Az állatkerthez vezető főút esőben forgalmasabb lehet.",
+              "Érdemes egy esernyőt tartani a csomagtartóban a megállókhoz."
+            ],
+            "ro": [
+              "Taxa de parcare poate fi plătită prin SMS sau la automat.",
+              "Nu lăsați obiecte de valoare la vedere în mașină.",
+              "Drumul spre grădina zoologică poate fi aglomerat pe ploaie.",
+              "O umbrelă în portbagaj este recomandată pentru opriri."
+            ],
+            "en": [
+              "Parking fees can be paid via SMS or at the machine.",
+              "Do not leave any valuables visible inside the car.",
+              "The main road to the Zoo can be prone to traffic in the rain.",
+              "Keep an umbrella in the trunk for your stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein winterlicher Roadtrip durch Spišská Nová Ves beginnt auf dem frostigen Marktplatz. Das beheizte Auto bietet den perfekten Stützpunkt für die Erkundung des winterlichen Zentrums.\n\nMittags genießen Sie die historischen Sehenswürdigkeiten, während Ihr Fahrzeug sicher auf einem der geräumten Parkplätze wartet. Die Kälte draußen macht den Besuch der Museen umso behaglicher.\n\nNachmittags führt die Fahrt zum Zoo, der in eine weiße Schneedecke gehüllt ist. Erleben Sie die winterliche Stille der Natur, bevor Sie sich im Auto wieder aufwärmen.\n\nDer Abend im beleuchteten Stadtzentrum ist ein optisches Highlight. Die Rückfahrt zum Ausgangspunkt durch die festlich geschmückten Straßen rundet den winterlichen Tag perfekt ab.",
+            "hu": "A téli autós kirándulás Iglón a fagyos főtéren kezdődik. A fűtött autó tökéletes bázis a téli városközpont felfedezéséhez.\n\nEbédidőben élvezze a történelmi látnivalókat, miközben járműve biztonságban vár az egyik letakarított parkolóban. A kinti hideg még hívogatóbbá teszi a múzeumlátogatást.\n\nDélután az út az állatkertbe vezet, amelyet fehér hótakaró borít. Tapasztalja meg a természet téli csendjét, mielőtt újra felmelegedne az autóban.\n\nAz este a kivilágított belvárosban igazi látványosság. A visszautat az ünnepi díszbe öltözött utcákon keresztül teheti meg, ami tökéletesen zárja a téli napot.",
+            "ro": "O excursie de iarnă cu mașina prin oraș începe în piața centrală înghețată. Mașina încălzită oferă baza perfectă pentru explorarea centrului hibernal.\n\nLa prânz, bucurați-vă de atracțiile istorice în timp ce vehiculul așteaptă în siguranță într-o parcare curățată. Frigul de afară face vizita la muzee și mai plăcută.\n\nDupă-amiaza, drumul duce la grădina zoologică, învelită într-o mantie albă de zăpadă. Experimentați liniștea iernii în natură înainte de a vă reîncălzi în mașină.\n\nSeara în centrul iluminat este un punct culminant vizual. Drumul de întoarcere prin străzile decorate festiv încheie perfect ziua de iarnă.",
+            "en": "A winter road trip through Spišská Nová Ves starts at the frosty market square. Your heated car is the perfect base for exploring the wintry city center.\n\nAt midday, enjoy the historic sights while your vehicle waits safely in one of the cleared parking lots. The cold outside makes visiting museums even more inviting.\n\nIn the afternoon, head to the Zoo, which is covered in a blanket of white snow. Experience the winter silence of nature before warming up again in your car.\n\nIn the evening, the illuminated city center is a visual highlight. Driving back through festively decorated streets perfectly rounds off your winter day."
+          },
+          "stops": [
+            {
+              "name": "Parking and Start at the Lens-shaped Market Square",
+              "tip_5lang": {
+                "de": "Vorsicht beim Einparken auf schneebedeckten Flächen.",
+                "hu": "Vigyázzon a parkolásnál a hóval borított felületeken.",
+                "ro": "Atenție la parcare pe suprafețele acoperite cu zăpadă.",
+                "en": "Be careful when parking on snow-covered surfaces."
+              }
+            },
+            {
+              "name": "Town Hall, Provincial House and Redoute",
+              "tip_5lang": {
+                "de": "Fahrzeug vor der Weiterfahrt komplett abtauen.",
+                "hu": "Indulás előtt teljesen jégtelenítse a járművet.",
+                "ro": "Dezghețați complet vehiculul înainte de plecare.",
+                "en": "Fully defrost the vehicle before continuing your drive."
+              }
+            },
+            {
+              "name": "Church of the Assumption",
+              "tip_5lang": {
+                "de": "Heizung im Auto nutzen, um die Kälte abzuschütteln.",
+                "hu": "Használja az autó fűtését a hideg lerázásához.",
+                "ro": "Folosiți încălzirea mașinii pentru a scăpa de frig.",
+                "en": "Use the car heater to shake off the cold."
+              }
+            },
+            {
+              "name": "Gallery of Spiš Artists and Lunch",
+              "tip_5lang": {
+                "de": "Nahegelegene Parkplätze nutzen, um Kälte zu vermeiden.",
+                "hu": "Használjon közeli parkolót a hideg elkerülése végett.",
+                "ro": "Folosiți parcări apropiate pentru a evita frigul.",
+                "en": "Use nearby parking spots to avoid the biting cold."
+              }
+            },
+            {
+              "name": "Drive to Zoo Spišská Nová Ves",
+              "tip_5lang": {
+                "de": "Winterreifen sind auf den Nebenstraßen Pflicht.",
+                "hu": "A téli gumi kötelező a mellékutcákban.",
+                "ro": "Anvelopele de iarnă sunt obligatorii pe străzile secundare.",
+                "en": "Winter tires are mandatory on the side roads."
+              }
+            },
+            {
+              "name": "Return and End of Tour",
+              "tip_5lang": {
+                "de": "Achtung bei Eisglätte in den Abendstunden.",
+                "hu": "Vigyázzon a jegesedésre az esti órákban.",
+                "ro": "Atenție la polei în orele serii.",
+                "en": "Watch out for black ice during the evening hours."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Haben Sie immer einen Eiskratzer griffbereit.",
+              "Prüfen Sie den Frostschutz in der Scheibenwaschanlage.",
+              "Parkhäuser bieten Schutz vor Schneefall.",
+              "Achten Sie auf Fußgänger, die auf glatten Gehwegen ausrutschen könnten."
+            ],
+            "hu": [
+              "Mindig legyen kéznél jégkaparó az autóban.",
+              "Ellenőrizze a szélvédőmosó fagyállóságát.",
+              "A parkolóházak védelmet nyújtanak a havazás ellen.",
+              "Figyeljen a gyalogosokra, akik megcsúszhatnak a járdán."
+            ],
+            "ro": [
+              "Aveți întotdeauna o răzuitoare de gheață la îndemână.",
+              "Verificați antigelul din lichidul de parbriz.",
+              "Parcările acoperite oferă protecție împotriva ninsorii.",
+              "Atenție la pietonii care pot aluneca pe trotuare."
+            ],
+            "en": [
+              "Always have an ice scraper handy in the car.",
+              "Check the antifreeze levels in your windshield washer fluid.",
+              "Covered parking areas offer protection from snowfall.",
+              "Watch out for pedestrians who might slip on icy sidewalks."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1242,6 +1824,188 @@
           "Most buses are modern, but have small change ready in case you need to buy a ticket from the driver.",
           "The central sights are all within walking distance, so you'll only need the bus for the trip to the zoo."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag mit den öffentlichen Verkehrsmitteln in Spišská Nová Ves beginnt stressfrei. Der Bus bringt Sie direkt zum zentralen Platz, von wo aus Sie die historischen Schätze erkunden.\n\nMittags nutzen Sie die kurzen Busintervalle, um zwischen den Sehenswürdigkeiten zu wechseln. Die Wartehallen bieten Schutz, während Sie auf die Verbindung zum Zoo warten.\n\nNachmittags ist der Zoo ein tolles Ziel; der Bus hält in unmittelbarer Nähe zum Eingang. So erreichen Sie die Tierhäuser fast ohne nass zu werden.\n\nZum Abend hin kehren Sie mit dem Bus ins Stadtzentrum zurück. Genießen Sie die Fahrt durch die regnerischen Straßen, bevor Sie den Tag in einem gemütlichen Lokal beenden.",
+            "hu": "Egy esős nap tömegközlekedéssel Iglón stresszmentesen indul. A busz közvetlenül a központi térre viszi, ahonnan felfedezheti a történelmi kincseket.\n\nEbédidőben használja ki a sűrű buszjáratokat a látnivalók közötti váltáshoz. A várótermek védelmet nyújtanak, amíg az állatkerti járatra vár.\n\nDélután az állatkert remek célpont; a busz közvetlenül a bejárat közelében áll meg. Így szinte szárazon érheti el az állatházakat.\n\nEste busszal térjen vissza a városközpontba. Élvezze az utazást az esős utcákon keresztül, mielőtt a napot egy hangulatos helyen zárná.",
+            "ro": "O zi ploioasă cu transportul public în oraș începe fără stres. Autobuzul vă lasă direct în piața centrală, de unde puteți explora comorile istorice.\n\nLa prânz, folosiți intervalele scurte ale autobuzelor pentru a naviga între obiective. Stațiile acoperite oferă adăpost în timp ce așteptați conexiunea spre grădina zoologică.\n\nDupă-amiaza, zoo este o destinație excelentă; autobuzul oprește foarte aproape de intrare. Astfel ajungeți la pavilioane aproape fără să vă udați.\n\nSpre seară reveniți cu autobuzul în centrul orașului. Bucurați-vă de drumul prin străzile ploioase înainte de a încheia ziua într-un local primitor.",
+            "en": "A rainy day using public transport in Spišská Nová Ves starts stress-free. The bus takes you directly to the central square, from where you can explore the historic treasures.\n\nAt midday, take advantage of the frequent bus intervals to move between sights. Covered bus stops provide shelter while you wait for your connection to the Zoo.\n\nIn the afternoon, the Zoo is a great destination; the bus stops very close to the entrance. This way, you can reach the animal houses almost without getting wet.\n\nIn the evening, return by bus to the city center. Enjoy the ride through the rainy streets before finishing your day in a cozy local restaurant."
+          },
+          "stops": [
+            {
+              "name": "Arrival and Start at the Lens-shaped Market Square",
+              "tip_5lang": {
+                "de": "Fahrplan-App nutzen, um Wartezeiten im Regen zu verkürzen.",
+                "hu": "Használja a menetrendi appot, hogy keveset várjon az esőben.",
+                "ro": "Folosiți aplicația de transport pentru a minimiza așteptarea.",
+                "en": "Use the transit app to minimize waiting time in the rain."
+              }
+            },
+            {
+              "name": "Walk: Town Hall, Provincial House, Redoute",
+              "tip_5lang": {
+                "de": "Überdachte Bushaltestellen im Zentrum als Treffpunkt nutzen.",
+                "hu": "Használja a fedett megállókat találkozási pontnak.",
+                "ro": "Folosiți stațiile acoperite ca puncte de întâlnire.",
+                "en": "Use covered bus stops as meeting points in the center."
+              }
+            },
+            {
+              "name": "Walk: Church of the Assumption & Gallery",
+              "tip_5lang": {
+                "de": "Kurze Fußwege zwischen den Haltestellen und Eingängen.",
+                "hu": "Rövid séta a megállók és a bejáratok között.",
+                "ro": "Distanțe scurte de mers de la stații la intrări.",
+                "en": "Short walking distances from stops to the entrances."
+              }
+            },
+            {
+              "name": "Lunch in the Center",
+              "tip_5lang": {
+                "de": "Restaurants in der Nähe der Bushaltestellen wählen.",
+                "hu": "Válasszon éttermet a buszmegállók közelében.",
+                "ro": "Alegeți restaurante în apropierea stațiilor de autobuz.",
+                "en": "Choose restaurants near the bus stops."
+              }
+            },
+            {
+              "name": "Bus ride to Zoo Spišská Nová Ves",
+              "tip_5lang": {
+                "de": "Fahrscheine beim Fahrer oder am Kiosk kaufen.",
+                "hu": "Jegyet a sofőrnél vagy a kioszkban vehet.",
+                "ro": "Cumpărați bilete de la șofer sau de la chioșc.",
+                "en": "Buy tickets from the driver or at a kiosk."
+              }
+            },
+            {
+              "name": "Bus ride back to the center",
+              "tip_5lang": {
+                "de": "Kleingeld für den Ticketkauf bereithalten.",
+                "hu": "Készítsen ki aprópénzt a jegyvásárláshoz.",
+                "ro": "Pregătiți mărunțiș pentru achiziționarea biletelor.",
+                "en": "Have small change ready for ticket purchases."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Einige Buslinien fahren am Wochenende seltener.",
+              "Die Busse sind im Winter gut beheizt.",
+              "Halten Sie Ihren Regenschirm beim Einsteigen geschlossen.",
+              "Informationen zu Tickets finden Sie an den Hauptstationen."
+            ],
+            "hu": [
+              "Egyes buszvonalak ritkábban járnak hétvégén.",
+              "A buszok télen jól fűtöttek.",
+              "Felszálláskor tartsa zárva az esernyőjét.",
+              "A jegyekkel kapcsolatos infókat a főbb állomásokon találja."
+            ],
+            "ro": [
+              "Unele linii de autobuz circulă mai rar în weekend.",
+              "Autobuzele sunt bine încălzite iarna.",
+              "Țineți umbrela închisă la urcarea în autobuz.",
+              "Informații despre bilete găsiți în stațiile principale."
+            ],
+            "en": [
+              "Some bus lines run less frequently on weekends.",
+              "Buses are well-heated during the winter season.",
+              "Keep your umbrella closed when boarding the bus.",
+              "Ticket information can be found at the main stations."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintermorgen beginnt gemütlich mit einer Busfahrt ins Stadtzentrum. Die Aussicht aus dem warmen Fenster auf die verschneiten Straßen von Spišská Nová Ves ist bezaubernd.\n\nMittags erkunden Sie die historischen Bauten am Marktplatz. Das dichte Busnetz ermöglicht es Ihnen, sich zwischendurch in den Fahrzeugen aufzuwärmen, während Sie zum nächsten Ziel fahren.\n\nNachmittags bringt Sie der Bus zuverlässig zum winterlichen Zoo. Genießen Sie die klare Luft und die Stille, bevor Sie die gut beheizte Rückfahrt antreten.\n\nDer Abend im festlich beleuchteten Zentrum ist ein Erlebnis. Mit dem öffentlichen Nahverkehr gelangen Sie sicher und bequem zurück zu Ihrer Unterkunft, ohne sich um glatte Straßen sorgen zu müssen.",
+            "hu": "A téli reggel kényelmesen indul egy buszozással a városközpontba. A fűtött ablakon át elragadó a látvány a havas iglói utcákra.\n\nEbédidőben fedezze fel a főtér történelmi épületeit. A sűrű buszhálózat lehetővé teszi, hogy két látnivaló között felmelegedjen a járműveken.\n\nDélután a busz megbízhatóan kiviszi a téli állatkertbe. Élvezze a tiszta levegőt és a csendet, mielőtt felszállna a jól fűtött visszajáratra.\n\nAz este az ünnepi kivilágított központban igazi élmény. A tömegközlekedéssel biztonságban és kényelemben térhet vissza szállására, anélkül hogy a csúszós utak miatt kellene aggódnia.",
+            "ro": "O dimineață de iarnă începe confortabil cu o călătorie cu autobuzul spre centru. Priveliștea prin fereastra caldă asupra străzilor înzăpezite este fermecătoare.\n\nLa prânz, explorați clădirile istorice din piață. Rețeaua densă de autobuze vă permite să vă încălziți în vehicule în timp ce mergeți spre următoarea destinație.\n\nDupă-amiaza, autobuzul vă duce în siguranță la grădina zoologică hibernală. Bucurați-vă de aerul curat înainte de a urca în cursa de întoarcere bine încălzită.\n\nSeara în centrul iluminat festiv este o experiență deosebită. Cu transportul public reveniți în siguranță la cazare, fără grija drumurilor alunecoase.",
+            "en": "A winter morning starts comfortably with a bus ride to the city center. The view from the warm window of the snowy streets of Spišská Nová Ves is enchanting.\n\nAt midday, explore the historic buildings at the market square. The dense bus network allows you to warm up inside the vehicles while traveling to your next destination.\n\nIn the afternoon, the bus reliably takes you to the wintry Zoo. Enjoy the crisp air and silence before taking the well-heated return trip.\n\nAn evening in the festively lit center is a treat. Public transport gets you back to your accommodation safely and comfortably without having to worry about icy roads."
+          },
+          "stops": [
+            {
+              "name": "Arrival and Start at the Lens-shaped Market Square",
+              "tip_5lang": {
+                "de": "Haltestellen sind oft in der Nähe von Cafés zum Aufwärmen.",
+                "hu": "A megállók gyakran kávézók közelében vannak, ahol melegedhet.",
+                "ro": "Stațiile sunt adesea lângă cafenele unde vă puteți încălzi.",
+                "en": "Stops are often near cafes where you can warm up."
+              }
+            },
+            {
+              "name": "Walk: Town Hall, Provincial House, Redoute",
+              "tip_5lang": {
+                "de": "Winterfahrplan beachten, Abfahrzeiten können variieren.",
+                "hu": "Figyelje a téli menetrendet, az indulási idők változhatnak.",
+                "ro": "Consultați programul de iarnă, orele pot varia.",
+                "en": "Check the winter schedule; departure times may vary."
+              }
+            },
+            {
+              "name": "Walk: Church of the Assumption & Gallery",
+              "tip_5lang": {
+                "de": "Vorsicht vor Schneematsch an den Haltestellenkanten.",
+                "hu": "Vigyázzon a hókásás megállópadkákkal.",
+                "ro": "Atenție la zăpada topită de pe marginea stațiilor.",
+                "en": "Watch out for slushy edges at the bus stops."
+              }
+            },
+            {
+              "name": "Lunch in the Center",
+              "tip_5lang": {
+                "de": "Wartezeit für den nächsten Bus im Restaurant abwarten.",
+                "hu": "Várja meg a következő buszt az étteremben.",
+                "ro": "Așteptați următorul autobuz în incinta restaurantului.",
+                "en": "Wait for the next bus inside the restaurant."
+              }
+            },
+            {
+              "name": "Bus ride to Zoo Spišská Nová Ves",
+              "tip_5lang": {
+                "de": "Bei starkem Schneefall Verspätungen einplanen.",
+                "hu": "Erős havazáskor számoljon esetleges késésekkel.",
+                "ro": "În caz de ninsoare abundentă, anticipați întârzieri.",
+                "en": "Expect potential delays during heavy snowfall."
+              }
+            },
+            {
+              "name": "Bus ride back to the center",
+              "tip_5lang": {
+                "de": "Warme Kleidung für die Wartezeit an der Haltestelle.",
+                "hu": "Meleg ruházat szükséges a megállóban való várakozáshoz.",
+                "ro": "Haine groase necesare pentru așteptarea în stație.",
+                "en": "Warm clothing is needed while waiting at the stop."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrkartenautomaten können bei extremer Kälte hängen.",
+              "Die Busse fahren im Winter oft mit Winterreifen für mehr Sicherheit.",
+              "Vermeiden Sie das Warten an unbeleuchteten Haltestellen.",
+              "Nutzen Sie die App für Echtzeit-Informationen."
+            ],
+            "hu": [
+              "A jegyautomaták extrém hidegben lefagyhatnak.",
+              "A buszok téli gumival közlekednek a nagyobb biztonságért.",
+              "Kerülje a várakozást a kivilágítatlan megállókban.",
+              "Használja az appot a valós idejű információkért."
+            ],
+            "ro": [
+              "Automatele de bilete pot îngheța la temperaturi extreme.",
+              "Autobuzele folosesc anvelope de iarnă pentru siguranță.",
+              "Evitați așteptarea în stații neiluminate.",
+              "Folosiți aplicația pentru informații în timp real."
+            ],
+            "en": [
+              "Ticket machines might freeze in extreme cold.",
+              "Buses use winter tires for increased safety.",
+              "Avoid waiting at unlit bus stops at night.",
+              "Use the mobile app for real-time transit info."
+            ]
+          }
+        }
       }
     }
   }

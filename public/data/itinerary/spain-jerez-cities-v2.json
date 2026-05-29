@@ -403,6 +403,206 @@
           "Book sherry tastings in advance.",
           "In the midday heat, use short café breaks and keep water with you."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag an der Plaza del Arenal, wo die Arkaden Schutz vor dem Regen bieten. Der Vormittag gehört dem Alcázar, dessen dicke Mauern und Innenräume Sie trocken halten.\n\nMittags suchen wir Zuflucht in der Kathedrale und der San-Miguel-Kirche. Der Regen auf den alten Dächern erzeugt eine mystische Atmosphäre in den hohen Schiffen.\n\nDer Nachmittag ist perfekt für das Uhrenmuseum und die Bodega Tío Pepe. In den riesigen Weinkellern spielt das Wetter keine Rolle, während Sie den Sherry genießen.\n\nAbends besuchen Sie die Reitschule. Die Vorführungen finden in der Halle statt, sodass Sie den andalusischen Stolz trockenen Fußes bewundern können.",
+            "hu": "Kezdje a napot a Plaza del Arenal téren, ahol az árkádok alatt húzódhat meg az eső elől. A délelőttöt töltse az Alcázar falai között, amely kiváló fedezéket nyújt.\n\nDélben a katedrális és a San Miguel-templom belső terei várják. Az eső kopogása a régi tetőkön különleges hangulatot áraszt a hatalmas boltívek alatt.\n\nA délután ideális a Palacio del Tiempo óramúzeum és a Tío Pepe borászat meglátogatásához. A hatalmas hordók között teljesen védve van az elemektől.\n\nAz estét zárja a Lovasiskolában. A bemutatók fedett csarnokban zajlanak, így az eső ellenére is megcsodálhatja az andalúz lovas hagyományokat.",
+            "ro": "Începeți ziua în Plaza del Arenal, folosind arcadele pentru a vă feri de ploaie. Dimineața este dedicată cetății Alcázar, ale cărei interioare oferă un adăpost istoric excelent.\n\nLa prânz, vizitați Catedrala și Biserica San Miguel. Atmosfera solemnă din interior este completată de sunetul ploii pe vitraliile vechi.\n\nDupă-amiaza este perfectă pentru Muzeul Ceasurilor și Bodegas Tío Pepe. În cramele uriașe, vremea de afară devine irelevantă în timp ce degustați faimosul Sherry.\n\nSeara, mergeți la Școala Regală de Echitație. Spectacolele au loc în interior, permițându-vă să vedeți mândria andaluză fără a vă uda.",
+            "en": "Start your day at Plaza del Arenal, using the arcades to shelter from the drizzle. Spend your morning inside the Alcázar, where thick walls provide a dry sanctuary.\n\nAt noon, retreat into the Cathedral and San Miguel Church. The sound of rain on the historic roofs adds a mystical layer to the vast interiors.\n\nThe afternoon is ideal for the Clock Museum and Tío Pepe Bodega. Inside the massive wine cellars, the weather doesn't matter while you sip local Sherry.\n\nFinish the evening at the Royal Equestrian School. Performances are held in a covered arena, allowing you to enjoy Andalusian traditions in comfort."
+          },
+          "stops": [
+            {
+              "name": "Plaza del Arenal",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Cafés unter den Arkaden für den ersten Kaffee.",
+                "hu": "Használja az árkádok alatti kávézókat az első reggeli menedéknek.",
+                "ro": "Folosiți cafenelele de sub arcade pentru prima pauză de cafea.",
+                "en": "Use the cafes under the arcades for your first dry coffee break."
+              }
+            },
+            {
+              "name": "Alcázar von Jerez",
+              "tip_5lang": {
+                "de": "Die Kamera-Obscura im Turm ist bei Regen leider oft geschlossen.",
+                "hu": "A toronyban lévő camera obscura esőben sajnos zárva tarthat.",
+                "ro": "Camera obscura din turn este adesea închisă pe timp de ploaie.",
+                "en": "The camera obscura in the tower is often closed during rain."
+              }
+            },
+            {
+              "name": "Kathedrale von Jerez",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um einen heftigen Schauer trocken abzuwarten.",
+                "hu": "Ideális hely egy komolyabb zápor száraz megvárásához.",
+                "ro": "Un loc ideal pentru a aștepta trecerea unei averse puternice.",
+                "en": "An ideal place to wait out a heavy downpour in total dry."
+              }
+            },
+            {
+              "name": "San Miguel Kirche",
+              "tip_5lang": {
+                "de": "Achten Sie auf den rutschigen Boden im Eingangsbereich.",
+                "hu": "Vigyázzon a csúszós padlóra a bejárati résznél.",
+                "ro": "Atenție la podeaua alunecoasă din zona de intrare.",
+                "en": "Watch out for the slippery floor in the entrance area."
+              }
+            },
+            {
+              "name": "Palacio del Tiempo",
+              "tip_5lang": {
+                "de": "Das Ticken von 300 Uhren lässt den Regen draußen vergessen.",
+                "hu": "300 óra ketyegése elfeledteti a kinti esős időt.",
+                "ro": "Ticăitul a 300 de ceasuri vă va face să uitați de ploaie.",
+                "en": "The ticking of 300 clocks makes you forget the rain outside."
+              }
+            },
+            {
+              "name": "Bodegas Tío Pepe",
+              "tip_5lang": {
+                "de": "Die Kellerführungen sind komplett überdacht und trocken.",
+                "hu": "A pincelátogatások teljesen fedettek és szárazak.",
+                "ro": "Tururile în cramă sunt complet acoperite și uscate.",
+                "en": "The cellar tours are completely covered and dry."
+              }
+            },
+            {
+              "name": "Real Escuela Andaluza",
+              "tip_5lang": {
+                "de": "Der Weg zwischen den Gebäuden erfordert einen Regenschirm.",
+                "hu": "Az épületek közötti rövid sétához szükség lesz az esernyőre.",
+                "ro": "Drumul dintre clădiri necesită o umbrelă.",
+                "en": "The short path between buildings requires an umbrella."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da das Kopfsteinpflaster Pfützen bildet.",
+              "Die meisten Museen und Bodegas bieten Garderoben für nasse Schirme.",
+              "Nutzen Sie die engen Gassen des jüdischen Viertels als Windschutz.",
+              "Süßer Sherry ist das perfekte Mittel gegen das graue Wetter."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert a macskaköveken megáll a víz.",
+              "A legtöbb múzeum és borászat kínál tárolót a vizes esernyőknek.",
+              "A zsidó negyed szűk utcái jó szélárnyékot biztosítanak.",
+              "Egy édes sherry a legjobb ellenszer a szürke időjárásra."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, pavajul reține apa.",
+              "Majoritatea muzeelor și cramelor oferă suporturi pentru umbrele.",
+              "Străzile înguste din cartierul evreiesc oferă protecție contra vântului.",
+              "Un sherry dulce este remediul perfect împotriva vremii gri."
+            ],
+            "en": [
+              "Wear waterproof shoes as the cobblestones tend to form puddles.",
+              "Most museums and bodegas offer stands for wet umbrellas.",
+              "Use the narrow streets of the Jewish quarter for wind protection.",
+              "Sweet Sherry is the perfect remedy against the grey weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die milde Wintersonne auf der Plaza del Arenal. Am Vormittag strahlt der Alcázar in einem sanften Licht, ideal für Fotos ohne die Hitze des Sommers.\n\nMittags ist die Luft in der Kathedrale kühl, aber die Sonne wärmt die Fassaden der Kirche San Miguel. Die Orangenbäume in der Stadt tragen jetzt ihre leuchtenden Früchte.\n\nNachmittags wärmen wir uns im Uhrenmuseum auf. Danach bietet die Bodega Tío Pepe eine gemütliche Atmosphäre in den historischen Kellern.\n\nDer frühe Abend gehört der Reitschule. Da es gegen 18:00 Uhr dunkel wird, ist die beleuchtete Anlage besonders stimmungsvoll.",
+            "hu": "Élvezze a lágy téli napsütést a Plaza del Arenal téren. Délelőtt az Alcázar falai gyengéd fényben tündökölnek, ideális fotózáshoz a nyári hőség nélkül.\n\nDélben a katedrális belső tere hűvös lehet, de a nap melegíti a San Miguel-templom homlokzatát. A város narancsfái ilyenkor hozzák legszebb terméseiket.\n\nDélután melegedjen fel az óramúzeumban, majd élvezze a Tío Pepe borászat történelmi pincéinek barátságos hangulatát.\n\nA kora este a Lovasiskoláé. Mivel 18:00 körül sötétedik, a kivilágított épületegyüttes különleges látványt nyújt.",
+            "ro": "Bucurați-vă de soarele blând de iarnă în Plaza del Arenal. Dimineața, Alcázar strălucește într-o lumină caldă, ideală pentru fotografii fără canicula verii.\n\nLa prânz, interiorul Catedralei poate fi răcoros, dar soarele încălzește fațada Bisericii San Miguel. Portocalii din oraș sunt plini de fructe coapte acum.\n\nDupă-amiaza, încălziți-vă în Muzeul Ceasurilor, apoi profitați de atmosfera primitoare din beciurile istorice ale Bodegas Tío Pepe.\n\nSeara devreme este dedicată Școlii de Echitație. Deoarece se întunecă în jurul orei 18:00, domeniul iluminat este deosebit de sugestiv.",
+            "en": "Enjoy the mild winter sun at Plaza del Arenal. In the morning, the Alcázar glows in a soft light, perfect for photography without the summer heat.\n\nAt noon, the Cathedral's interior might be chilly, but the sun warms the facade of San Miguel Church. The city's orange trees are now heavy with bright fruit.\n\nWarm up in the Clock Museum during the afternoon, followed by a cozy visit to the historic cellars of Tío Pepe.\n\nEarly evening belongs to the Equestrian School. As it gets dark around 6 PM, the illuminated grounds look particularly atmospheric."
+          },
+          "stops": [
+            {
+              "name": "Plaza del Arenal",
+              "tip_5lang": {
+                "de": "Suchen Sie einen Platz direkt in der Sonne, um die Wärme zu spüren.",
+                "hu": "Keressen egy helyet közvetlenül a napon a kellemes melegért.",
+                "ro": "Căutați un loc direct la soare pentru a simți căldura plăcută.",
+                "en": "Find a spot directly in the sun to feel the pleasant warmth."
+              }
+            },
+            {
+              "name": "Alcázar von Jerez",
+              "tip_5lang": {
+                "de": "Die Gärten sind im Winter weniger überlaufen und sehr friedlich.",
+                "hu": "A kertek télen kevésbé zsúfoltak és nagyon békések.",
+                "ro": "Grădinile sunt mai puțin aglomerate iarna și foarte liniștite.",
+                "en": "The gardens are less crowded in winter and very peaceful."
+              }
+            },
+            {
+              "name": "Kathedrale von Jerez",
+              "tip_5lang": {
+                "de": "In der Kirche ist es kühler als draußen; eine Jacke ist nötig.",
+                "hu": "A templomban hűvösebb van, mint kint; szükség lesz kabátra.",
+                "ro": "În biserică este mai răcoare decât afară; aveți nevoie de jachetă.",
+                "en": "It's cooler inside the church than outside; keep your jacket on."
+              }
+            },
+            {
+              "name": "San Miguel Kirche",
+              "tip_5lang": {
+                "de": "Die Abendsonne beleuchtet das Portal im Winter wunderschön.",
+                "hu": "A téli lemenő nap gyönyörűen megvilágítja a főkaput.",
+                "ro": "Soarele de iarnă luminează superb portalul principal.",
+                "en": "The winter evening sun illuminates the portal beautifully."
+              }
+            },
+            {
+              "name": "Palacio del Tiempo",
+              "tip_5lang": {
+                "de": "Ein hervorragender Rückzugsort, wenn der Wind in den Gassen auffrischt.",
+                "hu": "Kiváló menedék, ha feltámad a szél a szűk utcákban.",
+                "ro": "Un refugiu excelent dacă vântul devine tăios pe străzi.",
+                "en": "An excellent retreat if the wind picks up in the narrow streets."
+              }
+            },
+            {
+              "name": "Bodegas Tío Pepe",
+              "tip_5lang": {
+                "de": "Die konstante Kellertemperatur wirkt im Winter angenehm mild.",
+                "hu": "A pincék állandó hőmérséklete télen kellemesen enyhének hat.",
+                "ro": "Temperatura constantă din crame pare blândă iarna.",
+                "en": "The constant cellar temperature feels pleasantly mild in winter."
+              }
+            },
+            {
+              "name": "Real Escuela Andaluza",
+              "tip_5lang": {
+                "de": "Die Shows sind beliebt; buchen Sie für die Wintersaison vor.",
+                "hu": "A show-k népszerűek; foglaljon előre a téli szezonban is.",
+                "ro": "Spectacolele sunt populare; rezervați din timp chiar și iarna.",
+                "en": "Shows are popular; book in advance even for the winter season."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Zwiebelprinzip bei der Kleidung: Schatten ist kühl, Sonne ist warm.",
+              "Sonnenuntergang ist gegen 18:00 Uhr, planen Sie Fotos vorher ein.",
+              "Probieren Sie heiße Schokolade mit Churros als Winter-Snack.",
+              "Die Orangen an den Bäumen sind Zierfrüchte und sehr sauer."
+            ],
+            "hu": [
+              "Réteges öltözködés: árnyékban hűvös, a napon meleg van.",
+              "A naplemente 18:00 körül van, a fotókat tervezze korábbra.",
+              "Kóstolja meg a forró csokoládét churrosszal, mint téli csemegét.",
+              "A fákon lévő narancsok díszgyümölcsök és nagyon savanyúak."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi: e răcoare la umbră, cald la soare.",
+              "Apusul este în jur de ora 18:00, planificați pozele înainte.",
+              "Gustați ciocolată caldă cu churros ca gustare de iarnă.",
+              "Portocalele din copaci sunt ornamentale și foarte acre."
+            ],
+            "en": [
+              "Dress in layers: it's chilly in the shade but warm in the sun.",
+              "Sunset is around 6 PM; plan your outdoor photos accordingly.",
+              "Try hot chocolate with churros as a classic winter snack.",
+              "The oranges on the trees are ornamental and very sour."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -819,6 +1019,224 @@
           "Always lock the bike properly at any bodega stop.",
           "Sunny squares have little shade, so plan one longer coffee break."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Vorsicht auf dem Rad bei Regen an der Plaza del Arenal. Der Vormittag zum Alcázar erfordert langsame Fahrt auf dem nassen Kopfsteinpflaster.\n\nMittags radeln wir zur Kathedrale und San Miguel. Die Steine können rutschig sein, halten Sie also Abstand.\n\nNachmittags führt uns der Weg zur Cartuja de Jerez. Der Weg dorthin bietet weniger Schutz, also ist gute Regenkleidung Pflicht. Danach geht es zum Uhrenmuseum und zur Bodega.\n\nAbends beenden wir die Tour an der Reitschule. Die Fahrt durch die nassen Straßen spiegelt die Lichter der Stadt wunderschön wider.",
+            "hu": "Óvatosan a biciklivel esőben a Plaza del Arenal környékén. A délelőtti út az Alcázarhoz lassú tempót igényel a vizes macskaköveken.\n\nDélben a katedrálishoz és a San Miguel-templomhoz tekerünk. A kövek csúszósak lehetnek, tartsanak nagyobb követési távolságot.\n\nDélután a Cartuja de Jerez a cél. Ez az útszakasz kevésbé védett, a jó esőkabát kötelező. Ezután jön az óramúzeum és a borászat.\n\nAz estét a Lovasiskolánál zárjuk. A vizes aszfalton megcsillanó városi fények különleges hangulatot adnak a hazaútnak.",
+            "ro": "Atenție pe bicicletă în ploaie lângă Plaza del Arenal. Dimineața spre Alcázar necesită viteză redusă pe pavajul ud.\n\nLa prânz pedalăm spre Catedrală și San Miguel. Pietrele pot fi alunecoase, păstrați distanța de siguranță.\n\nDupă-amiaza ne îndreptăm spre Cartuja de Jerez. Drumul este expus, deci pelerina de ploaie este obligatorie. Urmează Muzeul Ceasurilor și bodega.\n\nSeara încheiem turul la Școala de Echitație. Drumul prin orașul ud reflectă frumos luminile stradale.",
+            "en": "Be careful on the bike in the rain near Plaza del Arenal. The morning ride to the Alcázar requires slow speeds on wet cobblestones.\n\nAt noon, we cycle to the Cathedral and San Miguel. The stones can be slippery, so maintain a safe distance.\n\nAfternoon takes us to Cartuja de Jerez. This stretch is exposed, so good rain gear is a must. Then on to the Clock Museum and the bodega.\n\nFinish the evening at the Equestrian School. Riding through wet streets reflecting the city lights is quite atmospheric."
+          },
+          "stops": [
+            {
+              "name": "Plaza del Arenal",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad unter den Arkaden, während Sie Kaffee trinken.",
+                "hu": "Parkolja a biciklit az árkádok alá, amíg kávézik.",
+                "ro": "Parcați bicicleta sub arcade în timp ce beți cafeaua.",
+                "en": "Park your bike under the arcades while you have coffee."
+              }
+            },
+            {
+              "name": "Alcázar von Jerez",
+              "tip_5lang": {
+                "de": "Der Boden im Innenhof ist bei Nässe sehr glatt.",
+                "hu": "A belső udvar padlója nedvesen nagyon csúszós.",
+                "ro": "Podeaua din curtea interioară este foarte alunecoasă când e udă.",
+                "en": "The floor in the inner courtyard is very slick when wet."
+              }
+            },
+            {
+              "name": "Kathedrale von Jerez",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Fahrradständer in der Nähe des Eingangs.",
+                "hu": "Használja a bejárat közeli kerékpártárolókat.",
+                "ro": "Folosiți rastelele de biciclete de lângă intrare.",
+                "en": "Use the bike racks located near the entrance."
+              }
+            },
+            {
+              "name": "San Miguel Kirche",
+              "tip_5lang": {
+                "de": "Kurzer Stopp, aber achten Sie auf Pfützen in den Gassen.",
+                "hu": "Rövid megálló, de vigyázzon a tócsákra a szűk utcákban.",
+                "ro": "Oprire scurtă, dar atenție la bălțile din străduțe.",
+                "en": "Short stop, but watch out for puddles in the narrow alleys."
+              }
+            },
+            {
+              "name": "Cartuja de Jerez",
+              "tip_5lang": {
+                "de": "Der Weg hierher kann bei starkem Regen matschig sein.",
+                "hu": "Az idevezető út heves esőben sáros lehet.",
+                "ro": "Drumul până aici poate fi noroios în caz de ploaie grea.",
+                "en": "The path here can get muddy during heavy rain."
+              }
+            },
+            {
+              "name": "Palacio del Tiempo",
+              "tip_5lang": {
+                "de": "Sicherer Abstellplatz für Räder vorhanden.",
+                "hu": "Biztonságos kerékpártároló elérhető.",
+                "ro": "Loc de parcare sigur pentru biciclete disponibil.",
+                "en": "Secure bike parking is available on site."
+              }
+            },
+            {
+              "name": "Bodegas Tío Pepe",
+              "tip_5lang": {
+                "de": "Nach der Weinprobe das Rad lieber schieben!",
+                "hu": "A borkóstoló után inkább tolja a biciklit!",
+                "ro": "După degustarea de vin, mai bine împingeți bicicleta!",
+                "en": "After the wine tasting, better walk your bike!"
+              }
+            },
+            {
+              "name": "Real Escuela Andaluza",
+              "tip_5lang": {
+                "de": "Überdachte Stellplätze in der Nähe des Haupteingangs.",
+                "hu": "Fedett tárolók a főbejárat közelében.",
+                "ro": "Locuri de parcare acoperite lângă intrarea principală.",
+                "en": "Covered parking spots near the main entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Bremsen Sie frühzeitig, die Bremswirkung ist bei Nässe verzögert.",
+              "Vermeiden Sie Markierungen auf der Fahrbahn, diese sind extrem rutschig.",
+              "Ein Sattelschutz hält Ihre Hose auch bei Regen trocken.",
+              "Die Cartuja-Strecke ist windanfällig, halten Sie den Lenker fest."
+            ],
+            "hu": [
+              "Fékezzen időben, a fékhatás nedves úton gyengébb.",
+              "Kerülje az útburkolati jeleket, mert rendkívül csúszósak.",
+              "A nyereghuzat szárazon tartja a nadrágját esőben is.",
+              "A Cartuja felé vezető út szeles lehet, fogja erősen a kormányt."
+            ],
+            "ro": [
+              "Frânați din timp, eficiența frânelor scade pe ud.",
+              "Evitați marcajele rutiere, sunt extrem de alunecoase.",
+              "O protecție de șa vă va menține pantalonii uscați.",
+              "Traseul spre Cartuja este expus vântului, țineți bine ghidonul."
+            ],
+            "en": [
+              "Brake early, as stopping distances increase on wet roads.",
+              "Avoid road markings, they become extremely slippery.",
+              "A saddle cover will keep your pants dry during the ride.",
+              "The route to Cartuja is windy; keep a firm grip on the bars."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frische Morgenbrise auf dem Rad an der Plaza del Arenal. Der Vormittag am Alcázar ist bei kühlen Temperaturen und klarer Luft sehr angenehm.\n\nMittags radeln wir durch die Orangen-gesäumten Straßen zur Kathedrale und San Miguel. Die Wintersonne steht tief und blendet manchmal.\n\nNachmittags steht die längere Fahrt zur Cartuja de Jerez an. Die Bewegung hält Sie warm. Danach geht es zum Uhrenmuseum und zur Bodega für eine wohlverdiente Pause.\n\nAbends radeln wir zur Reitschule. Denken Sie an Licht am Fahrrad, da die Dämmerung im Winter früh einsetzt.",
+            "hu": "Friss reggeli szellő a kerékpáron a Plaza del Arenal téren. A délelőtt az Alcázarnál a hűvös időben és tiszta levegőben nagyon kellemes.\n\nDélben a narancsfákkal szegélyezett utcákon tekerünk a katedrálishoz és a San Miguel-templomhoz. A téli nap alacsonyan jár és vakíthat.\n\nDélután jön a hosszabb szakasz a Cartuja de Jerez felé. A mozgás melegen tartja. Ezután az óramúzeum és a borászat következik egy jól megérdemelt pihenőre.\n\nEste a Lovasiskolához tekerünk. Ne feledkezzen meg a világításról, mert télen korán sötétedik.",
+            "ro": "Briză matinală proaspătă pe bicicletă în Plaza del Arenal. Dimineața la Alcázar este plăcută datorită temperaturilor scăzute și aerului curat.\n\nLa prânz pedalăm pe străzile mărginite de portocali spre Catedrală și San Miguel. Soarele de iarnă este jos și poate fi orbitor.\n\nDupă-amiaza urmează segmentul mai lung spre Cartuja de Jerez. Mișcarea vă va ține de cald. Apoi mergem la Muzeul Ceasurilor și la bodegă.\n\nSeara pedalăm spre Școala de Echitație. Nu uitați de lumini, deoarece amurgul vine devreme iarna.",
+            "en": "Fresh morning breeze on the bike at Plaza del Arenal. The morning at the Alcázar is very pleasant with cool temperatures and crisp air.\n\nAt noon, cycle through orange-lined streets to the Cathedral and San Miguel. The winter sun is low and can be blinding at times.\n\nAfternoon features the longer ride to Cartuja de Jerez. The physical activity will keep you warm. Then head to the Clock Museum and the bodega.\n\nFinish the evening at the Equestrian School. Remember your bike lights as it gets dark early in winter."
+          },
+          "stops": [
+            {
+              "name": "Plaza del Arenal",
+              "tip_5lang": {
+                "de": "Handschuhe sind für die erste Fahrt am Morgen ratsam.",
+                "hu": "A reggeli első úthoz tanácsos kesztyűt viselni.",
+                "ro": "Mănușile sunt recomandate pentru prima tură de dimineață.",
+                "en": "Gloves are recommended for the first ride of the morning."
+              }
+            },
+            {
+              "name": "Alcázar von Jerez",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Fahrradparkplatz am Haupteingang.",
+                "hu": "Használja a főbejáratnál lévő kerékpárparkolót.",
+                "ro": "Folosiți parcarea de biciclete de la intrarea principală.",
+                "en": "Use the bicycle parking at the main entrance."
+              }
+            },
+            {
+              "name": "Kathedrale von Jerez",
+              "tip_5lang": {
+                "de": "Die Auffahrt zur Kathedrale bringt den Kreislauf in Schwung.",
+                "hu": "A katedrálishoz vezető emelkedő felpörgeti a vérkeringést.",
+                "ro": "Urcarea spre catedrală vă va pune sângele în mișcare.",
+                "en": "The climb to the cathedral will get your heart rate up."
+              }
+            },
+            {
+              "name": "San Miguel Kirche",
+              "tip_5lang": {
+                "de": "Kurzer Stopp im sonnigen Viertel San Miguel.",
+                "hu": "Rövid megálló San Miguel napsütötte negyedében.",
+                "ro": "Scurtă oprire în cartierul însorit San Miguel.",
+                "en": "Short stop in the sunny San Miguel district."
+              }
+            },
+            {
+              "name": "Cartuja de Jerez",
+              "tip_5lang": {
+                "de": "Ziehen Sie für die Fahrt außerhalb der Stadt eine Windjacke an.",
+                "hu": "A városon kívüli szakaszhoz vegyen fel széldzsekit.",
+                "ro": "Puneți o jachetă anti-vânt pentru drumul în afara orașului.",
+                "en": "Put on a windbreaker for the ride outside the city limits."
+              }
+            },
+            {
+              "name": "Palacio del Tiempo",
+              "tip_5lang": {
+                "de": "Schließen Sie Ihr Rad gut ab, die Gegend ist belebt.",
+                "hu": "Zárja le jól a biciklit, a környék forgalmas.",
+                "ro": "Încuiați bine bicicleta, zona este destul de aglomerată.",
+                "en": "Lock your bike securely as the area is quite busy."
+              }
+            },
+            {
+              "name": "Bodegas Tío Pepe",
+              "tip_5lang": {
+                "de": "Die Besichtigung beinhaltet viel Gehen, Radschuhe prüfen.",
+                "hu": "A látogatás sok gyaloglással jár, ellenőrizze a cipőjét.",
+                "ro": "Vizita implică mult mers pe jos, verificați încălțămintea.",
+                "en": "The tour involves a lot of walking; check your footwear."
+              }
+            },
+            {
+              "name": "Real Escuela Andaluza",
+              "tip_5lang": {
+                "de": "Gute Beleuchtung für den Rückweg in die Stadt nötig.",
+                "hu": "Jó világítás kell a városba való visszatéréshez.",
+                "ro": "Aveți nevoie de lumini bune pentru drumul de întoarcere.",
+                "en": "Good lights are essential for the ride back to town."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie ein Halstuch gegen den kühlen Fahrtwind.",
+              "Die Luftfeuchtigkeit kann morgens die Sitze nass machen.",
+              "Wintersonne im Gesicht genießen, aber Sonnenbrille nicht vergessen.",
+              "Planen Sie die Rückfahrt vor 18:00 Uhr wegen der Dunkelheit."
+            ],
+            "hu": [
+              "Viseljen sálat a hűvös menetszél ellen.",
+              "A reggeli pára miatt a nyereg nedves lehet.",
+              "Élvezze a téli napot, de ne felejtse el a napszemüveget.",
+              "A sötétedés miatt tervezze a visszautat 18:00 előttre."
+            ],
+            "ro": [
+              "Purtați un fular împotriva vântului rece de mișcare.",
+              "Umiditatea de dimineață poate umezi șaua.",
+              "Bucurați-vă de soare, dar nu uitați ochelarii de soare.",
+              "Planificați drumul de întoarcere înainte de 18:00."
+            ],
+            "en": [
+              "Wear a neck gaiter against the cool riding wind.",
+              "Morning humidity can make the bike seats damp.",
+              "Enjoy the winter sun but don't forget your sunglasses.",
+              "Plan your return trip before 6 PM due to early darkness."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1216,6 +1634,206 @@
           "For bodega visits, a fixed time helps before moving on.",
           "In summer, short drives are much easier early in the day."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Bequemer Start im Regen an der Plaza del Arenal mit Parken in der Tiefgarage. Der Vormittag am Alcázar ist nur einen kurzen Sprint vom Auto entfernt.\n\nMittags fahren wir zur Kathedrale und San Miguel. Das Auto bietet den perfekten trockenen Rückzugsort zwischen den Besichtigungen.\n\nNachmittags geht es zum Uhrenmuseum und zur Bodega Tío Pepe. Beide Standorte haben gute Parkmöglichkeiten in der Nähe, sodass Sie kaum nass werden.\n\nAbends besuchen wir die Reitschule. Die beleuchtete Anlage sieht im Regen majestätisch aus, und Sie kommen trocken zur Vorstellung.",
+            "hu": "Kényelmes kezdés esőben a Plaza del Arenal téren, parkolás a mélygarázsban. Az Alcázar csak egy rövid futásra van az autótól.\n\nDélben a katedrálishoz és a San Miguel-templomhoz hajtunk. Az autó tökéletes száraz menedéket nyújt a látnivalók között.\n\nDélután az óramúzeum és a Tío Pepe borászat következik. Mindkét hely közelében jók a parkolási lehetőségek, így alig lesz vizes.\n\nEste a Lovasiskolát látogatjuk meg. A kivilágított épületek fenségesek az esőben, Ön pedig szárazon érkezik az előadásra.",
+            "ro": "Început confortabil pe ploaie în Plaza del Arenal, cu parcare în subteran. Dimineața la Alcázar este la doar un scurt sprint distanță de mașină.\n\nLa prânz conducem spre Catedrală și San Miguel. Mașina oferă refugiul uscat perfect între vizite.\n\nDupă-amiaza mergem la Muzeul Ceasurilor și la bodega Tío Pepe. Ambele locații au parcări bune în apropiere, deci nu vă veți uda aproape deloc.\n\nSeara vizităm Școala de Echitație. Domeniul iluminat arată maiestuos în ploaie, iar dvs. ajungeți uscat la spectacol.",
+            "en": "A comfortable start in the rain at Plaza del Arenal, parking in the underground lot. The morning at the Alcázar is just a short dash from your car.\n\nAt noon, drive to the Cathedral and San Miguel. The car serves as the perfect dry retreat between sightseeing stops.\n\nAfternoon is for the Clock Museum and Tío Pepe Bodega. Both have good parking nearby, so you'll barely get wet.\n\nFinish the evening at the Equestrian School. The illuminated grounds look majestic in the rain, and you'll arrive dry for the performance."
+          },
+          "stops": [
+            {
+              "name": "Plaza del Arenal",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus direkt unter dem Platz.",
+                "hu": "Használja a közvetlenül a tér alatt lévő parkolóházat.",
+                "ro": "Folosiți parcarea subterană direct de sub piață.",
+                "en": "Use the underground parking lot directly beneath the square."
+              }
+            },
+            {
+              "name": "Alcázar von Jerez",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Parkhaus Arenal zum Eingang.",
+                "hu": "Rövid séta az Arenal parkolótól a bejáratig.",
+                "ro": "Scurtă plimbare de la parcarea Arenal până la intrare.",
+                "en": "A short walk from the Arenal parking to the entrance."
+              }
+            },
+            {
+              "name": "Kathedrale von Jerez",
+              "tip_5lang": {
+                "de": "Parken Sie im Parkhaus 'Centro' für kurze Wege.",
+                "hu": "Parkoljon a 'Centro' parkolóházban a rövid utakért.",
+                "ro": "Parcați în parcarea 'Centro' pentru distanțe scurte.",
+                "en": "Park in the 'Centro' garage for the shortest walking distance."
+              }
+            },
+            {
+              "name": "San Miguel Kirche",
+              "tip_5lang": {
+                "de": "Die Gassen sind eng; fahren Sie vorsichtig bei Nässe.",
+                "hu": "Az utcák szűkek; vezessen óvatosan a nedves úton.",
+                "ro": "Străzile sunt înguste; conduceți cu grijă pe carosabil ud.",
+                "en": "The streets are narrow; drive carefully on wet pavement."
+              }
+            },
+            {
+              "name": "Palacio del Tiempo",
+              "tip_5lang": {
+                "de": "Parken in der Nähe des Museums meist problemlos.",
+                "hu": "A parkolás a múzeum közelében általában problémamentes.",
+                "ro": "Parcarea lângă muzeu este de obicei fără probleme.",
+                "en": "Parking near the museum is usually straightforward."
+              }
+            },
+            {
+              "name": "Bodegas Tío Pepe",
+              "tip_5lang": {
+                "de": "Eigener Besucherparkplatz vorhanden, oft überdacht.",
+                "hu": "Saját látogatói parkoló, gyakran fedett.",
+                "ro": "Parcare proprie pentru vizitatori, adesea acoperită.",
+                "en": "Private visitor parking available, often covered."
+              }
+            },
+            {
+              "name": "Real Escuela Andaluza",
+              "tip_5lang": {
+                "de": "Großer Parkplatz direkt vor der Schule.",
+                "hu": "Nagy parkoló közvetlenül az iskola előtt.",
+                "ro": "Parcare mare direct în fața școlii.",
+                "en": "Large parking lot directly in front of the school."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tiefgaragen sind der beste Weg, um trocken ins Zentrum zu kommen.",
+              "Achten Sie auf Einbahnstraßen, die bei Regen schlecht einsehbar sind.",
+              "Die Sicht in den engen Altstadtgassen ist bei Regen eingeschränkt.",
+              "Halten Sie Kleingeld oder eine App für die Parkautomaten bereit."
+            ],
+            "hu": [
+              "A mélygarázsok a legjobb módjai a belváros száraz megközelítésének.",
+              "Figyeljen az egyirányú utcákra, amik esőben rosszabbul látszanak.",
+              "A látási viszonyok a szűk óvárosi utcákban esőben korlátozottak.",
+              "Készítsen be aprót vagy applikációt a parkolóautomatákhoz."
+            ],
+            "ro": [
+              "Parcările subterane sunt cea mai bună cale de a ajunge uscat în centru.",
+              "Atenție la străzile cu sens unic, greu vizibile pe ploaie.",
+              "Vizibilitatea în străduțele înguste este redusă pe timp de ploaie.",
+              "Pregătiți mărunțiș sau o aplicație pentru automatele de parcare."
+            ],
+            "en": [
+              "Underground lots are the best way to reach the center dry.",
+              "Watch out for one-way signs, which are harder to see in the rain.",
+              "Visibility in narrow old town streets is limited during downpours.",
+              "Have coins or a parking app ready for the meters."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Angenehme Fahrt in der Wintersonne zur Plaza del Arenal. Der Vormittag am Alcázar profitiert von den kühlen Temperaturen, die das Sightseeing erleichtern.\n\nMittags besuchen wir die Kathedrale und San Miguel. Die Heizung im Auto sorgt für Komfort zwischen den historischen Stätten.\n\nNachmittags geht es zum Uhrenmuseum und zur Bodega Tío Pepe. Das Licht der tiefstehenden Wintersonne taucht die Stadt in Gold.\n\nAbends fahren wir zur Reitschule. Die Parkplätze sind im Winter leichter zu finden, und die beleuchtete Anlage ist ein glanzvoller Abschluss.",
+            "hu": "Kellemes autózás a téli napsütésben a Plaza del Arenal felé. A délelőtt az Alcázarnál a hűvös időnek köszönhetően kevésbé fárasztó.\n\nDélben meglátogatjuk a katedrálist és a San Miguel-templomot. Az autó fűtése kényelmet biztosít a történelmi helyszínek között.\n\nDélután az óramúzeum és a Tío Pepe borászat következik. Az alacsonyan járó téli nap aranyba öltözteti a várost.\n\nEste a Lovasiskolához hajtunk. Télen könnyebb parkolót találni, a kivilágított épületegyüttes pedig ragyogó zárása a napnak.",
+            "ro": "Călătorie plăcută în soarele de iarnă spre Plaza del Arenal. Dimineața la Alcázar beneficiază de temperaturi scăzute, făcând vizita ușoară.\n\nLa prânz vizităm Catedrala și San Miguel. Căldura din mașină asigură confortul între siturile istorice.\n\nDupă-amiaza mergem la Muzeul Ceasurilor și la bodega Tío Pepe. Lumina soarelui de iarnă scaldă orașul în nuanțe aurii.\n\nSeara conducem spre Școala de Echitație. Parcările sunt mai ușor de găsit iarna, iar domeniul iluminat este un final strălucitor.",
+            "en": "A pleasant drive in the winter sun to Plaza del Arenal. The morning at the Alcázar benefits from cool temperatures, making sightseeing easy.\n\nAt noon, visit the Cathedral and San Miguel. The car's heater ensures comfort between the historic sites.\n\nAfternoon takes you to the Clock Museum and Tío Pepe Bodega. The low winter sun bathes the city in golden light.\n\nFinish the evening at the Equestrian School. Parking is easier to find in winter, and the illuminated grounds offer a brilliant finale."
+          },
+          "stops": [
+            {
+              "name": "Plaza del Arenal",
+              "tip_5lang": {
+                "de": "Lassen Sie das Auto im Schatten stehen, wenn die Sonne stark scheint.",
+                "hu": "Hagyja az autót árnyékban, ha erősen tűz a nap.",
+                "ro": "Lăsați mașina la umbră dacă soarele este puternic.",
+                "en": "Leave the car in the shade if the sun feels strong."
+              }
+            },
+            {
+              "name": "Alcázar von Jerez",
+              "tip_5lang": {
+                "de": "Die Parkhäuser im Zentrum sind im Winter oft leerer.",
+                "hu": "A belvárosi parkolóházak télen gyakran üresebbek.",
+                "ro": "Parcările din centru sunt adesea mai libere iarna.",
+                "en": "Central parking garages are often less crowded in winter."
+              }
+            },
+            {
+              "name": "Kathedrale von Jerez",
+              "tip_5lang": {
+                "de": "Vermeiden Sie die Mittagszeit für die Fahrt durch die engsten Gassen.",
+                "hu": "Kerülje a délidőt a legszűkebb utcákon való áthajtáshoz.",
+                "ro": "Evitați orele prânzului pentru condus prin cele mai strâmte străzi.",
+                "en": "Avoid peak noon hours for driving through the narrowest alleys."
+              }
+            },
+            {
+              "name": "San Miguel Kirche",
+              "tip_5lang": {
+                "de": "Parken am Straßenrand ist hier schwierig, nutzen Sie Parkhäuser.",
+                "hu": "Az utcai parkolás itt nehéz, használjon parkolóházakat.",
+                "ro": "Parcarea pe stradă e dificilă aici, folosiți garajele.",
+                "en": "Street parking is tough here; stick to the parking garages."
+              }
+            },
+            {
+              "name": "Palacio del Tiempo",
+              "tip_5lang": {
+                "de": "Genießen Sie die Klimatisierung im Auto auf dem Weg.",
+                "hu": "Élvezze az autó klímáját/fűtését útközben.",
+                "ro": "Bucurați-vă de climatizarea din mașină pe drum.",
+                "en": "Enjoy the climate control in your car along the way."
+              }
+            },
+            {
+              "name": "Bodegas Tío Pepe",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um den Wind zu vermeiden.",
+                "hu": "Parkoljon közel a bejárathoz, hogy elkerülje a szelet.",
+                "ro": "Parcați aproape de intrare pentru a evita vântul.",
+                "en": "Park close to the entrance to minimize time in the wind."
+              }
+            },
+            {
+              "name": "Real Escuela Andaluza",
+              "tip_5lang": {
+                "de": "Die Anlage ist im Winter gut beleuchtet und sicher.",
+                "hu": "A létesítmény télen jól megvilágított és biztonságos.",
+                "ro": "Domeniul este bine iluminat și sigur iarna.",
+                "en": "The grounds are well-lit and safe during winter evenings."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Parkhäuser 'Arenal' oder 'Centro' als Basis.",
+              "Die Wintersonne kann tief stehen; Sonnenblende prüfen.",
+              "Das Auto ist ein guter Ort, um schwere Winterjacken zwischenzulagern.",
+              "Vermeiden Sie die Rushhour am späten Nachmittag (18-20 Uhr)."
+            ],
+            "hu": [
+              "Használja az 'Arenal' vagy 'Centro' parkolóházakat bázisként.",
+              "A téli nap alacsonyan járhat; ellenőrizze a napellenzőt.",
+              "Az autó jó hely a nehéz télikabátok tárolására a séták között.",
+              "Kerülje a késő délutáni csúcsforgalmat (18-20 óra)."
+            ],
+            "ro": [
+              "Folosiți parcările 'Arenal' sau 'Centro' ca bază.",
+              "Soarele de iarnă poate fi orbitor; verificați parasolarul.",
+              "Mașina este un loc bun pentru a lăsa hainele grele de iarnă.",
+              "Evitați orele de vârf de după-amiază târziu (18-20)."
+            ],
+            "en": [
+              "Use 'Arenal' or 'Centro' parking garages as your main hubs.",
+              "The winter sun can be very low; check your sun visor.",
+              "The car is a great place to store heavy coats between stops.",
+              "Avoid the late afternoon rush hour (6 PM - 8 PM)."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1613,6 +2231,206 @@
           "Keep a fixed time for bodega visits so the return leg still works.",
           "If you run late, drop an intermediate stop rather than a main cluster."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trockener Start an der Plaza del Arenal, die Bushaltestellen haben meist Unterstände. Der Vormittag am Alcázar ist mit den Stadtlinien gut erreichbar.\n\nMittags bringen uns die Busse zur Kathedrale und San Miguel. Nutzen Sie die Wartezeit in den überdachten Haltestellen.\n\nNachmittags geht es zum Uhrenmuseum und zur Bodega Tío Pepe. Die kurzen Wege zwischen Haltestelle und Eingang minimieren den Kontakt mit dem Regen.\n\nAbends fahren wir zur Reitschule. Die öffentlichen Verkehrsmittel sind zuverlässig, und Sie kommen entspannt zur Abendvorstellung.",
+            "hu": "Száraz kezdés a Plaza del Arenal téren, a buszmegállók többnyire fedettek. Az Alcázar a városi vonalakkal könnyen elérhető.\n\nDélben a buszok a katedrálishoz és a San Miguel-templomhoz visznek. Használja ki a várakozási időt a fedett megállókban.\n\nDélután az óramúzeum és a Tío Pepe borászat következik. A megállók és a bejáratok közötti rövid távolság minimalizálja az esővel való érintkezést.\n\nEste a Lovasiskolához utazunk. A tömegközlekedés megbízható, így nyugodtan érkezik az esti előadásra.",
+            "ro": "Început uscat în Plaza del Arenal, stațiile de autobuz au de obicei adăposturi. Dimineața la Alcázar este ușor accesibilă cu liniile urbane.\n\nLa prânz, autobuzele ne duc la Catedrală și San Miguel. Folosiți timpul de așteptare în stațiile acoperite.\n\nDupă-amiaza mergem la Muzeul Ceasurilor și la bodega Tío Pepe. Distanțele scurte dintre stații și intrări minimizează contactul cu ploaia.\n\nSeara mergem la Școala de Echitație. Transportul public este de încredere, iar dvs. ajungeți relaxat la spectacol.",
+            "en": "A dry start at Plaza del Arenal, as bus stops mostly have shelters. The morning at the Alcázar is easily reachable via city lines.\n\nAt noon, buses take us to the Cathedral and San Miguel. Make use of the waiting time in covered stops.\n\nAfternoon visit to the Clock Museum and Tío Pepe Bodega. Short walks from the stops to the entrances minimize rain exposure.\n\nFinish the evening at the Equestrian School. Public transit is reliable, ensuring you arrive relaxed for the performance."
+          },
+          "stops": [
+            {
+              "name": "Plaza del Arenal",
+              "tip_5lang": {
+                "de": "Zentraler Knotenpunkt vieler Buslinien mit Unterständen.",
+                "hu": "Számos buszvonal központi csomópontja fedett várókkal.",
+                "ro": "Nod central pentru multe linii de autobuz cu adăposturi.",
+                "en": "Central hub for many bus lines with sheltered waiting areas."
+              }
+            },
+            {
+              "name": "Alcázar von Jerez",
+              "tip_5lang": {
+                "de": "Haltestellen befinden sich nur wenige Schritte vom Eingang entfernt.",
+                "hu": "A megállók csak néhány lépésre vannak a bejárattól.",
+                "ro": "Stațiile se află la doar câțiva pași de intrare.",
+                "en": "Bus stops are located just a few steps from the entrance."
+              }
+            },
+            {
+              "name": "Kathedrale von Jerez",
+              "tip_5lang": {
+                "de": "Einige Linien halten direkt am Hang unterhalb der Kirche.",
+                "hu": "Néhány vonal közvetlenül a templom alatti domboldalon áll meg.",
+                "ro": "Unele linii opresc chiar pe panta de sub biserică.",
+                "en": "Some lines stop directly on the slope below the church."
+              }
+            },
+            {
+              "name": "San Miguel Kirche",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Linien, die das Viertel San Miguel bedienen.",
+                "hu": "Használja a San Miguel negyedet érintő járatokat.",
+                "ro": "Folosiți liniile care deservesc cartierul San Miguel.",
+                "en": "Use the lines serving the San Miguel neighborhood."
+              }
+            },
+            {
+              "name": "Palacio del Tiempo",
+              "tip_5lang": {
+                "de": "Haltestelle in der Nähe bietet Schutz vor Wind.",
+                "hu": "A közeli megálló védelmet nyújt a szél ellen.",
+                "ro": "Stația din apropiere oferă protecție contra vântului.",
+                "en": "The nearby stop provides good protection from the wind."
+              }
+            },
+            {
+              "name": "Bodegas Tío Pepe",
+              "tip_5lang": {
+                "de": "Die Busfahrt erlaubt eine unbeschwerte Weinprobe.",
+                "hu": "A buszos utazás gondtalan borkóstolást tesz lehetővé.",
+                "ro": "Călătoria cu autobuzul permite o degustare de vin fără griji.",
+                "en": "Taking the bus allows for a worry-free wine tasting."
+              }
+            },
+            {
+              "name": "Real Escuela Andaluza",
+              "tip_5lang": {
+                "de": "Gut beleuchtete Haltestelle direkt gegenüber dem Eingang.",
+                "hu": "Jól kivilágított megálló közvetlenül a bejárattal szemben.",
+                "ro": "Stație bine iluminată chiar vizavi de intrare.",
+                "en": "Well-lit bus stop directly across from the entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Laden Sie die lokale Transit-App für Echtzeit-Infos bei Regen.",
+              "Halten Sie Ihr Ticket oder Handy griffbereit, um im Regen nicht zu suchen.",
+              "Busse können bei Regen voller sein, planen Sie Pufferzeit ein.",
+              "Die Hauptlinien fahren im 15-20 Minuten Takt."
+            ],
+            "hu": [
+              "Töltse le a helyi közlekedési appot a valós idejű infókért.",
+              "Tartsa kéznél a jegyét vagy mobilját, hogy ne az esőben keresgéljen.",
+              "Esőben a buszok zsúfoltabbak lehetnek, számoljon rá időt.",
+              "A főbb vonalak 15-20 percenként közlekednek."
+            ],
+            "ro": [
+              "Descărcați aplicația locală de transport pentru info în timp real.",
+              "Țineți biletul sau telefonul la îndemână pentru a nu căuta prin ploaie.",
+              "Autobuzele pot fi mai aglomerate pe ploaie, planificați timp extra.",
+              "Liniile principale circulă la fiecare 15-20 de minute."
+            ],
+            "en": [
+              "Download the local transit app for real-time updates during rain.",
+              "Keep your ticket or phone ready to avoid searching in the rain.",
+              "Buses can be more crowded when it rains; allow extra time.",
+              "Main lines run every 15-20 minutes."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Start in der Wintersonne an der Plaza del Arenal, die Busse sind angenehm temperiert. Der Vormittag am Alcázar ist stressfrei erreichbar.\n\nMittags nutzen wir die Transitverbindungen zur Kathedrale und San Miguel. Die Stadt ist im Winter ruhiger, was das Reisen entspannter macht.\n\nNachmittags geht es zum Uhrenmuseum und zur Bodega Tío Pepe. Das warme Licht des späten Nachmittags ist aus dem Busfenster besonders schön.\n\nAbends fahren wir zur Reitschule. Die beleuchteten Busse bieten eine gemütliche Rückfahrt in das winterliche Stadtzentrum.",
+            "hu": "Kezdés a téli napsütésben a Plaza del Arenal téren, a buszok kellemes hőmérsékletűek. Az Alcázar stresszmentesen elérhető.\n\nDélben a tömegközlekedést használjuk a katedrálishoz és a San Miguel-templomhoz. A város télen csendesebb, ami nyugodtabbá teszi az utazást.\n\nDélután az óramúzeum és a Tío Pepe borászat következik. A késő délutáni meleg fények a busz ablakából is gyönyörűek.\n\nEste a Lovasiskolához utazunk. A kivilágított buszok hangulatos visszautat biztosítanak a téli belvárosba.",
+            "ro": "Început în soarele de iarnă la Plaza del Arenal, autobuzele au o temperatură plăcută. Dimineața la Alcázar este ușor accesibilă.\n\nLa prânz folosim conexiunile de tranzit spre Catedrală și San Miguel. Orașul este mai liniștit iarna, ceea ce face călătoria relaxantă.\n\nDupă-amiaza mergem la Muzeul Ceasurilor și la bodega Tío Pepe. Lumina caldă a amiezii târzii se vede superb de pe geamul autobuzului.\n\nSeara mergem la Școala de Echitație. Autobuzele luminate oferă o călătorie de întoarcere plăcută spre centrul orașului.",
+            "en": "Start in the winter sun at Plaza del Arenal, with buses at a comfortable temperature. The morning at the Alcázar is easily accessible.\n\nAt noon, use transit connections to reach the Cathedral and San Miguel. The city is quieter in winter, making travel more relaxed.\n\nAfternoon is for the Clock Museum and Tío Pepe Bodega. The warm late-afternoon light looks beautiful through the bus windows.\n\nFinish the evening at the Equestrian School. Illuminated buses provide a cozy ride back to the wintery city center."
+          },
+          "stops": [
+            {
+              "name": "Plaza del Arenal",
+              "tip_5lang": {
+                "de": "Viele Linien starten hier, ideal für einen pünktlichen Beginn.",
+                "hu": "Sok vonal indul innen, ideális a pontos kezdéshez.",
+                "ro": "Multe linii pleacă de aici, ideal pentru un început punctual.",
+                "en": "Many lines originate here, ideal for a punctual start."
+              }
+            },
+            {
+              "name": "Alcázar von Jerez",
+              "tip_5lang": {
+                "de": "Busse halten direkt am Plaza de Monti, sehr nah am Alcázar.",
+                "hu": "A buszok a Plaza de Monti-nál állnak meg, nagyon közel az Alcázarhoz.",
+                "ro": "Autobuzele opresc în Plaza de Monti, foarte aproape de Alcázar.",
+                "en": "Buses stop at Plaza de Monti, very close to the Alcázar."
+              }
+            },
+            {
+              "name": "Kathedrale von Jerez",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Stadt während der Fahrt.",
+                "hu": "Élvezze a városra nyíló kilátást utazás közben.",
+                "ro": "Bucurați-vă de vederea spre oraș în timpul călătoriei.",
+                "en": "Enjoy the views of the city during the bus ride."
+              }
+            },
+            {
+              "name": "San Miguel Kirche",
+              "tip_5lang": {
+                "de": "Die Linien 1, 2 und 3 bedienen den zentralen Bereich.",
+                "hu": "Az 1-es, 2-es és 3-as vonalak szolgálják ki a központi területet.",
+                "ro": "Liniile 1, 2 și 3 deservesc zona centrală.",
+                "en": "Lines 1, 2, and 3 serve the central area."
+              }
+            },
+            {
+              "name": "Palacio del Tiempo",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist gut besucht, sicher auch am Abend.",
+                "hu": "A megálló forgalmas, este is biztonságos.",
+                "ro": "Stația este frecventată, sigură chiar și seara.",
+                "en": "The stop is busy and safe even in the evenings."
+              }
+            },
+            {
+              "name": "Bodegas Tío Pepe",
+              "tip_5lang": {
+                "de": "Der Bus ist die sicherste Wahl nach dem Sherry-Genuss.",
+                "hu": "A busz a legbiztonságosabb választás a sherry élvezete után.",
+                "ro": "Autobuzul este alegerea cea mai sigură după degustarea de sherry.",
+                "en": "The bus is the safest choice after enjoying some local sherry."
+              }
+            },
+            {
+              "name": "Real Escuela Andaluza",
+              "tip_5lang": {
+                "de": "Letzte Busse fahren meist bis Mitternacht.",
+                "hu": "Az utolsó buszok általában éjfélig közlekednek.",
+                "ro": "Ultimele autobuze circulă de obicei până la miezul nopții.",
+                "en": "The last buses usually run until midnight."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse sind im Winter oft angenehm warm geheizt.",
+              "Prüfen Sie die Winterfahrpläne, da es weniger Touristen gibt.",
+              "Die Haltestellen sind gute Orientierungspunkte in der Altstadt.",
+              "Nutzen Sie eine aufladbare 'Bonobús'-Karte für günstigere Fahrten."
+            ],
+            "hu": [
+              "A buszok télen gyakran kellemesen fűtöttek.",
+              "Ellenőrizze a téli menetrendet, mivel kevesebb a turista.",
+              "A megállók jó tájékozódási pontok az óvárosban.",
+              "Használjon feltölthető 'Bonobús' kártyát az olcsóbb utazáshoz."
+            ],
+            "ro": [
+              "Autobuzele sunt adesea încălzite plăcut iarna.",
+              "Verificați orarul de iarnă, sunt mai puțini turiști.",
+              "Stațiile sunt repere bune în centrul istoric.",
+              "Folosiți un card reîncărcabil 'Bonobús' pentru călătorii mai ieftine."
+            ],
+            "en": [
+              "Buses are often pleasantly heated during the winter months.",
+              "Check winter schedules as there are fewer tourist-specific services.",
+              "Bus stops serve as great landmarks in the old town.",
+              "Use a rechargeable 'Bonobús' card for cheaper fares."
+            ]
+          }
+        }
       }
     }
   }

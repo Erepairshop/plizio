@@ -379,6 +379,206 @@
           "An evening walk along the harbor is particularly atmospheric.",
           "Most sights in the center are within easy walking distance."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgen: Start an der überdachten Visbank (1792). Mittags: Besuch des Museums Vlaardingen zur Fischereigeschichte. Nachmittag: Die Grote Kerk und das Rathaus bieten Schutz vor Schauern. Abend: Ein kurzer Spaziergang durch den Oranjepark, bevor es zurückgeht.",
+            "hu": "Reggel: Kezdés az 1792-es Visbank fedett oszlopai alatt. Délben: A Museum Vlaardingen belterei bemutatják a halászmúltat. Délután: A Grote Kerk és a városháza épületei között keresünk menedéket. Este: Rövid séta az esős Oranjeparkban, majd pihenés.",
+            "ro": "Dimineața: Începeți sub acoperișul Visbank (1792). Prânz: Muzeul Vlaardingen oferă adăpost și istorie maritimă. După-amiaza: Grote Kerk și Primăria sunt puncte de refugiu în caz de ploaie. Seara: O plimbare rapidă prin Oranjepark încheie traseul.",
+            "en": "Morning: Start under the shelter of the 1792 Visbank. Noon: Explore the delta history indoors at Museum Vlaardingen. Afternoon: Use the Grote Kerk and City Hall as stops between showers. Evening: A brief walk in Oranjepark before wrapping up the day."
+          },
+          "stops": [
+            {
+              "name": "Start at the historic Visbank (Fish Market)",
+              "tip_5lang": {
+                "de": "Unter den Arkaden der Fischbank bleiben Sie beim Warten trocken.",
+                "hu": "A halpiac oszlopcsarnoka alatt védve marad az esőtől.",
+                "ro": "Rămâneți sub arcadele pieței de pește pentru a evita ploaia.",
+                "en": "Stay under the fish market's colonnade to remain dry while starting."
+              }
+            },
+            {
+              "name": "Westhavenkade",
+              "tip_5lang": {
+                "de": "Die Hafenpromenade ist bei Regen sehr windanfällig; Schirm fest halten.",
+                "hu": "A kikötői sétány esőben szeles; tartsa erősen az esernyőt.",
+                "ro": "Promenada portului este vântoasă pe ploaie; țineți bine umbrela.",
+                "en": "The harbor quay is windy during rain; hold your umbrella firmly."
+              }
+            },
+            {
+              "name": "Museum Vlaardingen",
+              "tip_5lang": {
+                "de": "Idealer Ort, um zwei Stunden im Trockenen über Fischerei zu lernen.",
+                "hu": "Ideális helyszín két óra száraz pihenésre a halászmúlt társaságában.",
+                "ro": "Locul ideal pentru a petrece două ore la adăpost învățând despre pescuit.",
+                "en": "The perfect place to spend two hours dry while learning about fishing."
+              }
+            },
+            {
+              "name": "Grote Kerk (Great Church)",
+              "tip_5lang": {
+                "de": "Bewundern Sie das Interieur, während draußen ein Schauer vorbeizieht.",
+                "hu": "Csodálja meg a belső teret, amíg kint elvonul egy zápor.",
+                "ro": "Admirați interiorul în timp ce afară trece o aversă de ploaie.",
+                "en": "Admire the interior while waiting for a rain shower to pass outside."
+              }
+            },
+            {
+              "name": "Stadhuis Vlaardingen (City Hall)",
+              "tip_5lang": {
+                "de": "Kurzer Aufenthalt am Eingang; die Fassade glänzt bei Regen besonders.",
+                "hu": "Rövid megálló a bejáratnál; a homlokzat esőben különlegesen csillog.",
+                "ro": "Scurt popas la intrare; fațada strălucește sub ploaie.",
+                "en": "Short stop at the entrance; the facade has a unique shine in the rain."
+              }
+            },
+            {
+              "name": "Watertoren Vlaardingen (Water Tower)",
+              "tip_5lang": {
+                "de": "Der Backsteinturm wirkt bei grauem Himmel sehr imposant.",
+                "hu": "A téglaépület a szürke égbolt alatt még monumentálisabbnak hat.",
+                "ro": "Turnul de cărămidă pare mai impunător sub cerul gri.",
+                "en": "The brick tower looks more imposing under a grey, rainy sky."
+              }
+            },
+            {
+              "name": "Oranjepark",
+              "tip_5lang": {
+                "de": "Nutzen Sie die asphaltierten Wege, um Matsch zu vermeiden.",
+                "hu": "Használja az aszfaltozott utakat a sár elkerülése érdekében.",
+                "ro": "Folosiți aleile asfaltate pentru a evita noroiul.",
+                "en": "Stick to the paved paths to avoid mud in the park area."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für die Kopfsteinpflastergassen im Zentrum.",
+              "Die Visbank bietet einen der wenigen historischen Unterstände im Hafenbereich.",
+              "Museum Vlaardingen ist der beste 'Plan B' bei anhaltendem Starkregen.",
+              "Nutzen Sie die Cafés in der Nähe der Grote Kerk für Aufwärmpausen."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a központ macskaköves utcái miatt.",
+              "A Visbank az egyik kevés történelmi menedék a kikötő környékén.",
+              "A Vlaardingen Múzeum a legjobb 'B terv' tartós eső esetén.",
+              "Használja a Grote Kerk környéki kávézókat melegedő szünetekre."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru străzile pietruite din centru.",
+              "Visbank oferă unul dintre puținele adăposturi istorice din zona portului.",
+              "Muzeul Vlaardingen este cel mai bun 'plan B' în caz de ploaie torențială.",
+              "Folosiți cafenelele de lângă Grote Kerk pentru pauze de încălzire."
+            ],
+            "en": [
+              "Wear waterproof shoes for the cobblestone streets in the city center.",
+              "The Visbank provides one of the few historic shelters near the harbor.",
+              "Museum Vlaardingen is the best 'Plan B' for persistent heavy rain.",
+              "Utilize the cafes near Grote Kerk for warming breaks between stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgen: Kalter Wind am Hafen bei der Visbank. Mittags: Das beheizte Museum bietet wohlige Wärme. Nachmittag: Besuch der Grote Kerk vor dem frühen Sonnenuntergang gegen 16:30 Uhr. Abend: Ein frostiger Spaziergang durch den Oranjepark beendet den Tag.",
+            "hu": "Reggel: Hideg szél fúj a kikötőnél a Visbank környékén. Délben: A fűtött múzeum kellemes menedéket nyújt. Délután: A Grote Kerk meglátogatása a korai, 16:30-as naplemente előtt. Este: Fagyos séta az Oranjeparkban a nap zárásaként.",
+            "ro": "Dimineața: Vânt rece în port lângă Visbank. Prânz: Muzeul încălzit oferă un confort termic binevenit. După-amiaza: Vizitați Grote Kerk înainte de apusul devreme de la 16:30. Seara: O plimbare geroasă în Oranjepark încheie ziua.",
+            "en": "Morning: Cold winds bite at the harbor near Visbank. Noon: The heated museum provides welcoming warmth and history. Afternoon: Visit Grote Kerk before the early 4:30 PM sunset. Evening: A frosty walk through Oranjepark concludes the winter itinerary."
+          },
+          "stops": [
+            {
+              "name": "Start at the historic Visbank (Fish Market)",
+              "tip_5lang": {
+                "de": "Ziehen Sie sich warm an; die Nähe zum Wasser macht es hier kälter.",
+                "hu": "Öltözzön melegen; a víz közelsége miatt itt hidegebbnek érződik az idő.",
+                "ro": "Îmbrăcați-vă gros; proximitatea apei face locul mai rece.",
+                "en": "Dress warmly; the proximity to the water makes it feel colder here."
+              }
+            },
+            {
+              "name": "Westhavenkade",
+              "tip_5lang": {
+                "de": "Genießen Sie die winterliche Hafenatmosphäre mit einer Mütze gegen den Wind.",
+                "hu": "Élvezze a téli kikötői hangulatot egy jó meleg sapkában.",
+                "ro": "Bucurați-vă de atmosfera de iarnă din port cu o căciulă groasă.",
+                "en": "Enjoy the wintry harbor atmosphere with a warm hat against the wind."
+              }
+            },
+            {
+              "name": "Museum Vlaardingen",
+              "tip_5lang": {
+                "de": "Perfekt aufgewärmt lässt es sich am besten durch die Ausstellungen schlendern.",
+                "hu": "A jól fűtött termekben a legjobb felfedezni a kiállításokat.",
+                "ro": "Săli bine încălzite, perfecte pentru a explora expozițiile pe îndelete.",
+                "en": "Well-heated rooms make this the best spot to warm up at midday."
+              }
+            },
+            {
+              "name": "Grote Kerk (Great Church)",
+              "tip_5lang": {
+                "de": "Kirchen können im Winter kühl sein; behalten Sie die Jacke an.",
+                "hu": "A templomok télen hűvösek lehetnek; tartsa magán a kabátot.",
+                "ro": "Bisericile pot fi reci iarna; păstrați haina pe dumneavoastră.",
+                "en": "Churches can be chilly in winter; keep your coat on while inside."
+              }
+            },
+            {
+              "name": "Stadhuis Vlaardingen (City Hall)",
+              "tip_5lang": {
+                "de": "Die Abendbeleuchtung fängt hier im Winter sehr früh an.",
+                "hu": "A téli díszkivilágítás itt már nagyon korán felgyullad.",
+                "ro": "Iluminatul de seară începe foarte devreme aici în timpul iernii.",
+                "en": "Evening lighting starts very early here during the winter months."
+              }
+            },
+            {
+              "name": "Watertoren Vlaardingen (Water Tower)",
+              "tip_5lang": {
+                "de": "Ein schönes Fotomotiv in der blauen Stunde gegen 16:00 Uhr.",
+                "hu": "Szép fotótéma a kék órában, délután 4 óra körül.",
+                "ro": "Un subiect foto excelent în ora albastră, în jurul orei 16:00.",
+                "en": "A beautiful photo subject during the blue hour around 4:00 PM."
+              }
+            },
+            {
+              "name": "Oranjepark",
+              "tip_5lang": {
+                "de": "Vorsicht vor rutschigen Stellen auf den Brücken im Park.",
+                "hu": "Vigyázzon a csúszós szakaszokra a park hídjain.",
+                "ro": "Atenție la porțiunile alunecoase de pe podurile din parc.",
+                "en": "Watch out for slippery spots on the park's bridges and walkways."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht bereits gegen 16:30 Uhr unter; planen Sie Fotos früher.",
+              "Warme Getränke gibt es in den Cafés rund um den Veerplein.",
+              "Schichten sind wichtig, da es am Hafen deutlich windiger ist als im Park.",
+              "Museen sind die stabilsten Wärmequellen auf dieser Route."
+            ],
+            "hu": [
+              "A nap már 16:30 körül lemegy; a fotózást korábbra tervezze.",
+              "Meleg italokat a Veerplein környéki kávézókban talál.",
+              "A réteges öltözködés fontos, a kikötőnél sokkal nagyobb a szél.",
+              "A múzeumok a legstabilabb hőforrások ezen az útvonalon."
+            ],
+            "ro": [
+              "Soarele apune deja în jur de 16:30; planificați fotografiile mai devreme.",
+              "Găsiți băuturi calde în cafenelele din jurul Veerplein.",
+              "Îmbrăcămintea în straturi este vitală; în port este mult mai mult vânt.",
+              "Muzeele sunt cele mai stabile surse de căldură de pe acest traseu."
+            ],
+            "en": [
+              "Sunset is already around 4:30 PM; plan your photography earlier.",
+              "Find warm drinks in the cafes surrounding Veerplein.",
+              "Layering is vital as the harbor is much windier than the park area.",
+              "Museums are your most reliable heat sources on this winter route."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -752,6 +952,206 @@
           "Bring a water bottle and snacks, especially for the trip to Broekpolder.",
           "Always lock your bike securely, even for short stops."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgen: Start am Rathaus. Mittags: Kurze Fahrt zur Visbank, dann Schutz im Museum suchen. Nachmittag: Radtour zum Watertoren trotz Nieselregen. Abend: Abschluss im Broekpolder, wo die Natur im Regen besonders frisch duftet.",
+            "hu": "Reggel: Indulás a városházától. Délben: Rövid tekerés a Visbankhoz, majd menekülés a múzeumba. Délután: Biciklizés a Watertoren felé a szemerkélő esőben. Este: Zárás a Broekpolderben, ahol az eső után friss az illat.",
+            "ro": "Dimineața: Pornire de la Primărie. Prânz: Scurtă pedalare spre Visbank, apoi adăpost la muzeu. După-amiaza: Tur cu bicicleta spre Watertoren în ciuda burniței. Seara: Final în Broekpolder, unde natura miroase proaspăt după ploaie.",
+            "en": "Morning: Start at the City Hall. Noon: Quick ride to Visbank, then seek shelter in the museum. Afternoon: Cycle towards Watertoren through the drizzle. Evening: Wrap up in Broekpolder, where the rain brings out fresh nature scents."
+          },
+          "stops": [
+            {
+              "name": "Start at the Stadhuis (City Hall)",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen; das Pflaster kann rutschig sein.",
+                "hu": "Ellenőrizze a fékeket; a burkolat csúszós lehet.",
+                "ro": "Verificați frânele; pavajul poate fi alunecos.",
+                "en": "Check your brakes; the pavement can be slippery when wet."
+              }
+            },
+            {
+              "name": "Grote Kerk",
+              "tip_5lang": {
+                "de": "Fahrradständer sind oft nicht überdacht; Sattelschutz nutzen.",
+                "hu": "A biciklitárolók nem fedettek; használjon nyeregvédőt.",
+                "ro": "Rafturile pentru biciclete nu sunt acoperite; folosiți protecție pt. șa.",
+                "en": "Bike racks are often uncovered; use a saddle cover to keep it dry."
+              }
+            },
+            {
+              "name": "Westhavenkade & Visbank",
+              "tip_5lang": {
+                "de": "Vorsicht beim Überqueren von Schienen im Hafenbereich.",
+                "hu": "Vigyázzon a kikötői síneken való áthaladáskor.",
+                "ro": "Atenție la traversarea șinelor din zona portului.",
+                "en": "Be careful when crossing tracks in the harbor area while wet."
+              }
+            },
+            {
+              "name": "Museum Vlaardingen",
+              "tip_5lang": {
+                "de": "Sicheres Parken für Räder direkt am Museumseingang.",
+                "hu": "Biztonságos bicikliparkoló közvetlenül a múzeum bejáratánál.",
+                "ro": "Parcare sigură pentru biciclete chiar la intrarea în muzeu.",
+                "en": "Safe bike parking is available right at the museum entrance."
+              }
+            },
+            {
+              "name": "Oranjepark",
+              "tip_5lang": {
+                "de": "Halten Sie sich von nassen Wiesen fern; bleiben Sie auf den Wegen.",
+                "hu": "Kerülje a vizes füvet; maradjon a kijelölt utakon.",
+                "ro": "Evitați iarba udă; rămâneți pe potecile marcate.",
+                "en": "Avoid wet grass; stick to the designated cycling paths."
+              }
+            },
+            {
+              "name": "Watertoren Vlaardingen",
+              "tip_5lang": {
+                "de": "Guter kurzer Stopp, bevor es in die Natur geht.",
+                "hu": "Jó rövid megálló, mielőtt kiérne a természetbe.",
+                "ro": "O oprire scurtă bună înainte de a intra în natură.",
+                "en": "A good short stop before heading out into the nature reserve."
+              }
+            },
+            {
+              "name": "Broekpolder",
+              "tip_5lang": {
+                "de": "Einige Wege können schlammig sein; Schutzbleche empfohlen.",
+                "hu": "Néhány út sáros lehet; a sárvédő használata javasolt.",
+                "ro": "Unele poteci pot fi noroioase; se recomandă apărători de noroi.",
+                "en": "Some paths may be muddy; mudguards are highly recommended here."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein Regenponcho ist praktischer als ein Schirm beim Radfahren.",
+              "Vermeiden Sie abrupte Bremsmanöver auf dem nassen Kopfsteinpflaster.",
+              "Nutzen Sie den Visbank-Unterstand für eine kurze Trinkpause.",
+              "Beleuchtung einschalten, da die Sicht bei Regen oft eingeschränkt ist."
+            ],
+            "hu": [
+              "Az esőponcsó praktikusabb, mint az esernyő biciklizés közben.",
+              "Kerülje a hirtelen fékezést a nedves macskaköveken.",
+              "Használja a Visbank fedett részét egy rövid ivószünetre.",
+              "Kapcsolja be a lámpákat, mert esőben gyakran rosszak a látási viszonyok."
+            ],
+            "ro": [
+              "Un poncho de ploaie este mai practic decât o umbrelă pe bicicletă.",
+              "Evitați frânările bruște pe pavajul umed.",
+              "Folosiți adăpostul Visbank pentru o scurtă pauză de hidratare.",
+              "Aprindeți luminile, deoarece vizibilitatea este redusă pe ploaie."
+            ],
+            "en": [
+              "A rain poncho is more practical than an umbrella while cycling.",
+              "Avoid abrupt braking on wet cobblestones in the center.",
+              "Use the Visbank shelter for a quick hydration break out of the rain.",
+              "Turn on your lights as visibility is often poor during rain showers."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgen: Kalte Brise am Rathaus. Mittags: Radtour zum Museum zum Aufwärmen. Nachmittag: Fahrt durch den frostigen Oranjepark zum Watertoren. Abend: Mutige Tour durch den Broekpolder, wo die Landschaft im Winterlicht glänzt.",
+            "hu": "Reggel: Hideg szél a városházánál. Délben: Teherés a múzeumba melegedni. Délután: Gurulás a fagyos Oranjeparkon át a Watertoren felé. Este: Bátor túra a Broekpolderben, ahol a táj szikrázik a téli fényben.",
+            "ro": "Dimineața: Adiere rece la Primărie. Prânz: Pedalare spre muzeu pentru încălzire. După-amiaza: Trecere prin Oranjepark-ul înghețat spre Watertoren. Seara: Tur curajos prin Broekpolder, unde peisajul sclipește în lumina iernii.",
+            "en": "Morning: Cold breeze at City Hall. Noon: Cycle to the museum to warm up. Afternoon: Ride through the frosty Oranjepark towards Watertoren. Evening: A brave tour of Broekpolder, where the landscape sparkles in winter light."
+          },
+          "stops": [
+            {
+              "name": "Start at the Stadhuis (City Hall)",
+              "tip_5lang": {
+                "de": "Handschuhe sind bei den Temperaturen auf dem Rad Pflicht.",
+                "hu": "Ilyen hőmérséklet mellett a kesztyű kötelező a biciklin.",
+                "ro": "Mănușile sunt obligatorii pe bicicletă la aceste temperaturi.",
+                "en": "Gloves are mandatory at these temperatures while cycling."
+              }
+            },
+            {
+              "name": "Grote Kerk",
+              "tip_5lang": {
+                "de": "Passen Sie auf Eisplatten im Schatten der Kirche auf.",
+                "hu": "Vigyázzon a jégfoltokra a templom árnyékában.",
+                "ro": "Atenție la petele de gheață din umbra bisericii.",
+                "en": "Watch out for patches of ice in the shadow of the church."
+              }
+            },
+            {
+              "name": "Westhavenkade & Visbank",
+              "tip_5lang": {
+                "de": "Der Wind vom Wasser kann die gefühlte Temperatur senken.",
+                "hu": "A víz felől fújó szél jelentősen csökkentheti a hőérzetet.",
+                "ro": "Vântul de pe apă poate scădea semnificativ temperatura resimțită.",
+                "en": "The wind coming off the water can lower the perceived temperature."
+              }
+            },
+            {
+              "name": "Museum Vlaardingen",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Finger wieder aufzuwärmen.",
+                "hu": "Ideális hely az ujjak átmelegítésére.",
+                "ro": "Un loc ideal pentru a vă reîncălzi degetele.",
+                "en": "An ideal location to get your fingers warm again."
+              }
+            },
+            {
+              "name": "Oranjepark",
+              "tip_5lang": {
+                "de": "Die Wege können bei Reif sehr glatt sein.",
+                "hu": "A utak zúzmara esetén nagyon csúszósak lehetnek.",
+                "ro": "Potecile pot fi foarte alunecoase în caz de chiciură.",
+                "en": "Paths can be very slippery if there is frost or rime."
+              }
+            },
+            {
+              "name": "Watertoren Vlaardingen",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp; halten Sie die Fahrtzeit im Freien kurz.",
+                "hu": "Rövid fotómegálló; tartsa röviden a kinti tartózkodást.",
+                "ro": "Oprire scurtă pt. foto; limitați timpul petrecut în exterior.",
+                "en": "Short photo stop; keep your time spent outdoors brief."
+              }
+            },
+            {
+              "name": "Broekpolder",
+              "tip_5lang": {
+                "de": "Wunderschöne Winterlandschaft, aber sehr exponiert und windig.",
+                "hu": "Gyönyörű téli táj, de nagyon nyitott és szeles.",
+                "ro": "Peisaj de iarnă superb, dar foarte expus și vântos.",
+                "en": "Beautiful winter landscape, but very exposed and windy."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Kleidung, besonders für den Broekpolder.",
+              "Prüfen Sie den Reifendruck; etwas weniger Grip hilft bei Glätte.",
+              "Die Route ist im Winter sehr einsam, genießen Sie die Ruhe.",
+              "Rücklicht auch tagsüber für bessere Sichtbarkeit nutzen."
+            ],
+            "hu": [
+              "Viseljen szélálló ruházatot, különösen a Broekpoldernél.",
+              "Ellenőrizze a guminyomást; a kicsit kisebb nyomás segít a tapadásban.",
+              "Az útvonal télen nagyon csendes, élvezze a nyugalmat.",
+              "Használja a hátsó lámpát nappal is a jobb láthatóságért."
+            ],
+            "ro": [
+              "Purtați haine rezistente la vânt, în special pentru Broekpolder.",
+              "Verificați presiunea pneurilor; o aderență mai bună ajută pe polei.",
+              "Traseul este foarte liniștit iarna, bucurați-vă de calm.",
+              "Folosiți lumina din spate și ziua pentru o vizibilitate mai bună."
+            ],
+            "en": [
+              "Wear windproof clothing, especially for the Broekpolder area.",
+              "Check tire pressure; slightly lower pressure helps with grip on ice.",
+              "The route is very quiet in winter; enjoy the peaceful atmosphere.",
+              "Use your rear light even during the day for better visibility."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1131,6 +1531,206 @@
           "The car is best for reaching the more distant nature areas like Broekpolder.",
           "Do not leave valuables visible in the car."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgen: Fahrt zum Broekpolder, Natur aus dem Auto genießen. Mittags: Kurze Wege zwischen Oranjepark und Watertoren. Nachmittag: Parken in der Nähe des Museums, um trocken zu bleiben. Abend: Abschluss am Hafen bei der Westhavenkade.",
+            "hu": "Reggel: Autózás a Broekpolderhez, a természet élvezete a kocsiból. Délben: Rövid utak az Oranjepark és a Watertoren között. Délután: Parkolás a múzeum közelében, hogy szárazon maradjunk. Este: Zárás a kikötőben, a Westhavenkadenál.",
+            "ro": "Dimineața: Conducerea spre Broekpolder, bucurați-vă de natură din mașină. Prânz: Drumuri scurte între Oranjepark și Watertoren. După-amiaza: Parcare lângă muzeu pentru a rămâne uscat. Seara: Final în port, la Westhavenkade.",
+            "en": "Morning: Drive to Broekpolder, enjoy nature from the car. Noon: Short trips between Oranjepark and Watertoren. Afternoon: Park near the museum to stay dry. Evening: Wrap up at the harbor near Westhavenkade."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Park & Explore Broekpolder",
+              "tip_5lang": {
+                "de": "Parken Sie auf befestigten Flächen, um nicht im Schlamm zu stecken.",
+                "hu": "Parkoljon szilárd burkolaton, hogy ne ragadjon a sárba.",
+                "ro": "Parcați pe suprafețe consolidate pentru a nu rămâne în noroi.",
+                "en": "Park on paved areas to avoid getting stuck in the mud."
+              }
+            },
+            {
+              "name": "Cluster 2: Drive to Center, Park at Oranjepark",
+              "tip_5lang": {
+                "de": "Nutzen Sie Parkplätze mit direktem Weg zum Parkeingang.",
+                "hu": "Használja a park bejáratához legközelebbi parkolóhelyeket.",
+                "ro": "Folosiți locurile de parcare cu acces direct spre intrarea în parc.",
+                "en": "Use parking spots with direct access to the park entrance."
+              }
+            },
+            {
+              "name": "Watertoren Vlaardingen",
+              "tip_5lang": {
+                "de": "Vom Fenster aus hat man einen tollen Blick auf den Turm.",
+                "hu": "Az ablakból nagyszerű kilátás nyílik a toronyra.",
+                "ro": "De la fereastră aveți o vedere excelentă asupra turnului.",
+                "en": "You get a great view of the tower right from your car window."
+              }
+            },
+            {
+              "name": "City Hall & Great Church",
+              "tip_5lang": {
+                "de": "Parkhäuser im Zentrum bieten Schutz beim Aussteigen.",
+                "hu": "A belvárosi parkolóházak védelmet nyújtanak kiszálláskor.",
+                "ro": "Parcările etajate din centru oferă protecție la coborâre.",
+                "en": "Central parking garages provide shelter when getting out of the car."
+              }
+            },
+            {
+              "name": "Museum Vlaardingen",
+              "tip_5lang": {
+                "de": "Lassen Sie die Schirme im Auto, wenn Sie nah am Eingang parken.",
+                "hu": "Hagyja az ernyőket a kocsiban, ha közel parkol a bejárathoz.",
+                "ro": "Lăsați umbrelele în mașină dacă parcați aproape de intrare.",
+                "en": "Leave umbrellas in the car if you find a spot close to the entrance."
+              }
+            },
+            {
+              "name": "Westhavenkade",
+              "tip_5lang": {
+                "de": "Die Hafenpromenade ist bei Regen stimmungsvoll beleuchtet.",
+                "hu": "A kikötői sétány esőben hangulatosan van kivilágítva.",
+                "ro": "Promenada portului este iluminată atmosferic pe ploaie.",
+                "en": "The harbor promenade is atmospherically lit during rain."
+              }
+            },
+            {
+              "name": "Visbank",
+              "tip_5lang": {
+                "de": "Kurzer Stopp; achten Sie auf Einbahnstraßen im Hafen.",
+                "hu": "Rövid megálló; ügyeljen az egyirányú utcákra a kikötőben.",
+                "ro": "Oprire scurtă; atenție la străzile cu sens unic din port.",
+                "en": "Short stop; watch out for one-way streets in the harbor area."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie das Parkhaus 'Liesveld' für zentralen, trockenen Zugang.",
+              "Achten Sie auf Pfützen in der Nähe der Westhavenkade.",
+              "Das Auto dient als perfekter mobiler Unterstand zwischen den Sehenswürdigkeiten.",
+              "Scheibenwischer vor dem Verlassen des Broekpolder prüfen."
+            ],
+            "hu": [
+              "Használja a 'Liesveld' parkolóházat a központi, száraz bejutáshoz.",
+              "Ügyeljen a tócsákra a Westhavenkade környékén.",
+              "Az autó tökéletes mobil menedékként szolgál a látnivalók között.",
+              "Ellenőrizze az ablaktörlőket, mielőtt elindul a Broekpoldertől."
+            ],
+            "ro": [
+              "Folosiți parcarea 'Liesveld' pentru acces central și uscat.",
+              "Atenție la bălțile din apropierea Westhavenkade.",
+              "Mașina servește ca adăpost mobil perfect între obiective.",
+              "Verificați ștergătoarele înainte de a pleca de la Broekpolder."
+            ],
+            "en": [
+              "Use the 'Liesveld' parking garage for central, dry access.",
+              "Watch out for large puddles near the Westhavenkade area.",
+              "The car serves as a perfect mobile shelter between sights.",
+              "Check windshield wipers before leaving the Broekpolder area."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgen: Fahrt durch den nebligen Broekpolder. Mittags: Aufwärmpause im Auto auf dem Weg zum Oranjepark. Nachmittag: Besuch des Museums und der historischen Altstadt. Abend: Blick auf die beleuchtete Hafenmole bei der Westhavenkade.",
+            "hu": "Reggel: Autózás a ködös Broekpolderben. Délben: Melegedés a kocsiban az Oranjepark felé menet. Délután: A múzeum és a történelmi óváros meglátogatása. Este: Kilátás a kivilágított kikötőre a Westhavenkadenál.",
+            "ro": "Dimineața: Conducere prin Broekpolder-ul cețos. Prânz: Pauză de încălzire în mașină spre Oranjepark. După-amiaza: Vizitarea muzeului și a centrului istoric. Seara: Vedere spre portul iluminat la Westhavenkade.",
+            "en": "Morning: Drive through the misty Broekpolder. Noon: Warm-up break in the car on the way to Oranjepark. Afternoon: Visit the museum and the historic old town. Evening: View the illuminated harbor at Westhavenkade."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Park & Explore Broekpolder",
+              "tip_5lang": {
+                "de": "Die Parkplätze können morgens glatt sein.",
+                "hu": "A parkolók reggelente csúszósak lehetnek.",
+                "ro": "Parcările pot fi alunecoase dimineața.",
+                "en": "Parking lots can be slippery in the early morning hours."
+              }
+            },
+            {
+              "name": "Cluster 2: Drive to Center, Park at Oranjepark",
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor nicht unnötig im Stand laufen.",
+                "hu": "Ne járassa feleslegesen a motort álló helyzetben.",
+                "ro": "Nu lăsați motorul pornit inutil în staționare.",
+                "en": "Do not leave the engine idling unnecessarily while parked."
+              }
+            },
+            {
+              "name": "Watertoren Vlaardingen",
+              "tip_5lang": {
+                "de": "Ein schöner Anblick im winterlichen Dämmerlicht.",
+                "hu": "Szép látvány a téli szürkületben.",
+                "ro": "O priveliște frumoasă în amurgul de iarnă.",
+                "en": "A beautiful sight in the wintry twilight."
+              }
+            },
+            {
+              "name": "City Hall & Great Church",
+              "tip_5lang": {
+                "de": "Die historischen Gebäude sind abends festlich beleuchtet.",
+                "hu": "A történelmi épületek este ünnepi kivilágítást kapnak.",
+                "ro": "Clădirile istorice sunt iluminate festiv seara.",
+                "en": "The historic buildings are festively lit in the evenings."
+              }
+            },
+            {
+              "name": "Museum Vlaardingen",
+              "tip_5lang": {
+                "de": "Genießen Sie den Komfort eines vorgewärmten Autos nach dem Besuch.",
+                "hu": "Élvezze az előmelegített autó kényelmét a látogatás után.",
+                "ro": "Bucurați-vă de confortul unei mașini preîncălzite după vizită.",
+                "en": "Enjoy the comfort of a pre-warmed car after your museum visit."
+              }
+            },
+            {
+              "name": "Westhavenkade",
+              "tip_5lang": {
+                "de": "Parken Sie mit Blick auf den Hafen für ein gemütliches Panorama.",
+                "hu": "Parkoljon a kikötőre néző helyen a hangulatos panorámáért.",
+                "ro": "Parcați cu vedere la port pentru o panoramă primitoare.",
+                "en": "Park with a view of the harbor for a cozy winter panorama."
+              }
+            },
+            {
+              "name": "Visbank",
+              "tip_5lang": {
+                "de": "Kurzer Stopp; die Straßenbeleuchtung ist hier sehr klassisch.",
+                "hu": "Rövid megálló; az utcai világítás itt nagyon klasszikus.",
+                "ro": "Oprire scurtă; iluminatul stradal este foarte clasic aici.",
+                "en": "Short stop; the street lighting here is very classic."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Frostschutz in der Scheibenwaschanlage.",
+              "Vorsicht bei Glätte auf den kleinen Brücken im Stadtgebiet.",
+              "Nutzen Sie Sitzheizung für kurze Fahrten zwischen den POIs.",
+              "Die Sonne geht früh unter, das Stadtlicht ist ab 17 Uhr am schönsten."
+            ],
+            "hu": [
+              "Ellenőrizze a fagyállót a szélvédőmosóban.",
+              "Vigyázzon a csúszós kis hidakra a város területén.",
+              "Használja az ülésfűtést a látnivalók közötti rövid utakon.",
+              "A nap korán lemegy, a városi fények 17 órától a legszebbek."
+            ],
+            "ro": [
+              "Verificați antigelul din instalația de spălare a parbrizului.",
+              "Atenție la poleiul de pe podurile mici din oraș.",
+              "Folosiți încălzirea în scaune pentru drumurile scurte.",
+              "Soarele apune devreme, luminile orașului sunt superbe de la ora 17."
+            ],
+            "en": [
+              "Check the anti-freeze in your windshield washer fluid.",
+              "Be careful of ice on the small bridges within the city area.",
+              "Use seat heating for short drives between the points of interest.",
+              "Sunset is early; city lights are most beautiful after 5 PM."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1486,6 +2086,188 @@
           "Keep small change ready for bus tickets if not buying in advance.",
           "Most buses have screens showing the next stops."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgen: Ankunft am Bahnhof Vlaardingen Centrum. Mittags: Kurze Wege im Stadtkern zwischen Kirche und Rathaus. Nachmittag: Busfahrt zum Oranjepark, um Regenpausen zu nutzen. Abend: Rückkehr zum Bahnhof und Abschluss der Tour.",
+            "hu": "Reggel: Érkezés a Vlaardingen Centrum vasútállomásra. Délben: Rövid utak a városmagban a templom és a városháza között. Délután: Buszozás az Oranjeparkhoz az esőszünetek kihasználásával. Este: Visszatérés az állomásra és a túra zárása.",
+            "ro": "Dimineața: Sosire la stația Vlaardingen Centrum. Prânz: Trasee scurte în centrul orașului între biserică și primărie. După-amiaza: Călătorie cu autobuzul spre Oranjepark. Seara: Revenire la stație și încheierea turului.",
+            "en": "Morning: Arrive at Vlaardingen Centrum station. Noon: Short walks in the city core between the church and City Hall. Afternoon: Bus ride to Oranjepark, timed with rain breaks. Evening: Return to the station to wrap up the day."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Arrive at Vlaardingen Centrum station",
+              "tip_5lang": {
+                "de": "Der Bahnsteig ist teilweise überdacht; warten Sie im Schutz.",
+                "hu": "A peron részben fedett; várjon a védett részen.",
+                "ro": "Peronul este parțial acoperit; așteptați la adăpost.",
+                "en": "The platform is partially covered; wait under the shelter."
+              }
+            },
+            {
+              "name": "Grote Kerk & City Hall",
+              "tip_5lang": {
+                "de": "Nur wenige Gehminuten vom Bahnhof entfernt.",
+                "hu": "Csak pár perc séta a vasútállomástól.",
+                "ro": "La doar câteva minute de mers pe jos de gară.",
+                "en": "Only a few minutes' walk from the train station."
+              }
+            },
+            {
+              "name": "Visbank & Westhavenkade",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Visbank als Sammelpunkt bei Schauern.",
+                "hu": "Használja a Visbankot gyülekezőhelyként záporok idején.",
+                "ro": "Folosiți Visbank ca punct de adunare în timpul averselor.",
+                "en": "Use the Visbank as a meeting point during rain showers."
+              }
+            },
+            {
+              "name": "Museum Vlaardingen",
+              "tip_5lang": {
+                "de": "Gute Anbindung an lokale Buslinien in der Nähe.",
+                "hu": "Jó összeköttetés a közeli helyi buszjáratokkal.",
+                "ro": "Conexiuni bune cu liniile de autobuz locale din apropiere.",
+                "en": "Good connections to local bus lines are available nearby."
+              }
+            },
+            {
+              "name": "Cluster 2: Bus to Oranjepark",
+              "tip_5lang": {
+                "de": "Warten Sie im Buswartehäuschen, um trocken zu bleiben.",
+                "hu": "Várjon a buszváróban, hogy száraz maradjon.",
+                "ro": "Așteptați în stația de autobuz pentru a rămâne uscat.",
+                "en": "Wait inside the bus shelter to stay dry while waiting."
+              }
+            },
+            {
+              "name": "Return to Center & Wrap-up",
+              "tip_5lang": {
+                "de": "Die Züge fahren regelmäßig nach Rotterdam und Hoek van Holland.",
+                "hu": "A vonatok rendszeresen járnak Rotterdam és Hoek van Holland felé.",
+                "ro": "Trenurile circulă regulat spre Rotterdam și Hoek van Holland.",
+                "en": "Trains run regularly towards Rotterdam and Hoek van Holland."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die RET-App zeigt Echtzeit-Abfahrten bei Verspätungen durch Wetter.",
+              "Bahnhöfe bieten meist bessere Unterstände als einfache Bushaltestellen.",
+              "Ein wasserfester Rucksack schützt Ihre Wertsachen beim Umsteigen.",
+              "Vermeiden Sie die Rushhour, um Sitzplätze im Trockenen zu bekommen."
+            ],
+            "hu": [
+              "Az RET alkalmazás valós idejű indulásokat mutat időjárási késések esetén.",
+              "A vasútállomások általában jobb menedéket nyújtanak, mint a buszmegállók.",
+              "Vízálló hátizsák védi értékeit az átszállások során.",
+              "Kerülje a csúcsidőt, hogy biztosan legyen ülőhelye a szárazon."
+            ],
+            "ro": [
+              "Aplicația RET arată plecările în timp real în caz de întârzieri meteo.",
+              "Gările oferă de obicei adăposturi mai bune decât stațiile de autobuz.",
+              "Un rucsac impermeabil vă protejează bunurile la transferuri.",
+              "Evitați orele de vârf pentru a găsi locuri pe scaun la adăpost."
+            ],
+            "en": [
+              "The RET app shows real-time departures during weather-related delays.",
+              "Train stations usually offer better shelter than simple bus stops.",
+              "A waterproof backpack protects your valuables during transfers.",
+              "Avoid rush hour to ensure you find a dry seat on public transport."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgen: Ankunft im frostigen Vlaardingen. Mittags: Stadtbesichtigung mit Aufwärmpausen in Geschäften. Nachmittag: Busfahrt zum Oranjepark, bevor die Dunkelheit einsetzt. Abend: Gemütliche Rückfahrt mit der Bahn im beheizten Waggon.",
+            "hu": "Reggel: Érkezés a fagyos Vlaardingenbe. Délben: Városnézés melegedő szünetekkel az üzletekben. Délután: Buszozás az Oranjeparkhoz a sötétedés beállta előtt. Este: Kellemes hazautazás a fűtött vasúti kocsiban.",
+            "ro": "Dimineața: Sosire în Vlaardingen-ul înghețat. Prânz: Vizitarea orașului cu pauze de încălzire în magazine. După-amiaza: Călătorie cu autobuzul spre Oranjepark înainte de lăsarea întunericului. Seara: Revenire confortabilă cu trenul în vagon încălzit.",
+            "en": "Morning: Arrive in frosty Vlaardingen. Noon: Sightseeing with warming breaks in local shops. Afternoon: Bus ride to Oranjepark before darkness sets in. Evening: Comfortable return journey in a heated train carriage."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Arrive at Vlaardingen Centrum station",
+              "tip_5lang": {
+                "de": "Der Bahnhof ist offen und windig; warten Sie im Windschatten.",
+                "hu": "Az állomás nyitott és szeles; várjon a szélvédett részen.",
+                "ro": "Gara este deschisă și vântoasă; așteptați ferit de vânt.",
+                "en": "The station is open and windy; wait in a sheltered spot."
+              }
+            },
+            {
+              "name": "Grote Kerk & City Hall",
+              "tip_5lang": {
+                "de": "Die Wege im Zentrum werden meist gut von Eis befreit.",
+                "hu": "A központban az utakat általában jól letakarítják a jégtől.",
+                "ro": "Drumurile din centru sunt de obicei bine curățate de gheață.",
+                "en": "The paths in the center are usually well-cleared of ice."
+              }
+            },
+            {
+              "name": "Visbank & Westhavenkade",
+              "tip_5lang": {
+                "de": "Winterliche Brise vom Wasser; Schal nicht vergessen.",
+                "hu": "Téli szellő a víz felől; ne felejtse el a sálat.",
+                "ro": "Adiere de iarnă de pe apă; nu uitați eșarfa.",
+                "en": "Wintry breeze coming from the water; don't forget your scarf."
+              }
+            },
+            {
+              "name": "Museum Vlaardingen",
+              "tip_5lang": {
+                "de": "Ein kurzer Fußweg vom Hafen, ideal zum Aufwärmen.",
+                "hu": "Rövid séta a kikötőtől, ideális a felmelegedéshez.",
+                "ro": "O scurtă plimbare de la port, ideală pentru încălzire.",
+                "en": "A short walk from the harbor, ideal for warming up indoors."
+              }
+            },
+            {
+              "name": "Cluster 2: Bus to Oranjepark",
+              "tip_5lang": {
+                "de": "Busse sind im Winter meist gut beheizt.",
+                "hu": "A buszok télen általában jól fűtöttek.",
+                "ro": "Autobuzele sunt de obicei bine încălzite iarna.",
+                "en": "Buses are usually well-heated during the winter months."
+              }
+            },
+            {
+              "name": "Return to Center & Wrap-up",
+              "tip_5lang": {
+                "de": "Prüfen Sie die letzte Abfahrt, falls Sie länger bleiben.",
+                "hu": "Ellenőrizze az utolsó járatot, ha tovább maradna.",
+                "ro": "Verificați ultima plecare dacă rămâneți mai mult.",
+                "en": "Check the last departure time if you decide to stay late."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Züge und Busse sind die besten Orte zum Aufwärmen zwischen Zielen.",
+              "Tragen Sie griffige Schuhe für den Umstieg an glatten Bahnsteigen.",
+              "Die Sonne geht früh unter, nutzen Sie das Tageslicht bis 16 Uhr.",
+              "Ein Heißgetränk am Bahnhof verkürzt die Wartezeit."
+            ],
+            "hu": [
+              "A vonatok és buszok a legjobb helyek a melegedésre a célpontok között.",
+              "Viseljen tapadós talpú cipőt a csúszós peronokon való átszálláshoz.",
+              "A nap korán lemegy, használja ki a nappali fényt 16 óráig.",
+              "Egy forró ital az állomáson lerövidíti a várakozási időt."
+            ],
+            "ro": [
+              "Trenurile și autobuzele sunt cele mai bune locuri pt. încălzire.",
+              "Purtați pantofi cu aderență pentru transferurile pe peroane alunecoase.",
+              "Soarele apune devreme, profitați de lumină până la ora 16.",
+              "O băutură caldă la gară scurtează timpul de așteptare."
+            ],
+            "en": [
+              "Trains and buses are the best places to warm up between destinations.",
+              "Wear shoes with good grip for transfers on slippery platforms.",
+              "Sunset is early; utilize the available daylight until 4 PM.",
+              "A hot drink at the station makes the waiting time more pleasant."
+            ]
+          }
+        }
       }
     }
   }

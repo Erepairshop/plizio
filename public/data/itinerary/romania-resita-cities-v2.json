@@ -306,6 +306,196 @@
           "Bring a bottle of water, especially for the climb to the cross.",
           "Check the opening hours of the museums in advance."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen in Reschitza beginnt im Tricolorului-Park, wo die Industriekulisse im Nebel verschwindet. Mittags bietet das Museum des Banater Berglands einen trockenen Rückzugsort voller Geschichte. Nachmittags bestaunen wir die Dampflokomotiven, deren schwarzer Stahl im Regen glänzt. Der Tag endet mit einem atmosphärischen, leicht verhangenen Blick vom Golului-Hügel.",
+            "hu": "Esős reggel Resicabányán a Tricolorului parkban, ahol a párás levegőben sejtelmesen festenek a gyárak. Délben a Bánáti Hegyvidéki Múzeum nyújt száraz menedéket és gazdag tárlatot. Délután a szabadtéri mozdonyok között sétálunk, melyek vizesen még impozánsabbak. A napot a Golului-domb tetején zárjuk, ahonnan a felhők közül nézünk le a városra.",
+            "ro": "O dimineață ploioasă în Reșița începe în Parcul Tricolorului, unde peisajul industrial capătă nuanțe melancolice. La prânz, Muzeul Banatului Montan oferă un refugiu cald și lecții de istorie. După-amiază explorăm muzeul de locomotive, al căror oțel strălucește sub ploaie. Seara se încheie cu o panoramă atmosferică, învăluită în ceață, de pe Dealul Golului.",
+            "en": "A rainy morning in Reșița starts in Tricolorului Park, with the industrial skyline softened by the mist. By noon, the Banat Montan Museum provides a dry sanctuary and a deep dive into local heritage. The afternoon is spent among the steam locomotives, their black steel glistening in the rain. The day ends with an atmospheric, cloudy view from the top of Golului Hill."
+          },
+          "stops": [
+            {
+              "name": "Tricolorului Park",
+              "tip_5lang": {
+                "de": "Pflasterwege nutzen, um Matsch zu vermeiden; Schirme beim Denkmal aufspannen.",
+                "hu": "Maradjon a burkolt utakon a sár elkerülése végett; az emlékműnél ernyő javasolt.",
+                "ro": "Rămâneți pe aleile pavate pentru a evita noroiul; folosiți umbrela lângă monument.",
+                "en": "Stick to paved paths to avoid mud; keep your umbrella handy near the monument."
+              }
+            },
+            {
+              "name": "Reșița City Hall",
+              "tip_5lang": {
+                "de": "Kurzer Stopp unter den Vordächern der umliegenden Gebäude möglich.",
+                "hu": "Rövid megálló a környező épületek ereszaljai alatt a szárazabb nézelődésért.",
+                "ro": "Oprire scurtă; streșinile clădirilor din jur oferă protecție temporară împotriva ploii.",
+                "en": "Brief stop; the eaves of nearby buildings offer some temporary shelter from the rain."
+              }
+            },
+            {
+              "name": "West Theatre",
+              "tip_5lang": {
+                "de": "Idealer Ort, um kurz im Foyer zu verweilen und den Regen abzuwarten.",
+                "hu": "Tökéletes hely egy rövid pihenőre az előcsarnokban, amíg eláll az eső.",
+                "ro": "Loc ideal pentru a intra în foaier și a aștepta trecerea unei averse trecătoare.",
+                "en": "Ideal spot to step into the foyer and wait out a passing rain shower."
+              }
+            },
+            {
+              "name": "Banat Montan Museum",
+              "tip_5lang": {
+                "de": "Perfektes Timing für einen langen Museumsbesuch im Trockenen.",
+                "hu": "Tökéletes időzítés egy hosszú, száraz múzeumlátogatáshoz a belső terekben.",
+                "ro": "Momentul perfect pentru o vizită lungă și uscată în interiorul muzeului.",
+                "en": "Perfect timing for a long, dry museum visit indoors while it pours outside."
+              }
+            },
+            {
+              "name": "Steam Locomotive Museum",
+              "tip_5lang": {
+                "de": "Einige Loks stehen unter Dächern, aber festes Schuhwerk ist für die Wege nötig.",
+                "hu": "Néhány mozdony fedél alatt van, de a terület bejárásához vízálló cipő kell.",
+                "ro": "Unele locomotive sunt sub acoperiș, dar aveți nevoie de încălțăminte impermeabilă.",
+                "en": "Some locos are under cover, but waterproof shoes are needed for the open areas."
+              }
+            },
+            {
+              "name": "Cross on Golului Hill",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem Pfad, er kann bei Nässe sehr rutschig sein; langsame Schritte.",
+                "hu": "Vigyázat, az ösvény nagyon csúszós lehet esőben; haladjon lassan és óvatosan.",
+                "ro": "Atenție pe potecă, poate fi foarte alunecoasă pe ploaie; urcați cu prudență.",
+                "en": "Caution on the trail, it can be very slippery when wet; take slow, steady steps."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine robuste Regenjacke, da der Wind im Tal böig sein kann.",
+              "Das Banat-Montan-Museum ist der beste Ort für eine ausgedehnte Regenpause.",
+              "Die Dampflokomotiven wirken bei Regen besonders fotogen (Glanz-Effekt).",
+              "Achten Sie auf Pfützen in den tiefer gelegenen Teilen des Tricolorului-Parks.",
+              "Planen Sie für das Freilichtmuseum kürzere Aufenthalte zwischen den Regenschauern ein."
+            ],
+            "hu": [
+              "Viseljen strapabíró esőkabátot, mert a völgyben felerősödhet a szél.",
+              "A Bánáti Hegyvidéki Múzeum a legjobb hely egy hosszabb esőszünetre.",
+              "A gőzmozdonyok esőben különösen jól mutatnak a fotókon a csillogó acél miatt.",
+              "Ügyeljen a tócsákra a Tricolorului park mélyebben fekvő részein.",
+              "A szabadtéri múzeumban tervezzen rövidebb szakaszokat az esőfelhők között."
+            ],
+            "ro": [
+              "Purtați o pelerină de ploaie rezistentă, vântul poate fi puternic în vale.",
+              "Muzeul Banatului Montan este cel mai bun loc pentru o pauză prelungită de ploaie.",
+              "Locomotivele cu abur sunt foarte fotogenice pe ploaie datorită luciului metalic.",
+              "Feriți-vă de bălți în zonele mai joase ale Parcului Tricolorului.",
+              "Planificați reprize scurte de vizitare la muzeul în aer liber între averse."
+            ],
+            "en": [
+              "Wear a heavy-duty raincoat as the wind in the valley can be quite gusty.",
+              "The Banat Montan Museum is the best place for an extended break from the rain.",
+              "Steam locomotives look particularly photogenic in the rain due to the wet sheen.",
+              "Watch out for large puddles in the lower sections of Tricolorului Park.",
+              "At the open-air museum, plan short bursts of exploration between rain showers."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frostiger Wintermorgen im verschneiten Tricolorului-Park. Die Industriedenkmäler Reschitzas wirken in der kalten Luft besonders markant. Mittags wärmen wir uns im Banater Museum auf, bevor wir die Dampflokomotiven im weißen Gewand besuchen. Zum frühen Sonnenuntergang steigen wir zum Golului-Hügel auf, wo das beleuchtete Kreuz über der verschneiten Stadt wacht.",
+            "hu": "Zúzmarás téli reggel a hóval borított Tricolorului parkban. Resicabánya ipari emlékei élesen rajzolódnak ki a hideg levegőben. Délben a múzeum melegében pihenünk, majd megnézzük a hófödte gőzmozdonyokat. A korai naplementekor megyünk fel a Golului-dombra, ahol a kivilágított kereszt őrködik a téli város felett.",
+            "ro": "Dimineață geroasă în Parcul Tricolorului acoperit de zăpadă. Monumentele industriale par mai impunătoare în aerul rece al iernii. La prânz ne încălzim în muzeu, apoi vizităm locomotivele îmbrăcate în alb. La apusul devreme, urcăm pe Dealul Golului, unde crucea luminată veghează peste orașul înzăpezit.",
+            "en": "A frosty winter morning in the snow-covered Tricolorului Park. Reșița's industrial monuments stand out sharply in the crisp winter air. After warming up in the museum at noon, we visit the steam locomotives blanketed in white. As the sun sets early, we hike up Golului Hill, where the illuminated cross watches over the winter city."
+          },
+          "stops": [
+            {
+              "name": "Tricolorului Park",
+              "tip_5lang": {
+                "de": "Vorsicht vor Glatteis auf den Parkwegen; festes Profil unter den Schuhen ist wichtig.",
+                "hu": "Vigyázat, a park ösvényei jegesek lehetnek; bordázott talpú téli bakancs ajánlott.",
+                "ro": "Atenție la polei pe aleile parcului; purtați încălțăminte cu talpă antiderapantă.",
+                "en": "Watch out for black ice on the park paths; shoes with good grip are essential."
+              }
+            },
+            {
+              "name": "Reșița City Hall",
+              "tip_5lang": {
+                "de": "In der Adventszeit oft festlich beleuchtet; ideal für ein schnelles Winterfoto.",
+                "hu": "Advent idején ünnepi fények díszítik; tökéletes helyszín egy gyors téli fotóhoz.",
+                "ro": "Adesea iluminată festiv în perioada sărbătorilor; loc bun pentru o poză de iarnă.",
+                "en": "Often festively lit during Advent; a great spot for a quick winter photo."
+              }
+            },
+            {
+              "name": "West Theatre",
+              "tip_5lang": {
+                "de": "Ein warmer Ort für eine kurze Pause; prüfen Sie das Abendprogramm für ein Event.",
+                "hu": "Kellemes meleg hely egy rövid szünetre; nézze meg az esti színházi kínálatot.",
+                "ro": "Un loc călduros pentru o pauză scurtă; verificați programul pentru spectacole.",
+                "en": "A warm place for a short break; check the evening schedule for indoor events."
+              }
+            },
+            {
+              "name": "Banat Montan Museum",
+              "tip_5lang": {
+                "de": "Gut beheizte Ausstellungsräume bieten Schutz vor der winterlichen Kälte.",
+                "hu": "A jól fűtött kiállítótermek tökéletes menedéket nyújtanak a téli hideg elől.",
+                "ro": "Sălile de expoziție bine încălzite oferă protecție împotriva frigului de afară.",
+                "en": "Well-heated exhibition halls offer a perfect escape from the winter chill."
+              }
+            },
+            {
+              "name": "Steam Locomotive Museum",
+              "tip_5lang": {
+                "de": "Die schwarzen Loks bilden einen tollen Kontrast zum Schnee; warm anziehen!",
+                "hu": "A fekete mozdonyok és a fehér hó kontrasztja lenyűgöző; öltözzön nagyon melegen!",
+                "ro": "Locomotivele negre fac un contrast superb cu zăpada; îmbrăcați-vă gros!",
+                "en": "The black locos contrast beautifully with the white snow; dress very warmly!"
+              }
+            },
+            {
+              "name": "Cross on Golului Hill",
+              "tip_5lang": {
+                "de": "Sonnenuntergang schon gegen 16:30 Uhr; Taschenlampe für den Abstieg mitnehmen.",
+                "hu": "A nap már 16:30 körül lemegy; vigyen zseblámpát a lefelé vezető úthoz.",
+                "ro": "Apusul are loc în jur de ora 16:30; luați o lanternă pentru coborâre.",
+                "en": "Sunset is as early as 16:30; bring a flashlight for the descent in the dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermo-Unterwäsche, da es im Bergbau-Tal sehr kalt werden kann.",
+              "Die Gehwege zum Golului-Hügel werden im Winter nicht immer geräumt.",
+              "Die Museen sind die besten Aufwärmstationen während der Tour.",
+              "Die Wintersonne geht früh hinter den Bergen unter, planen Sie das Licht ein.",
+              "Ein heißer Tee in einer Thermoskanne ist für den Besuch der Dampfloks ideal."
+            ],
+            "hu": [
+              "Viseljen termaruházatot, mert a mély völgyben megülhet a rendkívüli hideg.",
+              "A Golului-dombra vezető ösvényt télen nem mindig takarítják, legyen óvatos.",
+              "A múzeumok a legjobb melegedőpontok a városnézés során.",
+              "A téli nap korán eltűnik a hegyek mögött, számoljon a kevés fénnyel.",
+              "A szabadtéri mozdonyok nézegetéséhez jól jöhet egy termosz forró tea."
+            ],
+            "ro": [
+              "Purtați haine termice, deoarece frigul poate fi pătrunzător în valea îngustă.",
+              "Poteca spre Dealul Golului nu este întotdeauna deszăpezită; mergeți cu grijă.",
+              "Muzeele sunt cele mai bune puncte de încălzire în timpul traseului.",
+              "Soarele apune devreme după munți, planificați vizitele în funcție de lumină.",
+              "Un ceai fierbinte într-un termos este ideal pentru vizita la muzeul de locomotive."
+            ],
+            "en": [
+              "Wear thermal layers as the deep valley can get extremely cold in winter.",
+              "The path to Golului Hill might not be cleared of snow; proceed with caution.",
+              "Museums are the best 'warming stations' during your city tour.",
+              "The winter sun dips behind the mountains early, so mind the daylight hours.",
+              "A thermos of hot tea is perfect for your visit to the outdoor locomotive museum."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -630,6 +820,214 @@
           "The climb to Golului Hill is challenging but doable.",
           "A small backpack for water and snacks is recommended."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine nasse Radtour durch Reschitza fordert die Ausdauer. Wir starten am Südbahnhof und radeln vorsichtig zum Zoo, wo die Bäume etwas Schutz bieten. Mittags geht es zurück ins Zentrum, um trockene Museumsbesuche einzuschieben. Die schwarzen Dampflokomotiven glänzen im Regen, bevor wir den anstrengenden, rutschigen Weg zum Golului-Hügel wagen.",
+            "hu": "Egy vizes kerékpártúra Resicabányán próbára teszi a kitartást. A déli vasútállomástól óvatosan tekerünk az állatkertig, ahol a fák némi védelmet nyújtanak. Délben visszatérünk a központba múzeumi menedéket keresve. A gőzmozdonyok acélja csillog az esőben, mielőtt bevállalnánk a csúszós kaptatót a Golului-dombra.",
+            "ro": "O tură cu bicicleta prin Reșița pe ploaie necesită atenție sporită. Începem de la Gara de Sud și pedalăm spre Zoo, unde copacii oferă puțină protecție. La prânz revenim în centru pentru vizite la muzee la adăpost. Locomotivele strălucesc sub ploaie, înainte de a încerca urcarea alunecoasă spre Dealul Golului.",
+            "en": "A wet bike ride through Reșița demands focus. We start at the South Station and pedal cautiously to the Zoo, where trees offer some canopy. By noon, we return to the center for indoor museum breaks. The steam locomotives look striking in the damp, followed by a challenging, slippery ascent to Golului Hill for those brave enough."
+          },
+          "stops": [
+            {
+              "name": "Reșița South Railway Station",
+              "tip_5lang": {
+                "de": "Vorsicht beim Überqueren der Schienen; sie sind bei Nässe extrem rutschig.",
+                "hu": "Vigyázat a síneken való áthaladáskor; esőben rendkívül csúszósak lehetnek.",
+                "ro": "Atenție sporită la traversarea șinelor; sunt extrem de alunecoase pe ploaie.",
+                "en": "Use extra caution when crossing tracks; they are extremely slippery when wet."
+              }
+            },
+            {
+              "name": "Reșița Zoo",
+              "tip_5lang": {
+                "de": "Der Anstieg kann rutschig sein; fahren Sie mit niedriger Geschwindigkeit bergab.",
+                "hu": "Az emelkedő csúszhat; lefelé jövet fokozottan ügyeljen a sebességre.",
+                "ro": "Urcarea poate fi alunecoasă; coborâți cu viteză redusă și atenție la frâne.",
+                "en": "The climb can be slick; descend at low speed and watch your braking distance."
+              }
+            },
+            {
+              "name": "Tricolorului Park",
+              "tip_5lang": {
+                "de": "Parken Sie das Rad unter einem Baum, während Sie kurz das Denkmal betrachten.",
+                "hu": "Parkoljon egy terebélyesebb fa alá, amíg gyorsan megnézi az emlékművet.",
+                "ro": "Parcați bicicleta sub un copac mai des în timp ce vizitați rapid monumentul.",
+                "en": "Park your bike under a dense tree while you take a quick look at the monument."
+              }
+            },
+            {
+              "name": "Reșița City Hall",
+              "tip_5lang": {
+                "de": "Kurzer Stopp; nutzen Sie die Arkaden in der Nähe für eine kurze Trinkpause.",
+                "hu": "Rövid megálló; használja a közeli árkádokat egy gyors ivási szünethez.",
+                "ro": "Oprire scurtă; folosiți arcadele din apropiere pentru o pauză rapidă de hidratare.",
+                "en": "Brief stop; use the nearby arcades for a quick hydration break out of the rain."
+              }
+            },
+            {
+              "name": "Steam Locomotive Museum",
+              "tip_5lang": {
+                "de": "Räder am Eingang sichern; die Gehwege im Museumsbereich können glatt sein.",
+                "hu": "Zárja le a biciklit a bejáratnál; a múzeumi ösvények vizesen csúszhatnak.",
+                "ro": "Asigurați bicicletele la intrare; aleile din zona muzeului pot fi alunecoase.",
+                "en": "Secure bikes at the entrance; paths within the museum area can be slippery."
+              }
+            },
+            {
+              "name": "Banat Montan Museum",
+              "tip_5lang": {
+                "de": "Perfekter Ort für eine längere Pause, um die Kleidung etwas zu trocknen.",
+                "hu": "Ideális hely egy hosszabb pihenőre, hogy a ruházata kicsit megszáradjon.",
+                "ro": "Locul perfect pentru o pauză mai lungă, oferind timp hainelor să se usuce.",
+                "en": "The perfect spot for a longer break to let your gear dry out a bit."
+              }
+            },
+            {
+              "name": "Cross on Golului Hill",
+              "tip_5lang": {
+                "de": "Steile Auffahrt auf nassem Asphalt; nur für erfahrene Radfahrer bei Regen.",
+                "hu": "Meredek kaptató vizes aszfalton; esőben csak tapasztalt bringásoknak ajánlott.",
+                "ro": "Urcare abruptă pe asfalt ud; recomandat doar bicicliștilor experimentați pe ploaie.",
+                "en": "Steep climb on wet asphalt; recommended only for experienced riders in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Bremsbeläge vor der Fahrt, da der Weg zum Zoo steil ist.",
+              "Vermeiden Sie Pfützen, da diese tiefe Schlaglöcher im Asphalt verbergen können.",
+              "Nutzen Sie Schutzbleche, um sich vor Spritzwasser der Industrieanlagen zu schützen.",
+              "Tragen Sie eine neongelbe Regenjacke für bessere Sichtbarkeit im grauen Wetter.",
+              "Die Straßenbahnschienen im Zentrum sind bei Regen eine große Sturzgefahr."
+            ],
+            "hu": [
+              "Ellenőrizze a fékeket indulás előtt, mert az állatkert felé meredek az út.",
+              "Kerülje a tócsákat, mert mély kátyúkat rejthetnek az aszfaltban.",
+              "Használjon sárvédőt, hogy megvédje magát a felverődő vizes kosztól.",
+              "Viseljen láthatósági esőkabátot a szürke időben való jobb észlelhetőségért.",
+              "A belvárosi villamospálya sínjei esőben rendkívül veszélyesek a kerékpárosokra."
+            ],
+            "ro": [
+              "Verificați frânele înainte de plecare, drumul spre Zoo este destul de abrupt.",
+              "Evitați bălțile, deoarece pot ascunde gropi adânci în stratul de asfalt.",
+              "Folosiți aripi la bicicletă pentru a vă proteja de apa murdară aruncată de roți.",
+              "Purtați o jachetă reflectorizantă pentru vizibilitate sporită pe timp de ploaie.",
+              "Șinele de tramvai din centru sunt un pericol major de alunecare când sunt ude."
+            ],
+            "en": [
+              "Check your brakes before starting; the route to the Zoo is quite steep.",
+              "Avoid puddles as they can hide deep potholes in the asphalt.",
+              "Use mudguards to protect yourself from dirty spray from the road.",
+              "Wear a hi-vis rain jacket for better visibility in grey, overcast weather.",
+              "Tram tracks in the city center are a major slipping hazard for cyclists when wet."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radeln in Reschitza erfordert dicke Handschuhe gegen den Fahrtwind im Tal. Vom Südbahnhof geht es durch die klare, kalte Luft zum Zoo. Mittags bieten die Museen im Zentrum notwendige Aufwärmpausen. Die schneebedeckten Dampfloks sind ein Highlight, bevor die Tour mit einem kühlen, aber sonnigen Ausblick am Golului-Hügel endet.",
+            "hu": "A téli tekerés Resicabányán vastag kesztyűt igényel a völgyben süvítő szél miatt. A déli pályaudvartól indulva a friss, hideg levegőn tekerünk az állatkertig. Délben a központi múzeumok nyújtanak fűtött menedéket. A hófödte mozdonyok után a túra a fagyos, de szép panorámájú Golului-dombon zárul.",
+            "ro": "Pedalatul pe timp de iarnă în Reșița necesită mănuși groase împotriva vântului rece din vale. Pornim de la Gara de Sud prin aerul tăios spre Zoo. La prânz, muzeele din centru oferă pauzele de încălzire necesare. Locomotivele înzăpezite sunt superbe, iar tura se încheie cu priveliștea înghețată de pe Dealul Golului.",
+            "en": "Winter cycling in Reșița requires thick gloves against the wind chill in the valley. Starting from South Station, we ride through the crisp air towards the Zoo. By noon, the downtown museums offer essential warming breaks. The snow-dusted locomotives are a highlight before the tour ends with a cold but scenic vista from Golului Hill."
+          },
+          "stops": [
+            {
+              "name": "Reșița South Railway Station",
+              "tip_5lang": {
+                "de": "Achten Sie auf gefrorene Stellen auf dem Bahnhofsvorplatz beim Losfahren.",
+                "hu": "Induláskor ügyeljen a jeges foltokra az állomás előtti téren.",
+                "ro": "Atenție la porțiunile înghețate de pe platforma gării la plecare.",
+                "en": "Watch out for frozen patches on the station forecourt as you set off."
+              }
+            },
+            {
+              "name": "Reșița Zoo",
+              "tip_5lang": {
+                "de": "Der Weg durch den Wald kann vereist sein; nutzen Sie Reifen mit gutem Profil.",
+                "hu": "Az erdőn át vezető út jeges lehet; használjon bordázott téli gumikat.",
+                "ro": "Drumul prin pădure poate fi înghețat; folosiți anvelope cu profil pronunțat.",
+                "en": "The forest road may be icy; use tires with good tread for better traction."
+              }
+            },
+            {
+              "name": "Tricolorului Park",
+              "tip_5lang": {
+                "de": "Kurzer Stopp; bleiben Sie in Bewegung, um nicht auszukühlen.",
+                "hu": "Rövid megálló; maradjon mozgásban, hogy ne hűljön ki a teste.",
+                "ro": "Oprire scurtă; rămâneți în mișcare pentru a nu vă răci prea tare.",
+                "en": "Short stop; keep moving to maintain your body temperature in the cold."
+              }
+            },
+            {
+              "name": "Reșița City Hall",
+              "tip_5lang": {
+                "de": "Schöner Platz für ein Winterfoto; Vorsicht vor Rutschgefahr auf den Fliesen.",
+                "hu": "Szép helyszín téli fotóhoz; vigyázat, a burkolat csúszós lehet.",
+                "ro": "Loc frumos pentru poze de iarnă; atenție la pavajul care poate fi alunecos.",
+                "en": "Great spot for a winter photo; watch out for slippery tiles on the plaza."
+              }
+            },
+            {
+              "name": "Steam Locomotive Museum",
+              "tip_5lang": {
+                "de": "Gehen Sie vorsichtig mit dem Rad an der Hand über das Gelände; Stolpergefahr.",
+                "hu": "Tolja óvatosan a kerékpárt a területen; a hó alatt akadályok lehetnek.",
+                "ro": "Mergeți cu grijă pe lângă bicicletă în incintă; pericol de împiedicare.",
+                "en": "Walk your bike carefully through the site; watch for hidden obstacles under snow."
+              }
+            },
+            {
+              "name": "Banat Montan Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp, um die gefrorenen Finger an der Heizung aufzuwärmen.",
+                "hu": "Használja ki a megállót, hogy felmelegítse elgémberedett ujjait a fűtőtestnél.",
+                "ro": "Folosiți oprirea pentru a vă încălzi degetele amorțite la calorifer.",
+                "en": "Use this stop to thaw out your frozen fingers near the radiators inside."
+              }
+            },
+            {
+              "name": "Cross on Golului Hill",
+              "tip_5lang": {
+                "de": "Nur befahren, wenn die Straße schnee- und eisfrei ist; sonst zu gefährlich.",
+                "hu": "Csak akkor tekerjen fel, ha az út hó- és jégmentes; különben túl veszélyes.",
+                "ro": "Urcați doar dacă drumul este curățat de zăpadă și gheață; altfel e periculos.",
+                "en": "Only attempt the climb if the road is clear of snow and ice; otherwise too risky."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Verwenden Sie Winterreifen oder Reifen mit geringerem Druck für mehr Grip.",
+              "Decken Sie Ihre Knie und Gelenke gut ab, um sie vor Kältschäden zu schützen.",
+              "Batterien von E-Bikes oder Lampen entladen sich bei Kälte deutlich schneller.",
+              "Vermeiden Sie scharfes Bremsen auf weißem Untergrund im Stadtgebiet.",
+              "Die Brücken über die Bârzava frieren oft zuerst ein und sind sehr glatt."
+            ],
+            "hu": [
+              "Használjon téli gumit vagy csökkentse a guminyomást a jobb tapadásért.",
+              "Védje térdeit és ízületeit a menetszéltől, mert gyorsan kihűlhetnek.",
+              "Az elektromos kerékpárok akkumulátora és a lámpák gyorsabban merülnek hidegben.",
+              "Kerülje az erős fékezést havas vagy jeges útszakaszokon.",
+              "A Bârzava feletti hidak fagynak le először, legyenek rajtuk nagyon óvatosak."
+            ],
+            "ro": [
+              "Folosiți anvelope de iarnă sau reduceți presiunea pentru aderență sporită.",
+              "Protejați-vă genunchii și încheieturile de vântul tăios în timpul pedalării.",
+              "Bateriile bicicletelor electrice și ale luminilor se descarcă mult mai repede la frig.",
+              "Evitați frânările bruște pe porțiunile acoperite cu zăpadă sau polei.",
+              "Podurile peste Bârzava îngheață primele; fiți extrem de prudenți pe ele."
+            ],
+            "en": [
+              "Use winter tires or lower your tire pressure slightly for better grip on snow.",
+              "Keep your knees and joints well-covered to protect them from the biting wind.",
+              "E-bike batteries and lights drain significantly faster in freezing temperatures.",
+              "Avoid sudden braking on snowy or icy patches in the urban area.",
+              "Bridges over the Bârzava river often freeze first and can be very slick."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -930,6 +1328,196 @@
           "Plan enough time for traffic between clusters.",
           "The car gives you the flexibility to visit places slightly further out."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Reschitza mit dem Auto im Regen ist komfortabel. Wir starten mit der Fahrt zum Golului-Hügel, wo man bei Schauern im Wagen die Aussicht genießen kann. Danach geht es zum Zoo und zum Dampflokmuseum, wobei kurze Wege vom Parkplatz zum Ziel die Nässe minimieren. Der Tag endet im Zentrum bei den Museen und dem Rathaus.",
+            "hu": "Autóval Resicabánya esőben is kényelmesen felfedezhető. A Golului-dombbal kezdünk, ahol a kocsiból is élvezhető a panoráma egy nagyobb zápor idején. Ezután az állatkert és a gőzmozdonyok következnek, minimalizálva az esőben töltött időt. A napot a belvárosi múzeumoknál és a városházánál zárjuk.",
+            "ro": "Explorarea Reșiței cu mașina pe ploaie este varianta cea mai confortabilă. Începem cu Dealul Golului, unde puteți admira vederea din mașină în timpul averselor. Urmează Zoo și Muzeul de Locomotive, cu deplasări scurte de la parcare. Încheiem ziua în centru, la muzee și primărie.",
+            "en": "Exploring Reșița by car in the rain is the most comfortable option. We start at Golului Hill, where you can enjoy the view from inside the vehicle during heavy showers. Next, we visit the Zoo and the Locomotives, minimizing outdoor exposure. The day ends downtown at the museums and City Hall."
+          },
+          "stops": [
+            {
+              "name": "Cross on Golului Hill",
+              "tip_5lang": {
+                "de": "Parken Sie so, dass Sie die Stadt im Rückspiegel oder durch die Scheibe sehen.",
+                "hu": "Parkoljon úgy, hogy az autóból is rálásson a városra az esőben.",
+                "ro": "Parcați astfel încât să puteți admira orașul prin parbriz pe durata ploii.",
+                "en": "Park in a way that allows you to see the city through the windshield during rain."
+              }
+            },
+            {
+              "name": "Reșița Zoo",
+              "tip_5lang": {
+                "de": "Parkplatz direkt am Eingang nutzen; Schirm für den Rundgang mitnehmen.",
+                "hu": "Használja a közvetlen bejárat melletti parkolót; vigyen ernyőt a sétához.",
+                "ro": "Folosiți parcarea de lângă intrare; luați umbrela pentru turul grădinii.",
+                "en": "Use the parking lot right at the entrance; bring an umbrella for the zoo walk."
+              }
+            },
+            {
+              "name": "Steam Locomotive Museum",
+              "tip_5lang": {
+                "de": "Parkplätze an der Hauptstraße; schneller Zugang zu den überdachten Loks.",
+                "hu": "Parkolás a főút mentén; gyors bejutás a fedett mozdonyokhoz.",
+                "ro": "Locuri de parcare la drumul principal; acces rapid spre locomotivele acoperite.",
+                "en": "Parking spots along the main road; quick access to the sheltered locomotives."
+              }
+            },
+            {
+              "name": "Banat Montan Museum",
+              "tip_5lang": {
+                "de": "Parkhäuser oder Seitenstreifen im Zentrum nutzen; Regenschirm bereithalten.",
+                "hu": "Használja a központi parkolókat; tartsa készenlétben az esernyőt.",
+                "ro": "Folosiți parcările din centru; țineți umbrela la îndemână pentru acces.",
+                "en": "Use city center parking; have your umbrella ready for the short walk to the door."
+              }
+            },
+            {
+              "name": "Tricolorului Park",
+              "tip_5lang": {
+                "de": "Kurzer Stopp; Parken am Rand ermöglicht einen schnellen Blick zum Denkmal.",
+                "hu": "Rövid megálló; a park szélén parkolva gyorsan megnézhető az emlékmű.",
+                "ro": "Oprire scurtă; parcarea la marginea parcului permite o vedere rapidă a monumentului.",
+                "en": "Brief stop; parking at the edge allows for a quick look at the monument."
+              }
+            },
+            {
+              "name": "Reșița City Hall",
+              "tip_5lang": {
+                "de": "Zentraler Parkplatz; idealer Startpunkt für Besorgungen im Regen.",
+                "hu": "Központi parkoló; kiváló kiindulópont az esős belvárosi ügyintézéshez.",
+                "ro": "Parcare centrală; punct de plecare ideal pentru vizite rapide prin centrul ud.",
+                "en": "Central parking lot; ideal starting point for quick errands in the rainy center."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie bei Starkregen das Parken in tiefgelegenen Mulden im Industrieviertel.",
+              "Achten Sie auf schlechte Sicht durch beschlagene Scheiben in der hohen Luftfeuchtigkeit.",
+              "Die Bergstraße zum Golului-Hügel ist schmal; bei Gegenverkehr und Nässe Vorsicht.",
+              "Nutzen Sie die Parkplätze direkt vor den Museen, um trocken ans Ziel zu kommen.",
+              "Prüfen Sie Ihre Scheibenwischer, da das industrielle Umfeld viel Schmutz aufwirbelt."
+            ],
+            "hu": [
+              "Heves esőzéskor kerülje a mélyebben fekvő parkolóhelyeket az ipari negyedben.",
+              "Ügyeljen a párásodó szélvédőre a magas páratartalom miatt.",
+              "A Golului-dombra vezető út keskeny; vizes aszfalton legyen óvatos a szembejövőkkel.",
+              "Használja a közvetlenül a múzeumok előtti parkolókat a beázás elkerülésére.",
+              "Ellenőrizze az ablaktörlőket, mert az ipari környezetben sok por verődhet fel."
+            ],
+            "ro": [
+              "Evitați parcarea în zonele joase din cartierul industrial în timpul ploilor torențiale.",
+              "Atenție la vizibilitatea redusă cauzată de aburirea geamurilor în condiții de umiditate.",
+              "Drumul spre Dealul Golului este îngust; prudență maximă pe asfalt ud.",
+              "Căutați locuri de parcare cât mai aproape de intrarea muzeelor pentru a nu vă uda.",
+              "Verificați ștergătoarele; mediul industrial poate ridica mult praf ce devine noroi."
+            ],
+            "en": [
+              "Avoid parking in low-lying hollows in the industrial district during heavy rain.",
+              "Watch out for reduced visibility due to fogged-up windows in high humidity.",
+              "The mountain road to Golului Hill is narrow; take extra care on wet asphalt.",
+              "Aim for parking spots right in front of museum entrances to stay dry.",
+              "Check your wipers; the industrial surroundings can kick up a lot of grime on the glass."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Wintertour durch Reschitza mit Sitzheizung. Wir erklimmen den Golului-Hügel, um die verschneite Stadt von oben zu sehen. Danach folgen Besuche im Zoo und dem Freilichtmuseum, wobei das Auto als willkommene Wärmestation dient. Mittags und nachmittags konzentrieren wir uns auf die warmen Museen und das festlich beleuchtete Zentrum.",
+            "hu": "Téli autós túra Resicabányán, fűtött ülésekkel. Felkapaszkodunk a Golului-dombra, hogy megnézzük a havas várost. Ezután az állatkert és a szabadtéri mozdonyok következnek, ahol az autó remek melegedőpont. Délben és délután a fűtött múzeumokra és az ünnepi díszbe öltözött belvárosra fókuszálunk.",
+            "ro": "Tur de iarnă prin Reșița cu căldura pornită în mașină. Urcăm pe Dealul Golului pentru a vedea orașul sub zăpadă. Urmează Zoo și muzeul în aer liber, unde mașina servește ca refugiu cald. La prânz și după-amiază ne concentrăm pe muzeele încălzite și centrul luminat festiv.",
+            "en": "A winter tour of Reșița with the car heater on blast. We climb Golului Hill for a snowy vista of the city. Next are visits to the Zoo and the outdoor locomotives, with the car serving as a mobile warming station. By noon and afternoon, we focus on the warm museums and the festively lit city center."
+          },
+          "stops": [
+            {
+              "name": "Cross on Golului Hill",
+              "tip_5lang": {
+                "de": "Nur befahren, wenn die Straße geräumt ist; Winterreifen und Erfahrung nötig.",
+                "hu": "Csak letakarított úton menjen fel; téli gumi és hegymeneti tapasztalat kell.",
+                "ro": "Urcați doar dacă drumul este deszăpezit; necesită anvelope de iarnă și prudență.",
+                "en": "Only attempt the climb if the road is cleared; winter tires and experience required."
+              }
+            },
+            {
+              "name": "Reșița Zoo",
+              "tip_5lang": {
+                "de": "Vorsicht beim Parken auf ungeräumten Flächen; Rutschgefahr für Fußgänger.",
+                "hu": "Vigyázat a nem letakarított parkolóhelyeken; csúszásveszély a kiszálláskor.",
+                "ro": "Atenție la parcare în zonele cu zăpadă; pericol de alunecare la coborârea din mașină.",
+                "en": "Careful when parking in unplowed spots; slipping hazard when exiting the car."
+              }
+            },
+            {
+              "name": "Steam Locomotive Museum",
+              "tip_5lang": {
+                "de": "Die schwarzen Loks sehen im Schnee toll aus; lassen Sie den Motor nicht unnötig laufen.",
+                "hu": "A fekete mozdonyok remekül mutatnak a hóban; ne járassa feleslegesen a motort.",
+                "ro": "Locomotivele negre arată superb în zăpadă; nu lăsați motorul pornit inutil.",
+                "en": "The black locos look stunning in the snow; avoid idling your engine unnecessarily."
+              }
+            },
+            {
+              "name": "Banat Montan Museum",
+              "tip_5lang": {
+                "de": "Zentraler Parkplatz oft geräumt; kurzer Weg in die Wärme der Ausstellung.",
+                "hu": "A központi parkolót általában takarítják; gyors bejutás a meleg kiállításra.",
+                "ro": "Parcarea centrală este de obicei curățată; acces rapid spre căldura muzeului.",
+                "en": "The central parking lot is usually cleared; quick walk into the warm exhibition halls."
+              }
+            },
+            {
+              "name": "Tricolorului Park",
+              "tip_5lang": {
+                "de": "Stoppen Sie kurz am Rand für ein Foto des verschneiten Denkmals.",
+                "hu": "Álljon meg rövid időre a szélén egy fotóra a havas emlékműnél.",
+                "ro": "Opriți scurt la margine pentru o poză cu monumentul acoperit de zăpadă.",
+                "en": "Stop briefly at the edge for a photo of the snow-covered monument."
+              }
+            },
+            {
+              "name": "Reșița City Hall",
+              "tip_5lang": {
+                "de": "Abends festlich beleuchtet; Parkplatzsuche im Winterzentrum meist unproblematisch.",
+                "hu": "Este ünnepi díszkivilágítás; a téli központban általában könnyű parkolni.",
+                "ro": "Iluminat festiv seara; parcarea în centrul de iarnă este de obicei facilă.",
+                "en": "Festively lit in the evening; parking in the winter center is usually easy to find."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Führen Sie Schneeketten mit, falls Sie höher gelegene Stadtteile besuchen.",
+              "Achten Sie auf Eiszapfen an alten Industriegebäuden beim Parken.",
+              "Nutzen Sie Enteiser-Spray für die Türschlösser bei strengem Frost im Tal.",
+              "Die Bergstraßen um Reschitza können extrem schnell vereisen.",
+              "Planen Sie mehr Zeit für das Aufwärmen des Motors und der Scheiben ein."
+            ],
+            "hu": [
+              "Legyen önnél hólánc, ha a magasabb városrészekbe vagy a környékre merészkedik.",
+              "Ügyeljen a jégcsapokra a régi ipari épületek melletti parkoláskor.",
+              "Használjon jégoldó spray-t a zárakhoz, ha erős fagy van a völgyben.",
+              "A Resicabánya körüli hegyi utak rendkívül gyorsan lefagyhatnak.",
+              "Számoljon több idővel a motor és a szélvédők jégtelenítésére."
+            ],
+            "ro": [
+              "Aveți lanțuri antiderapante în portbagaj dacă vizitați zonele mai înalte.",
+              "Atenție la țurțuri când parcați lângă clădirile industriale vechi.",
+              "Folosiți spray degivrant pentru încuietori în nopțile cu ger năpraznic.",
+              "Drumurile montane din jurul Reșiței pot îngheța extrem de rapid.",
+              "Alocați mai mult timp pentru încălzirea motorului și dezghețarea parbrizului."
+            ],
+            "en": [
+              "Keep snow chains in your trunk if you plan to visit the higher outskirts.",
+              "Watch out for large icicles hanging from old industrial buildings when parking.",
+              "Use de-icer spray for your locks during severe frosts in the valley.",
+              "Mountain roads surrounding Reșița can become icy extremely quickly.",
+              "Allow extra time for warming up the engine and clearing ice from windows."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1206,6 +1794,178 @@
           "Find out about the bus lines connecting the clusters.",
           "Have some small change ready for tickets if you buy them directly on the bus."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit Bus und Bahn durch das regnerische Reschitza. Wir nutzen die überdachten Haltestellen im Zentrum, um zum Tricolorului-Park und zum Rathaus zu gelangen. Mittags flüchten wir in die trockenen Museen. Die Fahrt zum Südbahnhof bietet Einblicke in die Industrielandschaft im Regen, bevor wir den Tag im Theater ausklingen lassen.",
+            "hu": "Busszal és vonattal az esős Resicabányán. A központi fedett megállókat használjuk a Tricolorului park és a városháza eléréséhez. Délben a száraz múzeumokba menekülünk az eső elől. A déli pályaudvarra menet megnézzük az ipari tájat a ködben, majd a napot a színházban zárjuk.",
+            "ro": "Cu autobuzul și trenul prin Reșița ploioasă. Folosim stațiile acoperite din centru pentru a ajunge la Parcul Tricolorului și Primărie. La prânz ne adăpostim în muzeele uscate. Drumul spre Gara de Sud oferă vederi industriale sub ploaie, înainte de a încheia ziua la teatru.",
+            "en": "Navigating rainy Reșița by bus and train. We use sheltered stops in the center to visit Tricolorului Park and City Hall. By noon, we retreat to the dry museums. The ride to the South Station offers industrial views through rainy windows before ending the day at the theater."
+          },
+          "stops": [
+            {
+              "name": "Tricolorului Park",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Wartehäuschen an der Haltestelle bei starken Schauern.",
+                "hu": "Használja a megálló váróhelyiségét heves esőzés idején.",
+                "ro": "Folosiți adăpostul din stație în cazul unei averse torențiale.",
+                "en": "Make use of the bus shelter at the stop during heavy downpours."
+              }
+            },
+            {
+              "name": "Reșița City Hall",
+              "tip_5lang": {
+                "de": "Zentrale Knotenpunkthaltestelle; viele Linien bieten Schutz vor langem Warten.",
+                "hu": "Központi csomópont; a gyakori járatok miatt nem kell sokat várni az esőben.",
+                "ro": "Nod central de transport; frecvența mare a curselor reduce timpul de așteptare în ploaie.",
+                "en": "Central transit hub; high frequency of buses means less waiting in the rain."
+              }
+            },
+            {
+              "name": "West Theatre",
+              "tip_5lang": {
+                "de": "Haltestelle direkt davor; ideal, um schnell ins trockene Gebäude zu schlüpfen.",
+                "hu": "Megálló közvetlenül előtte; ideális a gyors bejutáshoz a száraz épületbe.",
+                "ro": "Stație chiar în față; ideal pentru a intra rapid în clădirea ferită de ploaie.",
+                "en": "Stop is right in front; ideal for quickly slipping into the dry building."
+              }
+            },
+            {
+              "name": "Steam Locomotive Museum",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg von der Haltestelle; Schirm für die Strecke zu den Loks nötig.",
+                "hu": "Rövid séta a megállótól; ernyő kell a mozdonyok közötti területhez.",
+                "ro": "Scurtă plimbare de la stație; aveți nevoie de umbrelă între locomotive.",
+                "en": "Short walk from the stop; an umbrella is needed for the open museum grounds."
+              }
+            },
+            {
+              "name": "Reșița South Railway Station",
+              "tip_5lang": {
+                "de": "Die Bahnhofshalle bietet einen guten Schutz vor dem Regen beim Warten.",
+                "hu": "Az állomás csarnoka jó védelmet nyújt az eső ellen várakozás közben.",
+                "ro": "Holul gării oferă o protecție excelentă împotriva ploii în timp ce așteptați.",
+                "en": "The station hall provides excellent protection from the rain while waiting."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Haben Sie Kleingeld oder eine Karte für Fahrkarten bereit, um nicht im Regen zu suchen.",
+              "Die Busse können bei Regen aufgrund des Verkehrs im engen Tal Verspätung haben.",
+              "Einige Haltestellen im Industrieviertel sind nicht überdacht; Schirm ist Pflicht.",
+              "Nutzen Sie die App für Echtzeit-Infos, um Wartezeiten im Freien zu minimieren.",
+              "Tragen Sie wasserfeste Schuhe für den Weg zwischen den Haltestellen."
+            ],
+            "hu": [
+              "Legyen kéznél aprópénz vagy kártya a jegyhez, ne az esőben keresgéljen.",
+              "A buszok esőben késhetnek a szűk völgy megnövekedett forgalma miatt.",
+              "Néhány ipari negyedbeli megálló nem fedett; az ernyő kötelező.",
+              "Használja a menetrendi appot, hogy minimalizálja a szabadban töltött időt.",
+              "Viseljen vízálló cipőt a megállók közötti átszállásokhoz."
+            ],
+            "ro": [
+              "Pregătiți măruntul sau cardul pentru bilet din timp, pentru a nu căuta prin buzunare în ploaie.",
+              "Autobuzele pot avea întârzieri pe ploaie din cauza traficului aglomerat din vale.",
+              "Unele stații din zona industrială nu sunt acoperite; umbrela este obligatorie.",
+              "Folosiți aplicația de transport pentru a minimiza timpul de așteptare în exterior.",
+              "Purtați încălțăminte impermeabilă pentru deplasările între stații."
+            ],
+            "en": [
+              "Have change or your card ready for tickets to avoid searching for them in the rain.",
+              "Buses may experience delays during rain due to heavy traffic in the narrow valley.",
+              "Some stops in the industrial zones are not sheltered; an umbrella is a must.",
+              "Check the transit app for real-time updates to minimize your time spent outdoors.",
+              "Wear waterproof footwear for the walks between different transit stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterreise durch Reschitza mit öffentlichen Verkehrsmitteln. Wir nutzen die beheizten Busse für den Weg zum Rathaus und zum Tricolorului-Park. Die warme Bahnhofshalle am Südbahnhof ist ein guter Rastplatz. Nachmittags wärmen wir uns in den Museen auf, bevor wir die winterliche Atmosphäre im West-Theater genießen.",
+            "hu": "Téli utazás Resicabánya tömegközlekedésével. A fűtött buszokat használjuk a városháza és a Tricolorului park eléréséhez. A déli vasútállomás meleg váróterme jó pihenőhely. Délután a múzeumokban melegszünk fel, majd a Nyugati Színház téli hangulatát élvezzük.",
+            "ro": "Călătorie de iarnă cu transportul public în Reșița. Folosim autobuzele încălzite pentru a ajunge la Primărie și Parcul Tricolorului. Holul călduros al Gării de Sud este un loc bun de odihnă. După-amiază ne încălzim în muzee, înainte de spectacolul de la Teatrul de Vest.",
+            "en": "A winter journey through Reșița using public transport. We rely on heated buses to reach City Hall and Tricolorului Park. The warm concourse of the South Station is a great resting spot. In the afternoon, we warm up in museums before enjoying a winter evening at the West Theater."
+          },
+          "stops": [
+            {
+              "name": "Tricolorului Park",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glätte beim Aussteigen aus dem Bus direkt am Park.",
+                "hu": "Ügyeljen a jegesedésre, amikor leszáll a buszról közvetlenül a parknál.",
+                "ro": "Atenție la polei când coborâți din autobuz chiar lângă intrarea în parc.",
+                "en": "Watch for icy patches when stepping off the bus right next to the park."
+              }
+            },
+            {
+              "name": "Reșița City Hall",
+              "tip_5lang": {
+                "de": "Zentrale Lage; nutzen Sie die Zeit in den umliegenden Cafés zum Aufwärmen.",
+                "hu": "Központi elhelyezkedés; használja a környező kávézókat a felmelegedéshez.",
+                "ro": "Poziție centrală; profitați de cafenelele din zonă pentru a vă încălzi.",
+                "en": "Central location; use the nearby cafes to warm up while waiting for your connection."
+              }
+            },
+            {
+              "name": "West Theatre",
+              "tip_5lang": {
+                "de": "Ein warmer Zufluchtsort; die Haltestelle ist nur wenige Schritte entfernt.",
+                "hu": "Meleg menedék; a buszmegálló mindössze néhány lépésre található.",
+                "ro": "Un refugiu călduros; stația de autobuz este la doar câțiva pași distanță.",
+                "en": "A warm sanctuary; the bus stop is just a few steps away from the entrance."
+              }
+            },
+            {
+              "name": "Steam Locomotive Museum",
+              "tip_5lang": {
+                "de": "Ziehen Sie sich für den Fußweg von der Haltestelle besonders warm an.",
+                "hu": "Öltözzön különösen melegen a megállótól a múzeumig tartó sétához.",
+                "ro": "Îmbrăcați-vă foarte bine pentru porțiunea de mers pe jos de la stație.",
+                "en": "Dress extra warmly for the short walk from the transit stop to the museum."
+              }
+            },
+            {
+              "name": "Reșița South Railway Station",
+              "tip_5lang": {
+                "de": "Idealer Ort zum Aufwärmen zwischen den Fahrten; Kiosk für Heißgetränke vorhanden.",
+                "hu": "Ideális helyszín a felmelegedéshez két járat között; van forró ital árusító.",
+                "ro": "Loc ideal pentru încălzire între curse; există un chioșc cu băuturi calde.",
+                "en": "Ideal spot to warm up between rides; there's a kiosk nearby for hot drinks."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse können bei starkem Schneefall unregelmäßig fahren; planen Sie Pufferzeit ein.",
+              "Warten Sie lieber in Geschäften oder Cafés in Haltestellennähe als im Freien.",
+              "Die Stufen in den Bussen können durch geschmolzenen Schnee rutschig sein.",
+              "Tragen Sie Handschuhe, die Touchscreen-kompatibel für die Ticket-App sind.",
+              "Im Winter sind die Busse oft voll; steigen Sie für mehr Wärme weiter hinten ein."
+            ],
+            "hu": [
+              "Erős havazáskor a buszok rendszertelenül közlekedhetnek; hagyjon több időt.",
+              "Inkább közeli üzletekben vagy kávézókban várjon, mint kint a hidegben.",
+              "A buszok lépcsői a ráhordott hó és jég miatt csúszósak lehetnek.",
+              "Viseljen érintőképernyő-kompatibilis kesztyűt a mobiljegy kezeléséhez.",
+              "Télen a buszok zsúfoltak lehetnek; a hátsóbb részeken általában melegebb van."
+            ],
+            "ro": [
+              "Autobuzele pot circula neregulat în caz de ninsoare abundentă; planificați timp suplimentar.",
+              "Așteptați mai degrabă în magazinele sau cafenelele din apropierea stațiilor.",
+              "Treptele autobuzelor pot fi alunecoase din cauza zăpezii topite.",
+              "Purtați mănuși compatibile cu ecranele tactile pentru a folosi aplicația de bilete.",
+              "Iarna autobuzele sunt adesea pline; în partea din spate este de obicei mai cald."
+            ],
+            "en": [
+              "Buses may run irregularly during heavy snowfall; allow for extra travel time.",
+              "Wait in nearby shops or cafes rather than standing out in the cold at the stop.",
+              "Bus steps can be slippery due to melted snow brought in by passengers.",
+              "Wear touchscreen-compatible gloves to handle your digital tickets easily.",
+              "Buses are often crowded in winter; the rear sections are usually the warmest."
+            ]
+          }
+        }
       }
     }
   }

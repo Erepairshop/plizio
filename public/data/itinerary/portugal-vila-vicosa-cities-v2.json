@@ -395,6 +395,206 @@
           "Plan your lunch outside of peak hours to avoid crowds.",
           "Most attractions are within easy walking distance of each other."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein verregneter Morgen am Praça da República beginnt unter schützenden Arkaden, bevor es zu den mächtigen Mauern der Burg geht. Mittags bietet die Wallfahrtskirche Zuflucht, gefolgt von einer ausgiebigen Tour durch den prunkvollen Herzogspalast. Am Nachmittag erkunden wir das Kutschen- und Marmormuseum, geschützt vor dem Wetter. Der Tag endet gemütlich bei einem Glas lokalem Wein in einer warmen Taverne.",
+            "hu": "Az esős reggel a Praça da República árkádjai alatt indul, majd a vár vastag falai közé húzódunk. Délben a kegytemplom nyújt menedéket, amit a hercegi palota lenyűgöző és hosszú benti tárlatvezetése követ. Délután a kocsi- és márványmúzeum fedett tereiben maradunk szárazon. Az este egy helyi borozó melegében, az Alentejo-i konyha ízei mellett telik.",
+            "ro": "O dimineață ploioasă în Praça da República începe sub arcade, înainte de a ne retrage între zidurile groase ale castelului. La prânz, sanctuarul oferă adăpost, urmat de un tur lung și uscat în interiorul Palatului Ducal. După-amiaza explorăm muzeele de trăsuri și marmură, stând feriți de intemperii. Seara se încheie confortabil într-o tavernă caldă, cu un vin local bun.",
+            "en": "A rainy morning at Republic Square starts under protective awnings before heading to the sturdy castle walls. At noon, the sanctuary provides a dry refuge, followed by an extensive indoor tour of the grand Ducal Palace. In the afternoon, we explore the coach and marble museums, staying completely sheltered. The day ends warmly in a local tavern with hearty Alentejan food."
+          },
+          "stops": [
+            {
+              "name": "Republic Square",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den Orangenbäumen oder den Markisen der Cafés.",
+                "hu": "Keressen menedéket a narancsfák alatt vagy a kávézók ponyvái alatt.",
+                "ro": "Căutați adăpost sub portocali sau sub copertinele cafenelelor.",
+                "en": "Seek shelter under the orange trees or the cafe awnings."
+              }
+            },
+            {
+              "name": "Castle of Vila Viçosa",
+              "tip_5lang": {
+                "de": "Das interne Museum bietet eine perfekte trockene Flucht vor dem Regen.",
+                "hu": "A belső múzeum tökéletes száraz menedéket nyújt az eső elől.",
+                "ro": "Muzeul interior oferă o evadare uscată perfectă de ploaie.",
+                "en": "The internal museum provides a perfect dry escape from the rain."
+              }
+            },
+            {
+              "name": "Sanctuary of Our Lady of the Conception",
+              "tip_5lang": {
+                "de": "Hinter den schweren Türen erwartet Sie ein ruhiges, trockenes Heiligtum.",
+                "hu": "A nehéz ajtók mögött csendes, száraz szentély várja.",
+                "ro": "Ușile grele de lemn duc spre un sanctuar liniștit și uscat.",
+                "en": "Use the heavy wooden doors to enter a quiet, dry sanctuary."
+              }
+            },
+            {
+              "name": "Ducal Palace of Vila Viçosa",
+              "tip_5lang": {
+                "de": "Eine lange Führung hält Sie fast zwei Stunden lang völlig trocken.",
+                "hu": "A hosszú tárlatvezetés közel két órán át teljesen szárazon tartja.",
+                "ro": "Un tur ghidat lung vă menține complet uscat.",
+                "en": "A long guided tour keeps you completely dry for nearly two hours."
+              }
+            },
+            {
+              "name": "Pantheon of the Dukes of Braganza",
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Palast zu dieser ruhigen Innengruft.",
+                "hu": "Gyors futás a palotából ebbe a csendes beltéri sírboltba.",
+                "ro": "O fugă scurtă de la palat către acest mormânt interior liniștit.",
+                "en": "Quick dash from the palace to this quiet indoor tomb."
+              }
+            },
+            {
+              "name": "Coach Museum",
+              "tip_5lang": {
+                "de": "Große Innenhallen schützen Sie und die historischen Kutschen.",
+                "hu": "A nagy belső csarnokok megvédik Önt és a történelmi kocsikat is.",
+                "ro": "Hangarele interioare mari vă protejează pe dumneavoastră.",
+                "en": "Large indoor hangars protect you and the historic carriages."
+              }
+            },
+            {
+              "name": "Marble Museum",
+              "tip_5lang": {
+                "de": "Das Museumsinnere ist kühl und trocken, ideal für den Nachmittag.",
+                "hu": "A múzeum belseje hűvös és száraz, ideális a délutáni esőhöz.",
+                "ro": "Interiorul muzeului este răcoros și uscat, perfect.",
+                "en": "The museum interior is cool and dry, perfect for the afternoon."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe; Marmorpflaster wird bei Nässe extrem rutschig.",
+              "Viele Geschäfte am Platz haben schmale Vordächer, unter denen man laufen kann.",
+              "Die Tour durch den Herzogspalast ist die beste Art, den stärksten Regen zu überbrücken.",
+              "Halten Sie einen kleinen Regenschirm für die kurzen Sprints zwischen den Gebäuden bereit."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt; a márványburkolat vizesen rendkívül csúszós lehet.",
+              "A főtér mentén sok üzlet rendelkezik keskeny előtetővel, ami alatt haladhat.",
+              "A hercegi palota látogatása a legjobb módja a leghevesebb eső átvészelésének.",
+              "Legyen kéznél egy kis esernyő az épületek közötti rövid szakaszokhoz."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă; marmura devine extrem de alunecoasă pe ploaie.",
+              "Multe magazine din piață au copertine înguste sub care puteți merge.",
+              "Turul Palatului Ducal este cea mai bună metodă de a evita ploaia torențială.",
+              "Aveți la îndemână o umbrelă mică pentru distanțele scurte dintre clădiri."
+            ],
+            "en": [
+              "Wear waterproof shoes; marble sidewalks can be slippery when wet.",
+              "Many shops around the square have narrow overhangs to walk under.",
+              "The Ducal Palace tour is the best way to spend the heaviest rain.",
+              "Keep a small umbrella ready for the short dashes between the main buildings."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der klare Wintermorgen beleuchtet den weißen Marmor des Hauptplatzes, während eine kühle Brise durch die Gassen weht. Nach der Burgbesichtigung wärmen wir uns im prächtigen Herzogspalast auf, dessen Säle im Winterlicht erstrahlen. Der Nachmittag gehört den Museen, bevor die Sonne früh hinter den Hügeln des Alentejo versinkt. Abends genießen wir die Ruhe des Ortes in einem beheizten Restaurant.",
+            "hu": "A tiszta téli reggel megvilágítja a főtér fehér márványát, miközben hűvös szellő járja át az utcákat. A vár után a hercegi palota termeiben melegszünk fel, amelyeket gyönyörűen megvilágít a téli nap. A délutánt a múzeumoknak szenteljük, mielőtt a nap korán eltűnik az Alentejo-i dombok mögött. Az estét egy fűtött étterem nyugalmában töltjük.",
+            "ro": "Dimineața senină de iarnă luminează marmura albă a pieței centrale, în timp ce o briză rece străbate străzile. După castel, ne încălzim în sălile Palatului Ducal, luminate superb de soarele de iarnă. După-amiaza este dedicată muzeelor, înainte ca soarele să apună devreme peste dealurile din Alentejo. Seara ne bucurăm de liniștea orașului într-un restaurant încălzit.",
+            "en": "The crisp winter morning illuminates the white marble of the main square while a cool breeze drifts through the alleys. After the castle, we warm up in the grand halls of the Ducal Palace, beautifully lit by the winter sun. The afternoon is spent in the museums before the sun sets early over the Alentejan hills. The evening ends peacefully in a heated local restaurant."
+          },
+          "stops": [
+            {
+              "name": "Republic Square",
+              "tip_5lang": {
+                "de": "Genießen Sie die frische Luft und die helle Reflexion des Marmors.",
+                "hu": "Élvezze a friss levegőt és a márványpadló ragyogó tükröződését.",
+                "ro": "Bucurați-vă de aerul curat și de reflexia luminoasă a marmurei.",
+                "en": "Enjoy the crisp air and the bright reflection of the marble floor."
+              }
+            },
+            {
+              "name": "Castle of Vila Viçosa",
+              "tip_5lang": {
+                "de": "Die hohen Mauern bieten Schutz vor den schneidenden Alentejo-Winden.",
+                "hu": "A magas falak némi védelmet nyújtanak a csípős Alentejo-i szél ellen.",
+                "ro": "Zidurile înalte oferă protecție împotriva vântului tăios.",
+                "en": "The high walls offer some protection from the biting Alentejo winds."
+              }
+            },
+            {
+              "name": "Sanctuary of Our Lady of the Conception",
+              "tip_5lang": {
+                "de": "Die dicken Steinmauern halten das Innere überraschend temperiert.",
+                "hu": "A vastag kőfalak meglepően kellemes hőmérsékletet tartanak bent.",
+                "ro": "Zidurile groase de piatră mențin interiorul temperat.",
+                "en": "The thick stone walls keep the interior surprisingly temperate."
+              }
+            },
+            {
+              "name": "Ducal Palace of Vila Viçosa",
+              "tip_5lang": {
+                "de": "Perfektes Timing, um während der kältesten Tageszeit drinnen zu sein.",
+                "hu": "Tökéletes időzítés, hogy a nap leghidegebb részében bent legyen.",
+                "ro": "Momentul perfect pentru a fi în interior în cea mai rece parte a zilei.",
+                "en": "Perfect timing to be indoors during the coldest part of the day."
+              }
+            },
+            {
+              "name": "Pantheon of the Dukes of Braganza",
+              "tip_5lang": {
+                "de": "Eine feierliche Atmosphäre, die im Winter noch friedlicher wirkt.",
+                "hu": "Ünnepélyes, csendes hangulat, amely télen még békésebbnek hat.",
+                "ro": "O atmosferă solemnă care pare și mai liniștită iarna.",
+                "en": "A solemn, quiet atmosphere that feels even more peaceful in winter."
+              }
+            },
+            {
+              "name": "Coach Museum",
+              "tip_5lang": {
+                "de": "Die Erkundung der Sammlung hält Sie in Bewegung und warm.",
+                "hu": "A gyűjtemény felfedezése mozgásban tartja és felmelegíti.",
+                "ro": "Explorarea colecției mari este o metodă bună de a rămâne activ.",
+                "en": "Exploring the large collection is a great way to stay active and warm."
+              }
+            },
+            {
+              "name": "Marble Museum",
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag hier, wenn draußen die frühe Dämmerung einsetzt.",
+                "hu": "Itt fejezze be a napot, amikor kint elkezdődik a korai szürkület.",
+                "ro": "Încheiați ziua aici, pe măsură ce amurgul se lasă afară.",
+                "en": "End your day here as the early twilight begins to settle outside."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Kleidung in Schichten; in der Sonne ist es warm, im Schatten kühl.",
+              "Der Sonnenuntergang ist gegen 17:30 Uhr; planen Sie Außenbesuche davor.",
+              "Die Museen sind im Winter weniger überlaufen, ideal für ruhige Besichtigungen.",
+              "Probieren Sie die herzhaften lokalen Eintöpfe, die perfekt für die Jahreszeit sind."
+            ],
+            "hu": [
+              "Öltözzön rétegesen; a napon meleg van, de árnyékban gyorsan lehűl az idő.",
+              "A naplemente 17:30 körül van; a szabadtéri látogatásokat tervezze korábbra.",
+              "A múzeumok télen kevésbé zsúfoltak, ideális a nyugodt nézelődéshez.",
+              "Kóstolja meg a kiadós helyi pörkölteket, amelyek tökéletesek ehhez az évszakhoz."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi; e cald la soare, dar răcoare la umbră.",
+              "Apusul este în jur de 17:30; planificați vizitele externe înainte de această oră.",
+              "Muzeele sunt mai puțin aglomerate iarna, ideale pentru vizite liniștite.",
+              "Gustați tocanitțele locale consistente, perfecte pentru acest sezon."
+            ],
+            "en": [
+              "Wear layers; it is warm in the sun but cool in the shade.",
+              "Sunset is around 17:30; plan outdoor visits before then.",
+              "Museums are less crowded in winter, ideal for quiet exploration.",
+              "Try the hearty local stews, which are perfect for the season."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -768,6 +968,206 @@
           "A water bottle is essential, especially on warm days.",
           "Plan your route in advance to avoid steep hills if you prefer."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz des Regens bietet Vila Viçosa auf dem Rad eine besondere Perspektive, solange man auf dem rutschigen Marmor vorsichtig ist. Vormittags nutzen wir die Pausen zwischen den Schauern für die Burg, bevor wir mittags im Palast und in den Museen trocken bleiben. Der Nachmittag führt uns zum Marmormuseum am Stadtrand. Wir beenden die Tour bei einem wärmenden Kaffee im Zentrum.",
+            "hu": "Az eső ellenére Vila Viçosa kerékpáron is különleges élmény, ha vigyázunk a csúszós márványon. Délelőtt a záporok közötti szüneteket használjuk a várhoz, majd délben a palotában és a múzeumokban maradunk szárazon. Délután a város szélén lévő márványmúzeumhoz tekerünk. A túrát egy melengető kávéval zárjuk a központban.",
+            "ro": "În ciuda ploii, Vila Viçosa oferă o perspectivă deosebită pe bicicletă, cu atenție sporită pe marmura alunecoasă. Dimineața folosim pauzele dintre averse pentru castel, iar la prânz rămânem uscați în palat și muzee. După-amiaza ne duce la muzeul de marmură de la marginea orașului. Încheiem turul cu o cafea caldă în centru.",
+            "en": "Despite the rain, Vila Viçosa on a bike offers a unique perspective, provided you are careful on the slippery marble. In the morning, we use the gaps between showers for the castle, then stay dry in the palace and museums at noon. The afternoon leads us to the marble museum on the outskirts. We end the tour with a warming coffee in the center."
+          },
+          "stops": [
+            {
+              "name": "Republic Square",
+              "tip_5lang": {
+                "de": "Parken Sie unter Markisen, um den Sattel trocken zu halten.",
+                "hu": "Parkoljon a ponyvák alatt, hogy a nyereg száraz maradjon.",
+                "ro": "Parcați sub copertine pentru a păstra șaua uscată.",
+                "en": "Park your bike under the cafe awnings to keep the seat dry."
+              }
+            },
+            {
+              "name": "Castle of Vila Viçosa",
+              "tip_5lang": {
+                "de": "Sichern Sie Ihr Rad nahe am Eingang; das Innere ist trocken.",
+                "hu": "Zárja le a biciklit a bejárat közelében; a belső rész száraz.",
+                "ro": "Asigurați bicicleta lângă intrare; interiorul este uscat.",
+                "en": "Lock your bike near the entrance; the interior provides a dry break."
+              }
+            },
+            {
+              "name": "Sanctuary of Our Lady of the Conception",
+              "tip_5lang": {
+                "de": "Die Vorhalle bietet einen kleinen trockenen Platz für den Helm.",
+                "hu": "Az előcsarnok egy kis száraz helyet kínál a sisaknak.",
+                "ro": "Pridvorul oferă un mic loc uscat pentru cască.",
+                "en": "The porch offers a small dry spot to secure your helmet."
+              }
+            },
+            {
+              "name": "Ducal Palace of Vila Viçosa",
+              "tip_5lang": {
+                "de": "Nutzen Sie den langen Besuch, um Ihre Ausrüstung zu trocknen.",
+                "hu": "Használja a hosszú látogatást a vizes felszerelés szárítására.",
+                "ro": "Folosiți vizita lungă pentru a vă usca echipamentul.",
+                "en": "Use the long indoor visit to dry off your wet cycling gear."
+              }
+            },
+            {
+              "name": "Pantheon of the Dukes of Braganza",
+              "tip_5lang": {
+                "de": "Ein schneller Sprint hinein; die Steinvorhalle ist gut für eine Rast.",
+                "hu": "Gyors bejutás; a kő előtér jó egy pillanatnyi pihenésre.",
+                "ro": "O intrare rapidă; pridvorul de piatră este bun pentru odihnă.",
+                "en": "A quick dash inside; the stone porch is great for a moment's rest."
+              }
+            },
+            {
+              "name": "Coach Museum",
+              "tip_5lang": {
+                "de": "Viel Platz drinnen, während man auf das Ende des Regens wartet.",
+                "hu": "Bőséges belső tér, amíg az eső elálltára vár.",
+                "ro": "Spațiu interior amplu în timp ce așteptați oprirea ploii.",
+                "en": "Ample indoor space to explore while waiting for the rain to stop."
+              }
+            },
+            {
+              "name": "Marble Museum",
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um einen heftigen Regenschauer abzuwarten.",
+                "hu": "Tökéletes hely egy heves zápor kivárására.",
+                "ro": "Locul perfect pentru a aștepta trecerea unei averse torențiale.",
+                "en": "The final indoor stop; a perfect place to wait out a downpour."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Marmorpflaster wird extrem rutschig; fahren Sie vorsichtig und bremsen Sie früh.",
+              "Schutzbleche sind bei Regen unerlässlich, um Schlamm und Spritzwasser abzuhalten.",
+              "Nutzen Sie die langen Museumsbesuche, um Ihre Kleidung zu trocknen.",
+              "Ein wasserdichter Sattelbezug verhindert das Fahren auf einem nassen Sitz."
+            ],
+            "hu": [
+              "A márványburkolat rendkívül csúszós lesz; óvatosan hajtson és fékezzen időben.",
+              "A sárvédő elengedhetetlen az esőben a sár és a felcsapódó víz ellen.",
+              "Használja ki a hosszú múzeumi látogatásokat a ruházata szárítására.",
+              "Egy vízálló nyereghuzat megakadályozza, hogy vizes ülésen kelljen folytatnia."
+            ],
+            "ro": [
+              "Pavajul de marmură devine extrem de alunecos; pedalați cu atenție.",
+              "Apărătorile sunt esențiale pe ploaie pentru a evita noroiul și apa.",
+              "Folosiți vizitele lungi la muzee pentru a vă usca hainele.",
+              "O husă de șa impermeabilă vă ferește de disconfort după vizită."
+            ],
+            "en": [
+              "Marble pavement becomes extremely slippery; ride carefully and brake early.",
+              "Mudguards are essential in the rain to deflect mud and spray.",
+              "Use long museum visits as an opportunity to dry your clothing.",
+              "A waterproof saddle cover prevents riding on a wet seat afterwards."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintertag auf dem Rad in Vila Viçosa erfordert warme Kleidung gegen den Wind, bietet aber fantastische Lichtverhältnisse. Vormittags erkunden wir den Burgberg, gefolgt von der wärmenden Pracht des Herzogspalastes. Der Nachmittag auf dem Rad führt durch die ruhigen, weißen Gassen zu den Museen. Vor dem frühen Sonnenuntergang beenden wir die Tour im warmen Ortskern.",
+            "hu": "Egy téli kerékpáros nap Vila Viçosában meleg ruházatot igényel a szél ellen, de fantasztikus fényeket kínál. Délelőtt a várhegyet fedezzük fel, majd a hercegi palota melegítő pompája következik. A délutáni tekerés a csendes, fehér utcákon át vezet a múzeumokhoz. A korai naplemente előtt a meleg városközpontban zárjuk a túrát.",
+            "ro": "O zi de iarnă pe bicicletă în Vila Viçosa necesită haine groase împotriva vântului, dar oferă o lumină fantastică. Dimineața explorăm dealul castelului, urmat de splendoarea caldă a Palatului Ducal. Pedalatul de după-amiază ne poartă prin străzile albe și liniștite spre muzee. Înainte de apusul devreme, încheiem turul în centrul primitor.",
+            "en": "A winter day on a bike in Vila Viçosa requires warm clothing against the wind but offers fantastic light. In the morning, we explore the castle hill, followed by the warming grandeur of the Ducal Palace. The afternoon ride leads through quiet, white alleys to the museums. Before the early sunset, we finish the tour in the warm town center."
+          },
+          "stops": [
+            {
+              "name": "Republic Square",
+              "tip_5lang": {
+                "de": "Das helle Winterlicht auf dem Marmor ist ideal für Fotos.",
+                "hu": "A márványon megcsillanó téli fény ideális a fotózáshoz.",
+                "ro": "Lumina de iarnă pe marmură este ideală pentru fotografii.",
+                "en": "The bright winter light on the marble is ideal for photos."
+              }
+            },
+            {
+              "name": "Castle of Vila Viçosa",
+              "tip_5lang": {
+                "de": "Vorsicht bei Windböen auf den offenen Abschnitten des Burgbergs.",
+                "hu": "Vigyázzon a széllökésekkel a várhegy nyitott részein.",
+                "ro": "Atenție la rafalele de vânt pe porțiunile deschise ale castelului.",
+                "en": "Be careful with wind gusts on the open sections of the castle hill."
+              }
+            },
+            {
+              "name": "Sanctuary of Our Lady of the Conception",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um sich kurz von der kühlen Brise zu erholen.",
+                "hu": "Csendes hely, ahol rövid időre megpihenhet a hűvös szél elől.",
+                "ro": "Un loc liniștit pentru o scurtă pauză de la briza rece.",
+                "en": "A quiet place to take a short break from the cool breeze."
+              }
+            },
+            {
+              "name": "Ducal Palace of Vila Viçosa",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Palastbesuch, um sich gründlich aufzuwärmen.",
+                "hu": "Használja ki a palotalátogatást az alapos felmelegedésre.",
+                "ro": "Folosiți vizita la palat pentru a vă încălzi bine.",
+                "en": "Use the palace visit as a chance to thoroughly warm up."
+              }
+            },
+            {
+              "name": "Pantheon of the Dukes of Braganza",
+              "tip_5lang": {
+                "de": "Im Winter herrscht hier eine besonders andächtige Stille.",
+                "hu": "Télen különösen áhítatos csend uralkodik itt.",
+                "ro": "Iarna, aici domnește o liniște deosebit de pioasă.",
+                "en": "In winter, a particularly solemn silence prevails here."
+              }
+            },
+            {
+              "name": "Coach Museum",
+              "tip_5lang": {
+                "de": "Die Bewegung in den großen Hallen hält die Körpertemperatur stabil.",
+                "hu": "A nagy csarnokokban való mozgás stabilan tartja a testhőt.",
+                "ro": "Mișcarea în halele mari menține temperatura corpului stabilă.",
+                "en": "Moving through the large halls keeps your body temperature stable."
+              }
+            },
+            {
+              "name": "Marble Museum",
+              "tip_5lang": {
+                "de": "Geben Sie Ihr Rad rechtzeitig vor Einbruch der Dunkelheit ab.",
+                "hu": "Adja le a biciklit időben, még a sötétedés beállta előtt.",
+                "ro": "Returnați bicicleta la timp, înainte de lăsarea întunericului.",
+                "en": "Return your bike in good time before darkness falls."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Winterwinde können kalt sein; Windstopper-Kleidung ist wichtig.",
+              "Da es um 17:30 Uhr dunkel wird, prüfen Sie Ihre Fahrradbeleuchtung.",
+              "Planen Sie Aufwärmstopps in Cafés am Hauptplatz ein.",
+              "Die klare Winterluft bietet weite Sicht, ideal für Panoramafotos."
+            ],
+            "hu": [
+              "A téli szelek hidegek lehetnek; a szélálló ruházat fontos.",
+              "Mivel 17:30-kor sötétedik, ellenőrizze a kerékpár világítását.",
+              "Tervezzen be melegedő szüneteket a főtér kávézóiban.",
+              "A tiszta téli levegő távoli kilátást biztosít, ideális panorámafotókhoz."
+            ],
+            "ro": [
+              "Vânturile de iarnă pot fi reci; hainele rezistente la vânt sunt importante.",
+              "Se întunecă la 17:30, deci verificați luminile bicicletei.",
+              "Planificați pauze de încălzire în cafenelele din piața centrală.",
+              "Aerul curat de iarnă oferă o vizibilitate mare, ideală pentru fotografii."
+            ],
+            "en": [
+              "Winter winds can be cold; windstopper clothing is essential.",
+              "Since it gets dark at 17:30, ensure your bike lights are working.",
+              "Schedule warming stops at cafes in the main square.",
+              "The crisp winter air offers far-reaching views, ideal for panoramas."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1098,6 +1498,188 @@
           "Driving in the historic center is not recommended; streets are very narrow.",
           "Use your car to visit nearby towns like Estremoz or Elvas if you have time."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto lässt sich Vila Viçosa auch bei Regen komfortabel erkunden, da man fast überall direkt vor der Tür parken kann. Den Vormittag verbringen wir in der Burg und der Wallfahrtskirche, während der Wagen sicher in der Nähe steht. Mittags und nachmittags bieten der Herzogspalast und die Museen trockene Highlights. Die kurzen Fahrten zwischen den Zielen minimieren die Zeit im Regen.",
+            "hu": "Autóval Vila Viçosa esőben is kényelmesen felfedezhető, mivel szinte mindenhol az ajtó előtt parkolhatunk. A délelőttöt a várban és a kegytemplomban töltjük, miközben az autó biztonságban áll a közelben. Délben és délután a hercegi palota és a múzeumok nyújtanak száraz programot. A célpontok közötti rövid utak minimalizálják az esőben töltött időt.",
+            "ro": "Cu mașina, Vila Viçosa poate fi explorată confortabil și pe ploaie, deoarece puteți parca aproape pretutindeni chiar lângă intrare. Dimineața o petrecem la castel și sanctuar, în timp ce mașina stă aproape. La prânz și după-amiază, palatul și muzeele oferă atracții uscate. Drumurile scurte dintre obiective reduc timpul petrecut în ploaie.",
+            "en": "By car, Vila Viçosa can be comfortably explored even in the rain, as you can park almost right in front of every entrance. Spend the morning in the castle and sanctuary while the car is safely parked nearby. In the midday and afternoon, the palace and museums provide dry highlights. The short drives between destinations minimize your time in the rain."
+          },
+          "stops": [
+            {
+              "name": "Parking near Praça da República",
+              "tip_5lang": {
+                "de": "Wählen Sie einen Platz nah am Ausgang für einen schnellen Sprint.",
+                "hu": "Válasszon kijárathoz közeli helyet a gyors bejutáshoz.",
+                "ro": "Alegeți un loc aproape de ieșire pentru o fugă rapidă.",
+                "en": "Choose a spot close to the exit for a quick dash to the square."
+              }
+            },
+            {
+              "name": "Republic Square",
+              "tip_5lang": {
+                "de": "Beobachten Sie den Regen auf dem Marmor gemütlich aus dem Café.",
+                "hu": "Figyelje az esőt a márványon egy kávézó belsejéből.",
+                "ro": "Observați ploaia pe marmură din interiorul unei cafenele.",
+                "en": "Watch the rain on the marble from inside a cozy cafe."
+              }
+            },
+            {
+              "name": "Castle of Vila Viçosa & Sanctuary",
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich; der Besuch ist meist überdacht.",
+                "hu": "Parkoljon a lehető legközelebb; a látogatás nagy része fedett.",
+                "ro": "Parcați cât mai aproape; vizita este în mare parte acoperită.",
+                "en": "Park as close as possible; most of this visit is under cover."
+              }
+            },
+            {
+              "name": "Ducal Palace of Vila Viçosa",
+              "tip_5lang": {
+                "de": "Die Kasse und das Palastinnere halten Sie den ganzen Besuch trocken.",
+                "hu": "A pénztár és a palota belseje a teljes látogatás alatt szárazon tartja.",
+                "ro": "Casa de bilete și interiorul vă țin uscat pe tot parcursul vizitei.",
+                "en": "The ticket office and palace interior keep you dry for the visit."
+              }
+            },
+            {
+              "name": "Coach Museum & Pantheon",
+              "tip_5lang": {
+                "de": "Direkte Parkmöglichkeiten in der Nähe minimieren die Zeit im Freien.",
+                "hu": "A közeli parkolási lehetőség minimalizálja a kint töltött időt.",
+                "ro": "Parcarea directă în apropiere reduce timpul petrecut afară.",
+                "en": "Direct parking nearby minimizes your time out in the rain."
+              }
+            },
+            {
+              "name": "Drive to the Marble Museum",
+              "tip_5lang": {
+                "de": "Einfaches Parken direkt am Eingang; trocken vom Auto zur Tür.",
+                "hu": "Egyszerű parkolás közvetlenül a bejáratnál; szárazon az autótól.",
+                "ro": "Parcare ușoară chiar la intrare; rămâneți uscat până la ușă.",
+                "en": "Easy parking right at the entrance; stay dry from car to door."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Parkplätze direkt vor den Sehenswürdigkeiten.",
+              "Lassen Sie nasse Regenschirme im Kofferraum, um das Auto trocken zu halten.",
+              "Vermeiden Sie bei starkem Regen das Fahren durch sehr enge Gassen.",
+              "Die Museen sind perfekte Stopps, um die stärksten Regenschauer abzuwarten."
+            ],
+            "hu": [
+              "Használja a látnivalók közvetlen közelében lévő parkolókat.",
+              "A vizes esernyőket hagyja a csomagtartóban, hogy az utastér száraz maradjon.",
+              "Heves esőzéskor kerülje a nagyon szűk utcákban való közlekedést.",
+              "A múzeumok tökéletes helyszínek a leghevesebb záporok kivárására."
+            ],
+            "ro": [
+              "Folosiți parcările aflate chiar în fața obiectivelor turistice.",
+              "Lăsați umbrelele ude în portbagaj pentru a păstra mașina uscată.",
+              "Evitați străzile foarte înguste în timpul ploilor torențiale.",
+              "Muzeele sunt opriri perfecte pentru a aștepta trecerea ploii."
+            ],
+            "en": [
+              "Utilize parking spots directly in front of the main attractions.",
+              "Leave wet umbrellas in the trunk to keep the car interior dry.",
+              "Avoid driving through very narrow alleys during heavy downpours.",
+              "The museums are perfect stops to wait out the heaviest rain showers."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Vila Viçosa im Winter mit dem Auto bietet die Freiheit, die Highlights in der Wärme zu verbinden. Der klare Morgen am Hauptplatz ist herrlich, gefolgt von der Burg und der Wallfahrtskirche. Mittags wärmen wir uns im prächtigen Herzogspalast auf. Der Nachmittag führt uns zu den Kutschen und zum Marmormuseum, bevor wir die Tour pünktlich zum frühen Sonnenuntergang beenden.",
+            "hu": "Vila Viçosa télen autóval szabadságot ad, hogy melegben kössük össze a látnivalókat. A tiszta reggel a főtéren csodálatos, amit a vár és a kegytemplom követ. Délben a hercegi palota pompájában melegszünk fel. A délután a kocsikhoz és a márványmúzeumhoz vezet, mielőtt a túrát pontosan a korai naplementére befejeznénk.",
+            "ro": "Vila Viçosa iarna cu mașina oferă libertatea de a vizita atracțiile la căldură. Dimineața senină în piața centrală este superbă, urmată de castel și sanctuar. La prânz ne încălzim în splendoarea Palatului Ducal. După-amiaza ne poartă la trăsuri și la muzeul de marmură, înainte de a încheia turul la apus.",
+            "en": "Vila Viçosa in winter by car offers the freedom to connect the highlights in warmth. The clear morning at the main square is wonderful, followed by the castle and sanctuary. At noon, we warm up in the grand Ducal Palace. The afternoon leads to the coaches and the marble museum before finishing the tour right in time for the early sunset."
+          },
+          "stops": [
+            {
+              "name": "Parking near Praça da República",
+              "tip_5lang": {
+                "de": "Die Morgensonne wärmt das Auto auf den offenen Plätzen schnell auf.",
+                "hu": "A reggeli nap gyorsan felmelegíti az autót a nyitott helyeken.",
+                "ro": "Soarele de dimineață încălzește rapid mașina în parcările deschise.",
+                "en": "The morning sun quickly warms up the car in the open lots."
+              }
+            },
+            {
+              "name": "Republic Square",
+              "tip_5lang": {
+                "de": "Die tiefe Wintersonne spiegelt sich schön an den weißen Häusern.",
+                "hu": "Az alacsony téli nap szépen tükröződik a fehér házakon.",
+                "ro": "Soarele de iarnă se reflectă frumos pe clădirile albe.",
+                "en": "The low winter sun reflects beautifully off the white buildings."
+              }
+            },
+            {
+              "name": "Castle of Vila Viçosa & Sanctuary",
+              "tip_5lang": {
+                "de": "Die Steinräume sind kühl; lassen Sie den Mantel während der Tour an.",
+                "hu": "A kőtermek hűvösek; hagyja magán a kabátot a túra alatt.",
+                "ro": "Sălile de piatră sunt reci; păstrați haina pe dvs. în timpul turului.",
+                "en": "The stone interiors are cool; keep your coat on during the tour."
+              }
+            },
+            {
+              "name": "Ducal Palace of Vila Viçosa",
+              "tip_5lang": {
+                "de": "Die prunkvollen Säle wirken im klaren Winterlicht besonders majestätisch.",
+                "hu": "A pompás termek a tiszta téli fényben különösen fenségesek.",
+                "ro": "Sălile fastuoase par deosebit de maiestuoase în lumina de iarnă.",
+                "en": "The grand halls are majestic in the clear winter light."
+              }
+            },
+            {
+              "name": "Coach Museum & Pantheon",
+              "tip_5lang": {
+                "de": "Genießen Sie die ruhige Winterstimmung an diesen weniger besuchten Orten.",
+                "hu": "Élvezze a csendes téli hangulatot ezeken a kevésbé zsúfolt helyeken.",
+                "ro": "Bucurați-vă de atmosfera liniștită de iarnă în aceste locuri.",
+                "en": "Enjoy the quiet winter atmosphere in these less crowded sites."
+              }
+            },
+            {
+              "name": "Drive to the Marble Museum",
+              "tip_5lang": {
+                "de": "Beenden Sie die Fahrt, wenn das Licht die Marmorbrüche hervorhebt.",
+                "hu": "Fejezze be az utat, amikor a fény kiemeli a márványbányákat.",
+                "ro": "Încheiați drumul când lumina evidențiază carierele de marmură.",
+                "en": "Finish your drive as the light highlights the marble quarries."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Heizung Ihres Wagens für komfortable Transfers.",
+              "Planen Sie die Route so, dass Sie vor Sonnenuntergang am Ziel sind.",
+              "Die Parkplatzsuche ist im Winter aufgrund weniger Touristen sehr einfach.",
+              "Achten Sie auf eventuellen Frost in schattigen Gassen am frühen Morgen."
+            ],
+            "hu": [
+              "Használja az autó fűtését a kényelmes transzferekhez.",
+              "Úgy tervezze az útvonalat, hogy naplemente előtt célba érjen.",
+              "A téli időszakban a kevesebb turista miatt a parkolás nagyon egyszerű.",
+              "Kora reggel figyeljen az esetleges fagypont körüli hőmérsékletre."
+            ],
+            "ro": [
+              "Folosiți încălzirea mașinii pentru transferuri confortabile.",
+              "Planificați ruta astfel încât să ajungeți la destinație înainte de apus.",
+              "Găsirea unui loc de parcare este foarte ușoară iarna.",
+              "Atenție la posibilele porțiuni de îngheț în zonele umbrite dimineața."
+            ],
+            "en": [
+              "Use your car's heating for comfortable transfers between sites.",
+              "Plan your route to arrive at your final destination before sunset.",
+              "Finding parking is very easy in winter due to fewer tourists.",
+              "Watch for potential frost in shaded alleys during the early morning."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1396,6 +1978,188 @@
           "Almost everything is walkable, but prioritize your must-sees.",
           "Ask for the 'Prato do Dia' (dish of the day) at local cafes for an affordable lunch."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Vila Viçosa mit öffentlichen Verkehrsmitteln erfordert bei Regen etwas Planung, bietet aber eine entspannte Ankunft. Wir starten am Marmormuseum, um den Vormittag trocken zu verbringen. Danach führt der Weg zum Hauptplatz und zur Burg. Den Nachmittag widmen wir dem Herzogspalast und dem Kutschenmuseum, bevor wir bequem per Bus die Heimreise antreten.",
+            "hu": "Vila Viçosa tömegközlekedéssel esőben némi tervezést igényel, de nyugodt érkezést biztosít. A márványmúzeumnál kezdünk, hogy a délelőttöt szárazon töltsük. Ezután az út a főtérhez és a várhoz vezet. A délutánt a hercegi palotának és a kocsimúzeumnak szenteljük, mielőtt busszal hazaindulnánk.",
+            "ro": "Vila Viçosa cu transportul public necesită puțină planificare pe ploaie, dar oferă o sosire relaxată. Începem la muzeul de marmură pentru a petrece dimineața la adăpost. Apoi, drumul duce la piața centrală și la castel. După-amiaza o dedicăm palatului și muzeului de trăsuri, înainte de plecare.",
+            "en": "Vila Viçosa by public transit requires some planning in the rain but offers a relaxed arrival. We start at the marble museum to spend the morning dry. Afterwards, the route leads to the main square and the castle. The afternoon is dedicated to the Ducal Palace and the coach museum before heading back by bus."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Vila Viçosa Bus Stop",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Unterstand an der Bushaltestelle zur Orientierung.",
+                "hu": "Használja a buszmegálló váróját az orientációhoz.",
+                "ro": "Folosiți adăpostul din stația de autobuz pentru orientare.",
+                "en": "Use the shelter at the bus stop to orient yourself before moving."
+              }
+            },
+            {
+              "name": "Marble Museum",
+              "tip_5lang": {
+                "de": "Beginnen Sie drinnen, während der Regen am Morgen am stärksten ist.",
+                "hu": "Kezdjen bent, amíg a reggeli eső a leghevesebb.",
+                "ro": "Începeți în interior, când ploaia de dimineață este mai densă.",
+                "en": "Start indoors to stay dry while the morning rain is heaviest."
+              }
+            },
+            {
+              "name": "Republic Square",
+              "tip_5lang": {
+                "de": "Der Weg vom Bus ist kurz; nutzen Sie die Ladenmarkisen.",
+                "hu": "A busztól rövid az út; használja az üzletek előtetőit.",
+                "ro": "Drumul de la autobuz este scurt; folosiți copertinele.",
+                "en": "The walk from the bus is short; use the shop awnings."
+              }
+            },
+            {
+              "name": "Castle of Vila Viçosa",
+              "tip_5lang": {
+                "de": "Konzentrieren Sie sich auf die Museen, um maximal überdacht zu bleiben.",
+                "hu": "Koncentráljon a múzeumokra, hogy maximálisan fedett helyen maradjon.",
+                "ro": "Concentrați-vă pe muzee pentru a rămâne sub acoperiș.",
+                "en": "Focus on the interior museums to maximize your time under cover."
+              }
+            },
+            {
+              "name": "Ducal Palace of Vila Viçosa",
+              "tip_5lang": {
+                "de": "Das Highlight des Tages, perfekt für einen regnerischen Nachmittag.",
+                "hu": "A nap fénypontja, tökéletesen alkalmas egy esős délutánra.",
+                "ro": "Punctul culminant al zilei, perfect pentru o după-amiază ploioasă.",
+                "en": "The main highlight of the day, perfectly suited for a rainy afternoon."
+              }
+            },
+            {
+              "name": "Coach Museum",
+              "tip_5lang": {
+                "de": "Ein großartiger letzter Stopp, bevor es zurück zum Bus geht.",
+                "hu": "Nagyszerű utolsó állomás, mielőtt visszatérne a buszmegállóhoz.",
+                "ro": "O ultimă oprire excelentă înainte de a reveni la autobuz.",
+                "en": "A great final stop before heading back to the transit hub."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie die Busfahrpläne vorab, da diese bei Regen variieren können.",
+              "Tragen Sie eine leichte Regenjacke für die Wege zwischen den Haltestellen.",
+              "Die meisten Sehenswürdigkeiten liegen in fußläufiger Entfernung zueinander.",
+              "Nutzen Sie die Cafés in der Nähe der Bushaltestellen als Wartebereich."
+            ],
+            "hu": [
+              "Ellenőrizze előre a buszmenetrendet, mert esőben módosulhat.",
+              "Viseljen könnyű esőkabátot a megállók közötti szakaszokra.",
+              "A legtöbb látnivaló sétatávolságra van egymástól a központban.",
+              "Használja a buszmegállók közeli kávézókat várakozóhelyként."
+            ],
+            "ro": [
+              "Verificați orarul autobuzelor în avans; poate varia pe ploaie.",
+              "Purtați o pelerină de ploaie ușoară pentru distanțele dintre stații.",
+              "Majoritatea obiectivelor sunt la mică distanță de mers pe jos.",
+              "Folosiți cafenelele de lângă stații ca zone de așteptare."
+            ],
+            "en": [
+              "Check bus schedules in advance as they may vary during rain.",
+              "Wear a lightweight raincoat for the walks between stops.",
+              "Most attractions are within walking distance of each other in the center.",
+              "Use cafes near the bus stops as convenient waiting areas."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Winterausflug mit dem Bus nach Vila Viçosa verspricht klare Luft und ruhige Besichtigungen. Nach der Ankunft starten wir beim Marmormuseum, bevor wir zum sonnigen Hauptplatz weiterfahren. Mittags wärmt uns der prunkvolle Herzogspalast auf. Der Nachmittag gehört der Burg und den Kutschen, bevor wir den Tag pünktlich zur Dämmerung an der Bushaltestelle beenden.",
+            "hu": "A téli buszos kirándulás Vila Viçosába tiszta levegőt és nyugodt nézelődést ígér. Érkezés után a márványmúzeumnál kezdünk, majd a napfényes főtérre megyünk. Délben a pompás hercegi palota melegít fel minket. A délután a váré és a kocsiké, mielőtt a napot pontosan szürkületkor a buszmegállóban zárnánk.",
+            "ro": "O excursie de iarnă cu autobuzul în Vila Viçosa promite aer curat și vizite liniștite. După sosire, începem la muzeul de marmură, apoi mergem în piața centrală însorită. La prânz ne încălzim în Palatul Ducal. După-amiaza aparține castelului și trăsurilor, înainte de a încheia ziua la stația de autobuz.",
+            "en": "A winter trip by bus to Vila Viçosa promises crisp air and quiet sightseeing. After arrival, we start at the marble museum before continuing to the sunny main square. At noon, the grand Ducal Palace warms us up. The afternoon belongs to the castle and the coaches before ending the day at the bus stop right at dusk."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Vila Viçosa Bus Stop",
+              "tip_5lang": {
+                "de": "Beachten Sie die frühen Rückfahrzeiten in den Wintermonaten.",
+                "hu": "Figyeljen a téli hónapok korai visszaindulási időpontjaira.",
+                "ro": "Atenție la orele de plecare mai devreme în lunile de iarnă.",
+                "en": "Note the early return times during the winter months."
+              }
+            },
+            {
+              "name": "Marble Museum",
+              "tip_5lang": {
+                "de": "Ein guter Startpunkt, um sich nach der Busfahrt aufzuwärmen.",
+                "hu": "Jó kiindulópont a buszozás utáni felmelegedéshez.",
+                "ro": "Un punct bun de plecare pentru a vă încălzi după drum.",
+                "en": "A good starting point to warm up after the bus ride."
+              }
+            },
+            {
+              "name": "Republic Square",
+              "tip_5lang": {
+                "de": "Genießen Sie den Kaffee in der Sonne, bevor diese hinter den Häusern sinkt.",
+                "hu": "Élvezze a kávét a napon, mielőtt az a házak mögé bukna.",
+                "ro": "Bucurați-vă de cafea la soare înainte ca acesta să apună.",
+                "en": "Enjoy your coffee in the sun before it sets behind the buildings."
+              }
+            },
+            {
+              "name": "Castle of Vila Viçosa",
+              "tip_5lang": {
+                "de": "Das Winterlicht auf den Burgmauern ist fantastisch für Panoramaaufnahmen.",
+                "hu": "A várfalakon megcsillanó téli fény fantasztikus panorámaképekhez.",
+                "ro": "Lumina de iarnă pe zidurile castelului este fantastică.",
+                "en": "The winter light on the castle walls is fantastic for panoramas."
+              }
+            },
+            {
+              "name": "Ducal Palace of Vila Viçosa",
+              "tip_5lang": {
+                "de": "Der perfekte Ort für die kühlste Zeit des Tages.",
+                "hu": "Tökéletes helyszín a nap leghűvösebb időszakára.",
+                "ro": "Locul perfect pentru cea mai răcoroasă perioadă a zilei.",
+                "en": "The perfect place to be during the coolest time of the day."
+              }
+            },
+            {
+              "name": "Coach Museum",
+              "tip_5lang": {
+                "de": "Verbringen Sie hier die Zeit, bevor die Sonne früh untergeht.",
+                "hu": "Itt töltse el az időt, mielőtt a nap korán lenyugszik.",
+                "ro": "Petreceți timpul aici înainte ca soarele să apună devreme.",
+                "en": "Spend time here before the sun sets early in the afternoon."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrpläne können im Winter eingeschränkt sein; prüfen Sie diese online.",
+              "Warten Sie in den beheizten Innenräumen der Cafés auf Ihren Bus.",
+              "Die Stadt ist im Winter sehr ruhig und bietet eine authentische Erfahrung.",
+              "Planen Sie Ihre Rückkehr zum Busbahnhof vor 17:30 Uhr ein."
+            ],
+            "hu": [
+              "A menetrendek télen korlátozottak lehetnek; ellenőrizze online.",
+              "Várja a buszát a kávézók fűtött belső tereiben.",
+              "A város télen nagyon csendes, ami autentikus élményt nyújt.",
+              "Tervezze a buszmegállóhoz való visszaérést 17:30 előtt."
+            ],
+            "ro": [
+              "Orarele pot fi limitate iarna; verificați-le online.",
+              "Așteptați autobuzul în spațiile încălzite ale cafenelelor.",
+              "Orașul este foarte liniștit iarna, oferind o experiență autentică.",
+              "Planificați întoarcerea la stația de autobuz înainte de 17:30."
+            ],
+            "en": [
+              "Schedules may be limited in winter; check them online before you go.",
+              "Wait for your bus in the heated interiors of nearby cafes.",
+              "The town is very quiet in winter, offering an authentic experience.",
+              "Plan your return to the bus station before 17:30."
+            ]
+          }
+        }
       }
     }
   }

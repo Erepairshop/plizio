@@ -339,6 +339,206 @@
           "Bring water with you, especially on warm days.",
           "Plan a lunch break near the Prahova River banks."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein grauer Morgen beginnt im Gemeindepark, wo der Duft von nasser Erde die Luft erfüllt. Mittags bieten das Rathaus und die alte Schule willkommenen Schutz vor den Tropfen. Am Nachmittag führt der Weg zum Prahova-Ufer, das im Regen eine melancholische Schönheit besitzt. Der Tag endet ruhig am Tătărani-See, während die Regentropfen Kreise auf der Wasseroberfläche ziehen.",
+            "hu": "A reggel a Közösségi Parkban kezdődik, ahol az eső illata frissíti fel a leveget. Délben a Városháza és a régi iskola épülete nyújt menedéket a záporok elől. Délután a Prahova partja mentén sétálunk, ahol a sár miatt óvatosabb léptek szükségesek. Az este a Tătărani-tónál ér véget, ahogy a vízen kopogó eső csendes ritmust ad a tájnak.",
+            "ro": "O dimineață gri începe în Parcul Comunal, unde mirosul pământului reavăn umple aerul. La prânz, Primăria și Vechea Școală oferă adăpost binevenit împotriva picăturilor. După-amiaza, drumul duce spre malul Prahovei, care are o frumusețe melancolică în ploaie. Ziua se încheie liniștit la Lacul Tătărani, în timp ce picăturile de ploaie desenează cercuri pe suprafața apei.",
+            "en": "A grey morning begins in the Communal Park, where the scent of wet earth fills the air. At noon, the Town Hall and the Old School offer welcome shelter from the raindrops. In the afternoon, the path leads to the Prahova banks, which hold a melancholy beauty in the rain. The day ends quietly at Tătărani Lake, as raindrops trace circles on the water's surface."
+          },
+          "stops": [
+            {
+              "name": "Communal Park",
+              "tip_5lang": {
+                "de": "Wasserdichte Schuhe sind auf den Parkwegen ratsam.",
+                "hu": "Vízálló cipő ajánlott a parki ösvényeken.",
+                "ro": "Se recomandă încălțăminte impermeabilă pe aleile parcului.",
+                "en": "Waterproof shoes are advised on the park paths."
+              }
+            },
+            {
+              "name": "Bărcănești Town Hall",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich als Unterstand.",
+                "hu": "Használja a fedett bejáratot pihenőhelyként.",
+                "ro": "Folosiți zona de intrare acoperită pentru adăpost.",
+                "en": "Use the covered entrance area for shelter."
+              }
+            },
+            {
+              "name": "Independence Monument",
+              "tip_5lang": {
+                "de": "Kurzer Stopp, da das Denkmal völlig ungeschützt ist.",
+                "hu": "Rövid megálló, mivel az emlékmű teljesen nyitott.",
+                "ro": "Oprire scurtă, deoarece monumentul este total expus.",
+                "en": "Short stop as the monument is completely unsheltered."
+              }
+            },
+            {
+              "name": "Old School of Bărcănești",
+              "tip_5lang": {
+                "de": "Schutz unter den Vordächern der historischen Mauern.",
+                "hu": "Menedék a történelmi falak ereszei alatt.",
+                "ro": "Adăpost sub streșinile zidurilor istorice.",
+                "en": "Shelter under the eaves of the historic walls."
+              }
+            },
+            {
+              "name": "St. Nicholas Church",
+              "tip_5lang": {
+                "de": "Ein idealer, trockener Ort für eine stille Pause.",
+                "hu": "Ideális, száraz hely egy csendes pihenőhöz.",
+                "ro": "Un loc uscat ideal pentru o pauză liniștită.",
+                "en": "An ideal, dry place for a quiet break."
+              }
+            },
+            {
+              "name": "Prahova River Banks",
+              "tip_5lang": {
+                "de": "Vorsicht, das Gras am Flussufer ist sehr rutschig.",
+                "hu": "Vigyázat, a folyóparti fű nagyon csúszós.",
+                "ro": "Atenție, iarba de pe malul râului este foarte alunecoasă.",
+                "en": "Caution, the grass on the river bank is very slippery."
+              }
+            },
+            {
+              "name": "Tătărani Lake",
+              "tip_5lang": {
+                "de": "Die Sicht auf den See ist bei Regen besonders mystisch.",
+                "hu": "A tó látványa esőben különösen misztikus.",
+                "ro": "Vederea asupra lacului este deosebit de mistică pe ploaie.",
+                "en": "The view of the lake is particularly mystical in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine Regenjacke, da der Wind am Fluss oft dreht.",
+              "Vermeiden Sie unbefestigte Abkürzungen wegen Schlammbildung.",
+              "Die Kirche ist der beste Ort, um trocken zu bleiben.",
+              "Ein Regenschirm ist bei den weiten Abständen zwischen den Gebäuden ein Muss."
+            ],
+            "hu": [
+              "Viseljen esőkabátot, mert a folyónál gyakran megfordul a szél.",
+              "Kerülje a földutakat a sárképződés miatt.",
+              "A templom a legjobb hely a szárazon maradáshoz.",
+              "Az épületek közötti távolság miatt az esernyő kötelező."
+            ],
+            "ro": [
+              "Purtați o pelerină, vântul la râu își schimbă des direcția.",
+              "Evitați scurtăturile neasfaltate din cauza noroiului.",
+              "Biserica este cel mai bun loc pentru a rămâne uscat.",
+              "Umbrela este obligatorie din cauza distanțelor mari."
+            ],
+            "en": [
+              "Wear a raincoat as the wind by the river often shifts.",
+              "Avoid unpaved shortcuts due to mud formation.",
+              "The church is the best place to stay dry.",
+              "An umbrella is a must given the distances between buildings."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen im Park ist frostig und klar. Mittags wärmt der Besuch in der St. Nikolaus-Kirche Körper und Geist, bevor es weiter zu den historischen Gebäuden geht. Am Nachmittag weht ein kalter Wind über die Prahova-Ebene, der die Weite der Landschaft betont. Das Tageslicht schwindet früh am See, wo die kahlen Bäume markante Silhouetten gegen den Abendhimmel bilden.",
+            "hu": "A téli reggel a parkban fagyos és tiszta. Délben a Szent Miklós-templom látogatása melengeti meg a lelket a történelmi épületek felé vezető úton. Délután hideg szél fúj át a Prahova-síkságon, hangsúlyozva a táj tágasságát. A fény korán fogy el a tónál, ahol a kopasz fák sötét sziluettjei rajzolódnak ki az esti égen.",
+            "ro": "Dimineața de iarnă în parc este geroasă și senină. La prânz, vizita la Biserica Sf. Nicolae încălzește trupul și spiritul înainte de a merge spre clădirile istorice. După-amiaza, un vânt rece suflă peste câmpia Prahovei, accentuând imensitatea peisajului. Lumina zilei piere devreme la lac, unde copacii golași formează siluete marcante.",
+            "en": "The winter morning in the park is frosty and clear. At noon, a visit to St. Nicholas Church warms body and spirit before heading to the historic buildings. In the afternoon, a cold wind blows across the Prahova plain, emphasizing the vastness of the landscape. Daylight fades early at the lake, where bare trees form striking silhouettes against the evening sky."
+          },
+          "stops": [
+            {
+              "name": "Communal Park",
+              "tip_5lang": {
+                "de": "Gefrorene Pfützen auf den Wegen können glatt sein.",
+                "hu": "A fagyott tócsák az utakon csúszósak lehetnek.",
+                "ro": "Bălțile înghețate de pe alei pot fi alunecoase.",
+                "en": "Frozen puddles on the paths can be slippery."
+              }
+            },
+            {
+              "name": "Bărcănești Town Hall",
+              "tip_5lang": {
+                "de": "Ein kurzer Aufenthalt im Inneren hilft gegen die Kälte.",
+                "hu": "Egy rövid benti tartózkodás segít a hideg ellen.",
+                "ro": "O scurtă ședere în interior ajută împotriva frigului.",
+                "en": "A short stay inside helps against the cold."
+              }
+            },
+            {
+              "name": "Independence Monument",
+              "tip_5lang": {
+                "de": "Achtung vor scharfem Wind auf dem freien Platz.",
+                "hu": "Vigyázat a metsző széllel a nyílt téren.",
+                "ro": "Atenție la vântul tăios în piața deschisă.",
+                "en": "Beware of biting winds in the open square."
+              }
+            },
+            {
+              "name": "Old School of Bărcănești",
+              "tip_5lang": {
+                "de": "Die Ziegelwände wirken im Winterlicht besonders rötlich.",
+                "hu": "A téglafalak téli fényben különösen vörösek.",
+                "ro": "Zidurile de cărămidă par roșiatice în lumina iernii.",
+                "en": "The brick walls look particularly reddish in winter light."
+              }
+            },
+            {
+              "name": "St. Nicholas Church",
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen Ort für eine längere Aufwärmpause.",
+                "hu": "Használja ezt a helyet egy hosszabb melegedőre.",
+                "ro": "Folosiți acest loc pentru o pauză de încălzire mai lungă.",
+                "en": "Use this place for a longer warm-up break."
+              }
+            },
+            {
+              "name": "Prahova River Banks",
+              "tip_5lang": {
+                "de": "Warme Kleidung ist für den windigen Uferweg nötig.",
+                "hu": "Meleg ruházat szükséges a szeles parti úthoz.",
+                "ro": "Îmbrăcămintea groasă e necesară pentru drumul de pe mal.",
+                "en": "Warm clothing is necessary for the windy riverside path."
+              }
+            },
+            {
+              "name": "Tătărani Lake",
+              "tip_5lang": {
+                "de": "Planen Sie die Ankunft vor Sonnenuntergang (ca. 16:30).",
+                "hu": "Tervezze az érkezést naplemente előtt (kb. 16:30).",
+                "ro": "Planificați sosirea înainte de apus (aprox. 16:30).",
+                "en": "Plan arrival before sunset (approx. 16:30)."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Zwiebelprinzip bei der Kleidung schützt vor dem Wind.",
+              "Warme Getränke in einer Thermoskanne mitnehmen.",
+              "Die Sonne geht im Winter bereits gegen 16:45 Uhr unter.",
+              "Feste Sohlen verhindern Ausrutschen auf Frost."
+            ],
+            "hu": [
+              "A réteges öltözködés véd a pusztai szél ellen.",
+              "Vigyen magával meleg italt termosztban.",
+              "A nap télen már 16:45 körül lemegy.",
+              "A vastag talpú cipő véd a talaj menti fagytól."
+            ],
+            "ro": [
+              "Îmbrăcămintea în straturi protejează contra vântului.",
+              "Luați băuturi calde într-un termos.",
+              "Soarele apune deja în jur de ora 16:45 iarna.",
+              "Tălpile groase previn alunecarea pe îngheț."
+            ],
+            "en": [
+              "Layered clothing protects against the plain wind.",
+              "Bring warm drinks in a thermos.",
+              "The sun sets as early as 16:45 in winter.",
+              "Solid soles prevent slipping on frost."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -679,6 +879,224 @@
           "Wear a helmet for your safety.",
           "Bring a lock to secure your bike at the stops."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour beginnt am Tătărani-See, wo die Reifen auf dem nassen Asphalt leise zischen. Entlang der Prahova-Ufer erfordert der aufgeweichte Boden volle Konzentration. Mittags bietet die Kirche einen trockenen Ruhepunkt, bevor es durch das Dorfzentrum am Rathaus vorbei geht. Der Tag endet an der alten Schule, während der Regen die historischen Fassaden in sattes Dunkel taucht.",
+            "hu": "A kerékpártúra a Tătărani-tónál indul, ahol a gumik halkan suhognak a vizes aszfalton. A Prahova partján a felázott talaj teljes koncentrációt igényel. Délben a templom nyújt száraz pihenőpontot, mielőtt a faluközponton át a városháza felé vesszük az irányt. A nap a régi iskolánál zárul, miközben az eső mély tónust ad a történelmi homlokzatoknak.",
+            "ro": "Turul cu bicicleta începe la Lacul Tătărani, unde anvelopele șuieră ușor pe asfaltul ud. Pe malul Prahovei, solul moale necesită concentrare maximă. La prânz, biserica oferă un punct de repaus uscat înainte de a traversa centrul pe lângă primărie. Ziua se încheie la vechea școală, în timp ce ploaia închide culorile fațadelor istorice.",
+            "en": "The bike tour starts at Tătărani Lake, where tires hiss softly on wet asphalt. Along the Prahova banks, the softened ground requires full concentration. At noon, the church provides a dry resting point before heading through the village center past the town hall. The day ends at the old school, as the rain bathes the historic facades in deep hues."
+          },
+          "stops": [
+            {
+              "name": "Tătărani Lake",
+              "tip_5lang": {
+                "de": "Vorsicht vor Rutschgefahr auf den Uferwegen.",
+                "hu": "Vigyázat a csúszásveszéllyel a parti utakon.",
+                "ro": "Atenție la riscul de alunecare pe drumurile de mal.",
+                "en": "Beware of slipping hazards on the lakeside paths."
+              }
+            },
+            {
+              "name": "Prahova River Banks",
+              "tip_5lang": {
+                "de": "Tiefe Pfützen auf den unbefestigten Abschnitten meiden.",
+                "hu": "Kerülje a mély tócsákat a burkolatlan szakaszokon.",
+                "ro": "Evitați bălțile adânci pe secțiunile neasfaltate.",
+                "en": "Avoid deep puddles on the unpaved sections."
+              }
+            },
+            {
+              "name": "Tătărani Mansion",
+              "tip_5lang": {
+                "de": "Das Herrenhaus bietet bei Schauern etwas Windschutz.",
+                "hu": "Az udvarház némi szélfogót kínál záporok idején.",
+                "ro": "Conacul oferă puțin adăpost contra vântului în averse.",
+                "en": "The mansion offers some wind protection during showers."
+              }
+            },
+            {
+              "name": "St. Nicholas Church",
+              "tip_5lang": {
+                "de": "Fahrrad sicher unter Bäumen oder am Tor parken.",
+                "hu": "Parkolja a bringát biztonságban a fák alatt vagy a kapunál.",
+                "ro": "Parcați bicicleta în siguranță sub copaci sau la poartă.",
+                "en": "Park the bike safely under trees or at the gate."
+              }
+            },
+            {
+              "name": "Communal Park",
+              "tip_5lang": {
+                "de": "Die Kurven im Park bei Nässe vorsichtig befahren.",
+                "hu": "A parki kanyarokat nedves időben óvatosan vegye be.",
+                "ro": "Abordați curbele din parc cu atenție pe carosabil ud.",
+                "en": "Navigate park curves carefully in wet conditions."
+              }
+            },
+            {
+              "name": "Bărcănești Town Hall",
+              "tip_5lang": {
+                "de": "Kurze Pause, nutzen Sie die Wartehäuschen in der Nähe.",
+                "hu": "Rövid szünet, használja a közeli várókat.",
+                "ro": "Pauză scurtă, folosiți adăposturile de așteptare din jur.",
+                "en": "Short break, use the nearby waiting shelters."
+              }
+            },
+            {
+              "name": "Independence Monument",
+              "tip_5lang": {
+                "de": "Glatte Steinplatten am Sockel des Denkmals.",
+                "hu": "Csúszós kőlapok az emlékmű talpazatánál.",
+                "ro": "Plăci de piatră alunecoase la soclul monumentului.",
+                "en": "Slippery stone slabs at the monument's base."
+              }
+            },
+            {
+              "name": "Old School of Bărcănești",
+              "tip_5lang": {
+                "de": "Endpunkt der Tour, Fahrrad unterstellen möglich.",
+                "hu": "A túra végpontja, a kerékpár elhelyezése megoldható.",
+                "ro": "Punct final, este posibilă adăpostirea bicicletei.",
+                "en": "End of tour, bike sheltering is possible."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche am Fahrrad verhindern Schlammspritzer.",
+              "Prüfen Sie Ihre Bremswirkung bei Nässe regelmäßig.",
+              "Wasserdichte Handschuhe halten die Hände beweglich.",
+              "Warnwesten erhöhen die Sichtbarkeit bei grauem Wetter."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen a felcsapódó sár ellen.",
+              "Rendszeresen ellenőrizze a fékhatást nedves úton.",
+              "A vízálló kesztyű melegen tartja a kezeket.",
+              "A láthatósági mellény segít a szürke időben."
+            ],
+            "ro": [
+              "Apărătorile de noroi previn stropirea hainelor.",
+              "Verificați constant eficiența frânelor pe ud.",
+              "Mănușile impermeabile mențin mâinile mobile.",
+              "Vestele reflectorizante cresc vizibilitatea pe timp gri."
+            ],
+            "en": [
+              "Mudguards on the bike prevent mud splashes.",
+              "Check your braking performance regularly in the wet.",
+              "Waterproof gloves keep hands mobile.",
+              "High-visibility vests increase safety in grey weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine erfrischende Wintertour startet am Tătărani-See. Die kalte Luft beißt in den Wangen, während Sie zum Prahova-Ufer radeln, wo Raureif die Gräser ziert. Nach einem Aufwärmstopp an der Kirche geht es zügig durch den Ort. Die historische Architektur des Rathauses und der alten Schule wirkt im klaren Winterlicht besonders scharfkantig, bevor die Tour am Nachmittag bei sinkenden Temperaturen endet.",
+            "hu": "Frissítő téli túra indul a Tătărani-tótól. A hideg levegő megcsípi az arcot a Prahova partja felé tekerve, ahol zúzmara díszíti a füvet. Egy templomi melegedő után gyorsan haladunk át a falun. A Városháza és a régi iskola architektúrája élesen rajzolódik ki a tiszta téli fényben, mielőtt a túra délután, a süllyedő hőmérsékletben véget ér.",
+            "ro": "Un tur răcoritor de iarnă începe la Lacul Tătărani. Aerul rece ciupește obrajii în timp ce pedalați spre malul Prahovei, unde bruma împodobește iarba. După un popas de încălzire la biserică, parcurgeți rapid localitatea. Arhitectura primăriei și a școlii vechi pare foarte clară în lumina iernii, înainte ca turul să se încheie după-amiaza.",
+            "en": "A refreshing winter tour starts at Tătărani Lake. The cold air bites the cheeks as you cycle to the Prahova banks, where frost adorns the grass. After a warm-up stop at the church, you move quickly through the village. The historic architecture of the Town Hall and the Old School looks especially sharp in the clear winter light before the tour ends in the afternoon."
+          },
+          "stops": [
+            {
+              "name": "Tătărani Lake",
+              "tip_5lang": {
+                "de": "Achtung vor überfrierender Nässe auf den Brücken.",
+                "hu": "Vigyázat a lefagyott nedvességgel a hidakon.",
+                "ro": "Atenție la polei pe poduri și zonele umede.",
+                "en": "Beware of black ice on bridges and wet areas."
+              }
+            },
+            {
+              "name": "Prahova River Banks",
+              "tip_5lang": {
+                "de": "Kalter Gegenwind auf den offenen Abschnitten möglich.",
+                "hu": "Hideg ellenszél lehetséges a nyílt szakaszokon.",
+                "ro": "Vânt rece din față posibil pe porțiunile deschise.",
+                "en": "Cold headwind possible on open sections."
+              }
+            },
+            {
+              "name": "Tătărani Mansion",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp, die Finger nicht auskühlen lassen.",
+                "hu": "Rövid fotómegálló, ne hagyja kihűlni az ujjait.",
+                "ro": "Oprire scurtă pentru foto, nu lăsați degetele să înghețe.",
+                "en": "Short photo stop, don't let your fingers get cold."
+              }
+            },
+            {
+              "name": "St. Nicholas Church",
+              "tip_5lang": {
+                "de": "Bester Ort für eine Pause zum Auftauen.",
+                "hu": "A legjobb hely egy kis felengedéshez.",
+                "ro": "Cel mai bun loc pentru o pauză de dezghețare.",
+                "en": "Best place for a break to thaw out."
+              }
+            },
+            {
+              "name": "Communal Park",
+              "tip_5lang": {
+                "de": "Feste Wege nutzen, der Boden kann gefroren sein.",
+                "hu": "Használja a szilárd utakat, a talaj fagyott lehet.",
+                "ro": "Folosiți drumurile ferme, solul poate fi înghețat.",
+                "en": "Use firm paths, the ground can be frozen."
+              }
+            },
+            {
+              "name": "Bărcănești Town Hall",
+              "tip_5lang": {
+                "de": "Fahrradständer sind vorhanden, kurzer Stopp.",
+                "hu": "Kerékpártámaszok elérhetők, rövid megálló.",
+                "ro": "Suporturi de biciclete disponibile, oprire scurtă.",
+                "en": "Bike racks are available, short stop."
+              }
+            },
+            {
+              "name": "Independence Monument",
+              "tip_5lang": {
+                "de": "Vorsicht vor Eis auf den Stufen am Denkmal.",
+                "hu": "Vigyázat a jéggel az emlékmű lépcsőinél.",
+                "ro": "Atenție la gheață pe treptele monumentului.",
+                "en": "Watch out for ice on the monument steps."
+              }
+            },
+            {
+              "name": "Old School of Bărcănești",
+              "tip_5lang": {
+                "de": "Tour-Ende, schnelles Einpacken wegen Kälte ratsam.",
+                "hu": "Túra vége, a hideg miatt érdemes gyorsan elpakolni.",
+                "ro": "Final de tur, se recomandă strângerea rapidă a bagajelor.",
+                "en": "End of tour, quick packing advised due to cold."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Batterien von E-Bikes entladen sich bei Kälte schneller.",
+              "Tragen Sie winddichte Kleidung, besonders am Oberkörper.",
+              "Halten Sie die Fahrtzeit kurz, um Unterkühlung zu vermeiden.",
+              "Kettenpflege ist wegen Streusalz auf den Straßen wichtig."
+            ],
+            "hu": [
+              "Az elektromos biciklik akkuja hidegben gyorsabban merül.",
+              "Viseljen szélálló ruhát, különösen a felsőtesten.",
+              "Tartsa röviden a menetidőt a lehűlés elkerülésére.",
+              "A láncápolás fontos az utakon lévő só miatt."
+            ],
+            "ro": [
+              "Bateriile bicicletelor electrice se descarcă mai repede la frig.",
+              "Purtați haine rezistente la vânt, mai ales la bust.",
+              "Mențineți timpul de pedalare scurt pentru a evita hipotermia.",
+              "Întreținerea lanțului e vitală din cauza sării de pe drum."
+            ],
+            "en": [
+              "E-bike batteries discharge faster in the cold.",
+              "Wear windproof clothing, especially on the torso.",
+              "Keep riding time short to avoid hypothermia.",
+              "Chain maintenance is important due to road salt."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1027,6 +1445,224 @@
           "Pay attention to the speed limits.",
           "Combine car and walking sections for the best experience."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Fahrt beginnt im Regen bei den Natur-Clustern am Ortsrand. Über nasse Landstraßen erreichen Sie den Tătărani-See, dessen Panorama durch die Windschutzscheibe fast wie ein Gemälde wirkt. Mittags parken Sie bequem im historischen Zentrum nahe der Kirche und dem Rathaus. Der Tag endet im Gemeindepark, wo Sie die Regenstimmung trocken aus dem Auto oder bei kurzen Spaziergängen genießen können.",
+            "hu": "Az utazás esőben kezdődik a falu széli természetközeli pontokon. Vizes utakon érjük el a Tătărani-tavat, melynek látványa a szélvédőn át szinte festményszerű. Délben kényelmesen parkolhatunk a történelmi központban, a templom és a városháza közelében. A nap a Közösségi Parkban zárul, ahol az esős hangulatot az autóból vagy rövid séták során élvezhetjük.",
+            "ro": "Călătoria începe în ploaie la zonele naturale de la marginea localității. Pe drumuri ude ajungeți la Lacul Tătărani, a cărui panoramă prin parbriz pare aproape un tablou. La prânz, parcați confortabil în centrul istoric lângă biserică și primărie. Ziua se încheie în parcul comunal, unde vă puteți bucura de atmosfera ploioasă din mașină sau prin scurte plimbări.",
+            "en": "The drive starts in the rain at the nature clusters on the outskirts. Over wet country roads, you reach Tătărani Lake, whose panorama through the windshield looks almost like a painting. At noon, you park comfortably in the historic center near the church and town hall. The day ends in the communal park, where you can enjoy the rainy mood from the car or through short walks."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Nature on the outskirts",
+              "tip_5lang": {
+                "de": "Parken Sie auf befestigten Flächen, um Einsinken zu vermeiden.",
+                "hu": "Parkoljon szilárd felületen, hogy elkerülje az elsüllyedést.",
+                "ro": "Parcați pe suprafețe dure pentru a evita afundarea în noroi.",
+                "en": "Park on paved surfaces to avoid getting stuck in mud."
+              }
+            },
+            {
+              "name": "Tătărani Lake",
+              "tip_5lang": {
+                "de": "Gute Sicht vom Parkplatz direkt auf den See.",
+                "hu": "Jó kilátás nyílik a parkolóból közvetlenül a tóra.",
+                "ro": "Vedere bună direct spre lac de la locul de parcare.",
+                "en": "Good view directly of the lake from the parking spot."
+              }
+            },
+            {
+              "name": "Prahova River Banks",
+              "tip_5lang": {
+                "de": "Zufahrtswege können bei starkem Regen schlammig sein.",
+                "hu": "A bekötőutak heves esőben sárosak lehetnek.",
+                "ro": "Drumurile de acces pot fi noroioase la ploaie torențială.",
+                "en": "Access roads can be muddy during heavy rain."
+              }
+            },
+            {
+              "name": "Cluster B: Historic Center",
+              "tip_5lang": {
+                "de": "Zentrale Parkplätze ermöglichen kurze Wege zu den Zielen.",
+                "hu": "A központi parkolók rövid sétát tesznek lehetővé.",
+                "ro": "Parcările centrale permit accesul rapid la obiective.",
+                "en": "Central parking allows short walks to the sights."
+              }
+            },
+            {
+              "name": "Bărcănești Town Hall",
+              "tip_5lang": {
+                "de": "Parken direkt vor dem Gebäude möglich.",
+                "hu": "Parkolás közvetlenül az épület előtt lehetséges.",
+                "ro": "Parcarea este posibilă chiar în fața clădirii.",
+                "en": "Parking is possible right in front of the building."
+              }
+            },
+            {
+              "name": "Independence Monument",
+              "tip_5lang": {
+                "de": "Kurzer Ausstieg für ein Foto reicht völlig aus.",
+                "hu": "Egy rövid kiszállás a fotóhoz bőven elég.",
+                "ro": "O scurtă coborâre din mașină pentru foto este suficientă.",
+                "en": "A quick hop out for a photo is plenty."
+              }
+            },
+            {
+              "name": "Old School of Bărcănești",
+              "tip_5lang": {
+                "de": "Vorsicht beim Ein- und Ausparken an engen Straßen.",
+                "hu": "Vigyázzon a be- és kiparkolásnál a szűk utcákban.",
+                "ro": "Atenție la parcare pe străzile înguste.",
+                "en": "Careful when parking in narrow streets."
+              }
+            },
+            {
+              "name": "Communal Park",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist bei Regen oft weniger belegt.",
+                "hu": "A parkoló esőben gyakran kevésbé foglalt.",
+                "ro": "Parcarea este adesea mai liberă pe timp de ploaie.",
+                "en": "The parking lot is often less crowded in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf der Hauptstraße nach Ploiești.",
+              "Halten Sie die Scheinwerfer bei trübem Wetter eingeschaltet.",
+              "Ein Schirm im Auto ist für den Weg zum Parkplatz nötig.",
+              "Prüfen Sie den Zustand der Scheibenwischer vor der Fahrt."
+            ],
+            "hu": [
+              "Vigyázzon a vízreúszással a Ploiești felé vezető főúton.",
+              "Tartsa bekapcsolva a fényszórókat borús időben.",
+              "Az autóban tartott esernyő jól jön a parkolótól a célig.",
+              "Indulás előtt ellenőrizze az ablaktörlők állapotát."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumul principal spre Ploiești.",
+              "Păstrați farurile aprinse pe vreme posomorâtă.",
+              "O umbrelă în mașină este utilă de la parcare la destinație.",
+              "Verificați starea ștergătoarelor înainte de drum."
+            ],
+            "en": [
+              "Watch out for aquaplaning on the main road to Ploiești.",
+              "Keep your headlights on in gloomy weather.",
+              "An umbrella in the car is useful for the walk from the parking lot.",
+              "Check windshield wiper condition before starting."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Winterfahrt beginnt entspannt bei den Außenbezirken, während die Heizung für Komfort sorgt. Am Tătărani-See glitzert der Frost auf den Feldern, ein herrlicher Anblick aus dem warmen Wagen. Mittags führt die Route ins Herz von Bărcănești, wo die historische Schule und die Kirche im kühlen Licht erstrahlen. Den Abschluss bildet der Gemeindepark, bevor die Dämmerung den Ort in ein gemütliches Winterlicht taucht.",
+            "hu": "A téli autózás kényelmesen indul a külső kerületekben, miközben a fűtés biztosítja a komfortot. A Tătărani-tónál dér csillog a mezőkön, ami gyönyörű látvány a meleg kocsiból. Délben az útvonal Bărcănești szívébe vezet, ahol a régi iskola és a templom ragyog a hűvös fényben. A napot a Közösségi Park zárja, mielőtt az alkony meghitt téli fénybe vonja a falut.",
+            "ro": "Călătoria de iarnă începe relaxat la periferie, în timp ce căldura din mașină asigură confortul. La Lacul Tătărani, chiciura sclipește pe câmpuri, o vedere superbă din vehiculul cald. La prânz, traseul duce în inima localității Bărcănești, unde școala veche și biserica strălucesc în lumina rece. Finalul are loc în parcul comunal, înainte ca amurgul să lase o lumină caldă.",
+            "en": "The winter drive starts relaxed in the outskirts while the heater ensures comfort. At Tătărani Lake, frost glistens on the fields, a wonderful sight from the warm car. At noon, the route leads to the heart of Bărcănești, where the historic school and church shine in the cool light. The day concludes at the communal park before dusk bathes the village in a cozy winter glow."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Nature on the outskirts",
+              "tip_5lang": {
+                "de": "Vorsicht vor überfrierender Nässe auf Nebenstraßen.",
+                "hu": "Vigyázat a lefagyott nedvességgel a mellékutakon.",
+                "ro": "Atenție la polei pe drumurile secundare.",
+                "en": "Beware of black ice on side roads."
+              }
+            },
+            {
+              "name": "Tătărani Lake",
+              "tip_5lang": {
+                "de": "Der Parkplatz kann im Winter vereist sein.",
+                "hu": "A parkoló télen jeges lehet.",
+                "ro": "Parcarea poate fi înghețată pe timp de iarnă.",
+                "en": "The parking lot can be icy in winter."
+              }
+            },
+            {
+              "name": "Prahova River Banks",
+              "tip_5lang": {
+                "de": "Nur befestigte Wege befahren, Rutschgefahr.",
+                "hu": "Csak szilárd utakon haladjon, csúszásveszély.",
+                "ro": "Circulați doar pe drumuri ferme, risc de derapare.",
+                "en": "Stick to paved roads, risk of skidding."
+              }
+            },
+            {
+              "name": "Cluster B: Historic Center",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen den Sehenswürdigkeiten nutzen.",
+                "hu": "Használja ki a látnivalók közötti rövid távolságot.",
+                "ro": "Profitați de distanțele scurte între obiective.",
+                "en": "Take advantage of the short distances between sights."
+              }
+            },
+            {
+              "name": "Bărcănești Town Hall",
+              "tip_5lang": {
+                "de": "Beheizte Innenräume für kurze Aufwärmpausen.",
+                "hu": "Fűtött belső terek rövid melegedőkhöz.",
+                "ro": "Spații interioare încălzite pentru scurte pauze.",
+                "en": "Heated indoor spaces for quick warm-ups."
+              }
+            },
+            {
+              "name": "Independence Monument",
+              "tip_5lang": {
+                "de": "Schneller Stopp, der Wind ist im Winter hier schneidend.",
+                "hu": "Gyors megálló, a szél télen itt metsző.",
+                "ro": "Oprire rapidă, vântul este tăios aici iarna.",
+                "en": "Quick stop, the wind here is biting in winter."
+              }
+            },
+            {
+              "name": "Old School of Bărcănești",
+              "tip_5lang": {
+                "de": "Parken in der Nähe für minimalen Aufenthalt im Freien.",
+                "hu": "Parkoljon a közelben a minimális kinti tartózkodáshoz.",
+                "ro": "Parcați aproape pentru a sta cât mai puțin în frig.",
+                "en": "Park nearby to minimize time spent outdoors."
+              }
+            },
+            {
+              "name": "Communal Park",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die verschneite Anlage.",
+                "hu": "Élvezze a kilátást a havas területre.",
+                "ro": "Bucurați-vă de vederea asupra parcului înzăpezit.",
+                "en": "Enjoy the view of the snow-covered grounds."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in Rumänien gesetzlich vorgeschrieben.",
+              "Führen Sie einen Eiskratzer und Frostschutzmittel mit.",
+              "Die Straßenreinigung kann in ländlichen Gebieten verzögert sein.",
+              "Achten Sie auf Nebel in der Prahova-Ebene."
+            ],
+            "hu": [
+              "A téli gumi Romániában törvényileg kötelező.",
+              "Legyen Önnél jégkaparó és fagyálló folyadék.",
+              "A hóeltakarítás vidéken késhet.",
+              "Ügyeljen a ködre a Prahova-síkságon."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii prin lege în România.",
+              "Aveți la îndemână o răzuitoare de gheață și lichid de parbriz.",
+              "Deszăpezirea poate întârzia în zonele rurale.",
+              "Atenție la ceață în câmpia Prahovei."
+            ],
+            "en": [
+              "Winter tires are legally required in Romania.",
+              "Carry an ice scraper and anti-freeze fluid.",
+              "Snow removal can be delayed in rural areas.",
+              "Watch out for fog in the Prahova plain."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1351,6 +1987,206 @@
           "Have small change ready for tickets.",
           "Pay attention to the stop announcements."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag startet im Zentrum von Bărcănești, wo die Busse bei Regen eine sichere Zuflucht bieten. Besuchen Sie das Denkmal und den Park zwischen den Schauern. Mittags führt eine Fahrt in die Natur zum Prahova-Ufer, gefolgt vom Tătărani-See. Die historische Villa und die Kirche bilden den kulturellen Abschluss, während Sie die vorbeiziehende regennasse Landschaft aus dem Fenster des Kleinbusses beobachten.",
+            "hu": "A nap Bărcănești központjában indul, ahol a buszok esőben biztonságos menedéket nyújtanak. Látogassa meg az emlékművet és a parkot a záporok között. Délben utazás a természetbe, a Prahova partjához, majd a Tătărani-tóhoz. A történelmi villa és a templom adja a kulturális zárszót, miközben a kisbusz ablakából figyeli az eső áztatta tájat.",
+            "ro": "Ziua începe în centrul localității Bărcănești, unde autobuzele oferă un refugiu sigur pe ploaie. Vizitați monumentul și parcul între averse. La prânz, o călătorie spre malul Prahovei, urmată de Lacul Tătărani. Vila istorică și biserica încheie ziua culturală, în timp ce priviți pe fereastra microbuzului peisajul ud.",
+            "en": "The day starts in the center of Bărcănești, where buses offer a safe haven in the rain. Visit the monument and the park between showers. At noon, a trip into nature to the Prahova banks, followed by Tătărani Lake. The historic mansion and the church form the cultural finale as you watch the rain-soaked landscape through the minibus window."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Start in the center",
+              "tip_5lang": {
+                "de": "Zentrale Bushaltestellen verfügen oft über Unterstände.",
+                "hu": "A központi buszmegállók gyakran fedettek.",
+                "ro": "Stațiile de autobuz centrale au adesea adăposturi.",
+                "en": "Central bus stops often have shelters."
+              }
+            },
+            {
+              "name": "Independence Monument",
+              "tip_5lang": {
+                "de": "Nur ein kurzer Fußweg von der nächsten Haltestelle.",
+                "hu": "Csak egy rövid séta a legközelebbi megállótól.",
+                "ro": "La doar o scurtă plimbare de cea mai apropiată stație.",
+                "en": "Just a short walk from the nearest stop."
+              }
+            },
+            {
+              "name": "Communal Park",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Wartezeit im trockenen Buswartehäuschen.",
+                "hu": "Várja meg a járatot a száraz buszváróban.",
+                "ro": "Așteptați autobuzul în adăpostul uscat din stație.",
+                "en": "Wait for your ride in the dry bus shelter."
+              }
+            },
+            {
+              "name": "Cluster B: Trip to nature",
+              "tip_5lang": {
+                "de": "Die Taktung der Busse kann bei Regen leicht variieren.",
+                "hu": "A buszok menetrendje esőben kissé eltérhet.",
+                "ro": "Frecvența autobuzelor poate varia ușor pe ploaie.",
+                "en": "Bus frequency may vary slightly in the rain."
+              }
+            },
+            {
+              "name": "Tătărani Lake",
+              "tip_5lang": {
+                "de": "Der Weg von der Haltestelle zum See kann matschig sein.",
+                "hu": "A megállótól a tóig vezető út sáros lehet.",
+                "ro": "Drumul de la stație la lac poate fi noroios.",
+                "en": "The path from the stop to the lake can be muddy."
+              }
+            },
+            {
+              "name": "Tătărani Mansion",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um den Regen vorbeiziehen zu lassen.",
+                "hu": "Csendes hely, ahol megvárhatjuk az eső végét.",
+                "ro": "Un loc liniștit unde puteți aștepta trecerea ploii.",
+                "en": "A quiet place to let the rain pass by."
+              }
+            },
+            {
+              "name": "St. Nicholas Church",
+              "tip_5lang": {
+                "de": "Letzter Stopp vor der Rückfahrt im trockenen Bus.",
+                "hu": "Utolsó megálló a száraz buszos visszautazás előtt.",
+                "ro": "Ultima oprire înainte de întoarcerea cu autobuzul.",
+                "en": "Last stop before the return trip in a dry bus."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die lokale Transit-App für Echtzeit-Infos.",
+              "Ein kleiner, faltbarer Schirm passt gut ins Gepäck.",
+              "Rechnen Sie mit beschlagenen Scheiben im Bus.",
+              "Halten Sie Kleingeld für die Fahrkarten bereit."
+            ],
+            "hu": [
+              "Használja a helyi tranzit appot a valós idejű infókért.",
+              "Egy kis összecsukható esernyő jól elfér a táskában.",
+              "Számítson bepárásodott ablakokra a buszon.",
+              "Legyen Önnél aprópénz a jegyvásárláshoz."
+            ],
+            "ro": [
+              "Folosiți aplicația locală de tranzit pentru info în timp real.",
+              "O umbrelă mică pliabilă este utilă în bagaj.",
+              "Așteptați-vă la geamuri aburite în autobuz.",
+              "Aveți pregătit mărunțiș pentru bilete."
+            ],
+            "en": [
+              "Use the local transit app for real-time info.",
+              "A small foldable umbrella fits well in your bag.",
+              "Expect fogged-up windows on the bus.",
+              "Keep small change ready for bus tickets."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Wintertag im Zentrum, wo Sie sich in den Cafés nahe der Haltestellen aufwärmen können. Die Fahrt zum Prahova-Ufer zeigt die weite, frostige Ebene Rumäniens. Am Nachmittag erreichen Sie den Tătărani-See und das Herrenhaus, deren herrschaftliche Ausstrahlung im Winterlicht besonders zur Geltung kommt. Der Tag endet an der St. Nikolaus-Kirche, bevor der letzte Bus Sie zurück in die Wärme bringt.",
+            "hu": "Kezdje a téli napot a központban, ahol a megállók közeli kávézókban melegedhet. A Prahova partja felé tartó út a fagyos román rónaságot mutatja be. Délután érjük el a Tătărani-tavat és az udvarházat, melyek méltóságteljes kisugárzása télen is érvényesül. A nap a Szent Miklós-templomnál zárul, mielőtt az utolsó busz visszavisz a melegbe.",
+            "ro": "Începeți ziua de iarnă în centru, unde vă puteți încălzi în cafenelele de lângă stații. Călătoria spre malul Prahovei dezvăluie câmpia înghețată a României. După-amiaza ajungeți la Lacul Tătărani și la conac, a căror eleganță iese în evidență în lumina rece. Ziua se încheie la Biserica Sf. Nicolae, înainte ca ultimul autobuz să vă ducă la căldură.",
+            "en": "Start your winter day in the center, where you can warm up in cafes near the stops. The trip to the Prahova banks reveals Romania's vast, frosty plains. In the afternoon, reach Tătărani Lake and the mansion, whose grand presence is emphasized by the winter light. The day ends at St. Nicholas Church before the last bus brings you back to the warmth."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Start in the center",
+              "tip_5lang": {
+                "de": "Haltestellen sind im Winter oft windanfällig.",
+                "hu": "A megállók télen gyakran szelesek.",
+                "ro": "Stațiile sunt adesea expuse la vânt iarna.",
+                "en": "Stops are often prone to wind in winter."
+              }
+            },
+            {
+              "name": "Independence Monument",
+              "tip_5lang": {
+                "de": "Kleiden Sie sich warm für das Warten an der Haltestelle.",
+                "hu": "Öltözzön melegen a megállóban való várakozáshoz.",
+                "ro": "Îmbrăcați-vă gros pentru așteptarea în stație.",
+                "en": "Dress warmly for waiting at the bus stop."
+              }
+            },
+            {
+              "name": "Communal Park",
+              "tip_5lang": {
+                "de": "Der Park wirkt im Winter sehr friedlich und leer.",
+                "hu": "A park télen nagyon békés és üres.",
+                "ro": "Parcul pare foarte pașnic și pustiu iarna.",
+                "en": "The park looks very peaceful and empty in winter."
+              }
+            },
+            {
+              "name": "Cluster B: Trip to nature",
+              "tip_5lang": {
+                "de": "Heizung im Bus sorgt für eine angenehme Fahrt.",
+                "hu": "A busz fűtése kellemes utazást biztosít.",
+                "ro": "Căldura din autobuz asigură o călătorie plăcută.",
+                "en": "Heating in the bus makes for a pleasant ride."
+              }
+            },
+            {
+              "name": "Tătărani Lake",
+              "tip_5lang": {
+                "de": "Achten Sie auf die Abfahrtszeiten des letzten Busses.",
+                "hu": "Ügyeljen az utolsó busz indulási idejére.",
+                "ro": "Atenție la orele de plecare ale ultimului autobuz.",
+                "en": "Watch out for the departure times of the last bus."
+              }
+            },
+            {
+              "name": "Tătărani Mansion",
+              "tip_5lang": {
+                "de": "Die Fassade ist ein tolles Motiv für Winterfotos.",
+                "hu": "A homlokzat remek téma a téli fotókhoz.",
+                "ro": "Fațada este un motiv excelent pentru poze de iarnă.",
+                "en": "The facade is a great subject for winter photos."
+              }
+            },
+            {
+              "name": "St. Nicholas Church",
+              "tip_5lang": {
+                "de": "Ein warmer Zufluchtsort vor der Rückreise.",
+                "hu": "Meleg menedék a hazaút előtt.",
+                "ro": "Un refugiu cald înainte de călătoria de întoarcere.",
+                "en": "A warm sanctuary before the return journey."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse können bei starkem Schneefall Verspätung haben.",
+              "Warten Sie in Innenräumen, falls die Haltestelle offen ist.",
+              "Tragen Sie rutschfeste Schuhe für den Weg zum Bus.",
+              "Die Abenddämmerung beginnt bereits gegen 16:30 Uhr."
+            ],
+            "hu": [
+              "Erős havazáskor a buszok késhetnek.",
+              "Várjon zárt térben, ha a megálló túlságosan nyitott.",
+              "Viseljen csúszásmentes cipőt a buszhoz menet.",
+              "Az esti szürkület már 16:30 körül elkezdődik."
+            ],
+            "ro": [
+              "Autobuzele pot avea întârzieri la ninsori puternice.",
+              "Așteptați în interior dacă stația este deschisă.",
+              "Purtați încălțăminte antiderapantă spre stație.",
+              "Amurgul începe deja în jur de ora 16:30."
+            ],
+            "en": [
+              "Buses may be delayed during heavy snowfall.",
+              "Wait indoors if the bus stop is too exposed.",
+              "Wear non-slip shoes for the walk to the stop.",
+              "Dusk begins as early as 16:30."
+            ]
+          }
+        }
       }
     }
   }

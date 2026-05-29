@@ -339,6 +339,214 @@
           "Keep a bottle of water handy, especially in the summer.",
           "Check the opening hours of the museums in advance."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgen am Rynek unter Arkaden. Mittags bieten die neugotischen Kirchen guten Schutz vor Güssen. Nachmittags verbringen Sie viel Zeit im Stadtmuseum, um trocken zu bleiben. Abends kurzer Gang zum Dreikaisereck, Schirm ist bei der Flussmündung Pflicht.",
+            "hu": "Reggel a főtéri szemerkélésben az épületek ereszei adnak óvást. Délben a monumentális templomok belső terei nyújtanak menedéket. Délután a Városi Múzeum kiállításai között vészelheti át a nagyobb esőt. Este a folyótorkolatnál szeles, csapadékos időre készüljön.",
+            "ro": "Dimineața în Piața Veche, folosind porțiunile acoperite. La prânz, bisericile neogotice oferă un refugiu uscat și liniștit. După-amiaza este dedicată Muzeului Orașului pentru a evita ploaia. Seara la colțul celor trei imperii necesită o umbrelă rezistentă la vânt.",
+            "en": "Morning at the Market Square requires an umbrella. Midday is best spent inside the historic churches to escape the showers. The afternoon is perfect for a long visit to the City Museum. Evening at the river confluence is exposed, so wear waterproof gear."
+          },
+          "stops": [
+            {
+              "name": "Market Square (Rynek)",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Gebäudeeingänge als Schutz vor Regenschauern.",
+                "hu": "Használja a házak beugróit menedékként az eső elől.",
+                "ro": "Folosiți intrările clădirilor pentru a vă adăposti de ploaie.",
+                "en": "Use the building entrances as shelter from sudden rain."
+              }
+            },
+            {
+              "name": "Mysłowice Town Hall",
+              "tip_5lang": {
+                "de": "Die Fassade lässt sich gut unter dem Schirm betrachten.",
+                "hu": "Az épület homlokzata esernyő alól is jól fotózható.",
+                "ro": "Fațada poate fi admirată chiar și de sub umbrelă.",
+                "en": "The facade can be easily admired even under an umbrella."
+              }
+            },
+            {
+              "name": "Sacred Heart Church",
+              "tip_5lang": {
+                "de": "Idealer Ort für eine längere, trockene Besichtigungspause.",
+                "hu": "Ideális helyszín egy hosszabb, száraz pihenőhöz.",
+                "ro": "Loc ideal pentru o pauză de vizitare uscată și lungă.",
+                "en": "Ideal place for a longer, dry sightseeing break."
+              }
+            },
+            {
+              "name": "Church of the Visitation of the Blessed Virgin Mary",
+              "tip_5lang": {
+                "de": "Ein weiterer ruhiger Rückzugsort vor dem nassen Wetter.",
+                "hu": "Újabb nyugodt menedékhely a nedves időjárás elől.",
+                "ro": "Un alt refugiu liniștit împotriva vremii umede.",
+                "en": "Another quiet sanctuary from the wet weather."
+              }
+            },
+            {
+              "name": "Mysłowice City Museum",
+              "tip_5lang": {
+                "de": "Perfekt für die regenreichste Zeit des Nachmittags.",
+                "hu": "Tökéletes program a délutáni esősebb órákra.",
+                "ro": "Perfect pentru orele mai ploioase ale după-amiezii.",
+                "en": "Perfect for the rainier hours of the afternoon."
+              }
+            },
+            {
+              "name": "Castle Park (Park Zamkowy)",
+              "tip_5lang": {
+                "de": "Vorsicht auf den asphaltierten Wegen, sie können rutschig sein.",
+                "hu": "Vigyázzon az aszfaltozott utakon, csúszósak lehetnek.",
+                "ro": "Atenție pe aleile asfaltate, pot fi alunecoase.",
+                "en": "Watch out on the paved paths; they can be slippery."
+              }
+            },
+            {
+              "name": "Three Emperors' Corner",
+              "tip_5lang": {
+                "de": "Windexponiert; ein stabiler Schirm ist hier unverzichtbar.",
+                "hu": "Szeles terület; egy stabil esernyő itt nélkülözhetetlen.",
+                "ro": "Expus la vânt; o umbrelă stabilă este indispensabilă aici.",
+                "en": "Exposed to wind; a sturdy umbrella is essential here."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Gehwege in der Altstadt können bei Nässe glatt werden.",
+              "Die Kirchen bieten den besten kostenlosen Schutz im Zentrum.",
+              "Tragen Sie wasserfeste Schuhe für den Weg zum Dreikaisereck.",
+              "In der Nähe des Rynek gibt es Cafés zum Aufwärmen.",
+              "Planen Sie mehr Zeit für den Weg zwischen den Kirchen ein."
+            ],
+            "hu": [
+              "Az óvárosi járdák vizesen csúszóssá válhatnak.",
+              "A templomok nyújtják a legjobb ingyenes menedéket a központban.",
+              "Viseljen vízálló cipőt a Három Császár Sarkához vezető úton.",
+              "A Rynek környékén számos kávézó várja a melegedni vágyókat.",
+              "Számoljon több idővel a templomok közötti séta során."
+            ],
+            "ro": [
+              "Trotuarele din centrul vechi pot deveni alunecoase când sunt ude.",
+              "Bisericile oferă cel mai bun adăpost gratuit în centru.",
+              "Purtați încălțăminte impermeabilă pentru drumul spre colțul imperiilor.",
+              "În apropierea pieței există cafenele pentru a vă încălzi.",
+              "Alocați mai mult timp pentru deplasarea între biserici."
+            ],
+            "en": [
+              "Old town pavements can become slippery when wet.",
+              "Churches provide the best free shelter in the city center.",
+              "Wear waterproof shoes for the walk to the Three Emperors' Corner.",
+              "Cafes near the Market Square are great for warming up.",
+              "Allow extra time for walking between stops during heavy rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frostiger Morgen am Rynek. Mittags wärmen Sie sich in den Kirchen auf. Der Nachmittag im Museum ist die beste Flucht vor dem frühen Frost. Gegen 16:30 Uhr wird es dunkel, das Dreikaisereck wirkt im fahlen Winterlicht besonders melancholisch.",
+            "hu": "Fagyos reggel a főtéren. Délben a templomok vastag falai között kereshet enyhülést a hideg szél elől. A délutáni múzeumlátogatás a legjobb módja a fagy elkerülésének. Sötétedés után a folyótorkolat vidéke különleges hangulatot áraszt.",
+            "ro": "Dimineață geroasă în Piața Veche. La prânz, interiorul bisericilor oferă un răgaz de la vântul rece. Muzeul este refugiul ideal pentru după-amiază. Întunericul cade devreme, oferind colțului imperiilor o atmosferă melancolică sub lumina iernii.",
+            "en": "Frosty morning at the Market Square. Midday, the churches provide a break from the cold wind. The museum is the best refuge for the afternoon. Darkness falls by 4:30 PM, giving the river confluence a stark, wintry atmosphere."
+          },
+          "stops": [
+            {
+              "name": "Market Square (Rynek)",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stellen auf dem Kopfsteinpflaster.",
+                "hu": "Ügyeljen a jeges foltokra a macskaköves burkolaton.",
+                "ro": "Atenție la porțiunile înghețate de pe pavaj.",
+                "en": "Watch out for icy patches on the cobblestone pavement."
+              }
+            },
+            {
+              "name": "Mysłowice Town Hall",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp, um nicht zu sehr auszukühlen.",
+                "hu": "Rövid fotómegálló, hogy ne hűljön ki túlságosan.",
+                "ro": "Oprire scurtă pentru poze pentru a evita frigul excesiv.",
+                "en": "Quick photo stop to avoid getting too cold."
+              }
+            },
+            {
+              "name": "Sacred Heart Church",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Stille im Inneren zum Aufwärmen.",
+                "hu": "Használja ki a benti csendet és a szélvédett helyet.",
+                "ro": "Profită de liniștea din interior pentru a te încălzi.",
+                "en": "Take advantage of the interior quiet to warm up."
+              }
+            },
+            {
+              "name": "Church of the Visitation of the Blessed Virgin Mary",
+              "tip_5lang": {
+                "de": "Ein warmer Ort für eine kurze spirituelle Pause.",
+                "hu": "Meleg helyszín egy rövid spirituális pihenőhöz.",
+                "ro": "Un loc cald pentru o scurtă pauză spirituală.",
+                "en": "A warm location for a brief spiritual break."
+              }
+            },
+            {
+              "name": "Mysłowice City Museum",
+              "tip_5lang": {
+                "de": "Genießen Sie die geheizten Ausstellungsräume ausgiebig.",
+                "hu": "Élvezze ki alaposan a fűtött kiállítótermeket.",
+                "ro": "Bucurați-vă din plin de sălile de expoziție încălzite.",
+                "en": "Enjoy the heated exhibition rooms thoroughly."
+              }
+            },
+            {
+              "name": "Castle Park (Park Zamkowy)",
+              "tip_5lang": {
+                "de": "Tragen Sie warme Schuhe; der Boden ist oft gefroren.",
+                "hu": "Viseljen meleg lábbelit; a talaj gyakran fagyott.",
+                "ro": "Purtați încălțăminte călduroasă; solul este adesea înghețat.",
+                "en": "Wear warm footwear; the ground is often frozen."
+              }
+            },
+            {
+              "name": "Three Emperors' Corner",
+              "tip_5lang": {
+                "de": "Sehr windig am Wasser; dicke Jacke und Mütze nötig.",
+                "hu": "Nagyon szeles a vízpart; vastag kabát és sapka kell.",
+                "ro": "Foarte vântos lângă apă; necesită haină groasă și căciulă.",
+                "en": "Very windy by the water; thick coat and hat are required."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht in Polen im Winter bereits gegen 16:00 Uhr unter.",
+              "Die Wege am Fluss Przemsza können stark vereist sein.",
+              "Die Museen sind montags oft geschlossen; prüfen Sie die Zeiten.",
+              "Trinken Sie einen heißen Tee in den Lokalen am Rynek.",
+              "Kleiden Sie sich nach dem Zwiebelprinzip für Innen und Außen."
+            ],
+            "hu": [
+              "Lengyelországban télen már 16:00 körül lemegy a nap.",
+              "A Przemsza-folyó menti utak erősen jegesek lehetnek.",
+              "A múzeumok hétfőnként zárva lehetnek; ellenőrizze előre.",
+              "Igyon egy forró teát a Rynek menti vendéglátóhelyeken.",
+              "Öltözködjön rétegesen a kinti hideg és a benti meleg miatt."
+            ],
+            "ro": [
+              "În Polonia, soarele apune deja în jur de ora 16:00 iarna.",
+              "Potecile de-a lungul râului Przemsza pot fi foarte înghețate.",
+              "Muzeele sunt adesea închise lunea; verificați programul.",
+              "Beți un ceai fierbinte în localurile din jurul pieței.",
+              "Îmbrăcați-vă în straturi pentru diferențele de temperatură."
+            ],
+            "en": [
+              "In winter, the sun sets in Poland as early as 4:00 PM.",
+              "Paths along the Przemsza river can be severely icy.",
+              "Museums might be closed on Mondays; check opening times.",
+              "Have a hot tea in the cafes located around the Market Square.",
+              "Dress in layers to handle both outdoor cold and indoor heating."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -656,6 +864,214 @@
           "Be mindful of traffic, especially in the city center.",
           "A helmet is strongly recommended."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regnerische Fahrt zum Dreikaisereck, Vorsicht auf Waldwegen. Mittagsstopp im Park unter Bäumen. Die Museen bieten am Nachmittag den nötigen trockenen Unterschlupf. Abends Abschluss an der Kirche der Heimsuchung, bei nassen Straßen vorsichtig bremsen.",
+            "hu": "Esős tekerés a Három Császár Sarkához, óvatosan az erdei utakon. Délben a park fái alatt találhat némi védelmet. A múzeumok délután biztosítják a szükséges száraz pihenőt. Este a vizitációs templomnál zárjon, vizes úton lassítson korábban.",
+            "ro": "Călătorie ploioasă spre colțul imperiilor, atenție pe drumurile de pământ. La prânz, copacii din parc oferă o protecție limitată. Muzeele asigură adăpostul uscat necesar după-amiaza. Seara la biserică, frânați cu prudență pe carosabilul umed.",
+            "en": "Rainy ride to the Three Emperors' Corner; be careful on forest paths. Midday, the park trees offer some cover. Museums provide the necessary dry respite in the afternoon. Finish at the Church of the Visitation; brake early on wet roads."
+          },
+          "stops": [
+            {
+              "name": "Three Emperors' Corner",
+              "tip_5lang": {
+                "de": "Unbefestigte Wege können bei Regen schlammig sein.",
+                "hu": "A burkolatlan utak esőben sarasak lehetnek.",
+                "ro": "Drumurile neasfaltate pot fi noroioase pe ploaie.",
+                "en": "Unpaved paths can be muddy during rain."
+              }
+            },
+            {
+              "name": "Castle Park (Park Zamkowy)",
+              "tip_5lang": {
+                "de": "Meiden Sie bei Gewitter die Nähe von hohen Bäumen.",
+                "hu": "Vihar esetén kerülje a magas fák közelségét.",
+                "ro": "Evitați apropierea de copaci înalți în caz de furtună.",
+                "en": "Avoid proximity to tall trees during a thunderstorm."
+              }
+            },
+            {
+              "name": "Market Square (Rynek)",
+              "tip_5lang": {
+                "de": "Vorsicht beim Befahren von nassem Kopfsteinpflaster.",
+                "hu": "Vigyázzon a vizes macskakövön való kerékpározáskor.",
+                "ro": "Atenție la mersul pe bicicletă pe pavajul ud.",
+                "en": "Be careful when cycling on wet cobblestones."
+              }
+            },
+            {
+              "name": "Sacred Heart Church",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad an einem regengeschützten Ort ab.",
+                "hu": "Parkolja le a kerékpárt esővédett helyen.",
+                "ro": "Parcați bicicleta într-un loc ferit de ploaie.",
+                "en": "Park your bike in a spot sheltered from the rain."
+              }
+            },
+            {
+              "name": "Central Museum of Firefighting",
+              "tip_5lang": {
+                "de": "Langer Aufenthalt möglich, um Kleidung zu trocknen.",
+                "hu": "Hosszabb időt is eltölthet itt, amíg ruhái száradnak.",
+                "ro": "Puteți petrece mai mult timp aici pentru a vă usca hainele.",
+                "en": "Spend extra time here while your clothes dry out."
+              }
+            },
+            {
+              "name": "Mysłowice City Museum",
+              "tip_5lang": {
+                "de": "Sicherer Parkplatz für das Rad in der Nähe suchen.",
+                "hu": "Keressen biztonságos kerékpárparkolót a közelben.",
+                "ro": "Căutați o parcare sigură pentru biciclete în apropiere.",
+                "en": "Look for a secure bike parking spot nearby."
+              }
+            },
+            {
+              "name": "Church of the Visitation",
+              "tip_5lang": {
+                "de": "Vorsicht bei Pfützen in der Nähe des Eingangs.",
+                "hu": "Ügyeljen a tócsákra a bejárat közelében.",
+                "ro": "Atenție la bălțile din apropierea intrării.",
+                "en": "Watch out for puddles near the entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie Schutzbleche, um sich vor Spritzwasser zu schützen.",
+              "Verringern Sie den Reifendruck leicht für besseren Grip.",
+              "Vermeiden Sie Markierungen auf der Fahrbahn, diese sind rutschig.",
+              "Tragen Sie eine auffällige Regenjacke für bessere Sichtbarkeit.",
+              "Reinigen Sie die Kette nach der Fahrt von Schlamm und Salz."
+            ],
+            "hu": [
+              "Használjon sárvédőt a felcsapódó víz ellen.",
+              "Csökkentse kissé a guminyomást a jobb tapadás érdekében.",
+              "Kerülje az útburkolati jeleket, mert nagyon csúsznak.",
+              "Viseljen feltűnő esődzsekit a jobb láthatóságért.",
+              "A túra után tisztítsa meg a láncot a sártól."
+            ],
+            "ro": [
+              "Folosiți apărători pentru a vă proteja de apă.",
+              "Reduceți ușor presiunea în pneuri pentru o aderență mai bună.",
+              "Evitați marcajele rutiere, acestea sunt foarte alunecoase.",
+              "Purtați o jachetă de ploaie vizibilă pentru o mai bună vizibilitate.",
+              "Curățați lanțul de noroi după finalizarea traseului."
+            ],
+            "en": [
+              "Use mudguards to protect yourself from water spray.",
+              "Slightly reduce tire pressure for better grip on wet roads.",
+              "Avoid road markings as they become very slippery when wet.",
+              "Wear a high-visibility rain jacket for safety.",
+              "Clean your bike chain from mud after the trip."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Kalte Brise am Dreikaisereck, warme Handschuhe sind Pflicht. Mittags kurze Fahrt durch den frostigen Park. Die Museen sind wichtige Aufwärmstationen am Nachmittag. Beenden Sie die Tour vor Einbruch der Dunkelheit, da die Sicht auf glatten Wegen stark abnimmt.",
+            "hu": "Hideg szél a folyótorkolatnál, meleg kesztyű kötelező. Délben rövid tekerés a deres parkon át. A múzeumok fontos melegedőpontok a délutáni órákban. Fejezze be a túrát sötétedés előtt a csúszós utakon való biztonság érdekében.",
+            "ro": "Briză rece la colțul imperiilor, mănușile groase sunt obligatorii. La prânz, o scurtă plimbare prin parcul înghețat. Muzeele sunt puncte importante de încălzire după-amiaza. Încheiați turul înainte de lăsarea întunericului pentru siguranță.",
+            "en": "Cold breeze at the river confluence; warm gloves are a must. Midday features a brisk ride through the frosty park. Museums are vital warming stations in the afternoon. Finish your tour before sunset due to visibility on icy paths."
+          },
+          "stops": [
+            {
+              "name": "Three Emperors' Corner",
+              "tip_5lang": {
+                "de": "Der Wind vom Fluss Przemsza kühlt extrem schnell aus.",
+                "hu": "A Przemsza-folyó felőli szél rendkívül gyorsan lehűt.",
+                "ro": "Vântul de pe râul Przemsza vă poate îngheța rapid.",
+                "en": "The wind from the Przemsza river chills you very quickly."
+              }
+            },
+            {
+              "name": "Castle Park (Park Zamkowy)",
+              "tip_5lang": {
+                "de": "Achten Sie auf gefrorenes Laub auf den Waldwegen.",
+                "hu": "Ügyeljen a fagyott levelekre az erdei utakon.",
+                "ro": "Atenție la frunzele înghețate de pe poteci.",
+                "en": "Watch out for frozen leaves on the forest paths."
+              }
+            },
+            {
+              "name": "Market Square (Rynek)",
+              "tip_5lang": {
+                "de": "Das Pflaster kann unter einer dünnen Eisschicht liegen.",
+                "hu": "A macskakövet vékony jégréteg boríthatja.",
+                "ro": "Pavajul poate fi acoperit de un strat subțire de gheață.",
+                "en": "The cobblestones may be covered by a thin layer of ice."
+              }
+            },
+            {
+              "name": "Sacred Heart Church",
+              "tip_5lang": {
+                "de": "Sperren Sie das Rad sicher ab, bevor Sie hineingehen.",
+                "hu": "Zárja le biztonságosan a kerékpárt, mielőtt bemenne.",
+                "ro": "Încuiați bine bicicleta înainte de a intra.",
+                "en": "Lock your bike securely before heading inside."
+              }
+            },
+            {
+              "name": "Central Museum of Firefighting",
+              "tip_5lang": {
+                "de": "Große Hallen bieten Schutz vor dem eisigen Nordwind.",
+                "hu": "A nagy csarnokok védelmet nyújtanak a jeges északi széltől.",
+                "ro": "Halele mari oferă protecție împotriva vântului înghețat.",
+                "en": "The large halls provide shelter from the icy north wind."
+              }
+            },
+            {
+              "name": "Mysłowice City Museum",
+              "tip_5lang": {
+                "de": "Guter Ort, um die Glieder wieder aufzuwärmen.",
+                "hu": "Jó helyszín a végtagok átmelegítésére.",
+                "ro": "Loc bun pentru a vă reîncălzi membrele amorțite.",
+                "en": "A good place to warm up your limbs."
+              }
+            },
+            {
+              "name": "Church of the Visitation",
+              "tip_5lang": {
+                "de": "Vorsicht beim Absteigen auf möglicherweise glattem Boden.",
+                "hu": "Vigyázzon a leszálláskor az esetlegesen csúszós talajon.",
+                "ro": "Atenție la coborârea de pe bicicletă pe solul alunecos.",
+                "en": "Be careful when dismounting on potentially slippery ground."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Ihre Beleuchtung einwandfrei funktioniert.",
+              "Tragen Sie winddichte Kleidung, besonders an den Gelenken.",
+              "Vermeiden Sie hektische Lenkbewegungen auf glatten Flächen.",
+              "Ein heißes Getränk im Thermosbecher ist sehr zu empfehlen.",
+              "Akkus von E-Bikes entladen sich bei Kälte deutlich schneller."
+            ],
+            "hu": [
+              "Győződjön meg róla, hogy a világítása tökéletesen működik.",
+              "Viseljen szélálló ruházatot, különösen az ízületeknél.",
+              "Kerülje a hirtelen kormánymozdulatokat csúszós felületen.",
+              "Egy forró ital termoszhordozóban erősen ajánlott.",
+              "Az e-bike akkumulátorok hidegben sokkal gyorsabban merülnek."
+            ],
+            "ro": [
+              "Asigurați-vă că sistemul de iluminare funcționează perfect.",
+              "Purtați haine rezistente la vânt, în special la încheieturi.",
+              "Evitați mișcările bruște de ghidon pe suprafețe alunecoase.",
+              "O băutură fierbinte într-un termos este foarte recomandată.",
+              "Bateriile bicicletelor electrice se descarcă mult mai repede la frig."
+            ],
+            "en": [
+              "Ensure your bike lights are working perfectly for early dusk.",
+              "Wear windproof clothing, especially around your joints.",
+              "Avoid sudden steering movements on slippery surfaces.",
+              "Bringing a hot drink in a thermos is highly recommended.",
+              "E-bike batteries drain significantly faster in cold weather."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -956,6 +1372,196 @@
           "Be aware of parking fees in the city center.",
           "Plan for extra time for traffic during peak hours."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Bequeme Anfahrt zum Dreikaisereck trotz Regen. Parken Sie mittags zentral, um die Altstadt und Kirchen schnell zu erreichen. Der Nachmittag im Feuerwehrmuseum ist ein Highlight im Trockenen. Abends entspannte Rückfahrt durch den regnerischen Park Zamkowy.",
+            "hu": "Kényelmes autózás a folyótorkolathoz az eső ellenére. Délben parkoljon a központban, hogy gyorsan elérje a templomokat. A Tűzoltó Múzeum délutáni látogatása kiváló fedett program. Este nyugodt autózás a városon át.",
+            "ro": "Acces auto facil spre colțul imperiilor în ciuda ploii. La prânz, parcați central pentru a vizita rapid bisericile. Muzeul Pompierilor este un punct de atracție uscat după-amiaza. Seara, o plimbare relaxantă cu mașina prin oraș.",
+            "en": "Comfortable drive to the river confluence despite the rain. Park centrally at midday to reach the churches quickly. The Firefighting Museum is a dry highlight for the afternoon. Enjoy a relaxed evening drive through the city."
+          },
+          "stops": [
+            {
+              "name": "Three Emperors' Corner",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Aussichtspunkt, um trocken zu bleiben.",
+                "hu": "Parkoljon közel a kilátóponthoz, hogy száraz maradjon.",
+                "ro": "Parcați aproape de punctul de observație pentru a rămâne uscat.",
+                "en": "Park close to the viewpoint to stay dry."
+              }
+            },
+            {
+              "name": "City Center Parking",
+              "tip_5lang": {
+                "de": "Zentraler Startpunkt für den kurzen Gang zum Rynek.",
+                "hu": "Központi kiindulópont a főtéri rövid sétához.",
+                "ro": "Punct central de plecare pentru scurta plimbare spre piață.",
+                "en": "Central starting point for the short walk to the square."
+              }
+            },
+            {
+              "name": "Market Square & Town Hall",
+              "tip_5lang": {
+                "de": "Schneller Zugang zu den umliegenden Gebäuden.",
+                "hu": "Gyors hozzáférés a környező épületekhez.",
+                "ro": "Acces rapid la clădirile din jur.",
+                "en": "Quick access to the surrounding buildings."
+              }
+            },
+            {
+              "name": "Sacred Heart Church",
+              "tip_5lang": {
+                "de": "Nahegelegene Parkplätze ermöglichen einen trockenen Besuch.",
+                "hu": "A közeli parkolóhelyek lehetővé teszik a száraz látogatást.",
+                "ro": "Locurile de parcare din apropiere permit o vizită uscată.",
+                "en": "Nearby parking spots allow for a dry visit."
+              }
+            },
+            {
+              "name": "Central Museum of Firefighting",
+              "tip_5lang": {
+                "de": "Großer Parkplatz direkt vor dem Museumseingang.",
+                "hu": "Nagy parkoló közvetlenül a múzeum bejárata előtt.",
+                "ro": "Parcare mare chiar în fața intrării muzeului.",
+                "en": "Large parking lot directly in front of the museum entrance."
+              }
+            },
+            {
+              "name": "Castle Park (Park Zamkowy)",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den Park aus dem warmen Auto.",
+                "hu": "Élvezze a park látványát a meleg autóból.",
+                "ro": "Bucurați-vă de vederea parcului din mașina caldă.",
+                "en": "Enjoy the view of the park from the warm car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Scheibenwischer vor der Fahrt.",
+              "Achten Sie auf Aquaplaning auf den Hauptstraßen.",
+              "Nutzen Sie die Parkplätze in der Nähe der Museumseingänge.",
+              "Halten Sie Abstand zu Fußgängern an Pfützen.",
+              "Die Sichtverhältnisse können bei starkem Regen eingeschränkt sein."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze az ablaktörlőket.",
+              "Ügyeljen a vízenfutásra (aquaplaning) a főutakon.",
+              "Használja a múzeumi bejáratokhoz közeli parkolókat.",
+              "Tartson távolságot a gyalogosoktól a tócsák közelében.",
+              "Erős esőben a látási viszonyok korlátozottak lehetnek."
+            ],
+            "ro": [
+              "Verificați ștergătoarele de parbriz înainte de plecare.",
+              "Atenție la acvaplanare pe drumurile principale.",
+              "Utilizați parcările din apropierea intrărilor în muzee.",
+              "Păstrați distanța față de pietoni în dreptul bălților.",
+              "Vizibilitatea poate fi limitată în timpul ploilor torențiale."
+            ],
+            "en": [
+              "Check your windshield wipers before starting the trip.",
+              "Watch out for aquaplaning on the main roads.",
+              "Utilize parking spots closest to the museum entrances.",
+              "Keep a safe distance from pedestrians near puddles.",
+              "Visibility can be significantly reduced during heavy rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Vorsichtige Fahrt zum frostigen Dreikaisereck am Morgen. Mittags parken Sie in der beheizten Nähe des Zentrums. Das Feuerwehrmuseum bietet am Nachmittag eine angenehm warme Umgebung. Beenden Sie die Tour früh, bevor Glatteis die Straßen von Mysłowice gefährlich macht.",
+            "hu": "Óvatos autózás a fagyos folyótorkolathoz reggel. Délben parkoljon a központ fűtött közelében. A Tűzoltó Múzeum délután kellemesen meleg környezetet biztosít. Fejezze be korán a túrát, mielőtt a jegesedés veszélyessé tenné az utakat.",
+            "ro": "Conducere prudentă spre colțul imperiilor înghețat. La prânz, parcați aproape de centrul încălzit. Muzeul Pompierilor oferă un mediu cald după-amiaza. Încheiați turul devreme, înainte ca poleiul să devină periculos.",
+            "en": "Cautious drive to the frosty river confluence. Park near the heated city center at midday. The Firefighting Museum provides a pleasantly warm environment in the afternoon. End your tour early before ice makes the roads dangerous."
+          },
+          "stops": [
+            {
+              "name": "Three Emperors' Corner",
+              "tip_5lang": {
+                "de": "Die Zufahrtsstraßen können am Morgen glatt sein.",
+                "hu": "A bekötőutak reggelente jegesek lehetnek.",
+                "ro": "Drumurile de acces pot fi alunecoase dimineața.",
+                "en": "Access roads can be slippery in the morning."
+              }
+            },
+            {
+              "name": "City Center Parking",
+              "tip_5lang": {
+                "de": "Suchen Sie einen Platz, der schneefrei ist.",
+                "hu": "Keressen hómentes parkolóhelyet.",
+                "ro": "Căutați un loc de parcare fără zăpadă.",
+                "en": "Look for a parking spot that is free of snow."
+              }
+            },
+            {
+              "name": "Market Square & Town Hall",
+              "tip_5lang": {
+                "de": "Vorsicht beim Aussteigen auf glattem Kopfsteinpflaster.",
+                "hu": "Vigyázzon a kiszálláskor a csúszós macskakövön.",
+                "ro": "Atenție la coborârea din mașină pe pavajul alunecos.",
+                "en": "Be careful when getting out of the car on slippery stones."
+              }
+            },
+            {
+              "name": "Sacred Heart Church",
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor nicht unnötig im Stand laufen.",
+                "hu": "Ne járassa feleslegesen a motort álló helyzetben.",
+                "ro": "Nu lăsați motorul pornit inutil în staționare.",
+                "en": "Do not leave the engine idling unnecessarily."
+              }
+            },
+            {
+              "name": "Central Museum of Firefighting",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch als Aufwärmpause.",
+                "hu": "Használja ki a múzeumlátogatást melegedő pihenőként.",
+                "ro": "Folosiți vizita la muzeu ca o pauză de încălzire.",
+                "en": "Use the museum visit as a warming break."
+              }
+            },
+            {
+              "name": "Castle Park (Park Zamkowy)",
+              "tip_5lang": {
+                "de": "Fahren Sie langsam auf den parknahen Nebenstraßen.",
+                "hu": "Hajtson lassan a park melletti mellékutcákban.",
+                "ro": "Conduceți încet pe străzile secundare de lângă parc.",
+                "en": "Drive slowly on the side roads near the park."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Frostschutzmittel im Wischwasser ist.",
+              "Führen Sie einen Eiskratzer und Handbesen mit.",
+              "Rechnen Sie mit längeren Bremswegen auf vereisten Straßen.",
+              "Prüfen Sie den Reifendruck, er sinkt bei Kälte.",
+              "Vermeiden Sie das Parken unter schneebeladenen Bäumen."
+            ],
+            "hu": [
+              "Győződjön meg róla, hogy van fagyálló az ablakmosóban.",
+              "Tartson az autóban jégkaparót és hóseprűt.",
+              "Számoljon hosszabb féktávval a jeges utakon.",
+              "Ellenőrizze a guminyomást, mert hidegben csökken.",
+              "Kerülje a parkolást hóval terhelt fák alatt."
+            ],
+            "ro": [
+              "Asigurați-vă că aveți lichid de parbriz rezistent la îngheț.",
+              "Aveți în mașină o răzuitoare de gheață și o perie.",
+              "Alocați o distanță de frânare mai mare pe drumurile înghețate.",
+              "Verificați presiunea în anvelope, scade la frig.",
+              "Evitați parcarea sub copaci încărcați cu zăpadă."
+            ],
+            "en": [
+              "Ensure you have antifreeze in your windshield washer fluid.",
+              "Carry an ice scraper and a snow brush in the car.",
+              "Expect much longer braking distances on icy roads.",
+              "Check tire pressure as it drops in cold temperatures.",
+              "Avoid parking under trees heavily laden with snow."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1272,6 +1878,196 @@
           "Have small change ready for tickets if you buy them on the bus.",
           "Be aware of the final destinations to avoid going in the wrong direction."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trockener Start am Busbahnhof. Mittags kurze Wege zwischen den Haltestellen und den Museen. Das Stadtmuseum und das Feuerwehrmuseum bieten perfekten Schutz. Abends Rückfahrt mit dem Bus, nutzen Sie die überdachten Wartebereiche an den Stationen.",
+            "hu": "Száraz indulás a buszállomásról. Délben rövid távok a megállók és a múzeumok között. A Városi Múzeum és a Tűzoltó Múzeum tökéletes menedéket nyújt. Este buszos visszautazás, használja a megállók fedett várakozóhelyeit.",
+            "ro": "Pornire uscată de la autogară. La prânz, distanțe scurte între stații și muzee. Muzeul Orașului și cel al Pompierilor oferă protecție perfectă. Seara, întoarcere cu autobuzul, folosind zonele de așteptare acoperite.",
+            "en": "Dry start at the bus station. Midday features short walks between stops and museums. The City and Firefighting museums provide perfect shelter. Evening return by bus; use the covered waiting areas at the stations."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Mysłowice Bus Station",
+              "tip_5lang": {
+                "de": "Überdachte Bahnsteige bieten Schutz beim Umsteigen.",
+                "hu": "A fedett peronok védelmet nyújtanak átszálláskor.",
+                "ro": "Peroanele acoperite oferă protecție la transfer.",
+                "en": "Covered platforms provide shelter during transfers."
+              }
+            },
+            {
+              "name": "Market Square & Town Hall",
+              "tip_5lang": {
+                "de": "Die Haltestellen liegen nah an den historischen Gebäuden.",
+                "hu": "A megállók közel vannak a történelmi épületekhez.",
+                "ro": "Stațiile sunt aproape de clădirile istorice.",
+                "en": "The stops are located close to the historic buildings."
+              }
+            },
+            {
+              "name": "Mysłowice City Museum",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg von der Bushaltestelle zum Eingang.",
+                "hu": "Rövid gyalogút a buszmegállótól a bejáratig.",
+                "ro": "Scurtă plimbare de la stația de autobuz până la intrare.",
+                "en": "Short walk from the bus stop to the entrance."
+              }
+            },
+            {
+              "name": "Three Emperors' Corner",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Taktung der Busse bei Regen genau.",
+                "hu": "Esőben ellenőrizze pontosan a buszok követési idejét.",
+                "ro": "Verificați frecvența autobuzelor în caz de ploaie.",
+                "en": "Check the bus frequency carefully during rain."
+              }
+            },
+            {
+              "name": "Central Museum of Firefighting",
+              "tip_5lang": {
+                "de": "Idealer Ort, um die regenreichste Zeit zu verbringen.",
+                "hu": "Ideális helyszín a legesősebb időszak eltöltésére.",
+                "ro": "Loc ideal pentru a petrece perioada cea mai ploioasă.",
+                "en": "Ideal location to spend the rainiest period."
+              }
+            },
+            {
+              "name": "Castle Park (Park Zamkowy)",
+              "tip_5lang": {
+                "de": "Warten Sie im Bus auf die Station, die dem Park am nächsten ist.",
+                "hu": "Várja meg a buszon a parkhoz legközelebbi megállót.",
+                "ro": "Așteptați în autobuz stația cea mai apropiată de parc.",
+                "en": "Wait on the bus for the stop closest to the park."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die App 'Jakdojade' für Echtzeit-Infos.",
+              "Halten Sie Ihr Ticket griffbereit, um nicht im Regen zu suchen.",
+              "In den Bussen ist es bei Regen oft feucht-warm.",
+              "Größere Stationen haben oft kleine Kioske zum Unterstellen.",
+              "Rechnen Sie mit leichten Verspätungen im Stadtverkehr."
+            ],
+            "hu": [
+              "Használja a 'Jakdojade' alkalmazást a valós idejű infókért.",
+              "Tartsa készenlétben a jegyét, hogy ne az esőben keresgéljen.",
+              "A buszokon esőben gyakran párás a levegő.",
+              "A nagyobb megállóknál gyakran vannak újságosok menedéknek.",
+              "Számoljon kisebb késésekkel a városi forgalomban."
+            ],
+            "ro": [
+              "Utilizați aplicația „Jakdojade” pentru informații în timp real.",
+              "Aveți biletul la îndemână pentru a nu-l căuta în ploaie.",
+              "În autobuze este adesea umezeală în timpul ploii.",
+              "Stațiile mai mari au adesea chioșcuri unde vă puteți adăposti.",
+              "Așteptați-vă la mici întârzieri în traficul urban."
+            ],
+            "en": [
+              "Use the 'Jakdojade' app for real-time transit information.",
+              "Keep your ticket ready so you don't have to search for it in the rain.",
+              "Buses can get quite humid inside during rainy weather.",
+              "Larger stations often have small kiosks for shelter.",
+              "Expect slight delays in city traffic during heavy downpours."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Warmer Start im Busbahnhof. Mittags nutzen Sie die beheizten Busse für den Weg zwischen den Kirchen. Die Museen am Nachmittag sind perfekte Aufwärmoasen. Abends Rückfahrt im geheizten Fahrzeug, achten Sie auf die rutschigen Stufen beim Ein- und Aussteigen.",
+            "hu": "Meleg indulás a buszállomásról. Délben használja a fűtött buszokat a templomok közötti közlekedéshez. A délutáni múzeumlátogatás tökéletes melegedőpont. Este fűtött járművel utazhat vissza, ügyeljen a csúszós lépcsőkre.",
+            "ro": "Pornire caldă de la autogară. La prânz, folosiți autobuzele încălzite între biserici. Muzeele de după-amiază sunt oaze perfecte de căldură. Seara, întoarcere într-un vehicul încălzit; atenție la treptele alunecoase.",
+            "en": "Warm start at the bus station. Midday, use the heated buses to travel between churches. Afternoon museum visits are perfect warming oases. Return in a heated vehicle in the evening; watch out for slippery steps."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Mysłowice Bus Station",
+              "tip_5lang": {
+                "de": "Der Wartesaal im Bahnhof bietet Schutz vor Frost.",
+                "hu": "Az állomás váróterme védelmet nyújt a fagy ellen.",
+                "ro": "Sala de așteptare din gară oferă protecție contra gerului.",
+                "en": "The station waiting room provides shelter from the frost."
+              }
+            },
+            {
+              "name": "Market Square & Town Hall",
+              "tip_5lang": {
+                "de": "Kurze Wege begrenzen die Zeit in der Kälte.",
+                "hu": "A rövid távolságok korlátozzák a hidegben töltött időt.",
+                "ro": "Distanțele scurte limitează timpul petrecut în frig.",
+                "en": "Short distances limit the time spent in the cold."
+              }
+            },
+            {
+              "name": "Mysłowice City Museum",
+              "tip_5lang": {
+                "de": "Hinterlegen Sie schwere Wintermäntel an der Garderobe.",
+                "hu": "A nehéz télikabátokat hagyja a ruhatárban.",
+                "ro": "Lăsați hainele groase de iarnă la garderobă.",
+                "en": "Leave heavy winter coats at the cloakroom."
+              }
+            },
+            {
+              "name": "Three Emperors' Corner",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Winterfahrplan; manche Linien fahren seltener.",
+                "hu": "Ellenőrizze a téli menetrendet; egyes járatok ritkábbak.",
+                "ro": "Verificați mersul trenurilor de iarnă; unele rute sunt mai rare.",
+                "en": "Check the winter schedule; some lines may run less frequently."
+              }
+            },
+            {
+              "name": "Central Museum of Firefighting",
+              "tip_5lang": {
+                "de": "Genießen Sie die Wärme, bevor es zurück zur Haltestelle geht.",
+                "hu": "Élvezze a meleget, mielőtt visszatérne a megállóba.",
+                "ro": "Bucurați-vă de căldură înainte de a reveni în stație.",
+                "en": "Enjoy the warmth before heading back to the bus stop."
+              }
+            },
+            {
+              "name": "Castle Park (Park Zamkowy)",
+              "tip_5lang": {
+                "de": "Warten Sie in einem Café, falls der Bus Verspätung hat.",
+                "hu": "Várjon egy kávézóban, ha késik a busz.",
+                "ro": "Așteptați într-o cafenea dacă autobuzul întârzie.",
+                "en": "Wait in a cafe if the bus happens to be delayed."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse sind im Winter oft stark geheizt; kleiden Sie sich variabel.",
+              "Achten Sie auf Schneematsch auf den Stufen im Bus.",
+              "Haltestellen ohne Häuschen können sehr zugig sein.",
+              "Bei starkem Schneefall kann der Verkehr stocken.",
+              "Nutzen Sie die Wartezeiten für einen schnellen warmen Snack."
+            ],
+            "hu": [
+              "A buszok télen gyakran erősen fűtöttek; öltözzön változatosan.",
+              "Ügyeljen a hókására a busz lépcsőin.",
+              "A váró nélküli megállók nagyon huzatosak lehetnek.",
+              "Erős havazáskor a közlekedés lelassulhat.",
+              "Használja ki a várakozási időt egy gyors meleg ételre."
+            ],
+            "ro": [
+              "Autobuzele sunt adesea supraîncălzite iarna; îmbrăcați-vă flexibil.",
+              "Atenție la fleșcăraia de pe treptele autobuzului.",
+              "Stațiile fără adăpost pot fi foarte expuse la curent.",
+              "În caz de ninsori abundente, traficul poate stagna.",
+              "Folosiți timpul de așteptare pentru o gustare caldă rapidă."
+            ],
+            "en": [
+              "Buses are often heavily heated in winter; dress in layers.",
+              "Watch out for slush on the bus steps to avoid slipping.",
+              "Stops without shelters can be very draughty and cold.",
+              "Heavy snowfall may cause traffic congestion and delays.",
+              "Use waiting times to grab a quick warm snack nearby."
+            ]
+          }
+        }
       }
     }
   }

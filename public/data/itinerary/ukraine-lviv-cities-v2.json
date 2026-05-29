@@ -343,6 +343,206 @@
           "Wear comfortable shoes for the cobblestone streets.",
           "Try the local coffee in one of the hidden roasteries."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgen im prunkvollen Opernhaus trocken starten. Mittags bieten die Arkaden und Passagen rund um den Rynok-Platz Schutz vor den Güssen. Der Nachmittag im Apothekenmuseum führt in unterirdische, trockene Gewölbe. Der Tag endet stilvoll in den Innenräumen des Potocki-Palastes.",
+            "hu": "A reggelt a pompás Operaház védelmében kezdjük. Délben a Rynok tér árkádjai és az örmény negyed szűk utcái adnak menedéket. Délután a Patikamúzeum föld alatti járataiban bújunk el az eső elől. Az estét a Potocki-palota fejedelmi termeiben, fedett helyen zárjuk.",
+            "ro": "Începeți dimineața în interiorul somptuos al Operei. La prânz, arcadele și pasajele din Piața Rynok oferă adăpost împotriva ploii. După-amiaza la Muzeul Farmaciei vă poartă prin galerii subterane uscate. Seara se încheie elegant în saloanele Palatului Potocki.",
+            "en": "Start your morning protected by the grand Opera House. At noon, the arcades and passages around Rynok Square offer shelter from the downpour. The afternoon at the Pharmacy Museum leads through dry underground vaults. The day ends stylishly inside the Potocki Palace."
+          },
+          "stops": [
+            {
+              "name": "Lwiwer Opernhaus",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe für nasse Mäntel.",
+                "hu": "Használja a ruhatárat a vizes kabátoknak.",
+                "ro": "Folosiți garderoba pentru haine ude.",
+                "en": "Use the cloakroom for wet coats."
+              }
+            },
+            {
+              "name": "Armenische Kathedrale",
+              "tip_5lang": {
+                "de": "Die Innenhöfe bieten teils überdachte Gänge.",
+                "hu": "A belső udvarok fedett folyosókat kínálnak.",
+                "ro": "Curțile interioare au pasaje parțial acoperite.",
+                "en": "The inner courtyards offer partially covered paths."
+              }
+            },
+            {
+              "name": "Rynok-Platz",
+              "tip_5lang": {
+                "de": "Hüpfen Sie von Arkade zu Arkade.",
+                "hu": "Haladjon árkádról árkádra a tér körül.",
+                "ro": "Mergeți de la o arcadă la alta în jurul pieței.",
+                "en": "Hop from arcade to arcade around the square."
+              }
+            },
+            {
+              "name": "Lwiwer Rathaus",
+              "tip_5lang": {
+                "de": "Der Turmaufstieg ist bei Regen rutschig.",
+                "hu": "A toronyba vezető lépcsők esőben csúszósak.",
+                "ro": "Urcarea în turn este alunecoasă pe ploaie.",
+                "en": "The tower climb is slippery in the rain."
+              }
+            },
+            {
+              "name": "Apothekenmuseum",
+              "tip_5lang": {
+                "de": "Ein perfekter Zufluchtsort unter der Erde.",
+                "hu": "Tökéletes föld alatti menedék az eső elől.",
+                "ro": "Un refugiu subteran perfect împotriva ploii.",
+                "en": "A perfect underground refuge from the rain."
+              }
+            },
+            {
+              "name": "Boim-Kapelle",
+              "tip_5lang": {
+                "de": "Kurze Wartezeiten meist im trockenen Portal.",
+                "hu": "A rövid várakozás a fedett kapualjban megoldható.",
+                "ro": "Așteptarea scurtă se poate face în portalul uscat.",
+                "en": "Short waits can be spent in the dry portal."
+              }
+            },
+            {
+              "name": "Potocki-Palast",
+              "tip_5lang": {
+                "de": "Genießen Sie die Kunstausstellung im Trockenen.",
+                "hu": "Élvezze a kiállítást a száraz belső terekben.",
+                "ro": "Bucurați-vă de expoziție în interiorul uscat.",
+                "en": "Enjoy the art exhibition in the dry interiors."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Lemberg hat viele Passagen (z. B. Andreolli), die Abkürzungen im Trockenen bieten.",
+              "Kopfsteinpflaster wird bei Nässe sehr rutschig; festes Schuhwerk ist Pflicht.",
+              "Die Straßenbahnen sind gute 'Unterstände' für längere Strecken.",
+              "Ein Besuch in einem der thematischen Cafés (z. B. Gasova Lampa) trocknet die Seele."
+            ],
+            "hu": [
+              "Lviv híres a passzázsairól (pl. Andreolli), használja ezeket rövidítésnek.",
+              "A macskakő esőben rendkívül csúszós, viseljen megfelelő talpú cipőt.",
+              "A villamosok jó guruló menedéknek számítanak a hosszabb távokon.",
+              "A tematikus kávézók (pl. Gasova Lampa) remek helyek a kiszáradáshoz."
+            ],
+            "ro": [
+              "Lviv are multe pasaje (ex. Andreolli) care oferă scurtături la adăpost.",
+              "Pavelele devin foarte alunecoase când sunt ude; purtați încălțăminte adecvată.",
+              "Tramvaiele sunt bune 'adăposturi' mobile pentru distanțe mai lungi.",
+              "O vizită la cafenelele tematice (ex. Gasova Lampa) vă va încălzi sufletul."
+            ],
+            "en": [
+              "Lviv has many passages (e.g., Andreolli) that offer dry shortcuts.",
+              "Cobblestones become very slippery when wet; wear shoes with good grip.",
+              "Trams are good 'moving shelters' for longer distances through the center.",
+              "A visit to thematic cafes (e.g., Gasova Lampa) is great for drying off."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein winterlicher Morgen an der Oper, gefolgt von der mystischen armenischen Kathedrale. Mittags wärmen Glühwein und Lichter auf dem Rynok-Platz. Der Nachmittag im Rathaus bietet Ausblicke auf verschneite Dächer. Den Abend verbringen wir in den prachtvoll geheizten Sälen des Potocki-Palastes.",
+            "hu": "Havas reggel az Operánál, majd látogatás a misztikus örmény templomban. Délben forralt bor és ünnepi fények várnak a Rynok téren. Délután a városháza tornyából csodáljuk a havas háztetőket. Az estét a Potocki-palota fűtött, elegáns termeiben zárjuk.",
+            "ro": "O dimineață de iarnă la Operă, urmată de atmosfera mistică a catedralei armene. La prânz, vinul fiert și luminile de sărbătoare încălzesc Piața Rynok. După-amiaza oferă vederi spre acoperișurile înzăpezite din turnul Primăriei. Seara se încheie în sălile încălzite ale Palatului Potocki.",
+            "en": "A wintry morning at the Opera, followed by the mystical Armenian Cathedral. At noon, mulled wine and festive lights warm up Rynok Square. The afternoon at the City Hall offers views over snowy rooftops. The evening is spent in the grand, heated halls of the Potocki Palace."
+          },
+          "stops": [
+            {
+              "name": "Lwiwer Opernhaus",
+              "tip_5lang": {
+                "de": "Drinnen ist es herrlich warm; dicke Jacken abgeben.",
+                "hu": "Bent kellemes meleg van; a kabátokat le lehet adni.",
+                "ro": "În interior este cald; lăsați hainele groase la garderobă.",
+                "en": "It's wonderfully warm inside; leave heavy coats at the cloakroom."
+              }
+            },
+            {
+              "name": "Armenische Kathedrale",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis im gepflasterten Hof.",
+                "hu": "Vigyázzon a jegesedésre a kövezett udvaron.",
+                "ro": "Atenție la gheață în curtea pavată.",
+                "en": "Watch out for ice in the paved courtyard."
+              }
+            },
+            {
+              "name": "Rynok-Platz",
+              "tip_5lang": {
+                "de": "Probieren Sie heißen Kirschlikör (Piana Vyshnia).",
+                "hu": "Kóstolja meg a forró meggyest (Piana Vyshnia).",
+                "ro": "Încercați lichiorul cald de cireșe (Piana Vyshnia).",
+                "en": "Try some hot cherry liqueur (Piana Vyshnia)."
+              }
+            },
+            {
+              "name": "Lwiwer Rathaus",
+              "tip_5lang": {
+                "de": "Auf dem Turm herrscht eisiger Wind; Mütze mitnehmen.",
+                "hu": "A toronyban jeges szél fúj, viseljen sapkát.",
+                "ro": "În turn bate un vânt înghețat; luați o căciulă.",
+                "en": "Icy winds blow on the tower; take a beanie."
+              }
+            },
+            {
+              "name": "Apothekenmuseum",
+              "tip_5lang": {
+                "de": "Konstante Temperaturen in den Kellerräumen.",
+                "hu": "A pincék hőmérséklete télen is állandó.",
+                "ro": "Temperaturi constante în sălile din pivniță.",
+                "en": "Constant temperatures in the cellar rooms."
+              }
+            },
+            {
+              "name": "Boim-Kapelle",
+              "tip_5lang": {
+                "de": "Die kleine Kapelle hält die Körperwärme gut.",
+                "hu": "A kis kápolna jól tartja a benti meleget.",
+                "ro": "Capela mică păstrează bine căldura corporală.",
+                "en": "The small chapel retains body heat well."
+              }
+            },
+            {
+              "name": "Potocki-Palast",
+              "tip_5lang": {
+                "de": "Ein warmer Abschluss in imperialem Ambiente.",
+                "hu": "Meleg befejezés birodalmi környezetben.",
+                "ro": "Un final călduros într-o ambianță imperială.",
+                "en": "A warm finish in an imperial setting."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Sonnenuntergang ist im Winter bereits gegen 16:30 Uhr.",
+              "Die Eislaufbahn auf dem Rynok-Platz ist ein Winter-Highlight.",
+              "Trinken Sie 'Lemberger Kaffee' zum Aufwärmen.",
+              "Streusalz kann Lederschuhe angreifen; imprägnieren Sie Ihre Schuhe."
+            ],
+            "hu": [
+              "Télen a napnyugta már délután fél 5 körül bekövetkezik.",
+              "A Rynok téri korcsolyapálya igazi téli különlegesség.",
+              "Igyon egy 'Lembergi kávét' az átmelegedéshez.",
+              "Az útszórás kárt tehet a bőrcipőkben, impregnálja őket előre."
+            ],
+            "ro": [
+              "Apusul soarelui este în jur de ora 16:30 iarna.",
+              "Patinoarul din Piața Rynok este un punct forte al iernii.",
+              "Beți o 'cafea de Lviv' pentru a vă încălzi.",
+              "Sarea de pe drum poate afecta pantofii de piele; impregnați-i."
+            ],
+            "en": [
+              "Sunset occurs around 4:30 PM in winter.",
+              "The ice skating rink on Rynok Square is a winter highlight.",
+              "Drink 'Lviv coffee' to warm up between stops.",
+              "Road salt can damage leather shoes; waterproof them beforehand."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -661,6 +861,188 @@
           "Use the bike paths in Stryiskyi Park.",
           "Be careful with tram tracks in the city center."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine nasse Fahrt zur St.-Georgs-Kathedrale, dann flach zum Palast. Mittags radeln wir vorsichtig über den Rynok zum Opernhaus. Der Nachmittag am Hohen Schlossberg ist windanfällig, bevor wir den Lychakiv-Friedhof in nebliger Atmosphäre erreichen.",
+            "hu": "Vizes tekerés a Szent György-székesegyházhoz, majd a palotához. Délben óvatosan vágunk át a Rynok téren az Operáig. Délután a Várhegy emelkedője szeles lehet, végül ködös hangulatban érjük el a Licsakovszki temetőt.",
+            "ro": "O plimbare umedă spre Catedrala Sf. Gheorghe, apoi spre Palat. La prânz pedalăm cu grijă prin Piața Rynok spre Operă. După-amiaza pe dealul Castelului este vântoasă, înainte de a ajunge la cimitirul Lychakiv.",
+            "en": "A wet ride to St. George's Cathedral, then flat to the Palace. At noon, we cycle carefully across Rynok to the Opera House. The afternoon at High Castle hill is windy, before reaching the Lychakiv Cemetery in a misty atmosphere."
+          },
+          "stops": [
+            {
+              "name": "St.-Georgs-Kathedrale",
+              "tip_5lang": {
+                "de": "Der Anstieg ist auf nassem Pflaster anstrengend.",
+                "hu": "Az emelkedő vizes macskakövön fárasztó.",
+                "ro": "Urcarea este obositoare pe pavajul umed.",
+                "en": "The climb is strenuous on wet cobblestones."
+              }
+            },
+            {
+              "name": "Potocki-Palast",
+              "tip_5lang": {
+                "de": "Parken Sie das Rad nahe am Eingang unter Bäumen.",
+                "hu": "Parkoljon a bejárat közelében, fák alatt.",
+                "ro": "Parcați bicicleta lângă intrare, sub copaci.",
+                "en": "Park your bike near the entrance under trees."
+              }
+            },
+            {
+              "name": "Lwiwer Opernhaus",
+              "tip_5lang": {
+                "de": "Vorsicht vor den Straßenbahnschienen bei Nässe.",
+                "hu": "Vigyázzon a villamossínekre az esőben.",
+                "ro": "Atenție la șinele de tramvai pe ploaie.",
+                "en": "Watch out for tram tracks in the rain."
+              }
+            },
+            {
+              "name": "Rynok-Platz",
+              "tip_5lang": {
+                "de": "Schieben ist hier bei starkem Regen sicherer.",
+                "hu": "Erős esőben biztonságosabb itt tolni a biciklit.",
+                "ro": "Este mai sigur să mergeți pe lângă bicicletă aici.",
+                "en": "Walking your bike is safer here in heavy rain."
+              }
+            },
+            {
+              "name": "Hoher Schlossberg",
+              "tip_5lang": {
+                "de": "Der Boden kann auf den Waldwegen matschig sein.",
+                "hu": "Az erdei utak talaja sárvassá válhat.",
+                "ro": "Solul poate fi noroios pe potecile de pădure.",
+                "en": "The ground can be muddy on the forest paths."
+              }
+            },
+            {
+              "name": "Lychakiv-Friedhof",
+              "tip_5lang": {
+                "de": "Neblige Sicht macht den Ort besonders mystisch.",
+                "hu": "A ködös látvány még misztikusabbá teszi a helyet.",
+                "ro": "Vizibilitatea redusă face locul foarte mistic.",
+                "en": "Misty views make the place extra mystical."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kopfsteinpflaster und Straßenbahnschienen sind bei Regen extrem gefährlich.",
+              "Verwenden Sie Schutzbleche, um Schlammspritzer zu vermeiden.",
+              "Ein wasserdichter Sattelüberzug ist in Lemberg Gold wert.",
+              "Planen Sie mehr Zeit für Bremswege ein."
+            ],
+            "hu": [
+              "A macskakő és a villamossínek esőben rendkívül veszélyesek.",
+              "Használjon sárvédőt, hogy elkerülje a sárfelverődést.",
+              "A vízálló nyereghuzat Lvivben aranyat ér.",
+              "Számoljon hosszabb fékúttal a csúszós úton."
+            ],
+            "ro": [
+              "Pavajul și șinele de tramvai sunt extrem de periculoase pe ploaie.",
+              "Folosiți aripi pentru a evita stropirea cu noroi.",
+              "O husă de șa impermeabilă valorează aur în Lviv.",
+              "Prevedeți mai mult timp pentru frânare."
+            ],
+            "en": [
+              "Cobblestones and tram tracks are extremely dangerous in the rain.",
+              "Use fenders to avoid mud splashes on your clothes.",
+              "A waterproof saddle cover is worth its weight in gold in Lviv.",
+              "Allow for much longer braking distances."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Start an der Kathedrale, danach Fahrt durch die winterliche Kopernyka-Straße. Mittags erreichen wir die Oper. Der Aufstieg zum Schlossberg ist bei Schnee eine Herausforderung, wird aber mit Panoramablick belohnt. Der Tag endet am stillen Lychakiv-Friedhof.",
+            "hu": "Fagyos kezdés a katedrálisnál, majd tekerés a téli Kopernyka utcán. Délben érjük el az Operát. A Várhegyre való feljutás hóban kihívás, de a panoráma kárpótol. A nap a csendes, havas Licsakovszki temetőben ér véget.",
+            "ro": "Un început înghețat la catedrală, urmat de o tură pe strada Kopernyka. La prânz ajungem la Operă. Urcarea pe dealul Castelului e o provocare pe zăpadă, dar merită pentru panoramă. Ziua se încheie la cimitirul Lychakiv.",
+            "en": "A frosty start at the Cathedral, followed by a ride through wintry Kopernyka Street. At noon, we reach the Opera. Climbing High Castle in the snow is a challenge but rewards with a panorama. The day ends at the silent, snowy Lychakiv Cemetery."
+          },
+          "stops": [
+            {
+              "name": "St.-Georgs-Kathedrale",
+              "tip_5lang": {
+                "de": "Vorsicht vor festgefahrenem Schnee am Hügel.",
+                "hu": "Vigyázzon a letaposott hóra a dombon.",
+                "ro": "Atenție la zăpada bătătorită pe deal.",
+                "en": "Watch out for packed snow on the hill."
+              }
+            },
+            {
+              "name": "Potocki-Palast",
+              "tip_5lang": {
+                "de": "Kurzer Stopp zum Aufwärmen der Hände empfohlen.",
+                "hu": "Rövid megálló a kezek átmelegítésére ajánlott.",
+                "ro": "Se recomandă o oprire scurtă pentru încălzirea mâinilor.",
+                "en": "A short stop to warm up your hands is recommended."
+              }
+            },
+            {
+              "name": "Lwiwer Opernhaus",
+              "tip_5lang": {
+                "de": "An den Fahrradständern kann es glatt sein.",
+                "hu": "A biciklitárolóknál jegesedés várható.",
+                "ro": "Poate fi ghețuș lângă suporturile de biciclete.",
+                "en": "It can be icy near the bike racks."
+              }
+            },
+            {
+              "name": "Rynok-Platz",
+              "tip_5lang": {
+                "de": "Große Vorsicht in den Fußgängerzonen (Eisplatten).",
+                "hu": "Fokozott óvatosság a sétálóövezetben (jégfoltok).",
+                "ro": "Atenție sporită în zonele pietonale (plăci de gheață).",
+                "en": "Extra caution in pedestrian zones (ice patches)."
+              }
+            },
+            {
+              "name": "Hoher Schlossberg",
+              "tip_5lang": {
+                "de": "Beste Aussicht auf das verschneite Lemberg.",
+                "hu": "A legjobb kilátás a havas Lvivre.",
+                "ro": "Cea mai bună vedere asupra orașului înzăpezit.",
+                "en": "Best view over snowy Lviv from here."
+              }
+            },
+            {
+              "name": "Lychakiv-Friedhof",
+              "tip_5lang": {
+                "de": "Die Wege werden nur teilweise geräumt.",
+                "hu": "Az utakat csak részben takarítják a hótol.",
+                "ro": "Aleile sunt curățate doar parțial de zăpadă.",
+                "en": "The paths are only partially cleared of snow."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Schichten und winddichte Handschuhe.",
+              "Der Reifendruck sollte für besseren Grip etwas niedriger sein.",
+              "Akkus von E-Bikes entladen sich bei Kälte deutlich schneller.",
+              "Vermeiden Sie abrupte Lenkbewegungen auf Schnee."
+            ],
+            "hu": [
+              "Öltözzön rétegesen és viseljen szélálló kesztyűt.",
+              "A guminyomás legyen kicsit alacsonyabb a jobb tapadásért.",
+              "Az e-bike akkumulátorok hidegben gyorsabban merülnek.",
+              "Kerülje a hirtelen kormánymozdulatokat a havon."
+            ],
+            "ro": [
+              "Purtați haine în straturi și mănuși rezistente la vânt.",
+              "Presiunea în anvelope ar trebui să fie mai mică pentru aderență.",
+              "Bateriile e-bike-urilor se descarcă mult mai repede la frig.",
+              "Evitați virajele bruște pe zăpadă."
+            ],
+            "en": [
+              "Wear layers and windproof gloves.",
+              "Lower your tire pressure slightly for better grip on snow/ice.",
+              "E-bike batteries drain significantly faster in the cold.",
+              "Avoid abrupt steering movements on snowy surfaces."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -998,6 +1380,206 @@
           "Park on the edge of the old town as the center is pedestrian-only.",
           "Pay attention to one-way streets."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein bequemer Start im trockenen Auto zur Kathedrale und zum Palast. Mittags geht es zum Lychakiv-Friedhof, wo der Wagen nah am Eingang parken kann. Nachmittags erreichen wir die Oper im Zentrum. Der Tag endet sicher am Rynok und der Boim-Kapelle.",
+            "hu": "Kényelmes, száraz kezdés autóval a katedrálisnál és a palotánál. Délben a Licsakovszki temetőhöz hajtunk, ahol a bejárat közelében parkolunk. Délután az Operához érünk. A nap a Rynok térnél és a Boim-kápolnánál zárul.",
+            "ro": "Un început confortabil în mașina uscată spre catedrală și palat. La prânz mergem la cimitirul Lychakiv, unde parcăm aproape de intrare. După-amiaza ajungem la Operă. Ziua se încheie sigur la Piața Rynok și Capela Boim.",
+            "en": "A comfortable start in a dry car to the Cathedral and Palace. At noon, we drive to Lychakiv Cemetery, parking close to the entrance. In the afternoon, we reach the Opera in the center. The day ends safely at Rynok Square and Boim Chapel."
+          },
+          "stops": [
+            {
+              "name": "St.-Georgs-Kathedrale",
+              "tip_5lang": {
+                "de": "Parkplatz direkt vor dem Haupttor nutzen.",
+                "hu": "Használja a parkolót közvetlenül a főkapunál.",
+                "ro": "Folosiți parcarea direct în fața porții principale.",
+                "en": "Use the parking lot right in front of the main gate."
+              }
+            },
+            {
+              "name": "Potocki-Palast",
+              "tip_5lang": {
+                "de": "Kurzes Halten zum Aussteigen vor dem Tor möglich.",
+                "hu": "Rövid megállás a kiszálláshoz a kapu előtt lehetséges.",
+                "ro": "Oprirea scurtă pentru debarcare este posibilă la poartă.",
+                "en": "Short stop for drop-off is possible in front of the gate."
+              }
+            },
+            {
+              "name": "Lychakiv-Friedhof",
+              "tip_5lang": {
+                "de": "Parken Sie auf der Shimzeriv-Straße.",
+                "hu": "Parkoljon a Shimzeriv utcában.",
+                "ro": "Parcați pe strada Shimzeriv.",
+                "en": "Park on Shimzeriv Street."
+              }
+            },
+            {
+              "name": "Lwiwer Opernhaus",
+              "tip_5lang": {
+                "de": "Parkhäuser in der Nähe nutzen, um Regen zu meiden.",
+                "hu": "Használjon közeli parkolóházat az eső elkerülésére.",
+                "ro": "Folosiți parcările etajate din apropiere.",
+                "en": "Use nearby parking garages to avoid the rain."
+              }
+            },
+            {
+              "name": "Rynok-Platz",
+              "tip_5lang": {
+                "de": "Zentrum ist Fußgängerzone; Randparkplätze wählen.",
+                "hu": "A központ sétálóövezet, válasszon szélső parkolót.",
+                "ro": "Centrul este pietonal; alegeți parcări la margine.",
+                "en": "The center is pedestrianized; choose perimeter parking."
+              }
+            },
+            {
+              "name": "Lwiwer Rathaus",
+              "tip_5lang": {
+                "de": "Vom Parkplatz kurzer Sprint zum Eingang.",
+                "hu": "A parkolótól rövid sprint a bejáratig.",
+                "ro": "Scurt sprint de la parcare până la intrare.",
+                "en": "Short sprint from the parking spot to the entrance."
+              }
+            },
+            {
+              "name": "Boim-Kapelle",
+              "tip_5lang": {
+                "de": "Liegt in einer schmalen Gasse; Anfahrt schwierig.",
+                "hu": "Szűk utcában van, az odajutás kocsival nehéz.",
+                "ro": "Situată pe o stradă îngustă; acces dificil.",
+                "en": "Located in a narrow alley; driving close is difficult."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stau bei Regen ist in Lemberg üblich; mehr Zeit einplanen.",
+              "Die Straßenbahnschienen sind bei Nässe tückisch für Autoreifen.",
+              "Nutzen Sie Park-Apps (z.B. UNIP), um Zeit im Regen zu sparen.",
+              "Ein Regenschirm im Kofferraum ist unerlässlich."
+            ],
+            "hu": [
+              "Esőben gyakoriak a dugók Lvivben, számoljon több idővel.",
+              "A villamossínek esőben megvezethetik az autó kerekét.",
+              "Használjon parkoló appokat (pl. UNIP), hogy ne ázzon feleslegesen.",
+              "Egy esernyő a csomagtartóban elengedhetetlen."
+            ],
+            "ro": [
+              "Blocajele în trafic sunt comune pe ploaie în Lviv.",
+              "Șinele de tramvai sunt înșelătoare pentru pneuri pe carosabil umed.",
+              "Folosiți aplicații de parcare (ex. UNIP) pentru a câștiga timp.",
+              "O umbrelă în portbagaj este indispensabilă."
+            ],
+            "en": [
+              "Traffic jams are common in Lviv during rain; plan extra time.",
+              "Tram tracks can be treacherous for car tires when wet.",
+              "Use parking apps (e.g., UNIP) to save time in the rain.",
+              "Keep an umbrella in the trunk for the walk from the car."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Warm und sicher durch das verschneite Lemberg. Wir besuchen die Kathedrale und den Palast, während die Heizung läuft. Mittags Fahrt zum Lychakiv-Friedhof, der im Schnee magisch wirkt. Der Tag endet im Zentrum zwischen Oper und dem hell erleuchteten Rathaus.",
+            "hu": "Melegben és biztonságban a havas Lvivben. A katedrálist és a palotát fűtött autóval közelítjük meg. Délben a Licsakovszki temetőhöz hajtunk, ami hóban varázslatos. A nap a belvárosban, az Opera és a kivilágított városháza között zárul.",
+            "ro": "Cald și sigur prin Lviv-ul înzăpezit. Vizităm catedrala și palatul cu căldura pornită. La prânz mergem la cimitirul Lychakiv, magic sub zăpadă. Ziua se încheie în centru, între Operă și Primăria luminată.",
+            "en": "Warm and safe through snowy Lviv. We visit the Cathedral and Palace with the heater on. At noon, we drive to Lychakiv Cemetery, which looks magical in the snow. The day ends in the center between the Opera and the brightly lit City Hall."
+          },
+          "stops": [
+            {
+              "name": "St.-Georgs-Kathedrale",
+              "tip_5lang": {
+                "de": "Auffahrt kann bei Glätte gesperrt oder rutschig sein.",
+                "hu": "A felhajtó jegesedéskor lezárható vagy csúszós.",
+                "ro": "Urcarea poate fi închisă sau alunecoasă dacă e gheață.",
+                "en": "The driveway can be closed or slippery if icy."
+              }
+            },
+            {
+              "name": "Potocki-Palast",
+              "tip_5lang": {
+                "de": "Hofeinfahrt wird meist gut geräumt.",
+                "hu": "Az udvari bejárót általában jól takarítják.",
+                "ro": "Intrarea în curte este de obicei bine curățată.",
+                "en": "The courtyard entrance is usually well cleared of snow."
+              }
+            },
+            {
+              "name": "Lychakiv-Friedhof",
+              "tip_5lang": {
+                "de": "Parken Sie vorsichtig am Straßenrand (Schneehaufen).",
+                "hu": "Parkoljon óvatosan az út szélén a hóbuckák miatt.",
+                "ro": "Parcați cu atenție la marginea drumului (mormane de zăpadă).",
+                "en": "Park carefully at the roadside due to snow piles."
+              }
+            },
+            {
+              "name": "Lwiwer Opernhaus",
+              "tip_5lang": {
+                "de": "Der Vorplatz ist eine große, oft glatte Freifläche.",
+                "hu": "Az előtér egy nagy, gyakran jeges nyílt terület.",
+                "ro": "Piața din față este o zonă deschisă, adesea alunecoasă.",
+                "en": "The front square is a large, often icy open space."
+              }
+            },
+            {
+              "name": "Rynok-Platz",
+              "tip_5lang": {
+                "de": "Zufahrt für PKW stark eingeschränkt; am Rand parken.",
+                "hu": "Az autóval való behajtás korlátozott, parkoljon a szélén.",
+                "ro": "Accesul auto este foarte limitat; parcați la margine.",
+                "en": "Car access is strictly limited; park at the perimeter."
+              }
+            },
+            {
+              "name": "Lwiwer Rathaus",
+              "tip_5lang": {
+                "de": "Der Turm ist im Winter oft früher geschlossen.",
+                "hu": "A torony télen gyakran korábban bezár.",
+                "ro": "Turnul se închide adesea mai devreme iarna.",
+                "en": "The tower often closes earlier during winter months."
+              }
+            },
+            {
+              "name": "Boim-Kapelle",
+              "tip_5lang": {
+                "de": "Fußweg vom Parkplatz kann vereist sein.",
+                "hu": "A parkolótól vezető gyalogút jeges lehet.",
+                "ro": "Drumul de la parcare poate fi înghețat.",
+                "en": "The walking path from the parking spot may be icy."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in der Ukraine gesetzlich vorgeschrieben.",
+              "Enteiser-Spray für Schlösser und Scheiben dabei haben.",
+              "Batteriecheck vor der Fahrt bei extremen Minustemperaturen.",
+              "Rechnen Sie mit Schneeräumfahrzeugen, die den Verkehr bremsen."
+            ],
+            "hu": [
+              "A téli gumi Ukrajnában törvényileg kötelező.",
+              "Legyen Önnél jégoldó spray a zárakhoz és ablakokhoz.",
+              "Extrém hidegben ellenőrizze az akkumulátort indulás előtt.",
+              "Számítson a hókotrókra, amik lassíthatják a forgalmat."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii prin lege în Ucraina.",
+              "Aveți la îndemână spray de dezghețare pentru încuietori și geamuri.",
+              "Verificați bateria înainte de plecare la temperaturi extreme.",
+              "Prevedeți întârzieri cauzate de utilajele de deszăpezire."
+            ],
+            "en": [
+              "Winter tires are legally required in Ukraine.",
+              "Keep de-icer spray handy for locks and windows.",
+              "Check your battery before starting in extreme negative temperatures.",
+              "Expect snowplows to slow down traffic occasionally."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1335,6 +1917,206 @@
           "Buy a day ticket for the tram.",
           "Validate your ticket immediately upon boarding."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit der Tram trocken durch die Stadt. Wir starten an der Kathedrale und fahren zum Palast. Mittags bringt uns die Tram zur Oper und dem Rynok-Platz. Der Nachmittag im Apothekenmuseum bietet Schutz, bevor wir mit dem Bus zum Lychakiv-Friedhof fahren.",
+            "hu": "Villamossal szárazon a városon át. A katedrálistól indulunk a palotáig. Délben a villamos az Operához és a Rynok térhez visz. A Patikamúzeum délutáni védelmet nyújt, mielőtt busszal a Licsakovszki temetőhöz mennénk.",
+            "ro": "Cu tramvaiul, la adăpost prin oraș. Începem la catedrală și mergem spre palat. La prânz, tramvaiul ne duce la Operă și Piața Rynok. După-amiaza la Muzeul Farmaciei oferă protecție, înainte de a lua autobuzul spre cimitirul Lychakiv.",
+            "en": "By tram, staying dry through the city. We start at the Cathedral and head to the Palace. At noon, the tram takes us to the Opera and Rynok Square. The afternoon at the Pharmacy Museum offers shelter before we take a bus to Lychakiv Cemetery."
+          },
+          "stops": [
+            {
+              "name": "St.-Georgs-Kathedrale",
+              "tip_5lang": {
+                "de": "Haltestelle 'Lystopadovoho Chynu' ist nah.",
+                "hu": "A 'Lystopadovoho Chynu' megálló van legközelebb.",
+                "ro": "Stația 'Lystopadovoho Chynu' este aproape.",
+                "en": "The 'Lystopadovoho Chynu' stop is nearby."
+              }
+            },
+            {
+              "name": "Potocki-Palast",
+              "tip_5lang": {
+                "de": "Tram 1/2 hält fast direkt vor dem Palast.",
+                "hu": "Az 1/2-es villamos szinte a palota előtt áll meg.",
+                "ro": "Tramvaiul 1/2 oprește aproape direct în fața palatului.",
+                "en": "Tram 1/2 stops almost directly in front of the palace."
+              }
+            },
+            {
+              "name": "Lwiwer Opernhaus",
+              "tip_5lang": {
+                "de": "Zentraler Knotenpunkt vieler Linien; oft überfüllt.",
+                "hu": "Számos vonal csomópontja, gyakran tömeg van.",
+                "ro": "Nod central pentru multe linii; adesea aglomerat.",
+                "en": "Central hub for many lines; often crowded in the rain."
+              }
+            },
+            {
+              "name": "Rynok-Platz",
+              "tip_5lang": {
+                "de": "Die Tram fährt direkt über den Platz.",
+                "hu": "A villamos közvetlenül a téren halad át.",
+                "ro": "Tramvaiul trece chiar prin piață.",
+                "en": "The tram passes directly through the square."
+              }
+            },
+            {
+              "name": "Armenische Kathedrale",
+              "tip_5lang": {
+                "de": "Vom Rynok nur ein kurzer Fußweg durch Gassen.",
+                "hu": "A Rynoktól csak rövid séta a sikátorokon át.",
+                "ro": "Scurtă plimbare din Piața Rynok prin alei.",
+                "en": "A short walk from Rynok through narrow alleys."
+              }
+            },
+            {
+              "name": "Apothekenmuseum",
+              "tip_5lang": {
+                "de": "Perfekt, um auf die nächste Tram im Trockenen zu warten.",
+                "hu": "Ideális hely a következő villamosra várni szárazon.",
+                "ro": "Perfect pentru a aștepta următorul tramvai la adăpost.",
+                "en": "Perfect place to wait for the next tram in the dry."
+              }
+            },
+            {
+              "name": "Lychakiv-Friedhof",
+              "tip_5lang": {
+                "de": "Tram 7/2 hält direkt am Haupteingang.",
+                "hu": "A 7/2-es villamos közvetlenül a főbejáratnál áll meg.",
+                "ro": "Tramvaiul 7/2 oprește chiar la intrarea principală.",
+                "en": "Tram 7/2 stops right at the main entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie Tickets kontaktlos in der Tram (QR-Code/Visa).",
+              "Wartehäuschen bieten oft nur begrenzten Schutz vor Wind.",
+              "In der App 'EasyWay' sehen Sie die Tram-Positionen in Echtzeit.",
+              "Taschen im dichten Gedränge bei Regen gut festhalten."
+            ],
+            "hu": [
+              "Vegyen jegyet érintésmentesen a villamoson (QR-kód/Visa).",
+              "A megállók várói gyakran csak korlátozott védelmet nyújtanak.",
+              "Az 'EasyWay' appban valós időben látja a járatokat.",
+              "A tömegben esőben is figyeljen értékeire."
+            ],
+            "ro": [
+              "Cumpărați bilete contactless în tramvai (cod QR/Visa).",
+              "Adăposturile din stații oferă adăpost limitat contra vântului.",
+              "Vedeți poziția tramvaielor în timp real în aplicația 'EasyWay'.",
+              "Țineți bine geanta în aglomerația cauzată de ploaie."
+            ],
+            "en": [
+              "Buy tickets contactlessly in the tram (QR code/Visa).",
+              "Bus shelters often offer limited protection from driving rain.",
+              "Use the 'EasyWay' app to track trams in real-time.",
+              "Keep your belongings secure in crowded vehicles during rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Mit geheizten Bahnen durch die Winterpracht. Von der Kathedrale zum Palast nutzen wir die Tram. Mittags lockt das festliche Zentrum um die Oper. Nachmittags wärmen wir uns in Museen auf, bevor die Fahrt zum verschneiten Lychakiv-Friedhof den Tag besinnlich abrundet.",
+            "hu": "Fűtött járatokkal a téli pompában. A katedrálistól a palotáig villamosozunk. Délben az ünnepi központ vonz az Opera környékén. Délután múzeumokban melegszünk, majd a havas Licsakovszki temető látogatása zárja a napot.",
+            "ro": "Cu mijloace de transport încălzite prin splendoarea iernii. De la catedrală la palat luăm tramvaiul. La prânz centrul festiv de lângă Operă ne atrage. După-amiaza ne încălzim în muzee, înainte de drumul spre cimitirul Lychakiv.",
+            "en": "Through winter splendor in heated vehicles. We take the tram from the Cathedral to the Palace. At noon, the festive center around the Opera beckons. In the afternoon, we warm up in museums before the trip to snowy Lychakiv Cemetery ends the day."
+          },
+          "stops": [
+            {
+              "name": "St.-Georgs-Kathedrale",
+              "tip_5lang": {
+                "de": "Warten Sie in der nahen Cafeteria, wenn die Bahn Verspätung hat.",
+                "hu": "Várjon a közeli kávézóban, ha késik a járat.",
+                "ro": "Așteptați în cafeneaua de lângă dacă întârzie transportul.",
+                "en": "Wait in the nearby cafeteria if the tram is delayed."
+              }
+            },
+            {
+              "name": "Potocki-Palast",
+              "tip_5lang": {
+                "de": "Die Tramwagen der neuen Generation sind gut geheizt.",
+                "hu": "Az új generációs villamosok jól fűtöttek.",
+                "ro": "Tramvaiele de generație nouă sunt bine încălzite.",
+                "en": "New generation tram cars are well heated."
+              }
+            },
+            {
+              "name": "Lwiwer Opernhaus",
+              "tip_5lang": {
+                "de": "Abends herrscht hier reger Betrieb durch Theaterbesucher.",
+                "hu": "Este nagy itt a forgalom a színházba látogatók miatt.",
+                "ro": "Seara este multă animație aici datorită spectatorilor.",
+                "en": "Busy hub in the evening with theater-goers."
+              }
+            },
+            {
+              "name": "Rynok-Platz",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stufen beim Einsteigen.",
+                "hu": "Vigyázzon a jeges lépcsőkre a felszálláskor.",
+                "ro": "Atenție la treptele înghețate la urcare.",
+                "en": "Watch out for icy steps when boarding."
+              }
+            },
+            {
+              "name": "Armenische Kathedrale",
+              "tip_5lang": {
+                "de": "Genießen Sie den kurzen Winterspaziergang zwischen den Stopps.",
+                "hu": "Élvezze a rövid téli sétát a megállók között.",
+                "ro": "Bucurați-vă de scurta plimbare de iarnă între stații.",
+                "en": "Enjoy the short winter walk between stops."
+              }
+            },
+            {
+              "name": "Apothekenmuseum",
+              "tip_5lang": {
+                "de": "Drinnen aufwärmen, bevor es zurück zur Tram geht.",
+                "hu": "Melegedjen fel bent, mielőtt visszatérne a villamoshoz.",
+                "ro": "Încălziți-vă în interior înainte de a reveni la tramvai.",
+                "en": "Warm up inside before heading back to the tram."
+              }
+            },
+            {
+              "name": "Lychakiv-Friedhof",
+              "tip_5lang": {
+                "de": "Letzte Tram zurück ins Zentrum gegen 22:00 Uhr.",
+                "hu": "Az utolsó villamos a központba 22:00 körül indul.",
+                "ro": "Ultimul tramvai spre centru este în jur de ora 22:00.",
+                "en": "Last tram back to the center is around 10:00 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Bei starkem Schneefall können die Trams stecken bleiben.",
+              "Die Fahrpläne sind im Winter oft nur Richtwerte.",
+              "Halten Sie die Hände in den Taschen; Haltestangen sind eiskalt.",
+              "Nutzen Sie die Zeit in der Bahn zum Planen des nächsten warmen Stopps."
+            ],
+            "hu": [
+              "Erős havazáskor a villamosok elakadhatnak.",
+              "A menetrendek télen gyakran csak tájékoztató jellegűek.",
+              "Tartsa a kezét a zsebében, a kapaszkodók jéghidegek.",
+              "Használja a járművön töltött időt a következő meleg hely megkeresésére."
+            ],
+            "ro": [
+              "Tramvaiele se pot bloca în caz de ninsoare abundentă.",
+              "Orarele sunt adesea doar orientative pe timp de iarnă.",
+              "Țineți mâinile în buzunare; barele de susținere sunt reci.",
+              "Folosiți timpul din vehicul pentru a planifica următoarea oprire caldă."
+            ],
+            "en": [
+              "Trams can get stuck during heavy snowfall.",
+              "Schedules are often just estimates during winter storms.",
+              "Keep your hands in your pockets; handrails can be ice-cold.",
+              "Use the time on board to plan your next indoor stop."
+            ]
+          }
+        }
       }
     }
   }

@@ -331,6 +331,206 @@
           "Siesta times are strictly followed in the smaller local shops.",
           "In summer, it is best to book the Diocesan Museum tickets in advance."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet der Paseo Schutz unter Bäumen. Mittags erkunden Sie die trockenen Kasematten der Zitadelle. Nachmittags sind die Kathedrale und das Museum ideale Rückzugsorte vor dem Regen. Abends erreichen Sie die San Miguel Brücke im sanften Nieselregen.",
+            "hu": "Reggel a fasorok némi védelmet nyújtanak. Délben a citadella fedett belső tereit járjuk be. Délután a katedrális és a múzeum kínál száraz menedéket. Estére az esernyők alatt érünk el a San Miguel hídhoz, ahol a vizes kövek csillognak a lámpafényben.",
+            "ro": "Dimineața, copacii oferă adăpost pe faleză. La prânz explorăm zonele acoperite ale cetății. După-amiaza, catedrala și muzeul sunt refugii perfecte împotriva ploii. Seara, traversăm podul San Miguel sub protecția umbrelei, admirând peisajul cețos.",
+            "en": "Morning walk starts under the shelter of trees. At noon, explore the citadel's dry interiors. Afternoon is perfect for the cathedral and museum to stay dry. In the evening, the San Miguel bridge looks atmospheric in the mist and rain."
+          },
+          "stops": [
+            {
+              "name": "Paseo de la Constitución",
+              "tip_5lang": {
+                "de": "Bäume bieten leichten Schutz vor Nieselregen.",
+                "hu": "A sűrű lombok alatt kevésbé ázunk el.",
+                "ro": "Copacii oferă o protecție ușoară împotriva ploii.",
+                "en": "Trees provide light shelter from drizzle."
+              }
+            },
+            {
+              "name": "Zitadelle von Jaca",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ausstellungen im Inneren.",
+                "hu": "A belső kiállítások és termek teljesen szárazak.",
+                "ro": "Vizitați expozițiile din interior, la adăpost.",
+                "en": "Visit the indoor exhibitions to stay dry."
+              }
+            },
+            {
+              "name": "Uhrenturm (Torre del Reloj)",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp unter dem Vordach.",
+                "hu": "Gyors fotó az épület előtti eresz alól.",
+                "ro": "Oprire rapidă sub streașina clădirilor din jur.",
+                "en": "Quick photo stop under nearby eaves."
+              }
+            },
+            {
+              "name": "Kathedrale San Pedro",
+              "tip_5lang": {
+                "de": "Ideal, um den stärksten Regen abzuwarten.",
+                "hu": "Kiváló hely a nagyobb záporok átvészelésére.",
+                "ro": "Loc ideal pentru a aștepta trecerea ploii.",
+                "en": "Ideal place to wait out the heaviest rain."
+              }
+            },
+            {
+              "name": "Diözesanmuseum von Jaca",
+              "tip_5lang": {
+                "de": "Lange Aufenthaltszeit im Trockenen möglich.",
+                "hu": "Hosszú ideig maradhatunk a fedett termekben.",
+                "ro": "Timp lung de vizitare în interior, la căldură.",
+                "en": "Stay inside for a long time away from the wet."
+              }
+            },
+            {
+              "name": "Benediktinerinnen-Kloster",
+              "tip_5lang": {
+                "de": "Ein ruhiger und trockener Rückzugsort.",
+                "hu": "Csendes és száraz spirituális menedék.",
+                "ro": "Un refugiu spiritual liniștit și uscat.",
+                "en": "A quiet and dry spiritual retreat."
+              }
+            },
+            {
+              "name": "Brücke San Miguel",
+              "tip_5lang": {
+                "de": "Vorsicht, das Kopfsteinpflaster ist rutschig.",
+                "hu": "Vigyázat, a macskakövek nagyon csúsznak.",
+                "ro": "Atenție, pavajul devine alunecos pe ploaie.",
+                "en": "Caution, the cobblestones are slippery."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nehmen Sie einen stabilen Regenschirm mit, da es windig sein kann.",
+              "Die Altstadt hat viele Arkaden, nutzen Sie diese als Wege.",
+              "Wasserdichte Schuhe sind für die Brücke San Miguel ratsam.",
+              "Planen Sie mehr Zeit für die Museen ein, wenn der Regen anhält."
+            ],
+            "hu": [
+              "Vigyél magaddal erős esernyőt, mert a szél könnyen kifordíthatja.",
+              "Az óváros árkádjai alatt szárazon közlekedhetsz a boltok között.",
+              "A San Miguel hídhoz vízálló cipő javasolt a tócsák miatt.",
+              "Tölts több időt a múzeumban, ha tartós az égi áldás."
+            ],
+            "ro": [
+              "Luați o umbrelă rezistentă, vântul de munte poate fi puternic.",
+              "Folosiți arcadele din centrul vechi pentru a rămâne uscați.",
+              "Încălțămintea impermeabilă este necesară pentru zona podului.",
+              "Planificați mai mult timp în interiorul muzeelor dacă plouă."
+            ],
+            "en": [
+              "Take a sturdy umbrella as mountain winds can be strong.",
+              "Use the historic arcades to walk between shops while staying dry.",
+              "Waterproof shoes are advised for the San Miguel bridge area.",
+              "Spend extra time in the museums if the rain persists."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen am Paseo weckt die Geister. Mittags wärmt die Geschichte in der Zitadelle. Der Nachmittag gehört der prachtvollen Kathedrale und dem Museum. Abends bietet die Brücke San Miguel einen frostigen, aber weiten Blick auf die schneebedeckten Gipfel.",
+            "hu": "A friss téli reggel a Paseón frissítően hat. Délben a citadella falai között ismerkedünk a múlttal. A délutánt a katedrális és a múzeum melegében töltjük. Este a San Miguel hídról csodálatos kilátás nyílik a hófödte pireneusi csúcsokra.",
+            "ro": "O dimineață crocantă de iarnă pe Paseo vă va înviora. La prânz, istoria cetății oferă context cald. După-amiaza este dedicată catedralei și muzeului. Seara, podul San Miguel oferă o vedere spectaculoasă spre vârfurile înzăpezite.",
+            "en": "A crisp winter morning on the Paseo is invigorating. At noon, the citadel's thick walls tell stories of the past. Afternoon is best spent in the warmth of the cathedral and museum. Evening brings a cold but clear view of the snowy peaks from the bridge."
+          },
+          "stops": [
+            {
+              "name": "Paseo de la Constitución",
+              "tip_5lang": {
+                "de": "Warme Kleidung für den eisigen Wind nötig.",
+                "hu": "Réteges öltözet kell a hideg hegyi szél miatt.",
+                "ro": "Haine groase necesare pentru vântul rece.",
+                "en": "Warm clothes needed for the icy mountain wind."
+              }
+            },
+            {
+              "name": "Zitadelle von Jaca",
+              "tip_5lang": {
+                "de": "Die Innenräume sind angenehm temperiert.",
+                "hu": "A belső terek hőmérséklete kellemesebb.",
+                "ro": "Interioarele au o temperatură acceptabilă.",
+                "en": "The indoor areas are kept at a decent temperature."
+              }
+            },
+            {
+              "name": "Uhrenturm (Torre del Reloj)",
+              "tip_5lang": {
+                "de": "Hübsches Fotomotiv im tiefstehenden Licht.",
+                "hu": "Szép fotótéma az alacsony téli napfényben.",
+                "ro": "Subiect foto frumos în lumina joasă de iarnă.",
+                "en": "Pretty photo subject in the low winter sun."
+              }
+            },
+            {
+              "name": "Kathedrale San Pedro",
+              "tip_5lang": {
+                "de": "Ein Ort der Stille und relativen Wärme.",
+                "hu": "A csend és a relatív meleg szigete.",
+                "ro": "Un loc de liniște și căldură relativă.",
+                "en": "A place of silence and relative warmth."
+              }
+            },
+            {
+              "name": "Diözesanmuseum von Jaca",
+              "tip_5lang": {
+                "de": "Perfekt für den kältesten Teil des Tages.",
+                "hu": "Tökéletes menedék a nap leghidegebb óráiban.",
+                "ro": "Perfect pentru cea mai rece parte a zilei.",
+                "en": "Perfect for the coldest part of the afternoon."
+              }
+            },
+            {
+              "name": "Benediktinerinnen-Kloster",
+              "tip_5lang": {
+                "de": "Kurzer Besuch zur inneren Einkehr.",
+                "hu": "Rövid látogatás a téli nyugalom jegyében.",
+                "ro": "Vizită scurtă pentru liniște interioară.",
+                "en": "A short visit for inner peace in winter."
+              }
+            },
+            {
+              "name": "Brücke San Miguel",
+              "tip_5lang": {
+                "de": "Achtung bei Glätte auf den Steinen.",
+                "hu": "Vigyázat, a kövek jegesek és csúszósak lehetnek.",
+                "ro": "Atenție la polei pe pietrele podului.",
+                "en": "Watch out for ice on the bridge stones."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Trinken Sie zwischendurch eine heiße Schokolade.",
+              "Die Sonne geht im Winter gegen 17:30 Uhr unter.",
+              "Tragen Sie griffige Schuhe wegen möglicher Glätte.",
+              "Nutzen Sie die Mittagsstunden für Außenbesichtigungen."
+            ],
+            "hu": [
+              "Igyál egy forró csokoládét valamelyik kávézóban.",
+              "A nap télen már fél 6 körül nyugovóra tér.",
+              "Viselj tapadós talpú cipőt a jeges szakaszok miatt.",
+              "A külső helyszíneket a déli napsütésben keresd fel."
+            ],
+            "ro": [
+              "Savurați o ciocolată caldă într-o cafenea locală.",
+              "Soarele apune devreme, în jur de ora 17:30.",
+              "Purtați încălțăminte cu talpă aderentă pentru gheață.",
+              "Vizitați exteriorul cetății la prânz, când e soare."
+            ],
+            "en": [
+              "Enjoy a hot chocolate in a local café to warm up.",
+              "Sunset is early, around 5:30 PM in mid-winter.",
+              "Wear shoes with good grip in case of black ice.",
+              "Visit outdoor sites at midday to catch the most sun."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -637,6 +837,188 @@
           "There are excellent mountain bike trails just outside the city.",
           "Bring enough water for the climbs."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens radeln Sie vorsichtig über den Paseo. Mittags erreichen Sie die Kathedrale für eine Regenpause. Nachmittags erkunden Sie die Zitadelle und die Brücke. Zum Abschluss geht es trotz Regen hinauf zur Festung Rapitán, wo der Blick dramatisch ist.",
+            "hu": "Reggel óvatosan gurulunk végig a Paseón. Délben a katedrálisnál tartunk pihenőt az eső elől. Délután a citadella és a híd következik. A nap végén feltekerünk a Rapitán-erődhöz, ahonnan az esőfelhők közt drámai a kilátás.",
+            "ro": "Dimineața pedalați cu grijă pe Paseo. La prânz ajungeți la catedrală pentru o pauză de ploaie. După-amiaza explorăm cetatea și podul. În final, urcăm spre Rapitán pentru o vedere dramatică printre nori.",
+            "en": "Morning ride starts cautiously through the Paseo. At noon, seek shelter at the cathedral. Afternoon takes you to the citadel and bridge. Finish with a wet but rewarding climb to Fort Rapitán for dramatic views."
+          },
+          "stops": [
+            {
+              "name": "Paseo de la Constitución",
+              "tip_5lang": {
+                "de": "Nasses Laub auf dem Radweg kann rutschig sein.",
+                "hu": "A vizes levelek a kerékpárúton csúszhatnak.",
+                "ro": "Frunzele ude de pe pistă pot fi alunecoase.",
+                "en": "Wet leaves on the bike path can be slippery."
+              }
+            },
+            {
+              "name": "Kathedrale San Pedro",
+              "tip_5lang": {
+                "de": "Fahrradständer in der Nähe der Arkaden nutzen.",
+                "hu": "Használd az árkádok közeli kerékpártárolókat.",
+                "ro": "Folosiți suporturile de biciclete de lângă arcade.",
+                "en": "Use the bike racks near the covered arcades."
+              }
+            },
+            {
+              "name": "Uhrenturm (Torre del Reloj)",
+              "tip_5lang": {
+                "de": "Kurz anhalten und den Regen vorbeiziehen lassen.",
+                "hu": "Rövid megálló, várjuk meg az eső elálltát.",
+                "ro": "O scurtă oprire până trece aversa de ploaie.",
+                "en": "Short stop to let a heavy shower pass."
+              }
+            },
+            {
+              "name": "Zitadelle von Jaca",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad an einem geschützten Ort ab.",
+                "hu": "Próbáld fedett helyen hagyni a bringát.",
+                "ro": "Lăsați bicicleta într-un loc cât mai ferit.",
+                "en": "Park your bike in a sheltered spot if possible."
+              }
+            },
+            {
+              "name": "Brücke San Miguel",
+              "tip_5lang": {
+                "de": "Auf Metallteilen der Brücke nicht bremsen.",
+                "hu": "A híd fém illesztésein ne fékezz hirtelen.",
+                "ro": "Nu frânați brusc pe elementele metalice.",
+                "en": "Avoid braking on metal expansion joints."
+              }
+            },
+            {
+              "name": "Festung Rapitán",
+              "tip_5lang": {
+                "de": "Die Auffahrt erfordert bei Nässe gute Reifen.",
+                "hu": "A felmenet jó gumiabroncsokat igényel esőben.",
+                "ro": "Urcarea necesită anvelope bune pe asfalt ud.",
+                "en": "The climb requires good tires in wet conditions."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine komplette Regenmontur inkl. Hose.",
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt von Rapitán.",
+              "Vermeiden Sie Pfützen, sie könnten tiefer sein.",
+              "Nutzen Sie Schutzbleche, um trocken zu bleiben."
+            ],
+            "hu": [
+              "Viselj teljes esőruházatot, beleértve a nadrágot is.",
+              "A Rapitánról való lejövetel előtt ellenőrizd a féket.",
+              "Kerüld a tócsákat, mert mély kátyúkat rejthetnek.",
+              "Használj sárvédőt, hogy ne legyél sáros."
+            ],
+            "ro": [
+              "Purtați echipament complet de ploaie, inclusiv pantaloni.",
+              "Verificați frânele înainte de coborârea de la Rapitán.",
+              "Evitați bălțile, pot ascunde gropi adânci.",
+              "Folosiți aripi la bicicletă pentru a rămâne curat."
+            ],
+            "en": [
+              "Wear full rain gear, including waterproof pants.",
+              "Check your brakes before descending from Rapitán.",
+              "Avoid deep puddles as they might hide potholes.",
+              "Use mudguards to keep your back dry."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Start am Paseo erfordert warme Handschuhe. Mittags wärmen Sie sich in der Kathedrale auf. Nachmittags geht es zur Zitadelle und über die Brücke. Zum Sonnenuntergang radeln Sie nach Rapitán für ein grandioses Panorama der Pyrenäen.",
+            "hu": "A fagyos reggeli kezdéshez meleg kesztyű kell. Napközben a katedrálisnál tarthatunk pihenőt. Délután a citadellát és a hidat érintjük. Naplementére tekerjünk fel a Rapitánhoz a lenyűgöző pireneusi panorámáért.",
+            "ro": "Un start înghețat pe Paseo necesită mănuși groase. La prânz vă încălziți la catedrală. După-amiaza vizităm cetatea și podul. La apus, pedalați spre Rapitán pentru o panoramă grandioasă a Pirineilor.",
+            "en": "A frosty start on the Paseo requires warm gloves. Warm up at the cathedral at midday. Afternoon features the citadel and the bridge. For sunset, ride up to Rapitán for a grand panorama of the snowy Pyrenees."
+          },
+          "stops": [
+            {
+              "name": "Paseo de la Constitución",
+              "tip_5lang": {
+                "de": "Vorsicht vor Reifglätte auf den Wegen.",
+                "hu": "Vigyázz a zúzmarás, csúszós szakaszokkal.",
+                "ro": "Atenție la porțiunile cu chiciură pe pistă.",
+                "en": "Watch out for frost on the paths early on."
+              }
+            },
+            {
+              "name": "Kathedrale San Pedro",
+              "tip_5lang": {
+                "de": "Ideale Pause, um die Finger aufzuwärmen.",
+                "hu": "Ideális hely az elgémberedett ujjak felmelegítésére.",
+                "ro": "Pauză ideală pentru a vă încălzi mâinile.",
+                "en": "Ideal break to warm up your fingers."
+              }
+            },
+            {
+              "name": "Uhrenturm (Torre del Reloj)",
+              "tip_5lang": {
+                "de": "Kurzer Stopp für ein Winterfoto im Zentrum.",
+                "hu": "Rövid megálló egy téli hangulatú fotóra.",
+                "ro": "Oprire scurtă pentru o fotografie de iarnă.",
+                "en": "Quick stop for a winter photo in the center."
+              }
+            },
+            {
+              "name": "Zitadelle von Jaca",
+              "tip_5lang": {
+                "de": "Zügiges Radeln hält den Körper warm.",
+                "hu": "A tempós tekerés segít melegen tartani a testet.",
+                "ro": "Pedalatul constant vă menține corpul cald.",
+                "en": "Steady cycling helps keep your body warm."
+              }
+            },
+            {
+              "name": "Brücke San Miguel",
+              "tip_5lang": {
+                "de": "Bei Minusgraden kann die Brücke vereist sein.",
+                "hu": "Fagypont alatt a híd felülete jeges lehet.",
+                "ro": "La temperaturi negative, podul poate fi înghețat.",
+                "en": "In freezing temps, the bridge can be icy."
+              }
+            },
+            {
+              "name": "Festung Rapitán",
+              "tip_5lang": {
+                "de": "Die Abfahrt im Fahrtwind wird sehr kalt.",
+                "hu": "A lejtmenetben a menetszél nagyon hideg lesz.",
+                "ro": "Coborârea va fi foarte rece din cauza vântului.",
+                "en": "The descent will feel very cold due to wind chill."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Zwiebelprinzip bei der Kleidung ist essenziell.",
+              "Achten Sie auf Streusalz, es schadet der Kette.",
+              "Die Sonne verschwindet früh hinter den Bergen.",
+              "Warme Überschuhe verhindern kalte Füße."
+            ],
+            "hu": [
+              "A réteges öltözködés elengedhetetlen a bringán.",
+              "Ügyelj az útszóró sóra, hamar tönkreteszi a láncot.",
+              "A nap korán eltűnik a magas hegyek mögött.",
+              "A meleg kamásli segít elkerülni a lábujjak fagyását."
+            ],
+            "ro": [
+              "Îmbrăcămintea în straturi este esențială.",
+              "Atenție la sarea de pe drum, afectează lanțul.",
+              "Soarele dispare devreme în spatele munților.",
+              "Protecțiile de încălțăminte previn picioarele reci."
+            ],
+            "en": [
+              "Layering your clothes is essential for winter riding.",
+              "Watch out for road salt, it can damage your chain.",
+              "The sun disappears early behind the high peaks.",
+              "Thermal overshoes will prevent frozen toes."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -924,6 +1306,170 @@
           "Parking spots near the Citadel are usually easy to find.",
           "Allow some extra time to find parking during the peak season."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens parken Sie nahe der Kathedrale und dem Museum. Mittags geht es zur Zitadelle, während der Regen gegen die Scheiben trommelt. Der Uhrenturm wird im Vorbeifahren bewundert. Zum Abschluss bietet die Fahrt nach Rapitán tolle Ausblicke auf das nasse Tal.",
+            "hu": "Reggel a katedrális és a múzeum közelében parkolunk. Délben a citadellához hajtunk, miközben az eső kopog a szélvédőn. Az óratornyot menet közben csodáljuk meg. A nap végén a Rapitánhoz vezető út vizes, de látványos panorámát kínál.",
+            "ro": "Dimineața parcați aproape de catedrală și muzeu. La prânz mergem spre cetate în timp ce ploaia bate în parbriz. Turnul cu ceas poate fi admirat din mers. În final, drumul spre Rapitán oferă vederi superbe spre vale.",
+            "en": "Morning starts with easy parking near the cathedral. At noon, drive to the citadel while the rain falls outside. Admire the clock tower from your window. Finish with a drive up to Rapitán for misty but grand valley views."
+          },
+          "stops": [
+            {
+              "name": "Kathedrale San Pedro",
+              "tip_5lang": {
+                "de": "Parkhaus im Zentrum nutzen, um trocken zu bleiben.",
+                "hu": "Használd a központi parkolóházat a száraz kijutáshoz.",
+                "ro": "Folosiți parcarea subterană pentru a rămâne uscați.",
+                "en": "Use the central parking garage to stay dry."
+              }
+            },
+            {
+              "name": "Diözesanmuseum von Jaca",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Parkplatz zum Eingang.",
+                "hu": "Csak pár lépés a parkolótól a bejáratig.",
+                "ro": "Drum scurt pe jos de la parcare la intrare.",
+                "en": "Only a short walk from the car to the entrance."
+              }
+            },
+            {
+              "name": "Uhrenturm (Torre del Reloj)",
+              "tip_5lang": {
+                "de": "Blick aus dem Auto bei starkem Regen.",
+                "hu": "Nézd meg az autóból, ha szakad az eső.",
+                "ro": "Priviți turnul din mașină dacă plouă tare.",
+                "en": "View the tower from your car if it's pouring."
+              }
+            },
+            {
+              "name": "Zitadelle von Jaca",
+              "tip_5lang": {
+                "de": "Nahegelegene Parkplätze sind oft schnell belegt.",
+                "hu": "A közeli parkolók hamar megtelhetnek esőben.",
+                "ro": "Parcările apropiate se ocupă rapid pe ploaie.",
+                "en": "Nearby parking spots fill up quickly when it rains."
+              }
+            },
+            {
+              "name": "Festung Rapitán",
+              "tip_5lang": {
+                "de": "Vorsicht bei Aquaplaning auf der Bergstraße.",
+                "hu": "Vigyázz a vízelvezetéssel a szerpentinen.",
+                "ro": "Atenție la acvaplanare pe drumul spre cetate.",
+                "en": "Watch out for standing water on the mountain road."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Zustand Ihrer Scheibenwischer.",
+              "In der Altstadt sind viele Straßen eng und nass.",
+              "Licht einschalten bei schlechter Sicht am Berg.",
+              "Nutzen Sie die Tiefgaragen im Stadtzentrum."
+            ],
+            "hu": [
+              "Ellenőrizd az ablaktörlők állapotát indulás előtt.",
+              "Az óvárosban sok utca szűk és vizesen csúszós.",
+              "Kapcsold be a fényszórót a hegyi szakaszon.",
+              "Használd a városközpont mélygarázsait."
+            ],
+            "ro": [
+              "Verificați starea ștergătoarelor de parbriz.",
+              "Străzile din centrul vechi sunt înguste și ude.",
+              "Aprindeți farurile pe drumul spre munte.",
+              "Utilizați parcările subterane din centrul orașului."
+            ],
+            "en": [
+              "Check the condition of your windshield wipers.",
+              "Old town streets are narrow and can be slippery.",
+              "Turn on your headlights during the mountain climb.",
+              "Make use of underground parking in the center."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein winterlicher Start an der Kathedrale beginnt mit dem Freikratzen der Scheiben. Mittags erkunden Sie das Museum und die Zitadelle. Die Fahrt hinauf zur Festung Rapitán bietet bei klarem Wetter eine unvergleichliche Sicht auf die verschneite Landschaft.",
+            "hu": "A téli napot a katedrálisnál kezdjük, miután lekapartuk a jeget. Napközben a múzeumot és a citadellát keressük fel. A Rapitán-erődhöz vezető út tiszta időben felejthetetlen kilátást nyújt a havas Pireneusokra.",
+            "ro": "Începutul de iarnă la catedrală începe cu curățarea parbrizului. La prânz explorăm muzeul și cetatea. Drumul spre Rapitán oferă, pe timp senin, o vedere de neegalat asupra peisajului înzăpezit.",
+            "en": "Start your winter day at the cathedral after clearing the frost. Visit the museum and citadel during the day. The drive up to Fort Rapitán offers an incomparable view of the snowy landscape on a clear day."
+          },
+          "stops": [
+            {
+              "name": "Kathedrale San Pedro",
+              "tip_5lang": {
+                "de": "Parkplätze könnten schneebedeckt sein.",
+                "hu": "A parkolóhelyeket hó fedheti reggelente.",
+                "ro": "Locurile de parcare pot fi acoperite de zăpadă.",
+                "en": "Parking spots might be covered in snow early on."
+              }
+            },
+            {
+              "name": "Diözesanmuseum von Jaca",
+              "tip_5lang": {
+                "de": "Museumsbesuch ist ideal zum Aufwärmen.",
+                "hu": "A múzeumlátogatás ideális a felmelegedéshez.",
+                "ro": "Vizita la muzeu este ideală pentru încălzire.",
+                "en": "The museum visit is ideal for warming up."
+              }
+            },
+            {
+              "name": "Uhrenturm (Torre del Reloj)",
+              "tip_5lang": {
+                "de": "Kurzer Halt am Rand für ein schnelles Foto.",
+                "hu": "Gyors megállás az út szélén egy fotóra.",
+                "ro": "Oprire scurtă pe margine pentru o poză rapidă.",
+                "en": "Quick pull-over for a fast winter photo."
+              }
+            },
+            {
+              "name": "Zitadelle von Jaca",
+              "tip_5lang": {
+                "de": "Der Zugangsweg kann im Winter glatt sein.",
+                "hu": "A bejárati út télen jeges, csúszós lehet.",
+                "ro": "Calea de acces poate fi alunecoasă iarna.",
+                "en": "The access path can be slippery in winter."
+              }
+            },
+            {
+              "name": "Festung Rapitán",
+              "tip_5lang": {
+                "de": "Winterreifen oder Ketten bei Neuschnee Pflicht.",
+                "hu": "Friss hóban téli gumi vagy hólánc kötelező.",
+                "ro": "Anvelope de iarnă sau lanțuri obligatorii pe zăpadă.",
+                "en": "Winter tires or chains are mandatory in fresh snow."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Frostschutzmittel in der Scheibenwaschanlage prüfen.",
+              "Fahren Sie vorsichtig bei Schatten auf der Bergstraße.",
+              "Die Parkplätze in Jaca werden meist zügig geräumt.",
+              "Halten Sie eine Decke im Auto für Notfälle bereit."
+            ],
+            "hu": [
+              "Ellenőrizd a fagyállót a szélvédőmosóban.",
+              "Vigyázz a jeges foltokkal az árnyékos kanyarokban.",
+              "Jaca parkolóit általában gyorsan letakarítják.",
+              "Tarts egy takarót az autóban vészhelyzet esetére."
+            ],
+            "ro": [
+              "Verificați lichidul de parbriz rezistent la îngheț.",
+              "Conduceți cu grijă în zonele umbrite de munte.",
+              "Parcările din Jaca sunt de obicei deszăpezite rapid.",
+              "Păstrați o pătură în mașină pentru urgențe."
+            ],
+            "en": [
+              "Check the antifreeze levels in your washer fluid.",
+              "Drive carefully in shaded areas of the mountain road.",
+              "Parking lots in Jaca are usually cleared quickly.",
+              "Keep a warm blanket in the car for emergencies."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1230,6 +1776,188 @@
           "Ideally, buy tickets with exact change from the driver.",
           "Walking within the center is often faster than waiting for a bus."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bringt Sie der Bus trocken zur Zitadelle. Mittags erkunden Sie das Zentrum um den Paseo und den Uhrenturm. Nachmittags besuchen Sie die Kathedrale und das Museum. Zum Abschluss geht es per Bus Richtung San Miguel Brücke, ein kurzer Fußweg im Regen.",
+            "hu": "Reggel a busz szárazon visz a citadellához. Délben a központot, a Paseót és az óratornyot fedezzük fel. Délután a katedrális és a múzeum következik. Végül busszal megyünk a San Miguel híd felé, ami csak rövid séta az esőben.",
+            "ro": "Dimineața autobuzul vă duce uscați la cetate. La prânz explorăm centrul, zona Paseo și turnul cu ceas. După-amiaza vizităm catedrala și muzeul. În final, luăm autobuzul spre podul San Miguel.",
+            "en": "Morning bus takes you comfortably to the citadel. At noon, explore the center around the Paseo and Clock Tower. Afternoon is dedicated to the cathedral and museum. End the day with a bus ride towards the San Miguel bridge."
+          },
+          "stops": [
+            {
+              "name": "Zitadelle von Jaca",
+              "tip_5lang": {
+                "de": "Bushaltestelle befindet sich ganz in der Nähe.",
+                "hu": "A buszmegálló közvetlenül a közelben van.",
+                "ro": "Stația de autobuz este situată foarte aproape.",
+                "en": "The bus stop is located very close by."
+              }
+            },
+            {
+              "name": "Paseo de la Constitución",
+              "tip_5lang": {
+                "de": "Warten Sie unter den Wartehäuschen der Busse.",
+                "hu": "Várj a buszmegállók fedett váróiban.",
+                "ro": "Așteptați în refugiile acoperite ale stațiilor.",
+                "en": "Wait inside the covered bus shelters."
+              }
+            },
+            {
+              "name": "Uhrenturm (Torre del Reloj)",
+              "tip_5lang": {
+                "de": "Zentraler Umsteigepunkt bei Regenwetter.",
+                "hu": "Központi átszállási pont esős időben.",
+                "ro": "Punct central de transfer pe timp de ploaie.",
+                "en": "Central transfer point during rainy weather."
+              }
+            },
+            {
+              "name": "Kathedrale San Pedro",
+              "tip_5lang": {
+                "de": "Vom Bus zur Kathedrale sind es nur 2 Minuten.",
+                "hu": "A busztól a katedrális csak 2 perc séta.",
+                "ro": "De la autobuz la catedrală sunt doar 2 minute.",
+                "en": "It's only a 2-minute walk from the bus to the cathedral."
+              }
+            },
+            {
+              "name": "Diözesanmuseum von Jaca",
+              "tip_5lang": {
+                "de": "Perfekt kombiniert mit dem Busbesuch im Zentrum.",
+                "hu": "Jól kombinálható a belvárosi buszos közlekedéssel.",
+                "ro": "Se combină bine cu vizita în centrul vechi.",
+                "en": "Well combined with a bus trip to the center."
+              }
+            },
+            {
+              "name": "Brücke San Miguel",
+              "tip_5lang": {
+                "de": "Vom Ausstieg ein Stück Fußweg einplanen.",
+                "hu": "A megállótól számolj egy rövid gyalogúttal.",
+                "ro": "Planificați o scurtă plimbare de la stație.",
+                "en": "Plan for a short walk from the drop-off point."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Laden Sie die lokale Bus-App für Live-Zeiten.",
+              "Halten Sie Kleingeld für das Ticket bereit.",
+              "Busse sind bei Regen oft voll, planen Sie Zeit ein.",
+              "Warten Sie an den größeren, überdachten Haltestellen."
+            ],
+            "hu": [
+              "Töltsd le a helyi buszos appot a pontos időkért.",
+              "Legyen nálad aprópénz a jegyvásárláshoz.",
+              "Esőben a buszok zsúfoltak lehetnek, indulj időben.",
+              "Várj a nagyobb, fedett buszmegállókban."
+            ],
+            "ro": [
+              "Descărcați aplicația de transport pentru timpi reali.",
+              "Aveți pregătit mărunțiș pentru bilet.",
+              "Autobuzele sunt aglomerate pe ploaie, plecați din timp.",
+              "Așteptați în stațiile mai mari, care sunt acoperite."
+            ],
+            "en": [
+              "Download the local bus app for real-time arrivals.",
+              "Have small change ready for ticket purchase.",
+              "Buses get crowded during rain, so plan extra time.",
+              "Wait at the larger, covered bus stops for shelter."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens bringt Sie der beheizte Bus zur Zitadelle. Mittags erkunden Sie die frostige Altstadt und den Uhrenturm. Nachmittags wärmen Sie sich in der Kathedrale und dem Museum auf. Abends geht es per Bus zur San Miguel Brücke für den Blick in die verschneiten Berge.",
+            "hu": "Reggel a fűtött busz visz minket a citadellához. Napközben a fagyos óvárost és az óratornyot járjuk be. Délután a katedrális és a múzeum kínál meleget. Este busszal indulunk a San Miguel hídhoz a havas hegyi panorámáért.",
+            "ro": "Dimineața autobuzul încălzit vă duce la cetate. La prânz explorăm centrul istoric înghețat. După-amiaza vă puteți încălzi în catedrală și muzeu. Seara, mergem cu autobuzul spre podul San Miguel.",
+            "en": "Morning starts with a heated bus ride to the citadel. During the day, explore the frosty old town and Clock Tower. Warm up in the cathedral and museum in the afternoon. Evening features a bus trip to the bridge for snowy views."
+          },
+          "stops": [
+            {
+              "name": "Zitadelle von Jaca",
+              "tip_5lang": {
+                "de": "Busse fahren im Winter nach Normalplan.",
+                "hu": "A buszok télen is a megszokott rend szerint járnak.",
+                "ro": "Autobuzele circulă conform orarului obișnuit.",
+                "en": "Buses run according to the regular winter schedule."
+              }
+            },
+            {
+              "name": "Paseo de la Constitución",
+              "tip_5lang": {
+                "de": "Die Haltestellen können zugig sein, warm anziehen.",
+                "hu": "A megállók huzatosak lehetnek, öltözz melegen.",
+                "ro": "Stațiile pot fi expuse vântului, îmbrăcați-vă bine.",
+                "en": "Stops can be drafty, so dress warmly while waiting."
+              }
+            },
+            {
+              "name": "Uhrenturm (Torre del Reloj)",
+              "tip_5lang": {
+                "de": "Ein zentraler Ort mit vielen Cafés in der Nähe.",
+                "hu": "Központi hely, sok meleg kávézóval a környéken.",
+                "ro": "Loc central cu multe cafenele calde în apropiere.",
+                "en": "Central location with many warm cafés nearby."
+              }
+            },
+            {
+              "name": "Kathedrale San Pedro",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen den Haltestellen nutzen.",
+                "hu": "Használd ki a megállók közötti rövid távolságokat.",
+                "ro": "Folosiți distanțele scurte dintre stații.",
+                "en": "Take advantage of short distances between stops."
+              }
+            },
+            {
+              "name": "Diözesanmuseum von Jaca",
+              "tip_5lang": {
+                "de": "Ideal, um die Kälte draußen zu vergessen.",
+                "hu": "Ideális hely, hogy elfelejtsd a kinti hideget.",
+                "ro": "Loc ideal pentru a uita de frigul de afară.",
+                "en": "Ideal place to forget the cold outside."
+              }
+            },
+            {
+              "name": "Brücke San Miguel",
+              "tip_5lang": {
+                "de": "Abends sind die Busse oft seltener, Fahrplan prüfen.",
+                "hu": "Este ritkábbak a buszok, ellenőrizd a menetrendet.",
+                "ro": "Seara autobuzele sunt mai rare, verificați orarul.",
+                "en": "Buses are less frequent in the evening, check times."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Busse sind gut beheizt, ziehen Sie Schichten aus.",
+              "Achten Sie auf Rutschgefahr beim Ein- und Aussteigen.",
+              "Im Winter ist der Bus der sicherste Weg zur Brücke.",
+              "Kaufen Sie 10er-Karten für günstigere Fahrten."
+            ],
+            "hu": [
+              "A buszok jól fűtöttek, vedd le a felesleges rétegeket.",
+              "Vigyázz a csúszásveszéllyel a fel- és leszálláskor.",
+              "Télen a busz a legbiztonságosabb módja a híd elérésének.",
+              "Vegyél 10 alkalmas bérletet a kedvezőbb árért."
+            ],
+            "ro": [
+              "Autobuzele sunt bine încălzite, scoateți straturile.",
+              "Atenție la polei când urcați sau coborâți din autobuz.",
+              "Iarna, autobuzul este cea mai sigură cale spre pod.",
+              "Cumpărați bilete cu 10 călătorii pentru un preț mai bun."
+            ],
+            "en": [
+              "Buses are well-heated, so remove layers once inside.",
+              "Watch out for ice when boarding or exiting the bus.",
+              "In winter, the bus is the safest way to reach the bridge.",
+              "Buy a 10-trip card for cheaper fares during your stay."
+            ]
+          }
+        }
       }
     }
   }

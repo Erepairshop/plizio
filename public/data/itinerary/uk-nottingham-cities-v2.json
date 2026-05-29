@@ -386,6 +386,214 @@
           "Look out for the Robin Hood references scattered throughout the city.",
           "The caves can be cool, so bring an extra layer."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt am Old Market Square, wo die glatten Steine im Regen glänzen. Ein kurzer Sprint bringt Sie zum Theatre Royal, einem idealen trockenen Zufluchtsort. Mittags erkunden Sie das Lace Market Viertel, dessen rote Backsteine unter dem grauen Himmel dunkler wirken. Der Nachmittag im National Justice Museum bietet stundenlangen Schutz vor dem Guss. Danach geht es unter die Erde in die City of Caves, wo es garantiert trocken bleibt. Der Tag endet gemütlich im ältesten Pub Englands, während draußen der Regen gegen die Fenster peitscht.",
+            "hu": "A nap az Old Market Square-en indul, ahol a vizes kövezeten csillannak meg a lámpák fényei. Egy gyors séta a Theatre Royal oszlopai alá menedéket nyújt az első zápor elől. Délben a Lace Market vöröstéglás negyedében kalandozunk, ahol a viktoriánus épületek sötétebb árnyalatot öltenek. A délutánt a bírósági múzeumban töltjük, távol a sártól. A City of Caves barlangrendszere tökéletes búvóhely a szakadó esőben. Az estét a sziklába vájt Trip to Jerusalem pub kandallója mellett zárjuk.",
+            "ro": "Ziua începe în Old Market Square, unde pavajul umed reflectă cerul plumburiu. O fugă rapidă spre Theatre Royal oferă un adăpost elegant împotriva ploii. La prânz, explorăm Lace Market, ale cărui clădiri din cărămidă roșie par mai impunătoare pe vreme umedă. După-amiaza este dedicată National Justice Museum, un refugiu interior perfect. Coborâm apoi în City of Caves, unde ploaia nu poate ajunge. Seara se încheie în cel mai vechi han, ascultând stropii cum bat în ferestrele medievale.",
+            "en": "The day starts at Old Market Square, with wet stones reflecting the city lights. A quick walk to Theatre Royal provides a grand shelter from the morning drizzle. By noon, the red bricks of Lace Market stand out against the grey Nottingham sky. Spend the afternoon inside the National Justice Museum, safe from the downpour. The City of Caves offers a unique subterranean refuge where weather doesn't matter. End your walk at the historic Trip to Jerusalem, warming up as the rain falls outside."
+          },
+          "stops": [
+            {
+              "name": "Old Market Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden der umliegenden Geschäfte als Regenschutz.",
+                "hu": "Használja a környező üzletek árkádjait esernyő helyett.",
+                "ro": "Folosiți arcadele magazinelor din jur pentru a rămâne uscat.",
+                "en": "Use the arcades of surrounding shops to stay dry."
+              }
+            },
+            {
+              "name": "Theatre Royal & Royal Concert Hall",
+              "tip_5lang": {
+                "de": "Das Foyer bietet eine elegante Pause vom nassen Wetter.",
+                "hu": "Az előcsarnok elegáns pihenőhely a nedves időben.",
+                "ro": "Foaierul oferă o pauză elegantă de vremea umedă.",
+                "en": "The foyer offers an elegant break from the wet weather."
+              }
+            },
+            {
+              "name": "Lace Market",
+              "tip_5lang": {
+                "de": "Die schmalen Gassen können bei Regen windig sein, halten Sie sich mittig.",
+                "hu": "A szűk utcák szelesek lehetnek esőben, maradjon az épületek közelében.",
+                "ro": "Străzile înguste pot fi vântoase, mergeți pe lângă clădiri.",
+                "en": "Narrow streets can be windy in the rain, stay close to buildings."
+              }
+            },
+            {
+              "name": "National Justice Museum",
+              "tip_5lang": {
+                "de": "Planen Sie hier mehr Zeit ein, da fast alles überdacht ist.",
+                "hu": "Tervezzen ide több időt, mivel szinte minden fedett.",
+                "ro": "Alocați mai mult timp aici, deoarece aproape totul este acoperit.",
+                "en": "Plan more time here as almost everything is indoors."
+              }
+            },
+            {
+              "name": "City of Caves",
+              "tip_5lang": {
+                "de": "Ein idealer Ort bei Starkregen, völlig vom Wetter isoliert.",
+                "hu": "Ideális hely szakadó esőben, teljesen védett a külvilágtól.",
+                "ro": "Loc perfect pentru ploaie torențială, complet izolat de vreme.",
+                "en": "Ideal spot during heavy rain, completely isolated from weather."
+              }
+            },
+            {
+              "name": "Nottingham Castle",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ausstellungen im Inneren des Herzogspalastes.",
+                "hu": "Látogassa meg a hercegi palota belső kiállításait.",
+                "ro": "Vizitați expozițiile din interiorul palatului ducal.",
+                "en": "Visit the exhibitions inside the ducal mansion."
+              }
+            },
+            {
+              "name": "Ye Olde Trip to Jerusalem",
+              "tip_5lang": {
+                "de": "Suchen Sie sich einen Platz in den hinteren Felsenkammern.",
+                "hu": "Keressen helyet a hátsó, sziklába vájt kamrákban.",
+                "ro": "Găsiți un loc în camerele din spate săpate în stâncă.",
+                "en": "Find a seat in the back rock-cut chambers."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nottingham hat viele überdachte Passagen wie die Flying Horse Walk.",
+              "Wasserfeste Schuhe sind Pflicht für das Kopfsteinpflaster im Lace Market.",
+              "Die Straßenbahn ist eine gute Alternative, wenn der Guss zu stark wird.",
+              "Das National Justice Museum hat ein ausgezeichnetes Café für eine Regenpause.",
+              "Ein Taschenschirm ist wegen plötzlicher Windböen praktischer als ein großer."
+            ],
+            "hu": [
+              "Nottingham számos fedett átjáróval rendelkezik, mint a Flying Horse Walk.",
+              "Vízálló cipő kötelező a Lace Market macskaköves utcáihoz.",
+              "A villamos jó alternatíva, ha túl intenzívvé válik a felhőszakadás.",
+              "A bírósági múzeum kiváló kávézóval várja az eső elől menekülőket.",
+              "Az összecsukható esernyő praktikusabb a hirtelen széllökések miatt."
+            ],
+            "ro": [
+              "Nottingham are multe pasaje acoperite, cum ar fi Flying Horse Walk.",
+              "Încălțămintea impermeabilă este obligatorie pentru pavajul din Lace Market.",
+              "Tramvaiul este o alternativă bună dacă ploaia devine prea intensă.",
+              "Muzeul Justiției are o cafenea excelentă pentru o pauză de ploaie.",
+              "O umbrelă compactă este mai practică din cauza rafalelor de vânt."
+            ],
+            "en": [
+              "Nottingham has many covered passages like Flying Horse Walk.",
+              "Waterproof shoes are essential for the cobblestones in Lace Market.",
+              "The tram is a great alternative if the downpour becomes too heavy.",
+              "The Justice Museum has an excellent cafe for a rainy break.",
+              "A compact umbrella is more practical due to sudden wind gusts."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen am Old Market Square, wo oft ein Weihnachtsmarkt steht. Das Theatre Royal leuchtet in der frühen Dämmerung besonders festlich. Mittags wärmen wir uns im Lace Market bei einem heißen Tee auf, während der Wind durch die Schluchten zieht. Der Besuch im National Justice Museum ist im Winter besonders atmosphärisch, da die alten Zellen kühl und authentisch wirken. Nach einem Abstieg in die City of Caves bewundern wir das Schloss im sanften Winterlicht. Der Tag endet am Kaminfeuer im Trip to Jerusalem.",
+            "hu": "Deres reggel fogad az Old Market Square-en, ahol gyakran adventi vásár zsongása tölti be a teret. A Theatre Royal fényei különösen ünnepélyesek a korai szürkületben. Délben a Lace Market egyik meghitt kávézójában melegszünk fel egy forró teával. A bírósági múzeum hűvös cellái télen még hitelesebbnek tűnnek. A City of Caves állandó hőmérséklete ilyenkor kellemes menedék a kinti fagy elől. A napot a vár tövében, a Trip to Jerusalem kandallója mellett zárjuk, egy korsó barna sörrel.",
+            "ro": "O dimineață geroasă în Old Market Square, unde adesea piața de Crăciun animă atmosfera. Theatre Royal strălucește festiv în amurgul timpuriu. La prânz, ne încălzim în Lace Market cu un ceai fierbinte, în timp ce vântul suflă printre clădiri. Muzeul Justiției are o atmosferă aparte iarna, celulele vechi părând și mai autentice. După o vizită în City of Caves, admirăm castelul în lumina palidă a iernii. Ziua se încheie la gura șemineului în faimosul han Trip to Jerusalem.",
+            "en": "A frosty morning at Old Market Square, often home to a bustling winter market. The Theatre Royal glows festively in the early twilight. By noon, we warm up in a cozy Lace Market cafe with hot tea as the winter wind blows. The National Justice Museum feels even more authentic in winter's chill. Descending into the City of Caves provides a steady temperature away from the frost. We admire the Castle silhouette against the winter sky before ending the day by the roaring fire at Trip to Jerusalem."
+          },
+          "stops": [
+            {
+              "name": "Old Market Square",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Eislaufbahn, falls der Weihnachtsmarkt aufgebaut ist.",
+                "hu": "Próbálja ki a korcsolyapályát, ha áll a karácsonyi vásár.",
+                "ro": "Vizitați patinoarul dacă piața de Crăciun este amenajată.",
+                "en": "Visit the ice rink if the Winter Wonderland market is up."
+              }
+            },
+            {
+              "name": "Theatre Royal & Royal Concert Hall",
+              "tip_5lang": {
+                "de": "Achten Sie auf Pantomime-Vorstellungen, eine britische Wintertradition.",
+                "hu": "Keressen pantomim előadásokat, ez brit téli hagyomány.",
+                "ro": "Căutați spectacole de pantomimă, o tradiție britanică de iarnă.",
+                "en": "Check for pantomime shows, a British winter tradition."
+              }
+            },
+            {
+              "name": "Lace Market",
+              "tip_5lang": {
+                "de": "Die Backsteingebäude speichern die Kälte, ziehen Sie sich warm an.",
+                "hu": "A téglaépületek ontják a hideget, öltözzön rétegesen.",
+                "ro": "Clădirile de cărămidă rețin frigul, îmbrăcați-vă gros.",
+                "en": "The brick buildings hold the cold, dress in warm layers."
+              }
+            },
+            {
+              "name": "National Justice Museum",
+              "tip_5lang": {
+                "de": "In den unteren Stockwerken kann es sehr zugig und kalt sein.",
+                "hu": "Az alsó szinteken nagyon huzatos és hideg lehet.",
+                "ro": "La etajele inferioare poate fi foarte curent și frig.",
+                "en": "The lower floors can be very drafty and cold."
+              }
+            },
+            {
+              "name": "City of Caves",
+              "tip_5lang": {
+                "de": "Die Temperatur unter der Erde ist oft wärmer als draußen.",
+                "hu": "A föld alatti hőmérséklet gyakran enyhébb, mint kint.",
+                "ro": "Temperatura sub pământ este adesea mai blândă decât afară.",
+                "en": "The underground temperature is often warmer than outside."
+              }
+            },
+            {
+              "name": "Nottingham Castle",
+              "tip_5lang": {
+                "de": "Der Schlossberg bietet im Winter eine klare Sicht über die Stadt.",
+                "hu": "A várhegyről télen tiszta kilátás nyílik a városra.",
+                "ro": "Dealul castelului oferă o vedere clară asupra orașului iarna.",
+                "en": "The castle hill offers clear views over the city in winter."
+              }
+            },
+            {
+              "name": "Ye Olde Trip to Jerusalem",
+              "tip_5lang": {
+                "de": "Die gemütlichen Ecken am Kamin sind im Winter schnell besetzt.",
+                "hu": "A kandalló melletti helyek télen hamar betelnek.",
+                "ro": "Locurile de lângă șemineu se ocupă repede iarna.",
+                "en": "Cozy spots by the fireplace fill up quickly in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Dezember bereits gegen 16:00 Uhr unter.",
+              "Tragen Sie griffige Schuhe, da das Kopfsteinpflaster glatt sein kann.",
+              "Das 'Winter Wonderland' am Marktplatz ist ein Muss für die Stimmung.",
+              "Warme Getränke gibt es an jeder Ecke im kreativen Viertel Hockley.",
+              "Nutzen Sie die beheizten NET-Straßenbahnen für längere Wege."
+            ],
+            "hu": [
+              "A nap decemberben már délután 4 körül lemegy.",
+              "Viseljen tapadós talpú cipőt, mert a macskakő csúszós lehet.",
+              "A főtéri 'Winter Wonderland' kihagyhatatlan a hangulat miatt.",
+              "Forró italokat minden sarkon talál a kreatív Hockley negyedben.",
+              "Hosszabb távokra használja a fűtött NET villamosokat."
+            ],
+            "ro": [
+              "Soarele apune în decembrie deja în jurul orei 16:00.",
+              "Purtați încălțăminte antiderapantă, pavajul poate fi alunecos.",
+              "Târgul 'Winter Wonderland' din piață este esențial pentru atmosferă.",
+              "Băuturi calde găsiți la orice colț în cartierul creativ Hockley.",
+              "Folosiți tramvaiele NET încălzite pentru distanțe mai mari."
+            ],
+            "en": [
+              "The sun sets around 4:00 PM in December.",
+              "Wear shoes with good grip as cobblestones can be slippery.",
+              "The 'Winter Wonderland' in the square is a must for the atmosphere.",
+              "Hot drinks are available at every corner in the Hockley area.",
+              "Use the heated NET trams for longer stretches."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -741,6 +949,196 @@
           "There are plenty of bike racks in the city centre.",
           "A lightweight lock is useful for securing it during quick stops."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein feuchter Start am Old Market Square erfordert Vorsicht auf den Schienen. Wir radeln zum Nottingham Castle, wo der Asphalt unter den Reifen spritzt. Ein Zwischenstopp am Trip to Jerusalem bietet Schutz vor dem stärksten Guss. Mittags geht es zum Arboretum, dessen Teiche im Regen überlaufen. Wir kehren zurück zum Lace Market, wobei die nassen Ziegel das Licht reflektieren. Der Tag endet an der St. Mary's Church, während der Wind den Regen gegen das Rad drückt.",
+            "hu": "Nedves kezdés az Old Market Square-en, ahol vigyázni kell a villamos sínekre. A Nottingham Castle felé tekerünk, miközben a víz felcsap a kerekek alól. Rövid pihenő a Trip to Jerusalemnél, amíg a legerősebb zápor elvonul. Délben az Arboretum tavai és fái között biciklizünk a szemerkélő esőben. Visszatérünk a Lace Market negyedbe, ahol a vizes téglák csillognak. A napot a St. Mary's templomnál zárjuk, miközben a szél rázza a bicikliket.",
+            "ro": "Un început umed în Old Market Square necesită atenție la șinele de tramvai. Pedalam spre Nottingham Castle, cu apa stropind sub roți. O oprire la Trip to Jerusalem ne protejează de aversa cea mai puternică. La prânz traversăm Arboretum, unde iazurile se umplu de ploaie. Revenim în Lace Market, unde cărămizile ude reflectă lumina. Ziua se încheie la St. Mary's Church, în timp ce vântul împinge ploaia spre noi.",
+            "en": "A damp start at Old Market Square requires focus on the tram tracks. We cycle to Nottingham Castle with water splashing from the tires. A stop at Trip to Jerusalem provides cover from the heaviest rain. By noon, we ride through the Arboretum, its ponds swelling in the drizzle. Returning to Lace Market, the wet brickwork catches the city lights. We finish the day at St. Mary's Church, battling the wind and rain on two wheels."
+          },
+          "stops": [
+            {
+              "name": "Old Market Square",
+              "tip_5lang": {
+                "de": "Vorsicht vor den Straßenbahnschienen, die bei Nässe extrem glatt sind.",
+                "hu": "Vigyázzon a villamossínekre, amelyek vizesen rendkívül csúszósak.",
+                "ro": "Atenție la șinele de tramvai, care sunt extrem de alunecoase pe ud.",
+                "en": "Watch out for tram tracks, which are extremely slippery when wet."
+              }
+            },
+            {
+              "name": "Nottingham Castle",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Fahrradständer am Eingang.",
+                "hu": "Használja a bejáratnál található fedett biciklitárolót.",
+                "ro": "Folosiți suportul de biciclete acoperit de la intrare.",
+                "en": "Use the covered bike racks located near the entrance."
+              }
+            },
+            {
+              "name": "Ye Olde Trip to Jerusalem",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad nah an der Felswand für etwas Regenschutz.",
+                "hu": "Parkoljon közel a sziklafalhoz némi esővédelemért.",
+                "ro": "Parcați bicicleta aproape de stâncă pentru protecție la ploaie.",
+                "en": "Park your bike close to the cliff face for some rain cover."
+              }
+            },
+            {
+              "name": "Nottingham Arboretum",
+              "tip_5lang": {
+                "de": "Vermeiden Sie die unbefestigten Wege, die matschig sein können.",
+                "hu": "Kerülje a burkolatlan utakat, amelyek sárosak lehetnek.",
+                "ro": "Evitați potecile neasfaltate care pot deveni noroioase.",
+                "en": "Avoid unpaved paths which can become very muddy."
+              }
+            },
+            {
+              "name": "Lace Market",
+              "tip_5lang": {
+                "de": "Reduzieren Sie die Geschwindigkeit auf dem nassen Kopfsteinpflaster.",
+                "hu": "Csökkentse a sebességet a vizes macskakövön.",
+                "ro": "Reduceți viteza pe pavajul umed din această zonă.",
+                "en": "Reduce speed on the wet cobblestones in this area."
+              }
+            },
+            {
+              "name": "St. Mary's Church",
+              "tip_5lang": {
+                "de": "Der Kircheneingang bietet einen kurzen trockenen Unterstand.",
+                "hu": "A templombejárat rövid ideig tartó száraz menedéket nyújt.",
+                "ro": "Intrarea în biserică oferă un scurt adăpost uscat.",
+                "en": "The church porch provides a quick dry shelter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein Regenponcho ist bei Wind praktischer als eine normale Jacke.",
+              "Prüfen Sie Ihre Bremsen vorab; der Bremsweg ist auf nassem Asphalt länger.",
+              "Die hellgrünen Leihräder haben meist gute Schutzbleche.",
+              "Meiden Sie die Busspuren, da Pfützen dort tiefer sein können.",
+              "Trocknen Sie Ihren Sattel vor dem Aufsteigen immer kurz ab."
+            ],
+            "hu": [
+              "A szélben egy esőponcsó praktikusabb, mint egy sima kabát.",
+              "Ellenőrizze a fékeket; a fékút hosszabb a vizes aszfalton.",
+              "A világoszöld bérautók általában jó sárvédővel rendelkeznek.",
+              "Kerülje a buszsávokat, mert ott mélyebbek lehetnek a tócsák.",
+              "Felszállás előtt mindig törölje szárazra a nyerget."
+            ],
+            "ro": [
+              "Un pelerină de ploaie este mai practică decât o jachetă obișnuită.",
+              "Verificați frânele; distanța de frânare este mai mare pe asfalt ud.",
+              "Bicicletele de închiriat verzi au de obicei aripi bune.",
+              "Evitați benzile de autobuz, bălțile pot fi mai adânci acolo.",
+              "Ștergeți întotdeauna șaua înainte de a vă urca pe bicicletă."
+            ],
+            "en": [
+              "A rain poncho is more practical than a jacket in the wind.",
+              "Check your brakes; stopping distance is longer on wet asphalt.",
+              "The lime-green rental bikes usually have good mudguards.",
+              "Avoid bus lanes as puddles can be deeper there.",
+              "Always give your saddle a quick wipe before mounting."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein eiskalter Morgen startet am Old Market Square. Wir radeln zum Schloss, wobei der kalte Wind ins Gesicht beißt. Ein heißer Stopp am Trip to Jerusalem taut die Finger wieder auf. Mittags erkunden wir das Arboretum, wo der Reif auf den Statuen glänzt. Im Lace Market müssen wir auf gefrorene Pfützen achten. Der Tag endet an der St. Mary's Church unter einem klaren, kalten Winterhimmel. Die Beleuchtung der Stadt wirkt in der klaren Luft besonders scharf.",
+            "hu": "Fagyos reggel az Old Market Square-en. A vár felé tekerünk, miközben a hideg szél mardossa az arcunkat. Egy forró ital a Trip to Jerusalemnél segít felengedni a megfagyott ujjakat. Délben az Arboretumot járjuk be, ahol dér borítja a szobrokat. A Lace Market negyedben figyelnünk kell a fagyott tócsákra. A napot a St. Mary's templomnál zárjuk a tiszta, hideg téli égbolt alatt. A város fényei élesen ragyognak a kristálytiszta levegőben.",
+            "ro": "O dimineață înghețată începe în Old Market Square. Pedalam spre castel, cu vântul tăios mușcându-ne obrajii. O oprire la Trip to Jerusalem ne dezgheață degetele. La prânz explorăm Arboretum, unde chiciura strălucește pe statui. În Lace Market trebuie să fim atenți la bălțile înghețate. Ziua se încheie la St. Mary's Church sub un cer de iarnă senin și rece. Luminile orașului par mai stridente în aerul curat.",
+            "en": "A freezing morning kicks off at Old Market Square. We cycle to the Castle, feeling the bite of the winter wind. A hot stop at Trip to Jerusalem thaws out numb fingers. By noon, we explore the Arboretum, where frost glitters on the statues. In the Lace Market, we must watch for frozen puddles. The day ends at St. Mary's Church under a crisp, cold winter sky. The city lights look exceptionally sharp in the clear winter air."
+          },
+          "stops": [
+            {
+              "name": "Old Market Square",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis an den schattigen Rändern des Platzes.",
+                "hu": "Vigyázzon a jégre a tér árnyékos szélein.",
+                "ro": "Atenție la gheață pe marginile umbrite ale pieței.",
+                "en": "Watch for black ice on the shaded edges of the square."
+              }
+            },
+            {
+              "name": "Nottingham Castle",
+              "tip_5lang": {
+                "de": "Der Anstieg zum Schloss hält Sie bei kalten Temperaturen warm.",
+                "hu": "A várba vezető emelkedő segít melegen tartani a testét.",
+                "ro": "Urcarea spre castel vă va ajuta să vă mențineți cald.",
+                "en": "The climb to the castle will keep your blood pumping in the cold."
+              }
+            },
+            {
+              "name": "Ye Olde Trip to Jerusalem",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Aufenthalt, um Ihre Handschuhe zu trocknen.",
+                "hu": "Használja ki az itt töltött időt a kesztyűi szárítására.",
+                "ro": "Folosiți oprirea pentru a vă usca mănușile.",
+                "en": "Use the stop to warm up and dry your gloves."
+              }
+            },
+            {
+              "name": "Nottingham Arboretum",
+              "tip_5lang": {
+                "de": "Die Wege können bei Bodenfrost gefährlich rutschig sein.",
+                "hu": "Az utak talajmenti fagy esetén veszélyesen csúszósak lehetnek.",
+                "ro": "Potecile pot fi periculos de alunecoase în caz de îngheț.",
+                "en": "Paths can be treacherously slippery if there is ground frost."
+              }
+            },
+            {
+              "name": "Lace Market",
+              "tip_5lang": {
+                "de": "Vorsicht vor Kopfsteinpflaster, das oft ungleichmäßig gefriert.",
+                "hu": "Vigyázzon a macskakővel, amely gyakran egyenetlenül fagy le.",
+                "ro": "Atenție la pavaj, care adesea îngheață neuniform.",
+                "en": "Watch out for cobblestones, which often freeze unevenly."
+              }
+            },
+            {
+              "name": "St. Mary's Church",
+              "tip_5lang": {
+                "de": "Das Licht am späten Nachmittag ist hier ideal für Winterfotos.",
+                "hu": "A késő délutáni fények itt ideálisak a téli fotókhoz.",
+                "ro": "Lumina de după-amiază târziu este ideală pentru poze de iarnă.",
+                "en": "The late afternoon light here is ideal for winter photos."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterhandschuhe sind zum Radfahren in Nottingham unerlässlich.",
+              "Stellen Sie sicher, dass Ihre Fahrradbeleuchtung einwandfrei funktioniert.",
+              "Schützen Sie Ihr Gesicht mit einem Schal vor dem kalten Fahrtwind.",
+              "Batterien von E-Bikes entladen sich bei Kälte deutlich schneller.",
+              "Trinken Sie ausreichend Tee, um die Körperkerntemperatur zu halten."
+            ],
+            "hu": [
+              "A téli kesztyű elengedhetetlen a biciklizéshez Nottinghamben.",
+              "Győződjön meg róla, hogy a kerékpár világítása tökéletesen működik.",
+              "Sállal védje az arcát a hideg menetszéltől.",
+              "Az elektromos kerékpárok akkumulátora gyorsabban merül hidegben.",
+              "Igyon elegendő teát a testhőmérséklet fenntartásához."
+            ],
+            "ro": [
+              "Mănușile de iarnă sunt esențiale pentru ciclism în Nottingham.",
+              "Asigurați-vă că luminile bicicletei funcționează perfect.",
+              "Protejați-vă fața cu un fular împotriva vântului rece de mișcare.",
+              "Bateriile bicicletelor electrice se descarcă mult mai repede la frig.",
+              "Beți suficient ceai pentru a vă menține temperatura corpului."
+            ],
+            "en": [
+              "Winter gloves are essential for cycling in Nottingham.",
+              "Ensure your bike lights are working perfectly as days are short.",
+              "Protect your face with a scarf against the biting headwind.",
+              "E-bike batteries drain significantly faster in cold weather.",
+              "Drink enough tea to maintain your core body temperature."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1097,6 +1495,196 @@
           "Traffic can be heavy during peak hours.",
           "Plan your route to avoid one-way systems."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten am Wollaton Hall, wo der Regen auf das Herrenhaus prasselt. Die Fahrt durch den Park ist bei grauem Wetter mystisch. Mittags steuern wir das Schloss an, wobei wir die Wischer auf höchster Stufe brauchen. Ein kurzer Sprint vom Parkplatz zum Trip to Jerusalem bringt uns ins Trockene. Danach geht es zum National Justice Museum, wo man das Auto bequem in der Nähe parken kann. Wir beenden den Tag am Old Market Square, während die Stadtlichter im nassen Asphalt tanzen.",
+            "hu": "A Wollaton Hallnál kezdünk, ahol az eső dobol a patinás épület tetején. A parkon átvezető út misztikus hangulatú a szürke időben. Délben a vár felé vesszük az irányt, az ablaktörlők maximális fokozaton dolgoznak. Egy gyors sprint a parkolóból a Trip to Jerusalem pubba, és már szárazon is vagyunk. Ezután a bírósági múzeum következik, ahol kényelmesen, a közelben parkolhatunk. A napot az Old Market Square-en zárjuk, miközben a város fényei táncolnak a vizes aszfalton.",
+            "ro": "Începem la Wollaton Hall, unde ploaia bate în acoperișul conacului. Drumul prin parc are o atmosferă mistică pe vreme gri. La prânz ne îndreptăm spre castel, cu ștergătoarele la viteză maximă. O fugă rapidă din parcare până la Trip to Jerusalem ne aduce la adăpost. Urmează National Justice Museum, unde se poate parca comod în apropiere. Încheiem ziua în Old Market Square, în timp ce luminile orașului dansează pe asfaltul ud.",
+            "en": "Starting at Wollaton Hall, the rain drums against the historic mansion. The drive through the park is mystical in the grey weather. By noon, we head to the Castle, wipers working at full speed. A quick dash from the car to the Trip to Jerusalem pub keeps us dry. Then, off to the National Justice Museum, with convenient parking nearby. We finish the day at Old Market Square as city lights shimmer on the wet streets."
+          },
+          "stops": [
+            {
+              "name": "Wollaton Hall and Park",
+              "tip_5lang": {
+                "de": "Parken Sie auf dem asphaltierten Bereich, um Schlamm zu vermeiden.",
+                "hu": "Parkoljon az aszfaltozott részen, hogy elkerülje a sarat.",
+                "ro": "Parcați în zona asfaltată pentru a evita noroiul.",
+                "en": "Park on the paved section to avoid getting stuck in mud."
+              }
+            },
+            {
+              "name": "Wollaton Park Walk",
+              "tip_5lang": {
+                "de": "Ein kurzer Spaziergang unter den Bäumen bietet etwas Regenschutz.",
+                "hu": "Egy rövid séta a fák alatt némi védelmet nyújt az eső ellen.",
+                "ro": "O scurtă plimbare sub copaci oferă oarecare protecție la ploaie.",
+                "en": "A short walk under the tree canopy provides some rain cover."
+              }
+            },
+            {
+              "name": "Nottingham Castle",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus 'St James Street' für trockenen Zugang.",
+                "hu": "Használja a 'St James Street' parkolóházat a száraz bejutáshoz.",
+                "ro": "Folosiți parcarea 'St James Street' pentru acces uscat.",
+                "en": "Use the 'St James Street' multi-storey for dry access."
+              }
+            },
+            {
+              "name": "Ye Olde Trip to Jerusalem",
+              "tip_5lang": {
+                "de": "Der nächste Parkplatz ist nur 2 Minuten Fußweg entfernt.",
+                "hu": "A legközelebbi parkoló mindössze 2 perc sétára van.",
+                "ro": "Cea mai apropiată parcare este la doar 2 minute de mers.",
+                "en": "The nearest car park is only a 2-minute walk away."
+              }
+            },
+            {
+              "name": "National Justice Museum",
+              "tip_5lang": {
+                "de": "Parken Sie im 'Fletcher Gate' Parkhaus direkt gegenüber.",
+                "hu": "Parkoljon a közvetlenül szemben lévő 'Fletcher Gate' parkolóházban.",
+                "ro": "Parcați în parcarea 'Fletcher Gate', direct vis-a-vis.",
+                "en": "Park in the 'Fletcher Gate' car park directly opposite."
+              }
+            },
+            {
+              "name": "Old Market Square",
+              "tip_5lang": {
+                "de": "Achten Sie auf Fußgänger, die mit Regenschirmen die Sicht behindern.",
+                "hu": "Vigyázzon a gyalogosokra, akiknek az esernyője korlátozza a kilátást.",
+                "ro": "Atenție la pietonii ale căror umbrele blochează vizibilitatea.",
+                "en": "Watch out for pedestrians whose umbrellas may block your view."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Das Parkhaus 'Fletcher Gate' ist ideal für das Stadtzentrum.",
+              "Vermeiden Sie bei Starkregen tiefere Senken in der Nähe des Flusses Trent.",
+              "Fußgänger rennen bei Guss oft unvorhersehbar über die Straße.",
+              "Nutzen Sie die Park & Ride Plätze, wenn das Zentrum zu voll ist.",
+              "Prüfen Sie Ihre Scheibenwischerblätter vor der Fahrt durch Nottingham."
+            ],
+            "hu": [
+              "A 'Fletcher Gate' parkolóház ideális a belváros felfedezéséhez.",
+              "Heves esőzéskor kerülje a mélyebben fekvő utakat a Trent folyó közelében.",
+              "A gyalogosok szakadó esőben gyakran kiszámíthatatlanul szaladnak át az úton.",
+              "Használja a Park & Ride parkolókat, ha a központ túl zsúfolt.",
+              "Indulás előtt ellenőrizze az ablaktörlő lapátok állapotát."
+            ],
+            "ro": [
+              "Parcarea 'Fletcher Gate' este ideală pentru centrul orașului.",
+              "Evitați zonele joase de lângă râul Trent în caz de ploaie torențială.",
+              "Pietonii traversează adesea imprevizibil când plouă tare.",
+              "Folosiți parcările Park & Ride dacă centrul este prea aglomerat.",
+              "Verificați lamelele ștergătoarelor înainte de a pleca la drum."
+            ],
+            "en": [
+              "The 'Fletcher Gate' car park is ideal for accessing the city center.",
+              "Avoid low-lying roads near the River Trent during heavy downpours.",
+              "Pedestrians often run unpredictably across the road in heavy rain.",
+              "Use Park & Ride sites if the city center parking is full.",
+              "Check your wiper blades before driving through Nottingham."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein nebliger Wintermorgen am Wollaton Hall, das wie ein Geisterschloss aus dem Frost ragt. Die Hirsche im Park haben dampfenden Atem. Mittags fahren wir zum Stadtzentrum, wobei die Sitzheizung gute Dienste leistet. Ein Stopp am Trip to Jerusalem wärmt uns von innen. Der Nachmittag im National Justice Museum ist frostig, aber faszinierend. Wir beenden den Tag am Old Market Square, wo die Weihnachtsbeleuchtung eine magische Atmosphäre schafft. Der Heimweg führt über glitzernde, gefrorene Straßen.",
+            "hu": "Ködös téli reggel a Wollaton Hallnál, amely kísértetkastélyként emelkedik ki a zúzmarából. A parkban a szarvasok lehelete gőzölög a hidegben. Délben a belváros felé autózunk, az ülésfűtés jó szolgálatot tesz. Egy megálló a Trip to Jerusalemnél felmelegít minket belülről. A délután a bírósági múzeumban fagyos, de lenyűgöző. A napot az Old Market Square-en zárjuk, ahol a karácsonyi fények varázslatos hangulatot árasztanak. A hazaút csillogó, fagyott utcákon vezet.",
+            "ro": "O dimineață de iarnă cețoasă la Wollaton Hall, care răsare ca un castel bântuit din chiciură. Cerbii din parc au respirația aburindă. La prânz conducem spre centru, unde încălzirea în scaune este binevenită. O oprire la Trip to Jerusalem ne încălzește pe interior. După-amiaza la Muzeul Justiției este geroasă, dar fascinantă. Încheiem ziua în Old Market Square, unde luminile de Crăciun creează o atmosferă magică. Drumul spre casă trece prin străzi înghețate.",
+            "en": "A misty winter morning at Wollaton Hall, rising like a ghost castle from the frost. Deer in the park have steaming breath. By noon, we drive to the city center, grateful for the car's heater. A stop at Trip to Jerusalem warms us from the inside out. The afternoon at the National Justice Museum is chilly but fascinating. We finish the day at Old Market Square, where Christmas lights create a magical atmosphere. The drive home is over glittering, frozen roads."
+          },
+          "stops": [
+            {
+              "name": "Wollaton Hall and Park",
+              "tip_5lang": {
+                "de": "Achten Sie auf Hirsche, die bei Nebel plötzlich die Straße kreuzen.",
+                "hu": "Vigyázzon a szarvasokra, amelyek ködben hirtelen az útra léphetnek.",
+                "ro": "Atenție la cerbi, care pot traversa brusc drumul pe ceață.",
+                "en": "Watch out for deer that may cross the road suddenly in the mist."
+              }
+            },
+            {
+              "name": "Wollaton Park Walk",
+              "tip_5lang": {
+                "de": "Die Wege können bei Reif sehr glatt sein, fahren Sie vorsichtig.",
+                "hu": "Az utak zúzmarásak és csúszósak lehetnek, óvatosan hajtson.",
+                "ro": "Drumurile pot fi foarte alunecoase din cauza chiciurei.",
+                "en": "Park roads can be very slippery with frost, drive slowly."
+              }
+            },
+            {
+              "name": "Nottingham Castle",
+              "tip_5lang": {
+                "de": "Die steilen Zufahrtsstraßen zum Schlossberg können vereist sein.",
+                "hu": "A várhegyre vezető meredek utak jegesek lehetnek.",
+                "ro": "Străzile abrupte spre dealul castelului pot fi înghețate.",
+                "en": "The steep access roads to the castle hill can be icy."
+              }
+            },
+            {
+              "name": "Ye Olde Trip to Jerusalem",
+              "tip_5lang": {
+                "de": "Parken Sie nicht zu weit weg, um die Kältezeit kurz zu halten.",
+                "hu": "Ne parkoljon túl messze, hogy minél kevesebbet legyen a hidegben.",
+                "ro": "Nu parcați prea departe pentru a limita expunerea la frig.",
+                "en": "Don't park too far away to minimize time spent in the cold."
+              }
+            },
+            {
+              "name": "National Justice Museum",
+              "tip_5lang": {
+                "de": "Das Auto heizt sich in den Parkhäusern etwas weniger ab.",
+                "hu": "Az autó kevésbé hűl le a fedett parkolóházakban.",
+                "ro": "Mașina se răcește mai puțin în parcările etajate.",
+                "en": "The car will stay slightly warmer in multi-storey car parks."
+              }
+            },
+            {
+              "name": "Old Market Square",
+              "tip_5lang": {
+                "de": "Zentrale Parkplätze sind während des Weihnachtsmarkts oft voll.",
+                "hu": "A központi parkolók a karácsonyi vásár idején gyakran telítettek.",
+                "ro": "Parcările centrale sunt adesea pline în timpul târgului.",
+                "en": "Central car parks are often full during the winter market."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Haben Sie immer einen Eiskratzer im Handschuhfach bereit.",
+              "Frostschutzmittel für die Scheibenwaschanlage ist im Winter Pflicht.",
+              "Die Parkhäuser in der Innenstadt sind im Winter oft wärmer als Außenplätze.",
+              "Rechnen Sie mit Verzögerungen durch winterliche Straßenbedingungen.",
+              "Schalten Sie das Licht auch tagsüber bei Nebel oder Schneefall ein."
+            ],
+            "hu": [
+              "Mindig tartson jégkaparót a kesztyűtartóban.",
+              "A téli szélvédőmosó folyadék használata elengedhetetlen.",
+              "A belvárosi parkolóházak télen melegebbek, mint a kültéri helyek.",
+              "Számítson késésekre a téli útviszonyok miatt.",
+              "Ködben vagy hóesésben nappal is kapcsolja be a világítást."
+            ],
+            "ro": [
+              "Aveți întotdeauna o racletă pregătită în torpedou.",
+              "Lichidul de parbriz de iarnă este obligatoriu în acest sezon.",
+              "Parcările etajate sunt mai calde iarna decât locurile exterioare.",
+              "Așteptați-vă la întârzieri din cauza condițiilor de drum.",
+              "Aprindeți luminile și ziua în caz de ceață sau ninsoare."
+            ],
+            "en": [
+              "Keep an ice scraper handy in the glove box at all times.",
+              "Winter screenwash is a must during a Nottingham winter.",
+              "Multi-storey car parks are warmer for your vehicle than open lots.",
+              "Expect delays due to winter road conditions and darker days.",
+              "Keep your lights on even during the day in misty conditions."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1453,6 +2041,196 @@
           "Many services are contactless, you can tap on with your card or phone.",
           "Trams (NET) are a quick way to cross the city from north to south."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten am Old Market Square, dem Knotenpunkt der NET-Straßenbahn. Die Fahrt zum Lace Market ist kurz und trocken. Mittags besuchen wir die St. Mary's Church, während draußen der Guss stärker wird. Mit dem Bus geht es zum Arboretum, wo wir die Pavillons als Schutz nutzen. Am Nachmittag kehren wir per Tram zum Schloss zurück, um die Museen zu erkunden. Der Tag endet in der City of Caves, einem perfekten Ort für Regentage. Die Rückfahrt zum Marktplatz bietet einen Blick auf die beleuchtete, nasse Stadt.",
+            "hu": "Az Old Market Square-ről indulunk, a NET villamoshálózat központjából. Az út a Lace Marketig rövid és száraz. Délben a St. Mary's templomot látogatjuk meg, miközben odakint szakad az eső. Busszal megyünk tovább az Arboretumhoz, ahol a pavilonok alatt találunk menedéket. Délután villamossal térünk vissza a várhoz, hogy felfedezzük a múzeumokat. A napot a City of Caves barlangjaiban zárjuk, ami tökéletes program esőben. A visszaút során a villamos ablakából csodáljuk a kivilágított várost.",
+            "ro": "Începem în Old Market Square, nodul central al tramvaiului NET. Drumul spre Lace Market este scurt și uscat. La prânz vizităm St. Mary's Church, în timp ce afară plouă torențial. Mergem cu autobuzul spre Arboretum, unde folosim pavilioanele pentru adăpost. După-amiaza revenim cu tramvaiul la castel pentru a explora muzeele. Ziua se încheie în City of Caves, un loc perfect pentru zile ploioase. Drumul de întoarcere oferă o vedere spre orașul luminat și ud.",
+            "en": "Starting at Old Market Square, the hub of the NET tram network. The ride to Lace Market is quick and keeps you dry. By noon, we visit St. Mary's Church as the rain intensifies outside. We take the bus to the Arboretum, using its gazebos for shelter. In the afternoon, we tram back to the Castle to explore the museums. The day ends at the City of Caves, a perfect rainy-day refuge. The return trip to the square offers views of the illuminated, rain-slicked city."
+          },
+          "stops": [
+            {
+              "name": "Old Market Square",
+              "tip_5lang": {
+                "de": "Die Wartehäuschen der Straßenbahn bieten guten Windschutz.",
+                "hu": "A villamosmegálló várói jó szélvédelmet nyújtanak.",
+                "ro": "Adăposturile din stația de tramvai oferă protecție bună la vânt.",
+                "en": "The tram stop shelters provide good protection from the wind."
+              }
+            },
+            {
+              "name": "Lace Market",
+              "tip_5lang": {
+                "de": "Die Tramhaltestelle liegt direkt im Herzen des Viertels.",
+                "hu": "A villamosmegálló közvetlenül a negyed szívében található.",
+                "ro": "Stația de tramvai se află direct în inima cartierului.",
+                "en": "The tram stop is located right in the heart of the district."
+              }
+            },
+            {
+              "name": "St. Mary's Church",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg von der Tramstation 'Lace Market'.",
+                "hu": "Rövid séta a 'Lace Market' villamosmegállótól.",
+                "ro": "Drum scurt pe jos de la stația de tramvai 'Lace Market'.",
+                "en": "Short walk from the 'Lace Market' tram station."
+              }
+            },
+            {
+              "name": "Nottingham Arboretum",
+              "tip_5lang": {
+                "de": "Die Tramhaltestelle 'High School' ist am nächsten zum Park.",
+                "hu": "A 'High School' villamosmegálló van a legközelebb a parkhoz.",
+                "ro": "Stația de tramvai 'High School' este cea mai apropiată de parc.",
+                "en": "The 'High School' tram stop is the closest to the park."
+              }
+            },
+            {
+              "name": "Nottingham Castle",
+              "tip_5lang": {
+                "de": "Nutzen Sie Busse der Linie 36 für eine Fahrt nah an den Eingang.",
+                "hu": "Használja a 36-os buszt, ha közelebb akar jutni a bejárathoz.",
+                "ro": "Folosiți autobuzele liniei 36 pentru a ajunge aproape de intrare.",
+                "en": "Use bus line 36 for a stop very close to the entrance."
+              }
+            },
+            {
+              "name": "City of Caves",
+              "tip_5lang": {
+                "de": "Vom Broadmarsh Busbahnhof ist es nur ein Katzensprung.",
+                "hu": "A Broadmarsh buszpályaudvartól csak egy ugrásnyira van.",
+                "ro": "Este la doar un pas de autogara Broadmarsh.",
+                "en": "It's just a stone's throw from the Broadmarsh bus station."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die NET-App zeigt Abfahrten in Echtzeit an, um Wartezeiten im Regen zu verkürzen.",
+              "Ein Tagesticket gilt für alle Straßenbahnen und viele Busse.",
+              "Die Straßenbahnen sind modern, klimatisiert und meist sehr trocken.",
+              "Nottingham hat eines der besten Bussysteme in England.",
+              "Entwerten Sie Ihr Ticket bereits am Bahnsteig, nicht erst in der Tram."
+            ],
+            "hu": [
+              "A NET app valós időben mutatja az indulásokat, így kevesebbet kell várni az esőben.",
+              "A napijegy minden villamosra és számos buszra érvényes.",
+              "A villamosok modernek, légkondicionáltak és általában teljesen szárazak.",
+              "Nottingham rendelkezik Anglia egyik legjobb buszhálózatával.",
+              "A jegyét még a peronon érvényesítse, ne a villamoson."
+            ],
+            "ro": [
+              "Aplicația NET arată plecările în timp real pentru a evita așteptarea în ploaie.",
+              "Un bilet de o zi este valabil pe toate tramvaiele și multe autobuze.",
+              "Tramvaiele sunt moderne, climatizate și de obicei foarte uscate.",
+              "Nottingham are unul dintre cele mai bune sisteme de autobuz din Anglia.",
+              "Validați biletul pe peron, nu după ce urcați în tramvai."
+            ],
+            "en": [
+              "The NET app shows real-time departures to minimize waiting in the rain.",
+              "A day ticket is valid on all trams and many bus services.",
+              "Trams are modern, climate-controlled, and usually very dry inside.",
+              "Nottingham has one of the best bus systems in England.",
+              "Validate your ticket on the platform before boarding the tram."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen am Marktplatz. Die beheizten Straßenbahnen sind ein Segen auf dem Weg zum Lace Market. Mittags wärmen wir uns in der St. Mary's Church auf, bevor es per Bus zum verschneiten Arboretum geht. Die Pavillons dort glitzern im Frost. Nachmittags bringt uns die Tram zum Schloss, dessen Mauern im kalten Licht imposant wirken. Wir beenden die Tour in der City of Caves, wo die Temperatur das ganze Jahr über konstant bleibt. Die Rückfahrt im warmen Bus bietet einen gemütlichen Abschluss.",
+            "hu": "Tiszta téli reggel a főtéren. A fűtött villamosok áldásosak a Lace Market felé vezető úton. Délben a St. Mary's templomban melegszünk fel, majd busszal megyünk tovább a hófödte Arboretumhoz. A park pavilonjai ragyognak a fagyban. Délután villamossal utazunk a várhoz, amelynek falai impozánsak a hideg fényben. A túrát a City of Caves barlangjaiban zárjuk, ahol a hőmérséklet egész évben állandó. A visszaút egy meleg buszon kellemes befejezése a napnak.",
+            "ro": "O dimineață de iarnă senină în piața centrală. Tramvaiele încălzite sunt o binecuvântare spre Lace Market. La prânz ne încălzim în St. Mary's Church, apoi mergem cu autobuzul spre Arboretumul înzăpezit. Pavilioanele de acolo strălucesc în chiciură. După-amiaza, tramvaiul ne duce la castel, ale cărui ziduri par impunătoare în lumina rece. Încheiem turul în City of Caves, unde temperatura rămâne constantă tot anul. Întoarcerea cu un autobuz cald oferă un final confortabil.",
+            "en": "A crisp winter morning at Old Market Square. Heated trams are a blessing on the way to Lace Market. By noon, we warm up inside St. Mary's Church before taking the bus to the frosty Arboretum. Its gazebos glitter in the cold air. In the afternoon, the tram whisk us to the Castle, its walls looking grand in the winter sun. We finish at the City of Caves, where the temperature stays steady year-round. The ride back on a warm bus is the perfect end to the day."
+          },
+          "stops": [
+            {
+              "name": "Old Market Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Kiosk am Marktplatz für einen heißen Kakao.",
+                "hu": "Vegyen egy forró kakaót a főtéri kioszknál.",
+                "ro": "Luați o ciocolată caldă de la chioșcul din piață.",
+                "en": "Grab a hot cocoa from the kiosk at the square."
+              }
+            },
+            {
+              "name": "Lace Market",
+              "tip_5lang": {
+                "de": "Die Wartezeiten sind kurz, aber ziehen Sie sich warm an.",
+                "hu": "A várakozási idő rövid, de öltözzön fel melegen.",
+                "ro": "Timpul de așteptare este scurt, dar îmbrăcați-vă gros.",
+                "en": "Waiting times are short, but keep your coat buttoned up."
+              }
+            },
+            {
+              "name": "St. Mary's Church",
+              "tip_5lang": {
+                "de": "In der Kirche ist es oft kühler als gedacht, behalten Sie die Jacke an.",
+                "hu": "A templomban gyakran hidegebb van, mint gondolná, ne vegye le a kabátját.",
+                "ro": "În biserică este adesea mai frig decât pare, păstrați jacheta.",
+                "en": "It's often colder inside the church than expected, keep your coat on."
+              }
+            },
+            {
+              "name": "Nottingham Arboretum",
+              "tip_5lang": {
+                "de": "Die Buslinie 58 hält direkt am Eingang des Parks.",
+                "hu": "Az 58-as busz közvetlenül a park bejáratánál áll meg.",
+                "ro": "Linia de autobuz 58 oprește chiar la intrarea în parc.",
+                "en": "Bus line 58 stops right at the entrance of the park."
+              }
+            },
+            {
+              "name": "Nottingham Castle",
+              "tip_5lang": {
+                "de": "Die Tramhaltestelle 'Old Market Square' ist ca. 5-7 Minuten entfernt.",
+                "hu": "Az 'Old Market Square' villamosmegálló kb. 5-7 percre van.",
+                "ro": "Stația de tramvai 'Old Market Square' este la circa 5-7 minute.",
+                "en": "The 'Old Market Square' tram stop is about 5-7 minutes away."
+              }
+            },
+            {
+              "name": "City of Caves",
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um der Winterkälte für eine Stunde zu entfliehen.",
+                "hu": "Tökéletes hely, hogy egy órára elmeneküljön a téli hideg elől.",
+                "ro": "Loc perfect pentru a scăpa de gerul iernii timp de o oră.",
+                "en": "A perfect place to escape the winter chill for an hour."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Trams fahren auch bei leichtem Schneefall meist zuverlässig.",
+              "Nutzen Sie die 'Robin Hood' Karte für kontaktloses Bezahlen.",
+              "In den Bussen ist es oft wärmer als in der Straßenbahn.",
+              "Achten Sie auf geänderte Fahrpläne an Feiertagen im Winter.",
+              "Die Haltestellen sind abends gut beleuchtet und sicher."
+            ],
+            "hu": [
+              "A villamosok általában gyenge havazás esetén is megbízhatóan járnak.",
+              "Használja a 'Robin Hood' kártyát az érintésmentes fizetéshez.",
+              "A buszokon gyakran melegebb van, mint a villamosokon.",
+              "Ügyeljen a téli ünnepek alatti módosított menetrendekre.",
+              "A megállók este jól kivilágítottak és biztonságosak."
+            ],
+            "ro": [
+              "Tramvaiele circulă de obicei fiabil chiar și pe ninsoare ușoară.",
+              "Folosiți cardul 'Robin Hood' pentru plăți contactless.",
+              "În autobuze este adesea mai cald decât în tramvai.",
+              "Atenție la orarele modificate în timpul sărbătorilor de iarnă.",
+              "Stațiile sunt bine iluminate și sigure pe timpul serii."
+            ],
+            "en": [
+              "Trams usually remain reliable even during light snowfall.",
+              "Use the 'Robin Hood' card for easy contactless payment.",
+              "Buses are often warmer than the trams during peak winter.",
+              "Check for modified schedules during the winter bank holidays.",
+              "Stops are well-lit and safe during the early winter evenings."
+            ]
+          }
+        }
       }
     }
   }

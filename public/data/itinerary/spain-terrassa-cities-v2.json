@@ -334,6 +334,232 @@
           "The mNACTEC is a large museum, so wear comfortable shoes.",
           "Parc de Vallparadís is a great place to cool off on a hot afternoon."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgen: Starten Sie den Tag unter dem schützenden Dach des Mercat de la Independència, wo das Treiben trotz Regen lebendig bleibt. \n\nMittag: Besuchen Sie die Casa Alegre und flüchten Sie ins mNACTEC, das in einer ehemaligen Fabrik untergebracht ist und stundenlang trockenes Sightseeing bietet. \n\nNachmittag: Ein kurzer Spaziergang durch den nassen Vallparadís-Park führt Sie zum Castell, einem festen Steinbau, der Geborgenheit vermittelt. \n\nAbend: Beenden Sie die Tour in der spirituellen Stille der Seu d'Ègara, während der Regen leise gegen die jahrhundertealten Mauern trommelt.",
+            "hu": "Reggel: Kezdje a napot a Mercat de la Independència védelmező tetője alatt, ahol az eső ellenére is pezseg az élet. \n\nDélben: Látogasson el a Casa Alegre házba, majd meneküljön a mNACTEC múzeumba, amely egy régi gyárban kínál órákon át tartó száraz programot. \n\nDélután: Egy rövid séta a vizes Vallparadís parkon át elvezeti a várba, amelynek vastag falai között biztonságban érezheti magát. \n\nEste: Zárja a túrát a Seu d'Ègara spirituális csendjében, miközben az eső halkan kopog a több száz éves falakon.",
+            "ro": "Dimineața: Începeți ziua sub acoperișul protector al pieței Mercat de la Independència, unde atmosfera rămâne plină de viață în ciuda ploii. \n\nPrânz: Vizitați Casa Alegre și refugiați-vă în mNACTEC, situat într-o fostă fabrică, ce oferă ore întregi de vizitare la adăpost. \n\nDupă-amiaza: O scurtă plimbare prin parcul umed Vallparadís vă duce la castel, o construcție solidă de piatră care oferă confort. \n\nSeara: Încheiați turul în liniștea spirituală de la Seu d'Ègara, în timp ce ploaia bate încet în zidurile vechi de secole.",
+            "en": "Morning: Start your day under the protective roof of the Mercat de la Independència, where the hustle and bustle stays vibrant despite the rain. \n\nMidday: Visit Casa Alegre and escape into mNACTEC, housed in a former factory, offering hours of dry sightseeing. \n\nAfternoon: A short walk through the wet Vallparadís Park leads you to the castle, a solid stone building that provides shelter. \n\nEvening: End the tour in the spiritual silence of Seu d'Ègara, as the rain softly taps against the centuries-old walls."
+          },
+          "stops": [
+            {
+              "name": "Mercat de la Independència",
+              "tip_5lang": {
+                "de": "Perfekter Ort für ein zweites Frühstück im Trockenen.",
+                "hu": "Tökéletes hely egy második reggelihez a szárazon.",
+                "ro": "Locul perfect pentru un al doilea mic dejun la adăpost.",
+                "en": "Perfect place for a second breakfast in the dry."
+              }
+            },
+            {
+              "name": "Torre del Palau",
+              "tip_5lang": {
+                "de": "Vorsicht auf den Stufen; sie können bei Nässe rutschig sein.",
+                "hu": "Vigyázzon a lépcsőkön; nedvesen csúszósak lehetnek.",
+                "ro": "Atenție la trepte; pot fi alunecoase când sunt ude.",
+                "en": "Be careful on the steps; they can be slippery when wet."
+              }
+            },
+            {
+              "name": "Casa Alegre de Sagrera",
+              "tip_5lang": {
+                "de": "Prächtiges modernistisches Interieur, ideal bei Regen.",
+                "hu": "Pompás modernista belső tér, ideális esőben.",
+                "ro": "Interior modernist splendid, ideal pe ploaie.",
+                "en": "Magnificent modernist interior, ideal during rain."
+              }
+            },
+            {
+              "name": "mNACTEC",
+              "tip_5lang": {
+                "de": "Das riesige Sägezahndach bietet perfekten Schutz.",
+                "hu": "A hatalmas fűrészfogas tető tökéletes védelmet nyújt.",
+                "ro": "Acoperișul uriaș oferă protecție perfectă.",
+                "en": "The huge sawtooth roof offers perfect protection."
+              }
+            },
+            {
+              "name": "Masia Freixa",
+              "tip_5lang": {
+                "de": "Betrachten Sie die organischen Formen von der Veranda aus.",
+                "hu": "Csodálja meg az organikus formákat a verandáról.",
+                "ro": "Admirați formele organice de pe verandă.",
+                "en": "Admire the organic shapes from the porch."
+              }
+            },
+            {
+              "name": "Parc de Vallparadís",
+              "tip_5lang": {
+                "de": "Nutzen Sie Brücken als Unterstand bei Güssen.",
+                "hu": "Használja a hidakat menedékként zápor esetén.",
+                "ro": "Folosiți podurile ca adăpost în caz de ploaie.",
+                "en": "Use bridges as shelter during downpours."
+              }
+            },
+            {
+              "name": "Castell de Vallparadís",
+              "tip_5lang": {
+                "de": "Die Ausstellungen im Inneren sind komplett überdacht.",
+                "hu": "A belső kiállítások teljesen fedettek.",
+                "ro": "Expozițiile interioare sunt complet acoperite.",
+                "en": "The indoor exhibitions are completely covered."
+              }
+            },
+            {
+              "name": "Seu d'Ègara",
+              "tip_5lang": {
+                "de": "Ein mystischer Abschluss im Schein der Kerzen.",
+                "hu": "Misztikus zárás a gyertyák fényében.",
+                "ro": "Un final mistic la lumina lumânărilor.",
+                "en": "A mystical end in the candlelight."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Terrassa hat viele Passagen bei Regen.",
+              "mNACTEC ist ein ideales Regen-Ziel.",
+              "Tragen Sie wasserfeste Schuhe im Park.",
+              "Prüfen Sie Museen-Öffnungszeiten am Montag.",
+              "Ein Schirm ist oft besser als ein Cape."
+            ],
+            "hu": [
+              "Terrassa sok átjáróval bír esőben.",
+              "A mNACTEC ideális esős úticél.",
+              "Viseljen vízálló cipőt a parkhoz.",
+              "Hétfőn ellenőrizze a nyitvatartást.",
+              "Az esernyő jobb az esőkabátnál."
+            ],
+            "ro": [
+              "Terrassa are multe pasaje pe ploaie.",
+              "mNACTEC este o destinație de ploaie.",
+              "Purtați încălțăminte impermeabilă.",
+              "Verificați programul muzeelor lunea.",
+              "Umbrela este mai bună decât pelerina."
+            ],
+            "en": [
+              "Terrassa has many passages for rain.",
+              "mNACTEC is an ideal rainy destination.",
+              "Wear waterproof shoes for the park.",
+              "Check museum hours on Mondays.",
+              "An umbrella is better than a cape."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgen: Genießen Sie die klare Winterluft beim Marktbesuch, wo heiße Schokolade lockt. \n\nMittag: Die tiefstehende Wintersonne beleuchtet die Casa Alegre besonders schön. Im mNACTEC wärmen Sie sich auf. \n\nNachmittag: Nutzen Sie das Tageslicht im Park, bevor die Dämmerung das Castell in goldenes Licht taucht. \n\nAbend: Wenn die Kälte anzieht, bieten die dicken Mauern der Seu d'Ègara eine geschützte Atmosphäre für den Ausklang.",
+            "hu": "Reggel: Élvezze a friss téli levegőt a piacon, ahol a forró csokoládé csábít. \n\nDélben: Az alacsonyan járó téli nap különösen szépen világítja meg a Casa Alegre homlokzatát. A mNACTEC-ben felmelegedhet. \n\nDélután: Használja ki a nappali fényt a parkban, mielőtt a szürkület arany fénybe vonja a várat. \n\nEste: Ahogy hűl a levegő, a Seu d'Ègara vastag falai védett környezetet nyújtanak a nap zárásához.",
+            "ro": "Dimineața: Bucurați-vă de aerul proaspăt de iarnă în piață, unde ciocolata caldă vă atrage. \n\nPrânz: Soarele de iarnă luminează fațadele Casei Alegre. Încălziți-vă în interiorul mNACTEC. \n\nDupă-amiaza: Profită de lumina zilei în parc înainte ca amurgul să scalde castelul în lumină aurie. \n\nSeara: Pe măsură ce se lasă frigul, zidurile groase de la Seu d'Ègara oferă o atmosferă protejată pentru final.",
+            "en": "Morning: Enjoy the crisp winter air at the market, where hot chocolate beckons. \n\nMidday: The low winter sun illuminates the facades of Casa Alegre beautifully. Warm up inside mNACTEC. \n\nAfternoon: Make the most of the daylight in the park before twilight bathes the castle in golden light. \n\nEvening: As the cold sets in, the thick walls of Seu d'Ègara provide a sheltered atmosphere for the end of the day."
+          },
+          "stops": [
+            {
+              "name": "Mercat de la Independència",
+              "tip_5lang": {
+                "de": "Probieren Sie lokale Winterspezialitäten.",
+                "hu": "Kóstolja meg a helyi téli ételeket.",
+                "ro": "Gustați specialitățile locale de iarnă.",
+                "en": "Try local winter specialties."
+              }
+            },
+            {
+              "name": "Torre del Palau",
+              "tip_5lang": {
+                "de": "Die Wintersonne sorgt für weite Sicht.",
+                "hu": "A téli nap tiszta kilátást biztosít.",
+                "ro": "Soarele de iarnă oferă vizibilitate.",
+                "en": "The winter sun provides clear views."
+              }
+            },
+            {
+              "name": "Casa Alegre de Sagrera",
+              "tip_5lang": {
+                "de": "Licht fällt im Winter weich in die Räume.",
+                "hu": "A fény télen lágyan esik a szobákba.",
+                "ro": "Lumina cade suav în camere iarna.",
+                "en": "Light falls softly into the rooms in winter."
+              }
+            },
+            {
+              "name": "mNACTEC",
+              "tip_5lang": {
+                "de": "Große Hallen; Zwiebelprinzip kleiden.",
+                "hu": "Hatalmas csarnokok; réteges öltözködés.",
+                "ro": "Hale mari; îmbrăcați-vă în straturi.",
+                "en": "Large halls; dress in layers."
+              }
+            },
+            {
+              "name": "Masia Freixa",
+              "tip_5lang": {
+                "de": "Weiße Fassade leuchtet im Winterlicht.",
+                "hu": "A fehér homlokzat ragyog a téli fényben.",
+                "ro": "Fațada albă strălucește în lumină.",
+                "en": "White facade glows in winter light."
+              }
+            },
+            {
+              "name": "Parc de Vallparadís",
+              "tip_5lang": {
+                "de": "Perfekt für einen zügigen Spaziergang.",
+                "hu": "Tökéletes egy élénk téli sétához.",
+                "ro": "Perfect pentru o plimbare de iarnă.",
+                "en": "Perfect for a brisk winter walk."
+              }
+            },
+            {
+              "name": "Castell de Vallparadís",
+              "tip_5lang": {
+                "de": "Kürzere Öffnungszeiten im Winter.",
+                "hu": "Rövidebb téli nyitvatartás.",
+                "ro": "Program de iarnă mai scurt.",
+                "en": "Shorter opening hours in winter."
+              }
+            },
+            {
+              "name": "Seu d'Ègara",
+              "tip_5lang": {
+                "de": "Binnen oft kühler als draußen.",
+                "hu": "Benn hűvösebb lehet, öltözzön fel.",
+                "ro": "Adesea mai răcoare în interior.",
+                "en": "Often cooler inside than outside."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Sonnenuntergang ist gegen 17:30 Uhr.",
+              "Die Mittagsstunden sind ideal für Fotos.",
+              "Tragen Sie eine leichte Jacke.",
+              "Genießen Sie Churros im Zentrum.",
+              "Besuchen Sie die Weihnachtskrippen."
+            ],
+            "hu": [
+              "A naplemente 17:30 körül van.",
+              "A déli órák ideálisak fotózáshoz.",
+              "Viseljen könnyű kabátot.",
+              "Kóstolja meg a churros-t a központban.",
+              "Látogassa meg a betlehemeket."
+            ],
+            "ro": [
+              "Apusul soarelui este la 17:30.",
+              "Orele prânzului sunt ideale pentru poze.",
+              "Purtați o jachetă ușoară.",
+              "Gustați churros în centru.",
+              "Vizitați ieslele de Crăciun."
+            ],
+            "en": [
+              "Sunset is around 17:30.",
+              "Midday hours are ideal for photos.",
+              "Wear a light jacket.",
+              "Enjoy churros in the old town.",
+              "Visit the Christmas nativity scenes."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -646,6 +872,232 @@
           "Be prepared to walk your bike in some of the narrowest historic streets.",
           "Always use a secure lock when visiting museums and sights."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgen: Vorsichtig zur Masia Freixa radeln. Das mNACTEC bietet danach eine lange, trockene Pause für Radfahrer. \n\nMittag: Nach dem Marktbesuch führt die Route zur Casa Alegre, wo Sie die Räder sicher abstellen können. \n\nNachmittag: Die Fahrt durch den Vallparadís-Park erfordert auf nassen Wegen volle Konzentration. \n\nAbend: Ein kurzer Sprint zur Seu d'Ègara schließt den Tag ab, bevor Sie sich im Warmen entspannen.",
+            "hu": "Reggel: Tekerjen óvatosan a Masia Freixához. A mNACTEC hosszú, száraz pihenőt kínál. \n\nDélben: A piaci látogatás után a Casa Alegre-hez megyünk, ahol biztonságban hagyhatja a gépet. \n\nDélután: A Vallparadís parkon átvezető út koncentrációt igényel a vizes aszfalton. \n\nEste: Egy rövid sprint a Seu d'Ègara-hoz zárja a napot, mielőtt a melegben megpihenne.",
+            "ro": "Dimineața: Pedalați cu prudență spre Masia Freixa. mNACTEC oferă o pauză lungă și uscată. \n\nPrânz: După vizita la piață, mergem la Casa Alegre, unde puteți lăsa bicicleta în siguranță. \n\nDupă-amiaza: Călătoria prin parcul Vallparadís pe drumuri umede necesită concentrare. \n\nSeara: Un sprint scurt până la Seu d'Ègara încheie ziua înainte de a vă relaxa la căldură.",
+            "en": "Morning: Cycle cautiously to Masia Freixa. mNACTEC then offers a long, dry break for cyclists. \n\nMidday: After visiting the market, the route leads to Casa Alegre, where you can park your bikes safely. \n\nAfternoon: Riding through Vallparadís Park requires concentration on wet paths. \n\nEvening: A short sprint to Seu d'Ègara concludes the day before you relax in the warmth."
+          },
+          "stops": [
+            {
+              "name": "Masia Freixa",
+              "tip_5lang": {
+                "de": "Vorsicht vor rutschigen Fliesen.",
+                "hu": "Vigyázzon a csúszós csempékkel.",
+                "ro": "Atenție la plăcile alunecoase.",
+                "en": "Watch out for slippery tiles."
+              }
+            },
+            {
+              "name": "mNACTEC",
+              "tip_5lang": {
+                "de": "Fahrradständer direkt am Eingang.",
+                "hu": "Kerékpártárolók a bejáratnál.",
+                "ro": "Rasteluri chiar la intrare.",
+                "en": "Bike racks right at the entrance."
+              }
+            },
+            {
+              "name": "Mercat de la Independència",
+              "tip_5lang": {
+                "de": "Rad parken und Markt genießen.",
+                "hu": "Parkoljon le, és élvezze a piacot.",
+                "ro": "Parcați și bucurați-vă de piață.",
+                "en": "Park your bike and enjoy the market."
+              }
+            },
+            {
+              "name": "Casa Alegre de Sagrera",
+              "tip_5lang": {
+                "de": "Zeit im Inneren zum Aufwärmen nutzen.",
+                "hu": "Használja a benti időt melegedésre.",
+                "ro": "Timp în interior pentru căldură.",
+                "en": "Use the time inside to warm up."
+              }
+            },
+            {
+              "name": "Torre del Palau",
+              "tip_5lang": {
+                "de": "Vorsicht auf Kopfsteinpflaster.",
+                "hu": "Vigyázzon a macskaköveken.",
+                "ro": "Atenție pe piatra cubică.",
+                "en": "Be careful on the cobblestones."
+              }
+            },
+            {
+              "name": "Castell de Vallparadís",
+              "tip_5lang": {
+                "de": "Wege können Pfützen bilden.",
+                "hu": "Az utakon tócsák lehetnek.",
+                "ro": "Potecile pot avea bălți.",
+                "en": "Paths may form puddles."
+              }
+            },
+            {
+              "name": "Parc de Vallparadís",
+              "tip_5lang": {
+                "de": "Langsam fahren; Laub ist rutschig.",
+                "hu": "Hajtson lassan, a levél csúszik.",
+                "ro": "Mergeți încet, frunzele alunecă.",
+                "en": "Ride slowly; leaves are slippery."
+              }
+            },
+            {
+              "name": "Seu d'Ègara",
+              "tip_5lang": {
+                "de": "Rad im Sichtbereich abstellen.",
+                "hu": "Hagyja a gépet látótávolságban.",
+                "ro": "Lăsați bicicleta la vedere.",
+                "en": "Park your bike within sight."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Bremsen auf Markierungen vermeiden.",
+              "Wasserdichte Taschen nutzen.",
+              "mNACTEC ideal für Regenpause.",
+              "Tunnel im Park nutzen.",
+              "Kette nach der Fahrt reinigen."
+            ],
+            "hu": [
+              "Kerülje a fékezést a festéseken.",
+              "Használjon vízálló táskákat.",
+              "mNACTEC ideális esőszünethez.",
+              "Használja a park alagútjait.",
+              "Tisztítsa meg a láncot utána."
+            ],
+            "ro": [
+              "Evitați frânarea pe marcaje.",
+              "Folosiți genți impermeabile.",
+              "mNACTEC ideal pentru pauză.",
+              "Folosiți tunelurile din parc.",
+              "Curățați lanțul după drum."
+            ],
+            "en": [
+              "Avoid braking on road markings.",
+              "Use waterproof panniers.",
+              "mNACTEC is ideal for a rain break.",
+              "Use the tunnels in the park.",
+              "Clean your chain after the ride."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgen: Starten Sie bei kühlen Temperaturen an der Masia Freixa. Die Bewegung hält Sie warm. \n\nMittag: Nach dem mNACTEC-Besuch radeln Sie zum Markt für warme Snacks. \n\nNachmittag: Die Wintersonne im Park ist perfekt für eine zügige Fahrt, bevor es dunkel wird. \n\nAbend: Ein letzter Besuch der Seu d'Ègara, dann schnell zurück, bevor die Abendkälte einsetzt.",
+            "hu": "Reggel: Induljon hűvös időben a Masia Freixától. A mozgás melegen tartja. \n\nDélben: A mNACTEC után tekerjen a piacra meleg falatokért. \n\nDélután: A téli nap a parkban tökéletes egy tempós tekeréshez sötétedés előtt. \n\nEste: Utolsó látogatás a Seu d'Ègara-hoz, majd vissza az esti fagy előtt.",
+            "ro": "Dimineața: Plecare pe frig de la Masia Freixa. Mișcarea vă ține cald. \n\nPrânz: După mNACTEC spre piață pentru gustări calde. \n\nDupă-amiaza: Soare de iarnă în parc, perfect înainte de întuneric. \n\nSeara: Ultima vizită la Seu d'Ègara, apoi înapoi înainte de frig.",
+            "en": "Morning: Start in cool temperatures at Masia Freixa. Movement keeps you warm. \n\nMidday: After visiting mNACTEC, cycle to the market for warm snacks. \n\nAfternoon: The winter sun in the park is perfect for a brisk ride before dark. \n\nEvening: One last visit to Seu d'Ègara, then back quickly before the evening chill."
+          },
+          "stops": [
+            {
+              "name": "Masia Freixa",
+              "tip_5lang": {
+                "de": "Warme Handschuhe tragen.",
+                "hu": "Viseljen meleg kesztyűt.",
+                "ro": "Purtați mănuși călduroase.",
+                "en": "Wear warm gloves."
+              }
+            },
+            {
+              "name": "mNACTEC",
+              "tip_5lang": {
+                "de": "Museum zum Aufwärmen nutzen.",
+                "hu": "Használja a múzeumot melegedésre.",
+                "ro": "Folosiți muzeul pentru încălzire.",
+                "en": "Use the museum to warm up."
+              }
+            },
+            {
+              "name": "Mercat de la Independència",
+              "tip_5lang": {
+                "de": "Heißer Kaffee gegen die Kälte.",
+                "hu": "Forró kávé a hideg ellen.",
+                "ro": "O cafea fierbinte contra frigului.",
+                "en": "Hot coffee works against the cold."
+              }
+            },
+            {
+              "name": "Casa Alegre de Sagrera",
+              "tip_5lang": {
+                "de": "Sonne scheint mittags auf Fassade.",
+                "hu": "A nap délben a homlokzatra süt.",
+                "ro": "Soarele bate pe fațadă la prânz.",
+                "en": "Sun shines on the facade at noon."
+              }
+            },
+            {
+              "name": "Torre del Palau",
+              "tip_5lang": {
+                "de": "Klare Fernsicht im Winter.",
+                "hu": "Tiszta kilátás télen.",
+                "ro": "Vizibilitate clară iarna.",
+                "en": "Clear distant views in winter."
+              }
+            },
+            {
+              "name": "Castell de Vallparadís",
+              "tip_5lang": {
+                "de": "Besuch vor 16 Uhr planen.",
+                "hu": "Tervezze a látogatást 16 óra elé.",
+                "ro": "Vizitați înainte de ora 16.",
+                "en": "Plan your visit before 4 PM."
+              }
+            },
+            {
+              "name": "Parc de Vallparadís",
+              "tip_5lang": {
+                "de": "Beleuchtung prüfen.",
+                "hu": "Ellenőrizze a világítást.",
+                "ro": "Verificați luminile.",
+                "en": "Check your lights."
+              }
+            },
+            {
+              "name": "Seu d'Ègara",
+              "tip_5lang": {
+                "de": "Stimmungsvoll in blauer Stunde.",
+                "hu": "Hangulatos a kék órában.",
+                "ro": "Atmosferic în ora albastră.",
+                "en": "Atmospheric in the blue hour."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Sonnenbrille nutzen.",
+              "Winddichte Kleidung tragen.",
+              "Licht ab 17 Uhr zwingend.",
+              "Parkwege meist trocken.",
+              "Heißer Tee empfohlen."
+            ],
+            "hu": [
+              "Használjon napszemüveget.",
+              "Szélálló ruhát viseljen.",
+              "Lámpa 17 órától kötelező.",
+              "Park útjai többnyire szárazak.",
+              "Forró tea ajánlott."
+            ],
+            "ro": [
+              "Folosiți ochelari de soare.",
+              "Haine rezistente la vânt.",
+              "Lumina obligatorie de la 17.",
+              "Poteci de obicei uscate.",
+              "Ceai fierbinte recomandat."
+            ],
+            "en": [
+              "Use sunglasses.",
+              "Wear windproof clothing.",
+              "Lights mandatory after 5 PM.",
+              "Park paths usually dry.",
+              "Hot tea recommended."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -958,6 +1410,232 @@
           "Within each cluster, exploring on foot is the easiest and most rewarding way.",
           "Pay attention to the network of one-way streets in the old town."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgen: Direkt zur Masia Freixa fahren. Dank Parkplätzen bleiben Sie trocken. \n\nMittag: Nutzen Sie Parkhäuser im Zentrum für mNACTEC und den Markt. \n\nNachmittag: Das Auto bringt Sie bequem zum Castell, ohne lange Wege im Regen. \n\nAbend: Ein kurzer Hopser zur Seu d'Ègara beendet die Tour komfortabel und geschützt.",
+            "hu": "Reggel: Hajtson a Masia Freixához. A közeli parkolók szárazon tartják. \n\nDélben: Belvárosi parkolóházak a mNACTEC-hez és a piachoz. \n\nDélután: Az autó kényelmesen a várba viszi esős séták nélkül. \n\nEste: Rövid autózás a Seu d'Ègara-hoz kényelmesen és védve zárja a napot.",
+            "ro": "Dimineața: Conduceți la Masia Freixa. Parcările vă țin uscat. \n\nPrânz: Parcare centrală pentru mNACTEC și piață. \n\nDupă-amiaza: Mașina vă duce la castel fără plimbări în ploaie. \n\nSeara: O scurtă deplasare la Seu d'Ègara încheie ziua confortabil.",
+            "en": "Morning: Drive to Masia Freixa. Nearby parking keeps you dry. \n\nMidday: Use parking garages for mNACTEC and the market. \n\nAfternoon: The car takes you to the castle without long rainy walks. \n\nEvening: A short hop to Seu d'Ègara ends the day comfortably and protected."
+          },
+          "stops": [
+            {
+              "name": "Masia Freixa",
+              "tip_5lang": {
+                "de": "Parken Carrer de Galileu.",
+                "hu": "Parkolás a Galileu utcán.",
+                "ro": "Parcare pe Carrer de Galileu.",
+                "en": "Parking on Carrer de Galileu."
+              }
+            },
+            {
+              "name": "mNACTEC",
+              "tip_5lang": {
+                "de": "SABA-Parkhaus Progrés nutzen.",
+                "hu": "Progrés SABA parkoló.",
+                "ro": "Parcare SABA Progrés.",
+                "en": "Use SABA Progrés parking."
+              }
+            },
+            {
+              "name": "Mercat de la Independència",
+              "tip_5lang": {
+                "de": "Kurze Wege in die Halle.",
+                "hu": "Rövid út a csarnokba.",
+                "ro": "Drum scurt spre hală.",
+                "en": "Short path into the hall."
+              }
+            },
+            {
+              "name": "Casa Alegre de Sagrera",
+              "tip_5lang": {
+                "de": "Zentral parken.",
+                "hu": "Parkoljon központilag.",
+                "ro": "Parcați central.",
+                "en": "Park centrally."
+              }
+            },
+            {
+              "name": "Parc de Vallparadís",
+              "tip_5lang": {
+                "de": "Nicht unter Bäumen parken.",
+                "hu": "Ne parkoljon fák alatt.",
+                "ro": "Nu parcați sub copaci.",
+                "en": "Do not park under trees."
+              }
+            },
+            {
+              "name": "Castell de Vallparadís",
+              "tip_5lang": {
+                "de": "Parken oberhalb des Schlosses.",
+                "hu": "Parkolás a vár felett.",
+                "ro": "Parcare deasupra castelului.",
+                "en": "Parking above the castle."
+              }
+            },
+            {
+              "name": "Torre del Palau",
+              "tip_5lang": {
+                "de": "Zentrum teils Fußgängerzone.",
+                "hu": "A központ részben sétáló.",
+                "ro": "Centru parțial pietonal.",
+                "en": "Center partly pedestrianized."
+              }
+            },
+            {
+              "name": "Seu d'Ègara",
+              "tip_5lang": {
+                "de": "Parkplatz direkt davor.",
+                "hu": "Parkoló közvetlenül előtte.",
+                "ro": "Parcare chiar în față.",
+                "en": "Parking right in front."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "SABA-App nutzen.",
+              "Sicht bei Regen eingeschränkt.",
+              "Parkhäuser schnell belegt.",
+              "mNACTEC kein eigenes Parkhaus.",
+              "Einbahnstraßen beachten."
+            ],
+            "hu": [
+              "SABA app segít.",
+              "Esőben korlátozott látás.",
+              "A parkolók hamar megtelnek.",
+              "mNACTEC-nek nincs parkolója.",
+              "Ügyeljen az egyirányúakra."
+            ],
+            "ro": [
+              "Utilizați SABA app.",
+              "Vizibilitate redusă pe ploaie.",
+              "Parcările se umplu rapid.",
+              "mNACTEC nu are parcare.",
+              "Atenție la sensuri unice."
+            ],
+            "en": [
+              "Use the SABA app.",
+              "Visibility limited in rain.",
+              "Parking garages fill up fast.",
+              "mNACTEC has no own parking.",
+              "Watch for one-way streets."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgen: Entspannt an der Masia Freixa starten. Autoheizung wärmt. \n\nMittag: mNACTEC und Markt ohne Kälte besuchen. \n\nNachmittag: Fahrt zum Schloss ideal für weite Ausblicke. \n\nAbend: Seu d'Ègara in der Dämmerung stressfrei mit dem Auto.",
+            "hu": "Reggel: Kényelmes kezdés a Masia Freixánál fűtéssel. \n\nDélben: mNACTEC és piac hideg nélkül. \n\nDélután: Út a várhoz ideális a kilátáshoz. \n\nEste: Seu d'Ègara szürkületben autóval stresszmentes.",
+            "ro": "Dimineața: Start relaxat la Masia Freixa cu căldură. \n\nPrânz: mNACTEC și piața fără frig. \n\nDupă-amiaza: Drum spre castel ideal pentru vederi. \n\nSeara: Seu d'Ègara în amurg cu mașina.",
+            "en": "Morning: Relaxed start at Masia Freixa with heating. \n\nMidday: mNACTEC and market without the cold. \n\nAfternoon: Drive to the castle ideal for views. \n\nEvening: Seu d'Ègara at twilight by car."
+          },
+          "stops": [
+            {
+              "name": "Masia Freixa",
+              "tip_5lang": {
+                "de": "Blick aus dem warmen Auto.",
+                "hu": "Látvány a meleg autóból.",
+                "ro": "Vedere din mașina caldă.",
+                "en": "View from the warm car."
+              }
+            },
+            {
+              "name": "mNACTEC",
+              "tip_5lang": {
+                "de": "Parkhaus 2 Min. weg.",
+                "hu": "Parkoló 2 percre.",
+                "ro": "Parcare la 2 min.",
+                "en": "Parking 2 min away."
+              }
+            },
+            {
+              "name": "Mercat de la Independència",
+              "tip_5lang": {
+                "de": "Halle angenehm temperiert.",
+                "hu": "Kellemes a hőmérséklet.",
+                "ro": "Temperatură plăcută în hală.",
+                "en": "Pleasant temperature in hall."
+              }
+            },
+            {
+              "name": "Casa Alegre de Sagrera",
+              "tip_5lang": {
+                "de": "Zentral parken.",
+                "hu": "Parkoljon központilag.",
+                "ro": "Parcați central.",
+                "en": "Park centrally."
+              }
+            },
+            {
+              "name": "Parc de Vallparadís",
+              "tip_5lang": {
+                "de": "Gute Sicht vom Parkende.",
+                "hu": "Jó kilátás a park végéből.",
+                "ro": "Vedere bună din capătul parcului.",
+                "en": "Good view from park end."
+              }
+            },
+            {
+              "name": "Castell de Vallparadís",
+              "tip_5lang": {
+                "de": "Ideal für Winterlicht-Fotos.",
+                "hu": "Ideális téli fotókhoz.",
+                "ro": "Ideal pentru poze de iarnă.",
+                "en": "Ideal for winter photos."
+              }
+            },
+            {
+              "name": "Torre del Palau",
+              "tip_5lang": {
+                "de": "Außerhalb blauer Zone parken.",
+                "hu": "Parkoljon kék zónán kívül.",
+                "ro": "Parcați în afara zonei albastre.",
+                "en": "Park outside blue zone."
+              }
+            },
+            {
+              "name": "Seu d'Ègara",
+              "tip_5lang": {
+                "de": "Heizung auf Rückweg genießen.",
+                "hu": "Fűtés a visszaúton.",
+                "ro": "Căldură la întoarcere.",
+                "en": "Enjoy heating on return."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Frost am Morgen möglich.",
+              "SABA schützt vor Regen.",
+              "Fernsicht am besten.",
+              "Auto für Kleiderwechsel.",
+              "Reifendruck prüfen."
+            ],
+            "hu": [
+              "Reggeli fagy lehet.",
+              "SABA véd az esőtől.",
+              "Kilátás most a legjobb.",
+              "Autó ruhacseréhez.",
+              "Guminyomást ellenőrizze."
+            ],
+            "ro": [
+              "Posibil îngheț dimineața.",
+              "SABA protejează de ploaie.",
+              "Vizibilitate optimă.",
+              "Mașină pentru schimbat haine.",
+              "Verificați presiunea."
+            ],
+            "en": [
+              "Morning frost possible.",
+              "SABA protects from rain.",
+              "Views are clearest now.",
+              "Car for changing clothes.",
+              "Check tire pressure."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1250,6 +1928,232 @@
           "FGC trains are not only good for arriving from Barcelona, but also for getting around.",
           "Consider a day pass (T-Dia) if you plan on hopping on and off frequently."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgen: FGC-Bahn bis Terrassa Rambla nutzen. Trocken zur Masia Freixa. \n\nMittag: Busse verbinden mNACTEC-Markt; kaum Regenstehen. \n\nNachmittag: Station Vallparadís direkt zum Park. \n\nAbend: Bus zur Seu d'Ègara und zurück Bahnhof.",
+            "hu": "Reggel: FGC vonat Terrassa Rambla-ig. Szárazon a Masia Freixához. \n\nDélben: Buszok mNACTEC és piac között eső nélkül. \n\nDélután: Vallparadís állomás közvetlenül a parkhoz. \n\nEste: Busz a Seu d'Ègara-hoz és vissza.",
+            "ro": "Dimineața: Tren FGC la Terrassa Rambla. Uscat la Masia Freixa. \n\nPrânz: Autobuz între mNACTEC și piață. \n\nDupă-amiaza: Stația Vallparadís direct la parc. \n\nSeara: Autobuz la Seu d'Ègara și retur.",
+            "en": "Morning: FGC train to Terrassa Rambla. Dry to Masia Freixa. \n\nMidday: Buses between mNACTEC and market. \n\nAfternoon: Vallparadís station directly to the park. \n\nEvening: Bus to Seu d'Ègara and back."
+          },
+          "stops": [
+            {
+              "name": "Masia Freixa",
+              "tip_5lang": {
+                "de": "5 Min. von Terrassa Rambla.",
+                "hu": "5 percre Terrassa Rambla-tól.",
+                "ro": "5 min de Terrassa Rambla.",
+                "en": "5 min from Terrassa Rambla."
+              }
+            },
+            {
+              "name": "mNACTEC",
+              "tip_5lang": {
+                "de": "Bus L1 oder L5 nutzen.",
+                "hu": "L1 vagy L5 busz.",
+                "ro": "Autobuz L1 sau L5.",
+                "en": "Use bus L1 or L5."
+              }
+            },
+            {
+              "name": "Mercat de la Independència",
+              "tip_5lang": {
+                "de": "Direkt an der Busroute.",
+                "hu": "Közvetlenül a buszvonalon.",
+                "ro": "Direct pe ruta autobuzului.",
+                "en": "Directly on bus route."
+              }
+            },
+            {
+              "name": "Casa Alegre de Sagrera",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen Stopps.",
+                "hu": "Rövid utak a megállók közt.",
+                "ro": "Distanțe scurte între stații.",
+                "en": "Short paths between stops."
+              }
+            },
+            {
+              "name": "Torre del Palau",
+              "tip_5lang": {
+                "de": "Im Café auf Bus warten.",
+                "hu": "Várja a buszt kávézóban.",
+                "ro": "Așteptați în cafenea.",
+                "en": "Wait for bus in a café."
+              }
+            },
+            {
+              "name": "Parc de Vallparadís",
+              "tip_5lang": {
+                "de": "FGC-Station bietet Schutz.",
+                "hu": "FGC állomás védelmet nyújt.",
+                "ro": "Stația FGC oferă protecție.",
+                "en": "FGC station offers shelter."
+              }
+            },
+            {
+              "name": "Castell de Vallparadís",
+              "tip_5lang": {
+                "de": "Metro-Aufzug nutzen.",
+                "hu": "Használja a metróliftet.",
+                "ro": "Folosiți liftul de metrou.",
+                "en": "Use the metro elevator."
+              }
+            },
+            {
+              "name": "Seu d'Ègara",
+              "tip_5lang": {
+                "de": "Bus L1 hält fast vor Tor.",
+                "hu": "L1 szinte a kapuban áll meg.",
+                "ro": "L1 oprește aproape la poartă.",
+                "en": "L1 stops almost at gate."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "T-Mobilitat App nutzen.",
+              "Stationen sind unterirdisch.",
+              "Leichte Bus-Verspätungen.",
+              "Tagesticket lohnt sich.",
+              "In Stationen warten."
+            ],
+            "hu": [
+              "T-Mobilitat app segít.",
+              "Az állomások földalattiak.",
+              "Kisebb buszkésések.",
+              "Megéri a napijegy.",
+              "Állomásokon várjon."
+            ],
+            "ro": [
+              "Aplicația T-Mobilitat ajută.",
+              "Stațiile sunt subterane.",
+              "Mici întârzieri la autobuz.",
+              "Biletul de o zi merită.",
+              "Așteptați în stații."
+            ],
+            "en": [
+              "Use T-Mobilitat app.",
+              "Stations are underground.",
+              "Slight bus delays in rain.",
+              "Day ticket is worth it.",
+              "Wait inside stations."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgen: In beheizten Zügen starten. Warmer Beginn. \n\nMittag: Busse schnell mNACTEC-Markt ohne Kälte. \n\nAfternoon: Station Vallparadís warmer Hub. \n\nAbend: ÖPNV für bequemen Rückweg.",
+            "hu": "Reggel: fűtött vonatokkal kezdés. Meleg indulás. \n\nDélben: Buszok mNACTEC és piac között hideg nélkül. \n\nDélután: Vallparadís állomás meleg központ. \n\nEste: Tömegközlekedés a kényelmes visszaúthoz.",
+            "ro": "Dimineața: Start în trenuri încălzite. Început cald. \n\nPrânz: Autobuze între mNACTEC și piață fără frig. \n\nDupă-amiaza: Stația Vallparadís nod cald. \n\nSeara: Transport public pentru retur.",
+            "en": "Morning: Start in heated trains. Warm beginning. \n\nMidday: Buses between mNACTEC and market without cold. \n\nAfternoon: Vallparadís station warm hub. \n\nEvening: Public transit for easy return."
+          },
+          "stops": [
+            {
+              "name": "Masia Freixa",
+              "tip_5lang": {
+                "de": "Bahnstation schützt vor Wind.",
+                "hu": "Állomás véd a széltől.",
+                "ro": "Gara protejează de vânt.",
+                "en": "Station protects from wind."
+              }
+            },
+            {
+              "name": "mNACTEC",
+              "tip_5lang": {
+                "de": "Busse gut beheizt.",
+                "hu": "Jól fűtött buszok.",
+                "ro": "Autobuze bine încălzite.",
+                "en": "Well-heated buses."
+              }
+            },
+            {
+              "name": "Mercat de la Independència",
+              "tip_5lang": {
+                "de": "Kurzer Weg ins Warme.",
+                "hu": "Rövid út a melegbe.",
+                "ro": "Drum scurt la căldură.",
+                "en": "Short path into warmth."
+              }
+            },
+            {
+              "name": "Casa Alegre de Sagrera",
+              "tip_5lang": {
+                "de": "Bus spart Energie.",
+                "hu": "Busz energiát spórol.",
+                "ro": "Autobuzul economisește.",
+                "en": "Bus saves energy."
+              }
+            },
+            {
+              "name": "Torre del Palau",
+              "tip_5lang": {
+                "de": "Kurze Wartezeiten.",
+                "hu": "Rövid várakozás.",
+                "ro": "Așteptare scurtă.",
+                "en": "Short waiting times."
+              }
+            },
+            {
+              "name": "Parc de Vallparadís",
+              "tip_5lang": {
+                "de": "Unterirdische Station warm.",
+                "hu": "Földalatti állomás meleg.",
+                "ro": "Stație subterană caldă.",
+                "en": "Underground station warm."
+              }
+            },
+            {
+              "name": "Castell de Vallparadís",
+              "tip_5lang": {
+                "de": "Zugige Stopps meiden.",
+                "hu": "Huzatos helyek kerülése.",
+                "ro": "Evitați stațiile cu curent.",
+                "en": "Avoid draughty stops."
+              }
+            },
+            {
+              "name": "Seu d'Ègara",
+              "tip_5lang": {
+                "de": "Menetrend ellenőrzése.",
+                "hu": "Menetrend ellenőrzése.",
+                "ro": "Verificați orarul.",
+                "en": "Check the schedule."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterplan regulär.",
+              "WLAN in Stationen.",
+              "Heizung nutzen.",
+              "17:30 Uhr dunkel.",
+              "Tickets am Automaten."
+            ],
+            "hu": [
+              "Téli menetrend rendes.",
+              "Wi-Fi az állomásokon.",
+              "Fűtés melegedéshez.",
+              "17:30-kor sötét.",
+              "Jegy az automatából."
+            ],
+            "ro": [
+              "Orar de iarnă normal.",
+              "Wi-Fi în stații.",
+              "Încălzire pentru confort.",
+              "Întuneric la 17:30.",
+              "Bilete la automat."
+            ],
+            "en": [
+              "Regular winter schedule.",
+              "Wi-Fi in stations.",
+              "Heating for warming up.",
+              "Dark at 17:30.",
+              "Tickets at machines."
+            ]
+          }
+        }
       }
     }
   }

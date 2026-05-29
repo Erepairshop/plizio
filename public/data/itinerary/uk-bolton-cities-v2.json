@@ -306,6 +306,188 @@
           "Check museum opening times in advance.",
           "Bolton is hilly, so be prepared for some inclines."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Vormittag am Le Mans Crescent bietet dank der Bogengänge guten Schutz vor dem typischen Lancashire-Regen, während Sie die neoklassizistische Architektur bewundern. Das Museum ist der ideale Zufluchtsort für die Mittagsstunden.\n\nAm Nachmittag führt ein kurzer, nasser Sprint zur Statue von Fred Dibnah. Danach trocknen Sie im Ye Olde Man & Scythe bei einem lokalen Ale und historischem Ambiente.\n\nDer Abend im Queen's Park ist trotz Pfützen stimmungsvoll. Die befestigten Wege halten Ihre Schuhe halbwegs trocken, während der Nebel über den See zieht.",
+            "hu": "A délelőtt a Le Mans Crescent árkádjai alatt védelmet nyújt a Lancashire-i eső elől, miközben a neoklasszicista építészetet csodáljuk. A múzeum tökéletes menedék a déli órákra.\n\nDélután egy gyors sprint következik Fred Dibnah szobrához az esőben. Ezután a Ye Olde Man & Scythe pubban száradhatunk meg egy helyi sör és a történelmi falak társaságában.\n\nAz este a Queen's Parkban a tó feletti köd miatt különleges hangulatú. A szilárd burkolatú utak segítenek elkerülni a sarat, így a séta esőben is kivitelezhető.",
+            "ro": "Dimineața la Le Mans Crescent oferă adăpost sub arcadele sale în fața ploii tipice din Lancashire. Muzeul și Galeria de Artă sunt refugiul ideal pentru orele prânzului.\n\nDupă-amiaza implică un sprint scurt prin ploaie până la statuia lui Fred Dibnah. Vă puteți usca apoi în Ye Olde Man & Scythe, savurând o bere locală într-o ambianță istorică.\n\nSeara în Queen's Park este atmosferică în ciuda bălților. Aleile pavate vă păstrează încălțămintea curată în timp ce ceața se ridică deasupra lacului.",
+            "en": "The morning at Le Mans Crescent offers good shelter under its colonnades from the typical Lancashire rain. The museum is the perfect indoor sanctuary for the midday hours.\n\nIn the afternoon, a quick damp sprint leads to the Fred Dibnah statue. Dry off afterwards in Ye Olde Man & Scythe with a local ale and 13th-century atmosphere.\n\nEvening in Queen's Park is atmospheric despite the puddles. The paved paths keep your shoes relatively dry while the mist rolls over the lake."
+          },
+          "stops": [
+            {
+              "name": "Le Mans Crescent",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Bogengänge als Regenschutz.",
+                "hu": "Használja az árkádokat esővédőként.",
+                "ro": "Folosiți arcadele pentru protecție contra ploii.",
+                "en": "Use the colonnades for rain protection."
+              }
+            },
+            {
+              "name": "Bolton Museum & Art Gallery",
+              "tip_5lang": {
+                "de": "Perfekt für ausgiebige Indoor-Erkundungen.",
+                "hu": "Ideális hosszú benti program az esőben.",
+                "ro": "Perfect pentru explorare în interior.",
+                "en": "Perfect for extensive indoor exploration."
+              }
+            },
+            {
+              "name": "Bolton Town Hall",
+              "tip_5lang": {
+                "de": "Der imposante Portikus bietet kurzzeitig Schutz.",
+                "hu": "Az impozáns oszlopcsarnok rövid menedéket ad.",
+                "ro": "Porticul impunător oferă adăpost temporar.",
+                "en": "The grand portico offers temporary shelter."
+              }
+            },
+            {
+              "name": "Fred Dibnah Statue",
+              "tip_5lang": {
+                "de": "Vorsicht vor tiefen Pfützen am Sockel.",
+                "hu": "Vigyázat, mély tócsák a talapzatnál.",
+                "ro": "Atenție la bălțile adânci de lângă soclu.",
+                "en": "Watch out for deep puddles near the base."
+              }
+            },
+            {
+              "name": "Ye Olde Man & Scythe",
+              "tip_5lang": {
+                "de": "Bester Ort zum Aufwärmen und Trocknen.",
+                "hu": "A legjobb hely a felmelegedésre és száradásra.",
+                "ro": "Cel mai bun loc pentru a vă încălzi.",
+                "en": "Best place to warm up and dry off."
+              }
+            },
+            {
+              "name": "Queen's Park",
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den asphaltierten Hauptwegen.",
+                "hu": "Maradjon az aszfaltozott főutakon.",
+                "ro": "Rămâneți pe aleile principale asfaltate.",
+                "en": "Stick to the main asphalt paths."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Regenschirm ist in Bolton Pflicht.",
+              "Nutzen Sie die Passagen im Stadtzentrum zum Abkürzen.",
+              "Die Museumscafeteria ist ein guter Pausenort.",
+              "Tragen Sie wasserfeste Schuhe für den Parkbesuch."
+            ],
+            "hu": [
+              "Egy erős esernyő kötelező kellék Boltonban.",
+              "Használja a városközpont átjáróit rövidítésnek.",
+              "A múzeum kávézója kiváló pihenőhely esőben.",
+              "Viseljen vízálló cipőt a parki sétához."
+            ],
+            "ro": [
+              "O umbrelă rezistentă este obligatorie în Bolton.",
+              "Folosiți pasajele din centru pentru scurtături.",
+              "Cafeneaua muzeului este un loc bun de popas.",
+              "Purtați încălțăminte impermeabilă pentru parc."
+            ],
+            "en": [
+              "A sturdy umbrella is a must-have in Bolton.",
+              "Use town centre arcades for shortcuts.",
+              "The museum cafe is an excellent rainy day break.",
+              "Wear waterproof shoes for the park visit."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der frostige Morgen am Le Mans Crescent lässt die Sandsteinfassaden blass leuchten. Das Museum bietet danach wohlige Wärme und faszinierende Einblicke in die Ägyptologie, fernab der Kälte.\n\nMittags bestaunen wir das Rathaus unter dem tiefstehenden Winterlicht. Der Besuch bei Fred Dibnah ist kurz, bevor die historische Wärme des Ye Olde Man & Scythe lockt.\n\nDa die Sonne bereits vor 17:00 Uhr untergeht, bietet der Queen's Park ein dramatisches Dämmerungsschauspiel. Die kahlen Bäume geben den Blick auf die viktorianische Skyline frei.",
+            "hu": "A fagyos reggel a Le Mans Crescent homokkő homlokzatain pihen meg. A múzeum ezután kellemes meleget és lenyűgöző egyiptológiai kiállítást kínál, távol a téli hidegtől.\n\nDélben a Városházát csodáljuk az alacsonyan járó téli napfényben. Fred Dibnah szobra csak egy gyors megálló, mielőtt a Ye Olde Man & Scythe kandallója hívogatna.\n\nMivel a nap 17:00 előtt lemegy, a Queen's Park drámai szürkületi látványt nyújt. A kopasz fák közül jól látszanak a város viktoriánus épületeinek körvonalai.",
+            "ro": "Dimineața geroasă la Le Mans Crescent face fațadele de gresie să strălucească palid. Muzeul oferă apoi căldură și o incursiune fascinantă în egiptologie, departe de frig.\n\nLa prânz admirăm Primăria sub lumina joasă a soarelui de iarnă. Vizita la Fred Dibnah este scurtă înainte ca Ye Olde Man & Scythe să ne atragă cu atmosfera sa primitoare.\n\nDeoarece soarele apune înainte de ora 17:00, Queen's Park oferă un spectacol dramatic la amurg. Copacii desfrunziți permit o vedere clară asupra orizontului victorian.",
+            "en": "The frosty morning at Le Mans Crescent makes the sandstone facades glow palely. The museum provides cozy warmth and fascinating Egyptology insights away from the winter chill.\n\nAt noon, we admire the Town Hall under the low-hanging winter light. The stop at Fred Dibnah is brief before the historic warmth of Ye Olde Man & Scythe beckons.\n\nAs the sun sets before 5:00 PM, Queen's Park offers a dramatic twilight display. The bare trees open up views of the town's Victorian skyline."
+          },
+          "stops": [
+            {
+              "name": "Le Mans Crescent",
+              "tip_5lang": {
+                "de": "Vorsicht bei überfrorener Nässe auf dem Pflaster.",
+                "hu": "Vigyázat, a macskakő jeges lehet.",
+                "ro": "Atenție la poleiul de pe pavaj.",
+                "en": "Careful with black ice on the cobblestones."
+              }
+            },
+            {
+              "name": "Bolton Museum & Art Gallery",
+              "tip_5lang": {
+                "de": "Garderobe im Erdgeschoss für schwere Mäntel.",
+                "hu": "Ruhatár a földszinten a nehéz kabátoknak.",
+                "ro": "Garderobă la parter pentru hainele groase.",
+                "en": "Cloakroom available for heavy winter coats."
+              }
+            },
+            {
+              "name": "Bolton Town Hall",
+              "tip_5lang": {
+                "de": "Abends oft festlich beleuchtet.",
+                "hu": "Este gyakran ünnepi díszkivilágításban pompázik.",
+                "ro": "Adesea iluminată festiv în timpul serii.",
+                "en": "Often festively lit up in the evenings."
+              }
+            },
+            {
+              "name": "Fred Dibnah Statue",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp, bevor die Finger einfrieren.",
+                "hu": "Gyors fotó, mielőtt odafagyna az ujja.",
+                "ro": "Oprire rapidă pentru poze înainte de îngheț.",
+                "en": "Quick photo stop before your fingers freeze."
+              }
+            },
+            {
+              "name": "Ye Olde Man & Scythe",
+              "tip_5lang": {
+                "de": "Genießen Sie ein heißes Getränk am Kamin.",
+                "hu": "Élvezzen egy forró italt a kandallónál.",
+                "ro": "Savurați o băutură caldă lângă șemineu.",
+                "en": "Enjoy a hot drink by the fireplace."
+              }
+            },
+            {
+              "name": "Queen's Park",
+              "tip_5lang": {
+                "de": "Spaziergang vor dem frühen Sonnenuntergang.",
+                "hu": "Sétáljon még a korai naplemente előtt.",
+                "ro": "Plimbare înainte de apusul timpuriu.",
+                "en": "Walk before the early 4:30 PM sunset."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Handschuhe sind für Bolton essentiell.",
+              "Die Sonne versinkt im Winter bereits gegen 16:15.",
+              "Innenräume sind gut beheizt, Zwiebelprinzip hilft.",
+              "Planen Sie den Parkbesuch als Erstes oder Letztes."
+            ],
+            "hu": [
+              "A meleg kesztyű alapfeltétel Boltonban.",
+              "A nap télen már 16:15 körül lemegy.",
+              "A benti helyek fűtöttek, a réteges öltözet segít.",
+              "A parklátogatást tervezze a nap világos részére."
+            ],
+            "ro": [
+              "Mănușile călduroase sunt esențiale în Bolton.",
+              "Soarele apune deja în jur de ora 16:15 iarna.",
+              "Spațiile interioare sunt bine încălzite.",
+              "Planificați vizita în parc cât încă e lumină."
+            ],
+            "en": [
+              "Warm gloves are essential for Bolton winters.",
+              "The sun sets as early as 4:15 PM in winter.",
+              "Indoor venues are well-heated; use layers.",
+              "Plan the park visit during the limited daylight."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -606,6 +788,188 @@
           "Some parts of the route can be hilly.",
           "Always lock your bike securely in designated areas."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Radfahren beginnt am Rathaus auf nassem Asphalt. Im Museum parken wir die Räder sicher und nutzen die Zeit im Trockenen für die Ausstellungen.\n\nMittags geht es vorsichtig zum Ye Olde Man & Scythe. Der Weg zum Queen's Park erfordert volle Konzentration bei rutschigen Kurven auf dem Radweg.\n\nDer Nachmittag führt zu den historischen Hallen. Smithills Hall wirkt im Regen besonders mystisch, auch wenn die Anfahrt durch den Matsch im Park anstrengend sein kann.",
+            "hu": "A kerékpározás a Városházánál kezdődik a vizes aszfalton. A múzeumnál biztonságosan lezárjuk a bringákat, és kihasználjuk a száraz időt a kiállításokra.\n\nDélben óvatosan tekerünk a Ye Olde Man & Scythe felé. A Queen's Parkba vezető úton figyelni kell a csúszós kanyarokra a kerékpárúton.\n\nDélután a történelmi udvarházak felé vesszük az irányt. Smithills Hall az esőben különösen misztikus, még ha a sár miatt nehezebb is a feljutás.",
+            "ro": "Ciclismul începe la Primărie pe asfalt ud. La muzeu parcăm bicicletele în siguranță și profităm de timpul petrecut la interior pentru expoziții.\n\nLa prânz pedalăm cu atenție spre Ye Olde Man & Scythe. Drumul spre Queen's Park necesită concentrare maximă din cauza curbelor alunecoase.\n\nDupă-amiaza duce spre conacele istorice. Smithills Hall pare deosebit de mistic în ploaie, chiar dacă drumul prin noroi poate fi solicitant.",
+            "en": "Cycling begins at the Town Hall on wet asphalt. At the museum, we lock up the bikes and take refuge in the dry galleries.\n\nAt noon, we head cautiously to Ye Olde Man & Scythe. The route to Queen's Park requires full concentration on slippery cycle path corners.\n\nThe afternoon leads to the historic halls. Smithills Hall looks particularly mystical in the rain, even if the uphill ride through park mud is taxing."
+          },
+          "stops": [
+            {
+              "name": "Bolton Town Hall",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem glatten Pflaster am Platz.",
+                "hu": "Vigyázat a csúszós kövezeten a téren.",
+                "ro": "Atenție pe pavajul alunecos din piață.",
+                "en": "Caution on the slippery square paving."
+              }
+            },
+            {
+              "name": "Bolton Museum & Art Gallery",
+              "tip_5lang": {
+                "de": "Überdachte Fahrradständer in der Nähe.",
+                "hu": "Fedett biciklitárolók a közelben.",
+                "ro": "Suporturi de biciclete acoperite în apropiere.",
+                "en": "Covered bike racks available nearby."
+              }
+            },
+            {
+              "name": "Ye Olde Man & Scythe",
+              "tip_5lang": {
+                "de": "Räder im Blick behalten beim Aufwärmen.",
+                "hu": "Tartsa szemmel a gépet melegedés közben.",
+                "ro": "Supravegheați bicicleta în timp ce vă încălziți.",
+                "en": "Keep an eye on your bike while warming up."
+              }
+            },
+            {
+              "name": "Queen's Park",
+              "tip_5lang": {
+                "de": "Vorsicht bei Laub auf den Wegen.",
+                "hu": "Vigyázat a vizes levelekkel az utakon.",
+                "ro": "Atenție la frunzele ude de pe alei.",
+                "en": "Watch out for wet leaves on the paths."
+              }
+            },
+            {
+              "name": "Hall i' th' Wood",
+              "tip_5lang": {
+                "de": "Anfahrt über asphaltierte Straßen wählen.",
+                "hu": "Aszfaltozott úton közelítse meg.",
+                "ro": "Alegeți accesul pe drumuri asfaltate.",
+                "en": "Choose access via paved roads."
+              }
+            },
+            {
+              "name": "Smithills Hall",
+              "tip_5lang": {
+                "de": "Anstieg bei Nässe besonders kraftraubend.",
+                "hu": "A vizes emelkedő több erőt igényel.",
+                "ro": "Urcarea pe ploaie este solicitantă.",
+                "en": "The climb is more taxing in wet conditions."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind bei Regen unerlässlich.",
+              "Bremsen Sie auf Kopfsteinpflaster frühzeitig.",
+              "Nutzen Sie wasserfeste Packtaschen.",
+              "Beleuchtung auch tagsüber einschalten."
+            ],
+            "hu": [
+              "Sárvédő nélkül ne induljon el esőben.",
+              "A macskakövön fékezzen időben.",
+              "Használjon vízálló táskákat a felszereléshez.",
+              "Kapcsolja be a lámpákat nappal is."
+            ],
+            "ro": [
+              "Aripile de noroi sunt esențiale pe ploaie.",
+              "Frânați din timp pe zonele cu pavaj.",
+              "Folosiți genți de bicicletă impermeabile.",
+              "Aprindeți luminile și în timpul zilei."
+            ],
+            "en": [
+              "Mudguards are essential for Bolton rain.",
+              "Brake early on cobblestones and wet metal.",
+              "Use waterproof panniers for your gear.",
+              "Keep your lights on even during the day."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klirrend kalter Start am Rathaus. Die Pedale treten wir heute kräftiger, um warm zu bleiben, bevor das Museum als beheizte Pause dient.\n\nMittags ist das historische Zentrum Bolton ruhig. Das Ye Olde Man & Scythe bietet die nötige Energie für die längere Fahrt nach Norden.\n\nDie Fahrt zu den Tudor-Häusern Hall i' th' Wood und Smithills Hall ist bei winterlichem Licht wunderschön, aber kurz. Wir müssen das Tageslicht nutzen, um die Architektur sicher zu erreichen.",
+            "hu": "Dermesztő kezdés a Városházánál. Ma erősebben tekerünk, hogy melegen tartsuk magunkat, mielőtt a múzeum fűtött termeiben megpihennénk.\n\nDélben Bolton történelmi központja csendes. A Ye Olde Man & Scythe biztosítja a szükséges energiát az északi irányú hosszabb tekeréshez.\n\nA túra a Hall i' th' Wood és Smithills Hall Tudor-kori házaihoz gyönyörű a téli fényekben. Siessünk, hogy még világosban elérjük az úticélokat.",
+            "ro": "Un start sclipitor de rece la Primărie. Pedalăm mai energic astăzi pentru a ne încălzi înainte de pauza de la muzeu.\n\nLa prânz centrul istoric al Boltonului este liniștit. Ye Olde Man & Scythe oferă energia necesară pentru drumul mai lung spre nord.\n\nTraseul spre Hall i' th' Wood și Smithills Hall este superb în lumina de iarnă, dar scurt. Trebuie să profităm de lumina zilei pentru a pedala în siguranță.",
+            "en": "A biting cold start at the Town Hall. We pedal harder today to stay warm before the museum serves as a heated break.\n\nAt noon, Bolton's historic core is quiet. Ye Olde Man & Scythe provides the necessary fuel for the longer ride north.\n\nThe journey to Hall i' th' Wood and Smithills Hall is beautiful in the winter light, but short. We must use the daylight to reach the architecture safely."
+          },
+          "stops": [
+            {
+              "name": "Bolton Town Hall",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenem Kondenswasser.",
+                "hu": "Vigyázat a lefagyott párával az úton.",
+                "ro": "Atenție la condensul înghețat pe jos.",
+                "en": "Beware of frozen condensation on the road."
+              }
+            },
+            {
+              "name": "Bolton Museum & Art Gallery",
+              "tip_5lang": {
+                "de": "Fahrradschloss könnte einfrieren (Enteiser!).",
+                "hu": "A lakat befagyhat (használjon jégoldót!).",
+                "ro": "Antifurtul poate îngheța (folosiți degivrant!).",
+                "en": "Bike lock might freeze (keep de-icer handy)."
+              }
+            },
+            {
+              "name": "Ye Olde Man & Scythe",
+              "tip_5lang": {
+                "de": "Heißer Tee für die Weiterfahrt einpacken.",
+                "hu": "Kérjen forró teát az útra a kulacsba.",
+                "ro": "Luați un ceai cald la pachet pentru drum.",
+                "en": "Pack a hot tea for the rest of the ride."
+              }
+            },
+            {
+              "name": "Queen's Park",
+              "tip_5lang": {
+                "de": "Hauptwege sind oft gestreut.",
+                "hu": "A főutakat gyakran sózzák a parkban.",
+                "ro": "Aleile principale sunt adesea curățate.",
+                "en": "Main paths are usually gritted/salted."
+              }
+            },
+            {
+              "name": "Hall i' th' Wood",
+              "tip_5lang": {
+                "de": "Winddichte Kleidung für die Anfahrt nötig.",
+                "hu": "Szélálló ruházat kell az északi szakaszra.",
+                "ro": "Haine rezistente la vânt pentru drum.",
+                "en": "Windproof clothing needed for the open ride."
+              }
+            },
+            {
+              "name": "Smithills Hall",
+              "tip_5lang": {
+                "de": "Frühzeitige Rückfahrt vor der Dunkelheit.",
+                "hu": "Induljon vissza időben a sötétedés előtt.",
+                "ro": "Întoarceți-vă înainte de lăsarea întunericului.",
+                "en": "Return early before the darkness sets in."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Starke Beleuchtung ist ab 16:00 Pflicht.",
+              "Vermeiden Sie Waldwege bei Bodenfrost.",
+              "Tragen Sie Thermounterwäsche.",
+              "Achten Sie auf Streusalz (Fahrrad danach reinigen)."
+            ],
+            "hu": [
+              "16:00 után erős világítás kötelező.",
+              "Talajmenti fagynál kerülje az erdei utakat.",
+              "Viseljen termo alsóruházatot.",
+              "A sós hólétől tisztítsa meg a láncot a nap végén."
+            ],
+            "ro": [
+              "Iluminarea puternică este obligatorie după 16:00.",
+              "Evitați potecile de pădure dacă e îngheț.",
+              "Purtați lenjerie termică.",
+              "Curățați bicicleta de sarea de pe drumuri."
+            ],
+            "en": [
+              "Bright lights are mandatory after 4:00 PM.",
+              "Avoid unpaved park trails if ground is frozen.",
+              "Wear thermal base layers for the wind chill.",
+              "Wash your bike after to remove road salt."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -946,6 +1310,206 @@
           "A GPS is recommended for navigating between sites.",
           "Opening times for the historic halls can vary, so check before you set off."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Bequeme Anreise zum Zentrum, wo wir nahe dem Le Mans Crescent parken. Der Regen stört kaum, während wir zwischen den Museen und dem Rathaus pendeln.\n\nMittags geht es im trockenen Auto zum Ye Olde Man & Scythe. Die Fahrt zu den Herrenhäusern im Norden ist bei Regen entspannt, da die Parkplätze direkt vor Ort sind.\n\nDer Abschluss im Queen's Park ist kurz. Wir genießen den Blick auf den verregneten Park vom Auto aus oder unter einem großen Schirm am Seeufer.",
+            "hu": "Kényelmes érkezés a központba, parkolás a Le Mans Crescent közelében. Az eső nem zavaró, miközben a múzeum és a Városháza között ingázunk.\n\nDélben a száraz autóval megyünk a Ye Olde Man & Scythe-hoz. Az északi udvarházak felé tartó út esőben is nyugodt, mivel a parkolók közvetlenül a bejáratnál vannak.\n\nA Queen's Park-i zárás rövid. Élvezzük a kilátást az esős parkra az autóból, vagy egy nagy esernyő alatt a tóparton.",
+            "ro": "Sosire confortabilă în centru, cu parcare lângă Le Mans Crescent. Ploaia nu deranjează în timp ce ne deplasăm între muzee și Primărie.\n\nLa prânz mergem cu mașina spre Ye Olde Man & Scythe. Drumul spre conacele din nord este relaxant, deoarece parcările sunt chiar la intrare.\n\nFinalul în Queen's Park este scurt. Admirăm parcul ploios din mașină sau sub o umbrelă mare pe malul lacului.",
+            "en": "Comfortable arrival in the centre, parking near Le Mans Crescent. The rain is no bother as we move between the museum and the Town Hall.\n\nAt noon, we drive in the dry to Ye Olde Man & Scythe. The trip to the northern manor houses is relaxed in the rain, with parking right on-site.\n\nThe day ends briefly at Queen's Park. We enjoy the view of the rainy park from the car or under a large umbrella by the lake."
+          },
+          "stops": [
+            {
+              "name": "Arrive and Park in Centre",
+              "tip_5lang": {
+                "de": "Parkhaus 'Topp Way' ist gut überdacht.",
+                "hu": "A 'Topp Way' parkolóház jól fedett.",
+                "ro": "Parcarea Topp Way este bine acoperită.",
+                "en": "Topp Way NCP car park is well covered."
+              }
+            },
+            {
+              "name": "Town Hall & Le Mans Crescent",
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Portikus.",
+                "hu": "Parkoljon minél közelebb az oszlopcsarnokhoz.",
+                "ro": "Parcați cât mai aproape de portic.",
+                "en": "Park as close to the portico as possible."
+              }
+            },
+            {
+              "name": "Bolton Museum & Art Gallery",
+              "tip_5lang": {
+                "de": "Haupteingang über Le Mans Crescent nutzen.",
+                "hu": "A Le Mans Crescent felőli főbejáratot használja.",
+                "ro": "Folosiți intrarea principală dinspre Crescent.",
+                "en": "Use the main entrance via Le Mans Crescent."
+              }
+            },
+            {
+              "name": "Ye Olde Man & Scythe",
+              "tip_5lang": {
+                "de": "Parkplatz an der Churchgate nutzen.",
+                "hu": "Használja a Churchgate melletti parkolót.",
+                "ro": "Folosiți parcarea de pe Churchgate.",
+                "en": "Use the car park at Churchgate."
+              }
+            },
+            {
+              "name": "Smithills Hall",
+              "tip_5lang": {
+                "de": "Kostenlose Parkplätze direkt am Haus.",
+                "hu": "Ingyenes parkolás közvetlenül a háznál.",
+                "ro": "Parcare gratuită chiar lângă conac.",
+                "en": "Free parking directly at the hall."
+              }
+            },
+            {
+              "name": "Hall i' th' Wood",
+              "tip_5lang": {
+                "de": "Kleiner Parkplatz, oft nass und matschig.",
+                "hu": "Kis parkoló, gyakran vizes és sáros.",
+                "ro": "Parcare mică, adesea udă și noroioasă.",
+                "en": "Small car park, often wet and muddy."
+              }
+            },
+            {
+              "name": "Queen's Park",
+              "tip_5lang": {
+                "de": "Haupteingang-Parkplatz hat kurze Wege.",
+                "hu": "A főbejárati parkolótól rövid a séta.",
+                "ro": "Parcarea de la intrare are acces rapid.",
+                "en": "Main entrance car park has shortest walks."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Rechnen Sie mit Stau bei Regen in Bolton.",
+              "Topp Way NCP bietet trockenen Zugang zum Zentrum.",
+              "Nutzen Sie die Scheibenheizung für die Sicht.",
+              "Vermeiden Sie tiefere Wasseransammlungen am Rand."
+            ],
+            "hu": [
+              "Számoljon dugókkal esős időben.",
+              "A Topp Way NCP száraz utat biztosít a központba.",
+              "Használja a szélvédőfűtést a jó kilátáshoz.",
+              "Kerülje a mélyebb vízátfolyásokat az út szélén."
+            ],
+            "ro": [
+              "Anticipați traficul intens pe ploaie în Bolton.",
+              "Parcarea Topp Way oferă acces uscat spre centru.",
+              "Folosiți degivrarea pentru vizibilitate optimă.",
+              "Evitați bălțile mari de pe marginea drumului."
+            ],
+            "en": [
+              "Expect traffic delays in Bolton when raining.",
+              "Topp Way NCP provides dry access to centre.",
+              "Use window heating for optimal visibility.",
+              "Avoid deep puddles at the road edges."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Wir starten den winterlichen Tag mit einer warmen Fahrt ins Zentrum. Parken ist unkompliziert, und die Wege zwischen den historischen Gebäuden sind kurz.\n\nMittags wärmen wir uns im Ye Olde Man & Scythe auf, bevor wir die malerische Fahrt zu den Hallen im Norden antreten. Smithills Hall sieht bei Frost prächtig aus.\n\nDer späte Nachmittag im Queen's Park bietet die Chance, den Sonnenuntergang bequem vom Auto-Stellplatz aus zu beobachten, bevor die winterliche Dunkelheit Bolton einhüllt.",
+            "hu": "A téli napot meleg autóban indítjuk a központ felé. A parkolás egyszerű, a történelmi épületek közötti távolságok pedig rövidek.\n\nEbédnél a Ye Olde Man & Scythe-ban melegszünk fel, majd következik a festői autózás az északi udvarházakhoz. Smithills Hall pazar látvány zúzmarásan.\n\nA késő délután a Queen's Parkban lehetőséget ad a naplemente megtekintésére kényelmesen az autóból, mielőtt a téli sötétség beállna.",
+            "ro": "Începem ziua de iarnă cu o călătorie caldă spre centru. Parcarea este simplă, iar distanțele dintre clădirile istorice sunt scurte.\n\nLa prânz ne încălzim la Ye Olde Man & Scythe înainte de drumul pitoresc spre conacele din nord. Smithills Hall arată superb pe timp de îngheț.\n\nDupă-amiaza târzie în Queen's Park oferă șansa de a vedea apusul confortabil din parcare, înainte ca întunericul iernii să cuprindă Boltonul.",
+            "en": "We start the winter day with a warm drive into the centre. Parking is straightforward, and the walks between historic buildings are short.\n\nAt noon, we warm up at Ye Olde Man & Scythe before the scenic drive to the northern halls. Smithills Hall looks magnificent in the frost.\n\nLate afternoon at Queen's Park offers a chance to watch the sunset comfortably from the parking spot before winter darkness envelops Bolton."
+          },
+          "stops": [
+            {
+              "name": "Arrive and Park in Centre",
+              "tip_5lang": {
+                "de": "Parkdeck könnte morgens glatt sein.",
+                "hu": "A parkoló felső szintje reggel jeges lehet.",
+                "ro": "Nivelul superior al parcării poate fi alunecos.",
+                "en": "Upper car park deck might be icy in the morning."
+              }
+            },
+            {
+              "name": "Town Hall & Le Mans Crescent",
+              "tip_5lang": {
+                "de": "Vorsicht beim Aussteigen auf überfrorenes Pflaster.",
+                "hu": "Vigyázat kiszálláskor a jeges kövezetre.",
+                "ro": "Atenție la pavajul înghețat când coborâți.",
+                "en": "Watch for black ice on the stones when exiting."
+              }
+            },
+            {
+              "name": "Bolton Museum & Art Gallery",
+              "tip_5lang": {
+                "de": "Gut geheizt, perfekt zum Aufwärmen.",
+                "hu": "Jól fűtött, tökéletes a felmelegedésre.",
+                "ro": "Bine încălzit, perfect pentru dezmorțire.",
+                "en": "Well-heated, perfect for warming up."
+              }
+            },
+            {
+              "name": "Ye Olde Man & Scythe",
+              "tip_5lang": {
+                "de": "Parkplatzbeleuchtung ist im Winter wichtig.",
+                "hu": "A parkoló kivilágítása télen fontos szempont.",
+                "ro": "Iluminarea parcării este importantă iarna.",
+                "en": "Car park lighting is important in winter."
+              }
+            },
+            {
+              "name": "Smithills Hall",
+              "tip_5lang": {
+                "de": "Anfahrt über Smithills Dean Rd ist oft geräumt.",
+                "hu": "A Smithills Dean út általában takarítva van.",
+                "ro": "Drumul Smithills Dean este de obicei curățat.",
+                "en": "Smithills Dean Rd is usually well-gritted."
+              }
+            },
+            {
+              "name": "Hall i' th' Wood",
+              "tip_5lang": {
+                "de": "Parkplatz kann bei Frost sehr rutschig sein.",
+                "hu": "A parkoló fagyban nagyon csúszós lehet.",
+                "ro": "Parcarea poate fi foarte alunecoasă la îngheț.",
+                "en": "Car park can be very slippery during frost."
+              }
+            },
+            {
+              "name": "Queen's Park",
+              "tip_5lang": {
+                "de": "Kurzer Stopp am See, bevor es zu kalt wird.",
+                "hu": "Gyors megálló a tónál, mielőtt túl hideg lesz.",
+                "ro": "Oprire scurtă la lac înainte de a se face frig.",
+                "en": "Short stop at the lake before it gets too cold."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Frostschutz in der Scheibenwaschanlage.",
+              "Winterreifen sind für Smithills ratsam.",
+              "Planen Sie mehr Zeit für das Enteisen ein.",
+              "Achten Sie auf Wildtiere in Parknähe bei Dämmerung."
+            ],
+            "hu": [
+              "Ellenőrizze a fagyállót a szélvédőmosóban.",
+              "A Smithills környékén téli gumi ajánlott.",
+              "Hagyjon időt az autó jégtelenítésére.",
+              "Figyeljen a vadakra a parkoknál szürkületkor."
+            ],
+            "ro": [
+              "Verificați lichidul de parbriz antigel.",
+              "Anvelopele de iarnă sunt recomandate spre Smithills.",
+              "Rezervați timp pentru degivrarea mașinii.",
+              "Atenție la animale în zona parcurilor la amurg."
+            ],
+            "en": [
+              "Check your screenwash antifreeze levels.",
+              "Winter tyres recommended for the Smithills climb.",
+              "Allow extra time for de-icing the windows.",
+              "Watch for wildlife near parks during twilight."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1246,6 +1810,188 @@
           "Download a local transit app to track bus times in real-time.",
           "Be aware that bus services may be less frequent in the evening."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ankunft am Bahnhof Bolton im strömenden Regen. Wir nutzen die Busverbindungen, um schnell ins trockene Zentrum zum Le Mans Crescent zu gelangen.\n\nMittags bringt uns der Bus direkt in die Nähe des Ye Olde Man & Scythe. Die Fahrt nach Norden zu den Hallen erfordert Planung, bietet aber trockenen Komfort während der Fahrt.\n\nDer Abend endet im Queen's Park. Wir nutzen die Bushaltestelle direkt am Parkeingang, um den Fußweg im Regen so kurz wie möglich zu halten.",
+            "hu": "Érkezés a boltoni vasútállomásra szakadó esőben. Buszra szállunk, hogy gyorsan a száraz központba, a Le Mans Crescenthez érjünk.\n\nDélben a busz szinte a Ye Olde Man & Scythe küszöbéig visz. Az északi túra az udvarházakhoz tervezést igényel, de a buszon szárazon utazhatunk.\n\nAz este a Queen's Parkban zárul. A park bejáratánál lévő buszmegállót használjuk, hogy az esőben a lehető legkevesebbet kelljen gyalogolnunk.",
+            "ro": "Sosire la gara Bolton pe o ploaie torențială. Luăm autobuzul pentru a ajunge rapid în centrul uscat, la Le Mans Crescent.\n\nLa prânz, autobuzul ne lasă aproape de Ye Olde Man & Scythe. Călătoria spre nord necesită planificare, dar oferă confort uscat pe drum.\n\nSeara se încheie în Queen's Park. Folosim stația de autobuz chiar de la intrarea în parc pentru a minimiza mersul pe jos prin ploaie.",
+            "en": "Arrive at Bolton Station in pouring rain. We take the local bus to reach the dry centre and Le Mans Crescent quickly.\n\nAt noon, the bus drops us near Ye Olde Man & Scythe. The trip north to the halls requires planning but keeps us dry during transit.\n\nEvening ends at Queen's Park. We use the bus stop right at the park entrance to minimize walking distance in the rain."
+          },
+          "stops": [
+            {
+              "name": "Arrive at Bolton Station",
+              "tip_5lang": {
+                "de": "Unterführung zum Busbahnhof nutzen.",
+                "hu": "Használja az aluljárót a buszpályaudvar felé.",
+                "ro": "Folosiți pasajul subteran spre autogară.",
+                "en": "Use the subway to reach the bus interchange."
+              }
+            },
+            {
+              "name": "Town Hall & Le Mans Crescent",
+              "tip_5lang": {
+                "de": "Busse halten direkt am Rathausplatz.",
+                "hu": "A buszok közvetlenül a Városházánál állnak meg.",
+                "ro": "Autobuzele opresc chiar în piața Primăriei.",
+                "en": "Buses stop directly at Town Hall Square."
+              }
+            },
+            {
+              "name": "Bolton Museum & Art Gallery",
+              "tip_5lang": {
+                "de": "Museum ist nur 2 Min. von der Haltestelle weg.",
+                "hu": "A múzeum 2 percre van a megállótól.",
+                "ro": "Muzeul este la 2 minute de stație.",
+                "en": "Museum is just 2 mins from the stop."
+              }
+            },
+            {
+              "name": "Hall i' th' Wood",
+              "tip_5lang": {
+                "de": "Eigener Bahnhof, 5 Min. Fußweg (regnerisch).",
+                "hu": "Saját vasúti megálló, 5 perc séta (esős).",
+                "ro": "Stație CFR proprie, 5 minute de mers pe jos.",
+                "en": "Own train station, 5 min walk (exposed)."
+              }
+            },
+            {
+              "name": "Smithills Hall",
+              "tip_5lang": {
+                "de": "Bus 526 hält in der Nähe (Smithills Dean).",
+                "hu": "Az 526-os busz a közelben áll meg.",
+                "ro": "Autobuzul 526 oprește în apropiere.",
+                "en": "Bus 526 stops nearby (Smithills Dean)."
+              }
+            },
+            {
+              "name": "Queen's Park",
+              "tip_5lang": {
+                "de": "Bushaltestelle hat ein Wartehäuschen.",
+                "hu": "A buszmegálló fedett váróval rendelkezik.",
+                "ro": "Stația de autobuz are adăpost.",
+                "en": "The bus stop has a covered shelter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Laden Sie die 'Bee Network' App für Live-Daten.",
+              "Der Bolton Interchange ist komplett überdacht.",
+              "Busse fahren im Zentrum alle 10 Minuten.",
+              "Halten Sie Kleingeld oder Kontaktlos-Karte bereit."
+            ],
+            "hu": [
+              "Töltse le a 'Bee Network' appot az élő adatokhoz.",
+              "A boltoni csomópont teljesen fedett.",
+              "A buszok a központban 10 percenként járnak.",
+              "Készítse elő a bankkártyáját a fizetéshez."
+            ],
+            "ro": [
+              "Descărcați aplicația 'Bee Network' pentru timpi live.",
+              "Autogara Bolton este complet acoperită.",
+              "Autobuzele circulă la fiecare 10 minute în centru.",
+              "Pregătiți cardul contactless pentru plată."
+            ],
+            "en": [
+              "Download the 'Bee Network' app for live times.",
+              "Bolton Interchange is fully indoor and dry.",
+              "Buses in the centre run every 10 minutes.",
+              "Have your contactless card ready for boarding."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Start am Bahnhof Bolton bei winterlicher Kälte. Die kurzen Wege zum Busbahnhof sind beheizt, was den Übergang ins Stadtzentrum angenehm macht.\n\nMittags genießen wir die Wärme in den Bussen auf dem Weg zum Ye Olde Man & Scythe. Der Ausflug nach Norden ist bei klarem Winterwetter per Bahn oder Bus sehenswert.\n\nDer Tag endet früh im Queen's Park. Wir achten auf den Fahrplan, um nicht zu lange in der Kälte auf den Rückbus zum Bahnhof warten zu müssen.",
+            "hu": "Kezdés a boltoni vasútállomáson a téli hidegben. A buszpályaudvar felé vezető rövid utak fűtöttek, így kellemes az átjutás a központba.\n\nDélben élvezzük a buszok melegét a Ye Olde Man & Scythe felé vezető úton. Az északi kirándulás tiszta téli időben busszal vagy vonattal is látványos.\n\nA nap korán ér véget a Queen's Parkban. Figyelünk a menetrendre, hogy ne kelljen sokat várni a hidegben a pályaudvarra tartó buszra.",
+            "ro": "Start la gara Bolton în frigul iernii. Pasajele spre autogară sunt încălzite, făcând tranzitul spre centrul orașului plăcut.\n\nLa prânz ne bucurăm de căldura din autobuze spre Ye Olde Man & Scythe. Excursia spre nord în condiții de iarnă senină este pitorească cu trenul sau bus-ul.\n\nZiua se încheie devreme în Queen's Park. Verificăm orarul pentru a nu aștepta prea mult în frig autobuzul spre gară.",
+            "en": "Start at Bolton Station in the winter chill. The short walks to the bus interchange are heated, making the transition to the town centre pleasant.\n\nAt noon, we enjoy the warmth of the buses heading to Ye Olde Man & Scythe. The trip north is scenic by rail or bus in clear winter weather.\n\nThe day ends early at Queen's Park. We keep an eye on the timetable to avoid waiting too long in the cold for the return bus to the station."
+          },
+          "stops": [
+            {
+              "name": "Arrive at Bolton Station",
+              "tip_5lang": {
+                "de": "Wartesaal am Bahnsteig ist beheizt.",
+                "hu": "A peronon lévő váróterem fűtött.",
+                "ro": "Sala de așteptare de pe peron este încălzită.",
+                "en": "The platform waiting room is heated."
+              }
+            },
+            {
+              "name": "Town Hall & Le Mans Crescent",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Busknoten (ca. 5 Min.).",
+                "hu": "Rövid séta a buszcsomóponttól (kb. 5 perc).",
+                "ro": "Mers pe jos scurt de la autogară (cca. 5 min).",
+                "en": "Short walk from the interchange (approx 5 mins)."
+              }
+            },
+            {
+              "name": "Bolton Museum & Art Gallery",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um zwischen den Fahrten aufzuwärmen.",
+                "hu": "Tökéletes hely melegedni két járat között.",
+                "ro": "Loc perfect pentru încălzire între curse.",
+                "en": "Perfect place to warm up between bus rides."
+              }
+            },
+            {
+              "name": "Hall i' th' Wood",
+              "tip_5lang": {
+                "de": "Züge fahren seltener, Fahrplan prüfen.",
+                "hu": "A vonatok ritkábban járnak, nézze a menetrendet.",
+                "ro": "Trenurile circulă rar, verificați mersul trenurilor.",
+                "en": "Trains are less frequent; check the timetable."
+              }
+            },
+            {
+              "name": "Smithills Hall",
+              "tip_5lang": {
+                "de": "Busfrequenz könnte im Winter reduziert sein.",
+                "hu": "A buszok télen ritkábban járhatnak.",
+                "ro": "Frecvența autobuzelor poate fi redusă iarna.",
+                "en": "Bus frequency might be reduced in winter."
+              }
+            },
+            {
+              "name": "Queen's Park",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Wartebereich im Interchange danach.",
+                "hu": "Használja a központi buszvárót a séta után.",
+                "ro": "Folosiți zona de așteptare din autogară după.",
+                "en": "Use the indoor interchange lounge after the walk."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrpläne können bei Schnee beeinträchtigt sein.",
+              "Warten Sie in den beheizten Innenbereichen.",
+              "Abends ist der Bahnhofsbereich gut beleuchtet.",
+              "Kaufen Sie ein Tagesticket für maximale Flexibilität."
+            ],
+            "hu": [
+              "Hóesésben a menetrend változhat.",
+              "Várjon a fűtött benti várótermekben.",
+              "Este az állomás környéke jól kivilágított.",
+              "Vegyen napijegyet a maximális rugalmassághoz."
+            ],
+            "ro": [
+              "Orarele pot fi afectate de zăpadă.",
+              "Așteptați în zonele interioare încălzite.",
+              "Zona gării este bine iluminată seara.",
+              "Cumpărați un bilet de o zi pentru flexibilitate."
+            ],
+            "en": [
+              "Timetables may be affected by heavy snow.",
+              "Wait in the heated indoor interchange areas.",
+              "The station area is well-lit for evening returns.",
+              "Buy a day ticket for maximum flexibility."
+            ]
+          }
+        }
       }
     }
   }

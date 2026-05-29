@@ -339,6 +339,206 @@
           "Check the bridge opening times if you plan a boat trip.",
           "Binoculars are useful on Dybbøl Hill."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen an der Hafenpromenade zeigt die raue Schönheit des Alssunds. Mittags bieten die St. Marien-Kirche und das Schloss Sønderborg ideale Zufluchtsorte vor dem dänischen Wetter. Der Nachmittag im Geschichtszentrum Dybbøl Banke ist perfekt, um trocken in die Geschichte einzutauchen. Der Tag endet im Alsion, wo man geschützt den Regen auf dem Wasser beobachtet.",
+            "hu": "Reggel az Alssund partján az esőfelhők alacsonyan szállnak, az esernyő kötelező. Délben a Szent Mária-templom és a kastély nyújtanak menedéket a szitáló eső elől. Délután a Dybbøl Banke Történelmi Központ interaktív kiállításai tökéletesek a beltéri időtöltéshez. Este az Alsion modern üvegfalai mögül nézzük a vízen táncoló esőcseppeket, biztonságban a borútól.",
+            "ro": "O dimineață ploioasă pe faleză dezvăluie frumusețea aspră a Alssund-ului. La prânz, Biserica Sf. Maria și Castelul oferă adăpostul ideal împotriva ploii daneze. După-amiaza la Centrul de Istorie Dybbøl Banke este perfectă pentru a explora istoria la loc uscat. Ziua se încheie la Alsion, unde puteți observa ploaia pe apă din spatele pereților mari de sticlă.",
+            "en": "A rainy morning on the promenade reveals the raw beauty of the Alssund. At noon, St. Mary's Church and Sønderborg Castle provide ideal refuges from the Danish drizzle. The afternoon at the Dybbøl Banke History Centre is perfect for staying dry while diving into history. The day ends at Alsion, where you can watch the rain dancing on the water from behind glass."
+          },
+          "stops": [
+            {
+              "name": "Sønderborg Harbour Promenade",
+              "tip_5lang": {
+                "de": "Windfeste Kleidung ist hier wichtiger als ein Schirm.",
+                "hu": "A szélálló ruházat fontosabb itt, mint az esernyő.",
+                "ro": "Hainele rezistente la vânt sunt mai importante decât umbrela.",
+                "en": "Windproof gear is more important than an umbrella here."
+              }
+            },
+            {
+              "name": "St. Mary's Church",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Stille für eine trockene Pause.",
+                "hu": "Használja ki a csendet egy száraz pihenőre.",
+                "ro": "Folosiți liniștea pentru o pauză la adăpost.",
+                "en": "Use the silence for a dry break from the rain."
+              }
+            },
+            {
+              "name": "Sønderborg Castle",
+              "tip_5lang": {
+                "de": "Die umfangreichen Innenräume bieten stundenlangen Schutz.",
+                "hu": "A tágas belső terek órákon át védelmet nyújtanak.",
+                "ro": "Interioarele vaste oferă protecție pentru câteva ore.",
+                "en": "The extensive interior rooms offer hours of shelter."
+              }
+            },
+            {
+              "name": "King Christian X's Bridge",
+              "tip_5lang": {
+                "de": "Vorsicht, der Gehweg kann bei Nässe rutschig sein.",
+                "hu": "Vigyázat, a járda nedvesen csúszós lehet.",
+                "ro": "Atenție, trotuarul poate fi alunecos pe timp de ploaie.",
+                "en": "Careful, the walkway can be slippery when wet."
+              }
+            },
+            {
+              "name": "History Centre Dybbøl Banke",
+              "tip_5lang": {
+                "de": "Ideal für Regentage: fast alle Ausstellungen sind drinnen.",
+                "hu": "Ideális esős napra: szinte minden kiállítás fedett.",
+                "ro": "Ideal pentru zile ploioase: aproape totul este la interior.",
+                "en": "Ideal for rainy days: almost all exhibits are indoors."
+              }
+            },
+            {
+              "name": "Dybbøl Mill",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp; der Innenraum ist klein, aber trocken.",
+                "hu": "Gyors fotómegálló; a belső tér kicsi, de száraz.",
+                "ro": "Oprire scurtă; interiorul este mic, dar uscat.",
+                "en": "Quick photo stop; the interior is small but dry."
+              }
+            },
+            {
+              "name": "Alsion",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das Wetter vom Café aus.",
+                "hu": "Élvezze a kilátást a viharra a kávézóból.",
+                "ro": "Bucurați-vă de priveliștea ploii din cafenea.",
+                "en": "Enjoy the view of the weather from the café."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da sich auf dem Kopfsteinpflaster Pfützen bilden.",
+              "Das Schloss und das Geschichtszentrum sind die besten 'Safe Havens' bei Starkregen.",
+              "Die Brücke ist bei Wind und Regen sehr exponiert; halten Sie den Schirm gut fest.",
+              "Planen Sie mehr Zeit für die Indoor-Exponate ein, um Schauer abzuwarten."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert a macskaköveken megáll a víz.",
+              "A kastély és a történelmi központ a legjobb menedék heves esőben.",
+              "A híd nagyon szeles esőben; fogja erősen az esernyőjét.",
+              "Szánjon több időt a belső kiállításokra, amíg eláll az eső."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, se pot forma bălți pe piatra cubică.",
+              "Castelul și Centrul de Istorie sunt cele mai bune refugii pe ploaie torențială.",
+              "Podul este foarte expus la vânt și ploaie; țineți bine umbrela.",
+              "Alocați mai mult timp expozițiilor interioare pentru a aștepta trecerea ploii."
+            ],
+            "en": [
+              "Wear waterproof shoes as puddles form easily on the cobblestones.",
+              "The castle and the history centre are the best safe havens during heavy rain.",
+              "The bridge is very exposed during wind and rain; hold your umbrella tight.",
+              "Plan more time for indoor exhibits to wait out the showers."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der frostige Wind weht über den Hafen, während Sie gut eingepackt den Tag beginnen. Mittags wärmen die Kirchenbänke und die Schlossmauern Körper und Geist. Der Weg nach Dybbøl ist im Winter karg, aber das Geschichtszentrum empfängt Sie mit wohliger Wärme. Nach Sonnenuntergang um 16:00 Uhr erstrahlt das Alsion als heller Ankerpunkt in der Dunkelheit.",
+            "hu": "A jeges szél az Alssund felől próbára teszi a felszerelést a reggeli induláskor. Délben a kastély udvara és a templom belseje kínál egy kis felmelegedést. Délután a Dybbøl Banke kopár téli tája után a múzeum fűtött termei várják. A korai, 16 órai naplemente után az Alsion fényei mutatják az utat vissza a sötétedő városba.",
+            "ro": "Vântul înghețat bate peste port în timp ce începeți ziua bine echipat. La prânz, biserica și zidurile castelului vă încălzesc corpul și spiritul. Drumul spre Dybbøl este auster iarna, dar Centrul de Istorie vă primește cu căldură. După apusul de la ora 16:00, Alsion strălucește ca un punct de reper luminos în întuneric.",
+            "en": "The frosty wind blows across the harbour as you start your day well-wrapped. At noon, the church pews and castle walls warm both body and soul. The path to Dybbøl is stark in winter, but the History Centre welcomes you with cozy warmth. After sunset at 16:00, Alsion shines as a bright anchor point in the winter darkness."
+          },
+          "stops": [
+            {
+              "name": "Sønderborg Harbour Promenade",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis in der Nähe der Wasserkante.",
+                "hu": "Vigyázzon a jegesedésre a vízpart közelében.",
+                "ro": "Atenție la gheață în apropierea marginii apei.",
+                "en": "Watch out for black ice near the water's edge."
+              }
+            },
+            {
+              "name": "St. Mary's Church",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort zum Aufwärmen zwischen den Etappen.",
+                "hu": "Csendes hely a felmelegedéshez a szakaszok között.",
+                "ro": "Un loc liniștit pentru încălzire între etape.",
+                "en": "A quiet place to warm up between walking stages."
+              }
+            },
+            {
+              "name": "Sønderborg Castle",
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten die Kälte effektiv draußen.",
+                "hu": "A vastag falak hatékonyan kint tartják a hideget.",
+                "ro": "Zidurile groase țin frigul afară în mod eficient.",
+                "en": "The thick walls effectively keep the cold outside."
+              }
+            },
+            {
+              "name": "King Christian X's Bridge",
+              "tip_5lang": {
+                "de": "Der Windchill-Effekt ist hier im Winter extrem.",
+                "hu": "A szél hűtő hatása itt télen rendkívül erős.",
+                "ro": "Efectul de răcire al vântului este extrem aici iarna.",
+                "en": "The wind chill effect is extreme here in winter."
+              }
+            },
+            {
+              "name": "History Centre Dybbøl Banke",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Winteröffnungszeiten vor dem Besuch.",
+                "hu": "Látogatás előtt ellenőrizze a téli nyitvatartást.",
+                "ro": "Verificați programul de iarnă înainte de vizită.",
+                "en": "Check winter opening hours before visiting."
+              }
+            },
+            {
+              "name": "Dybbøl Mill",
+              "tip_5lang": {
+                "de": "Ein Wahrzeichen, das im Schnee besonders fotogen ist.",
+                "hu": "A szélmalom hóban különösen fotogén látvány.",
+                "ro": "Moara este deosebit de fotogenică în zăpadă.",
+                "en": "The mill is particularly photogenic in the snow."
+              }
+            },
+            {
+              "name": "Alsion",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um den Tag im Warmen ausklingen zu lassen.",
+                "hu": "Tökéletes hely a nap melegben történő lezárásához.",
+                "ro": "Locul perfect pentru a încheia ziua la căldură.",
+                "en": "Perfect place to end the day in the warmth."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Dezember bereits gegen 15:45 Uhr unter.",
+              "Tragen Sie mehrere Schichten, da es am Wasser sehr windig ist.",
+              "Einige Cafés am Hafen haben im Winter eingeschränkte Zeiten.",
+              "Nutzen Sie die beheizten Museen als regelmäßige Aufwärmstopps."
+            ],
+            "hu": [
+              "A nap decemberben már 15:45 körül lemegy.",
+              "Öltözzön rétegesen, mert a vízparton nagyon erős a szél.",
+              "Néhány kikötői kávézó télen rövidített nyitvatartással üzemel.",
+              "Használja a fűtött múzeumokat rendszeres melegedőpontként."
+            ],
+            "ro": [
+              "Soarele apune în decembrie deja în jurul orei 15:45.",
+              "Purtați mai multe straturi, deoarece este foarte vânt lângă apă.",
+              "Unele cafenele din port au program redus pe timpul iernii.",
+              "Folosiți muzeele încălzite ca opriri regulate pentru încălzire."
+            ],
+            "en": [
+              "The sun sets as early as 15:45 in December.",
+              "Wear multiple layers as it is very windy by the water.",
+              "Some harbour cafés have restricted hours during winter.",
+              "Use the heated museums as regular warm-up stops."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -649,6 +849,188 @@
           "Be aware of the wind conditions, which can be strong on the coast.",
           "A helmet is highly recommended."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Start an der Hafenpromenade erfordert gute Regenbekleidung für die Fahrt zum Alsion. Mittags führt die Tour über den Gendarmstien, wo die Wege bei Nässe eine Herausforderung sein können. Der Nachmittag im Geschichtszentrum und im Schloss bietet willkommene Pausen im Trockenen. Trotz Regen bleibt die Fahrt entlang der Küste ein intensives Naturerlebnis.",
+            "hu": "Az esős induláshoz a kikötőben elengedhetetlen a jó vízálló ruha az Alsion felé. Délben a Gendarmstien szakaszán a nedves utak kihívást jelenthetnek. A délutáni megállók a történelmi központban és a kastélyban kellemes száraz pihenőt kínálnak. Az eső ellenére a parti kerékpározás intenzív természeti élmény marad.",
+            "ro": "Un început ploios în port necesită echipament bun pentru drumul spre Alsion. La prânz, turul pe Gendarmstien poate fi o provocare pe potecile umede. După-amiaza la Centrul de Istorie și la Castel oferă pauze binevenite la adăpost. În ciuda ploii, plimbarea de-a lungul coastei rămâne o experiență intensă.",
+            "en": "A rainy start at the harbour requires good waterproofs for the ride to Alsion. At noon, the route along Gendarmstien can be challenging on wet paths. Afternoon stops at the History Centre and Castle offer welcome dry breaks. Despite the rain, the coastal ride remains an intense nature experience."
+          },
+          "stops": [
+            {
+              "name": "Harbour Promenade & Bike Rental",
+              "tip_5lang": {
+                "de": "Fragen Sie nach Fahrrädern mit guten Schutzblechen.",
+                "hu": "Kérjen jó sárvédővel felszerelt kerékpárt.",
+                "ro": "Cereți biciclete cu apărători de noroi bune.",
+                "en": "Ask for bikes with good mudguards."
+              }
+            },
+            {
+              "name": "Alsion",
+              "tip_5lang": {
+                "de": "Überdachte Fahrradständer befinden sich in der Nähe.",
+                "hu": "Fedett kerékpártárolók találhatók a közelben.",
+                "ro": "Suporturi de biciclete acoperite se află în apropiere.",
+                "en": "Covered bike racks are located nearby."
+              }
+            },
+            {
+              "name": "Gendarmstien (section)",
+              "tip_5lang": {
+                "de": "Vorsicht auf unbefestigten Wegen; sie können matschig sein.",
+                "hu": "Vigyázzon a földutakon; sárosak lehetnek.",
+                "ro": "Atenție pe drumurile neasfaltate; pot fi noroioase.",
+                "en": "Careful on unpaved paths; they can be muddy."
+              }
+            },
+            {
+              "name": "Dybbøl Mill",
+              "tip_5lang": {
+                "de": "Kurzer Halt; nutzen Sie die Mühle als Windschutz.",
+                "hu": "Gyors megálló; használja a malmot szélfogóként.",
+                "ro": "Oprire scurtă; folosiți moara ca protecție contra vântului.",
+                "en": "Quick stop; use the mill as a windbreak."
+              }
+            },
+            {
+              "name": "History Centre Dybbøl Banke",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad ab und trocknen Sie sich drinnen auf.",
+                "hu": "Parkolja le a gépet és száradjon meg odabent.",
+                "ro": "Parcați bicicleta și uscați-vă la interior.",
+                "en": "Park your bike and dry off inside."
+              }
+            },
+            {
+              "name": "Sønderborg Castle",
+              "tip_5lang": {
+                "de": "Sicheres Parken im Innenhof ist oft möglich.",
+                "hu": "A belső udvaron gyakran van biztonságos parkolási lehetőség.",
+                "ro": "Parcarea sigură în curtea interioară este adesea posibilă.",
+                "en": "Safe parking in the courtyard is often available."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie wasserdichte Packtaschen für Ihre Wertsachen.",
+              "Bremsen Sie auf nassem Asphalt vorsichtiger und früher.",
+              "Vermeiden Sie bei starkem Regen die unbefestigten Küstenpfade.",
+              "Das Alsion bietet eine gute Möglichkeit für eine warme Pause."
+            ],
+            "hu": [
+              "Használjon vízálló táskákat az értékeihez.",
+              "Nedves aszfalton óvatosabban és korábban fékezzen.",
+              "Heves esőben kerülje a nem aszfaltozott parti utakat.",
+              "Az Alsion jó lehetőséget kínál egy meleg pihenőre."
+            ],
+            "ro": [
+              "Folosiți genți de bicicletă impermeabile pentru obiectele de valoare.",
+              "Frânați mai prudent și mai devreme pe asfaltul umed.",
+              "Evitați potecile de coastă neasfaltate pe ploaie puternică.",
+              "Alsion oferă o oportunitate bună pentru o pauză caldă."
+            ],
+            "en": [
+              "Use waterproof panniers for your valuables.",
+              "Brake more carefully and earlier on wet asphalt.",
+              "Avoid unpaved coastal paths during heavy rain.",
+              "Alsion offers a good opportunity for a warm break."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen am Hafen erfordert Schichten und Handschuhe für die Fahrt zum Alsion. Mittags führt die Route durch die stille, winterliche Landschaft von Dybbøl, wo der Wind vom Meer her pfeift. Die Museen bieten die nötige Wärme, um die Glieder wieder aufzutauen. Mit Einbruch der Dunkelheit wird die Fahrt zurück durch die Stadt zu einer stimmungsvollen Lichtertour.",
+            "hu": "A fagyos reggeli induláshoz réteges öltözet és kesztyű kell az Alsion felé tartva. Délben az út Dybbøl csendes, téli tájain vezet át, ahol a tenger felől metsző szél fúj. A múzeumok biztosítják a szükséges meleget a megfáradt végtagoknak. A sötétedéssel a városba visszavezető út hangulatos, fényekkel teli túrává válik.",
+            "ro": "O dimineață geroasă în port necesită straturi și mănuși pentru drumul spre Alsion. La prânz, traseul trece prin peisajul liniștit de iarnă din Dybbøl, unde vântul șuieră dinspre mare. Muzeele oferă căldura necesară pentru a vă dezmorți. Odată cu lăsarea întunericului, drumul înapoi prin oraș devine un tur atmosferic cu lumini.",
+            "en": "A frosty morning at the harbour requires layers and gloves for the ride to Alsion. At noon, the route passes through the quiet winter landscape of Dybbøl, where the wind whistles from the sea. The museums provide the necessary warmth to thaw out. As darkness falls, the ride back through town becomes an atmospheric tour of lights."
+          },
+          "stops": [
+            {
+              "name": "Harbour Promenade & Bike Rental",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Reifendruck; er sinkt bei Kälte oft.",
+                "hu": "Ellenőrizze a guminyomást; hidegben gyakran csökken.",
+                "ro": "Verificați presiunea în pneuri; scade adesea la frig.",
+                "en": "Check tire pressure; it often drops in the cold."
+              }
+            },
+            {
+              "name": "Alsion",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich im Foyer kurz auf.",
+                "hu": "Melegedjen fel egy kicsit az előtérben.",
+                "ro": "Încălziți-vă puțin în foaier.",
+                "en": "Warm up for a moment in the foyer."
+              }
+            },
+            {
+              "name": "Gendarmstien (section)",
+              "tip_5lang": {
+                "de": "Vorsicht vor vereisten Stellen im Schatten der Bäume.",
+                "hu": "Vigyázzon a jeges szakaszokra a fák árnyékában.",
+                "ro": "Atenție la porțiunile înghețate la umbra copacilor.",
+                "en": "Beware of icy patches in the shade of trees."
+              }
+            },
+            {
+              "name": "Dybbøl Mill",
+              "tip_5lang": {
+                "de": "Hinter der Mühle finden Sie Schutz vor dem Ostwind.",
+                "hu": "A malom mögött szélvédett helyet talál a keleti szél elől.",
+                "ro": "În spatele morii găsiți adăpost de vântul din est.",
+                "en": "Find shelter from the east wind behind the mill."
+              }
+            },
+            {
+              "name": "History Centre Dybbøl Banke",
+              "tip_5lang": {
+                "de": "Genießen Sie die warme Cafeteria nach der Fahrt.",
+                "hu": "Élvezze a meleg büfét a tekerés után.",
+                "ro": "Bucurați-vă de cafeneaua caldă după drum.",
+                "en": "Enjoy the warm cafeteria after your ride."
+              }
+            },
+            {
+              "name": "Sønderborg Castle",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ausstellungen, um sich aufzuwärmen.",
+                "hu": "Látogassa meg a kiállításokat a felmelegedéshez.",
+                "ro": "Vizitați expozițiile pentru a vă încălzi.",
+                "en": "Visit the exhibits to warm up thoroughly."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Ihre Fahrradbeleuchtung einwandfrei funktioniert.",
+              "Tragen Sie unter dem Helm eine dünne Mütze gegen den Fahrtwind.",
+              "Vermeiden Sie hektische Lenkbewegungen bei möglichem Glatteis.",
+              "Die salzhaltige Luft kann die Kette schneller rosten lassen."
+            ],
+            "hu": [
+              "Győződjön meg róla, hogy a világítás megfelelően működik.",
+              "Viseljen vékony sapkát a sisak alatt a menetszél ellen.",
+              "Kerülje a hirtelen kormánymozdulatokat az esetleges jég miatt.",
+              "A sós tengeri levegő gyorsabb láncrozsdásodást okozhat."
+            ],
+            "ro": [
+              "Asigurați-vă că luminile bicicletei funcționează perfect.",
+              "Purtați o căciulă subțire sub cască împotriva curentului.",
+              "Evitați mișcările bruște de ghidon în caz de polei.",
+              "Aerul sărat poate duce la ruginirea mai rapidă a lanțului."
+            ],
+            "en": [
+              "Ensure your bike lights are working perfectly for early darkness.",
+              "Wear a thin hat under your helmet to block the cold wind.",
+              "Avoid sudden steering movements if there is potential ice.",
+              "Salt in the air can cause the chain to rust more quickly."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -964,6 +1346,188 @@
           "A GPS is helpful for finding the rural roads to the viewpoints.",
           "Be mindful of parking zones and times in the city center."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie trocken am Geschichtszentrum Dybbøl, während der Regen auf das Autodach trommelt. Mittags führt die kurze Fahrt zur Dybbøl Mühle und zum Schloss, wo Parkplätze direkt vor der Tür den Kontakt mit dem Wetter minimieren. Der Nachmittag an der Hafenpromenade und der Kirche lässt sich flexibel gestalten, bevor Sie den Tag gemütlich im Auto oder einem Café beenden.",
+            "hu": "Induljon szárazon a Dybbøl Történelmi Központnál, miközben az eső kopog a tetőn. Délben a rövid út a malomhoz és a kastélyhoz vezet, ahol a közvetlen parkolás minimalizálja az esővel való érintkezést. A délután a kikötőben és a templomnál rugalmasan alakítható, mielőtt az autó kényelmében vagy egy kávézóban zárná a napot.",
+            "ro": "Începeți la Centrul de Istorie Dybbøl în timp ce ploaia bate pe plafonul mașinii. La prânz, drumul scurt spre Moară și Castel vă permite să parcați chiar la intrare, minimizând contactul cu ploaia. După-amiaza la faleză și biserică poate fi adaptată flexibil, înainte de a încheia ziua confortabil în mașină sau la o cafenea.",
+            "en": "Start dry at the Dybbøl History Centre while rain drums on the car roof. At noon, the short drive to the Mill and Castle allows parking right at the door, minimizing exposure to the wet weather. The afternoon at the promenade and church can be planned flexibly before ending the day comfortably in your car or a café."
+          },
+          "stops": [
+            {
+              "name": "Parking at History Centre Dybbøl Banke",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um trocken zu bleiben.",
+                "hu": "Parkoljon közel a bejárathoz, hogy száraz maradjon.",
+                "ro": "Parcați aproape de intrare pentru a rămâne uscat.",
+                "en": "Park close to the entrance to stay dry."
+              }
+            },
+            {
+              "name": "Dybbøl Mill",
+              "tip_5lang": {
+                "de": "Ein schneller Stopp für Fotos direkt vom Parkplatz aus.",
+                "hu": "Gyors fotómegálló közvetlenül a parkolóból.",
+                "ro": "O oprire rapidă pentru poze direct din parcare.",
+                "en": "A quick photo stop directly from the parking area."
+              }
+            },
+            {
+              "name": "Parking at Sønderborg Castle",
+              "tip_5lang": {
+                "de": "Nutzen Sie den befestigten Parkplatz direkt am Schloss.",
+                "hu": "Használja a közvetlenül a kastélynál lévő parkolót.",
+                "ro": "Folosiți parcarea amenajată chiar lângă castel.",
+                "en": "Use the paved parking directly at the castle."
+              }
+            },
+            {
+              "name": "Sønderborg Harbour Promenade",
+              "tip_5lang": {
+                "de": "Suchen Sie einen Parkplatz mit Blick auf den Alssund.",
+                "hu": "Keressen parkolót kilátással az Alssundra.",
+                "ro": "Căutați un loc de parcare cu vedere spre Alssund.",
+                "en": "Look for a parking spot with a view of the Alssund."
+              }
+            },
+            {
+              "name": "St. Mary's Church",
+              "tip_5lang": {
+                "de": "Parkmöglichkeiten in den umliegenden Straßen nutzen.",
+                "hu": "Használja a környező utcák parkolóhelyeit.",
+                "ro": "Folosiți locurile de parcare din străzile adiacente.",
+                "en": "Use parking spaces in the surrounding streets."
+              }
+            },
+            {
+              "name": "Viewpoint on Gendarmstien",
+              "tip_5lang": {
+                "de": "Genießen Sie die Aussicht bei Regen aus dem Auto.",
+                "hu": "Élvezze a kilátást esőben az autó ablakából.",
+                "ro": "Bucurați-vă de vedere din mașină pe timp de ploaie.",
+                "en": "Enjoy the view from the car during the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf den Küstenstraßen.",
+              "Nutzen Sie die Parkhäuser in der Innenstadt für längere Stopps.",
+              "Halten Sie ein Handtuch im Auto bereit, falls Sie nass werden.",
+              "Die Sicht an den Aussichtspunkten kann bei Regen eingeschränkt sein."
+            ],
+            "hu": [
+              "Ügyeljen a vízátfolyásokra a parti utakon.",
+              "Hosszabb megálláshoz használja a belvárosi parkolóházakat.",
+              "Tartson egy törölközőt az autóban, ha elázna.",
+              "A kilátópontoknál a látási viszonyok korlátozottak lehetnek esőben."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumurile de coastă.",
+              "Folosiți parcările etajate din centru pentru opriri lungi.",
+              "Țineți un prosop în mașină în caz că vă udă ploaia.",
+              "Vizibilitatea la punctele de belvedere poate fi redusă pe ploaie."
+            ],
+            "en": [
+              "Watch out for aquaplaning on the coastal roads.",
+              "Use multi-storey car parks in the city centre for longer stops.",
+              "Keep a towel in the car in case you get wet during a stop.",
+              "Visibility at the viewpoints may be limited during rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Fahrt beginnt am fahlen Morgen bei Dybbøl, wo die Heizung im Auto für Komfort sorgt. Mittags besichtigen Sie die historische Mühle und das Schloss, wobei die kurzen Wege zwischen Auto und Sehenswürdigkeit ideal bei Frost sind. Die Hafenpromenade wirkt im Winterlicht magisch, bevor Sie zum Sonnenuntergang den Aussichtspunkt Gendarmstien ansteuern und die Lichter von Sønderborg bewundern.",
+            "hu": "A téli autózás a fagyos reggelen indul Dybbølnél, ahol az autó fűtése adja a komfortot. Délben a történelmi malom és a kastély következik, a rövid gyalogutak ideálisak a csípős hidegben. A kikötői sétány varázslatos a téli fényekben, mielőtt naplementekor a Gendarmstien kilátópontja felé venné az irányt a kivilágított város látványáért.",
+            "ro": "O călătorie de iarnă începe într-o dimineață palidă la Dybbøl, unde căldura din mașină asigură confortul. La prânz vizitați moara istorică și castelul; distanțele scurte de la mașină sunt ideale pe ger. Faleza pare magică în lumina iernii, înainte de a merge la punctul de belvedere Gendarmstien pentru a admira luminile orașului.",
+            "en": "A winter drive begins on a pale morning at Dybbøl, with the car heater providing comfort. At noon, visit the historical mill and castle; the short walks between car and sites are ideal in the frost. The harbour promenade looks magical in the winter light before heading to the Gendarmstien viewpoint to admire the city lights at sunset."
+          },
+          "stops": [
+            {
+              "name": "Parking at History Centre Dybbøl Banke",
+              "tip_5lang": {
+                "de": "Vorsicht beim Aussteigen auf möglicherweise glattem Grund.",
+                "hu": "Vigyázzon kiszálláskor az esetlegesen csúszós talajra.",
+                "ro": "Atenție la coborârea din mașină pe terenul alunecos.",
+                "en": "Be careful when getting out of the car on potentially slippery ground."
+              }
+            },
+            {
+              "name": "Dybbøl Mill",
+              "tip_5lang": {
+                "de": "Der Parkplatz kann im Winter verschneit sein.",
+                "hu": "A parkoló télen havas lehet.",
+                "ro": "Parcarea poate fi înzăpezită pe timpul iernii.",
+                "en": "The parking area may be snowy in winter."
+              }
+            },
+            {
+              "name": "Parking at Sønderborg Castle",
+              "tip_5lang": {
+                "de": "Guter Ausgangspunkt für einen kurzen Winterspaziergang.",
+                "hu": "Jó kiindulópont egy rövid téli sétához.",
+                "ro": "Punct bun de plecare pentru o scurtă plimbare de iarnă.",
+                "en": "Good starting point for a short winter walk."
+              }
+            },
+            {
+              "name": "Sønderborg Harbour Promenade",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das Eis im Hafenbecken.",
+                "hu": "Élvezze a kilátást a kikötőben úszó jégre.",
+                "ro": "Bucurați-vă de vederea gheții din port.",
+                "en": "Enjoy the view of the ice in the harbour basin."
+              }
+            },
+            {
+              "name": "St. Mary's Church",
+              "tip_5lang": {
+                "de": "In den Nebenstraßen wird im Winter oft geräumt.",
+                "hu": "A mellékutcákban télen gyakran takarítják a havat.",
+                "ro": "Străzile laterale sunt adesea deszăpezite iarna.",
+                "en": "Side streets are often cleared of snow in winter."
+              }
+            },
+            {
+              "name": "Viewpoint on Gendarmstien",
+              "tip_5lang": {
+                "de": "Der Parkplatz bietet den besten Blick auf die Abendlichter.",
+                "hu": "A parkoló adja a legjobb kilátást az esti fényekre.",
+                "ro": "Parcarea oferă cea mai bună vedere asupra luminilor de seară.",
+                "en": "The parking lot offers the best view of the evening lights."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie, ob Ihr Mietwagen mit Winterreifen ausgestattet ist.",
+              "Vermeiden Sie bei starkem Schneefall die kleineren Küstenwege.",
+              "Die Dämmerung beginnt früh; planen Sie Fahrten bei Tageslicht.",
+              "Halten Sie eine Eiskratzer und Frostschutzmittel bereit."
+            ],
+            "hu": [
+              "Ellenőrizze, hogy az autó fel van-e szerelve téli gumival.",
+              "Erős havazáskor kerülje a kisebb parti utakat.",
+              "A szürkület korán kezdődik; tervezze a vezetést nappali fényben.",
+              "Legyen kéznél jégkaparó és fagyálló folyadék."
+            ],
+            "ro": [
+              "Verificați dacă mașina este echipată cu anvelope de iarnă.",
+              "Evitați drumurile de coastă mai mici în caz de ninsoare puternică.",
+              "Amurgul începe devreme; planificați condusul pe timp de zi.",
+              "Aveți la îndemână o racletă și lichid antigel."
+            ],
+            "en": [
+              "Check if your rental car is equipped with winter tires.",
+              "Avoid smaller coastal roads during heavy snowfall.",
+              "Twilight starts early; plan your driving during daylight hours.",
+              "Keep an ice scraper and anti-freeze fluid ready."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1279,6 +1843,188 @@
           "Note that buses may run less frequently on weekends.",
           "Some routes go directly to the main attractions, which makes planning easier."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Busbahnhof bietet Schutz, während Sie auf die Verbindung zum Geschichtszentrum warten. Mittags sind die kurzen Wege von den Haltestellen zur Mühle und zum Schloss ideal, um Regenschauer zu überbrücken. Der Nachmittag lässt sich flexibel im Stadtzentrum gestalten, wo Cafés und Museen in Busnähe liegen. Den Tag beenden Sie trocken im Bus auf dem Rückweg zum Zentrum.",
+            "hu": "A buszpályaudvar védelmet nyújt, amíg a történelmi központhoz tartó járatra vár. Délben a megállóktól a malomhoz és a kastélyhoz vezető rövid utak ideálisak az eső elkerülésére. A délután rugalmasan alakítható a városközpontban, ahol a kávézók és múzeumok buszközelben vannak. A napot szárazon, a buszon zárhatja a központ felé tartva.",
+            "ro": "Autogara oferă adăpost în timp ce așteptați legătura spre Centrul de Istorie. La prânz, distanțele scurte de la stații spre Moară și Castel sunt ideale pentru a evita ploaia. După-amiaza poate fi petrecută flexibil în centru, unde cafenelele sunt aproape de stații. Încheiați ziua la uscat, în autobuzul spre centru.",
+            "en": "The bus station provides shelter while you wait for the connection to the History Centre. At noon, the short walks from the stops to the Mill and Castle are ideal for avoiding rain showers. The afternoon can be planned flexibly in the city centre, where cafés and museums are near bus stops. End the day dry on the bus back to the centre."
+          },
+          "stops": [
+            {
+              "name": "Sønderborg Bus Station",
+              "tip_5lang": {
+                "de": "Warten Sie in der Wartehalle auf Ihren Bus.",
+                "hu": "Várjon a buszra a fedett váróteremben.",
+                "ro": "Așteptați autobuzul în sala de așteptare.",
+                "en": "Wait for your bus inside the waiting hall."
+              }
+            },
+            {
+              "name": "History Centre Dybbøl Banke Stop",
+              "tip_5lang": {
+                "de": "Nur ein kurzer Sprint zum Museumseingang.",
+                "hu": "Csak egy rövid vágta a múzeum bejáratáig.",
+                "ro": "Doar un scurt sprint până la intrarea muzeului.",
+                "en": "Just a short sprint to the museum entrance."
+              }
+            },
+            {
+              "name": "Dybbøl Mill",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist nah; Schirm bereit halten.",
+                "hu": "A megálló közel van; tartsa készenlétben az esernyőt.",
+                "ro": "Stația este aproape; țineți umbrela pregătită.",
+                "en": "The stop is close; keep your umbrella ready."
+              }
+            },
+            {
+              "name": "Sønderborg Castle Stop",
+              "tip_5lang": {
+                "de": "Überdachte Haltestellen bieten Schutz vor dem Regen.",
+                "hu": "A fedett buszmegállók védelmet nyújtanak az eső ellen.",
+                "ro": "Stațiile acoperite oferă protecție contra ploii.",
+                "en": "Covered bus stops provide protection from the rain."
+              }
+            },
+            {
+              "name": "Sønderborg Harbour Promenade",
+              "tip_5lang": {
+                "de": "Busse verkehren regelmäßig parallel zur Promenade.",
+                "hu": "A buszok rendszeresen járnak a sétánnyal párhuzamosan.",
+                "ro": "Autobuzele circulă regulat paralel cu faleza.",
+                "en": "Buses run regularly parallel to the promenade."
+              }
+            },
+            {
+              "name": "St. Mary's Church",
+              "tip_5lang": {
+                "de": "Die Haltestelle liegt direkt im Stadtkern.",
+                "hu": "A megálló közvetlenül a városközpontban található.",
+                "ro": "Stația este situată chiar în centrul orașului.",
+                "en": "The stop is located directly in the city centre."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die App des Verkehrsverbunds für Echtzeit-Infos.",
+              "Kaufen Sie Tickets vorab digital, um Wartezeiten im Regen zu vermeiden.",
+              "Die Busse sind gut beheizt und ideal zum Aufwärmen.",
+              "Abendverbindungen können bei schlechtem Wetter seltener sein."
+            ],
+            "hu": [
+              "Használja a közlekedési társaság appját a valós idejű infókért.",
+              "Vegye meg a jegyet digitálisan, hogy ne kelljen az esőben sorban állni.",
+              "A buszok jól fűtöttek és ideálisak a felmelegedéshez.",
+              "Rossz időben az esti járatok ritkábbak lehetnek."
+            ],
+            "ro": [
+              "Folosiți aplicația de transport pentru informații în timp real.",
+              "Cumpărați bilete digitale pentru a evita așteptarea în ploaie.",
+              "Autobuzele sunt bine încălzite și ideale pentru încălzire.",
+              "Legăturile de seară pot fi mai rare pe timp de vreme rea."
+            ],
+            "en": [
+              "Use the transport app for real-time information.",
+              "Buy digital tickets in advance to avoid waiting in the rain.",
+              "Buses are well-heated and ideal for warming up.",
+              "Evening connections may be less frequent during bad weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Morgen am Busbahnhof leitet den Wintertag ein. Mittags erreichen Sie Dybbøl und das Schloss bequem mit dem Bus, was die Zeit im Freien auf ein Minimum reduziert. Die Museen sind warme Zufluchtsorte während der Besichtigungen. Mit dem frühen Sonnenuntergang genießen Sie die Fahrt durch das beleuchtete Sønderborg, bevor Sie zur St. Marien-Kirche im Herzen der Stadt zurückkehren.",
+            "hu": "Hűvös reggel a buszpályaudvaron indítja a téli napot. Délben kényelmesen elérheti Dybbølt és a kastélyt, így minimalizálva a kint töltött időt a fagyban. A múzeumok meleg menedéket nyújtanak a látogatás alatt. A korai naplementével élvezheti az utazást a kivilágított Sønderborgon át, mielőtt visszatérne a város szívében lévő templomhoz.",
+            "ro": "O dimineață răcoroasă la autogară dă startul zilei de iarnă. La prânz ajungeți confortabil la Dybbøl și la Castel, reducând la minimum timpul petrecut afară. Muzeele sunt refugii calde în timpul vizitelor. Odată cu apusul devreme, vă bucurați de drumul prin orașul iluminat înainte de a reveni la biserică.",
+            "en": "A cool morning at the bus station kicks off your winter day. At noon, reach Dybbøl and the Castle comfortably by bus, keeping outdoor time to a minimum. Museums serve as warm refuges during your visits. With the early sunset, enjoy the ride through illuminated Sønderborg before returning to St. Mary's Church in the heart of town."
+          },
+          "stops": [
+            {
+              "name": "Sønderborg Bus Station",
+              "tip_5lang": {
+                "de": "Innenräume zum Warten sind vorhanden.",
+                "hu": "Fűtött váróhelyiségek állnak rendelkezésre.",
+                "ro": "Sunt disponibile spații interioare pentru așteptare.",
+                "en": "Indoor waiting areas are available."
+              }
+            },
+            {
+              "name": "History Centre Dybbøl Banke Stop",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Rückfahrplan; Wintertakte können variieren.",
+                "hu": "Ellenőrizze a visszautat; a téli menetrend eltérhet.",
+                "ro": "Verificați orarul de întoarcere; frecvența de iarnă poate varia.",
+                "en": "Check the return schedule; winter frequencies may vary."
+              }
+            },
+            {
+              "name": "Dybbøl Mill",
+              "tip_5lang": {
+                "de": "Nur wenige Gehminuten von der Bushaltestelle entfernt.",
+                "hu": "Csak pár perc séta a buszmegállótól.",
+                "ro": "La doar câteva minute de mers pe jos de stație.",
+                "en": "Only a few minutes' walk from the bus stop."
+              }
+            },
+            {
+              "name": "Sønderborg Castle Stop",
+              "tip_5lang": {
+                "de": "Die Haltestelle liegt nah am warmen Museum.",
+                "hu": "A megálló közel van a fűtött múzeumhoz.",
+                "ro": "Stația este aproape de muzeul încălzit.",
+                "en": "The stop is located close to the warm museum."
+              }
+            },
+            {
+              "name": "Sønderborg Harbour Promenade",
+              "tip_5lang": {
+                "de": "Vom Bus aus lässt sich die Küstenlinie gut überblicken.",
+                "hu": "A buszból jól belátható a tengerparti sáv.",
+                "ro": "Linia coastei poate fi observată bine din autobuz.",
+                "en": "The coastline can be easily viewed from the bus."
+              }
+            },
+            {
+              "name": "St. Mary's Church",
+              "tip_5lang": {
+                "de": "Zentraler Ausstiegspunkt für Einkaufsstraßen und Cafés.",
+                "hu": "Központi leszállóhely a bevásárlóutcákhoz és kávézókhoz.",
+                "ro": "Punct central de coborâre pentru magazine și cafenele.",
+                "en": "Central drop-off point for shopping streets and cafés."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Halten Sie Ihre Fahrkarte griffbereit, um Kälte an der Tür zu vermeiden.",
+              "Die Hauptlinien verkehren auch im Winter zuverlässig.",
+              "Der Busbahnhof ist ein guter Ort für eine kurze Aufwärmpause.",
+              "Achten Sie auf mögliche wetterbedingte Verzögerungen."
+            ],
+            "hu": [
+              "Tartsa készenlétben a jegyét, hogy ne kelljen fagyoskodni a buszajtóban.",
+              "A fővonalak télen is megbízhatóan közlekednek.",
+              "A buszpályaudvar jó hely egy rövid felmelegedéshez.",
+              "Ügyeljen az időjárás miatti esetleges késésekre."
+            ],
+            "ro": [
+              "Țineți biletul la îndemână pentru a evita frigul la ușă.",
+              "Liniile principale circulă cu încredere și iarna.",
+              "Autogara este un loc bun pentru o scurtă pauză de încălzire.",
+              "Fiți atenți la posibilele întârzieri cauzate de vreme."
+            ],
+            "en": [
+              "Keep your ticket ready to minimize time standing in the cold at the bus door.",
+              "The main lines run reliably even in winter.",
+              "The bus station is a good place for a quick warm-up break.",
+              "Be aware of potential weather-related delays."
+            ]
+          }
+        }
       }
     }
   }

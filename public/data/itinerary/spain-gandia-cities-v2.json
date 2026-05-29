@@ -300,6 +300,188 @@
           "Many shops observe a siesta, so plan your shopping for the morning or late afternoon.",
           "Bring plenty of water, especially during the summer months."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens erkunden wir das Rathaus unter den Arkaden. Mittags bietet der Borja-Palast trockenen Unterschlupf in prächtigen Sälen. Nachmittags ist Museumszeit im MAGa, perfekt für Regentage. Den Abend lassen wir gemütlich in den überdachten Gassen der Altstadt ausklingen, wo Cafés zum Verweilen einladen.",
+            "hu": "Reggel az arkádok alatt fedezzük fel a városházát. Délben a Borja-palota dísztermei nyújtanak száraz menedéket a zord idő elől. Délután a MAGa múzeum kiállításai ideálisak esős időre. Az estét az óváros fedett teraszain és hangulatos kávézóiban zárjuk, figyelve az eső kopogását a régi köveken.",
+            "ro": "Dimineața explorăm primăria la adăpostul arcadelor. La prânz, Palatul Ducal Borja oferă refugiu uscat în sălile sale magnifice. După-amiaza este dedicată muzeului MAGa, perfect pentru zilele ploioase. Seara se încheie confortabil în cafenelele din centrul vechi, unde atmosfera rămâne primitoare.",
+            "en": "Morning starts at the Town Hall, utilizing the nearby arcades for cover. Midday is spent inside the magnificent Ducal Palace, a perfect dry retreat. Afternoon continues at the Archaeological Museum, ideal for rainy weather. The evening concludes in the cozy indoor cafes of the historic center."
+          },
+          "stops": [
+            {
+              "name": "Gandia Town Hall (Ajuntament)",
+              "tip_5lang": {
+                "de": "Die Arkaden des Platzes bieten guten Schutz vor Regenschauern.",
+                "hu": "A tér árkádjai kiváló védelmet nyújtanak a hirtelen záporok ellen.",
+                "ro": "Arcadele pieței oferă o protecție bună împotriva ploii.",
+                "en": "The square's arcades offer excellent shelter during sudden rain showers."
+              }
+            },
+            {
+              "name": "Old University (Escuelas Pías)",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Innenhof und die Ausstellungsräume als trockene Station.",
+                "hu": "Használja a belső udvart és a kiállítótereket száraz pihenőként.",
+                "ro": "Folosiți curtea interioară și sălile ca punct de oprire uscat.",
+                "en": "Use the inner courtyard and exhibition spaces as a dry stopover."
+              }
+            },
+            {
+              "name": "Collegiate Church of Santa Maria",
+              "tip_5lang": {
+                "de": "Ein ruhiger, trockener Ort, um den stärksten Regen abzuwarten.",
+                "hu": "Csendes és száraz helyszín a nagyobb eső kivárásához.",
+                "ro": "Un loc liniștit și uscat pentru a aștepta trecerea ploii torențiale.",
+                "en": "A quiet, dry location to wait out the heaviest rainfall."
+              }
+            },
+            {
+              "name": "Ducal Palace of the Borja",
+              "tip_5lang": {
+                "de": "Perfekt für Regentage: Die Tour findet komplett im Innenbereich statt.",
+                "hu": "Ideális esőben: a látogatás végig fedett belső terekben zajlik.",
+                "ro": "Perfect pentru ploaie: vizita are loc integral în interior.",
+                "en": "Perfect for rainy days: the tour takes place entirely indoors."
+              }
+            },
+            {
+              "name": "MAGa - Archaeological Museum of Gandia",
+              "tip_5lang": {
+                "de": "Große Garderobe vorhanden, um nasse Schirme und Mäntel abzugeben.",
+                "hu": "Tágas ruhatár áll rendelkezésre a vizes esernyők és kabátok leadásához.",
+                "ro": "Garderobă disponibilă pentru a lăsa umbrelele și haina udă.",
+                "en": "Spacious cloakroom available to leave wet umbrellas and coats."
+              }
+            },
+            {
+              "name": "Marqués de González de Quirós House of Culture",
+              "tip_5lang": {
+                "de": "Das Café im Inneren ist ein wunderbarer Ort für eine Pause im Trockenen.",
+                "hu": "A belső kávézó remek hely egy száraz pihenőhöz a nap végén.",
+                "ro": "Cafeneaua interioară este un loc excelent pentru o pauză la uscat.",
+                "en": "The indoor cafe is a wonderful spot for a dry break at the end of the day."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da die Pflastersteine in der Altstadt rutschig werden können.",
+              "Die Arkaden rund um die Plaça Major sind strategische Punkte zum Unterstellen.",
+              "Nutzen Sie die ausgedehnten Innenbesichtigungen im Palast und Museum während der Regenphasen.",
+              "Ein kompakter Regenschirm ist praktischer als ein Cape in den engen Museumsgängen."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert az óváros kövezete esőben csúszóssá válhat.",
+              "A Plaça Major körüli árkádok stratégiai pontok az eső elöli menedékre.",
+              "Használja ki a palota és a múzeum hosszú belső túráit a záporok idején.",
+              "Egy összecsukható esernyő praktikusabb a szűk múzeumi folyosókon, mint egy esőkabát."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, pavajul din centrul vechi devine alunecos.",
+              "Arcadele din jurul Plaça Major sunt puncte strategice pentru a vă adăposti.",
+              "Profitați de vizitele interioare lungi la palat și muzeu în timpul ploii.",
+              "O umbrelă compactă este mai practică decât o pelerină în coridoarele muzeului."
+            ],
+            "en": [
+              "Wear waterproof shoes as the old town's pavement can become slippery when wet.",
+              "The arcades around Plaça Major are strategic points to take cover from showers.",
+              "Take advantage of the extensive indoor tours at the palace and museum during rain.",
+              "A compact umbrella is more practical than a poncho in narrow museum corridors."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter beginnt der Morgen frisch am Rathaus. Mittags wärmen wir uns im prächtigen Borja-Palast auf, der auch an kühlen Tagen Glanz versprüht. Nachmittags bietet das MAGa-Museum Kultur ohne kalten Wind. Der frühe Sonnenuntergang taucht die Altstadt in ein warmes Licht, bevor wir uns in ein gemütliches Restaurant zurückziehen.",
+            "hu": "Télen a reggel frissen indul a városházánál. Délben a Borja-palota pazar termeiben melegszünk fel, amelyek hűvösebb napokon is ragyognak. Délután a MAGa múzeum kínál kultúrát szélvédett helyen. A korai naplemente aranyba vonja az óvárost, mielőtt behúzódnánk egy barátságos étterembe.",
+            "ro": "Iarna, dimineața începe răcoros la primărie. La prânz ne încălzim în sălile somptuoase ale Palatului Borja. După-amiaza, muzeul MAGa oferă cultură la adăpost de vântul rece. Apusul timpuriu scaldă centrul vechi în lumină caldă înainte de a ne retrage la un restaurant primitor.",
+            "en": "Winter mornings start crisp at the Town Hall. Midday is perfect for warming up inside the Borja Palace's grand halls. Afternoon is spent sheltered from the breeze at the MAGa museum. The early sunset casts a golden glow over the old town before we retreat to a cozy local restaurant."
+          },
+          "stops": [
+            {
+              "name": "Gandia Town Hall (Ajuntament)",
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Winterluft auf dem noch ruhigen Platz.",
+                "hu": "Élvezze a friss téli levegőt a még csendes főtéren.",
+                "ro": "Bucurați-vă de aerul curat de iarnă în piața încă liniștită.",
+                "en": "Enjoy the crisp winter air in the still-quiet main square."
+              }
+            },
+            {
+              "name": "Old University (Escuelas Pías)",
+              "tip_5lang": {
+                "de": "Die massiven Mauern halten die Kälte draußen; ideal zum Aufwärmen.",
+                "hu": "A vaskos falak kint tartják a hideget; ideális hely a felmelegedésre.",
+                "ro": "Zidurile masive țin frigul afară; ideal pentru a vă încălzi puțin.",
+                "en": "The thick walls keep the chill out; an ideal spot to warm up."
+              }
+            },
+            {
+              "name": "Collegiate Church of Santa Maria",
+              "tip_5lang": {
+                "de": "Achten Sie auf die besonderen Lichtspiele der tiefstehenden Wintersonne.",
+                "hu": "Figyelje meg az alacsonyan járó téli nap különleges fényjátékát.",
+                "ro": "Observați jocurile de lumină ale soarelui de iarnă pe vitralii.",
+                "en": "Observe the unique light patterns from the low winter sun."
+              }
+            },
+            {
+              "name": "Ducal Palace of the Borja",
+              "tip_5lang": {
+                "de": "Ein Highlight im Winter, da die Innenräume angenehm temperiert sind.",
+                "hu": "Téli csúcspont, mivel a belső terek kellemesen temperáltak.",
+                "ro": "Un punct forte iarna, interioarele fiind menținute la o temperatură plăcută.",
+                "en": "A winter highlight, as the interiors are kept at a comfortable temperature."
+              }
+            },
+            {
+              "name": "MAGa - Archaeological Museum of Gandia",
+              "tip_5lang": {
+                "de": "Perfekt für den kühlen Nachmittag, bevor es früh dunkel wird.",
+                "hu": "Tökéletes hűvös délutáni program, mielőtt korán besötétedik.",
+                "ro": "Perfect pentru după-amiaza răcoroasă, înainte de lăsarea întunericului.",
+                "en": "Perfect for a chilly afternoon before it gets dark early."
+              }
+            },
+            {
+              "name": "Marqués de González de Quirós House of Culture",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich mit einer heißen Schokolade im Kulturzentrum auf.",
+                "hu": "Melegedjen fel egy forró csokoládéval a kulturális központban.",
+                "ro": "Încălziți-vă cu o ciocolată caldă în centrul cultural.",
+                "en": "Warm up with a hot chocolate inside the cultural center."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich im Zwiebelprinzip, da Museen oft deutlich wärmer sind als die Gassen.",
+              "Die Sonne geht gegen 17:30 Uhr unter, planen Sie Außenfotos davor ein.",
+              "Genießen Sie die typischen winterlichen Süßspeisen wie Turrón in den Konditoreien.",
+              "Die Schatten in den engen Gassen können kühl sein, halten Sie sich auf sonnigen Plätzen auf."
+            ],
+            "hu": [
+              "Öltözzön rétegesen, mert a múzeumok sokkal melegebbek, mint a kinti utcák.",
+              "A nap 17:30 körül nyugszik, a kültéri fotókat tervezze korábbra.",
+              "Kóstolja meg a jellegzetes téli édességeket, például a turrónt a cukrászdákban.",
+              "A szűk utcák árnyékos oldala hűvös lehet, keressen napos pontokat a pihenőkhöz."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi, muzeele sunt mult mai calde decât străzile înguste.",
+              "Soarele apune în jur de 17:30, planificați fotografiile exterioare înainte.",
+              "Savurați dulciurile tipice de iarnă, cum ar fi turrón-ul, în patiseriile locale.",
+              "Umbra din străzile înguste poate fi rece, stați în piețele însorite pentru pauze."
+            ],
+            "en": [
+              "Dress in layers, as museums are often much warmer than the shaded streets.",
+              "Sunset is around 5:30 PM, so plan your outdoor photography accordingly.",
+              "Try typical winter sweets like turrón in the local pastry shops.",
+              "The shade in narrow streets can be chilly, so stick to sunny squares for breaks."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -594,6 +776,188 @@
           "Some streets in the old town are narrow, you might need to dismount and walk.",
           "Always lock your bike, even for short stops."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Am Vormittag radeln wir vorsichtig durch die Altstadt zum Borja-Palast. Mittags bietet die Fahrt zum Hafen eine frische Brise, trotz Regen. Den Nachmittag verbringen wir in Strandnähe, wo wir die Räder sicher abstellen und den Blick auf das stürmische Meer aus einem Café genießen. Abends geht es zügig zurück ins Stadtzentrum.",
+            "hu": "Délelőtt óvatosan kerekezünk az óvároson át a palotáig. Délben a kikötő felé tartó út frissítő, az eső ellenére is. A délutánt a tengerpart közelében töltjük, ahol biztonságban lelakatoljuk a gépeket, és egy kávézóból nézzük a viharos tengert. Este tempósan tekerünk vissza a központba.",
+            "ro": "Dimineața pedalăm cu atenție prin centrul vechi spre palat. La prânz, drumul spre port oferă o briză proaspătă, în ciuda ploii. După-amiaza o petrecem lângă plajă, unde parcăm bicicletele și admirăm marea agitată dintr-o cafenea. Seara revenim rapid spre centrul orașului.",
+            "en": "Morning bike ride through the old town requires care on wet stones. Midday ride to the port is refreshing despite the rain. Afternoon is spent near the beach, where we lock up the bikes and watch the stormy sea from a cozy cafe. Evening involves a brisk ride back to the city center."
+          },
+          "stops": [
+            {
+              "name": "Town Hall and Plaça Major",
+              "tip_5lang": {
+                "de": "Vorsicht beim Anfahren: Das nasse Pflaster kann sehr rutschig sein.",
+                "hu": "Vigyázat induláskor: a vizes kövezet nagyon csúszós lehet.",
+                "ro": "Atenție la plecare: pavajul umed poate fi foarte alunecos.",
+                "en": "Caution when starting: the wet pavement can be very slippery."
+              }
+            },
+            {
+              "name": "Ducal Palace of the Borja",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter den Vorsprüngen in der Nähe ab.",
+                "hu": "Parkolja le a kerékpárt a közeli ereszaljak védelmében.",
+                "ro": "Parcați bicicleta sub streșinile clădirilor din apropiere.",
+                "en": "Park your bike under the building overhangs nearby for protection."
+              }
+            },
+            {
+              "name": "Collegiate Church of Santa Maria",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp für einen kurzen Check Ihrer Bremsen.",
+                "hu": "Használja ki a megállót a fékek rövid ellenőrzésére.",
+                "ro": "Folosiți oprirea pentru o verificare rapidă a frânelor.",
+                "en": "Use the stop for a quick check of your brakes in the wet."
+              }
+            },
+            {
+              "name": "Port of Gandia (El Grau)",
+              "tip_5lang": {
+                "de": "Die Radwege am Hafen sind gut asphaltiert und bei Regen griffig.",
+                "hu": "A kikötői kerékpárutak jól aszfaltozottak és esőben is tapadnak.",
+                "ro": "Pistele de biciclete din port sunt bine asfaltate și au aderență pe ploaie.",
+                "en": "Port bike paths are well-paved and maintain good grip in the rain."
+              }
+            },
+            {
+              "name": "Playa de Gandia",
+              "tip_5lang": {
+                "de": "Suchen Sie sich ein Strandcafé mit Blick auf die Räder.",
+                "hu": "Keressen egy parti kávézót, ahonnan rálát a kerékpárokra.",
+                "ro": "Căutați o cafenea pe plajă cu vedere directă spre biciclete.",
+                "en": "Find a beach cafe with a clear view of your parked bikes."
+              }
+            },
+            {
+              "name": "Sunset at the Beach",
+              "tip_5lang": {
+                "de": "Regenschleier über dem Meer bieten dramatische Fotomotive.",
+                "hu": "Az esőfüggöny a tenger felett drámai fotótémát kínál.",
+                "ro": "Perdeaua de ploaie peste mare oferă motive fotografice dramatice.",
+                "en": "Rain curtains over the sea provide dramatic photo opportunities."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie abrupte Bremsmanöver auf den glatten Steinen der Altstadt.",
+              "Vorder- und Rücklichter sind bei Regen für die Sichtbarkeit unerlässlich.",
+              "Nutzen Sie die Radwege entlang der Allee nach Grau, sie sind sicherer bei Nässe.",
+              "Ein Sattelüberzug hält Ihre Sitzfläche während der Besichtigungen trocken."
+            ],
+            "hu": [
+              "Kerülje a hirtelen fékezést az óváros csúszós kövein.",
+              "Az első és hátsó lámpák használata esőben elengedhetetlen a láthatóságért.",
+              "Használja a Grau felé vezető sugárút kerékpárútjait, esőben ezek biztonságosabbak.",
+              "Egy nyeregvédő szárazon tartja az ülést a látogatások ideje alatt."
+            ],
+            "ro": [
+              "Evitați frânările bruște pe pietrele lucioase din centrul vechi.",
+              "Luminile față și spate sunt esențiale pentru vizibilitate pe timp de ploaie.",
+              "Folosiți pistele de biciclete de pe bulevardul spre Grau, sunt mai sigure pe ud.",
+              "O husă pentru șa vă va menține locul uscat în timpul vizitelor."
+            ],
+            "en": [
+              "Avoid abrupt braking on the slippery stones of the historic center.",
+              "Front and rear lights are essential for visibility during rain showers.",
+              "Use the bike paths along the avenue to Grau; they are safer in wet conditions.",
+              "A saddle cover will keep your seat dry while you are exploring indoors."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintertag ist ideal für eine Radtour zum Meer. Morgens geht es durch die historische Mitte, mittags am breiten Boulevard entlang zum Hafen von Grau. Den Nachmittag genießen wir am fast leeren Strand, wo die milde Sonne zum Verweilen einlädt. Bevor es abends kühl wird, radeln wir zurück ins lebendige Gandia.",
+            "hu": "Egy tiszta téli nap ideális egy bringatúrához a tengerig. Reggel a történelmi központon vágunk át, délben a széles sugárúton tekerünk a Grau kikötőjéig. A délutánt a szinte üres strandon töltjük, ahol a szelíd napfény hívogat. Mielőtt este lehűlne, visszakerekezünk a nyüzsgő Gandiába.",
+            "ro": "O zi senină de iarnă este ideală pentru o tură cu bicicleta la mare. Dimineața traversăm centrul istoric, iar la prânz pedalăm pe bulevardul larg spre portul Grau. După-amiaza ne bucurăm de plaja aproape goală sub soarele blând. Înainte de răcoarea serii, revenim în Gandia.",
+            "en": "A clear winter day is perfect for a bike trip to the sea. Morning ride through the historic center leads to a midday cruise down the boulevard to Grau Port. Enjoy the nearly empty beach in the afternoon sun. Before the evening chill sets in, we bike back to lively Gandia."
+          },
+          "stops": [
+            {
+              "name": "Town Hall and Plaça Major",
+              "tip_5lang": {
+                "de": "Handschuhe sind für die erste Etappe am Morgen sehr zu empfehlen.",
+                "hu": "Kesztyű viselése erősen ajánlott a reggeli első szakaszhoz.",
+                "ro": "Mănușile sunt recomandate pentru prima etapă a dimineții.",
+                "en": "Wearing gloves is highly recommended for the first leg in the morning."
+              }
+            },
+            {
+              "name": "Ducal Palace of the Borja",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Besichtigung, um Ihre Hände aufzuwärmen.",
+                "hu": "Használja ki a látogatást a kezei felmelegítésére.",
+                "ro": "Profitați de vizită pentru a vă încălzi mâinile în interior.",
+                "en": "Take advantage of the indoor visit to warm up your hands."
+              }
+            },
+            {
+              "name": "Collegiate Church of Santa Maria",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp im windgeschützten Bereich der Kirche.",
+                "hu": "Rövid megálló a templom szélvédett környezetében.",
+                "ro": "O scurtă oprire în zona ferită de vânt a bisericii.",
+                "en": "A short stop in the wind-sheltered area around the church."
+              }
+            },
+            {
+              "name": "Port of Gandia (El Grau)",
+              "tip_5lang": {
+                "de": "Der Seewind kann im Winter frisch sein; Windjacke einplanen.",
+                "hu": "A tengeri szél télen hűvös lehet; készüljön szélkabáttal.",
+                "ro": "Vântul marin poate fi tăios iarna; asigurați-vă că aveți o jachetă.",
+                "en": "The sea breeze can be chilly in winter; bring a windbreaker."
+              }
+            },
+            {
+              "name": "Playa de Gandia",
+              "tip_5lang": {
+                "de": "Ideal für ein Picknick in der Sonne am windgeschützten Dünenrand.",
+                "hu": "Ideális egy piknikhez a napon, a szélvédett dűnék tövében.",
+                "ro": "Ideal pentru un picnic la soare, la adăpostul dunelor de nisip.",
+                "en": "Ideal for a picnic in the sun, sheltered by the edge of the dunes."
+              }
+            },
+            {
+              "name": "Sunset at the Beach",
+              "tip_5lang": {
+                "de": "Die Sonne verschwindet früh; Licht für den Rückweg bereithalten.",
+                "hu": "A nap korán lemegy; legyen készenlétben a világítás a visszaúthoz.",
+                "ro": "Soarele apune devreme; aveți luminile pregătite pentru retur.",
+                "en": "The sun sets early; have your lights ready for the ride back."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Fahrtwind macht die gefühlte Temperatur deutlich kühler.",
+              "Prüfen Sie den Reifendruck; kalte Luft lässt ihn leicht sinken.",
+              "Die Route nach Grau ist flach und auch bei Winterbrise gut zu befahren.",
+              "Planen Sie die Rückfahrt vor 17:00 Uhr, um im Hellen anzukommen."
+            ],
+            "hu": [
+              "A menetszél miatt a hőérzet jóval alacsonyabb a valósnál.",
+              "Ellenőrizze a guminyomást; a hideg levegő miatt kissé csökkenhet.",
+              "A Grau felé vezető út sík, téli szélben is könnyen tekerhető.",
+              "A visszautat tervezze 17:00 előttre, hogy még világosban érjen vissza."
+            ],
+            "ro": [
+              "Vântul creat de mișcare face ca temperatura resimțită să fie mai mică.",
+              "Verificați presiunea în pneuri; aerul rece o poate face să scadă.",
+              "Traseul spre Grau este plat și ușor de parcurs chiar și cu briză de iarnă.",
+              "Planificați drumul de întoarcere înainte de ora 17:00 pentru vizibilitate."
+            ],
+            "en": [
+              "The wind chill while riding makes the temperature feel much lower.",
+              "Check your tire pressure; cold air can cause it to drop slightly.",
+              "The route to Grau is flat and easy to ride even with a winter breeze.",
+              "Plan your return journey before 5:00 PM to arrive in daylight."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -870,6 +1234,170 @@
           "Traffic to the beach can be heavy in summer, so allow extra time.",
           "Be aware of blue zones (Zona Azul) for paid on-street parking."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erreichen wir Gandia bequem trotz Regen. Vormittags parken wir nahe der Altstadt für kurze Wege zum Palast. Mittags fahren wir geschützt an die Küste. Den Nachmittag verbringen wir entspannt am Strand von Gandia, wo wir vom Auto aus oder in einem nahen Restaurant das Meer beobachten, bevor wir abends trocken zurückkehren.",
+            "hu": "Autóval az eső ellenére is kényelmesen érjük el Gandiát. Délelőtt az óváros közelében parkolunk, hogy csak rövid utat kelljen gyalog megtenni a palotáig. Délben védett autóval hajtunk ki a partra. A délutánt a strandon töltjük, az autóból vagy egy közeli étteremből figyelve a tengert, majd este szárazon térünk vissza.",
+            "ro": "Cu mașina ajungem confortabil în Gandia în ciuda ploii. Dimineața parcăm lângă centrul vechi pentru acces rapid la palat. La prânz conducem spre coastă feriți de intemperii. După-amiaza o petrecem la plajă, admirând marea din mașină sau dintr-un restaurant, înainte de a reveni seara la uscat.",
+            "en": "By car, we reach Gandia comfortably despite the rain. Morning parking near the old town allows for short walks to the palace. Midday drive to the coast keeps us sheltered. Afternoon is spent at Gandia Beach, watching the waves from the car or a nearby restaurant before a dry drive back."
+          },
+          "stops": [
+            {
+              "name": "Park & Explore Historic Center",
+              "tip_5lang": {
+                "de": "Nutzen Sie Parkhäuser, um trockenen Fußes ins Zentrum zu gelangen.",
+                "hu": "Használja a parkolóházakat, hogy száraz lábbal jusson a központba.",
+                "ro": "Folosiți parcările subterane pentru a ajunge în centru fără a vă uda.",
+                "en": "Use parking garages to reach the center with dry feet."
+              }
+            },
+            {
+              "name": "Ducal Palace and Collegiate Church",
+              "tip_5lang": {
+                "de": "Lassen Sie Schirme im Auto, falls der Weg vom Parkplatz kurz ist.",
+                "hu": "Hagyja az ernyőket az autóban, ha a parkolótól rövid az út.",
+                "ro": "Lăsați umbrelele în mașină dacă distanța de la parcare este mică.",
+                "en": "Leave umbrellas in the car if the walk from the parking is short."
+              }
+            },
+            {
+              "name": "Archaeological Museum of Gandia (MAGa)",
+              "tip_5lang": {
+                "de": "Zentrale Lage ermöglicht schnelles Umparken bei starkem Regen.",
+                "hu": "A központi elhelyezkedés lehetővé teszi a gyors átparkolást nagy esőben.",
+                "ro": "Locația centrală permite mutarea rapidă a mașinii în caz de ploaie torențială.",
+                "en": "Central location allows for quick re-parking during heavy rain."
+              }
+            },
+            {
+              "name": "Drive & Park at Gandia Beach",
+              "tip_5lang": {
+                "de": "Parkplätze direkt am Paseo Marítimo bieten beste Aussicht.",
+                "hu": "A közvetlenül a Paseo Marítimo melletti parkolók kínálják a legjobb kilátást.",
+                "ro": "Locurile de parcare direct pe Paseo Marítimo oferă cea mai bună vedere.",
+                "en": "Parking spots directly on Paseo Marítimo offer the best views."
+              }
+            },
+            {
+              "name": "Lunch and Beach Relaxation",
+              "tip_5lang": {
+                "de": "Genießen Sie das Meeresrauschen geschützt in Ihrem Fahrzeug.",
+                "hu": "Élvezze a tenger morajlását biztonságban a járművéből.",
+                "ro": "Bucurați-vă de sunetul mării protejat în interiorul vehiculului.",
+                "en": "Enjoy the sound of the sea protected inside your vehicle."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Küstenstraße kann bei starkem Regen stellenweise Pfützen bilden.",
+              "Parkhäuser in der Altstadt wie 'Prado' sind ideal für Regentage.",
+              "Nutzen Sie die Fahrtzeit zwischen Stadt und Strand zum Aufwärmen der Kabine.",
+              "Haben Sie ein Handtuch im Auto, um nassgewordene Sitze abzutrocknen."
+            ],
+            "hu": [
+              "A parti úton heves esőzéskor helyenként tócsák alakulhatnak ki.",
+              "Az óvárosi parkolóházak, mint a 'Prado', ideálisak esős napokon.",
+              "Használja ki a város és a strand közötti utat az utastér felmelegítésére.",
+              "Tartson egy törölközőt az autóban az esetlegesen vizes ülések áttörléséhez."
+            ],
+            "ro": [
+              "Drumul de coastă poate prezenta bălți mari în timpul ploilor torențiale.",
+              "Parcările acoperite din centrul vechi, precum 'Prado', sunt ideale.",
+              "Folosiți timpul de condus între oraș și plajă pentru a încălzi cabina.",
+              "Țineți un prosop în mașină pentru a șterge scaunele dacă vă udați."
+            ],
+            "en": [
+              "The coastal road may develop large puddles during heavy rainfall.",
+              "Old town parking garages like 'Prado' are ideal for rainy days.",
+              "Use the drive between town and beach to warm up the car interior.",
+              "Keep a towel in the car to dry off the seats if you get wet."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter bietet das Auto maximale Flexibilität für Gandia. Morgens erkunden wir die Altstadt, mittags fahren wir zum sonnigen Hafen. Den Nachmittag genießen wir am weiten Strand, wobei das Auto als Basis für Decken und warme Getränke dient. Zum Abendessen geht es zurück ins beleuchtete Zentrum, bequem und warm.",
+            "hu": "Télen az autó maximális rugalmasságot ad Gandiában. Reggel az óvárost fedezzük fel, délben a napfényes kikötőbe hajtunk. A délutánt a tágas strandon töltjük, ahol az autó bázisként szolgál a takaróknak és meleg italoknak. Vacsorához kényelmesen és melegben térünk vissza a kivilágított központba.",
+            "ro": "Iarna, mașina oferă flexibilitate maximă în Gandia. Dimineața explorăm centrul vechi, iar la prânz conducem spre portul însorit. După-amiaza o petrecem pe plaja vastă, mașina fiind baza pentru pături și băuturi calde. Revenim seara în centrul luminat, confortabil și la căldură.",
+            "en": "Winter car travel offers maximum flexibility for Gandia. Morning exploration of the old town is followed by a midday drive to the sunny port. Afternoon is enjoyed at the wide beach, with the car acting as a base for blankets and warm drinks. Return to the lit center for dinner in comfort."
+          },
+          "stops": [
+            {
+              "name": "Park & Explore Historic Center",
+              "tip_5lang": {
+                "de": "Sonnige Parkplätze wählen, um das Auto natürlich aufzuwärmen.",
+                "hu": "Válasszon napos parkolóhelyet, hogy az autó természetes módon felmelegedjen.",
+                "ro": "Alegeți locuri de parcare însorite pentru a încălzi natural mașina.",
+                "en": "Choose sunny parking spots to warm up the car naturally."
+              }
+            },
+            {
+              "name": "Ducal Palace and Collegiate Church",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Kofferraum für die Aufbewahrung schwerer Wintermäntel.",
+                "hu": "Használja a csomagtartót a nehéz téli kabátok tárolására a séta alatt.",
+                "ro": "Folosiți portbagajul pentru a depozita hainele groase de iarnă în timpul vizitei.",
+                "en": "Use the trunk to store heavy winter coats during your walk."
+              }
+            },
+            {
+              "name": "Archaeological Museum of Gandia (MAGa)",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen den Sehenswürdigkeiten minimieren die Kälteexposition.",
+                "hu": "A látnivalók közötti rövid utak minimalizálják a hidegnek való kitettséget.",
+                "ro": "Distanțele scurte între obiective minimizează expunerea la frig.",
+                "en": "Short distances between sights minimize exposure to the cold air."
+              }
+            },
+            {
+              "name": "Drive & Park at Gandia Beach",
+              "tip_5lang": {
+                "de": "Im Winter sind die Parkplätze direkt am Strand meist kostenfrei.",
+                "hu": "Télen a strand közvetlen közelében lévő parkolók általában ingyenesek.",
+                "ro": "Iarna, locurile de parcare de lângă plajă sunt de obicei gratuite.",
+                "en": "In winter, parking spots directly by the beach are usually free of charge."
+              }
+            },
+            {
+              "name": "Lunch and Beach Relaxation",
+              "tip_5lang": {
+                "de": "Idealer Ort für einen 'Tailgate'-Kaffee mit Blick auf die Dünen.",
+                "hu": "Ideális hely egy csomagtartóból elfogyasztott kávéhoz a dűnék mellett.",
+                "ro": "Locul ideal pentru o cafea lângă mașină, cu vedere spre dune.",
+                "en": "Ideal spot for a coffee by the car with a view of the dunes."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf tiefstehende Sonne beim Fahren Richtung Küste (Blendschutz).",
+              "Reifendruck bei Kälte prüfen, besonders vor längeren Fahrten.",
+              "Die Parkgebühren sind im Winter in Strandnähe oft reduziert oder aufgehoben.",
+              "Nutzen Sie die Sitzheizung nach langen Strandspaziergängen."
+            ],
+            "hu": [
+              "Vezetéskor ügyeljen az alacsonyan járó napra a part felé (vakításveszély).",
+              "Hidegben ellenőrizze a guminyomást a biztonságos tapadásért.",
+              "A strand közelében a parkolási díjak télen gyakran alacsonyabbak vagy megszűnnek.",
+              "Használja az ülésfűtést a hosszú parti séták utáni felmelegedéshez."
+            ],
+            "ro": [
+              "Atenție la soarele care strălucește jos când conduceți spre coastă.",
+              "Verificați presiunea în anvelope pe timp de frig pentru siguranță.",
+              "Taxele de parcare lângă plajă sunt adesea reduse sau eliminate iarna.",
+              "Folosiți încălzirea în scaune după plimbările lungi pe malul mării."
+            ],
+            "en": [
+              "Watch out for the low winter sun when driving towards the coast.",
+              "Check tire pressure in cold weather for optimal safety and grip.",
+              "Parking fees near the beach are often reduced or suspended in winter.",
+              "Take advantage of seat heaters after long walks on the beach."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1146,6 +1674,170 @@
           "Buses to the beach (Line L2) are frequent, especially in summer.",
           "Validate your ticket when you board the bus."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Öffentliche Verkehrsmittel sind perfekt für Gandia bei Regen. Vormittags nutzen wir den Bus zum historischen Zentrum. Mittags bringt uns die 'Marina Gandiense' trocken zum Hafen und Strand. Den Nachmittag verbringen wir in den überdachten Bereichen am Port, bevor wir abends entspannt mit dem Bus zurück in die Stadt fahren.",
+            "hu": "A tömegközlekedés tökéletes esőben Gandiában. Délelőtt busszal érjük el a történelmi központot. Délben a 'Marina Gandiense' járat szárazon visz a kikötőhöz és a strandhoz. A délutánt a kikötő fedett részein töltjük, majd este kényelmesen buszozunk vissza a városba.",
+            "ro": "Transportul public este perfect pentru Gandia pe ploaie. Dimineața luăm autobuzul spre centrul istoric. La prânz, 'Marina Gandiense' ne duce la port și plajă feriți de udătură. După-amiaza o petrecem în zonele acoperite ale portului, iar seara revenim relaxați cu autobuzul.",
+            "en": "Public transit is perfect for Gandia in the rain. Morning bus ride takes us to the historic center. Midday, the 'Marina Gandiense' bus carries us dry to the port and beach. Afternoon is spent in sheltered areas by the port before a relaxed evening bus ride back."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Historic Center",
+              "tip_5lang": {
+                "de": "Warten Sie unter den überdachten Haltestellen auf den Anschluss.",
+                "hu": "Várja a csatlakozást a fedett buszmegállók védelmében.",
+                "ro": "Așteptați legătura sub adăpostul stațiilor de autobuz acoperite.",
+                "en": "Wait for your connection under the shelter of covered bus stops."
+              }
+            },
+            {
+              "name": "Ducal Palace of the Borja",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle liegt nur wenige Schritte vom Eingang entfernt.",
+                "hu": "A buszmegálló mindössze pár lépésre található a bejárattól.",
+                "ro": "Stația de autobuz se află la doar câțiva pași de intrare.",
+                "en": "The bus stop is located just a few steps away from the entrance."
+              }
+            },
+            {
+              "name": "Collegiate Church and Old University",
+              "tip_5lang": {
+                "de": "Kurze Fußwege zwischen den Stationen im Zentrum einplanen.",
+                "hu": "Tervezzen rövid gyalogos szakaszokat a központi megállók között.",
+                "ro": "Planificați distanțe scurte de mers pe jos între stațiile din centru.",
+                "en": "Plan for short walking distances between the central bus stops."
+              }
+            },
+            {
+              "name": "Bus to the Beach (Playa de Gandia)",
+              "tip_5lang": {
+                "de": "Häufige Verbindungen minimieren die Wartezeit im Regen.",
+                "hu": "A sűrű járatok minimalizálják az esőben való várakozást.",
+                "ro": "Frecvența mare a curselor minimizează așteptarea în ploaie.",
+                "en": "Frequent bus services minimize waiting time in the rain."
+              }
+            },
+            {
+              "name": "Port, Lunch, and Beach Time",
+              "tip_5lang": {
+                "de": "Suchen Sie sich einen Platz nahe der Haltestelle für die Rückfahrt.",
+                "hu": "Keressen egy helyet a megálló közelében a visszainduláshoz.",
+                "ro": "Căutați un loc aproape de stație pentru drumul de întoarcere.",
+                "en": "Find a spot near the bus stop for your return journey."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die gelben Busse (Marina Gandiense) fahren alle 15-20 Minuten.",
+              "Nutzen Sie die offizielle App für Echtzeit-Infos, um Regenpausen abzupassen.",
+              "Halten Sie Kleingeld oder die Transportkarte griffbereit für schnelles Einsteigen.",
+              "Die Haltestellen im Zentrum bieten oft guten Wetterschutz."
+            ],
+            "hu": [
+              "A sárga buszok (Marina Gandiense) 15-20 percenként közlekednek.",
+              "Használja a hivatalos alkalmazást a valós idejű infókért az eső elkerülésére.",
+              "Legyen kéznél aprópénz vagy a közlekedési kártya a gyors felszálláshoz.",
+              "A központi megállók gyakran jó védelmet nyújtanak az időjárás ellen."
+            ],
+            "ro": [
+              "Autobuzele galbene (Marina Gandiense) circulă la fiecare 15-20 de minute.",
+              "Folosiți aplicația oficială pentru informații în timp real despre sosiri.",
+              "Aveți pregătit măruntul sau cardul de transport pentru o urcare rapidă.",
+              "Stațiile din centru oferă adesea o protecție bună împotriva ploii."
+            ],
+            "en": [
+              "Yellow buses (Marina Gandiense) run every 15-20 minutes.",
+              "Use the official app for real-time info to minimize time spent in the rain.",
+              "Have small change or your transit card ready for quick boarding.",
+              "Bus stops in the city center often provide good shelter from the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Wintertage in Gandia sind entspannt mit dem Bus zu erleben. Morgens fahren wir ins geschäftige Zentrum, mittags bringt uns der Bus zum sonnigen Grau. Den Nachmittag verbringen wir am ruhigen Winterstrand, bevor wir pünktlich zum frühen Sonnenuntergang den Rückweg mit den öffentlichen Verkehrsmitteln antreten.",
+            "hu": "A téli Gandia kényelmesen felfedezhető busszal. Reggel a forgalmas központba utazunk, délben a busz a napsütötte Grau negyedbe visz. A délutánt a csendes téli strandon töltjük, majd pontosan a korai naplementére indulunk vissza a tömegközlekedéssel.",
+            "ro": "Zilele de iarnă în Gandia sunt relaxante cu autobuzul. Dimineața mergem în centrul animat, iar la prânz autobuzul ne duce în însoritul Grau. După-amiaza o petrecem pe plaja liniștită, înainte de a reveni cu transportul public la apus.",
+            "en": "Winter days in Gandia are relaxing by bus. Morning transit to the busy center is followed by a midday trip to sunny Grau. Spend the afternoon at the quiet winter beach before heading back via public transport right at early sunset."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Historic Center",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Weihnachtsbeleuchtung im Winter.",
+                "hu": "Élvezze a téli ünnepi fények látványát a buszablakból.",
+                "ro": "Admirați luminile de sărbători iarna direct din autobuz.",
+                "en": "Enjoy the view of winter festive lights from the bus window."
+              }
+            },
+            {
+              "name": "Ducal Palace of the Borja",
+              "tip_5lang": {
+                "de": "Im Winter sind die Busse angenehm beheizt.",
+                "hu": "Télen a buszok kellemesen fűtöttek.",
+                "ro": "Iarna, autobuzele sunt încălzite corespunzător.",
+                "en": "In winter, the buses are kept at a comfortable warm temperature."
+              }
+            },
+            {
+              "name": "Collegiate Church and Old University",
+              "tip_5lang": {
+                "de": "Nutzen Sie die kurzen Intervalle der Busse zwischen den Stadtteilen.",
+                "hu": "Használja ki a városrészek közötti buszok sűrű járatsűrűségét.",
+                "ro": "Profitați de intervalele scurte ale autobuzelor între cartiere.",
+                "en": "Take advantage of the frequent bus intervals between city districts."
+              }
+            },
+            {
+              "name": "Bus to the Beach (Playa de Gandia)",
+              "tip_5lang": {
+                "de": "Die Fahrt bietet schöne Ausblicke auf die winterliche Allee.",
+                "hu": "Az utazás szép kilátást nyújt a téli sugárútra.",
+                "ro": "Călătoria oferă vederi frumoase asupra bulevardului de iarnă.",
+                "en": "The ride offers beautiful views of the winter avenue towards the sea."
+              }
+            },
+            {
+              "name": "Port, Lunch, and Beach Time",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Fahrplan für die letzte Fahrt vor der Abendkühle.",
+                "hu": "Ellenőrizze az utolsó járatot az esti lehűlés előtt.",
+                "ro": "Verificați orarul pentru ultima cursă înainte de răcoarea serii.",
+                "en": "Check the schedule for the last convenient bus before the evening chill."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrpläne können an Feiertagen im Winter variieren.",
+              "Die Busse sind im Winter weniger überfüllt als im Sommer.",
+              "Die Fahrt zum Strand dauert ca. 15-20 Minuten.",
+              "Haltestellen sind gute Treffpunkte, falls man sich in der Gruppe trennt."
+            ],
+            "hu": [
+              "A menetrendek téli ünnepnapokon változhatnak.",
+              "A buszok télen sokkal kevésbé zsúfoltak, mint a nyári szezonban.",
+              "Az út a strandig körülbelül 15-20 percet vesz igénybe.",
+              "A megállók jó találkozási pontok, ha a csoport különválna."
+            ],
+            "ro": [
+              "Orarele pot varia în timpul sărbătorilor de iarnă.",
+              "Autobuzele sunt mult mai puțin aglomerate iarna decât vara.",
+              "Călătoria până la plajă durează aproximativ 15-20 de minute.",
+              "Stațiile sunt puncte bune de întâlnire dacă grupul se separă."
+            ],
+            "en": [
+              "Schedules may vary during winter holidays and festivals.",
+              "Buses are much less crowded in winter compared to the summer season.",
+              "The bus ride to the beach takes approximately 15-20 minutes.",
+              "Bus stops serve as good meeting points if your group decides to split up."
+            ]
+          }
+        }
       }
     }
   }

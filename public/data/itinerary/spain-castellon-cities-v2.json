@@ -260,6 +260,188 @@
           "Most museums are closed on Mondays.",
           "Lunch is typically not served until 2:00 PM here."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens nutzen wir die Arkaden der Plaza Mayor als Schutz vor dem Regen. Mittags bieten die Kathedrale und die Lonja del Cáñamo trockene Zufluchtsorte im Zentrum. Nachmittags vertiefen wir uns in die Kunstschätze des Museums, fernab vom grauen Himmel. Den Abend lassen wir bei einem Spaziergang im Ribalta-Park ausklingen, wo der Regen die Farben der Natur intensiviert.",
+            "hu": "Reggel a Plaza Mayor árkádjai alatt keressük az első menedéket az eső elől. Délben a katedrális és a Lonja del Cáñamo belső terei nyújtanak száraz pihenőt a város szívében. Délután a Szépművészeti Múzeum termeiben merülünk el a kultúrában, távol a sötét felhőktől. Estére a Ribalta-park óriási fái alatt sétálunk, ahol a vizes aszfalton megcsillannak a város fényei.",
+            "ro": "Dimineața folosim arcadele din Plaza Mayor pentru a ne adăposti de ploaie. La prânz, Catedrala și Lonja del Cáñamo oferă refugii uscate în inima orașului. După-amiaza ne concentrăm pe comorile artistice ale Muzeului de Arte Frumoase, departe de vremea mohorâtă. Seara se încheie cu o plimbare în Parcul Ribalta, unde ploaia scoate în evidență prospețimea vegetației mediteraneene.",
+            "en": "In the morning, we use the arcades of Plaza Mayor as shelter from the rain. At midday, the Cathedral and Lonja del Cáñamo provide dry refuges in the city center. Afternoon is spent immersed in the art treasures of the Fine Arts Museum, away from the grey skies. We end the evening with a walk in Ribalta Park, where the rain intensifies the scents and colors of the greenery."
+          },
+          "stops": [
+            {
+              "name": "Plaza Mayor",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden rund um den Platz, um trocken zu bleiben.",
+                "hu": "Használja a tér körüli árkádokat, hogy szárazon maradjon a nézelődés közben.",
+                "ro": "Folosiți arcadele din jurul pieței pentru a rămâne uscat în timp ce admirați zona.",
+                "en": "Use the arcades around the square to stay dry while observing the surroundings."
+              }
+            },
+            {
+              "name": "El Fadrí",
+              "tip_5lang": {
+                "de": "Vorsicht beim Aufstieg, die Steinstufen können bei Feuchtigkeit rutschig sein.",
+                "hu": "Vigyázat a felfelé menetnél, a kőlépcsők nedves időben csúszósak lehetnek.",
+                "ro": "Atenție la urcare, treptele de piatră pot fi alunecoase când este umezeală.",
+                "en": "Be careful during the climb, the stone steps can be slippery in wet weather."
+              }
+            },
+            {
+              "name": "Konkathedrale Santa María",
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um den stärksten Regen im prachtvollen Innenraum abzuwarten.",
+                "hu": "Tökéletes hely a leghevesebb eső kivárására a pompás belső térben.",
+                "ro": "Un loc perfect pentru a aștepta trecerea ploii în interiorul magnific.",
+                "en": "A perfect place to wait out the heaviest rain inside the magnificent interior."
+              }
+            },
+            {
+              "name": "Lonja del Cáñamo",
+              "tip_5lang": {
+                "de": "Die Fassade ist auch unter einem Regenschirm sehr beeindruckend.",
+                "hu": "A homlokzat még esernyő alól nézve is lenyűgöző látványt nyújt.",
+                "ro": "Fațada este impresionantă chiar și privită de sub umbrelă.",
+                "en": "The facade is impressive even when viewed from under an umbrella."
+              }
+            },
+            {
+              "name": "Museum der Schönen Künste",
+              "tip_5lang": {
+                "de": "Ideal für regnerische Stunden, nehmen Sie sich Zeit für die Keramikausstellung.",
+                "hu": "Ideális esős órákra, szánjon időt a kerámiakiállítás megtekintésére.",
+                "ro": "Ideal pentru orele ploioase, vizitați expoziția de ceramică.",
+                "en": "Ideal for rainy hours, take your time visiting the ceramics exhibition."
+              }
+            },
+            {
+              "name": "Ribalta-Park",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den dichten Baumkronen oder im Musikpavillon.",
+                "hu": "Keressen menedéket a sűrű lombkoronák alatt vagy a zenepavilonban.",
+                "ro": "Căutați adăpost sub coroanele dese ale copacilor sau în pavilionul muzical.",
+                "en": "Seek shelter under the thick tree canopies or in the music pavilion."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da sich in der Altstadt Pfützen bilden können.",
+              "Die Plaza Mayor bietet mit ihren Gängen den besten natürlichen Schutz.",
+              "Museen und Kirchen sind Ihre besten Freunde bei anhaltendem Niederschlag.",
+              "Ein kleiner Taschenschirm ist bei den engen Gassen praktischer als ein großer."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert az óvárosban megállhat a víz.",
+              "A Plaza Mayor árkádjai nyújtják a legjobb természetes védelmet.",
+              "A múzeumok és templomok a legjobb barátai tartós esőzés esetén.",
+              "Egy kis összecsukható ernyő praktikusabb a szűk utcákban, mint a boternyő."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, deoarece se pot forma bălți în centrul vechi.",
+              "Plaza Mayor oferă cea mai bună protecție naturală prin arcadele sale.",
+              "Muzeele și bisericile sunt cele mai bune opțiuni în caz de precipitații.",
+              "O umbrelă mică pliabilă este mai practică pe străzile înguste decât una mare."
+            ],
+            "en": [
+              "Wear waterproof shoes as puddles can form in the old town streets.",
+              "Plaza Mayor offers the best natural protection with its walkways.",
+              "Museums and churches are your best friends during persistent rainfall.",
+              "A small folding umbrella is more practical in narrow alleys than a large one."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Am frischen Wintermorgen genießen wir die klare Luft auf der Plaza Mayor. Mittags wärmt uns die milde spanische Sonne beim Besuch des Fadrí-Turms und der Kathedrale. Nachmittags bietet das Museum eine angenehme Wärme, während das Licht draußen bereits weicher wird. Den frühen Abend verbringen wir im Ribalta-Park, um den spektakulären Wintersonnenuntergang zwischen den Palmen zu erleben.",
+            "hu": "A friss téli reggelen élvezzük a tiszta levegőt a Plaza Mayoron. Napközben a szelíd spanyol napsütés melenget minket a Fadrí-torony és a katedrális meglátogatásakor. Délután a múzeum kellemes meleget kínál, miközben odakint a fények már lágyabbá válnak. A kora estét a Ribalta-parkban töltjük, hogy megcsodáljuk a látványos téli naplementét a pálmák között.",
+            "ro": "În dimineața răcoroasă de iarnă, ne bucurăm de aerul curat din Plaza Mayor. La prânz, soarele blând de Spania ne încălzește în timpul vizitei la turnul El Fadrí și catedrală. După-amiaza, muzeul oferă o căldură plăcută, în timp ce lumina de afară devine tot mai palidă. Seara devreme o petrecem în Parcul Ribalta pentru a vedea apusul spectaculos printre palmieri.",
+            "en": "On a crisp winter morning, we enjoy the clear air at Plaza Mayor. At midday, the mild Spanish sun warms us during our visit to El Fadrí tower and the Cathedral. Afternoon provides a pleasant warmth inside the museum as the light outside grows softer. We spend the early evening in Ribalta Park to witness a spectacular winter sunset among the palm trees."
+          },
+          "stops": [
+            {
+              "name": "Plaza Mayor",
+              "tip_5lang": {
+                "de": "Genießen Sie einen heißen Kaffee in einem der Cafés am Platz.",
+                "hu": "Élvezzen ki egy forró kávét a tér egyik kávézójában a reggeli hűvösben.",
+                "ro": "Savurați o cafea fierbinte la una dintre cafenelele din piață.",
+                "en": "Enjoy a hot coffee at one of the cafes in the square during the morning chill."
+              }
+            },
+            {
+              "name": "El Fadrí",
+              "tip_5lang": {
+                "de": "Der Aufstieg hält Sie warm, und die Fernsicht ist im Winter oft besser.",
+                "hu": "A lépcsőzés felmelegít, a kilátás pedig télen gyakran tisztább.",
+                "ro": "Urcarea vă va încălzi, iar vizibilitatea este adesea mai bună iarna.",
+                "en": "The climb will keep you warm, and visibility is often better in winter."
+              }
+            },
+            {
+              "name": "Konkathedrale Santa María",
+              "tip_5lang": {
+                "de": "Achten Sie auf die besonderen Lichtspiele der tiefstehenden Wintersonne.",
+                "hu": "Figyelje meg az alacsonyan járó téli nap különleges fényjátékait.",
+                "ro": "Observați jocurile de lumină create de soarele jos de iarnă.",
+                "en": "Observe the special light patterns created by the low winter sun."
+              }
+            },
+            {
+              "name": "Lonja del Cáñamo",
+              "tip_5lang": {
+                "de": "Das Gebäude wirkt im klaren Winterlicht besonders plastisch.",
+                "hu": "Az épület a tiszta téli fényben különösen plasztikusnak hat.",
+                "ro": "Clădirea arată deosebit de bine în lumina clară a iernii.",
+                "en": "The building looks particularly textured in the clear winter light."
+              }
+            },
+            {
+              "name": "Museum der Schönen Künste",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um sich am Nachmittag aufzuwärmen.",
+                "hu": "Ideális helyszín egy kis délutáni felmelegedéshez a városnézés közben.",
+                "ro": "Un loc ideal pentru a vă încălzi puțin după-amiaza.",
+                "en": "An ideal place to warm up a bit in the afternoon during your tour."
+              }
+            },
+            {
+              "name": "Ribalta-Park",
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang findet hier bereits gegen 17:45 Uhr statt.",
+                "hu": "A naplemente itt már 17:45 körül bekövetkezik.",
+                "ro": "Apusul are loc aici deja în jurul orei 17:45.",
+                "en": "Sunset here occurs as early as around 5:45 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Zwiebelprinzip bei der Kleidung ist ratsam, da es im Schatten kühl ist.",
+              "Die Sonne ist auch im Winter stark, Sonnenschutz kann nötig sein.",
+              "Die meisten Sehenswürdigkeiten schließen im Winter etwas früher.",
+              "Nutzen Sie die Mittagsstunden für Außenaktivitäten, wenn es am wärmsten ist."
+            ],
+            "hu": [
+              "Réteges öltözködés javasolt, mert az árnyékban hűvös lehet.",
+              "A nap télen is erős lehet, fényvédőre szükség lehet.",
+              "A legtöbb látnivaló télen kicsit korábban zárhat.",
+              "A déli órákat használja a kültéri programokra, ekkor van a legmelegebb."
+            ],
+            "ro": [
+              "Îmbrăcămintea în straturi este recomandată, deoarece la umbră este răcoare.",
+              "Soarele poate fi puternic și iarna, protecția solară poate fi necesară.",
+              "Majoritatea obiectivelor turistice se închid puțin mai devreme iarna.",
+              "Folosiți orele amiezii pentru activități în aer liber, când este cel mai cald."
+            ],
+            "en": [
+              "Layered clothing is advised as it can be chilly in the shade.",
+              "The sun can be strong even in winter; sun protection might be needed.",
+              "Most attractions may close slightly earlier during the winter season.",
+              "Use the midday hours for outdoor activities when it is warmest."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -495,6 +677,170 @@
           "The ride to the port is mostly flat and pleasant.",
           "Always lock your bike securely."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz des Regens starten wir vorsichtig an der Plaza Mayor. Der Weg zur Basilika Lledó führt uns durch erfrischte Alleen, während wir auf rutschige Markierungen achten. Mittags bietet das Museum eine lange, trockene Pause für Kunstliebhaber. Am Nachmittag radeln wir durch den Ribalta-Park zum Planetarium an der Küste, wo wir den Tag im Trockenen unter den Sternen beenden.",
+            "hu": "Az eső ellenére óvatosan indulunk a Plaza Mayortól. A Lledó-bazilikához vezető út friss illatú fasorokon át visz, miközben figyelünk a csúszós útburkolati jelekre. Délben a múzeum hosszú, száraz pihenőt kínál a művészetkedvelőknek. Délután a Ribalta-parkon át tekerünk ki a tengerparti Planetáriumhoz, ahol a napot fedél alatt, a csillagok között zárjuk.",
+            "ro": "În ciuda ploii, pornim cu atenție de la Plaza Mayor. Drumul spre Basilica Lledó ne poartă prin alei împrospătate, fiind atenți la marcajele alunecoase. La prânz, muzeul oferă o pauză lungă și uscată pentru iubitorii de artă. După-amiaza pedalăm prin Parcul Ribalta spre Planetariul de pe coastă, unde încheiem ziua la adăpost, printre stele.",
+            "en": "Despite the rain, we start carefully from Plaza Mayor. The route to Lledó Basilica takes us through refreshed avenues, while staying alert for slippery road markings. At midday, the museum offers a long, dry break for art lovers. In the afternoon, we cycle through Ribalta Park to the Planetarium on the coast, ending the day indoors under the stars."
+          },
+          "stops": [
+            {
+              "name": "Plaza Mayor",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen, bevor Sie auf das nasse Kopfsteinpflaster fahren.",
+                "hu": "Ellenőrizze a fékeket, mielőtt a vizes macskakövekre hajtana.",
+                "ro": "Verificați frânele înainte de a intra pe pavajul umed.",
+                "en": "Check your brakes before heading onto the wet cobblestones."
+              }
+            },
+            {
+              "name": "Basilika Mare de Déu de Lledó",
+              "tip_5lang": {
+                "de": "Der Vorplatz bietet einige überdachte Bereiche zum Abstellen der Räder.",
+                "hu": "A bazilika előtti téren van néhány fedett rész a biciklik tárolására.",
+                "ro": "Piața din fața basilicii oferü câteva zone acoperite pentru biciclete.",
+                "en": "The square in front of the basilica offers some covered areas for bike parking."
+              }
+            },
+            {
+              "name": "Museum der Schönen Künste",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit für einen ausführlichen Besuch, während es draußen regnet.",
+                "hu": "Használja ki az időt egy alapos látogatásra, amíg odakint esik.",
+                "ro": "Profități de timp pentru o vizită detaliată în timp ce afară plouă.",
+                "en": "Take advantage of the time for a thorough visit while it rains outside."
+              }
+            },
+            {
+              "name": "Ribalta-Park",
+              "tip_5lang": {
+                "de": "Fahren Sie langsam auf den sandigen Wegen, die bei Regen weich werden können.",
+                "hu": "Hajtson lassan a homokos utakon, amelyek esőben felpuhulhatnak.",
+                "ro": "Pedalați încet pe aleile cu nisip care se pot înmuia la ploaie.",
+                "en": "Ride slowly on the sandy paths, which can soften in the rain."
+              }
+            },
+            {
+              "name": "Planetarium von Castellón",
+              "tip_5lang": {
+                "de": "Ein großartiges Ziel am Meer, um dem Regen komplett zu entfliehen.",
+                "hu": "Nagyszerű célpont a tengerparton, hogy teljesen elmeneküljünk az eső elől.",
+                "ro": "O destinație excelentă la malul mării pentru a scăpa complet de ploaie.",
+                "en": "A great seaside destination to completely escape the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie abrupte Bremsmanöver auf den weißen Straßenmarkierungen.",
+              "Schutzbleche am Fahrrad sind bei diesem Wetter unverzichtbar.",
+              "Nutzen Sie wasserfeste Taschen für Ihre Wertsachen.",
+              "Castellón ist flach, aber das Kopfsteinpflaster wird bei Nässe sehr glatt."
+            ],
+            "hu": [
+              "Kerülje a hirtelen fékezést a fehér útburkolati jeleken.",
+              "A sárvédő elengedhetetlen ilyen időben a kerékpáron.",
+              "Használjon vízálló táskát az értékei védelmére.",
+              "Castellón lapos, de a macskakő vizesen nagyon csúszóssá válik."
+            ],
+            "ro": [
+              "Evitați frânarea bruscă pe marcajele rutiere albe.",
+              "Apărătorile de noroi sunt indispensabile pe bicicletă în această vreme.",
+              "Folosiți genți impermeabile pentru obiectele de valoare.",
+              "Castellón este plat, dar pavajul devine foarte alunecos când este ud."
+            ],
+            "en": [
+              "Avoid sudden braking on white road markings.",
+              "Mudguards are essential on your bike in this weather.",
+              "Use waterproof bags to protect your valuables.",
+              "Castellón is flat, but cobblestones become very slippery when wet."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Wir nutzen die frische Brise für eine morgendliche Fahrt von der Plaza Mayor zur Basilika Lledó. Die Wintersonne begleitet uns auf dem Weg zum Museum, wo wir die Mittagszeit im Warmen verbringen. Am Nachmittag radeln wir durch den Ribalta-Park und weiter Richtung Grao zum Planetarium. Wenn die Sonne früh hinter den Bergen versinkt, genießen wir die beleuchtete Küste am Ende unserer Tour.",
+            "hu": "A friss szellőt kihasználva tekerünk reggel a Plaza Mayortól a Lledó-bazilikáig. A téli napsütés kísér minket a múzeum felé, ahol a délidőt a melegben töltjük. Délután a Ribalta-parkon át haladunk tovább a Grao negyed felé a Planetáriumhoz. Ahogy a nap korán a hegyek mögé bukik, a kivilágított tengerpart látványát élvezzük túránk végén.",
+            "ro": "Profităm de briza răcoroasă pentru o plimbare matinală de la Plaza Mayor la Basilica Lledó. Soarele de iarnă ne însoțește spre muzeu, unde petrecem amiaza la căldură. După-amiaza pedalăm prin Parcul Ribalta și mai departe spre Grao, la Planetariu. Când soarele apune devreme după munți, ne bucurăm de coasta iluminată la finalul turului.",
+            "en": "We take advantage of the fresh breeze for a morning ride from Plaza Mayor to Lledó Basilica. The winter sun accompanies us on the way to the museum, where we spend midday in the warmth. In the afternoon, we cycle through Ribalta Park and further towards Grao to the Planetarium. As the sun sets early behind the mountains, we enjoy the lit coast at the end of our tour."
+          },
+          "stops": [
+            {
+              "name": "Plaza Mayor",
+              "tip_5lang": {
+                "de": "Tragen Sie Handschuhe, der Fahrtwind kann morgens recht kühl sein.",
+                "hu": "Viseljen kesztyűt, a menetszél reggelente elég hűvös lehet.",
+                "ro": "Purtați mănuși, vântul poate fi destul de rece dimineața.",
+                "en": "Wear gloves as the headwind can be quite chilly in the mornings."
+              }
+            },
+            {
+              "name": "Basilika Mare de Déu de Lledó",
+              "tip_5lang": {
+                "de": "Die Allee zur Basilika bietet im Winter ein schönes, klares Licht.",
+                "hu": "A bazilikához vezető sugárút télen gyönyörű, tiszta fényeket kínál.",
+                "ro": "Bulevardul către basilică oferă o lumină frumoasă și clară iarna.",
+                "en": "The avenue to the basilica offers beautiful, clear light in winter."
+              }
+            },
+            {
+              "name": "Museum der Schönen Künste",
+              "tip_5lang": {
+                "de": "Ein guter Stopp, um die Muskeln im Warmen etwas zu entspannen.",
+                "hu": "Jó megálló, hogy a melegben egy kicsit ellazítsuk az izmainkat.",
+                "ro": "O oprire bună pentru a vă relaxa puțin mușchii la căldură.",
+                "en": "A good stop to relax your muscles a bit in the warmth."
+              }
+            },
+            {
+              "name": "Ribalta-Park",
+              "tip_5lang": {
+                "de": "Nutzen Sie das letzte Tageslicht für die Fahrt durch den Park.",
+                "hu": "Használja ki az utolsó nappali fényeket a parkon való áthaladáshoz.",
+                "ro": "Folosiți ultima lumină a zilei pentru plimbarea prin parc.",
+                "en": "Take advantage of the last daylight for your ride through the park."
+              }
+            },
+            {
+              "name": "Planetarium von Castellón",
+              "tip_5lang": {
+                "de": "Im Winter ist der Blick in den Sternenhimmel hier besonders lohnenswert.",
+                "hu": "Télen a csillagos égbolt megfigyelése itt különösen megéri.",
+                "ro": "Iarna, observarea cerului înstelat aici merită din plin.",
+                "en": "In winter, observing the starry sky here is especially rewarding."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf funktionierendes Licht am Fahrrad für den frühen Abend.",
+              "An der Küste kann es im Winter windiger sein als in der Stadt.",
+              "Eine winddichte Jacke ist für die Fahrt zum Grao empfehlenswert.",
+              "Die Radwege sind im Winter leerer und angenehm zu befahren."
+            ],
+            "hu": [
+              "Ellenőrizze a világítást a kerékpáron a korai sötétedés miatt.",
+              "A tengerparton télen szelesebb lehet az idő, mint a városban.",
+              "A Grao felé vezető úthoz szélálló kabát ajánlott.",
+              "A kerékpárutak télen üresebbek és kellemesen járhatóak."
+            ],
+            "ro": [
+              "Asigurați-vă că luminile bicicletei funcționează pentru seara devreme.",
+              "Pe coastă poate fi mai vântos iarna decât în oraș.",
+              "O jachetă rezistentă la vânt este recomandată pentru drumul spre Grao.",
+              "Pistele de biciclete sunt mai libere iarna și plăcute pentru pedalat."
+            ],
+            "en": [
+              "Ensure your bike lights are working for the early evening.",
+              "It can be windier on the coast in winter than in the city.",
+              "A windproof jacket is recommended for the ride to Grao.",
+              "Bike paths are emptier in winter and pleasant to ride."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -749,6 +1095,188 @@
           "Watch out for blue zones (paid) when parking on the street.",
           "The drive to the coast takes about 15 minutes."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten bequem an der Plaza Mayor und parken in der Nähe der Kathedrale, um den Regen zu umgehen. Mittags besuchen wir den Fadrí-Turm und die Santa María, wobei wir kurze Wege zwischen den Standorten wählen. Nachmittags fahren wir zum Museum der Schönen Künste und genießen die Kunst im Trockenen. Den Tag beenden wir am Planetarium, das mit seinem Parkplatz ideal für regnerische Abende ist.",
+            "hu": "Kényelmesen indulunk a Plaza Mayortól, a katedrális közelében parkolva, hogy elkerüljük az esőt. Délben meglátogatjuk a Fadrí-tornyot és a Santa Maríát, rövid szakaszokat választva a helyszínek között. Délután a Szépművészeti Múzeumba hajtunk, és fedél alatt élvezzük a művészetet. A napot a Planetáriumnál zárjuk, amely parkolójával ideális az esős estékre.",
+            "ro": "Pornim confortabil de la Plaza Mayor și parcăm aproape de catedrală pentru a evita ploaia. La prânz vizităm turnul El Fadrí și Santa María, alegând trasee scurte între obiective. După-amiaza conducem spre Muzeul de Arte Frumoase și ne bucurăm de artă la adăpost. Încheiem ziua la Planetariu, care este ideal pentru serile ploioase datorită parcării proprii.",
+            "en": "We start comfortably at Plaza Mayor, parking near the cathedral to avoid the rain. At midday, we visit El Fadrí tower and Santa María, choosing short walks between sites. In the afternoon, we drive to the Fine Arts Museum and enjoy the art indoors. We end the day at the Planetarium, which is ideal for rainy evenings with its convenient parking."
+          },
+          "stops": [
+            {
+              "name": "Plaza Mayor",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus unter dem Platz, um direkt im Trockenen zu sein.",
+                "hu": "Használja a tér alatti mélygarázst, hogy rögtön fedett helyen legyen.",
+                "ro": "Folosiți parcarea subterană de sub piață pentru a fi direct la adăpost.",
+                "en": "Use the underground parking under the square to stay dry from the start."
+              }
+            },
+            {
+              "name": "El Fadrí",
+              "tip_5lang": {
+                "de": "Der Eingang ist nur wenige Meter vom Parkplatz entfernt.",
+                "hu": "A bejárat csak pár méterre van a parkolótól.",
+                "ro": "Intrarea este la doar câțiva metri de parcare.",
+                "en": "The entrance is only a few meters away from the parking area."
+              }
+            },
+            {
+              "name": "Konkathedrale Santa María",
+              "tip_5lang": {
+                "de": "Besuchen Sie den Innenraum, wenn der Regen draußen am stärksten ist.",
+                "hu": "Akkor látogassa meg a belső teret, amikor kint a leghevesebb az eső.",
+                "ro": "Vizitați interiorul când ploaia de afară este cea mai puternică.",
+                "en": "Visit the interior when the rain outside is at its heaviest."
+              }
+            },
+            {
+              "name": "Museum der Schönen Künste",
+              "tip_5lang": {
+                "de": "Es gibt Parkmöglichkeiten in den umliegenden Straßen des Museums.",
+                "hu": "A múzeum körüli utcákban jól lehet parkolni.",
+                "ro": "Există locuri de parcare în străzile din jurul muzeului.",
+                "en": "There are parking spots available in the streets surrounding the museum."
+              }
+            },
+            {
+              "name": "Basilika Mare de Déu de Lledó",
+              "tip_5lang": {
+                "de": "Der Parkplatz direkt an der Basilika spart Ihnen den Weg durch den Regen.",
+                "hu": "A közvetlenül a bazilikánál lévő parkoló megkíméli a vizes sétától.",
+                "ro": "Parcarea direct la basilică vă scutește de mersul prin ploaie.",
+                "en": "The parking lot directly at the basilica saves you from walking in the rain."
+              }
+            },
+            {
+              "name": "Planetarium von Castellón",
+              "tip_5lang": {
+                "de": "Großer kostenloser Parkplatz direkt vor dem Eingang vorhanden.",
+                "hu": "Nagy ingyenes parkoló áll rendelkezésre közvetlenül a bejárat előtt.",
+                "ro": "Parcare mare gratuită disponibilă chiar în fața intrării.",
+                "en": "Large free parking lot available right in front of the entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Planen Sie etwas mehr Zeit für die Parkplatzsuche in der Altstadt ein.",
+              "Vermeiden Sie bei starkem Regen tiefgelegene Straßenabschnitte.",
+              "Die Hauptsehenswürdigkeiten liegen nah beieinander, nutzen Sie zentrale Parkhäuser.",
+              "Die Fahrt zum Grao ist bei Regen im Auto besonders entspannt."
+            ],
+            "hu": [
+              "Szánjon kicsit több időt a parkolóhely keresésére az óvárosban.",
+              "Heves esőzéskor kerülje az alacsonyabban fekvő útszakaszokat.",
+              "A fő látnivalók közel vannak egymáshoz, használjon központi parkolókat.",
+              "A Grao negyedbe való autózás esőben kifejezetten pihentető."
+            ],
+            "ro": [
+              "Alocați mai mult timp pentru căutarea unui loc de parcare în centrul vechi.",
+              "Evitați secțiunile de drum joase în timpul ploilor torențiale.",
+              "Principalele atracții sunt aproape una de alta, folosiți parcări centrale.",
+              "Drumul spre Grao este foarte relaxant cu mașina pe ploaie."
+            ],
+            "en": [
+              "Allow extra time for finding parking in the old town area.",
+              "Avoid low-lying road sections during heavy rainfall.",
+              "The main sights are close to each other; use central parking garages.",
+              "The drive to Grao is particularly relaxing by car in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Wir beginnen unsere Tour an der Plaza Mayor, während die Wintersonne die Fassaden beleuchtet. Mittags besuchen wir bequem den Fadrí und die Basilika Lledó, wobei die Heizung im Auto für Komfort sorgt. Nachmittags genießen wir die Ausstellungen im Museum der Schönen Künste. Den Tag beenden wir am Planetarium im Grao, wo wir pünktlich zum frühen Sonnenuntergang an der Küste eintreffen.",
+            "hu": "Túránkat a Plaza Mayornál kezdjük, miközben a téli nap megvilágítja a homlokzatokat. Délben kényelmesen meglátogatjuk a Fadrí-tornyot és a Lledó-bazilikát, az autó fűtése pedig gondoskodik a kényelemről. Délután a Szépművészeti Múzeum kiállításait élvezzük. A napot a Grao negyedben, a Planetáriumnál zárjuk, ahová pontosan a korai tengerparti naplementére érkezünk.",
+            "ro": "Începem turul în Plaza Mayor, în timp ce soarele de iarnă luminează fațadele. La prânz vizităm confortabil El Fadrí și Basilica Lledó, căldura din mașină asigurând confortul. După-amiaza ne bucurăm de expozițiile de la Muzeul de Arte Frumoase. Încheiem ziua la Planetariul din Grao, ajungând exact la timp pentru apusul devreme de pe coastă.",
+            "en": "We begin our tour at Plaza Mayor as the winter sun illuminates the facades. At midday, we comfortably visit El Fadrí and Lledó Basilica, with the car's heating ensuring comfort. In the afternoon, we enjoy the exhibitions at the Fine Arts Museum. We end the day at the Planetarium in Grao, arriving just in time for the early coastal sunset."
+          },
+          "stops": [
+            {
+              "name": "Plaza Mayor",
+              "tip_5lang": {
+                "de": "Das Auto kann in der Sonne parken, um sich natürlich aufzuwärmen.",
+                "hu": "Parkoljon a napon, hogy az autó természetes módon felmelegedjen.",
+                "ro": "Parcați mașina la soare pentru a se încălzi natural.",
+                "en": "Park the car in the sun to let it warm up naturally."
+              }
+            },
+            {
+              "name": "El Fadrí",
+              "tip_5lang": {
+                "de": "Im Turm kann es kühler sein, behalten Sie Ihre Jacke an.",
+                "hu": "A toronyban hűvösebb lehet, hagyja magán a kabátját.",
+                "ro": "În turn poate fi mai răcoare, păstrați jacheta pe dvs.",
+                "en": "It can be cooler inside the tower; keep your jacket on."
+              }
+            },
+            {
+              "name": "Konkathedrale Santa María",
+              "tip_5lang": {
+                "de": "Die dicken Mauern speichern die Kühle, ideal für einen kurzen Besuch.",
+                "hu": "A vastag falak tartják a hűvöset, ideális egy rövid látogatáshoz.",
+                "ro": "Zidurile groase mențin răcoarea, ideal pentru o vizită scurtă.",
+                "en": "The thick walls retain the chill; ideal for a quick visit."
+              }
+            },
+            {
+              "name": "Museum der Schönen Künste",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe, um die schweren Wintermäntel abzugeben.",
+                "hu": "Használja a ruhatárat a nehéz téli kabátok leadásához.",
+                "ro": "Folosiți garderoba pentru a lăsa hainele groase de iarnă.",
+                "en": "Use the cloakroom to leave your heavy winter coats while exploring."
+              }
+            },
+            {
+              "name": "Basilika Mare de Déu de Lledó",
+              "tip_5lang": {
+                "de": "Der Spaziergang im Garten der Basilika ist im Winterlicht herrlich.",
+                "hu": "A bazilika kertjében tett séta a téli fényekben csodálatos.",
+                "ro": "O plimbare în grădina basilicii este superbă în lumina iernii.",
+                "en": "A walk in the basilica's garden is wonderful in the winter light."
+              }
+            },
+            {
+              "name": "Planetarium von Castellón",
+              "tip_5lang": {
+                "de": "Der frühe Einbruch der Dunkelheit ist ideal für astronomische Shows.",
+                "hu": "A korai sötétedés ideális az asztronómiai bemutatókhoz.",
+                "ro": "Întunericul care se lasă devreme este ideal pentru spectacolele astronomice.",
+                "en": "The early onset of darkness is ideal for the astronomical shows."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Parkplatzsuche ist im Winter meist entspannter als im Sommer.",
+              "Nutzen Sie die Sitzheizung, wenn Sie von längeren Spaziergängen zurückkommen.",
+              "Prüfen Sie den Reifendruck, da dieser bei Kälte leicht sinken kann.",
+              "Die Küstenstraße nach Benicàssim ist auch im Winter eine schöne Fahrt."
+            ],
+            "hu": [
+              "A parkolóhely-keresés télen általában nyugodtabb, mint nyáron.",
+              "Használja az ülésfűtést, ha hosszabb séták után tér vissza az autóba.",
+              "Ellenőrizze a guminyomást, mert hidegben kicsit csökkenhet.",
+              "A Benicàssim felé vezető tengerparti út télen is gyönyörű."
+            ],
+            "ro": [
+              "Căutarea unui loc de parcare este de obicei mai relaxată iarna decât vara.",
+              "Folosiți încălzirea în scaune când reveniți în mașină după plimbări lungi.",
+              "Verificați presiunea în pneuri, deoarece poate scădea ușor la frig.",
+              "Drumul de coastă spre Benicàssim este o plimbare frumoasă și iarna."
+            ],
+            "en": [
+              "Finding parking is usually more relaxed in winter than in summer.",
+              "Use the seat heating when returning to the car after long walks.",
+              "Check tire pressure as it can drop slightly in colder weather.",
+              "The coastal road to Benicàssim is a beautiful drive even in winter."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -984,6 +1512,170 @@
           "Buses run very regularly, about every 15 minutes.",
           "The city center is best explored on foot."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir beginnen im Ribalta-Park, der direkt am Bahnhof liegt. Mit dem TRAM gelangen wir schnell zur Plaza Mayor und zum Fadrí-Turm, wobei wir kurze Wege zwischen den Haltestellen und den Sehenswürdigkeiten nutzen. Mittags besuchen wir das Museum, das gut an das Busnetz angebunden ist. Den Nachmittag verbringen wir im Planetarium, das wir bequem mit der Linie nach Grao erreichen, während es draußen regnet.",
+            "hu": "A Ribalta-parkban kezdünk, amely közvetlenül a vasútállomás mellett található. A TRAM-mal gyorsan eljutunk a Plaza Mayorhoz és a Fadrí-toronyhoz, kihasználva a megállók és a látnivalók közötti rövid távolságokat. Délben meglátogatjuk a múzeumot, amely jól kapcsolódik a buszhálózathoz. A délutánt a Planetáriumban töltjük, ahová kényelmesen eljutunk a Grao felé tartó járattal.",
+            "ro": "Începem în Parcul Ribalta, situat chiar lângă gară. Cu TRAM-ul ajungem rapid la Plaza Mayor și turnul El Fadrí, profitând de distanțele scurte între stații și obiective. La prânz vizităm muzeul, bine conectat la rețeaua de autobuze. După-amiaza o petrecem la Planetariu, unde ajungem confortabil cu linia spre Grao, în timp ce afară plouă.",
+            "en": "We start in Ribalta Park, located right next to the station. Using the TRAM, we quickly reach Plaza Mayor and El Fadrí tower, taking advantage of the short distances between stops and sights. At midday, we visit the museum, which is well-connected to the bus network. We spend the afternoon at the Planetarium, easily reached by the Grao line while it rains outside."
+          },
+          "stops": [
+            {
+              "name": "Ribalta-Park",
+              "tip_5lang": {
+                "de": "Die Haltestellen bieten gute Unterstände bei plötzlichen Schauern.",
+                "hu": "A megállók jó menedéket nyújtanak hirtelen záporok esetén.",
+                "ro": "Stațiile oferă adăposturi bune în caz de averse bruște.",
+                "en": "The transit stops offer good shelter during sudden showers."
+              }
+            },
+            {
+              "name": "Plaza Mayor",
+              "tip_5lang": {
+                "de": "Die TRAM-Haltestelle 'Farola' ist nur wenige Minuten entfernt.",
+                "hu": "A 'Farola' TRAM megálló csak pár percre van gyalog.",
+                "ro": "Stația de TRAM 'Farola' este la doar câteva minute distanță.",
+                "en": "The 'Farola' TRAM stop is only a few minutes' walk away."
+              }
+            },
+            {
+              "name": "El Fadrí",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit im Bus, um die Route für den nächsten trockenen Stopp zu planen.",
+                "hu": "Használja ki az időt a buszon a következő száraz megálló megtervezésére.",
+                "ro": "Folosiți timpul în autobuz pentru a planifica următoarea oprire uscată.",
+                "en": "Use your time on the bus to plan the next dry stop of your tour."
+              }
+            },
+            {
+              "name": "Museum der Schönen Künste",
+              "tip_5lang": {
+                "de": "Die Buslinie L7 hält in unmittelbarer Nähe des Museums.",
+                "hu": "Az L7-es buszjárat közvetlenül a múzeum közelében áll meg.",
+                "ro": "Linia de autobuz L7 oprește în imediata apropiere a muzeului.",
+                "en": "Bus line L7 stops in the immediate vicinity of the museum."
+              }
+            },
+            {
+              "name": "Planetarium von Castellón",
+              "tip_5lang": {
+                "de": "Die Fahrt mit der TRAM zum Grao ist auch bei Regen sehr aussichtsreich.",
+                "hu": "A TRAM-mal való utazás a Grao negyedbe esőben is látványos.",
+                "ro": "Călătoria cu TRAM-ul spre Grao este pitorească chiar și pe ploaie.",
+                "en": "The TRAM ride to Grao is scenic even when it's raining."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie ein Zehnerticket (Bonobús), das für TRAM und Busse gilt.",
+              "Die TRAM ist elektrisch und bietet eine ruhige Fahrt bei jedem Wetter.",
+              "Nutzen Sie die App 'Castelló en Moviment' für Echtzeit-Informationen.",
+              "An Regentagen können Busse etwas voller sein, planen Sie Pufferzeiten ein."
+            ],
+            "hu": [
+              "Vásároljon tízalkalmas jegyet (Bonobús), amely a TRAM-ra és a buszokra is jó.",
+              "A TRAM elektromos és csendes utazást biztosít bármilyen időben.",
+              "Használja a 'Castelló en Moviment' alkalmazást a valós idejű információkhoz.",
+              "Esős napokon a buszok zsúfoltabbak lehetnek, számoljon rá némi időt."
+            ],
+            "ro": [
+              "Cumpărați un bilet cu zece călătorii (Bonobús) valabil pentru TRAM și autobuze.",
+              "TRAM-ul este electric și oferă o călătorie liniștită pe orice vreme.",
+              "Folosiți aplicația 'Castelló en Moviment' pentru informații în timp real.",
+              "În zilele ploioase autobuzele pot fi mai aglomerate, planificați marje de timp."
+            ],
+            "en": [
+              "Buy a ten-trip ticket (Bonobús) valid for both TRAM and buses.",
+              "The TRAM is electric and provides a smooth ride in any weather.",
+              "Use the 'Castelló en Moviment' app for real-time transit information.",
+              "Buses may be more crowded on rainy days; allow for some buffer time."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Wir beginnen unsere Tour im Ribalta-Park, der im klaren Winterlicht besonders weitläufig wirkt. Mit den öffentlichen Verkehrsmitteln erreichen wir bequem die Plaza Mayor und den Fadrí-Turm. Die Mittagszeit verbringen wir im gut geheizten Museum der Schönen Künste. Am Nachmittag bringt uns die TRAM zum Planetarium im Grao, wo wir den Tag am Meer beenden, während die Lichter des Hafens in der frühen Dämmerung erstrahlen.",
+            "hu": "Túránkat a Ribalta-parkban kezdjük, amely a tiszta téli fényben különösen tágasnak hat. Tömegközlekedéssel kényelmesen elérjük a Plaza Mayort és a Fadrí-tornyot. A délidőt a jól fűtött Szépművészeti Múzeumban töltjük. Délután a TRAM kivisz minket a Grao negyedbe a Planetáriumhoz, ahol a napot a tengerparton zárjuk, miközben a kikötő fényei kigyúlnak a korai alkonyatban.",
+            "ro": "Începem turul în Parcul Ribalta, care pare foarte vast în lumina clară de iarnă. Cu transportul public ajungem confortabil la Plaza Mayor și turnul El Fadrí. Petrecem amiaza în Muzeul de Arte Frumoase, care este bine încălzit. După-amiaza, TRAM-ul ne duce la Planetariul din Grao, unde încheiem ziua pe malul mării, în timp ce luminile portului se aprind la amurg.",
+            "en": "We begin our tour in Ribalta Park, which feels particularly spacious in the clear winter light. Using public transport, we comfortably reach Plaza Mayor and El Fadrí tower. We spend midday in the well-heated Fine Arts Museum. In the afternoon, the TRAM takes us to the Planetarium in Grao, where we end the day by the sea as the harbor lights shine in the early dusk."
+          },
+          "stops": [
+            {
+              "name": "Ribalta-Park",
+              "tip_5lang": {
+                "de": "Der Park liegt direkt gegenüber dem Bahnhof Castelló de la Plana.",
+                "hu": "A park közvetlenül a Castelló de la Plana vasútállomással szemben van.",
+                "ro": "Parcul este situat chiar vizavi de gara Castelló de la Plana.",
+                "en": "The park is located right across from the Castelló de la Plana railway station."
+              }
+            },
+            {
+              "name": "Plaza Mayor",
+              "tip_5lang": {
+                "de": "Die TRAM-Verbindung ist im Winter sehr pünktlich und zuverlässig.",
+                "hu": "A TRAM közlekedés télen is nagyon pontos és megbízható.",
+                "ro": "Conexiunea cu TRAM-ul este foarte punctuală și fiabilă iarna.",
+                "en": "The TRAM connection is very punctual and reliable even in winter."
+              }
+            },
+            {
+              "name": "El Fadrí",
+              "tip_5lang": {
+                "de": "Nutzen Sie den TRAM-Stopp 'Rey Don Jaime' für einen kurzen Fußweg.",
+                "hu": "Használja a 'Rey Don Jaime' TRAM megállót a rövid gyalogút érdekében.",
+                "ro": "Folosiți stația de TRAM 'Rey Don Jaime' pentru o plimbare scurtă.",
+                "en": "Use the 'Rey Don Jaime' TRAM stop for a short walk to the site."
+              }
+            },
+            {
+              "name": "Museum der Schönen Künste",
+              "tip_5lang": {
+                "de": "Die klimatisierten Busse bieten eine angenehme Wärme während der Fahrt.",
+                "hu": "A légkondicionált buszok kellemes meleget biztosítanak az utazás alatt.",
+                "ro": "Autobuzele climatizate oferă o căldură plăcută în timpul călătoriei.",
+                "en": "The climate-controlled buses provide pleasant warmth during your journey."
+              }
+            },
+            {
+              "name": "Planetarium von Castellón",
+              "tip_5lang": {
+                "de": "Die letzte Fahrt zurück in die Stadt bietet tolle Ausblicke auf die Lichter.",
+                "hu": "Az utolsó járat vissza a városba remek kilátást nyújt a fényekre.",
+                "ro": "Ultima cursă înapoi spre oraș oferă vederi superbe asupra luminilor.",
+                "en": "The last ride back to the city offers great views of the evening lights."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die TRAM fährt bis spät in den Abend hinein zum Hafen (Grao).",
+              "Haltestellen in der Nähe von Parks sind im Winter oft weniger windig.",
+              "Nutzen Sie die Zeit in der TRAM, um sich zwischen den Stationen aufzuwärmen.",
+              "Abends sind die Bahnen meist leerer und bieten viel Platz."
+            ],
+            "hu": [
+              "A TRAM késő estig közlekedik a kikötő (Grao) felé.",
+              "A parkok közeli megállók télen gyakran kevésbé szelesek.",
+              "Használja ki az időt a TRAM-on a megállók közötti felmelegedésre.",
+              "Esténként a járatok általában üresebbek és tágasabbak."
+            ],
+            "ro": [
+              "TRAM-ul circulă până târziu în noapte spre port (Grao).",
+              "Stațiile din apropierea parcurilor sunt adesea mai puțin vântoase iarna.",
+              "Folosiți timpul în TRAM pentru a vă încălzi între stații.",
+              "Seara, vehiculele sunt de obicei mai libere și oferă mult spațiu."
+            ],
+            "en": [
+              "The TRAM runs until late in the evening towards the harbor (Grao).",
+              "Stops near parks are often less windy during the winter months.",
+              "Take advantage of the time on the TRAM to warm up between stations.",
+              "In the evenings, the vehicles are usually emptier and offer plenty of space."
+            ]
+          }
+        }
       }
     }
   }

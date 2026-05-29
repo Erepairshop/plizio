@@ -386,6 +386,206 @@
           "A light raincoat is always a good idea in the North of England.",
           "Take advantage of the lunch break to have a hearty pub lunch near the Town Hall."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag im Pioneers Museum, dem Geburtsort der Genossenschaftsbewegung, geschützt vor dem Regen. Mittags bietet die prächtige Town Hall einen trockenen Rückzugsort. Nach einem kurzen, erfrischenden Spaziergang durch den Broadfield Park unter dem Regenschirm können Sie die Industriegeschichte im Feuerwehrmuseum entdecken. Der Abend endet gemütlich im Gracie Fields Theatre.",
+            "hu": "Kezdje a napot a Pioneers Múzeumban, a szövetkezeti mozgalom bölcsőjében, védve az esőtől. Délben a városháza gótikus falai nyújtanak menedéket. Délután egy rövid esernyős séta a Broadfield Parkban frissítő élmény, mielőtt a tűzoltómúzeum belső tárlatát böngészné. Az estét a Gracie Fields Színház kényelmében zárja, távol a manchesteri szürkeségtől.",
+            "ro": "Începeți ziua la Pioneers Museum, locul de naștere al mișcării cooperatiste, feriți de ploaie. La prânz, Primăria oferă un refugiu uscat și impunător. După o scurtă plimbare cu umbrela prin Parcul Broadfield, descoperiți istoria industrială la Muzeul Pompierilor. Seara se încheie confortabil la Teatrul Gracie Fields, departe de umezeala de afară.",
+            "en": "Start your day at the Pioneers Museum, the birthplace of the co-operative movement, shielded from the rain. At midday, the magnificent Town Hall provides a dry and grand retreat. After a brisk umbrella walk through Broadfield Park, explore industrial history at the Fire Service Museum. End the evening comfortably at the Gracie Fields Theatre, away from the Manchester drizzle."
+          },
+          "stops": [
+            {
+              "name": "Pioneers Museum",
+              "tip_5lang": {
+                "de": "Perfekter Indoor-Start; entdecken Sie die Geschichte des fairen Handels im Trockenen.",
+                "hu": "Tökéletes beltéri kezdés; fedezze fel a méltányos kereskedelem történetét szárazon.",
+                "ro": "Un început interior perfect; descoperiți istoria comerțului echitabil la adăpost.",
+                "en": "Perfect indoor start; discover the history of fair trade while staying dry."
+              }
+            },
+            {
+              "name": "Touchstones Rochdale",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Café und die Galerien, um den stärksten Regen abzuwarten.",
+                "hu": "Használja ki a kávézót és a galériákat a nagyobb eső kivárására.",
+                "ro": "Folosiți cafeneaua și galeriile pentru a aștepta trecerea ploii torențiale.",
+                "en": "Utilize the café and galleries to wait out the heaviest rain."
+              }
+            },
+            {
+              "name": "Rochdale Town Hall",
+              "tip_5lang": {
+                "de": "Bewundern Sie die prächtige Decke; ein idealer Ort bei Schmuddelwetter.",
+                "hu": "Csodálja meg a pompás mennyezetet; ideális hely borongós időben.",
+                "ro": "Admirați tavanul magnific; un loc ideal pe vreme mohorâtă.",
+                "en": "Admire the magnificent ceiling; an ideal spot during gloomy weather."
+              }
+            },
+            {
+              "name": "St Chad's Church",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort für eine Pause, während es draußen regnet.",
+                "hu": "Csendes hely egy pihenőre, amíg kint esik az eső.",
+                "ro": "Un loc liniștit pentru o pauză în timp ce afară plouă.",
+                "en": "A quiet place for a break while it rains outside."
+              }
+            },
+            {
+              "name": "Broadfield Park",
+              "tip_5lang": {
+                "de": "Halten Sie sich an die asphaltierten Wege, um Matsch zu vermeiden.",
+                "hu": "Maradjon az aszfaltozott utakon, hogy elkerülje a sarat.",
+                "ro": "Rămâneți pe aleile asfaltate pentru a evita noroiul.",
+                "en": "Stick to the paved paths to avoid the mud."
+              }
+            },
+            {
+              "name": "Fire Service Museum",
+              "tip_5lang": {
+                "de": "Große Indoor-Halle mit historischen Fahrzeugen, ideal für Regenwetter.",
+                "hu": "Nagy beltéri csarnok veterán járművekkel, ideális esős időben.",
+                "ro": "Hală interioară mare cu vehicule istorice, ideală pentru vreme ploioasă.",
+                "en": "Large indoor hall with vintage vehicles, ideal for rainy weather."
+              }
+            },
+            {
+              "name": "Gracie Fields Theatre",
+              "tip_5lang": {
+                "de": "Genießen Sie die Abendvorstellung im Warmen und Trockenen.",
+                "hu": "Élvezze az esti előadást melegben és szárazon.",
+                "ro": "Bucurați-vă de spectacolul de seară la căldură și uscat.",
+                "en": "Enjoy the evening performance in the warm and dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Rochdale ist für Regen bekannt; ein stabiler Regenschirm ist Pflicht.",
+              "Die Museen sind nah beieinander, nutzen Sie die kurzen Wege zwischen den Gebäuden.",
+              "Viele Cafés in der Nähe der Town Hall bieten gemütliche Rückzugsorte.",
+              "Tragen Sie wasserfeste Schuhe für den Spaziergang durch den Broadfield Park."
+            ],
+            "hu": [
+              "Rochdale híres az esőiről; egy stabil esernyő kötelező kellék.",
+              "A múzeumok közel vannak egymáshoz, használja ki a rövid távokat az épületek között.",
+              "A városháza környéki kávézók barátságos menedéket nyújtanak.",
+              "Viseljen vízálló cipőt a Broadfield Parkon való átsétáláshoz."
+            ],
+            "ro": [
+              "Rochdale este cunoscut pentru ploi; o umbrelă solidă este obligatorie.",
+              "Muzeele sunt aproape unul de altul, profitați de distanțele scurte între clădiri.",
+              "Multe cafenele din apropierea Primăriei oferă refugii primitoare.",
+              "Purtați încălțăminte impermeabilă pentru plimbarea prin Parcul Broadfield."
+            ],
+            "en": [
+              "Rochdale is known for rain; a sturdy umbrella is a must-have.",
+              "The museums are close to each other, take advantage of the short distances between buildings.",
+              "Many cafés near the Town Hall offer cozy retreats from the drizzle.",
+              "Wear waterproof shoes for the walk through Broadfield Park."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie ein winterliches Rochdale, beginnend im beheizten Pioneers Museum. Mittags strahlt die Town Hall im kühlen Winterlicht eine besondere Pracht aus. Nach einem frostigen Spaziergang im Broadfield Park, bei dem Sie die klare Luft genießen, bietet das Feuerwehrmuseum wohlige Wärme. Wenn die Dunkelheit früh hereinbricht, leuchten die Lichter der Stadt auf dem Weg zum Theater.",
+            "hu": "Élje át a téli Rochdale hangulatát, kezdve a fűtött Pioneers Múzeumban. Délben a városháza különleges fénnyel ragyog a hűvös téli napsütésben. A Broadfield Park fagyos ösvényein tett séta után a tűzoltómúzeum melege várja. Mivel korán sötétedik, a város fényei már kigyúlnak, mire a színházhoz ér.",
+            "ro": "Experimentați un Rochdale hibernal, începând la Muzeul Pioneers încălzit. La prânz, Primăria strălucește sub lumina rece a iernii. După o plimbare geroasă în Parcul Broadfield, Muzeul Pompierilor oferă căldură primitoare. Deoarece se întunecă devreme, luminile orașului se aprind deja în drum spre teatru.",
+            "en": "Experience a wintry Rochdale, starting at the heated Pioneers Museum. At midday, the Town Hall glows under the cool winter light. After a frosty stroll in Broadfield Park, the Fire Service Museum offers welcoming warmth. As darkness falls early, the city lights guide your way to the theatre for a cozy end to the day."
+          },
+          "stops": [
+            {
+              "name": "Pioneers Museum",
+              "tip_5lang": {
+                "de": "Genießen Sie die wohlige Wärme im Inneren dieses historischen Gebäudes.",
+                "hu": "Élvezze a barátságos meleget e történelmi épület falai között.",
+                "ro": "Bucurați-vă de căldura primitoare din interiorul acestei clădiri istorice.",
+                "en": "Enjoy the welcoming warmth inside this historic building."
+              }
+            },
+            {
+              "name": "Touchstones Rochdale",
+              "tip_5lang": {
+                "de": "Besuchen Sie den Museumsshop für lokale, winterliche Geschenke.",
+                "hu": "Látogasson el a múzeumi boltba helyi téli ajándékokért.",
+                "ro": "Vizitați magazinul muzeului pentru cadouri locale de iarnă.",
+                "en": "Visit the museum shop for local winter gifts."
+              }
+            },
+            {
+              "name": "Rochdale Town Hall",
+              "tip_5lang": {
+                "de": "Die Architektur wirkt im Winterlicht besonders dramatisch und fotogen.",
+                "hu": "Az építészet különösen drámai és fotogén a téli fényben.",
+                "ro": "Arhitectura pare deosebit de dramatică și fotogenică în lumina iernii.",
+                "en": "The architecture looks particularly dramatic and photogenic in winter light."
+              }
+            },
+            {
+              "name": "St Chad's Church",
+              "tip_5lang": {
+                "de": "Vorsicht vor rutschigen Stufen auf dem Kirchhof bei Frost.",
+                "hu": "Vigyázat a templomkert csúszós lépcsőivel fagy esetén.",
+                "ro": "Atenție la treptele alunecoase din curtea bisericii în caz de îngheț.",
+                "en": "Watch out for slippery steps in the churchyard during frost."
+              }
+            },
+            {
+              "name": "Broadfield Park",
+              "tip_5lang": {
+                "de": "Ideal für einen kurzen Spaziergang vor dem frühen Sonnenuntergang gegen 16:00 Uhr.",
+                "hu": "Ideális egy rövid sétára a korai, 16:00 körüli naplemente előtt.",
+                "ro": "Ideal pentru o scurtă plimbare înainte de apusul devreme, în jur de ora 16:00.",
+                "en": "Ideal for a short walk before the early sunset around 4:00 PM."
+              }
+            },
+            {
+              "name": "Fire Service Museum",
+              "tip_5lang": {
+                "de": "Ein großartiger Ort, um sich am späten Nachmittag aufzuwärmen.",
+                "hu": "Nagyszerű hely a felmelegedésre késő délután.",
+                "ro": "Un loc minunat pentru a vă încălzi după-amiaza târziu.",
+                "en": "A great place to warm up in the late afternoon."
+              }
+            },
+            {
+              "name": "Gracie Fields Theatre",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Spielplan auf winterliche Aufführungen oder Pantomimen.",
+                "hu": "Ellenőrizze a műsort téli előadások vagy karácsonyi darabok után.",
+                "ro": "Verificați programul pentru spectacole de iarnă sau pantomimă.",
+                "en": "Check the schedule for winter performances or pantomimes."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Dezember bereits gegen 16:00 Uhr unter; planen Sie Outdoor-Stopps früh.",
+              "Zwiebelprinzip bei der Kleidung hilft, da Museen oft gut beheizt sind.",
+              "Ein heißes Getränk im Touchstones Café hilft gegen die Winterkälte.",
+              "Seien Sie vorsichtig auf den gepflasterten Flächen rund um die Town Hall bei Glätte."
+            ],
+            "hu": [
+              "A nap decemberben már 16:00 körül lemegy; a szabadtéri megállókat tervezze korábbra.",
+              "A réteges öltözködés segít, mivel a múzeumok gyakran jól fűtöttek.",
+              "Egy forró ital a Touchstones kávézóban segít a téli hideg ellen.",
+              "Legyen óvatos a városháza körüli kövezett felületeken csúszásveszély esetén."
+            ],
+            "ro": [
+              "Soarele apune deja în jur de ora 16:00 în decembrie; planificați opririle în aer liber devreme.",
+              "Îmbrăcămintea în straturi ajută, deoarece muzeele sunt adesea bine încălzite.",
+              "O băutură caldă la cafeneaua Touchstones ajută împotriva frigului de iarnă.",
+              "Fiți atenți pe suprafețele pavate din jurul Primăriei în caz de polei."
+            ],
+            "en": [
+              "The sun sets around 4:00 PM in December; plan outdoor stops early.",
+              "Dressing in layers helps as museums are often well-heated.",
+              "A hot drink at the Touchstones café helps against the winter chill.",
+              "Be careful on the paved areas around the Town Hall during icy conditions."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -766,6 +966,206 @@
           "Plan your route in advance, as some areas are more bike-friendly than others.",
           "A water bottle and snacks are essential for the longer rides."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Rochdale mit dem Rad bei Regen erfordert gute Ausrüstung. Starten Sie an der Town Hall und nutzen Sie die kurzen Wege im Zentrum. Die Fahrt zum Ellenroad Engine House führt über nasse Straßen, belohnt aber mit faszinierender Technik im Trockenen. Nachmittags geht es zurück in die Innenstadt, wo Museen Schutz bieten, bevor der Tag am Feuerwehrmuseum endet.",
+            "hu": "Rochdale felfedezése kerékpárral esőben jó felszerelést igényel. Kezdjen a városházánál, kihasználva a belváros rövid távjait. Az út az Ellenroad Gépházhoz vizes utakon vezet, de a száraz belső tér és a technika kárpótolja. Délután térjen vissza a központba múzeumi menedékért, majd zárja a napot a tűzoltómúzeumnál.",
+            "ro": "Explorarea orașului Rochdale cu bicicleta pe ploaie necesită echipament bun. Începeți la Primărie, profitând de distanțele scurte din centru. Drumul spre Ellenroad Engine House trece pe șosele ude, dar recompensează cu tehnologie fascinantă la interior. După-amiaza, reveniți în centru pentru adăpost în muzee înainte de finalul la Muzeul Pompierilor.",
+            "en": "Exploring Rochdale by bike in the rain requires good gear. Start at the Town Hall, taking advantage of the short distances in the center. The ride to Ellenroad Engine House involves wet roads but rewards you with fascinating technology indoors. In the afternoon, return to the center for museum shelter before ending at the Fire Service Museum."
+          },
+          "stops": [
+            {
+              "name": "Rochdale Town Hall",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich zum Abstellen des Rades, falls möglich.",
+                "hu": "Használja a fedett bejárati részt a kerékpár leállításához, ha lehetséges.",
+                "ro": "Folosiți zona acoperită de la intrare pentru a lăsa bicicleta, dacă este posibil.",
+                "en": "Use the covered entrance area for parking the bike, if possible."
+              }
+            },
+            {
+              "name": "St Chad's Church",
+              "tip_5lang": {
+                "de": "Vorsicht bei der Auffahrt; das Kopfsteinpflaster wird bei Regen sehr rutschig.",
+                "hu": "Vigyázat a felhajtónál; a macskakő nagyon csúszóssá válik esőben.",
+                "ro": "Atenție la urcare; pietrele cubice devin foarte alunecoase pe ploaie.",
+                "en": "Watch out on the approach; the cobblestones become very slippery in the rain."
+              }
+            },
+            {
+              "name": "Pioneers Museum",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp im Trockenen; prüfen Sie Ihre Regenkleidung hier.",
+                "hu": "Rövid megálló szárazon; ellenőrizze itt az esőruházatát.",
+                "ro": "O scurtă oprire la uscat; verificați-vă echipamentul de ploaie aici.",
+                "en": "A short stop in the dry; check your rain gear here."
+              }
+            },
+            {
+              "name": "Ellenroad Engine House",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad sicher ab; im Inneren ist es warm und trocken.",
+                "hu": "Állítsa le biztonságosan a biciklit; belül meleg és száraz az idő.",
+                "ro": "Parcați bicicleta în siguranță; în interior este cald și uscat.",
+                "en": "Park the bike securely; inside it is warm and dry."
+              }
+            },
+            {
+              "name": "Broadfield Park",
+              "tip_5lang": {
+                "de": "Die Wege sind gut ausgebaut, aber achten Sie auf Pfützen in Senken.",
+                "hu": "Az utak jól kiépítettek, de ügyeljen a mélyedésekben megálló vízre.",
+                "ro": "Aleile sunt bine amenajate, dar atenție la bălțile din zonele joase.",
+                "en": "The paths are well-maintained, but watch out for puddles in hollows."
+              }
+            },
+            {
+              "name": "Touchstones Rochdale",
+              "tip_5lang": {
+                "de": "Idealer Ort für eine längere Pause zum Aufwärmen und Trocknen.",
+                "hu": "Ideális hely egy hosszabb szünetre a felmelegedéshez és száradáshoz.",
+                "ro": "Loc ideal pentru o pauză mai lungă pentru a vă încălzi și usca.",
+                "en": "Ideal spot for a longer break to warm up and dry off."
+              }
+            },
+            {
+              "name": "Fire Service Museum",
+              "tip_5lang": {
+                "de": "Großzügiger Platz zum Parken; beenden Sie die Tour hier im Trockenen.",
+                "hu": "Tágas parkolóhely; fejezze be itt a túrát szárazon.",
+                "ro": "Spațiu generos de parcare; încheiați turul aici la adăpost.",
+                "en": "Generous parking space; finish the tour here in the dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vollständige Regenbekleidung und Schutzbleche sind dringend empfohlen.",
+              "Vermeiden Sie Straßenbahnschienen im Zentrum, sie sind bei Nässe extrem glatt.",
+              "Bremsen Sie frühzeitig, da Bremswege auf nassem Asphalt länger sind.",
+              "Ein Tuch zum Abwischen des Sattels nach jedem Stopp einpacken."
+            ],
+            "hu": [
+              "Teljes esőruházat és sárvédő használata erősen ajánlott.",
+              "Kerülje a villamossíneket a központban, nedvesen rendkívül csúszósak.",
+              "Fékezzen időben, mivel vizes aszfalton hosszabb a fékút.",
+              "Vigyen magával egy rongyot a nyereg letörléséhez minden megálló után."
+            ],
+            "ro": [
+              "Se recomandă insistent echipament complet de ploaie și apărători de noroi.",
+              "Evitați șinele de tramvai din centru, sunt extrem de alunecoase pe umiditate.",
+              "Frânați din timp, deoarece distanța de frânare pe asfalt ud este mai mare.",
+              "Luați o cârpă pentru a șterge șaua după fiecare oprire."
+            ],
+            "en": [
+              "Full rain gear and mudguards are highly recommended.",
+              "Avoid tram tracks in the center; they are extremely slippery when wet.",
+              "Brake early as stopping distances are longer on wet asphalt.",
+              "Pack a cloth to wipe down the saddle after each stop."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine Wintertour durch Rochdale bietet klare Sicht und frische Luft. Starten Sie bei der Town Hall und nutzen Sie die kurzen Wege zwischen den kulturellen Highlights. Die Fahrt zum Ellenroad Engine House erfordert Vorsicht bei möglichem Bodenfrost. Nachmittags kehren Sie für wärmende Museumsbesuche zurück, während die Sonne früh hinter den Hügeln verschwindet.",
+            "hu": "A téli túra Rochdale-ben tiszta kilátást és friss levegőt kínál. Kezdjen a városházánál, kihasználva a kulturális látnivalók közötti rövid távolságokat. Az út az Ellenroad Gépházhoz óvatosságot igényel az esetleges talajmenti fagy miatt. Délután térjen vissza meleg múzeumlátogatásokra, ahogy a nap korán eltűnik a dombok mögött.",
+            "ro": "Un tur de iarnă prin Rochdale oferă vizibilitate clară și aer proaspăt. Începeți la Primărie, profitând de distanțele scurte între punctele culturale. Drumul spre Ellenroad Engine House necesită prudență din cauza posibilului îngheț la sol. După-amiaza, reveniți pentru vizite la muzee încălzite, în timp ce soarele apune devreme după dealuri.",
+            "en": "A winter bike tour through Rochdale offers clear views and crisp air. Start at the Town Hall, making the most of the short stretches between cultural highlights. The ride to Ellenroad Engine House requires caution due to potential ground frost. In the afternoon, return for warming museum visits as the sun disappears early behind the hills."
+          },
+          "stops": [
+            {
+              "name": "Rochdale Town Hall",
+              "tip_5lang": {
+                "de": "Planen Sie Zeit für ein Foto ein; die Fassade wirkt im Winterlicht edel.",
+                "hu": "Hagyjon időt egy fotóra; a homlokzat nemesnek tűnik a téli fényben.",
+                "ro": "Rezervați timp pentru o fotografie; fațada arată nobil în lumina iernii.",
+                "en": "Plan time for a photo; the facade looks elegant in winter light."
+              }
+            },
+            {
+              "name": "St Chad's Church",
+              "tip_5lang": {
+                "de": "Vorsicht bei Frost; der Kirchberg kann tückisch glatt sein.",
+                "hu": "Vigyázat fagy esetén; a templomdomb csalóka módon csúszós lehet.",
+                "ro": "Atenție la îngheț; dealul bisericii poate fi periculos de alunecos.",
+                "en": "Caution during frost; the church hill can be treacherously slippery."
+              }
+            },
+            {
+              "name": "Pioneers Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Halt, um die Finger wieder aufzuwärmen.",
+                "hu": "Használja ki a megállót az ujjai felmelegítésére.",
+                "ro": "Folosiți oprirea pentru a vă reîncălzi degetele.",
+                "en": "Use the stop to warm up your fingers again."
+              }
+            },
+            {
+              "name": "Ellenroad Engine House",
+              "tip_5lang": {
+                "de": "Die Motorenwärme ist im Winter besonders angenehm.",
+                "hu": "A motorok melege télen különösen kellemes.",
+                "ro": "Căldura motoarelor este deosebit de plăcută iarna.",
+                "en": "The heat from the engines is especially pleasant in winter."
+              }
+            },
+            {
+              "name": "Broadfield Park",
+              "tip_5lang": {
+                "de": "Genießen Sie die weite Aussicht über die kahlen Bäume hinweg.",
+                "hu": "Élvezze a távoli kilátást a kopasz fák fölött.",
+                "ro": "Bucurați-vă de priveliștea largă peste copacii desfrunziți.",
+                "en": "Enjoy the wide views over the bare trees."
+              }
+            },
+            {
+              "name": "Touchstones Rochdale",
+              "tip_5lang": {
+                "de": "Der perfekte Ort für eine heiße Schokolade zwischendurch.",
+                "hu": "Tökéletes hely egy forró csokoládéra útközben.",
+                "ro": "Locul perfect pentru o ciocolată caldă între opriri.",
+                "en": "The perfect spot for a hot chocolate during the ride."
+              }
+            },
+            {
+              "name": "Fire Service Museum",
+              "tip_5lang": {
+                "de": "Letzter Stopp vor der Dunkelheit; prüfen Sie Ihre Beleuchtung.",
+                "hu": "Utolsó megálló sötétedés előtt; ellenőrizze a világítását.",
+                "ro": "Ultima oprire înainte de întuneric; verificați-vă luminile.",
+                "en": "Last stop before dark; check your lighting."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Gute Handschuhe und warme Socken sind bei Fahrwind unverzichtbar.",
+              "Achten Sie auf Raureif oder Eis auf den Radwegen am frühen Morgen.",
+              "Prüfen Sie Ihre Lichter; die Dämmerung setzt im Winter bereits ab 15:30 Uhr ein.",
+              "Trinken Sie ausreichend Tee oder Wasser, auch wenn Sie bei Kälte weniger Durst spüren."
+            ],
+            "hu": [
+              "A jó kesztyű és a meleg zokni elengedhetetlen a menetszélben.",
+              "Ügyeljen a zúzmarára vagy jégre a kerékpárutakon kora reggel.",
+              "Ellenőrizze a lámpákat; a szürkület télen már 15:30-kor elkezdődik.",
+              "Igyon elegendő teát vagy vizet, még ha a hidegben kevésbé érzi is a szomjúságot."
+            ],
+            "ro": [
+              "Mănușile bune și șosetele groase sunt indispensabile din cauza vântului.",
+              "Atenție la chiciură sau gheață pe pistele de biciclete dimineața devreme.",
+              "Verificați-vă luminile; amurgul se instalează iarna deja de la ora 15:30.",
+              "Beți suficient ceai sau apă, chiar dacă resimțiți mai puțin setea la frig."
+            ],
+            "en": [
+              "Good gloves and warm socks are essential against the wind chill.",
+              "Watch out for frost or ice on cycle paths early in the morning.",
+              "Check your lights; twilight starts as early as 3:30 PM in winter.",
+              "Drink enough tea or water, even if you feel less thirsty in the cold."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1146,6 +1546,206 @@
           "Allow extra time for traffic, especially during peak hours.",
           "The cluster-walking method is the best way to experience the town centre without parking hassles."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden Sie Rochdale und Umgebung völlig wetterunabhängig. Starten Sie bei den zentralen Museen, wo Parkplätze in der Nähe sind. Mittags führt die Fahrt zum Hollingworth Lake, der bei Regen eine mystische Atmosphäre ausstrahlt. Nach einem Besuch beim Ellenroad Engine House bietet Healey Dell dramatische Wasserfälle, bevor Sie im Trockenen zurückkehren.",
+            "hu": "Autóval az időjárástól függetlenül fedezheti fel Rochdale-t és környékét. Kezdjen a központi múzeumoknál, ahol a közelben van parkoló. Délben az út a Hollingworth-tóhoz vezet, amely esőben misztikus hangulatot áraszt. Az Ellenroad Gépház után Healey Dell drámai vízesései várják, mielőtt szárazon térne vissza.",
+            "ro": "Cu mașina, explorați Rochdale și împrejurimile independent de vreme. Începeți la muzeele centrale, unde există parcări în apropiere. La prânz, drumul duce spre Lacul Hollingworth, care emană o atmosferă mistică pe ploaie. După Ellenroad Engine House, Healey Dell oferă cascade dramatice înainte de întoarcerea la uscat.",
+            "en": "By car, you explore Rochdale and its surroundings completely independent of the weather. Start at the central museums, with parking nearby. At midday, drive to Hollingworth Lake, which exudes a mystical atmosphere in the rain. After Ellenroad Engine House, Healey Dell offers dramatic waterfalls before you return in the dry."
+          },
+          "stops": [
+            {
+              "name": "Pioneers Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie das nahegelegene Parkhaus, um trocken zum Eingang zu gelangen.",
+                "hu": "Használja a közeli parkolóházat, hogy szárazon jusson a bejárathoz.",
+                "ro": "Folosiți parcarea supraetajată din apropiere pentru a ajunge uscat la intrare.",
+                "en": "Use the nearby multi-storey car park to reach the entrance dry."
+              }
+            },
+            {
+              "name": "Touchstones Rochdale",
+              "tip_5lang": {
+                "de": "Parkplätze direkt am Gebäude vorhanden; idealer Stopp bei Dauerregen.",
+                "hu": "Parkolóhelyek közvetlenül az épületnél; ideális megálló tartós esőben.",
+                "ro": "Locuri de parcare chiar lângă clădire; oprire ideală în caz de ploaie continuă.",
+                "en": "Parking spaces available directly at the building; ideal stop during heavy rain."
+              }
+            },
+            {
+              "name": "Rochdale Town Hall",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Parkplatz; bewundern Sie die Fassade aus dem Auto.",
+                "hu": "Rövid séta a parkolótól; csodálja meg a homlokzatot az autóból.",
+                "ro": "Scurtă plimbare de la parcare; admirați fațada din mașină.",
+                "en": "Short walk from the car park; admire the facade from the car."
+              }
+            },
+            {
+              "name": "St Chad's Church",
+              "tip_5lang": {
+                "de": "Parken Sie unterhalb der Kirche und nutzen Sie den Regenschirm für den Aufstieg.",
+                "hu": "Parkoljon a templom alatt, és használjon esernyőt a felmenetelhez.",
+                "ro": "Parcați sub biserică și folosiți umbrela pentru urcare.",
+                "en": "Park below the church and use an umbrella for the ascent."
+              }
+            },
+            {
+              "name": "Hollingworth Lake",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den See aus einem der ufernahen Cafés.",
+                "hu": "Élvezze a tóra nyíló kilátást az egyik vízparti kávézóból.",
+                "ro": "Bucurați-vă de priveliștea lacului de la una dintre cafenelele de pe mal.",
+                "en": "Enjoy the lake view from one of the lakeside cafés."
+              }
+            },
+            {
+              "name": "Ellenroad Engine House",
+              "tip_5lang": {
+                "de": "Großer Parkplatz vorhanden; der Besuch findet komplett indoor statt.",
+                "hu": "Nagy parkoló áll rendelkezésre; a látogatás teljesen beltéri.",
+                "ro": "Parcare mare disponibilă; vizita are loc complet la interior.",
+                "en": "Large car park available; the visit takes place entirely indoors."
+              }
+            },
+            {
+              "name": "Healey Dell",
+              "tip_5lang": {
+                "de": "Die Wasserfälle sind nach Regen besonders beeindruckend; feste Schuhe einplanen.",
+                "hu": "A vízesések eső után különösen lenyűgözőek; készüljön stabil cipővel.",
+                "ro": "Cascadele sunt deosebit de impresionante după ploaie; planificați încălțăminte solidă.",
+                "en": "The waterfalls are particularly impressive after rain; plan for sturdy shoes."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Parkhäuser im Zentrum, um trockenen Fußes zu den Museen zu kommen.",
+              "Die Landstraßen zum Healey Dell können bei Starkregen tückische Pfützen haben.",
+              "Vermeiden Sie das Parken auf unbefestigten Flächen am Hollingworth Lake bei Nässe.",
+              "Prüfen Sie Ihre Scheibenwischer vor der Abfahrt in die ländlicheren Gebiete."
+            ],
+            "hu": [
+              "Használja a központi parkolóházakat, hogy száraz lábbal jusson a múzeumokhoz.",
+              "A Healey Dell felé vezető utaknál heves esőzéskor csalóka tócsák lehetnek.",
+              "Kerülje a burkolatlan felületeken való parkolást a Hollingworth-tónál nedves időben.",
+              "Ellenőrizze az ablaktörlőket, mielőtt a vidéki területek felé indulna."
+            ],
+            "ro": [
+              "Folosiți parcările supraetajate din centru pentru a ajunge cu picioarele uscate la muzee.",
+              "Drumurile spre Healey Dell pot avea bălți periculoase în timpul ploilor torențiale.",
+              "Evitați parcarea pe suprafețe neamenajate la Lacul Hollingworth pe umezeală.",
+              "Verificați ștergătoarele înainte de a pleca spre zonele rurale."
+            ],
+            "en": [
+              "Use the multi-storey car parks in the center to reach the museums dry-shod.",
+              "The country roads to Healey Dell can have treacherous puddles during heavy rain.",
+              "Avoid parking on unpaved surfaces at Hollingworth Lake in wet conditions.",
+              "Check your wipers before setting off for the more rural areas."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Winterausflug mit dem Auto zeigt die raue Schönheit der Pennines um Rochdale. Nach dem Besuch der warmen Museen im Zentrum führt die Fahrt zum Hollingworth Lake, wo Sie die klare Winterluft bei einem kurzen Stopp genießen können. Die historischen Dampfmaschinen im Ellenroad Engine House bieten Schutz vor der Kälte, bevor Healey Dell im Winterlicht verzaubert.",
+            "hu": "A téli autós kirándulás megmutatja a Pennines vad szépségét Rochdale körül. A központi meleg múzeumok után az út a Hollingworth-tóhoz vezet, ahol egy rövid megálló során élvezheti a friss téli levegőt. Az Ellenroad Gépház történelmi gőzgépei védelmet nyújtanak a hideg ellen, mielőtt Healey Dell téli fényei elvarázsolnák.",
+            "ro": "O excursie de iarnă cu mașina dezvăluie frumusețea aspră a Munților Pennines din jurul orașului Rochdale. După muzeele calde din centru, drumul duce spre Lacul Hollingworth, unde puteți savura aerul curat la o scurtă oprire. Mașinile cu aburi istorice de la Ellenroad Engine House oferă protecție contra frigului înainte ca Healey Dell să vă încânte.",
+            "en": "A winter car trip reveals the rugged beauty of the Pennines around Rochdale. After visiting the warm museums in the center, drive to Hollingworth Lake, where you can enjoy the crisp winter air during a short stop. The historic steam engines at Ellenroad Engine House provide shelter from the cold before Healey Dell enchants in the winter light."
+          },
+          "stops": [
+            {
+              "name": "Pioneers Museum",
+              "tip_5lang": {
+                "de": "Heizung im Auto auf dem Weg hierher schon vorheizen.",
+                "hu": "Melegítse be előre az autó fűtését, mielőtt ideérne.",
+                "ro": "Preîncălziți mașina în drum spre acest loc.",
+                "en": "Preheat the car heating on your way here."
+              }
+            },
+            {
+              "name": "Touchstones Rochdale",
+              "tip_5lang": {
+                "de": "Ein warmer Zwischenstopp mit exzellenten Kunstausstellungen.",
+                "hu": "Egy meleg pihenő kiváló művészeti kiállításokkal.",
+                "ro": "O oprire caldă cu expoziții de artă excelente.",
+                "en": "A warm stopover with excellent art exhibitions."
+              }
+            },
+            {
+              "name": "Rochdale Town Hall",
+              "tip_5lang": {
+                "de": "Abends festlich beleuchtet; ein kurzer Halt für ein Foto lohnt sich.",
+                "hu": "Este ünnepi kivilágításban; egy rövid megálló egy fotóra megéri.",
+                "ro": "Iluminată festiv seara; o scurtă oprire pentru o fotografie merită.",
+                "en": "Festively lit in the evening; a short stop for a photo is worth it."
+              }
+            },
+            {
+              "name": "St Chad's Church",
+              "tip_5lang": {
+                "de": "Die Auffahrt kann bei Glätte gesperrt sein; prüfen Sie Alternativen.",
+                "hu": "A felhajtó csúszás esetén lezárva lehet; keressen alternatívát.",
+                "ro": "Urcarea poate fi închisă în caz de polei; verificați alternativele.",
+                "en": "The approach may be closed during icy conditions; check alternatives."
+              }
+            },
+            {
+              "name": "Hollingworth Lake",
+              "tip_5lang": {
+                "de": "Oft sehr windig im Winter; bleiben Sie für die Aussicht im Auto.",
+                "hu": "Télen gyakran nagyon szeles; maradjon az autóban a kilátásért.",
+                "ro": "Adesea foarte vântos iarna; rămâneți în mașină pentru priveliște.",
+                "en": "Often very windy in winter; stay in the car for the view."
+              }
+            },
+            {
+              "name": "Ellenroad Engine House",
+              "tip_5lang": {
+                "de": "Ideal, um der winterlichen Kälte für eine Stunde zu entfliehen.",
+                "hu": "Ideális, hogy egy órára elmeneküljön a téli hideg elől.",
+                "ro": "Ideal pentru a scăpa de frigul iernii pentru o oră.",
+                "en": "Ideal for escaping the winter cold for an hour."
+              }
+            },
+            {
+              "name": "Healey Dell",
+              "tip_5lang": {
+                "de": "Die kahle Winterlandschaft bietet weite Sichtachsen im Naturschutzgebiet.",
+                "hu": "A kopár téli táj messzi kilátást kínál a természetvédelmi területen.",
+                "ro": "Peisajul golaș de iarnă oferă perspective largi în rezervația naturală.",
+                "en": "The bare winter landscape offers wide vistas in the nature reserve."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie die Wettervorhersage für die höher gelegenen Straßen zum Healey Dell.",
+              "Führen Sie einen Eiskratzer und Frostschutzmittel im Auto mit.",
+              "Die Parkplätze am Hollingworth Lake können bei Frost sehr glatt sein.",
+              "Nutzen Sie die kurzen Tageslichtstunden für die Fahrt durch die Pennines."
+            ],
+            "hu": [
+              "Ellenőrizze az időjárás-jelentést a Healey Dell felé vezető magasabb utakra.",
+              "Tartson jégkaparót és fagyállót az autóban.",
+              "A Hollingworth-tó parkolói fagy esetén nagyon csúszósak lehetnek.",
+              "Használja ki a rövid nappali órákat a Pennines-en való átutazáshoz."
+            ],
+            "ro": [
+              "Verificați prognoza meteo pentru drumurile mai înalte spre Healey Dell.",
+              "Aveți în mașină o răzuitoare de gheață și lichid de parbriz de iarnă.",
+              "Parcările de la Lacul Hollingworth pot fi foarte alunecoase în caz de îngheț.",
+              "Profitați de puținele ore de lumină pentru drumul prin Munții Pennines."
+            ],
+            "en": [
+              "Check the weather forecast for the higher roads to Healey Dell.",
+              "Carry an ice scraper and de-icer in the car.",
+              "The car parks at Hollingworth Lake can be very slippery during frost.",
+              "Make the most of the short daylight hours for driving through the Pennines."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1526,6 +2126,206 @@
           "Factor in waiting times for buses into your schedule.",
           "Check the last bus time back to the centre if you're out in the evening."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Rochdales Nahverkehr bringt Sie bequem durch einen regnerischen Tag. Die Straßenbahn und Busse halten direkt im Zentrum bei der Town Hall und den Museen. Eine Busfahrt zum Hollingworth Lake bietet Ausblicke aus dem Trockenen, bevor es zum Ellenroad Engine House geht. Den Tag beschließen Sie im Broadfield Park, der gut an den Interchange angebunden ist.",
+            "hu": "Rochdale tömegközlekedése kényelmesen átsegíti egy esős napon. A villamos és a buszok közvetlenül a központban, a városházánál és a múzeumoknál állnak meg. Egy buszozás a Hollingworth-tóhoz szárazon kínál kilátást, mielőtt az Ellenroad Gépházhoz indulna. A napot a Broadfield Parknál zárja, amely jól kapcsolódik a közlekedési csomóponthoz.",
+            "ro": "Transportul public din Rochdale vă ajută să treceți confortabil de o zi ploioasă. Tramvaiul și autobuzele opresc chiar în centru, lângă Primărie și muzee. O călătorie cu autobuzul spre Lacul Hollingworth oferă priveliști la adăpost înainte de Ellenroad Engine House. Încheiați ziua la Parcul Broadfield, bine conectat la autogară.",
+            "en": "Rochdale's public transport gets you comfortably through a rainy day. The tram and buses stop right in the center near the Town Hall and museums. A bus ride to Hollingworth Lake offers views from the dry before heading to Ellenroad Engine House. End the day at Broadfield Park, which is well-connected to the Interchange."
+          },
+          "stops": [
+            {
+              "name": "Rochdale Town Hall",
+              "tip_5lang": {
+                "de": "Die Straßenbahnhaltestelle ist nur wenige Schritte vom Eingang entfernt.",
+                "hu": "A villamosmegálló csak néhány lépésre van a bejárattól.",
+                "ro": "Stația de tramvai este la doar câțiva pași de intrare.",
+                "en": "The tram stop is only a few steps away from the entrance."
+              }
+            },
+            {
+              "name": "St Chad's Church",
+              "tip_5lang": {
+                "de": "Vom Interchange aus führt ein kurzer, steiler Weg zur Kirche.",
+                "hu": "A csomóponttól egy rövid, meredek út vezet a templomhoz.",
+                "ro": "De la autogară, un drum scurt și abrupt duce la biserică.",
+                "en": "From the Interchange, a short, steep path leads to the church."
+              }
+            },
+            {
+              "name": "Touchstones Rochdale",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Buslinien im Stadtzentrum für kurze Sprünge zwischen den Museen.",
+                "hu": "Használja a belvárosi buszjáratokat a múzeumok közötti rövid szakaszokra.",
+                "ro": "Folosiți liniile de autobuz din centru pentru distanțe scurte între muzee.",
+                "en": "Use the city center bus lines for short hops between the museums."
+              }
+            },
+            {
+              "name": "Pioneers Museum",
+              "tip_5lang": {
+                "de": "Nahe der Haltestelle gelegen; idealer Startpunkt bei Regen.",
+                "hu": "A megálló közelében található; ideális kezdőpont esőben.",
+                "ro": "Situat aproape de stație; punct de plecare ideal pe ploaie.",
+                "en": "Located near the stop; ideal starting point in the rain."
+              }
+            },
+            {
+              "name": "Hollingworth Lake",
+              "tip_5lang": {
+                "de": "Der Bus hält direkt am Seeufer; kein langer Fußweg im Regen nötig.",
+                "hu": "A busz közvetlenül a tóparton áll meg; nincs szükség hosszú sétára az esőben.",
+                "ro": "Autobuzul oprește chiar pe malul lacului; nu e nevoie de o plimbare lungă prin ploaie.",
+                "en": "The bus stops right at the lakeside; no long walk in the rain necessary."
+              }
+            },
+            {
+              "name": "Ellenroad Engine House",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Busverbindung ab dem Interchange; die Haltestelle ist nah.",
+                "hu": "Ellenőrizze a buszcsatlakozást a csomóponttól; a megálló közel van.",
+                "ro": "Verificați conexiunea de autobuz de la autogară; stația este aproape.",
+                "en": "Check the bus connection from the Interchange; the stop is close by."
+              }
+            },
+            {
+              "name": "Broadfield Park",
+              "tip_5lang": {
+                "de": "Gut erreichbar mit der Straßenbahn; nutzen Sie die Haltestelle Town Hall.",
+                "hu": "Villamossal jól megközelíthető; használja a Town Hall megállót.",
+                "ro": "Ușor accesibil cu tramvaiul; folosiți stația Town Hall.",
+                "en": "Easily accessible by tram; use the Town Hall stop."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die 'Bee Network' App für Echtzeit-Infos bei Regen-Verzögerungen.",
+              "Der Rochdale Interchange ist überdacht und bietet Schutz beim Umsteigen.",
+              "Die Straßenbahn (Metrolink) ist eine zuverlässige und trockene Option im Zentrum.",
+              "Halten Sie Kleingeld oder eine Kontaktlos-Karte für den Bus bereit."
+            ],
+            "hu": [
+              "Használja a 'Bee Network' alkalmazást az eső miatti késések nyomon követésére.",
+              "A Rochdale Interchange fedett, védelmet nyújt átszálláskor.",
+              "A villamos (Metrolink) megbízható és száraz opció a központban.",
+              "Készítsen elő aprópénzt vagy érintésmentes kártyát a buszhoz."
+            ],
+            "ro": [
+              "Folosiți aplicația 'Bee Network' pentru informații în timp real despre întârzierile cauzate de ploaie.",
+              "Autogara Rochdale Interchange este acoperită, oferind protecție la transfer.",
+              "Tramvaiul (Metrolink) este o opțiune sigură și uscată în centru.",
+              "Aveți pregătit mărunt sau un card contactless pentru autobuz."
+            ],
+            "en": [
+              "Use the 'Bee Network' app for real-time info on rain-related delays.",
+              "The Rochdale Interchange is covered, providing shelter during transfers.",
+              "The tram (Metrolink) is a reliable and dry option in the center.",
+              "Have change or a contactless card ready for the bus."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der öffentliche Nahverkehr bietet im Winter eine warme Basis für Ihre Tour durch Rochdale. Vom beheizten Interchange aus erreichen Sie schnell die Town Hall und die Museen. Die Busfahrt zum Hollingworth Lake zeigt die verschneiten oder frostigen Pennines aus dem Fenster. Am späten Nachmittag bringt Sie der Bus sicher zurück zum Ellenroad Engine House und ins Zentrum.",
+            "hu": "A tömegközlekedés télen meleg bázist kínál a rochdale-i túrához. A fűtött közlekedési csomóponttól gyorsan elérheti a városházát és a múzeumokat. A buszos utazás a Hollingworth-tóhoz az ablakból mutatja meg a havas vagy zúzmarás Pennines-t. Késő délután a busz biztonságosan visszaviszi az Ellenroad Gépházhoz és a központba.",
+            "ro": "Transportul public oferă o bază caldă iarna pentru turul prin Rochdale. De la autogara încălzită, ajungeți rapid la Primărie și muzee. Călătoria cu autobuzul spre Lacul Hollingworth dezvăluie Munții Pennines înzăpeziți sau înghețați de pe fereastră. După-amiaza târziu, autobuzul vă aduce în siguranță înapoi la Ellenroad Engine House și în centru.",
+            "en": "Public transport provides a warm base for your tour through Rochdale in winter. From the heated Interchange, you can quickly reach the Town Hall and museums. The bus ride to Hollingworth Lake shows the snowy or frosty Pennines through the window. In the late afternoon, the bus takes you safely back to Ellenroad Engine House and the center."
+          },
+          "stops": [
+            {
+              "name": "Rochdale Town Hall",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in der Straßenbahn auf dem Weg ins Zentrum auf.",
+                "hu": "Melegedjen fel a villamoson a központba vezető úton.",
+                "ro": "Încălziți-vă în tramvai în drum spre centru.",
+                "en": "Warm up on the tram on your way to the center."
+              }
+            },
+            {
+              "name": "St Chad's Church",
+              "tip_5lang": {
+                "de": "Achten Sie auf dem Weg zum Interchange auf gestreute Wege.",
+                "hu": "Ügyeljen a felszórt utakra a közlekedési csomópont felé menet.",
+                "ro": "Atenție la aleile presărate cu sare în drum spre autogară.",
+                "en": "Watch out for gritted paths on your way to the Interchange."
+              }
+            },
+            {
+              "name": "Touchstones Rochdale",
+              "tip_5lang": {
+                "de": "Nur ein kurzer Sprung von der Haltestelle; verbringen Sie hier die kälteste Zeit.",
+                "hu": "Csak egy rövid szakasz a megállótól; töltse itt a leghidegebb időt.",
+                "ro": "Doar la scurtă distanță de stație; petreceți aici cel mai rece interval al zilei.",
+                "en": "Just a short hop from the stop; spend the coldest time of the day here."
+              }
+            },
+            {
+              "name": "Pioneers Museum",
+              "tip_5lang": {
+                "de": "Die Busse halten in der Nähe; ideal für den Start am Morgen.",
+                "hu": "A buszok a közelben állnak meg; ideális kezdés reggel.",
+                "ro": "Autobuzele opresc în apropiere; ideal pentru startul de dimineață.",
+                "en": "Buses stop nearby; ideal for starting in the morning."
+              }
+            },
+            {
+              "name": "Hollingworth Lake",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Winterfahrplan, da Busse seltener fahren könnten.",
+                "hu": "Ellenőrizze a téli menetrendet, mivel a buszok ritkábban járhatnak.",
+                "ro": "Verificați mersul autobuzelor de iarnă, deoarece pot circula mai rar.",
+                "en": "Check the winter timetable as buses might run less frequently."
+              }
+            },
+            {
+              "name": "Ellenroad Engine House",
+              "tip_5lang": {
+                "de": "Ein gemütlicher Ort nach der Fahrt durch die winterliche Landschaft.",
+                "hu": "Barátságos hely a téli tájon át tett utazás után.",
+                "ro": "Un loc primitor după călătoria prin peisajul de iarnă.",
+                "en": "A cozy spot after the ride through the winter landscape."
+              }
+            },
+            {
+              "name": "Broadfield Park",
+              "tip_5lang": {
+                "de": "Letzte Runde vor Einbruch der Dunkelheit; die Tram ist nah.",
+                "hu": "Utolsó kör sötétedés előtt; a villamos közel van.",
+                "ro": "Ultima tură înainte de lăsarea întunericului; tramvaiul este aproape.",
+                "en": "Last round before dark falls; the tram is close by."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Rochdale Interchange ist im Winter beheizt und bietet Toiletten.",
+              "Prüfen Sie die Metrolink-App auf wetterbedingte Störungen bei Frost.",
+              "Nutzen Sie Tageskarten, um flexibel zwischen Bus und Bahn zu wechseln.",
+              "Planen Sie Rückfahrten aus ländlichen Gebieten vor 17:00 Uhr ein."
+            ],
+            "hu": [
+              "A Rochdale Interchange télen fűtött és van mosdó is.",
+              "Ellenőrizze a Metrolink alkalmazást a fagy miatti esetleges fennakadásokért.",
+              "Használjon napijegyet a busz és a villamos közötti rugalmas váltáshoz.",
+              "Tervezze meg a visszautat a vidéki területekről 17:00 előtt."
+            ],
+            "ro": [
+              "Autogara Rochdale Interchange este încălzită iarna și are toalete.",
+              "Verificați aplicația Metrolink pentru perturbări cauzate de îngheț.",
+              "Folosiți bilete de o zi pentru a schimba flexibil între autobuz și tramvai.",
+              "Planificați întoarcerea din zonele rurale înainte de ora 17:00."
+            ],
+            "en": [
+              "The Rochdale Interchange is heated in winter and offers restrooms.",
+              "Check the Metrolink app for weather-related disruptions during frost.",
+              "Use day tickets for flexible switching between bus and tram.",
+              "Plan return trips from rural areas before 5:00 PM."
+            ]
+          }
+        }
       }
     }
   }

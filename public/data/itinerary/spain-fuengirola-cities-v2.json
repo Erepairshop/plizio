@@ -386,6 +386,210 @@
           "Drink plenty of water to stay hydrated.",
           "Be sure to try the local fish dishes."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen beginnt besinnlich in der Kirche Rosario. Später bietet das Stadtmuseum den perfekten Zufluchtsort vor den Schauern.\n\nMittags suchen wir uns ein gemütliches Strandrestaurant mit festem Dach, um den Wellen zuzusehen, ohne nass zu werden.\n\nAm Nachmittag erkunden wir die Burg Sohail zwischen den Güssen; die alten Mauern wirken im Regen besonders dramatisch.\n\nDer Tag endet mit einem kurzen Spaziergang am Strand von Los Boliches, wo die salzige Gischt und der Regen eins werden.",
+            "hu": "A reggeli eső elől a Rosario templom csendjébe menekülünk, majd a Történeti Múzeum kiállításai nyújtanak száraz menedéket.\n\nEbédidőben a tengerparti sétány egyik fedett teraszán hallgatjuk az eső kopogását a hullámok morajlása mellett.\n\nDélután a Sohail vár falai között teszünk egy frissítő sétát, amikor alábbhagy a csapadék, kihasználva a drámai fényeket.\n\nEste a Los Boliches strandnál fejezzük be a napot, ahol az eső illata és a tengeri sós pára különleges elegyet alkot.",
+            "ro": "O dimineață ploioasă începe liniștit în biserica Rosario, urmată de o vizită la Muzeul de Istorie, refugiul perfect împotriva stropilor.\n\nLa prânz, alegem un restaurant de pe plajă cu acoperiș solid pentru a admira marea în timp ce savurăm preparate locale.\n\nDupă-amiaza, explorăm castelul Sohail între două averse; zidurile vechi par mult mai impunătoare sub cerul cenușiu.\n\nZiua se încheie la plaja Los Boliches, unde ploaia măruntă transformă peisajul marin într-un tablou melancolic și liniștit.",
+            "en": "A rainy morning starts peacefully in the Rosario Church, followed by the History Museum, a perfect shelter from the showers.\n\nAt lunchtime, we pick a beach restaurant with a solid roof to watch the waves while staying dry and enjoying local flavors.\n\nIn the afternoon, we explore Sohail Castle between rain spells; the ancient walls look particularly dramatic in the wet weather.\n\nThe day concludes at Los Boliches beach, where the scent of rain and the salty sea mist create a unique, refreshing atmosphere."
+          },
+          "stops": [
+            {
+              "name": "Church of Nuestra Señora del Rosario",
+              "tip_5lang": {
+                "de": "Idealer trockener Startpunkt im Stadtzentrum.",
+                "hu": "Tökéletes száraz kezdés a városközpontban.",
+                "ro": "Punct de plecare uscat în centrul orașului.",
+                "en": "Perfect dry starting point in the city center."
+              }
+            },
+            {
+              "name": "Fuengirola History Museum",
+              "tip_5lang": {
+                "de": "Bester Ort, um den stärksten Regen abzuwarten.",
+                "hu": "A legjobb hely a heves esőzés kivárására.",
+                "ro": "Cel mai bun loc pentru a aștepta trecerea ploii.",
+                "en": "Best place to wait out the heaviest rain."
+              }
+            },
+            {
+              "name": "Paseo Marítimo (Promenade)",
+              "tip_5lang": {
+                "de": "Achtung, die Fliesen können bei Nässe rutschig sein.",
+                "hu": "Vigyázat, a burkolat esőben csúszós lehet.",
+                "ro": "Atenție, plăcile pot fi alunecoase când sunt ude.",
+                "en": "Caution, the tiles can be slippery when wet."
+              }
+            },
+            {
+              "name": "Lunch break on the beach",
+              "coords": [
+                -4.62,
+                36.546
+              ],
+              "tip_5lang": {
+                "de": "Wählen Sie ein 'Chiringuito' mit Innenbereich.",
+                "hu": "Válasszunk beltéri résszel rendelkező 'chiringuito'-t.",
+                "ro": "Alegeți un 'chiringuito' cu zonă interioară.",
+                "en": "Choose a 'chiringuito' with an indoor seating area."
+              }
+            },
+            {
+              "name": "Sohail Castle",
+              "tip_5lang": {
+                "de": "Die steilen Wege zur Burg sind bei Regen glatt.",
+                "hu": "A várba vezető meredek utak esőben csúsznak.",
+                "ro": "Căile abrupte spre castel sunt alunecoase pe ploaie.",
+                "en": "The steep paths to the castle are slippery in the rain."
+              }
+            },
+            {
+              "name": "Roman Ruins at Finca Secretario",
+              "tip_5lang": {
+                "de": "Nur bei kurzem Nieselregen zu empfehlen, da offen.",
+                "hu": "Csak szemerkélő esőben ajánlott, mert nyitott terület.",
+                "ro": "Recomandat doar pe burniță, fiind o zonă deschisă.",
+                "en": "Only recommended during light drizzle as it's open-air."
+              }
+            },
+            {
+              "name": "Los Boliches Beach",
+              "tip_5lang": {
+                "de": "Ein Regenschirm ist bei diesem Wind nutzlos.",
+                "hu": "A tengerparti szélben az esernyő hasztalan lehet.",
+                "ro": "O umbrelă poate fi inutilă din cauza vântului.",
+                "en": "An umbrella might be useless in the coastal wind."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine leichte Regenjacke statt eines Schirms wegen des Windes.",
+              "Nutzen Sie die Arkaden in der Nähe des Rathauses für trockene Wege.",
+              "Das Einkaufszentrum Miramar ist eine gute Alternative bei Dauerregen.",
+              "Achten Sie auf Pfützen auf den weiß markierten Fußgängerüberwegen."
+            ],
+            "hu": [
+              "A tengerparti szél miatt az esernyő helyett inkább esőkabátot viseljünk.",
+              "Használjuk ki a városháza környéki árkádokat a szárazabb közlekedéshez.",
+              "Tartós eső esetén a Miramar bevásárlóközpont kiváló alternatíva.",
+              "Vigyázzunk a tócsákra és a csúszós fehér felfestésekre az utakon."
+            ],
+            "ro": [
+              "Purtați o pelerină de ploaie în loc de umbrelă din cauza vântului.",
+              "Folosiți arcadele de lângă primărie pentru a rămâne uscați.",
+              "Centrul comercial Miramar este o alternativă bună în caz de ploaie continuă.",
+              "Aveți grijă la bălți și la marcajele albe de pe asfalt care devin alunecoase."
+            ],
+            "en": [
+              "Wear a light raincoat instead of an umbrella due to the coastal wind.",
+              "Use the arcades near the town hall for drier walking routes.",
+              "Miramar shopping center is a great alternative during persistent rain.",
+              "Watch out for puddles and slippery white paint on pedestrian crossings."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die milde Wintersonne beleuchtet die Plaza de la Constitución, während wir den Tag ohne die Sommerhitze beginnen.\n\nAm Mittag genießen wir einen Spaziergang entlang der Promenade; die klare Luft bietet eine weite Sicht bis nach Afrika.\n\nDer Nachmittag gehört der Burg Sohail, wo die tiefstehende Wintersonne lange Schatten auf die alten Mauern wirft.\n\nWir beenden den Tag früh am Strand von Los Boliches, um den Sonnenuntergang gegen 18:00 Uhr nicht zu verpassen.",
+            "hu": "A szelíd téli napsütés világítja meg a főteret, miközben a nyári hőség nélkül vágunk neki a városnak.\n\nDélben a sétányon korzózunk; a tiszta téli levegőben néha még Afrika partjai is felsejlenek a távolban.\n\nDélután a Sohail várat keressük fel, ahol az alacsonyan járó nap hosszú árnyékokat vet a történelmi falakra.\n\nA napot korán zárjuk a Los Boliches strandon, hogy elcsípjük a 18:00 körüli látványos naplementét.",
+            "ro": "Soarele blând de iarnă luminează Plaza de la Constitución, în timp ce începem ziua fără arșița verii.\n\nLa amiază, ne bucurăm de o plimbare pe faleză; aerul curat oferă uneori o vizibilitate rară până spre coasta Africii.\n\nDupă-amiaza este dedicată castelului Sohail, unde soarele de iarnă aruncă umbre lungi peste zidurile vechi.\n\nÎncheiem ziua devreme pe plaja Los Boliches, pentru a nu rata apusul superb de la ora 18:00.",
+            "en": "Mild winter sun illuminates Plaza de la Constitución as we start the day without the summer heat.\n\nAt noon, we enjoy a walk along the promenade; the clear winter air often allows views as far as the African coast.\n\nIn the afternoon, we visit Sohail Castle, where the low-hanging sun casts long shadows over the historic walls.\n\nWe wrap up the day early at Los Boliches beach to catch the stunning sunset around 6:00 PM."
+          },
+          "stops": [
+            {
+              "name": "Church of Nuestra Señora del Rosario",
+              "tip_5lang": {
+                "de": "Die Kirche ist im Winter oft festlich geschmückt.",
+                "hu": "A templom télen gyakran ünnepi díszben tündököl.",
+                "ro": "Biserica este adesea decorată festiv în timpul iernii.",
+                "en": "The church is often festively decorated during winter."
+              }
+            },
+            {
+              "name": "Fuengirola History Museum",
+              "tip_5lang": {
+                "de": "Angenehm temperiert, falls es draußen kühl wird.",
+                "hu": "Kellemesen temperált helyszín, ha odakint lehűl az idő.",
+                "ro": "Temperatură plăcută în interior dacă afară se răcește.",
+                "en": "Pleasantly tempered inside if it gets chilly outdoors."
+              }
+            },
+            {
+              "name": "Paseo Marítimo (Promenade)",
+              "tip_5lang": {
+                "de": "Perfekt für Vitamin D in der milden Wintersonne.",
+                "hu": "Tökéletes hely a téli D-vitamin gyűjtéséhez.",
+                "ro": "Perfect pentru vitamina D sub soarele blând de iarnă.",
+                "en": "Perfect for gathering vitamin D in the mild winter sun."
+              }
+            },
+            {
+              "name": "Lunch break on the beach",
+              "tip_5lang": {
+                "de": "Probieren Sie 'Espetos', die auch im Winter schmecken.",
+                "hu": "Kóstoljuk meg az 'espetos'-t, télen is kiváló.",
+                "ro": "Gustați 'espetos', care sunt delicioși și iarna.",
+                "en": "Try 'espetos' (sardine skewers), great even in winter."
+              }
+            },
+            {
+              "name": "Sohail Castle",
+              "tip_5lang": {
+                "de": "Bester Aussichtspunkt für den frühen Sonnenuntergang.",
+                "hu": "A legjobb kilátópont a korai naplementéhez.",
+                "ro": "Cel mai bun punct de observație pentru apusul devreme.",
+                "en": "The best vantage point for the early sunset."
+              }
+            },
+            {
+              "name": "Roman Ruins at Finca Secretario",
+              "tip_5lang": {
+                "de": "Angenehm ohne die brennende Sommersonne zu besichtigen.",
+                "hu": "A tűző nyári nap nélkül sokkal kényelmesebb látogatni.",
+                "ro": "Mult mai plăcut de vizitat fără soarele arzător al verii.",
+                "en": "Much more comfortable to visit without the burning summer sun."
+              }
+            },
+            {
+              "name": "Los Boliches Beach",
+              "tip_5lang": {
+                "de": "Nehmen Sie eine Jacke mit, sobald die Sonne weg ist.",
+                "hu": "Vigyünk kabátot, amint lemegy a nap, hirtelen hűvös lesz.",
+                "ro": "Luați o jachetă, se răcește imediat ce apune soarele.",
+                "en": "Bring a jacket; it gets chilly as soon as the sun sets."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Zwiebelschichten, da die Sonne wärmt, der Schatten aber kühl ist.",
+              "Die Sonne geht gegen 18:00 Uhr unter, planen Sie Aktivitäten im Hellen.",
+              "Genießen Sie die Ruhe, es sind deutlich weniger Touristen unterwegs.",
+              "Die Terrassen sind mit Heizstrahlern auch abends gemütlich."
+            ],
+            "hu": [
+              "Öltözzünk rétegesen: a napon meleg van, de az árnyékban hűvös.",
+              "A nap 18:00 körül nyugszik, a szabadtéri programokat időzítsük korábbra.",
+              "Élvezzük a csendet, ilyenkor sokkal kevesebb a turista.",
+              "A teraszokon a gázmelegítők miatt este is kellemes az idő."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi: e cald la soare, dar răcoare la umbră.",
+              "Soarele apune în jur de ora 18:00, planificați activitățile din timp.",
+              "Bucurați-vă de liniște, sunt mult mai puțini turiști acum.",
+              "Terasele cu încălzitoare sunt primitoare chiar și seara."
+            ],
+            "en": [
+              "Wear layers; it’s warm in the sun but cool in the shade.",
+              "The sun sets around 6:00 PM, so plan outdoor activities earlier.",
+              "Enjoy the peace as there are significantly fewer tourists.",
+              "Terraces with heaters are cozy even in the evenings."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -742,6 +946,188 @@
           "Be careful of pedestrians who might step into the bike lane.",
           "A light backpack is useful for carrying water and snacks."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen starten wir unsere Tour vorsichtig am Paseo Marítimo. Der Wind bläst uns die Gischt ins Gesicht.\n\nEin langer Stopp im Bioparc bietet Schutz, da viele Beobachtungspunkte überdacht sind und die Tiere im Regen aktiv sind.\n\nNachmittags radeln wir zur Burg Sohail, wobei wir die Pfützen auf dem Radweg geschickt umfahren.\n\nDen Tag beenden wir mit einem warmen Getränk am Yachthafen, während wir unsere Ausrüstung trocknen lassen.",
+            "hu": "Az eső ellenére óvatosan vágunk neki a sétánynak, ahol a szél az arcunkba hordja a tengerpermetet.\n\nA Bioparc-ban hosszabb időt töltünk, mivel sok nézőpont fedett, és az állatok aktívak az esőben.\n\nDélután a Sohail várhoz tekerünk, ügyesen kerülgetve a tócsákat a parti kerékpárúton.\n\nA napot a kikötőben zárjuk egy forró itallal, miközben hagyjuk, hogy felszerelésünk megszáradjon.",
+            "ro": "În ciuda ploii, începem turul cu prudență pe faleză, unde vântul ne aruncă stropii de mare pe față.\n\nO oprire lungă la Bioparc oferă adăpost, multe puncte de observare fiind acoperite, iar animalele sunt active pe ploaie.\n\nDupă-amiaza pedalăm spre castelul Sohail, evitând cu grijă bălțile de pe pista de biciclete.\n\nÎncheiem ziua cu o băutură caldă în port, lăsând echipamentul să se usuce.",
+            "en": "Despite the rain, we cautiously start our tour on the promenade, with the wind blowing sea spray in our faces.\n\nA long stop at Bioparc provides shelter as many viewing areas are covered, and animals are often active in the rain.\n\nIn the afternoon, we cycle to Sohail Castle, skillfully dodging puddles on the coastal bike path.\n\nWe end the day with a warm drink at the Marina while letting our gear dry off."
+          },
+          "stops": [
+            {
+              "name": "Bike Rental & Start at Paseo Marítimo",
+              "tip_5lang": {
+                "de": "Fragen Sie nach einem Rad mit guten Schutzblechen.",
+                "hu": "Kérjünk jó sárvédővel felszerelt kerékpárt.",
+                "ro": "Cereți o bicicletă cu apărători de noroi bune.",
+                "en": "Ask for a bike with good mudguards."
+              }
+            },
+            {
+              "name": "Los Boliches Beach",
+              "tip_5lang": {
+                "de": "Fahren Sie langsam, der Sand macht den Weg rutschig.",
+                "hu": "Hajtsunk lassan, a vizes homok csúszóssá teszi az utat.",
+                "ro": "Mergeți încet, nisipul ud face drumul alunecos.",
+                "en": "Ride slowly; wet sand makes the path slippery."
+              }
+            },
+            {
+              "name": "Bioparc Fuengirola",
+              "tip_5lang": {
+                "de": "Fahrradständer sind in der Nähe des Eingangs vorhanden.",
+                "hu": "A bejárat közelében találhatók kerékpártárolók.",
+                "ro": "Există rastele pentru biciclete lângă intrare.",
+                "en": "Bike racks are available near the entrance."
+              }
+            },
+            {
+              "name": "Sohail Castle",
+              "tip_5lang": {
+                "de": "Der Boden an der Burg kann sehr matschig sein.",
+                "hu": "A vár környéki talaj esőben sáros lehet.",
+                "ro": "Terenul din jurul castelului poate fi noroios.",
+                "en": "The ground around the castle can be very muddy."
+              }
+            },
+            {
+              "name": "Lunch at the Marina",
+              "tip_5lang": {
+                "de": "Überdachte Abstellplätze für Räder sind hier selten.",
+                "hu": "Fedett kerékpártároló itt ritka, készüljünk rá.",
+                "ro": "Locurile de parcare acoperite pentru biciclete sunt rare.",
+                "en": "Covered bike parking is rare here; be prepared."
+              }
+            },
+            {
+              "name": "Leisurely ride towards Carvajal",
+              "tip_5lang": {
+                "de": "Bei starkem Wind ist die Rückfahrt anstrengend.",
+                "hu": "Erős szélben a visszaút fárasztó lehet.",
+                "ro": "Pe vânt puternic, drumul de întoarcere este obositor.",
+                "en": "In strong winds, the ride back can be exhausting."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie scharfes Bremsen auf den nassen Fliesen der Promenade.",
+              "Ein Poncho schützt beim Radfahren besser als eine kurze Jacke.",
+              "Prüfen Sie vor dem Start den Reifendruck für besseren Grip.",
+              "Nutzen Sie die Unterführung unter der N-340 bei starkem Guss."
+            ],
+            "hu": [
+              "Kerüljük a hirtelen fékezést a sétány vizes kövezetén.",
+              "A kerékpáros poncsó jobb védelmet nyújt, mint egy rövid dzseki.",
+              "Indulás előtt ellenőrizzük a guminyomást a jobb tapadásért.",
+              "Heves zivatar esetén használjuk az N-340 alatti aluljárókat."
+            ],
+            "ro": [
+              "Evitați frânările bruște pe plăcile ude ale falezei.",
+              "O pelerină tip poncho protejează mai bine la pedalat.",
+              "Verificați presiunea în pneuri pentru o aderență mai bună.",
+              "Folosiți pasajele de sub N-340 în caz de aversă puternică."
+            ],
+            "en": [
+              "Avoid sudden braking on the wet tiles of the promenade.",
+              "A cycling poncho provides better protection than a short jacket.",
+              "Check tire pressure before starting for better grip on wet roads.",
+              "Use the underpasses under the N-340 during heavy downpours."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die kühle Morgenbrise am Meer weckt unsere Lebensgeister beim Start am Paseo Marítimo.\n\nIm Bioparc genießen wir die milde Sonne; die Tiere sind ohne die Sommerhitze viel aktiver und besser zu beobachten.\n\nDie Fahrt zur Burg Sohail ist bei den moderaten Temperaturen ein Genuss, ohne ins Schwitzen zu kommen.\n\nNach einem gemütlichen Mittagessen im Hafen radeln wir entspannt Richtung Carvajal und genießen das goldene Winterlicht.",
+            "hu": "A hűvös reggeli tengeri szellő felfrissít minket, ahogy elindulunk a parti sétányon.\n\nA Bioparc-ban élvezzük a lágy napsütést; az állatok a hőség hiánya miatt sokkal mozgékonyabbak.\n\nA Sohail várhoz tekerés a mérsékelt hőmérsékletben igazi öröm, nem kell tartanunk a leizzadástól.\n\nA kikötői ebéd után kényelmesen tekerünk Carvajal felé, csodálva az aranyló téli fényeket.",
+            "ro": "Briza răcoroasă de dimineață ne revigorează la startul de pe faleză.\n\nLa Bioparc ne bucurăm de soarele blând; animalele sunt mult mai active fără zăpușeala verii.\n\nPedalatul spre castelul Sohail este o plăcere la temperaturi moderate, fără a transpirat excesiv.\n\nDupă un prânz relaxat în port, mergem spre Carvajal, admirând lumina aurie a iernii.",
+            "en": "The cool morning sea breeze refreshes us as we set off along the promenade.\n\nAt Bioparc, we enjoy the mild sun; the animals are much more active and easier to spot without the summer heat.\n\nCycling to Sohail Castle is a joy in the moderate temperatures, without breaking a sweat.\n\nAfter a cozy lunch at the Marina, we enjoy a relaxed ride towards Carvajal in the golden winter light."
+          },
+          "stops": [
+            {
+              "name": "Bike Rental & Start at Paseo Marítimo",
+              "tip_5lang": {
+                "de": "Dünne Handschuhe sind für den kühlen Morgen ratsam.",
+                "hu": "A hűvös reggeleken egy vékony kesztyű jól jöhet.",
+                "ro": "Mănușile subțiri sunt recomandate pentru diminețile reci.",
+                "en": "Thin gloves are recommended for cool mornings."
+              }
+            },
+            {
+              "name": "Los Boliches Beach",
+              "tip_5lang": {
+                "de": "Weniger Fußgänger machen das Radfahren hier entspannter.",
+                "hu": "A kevesebb gyalogos miatt sokkal nyugodtabb a tekerés.",
+                "ro": "Mai puțini pietoni fac pedalatul mult mai relaxant.",
+                "en": "Fewer pedestrians make cycling here much more relaxed."
+              }
+            },
+            {
+              "name": "Bioparc Fuengirola",
+              "tip_5lang": {
+                "de": "Ideal im Winter, da es im Park nie zu heiß wird.",
+                "hu": "Télen ideális, mert a parkban sosem lesz túl meleg.",
+                "ro": "Ideal iarna, deoarece în parc nu devine niciodată prea cald.",
+                "en": "Ideal in winter as the park never gets too hot."
+              }
+            },
+            {
+              "name": "Sohail Castle",
+              "tip_5lang": {
+                "de": "Im Winter sind die Steigungen angenehm zu fahren.",
+                "hu": "Télen az emelkedők is könnyebben leküzdhetők.",
+                "ro": "Iarna, pantele sunt mult mai ușor de urcat.",
+                "en": "In winter, the inclines are much easier to handle."
+              }
+            },
+            {
+              "name": "Lunch at the Marina",
+              "tip_5lang": {
+                "de": "Sonnige Plätze sind im Winter sehr begehrt.",
+                "hu": "A napsütötte asztalok télen nagyon népszerűek.",
+                "ro": "Locurile la soare sunt foarte căutate iarna.",
+                "en": "Sunny outdoor tables are very popular in winter."
+              }
+            },
+            {
+              "name": "Leisurely ride towards Carvajal",
+              "tip_5lang": {
+                "de": "Achtung, die Sonne steht tief und blendet beim Fahren.",
+                "hu": "Vigyázat, az alacsonyan járó nap elvakíthat tekerés közben.",
+                "ro": "Atenție, soarele jos vă poate orbi în timp ce pedalați.",
+                "en": "Caution: the low sun can be blinding while cycling."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die leeren Radwege entlang der Küste aus.",
+              "Tragen Sie eine Sonnenbrille gegen die tiefstehende Wintersonne.",
+              "Ab 17:30 Uhr sinken die Temperaturen spürbar.",
+              "Viele Cafés an der Strecke bieten jetzt günstige Menüs an."
+            ],
+            "hu": [
+              "Használjuk ki az ilyenkor szinte üres parti kerékpárutakat.",
+              "Viseljünk napszemüveget az alacsonyan járó, vakító nap ellen.",
+              "17:30 után a hőmérséklet érezhetően és gyorsan csökken.",
+              "Az útvonal menti kávézók többsége ilyenkor akciós menüket kínál."
+            ],
+            "ro": [
+              "Profitați de pistele de biciclete libere de-a lungul coastei.",
+              "Purtați ochelari de soare împotriva soarelui jos de iarnă.",
+              "După ora 17:30, temperaturile scad considerabil.",
+              "Multe cafenele de pe traseu oferă acum meniuri la prețuri bune."
+            ],
+            "en": [
+              "Take advantage of the empty bike paths along the coast.",
+              "Wear sunglasses against the low-hanging, blinding winter sun.",
+              "Temperatures drop noticeably and quickly after 5:30 PM.",
+              "Many cafes along the route offer special winter menus now."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1122,6 +1508,206 @@
           "Renting a smaller car is advantageous in the narrow streets.",
           "Plan your drives between clusters outside of peak hours."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Bequem im Auto erreichen wir das Bioparc-Parkhaus. Der Regen prasselt aufs Dach, während wir im Trockenen parken.\n\nNach dem Zoobesuch fahren wir zur Stierkampfarena; der kurze Weg vom Parkplatz ist auch bei Schauern machbar.\n\nMittags steuern wir Los Boliches an, wo wir direkt in der Nähe der Restaurants parken können, um trocken zu bleiben.\n\nDen Tag lassen wir an der Burg Sohail ausklingen, wobei wir den Sonnenuntergang geschützt aus dem Auto beobachten.",
+            "hu": "Kényelmesen, autóval érkezünk a Bioparc parkolójába. Az eső kopog a tetőn, miközben mi szárazon parkolunk le.\n\nA látogatás után a bikaviadal-arénához hajtunk; a parkolótól mért rövid táv esőben is vállalható.\n\nEbédre Los Boliches-t választjuk, ahol közvetlenül az éttermek közelében tudunk megállni, hogy ne ázzunk el.\n\nA napot a Sohail várnál zárjuk, ahol az autó oltalmából figyeljük a felhők közül felbukkanó naplementét.",
+            "ro": "Ajungem confortabil cu mașina la parcarea Bioparc. Ploaia bate în plafon în timp ce parcăm la adăpost.\n\nDupă vizită, conducem spre arena de tauri; distanța scurtă de la parcare este ușor de parcurs chiar și pe ploaie.\n\nLa prânz mergem în Los Boliches, unde putem parca chiar lângă restaurante pentru a rămâne uscați.\n\nÎncheiem ziua la castelul Sohail, admirând apusul de soare protejați în interiorul mașinii.",
+            "en": "We arrive comfortably by car at the Bioparc parking garage. Rain drums on the roof while we park in the dry.\n\nAfter the visit, we drive to the Bullring; the short walk from the car is manageable even during showers.\n\nFor lunch, we head to Los Boliches, where we can park right near the restaurants to stay dry.\n\nWe wrap up the day at Sohail Castle, watching the sunset through the clouds from the comfort of our car."
+          },
+          "stops": [
+            {
+              "name": "Arrival and Parking at Bioparc",
+              "tip_5lang": {
+                "de": "Das Parkhaus ist direkt mit dem Eingangsbereich verbunden.",
+                "hu": "A parkolóház közvetlen összeköttetésben áll a bejárattal.",
+                "ro": "Parcarea etajată este conectată direct cu zona de intrare.",
+                "en": "The parking garage is directly connected to the entrance area."
+              }
+            },
+            {
+              "name": "Bioparc Fuengirola",
+              "tip_5lang": {
+                "de": "Viele überdachte Wege zwischen den Gehegen.",
+                "hu": "Sok fedett útvonal található a kifutók között.",
+                "ro": "Multe trasee acoperite între țarcurile animalelor.",
+                "en": "Many covered paths between the animal enclosures."
+              }
+            },
+            {
+              "name": "Fuengirola Bullring",
+              "tip_5lang": {
+                "de": "Parken Sie auf der Rückseite für kürzeren Fußweg.",
+                "hu": "Parkoljunk a hátoldalon a rövidebb gyalogút érdekében.",
+                "ro": "Parcați în spate pentru un drum mai scurt pe jos.",
+                "en": "Park at the back for a shorter walk to the entrance."
+              }
+            },
+            {
+              "name": "Drive to the Beach & Park",
+              "tip_5lang": {
+                "de": "Parkplätze sind bei Regen einfacher zu finden.",
+                "hu": "Esőben sokkal könnyebb parkolóhelyet találni.",
+                "ro": "Locurile de parcare sunt mai ușor de găsit pe ploaie.",
+                "en": "Parking spaces are easier to find during rainy weather."
+              }
+            },
+            {
+              "name": "Lunch in Los Boliches",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus 'Los Boliches' bei Starkregen.",
+                "hu": "Heves esőben használjuk a 'Los Boliches' parkolóházat.",
+                "ro": "Folosiți parcarea 'Los Boliches' în caz de ploaie torențială.",
+                "en": "Use the 'Los Boliches' parking garage during heavy rain."
+              }
+            },
+            {
+              "name": "Paseo Marítimo & Beach Time",
+              "tip_5lang": {
+                "de": "Genießen Sie den Meerblick aus dem Auto.",
+                "hu": "Élvezzük a tengeri kilátást az autó ablakából.",
+                "ro": "Bucurați-vă de vederea la mare din interiorul mașinii.",
+                "en": "Enjoy the sea view from the comfort of your car."
+              }
+            },
+            {
+              "name": "Drive to Sohail Castle for Sunset",
+              "tip_5lang": {
+                "de": "Der Parkplatz direkt an der Burg ist oft leer.",
+                "hu": "A közvetlenül a várnál lévő parkoló ilyenkor gyakran üres.",
+                "ro": "Parcarea de lângă castel este adesea goală acum.",
+                "en": "The parking lot right by the castle is often empty now."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Küstenstraße kann bei Starkregen teilweise überflutet sein.",
+              "Nutzen Sie die Scheibenheizung gegen das Beschlagen im Inneren.",
+              "Viele Parkhäuser bieten im Winter günstigere Tagestarife an.",
+              "Achten Sie auf tief hängende Zweige auf den Zufahrtswegen."
+            ],
+            "hu": [
+              "Heves esőzéskor a parti utak néhol víz alá kerülhetnek.",
+              "Használjuk a szélvédőfűtést a belső párásodás ellen.",
+              "Sok parkolóház kínál télen kedvezőbb napi díjakat.",
+              "Figyeljünk az alacsonyra lógó ágakra a mellékutcákban."
+            ],
+            "ro": [
+              "Drumurile de coastă pot fi parțial inundate la ploi torențiale.",
+              "Folosiți dezaburirea pentru a preveni condensul în interior.",
+              "Multe parcări oferă tarife zilnice mai mici în timpul iernii.",
+              "Atenție la crengile lăsate jos pe drumurile de acces."
+            ],
+            "en": [
+              "Coastal roads can be partially flooded during heavy downpours.",
+              "Use the windshield defroster to prevent fogging inside the car.",
+              "Many parking garages offer lower daily rates during winter.",
+              "Watch out for low-hanging branches on smaller access roads."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Wir starten entspannt im warmen Auto und parken direkt am Bioparc. Die Parkplatzsuche ist im Winter ein Kinderspiel.\n\nNach dem Zoobesuch machen wir einen kurzen Abstecher zur Stierkampfarena, die im klaren Winterlicht imposant wirkt.\n\nMittags fahren wir nach Los Boliches; das Parken direkt an der Promenade ermöglicht uns einen schnellen Strandzugang.\n\nZum Abschluss steuern wir die Burg Sohail an, um den Sonnenuntergang bequem vom Hügel aus zu erleben.",
+            "hu": "Kényelmesen indítjuk a napot a fűtött autóban, és közvetlenül a Bioparc-nál parkolunk. Télen a parkolóhely-keresés gyerekjáték.\n\nA látogatás után egy rövid kitérőt teszünk az arénához, amely a tiszta téli fényben impozáns látványt nyújt.\n\nEbédre Los Boliches felé vesszük az irányt; a sétány menti parkolás gyors utat biztosít a strandhoz.\n\nZárásként a Sohail várhoz hajtunk, hogy kényelmesen, a dombtetőről nézzük végig a naplementét.",
+            "ro": "Începem relaxați în mașina încălzită și parcăm chiar lângă Bioparc. Găsirea unui loc de parcare iarna este o joacă de copii.\n\nDupă vizită, facem o scurtă oprire la arena de tauri, care arată impunător în lumina clară a iernii.\n\nLa prânz mergem spre Los Boliches; parcarea pe faleză ne oferă acces rapid la plajă.\n\nLa final, conducem spre castelul Sohail pentru a admira apusul confortabil de pe deal.",
+            "en": "We start the day relaxed in a warm car and park directly at Bioparc. Finding a parking spot is a breeze in winter.\n\nAfter the zoo visit, we make a short detour to the Bullring, which looks imposing in the clear winter light.\n\nAt lunchtime, we head to Los Boliches; parking right on the promenade allows quick access to the beach.\n\nTo wrap up, we drive to Sohail Castle to witness the sunset comfortably from the hilltop."
+          },
+          "stops": [
+            {
+              "name": "Arrival and Parking at Bioparc",
+              "tip_5lang": {
+                "de": "Keine Wartezeiten an der Einfahrt im Winter.",
+                "hu": "Télen nincs várakozási idő a behajtásnál.",
+                "ro": "Iarna nu există cozi la intrarea în parcare.",
+                "en": "No waiting times at the parking entrance in winter."
+              }
+            },
+            {
+              "name": "Bioparc Fuengirola",
+              "tip_5lang": {
+                "de": "Im Winter sind die Parkplätze im Schatten weniger wichtig.",
+                "hu": "Télen az árnyékos parkolóhelyek kevésbé fontosak.",
+                "ro": "Iarna, locurile de parcare la umbră nu sunt esențiale.",
+                "en": "Shaded parking spots are less critical during winter."
+              }
+            },
+            {
+              "name": "Fuengirola Bullring",
+              "tip_5lang": {
+                "de": "Gute Parkmöglichkeiten direkt an der Calle Camilo José Cela.",
+                "hu": "Kiváló parkolási lehetőség a Calle Camilo José Cela mentén.",
+                "ro": "Parcare facilă chiar pe strada Camilo José Cela.",
+                "en": "Easy parking directly on Calle Camilo José Cela."
+              }
+            },
+            {
+              "name": "Drive to the Beach & Park",
+              "tip_5lang": {
+                "de": "Die Promenade bietet im Winter reichlich Gratis-Parkplätze.",
+                "hu": "A sétányon télen bőven találni ingyenes parkolóhelyet.",
+                "ro": "Pe faleză se găsesc multe locuri de parcare gratuite iarna.",
+                "en": "The promenade offers plenty of free parking spots in winter."
+              }
+            },
+            {
+              "name": "Lunch in Los Boliches",
+              "tip_5lang": {
+                "de": "In der Nebensaison ist das Parken hier stressfrei.",
+                "hu": "Szezonon kívül a parkolás itt teljesen stresszmentes.",
+                "ro": "În extrasezon, parcarea aici este lipsită de stres.",
+                "en": "Parking here is stress-free during the off-season."
+              }
+            },
+            {
+              "name": "Paseo Marítimo & Beach Time",
+              "tip_5lang": {
+                "de": "Lassen Sie keine Wertsachen sichtbar im Auto liegen.",
+                "hu": "Ne hagyjunk látható értéket az autó utasterében.",
+                "ro": "Nu lăsați obiecte de valoare la vedere în mașină.",
+                "en": "Do not leave any valuables visible inside the car."
+              }
+            },
+            {
+              "name": "Drive to Sohail Castle for Sunset",
+              "tip_5lang": {
+                "de": "Die Brücke zur Burg ist nachts schön beleuchtet.",
+                "hu": "A várhoz vezető híd éjszaka gyönyörűen ki van világítva.",
+                "ro": "Podul spre castel este frumos iluminat noaptea.",
+                "en": "The bridge to the castle is beautifully lit at night."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die 'Blaue Zone', sie ist oft mittags kostenlos.",
+              "Die tiefstehende Sonne kann die Sicht stark beeinträchtigen.",
+              "Achten Sie auf Einbahnstraßen im Stadtzentrum von Fuengirola.",
+              "Parken Sie für den Sonnenuntergang direkt oben am Burghügel."
+            ],
+            "hu": [
+              "Használjuk ki a kék zónákat, ebédidőben gyakran ingyenesek.",
+              "Az alacsonyan járó nap erősen zavarhatja a kilátást vezetéskor.",
+              "Figyeljünk az egyirányú utcákra Fuengirola belvárosában.",
+              "A naplemente megtekintéséhez parkoljunk közvetlenül a várdombon."
+            ],
+            "ro": [
+              "Folosiți 'Zona Albastră', e adesea gratuită la prânz.",
+              "Soarele jos poate afecta considerabil vizibilitatea la volan.",
+              "Atenție la străzile cu sens unic din centrul Fuengirolei.",
+              "Parcați direct pe dealul castelului pentru apus."
+            ],
+            "en": [
+              "Use the 'Blue Zone'; it's often free during lunchtime.",
+              "The low-hanging sun can significantly impair visibility while driving.",
+              "Watch out for one-way streets in Fuengirola's city center.",
+              "Park right on top of the castle hill for the best sunset view."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1478,6 +2064,188 @@
           "The C1 line trains run regularly, connecting Fuengirola to Málaga and the airport.",
           "Always validate your ticket when you get on a bus."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir kommen am Bahnhof Los Boliches an, wo das Dach uns vor den ersten Tropfen schützt.\n\nNach der Besichtigung der römischen Ruinen nehmen wir den Bus ins Zentrum, um trocken zum Mittagessen zu gelangen.\n\nAm Nachmittag besuchen wir die Kirche Rosario und nutzen die kurzen Wege zwischen den Gebäuden.\n\nDer Bus bringt uns schließlich zur Burg Sohail, wobei wir die Wartezeit in einem Café nahe der Haltestelle verbringen.",
+            "hu": "A Los Boliches vasútállomásra érkezünk, ahol a tető megvéd minket az első esőcseppektől.\n\nA római romok megtekintése után busszal megyünk a központba, hogy szárazon jussunk el az ebédhez.\n\nDélután a Rosario templomot keressük fel, kihasználva az épületek közötti rövid távolságokat.\n\nA busz végül a Sohail várhoz visz minket; a várakozási időt egy közeli kávézóban töltjük.",
+            "ro": "Sosim la gara Los Boliches, unde acoperișul ne protejează de primii stropi de ploaie.\n\nDupă vizitarea ruinelor romane, luăm autobuzul spre centru pentru a ajunge uscați la prânz.\n\nDupă-amiaza vizităm biserica Rosario, profitând de distanțele scurte între clădiri.\n\nAutobuzul ne duce în final la castelul Sohail; petrecem timpul de așteptare într-o cafenea de lângă stație.",
+            "en": "We arrive at Los Boliches train station, where the roof protects us from the first raindrops.\n\nAfter visiting the Roman ruins, we take the bus to the center to stay dry on our way to lunch.\n\nIn the afternoon, we visit the Rosario Church, taking advantage of the short distances between buildings.\n\nThe bus finally takes us to Sohail Castle; we spend the waiting time in a café near the stop."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Los Boliches train station",
+              "tip_5lang": {
+                "de": "Der Bahnhof ist überdacht und bietet Schutz.",
+                "hu": "Az állomás fedett, jó menedéket nyújt.",
+                "ro": "Gara este acoperită și oferă adăpost.",
+                "en": "The station is covered and provides good shelter."
+              }
+            },
+            {
+              "name": "Roman Ruins at Finca Secretario",
+              "tip_5lang": {
+                "de": "Nur 5 Minuten Fußweg vom Bahnhof entfernt.",
+                "hu": "Csak 5 perc gyalogút az állomástól.",
+                "ro": "La doar 5 minute de mers pe jos de gară.",
+                "en": "Only a 5-minute walk from the train station."
+              }
+            },
+            {
+              "name": "Los Boliches Beach and Promenade",
+              "tip_5lang": {
+                "de": "Bei Regen empfiehlt sich eher der Bus L-1.",
+                "hu": "Esőben inkább az L-1 jelzésű buszt ajánljuk.",
+                "ro": "Pe ploaie se recomandă mai degrabă autobuzul L-1.",
+                "en": "The L-1 bus is recommended during rainy weather."
+              }
+            },
+            {
+              "name": "Bus to Center & Lunch",
+              "tip_5lang": {
+                "de": "Die Busse sind klimatisiert und trocken.",
+                "hu": "A buszok légkondicionáltak és szárazak.",
+                "ro": "Autobuzele au aer condiționat și sunt uscate.",
+                "en": "Buses are air-conditioned and stay dry inside."
+              }
+            },
+            {
+              "name": "Church of Nuestra Señora del Rosario & Plaza de la Constitución",
+              "tip_5lang": {
+                "de": "Zentraler Punkt mit vielen Cafés in der Nähe.",
+                "hu": "Központi helyszín sok közeli kávézóval.",
+                "ro": "Punct central cu multe cafenele în apropiere.",
+                "en": "Central location with many cafés nearby."
+              }
+            },
+            {
+              "name": "Bus to Sohail Castle",
+              "tip_5lang": {
+                "de": "Die Haltestelle 'Miramar' ist am nächsten zur Burg.",
+                "hu": "A 'Miramar' megálló van a legközelebb a várhoz.",
+                "ro": "Stația 'Miramar' este cea mai apropiată de castel.",
+                "en": "The 'Miramar' stop is the closest to the castle."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Vorortbahn C-1 fährt alle 20 Minuten und ist sehr zuverlässig.",
+              "Kaufen Sie die 'Bonobús'-Karte für günstigere Fahrten.",
+              "Die App 'Fuengirola Avanza' zeigt Echtzeit-Buszeiten an.",
+              "Warten Sie bei starkem Regen im Miramar-Zentrum auf den Bus."
+            ],
+            "hu": [
+              "A C-1 hév 20 percenként jár és nagyon megbízható.",
+              "Vegyünk 'Bonobús' kártyát a kedvezményes utazáshoz.",
+              "A 'Fuengirola Avanza' app élőben mutatja a buszok érkezését.",
+              "Heves esőben a Miramar központban várjuk meg a buszt."
+            ],
+            "ro": [
+              "Trenul C-1 circulă la fiecare 20 de minute și este foarte punctual.",
+              "Cumpărați cardul 'Bonobús' pentru călătorii mai ieftine.",
+              "Aplicația 'Fuengirola Avanza' arată timpii de sosire în timp real.",
+              "În caz de ploaie torențială, așteptați autobuzul în centrul Miramar."
+            ],
+            "en": [
+              "The C-1 commuter train runs every 20 minutes and is very reliable.",
+              "Buy the 'Bonobús' card for cheaper fares.",
+              "The 'Fuengirola Avanza' app shows real-time bus arrivals.",
+              "Wait for the bus inside the Miramar mall during heavy rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Bahnfahrt nach Los Boliches ist im Winter entspannt, da die Züge weniger voll sind.\n\nNach dem Besuch der antiken Ruinen schlendern wir gemütlich zur Promenade, bevor wir den Bus ins Zentrum nehmen.\n\nMittags genießen wir die Atmosphäre auf der Plaza de la Constitución unter der milden Wintersonne.\n\nDer Bus bringt uns am Nachmittag zur Burg Sohail, wo wir den Tag bei einem klaren Sonnenuntergang beenden.",
+            "hu": "A hévvel való utazás télen sokkal nyugodtabb, mert a szerelvények kevésbé zsúfoltak.\n\nA romok után egy kényelmes sétát teszünk a sétányon, mielőtt felszállunk a központba tartó buszra.\n\nEbéd után a Plaza de la Constitución hangulatát élvezzük a lágy téli napsütésben.\n\nDélután a busz egészen a Sohail várig repít minket, ahol a tiszta égbolt alatt nézzük végig a naplementét.",
+            "ro": "Călătoria cu trenul spre Los Boliches este relaxantă iarna, vagoanele fiind mai libere.\n\nDupă vizitarea ruinelor antice, ne plimbăm pe faleză înainte de a lua autobuzul spre centru.\n\nLa prânz ne bucurăm de atmosfera din Plaza de la Constitución sub soarele blând.\n\nAutobuzul ne duce după-amiaza la castelul Sohail, unde încheiem ziua cu un apus spectaculos.",
+            "en": "The train ride to Los Boliches is relaxed in winter as the carriages are less crowded.\n\nAfter visiting the ancient ruins, we enjoy a leisurely stroll along the promenade before catching the bus to the center.\n\nAt lunch, we soak up the atmosphere in Plaza de la Constitución under the mild winter sun.\n\nIn the afternoon, the bus takes us to Sohail Castle, where we end the day with a clear, beautiful sunset."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Los Boliches train station",
+              "tip_5lang": {
+                "de": "Züge fahren im Winter nach dem regulären Fahrplan.",
+                "hu": "A vonatok télen is a megszokott menetrend szerint járnak.",
+                "ro": "Trenurile circulă după programul normal și iarna.",
+                "en": "Trains run according to the regular schedule in winter."
+              }
+            },
+            {
+              "name": "Roman Ruins at Finca Secretario",
+              "tip_5lang": {
+                "de": "Die Anlage schließt im Winter meist etwas früher.",
+                "hu": "A terület télen általában kicsit korábban zár.",
+                "ro": "Situl se închide de obicei puțin mai devreme iarna.",
+                "en": "The site usually closes a bit earlier during the winter months."
+              }
+            },
+            {
+              "name": "Los Boliches Beach and Promenade",
+              "tip_5lang": {
+                "de": "Angenehm für einen Spaziergang in der Mittagssonne.",
+                "hu": "Kellemes hely egy sétához a déli napsütésben.",
+                "ro": "Plăcut pentru o plimbare sub soarele amiezii.",
+                "en": "Pleasant for a walk under the midday sun."
+              }
+            },
+            {
+              "name": "Bus to Center & Lunch",
+              "tip_5lang": {
+                "de": "Die Buslinie L-1 verbindet alle wichtigen Punkte.",
+                "hu": "Az L-1-es buszjárat minden fontos pontot összeköt.",
+                "ro": "Linia de autobuz L-1 conectează toate punctele importante.",
+                "en": "The L-1 bus line connects all the key points."
+              }
+            },
+            {
+              "name": "Church of Nuestra Señora del Rosario & Plaza de la Constitución",
+              "tip_5lang": {
+                "de": "Die Weihnachtsbeleuchtung hier ist sehr sehenswert.",
+                "hu": "Az itteni karácsonyi kivilágítás nagyon látványos.",
+                "ro": "Iluminatul de Crăciun de aici merită văzut.",
+                "en": "The Christmas lights here are definitely worth seeing."
+              }
+            },
+            {
+              "name": "Bus to Sohail Castle",
+              "tip_5lang": {
+                "de": "Letzte Rückfahrt der Busse ist meist gegen 21 Uhr.",
+                "hu": "Az utolsó buszok általában 21 óra körül indulnak vissza.",
+                "ro": "Ultimele autobuze pleacă de obicei în jur de ora 21:00.",
+                "en": "The last buses back usually leave around 9:00 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Züge sind im Winter seltener verspätet als im Sommer.",
+              "Die Fahrpreise bleiben das ganze Jahr über stabil.",
+              "Nutzen Sie die App, um die Wartezeiten an den Haltestellen zu minimieren.",
+              "Der Fußweg vom Bahnhof Los Boliches zum Strand ist sehr kurz."
+            ],
+            "hu": [
+              "A vonatok télen ritkábban késnek, mint a nyári csúcsban.",
+              "A jegyárak egész évben változatlanok maradnak.",
+              "Használjuk az appot, hogy minimálisra csökkentsük a várakozást.",
+              "A Los Boliches állomástól a strandig tartó séta nagyon rövid."
+            ],
+            "ro": [
+              "Trenurile au mai puține întârzieri iarna decât vara.",
+              "Prețurile biletelor rămân stabile pe tot parcursul anului.",
+              "Folosiți aplicația pentru a minimiza timpul de așteptare în stații.",
+              "Drumul pe jos de la gara Los Boliches la plajă este foarte scurt."
+            ],
+            "en": [
+              "Trains are less likely to be delayed in winter than in summer.",
+              "Ticket prices remain stable throughout the year.",
+              "Use the app to minimize waiting times at bus stops.",
+              "The walk from Los Boliches station to the beach is very short."
+            ]
+          }
+        }
       }
     }
   }

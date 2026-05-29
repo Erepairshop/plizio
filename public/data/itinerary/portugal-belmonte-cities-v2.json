@@ -418,6 +418,224 @@
           "The walk to Centum Cellas is pleasant, but bring water, especially in summer.",
           "Check opening hours, as some places may close for lunch."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens erkunden wir die Judiaria; die engen Gassen bieten Schutz vor dem Wind. Mittags suchen wir Wärme in einer gemütlichen Taverne. Der Nachmittag steht ganz im Zeichen der Museen: Das Jüdische Museum und das Olivenölmuseum sind perfekte Indoor-Ziele. Abends genießen wir die Atmosphäre der nassen Granitwände Belmontes bei einem Glas Wein.",
+            "hu": "Reggel a zsidó negyedet járjuk, ahol a szűk utcák védenek a széltől. Ebédre egy meleg fogadót választunk. A délután a múzeumoké: a Zsidó Múzeum és az Olívaolaj Múzeum kiváló fedett program esőben. Este a város gránitfalainak eső áztatta csillogását csodáljuk egy pohár bor mellől.",
+            "ro": "Dimineața explorăm cartierul evreiesc; străzile înguste oferă adăpost contra vântului. La prânz căutăm căldura unei taverne. După-amiaza este dedicată muzeelor: Muzeul Evreiesc și cel al Uleiului sunt destinații interioare perfecte. Seara admirăm reflexiile ploii pe zidurile de granit din Belmonte.",
+            "en": "In the morning we explore the Judiaria; the narrow streets provide shelter from the wind. At lunch, we seek warmth in a cozy tavern. The afternoon is dedicated to museums: the Jewish Museum and the Olive Oil Museum are perfect indoor destinations. In the evening, we enjoy the rain-slicked granite walls."
+          },
+          "stops": [
+            {
+              "name": "Judiaria (Jewish Quarter)",
+              "tip_5lang": {
+                "de": "Schutz in den Torbögen suchen.",
+                "hu": "Keressen menedéket a boltívek alatt.",
+                "ro": "Căutați adăpost sub arcade.",
+                "en": "Seek shelter under the archways."
+              }
+            },
+            {
+              "name": "Statue of Pedro Álvares Cabral",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp mit Schirm.",
+                "hu": "Gyors fotó esernyővel.",
+                "ro": "Oprire scurtă pentru poze cu umbrela.",
+                "en": "Quick photo stop with an umbrella."
+              }
+            },
+            {
+              "name": "Bet Eliahu Synagogue",
+              "tip_5lang": {
+                "de": "Trockener Ort für Besinnung.",
+                "hu": "Száraz hely az elmélkedésre.",
+                "ro": "Loc uscat pentru reflecție.",
+                "en": "Dry place for reflection."
+              }
+            },
+            {
+              "name": "Jewish Museum",
+              "tip_5lang": {
+                "de": "Ideal zum Aufwärmen und Trocknen.",
+                "hu": "Ideális melegedni és száradni.",
+                "ro": "Ideal pentru a vă încălzi și usca.",
+                "en": "Ideal for warming up and drying off."
+              }
+            },
+            {
+              "name": "Church of Santiago and Pantheon of the Cabrals",
+              "tip_5lang": {
+                "de": "Massive Mauern bieten guten Schutz.",
+                "hu": "A vaskos falak jó védelmet nyújtanak.",
+                "ro": "Zidurile groase oferă protecție bună.",
+                "en": "Massive walls offer good shelter."
+              }
+            },
+            {
+              "name": "Belmonte Castle",
+              "tip_5lang": {
+                "de": "Vorsicht auf glatten Steinstufen.",
+                "hu": "Vigyázat a csúszós lépcsőkön.",
+                "ro": "Atenție pe treptele alunecoase.",
+                "en": "Careful on slippery stone steps."
+              }
+            },
+            {
+              "name": "Centum Cellas",
+              "tip_5lang": {
+                "de": "Wenig Schutz, Regenkleidung nötig.",
+                "hu": "Kevés a védett hely, esőkabát kell.",
+                "ro": "Puțin adăpost, e nevoie de pelerină.",
+                "en": "Little shelter, rain gear needed."
+              }
+            },
+            {
+              "name": "Olive Oil Museum",
+              "tip_5lang": {
+                "de": "Perfekter Abschluss im Trockenen.",
+                "hu": "Tökéletes befejezés fedett helyen.",
+                "ro": "Final perfect într-un loc uscat.",
+                "en": "Perfect ending in a dry place."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie griffige Schuhe für nasses Pflaster.",
+              "Nutzen Sie Museen als Regenpausen.",
+              "Ein stabiler Schirm trotzt dem Wind.",
+              "Altstadt-Cafés bieten schnellen Unterschlupf."
+            ],
+            "hu": [
+              "Viseljen tapadós talpú cipőt a vizes kövön.",
+              "Használja a múzeumlátogatást az eső ellen.",
+              "Erős esernyő kell a szeles magasságokban.",
+              "Az óvárosi kávézók gyors menedéket adnak."
+            ],
+            "ro": [
+              "Purtați încălțăminte aderentă pe piatră.",
+              "Folosiți muzeele pentru a evita ploaia.",
+              "O umbrelă rezistentă e utilă contra vântului.",
+              "Cafenelele oferă adăpost rapid."
+            ],
+            "en": [
+              "Wear grippy shoes for wet pavement.",
+              "Use museums to wait out the rain.",
+              "A sturdy umbrella defies the wind.",
+              "Old town cafes provide quick shelter."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die klare Winterluft schärft die Sicht auf die Berge. Morgens in der Judiaria wirkt alles friedlich. Mittags lockt ein heißer Eintopf in einer Taverne. Der Nachmittag am Schloss bietet goldenes Licht vor dem frühen Sonnenuntergang um 17:30 Uhr. Abends wärmen wir uns am Kamin eines lokalen Gasthofs.",
+            "hu": "A tiszta téli levegőben élesebben látszanak a hegyek. Reggel a zsidó negyed békés. Ebédre egy forró egytálételt választunk. A várnál töltött délután aranyló fényeket hoz a korai, 17:30-as naplemente előtt. Este egy helyi fogadó kandallójánál melegszünk.",
+            "ro": "Aerul curat de iarnă oferă o vizibilitate bună spre munți. Dimineața în cartierul evreiesc e liniște. La prânz ne bucurăm de o tocană fierbinte. După-amiaza la castel aduce o lumină aurie înainte de apusul de la 17:30. Seara ne încălzim la gura sobii.",
+            "en": "Clear winter air sharpens the mountain views. Morning in the Judiaria is peaceful. At lunch, we enjoy a hot stew in a tavern. Afternoon at the castle offers golden light before the 5:30 PM sunset. In the evening, we warm up by a local tavern's fireplace."
+          },
+          "stops": [
+            {
+              "name": "Judiaria (Jewish Quarter)",
+              "tip_5lang": {
+                "de": "Kalte Winde in den Gassen.",
+                "hu": "Hideg szél fúj a szűk utcákban.",
+                "ro": "Vânt rece pe străduțe.",
+                "en": "Cold winds in the alleys."
+              }
+            },
+            {
+              "name": "Statue of Pedro Álvares Cabral",
+              "tip_5lang": {
+                "de": "Kurzer Aufenthalt im Freien.",
+                "hu": "Rövid kintlét, hideg levegő.",
+                "ro": "Scurtă oprire în aer liber.",
+                "en": "Short stop in the cold air."
+              }
+            },
+            {
+              "name": "Bet Eliahu Synagogue",
+              "tip_5lang": {
+                "de": "Angenehme Kühle, kein Frost.",
+                "hu": "Kellemesen hűvös, nincs fagy.",
+                "ro": "Răcoare plăcută, fără îngheț.",
+                "en": "Pleasantly cool, not freezing."
+              }
+            },
+            {
+              "name": "Jewish Museum",
+              "tip_5lang": {
+                "de": "Gut beheizter Ausstellungsraum.",
+                "hu": "Jól fűtött kiállítótér.",
+                "ro": "Spațiu expozițional bine încălzit.",
+                "en": "Well-heated exhibition space."
+              }
+            },
+            {
+              "name": "Church of Santiago and Pantheon of the Cabrals",
+              "tip_5lang": {
+                "de": "Innenraum kann recht kalt sein.",
+                "hu": "A belső tér elég hideg lehet.",
+                "ro": "Interiorul poate fi destul de rece.",
+                "en": "The interior can be quite cold."
+              }
+            },
+            {
+              "name": "Belmonte Castle",
+              "tip_5lang": {
+                "de": "Bester Platz für den Sonnenuntergang.",
+                "hu": "A legjobb hely a naplementéhez.",
+                "ro": "Cel mai bun loc pentru apus.",
+                "en": "Best spot for the sunset."
+              }
+            },
+            {
+              "name": "Centum Cellas",
+              "tip_5lang": {
+                "de": "Vom Wind gepeitschte Ruine.",
+                "hu": "Szeles, kitett romterület.",
+                "ro": "Ruine expuse la vânt.",
+                "en": "Wind-swept, exposed ruins."
+              }
+            },
+            {
+              "name": "Olive Oil Museum",
+              "tip_5lang": {
+                "de": "Aufwärmen nach dem Schlossbesuch.",
+                "hu": "Melegedés a várnézés után.",
+                "ro": "Încălzire după vizita la castel.",
+                "en": "Warm up after the castle visit."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Zwiebelprinzip bei der Kleidung.",
+              "Sonnenuntergang ist gegen 17:30.",
+              "Warme Getränke einplanen.",
+              "Pflaster kann morgens glatt sein."
+            ],
+            "hu": [
+              "Réteges öltözködés a hideg ellen.",
+              "A naplemente már 17:30 körül van.",
+              "Tervezzen be forró italokat.",
+              "A kövezett utak reggel jegesek lehetnek."
+            ],
+            "ro": [
+              "Îmbrăcăminte în straturi.",
+              "Apusul are loc la ora 17:30.",
+              "Planificați băuturi calde.",
+              "Pietrele pot fi înghețate dimineața."
+            ],
+            "en": [
+              "Dress in layers for the cold.",
+              "Sunset occurs early, at 5:30 PM.",
+              "Plan for hot drinks.",
+              "Cobblestones may be icy in the morning."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -830,6 +1048,224 @@
           "Most streets in the old town are too narrow for cycling; it's better to walk.",
           "A water bottle is essential to stay hydrated."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert Vorsicht auf Belmontes Granit. Morgens geht es zur Ruine Centum Cellas. Mittags trocknen wir uns in einer Bar. Der Nachmittag führt uns durch das jüdische Erbe mit vielen Unterstellpausen. Abends geben wir die Räder ab und genießen die Ruhe bei Kaminfeuer.",
+            "hu": "Az esőben való biciklizés óvatosságot igényel a gránitköveken. Reggel Centum Cellas romjaihoz tekerünk. Ebédnél megszárítkozunk egy bárban. A délután a zsidó örökségé, sok megállóval. Este leadjuk a bringákat és a kandalló mellé húzódunk.",
+            "ro": "Mersul pe bicicletă în ploaie necesită prudență pe granitul din Belmonte. Dimineața mergem spre Centum Cellas. La prânz ne uscăm într-un bar. După-amiaza explorăm moștenirea evreiască. Seara returnăm bicicletele și stăm la căldură.",
+            "en": "Cycling in rain requires caution on Belmonte's granite. Morning trip to Centum Cellas ruins. At lunch, we dry off in a bar. Afternoon is for Jewish heritage with frequent shelter stops. In the evening, we return the bikes and stay by the fire."
+          },
+          "stops": [
+            {
+              "name": "Centum Cellas",
+              "tip_5lang": {
+                "de": "Vorsicht bei der Abfahrt auf Nässe.",
+                "hu": "Vigyázat a lejtőn vizes úton.",
+                "ro": "Atenție la coborâre pe ud.",
+                "en": "Caution on the descent in wet conditions."
+              }
+            },
+            {
+              "name": "Belmonte Castle",
+              "tip_5lang": {
+                "de": "Fahrrad sicher und überdacht parken.",
+                "hu": "Parkoljon fedett helyen.",
+                "ro": "Parcați bicicleta la adăpost.",
+                "en": "Park your bike under cover."
+              }
+            },
+            {
+              "name": "Church of Santiago",
+              "tip_5lang": {
+                "de": "Kurze Pause im trockenen Inneren.",
+                "hu": "Rövid pihenő a száraz belsőben.",
+                "ro": "Scurtă pauză în interior.",
+                "en": "Short break in the dry interior."
+              }
+            },
+            {
+              "name": "Statue of Pedro Álvares Cabral",
+              "tip_5lang": {
+                "de": "Rutschfeste Handschuhe wichtig.",
+                "hu": "Csúszásmentes kesztyű fontos.",
+                "ro": "Mănușile aderente sunt vitale.",
+                "en": "Non-slip gloves are vital."
+              }
+            },
+            {
+              "name": "Judiaria (Jewish Quarter)",
+              "tip_5lang": {
+                "de": "Sehr glattes Kopfsteinpflaster.",
+                "hu": "Nagyon csúszós macskakő.",
+                "ro": "Piatră cubică foarte alunecoasă.",
+                "en": "Very slippery cobblestones."
+              }
+            },
+            {
+              "name": "Jewish Museum",
+              "tip_5lang": {
+                "de": "Gute Gelegenheit zum Aufwärmen.",
+                "hu": "Jó alkalom a melegedésre.",
+                "ro": "Oportunitate bună de încălzire.",
+                "en": "Good opportunity to warm up."
+              }
+            },
+            {
+              "name": "Bet Eliahu Synagogue",
+              "tip_5lang": {
+                "de": "Besuch bietet Regenschutz.",
+                "hu": "A látogatás véd az esőtől.",
+                "ro": "Vizita oferă protecție contra ploii.",
+                "en": "The visit provides rain protection."
+              }
+            },
+            {
+              "name": "Olive Oil Museum",
+              "tip_5lang": {
+                "de": "Endstation mit Trocknungschance.",
+                "hu": "Végállomás szárítkozási eséllyel.",
+                "ro": "Final cu șansă de uscare.",
+                "en": "Final stop with a chance to dry off."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie Schutzbleche und Ponchos.",
+              "Längerer Bremsweg auf nassen Steinen.",
+              "Vermeiden Sie schnelle Kurven.",
+              "Wasserdichte Taschen für Wertsachen."
+            ],
+            "hu": [
+              "Használjon sárvédőt és pelerinát.",
+              "Hosszabb féktáv vizes kövön.",
+              "Kerülje a gyors kanyarokat.",
+              "Vízálló táska kell az értékeknek."
+            ],
+            "ro": [
+              "Folosiți apărători și pelerină.",
+              "Frânare mai lungă pe piatră udă.",
+              "Evitați virajele rapide.",
+              "Genți impermeabile pentru valori."
+            ],
+            "en": [
+              "Use mudguards and ponchos.",
+              "Longer braking distance on wet stone.",
+              "Avoid fast turns on stones.",
+              "Waterproof bags for valuables."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radeln erfordert gute Handschuhe gegen den kalten Fahrtwind. Morgens ist die Fahrt nach Centum Cellas erfrischend. Mittags wärmen wir uns bei lokaler Küche auf. Der Nachmittag bietet tolle Kontraste bei tiefstehender Sonne. Abends endet die Tour rechtzeitig vor der Dunkelheit.",
+            "hu": "A téli tekeréshez jó kesztyű kell a menetszél ellen. Reggel a centum cellasi út frissítő. Ebédnél helyi ételekkel melegszünk. Délután Belmonte csodás kontrasztokat mutat az alacsony napnál. Este a túra időben, sötétedés előtt véget ér.",
+            "ro": "Mersul pe bicicletă iarna necesită mănuși bune contra vântului. Dimineața drumul spre Centum Cellas e revigorant. La prânz ne încălzim cu mâncare locală. După-amiaza Belmonte oferă contraste superbe. Seara turul se termină înainte de întuneric.",
+            "en": "Winter cycling requires good gloves against the cold wind. Morning ride to Centum Cellas is refreshing. At lunch, we warm up with local food. Afternoon in Belmonte shows great contrasts in the low sun. The tour ends timely before dark."
+          },
+          "stops": [
+            {
+              "name": "Centum Cellas",
+              "tip_5lang": {
+                "de": "Kalter Wind auf freier Strecke.",
+                "hu": "Hideg szél a nyílt terepen.",
+                "ro": "Vânt rece pe drum deschis.",
+                "en": "Cold wind on the open road."
+              }
+            },
+            {
+              "name": "Belmonte Castle",
+              "tip_5lang": {
+                "de": "Sonnige Plätze an Mauern suchen.",
+                "hu": "Keressen napos helyet a falaknál.",
+                "ro": "Căutați locuri însorite la ziduri.",
+                "en": "Look for sunny spots near walls."
+              }
+            },
+            {
+              "name": "Church of Santiago",
+              "tip_5lang": {
+                "de": "Windgeschützter Bereich.",
+                "hu": "Szélvédett terület.",
+                "ro": "Zonă protejată de vânt.",
+                "en": "Wind-sheltered area."
+              }
+            },
+            {
+              "name": "Statue of Pedro Álvares Cabral",
+              "tip_5lang": {
+                "de": "Kälteschutz für Hände wichtig.",
+                "hu": "A kéz védelme a hidegtől fontos.",
+                "ro": "Protecția mâinilor e importantă.",
+                "en": "Hand protection is important."
+              }
+            },
+            {
+              "name": "Judiaria (Jewish Quarter)",
+              "tip_5lang": {
+                "de": "Vorsicht bei Schatten-Eis.",
+                "hu": "Vigyázat az árnyékos jegesedéssel.",
+                "ro": "Atenție la polei în umbră.",
+                "en": "Watch out for ice in shadows."
+              }
+            },
+            {
+              "name": "Jewish Museum",
+              "tip_5lang": {
+                "de": "Perfekte Aufwärmpause.",
+                "hu": "Tökéletes melegedő szünet.",
+                "ro": "Pauză perfectă pentru încălzire.",
+                "en": "Perfect warm-up break."
+              }
+            },
+            {
+              "name": "Bet Eliahu Synagogue",
+              "tip_5lang": {
+                "de": "Innenraum ist temperiert.",
+                "hu": "A belső tér temperált.",
+                "ro": "Interiorul este temperat.",
+                "en": "The interior is tempered."
+              }
+            },
+            {
+              "name": "Olive Oil Museum",
+              "tip_5lang": {
+                "de": "Warmer Kakao zum Abschluss.",
+                "hu": "Forró kakaó a befejezéshez.",
+                "ro": "Cacao caldă la final.",
+                "en": "Hot cocoa to finish the day."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Thermo-Kleidung gegen Kälte.",
+              "Akkus entladen sich schneller.",
+              "Beleuchtung für Dämmerung prüfen.",
+              "Sonnenschutz für klare Wintertage."
+            ],
+            "hu": [
+              "Termaruházat a hideg ellen.",
+              "Az akkuk gyorsabban merülnek.",
+              "Világítás a szürkületre.",
+              "Fényvédő a tiszta téli napokra."
+            ],
+            "ro": [
+              "Haine termice contra frigului.",
+              "Bateriile se descarcă rapid.",
+              "Verificați luminile pentru amurg.",
+              "Protecție solară pentru iarnă."
+            ],
+            "en": [
+              "Thermal clothing for the cold.",
+              "Batteries drain faster now.",
+              "Check lights for twilight.",
+              "Sunscreen for clear winter days."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1226,6 +1662,206 @@
           "The roads are narrow, so drive with care.",
           "A car allows you to easily visit a supermarket on the edge of town for snacks and water."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Auto ist heute der ideale Rückzugsort. Morgens fahren wir bequem zu Centum Cellas. Mittags parken wir direkt am Schlossbereich. Den Nachmittag verbringen wir in den Museen der Altstadt, fast ohne nass zu werden. Abends genießen wir die Panoramafahrt durch das neblige Beira-Gebirge.",
+            "hu": "Ma az autó a legjobb búvóhely. Reggel kényelmesen gurulunk Centum Cellashoz. Ebédnél közvetlenül a várnál parkolunk. A délutánt az óvárosi múzeumokban töltjük, szinte szárazon. Este az autó ablakából nézzük a ködös Beira-vidéket.",
+            "ro": "Mașina este astăzi refugiul ideal. Dimineața mergem confortabil la Centum Cellas. La prânz parcăm chiar lângă castel. După-amiaza o petrecem în muzeele din centrul vechi. Seara admirăm regiunea Beira prin parbriz.",
+            "en": "The car is the ideal retreat today. In the morning we drive comfortably to Centum Cellas. At lunch we park right by the castle. Afternoon is spent in the old town museums, staying mostly dry. Evening drive through misty Beira."
+          },
+          "stops": [
+            {
+              "name": "Centum Cellas",
+              "tip_5lang": {
+                "de": "Kurzer Sprint vom Parkplatz.",
+                "hu": "Gyors sprint a parkolóból.",
+                "ro": "Sprint scurt din parcare.",
+                "en": "Quick sprint from parking."
+              }
+            },
+            {
+              "name": "Parking near Belmonte Castle",
+              "tip_5lang": {
+                "de": "Dichtester Punkt zum Ziel.",
+                "hu": "A célhoz legközelebbi pont.",
+                "ro": "Cel mai apropiat punct de țintă.",
+                "en": "Closest point to the destination."
+              }
+            },
+            {
+              "name": "Belmonte Castle",
+              "tip_5lang": {
+                "de": "Trockene Bereiche im Turm.",
+                "hu": "Száraz részek a toronyban.",
+                "ro": "Zone uscate în turn.",
+                "en": "Dry areas in the tower."
+              }
+            },
+            {
+              "name": "Church of Santiago",
+              "tip_5lang": {
+                "de": "Kurzer Weg durch den Regen.",
+                "hu": "Rövid út az esőben.",
+                "ro": "Drum scurt prin ploaie.",
+                "en": "Short path through the rain."
+              }
+            },
+            {
+              "name": "Judiaria and Jewish Museum",
+              "tip_5lang": {
+                "de": "Museum bietet langen Schutz.",
+                "hu": "A múzeum hosszas védelmet nyújt.",
+                "ro": "Muzeul oferă adăpost lung.",
+                "en": "Museum offers long-lasting shelter."
+              }
+            },
+            {
+              "name": "Parking near Olive Oil Museum",
+              "tip_5lang": {
+                "de": "Pfützen beim Aussteigen meiden.",
+                "hu": "Kerülje a tócsákat kiszálláskor.",
+                "ro": "Evitați bălțile la coborâre.",
+                "en": "Avoid puddles when exiting."
+              }
+            },
+            {
+              "name": "Olive Oil Museum",
+              "tip_5lang": {
+                "de": "Indoor-Führung genießen.",
+                "hu": "Élvezze a fedett tárlatvezetést.",
+                "ro": "Bucurați-vă de turul interior.",
+                "en": "Enjoy the indoor guided tour."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Scheibenwischer vorab prüfen.",
+              "Parkplätze nah am Eingang nutzen.",
+              "Vorsicht bei Aquaplaning.",
+              "Regenschirm im Türfach halten."
+            ],
+            "hu": [
+              "Ellenőrizze az ablaktörlőket.",
+              "Parkoljon a bejáratok közelében.",
+              "Vigyázat az aquaplaninggal.",
+              "Tartsa az esernyőt az ajtóban."
+            ],
+            "ro": [
+              "Verificați ștergătoarele.",
+              "Parcați aproape de intrări.",
+              "Atenție la acvaplanare.",
+              "Țineți umbrela în portieră."
+            ],
+            "en": [
+              "Check wipers before starting.",
+              "Use parking close to entrances.",
+              "Watch for aquaplaning.",
+              "Keep an umbrella in the door."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine gemütliche Wintertour mit dem Auto. Morgens ist die Heizung bei Centum Cellas sehr willkommen. Mittags stärken wir uns in Belmonte. Der Nachmittag bietet klare Fernsichten auf die schneebedeckte Serra da Estrela. Abends fahren wir entspannt zurück, während es draußen frostig wird.",
+            "hu": "Hangulatos téli autós túra. Reggel a fűtés jól jön Centum Cellas után. Ebédnél Belmonte ízeit élvezzük. Délután tiszta kilátás nyílik a havas Serra da Estrelára a kocsiból. Este nyugodtan autózunk vissza a fagyos időben.",
+            "ro": "Un tur auto de iarnă plăcut. Dimineața încălzirea e binevenită la Centum Cellas. La prânz savurăm aromele din Belmonte. După-amiaza oferă vederi clare spre Serra da Estrela. Seara conducem relaxați înapoi.",
+            "en": "A cozy winter car tour. In the morning, heating is welcome at Centum Cellas. At lunch, enjoy Belmonte's flavors. Afternoon offers clear views of snowy Serra da Estrela. Evening drive back as it gets frosty outside."
+          },
+          "stops": [
+            {
+              "name": "Centum Cellas",
+              "tip_5lang": {
+                "de": "Fahrzeug vorheizen.",
+                "hu": "Fűtse elő az autót.",
+                "ro": "Preîncălziți vehiculul.",
+                "en": "Preheat the vehicle."
+              }
+            },
+            {
+              "name": "Parking near Belmonte Castle",
+              "tip_5lang": {
+                "de": "Kurze Gehwege einplanen.",
+                "hu": "Tervezzen rövid gyalogutakkal.",
+                "ro": "Planificați drumuri scurte.",
+                "en": "Plan for short walking distances."
+              }
+            },
+            {
+              "name": "Belmonte Castle",
+              "tip_5lang": {
+                "de": "Blick auf die Schneegipfel.",
+                "hu": "Kilátás a havas csúcsokra.",
+                "ro": "Vedere spre vârfurile cu zăpadă.",
+                "en": "View of the snowy peaks."
+              }
+            },
+            {
+              "name": "Church of Santiago",
+              "tip_5lang": {
+                "de": "Windgeschützter Parkplatz.",
+                "hu": "Szélvédett parkolóhely.",
+                "ro": "Loc de parcare ferit de vânt.",
+                "en": "Wind-sheltered parking spot."
+              }
+            },
+            {
+              "name": "Judiaria and Jewish Museum",
+              "tip_5lang": {
+                "de": "Warmer Rückzugsort im Museum.",
+                "hu": "Meleg búvóhely a múzeumban.",
+                "ro": "Refugiu cald în muzeu.",
+                "en": "Warm retreat in the museum."
+              }
+            },
+            {
+              "name": "Parking near Olive Oil Museum",
+              "tip_5lang": {
+                "de": "Sonnige Plätze zum Parken.",
+                "hu": "Válasszon napos helyet.",
+                "ro": "Alegeți locuri însorite.",
+                "en": "Choose sunny parking spots."
+              }
+            },
+            {
+              "name": "Olive Oil Museum",
+              "tip_5lang": {
+                "de": "Verkostung im Warmen.",
+                "hu": "Kóstoló meleg környezetben.",
+                "ro": "Degustare la căldură.",
+                "en": "Tasting in a warm room."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Frostschutz im Wischwasser prüfen.",
+              "Vorsicht vor Glatteis in der Höhe.",
+              "Sonnenbrille gegen Blendung.",
+              "Warme Decke im Auto bereitlegen."
+            ],
+            "hu": [
+              "Ellenőrizze a fagyállót.",
+              "Vigyázat a jegesedéssel a magasban.",
+              "Napszemüveg az alacsony naphoz.",
+              "Legyen takaró a kocsiban."
+            ],
+            "ro": [
+              "Verificați antigelul.",
+              "Atenție la polei pe munte.",
+              "Ochelari de soare pentru soarele jos.",
+              "Aveți o pătură în mașină."
+            ],
+            "en": [
+              "Check antifreeze in the washer.",
+              "Watch for ice on high roads.",
+              "Sunglasses for the low sun.",
+              "Keep a warm blanket in the car."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1622,6 +2258,206 @@
           "This is a great budget-friendly option for exploring Belmonte.",
           "Combining bus rides and walking gives a good balance of efficiency and exploration."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus durch den Regen Belmontes. Morgens bringt uns der Nahverkehr trocken zu Centum Cellas. Mittags suchen wir Schutz in den Wartehallen. Nachmittags ist die Museumsmeile das ideale Ziel, da sie gut erreichbar ist. Abends kehren wir entspannt mit dem Bus zum Stadtzentrum zurück.",
+            "hu": "Busszal Belmonte esőjében. Reggel a tömegközlekedés szárazon visz el Centum Cellashoz. Ebédnél a várótermekben pihenünk. Délután a múzeumi negyed az ideális cél, könnyen elérhető. Este kényelmesen buszozunk vissza a központba.",
+            "ro": "Cu autobuzul prin ploaia din Belmonte. Dimineața transportul local ne duce uscat la Centum Cellas. La prânz stăm în stații acoperite. După-amiaza zona muzeelor e destinația ideală. Seara revenim relaxați cu autobuzul în centru.",
+            "en": "By bus through Belmonte's rain. In the morning local transit takes us dry to Centum Cellas. At lunch, we stay in sheltered waiting areas. Afternoon museum district is the ideal goal. In the evening, return relaxed to the center by bus."
+          },
+          "stops": [
+            {
+              "name": "Bus ride to Centum Cellas",
+              "tip_5lang": {
+                "de": "Bus bietet trockenes Reisen.",
+                "hu": "A busz száraz utazást biztosít.",
+                "ro": "Autobuzul asigură drum uscat.",
+                "en": "The bus provides dry travel."
+              }
+            },
+            {
+              "name": "Bus ride to Castle area",
+              "tip_5lang": {
+                "de": "Haltestellen oft ohne Dach.",
+                "hu": "A megállók gyakran fedetlenek.",
+                "ro": "Stațiile sunt adesea fără acoperiș.",
+                "en": "Stops are often without cover."
+              }
+            },
+            {
+              "name": "Belmonte Castle",
+              "tip_5lang": {
+                "de": "Vorsicht auf nassen Gehwegen.",
+                "hu": "Vigyázat a vizes járdákon.",
+                "ro": "Atenție la trotuarele ude.",
+                "en": "Caution on wet sidewalks."
+              }
+            },
+            {
+              "name": "Church of Santiago",
+              "tip_5lang": {
+                "de": "Kurze Wartezeit im Freien.",
+                "hu": "Rövid kinti várakozás.",
+                "ro": "Așteptare scurtă afară.",
+                "en": "Short outdoor wait."
+              }
+            },
+            {
+              "name": "Judiaria and Jewish Museum",
+              "tip_5lang": {
+                "de": "Perfekter Ort für Regenschauer.",
+                "hu": "Tökéletes hely a nagy esőben.",
+                "ro": "Loc perfect în caz de ploaie.",
+                "en": "Perfect place during rain."
+              }
+            },
+            {
+              "name": "Olive Oil Museum",
+              "tip_5lang": {
+                "de": "Indoor-Programm am Nachmittag.",
+                "hu": "Fedett délutáni program.",
+                "ro": "Program interior după-amiaza.",
+                "en": "Indoor afternoon program."
+              }
+            },
+            {
+              "name": "Central Bus Stop",
+              "tip_5lang": {
+                "de": "Schnelle Rückkehr ins Hotel.",
+                "hu": "Gyors visszatérés a szállásra.",
+                "ro": "Revenire rapidă la cazare.",
+                "en": "Quick return to accommodation."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busfahrplan online prüfen.",
+              "Kleingeld für Tickets bereitlegen.",
+              "Schirm beim Einsteigen schließen.",
+              "Wartezeit im Trockenen planen."
+            ],
+            "hu": [
+              "Ellenőrizze a menetrendet online.",
+              "Legyen aprópénz a jegyre.",
+              "Csukja be az ernyőt felszálláskor.",
+              "Töltse fedett helyen a várakozást."
+            ],
+            "ro": [
+              "Verificați programul online.",
+              "Aveți mărunțiș pentru bilete.",
+              "Închideți umbrela la urcare.",
+              "Așteptați în locuri uscate."
+            ],
+            "en": [
+              "Check bus schedules online.",
+              "Have small change for tickets.",
+              "Close your umbrella when boarding.",
+              "Plan waiting times under cover."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterreise mit öffentlichen Mitteln. Morgens ist der Bus nach Centum Cellas angenehm beheizt. Mittags genießen wir die Wärme in Belmonte. Den Nachmittag verbringen wir in den gut temperierten Museen der Stadt. Abends bringt uns der letzte Bus sicher durch die Kälte zurück zum Start.",
+            "hu": "Téli utazás tömegközlekedéssel. Reggel a Centum Cellas-i busz kellemesen fűtött. Ebédnél Belmonte melegét élvezzük. A délutánt a város jól fűtött múzeumaiban töltjük. Este az utolsó busz biztonságban visz vissza a hidegen át.",
+            "ro": "Călătorie de iarnă cu mijloace publice. Dimineața autobuzul spre Centum Cellas e încălzit. La prânz savurăm căldura din Belmonte. După-amiaza o petrecem în muzeele încălzite. Seara ultimul autobuz ne duce în siguranță înapoi.",
+            "en": "Winter trip by public transport. In the morning, the bus to Centum Cellas is warm. At lunch, enjoy the warmth of Belmonte. Afternoon spent in heated museums. In the evening, the last bus brings us back safely through the cold."
+          },
+          "stops": [
+            {
+              "name": "Bus ride to Centum Cellas",
+              "tip_5lang": {
+                "de": "Sitzplatz an der Heizung suchen.",
+                "hu": "Üljön a fűtőtest közelébe.",
+                "ro": "Loc lângă calorifer.",
+                "en": "Seat near the heater."
+              }
+            },
+            {
+              "name": "Bus ride to Castle area",
+              "tip_5lang": {
+                "de": "Tiefstehende Sonne im Bus.",
+                "hu": "Alacsony napállás a buszon.",
+                "ro": "Soarele jos în autobuz.",
+                "en": "Low sun in the bus."
+              }
+            },
+            {
+              "name": "Belmonte Castle",
+              "tip_5lang": {
+                "de": "Kalte Brise am Burgtor.",
+                "hu": "Hideg szellő a várkapunál.",
+                "ro": "Briză rece la poartă.",
+                "en": "Cold breeze at the gate."
+              }
+            },
+            {
+              "name": "Church of Santiago",
+              "tip_5lang": {
+                "de": "Ruhiger, kühler Innenraum.",
+                "hu": "Csendes, hűvös belső tér.",
+                "ro": "Interior liniștit și răcoros.",
+                "en": "Quiet, cool interior."
+              }
+            },
+            {
+              "name": "Judiaria and Jewish Museum",
+              "tip_5lang": {
+                "de": "Warmer Ausstellungsbereich.",
+                "hu": "Meleg kiállítótér.",
+                "ro": "Zonă expozițională caldă.",
+                "en": "Warm exhibition area."
+              }
+            },
+            {
+              "name": "Olive Oil Museum",
+              "tip_5lang": {
+                "de": "Aufwärmen vor der Rückfahrt.",
+                "hu": "Melegedés a visszaut előtt.",
+                "ro": "Încălzire înainte de întoarcere.",
+                "en": "Warm up before the return trip."
+              }
+            },
+            {
+              "name": "Central Bus Stop",
+              "tip_5lang": {
+                "de": "Letzte Fahrt vor Dunkelheit.",
+                "hu": "Utolsó járat sötétedés előtt.",
+                "ro": "Ultima cursă înainte de întuneric.",
+                "en": "Last trip before darkness."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Dicke Socken für Wartezeiten.",
+              "Winterfahrplan beachten.",
+              "Sitzplatz auf der Sonnenseite.",
+              "Handschuhe für Ticket griffbereit."
+            ],
+            "hu": [
+              "Vastag zokni a várakozáshoz.",
+              "Figyelje a téli menetrendet.",
+              "Üljön a napos oldalra.",
+              "Készítse elő a kesztyűt a jegyhez."
+            ],
+            "ro": [
+              "Șosete groase pentru așteptare.",
+              "Atenție la programul de iarnă.",
+              "Loc pe partea însorită.",
+              "Mănuși pregătite pentru bilet."
+            ],
+            "en": [
+              "Thick socks for waiting times.",
+              "Check the winter schedule.",
+              "Choose seats on the sunny side.",
+              "Have gloves ready for ticket handling."
+            ]
+          }
+        }
       }
     }
   }

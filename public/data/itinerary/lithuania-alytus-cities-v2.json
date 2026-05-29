@@ -330,6 +330,206 @@
           "The climb to the Castle Mound can be tiring, but the view is worth it.",
           "Allow plenty of time for the museum, there's a lot to see."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt am Freiheitsengel, wo ein stabiler Schirm gegen den Wind vom Fluss nötig ist. Mittags bietet der Stadtgarten unter dichten Baumkronen etwas Schutz, bevor die St.-Kasimir-Kirche trockene Stille ermöglicht. Nachmittags ist das Alytus-Museum der ideale Zufluchtsort für zwei Stunden Geschichte im Trockenen. Den Tag beschließen wir auf der Weißen Rosenbrücke, die bei Regen grau und dramatisch über der Memel thront.",
+            "hu": "A reggel a Szabadság Angyalánál indul, ahol az eső ellenére is érdemes megállni egy pillanatra. Délelőtt a Városkert fái nyújtanak némi fedezéket, majd a Szent Kázmér-templom belső tere ad száraz pihenőt. A délutánt az Alytus Múzeumban töltjük, ahol a város története mellett az eső elől is elrejtőzhetünk. A napot a Fehér Rózsa hídon zárjuk, ahol a vizes aszfalton tükröződnek a város fényei.",
+            "ro": "Dimineața începe la Îngerul Libertății, unde o umbrelă rezistentă este esențială împotriva vântului. La prânz, Grădina Orașului oferă un adăpost parțial sub copaci, urmată de liniștea uscată a Bisericii Sf. Cazimir. După-amiaza, Muzeul Alytus devine refugiul perfect pentru două ore de istorie la adăpost de ploaie. Încheiem ziua pe Podul Trandafirului Alb, care oferă o priveliște dramatică asupra râului Nemunas pe timp de ploaie.",
+            "en": "The morning starts at the Angel of Freedom, where a sturdy umbrella is needed against the riverside breeze. At noon, the City Garden provides some cover under the trees before finding dry silence inside St. Casimir's Church. The afternoon is best spent at the Alytus Museum, a perfect indoor escape for local history. We finish the walk at the White Rose Bridge, watching the rain create ripples on the Nemunas river surface."
+          },
+          "stops": [
+            {
+              "name": "Angel of Freedom",
+              "tip_5lang": {
+                "de": "Schnelles Foto unter dem Schirm; der Platz ist sehr windanfällig.",
+                "hu": "Gyors fotó az esernyő alatt; a tér nagyon kitett a szélnek.",
+                "ro": "O fotografie rapidă sub umbrelă; piața este foarte expusă vântului.",
+                "en": "Quick photo under the umbrella; the square is very exposed to wind."
+              }
+            },
+            {
+              "name": "City Garden",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Pavillons für kurze Regenpausen während des Spaziergangs.",
+                "hu": "Használja a pavilonokat rövid pihenőre az esőben való séta közben.",
+                "ro": "Folosiți pavilioanele pentru scurte pauze de ploaie în timpul plimbării.",
+                "en": "Use the pavilions for short rain breaks during your walk."
+              }
+            },
+            {
+              "name": "St. Casimir's Church",
+              "tip_5lang": {
+                "de": "Ein ruhiger, trockener Ort, um die Architektur ohne Zeitdruck zu bewundern.",
+                "hu": "Csendes, száraz hely az építészet megcsodálására időnyomás nélkül.",
+                "ro": "Un loc liniștit și uscat pentru a admira arhitectura fără grabă.",
+                "en": "A quiet, dry spot to admire the architecture without time pressure."
+              }
+            },
+            {
+              "name": "Alytus Museum",
+              "tip_5lang": {
+                "de": "Verlängern Sie den Aufenthalt hier, bis der stärkste Schauer vorbeizieht.",
+                "hu": "Hosszabbítsa meg itt a tartózkodást, amíg a legnagyobb zápor elvonul.",
+                "ro": "Prelungiți vizita aici până când trece cea mai puternică aversă.",
+                "en": "Extend your stay here until the heaviest shower passes."
+              }
+            },
+            {
+              "name": "Alytus Castle Mound",
+              "tip_5lang": {
+                "de": "Vorsicht auf den Holzstufen; das feuchte Holz kann sehr rutschig sein.",
+                "hu": "Vigyázat a falépcsőkön; a nedves fa nagyon csúszós lehet.",
+                "ro": "Atenție pe treptele de lemn; lemnul umed poate fi foarte alunecos.",
+                "en": "Caution on the wooden steps; wet wood can be very slippery."
+              }
+            },
+            {
+              "name": "White Rose Bridge",
+              "tip_5lang": {
+                "de": "Die höchste Fußgängerbrücke Litauens bietet bei Regen tolle Spiegelungen.",
+                "hu": "Litvánia legmagasabb gyalogoshídja esőben remek tükröződéseket kínál.",
+                "ro": "Cel mai înalt pod pietonal din Lituania oferă reflexii frumoase pe ploaie.",
+                "en": "Lithuania's highest pedestrian bridge offers great reflections in the rain."
+              }
+            },
+            {
+              "name": "Youth Park",
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den asphaltierten Wegen, um Schlamm zu vermeiden.",
+                "hu": "Maradjon az aszfaltozott utakon a sár elkerülése érdekében.",
+                "ro": "Rămâneți pe potecile asfaltate pentru a evita noroiul.",
+                "en": "Stick to the paved paths to avoid mud."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stabiler Windschirm empfohlen, da es am Flussufer oft böig ist.",
+              "Die Museen sind montags oft geschlossen, prüfen Sie die Zeiten.",
+              "Kaffeehäuser im Zentrum bieten gute Trockenpausen.",
+              "Tragen Sie wasserfeste Schuhe für den Castle Mound."
+            ],
+            "hu": [
+              "Erős szélálló esernyő ajánlott a folyóparti széllökések miatt.",
+              "A múzeumok hétfőn zárva tarthatnak, ellenőrizze az időpontokat.",
+              "A központi kávézók ideálisak egy-egy esőszünetre.",
+              "Vízálló cipő javasolt a várhalom környéki sétához."
+            ],
+            "ro": [
+              "Se recomandă o umbrelă rezistentă la vânt pentru rafalele de pe mal.",
+              "Muzeele sunt adesea închise lunea; verificați programul.",
+              "Cafenelele din centru sunt ideale pentru pauze de uscare.",
+              "Purtați încălțăminte impermeabilă pentru zona movilei castelului."
+            ],
+            "en": [
+              "Sturdy windproof umbrella recommended due to riverside gusts.",
+              "Museums are often closed on Mondays; check the timings.",
+              "Central cafes are ideal for drying off between stops.",
+              "Wear waterproof shoes for the Castle Mound area."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter glänzt Alytus unter einer Schneedecke. Der Freiheitsengel wirkt im weißen Frost besonders erhaben. Mittags wärmen wir uns nach dem Stadtgarten in der St.-Kasimir-Kirche auf. Das Alytus-Museum bietet am Nachmittag Schutz vor der Kälte, bevor die Dämmerung bereits gegen 16:00 Uhr einsetzt. Den Tag krönen wir mit dem Blick von der Weißen Rosenbrücke auf die vereiste Memel, wenn die Lichter der Stadt im Schnee funkeln.",
+            "hu": "Télen Alytus hófödte tájai várják a látogatót. A Szabadság Angyala a zúzmarás reggelen különösen ünnepélyes. Délelőtt a Városkert havas ösvényei után a Szent Kázmér-templomban keresünk melegséget. Délután az Alytus Múzeum kiállításai között bújunk el a hideg elől, mielőtt 16:00 körül leszáll az est. A napot a Fehér Rózsa hídon zárjuk, ahonnan a befagyott Nyeman-folyót csodálhatjuk meg a városi fényeknél.",
+            "ro": "Iarna, Alytus strălucește sub o mantie de zăpadă. Îngerul Libertății pare impunător în gerul dimineții. La prânz, după o plimbare prin grădina înzăpezită, ne încălzim în Biserica Sf. Cazimir. Muzeul Alytus oferă adăpost împotriva frigului după-amiaza, înainte ca amurgul să vină în jurul orei 16:00. Încheiem ziua pe Podul Trandafirului Alb, admirând râul Nemunas înghețat sub luminile orașului.",
+            "en": "In winter, Alytus is transformed by snow and frost. The Angel of Freedom looks particularly grand against a white backdrop. At noon, warm up in St. Casimir's Church after a stroll through the snowy City Garden. The museum offers refuge from the cold in the afternoon, as sunset arrives early around 16:00. We end the day at the White Rose Bridge, seeing the frozen Nemunas river under the evening city lights."
+          },
+          "stops": [
+            {
+              "name": "Angel of Freedom",
+              "tip_5lang": {
+                "de": "Besonders fotogen bei Raureif am frühen Morgen.",
+                "hu": "Különösen fotogén a kora reggeli zúzmarás időben.",
+                "ro": "Foarte fotogenic în timpul chiciurei de dimineață.",
+                "en": "Very photogenic during early morning frost."
+              }
+            },
+            {
+              "name": "City Garden",
+              "tip_5lang": {
+                "de": "Achten Sie auf Winterdekorationen und festliche Beleuchtung.",
+                "hu": "Keresse a téli díszítéseket és az ünnepi kivilágítást.",
+                "ro": "Căutați decorațiunile de iarnă și iluminatul festiv.",
+                "en": "Look for winter decorations and festive lighting."
+              }
+            },
+            {
+              "name": "St. Casimir's Church",
+              "tip_5lang": {
+                "de": "Ein Ort der Ruhe, oft angenehm temperiert im Vergleich zu draußen.",
+                "hu": "A nyugalom helye, gyakran kellemesebb hőmérséklettel, mint odakint.",
+                "ro": "Un loc liniștit, adesea cu o temperatură plăcută față de exterior.",
+                "en": "A place of peace, often at a milder temperature than outside."
+              }
+            },
+            {
+              "name": "Alytus Museum",
+              "tip_5lang": {
+                "de": "Planen Sie hier den längsten Aufenthalt für die kälteste Tageszeit.",
+                "hu": "Tervezze ide a leghosszabb tartózkodást a nap leghidegebb óráiban.",
+                "ro": "Planificați aici cea mai lungă vizită pentru cele mai reci ore.",
+                "en": "Plan your longest stay here during the coldest part of the day."
+              }
+            },
+            {
+              "name": "Alytus Castle Mound",
+              "tip_5lang": {
+                "de": "Die Stufen können vereist sein; nutzen Sie unbedingt die Handläufe.",
+                "hu": "A lépcsők jegesek lehetnek; mindenképpen használja a korlátokat.",
+                "ro": "Treptele pot fi înghețate; folosiți neapărat balustradele.",
+                "en": "Steps can be icy; be sure to use the handrails."
+              }
+            },
+            {
+              "name": "White Rose Bridge",
+              "tip_5lang": {
+                "de": "Warme Kleidung ist Pflicht, der Wind auf der Brücke ist eisig.",
+                "hu": "Meleg ruházat kötelező, a szél a hídon jéghideg lehet.",
+                "ro": "Îmbrăcămintea groasă este obligatorie, vântul pe pod este tăios.",
+                "en": "Warm clothing is a must, the wind on the bridge is biting."
+              }
+            },
+            {
+              "name": "Youth Park",
+              "tip_5lang": {
+                "de": "Der Park schließt bei Dunkelheit nicht, ist aber teilweise unbeleuchtet.",
+                "hu": "A park sötétben sem zár be, de néhol nincs kivilágítva.",
+                "ro": "Parcul nu se închide la lăsarea întunericului, dar e parțial neiluminat.",
+                "en": "The park doesn't close at dark, but parts are unlit."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Sonnenuntergang ist ca. 15:45-16:15 Uhr, planen Sie Outdoor-Fotos früh.",
+              "Tragen Sie Thermokleidung, die Temperaturen fallen oft unter -5°C.",
+              "Vorsicht vor Glatteis auf den Brücken und Hügeln.",
+              "Warme Getränke gibt es in den Cafés nahe dem Rathausplatz."
+            ],
+            "hu": [
+              "A naplemente 15:45-16:15 körül van, fotózzon korán.",
+              "Viseljen hőtartó ruházatot, a hőmérséklet gyakran -5°C alá esik.",
+              "Vigyázzon a jegesedésre a hidakon és a dombokon.",
+              "Meleg italokat a városháza melletti kávézókban talál."
+            ],
+            "ro": [
+              "Apusul este în jur de 15:45-16:15; faceți pozele de exterior devreme.",
+              "Purtați haine termice; temperaturile scad des sub -5°C.",
+              "Atenție la polei pe poduri și pe movile.",
+              "Găsiți băuturi calde la cafenelele de lângă Piața Primăriei."
+            ],
+            "en": [
+              "Sunset is around 15:45-16:15; take outdoor photos early.",
+              "Wear thermal layers; temperatures often drop below -5°C.",
+              "Watch out for black ice on bridges and mounds.",
+              "Warm drinks are available at cafes near Town Hall Square."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -618,6 +818,206 @@
           "Use the city's well-developed cycle paths.",
           "A helmet is recommended for your safety."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regen hält einen echten Radfahrer in Alytus nicht auf. Wir starten im Stadtgarten, wo die Bäume den ersten Guss abfangen. Vorbei am Freiheitsengel geht es zum Burgberg, wobei die Reifen auf dem nassen Untergrund Grip brauchen. Über die Weiße Rosenbrücke radeln wir bei kühlem Wind zur St.-Kasimir-Kirche für eine kurze Pause. Den Abschluss bilden die Dailidė-Seen, die im Regen eine mystische, neblige Atmosphäre ausstrahlen.",
+            "hu": "Az eső nem tántorítja el az elszánt kerékpárosokat Alytusban. A Városkertben kezdünk, ahol a lombok felfogják a vízcseppeket. A Szabadság Angyala után a Várhalom következik, ahol figyelni kell a csúszós talajra. A Fehér Rózsa hídon áttekerve a Szent Kázmér-templom felé vesszük az irányt egy kis pihenőre. A napot a Dailidė-tavaknál zárjuk, melyek a ködös esőben misztikus arcukat mutatják.",
+            "ro": "Ploaia nu oprește un biciclist adevărat în Alytus. Începem în Grădina Orașului, unde coroanele copacilor opresc primele picături. Trecem pe la Îngerul Libertății spre Movila Castelului, unde anvelopele au nevoie de aderență pe solul umed. Traversăm Podul Trandafirului Alb spre Biserica Sf. Cazimir pentru o scurtă pauză. Finalul aparține Lacurilor Dailidė, care emană o atmosferă mistică prin ceața ploii.",
+            "en": "Rain won't stop a dedicated cyclist in Alytus. We start at the City Garden, with trees shielding us from the first drops. After passing the Angel of Freedom, we head to the Castle Mound, where tires need grip on the wet ground. Cycling across the White Rose Bridge, we reach St. Casimir's Church for a quick break. The tour ends at the Dailidė Lakes, which look mystical and misty in the rain."
+          },
+          "stops": [
+            {
+              "name": "City Garden",
+              "tip_5lang": {
+                "de": "Nutzen Sie die asphaltierten Wege, um Pfützen zu vermeiden.",
+                "hu": "Használja az aszfaltozott utakat a tócsák elkerülésére.",
+                "ro": "Folosiți pistele asfaltate pentru a evita bălțile.",
+                "en": "Use the paved paths to avoid puddles."
+              }
+            },
+            {
+              "name": "Angel of Freedom",
+              "tip_5lang": {
+                "de": "Vorsicht beim Bremsen auf den Kopfsteinpflaster-Abschnitten.",
+                "hu": "Vigyázzon a fékezéssel a macskaköves szakaszokon.",
+                "ro": "Atenție la frânare pe secțiunile cu piatră cubică.",
+                "en": "Be careful when braking on cobblestone sections."
+              }
+            },
+            {
+              "name": "Alytus Castle Mound",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad unten ab; der Pfad nach oben ist bei Regen rutschig.",
+                "hu": "Hagyja a bringát alul; a felfelé vezető út esőben csúszós.",
+                "ro": "Lăsați bicicleta jos; poteca spre vârf este alunecoasă pe ploaie.",
+                "en": "Leave the bike at the bottom; the path up is slippery in the rain."
+              }
+            },
+            {
+              "name": "White Rose Bridge",
+              "tip_5lang": {
+                "de": "Halten Sie den Lenker fest; Seitenwinde können auf der Brücke stark sein.",
+                "hu": "Fogja erősen a kormányt; az oldalszél erős lehet a hídon.",
+                "ro": "Țineți ghidonul ferm; vântul lateral poate fi puternic pe pod.",
+                "en": "Hold the handlebars firmly; side winds can be strong on the bridge."
+              }
+            },
+            {
+              "name": "St. Casimir's Church",
+              "tip_5lang": {
+                "de": "Gute Gelegenheit, kurz unter das Vordach zu schlüpfen.",
+                "hu": "Jó alkalom, hogy rövid időre az előtető alá húzódjunk.",
+                "ro": "O ocazie bună de a vă adăposti scurt timp sub streașină.",
+                "en": "A good opportunity to take shelter under the porch for a moment."
+              }
+            },
+            {
+              "name": "Youth Park",
+              "tip_5lang": {
+                "de": "Die Skulpturenwege sind auch bei Regen gut befahrbar.",
+                "hu": "A szobrok közötti utak esőben is jól járhatóak biciklivel.",
+                "ro": "Aleile cu sculpturi sunt practicabile și pe ploaie.",
+                "en": "The sculpture paths are easy to ride even in the rain."
+              }
+            },
+            {
+              "name": "Dailidė Lakes",
+              "tip_5lang": {
+                "de": "Die Uferwege können schlammig sein; bleiben Sie auf dem Hauptweg.",
+                "hu": "A tóparti utak sarasak lehetnek; maradjon a főúton.",
+                "ro": "Potecile de pe mal pot fi noroioase; rămâneți pe drumul principal.",
+                "en": "Lakeside paths can be muddy; stick to the main track."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vollständige Regenbekleidung und Schutzbleche sind dringend empfohlen.",
+              "Testen Sie Ihre Bremsen vor den Abfahrten zum Fluss.",
+              "Vorsicht vor nassen Laubschichten in den Parks.",
+              "Die Brücke kann bei Nässe glatt sein."
+            ],
+            "hu": [
+              "Teljes esőruházat és sárvédő használata erősen ajánlott.",
+              "Ellenőrizze a fékeket a folyóhoz vezető lejtők előtt.",
+              "Vigyázzon a nedves levélrétegekre a parkokban.",
+              "A híd felülete nedvesen csúszós lehet."
+            ],
+            "ro": [
+              "Se recomandă insistent echipament complet de ploaie și apărători.",
+              "Testați frânele înainte de coborârile spre râu.",
+              "Atenție la straturile de frunze umede din parcuri.",
+              "Suprafața podului poate fi alunecoasă când este udă."
+            ],
+            "en": [
+              "Full rain gear and mudguards are highly recommended.",
+              "Test your brakes before the descents to the river.",
+              "Watch out for wet leaf layers in the parks.",
+              "The bridge surface can be slick when wet."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winter-Biking in Alytus erfordert Vorsicht und warme Handschuhe. Wir starten im Stadtgarten, wo der Schnee die Skulpturen ziert. Am Freiheitsengel vorbei radeln wir zum Burgberg, der tief verschneit eine tolle Aussicht bietet. Die Überquerung der Weißen Rosenbrücke bei Frost ist ein Erlebnis für Hartgesottene. Nach einem Stopp an der St.-Kasimir-Kirche und dem Jugendpark endet die Tour an den gefrorenen Dailidė-Seen, einem Paradies für Wintersportler.",
+            "hu": "A téli kerékpározás Alytusban óvatosságot és meleg kesztyűt igényel. A Városkertben kezdünk, ahol a hó belepi a szobrokat. A Szabadság Angyala után a hóval borított Várhalomhoz tekerünk a kilátásért. A Fehér Rózsa hídon való átkelés fagyos időben igazi kihívás. A Szent Kázmér-templom és az Ifjúsági Park után a befagyott Dailidė-tavaknál zárunk, ahol sokan korcsolyáznak.",
+            "ro": "Ciclismul de iarnă în Alytus necesită prudență și mănuși groase. Începem în Grădina Orașului, unde zăpada decorează sculpturile. Trecem de Îngerul Libertății spre Movila Castelului, care oferă o priveliște superbă sub zăpadă. Traversarea Podului Trandafirului Alb pe ger este o experiență intensă. După o oprire la Biserica Sf. Cazimir și Parcul Tineretului, turul se încheie la Lacurile Dailidė înghețate.",
+            "en": "Winter biking in Alytus requires caution and warm gloves. We start at the City Garden, with snow decorating the sculptures. After the Angel of Freedom, we cycle to the snow-covered Castle Mound for the views. Crossing the White Rose Bridge in the frost is a thrill for the hardy. After stops at St. Casimir's Church and Youth Park, the tour ends at the frozen Dailidė Lakes, a winter sports hub."
+          },
+          "stops": [
+            {
+              "name": "City Garden",
+              "tip_5lang": {
+                "de": "Hauptwege sind meist geräumt, Nebenwege können glatt sein.",
+                "hu": "A főutakat általában takarítják, a mellékutak jegesek lehetnek.",
+                "ro": "Aleile principale sunt de obicei deszăpezite, cele secundare pot fi alunecoase.",
+                "en": "Main paths are usually cleared, side paths can be icy."
+              }
+            },
+            {
+              "name": "Angel of Freedom",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenem Kondenswasser auf dem Pflaster.",
+                "hu": "Vigyázzon a megfagyott páralecsapódásra a burkolaton.",
+                "ro": "Atenție la condensul înghețat de pe pavaj.",
+                "en": "Watch out for frozen condensation on the pavement."
+              }
+            },
+            {
+              "name": "Alytus Castle Mound",
+              "tip_5lang": {
+                "de": "Der Anstieg per Rad ist bei Schnee kaum möglich; besser schieben.",
+                "hu": "Hóban szinte lehetetlen feltekerni; jobb tolni a bringát.",
+                "ro": "Urcarea cu bicicleta este aproape imposibilă pe zăpadă; mai bine împingeți.",
+                "en": "Cycling up is nearly impossible in snow; better to push the bike."
+              }
+            },
+            {
+              "name": "White Rose Bridge",
+              "tip_5lang": {
+                "de": "Achtung: Metallfugen der Brücke können extrem glatt sein.",
+                "hu": "Figyelem: a híd fém illesztései rendkívül csúszósak lehetnek.",
+                "ro": "Atenție: îmbinările metalice ale podului pot fi extrem de alunecoase.",
+                "en": "Warning: metal joints on the bridge can be extremely slippery."
+              }
+            },
+            {
+              "name": "St. Casimir's Church",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Halt für Dehnübungen, um warm zu bleiben.",
+                "hu": "Használja a megállót nyújtásra, hogy melegen tartsa az izmait.",
+                "ro": "Folosiți oprirea pentru stretching, pentru a vă menține căldura.",
+                "en": "Use the stop for stretching to keep your muscles warm."
+              }
+            },
+            {
+              "name": "Youth Park",
+              "tip_5lang": {
+                "de": "Genießen Sie die Winterstille zwischen den modernen Skulpturen.",
+                "hu": "Élvezze a téli csendet a modern szobrok között.",
+                "ro": "Bucurați-vă de liniștea iernii printre sculpturile moderne.",
+                "en": "Enjoy the winter silence among the modern sculptures."
+              }
+            },
+            {
+              "name": "Dailidė Lakes",
+              "tip_5lang": {
+                "de": "Prüfen Sie, ob der Rundweg geräumt ist; oft hoher Schnee.",
+                "hu": "Ellenőrizze, hogy a körút le van-e takarítva; gyakran nagy a hó.",
+                "ro": "Verificați dacă traseul circular este curățat; adesea zăpada este mare.",
+                "en": "Check if the circular path is cleared; snow is often deep here."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Benutzen Sie Winterreifen oder reduzieren Sie den Luftdruck für mehr Grip.",
+              "Starke Beleuchtung ist ab 15:30 Uhr zwingend erforderlich.",
+              "Achten Sie auf Streusalz, das die Kette korrodieren lässt.",
+              "Trinken Sie ausreichend, auch wenn Sie keinen Durst verspüren."
+            ],
+            "hu": [
+              "Használjon téli gumit vagy csökkentse a guminyomást a jobb tapadásért.",
+              "15:30-tól erős világítás használata kötelező.",
+              "Ügyeljen az útszóró sóra, amely korrodálhatja a láncot.",
+              "Igyon eleget akkor is, ha nem érzi magát szomjasnak."
+            ],
+            "ro": [
+              "Folosiți anvelope de iarnă sau reduceți presiunea pentru aderență.",
+              "Iluminarea puternică este obligatorie începând cu ora 15:30.",
+              "Atenție la sarea de pe drum, care poate coroda lanțul.",
+              "Beți suficiente lichide, chiar dacă nu simțiți setea."
+            ],
+            "en": [
+              "Use winter tires or reduce tire pressure for better grip.",
+              "Strong lighting is mandatory starting from 15:30.",
+              "Watch out for road salt which can corrode the chain.",
+              "Drink enough fluids even if you don't feel thirsty."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -930,6 +1330,224 @@
           "A GPS is helpful for navigating between clusters.",
           "Fill up with fuel before leaving the city for excursions."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regnerische Tage in Alytus lassen sich am besten mit dem Auto bewältigen. Vom Parkplatz im Zentrum sind Stadtgarten und Freiheitsengel nur kurze Wege entfernt. Mittags bietet das Alytus-Museum eine ausgedehnte, trockene Kulturpause. Nach einem kurzen Stopp am Castle Mound Parkplatz geht es zur Weißen Rosenbrücke, bevor die Tour an den Dailidė-Seen endet, die man auch gut aus dem Auto heraus betrachten kann.",
+            "hu": "Az esős napokat Alytusban legkönnyebben autóval lehet kezelni. A központi parkolóból a Városkert és a Szabadság Angyala csak rövid séta. Délben az Alytus Múzeum kínál hosszú, száraz kulturális programot. A Várhalom parkolója után a Fehér Rózsa híd következik, majd a napot a Dailidė-tavaknál zárjuk, melyeket az autóból is jól meg lehet figyelni.",
+            "ro": "Zilele ploioase în Alytus sunt cel mai ușor de gestionat cu mașina. Din parcarea centrală, Grădina Orașului și Îngerul Libertății sunt la mică distanță. La prânz, Muzeul Alytus oferă o pauză culturală lungă și uscată. După o scurtă oprire în parcarea Movilei Castelului, mergem la Podul Trandafirului Alb, încheind turul la Lacurile Dailidė.",
+            "en": "Rainy days in Alytus are best handled by car. From the central parking, the City Garden and Angel of Freedom are just short walks away. At noon, the Alytus Museum provides a long, dry cultural break. After a quick stop at the Castle Mound parking, we visit the White Rose Bridge, ending the tour at the Dailidė Lakes, which can be enjoyed even from the car."
+          },
+          "stops": [
+            {
+              "name": "City Center Parking",
+              "tip_5lang": {
+                "de": "Zentraler Startpunkt; halten Sie Kleingeld für Parkautomaten bereit.",
+                "hu": "Központi indulópont; készítsen aprópénzt a parkolóautomatához.",
+                "ro": "Punct de plecare central; pregătiți mărunțiș pentru automatele de parcare.",
+                "en": "Central starting point; have small change ready for parking meters."
+              }
+            },
+            {
+              "name": "City Garden",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Rand, um den Weg durch den Regen zu verkürzen.",
+                "hu": "Parkoljon a szélén, hogy lerövidítse az utat az esőben.",
+                "ro": "Parcați aproape de margine pentru a scurta drumul prin ploaie.",
+                "en": "Park near the edge to shorten the walk through the rain."
+              }
+            },
+            {
+              "name": "Angel of Freedom",
+              "tip_5lang": {
+                "de": "Kurzer Ausstieg für ein Foto; der Platz bietet keinen Regenschutz.",
+                "hu": "Rövid kiszállás egy fotóra; a téren nincs esővédő.",
+                "ro": "Coborâre scurtă pentru o poză; piața nu oferă protecție contra ploii.",
+                "en": "Short hop out for a photo; the square offers no rain cover."
+              }
+            },
+            {
+              "name": "Alytus Museum",
+              "tip_5lang": {
+                "de": "Idealer Ort, um ein starkes Gewitter im Trockenen abzuwarten.",
+                "hu": "Ideális hely egy nagyobb zivatar átvészelésére szárazon.",
+                "ro": "Loc ideal pentru a aștepta trecerea unei furtuni la adăpost.",
+                "en": "Ideal place to wait out a heavy downpour in the dry."
+              }
+            },
+            {
+              "name": "Castle Mound Parking",
+              "tip_5lang": {
+                "de": "Der Parkplatz kann bei starkem Regen matschig sein.",
+                "hu": "A parkoló heves esőzéskor saras lehet.",
+                "ro": "Parcarea poate deveni noroioasă în caz de ploaie puternică.",
+                "en": "The parking area can get muddy during heavy rain."
+              }
+            },
+            {
+              "name": "Alytus Castle Mound",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick, aber achten Sie auf rutschige Pfade.",
+                "hu": "Élvezze a kilátást, de vigyázzon a csúszós ösvényekre.",
+                "ro": "Bucurați-vă de priveliște, dar atenție la potecile alunecoase.",
+                "en": "Enjoy the view, but watch out for slippery paths."
+              }
+            },
+            {
+              "name": "White Rose Bridge",
+              "tip_5lang": {
+                "de": "Parken Sie am Brückenkopf für einen schnellen Zugang.",
+                "hu": "Parkoljon a hídfőnél a gyors elérés érdekében.",
+                "ro": "Parcați la capătul podului pentru un acces rapid.",
+                "en": "Park at the bridgehead for quick access."
+              }
+            },
+            {
+              "name": "Dailidė Lakes",
+              "tip_5lang": {
+                "de": "Die Aussichtspunkte am Ufer sind mit dem Auto gut erreichbar.",
+                "hu": "A tóparti kilátópontok autóval jól megközelíthetőek.",
+                "ro": "Punctele de observație de pe mal sunt ușor accesibile cu mașina.",
+                "en": "Lakeside viewpoints are easily accessible by car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Scheibenwischer vor der Fahrt.",
+              "Parkhäuser im Zentrum sind bei Dauerregen die beste Wahl.",
+              "Vermeiden Sie das Parken unter alten Bäumen bei Sturmgefahr.",
+              "Die Straßen können bei Regen durch Laub rutschig sein."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze az ablaktörlőket.",
+              "Tartós esőben a központi parkolóházak a legjobbak.",
+              "Viharveszély esetén kerülje a parkolást öreg fák alatt.",
+              "Az utak esőben a levelek miatt csúszósak lehetnek."
+            ],
+            "ro": [
+              "Verificați ștergătoarele înainte de a porni la drum.",
+              "Parcările acoperite din centru sunt cea mai bună alegere pe ploaie.",
+              "Evitați parcarea sub copaci bătrâni dacă există risc de furtună.",
+              "Drumurile pot fi alunecoase din cauza frunzelor pe ploaie."
+            ],
+            "en": [
+              "Check your windshield wipers before setting off.",
+              "Indoor parking in the center is the best choice during steady rain.",
+              "Avoid parking under old trees if there is a storm risk.",
+              "Roads can be slick due to wet leaves in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterfahrten in Alytus führen durch eine weiße Wunderwelt. Nach dem Parken im Zentrum besuchen wir den frostigen Stadtgarten und den Freiheitsengel. Mittags wärmt die Heizung auf dem Weg zum Alytus-Museum, wo wir die Kälte vergessen. Nachmittags steuern wir den Castle Mound an, bevor wir die Brücke im Abendlicht besuchen. Die Tour endet an den Dailidė-Seen, wo man oft Eisfischer beobachten kann.",
+            "hu": "A téli autózás Alytusban egy fehér csodaországba vezet. A központi parkolás után meglátogatjuk a fagyos Városkertet és a Szabadság Angyalát. Délben az autó fűtése segít átmelegedni az Alytus Múzeum felé, ahol elfelejtjük a hideget. Délután a Várhalom következik, majd az esti fényben úszó híd. A nap a Dailidė-tavaknál zárul, ahol gyakran látni lékhorgászokat.",
+            "ro": "Călătoriile de iarnă în Alytus trec printr-o lume albă de poveste. După parcarea în centru, vizităm Grădina Orașului și Îngerul Libertății. La prânz, căldura din mașină ne ajută spre Muzeul Alytus, unde uităm de frig. După-amiaza mergem spre Movila Castelului, apoi vizităm podul sub luminile serii. Turul se încheie la Lacurile Dailidė, unde puteți vedea pescari la copcă.",
+            "en": "Winter driving in Alytus leads through a white wonderland. After parking in the center, we visit the frosty City Garden and Angel of Freedom. At noon, the car heater warms us on the way to the Alytus Museum, where we forget the cold. In the afternoon, we head to the Castle Mound before visiting the bridge in the evening glow. The tour ends at Dailidė Lakes, where you can often see ice fishermen."
+          },
+          "stops": [
+            {
+              "name": "City Center Parking",
+              "tip_5lang": {
+                "de": "Parkflächen können vereist sein; Vorsicht beim Aussteigen.",
+                "hu": "A parkolófelületek jegesek lehetnek; vigyázzon a kiszálláskor.",
+                "ro": "Suprafețele de parcare pot fi înghețate; atenție la coborâre.",
+                "en": "Parking surfaces can be icy; be careful when stepping out."
+              }
+            },
+            {
+              "name": "City Garden",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die verschneite Parklandschaft.",
+                "hu": "Élvezze a kilátást a behavazott parkra.",
+                "ro": "Bucurați-vă de priveliștea parcului înzăpezit.",
+                "en": "Enjoy the view of the snow-covered park landscape."
+              }
+            },
+            {
+              "name": "Angel of Freedom",
+              "tip_5lang": {
+                "de": "Kurzer Halt; der Platz wird meist schnell geräumt.",
+                "hu": "Rövid megálló; a teret általában gyorsan letakarítják.",
+                "ro": "Oprire scurtă; piața este de obicei deszăpezită rapid.",
+                "en": "Short stop; the square is usually cleared quickly."
+              }
+            },
+            {
+              "name": "Alytus Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch zum Aufwärmen.",
+                "hu": "Használja ki a múzeumlátogatást a felmelegedésre.",
+                "ro": "Folosiți vizita la muzeu pentru a vă încălzi.",
+                "en": "Use the museum visit to warm up properly."
+              }
+            },
+            {
+              "name": "Castle Mound Parking",
+              "tip_5lang": {
+                "de": "Vorsicht: Parkplatzzufahrt kann bei Neuschnee glatt sein.",
+                "hu": "Vigyázat: a parkoló bejárata friss hóban csúszós lehet.",
+                "ro": "Atenție: accesul în parcare poate fi alunecos pe zăpadă proaspătă.",
+                "en": "Caution: parking access can be slick in fresh snow."
+              }
+            },
+            {
+              "name": "Alytus Castle Mound",
+              "tip_5lang": {
+                "de": "Tragen Sie feste Stiefel für den verschneiten Aufstieg.",
+                "hu": "Viseljen bakancsot a havas emelkedőhöz.",
+                "ro": "Purtați ghete solide pentru urcarea prin zăpadă.",
+                "en": "Wear sturdy boots for the snowy ascent."
+              }
+            },
+            {
+              "name": "White Rose Bridge",
+              "tip_5lang": {
+                "de": "Der Parkplatz an der Brücke bietet einen tollen Fotospot.",
+                "hu": "A híd melletti parkoló remek fotózóhely.",
+                "ro": "Parcarea de lângă pod oferă un loc excelent pentru poze.",
+                "en": "The parking by the bridge offers a great photo spot."
+              }
+            },
+            {
+              "name": "Dailidė Lakes",
+              "tip_5lang": {
+                "de": "Die Seen sind oft komplett zugefroren; herrlich anzusehen.",
+                "hu": "A tavak gyakran teljesen befagynak; csodálatos látvány.",
+                "ro": "Lacurile sunt adesea complet înghețate; o priveliște superbă.",
+                "en": "The lakes are often completely frozen; a wonderful sight."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen und Eiskratzer sind in Litauen Pflicht.",
+              "Füllen Sie Frostschutzmittel in die Scheibenwaschanlage.",
+              "Planen Sie mehr Zeit für die Parkplatzsuche in geräumten Zonen ein.",
+              "Achten Sie auf Wildwechsel auf den Straßen außerhalb des Zentrums."
+            ],
+            "hu": [
+              "Téli gumi és jégkaparó kötelező Litvániában.",
+              "Töltsön fagyállót a szélvédőmosóba.",
+              "Tervezzen több időt a parkolóhely keresésére a letakarított zónákban.",
+              "Ügyeljen a vadakra a központon kívüli utakon."
+            ],
+            "ro": [
+              "Anvelopele de iarnă și racleta sunt obligatorii în Lituania.",
+              "Puneți lichid de parbriz rezistent la îngheț.",
+              "Planificați mai mult timp pentru găsirea parcării în zonele curățate.",
+              "Atenție la animalele sălbatice pe drumurile din afara centrului."
+            ],
+            "en": [
+              "Winter tires and an ice scraper are mandatory in Lithuania.",
+              "Fill your washer fluid with anti-freeze.",
+              "Allow extra time for finding parking in cleared zones.",
+              "Watch for wildlife on the roads outside the center."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1218,6 +1836,206 @@
           "A day ticket is often the cheapest option.",
           "Pay attention to the correct stops to get off."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus durch das verregnete Alytus zu fahren, schont die Nerven. Vom zentralen Busstopp erreichen wir schnell den Freiheitsengel und das Alytus-Museum. Mittags bietet das Museum langen Schutz vor den Schauern. Mit dem Bus geht es weiter Richtung Burgberg und zur Weißen Rosenbrücke, bevor wir den Nachmittag im Jugendpark ausklingen lassen, wo die modernen Skulpturen im Regen glänzen.",
+            "hu": "Busszal közlekedni az esős Alytusban kíméli az idegeket. A központi megállóból gyorsan elérjük a Szabadság Angyalát és az Alytus Múzeumot. Délben a múzeum hosszú védelmet nyújt a záporok elől. Autóbusszal folytatjuk utunkat a Várhalom és a Fehér Rózsa híd felé, majd a délutánt az Ifjúsági Parkban zárjuk, ahol a modern szobrok csillognak az esőben.",
+            "ro": "Călătoria cu autobuzul prin Alytusul ploios este relaxantă. Din stația centrală ajungem rapid la Îngerul Libertății și la Muzeul Alytus. La prânz, muzeul oferă protecție lungă împotriva averselor. Continuăm cu autobuzul spre Movila Castelului și Podul Trandafirului Alb, încheind după-amiaza în Parcul Tineretului, unde sculpturile strălucesc în ploaie.",
+            "en": "Taking the bus through rainy Alytus is a stress-free choice. From the central stop, we quickly reach the Angel of Freedom and the Alytus Museum. At noon, the museum provides a long shelter from the showers. We continue by bus towards the Castle Mound and White Rose Bridge, finishing the afternoon in Youth Park, where modern sculptures glisten in the rain."
+          },
+          "stops": [
+            {
+              "name": "Central Bus Stop",
+              "tip_5lang": {
+                "de": "Überdachter Wartebereich; prüfen Sie den Fahrplan per App.",
+                "hu": "Fedett várakozóhely; ellenőrizze a menetrendet applikáción.",
+                "ro": "Zonă de așteptare acoperită; verificați orarul în aplicație.",
+                "en": "Covered waiting area; check the timetable via app."
+              }
+            },
+            {
+              "name": "Angel of Freedom",
+              "tip_5lang": {
+                "de": "Wenige Gehminuten von der Haltestelle entfernt.",
+                "hu": "Csak pár perc séta a megállótól.",
+                "ro": "La doar câteva minute de mers pe jos de stație.",
+                "en": "Just a few minutes' walk from the bus stop."
+              }
+            },
+            {
+              "name": "Alytus Museum",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um auf den nächsten Bus im Trockenen zu warten.",
+                "hu": "Tökéletes hely, hogy szárazon várjuk a következő buszt.",
+                "ro": "Locul perfect pentru a aștepta următorul autobuz la adăpost.",
+                "en": "Perfect place to wait for the next bus in the dry."
+              }
+            },
+            {
+              "name": "Castle Mound Bus Stop",
+              "tip_5lang": {
+                "de": "Die Haltestelle bietet nur begrenzten Regenschutz.",
+                "hu": "A megálló csak korlátozott esővédelmet nyújt.",
+                "ro": "Stația oferă o protecție limitată împotriva ploii.",
+                "en": "The stop offers only limited rain protection."
+              }
+            },
+            {
+              "name": "Alytus Castle Mound",
+              "tip_5lang": {
+                "de": "Der Weg von der Haltestelle zum Hügel ist ungeschützt.",
+                "hu": "A megállótól a dombig vezető út fedetlen.",
+                "ro": "Drumul de la stație până la movilă este neprotejat.",
+                "en": "The path from the stop to the mound is unsheltered."
+              }
+            },
+            {
+              "name": "White Rose Bridge",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Bus, um die nassen Wege zwischen den Vierteln zu überbrücken.",
+                "hu": "Használja a buszt a negyedek közötti vizes utak áthidalására.",
+                "ro": "Folosiți autobuzul pentru a evita drumurile ude dintre cartiere.",
+                "en": "Use the bus to bridge the wet paths between districts."
+              }
+            },
+            {
+              "name": "Youth Park",
+              "tip_5lang": {
+                "de": "Bushaltestellen befinden sich direkt an den Parkeingängen.",
+                "hu": "Buszmegállók találhatók közvetlenül a park bejáratainál.",
+                "ro": "Stațiile de autobuz se află chiar la intrările în parc.",
+                "en": "Bus stops are located right at the park entrances."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie Fahrkarten vorab oder nutzen Sie kontaktloses Bezahlen.",
+              "Busse fahren bei starkem Regen meist pünktlich.",
+              "Haben Sie ein Handtuch für nasse Sitze dabei.",
+              "Die 'Trafi' App ist hilfreich für Echtzeit-Infos."
+            ],
+            "hu": [
+              "Vegyen jegyet előre, vagy használja az érintésmentes fizetést.",
+              "A buszok heves esőben is általában pontosak.",
+              "Legyen önnél egy kis törölköző a nedves ülésekhez.",
+              "A 'Trafi' alkalmazás hasznos a valós idejű infókhoz."
+            ],
+            "ro": [
+              "Cumpărați bilete în avans sau folosiți plata contactless.",
+              "Autobuzele sunt de obicei punctuale și pe ploaie puternică.",
+              "Aveți la voi un șervețel pentru scaunele umede.",
+              "Aplicația 'Trafi' este utilă pentru informații în timp real."
+            ],
+            "en": [
+              "Buy tickets in advance or use contactless payment.",
+              "Buses are usually punctual even in heavy rain.",
+              "Keep a small towel handy for wet seats.",
+              "The 'Trafi' app is helpful for real-time info."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die warmen Busse von Alytus sind im Winter ein Segen. Vom zentralen Busstopp geht es zum Freiheitsengel, der im Schnee glänzt. Mittags besuchen wir das Alytus-Museum, um uns richtig aufzuwärmen. Mit dem Bus überwinden wir die Distanz zum Castle Mound und zur Weißen Rosenbrücke, die im Winter besonders eindrucksvoll ist. Die Tour endet im Jugendpark, wo die winterliche Stille zwischen den Skulpturen herrscht.",
+            "hu": "Alytus meleg buszai télen valóságos áldást jelentenek. A központi megállótól a Szabadság Angyalához megyünk, amely ragyog a hóban. Délben meglátogatjuk az Alytus Múzeumot, hogy jól átmelegedjünk. Busszal tesszük meg a távolságot a Várhalomhoz és a Fehér Rózsa hídhoz, mely télen különösen lenyűgöző. A nap az Ifjúsági Parkban zárul, ahol téli csend honol a szobrok között.",
+            "ro": "Autobuzele încălzite din Alytus sunt o binecuvântare iarna. Din stația centrală mergem la Îngerul Libertății, care strălucește în zăpadă. La prânz vizităm Muzeul Alytus pentru a ne încălzi bine. Traversăm distanța până la Movila Castelului și Podul Trandafirului Alb cu autobuzul. Turul se încheie în Parcul Tineretului, unde liniștea iernii domnește printre sculpturi.",
+            "en": "The warm buses of Alytus are a blessing in winter. From the central stop, we head to the Angel of Freedom, shining in the snow. At noon, we visit the Alytus Museum to warm up properly. We use the bus to cover the distance to the Castle Mound and the White Rose Bridge, which is impressive in winter. The tour ends in Youth Park, where winter silence reigns among the sculptures."
+          },
+          "stops": [
+            {
+              "name": "Central Bus Stop",
+              "tip_5lang": {
+                "de": "Oft beheizte Wartehallen in der Nähe des Zentrums.",
+                "hu": "Gyakran fűtött váróhelyiségek a központ közelében.",
+                "ro": "Adesea există săli de așteptare încălzite lângă centru.",
+                "en": "Often there are heated waiting areas near the center."
+              }
+            },
+            {
+              "name": "Angel of Freedom",
+              "tip_5lang": {
+                "de": "Der Fußweg von der Haltestelle kann rutschig sein.",
+                "hu": "A megállótól vezető gyalogút csúszós lehet.",
+                "ro": "Drumul pietonal de la stație poate fi alunecos.",
+                "en": "The footpath from the stop can be slippery."
+              }
+            },
+            {
+              "name": "Alytus Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsshop für kleine Winterandenken.",
+                "hu": "Keresse a múzeumi boltban a kis téli emléktárgyakat.",
+                "ro": "Vizitați magazinul muzeului pentru mici suveniruri de iarnă.",
+                "en": "Visit the museum shop for small winter souvenirs."
+              }
+            },
+            {
+              "name": "Castle Mound Bus Stop",
+              "tip_5lang": {
+                "de": "Halten Sie sich im Windschatten der Wartehäuschen auf.",
+                "hu": "Maradjon a váróhelyek szélvédett oldalán.",
+                "ro": "Stați în zona ferită de vânt a stației.",
+                "en": "Stay in the lee of the bus shelter."
+              }
+            },
+            {
+              "name": "Alytus Castle Mound",
+              "tip_5lang": {
+                "de": "Ein kurzer, aber knackiger Marsch bei winterlichen Temperaturen.",
+                "hu": "Rövid, de frissítő séta a téli hidegben.",
+                "ro": "O plimbare scurtă, dar revigorantă în frigul iernii.",
+                "en": "A short but brisk walk in wintry temperatures."
+              }
+            },
+            {
+              "name": "White Rose Bridge",
+              "tip_5lang": {
+                "de": "Busse halten in Gehentfernung zu beiden Seiten der Brücke.",
+                "hu": "A buszok a híd mindkét oldalán gyalogtávolságra állnak meg.",
+                "ro": "Autobuzele opresc la mică distanță de ambele capete ale podului.",
+                "en": "Buses stop within walking distance on both sides of the bridge."
+              }
+            },
+            {
+              "name": "Youth Park",
+              "tip_5lang": {
+                "de": "Im Winter sind die beleuchteten Hauptwege im Park am sichersten.",
+                "hu": "Télen a park kivilágított főútjai a legbiztonságosabbak.",
+                "ro": "Iarna, aleile principale iluminate din parc sunt cele mai sigure.",
+                "en": "In winter, the lit main paths in the park are the safest."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse sind im Winter gut beheizt.",
+              "Bei starkem Schneefall kann es zu leichten Verspätungen kommen.",
+              "Achten Sie auf Schneematsch beim Ein- und Aussteigen.",
+              "Fahrpläne ändern sich an Feiertagen; prüfen Sie diese vorab."
+            ],
+            "hu": [
+              "A buszok télen jól fűtöttek.",
+              "Erős havazás esetén előfordulhatnak kisebb késések.",
+              "Ügyeljen a latyakra a fel- és leszálláskor.",
+              "Ünnepnapokon változhat a menetrend; ellenőrizze előre."
+            ],
+            "ro": [
+              "Autobuzele sunt bine încălzite iarna.",
+              "În caz de ninsoare puternică, pot apărea mici întârzieri.",
+              "Atenție la fleșcăraie la urcare și coborâre.",
+              "Orarele se pot schimba de sărbători; verificați în avans."
+            ],
+            "en": [
+              "Buses are well-heated during winter.",
+              "Minor delays may occur during heavy snowfall.",
+              "Watch out for slush when getting on and off.",
+              "Timetables change on public holidays; check in advance."
+            ]
+          }
+        }
       }
     }
   }

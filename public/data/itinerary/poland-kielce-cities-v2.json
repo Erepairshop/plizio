@@ -386,6 +386,206 @@
           "Most central attractions are within easy walking distance of each other.",
           "Check museum opening times, as they are often closed on Mondays."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt am überdachten Marktplatz, wo Cafés Schutz vor dem Regen bieten. Mittags erkunden Sie die prächtigen, trockenen Säle des Bischofspalastes und die benachbarte Kathedrale. Der Nachmittag gehört dem Spielzeugmuseum, einem idealen Zufluchtsort für regnerische Stunden. Am Abend führt ein kurzer Spaziergang zur Kadzielnia, deren Felsen im Regen besonders dramatisch wirken, bevor Sie den Tag in einem gemütlichen Restaurant im Zentrum ausklingen lassen.",
+            "hu": "A nap a Fő téren indul, ahol az árkádok és kávézók nyújtanak menedéket az eső elől. Délben a püspöki palota és a katedrális belső tereiben kalandozunk, távol a víztől. A délutáni program a Játékmúzeum, amely tökéletes fedett helyszín ilyenkor. Este a Kadzielnia sziklái az esőben még különlegesebb látványt nyújtanak, végül egy belvárosi étterem melegében zárjuk a napot.",
+            "ro": "Ziua începe în Piața Mare, unde cafenelele oferă adăpost împotriva ploii. La prânz, explorăm sălile uscate și somptuoase ale Palatului Episcopilor și Catedrala vecină. După-amiaza este dedicată Muzeului Jucăriilor, un refugiu ideal pentru orele ploioase. Seara, o scurtă plimbare spre Kadzielnia oferă o priveliște dramatică a stâncilor ude, înainte de a încheia ziua într-un restaurant primitor din centru.",
+            "en": "The day starts at the Market Square, where cafes provide shelter from the rain. At midday, explore the grand, dry halls of the Bishops' Palace and the neighboring Cathedral. The afternoon is dedicated to the Toy Museum, an ideal refuge for rainy hours. In the evening, a short walk to Kadzielnia offers a dramatic view of the wet cliffs before ending the day in a cozy restaurant in the center."
+          },
+          "stops": [
+            {
+              "name": "Market Square (Rynek)",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden und Cafés am Rand des Platzes, um trocken zu bleiben.",
+                "hu": "Használja a tér szélén található árkádokat és kávézókat a várakozáshoz.",
+                "ro": "Folosiți arcadele și cafenelele de pe marginea pieței pentru a rămâne uscați.",
+                "en": "Use the arcades and cafes around the square to stay dry while observing."
+              }
+            },
+            {
+              "name": "Sienkiewicz Street",
+              "tip_5lang": {
+                "de": "Viele Geschäfte bieten hier Unterschlupf bei plötzlichen Schauern.",
+                "hu": "Számos üzlet és beugró kínál menedéket hirtelen zápor esetén.",
+                "ro": "Multe magazine de aici oferă adăpost în caz de averse bruște.",
+                "en": "Many shops and alcoves here offer shelter during sudden showers."
+              }
+            },
+            {
+              "name": "Palace of the Krakow Bishops",
+              "tip_5lang": {
+                "de": "Ein hervorragender Ort, um viel Zeit im trockenen Inneren zu verbringen.",
+                "hu": "Kiváló helyszín, hogy hosszabb időt töltsön a száraz és díszes belső terekben.",
+                "ro": "Un loc excelent pentru a petrece mult timp în interiorul uscat și decorat.",
+                "en": "An excellent place to spend quality time in the dry and ornate interior."
+              }
+            },
+            {
+              "name": "Kielce Cathedral",
+              "tip_5lang": {
+                "de": "Die spirituelle Stille ist bei prasselndem Regen draußen besonders intensiv.",
+                "hu": "A kinti eső kopogása mellett a belső csend még megnyugtatóbb.",
+                "ro": "Liniștea spirituală este deosebit de intensă când afară plouă.",
+                "en": "The spiritual silence is particularly intense with the rain pattering outside."
+              }
+            },
+            {
+              "name": "Museum of Toys and Play",
+              "tip_5lang": {
+                "de": "Planen Sie hier ruhig etwas mehr Zeit ein, bis der Regen nachlässt.",
+                "hu": "Töltsön itt bátran több időt, amíg odakint elcsendesedik az eső.",
+                "ro": "Planificați ceva mai mult timp aici până când ploaia se mai potolește.",
+                "en": "Feel free to plan a bit more time here until the rain subsides."
+              }
+            },
+            {
+              "name": "Kadzielnia Nature Reserve",
+              "tip_5lang": {
+                "de": "Vorsicht auf den gepflasterten Wegen, diese können bei Nässe rutschig sein.",
+                "hu": "Vigyázzon a kövezett utakon, mert nedvesen csúszósak lehetnek.",
+                "ro": "Atenție pe potecile pavate, acestea pot fi alunecoase când sunt ude.",
+                "en": "Be careful on the paved paths, as they can be slippery when wet."
+              }
+            },
+            {
+              "name": "Dinner in the city center",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich mit einer traditionellen polnischen Suppe wie Żurek auf.",
+                "hu": "Melegedjen fel egy hagyományos lengyel levessel, például egy Żurek-kel.",
+                "ro": "Încălziți-vă cu o supă tradițională poloneză, cum ar fi Żurek.",
+                "en": "Warm up with a traditional Polish soup like Żurek after the wet walk."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da das Kopfsteinpflaster Pfützen bilden kann.",
+              "Der Bischofspalast und das Spielzeugmuseum sind ideale Regenzufluchten.",
+              "Die Sienkiewicz-Straße hat viele Passagen, in denen man trocken von Laden zu Laden kommt.",
+              "In polnischen Restaurants gibt es oft heißen Tee mit Zitrone und Himbeersirup gegen die Kälte."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert a macskaköveken könnyen megáll a víz.",
+              "A püspöki palota és a Játékmúzeum a legjobb helyek eső esetén.",
+              "A Sienkiewicz utca számos árkádja segít szárazon maradni a boltok között.",
+              "A helyi éttermekben kérjen forró teát málnasziruppal a felmelegedéshez."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, deoarece pe pavaj se pot forma bălți.",
+              "Palatul Episcopilor și Muzeul Jucăriilor sunt refugiile ideale pe timp de ploaie.",
+              "Strada Sienkiewicz are multe pasaje unde puteți sta la adăpost între magazine.",
+              "În restaurantele poloneze găsiți adesea ceai fierbinte cu sirop de zmeură pentru încălzire."
+            ],
+            "en": [
+              "Wear waterproof shoes as puddles often form on the cobblestones.",
+              "The Bishops' Palace and the Toy Museum are perfect rainy-day sanctuaries.",
+              "Sienkiewicz Street has many passages to help you stay dry between shops.",
+              "Polish restaurants often serve hot tea with raspberry syrup to help you warm up."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen am Marktplatz beginnt mit einem heißen Kaffee. Die Sienkiewicz-Straße ist winterlich dekoriert und führt Sie zum warmen Bischofspalast. Mittags bietet die Kathedrale einen Ort der Besinnung in der Kälte. Der Nachmittag im Spielzeugmuseum lässt Sie den Frost vergessen, bevor Sie die verschneite Kadzielnia bei frühem Sonnenuntergang besuchen. Der Tag endet gemütlich bei Kerzenschein und deftiger polnischer Küche.",
+            "hu": "Fagyos reggel a Fő téren, egy forró kávéval indítunk. A téli díszbe öltözött Sienkiewicz utca vezet a püspöki palota fűtött termeihez. Délben a katedrális nyújt csendes menedéket a hideg elől. A délutáni Játékmúzeum segít elfelejteni a kinti fagyot, majd a havas Kadzielnia látványa vár a korai naplementében. A napot gyertyafényes vacsorával és laktató lengyel ételekkel zárjuk.",
+            "ro": "O dimineață geroasă în Piața Mare începe cu o cafea fierbinte. Strada Sienkiewicz, decorată de iarnă, vă conduce spre căldura Palatului Episcopilor. La prânz, Catedrala oferă un loc de liniște departe de frig. După-amiaza la Muzeul Jucăriilor vă face să uitați de ger, înainte de a vizita Kadzielnia înzăpezită la apusul timpuriu. Ziua se încheie confortabil, la lumina lumânărilor, cu preparate poloneze consistente.",
+            "en": "A frosty morning at the Market Square begins with a hot coffee. Sienkiewicz Street is decorated for winter and leads you to the warm Bishops' Palace. At midday, the Cathedral offers a place for reflection away from the cold. The afternoon at the Toy Museum makes you forget the frost before visiting the snowy Kadzielnia at early sunset. The day ends cozily with candlelight and hearty Polish cuisine."
+          },
+          "stops": [
+            {
+              "name": "Market Square (Rynek)",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stellen auf dem Marktplatz.",
+                "hu": "Vigyázzon a jeges foltokra a téren a reggeli órákban.",
+                "ro": "Atenție la porțiunile înghețate din piață la primele ore.",
+                "en": "Watch out for icy patches on the square during the morning."
+              }
+            },
+            {
+              "name": "Sienkiewicz Street",
+              "tip_5lang": {
+                "de": "Genießen Sie die Winterbeleuchtung in den frühen Abendstunden.",
+                "hu": "Élvezze a téli díszkivilágítást a korai sötétedés idején.",
+                "ro": "Bucurați-vă de iluminatul festiv de iarnă în orele serii.",
+                "en": "Enjoy the winter lights and decorations during the early sunset."
+              }
+            },
+            {
+              "name": "Palace of the Krakow Bishops",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe für Ihre schwere Winterkleidung.",
+                "hu": "Használja a ruhatárat a vastag téli kabátok leadásához.",
+                "ro": "Folosiți garderoba pentru hainele groase de iarnă.",
+                "en": "Use the cloakroom to leave your heavy winter layers while exploring."
+              }
+            },
+            {
+              "name": "Kielce Cathedral",
+              "tip_5lang": {
+                "de": "Im Inneren ist es deutlich wärmer als draußen auf dem Hügel.",
+                "hu": "Odabent jóval melegebb van, mint kint a dombtetőn.",
+                "ro": "În interior este mult mai cald decât afară pe deal.",
+                "en": "The interior is significantly warmer than outside on the hill."
+              }
+            },
+            {
+              "name": "Museum of Toys and Play",
+              "tip_5lang": {
+                "de": "Ein warmer Ort, um die kältesten Stunden des Nachmittags zu verbringen.",
+                "hu": "Ideális fűtött helyszín a délutáni leghidegebb órákra.",
+                "ro": "Un loc încălzit ideal pentru cele mai reci ore ale după-amiezii.",
+                "en": "A warm indoor location to spend the coldest hours of the afternoon."
+              }
+            },
+            {
+              "name": "Kadzielnia Nature Reserve",
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Ort vor 16:00 Uhr, um das Tageslicht zu nutzen.",
+                "hu": "Látogasson el ide 16:00 előtt, hogy még lásson valamit a fényben.",
+                "ro": "Vizitați acest loc înainte de ora 16:00 pentru a profita de lumină.",
+                "en": "Visit this spot before 16:00 to catch the remaining daylight."
+              }
+            },
+            {
+              "name": "Dinner in the city center",
+              "tip_5lang": {
+                "de": "Probieren Sie 'Bigos', ein wärmendes polnisches Nationalgericht.",
+                "hu": "Kóstolja meg a 'Bigos'-t, ami laktató és felmelegít a hidegben.",
+                "ro": "Încercați 'Bigos', un fel de mâncare polonez care vă va încălzi.",
+                "en": "Try 'Bigos', a warming Polish national dish perfect for winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Winter gegen 16:00 Uhr unter, planen Sie Outdoor-Aktivitäten früh.",
+              "Tragen Sie Thermounterwäsche, da der Wind am Schlossberg beißend sein kann.",
+              "Der Marktplatz kann bei Schneefall sehr rutschig sein.",
+              "Kielce liegt nahe am Gebirge, das Wetter kann schnell umschlagen."
+            ],
+            "hu": [
+              "Télen a nap 16:00 körül nyugszik, tervezze korábbra a szabadtéri látnivalókat.",
+              "Viseljen termo-aláöltözetet, mert a várdombon metsző lehet a szél.",
+              "A Fő tér havazás idején rendkívül csúszós lehet.",
+              "Kielce közel van a hegyekhez, a hőmérséklet gyorsan csökkenhet este."
+            ],
+            "ro": [
+              "Soarele apune în jur de ora 16:00 iarna, planificați vizitele în exterior devreme.",
+              "Purtați haine termice, deoarece vântul de pe dealul castelului poate fi tăios.",
+              "Piața Mare poate fi foarte alunecoasă când ninge.",
+              "Kielce este aproape de munți, vremea se poate răci rapid spre seară."
+            ],
+            "en": [
+              "Sunset is around 16:00 in winter, so plan outdoor visits early.",
+              "Wear thermal layers as the wind on the castle hill can be biting.",
+              "The Market Square can be very slippery during snowfall.",
+              "Kielce is near the mountains, and temperatures drop quickly after dark."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -766,6 +966,206 @@
           "Some areas, like the Kadzielnia Reserve, will require you to dismount and walk.",
           "Check your tire pressure and brakes before starting your tour."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag auf zwei Rädern erfordert gute Ausrüstung. Vom Marktplatz geht es zum Bischofspalast, wo Sie die Räder sicher abstellen und im Trockenen Geschichte erleben. Nach dem Spielzeugmuseum bietet ein Mittagessen an der Sienkiewicz-Straße die nötige Stärkung. Die Fahrt zum Geopark und zur Kadzielnia führt durch nasse Natur, die im Regen eine ganz eigene, mystische Atmosphäre ausstrahlt.",
+            "hu": "Egy esős nap két keréken jó felszerelést igényel. A Fő térről a püspöki palotához tekerünk, ahol biztonságban hagyhatjuk a bringákat a száraz városnézés idejére. A Játékmúzeum után a Sienkiewicz utcai ebéd ad új erőt. A Geopark és a Kadzielnia felé vezető út vizes tájakon át visz, amelyek esőben sajátos, misztikus hangulatot árasztanak.",
+            "ro": "O zi ploioasă pe două roți necesită echipament bun. De la Piața Mare mergem spre Palatul Episcopilor, unde puteți lăsa bicicletele în siguranță pentru o vizită uscată. După Muzeul Jucăriilor, un prânz pe strada Sienkiewicz oferă energia necesară. Drumul spre Geoparc și Kadzielnia trece prin natură udă, care are o atmosferă mistică pe ploaie.",
+            "en": "A rainy day on two wheels requires good gear. From the Market Square, ride to the Bishops' Palace, where you can park safely and enjoy history in the dry. After the Toy Museum, lunch on Sienkiewicz Street provides the necessary boost. The ride to Geopark and Kadzielnia takes you through wet nature, which radiates a unique, mystical atmosphere in the rain."
+          },
+          "stops": [
+            {
+              "name": "Market Square & Bike Rental",
+              "tip_5lang": {
+                "de": "Fragen Sie nach einem Leihrad mit Schutzblechen.",
+                "hu": "Kérjen sárvédővel felszerelt kerékpárt a kölcsönzőben.",
+                "ro": "Cereți o bicicletă dotată cu apărători de noroi.",
+                "en": "Ask for a rental bike equipped with mudguards to stay cleaner."
+              }
+            },
+            {
+              "name": "Palace of the Krakow Bishops",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter, falls möglich, während Sie das Museum besuchen.",
+                "hu": "Ha lehet, keressen fedett tárolót a biciklinek a látogatás idejére.",
+                "ro": "Dacă este posibil, lăsați bicicleta la adăpost în timpul vizitei.",
+                "en": "Park your bike under cover if possible while visiting the museum."
+              }
+            },
+            {
+              "name": "Museum of Toys and Play",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Pause, um die nassen Sachen kurz abzutrocknen.",
+                "hu": "Használja ki az időt a vizes ruhák és felszerelések megszárítására.",
+                "ro": "Folosiți pauza pentru a vă șterge echipamentul ud.",
+                "en": "Use this break to dry off your wet gear before the next ride."
+              }
+            },
+            {
+              "name": "Lunch on Sienkiewicz Street",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Lokal mit Sichtkontakt zu Ihrem Fahrrad.",
+                "hu": "Válasszon olyan helyet, ahonnan rálát a lezárt kerékpárra.",
+                "ro": "Alegeți un local de unde puteți vedea bicicleta parcată.",
+                "en": "Choose a place where you can keep an eye on your bike from inside."
+              }
+            },
+            {
+              "name": "Geopark Kielce",
+              "tip_5lang": {
+                "de": "Der Boden kann hier schlammig sein, fahren Sie vorsichtig.",
+                "hu": "A talaj itt sáros lehet, hajtson óvatosan a kanyarokban.",
+                "ro": "Solul poate fi noroios aici, circulați cu atenție.",
+                "en": "The ground can be muddy here; ride carefully on the unpaved sections."
+              }
+            },
+            {
+              "name": "Kadzielnia Nature Reserve",
+              "tip_5lang": {
+                "de": "Die Felsen sind bei Regen rutschig, bleiben Sie auf den Wegen.",
+                "hu": "A sziklák esőben csúszósak, maradjon a kijelölt utakon.",
+                "ro": "Stâncile sunt alunecoase pe ploaie, rămâneți pe poteci.",
+                "en": "The rocks are slippery in the rain; stay on the designated paths."
+              }
+            },
+            {
+              "name": "Return to Market Square",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen, sie könnten bei Nässe weniger greifen.",
+                "hu": "Ellenőrizze a fékeket, nedves időben hosszabb lehet a féktáv.",
+                "ro": "Verificați frânele, pot fi mai puțin eficiente pe timp umed.",
+                "en": "Check your brakes as they might be less responsive in the wet."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie schnelle Kurven auf dem nassen Kopfsteinpflaster im Zentrum.",
+              "Vollständige Regenbekleidung (Hose und Jacke) ist für diese Tour unerlässlich.",
+              "Nutzen Sie die Fahrradständer nahe den Museen, um schnell ins Trockene zu kommen.",
+              "Die Route zum Geopark verläuft teils auf Radwegen, die Pfützen bilden können."
+            ],
+            "hu": [
+              "Kerülje a hirtelen kanyarodást a vizes macskakövön a belvárosban.",
+              "A teljes esőruházat (nadrág és kabát) elengedhetetlen ehhez a túrához.",
+              "Használja a múzeumok közeli tárolóit, hogy gyorsan fedett helyre érjen.",
+              "A Geopark felé vezető kerékpárutakon nagyobb tócsák alakulhatnak ki."
+            ],
+            "ro": [
+              "Evitați virajele bruște pe pavajul ud din centrul orașului.",
+              "Echipamentul complet de ploaie este esențial pentru acest traseu.",
+              "Folosiți suporturile de biciclete de lângă muzee pentru a intra rapid la adăpost.",
+              "Traseul spre Geoparc include piste de biciclete unde se pot forma bălți."
+            ],
+            "en": [
+              "Avoid sharp turns on the wet cobblestones in the city center.",
+              "Full rain gear (trousers and jacket) is essential for this tour.",
+              "Use bike racks near museums to get indoors as quickly as possible.",
+              "The route to the Geopark has sections where puddles can accumulate."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winter-Biking in Kielce ist erfrischend. Dick eingepackt starten Sie am Marktplatz. Der Bischofspalast und das Spielzeugmuseum bieten die nötigen Aufwärmpausen. Mittags genießen Sie die Wintersonne auf der Sienkiewicz-Straße. Die Fahrt zum Geopark und zur Kadzielnia zeigt Ihnen die winterliche Natur Polens in ihrer ganzen Pracht, bevor Sie vor Einbruch der Dunkelheit zum Marktplatz zurückkehren.",
+            "hu": "A téli bringázás Kielcében frissítő élmény. Jól felöltözve indulunk a Fő térről. A püspöki palota és a Játékmúzeum biztosítja a szükséges melegedőket. Délben a Sienkiewicz utcán élvezzük a téli napsütést. A Geopark és a Kadzielnia felé tekerve megismerhetjük Lengyelország téli arcát, majd még sötétedés előtt visszaérünk a Fő térre.",
+            "ro": "Ciclismul de iarnă în Kielce este revigorant. Bine echipați, pornim din Piața Mare. Palatul Episcopilor și Muzeul Jucăriilor oferă pauzele necesare pentru încălzire. La prânz, ne bucurăm de soarele de iarnă pe strada Sienkiewicz. Drumul spre Geoparc și Kadzielnia dezvăluie natura hibernală a Poloniei, înainte de a reveni în piață la lăsarea serii.",
+            "en": "Winter biking in Kielce is refreshing. Bundled up, you start at the Market Square. The Bishops' Palace and the Toy Museum provide the necessary warming breaks. At midday, enjoy the winter sun on Sienkiewicz Street. The ride to Geopark and Kadzielnia shows Poland's winter nature in all its glory before returning to the square by dark."
+          },
+          "stops": [
+            {
+              "name": "Market Square & Bike Rental",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Reifendruck; etwas weniger Druck gibt mehr Grip auf Schnee.",
+                "hu": "Ellenőrizze a guminyomást; a puhább gumi jobban tapad a havon.",
+                "ro": "Verificați presiunea; anvelopele ușor mai moi au aderență mai bună pe zăpadă.",
+                "en": "Check tire pressure; slightly lower pressure offers better grip on snow."
+              }
+            },
+            {
+              "name": "Palace of the Krakow Bishops",
+              "tip_5lang": {
+                "de": "Wärmen Sie Ihre Hände auf, bevor es zum nächsten Ziel geht.",
+                "hu": "Melegítse fel a kezeit alaposan, mielőtt továbbindulna.",
+                "ro": "Încălziți-vă bine mâinile înainte de a pleca spre următoarea destinație.",
+                "en": "Make sure to warm up your hands thoroughly before the next ride."
+              }
+            },
+            {
+              "name": "Museum of Toys and Play",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Kälte für eine Weile zu vergessen.",
+                "hu": "Ideális helyszín, hogy egy időre elfelejtse a kinti fagyot.",
+                "ro": "Un loc ideal pentru a uita de gerul de afară pentru o vreme.",
+                "en": "An ideal location to forget about the frost outside for a while."
+              }
+            },
+            {
+              "name": "Lunch on Sienkiewicz Street",
+              "tip_5lang": {
+                "de": "Bestellen Sie ein heißes Getränk, um die Körpertemperatur zu halten.",
+                "hu": "Rendeljen forró italt, hogy testhőmérséklete ne csökkenjen tovább.",
+                "ro": "Comandați o băutură fierbinte pentru a vă menține temperatura corpului.",
+                "en": "Order a hot drink to keep your core body temperature up."
+              }
+            },
+            {
+              "name": "Geopark Kielce",
+              "tip_5lang": {
+                "de": "Achten Sie auf gefrorenen Matsch auf den Waldwegen.",
+                "hu": "Vigyázzon a megfagyott sárra és jégre az erdei utakon.",
+                "ro": "Atenție la noroiul înghețat de pe potecile din pădure.",
+                "en": "Watch out for frozen mud and icy patches on the forest paths."
+              }
+            },
+            {
+              "name": "Kadzielnia Nature Reserve",
+              "tip_5lang": {
+                "de": "Die Aussicht auf die verschneiten Felsen ist im Winter einmalig.",
+                "hu": "A havas sziklák látványa télen egészen egyedülálló élmény.",
+                "ro": "Priveliștea stâncilor înzăpezite este unică pe timpul iernii.",
+                "en": "The view of the snow-covered cliffs is truly unique in winter."
+              }
+            },
+            {
+              "name": "Return to Market Square",
+              "tip_5lang": {
+                "de": "Schalten Sie Ihr Licht ein, die Dämmerung beginnt früh.",
+                "hu": "Kapcsolja be a lámpákat, mert a szürkület hamar beáll.",
+                "ro": "Aprindeți luminile, deoarece amurgul se instalează devreme.",
+                "en": "Turn on your lights as dusk sets in very early in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Handschuhe, um Erfrierungen an den Fingern zu vermeiden.",
+              "Achten Sie auf 'Black Ice' auf den gepflasterten Straßen im Stadtzentrum.",
+              "Nutzen Sie die Mittagssonne für die längeren Strecken zum Geopark.",
+              "Kielce kann im Winter sehr windig sein, ein Halstuch ist ratsam."
+            ],
+            "hu": [
+              "Viseljen szélálló kesztyűt, hogy megelőzze az ujjak lefagyását.",
+              "Vigyázzon a 'fekete jégre' a belvárosi macskaköves utakon.",
+              "A déli napsütéses órákat használja a Geopark felé vezető hosszabb útra.",
+              "Kielce télen szeles lehet, egy sál vagy csősál mindenképp javasolt."
+            ],
+            "ro": [
+              "Purtați mănuși rezistente la vânt pentru a evita înghețarea degetelor.",
+              "Atenție la gheața transparentă de pe străzile pavate din centru.",
+              "Profitați de soarele de la prânz pentru segmentele mai lungi spre Geoparc.",
+              "Kielce poate fi foarte vântos iarna; o eșarfă groasă este recomandată."
+            ],
+            "en": [
+              "Wear windproof gloves to prevent your fingers from freezing.",
+              "Watch out for 'black ice' on the paved streets in the city center.",
+              "Use the midday sun for the longer stretches toward the Geopark.",
+              "Kielce can be very windy in winter; a neck warmer is highly recommended."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1122,6 +1522,188 @@
           "The cluster-walking method saves time on finding parking for each individual sight.",
           "Plan for extra time for traffic during peak hours."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein Regentag in Kielce lässt sich am besten mit dem Auto bewältigen. Parken Sie direkt im Zentrum und besuchen Sie den Marktplatz und den Bischofspalast ohne lange Wege im Freien. Mittags fahren Sie bequem zum Geopark und zur Kadzielnia, wo Sie die Aussichtspunkte fast direkt vom Parkplatz aus erreichen können. Der Tag endet entspannt mit einer Fahrt zum Abendessen, während der Regen gegen die Scheiben prasselt.",
+            "hu": "Egy esős nap Kielcében autóval a legkényelmesebb. Parkoljon közvetlenül a központban, így a Fő tér és a püspöki palota is csak pár lépés. Délben guruljon át a Geoparkhoz és a Kadzielniához, ahol a kilátópontok közel vannak a parkolókhoz. A napot egy nyugodt autózással zárjuk a vacsora helyszínére, miközben az eső kopog a szélvédőn.",
+            "ro": "O zi ploioasă în Kielce este cel mai confortabil de parcurs cu mașina. Parcați direct în centru pentru a vizita Piața Mare și Palatul Episcopilor fără a merge mult prin ploaie. La prânz, conduceți spre Geoparc și Kadzielnia, unde punctele de belvedere sunt aproape de parcări. Ziua se încheie relaxat cu o scurtă cursă spre cină.",
+            "en": "A rainy day in Kielce is most comfortably handled by car. Park directly in the center to visit the Market Square and the Bishops' Palace with minimal walking in the wet. At midday, drive to the Geopark and Kadzielnia, where viewpoints are close to the parking areas. The day ends with a relaxed drive to dinner while the rain taps on the windshield."
+          },
+          "stops": [
+            {
+              "name": "Parking near the Market Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie Parkhäuser, um trockenen Fußes in die Stadt zu gelangen.",
+                "hu": "Válasszon fedett parkolót, hogy száraz lábbal érjen be a központba.",
+                "ro": "Folosiți parcările acoperite pentru a ajunge în centru fără a vă uda.",
+                "en": "Use covered parking garages to reach the center while staying dry."
+              }
+            },
+            {
+              "name": "Market Square & Sienkiewicz Street",
+              "tip_5lang": {
+                "de": "Lassen Sie Ihren Regenschirm griffbereit im Auto.",
+                "hu": "Tartsa az esernyőt könnyen elérhető helyen az autóban.",
+                "ro": "Țineți umbrela la îndemână în mașină.",
+                "en": "Keep your umbrella within easy reach inside the car."
+              }
+            },
+            {
+              "name": "Palace of the Krakow Bishops & Cathedral",
+              "tip_5lang": {
+                "de": "Es gibt Parkplätze sehr nah am Schlosshügel.",
+                "hu": "A várdomb közvetlen közelében is találhatók parkolóhelyek.",
+                "ro": "Există locuri de parcare chiar lângă dealul castelului.",
+                "en": "There are parking spaces located very close to the castle hill."
+              }
+            },
+            {
+              "name": "Drive to Geopark Kielce",
+              "tip_5lang": {
+                "de": "Vermeiden Sie bei starkem Regen unbefestigte Seitenstreifen.",
+                "hu": "Nagy esőben kerülje a nem aszfaltozott útpadkákat.",
+                "ro": "Evitați acostamentele neasfaltate în timpul ploilor torențiale.",
+                "en": "Avoid unpaved road shoulders during heavy rain."
+              }
+            },
+            {
+              "name": "Kadzielnia Nature Reserve",
+              "tip_5lang": {
+                "de": "Der Hauptparkplatz bietet einen guten Blick, auch wenn es stark regnet.",
+                "hu": "A főparkolóból akkor is jó a kilátás, ha épp szakad az eső.",
+                "ro": "Parcarea principală oferă o vedere bună chiar dacă plouă torențial.",
+                "en": "The main parking lot offers a good view even if it's pouring rain."
+              }
+            },
+            {
+              "name": "Drive back to the center for dinner",
+              "tip_5lang": {
+                "de": "Planen Sie etwas mehr Zeit für die Parkplatzsuche am Abend ein.",
+                "hu": "Számoljon kicsit több idővel a belvárosi parkoláshoz este.",
+                "ro": "Alocați puțin mai mult timp pentru găsirea unui loc de parcare seara.",
+                "en": "Allow a bit more time for finding a parking spot in the center at night."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Scheibenwischer vor der Fahrt durch das hügelige Umland.",
+              "Die Parkgebühren im Zentrum können bequem per App bezahlt werden.",
+              "Nutzen Sie die Sitzheizung, um nach den Außenbesuchen schnell wieder warm zu werden.",
+              "Einige Straßen in der Nähe der Kadzielnia können bei Regen Pfützen bilden."
+            ],
+            "hu": [
+              "Ellenőrizze az ablaktörlőket, mielőtt a dombos környékre indulna.",
+              "A belvárosi parkolási díjakat kényelmesen fizetheti mobilalkalmazással.",
+              "Használja az ülésfűtést a gyors felmelegedéshez a szabadtéri látogatások után.",
+              "A Kadzielnia környéki utakon esőben nagyobb tócsákra lehet számítani."
+            ],
+            "ro": [
+              "Verificați ștergătoarele înainte de a pleca spre zonele deluroase.",
+              "Taxele de parcare din centru pot fi plătite ușor prin aplicații mobile.",
+              "Folosiți încălzirea în scaune pentru a vă încălzi rapid după vizitele externe.",
+              "Unele străzi de lângă Kadzielnia pot acumula apă în timpul ploii."
+            ],
+            "en": [
+              "Check your wipers before driving around the hilly outskirts.",
+              "Parking fees in the center can be conveniently paid via mobile apps.",
+              "Use the seat heating to warm up quickly after outdoor stops.",
+              "Some roads near Kadzielnia can accumulate large puddles during rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist der Winter in Kielce ein Genuss. Sie starten warm am Marktplatz und fahren dann zum prächtigen Bischofspalast. Mittags bringt Sie das Auto schnell zum Geopark, während Sie draußen die verschneite Landschaft bewundern. Die Kadzielnia wirkt im Winter wie eine Eisburg. Den Tag beschließen Sie mit einer kurzen Fahrt zurück in die Stadt, wo ein warmes Abendessen auf Sie wartet.",
+            "hu": "Autóval a téli Kielce igazi élvezet. Melegben indulunk a Fő térről, majd a püspöki palotához hajtunk. Délben a kocsi gyorsan elvisz a Geoparkhoz, miközben az ablakból csodálhatjuk a havas tájat. A Kadzielnia télen olyan, mint egy jégvár. A napot egy rövid autózással zárjuk vissza a városba, ahol forró vacsora vár ránk.",
+            "ro": "Iarna în Kielce este o plăcere cu mașina. Porniți la drum din Piața Mare și mergeți spre Palatul Episcopilor. La prânz, mașina vă duce rapid la Geoparc, în timp ce admirați peisajul înzăpezit de la fereastră. Kadzielnia arată ca un castel de gheață iarna. Ziua se încheie cu o scurtă cursă înapoi în oraș pentru o cină caldă.",
+            "en": "Winter in Kielce is a treat by car. Start in comfort at the Market Square and head to the magnificent Bishops' Palace. At midday, the car whiskies you to the Geopark while you admire the snowy scenery from the window. Kadzielnia looks like an ice castle in winter. The day concludes with a short drive back to the city for a warm dinner."
+          },
+          "stops": [
+            {
+              "name": "Parking near the Market Square",
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihr Scheibenwischwasser frostsicher ist.",
+                "hu": "Győződjön meg róla, hogy fagyálló szélvédőmosót használ.",
+                "ro": "Asigurați-vă că folosiți lichid de parbriz rezistent la îngheț.",
+                "en": "Ensure you are using frost-resistant windshield washer fluid."
+              }
+            },
+            {
+              "name": "Market Square & Sienkiewicz Street",
+              "tip_5lang": {
+                "de": "Tragen Sie griffige Schuhe für den Weg vom Parkplatz.",
+                "hu": "Viseljen jól tapadó talpú cipőt a parkolótól vezető úton.",
+                "ro": "Purtați încălțăminte cu aderență bună pentru drumul de la parcare.",
+                "en": "Wear shoes with good grip for the walk from the parking lot."
+              }
+            },
+            {
+              "name": "Palace of the Krakow Bishops & Cathedral",
+              "tip_5lang": {
+                "de": "Parken Sie nicht unter Bäumen, falls Schnee oder Eis herunterfallen könnte.",
+                "hu": "Ne parkoljon fák alatt, ha fennáll a hó- vagy jégomlás veszélye.",
+                "ro": "Nu parcați sub copaci dacă există risc de căderi de zăpadă sau gheață.",
+                "en": "Avoid parking under trees if there's a risk of falling snow or ice."
+              }
+            },
+            {
+              "name": "Drive to Geopark Kielce",
+              "tip_5lang": {
+                "de": "Vorsicht vor Straßenglätte in den schattigen Waldabschnitten.",
+                "hu": "Vigyázzon a jegesedésre az út árnyékos, erdei szakaszain.",
+                "ro": "Atenție la porțiunile de drum înghețate în zonele cu umbră.",
+                "en": "Watch out for road icing in the shaded, forested sections."
+              }
+            },
+            {
+              "name": "Kadzielnia Nature Reserve",
+              "tip_5lang": {
+                "de": "Das Auto bietet einen warmen Rückzugsort nach dem Fotostopp.",
+                "hu": "Az autó meleg menedéket nyújt a fotózás után.",
+                "ro": "Mașina oferă un refugiu cald după sesiunea de fotografii.",
+                "en": "The car provides a warm retreat after your photography stop."
+              }
+            },
+            {
+              "name": "Drive back to the center for dinner",
+              "tip_5lang": {
+                "de": "Lassen Sie die Fenster kurz einen Spalt offen, um Beschlagen zu vermeiden.",
+                "hu": "Húzza le résnyire az ablakot, hogy elkerülje a párásodást.",
+                "ro": "Lăsați geamul puțin deschis pentru a evita aburirea.",
+                "en": "Crack the window slightly to help prevent fogging while driving."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in dieser Region Polens zwischen November und März Pflicht.",
+              "Führen Sie einen Eiskratzer und einen kleinen Besen für den Schnee mit.",
+              "Achten Sie auf Wildwechsel in der Nähe des Geoparks bei Dämmerung.",
+              "Batterien schwächeln bei Kälte; stellen Sie sicher, dass Ihr Wagen gut anspringt."
+            ],
+            "hu": [
+              "November és március között ebben a régióban kötelező a téli gumi.",
+              "Mindig legyen kéznél jégkaparó és egy kefe a hó eltakarításához.",
+              "A szürkületben figyeljen a vadon élő állatokra a Geopark környékén.",
+              "A hidegben az akkumulátor gyengülhet; ellenőrizze az autó állapotát."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii în această regiune între noiembrie și martie.",
+              "Aveți întotdeauna la îndemână o racletă și o perie pentru zăpadă.",
+              "Atenție la animalele sălbatice din zona Geoparcului la lăsarea serii.",
+              "Bateriile auto pot slăbi la ger; asigurați-vă că mașina pornește bine."
+            ],
+            "en": [
+              "Winter tires are mandatory in this region of Poland from November to March.",
+              "Always carry an ice scraper and a small brush for clearing snow.",
+              "Watch out for wildlife crossing near the Geopark during twilight.",
+              "Car batteries can weaken in the cold; ensure your vehicle is in good condition."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1478,6 +2060,188 @@
           "Most buses are modern, but keep some change handy in case you need to buy a ticket on board.",
           "Be aware of the stop names, as they may not always match the attraction names."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie das gut ausgebaute Busnetz von Kielce an diesem Regentag. Vom Marktplatz gelangen Sie schnell zum Bischofspalast. Mittags bringt Sie ein Bus direkt zur Kathedrale und zum Játékmúzeum. Die Fahrt zur Kadzielnia und zum Geopark erspart Ihnen lange Fußwege im Regen. Den Abend lassen Sie gemütlich im Zentrum ausklingen, während Sie bequem mit dem Bus zurückkehren.",
+            "hu": "Használja Kielce jól kiépített buszhálózatát ezen az esős napon. A Fő térről gyorsan elérheti a püspöki palotát. Délben a busz közvetlenül a katedrálishoz és a Játékmúzeumhoz visz. A Kadzielnia és a Geopark felé vezető út így megkíméli a hosszú, esős gyaloglástól. Az estét a belvárosban zárjuk, ahonnan kényelmesen visszatérhet szállására.",
+            "ro": "Folosiți rețeaua de autobuze bine pusă la punct din Kielce în această zi ploioasă. Din Piața Mare ajungeți rapid la Palatul Episcopilor. La prânz, un autobuz vă duce direct la Catedrală și la Muzeul Jucăriilor. Drumul spre Kadzielnia și Geoparc vă scutește de plimbări lungi prin ploaie. Încheiați seara confortabil în centru.",
+            "en": "Use Kielce's well-developed bus network on this rainy day. From the Market Square, reach the Bishops' Palace quickly. At midday, a bus takes you directly to the Cathedral and the Toy Museum. The trip to Kadzielnia and the Geopark saves you from long walks in the rain. Conclude the evening cozily in the center before heading back by bus."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Market Square",
+              "tip_5lang": {
+                "de": "Die meisten Haltestellen im Zentrum sind überdacht.",
+                "hu": "A belvárosi buszmegállók többsége fedett.",
+                "ro": "Majoritatea stațiilor din centru sunt acoperite.",
+                "en": "Most of the bus stops in the center are covered for protection."
+              }
+            },
+            {
+              "name": "Palace of the Krakow Bishops",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle liegt nur wenige Gehminuten vom Eingang entfernt.",
+                "hu": "A buszmegálló mindössze pár perc sétára található a bejárattól.",
+                "ro": "Stația de autobuz este la doar câteva minute de mers pe jos de intrare.",
+                "en": "The bus stop is located just a few minutes' walk from the entrance."
+              }
+            },
+            {
+              "name": "Cathedral & Toy Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit im Museum, um auf den nächsten Bus zu warten.",
+                "hu": "Használja ki a múzeumi időt a következő busz érkezéséig.",
+                "ro": "Folosiți timpul în muzeu pentru a aștepta următorul autobuz.",
+                "en": "Use your time in the museum to wait for the next scheduled bus."
+              }
+            },
+            {
+              "name": "Bus ride to Kadzielnia Reserve",
+              "tip_5lang": {
+                "de": "Genießen Sie die trockene Fahrt und den Ausblick aus dem Fenster.",
+                "hu": "Élvezze a száraz utazást és a kilátást az ablakból.",
+                "ro": "Bucurați-vă de drumul uscat și de priveliștea de la fereastră.",
+                "en": "Enjoy the dry ride and the views from the bus window."
+              }
+            },
+            {
+              "name": "Geopark Kielce",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Abfahrtszeiten vorab, um nicht im Regen zu warten.",
+                "hu": "Ellenőrizze előre a menetrendet, hogy ne kelljen kint várakoznia.",
+                "ro": "Verificați orarul în avans pentru a nu aștepta în ploaie.",
+                "en": "Check the schedule in advance so you don't have to wait in the rain."
+              }
+            },
+            {
+              "name": "Return to the center",
+              "tip_5lang": {
+                "de": "Die Busse am Abend verkehren regelmäßig ins Zentrum.",
+                "hu": "Az esti buszok rendszeresen közlekednek a központ felé.",
+                "ro": "Autobuzele de seară circulă regulat spre centru.",
+                "en": "Evening buses run frequently back toward the city center."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrkarten können direkt im Bus an Automaten gekauft werden.",
+              "Nutzen Sie eine Transit-App für Echtzeit-Abfahrtszeiten in Kielce.",
+              "Halten Sie Kleingeld oder eine kontaktlose Karte für den Ticketkauf bereit.",
+              "An Regentagen können Busse aufgrund des Verkehrs leicht verspätet sein."
+            ],
+            "hu": [
+              "Jegyet közvetlenül a buszon lévő automatákból is vásárolhat.",
+              "Használjon közlekedési appot a valós idejű menetrendhez.",
+              "Készítsen elő aprópénzt vagy bankkártyát a jegyvásárláshoz.",
+              "Esős napokon a forgalom miatt előfordulhatnak kisebb késések."
+            ],
+            "ro": [
+              "Biletele pot fi cumpărate direct de la automatele din autobuz.",
+              "Folosiți o aplicație de transport pentru orarul în timp real.",
+              "Aveți pregătite monede sau un card contactless pentru bilet.",
+              "În zilele ploioase, autobuzele pot avea mici întârzieri din cauza traficului."
+            ],
+            "en": [
+              "Tickets can be purchased directly from machines inside the buses.",
+              "Use a transit app for real-time departure information in Kielce.",
+              "Have change or a contactless card ready for ticket purchases.",
+              "Buses may experience slight delays on rainy days due to traffic."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie das winterliche Kielce bequem mit dem Bus. Die warmen Fahrzeuge bringen Sie vom Marktplatz zum prachtvollen Bischofspalast. Mittags können Sie sich während der Fahrt zur Kathedrale und zum Játékmúzeum aufwärmen. Ein Bus bringt Sie dann zur verschneiten Kadzielnia und zum Geopark, wo Sie die Winterlandschaft ohne Erfrierungen genießen können. Der Tag endet mit einer gemütlichen Fahrt zurück ins Herz der Stadt.",
+            "hu": "Ismerje meg a téli Kielcét kényelmesen, busszal. A fűtött járművek a Fő térről a püspöki palotához repítik. Délben felmelegedhet a katedrálishoz és a Játékmúzeumhoz vezető úton. A busz elviszi a havas Kadzielniához és a Geoparkhoz is, így fagyoskodás nélkül élvezheti a tájat. A napot egy hangulatos utazással zárjuk vissza a város szívébe.",
+            "ro": "Experimentați Kielce hibernal confortabil cu autobuzul. Vehiculele încălzite vă duc din Piața Mare la Palatul Episcopilor. La prânz, vă puteți încălzi în timpul drumului spre Catedrală și Muzeul Jucăriilor. Autobuzul vă duce apoi la Kadzielnia și Geoparc pentru a vedea peisajul de iarnă fără a îngheța.",
+            "en": "Experience winter in Kielce comfortably by bus. The heated vehicles take you from the Market Square to the grand Bishops' Palace. At midday, warm up during the ride to the Cathedral and the Toy Museum. A bus then whisks you to the snowy Kadzielnia and Geopark, letting you enjoy the winter landscape without the frostbite."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Market Square",
+              "tip_5lang": {
+                "de": "Warten Sie in einem nahegelegenen Café, wenn der Bus Verspätung hat.",
+                "hu": "Várjon egy közeli kávézóban, ha a busz esetleg késne.",
+                "ro": "Așteptați într-o cafenea din apropiere dacă autobuzul întârzie.",
+                "en": "Wait in a nearby cafe if the bus happens to be running late."
+              }
+            },
+            {
+              "name": "Palace of the Krakow Bishops",
+              "tip_5lang": {
+                "de": "Bewahren Sie Ihr Busticket griffbereit in der Jackentasche auf.",
+                "hu": "Tartsa a buszjegyét könnyen elérhető helyen a kabátzsebében.",
+                "ro": "Țineți biletul de autobuz la îndemână în buzunarul hainei.",
+                "en": "Keep your bus ticket easily accessible in your coat pocket."
+              }
+            },
+            {
+              "name": "Cathedral & Toy Museum",
+              "tip_5lang": {
+                "de": "Die Heizung im Bus ist eine Wohltat nach dem Hügelbesuch.",
+                "hu": "A busz fűtése igazi áldás lesz a várdombi séta után.",
+                "ro": "Căldura din autobuz va fi o binecuvântare după vizita de pe deal.",
+                "en": "The heating on the bus will be a blessing after your hill visit."
+              }
+            },
+            {
+              "name": "Bus ride to Kadzielnia Reserve",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Fahrt für eine kurze Aufwärmpause.",
+                "hu": "Használja ki az utazást egy rövid melegedő szünetre.",
+                "ro": "Folosiți drumul pentru o scurtă pauză de încălzire.",
+                "en": "Use the duration of the ride as a short warming-up break."
+              }
+            },
+            {
+              "name": "Geopark Kielce",
+              "tip_5lang": {
+                "de": "Die Haltestellen außerhalb des Zentrums können zugig sein.",
+                "hu": "A központon kívüli buszmegállók szelesebbek lehetnek.",
+                "ro": "Stațiile de autobuz din afara centrului pot fi expuse vântului.",
+                "en": "Bus stops outside the city center can be quite windy."
+              }
+            },
+            {
+              "name": "Return to the center",
+              "tip_5lang": {
+                "de": "In den Abendstunden sind die Busse oft weniger voll.",
+                "hu": "Az esti órákban a buszok gyakran kevésbé zsúfoltak.",
+                "ro": "În orele serii, autobuzele sunt adesea mai puțin aglomerate.",
+                "en": "Buses are often less crowded during the late evening hours."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Busse in Kielce sind im Winter gut beheizt.",
+              "Kaufen Sie 24-Stunden-Tickets, um flexibel umsteigen zu können.",
+              "Abgelegene Haltestellen können bei Schneefall schwerer zugänglich sein.",
+              "Achten Sie auf die Anzeigen im Bus für die nächste Haltestelle."
+            ],
+            "hu": [
+              "Kielce buszai télen jól fűtöttek, kellemes rajtuk az utazás.",
+              "Vásároljon 24 órás jegyet a rugalmas átszállásokhoz.",
+              "A távolabbi megállók havazás idején nehezebben megközelíthetők.",
+              "Figyelje a buszon lévő kijelzőket a következő megállóhelyhez."
+            ],
+            "ro": [
+              "Autobuzele din Kielce sunt bine încălzite pe timpul iernii.",
+              "Cumpărați bilete de 24 de ore pentru transferuri flexibile.",
+              "Stațiile mai îndepărtate pot fi mai greu accesibile când ninge.",
+              "Urmăriți afișajele din autobuz pentru următoarea stație."
+            ],
+            "en": [
+              "Buses in Kielce are well-heated during the winter months.",
+              "Purchase 24-hour tickets for flexible transfers between lines.",
+              "Remote bus stops may be harder to access during heavy snowfall.",
+              "Watch the displays inside the bus for next stop announcements."
+            ]
+          }
+        }
       }
     }
   }

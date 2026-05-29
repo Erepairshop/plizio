@@ -356,6 +356,196 @@
           "Check the museum's opening hours in advance.",
           "Some paths near the river can be uneven."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt am zentralen Platz von Tapa unter grauem Himmel. Schützen Sie sich unter den Vordächern, bevor Sie zur St. Jakobs-Kirche weitergehen. Den Mittag verbringen Sie im Tapa-Museum, einem idealen Zufluchtsort vor dem Dauerregen. Nachmittags bietet das Bahnhofsgebäude Schutz, während Sie die Eisenbahngeschichte erkunden. Der Tag endet mit einem feuchten Spaziergang am Fluss Valgejõgi, wo die Wege bei Regen oft schlammig sind.",
+            "hu": "A nap esernyővel indul Tapa főterén. A reggeli szürkeségben érdemes gyorsan behúzódni a Szent Jakab-templomba. A délutánt töltse a Tapa Múzeum falai között, amely tökéletes menedék a folyamatos esőzés elől. Később a vasútállomás patinás épülete nyújt fedezéket, miközben az ipari múltat idézzük fel. Az estét a Valgejõgi-folyó mentén zárjuk, ahol a csapadékos időben a természet nyersebb arcát mutatja.",
+            "ro": "Ziua începe în piața centrală din Tapa sub un cer gri. Adăpostiți-vă sub umbrelă în drum spre Biserica Sf. Iacob. Petreceți amiaza în Muzeul Tapa, refugiul ideal împotriva ploii persistente. După-amiaza, clădirea gării oferă protecție în timp ce explorați istoria feroviară. Ziua se încheie cu o plimbare umedă pe lângă râul Valgejõgi, unde potecile pot deveni noroioase în condiții de precipitații.",
+            "en": "The day begins at Tapa's central square under grey skies. Keep your umbrella ready as you move toward St. Jacob's Church. Spend mid-day inside the Tapa Museum, an ideal sanctuary from the persistent rain. In the afternoon, the railway station building provides cover while exploring industrial heritage. The day ends with a damp walk by the Valgejõgi River, where the paths show a raw side of nature in the wet weather."
+          },
+          "stops": [
+            {
+              "name": "Central Square of Tapa",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den Vordächern der umliegenden Cafés.",
+                "hu": "Használja a környező kávézók előtetőit az eső elleni védekezéshez.",
+                "ro": "Căutați adăpost sub copertinele cafenelelor din jur.",
+                "en": "Use the canopies of surrounding cafes to stay dry while observing the square."
+              }
+            },
+            {
+              "name": "St. Jacob's Church",
+              "tip_5lang": {
+                "de": "Ein trockener Ort, um die neugotische Architektur zu bewundern.",
+                "hu": "Száraz helyszín a neogótikus építészet megcsodálásához.",
+                "ro": "Un loc uscat pentru a admira arhitectura neogotică.",
+                "en": "A perfect indoor spot to appreciate neo-Gothic architecture away from the rain."
+              }
+            },
+            {
+              "name": "Tapa Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den langen Aufenthalt, um die Kleidung zu trocknen.",
+                "hu": "Használja ki a hosszú látogatást a ruházat megszárítására.",
+                "ro": "Profită de vizita lungă pentru a-ți usca hainele.",
+                "en": "Take advantage of the indoor exhibits to dry off during the rainiest hours."
+              }
+            },
+            {
+              "name": "Tapa Railway Station",
+              "tip_5lang": {
+                "de": "Die historische Wartehalle bietet Schutz vor Wind und Regen.",
+                "hu": "A történelmi váróterem védelmet nyújt a szél és az eső elől.",
+                "ro": "Sala de așteptare istorică oferă protecție împotriva vântului și ploii.",
+                "en": "The historic waiting hall provides excellent shelter from wind and downpours."
+              }
+            },
+            {
+              "name": "Historic Military Grounds",
+              "tip_5lang": {
+                "de": "Vorsicht vor tiefen Pfützen auf den unbefestigten Flächen.",
+                "hu": "Vigyázzon a mély tócsákra a burkolatlan területeken.",
+                "ro": "Atenție la bălțile adânci de pe suprafețele neasfaltate.",
+                "en": "Be careful of deep puddles on the unpaved sections of the grounds."
+              }
+            },
+            {
+              "name": "Valgejõgi River",
+              "tip_5lang": {
+                "de": "Wasserfeste Schuhe sind für die aufgeweichten Uferwege ratsam.",
+                "hu": "Vízálló lábbeli ajánlott a felázott parti ösvényekhez.",
+                "ro": "Încălțămintea impermeabilă este recomandată pentru potecile de pe mal.",
+                "en": "Waterproof footwear is highly recommended for the soaked riverside paths."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine hochwertige Regenjacke, da der Wind in Tapa oft stark weht.",
+              "Die Wartehalle am Bahnhof ist beheizt und bietet guten Schutz.",
+              "Achten Sie auf Spritzwasser von vorbeifahrenden LKWs am Hauptplatz.",
+              "Die Wege am Fluss Valgejõgi können bei Regen rutschig und lehmig sein.",
+              "Ein Taschenschirm ist bei den kurzen Wegen zwischen den Gebäuden sehr praktisch."
+            ],
+            "hu": [
+              "Viseljen jó minőségű esőkabátot, mert Tapán gyakran fúj erős szél.",
+              "A vasútállomás váróterme fűtött, kiváló menedék a nagyobb zivatarok idején.",
+              "A főtéren vigyázzon az elhaladó teherautók által felcsapott vízre.",
+              "A Valgejõgi-folyó menti ösvények sárassá és csúszóssá válhatnak.",
+              "A rövid távolságok miatt egy kisméretű esernyő is elegendő a helyszínek között."
+            ],
+            "ro": [
+              "Purtați o jachetă de ploaie de calitate, deoarece vântul suflă adesea tare în Tapa.",
+              "Sala de așteptare a gării este încălzită și oferă un adăpost excelent.",
+              "Atenție la apa împroșcată de camioanele care trec prin piața centrală.",
+              "Potecile de-a lungul râului Valgejõgi pot deveni alunecoase și noroioase.",
+              "O umbrelă compactă este utilă pentru distanțele scurte dintre clădiri."
+            ],
+            "en": [
+              "Wear a high-quality raincoat as the wind in Tapa can be quite strong.",
+              "The railway station waiting room is heated and offers great shelter.",
+              "Be careful of splashing water from passing trucks in the central square.",
+              "Riverside paths along the Valgejõgi can become very slippery and muddy.",
+              "A compact umbrella is practical for the short distances between indoor stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens empfängt Sie ein frostiges Tapa. Die St. Jakobs-Kirche bietet einen Moment der Stille in der Kälte. Mittags wärmen Sie sich in den Ausstellungsräumen des Tapa-Museums auf. Da die Sonne bereits um 15:30 Uhr sinkt, besuchen Sie die historischen Militärgelände im Dämmerlicht, was ihnen eine mystische Atmosphäre verleiht. Der Tag endet am vereisten Flussufer des Valgejõgi bei klarem Sternenhimmel.",
+            "hu": "A reggel fagyos hangulatban indul Tapa főterén. A Szent Jakab-templom csendes menedék a metsző hidegben. Délben a Tapa Múzeum kiállítóterei nyújtanak meleget. Mivel a nap már délután fél 4-kor nyugovóra tér, a katonai területeket már szürkületben látogatjuk meg, ami különleges hangulatot ad a helynek. Az estét a Valgejõgi jeges partján, a csillagos ég alatt zárjuk.",
+            "ro": "Dimineața vă întâmpină un Tapa înghețat. Biserica Sf. Iacob oferă un moment de liniște în frigul tăios. La prânz, vă încălziți în sălile de expoziție ale Muzeului Tapa. Deoarece soarele apune deja la ora 15:30, vizitați terenurile militare istorice în amurg, ceea ce le conferă o atmosferă mistică. Ziua se încheie pe malul înghețat al râului Valgejõgi sub un cer înstelat.",
+            "en": "Morning greets you with a frosty Tapa. St. Jacob's Church offers a quiet moment of respite from the biting cold. At noon, warm up in the exhibition rooms of the Tapa Museum. Since the sun sets as early as 15:30, visit the historic military grounds in the twilight, giving them a mystical atmosphere. The day ends by the frozen banks of the Valgejõgi River under a clear starry sky."
+          },
+          "stops": [
+            {
+              "name": "Central Square of Tapa",
+              "tip_5lang": {
+                "de": "Vorsicht vor Glatteis auf den gepflasterten Flächen am Morgen.",
+                "hu": "Vigyázzon a reggeli jegesedésre a burkolt felületeken.",
+                "ro": "Atenție la gheața de pe suprafețele pavate în timpul dimineții.",
+                "en": "Watch out for black ice on the paved areas during the early morning."
+              }
+            },
+            {
+              "name": "St. Jacob's Church",
+              "tip_5lang": {
+                "de": "Die dicken Steinmauern schützen vor dem schneidenden Wind.",
+                "hu": "A vastag kőfalak védenek a metsző szél ellen.",
+                "ro": "Zidurile groase de piatră oferă protecție împotriva vântului tăios.",
+                "en": "The thick stone walls provide a brief shield against the cutting winter wind."
+              }
+            },
+            {
+              "name": "Tapa Museum",
+              "tip_5lang": {
+                "de": "Der ideale Ort, um die Kälte aus den Knochen zu vertreiben.",
+                "hu": "Ideális helyszín a hideg kipihenésére és a felmelegedésre.",
+                "ro": "Locul ideal pentru a scăpa de frig și a te încălzi.",
+                "en": "The perfect place to shake off the cold and warm up for a long stay."
+              }
+            },
+            {
+              "name": "Tapa Railway Station",
+              "tip_5lang": {
+                "de": "Im Inneren gibt es Sitzmöglichkeiten im beheizten Bereich.",
+                "hu": "A belső térben fűtött váróterem és ülőhelyek találhatók.",
+                "ro": "În interior există locuri de ședere în zona încălzită.",
+                "en": "Inside, there are seating options available in the heated waiting area."
+              }
+            },
+            {
+              "name": "Historic Military Grounds",
+              "tip_5lang": {
+                "de": "Im Winter sind die Ruinen oft malerisch mit Schnee bedeckt.",
+                "hu": "Télen a romokat gyakran festői hótakaró fedi.",
+                "ro": "Iarna, ruinele sunt adesea acoperite pitoresc de zăpadă.",
+                "en": "In winter, the ruins are often covered in a picturesque layer of snow."
+              }
+            },
+            {
+              "name": "Valgejõgi River",
+              "tip_5lang": {
+                "de": "Betreten Sie niemals die Eisfläche des Flusses, sie ist instabil.",
+                "hu": "Soha ne lépjen a folyó jegére, mert az nem biztonságos.",
+                "ro": "Nu călcați niciodată pe gheața râului, deoarece este instabilă.",
+                "en": "Never step on the river ice as it is unstable due to the current."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht in Estland im Winter sehr früh unter, planen Sie Licht ein.",
+              "Tragen Sie Thermo-Unterwäsche; die Temperaturen fallen oft weit unter Null.",
+              "Die Gehwege können extrem glatt sein, nutzen Sie Schuhe mit gutem Profil.",
+              "In Tapa gibt es wenig Schutz vor Wind auf dem offenen Militärgelände.",
+              "Wärmen Sie sich zwischendurch in der Bibliothek oder im Bahnhof auf."
+            ],
+            "hu": [
+              "Észtországban télen nagyon korán sötétedik, tervezzen elemlámpával.",
+              "Viseljen termaruházatot; a hőmérséklet gyakran jóval nulla fok alá süllyed.",
+              "A járdák rendkívül csúszósak lehetnek, használjon bordázott talpú cipőt.",
+              "A nyitott katonai területeken kevés a szélvédett hely, öltözzön rétegesen.",
+              "Melegedjen fel időnként a könyvtárban vagy a vasútállomás várójában."
+            ],
+            "ro": [
+              "Soarele apune foarte devreme în Estonia iarna, planificați-vă vizita cu lumină.",
+              "Purtați lenjerie termică; temperaturile scad adesea mult sub zero grade.",
+              "Trotuarele pot fi extrem de alunecoase, folosiți încălțăminte cu aderență bună.",
+              "Există puțină protecție împotriva vântului pe terenurile militare deschise.",
+              "Încălziți-vă ocazional în bibliotecă sau în sala de așteptare a gării."
+            ],
+            "en": [
+              "The sun sets very early in Estonia during winter, plan for early darkness.",
+              "Wear thermal layers; temperatures in Tapa often drop well below freezing.",
+              "Pavements can be extremely slippery, use boots with good traction.",
+              "There is little wind protection on the open military grounds, dress accordingly.",
+              "Take breaks to warm up in the public library or the railway station."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -706,6 +896,196 @@
           "The town is mostly flat, which makes for easy cycling.",
           "Plan your route to the river, as some paths may not be paved."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie vorsichtig am regennassen Hauptplatz. Die Fahrt zur St. Jakobs-Kirche erfordert auf dem Kopfsteinpflaster Konzentration. Den Mittag verbringen Sie im Museum, während das Fahrrad unter einem Vordach parkt. Nachmittags erkunden Sie das Bahnhofsviertel, achten Sie dabei auf rutschige Schienen. Den Abschluss bildet die Fahrt zum Valgejõgi, wo die Reifen auf den nassen Waldwegen mehr Grip benötigen.",
+            "hu": "Induljon óvatosan az esőáztatta főtérről. A Szent Jakab-templom felé vezető úton figyeljen a csúszós macskakőre. A déli órákat töltse a múzeumban, míg a bicikli egy előtető alatt várakozik. Délután a vasútállomás környékét fedezzük fel, ügyelve a vizes sínekre. A napot a Valgejõgi mentén zárjuk, ahol az erdei utak ilyenkor nagyobb tapadást igényelnek.",
+            "ro": "Porniți cu prudență din piața centrală udată de ploaie. Drumul spre Biserica Sf. Iacob necesită concentrare pe pavajul alunecos. Petreceți amiaza în muzeu, în timp ce bicicleta stă sub o copertină. După-amiaza, explorați zona gării, atenție la șinele umede. Încheiați la râul Valgejõgi, unde anvelopele au nevoie de mai multă aderență pe potecile de pădure.",
+            "en": "Start cautiously from the rain-soaked main square. The ride to St. Jacob's Church requires focus on the slippery cobblestones. Spend mid-day in the museum while your bike is parked under cover. In the afternoon, explore the station area, being careful of wet tracks. End the day at Valgejõgi, where the forest paths require better tire grip in the mud."
+          },
+          "stops": [
+            {
+              "name": "Central Square of Tapa",
+              "tip_5lang": {
+                "de": "Die Markierungen auf dem Asphalt sind bei Nässe extrem rutschig.",
+                "hu": "Az aszfalton lévő útburkolati jelek vizesen rendkívül csúszósak.",
+                "ro": "Marcajele de pe asfalt sunt extrem de alunecoase când sunt ude.",
+                "en": "Road markings on the asphalt are extremely slippery when wet."
+              }
+            },
+            {
+              "name": "St. Jacob's Church",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad nahe an die Kirchenmauer, um es trocken zu halten.",
+                "hu": "Állítsa a biciklit a templom fala mellé, hogy szárazon tartsa.",
+                "ro": "Parcați bicicleta aproape de zidul bisericii pentru a o menține uscată.",
+                "en": "Park your bike close to the church wall to keep the saddle dry."
+              }
+            },
+            {
+              "name": "Tapa Museum",
+              "tip_5lang": {
+                "de": "Ein guter Zeitpunkt, um die Kette nach der Regenfahrt zu ölen.",
+                "hu": "Jó alkalom a lánc megolajozására az esős tekerés után.",
+                "ro": "Un moment bun pentru a unge lanțul după plimbarea prin ploaie.",
+                "en": "A good time to check and oil your chain after riding through the rain."
+              }
+            },
+            {
+              "name": "Tapa Railway Station",
+              "tip_5lang": {
+                "de": "Überqueren Sie Schienen immer im rechten Winkel, um Stürze zu vermeiden.",
+                "hu": "A síneket mindig derékszögben keresztezze az esés elkerülése érdekében.",
+                "ro": "Traversați întotdeauna șinele în unghi drept pentru a evita căzăturile.",
+                "en": "Always cross railway tracks at a right angle to prevent falling on wet steel."
+              }
+            },
+            {
+              "name": "Historic Military Grounds",
+              "tip_5lang": {
+                "de": "Die unbefestigten Wege können tiefe Schlammlöcher aufweisen.",
+                "hu": "A burkolatlan utak mély sárgödröket rejthetnek.",
+                "ro": "Drumurile neasfaltate pot prezenta gropi adânci cu noroi.",
+                "en": "Unpaved paths can develop deep mud holes during heavy rain."
+              }
+            },
+            {
+              "name": "Valgejõgi River",
+              "tip_5lang": {
+                "de": "Vorsicht vor rutschigen Wurzeln auf den Uferpfaden.",
+                "hu": "Vigyázzon a csúszós gyökerekre a parti ösvényeken.",
+                "ro": "Atenție la rădăcinile alunecoase de pe potecile de pe mal.",
+                "en": "Watch out for slippery tree roots on the riverside paths."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie Schutzbleche, um sich vor aufwirbelndem Schmutz zu schützen.",
+              "Vermeiden Sie scharfes Bremsen auf dem nassen Kopfsteinpflaster.",
+              "Die Beleuchtung ist auch tagsüber bei starkem Regen empfehlenswert.",
+              "Tragen Sie wasserfeste Handschuhe für besseren Griff am Lenker.",
+              "Die Bahnübergänge in Tapa sind bei Nässe besonders tückisch."
+            ],
+            "hu": [
+              "Használjon sárvédőt a felcsapódó kosz elleni védelem érdekében.",
+              "Kerülje az erős fékezést a vizes macskaköveken.",
+              "Erős esőben nappal is javasolt a világítás használata.",
+              "Viseljen vízálló kesztyűt a kormány jobb fogása érdekében.",
+              "A tapai vasúti átjárók vizesen különösen veszélyesek a bicikliseknek."
+            ],
+            "ro": [
+              "Folosiți apărători pentru a vă proteja de noroiul împroșcat.",
+              "Evitați frânarea bruscă pe pavajul umed.",
+              "Luminile sunt recomandate și în timpul zilei în caz de ploaie torențială.",
+              "Purtați mănuși impermeabile pentru o mai bună aderență pe ghidon.",
+              "Trecerile la nivel cu calea ferată din Tapa sunt periculoase când sunt ude."
+            ],
+            "en": [
+              "Use mudguards to protect yourself from road spray and dirt.",
+              "Avoid sudden braking on the wet cobblestones near the church.",
+              "Lights are recommended even during the day in heavy rain conditions.",
+              "Wear waterproof gloves for better grip on the handlebars.",
+              "The railway crossings in Tapa are particularly treacherous when wet."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Radtour durch Tapa erfordert Ausrüstung gegen die Kälte. Morgens glitzert der Raureif auf dem zentralen Platz. Die Fahrt zur St. Jakobs-Kirche führt über geräumte, aber oft eisige Straßen. Mittags bietet das Museum eine willkommene Aufwärmpause. Nachmittags erkunden Sie die schneebedeckten Militärgelände, bevor es in der frühen Dunkelheit zum Ufer des Valgejõgi geht.",
+            "hu": "A téli biciklitúra Tapán komoly felkészülést igényel a hideg ellen. Reggel zúzmara csillog a főtéren. A Szent Jakab-templomhoz vezető utak takarítottak, de gyakran jegesek. Délben a múzeum fűtött terei nyújtanak pihenőt. Délután a hófödte katonai területeket járjuk be, majd a korai sötétben a Valgejõgi partja felé vesszük az irányt.",
+            "ro": "O tură cu bicicleta iarna prin Tapa necesită echipament împotriva frigului. Dimineața, promoroaca sclipește în piața centrală. Drumul spre Biserica Sf. Iacob trece pe străzi curățate, dar adesea înghețate. La prânz, muzeul oferă o pauză de încălzire binevenită. După-amiaza, explorați terenurile militare înzăpezite înainte de a merge spre malul Valgejõgi pe întuneric.",
+            "en": "A winter bike tour through Tapa requires serious gear against the cold. In the morning, frost glistens on the central square. The ride to St. Jacob's Church follows cleared but often icy roads. At noon, the museum provides a welcome warming break. In the afternoon, explore the snow-covered military grounds before heading to the Valgejõgi banks in the early dark."
+          },
+          "stops": [
+            {
+              "name": "Central Square of Tapa",
+              "tip_5lang": {
+                "de": "Überprüfen Sie den Reifendruck; etwas weniger Luft gibt mehr Grip auf Schnee.",
+                "hu": "Ellenőrizze a guminyomást; a kevesebb levegő jobb tapadást ad a havon.",
+                "ro": "Verificați presiunea anvelopelor; puțin mai puțin aer oferă aderență pe zăpadă.",
+                "en": "Check your tire pressure; slightly lower pressure provides better grip on snow."
+              }
+            },
+            {
+              "name": "St. Jacob's Church",
+              "tip_5lang": {
+                "de": "Vorsicht vor Schneehaufen an den Straßenrändern.",
+                "hu": "Vigyázzon az út szélén felhalmozott hókupacokra.",
+                "ro": "Atenție la mormanele de zăpadă de pe marginea drumului.",
+                "en": "Watch out for snow piles along the edges of the road."
+              }
+            },
+            {
+              "name": "Tapa Museum",
+              "tip_5lang": {
+                "de": "Klopfen Sie den Schnee von den Schuhen, bevor Sie eintreten.",
+                "hu": "Verje le a havat a cipőjéről, mielőtt belép az épületbe.",
+                "ro": "Scuturați zăpada de pe încălțăminte înainte de a intra.",
+                "en": "Knock the snow off your boots and pedals before entering the museum."
+              }
+            },
+            {
+              "name": "Tapa Railway Station",
+              "tip_5lang": {
+                "de": "Die Bahnübergänge können unter der Schneedecke vereist sein.",
+                "hu": "A vasúti átjárók a hóréteg alatt jegesek lehetnek.",
+                "ro": "Trecerile la nivel pot fi înghețate sub stratul de zăpadă.",
+                "en": "Railway crossings can be hidden and icy under the snow cover."
+              }
+            },
+            {
+              "name": "Historic Military Grounds",
+              "tip_5lang": {
+                "de": "Einige Wege sind im Winter nicht geräumt; Fatbikes sind hier im Vorteil.",
+                "hu": "Néhány út télen nincs takarítva; a fatbike-ok előnyben vannak itt.",
+                "ro": "Unele drumuri nu sunt deszăpezite; bicicletele de tip fatbike au avantaj.",
+                "en": "Some paths are not cleared in winter; fatbikes have an advantage here."
+              }
+            },
+            {
+              "name": "Valgejõgi River",
+              "tip_5lang": {
+                "de": "Die Uferwege können durch festgetretenen Schnee extrem glatt sein.",
+                "hu": "A parti utak a letaposott hó miatt rendkívül csúszósak lehetnek.",
+                "ro": "Potecile de pe mal pot fi extrem de alunecoase din cauza zăpezii bătătorite.",
+                "en": "Riverside paths can be extremely slick due to packed snow and ice."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Spikes-Reifen sind für die winterlichen Straßen in Estland sehr empfohlen.",
+              "Achten Sie auf die Akkulaufzeit Ihrer Beleuchtung bei extremer Kälte.",
+              "Tragen Sie winddichte Kleidung, um den 'Windchill-Effekt' zu minimieren.",
+              "Die Sonne geht früh unter; Reflektoren an der Kleidung sind lebenswichtig.",
+              "Vermeiden Sie das Radfahren bei Schneestürmen; die Sicht ist fast null."
+            ],
+            "hu": [
+              "A szöges gumik használata erősen ajánlott az észt téli utakon.",
+              "Ügyeljen a lámpák akkumulátorára, a hidegben gyorsabban merülnek.",
+              "Viseljen szélálló ruházatot a menetszél hűtő hatása ellen.",
+              "A nap korán nyugszik, a láthatósági mellény vagy fényvisszaverő kötelező.",
+              "Hóvihar idején kerülje a kerékpározást a zéró látótávolság miatt."
+            ],
+            "ro": [
+              "Anvelopele cu ținte sunt foarte recomandate pentru drumurile de iarnă din Estonia.",
+              "Atenție la durata bateriei luminilor în condiții de frig extrem.",
+              "Purtați haine rezistente la vânt pentru a minimiza efectul de răcire.",
+              "Soarele apune devreme; elementele reflectorizante pe haine sunt vitale.",
+              "Evitați mersul pe bicicletă în timpul viscolului; vizibilitatea este aproape zero."
+            ],
+            "en": [
+              "Studded tires are highly recommended for Estonian winter roads.",
+              "Watch your light battery levels as cold temperatures drain them faster.",
+              "Wear windproof clothing to minimize the wind chill effect while riding.",
+              "The sun sets early; reflectors on clothing are vital for safety.",
+              "Avoid cycling during snowstorms as visibility becomes near zero."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1086,6 +1466,214 @@
           "The car gives you the flexibility to explore natural areas further afield.",
           "Be mindful of speed limits, especially in residential areas."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie bequem am zentralen Parkplatz. Bei Regen erreichen Sie die St. Jakobs-Kirche in wenigen Minuten, ohne nass zu werden. Mittags bietet die Fahrt zum Museum Schutz vor dem Wetter. Nachmittags ist die historische Eisenbahnstation ein interessanter Stopp mit Parkmöglichkeiten direkt davor. Den Tag beenden Sie am Valgejõgi, wo Sie die Aussicht bei strömendem Regen aus dem warmen Auto genießen können.",
+            "hu": "Kezdje kényelmesen a központi parkolóban. Esőben pár perc alatt elérheti a Szent Jakab-templomot anélkül, hogy megázna. Délben a múzeumhoz vezető út védelmet nyújt az időjárás elől. Délután a vasútállomás érdekes megálló, közvetlen parkolási lehetőséggel. A napot a Valgejõgi-folyónál zárjuk, ahol az eső áztatta tájat a meleg autóból is megcsodálhatja.",
+            "ro": "Începeți confortabil la parcarea centrală. Pe ploaie, ajungeți la Biserica Sf. Iacob în câteva minute fără să vă udați. La prânz, drumul spre muzeu oferă protecție împotriva vremii. După-amiaza, gara istorică este o oprire interesantă cu parcare chiar în față. Încheiați ziua la Valgejõgi, unde puteți admira peisajul din mașina caldă chiar dacă plouă torențial.",
+            "en": "Start comfortably at the central parking. In the rain, you can reach St. Jacob's Church in minutes without getting wet. At noon, the drive to the museum provides shelter from the elements. In the afternoon, the historic station is an interesting stop with parking right in front. End the day at Valgejõgi, where you can enjoy the view from your warm car even in a downpour."
+          },
+          "stops": [
+            {
+              "name": "Central Parking",
+              "tip_5lang": {
+                "de": "Achten Sie auf große Pfützen in den tiefer liegenden Bereichen des Parkplatzes.",
+                "hu": "Ügyeljen a nagyobb tócsákra a parkoló alacsonyabban fekvő részein.",
+                "ro": "Atenție la bălțile mari din zonele mai joase ale parcării.",
+                "en": "Watch out for large puddles in the lower sections of the parking lot."
+              }
+            },
+            {
+              "name": "Central Square of Tapa",
+              "tip_5lang": {
+                "de": "Kurze Wege zum Platz minimieren den Kontakt mit dem Regen.",
+                "hu": "A rövid séta a térre minimalizálja az esővel való érintkezést.",
+                "ro": "Distanțele scurte până în piață minimizează contactul cu ploaia.",
+                "en": "Short walking distances to the square minimize exposure to the rain."
+              }
+            },
+            {
+              "name": "St. Jacob's Church",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um den Schirm gespannt zu halten.",
+                "hu": "Parkoljon közel a bejárathoz, hogy esernyővel gyorsan beérjen.",
+                "ro": "Parcați aproape de intrare pentru a folosi umbrela eficient.",
+                "en": "Park close to the entrance to facilitate a quick dash with an umbrella."
+              }
+            },
+            {
+              "name": "Tapa Museum",
+              "tip_5lang": {
+                "de": "Das Museum hat einen eigenen kleinen Parkplatz für Besucher.",
+                "hu": "A múzeumnak saját kis parkolója van a látogatók számára.",
+                "ro": "Muzeul are o mică parcare proprie pentru vizitatori.",
+                "en": "The museum has its own small parking area for visitors."
+              }
+            },
+            {
+              "name": "Tapa Railway Station",
+              "tip_5lang": {
+                "de": "Die Sicht beim Rangieren kann bei starkem Regen eingeschränkt sein.",
+                "hu": "Erős esőben a látótávolság korlátozott lehet tolatáskor.",
+                "ro": "Vizibilitatea la manevrare poate fi limitată în caz de ploaie abundentă.",
+                "en": "Visibility while maneuvering can be limited during heavy rain showers."
+              }
+            },
+            {
+              "name": "Historic Military Grounds",
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den befestigten Wegen, um nicht im Schlamm steckenzubleiben.",
+                "hu": "Maradjon a burkolt utakon, hogy ne akadjon el a sárban.",
+                "ro": "Rămâneți pe drumurile asfaltate pentru a nu rămâne blocat în noroi.",
+                "en": "Stay on the paved roads to avoid getting stuck in the mud."
+              }
+            },
+            {
+              "name": "Valgejõgi River",
+              "tip_5lang": {
+                "de": "Parken Sie so, dass Sie den Fluss direkt durch die Windschutzscheibe sehen.",
+                "hu": "Úgy parkoljon, hogy a folyót közvetlenül a szélvédőn át láthassa.",
+                "ro": "Parcați astfel încât să vedeți râul direct prin parbriz.",
+                "en": "Park in a position that allows you to view the river through the windshield."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Scheibenwischer vor der Fahrt durch das ländliche Estland.",
+              "Achten Sie auf Aquaplaning auf der Hauptstraße nach Tapa.",
+              "Halten Sie einen Regenschirm im Auto griffbereit für die kurzen Wege.",
+              "Die Parkplätze am Fluss können bei anhaltendem Regen aufweichen.",
+              "Nutzen Sie die Klimaanlage, um das Beschlagen der Scheiben zu verhindern."
+            ],
+            "hu": [
+              "Ellenőrizze az ablaktörlőket a vidéki észtországi út előtt.",
+              "Ügyeljen az aquaplaning jelenségére a Tapába vezető főúton.",
+              "Tartson kéznél esernyőt az autóban a rövid kiszállásokhoz.",
+              "A folyóparti parkolóhelyek tartós esőben felázhatnak.",
+              "Használja a légkondicionálót a szélvédő párátlanítására."
+            ],
+            "ro": [
+              "Verificați ștergătoarele înainte de a porni prin zona rurală a Estoniei.",
+              "Atenție la acvaplanare pe drumul principal spre Tapa.",
+              "Țineți o umbrelă la îndemână în mașină pentru opririle scurte.",
+              "Locurile de parcare de lângă râu se pot înmuia în caz de ploaie prelungită.",
+              "Folosiți aerul condiționat pentru a preveni aburirea geamurilor."
+            ],
+            "en": [
+              "Check your wipers before driving through rural Estonia.",
+              "Watch out for hydroplaning on the main road leading into Tapa.",
+              "Keep an umbrella easily accessible in the car for short stops.",
+              "Parking spots near the river can become soft during prolonged rain.",
+              "Use the air conditioning to prevent your windows from fogging up."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine Wintertour mit dem Auto ist die komfortabelste Art, Tapa zu erkunden. Morgens befreien Sie den Wagen von Eis, bevor Sie zum zentralen Platz fahren. Die Straßen zur Kirche und zum Museum werden geräumt, erfordern aber Winterreifen. Nachmittags besuchen Sie die verschneiten Militärgelände, während die Standheizung den Wagen warm hält. Den Tag lassen Sie am frostigen Ufer des Valgejõgi ausklingen.",
+            "hu": "A téli autós túra a legkényelmesebb módja Tapa felfedezésének. Reggel jégtelenítse az autót, mielőtt a főtérre hajtana. A templomhoz és a múzeumhoz vezető utakat takarítják, de téli gumi kötelező. Délután a hófödte katonai területeket látogatjuk meg, miközben az autó fűtése melegen tart. A napot a Valgejõgi fagyos partjánál zárjuk.",
+            "ro": "O tură cu mașina iarna este cel mai confortabil mod de a explora Tapa. Dimineața, dezghețați mașina înainte de a merge în piața centrală. Drumurile spre biserică și muzeu sunt curățate, dar necesită anvelope de iarnă. După-amiaza, vizitați terenurile militare înzăpezite în timp ce căldura din mașină vă menține confortabil. Încheiați ziua pe malul înghețat al Valgejõgi.",
+            "en": "A winter car tour is the most comfortable way to explore Tapa. In the morning, de-ice your car before heading to the central square. Roads to the church and museum are cleared but require winter tires. In the afternoon, visit the snowy military grounds while the car's heater keeps you warm. End the day at the frosty banks of the Valgejõgi River."
+          },
+          "stops": [
+            {
+              "name": "Central Parking",
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Parken unter schneebeladenen Bäumen.",
+                "hu": "Kerülje a parkolást hóval terhelt fák alatt.",
+                "ro": "Evitați parcarea sub copaci încărcați cu zăpadă.",
+                "en": "Avoid parking under trees heavily laden with snow."
+              }
+            },
+            {
+              "name": "Central Square of Tapa",
+              "tip_5lang": {
+                "de": "Der Parkplatz kann durch festgefahrenen Schnee rutschig sein.",
+                "hu": "A parkoló a letaposott hó miatt csúszós lehet.",
+                "ro": "Parcarea poate fi alunecoasă din cauza zăpezii bătătorite.",
+                "en": "The parking area can be slippery due to packed snow."
+              }
+            },
+            {
+              "name": "St. Jacob's Church",
+              "tip_5lang": {
+                "de": "Parken Sie so, dass Sie beim Losfahren nicht im Schneehaufen steckenbleiben.",
+                "hu": "Úgy parkoljon, hogy induláskor ne akadjon el a hókupacban.",
+                "ro": "Parcați astfel încât să nu rămâneți blocat în zăpadă la plecare.",
+                "en": "Park in a way that ensures you won't get stuck in snow banks when leaving."
+              }
+            },
+            {
+              "name": "Tapa Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit im Museum, um den Motor abkühlen zu lassen.",
+                "hu": "Használja ki a múzeumban töltött időt, hagyja pihenni az autót.",
+                "ro": "Profită de timpul petrecut în muzeu pentru a lăsa mașina să se răcească.",
+                "en": "Use the museum time to let the car rest in the cold surroundings."
+              }
+            },
+            {
+              "name": "Tapa Railway Station",
+              "tip_5lang": {
+                "de": "An Bahnübergängen kann sich Eis unter dem Neuschnee bilden.",
+                "hu": "A vasúti átjáróknál jég alakulhat ki a friss hó alatt.",
+                "ro": "La trecerile la nivel se poate forma gheață sub zăpada proaspătă.",
+                "en": "Ice can form under fresh snow at railway crossings."
+              }
+            },
+            {
+              "name": "Historic Military Grounds",
+              "tip_5lang": {
+                "de": "Einige Nebenwege könnten für normale PKW unpassierbar sein.",
+                "hu": "Néhány mellékút járhatatlan lehet normál személyautóknak.",
+                "ro": "Unele drumuri secundare pot fi impracticabile pentru mașini mici.",
+                "en": "Some side roads might be impassable for standard cars without 4WD."
+              }
+            },
+            {
+              "name": "Valgejõgi River",
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor nicht unnötig im Leerlauf laufen, um die Natur zu schonen.",
+                "hu": "Ne járassa feleslegesen a motort álló helyzetben a természet védelmében.",
+                "ro": "Nu lăsați motorul pornit inutil pentru a proteja natura.",
+                "en": "Avoid unnecessary idling of the engine to protect the riverside nature."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in Estland von Dezember bis März gesetzlich vorgeschrieben.",
+              "Führen Sie einen Eiskratzer und einen kleinen Schneebesen mit sich.",
+              "Stellen Sie sicher, dass Ihr Wischwasser genügend Frostschutz enthält.",
+              "Die Batteriekapazität kann bei extremer Kälte stark abnehmen.",
+              "Achten Sie auf Wildtiere, die im Winter oft die Straßen kreuzen."
+            ],
+            "hu": [
+              "Észtországban decembertől márciusig kötelező a téli gumi használata.",
+              "Legyen az autóban jégkaparó és egy kis kefe a hó eltakarításához.",
+              "Ellenőrizze, hogy a szélvédőmosó fagyálló-e.",
+              "Az akkumulátor kapacitása drasztikusan csökkenhet a nagy hidegben.",
+              "Figyeljen a vadállatokra, amelyek télen gyakran az útra tévednek."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii în Estonia din decembrie până în martie.",
+              "Aveți la voi o racletă pentru gheață și o perie pentru zăpadă.",
+              "Asigurați-vă că lichidul de parbriz are suficient antigel.",
+              "Capacitatea bateriei poate scădea drastic în condiții de frig extrem.",
+              "Atenție la animalele sălbatice care traversează drumul frecvent iarna."
+            ],
+            "en": [
+              "Winter tires are legally required in Estonia from December to March.",
+              "Carry an ice scraper and a small snow brush in your vehicle.",
+              "Ensure your windshield washer fluid has enough antifreeze for sub-zero temps.",
+              "Battery capacity can decrease significantly in extreme cold.",
+              "Watch out for wildlife frequently crossing the roads during winter months."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1442,6 +2030,196 @@
           "A day pass might be cheaper if you plan on making several trips.",
           "Stops are not always clearly marked, so ask the driver if in doubt."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den öffentlichen Nahverkehr, um Tapa im Regen zu erkunden. Starten Sie am Hauptplatz und nehmen Sie den Bus zur St. Jakobs-Kirche. Mittags bietet das Tapa-Museum ein langes Indoor-Programm. Nachmittags ist die historische Eisenbahnstation der zentrale Knotenpunkt, wo Sie im Trockenen auf den nächsten Bus warten können. Den Tag beenden Sie an der Friedhofskapelle, einem Ort der Ruhe.",
+            "hu": "Használja a tömegközlekedést Tapa felfedezéséhez esős időben. Kezdje a főtéren, majd busszal menjen a Szent Jakab-templomhoz. Délben a Tapa Múzeum kínál hosszú beltéri programot. Délután a vasútállomás a központi csomópont, ahol fedett helyen várhatja a csatlakozást. A napot a temetőkápolnánál zárjuk, amely a nyugalom szigete.",
+            "ro": "Folosiți transportul public pentru a explora Tapa pe ploaie. Începeți în piața centrală și luați autobuzul spre Biserica Sf. Iacob. La prânz, Muzeul Tapa oferă un program interior lung. După-amiaza, gara istorică este nodul central unde puteți aștepta autobuzul la adăpost. Încheiați ziua la capela cimitirului, un loc al liniștii.",
+            "en": "Use public transport to explore Tapa in the rain. Start at the main square and take a bus to St. Jacob's Church. At noon, the Tapa Museum offers an extensive indoor program. In the afternoon, the historic railway station is the central hub where you can wait for your next connection in the dry. End the day at the cemetery chapel, a place of peace."
+          },
+          "stops": [
+            {
+              "name": "Central Square of Tapa",
+              "tip_5lang": {
+                "de": "Die Bushaltestellen am Platz haben meist kleine Unterstände.",
+                "hu": "A téri buszmegállók többsége kis váróval is rendelkezik.",
+                "ro": "Stațiile de autobuz din piață au de obicei mici adăposturi.",
+                "en": "Most bus stops at the square have small shelters to wait under."
+              }
+            },
+            {
+              "name": "St. Jacob's Church",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Fahrplan vorab, um die Wartezeit im Regen zu minimieren.",
+                "hu": "Ellenőrizze előre a menetrendet, hogy ne kelljen sokat várnia az esőben.",
+                "ro": "Verificați programul în avans pentru a minimiza așteptarea în ploaie.",
+                "en": "Check the schedule in advance to minimize waiting time in the rain."
+              }
+            },
+            {
+              "name": "Tapa Museum",
+              "tip_5lang": {
+                "de": "Fragen Sie im Museum nach den aktuellen Busverbindungen.",
+                "hu": "Kérdezzen rá a múzeumban az aktuális buszjáratokra.",
+                "ro": "Întrebați la muzeu despre legăturile actuale de autobuz.",
+                "en": "Ask at the museum desk for updated information on bus lines."
+              }
+            },
+            {
+              "name": "Tapa Railway Station",
+              "tip_5lang": {
+                "de": "Der Bahnhof ist der beste Ort, um trocken auf den Bus umzusteigen.",
+                "hu": "Az állomás a legjobb hely az esőmentes átszálláshoz.",
+                "ro": "Gara este cel mai bun loc pentru a schimba autobuzul la adăpost.",
+                "en": "The station is the best place to change buses while staying dry."
+              }
+            },
+            {
+              "name": "Historic Military Grounds",
+              "tip_5lang": {
+                "de": "Die nächste Haltestelle kann ein paar Minuten Fußweg im Regen bedeuten.",
+                "hu": "A legközelebbi megálló pár perc gyaloglást jelenthet az esőben.",
+                "ro": "Cea mai apropiată stație poate implica câteva minute de mers prin ploaie.",
+                "en": "The nearest stop might require a few minutes of walking in the rain."
+              }
+            },
+            {
+              "name": "Tapa Cemetery Chapel",
+              "tip_5lang": {
+                "de": "Die Kapelle bietet Schutz, falls Sie auf den Rückbus warten müssen.",
+                "hu": "A kápolna védelmet nyújt, ha várnia kell a visszatérő buszra.",
+                "ro": "Capela oferă adăpost în cazul în care trebuie să așteptați autobuzul.",
+                "en": "The chapel entrance offers shelter if you have to wait for the return bus."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "In Tapa verkehren Busse seltener; Pünktlichkeit ist wichtig.",
+              "Nutzen Sie die App 'Peatus.ee' für Echtzeit-Fahrpläne in Estland.",
+              "Die Züge bieten eine trockene Alternative für die Anreise aus Tallinn.",
+              "Tragen Sie Reflektoren, da die Sichtverhältnisse bei Regen schlecht sind.",
+              "Kaufen Sie Tickets kontaktlos beim Fahrer oder vorab online."
+            ],
+            "hu": [
+              "Tapán a buszok ritkábban járnak, figyeljen a pontos érkezésre.",
+              "Használja a 'Peatus.ee' alkalmazást a valós idejű észt menetrendekhez.",
+              "A vonatok száraz alternatívát jelentenek a Tallinból érkezőknek.",
+              "Viseljen fényvisszaverőt, mert esőben a látási viszonyok korlátozottak.",
+              "Vásároljon jegyet érintésmentesen a sofőrnél vagy előre online."
+            ],
+            "ro": [
+              "În Tapa, autobuzele circulă mai rar; punctualitatea este importantă.",
+              "Folosiți aplicația 'Peatus.ee' pentru orare în timp real în Estonia.",
+              "Trenurile oferă o alternativă uscată pentru sosirea din Tallinn.",
+              "Purtați elemente reflectorizante, vizibilitatea este redusă pe ploaie.",
+              "Cumpărați bilete contactless de la șofer sau online în avans."
+            ],
+            "en": [
+              "Buses in Tapa run less frequently; being punctual is important.",
+              "Use the 'Peatus.ee' app for real-time transit schedules in Estonia.",
+              "Trains provide a dry alternative for travel from Tallinn or Narva.",
+              "Wear reflectors as visibility is poor for drivers during rain.",
+              "Purchase tickets contactlessly from the driver or online in advance."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie das verschneite Tapa mit dem Bus und der Bahn. Morgens starten Sie am zentralen Platz, wo der Winterdienst die Wege freihält. Die Fahrt zur St. Jakobs-Kirche bietet einen Ausblick auf die weiße Landschaft. Mittags ist das Museum ein warmer Rückzugsort. Nachmittags nutzen Sie die Wartehalle des Bahnhofs als Basislager für Ihre Erkundungen. Der Tag endet an der Friedhofskapelle in der kalten Abendluft.",
+            "hu": "Fedezze fel a hófödte Tapát busszal és vonattal. Reggel a főtéren kezdünk, ahol a hóeltakarítás folyamatos. A Szent Jakab-templomhoz vezető úton élvezze a fehér tájat a fűtött buszból. Délben a múzeum meleg menedék. Délután a vasúti váróterem szolgál bázisként a környék felfedezéséhez. A napot a temetőkápolnánál zárjuk a hideg esti levegőben.",
+            "ro": "Explorați Tapa înzăpezit cu autobuzul și trenul. Dimineața începeți în piața centrală, unde serviciile de deszăpezire curăță căile de acces. Drumul spre biserică oferă o priveliște asupra peisajului alb. La prânz, muzeul este un refugiu cald. După-amiaza, folosiți sala de așteptare a gării ca bază pentru explorări. Ziua se încheie la capela cimitirului în aerul rece de seară.",
+            "en": "Explore snowy Tapa by bus and train. In the morning, start at the central square where snow removal is active. The bus ride to St. Jacob's Church offers views of the white landscape. At noon, the museum is a warm retreat. In the afternoon, use the railway station waiting room as a base for your explorations. The day ends at the cemetery chapel in the cold evening air."
+          },
+          "stops": [
+            {
+              "name": "Central Square of Tapa",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis an den Haltestellen.",
+                "hu": "Vigyázzon a jegesedésre a buszmegállók környékén.",
+                "ro": "Atenție la gheață în zona stațiilor de autobuz.",
+                "en": "Watch out for ice on the ground near the bus stops."
+              }
+            },
+            {
+              "name": "St. Jacob's Church",
+              "tip_5lang": {
+                "de": "Die Busse sind im Winter gut beheizt.",
+                "hu": "A buszok télen jól fűtöttek, kellemes az utazás.",
+                "ro": "Autobuzele sunt bine încălzite în timpul iernii.",
+                "en": "Buses are well-heated in winter, making for a pleasant ride."
+              }
+            },
+            {
+              "name": "Tapa Museum",
+              "tip_5lang": {
+                "de": "Die Anfahrt mit dem Transit spart den Weg durch den tiefen Schnee.",
+                "hu": "A tömegközlekedés megkíméli a mély hóban való gyaloglástól.",
+                "ro": "Transportul public vă scutește de mersul prin zăpadă adâncă.",
+                "en": "Taking transit saves you from walking through deep snow drifts."
+              }
+            },
+            {
+              "name": "Tapa Railway Station",
+              "tip_5lang": {
+                "de": "Der Bahnhof hat eine der wärmsten Wartehallen der Stadt.",
+                "hu": "A vasútállomás az egyik legmelegebb váróteremmel bír a városban.",
+                "ro": "Gara are una dintre cele mai calde săli de așteptare din oraș.",
+                "en": "The station has one of the warmest public waiting halls in town."
+              }
+            },
+            {
+              "name": "Historic Military Grounds",
+              "tip_5lang": {
+                "de": "Bei starkem Schneefall können Busse Verspätungen haben.",
+                "hu": "Erős havazás esetén a buszok késhetnek.",
+                "ro": "În caz de ninsoare abundentă, autobuzele pot avea întârzieri.",
+                "en": "During heavy snowfall, buses may experience slight delays."
+              }
+            },
+            {
+              "name": "Tapa Cemetery Chapel",
+              "tip_5lang": {
+                "de": "Der Weg von der Haltestelle zur Kapelle kann glatt sein.",
+                "hu": "A megállótól a kápolnáig vezető út csúszós lehet.",
+                "ro": "Drumul de la stație la capelă poate fi alunecos.",
+                "en": "The path from the stop to the chapel can be very slick."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie warme Stiefel mit rutschfester Sohle für die Haltestellen.",
+              "Die Sonne geht früh unter; nutzen Sie die hellen Mittagsstunden.",
+              "Züge sind im estnischen Winter oft zuverlässiger als Busse.",
+              "Halten Sie sich im beheizten Innenraum auf, bis der Bus kommt.",
+              "Ein heißer Tee in der Thermoskanne ist bei Wartezeiten ideal."
+            ],
+            "hu": [
+              "Viseljen meleg bakancsot csúszásmentes talppal a buszmegállókhoz.",
+              "A nap korán nyugszik, használja ki a világos déli órákat.",
+              "A vonatok az észt télben gyakran megbízhatóbbak a buszoknál.",
+              "Maradjon a fűtött beltérben, amíg meg nem érkezik a járat.",
+              "Egy termosz meleg tea ideális útitárs a várakozási időkre."
+            ],
+            "ro": [
+              "Purtați ghete călduroase cu talpă antiderapantă pentru stații.",
+              "Soarele apune devreme; profitați de orele luminoase de la prânz.",
+              "Trenurile sunt adesea mai fiabile decât autobuzele iarna în Estonia.",
+              "Stați în interiorul încălzit până când sosește autobuzul.",
+              "Un ceai fierbinte într-un termos este ideal pentru perioadele de așteptare."
+            ],
+            "en": [
+              "Wear warm boots with non-slip soles for walking to stops.",
+              "The sun sets early; make the most of the bright mid-day hours.",
+              "Trains are often more reliable than buses during Estonian winters.",
+              "Stay inside the heated waiting areas until your bus arrives.",
+              "A hot tea in a thermos is ideal for any transit waiting periods."
+            ]
+          }
+        }
       }
     }
   }

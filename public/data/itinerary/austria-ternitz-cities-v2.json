@@ -274,6 +274,188 @@
           "Some paths can be uneven, especially around the castle.",
           "Bring a reusable water bottle."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Vormittag geschützt in der Pfarrkirche Ternitz, während der Regen auf die Dächer fällt. Ein kurzer Fußweg führt zum Herrenhaus und zum Kulturhaus, wo Sie trockene Pausen einlegen können.\n\nZur Mittagszeit bietet das Stahlstadtmuseum den perfekten Zufluchtsort. Hier erfahren Sie alles über die industrielle Geschichte von Ternitz, während es draußen stürmt.\n\nAm Nachmittag führt der Weg durch den Robert Hamerling Park. Auch bei Regen bietet der Baumbestand etwas Schutz, bevor Sie das Schloss Pottschach erreichen.\n\nDen Abend lassen Sie in der Nähe des Stadtzentrums ausklingen, wo die beleuchteten nassen Straßen eine besondere Atmosphäre verbreiten.",
+            "hu": "Kezdje a délelőttöt a ternitzi plébániatemplom fedezékében, miközben kint esik. Egy rövid séta vezet az Udvarházhoz és a Kultúrházhoz, ahol szárazon pihenhet meg.\n\nDélben az Acélváros Múzeum kínál tökéletes menedéket. Itt megismerheti Ternitz ipari múltját, miközben odakint tombol az eső.\n\nDélután az út a Robert Hamerling parkon át vezet. Esőben is nyújt némi védelmet a sűrű növényzet, mielőtt elérné a Pottschach kastélyt.\n\nAz estét a városközpont közelében zárja, ahol a kivilágított vizes utcák különleges hangulatot árasztanak.",
+            "ro": "Începeți dimineața la adăpost în Biserica Parohială din Ternitz, în timp ce ploaia cade pe acoperișuri. O scurtă plimbare vă duce la Conac și la Casa de Cultură, unde puteți face pauze uscate.\n\nLa prânz, Muzeul Orașului Oțelului oferă refugiul perfect. Aici puteți învăța despre istoria industrială a orașului Ternitz în timp ce afară plouă.\n\nDupă-amiaza, traseul trece prin Parcul Robert Hamerling. Chiar și pe ploaie, copacii oferă puțină protecție înainte de a ajunge la Castelul Pottschach.\n\nÎncheiați seara lângă centrul orașului, unde străzile ude și iluminate creează o atmosferă deosebită.",
+            "en": "Start the morning sheltered in the Ternitz Parish Church while the rain falls outside. A short walk leads to the Manor House and Culture House for dry breaks.\n\nAt noon, the Steel Town Museum provides the perfect escape. Learn about the industrial history of Ternitz while staying dry indoors.\n\nIn the afternoon, the route leads through Robert Hamerling Park. The trees offer some protection before you reach Pottschach Castle.\n\nEnd the evening near the city center, where the illuminated wet streets create a unique atmosphere."
+          },
+          "stops": [
+            {
+              "name": "Parish Church of Ternitz",
+              "tip_5lang": {
+                "de": "Guter Unterstand bei plötzlichen Schauern direkt im Zentrum.",
+                "hu": "Jó búvóhely hirtelen zápor esetén közvetlenül a központban.",
+                "ro": "Un adăpost bun în caz de averse bruște, chiar în centru.",
+                "en": "Good shelter from sudden showers right in the center."
+              }
+            },
+            {
+              "name": "Ternitz Manor House",
+              "tip_5lang": {
+                "de": "Die Fassade wirkt bei grauem Himmel besonders markant.",
+                "hu": "A homlokzat szürke égbolt alatt különösen jellegzetes.",
+                "ro": "Fațada arată deosebit de izbitor sub cerul cenușiu.",
+                "en": "The facade looks particularly striking under gray skies."
+              }
+            },
+            {
+              "name": "Ternitz Culture House",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Foyer für eine trockene Pause zwischen den Etappen.",
+                "hu": "Használja az előcsarnokot egy száraz pihenőre a szakaszok között.",
+                "ro": "Folosiți foierul pentru o pauză uscată între etape.",
+                "en": "Use the foyer for a dry break between segments."
+              }
+            },
+            {
+              "name": "Steel Town Museum",
+              "tip_5lang": {
+                "de": "Idealer Ort für regnerische Stunden mit viel Indoor-Ausstellungsfläche.",
+                "hu": "Ideális hely az esős órákra, sok beltéri kiállítótérrel.",
+                "ro": "Loc ideal pentru orele ploioase, cu mult spațiu expozițional interior.",
+                "en": "Ideal place for rainy hours with plenty of indoor exhibit space."
+              }
+            },
+            {
+              "name": "Robert Hamerling Park",
+              "tip_5lang": {
+                "de": "Feste Wege nutzen, die Wiesenflächen können aufgeweicht sein.",
+                "hu": "Használja a szilárd utakat, a füves területek felázhatnak.",
+                "ro": "Folosiți potecile pavate, peluzele pot fi noroioase.",
+                "en": "Stick to paved paths as the grassy areas may be muddy."
+              }
+            },
+            {
+              "name": "Pottschach Castle",
+              "tip_5lang": {
+                "de": "Vorsicht bei den gepflasterten Außenbereichen, Rutschgefahr.",
+                "hu": "Vigyázat a kövezett külső területeken, csúszásveszély.",
+                "ro": "Atenție la zonele exterioare pavate, risc de alunecare.",
+                "en": "Careful on the paved exterior areas, they can be slippery."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Das Stahlstadtmuseum ist der beste Langzeit-Unterschlupf.",
+              "Wasserfeste Schuhe sind für den Hamerling Park unerlässlich.",
+              "Die Wege entlang der Schwarza können bei Regen schlammig werden.",
+              "Nutzen Sie die Gastronomie im Zentrum für wetterunabhängige Pausen."
+            ],
+            "hu": [
+              "Az Acélváros Múzeum a legjobb hosszú távú menedék.",
+              "Vízálló cipő elengedhetetlen a Hamerling parkhoz.",
+              "A Schwarza menti utak esőben sarasak lehetnek.",
+              "Használja a központi éttermeket az időjárástól független pihenőkhöz."
+            ],
+            "ro": [
+              "Muzeul Orașului Oțelului este cel mai bun adăpost pe termen lung.",
+              "Încălțămintea impermeabilă este esențială pentru Parcul Hamerling.",
+              "Potecile de-a lungul râului Schwarza pot deveni noroioase pe ploaie.",
+              "Folosiți restaurantele din centru pentru pauze independente de vreme."
+            ],
+            "en": [
+              "The Steel Town Museum is the best long-term shelter.",
+              "Waterproof shoes are essential for Hamerling Park.",
+              "Paths along the Schwarza river can get muddy in the rain.",
+              "Utilize central cafes for weather-independent breaks."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen beginnt an der Pfarrkirche. Die kalte Luft über dem Schwarzatal ist erfrischend, während Sie zum Herrenhaus spazieren.\n\nMittags wärmen Sie sich im Stahlstadtmuseum auf. Die Ausstellung über die Eisenverarbeitung bietet interessante Einblicke fernab der Kälte.\n\nDer Nachmittag führt durch den Robert Hamerling Park, wo die kahlen Bäume weite Sichtachsen freigeben, bis hin zum Schloss Pottschach.\n\nDa die Sonne früh untergeht, beenden Sie den Rundgang bei Dämmerung, wenn die Lichter von Ternitz die Winterkälte vertreiben.",
+            "hu": "Tiszta téli reggel kezdődik a plébániatemplomnál. A Schwarzatal feletti hideg levegő frissítő, miközben az Udvarház felé sétál.\n\nDélben melegedjen fel az Acélváros Múzeumban. A vasfeldolgozásról szóló kiállítás érdekes betekintést nyújt a hidegtől távol.\n\nA délután a Robert Hamerling parkon át vezet, ahol a kopasz fák messzi kilátást engednek a Pottschach kastélyig.\n\nMivel a nap korán nyugszik, fejezze be a túrát szürkületkor, amikor Ternitz fényei elűzik a téli hideget.",
+            "ro": "O dimineață senină de iarnă începe la Biserica Parohială. Aerul rece de deasupra văii Schwarzatal este revigorant în timp ce mergeți spre Conac.\n\nLa prânz, încălziți-vă în Muzeul Orașului Oțelului. Expoziția despre prelucrarea fierului oferă perspective interesante departe de frig.\n\nDupă-amiaza trece prin Parcul Robert Hamerling, unde copacii golași permit vederi largi spre Castelul Pottschach.\n\nDeoarece soarele apune devreme, încheiați turul la amurg, când luminile din Ternitz alungă frigul iernii.",
+            "en": "A crisp winter morning begins at the Parish Church. The cold air over the Schwarzatal valley is refreshing as you walk to the Manor House.\n\nAt noon, warm up in the Steel Town Museum. The exhibit on iron processing offers fascinating insights away from the cold.\n\nIn the afternoon, head through Robert Hamerling Park, where leafless trees open up broad views toward Pottschach Castle.\n\nSince the sun sets early, finish your walk at dusk when the lights of Ternitz brighten the winter chill."
+          },
+          "stops": [
+            {
+              "name": "Parish Church of Ternitz",
+              "tip_5lang": {
+                "de": "Oft beheizt, ein guter Ort, um kurz zur Ruhe zu kommen.",
+                "hu": "Gyakran fűtött, jó hely a rövid megnyugváshoz.",
+                "ro": "Aeseori încălzită, un loc bun pentru a vă odihni scurt.",
+                "en": "Often heated, a good place to pause briefly."
+              }
+            },
+            {
+              "name": "Ternitz Manor House",
+              "tip_5lang": {
+                "de": "Schöne Fotomotive bei Reif oder leichtem Schneefall.",
+                "hu": "Szép fotótémák zúzmara vagy enyhe havazás esetén.",
+                "ro": "Oportunități foto frumoase în caz de chiciură sau ninsoare slabă.",
+                "en": "Beautiful photo opportunities during frost or light snow."
+              }
+            },
+            {
+              "name": "Ternitz Culture House",
+              "tip_5lang": {
+                "de": "Prüfen Sie das Winterprogramm für Indoor-Veranstaltungen.",
+                "hu": "Ellenőrizze a téli programot beltéri eseményekért.",
+                "ro": "Verificați programul de iarnă pentru evenimente interioare.",
+                "en": "Check the winter schedule for indoor events."
+              }
+            },
+            {
+              "name": "Steel Town Museum",
+              "tip_5lang": {
+                "de": "Bester Ort, um die Kälte für längere Zeit zu vergessen.",
+                "hu": "A legjobb hely, hogy hosszabb időre elfelejtse a hideget.",
+                "ro": "Cel mai bun loc pentru a uita de frig pentru o perioadă mai lungă.",
+                "en": "Best place to escape the cold for an extended period."
+              }
+            },
+            {
+              "name": "Robert Hamerling Park",
+              "tip_5lang": {
+                "de": "Vorsicht vor glatten Stellen auf den schattigen Parkwegen.",
+                "hu": "Vigyázat a jeges foltokkal az árnyékos parki utakon.",
+                "ro": "Atenție la porțiunile alunecoase de pe aleile umbrite.",
+                "en": "Watch out for icy patches on shaded park paths."
+              }
+            },
+            {
+              "name": "Pottschach Castle",
+              "tip_5lang": {
+                "de": "Der Renaissance-Bau wirkt im fahlen Winterlicht besonders edel.",
+                "hu": "A reneszánsz épület a fakó téli fényben különösen nemesnek hat.",
+                "ro": "Clădirea renascentistă arată deosebit de nobilă în lumina palidă de iarnă.",
+                "en": "The Renaissance building looks particularly elegant in pale winter light."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne verschwindet gegen 16:30 Uhr hinter den Bergen.",
+              "Warme Kleidung ist wegen des Winds im Schwarzatal nötig.",
+              "Das Museum bietet die stabilste Wärme während der Tour.",
+              "Parkbänke können im Winter feucht und sehr kalt sein."
+            ],
+            "hu": [
+              "A nap 16:30 körül tűnik el a hegyek mögött.",
+              "Meleg ruházat szükséges a Schwarzatal szele miatt.",
+              "A múzeum nyújtja a legstabilabb meleget a túra során.",
+              "A parki padok télen nedvesek és nagyon hidegek lehetnek."
+            ],
+            "ro": [
+              "Soarele dispare în spatele munților în jurul orei 16:30.",
+              "Îmbrăcămintea groasă este necesară din cauza vântului din vale.",
+              "Muzeul oferă cea mai stabilă căldură în timpul turului.",
+              "Băncile din parc pot fi umede și foarte reci iarna."
+            ],
+            "en": [
+              "The sun disappears behind the mountains around 4:30 PM.",
+              "Warm clothing is necessary due to winds in the Schwarzatal.",
+              "The museum provides the most reliable warmth during the tour.",
+              "Park benches can be damp and very cold in winter."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -518,6 +700,170 @@
           "The cycle path along the Schwarza river is a flatter alternative.",
           "Plan for breaks to enjoy the scenery."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen bietet die Fahrt zum Gfieder Aussichtsturm eine sportliche Herausforderung. Der Wald bietet zwar etwas Schutz, aber die Wege sind nass.\n\nMittags erreichen Sie das Schloss Stixenstein. Die historische Anlage wirkt im Nebel mystisch, während Sie eine kurze Regenpause einlegen.\n\nÜber Schloss Pottschach geht es zurück nach Ternitz zum Stahlstadtmuseum. Hier können Sie die nasse Ausrüstung parken und sich aufwärmen.\n\nDer Tag endet mit einer kurzen Fahrt durch den Hamerling Park zurück zum Ausgangspunkt.",
+            "hu": "Az eső ellenére a Gfieder kilátóhoz vezető út sportos kihívás. Az erdő nyújt némi védelmet, de az utak vizesek.\n\nDélben elérik a Stixenstein kastélyt. A történelmi épület misztikusnak tűnik a ködben, miközben rövid esőszünetet tartanak.\n\nPottschach kastélyán keresztül érkeznek vissza Ternitzbe az Acélváros Múzeumhoz. Itt lepakolhatják a vizes felszerelést és felmelegedhetnek.\n\nA nap egy rövid kerékpározással zárul a Hamerling parkon át vissza a kiindulópontig.",
+            "ro": "În ciuda ploii, drumul către turnul de veghe Gfieder este o provocare sportivă. Pădurea oferă protecție, dar potecile sunt ude.\n\nLa prânz ajungeți la Castelul Stixenstein. Complexul istoric pare mistic în ceață în timp ce faceți o scurtă pauză de ploaie.\n\nPrin Castelul Pottschach vă întoarceți în Ternitz la Muzeul Orașului Oțelului. Aici puteți lăsa echipamentul ud și vă puteți încălzi.\n\nZiua se încheie cu o scurtă plimbare prin Parcul Hamerling înapoi la punctul de plecare.",
+            "en": "Despite the rain, the ride to the Gfieder tower is a sporty challenge. The forest offers some cover, but paths are wet.\n\nAt noon, you reach Stixenstein Castle. The historic site looks mystical in the mist while you take a short break from the rain.\n\nReturn to Ternitz via Pottschach Castle to the Steel Town Museum. Here you can park your wet gear and warm up.\n\nThe day ends with a quick ride through Hamerling Park back to the starting point."
+          },
+          "stops": [
+            {
+              "name": "Gfieder Observation Tower",
+              "tip_5lang": {
+                "de": "Vorsicht auf den Holzstufen des Turms, sie sind bei Nässe extrem glatt.",
+                "hu": "Vigyázat a kilátó falépcsőin, nedvesen rendkívül csúszósak.",
+                "ro": "Atenție la treptele de lemn ale turnului, sunt extrem de alunecoase pe ploaie.",
+                "en": "Use caution on the wooden steps of the tower; they get very slippery when wet."
+              }
+            },
+            {
+              "name": "Stixenstein Castle",
+              "tip_5lang": {
+                "de": "Gute Unterstellmöglichkeit in den Torbögen bei starkem Regen.",
+                "hu": "Jó várakozóhely a kapualjakban erős eső esetén.",
+                "ro": "Posibilitate bună de adăpost sub arcade în caz de ploaie torențială.",
+                "en": "Good sheltering options under the archways during heavy rain."
+              }
+            },
+            {
+              "name": "Pottschach Castle",
+              "tip_5lang": {
+                "de": "Achten Sie auf Pfützen in den tiefergelegenen Bereichen des Schlosshofs.",
+                "hu": "Ügyeljen a tócsákra a kastélyudvar mélyebb részein.",
+                "ro": "Atenție la bălțile din zonele mai joase ale curții castelului.",
+                "en": "Watch out for puddles in the lower areas of the castle courtyard."
+              }
+            },
+            {
+              "name": "Steel Town Museum",
+              "tip_5lang": {
+                "de": "Überdachte Fahrradständer in der Nähe vorhanden.",
+                "hu": "Fedett kerékpártárolók találhatók a közelben.",
+                "ro": "Suporturi de biciclete acoperite disponibile în apropiere.",
+                "en": "Covered bike racks are available nearby."
+              }
+            },
+            {
+              "name": "Robert Hamerling Park",
+              "tip_5lang": {
+                "de": "Breite Asphaltwege nutzen, um Matsch zu vermeiden.",
+                "hu": "Használja a széles aszfaltutakat a sár elkerülése érdekében.",
+                "ro": "Folosiți aleile largi de asfalt pentru a evita noroiul.",
+                "en": "Stick to wide asphalt paths to avoid mud."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche am Fahrrad sind bei den Waldwegen zum Gfieder wichtig.",
+              "Vermeiden Sie bei Starkregen die steilen Waldpfade.",
+              "Stahlstadtmuseum bietet den besten Schutz für Pausen.",
+              "Die Sicht vom Gfieder kann durch Wolken stark eingeschränkt sein."
+            ],
+            "hu": [
+              "A sárvédő fontos a Gfieder felé vezető erdei utakon.",
+              "Erős esőben kerülje a meredek erdei ösvényeket.",
+              "Az Acélváros Múzeum nyújtja a legjobb védelmet a pihenéshez.",
+              "A kilátás a Gfiederről a felhők miatt korlátozott lehet."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt importante pe potecile spre Gfieder.",
+              "Evitați cărările abrupte de pădure în caz de ploaie abundentă.",
+              "Muzeul Orașului Oțelului oferă cea mai bună protecție pentru pauze.",
+              "Vizibilitatea de pe Gfieder poate fi limitată de nori."
+            ],
+            "en": [
+              "Mudguards are essential for the forest paths to Gfieder.",
+              "Avoid steep forest trails during heavy downpours.",
+              "The Steel Town Museum is the best indoor break spot.",
+              "Visibility from Gfieder may be significantly reduced by clouds."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Start führt hinauf zum Gfieder. Die klare Winterluft ermöglicht weite Fernsichten bis zum Schneeberg, wenn der Waldweg eisfrei ist.\n\nMittags geht es zum Schloss Stixenstein. Die kahle Landschaft betont die wehrhafte Architektur des Schlosses im Winterschlaf.\n\nNach dem Besuch von Schloss Pottschach bietet das Stahlstadtmuseum die nötige Wärme und Kultur, um den Körper wieder aufzutemperieren.\n\nBeenden Sie die Tour im Robert Hamerling Park, bevor die Kälte nach Sonnenuntergang spürbar zunimmt.",
+            "hu": "Fagyos indulás vezet fel a Gfiederhez. A tiszta téli levegő messzi kilátást enged a Schneebergig, ha az erdei út jégmentes.\n\nDélben a Stixenstein kastélyhoz tekernek. A kopár táj kiemeli a kastély védelmi építészetét a téli álom idején.\n\nA Pottschach kastély után az Acélváros Múzeum nyújtja a szükséges meleget és kultúrát a test felmelegítéséhez.\n\nZárja a túrát a Robert Hamerling parkban, mielőtt a naplemente utáni hideg érezhetően fokozódna.",
+            "ro": "Un început înghețat vă duce sus la Gfieder. Aerul limpede de iarnă permite vederi îndepărtate până la Schneeberg, dacă poteca este fără gheață.\n\nLa prânz mergeți la Castelul Stixenstein. Peisajul golaș subliniază arhitectura defensivă a castelului aflat în hibernare.\n\nDupă vizitarea Castelului Pottschach, Muzeul Orașului Oțelului oferă căldura și cultura necesară pentru a vă reîncălzi.\n\nÎncheiați turul în Parcul Robert Hamerling înainte ca frigul să crească după apusul soarelui.",
+            "en": "A frosty start leads up to Gfieder. The clear winter air allows for distant views as far as the Schneeberg, provided the path is ice-free.\n\nAt noon, head to Stixenstein Castle. The bare landscape emphasizes the defensive architecture of the castle during its winter sleep.\n\nAfter visiting Pottschach Castle, the Steel Town Museum provides the necessary warmth and culture to reheat.\n\nEnd the tour in Robert Hamerling Park before the cold noticeably intensifies after sunset."
+          },
+          "stops": [
+            {
+              "name": "Gfieder Observation Tower",
+              "tip_5lang": {
+                "de": "Überprüfen Sie den Weg auf Glatteis, besonders in den schattigen Kurven.",
+                "hu": "Ellenőrizze az utat a jég miatt, különösen az árnyékos kanyarokban.",
+                "ro": "Verificați poteca pentru gheață, mai ales în curbele umbrite.",
+                "en": "Check the path for black ice, especially in shaded bends."
+              }
+            },
+            {
+              "name": "Stixenstein Castle",
+              "tip_5lang": {
+                "de": "Die Anlage ist im Winter oft menschenleer und sehr ruhig.",
+                "hu": "A helyszín télen gyakran néptelen és nagyon csendes.",
+                "ro": "Complexul este adesea pustiu și foarte liniștit iarna.",
+                "en": "The site is often deserted and very quiet in winter."
+              }
+            },
+            {
+              "name": "Pottschach Castle",
+              "tip_5lang": {
+                "de": "Tiefstehende Wintersonne sorgt für tolle Lichteffekte am Mauerwerk.",
+                "hu": "Az alacsonyan járó téli nap remek fényhatásokat kelt a falakon.",
+                "ro": "Soarele de iarnă aflat jos creează efecte de lumină grozave pe zidărie.",
+                "en": "Low winter sun creates great lighting effects on the stonework."
+              }
+            },
+            {
+              "name": "Steel Town Museum",
+              "tip_5lang": {
+                "de": "Perfekt zum Aufwärmen der Hände nach der Abfahrt vom Gfieder.",
+                "hu": "Tökéletes a kezek felmelegítésére a Gfiederről való lejövetel után.",
+                "ro": "Perfect pentru a vă încălzi mâinile după coborârea de pe Gfieder.",
+                "en": "Perfect for warming up your hands after descending from Gfieder."
+              }
+            },
+            {
+              "name": "Robert Hamerling Park",
+              "tip_5lang": {
+                "de": "Glatteisfahrgefahr auf den Parkwegen bei Frost am späten Nachmittag.",
+                "hu": "Csúszásveszély a parki utakon a késő délutáni fagy idején.",
+                "ro": "Risc de polei pe aleile parcului la înghețul de după-amiază târziu.",
+                "en": "Risk of black ice on park paths during late afternoon frost."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vorder- und Rücklicht sind ab 16:00 Uhr zwingend erforderlich.",
+              "Winterhandschuhe sind für die Abfahrten unerlässlich.",
+              "Waldwege zum Gfieder können verschneit oder vereist sein.",
+              "Trinken Sie ausreichend Tee in Ternitz, um warm zu bleiben."
+            ],
+            "hu": [
+              "Az első és hátsó lámpa 16:00-tól kötelező.",
+              "A téli kesztyű elengedhetetlen a lejtőkhöz.",
+              "A Gfieder erdei útjai havasak vagy jegesek lehetnek.",
+              "Igyon elegendő teát Ternitzben, hogy melegen tartsa magát."
+            ],
+            "ro": [
+              "Luminile față și spate sunt obligatorii începând cu ora 16:00.",
+              "Mănușile de iarnă sunt esențiale pentru coborâri.",
+              "Potecile spre Gfieder pot fi înzăpezite sau înghețate.",
+              "Beți suficient ceai în Ternitz pentru a vă menține căldura."
+            ],
+            "en": [
+              "Front and rear lights are mandatory starting from 4:00 PM.",
+              "Winter gloves are essential for the downhill sections.",
+              "Forest paths to Gfieder can be snowy or icy.",
+              "Drink plenty of tea in Ternitz to stay warm."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -786,6 +1132,188 @@
           "Combine driving and walking sections for the best experience.",
           "Note that some roads can be narrow."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie regensicher am Schloss Stixenstein. Die Anfahrt durch das Schwarzatal ist auch bei schlechtem Wetter reizvoll, da die Wolken tief in den Hängen hängen.\n\nMittags geht es zum Gfieder Aussichtsturm. Da der Parkplatz nah ist, halten sich die Gehminuten im Regen in Grenzen.\n\nNachmittags besuchen Sie Schloss Pottschach und das Stahlstadtmuseum. Das Museum bietet stundenlangen trockenen Aufenthalt und reichlich Parkraum.\n\nDer Tag endet an der Pfarrkirche Ternitz und dem Hamerling Park, wo Sie die letzten Regentropfen vom Wagen aus beobachten können.",
+            "hu": "Kezdje az utat esőbiztosan a Stixenstein kastélynál. A Schwarzatalon átvezető út rossz időben is vonzó, ahogy a felhők mélyen a lejtőkre telepednek.\n\nDélben a Gfieder kilátóhoz megy. Mivel a parkoló közel van, az esőben töltött percek száma korlátozott.\n\nDélután látogassa meg a Pottschach kastélyt és az Acélváros Múzeumot. A múzeum több órás száraz tartózkodást és bőséges parkolóhelyet kínál.\n\nA nap a ternitzi plébániatemplomnál és a Hamerling parknál zárul, ahol a kocsiból figyelheti az utolsó esőcseppeket.",
+            "ro": "Începeți traseul la adăpostul Castelului Stixenstein. Drumul prin valea Schwarzatal este atractiv chiar și pe vreme rea, cu norii coborâți pe versanți.\n\nLa prânz mergeți la turnul Gfieder. Deoarece parcarea este aproape, minutele de mers prin ploaie sunt limitate.\n\nDupă-amiaza vizitați Castelul Pottschach și Muzeul Orașului Oțelului. Muzeul oferă ore întregi de ședere la uscat și parcare din abundență.\n\nZiua se încheie la Biserica Parohială din Ternitz și Parcul Hamerling, unde puteți urmări ultimele picături de ploaie din mașină.",
+            "en": "Start rain-proof at Stixenstein Castle. The drive through Schwarzatal is attractive even in bad weather as clouds hang low on the slopes.\n\nAt noon, head to the Gfieder tower. Since the parking is close by, your time spent walking in the rain is minimized.\n\nIn the afternoon, visit Pottschach Castle and the Steel Town Museum. The museum offers hours of dry indoor activity and ample parking.\n\nEnd the day at the Ternitz Parish Church and Hamerling Park, watching the last raindrops from your car."
+          },
+          "stops": [
+            {
+              "name": "Stixenstein Castle",
+              "tip_5lang": {
+                "de": "Direkte Zufahrt möglich, wenig Gehzeit im Regen.",
+                "hu": "Közvetlen behajtás lehetséges, kevés gyaloglás az esőben.",
+                "ro": "Acces direct posibil, timp minim de mers prin ploaie.",
+                "en": "Direct access possible, minimal walking time in the rain."
+              }
+            },
+            {
+              "name": "Gfieder Observation Tower",
+              "tip_5lang": {
+                "de": "Vorsicht bei der Zufahrt auf unbefestigten Abschnitten bei Regen.",
+                "hu": "Vigyázat az esőben a burkolatlan útszakaszokon való behajtáskor.",
+                "ro": "Atenție la accesul pe porțiunile neasfaltate în timpul ploii.",
+                "en": "Caution on unpaved sections of the access road during rain."
+              }
+            },
+            {
+              "name": "Pottschach Castle",
+              "tip_5lang": {
+                "de": "Parkplätze direkt vor der Anlage nutzen.",
+                "hu": "Használja a közvetlenül az épület előtti parkolókat.",
+                "ro": "Folosiți locurile de parcare direct în fața complexului.",
+                "en": "Use the parking spots directly in front of the site."
+              }
+            },
+            {
+              "name": "Steel Town Museum",
+              "tip_5lang": {
+                "de": "Bester Stop für Starkregenphasen, da komplett indoor.",
+                "hu": "A legjobb megálló heves esőzés idejére, mivel teljesen beltéri.",
+                "ro": "Cea mai bună oprire pentru perioadele de ploaie torențială, fiind complet la interior.",
+                "en": "Best stop during heavy rain as it is entirely indoors."
+              }
+            },
+            {
+              "name": "Parish Church of Ternitz",
+              "tip_5lang": {
+                "de": "Kurzer Sprung vom Parkplatz ins Kirchenschiff.",
+                "hu": "Gyors bejutás a parkolóból a templomhajóba.",
+                "ro": "O săritură scurtă din parcare în interiorul bisericii.",
+                "en": "A quick dash from the parking lot into the church."
+              }
+            },
+            {
+              "name": "Robert Hamerling Park",
+              "tip_5lang": {
+                "de": "Parken am Rand ermöglicht Blick ins Grüne ohne nass zu werden.",
+                "hu": "A szélen való parkolás rálátást biztosít a zöldre anélkül, hogy megázna.",
+                "ro": "Parcarea la margine permite vederea spre verdeață fără a vă uda.",
+                "en": "Parking at the edge allows a view of the park without getting wet."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Sichtverhältnisse im Schwarzatal können durch Nebel eingeschränkt sein.",
+              "Nutzen Sie die Parkplätze direkt bei den Museen.",
+              "Regenschirm für die kurzen Wege zum Auto griffbereit halten.",
+              "Die Bergstraße zum Gfieder kann bei Nässe rutschig sein."
+            ],
+            "hu": [
+              "A látási viszonyok a Schwarzatalban a köd miatt korlátozottak lehetnek.",
+              "Használja a közvetlenül a múzeumoknál lévő parkolókat.",
+              "Tartsa kéznél az esernyőt a kocsihoz vezető rövid utakhoz.",
+              "A Gfiederhez vezető hegyi út nedvesen csúszós lehet."
+            ],
+            "ro": [
+              "Vizibilitatea în Schwarzatal poate fi limitată de ceață.",
+              "Folosiți parcările aflate direct lângă muzee.",
+              "Țineți umbrela la îndemână pentru drumurile scurte către mașină.",
+              "Drumul montan către Gfieder poate fi alunecos când este ud."
+            ],
+            "en": [
+              "Visibility in the Schwarzatal may be reduced due to fog.",
+              "Utilize parking lots directly next to the museums.",
+              "Keep an umbrella handy for short walks to and from the car.",
+              "The mountain road to Gfieder can be slippery when wet."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein winterlicher Roadtrip beginnt am Schloss Stixenstein. Die schneebedeckten Hänge des Schwarzatals bilden eine malerische Kulisse für die Fahrt.\n\nMittags geht es zum Gfieder. Bei klarem Frost ist die Fernsicht vom Turm unschlagbar, achten Sie aber auf die Straßenverhältnisse am Berg.\n\nNachmittags bieten das Schloss Pottschach und das Stahlstadtmuseum kulturelle Wärme. Die Parkplätze sind im Winter meist gut geräumt.\n\nDer Tag endet an der beheizten Pfarrkirche und einem Blick in den winterlichen Hamerling Park, bevor die Kälte der Nacht einsetzt.",
+            "hu": "Téli autós kirándulás kezdődik a Stixenstein kastélynál. A Schwarzatal hófedte lejtői festői hátteret nyújtanak az úthoz.\n\nDélben a Gfiederhez megy. Tiszta fagyban a kilátás a toronyból verhetetlen, de ügyeljen az útviszonyokra a hegyen.\n\nDélután a Pottschach kastély és az Acélváros Múzeum kulturális meleget kínál. A parkolókat télen általában jól takarítják.\n\nA nap a fűtött plébániatemplomnál és a téli Hamerling parkra nyíló kilátással zárul, mielőtt beállna az éjszakai hideg.",
+            "ro": "O excursie de iarnă cu mașina începe la Castelul Stixenstein. Versanții înzăpeziți ai văii Schwarzatal formează un cadru pitoresc pentru drum.\n\nLa prânz mergeți la Gfieder. Pe un ger senin, vizibilitatea de pe turn este imbatabilă, dar atenție la starea drumului pe munte.\n\nDupă-amiaza, Castelul Pottschach și Muzeul Orașului Oțelului oferă căldură culturală. Parcările sunt de obicei bine deszăpezite iarna.\n\nZiua se încheie la biserica parohială încălzită și o privire spre Parcul Hamerling de iarnă, înainte de frigul nopții.",
+            "en": "A winter road trip begins at Stixenstein Castle. The snow-covered slopes of the Schwarzatal provide a picturesque backdrop for the drive.\n\nAt noon, head to Gfieder. In clear frost, the view from the tower is unbeatable, but watch the road conditions on the mountain.\n\nIn the afternoon, Pottschach Castle and the Steel Town Museum offer cultural warmth. Parking lots are usually well-cleared in winter.\n\nThe day ends at the heated Parish Church and a look at the wintry Hamerling Park before the night chill sets in."
+          },
+          "stops": [
+            {
+              "name": "Stixenstein Castle",
+              "tip_5lang": {
+                "de": "Zufahrt kann bei starkem Schneefall kurzzeitig schwierig sein.",
+                "hu": "Erős havazáskor a behajtás rövid ideig nehézkes lehet.",
+                "ro": "Accesul poate fi dificil pentru scurt timp în caz de ninsoare abundentă.",
+                "en": "Access might be briefly difficult during heavy snowfall."
+              }
+            },
+            {
+              "name": "Gfieder Observation Tower",
+              "tip_5lang": {
+                "de": "Winterreifen und Erfahrung auf Bergstraßen bei Frost nötig.",
+                "hu": "Téli gumi és hegyi utakon szerzett tapasztalat szükséges fagyban.",
+                "ro": "Anvelope de iarnă și experiență pe drumuri montane necesare pe ger.",
+                "en": "Winter tires and mountain driving experience are necessary in freezing conditions."
+              }
+            },
+            {
+              "name": "Pottschach Castle",
+              "tip_5lang": {
+                "de": "Beeindruckendes Schloss-Panorama im weißen Winterkleid.",
+                "hu": "Lenyűgöző kastély-panoráma fehér téli ruhában.",
+                "ro": "Panoramă impresionantă a castelului în haina albă de iarnă.",
+                "en": "Impressive castle panorama in its white winter coat."
+              }
+            },
+            {
+              "name": "Steel Town Museum",
+              "tip_5lang": {
+                "de": "Angenehm temperierte Ausstellungsräume.",
+                "hu": "Kellemes hőmérsékletű kiállítótermek.",
+                "ro": "Săli de expoziție cu temperatură plăcută.",
+                "en": "Pleasantly heated exhibition rooms."
+              }
+            },
+            {
+              "name": "Parish Church of Ternitz",
+              "tip_5lang": {
+                "de": "Parkplätze sind meist schneefrei geräumt.",
+                "hu": "A parkolók többnyire hómentesek.",
+                "ro": "Parcările sunt de obicei deszăpezite.",
+                "en": "Parking lots are usually cleared of snow."
+              }
+            },
+            {
+              "name": "Robert Hamerling Park",
+              "tip_5lang": {
+                "de": "Vom Auto aus hat man einen guten Blick auf die Winterlandschaft.",
+                "hu": "Az autóból jó rálátás nyílik a téli tájra.",
+                "ro": "Din mașină aveți o vedere bună asupra peisajului de iarnă.",
+                "en": "You have a good view of the winter landscape from the car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterausrüstung (Reifen, Eiskratzer) ist im Schwarzatal Pflicht.",
+              "Die Bergstraße zum Gfieder kann vereist sein.",
+              "Batteriekapazität bei extremer Kälte im Auge behalten.",
+              "Heizung im Auto für die Pausen zwischen den Stopps nutzen."
+            ],
+            "hu": [
+              "Téli felszerelés (gumi, jégkaparó) kötelező a Schwarzatalban.",
+              "A Gfiederhez vezető hegyi út jeges lehet.",
+              "Ügyeljen az akkumulátor kapacitására extrém hidegben.",
+              "Használja az autó fűtését a megállók közötti szünetekben."
+            ],
+            "ro": [
+              "Echipamentul de iarnă (anvelope, răzuitoare) este obligatoriu în Schwarzatal.",
+              "Drumul montan spre Gfieder poate fi înghețat.",
+              "Monitorizați capacitatea bateriei în caz de ger extrem.",
+              "Folosiți încălzirea mașinii pentru pauzele dintre opriri."
+            ],
+            "en": [
+              "Winter equipment (tires, ice scraper) is mandatory in Schwarzatal.",
+              "The mountain road to Gfieder can be icy.",
+              "Keep an eye on battery capacity in extreme cold.",
+              "Use the car heater for breaks between stops."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1030,6 +1558,170 @@
           "Most sights in the center are within walking distance.",
           "Plan for some buffer time for waiting at stops."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie trocken mit dem Bus zur Pfarrkirche Ternitz. Die Haltestellen im Zentrum bieten meist guten Regenschutz.\n\nMittags erreichen Sie das Stahlstadtmuseum. Der Fußweg von der Haltestelle ist kurz, sodass Sie schnell ins Trockene gelangen.\n\nNachmittags führt die Fahrt zum Schloss Pottschach. Nutzen Sie die Wartezeiten an den Haltestellen für einen Blick in die regnerische Landschaft des Schwarzatals.\n\nDer Tag endet im Kulturhaus Ternitz, wo Sie wettergeschützt auf den letzten Bus oder Zug warten können.",
+            "hu": "Kezdje szárazon, busszal a ternitzi plébániatemplomhoz. A központi megállók általában jó védelmet nyújtanak az eső ellen.\n\nDélben elérheti az Acélváros Múzeumot. A gyalogút a megállótól rövid, így gyorsan fedél alá kerülhet.\n\nDélután az út a Pottschach kastélyhoz vezet. Használja ki a várakozási időt a megállókban a Schwarzatal esős tájának megfigyelésére.\n\nA nap a ternitzi Kultúrházban zárul, ahol az időjárástól védve várhatja az utolsó buszt vagy vonatot.",
+            "ro": "Începeți traseul la uscat cu autobuzul către Biserica Parohială din Ternitz. Stațiile din centru oferă de obicei o bună protecție împotriva ploii.\n\nLa prânz ajungeți la Muzeul Orașului Oțelului. Drumul pe jos de la stație este scurt, astfel încât ajungeți rapid la adăpost.\n\nDupă-amiaza, călătoria vă duce la Castelul Pottschach. Folosiți timpii de așteptare în stații pentru a privi peisajul ploios al văii Schwarzatal.\n\nZiua se încheie la Casa de Cultură din Ternitz, unde puteți aștepta ultimul autobuz sau tren la adăpost de vreme.",
+            "en": "Start dry by taking the bus to the Ternitz Parish Church. Central stops usually offer good rain protection.\n\nAt noon, reach the Steel Town Museum. The walk from the stop is short, getting you indoors quickly.\n\nIn the afternoon, head to Pottschach Castle. Use the waiting time at stops to catch views of the rainy Schwarzatal landscape.\n\nThe day ends at the Ternitz Culture House, where you can wait for the last bus or train sheltered from the weather."
+          },
+          "stops": [
+            {
+              "name": "Parish Church of Ternitz",
+              "tip_5lang": {
+                "de": "Zentrale Haltestellen mit Unterstand in unmittelbarer Nähe.",
+                "hu": "Központi megállók váróteremmel a közvetlen közelben.",
+                "ro": "Stații centrale cu adăpost în imediata apropiere.",
+                "en": "Central bus stops with shelters located very close by."
+              }
+            },
+            {
+              "name": "Steel Town Museum",
+              "tip_5lang": {
+                "de": "Nur wenige Gehminuten von der nächsten Bushaltestelle entfernt.",
+                "hu": "Csak néhány perc sétára a legközelebbi buszmegállótól.",
+                "ro": "La doar câteva minute de mers pe jos de cea mai apropiată stație de autobuz.",
+                "en": "Only a few minutes' walk from the nearest bus stop."
+              }
+            },
+            {
+              "name": "Pottschach Castle",
+              "tip_5lang": {
+                "de": "Die Bahnhaltestelle Pottschach bietet Schutz bei Zugverspätungen.",
+                "hu": "A pottschachi vasúti megálló védelmet nyújt vonatpésések esetén.",
+                "ro": "Stația de tren Pottschach oferă adăpost în caz de întârzieri.",
+                "en": "Pottschach train station provides shelter in case of delays."
+              }
+            },
+            {
+              "name": "Robert Hamerling Park",
+              "tip_5lang": {
+                "de": "Vom Bus aus kann man die Parkanlage im Vorbeifahren sehen.",
+                "hu": "A buszból elhaladva is látható a parkrendszer.",
+                "ro": "Din autobuz puteți vedea parcul în timp ce treceți pe lângă el.",
+                "en": "You can view the park grounds from the bus as you pass by."
+              }
+            },
+            {
+              "name": "Ternitz Culture House",
+              "tip_5lang": {
+                "de": "Idealer Endpunkt, da nah am Bahnhof Ternitz gelegen.",
+                "hu": "Ideális végpont, mivel közel van a ternitzi vasútállomáshoz.",
+                "ro": "Punct final ideal, fiind situat aproape de gara Ternitz.",
+                "en": "Ideal end point, located near the Ternitz train station."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "VOR-App nutzen, um Wartezeiten im Regen zu minimieren.",
+              "Die Züge der Südbahn sind eine trockene Alternative zum Bus.",
+              "Bahnhof Ternitz bietet einen beheizten Wartesaal.",
+              "Regenschirm für die Wege zwischen Haltestelle und Ziel mitnehmen."
+            ],
+            "hu": [
+              "Használja a VOR alkalmazást a várakozási idő minimalizálására.",
+              "A déli vasút (Südbahn) vonatai száraz alternatívát jelentenek.",
+              "A ternitzi vasútállomás fűtött váróteremmel rendelkezik.",
+              "Vigyen esernyőt a megálló és a cél közötti utakhoz."
+            ],
+            "ro": [
+              "Folosiți aplicația VOR pentru a minimiza timpii de așteptare.",
+              "Trenurile Südbahn sunt o alternativă uscată la autobuz.",
+              "Gara Ternitz are o sală de așteptare încălzită.",
+              "Luați o umbrelă pentru drumurile dintre stație și destinație."
+            ],
+            "en": [
+              "Use the VOR app to minimize waiting times in the rain.",
+              "Südbahn trains offer a dry alternative to buses.",
+              "Ternitz station has a heated waiting room.",
+              "Bring an umbrella for the segments between stops and attractions."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen beginnt mit der Fahrt zur Pfarrkirche Ternitz. Die beheizten Busse bieten einen angenehmen Start in den Tag.\n\nMittags wärmen Sie sich im Stahlstadtmuseum auf. Die kurzen Wege von den Haltestellen halten den Kontakt mit der eisigen Luft gering.\n\nNachmittags geht es per Bahn oder Bus zum Schloss Pottschach. Die winterliche Landschaft des Schwarzatals zieht am Fenster vorbei.\n\nDer Tag endet im Kulturhaus Ternitz. Genießen Sie die Wärme der Innenräume, bevor Sie die Heimreise vom nahegelegenen Bahnhof antreten.",
+            "hu": "Fagyos reggel kezdődik a ternitzi plébániatemplomhoz való utazással. A fűtött buszok kellemes indítást adnak a napnak.\n\nDélben melegedjen fel az Acélváros Múzeumban. A megállóktól vezető rövid utak csökkentik a jeges levegővel való érintkezést.\n\nDélután vonattal vagy busszal megy a Pottschach kastélyhoz. A Schwarzatal téli tája elsuhan az ablak előtt.\n\nA nap a ternitzi Kultúrházban zárul. Élvezze a belső terek melegét, mielőtt hazautazna a közeli vasútállomásról.",
+            "ro": "O dimineață geroasă începe cu drumul către Biserica Parohială din Ternitz. Autobuzele încălzite oferă un început plăcut al zilei.\n\nLa prânz, încălziți-vă în Muzeul Orașului Oțelului. Drumurile scurte de la stații minimizează contactul cu aerul înghețat.\n\nDupă-amiaza mergeți cu trenul sau autobuzul la Castelul Pottschach. Peisajul de iarnă al văii Schwarzatal trece pe lângă fereastră.\n\nZiua se încheie la Casa de Cultură din Ternitz. Bucurați-vă de căldura spațiilor interioare înainte de a pleca spre casă de la gara din apropiere.",
+            "en": "A frosty morning begins with a ride to the Ternitz Parish Church. Heated buses provide a comfortable start to the day.\n\nAt noon, warm up in the Steel Town Museum. Short walks from the stops keep your exposure to the icy air minimal.\n\nIn the afternoon, take a train or bus to Pottschach Castle. The wintry Schwarzatal landscape glides past the window.\n\nThe day ends at the Ternitz Culture House. Enjoy the warmth indoors before heading home from the nearby train station."
+          },
+          "stops": [
+            {
+              "name": "Parish Church of Ternitz",
+              "tip_5lang": {
+                "de": "Busse halten sehr nah am Eingang, um Kältephasen kurz zu halten.",
+                "hu": "A buszok nagyon közel állnak meg a bejárathoz a hideg ellen.",
+                "ro": "Autobuzele opresc foarte aproape de intrare pentru a limita frigul.",
+                "en": "Buses stop very close to the entrance to minimize time in the cold."
+              }
+            },
+            {
+              "name": "Steel Town Museum",
+              "tip_5lang": {
+                "de": "Gute Anbindung an den Stadtbus für eine warme Fahrt.",
+                "hu": "Jó összeköttetés a városi busszal a meleg utazásért.",
+                "ro": "Conexiune bună la autobuzul urban pentru o călătorie călduroasă.",
+                "en": "Good city bus connections for a warm ride."
+              }
+            },
+            {
+              "name": "Pottschach Castle",
+              "tip_5lang": {
+                "de": "Bahnhof Pottschach ist nur einen kurzen, winterlichen Spaziergang entfernt.",
+                "hu": "A pottschachi vasútállomás csak egy rövid, téli sétára van.",
+                "ro": "Gara Pottschach este la doar o scurtă plimbare de iarnă distanță.",
+                "en": "Pottschach station is just a short wintry walk away."
+              }
+            },
+            {
+              "name": "Robert Hamerling Park",
+              "tip_5lang": {
+                "de": "Haltestellen in der Nähe bieten oft windgeschützte Wartehäuschen.",
+                "hu": "A közeli megállók gyakran szélvédett várókkal rendelkeznek.",
+                "ro": "Stațiile din apropiere au adesea adăposturi protejate de vânt.",
+                "en": "Nearby stops often feature wind-protected shelters."
+              }
+            },
+            {
+              "name": "Ternitz Culture House",
+              "tip_5lang": {
+                "de": "Der nahe Bahnhof Ternitz hat einen gut beheizten Wartebereich.",
+                "hu": "A közeli ternitzi vasútállomás jól fűtött váróteremmel rendelkezik.",
+                "ro": "Gara Ternitz din apropiere are o zonă de așteptare bine încălzită.",
+                "en": "The nearby Ternitz station has a well-heated waiting area."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrpläne im Winter öfter prüfen, da Kälte zu Verzögerungen führen kann.",
+              "Die Züge sind meist besser beheizt als kleinere Busse.",
+              "Nutzen Sie die Wartebereiche in den Bahnhöfen Ternitz und Pottschach.",
+              "Handschuhe nicht vergessen, das Handy-Ticket-Händeln wird sonst kalt."
+            ],
+            "hu": [
+              "Télen gyakrabban ellenőrizze a menetrendet a lehetséges késések miatt.",
+              "A vonatok általában jobban fűtöttek, mint a kisebb buszok.",
+              "Használja a ternitzi és pottschachi állomások várótermeit.",
+              "Ne felejtse el a kesztyűt, különben kihűl a keze mobiljegy-kezeléskor."
+            ],
+            "ro": [
+              "Verificați orarele mai des iarna din cauza posibilelor întârzieri.",
+              "Trenurile sunt de obicei mai bine încălzite decât autobuzele mici.",
+              "Folosiți zonele de așteptare din gările Ternitz și Pottschach.",
+              "Nu uitați mănușile, altfel mâinile vor îngheța la validarea biletului."
+            ],
+            "en": [
+              "Check schedules more often in winter due to potential delays.",
+              "Trains are generally better heated than smaller buses.",
+              "Utilize the waiting areas at Ternitz and Pottschach stations.",
+              "Don't forget gloves, otherwise handling mobile tickets will be cold."
+            ]
+          }
+        }
       }
     }
   }

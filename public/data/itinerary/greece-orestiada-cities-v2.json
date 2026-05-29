@@ -386,6 +386,206 @@
           "Most city center sights are easily within walking distance.",
           "Plan for lunch at a tavern near the museum."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag am regnerischen Zentralplatz unter den Arkaden der Cafés. Das Denkmal der Stadtgründer lässt sich schnell besichtigen, bevor Sie in der Kirche Agioi Theodoroi Zuflucht suchen. Den verregneten Mittag verbringen Sie im beheizten Volkskundemuseum. Der Spaziergang zum historischen Bahnhof führt über nasse Straßen, während das Ardas-Ufer bei Regen eine melancholische, neblige Atmosphäre bietet.",
+            "hu": "Kezdje a napot a központi téren, az árkádos kávézók védelmében. A városalapítók emlékművét gyorsan megtekintheti, mielőtt az Agioi Theodoroi templom csendjébe húzódna az eső elől. A déltöltse a néprajzi múzeum fedett kiállításai között. A történelmi vasútállomás felé vezető út vizes lehet, az Ardas-folyó partja pedig ilyenkor ködös, drámai arcát mutatja. Készüljön gumicsizmával és esernyővel.",
+            "ro": "Începeți ziua în piața centrală, sub arcadele cafenelelor primitoare. Monumentul fondatorilor poate fi vizitat rapid înainte de a vă adăposti în biserica Agioi Theodoroi. Petreceți prânzul ploios în interiorul muzeului de etnografie. Drumul spre gara istorică necesită atenție la bălți, iar malurile râului Ardas oferă un peisaj melancolic și cețos, perfect pentru fotografii dramatice cu umbrela.",
+            "en": "Start your day at the central square, finding shelter under cafe awnings. Briefly visit the monument before seeking refuge in the Agioi Theodoroi Church. Spend the rainy midday exploring the indoor exhibits of the folklore museum. The walk to the historic station might be wet, and the Ardas river banks take on a misty, atmospheric quality. Carry a sturdy umbrella and enjoy the petrichor."
+          },
+          "stops": [
+            {
+              "name": "Central Square of Orestiada",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden der Cafés als Regenschutz.",
+                "hu": "Használja a kávézók árkádjait eső elleni védelemként.",
+                "ro": "Folosiți arcadele cafenelelor pentru a vă feri de ploaie.",
+                "en": "Use the cafe awnings as shelter from the rain."
+              }
+            },
+            {
+              "name": "Monument of the City Founders",
+              "tip_5lang": {
+                "de": "Nur ein kurzer Stopp für ein Foto unter dem Schirm.",
+                "hu": "Csak egy gyors megálló egy fotóra az esernyő alatt.",
+                "ro": "Doar o scurtă oprire pentru o poză sub umbrelă.",
+                "en": "Just a quick stop for a photo under your umbrella."
+              }
+            },
+            {
+              "name": "Church of Agioi Theodoroi",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um im Trockenen kurz innezuhalten.",
+                "hu": "Ideális hely egy rövid, száraz pihenőhöz.",
+                "ro": "Un loc ideal pentru un scurt moment de liniște la adăpost.",
+                "en": "An ideal spot for a short, dry moment of reflection."
+              }
+            },
+            {
+              "name": "Museum of Folklore and Art History",
+              "tip_5lang": {
+                "de": "Perfekter Zufluchtsort für eine lange Regenpause.",
+                "hu": "Tökéletes menedék egy hosszú esőszünethez.",
+                "ro": "Refugiul perfect pentru o pauză lungă de ploaie.",
+                "en": "Perfect sanctuary for a long break from the rain."
+              }
+            },
+            {
+              "name": "Historical Train Station",
+              "tip_5lang": {
+                "de": "Vorsicht vor rutschigen Bahnsteigen bei Nässe.",
+                "hu": "Vigyázat, a peronok vizesen csúszósak lehetnek.",
+                "ro": "Atenție la peroanele alunecoase când sunt ude.",
+                "en": "Watch out for slippery platforms when wet."
+              }
+            },
+            {
+              "name": "City Park",
+              "tip_5lang": {
+                "de": "Die dichten Baumkronen bieten natürlichen Schutz.",
+                "hu": "A sűrű lombok természetes védelmet nyújtanak.",
+                "ro": "Coroanele dese ale copacilor oferă protecție naturală.",
+                "en": "Dense tree canopies provide some natural shelter."
+              }
+            },
+            {
+              "name": "Banks of the Ardas River",
+              "tip_5lang": {
+                "de": "Achtung, die Uferwege können schlammig sein.",
+                "hu": "Vigyázat, a folyóparti utak sárgaulhatnak.",
+                "ro": "Atenție, potecile de pe malul râului pot fi noroioase.",
+                "en": "Caution, the riverbank paths can be muddy."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da Pfützen in den Seitenstraßen häufig sind.",
+              "Das Museum ist der beste Ort, um einen starken Schauer abzuwarten.",
+              "Cafés am Platz bieten gemütliche Plätze zum Aufwärmen und Trocknen.",
+              "Halten Sie ein Mikrofasertuch bereit, um Ihre Kameralinse abzuwischen."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert a mellékutcákban gyakoriak a tócsák.",
+              "A múzeum a legjobb hely egy intenzívebb zápor átvészelésére.",
+              "A főtér kávézói kényelmes helyet kínálnak a megszáradáshoz.",
+              "Legyen Önnél mikroszálas kendő a fényképezőgép lencséjének törléséhez."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, bălțile sunt frecvente pe străzile secundare.",
+              "Muzeul este cel mai bun loc pentru a aștepta trecerea unei averse puternice.",
+              "Cafenelele din piață oferă locuri primitoare pentru a vă usca.",
+              "Aveți la îndemână o lavetă din microfibră pentru a șterge lentila camerei."
+            ],
+            "en": [
+              "Wear waterproof shoes as puddles are common in side streets.",
+              "The museum is the best place to wait out a heavy downpour.",
+              "Cafes at the square offer cozy spots to dry off and warm up.",
+              "Keep a microfiber cloth handy to wipe your camera lens."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie das winterliche Orestiada bei klarer, kalter Luft. Starten Sie mit einem heißen Kaffee am Zentralplatz. Das Denkmal und die Kirche bieten besinnliche Momente, bevor Sie sich im gut beheizten Volkskundemuseum aufwärmen. Der historische Bahnhof wirkt im Winterlicht besonders nostalgisch. Beenden Sie den Tag früh am Ardas-Ufer, um den Sonnenuntergang gegen 17:00 Uhr zu genießen, bevor die Kälte anzieht.",
+            "hu": "Fedezze fel a téli Oresztiádát a friss, hideg levegőn. Kezdjen egy forró kávéval a főtéren. Az emlékmű és a templom csendes pillanatokat kínál, mielőtt felmelegedne a jól fűtött néprajzi múzeumban. A történelmi vasútállomás különösen nosztalgikus a téli fényekben. A napot fejezze be korán az Ardas partján, hogy elkapja az 5 óra körüli naplementét, mielőtt beállna az esti fagy.",
+            "ro": "Experimentați Orestiada iarna, cu aer rece și proaspăt. Începeți cu o cafea fierbinte în piața centrală. Monumentul și biserica oferă momente de liniște înainte de a vă încălzi în muzeul de etnografie bine încălzit. Gara istorică pare deosebit de nostalgică în lumina iernii. Încheiați ziua devreme pe malul râului Ardas pentru a vedea apusul în jurul orei 17:00, înainte ca frigul să se intensifice.",
+            "en": "Experience winter in Orestiada with crisp, cold air. Start with a hot coffee at the central square. The monument and church offer reflective moments before you warm up in the well-heated folklore museum. The historic station looks especially nostalgic in the winter light. Finish your day early at the Ardas banks to catch the 5 PM sunset before the evening chill sets in."
+          },
+          "stops": [
+            {
+              "name": "Central Square of Orestiada",
+              "tip_5lang": {
+                "de": "Holen Sie sich einen heißen Kakao zum Mitnehmen.",
+                "hu": "Vegyél egy forró kakaót elvitelre.",
+                "ro": "Luați o ciocolată caldă la pachet.",
+                "en": "Grab a hot cocoa to go."
+              }
+            },
+            {
+              "name": "Monument of the City Founders",
+              "tip_5lang": {
+                "de": "Kurzer Stopp; die Metallflächen können vereist sein.",
+                "hu": "Rövid megálló; a fémfelületek jegesek lehetnek.",
+                "ro": "Oprire scurtă; suprafețele metalice pot fi înghețate.",
+                "en": "Short stop; metal surfaces might be icy."
+              }
+            },
+            {
+              "name": "Church of Agioi Theodoroi",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe und die milde Innentemperatur.",
+                "hu": "Élvezze a csendet és a mérsékelt belső hőmérsékletet.",
+                "ro": "Bucurați-vă de liniște și de temperatura interioară blândă.",
+                "en": "Enjoy the silence and the mild indoor temperature."
+              }
+            },
+            {
+              "name": "Museum of Folklore and Art History",
+              "tip_5lang": {
+                "de": "Die beste Gelegenheit, um sich gründlich aufzuwärmen.",
+                "hu": "A legjobb alkalom egy alapos felmelegedésre.",
+                "ro": "Cea mai bună ocazie pentru o încălzire temeinică.",
+                "en": "The best opportunity for a thorough warm-up."
+              }
+            },
+            {
+              "name": "Historical Train Station",
+              "tip_5lang": {
+                "de": "Kleiden Sie sich warm, der Wind zieht hier oft.",
+                "hu": "Öltözzön melegen, itt gyakran huzatos a szél.",
+                "ro": "Îmbrăcați-vă gros, vântul bate adesea aici.",
+                "en": "Dress warmly, the wind often cuts through here."
+              }
+            },
+            {
+              "name": "City Park",
+              "tip_5lang": {
+                "de": "Schöner Ort für einen zügigen Winterspaziergang.",
+                "hu": "Szép hely egy lendületes téli sétához.",
+                "ro": "Un loc frumos pentru o plimbare rapidă de iarnă.",
+                "en": "A beautiful spot for a brisk winter walk."
+              }
+            },
+            {
+              "name": "Banks of the Ardas River",
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang ist hier gegen 17:00 Uhr.",
+                "hu": "A naplemente itt 17:00 körül van.",
+                "ro": "Apusul de soare aici este în jurul orei 17:00.",
+                "en": "Sunset here is around 5:00 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schichten Sie Ihre Kleidung (Zwiebelprinzip) gegen den kalten Wind.",
+              "Die Sonne geht früh unter, planen Sie Outdoor-Stopps vor 16:30 Uhr.",
+              "Prüfen Sie die Winteröffnungszeiten des Museums im Voraus.",
+              "Kopfbedeckung und Handschuhe sind für den Bahnhofsbereich essenziell."
+            ],
+            "hu": [
+              "Rétegesen öltözködjön a hideg szél ellen.",
+              "A nap korán nyugszik, a kinti programokat tervezze 16:30 elé.",
+              "Előre ellenőrizze a múzeum téli nyitvatartását.",
+              "Sapka és kesztyű elengedhetetlen a vasútállomás környékén."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi împotriva vântului rece.",
+              "Soarele apune devreme, planificați opririle în aer liber înainte de 16:30.",
+              "Verificați programul de iarnă al muzeului în prealabil.",
+              "Căciula și mănușile sunt esențiale pentru zona gării."
+            ],
+            "en": [
+              "Layer your clothing against the cold wind.",
+              "Sunset is early; plan outdoor stops before 4:30 PM.",
+              "Check the museum's winter opening hours in advance.",
+              "A hat and gloves are essential for the railway station area."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -742,6 +942,188 @@
           "Orestiada is relatively flat, making it good for cycling.",
           "Be mindful of traffic, especially near the city center."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine nasse Radtour erfordert Vorsicht. Starten Sie am Bahnhof und radeln Sie zügig zum Zentralplatz. Die längere Pause im Volkskundemuseum ist ideal, um die Kleidung zu trocknen. Das Kulturzentrum bietet weiteren Schutz, bevor Sie durch den Stadtpark zum Ardas-Ufer fahren. Achten Sie auf rutschige Kurven und nutzen Sie die asphaltierten Wege, um Schlamm zu vermeiden.",
+            "hu": "A vizes kerékpározás óvatosságot igényel. Kezdjen az állomáson, majd tekerjen a főtérre. A néprajzi múzeumban tartott hosszabb szünet ideális a ruhák szárítására. A kulturális központ további védelmet nyújt, mielőtt a parkon át az Ardas-partra hajtana. Ügyeljen a csúszós kanyarokra, és maradjon az aszfaltozott utakon a sár elkerülése érdekében.",
+            "ro": "O tură cu bicicleta pe ploaie necesită prudență. Începeți la gară și pedalați rapid spre piața centrală. Pauza lungă la muzeul de etnografie este ideală pentru a vă usca hainele. Centrul cultural oferă adăpost suplimentar înainte de a merge prin parcul orașului spre malul râului. Atenție la curbele alunecoase și folosiți drumurile asfaltate pentru a evita noroiul.",
+            "en": "A rainy bike ride requires caution. Start at the station and cycle quickly to the central square. A longer break at the folklore museum is ideal for drying off. The Cultural Centre provides further shelter before you ride through the park to the Ardas banks. Watch out for slippery corners and stick to paved paths to avoid mud."
+          },
+          "stops": [
+            {
+              "name": "Historical Train Station",
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Bremsen auf nassen Metallschienen.",
+                "hu": "Kerülje a fékezést a vizes fémsíneken.",
+                "ro": "Evitați frânarea pe șinele de metal ude.",
+                "en": "Avoid braking on wet metal rails."
+              }
+            },
+            {
+              "name": "Central Square & Monument",
+              "tip_5lang": {
+                "de": "Das Pflaster kann bei Nässe sehr rutschig sein.",
+                "hu": "A díszburkolat vizesen nagyon csúszós lehet.",
+                "ro": "Pavajul poate fi foarte alunecos pe ploaie.",
+                "en": "Pavement can be very slippery when wet."
+              }
+            },
+            {
+              "name": "Museum of Folklore and Art History",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter das Vordach am Eingang.",
+                "hu": "Állítsa a biciklit a bejáratnál lévő előtető alá.",
+                "ro": "Lăsați bicicleta sub streașina de la intrare.",
+                "en": "Park your bike under the overhang at the entrance."
+              }
+            },
+            {
+              "name": "Cultural Centre of Orestiada",
+              "tip_5lang": {
+                "de": "Guter Ort, um die Regenjacke kurz auszuschütteln.",
+                "hu": "Jó hely az esőkabát rövid lerázásához.",
+                "ro": "Loc bun pentru a scutura rapid pelerina de ploaie.",
+                "en": "Good spot to briefly shake off your raincoat."
+              }
+            },
+            {
+              "name": "City Park",
+              "tip_5lang": {
+                "de": "Vorsicht vor nassem Laub auf den Radwegen.",
+                "hu": "Vigyázat, vizes falevelek lehetnek a bringautakon.",
+                "ro": "Atenție la frunzele ude de pe pistele de biciclete.",
+                "en": "Watch out for wet leaves on the bike paths."
+              }
+            },
+            {
+              "name": "Banks of the Ardas River",
+              "tip_5lang": {
+                "de": "Nutzen Sie nur die befestigten Wege am Ufer.",
+                "hu": "Csak a kiépített utakat használja a parton.",
+                "ro": "Folosiți doar potecile amenajate de pe mal.",
+                "en": "Only use the paved paths along the bank."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Bremsen, bevor Sie im Regen losfahren.",
+              "Vermeiden Sie Pfützen, da diese tiefe Schlaglöcher verbergen können.",
+              "Tragen Sie eine Warnweste für bessere Sichtbarkeit bei trübem Wetter.",
+              "Schutzbleche am Fahrrad sind bei diesem Wetter ein Muss."
+            ],
+            "hu": [
+              "Ellenőrizze a fékeket, mielőtt elindul az esőben.",
+              "Kerülje a tócsákat, mert mély kátyúkat rejthetnek.",
+              "Viseljen láthatósági mellényt a szürke időben.",
+              "A sárvédő elengedhetetlen ilyen időjárás esetén."
+            ],
+            "ro": [
+              "Verificați frânele înainte de a pleca pe ploaie.",
+              "Evitați bălțile, deoarece pot ascunde gropi adânci.",
+              "Purtați o vestă reflectorizantă pentru vizibilitate sporită.",
+              "Apărătorile de noroi sunt obligatorii pe această vreme."
+            ],
+            "en": [
+              "Check your brakes before starting in the rain.",
+              "Avoid puddles as they can hide deep potholes.",
+              "Wear a high-visibility vest for better visibility in gloomy weather.",
+              "Mudguards are a must-have for this weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im Winter in Orestiada ist erfrischend, aber kalt. Beginnen Sie am Bahnhof und radeln Sie zum Zentralplatz für ein warmes Getränk. Das Volkskundemuseum und das Kulturzentrum bieten wichtige Aufwärmstopps. Genießen Sie die winterliche Stille im Stadtpark und den weiten Blick am Ardas-Ufer. Die tiefstehende Sonne kann blenden, daher ist eine Sonnenbrille trotz Kälte ratsam.",
+            "hu": "A téli kerékpározás Oresztiádában frissítő, de hideg. Kezdjen az állomáson, majd tekerjen a főtérre egy meleg italért. A néprajzi múzeum és a kulturális központ fontos melegedőhelyek. Élvezze a téli csendet a városi parkban és a tágas kilátást az Ardas partján. Az alacsonyan járó nap elvakíthat, ezért a hideg ellenére is ajánlott a napszemüveg.",
+            "ro": "Mersul cu bicicleta iarna în Orestiada este revigorant, dar rece. Începeți la gară și pedalați spre piața centrală pentru o băutură caldă. Muzeul de etnografie și centrul cultural oferă opriri esențiale pentru încălzire. Bucurați-vă de liniștea iernii în parcul orașului și de vederea panoramică de pe malul râului. Soarele jos poate fi orbitor, așa că ochelarii de soare sunt recomandați.",
+            "en": "Cycling in winter in Orestiada is refreshing but cold. Start at the station and cycle to the central square for a warm drink. The folklore museum and cultural centre provide vital warm-up stops. Enjoy the winter silence in the city park and the wide views at the Ardas banks. The low sun can be blinding, so sunglasses are recommended despite the cold."
+          },
+          "stops": [
+            {
+              "name": "Historical Train Station",
+              "tip_5lang": {
+                "de": "Vorsicht bei Raureif auf den Brücken und Schienen.",
+                "hu": "Vigyázat, zúzmara lehet a hidakon és síneken.",
+                "ro": "Atenție la chiciura de pe poduri și șine.",
+                "en": "Watch out for hoarfrost on bridges and rails."
+              }
+            },
+            {
+              "name": "Central Square & Monument",
+              "tip_5lang": {
+                "de": "Die Cafés haben meist beheizte Außenbereiche.",
+                "hu": "A kávézók többsége fűtött terasszal vár.",
+                "ro": "Majoritatea cafenelelor au terase încălzite.",
+                "en": "Most cafes have heated outdoor seating areas."
+              }
+            },
+            {
+              "name": "Museum of Folklore and Art History",
+              "tip_5lang": {
+                "de": "Idealer Ort, um die Finger wieder aufzuwärmen.",
+                "hu": "Ideális hely az ujjak felmelegítésére.",
+                "ro": "Loc ideal pentru a vă reîncălzi degetele.",
+                "en": "Ideal spot to warm up your fingers again."
+              }
+            },
+            {
+              "name": "Cultural Centre of Orestiada",
+              "tip_5lang": {
+                "de": "Prüfen Sie das aktuelle Indoor-Kulturprogramm.",
+                "hu": "Ellenőrizze az aktuális beltéri kulturális programot.",
+                "ro": "Verificați programul cultural de interior.",
+                "en": "Check the current indoor cultural program."
+              }
+            },
+            {
+              "name": "City Park",
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig in schattigen Parkabschnitten.",
+                "hu": "Óvatosan tekerjen az árnyékos parkrészeken.",
+                "ro": "Pedalați cu grijă în zonele umbrite ale parcului.",
+                "en": "Ride carefully in shaded sections of the park."
+              }
+            },
+            {
+              "name": "Banks of the Ardas River",
+              "tip_5lang": {
+                "de": "Am Fluss ist es oft deutlich kälter als im Zentrum.",
+                "hu": "A folyónál gyakran jóval hidegebb van, mint a központban.",
+                "ro": "La râu este adesea mult mai frig decât în centru.",
+                "en": "It's often much colder by the river than in the center."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winddichte Handschuhe sind beim Radfahren im Winter Pflicht.",
+              "Achten Sie auf Glatteis an schattigen Stellen am frühen Morgen.",
+              "Die Batterien von Fahrradleuchten entladen sich bei Kälte schneller.",
+              "Trinken Sie ausreichend, auch wenn Sie weniger Durst verspüren."
+            ],
+            "hu": [
+              "A szélálló kesztyű kötelező a téli bringázáshoz.",
+              "Kora reggel figyeljen a jegesedésre az árnyékos helyeken.",
+              "A lámpák elemei gyorsabban merülnek a hidegben.",
+              "Igyon eleget, még akkor is, ha kevésbé érzi szomjasnak magát."
+            ],
+            "ro": [
+              "Mănușile rezistente la vânt sunt obligatorii iarna.",
+              "Atenție la gheață în locurile umbrite, dimineața devreme.",
+              "Bateriile luminilor de bicicletă se descarcă mai repede la frig.",
+              "Hidratați-vă suficient, chiar dacă nu simțiți setea atât de tare."
+            ],
+            "en": [
+              "Windproof gloves are mandatory for winter cycling.",
+              "Watch out for black ice in shaded spots early in the morning.",
+              "Bike light batteries drain faster in the cold.",
+              "Stay hydrated, even if you don't feel as thirsty."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1098,6 +1480,188 @@
           "A GPS is helpful for finding the different locations.",
           "Don't leave valuables in the car."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden Sie Orestiada trotz Regen komfortabel. Starten Sie am Ardas-Ufer und genießen Sie den Blick aus dem trockenen Fahrzeug. Der historische Bahnhof und die Kirche Agioi Theodoroi sind schnell erreichbar. Parken Sie zentral, um das Volkskundemuseum ausgiebig zu besuchen. Den Abschluss bildet der Stadtpark, wobei Sie bei starkem Regen einfach eine Runde durch die Alleen drehen können.",
+            "hu": "Autóval kényelmesen felfedezheti Oresztiádát az eső ellenére is. Kezdjen az Ardas partján, élvezze a kilátást a száraz autóból. A vasútállomás és a templom gyorsan elérhető. Parkoljon a központban a néprajzi múzeum alapos bejárásához. A napot a városi park zárja, ahol erős esőben akár csak egy autós kört is tehet a fasorok mentén.",
+            "ro": "Cu mașina, explorați Orestiada confortabil în ciuda ploii. Începeți pe malul râului Ardas și bucurați-vă de priveliște din vehiculul uscat. Gara istorică și biserica sunt rapid accesibile. Parcați central pentru o vizită prelungită la muzeul de etnografie. Încheiați la parcul orașului, unde puteți face doar o tură cu mașina pe lângă alei dacă plouă torențial.",
+            "en": "Explore Orestiada comfortably by car despite the rain. Start at the Ardas banks and enjoy the view from your dry vehicle. The historic station and the church are easily reachable. Park centrally for an extensive visit to the folklore museum. Finish at the city park, where you can simply drive along the avenues if the rain gets too heavy."
+          },
+          "stops": [
+            {
+              "name": "Banks of the Ardas River",
+              "tip_5lang": {
+                "de": "Parken Sie auf festem Grund, um nicht steckenzubleiben.",
+                "hu": "Szilárd talajon parkoljon, hogy ne akadjon el.",
+                "ro": "Parcați pe teren solid pentru a nu rămâne blocat.",
+                "en": "Park on solid ground to avoid getting stuck."
+              }
+            },
+            {
+              "name": "Historical Train Station",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Parkplatz zum Bahnhofsgebäude.",
+                "hu": "Rövid séta a parkolótól az állomás épületéig.",
+                "ro": "Scurtă plimbare de la parcare la clădirea gării.",
+                "en": "Short walk from the parking area to the station building."
+              }
+            },
+            {
+              "name": "Central Square of Orestiada (Cluster Start)",
+              "tip_5lang": {
+                "de": "Suchen Sie ein Parkhaus oder einen überdachten Platz.",
+                "hu": "Keressen parkolóházat vagy fedett parkolóhelyet.",
+                "ro": "Căutați o parcare acoperită în apropiere.",
+                "en": "Look for a parking garage or covered spot nearby."
+              }
+            },
+            {
+              "name": "Church of Agioi Theodoroi",
+              "tip_5lang": {
+                "de": "Lassen Sie den Schirm im Auto, wenn es nur nieselt.",
+                "hu": "Hagyja az ernyőt az autóban, ha csak szitál az eső.",
+                "ro": "Lăsați umbrela în mașină dacă doar burnițează.",
+                "en": "Leave the umbrella in the car if it's only drizzling."
+              }
+            },
+            {
+              "name": "Museum of Folklore and Art History",
+              "tip_5lang": {
+                "de": "Perfektes Ziel, um den Regen im Warmen zu vergessen.",
+                "hu": "Tökéletes célpont, hogy a melegben elfelejtse az esőt.",
+                "ro": "Destinația perfectă pentru a uita de ploaie la căldură.",
+                "en": "Perfect destination to forget the rain in the warmth."
+              }
+            },
+            {
+              "name": "City Park",
+              "tip_5lang": {
+                "de": "Genießen Sie den Parkblick bei laufenden Scheibenwischern.",
+                "hu": "Élvezze a park látványát járó ablaktörlők mellett.",
+                "ro": "Bucurați-vă de parcul orașului cu ștergătoarele pornite.",
+                "en": "Enjoy the park view with your wipers on."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Zustand Ihrer Scheibenwischer vor der Fahrt.",
+              "Nutzen Sie die Klimaanlage, um das Beschlagen der Scheiben zu verhindern.",
+              "Vermeiden Sie das Parken unter großen Bäumen bei Sturmgefahr.",
+              "Halten Sie Abstand, da der Bremsweg auf nasser Fahrbahn länger ist."
+            ],
+            "hu": [
+              "Ellenőrizze az ablaktörlők állapotát indulás előtt.",
+              "Használja a légkondicionálót a szélvédő párátlanításához.",
+              "Viharveszély esetén kerülje a nagy fák alatti parkolást.",
+              "Tartson nagyobb követési távolságot a vizes úton."
+            ],
+            "ro": [
+              "Verificați starea ștergătoarelor înainte de drum.",
+              "Folosiți aerul condiționat pentru a preveni aburirea geamurilor.",
+              "Evitați parcarea sub copaci mari dacă există risc de furtună.",
+              "Păstrați distanța, distanța de frânare este mai mare pe carosabil ud."
+            ],
+            "en": [
+              "Check the condition of your wipers before driving.",
+              "Use the air conditioning to prevent the windows from fogging up.",
+              "Avoid parking under large trees if there's a storm risk.",
+              "Keep your distance as braking distance is longer on wet roads."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winter-Sightseeing per Auto ist in Orestiada besonders effizient. Starten Sie am Ardas-Ufer, wo der Frost die Landschaft verzaubert. Besuchen Sie den Bahnhof und die Kirche, bevor Sie die wohlige Wärme des Volkskundemuseums genießen. Der Stadtpark wirkt im Winter karg, aber friedlich. Durch die kurzen Wege zwischen den Parkplätzen und Sehenswürdigkeiten bleiben Sie auch bei Minusgraden stets warm.",
+            "hu": "A téli városnézés autóval különösen hatékony Oresztiádában. Kezdjen az Ardas partján, ahol a dér elvarázsolja a tájat. Látogassa meg az állomást és a templomot, mielőtt élvezné a néprajzi múzeum kellemes melegét. A városi park télen kopár, de békés. A parkolók és a látnivalók közötti rövid sétautaknak köszönhetően mínuszokban is melegen maradhat.",
+            "ro": "Vizitarea orașului iarna cu mașina este deosebit de eficientă în Orestiada. Începeți pe malul râului Ardas, unde înghețul transformă peisajul. Vizitați gara și biserica înainte de a vă bucura de căldura muzeului. Parcul orașului pare auster iarna, dar liniștit. Datorită distanțelor scurte între parcări și obiective, veți rămâne la căldură chiar și pe ger.",
+            "en": "Winter sightseeing by car is particularly efficient in Orestiada. Start at the Ardas banks, where frost enchants the landscape. Visit the station and the church before enjoying the warmth of the folklore museum. The city park looks stark but peaceful in winter. Thanks to the short walks between parking and sights, you'll stay warm even in freezing temperatures."
+          },
+          "stops": [
+            {
+              "name": "Banks of the Ardas River",
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor nicht unnötig im Stand laufen.",
+                "hu": "Ne járassa feleslegesen a motort álló helyzetben.",
+                "ro": "Nu lăsați motorul pornit inutil în staționare.",
+                "en": "Don't leave the engine idling unnecessarily."
+              }
+            },
+            {
+              "name": "Historical Train Station",
+              "tip_5lang": {
+                "de": "Prüfen Sie, ob der Parkplatz geräumt oder gestreut ist.",
+                "hu": "Ellenőrizze, hogy a parkoló le van-e takarítva vagy sózva.",
+                "ro": "Verificați dacă parcarea este curățată sau presărată cu sare.",
+                "en": "Check if the parking area is cleared or salted."
+              }
+            },
+            {
+              "name": "Central Square of Orestiada (Cluster Start)",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Sitzheizung für die kurzen Fahrten.",
+                "hu": "Használja az ülésfűtést a rövid utakra.",
+                "ro": "Folosiți încălzirea în scaune pentru drumurile scurte.",
+                "en": "Use the seat heating for short trips."
+              }
+            },
+            {
+              "name": "Church of Agioi Theodoroi",
+              "tip_5lang": {
+                "de": "Vorsicht beim Aussteigen vor glatten Bordsteinen.",
+                "hu": "Kiszálláskor ügyeljen a csúszós padkákra.",
+                "ro": "Atenție la bordurile alunecoase când coborâți din mașină.",
+                "en": "Watch out for slippery curbs when getting out of the car."
+              }
+            },
+            {
+              "name": "Museum of Folklore and Art History",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Winterjacke kurz abzulegen.",
+                "hu": "Ideális hely a télikabát rövid letételéhez.",
+                "ro": "Loc ideal pentru a vă lăsa haina de iarnă pentru o vreme.",
+                "en": "An ideal place to take off your winter coat for a while."
+              }
+            },
+            {
+              "name": "City Park",
+              "tip_5lang": {
+                "de": "Die Wege können bei Frost sehr tückisch sein.",
+                "hu": "A gyalogutak fagyban nagyon csalósak lehetnek.",
+                "ro": "Aleile pot fi foarte înșelătoare pe timp de îngheț.",
+                "en": "The paths can be very treacherous in freezing weather."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Sie genügend Frostschutzmittel im Wischwasser haben.",
+              "Prüfen Sie den Reifendruck, da dieser bei Kälte sinkt.",
+              "Ein Eiskratzer sollte in der Winterzeit immer griffbereit sein.",
+              "Achten Sie auf Wildwechsel am Stadtrand in der frühen Dämmerung."
+            ],
+            "hu": [
+              "Győződjön meg róla, hogy elég fagyálló van a szélvédőmosóban.",
+              "Ellenőrizze a guminyomást, mert hidegben csökkenhet.",
+              "A jégkaparó télen mindig legyen kéznél.",
+              "Figyeljen a vadakra a város szélén a korai szürkületben."
+            ],
+            "ro": [
+              "Asigurați-v著 că aveți destul lichid de parbriz antigel.",
+              "Verificați presiunea în anvelope, scade la frig.",
+              "Răzuitoarea de gheață trebuie să fie mereu la îndemână iarna.",
+              "Atenție la animalele sălbatice la marginea orașului în amurg."
+            ],
+            "en": [
+              "Make sure you have enough antifreeze in your windshield washer fluid.",
+              "Check tire pressure as it drops in the cold.",
+              "An ice scraper should always be handy during winter.",
+              "Watch out for wildlife on the edge of town during early dusk."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1454,6 +2018,188 @@
           "Have small change ready for tickets.",
           "Pay attention to the next stop displays on the bus."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den Bus, um Orestiada im Regen zu erkunden. Starten Sie am Zentralplatz und dem Denkmal, die Bushaltestellen bieten meist Schutz. Das Volkskundemuseum ist ein ausgiebiger Indoor-Stopp. Fahren Sie zum historischen Bahnhof und zum Kulturzentrum, um trocken zu bleiben. Der Stadtpark lässt sich am besten von einer der Haltestellen am Rand aus betrachten, wenn der Regen zu stark wird.",
+            "hu": "Használja a buszt Oresztiáda felfedezéséhez esőben. Kezdjen a főtéren és az emlékműnél, a buszmegállók többnyire fedettek. A néprajzi múzeum kiváló beltéri program. Utazzon a vasútállomáshoz és a kulturális központhoz, hogy szárazon maradjon. A városi parkot a szélső megállókból nézheti meg, ha az eső túl erőssé válik.",
+            "ro": "Folosiți autobuzul pentru a explora Orestiada pe ploaie. Începeți în piața centrală și la monument, stațiile oferă de obicei adăpost. Muzeul de etnografie este o oprire excelentă la interior. Mergeți cu autobuzul la gară și la centrul cultural pentru a rămâne uscați. Parcul poate fi observat din stațiile de la margine dacă ploaia devine prea puternică.",
+            "en": "Use the bus to explore Orestiada in the rain. Start at the central square and the monument; the bus stops usually provide cover. The folklore museum is a great indoor stop. Take the bus to the historic station and the cultural centre to stay dry. The city park can be viewed from the stops at its edge if the rain gets too heavy."
+          },
+          "stops": [
+            {
+              "name": "Central Square of Orestiada (Cluster Start)",
+              "tip_5lang": {
+                "de": "Zentraler Knotenpunkt mit vielen überdachten Haltestellen.",
+                "hu": "Központi csomópont sok fedett megállóval.",
+                "ro": "Nod central cu multe stații acoperite.",
+                "en": "Central hub with many covered bus stops."
+              }
+            },
+            {
+              "name": "Monument of the City Founders",
+              "tip_5lang": {
+                "de": "Nur ein kurzer Fußweg von der Bushaltestelle.",
+                "hu": "Csak egy rövid séta a buszmegállótól.",
+                "ro": "Doar o scurtă plimbare de la stația de autobuz.",
+                "en": "Just a short walk from the bus stop."
+              }
+            },
+            {
+              "name": "Museum of Folklore and Art History",
+              "tip_5lang": {
+                "de": "Warten Sie im Museumsfoyer auf Ihren nächsten Bus.",
+                "hu": "Várjon a múzeum előterében a következő buszra.",
+                "ro": "Așteptați următorul autobuz în foierul muzeului.",
+                "en": "Wait for your next bus in the museum foyer."
+              }
+            },
+            {
+              "name": "Historical Train Station (Cluster Start)",
+              "tip_5lang": {
+                "de": "Das Bahnhofsgebäude bietet guten Schutz vor Regen.",
+                "hu": "Az állomás épülete jó védelmet nyújt az eső ellen.",
+                "ro": "Clădirea gării oferă o protecție bună împotriva ploii.",
+                "en": "The station building provides good shelter from the rain."
+              }
+            },
+            {
+              "name": "Cultural Centre of Orestiada",
+              "tip_5lang": {
+                "de": "Direkt vor dem Eingang gibt es eine Haltestelle.",
+                "hu": "Közvetlenül a bejárat előtt van egy megálló.",
+                "ro": "Există o stație chiar în fața intrării.",
+                "en": "There's a bus stop right in front of the entrance."
+              }
+            },
+            {
+              "name": "City Park",
+              "tip_5lang": {
+                "de": "Wählen Sie eine Haltestelle mit Wartehäuschen.",
+                "hu": "Válasszon váróteremmel rendelkező megállót.",
+                "ro": "Alegeți o stație care are adăpost.",
+                "en": "Choose a bus stop that has a shelter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Laden Sie eine Nahverkehrs-App für Echtzeit-Infos herunter.",
+              "Halten Sie Kleingeld oder eine Fahrkarte bereit, um Verzögerungen zu vermeiden.",
+              "Bedenken Sie, dass Busse bei starkem Regen Verspätung haben können.",
+              "Ein kleiner Taschenschirm ist ideal für die Wege zwischen den Haltestellen."
+            ],
+            "hu": [
+              "Töltsön le egy közlekedési appot a valós idejű infókért.",
+              "Készítsen elő aprópénzt vagy jegyet a késések elkerülésére.",
+              "Számoljon azzal, hogy erős esőben a buszok késhetnek.",
+              "Egy kis összecsukható ernyő ideális a megállók közötti utakhoz."
+            ],
+            "ro": [
+              "Descărcați o aplicație de transport pentru informații în timp real.",
+              "Pregătiți mărunțiș sau biletul pentru a evita întârzierile.",
+              "Luați în calcul că autobuzele pot avea întârzieri pe ploaie torențială.",
+              "O umbrelă mică este ideală pentru distanțele dintre stații."
+            ],
+            "en": [
+              "Download a transit app for real-time information.",
+              "Have change or a ticket ready to avoid delays.",
+              "Keep in mind that buses can be delayed during heavy rain.",
+              "A small travel umbrella is ideal for the stretches between stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Bus ist die wärmste Art, Orestiada im Winter zu erkunden. Beginnen Sie am Zentralplatz und nutzen Sie die beheizten Busse für den Transfer. Das Volkskundemuseum ist der ideale Ort, um die Kälte für ein paar Stunden zu vergessen. Besuchen Sie den Bahnhof und das Kulturzentrum, ohne lange in der Kälte stehen zu müssen. Der Stadtpark bietet eine schöne Winterkulisse, die Sie bei der Vorbeifahrt genießen können.",
+            "hu": "A busz a legmelegebb módja Oresztiáda felfedezésének télen. Kezdjen a főtéren, és használja a fűtött buszokat az átszálláshoz. A néprajzi múzeum ideális hely, hogy pár órára elfelejtse a hideget. Látogassa meg az állomást és a kulturális központot anélkül, hogy sokat kellene a fagyban állnia. A városi park szép téli látványt nyújt, amit a buszablakból is élvezhet.",
+            "ro": "Autobuzul este cel mai călduros mod de a explora Orestiada iarna. Începeți în piața centrală și folosiți autobuzele încălzite pentru transfer. Muzeul de etnografie este locul ideal pentru a uita de frig timp de câteva ore. Vizitați gara și centrul cultural fără a sta mult în ger. Parcul orașului oferă un decor de iarnă frumos, pe care îl puteți admira din mers.",
+            "en": "The bus is the warmest way to explore Orestiada in winter. Start at the central square and use the heated buses for transit. The folklore museum is the ideal place to forget the cold for a few hours. Visit the station and the cultural centre without having to stand in the freeze for long. The city park offers a beautiful winter backdrop that you can enjoy as you pass by."
+          },
+          "stops": [
+            {
+              "name": "Central Square of Orestiada (Cluster Start)",
+              "tip_5lang": {
+                "de": "Warten Sie in einem der angrenzenden warmen Cafés.",
+                "hu": "Várjon az egyik szomszédos meleg kávézóban.",
+                "ro": "Așteptați într-una dintre cafenelele calde din apropiere.",
+                "en": "Wait in one of the adjacent warm cafes."
+              }
+            },
+            {
+              "name": "Monument of the City Founders",
+              "tip_5lang": {
+                "de": "Ziehen Sie sich warm an, an den Haltestellen zieht es oft.",
+                "hu": "Öltözzön melegen, a megállókban gyakran huzatos a szél.",
+                "ro": "Îmbrăcați-vă gros, stațiile sunt adesea expuse vântului.",
+                "en": "Dress warmly; the bus stops are often drafty."
+              }
+            },
+            {
+              "name": "Museum of Folklore and Art History",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch als Aufwärmpause.",
+                "hu": "Használja a múzeumlátogatást melegedő szünetként.",
+                "ro": "Folosiți vizita la muzeu ca o pauză de încălzire.",
+                "en": "Use the museum visit as a warm-up break."
+              }
+            },
+            {
+              "name": "Historical Train Station (Cluster Start)",
+              "tip_5lang": {
+                "de": "Die Wartehalle im Bahnhof ist im Winter beheizt.",
+                "hu": "Az állomás váróterme télen fűtött.",
+                "ro": "Sala de așteptare din gară este încălzită iarna.",
+                "en": "The waiting hall in the station is heated in winter."
+              }
+            },
+            {
+              "name": "Cultural Centre of Orestiada",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Fahrplan, um Wartezeiten zu minimieren.",
+                "hu": "Ellenőrizze a menetrendet a várakozási idő csökkentésére.",
+                "ro": "Verificați programul pentru a minimiza timpul de așteptare.",
+                "en": "Check the schedule to minimize waiting times."
+              }
+            },
+            {
+              "name": "City Park",
+              "tip_5lang": {
+                "de": "Steigen Sie nur aus, wenn Sie einen Spaziergang planen.",
+                "hu": "Csak akkor szálljon le, ha sétát is tervez.",
+                "ro": "Coborâți doar dacă plănuiți să faceți o plimbare.",
+                "en": "Only get off if you are planning to take a walk."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Planen Sie Ihre Fahrten so, dass Sie bei Dunkelheit im Zentrum sind.",
+              "Die Busse sind im Winter oft gut geheizt – Zwiebelprinzip hilft.",
+              "Beachten Sie eventuelle Fahrplanänderungen während der Feiertage.",
+              "Warme Schuhe sind wichtig, da der Boden in den Bussen kalt sein kann."
+            ],
+            "hu": [
+              "Tervezze úgy az útjait, hogy sötétedéskor már a központban legyen.",
+              "A buszok télen jól fűtöttek – a réteges öltözködés segít.",
+              "Ügyeljen az esetleges ünnepi menetrendi változásokra.",
+              "A meleg cipő fontos, mert a buszok padlója hideg lehet."
+            ],
+            "ro": [
+              "Planificați călătoriile astfel încât să fiți în centru la lăsarea întunericului.",
+              "Autobuzele sunt bine încălzite iarna – îmbrăcați-vă în straturi.",
+              "Fiți atenți la eventualele modificări de program în timpul sărbătorilor.",
+              "Încălțămintea călduroasă este importantă, podeaua autobuzelor poate fi rece."
+            ],
+            "en": [
+              "Plan your trips so that you are in the center by nightfall.",
+              "Buses are often well-heated in winter – layering helps.",
+              "Watch out for any schedule changes during the holidays.",
+              "Warm shoes are important as bus floors can be cold."
+            ]
+          }
+        }
       }
     }
   }

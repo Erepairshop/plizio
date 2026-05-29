@@ -362,6 +362,196 @@
           "Check the opening hours of the Banffy Spa in advance.",
           "Don't forget your swimwear and a towel."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Vormittag beginnt im Park unter dem Schutz der Bäume, gefolgt von einer Innenbesichtigung des Urmánczy-Herrenhauses. Mittags führt der Weg zum Heldenmonument und zur Holzkirche von Călimănel, wo die Architektur im Regen glänzt. Am Nachmittag ist der dampfende Thermalwasserfall ein magischer Anblick, bevor der Tag im warmen Wasser des Banffy-Heilbads entspannt ausklingt.",
+            "hu": "A délelőtt a park fái alatt kezdődik, majd az Urmánczy-kastély belső terei nyújtanak menedéket. Délben a Hősök emlékműve és a kelemen-pataki fatemplom következik, melyek sötét fája különlegesen fest az esőben. Délután a gőzölgő termál-vízesés látványa kárpótol a borúért, az estét pedig a Bánffy-fürdő forró medencéiben, fedett helyen zárhatjuk.",
+            "ro": "Dimineața începe în parc sub adăpostul copacilor, urmată de o vizită în interiorul Conacului Urmánczy. La prânz, drumul duce la Monumentul Eroilor și la Biserica de lemn din Călimănel, a cărei arhitectură strălucește în ploaie. După-amiaza, cascada termală aburindă este o priveliște magică, înainte ca ziua să se încheie relaxant în apele calde ale ștrandului Banffy.",
+            "en": "The morning starts in the park under the shelter of trees, followed by an indoor tour of the Urmánczy Mansion. At noon, visit the Heroes' Monument and the Călimănel Wooden Church, where the architecture glows in the rain. In the afternoon, the steaming thermal waterfall is a magical sight before the day ends relaxingly in the warm waters of the Banffy Spa."
+          },
+          "stops": [
+            {
+              "name": "Central Park",
+              "tip_5lang": {
+                "de": "Die dichten Baumkronen bieten einen guten natürlichen Regenschutz.",
+                "hu": "A sűrű lombozat természetes esernyőként véd a séta alatt.",
+                "ro": "Coroanele dese ale copacilor oferă o protecție naturală bună împotriva ploii.",
+                "en": "The dense tree canopy provides good natural rain protection."
+              }
+            },
+            {
+              "name": "Urmánczy Mansion",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit für eine ausführliche Innenbesichtigung der Ausstellungen.",
+                "hu": "Használja ki az időt a kiállítások alapos belső megtekintésére.",
+                "ro": "Profită de timp pentru o vizită detaliată a expozițiilor interioare.",
+                "en": "Take advantage of the time for a detailed indoor tour of the exhibitions."
+              }
+            },
+            {
+              "name": "Heroes' Monument",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp für ein Foto; der Stein wirkt im Regen besonders markant.",
+                "hu": "Rövid megálló egy fotóra; a kőzet az esőben még karakteresebb.",
+                "ro": "O oprire scurtă pentru o fotografie; piatra pare mai marcată în ploaie.",
+                "en": "A quick stop for a photo; the stone looks particularly striking in the rain."
+              }
+            },
+            {
+              "name": "Wooden Church of Călimănel",
+              "tip_5lang": {
+                "de": "Der hölzerne Vorraum bietet Schutz, während Sie die Ruhe genießen.",
+                "hu": "A fatemplom előtere menedéket nyújt, amíg a csendet élvezi.",
+                "ro": "Pridvorul de lemn oferă adăpost în timp ce vă bucurați de liniște.",
+                "en": "The wooden porch offers shelter while you enjoy the silence."
+              }
+            },
+            {
+              "name": "Thermal Waterfall",
+              "tip_5lang": {
+                "de": "Bei Regen dampft das warme Wasser besonders intensiv und mystisch.",
+                "hu": "Esőben a meleg víz párolgása intenzívebb és misztikusabb látvány.",
+                "ro": "În ploaie, aburul apei calde este deosebit de intens și mistic.",
+                "en": "In the rain, the steam from the warm water is particularly intense and mystical."
+              }
+            },
+            {
+              "name": "Banffy Thermal Spa",
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um sich nach dem Spaziergang im Thermalwasser aufzuwärmen.",
+                "hu": "Tökéletes hely a felmelegedésre a vizes séta után a termálvízben.",
+                "ro": "Locul perfect pentru a vă încălzi în apa termală după plimbare.",
+                "en": "The perfect place to warm up in thermal water after the walk."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Wählen Sie wasserfeste Wanderschuhe für die unbefestigten Wege am Wasserfall.",
+              "Das Urmánczy-Herrenhaus bietet die längste überdachte Aufenthaltsmöglichkeit.",
+              "Regenschirme können bei starkem Wind in den Bergen unpraktisch sein; Regenponchos sind besser.",
+              "Die Cafés im Zentrum sind ideale Zwischenstopps zum Trocknen.",
+              "Der Thermalwasserfall friert nie ein und ist auch bei Regen ein Highlight."
+            ],
+            "hu": [
+              "Válasszon vízálló túracipőt a vízesés melletti földutakhoz.",
+              "Az Urmánczy-kastély kínálja a leghosszabb fedett programlehetőséget.",
+              "Az esernyő a hegyi szélben kényelmetlen lehet, a poncsó praktikusabb.",
+              "A központ kávézói ideális pihenőhelyek a száradáshoz.",
+              "A termál-vízesés sosem fagy be, esőben is lenyűgöző látvány."
+            ],
+            "ro": [
+              "Alegeți încălțăminte de munte impermeabilă pentru potecile de lângă cascadă.",
+              "Conacul Urmánczy oferă cea mai lungă opțiune de program acoperit.",
+              "Umbrela poate fi incomodă în vântul de munte, pelerina este mai practică.",
+              "Cafenelele din centru sunt puncte intermediare ideale pentru uscare.",
+              "Cascada termală nu îngheață niciodată și este spectaculoasă și pe ploaie."
+            ],
+            "en": [
+              "Choose waterproof hiking shoes for the unpaved paths near the waterfall.",
+              "Urmánczy Mansion offers the longest indoor activity option.",
+              "Umbrellas can be impractical in mountain winds; rain ponchos are better.",
+              "Cafes in the center are ideal stopovers for drying off.",
+              "The thermal waterfall never freezes and is a highlight even in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein verschneiter Morgen im Central Park führt zur historischen Wärme des Urmánczy-Herrenhauses. Mittags glänzt die Holzkirche von Călimănel im weißen Kleid, umgeben von Stille. Der Höhepunkt ist der Thermalwasserfall, der als einer der wenigen weltweit im Winter nicht gefriert und magisch dampft. Den Abschluss bildet ein heißes Bad im Banffy-Spa, während die Winterdämmerung früh einsetzt.",
+            "hu": "A havas reggel a parkban indul, majd az Urmánczy-kastély történelmi falai közt melegedhetünk fel. Délben a kelemen-pataki fatemplom fehér lepelbe öltözött látványa nyújt lelki békét. A nap fénypontja a termál-vízesés, amely télen is gőzölög a fagyos tájban. A túrát a Bánffy-fürdő forró vize zárja, miközben a korai téli sötétség leszáll.",
+            "ro": "O dimineață înzăpezită în Parcul Central duce la căldura istorică a Conacului Urmánczy. La prânz, biserica de lemn din Călimănel strălucește în haina albă, înconjurată de liniște. Punctul culminant este cascada termală, care aburește magic în peisajul înghețat. Finalul este asigurat de o baie fierbinte la ștrandul Banffy, în timp ce amurgul de iarnă se lasă devreme.",
+            "en": "A snowy morning in Central Park leads to the historical warmth of the Urmánczy Mansion. At noon, the Călimănel Wooden Church shines in its white coat, surrounded by silence. The highlight is the thermal waterfall, which steams magically in the frozen landscape. The tour concludes with a hot soak at Banffy Spa as the early winter twilight sets in."
+          },
+          "stops": [
+            {
+              "name": "Central Park",
+              "tip_5lang": {
+                "de": "Vorsicht vor vereisten Wegen; die Parkwege werden im Winter oft rutschig.",
+                "hu": "Vigyázat, a park ösvényei télen gyakran jegesek és csúszósak.",
+                "ro": "Atenție la aleile înghețate; drumurile din parc devin alunecoase iarna.",
+                "en": "Beware of icy paths; the park walkways often become slippery in winter."
+              }
+            },
+            {
+              "name": "Urmánczy Mansion",
+              "tip_5lang": {
+                "de": "Genießen Sie die beheizten Innenräume und die winterliche Sicht auf den Garten.",
+                "hu": "Élvezze a fűtött belső tereket és a kert téli panorámáját.",
+                "ro": "Bucurați-vă de interioarele încălzite și de vederea hibernală asupra grădinii.",
+                "en": "Enjoy the heated interiors and the wintry view of the garden."
+              }
+            },
+            {
+              "name": "Heroes' Monument",
+              "tip_5lang": {
+                "de": "Kurzer Stopp; im Winter zieht hier oft ein kalter Wind durch das Tal.",
+                "hu": "Rövid megálló; télen itt gyakran fúj hideg szél a völgyben.",
+                "ro": "Oprire scurtă; iarna, aici suflă adesea un vânt rece prin vale.",
+                "en": "Short stop; a cold wind often blows through the valley here in winter."
+              }
+            },
+            {
+              "name": "Wooden Church of Călimănel",
+              "tip_5lang": {
+                "de": "Die Holzkirche im Schnee ist ein erstklassiges Fotomotiv für Winterbilder.",
+                "hu": "A havas fatemplom az egyik legjobb téli fotótéma a környéken.",
+                "ro": "Biserica de lemn în zăpadă este un subiect fotografic de iarnă excelent.",
+                "en": "The wooden church in the snow is a top-notch subject for winter photos."
+              }
+            },
+            {
+              "name": "Thermal Waterfall",
+              "tip_5lang": {
+                "de": "Einzigartiges Schauspiel: Das warme Wasser dampft inmitten von Eis und Schnee.",
+                "hu": "Egyedülálló látvány: a meleg víz gőzölög a jég és hó közepette.",
+                "ro": "Spectacol unic: apa caldă aburește în mijlocul gheții și zăpezii.",
+                "en": "Unique spectacle: the warm water steams amidst ice and snow."
+              }
+            },
+            {
+              "name": "Banffy Thermal Spa",
+              "tip_5lang": {
+                "de": "Das Thermalbad im Winter ist wegen des Temperaturkontrasts ein Erlebnis.",
+                "hu": "A téli fürdőzés a hőmérsékleti kontraszt miatt különleges élmény.",
+                "ro": "Baia termală iarna este o experiență deosebită datorită contrastului.",
+                "en": "Thermal bathing in winter is a special experience due to the contrast."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermounterwäsche; die Temperaturen in Harghita sinken tief.",
+              "Die Sonne geht im Winter bereits gegen 16:30 Uhr hinter den Bergen unter.",
+              "Die Wege zur Holzkirche können bei starkem Schneefall schwer begehbar sein.",
+              "Kombinieren Sie die Tour mit einem Besuch der nahegelegenen Skipiste Bradul.",
+              "Warme Getränke in Thermosflaschen sind bei dieser Route sehr zu empfehlen."
+            ],
+            "hu": [
+              "Viseljen termo alsóneműt; Hargitában a hőmérséklet mélyre süllyedhet.",
+              "A nap télen már 16:30 körül eltűnik a hegyek mögött.",
+              "A fatemplomhoz vezető út nagy hóban nehezen járható lehet.",
+              "Kösse össze a túrát a közeli Bradul sípálya meglátogatásával.",
+              "A termoszban vitt meleg ital ezen az útvonalon nagyon ajánlott."
+            ],
+            "ro": [
+              "Purtați lenjerie termică; temperaturile în Harghita pot scădea mult.",
+              "Soarele apune după munți deja în jurul orei 16:30 în timpul iernii.",
+              "Drumul spre biserica de lemn poate fi greu accesibil în caz de ninsoare mare.",
+              "Combinați turul cu o vizită la pârtia de schi Bradul din apropiere.",
+              "Băuturile calde în termos sunt foarte recomandate pe acest traseu."
+            ],
+            "en": [
+              "Wear thermal underwear; temperatures in Harghita can drop very low.",
+              "The sun sets behind the mountains as early as 16:30 in winter.",
+              "Paths to the wooden church can be difficult to navigate in heavy snow.",
+              "Combine the tour with a visit to the nearby Bradul ski slope.",
+              "Warm drinks in thermoses are highly recommended on this route."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -742,6 +932,214 @@
           "Bring a lock to secure your bike at stops.",
           "Wear a helmet for your safety."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine erfrischende Radtour durch Toplița beginnt im Park und führt zum Urmánczy-Herrenhaus. Über den Anstieg zum Kloster des Propheten Elias erreichen wir den Bradul-Hügel, wo die Abfahrt bei Regen Vorsicht erfordert. Nach dem Besuch der Holzkirche und des Thermalwasserfalls bietet das Banffy-Spa die perfekte Belohnung für nasse Radfahrer.",
+            "hu": "Frissítő kerékpártúra Maroshévízen, amely a parkból indul az Urmánczy-kastély felé. Az Illés próféta kolostorhoz vezető emelkedő után a Bradul-pályát érintjük, ahol esőben óvatos ereszkedés kell. A fatemplom és a vízesés után a Bánffy-fürdő nyújt tökéletes jutalmat az átázott bringásoknak.",
+            "ro": "O tură revigorantă cu bicicleta prin Toplița începe în parc și duce la Conacul Urmánczy. După urcarea spre Mănăstirea Sf. Prooroc Ilie, ajungem la pârtia Bradul, unde coborârea necesită prudență pe ploaie. După vizitarea bisericii de lemn și a cascadei, ștrandul Banffy oferă recompensa perfectă.",
+            "en": "A refreshing bike tour through Toplița starts in the park and leads to the Urmánczy Mansion. After the climb to the Prophet Elijah Monastery, we reach the Bradul slope, where the descent requires caution in the rain. After visiting the wooden church and waterfall, Banffy Spa offers the perfect reward."
+          },
+          "stops": [
+            {
+              "name": "Central Park",
+              "tip_5lang": {
+                "de": "Achten Sie auf rutschiges Laub auf den gepflasterten Wegen.",
+                "hu": "Ügyeljen a csúszós falevelekre a burkolt utakon.",
+                "ro": "Atenție la frunzele alunecoase de pe aleile pavate.",
+                "en": "Watch out for slippery leaves on the paved paths."
+              }
+            },
+            {
+              "name": "Urmánczy Mansion",
+              "tip_5lang": {
+                "de": "Fahrradabstellplätze befinden sich im geschützten Eingangsbereich.",
+                "hu": "Kerékpártárolók a védett bejárati részen találhatók.",
+                "ro": "Rastelurile de biciclete se află în zona de intrare protejată.",
+                "en": "Bike racks are located in the sheltered entrance area."
+              }
+            },
+            {
+              "name": "Monastery of the Holy Prophet Elijah",
+              "tip_5lang": {
+                "de": "Der Anstieg ist bei Regen anstrengend; achten Sie auf gute Traktion.",
+                "hu": "Az emelkedő esőben megterhelő; ügyeljen a gumi tapadására.",
+                "ro": "Urcarea este obositoare pe ploaie; atenție la tracțiune.",
+                "en": "The climb is demanding in the rain; ensure good tire traction."
+              }
+            },
+            {
+              "name": "Bradul Ski Slope",
+              "tip_5lang": {
+                "de": "Die unbefestigten Abschnitte können matschig sein; Schutzbleche empfohlen.",
+                "hu": "A burkolatlan szakaszok sárosak lehetnek; sárvédő használata ajánlott.",
+                "ro": "Secțiunile neasfaltate pot fi noroioase; se recomandă apărători.",
+                "en": "Unpaved sections can be muddy; mudguards are highly recommended."
+              }
+            },
+            {
+              "name": "Wooden Church of Călimănel",
+              "tip_5lang": {
+                "de": "Kurze Pause unter dem Vordach, um die Ausrüstung zu prüfen.",
+                "hu": "Rövid szünet az előtető alatt a felszerelés ellenőrzésére.",
+                "ro": "Scurtă pauză sub streșină pentru a verifica echipamentul.",
+                "en": "Short break under the eaves to check your equipment."
+              }
+            },
+            {
+              "name": "Thermal Waterfall",
+              "tip_5lang": {
+                "de": "Der Boden in der Nähe des Wasserfalls ist bei Regen sehr rutschig.",
+                "hu": "A vízesés környékén a talaj esőben nagyon csúszóssá válik.",
+                "ro": "Solul din apropierea cascadei este foarte alunecos pe ploaie.",
+                "en": "The ground near the waterfall becomes very slippery in the rain."
+              }
+            },
+            {
+              "name": "Banffy Thermal Spa",
+              "tip_5lang": {
+                "de": "Sicherer Abstellplatz für Räder vorhanden, während Sie baden.",
+                "hu": "Biztonságos kerékpártároló elérhető, amíg Ön fürdőzik.",
+                "ro": "Parcare sigură pentru biciclete disponibilă în timp ce faceți baie.",
+                "en": "Safe bike storage available while you take a soak."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Scheibenbremsen sind bei Nässe in dieser hügeligen Gegend ein Muss.",
+              "Vermeiden Sie plötzliches Bremsen auf den nassen Holzbrücken.",
+              "Ein kompletter Satz Regenbekleidung (Hose + Jacke) ist unerlässlich.",
+              "Reinigen Sie die Kette nach der Fahrt von Sand und Schlamm.",
+              "Nutzen Sie die hellen LED-Lichter, da die Sicht im Regen stark abnimmt."
+            ],
+            "hu": [
+              "A tárcsafék elengedhetetlen a nedves, dombos terepen.",
+              "Kerülje a hirtelen fékezést a vizes fahidakon.",
+              "Teljes esőruházat (nadrág + kabát) nélkülözhetetlen.",
+              "A túra után tisztítsa meg a láncot a homoktól és sártól.",
+              "Használjon erős LED-lámpákat, mert esőben a látótávolság csökken."
+            ],
+            "ro": [
+              "Frânele pe disc sunt esențiale pe terenul umed și deluros.",
+              "Evitați frânarea bruscă pe podurile de lemn umede.",
+              "Echipamentul complet de ploaie (pantaloni + jachetă) este indispensabil.",
+              "Curățați lanțul de nisip și noroi după încheierea traseului.",
+              "Folosiți lumini LED puternice, deoarece vizibilitatea scade mult pe ploaie."
+            ],
+            "en": [
+              "Disc brakes are essential in this wet, hilly terrain.",
+              "Avoid sudden braking on wet wooden bridges.",
+              "A full set of rain gear (pants + jacket) is indispensable.",
+              "Clean the chain from sand and mud after your ride.",
+              "Use bright LED lights as visibility decreases significantly in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winter-Biking in Toplița ist ein Abenteuer für Mutige. Die Route führt durch den verschneiten Park zum Urmánczy-Herrenhaus. Der Aufstieg zum Kloster bietet atemberaubende Ausblicke auf die verschneiten Calimani-Berge. Vorbei an der Skipiste und der Holzkirche führt der Weg zum dampfenden Wasserfall, bevor man sich im heißen Thermalbad regeneriert.",
+            "hu": "A téli bringázás Maroshévízen a bátrak kalandja. Az útvonal a havas parkon át vezet az Urmánczy-kastélyhoz. A kolostorhoz vezető emelkedő lenyűgöző kilátást nyújt a havas Kelemen-havasokra. A sípálya és a fatemplom után a gőzölgő vízesés következik, végül pedig a termálfürdő forró vize várja a megfáradt vándort.",
+            "ro": "Ciclismul de iarnă în Toplița este o aventură pentru cei curajoși. Traseul trece prin parcul înzăpezit spre Conacul Urmánczy. Urcarea spre mănăstire oferă vederi uluitoare asupra Munților Călimani albi. Trecând pe lângă pârtie și biserica de lemn, drumul duce la cascada aburindă, înainte de regenerarea în baia termală.",
+            "en": "Winter biking in Toplița is an adventure for the brave. The route goes through the snowy park to the Urmánczy Mansion. The climb to the monastery offers breathtaking views of the snowy Calimani Mountains. Passing the ski slope and the wooden church, the path leads to the steaming waterfall before regenerating in the hot thermal spa."
+          },
+          "stops": [
+            {
+              "name": "Central Park",
+              "tip_5lang": {
+                "de": "Achten Sie auf gefrorene Pfützen unter der Schneedecke.",
+                "hu": "Vigyázzon a hóréteg alatt megbújó fagyott tócsákra.",
+                "ro": "Atenție la bălțile înghețate sub stratul de zăpadă.",
+                "en": "Watch out for frozen puddles hidden under the snow layer."
+              }
+            },
+            {
+              "name": "Urmánczy Mansion",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp, um die steifen Finger kurz aufzuwärmen.",
+                "hu": "Használja ki a megállót az elgémberedett ujjak felmelegítésére.",
+                "ro": "Profită de oprire pentru a încălzi puțin degetele amorțite.",
+                "en": "Use the stop to briefly warm up stiff fingers."
+              }
+            },
+            {
+              "name": "Monastery of the Holy Prophet Elijah",
+              "tip_5lang": {
+                "de": "Die Straße zum Kloster kann im Winter glatt sein; Winterreifen nötig.",
+                "hu": "A kolostorhoz vezető út télen síkos lehet; téli gumi ajánlott.",
+                "ro": "Drumul spre mănăstire poate fi alunecos; cauciucuri de iarnă necesare.",
+                "en": "The road to the monastery can be slick in winter; winter tires needed."
+              }
+            },
+            {
+              "name": "Bradul Ski Slope",
+              "tip_5lang": {
+                "de": "Viel Betrieb durch Skifahrer; achten Sie beim Kreuzen der Wege auf Sicherheit.",
+                "hu": "Nagy a forgalom a síelők miatt; ügyeljen a biztonságra az utak keresztezésekor.",
+                "ro": "Trafic intens de schiori; atenție la siguranță la traversarea drumurilor.",
+                "en": "Busy with skiers; pay attention to safety when crossing paths."
+              }
+            },
+            {
+              "name": "Wooden Church of Călimănel",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort für eine Winterpause im Windschatten der Kirche.",
+                "hu": "Csendes hely egy téli pihenőhöz a templom szélárnyékában.",
+                "ro": "Un loc liniștit pentru o pauză de iarnă în adăpostul bisericii.",
+                "en": "A quiet spot for a winter break in the lee of the church."
+              }
+            },
+            {
+              "name": "Thermal Waterfall",
+              "tip_5lang": {
+                "de": "Der Kontrast zwischen dem dampfenden Wasser und dem Eis ist spektakulär.",
+                "hu": "A gőzölgő víz és a jég kontrasztja látványos fotótéma.",
+                "ro": "Contrastul dintre apa care aburește și gheață este spectaculos.",
+                "en": "The contrast between the steaming water and the ice is spectacular."
+              }
+            },
+            {
+              "name": "Banffy Thermal Spa",
+              "tip_5lang": {
+                "de": "Wichtigster Stopp, um die Körpertemperatur nach der Fahrt wieder zu heben.",
+                "hu": "A legfontosabb állomás a testhőmérséklet helyreállításához a túra után.",
+                "ro": "Cea mai importantă oprire pentru restabilirea temperaturii corpului după drum.",
+                "en": "The most important stop to raise body temperature after the ride."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Verwenden Sie Reifen mit Spikes oder einem sehr groben Winterprofil.",
+              "Kälteschutz für die Knie und Füße ist bei Minustemperaturen kritisch.",
+              "Die Bremszüge können bei extremem Frost einfrieren; vorher einfetten.",
+              "Planen Sie die Rückkehr vor 16:00 Uhr ein, bevor es zu kalt wird.",
+              "Elektronik-Akkus entladen sich in der Kälte schneller; am Körper tragen."
+            ],
+            "hu": [
+              "Használjon szegecses gumit vagy mély téli mintázatot.",
+              "A térd és a lábfej védelme kritikus a mínuszokban.",
+              "A fékbowdenek extrém fagyban befagyhatnak; zsírozza be őket előre.",
+              "Tervezze a visszaérkezést 16:00 előtt, mielőtt túl hideg lesz.",
+              "Az akkumulátorok gyorsabban merülnek; tartsa őket testközelben."
+            ],
+            "ro": [
+              "Folosiți cauciucuri cu ținte sau cu profil de iarnă foarte adânc.",
+              "Protecția genunchilor și a picioarelor este critică la temperaturi negative.",
+              "Cablurile de frână pot îngheța la ger extrem; gresați-le în prealabil.",
+              "Planificați întoarcerea înainte de ora 16:00, înainte de a se face prea frig.",
+              "Bateriile se descarcă mai repede la frig; păstrați-le aproape de corp."
+            ],
+            "en": [
+              "Use studded tires or a very deep winter tread pattern.",
+              "Protection for knees and feet is critical in freezing temperatures.",
+              "Brake cables can freeze in extreme frost; grease them beforehand.",
+              "Plan to return before 16:00 before it gets too cold.",
+              "Electronic batteries discharge faster in the cold; keep them close to your body."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1122,6 +1520,214 @@
           "Keep some change handy for any parking fees.",
           "Do not leave valuables visible in the car."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto lässt sich Toplița auch bei starkem Regen komfortabel erkunden. Wir starten an der Skipiste Bradul und besuchen das Kloster, während die Scheibenwischer den Blick auf die Berge freihalten. Nach der Holzkirche und dem Herrenhaus bietet der Thermalwasserfall ein nasses Schauspiel direkt an der Straße. Der Tag endet gemütlich im Banffy-Heilbad.",
+            "hu": "Autóval Maroshévíz még szakadó esőben is kényelmesen felfedezhető. A Bradul sípályától indulunk, majd a kolostort látogatjuk meg, miközben az ablaktörlők mögül csodáljuk a hegyeket. A fatemplom és a kastély után a termál-vízesés vizes látványa következik az út mentén, végül a Bánffy-fürdőben pihenhetünk meg.",
+            "ro": "Cu mașina, Toplița poate fi explorată confortabil chiar și pe ploaie torențială. Pornim de la pârtia Bradul și vizităm mănăstirea, în timp ce ștergătoarele mențin vederea spre munți. După biserica de lemn și conac, cascada termală oferă un spectacol umed chiar lângă drum, iar ziua se încheie la ștrandul Banffy.",
+            "en": "By car, Toplița can be comfortably explored even in heavy rain. We start at the Bradul slope and visit the monastery while the wipers keep the mountain view clear. After the wooden church and mansion, the thermal waterfall offers a wet spectacle right by the road, ending the day cozily at Banffy Spa."
+          },
+          "stops": [
+            {
+              "name": "Bradul Ski Slope",
+              "tip_5lang": {
+                "de": "Parken Sie auf den befestigten Flächen, um nicht im Matsch stecken zu bleiben.",
+                "hu": "Parkoljon a burkolt felületeken, hogy ne ragadjon bele a sárba.",
+                "ro": "Parcați pe suprafețele pavate pentru a nu rămâne blocat în noroi.",
+                "en": "Park on paved surfaces to avoid getting stuck in the mud."
+              }
+            },
+            {
+              "name": "Monastery of the Holy Prophet Elijah",
+              "tip_5lang": {
+                "de": "Die Zufahrt ist asphaltiert, aber bei Regen ist Vorsicht in den Kurven geboten.",
+                "hu": "Az út aszfaltozott, de esőben óvatosan vezessen a kanyarokban.",
+                "ro": "Accesul este asfaltat, dar se recomandă prudență în curbe pe ploaie.",
+                "en": "The access road is paved, but caution is advised in the bends when rainy."
+              }
+            },
+            {
+              "name": "Wooden Church of Călimănel",
+              "tip_5lang": {
+                "de": "Parkmöglichkeiten direkt am Straßenrand in der Nähe der Kirche.",
+                "hu": "Parkolási lehetőség közvetlenül az út mentén, a templom közelében.",
+                "ro": "Posibilități de parcare direct la marginea drumului, lângă biserică.",
+                "en": "Parking options are available directly by the roadside near the church."
+              }
+            },
+            {
+              "name": "Urmánczy Mansion",
+              "tip_5lang": {
+                "de": "Der Parkplatz des Herrenhauses ist nur einen kurzen, nassen Sprint vom Eingang entfernt.",
+                "hu": "A kastély parkolója csak egy rövid, vizes sprintre van a bejárattól.",
+                "ro": "Parcarea conacului este la doar un scurt sprint prin ploaie de intrare.",
+                "en": "The mansion parking is just a short, wet sprint from the entrance."
+              }
+            },
+            {
+              "name": "Central Park",
+              "tip_5lang": {
+                "de": "Es gibt mehrere Parkplätze rund um den Park; ideal für einen kurzen Regen-Check.",
+                "hu": "Számos parkolóhely van a park körül; ideális egy rövid esős kitekintéshez.",
+                "ro": "Există mai multe locuri de parcare în jurul parcului; ideal pentru o scurtă pauză.",
+                "en": "There are several parking spots around the park; ideal for a quick rain check."
+              }
+            },
+            {
+              "name": "Thermal Waterfall",
+              "tip_5lang": {
+                "de": "Man kann den Wasserfall fast vom Auto aus sehen, perfekt bei Starkregen.",
+                "hu": "A vízesés szinte az autóból is látható, tökéletes nagy esőben.",
+                "ro": "Cascada poate fi văzută aproape din mașină, ideal în caz de ploaie mare.",
+                "en": "The waterfall can be seen almost from the car, perfect in heavy rain."
+              }
+            },
+            {
+              "name": "Banffy Thermal Spa",
+              "tip_5lang": {
+                "de": "Großer Parkplatz vorhanden; nehmen Sie trockene Kleidung für danach mit.",
+                "hu": "Nagy parkoló áll rendelkezésre; vigyen váltóruhát a fürdő utánra.",
+                "ro": "Parcare mare disponibilă; luați haine de schimb pentru după baie.",
+                "en": "Large parking lot available; bring a change of clothes for after the spa."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Zustand der Scheibenwischer vor der Fahrt in die Berge.",
+              "Aquaplaning-Gefahr auf der Nationalstraße bei starken Regengüssen.",
+              "Halten Sie eine Taschenlampe bereit, falls Sie bei Nebel am Wasserfall aussteigen.",
+              "Die Parkplätze am Spa sind beleuchtet und sicher.",
+              "Nutzen Sie die Klimaanlage, um das Beschlagen der Scheiben zu verhindern."
+            ],
+            "hu": [
+              "Ellenőrizze az ablaktörlők állapotát a hegyi út előtt.",
+              "Vízfelúszás (aquaplaning) veszélye a főúton nagy esőzéskor.",
+              "Legyen kéznél zseblámpa, ha ködben szállna ki a vízesésnél.",
+              "A fürdő parkolói kivilágítottak és biztonságosak.",
+              "Használja a klímát a szélvédő párátlanítására."
+            ],
+            "ro": [
+              "Verificați starea ștergătoarelor înainte de drumul la munte.",
+              "Pericol de acvaplanare pe drumul național în timpul averselor puternice.",
+              "Aveți la îndemână o lanternă dacă coborâți la cascadă pe ceață.",
+              "Parcările de la ștrand sunt iluminate și sigure.",
+              "Folosiți aerul condiționat pentru a preveni aburirea parbrizului."
+            ],
+            "en": [
+              "Check the condition of your wipers before the mountain drive.",
+              "Risk of aquaplaning on the national road during heavy downpours.",
+              "Keep a flashlight handy if you step out at the waterfall in fog.",
+              "The spa parking lots are well-lit and secure.",
+              "Use the A/C to prevent the windshield from fogging up."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine Wintertour mit dem Auto offenbart die schneebedeckte Pracht von Toplița ohne die Kälte. Wir besuchen die Skipiste Bradul und das Kloster auf dem Hügel. Die Fahrt zur Holzkirche von Călimănel führt durch eine weiße Märchenlandschaft. Ein kurzer Halt am dampfenden Thermalwasserfall ist ein Muss, bevor wir den Tag im beheizten Thermalbad Banffy entspannt beenden.",
+            "hu": "Az autós téli túra feltárja Maroshévíz havas pompáját a fázás nélkül. Meglátogatjuk a Bradul sípályát és a dombtetőn lévő kolostort. A kelemen-pataki fatemplomhoz vezető út igazi téli meseországon át vezet. Egy rövid megálló a gőzölgő vízesésnél kötelező, mielőtt a napot a Bánffy-fürdő fűtött vizeiben zárnánk.",
+            "ro": "Un tur de iarnă cu mașina dezvăluie splendoarea înzăpezită a Topliței fără frig. Vizităm pârtia Bradul și mănăstirea de pe deal. Drumul spre biserica de lemn din Călimănel trece printr-un peisaj de basm alb. O scurtă oprire la cascada termală este obligatorie înainte de a încheia ziua la ștrandul Banffy.",
+            "en": "A winter tour by car reveals Toplița's snowy splendor without the cold. We visit the Bradul slope and the hilltop monastery. The drive to the Călimănel Wooden Church leads through a white fairytale landscape. A quick stop at the steaming waterfall is a must before ending the day at the heated Banffy Spa."
+          },
+          "stops": [
+            {
+              "name": "Bradul Ski Slope",
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihre Winterreifen für die steilen Zufahrten bereit sind.",
+                "hu": "Győződjön meg róla, hogy a téli gumik készen állnak a meredek szakaszokra.",
+                "ro": "Asigurați-vă că anvelopele de iarnă sunt pregătite pentru pantele abrupte.",
+                "en": "Ensure your winter tires are ready for the steep access roads."
+              }
+            },
+            {
+              "name": "Monastery of the Holy Prophet Elijah",
+              "tip_5lang": {
+                "de": "Die Straße wird geräumt, kann aber bei Neuschnee sehr rutschig sein.",
+                "hu": "Az utat takarítják, de friss hóban nagyon csúszós lehet.",
+                "ro": "Drumul este deszăpezit, dar poate fi foarte alunecos în caz de ninsoare proaspătă.",
+                "en": "The road is cleared but can be very slippery in fresh snow."
+              }
+            },
+            {
+              "name": "Wooden Church of Călimănel",
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Parken in tiefem Schnee am Straßenrand.",
+                "hu": "Kerülje a parkolást a mély hóban az út szélén.",
+                "ro": "Evitați parcarea în zăpada adâncă de pe marginea drumului.",
+                "en": "Avoid parking in deep snow by the roadside."
+              }
+            },
+            {
+              "name": "Urmánczy Mansion",
+              "tip_5lang": {
+                "de": "Die Einfahrt zum Herrenhaus kann im Winter eng und verschneit sein.",
+                "hu": "A kastély bejárata télen szűk és havas lehet.",
+                "ro": "Intrarea la conac poate fi îngustă și înzăpezită iarna.",
+                "en": "The mansion entrance can be narrow and snowy in winter."
+              }
+            },
+            {
+              "name": "Central Park",
+              "tip_5lang": {
+                "de": "Kurzer Stopp für Winterfotos vom Auto aus möglich.",
+                "hu": "Rövid megálló téli fotókhoz az autóból is lehetséges.",
+                "ro": "Oprire scurtă pentru fotografii de iarnă posibilă chiar din mașină.",
+                "en": "A quick stop for winter photos is possible right from the car."
+              }
+            },
+            {
+              "name": "Thermal Waterfall",
+              "tip_5lang": {
+                "de": "Vorsicht beim Aussteigen; der Bereich um den Wasserfall ist oft vereist.",
+                "hu": "Vigyázat kiszálláskor; a vízesés környéke gyakran jeges.",
+                "ro": "Atenție la coborâre; zona din jurul cascadei este adesea înghețată.",
+                "en": "Caution when getting out; the area around the waterfall is often icy."
+              }
+            },
+            {
+              "name": "Banffy Thermal Spa",
+              "tip_5lang": {
+                "de": "Lassen Sie das Auto im Winter warm laufen, bevor Sie nach dem Bad abfahren.",
+                "hu": "Melegítse be az autót, mielőtt a fürdőzés után elindulna.",
+                "ro": "Lăsați mașina să se încălzească înainte de a pleca după baie.",
+                "en": "Warm up the car before driving off after your spa session."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen und Schneeketten im Kofferraum sind in Harghita Pflicht.",
+              "Füllen Sie Frostschutzmittel in die Scheibenwaschanlage.",
+              "Die Bergstraßen können bei plötzlichem Schneefall schnell unpassierbar werden.",
+              "Achten Sie auf Wildwechsel in der Dämmerung auf der Nationalstraße.",
+              "Halten Sie eine Decke und etwas Proviant für Notfälle im Auto bereit."
+            ],
+            "hu": [
+              "Téli gumi és hólánc a csomagtartóban kötelező Hargitában.",
+              "Töltsön fagyállót a szélvédőmosóba.",
+              "A hegyi utak hirtelen hóesésben gyorsan járhatatlanná válhatnak.",
+              "Ügyeljen a vadon élő állatokra a főúton alkonyatkor.",
+              "Tartson takarót és némi élelmet az autóban vészhelyzet esetére."
+            ],
+            "ro": [
+              "Anvelopele de iarnă și lanțurile în portbagaj sunt obligatorii în Harghita.",
+              "Puneți lichid de parbriz antigel.",
+              "Drumurile montane pot deveni rapid impracticabile în caz de ninsoare bruscă.",
+              "Atenție la animalele sălbatice pe drumul național la amurg.",
+              "Păstrați o pătură și câteva provizii în mașină pentru urgențe."
+            ],
+            "en": [
+              "Winter tires and snow chains in the trunk are mandatory in Harghita.",
+              "Fill your windshield washer reservoir with antifreeze fluid.",
+              "Mountain roads can quickly become impassable during sudden snowfall.",
+              "Watch out for wildlife crossing the national road at twilight.",
+              "Keep a blanket and some supplies in the car for emergencies."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1478,6 +2084,196 @@
           "Be patient, buses can sometimes be delayed.",
           "A transport app on your phone can be helpful for route planning."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Entdeckung von Toplița per Nahverkehr schützt vor dem schlimmsten Regen. Wir starten im Zentrum und besuchen das Urmánczy-Herrenhaus. Mit dem Bus geht es zum Kloster und zurück zum Heldenmonument. Den krönenden Abschluss bildet das Banffy-Spa, das gut mit dem lokalen Transit erreichbar ist, bevor man trocken den Heimweg antritt.",
+            "hu": "Maroshévíz felfedezése tömegközlekedéssel megvéd a legrosszabb esőtől. A központból indulunk az Urmánczy-kastélyhoz. Busszal jutunk el a kolostorhoz, majd vissza a Hősök emlékművéhez. A nap fénypontja a Bánffy-fürdő, amely jól elérhető helyi járattal, így szárazon érhetünk a túra végére.",
+            "ro": "Explorarea Topliței cu transportul public oferă protecție împotriva ploii. Pornim din centru spre Conacul Urmánczy. Cu autobuzul ajungem la mănăstire și înapoi la Monumentul Eroilor. Punctul culminant este ștrandul Banffy, ușor accesibil cu transportul local, asigurând un final de zi uscat.",
+            "en": "Exploring Toplița by public transit protects you from the worst of the rain. We start in the center and visit the Urmánczy Mansion. By bus, we reach the monastery and return to the Heroes' Monument. The highlight is the Banffy Spa, easily accessible by local transit, ensuring a dry end to the day."
+          },
+          "stops": [
+            {
+              "name": "Central Park",
+              "tip_5lang": {
+                "de": "Warten Sie in der überdachten Bushaltestelle in der Nähe des Parks.",
+                "hu": "Várjon a park közeli fedett buszmegállóban.",
+                "ro": "Așteptați în stația de autobuz acoperită din apropierea parcului.",
+                "en": "Wait in the sheltered bus stop near the park."
+              }
+            },
+            {
+              "name": "Urmánczy Mansion",
+              "tip_5lang": {
+                "de": "Vom Busstopp sind es nur wenige Gehminuten zum überdachten Eingang.",
+                "hu": "A buszmegállótól csak pár perc gyaloglás a fedett bejárat.",
+                "ro": "De la stația de autobuz sunt doar câteva minute de mers până la intrarea acoperită.",
+                "en": "It's only a few minutes' walk from the bus stop to the sheltered entrance."
+              }
+            },
+            {
+              "name": "Heroes' Monument",
+              "tip_5lang": {
+                "de": "Ein zentraler Knotenpunkt für den Transit; ideal für einen kurzen Blick.",
+                "hu": "Központi csomópont a közlekedésben; ideális egy rövid megtekintésre.",
+                "ro": "Un nod central pentru tranzit; ideal pentru o scurtă vizită.",
+                "en": "A central transit hub; ideal for a quick look around."
+              }
+            },
+            {
+              "name": "Monastery of the Holy Prophet Elijah",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Busfahrplan genau; die Frequenz ist bei Regen oft geringer.",
+                "hu": "Ellenőrizze pontosan a menetrendet; esőben a járatsűrűség ritkább lehet.",
+                "ro": "Verificați programul autobuzelor; frecvența poate fi redusă pe ploaie.",
+                "en": "Check the bus schedule carefully; frequency might be lower during rain."
+              }
+            },
+            {
+              "name": "Banffy Thermal Spa",
+              "tip_5lang": {
+                "de": "Direkte Anbindung; perfekt, um den Tag warm und überdacht ausklingen zu lassen.",
+                "hu": "Közvetlen kapcsolat; tökéletes a nap meleg, fedett befejezéséhez.",
+                "ro": "Legătură directă; perfect pentru a încheia ziua într-un loc cald și acoperit.",
+                "en": "Direct connection; perfect for ending the day warm and under shelter."
+              }
+            },
+            {
+              "name": "Thermal Waterfall",
+              "tip_5lang": {
+                "de": "Kurzer Spaziergang von der Haltestelle; nutzen Sie einen Regenschirm.",
+                "hu": "Rövid séta a megállótól; használjon esernyőt.",
+                "ro": "Scurtă plimbare de la stație; folosiți o umbrelă.",
+                "en": "Short walk from the stop; use an umbrella."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Laden Sie eine lokale Transit-App für Echtzeit-Updates herunter.",
+              "Halten Sie Kleingeld für das Busticket bereit, falls Kartenzahlung nicht geht.",
+              "Die Busse in Toplița sind im Regen oft voll; planen Sie Pufferzeiten ein.",
+              "Tragen Sie Schuhe mit gutem Profil für den Weg von der Haltestelle.",
+              "Nutzen Sie die Wartehäuschen als Schutz vor Windböen."
+            ],
+            "hu": [
+              "Töltsön le helyi közlekedési alkalmazást a friss hírekhez.",
+              "Legyen Önnél aprópénz a jegyhez, ha a kártyás fizetés nem működne.",
+              "Esőben a buszok zsúfoltak lehetnek; számoljon rá több időt.",
+              "Viseljen jó tapadású cipőt a megállótól vezető útra.",
+              "Használja a várótermeket és bódékat szélfogóként."
+            ],
+            "ro": [
+              "Descărcați o aplicație locală de transport pentru actualizări în timp real.",
+              "Aveți mărunt pentru bilet în caz că plata cu cardul nu funcționează.",
+              "Autobuzele sunt adesea pline pe ploaie; planificați timp suplimentar.",
+              "Purtați încălțăminte cu aderență bună pentru drumul de la stație.",
+              "Folosiți refugiile din stații ca protecție împotriva vântului."
+            ],
+            "en": [
+              "Download a local transit app for real-time updates.",
+              "Keep small change ready for the ticket in case card payment fails.",
+              "Buses in Toplița can be crowded in the rain; plan for extra time.",
+              "Wear shoes with good grip for the walk from the stop.",
+              "Use the bus shelters as protection against wind gusts."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der winterliche Nahverkehr in Toplița ist die wärmste Art, die Stadt zu sehen. Wir fahren vom Park zum Urmánczy-Herrenhaus und nehmen den Bus zum Kloster auf dem Hügel. Die schneebedeckte Holzkirche von Călimănel ist ein stilles Wunder. Den Abschluss bildet die Fahrt zum Banffy-Spa, wo man direkt von der Haltestelle in die wohltuende Wärme des Heilwassers eintaucht.",
+            "hu": "A téli tömegközlekedés a legmelegebb módja Maroshévíz bejárásának. A parktól indulunk az Urmánczy-kastélyhoz, majd busszal a dombi kolostorhoz. A havas fatemplom csendes csodaként vár ránk. A túra a Bánffy-fürdőnél zárul, ahol a megállótól szinte rögtön a gyógyvíz nyugtató melegébe léphetünk.",
+            "ro": "Transportul public de iarnă este cea mai călduroasă modalitate de a vedea Toplița. Mergem de la parc la Conacul Urmánczy și luăm autobuzul spre mănăstirea de pe deal. Biserica de lemn înzăpezită este o minune tăcută. Finalul este asigurat de drumul spre ștrandul Banffy, unde intri în căldura apei direct din stație.",
+            "en": "Winter public transit is the warmest way to see Toplița. We travel from the park to the Urmánczy Mansion and take the bus to the hilltop monastery. The snowy Călimănel Wooden Church is a silent wonder. The tour ends with a ride to Banffy Spa, where you step into the soothing warmth of the water right from the stop."
+          },
+          "stops": [
+            {
+              "name": "Central Park",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis an den Ein- und Ausstiegen der Busse.",
+                "hu": "Ügyeljen a jegesedésre a buszok le- és felszállásánál.",
+                "ro": "Atenție la gheață la urcarea și coborârea din autobuz.",
+                "en": "Watch out for black ice at the bus boarding and alighting areas."
+              }
+            },
+            {
+              "name": "Urmánczy Mansion",
+              "tip_5lang": {
+                "de": "Der beheizte Bus bietet eine gute Pause zwischen den winterlichen Stopps.",
+                "hu": "A fűtött busz jó pihenőt nyújt a téli megállók között.",
+                "ro": "Autobuzul încălzit oferă o pauză bună între punctele de vizită.",
+                "en": "The heated bus provides a good break between wintry stops."
+              }
+            },
+            {
+              "name": "Heroes' Monument",
+              "tip_5lang": {
+                "de": "Zentraler Umstiegsort; halten Sie sich im Wartehäuschen warm.",
+                "hu": "Központi átszállóhely; maradjon a váróban a melegedéshez.",
+                "ro": "Punct central de transfer; stați în adăpost pentru a vă încălzi.",
+                "en": "Central transfer point; stay in the shelter to keep warm."
+              }
+            },
+            {
+              "name": "Monastery of the Holy Prophet Elijah",
+              "tip_5lang": {
+                "de": "Im Winter können die Busse aufgrund der Straßenverhältnisse Verspätung haben.",
+                "hu": "Télen a buszok késhetnek az útviszonyok miatt.",
+                "ro": "Iarna, autobuzele pot avea întârzieri din cauza stării drumurilor.",
+                "en": "In winter, buses may be delayed due to road conditions."
+              }
+            },
+            {
+              "name": "Banffy Thermal Spa",
+              "tip_5lang": {
+                "de": "Prüfen Sie die letzte Rückfahrt, da es im Winter früh dunkel wird.",
+                "hu": "Ellenőrizze az utolsó visszautat, mert télen korán sötétedik.",
+                "ro": "Verificați ultima cursă de întoarcere, se întunecă devreme iarna.",
+                "en": "Check the last return trip as it gets dark early in winter."
+              }
+            },
+            {
+              "name": "Thermal Waterfall",
+              "tip_5lang": {
+                "de": "Der Fußweg von der Haltestelle kann rutschig sein; gehen Sie vorsichtig.",
+                "hu": "A gyalogút a megállótól síkos lehet; járjon óvatosan.",
+                "ro": "Drumul pe jos de la stație poate fi alunecos; mergeți cu grijă.",
+                "en": "The walk from the stop can be slippery; walk carefully."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie warme Socken; das Warten an Haltestellen kann kalt werden.",
+              "Die Busfrequenz kann an Feiertagen und Wochenenden stark eingeschränkt sein.",
+              "Nutzen Sie die beheizten Warteräume im Bahnhofsbereich, falls nötig.",
+              "Halten Sie Ihr Handy warm, damit der Akku für den Fahrplan reicht.",
+              "In der Dämmerung sind die Haltestellen oft weniger beleuchtet."
+            ],
+            "hu": [
+              "Viseljen meleg zoknit; a várakozás a megállóban hideg lehet.",
+              "A járatok sűrűsége hétvégén és ünnepnapokon korlátozottabb.",
+              "Használja a fűtött várótermeket az állomás környékén, ha kell.",
+              "Tartsa melegen a telefonját, hogy ne merüljön le a menetrend nézése közben.",
+              "Sötétedés után a megállók néhol kevésbé kivilágítottak."
+            ],
+            "ro": [
+              "Purtați șosete groase; așteptarea în stație poate fi friguroasă.",
+              "Frecvența curselor poate fi limitată în weekend și de sărbători.",
+              "Folosiți sălile de așteptare încălzite din zona gării dacă e necesar.",
+              "Păstrați telefonul la căldură pentru a avea baterie la consultarea programului.",
+              "La lăsarea serii, unele stații pot fi mai puțin iluminate."
+            ],
+            "en": [
+              "Wear warm socks; waiting at bus stops can get very cold.",
+              "Bus frequency can be significantly limited on holidays and weekends.",
+              "Use the heated waiting rooms near the station area if needed.",
+              "Keep your phone warm so the battery lasts for checking schedules.",
+              "Bus stops might be less illuminated after twilight."
+            ]
+          }
+        }
       }
     }
   }

@@ -330,6 +330,214 @@
           "Ajaccio gets very hot in summer, bring a hat.",
           "Stick to the narrow alleys for natural cooling shade."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt unter den Arkaden am Place Foch, wo ein heißer Espresso vor dem Regen schützt. Der Markt bietet unter seinen Planen erste Eindrücke, gefolgt von der Maison Bonaparte, die ein perfektes trockenes Refugium darstellt.\n\nMittags suchen wir Schutz in der Kathedrale, während die Zitadelle im Regen eine besonders dramatische Atmosphäre ausstrahlt. Die schmalen Gassen der Altstadt bieten natürlichen Schutz vor Wind.\n\nDer Nachmittag gehört dem Musée Fesch. In den weitläufigen Galerien lässt sich der Regen komplett vergessen, während man die italienischen Meister bewundert.\n\nAbends endet die Tour gemütlich in einem der Restaurants nahe dem Hafen, wo die Lichter der Stadt auf dem nassen Asphalt glänzen.",
+            "hu": "A reggel a Place Foch árkádjai alatt indul, egy forró kávéval az eső elől menekülve. A piac ponyvái alatt még ilyenkor is zajlik az élet, majd Bonaparte szülőháza nyújt tökéletes fedett menedéket.\n\nDélben a katedrális csendje és védettsége fogad, a Citadella pedig az esőben még monumentálisabbnak tűnik. Az óváros szűk utcái némi szélfogót biztosítanak a séta során.\n\nA délután fénypontja a Musée Fesch. A hatalmas galériákban teljesen megfeledkezhetünk a kinti zivatarrol, miközben az itáliai mesterművekben gyönyörködünk.\n\nEste a kikötő közeli éttermek egyikében zárjuk a napot, figyelve a vizes aszfalton megcsillanó városi fényeket.",
+            "ro": "Dimineața începe sub arcadele din Place Foch, cu un espresso fierbinte ferit de ploaie. Piața oferă adăpost sub copertine, urmată de Maison Bonaparte, un refugiu interior perfect.\n\nLa prânz, liniștea catedralei oferă protecție, în timp ce Citadela pare și mai dramatică sub cerul gri. Străzile înguste ale orașului vechi oferă un adăpost natural împotriva vântului.\n\nDupă-amiaza este dedicată Muzeului Fesch. În galeriile sale spațioase, ploaia de afară este uitată rapid printre capodoperele italiene.\n\nSeara se încheie confortabil într-un restaurant de lângă port, unde luminile orașului se reflectă spectaculos pe asfaltul umed.",
+            "en": "Morning starts under the arcades of Place Foch with a hot coffee to escape the drizzle. The market stalls offer cover, followed by Maison Bonaparte, a perfect indoor sanctuary.\n\nAt noon, the cathedral provides a quiet refuge, while the Citadel looks even more imposing in the rain. The narrow old town streets offer some natural wind protection.\n\nAfternoon is spent at Musée Fesch. Its vast galleries make you completely forget the weather while admiring Italian masterpieces.\n\nEvening ends cozily in a restaurant near the harbor, watching the city lights shimmer on the wet pavement."
+          },
+          "stops": [
+            {
+              "name": "Place Foch",
+              "tip_5lang": {
+                "de": "Unter den Arkaden am Rande des Platzes trocken bleiben.",
+                "hu": "Maradjon a tér szélén található árkádok alatt.",
+                "ro": "Rămâneți sub arcadele de la marginea pieței.",
+                "en": "Stay dry under the arcades at the edge of the square."
+              }
+            },
+            {
+              "name": "Ajaccio Market",
+              "tip_5lang": {
+                "de": "Die Markthallen bieten guten Schutz vor Schauern.",
+                "hu": "A piaccsarnokok jó védelmet nyújtanak a záporok ellen.",
+                "ro": "Halele pieței oferă adăpost bun împotriva averselor.",
+                "en": "The market halls provide good shelter from showers."
+              }
+            },
+            {
+              "name": "Maison Bonaparte",
+              "tip_5lang": {
+                "de": "Idealer Ort, um eine längere Regenperiode drinnen zu verbringen.",
+                "hu": "Ideális hely egy hosszabb esős időszak átvészelésére.",
+                "ro": "Loc ideal pentru a petrece o perioadă lungă de ploaie în interior.",
+                "en": "Ideal spot to spend a long rainy period indoors."
+              }
+            },
+            {
+              "name": "Notre-Dame Cathedral",
+              "tip_5lang": {
+                "de": "Ein ruhiger, trockener Ort für eine kurze Rast.",
+                "hu": "Csendes, száraz hely egy rövid pihenőhöz.",
+                "ro": "Un loc liniștit și uscat pentru o scurtă odihnă.",
+                "en": "A quiet, dry place for a brief rest."
+              }
+            },
+            {
+              "name": "Ajaccio Citadel",
+              "tip_5lang": {
+                "de": "Vorsicht, die Außenmauern können bei Nässe rutschig sein.",
+                "hu": "Vigyázat, a külső falak nedvesen csúszósak lehetnek.",
+                "ro": "Atenție, zidurile exterioare pot fi alunecoase când sunt ude.",
+                "en": "Caution, external walls can be slippery when wet."
+              }
+            },
+            {
+              "name": "Place d'Austerlitz",
+              "tip_5lang": {
+                "de": "Die Grotte bietet einen kleinen Unterstand bei Regen.",
+                "hu": "A barlang kis menedéket nyújt eső esetén.",
+                "ro": "Grota oferă un mic adăpost în caz de ploaie.",
+                "en": "The grotto offers a small shelter if it rains."
+              }
+            },
+            {
+              "name": "Musée Fesch",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe für nasse Regenschirme.",
+                "hu": "Használja a ruhatárat a vizes esernyőknek.",
+                "ro": "Folosiți garderoba pentru umbrelele ude.",
+                "en": "Use the cloakroom for wet umbrellas."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da das Kopfsteinpflaster Pfützen bildet.",
+              "Die Arkaden am Place Foch sind der beste Treffpunkt bei Regen.",
+              "Das Musée Fesch ist das größte Indoor-Highlight der Stadt.",
+              "Nutzen Sie die schmalen Gassen der Altstadt als Windschutz.",
+              "Regenschirme können in den engen Museumsfluren sperrig sein."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert a macskaköveken megáll a víz.",
+              "A Place Foch árkádjai a legjobb találkozópontok esőben.",
+              "A Musée Fesch a város legnagyobb fedett látnivalója.",
+              "Használja az óváros szűk utcáit szélfogóként.",
+              "Az esernyők nehézkesek lehetnek a szűk múzeumi folyosókon."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, pavajul reține apa.",
+              "Arcadele din Place Foch sunt cel mai bun punct de întâlnire pe ploaie.",
+              "Musée Fesch este cea mai mare atracție interioară a orașului.",
+              "Folosiți străzile înguste ale centrului vechi ca protecție contra vântului.",
+              "Umbrelele pot fi incomode în coridoarele înguste ale muzeelor."
+            ],
+            "en": [
+              "Wear waterproof shoes as the cobblestones tend to form puddles.",
+              "The arcades at Place Foch are the best meeting point in the rain.",
+              "Musée Fesch is the largest indoor highlight of the city.",
+              "Use the narrow old town streets as wind protection.",
+              "Umbrellas can be cumbersome in narrow museum corridors."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen am Place Foch ist frisch und klar. Die Marktstände bieten winterliche korsische Spezialitäten wie Brocciu an, während die Sonne tief über dem Hafen steht.\n\nMittags wärmt die Maison Bonaparte mit ihrer historischen Atmosphäre. Ein Spaziergang zur Zitadelle bei kühler Meeresbrise belebt die Geister vor dem Mittagessen.\n\nNachmittags sinkt die Sonne früh, was am Place d'Austerlitz für ein goldenes Licht auf dem Denkmal sorgt. Das Musée Fesch bietet danach wohlige Wärme und Kultur.\n\nDer Abend bricht gegen 17:30 Uhr an. Die Stadtlichter spiegeln sich im ruhigen Wintermeer, während man den Tag in einer gemütlichen Weinbar abschließt.",
+            "hu": "A téli reggel a Place Foch-on friss és tiszta. A piaci árusok olyan téli korzikai specialitásokat kínálnak, mint a Brocciu, miközben a nap alacsonyan jár a kikötő felett.\n\nDélben a Maison Bonaparte történelmi falaiban melegedhetünk. Egy séta a Citadellához a hűvös tengeri szélben felfrissíti az embert az ebéd előtt.\n\nDélután a nap korán nyugszik, arany fénybe vonva a Place d'Austerlitz emlékművét. A Musée Fesch ezután kellemes meleget és kultúrát kínál.\n\nAz este már 17:30 körül leszáll. A város fényei tükröződnek a nyugodt téli tengeren, miközben a napot egy hangulatos borozóban zárjuk.",
+            "ro": "Dimineața de iarnă în Place Foch este proaspătă și senină. Tarabele din piață oferă specialități corsicane de iarnă, în timp ce soarele stă jos deasupra portului.\n\nLa prânz, Maison Bonaparte vă încălzește cu atmosfera sa istorică. O plimbare spre Citadelă în briza răcoroasă a mării este revigorantă înainte de prânz.\n\nDupă-amiaza, soarele apune devreme, creând o lumină aurie peste monumentul din Place d'Austerlitz. Musée Fesch oferă apoi căldură și cultură.\n\nSeara se așterne în jurul orei 17:30. Luminile orașului se oglindesc în marea liniștită de iarnă, în timp ce încheiați ziua într-un bar de vinuri primitor.",
+            "en": "The winter morning at Place Foch is crisp and clear. Market stalls offer winter Corsican specialties like Brocciu while the sun hangs low over the harbor.\n\nAt noon, Maison Bonaparte warms you with its historic atmosphere. A walk to the Citadel in the cool sea breeze is refreshing before lunch.\n\nIn the afternoon, the sun sets early, casting a golden light on the monument at Place d'Austerlitz. Musée Fesch provides warmth and culture afterwards.\n\nEvening falls around 5:30 PM. City lights reflect in the calm winter sea as you finish the day in a cozy wine bar."
+          },
+          "stops": [
+            {
+              "name": "Place Foch",
+              "tip_5lang": {
+                "de": "Die Morgensonne wärmt hier am besten.",
+                "hu": "A reggeli nap itt melegít a legjobban.",
+                "ro": "Soarele de dimineață încălzește cel mai bine aici.",
+                "en": "Morning sun warms best here."
+              }
+            },
+            {
+              "name": "Ajaccio Market",
+              "tip_5lang": {
+                "de": "Probieren Sie frisches Wintergebäck.",
+                "hu": "Kóstolja meg a friss téli süteményeket.",
+                "ro": "Gustați produsele de patiserie proaspete de iarnă.",
+                "en": "Try fresh winter pastries."
+              }
+            },
+            {
+              "name": "Maison Bonaparte",
+              "tip_5lang": {
+                "de": "Angenehm temperiertes Gebäude im Winter.",
+                "hu": "Télen is kellemes hőmérsékletű épület.",
+                "ro": "Clădire cu temperatură plăcută iarna.",
+                "en": "Pleasantly tempered building in winter."
+              }
+            },
+            {
+              "name": "Notre-Dame Cathedral",
+              "tip_5lang": {
+                "de": "Achten Sie auf die besonderen Krippenspiele im Dezember.",
+                "hu": "Keresse a különleges betlehemeket decemberben.",
+                "ro": "Căutați scenele de naștere în decembrie.",
+                "en": "Look for special nativity scenes in December."
+              }
+            },
+            {
+              "name": "Ajaccio Citadel",
+              "tip_5lang": {
+                "de": "Der Wind kann hier an der Küste sehr kühl sein.",
+                "hu": "A szél itt a parton nagyon hűvös lehet.",
+                "ro": "Vântul poate fi foarte rece aici pe coastă.",
+                "en": "The wind can be very chilly here on the coast."
+              }
+            },
+            {
+              "name": "Place d'Austerlitz",
+              "tip_5lang": {
+                "de": "Bester Ort für Fotos im goldenen Nachmittagslicht.",
+                "hu": "A legjobb hely fotózáshoz az arany délutáni fényben.",
+                "ro": "Cel mai bun loc pentru fotografii în lumina aurie de după-amiază.",
+                "en": "Best spot for photos in the golden afternoon light."
+              }
+            },
+            {
+              "name": "Musée Fesch",
+              "tip_5lang": {
+                "de": "Ein warmer Ort für den späten Nachmittag.",
+                "hu": "Meleg hely a késő délutáni órákra.",
+                "ro": "Un loc călduros pentru după-amiaza târzie.",
+                "en": "A warm place for the late afternoon."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich in Schichten, da die Sonne wärmt, der Schatten aber kühl ist.",
+              "Der Sonnenuntergang findet bereits gegen 17:00-17:30 Uhr statt.",
+              "Die Winterbrise am Meer erfordert eine winddichte Jacke.",
+              "Einige Cafés haben im Winter reduzierte Außenbestuhlung.",
+              "Das Licht für Fotos ist im Winter besonders weich und klar."
+            ],
+            "hu": [
+              "Öltözzön rétegesen, mert a nap melegít, de az árnyék hűvös.",
+              "A naplemente már 17:00-17:30 körül bekövetkezik.",
+              "A téli tengeri szél miatt szélálló dzseki szükséges.",
+              "Néhány kávézó télen kevesebb kinti asztallal üzemel.",
+              "A fények télen különösen lágyak és tiszták a fotózáshoz."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi, soarele încălzește dar umbra este rece.",
+              "Apusul are loc deja în jurul orei 17:00-17:30.",
+              "Briza iernii la mare necesită o jachetă rezistentă la vânt.",
+              "Unele cafenele au mai puține mese afară iarna.",
+              "Lumina pentru fotografii este deosebit de moale și clară iarna."
+            ],
+            "en": [
+              "Dress in layers as the sun warms but shade is cool.",
+              "Sunset occurs already around 5:00-5:30 PM.",
+              "The winter sea breeze requires a windproof jacket.",
+              "Some cafes have reduced outdoor seating in winter.",
+              "The light for photos is particularly soft and clear in winter."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -592,6 +800,196 @@
           "Avoid cycling during the peak midday sun.",
           "Stick to the designated cycle paths along the shore."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Radfahren im Regen erfordert Vorsicht auf dem Kopfsteinpflaster von Ajaccio. Wir starten am Place Foch und fahren zügig zum Place d'Austerlitz.\n\nMittags geht es entlang der Sanguinaires-Straße, wo die Gischt des Meeres mit dem Regen verschmilzt. Die Pointe de la Parata wirkt bei diesem Wetter besonders mystisch.\n\nNachmittags bietet die Rückfahrt entlang der Küste dramatische Ausblicke auf das graue Mittelmeer, bevor wir das Rad sicher abstellen.\n\nAbends wärmen wir uns nach der nassen Tour im Musée Fesch auf, wo die Kunst den grauen Tag vergessen lässt.",
+            "hu": "Az esőben való kerékpározás óvatosságot igényel Ajaccio macskakövein. A Place Foch-ról indulunk és gyorsan a Place d'Austerlitz felé vesszük az irányt.\n\nDélben a Sanguinaires úton haladunk, ahol a tenger permete keveredik az esővel. A Pointe de la Parata különösen misztikus ebben az időben.\n\nDélután a tengerparti visszaút drámai kilátást nyújt a szürke Földközi-tengerre, mielőtt biztonságba helyezzük a bringát.\n\nEste a vizes túra után a Musée Fesch-ben melegszünk fel, ahol a művészet feledteti a szürke napot.",
+            "ro": "Mersul pe bicicletă în ploaie necesită prudență pe pavajul din Ajaccio. Pornim din Place Foch și ne îndreptăm rapid spre Place d'Austerlitz.\n\nLa prânz mergem pe drumul Sanguinaires, unde aerosolii mării se amestecă cu ploaia. Pointe de la Parata pare deosebit de mistică pe acest timp.\n\nDupă-amiaza, drumul de întoarcere pe coastă oferă vederi dramatice asupra Mediteranei gri, înainte de a parca bicicleta în siguranță.\n\nSeara ne încălzim după turul umed la Musée Fesch, unde arta ne face să uităm de ziua cenușie.",
+            "en": "Cycling in the rain requires caution on Ajaccio's cobblestones. We start at Place Foch and head quickly towards Place d'Austerlitz.\n\nAt noon, we ride along the Sanguinaires road where sea spray mixes with rain. Pointe de la Parata looks particularly mystical in this weather.\n\nAfternoon return ride along the coast offers dramatic views of the grey Mediterranean before safely parking the bike.\n\nIn the evening, we warm up after the wet tour at Musée Fesch, where art makes you forget the grey day."
+          },
+          "stops": [
+            {
+              "name": "Place Foch",
+              "tip_5lang": {
+                "de": "Achten Sie auf rutschige Markierungen auf der Straße.",
+                "hu": "Vigyázzon a csúszós útburkolati jelekre.",
+                "ro": "Atenție la marcajele rutiere alunecoase.",
+                "en": "Watch out for slippery road markings."
+              }
+            },
+            {
+              "name": "Place d'Austerlitz",
+              "tip_5lang": {
+                "de": "Kurzer Stopp unter den Bäumen möglich.",
+                "hu": "Rövid megálló a fák alatt lehetséges.",
+                "ro": "Scurtă oprire posibilă sub copaci.",
+                "en": "Short stop possible under the trees."
+              }
+            },
+            {
+              "name": "Sanguinaires Road",
+              "tip_5lang": {
+                "de": "Gute Regenjacke gegen den Fahrtwind und Nässe nötig.",
+                "hu": "Jó esőkabát kell a menetszél és a nedvesség ellen.",
+                "ro": "Jachetă de ploaie bună necesară contra vântului și umezelii.",
+                "en": "Good rain jacket needed against wind and wetness."
+              }
+            },
+            {
+              "name": "Pointe de la Parata",
+              "tip_5lang": {
+                "de": "Das Besucherzentrum bietet Schutz vor starkem Regen.",
+                "hu": "A látogatóközpont védelmet nyújt az erős eső ellen.",
+                "ro": "Centrul de vizitatori oferă adăpost contra ploii torențiale.",
+                "en": "The visitor center offers shelter from heavy rain."
+              }
+            },
+            {
+              "name": "Plage de la Terre Sacrée",
+              "tip_5lang": {
+                "de": "Die Felsen können bei Regen sehr glatt sein.",
+                "hu": "A sziklák esőben nagyon csúszósak lehetnek.",
+                "ro": "Stâncile pot fi foarte alunecoase pe ploaie.",
+                "en": "The rocks can be very slick in the rain."
+              }
+            },
+            {
+              "name": "Musée Fesch",
+              "tip_5lang": {
+                "de": "Fahrradständer befinden sich in der Nähe des Eingangs.",
+                "hu": "Kerékpártárolók a bejárat közelében találhatók.",
+                "ro": "Suporturile de biciclete sunt lângă intrare.",
+                "en": "Bike racks are located near the entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie abruptes Bremsen auf nassem Kopfsteinpflaster.",
+              "Nutzen Sie Schutzbleche, um sich vor Spritzwasser zu schützen.",
+              "Die Küstenstraße kann bei Wind und Regen anstrengend sein.",
+              "Beleuchtung am Rad ist bei grauem Regenwetter Pflicht.",
+              "Wasserdichte Packtaschen halten Ihre Sachen trocken."
+            ],
+            "hu": [
+              "Kerülje a hirtelen fékezést a nedves macskaköveken.",
+              "Használjon sárvédőt a felcsapódó víz ellen.",
+              "A part menti út szélben és esőben fárasztó lehet.",
+              "Szürke, esős időben kötelező a kerékpár kivilágítása.",
+              "A vízálló táskák szárazon tartják a felszerelését."
+            ],
+            "ro": [
+              "Evitați frânarea bruscă pe pavajul umed.",
+              "Folosiți apărători pentru a vă proteja de apă.",
+              "Drumul de coastă poate fi obositor pe vânt și ploaie.",
+              "Luminile la bicicletă sunt obligatorii pe vreme gri.",
+              "Gențile impermeabile vă mențin lucrurile uscate."
+            ],
+            "en": [
+              "Avoid sudden braking on wet cobblestones.",
+              "Use mudguards to protect yourself from spray.",
+              "The coastal road can be tiring in wind and rain.",
+              "Bike lights are mandatory in grey, rainy weather.",
+              "Waterproof panniers will keep your belongings dry."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintertag ist ideal für eine Radtour entlang der Küste. Die kühle Morgenluft am Place Foch weckt die Lebensgeister.\n\nMittags radeln wir unter der milden Dezembersonne zur Pointe de la Parata. Die Sicht auf die Sanguinaires-Inseln ist im Winter oft klarer als im Sommer.\n\nNachmittags genießen wir die leeren Strände wie Terre Sacrée, wo man die Stille des Meeres ohne die sommerlichen Massen erlebt.\n\nAbends kehren wir rechtzeitig vor Sonnenuntergang in die Stadt zurück, um das letzte Licht am Musée Fesch zu bewundern.",
+            "hu": "Egy tiszta téli nap ideális a tengerparti kerékpározáshoz. A Place Foch hűvös reggeli levegője felélénkíti az embert.\n\nDélben az enyhe decemberi napsütésben tekerünk a Pointe de la Parata felé. A Sanguinaires-szigetek látványa télen gyakran tisztább, mint nyáron.\n\nDélután élvezzük az üres strandokat, mint a Terre Sacrée, ahol a tenger csendjét nyári tömeg nélkül élhetjük át.\n\nEste időben, még naplemente előtt visszatérünk a városba, hogy megcsodáljuk az utolsó fényeket a Musée Fesch-nél.",
+            "ro": "O zi senină de iarnă este ideală pentru o tură cu bicicleta pe coastă. Aerul răcoros de dimineață din Place Foch vă înviorează.\n\nLa prânz pedalăm sub soarele blând de decembrie spre Pointe de la Parata. Vederea spre insulele Sanguinaires este adesea mai clară iarna.\n\nDupă-amiaza ne bucurăm de plajele pustii precum Terre Sacrée, unde experimentați liniștea mării fără mulțimile de vară.\n\nSeara ne întoarcem în oraș înainte de apus, pentru a admira ultima lumină la Musée Fesch.",
+            "en": "A clear winter day is ideal for a bike ride along the coast. The cool morning air at Place Foch awakens the spirit.\n\nAt noon, we cycle under the mild December sun to Pointe de la Parata. The view of the Sanguinaires islands is often clearer in winter than in summer.\n\nIn the afternoon, enjoy empty beaches like Terre Sacrée, experiencing the sea's silence without the summer crowds.\n\nEvening sees us returning to the city before sunset to admire the last light at Musée Fesch."
+          },
+          "stops": [
+            {
+              "name": "Place Foch",
+              "tip_5lang": {
+                "de": "Handschuhe für die kühle Abfahrt bereit halten.",
+                "hu": "Készítse elő a kesztyűt a hűvös induláshoz.",
+                "ro": "Pregătiți mănușile pentru plecarea răcoroasă.",
+                "en": "Have gloves ready for the cool start."
+              }
+            },
+            {
+              "name": "Place d'Austerlitz",
+              "tip_5lang": {
+                "de": "Der Platz liegt im Winter oft im Schatten.",
+                "hu": "A tér télen gyakran árnyékban van.",
+                "ro": "Piața este adesea în umbră iarna.",
+                "en": "The square is often in the shade in winter."
+              }
+            },
+            {
+              "name": "Sanguinaires Road",
+              "tip_5lang": {
+                "de": "Genießen Sie die verkehrsarmen Straßen im Winter.",
+                "hu": "Élvezze a forgalommentes utakat télen.",
+                "ro": "Bucurați-vă de străzile libere iarna.",
+                "en": "Enjoy the traffic-free roads in winter."
+              }
+            },
+            {
+              "name": "Pointe de la Parata",
+              "tip_5lang": {
+                "de": "Wunderschönes Licht für Landschaftsaufnahmen.",
+                "hu": "Gyönyörű fények a tájképekhez.",
+                "ro": "Lumină minunată pentru fotografii de peisaj.",
+                "en": "Beautiful light for landscape shots."
+              }
+            },
+            {
+              "name": "Plage de la Terre Sacrée",
+              "tip_5lang": {
+                "de": "Perfekter Ort für eine Pause in der Sonne.",
+                "hu": "Tökéletes hely egy napsütéses pihenőhöz.",
+                "ro": "Loc perfect pentru o pauză la soare.",
+                "en": "Perfect spot for a break in the sun."
+              }
+            },
+            {
+              "name": "Musée Fesch",
+              "tip_5lang": {
+                "de": "Rechtzeitig vor der Schließung ankommen.",
+                "hu": "Érkezzen meg időben zárás előtt.",
+                "ro": "Ajungeți la timp înainte de închidere.",
+                "en": "Arrive well before closing time."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Handschuhe sind wegen des Fahrtwinds wichtig.",
+              "Die Tage sind kurz, planen Sie die Rückkehr vor 17:00 Uhr.",
+              "Die Sonne kann auch im Winter intensiv sein, Sonnenschutz nutzen.",
+              "Prüfen Sie den Reifendruck, Kälte beeinflusst ihn.",
+              "Nutzen Sie die Nebensaison für entspanntes Fahren ohne Stau."
+            ],
+            "hu": [
+              "A menetszél miatt fontos a meleg kesztyű.",
+              "A nappalok rövidek, tervezze a visszatérést 17:00 előtt.",
+              "A nap télen is erős lehet, használjon fényvédőt.",
+              "Ellenőrizze a guminyomást, a hideg befolyásolja.",
+              "Használja ki az előszezont a forgalommentes tekeréshez."
+            ],
+            "ro": [
+              "Mănușile calde sunt importante din cauza vântului.",
+              "Zilele sunt scurte, planificați întoarcerea înainte de ora 17:00.",
+              "Soarele poate fi intens și iarna, folosiți protecție solară.",
+              "Verificați presiunea în anvelope, frigul o influențează.",
+              "Profitați de extrasezon pentru o plimbare fără trafic."
+            ],
+            "en": [
+              "Warm gloves are important because of the wind chill.",
+              "Days are short, plan to be back before 5:00 PM.",
+              "The sun can be intense even in winter, use sun protection.",
+              "Check tire pressure, as cold affects it.",
+              "Take advantage of the off-season for relaxed riding without traffic."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -900,6 +1298,196 @@
           "The coastal drive is most scenic during the evening hours.",
           "Avoid the very center during local rush hours."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Im Auto ist der Regen in Ajaccio kein Problem. Wir starten trocken am Musée Fesch und bewundern die Kunst, während es draußen gießt.\n\nMittags fahren wir zur Imperial Chapel und danach zum Place d'Austerlitz, immer mit dem Vorteil, bei Schauern schnell wieder im Trockenen zu sein.\n\nNachmittags bietet die Fahrt zur Pointe de la Parata ein Naturschauspiel: Die Sanguinaires-Inseln verschwinden fast im Regenschleier, was sehr atmosphärisch wirkt.\n\nAbends endet die Tour am Place Foch, wo wir direkt in der Nähe der Restaurants parken können, um nicht nass zu werden.",
+            "hu": "Autóval az eső nem akadály Ajaccióban. Szárazon kezdünk a Musée Fesch-ben, csodálva a művészetet, miközben kint szakad.\n\nDélben az Imperial Chapel-hez, majd a Place d'Austerlitz-hez megyünk, kihasználva, hogy a záporok elől gyorsan az autóba menekülhetünk.\n\nDélután a Pointe de la Parata felé autózva igazi természeti látványban van részünk: a Sanguinaires-szigetek szinte eltűnnek az esőfüggönyben.\n\nEste a túra a Place Foch-on ér véget, ahol közvetlenül az éttermek közelében parkolhatunk, hogy ne ázzunk el.",
+            "ro": "Cu mașina, ploaia nu este o problemă în Ajaccio. Începem la adăpost la Musée Fesch, admirând arta în timp ce afară plouă torențial.\n\nLa prânz mergem la Imperial Chapel și apoi la Place d'Austerlitz, cu avantajul de a ne întoarce rapid la uscat în caz de aversă.\n\nDupă-amiaza, drumul spre Pointe de la Parata oferă un spectacol al naturii: insulele Sanguinaires aproape dispar în perdeaua de ploaie.\n\nSeara turul se încheie în Place Foch, unde putem parca aproape de restaurante pentru a nu ne uda.",
+            "en": "In a car, the rain in Ajaccio is no problem. We start dry at Musée Fesch, admiring art while it pours outside.\n\nAt noon, we drive to the Imperial Chapel and then to Place d'Austerlitz, always benefiting from a quick return to the dry interior during showers.\n\nIn the afternoon, the drive to Pointe de la Parata offers a natural spectacle: the Sanguinaires islands almost disappear in the rain veil.\n\nEvening ends at Place Foch, where we can park right near the restaurants to stay dry."
+          },
+          "stops": [
+            {
+              "name": "Musée Fesch",
+              "tip_5lang": {
+                "de": "Parkhaus in der Nähe nutzen.",
+                "hu": "Használja a közeli parkolóházat.",
+                "ro": "Folosiți parcarea acoperită din apropiere.",
+                "en": "Use the nearby parking garage."
+              }
+            },
+            {
+              "name": "Imperial Chapel",
+              "tip_5lang": {
+                "de": "Nur ein kurzer Weg vom Parkplatz zum Eingang.",
+                "hu": "Csak rövid út a parkolótól a bejáratig.",
+                "ro": "Doar un drum scurt de la parcare la intrare.",
+                "en": "Only a short walk from parking to entrance."
+              }
+            },
+            {
+              "name": "Place d'Austerlitz",
+              "tip_5lang": {
+                "de": "Parken direkt am Denkmal möglich.",
+                "hu": "Parkolás közvetlenül az emlékműnél lehetséges.",
+                "ro": "Parcare posibilă chiar lângă monument.",
+                "en": "Parking possible right by the monument."
+              }
+            },
+            {
+              "name": "Pointe de la Parata",
+              "tip_5lang": {
+                "de": "Beobachten Sie das Meer vom Auto aus bei starkem Regen.",
+                "hu": "Figyelje a tengert az autóból erős esőben.",
+                "ro": "Observați marea din mașină în caz de ploaie grea.",
+                "en": "Watch the sea from the car during heavy rain."
+              }
+            },
+            {
+              "name": "Plage de Barbicaja",
+              "tip_5lang": {
+                "de": "Strandrestaurants bieten gute Unterstände.",
+                "hu": "A strandéttermek jó menedéket nyújtanak.",
+                "ro": "Restaurantele de pe plajă oferă adăpost bun.",
+                "en": "Beach restaurants offer good shelter."
+              }
+            },
+            {
+              "name": "Place Foch",
+              "tip_5lang": {
+                "de": "Abends sind Parkplätze in der Nähe oft begehrt.",
+                "hu": "Este a közeli parkolóhelyek nagyon keresettek.",
+                "ro": "Seara locurile de parcare din apropiere sunt căutate.",
+                "en": "Nearby parking spots are popular in the evening."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Parkhäuser 'Diamant' oder 'Fesch'.",
+              "Die Küstenstraße kann bei Regen stellenweise Aquaplaning-Gefahr bieten.",
+              "Halten Sie einen Regenschirm im Auto bereit für den Weg zum Restaurant.",
+              "Die Sicht auf die Sanguinaires kann bei starkem Regen eingeschränkt sein.",
+              "Im Auto ist man flexibel bei plötzlichen Wetterumschwüngen."
+            ],
+            "hu": [
+              "Használja a 'Diamant' vagy 'Fesch' parkolóházakat.",
+              "A part menti úton esőben helyenként vízkifutás (aquaplaning) veszélye állhat fenn.",
+              "Tartson esernyőt az autóban az étteremig tartó útra.",
+              "Erős esőben a Sanguinaires látványa korlátozott lehet.",
+              "Az autóban rugalmas maradhat hirtelen időjárás-változáskor."
+            ],
+            "ro": [
+              "Folosiți parcările 'Diamant' sau 'Fesch'.",
+              "Drumul de coastă poate prezenta risc de acvaplanare pe alocuri.",
+              "Țineți o umbrelă în mașină pentru drumul spre restaurant.",
+              "Vizibilitatea spre Sanguinaires poate fi limitată pe ploaie torențială.",
+              "În mașină sunteți flexibil la schimbările bruște de vreme."
+            ],
+            "en": [
+              "Use the 'Diamant' or 'Fesch' parking garages.",
+              "The coastal road may have hydroplaning risks in some spots.",
+              "Keep an umbrella in the car for the walk to the restaurant.",
+              "Visibility of the Sanguinaires might be limited in heavy rain.",
+              "A car keeps you flexible during sudden weather changes."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliche Panoramafahrten sind in Ajaccio ein Genuss. Wir starten am Musée Fesch, wenn die Stadt noch im sanften Morgenlicht liegt.\n\nMittags besuchen wir die kaiserliche Kapelle und fahren entspannt zur Pointe de la Parata, ohne den sommerlichen Verkehrsstau.\n\nNachmittags ist die Lichtstimmung an den Stränden wie Barbicaja einzigartig. Das tiefe Blau des Meeres kontrastiert mit der klaren Winterluft.\n\nAbends kehren wir zum Place Foch zurück. Die weihnachtliche Beleuchtung (im Dezember) macht die Ankunft besonders stimmungsvoll.",
+            "hu": "A téli panorámaautózás igazi élmény Ajaccióban. A Musée Fesch-nél kezdünk, amikor a várost még lágy reggeli fény övezi.\n\nDélben meglátogatjuk a császári kápolnát, majd lazán elautózunk a Pointe de la Parata-hoz, nyári forgalmi dugók nélkül.\n\nDélután a fények Barbicaja strandján egyedülállóak. A tenger mélykékje kontrasztban áll a tiszta téli levegővel.\n\nEste visszatérünk a Place Foch-ra. A karácsonyi kivilágítás (decemberben) különösen hangulatossá teszi az érkezést.",
+            "ro": "Plimbările panoramice de iarnă sunt o plăcere în Ajaccio. Începem la Musée Fesch, când orașul este încă în lumina blândă a dimineții.\n\nLa prânz vizităm Capela Imperială și conducem relaxat spre Pointe de la Parata, fără traficul de vară.\n\nDupă-amiaza, lumina de pe plajele precum Barbicaja este unică. Albastrul profund al mării contrastează cu aerul curat de iarnă.\n\nSeara ne întoarcem în Place Foch. Iluminatul de Crăciun (în decembrie) face sosirea deosebit de atmosferică.",
+            "en": "Winter panoramic drives are a delight in Ajaccio. We start at Musée Fesch while the city is still bathed in soft morning light.\n\nAt noon, we visit the Imperial Chapel and drive leisurely to Pointe de la Parata without the summer traffic jams.\n\nIn the afternoon, the lighting at beaches like Barbicaja is unique. The deep blue of the sea contrasts with the crisp winter air.\n\nEvening returns us to Place Foch. The Christmas lights (in December) make the arrival especially atmospheric."
+          },
+          "stops": [
+            {
+              "name": "Musée Fesch",
+              "tip_5lang": {
+                "de": "Klimatisierte Räume bieten Schutz vor kühler Luft.",
+                "hu": "A légkondicionált terek védenek a hűvös levegő ellen.",
+                "ro": "Spațiile climatizate oferă protecție contra aerului rece.",
+                "en": "Climate-controlled rooms offer protection from cool air."
+              }
+            },
+            {
+              "name": "Imperial Chapel",
+              "tip_5lang": {
+                "de": "Im Winter oft weniger Besucher, genießen Sie die Ruhe.",
+                "hu": "Télen gyakran kevesebb a látogató, élvezze a nyugalmat.",
+                "ro": "Adesea mai puțini vizitatori iarna, bucurați-vă de liniște.",
+                "en": "Often fewer visitors in winter, enjoy the quiet."
+              }
+            },
+            {
+              "name": "Place d'Austerlitz",
+              "tip_5lang": {
+                "de": "Warme Jacke für den Aufenthalt im Freien nötig.",
+                "hu": "Meleg kabát szükséges a kinti tartózkodáshoz.",
+                "ro": "Jachetă caldă necesară pentru șederea afară.",
+                "en": "Warm jacket needed for staying outdoors."
+              }
+            },
+            {
+              "name": "Pointe de la Parata",
+              "tip_5lang": {
+                "de": "Beste Zeit für ungestörte Panoramafotos.",
+                "hu": "A legjobb idő zavartalan panorámafotókhoz.",
+                "ro": "Cel mai bun moment pentru fotografii panoramice neîntrerupte.",
+                "en": "Best time for undisturbed panoramic photos."
+              }
+            },
+            {
+              "name": "Plage de Barbicaja",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das Meer bei offener Scheibe.",
+                "hu": "Élvezze a tenger látványát lehúzott ablaknál.",
+                "ro": "Bucurați-vă de vederea mării cu geamul deschis.",
+                "en": "Enjoy the sea view with the window down."
+              }
+            },
+            {
+              "name": "Place Foch",
+              "tip_5lang": {
+                "de": "Zentrale Parkplätze sind im Winter leichter zu finden.",
+                "hu": "Télen könnyebb központi parkolót találni.",
+                "ro": "Locurile de parcare centrale se găsesc mai ușor iarna.",
+                "en": "Central parking spots are easier to find in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Parkgebühren sind oft saisonabhängig oder günstiger.",
+              "Die Straßen zur Küste sind im Winter deutlich leerer.",
+              "Nutzen Sie die Heizung, wenn Sie nach dem Strandbesuch zurückkehren.",
+              "Im Dezember gibt es oft einen Weihnachtsmarkt am Place Foch.",
+              "Die klare Winterluft sorgt für exzellente Fernsicht beim Fahren."
+            ],
+            "hu": [
+              "A parkolási díjak gyakran szezonálisak vagy olcsóbbak.",
+              "A tengerparti utak télen lényegesen üresebbek.",
+              "Használja a fűtést a strandlátogatás utáni visszatéréskor.",
+              "Decemberben gyakran van karácsonyi vásár a Place Foch-on.",
+              "A tiszta téli levegő kiváló látótávolságot biztosít vezetés közben."
+            ],
+            "ro": [
+              "Tarifele de parcare sunt adesea sezoniere sau mai ieftine.",
+              "Drumurile spre coastă sunt mult mai libere iarna.",
+              "Folosiți căldura când vă întoarceți după vizita la plajă.",
+              "În decembrie există adesea un târg de Crăciun în Place Foch.",
+              "Aerul curat de iarnă asigură o vizibilitate excelentă la volan."
+            ],
+            "en": [
+              "Parking fees are often seasonal or cheaper.",
+              "The coastal roads are significantly emptier in winter.",
+              "Use the heater when returning after a beach visit.",
+              "In December, there is often a Christmas market at Place Foch.",
+              "Clear winter air provides excellent visibility while driving."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1185,6 +1773,196 @@
           "Check the bus direction carefully at Place Foch.",
           "Route maps are clearly displayed at all major stops."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit den Muvistrada-Bussen bleiben wir in Ajaccio mobil und trocken. Wir starten am Place Foch und nutzen die kurzen Wege zur Maison Bonaparte.\n\nMittags bringt uns der Bus zum Musée Fesch, wo wir den Regen ignorieren können. Die Taktfrequenz ist auch bei schlechtem Wetter stabil.\n\nNachmittags fahren wir zur Pointe de la Parata (Linie 5). Der Bus bietet eine geschützte Aussichtsfahrt entlang der Küste.\n\nAbends kehren wir bequem in die Innenstadt zurück, wo wir trockenen Fußes in die Nähe der Restaurants am Place Foch gelangen.",
+            "hu": "A Muvistrada buszokkal Ajaccióban mobilak és szárazak maradhatunk. A Place Foch-ról indulunk, kihasználva a rövid utat Bonaparte házáig.\n\nDélben a busz a Musée Fesch-hez visz, ahol figyelmen kívül hagyhatjuk az esőt. A menetrend rossz időben is stabil.\n\nDélután a Pointe de la Parata-hoz megyünk (5-ös vonal). A busz védett kilátást nyújt a part menti út során.\n\nEste kényelmesen visszatérünk a belvárosba, ahol száraz lábbal juthatunk a Place Foch közeli éttermeihez.",
+            "ro": "Cu autobuzele Muvistrada rămânem mobili și uscați în Ajaccio. Pornim din Place Foch și profităm de drumul scurt spre Maison Bonaparte.\n\nLa prânz autobuzul ne duce la Musée Fesch, unde putem ignora ploaia. Frecvența este stabilă și pe vreme rea.\n\nDupă-amiaza mergem spre Pointe de la Parata (Linia 5). Autobuzul oferă o călătorie panoramică protejată pe coastă.\n\nSeara ne întoarcem confortabil în centrul orașului, ajungând aproape de restaurantele din Place Foch fără a ne uda.",
+            "en": "With Muvistrada buses, we stay mobile and dry in Ajaccio. We start at Place Foch, taking advantage of the short walk to Maison Bonaparte.\n\nAt noon, the bus takes us to Musée Fesch, where we can ignore the rain. The frequency remains stable even in bad weather.\n\nIn the afternoon, we head to Pointe de la Parata (Line 5). The bus provides a sheltered scenic ride along the coast.\n\nEvening sees us returning comfortably to the city center, arriving dry near the restaurants at Place Foch."
+          },
+          "stops": [
+            {
+              "name": "Place Foch",
+              "tip_5lang": {
+                "de": "Warten Sie unter den Arkaden auf den Bus.",
+                "hu": "Várja a buszt az árkádok alatt.",
+                "ro": "Așteptați autobuzul sub arcade.",
+                "en": "Wait for the bus under the arcades."
+              }
+            },
+            {
+              "name": "Maison Bonaparte",
+              "tip_5lang": {
+                "de": "Vom Busstopp sind es nur wenige Gehminuten.",
+                "hu": "A buszmegállótól csak pár perc séta.",
+                "ro": "De la stația de autobuz sunt doar câteva minute de mers.",
+                "en": "Only a few minutes' walk from the bus stop."
+              }
+            },
+            {
+              "name": "Musée Fesch",
+              "tip_5lang": {
+                "de": "Die Haltestelle befindet sich fast direkt vor dem Museum.",
+                "hu": "A megálló szinte közvetlenül a múzeum előtt van.",
+                "ro": "Stația este aproape direct în fața muzeului.",
+                "en": "The stop is almost directly in front of the museum."
+              }
+            },
+            {
+              "name": "Pointe de la Parata",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Rückfahrzeiten der Linie 5 bei Regen.",
+                "hu": "Ellenőrizze az 5-ös busz visszaindulási idejét esőben.",
+                "ro": "Verificați orele de întoarcere ale liniei 5 pe ploaie.",
+                "en": "Check return times for Line 5 when it's raining."
+              }
+            },
+            {
+              "name": "Place d'Austerlitz",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Unterstand an der Haltestelle.",
+                "hu": "Használja a megállóban lévő várót.",
+                "ro": "Folosiți adăpostul din stație.",
+                "en": "Use the shelter at the bus stop."
+              }
+            },
+            {
+              "name": "Place Foch",
+              "tip_5lang": {
+                "de": "Bester Umsteigepunkt für verschiedene Linien.",
+                "hu": "A legjobb átszállópont a különböző vonalak között.",
+                "ro": "Cel mai bun punct de transfer pentru diverse linii.",
+                "en": "Best transfer point for various lines."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Laden Sie die Muvistrada-App für Echtzeit-Infos herunter.",
+              "Fahrkarten können per SMS oder beim Fahrer gekauft werden.",
+              "Die Linie 5 fährt direkt zur Parata, ideal bei Regen.",
+              "Busse sind gut klimatisiert/beheizt und trocken.",
+              "An stark besuchten Tagen kann der Bus bei Regen voller sein."
+            ],
+            "hu": [
+              "Töltse le a Muvistrada alkalmazást a valós idejű infókért.",
+              "Jegyet SMS-ben vagy a sofőrnél is vehet.",
+              "Az 5-ös vonal közvetlenül a Paratához megy, esőben ideális.",
+              "A buszok jól fűtöttek és szárazak.",
+              "Forgalmas napokon az eső miatt zsúfoltabbak lehetnek a buszok."
+            ],
+            "ro": [
+              "Descărcați aplicația Muvistrada pentru info în timp real.",
+              "Biletele pot fi cumpărate prin SMS sau de la șofer.",
+              "Linia 5 merge direct la Parata, ideală pe ploaie.",
+              "Autobuzele sunt bine încălzite și uscate.",
+              "În zilele aglomerate, autobuzele pot fi mai pline pe ploaie."
+            ],
+            "en": [
+              "Download the Muvistrada app for real-time info.",
+              "Tickets can be bought via SMS or from the driver.",
+              "Line 5 goes directly to Parata, ideal in the rain.",
+              "Buses are well-heated and dry.",
+              "On busy days, buses can be more crowded when it rains."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Busfahren ist im Winter in Ajaccio sehr entspannt. Wir starten am Place Foch und genießen die kurze Fahrt zur Maison Bonaparte.\n\nMittags bringt uns der ÖPNV zum Musée Fesch. Die winterlichen Fahrpläne sind zuverlässig, aber prüfen Sie die selteneren Fahrten zur Küste.\n\nNachmittags bietet die Linie 5 zur Pointe de la Parata eine wunderschöne Panoramafahrt in der klaren Wintersonne.\n\nAbends kehren wir zum Place Foch zurück. Die Busfahrt bietet einen tollen Ausblick auf die weihnachtlich beleuchteten Straßen im Dezember.",
+            "hu": "Télen a buszozás nagyon nyugodt Ajaccióban. A Place Foch-ról indulunk és élvezzük a rövid utat Bonaparte házáig.\n\nDélben a tömegközlekedés a Musée Fesch-hez visz. A téli menetrend megbízható, de ellenőrizze a ritkább parti járatokat.\n\nDélután az 5-ös vonal a Pointe de la Parata felé gyönyörű panorámát nyújt a tiszta téli napsütésben.\n\nEste visszatérünk a Place Foch-ra. A buszút remek kilátást nyújt a decemberi ünnepi fényekre.",
+            "ro": "Mersul cu autobuzul este foarte relaxat iarna în Ajaccio. Pornim din Place Foch și ne bucurăm de drumul scurt spre Maison Bonaparte.\n\nLa prânz, transportul public ne duce la Musée Fesch. Orarele de iarnă sunt de încredere, dar verificați cursele mai rare spre coastă.\n\nDupă-amiaza, linia 5 spre Pointe de la Parata oferă o călătorie panoramică minunată în soarele clar de iarnă.\n\nSeara ne întoarcem în Place Foch. Drumul oferă o vedere excelentă asupra străzilor iluminate festiv în decembrie.",
+            "en": "Taking the bus is very relaxed in Ajaccio during winter. We start at Place Foch and enjoy the short ride to Maison Bonaparte.\n\nAt noon, public transit takes us to Musée Fesch. Winter schedules are reliable, but check the less frequent coastal services.\n\nIn the afternoon, Line 5 to Pointe de la Parata offers a beautiful scenic ride in the clear winter sun.\n\nEvening returns us to Place Foch. The bus ride offers great views of the festively lit streets in December."
+          },
+          "stops": [
+            {
+              "name": "Place Foch",
+              "tip_5lang": {
+                "de": "Zentraler Knotenpunkt für alle Wintertouren.",
+                "hu": "Központi csomópont minden téli túrához.",
+                "ro": "Nod central pentru toate tururile de iarnă.",
+                "en": "Central hub for all winter tours."
+              }
+            },
+            {
+              "name": "Maison Bonaparte",
+              "tip_5lang": {
+                "de": "Kurzer Spaziergang durch die ruhige Altstadt.",
+                "hu": "Rövid séta a csendes óvároson keresztül.",
+                "ro": "Scurtă plimbare prin orașul vechi liniștit.",
+                "en": "Short walk through the quiet old town."
+              }
+            },
+            {
+              "name": "Musée Fesch",
+              "tip_5lang": {
+                "de": "Bushaltestelle direkt am Eingang.",
+                "hu": "Buszmegálló közvetlenül a bejáratnál.",
+                "ro": "Stație de autobuz chiar la intrare.",
+                "en": "Bus stop right at the entrance."
+              }
+            },
+            {
+              "name": "Pointe de la Parata",
+              "tip_5lang": {
+                "de": "Letzten Bus vor Sonnenuntergang nicht verpassen.",
+                "hu": "Ne késse le az utolsó buszt naplemente előtt.",
+                "ro": "Nu ratați ultimul autobuz înainte de apus.",
+                "en": "Don't miss the last bus before sunset."
+              }
+            },
+            {
+              "name": "Place d'Austerlitz",
+              "tip_5lang": {
+                "de": "Gute Anbindung mit verschiedenen Linien.",
+                "hu": "Jó összeköttetés különböző vonalakkal.",
+                "ro": "Legături bune cu diverse linii.",
+                "en": "Good connections with various lines."
+              }
+            },
+            {
+              "name": "Place Foch",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um den Tag entspannt zu beenden.",
+                "hu": "Tökéletes hely a nap nyugodt befejezéséhez.",
+                "ro": "Loc perfect pentru a încheia ziua relaxat.",
+                "en": "Perfect spot to end the day in a relaxed way."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Winterfahrplan, einige Linien fahren seltener.",
+              "Die Linie 5 ist die beste Verbindung für Touristen zur Küste.",
+              "Busse sind im Winter weniger überfüllt als im Sommer.",
+              "Ein Tagesticket lohnt sich bei mehreren Fahrten.",
+              "Die Heizung in den Bussen ist im Winter sehr angenehm."
+            ],
+            "hu": [
+              "Ellenőrizze a téli menetrendet, néhány járat ritkábban indul.",
+              "Az 5-ös vonal a legjobb kapcsolat a turistáknak a part felé.",
+              "A buszok télen kevésbé zsúfoltak, mint nyáron.",
+              "Több utazás esetén megéri napijegyet váltani.",
+              "A buszok fűtése télen nagyon kellemes."
+            ],
+            "ro": [
+              "Verificați orarul de iarnă, unele linii circulă mai rar.",
+              "Linia 5 este cea mai bună legătură pentru turiști spre coastă.",
+              "Autobuzele sunt mai puțin aglomerate iarna decât vara.",
+              "Un bilet de o zi merită dacă faceți mai multe călătorii.",
+              "Încălzirea în autobuze este foarte plăcută iarna."
+            ],
+            "en": [
+              "Check the winter schedule as some lines run less frequently.",
+              "Line 5 is the best connection for tourists to the coast.",
+              "Buses are less crowded in winter than in summer.",
+              "A day ticket is worth it if you make several trips.",
+              "The heating in the buses is very pleasant in winter."
+            ]
+          }
+        }
       }
     }
   }

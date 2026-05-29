@@ -342,6 +342,188 @@
           "Allow plenty of time for the fortress, there is much to explore.",
           "Most places in the city center are within easy walking distance."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag in den Museen, um dem Regen zu entgehen. Mittags bietet das Stadtzentrum gemütliche Restaurants für eine warme Pause. Am Nachmittag führt der Weg zur Festung; der Nebel über den Rhodopen verleiht der Ruine eine mystische Atmosphäre. Beenden Sie den Tag in der Kirche St. Bogoroditsa, während der Regen gegen die alten Mauern peitscht.",
+            "hu": "Kezdje a napot a múzeumokban, ahol védve van az esőtől. Ebédre keressen egy hangulatos helyet a belvárosban. Délután az eső ellenére is érdemes felsétálni a várhoz; a ködös Rhodope-hegység látványa ilyenkor különösen misztikus. A napot a Petrich-templom csendjében zárjuk, hallgatva az eső kopogását.",
+            "ro": "Începeți ziua în muzee pentru a evita ploaia. La prânz, centrul orașului oferă restaurante primitoare pentru o pauză caldă. După-amiaza, urcați spre cetate; ceața peste Rodopi oferă ruinelor o atmosferă mistică. Încheiați ziua la biserica Sf. Bogoroditsa, în timp ce ploaia bate în zidurile vechi.",
+            "en": "Start your day in the museums to escape the rain. At noon, the city center offers cozy spots for a warm break. In the afternoon, head to the fortress; the mist over the Rhodope Mountains gives the ruins a mystical vibe. End the day at the Church of St. Bogoroditsa, sheltered from the autumn drizzle."
+          },
+          "stops": [
+            {
+              "name": "Historical Museum Asenovgrad",
+              "tip_4lang": {
+                "de": "Garderobe vorhanden, ideal zum Trocknen der Jacken.",
+                "hu": "Ruhatár elérhető, ideális a vizes kabátoknak.",
+                "ro": "Garderobă disponibilă, ideală pentru uscarea hăinilor.",
+                "en": "Cloakroom available, perfect for drying your jackets."
+              }
+            },
+            {
+              "name": "Church of Saint George",
+              "tip_4lang": {
+                "de": "Ein ruhiger Ort, um einen heftigen Schauer abzuwarten.",
+                "hu": "Csendes menedék egy nagyobb zápor idejére.",
+                "ro": "Un loc liniștit pentru a aștepta trecerea unei plume.",
+                "en": "A quiet place to wait out a heavy downpour."
+              }
+            },
+            {
+              "name": "Paleontological Museum",
+              "tip_4lang": {
+                "de": "Bewundern Sie das Deinotherium, während es draußen regnet.",
+                "hu": "Csodálja meg a Deinotheriumot, amíg kint esik.",
+                "ro": "Admirați Deinotherium în timp ce afară plouă.",
+                "en": "Admire the Deinotherium while it rains outside."
+              }
+            },
+            {
+              "name": "Lunch in the city center",
+              "tip_4lang": {
+                "de": "Fragen Sie nach einer heißen Schkembe-Suppe.",
+                "hu": "Kóstolja meg a forró pacallevest (shkembe chorba).",
+                "ro": "Încercați o ciorbă de burtă fierbinte (shkembe).",
+                "en": "Ask for a hot shkembe chorba to warm up."
+              }
+            },
+            {
+              "name": "Asen's Fortress",
+              "tip_4lang": {
+                "de": "Vorsicht, die Steinstufen sind bei Nässe sehr rutschig.",
+                "hu": "Vigyázat, a kőlépcsők nedvesen nagyon csúszósak.",
+                "ro": "Atenție, treptele de piatră sunt alunecoase când sunt ude.",
+                "en": "Caution: the stone steps are very slippery when wet."
+              }
+            },
+            {
+              "name": "Church of St. Bogoroditsa of Petrich",
+              "tip_4lang": {
+                "de": "Genießen Sie den Blick auf das regnerische Tal vom Schutz aus.",
+                "hu": "Élvezze az esős völgy látványát a fedett tornácról.",
+                "ro": "Bucurați-vă de vederea văii ploioase de sub adăpost.",
+                "en": "Enjoy the view of the rainy valley from the shelter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Wanderschuhe für den Aufstieg zur Festung.",
+              "Ein stabiler Regenschirm ist wegen des Windes in den Bergen wichtig.",
+              "Nutzen Sie die vielen Kirchen als kurzzeitigen Regenschutz.",
+              "Die Museen sind montags oft geschlossen, prüfen Sie die Zeiten."
+            ],
+            "hu": [
+              "Viseljen vízálló túrabakancsot a várba menet.",
+              "A szeles hegyi utak miatt az esőkabát praktikusabb, mint az ernyő.",
+              "Használja ki a templomokat rövid pihenőre az eső elől.",
+              "A múzeumok hétfőn zárva tarthatnak, ellenőrizze előre."
+            ],
+            "ro": [
+              "Purtați bocanci impermeabili pentru urcarea la cetate.",
+              "O pelerină de ploaie este mai utilă decât umbrela din cauza vântului.",
+              "Folosiți numeroasele biserici ca adăpost temporar.",
+              "Muzeele sunt adesea închise lunea, verificați programul."
+            ],
+            "en": [
+              "Wear waterproof hiking boots for the climb to the fortress.",
+              "A raincoat is more practical than an umbrella due to mountain winds.",
+              "Take advantage of the many local churches as temporary rain shelter.",
+              "Museums are often closed on Mondays; check the schedule in advance."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie Asenovgrad in der klaren Winterluft. Die Museen sind beheizt und bieten spannende Einblicke. Mittags wärmen lokale Spezialitäten Körper und Geist. Da die Sonne früh hinter den Rhodopen verschwindet, besuchen Sie die Festung am frühen Nachmittag, um das goldene Licht auf dem Schnee zu genießen. Der Tag endet friedlich in der Altstadt.",
+            "hu": "Fedezze fel Aszenovgradot a friss téli levegőn. A múzeumok fűtöttek és barátságosak. Ebédre válasszon laktató helyi ételeket. Mivel a nap korán bukik a Rhodope mögé, a várat kora délután látogassa meg, hogy lássa a havat a lemenő nap fényében. A napot a város ódon templomai között zárjuk.",
+            "ro": "Descoperiți Asenovgrad în aerul curat de iarnă. Muzeele sunt încălzite și primitoare. La prânz, specialitățile locale vă vor încălzi. Deoarece soarele apune devreme după Rodopi, vizitați cetatea la începutul după-amiezii pentru lumina aurie pe zăpadă. Ziua se încheie liniștit în orașul vechi.",
+            "en": "Experience Asenovgrad in the crisp winter air. The museums are heated and offer cozy exploration. At lunch, local winter specialties will warm you up. Since the sun sets early behind the Rhodopes, visit the fortress in the early afternoon for the golden light on the snow. The day ends peacefully in the old town."
+          },
+          "stops": [
+            {
+              "name": "Historical Museum Asenovgrad",
+              "tip_4lang": {
+                "de": "Gut beheizt, ein perfekter Start an kalten Tagen.",
+                "hu": "Jól fűtött épület, tökéletes kezdés hideg napokon.",
+                "ro": "Bine încălzit, un început perfect în zilele reci.",
+                "en": "Well-heated, a perfect start on cold winter days."
+              }
+            },
+            {
+              "name": "Church of Saint George",
+              "tip_4lang": {
+                "de": "Zünden Sie eine Kerze an für Wärme und Besinnlichkeit.",
+                "hu": "Gyújtson egy gyertyát a meghitt melegségért.",
+                "ro": "Aprindeți o lumânare pentru căldură și liniște.",
+                "en": "Light a candle for warmth and reflection."
+              }
+            },
+            {
+              "name": "Paleontological Museum",
+              "tip_4lang": {
+                "de": "Die riesigen Fossilien wirken im Winterlicht noch imposanter.",
+                "hu": "Az óriási fosszíliák a téli fényben még lenyűgözőbbek.",
+                "ro": "Fosilele uriașe par și mai impunătoare în lumina iernii.",
+                "en": "The giant fossils look even more imposing in winter light."
+              }
+            },
+            {
+              "name": "Lunch in the city center",
+              "tip_4lang": {
+                "de": "Probieren Sie lokalen Wein aus der Region Mavrud.",
+                "hu": "Kóstolja meg a helyi Mavrud vörösbort.",
+                "ro": "Gustați vinul roșu local din soiul Mavrud.",
+                "en": "Try some local red wine from the Mavrud region."
+              }
+            },
+            {
+              "name": "Asen's Fortress",
+              "tip_4lang": {
+                "de": "Achtung bei Eis auf dem Pfad; warme Handschuhe sind Pflicht.",
+                "hu": "Vigyázzon a jeges ösvényekkel; a meleg kesztyű kötelező.",
+                "ro": "Atenție la gheața de pe potecă; mănușile groase sunt obligatorii.",
+                "en": "Watch out for ice on the path; warm gloves are essential."
+              }
+            },
+            {
+              "name": "Church of St. Bogoroditsa of Petrich",
+              "tip_4lang": {
+                "de": "Besuch vor 16:30 Uhr planen, bevor es dunkel wird.",
+                "hu": "Tervezze a látogatást 16:30 előtt, mielőtt sötét lesz.",
+                "ro": "Planificați vizita înainte de 16:30, înainte de întuneric.",
+                "en": "Plan your visit before 16:30, before it gets dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Winter gegen 16:45 Uhr unter.",
+              "Schichten Sie Ihre Kleidung, da es in Museen warm und draußen kalt ist.",
+              "Einige Wege zur Festung können bei Schnee gesperrt sein.",
+              "Genießen Sie einen heißen Tee in den Cafés der Fußgängerzone."
+            ],
+            "hu": [
+              "A nap télen 16:45 körül nyugszik a hegyek mögött.",
+              "Öltözzön rétegesen: a múzeumokban meleg, kint fagyos az idő.",
+              "A várba vezető utak havas időben csúszósak lehetnek.",
+              "Igyon egy forró teát a sétálóutca kávézóiban."
+            ],
+            "ro": [
+              "Soarele apune în jurul orei 16:45 iarna.",
+              "Îmbrăcați-vă în straturi: e cald în muzee și frig afară.",
+              "Unele poteci spre cetate pot fi închise în caz de zăpadă mare.",
+              "Savurați un ceai fierbinte în cafenelele de pe strada pietonală."
+            ],
+            "en": [
+              "Winter sunset is around 16:45 behind the mountains.",
+              "Dress in layers: museums are warm, but the outside is freezing.",
+              "Some paths to the fortress might be slippery or closed in heavy snow.",
+              "Enjoy a hot tea in the cafes along the pedestrian street."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -678,6 +860,188 @@
           "A helmet is strongly recommended.",
           "The surrounding roads can be uneven, ride carefully."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine nasse Fahrt durch die Stadt der Kirchen. Starten Sie beim Paläontologischen Museum und nutzen Sie befestigte Straßen. Nach dem Mittagessen in der Altstadt fordert der Anstieg zur Festung Ihre Ausdauer auf nassem Asphalt. Der Ausflug zum Muldava-Kloster führt durch herbstlich-feuchte Wälder, die intensiv duften. Ein Tag für hartgesottene Radfahrer.",
+            "hu": "Vizes tekerés a templomok városában. Kezdjen a Paleontológiai Múzeumnál, aszfaltozott utakat használva. Ebéd után az óvárosban a várba vezető emelkedő próbára teszi az állóképességét a csúszós úton. A Muldava-kolostorhoz vezető út az eső áztatta erdőn át vezet, amelynek illata ilyenkor bódító.",
+            "ro": "O plimbare umedă prin orașul bisericilor. Începeți la Muzeul de Paleontologie, folosind drumuri asfaltate. După prânz, urcarea spre cetate vă va testa rezistența pe asfaltul ud. Drumul spre mănăstirea Muldava trece prin păduri umede de toamnă, care miros intens.",
+            "en": "A wet ride through the city of churches. Start at the Paleontological Museum, sticking to paved roads. After lunch in the Old Town, the climb to the fortress will test your endurance on wet asphalt. The trip to Muldava Monastery leads through rain-soaked forests with intense autumn scents."
+          },
+          "stops": [
+            {
+              "name": "Paleontological Museum",
+              "tip_4lang": {
+                "de": "Sicherer Fahrradabstellplatz direkt am Eingang.",
+                "hu": "Biztonságos kerékpárparkoló közvetlenül a bejáratnál.",
+                "ro": "Parcare sigură pentru biciclete chiar la intrare.",
+                "en": "Secure bike parking available right at the entrance."
+              }
+            },
+            {
+              "name": "Historical Museum Asenovgrad",
+              "tip_4lang": {
+                "de": "Perfekt für eine Pause, während es draußen schüttet.",
+                "hu": "Tökéletes pihenőhely, amíg kint szakad az eső.",
+                "ro": "Loc perfect de odihnă în timp ce afară plouă torențial.",
+                "en": "Perfect rest stop while it's pouring outside."
+              }
+            },
+            {
+              "name": "Kapon House",
+              "tip_4lang": {
+                "de": "Kurzer Stopp, um die Architektur unter dem Regenschutz zu bewundern.",
+                "hu": "Rövid megálló, csodálja az építészetet az eresz alól.",
+                "ro": "Oprire scurtă pentru a admira arhitectura de sub streșini.",
+                "en": "Quick stop to admire the architecture from under the eaves."
+              }
+            },
+            {
+              "name": "Lunch in the Old Town",
+              "tip_4lang": {
+                "de": "Suchen Sie ein Café mit Blick auf Ihr Fahrrad.",
+                "hu": "Válasszon olyan helyet, ahonnan látja a biciklijét.",
+                "ro": "Alegeți o cafenea cu vedere la bicicleta dumneavoastră.",
+                "en": "Choose a cafe with a view of your bike."
+              }
+            },
+            {
+              "name": "Asen's Fortress",
+              "tip_4lang": {
+                "de": "Bremsen Sie vorsichtig auf dem nassen Kopfsteinpflaster.",
+                "hu": "Fékezzen óvatosan a nedves macskaköveken.",
+                "ro": "Frânați cu atenție pe pavajul umed.",
+                "en": "Brake carefully on the wet cobblestones."
+              }
+            },
+            {
+              "name": "Muldava Monastery",
+              "tip_4lang": {
+                "de": "Die Waldwege können schlammig sein; bleiben Sie auf der Straße.",
+                "hu": "Az erdei utak sarasak lehetnek; maradjon az aszfalton.",
+                "ro": "Potecile de pădure pot fi noroioase; rămâneți pe asfalt.",
+                "en": "Forest paths can be muddy; stay on the paved road."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind bei diesem Wetter ein Muss.",
+              "Vermeiden Sie bei Regen steile unbefestigte Abkürzungen.",
+              "Überprüfen Sie Ihre Bremsbeläge vor der Abfahrt von der Festung.",
+              "Packen Sie Ihre Elektronik in wasserdichte Taschen."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen ilyen időben.",
+              "Kerülje a meredek, nem aszfaltozott rövidítéseket esőben.",
+              "Ellenőrizze a fékeket a várból való leereszkedés előtt.",
+              "Tegye az elektronikát vízhatlan tasakba."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt obligatorii pe această vreme.",
+              "Evitați scurtăturile abrupte neasfaltate când plouă.",
+              "Verificați saboții de frână înainte de coborârea de la cetate.",
+              "Puneți dispozitivele electronice în pungi impermeabile."
+            ],
+            "en": [
+              "Mudguards are a must-have in this weather.",
+              "Avoid steep unpaved shortcuts during rain.",
+              "Check your brake pads before descending from the fortress.",
+              "Pack your electronics in waterproof bags."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in den Rhodopen-Ausläufern. Die trockene Kälte erfordert gute Schichten. Besuchen Sie die Museen am Vormittag zur Aufwärmung. Der Anstieg zur Asen-Festung hält Sie warm, aber Vorsicht vor eisigen Stellen im Schatten. Das Muldava-Kloster wirkt im Winterschlaf besonders friedlich. Beenden Sie die Tour vor Einbruch der frühen Dämmerung.",
+            "hu": "Téli kerékpározás a Rhodope lábainál. A száraz hideg réteges öltözködést igényel. Délelőtt a múzeumok kínálnak melegedőt. A várba vezető emelkedő felmelegíti, de vigyázzon az árnyékos részeken lévő jéggel. A Muldava-kolostor különösen békés téli álmában. Fejezze be a túrát még a korai szürkület előtt.",
+            "ro": "Ciclism de iarnă la poalele munților Rodopi. Frigul uscat necesită îmbrăcăminte în straturi. Dimineața, muzeele oferă un refugiu cald. Urcarea spre cetatea lui Asen vă va încălzi, dar atenție la porțiunile înghețate de la umbră. Mănăstirea Muldava este extrem de liniștită iarna.",
+            "en": "Winter cycling in the Rhodope foothills. The dry cold requires good layering. Visit the museums in the morning to warm up. The climb to Asen's Fortress will keep you warm, but beware of icy patches in the shade. Muldava Monastery feels particularly peaceful in its winter sleep. Finish before dusk."
+          },
+          "stops": [
+            {
+              "name": "Paleontological Museum",
+              "tip_4lang": {
+                "de": "Gute Gelegenheit, die kalten Finger aufzuwärmen.",
+                "hu": "Jó alkalom a fagyos ujjak felmelegítésére.",
+                "ro": "O ocazie bună de a vă încălzi degetele înghețate.",
+                "en": "A good opportunity to warm up frozen fingers."
+              }
+            },
+            {
+              "name": "Historical Museum Asenovgrad",
+              "tip_4lang": {
+                "de": "Parken Sie das Rad sicher und genießen Sie die Wärme.",
+                "hu": "Parkoljon biztonságosan, és élvezze a benti meleget.",
+                "ro": "Parcați bicicleta în siguranță și bucurați-vă de căldură.",
+                "en": "Park your bike safely and enjoy the indoor warmth."
+              }
+            },
+            {
+              "name": "Kapon House",
+              "tip_4lang": {
+                "de": "Bewundern Sie die Fassade im klaren Winterlicht.",
+                "hu": "Csodálja meg a homlokzatot a tiszta téli fényben.",
+                "ro": "Admirați fațada în lumina clară de iarnă.",
+                "en": "Admire the facade in the clear winter light."
+              }
+            },
+            {
+              "name": "Lunch in the Old Town",
+              "tip_4lang": {
+                "de": "Ein heißer Kräutertee gibt Energie für den Berg.",
+                "hu": "Egy forró gyógytea erőt ad a hegyi menethez.",
+                "ro": "Un ceai fierbinte de plante vă oferă energie pentru munte.",
+                "en": "A hot herbal tea gives you energy for the climb."
+              }
+            },
+            {
+              "name": "Asen's Fortress",
+              "tip_4lang": {
+                "de": "Vorsicht vor gefrierendem Kondenswasser auf der Straße.",
+                "hu": "Vigyázzon az útra fagyó pára miatti csúszós részekkel.",
+                "ro": "Atenție la condensul înghețat de pe carosabil.",
+                "en": "Watch out for freezing condensation on the road."
+              }
+            },
+            {
+              "name": "Muldava Monastery",
+              "tip_4lang": {
+                "de": "In der Höhe ist es deutlich kälter; ziehen Sie sich warm an.",
+                "hu": "A magasban jóval hidegebb van; öltözzön fel jól.",
+                "ro": "E mult mai frig la înălțime; îmbrăcați-vă gros.",
+                "en": "It's significantly colder at altitude; dress warmly."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Thermo-Handschuhe und winddichte Kleidung sind Pflicht.",
+              "Der Akku von E-Bikes entlädt sich bei Kälte schneller.",
+              "Trinken Sie ausreichend, auch wenn Sie weniger Durst verspüren.",
+              "Die Abfahrt von der Festung kann sehr windig und kalt sein."
+            ],
+            "hu": [
+              "A termokesztyű és a szélálló ruházat kötelező.",
+              "Az elektromos kerékpárok akkumulátora gyorsabban merül hidegben.",
+              "Igyon eleget, akkor is, ha kevésbé érzi szomjasnak magát.",
+              "A várból való leereszkedés nagyon szeles és hideg lehet."
+            ],
+            "ro": [
+              "Mănușile termice și hainele rezistente la vânt sunt obligatorii.",
+              "Bateria bicicletelor electrice se descarcă mai repede la frig.",
+              "Beți suficiente lichide, chiar dacă nu simțiți setea.",
+              "Coborârea de la cetate poate fi foarte vântoasă și rece."
+            ],
+            "en": [
+              "Thermal gloves and windproof clothing are mandatory.",
+              "E-bike batteries drain faster in cold temperatures.",
+              "Stay hydrated even if you don't feel thirsty in the cold.",
+              "The descent from the fortress can be very windy and chilly."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1058,6 +1422,206 @@
           "The roads to the monasteries can be narrow and winding.",
           "Combine car trips with walks for the best experience."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Asenovgrad mit dem Auto ist ideal bei Regen. Besuchen Sie die Klöster Gornovodenski und Muldava; die Fahrt durch die nebligen Berge ist spektakulär. Die Festung lässt sich bequem erreichen, mit nur kurzem Fußweg vom Parkplatz. Mittags genießen Sie den Komfort trockener Kleidung im Restaurant. Der Tag endet im Stadtzentrum, wo Sie nahe den Museen parken können.",
+            "hu": "Aszenovgrad autóval ideális esőben. Látogassa meg a Gornovogyenszki és Muldava kolostorokat; a ködös hegyi út látványos. A vár könnyen megközelíthető, csak rövid séta a parkolótól. Ebédnél élvezheti a száraz ruhák kényelmét. A napot a belvárosban zárjuk, ahol közel parkolhat a múzeumokhoz.",
+            "ro": "Asenovgrad cu mașina este ideal pe ploaie. Vizitați mănăstirile Gornovodenski și Muldava; drumul prin munții înnebulați este spectaculos. Cetatea este ușor accesibilă, cu un drum scurt pe jos de la parcare. La prânz, vă bucurați de haine uscate în restaurant. Ziua se încheie în centru.",
+            "en": "Asenovgrad by car is ideal for rainy weather. Visit the Gornovodenski and Muldava monasteries; the drive through misty mountains is spectacular. The fortress is easily accessible with just a short walk from the parking lot. At lunch, enjoy the comfort of dry clothes. End your day in the city center near the museums."
+          },
+          "stops": [
+            {
+              "name": "Gornovodenski Monastery Parking",
+              "tip_4lang": {
+                "de": "Der Parkplatz kann bei starkem Regen schlammig sein.",
+                "hu": "A parkoló nagy esőben saras lehet.",
+                "ro": "Parcarea poate fi noroioasă în caz de ploaie puternică.",
+                "en": "The parking lot can be muddy during heavy rain."
+              }
+            },
+            {
+              "name": "Muldava Monastery",
+              "tip_4lang": {
+                "de": "Kurzer, aber steiler Fußweg; nehmen Sie einen Schirm mit.",
+                "hu": "Rövid, de meredek séta; vigyen esernyőt.",
+                "ro": "Drum scurt, dar abrupt; luați o umbrelă.",
+                "en": "Short but steep walk; bring an umbrella."
+              }
+            },
+            {
+              "name": "Parking at Asen's Fortress",
+              "tip_4lang": {
+                "de": "Hinterlassen Sie keine Wertsachen sichtbar im Auto.",
+                "hu": "Ne hagyjon értéket látható helyen az autóban.",
+                "ro": "Nu lăsați obiecte de valoare la vedere în mașină.",
+                "en": "Do not leave valuables visible inside the car."
+              }
+            },
+            {
+              "name": "Church of St. Bogoroditsa of Petrich",
+              "tip_4lang": {
+                "de": "Vom Parkplatz sind es nur 5 Minuten Fußweg.",
+                "hu": "A parkolótól mindössze 5 perc séta.",
+                "ro": "Sunt doar 5 minute de mers de la parcare.",
+                "en": "It's only a 5-minute walk from the parking area."
+              }
+            },
+            {
+              "name": "Lunch near the fortress",
+              "tip_4lang": {
+                "de": "Perfekt, um sich vor der Weiterfahrt aufzuwärmen.",
+                "hu": "Tökéletes hely a felmelegedésre a folytatás előtt.",
+                "ro": "Perfect pentru a vă încălzi înainte de a continua.",
+                "en": "Perfect for warming up before continuing the drive."
+              }
+            },
+            {
+              "name": "Parking in the city center",
+              "tip_4lang": {
+                "de": "Nutzen Sie bewachte Parkplätze im Zentrum.",
+                "hu": "Használja a központi őrzött parkolókat.",
+                "ro": "Folosiți parcările păzite din centru.",
+                "en": "Use the guarded parking lots in the center."
+              }
+            },
+            {
+              "name": "Historical Museum Asenovgrad",
+              "tip_4lang": {
+                "de": "Nur ein Katzensprung vom Parkplatz entfernt.",
+                "hu": "Csak egy ugrásra a parkolótól.",
+                "ro": "La doar un pas de parcare.",
+                "en": "Just a stone's throw away from the parking."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Bergstraßen können bei Starkregen rutschig sein.",
+              "Halten Sie die Scheinwerfer bei Nebel immer eingeschaltet.",
+              "Ein Regenschirm im Kofferraum ist für die kurzen Wege Gold wert.",
+              "Vermeiden Sie das Parken unter alten Bäumen bei Wind."
+            ],
+            "hu": [
+              "A hegyi utak nagy esőben csúszósak lehetnek.",
+              "Köd esetén mindig tartsa bekapcsolva a fényszórókat.",
+              "A csomagtartóban lévő esernyő aranyat ér a rövid sétákhoz.",
+              "Szélben kerülje az öreg fák alatti parkolást."
+            ],
+            "ro": [
+              "Drumurile de munte pot fi alunecoase la ploi torențiale.",
+              "Păstrați farurile aprinse în caz de ceață.",
+              "O umbrelă în portbagaj este esențială pentru drumurile scurte.",
+              "Evitați parcarea sub copaci bătrâni pe timp de vânt."
+            ],
+            "en": [
+              "Mountain roads can be slippery during heavy rain.",
+              "Always keep your headlights on in foggy conditions.",
+              "An umbrella in the trunk is invaluable for short walks.",
+              "Avoid parking under old trees during windy weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Tour zu den heiligen Stätten um Asenovgrad. Mit dem Auto erreichen Sie mühelos die abgelegenen Klöster, die oft in Schnee gehüllt sind. Die Fahrt zur Asen-Festung bietet fantastische Ausblicke auf das verschneite Tal. Mittags lockt ein warmes Restaurant mit lokaler Küche. Beenden Sie den Tag in der Stadt, wo die Museen eine willkommene Wärme bieten.",
+            "hu": "Téli túra Aszenovgrad szent helyeihez. Autóval könnyen elérheti a távolabbi, sokszor hóba burkolózó kolostorokat. A várba vezető út fantasztikus kilátást nyújt a havas völgyre. Ebédre egy meleg étterem hívogat helyi ételekkel. A napot a városban zárjuk, ahol a múzeumok kellemes meleget kínálnak.",
+            "ro": "Un tur de iarnă la locurile sfinte din jurul Asenovgradului. Cu mașina ajungeți ușor la mănăstirile izolate, adesea acoperite de zăpadă. Drumul spre cetate oferă vederi fantastice asupra văii înzăpezite. La prânz, un restaurant cald vă îmbie cu bucătărie locală. Ziua se încheie în oraș.",
+            "en": "A winter tour of the holy sites around Asenovgrad. By car, you can easily reach the remote monasteries, often draped in snow. The drive to Asen's Fortress offers fantastic views of the snowy valley. At lunch, a warm restaurant invites you with local cuisine. End the day in the city, where museums provide welcome warmth."
+          },
+          "stops": [
+            {
+              "name": "Gornovodenski Monastery Parking",
+              "tip_4lang": {
+                "de": "Prüfen Sie, ob die Zufahrt bei Neuschnee geräumt ist.",
+                "hu": "Ellenőrizze, hogy az utat letakarították-e friss hóban.",
+                "ro": "Verificați dacă drumul este curățat în caz de zăpadă proaspătă.",
+                "en": "Check if the access road is cleared after fresh snowfall."
+              }
+            },
+            {
+              "name": "Muldava Monastery",
+              "tip_4lang": {
+                "de": "Winterreifen sind für diesen Anstieg absolut notwendig.",
+                "hu": "A téli gumi elengedhetetlen ehhez az emelkedőhöz.",
+                "ro": "Anvelopele de iarnă sunt absolut necesare pentru această urcare.",
+                "en": "Winter tires are absolutely necessary for this climb."
+              }
+            },
+            {
+              "name": "Parking at Asen's Fortress",
+              "tip_4lang": {
+                "de": "Der Parkplatz kann glatt sein; Vorsicht beim Aussteigen.",
+                "hu": "A parkoló jeges lehet; vigyázzon a kiszálláskor.",
+                "ro": "Parcarea poate fi înghețată; atenție la coborârea din mașină.",
+                "en": "The parking lot may be icy; be careful when stepping out."
+              }
+            },
+            {
+              "name": "Church of St. Bogoroditsa of Petrich",
+              "tip_4lang": {
+                "de": "Genießen Sie die Stille des Winters in der Kirche.",
+                "hu": "Élvezze a tél csendjét a templomban.",
+                "ro": "Bucurați-vă de liniștea iernii în biserică.",
+                "en": "Enjoy the winter silence inside the church."
+              }
+            },
+            {
+              "name": "Lunch near the fortress",
+              "tip_4lang": {
+                "de": "Ideal für eine heiße Suppe zwischendurch.",
+                "hu": "Ideális egy forró levesre két látnivaló között.",
+                "ro": "Ideal pentru o supă fierbinte între vizite.",
+                "en": "Ideal for a hot soup between sightings."
+              }
+            },
+            {
+              "name": "Parking in the city center",
+              "tip_4lang": {
+                "de": "Zentrale Parkplätze sparen lange Wege in der Kälte.",
+                "hu": "A központi parkolással elkerülheti a hidegben való gyaloglást.",
+                "ro": "Parcările centrale vă scutesc de mersul prin frig.",
+                "en": "Central parking saves you from long walks in the cold."
+              }
+            },
+            {
+              "name": "Historical Museum Asenovgrad",
+              "tip_4lang": {
+                "de": "Ein warmer Abschluss Ihrer winterlichen Tour.",
+                "hu": "Meleg befejezése a téli túrának.",
+                "ro": "Un final cald pentru turul dumneavoastră de iarnă.",
+                "en": "A warm conclusion to your winter tour."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Führen Sie bei Fahrten in die Berge Schneeketten mit.",
+              "Prüfen Sie den Frostschutz in Ihrer Scheibenwaschanlage.",
+              "Die Bergstraßen können schattige Eisstellen haben.",
+              "Tanken Sie rechtzeitig, die Heizung verbraucht im Stand Kraftstoff."
+            ],
+            "hu": [
+              "Hólánc legyen az autóban a hegyi utakhoz.",
+              "Ellenőrizze a fagyállót a szélvédőmosóban.",
+              "A hegyi utakon árnyékos helyeken maradhatnak jeges foltok.",
+              "Tankoljon időben, az álló helyzeti fűtés is fogyaszt."
+            ],
+            "ro": [
+              "Aveți lanțuri antiderapante în mașină pentru drumurile montane.",
+              "Verificați lichidul de parbriz antigel.",
+              "Drumurile montane pot avea porțiuni înghețate la umbră.",
+              "Alimentați la timp; încălzirea pe loc consumă combustibil."
+            ],
+            "en": [
+              "Carry snow chains for mountain driving.",
+              "Check your antifreeze levels and windshield washer fluid.",
+              "Mountain roads may have icy patches in shaded areas.",
+              "Keep enough fuel in the tank for heating during stops."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1394,6 +1958,188 @@
           "Validate your ticket to avoid fines.",
           "Be prepared for a short walk from the bus stop to the fortress."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie Asenovgrad mit dem Bus, um trocken zu bleiben. Die Museen im Zentrum sind leicht erreichbar. Nutzen Sie die Wartehäuschen als Schutz vor Schauern. Nach dem Mittagessen bringt Sie ein lokaler Bus in die Nähe der Festung. Der Aufstieg bleibt nass, aber die Burg wirkt im Regen umso mächtiger. Ein Tag, der Planung und Flexibilität erfordert.",
+            "hu": "Fedezze fel Aszenovgradot busszal, hogy száraz maradjon. A központi múzeumok könnyen elérhetők. Használja a buszvárókat menedékként a záporok elől. Ebéd után helyi busz viszi a vár közelébe. A felkapaszkodás vizes lesz, de a vár látványa esőben még tekintélyesebb. Ez a nap tervezést és rugalmasságot igényel.",
+            "ro": "Explorați Asenovgradul cu autobuzul pentru a rămâne uscat. Muzeele din centru sunt ușor accesibile. Folosiți stațiile acoperite ca adăpost. După prânz, un autobuz local vă duce aproape de cetate. Urcarea va fi umedă, dar castelul pare și mai impunător în ploaie. O zi care necesită planificare.",
+            "en": "Explore Asenovgrad by bus to stay dry. The central museums are easily accessible. Use bus shelters for cover during rain showers. After lunch, a local bus takes you near the fortress. The final climb will be wet, but the castle looks even more powerful in the rain. A day for planners."
+          },
+          "stops": [
+            {
+              "name": "Center (Bus Stop)",
+              "tip_4lang": {
+                "de": "Das Wartehäuschen bietet guten Schutz vor Regen.",
+                "hu": "A váróterem jó védelmet nyújt az eső ellen.",
+                "ro": "Stația acoperită oferă o protecție bună contra ploii.",
+                "en": "The bus shelter provides good protection from the rain."
+              }
+            },
+            {
+              "name": "Historical Museum Asenovgrad",
+              "tip_4lang": {
+                "de": "Nur wenige Gehminuten von der Haltestelle entfernt.",
+                "hu": "Csak pár perc séta a buszmegállótól.",
+                "ro": "La doar câteva minute de mers de la stație.",
+                "en": "Only a few minutes' walk from the bus stop."
+              }
+            },
+            {
+              "name": "Church of Saint George",
+              "tip_4lang": {
+                "de": "Ein schöner Ort, um auf den nächsten Bus zu warten.",
+                "hu": "Szép hely a következő busz megvárására.",
+                "ro": "Un loc frumos pentru a aștepta următorul autobuz.",
+                "en": "A beautiful place to wait for the next bus."
+              }
+            },
+            {
+              "name": "Lunch in the center",
+              "tip_4lang": {
+                "de": "Viele Restaurants liegen direkt an den Buslinien.",
+                "hu": "Számos étterem közvetlenül a buszvonalak mentén van.",
+                "ro": "Multe restaurante sunt direct pe liniile de autobuz.",
+                "en": "Many restaurants are located directly on the bus routes."
+              }
+            },
+            {
+              "name": "Bus stop to the fortress",
+              "tip_4lang": {
+                "de": "Prüfen Sie den Fahrplan genau, um Wartezeiten im Regen zu vermeiden.",
+                "hu": "Ellenőrizze a menetrendet, hogy ne várjon sokat az esőben.",
+                "ro": "Verificați orarul pentru a nu aștepta mult în ploaie.",
+                "en": "Check the schedule to avoid long waits in the rain."
+              }
+            },
+            {
+              "name": "Asen's Fortress",
+              "tip_4lang": {
+                "de": "Der Fußweg von der Haltestelle dauert etwa 20 Minuten.",
+                "hu": "A gyalogút a megállótól kb. 20 percet vesz igénybe.",
+                "ro": "Drumul pe jos de la stație durează aproximativ 20 de minute.",
+                "en": "The walk from the bus stop takes about 20 minutes."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Haben Sie immer Kleingeld für das Busticket bereit.",
+              "Die App 'Moovit' kann bei den lokalen Buslinien helfen.",
+              "Busse fahren bei schlechtem Wetter manchmal mit Verspätung.",
+              "Tragen Sie auffällige Regenkleidung für bessere Sichtbarkeit."
+            ],
+            "hu": [
+              "Mindig legyen Önnél aprópénz a buszjegyre.",
+              "A helyi járatoknál segíthet a 'Moovit' alkalmazás.",
+              "Rossz időben a buszok néha késhetnek.",
+              "Viseljen feltűnő esőruházatot a jobb láthatóságért."
+            ],
+            "ro": [
+              "Aveți mereu bani mărunți pentru biletul de autobuz.",
+              "Aplicația 'Moovit' poate ajuta cu liniile locale.",
+              "Autobuzele pot avea întârzieri pe vreme rea.",
+              "Purtați haine de ploaie colorate pentru vizibilitate."
+            ],
+            "en": [
+              "Always have small change ready for bus tickets.",
+              "The 'Moovit' app can be helpful for local bus routes.",
+              "Buses may experience delays during bad weather.",
+              "Wear bright rain gear for better visibility near roads."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterreise mit öffentlichen Verkehrsmitteln durch Asenovgrad. Die Busse sind oft beheizt und bieten eine warme Fahrt zwischen den Museen. Genießen Sie die winterliche Stadt aus dem Fenster. Der Weg zur Festung erfordert einen längeren Spaziergang an der frischen Luft – ziehen Sie sich warm an. Ein gemütlicher Tag für Entdecker, die den Winter ohne Auto erleben wollen.",
+            "hu": "Téli utazás tömegközlekedéssel Aszenovgradban. A buszok fűtöttek, így kellemes az út a múzeumok között. Csodálja a téli várost az ablakból. A várba vezető út hosszabb sétát igényel a friss levegőn – öltözzön melegen. Hangulatos nap azoknak, akik autó nélkül élnék át a telet.",
+            "ro": "Călătorie de iarnă cu transportul public prin Asenovgrad. Autobuzele sunt adesea încălzite. Admirați orașul de iarnă de pe fereastră. Drumul spre cetate necesită o plimbare mai lungă în aer liber – îmbrăcați-vă gros. O zi plăcută pentru cei care vor să exploreze iarna fără mașină.",
+            "en": "Winter travel by public transport through Asenovgrad. Buses are often heated and provide a warm ride between museums. Enjoy the winter city from the window. The path to the fortress requires a longer walk in the fresh air – dress warmly. A cozy day for explorers without a car."
+          },
+          "stops": [
+            {
+              "name": "Center (Bus Stop)",
+              "tip_4lang": {
+                "de": "Stellen Sie sich nah an den Zeitplan, um Wind zu meiden.",
+                "hu": "Álljon közel a menetrendhez, hogy elkerülje a szelet.",
+                "ro": "Stați aproape de orar pentru a evita vântul.",
+                "en": "Stay close to the shelter to avoid the cold wind."
+              }
+            },
+            {
+              "name": "Historical Museum Asenovgrad",
+              "tip_4lang": {
+                "de": "Perfekter Ort, um sich nach der Busfahrt aufzuwärmen.",
+                "hu": "Tökéletes hely a buszozás utáni felmelegedésre.",
+                "ro": "Loc perfect pentru a vă încălzi după drumul cu autobuzul.",
+                "en": "Perfect place to warm up after the bus ride."
+              }
+            },
+            {
+              "name": "Church of Saint George",
+              "tip_4lang": {
+                "de": "Die Kirche bietet eine friedliche, warme Atmosphäre.",
+                "hu": "A templom békés és viszonylag meleg környezetet nyújt.",
+                "ro": "Biserica oferă o atmosferă liniștită și caldă.",
+                "en": "The church offers a peaceful and relatively warm setting."
+              }
+            },
+            {
+              "name": "Lunch in the center",
+              "tip_4lang": {
+                "de": "Wählen Sie ein Restaurant nahe der Rückhaltestelle.",
+                "hu": "Válasszon éttermet a visszavezető buszmegálló közelében.",
+                "ro": "Alegeți un restaurant aproape de stația de întoarcere.",
+                "en": "Choose a restaurant near the return bus stop."
+              }
+            },
+            {
+              "name": "Bus stop to the fortress",
+              "tip_4lang": {
+                "de": "Beachten Sie die selteneren Fahrzeiten im Winter.",
+                "hu": "Ügyeljen a ritkább téli menetrendre.",
+                "ro": "Atenție la orarul de iarnă, mai rar.",
+                "en": "Be aware of less frequent bus services in winter."
+              }
+            },
+            {
+              "name": "Asen's Fortress",
+              "tip_4lang": {
+                "de": "Planen Sie den Rückweg zum Bus vor 17:00 Uhr.",
+                "hu": "Tervezze a buszhoz való visszautat 17:00 előtt.",
+                "ro": "Planificați drumul înapoi la autobuz înainte de 17:00.",
+                "en": "Plan your walk back to the bus before 17:00."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warten Sie in Geschäften oder Cafés, wenn der Bus Verspätung hat.",
+              "Die Heizung in den Bussen kann variieren; behalten Sie die Jacke an.",
+              "Ein heißer Kaffee to-go wärmt die Hände an der Haltestelle.",
+              "Die letzte Rückfahrt von der Festung ist oft recht früh."
+            ],
+            "hu": [
+              "Várjon üzletekben vagy kávézókban, ha késik a busz.",
+              "A buszok fűtése változó, hagyja magán a kabátot.",
+              "Egy forró kávé elvitelre jól jön a megállóban.",
+              "A vártól induló utolsó busz gyakran korán elmegy."
+            ],
+            "ro": [
+              "Așteptați în magazine sau cafenele dacă autobuzul întârzie.",
+              "Încălzirea în autobuze variază; păstrați haina pe dumneavoastră.",
+              "O cafea fierbinte la pachet vă va încălzi mâinile în stație.",
+              "Ultima cursă de întoarcere de la cetate este adesea devreme."
+            ],
+            "en": [
+              "Wait in shops or cafes if the bus is delayed.",
+              "Bus heating can vary; it's best to keep your coat on.",
+              "A hot coffee to-go will keep your hands warm at the stop.",
+              "The last bus back from the fortress area is often quite early."
+            ]
+          }
+        }
       }
     }
   }

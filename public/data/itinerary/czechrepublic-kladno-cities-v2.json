@@ -386,6 +386,206 @@
           "Plan enough time for the Mining Museum; it's larger than it seems.",
           "Check the opening hours, especially for the chateau and the museum."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag auf dem Náměstí Starosty Pavla unter dem Schutz eines Regenschirms. Die Mariensäule wirkt im Regen besonders atmosphärisch. Mittags bietet die St.-Laurentius-Kirche und das Schloss Kladno trockene Zuflucht und faszinierende Geschichte. Der Nachmittag im Bergbaumuseum Mayrau ist ideal, da viele Ausstellungen überdacht sind. Den Abend lassen Sie in einem gemütlichen Café ausklingen.",
+            "hu": "Kezdje a napot az esernyője alatt a Náměstí Starosty Pavla téren. A Mária-oszlop esőben is méltóságteljes. Délben a Szent Lőrinc-templom és a Kladnói Kastély nyújt száraz menedéket és gazdag kultúrát. Délután a Mayrau Bányászati Múzeum ipari emlékei között kalandozhat, ahol a legtöbb látnivaló fedett helyen van. Az estét töltse egy barátságos belvárosi étteremben.",
+            "ro": "Începeți ziua în Piața Primarului Pavel, protejați de o umbrelă. Coloana mariană are un farmec aparte în condiții de ploaie. La prânz, Biserica Sf. Laurențiu și Castelul Kladno oferă adăpost uscat și istorie fascinantă. După-amiaza la Muzeul Minier Mayrau este ideală, deoarece multe exponate sunt acoperite. Încheiați seara într-o cafenea primitoare din centru.",
+            "en": "Start your day at Mayor Pavel Square under the cover of an umbrella. The Marian Column looks particularly atmospheric in the rain. At midday, the Church of St. Lawrence and Kladno Chateau provide dry sanctuary and fascinating history. The afternoon at the Mayrau Mining Museum is ideal, as many exhibits are indoors. End your evening in a cozy city-center cafe."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Mayor Pavel Square (Náměstí Starosty Pavla)",
+              "tip_4lang": {
+                "de": "Suchen Sie Schutz unter den Arkaden der umliegenden Gebäude.",
+                "hu": "Keressen menedéket a környező épületek árkádjai alatt.",
+                "ro": "Căutați adăpost sub arcadele clădirilor învecinate.",
+                "en": "Seek shelter under the arcades of the surrounding buildings."
+              }
+            },
+            {
+              "name": "Marian Column and Town Hall",
+              "tip_4lang": {
+                "de": "Ein schneller Fotostopp; das Rathaus bietet einen kurzen Unterstand.",
+                "hu": "Gyors fotómegálló; a városháza bejárata rövid menedéket nyújt.",
+                "ro": "O oprire rapidă pentru poze; primăria oferă un scurt adăpost.",
+                "en": "A quick photo stop; the town hall entrance provides brief cover."
+              }
+            },
+            {
+              "name": "Church of St. Lawrence",
+              "tip_4lang": {
+                "de": "Ein perfekter Ort, um dem Regen zu entkommen und die Stille zu genießen.",
+                "hu": "Tökéletes hely az eső elől való menekülésre és a csend élvezetére.",
+                "ro": "Un loc perfect pentru a scăpa de ploaie și a te bucura de liniște.",
+                "en": "A perfect place to escape the rain and enjoy the silence."
+              }
+            },
+            {
+              "name": "Kladno Chateau",
+              "tip_4lang": {
+                "de": "Besuchen Sie die Innengalerien, um vollständig trocken zu bleiben.",
+                "hu": "Látogassa meg a belső galériákat, hogy teljesen száraz maradjon.",
+                "ro": "Vizitați galeriile interioare pentru a rămâne complet uscat.",
+                "en": "Visit the indoor galleries to stay completely dry."
+              }
+            },
+            {
+              "name": "Lunch in the city center",
+              "tip_4lang": {
+                "de": "Wählen Sie ein Restaurant mit Garderobe für nasse Mäntel.",
+                "hu": "Válasszon olyan éttermet, ahol van ruhatár a vizes kabátoknak.",
+                "ro": "Alegeți un restaurant cu garderobă pentru hainele umede.",
+                "en": "Choose a restaurant with a cloakroom for wet coats."
+              }
+            },
+            {
+              "name": "Mayrau Mining Museum",
+              "tip_4lang": {
+                "de": "Die industriellen Hallen bieten hervorragenden Schutz vor Schauern.",
+                "hu": "Az ipari csarnokok kiváló védelmet nyújtanak a záporok ellen.",
+                "ro": "Halele industriale oferă o protecție excelentă împotriva ploii.",
+                "en": "The industrial halls offer excellent protection from showers."
+              }
+            },
+            {
+              "name": "Relaxation in the Sítenské Valley",
+              "tip_4lang": {
+                "de": "Vorsicht auf den Wegen; bei Regen kann es etwas schlammig sein.",
+                "hu": "Vigyázat az utakon; esőben kissé sáros lehet a völgy.",
+                "ro": "Atenție pe poteci; poate fi noroi în vale când plouă.",
+                "en": "Caution on the paths; it can be a bit muddy in the valley."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da die Pflastersteine rutschig sein können.",
+              "Ein stabiler Regenschirm ist wegen des Windes auf den offenen Plätzen wichtig.",
+              "Nutzen Sie die längeren Aufenthalte im Schloss und Museum als Regenpause.",
+              "In der Nähe des Rathauses gibt es kleine Passagen zum Unterstellen."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert a macskakövek csúszósak lehetnek.",
+              "Az erős szél miatt a nyitott tereken egy stabil esernyő elengedhetetlen.",
+              "Használja ki a kastélyban és a múzeumban töltött időt az eső kivárására.",
+              "A városháza környékén több fedett átjárót is találhat."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, deoarece pavajul poate fi alunecos.",
+              "O umbrelă rezistentă este esențială din cauza vântului în spațiile deschise.",
+              "Folosiți șederile prelungite la castel și muzeu ca pauze de ploaie.",
+              "Există pasaje mici lângă primărie unde vă puteți adăposti."
+            ],
+            "en": [
+              "Wear waterproof shoes as the cobblestones can be slippery when wet.",
+              "A sturdy umbrella is essential due to wind in the open squares.",
+              "Use the longer stays at the chateau and museum as rain breaks.",
+              "There are small passages near the town hall for quick shelter."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie das winterliche Kladno, beginnend am frostigen Hauptplatz. Die Mariensäule wirkt im Winterlicht besonders klar. Mittags wärmen Sie sich in der St.-Laurentius-Kirche und bei einer Führung im Schloss Kladno auf. Der Nachmittag im Mayrau-Museum ist kühl, aber die Industriegeschichte lässt die Kälte vergessen. Da es früh dunkel wird, leuchten die Lichter der Stadt am Abend besonders schön.",
+            "hu": "Fedezze fel a téli Kladnót, kezdve a fagyos főtéren. A Mária-oszlop a téli fényben különösen tiszta látványt nyújt. Napközben melegedjen fel a Szent Lőrinc-templomban és a Kladnói Kastély tárlatain. A délután a Mayrau múzeumban hűvös lesz, de az ipartörténet feledteti a hideget. Mivel korán sötétedik, az esti városi fények hamar ünnepi hangulatot árasztanak.",
+            "ro": "Descoperiți Kladno în straie de iarnă, începând din piața centrală înghețată. Coloana mariană arată deosebit de clar în lumina iernii. În timpul zilei, încălziți-vă în Biserica Sf. Laurențiu și la turul Castelului Kladno. După-amiaza la muzeul Mayrau va fi răcoroasă, dar istoria industrială vă va face să uitați frigul. Deoarece se întunecă devreme, luminile orașului strălucesc frumos seara.",
+            "en": "Experience winter in Kladno, starting at the frosty main square. The Marian Column looks particularly sharp in the winter light. During the day, warm up in the Church of St. Lawrence and during a tour of Kladno Chateau. The afternoon at the Mayrau Museum will be chilly, but the industrial history makes you forget the cold. Since it gets dark early, the city lights shine beautifully in the evening."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Mayor Pavel Square (Náměstí Starosty Pavla)",
+              "tip_4lang": {
+                "de": "Achten Sie auf vereiste Stellen auf dem Kopfsteinpflaster.",
+                "hu": "Ügyeljen a jeges foltokra a macskaköves burkolaton.",
+                "ro": "Fiți atenți la porțiunile înghețate de pe pavaj.",
+                "en": "Watch out for icy patches on the cobblestones."
+              }
+            },
+            {
+              "name": "Marian Column and Town Hall",
+              "tip_4lang": {
+                "de": "Das Rathaus ist oft festlich beleuchtet; ideal für Winterfotos.",
+                "hu": "A városháza gyakran ünnepi kivilágítást kap; ideális téli fotókhoz.",
+                "ro": "Primăria este adesea iluminată festiv; ideal pentru poze de iarnă.",
+                "en": "The town hall is often festively lit; ideal for winter photos."
+              }
+            },
+            {
+              "name": "Church of St. Lawrence",
+              "tip_4lang": {
+                "de": "Genießen Sie die Ruhe im (meist) beheizten Innenraum.",
+                "hu": "Élvezze a nyugalmat a (többnyire) fűtött belső térben.",
+                "ro": "Bucurați-vă de liniște în interiorul (de cele mai multe ori) încălzit.",
+                "en": "Enjoy the peace in the (usually) heated interior."
+              }
+            },
+            {
+              "name": "Kladno Chateau",
+              "tip_4lang": {
+                "de": "Der Schlossgarten ist im Reifrock wunderschön anzusehen.",
+                "hu": "A kastélykert zúzmarásan gyönyörű látványt nyújt.",
+                "ro": "Grădina castelului arată superb acoperită de chiciură.",
+                "en": "The chateau garden looks beautiful covered in hoarfrost."
+              }
+            },
+            {
+              "name": "Lunch in the city center",
+              "tip_4lang": {
+                "de": "Bestellen Sie eine traditionelle tschechische Suppe zum Aufwärmen.",
+                "hu": "Rendeljen egy hagyományos cseh levest a felmelegedéshez.",
+                "ro": "Comandați o supă tradițională cehă pentru a vă încălzi.",
+                "en": "Order a traditional Czech soup to warm yourself up."
+              }
+            },
+            {
+              "name": "Mayrau Mining Museum",
+              "tip_4lang": {
+                "de": "Tragen Sie warme Schichten, da die Hallen recht zugig sein können.",
+                "hu": "Öltözzön rétegesen, mert a csarnokok huzatosak lehetnek.",
+                "ro": "Purtați haine groase, deoarece halele pot fi destul de răcoroase.",
+                "en": "Wear warm layers as the halls can be quite drafty."
+              }
+            },
+            {
+              "name": "Relaxation in the Sítenské Valley",
+              "tip_4lang": {
+                "de": "Bei Sonnenuntergang gegen 16:30 Uhr bietet das Tal eine tolle Stimmung.",
+                "hu": "Naplemente körül, 16:30 tájban a völgy különleges hangulatú.",
+                "ro": "În jurul apusului, pe la 16:30, valea are o atmosferă deosebită.",
+                "en": "Around sunset at 4:30 PM, the valley offers a great atmosphere."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich nach dem Zwiebelprinzip für den Wechsel zwischen Kälte und Wärme.",
+              "Tschechischer Tee mit Rum ist ein lokaler Favorit an kalten Tagen.",
+              "Die Sonne geht im Winter bereits gegen 16:15 Uhr unter.",
+              "Feste Sohlen sind wichtig, um auf gefrorenem Boden nicht auszurutschen."
+            ],
+            "hu": [
+              "Öltözzön rétegesen a kinti hideg és a benti meleg közötti váltásokhoz.",
+              "A rumos tea helyi kedvenc a hideg napokon.",
+              "A nap télen már 16:15 körül lemegy.",
+              "A bordázott talpú cipő fontos a fagyott talajon való csúszkálás ellen."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi pentru tranziția între frigul de afară și căldura din interior.",
+              "Ceaiul cu rom este un favorit local în zilele reci.",
+              "Soarele apune deja în jurul orei 16:15 iarna.",
+              "Talpa aderentă este importantă pentru a nu aluneca pe solul înghețat."
+            ],
+            "en": [
+              "Dress in layers for the transitions between outdoor cold and indoor warmth.",
+              "Czech tea with rum is a local favorite on cold days.",
+              "The sun sets as early as 4:15 PM in winter.",
+              "Sturdy soles are important to avoid slipping on frozen ground."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -766,6 +966,206 @@
           "Always lock your bike securely when you park it.",
           "Bring a water bottle, especially for the longer ride to the museum."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour durch Kladno bei Regen erfordert gute Ausrüstung. Starten Sie vorsichtig am Hauptplatz. Die Fahrt zum Schloss und weiter zum Mayrau-Museum führt über befestigte Straßen, die bei Nässe glatt sein können. Nutzen Sie die Museumsbesuche für ausgiebige Pausen im Trockenen. Der Rückweg durch das Sítenské-Tal ist erfrischend, aber achten Sie auf Pfützen auf den Radwegen.",
+            "hu": "Egy esős kladnói biciklitúra jó felszerelést igényel. Kezdjen óvatosan a főtéren. A kastélyhoz és a Mayrau múzeumhoz vezető út burkolt, de vizesen csúszhat. Használja ki a múzeumi látogatásokat a száraz pihenőkre. A Sítenské-völgyön át vezető út frissítő, de figyeljen a tócsákra a kerékpárutakon.",
+            "ro": "O tură cu bicicleta prin Kladno pe ploaie necesită echipament bun. Începeți cu prudență din piața centrală. Drumul spre castel și muzeul Mayrau este asfaltat, dar poate fi alunecos. Folosiți vizitele la muzeu pentru pauze lungi la adăpost. Întoarcerea prin valea Sítenské este revigorantă, dar atenție la bălțile de pe pistele de biciclete.",
+            "en": "A bike tour through Kladno in the rain requires good gear. Start carefully at the main square. The ride to the chateau and Mayrau Museum follows paved roads that can be slick when wet. Use the museum visits for long breaks in the dry. The return through Sítenské Valley is refreshing, but watch out for puddles on the bike paths."
+          },
+          "stops": [
+            {
+              "name": "Start at Mayor Pavel Square (Náměstí Starosty Pavla)",
+              "tip_4lang": {
+                "de": "Prüfen Sie Ihre Bremsen; nasse Pflastersteine verlängern den Bremsweg.",
+                "hu": "Ellenőrizze a fékeket; a vizes macskakő növeli a fékutat.",
+                "ro": "Verificați frânele; pavajul umed prelungește distanța de frânare.",
+                "en": "Check your brakes; wet cobblestones increase braking distance."
+              }
+            },
+            {
+              "name": "Town Hall and Church of St. Lawrence",
+              "tip_4lang": {
+                "de": "Stellen Sie Ihr Rad unter den Vorsprüngen ab.",
+                "hu": "Parkolja le a biciklit az épületek kiszögellései alatt.",
+                "ro": "Parcați bicicleta sub streșinile clădirilor.",
+                "en": "Park your bike under the building overhangs."
+              }
+            },
+            {
+              "name": "Ride to Kladno Chateau",
+              "tip_4lang": {
+                "de": "Nutzen Sie Schutzbleche, um sich vor Spritzwasser zu schützen.",
+                "hu": "Használjon sárvédőt a felcsapódó víz ellen.",
+                "ro": "Folosiți aripi de protecție pentru a vă feri de apă.",
+                "en": "Use mudguards to protect yourself from splashes."
+              }
+            },
+            {
+              "name": "Lunch Break",
+              "tip_4lang": {
+                "de": "Ein Platz mit Sicht auf das Fahrrad ist bei Regen goldwert.",
+                "hu": "Egy hely, ahonnan rálátni a bringára, aranyat ér esőben.",
+                "ro": "Un loc cu vedere la bicicletă este extrem de util pe ploaie.",
+                "en": "A spot with a view of your bike is golden in the rain."
+              }
+            },
+            {
+              "name": "Bike tour to the Mayrau Mining Museum",
+              "tip_4lang": {
+                "de": "Die Strecke ist exponiert; achten Sie auf Seitenwind.",
+                "hu": "Az útvonal nyitott; figyeljen az oldalszélre.",
+                "ro": "Traseul este expus; atenție la vântul lateral.",
+                "en": "The route is exposed; watch out for crosswinds."
+              }
+            },
+            {
+              "name": "Ride to the Sítenské Valley",
+              "tip_4lang": {
+                "de": "Vermeiden Sie schnelle Kurven auf nassem Laub.",
+                "hu": "Kerülje a hirtelen kanyarokat a vizes leveleken.",
+                "ro": "Evitați virajele bruște pe frunzele umede.",
+                "en": "Avoid sharp turns on wet leaves."
+              }
+            },
+            {
+              "name": "Kladno Municipal Theatre",
+              "tip_4lang": {
+                "de": "Ein kurzer Stopp zum Abtrocknen vor dem Theater.",
+                "hu": "Egy rövid megálló megszárítkozni a színház előtt.",
+                "ro": "O scurtă oprire pentru a vă usca în fața teatrului.",
+                "en": "A short stop to dry off in front of the theatre."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vollständige Regenbekleidung (Hose und Jacke) wird dringend empfohlen.",
+              "Vermeiden Sie Fahrbahnbelag-Markierungen, diese sind extrem rutschig.",
+              "Ein wasserdichter Rucksack schützt Ihre Wertsachen.",
+              "Bremsen Sie frühzeitig vor Kreuzungen."
+            ],
+            "hu": [
+              "Teljes esőruházat (nadrág és kabát) erősen ajánlott.",
+              "Kerülje az útburkolati jeleket, mert rendkívül csúszósak.",
+              "Egy vízálló hátizsák megvédi az értékeit.",
+              "Fékezzen időben a kereszteződések előtt."
+            ],
+            "ro": [
+              "Se recomandă insistent costum de ploaie complet (pantaloni și jachetă).",
+              "Evitați marcajele rutiere, acestea sunt extrem de alunecoase.",
+              "Un rucsac impermeabil vă va proteja obiectele de valoare.",
+              "Frânați din timp înainte de intersecții."
+            ],
+            "en": [
+              "Full rain gear (trousers and jacket) is strongly recommended.",
+              "Avoid riding on road markings; they are extremely slippery.",
+              "A waterproof backpack will protect your valuables.",
+              "Brake early before intersections."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winter-Biking in Kladno ist erfrischend und fordert Konzentration. Starten Sie gut eingepackt am Náměstí Starosty Pavla. Die kalte Luft auf dem Weg zum Schloss macht munter. Mittags wärmen Sie sich in der Stadt auf, bevor Sie die längere Fahrt zum Mayrau-Museum antreten. Das Sítenské-Tal zeigt sich oft tiefgefroren und malerisch. Beenden Sie die Tour, bevor die Dämmerung und die Kälte am späten Nachmittag zunehmen.",
+            "hu": "A téli kerékpározás Kladnóban frissítő és koncentrációt igényel. Induljon jól felöltözve a Náměstí Starosty Pavla térről. A hideg levegő a kastély felé menet felélénkíti. Napközben melegedjen fel a városban, mielőtt nekivág a Mayrau múzeumhoz vezető hosszabb útnak. A Sítenské-völgy ilyenkor gyakran deres és festői. Fejezze be a túrát, mielőtt a sötét és a fagy beállna.",
+            "ro": "Ciclismul de iarnă în Kladno este revigorant și necesită concentrare. Porniți bine echipați din Piața Primarului Pavel. Aerul rece în drum spre castel vă va înviora. Încălziți-vă în oraș la prânz înainte de drumul mai lung spre muzeul Mayrau. Valea Sítenské este adesea înghețată și pitorească. Încheiați tura înainte ca întunericul și gerul să se intensifice după-amiaza târziu.",
+            "en": "Winter biking in Kladno is refreshing and requires concentration. Start well-wrapped at Mayor Pavel Square. The cold air on the way to the chateau is invigorating. Warm up in town at midday before taking the longer ride to the Mayrau Museum. The Sítenské Valley is often frozen and picturesque. Finish your tour before the twilight and cold intensify in the late afternoon."
+          },
+          "stops": [
+            {
+              "name": "Start at Mayor Pavel Square (Náměstí Starosty Pavla)",
+              "tip_4lang": {
+                "de": "Achten Sie auf Raureif auf den Steinen.",
+                "hu": "Ügyeljen a köveken lévő zúzmarára.",
+                "ro": "Atenție la chiciura de pe pietre.",
+                "en": "Watch out for hoarfrost on the stones."
+              }
+            },
+            {
+              "name": "Town Hall and Church of St. Lawrence",
+              "tip_4lang": {
+                "de": "Kurze Pause zum Händewärmen in der Kirche.",
+                "hu": "Rövid szünet a kézmelegítésre a templomban.",
+                "ro": "O scurtă pauză pentru a vă încălzi mâinile în biserică.",
+                "en": "Short break to warm your hands in the church."
+              }
+            },
+            {
+              "name": "Ride to Kladno Chateau",
+              "tip_4lang": {
+                "de": "Fahren Sie defensiv bei gefrorenem Boden.",
+                "hu": "Vezessen óvatosan a fagyott talajon.",
+                "ro": "Conduceți defensiv pe solul înghețat.",
+                "en": "Ride defensively on frozen ground."
+              }
+            },
+            {
+              "name": "Lunch Break",
+              "tip_4lang": {
+                "de": "Heiße Getränke füllen Ihre Energiereserven auf.",
+                "hu": "A forró italok feltöltik az energiatartalékait.",
+                "ro": "Băuturile fierbinți vă vor reîncărca rezervele de energie.",
+                "en": "Hot drinks will refill your energy reserves."
+              }
+            },
+            {
+              "name": "Bike tour to the Mayrau Mining Museum",
+              "tip_4lang": {
+                "de": "Gute Beleuchtung ist für den Rückweg unerlässlich.",
+                "hu": "A jó világítás elengedhetetlen a visszaúthoz.",
+                "ro": "Iluminarea bună este esențială pentru drumul de întoarcere.",
+                "en": "Good lighting is essential for the ride back."
+              }
+            },
+            {
+              "name": "Ride to the Sítenské Valley",
+              "tip_4lang": {
+                "de": "Vorsicht in schattigen Kurven, dort hält sich Eis länger.",
+                "hu": "Vigyázat az árnyékos kanyarokban, ott tovább megmarad a jég.",
+                "ro": "Atenție în curbele umbrite, gheața persistă mai mult acolo.",
+                "en": "Caution in shaded curves; ice stays longer there."
+              }
+            },
+            {
+              "name": "Kladno Municipal Theatre",
+              "tip_4lang": {
+                "de": "Das Ziel ist erreicht; Zeit für ein warmes Gebäude.",
+                "hu": "Célba ért; ideje bemenni egy meleg épületbe.",
+                "ro": "Ați ajuns la destinație; e timpul pentru o clădire caldă.",
+                "en": "Goal reached; time for a warm building."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winddichte Handschuhe sind bei Frost überlebenswichtig.",
+              "Prüfen Sie den Reifendruck; etwas weniger Druck bietet mehr Grip.",
+              "Halten Sie die Fahrtzeiten zwischen den Pausen kurz.",
+              "Achten Sie auf eine funktionierende Lichtanlage am Rad."
+            ],
+            "hu": [
+              "A szélálló kesztyű fagyban létfontosságú.",
+              "Ellenőrizze a guminyomást; a kicsit kisebb nyomás jobb tapadást ad.",
+              "Tartsa röviden a pihenők közötti tekerési időt.",
+              "Ügyeljen a kerékpár világításának működésére."
+            ],
+            "ro": [
+              "Mănușile rezistente la vânt sunt vitale pe ger.",
+              "Verificați presiunea în pneuri; o presiune mai mică oferă aderență mai bună.",
+              "Păstrați timpii de condus între pauze scurți.",
+              "Asigurați-vă că sistemul de iluminare al bicicletei funcționează."
+            ],
+            "en": [
+              "Windproof gloves are vital in freezing temperatures.",
+              "Check tire pressure; slightly lower pressure offers better grip.",
+              "Keep riding times between breaks short.",
+              "Ensure your bike's lighting system is functioning."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1146,6 +1546,206 @@
           "The Mining Museum is located outside and requires a separate drive.",
           "Traffic can increase during peak hours; plan accordingly."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Kladno mit dem Auto bei Regen ist komfortabel. Beginnen Sie im Zentrum und nutzen Sie das nahe Parken am Rathaus. Die kurzen Wege zur Kirche und zum Schloss minimieren die Zeit im Freien. Die Fahrt zum Mayrau-Museum ist bei Regen unproblematisch. Den Abend verbringen Sie bei einem gemütlichen Abendessen, während draußen der Regen gegen die Fenster prasselt.",
+            "hu": "Kladno felfedezése autóval esőben kényelmes megoldás. Kezdjen a központban, használja a városháza közeli parkolókat. A templomhoz és a kastélyhoz vezető rövid séta minimalizálja a kint töltött időt. Az út a Mayrau múzeumhoz esőben is zökkenőmentes. Az estét töltheti egy kellemes vacsorával, miközben kint az ablakon kopog az eső.",
+            "ro": "Explorarea orașului Kladno cu mașina pe ploaie este confortabilă. Începeți în centru și folosiți parcările din apropierea primăriei. Distanțele scurte până la biserică și castel minimizează timpul petrecut afară. Drumul spre muzeul Mayrau este fără probleme pe ploaie. Seara o puteți petrece la o cină plăcută, în timp ce ploaia bate în geam.",
+            "en": "Exploring Kladno by car in the rain is comfortable. Start in the center and use parking near the town hall. Short walks to the church and chateau minimize time spent outdoors. The drive to Mayrau Museum is smooth even in the rain. Spend your evening with a pleasant dinner while the rain patters against the windows."
+          },
+          "stops": [
+            {
+              "name": "Arrival & Parking in the Center",
+              "tip_4lang": {
+                "de": "Zentrale Parkplätze sparen Laufwege im Regen.",
+                "hu": "A központi parkolók megspórolják az esőben való gyaloglást.",
+                "ro": "Parcările centrale economisesc drumurile pe jos prin ploaie.",
+                "en": "Central parking spots save walking in the rain."
+              }
+            },
+            {
+              "name": "Walk: Town Hall and Marian Column",
+              "tip_4lang": {
+                "de": "Nur ein kurzer Sprung aus dem Auto für die Highlights.",
+                "hu": "Csak egy rövid ugrás az autóból a látnivalókig.",
+                "ro": "Doar o scurtă ieșire din mașină pentru atracții.",
+                "en": "Just a short hop from the car for the highlights."
+              }
+            },
+            {
+              "name": "Walk: Church of St. Lawrence",
+              "tip_4lang": {
+                "de": "Der Eingang ist nah an der Straße; ideal für Regentage.",
+                "hu": "A bejárat közel van az úthoz; ideális esős napokra.",
+                "ro": "Intrarea este aproape de drum; ideal pentru zilele ploioase.",
+                "en": "The entrance is close to the road; ideal for rainy days."
+              }
+            },
+            {
+              "name": "Drive to Kladno Chateau & Park",
+              "tip_4lang": {
+                "de": "Nutzen Sie den Parkplatz direkt am Schlosseingang.",
+                "hu": "Használja közvetlenül a kastély bejáratánál lévő parkolót.",
+                "ro": "Folosiți parcarea direct de la intrarea în castel.",
+                "en": "Use the parking lot directly at the chateau entrance."
+              }
+            },
+            {
+              "name": "Walk: Sítenské Valley",
+              "tip_4lang": {
+                "de": "Parken Sie oben am Rand für einen schnellen Blick ins Grüne.",
+                "hu": "Parkoljon felül a szélen egy gyors pillantásra a zöldbe.",
+                "ro": "Parcați sus la margine pentru o privire rapidă spre verdeață.",
+                "en": "Park at the upper edge for a quick view of the greenery."
+              }
+            },
+            {
+              "name": "Drive to Mayrau Mining Museum",
+              "tip_4lang": {
+                "de": "Großer, befestigter Parkplatz direkt vor dem Museum.",
+                "hu": "Nagy, burkolt parkoló közvetlenül a múzeum előtt.",
+                "ro": "Parcare mare, asfaltată, chiar în fața muzeului.",
+                "en": "Large, paved parking lot right in front of the museum."
+              }
+            },
+            {
+              "name": "Return and Dinner",
+              "tip_4lang": {
+                "de": "Wählen Sie ein Restaurant mit nahem Parkhaus.",
+                "hu": "Válasszon közeli parkolóházzal rendelkező éttermet.",
+                "ro": "Alegeți un restaurant cu o parcare acoperită în apropiere.",
+                "en": "Choose a restaurant with a nearby parking garage."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Halten Sie die Klimaanlage an, um beschlagene Scheiben zu vermeiden.",
+              "Achten Sie auf Aquaplaning auf den Verbindungsstraßen.",
+              "Ein Regenschirm im Auto ist für die Wege zum Parkplatz wichtig.",
+              "Einige Parkplätze können bei starkem Regen Pfützen bilden."
+            ],
+            "hu": [
+              "Tartsa bekapcsolva a klímát a szélvédő párásodása ellen.",
+              "Figyeljen a felúszás veszélyére az összekötő utakon.",
+              "Egy esernyő az autóban fontos a parkolótól vezető útra.",
+              "Néhány parkolóban nagyobb tócsák alakulhatnak ki esőben."
+            ],
+            "ro": [
+              "Păstrați aerul condiționat pornit pentru a evita aburirea geamurilor.",
+              "Atenție la acvaplanare pe drumurile de legătură.",
+              "O umbrelă în mașină este importantă pentru drumul de la parcare.",
+              "Unele parcări pot forma bălți mari în caz de ploaie torențială."
+            ],
+            "en": [
+              "Keep the AC on to prevent the windows from fogging up.",
+              "Watch out for aquaplaning on the connecting roads.",
+              "An umbrella in the car is essential for the walk from the parking lot.",
+              "Some parking lots may form large puddles during heavy rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Fahrt durch Kladno bietet warme Etappen zwischen den Sehenswürdigkeiten. Starten Sie am zentralen Platz, wo das Auto schnell aufheizt. Besuchen Sie das Schloss und die Kirche, während draußen der Frost die Stadt überzieht. Die Fahrt nach Mayrau führt durch winterliche Vororte. Das Sítenské-Tal lässt sich bequem vom Parkrand aus bewundern, bevor Sie den Tag in der Wärme eines Restaurants abschließen.",
+            "hu": "A téli autózás Kladnóban meleg szakaszokat kínál a látnivalók között. Kezdjen a központi téren, ahol az autó gyorsan bemelegszik. Látogassa meg a kastélyt és a templomot, miközben kint a dér belepi a várost. Az út Mayrauba a téli külvárosokon át vezet. A Sítenské-völgy kényelmesen megcsodálható a park széléről, mielőtt egy meleg étteremben zárná a napot.",
+            "ro": "Drumul de iarnă prin Kladno oferă etape călduroase între obiectivele turistice. Începeți în piața centrală, unde mașina se încălzește rapid. Vizitați castelul și biserica în timp ce afară gerul cuprinde orașul. Drumul spre Mayrau trece prin suburbii iernatice. Valea Sítenské poate fi admirată confortabil de la marginea parcării, înainte de a încheia ziua la căldura unui restaurant.",
+            "en": "A winter drive through Kladno offers warm segments between the sights. Start at the central square, where the car heats up quickly. Visit the chateau and church while frost covers the city outside. The drive to Mayrau takes you through wintry suburbs. Sítenské Valley can be comfortably admired from the edge of the park before ending the day in the warmth of a restaurant."
+          },
+          "stops": [
+            {
+              "name": "Arrival & Parking in the Center",
+              "tip_4lang": {
+                "de": "Parken Sie möglichst geschützt vor Wind.",
+                "hu": "Parkoljon lehetőleg szélvédett helyen.",
+                "ro": "Parcați pe cât posibil într-un loc ferit de vânt.",
+                "en": "Park in a wind-sheltered spot if possible."
+              }
+            },
+            {
+              "name": "Walk: Town Hall and Marian Column",
+              "tip_4lang": {
+                "de": "Lassen Sie die Sitzheizung für die Rückkehr laufen.",
+                "hu": "Hagyja menni az ülésfűtést a visszatéréshez.",
+                "ro": "Lăsați încălzirea în scaune pornită pentru când vă întoarceți.",
+                "en": "Keep the seat heating on for your return."
+              }
+            },
+            {
+              "name": "Walk: Church of St. Lawrence",
+              "tip_4lang": {
+                "de": "Vorsicht beim Aussteigen auf rutschigem Gehweg.",
+                "hu": "Vigyázat a kiszálláskor a csúszós járdán.",
+                "ro": "Atenție la coborâre pe trotuarul alunecos.",
+                "en": "Caution when getting out on the slippery sidewalk."
+              }
+            },
+            {
+              "name": "Drive to Kladno Chateau & Park",
+              "tip_4lang": {
+                "de": "Nutzen Sie den Winterdienst-geräumten Parkplatz.",
+                "hu": "Használja a hótakarított parkolót.",
+                "ro": "Folosiți parcarea curățată de zăpadă.",
+                "en": "Use the parking lot cleared of snow."
+              }
+            },
+            {
+              "name": "Walk: Sítenské Valley",
+              "tip_4lang": {
+                "de": "Vom Auto aus hat man einen tollen Blick auf das Eistal.",
+                "hu": "Az autóból is remek kilátás nyílik a jeges völgyre.",
+                "ro": "Din mașină aveți o vedere excelentă asupra văii înghețate.",
+                "en": "From the car, you have a great view of the icy valley."
+              }
+            },
+            {
+              "name": "Drive to Mayrau Mining Museum",
+              "tip_4lang": {
+                "de": "Achten Sie auf die Straßenglätte außerhalb der Stadt.",
+                "hu": "Figyeljen az út jegesedésére a városon kívül.",
+                "ro": "Atenție la polei pe drumurile din afara orașului.",
+                "en": "Watch out for road icing outside the city."
+              }
+            },
+            {
+              "name": "Return and Dinner",
+              "tip_4lang": {
+                "de": "Ein naher Parkplatz erspart das Frieren nach dem Essen.",
+                "hu": "Egy közeli parkoló megkíméli a vacsora utáni fázástól.",
+                "ro": "O parcare apropiată vă scutește de frigul de după masă.",
+                "en": "A nearby parking spot saves you from freezing after dinner."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Ihr Wischwasser Frostschutzmittel enthält.",
+              "Ein Eiskratzer ist bei winterlichen Bedingungen unverzichtbar.",
+              "Planen Sie mehr Zeit für die Parkplatzsuche ein.",
+              "Vermeiden Sie hastiges Bremsen auf schneebedeckten Nebenstraßen."
+            ],
+            "hu": [
+              "Győződjön meg róla, hogy a szélvédőmosó fagyálló.",
+              "A jégkaparó elengedhetetlen a téli körülmények között.",
+              "Tervezzen több időt a parkolóhely keresésére.",
+              "Kerülje a hirtelen fékezést a havas mellékutakon."
+            ],
+            "ro": [
+              "Asigurați-vă că lichidul de parbriz conține antigel.",
+              "Răzuitoarea de gheață este indispensabilă în condiții de iarnă.",
+              "Alocați mai mult timp pentru căutarea unui loc de parcare.",
+              "Evitați frânările bruște pe străzile secundare înzăpezite."
+            ],
+            "en": [
+              "Make sure your windshield washer fluid contains antifreeze.",
+              "An ice scraper is indispensable in winter conditions.",
+              "Plan more time for finding a parking spot.",
+              "Avoid sudden braking on snow-covered side roads."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1502,6 +2102,188 @@
           "Have some small change ready for tickets if you buy them on the bus.",
           "The public transport app can be very helpful for route planning."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit Bus und Bahn durch Kladno zu reisen, ist bei Regen eine kluge Wahl. Die Wartezeiten an den meist überdachten Haltestellen sind kurz. Vormittags erkunden Sie das Zentrum, mittags bringt Sie der Bus direkt zum Schlosspark. Die Fahrt zum Mayrau-Museum ist bequem und trocken. Den späten Nachmittag verbringen Sie entspannt im Sítenské-Tal, wobei Sie die Busverbindungen für eine schnelle Rückfahrt nutzen.",
+            "hu": "Tömegközlekedéssel utazni Kladnóban esőben okos döntés. A várakozási idő a legtöbbször fedett megállókban rövid. Délelőtt fedezze fel a központot, délben a busz közvetlenül a kastélyparkhoz viszi. Az út a Mayrau múzeumhoz kényelmes és száraz. A késő délutánt töltse a Sítenské-völgyben, kihasználva a buszokat a gyors visszatéréshez.",
+            "ro": "Călătoria cu autobuzul prin Kladno este o alegere înțeleaptă pe ploaie. Timpii de așteptate în stațiile majoritar acoperite sunt scurți. Dimineața explorați centrul, iar la prânz autobuzul vă duce direct la parcul castelului. Drumul spre muzeul Mayrau este confortabil și uscat. Petreceți după-amiaza târziu în valea Sítenské, folosind conexiunile de autobuz pentru o întoarcere rapidă.",
+            "en": "Traveling by bus through Kladno is a wise choice in the rain. Waiting times at the mostly covered stops are short. Explore the center in the morning, and at midday, the bus takes you directly to the chateau park. The trip to Mayrau Museum is comfortable and dry. Spend the late afternoon in Sítenské Valley, utilizing bus connections for a quick return."
+          },
+          "stops": [
+            {
+              "name": "Arrival at the Main Square",
+              "tip_4lang": {
+                "de": "Nutzen Sie die Wartehäuschen an den Bushaltestellen.",
+                "hu": "Használja a buszmegállók váróhelyiségeit.",
+                "ro": "Folosiți adăposturile din stațiile de autobuz.",
+                "en": "Use the shelters at the bus stops."
+              }
+            },
+            {
+              "name": "Walk: Town Hall and Church of St. Lawrence",
+              "tip_4lang": {
+                "de": "Die Wege zwischen den Highlights sind kurz und kompakt.",
+                "hu": "A látnivalók közötti utak rövidek és tömörek.",
+                "ro": "Drumurile între atracții sunt scurte și compacte.",
+                "en": "The walks between the highlights are short and compact."
+              }
+            },
+            {
+              "name": "Bus to Kladno Chateau",
+              "tip_4lang": {
+                "de": "Die Busse sind gut klimatisiert und halten die Feuchtigkeit draußen.",
+                "hu": "A buszok jól klimatizáltak és kint tartják a párát.",
+                "ro": "Autobuzele sunt bine climatizate și țin umezeala afară.",
+                "en": "Buses are well air-conditioned and keep the humidity out."
+              }
+            },
+            {
+              "name": "Lunch near the chateau",
+              "tip_4lang": {
+                "de": "Viele Lokale sind nur wenige Schritte von der Haltestelle entfernt.",
+                "hu": "Sok étterem csak pár lépésre van a megállótól.",
+                "ro": "Multe localuri sunt la doar câțiva pași de stație.",
+                "en": "Many eateries are just a few steps from the stop."
+              }
+            },
+            {
+              "name": "Bus to Mayrau Mining Museum",
+              "tip_4lang": {
+                "de": "Prüfen Sie die Abfahrtszeiten online, um nicht im Regen zu warten.",
+                "hu": "Ellenőrizze az indulást online, hogy ne várjon az esőben.",
+                "ro": "Verificați orele de plecare online pentru a nu aștepta în ploaie.",
+                "en": "Check departure times online to avoid waiting in the rain."
+              }
+            },
+            {
+              "name": "Back to relax in Sítenské Valley",
+              "tip_4lang": {
+                "de": "Die Bushaltestelle liegt direkt am Parkeingang.",
+                "hu": "A buszmegálló közvetlenül a park bejáratánál van.",
+                "ro": "Stația de autobuz este chiar la intrarea în parc.",
+                "en": "The bus stop is right at the park entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die IDOS-App hilft bei der Echtzeit-Verfolgung der Busse.",
+              "Halten Sie Kleingeld oder eine Karte für den Fahrkartenkauf bereit.",
+              "Tragen Sie wasserfeste Kleidung für die Wege zur Haltestelle.",
+              "Vermeiden Sie Stoßzeiten, um einen Sitzplatz im Trockenen zu haben."
+            ],
+            "hu": [
+              "Az IDOS alkalmazás segít a buszok valós idejű követésében.",
+              "Legyen kéznél aprópénz vagy kártya a jegyvásárláshoz.",
+              "Viseljen vízálló ruhát a megállóig vezető útra.",
+              "Kerülje a csúcsidőt, hogy biztosan legyen ülőhelye."
+            ],
+            "ro": [
+              "Aplicația IDOS ajută la urmărirea în timp real a autobuzelor.",
+              "Aveți pregătiți bani mărunți sau un card pentru bilete.",
+              "Purtați haine impermeabile pentru drumul până în stație.",
+              "Evitați orele de vârf pentru a avea loc pe scaun la adăpost."
+            ],
+            "en": [
+              "The IDOS app helps with real-time tracking of buses.",
+              "Have change or a card ready for ticket purchase.",
+              "Wear waterproof clothing for the walks to the stops.",
+              "Avoid peak hours to ensure a dry seat."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter sind die warmen Busse von Kladno ideale Rückzugsorte. Starten Sie am frostigen Hauptplatz und nutzen Sie die kurzen Takte im Zentrum. Mittags bringt Sie der Nahverkehr zum Schloss, wo Sie die weihnachtliche Stimmung genießen können. Der Nachmittag im Museum ist kühl, aber die Busfahrt dorthin ist angenehm temperiert. Beenden Sie den Tag im Sítenské-Tal, bevor die Winterkälte am Abend spürbar zunimmt.",
+            "hu": "Télen Kladno meleg buszai ideális menedéket nyújtanak. Kezdjen a fagyos főtéren, és használja ki a sűrű járatokat a központban. Délben a tömegközlekedés a kastélyhoz viszi, ahol élvezheti a téli hangulatot. A múzeumban töltött délután hűvös, de az odavezető buszút kellemesen fűtött. Zárja a napot a Sítenské-völgyben, mielőtt az esti fagy beköszönt.",
+            "ro": "Iarna, autobuzele călduroase din Kladno sunt refugii ideale. Începeți în piața centrală înghețată și profitați de frecvența mare a curselor din centru. La prânz, transportul în comun vă duce la castel, unde puteți savura atmosfera de iarnă. După-amiaza la muzeu este răcoroasă, dar drumul cu autobuzul până acolo este bine încălzit. Încheiați ziua în valea Sítenské înainte ca gerul serii să se instaleze.",
+            "en": "In winter, Kladno's warm buses are ideal retreats. Start at the frosty main square and take advantage of the frequent services in the center. At midday, transit takes you to the chateau, where you can enjoy the winter atmosphere. The afternoon at the museum is cool, but the bus ride there is pleasantly heated. End your day in Sítenské Valley before the evening chill sets in."
+          },
+          "stops": [
+            {
+              "name": "Arrival at the Main Square",
+              "tip_4lang": {
+                "de": "Wärmen Sie sich kurz im Bus auf, bevor Sie aussteigen.",
+                "hu": "Melegedjen fel kicsit a buszon, mielőtt leszállna.",
+                "ro": "Încălziți-vă puțin în autobuz înainte de a coborî.",
+                "en": "Warm up briefly on the bus before getting off."
+              }
+            },
+            {
+              "name": "Walk: Town Hall and Church of St. Lawrence",
+              "tip_4lang": {
+                "de": "Ein zügiges Gehtempo hält Sie zwischen den Stopps warm.",
+                "hu": "A tempós gyaloglás melegen tart a megállók között.",
+                "ro": "Un ritm alert de mers vă va ține de cald între opriri.",
+                "en": "A brisk walking pace keeps you warm between stops."
+              }
+            },
+            {
+              "name": "Bus to Kladno Chateau",
+              "tip_4lang": {
+                "de": "Genießen Sie den Blick auf die verschneite Stadt aus dem Fenster.",
+                "hu": "Élvezze a kilátást a havas városra az ablakból.",
+                "ro": "Bucurați-vă de vederea spre orașul înzăpezit de la fereastră.",
+                "en": "Enjoy the view of the snowy city from the window."
+              }
+            },
+            {
+              "name": "Lunch near the chateau",
+              "tip_4lang": {
+                "de": "Suchen Sie Lokale mit Windfang am Eingang.",
+                "hu": "Keressen szélfogóval rendelkező éttermeket.",
+                "ro": "Căutați localuri cu paravânt la intrare.",
+                "en": "Look for eateries with a windbreak at the entrance."
+              }
+            },
+            {
+              "name": "Bus to Mayrau Mining Museum",
+              "tip_4lang": {
+                "de": "Die Busse fahren im Winter zuverlässig nach Plan.",
+                "hu": "A buszok télen is megbízhatóan, menetrend szerint járnak.",
+                "ro": "Autobuzele circulă conform programului și iarna.",
+                "en": "Buses run reliably according to schedule even in winter."
+              }
+            },
+            {
+              "name": "Back to relax in Sítenské Valley",
+              "tip_4lang": {
+                "de": "Die letzte Fahrt des Tages bietet Wärme vor dem Heimweg.",
+                "hu": "A nap utolsó útja meleget ad a hazaút előtt.",
+                "ro": "Ultima cursă a zilei oferă căldură înainte de drumul spre casă.",
+                "en": "The last ride of the day provides warmth before the trip home."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Haltestellen ohne Häuschen können bei Wind sehr kalt sein.",
+              "Die Busse sind im Winter oft stark beheizt; kleiden Sie sich variabel.",
+              "Der Fahrplan kann bei extremem Schneefall leicht abweichen.",
+              "Ab 17:00 Uhr ist es dunkel; planen Sie die Heimfahrt rechtzeitig."
+            ],
+            "hu": [
+              "A váróterem nélküli megállók szélben nagyon hidegek lehetnek.",
+              "A buszok télen gyakran túl vannak fűtve; öltözzön variálhatóan.",
+              "Extrém hóesés esetén a menetrend kissé módosulhat.",
+              "17:00-tól sötét van; tervezze meg időben a hazautat."
+            ],
+            "ro": [
+              "Stațiile fără adăpost pot fi foarte reci pe vânt.",
+              "Autobuzele sunt adesea supraîncălzite iarna; îmbrăcați-vă versatil.",
+              "În caz de ninsoare extremă, programul poate varia ușor.",
+              "E întuneric de la ora 17:00; planificați drumul spre casă din timp."
+            ],
+            "en": [
+              "Stops without shelters can be very cold in the wind.",
+              "Buses are often heavily heated in winter; dress in layers.",
+              "The schedule may vary slightly during extreme snowfall.",
+              "It gets dark from 5:00 PM; plan your trip home in time."
+            ]
+          }
+        }
       }
     }
   }

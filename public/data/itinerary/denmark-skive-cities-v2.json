@@ -334,6 +334,188 @@
         "en": [
           "Wear comfortable shoes, as the cobblestones in the old town can be uneven. The wind from the fjord can be cool, even in summer, so a light jacket is advisable. Many shops close early, especially on Saturdays."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt unter den schützenden Bögen der Vor Frue Kirche. Das Skive Museum bietet danach einen idealen Zufluchtsort vor dem nordischen Regen. Mittags genießen wir die Hafenatmosphäre in einem gemütlichen Restaurant mit Blick auf den Fjord. Am Nachmittag führt ein kurzer Spaziergang durch den Krabbesholm-Wald auf befestigten Wegen, bevor wir den Tag windgeschützt am Hafen ausklingen lassen.",
+            "hu": "A reggelt a Vor Frue templom falai között kezdjük, védve az esőtől. Délelőtt a Skive Múzeum kiállításai kínálnak tartalmas menedéket a csapadékos időben. Ebédre a kikötő egyik hangulatos, zárt éttermét választjuk. Délután a Krabbesholm erdő aszfaltozott ösvényein teszünk egy frissítő sétát, végül a kikötő fényeiben gyönyörködünk egy forró ital mellett.",
+            "ro": "Dimineața începe sub arcadele protectoare ale Bisericii Vor Frue. Muzeul Skive oferă apoi un refugiu ideal împotriva ploii nordice. La prânz, ne bucurăm de atmosfera portului într-un restaurant primitor cu vedere la fjord. După-amiaza, o scurtă plimbare prin pădurea Krabbesholm pe poteci pavate ne revigorează, înainte de a încheia ziua la adăpost, în zona portului.",
+            "en": "The morning begins under the protective arches of Vor Frue Church. Skive Museum then provides a perfect refuge from the Nordic rain. At noon, we enjoy the harbor atmosphere in a cozy indoor restaurant overlooking the fjord. In the afternoon, a short walk through Krabbesholm Forest on paved paths refreshes us before ending the day sheltered by the harbor."
+          },
+          "stops": [
+            {
+              "name": "Vor Frue Church",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Fresken im trockenen Kirchenschiff.",
+                "hu": "Csodálja meg a freskókat a száraz hajóban.",
+                "ro": "Admirați frescele în nava uscată a bisericii.",
+                "en": "Admire the frescoes in the dry nave of the church."
+              }
+            },
+            {
+              "name": "Skive Museum",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um den stärksten Regen abzuwarten.",
+                "hu": "Ideális hely a legnagyobb eső kivárására.",
+                "ro": "Locul perfect pentru a aștepta trecerea ploii.",
+                "en": "Perfect place to wait out the heaviest rain."
+              }
+            },
+            {
+              "name": "Skive Theatre",
+              "tip_5lang": {
+                "de": "Kurzer Stopp unter dem Vordach für ein Foto.",
+                "hu": "Gyors fotómegálló az előtető védelmében.",
+                "ro": "Scurt popas sub streșină pentru o fotografie.",
+                "en": "Quick photo stop under the entrance canopy."
+              }
+            },
+            {
+              "name": "Lunch at the Harbor",
+              "tip_5lang": {
+                "de": "Wählen Sie einen Tisch weit weg von der Tür.",
+                "hu": "Válasszon az ajtótól távol eső asztalt.",
+                "ro": "Alegeți o masă departe de intrare.",
+                "en": "Choose a table far from the entrance door."
+              }
+            },
+            {
+              "name": "Krabbesholm Forest",
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den asphaltierten Hauptwegen.",
+                "hu": "Maradjon az aszfaltozott főutakon.",
+                "ro": "Rămâneți pe potecile principale asfaltate.",
+                "en": "Stick to the main paved paths to avoid mud."
+              }
+            },
+            {
+              "name": "Skive Harbor - Sunset",
+              "tip_5lang": {
+                "de": "Die Lichter spiegeln sich schön in den Pfützen.",
+                "hu": "A fények gyönyörűen tükröződnek a tócsákban.",
+                "ro": "Luminile se reflectă frumos în bălți.",
+                "en": "The lights reflect beautifully in the puddles."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Regenschirm ist wegen des Windes am Fjord unerlässlich.",
+              "Das Skive Museum ist montags oft geschlossen, prüfen Sie die Zeiten.",
+              "Tragen Sie wasserfeste Schuhe für das Kopfsteinpflaster im Zentrum.",
+              "Die Hafenrestaurants bieten tolle Aussichten, auch wenn es regnet."
+            ],
+            "hu": [
+              "A fjord felőli szél miatt erős esernyő javasolt.",
+              "A Skive Múzeum hétfőnként zárva lehet, ellenőrizze előre.",
+              "Vízálló cipő ajánlott a belvárosi macskaköves utcákhoz.",
+              "A kikötői éttermekből esőben is remek a kilátás a vízre."
+            ],
+            "ro": [
+              "O umbrelă rezistentă este esențială din cauza vântului de pe fjord.",
+              "Muzeul Skive poate fi închis lunea, verificați programul.",
+              "Purtați încălțăminte impermeabilă pentru străzile pietruite din centru.",
+              "Restaurantele din port oferă vederi superbe chiar și pe ploaie."
+            ],
+            "en": [
+              "A sturdy umbrella is essential due to the fjord winds.",
+              "Skive Museum is often closed on Mondays, check opening hours.",
+              "Wear waterproof shoes for the cobblestone streets in the center.",
+              "Harbor restaurants offer great views even when it rains."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen beginnt an der Vor Frue Kirche, wo die Stille des Winters greifbar ist. Wärme finden wir im Skive Museum bei lokaler Kunst und Geschichte. Mittags lockt der Hafen mit warmen Spezialitäten, während der Blick über den nebligen Fjord schweift. Am Nachmittag erleben wir die klare Winterluft im Krabbesholm-Wald, bevor wir rechtzeitig zum frühen Sonnenuntergang wieder am Hafen sind.",
+            "hu": "A fagyos reggel a Vor Frue templomnál indul, ahol a téli csend szinte tapintható. Melegséget a Skive Múzeum tárlatai között találunk délutánig. Ebédre a kikötőben választunk egy fűtött helyet, ahonnan rálátni a párás fjordra. Délután a Krabbesholm erdő tiszta téli levegője frissít fel, majd a korai naplemente előtt visszaérünk a kikötőbe.",
+            "ro": "O dimineață geroasă începe la Biserica Vor Frue, unde liniștea iernii este palpabilă. Găsim căldură în Muzeul Skive, printre exponate de artă și istorie. La prânz, portul ne atrage cu specialități calde și vedere spre fjordul cețos. După-amiaza, aerul curat de iarnă ne revigorează în pădurea Krabbesholm, înainte de a reveni în port pentru apusul timpuriu.",
+            "en": "A frosty morning starts at Vor Frue Church, where the winter silence is palpable. We find warmth in Skive Museum among local art and history exhibits. At noon, the harbor draws us in with warm specialties and views of the misty fjord. In the afternoon, the crisp winter air refreshes us in Krabbesholm Forest before returning to the harbor for the early sunset."
+          },
+          "stops": [
+            {
+              "name": "Vor Frue Church",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf den Kirchenstufen.",
+                "hu": "Vigyázzon a jegesedésre a templom lépcsőin.",
+                "ro": "Atenție la polei pe treptele bisericii.",
+                "en": "Watch out for icy patches on the church steps."
+              }
+            },
+            {
+              "name": "Skive Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe für Ihre dicken Mäntel.",
+                "hu": "Használja a ruhatárat a vastag kabátoknak.",
+                "ro": "Folosiți garderoba pentru hainele groase.",
+                "en": "Use the cloakroom for your heavy winter coats."
+              }
+            },
+            {
+              "name": "Skive Theatre",
+              "tip_5lang": {
+                "de": "Die Fassade ist in der Winterdämmerung beleuchtet.",
+                "hu": "A homlokzat szépen fest a téli szürkületben.",
+                "ro": "Fațada este frumos iluminată în amurgul iernii.",
+                "en": "The facade is beautifully lit in the winter twilight."
+              }
+            },
+            {
+              "name": "Lunch at the Harbor",
+              "tip_5lang": {
+                "de": "Ein heißer dänischer Kaffee wärmt nach dem Spaziergang.",
+                "hu": "Egy forró dán kávé jól esik a séta után.",
+                "ro": "O cafea daneză fierbinte este perfectă după plimbare.",
+                "en": "A hot Danish coffee is perfect after the walk."
+              }
+            },
+            {
+              "name": "Krabbesholm Forest",
+              "tip_5lang": {
+                "de": "Der Wald bietet Schutz vor dem kalten Fjordwind.",
+                "hu": "Az erdő védelmet nyújt a hideg fjordi szél ellen.",
+                "ro": "Pădurea oferă adăpost împotriva vântului rece.",
+                "en": "The forest provides shelter from the cold fjord wind."
+              }
+            },
+            {
+              "name": "Skive Harbor - Sunset",
+              "tip_5lang": {
+                "de": "Sonnenuntergang ist im Winter bereits gegen 16 Uhr.",
+                "hu": "Télen a naplemente már 16 óra körül bekövetkezik.",
+                "ro": "Apusul are loc deja în jurul orei 16:00 iarna.",
+                "en": "Sunset occurs around 4 PM during the winter months."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie mehrere Schichten, der Wind am Wasser ist beißend.",
+              "Die meisten Museen schließen im Winter etwas früher.",
+              "Hafenbereiche können bei Frost sehr rutschig sein.",
+              "Genießen Sie die 'Hygge'-Atmosphäre in den örtlichen Cafés."
+            ],
+            "hu": [
+              "Öltözzön rétegesen, a vízparti szél metsző lehet.",
+              "A múzeumok télen gyakran korábban zárnak.",
+              "A kikötői mólók fagy idején nagyon csúszósak lehetnek.",
+              "Élvezze a 'Hygge' hangulatot a helyi kávézókban."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi, vântul de pe apă poate fi tăios.",
+              "Majoritatea muzeelor se închid puțin mai devreme iarna.",
+              "Zonele portuare pot fi foarte alunecoase în caz de îngheț.",
+              "Bucurați-vă de atmosfera 'Hygge' în cafenelele locale."
+            ],
+            "en": [
+              "Dress in layers, the wind by the water can be biting.",
+              "Most museums close slightly earlier during winter.",
+              "Harbor areas can be very slippery during frost.",
+              "Enjoy the 'Hygge' atmosphere in local cafes."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -670,6 +852,206 @@
         "en": [
           "Denmark is very bike-friendly, but wear a helmet for safety. The wind can be a challenge, so plan your route accordingly. Bring water and snacks, especially for the tour to Jenle."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen starten wir am Hafen, gut ausgerüstet mit wasserfester Kleidung. Die Fahrt zur Vor Frue Kirche und weiter zur Resen Kirche führt durch eine erfrischte, grüne Landschaft. Mittags erreichen wir das Jenle Museum, das uns einen langen, trockenen Aufenthalt mit Kultur und einem herzhaften Lunch bietet. Der Rückweg durch den Krabbesholm-Wald ist bei Regen besonders atmosphärisch, bevor wir die Räder am Hafen zurückgeben.",
+            "hu": "Esőben is nekivágunk a kikötőtől, vízálló felszerelésben. A Vor Frue és Resen templomok felé vezető út üde, zöld tájakon kanyarog. Délben érkezünk a Jenle Múzeumba, ahol hosszú, száraz pihenő vár ránk kultúrával és ebéddel. A visszaút a Krabbesholm erdőn át esőben is különleges élmény, mielőtt leadjuk a bicikliket a kikötőben.",
+            "ro": "În ciuda ploii, pornim din port echipați cu haine impermeabile. Drumul spre bisericile Vor Frue și Resen trece prin peisaje verzi și revigorante. La prânz ajungem la Muzeul Jenle, care ne oferă un popas lung și uscat cu cultură și un prânz copios. Drumul de întoarcere prin pădurea Krabbesholm este atmosferic pe ploaie, înainte de a preda bicicletele în port.",
+            "en": "Despite the rain, we start at the harbor equipped with waterproof gear. The ride to Vor Frue and Resen churches takes us through fresh, green landscapes. At noon, we reach Jenle Museum, offering a long, dry break with culture and a hearty lunch. The return path through Krabbesholm Forest is especially atmospheric in the rain before returning the bikes at the harbor."
+          },
+          "stops": [
+            {
+              "name": "Start: Bike Rental at the Harbor",
+              "tip_5lang": {
+                "de": "Fragen Sie nach einer Sattelabdeckung.",
+                "hu": "Kérjen nyeregvédő huzatot a kölcsönzőben.",
+                "ro": "Cereți o protecție pentru șa la centrul de închirieri.",
+                "en": "Ask for a saddle cover at the rental shop."
+              }
+            },
+            {
+              "name": "Vor Frue Church",
+              "tip_5lang": {
+                "de": "Kurze Pause im Trockenen einplanen.",
+                "hu": "Tervezzen egy rövid pihenőt a szárazon.",
+                "ro": "Planificați o scurtă pauză la adăpost.",
+                "en": "Plan a short break in the dry interior."
+              }
+            },
+            {
+              "name": "Resen Church",
+              "tip_5lang": {
+                "de": "Vorsicht bei der Anfahrt auf nassen Wegen.",
+                "hu": "Vigyázzon a kanyarokban a vizes úton.",
+                "ro": "Atenție la viraje pe drumurile umede.",
+                "en": "Be careful on corners on the wet roads."
+              }
+            },
+            {
+              "name": "Jenle - The Aakjær Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit für eine ausführliche Tour.",
+                "hu": "Használja ki az időt egy részletes tárlatvezetésre.",
+                "ro": "Folosiți timpul pentru un tur detaliat.",
+                "en": "Use the time for an extensive guided tour."
+              }
+            },
+            {
+              "name": "Lunch Break at Jenle",
+              "tip_5lang": {
+                "de": "Ein warmer Tee hilft gegen die Feuchtigkeit.",
+                "hu": "Egy meleg tea segít a nyirkosság ellen.",
+                "ro": "Un ceai cald ajută împotriva umezelii.",
+                "en": "A warm tea helps against the dampness."
+              }
+            },
+            {
+              "name": "Krabbesholm Forest",
+              "tip_5lang": {
+                "de": "Achten Sie auf rutschiges Laub auf dem Weg.",
+                "hu": "Vigyázzon a csúszós levelekre az úton.",
+                "ro": "Atenție la frunzele alunecoase de pe drum.",
+                "en": "Watch out for slippery leaves on the path."
+              }
+            },
+            {
+              "name": "Bike Return at the Harbor",
+              "tip_5lang": {
+                "de": "Geben Sie das nasse Equipment zügig ab.",
+                "hu": "Adja le mielőbb a vizes felszerelést.",
+                "ro": "Predați rapid echipamentul umed.",
+                "en": "Return the wet equipment promptly."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie plötzliches Bremsen auf nassem Asphalt.",
+              "Wasserdichte Packtaschen schützen Ihre Kamera und Wertsachen.",
+              "Die Strecke nach Jenle ist exponiert, Windjacke einplanen.",
+              "Prüfen Sie vorab, ob der Verleih bei Regen geöffnet hat."
+            ],
+            "hu": [
+              "Kerülje a hirtelen fékezést a vizes aszfalton.",
+              "Vízálló táska ajánlott az értékek védelmére.",
+              "A Jenle felé vezető út szeles lehet, széldzseki szükséges.",
+              "Ellenőrizze, hogy a kölcsönző nyitva tart-e esőben."
+            ],
+            "ro": [
+              "Evitați frânarea bruscă pe asfaltul umed.",
+              "Genzile impermeabile vă protejează obiectele de valoare.",
+              "Drumul spre Jenle este expus, planificați o jachetă de vânt.",
+              "Verificați dacă centrul de închirieri este deschis pe ploaie."
+            ],
+            "en": [
+              "Avoid sudden braking on wet asphalt.",
+              "Waterproof panniers protect your valuables and camera.",
+              "The route to Jenle is exposed, bring a windbreaker.",
+              "Check in advance if the bike rental is open during rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Radtour erfordert warme Schichten, startet aber herrlich frisch am Hafen. Wir besuchen die stillen Kirchen von Skive und Resen, während die Sonne tief am Horizont steht. Die längere Fahrt nach Jenle wird durch die klare Luft und die weite Aussicht belohnt. Nach einem aufwärmenden Lunch im Museum radeln wir durch den Krabbesholm-Wald zurück, wo die Bäume im Winterlicht silbrig glänzen.",
+            "hu": "A téli biciklitúra réteges öltözetet igényel, de frissítően indul a kikötőben. Meglátogatjuk Skive és Resen csendes templomait, miközben a nap alacsonyan jár. A Jenle felé tartó hosszabb utat a tiszta levegő és a tágas kilátás teszi széppé. Egy melengető ebéd után az erdőn át tekerünk vissza, ahol a fák ezüstösen csillognak a téli fényben.",
+            "ro": "O tură cu bicicleta iarna necesită straturi calde, dar începe revigorant în port. Vizităm bisericile liniștite din Skive și Resen în timp ce soarele stă jos la orizont. Drumul mai lung spre Jenle este răsplătit de aerul curat și priveliștile largi. După un prânz cald la muzeu, pedalăm înapoi prin pădurea Krabbesholm, unde copacii strălucesc argintiu în lumina iernii.",
+            "en": "A winter bike tour requires warm layers but starts refreshingly at the harbor. We visit the quiet churches of Skive and Resen while the sun stays low on the horizon. The longer ride to Jenle is rewarded by crisp air and wide views. After a warming lunch at the museum, we cycle back through Krabbesholm Forest, where the trees shine silvery in the winter light."
+          },
+          "stops": [
+            {
+              "name": "Start: Bike Rental at the Harbor",
+              "tip_5lang": {
+                "de": "Handschuhe sind bei diesem Wind Pflicht.",
+                "hu": "A kesztyű kötelező ebben a szélben.",
+                "ro": "Mănușile sunt obligatorii pe acest vânt.",
+                "en": "Gloves are mandatory in this wind."
+              }
+            },
+            {
+              "name": "Vor Frue Church",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp zum Aufwärmen der Finger.",
+                "hu": "Rövid megálló az ujjak felmelegítésére.",
+                "ro": "Un scurt popas pentru a vă încălzi mâinile.",
+                "en": "A short stop to warm up your fingers."
+              }
+            },
+            {
+              "name": "Resen Church",
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick über das Land.",
+                "hu": "Élvezze a tágas kilátást a tájra.",
+                "ro": "Bucurați-vă de vederea largă asupra peisajului.",
+                "en": "Enjoy the wide view over the countryside."
+              }
+            },
+            {
+              "name": "Jenle - The Aakjær Museum",
+              "tip_5lang": {
+                "de": "Planen Sie genug Zeit zum Auftauen ein.",
+                "hu": "Tervezzen elég időt a felmelegedésre.",
+                "ro": "Planificați suficient timp pentru a vă încălzi.",
+                "en": "Plan enough time to thaw out inside."
+              }
+            },
+            {
+              "name": "Lunch Break at Jenle",
+              "tip_5lang": {
+                "de": "Probieren Sie eine heiße Suppe.",
+                "hu": "Kóstoljon meg egy forró levest.",
+                "ro": "Încercați o supă fierbinte.",
+                "en": "Try a hot soup to boost your energy."
+              }
+            },
+            {
+              "name": "Krabbesholm Forest",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stellen im Schatten.",
+                "hu": "Vigyázzon a jeges foltokra az árnyékban.",
+                "ro": "Atenție la porțiunile înghețate la umbră.",
+                "en": "Watch out for icy patches in shaded areas."
+              }
+            },
+            {
+              "name": "Bike Return at the Harbor",
+              "tip_5lang": {
+                "de": "Geben Sie das Rad vor 16 Uhr zurück.",
+                "hu": "Adja le a biciklit 16 óra előtt.",
+                "ro": "Predați bicicleta înainte de ora 16:00.",
+                "en": "Return the bike before 4 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine winddichte Hose und Thermosocken.",
+              "Die Lichtverhältnisse ändern sich ab 15 Uhr drastisch.",
+              "Prüfen Sie den Reifendruck für besseren Grip bei Kälte.",
+              "Jenle hat im Winter eingeschränkte Öffnungszeiten."
+            ],
+            "hu": [
+              "Viseljen szélálló nadrágot és termozoknit.",
+              "A fényviszonyok 15 óra után hirtelen megváltoznak.",
+              "Ellenőrizze a guminyomást a jobb tapadásért.",
+              "Jenle télen korlátozottan tart nyitva."
+            ],
+            "ro": [
+              "Purtați pantaloni rezistenți la vânt și șosete termice.",
+              "Condițiile de lumină se schimbă drastic după ora 15:00.",
+              "Verificați presiunea în anvelope pentru aderență mai bună.",
+              "Jenle are program limitat în timpul iernii."
+            ],
+            "en": [
+              "Wear windproof trousers and thermal socks.",
+              "Light conditions change drastically after 3 PM.",
+              "Check tire pressure for better grip in the cold.",
+              "Jenle has limited opening hours in winter."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -962,6 +1344,188 @@
         "en": [
           "Parking fees may apply in Denmark, have coins or a parking app ready. The country roads are well-maintained, but watch out for agricultural vehicles. Plan buffer time for traffic, especially on Friday afternoons."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist die Fahrt zur Burg Spøttrup auch bei Regen angenehm. Die massive Festung wirkt bei grauem Himmel besonders mittelalterlich und bietet im Inneren Schutz. Nach einem kurzen Stopp am Spøttrup-See fahren wir zurück nach Skive für einen gemütlichen Lunch. Der Nachmittag gehört der Vor Frue Kirche und dem Museum, bevor wir den Tag mit der Fahrt zum Jenle Museum im Norden abschließen.",
+            "hu": "Autóval az út Spøttrup várához esőben is kényelmes. A hatalmas erőd szürke égbolt alatt még középkoribb hangulatot áraszt, és bent menedéket nyújt. Egy rövid tóparti megálló után visszatérünk Skive belvárosába egy kellemes ebédre. A délutánt a templom és a múzeum látogatásának szenteljük, majd észak felé, a Jenle Múzeumhoz autózunk.",
+            "ro": "Cu mașina, drumul spre castelul Spøttrup este plăcut chiar și pe ploaie. Fortăreața masivă pare și mai medievală sub cerul gri și oferă protecție în interior. După un scurt popas la lacul Spøttrup, revenim în Skive pentru un prânz relaxant. După-amiaza este dedicată bisericii Vor Frue și muzeului, înainte de a încheia ziua cu o vizită la Muzeul Jenle.",
+            "en": "By car, the drive to Spøttrup Castle is comfortable even in the rain. The massive fortress feels especially medieval under grey skies and offers shelter inside. After a short stop at Spøttrup Lake, we return to Skive for a cozy lunch. The afternoon is dedicated to Vor Frue Church and the museum before ending the day with a drive north to Jenle Museum."
+          },
+          "stops": [
+            {
+              "name": "Spøttrup Castle",
+              "tip_5lang": {
+                "de": "Erkunden Sie die Ausstellungen in den Sälen.",
+                "hu": "Fedezze fel a kiállításokat a termekben.",
+                "ro": "Explorați expozițiile din sălile castelului.",
+                "en": "Explore the indoor exhibits in the grand halls."
+              }
+            },
+            {
+              "name": "Walk at Spøttrup Lake",
+              "tip_5lang": {
+                "de": "Ein kurzer Blick vom Auto aus reicht bei Regen.",
+                "hu": "Esőben elég egy pillantás az autóból.",
+                "ro": "O privire rapidă din mașină este suficientă.",
+                "en": "A quick look from the car is enough in the rain."
+              }
+            },
+            {
+              "name": "Park in Skive & Lunch",
+              "tip_5lang": {
+                "de": "Nutzen Sie Parkhäuser nahe der Fußgängerzone.",
+                "hu": "Használja a sétálóutcához közeli parkolóházakat.",
+                "ro": "Folosiți parcările acoperite de lângă centru.",
+                "en": "Use covered parking near the pedestrian zone."
+              }
+            },
+            {
+              "name": "Vor Frue Church",
+              "tip_5lang": {
+                "de": "Parkplatz direkt an der Kirche vorhanden.",
+                "hu": "Közvetlen parkoló a templom mellett.",
+                "ro": "Parcare disponibilă chiar lângă biserică.",
+                "en": "Parking is available right next to the church."
+              }
+            },
+            {
+              "name": "Skive Museum",
+              "tip_5lang": {
+                "de": "Gut erreichbar und trocken.",
+                "hu": "Könnyen elérhető és száraz.",
+                "ro": "Ușor accesibil și ferit de ploaie.",
+                "en": "Easily accessible and dry indoors."
+              }
+            },
+            {
+              "name": "Jenle - The Aakjær Museum",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist nah am Eingang.",
+                "hu": "A parkoló közel van a bejárathoz.",
+                "ro": "Parcarea este aproape de intrare.",
+                "en": "The parking lot is close to the entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Landstraßen um Spøttrup können bei Regen rutschig sein.",
+              "Spøttrup Castle bietet Audioguides für drinnen an.",
+              "Im Skive Museum gibt es ein nettes Café für Regentage.",
+              "Scheibenwischer und Licht sollten in Dänemark immer an sein."
+            ],
+            "hu": [
+              "A Spøttrup környéki utak csúszósak lehetnek esőben.",
+              "Spøttrup várában audioguide segíti a benti nézelődést.",
+              "A Skive Múzeumban remek kávézó várja az eső elől menekülőket.",
+              "Dániában a fényszóró használata nappal is kötelező."
+            ],
+            "ro": [
+              "Drumurile rurale din jurul Spøttrup pot fi alunecoase.",
+              "Castelul Spøttrup oferă ghiduri audio pentru interior.",
+              "La Muzeul Skive există o cafenea plăcută pentru zilele ploioase.",
+              "Farurile trebuie să fie aprinse permanent în Danemarca."
+            ],
+            "en": [
+              "Rural roads around Spøttrup can be slippery in the rain.",
+              "Spøttrup Castle offers audio guides for the indoor areas.",
+              "Skive Museum has a nice cafe for rainy days.",
+              "Headlights must be on at all times while driving in Denmark."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein winterlicher Roadtrip beginnt an der Burg Spøttrup, die im Frost wie aus einem Märchen wirkt. Die Fahrt durch die schneebedeckte oder kahle dänische Landschaft bietet weite Horizonte. In Skive wärmen wir uns bei einem ausgiebigen Lunch auf, bevor wir die historische Vor Frue Kirche besuchen. Der Nachmittag im Museum ist gemütlich, und die Fahrt zum Jenle Museum im Norden bildet den stimmungsvollen Abschluss bei früher Dämmerung.",
+            "hu": "A téli autós túra Spøttrup váránál indul, ami a dérlepte tájban mesebeli látvány. Az út a dán vidék havas vagy fagyos tájain át tágas horizontokat nyit meg. Skive városában egy bőséges ebéd alatt melegszünk fel, majd meglátogatjuk a Vor Frue templomot. A délután a múzeumban telik, a napot pedig a Jenle Múzeumnál zárjuk a korai szürkületben.",
+            "ro": "O excursie de iarnă cu mașina începe la castelul Spøttrup, care pare desprins din povești în ger. Drumul prin peisajul danez înghețat oferă orizonturi largi. În Skive ne încălzim cu un prânz copios înainte de a vizita biserica istorică Vor Frue. După-amiaza la muzeu este primitoare, iar drumul spre Jenle încheie ziua în amurgul timpuriu.",
+            "en": "A winter road trip starts at Spøttrup Castle, which looks like a fairytale in the frost. The drive through the frozen Danish countryside offers wide horizons. In Skive, we warm up during a hearty lunch before visiting the historic Vor Frue Church. The afternoon at the museum is cozy, and the drive to Jenle Museum in the north concludes the day in the early twilight."
+          },
+          "stops": [
+            {
+              "name": "Spøttrup Castle",
+              "tip_5lang": {
+                "de": "Ziehen Sie sich warm an, die Steinmauern sind kalt.",
+                "hu": "Öltözzön melegen, a kőfalak ontják a hideget.",
+                "ro": "Îmbrăcați-vă gros, zidurile de piatră sunt reci.",
+                "en": "Dress warmly, the stone walls retain the cold."
+              }
+            },
+            {
+              "name": "Walk at Spøttrup Lake",
+              "tip_5lang": {
+                "de": "Der See ist im Winter oft teilweise zugefroren.",
+                "hu": "A tó télen gyakran részben befagy.",
+                "ro": "Lacul este adesea parțial înghețat iarna.",
+                "en": "The lake is often partially frozen in winter."
+              }
+            },
+            {
+              "name": "Park in Skive & Lunch",
+              "tip_5lang": {
+                "de": "Hinterlassen Sie keine Wertsachen sichtbar im Auto.",
+                "hu": "Ne hagyjon értéket látható helyen az autóban.",
+                "ro": "Nu lăsați obiecte de valoare la vedere în mașină.",
+                "en": "Do not leave valuables visible in the car."
+              }
+            },
+            {
+              "name": "Vor Frue Church",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe in der beheizten Kirche.",
+                "hu": "Élvezze a nyugalmat a fűtött templomban.",
+                "ro": "Bucurați-vă de liniște în biserica încălzită.",
+                "en": "Enjoy the peace in the heated church interior."
+              }
+            },
+            {
+              "name": "Skive Museum",
+              "tip_5lang": {
+                "de": "Idealer Ort für den späten Nachmittag.",
+                "hu": "Ideális hely a késő délutáni órákra.",
+                "ro": "Locul ideal pentru orele târziu de după-amiază.",
+                "en": "Ideal location for the late afternoon hours."
+              }
+            },
+            {
+              "name": "Jenle - The Aakjær Museum",
+              "tip_5lang": {
+                "de": "Die Anfahrt kann bei Schnee rutschig sein.",
+                "hu": "Hóban az odavezető út csúszós lehet.",
+                "ro": "Drumul de acces poate fi alunecos pe zăpadă.",
+                "en": "The access road can be slippery in snow."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in Dänemark bei diesen Bedingungen Pflicht.",
+              "Achten Sie auf Wildwechsel in der Dämmerung.",
+              "Viele Sehenswürdigkeiten schließen im Winter früher (ca. 16 Uhr).",
+              "Halten Sie die Tankfüllung für Notfälle über der Hälfte."
+            ],
+            "hu": [
+              "A téli gumi használata Dániában ilyenkor elengedhetetlen.",
+              "Vigyázzon a vadakra a szürkületi vezetésnél.",
+              "Sok látnivaló korábban (16 óra körül) bezár télen.",
+              "Tartsa az üzemanyagszintet félig töltve vészhelyzet esetére."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii în aceste condiții.",
+              "Atenție la animalele sălbatice în timpul amurgului.",
+              "Multe obiective se închid mai devreme iarna (aprox. ora 16:00).",
+              "Păstrați rezervorul de combustibil peste jumătate."
+            ],
+            "en": [
+              "Winter tires are essential in Denmark during these conditions.",
+              "Watch out for wildlife when driving during twilight.",
+              "Many attractions close earlier in winter (around 4 PM).",
+              "Keep your fuel tank more than half full for emergencies."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1230,6 +1794,170 @@
         "en": [
           "Download the 'Rejseplanen' app to track bus times in real time. Wave at the bus driver to make sure they stop. Remember that buses may run less frequently on weekends."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Ankunft am Busbahnhof leitet einen gut organisierten Tag ein. Ein kurzer Weg bringt uns zur Vor Frue Kirche, gefolgt vom Skive Museum, wo wir den Vormittag trocken verbringen. Mit dem Bus geht es mittags nach Krabbesholm, wo wir im Wald und in der Nähe des Wassers verweilen. Der Tag endet am Hafen, bevor uns der Bus bequem zurück zum Ausgangspunkt bringt.",
+            "hu": "A buszpályaudvarra érkezve egy jól szervezett nap veszi kezdetét. Rövid séta után a Vor Frue templomnál, majd a Skive Múzeumban töltjük a délelőttöt, elkerülve az esőt. Busszal megyünk tovább Krabbesholmba, ahol az erdő és a vízpart közelségét élvezzük. A nap a kikötőben zárul, ahonnan kényelmesen visszabuszozunk a kiindulópontra.",
+            "ro": "Sosirea la autogară marchează începutul unei zile bine organizate. Un scurt drum ne duce la Biserica Vor Frue, urmată de Muzeul Skive, unde petrecem dimineața la adăpost. Cu autobuzul mergem la prânz spre Krabbesholm, unde poposim lângă pădure și apă. Ziua se încheie în port, înainte ca autobuzul să ne ducă înapoi.",
+            "en": "Arrival at the bus station marks the start of a well-organized day. A short walk takes us to Vor Frue Church, followed by Skive Museum where we spend the morning dry. By bus, we head to Krabbesholm at noon, staying near the forest and water. The day ends at the harbor before the bus takes us comfortably back to the starting point."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Bus Station & Walk to Church",
+              "tip_5lang": {
+                "de": "Überdachte Wartebereiche am Bahnhof nutzen.",
+                "hu": "Használja a várótermet a pályaudvaron.",
+                "ro": "Folosiți zonele de așteptare acoperite din autogară.",
+                "en": "Use the covered waiting areas at the station."
+              }
+            },
+            {
+              "name": "Vor Frue Church",
+              "tip_5lang": {
+                "de": "Kurzer, aber nasser Weg vom Bahnhof.",
+                "hu": "Rövid, de esős út a pályaudvartól.",
+                "ro": "Drum scurt, dar expus ploii de la gară.",
+                "en": "Short but wet walk from the bus station."
+              }
+            },
+            {
+              "name": "Skive Museum",
+              "tip_5lang": {
+                "de": "Ideales Ziel bei Regen, nah an der Bushaltestelle.",
+                "hu": "Ideális célpont esőben, közel a buszmegállóhoz.",
+                "ro": "Destinație ideală pe ploaie, aproape de stație.",
+                "en": "Ideal destination in the rain, near the bus stop."
+              }
+            },
+            {
+              "name": "Bus to Krabbesholm & Walk",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Abfahrtszeiten per App.",
+                "hu": "Ellenőrizze az indulást az alkalmazásban.",
+                "ro": "Verificați orele de plecare în aplicație.",
+                "en": "Check departure times via the transit app."
+              }
+            },
+            {
+              "name": "Bus to Harbor & Wind Down",
+              "tip_5lang": {
+                "de": "Busse fahren regelmäßig zum Hafen.",
+                "hu": "A buszok rendszeresen járnak a kikötőbe.",
+                "ro": "Autobuzele circulă regulat spre port.",
+                "en": "Buses run regularly to the harbor area."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Rejseplanen-App ist sehr präzise bei Verspätungen.",
+              "Haltestellen haben oft nur begrenzte Unterstände.",
+              "Kaufen Sie ein Tagesticket für maximale Flexibilität.",
+              "Das Museum liegt günstig zwischen zwei Hauptlinien."
+            ],
+            "hu": [
+              "A Rejseplanen alkalmazás pontosan jelzi a késéseket.",
+              "A megállókban nem mindig van fedett várakozó.",
+              "Váltson napijegyet a maximális rugalmasságért.",
+              "A múzeum kedvező helyen, két fővonal között fekszik."
+            ],
+            "ro": [
+              "Aplicația Rejseplanen este foarte precisă pentru întârzieri.",
+              "Stațiile pot avea adăposturi limitate împotriva ploii.",
+              "Cumpărați un bilet de o zi pentru flexibilitate maximă.",
+              "Muzeul este situat convenabil între două linii principale."
+            ],
+            "en": [
+              "The Rejseplanen app is very accurate for delays.",
+              "Bus stops may have limited shelter from the rain.",
+              "Buy a day ticket for maximum flexibility.",
+              "The museum is conveniently located between two main lines."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen beginnt am Busbahnhof von Skive. Nach einem Besuch in der Vor Frue Kirche bietet das Museum einen warmen Rückzugsort. Die Busfahrt nach Krabbesholm zeigt uns die ruhige Winterlandschaft, wo wir einen kurzen Waldspaziergang unternehmen. Den Tag lassen wir am Hafen ausklingen, wobei wir die Fahrpläne genau im Blick behalten, um nicht in der Kälte zu warten.",
+            "hu": "Tiszta téli reggel indul Skive buszpályaudvarán. A Vor Frue templom után a múzeum kínál meleg pihenőt. A buszút Krabbesholmba feltárja a nyugodt téli tájat, ahol teszünk egy rövid erdei sétát. A napot a kikötőben zárjuk, szigorúan figyelve a menetrendet, hogy elkerüljük a hidegben való várakozást.",
+            "ro": "O dimineață senină de iarnă începe la autogara din Skive. După o vizită la Biserica Vor Frue, muzeul oferă un refugiu cald. Călătoria cu autobuzul spre Krabbesholm ne arată peisajul liniștit de iarnă, unde facem o scurtă plimbare. Încheiem ziua în port, urmărind atent orarul pentru a nu aștepta în frig.",
+            "en": "A crisp winter morning begins at Skive's bus station. After a visit to Vor Frue Church, the museum offers a warm retreat. The bus ride to Krabbesholm reveals the quiet winter landscape where we take a short forest walk. We conclude the day at the harbor, keeping a close eye on schedules to avoid waiting in the cold."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Bus Station & Walk to Church",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich im Bahnhofsgebäude auf.",
+                "hu": "Melegedjen fel a pályaudvar épületében.",
+                "ro": "Încălziți-vă în interiorul autogării.",
+                "en": "Warm up inside the station building."
+              }
+            },
+            {
+              "name": "Vor Frue Church",
+              "tip_5lang": {
+                "de": "Achten Sie auf geräumte Gehwege.",
+                "hu": "Figyeljen a letakarított járdákra.",
+                "ro": "Atenție la trotuarele deszăpezite.",
+                "en": "Look for cleared paths to the church."
+              }
+            },
+            {
+              "name": "Skive Museum",
+              "tip_5lang": {
+                "de": "Hinterlegen Sie nasse Kleidung im Schließfach.",
+                "hu": "Tegye a vizes ruhákat a megőrzőbe.",
+                "ro": "Lăsați hainele umede la vestiar.",
+                "en": "Store any damp clothing in a locker."
+              }
+            },
+            {
+              "name": "Bus to Krabbesholm & Walk",
+              "tip_5lang": {
+                "de": "Die Busse sind im Winter gut beheizt.",
+                "hu": "A buszok télen jól fűtöttek.",
+                "ro": "Autobuzele sunt bine încălzite iarna.",
+                "en": "Buses are well-heated during the winter."
+              }
+            },
+            {
+              "name": "Bus to Harbor & Wind Down",
+              "tip_5lang": {
+                "de": "Letzte Busse fahren oft gegen 17-18 Uhr.",
+                "hu": "Az utolsó buszok gyakran 17-18 óra körül indulnak.",
+                "ro": "Ultimele autobuze pleacă adesea în jurul orei 17-18.",
+                "en": "Last buses often depart around 5-6 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sich erst kurz vor Abfahrt an die Haltestelle.",
+              "Tragen Sie warme Schuhe für die Wege zwischen den Haltestellen.",
+              "Im Winter können Busse aufgrund von Glätte leicht verspätet sein.",
+              "Das Ticket kann oft direkt beim Fahrer kontaktlos bezahlt werden."
+            ],
+            "hu": [
+              "Csak röviddel az indulás előtt menjen ki a megállóba.",
+              "Viseljen meleg cipőt a megállók közötti gyalogláshoz.",
+              "Télen a buszok a csúszós utak miatt késhetnek.",
+              "A jegyért gyakran a sofőrnél is fizethet érintőkártyával."
+            ],
+            "ro": [
+              "Mergeți la stație doar cu puțin timp înainte de plecare.",
+              "Purtați încălțăminte călduroasă pentru drumul dintre stații.",
+              "Iarna, autobuzele pot avea întârzieri din cauza poleiului.",
+              "Biletul poate fi plătit adesea contactless direct la șofer."
+            ],
+            "en": [
+              "Head to the stop only shortly before departure.",
+              "Wear warm shoes for the walk between stops.",
+              "Buses may be slightly delayed in winter due to icy roads.",
+              "Tickets can often be paid contactless directly to the driver."
+            ]
+          }
+        }
       }
     }
   }

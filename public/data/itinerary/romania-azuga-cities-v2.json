@@ -362,6 +362,188 @@
           "Bring a reusable water bottle; the mountain air will make you thirsty.",
           "A light jacket is a good idea even in summer, as mountain weather can change quickly."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgendlicher Schutz in der Kirche vor dem Regen. Mittags einkehren im Zentrum. Der Nachmittag in den Weinkellern ist perfekt trocken. Abends kurzer Regenmarsch zur Sorica-Basis.",
+            "hu": "Reggeli menedék a templomban az eső elől. Ebéd a hangulatos központban. Délután a pezsgőpincészet ideális fedett program. Este frissítő séta a Sorica aljáig a szemerkélő esőben.",
+            "ro": "Refugiu de dimineață în biserică. Prânz cald în centru. Vizita la cramele Rhein este perfectă pentru o după-amiază ploioasă. Seara se încheie la baza pârtiei Sorica, sub adăpost.",
+            "en": "Morning shelter at the church. Cozy lunch in the center. The wine cellars offer a perfect indoor afternoon. End the day with a wet but scenic walk to the base of the Sorica slope."
+          },
+          "stops": [
+            {
+              "name": "St. Elias Church",
+              "tip_5lang": {
+                "de": "Hinter dem Eingangsbereich trocken bleiben.",
+                "hu": "Az előtérben várd meg a zápor végét.",
+                "ro": "Rămâneți în pridvor pentru a evita ploaia.",
+                "en": "Stay in the narthex to avoid the downpour."
+              }
+            },
+            {
+              "name": "Azuga Promenade",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Bäume als natürlichen Schirm.",
+                "hu": "A fák lombjai alatt kevésbé ázol el.",
+                "ro": "Folosiți arborii ca umbrelă naturală.",
+                "en": "Use the trees as natural cover from drizzle."
+              }
+            },
+            {
+              "name": "Rhein Wine Cellars",
+              "tip_5lang": {
+                "de": "Idealer Ort, um den Regen auszusitzen.",
+                "hu": "Tökéletes hely az eső kivárására.",
+                "ro": "Locul ideal pentru a aștepta oprirea ploii.",
+                "en": "Perfect spot to wait out the rain indoors."
+              }
+            },
+            {
+              "name": "Lunch in the city center",
+              "tip_5lang": {
+                "de": "Fragen Sie nach einem Platz am Fenster.",
+                "hu": "Kérj ablak melletti asztalt a kilátáshoz.",
+                "ro": "Cereți o masă lângă geam pentru priveliște.",
+                "en": "Ask for a window table to watch the rain."
+              }
+            },
+            {
+              "name": "Base of Sorica Ski Slope",
+              "tip_5lang": {
+                "de": "Die Cafés an der Basis sind überdacht.",
+                "hu": "A lenti kávézók fedett teraszai védenek.",
+                "ro": "Cafenelele de la bază au terase acoperite.",
+                "en": "The cafes at the base have covered seating."
+              }
+            },
+            {
+              "name": "Heroes' Monument on Sorica",
+              "tip_5lang": {
+                "de": "Vorsicht, der Pfad kann schlammig sein.",
+                "hu": "Vigyázat, az ösvény sárban csúszós lehet.",
+                "ro": "Atenție, poteca poate fi noroioasă.",
+                "en": "Careful, the path can be muddy when wet."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein fester Regenschirm ist bei Bergwind wichtig.",
+              "Wasserdichte Wanderschuhe sind auf den Wegen Pflicht.",
+              "Die Weinkeller bieten den besten Wetterschutz.",
+              "Bergnebel kann die Sicht am Denkmal einschränken."
+            ],
+            "hu": [
+              "Erős esernyőt hozz a hegyi szél miatt.",
+              "Vízálló túrabakancs kötelező a sárban.",
+              "A pezsgőpincészet a legjobb menekülőút esőben.",
+              "A köd miatt a kilátás fent korlátozott lehet."
+            ],
+            "ro": [
+              "O umbrelă rezistentă e necesară pentru vânt.",
+              "Încălțămintea impermeabilă e obligatorie pe poteci.",
+              "Cramele Rhein sunt cel mai bun refugiu interior.",
+              "Ceața poate limita vizibilitatea la monument."
+            ],
+            "en": [
+              "A sturdy umbrella is key for mountain winds.",
+              "Waterproof hiking boots are a must for mud.",
+              "The wine cellars are the best indoor backup.",
+              "Mountain fog might hide the view at the top."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frostiger Morgen an der Kirche. Wärmender Eintopf zum Mittag. Nachmittags Besichtigung der Weinkeller. Der Tag endet im Trubel der beleuchteten Sorica-Skipiste.",
+            "hu": "Deres reggel a templomnál. Melegítő leves ebédre. Délutáni pezsgőkóstoló a pincében. Este a kivilágított Sorica sípálya nyüzsgése vár a hegyoldalban.",
+            "ro": "Dimineață geroasă la biserică. Ciorbă caldă la prânz. Vizită la crame după-amiază. Seara se încheie în atmosfera veselă de pe pârtia Sorica.",
+            "en": "Frosty morning at the church. Hearty soup for lunch. Afternoon wine tasting in the cellars. End the day amidst the lively Sorica ski area energy."
+          },
+          "stops": [
+            {
+              "name": "St. Elias Church",
+              "tip_5lang": {
+                "de": "Genießen Sie die Wärme der Kerzen innen.",
+                "hu": "Élvezd a benti gyertyák melegét.",
+                "ro": "Bucurați-vă de căldura lumânărilor din interior.",
+                "en": "Enjoy the warmth of the candles inside."
+              }
+            },
+            {
+              "name": "Azuga Promenade",
+              "tip_5lang": {
+                "de": "Vorsicht vor vereisten Gehwegplatten.",
+                "hu": "Vigyázz a jeges, csúszós járdalapokra.",
+                "ro": "Atenție la dalele de pavaj înghețate.",
+                "en": "Watch out for icy patches on the pavement."
+              }
+            },
+            {
+              "name": "Rhein Wine Cellars",
+              "tip_5lang": {
+                "de": "Konstante Temperatur, angenehm warm.",
+                "hu": "Állandó hőmérséklet, kellemesen temperált.",
+                "ro": "Temperatură constantă, plăcut de cald.",
+                "en": "Constant temperature, pleasantly tempered."
+              }
+            },
+            {
+              "name": "Lunch in the city center",
+              "tip_5lang": {
+                "de": "Probieren Sie eine lokale heiße Suppe.",
+                "hu": "Próbálj ki egy forró helyi csorbát.",
+                "ro": "Încercați o ciorbă rădăuțeană fierbinte.",
+                "en": "Try a hot local 'ciorba' to warm up."
+              }
+            },
+            {
+              "name": "Base of Sorica Ski Slope",
+              "tip_5lang": {
+                "de": "Perfekt für einen heißen Tee im Schnee.",
+                "hu": "Tökéletes egy forró teához a hóban.",
+                "ro": "Perfect pentru un ceai fierbinte în zăpadă.",
+                "en": "Perfect for a hot tea in the snow."
+              }
+            },
+            {
+              "name": "Heroes' Monument on Sorica",
+              "tip_5lang": {
+                "de": "Warme Kleidung für den Wind am Hang nötig.",
+                "hu": "Réteges öltözet kell a szeles hegyoldalon.",
+                "ro": "Haine groase necesare pentru vântul de pe versant.",
+                "en": "Warm layers needed for the windy slope."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Winter bereits gegen 16:45 unter.",
+              "Tragen Sie Schuhe mit gutem Profil gegen Glätte.",
+              "Zwiebelprinzip bei der Kleidung ist ratsam.",
+              "Die Gehwege zum Bahnhof können vereist sein."
+            ],
+            "hu": [
+              "A nap télen már 16:45 körül lemegy.",
+              "Viselj recés talpú bakancsot a jegesedés ellen.",
+              "Réteges öltözködés javasolt a kinti részeken.",
+              "A vasútállomáshoz vezető út gyakran jeges."
+            ],
+            "ro": [
+              "Soarele apune în jur de ora 16:45 iarna.",
+              "Purtați bocanci cu talpă aderentă pentru gheață.",
+              "Îmbrăcați-vă în straturi pentru segmentele externe.",
+              "Drumul spre gară poate fi foarte alunecos."
+            ],
+            "en": [
+              "Sunset is early, around 16:45 in winter.",
+              "Wear boots with good grip for icy sections.",
+              "Layering your clothes is essential for the wind.",
+              "The paths to the station can be quite icy."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -742,6 +924,206 @@
           "Bring enough water and some high-energy snacks.",
           "Check the weather forecast before you set off."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regnerische Fahrt entlang der Promenade. Kurzer Halt an der Kirche. Langer Aufenthalt im Weinkeller zum Aufwärmen. Mittagsrast und nachmittags feuchte Fahrt durch den Ökopark.",
+            "hu": "Esős tekerés a sétányon. Rövid megálló a templomnál. Hosszabb pihenő a pincészetben, amíg eláll. Ebéd után vizes, de friss erdei utak az Ökoparkban.",
+            "ro": "Tură pe ploaie de-a lungul promenadei. Oprire scurtă la biserică. Refugiu prelungit la cramă. După prânz, pedalare prin aerul curat din parcul ecologic.",
+            "en": "Rainy ride along the promenade. Quick church stop. Long break at the winery to dry off. Afternoon pedal through the fresh, damp Ecological Park."
+          },
+          "stops": [
+            {
+              "name": "Azuga Promenade",
+              "tip_5lang": {
+                "de": "Vorsicht, nasses Laub ist rutschig.",
+                "hu": "Vigyázz, a vizes levelek csúsznak.",
+                "ro": "Atenție, frunzele ude sunt alunecoase.",
+                "en": "Caution, wet leaves are very slippery."
+              }
+            },
+            {
+              "name": "St. Elias Church",
+              "tip_5lang": {
+                "de": "Abstellplätze sind nicht überdacht.",
+                "hu": "A bringatárolók nem fedettek.",
+                "ro": "Suporturile de biciclete nu sunt acoperite.",
+                "en": "Bike racks are not covered here."
+              }
+            },
+            {
+              "name": "Rhein Wine Cellars",
+              "tip_5lang": {
+                "de": "Sicheres Parken im Innenhof möglich.",
+                "hu": "Biztonságos, védett parkolás az udvaron.",
+                "ro": "Parcare sigură și protejată în curte.",
+                "en": "Safe, sheltered bike parking in the yard."
+              }
+            },
+            {
+              "name": "Lunch",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Lokal mit Sicht auf die Räder.",
+                "hu": "Válassz helyet, rálátással a biciklikre.",
+                "ro": "Alegeți un loc cu vedere la biciclete.",
+                "en": "Pick a spot with a view of your bikes."
+              }
+            },
+            {
+              "name": "Base of Cazacu Ski Slope",
+              "tip_5lang": {
+                "de": "Der Boden ist hier oft sehr weich.",
+                "hu": "A talaj itt gyakran nagyon felázik.",
+                "ro": "Solul este adesea foarte moale aici.",
+                "en": "The ground is often very soft here."
+              }
+            },
+            {
+              "name": "Base of Sorica Ski Slope",
+              "tip_5lang": {
+                "de": "Vermeiden Sie Wiesenpassagen bei Regen.",
+                "hu": "Kerüld a füves szakaszokat esőben.",
+                "ro": "Evitați porțiunile cu iarbă pe ploaie.",
+                "en": "Avoid grassy sections during rain."
+              }
+            },
+            {
+              "name": "Ecological Park",
+              "tip_5lang": {
+                "de": "Schutzhütten bieten Unterstand.",
+                "hu": "Az esőbeállók védelmet nyújtanak.",
+                "ro": "Foișoarele oferă adăpost de ploaie.",
+                "en": "Gazebos provide shelter from rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind bei Regen in Azuga unerlässlich.",
+              "Vorsicht auf den Bahngleisen bei Nässe.",
+              "Tragen Sie auffällige, wasserdichte Kleidung.",
+              "Bremsweg auf nassem Asphalt deutlich länger."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen az esős utakon.",
+              "Vigyázz a vizes sínátjáróknál a városban.",
+              "Viselj feltűnő, vízálló esőruházatot.",
+              "A fékút vizes aszfalton jelentősen megnő."
+            ],
+            "ro": [
+              "Aripile sunt esențiale pe ploaie în Azuga.",
+              "Atenție la trecerile peste calea ferată pe ud.",
+              "Purtați haine impermeabile reflectorizante.",
+              "Distanța de frânare crește mult pe asfalt ud."
+            ],
+            "en": [
+              "Fenders are essential for rainy rides here.",
+              "Watch out for wet railway tracks in town.",
+              "Wear high-visibility waterproof gear.",
+              "Braking distance is much longer on wet roads."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eisige Fahrt durch die Stadt. Aufwärmen in der Kirche. Besichtigung der Keller als Kälteschutz. Nachmittags Abstecher zu den schneebedeckten Hängen und durch den Winterwald im Ökopark.",
+            "hu": "Jeges tekerés a városon át. Átmelegedés a templomban. Pincefelkeresés a hideg ellen. Délután havas utak a sípályák tövében és téli erdő az Ökoparkban.",
+            "ro": "Tură geroasă prin oraș. Încălzire în biserică. Vizită la crame pentru protecție contra frigului. După-amiază pe drumuri înzăpezite spre parcul ecologic.",
+            "en": "Icy ride through town. Warming up at the church. Cellar tour to escape the chill. Afternoon snowy paths near the slopes and winter woods in the park."
+          },
+          "stops": [
+            {
+              "name": "Azuga Promenade",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenen Pfützen.",
+                "hu": "Vigyázz a befagyott tócsákkal.",
+                "ro": "Atenție la bălțile înghețate.",
+                "en": "Watch out for frozen puddles."
+              }
+            },
+            {
+              "name": "St. Elias Church",
+              "tip_5lang": {
+                "de": "Schütteln Sie den Schnee vom Rad ab.",
+                "hu": "Rázd le a havat a bicikliről.",
+                "ro": "Scuturați zăpada de pe bicicletă.",
+                "en": "Shake the snow off your bike here."
+              }
+            },
+            {
+              "name": "Rhein Wine Cellars",
+              "tip_5lang": {
+                "de": "Drinnen ist es deutlich wärmer als draußen.",
+                "hu": "Bent sokkal melegebb van, mint kint.",
+                "ro": "În interior este mult mai cald decât afară.",
+                "en": "It's much warmer inside than outside."
+              }
+            },
+            {
+              "name": "Lunch",
+              "tip_5lang": {
+                "de": "Heiße Getränke füllen die Reserven auf.",
+                "hu": "A forró italok visszahozzák az erőt.",
+                "ro": "Băuturile fierbinți vă redau energia.",
+                "en": "Hot drinks will restore your energy."
+              }
+            },
+            {
+              "name": "Base of Cazacu Ski Slope",
+              "tip_5lang": {
+                "de": "Festgefahrener Schnee ist gut befahrbar.",
+                "hu": "A letaposott hó jól tekerhető.",
+                "ro": "Zăpada bătătorită e bună pentru pedalat.",
+                "en": "Packed snow is actually good for riding."
+              }
+            },
+            {
+              "name": "Base of Sorica Ski Slope",
+              "tip_5lang": {
+                "de": "Vorsicht vor Skifahrern am Rand.",
+                "hu": "Vigyázz a széleken lévő síelőkre.",
+                "ro": "Atenție la schiorii de pe margine.",
+                "en": "Watch out for skiers near the edges."
+              }
+            },
+            {
+              "name": "Ecological Park",
+              "tip_5lang": {
+                "de": "Magische Winterlandschaft, aber kalt.",
+                "hu": "Varázslatos téli táj, de fagyos.",
+                "ro": "Peisaj de iarnă magic, dar geros.",
+                "en": "Magical winter landscape, but freezing."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Handschuhe sind absolut überlebenswichtig.",
+              "E-Bike-Akkus entladen sich bei Kälte schneller.",
+              "Reifendruck leicht senken für mehr Grip im Schnee.",
+              "Vermeiden Sie spätes Fahren ohne Licht."
+            ],
+            "hu": [
+              "A meleg kesztyű életmentő a menetszélben.",
+              "Az e-bike akkuk gyorsabban merülnek hidegben.",
+              "Engedj kicsit a keréknyomásból a tapadásért.",
+              "Kerüld a késői tekerést lámpa nélkül."
+            ],
+            "ro": [
+              "Mănușile groase sunt vitale pe bicicletă.",
+              "Bateriile e-bike se descarcă rapid la ger.",
+              "Scădeți presiunea în pneuri pentru aderență.",
+              "Evitați pedalatul târziu fără lumini bune."
+            ],
+            "en": [
+              "Warm gloves are vital for the wind chill.",
+              "E-bike batteries drain faster in the cold.",
+              "Lower tire pressure slightly for better grip.",
+              "Avoid riding late without proper lights."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1098,6 +1480,188 @@
           "A car gives you the flexibility to visit nearby viewpoints as well.",
           "In winter, be mindful of road conditions; snow chains may be required."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Bequeme Fahrt durch das neblige Azuga. Kurze Stopps im Zentrum und an der Kirche. Ausgiebige Kellertour im Trockenen. Nachmittags Fahrt zum Sorica-Denkmal trotz Regen.",
+            "hu": "Kényelmes autózás a ködös Azugában. Rövid megállók a központban és a templomnál. Alapos pincetúra szárazon. Délutáni gurulás a Sorica emlékműhöz az esőben.",
+            "ro": "Drum confortabil prin Azuga cețoasă. Opriri scurte în centru și la biserică. Vizită lungă la cramă la adăpost. Seara, urcare cu mașina spre monumentul Sorica.",
+            "en": "Comfortable drive through misty Azuga. Quick stops in the center and church. Extensive cellar tour indoors. Afternoon drive to the Sorica monument despite the rain."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Azuga Town Center",
+              "tip_5lang": {
+                "de": "Parkplätze direkt vor den Cafés nutzen.",
+                "hu": "Használd a kávézók előtti parkolókat.",
+                "ro": "Folosiți parcările din fața cafenelelor.",
+                "en": "Use the parking spots right by the cafes."
+              }
+            },
+            {
+              "name": "St. Elias Church",
+              "tip_5lang": {
+                "de": "Vorsicht beim Aussteigen, Pfützen möglich.",
+                "hu": "Vigyázz kiszálláskor a tócsákra.",
+                "ro": "Atenție la bălți la coborârea din mașină.",
+                "en": "Watch for puddles when getting out."
+              }
+            },
+            {
+              "name": "Rhein Wine Cellars",
+              "tip_5lang": {
+                "de": "Großer Parkplatz direkt am Eingang.",
+                "hu": "Nagy parkoló közvetlenül a bejáratnál.",
+                "ro": "Parcare mare chiar la intrare.",
+                "en": "Large parking lot right at the entrance."
+              }
+            },
+            {
+              "name": "Cluster 2: Sorica Ski Area",
+              "tip_5lang": {
+                "de": "Bei Regen ist meist viel Platz frei.",
+                "hu": "Esőben általában sok a szabad hely.",
+                "ro": "Pe ploaie sunt de obicei multe locuri libere.",
+                "en": "Plenty of parking usually available in rain."
+              }
+            },
+            {
+              "name": "Heroes' Monument on Sorica",
+              "tip_5lang": {
+                "de": "Sicht kann durch Wolken stark getrübt sein.",
+                "hu": "A felhők miatt a kilátás minimális lehet.",
+                "ro": "Vizibilitatea poate fi redusă de nori.",
+                "en": "Clouds might block the panoramic view."
+              }
+            },
+            {
+              "name": "Late Lunch/Snack at the Slope Base",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den Regen.",
+                "hu": "Élvezd az esős tájat a meleg kocsiból.",
+                "ro": "Bucurați-vă de ploaie din interiorul cald.",
+                "en": "Enjoy the rainy view from the warmth."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vorsicht vor Aquaplaning auf der DN1.",
+              "Nebelscheinwerfer im Prahova-Tal oft nötig.",
+              "Regenschirm griffbereit im Auto halten.",
+              "Die Bergstraße zur Sorica kann rutschig sein."
+            ],
+            "hu": [
+              "Vigyázz a felfutó vízre a DN1-es úton.",
+              "A ködlámpa gyakran kell a Prahova-völgyben.",
+              "Az esernyőt tartsd az utastérben, kéznél.",
+              "A Sorica felé vezető út csúszós lehet."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe DN1.",
+              "Proiectoarele de ceață sunt des necesare.",
+              "Țineți umbrela la îndemână în mașină.",
+              "Drumul spre Sorica poate fi alunecos."
+            ],
+            "en": [
+              "Watch out for aquaplaning on the DN1 road.",
+              "Fog lights are often needed in Prahova Valley.",
+              "Keep your umbrella handy in the cabin.",
+              "The mountain road to Sorica can be slick."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Sichere Winterfahrt durch das verschneite Azuga. Stopp an der Kirche und Besuch der Weinkeller. Nachmittags direktes Vorfahren an das belebte Sorica-Skigebiet zum Winterzauber.",
+            "hu": "Biztonságos téli autózás a havas Azugában. Megálló a templomnál és pincelátogatás. Délután közvetlen parkolás a népszerű Sorica síterepnél a téli hangulatért.",
+            "ro": "Drum de iarnă sigur prin Azuga înzăpezită. Oprire la biserică și vizită la crame. După-amiază, parcare direct la pârtia Sorica pentru atmosfera de iarnă.",
+            "en": "Safe winter drive through snowy Azuga. Stop at the church and wine cellars. Afternoon parking right by the busy Sorica ski area for some winter magic."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Azuga Town Center",
+              "tip_5lang": {
+                "de": "Parkplätze könnten eingeschneit sein.",
+                "hu": "A parkolók néhol havasak lehetnek.",
+                "ro": "Parcările pot fi parțial înzăpezite.",
+                "en": "Parking spots might be partly snowed in."
+              }
+            },
+            {
+              "name": "St. Elias Church",
+              "tip_5lang": {
+                "de": "Vorsicht vor Eis unter dem Neuschnee.",
+                "hu": "Vigyázz a hó alatti jégre a megállónál.",
+                "ro": "Atenție la gheața de sub zăpada proaspătă.",
+                "en": "Watch for ice under the fresh snow."
+              }
+            },
+            {
+              "name": "Rhein Wine Cellars",
+              "tip_5lang": {
+                "de": "Der Parkplatz wird regelmäßig geräumt.",
+                "hu": "A parkolót rendszeresen takarítják.",
+                "ro": "Parcarea este curățată cu regularitate.",
+                "en": "The parking lot is regularly cleared."
+              }
+            },
+            {
+              "name": "Cluster 2: Sorica Ski Area",
+              "tip_5lang": {
+                "de": "Am Wochenende sehr voll, früh anreisen.",
+                "hu": "Hétvégén nagy a tömeg, érkezz korán.",
+                "ro": "Foarte aglomerat în weekend, veniți devreme.",
+                "en": "Very crowded on weekends, arrive early."
+              }
+            },
+            {
+              "name": "Heroes' Monument on Sorica",
+              "tip_5lang": {
+                "de": "Nur mit Winterreifen und Profil anfahren.",
+                "hu": "Csak jó téli gumikkal indulj el felfelé.",
+                "ro": "Urcați doar cu anvelope de iarnă bune.",
+                "en": "Drive up only with good winter tires."
+              }
+            },
+            {
+              "name": "Late Lunch/Snack at the Slope Base",
+              "tip_5lang": {
+                "de": "Suchen Sie einen Parkplatz nah am Lokal.",
+                "hu": "Keress parkolót közel az étteremhez.",
+                "ro": "Căutați parcare aproape de restaurant.",
+                "en": "Find a parking spot close to the bistro."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in dieser Region Pflicht.",
+              "Schneeketten sollten im Kofferraum liegen.",
+              "Scheibenfrostschutz rechtzeitig auffüllen.",
+              "Vorsicht vor Räumfahrzeugen auf engen Straßen."
+            ],
+            "hu": [
+              "A téli gumi ezen a vidéken kötelező.",
+              "Hólánc legyen mindig a csomagtartóban.",
+              "Töltsd fel a fagyálló szélvédőmosót.",
+              "Vigyázz a hókotrókra a szűk utcákon."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii aici.",
+              "Lanțurile ar trebui să fie în portbagaj.",
+              "Completați lichidul de parbriz de iarnă.",
+              "Atenție la utilajele de deszăpezire pe străzi."
+            ],
+            "en": [
+              "Winter tires are mandatory in this region.",
+              "Snow chains should be kept in the trunk.",
+              "Refill winter windshield washer fluid.",
+              "Watch out for snowplows on narrow streets."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1430,6 +1994,170 @@
           "Keep an eye on the time for the last bus back to the valley.",
           "Small buses can be crowded during peak season, so be at the stop early."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ankunft am Bahnhof im Regen. Kurzer Fußweg zu den Kellern zum Schutz. Mittags im Zentrum aufwärmen. Nachmittags Bus oder Taxi zum Sorica-Gebiet nutzen.",
+            "hu": "Érkezés a vasútállomásra esőben. Rövid séta a közeli pincészethez menedékért. Ebéd a központban. Délután busz vagy taxi a Sorica sípályához.",
+            "ro": "Sosire la gară pe ploaie. Mers pe jos spre cramele din apropiere. Prânz în centru. După-amiază folosiți autobuzul spre zona Sorica.",
+            "en": "Arrival at the station in the rain. Short walk to the nearby cellars for shelter. Lunch in the center. Afternoon bus or taxi to the Sorica area."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Arrival at Azuga Train Station",
+              "tip_5lang": {
+                "de": "Im Wartesaal auf den Regen warten.",
+                "hu": "Várd meg a zápor végét a váróteremben.",
+                "ro": "Așteptați în gară până trece ploaia.",
+                "en": "Wait in the station hall for the rain to ease."
+              }
+            },
+            {
+              "name": "Rhein Wine Cellars",
+              "tip_5lang": {
+                "de": "Nur 5-10 Minuten Fußweg vom Bahnhof.",
+                "hu": "Csak 5-10 perc séta az állomástól.",
+                "ro": "Doar 5-10 minute de mers de la gară.",
+                "en": "Just a 5-10 minute walk from the station."
+              }
+            },
+            {
+              "name": "St. Elias Church",
+              "tip_5lang": {
+                "de": "Busstopp befindet sich in der Nähe.",
+                "hu": "A buszmegálló a közelben található.",
+                "ro": "Stația de autobuz este în apropiere.",
+                "en": "The bus stop is located nearby."
+              }
+            },
+            {
+              "name": "Cluster 2: Trip to Sorica Slope",
+              "tip_5lang": {
+                "de": "Taxis sind am Bahnhof meist verfügbar.",
+                "hu": "Taxik általában várakoznak az állomásnál.",
+                "ro": "Taxiurile sunt de obicei la gară.",
+                "en": "Taxis are usually waiting at the station."
+              }
+            },
+            {
+              "name": "Heroes' Monument and Panoramic View",
+              "tip_5lang": {
+                "de": "Der Fußweg ist bei Regen sehr rutschig.",
+                "hu": "A gyalogút esőben nagyon csúszik.",
+                "ro": "Poteca de picior e alunecoasă pe ploaie.",
+                "en": "The walking path is very slippery now."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Züge haben bei Unwetter oft Verspätung.",
+              "Lokalbusse fahren seltener bei starkem Regen.",
+              "Bahnhofsbereich hat wenig überdachte Zonen.",
+              "Taxi-Nummern vorab speichern."
+            ],
+            "hu": [
+              "A vonatok viharban gyakran késnek.",
+              "A helyi buszok ritkábban járnak esőben.",
+              "Az állomás környékén kevés a fedett rész.",
+              "Ments el előre helyi taxi-számokat."
+            ],
+            "ro": [
+              "Trenurile pot avea întârzieri pe ploaie.",
+              "Autobuzele locale circulă mai rar pe furtună.",
+              "Zona gării are puține spații acoperite.",
+              "Salvați numere de taxi locale în avans."
+            ],
+            "en": [
+              "Trains often have delays during storms.",
+              "Local buses might run less frequently now.",
+              "The station area has limited covered spots.",
+              "Save local taxi numbers in advance."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Verschneite Ankunft mit dem Zug. Kurzer Gang zu den Weinkellern. Nach dem Mittagessen im Zentrum Fahrt mit dem lokalen Bus zum belebten Skigebiet Sorica.",
+            "hu": "Havas érkezés vonattal. Rövid séta a meleg pincészethez. Ebéd után a központból helyi busszal utazás a nyüzsgő Sorica sípályához.",
+            "ro": "Sosire în gară prin zăpadă. Mers scurt spre cramele calde. După prânz, deplasare cu autobuzul local spre pârtia Sorica.",
+            "en": "Snowy arrival by train. Short walk to the warm wine cellars. After lunch in the center, take the local bus to the lively Sorica ski slopes."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Arrival at Azuga Train Station",
+              "tip_5lang": {
+                "de": "Vorsicht vor glatten Bahnsteigen.",
+                "hu": "Vigyázz a jeges peronokon.",
+                "ro": "Atenție la peroanele înghețate.",
+                "en": "Watch out for icy platforms."
+              }
+            },
+            {
+              "name": "Rhein Wine Cellars",
+              "tip_5lang": {
+                "de": "In der Kälte fühlt sich der Wein wärmer an.",
+                "hu": "A hideg után jól esik a benti kóstoló.",
+                "ro": "Degustarea din interior e perfectă acum.",
+                "en": "The indoor tasting feels great after the cold."
+              }
+            },
+            {
+              "name": "St. Elias Church",
+              "tip_5lang": {
+                "de": "Schnee auf den Treppen zur Kirche.",
+                "hu": "Hó lehet a templomlépcsőkön.",
+                "ro": "Zăpadă pe treptele bisericii.",
+                "en": "Snow might be on the church steps."
+              }
+            },
+            {
+              "name": "Cluster 2: Trip to Sorica Slope",
+              "tip_5lang": {
+                "de": "Busse zum Hang sind oft beheizt.",
+                "hu": "A sípályához menő buszok fűtöttek.",
+                "ro": "Autobuzele spre pârtie sunt încălzite.",
+                "en": "Buses to the slopes are usually heated."
+              }
+            },
+            {
+              "name": "Heroes' Monument and Panoramic View",
+              "tip_5lang": {
+                "de": "Stirnlampe für den frühen Rückweg nutzen.",
+                "hu": "Fejlámpa kell a korai sötétedés miatt.",
+                "ro": "Lanternă necesară pentru întoarcerea devreme.",
+                "en": "Headlamp needed for the early sunset."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Bahnhöfe sind im Winter sehr zugig.",
+              "Zugpläne bei Schneefall online prüfen.",
+              "Lokale Taxis nutzen Schneeketten.",
+              "Warme Schuhe für die Wartezeiten nötig."
+            ],
+            "hu": [
+              "A vasútállomás télen nagyon huzatos.",
+              "Hóesésben nézd meg online a menetrendet.",
+              "A helyi taxik hólánccal közlekednek.",
+              "Meleg cipő kell a várakozáshoz."
+            ],
+            "ro": [
+              "Gara este foarte expusă la curent iarna.",
+              "Verificați mersul trenurilor online pe ninsoare.",
+              "Taxiurile locale folosesc lanțuri de zăpadă.",
+              "Încălțăminte groasă necesară pentru așteptare."
+            ],
+            "en": [
+              "The station can be very drafty in winter.",
+              "Check train schedules online during snowfall.",
+              "Local taxis always use snow chains.",
+              "Warm shoes are vital for waiting periods."
+            ]
+          }
+        }
       }
     }
   }

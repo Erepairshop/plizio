@@ -386,6 +386,206 @@
           "The beaches are long; find a spot further from the main entrance for more tranquility.",
           "Many shops have a siesta in the afternoon, so plan your shopping accordingly."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens trotzen wir dem Regen im Baix la Mar, bevor wir in der Kirche und im Spielzeugmuseum Zuflucht suchen. Mittags erkunden wir die Burg unter dem Regenschirm. Nachmittags bietet der Hafen eine raue, maritime Atmosphäre, gefolgt von einem Strandspaziergang im Regenmantel. Abends genießen wir die lokale Küche in einem gemütlichen Restaurant am Hafen, während die Tropfen ans Fenster klopfen.",
+            "hu": "Reggel a Baix la Mar színes házaival dacolunk az esővel, majd a templomban és a Játékmúzeumban lelünk fedett menedékre. Délután a vár falai között esernyővel kalandozunk. A kikötő és a tengerpart esőben is romantikus, a sós pára ilyenkor a legintenzívebb. Az estét a kikötő egyik hangulatos éttermében zárjuk, hallgatva a tenger morajlását és az eső kopogását az ablakon.",
+            "ro": "Dimineața înfruntăm ploaia în cartierul Baix la Mar, apoi ne adăpostim în biserică și la Muzeul Jucăriilor. La prânz explorăm castelul sub umbrelă. După-amiaza, portul oferă o atmosferă maritimă autentică, urmată de o plimbare pe plajă în pelerină. Seara ne bucurăm de gastronomia locală într-un restaurant primitor din zona portului, în timp ce stropii de ploaie bat în ferestre.",
+            "en": "In the morning, we brave the rain in Baix la Mar before finding shelter in the church and Toy Museum. At noon, we explore the castle under an umbrella. In the afternoon, the port offers a raw maritime atmosphere, followed by a beach walk in raincoats. In the evening, we enjoy local cuisine in a cozy harbor restaurant, listening to the rain tapping on the windows."
+          },
+          "stops": [
+            {
+              "name": "Baix la Mar Quarter",
+              "tip_5lang": {
+                "de": "Die bunten Fassaden leuchten auch bei grauem Himmel wunderschön.",
+                "hu": "A színes homlokzatok szürke égbolt alatt is vidám látványt nyújtanak.",
+                "ro": "Fațadele colorate strălucesc frumos chiar și sub un cer cenușiu.",
+                "en": "The colorful facades shine beautifully even under gray skies."
+              }
+            },
+            {
+              "name": "Church of the Assumption",
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um einen heftigen Regenschauer trocken abzuwarten.",
+                "hu": "Tökéletes helyszín egy intenzívebb zápor száraz megvárásához.",
+                "ro": "Un loc perfect pentru a aștepta trecerea unei ploi torențiale.",
+                "en": "A perfect place to wait out a heavy rain shower in the dry."
+              }
+            },
+            {
+              "name": "Castillo de Dénia",
+              "tip_5lang": {
+                "de": "Vorsicht auf den alten Steinstufen, sie können bei Nässe sehr rutschig sein.",
+                "hu": "Vigyázat a régi kőlépcsőkkel, vizesen nagyon csúszósak lehetnek.",
+                "ro": "Atenție la treptele vechi de piatră, pot fi foarte alunecoase când sunt ude.",
+                "en": "Careful on the old stone steps; they can be very slippery when wet."
+              }
+            },
+            {
+              "name": "Toy Museum",
+              "tip_5lang": {
+                "de": "Das ideale Indoor-Programm; der Eingang befindet sich im alten Bahnhof.",
+                "hu": "Ideális beltéri program; a bejárat a régi vasútállomás épületében van.",
+                "ro": "Programul ideal de interior; intrarea este în vechea gară.",
+                "en": "The ideal indoor activity; the entrance is in the old railway station."
+              }
+            },
+            {
+              "name": "Port of Dénia & Fish Market",
+              "tip_5lang": {
+                "de": "Beobachten Sie die Fischerboote bequem von einem der überdachten Cafés aus.",
+                "hu": "Figyelje a halászhajókat kényelmesen az egyik fedett kávézóból.",
+                "ro": "Urmăriți bărcile de pescuit din confortul unei cafenele acoperite.",
+                "en": "Watch the fishing boats comfortably from one of the covered cafes."
+              }
+            },
+            {
+              "name": "Playa de las Marinas",
+              "tip_5lang": {
+                "de": "Ein stürmisches Meer bietet eine beeindruckende Kulisse für Fotos.",
+                "hu": "A viharos tenger lenyűgöző látványt és hátteret nyújt a fotókhoz.",
+                "ro": "Marea agitată oferă un cadru impresionant pentru fotografii.",
+                "en": "A stormy sea provides an impressive backdrop for photos."
+              }
+            },
+            {
+              "name": "Dinner in the Port Area",
+              "tip_5lang": {
+                "de": "Genießen Sie den Klang des Regens bei einem lokalen Wein und Arroz a banda.",
+                "hu": "Élvezze az eső kopogását egy pohár helyi bor és Arroz a banda mellett.",
+                "ro": "Bucurați-vă de sunetul ploii cu un vin local și Arroz a banda.",
+                "en": "Enjoy the sound of rain with local wine and Arroz a banda."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie den Tunnel unter der Burg als schnelle, trockene Abkürzung.",
+              "Wasserfeste Schuhe sind für die Kopfsteinpflastergassen unerlässlich.",
+              "Die Markthalle (Mercado Municipal) ist ein toller, trockener Ort für Snacks.",
+              "Planen Sie mehr Zeit für das Spielzeugmuseum ein, wenn es draußen schüttet."
+            ],
+            "hu": [
+              "Használja a vár alatti alagutat gyors és száraz átjáróként a városrészek közt.",
+              "A macskaköves utcákon elengedhetetlen a vízálló, tapadó talpú cipő.",
+              "A központi piac (Mercado Municipal) remek fedett hely a helyi ízekhez.",
+              "Ha nagyon esik, töltsön több időt a Játékmúzeum érdekes gyűjteményeivel."
+            ],
+            "ro": [
+              "Folosiți tunelul de sub castel ca scurtătură rapidă și uscată.",
+              "Încălțămintea impermeabilă este esențială pentru străzile pietruite.",
+              "Piața centrală (Mercado Municipal) este un loc uscat excelent pentru gustări.",
+              "Dacă plouă tare, acordați mai mult timp Muzeului Jucăriilor."
+            ],
+            "en": [
+              "Use the tunnel under the castle as a quick, dry shortcut between districts.",
+              "Waterproof shoes are essential for the slippery cobblestone streets.",
+              "The municipal market (Mercado Municipal) is a great dry spot for local snacks.",
+              "Spend extra time at the Toy Museum if the downpour intensifies outdoors."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen in Dénia ist mild und klar, perfekt für einen Spaziergang durch Baix la Mar. Mittags wärmt uns die Sonne auf den Mauern der Burg. Nachmittags besuchen wir das Spielzeugmuseum und spazieren am ruhigen Strand entlang, bevor die Sonne früh untergeht. Den Abend lassen wir bei einem herzhaften Abendessen im Hafenviertel ausklingen, wo die Lichter der Stadt im Wasser glitzern.",
+            "hu": "A téli reggel Déniában enyhe és tiszta, tökéletes a Baix la Mar felfedezéséhez. Délben a vár falaikon élvezzük az alacsonyan járó nap melegét. Délután a Játékmúzeum után a csendes tengerparton sétálunk, mielőtt a nap korán lenyugszik a Montgó mögött. Az estét a kikötő fényeiben, egy tál gőzölgő helyi finomság mellett zárjuk.",
+            "ro": "Dimineața de iarnă în Dénia este blândă și senină, perfectă pentru o plimbare prin Baix la Mar. La prânz, soarele ne încălzește pe zidurile castelului. După-amiaza vizităm Muzeul Jucăriilor și ne plimbăm pe plaja liniștită înainte de apusul timpuriu. Încheiem seara cu o cină consistentă în zona portului, unde luminile orașului sclipesc în apă.",
+            "en": "Winter mornings in Dénia are mild and clear, perfect for a stroll through Baix la Mar. At noon, the sun warms us on the castle walls. In the afternoon, we visit the Toy Museum and walk along the quiet beach before the early sunset. We end the evening with a hearty dinner in the port district, where the city lights glitter in the water."
+          },
+          "stops": [
+            {
+              "name": "Baix la Mar Quarter",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe in den Gassen ohne die sommerlichen Touristenmassen.",
+                "hu": "Élvezze a sikátorok nyugalmát a nyári turistatömeg nélkül.",
+                "ro": "Bucurați-vă de liniștea străzilor fără mulțimile de turiști din vară.",
+                "en": "Enjoy the tranquility of the alleys without the summer tourist crowds."
+              }
+            },
+            {
+              "name": "Church of the Assumption",
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten die Wärme der Mittagssonne im Inneren.",
+                "hu": "A vastag falak jól megtartják a déli napsütés melegét odabent.",
+                "ro": "Zidurile groase mențin bine căldura soarelui de la prânz în interior.",
+                "en": "The thick walls retain the midday sun's warmth well inside."
+              }
+            },
+            {
+              "name": "Castillo de Dénia",
+              "tip_5lang": {
+                "de": "Bester Zeitpunkt für Fotos; das Winterlicht ist besonders weich und klar.",
+                "hu": "A legjobb időpont fotózáshoz; a téli fények lágyak és tiszták.",
+                "ro": "Cel mai bun moment pentru fotografii; lumina de iarnă este moale și clară.",
+                "en": "The best time for photos; winter light is particularly soft and clear."
+              }
+            },
+            {
+              "name": "Toy Museum",
+              "tip_5lang": {
+                "de": "Ein nostalgischer Rückblick auf die industrielle Geschichte der Stadt.",
+                "hu": "Nosztalgikus visszatekintés a város ipari és játékkészítő múltjára.",
+                "ro": "O privire nostalgică asupra istoriei industriale a orașului.",
+                "en": "A nostalgic look back at the city's industrial and toy-making history."
+              }
+            },
+            {
+              "name": "Port of Dénia & Fish Market",
+              "tip_5lang": {
+                "de": "Kaufen Sie frische rote Garnelen (Gamba Roja), eine lokale Winterspezialität.",
+                "hu": "Vásároljon friss vörös garnélát, ami a környék téli különlegessége.",
+                "ro": "Cumpărați creveți roșii proaspeți, o specialitate locală de iarnă.",
+                "en": "Buy fresh red prawns (Gamba Roja), a local winter specialty."
+              }
+            },
+            {
+              "name": "Playa de las Marinas",
+              "tip_5lang": {
+                "de": "Ideal für lange Spaziergänge, wenn der Strand fast menschenleer ist.",
+                "hu": "Ideális hosszú sétákhoz, amikor a strand szinte teljesen üres.",
+                "ro": "Ideal pentru plimbări lungi când plaja este aproape pustie.",
+                "en": "Ideal for long walks when the beach is almost deserted."
+              }
+            },
+            {
+              "name": "Dinner in the Port Area",
+              "tip_5lang": {
+                "de": "Probieren Sie herzhafte Eintöpfe, die im Winter besonders gut schmecken.",
+                "hu": "Kóstolja meg a laktató egytálételeket, amik télen a legfinomabbak.",
+                "ro": "Gustați tocănițele consistente, care sunt cele mai bune iarna.",
+                "en": "Try the hearty stews that taste best during the winter months."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht gegen 17:45 Uhr unter; seien Sie rechtzeitig am Hafen.",
+              "Tragen Sie Zwiebelschichten; im Schatten kann es kühl werden.",
+              "Winter ist Erntezeit für Zitrusfrüchte; probieren Sie lokale Orangen.",
+              "Viele Chiringuitos haben zu, Cafés im Stadtzentrum sind jedoch belebt."
+            ],
+            "hu": [
+              "A nap 17:45 körül nyugszik, érdemes időben a kikötőbe érni a látványért.",
+              "Öltözzön rétegesen, mert az árnyékban hirtelen hűvös lehet a levegő.",
+              "Télen van a citrusfélék szezonja; kóstolja meg a környék híres narancsait.",
+              "A parti bárok zárva lehetnek, a belvárosi kávézók viszont ilyenkor pezsegnek."
+            ],
+            "ro": [
+              "Soarele apune în jur de 17:45; fiți în port la timp pentru priveliște.",
+              "Îmbrăcați-vă în straturi, deoarece la umbră poate deveni răcoare.",
+              "Iarna este sezonul citricelor; gustați portocalele locale faimoase.",
+              "Multe baruri de plajă sunt închise, dar cafenelele din centru sunt pline."
+            ],
+            "en": [
+              "Sunset is around 5:45 PM; be at the port in time for the view.",
+              "Dress in layers as it can get chilly quickly in the shade.",
+              "Winter is citrus season; try the famous local oranges from the region.",
+              "Beach bars may be closed, but city center cafes are very lively now."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -742,6 +942,188 @@
           "The coastal road can be very busy in summer, ride with foresight.",
           "Take advantage of the many cycle paths that Dénia has to offer."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen starten wir am Hafen und radeln vorsichtig entlang der Playa de las Marinas. Das Mittagessen bietet eine wohlverdiente Pause im Trockenen. Nachmittags erkunden wir die unteren Wege des Montgó, wo der Duft der nassen Pinien besonders intensiv ist. Wir beenden die Tour an der Burg und wärmen uns bei einem Drink im Baix la Mar auf.",
+            "hu": "Az eső ellenére a kikötőből indulunk, és óvatosan tekerünk a Playa de las Marinas mentén. Az ebédnél megpihenünk a fedett teraszon. Délután a Montgó alsó ösvényein kalandozunk, ahol az eső áztatta fenyők illata fantasztikus. A túrát a várnál zárjuk, majd egy itallal melegszünk fel a Baix la Mar negyedben.",
+            "ro": "În ciuda ploii, pornim din port și pedalăm cu atenție de-a lungul Playa de las Marinas. Prânzul oferă o pauză binemeritată la adăpost. După-amiaza explorăm potecile de la baza Montgó, unde mirosul pinilor uzi este intens. Încheiem turul la castel și ne încălzim cu o băutură în Baix la Mar.",
+            "en": "Despite the rain, we start at the port and cycle carefully along Playa de las Marinas. Lunch provides a well-deserved break in the dry. In the afternoon, we explore the lower paths of Montgó, where the scent of wet pines is intense. We end the tour at the castle and warm up with a drink in Baix la Mar."
+          },
+          "stops": [
+            {
+              "name": "Port of Dénia",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen, bevor Sie auf die nassen Straßen fahren.",
+                "hu": "Ellenőrizze a fékeket, mielőtt a vizes aszfaltra hajtana.",
+                "ro": "Verificați frânele înainte de a porni pe drumurile ude.",
+                "en": "Check your brakes before heading out onto the wet roads."
+              }
+            },
+            {
+              "name": "Ride along Playa de las Marinas",
+              "tip_5lang": {
+                "de": "Vermeiden Sie Pfützen; sie könnten tiefer sein, als sie aussehen.",
+                "hu": "Kerülje a tócsákat, mert mélyebbek lehetnek, mint aminek látszanak.",
+                "ro": "Evitați bălțile; ar putea fi mai adânci decât par.",
+                "en": "Avoid puddles; they could be deeper than they appear."
+              }
+            },
+            {
+              "name": "Lunch in Las Marinas",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Pause, um Ihre Regenbekleidung kurz zu lüften.",
+                "hu": "Használja ki az ebédszünetet a vizes ruhák rövid szárítására.",
+                "ro": "Folosiți pauza de prânz pentru a vă usca puțin hainele de ploaie.",
+                "en": "Use the lunch break to briefly dry off your rain gear."
+              }
+            },
+            {
+              "name": "Montgó Natural Park (lower area)",
+              "tip_5lang": {
+                "de": "Die Erdwege können schlammig sein; bleiben Sie auf den befestigten Pfaden.",
+                "hu": "A földutak sárosak lehetnek; maradjon a kövezett vagy aszfaltos ösvényeken.",
+                "ro": "Drumurile de pământ pot fi noroioase; rămâneți pe potecile pavate.",
+                "en": "Dirt paths can be muddy; stick to the paved or gravel trails."
+              }
+            },
+            {
+              "name": "Castillo de Dénia",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad an einem überdachten Ort in der Nähe des Eingangs ab.",
+                "hu": "Láncolja le a biciklit egy fedett helyen a bejárat közelében.",
+                "ro": "Parcați bicicleta într-un loc acoperit lângă intrare.",
+                "en": "Park your bike in a covered spot near the entrance."
+              }
+            },
+            {
+              "name": "Drink in Baix la Mar",
+              "tip_5lang": {
+                "de": "Ein heißer Tee oder Kaffee ist jetzt genau das Richtige.",
+                "hu": "Egy forró tea vagy kávé most a legjobb választás a túra után.",
+                "ro": "Un ceai sau o cafea fierbinte este exact ce trebuie acum.",
+                "en": "A hot tea or coffee is just the right choice after the ride."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Radwege können bei Regen durch Laub oder Schmutz rutschig sein.",
+              "Verwenden Sie Schutzbleche, um sich vor Spritzwasser zu schützen.",
+              "Gute Sichtbarkeit ist wichtig; schalten Sie auch tagsüber das Licht ein.",
+              "Die Hafenpromenade ist bei Nässe oft sehr glatt."
+            ],
+            "hu": [
+              "A kerékpárutak az esőben felázott levelek miatt csúszósak lehetnek.",
+              "Használjon sárvédőt, hogy megvédje magát a felcsapódó víztől.",
+              "A láthatóság fontos; kapcsolja be a lámpákat nappal is, ha esik.",
+              "A kikötői sétány burkolata vizesen rendkívül csúszós tud lenni."
+            ],
+            "ro": [
+              "Pistele de biciclete pot fi alunecoase din cauza frunzelor ude.",
+              "Folosiți apărători de noroi pentru a vă proteja de apă.",
+              "Vizibilitatea este importantă; aprindeți luminile chiar și ziua dacă plouă.",
+              "Pavajul de pe faleza portului este foarte alunecos când e ud."
+            ],
+            "en": [
+              "Bike paths can be slippery due to wet leaves or debris.",
+              "Use mudguards to protect yourself from road spray.",
+              "Visibility is key; turn on your lights even during the day if it rains.",
+              "The port promenade tiles are extremely slippery when wet."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein sonniger Wintertag ist ideal zum Radfahren. Wir starten am Hafen und genießen die frische Brise auf dem Weg zur Playa de las Marinas. Nach einem entspannten Mittagessen fordern wir uns am Montgó ein wenig heraus, wo die Temperaturen jetzt perfekt für Aufstiege sind. Die Tour endet mit einem Besuch der Burg und einem gemütlichen Drink im historischen Baix la Mar.",
+            "hu": "Egy napos téli nap ideális a biciklizéshez. A kikötőből indulunk, és élvezzük a friss szellőt a Playa de las Marinas felé. Egy nyugodt ebéd után a Montgó lankáin tesszük próbára magunkat, ahol a hőmérséklet most tökéletes a kaptatókhoz. A túrát a vár meglátogatása és egy kellemes ital zárja a történelmi Baix la Marban.",
+            "ro": "O zi însorită de iarnă este ideală pentru ciclism. Pornim din port și ne bucurăm de briza proaspătă spre Playa de las Marinas. După un prânz relaxat, ne provocăm pe pantele Montgó, unde temperaturile sunt perfecte pentru urcări. Turul se încheie cu o vizită la castel și o băutură plăcută în Baix la Mar.",
+            "en": "A sunny winter day is ideal for cycling. We start at the port and enjoy the fresh breeze on the way to Playa de las Marinas. After a relaxed lunch, we challenge ourselves on the slopes of Montgó, where temperatures are perfect for climbing. The tour ends with a visit to the castle and a pleasant drink in historical Baix la Mar."
+          },
+          "stops": [
+            {
+              "name": "Port of Dénia",
+              "tip_5lang": {
+                "de": "Die klare Winterluft bietet eine fantastische Sicht auf das Meer.",
+                "hu": "A tiszta téli levegőben fantasztikus kilátás nyílik a nyílt tengerre.",
+                "ro": "Aerul curat de iarnă oferă o vizibilitate fantastică spre mare.",
+                "en": "The clear winter air offers a fantastic view across the sea."
+              }
+            },
+            {
+              "name": "Ride along Playa de las Marinas",
+              "tip_5lang": {
+                "de": "Der Wind kann kühler sein als gedacht; tragen Sie eine Windjacke.",
+                "hu": "A szél hűvösebb lehet, mint gondolná; viseljen szélkabátot.",
+                "ro": "Vântul poate fi mai rece decât credeți; purtați o jachetă de vânt.",
+                "en": "The wind can be cooler than expected; wear a windbreaker."
+              }
+            },
+            {
+              "name": "Lunch in Las Marinas",
+              "tip_5lang": {
+                "de": "Suchen Sie sich einen Tisch in der prallen Sonne für natürliche Wärme.",
+                "hu": "Keressen egy asztalt a tűző napon a természetes melegért.",
+                "ro": "Căutați o masă direct în soare pentru căldură naturală.",
+                "en": "Find a table in direct sunlight for natural warmth."
+              }
+            },
+            {
+              "name": "Montgó Natural Park (lower area)",
+              "tip_5lang": {
+                "de": "Genießen Sie die blühenden Mandelbäume, falls Sie im Januar/Februar hier sind.",
+                "hu": "Csodálja meg a virágzó mandulafákat, ha januárban vagy februárban jár itt.",
+                "ro": "Admirați migdalii înfloriți dacă sunteți aici în ianuarie sau februarie.",
+                "en": "Enjoy the blooming almond trees if you are here in January or February."
+              }
+            },
+            {
+              "name": "Castillo de Dénia",
+              "tip_5lang": {
+                "de": "Die Burgmauern speichern tagsüber die Sonnenwärme.",
+                "hu": "A várfalak nappal jól tárolják és sugározzák a nap melegét.",
+                "ro": "Zidurile castelului înmagazinează căldura soarelui în timpul zilei.",
+                "en": "The castle walls store and radiate the sun's warmth during the day."
+              }
+            },
+            {
+              "name": "Drink in Baix la Mar",
+              "tip_5lang": {
+                "de": "Sobald die Sonne sinkt, sinken auch die Temperaturen rapide.",
+                "hu": "Amint a nap lebukik, a hőmérséklet is hirtelen csökkenni kezd.",
+                "ro": "De îndată ce soarele apune, temperaturile scad rapid.",
+                "en": "As soon as the sun dips, temperatures drop rapidly."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die UV-Strahlung ist auch im Winter stark; Sonnenschutz nicht vergessen.",
+              "Tragen Sie Handschuhe für die Abfahrten vom Montgó.",
+              "Die Tage sind kurz; planen Sie Ihre Rückkehr vor 18 Uhr ein.",
+              "Prüfen Sie den Reifendruck; kalte Luft lässt ihn leicht sinken."
+            ],
+            "hu": [
+              "Az UV-sugárzás télen is erős; ne felejtse el a fényvédőt.",
+              "Viseljen kesztyűt a Montgóról való gyorsabb leereszkedéshez.",
+              "A nappalok rövidek; tervezze úgy, hogy 18 óra előtt visszaérjen.",
+              "Ellenőrizze a guminyomást; a hideg levegőben könnyen csökkenhet."
+            ],
+            "ro": [
+              "Radiațiile UV sunt puternice și iarna; nu uitați protecția solară.",
+              "Purtați mănuși pentru coborârile mai rapide de pe Montgó.",
+              "Zilele sunt scurte; planificați revenirea înainte de ora 18:00.",
+              "Verificați presiunea în pneuri; aerul rece o poate face să scadă."
+            ],
+            "en": [
+              "UV radiation is strong even in winter; don't forget sunscreen.",
+              "Wear gloves for the faster descents from Montgó.",
+              "Days are short; plan your return journey before 6 PM.",
+              "Check tire pressure; cold air can cause it to drop slightly."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1122,6 +1504,206 @@
           "A car gives you the flexibility to discover the smaller, more remote coves and beaches.",
           "Pay attention to the blue zones (zona azul) for paid parking."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Auto ist heute unser bester Freund. Wir besuchen die Altstadt und die Burg zwischen den Schauern. Nachmittags fahren wir zum Montgó, wo die Wolken tief hängen und eine mystische Stimmung erzeugen. Der Tag endet am Strand und mit einem Blick auf den stürmischen Hafen, bevor wir uns in ein gemütliches Lokal zurückziehen.",
+            "hu": "Az autó ma a legjobb barátunk. A záporok között látogatjuk meg az óvárost és a várat. Délután a Montgóhoz autózunk, ahol az alacsonyan szálló felhők misztikus hangulatot árasztanak. A napot a tengerparton és a viharos kikötő látványával zárjuk, mielőtt egy barátságos étterembe vonulnánk vissza.",
+            "ro": "Mașina este cel mai bun prieten astăzi. Vizităm orașul vechi și castelul între reprizele de ploaie. După-amiaza conducem spre Montgó, unde norii joși creează o atmosferă mistică. Ziua se încheie la plajă și cu o privire spre portul agitat, înainte de a ne retrage într-un local primitor.",
+            "en": "The car is our best friend today. We visit the old town and the castle between showers. In the afternoon, we drive to Montgó, where the low-hanging clouds create a mystical atmosphere. The day ends at the beach and with a view of the stormy harbor before we retreat to a cozy venue."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Old Town & Church",
+              "tip_5lang": {
+                "de": "Parken Sie in der Tiefgarage im Zentrum, um trocken zu bleiben.",
+                "hu": "Parkoljon a központi mélygarázsban, hogy száraz maradjon.",
+                "ro": "Parcați în parcarea subterană centrală pentru a rămâne uscați.",
+                "en": "Park in the central underground garage to stay dry."
+              }
+            },
+            {
+              "name": "Church of the Assumption",
+              "tip_5lang": {
+                "de": "Kurzer Laufweg vom Auto zum Eingang; Regenschirm bereit halten.",
+                "hu": "Rövid séta az autótól a bejáratig; tartsa készenlétben az esernyőt.",
+                "ro": "Drum scurt de la mașină la intrare; țineți umbrela la îndemână.",
+                "en": "Short walk from the car to the entrance; keep your umbrella ready."
+              }
+            },
+            {
+              "name": "Baix la Mar Quarter",
+              "tip_5lang": {
+                "de": "Fahren Sie langsam durch die engen, nassen Gassen.",
+                "hu": "Hajtson lassan a szűk és vizes utcákon keresztül.",
+                "ro": "Conduceți încet prin străzile înguste și ude.",
+                "en": "Drive slowly through the narrow, wet streets."
+              }
+            },
+            {
+              "name": "Cluster 2: Castillo de Dénia",
+              "tip_5lang": {
+                "de": "Es gibt Parkmöglichkeiten direkt am Fuße des Burghügels.",
+                "hu": "Közvetlenül a várdomb lábánál is vannak parkolási lehetőségek.",
+                "ro": "Există locuri de parcare chiar la baza dealului castelului.",
+                "en": "There are parking options right at the foot of the castle hill."
+              }
+            },
+            {
+              "name": "Cluster 3: Montgó Natural Park",
+              "tip_5lang": {
+                "de": "Die Sicht kann eingeschränkt sein; fahren Sie mit Licht.",
+                "hu": "A látótávolság korlátozott lehet; vezessen felkapcsolt lámpákkal.",
+                "ro": "Vizibilitatea poate fi redusă; conduceți cu luminile aprinse.",
+                "en": "Visibility may be limited; drive with your lights on."
+              }
+            },
+            {
+              "name": "Cluster 4: Beach & Lunch",
+              "tip_5lang": {
+                "de": "Viele Restaurants am Strand haben eigene, befestigte Parkplätze.",
+                "hu": "A tengerparti éttermek közül soknak saját, szilárd burkolatú parkolója van.",
+                "ro": "Multe restaurante de pe plajă au parcări proprii pavate.",
+                "en": "Many beach restaurants have their own paved parking lots."
+              }
+            },
+            {
+              "name": "Sunset at the Port",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das Meer direkt aus dem warmen Auto.",
+                "hu": "Élvezze a kilátást a tengerre közvetlenül a meleg autóból.",
+                "ro": "Bucurați-vă de priveliștea mării direct din mașina caldă.",
+                "en": "Enjoy the view of the sea directly from the warm car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie das Parken unter Bäumen bei starkem Wind.",
+              "Achten Sie auf überflutete Straßenabschnitte in Strandnähe.",
+              "Die Sicht am Montgó kann durch Nebel stark beeinträchtigt sein.",
+              "Nutzen Sie die Parkhäuser 'La Via' oder 'Moll de la Pansa'."
+            ],
+            "hu": [
+              "Erős szél esetén kerülje a fák alatti parkolást.",
+              "Ügyeljen a tengerpart közeli utakon kialakuló vízbefutásokra.",
+              "A Montgónál a köd jelentősen ronthatja a látási viszonyokat.",
+              "Használja a 'La Via' vagy a 'Moll de la Pansa' parkolóházakat."
+            ],
+            "ro": [
+              "Evitați parcarea sub copaci în caz de vânt puternic.",
+              "Atenție la porțiunile de drum inundate de lângă plajă.",
+              "Vizibilitatea la Montgó poate fi afectată grav de ceață.",
+              "Folosiți parcările etajate 'La Via' sau 'Moll de la Pansa'."
+            ],
+            "en": [
+              "Avoid parking under trees if the wind is strong.",
+              "Watch out for flooded road sections near the beach.",
+              "Fog at Montgó can severely reduce visibility for drivers.",
+              "Use the 'La Via' or 'Moll de la Pansa' parking garages."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintertag mit dem Auto erlaubt uns, die gesamte Region zu erkunden. Von der Altstadt über die Burg bis hinauf zum Montgó genießen wir die weiten Panoramablicke. Nach einem sonnigen Mittagessen am Strand fahren wir zum Hafen, um den spektakulären Sonnenuntergang über dem Meer zu beobachten, bevor die kühle Nacht einbricht.",
+            "hu": "Egy tiszta téli napon az autóval az egész régiót kényelmesen bejárhatjuk. Az óvárostól a váron át egészen a Montgóig élvezzük a tágas panorámát. Egy napsütötte tengerparti ebéd után a kikötőbe autózunk, hogy megnézzük a látványos naplementét a tenger felett, mielőtt beállna a hűvös éjszaka.",
+            "ro": "O zi senină de iarnă cu mașina ne permite să explorăm întreaga regiune. De la orașul vechi la castel și până pe Montgó, ne bucurăm de panoramele vaste. După un prânz însorit pe plajă, conducem spre port pentru a vedea apusul spectaculos peste mare înainte de noaptea răcoroasă.",
+            "en": "A clear winter day by car allows us to explore the entire region comfortably. From the old town and castle up to Montgó, we enjoy the vast panoramic views. After a sunny beach lunch, we drive to the port to watch the spectacular sunset over the sea before the cool night sets in."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Old Town & Church",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkplätze am Rande des Zentrums; sie sind im Winter oft frei.",
+                "hu": "Használja a központ szélén lévő parkolókat; télen gyakran van szabad hely.",
+                "ro": "Folosiți parcările de la marginea centrului; sunt adesea libere iarna.",
+                "en": "Use the parking lots on the edge of the center; they're often free in winter."
+              }
+            },
+            {
+              "name": "Church of the Assumption",
+              "tip_5lang": {
+                "de": "Im Winter sind die Lichtverhältnisse in der Kirche besonders stimmungsvoll.",
+                "hu": "Télen a templom belső megvilágítása különösen hangulatos.",
+                "ro": "Iarna, condițiile de lumină din biserică sunt deosebit de atmosferice.",
+                "en": "In winter, the lighting conditions inside the church are very atmospheric."
+              }
+            },
+            {
+              "name": "Baix la Mar Quarter",
+              "tip_5lang": {
+                "de": "Suchen Sie einen Parkplatz in der Nähe des Hafens für einen kurzen Spaziergang.",
+                "hu": "Keressen parkolót a kikötő közelében egy rövid sétához.",
+                "ro": "Căutați un loc de parcare lângă port pentru o scurtă plimbare.",
+                "en": "Find a parking spot near the harbor for a short walk."
+              }
+            },
+            {
+              "name": "Cluster 2: Castillo de Dénia",
+              "tip_5lang": {
+                "de": "Die Auffahrt zur Burg bietet im Winter klare Sichtachsen.",
+                "hu": "A várhoz vezető út mentén télen kitűnőek a kilátási pontok.",
+                "ro": "Drumul spre castel oferă perspective clare iarna.",
+                "en": "The drive up to the castle offers clear vantage points in winter."
+              }
+            },
+            {
+              "name": "Cluster 3: Montgó Natural Park",
+              "tip_5lang": {
+                "de": "Fahren Sie bis zum Aussichtspunkt für ein Foto des verschneiten Hinterlandes.",
+                "hu": "Hajtson el a kilátóig egy fotóért a havas távoli hegycsúcsokról.",
+                "ro": "Conduceți până la punctul de belvedere pentru o poză cu munții din depărtare.",
+                "en": "Drive to the viewpoint for a photo of the distant snowy mountain peaks."
+              }
+            },
+            {
+              "name": "Cluster 4: Beach & Lunch",
+              "tip_5lang": {
+                "de": "Sonnige Parkplätze wärmen den Innenraum des Autos angenehm auf.",
+                "hu": "A napsütötte parkolóhelyek kellemesen felmelegítik az autó utasterét.",
+                "ro": "Locurile de parcare însorite încălzesc plăcut interiorul mașinii.",
+                "en": "Sunny parking spots will pleasantly warm up the car's interior."
+              }
+            },
+            {
+              "name": "Sunset at the Port",
+              "tip_5lang": {
+                "de": "Kommen Sie frühzeitig, um den besten Parkplatz mit Meeresblick zu ergattern.",
+                "hu": "Érkezzen időben, hogy elcsípje a legjobb tengerre néző parkolóhelyet.",
+                "ro": "Veniți devreme pentru a prinde cel mai bun loc de parcare cu vedere la mare.",
+                "en": "Arrive early to snag the best parking spot with a sea view."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Reifendruck vor Fahrten in die Berge.",
+              "Hinterlassen Sie keine Wertsachen sichtbar im Auto.",
+              "Die Straßen können in schattigen Berglagen morgens glatt sein.",
+              "Viele Parkzonen am Strand sind im Winter kostenlos."
+            ],
+            "hu": [
+              "A hegyi utak előtt ellenőrizze a guminyomást.",
+              "Ne hagyjon értéktárgyakat látható helyen az autóban.",
+              "Az árnyékos hegyi utakon reggelente előfordulhat jegesedés.",
+              "Sok tengerparti parkolózóna ingyenes a téli időszakban."
+            ],
+            "ro": [
+              "Verificați presiunea pneurilor înainte de drumurile la munte.",
+              "Nu lăsați obiecte de valoare la vedere în mașină.",
+              "Drumurile pot fi alunecoase dimineața în zonele montane umbrite.",
+              "Multe zone de parcare de pe plajă sunt gratuite iarna."
+            ],
+            "en": [
+              "Check tire pressure before heading into the mountain areas.",
+              "Do not leave valuables visible inside the car.",
+              "Roads in shaded mountain areas can be slippery in the morning.",
+              "Many beach parking zones are free of charge during winter."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1478,6 +2060,188 @@
           "The buses along the Las Marinas coast stop frequently - you can get off almost anywhere.",
           "Validate your ticket when boarding the bus."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit Bus und Bahn navigieren wir sicher durch das verregnete Dénia. Wir starten in der Altstadt und besuchen die Burg, wobei wir die kurzen Wege zwischen den Haltestellen nutzen. Das Mittagessen am Strand genießen wir in einem gut isolierten Restaurant. Nachmittags erkunden wir das Hafenviertel und lassen den Tag bei einem Drink im Trockenen ausklingen.",
+            "hu": "Busszal és vonattal biztonságosan navigálunk az esős Déniában. Az óvárosból indulunk a várhoz, kihasználva a megállók közötti rövid távolságokat. A tengerparti ebédet egy jól szigetelt étteremben költjük el. Délután a kikötői negyedet fedezzük fel, majd egy száraz, meleg helyen zárjuk a napot egy kellemes itallal.",
+            "ro": "Cu autobuzul și trenul navigăm în siguranță prin Dénia ploioasă. Pornim din orașul vechi spre castel, profitând de distanțele scurte dintre stații. Prânzul pe plajă îl savurăm într-un restaurant bine izolat. După-amiaza explorăm zona portului și încheiem ziua cu o băutură la adăpost.",
+            "en": "We navigate safely through rainy Dénia using buses and trains. We start in the old town and visit the castle, making use of the short distances between stops. We enjoy lunch at the beach in a well-insulated restaurant. In the afternoon, we explore the port district and end the day with a drink in a dry spot."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Old Town & Castle",
+              "tip_5lang": {
+                "de": "Die Haltestellen bieten oft guten Schutz vor Wind und Regen.",
+                "hu": "A buszmegállók általában jó védelmet nyújtanak a szél és az eső ellen.",
+                "ro": "Stațiile de autobuz oferă adesea o protecție bună împotriva vântului și ploii.",
+                "en": "Bus stops often provide good shelter from the wind and rain."
+              }
+            },
+            {
+              "name": "Castillo de Dénia",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Touristenzug (Trenet), um trocken den Hügel zu erklimmen.",
+                "hu": "Használja a turistavonatot (Trenet), hogy szárazon jusson fel a dombra.",
+                "ro": "Folosiți trenulețul turistic (Trenet) pentru a urca dealul la uscat.",
+                "en": "Use the tourist train (Trenet) to climb the hill while staying dry."
+              }
+            },
+            {
+              "name": "Cluster 2: Beach & Lunch",
+              "tip_5lang": {
+                "de": "Warten Sie in der Lobby des Restaurants auf Ihren Bus.",
+                "hu": "Várja meg a buszt az étterem előterében vagy a fedett teraszon.",
+                "ro": "Așteptați autobuzul în holul restaurantului sau pe terasa acoperită.",
+                "en": "Wait for your bus in the restaurant lobby or on the covered terrace."
+              }
+            },
+            {
+              "name": "Late lunch on the beach",
+              "tip_5lang": {
+                "de": "Ein gemütlicher Ort, um das Ende eines Regenschauers abzuwarten.",
+                "hu": "Hangulatos hely egy hirtelen zápor végének megvárásához.",
+                "ro": "Un loc primitor pentru a aștepta trecerea unei averse.",
+                "en": "A cozy spot to wait out the end of a sudden rain shower."
+              }
+            },
+            {
+              "name": "Cluster 3: Port District",
+              "tip_5lang": {
+                "de": "Der Bahnhof ist ein guter Orientierungspunkt und bietet Schutz.",
+                "hu": "A vasútállomás jó tájékozódási pont és menedéket is nyújt.",
+                "ro": "Gara este un punct bun de orientare și oferă adăpost.",
+                "en": "The train station is a good landmark and provides shelter."
+              }
+            },
+            {
+              "name": "Farewell Drink",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Lokal in direkter Nähe zur Bushaltestelle.",
+                "hu": "Válasszon egy olyan helyet, amely közvetlenül a buszmegálló mellett van.",
+                "ro": "Alegeți un local aflat direct lângă stația de autobuz.",
+                "en": "Choose a venue located directly next to the bus stop."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie die Echtzeit-Fahrpläne in der App bei Verspätungen.",
+              "Tragen Sie Kleingeld oder eine Karte für das Ticket bereit.",
+              "Busse können bei starkem Regen langsamer vorankommen.",
+              "Die Haltestelle 'Explanada Cervantes' ist zentral für den Hafen."
+            ],
+            "hu": [
+              "Késések esetén ellenőrizze a valós idejű menetrendet az alkalmazásban.",
+              "Készítsen elő aprópénzt vagy bankkártyát a jegyvásárláshoz.",
+              "Heves esőzés esetén a buszok lassabban közlekedhetnek.",
+              "Az 'Explanada Cervantes' megálló központi helyen van a kikötőhöz."
+            ],
+            "ro": [
+              "Verificați orarele în timp real în aplicație în caz de întârzieri.",
+              "Pregătiți mărunt sau cardul pentru cumpărarea biletului.",
+              "Autobuzele pot circula mai lent în caz de ploaie torențială.",
+              "Stația 'Explanada Cervantes' este centrală pentru port."
+            ],
+            "en": [
+              "Check real-time schedules in the app in case of rain delays.",
+              "Have small change or your card ready for ticket purchases.",
+              "Buses may move slower than usual during heavy downpours.",
+              "The 'Explanada Cervantes' stop is very central for the port area."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An einem klaren Wintertag nutzen wir den Transit, um Dénia stressfrei zu erleben. Wir starten in der Altstadt, erkunden die Burg und nehmen den Bus zum Strand für ein sonniges Mittagessen. Nachmittags kehren wir zum Hafen zurück, spazieren durch die Marina und genießen die kühle Abendbrise bei einem Abschiedsdrink, bevor wir bequem mit der Bahn heimfahren.",
+            "hu": "Egy tiszta téli napon a tömegközlekedést használjuk Dénia stresszmentes felfedezéséhez. Az óvárosból indulunk a várba, majd busszal megyünk a strandra egy napsütötte ebédre. Délután visszatérünk a kikötőbe, végigsétálunk a marinán, és a hűvös esti szellőben fogyasztjuk el búcsúitalunkat a vonatút előtt.",
+            "ro": "Într-o zi senină de iarnă folosim transportul în comun pentru a explora Dénia fără stres. Pornim din orașul vechi spre castel, apoi luăm autobuzul la plajă pentru un prânz însorit. După-amiaza revenim în port, ne plimbăm prin marină și savurăm băutura de rămas bun în briza serii înainte de plecare.",
+            "en": "On a clear winter day, we use public transit to experience Dénia stress-free. We start in the old town, explore the castle, and take the bus to the beach for a sunny lunch. In the afternoon, we return to the port, stroll through the marina, and enjoy the cool evening breeze with a farewell drink before heading back."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Old Town & Castle",
+              "tip_5lang": {
+                "de": "Die Wintersonne macht das Warten an den Haltestellen angenehm.",
+                "hu": "A téli napsütés kellemessé teszi a várakozást a megállókban.",
+                "ro": "Soarele de iarnă face așteptarea în stații plăcută.",
+                "en": "The winter sun makes waiting at the stops quite pleasant."
+              }
+            },
+            {
+              "name": "Castillo de Dénia",
+              "tip_5lang": {
+                "de": "Vom Burgeingang ist es nur ein kurzer Fußweg zur nächsten Haltestelle.",
+                "hu": "A várbejárattól csak egy rövid séta a legközelebbi buszmegálló.",
+                "ro": "De la intrarea în castel este doar o scurtă plimbare până la stație.",
+                "en": "It's only a short walk from the castle entrance to the next stop."
+              }
+            },
+            {
+              "name": "Cluster 2: Beach & Lunch",
+              "tip_5lang": {
+                "de": "Im Winter fahren die Busse seltener; planen Sie Ihre Rückfahrt genau.",
+                "hu": "Télen a buszok ritkábban járnak; tervezze meg pontosan a visszautat.",
+                "ro": "Iarna autobuzele circulă mai rar; planificați-vă exact revenirea.",
+                "en": "Buses run less frequently in winter; plan your return trip carefully."
+              }
+            },
+            {
+              "name": "Late lunch on the beach",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe am Strand, bevor der letzte Bus zurückfährt.",
+                "hu": "Élvezze a strand nyugalmát, mielőtt elindulna az utolsó busz visszafelé.",
+                "ro": "Bucurați-vă de liniștea plajei înainte de ultimul autobuz înapoi.",
+                "en": "Enjoy the beach's peace before the last bus back departs."
+              }
+            },
+            {
+              "name": "Cluster 3: Port District",
+              "tip_5lang": {
+                "de": "Der Hafen ist abends wunderschön beleuchtet und gut erreichbar.",
+                "hu": "A kikötő este gyönyörűen ki van világítva és könnyen megközelíthető.",
+                "ro": "Portul este luminat superb seara și este ușor accesibil.",
+                "en": "The harbor is beautifully lit at night and easily accessible."
+              }
+            },
+            {
+              "name": "Farewell Drink",
+              "tip_5lang": {
+                "de": "Viele Bars in der Nähe des Bahnhofs sind auch im Winter gut besucht.",
+                "hu": "A vasútállomás közeli bárok télen is élettel telik.",
+                "ro": "Multe baruri de lângă gară sunt animate și pe timp de iarnă.",
+                "en": "Many bars near the train station remain lively even in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Winterfahrplan der Linie L1 (Les Marines).",
+              "Die TRAM nach Benidorm bietet eine tolle Aussicht auf die Küste.",
+              "Warten Sie an sonnigen Plätzen, um warm zu bleiben.",
+              "Die letzte TRAM-Verbindung ist im Winter oft früher."
+            ],
+            "hu": [
+              "Ellenőrizze az L1-es (Les Marines) vonal téli menetrendjét.",
+              "A Benidormba tartó TRAM nagyszerű kilátást nyújt a tengerpartra.",
+              "A napsütötte helyeken várakozzon, hogy ne fázzon.",
+              "A TRAM utolsó járatai télen gyakran korábban indulnak."
+            ],
+            "ro": [
+              "Verificați orarul de iarnă al liniei L1 (Les Marines).",
+              "TRAM-ul spre Benidorm oferă o vedere excelentă asupra coastei.",
+              "Așteptați în locurile însorite pentru a vă menține căldura.",
+              "Ultimele curse TRAM pleacă adesea mai devreme iarna."
+            ],
+            "en": [
+              "Check the winter schedule for the L1 (Les Marines) bus line.",
+              "The TRAM to Benidorm offers great views of the coastline.",
+              "Wait in sunny spots to stay warm while waiting for transit.",
+              "The last TRAM connections often depart earlier in the winter."
+            ]
+          }
+        }
       }
     }
   }

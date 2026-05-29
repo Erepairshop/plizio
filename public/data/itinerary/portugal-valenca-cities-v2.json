@@ -288,6 +288,206 @@
           "The fortress is a labyrinth of narrow streets; allow time to get lost and discover hidden corners.",
           "Bring your ID in case you spontaneously decide to walk across the bridge to Spain."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt unter grauen Wolken an der Festung, wo das Kopfsteinpflaster im Regen glänzt.\nMittags bieten die dicken Mauern der Tore und Kirchen einen willkommenen Schutz vor den Schauern.\nAm Nachmittag vertiefen wir uns im Museum in die Geschichte, während es draußen trommelt.\nDer Abend klingt gemütlich in einer Weinstube aus, während der Regen leise gegen die Scheiben klopft.",
+            "hu": "A reggel szürke felhők alatt indul az erődnél, ahol az esőtől csillognak a macskakövek.\nDélben a kapuk és templomok vastag falai nyújtanak menedéket a záporok elől.\nDélután a múzeumban merülünk el a történelemben, miközben odakint dobol az eső.\nAz este egy hangulatos borozóban ér véget, miközben a vízcseppek halkan kopognak az ablaküvegen.",
+            "ro": "Dimineața începe sub nori gri la cetate, unde pavajul strălucește în ploaie.\nLa prânz, zidurile groase ale porților și bisericilor oferă un adăpost binevenit împotriva averselor.\nDupă-amiaza ne cufundăm în istorie la muzeu, în timp ce afară plouă torențial.\nSeara se încheie confortabil într-o vinărie, în timp ce ploaia bate ușor în geamuri.",
+            "en": "The morning starts under grey clouds at the fortress, where cobblestones glisten in the rain.\nAt midday, the thick walls of gates and churches provide welcome shelter from the showers.\nIn the afternoon, we dive into history at the museum while it pours outside.\nThe evening ends cozily in a wine bar, with the rain tapping softly against the windowpanes."
+          },
+          "stops": [
+            {
+              "name": "Fortress of Valença",
+              "tip_5lang": {
+                "de": "Vorsicht auf den rutschigen Steinen der Wälle.",
+                "hu": "Vigyázat, a bástyák kövei csúszósak lehetnek.",
+                "ro": "Atenție la pietrele alunecoase de pe metereze.",
+                "en": "Watch out for slippery stones on the ramparts."
+              }
+            },
+            {
+              "name": "Coroada Gates",
+              "tip_5lang": {
+                "de": "Ein guter Ort, um den Schirm kurz zu schließen.",
+                "hu": "Jó hely az esernyő rövid összecsukására.",
+                "ro": "Un loc bun pentru a închide umbrela scurt.",
+                "en": "A good spot to briefly close your umbrella."
+              }
+            },
+            {
+              "name": "Church of Santo Estêvão",
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille und Trockenheit im Inneren.",
+                "hu": "Élvezze a benti csendet és szárazságot.",
+                "ro": "Bucurați-vă de liniștea și uscăciunea din interior.",
+                "en": "Enjoy the silence and dryness inside."
+              }
+            },
+            {
+              "name": "Church of Santa Maria dos Anjos",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Details, während es draußen regnet.",
+                "hu": "Csodálja meg a részleteket, amíg kint esik.",
+                "ro": "Admirați detaliile în timp ce afară plouă.",
+                "en": "Admire the details while it rains outside."
+              }
+            },
+            {
+              "name": "Municipal Museum of Valença",
+              "tip_5lang": {
+                "de": "Perfekter Zufluchtsort für eine ausgiebige Besichtigung.",
+                "hu": "Tökéletes menedék egy alapos nézelődéshez.",
+                "ro": "Refugiu perfect pentru o vizită prelungită.",
+                "en": "Perfect refuge for an extended visit."
+              }
+            },
+            {
+              "name": "Valença-Tui International Bridge",
+              "tip_5lang": {
+                "de": "Der Wind kann auf der Brücke sehr stark sein.",
+                "hu": "A hídon az eső mellé erős szél is társulhat.",
+                "ro": "Vântul poate fi foarte puternic pe pod.",
+                "en": "Wind can be quite strong on the bridge."
+              }
+            },
+            {
+              "name": "Statue of São Teotónio",
+              "tip_5lang": {
+                "de": "Ein kurzes Foto unter dem Regenschirm.",
+                "hu": "Egy gyors fotó az esernyő alól.",
+                "ro": "O fotografie rapidă de sub umbrelă.",
+                "en": "A quick photo from under the umbrella."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für das Kopfsteinpflaster.",
+              "Nutzen Sie die vielen Cafés in der Festung als Pausenstopps.",
+              "Ein stabiler Sturmschirm ist wegen des Windes am Fluss ratsam.",
+              "Die Museen sind ideal, um die stärksten Regengüsse abzuwarten."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a macskaköves utcákhoz.",
+              "Használja ki az erőd kávézóit pihenőhelyként.",
+              "A folyóparti szél miatt érdemes stabil esernyőt vinni.",
+              "A múzeumok ideálisak a nagyobb záporok átvészelésére."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru străzile pietruite.",
+              "Folosiți cafenelele din cetate ca puncte de pauză.",
+              "Se recomandă o umbrelă rezistentă din cauza vântului de pe râu.",
+              "Muzeele sunt ideale pentru a aștepta trecerea ploilor torențiale."
+            ],
+            "en": [
+              "Wear waterproof shoes for the cobblestone streets.",
+              "Use the many cafes in the fortress as break stops.",
+              "A sturdy storm umbrella is advised due to river winds.",
+              "Museums are ideal for waiting out the heaviest downpours."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen beginnt in der nebligen Festung von Valença.\nMittags wärmt die tiefstehende Sonne die alten Mauern der Kirchen und Tore.\nAm Nachmittag erkunden wir das Museum, bevor die Dämmerung früh einsetzt.\nDer Abend wird durch die warme Weihnachtsbeleuchtung in den engen Gassen verzaubert.",
+            "hu": "Friss téli reggel indul Valença ködös erődjében.\nDélben az alacsonyan járó nap melegíti a templomok és kapuk ősi falait.\nDélután a múzeumot fedezzük fel, mielőtt korán leszállna az alkonyat.\nAz estét a szűk utcák karácsonyi díszkivilágítása teszi varázslatossá.",
+            "ro": "O dimineață răcoroasă de iarnă începe în cetatea cețoasă din Valença.\nLa prânz, soarele blând încălzește zidurile vechi ale bisericilor și porților.\nDupă-amiaza explorăm muzeul înainte ca amurgul să se lase devreme.\nSeara este fermecată de luminile calde de sărbătoare de pe străduțele înguste.",
+            "en": "A crisp winter morning begins in the misty fortress of Valença.\nAt midday, the low sun warms the ancient walls of the churches and gates.\nIn the afternoon, we explore the museum before dusk sets in early.\nThe evening is enchanted by the warm holiday lights in the narrow alleys."
+          },
+          "stops": [
+            {
+              "name": "Fortress of Valença",
+              "tip_5lang": {
+                "de": "Genießen Sie den mystischen Nebel über dem Minho-Tal.",
+                "hu": "Élvezze a Minho-völgy feletti misztikus ködöt.",
+                "ro": "Bucurați-vă de ceața mistică de deasupra văii Minho.",
+                "en": "Enjoy the mystical mist over the Minho valley."
+              }
+            },
+            {
+              "name": "Coroada Gates",
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne wirft hier lange Schatten.",
+                "hu": "Az alacsony nap hosszú árnyékokat vet itt.",
+                "ro": "Soarele jos aruncă umbre lungi aici.",
+                "en": "The low sun casts long shadows here."
+              }
+            },
+            {
+              "name": "Church of Santo Estêvão",
+              "tip_5lang": {
+                "de": "Ein Ort der Ruhe und inneren Einkehr.",
+                "hu": "A béke és a belső elcsendesedés helyszíne.",
+                "ro": "Un loc de liniște și reculegere interioară.",
+                "en": "A place of peace and inner reflection."
+              }
+            },
+            {
+              "name": "Church of Santa Maria dos Anjos",
+              "tip_5lang": {
+                "de": "Die kühle Luft macht die Atmosphäre noch sakraler.",
+                "hu": "A hűvös levegő még szakrálisabbá teszi a hangulatot.",
+                "ro": "Aerul rece face atmosfera și mai sacră.",
+                "en": "The cool air makes the atmosphere even more sacred."
+              }
+            },
+            {
+              "name": "Municipal Museum of Valença",
+              "tip_5lang": {
+                "de": "Aufwärmen zwischen historischen Exponaten.",
+                "hu": "Melegedjen fel a történelmi kiállítási tárgyak között.",
+                "ro": "Încălziți-vă printre exponatele istorice.",
+                "en": "Warm up among historical exhibits."
+              }
+            },
+            {
+              "name": "Valença-Tui International Bridge",
+              "tip_5lang": {
+                "de": "Perfekt für einen zügigen Spaziergang an der frischen Luft.",
+                "hu": "Tökéletes egy élénk sétához a friss levegőn.",
+                "ro": "Perfect pentru o plimbare revigorantă în aer liber.",
+                "en": "Perfect for a brisk walk in the fresh air."
+              }
+            },
+            {
+              "name": "Statue of São Teotónio",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp im goldenen Licht der Wintersonne.",
+                "hu": "Rövid megálló a téli nap aranyló fényében.",
+                "ro": "O scurtă oprire în lumina aurie a soarelui de iarnă.",
+                "en": "A short stop in the golden light of the winter sun."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Zwiebelprinzip bei der Kleidung ist für die kühlen Wälle ideal.",
+              "Die Sonne geht im Winter bereits gegen 17:30 Uhr unter.",
+              "Probieren Sie lokale Winterspezialitäten in den Tavernen.",
+              "Achten Sie auf Raureif auf dem Kopfsteinpflaster am Morgen."
+            ],
+            "hu": [
+              "A réteges öltözködés ideális a hűvös bástyákon.",
+              "A nap télen már 17:30 körül lenyugszik.",
+              "Kóstolja meg a helyi téli ételeket a tavernákban.",
+              "Reggelente figyeljen a zúzmarára a macskaköveken."
+            ],
+            "ro": [
+              "Îmbrăcămintea stratificată este ideală pentru zidurile răcoroase.",
+              "Iarna, soarele apune deja în jurul orei 17:30.",
+              "Gustați specialitățile locale de iarnă în taverne.",
+              "Atenție la chiciura de pe pavaj în timpul dimineții."
+            ],
+            "en": [
+              "Layered clothing is ideal for the cool ramparts.",
+              "The sun sets around 17:30 during the winter months.",
+              "Try local winter specialties in the taverns.",
+              "Watch for frost on the cobblestones in the morning."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -552,6 +752,188 @@
           "The bridge has a pedestrian and cyclist path separate from traffic.",
           "The climb to the fortress is steep; make sure your bike has gears."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt mit Regenponcho und Vorsicht beim Verleih.\nMittags führt die Fahrt über die nasse Grenzbrücke nach Tui, wo wir uns in einem Café trocknen.\nAm Nachmittag erkunden wir die Festung Valença in gemächlichem Tempo auf rutschigen Wegen.\nDer Abend endet mit der Rückgabe der Räder und einem warmen Getränk.",
+            "hu": "A reggel esőponcsóban és óvatos kerékpárbérléssel indul.\nDélben a vizes határhídon át tekerünk Tui-ba, ahol egy kávézóban száradunk meg.\nDélután lassú tempóban fedezzük fel Valença erődjét a csúszós utakon.\nAz este a biciklik leadásával és egy forró itallal zárul.",
+            "ro": "Dimineața începe cu pelerină de ploaie și prudență la închirierea bicicletelor.\nLa prânz, pedalăm peste podul ud spre Tui, unde ne uscăm într-o cafenea.\nDupă-amiaza explorăm cetatea Valença într-un ritm lent pe drumurile alunecoase.\nSeara se încheie cu returnarea bicicletelor și o băutură caldă.",
+            "en": "The morning starts with a rain poncho and caution at the bike rental.\nAt midday, we ride across the wet border bridge to Tui, drying off in a cafe.\nIn the afternoon, we explore the Valença fortress at a slow pace on slippery paths.\nThe evening ends with returning the bikes and a warm drink."
+          },
+          "stops": [
+            {
+              "name": "Start: Bike Rental",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Bremsen besonders gründlich bei Nässe.",
+                "hu": "Ellenőrizze a fékeket különösen alaposan vizes időben.",
+                "ro": "Verificați frânele cu atenție sporită pe timp de ploaie.",
+                "en": "Check the brakes extra carefully in wet weather."
+              }
+            },
+            {
+              "name": "Valença-Tui International Bridge",
+              "tip_5lang": {
+                "de": "Die Metallkonstruktion kann bei Regen sehr glatt sein.",
+                "hu": "A fémszerkezet esőben nagyon csúszós lehet.",
+                "ro": "Structura metalică poate fi foarte alunecoasă pe ploaie.",
+                "en": "The metal structure can be very slippery in the rain."
+              }
+            },
+            {
+              "name": "Quick Stop in Tui, Spain",
+              "tip_5lang": {
+                "de": "Ein idealer Ort für eine trockene Kaffeepause.",
+                "hu": "Ideális hely egy száraz kávészünethez.",
+                "ro": "Un loc ideal pentru o pauză de cafea la adăpost.",
+                "en": "An ideal place for a dry coffee break."
+              }
+            },
+            {
+              "name": "Fortress of Valença",
+              "tip_5lang": {
+                "de": "Fahren Sie in den engen Gassen besonders vorsichtig.",
+                "hu": "A szűk utcákban tekerjen különösen óvatosan.",
+                "ro": "Pedalați cu mare atenție pe străduțele înguste.",
+                "en": "Ride with extra caution in the narrow streets."
+              }
+            },
+            {
+              "name": "Church of Santo Estêvão",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad geschützt ab und gehen Sie hinein.",
+                "hu": "Parkoljon védett helyen, és menjen be körülnézni.",
+                "ro": "Parcați bicicleta la adăpost și intrați să vizitați.",
+                "en": "Park your bike in a sheltered spot and head inside."
+              }
+            },
+            {
+              "name": "Statue of São Teotónio",
+              "tip_5lang": {
+                "de": "Ein letzter Stopp, bevor es zurück zum Verleih geht.",
+                "hu": "Egy utolsó megálló, mielőtt visszatérne a kölcsönzőbe.",
+                "ro": "O ultimă oprire înainte de a reveni la centrul de închirieri.",
+                "en": "A last stop before heading back to the rental shop."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie Kotflügel, um Schmutzspritzer zu vermeiden.",
+              "Vermeiden Sie abruptes Bremsen auf nassem Kopfsteinpflaster.",
+              "Wasserdichte Handschuhe halten die Hände warm und griffig.",
+              "Planen Sie mehr Zeit für die Wege ein als bei Sonnenschein."
+            ],
+            "hu": [
+              "Használjon sárvédőt a felverődő kosz ellen.",
+              "Kerülje a hirtelen fékezést a vizes macskaköveken.",
+              "A vízálló kesztyű melegen tartja a kezet és jobb fogást ad.",
+              "Tervezzen több időt az utakra, mint napsütésben."
+            ],
+            "ro": [
+              "Folosiți apărători de noroi pentru a evita stropirea.",
+              "Evitați frânarea bruscă pe pavajul ud.",
+              "Mănușile impermeabile mențin mâinile calde și aderența bună.",
+              "Planificați mai mult timp pentru trasee decât pe soare."
+            ],
+            "en": [
+              "Use mudguards to avoid getting splashed.",
+              "Avoid sudden braking on wet cobblestones.",
+              "Waterproof gloves keep hands warm and provide better grip.",
+              "Plan more time for the routes than you would in sunshine."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen beginnt mit einer kühlen Fahrt ab dem Verleih.\nMittags überqueren wir die Brücke nach Spanien, während der kalte Wind vom Fluss weht.\nAm Nachmittag erkunden wir die Festung im weichen Winterlicht.\nDer Abend endet rechtzeitig vor Sonnenuntergang mit der Rückgabe der Räder.",
+            "hu": "Tiszta téli reggel indul hűvös tekeréssel a kölcsönzőtől.\nDélben átkelünk a spanyolországi hídon, miközben hideg szél fúj a folyó felől.\nDélután a lágy téli fényben fedezzük fel az erődöt.\nAz este a naplemente előtt időben véget ér a biciklik leadásával.",
+            "ro": "O dimineață senină de iarnă începe cu o tură răcoroasă de la închirieri.\nLa prânz traversăm podul spre Spania, în timp ce vântul rece bate de pe râu.\nDupă-amiaza explorăm cetatea în lumina blândă de iarnă.\nSeara se încheie înainte de apus cu returnarea bicicletelor.",
+            "en": "A clear winter morning begins with a cool ride from the rental shop.\nAt midday, we cross the bridge to Spain while a cold wind blows from the river.\nIn the afternoon, we explore the fortress in the soft winter light.\nThe evening ends in good time before sunset with the return of the bikes."
+          },
+          "stops": [
+            {
+              "name": "Start: Bike Rental",
+              "tip_5lang": {
+                "de": "Prüfen Sie, ob die Beleuchtung für die frühe Dämmerung funktioniert.",
+                "hu": "Ellenőrizze, hogy működik-e a világítás a korai sötétedéshez.",
+                "ro": "Verificați dacă luminile funcționează pentru amurgul timpuriu.",
+                "en": "Check if the lights are working for the early dusk."
+              }
+            },
+            {
+              "name": "Valença-Tui International Bridge",
+              "tip_5lang": {
+                "de": "Der Fahrtwind auf der Brücke kann im Winter sehr beißen.",
+                "hu": "A hídon a menetszél télen nagyon metsző lehet.",
+                "ro": "Vântul de pe pod poate fi foarte tăios iarna.",
+                "en": "The wind on the bridge can be very biting in winter."
+              }
+            },
+            {
+              "name": "Quick Stop in Tui, Spain",
+              "tip_5lang": {
+                "de": "Ein warmer Snack gibt Energie für die Rückfahrt.",
+                "hu": "Egy meleg harapnivaló energiát ad a visszaúthoz.",
+                "ro": "O gustare caldă oferă energie pentru drumul de întoarcere.",
+                "en": "A warm snack provides energy for the ride back."
+              }
+            },
+            {
+              "name": "Fortress of Valença",
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Sicht von den Wällen.",
+                "hu": "Élvezze a tiszta kilátást a bástyákról.",
+                "ro": "Bucurați-vă de vizibilitatea clară de pe metereze.",
+                "en": "Enjoy the clear views from the ramparts."
+              }
+            },
+            {
+              "name": "Church of Santo Estêvão",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp zum Aufwärmen im Kirchenschiff.",
+                "hu": "Rövid megálló melegedni a templomhajóban.",
+                "ro": "O scurtă oprire pentru încălzire în nava bisericii.",
+                "en": "A short stop to warm up in the navy."
+              }
+            },
+            {
+              "name": "Statue of São Teotónio",
+              "tip_5lang": {
+                "de": "Das Licht am späten Nachmittag ist ideal für Fotos.",
+                "hu": "A késő délutáni fény ideális a fényképezéshez.",
+                "ro": "Lumina de după-amiază târziu este ideală pentru fotografii.",
+                "en": "The late afternoon light is ideal for photos."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine winddichte Jacke gegen den Flusswind.",
+              "Warme Socken und Handschuhe sind beim Radfahren wichtig.",
+              "Nutzen Sie die hellen Stunden zwischen 10 und 15 Uhr optimal.",
+              "Achten Sie auf Schattenstellen, die glatt sein könnten."
+            ],
+            "hu": [
+              "Viseljen szélálló dzsekit a folyóparti szél ellen.",
+              "A meleg zokni és kesztyű elengedhetetlen a bringázáshoz.",
+              "Használja ki a 10 és 15 óra közötti világos órákat.",
+              "Figyeljen az árnyékos helyekre, amik jegesek lehetnek."
+            ],
+            "ro": [
+              "Purtați o jachetă rezistentă la vânt pentru briza râului.",
+              "Șosetele groase și mănușile sunt esențiale la pedalat.",
+              "Profită la maximum de orele luminoase între 10 și 15.",
+              "Atenție la porțiunile umbrite care pot fi alunecoase."
+            ],
+            "en": [
+              "Wear a windproof jacket against the river wind.",
+              "Warm socks and gloves are essential for cycling.",
+              "Make the most of the bright hours between 10:00 and 15:00.",
+              "Watch out for shaded spots that might be slippery."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -780,6 +1162,188 @@
           "Parking spaces can fill up quickly on weekends and holidays.",
           "The road to the bridge can be busy; allow for extra time."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen beginnt bequem mit der Fahrt zum Parkplatz an der Festung.\nMittags erkunden wir die historischen Gebäude und Kirchen, während das Auto trocken wartet.\nAm Nachmittag besuchen wir das Museum und fahren dann entspannt über die Brücke.\nDer Abend endet mit einem Blick auf die beleuchtete Kapelle im Regen.",
+            "hu": "Esős reggel indul kényelmesen az erőd melletti parkolóba hajtva.\nDélben a történelmi épületeket és templomokat járjuk be, miközben az autó szárazon vár.\nDélután meglátogatjuk a múzeumot, majd átgurulunk a hídon.\nAz este az esőben kivilágított kápolna megtekintésével zárul.",
+            "ro": "O dimineață ploioasă începe confortabil cu drumul spre parcarea de lângă cetate.\nLa prânz explorăm clădirile istorice și bisericile, în timp ce mașina așteaptă la uscat.\nDupă-amiaza vizităm muzeul, apoi traversăm podul relaxați.\nSeara se încheie cu vederea capelei iluminate în ploaie.",
+            "en": "A rainy morning starts comfortably with a drive to the parking lot near the fortress.\nAt midday, we explore the historical buildings and churches while the car waits in the dry.\nIn the afternoon, we visit the museum and then drive across the bridge.\nThe evening ends with a view of the illuminated chapel in the rain."
+          },
+          "stops": [
+            {
+              "name": "Parking outside the Fortress",
+              "tip_5lang": {
+                "de": "Halten Sie den Schirm griffbereit für den kurzen Weg.",
+                "hu": "Legyen kéznél az esernyő a rövid sétához.",
+                "ro": "Țineți umbrela la îndemână pentru drumul scurt.",
+                "en": "Keep your umbrella handy for the short walk."
+              }
+            },
+            {
+              "name": "Fortress of Valença (Cluster 1)",
+              "tip_5lang": {
+                "de": "Nutzen Sie die kurzen Wege zwischen den Sehenswürdigkeiten.",
+                "hu": "Használja ki a látnivalók közötti rövid távolságokat.",
+                "ro": "Profități de distanțele scurte dintre obiective.",
+                "en": "Take advantage of the short distances between sights."
+              }
+            },
+            {
+              "name": "Church of Santo Estêvão",
+              "tip_5lang": {
+                "de": "Ein idealer Stopp, um einen kräftigen Schauer abzuwarten.",
+                "hu": "Ideális megálló egy kiadós zápor kivárására.",
+                "ro": "O oprire ideală pentru a aștepta trecerea unei averse.",
+                "en": "An ideal stop to wait out a heavy shower."
+              }
+            },
+            {
+              "name": "Municipal Museum of Valença",
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Museumseingang.",
+                "hu": "Parkoljon a lehető legközelebb a múzeum bejáratához.",
+                "ro": "Parcați cât mai aproape de intrarea muzeului.",
+                "en": "Park as close as possible to the museum entrance."
+              }
+            },
+            {
+              "name": "International Bridge (Cluster 2)",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den Fluss aus dem trockenen Auto.",
+                "hu": "Élvezze a folyóra nyíló kilátást a száraz autóból.",
+                "ro": "Bucurați-vă de vederea spre râu din mașina uscată.",
+                "en": "Enjoy the river view from the dry car."
+              }
+            },
+            {
+              "name": "Chapel of Bom Jesus",
+              "tip_5lang": {
+                "de": "Die Beleuchtung wirkt bei Regen besonders stimmungsvoll.",
+                "hu": "A kivilágítás esőben különösen hangulatos.",
+                "ro": "Iluminatul pare deosebit de atmosferic pe ploaie.",
+                "en": "The lighting looks especially atmospheric in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Parkplätze direkt an den Festungstoren.",
+              "Lassen Sie nasse Schirme im Kofferraum abtropfen.",
+              "Die Sicht auf der Brücke kann durch Gischt eingeschränkt sein.",
+              "Fahren Sie vorsichtig auf dem nassen Pflaster in der Altstadt."
+            ],
+            "hu": [
+              "Használja az erőd kapui melletti parkolókat.",
+              "A vizes esernyőket hagyja a csomagtartóban lecsepegni.",
+              "A hídon a felverődő víz ronthatja a látási viszonyokat.",
+              "Vezessen óvatosan az óváros vizes burkolatán."
+            ],
+            "ro": [
+              "Folosiți parcările chiar lângă porțile cetății.",
+              "Lăsați umbrelele ude să se scurgă în portbagaj.",
+              "Vizibilitatea pe pod poate fi redusă de apa pulverizată.",
+              "Conduceți cu atenție pe pavajul ud din centrul vechi."
+            ],
+            "en": [
+              "Use the parking lots right by the fortress gates.",
+              "Let wet umbrellas drip dry in the trunk.",
+              "Visibility on the bridge may be limited by spray.",
+              "Drive carefully on the wet pavement in the old town."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Wintermorgen beginnt mit einer Fahrt zur nebelverhangenen Festung.\nMittags wärmen wir uns in den Kirchen der Altstadt auf, während die Wintersonne tief am Horizont steht.\nAm Nachmittag steht Kultur im Museum auf dem Programm.\nDer Abend endet mit einer stimmungsvollen Fahrt zur beleuchteten Kapelle Bom Jesus.",
+            "hu": "Deres téli reggel indul az út a ködbe burkolózó erődhöz.\nDélben az óváros templomaiban melegedünk fel, miközben a téli nap alacsonyan áll a horizonton.\nDélután kulturális program vár a múzeumban.\nAz este hangulatos autózással zárul a kivilágított Bom Jesus kápolnához.",
+            "ro": "O dimineață geroasă de iarnă începe cu drumul spre cetatea acoperită de ceață.\nLa prânz ne încălzim în bisericile din centrul vechi, în timp ce soarele de iarnă stă jos la orizont.\nDupă-amiaza programul include cultură la muzeu.\nSeara se încheie cu un drum atmosferic spre capela Bom Jesus iluminată.",
+            "en": "A frosty winter morning starts with a drive to the mist-shrouded fortress.\nAt midday, we warm up in the churches of the old town while the winter sun sits low on the horizon.\nIn the afternoon, the program includes culture at the museum.\nThe evening ends with an atmospheric drive to the illuminated Bom Jesus chapel."
+          },
+          "stops": [
+            {
+              "name": "Parking outside the Fortress",
+              "tip_5lang": {
+                "de": "Achten Sie auf mögliche Glätte auf dem Parkplatz.",
+                "hu": "Figyeljen az esetleges jegesedésre a parkolóban.",
+                "ro": "Atenție la posibila polei din parcare.",
+                "en": "Watch for potential ice in the parking lot."
+              }
+            },
+            {
+              "name": "Fortress of Valença (Cluster 1)",
+              "tip_5lang": {
+                "de": "Die klaren Wintertage bieten die weiteste Fernsicht.",
+                "hu": "A tiszta téli napok kínálják a legmesszibb kilátást.",
+                "ro": "Zilele senine de iarnă oferă cea mai largă vizibilitate.",
+                "en": "Clear winter days offer the farthest views."
+              }
+            },
+            {
+              "name": "Church of Santo Estêvão",
+              "tip_5lang": {
+                "de": "Die dicken Mauern speichern die Kühle des Winters.",
+                "hu": "A vastag falak jól tartják a téli hűvöst.",
+                "ro": "Zidurile groase păstrează răcoarea iernii.",
+                "en": "The thick walls retain the winter chill."
+              }
+            },
+            {
+              "name": "Municipal Museum of Valença",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Zeit bis zum frühen Sonnenuntergang zu füllen.",
+                "hu": "Ideális hely az idő eltöltésére a korai naplementéig.",
+                "ro": "Un loc ideal pentru a petrece timpul până la apusul timpuriu.",
+                "en": "An ideal place to fill the time until the early sunset."
+              }
+            },
+            {
+              "name": "International Bridge (Cluster 2)",
+              "tip_5lang": {
+                "de": "Bei Kälte ist die Überquerung im Auto besonders angenehm.",
+                "hu": "Hidegben az átkelés autóval különösen kellemes.",
+                "ro": "Pe frig, traversarea cu mașina este deosebit de plăcută.",
+                "en": "In the cold, crossing by car is particularly pleasant."
+              }
+            },
+            {
+              "name": "Chapel of Bom Jesus",
+              "tip_5lang": {
+                "de": "Ein magischer Ort in der blauen Stunde.",
+                "hu": "Varázslatos hely a kék óra idején.",
+                "ro": "Un loc magic în timpul orei albastre.",
+                "en": "A magical place during the blue hour."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie vorab den Frostschutz in der Scheibenwaschanlage.",
+              "Die Parkplätze sind im Winter meist weniger überfüllt.",
+              "Nutzen Sie die Sitzheizung für die kurzen Fahrten zwischendurch.",
+              "Die Dämmerung setzt bereits am späten Nachmittag ein."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze a fagyállót a szélvédőmosóban.",
+              "A parkolók télen általában kevésbé zsúfoltak.",
+              "Használja az ülésfűtést a köztes rövid utakra.",
+              "Az alkonyat már késő délután beköszönt."
+            ],
+            "ro": [
+              "Verificați antigelul din instalația de spălare a parbrizului.",
+              "Parcările sunt de obicei mai puțin aglomerate iarna.",
+              "Folosiți încălzirea în scaune pentru drumurile scurte dintre opriri.",
+              "Amurgul se instalează deja după-amiaza târziu."
+            ],
+            "en": [
+              "Check the antifreeze in your windshield washer before starting.",
+              "Parking lots are usually less crowded in winter.",
+              "Use the seat heating for the short drives in between.",
+              "Dusk sets in as early as late afternoon."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -990,6 +1554,170 @@
           "Buy a round-trip ticket to save time.",
           "The fortress is large; plan your exploration to avoid backtracking."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen beginnt am Bahnhof von Valença, von wo der Bus zur Festung startet.\nMittags verbringen wir viel Zeit in den historischen Kirchen, um dem Regen zu entgehen.\nDer Nachmittag ist für ausgiebiges Shoppen und Essen unter den Arkaden reserviert.\nDer Abend endet mit der Rückfahrt zum Bahnhof im Schutz des Busses.",
+            "hu": "Esős reggel indul a Valença vasútállomáson, ahonnan busz visz az erődhöz.\nDélben sok időt töltünk a történelmi templomokban, hogy elkerüljük az esőt.\nA délután hosszas vásárlásra és étkezésre van fenntartva az árkádok alatt.\nAz este a vasútállomásra való visszautazással zárul a busz védelmében.",
+            "ro": "O dimineață ploioasă începe la gara din Valença, de unde pleacă autobuzul spre cetate.\nLa prânz petrecem mult timp în bisericile istorice pentru a evita ploaia.\nDupă-amiaza este rezervată pentru cumpărături și masă sub arcade.\nSeara se încheie cu drumul de întoarcere la gară, la adăpostul autobuzului.",
+            "en": "A rainy morning starts at the Valença train station, where the bus to the fortress departs.\nAt midday, we spend plenty of time in the historical churches to avoid the rain.\nThe afternoon is reserved for extensive shopping and dining under the arcades.\nThe evening ends with the return journey to the station, sheltered inside the bus."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Valença Train Station",
+              "tip_5lang": {
+                "de": "Warten Sie im Bahnhofsgebäude auf den Anschlussbus.",
+                "hu": "Várjon a vasútállomás épületében a csatlakozó buszra.",
+                "ro": "Așteptați autobuzul de legătură în interiorul gării.",
+                "en": "Wait inside the station building for the connecting bus."
+              }
+            },
+            {
+              "name": "Bus ride to Fortress Cluster",
+              "tip_5lang": {
+                "de": "Der Bus bringt Sie direkt vor das Haupttor der Festung.",
+                "hu": "A busz közvetlenül az erőd főkapuja elé viszi.",
+                "ro": "Autobuzul vă lasă chiar în fața porții principale a cetății.",
+                "en": "The bus drops you right in front of the main fortress gate."
+              }
+            },
+            {
+              "name": "Fortress of Valença",
+              "tip_5lang": {
+                "de": "Die überdachten Passagen bieten Schutz vor Schauern.",
+                "hu": "A fedett átjárók védelmet nyújtanak a záporok ellen.",
+                "ro": "Pasajele acoperite oferă protecție împotriva averselor.",
+                "en": "The covered passages provide protection from showers."
+              }
+            },
+            {
+              "name": "Church of Santa Maria dos Anjos",
+              "tip_5lang": {
+                "de": "Ein ruhiger, trockener Ort zum Innehalten.",
+                "hu": "Csendes, száraz hely az elcsendesedéshez.",
+                "ro": "Un loc liniștit și uscat pentru reculegere.",
+                "en": "A quiet, dry place to pause."
+              }
+            },
+            {
+              "name": "Lunch and Shopping in the Fortress",
+              "tip_5lang": {
+                "de": "Die vielen Geschäfte und Cafés sind perfekt bei Regen.",
+                "hu": "A sok bolt és kávézó tökéletes esős időben.",
+                "ro": "Numeroasele magazine și cafenele sunt perfecte pe ploaie.",
+                "en": "The many shops and cafes are perfect for rainy weather."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie die Busfahrpläne vorab online.",
+              "Der Bahnhof bietet ein Café zum Aufwärmen.",
+              "Nutzen Sie die App für Echtzeit-Verkehrsinformationen.",
+              "Tragen Sie Kleidung, die auch im Bus schnell trocknet."
+            ],
+            "hu": [
+              "Ellenőrizze a buszmenetrendet előre online.",
+              "A vasútállomáson van egy kávézó a melegedéshez.",
+              "Használja az alkalmazást a valós idejű közlekedési infókhoz.",
+              "Viseljen olyan ruhát, ami a buszon is gyorsan szárad."
+            ],
+            "ro": [
+              "Verificați orarul autobuzelor online în prealabil.",
+              "Gara oferă o cafenea pentru încălzire.",
+              "Folosiți aplicația pentru informații de trafic în timp real.",
+              "Purtați haine care se usucă rapid chiar și în autobuz."
+            ],
+            "en": [
+              "Check the bus schedules online in advance.",
+              "The train station has a cafe for warming up.",
+              "Use the app for real-time transit information.",
+              "Wear clothing that dries quickly even while on the bus."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen beginnt mit der Ankunft am Bahnhof von Valença.\nMittags bringt uns der Bus zur Festung, wo wir die klaren Wälle erkunden.\nDer Nachmittag ist für den Besuch der Kirchen und das Museum reserviert, bevor die Sonne früh sinkt.\nDer Abend klingt gemütlich beim Shopping in den beleuchteten Gassen aus.",
+            "hu": "Tiszta téli reggel indul a Valença vasútállomásra érkezéssel.\nDélben busz visz az erődhöz, ahol felfedezzük a napsütötte bástyákat.\nA délután a templomok és a múzeum látogatására van fenntartva, mielőtt korán lemegy a nap.\nAz este hangulatos vásárlással zárul a kivilágított utcákon.",
+            "ro": "O dimineață senină de iarnă începe cu sosirea la gara din Valença.\nLa prânz, autobuzul ne duce la cetate, unde explorăm meterezele luminate.\nDupă-amiaza este rezervată vizitării bisericilor și muzeului, înainte ca soarele să apună devreme.\nSeara se încheie cu cumpărături pe străduțele iluminate.",
+            "en": "A clear winter morning begins with the arrival at Valença train station.\nAt midday, the bus takes us to the fortress, where we explore the bright ramparts.\nIn the afternoon, we visit the churches and the museum before the sun sets early.\nThe evening ends with cozy shopping in the illuminated alleys."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Valença Train Station",
+              "tip_5lang": {
+                "de": "Der Bahnhof ist ein guter Ausgangspunkt für den Tag.",
+                "hu": "A vasútállomás jó kiindulópont a naphoz.",
+                "ro": "Gara este un punct de plecare bun pentru zi.",
+                "en": "The train station is a good starting point for the day."
+              }
+            },
+            {
+              "name": "Bus ride to Fortress Cluster",
+              "tip_5lang": {
+                "de": "Genießen Sie die kurze Fahrt im beheizten Bus.",
+                "hu": "Élvezze a rövid utat a fűtött buszon.",
+                "ro": "Bucurați-vă de drumul scurt în autobuzul încălzit.",
+                "en": "Enjoy the short ride in the heated bus."
+              }
+            },
+            {
+              "name": "Fortress of Valença",
+              "tip_5lang": {
+                "de": "Die Wintersonne bringt die weißen Mauern zum Strahlen.",
+                "hu": "A téli nap ragyogóvá teszi a fehér falakat.",
+                "ro": "Soarele de iarnă face zidurile albe să strălucească.",
+                "en": "The winter sun makes the white walls glow."
+              }
+            },
+            {
+              "name": "Church of Santa Maria dos Anjos",
+              "tip_5lang": {
+                "de": "Ein geschützter Ort vor dem kühlen Winterwind.",
+                "hu": "A hűvös téli széltől védett hely.",
+                "ro": "Un loc protejat de vântul rece de iarnă.",
+                "en": "A sheltered place from the cool winter wind."
+              }
+            },
+            {
+              "name": "Lunch and Shopping in the Fortress",
+              "tip_5lang": {
+                "de": "Ideal, um Souvenirs im warmen Ambiente zu kaufen.",
+                "hu": "Ideális szuvenírvásárláshoz a meleg belső terekben.",
+                "ro": "Ideal pentru cumpărături de suveniruri în ambianță caldă.",
+                "en": "Ideal for souvenir shopping in a warm atmosphere."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf die kürzeren Fahrpläne an Feiertagen.",
+              "Die Wartezeiten am Bahnhof sind im Winter kühler.",
+              "Der Fußweg vom Bahnhof zur Festung dauert ca. 15 Minuten.",
+              "Fragen Sie den Fahrer nach dem letzten Bus zurück."
+            ],
+            "hu": [
+              "Figyeljen az ünnepek alatti rövidebb menetrendre.",
+              "A vasútállomáson a várakozási idő télen hűvösebb lehet.",
+              "A gyalogút az állomástól az erődig kb. 15 perc.",
+              "Kérdezze meg a sofőrt az utolsó visszainduló buszról."
+            ],
+            "ro": [
+              "Atenție la orarul redus în timpul sărbătorilor.",
+              "Timpii de așteptare în gară sunt mai reci iarna.",
+              "Drumul pe jos de la gară la cetate durează aproximativ 15 minute.",
+              "Întrebați șoferul despre ultimul autobuz de întoarcere."
+            ],
+            "en": [
+              "Watch for shorter schedules during holidays.",
+              "Waiting times at the station are cooler in winter.",
+              "The walk from the station to the fortress takes about 15 minutes.",
+              "Ask the driver about the last bus back."
+            ]
+          }
+        }
       }
     }
   }

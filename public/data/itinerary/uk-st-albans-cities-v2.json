@@ -386,6 +386,206 @@
           "Book tickets for the Clock Tower in advance as spaces are limited.",
           "Allow plenty of time in Verulamium Park; it's bigger than it looks."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt am Glockenturm unter grauem Himmel, bevor man in das Museum flüchtet. Mittags bietet die Kathedrale einen trockenen, majestätischen Zufluchtsort. Der Nachmittag gehört der römischen Geschichte im Verulamium Museum, geschützt vor dem Regen. Der Abend klingt gemütlich am Kamin des Ye Olde Fighting Cocks aus, während draußen der englische Regen gegen die Scheiben peitscht.",
+            "hu": "A reggel a Clock Towernél indul szürke égbolt alatt, majd a galéria nyújt menedéket. Délben a katedrális hatalmas belső tere fogad be a zápor elől. Délután a római kori emlékeket fedett helyen, a Verulamium Múzeumban csodálhatjuk meg. Az estét a Ye Olde Fighting Cocks kandallója mellett zárjuk, hallgatva az ablakon kopogó esőt a történelmi falak között.",
+            "ro": "Dimineața începe la Turnul cu Ceas sub cerul cenușiu, urmată de un refugiu rapid în muzeu. La prânz, Catedrala oferă un sanctuar uscat și maiestuos. După-amiaza este dedicată istoriei romane în interiorul Muzeului Verulamium, feriți de ploaie. Seara se încheie confortabil lângă șemineul de la Ye Olde Fighting Cocks, în timp ce ploaia englezească bate în ferestrele vechi.",
+            "en": "The morning starts at the Clock Tower under gray skies, followed by a quick retreat into the Museum + Gallery. By noon, the Cathedral provides a vast, dry sanctuary. The afternoon is spent exploring Roman history indoors at the Verulamium Museum, avoiding the showers. The evening concludes cozily by the fire at Ye Olde Fighting Cocks, watching the rain fall on the historic timbered walls."
+          },
+          "stops": [
+            {
+              "name": "St Albans Clock Tower",
+              "tip_5lang": {
+                "de": "Kurzer Stopp für Fotos; die Stufen können bei Nässe rutschig sein.",
+                "hu": "Gyors fotó; a külső lépcsők esőben csúszósak lehetnek.",
+                "ro": "Oprire scurtă; treptele exterioare pot fi alunecoase pe ploaie.",
+                "en": "Quick photo stop; external steps can be slippery when wet."
+              }
+            },
+            {
+              "name": "St Albans Museum + Gallery",
+              "tip_5lang": {
+                "de": "Idealer Ort, um den ersten Regenschauer bei Kaffee und Kunst zu überbrücken.",
+                "hu": "Tökéletes hely az első zápor átvészelésére kávéval és művészettel.",
+                "ro": "Locul ideal pentru a aștepta trecerea ploii cu o cafea și artă.",
+                "en": "Perfect place to wait out a heavy shower with coffee and art."
+              }
+            },
+            {
+              "name": "St Albans Cathedral",
+              "tip_5lang": {
+                "de": "Das riesige Kirchenschiff bietet stundenlangen Schutz und tolle Akustik.",
+                "hu": "A hatalmas hajó órákig tartó védelmet és lenyűgöző akusztikát kínál.",
+                "ro": "Naosul uriaș oferă adăpost pentru ore întregi și o acustică superbă.",
+                "en": "The massive nave offers hours of shelter and superb acoustics."
+              }
+            },
+            {
+              "name": "Roman Wall of St Albans",
+              "tip_5lang": {
+                "de": "Nur ein kurzer Blick; die Wege im Park können schlammig sein.",
+                "hu": "Csak egy pillantás; a parki ösvények sárgulhatnak az esőben.",
+                "ro": "Doar o privire scurtă; potecile din parc pot deveni noroioase.",
+                "en": "Just a brief look; park paths can get muddy in the rain."
+              }
+            },
+            {
+              "name": "Verulamium Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit für die Mosaike, während es draußen regnet.",
+                "hu": "Érdemes elidőzni a mozaikoknál, amíg kint esik az eső.",
+                "ro": "Merită să zăboviți la mozaicuri în timp ce afară plouă.",
+                "en": "Great time to linger over the mosaics while it pours outside."
+              }
+            },
+            {
+              "name": "Ye Olde Fighting Cocks",
+              "tip_5lang": {
+                "de": "Sichern Sie sich einen Platz am Kamin im ältesten Pub Englands.",
+                "hu": "Próbáljon helyet fogni a kandalló mellett Anglia legrégebbi pubjában.",
+                "ro": "Ocupați un loc lângă șemineu în cel mai vechi pub din Anglia.",
+                "en": "Try to grab a seat by the fireplace in England's oldest pub."
+              }
+            },
+            {
+              "name": "Verulamium Park",
+              "tip_5lang": {
+                "de": "Halten Sie sich an die asphaltierten Wege, um Pfützen zu vermeiden.",
+                "hu": "Maradjon az aszfaltozott utakon a tócsák elkerülése érdekében.",
+                "ro": "Rămâneți pe aleile asfaltate pentru a evita bălțile mari.",
+                "en": "Stick to the paved paths to avoid the largest puddles."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Regenschirm ist bei dem Wind in St Albans Pflicht.",
+              "Nutzen Sie die Museen für längere Aufenthalte während der Güsse.",
+              "Die Wege im Verulamium Park können nach Regen teilweise unter Wasser stehen.",
+              "Tragen Sie wasserfeste Schuhe für die Kopfsteinpflastergassen im Zentrum."
+            ],
+            "hu": [
+              "A szeles St Albans-i időben egy erős esernyő elengedhetetlen.",
+              "Használja ki a múzeumokat a hosszabb esőzések idején.",
+              "A Verulamium Park ösvényei néhol víz alá kerülhetnek nagyobb eső után.",
+              "A központ macskaköves utcáihoz vízálló cipő ajánlott."
+            ],
+            "ro": [
+              "O umbrelă rezistentă este obligatorie în vântul din St Albans.",
+              "Folosiți muzeele pentru opriri lungi în timpul rafalelor de ploaie.",
+              "Potecile din Parcul Verulamium pot fi inundate parțial după ploaie.",
+              "Purtați încălțăminte impermeabilă pentru străzile pietruite din centru."
+            ],
+            "en": [
+              "A sturdy umbrella is essential for the windy St Albans weather.",
+              "Use the museums for extended breaks during heavy downpours.",
+              "Verulamium Park paths can flood partially after sustained rain.",
+              "Waterproof shoes are recommended for the cobbled central streets."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der frostige Morgen beginnt am Clock Tower, bevor das warme Museum lockt. Mittags strahlt die Kathedrale in der tiefstehenden Wintersonne eine besondere Ruhe aus. Nachmittags wärmen wir uns im Verulamium Museum an der Geschichte auf. Wenn die Dunkelheit gegen 16 Uhr hereinbricht, leuchten die Lichter des Ye Olde Fighting Cocks einladend über den gefrorenen See des Parks.",
+            "hu": "A fagyos reggel a Clock Towernél indul, majd a múzeum melege hívogat. Délben a katedrális az alacsonyan járó téli napsütésben különleges nyugalmat áraszt. Délután a Verulamium Múzeumban melegszünk fel a római falak között. Amikor 16 óra körül leszáll az éj, a Ye Olde Fighting Cocks fényei hívogatóan csillognak a park befagyott tava felett.",
+            "ro": "Dimineața geroasă începe la Turnul cu Ceas, înainte ca muzeul cald să vă atragă. La prânz, Catedrala emană o liniște aparte în soarele slab de iarnă. După-amiaza ne încălzim la Muzeul Verulamium printre relicvele romane. Când întunericul coboară în jurul orei 16:00, luminile de la Ye Olde Fighting Cocks strălucesc primitor peste lacul înghețat.",
+            "en": "The frosty morning starts at the Clock Tower before the warm museum beckons. At noon, the Cathedral radiates a special calm in the low winter sun. In the afternoon, we warm up with history inside the Verulamium Museum. As darkness falls around 4 PM, the lights of Ye Olde Fighting Cocks glow invitingly across the park's frozen lake."
+          },
+          "stops": [
+            {
+              "name": "St Albans Clock Tower",
+              "tip_5lang": {
+                "de": "Die Aussicht oben ist bei klarer Winterluft besonders weit.",
+                "hu": "A kilátás fentről a tiszta téli levegőben különösen messzire nyúlik.",
+                "ro": "Priveliștea de sus este foarte clară în aerul rece de iarnă.",
+                "en": "The view from the top is exceptionally clear in the crisp winter air."
+              }
+            },
+            {
+              "name": "St Albans Museum + Gallery",
+              "tip_5lang": {
+                "de": "Perfekt aufgeheizte Galerien für eine kulturelle Aufwärmpause.",
+                "hu": "Kellemesen fűtött galériák egy kulturális bemelegítő pihenőhöz.",
+                "ro": "Galerii bine încălzite pentru o pauză culturală reconfortantă.",
+                "en": "Perfectly heated galleries for a cultural warming break."
+              }
+            },
+            {
+              "name": "St Albans Cathedral",
+              "tip_5lang": {
+                "de": "Achten Sie auf die stimmungsvolle Beleuchtung am frühen Nachmittag.",
+                "hu": "Figyelje meg a hangulatos világítást kora délután a belső térben.",
+                "ro": "Admirați iluminarea atmosferică din interior la începutul după-amiezii.",
+                "en": "Note the atmospheric interior lighting in the early afternoon."
+              }
+            },
+            {
+              "name": "Roman Wall of St Albans",
+              "tip_5lang": {
+                "de": "Die alten Steine wirken bei Raureif besonders mystisch.",
+                "hu": "A régi kövek zúzmarásan különösen misztikus látványt nyújtanak.",
+                "ro": "Pietrele vechi par de-a dreptul mistice când sunt acoperite de chiciură.",
+                "en": "The old stones look especially mystical when covered in hoarfrost."
+              }
+            },
+            {
+              "name": "Verulamium Museum",
+              "tip_5lang": {
+                "de": "Ein gemütlicher Rückzugsort, wenn der Winterwind im Park auffrischt.",
+                "hu": "Barátságos menedék, ha feltámad a téli szél a parkban.",
+                "ro": "Un refugiu primitor când vântul de iarnă se întețește în parc.",
+                "en": "A cozy retreat when the winter wind picks up in the park."
+              }
+            },
+            {
+              "name": "Ye Olde Fighting Cocks",
+              "tip_5lang": {
+                "de": "Bestellen Sie ein warmes Ale oder einen Tee am offenen Feuer.",
+                "hu": "Kérjen egy meleg sört vagy teát a nyitott kandalló mellett.",
+                "ro": "Comandați un ale cald sau un ceai lângă focul deschis.",
+                "en": "Order a warm ale or tea by the roaring open fire."
+              }
+            },
+            {
+              "name": "Verulamium Park",
+              "tip_5lang": {
+                "de": "Wunderschön bei Sonnenuntergang (ca. 16:00 Uhr); Vorsicht vor Glatteis.",
+                "hu": "Gyönyörű naplementekor (kb. 16:00); vigyázzon a jeges foltokkal.",
+                "ro": "Superb la apus (aprox. ora 16:00); atenție la porțiunile cu gheață.",
+                "en": "Beautiful at sunset (around 4 PM); watch out for icy patches."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Dezember bereits gegen 16:00 Uhr unter.",
+              "Tragen Sie mehrere Schichten, da die Kathedrale kühl sein kann.",
+              "Warme Getränke gibt es im Museumscafé und im Cathedral Shop.",
+              "Die Stufen zum Clock Tower können bei Frost sehr glatt sein."
+            ],
+            "hu": [
+              "A nap decemberben már délután 4 óra körül lemegy.",
+              "Öltözzön rétegesen, mert a katedrális belseje hűvös lehet.",
+              "Meleg italokat a múzeumi kávézóban és a katedrális boltjában kaphat.",
+              "A Clock Tower lépcsői fagyos időben nagyon csúszhatnak."
+            ],
+            "ro": [
+              "Soarele apune deja în jurul orei 16:00 în luna decembrie.",
+              "Îmbrăcați-vă în straturi, interiorul catedralei poate fi răcoros.",
+              "Băuturi calde găsiți la cafeneaua muzeului și la magazinul catedralei.",
+              "Treptele Turnului cu Ceas pot fi poleite și foarte alunecoase."
+            ],
+            "en": [
+              "Sunset occurs as early as 4 PM in December.",
+              "Dress in layers as the Cathedral interior can remain quite chilly.",
+              "Hot drinks are available at the museum cafe and Cathedral shop.",
+              "The steps to the Clock Tower can be very slippery during frost."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -766,6 +966,206 @@
           "A good lock is essential for when you're visiting attractions.",
           "Check the weather forecast; a light raincoat is always a good idea in England."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Radabenteuer beginnt trotz Nieselregen an der Kathedrale. Wir radeln vorsichtig durch den Verulamium Park zum Museum, wo wir uns abtrocknen. Mittags geht es weiter zum Gorhambury House über befestigte Wege. Ein langer Stopp im Pub hilft gegen die Kälte, bevor wir über die Sopwell-Ruinen zum Glockenturm zurückkehren, während der Regen langsam nachlässt.",
+            "hu": "A kerékpáros kaland a szemerkélő eső ellenére a katedrálisnál indul. Óvatosan tekerünk át a parkon a múzeumig, ahol megszárítkozunk. Délben a Gorhambury House felé vesszük az irányt aszfaltozott utakon. Egy hosszú pihenő a pubban segít a hideg ellen, majd a Sopwell-romokon keresztül térünk vissza a toronyhoz az elcsendesedő esőben.",
+            "ro": "Aventura pe bicicletă începe la Catedrală, în ciuda burniței. Pedalam cu atenție prin Parcul Verulamium până la muzeu, unde ne uscăm. La prânz continuăm spre Gorhambury House pe drumuri asfaltate. O pauză lungă la pub ajută împotriva frigului, înainte de a reveni la turn prin ruinele Sopwell.",
+            "en": "The cycling adventure begins at the Cathedral despite the drizzle. We pedal carefully through Verulamium Park to the museum to dry off. At noon, we head towards Gorhambury House using paved routes. A long stop at the pub helps beat the chill before returning to the Clock Tower via the Sopwell ruins as the rain eases."
+          },
+          "stops": [
+            {
+              "name": "St Albans Cathedral",
+              "tip_5lang": {
+                "de": "Sicherer Fahrradabstellplatz direkt am Eingang vorhanden.",
+                "hu": "Biztonságos kerékpártároló található közvetlenül a bejáratnál.",
+                "ro": "Rastel securizat pentru biciclete chiar lângă intrare.",
+                "en": "Secure bike parking available right by the entrance."
+              }
+            },
+            {
+              "name": "Verulamium Park",
+              "tip_5lang": {
+                "de": "Vorsicht bei Bremsungen auf nassem Laub oder Gras.",
+                "hu": "Vigyázzon a fékezéssel a nedves leveleken vagy a fűvön.",
+                "ro": "Atenție la frânare pe frunzele ude sau pe iarbă.",
+                "en": "Be careful when braking on wet leaves or grass."
+              }
+            },
+            {
+              "name": "Verulamium Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe, um nasse Regenjacken aufzuhängen.",
+                "hu": "Használja a ruhatárat a nedves esőkabátok felakasztásához.",
+                "ro": "Folosiți garderoba pentru a lăsa pelerinele de ploaie ude.",
+                "en": "Use the cloakroom to hang up wet rain jackets."
+              }
+            },
+            {
+              "name": "Gorhambury House",
+              "tip_5lang": {
+                "de": "Der Zufahrtsweg ist exponiert; mit Seitenwind rechnen.",
+                "hu": "A bekötőút nyitott; számítson erős oldalszélre.",
+                "ro": "Drumul de acces este expus; atenție la vântul lateral.",
+                "en": "The access drive is exposed; expect crosswinds."
+              }
+            },
+            {
+              "name": "Ye Olde Fighting Cocks",
+              "tip_5lang": {
+                "de": "Fahrradständer im Außenbereich sind oft unter Bäumen geschützt.",
+                "hu": "A külső kerékpártárolók gyakran a fák alatt védettek.",
+                "ro": "Rastelurile exterioare sunt adesea protejate sub copaci.",
+                "en": "Outdoor bike racks are often sheltered under trees."
+              }
+            },
+            {
+              "name": "Sopwell Nunnery",
+              "tip_5lang": {
+                "de": "Der Boden kann um die Ruinen herum sehr schlammig sein.",
+                "hu": "A romok körüli talaj nagyon sáros lehet eső után.",
+                "ro": "Terenul din jurul ruinelor poate fi foarte noroios.",
+                "en": "The ground around the ruins can get very muddy."
+              }
+            },
+            {
+              "name": "St Albans Clock Tower",
+              "tip_5lang": {
+                "de": "Das Kopfsteinpflaster hier ist bei Nässe extrem rutschig.",
+                "hu": "A macskakő itt rendkívül csúszós nedves időben.",
+                "ro": "Pavajul de aici este extrem de alunecos când este ud.",
+                "en": "The cobblestones here are extremely slippery when wet."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Bremsbeläge vor der Fahrt im Regen.",
+              "Tragen Sie leuchtende, wasserfeste Kleidung für bessere Sichtbarkeit.",
+              "Verwenden Sie Schutzbleche, um Schlammspritzer zu minimieren.",
+              "Halten Sie eine trockene Schicht in einer wasserfesten Tasche bereit."
+            ],
+            "hu": [
+              "Ellenőrizze a fékbetéteket az esős indulás előtt.",
+              "Viseljen feltűnő, vízálló ruházatot a jobb láthatóságért.",
+              "Használjon sárvédőt a felfröccsenő sár minimalizálására.",
+              "Tartson egy száraz váltóruhát vízhatlan táskában."
+            ],
+            "ro": [
+              "Verificați saboții de frână înainte de a pleca pe ploaie.",
+              "Purtați haine impermeabile reflectorizante pentru vizibilitate.",
+              "Folosiți apărători pentru a minimiza stropii de noroi.",
+              "Păstrați un strat de haine uscate într-o geantă etanșă."
+            ],
+            "en": [
+              "Check your brake pads before starting in the rain.",
+              "Wear bright, waterproof clothing for better visibility.",
+              "Use mudguards to minimize splashes from the road.",
+              "Keep a dry layer ready in a waterproof pannier or bag."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine erfrischende Winterfahrt startet an der Kathedrale. Wir genießen den Raureif im Park und flüchten vor der Kälte ins Verulamium Museum. Mittags geht es zum Gorhambury House, wo wir die weite Winterlandschaft bewundern. Vor dem frühen Sonnenuntergang wärmen wir uns im Pub auf und radeln mit voller Beleuchtung über die Sopwell-Ruinen zurück zum hell erleuchteten Glockenturm.",
+            "hu": "Frissítő téli tekerés indul a katedrálistól. Megcsodáljuk a zúzmarát a parkban, majd a múzeumba menekülünk a hideg elől. Délben a Gorhambury House felé tartunk a tágas téli tájban. A korai naplemente előtt a pubban melegszünk fel, majd teljes kivilágítással tekerünk a Sopwell-romokon át a kivilágított toronyhoz.",
+            "ro": "O plimbare revigorantă de iarnă începe la Catedrală. Admirăm chiciura din parc și ne adăpostim de frig la Muzeul Verulamium. La prânz mergem spre Gorhambury House în peisajul vast de iarnă. Înainte de apusul timpuriu ne încălzim la pub, apoi revenim cu luminile aprinse la Turnul cu Ceas.",
+            "en": "A refreshing winter ride starts at the Cathedral. We enjoy the frost in the park and escape the chill inside Verulamium Museum. At noon, we head to Gorhambury House to admire the vast winter landscape. Before the early sunset, we warm up at the pub and pedal with full lights via Sopwell back to the illuminated Clock Tower."
+          },
+          "stops": [
+            {
+              "name": "St Albans Cathedral",
+              "tip_5lang": {
+                "de": "Vermeiden Sie die steilen, schattigen Wege, die vereist sein könnten.",
+                "hu": "Kerülje a meredek, árnyékos utakat, amelyek jegesek lehetnek.",
+                "ro": "Evitați potecile abrupte și umbrite care pot fi înghețate.",
+                "en": "Avoid steep, shaded paths which might be icy."
+              }
+            },
+            {
+              "name": "Verulamium Park",
+              "tip_5lang": {
+                "de": "Der Weg entlang des Sees kann bei Frost sehr zugig sein.",
+                "hu": "A tó menti út fagyos időben nagyon huzatos lehet.",
+                "ro": "Drumul de-a lungul lacului poate fi foarte vântos iarna.",
+                "en": "The lakeside path can be very drafty in freezing weather."
+              }
+            },
+            {
+              "name": "Verulamium Museum",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Finger wieder aufzuwärmen.",
+                "hu": "Ideális hely az elgémberedett ujjak felmelegítésére.",
+                "ro": "Locul ideal pentru a vă reîncălzi degetele amorțite.",
+                "en": "An ideal spot to warm up your frozen fingers."
+              }
+            },
+            {
+              "name": "Gorhambury House",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Öffnungszeiten; im Winter oft eingeschränkt.",
+                "hu": "Ellenőrizze a nyitvatartást; télen gyakran korlátozott.",
+                "ro": "Verificați programul; iarna este adesea restricționat.",
+                "en": "Check opening times; often restricted during winter."
+              }
+            },
+            {
+              "name": "Ye Olde Fighting Cocks",
+              "tip_5lang": {
+                "de": "Ein heißer Apfelwein ist die perfekte Belohnung für Winterradler.",
+                "hu": "Egy forró almafröccs tökéletes jutalom a téli bringásoknak.",
+                "ro": "Un cidru fierbinte este recompensa perfectă pentru cicliști.",
+                "en": "A hot cider is the perfect reward for winter cyclists."
+              }
+            },
+            {
+              "name": "Sopwell Nunnery",
+              "tip_5lang": {
+                "de": "Schön für Fotos in der blauen Stunde; Lichter einschalten!",
+                "hu": "Szép fotóhelyszín a kék órában; kapcsolja be a lámpákat!",
+                "ro": "Loc bun de poze la ora albastră; aprindeți luminile!",
+                "en": "Great for photos during the blue hour; turn on your lights!"
+              }
+            },
+            {
+              "name": "St Albans Clock Tower",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenem Kondenswasser auf dem Pflaster.",
+                "hu": "Vigyázzon a macskaköveken megfagyott pára miatti csúszásveszéllyel.",
+                "ro": "Atenție la condensul înghețat pe pavajul din centru.",
+                "en": "Watch out for frozen condensation on the central paving."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vorder- und Rücklicht sind ab 15:30 Uhr unverzichtbar.",
+              "Tragen Sie windfeste Handschuhe und eine Mütze unter dem Helm.",
+              "Achten Sie auf gefrorene Pfützen in schattigen Parkabschnitten.",
+              "Halten Sie die Fahrt kurz, um Unterkühlung zu vermeiden."
+            ],
+            "hu": [
+              "Az első és hátsó lámpa 15:30-tól nélkülözhetetlen.",
+              "Viseljen szélálló kesztyűt és sapkát a sisak alatt.",
+              "Ügyeljen a fagyott tócsákra az árnyékos parkrészeken.",
+              "Tartsa röviden a megállókat a kihűlés elkerülése érdekében."
+            ],
+            "ro": [
+              "Luminile față și spate sunt esențiale după ora 15:30.",
+              "Purtați mănuși rezistente la vânt și o căciulă sub cască.",
+              "Atenție la bălțile înghețate în zonele umbrite ale parcului.",
+              "Păstrați opririle scurte pentru a evita hipotermia."
+            ],
+            "en": [
+              "Front and rear lights are essential from 3:30 PM onwards.",
+              "Wear windproof gloves and a thermal cap under your helmet.",
+              "Watch out for frozen puddles in shaded park sections.",
+              "Keep stops short to avoid getting too cold while stationary."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1170,6 +1570,224 @@
           "Be aware of the narrow, ancient streets in the city centre.",
           "Check opening times for rural attractions like Gorhambury House as they can be seasonal."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten im regnerischen Heartwood Forest, wo die Bäume etwas Schutz bieten. Danach geht es komfortabel per Auto zum Museum im Zentrum. Mittags besuchen wir die Kathedrale und den Glockenturm, während wir zwischen den Parkplätzen trocken bleiben. Der Nachmittag im Verulamium Museum ist perfekt für Regentage. Den Abend genießen wir im Pub, bevor wir gemütlich im warmen Auto heimfahren.",
+            "hu": "Az esős Heartwood Forestben kezdünk, ahol a fák némi védelmet nyújtanak. Ezután kényelmesen, autóval megyünk a központi múzeumba. Délben a katedrálist és a tornyot látogatjuk meg, szárazon maradva a parkolók között. A délután a Verulamium Múzeumban tökéletes az esős időre. Az estét a pubban töltjük, majd a meleg autóval indulunk haza.",
+            "ro": "Începem în Pădurea Heartwood pe ploaie, unde copacii oferă puțin adăpost. Apoi mergem confortabil cu mașina spre muzeul central. La prânz vizităm Catedrala și Turnul cu Ceas, rămânând uscați între parcări. După-amiaza la Muzeul Verulamium este perfectă pentru zile ploioase. Seara ne bucurăm de pub înainte de a pleca spre casă.",
+            "en": "We start in rainy Heartwood Forest, where the trees offer some canopy cover. Then, we drive comfortably to the central Museum + Gallery. At noon, we visit the Cathedral and Clock Tower, staying dry between parking spots. The afternoon at Verulamium Museum is perfect for rainy days. We enjoy the evening at the pub before heading home in the warm car."
+          },
+          "stops": [
+            {
+              "name": "Heartwood Forest",
+              "tip_5lang": {
+                "de": "Parkplatz kann bei starkem Regen schlammig sein.",
+                "hu": "A parkoló heves esőzéskor sáros lehet.",
+                "ro": "Parcarea poate deveni noroioasă în caz de ploaie torențială.",
+                "en": "The car park can get muddy during heavy rainfall."
+              }
+            },
+            {
+              "name": "St Albans Museum + Gallery",
+              "tip_5lang": {
+                "de": "Parkhaus 'The Maltings' ist nah und bietet trockenen Zugang.",
+                "hu": "A 'The Maltings' parkolóház közel van és fedett utat biztosít.",
+                "ro": "Parcarea 'The Maltings' este aproape și oferă acces uscat.",
+                "en": "The Maltings car park is nearby and offers dry access."
+              }
+            },
+            {
+              "name": "St Albans Clock Tower",
+              "tip_5lang": {
+                "de": "Lassen Sie die Schirme im Auto, wenn Sie nur kurz schauen.",
+                "hu": "Hagyja az esernyőt a kocsiban, ha csak egy gyors pillantásra vágyik.",
+                "ro": "Lăsați umbrelele în mașină dacă doriți doar o privire rapidă.",
+                "en": "Leave umbrellas in the car if just hopping out for a quick look."
+              }
+            },
+            {
+              "name": "St Albans Cathedral",
+              "tip_5lang": {
+                "de": "Begrenzte Parkplätze direkt an der Kirche; nutzen Sie Seitenstraßen.",
+                "hu": "Kevés parkolóhely a templomnál; használja az oldalsó utcákat.",
+                "ro": "Locuri de parcare limitate la biserică; folosiți străzile adiacente.",
+                "en": "Limited parking right at the church; use side streets instead."
+              }
+            },
+            {
+              "name": "Verulamium Museum",
+              "tip_5lang": {
+                "de": "Großer Parkplatz direkt vor der Tür, ideal bei Regen.",
+                "hu": "Nagy parkoló közvetlenül az ajtó előtt, ideális esőben.",
+                "ro": "Parcare mare chiar în fața intrării, ideală pe ploaie.",
+                "en": "Large car park right outside the door, ideal for rainy days."
+              }
+            },
+            {
+              "name": "Roman Wall of St Albans",
+              "tip_5lang": {
+                "de": "Vom Parkplatz aus im Auto sitzen bleiben und die Aussicht genießen.",
+                "hu": "A parkolóból akár az autóból is élvezheti a látványt.",
+                "ro": "Puteți admira priveliștea chiar din mașină, din parcare.",
+                "en": "You can enjoy the view even from your car in the parking area."
+              }
+            },
+            {
+              "name": "Ye Olde Fighting Cocks",
+              "tip_5lang": {
+                "de": "Parken Sie im Verulamium-Parkhaus und gehen Sie kurz zu Fuß.",
+                "hu": "Parkoljon a Verulamium parkolóban, és sétáljon át gyorsan.",
+                "ro": "Parcați în zona Verulamium și mergeți pe jos o distanță scurtă.",
+                "en": "Park in the Verulamium area and walk the short distance."
+              }
+            },
+            {
+              "name": "Gorhambury House",
+              "tip_5lang": {
+                "de": "Die einspurige Zufahrt erfordert Vorsicht bei schlechter Sicht.",
+                "hu": "Az egysávos bekötőút óvatosságot igényel rossz látási viszonyoknál.",
+                "ro": "Drumul de acces cu o singură bandă necesită atenție sporită.",
+                "en": "The single-track access road requires caution in low visibility."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Halten Sie ein Handtuch im Auto bereit, um Sitze trocken zu halten.",
+              "Nutzen Sie Park-Apps, um das Bezahlen im Regen am Automaten zu vermeiden.",
+              "Achten Sie auf tiefere Pfützen auf den Landstraßen um Heartwood.",
+              "Die Sicht kann auf der A414 bei Starkregen eingeschränkt sein."
+            ],
+            "hu": [
+              "Tartson egy törölközőt az autóban az ülések szárazon tartásához.",
+              "Használjon parkolási appot, hogy ne kelljen az esőben automatánál fizetni.",
+              "Ügyeljen a mélyebb tócsákra a Heartwood környéki utakon.",
+              "A látótávolság az A414-esen heves esőben jelentősen csökkenhet."
+            ],
+            "ro": [
+              "Păstrați un prosop în mașină pentru a menține scaunele uscate.",
+              "Folosiți aplicații de parcare pentru a nu plăti la aparat pe ploaie.",
+              "Atenție la bălțile adânci pe drumurile de lângă Heartwood.",
+              "Vizibilitatea pe A414 poate fi redusă în timpul ploilor torențiale."
+            ],
+            "en": [
+              "Keep a towel in the car to keep the seats dry.",
+              "Use parking apps to avoid paying at machines in the rain.",
+              "Watch out for deep puddles on the country roads near Heartwood.",
+              "Visibility can be poor on the A414 during heavy downpours."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintertour beginnt im mystischen Heartwood Forest bei Sonnenaufgang. Wir genießen die Sitzheizung auf dem Weg zum Museum. Mittags erkunden wir die Kathedrale, die im Winterlicht besonders prachtvoll wirkt. Nachmittags bietet das Verulamium Museum wohlige Wärme. Wenn es dunkel wird, fahren wir zum festlich beleuchteten Pub und beenden den Tag bei Gorhambury House im Mondschein.",
+            "hu": "A téli túra a misztikus Heartwood Forestben indul napkeltekor. Élvezzük az ülésfűtést a múzeum felé vezető úton. Délben a katedrálist fedezzük fel, amely a téli fényben különösen pompás. Délután a Verulamium Múzeum nyújt meleget. Sötétedés után az ünnepi díszben úszó pubhoz hajtunk, a napot pedig a Gorhambury House-nál zárjuk.",
+            "ro": "Turul de iarnă începe în Pădurea Heartwood la răsărit. Ne bucurăm de încălzirea în scaune spre muzeu. La prânz explorăm Catedrala, care arată splendid în lumina iernii. După-amiaza, Muzeul Verulamium oferă căldură confortabilă. După lăsarea întunericului, mergem la pub-ul iluminat festiv.",
+            "en": "The winter tour starts in the mystical Heartwood Forest at sunrise. We enjoy the heated seats on the way to the museum. At noon, we explore the Cathedral, which looks magnificent in the winter light. In the afternoon, Verulamium Museum provides warmth. As it gets dark, we drive to the festively lit pub and end the day at Gorhambury House."
+          },
+          "stops": [
+            {
+              "name": "Heartwood Forest",
+              "tip_5lang": {
+                "de": "Früh kommen, um den Sonnenaufgang über den Feldern zu sehen.",
+                "hu": "Érkezzen korán, hogy lássa a napfelkeltét a mezők felett.",
+                "ro": "Veniți devreme pentru a vedea răsăritul peste câmpuri.",
+                "en": "Arrive early to see the sunrise over the frosted fields."
+              }
+            },
+            {
+              "name": "St Albans Museum + Gallery",
+              "tip_5lang": {
+                "de": "Parkhaus ist frostfrei; ideal, um das Auto abzustellen.",
+                "hu": "A parkolóház fagymentes; ideális az autó tárolására.",
+                "ro": "Parcarea etajată este ferită de îngheț; ideală pentru oprire.",
+                "en": "The multi-story car park is frost-free; ideal for parking."
+              }
+            },
+            {
+              "name": "St Albans Clock Tower",
+              "tip_5lang": {
+                "de": "Die Weihnachtsbeleuchtung im Zentrum ist ab 16 Uhr wunderschön.",
+                "hu": "A központi karácsonyi fények délután 4-től gyönyörűek.",
+                "ro": "Luminile de Crăciun din centru sunt superbe după ora 16:00.",
+                "en": "The Christmas lights in the center are beautiful from 4 PM."
+              }
+            },
+            {
+              "name": "St Albans Cathedral",
+              "tip_5lang": {
+                "de": "Suchen Sie nach speziellen Winterkonzerten am späten Vormittag.",
+                "hu": "Keressen különleges téli koncerteket a délelőtti órákban.",
+                "ro": "Căutați concerte speciale de iarnă la sfârșitul dimineții.",
+                "en": "Look out for special winter concerts in the late morning."
+              }
+            },
+            {
+              "name": "Verulamium Museum",
+              "tip_5lang": {
+                "de": "Die Abfahrt vom Parkplatz kann bei überfrierender Nässe glatt sein.",
+                "hu": "A parkolóból való kihajtás jegesedéskor csúszós lehet.",
+                "ro": "Ieșirea din parcare poate fi alunecoasă în caz de polei.",
+                "en": "The car park exit can be slippery in freezing conditions."
+              }
+            },
+            {
+              "name": "Roman Wall of St Albans",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp direkt von der Straße aus möglich.",
+                "hu": "Rövid fotómegálló közvetlenül az út mellől lehetséges.",
+                "ro": "Oprire scurtă pentru poze posibilă chiar de lângă drum.",
+                "en": "Short photo stop possible directly from the roadside."
+              }
+            },
+            {
+              "name": "Ye Olde Fighting Cocks",
+              "tip_5lang": {
+                "de": "In der Dämmerung ist die Anfahrt über den Park sehr malerisch.",
+                "hu": "Szürkületben a parkon átvezető út nagyon festői.",
+                "ro": "La amurg, drumul prin parc este foarte pitoresc.",
+                "en": "At twilight, the approach through the park is very picturesque."
+              }
+            },
+            {
+              "name": "Gorhambury House",
+              "tip_5lang": {
+                "de": "Achten Sie auf Wildtiere, die im Winter oft die Straße kreuzen.",
+                "hu": "Ügyeljen a vadállatokra, amelyek télen gyakran átkelnek az úton.",
+                "ro": "Atenție la animalele sălbatice care traversează drumul iarna.",
+                "en": "Watch out for wildlife often crossing the road in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Frostschutz und die Scheibenwischer vor der Abfahrt.",
+              "Planen Sie mehr Zeit für die Parkplatzsuche am Marktplatz ein.",
+              "Einige ländliche Nebenstraßen werden nicht gestreut.",
+              "Die Batterie wird bei Kälte stärker beansprucht; checken Sie sie vorher."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze a fagyállót és az ablaktörlőket.",
+              "Hagyjon több időt a parkolóhely-keresésre a főtéren.",
+              "Egyes vidéki mellékutakat nem sóznak télen.",
+              "A hideg megterheli az akkumulátort; érdemes ellenőrizni."
+            ],
+            "ro": [
+              "Verificați antigelul și ștergătoarele înainte de plecare.",
+              "Alocați mai mult timp pentru găsirea unui loc de parcare în centru.",
+              "Unele drumuri secundare rurale nu sunt date cu sare.",
+              "Bateria este mai solicitată la frig; verificați-o în prealabil."
+            ],
+            "en": [
+              "Check antifreeze and wipers before setting off.",
+              "Allow extra time for finding a parking spot near the Market Place.",
+              "Some rural side roads may not be gritted in freezing weather.",
+              "Cold weather puts more strain on the battery; check it beforehand."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1526,6 +2144,188 @@
           "Buses can get busy during peak hours, so plan accordingly.",
           "Contactless payment is accepted on most buses."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir nutzen die Busse, um im regnerischen St Albans trocken zu bleiben. Der Tag startet im Museum im Zentrum, gefolgt von einem kurzen Sprint zum Glockenturm. Mittags bringt uns der Bus zur Kathedrale. Den Nachmittag verbringen wir geschützt im Verulamium Museum. Nach einem gemütlichen Abend im Pub nehmen wir den Bus zurück, während der Regen die Straßen glänzen lässt.",
+            "hu": "Buszokkal közlekedünk, hogy szárazon maradjunk az esős St Albansban. A nap a központi múzeumban indul, majd egy rövid sprint következik a toronyhoz. Délben busz visz a katedrálishoz. A délutánt védetten a Verulamium Múzeumban töltjük. A pubban töltött este után busszal térünk vissza a csillogó, esős utcákon.",
+            "ro": "Folosim autobuzele pentru a rămâne uscați în St Albans pe ploaie. Ziua începe la muzeul central, urmată de un sprint scurt până la turn. La prânz, autobuzul ne duce la Catedrală. După-amiaza o petrecem la Muzeul Verulamium. După o seară la pub, luăm autobuzul înapoi prin ploaie.",
+            "en": "We use local buses to stay dry in rainy St Albans. The day starts at the central Museum + Gallery, followed by a short sprint to the Clock Tower. At noon, the bus takes us to the Cathedral. We spend the afternoon sheltered in Verulamium Museum. After a cozy evening at the pub, we take the bus back through the glistening streets."
+          },
+          "stops": [
+            {
+              "name": "St Albans Museum + Gallery",
+              "tip_5lang": {
+                "de": "Haupthaltestelle 'St Peter's Street' ist nur 2 Minuten entfernt.",
+                "hu": "A 'St Peter's Street' fő megálló mindössze 2 percre van.",
+                "ro": "Stația principală 'St Peter's Street' este la doar 2 minute distanță.",
+                "en": "The main 'St Peter's Street' bus hub is just 2 minutes away."
+              }
+            },
+            {
+              "name": "St Albans Clock Tower",
+              "tip_5lang": {
+                "de": "Überdachte Bushaltestellen befinden sich in der Nähe am Marktplatz.",
+                "hu": "Fedett buszmegállók találhatók a közeli főtéren.",
+                "ro": "Stații de autobuz acoperite se află în apropiere, în piață.",
+                "en": "Covered bus stops are located nearby in the Market Place."
+              }
+            },
+            {
+              "name": "St Albans Cathedral",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Seiteneingang, um schneller ins Trockene zu kommen.",
+                "hu": "Használja az oldalsó bejáratot, hogy gyorsabban fedett helyre érjen.",
+                "ro": "Folosiți intrarea laterală pentru a ajunge mai repede la adăpost.",
+                "en": "Use the side entrance to get into the dry interior quicker."
+              }
+            },
+            {
+              "name": "Verulamium Museum",
+              "tip_5lang": {
+                "de": "Buslinie 300/301 hält fast direkt vor dem Museum.",
+                "hu": "A 300/301-es busz szinte közvetlenül a múzeum előtt áll meg.",
+                "ro": "Liniile 300/301 opresc aproape chiar în fața muzeului.",
+                "en": "Bus route 300/301 stops almost directly outside the museum."
+              }
+            },
+            {
+              "name": "Ye Olde Fighting Cocks",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Museum; nehmen Sie einen Regenschirm mit.",
+                "hu": "Rövid séta a múzeumtól; vigyen magával esernyőt.",
+                "ro": "Drum scurt pe jos de la muzeu; luați o umbrelă cu voi.",
+                "en": "Short walk from the museum; take an umbrella with you."
+              }
+            },
+            {
+              "name": "Sopwell Nunnery",
+              "tip_5lang": {
+                "de": "Bushaltestelle 'Cottonmill Lane' bietet wenig Wetterschutz.",
+                "hu": "A 'Cottonmill Lane' megálló kevés védelmet nyújt az eső ellen.",
+                "ro": "Stația 'Cottonmill Lane' oferă puțin adăpost împotriva ploii.",
+                "en": "The 'Cottonmill Lane' stop offers little shelter from the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die 'Intalink' App für Echtzeit-Buszeiten im Regen.",
+              "Holen Sie sich ein Tagesticket, um beliebig oft umzusteigen.",
+              "Die Busse können bei Regen aufgrund des Verkehrs Verspätung haben.",
+              "Hintere Plätze im Bus sind oft wärmer und trockener."
+            ],
+            "hu": [
+              "Használja az 'Intalink' appot a valós idejű buszmenetrendhez.",
+              "Váltson napijegyet a korlátlan átszálláshoz.",
+              "Esőben a buszok a forgalom miatt késhetnek.",
+              "A busz hátsó ülései gyakran melegebbek és szárazabbak."
+            ],
+            "ro": [
+              "Folosiți aplicația 'Intalink' pentru orele în timp real pe ploaie.",
+              "Luați un bilet de o zi pentru transferuri nelimitate.",
+              "Autobuzele pot avea întârzieri din cauza traficului pe ploaie.",
+              "Locurile din spatele autobuzului sunt adesea mai calde."
+            ],
+            "en": [
+              "Use the 'Intalink' app for real-time bus times during the rain.",
+              "Get a day ticket for unlimited transfers between sites.",
+              "Buses may be delayed during rain due to increased traffic.",
+              "The rear seats of the bus are often warmer and drier."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Transit-Tour beginnt im warmen Museum. Wir nutzen die kurzen Buswege zwischen den historischen Stätten. Mittags beeindruckt die Kathedrale im klaren Winterlicht. Nachmittags flüchten wir vor der Kälte ins Verulamium Museum. Nach Sonnenuntergang genießen wir die Lichter im Pub und fahren gemütlich mit dem beheizten Bus zurück ins Zentrum.",
+            "hu": "A téli tömegközlekedős túra a meleg múzeumban indul. Rövid buszutakat használunk a történelmi helyszínek között. Délben a katedrális nyűgöz le a tiszta téli fényben. Délután a hideg elől a Verulamium Múzeumba menekülünk. Naplemente után a pub fényeit élvezzük, majd fűtött busszal térünk vissza a központba.",
+            "ro": "Turul de iarnă cu transportul în comun începe la muzeul cald. Folosim rute scurte de autobuz între siturile istorice. La prânz, Catedrala impresionează în lumina clară de iarnă. După-amiaza ne adăpostim la Muzeul Verulamium. După apus, ne bucurăm de luminile de la pub.",
+            "en": "The winter transit tour starts in the warm museum. We use short bus rides between historical sites. At noon, the Cathedral impresses in the clear winter light. In the afternoon, we escape the chill inside Verulamium Museum. After sunset, we enjoy the lights at the pub and take the heated bus back to the center."
+          },
+          "stops": [
+            {
+              "name": "St Albans Museum + Gallery",
+              "tip_5lang": {
+                "de": "Der Wartebereich in der St Peter's Street ist oft zugig.",
+                "hu": "A St Peter's Street-i várakozóhely gyakran huzatos.",
+                "ro": "Zona de așteptare de pe St Peter's Street este adesea vântoasă.",
+                "en": "The waiting area on St Peter's Street is often drafty."
+              }
+            },
+            {
+              "name": "St Albans Clock Tower",
+              "tip_5lang": {
+                "de": "Das Zentrum ist im Winter festlich beleuchtet; ideal für Fotos.",
+                "hu": "A központ télen ünnepi kivilágítást kap; ideális fotókhoz.",
+                "ro": "Centrul este iluminat festiv iarna; ideal pentru fotografii.",
+                "en": "The center is festively lit in winter; ideal for photos."
+              }
+            },
+            {
+              "name": "St Albans Cathedral",
+              "tip_5lang": {
+                "de": "Busse halten an der 'Abbey' Haltestelle, nur ein kurzer Weg.",
+                "hu": "A buszok az 'Abbey' megállónál állnak meg, csak egy rövid séta.",
+                "ro": "Autobuzele opresc la stația 'Abbey', aflată la mică distanță.",
+                "en": "Buses stop at the 'Abbey' stop, just a short walk away."
+              }
+            },
+            {
+              "name": "Verulamium Museum",
+              "tip_5lang": {
+                "de": "Im Winter ist der Bus der angenehmste Weg hierher.",
+                "hu": "Télen a busz a legkellemesebb módja az idejutásnak.",
+                "ro": "Iarna, autobuzul este cea mai plăcută cale de a ajunge aici.",
+                "en": "In winter, the bus is the most comfortable way to get here."
+              }
+            },
+            {
+              "name": "Ye Olde Fighting Cocks",
+              "tip_5lang": {
+                "de": "Vorsicht beim Gang durch den Park bei Dunkelheit.",
+                "hu": "Vigyázzon, amikor sötétben sétál át a parkon.",
+                "ro": "Atenție la mersul prin parc după lăsarea întunericului.",
+                "en": "Take care when walking through the park after dark."
+              }
+            },
+            {
+              "name": "Sopwell Nunnery",
+              "tip_5lang": {
+                "de": "Planen Sie den Besuch vor 15:30 Uhr ein, bevor es dunkel wird.",
+                "hu": "Tervezze a látogatást 15:30 elé, mielőtt besötétedik.",
+                "ro": "Planificați vizita înainte de ora 15:30, înainte de întuneric.",
+                "en": "Plan your visit before 3:30 PM, before it gets dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Busfrequenz kann an Winterabenden reduziert sein.",
+              "Tragen Sie warme Kleidung für die Wartezeiten an den Haltestellen.",
+              "Busse sind im Winter gut beheizt; ideal zum Aufwärmen.",
+              "Achten Sie auf den rutschigen Boden beim Ein- und Aussteigen."
+            ],
+            "hu": [
+              "Téli estéken a buszok ritkábban járhatnak.",
+              "Viseljen meleg ruhát a megállókban való várakozáshoz.",
+              "A buszok télen jól fűtöttek; ideálisak a felmelegedéshez.",
+              "Ügyeljen a csúszós padlóra a fel- és leszállásnál."
+            ],
+            "ro": [
+              "Frecvența autobuzelor poate fi redusă în serile de iarnă.",
+              "Purtați haine groase pentru perioadele de așteptare în stații.",
+              "Autobuzele sunt bine încălzite iarna; ideale pentru încălzire.",
+              "Atenție la podeaua alunecoasă la urcare și coborâre."
+            ],
+            "en": [
+              "Bus frequency may be reduced on winter evenings.",
+              "Wear warm clothing for the waiting times at bus stops.",
+              "Buses are well-heated in winter; ideal for warming up.",
+              "Watch out for slippery floors when boarding and alighting."
+            ]
+          }
+        }
       }
     }
   }

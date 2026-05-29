@@ -379,6 +379,206 @@
           "Take time to admire the details on the facades of the old buildings.",
           "A walk along the IJsselkade at sunset offers a magical view."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bieten die massiven Bögen der Stadttore wie die Cellebroederspoort ersten Schutz vor dem niederländischen Regen. Mittags verbringen Sie die Zeit im Gotischen Haus und im Stadtmuseum, wo die Hansegeschichte im Trockenen lebendig wird. Nachmittags besuchen Sie die Bovenkerk, deren hohes Kirchenschiff eine majestätische Zuflucht bietet. Den Abend lassen Sie bei einem Getränk in der Nähe der beleuchteten Broederpoort ausklingen.",
+            "hu": "Reggel a Cellebroederspoort kapu boltívei alatt keress menedéket a szitáló eső elől. Délben a Gótikus Ház és a Városi Múzeum belső tereiben merülhetsz el a Hanza-történelemben, távol a víztől. Délután a Bovenkerk monumentális csarnoka nyújt száraz és csendes pihenőt. Az estét a kivilágított Broederpoort közelében fejezd be, ahol a városi fények megcsillannak a vizes macskakövön.",
+            "ro": "Dimineața, arcadele masive ale porților orașului, precum Cellebroederspoort, oferă primul adăpost împotriva ploii olandeze. La prânz, vizitați Casa Gotică și Muzeul Municipal, unde istoria hanseatică prinde viață la adăpost. După-amiaza, Bovenkerk oferă un refugiu maiestuos sub bolțile sale înalte. Seara se încheie lângă Broederpoort iluminată, unde reflexiile pe asfaltul umed creează o atmosferă aparte.",
+            "en": "In the morning, the massive arches of city gates like Cellebroederspoort provide initial shelter from the Dutch rain. At noon, spend time inside the Gothic House and Stedelijk Museum, where Hanseatic history stays dry. In the afternoon, the Bovenkerk’s high nave offers a majestic indoor sanctuary. End your evening near the illuminated Broederpoort, watching the rain glisten on the historic cobblestones."
+          },
+          "stops": [
+            {
+              "name": "Start: Cellebroederspoort",
+              "tip_5lang": {
+                "de": "Nutzen Sie den breiten Tordurchgang als ersten Regenschutz.",
+                "hu": "Használd a kapu széles átjáróját eső elleni menedékként.",
+                "ro": "Folosiți trecerea largă a porții ca prim adăpost contra ploii.",
+                "en": "Use the wide gate passage as your first rain shelter."
+              }
+            },
+            {
+              "name": "Gothic House",
+              "tip_5lang": {
+                "de": "Die historischen Innenräume sind perfekt, um den Schauer abzuwarten.",
+                "hu": "A történelmi belső terek ideálisak a zápor kivárására.",
+                "ro": "Interioarele istorice sunt perfecte pentru a aștepta trecerea ploii.",
+                "en": "The historic interiors are perfect for waiting out a downpour."
+              }
+            },
+            {
+              "name": "Stedelijk Museum Kampen",
+              "tip_5lang": {
+                "de": "Planen Sie hier bei starkem Regen eine längere Pause ein.",
+                "hu": "Heves eső esetén tervezz ide hosszabb látogatást.",
+                "ro": "Planificați o vizită mai lungă aici în caz de ploaie torențială.",
+                "en": "Plan a longer stay here if the rain gets heavy."
+              }
+            },
+            {
+              "name": "New Tower",
+              "tip_5lang": {
+                "de": "Hören Sie das Glockenspiel unter dem schützenden Vordach.",
+                "hu": "Hallgasd a harangjátékot a védelmet nyújtó előtető alól.",
+                "ro": "Ascultați carillonul de sub streașina protectoare.",
+                "en": "Listen to the carillon from beneath the protective eaves."
+              }
+            },
+            {
+              "name": "Bovenkerk",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Orgeln im trockenen, beheizten Kirchenraum.",
+                "hu": "Csodáld meg az orgonákat a száraz, fűtött templomtérben.",
+                "ro": "Admirați orgile în spațiul uscat și încălzit al bisericii.",
+                "en": "Admire the organs in the dry, heated church interior."
+              }
+            },
+            {
+              "name": "Koornmarktspoort",
+              "tip_5lang": {
+                "de": "Ein schneller Fotostopp, bevor es zurück ins Trockene geht.",
+                "hu": "Gyors fotómegálló, mielőtt visszatérnél a fedett helyekre.",
+                "ro": "O oprire rapidă pentru poze înainte de a reveni la adăpost.",
+                "en": "A quick photo stop before heading back to cover."
+              }
+            },
+            {
+              "name": "Finish: Broederpoort",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in einem Café in der Nähe der Stadtwiese auf.",
+                "hu": "Melegedj fel egy kávézóban a városi park közelében.",
+                "ro": "Încălziți-vă la o cafenea din apropierea parcului orașului.",
+                "en": "Warm up in a cafe near the city park area."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Oudestraat bietet viele Geschäfte mit Markisen zum Unterstellen.",
+              "Tragen Sie wasserfeste Schuhe, da das Kopfsteinpflaster rutschig wird.",
+              "Nutzen Sie die Kirchen und Museen als strategische 'Trockenstationen'.",
+              "Ein stabiler Sturmschirm ist bei Wind vom IJssel-Ufer ratsam."
+            ],
+            "hu": [
+              "Az Oudestraat üzleteinek előtetői jó védelmet nyújtanak séta közben.",
+              "Viselj vízálló cipőt, mert a macskakő esőben csúszóssá válhat.",
+              "Használd a templomokat és múzeumokat stratégiai pihenőpontként.",
+              "Az IJssel-parti szél miatt érdemes masszív viharesernyőt vinni."
+            ],
+            "ro": [
+              "Oudestraat are multe magazine cu copertine unde vă puteți adăposti.",
+              "Purtați încălțăminte impermeabilă, pavajul devine alunecos când e ud.",
+              "Folosiți bisericile și muzeele ca puncte strategice de uscare.",
+              "O umbrelă rezistentă la vânt este necesară lângă malul râului IJssel."
+            ],
+            "en": [
+              "Oudestraat offers many shops with awnings to duck under during showers.",
+              "Wear waterproof shoes as the old cobblestones can get slippery.",
+              "Use churches and museums as strategic 'dry zones' in your route.",
+              "A sturdy storm umbrella is recommended for wind off the IJssel river."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen in Kampen beginnt oft mit Frost auf den historischen Toren. Mittags wärmen Sie sich in den Ausstellungsräumen des Stadtmuseums auf, während die tiefstehende Sonne die gotischen Fassaden beleuchtet. Nachmittags ist die Bovenkerk ein besinnlicher Ort, bevor Sie gegen 17:00 Uhr die beleuchtete Stadtsilhouette genießen. Den Abend verbringen Sie gemütlich in einer der alten Kneipen am IJssel-Kai.",
+            "hu": "A téli reggel Kampenben gyakran dérlepte kapukkal indul. Délben a Városi Múzeum kiállítótermeiben melegedhetsz fel, miközben az alacsonyan járó nap megvilágítja a gótikus homlokzatokat. Délután a Bovenkerk nyújt csendes menedéket, mielőtt 17 óra körül kigyúlnak a város fényei. Az estét töltsd egy hangulatos régi kocsmában az IJssel-parton.",
+            "ro": "Dimineața de iarnă în Kampen începe adesea cu promoroacă pe porțile istorice. La prânz, vă încălziți în sălile muzeului, în timp ce soarele palid luminează fațadele gotice. După-amiaza, Bovenkerk oferă un moment de liniște înainte ca luminile orașului să se aprindă în jurul orei 17:00. Seara se petrece cel mai bine într-o tavernă primitoare de pe faleza râului IJssel.",
+            "en": "Winter mornings in Kampen often start with frost on the historic gates. At noon, warm up inside the museum galleries as the low sun hits the Gothic facades. In the afternoon, the Bovenkerk provides a peaceful escape before the city lights sparkle around 5:00 PM. Spend your evening in a cozy local pub along the IJssel wharf."
+          },
+          "stops": [
+            {
+              "name": "Start: Cellebroederspoort",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glätte auf dem Pflaster rund um das Tor.",
+                "hu": "Vigyázz a jegesedésre a kapu körüli kövezeten.",
+                "ro": "Atenție la porțiunile înghețate de pe pavajul din jurul porții.",
+                "en": "Watch for icy patches on the pavement around the gate."
+              }
+            },
+            {
+              "name": "Gothic House",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp im Inneren hilft gegen die Kälte.",
+                "hu": "Egy rövid belső látogatás segít felmelegedni.",
+                "ro": "O scurtă oprire în interior ajută la combaterea frigului.",
+                "en": "A short stop inside helps against the winter chill."
+              }
+            },
+            {
+              "name": "Stedelijk Museum Kampen",
+              "tip_5lang": {
+                "de": "Die Garderobe ist ideal, um schwere Wintermäntel abzulegen.",
+                "hu": "A ruhatár tökéletes a nehéz télikabátok leadására.",
+                "ro": "Garderoba este ideală pentru a lăsa hainele grele de iarnă.",
+                "en": "The cloakroom is ideal for leaving heavy winter coats."
+              }
+            },
+            {
+              "name": "New Tower",
+              "tip_5lang": {
+                "de": "Die Turmspitze wirkt im Winterlicht besonders scharf.",
+                "hu": "A toronycsúcs a téli fényben különösen élesen rajzolódik ki.",
+                "ro": "Vârful turnului arată spectaculos în lumina rece de iarnă.",
+                "en": "The tower spire looks particularly sharp in the winter light."
+              }
+            },
+            {
+              "name": "Bovenkerk",
+              "tip_5lang": {
+                "de": "Beachten Sie die eingeschränkten Heizzeiten in der großen Kirche.",
+                "hu": "Ügyelj a nagy templom korlátozott fűtési időszakaira.",
+                "ro": "Rețineți că încălzirea poate fi limitată în biserica mare.",
+                "en": "Note that heating may be limited in the large church hall."
+              }
+            },
+            {
+              "name": "Koornmarktspoort",
+              "tip_5lang": {
+                "de": "Der Wind vom Fluss ist hier im Winter besonders schneidend.",
+                "hu": "A folyó felől fújó szél itt télen különösen metsző lehet.",
+                "ro": "Vântul dinspre râu este tăios aici în timpul iernii.",
+                "en": "The wind from the river is especially biting here in winter."
+              }
+            },
+            {
+              "name": "Finish: Broederpoort",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den Stadtpark im fahlen Winterlicht.",
+                "hu": "Élvezd a városi park látványát a sápadt téli fényben.",
+                "ro": "Admirați parcul orașului în lumina palidă a iernii.",
+                "en": "Enjoy the view of the city park in the pale winter light."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht bereits gegen 16:30 Uhr unter; planen Sie Fotos früh.",
+              "Warme Kleidung ist wegen des kalten Windes vom IJssel-Ufer Pflicht.",
+              "Trinken Sie 'Warme Chocolademelk' in einem der Cafés in der Oudestraat.",
+              "Die Museen sind gut geheizt und bieten eine willkommene Pause."
+            ],
+            "hu": [
+              "A nap már 16:30 körül lemegy, fotózz korán.",
+              "Az IJssel felől fújó hideg szél miatt kötelező a meleg öltözet.",
+              "Kóstold meg a forró csokoládét az Oudestraat egyik kávézójában.",
+              "A múzeumok jól fűtöttek, kellemes pihenést nyújtanak a hideg után."
+            ],
+            "ro": [
+              "Soarele apune deja în jur de 16:30; faceți pozele devreme.",
+              "Hainele groase sunt obligatorii din cauza vântului rece de pe râu.",
+              "Încercați o ciocolată caldă la cafenelele de pe Oudestraat.",
+              "Muzeele sunt bine încălzite și oferă o pauză binemeritată."
+            ],
+            "en": [
+              "Sunset is as early as 4:30 PM; plan your photography accordingly.",
+              "Warm layers are essential due to the biting wind from the IJssel river.",
+              "Try 'Warme Chocolademelk' (hot chocolate) in an Oudestraat cafe.",
+              "Museums are well-heated and offer a great break from the cold."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -752,6 +952,206 @@
           "Be careful on the cobblestones in the old town, they can be slippery when wet.",
           "The Netherlands is very bike-friendly, but always be aware of other traffic, especially mopeds on bike paths."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen ist Kampen eine Fahrradstadt; rüsten Sie sich mit Ponchos aus. Morgens radeln Sie entlang der IJsselkade, wo der Wind die Tropfen peitscht. Mittags finden Sie Schutz im Stadtmuseum, während Ihr Rad sicher am Ständer wartet. Nachmittags erkunden Sie die Tore im Westen, bevor Sie den Tag bei einer stürmischen Fahrt Richtung Kampereiland abschließen, wo die Natur im Regen rau und echt wirkt.",
+            "hu": "Az eső ellenére Kampen igazi kerékpáros város; készülj esőponchóval. Reggel tekerj végig az IJsselkade mentén, ahol a szél korbácsolja a vízcseppeket. Délben a múzeumban találhatsz menedéket, míg a biciklid a tárolóban vár. Délután fedezd fel a nyugati kapukat, majd zárd a napot egy szeles tekeréssel Kampereiland felé, ahol a természet vad arca mutatkozik meg az esőben.",
+            "ro": "În ciuda ploii, Kampen rămâne un oraș al bicicletelor; dotați-vă cu pelerine. Dimineața pedalați de-a lungul IJsselkade, unde vântul biciuiește picăturile de apă. La prânz, găsiți adăpost la muzeu, în timp ce bicicleta stă în siguranță afară. După-amiaza explorați porțile vestice, apoi încheiați ziua cu o tură spre Kampereiland, unde natura pare brută și autentică în ploaie.",
+            "en": "Despite the rain, Kampen is a cycling city; gear up with a good poncho. In the morning, ride along IJsselkade where the wind whips the droplets. At noon, find refuge in the museum while your bike waits in the rack. In the afternoon, explore the western gates before finishing with a windy ride towards Kampereiland, where nature feels raw and authentic in the rain."
+          },
+          "stops": [
+            {
+              "name": "Start: Bike rental at the station",
+              "tip_5lang": {
+                "de": "Fragen Sie nach Leihrädern mit guten Schutzblechen.",
+                "hu": "Kérj sárvédővel jól felszerelt bérbiciklit.",
+                "ro": "Cereți biciclete de închiriat dotate cu aripi bune.",
+                "en": "Ask for rental bikes with good mudguards."
+              }
+            },
+            {
+              "name": "Koornmarktspoort & IJsselkade",
+              "tip_5lang": {
+                "de": "Halten Sie den Lenker bei Böen vom Fluss fest im Griff.",
+                "hu": "A folyó felőli széllökéseknél markold erősen a kormányt.",
+                "ro": "Țineți bine ghidonul la rafalele de vânt dinspre râu.",
+                "en": "Keep a firm grip on the handlebars during gusts from the river."
+              }
+            },
+            {
+              "name": "Bovenkerk & New Tower",
+              "tip_5lang": {
+                "de": "Parken Sie das Rad nah an Gebäudewänden für etwas Schutz.",
+                "hu": "Parkolj a falak mellé, hogy a bicikli is kapjon némi védelmet.",
+                "ro": "Parcați bicicleta aproape de pereți pentru puțin adăpost.",
+                "en": "Park your bike close to building walls for some shelter."
+              }
+            },
+            {
+              "name": "Stedelijk Museum & Gothic House",
+              "tip_5lang": {
+                "de": "Trocknen Sie Ihre Regenkleidung im Eingangsbereich ab.",
+                "hu": "Rázd le a vizet az esőkabátról a bejáratnál.",
+                "ro": "Scuturați pelerina de ploaie în zona de intrare.",
+                "en": "Dry off your rain gear in the entrance area."
+              }
+            },
+            {
+              "name": "Broederpoort & City Park",
+              "tip_5lang": {
+                "de": "Vorsicht auf nassen Blättern auf den Parkwegen.",
+                "hu": "Vigyázz a vizes levelekre a park útjain.",
+                "ro": "Atenție la frunzele ude de pe potecile din parc.",
+                "en": "Be careful of wet leaves on the park paths."
+              }
+            },
+            {
+              "name": "Cellebroederspoort",
+              "tip_5lang": {
+                "de": "Suchen Sie bei einem Schauer kurz Schutz unter dem Tor.",
+                "hu": "Zápor esetén húzódj be egy percre a kapu alá.",
+                "ro": "Adăpostiți-vă scurt sub poartă în caz de aversă.",
+                "en": "Ducking under the gate for a minute helps during a shower."
+              }
+            },
+            {
+              "name": "Finish: Ride towards Kampereiland",
+              "tip_5lang": {
+                "de": "Die offene Polderlandschaft ist bei Regen sehr windig.",
+                "hu": "A nyitott polder táj esőben nagyon szeles.",
+                "ro": "Peisajul deschis al polderului este foarte vântos pe ploaie.",
+                "en": "The open polder landscape is very windy during rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie das Bremsen auf nassen Metallschienen der Brücken.",
+              "Vollständige Regenbekleidung (Hose + Jacke) wird empfohlen.",
+              "Wischen Sie den Sattel vor der Fahrt immer trocken.",
+              "Die Route führt über Kopfsteinpflaster, das bei Nässe rutschig ist."
+            ],
+            "hu": [
+              "Kerüld a fékezést a hidak vizes fém sínjein.",
+              "Teljes esőruházat (nadrág + kabát) javasolt.",
+              "Indulás előtt mindig töröld szárazra a nyerget.",
+              "Az útvonal macskaköves szakaszai vizesen csúszósak."
+            ],
+            "ro": [
+              "Evitați frânarea pe șinele metalice ude de pe poduri.",
+              "Se recomandă costum complet de ploaie (pantaloni + jachetă).",
+              "Ștergeți întotdeauna șaua înainte de a porni la drum.",
+              "Traseul include pavaj care devine alunecos când este ud."
+            ],
+            "en": [
+              "Avoid braking on wet metal rails or bridge joints.",
+              "Full rain gear (trousers + jacket) is highly recommended.",
+              "Always wipe your saddle dry before starting each segment.",
+              "The route covers cobblestones which are slippery when wet."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine Winterradtour in Kampen erfordert warme Handschuhe gegen den Ostwind. Morgens glitzert der Reif auf den Wiesen am IJsselkade. Mittags ist das Museum ein warmer Fixpunkt zwischen den Etappen. Nachmittags radeln Sie durch den frostigen Stadtpark zur Cellebroederspoort. Den Tag beenden Sie mit einer kurzen Fahrt ins Kampereiland, wo die winterliche Stille über den Deichen liegt, bevor Sie im Dunkeln zurückkehren.",
+            "hu": "A téli kerékpározáshoz Kampenben meleg kesztyű kell a keleti szél ellen. Reggel zúzmara csillog az IJsselkade menti réteken. Délben a múzeum fűtött terei jelentenek biztos pontot a szakaszok között. Délután a deres városi parkon át tekersz a Cellebroederspoort felé. A napot egy rövid kampereilandi túrával zárd, ahol téli csend honol a gátakon.",
+            "ro": "O tură de iarnă cu bicicleta în Kampen necesită mănuși groase contra vântului din est. Dimineața, bruma sclipește pe pajiștile de lângă IJsselkade. La prânz, muzeul este un punct cald necesar între etape. După-amiaza pedalați prin parcul înghețat spre Cellebroederspoort. Încheiați ziua cu o scurtă plimbare spre Kampereiland, unde liniștea iernii stăpânește digurile.",
+            "en": "A winter bike tour in Kampen calls for warm gloves against the east wind. In the morning, hoarfrost glistens on the meadows by IJsselkade. At noon, the museum is a warm anchor between riding segments. In the afternoon, cycle through the frosty city park to Cellebroederspoort. End the day with a ride to Kampereiland, where winter silence blankets the dikes."
+          },
+          "stops": [
+            {
+              "name": "Start: Bike rental at the station",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Reifendruck für besseren Halt auf kaltem Boden.",
+                "hu": "Ellenőrizd a guminyomást a jobb tapadásért a hideg úton.",
+                "ro": "Verificați presiunea pneurilor pentru aderență pe asfalt rece.",
+                "en": "Check tire pressure for better grip on cold surfaces."
+              }
+            },
+            {
+              "name": "Koornmarktspoort & IJsselkade",
+              "tip_5lang": {
+                "de": "Vorsicht vor überfrierender Nässe in der Nähe des Wassers.",
+                "hu": "Vigyázz a lefagyásokra a víz közelében.",
+                "ro": "Atenție la gheața formată din umezeală lângă apă.",
+                "en": "Beware of black ice forming near the water."
+              }
+            },
+            {
+              "name": "Bovenkerk & New Tower",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Kirchenbesichtigung zum Aufwärmen der Hände.",
+                "hu": "Használd ki a templomlátogatást a kezeid felmelegítésére.",
+                "ro": "Folosiți vizita la biserică pentru a vă încălzi mâinile.",
+                "en": "Use the church visit to warm up your hands."
+              }
+            },
+            {
+              "name": "Stedelijk Museum & Gothic House",
+              "tip_5lang": {
+                "de": "Schließen Sie Ihr Rad gut ab, während Sie drinnen pausieren.",
+                "hu": "Zárd le alaposan a biciklit, amíg bent pihensz.",
+                "ro": "Asigurați bine bicicleta în timp ce stați la căldură.",
+                "en": "Lock your bike securely while you enjoy the indoor warmth."
+              }
+            },
+            {
+              "name": "Broederpoort & City Park",
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den schattigen Wegen im Park.",
+                "hu": "Óvatosan tekerj a park árnyékosabb útjain.",
+                "ro": "Pedalați cu prudență pe aleile umbrite din parc.",
+                "en": "Ride carefully on the shaded paths in the park."
+              }
+            },
+            {
+              "name": "Cellebroederspoort",
+              "tip_5lang": {
+                "de": "Das Kopfsteinpflaster unter dem Tor kann tückisch glatt sein.",
+                "hu": "A kapu alatti macskakő csalókán csúszós lehet.",
+                "ro": "Pavajul de sub poartă poate fi înșelător de alunecos.",
+                "en": "The cobblestones under the gate can be treacherously slick."
+              }
+            },
+            {
+              "name": "Finish: Ride towards Kampereiland",
+              "tip_5lang": {
+                "de": "Planen Sie die Rückkehr vor Einbruch der Dunkelheit (ca. 17 Uhr).",
+                "hu": "Tervezd meg a visszatérést sötétedés előtt (kb. 17 óra).",
+                "ro": "Planificați revenirea înainte de lăsarea întunericului (ora 17).",
+                "en": "Plan to return before darkness falls (around 5 PM)."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Mehrere Schichten Kleidung und winddichte Handschuhe sind nötig.",
+              "Achten Sie auf Reifglätte auf den Holzplanken der Brücken.",
+              "Die Fahrradbeleuchtung muss aufgrund des frühen Sonnenuntergangs funktionieren.",
+              "Trinken Sie zwischendurch etwas Heißes, um die Körpertemperatur zu halten."
+            ],
+            "hu": [
+              "Több rétegű öltözet és szélálló kesztyű szükséges.",
+              "Ügyelj a zúzmarás, csúszós fafelületekre a hidakon.",
+              "A korai naplemente miatt ellenőrizd a kerékpár világítását.",
+              "Igyál forró italokat a testhőmérséklet fenntartásához."
+            ],
+            "ro": [
+              "Sunt necesare mai multe straturi de haine și mănuși anti-vânt.",
+              "Atenție la porțiunile cu brumă de pe scândurile podurilor.",
+              "Luminile bicicletei trebuie să fie funcționale (apus devreme).",
+              "Consumați băuturi calde pentru a menține temperatura corpului."
+            ],
+            "en": [
+              "Dress in multiple layers and wear windproof gloves.",
+              "Watch for frost on the wooden planks of various bridges.",
+              "Ensure your bike lights work due to the early sunset.",
+              "Stop for a hot drink regularly to keep your core temperature up."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1107,6 +1507,188 @@
           "The drive to Kampereiland offers a great perspective on Dutch water management.",
           "Plan your drive back into the city to avoid rush hour traffic if possible."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Kampen bei Regen komfortabel zu erkunden. Morgens parken Sie im Zentrum und erreichen schnell die überdachten Sehenswürdigkeiten. Mittags bietet das Stadtmuseum ein langes Programm im Trockenen. Nachmittags fahren Sie ins Kampereiland, wo Sie die stürmische Polderlandschaft gemütlich aus dem warmen Wagen betrachten können. Den Tag schließen Sie mit einem Blick auf die regnerische Stadtsilhouette von der IJsselbrücke ab.",
+            "hu": "Autóval Kampen kényelmesen felfedezhető esőben is. Reggel parkolj a központban, ahonnan gyorsan elérhetők a fedett látnivalók. Délben a Városi Múzeum nyújt hosszú programot szárazon. Délután autózz ki Kampereiland felé, ahol a szeles polder tájat a meleg kocsiból is megcsodálhatod. A napot az esős városi panorámával zárd az IJssel-hídról szemlélődve.",
+            "ro": "Cu mașina, Kampen este ușor de explorat chiar și pe ploaie. Dimineața parcați în centru pentru a ajunge rapid la obiectivele acoperite. La prânz, muzeul oferă un program lung la adăpost. După-amiaza conduceți spre Kampereiland, unde puteți admira peisajul vântos din confortul mașinii. Încheiați ziua cu o vedere asupra orașului ploios de pe podul peste IJssel.",
+            "en": "Exploring Kampen by car is very comfortable during a rainy day. In the morning, park in the center for quick access to indoor sites. At noon, the museum provides a long, dry program. In the afternoon, drive out to Kampereiland to see the stormy polder landscape from the warmth of your vehicle. End the day with a view of the rainy city skyline from the IJssel bridge."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: City Center Parking",
+              "tip_5lang": {
+                "de": "Wählen Sie einen Parkplatz nah am Ausgang zum Marktplatz.",
+                "hu": "Válassz a piachoz közeli kijáratú parkolóhelyet.",
+                "ro": "Alegeți un loc de parcare aproape de ieșirea spre piață.",
+                "en": "Choose a parking spot close to the market square exit."
+              }
+            },
+            {
+              "name": "Bovenkerk & New Tower",
+              "tip_5lang": {
+                "de": "Kurze Gehwege minimieren die Zeit im Regen.",
+                "hu": "A rövid gyalogutak csökkentik az esőben töltött időt.",
+                "ro": "Distanțele scurte pe jos reduc timpul petrecut în ploaie.",
+                "en": "Short walking distances minimize time spent in the rain."
+              }
+            },
+            {
+              "name": "Stedelijk Museum Kampen",
+              "tip_5lang": {
+                "de": "Perfekt für Stunden, in denen es draußen durchregnet.",
+                "hu": "Tökéletes azokra az órákra, amikor kint megállás nélkül esik.",
+                "ro": "Perfect pentru orele în care afară plouă neîncetat.",
+                "en": "Perfect for those hours when it's raining steadily outside."
+              }
+            },
+            {
+              "name": "Koornmarktspoort & Lunch",
+              "tip_5lang": {
+                "de": "Viele Restaurants bieten Parkplätze direkt in der Nähe.",
+                "hu": "Sok étterem közelében közvetlenül találsz parkolót.",
+                "ro": "Multe restaurante au parcări chiar în apropiere.",
+                "en": "Many restaurants have parking spots directly nearby."
+              }
+            },
+            {
+              "name": "Cluster B: Kampereiland",
+              "tip_5lang": {
+                "de": "Genießen Sie die Aussicht auf die IJssel aus dem Auto.",
+                "hu": "Élvezd az IJsselre nyíló kilátást az autóból.",
+                "ro": "Admirați vederea spre IJssel din interiorul mașinii.",
+                "en": "Enjoy the views of the IJssel from inside your car."
+              }
+            },
+            {
+              "name": "Cluster C: Southern Gates",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Auto, um schnell zwischen den Toren zu wechseln.",
+                "hu": "Használd az autót a kapuk közötti gyors váltáshoz.",
+                "ro": "Folosiți mașina pentru a schimba rapid locația între porți.",
+                "en": "Use the car to switch quickly between the city gates."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Parkhäuser im Zentrum halten das Auto trocken beim Einsteigen.",
+              "Vorsicht vor Aquaplaning auf den flachen Polderstraßen.",
+              "Nutzen Sie die Scheibenheizung gegen Beschlagen bei hoher Feuchtigkeit.",
+              "Kombinieren Sie Stopps, um unnötige Gänge im Freien zu vermeiden."
+            ],
+            "hu": [
+              "A belvárosi parkolóházakban szárazon szállhatsz be az autóba.",
+              "Vigyázz a vízfelúszásra (aquaplaning) a sík polder utakon.",
+              "Használd a szélvédőfűtést a párosodás ellen.",
+              "Csoportosítsd a megállókat, hogy minél kevesebbet kelljen gyalogolni."
+            ],
+            "ro": [
+              "Parcările etajate din centru vă permit să urcați în mașină pe uscat.",
+              "Atenție la acvaplanare pe drumurile plate din polder.",
+              "Folosiți dezaburirea parbrizului în condiții de umiditate mare.",
+              "Grupați opririle pentru a evita mersul inutil prin ploaie."
+            ],
+            "en": [
+              "Multi-storey car parks in the center keep you dry when boarding.",
+              "Watch out for aquaplaning on the flat polder roads.",
+              "Use your defroster to keep windows clear in high humidity.",
+              "Combine stops to minimize the number of times you walk outside."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter ist das Auto ideal, um die Distanzen zwischen den frostigen Toren und Kampereiland zu überbrücken. Morgens starten Sie mit einer beheizten Fahrt durch die verschneite Polderlandschaft. Mittags besuchen Sie das warme Stadtmuseum im Herzen von Kampen. Nachmittags erkunden Sie die südlichen Stadttore, bevor Sie bei Anbruch der Dunkelheit die festliche Beleuchtung der Stadt vom IJssel-Ufer aus bewundern.",
+            "hu": "Télen az autó ideális a deres kapuk és Kampereiland közötti távolságok áthidalására. Reggel kezdj egy fűtött autózással a havas polder tájon keresztül. Délben látogasd meg a Városi Múzeumot Kampen szívében. Délután fedezd fel a déli városkapukat, majd a sötétség beálltával csodáld meg a város ünnepi fényeit az IJssel partjáról.",
+            "ro": "Iarna, mașina este ideală pentru a parcurge distanța dintre porțile înghețate și Kampereiland. Dimineața începeți cu o cursă încălzită prin peisajul înzăpezit al polderului. La prânz, vizitați muzeul din inima orașului Kampen. După-amiaza explorați porțile din sud, iar la lăsarea serii admirați iluminatul festiv al orașului de pe malul râului.",
+            "en": "In winter, the car is perfect for bridging the gaps between frosty gates and Kampereiland. Start your morning with a heated drive through the snowy polder landscape. At noon, visit the warm museum in the heart of Kampen. In the afternoon, explore the southern city gates before admiring the festive city lights from the IJssel bank at dusk."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: City Center Parking",
+              "tip_5lang": {
+                "de": "Achten Sie auf gefrorenes Wasser in den Parkbuchten.",
+                "hu": "Ügyelj a felfagyott vízre a parkolóhelyeken.",
+                "ro": "Atenție la gheața formată în locurile de parcare.",
+                "en": "Watch for frozen puddles in the parking bays."
+              }
+            },
+            {
+              "name": "Bovenkerk & New Tower",
+              "tip_5lang": {
+                "de": "Das Auto bietet zwischendurch einen warmen Rückzugsort.",
+                "hu": "Az autó két megálló között meleg pihenőhelyet nyújt.",
+                "ro": "Mașina oferă un refugiu cald între vizite.",
+                "en": "The car serves as a warm retreat between sightings."
+              }
+            },
+            {
+              "name": "Stedelijk Museum Kampen",
+              "tip_5lang": {
+                "de": "Hier können Sie sich für die nächste Fahrteappe aufwärmen.",
+                "hu": "Itt jól felmelegedhetsz a következő útszakasz előtt.",
+                "ro": "Vă puteți încălzi aici înainte de următoarea etapă a drumului.",
+                "en": "Warm up here before your next driving leg."
+              }
+            },
+            {
+              "name": "Koornmarktspoort & Lunch",
+              "tip_5lang": {
+                "de": "Suchen Sie Restaurants mit Parkplätzen in Sichtweite.",
+                "hu": "Keress olyan éttermet, ahol látótávolságban van a parkoló.",
+                "ro": "Căutați restaurante cu parcare vizibilă din interior.",
+                "en": "Look for restaurants with parking within sight."
+              }
+            },
+            {
+              "name": "Cluster B: Kampereiland",
+              "tip_5lang": {
+                "de": "Vorsicht auf den oft ungeräumten Nebenstraßen im Polder.",
+                "hu": "Vigyázz a polder mellékútjain, melyeket nem mindig takarítanak.",
+                "ro": "Prudență pe drumurile secundare din polder, adesea necurățate.",
+                "en": "Exercise caution on polder side roads, which may not be salted."
+              }
+            },
+            {
+              "name": "Cluster C: Southern Gates",
+              "tip_5lang": {
+                "de": "Die Tore sind ab 16:30 Uhr oft stimmungsvoll beleuchtet.",
+                "hu": "A kapuk 16:30-tól gyakran hangulatosan ki vannak világítva.",
+                "ro": "Porțile sunt adesea iluminate ambiental începând cu ora 16:30.",
+                "en": "The gates are often atmospherically lit from 4:30 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind bei Frost auf den Polderwegen unerlässlich.",
+              "Füllen Sie Frostschutzmittel in die Scheibenwaschanlage.",
+              "Parken Sie im Winter bevorzugt in beleuchteten Bereichen.",
+              "Die Batterieleistung kann bei extremer Kälte nachlassen."
+            ],
+            "hu": [
+              "A polder utakon elengedhetetlen a téli gumi fagy esetén.",
+              "Tölts fagyállót a szélvédőmosó tartályba.",
+              "Télen részesítsd előnyben a kivilágított parkolóhelyeket.",
+              "Rendkívüli hidegben az akkumulátor teljesítménye csökkenhet."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt esențiale pe drumurile din polder.",
+              "Adăugați lichid de parbriz rezistent la îngheț.",
+              "Iarna, preferați locurile de parcare bine iluminate.",
+              "Performanța bateriei poate scădea în condiții de ger."
+            ],
+            "en": [
+              "Winter tires are essential for frost on the polder roads.",
+              "Add anti-freeze to your windshield washer fluid.",
+              "Prefer well-lit parking areas during the darker winter months.",
+              "Battery performance can drop in extreme cold."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1462,6 +2044,188 @@
           "Bus stops aren't always directly in front of the sights; be prepared for short walks.",
           "Be aware of the last bus departure, especially if you're returning to the train station late in the evening."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit Bus und Bahn bleibt man in Kampen auch bei Regen mobil. Morgens bringt Sie der Bus zur IJsselkade, direkt ins historische Zentrum. Mittags ist das Stadtmuseum der perfekte Rückzugsort, während es draußen stürmt. Nachmittags nutzen Sie die lokalen Linien, um bequem zu den weiter entfernten Stadttoren zu gelangen. Den Abend beenden Sie mit einer kurzen Fahrt zurück zum Bahnhof, von wo aus Sie den Blick auf die Lichter am Fluss genießen.",
+            "hu": "Busszal és vonattal Kampenben esőben is könnyen mozoghatsz. Reggel a busz az IJsselkade-hoz visz, közvetlenül a történelmi központba. Délben a Városi Múzeum tökéletes menedék a vihar elől. Délután használd a helyi járatokat a távolabbi városkapuk kényelmes eléréséhez. Az estét zárd egy rövid úttal vissza a vasútállomáshoz, ahonnan remek kilátás nyílik a folyó menti fényekre.",
+            "ro": "Cu autobuzul și trenul, rămâneți mobili în Kampen chiar și pe ploaie. Dimineața, autobuzul vă lasă la IJsselkade, chiar în centrul istoric. La prânz, muzeul este refugiul perfect în timp ce afară e furtună. După-amiaza folosiți liniile locale pentru a ajunge confortabil la porțile mai îndepărtate. Seara se încheie cu o scurtă călătorie spre gară, admirând luminile reflectate în râu.",
+            "en": "By bus and train, you stay mobile in Kampen even in the rain. In the morning, the bus takes you to IJsselkade, right into the historic heart. At noon, the museum is the perfect retreat during a storm. In the afternoon, use local lines to comfortably reach the more distant city gates. End your evening with a short trip back to the station, enjoying the river lights along the way."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: IJsselkade Bus Stop",
+              "tip_5lang": {
+                "de": "Warten Sie im Unterstand, bis der Bus einfährt.",
+                "hu": "Várj a fedett megállóban a busz érkezéséig.",
+                "ro": "Așteptați în adăpost până când sosește autobuzul.",
+                "en": "Wait inside the shelter until the bus arrives."
+              }
+            },
+            {
+              "name": "Koornmarktspoort",
+              "tip_5lang": {
+                "de": "Nur ein kurzer Fußweg von der Haltestelle entfernt.",
+                "hu": "Csak egy rövid séta a buszmegállótól.",
+                "ro": "La doar o scurtă plimbare de stația de autobuz.",
+                "en": "Just a short walk from the bus stop."
+              }
+            },
+            {
+              "name": "Bovenkerk",
+              "tip_5lang": {
+                "de": "Die Kirche bietet Schutz vor plötzlichen Schauern.",
+                "hu": "A templom jó védelmet nyújt a hirtelen záporok ellen.",
+                "ro": "Biserica oferă protecție împotriva averselor bruște.",
+                "en": "The church provides shelter from sudden downpours."
+              }
+            },
+            {
+              "name": "Cluster B: Oranjesingel Bus Stop",
+              "tip_5lang": {
+                "de": "Diese Haltestelle ist gut an das südliche Stadtgebiet angebunden.",
+                "hu": "Ez a megálló jól összeköti a déli városrészt.",
+                "ro": "Această stație este bine conectată cu zona de sud a orașului.",
+                "en": "This stop is well-connected to the southern city area."
+              }
+            },
+            {
+              "name": "Cellebroederspoort",
+              "tip_5lang": {
+                "de": "Das Tor ist von der Haltestelle aus schnell im Trockenen erreichbar.",
+                "hu": "A kapu a megállótól gyorsan elérhető fedett helyről is.",
+                "ro": "Poarta este rapid accesibilă de la stația de autobuz.",
+                "en": "The gate is quickly reachable from the bus stop."
+              }
+            },
+            {
+              "name": "Stedelijk Museum Kampen",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit im Museum, um Regenschauer auszusitzen.",
+                "hu": "Használd ki a múzeumi időt az eső elkerülésére.",
+                "ro": "Folosiți timpul la muzeu pentru a evita ploaia.",
+                "en": "Use your time in the museum to wait out heavy rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie die Abfahrtszeiten online, um Wartezeiten im Regen zu vermeiden.",
+              "Die OV-Chipkaart ist das einfachste Zahlungsmittel für alle Busse.",
+              "Die Busse sind klimatisiert und bieten Schutz vor Feuchtigkeit.",
+              "Vom Bahnhof Kampen hat man eine trockene Aussicht auf die Stadtsilhouette."
+            ],
+            "hu": [
+              "Ellenőrizd a menetrendet online, hogy ne kelljen az esőben várnod.",
+              "Az OV-chipkaart a legegyszerűbb fizetési mód a buszokon.",
+              "A buszok fűtöttek és védenek a párás időtől.",
+              "A kampeni vasútállomásról szárazon is szép kilátás nyílik a városra."
+            ],
+            "ro": [
+              "Verificați orele de plecare online pentru a evita așteptarea în ploaie.",
+              "OV-chipkaart este cea mai simplă metodă de plată în autobuze.",
+              "Autobuzele sunt climatizate și vă protejează de umiditate.",
+              "Gara din Kampen oferă o vedere uscată asupra siluetei orașului."
+            ],
+            "en": [
+              "Check departure times online to avoid waiting in the rain.",
+              "The OV-chipkaart is the easiest way to pay for all bus rides.",
+              "Buses are climate-controlled and protect you from the damp weather.",
+              "Kampen station offers a dry vantage point for the city skyline."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter ist der Nahverkehr in Kampen die wärmste Art des Reisens. Morgens bringt Sie der Zug über die IJsselbrücke, mit Blick auf das frostige Panorama. Mittags verweilen Sie im geheizten Stadtmuseum, dem kulturellen Zentrum. Nachmittags fahren Sie mit dem Bus zur Oranjesingel, um die historischen Tore im Winterlicht zu sehen. Den Abend beschließen Sie mit einer Fahrt zum Bahnhof, während die Stadtlichter hell in der klaren Winterluft strahlen.",
+            "hu": "Télen a tömegközlekedés a legmelegebb módja az utazásnak Kampenben. Reggel a vonat az IJssel-hídon át visz be, remek rálátással a deres panorámára. Délben maradj a fűtött múzeumban, a kulturális központban. Délután buszozz az Oranjesingelhez, hogy lásd a történelmi kapukat a téli fényben. Az estét zárd a vasútállomásnál, miközben a város fényei élesen ragyognak a hideg levegőben.",
+            "ro": "Iarna, transportul public este cea mai călduroasă modalitate de a călători în Kampen. Dimineața, trenul vă poartă peste podul IJssel, oferind o vedere spre panorama înghețată. La prânz, rămâneți în muzeul încălzit, inima culturală a orașului. După-amiaza luați autobuzul spre Oranjesingel pentru a vedea porțile istorice în lumina iernii. Încheiați seara la gară, cu luminile orașului strălucind clar în aerul rece.",
+            "en": "In winter, public transit is the warmest way to get around Kampen. In the morning, the train brings you over the IJssel bridge with views of the frosty panorama. At noon, linger in the heated museum, the city's cultural hub. In the afternoon, take the bus to Oranjesingel to see the historic gates in the winter light. Finish the evening at the station as city lights shine brightly in the crisp air."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: IJsselkade Bus Stop",
+              "tip_5lang": {
+                "de": "Ziehen Sie sich warm an, da der Wind am Flusskai sehr kalt ist.",
+                "hu": "Öltözz melegen, mert a folyóparti szél nagyon hideg.",
+                "ro": "Îmbrăcați-vă bine, vântul pe faleză este foarte rece.",
+                "en": "Dress warmly as the wind on the river wharf is very cold."
+              }
+            },
+            {
+              "name": "Koornmarktspoort",
+              "tip_5lang": {
+                "de": "Suchen Sie nach dem Ausstieg schnell Schutz im Torweg.",
+                "hu": "Kiszállás után keress gyorsan menedéket a kapualjban.",
+                "ro": "După debarcare, căutați rapid adăpost în pasajul porții.",
+                "en": "Look for quick cover in the gate passage after getting off."
+              }
+            },
+            {
+              "name": "Bovenkerk",
+              "tip_5lang": {
+                "de": "In der Kirche ist es oft kühler als im Bus; Schichten tragen.",
+                "hu": "A templomban gyakran hidegebb van, mint a buszon; öltözz rétegesen.",
+                "ro": "În biserică este adesea mai rece decât în autobuz; purtați straturi.",
+                "en": "The church is often cooler than the bus; wear layers."
+              }
+            },
+            {
+              "name": "Cluster B: Oranjesingel Bus Stop",
+              "tip_5lang": {
+                "de": "Die Wartehäuschen bieten Schutz vor dem schneidenden Wind.",
+                "hu": "A várók jó védelmet nyújtanak a metsző szél ellen.",
+                "ro": "Adăposturile din stație oferă protecție contra vântului tăios.",
+                "en": "The bus shelters provide protection from the biting wind."
+              }
+            },
+            {
+              "name": "Cellebroederspoort",
+              "tip_5lang": {
+                "de": "Genießen Sie den frostigen Anblick und nutzen Sie den nächsten Bus.",
+                "hu": "Élvezd a jeges látványt, majd várd meg a következő buszt.",
+                "ro": "Admirați peisajul înghețat și luați următorul autobuz.",
+                "en": "Enjoy the frosty view and catch the next bus soon."
+              }
+            },
+            {
+              "name": "Stedelijk Museum Kampen",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Kälte für längere Zeit zu vergessen.",
+                "hu": "Ideális hely, hogy hosszabb időre elfelejtsd a kinti hideget.",
+                "ro": "Un loc ideal pentru a uita de frig pentru o perioadă mai lungă.",
+                "en": "An ideal place to forget the cold for a while."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse fahren im Winter zuverlässig und sind gut beheizt.",
+              "Nutzen Sie die App '9292' für Echtzeit-Infos bei Wetterverzögerungen.",
+              "Der Bahnhof Kampen bietet einen beheizten Warteraum.",
+              "Achten Sie beim Aussteigen auf glatte Bordsteinkanten."
+            ],
+            "hu": [
+              "A buszok télen is megbízhatóan járnak és jól fűtöttek.",
+              "Használd a '9292' alkalmazást a valós idejű közlekedési infókhoz.",
+              "A kampeni vasútállomáson van fűtött váróterem.",
+              "Leszálláskor ügyelj a jeges, csúszós útpadkára."
+            ],
+            "ro": [
+              "Autobuzele circulă fiabil iarna și sunt bine încălzite.",
+              "Folosiți aplicația '9292' pentru informații în timp real.",
+              "Gara din Kampen are o sală de așteptare încălzită.",
+              "Atenție la marginile trotuarului care pot fi alunecoase la coborâre."
+            ],
+            "en": [
+              "Buses run reliably in winter and are well-heated.",
+              "Use the '9292' app for real-time updates during winter weather.",
+              "Kampen railway station features a heated waiting room.",
+              "Watch for slippery curb edges when getting off the bus."
+            ]
+          }
+        }
       }
     }
   }

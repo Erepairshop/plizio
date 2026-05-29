@@ -386,6 +386,214 @@
           "Check museum opening times in advance, especially for smaller venues.",
           "Many central sights are within a short walk of each other, make the most of it."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag in der 'Silver City' unterstreicht den Glanz des Granits. Der Morgen beginnt geschützt in den Union Terrace Gardens, bevor die beeindruckende Art Gallery als perfekter Zufluchtsort dient. Mittags bewundern wir die Fassade des Marischal College im Regen und wärmen uns im historischen Provost Skene's House auf. Der Nachmittag gehört dem Maritimen Museum, während der Spaziergang nach Footdee trotz Pfützen eine mystische Hafenatmosphäre bietet. Den Abend lassen wir bei einem gemütlichen Abendessen am Hafen ausklingen, während der Regen gegen die Scheiben peitscht.",
+            "hu": "Az esős Aberdeenben a gránitfalak ezüstösen csillognak. A reggelt az Union Terrace Gardens fái alatt kezdjük, majd a művészeti galéria nyújt menedéket a zápor elől. Délben a Marischal College monumentális tömbjét csodáljuk meg, utána pedig a Provost Skene's House történelmi falai között melegszünk fel. Délután a Tengerészeti Múzeum interaktív tárlatai várnak, majd a kikötő felé vesszük az irányt, ahol Footdee (Fittie) apró házai között az esőben is különleges a hangulat. A napot egy barátságos kikötői étteremben zárjuk, hallgatva a tenger morajlását.",
+            "ro": "O zi ploioasă în „Orașul de Argint” face ca granitul să strălucească spectaculos. Începem dimineața în Union Terrace Gardens, folosind copacii ca adăpost, înainte de a ne refugia în galeria de artă. La prânz, admirăm detaliile de la Marischal College și ne încălzim în istorica Provost Skene's House. După-amiaza este dedicată Muzeului Maritim, urmată de o plimbare spre Footdee, unde casele pescarilor arată pitoresc chiar și sub nori. Încheiem seara cu o cină caldă în port, privind ploaia de la fereastră.",
+            "en": "A rainy day in the 'Silver City' makes the granite glow. Start your morning under the shelter of Union Terrace Gardens before heading to the Art Gallery for a perfect indoor escape. At midday, admire Marischal College's grand facade and warm up inside Provost Skene's House. The afternoon is best spent in the Maritime Museum's galleries, followed by an atmospheric walk to Footdee. End the day with a cozy dinner at the harbour, listening to the rain against the windows."
+          },
+          "stops": [
+            {
+              "name": "Union Terrace Gardens",
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Bereiche und Pavillons bei starken Schauern.",
+                "hu": "Használja a pavilonokat és a fedett részeket hirtelen zápor esetén.",
+                "ro": "Folosiți pavilioanele și zonele acoperite în caz de averse.",
+                "en": "Utilize the pavilions and sunken covered areas during heavy showers."
+              }
+            },
+            {
+              "name": "Aberdeen Art Gallery",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um trocken zu bleiben; besuchen Sie das Café im Obergeschoss.",
+                "hu": "Tökéletes menedék az eső elől; látogasson el az emeleti kávézóba.",
+                "ro": "Refugiul ideal; vizitați cafeneaua de la etaj pentru a sta la căldură.",
+                "en": "The perfect indoor escape; visit the top-floor cafe for a dry break."
+              }
+            },
+            {
+              "name": "Marischal College",
+              "tip_5lang": {
+                "de": "Der glänzende Granit sieht im Regen besonders silbern aus.",
+                "hu": "A vizes gránitfalak ilyenkor csillognak a legszebben.",
+                "ro": "Granitul umed strălucește spectaculos în fotografii.",
+                "en": "The wet granite facade looks especially silver and striking in the rain."
+              }
+            },
+            {
+              "name": "Provost Skene's House",
+              "tip_5lang": {
+                "de": "Innere Ausstellungen bieten Schutz vor dem wechselhaften Wetter.",
+                "hu": "A belső kiállítások remek menedéket nyújtanak a szitáló esőben.",
+                "ro": "Expozițiile interioare oferă protecție împotriva vremii schimbătoare.",
+                "en": "Interior displays offer great protection from the unpredictable weather."
+              }
+            },
+            {
+              "name": "Aberdeen Maritime Museum",
+              "tip_5lang": {
+                "de": "Verbringen Sie hier mehr Zeit, wenn es draußen stürmt.",
+                "hu": "Töltsön itt több időt, ha kint felerősödik a szél és az eső.",
+                "ro": "Petreceți mai mult timp aici dacă afară este furtună.",
+                "en": "Spend extra time here if the weather outside turns stormy."
+              }
+            },
+            {
+              "name": "Footdee (Fittie)",
+              "tip_5lang": {
+                "de": "Achten Sie auf rutschiges Kopfsteinpflaster in der Fischersiedlung.",
+                "hu": "Vigyázzon a csúszós macskakövekre a kis halászházak között.",
+                "ro": "Atenție la pavajul alunecos din vechiul sat pescăresc.",
+                "en": "Watch out for slippery cobblestones in the historic fishing village."
+              }
+            },
+            {
+              "name": "Dinner at the Harbour",
+              "tip_5lang": {
+                "de": "Reservieren Sie einen Tisch mit Blick auf die stürmische Nordsee.",
+                "hu": "Foglaljon asztalt ablak mellett, hogy lássa a háborgó kikötőt.",
+                "ro": "Rezervați o masă cu vedere la portul agitat de furtună.",
+                "en": "Book a window table to watch the stormy harbour while dining."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine windfeste Regenjacke; Regenschirme sind bei Aberdeen-Wind oft nutzlos.",
+              "Nutzen Sie die Art Gallery und das Maritime Museum als strategische 'Trockenstationen'.",
+              "In Aberdeen gibt es viele Passagen zwischen der Union Street und den Einkaufszentren.",
+              "Die Granitgehwege können bei Nässe überraschend glatt sein.",
+              "Besuchen Sie das Bon Accord Center für überdachtes Shopping zwischen den Sehenswürdigkeiten."
+            ],
+            "hu": [
+              "Viseljen szélálló esőkabátot; az ernyők Aberdeen szelében gyakran kifordulnak.",
+              "Használja a galériát és a múzeumot stratégiai 'szárítkozó' pontokként.",
+              "Az Union Street és a bevásárlóközpontok között sok a fedett átjáró.",
+              "A nedves gránitburkolat néhol meglepően csúszós lehet.",
+              "Viharos esőben a kikötői séta helyett válassza a buszt a tengerpartig."
+            ],
+            "ro": [
+              "Purtați o jachetă impermeabilă rezistentă la vânt; umbrelele sunt inutile aici.",
+              "Folosiți Galeria de Artă și Muzeul Maritim ca puncte strategice de adăpost.",
+              "Există multe pasaje acoperite între Union Street și centrele comerciale.",
+              "Trotuarele de granit pot fi surprinzător de alunecoase când sunt ude.",
+              "Dacă ploaia devine torențială, mall-ul Union Square oferă refugiu lângă gară."
+            ],
+            "en": [
+              "Wear a windproof raincoat; umbrellas are often useless in Aberdeen's gusts.",
+              "Use the Art Gallery and Maritime Museum as strategic dry-off points.",
+              "Take advantage of covered shopping arcades along Union Street.",
+              "Granite pavements can be surprisingly slick when wet; walk carefully.",
+              "If the rain gets too heavy, the indoor market or Union Square mall are nearby."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter zeigt sich Aberdeen frostig und elegant. Der Tag beginnt im Union Terrace Gardens, wo Reif die Bäume ziert. Wir flüchten schnell in die beheizte Art Gallery, um Kunst bei angenehmen Temperaturen zu genießen. Mittags bestaunen wir das eiskalte Funkeln des Marischal College und suchen Wärme im Provost Skene's House. Da es bereits gegen 15:30 Uhr dämmert, besuchen wir das Maritime Museum am Nachmittag und erreichen Footdee im stimmungsvollen Zwielicht. Der Tag endet mit einem herzhaften schottischen Essen am beleuchteten Hafen.",
+            "hu": "Télen Aberdeen zúzmarás és elegáns arcát mutatja. A reggelt az Union Terrace Gardens dérlepte fái között kezdjük, de hamar a fűtött művészeti galériába húzódunk. Délben a Marischal College jéghideg csillogását csodáljuk meg, majd a Provost Skene's House-ban keresünk melegséget. Mivel 15:30 körül már sötétedik, a Tengerészeti Múzeum után Footdee (Fittie) házait már az esti fényeknél érjük el. A napot egy kiadós skót vacsorával zárjuk a kivilágított kikötő mellett.",
+            "ro": "Iarna, Aberdeen devine un oraș înghețat și elegant. Începem ziua în Union Terrace Gardens, printre copacii acoperiți de chiciură, apoi ne grăbim spre galeria de artă încălzită. La prânz, admirăm sclipirea rece a Marischal College și căutăm căldură în Provost Skene's House. Deoarece se întunecă în jurul orei 15:30, după vizitarea Muzeului Maritim, ajungem la Footdee sub luminile serii. Ziua se încheie cu o cină scoțiană copioasă lângă portul iluminat.",
+            "en": "Winter brings a frosty elegance to Aberdeen's granite streets. Start your morning at Union Terrace Gardens, then head quickly to the heated Art Gallery to enjoy art in comfort. At midday, witness the icy sparkle of Marischal College and find warmth in Provost Skene's House. With sunset around 15:30, visit the Maritime Museum in the afternoon and see Footdee under the atmospheric evening lights. Conclude your day with a hearty Scottish meal by the illuminated harbour."
+          },
+          "stops": [
+            {
+              "name": "Union Terrace Gardens",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Wege in den tiefer gelegenen Gartenbereichen.",
+                "hu": "Vigyázzon a jeges utakra a mélyebben fekvő kerti részeken.",
+                "ro": "Atenție la porțiunile înghețate de pe aleile din grădină.",
+                "en": "Watch for icy patches on the paths in the lower garden sections."
+              }
+            },
+            {
+              "name": "Aberdeen Art Gallery",
+              "tip_5lang": {
+                "de": "Die Garderobe ist ideal, um schwere Wintermäntel während des Besuchs abzugeben.",
+                "hu": "A ruhatárban érdemes letenni a nehéz téli kabátokat a nézelődéshez.",
+                "ro": "Folosiți garderoba pentru a lăsa hainele groase de iarnă.",
+                "en": "Use the cloakroom to drop off heavy winter coats while exploring."
+              }
+            },
+            {
+              "name": "Marischal College",
+              "tip_5lang": {
+                "de": "Hinter dem Gebäude gibt es oft windgeschützte Ecken für Fotos.",
+                "hu": "Az épület mögött gyakran találni szélvédett sarkot a fotózáshoz.",
+                "ro": "În spatele clădirii găsiți adesea unghere ferite de vânt pentru poze.",
+                "en": "Check behind the building for wind-sheltered spots to take photos."
+              }
+            },
+            {
+              "name": "Provost Skene's House",
+              "tip_5lang": {
+                "de": "Ein gemütlicher, beheizter Rückzugsort im historischen Zentrum.",
+                "hu": "Kellemesen fűtött, történelmi pihenőhely a városközpontban.",
+                "ro": "Un refugiu istoric bine încălzit chiar în centrul orașului.",
+                "en": "A cozy, well-heated historical retreat in the city centre."
+              }
+            },
+            {
+              "name": "Aberdeen Maritime Museum",
+              "tip_5lang": {
+                "de": "Perfekt für den Nachmittag, wenn es draußen bereits dunkel wird.",
+                "hu": "Tökéletes délutáni program, amikor kint már korán sötétedik.",
+                "ro": "Perfect pentru după-amiază, când afară începe deja să se întunece.",
+                "en": "Ideal for late afternoon as it gets dark very early outside."
+              }
+            },
+            {
+              "name": "Footdee (Fittie)",
+              "tip_5lang": {
+                "de": "Die Weihnachtsbeleuchtung in den kleinen Gärten ist im Winter zauberhaft.",
+                "hu": "A kis kertek karácsonyi kivilágítása télen igazán varázslatos.",
+                "ro": "Luminițele de Crăciun din micile grădini sunt magice iarna.",
+                "en": "The Christmas lights in the tiny gardens are magical in winter."
+              }
+            },
+            {
+              "name": "Dinner at the Harbour",
+              "tip_5lang": {
+                "de": "Probieren Sie 'Cullen Skink' – eine wärmende Fischsuppe für kalte Abende.",
+                "hu": "Kóstolja meg a 'Cullen Skink'-et, a melengető hallevest a hideg este.",
+                "ro": "Încercați „Cullen Skink”, o supă de pește caldă perfectă pentru seară.",
+                "en": "Try 'Cullen Skink', a warming fish soup perfect for a cold evening."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Dezember bereits gegen 15:30 Uhr unter.",
+              "Kleiden Sie sich im Zwiebelprinzip gegen den eisigen Nordseewind.",
+              "Öffentliche Gebäude sind gut beheizt; nutzen Sie diese zum Aufwärmen.",
+              "Die Granitfassaden funkeln bei Frost besonders schön in der Sonne.",
+              "Heiße Schokolade in der Belmont Street ist ein Muss nach dem Spaziergang."
+            ],
+            "hu": [
+              "A nap decemberben már 15:30 körül lenyugszik, tervezzen eszerint.",
+              "Öltözzön rétegesen az éles észak-tengeri szél ellen.",
+              "A középületek jól fűtöttek, használja őket melegedőként.",
+              "A gránit homlokzatok fagyos időben, napsütésben szikráznak a legszebben.",
+              "A Belmont Street kávézóiban egy forró csokoládé kötelező program."
+            ],
+            "ro": [
+              "Soarele apune în jurul orei 15:30 în decembrie; planificați din timp.",
+              "Îmbrăcați-vă în straturi pentru a rezista vântului tăios de la Marea Nordului.",
+              "Clădirile publice sunt bine încălzite; folosiți-le pentru a vă încălzi.",
+              "Fațadele de granit sclipesc superb în soare când este ger.",
+              "O ciocolată caldă pe Belmont Street este obligatorie după plimbare."
+            ],
+            "en": [
+              "The sun sets as early as 15:30 in December; plan your outdoor stops first.",
+              "Dress in layers to combat the biting North Sea wind chill.",
+              "Public buildings are well-heated; use them to warm up between stops.",
+              "Granite facades sparkle beautifully in the winter sun on frosty days.",
+              "A hot chocolate on Belmont Street is a must after your walk."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -766,6 +974,214 @@
           "Lock your bike securely when visiting attractions.",
           "Carry water and some snacks for the longer cycling stretches."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im regnerischen Aberdeen erfordert gute Ausrüstung, bietet aber leere Wege. Wir starten im Duthie Park, wo die Winter Gardens trockenen Unterschlupf bieten. Die Fahrt nach Footdee ist windig, aber erfrischend. Mittags besuchen wir das Maritime Museum und fahren dann zum Marischal College. Der Nachmittag führt uns ins historische Old Aberdeen und zur St. Machar's Cathedral, bevor wir die Brig o' Balgownie erreichen. Der Regen macht die Granitwege glänzend und die Atmosphäre im Norden der Stadt wunderbar einsam.",
+            "hu": "Az esős Aberdeenben kerékpározni kihívás, de az üres utak kárpótolnak. A Duthie Parkban kezdünk, ahol a Winter Gardens üvegházai védenek az esőtől. A kikötői tekerés Footdee felé szeles, de frissítő. Délben a Tengerészeti Múzeum tárlatait nézzük meg, majd érintjük a Marischal College-ot. Délután Old Aberdeen történelmi negyede és a St. Machar's katedrális vár, végül a Brig o' Balgownie hídnál zárjuk a túrát. Az esőben a gránitkövek csillognak, a város északi része pedig különlegesen csendes.",
+            "ro": "Ciclismul în Aberdeenul ploios necesită echipament bun, dar oferă trasee libere. Începem în Duthie Park, unde Winter Gardens oferă adăpost uscat. Drumul spre Footdee este vântos, dar revigorant. La prânz vizităm Muzeul Maritim și trecem pe la Marischal College. După-amiaza ne conduce în vechiul Aberdeen și la Catedrala St. Machar, înainte de a ajunge la Brig o' Balgownie. Ploaia face drumurile de granit lucioase, oferind o atmosferă solitară și mistică.",
+            "en": "Cycling in rainy Aberdeen requires good gear but offers quiet paths. Start at Duthie Park, where the Winter Gardens provide a dry tropical escape. The ride to Footdee is breezy but refreshing. At midday, visit the Maritime Museum, then pedal past Marischal College. The afternoon takes you to historic Old Aberdeen and St. Machar's Cathedral, finishing at the Brig o' Balgownie. The rain gives the granite a unique sheen and makes the northern part of the city feel wonderfully peaceful."
+          },
+          "stops": [
+            {
+              "name": "Duthie Park",
+              "tip_5lang": {
+                "de": "Die Winter Gardens sind der perfekte Ort, um einen Regenschauer abzuwarten.",
+                "hu": "A Winter Gardens üvegházai tökéletesek egy zápor átvészelésére.",
+                "ro": "Winter Gardens este locul perfect pentru a aștepta trecerea unei averse.",
+                "en": "The Winter Gardens are the perfect place to wait out a rain shower."
+              }
+            },
+            {
+              "name": "Footdee (Fittie)",
+              "tip_5lang": {
+                "de": "Vermeiden Sie scharfe Kurven auf dem nassen Kopfsteinpflaster.",
+                "hu": "Kerülje az éles kanyarokat a nedves macskaköveken.",
+                "ro": "Evitați virajele bruște pe pavajul umed din sat.",
+                "en": "Avoid sharp turns on the wet cobblestones in the village."
+              }
+            },
+            {
+              "name": "Aberdeen Maritime Museum",
+              "tip_5lang": {
+                "de": "Es gibt Fahrradständer in der Nähe; sichern Sie Ihr Rad gut gegen Wind.",
+                "hu": "Vannak kerékpártárolók a közelben; rögzítse jól a gépet a szél ellen.",
+                "ro": "Există rastele în apropiere; asigurați bicicleta împotriva vântului.",
+                "en": "Cycle racks are nearby; secure your bike well against the wind."
+              }
+            },
+            {
+              "name": "Marischal College",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp; der Vorplatz kann bei Regen rutschig sein.",
+                "hu": "Gyors fotómegálló; az előtér esőben csúszós lehet.",
+                "ro": "Oprire scurtă pentru poze; esplanada poate fi alunecoasă.",
+                "en": "Quick photo stop; the forecourt can be slippery in the rain."
+              }
+            },
+            {
+              "name": "Old Aberdeen",
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den schmalen, nassen Gassen der Universität.",
+                "hu": "Óvatosan tekerjen az egyetem szűk, vizes utcáin.",
+                "ro": "Pedalați cu atenție pe străzile înguste și umede ale universității.",
+                "en": "Pedal carefully on the narrow, wet streets of the university area."
+              }
+            },
+            {
+              "name": "St. Machar's Cathedral",
+              "tip_5lang": {
+                "de": "Der Innenraum bietet eine trockene Pause in historischer Stille.",
+                "hu": "A belső tér száraz és csendes pihenőhelyet kínál.",
+                "ro": "Interiorul oferă o pauză uscată în liniște istorică.",
+                "en": "The interior provides a dry break in historical silence."
+              }
+            },
+            {
+              "name": "Brig o' Balgownie",
+              "tip_5lang": {
+                "de": "Die Brücke ist bei Nässe glatt; steigen Sie im Zweifel ab.",
+                "hu": "A híd vizesen csúszik; kétség esetén szálljon le a bicikliről.",
+                "ro": "Podul este alunecos; dacă aveți dubii, mergeți pe lângă bicicletă.",
+                "en": "The bridge is slick when wet; dismount if you feel unsteady."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie Schutzbleche, um sich vor dem Spritzwasser der nassen Straßen zu schützen.",
+              "Die Granitsteine in Old Aberdeen sind bei Nässe sehr rutschig.",
+              "Duthie Park bietet die beste Möglichkeit zum Aufwärmen im Gewächshaus.",
+              "Tragen Sie wasserfeste Handschuhe, um den Lenker sicher im Griff zu haben.",
+              "Meiden Sie die Hauptstraßen bei starkem Regen wegen der schlechten Sicht der Autofahrer."
+            ],
+            "hu": [
+              "Használjon sárvédőt, hogy megvédje magát a vizes utak felverődő sarától.",
+              "Old Aberdeen macskakövei nedvesen rendkívül csúszósak.",
+              "A Duthie Park üvegháza a legjobb hely a felmelegedésre út közben.",
+              "Viseljen vízálló kesztyűt a biztosabb kormányfogás érdekében.",
+              "Erős esőben kerülje a főutakat a sofőrök korlátozott látási viszonyai miatt."
+            ],
+            "ro": [
+              "Folosiți apărători de noroi pentru a vă proteja de apa de pe drum.",
+              "Pavelele de granit din vechiul Aberdeen sunt foarte alunecoase când sunt ude.",
+              "Serele din Duthie Park sunt cea mai bună opțiune de încălzire pe traseu.",
+              "Purtați mănuși impermeabile pentru o aderență mai bună pe ghidon.",
+              "Evitați drumurile principale pe ploaie din cauza vizibilității reduse a șoferilor."
+            ],
+            "en": [
+              "Use mudguards to protect yourself from surface spray on wet roads.",
+              "Granite setts in Old Aberdeen are extremely slippery when wet.",
+              "Duthie Park's Winter Gardens is your best bet for a mid-ride warm-up.",
+              "Wear waterproof gloves to maintain a steady grip on the handlebars.",
+              "Avoid main roads during heavy rain due to reduced driver visibility."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Radtour durch Aberdeen ist erfrischend und bietet klare Ausblicke. Der Start im Duthie Park ist ideal, da die David Welch Winter Gardens eine tropische Zuflucht vor dem Frost sind. Wir radeln entlang des Deeside Way zum Hafen und erreichen das malerische Footdee. Mittags besuchen wir das Maritime Museum und halten kurz am beeindruckenden Marischal College. Da die Sonne früh untergeht, erkunden wir Old Aberdeen und die St. Machar's Cathedral im goldenen Nachmittagslicht, bevor wir die historische Brig o' Balgownie erreichen.",
+            "hu": "A téli kerékpártúra Aberdeenben frissítő élmény tiszta kilátással. A Duthie Park tökéletes kezdés, a David Welch Winter Gardens trópusi klímája menedék a fagy elől. A Deeside Way mentén tekerünk a kikötőhöz, Footdee bájos házaihoz. Délben a Tengerészeti Múzeumot látogatjuk meg, majd megállunk a monumentális Marischal College-nál. Mivel a nap korán nyugszik, Old Aberdeen és a St. Machar's katedrális felfedezése után az aranyló délutáni fényekben érjük el a történelmi Brig o' Balgownie hidat.",
+            "ro": "O tură de iarnă cu bicicleta prin Aberdeen este revigorantă și oferă priveliști clare. Începutul în Duthie Park este ideal, deoarece serele oferă un refugiu tropical împotriva gerului. Pedalam pe Deeside Way spre port și ajungem în pitorescul Footdee. La prânz vizităm Muzeul Maritim și oprim scurt la Marischal College. Soarele apune devreme, așa că explorăm vechiul Aberdeen și Catedrala St. Machar în lumina aurie a după-amiezii, înainte de a ajunge la Brig o' Balgownie.",
+            "en": "A winter bike tour through Aberdeen is bracing and offers crisp, clear views. Starting at Duthie Park is ideal, as the Winter Gardens provide a tropical sanctuary from the frost. Pedal along the waterfront to the picturesque Footdee. At midday, visit the Maritime Museum and stop by the impressive Marischal College. With an early sunset, explore Old Aberdeen and St. Machar's Cathedral in the golden late afternoon light before reaching the historic Brig o' Balgownie."
+          },
+          "stops": [
+            {
+              "name": "Duthie Park",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in den Winter Gardens auf, bevor Sie die Tour fortsetzen.",
+                "hu": "Melegedjen fel a Winter Gardens-ben, mielőtt folytatná a túrát.",
+                "ro": "Încălziți-vă în Winter Gardens înainte de a porni la drum.",
+                "en": "Warm up in the Winter Gardens before continuing your ride."
+              }
+            },
+            {
+              "name": "Footdee (Fittie)",
+              "tip_5lang": {
+                "de": "Der Seewind kann hier im Winter besonders schneidend sein.",
+                "hu": "A tengeri szél itt télen különösen metsző lehet.",
+                "ro": "Vântul marin poate fi extrem de tăios aici în timpul iernii.",
+                "en": "The sea breeze can be particularly biting here during winter."
+              }
+            },
+            {
+              "name": "Aberdeen Maritime Museum",
+              "tip_5lang": {
+                "de": "Sperren Sie Ihr Rad an einem gut sichtbaren, beleuchteten Ort ab.",
+                "hu": "Zárja le a biciklit jól látható, kivilágított helyen.",
+                "ro": "Lăsați bicicleta într-un loc bine luminat și vizibil.",
+                "en": "Lock your bike in a well-lit, visible area near the entrance."
+              }
+            },
+            {
+              "name": "Marischal College",
+              "tip_5lang": {
+                "de": "Das Gebäude sieht bei tiefstehender Wintersonne spektakulär aus.",
+                "hu": "Az épület látványos a mélyen járó téli napsütésben.",
+                "ro": "Clădirea arată spectaculos în lumina joasă a soarelui de iarnă.",
+                "en": "The building looks spectacular in the low winter sun."
+              }
+            },
+            {
+              "name": "Old Aberdeen",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf dem historischen Kopfsteinpflaster.",
+                "hu": "Vigyázzon a jegesedésre a történelmi macskaköveken.",
+                "ro": "Atenție la polei pe pavajul istoric din piatră.",
+                "en": "Watch out for black ice on the historic cobblestones."
+              }
+            },
+            {
+              "name": "St. Machar's Cathedral",
+              "tip_5lang": {
+                "de": "Besuchen Sie den Innenraum, um der Kälte für einen Moment zu entkommen.",
+                "hu": "Menjen be a belső térbe, hogy kis időre elmeneküljön a hideg elől.",
+                "ro": "Vizitați interiorul pentru a scăpa de frig pentru câteva momente.",
+                "en": "Visit the interior to escape the cold for a while."
+              }
+            },
+            {
+              "name": "Brig o' Balgownie",
+              "tip_5lang": {
+                "de": "Genießen Sie den Sonnenuntergang hier gegen 15:45 Uhr.",
+                "hu": "Élvezze itt a naplementét 15:45 körül.",
+                "ro": "Bucurați-vă de apusul soarelui aici în jur de ora 15:45.",
+                "en": "Enjoy the sunset here around 15:45 in mid-winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie mehrere Schichten und winddichte Kleidung; der Windchill ist hoch.",
+              "Stellen Sie sicher, dass Ihre Fahrradbeleuchtung für den frühen Sonnenuntergang funktioniert.",
+              "Achten Sie auf vereiste Stellen, besonders auf Brücken und in Parks.",
+              "Verwenden Sie Winter-Fahrradhandschuhe, um Erfrierungen an den Fingern zu vermeiden.",
+              "Die Winter Gardens im Duthie Park sind ein Muss für Radfahrer zum Aufwärmen."
+            ],
+            "hu": [
+              "Öltözzön rétegesen és szélállóan; a hőérzet a szél miatt sokkal alacsonyabb.",
+              "Ellenőrizze a világítást, mert a nap már délután fél 4-kor lemegy.",
+              "Vigyázzon a jeges szakaszokra, különösen a hidakon és a parkokban.",
+              "Használjon téli kerékpáros kesztyűt, hogy ne fagyjanak el az ujjai.",
+              "A Duthie Park Winter Gardens része kötelező pihenő a felmelegedéshez."
+            ],
+            "ro": [
+              "Purtați haine rezistente la vânt în straturi; temperatura resimțită e scăzută.",
+              "Asigurați-vă că luminile bicicletei funcționează pentru apusul timpuriu.",
+              "Atenție la porțiunile înghețate, în special pe poduri și în parcuri.",
+              "Folosiți mănuși de iarnă pentru a evita degetele înghețate pe ghidon.",
+              "Serele din Duthie Park sunt esențiale pentru a vă încălzi pe traseu."
+            ],
+            "en": [
+              "Wear multiple layers and windproof gear; wind chill is significant here.",
+              "Ensure your bike lights are working for the very early sunset.",
+              "Watch for black ice, especially on bridges and shaded park paths.",
+              "Use winter cycling gloves to prevent your fingers from freezing.",
+              "Duthie Park's Winter Gardens is a vital warm-up stop for cyclists."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1194,6 +1610,250 @@
           "Driving in the city centre can be slow during peak hours.",
           "Plan your clusters in advance to make the most of your day."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto lässt sich das regnerische Aberdeen bequem erkunden. Wir starten im historischen Old Aberdeen, besuchen die St. Machar's Cathedral und die Brig o' Balgownie, während wir trocken bleiben. Mittags fahren wir ins Zentrum zum Marischal College und verbringen die regenreichste Zeit in der Art Gallery. Nachmittags geht es zum Hafen ins Maritime Museum. Den Abschluss bildet Footdee, wo wir kurz aussteigen, um die Atmosphäre zu genießen, bevor wir uns in ein gemütliches Restaurant zurückziehen.",
+            "hu": "Autóval az esős Aberdeen is kényelmesen felfedezhető. Old Aberdeen történelmi részén kezdünk, megnézzük a St. Machar's katedrálist és a Brig o' Balgownie hidat, miközben végig szárazon maradunk. Délben a központba hajtunk a Marischal College-hoz, az esős órákat pedig a Művészeti Galériában töltjük. Délután a kikötő és a Tengerészeti Múzeum következik. A napot Footdee-ben zárjuk, ahol rövid sétát teszünk a házak között, majd egy közeli étteremben vacsorázunk.",
+            "ro": "Cu mașina, Aberdeenul ploios poate fi explorat în deplin confort. Începem în vechiul Aberdeen, vizităm Catedrala St. Machar și podul Brig o' Balgownie, rămânând uscați între opriri. La prânz mergem în centru la Marischal College și petrecem timpul ploios în Galeria de Artă. După-amiaza vizităm portul și Muzeul Maritim. Încheiem la Footdee, unde coborâm scurt pentru a simți atmosfera, înainte de a ne retrage la un restaurant primitor.",
+            "en": "Exploring rainy Aberdeen by car ensures comfort between sights. Start in Old Aberdeen, visiting St. Machar's Cathedral and Brig o' Balgownie while staying dry. At midday, drive to the city centre for Marischal College and spend the rainiest hours in the Art Gallery. In the afternoon, head to the harbour for the Maritime Museum. Finish at Footdee for a brief atmospheric walk before heading to a cozy restaurant for dinner."
+          },
+          "stops": [
+            {
+              "name": "Old Aberdeen Cluster",
+              "tip_5lang": {
+                "de": "Parkplätze sind an der High Street begrenzt; nutzen Sie Park-Apps.",
+                "hu": "A parkolóhelyek száma korlátozott a High Streeten; használjon applikációt.",
+                "ro": "Locurile de parcare sunt limitate pe High Street; folosiți aplicații.",
+                "en": "Parking is limited on High Street; use parking apps to find spots."
+              }
+            },
+            {
+              "name": "St. Machar's Cathedral",
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Chanonry für einen kurzen Weg zum Eingang.",
+                "hu": "Parkoljon közvetlenül a Chanonry-n, hogy rövid legyen az út a bejáratig.",
+                "ro": "Parcați pe Chanonry pentru a fi cât mai aproape de intrare.",
+                "en": "Park on The Chanonry for the shortest walk to the entrance."
+              }
+            },
+            {
+              "name": "Brig o' Balgownie",
+              "tip_5lang": {
+                "de": "Es gibt kleine Parkbuchten in der Nähe der Brücke.",
+                "hu": "A híd közelében találhatók kisebb parkolóöblök.",
+                "ro": "Există mici zone de parcare în apropierea podului.",
+                "en": "Small parking bays are available near the bridge approach."
+              }
+            },
+            {
+              "name": "City Centre Cluster",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus am Bon Accord für trockenen Zugang zur City.",
+                "hu": "Használja a Bon Accord parkolóházát a fedett városközponti kijárathoz.",
+                "ro": "Folosiți parcarea Bon Accord pentru acces acoperit în centru.",
+                "en": "Use Bon Accord multi-storey car park for covered city access."
+              }
+            },
+            {
+              "name": "Marischal College",
+              "tip_5lang": {
+                "de": "Nur kurzer Stopp zum Fotografieren; Parken direkt davor ist schwierig.",
+                "hu": "Csak rövid fotómegálló; közvetlenül előtte nehéz parkolni.",
+                "ro": "Oprire scurtă pentru poze; parcarea în față este dificilă.",
+                "en": "Quick photo stop only; parking directly in front is restricted."
+              }
+            },
+            {
+              "name": "Aberdeen Art Gallery",
+              "tip_5lang": {
+                "de": "Das Parkhaus Harriet Street ist nur wenige Gehminuten entfernt.",
+                "hu": "A Harriet Street parkolóház mindössze pár perc séta.",
+                "ro": "Parcarea Harriet Street este la doar câteva minute de mers pe jos.",
+                "en": "Harriet Street car park is just a few minutes' walk away."
+              }
+            },
+            {
+              "name": "Harbour Cluster",
+              "tip_5lang": {
+                "de": "Parken Sie am Union Square für einen trockenen Weg zum Hafen.",
+                "hu": "Parkoljon az Union Square-nél a kikötőhöz vezető fedett útért.",
+                "ro": "Parcați la Union Square pentru un acces facil spre port.",
+                "en": "Park at Union Square for easy access to the harbour area."
+              }
+            },
+            {
+              "name": "Aberdeen Maritime Museum",
+              "tip_5lang": {
+                "de": "Das Shiprow-Parkhaus bietet direkten Zugang in der Nähe.",
+                "hu": "A Shiprow parkolóház közvetlen közel van a múzeumhoz.",
+                "ro": "Parcarea Shiprow este situată foarte aproape de muzeu.",
+                "en": "Shiprow NCP car park is conveniently located near the museum."
+              }
+            },
+            {
+              "name": "Footdee (Fittie)",
+              "tip_5lang": {
+                "de": "Parken Sie am Beach Esplanade; der Weg nach Fittie ist kurz.",
+                "hu": "Parkoljon a Beach Esplanade-en; Fittie csak egy rövid séta.",
+                "ro": "Parcați pe Beach Esplanade; Fittie este la o scurtă plimbare.",
+                "en": "Park along the Beach Esplanade; it's a short walk into Fittie."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die großen Parkhäuser (Union Square, Bon Accord), um trocken in die City zu kommen.",
+              "Vermeiden Sie die Rushhour auf der Anderson Drive bei starkem Regen.",
+              "Die Sicht kann durch Gischt und tiefhängende Wolken stark eingeschränkt sein.",
+              "Park-Apps wie 'RingGo' sind in Aberdeen weit verbreitet.",
+              "Besuchen Sie das Drive-In am Strand für einen Kaffee mit Meerblick bei Regen."
+            ],
+            "hu": [
+              "Használja a nagy parkolóházakat (Union Square, Bon Accord) a száraz bejutáshoz.",
+              "Erős esőben kerülje a csúcsforgalmat az Anderson Drive-on.",
+              "A látási viszonyok a köd és az eső miatt hirtelen romolhatnak.",
+              "A 'RingGo' parkolóalkalmazás szinte mindenhol használható a városban.",
+              "Keressen egy tengerparti autós kávézót a kilátásért az esőben."
+            ],
+            "ro": [
+              "Folosiți parcările etajate (Union Square, Bon Accord) pentru acces uscat.",
+              "Evitați traficul de vârf pe Anderson Drive în timpul ploilor abundente.",
+              "Vizibilitatea poate fi redusă rapid din cauza ceții și a ploii.",
+              "Aplicațiile de parcare precum 'RingGo' sunt esențiale în Aberdeen.",
+              "Vizitați o cafenea de tip drive-thru la plajă pentru vedere la mare."
+            ],
+            "en": [
+              "Use major multi-storey car parks for sheltered access to shopping and sights.",
+              "Avoid peak hour traffic on Anderson Drive during heavy rain.",
+              "Visibility can drop quickly due to coastal haar (fog) and heavy rain.",
+              "Parking apps like 'RingGo' are widely used throughout the city.",
+              "Enjoy a coffee with a sea view from your car at the Beach Esplanade."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter ist das Auto der ideale Ort, um sich zwischen den frostigen Sehenswürdigkeiten Aberdeens aufzuwärmen. Wir beginnen im glitzernden Old Aberdeen mit der St. Machar's Cathedral und der Brig o' Balgownie. Mittags geht es ins Stadtzentrum zum Marischal College und in die wohltemperierte Art Gallery. Da die Dämmerung früh einsetzt, fahren wir am Nachmittag zum Hafen und zum Maritime Museum. Der Tag endet im stimmungsvoll beleuchteten Footdee, bevor wir gemütlich zum Abendessen fahren.",
+            "hu": "Télen az autó tökéletes menedék a felmelegedésre az aberdeeni látnivalók között. A zúzmarás Old Aberdeenben kezdünk a St. Machar's katedrálissal és a Brig o' Balgownie híddal. Délben a városközpontba hajtunk a Marischal College-hoz és a kellemes hőmérsékletű Művészeti Galériába. Mivel korán sötétedik, délután a kikötő és a Tengerészeti Múzeum következik. A napot a hangulatosan kivilágított Footdee-ben zárjuk, mielőtt vacsorázni indulnánk.",
+            "ro": "Iarna, mașina este locul ideal pentru a vă încălzi între vizitele la obiectivele din Aberdeen. Începem în vechiul Aberdeen înghețat, cu Catedrala St. Machar și podul Brig o' Balgownie. La prânz mergem în centru la Marischal College și în Galeria de Artă bine încălzită. Deoarece se întunecă devreme, vizităm portul și Muzeul Maritim după-amiaza. Ziua se încheie la Footdee iluminat festiv, înainte de a merge la cină.",
+            "en": "In winter, your car is the perfect warm retreat between Aberdeen's frosty landmarks. Start in glittering Old Aberdeen with St. Machar's Cathedral and Brig o' Balgownie. At midday, drive to the city centre for Marischal College and the well-heated Art Gallery. With early dusk, visit the harbour and Maritime Museum in the afternoon. End your day at the atmospherically lit Footdee before driving to a cozy dinner spot."
+          },
+          "stops": [
+            {
+              "name": "Old Aberdeen Cluster",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis in den schattigen Gassen der Universität.",
+                "hu": "Vigyázzon a jegesedésre az egyetem árnyékos utcáin.",
+                "ro": "Atenție la porțiunile înghețate pe străzile umbrite ale universității.",
+                "en": "Watch for black ice in the shaded streets around the university."
+              }
+            },
+            {
+              "name": "St. Machar's Cathedral",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist bei Frost oft gestreut, aber Vorsicht beim Aussteigen.",
+                "hu": "A parkolót fagy esetén szórják, de legyen óvatos a kiszállásnál.",
+                "ro": "Parcarea este de obicei curățată, dar atenție la gheață.",
+                "en": "The parking area is usually gritted, but be careful when stepping out."
+              }
+            },
+            {
+              "name": "Brig o' Balgownie",
+              "tip_5lang": {
+                "de": "Klarer Winterhimmel bietet hier fantastisches Fotolicht.",
+                "hu": "A tiszta téli égbolt fantasztikus fényeket kínál a fotózáshoz.",
+                "ro": "Cerul senin de iarnă oferă o lumină fantastică pentru poze.",
+                "en": "Crisp winter skies offer fantastic photographic light here."
+              }
+            },
+            {
+              "name": "City Centre Cluster",
+              "tip_5lang": {
+                "de": "Nutzen Sie Parkhäuser mit Aufzügen, um der Kälte zu entgehen.",
+                "hu": "Használjon liftes parkolóházakat, hogy ne kelljen sokat fagyoskodnia.",
+                "ro": "Folosiți parcări etajate cu lift pentru a evita frigul.",
+                "en": "Utilize multi-storey car parks with lifts to minimize cold exposure."
+              }
+            },
+            {
+              "name": "Marischal College",
+              "tip_5lang": {
+                "de": "Die Fassade leuchtet bei Frost besonders weiß und klar.",
+                "hu": "A homlokzat fagyos időben különösen fehéren és tisztán ragyog.",
+                "ro": "Fațada strălucește foarte clar în zilele geroase.",
+                "en": "The facade looks exceptionally white and crisp on frosty days."
+              }
+            },
+            {
+              "name": "Aberdeen Art Gallery",
+              "tip_5lang": {
+                "de": "Das beheizte Gebäude ist ein idealer Stopp zum Aufwärmen.",
+                "hu": "A fűtött épület ideális megálló a felmelegedéshez.",
+                "ro": "Clădirea bine încălzită este un popas ideal pentru a vă încălzi.",
+                "en": "The heated gallery is an ideal mid-day stop to warm up."
+              }
+            },
+            {
+              "name": "Harbour Cluster",
+              "tip_5lang": {
+                "de": "Parken Sie im Union Square, um direkt im Einkaufszentrum zu sein.",
+                "hu": "Parkoljon az Union Square-ben, így közvetlenül a plázában lesz.",
+                "ro": "Parcați la Union Square pentru acces direct în mall.",
+                "en": "Park at Union Square for direct indoor access to shops and cafes."
+              }
+            },
+            {
+              "name": "Aberdeen Maritime Museum",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den Hafen aus den warmen Museumsfenstern.",
+                "hu": "Élvezze a kikötői kilátást a múzeum meleg ablakaiból.",
+                "ro": "Admirați portul de la ferestrele călduroase ale muzeului.",
+                "en": "Enjoy harbour views from the warmth of the museum's large windows."
+              }
+            },
+            {
+              "name": "Footdee (Fittie)",
+              "tip_5lang": {
+                "de": "Kommen Sie nach Sonnenuntergang, um die Lichterketten zu sehen.",
+                "hu": "Naplemente után érkezzen, hogy lássa az ünnepi fényeket.",
+                "ro": "Veniți după apus pentru a vedea decorațiunile luminoase.",
+                "en": "Visit after sunset to see the charming fairy lights in the village."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Ihr Wagen Frostschutzmittel in der Waschanlage hat.",
+              "Brücken wie die Brig o' Balgownie frieren früher ein als normale Straßen.",
+              "Nutzen Sie die Sitzheizung für die kurzen Fahrten zwischen den Vierteln.",
+              "Gegen 16:00 Uhr ist es stockdunkel; planen Sie Ihre Fahrten entsprechend.",
+              "An der Beach Esplanade gibt es kostenlose Parkplätze mit tollem Winterblick."
+            ],
+            "hu": [
+              "Ellenőrizze a fagyállót a szélvédőmosóban az indulás előtt.",
+              "A hidak, mint a Brig o' Balgownie, hamarabb lefagyhatnak az útnál.",
+              "Használja az ülésfűtést a városrészek közötti rövid utakon.",
+              "Délután 4-kor már sötét van; tervezze meg előre a közlekedést.",
+              "A Beach Esplanade-en ingyenes parkolókból nézheti a téli tengert."
+            ],
+            "ro": [
+              "Asigurați-vă că aveți lichid de parbriz rezistent la îngheț.",
+              "Podurile precum Brig o' Balgownie îngheață înaintea drumurilor obișnuite.",
+              "Folosiți încălzirea în scaune pentru drumurile scurte dintre cartiere.",
+              "Se întunecă complet în jurul orei 16:00; planificați traseul cu grijă.",
+              "Beach Esplanade are parcări gratuite cu vederi superbe de iarnă."
+            ],
+            "en": [
+              "Ensure your car has winter-ready screen wash for frosty mornings.",
+              "Bridges like Brig o' Balgownie freeze earlier than standard roads.",
+              "Utilize heated seats for the short hops between city districts.",
+              "It's pitch black by 16:00; ensure your headlights are clean and clear.",
+              "The Beach Esplanade offers free parking with great winter sea views."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1598,6 +2258,232 @@
           "Buses can be crowded during peak hours, so allow extra time.",
           "Be aware some services may be less frequent in the evenings or on Sundays."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Aberdeens Bussystem macht das Erkunden bei Regen zum Kinderspiel. Wir starten im Zentrum mit der Art Gallery, dem perfekten Ort zum Trocknen. Mittags besuchen wir das Marischal College und fahren dann mit dem Bus ins historische Old Aberdeen zur St. Machar's Cathedral. Nachmittags geht es zurück zum Hafen ins Maritime Museum. Ein kurzer Spaziergang führt uns nach Footdee, bevor wir den Tag bei einem gemütlichen Abendessen abschließen. Die Busse sind warm und bieten einen tollen Ausblick auf die glänzenden Granitstraßen.",
+            "hu": "Aberdeen buszhálózata megkönnyíti a felfedezést esőben is. A központban kezdünk a Művészeti Galériával, ahol megvárhatjuk a zápor végét. Délben megnézzük a Marischal College-ot, majd busszal Old Aberdeenbe utazunk a St. Machar's katedrálishoz. Délután visszatérünk a kikötőhöz a Tengerészeti Múzeumba. Rövid séta után Footdee vár, majd egy barátságos étteremben vacsorázunk. A buszok melegek, és jó kilátást nyújtanak az esőben csillogó gránitutcákra.",
+            "ro": "Rețeaua de autobuze din Aberdeen face explorarea pe ploaie foarte ușoară. Începem în centru la Galeria de Artă, locul perfect pentru a rămâne uscați. La prânz vedem Marischal College, apoi luăm autobuzul spre vechiul Aberdeen pentru Catedrala St. Machar. După-amiaza revenim în port la Muzeul Maritim. O scurtă plimbare ne duce la Footdee, înainte de a încheia ziua cu o cină caldă. Autobuzele sunt confortabile și oferă o vedere bună asupra străzilor lucioase.",
+            "en": "Aberdeen's bus network makes rainy day exploration a breeze. Start in the city centre at the Art Gallery, a perfect spot to stay dry. At midday, see Marischal College, then hop on a bus to historic Old Aberdeen for St. Machar's Cathedral. Return to the harbour for the Maritime Museum in the afternoon. A short walk takes you to Footdee before concluding your day with a cozy dinner. Buses are warm and offer great views of the shimmering granite streets."
+          },
+          "stops": [
+            {
+              "name": "City Centre Cluster",
+              "tip_5lang": {
+                "de": "Zentrale Bushaltestellen an der Union Street sind oft überdacht.",
+                "hu": "Az Union Street központi buszmegállói többnyire fedettek.",
+                "ro": "Stațiile de autobuz de pe Union Street sunt în mare parte acoperite.",
+                "en": "Main bus stops on Union Street are mostly covered for shelter."
+              }
+            },
+            {
+              "name": "Aberdeen Art Gallery",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die regenreichste Zeit des Vormittags zu verbringen.",
+                "hu": "Ideális hely a délelőtti esősebb órák eltöltésére.",
+                "ro": "Locul ideal pentru a petrece orele ploioase ale dimineții.",
+                "en": "An ideal place to spend the rainiest hours of the morning indoors."
+              }
+            },
+            {
+              "name": "Marischal College",
+              "tip_5lang": {
+                "de": "Bushaltestellen befinden sich direkt gegenüber an der Broad Street.",
+                "hu": "A buszmegállók közvetlenül szemben, a Broad Streeten vannak.",
+                "ro": "Stațiile de autobuz sunt situate vizavi, pe Broad Street.",
+                "en": "Bus stops are located directly opposite on Broad Street."
+              }
+            },
+            {
+              "name": "Old Aberdeen Cluster",
+              "tip_5lang": {
+                "de": "Die Linien 1 und 2 verbinden das Zentrum regelmäßig mit der Uni.",
+                "hu": "Az 1-es és 2-es buszjáratok sűrűn járnak a központ és az egyetem között.",
+                "ro": "Liniile 1 și 2 fac legătura frecvent între centru și universitate.",
+                "en": "Routes 1 and 2 provide frequent links between the centre and university."
+              }
+            },
+            {
+              "name": "St. Machar's Cathedral",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Haltestelle High Street für den kürzesten Fußweg.",
+                "hu": "A High Street megállótól kell a legkevesebbet gyalogolni.",
+                "ro": "Folosiți stația High Street pentru cel mai scurt traseu pe jos.",
+                "en": "Use the High Street stop for the shortest walk to the cathedral."
+              }
+            },
+            {
+              "name": "Harbour Cluster",
+              "tip_5lang": {
+                "de": "Die Busse halten in der Nähe des Guild Street Busbahnhofs.",
+                "hu": "A buszok a Guild Street buszpályaudvar közelében állnak meg.",
+                "ro": "Autobuzele opresc aproape de autogara din Guild Street.",
+                "en": "Buses stop near the Guild Street bus station for easy access."
+              }
+            },
+            {
+              "name": "Aberdeen Maritime Museum",
+              "tip_5lang": {
+                "de": "Nur ein kurzer Spaziergang bergab vom Busknotenpunkt Union Street.",
+                "hu": "Csak egy rövid lejtős séta az Union Street-i csomóponttól.",
+                "ro": "O scurtă plimbare la vale de nodul de transport Union Street.",
+                "en": "A short walk downhill from the Union Street transport hub."
+              }
+            },
+            {
+              "name": "Footdee (Fittie)",
+              "tip_5lang": {
+                "de": "Die Buslinie 15 bringt Sie am nächsten an die Siedlung heran.",
+                "hu": "A 15-ös buszjárat visz a legközelebb a halászfaluhoz.",
+                "ro": "Linia 15 de autobuz vă lasă cel mai aproape de sat.",
+                "en": "Bus route 15 gets you closest to the historic fishing village."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Holen Sie sich ein Tages-Ticket über die 'First Bus' oder 'Stagecoach' App.",
+              "Die Busse sind im Winter und bei Regen oft der bequemste Ort zum Aufwärmen.",
+              "Vermeiden Sie das Warten an nicht überdachten Haltestellen bei starkem Wind.",
+              "Achten Sie auf die digitalen Anzeigen an den Haltestellen für Echtzeitinfos.",
+              "Die Union Street ist der Hauptknotenpunkt für fast alle Linien."
+            ],
+            "hu": [
+              "Váltson napijegyet a 'First Bus' vagy 'Stagecoach' alkalmazásban.",
+              "A buszok télen és esőben a legkényelmesebb helyek a felmelegedésre.",
+              "Erős szélben kerülje a nem fedett megállókban való várakozást.",
+              "Figyelje a megállók digitális kijelzőit a valós idejű adatokért.",
+              "Az Union Street szinte minden járat fő csomópontja."
+            ],
+            "ro": [
+              "Cumpărați un bilet de o zi prin aplicația 'First Bus' sau 'Stagecoach'.",
+              "Autobuzele sunt cele mai confortabile locuri de încălzire pe ploaie.",
+              "Evitați așteptarea în stațiile neacoperite când vântul este puternic.",
+              "Urmăriți afișajele digitale din stații pentru informații în timp real.",
+              "Union Street este hub-ul principal pentru aproape toate liniile."
+            ],
+            "en": [
+              "Get a day ticket via the 'First Bus' or 'Stagecoach' apps for best value.",
+              "Buses are often the warmest and driest places between stops.",
+              "Avoid waiting at unsheltered stops when the wind picks up.",
+              "Check the real-time digital displays at main stops for arrival times.",
+              "Union Street serves as the central hub for nearly all city routes."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Aberdeens Busse bieten im Winter eine warme Flucht zwischen den gefrorenen Granitbauten. Wir starten im Zentrum bei der Art Gallery und genießen Kunst im Warmen. Mittags bewundern wir das Marischal College, bevor wir mit dem Bus nach Old Aberdeen zur St. Machar's Cathedral fahren. Da es früh dunkel wird, besuchen wir das Maritime Museum am Nachmittag und erreichen das festlich beleuchtete Footdee im stimmungsvollen Zwielicht. Der Tag endet mit einem kurzen Spaziergang zu einem gemütlichen Restaurant am Hafen.",
+            "hu": "Aberdeen buszai télen meleg menedéket nyújtanak a fagyos gránitfalak között. A központban kezdünk a Művészeti Galériával, élvezve a benti meleget. Délben megnézzük a Marischal College-ot, majd busszal Old Aberdeenbe utazunk a St. Machar's katedrálishoz. Mivel korán sötétedik, délután a Tengerészeti Múzeum következik, Footdee-be pedig már az ünnepi fények idején érkezünk. A napot egy rövid séta után egy hangulatos kikötői étteremben zárjuk.",
+            "ro": "Autobuzele din Aberdeen oferă un refugiu cald între clădirile de granit înghețate. Începem în centru la Galeria de Artă, bucurându-ne de căldura din interior. La prânz admirăm Marischal College, apoi luăm autobuzul spre vechiul Aberdeen pentru Catedrala St. Machar. Deoarece se întunecă devreme, vizităm Muzeul Maritim după-amiaza, ajungând la Footdee sub luminile festive. Ziua se încheie cu o scurtă plimbare spre un restaurant primitor în port.",
+            "en": "Aberdeen's buses offer a warm escape between the city's frozen granite sights. Start in the centre at the Art Gallery, enjoying the art in comfort. At midday, admire Marischal College before catching a bus to Old Aberdeen for St. Machar's Cathedral. With an early sunset, visit the Maritime Museum in the afternoon and reach Footdee as the festive fairy lights come on. Finish your day with a short walk to a cozy harbour restaurant."
+          },
+          "stops": [
+            {
+              "name": "City Centre Cluster",
+              "tip_5lang": {
+                "de": "Die Union Street ist im Winter festlich beleuchtet.",
+                "hu": "Az Union Street télen ünnepi kivilágítást kap.",
+                "ro": "Union Street este iluminată festiv în timpul iernii.",
+                "en": "Union Street features beautiful festive lighting during winter."
+              }
+            },
+            {
+              "name": "Aberdeen Art Gallery",
+              "tip_5lang": {
+                "de": "Nutzen Sie den beheizten Innenraum zum Aufwärmen nach dem Bus.",
+                "hu": "Használja a fűtött belső teret a buszozás utáni melegedésre.",
+                "ro": "Folosiți spațiul interior încălzit pentru a vă dezmorți după drum.",
+                "en": "Use the heated interior to warm up after your bus journey."
+              }
+            },
+            {
+              "name": "Marischal College",
+              "tip_5lang": {
+                "de": "Die Broad Street ist bei Frost oft gestreut und sicher begehbar.",
+                "hu": "A Broad Streetet fagy esetén szórják, így biztonságosan sétálható.",
+                "ro": "Broad Street este de obicei curățată de gheață pentru pietoni.",
+                "en": "Broad Street is typically well-gritted and safe to walk when frosty."
+              }
+            },
+            {
+              "name": "Old Aberdeen Cluster",
+              "tip_5lang": {
+                "de": "Bequeme Busverbindung; steigen Sie an der High Street aus.",
+                "hu": "Kényelmes buszos kapcsolat; szálljon le a High Streetnél.",
+                "ro": "Conexiune facilă cu autobuzul; coborâți la stația High Street.",
+                "en": "Easy bus connection; alight at High Street for the historic heart."
+              }
+            },
+            {
+              "name": "St. Machar's Cathedral",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe im historischen, beheizten Kirchenschiff.",
+                "hu": "Élvezze a csendet a történelmi, fűtött templomhajóban.",
+                "ro": "Bucurați-vă de liniște în naosul istoric bine încălzit.",
+                "en": "Enjoy the peacefulness in the historic, heated cathedral nave."
+              }
+            },
+            {
+              "name": "Harbour Cluster",
+              "tip_5lang": {
+                "de": "Busse zum Hafen fahren regelmäßig vom Busbahnhof ab.",
+                "hu": "A kikötőhöz közlekedő buszok sűrűn indulnak a pályaudvarról.",
+                "ro": "Autobuzele spre port pleacă frecvent din autogară.",
+                "en": "Harbour-bound buses depart frequently from the main station."
+              }
+            },
+            {
+              "name": "Aberdeen Maritime Museum",
+              "tip_5lang": {
+                "de": "Ein großartiger Ort, um den Hafen im warmen Licht des Nachmittags zu sehen.",
+                "hu": "Remek hely a kikötő megtekintésére a délutáni fényekben.",
+                "ro": "Un loc excelent pentru a vedea portul în lumina după-amiezii.",
+                "en": "A great spot to see the harbour in the warm late afternoon glow."
+              }
+            },
+            {
+              "name": "Footdee (Fittie)",
+              "tip_5lang": {
+                "de": "Die Abenddämmerung macht diesen Ort im Winter besonders magisch.",
+                "hu": "A téli alkonyat különösen varázslatossá teszi ezt a helyet.",
+                "ro": "Amurgul de iarnă face acest loc deosebit de magic.",
+                "en": "The winter twilight makes this spot feel particularly magical."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse fahren im Winter oft mit Verspätung bei starkem Schneefall.",
+              "Die Fahrt im Bus ist eine der besten Arten, die Stadt frostfrei zu sehen.",
+              "Laden Sie die App für kontaktloses Bezahlen und Echtzeit-Tracking.",
+              "Denken Sie daran, dass es ab 15:30 Uhr dunkel wird.",
+              "Die Heizung in den schottischen Doppeldeckern ist meist sehr effektiv."
+            ],
+            "hu": [
+              "Hóesésben a buszok menetrendje módosulhat, ellenőrizze az appot.",
+              "A buszozás az egyik legjobb módja a városnézésnek fagyos időben.",
+              "Töltse le az appot az érintésmentes fizetéshez és nyomon követéshez.",
+              "Ne feledje, hogy már délután fél 4-kor sötétedik.",
+              "A skót emeletes buszokon a fűtés általában nagyon hatékony."
+            ],
+            "ro": [
+              "În caz de ninsoare, autobuzele pot avea întârzieri; verificați aplicația.",
+              "Drumul cu autobuzul este una dintre cele mai bune metode de a vedea orașul fără ger.",
+              "Descărcați aplicația pentru plăți contactless și urmărire în timp real.",
+              "Rețineți că soarele apune deja la ora 15:30.",
+              "Încălzirea în autobuzele supraetajate este de obicei foarte eficientă."
+            ],
+            "en": [
+              "Buses may experience delays during heavy snowfall; check the app.",
+              "Bus travel is one of the best ways to see the city frost-free.",
+              "Download the local bus apps for contactless payment and tracking.",
+              "Keep in mind the sun sets around 15:30 in mid-winter.",
+              "Heaters on Scottish double-decker buses are usually very powerful."
+            ]
+          }
+        }
       }
     }
   }

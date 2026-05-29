@@ -323,6 +323,206 @@
           "Bring swimwear and a towel for the salt lakes.",
           "Check the salt mine's opening hours as they can vary."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet das Salzmuseum einen trockenen Start. Mittags ist die Unirea-Salzmine der perfekte Zufluchtsort, da sie tief unter der Erde völlig trocken bleibt. Nachmittags spazieren wir zum Kloster durch den Nieselregen. Der Tag endet gemütlich bei einem warmen Getränk im Stadtzentrum.\n\nDas Wetter beeinträchtigt den Besuch der Mine nicht, was diesen Tag zu einem vollen Erfolg macht.",
+            "hu": "A reggelt a Sómúzeum fedett kiállításain kezdjük. Délben az Unirea sóbánya nyújt tökéletes menedéket, hiszen a föld alatt teljesen száraz az idő. Délután az esőben is lenyűgöző monostort látogatjuk meg. Az este egy belvárosi kávézó melegében ér véget.\n\nA sóbánya hatalmas terei esős időben a legjobb választást jelentik a környéken.",
+            "ro": "Dimineața oferă un început uscat la Muzeul Sării. La prânz, Salina Unirea este refugiul perfect, rămânând complet uscată în adâncuri. După-amiaza, vizităm mănăstirea sub o ploaie ușoară. Ziua se încheie confortabil cu o băutură caldă în centrul orașului.\n\nVremea nu afectează vizita în salină, ceea ce face ca această zi să fie un succes deplin.",
+            "en": "The morning offers a dry start at the Salt Museum. At noon, the Unirea Salt Mine is the perfect refuge, staying completely dry deep underground. In the afternoon, we walk to the monastery through the drizzle. The evening ends cozily with a warm drink in the city center.\n\nThe weather doesn't affect the mine visit, making this day a total success despite the rain."
+          },
+          "stops": [
+            {
+              "name": "Salt Museum",
+              "tip_5lang": {
+                "de": "Ideal bei Regen, da die Ausstellungen komplett im Innenbereich liegen.",
+                "hu": "Ideális esőben, mivel a kiállítások teljesen fedett helyen vannak.",
+                "ro": "Ideal pe ploaie, deoarece expozițiile sunt complet în interior.",
+                "en": "Ideal in the rain as the exhibits are entirely indoors."
+              }
+            },
+            {
+              "name": "Unirea Salt Mine",
+              "tip_5lang": {
+                "de": "Der trockenste Ort in Slănic; der Regen bleibt 200 Meter über Ihnen.",
+                "hu": "Slănic legszárazabb pontja; az eső 200 méterrel ön felett marad.",
+                "ro": "Cel mai uscat loc din Slănic; ploaia rămâne la 200 de metri deasupra.",
+                "en": "The driest spot in Slănic; the rain stays 200 meters above you."
+              }
+            },
+            {
+              "name": "Salt Mountain",
+              "tip_5lang": {
+                "de": "Vorsicht, die Salzoberflächen sind bei Nässe extrem rutschig.",
+                "hu": "Vigyázat, a sófelületek vizesen rendkívül csúszósak.",
+                "ro": "Atenție, suprafețele de sare sunt extrem de alunecoase când sunt ude.",
+                "en": "Caution, the salt surfaces are extremely slippery when wet."
+              }
+            },
+            {
+              "name": "Bride's Grotto",
+              "tip_5lang": {
+                "de": "Der Zugang kann schlammig sein; tragen Sie festes, wasserdichtes Schuhwerk.",
+                "hu": "A bejárat saras lehet; viseljen erős, vízálló lábbelit.",
+                "ro": "Accesul poate fi noroios; purtați încălțăminte rezistentă și impermeabilă.",
+                "en": "Access can be muddy; wear sturdy, waterproof footwear."
+              }
+            },
+            {
+              "name": "Baciului Bath",
+              "tip_5lang": {
+                "de": "Das Baden ist weniger attraktiv, aber der Anblick des grauen Sees ist mystisch.",
+                "hu": "A fürdés kevésbé vonzó, de a szürke tó látványa misztikus.",
+                "ro": "Baia este mai puțin atractivă, dar vederea lacului gri este mistică.",
+                "en": "Bathing is less attractive, but the sight of the gray lake is mystical."
+              }
+            },
+            {
+              "name": "Slănic Monastery",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz in der Kirche und genießen Sie die spirituelle Ruhe.",
+                "hu": "Keressen menedéket a templomban, és élvezze a lelki nyugalmat.",
+                "ro": "Căutați adăpost în biserică și bucurați-vă de liniștea spirituală.",
+                "en": "Seek shelter inside the church and enjoy the spiritual peace."
+              }
+            },
+            {
+              "name": "Green Rock",
+              "tip_5lang": {
+                "de": "Nebel kann die Sicht einschränken; der Weg nach oben ist rutschig.",
+                "hu": "A köd korlátozhatja a kilátást; a felfelé vezető út csúszós.",
+                "ro": "Ceața poate limita vizibilitatea; drumul spre vârf este alunecos.",
+                "en": "Fog may limit visibility; the path to the top is slippery."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Wanderschuhe für die Wege zwischen den Attraktionen.",
+              "Die Salzmine ist die beste Option für lange Regenschauer.",
+              "Vermeiden Sie das Klettern auf die Salzhügel, da Einsturzgefahr besteht.",
+              "Ein Regenschirm ist im offenen Gelände um den Salzberg unverzichtbar."
+            ],
+            "hu": [
+              "Viseljen vízálló túracipőt a látnivalók közötti közlekedéshez.",
+              "A sóbánya a legjobb opció a hosszan tartó záporok idején.",
+              "Kerülje a sódombokra való mászást, mert az eső fellazíthatja őket.",
+              "Az esernyő elengedhetetlen a Sóhegy körüli nyílt terepen."
+            ],
+            "ro": [
+              "Purtați pantofi de munte impermeabili pentru drumurile dintre atracții.",
+              "Salina este cea mai bună opțiune în timpul averselor prelungite.",
+              "Evitați cățărarea pe dealurile de sare, deoarece ploaia le poate destabiliza.",
+              "O umbrelă este indispensabilă în terenul deschis din jurul Muntelui de Sare."
+            ],
+            "en": [
+              "Wear waterproof hiking shoes for the paths between attractions.",
+              "The salt mine is your best option during prolonged downpours.",
+              "Avoid climbing the salt hills as rain can make them unstable.",
+              "An umbrella is essential in the open terrain around the Salt Mountain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen am Museum. Die Salzmine ist das Highlight, da sie mit 12 Grad oft wärmer ist als die Außenwelt. Nachmittags glänzt das Salz wie Schnee unter der frühen Sonne. Vor dem frühen Sonnenuntergang genießen wir die Stille des Klosters.\n\nDie konstante Temperatur in der Mine bietet eine willkommene Pause von der Kälte.",
+            "hu": "Friss téli reggel a múzeumnál. A sóbánya a nap fénypontja, mert 12 fokával gyakran melegebb a kinti levegőnél. Délután a só úgy csillog, mint a hó a korai napsütésben. A korai naplemente előtt a kolostor csendjét élvezzük.\n\nA bánya állandó hőmérséklete kellemes felüdülést nyújt a téli fagyban.",
+            "ro": "O dimineață răcoroasă de iarnă la muzeu. Salina este punctul culminant, fiind la 12 grade adesea mai caldă decât exteriorul. După-amiaza, sarea strălucește ca zăpada sub soarele palid. Înainte de apusul timpuriu, ne bucurăm de liniștea mănăstirii.\n\nTemperatura constantă din salină oferă o pauză binevenită de frigul de afară.",
+            "en": "A crisp winter morning at the museum. The salt mine is the highlight, as its 12°C is often warmer than the outside air. In the afternoon, the salt sparkles like snow under the early sun. Before the early sunset, we enjoy the monastery's silence.\n\nThe constant temperature in the mine offers a welcome break from the winter cold."
+          },
+          "stops": [
+            {
+              "name": "Salt Museum",
+              "tip_5lang": {
+                "de": "Ein warmer Ort, um sich vor dem Spaziergang zur Mine aufzuwärmen.",
+                "hu": "Meleg hely, ahol felmelegedhet a bányához való séta előtt.",
+                "ro": "Un loc călduros unde vă puteți încălzi înainte de plimbarea spre salină.",
+                "en": "A warm place to heat up before the walk to the mine."
+              }
+            },
+            {
+              "name": "Unirea Salt Mine",
+              "tip_5lang": {
+                "de": "Mit 12°C ist es hier im Winter oft angenehmer als draußen.",
+                "hu": "A 12 fokos hőmérséklet télen gyakran kellemesebb, mint kint.",
+                "ro": "La 12°C, aici este adesea mai plăcut iarna decât afară.",
+                "en": "At 12°C, it's often more pleasant here in winter than outside."
+              }
+            },
+            {
+              "name": "Salt Mountain",
+              "tip_5lang": {
+                "de": "Das weiße Salz vermischt sich mit dem Schnee zu einer bizarren Landschaft.",
+                "hu": "A fehér só és a hó keveredése bizarr tájat alkot.",
+                "ro": "Sarea albă se amestecă cu zăpada, creând un peisaj bizar.",
+                "en": "The white salt mixes with the snow to create a bizarre landscape."
+              }
+            },
+            {
+              "name": "Bride's Grotto",
+              "tip_5lang": {
+                "de": "Achten Sie auf Eiszapfen und gefrorene Pfade am Eingang.",
+                "hu": "Ügyeljen a jégcsapokra és a fagyott ösvényekre a bejáratnál.",
+                "ro": "Atenție la țurțuri și la potecile înghețate de la intrare.",
+                "en": "Watch out for icicles and frozen paths at the entrance."
+              }
+            },
+            {
+              "name": "Baciului Bath",
+              "tip_5lang": {
+                "de": "Der See friert aufgrund des hohen Salzgehalts selten komplett zu.",
+                "hu": "A tó a magas sótartalom miatt ritkán fagy be teljesen.",
+                "ro": "Lacul îngheață rar complet din cauza salinității ridicate.",
+                "en": "The lake rarely freezes completely due to high salinity."
+              }
+            },
+            {
+              "name": "Slănic Monastery",
+              "tip_5lang": {
+                "de": "Besuchen Sie den Gottesdienst, um die winterliche Atmosphäre zu erleben.",
+                "hu": "Látogasson el a szertartásra a téli hangulat megtapasztalásához.",
+                "ro": "Vizitați slujba pentru a experimenta atmosfera de iarnă.",
+                "en": "Visit the service to experience the winter atmosphere."
+              }
+            },
+            {
+              "name": "Green Rock",
+              "tip_5lang": {
+                "de": "Der Wind auf dem Gipfel kann im Winter sehr schneidend sein.",
+                "hu": "A szél a csúcson télen nagyon metsző lehet.",
+                "ro": "Vântul de pe vârf poate fi foarte tăios iarna.",
+                "en": "The wind at the peak can be very biting in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich in Schichten; in der Mine ist es wärmer als draußen.",
+              "Die Sonne geht im Winter gegen 16:30 Uhr unter; planen Sie früh.",
+              "Pfade können vereist sein; Wanderschuhe mit gutem Profil sind nötig.",
+              "Die Mine bietet konstante 12 Grad, ideal für eine Pause von der Kälte."
+            ],
+            "hu": [
+              "Öltözzön rétegesen; a bányában melegebb van, mint kint.",
+              "A nap télen 16:30 körül nyugszik; tervezzen korai befejezést.",
+              "Az ösvények jegesek lehetnek; jó profilú bakancs szükséges.",
+              "A bánya állandó 12 fokot kínál, ideális a hideg elöli menekülésre."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi; în salină este mai cald decât afară.",
+              "Soarele apune în jur de 16:30 iarna; planificați totul devreme.",
+              "Potecile pot fi înghețate; sunt necesari bocanci cu aderență bună.",
+              "Salina oferă 12 grade constante, ideal pentru o pauză de la frig."
+            ],
+            "en": [
+              "Dress in layers; it is warmer inside the mine than outside.",
+              "Sunset is around 4:30 PM in winter; plan for an early finish.",
+              "Paths can be icy; hiking boots with good grip are necessary.",
+              "The mine offers a constant 12°C, ideal for a break from the cold."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -640,6 +840,206 @@
           "Bring plenty of water, especially on warm days.",
           "A small bike repair kit is always a good idea."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine nasse Fahrt durch Slănic beginnt am Museum. Mittags lassen wir die Räder oben und steigen in die trockene Welt der Mine ab. Nachmittags radeln wir vorsichtig über glitschige Salzstraßen zum Kloster. Der Tag endet mit einer Reinigung der Ausrüstung im Hotel.\n\nSalzschlamm ist hartnäckig, aber die kühle Luft belebt die Fahrt.",
+            "hu": "Vizes tekerés Szlanikon a múzeumtól indulva. Délben a bringákat fent hagyva ereszkedünk le a bánya száraz világába. Délután óvatosan pedálozunk a csúszós sóutakon a kolostorig. A nap a felszerelés alapos megtisztításával zárul.\n\nA sós sár makacs, de a hűvös levegő frissítővé teszi az utat.",
+            "ro": "O tură umedă prin Slănic începe la muzeu. La prânz, lăsăm bicicletele sus și coborâm în lumea uscată a salinei. După-amiaza pedalăm cu grijă pe drumurile sărate și alunecoase spre mănăstire. Ziua se încheie cu curățarea echipamentului la hotel.\n\nNoroiul sărat este persistent, dar aerul răcoros revigorează tura.",
+            "en": "A wet ride through Slănic starts at the museum. At noon, we leave the bikes above and descend into the dry world of the mine. In the afternoon, we pedal carefully over slippery salt roads to the monastery. The day ends with a thorough cleaning of the gear.\n\nSalt mud is stubborn, but the cool air makes the ride refreshing."
+          },
+          "stops": [
+            {
+              "name": "Salt Museum",
+              "tip_5lang": {
+                "de": "Fahrradständer sind oft ungeschützt; verwenden Sie eine Abdeckung.",
+                "hu": "A biciklitárolók gyakran fedetlenek; használjon takarót.",
+                "ro": "Suporturile de biciclete sunt adesea neprotejate; folosiți o husă.",
+                "en": "Bike racks are often unprotected; use a cover."
+              }
+            },
+            {
+              "name": "Unirea Salt Mine",
+              "tip_5lang": {
+                "de": "Räder müssen draußen bleiben; der Abstieg erfolgt mit dem Minen-Van.",
+                "hu": "A bringáknak kint kell maradniuk; a lejutás bányászbusszal történik.",
+                "ro": "Bicicletele trebuie lăsate afară; coborârea se face cu microbuzul salinei.",
+                "en": "Bikes must stay outside; the descent is by the mine van."
+              }
+            },
+            {
+              "name": "Salt Mountain & Bride's Grotto",
+              "tip_5lang": {
+                "de": "Achtung beim Bremsen auf nassem Salzboden; sehr geringe Haftung.",
+                "hu": "Vigyázat a fékezésnél a vizes sótalajon; nagyon kicsi a tapadás.",
+                "ro": "Atenție la frânare pe solul sărat umed; aderență foarte scăzută.",
+                "en": "Be careful when braking on wet salt ground; very low grip."
+              }
+            },
+            {
+              "name": "Baciului Bath",
+              "tip_5lang": {
+                "de": "Der Asphalt um den See kann durch Salzrückstände sehr glitschig sein.",
+                "hu": "A tó körüli aszfalt a sómaradványok miatt nagyon csúszós lehet.",
+                "ro": "Asfaltul din jurul lacului poate fi foarte alunecos din cauza sării.",
+                "en": "The asphalt around the lake can be very slippery due to salt residue."
+              }
+            },
+            {
+              "name": "Red Bath",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp reicht; der Boden ist bei Regen oft tiefgründig.",
+                "hu": "Egy rövid megálló elég; a talaj esőben gyakran süppedős.",
+                "ro": "O oprire scurtă este suficientă; solul este adesea moale pe ploaie.",
+                "en": "A short stop is enough; the ground is often soft in the rain."
+              }
+            },
+            {
+              "name": "Slănic Monastery",
+              "tip_5lang": {
+                "de": "Der Anstieg ist steil und bei Regen anstrengender; langsam fahren.",
+                "hu": "Az emelkedő meredek és esőben fárasztóbb; hajtson lassan.",
+                "ro": "Urcarea este abruptă și mai obositoare pe ploaie; rulați încet.",
+                "en": "The climb is steep and more tiring in the rain; ride slowly."
+              }
+            },
+            {
+              "name": "Piatra Verde Viewpoint",
+              "tip_5lang": {
+                "de": "Vorsicht vor Windböen und Schlamm auf dem Weg zum Aussichtspunkt.",
+                "hu": "Vigyázzon a széllökésekre és a sárra a kilátó felé vezető úton.",
+                "ro": "Atenție la rafalele de vânt și la noroi pe drumul spre punctul de belvedere.",
+                "en": "Watch out for wind gusts and mud on the way to the viewpoint."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind bei diesem Wetter und dem Salzschlamm Pflicht.",
+              "Reinigen Sie Kette und Bremsen nach der Fahrt von Salzrückständen.",
+              "Vermeiden Sie riskante Kurvenmanöver auf nassem Asphalt.",
+              "Licht einschalten, da die Sichtverhältnisse oft schlecht sind."
+            ],
+            "hu": [
+              "A sárvédő kötelező ebben az időben és a sós sárban.",
+              "Tekerés után tisztítsa meg a láncot és a fékeket a sótól.",
+              "Kerülje a kockázatos kanyarodást a vizes aszfalton.",
+              "Kapcsolja be a lámpákat, mert a látási viszonyok gyakran rosszak."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt obligatorii în această vreme și prin noroiul sărat.",
+              "Curățați lanțul și frânele de reziduurile de sare după tură.",
+              "Evitați virajele riscante pe asfaltul umed.",
+              "Aprindeți luminile, deoarece vizibilitatea este adesea redusă."
+            ],
+            "en": [
+              "Mudguards are mandatory in this weather and salt mud.",
+              "Clean the chain and brakes from salt residues after the ride.",
+              "Avoid risky cornering maneuvers on wet asphalt.",
+              "Turn on lights as visibility is often poor."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine eisige Tour durch die winterliche Salzstadt. Wir starten dick eingepackt am Museum. Die Mine bietet eine willkommene Aufwärmpause bei konstanten Temperaturen. Nachmittags radeln wir durch die klare Winterluft zu den weißen Salzfelsen. Die Rückfahrt erfolgt vor Einbruch der Dunkelheit.\n\nDie Wintersonne lässt das Salz glitzern, was die Kälte vergessen macht.",
+            "hu": "Jeges túra a téli sóvárosban. Vastagon felöltözve indulunk a múzeumtól. A bánya kellemes felmelegedést nyújt az állandó hőmérsékletével. Délután a tiszta téli levegőben tekerünk a fehér sósziklákhoz. Még sötétedés előtt visszaérünk.\n\nA téli napfény megcsillan a són, ami feledteti a hideget.",
+            "ro": "O tură înghețată prin orașul sărat de iarnă. Pornim bine înfofoliți de la muzeu. Salina oferă o încălzire binevenită cu temperatura sa constantă. După-amiaza pedalăm prin aerul curat de iarnă spre stâncile albe de sare. Revenim înainte de lăsarea întunericului.\n\nSoarele de iarnă sclipește pe sare, făcându-ne să uităm de frig.",
+            "en": "An icy tour through the winter salt town. We start bundled up at the museum. The mine provides a welcome warm-up with its constant temperature. In the afternoon, we pedal through the clear winter air to the white salt rocks. We return before darkness falls.\n\nThe winter sun glints on the salt, making us forget the cold."
+          },
+          "stops": [
+            {
+              "name": "Salt Museum",
+              "tip_5lang": {
+                "de": "Kurze Aufwärmpause drinnen, bevor es weitergeht.",
+                "hu": "Rövid beltéri melegedő, mielőtt továbbindulna.",
+                "ro": "Scurtă pauză de încălzire în interior înainte de a continua.",
+                "en": "Short indoor warm-up break before moving on."
+              }
+            },
+            {
+              "name": "Unirea Salt Mine",
+              "tip_5lang": {
+                "de": "Genießen Sie die 12 Grad Wärme als Kontrast zum Fahrtwind.",
+                "hu": "Élvezze a 12 fokos meleget a menetszél után.",
+                "ro": "Bucurați-vă de cele 12 grade căldură ca contrast față de vânt.",
+                "en": "Enjoy the 12°C warmth as a contrast to the riding wind."
+              }
+            },
+            {
+              "name": "Salt Mountain & Bride's Grotto",
+              "tip_5lang": {
+                "de": "Passen Sie auf Eisplatten in den Senken auf.",
+                "hu": "Vigyázzon a mélyedésekben megbújó jégfoltokra.",
+                "ro": "Atenție la peticele de gheață din adâncituri.",
+                "en": "Watch out for ice patches in the hollows."
+              }
+            },
+            {
+              "name": "Baciului Bath",
+              "tip_5lang": {
+                "de": "Gefrorener Boden macht das Fahren abseits des Weges schwierig.",
+                "hu": "A fagyott talaj nehézzé teszi az úton kívüli haladást.",
+                "ro": "Solul înghețat face dificilă deplasarea în afara drumului.",
+                "en": "Frozen ground makes off-road riding difficult."
+              }
+            },
+            {
+              "name": "Red Bath",
+              "tip_5lang": {
+                "de": "Der Wind weht hier oft ungehindert; halten Sie sich warm.",
+                "hu": "A szél itt gyakran akadálytalanul fúj; tartsa magát melegen.",
+                "ro": "Vântul bate adesea nestingherit aici; mențineți-vă căldura.",
+                "en": "The wind often blows unchecked here; keep yourself warm."
+              }
+            },
+            {
+              "name": "Slănic Monastery",
+              "tip_5lang": {
+                "de": "Vorsicht bei der Abfahrt; kalte Finger bremsen schlechter.",
+                "hu": "Vigyázat a lejtőn; a hideg ujjak nehezebben fékeznek.",
+                "ro": "Atenție la coborâre; degetele reci frânează mai greu.",
+                "en": "Be careful on the descent; cold fingers brake less effectively."
+              }
+            },
+            {
+              "name": "Piatra Verde Viewpoint",
+              "tip_5lang": {
+                "de": "Die Auffahrt hält Sie warm, aber oben ist es extrem windig.",
+                "hu": "A felfelé út melegen tart, de fent rendkívül szeles az idő.",
+                "ro": "Urcarea vă ține cald, dar sus este extrem de vântos.",
+                "en": "The climb keeps you warm, but it is extremely windy at the top."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Handschuhe und eine Mütze unter dem Helm.",
+              "Prüfen Sie den Reifendruck; etwas weniger bietet mehr Grip auf Eis.",
+              "Planen Sie die Route so, dass Sie vor 16 Uhr zurück sind.",
+              "Trinken Sie warme Getränke während der Pausen im Ort."
+            ],
+            "hu": [
+              "Viseljen szélálló kesztyűt és sapkát a sisak alatt.",
+              "Ellenőrizze a guminyomást; a kevesebb jobb tapadást ad a jégen.",
+              "Úgy tervezze az utat, hogy délután 4 előtt visszaérjen.",
+              "Igyon meleg italokat a városi pihenők alatt."
+            ],
+            "ro": [
+              "Purtați mănuși rezistente la vânt și o căciulă sub cască.",
+              "Verificați presiunea în pneuri; puțin mai scăzută oferă aderență pe gheață.",
+              "Planificați ruta astfel încât să reveniți înainte de ora 16.",
+              "Beți băuturi calde în timpul pauzelor din oraș."
+            ],
+            "en": [
+              "Wear windproof gloves and a cap under your helmet.",
+              "Check tire pressure; a bit less provides more grip on ice.",
+              "Plan your route to be back before 4 PM.",
+              "Drink warm beverages during breaks in town."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -940,6 +1340,188 @@
           "Check the condition of the roads, especially after heavy rain.",
           "A car gives you the flexibility to explore nearby villages as well."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Bequem mit dem Auto durch das regnerische Slănic. Wir parken direkt am Museum und genießen die Geschichte. Mittags lassen wir den Wagen auf dem bewachten Parkplatz der Mine und fahren trocken in die Tiefe. Nachmittags geht es zum Aussichtspunkt, wobei das Auto als mobiler Unterschlupf dient.\n\nIdeal für Familien, um zwischen den Stationen trocken zu bleiben.",
+            "hu": "Kényelmes autózás az esős Szlanikon. Közvetlenül a múzeumnál parkolunk, és élvezzük a történelmet. Délben az autó a bánya őrzött parkolójában marad, mi pedig szárazon ereszkedünk a mélybe. Délután a kilátóhoz hajtunk, az autó pedig mobil menedékként szolgál.\n\nIdeális választás családoknak, hogy a helyszínek között szárazon maradjanak.",
+            "ro": "Călătorie confortabilă cu mașina prin Slănicul ploios. Parcăm chiar lângă muzeu și ne bucurăm de istorie. La prânz, lăsăm mașina în parcarea păzită a salinei și coborâm uscați în adâncuri. După-amiaza mergem spre punctul de belvedere, mașina servind drept adăpost mobil.\n\nIdeal pentru familii, pentru a rămâne uscați între obiective.",
+            "en": "Comfortable drive through rainy Slănic. We park right by the museum and enjoy the history. At noon, the car stays in the mine's guarded parking lot, and we descend dry into the depths. In the afternoon, we head to the viewpoint, with the car serving as a mobile shelter.\n\nIdeal for families to stay dry between the sites."
+          },
+          "stops": [
+            {
+              "name": "Town Center Parking & Salt Museum",
+              "tip_5lang": {
+                "de": "Parkplätze können bei Regen schnell schlammig werden; Vorsicht beim Aussteigen.",
+                "hu": "A parkolók esőben gyorsan sárosodhatnak; vigyázzon a kiszállásnál.",
+                "ro": "Parcările pot deveni rapid noroioase pe ploaie; atenție la coborâre.",
+                "en": "Parking lots can get muddy quickly in the rain; be careful when getting out."
+              }
+            },
+            {
+              "name": "Slănic Monastery",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist nah am Eingang; nur ein kurzer Weg im Regen.",
+                "hu": "A parkoló közel van a bejárathoz; csak rövid út az esőben.",
+                "ro": "Parcarea este aproape de intrare; doar un drum scurt prin ploaie.",
+                "en": "The parking is close to the entrance; only a short walk in the rain."
+              }
+            },
+            {
+              "name": "Unirea Salt Mine Parking",
+              "tip_5lang": {
+                "de": "Bewachter Parkplatz; warten Sie im Auto, bis der Van zur Mine abfährt.",
+                "hu": "Őrzött parkoló; várjon az autóban a bányabusz indulásáig.",
+                "ro": "Parcare păzită; așteptați în mașină până la plecarea microbuzului.",
+                "en": "Guarded parking; wait in the car until the mine van departs."
+              }
+            },
+            {
+              "name": "Salt Mountain & Bride's Grotto",
+              "tip_5lang": {
+                "de": "Schlechte Sicht durch beschlagene Scheiben; nutzen Sie die Lüftung.",
+                "hu": "Rossz látási viszonyok a párás ablakok miatt; használja a szellőzést.",
+                "ro": "Vizibilitate redusă din cauza geamurilor aburite; folosiți ventilația.",
+                "en": "Poor visibility due to fogged windows; use the ventilation."
+              }
+            },
+            {
+              "name": "Baia Baciului Parking",
+              "tip_5lang": {
+                "de": "Oft große Pfützen auf dem Platz; wasserdichte Schuhe empfohlen.",
+                "hu": "Gyakran nagy tócsák vannak a téren; vízálló cipő ajánlott.",
+                "ro": "Adesea bălți mari în parcare; se recomandă pantofi impermeabili.",
+                "en": "Often large puddles in the lot; waterproof shoes recommended."
+              }
+            },
+            {
+              "name": "Piatra Verde Viewpoint",
+              "tip_5lang": {
+                "de": "Die Straße nach oben ist kurvig und bei Regen rutschig; langsam fahren.",
+                "hu": "A felfelé vezető út kanyargós és esőben csúszós; hajtson lassan.",
+                "ro": "Drumul spre vârf este sinuos și alunecos pe ploaie; conduceți încet.",
+                "en": "The road up is winding and slippery in the rain; drive slowly."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Parkplätze so nah wie möglich an den Eingängen.",
+              "Halten Sie Decken im Auto bereit, falls Kleidung nass wird.",
+              "Prüfen Sie den Zustand der Scheibenwischer vor der Abfahrt.",
+              "Klimaanlage nutzen, um das Beschlagen der Scheiben zu verhindern."
+            ],
+            "hu": [
+              "Használja a bejáratokhoz legközelebbi parkolóhelyeket.",
+              "Tartson takarókat az autóban, ha a ruhák átnedvesednének.",
+              "Indulás előtt ellenőrizze az ablaktörlők állapotát.",
+              "Használja a klímát a szélvédő párásodásának megakadályozására."
+            ],
+            "ro": [
+              "Folosiți locurile de parcare cât mai aproape de intrări.",
+              "Țineți pături în mașină în caz că hainele se udă.",
+              "Verificați starea ștergătoarelor înainte de plecare.",
+              "Folosiți aerul condiționat pentru a preveni aburirea parbrizului."
+            ],
+            "en": [
+              "Use parking spots as close as possible to the entrances.",
+              "Keep blankets in the car in case clothes get wet.",
+              "Check the condition of the windshield wipers before departure.",
+              "Use the A/C to prevent the windshield from fogging up."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Spritztour durch die verschneiten Hügel. Das Auto ist unser warmer Stützpunkt zwischen den Sehenswürdigkeiten. In der Mine genießen wir den Temperaturunterschied zum eiskalten Parkplatz. Die Fahrt zum Aussichtspunkt bietet spektakuläre weiße Panoramen bei maximalem Komfort.\n\nWinterreifen sind für die Auffahrt zum Piatra Verde unerlässlich.",
+            "hu": "Téli autós kirándulás a havas dombok között. Az autó a meleg bázisunk a látnivalók között. A bányában élvezzük a hőmérsékleti különbséget a fagyos parkolóhoz képest. A kilátóhoz vezető út látványos fehér panorámát kínál maximális kényelemben.\n\nA téli gumi elengedhetetlen a Piatra Verde felé vezető úton.",
+            "ro": "O plimbare de iarnă prin dealurile înzăpezite. Mașina este baza noastră caldă între obiective. În salină ne bucurăm de diferența de temperatură față de parcarea înghețată. Drumul spre belvedere oferă panorame albe spectaculoase în confort maxim.\n\nAnvelopele de iarnă sunt esențiale pentru urcarea spre Piatra Verde.",
+            "en": "A winter drive through the snowy hills. The car is our warm base between the sights. In the mine, we enjoy the temperature difference compared to the frozen parking lot. The drive to the viewpoint offers spectacular white panoramas in maximum comfort.\n\nWinter tires are essential for the drive up to Piatra Verde."
+          },
+          "stops": [
+            {
+              "name": "Town Center Parking & Salt Museum",
+              "tip_5lang": {
+                "de": "Parkplatz kann vereist sein; Vorsicht beim Gehen zum Museum.",
+                "hu": "A parkoló jeges lehet; vigyázzon a múzeumhoz vezető úton.",
+                "ro": "Parcarea poate fi înghețată; atenție la mersul spre muzeu.",
+                "en": "Parking lot can be icy; be careful walking to the museum."
+              }
+            },
+            {
+              "name": "Slănic Monastery",
+              "tip_5lang": {
+                "de": "Die Zufahrt wird meist geräumt, kann aber bei Neuschnee glatt sein.",
+                "hu": "A bejáratot általában takarítják, de friss hóban csúszós lehet.",
+                "ro": "Accesul este de obicei curățat, dar poate fi alunecos în zăpadă proaspătă.",
+                "en": "The access is usually cleared but can be slippery in fresh snow."
+              }
+            },
+            {
+              "name": "Unirea Salt Mine Parking",
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor nicht unnötig laufen, während Sie auf den Van warten.",
+                "hu": "Ne járassa feleslegesen a motort, amíg a bányabuszra vár.",
+                "ro": "Nu lăsați motorul pornit inutil în timp ce așteptați microbuzul.",
+                "en": "Do not leave the engine running unnecessarily while waiting for the van."
+              }
+            },
+            {
+              "name": "Salt Mountain & Bride's Grotto",
+              "tip_5lang": {
+                "de": "Schneehaufen können Parklücken blockieren; vorsichtig rangieren.",
+                "hu": "Hókupacok blokkolhatják a helyeket; óvatosan manőverezzen.",
+                "ro": "Mormanele de zăpadă pot bloca locurile; manevrați cu atenție.",
+                "en": "Snow piles can block spots; maneuver carefully."
+              }
+            },
+            {
+              "name": "Baia Baciului Parking",
+              "tip_5lang": {
+                "de": "Bei starkem Schneefall kann der Platz schwer befahrbar sein.",
+                "hu": "Erős havazáskor a tér nehezen járható lehet autóval.",
+                "ro": "În caz de ninsoare puternică, parcarea poate fi greu accesibilă.",
+                "en": "In heavy snow, the lot can be difficult to access by car."
+              }
+            },
+            {
+              "name": "Piatra Verde Viewpoint",
+              "tip_5lang": {
+                "de": "Nur mit guten Winterreifen befahren; die Steigung ist beachtlich.",
+                "hu": "Csak jó téli gumival vágjon neki; az emelkedő jelentős.",
+                "ro": "Mergeți doar cu anvelope de iarnă bune; panta este considerabilă.",
+                "en": "Go only with good winter tires; the incline is significant."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Frostschutz im Scheibenwaschwasser.",
+              "Nehmen Sie einen Eiskratzer und einen kleinen Schneebesen mit.",
+              "Tanken Sie voll, bevor Sie in die Hügel fahren.",
+              "Die Mine ist ein idealer Ort, um die Kälte für ein paar Stunden zu vergessen."
+            ],
+            "hu": [
+              "Ellenőrizze a fagyállót a szélvédőmosóban.",
+              "Vigyen magával jégkaparót és egy kis hókefét.",
+              "Tankoljon tele, mielőtt a dombok közé indulna.",
+              "A bánya ideális hely, hogy pár órára elfelejtse a kinti hideget."
+            ],
+            "ro": [
+              "Verificați antigelul din lichidul de parbriz.",
+              "Luați o racletă și o perie mică pentru zăpadă.",
+              "Alimentați complet înainte de a pleca spre dealuri.",
+              "Salina este un loc ideal pentru a uita de frig pentru câteva ore."
+            ],
+            "en": [
+              "Check the antifreeze in the windshield washer fluid.",
+              "Take an ice scraper and a small snow brush with you.",
+              "Fuel up completely before heading into the hills.",
+              "The mine is an ideal place to forget the cold for a few hours."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1240,6 +1822,188 @@
           "Have small change ready for the bus fares.",
           "Be flexible, as the buses may not always be on time."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit Bus und Bahn durch das nasse Slănic. Wir starten im Zentrum und nutzen die kurzen Wege zwischen den Haltestellen. Mittags ist die Salzmine ein Segen, da man dort lange Zeit im Trockenen verbringen kann. Der Nachmittag wird ruhiger am Kloster verbracht, bevor es mit dem Bus zurückgeht.\n\nPlanen Sie Wartezeiten in Cafés ein, um dem Regen zu entgehen.",
+            "hu": "Busszal és vonattal a vizes Szlanikon. A központból indulva kihasználjuk a megállók közötti rövid távokat. Délben a sóbánya áldás, hiszen ott hosszú időt tölthetünk szárazon. A délutánt a kolostornál töltjük, majd busszal térünk vissza.\n\nA várakozási időket tervezze kávézókba, hogy elkerülje az esőt.",
+            "ro": "Cu autobuzul și trenul prin Slănicul umed. Pornim din centru și profităm de distanțele scurte dintre stații. La prânz, salina este o binecuvântare, permițând petrecerea timpului la adăpost. După-amiaza este petrecută la mănăstire, înainte de întoarcerea cu autobuzul.\n\nPlanificați timpii de așteptare în cafenele pentru a evita ploaia.",
+            "en": "By bus and train through wet Slănic. We start in the center, making use of short distances between stops. At noon, the salt mine is a blessing, allowing us to spend a long time in the dry. The afternoon is spent at the monastery before returning by bus.\n\nPlan waiting times in cafes to escape the rain."
+          },
+          "stops": [
+            {
+              "name": "Central Stop & Salt Museum",
+              "tip_5lang": {
+                "de": "Warten Sie im Museumseingang, wenn es stark regnet.",
+                "hu": "Várjon a múzeum bejáratánál, ha erősen esik.",
+                "ro": "Așteptați în intrarea muzeului dacă plouă torențial.",
+                "en": "Wait in the museum entrance if it's raining heavily."
+              }
+            },
+            {
+              "name": "Slănic Monastery",
+              "tip_5lang": {
+                "de": "Haltestelle ist nah; der Weg zum Tor ist schnell geschafft.",
+                "hu": "A megálló közeli; a kapuhoz vezető út gyorsan megvan.",
+                "ro": "Stația este aproape; drumul spre poartă este scurt.",
+                "en": "The stop is close; the path to the gate is quick."
+              }
+            },
+            {
+              "name": "Unirea Salt Mine Stop",
+              "tip_5lang": {
+                "de": "Vom Bus zum Abfahrtsort der Mine sind es nur wenige Schritte.",
+                "hu": "A busztól a bánya indulási pontjáig csak pár lépés az út.",
+                "ro": "De la autobuz până la punctul de plecare spre salină sunt doar câțiva pași.",
+                "en": "From the bus to the mine's departure point is only a few steps."
+              }
+            },
+            {
+              "name": "Salt Mountain & Bride's Grotto",
+              "tip_5lang": {
+                "de": "Suchen Sie bei der Haltestelle Schutz unter dem Vordach.",
+                "hu": "Keressen menedéket a megálló előteteje alatt.",
+                "ro": "Căutați adăpost sub copertina stației.",
+                "en": "Seek shelter under the stop's canopy."
+              }
+            },
+            {
+              "name": "Baia Baciului Stop",
+              "tip_5lang": {
+                "de": "Vorsicht vor vorbeifahrenden Autos, die Wasser aufwirbeln.",
+                "hu": "Vigyázzon az elhaladó autókra, amik felverhetik a vizet.",
+                "ro": "Atenție la mașinile care trec și pot stropi cu apă.",
+                "en": "Watch out for passing cars that may splash water."
+              }
+            },
+            {
+              "name": "Red Bath",
+              "tip_5lang": {
+                "de": "Bei Regen kann der Weg von der Haltestelle uneben sein.",
+                "hu": "Esőben a megállótól vezető út egyenetlen lehet.",
+                "ro": "Pe ploaie, drumul de la stație poate fi denivelat.",
+                "en": "In the rain, the path from the stop can be uneven."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie die Busfahrpläne online; bei Regen gibt es oft Verzögerungen.",
+              "Halten Sie Kleingeld für den Fahrpreis bereit.",
+              "Die Mine ist der sicherste Ort, um trocken zu bleiben.",
+              "Nutzen Sie die Wartehäuschen, auch wenn sie klein sind."
+            ],
+            "hu": [
+              "Ellenőrizze a buszmenetrendet online; esőben gyakoriak a késések.",
+              "Legyen kéznél aprópénz a jegyvásárláshoz.",
+              "A bánya a legbiztosabb hely a szárazon maradáshoz.",
+              "Használja a buszvárókat, még ha kicsik is."
+            ],
+            "ro": [
+              "Verificați orarul autobuzelor online; întârzierile sunt frecvente pe ploaie.",
+              "Aveți la îndemână mărunțiș pentru bilet.",
+              "Salina este cel mai sigur loc pentru a rămâne uscat.",
+              "Folosiți refugiile din stații, chiar dacă sunt mici."
+            ],
+            "en": [
+              "Check bus schedules online; delays are common in the rain.",
+              "Have small change ready for the fare.",
+              "The mine is the surest place to stay dry.",
+              "Use the bus shelters, even if they are small."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein winterlicher Ausflug mit öffentlichen Verkehrsmitteln. Wir genießen den Blick auf die schneebedeckten Gipfel aus dem warmen Bus. Die Salzmine bietet die perfekte Flucht vor der Kälte bei angenehmen Temperaturen. Nachmittags besuchen wir das Kloster, bevor wir den letzten Bus zurück ins Stadtzentrum nehmen.\n\nStellen Sie sicher, dass Sie sich an den Haltestellen warm halten.",
+            "hu": "Téli kirándulás tömegközlekedéssel. A meleg buszból csodáljuk a havas csúcsokat. A sóbánya tökéletes menekülést kínál a hideg elől a kellemes hőmérsékletével. Délután ellátogatunk a kolostorhoz, mielőtt felszállnánk az utolsó belvárosi buszra.\n\nÜgyeljen rá, hogy melegen tartsa magát a megállókban való várakozáskor.",
+            "ro": "O excursie de iarnă cu transportul public. Admirăm vârfurile înzăpezite din autobuzul călduros. Salina oferă evadarea perfectă de frig cu temperaturile sale plăcute. După-amiaza vizităm mănăstirea înainte de a lua ultimul autobuz spre centru.\n\nAsigurați-vă că vă mențineți căldura în timp ce așteptați în stații.",
+            "en": "A winter outing by public transport. We admire the snowy peaks from the warm bus. The salt mine offers the perfect escape from the cold with its pleasant temperatures. In the afternoon, we visit the monastery before catching the last bus back to the center.\n\nMake sure to keep yourself warm while waiting at the stops."
+          },
+          "stops": [
+            {
+              "name": "Central Stop & Salt Museum",
+              "tip_5lang": {
+                "de": "Warten Sie in den umliegenden Geschäften auf den Bus.",
+                "hu": "Várjon a közeli üzletekben a busz érkezéséig.",
+                "ro": "Așteptați în magazinele din apropiere până la sosirea autobuzului.",
+                "en": "Wait in nearby shops until the bus arrives."
+              }
+            },
+            {
+              "name": "Slănic Monastery",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Rückfahrzeiten; im Winter fahren weniger Busse.",
+                "hu": "Ellenőrizze a visszautat; télen kevesebb busz járhat.",
+                "ro": "Verificați orele de întoarcere; iarna circulă mai puține autobuze.",
+                "en": "Check return times; fewer buses may run in winter."
+              }
+            },
+            {
+              "name": "Unirea Salt Mine Stop",
+              "tip_5lang": {
+                "de": "Der Boden an der Haltestelle kann glatt sein; Vorsicht beim Einsteigen.",
+                "hu": "A megálló talaja jeges lehet; vigyázzon a felszállásnál.",
+                "ro": "Solul din stație poate fi alunecos; atenție la urcarea în autobuz.",
+                "en": "The ground at the stop can be icy; be careful when boarding."
+              }
+            },
+            {
+              "name": "Salt Mountain & Bride's Grotto",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist dem Wind ausgesetzt; ziehen Sie sich warm an.",
+                "hu": "A megálló kitett a szélnek; öltözzön fel melegen.",
+                "ro": "Stația este expusă vântului; îmbrăcați-vă gros.",
+                "en": "The stop is exposed to the wind; dress warmly."
+              }
+            },
+            {
+              "name": "Baia Baciului Stop",
+              "tip_5lang": {
+                "de": "Die Busse können bei Schnee leichte Verspätungen haben.",
+                "hu": "A buszok hóban kisebb késéssel közlekedhetnek.",
+                "ro": "Autobuzele pot avea mici întârzieri în condiții de zăpadă.",
+                "en": "Buses may have slight delays in snowy conditions."
+              }
+            },
+            {
+              "name": "Red Bath",
+              "tip_5lang": {
+                "de": "Ein einsamer Ort im Winter; planen Sie die Rückkehr vor Sonnenuntergang.",
+                "hu": "Magányos hely télen; tervezze a visszatérést naplemente előtt.",
+                "ro": "Un loc singuratic iarna; planificați revenirea înainte de apus.",
+                "en": "A lonely place in winter; plan your return before sunset."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Echtzeit-Apps für den öffentlichen Nahverkehr.",
+              "Tragen Sie warme Socken, da das Warten auf den Bus kalt sein kann.",
+              "Die Mine ist der beste Ort für eine lange, warme Pause.",
+              "Achten Sie auf die letzten Fahrten, die im Winter oft früher enden."
+            ],
+            "hu": [
+              "Használja a tömegközlekedési appokat a valós idejű infókért.",
+              "Viseljen meleg zoknit, mert a várakozás a buszra hideg lehet.",
+              "A bánya a legjobb hely egy hosszú, meleg pihenőhöz.",
+              "Ügyeljen az utolsó járatokra, amik télen gyakran korábban indulnak."
+            ],
+            "ro": [
+              "Folosiți aplicațiile de transport public pentru informații în timp real.",
+              "Purtați șosete groase, deoarece așteptarea în stație poate fi rece.",
+              "Salina este cel mai bun loc pentru o pauză lungă și călduroasă.",
+              "Fiți atenți la ultimele curse, care pot fi mai devreme iarna."
+            ],
+            "en": [
+              "Use public transport apps for real-time information.",
+              "Wear warm socks as waiting for the bus can be cold.",
+              "The mine is the best place for a long, warm break.",
+              "Watch out for last trips, which often end earlier in winter."
+            ]
+          }
+        }
       }
     }
   }

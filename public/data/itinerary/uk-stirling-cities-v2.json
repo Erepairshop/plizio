@@ -362,6 +362,196 @@
           "Scottish weather is unpredictable, so pack a waterproof jacket.",
           "Most attractions are within walking distance, but be prepared for some steep climbs."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Vormittags bietet das Old Town Jail einen trockenen Einstieg in die düstere Geschichte Stirling. Mittags erkunden Sie die prächtigen Innenräume von Stirling Castle, während der Regen gegen die dicken Festungsmauern peitscht. Nachmittags finden Sie in der Church of the Holy Rude Zuflucht unter gotischen Bögen. Den Tag beschließen Sie bei einem mystischen Spaziergang zur Cambuskenneth Abbey, wenn der Nebel über den Forth zieht.",
+            "hu": "Délelőtt a régi városi börtön falai között fedezheted fel Stirling sötét múltját az eső elől menekülve. Délben a vár belső termei és a nagyterem nyújtanak menedéket a zord skót időjárás elől. Délután a Church of the Holy Rude gótikus csendjében pihenhetsz meg. Az estét egy hangulatos, eső áztatta séta zárja az apátság romjaihoz, ahol a köd különleges atmoszférát teremt a folyóparton.",
+            "ro": "Dimineața începe la vechea închisoare, un refugiu perfect împotriva ploii, unde istoria prinde viață. La prânz, explorăm sălile grandioase ale Castelului Stirling, feriți de intemperii în spatele zidurilor groase. După-amiaza, liniștea bisericii Holy Rude oferă un moment de respiro uscat. Seara se încheie cu o plimbare atmosferică spre Abația Cambuskenneth, când ploaia măruntă transformă peisajul într-un tablou scoțian autentic.",
+            "en": "Morning starts at the Old Town Jail, a perfect indoor shelter to learn about Stirling's gritty past. At noon, explore the royal chambers of Stirling Castle while staying dry within its historic walls. In the afternoon, the Church of the Holy Rude provides a peaceful sanctuary. The day ends with a misty walk to Cambuskenneth Abbey, where the soft rain enhances the romantic ruins by the river Forth."
+          },
+          "stops": [
+            {
+              "name": "Stirling Old Town Jail",
+              "tip_5lang": {
+                "de": "Ideal bei Regen, da die Ausstellungen komplett überdacht sind.",
+                "hu": "Kiváló esős napra, a kiállítások teljesen fedett helyen vannak.",
+                "ro": "Ideal pentru ploaie, expozițiile sunt complet în interior.",
+                "en": "Perfect for rain, as all exhibits are fully covered indoors."
+              }
+            },
+            {
+              "name": "Argyll's Lodging",
+              "tip_5lang": {
+                "de": "Nutzen Sie den kurzen Weg vom Gefängnis, um nicht nass zu werden.",
+                "hu": "Használd ki a rövid utat a börtöntől, hogy ne ázz el.",
+                "ro": "Profită de distanța scurtă de la închisoare pentru a rămâne uscat.",
+                "en": "Take advantage of the short walk from the jail to stay dry."
+              }
+            },
+            {
+              "name": "Stirling Castle",
+              "tip_5lang": {
+                "de": "Die Great Hall bietet viel Platz zum Aufwärmen und Trocknen.",
+                "hu": "A Great Hall hatalmas tere kiváló hely a megszáradásra.",
+                "ro": "Sala Mare oferă mult spațiu pentru a te încălzi și usca.",
+                "en": "The Great Hall offers plenty of space to warm up and dry off."
+              }
+            },
+            {
+              "name": "Church of the Holy Rude",
+              "tip_5lang": {
+                "de": "Bewundern Sie die hölzerne Decke, während es draußen regnet.",
+                "hu": "Csodáld meg a fagerendás mennyezetet, miközben kint esik.",
+                "ro": "Admiră tavanul de lemn în timp ce afară plouă.",
+                "en": "Admire the medieval timber roof while the rain falls outside."
+              }
+            },
+            {
+              "name": "Stirling Old Bridge",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem Kopfsteinpflaster, es kann sehr rutschig sein.",
+                "hu": "Vigyázat a macskaköveken, nagyon csúszósak lehetnek.",
+                "ro": "Atenție pe pavaj, poate fi foarte alunecos când este ud.",
+                "en": "Be careful on the cobblestones; they can be very slippery."
+              }
+            },
+            {
+              "name": "Cambuskenneth Abbey",
+              "tip_5lang": {
+                "de": "Feste wasserdichte Schuhe für den Weg durch die Wiesen nötig.",
+                "hu": "Vízálló túrabakancs ajánlott a nedves füves ösvényhez.",
+                "ro": "Încălțăminte impermeabilă necesară pentru poteca prin iarbă.",
+                "en": "Waterproof footwear is essential for the path through the meadows."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine hochwertige Regenjacke, da der Wind in Stirling Schirme oft unbrauchbar macht.",
+              "Die gepflasterten Wege in der Altstadt werden bei Nässe extrem glatt.",
+              "Nutzen Sie die zahlreichen Cafés rund um das Schloss für Aufwärmpausen.",
+              "Die Museen in Stirling sind hervorragende Regenalternativen mit viel Zeitbedarf.",
+              "Prüfen Sie, ob die Fähre zum Abbey Craig bei starkem Regen eingeschränkt ist."
+            ],
+            "hu": [
+              "Viselj minőségi esőkabátot, mert a szél Stirlingben gyakran tönkreteszi az esernyőket.",
+              "Az óváros macskaköves utcái rendkívül csúszósak esőben.",
+              "Használd ki a vár környéki kávézókat egy-egy melegítő szünetre.",
+              "A stirlingi múzeumok kiváló fedett programok, ahol órákat el lehet tölteni.",
+              "Vízálló cipő kötelező, ha ki akarsz menni az apátsághoz a folyóparton."
+            ],
+            "ro": [
+              "Poartă o jachetă impermeabilă de calitate, vântul din Stirling distruge adesea umbrelele.",
+              "Străzile pietruite din orașul vechi devin extrem de alunecoase când sunt ude.",
+              "Profită de cafenelele din jurul castelului pentru pauze de încălzire.",
+              "Muzeele din Stirling sunt alternative excelente pentru ploaie, oferind multe de văzut.",
+              "Încălțămintea rezistentă la apă este esențială pentru plimbarea spre abație."
+            ],
+            "en": [
+              "Wear a high-quality waterproof jacket; Stirling's wind often makes umbrellas useless.",
+              "The cobblestone streets in the Old Town become extremely slippery when wet.",
+              "Take advantage of the numerous cafes near the Castle for warming breaks.",
+              "Stirling's museums are excellent rainy-day alternatives requiring several hours.",
+              "Waterproof footwear is a must if you plan to walk to the riverside abbey."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im kalten Morgenlicht wirkt das Old Town Jail besonders streng. Mittags glänzt Stirling Castle unter einer Frostschicht, während der Blick auf die verschneiten Highlands atemberaubend ist. Nachmittags wärmen Sie sich in der Church of the Holy Rude auf, bevor die frühe Dämmerung Stirling Old Bridge in goldenes Licht taucht. Der Tag endet früh bei der Cambuskenneth Abbey, bevor die winterliche Dunkelheit den Forth einhüllt.",
+            "hu": "A hideg reggeli fényben a régi börtön még komorabb arcát mutatja. Délben a vár falaidat zúzmara borítja, és tiszta időben látszanak a havas Felföld csúcsai. Délután a Church of the Holy Rude falai között kereshetsz enyhülést a metsző szél elől, majd az óhídnál élvezheted a korai naplementét. Az este hamar leszáll az apátság romjai felett, mire a téli sötétség körbeöleli a várost.",
+            "ro": "În lumina rece a dimineții, vechea închisoare pare și mai austeră. La prânz, Castelul Stirling strălucește sub un strat de chiciură, oferind vederi superbe spre munții înzăpeziți. După-amiaza, ne încălzim în biserica Holy Rude înainte ca apusul timpuriu să scalde Podul Vechi în lumină aurie. Ziua se încheie devreme la Abația Cambuskenneth, înainte ca întunericul iernii să cuprindă valea.",
+            "en": "In the crisp morning air, the Old Town Jail feels particularly atmospheric. At noon, Stirling Castle sparkles under frost, offering breathtaking views of the snowy Highlands. In the afternoon, find warmth in the Church of the Holy Rude before the early sunset bathes the Old Bridge in golden hues. The day ends early at Cambuskenneth Abbey as the winter darkness settles over the River Forth."
+          },
+          "stops": [
+            {
+              "name": "Stirling Old Town Jail",
+              "tip_5lang": {
+                "de": "Warme Kleidung ist nötig, da die alten Steinmauern die Kälte speichern.",
+                "hu": "Réteges öltözet kell, a vastag kőfalak ontják a hideget.",
+                "ro": "Haine groase necesare, zidurile vechi de piatră rețin frigul.",
+                "en": "Warm layers are needed as the thick stone walls trap the cold."
+              }
+            },
+            {
+              "name": "Argyll's Lodging",
+              "tip_5lang": {
+                "de": "Prüfen Sie die eingeschränkten Winteröffnungszeiten vorab.",
+                "hu": "Ellenőrizd a korlátozott téli nyitvatartást indulás előtt.",
+                "ro": "Verifică programul redus de iarnă înainte de vizită.",
+                "en": "Check the restricted winter opening hours before visiting."
+              }
+            },
+            {
+              "name": "Stirling Castle",
+              "tip_5lang": {
+                "de": "Vom Schlosswall hat man den besten Blick auf die verschneiten Gipfel.",
+                "hu": "A várfalakról nyílik a legszebb kilátás a havas hegycsúcsokra.",
+                "ro": "De pe zidurile castelului ai cea mai bună vedere spre vârfurile înzăpezite.",
+                "en": "The castle ramparts offer the best views of the snowy Highland peaks."
+              }
+            },
+            {
+              "name": "Church of the Holy Rude",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um dem kalten Winterwind kurz zu entfliehen.",
+                "hu": "Csendes menedék, ahol megpihenhetsz a metsző téli szél elől.",
+                "ro": "Un loc liniștit pentru a scăpa scurt de vântul tăios de iarnă.",
+                "en": "A peaceful spot to briefly escape the biting winter wind."
+              }
+            },
+            {
+              "name": "Stirling Old Bridge",
+              "tip_5lang": {
+                "de": "Achten Sie bei Frost auf Eisglätte auf der Brücke.",
+                "hu": "Fagyos időben ügyelj a jegesedésre a híd felületén.",
+                "ro": "Atenție la polei pe pod în timpul înghețului.",
+                "en": "Watch out for icy patches on the bridge during frost."
+              }
+            },
+            {
+              "name": "Cambuskenneth Abbey",
+              "tip_5lang": {
+                "de": "Besuch am frühen Nachmittag planen, da es ab 16 Uhr dunkel wird.",
+                "hu": "Tervezd a látogatást kora délutánra, mert 4-kor már sötétedik.",
+                "ro": "Planifică vizita devreme, se întunecă deja în jurul orei 16:00.",
+                "en": "Plan your visit for early afternoon as it gets dark by 4 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Dezember bereits gegen 15:45 Uhr unter.",
+              "Kleiden Sie sich nach dem Zwiebelprinzip, da Innenräume oft stark geheizt sind.",
+              "Vorsicht vor 'Black Ice' auf den steilen Wegen zur Burg hinauf.",
+              "Warme Getränke in Thermosbechern sind für den Weg zur Abbey ratsam.",
+              "Der Wind vom Highland-Plateau kann die gefühlte Temperatur massiv senken."
+            ],
+            "hu": [
+              "A nap decemberben már délután 4 előtt lemegy, tervezz korán.",
+              "Öltözz rétegesen, mert a belső terek melegek, de kint metsző a szél.",
+              "Vigyázz a 'fekete jéggel' a várba vezető meredek utakon.",
+              "Egy termosz forró teával sokat segíthet a folyóparti séta során.",
+              "A Felföld felől érkező szél miatt a hőérzet sokkal alacsonyabb lehet."
+            ],
+            "ro": [
+              "Soarele apune deja în jurul orei 15:45 în luna decembrie.",
+              "Îmbracă-te în straturi, interioarele sunt încălzite, dar afară este ger.",
+              "Atenție la gheața neagră pe drumurile înclinate spre castel.",
+              "Băuturile calde într-un termos sunt recomandate pentru plimbarea spre abație.",
+              "Vântul dinspre Highlands poate scădea drastic temperatura resimțită."
+            ],
+            "en": [
+              "Sunset occurs as early as 3:45 PM in December; plan accordingly.",
+              "Dress in layers as indoor spaces are heated but the outdoor wind is biting.",
+              "Watch out for 'black ice' on the steep paths leading up to the castle.",
+              "Warm drinks in a thermos are highly recommended for the walk to the abbey.",
+              "The wind coming off the Highland plateau can significantly drop the felt temperature."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -642,6 +832,178 @@
           "Some paths can be muddy, so be prepared for the conditions.",
           "Use a bike navigation app to follow the best routes."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen bietet die Fahrt zum Stirling Castle einen sportlichen Start mit dramatischer Kulisse. Mittags führt der Weg über die rutschige Old Bridge zur Cambuskenneth Abbey, wo der Regen die alten Steine glänzen lässt. Nachmittags erklimmen Sie das National Wallace Monument, umgeben von tief hängenden Wolken. Der Tag endet im Bannockburn Visitor Centre, wo Sie sich bei interaktiven Ausstellungen aufwärmen können.",
+            "hu": "Az eső ellenére a stirlingi várba vezető emelkedő sportos és látványos kezdés. Délben a csúszós óhídon át tekersz az apátsághoz, ahol az eső fényesre mossa a romokat. Délután a Wallace emlékműhöz vezet az út a sűrű felhők között. A napot a Bannockburn látogatóközpontban zárod, ahol interaktív kiállítások mellett száradhatsz meg.",
+            "ro": "În ciuda ploii, urcarea spre Castelul Stirling oferă un start sportiv într-un decor dramatic. La prânz, trecem peste Podul Vechi spre Abația Cambuskenneth, unde ploaia face pietrele să strălucească. După-amiaza urcăm la Monumentul Wallace, înconjurați de nori joși. Ziua se încheie la centrul Bannockburn, un loc perfect pentru a te usca explorând expozițiile.",
+            "en": "Despite the rain, the ride up to Stirling Castle is a spirited start with a dramatic backdrop. At noon, cross the slippery Old Bridge to Cambuskenneth Abbey, where rain makes the ancient stones gleam. In the afternoon, cycle to the National Wallace Monument amidst low-hanging clouds. The day concludes at the Bannockburn Visitor Centre, where interactive exhibits provide a warm refuge."
+          },
+          "stops": [
+            {
+              "name": "Stirling Castle",
+              "tip_5lang": {
+                "de": "Nutzen Sie die bewachten Fahrradständer im Innenhof, falls vorhanden.",
+                "hu": "Használd a vár udvarán található kerékpártárolókat.",
+                "ro": "Folosește suporturile de biciclete din curtea castelului.",
+                "en": "Use the bicycle racks located within the castle grounds."
+              }
+            },
+            {
+              "name": "Stirling Old Bridge",
+              "tip_5lang": {
+                "de": "Vorsicht beim Bremsen auf nassen Steinen – Rutschgefahr!",
+                "hu": "Óvatosan fékezz a vizes köveken – csúszásveszély!",
+                "ro": "Frânează cu grijă pe pietrele ude – risc de derapare!",
+                "en": "Brake carefully on wet stones – high risk of skidding!"
+              }
+            },
+            {
+              "name": "Cambuskenneth Abbey",
+              "tip_5lang": {
+                "de": "Der Radweg entlang des Forth kann bei Regen matschig sein.",
+                "hu": "A folyóparti kerékpárút esőben sáros lehet.",
+                "ro": "Pista de biciclete de-a lungul râului poate fi noroioasă.",
+                "en": "The cycle path along the River Forth can get muddy in the rain."
+              }
+            },
+            {
+              "name": "National Wallace Monument",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad unten ab; der Weg zum Turm ist sehr steil.",
+                "hu": "Hagyd a biciklit lent; az emlékműhöz vezető út nagyon meredek.",
+                "ro": "Lasă bicicleta jos; drumul spre monument este foarte abrupt.",
+                "en": "Leave your bike at the bottom; the climb to the tower is very steep."
+              }
+            },
+            {
+              "name": "Bannockburn Visitor Centre",
+              "tip_5lang": {
+                "de": "Idealer Endpunkt, um Kleidung vor der Rückfahrt zu trocknen.",
+                "hu": "Ideális végpont, ahol megszáríthatod a ruháidat hazaút előtt.",
+                "ro": "Punct final ideal pentru a-ți usca hainele înainte de plecare.",
+                "en": "Ideal final stop to dry off your gear before heading back."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserdichte Regenhosen, da das Spritzwasser von unten stört.",
+              "Vermeiden Sie weiße Linien und Markierungen, diese sind bei Nässe extrem glatt.",
+              "Schutzbleche am Fahrrad sind in Stirling bei diesem Wetter ein Muss.",
+              "Beleuchtung einschalten, da die Sicht bei Regen in den Hügeln schlecht ist.",
+              "Planen Sie mehr Zeit für Bremswege auf den steilen Abfahrten ein."
+            ],
+            "hu": [
+              "Viselj vízálló nadrágot, mert a kerék kerék felcsapódó víz zavaró lehet.",
+              "Kerüld a fehér útburkolati jeleket, mert vizesen rendkívül csúsznak.",
+              "A sárvédő elengedhetetlen a stirlingi esős utakon.",
+              "Kapcsold be a lámpákat, mert a dombok között rossz a látótávolság esőben.",
+              "Számolj hosszabb fékúttal a meredek lejtőkön."
+            ],
+            "ro": [
+              "Poartă pantaloni impermeabili, apa aruncată de roți este deranjantă.",
+              "Evită marcajele rutiere albe, sunt extrem de alunecoase pe ploaie.",
+              "Apărătorile de noroi sunt obligatorii în Stirling pe o astfel de vreme.",
+              "Aprinde luminile, vizibilitatea în dealuri este redusă când plouă.",
+              "Alocă mai mult timp pentru frânare pe coborârile abrupte."
+            ],
+            "en": [
+              "Wear waterproof trousers; road spray can be very bothersome.",
+              "Avoid white road markings as they become extremely slick when wet.",
+              "Mudguards are essential in Stirling during rainy weather.",
+              "Turn on your lights as visibility in the hills is poor during rain.",
+              "Allow extra distance for braking on steep downhill sections."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen führt Sie zum Stirling Castle, wo die Luft kristallklar ist. Mittags radeln Sie durch die stille Winterlandschaft zur Old Bridge und zur einsamen Cambuskenneth Abbey. Nachmittags fordert der Anstieg zum Wallace Monument Ihre Ausdauer, belohnt aber mit Winterpanoramen. Den Tag lassen Sie im Bannockburn Centre ausklingen, bevor die Kälte nach Sonnenuntergang spürbar anzieht.",
+            "hu": "Fagyos reggelen tekersz fel a stirlingi várhoz, ahol kristálytiszta a levegő. Délben a csendes téli tájon át vezet az út az óhídhoz és az apátsághoz. Délután a Wallace emlékműhöz vezető emelkedő próbára teszi az állóképességet, de a panoráma kárpótol. A napot a Bannockburn központban fejezed be, mielőtt a naplemente utáni hideg igazán felerősödne.",
+            "ro": "O dimineață geroasă te duce la Castelul Stirling, unde aerul este de cristal. La prânz, pedalezi prin peisajul liniștit de iarnă spre Podul Vechi și abație. După-amiaza, urcarea spre Monumentul Wallace îți testează rezistența, dar oferă panorame superbe. Ziua se încheie la centrul Bannockburn, înainte ca gerul să se intensifice după apus.",
+            "en": "A frosty morning leads you to Stirling Castle, where the air is crystal clear. At noon, cycle through the silent winter landscape to the Old Bridge and the lonely Abbey. In the afternoon, the climb to the Wallace Monument tests your stamina but rewards with winter panoramas. End the day at the Bannockburn Centre before the temperature drops sharply after sunset."
+          },
+          "stops": [
+            {
+              "name": "Stirling Castle",
+              "tip_5lang": {
+                "de": "Vorsicht auf den gepflasterten Rampen, es könnte Glatteis geben.",
+                "hu": "Vigyázz a macskaköves rámpákon, jegesedés várható.",
+                "ro": "Atenție pe rampele pavate, poate exista polei.",
+                "en": "Be careful on the cobbled ramps; they may be icy."
+              }
+            },
+            {
+              "name": "Stirling Old Bridge",
+              "tip_5lang": {
+                "de": "Kurze Fotopause, aber nicht zu lange stehen bleiben – Auskühlgefahr.",
+                "hu": "Csak egy rövid fotószünet, ne állj meg sokáig a hideg szélben.",
+                "ro": "Pauză scurtă pentru poze, nu staționa mult din cauza frigului.",
+                "en": "Quick photo stop only; don't stay still for too long in the cold."
+              }
+            },
+            {
+              "name": "Cambuskenneth Abbey",
+              "tip_5lang": {
+                "de": "Der Boden kann gefroren und uneben sein, fahren Sie vorsichtig.",
+                "hu": "A talaj fagyott és egyenetlen lehet, óvatosan haladj.",
+                "ro": "Solul poate fi înghețat și denivelat, pedalează cu atenție.",
+                "en": "The ground may be frozen and uneven; ride carefully."
+              }
+            },
+            {
+              "name": "National Wallace Monument",
+              "tip_5lang": {
+                "de": "Der Wind oben am Turm ist im Winter extrem schneidend.",
+                "hu": "A torony tetején a szél télen rendkívül metsző.",
+                "ro": "Vântul de sus de la monument este extrem de tăios iarna.",
+                "en": "The wind at the top of the monument is extremely biting in winter."
+              }
+            },
+            {
+              "name": "Bannockburn Visitor Centre",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Café für eine heiße Schokolade zum Aufwärmen.",
+                "hu": "Használd a kávézót egy forró csokira a felmelegedéshez.",
+                "ro": "Folosește cafeneaua pentru o ciocolată caldă ca să te încălzești.",
+                "en": "Visit the cafe for a hot chocolate to warm up."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Handschuhe, da die Finger am Lenker schnell einfrieren.",
+              "Achten Sie auf Brücken und schattigen Abschnitten auf Reifglätte.",
+              "Die Batterie Ihres E-Bikes (falls vorhanden) entlädt sich bei Kälte schneller.",
+              "Beleuchtung ist ab 15:30 Uhr aufgrund der frühen Dämmerung nötig.",
+              "Halten Sie die Fahrten kurz und planen Sie viele Stopps in beheizten Gebäuden."
+            ],
+            "hu": [
+              "Viselj szélálló kesztyűt, mert az ujjaid hamar lefagynak a kormányon.",
+              "Ügyelj a zúzmarára a hidakon és az árnyékos útszakaszokon.",
+              "Az elektromos kerékpár akkumulátora hamarabb lemerül a hidegben.",
+              "Délután fél 4-től már szükséges a világítás a korai sötétedés miatt.",
+              "Tarts rövidebb szakaszokat és tervezz több megállót fűtött helyeken."
+            ],
+            "ro": [
+              "Poartă mănuși rezistente la vânt, degetele îngheață rapid pe ghidon.",
+              "Atenție la porțiunile cu chiciură pe poduri și în zonele umbrite.",
+              "Bateria bicicletei electrice se descarcă mai repede la temperaturi scăzute.",
+              "Luminile sunt necesare de la ora 15:30 din cauza apusului timpuriu.",
+              "Planifică etape scurte de pedalat și multe opriri în interior."
+            ],
+            "en": [
+              "Wear windproof gloves; fingers freeze quickly on the handlebars.",
+              "Watch out for frost on bridges and shaded sections of the road.",
+              "Your e-bike battery (if using one) will drain faster in the cold.",
+              "Lights are mandatory from 3:30 PM due to early twilight.",
+              "Keep riding stretches short and plan frequent stops in heated buildings."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -946,6 +1308,196 @@
           "The Old Town streets are narrow and often one-way. Be careful.",
           "A car allows you to visit further afield sites like Deanston Distillery or Doune Castle."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Im Regen startet der Tag bequem im Bannockburn Visitor Centre. Mittags fahren Sie zum National Wallace Monument, das aus dem Nebel ragt, gefolgt von einem Besuch im Stirling Castle, wo das Auto sicher im Regen parkt. Nachmittags besuchen Sie die Church of the Holy Rude und das Old Town Jail, bevor Sie den Tag trocken an der Cambuskenneth Abbey abschließen.",
+            "hu": "Esős időben kényelmesen indul a nap a Bannockburn látogatóközpontban. Délben a ködből kiemelkedő Wallace emlékműhöz autózol, majd a vár következik, ahol biztonságos parkoló vár. Délután a Church of the Holy Rude és a régi börtön fedett programjai után az apátságnál zárod a napot, élvezve az autó nyújtotta védelmet.",
+            "ro": "Pe ploaie, ziua începe confortabil la centrul Bannockburn. La prânz conducem spre Monumentul Wallace care răsare din ceață, urmat de Castelul Stirling unde parcăm în siguranță. După-amiaza vizităm biserica Holy Rude și vechea închisoare, încheind ziua la abația Cambuskenneth, protejați de mașină între opriri.",
+            "en": "Start your rainy day comfortably at the Bannockburn Visitor Centre. At noon, drive to the National Wallace Monument looming out of the mist, followed by Stirling Castle where parking is convenient. In the afternoon, visit the Church of the Holy Rude and the Old Town Jail, ending the day at Cambuskenneth Abbey while staying dry between stops."
+          },
+          "stops": [
+            {
+              "name": "Bannockburn Visitor Centre",
+              "tip_5lang": {
+                "de": "Großer Parkplatz direkt vor dem Eingang – ideal bei Regen.",
+                "hu": "Nagy parkoló közvetlenül a bejáratnál – ideális esőben.",
+                "ro": "Parcare mare direct în fața intrării – ideal pe ploaie.",
+                "en": "Large car park directly in front of the entrance – ideal for rain."
+              }
+            },
+            {
+              "name": "National Wallace Monument",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Shuttle-Bus vom Parkplatz zum Turm bei Regen.",
+                "hu": "Használd a transzferbuszt a parkolótól a toronyig esőben.",
+                "ro": "Folosește microbuzul de la parcare până la monument pe ploaie.",
+                "en": "Take the shuttle bus from the car park to the tower during rain."
+              }
+            },
+            {
+              "name": "Stirling Castle",
+              "tip_5lang": {
+                "de": "Parkplätze direkt am Schloss sind begrenzt, früh ankommen.",
+                "hu": "A vár melletti parkolóhelyek száma korlátozott, érkezz korán.",
+                "ro": "Locurile de parcare de la castel sunt limitate, vino devreme.",
+                "en": "Parking spaces right at the castle are limited; arrive early."
+              }
+            },
+            {
+              "name": "Church of the Holy Rude",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Schlossparkplatz, Schirm mitnehmen.",
+                "hu": "Rövid séta a vár parkolójától, vigyél esernyőt.",
+                "ro": "Drum scurt de la parcarea castelului, ia umbrela.",
+                "en": "Short walk from the castle car park; bring an umbrella."
+              }
+            },
+            {
+              "name": "Stirling Old Town Jail",
+              "tip_5lang": {
+                "de": "Parken Sie im Stadtzentrum, falls der Schlossparkplatz voll ist.",
+                "hu": "Parkolj a belvárosban, ha a várparkoló megtelt.",
+                "ro": "Parchează în centrul orașului dacă parcarea castelului e plină.",
+                "en": "Park in the city centre if the castle car park is full."
+              }
+            },
+            {
+              "name": "Cambuskenneth Abbey",
+              "tip_5lang": {
+                "de": "Die Zufahrt erfolgt über schmale Straßen, achten Sie auf Pfützen.",
+                "hu": "Az út szűk utcákon át vezet, ügyelj a mélyebb tócsákra.",
+                "ro": "Accesul se face pe străzi înguste, atenție la bălți.",
+                "en": "Access is via narrow streets; watch out for large puddles."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Schlossparkplatz ist bei Regen oft schnell belegt, nutzen Sie Park & Ride.",
+              "Vermeiden Sie das Fahren durch tiefes Wasser in den tiefer gelegenen Teilen.",
+              "Lassen Sie nasse Schirme und Mäntel im Kofferraum, um Beschlagen zu vermeiden.",
+              "Die Sicht zum Wallace Monument kann durch Wolken stark eingeschränkt sein.",
+              "Planen Sie für die Parkplatzsuche in der Altstadt mehr Zeit ein."
+            ],
+            "hu": [
+              "A vár parkolója hamar megtelik esőben, fontold meg a Park & Ride-ot.",
+              "Kerüld a mélyebb tócsákat a város alacsonyabb részein.",
+              "A vizes esernyőket tartsd a csomagtartóban, hogy ne párásodjon az autó.",
+              "A Wallace emlékműnél a kilátás esőben korlátozott lehet a felhők miatt.",
+              "Számolj több idővel a parkolásra az óváros környékén."
+            ],
+            "ro": [
+              "Parcarea castelului se umple rapid pe ploaie, folosește Park & Ride.",
+              "Evită să conduci prin apă adâncă în zonele joase ale orașului.",
+              "Ține umbrelele ude în portbagaj pentru a evita aburirea geamurilor.",
+              "Vizibilitatea spre Monumentul Wallace poate fi redusă de nori.",
+              "Alocă timp suplimentar pentru găsirea unui loc de parcare în orașul vechi."
+            ],
+            "en": [
+              "The castle car park fills up quickly in the rain; consider Park & Ride.",
+              "Avoid driving through deep standing water in lower parts of the city.",
+              "Keep wet umbrellas and coats in the boot to prevent the windows from fogging.",
+              "Visibility at the Wallace Monument can be severely restricted by clouds.",
+              "Allow extra time for finding a parking spot near the Old Town."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im frostigen Morgenlicht fahren Sie zum Bannockburn Visitor Centre. Mittags glänzt das National Wallace Monument weiß im Frost, bevor es zum Stirling Castle geht, das majestätisch über der winterlichen Ebene thront. Nachmittags besuchen Sie die Church of the Holy Rude und das Old Town Jail, bevor die Fahrt zur Cambuskenneth Abbey in der frühen Winterdämmerung endet.",
+            "hu": "Fagyos reggelen autózol a Bannockburn látogatóközponthoz. Délben a Wallace emlékmű fehérlik a zúzmarától, majd a vár következik, amely fenségesen magasodik a téli síkság fölé. Délután a Church of the Holy Rude és a börtön látogatása után az apátságnál zárod a napot a korai téli szürkületben.",
+            "ro": "În lumina geroasă a dimineții conducem spre centrul Bannockburn. La prânz Monumentul Wallace strălucește sub chiciură, apoi mergem la Castelul Stirling, care domină maiestuos câmpia înghețată. După-amiaza vizităm biserica Holy Rude și închisoarea, încheind la abație în amurgul timpuriu de iarnă.",
+            "en": "In the crisp winter morning, drive to the Bannockburn Visitor Centre. At noon, the National Wallace Monument sparkles with frost before you head to Stirling Castle, perched majestically over the wintry plain. In the afternoon, visit the Church of the Holy Rude and the Jail, ending your tour at Cambuskenneth Abbey in the early winter twilight."
+          },
+          "stops": [
+            {
+              "name": "Bannockburn Visitor Centre",
+              "tip_5lang": {
+                "de": "Das Auto kann hier sicher aufwärmen, während Sie drinnen sind.",
+                "hu": "Az autó itt biztonságban várakozhat, amíg te bent melegszel.",
+                "ro": "Mașina poate rămâne aici în siguranță cât timp ești în interior.",
+                "en": "The car can stay here safely while you enjoy the indoor exhibits."
+              }
+            },
+            {
+              "name": "National Wallace Monument",
+              "tip_5lang": {
+                "de": "Die Straße zum Parkplatz kann morgens bei Frost glatt sein.",
+                "hu": "Az emlékműhöz vezető út reggelente fagyos és csúszós lehet.",
+                "ro": "Drumul spre parcare poate fi alunecos dimineața din cauza înghețului.",
+                "en": "The road to the car park can be icy in the morning."
+              }
+            },
+            {
+              "name": "Stirling Castle",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis beim Aussteigen auf dem Schlossplatz.",
+                "hu": "Vigyázz a csúszós talajra a vár előtti parkolónál.",
+                "ro": "Atenție la polei când cobori din mașină în parcarea castelului.",
+                "en": "Watch out for icy patches when getting out of the car at the castle."
+              }
+            },
+            {
+              "name": "Church of the Holy Rude",
+              "tip_5lang": {
+                "de": "Heizung im Auto auf dem kurzen Weg zwischen den Stopps genießen.",
+                "hu": "Élvezd az autó fűtését a megállók közötti rövid szakaszokon.",
+                "ro": "Bucură-te de căldura din mașină pe drumul scurt între opriri.",
+                "en": "Enjoy the car's heater on the short drives between stops."
+              }
+            },
+            {
+              "name": "Stirling Old Town Jail",
+              "tip_5lang": {
+                "de": "Überdachtes Parkhaus in der Nähe als frostfreie Alternative nutzen.",
+                "hu": "Használd a közeli fedett parkolóházat a fagymentes parkoláshoz.",
+                "ro": "Folosește parcarea supraetajată din apropiere ca alternativă ferită de îngheț.",
+                "en": "Use a nearby multi-storey car park for frost-free parking."
+              }
+            },
+            {
+              "name": "Cambuskenneth Abbey",
+              "tip_5lang": {
+                "de": "Vorsicht bei Dunkelheit in den schmalen Gassen zur Abbey.",
+                "hu": "Ügyelj a sötétedésre az apátsághoz vezető szűk utcákban.",
+                "ro": "Atenție la întuneric pe străzile înguste spre abație.",
+                "en": "Be careful driving through the narrow lanes to the abbey in the dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Ihr Frostschutzmittel für schottische Winter reicht.",
+              "Eiskratzer und Schneebesen sollten griffbereit im Auto liegen.",
+              "Die Batterieleistung kann bei extremen Minustemperaturen nachlassen.",
+              "Ab 16 Uhr ist volle Beleuchtung wegen der Dunkelheit absolut notwendig.",
+              "Die steilen Straßen der Oberstadt können bei Schneefall gesperrt sein."
+            ],
+            "hu": [
+              "Ellenőrizd a fagyálló folyadék szintjét a skót tél előtt.",
+              "A jégkaparó és a hókefe legyen mindig kéznél az autóban.",
+              "Az akkumulátor teljesítménye csökkenhet a nagy hidegben.",
+              "Délután 4 órától a teljes világítás használata kötelező a sötétség miatt.",
+              "Hóesés esetén a felsőváros meredek utcáit lezárhatják."
+            ],
+            "ro": [
+              "Asigură-te că nivelul antigelului este suficient pentru iarna scoțiană.",
+              "Racleta și peria de zăpadă trebuie să fie la îndemână în mașină.",
+              "Performanța bateriei auto poate scădea la temperaturi de îngheț.",
+              "De la ora 16:00, farurile aprinse sunt absolut necesare din cauza întunericului.",
+              "Străzile abrupte din orașul de sus pot fi închise în caz de ninsoare."
+            ],
+            "en": [
+              "Ensure your anti-freeze levels are sufficient for Scottish winter conditions.",
+              "Keep an ice scraper and snow brush handy inside the car.",
+              "Car battery performance may drop in extreme sub-zero temperatures.",
+              "Full headlights are essential from 4 PM onwards due to early darkness.",
+              "The steep roads in the Upper Town may be closed during heavy snowfall."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1206,6 +1758,178 @@
           "Allow extra time for bus journeys as there can be traffic.",
           "Most buses are accessible, but check beforehand if you have specific needs."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus erreichen Sie trocken das National Wallace Monument im Morgennebel. Mittags geht es zum Bannockburn Visitor Centre, wo Sie drinnen viel Zeit verbringen können. Nachmittags bringt Sie der Bus zum Stirling Castle, gefolgt von der Church of the Holy Rude. Den Tag schließen Sie im Old Town Jail ab, bevor Sie bequem mit dem Bus zurückfahren.",
+            "hu": "Busszal szárazon érheted el a Wallace emlékművet a reggeli ködben. Délben a Bannockburn látogatóközpont következik, ahol bőven van fedett látnivaló. Délután a busz a stirlingi várhoz visz, majd a közeli templom és a börtön következik. A napot az óvárosi börtönben zárod, mielőtt kényelmesen visszabuszoznál.",
+            "ro": "Cu autobuzul ajungem uscați la Monumentul Wallace în ceața dimineții. La prânz mergem la centrul Bannockburn, unde putem petrece mult timp în interior. După-amiaza autobuzul ne lasă la castel, urmat de vizita la biserică. Încheiem ziua la vechea închisoare înainte de a lua autobuzul înapoi spre centru.",
+            "en": "Reach the National Wallace Monument dry by bus in the morning mist. At noon, head to the Bannockburn Visitor Centre, perfect for spending time indoors. In the afternoon, take the bus to Stirling Castle, followed by the Church of the Holy Rude. End the day at the Old Town Jail before catching a convenient bus back."
+          },
+          "stops": [
+            {
+              "name": "National Wallace Monument",
+              "tip_5lang": {
+                "de": "Warten Sie im Besucherzentrum unten auf den Shuttle-Bus.",
+                "hu": "Várj a lenti látogatóközpontban a transzferbuszra.",
+                "ro": "Așteaptă microbuzul în centrul de vizitare de jos.",
+                "en": "Wait for the shuttle bus inside the visitor centre at the bottom."
+              }
+            },
+            {
+              "name": "Bannockburn Visitor Centre",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle ist nur wenige Gehminuten vom Eingang entfernt.",
+                "hu": "A buszmegálló mindössze pár perc séta a bejárattól.",
+                "ro": "Stația de autobuz este la doar câteva minute de mers pe jos.",
+                "en": "The bus stop is just a few minutes' walk from the entrance."
+              }
+            },
+            {
+              "name": "Stirling Castle",
+              "tip_5lang": {
+                "de": "Der City-Bus bringt Sie fast direkt vor das Schlosstor.",
+                "hu": "A városi busz szinte közvetlenül a várkapuig visz.",
+                "ro": "Autobuzul urban te lasă aproape direct în fața porții castelului.",
+                "en": "The city bus drops you off almost directly at the castle gate."
+              }
+            },
+            {
+              "name": "Church of the Holy Rude",
+              "tip_5lang": {
+                "de": "Vom Schloss sind es nur 2 Minuten Fußweg im Regen.",
+                "hu": "A vártól mindössze 2 perc séta esőben.",
+                "ro": "De la castel sunt doar 2 minute de mers pe jos prin ploaie.",
+                "en": "It's only a 2-minute walk from the castle, even in the rain."
+              }
+            },
+            {
+              "name": "Stirling Old Town Jail",
+              "tip_5lang": {
+                "de": "Nach dem Besuch ist die nächste Bushaltestelle bergab schnell erreicht.",
+                "hu": "A látogatás után a közeli buszmegálló lefelé menet gyorsan elérhető.",
+                "ro": "După vizită, următoarea stație de autobuz este aproape, la vale.",
+                "en": "The next bus stop downhill is easily reached after your visit."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die 'Stirling City Guide' App für Echtzeit-Buszeiten.",
+              "Warten Sie in überdachten Haltestellen, der Wind ist oft stark.",
+              "Kaufen Sie ein Tagesticket (DaySaver), um flexibel zwischen Schauern umzusteigen.",
+              "Busse können bei starkem Regen oder Überflutungen Verspätung haben.",
+              "Die Castle-Bus-Linie ist die bequemste Verbindung für den Hügel."
+            ],
+            "hu": [
+              "Használd a helyi buszos applikációt a valós idejű menetrendhez.",
+              "Várj a fedett buszmegállókban, mert a szél nagyon erős lehet.",
+              "Vegyél napijegyet a rugalmas utazáshoz az esőfelhők között.",
+              "Erős esőzés esetén a buszok menetrendje módosulhat.",
+              "A várba tartó buszjárat a legkényelmesebb megoldás a domb leküzdésére."
+            ],
+            "ro": [
+              "Folosește aplicația locală de transport pentru timpii reali ai autobuzelor.",
+              "Așteaptă în stațiile acoperite, vântul poate fi foarte puternic.",
+              "Cumpără un bilet de o zi pentru a schimba flexibil între averse.",
+              "Autobuzele pot avea întârzieri în caz de ploi torențiale.",
+              "Linia de autobuz spre castel este cea mai comodă cale de a urca dealul."
+            ],
+            "en": [
+              "Use the local transit app for real-time bus arrivals.",
+              "Wait inside covered bus shelters as the wind can be very strong.",
+              "Purchase a DaySaver ticket for flexible travel between rain showers.",
+              "Buses may experience delays during heavy rainfall or local flooding.",
+              "The Castle bus line is the most convenient way to avoid the steep hill climb."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im klaren Morgenlicht bringt Sie der Bus zum Wallace Monument. Mittags besuchen Sie das Bannockburn Centre, ein warmer Rückzugsort in der Winterkälte. Nachmittags erklimmt der Bus den Schlossberg zum Stirling Castle, gefolgt von einem Besuch der Holy Rude Church. Den Tag beenden Sie im Old Town Jail, bevor die winterliche Dunkelheit die Rückfahrt einleitet.",
+            "hu": "Tiszta reggeli fényben buszozol a Wallace emlékműhöz. Délben a Bannockburn központ következik, amely meleg menedék a téli hidegben. Délután a busz felkapaszkodik a várhegyre, majd a templom látogatása következik. A napot az óvárosi börtönben zárod, mielőtt a téli sötétségben visszaindulnál a szállásodra.",
+            "ro": "În lumina clară a dimineții mergem cu autobuzul la Monumentul Wallace. La prânz vizităm centrul Bannockburn, un refugiu călduros în gerul iernii. După-amiaza autobuzul urcă dealul spre castel, urmat de vizita la biserica Holy Rude. Încheiem ziua la închisoare înainte ca întunericul iernii să se lase peste oraș.",
+            "en": "Take the bus to the Wallace Monument in the clear morning light. At noon, visit the Bannockburn Centre, a warm retreat from the winter cold. In the afternoon, the bus climbs the hill to Stirling Castle, followed by a visit to the Holy Rude Church. End the day at the Old Town Jail before the winter darkness sets in for your return trip."
+          },
+          "stops": [
+            {
+              "name": "National Wallace Monument",
+              "tip_5lang": {
+                "de": "Achtung, der Shuttle-Bus fährt im Winter seltener, Fahrplan prüfen.",
+                "hu": "Figyelem, a transzferbusz télen ritkábban jár, ellenőrizd a menetrendet.",
+                "ro": "Atenție, microbuzul circulă mai rar iarna, verifică programul.",
+                "en": "Note that the shuttle bus runs less frequently in winter; check times."
+              }
+            },
+            {
+              "name": "Bannockburn Visitor Centre",
+              "tip_5lang": {
+                "de": "Idealer Ort, um sich zwischen den Busfahrten aufzuwärmen.",
+                "hu": "Ideális hely a felmelegedéshez két buszjárat között.",
+                "ro": "Loc ideal pentru a te încălzi între călătoriile cu autobuzul.",
+                "en": "Ideal place to warm up between bus journeys."
+              }
+            },
+            {
+              "name": "Stirling Castle",
+              "tip_5lang": {
+                "de": "Der Bus hält direkt am Schloss, spart den rutschigen Aufstieg.",
+                "hu": "A busz közvetlenül a várnál áll meg, megkímél a csúszós emelkedőtől.",
+                "ro": "Autobuzul oprește chiar la castel, evitând urcarea alunecoasă.",
+                "en": "The bus stops right at the castle, saving you the slippery climb."
+              }
+            },
+            {
+              "name": "Church of the Holy Rude",
+              "tip_5lang": {
+                "de": "Nur ein kurzer Weg durch die kalte Winterluft vom Schloss.",
+                "hu": "Csak egy rövid séta a hideg téli levegőn a vártól.",
+                "ro": "Doar o scurtă plimbare prin aerul rece de iarnă de la castel.",
+                "en": "Only a short walk through the cold winter air from the castle."
+              }
+            },
+            {
+              "name": "Stirling Old Town Jail",
+              "tip_5lang": {
+                "de": "Planen Sie den Rückweg zum Bus vor Einbruch der Dunkelheit.",
+                "hu": "Tervezd a visszautat a buszhoz még sötétedés előtt.",
+                "ro": "Planifică drumul înapoi spre autobuz înainte de lăsarea serii.",
+                "en": "Plan your walk back to the bus stop before it gets dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrpläne können bei Schneefall kurzfristig geändert werden.",
+              "In den Bussen ist es meist angenehm warm – ideal zum Ausruhen.",
+              "Abends fahren weniger Busse in die Außenbezirke, planen Sie voraus.",
+              "Nutzen Sie kontaktloses Bezahlen, um das Hantieren mit Münzen zu vermeiden.",
+              "Die Haltestellen in der Altstadt können bei Glatteis rutschig sein."
+            ],
+            "hu": [
+              "Hóesés esetén a menetrendek váratlanul módosulhatnak.",
+              "A buszokon általában kellemes meleg van – ideális a pihenéshez.",
+              "Este ritkábban járnak a buszok a külső kerületekbe, tervezz előre.",
+              "Használj érintésmentes fizetést, hogy ne kelljen apróval bajlódni a hidegben.",
+              "Az óvárosi megállók környéke fagyos időben csúszós lehet."
+            ],
+            "ro": [
+              "Orarele se pot schimba brusc în caz de ninsoare.",
+              "În autobuze este de obicei cald și plăcut – ideal pentru odihnă.",
+              "Seara circulă mai puține autobuze spre periferie, planifică din timp.",
+              "Folosește plata contactless pentru a evita manipularea monedelor în frig.",
+              "Zonele stațiilor din orașul vechi pot fi alunecoase când este îngheț."
+            ],
+            "en": [
+              "Bus schedules may change at short notice during heavy snowfall.",
+              "Buses are usually comfortably warm – ideal for resting between stops.",
+              "Buses to outlying areas run less frequently in the evening; plan ahead.",
+              "Use contactless payment to avoid fumbling with coins in the cold.",
+              "Bus stop areas in the Old Town can be slippery during frosty weather."
+            ]
+          }
+        }
       }
     }
   }

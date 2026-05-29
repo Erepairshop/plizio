@@ -362,6 +362,196 @@
           "Bring water and snacks for the long walk through the park.",
           "Check opening times for the castle and gunpowder mills in advance."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt mit dem typischen irischen Sprühregen an den Burgruinen. Mittags bietet die Kirche St. Mary & St. John einen trockenen Zufluchtsort. Nachmittags wirken die alten Pulvermühlen im dichten Regen besonders mystisch. Den Abend lassen Sie gemütlich im Oriel House ausklingen, während draußen der Regen gegen die Scheiben peitscht.",
+            "hu": "A reggel tipikus ír permetező esővel indul a várromoknál. Délben a Szent Mária és Szent János templom nyújt száraz menedéket. Délután az egykori lőpormalmok az esőben még titokzatosabb arcukat mutatják. Az estét az Oriel House kényelmében zárhatja, miközben odakint az eső kopog az ablakon.",
+            "ro": "Ziua începe cu burnița tipic irlandeză la ruinele castelului. La prânz, biserica Sf. Maria și Sf. Ioan oferă un refugiu uscat. După-amiaza, vechile mori de pulbere par deosebit de mistice în ploaia deasă. Seara se încheie confortabil la Oriel House, în timp ce afară ploaia bate în geamuri.",
+            "en": "The day begins with typical Irish drizzle at the castle ruins. At noon, St. Mary & St. John's Church provides a dry sanctuary. In the afternoon, the old gunpowder mills look particularly mystical in the heavy rain. The evening ends comfortably at Oriel House while the rain beats against the windows outside."
+          },
+          "stops": [
+            {
+              "name": "Ballincollig Castle",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem rutschigen Gras bei den Ruinen.",
+                "hu": "Vigyázat, a fű a romoknál csúszós lehet.",
+                "ro": "Atenție la iarba alunecoasă de lângă ruine.",
+                "en": "Watch out for slippery grass near the ruins."
+              }
+            },
+            {
+              "name": "St. Mary & St. John's Church",
+              "tip_5lang": {
+                "de": "Ideal, um den Regenschirm kurz zu schütteln.",
+                "hu": "Ideális hely az esernyő lerázására.",
+                "ro": "Loc ideal pentru a scutura umbrela.",
+                "en": "Ideal place to shake off your umbrella."
+              }
+            },
+            {
+              "name": "Oriel House",
+              "tip_5lang": {
+                "de": "Genießen Sie einen heißen Tee im Trockenen.",
+                "hu": "Élvezzen egy forró teát a szárazban.",
+                "ro": "Savurați un ceai cald la adăpost.",
+                "en": "Enjoy a hot tea in the dry interior."
+              }
+            },
+            {
+              "name": "Ballincollig Gunpowder Mills",
+              "tip_5lang": {
+                "de": "Die Bäume bieten nur begrenzten Schutz.",
+                "hu": "A fák csak korlátozott védelmet nyújtanak.",
+                "ro": "Copacii oferă o protecție limitată.",
+                "en": "Trees provide only limited shelter here."
+              }
+            },
+            {
+              "name": "Ballincollig Regional Park",
+              "tip_5lang": {
+                "de": "Feste, wasserdichte Schuhe sind hier Pflicht.",
+                "hu": "Vízálló túrabakancs erősen ajánlott.",
+                "ro": "Ghetele impermeabile sunt obligatorii aici.",
+                "en": "Waterproof hiking boots are a must here."
+              }
+            },
+            {
+              "name": "Bridge over the River Lee",
+              "tip_5lang": {
+                "de": "Der Fluss schwillt bei Regen imposant an.",
+                "hu": "A folyó esőben látványosan megduzzad.",
+                "ro": "Râul se umflă spectaculos pe ploaie.",
+                "en": "The river swells impressively in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine hochwertige Regenjacke statt eines Schirms wegen des Windes.",
+              "Nutzen Sie die Kirche als strategischen Pausenpunkt im Trockenen.",
+              "Wasserdichte Socken verhindern nasse Füße im Regionalpark.",
+              "Die Wege im Park können bei starkem Regen matschig werden.",
+              "Planen Sie mehr Zeit für die Indoor-Besichtigung im Oriel House ein."
+            ],
+            "hu": [
+              "A szél miatt érdemes minőségi esőkabátot viselni esernyő helyett.",
+              "Használja a templomot stratégiai pihenőhelyként a szárazban.",
+              "A vízálló zokni megelőzi a lábak átázását a parkban.",
+              "Az utak a Regional Parkban nagy esőzés után sárosak lehetnek.",
+              "Szánjon több időt az Oriel House belső tereinek felfedezésére."
+            ],
+            "ro": [
+              "Purtați o jachetă de ploaie de calitate în loc de umbrelă din cauza vântului.",
+              "Folosiți biserica ca punct strategic de odihnă la uscat.",
+              "Șosetele impermeabile previn udarea picioarelor în parc.",
+              "Potecile din parc pot deveni noroioase după ploi abundente.",
+              "Alocați mai mult timp vizitării interiorului de la Oriel House."
+            ],
+            "en": [
+              "Wear a quality raincoat instead of an umbrella due to the wind.",
+              "Use the church as a strategic dry resting point.",
+              "Waterproof socks will prevent wet feet in the Regional Park.",
+              "Paths in the Regional Park can become muddy after heavy rain.",
+              "Allocate more time for indoor exploration at Oriel House."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Burgruine liegt im frostigen Morgenlicht. Nach dem Kirchenbesuch wärmen Sie sich mittags im historischen Oriel House auf. Der Nachmittag führt durch den kahlen, aber weiten Regionalpark, wo die Wintersonne tief steht. Bevor die frühe Dunkelheit einsetzt, genießen Sie den Blick von der Brücke über den Lee.",
+            "hu": "A várromok a fagyos reggeli fényben fürdenek. A templomlátogatás után délben a történelmi Oriel House-ban melegedhet fel. A délután a kopár, de tágas Regional Parkon át vezet, ahol alacsonyan jár a téli nap. Mielőtt beállna a korai sötétség, csodálja meg a kilátást a Lee-folyó hídjáról.",
+            "ro": "Ruinele castelului zac în lumina înghețată a dimineții. După vizita la biserică, vă încălziți la prânz în istoricul Oriel House. După-amiaza trece prin parcul regional golaș, dar vast, unde soarele de iarnă stă jos. Înainte de lăsarea întunericului, admirați vederea de pe podul peste râul Lee.",
+            "en": "The castle ruins lie in the frosty morning light. After the church visit, warm up at noon in the historic Oriel House. The afternoon leads through the bare but vast Regional Park, where the winter sun sits low. Before the early darkness sets in, enjoy the view from the bridge over the River Lee."
+          },
+          "stops": [
+            {
+              "name": "Ballincollig Castle",
+              "tip_5lang": {
+                "de": "Achtung bei überfrierender Nässe auf Steinen.",
+                "hu": "Vigyázat, a kövek jegesek lehetnek.",
+                "ro": "Atenție la gheața formată pe pietre.",
+                "en": "Watch out for black ice on the stones."
+              }
+            },
+            {
+              "name": "St. Mary & St. John's Church",
+              "tip_5lang": {
+                "de": "Ein ruhiger, windgeschützter Ort.",
+                "hu": "Csendes, szélvédett helyszín.",
+                "ro": "Un loc liniștit, ferit de vânt.",
+                "en": "A quiet place sheltered from the wind."
+              }
+            },
+            {
+              "name": "Oriel House",
+              "tip_5lang": {
+                "de": "Perfekt für ein warmes Mittagessen.",
+                "hu": "Tökéletes helyszín egy meleg ebédhez.",
+                "ro": "Perfect pentru un prânz cald.",
+                "en": "Perfect for a warm lunch break."
+              }
+            },
+            {
+              "name": "Ballincollig Gunpowder Mills",
+              "tip_5lang": {
+                "de": "Karger Anblick, aber geschichtsträchtig.",
+                "hu": "Sivár látvány, de történelmi hangulat.",
+                "ro": "Aspect auster, dar plin de istorie.",
+                "en": "Stark appearance, but rich in history."
+              }
+            },
+            {
+              "name": "Ballincollig Regional Park",
+              "tip_5lang": {
+                "de": "Der Wind vom Fluss kann sehr beißen.",
+                "hu": "A folyó felőli szél metsző lehet.",
+                "ro": "Vântul de la râu poate fi tăios.",
+                "en": "The wind from the river can be biting."
+              }
+            },
+            {
+              "name": "Bridge over the River Lee",
+              "tip_5lang": {
+                "de": "Idealer Ort für Fotos zum Sonnenuntergang.",
+                "hu": "Ideális hely naplementés fotókhoz.",
+                "ro": "Loc ideal pentru poze la apus.",
+                "en": "Ideal spot for sunset photos."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Winter bereits gegen 16:30 Uhr unter.",
+              "Tragen Sie Thermounterwäsche für den langen Parkspaziergang.",
+              "Die Steine der Ruinen speichern die Kälte extrem.",
+              "Warme Getränke in der Thermoskanne sind sehr zu empfehlen.",
+              "Nutzen Sie die Mittagszeit für ausgiebiges Aufwärmen im Innenbereich."
+            ],
+            "hu": [
+              "A nap télen már 16:30 körül lenyugszik.",
+              "Viseljen termő aláöltözetet a hosszú parki sétához.",
+              "A romok kövei rendkívüli módon tartják a hideget.",
+              "Erősen ajánlott meleg ital a termoszból.",
+              "Használja ki az ebédidőt az alapos átmelegedésre."
+            ],
+            "ro": [
+              "Soarele apune iarna în jurul orei 16:30.",
+              "Purtați lenjerie termică pentru plimbarea lungă din parc.",
+              "Pietrele ruinelor rețin frigul la extrem.",
+              "Băuturile calde în termos sunt foarte recomandate.",
+              "Folosiți ora prânzului pentru o încălzire temeinică în interior."
+            ],
+            "en": [
+              "The sun sets around 16:30 in winter.",
+              "Wear thermal layers for the long walk in the park.",
+              "The stones of the ruins retain extreme cold.",
+              "Warm drinks in a thermos are highly recommended.",
+              "Use lunchtime for a thorough warm-up indoors."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -718,6 +908,196 @@
           "Bring a good lock to secure your bike at stops.",
           "Plan your route in advance, but be flexible."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens radeln Sie durch den dichten Sprühregen zu den alten Pulvermühlen. Der Regionalpark bietet weite, wenn auch nasse Wege entlang des Flusses. Mittags erreichen Sie die Burgruine, bevor Sie sich in der Kirche kurz unterstellen. Zum Abschluss gönnen Sie sich eine trockene Pause im Oriel House.",
+            "hu": "Reggel a sűrű permetező esőben tekerhet az egykori lőpormalmokhoz. A Regional Park tágas, bár vizes utakat kínál a folyó mentén. Délben éri el a várromokat, majd a templomban húzódhat meg kicsit. Végül egy száraz pihenőt tarthat az Oriel House falai között.",
+            "ro": "Dimineața pedalați prin burnița deasă spre vechile mori de pulbere. Parcul regional oferă drumuri largi, deși ude, de-a lungul râului. La prânz ajungeți la ruinele castelului, înainte de a vă adăposti scurt în biserică. La final, vă bucurați de o pauză uscată la Oriel House.",
+            "en": "In the morning, cycle through the heavy drizzle to the old gunpowder mills. The Regional Park offers wide, albeit wet, paths along the river. At noon, you reach the castle ruins before taking brief shelter in the church. Finally, treat yourself to a dry break at Oriel House."
+          },
+          "stops": [
+            {
+              "name": "Ballincollig Gunpowder Mills",
+              "tip_5lang": {
+                "de": "Vorsicht vor nassem Laub auf den Wegen.",
+                "hu": "Vigyázat a vizes levelekkel az utakon.",
+                "ro": "Atenție la frunzele ude de pe drum.",
+                "en": "Watch out for wet leaves on the paths."
+              }
+            },
+            {
+              "name": "Ballincollig Regional Park",
+              "tip_5lang": {
+                "de": "Breite Wege minimieren Spritzwasser.",
+                "hu": "A széles utak csökkentik a felverődő vizet.",
+                "ro": "Drumurile late minimizează stropirea.",
+                "en": "Wide paths minimize splashing water."
+              }
+            },
+            {
+              "name": "Bridge over the River Lee",
+              "tip_5lang": {
+                "de": "Die Fahrbahn kann hier rutschig sein.",
+                "hu": "Az útfelület itt csúszós lehet.",
+                "ro": "Suprafața de rulare poate fi alunecoasă.",
+                "en": "The road surface can be slippery here."
+              }
+            },
+            {
+              "name": "Ballincollig Castle",
+              "tip_5lang": {
+                "de": "Das Fahrrad sicher am Zaun abstellen.",
+                "hu": "A kerékpárt biztonságosan rögzítse a kerítéshez.",
+                "ro": "Fixați bicicleta în siguranță de gard.",
+                "en": "Secure your bike firmly to the fence."
+              }
+            },
+            {
+              "name": "St. Mary & St. John's Church",
+              "tip_5lang": {
+                "de": "Ein guter Stopp, um die Brille zu putzen.",
+                "hu": "Jó megálló a szemüveg megtisztításához.",
+                "ro": "Un popas bun pentru a șterge ochelarii.",
+                "en": "A good stop to clean your glasses."
+              }
+            },
+            {
+              "name": "Oriel House",
+              "tip_5lang": {
+                "de": "Sicheres Parken für Ihr Rad vorhanden.",
+                "hu": "Biztonságos kerékpárparkoló elérhető.",
+                "ro": "Parcare sigură pentru bicicletă disponibilă.",
+                "en": "Safe bike parking available here."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche am Fahrrad sind bei diesem Wetter unverzichtbar.",
+              "Tragen Sie wasserdichte Überschuhe gegen nasse Füße.",
+              "Vermeiden Sie scharfe Bremsmanöver auf nassem Laub.",
+              "Nutzen Sie die asphaltierten Wege im Park bevorzugt.",
+              "Wischen Sie den Sattel nach jedem Stopp trocken."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen ilyen időben.",
+              "Viseljen vízálló kamáslit a nedvesség ellen.",
+              "Kerülje az erős fékezést a vizes leveleken.",
+              "Részesítse előnyben az aszfaltozott utakat a parkban.",
+              "Minden megállás után törölje szárazra a nyerget."
+            ],
+            "ro": [
+              "Aripile la bicicletă sunt indispensabile pe acest timp.",
+              "Purtați huse impermeabile pentru încălțăminte.",
+              "Evitați frânările bruște pe frunzele ude.",
+              "Preferați drumurile asfaltate din parc.",
+              "Ștergeți șaua după fiecare oprire."
+            ],
+            "en": [
+              "Fenders on your bike are indispensable in this weather.",
+              "Wear waterproof shoe covers against the wet.",
+              "Avoid sudden braking on wet leaves.",
+              "Prefer the paved paths in the park.",
+              "Wipe your saddle dry after every stop."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Tour startet frühmorgens bei klirrender Kälte an den Pulvermühlen. Die Fahrt durch den Regionalpark ist erfrischend, erfordert aber warme Kleidung gegen den Fahrtwind. Mittags erkunden Sie die Burgruine und die Kirche. Den späten Nachmittag verbringen Sie im gemütlichen Oriel House, bevor es bei Dämmerung zurückgeht.",
+            "hu": "A túra kora reggel indul metsző hidegben a lőpormalmoknál. A Regional Parkon át vezető út frissítő, de meleg ruházatot igényel a menetszél miatt. Délben felfedezheti a várromokat és a templomot. A késő délutánt a hangulatos Oriel House-ban töltheti, mielőtt szürkületkor elindulna vissza.",
+            "ro": "Turul începe dimineața devreme pe un frig pătrunzător la morile de pulbere. Drumul prin parcul regional este revigorant, dar necesită haine groase împotriva vântului. La prânz explorați ruinele castelului și biserica. Petreceți după-amiaza târzie la primitorul Oriel House, înainte de întoarcerea pe amurg.",
+            "en": "The tour starts early in the morning in biting cold at the gunpowder mills. The ride through the Regional Park is refreshing but requires warm clothing against the wind chill. At noon, explore the castle ruins and the church. Spend the late afternoon at the cozy Oriel House before heading back at dusk."
+          },
+          "stops": [
+            {
+              "name": "Ballincollig Gunpowder Mills",
+              "tip_5lang": {
+                "de": "Vorsicht vor überfrierender Nässe in Schatten.",
+                "hu": "Vigyázat a faggyal az árnyékos részeken.",
+                "ro": "Atenție la gheață în zonele umbrite.",
+                "en": "Watch out for ice in shaded areas."
+              }
+            },
+            {
+              "name": "Ballincollig Regional Park",
+              "tip_5lang": {
+                "de": "Der Wind pfeift hier ordentlich.",
+                "hu": "Itt alaposan fütyülhet a szél.",
+                "ro": "Vântul șuieră puternic aici.",
+                "en": "The wind whistles quite strongly here."
+              }
+            },
+            {
+              "name": "Bridge over the River Lee",
+              "tip_5lang": {
+                "de": "Stahlträger können extrem glatt sein.",
+                "hu": "Az acélgerendák rendkívül csúszósak lehetnek.",
+                "ro": "Grinzile de oțel pot fi extrem de alunecoase.",
+                "en": "Steel beams can be extremely slippery."
+              }
+            },
+            {
+              "name": "Ballincollig Castle",
+              "tip_5lang": {
+                "de": "Kurzer Stopp, um in Bewegung zu bleiben.",
+                "hu": "Rövid megálló, hogy mozgásban maradjon.",
+                "ro": "Oprire scurtă pentru a rămâne în mișcare.",
+                "en": "Short stop to keep moving and stay warm."
+              }
+            },
+            {
+              "name": "St. Mary & St. John's Church",
+              "tip_5lang": {
+                "de": "Ruhepause im windgeschützten Vorraum.",
+                "hu": "Pihenő a szélvédett előtérben.",
+                "ro": "Pauză în vestibulul ferit de vânt.",
+                "en": "Rest in the wind-sheltered vestibule."
+              }
+            },
+            {
+              "name": "Oriel House",
+              "tip_5lang": {
+                "de": "Laden Sie hier Ihren eigenen Akku auf.",
+                "hu": "Töltődjön fel itt a hideg után.",
+                "ro": "Reîncărcați-vă bateriile aici după frig.",
+                "en": "Recharge your own batteries here after the cold."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Handschuhe und eine Mütze unter dem Helm.",
+              "Vermeiden Sie Pfützen, die nachts gefrieren könnten.",
+              "Die Lichtverhältnisse ändern sich ab 16:00 Uhr drastisch.",
+              "Stellen Sie sicher, dass Ihre Fahrradbeleuchtung funktioniert.",
+              "Trinken Sie auch bei Kälte genug, am besten Tee."
+            ],
+            "hu": [
+              "Viseljen szélálló kesztyűt és sapkát a sisak alatt.",
+              "Kerülje a tócsákat, amelyek éjszaka megfagyhatnak.",
+              "A fényviszonyok 16:00 után drasztikusan változnak.",
+              "Győződjön meg róla, hogy a kerékpár világítása működik.",
+              "Hidegben is igyon eleget, lehetőleg teát."
+            ],
+            "ro": [
+              "Purtați mănuși rezistente la vânt și căciulă sub cască.",
+              "Evitați bălțile care ar putea îngheța noaptea.",
+              "Condițiile de lumină se schimbă drastic după ora 16:00.",
+              "Asigurați-vă că luminile bicicletei funcționează.",
+              "Beți suficiente lichide și pe frig, de preferință ceai."
+            ],
+            "en": [
+              "Wear windproof gloves and a hat under your helmet.",
+              "Avoid puddles that could freeze overnight.",
+              "Light conditions change drastically after 16:00.",
+              "Make sure your bike lights are functioning properly.",
+              "Drink enough even in the cold, preferably tea."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1074,6 +1454,196 @@
           "Don't leave valuables visible in your car.",
           "Combine your visit with a short drive into the surrounding Cork countryside if you have time."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Vom warmen Auto aus beobachten Sie den Regen an den Pulvermühlen. Der Regionalpark lässt sich bei Schauern gut für kurze Spaziergänge nutzen. Mittags steuern Sie die Burg und die Kirche an, wobei Sie direkt davor parken können. Den Nachmittag verbringen Sie entspannt im Oriel House, während der Wagen sicher auf dem Parkplatz steht.",
+            "hu": "A meleg autóból figyelheti az esőt a lőpormalmoknál. A Regional Parkot rövid sétákra használhatja a záporok között. Délben a várat és a templomot keresi fel, ahol közvetlenül előttük parkolhat. A délutánt kényelmesen az Oriel House-ban töltheti, miközben az autó biztonságban áll a parkolóban.",
+            "ro": "Din mașina caldă observați ploaia la morile de pulbere. Parcul regional poate fi folosit pentru plimbări scurte între averse. La prânz mergeți la castel și la biserică, unde puteți parca direct în față. Petreceți după-amiaza relaxat la Oriel House, în timp ce mașina stă în siguranță în parcare.",
+            "en": "From the warm car, watch the rain at the gunpowder mills. The Regional Park is good for short walks between showers. At noon, head to the castle and the church, where you can park directly in front. Spend a relaxing afternoon at Oriel House while the car is safely in the parking lot."
+          },
+          "stops": [
+            {
+              "name": "Ballincollig Gunpowder Mills",
+              "tip_5lang": {
+                "de": "Parkplatz ist oft nass und matschig.",
+                "hu": "A parkoló gyakran vizes és sáros.",
+                "ro": "Parcarea este adesea udă și noroioasă.",
+                "en": "Parking lot is often wet and muddy."
+              }
+            },
+            {
+              "name": "Ballincollig Regional Park",
+              "tip_5lang": {
+                "de": "Kurze Wege vom Parkplatz zum Fluss.",
+                "hu": "Rövid út a parkolótól a folyóig.",
+                "ro": "Drum scurt de la parcare la râu.",
+                "en": "Short walk from the parking lot to the river."
+              }
+            },
+            {
+              "name": "Bridge over the River Lee",
+              "tip_5lang": {
+                "de": "Gute Sicht direkt aus dem Seitenfenster.",
+                "hu": "Jó kilátás közvetlenül az oldalablakból.",
+                "ro": "Vedere bună direct de pe geamul lateral.",
+                "en": "Good view directly from the side window."
+              }
+            },
+            {
+              "name": "Ballincollig Castle",
+              "tip_5lang": {
+                "de": "Begrenzte Parkmöglichkeiten direkt am Weg.",
+                "hu": "Korlátozott parkolás közvetlenül az útnál.",
+                "ro": "Parcare limitată chiar lângă drum.",
+                "en": "Limited parking right by the path."
+              }
+            },
+            {
+              "name": "St. Mary & St. John's Church",
+              "tip_5lang": {
+                "de": "Großer, befestigter Parkplatz vorhanden.",
+                "hu": "Nagy, szilárd burkolatú parkoló elérhető.",
+                "ro": "Parcare mare, pavată, disponibilă.",
+                "en": "Large, paved parking lot available."
+              }
+            },
+            {
+              "name": "Oriel House",
+              "tip_5lang": {
+                "de": "Hauseigener Parkplatz für Gäste.",
+                "hu": "Saját parkoló a vendégek részére.",
+                "ro": "Parcare privată pentru oaspeți.",
+                "en": "Private parking lot for guests."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Halten Sie einen Regenschirm für den Weg zum Eingang bereit.",
+              "Vermeiden Sie tiefere Pfützen auf den unbefestigten Parkplätzen.",
+              "Die Scheiben können bei Nässe innen schnell beschlagen.",
+              "Nutzen Sie die Parkmöglichkeiten so nah wie möglich am Ziel.",
+              "Prüfen Sie Ihre Scheibenwischer vor Fahrtantritt."
+            ],
+            "hu": [
+              "Legyen kéznél esernyő a bejáratig tartó útra.",
+              "Kerülje a mélyebb tócsákat a burkolatlan parkolókban.",
+              "Az ablakok belülről gyorsan bepárásodhatnak a nedvességtől.",
+              "Használja a célponthoz lehető legközelebbi parkolóhelyeket.",
+              "Indulás előtt ellenőrizze az ablaktörlőket."
+            ],
+            "ro": [
+              "Aveți o umbrelă pregătită pentru drumul spre intrare.",
+              "Evitați bălțile adânci în parcările neasfaltate.",
+              "Geamurile se pot aburi rapid la interior din cauza umidității.",
+              "Folosiți locurile de parcare cât mai aproape de destinație.",
+              "Verificați ștergătoarele înainte de a porni la drum."
+            ],
+            "en": [
+              "Have an umbrella ready for the walk to the entrance.",
+              "Avoid deeper puddles in unpaved parking lots.",
+              "Windows can fog up quickly inside due to the moisture.",
+              "Use parking spots as close to your destination as possible.",
+              "Check your windshield wipers before starting."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Tag startet mit eisfreien Scheiben an den Pulvermühlen. Dank des Autos erreichen Sie alle Punkte im Ballincollig Regional Park komfortabel. Mittags bietet die Kirche Besinnlichkeit, bevor das Oriel House mit Wärme lockt. Die Fahrt endet bei Einbruch der Dunkelheit mit einem Blick auf die Brücke, während die Heizung läuft.",
+            "hu": "A nap jégmentesített szélvédőkkel indul a lőpormalmoknál. Az autónak köszönhetően kényelmesen elérheti a Regional Park minden pontját. Délben a templom nyújt elcsendesedést, majd az Oriel House csalogat melegével. Az út a sötétség beálltakor a híd látványával zárul, miközben a fűtés duruzsol.",
+            "ro": "Ziua începe cu geamurile dezghețate la morile de pulbere. Datorită mașinii, ajungeți confortabil la toate punctele din parcul regional. La prânz, biserica oferă reculegere, apoi Oriel House vă atrage cu căldura sa. Drumul se termină la lăsarea serii cu vederea podului, în timp ce încălzirea merge.",
+            "en": "The day starts with defrosted windows at the gunpowder mills. Thanks to the car, you can reach all points in the Regional Park comfortably. At noon, the church offers reflection before Oriel House beckons with its warmth. The drive ends at dusk with a view of the bridge while the heater hums."
+          },
+          "stops": [
+            {
+              "name": "Ballincollig Gunpowder Mills",
+              "tip_5lang": {
+                "de": "Vorsicht vor Straßenglätte am Morgen.",
+                "hu": "Vigyázat a reggeli jeges utakkal.",
+                "ro": "Atenție la polei pe drum dimineața.",
+                "en": "Watch out for icy roads in the morning."
+              }
+            },
+            {
+              "name": "Ballincollig Regional Park",
+              "tip_5lang": {
+                "de": "Heizung während kurzer Fotostopps laufen lassen.",
+                "hu": "Hagyja menni a fűtést a rövid fotómegállók alatt.",
+                "ro": "Lăsați căldura pornită în timpul opririlor foto.",
+                "en": "Keep the heater running during short photo stops."
+              }
+            },
+            {
+              "name": "Bridge over the River Lee",
+              "tip_5lang": {
+                "de": "Kurz anhalten für ein Panoramafoto.",
+                "hu": "Álljon meg rövid időre egy panorámafotóért.",
+                "ro": "Opriți scurt pentru o poză panoramică.",
+                "en": "Stop briefly for a panoramic photo."
+              }
+            },
+            {
+              "name": "Ballincollig Castle",
+              "tip_5lang": {
+                "de": "Motor nicht unnötig im Stand laufen lassen.",
+                "hu": "Ne járassa feleslegesen a motort álló helyzetben.",
+                "ro": "Nu lăsați motorul pornit inutil pe loc.",
+                "en": "Don't idle the engine unnecessarily."
+              }
+            },
+            {
+              "name": "St. Mary & St. John's Church",
+              "tip_5lang": {
+                "de": "Der Parkplatz kann bei Frost rutschig sein.",
+                "hu": "A parkoló fagy esetén csúszós lehet.",
+                "ro": "Parcarea poate fi alunecoasă pe timp de îngheț.",
+                "en": "The parking lot can be slippery in freezing conditions."
+              }
+            },
+            {
+              "name": "Oriel House",
+              "tip_5lang": {
+                "de": "Warmer Stopp, um die Kälte zu vergessen.",
+                "hu": "Meleg megálló a hideg elfeledésére.",
+                "ro": "Popas cald pentru a uita de frig.",
+                "en": "A warm stop to forget the cold outside."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Führen Sie einen Eiskratzer und Frostschutzmittel mit.",
+              "Die Straßen im Parkbereich werden seltener gestreut.",
+              "Planen Sie Zeit für das Enteisen des Fahrzeugs ein.",
+              "Achten Sie auf Wildwechsel in der frühen Dämmerung.",
+              "Halten Sie die Batterie wegen der Kälte im Blick."
+            ],
+            "hu": [
+              "Tartson az autóban jégkaparót és fagyállót.",
+              "A park környéki utakat ritkábban sózzák.",
+              "Számoljon időt a jármű jégtelenítésére.",
+              "Figyeljen a vadakra a korai szürkületben.",
+              "A hideg miatt tartsa szem előtt az akkumulátor állapotát."
+            ],
+            "ro": [
+              "Aveți în mașină o răzuitoare de gheață și antigel.",
+              "Drumurile din zona parcului sunt curățate mai rar.",
+              "Alocați timp pentru dezghețarea vehiculului.",
+              "Atenție la animalele sălbatice pe înserat.",
+              "Monitorizați starea bateriei din cauza frigului."
+            ],
+            "en": [
+              "Keep an ice scraper and antifreeze in the car.",
+              "Roads in the park area are salted less frequently.",
+              "Allow time for defrosting the vehicle.",
+              "Watch out for wildlife in the early twilight.",
+              "Keep an eye on the battery due to the cold."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1406,6 +1976,178 @@
           "Download the TFI Live app for real-time bus tracking.",
           "Most buses run along the Main Street, making it easy to access most amenities."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus erreichen Sie morgens bequem das Oriel House und die nahegelegene Kirche. Bei Regen ist die Fahrt zu den Pulvermühlen und dem Regionalpark ideal, um trocken zu bleiben. Den Nachmittag verbringen Sie geschützt in den Ruinen und Museen, bevor der Bus Sie abends wieder sicher zurückbringt.",
+            "hu": "Busszal reggel kényelmesen elérheti az Oriel House-t és a közeli templomot. Esőben a lőpormalmokhoz és a parkhoz vezető út ideális a szárazon maradáshoz. A délutánt a romok és múzeumok oltalmában töltheti, mielőtt a busz este biztonságban visszavinné.",
+            "ro": "Cu autobuzul ajungeți confortabil dimineața la Oriel House și la biserica din apropiere. Pe ploaie, drumul spre morile de pulbere și parc este ideal pentru a rămâne uscat. Petreceți după-amiaza protejat în ruine și muzee, înainte ca autobuzul să vă aducă înapoi seara.",
+            "en": "By bus, you can comfortably reach Oriel House and the nearby church in the morning. In the rain, the journey to the gunpowder mills and the park is ideal for staying dry. Spend the afternoon sheltered in ruins and museums before the bus takes you back safely in the evening."
+          },
+          "stops": [
+            {
+              "name": "Oriel House",
+              "tip_5lang": {
+                "de": "Bushaltestelle direkt in der Nähe.",
+                "hu": "Buszmegálló közvetlenül a közelben.",
+                "ro": "Stație de autobuz chiar în apropiere.",
+                "en": "Bus stop located directly nearby."
+              }
+            },
+            {
+              "name": "St. Mary & St. John's Church",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg von der Hauptstraße.",
+                "hu": "Rövid séta a főúttól.",
+                "ro": "Scurtă plimbare de la drumul principal.",
+                "en": "Short walk from the main road."
+              }
+            },
+            {
+              "name": "Ballincollig Castle",
+              "tip_5lang": {
+                "de": "Vom Bus aus sind es ca. 10 Min. Fußweg.",
+                "hu": "A busztól kb. 10 perc gyalogút.",
+                "ro": "De la autobuz sunt cca. 10 min. de mers.",
+                "en": "It's about a 10-minute walk from the bus."
+              }
+            },
+            {
+              "name": "Ballincollig Gunpowder Mills",
+              "tip_5lang": {
+                "de": "Überdachte Bushaltestellen nutzen.",
+                "hu": "Használja a fedett buszmegállókat.",
+                "ro": "Folosiți stațiile de autobuz acoperite.",
+                "en": "Use the sheltered bus stops."
+              }
+            },
+            {
+              "name": "Ballincollig Regional Park",
+              "tip_5lang": {
+                "de": "Busse verkehren regelmäßig bis zum Park.",
+                "hu": "A buszok rendszeresen járnak a parkig.",
+                "ro": "Autobuzele circulă regulat până la parc.",
+                "en": "Buses run regularly to the park."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Echtzeit-App für Busankünfte bei Regen.",
+              "Halten Sie Ihre Leap Card griffbereit für schnelles Einsteigen.",
+              "Die Busse bieten eine gute Aufwärmmöglichkeit zwischen Stopps.",
+              "Achten Sie auf Pfützen beim Ein- und Aussteigen.",
+              "Ein kleiner Taschenschirm ist ideal für die Wege dazwischen."
+            ],
+            "hu": [
+              "Használja a valós idejű alkalmazást a buszok érkezéséhez esőben.",
+              "Tartsa készenlétben a Leap Cardot a gyors felszálláshoz.",
+              "A buszok jó lehetőséget nyújtanak a felmelegedésre két megálló között.",
+              "Ügyeljen a tócsákra fel- és leszálláskor.",
+              "Egy kis összecsukható esernyő ideális a köztes utakhoz."
+            ],
+            "ro": [
+              "Folosiți aplicația în timp real pentru sosirea autobuzelor pe ploaie.",
+              "Aveți cardul Leap la îndemână pentru îmbarcare rapidă.",
+              "Autobuzele oferă o oportunitate bună de încălzire între stații.",
+              "Atenție la bălți la urcare și coborâre.",
+              "O umbrelă mică de buzunar este ideală pentru drumurile scurte."
+            ],
+            "en": [
+              "Use the real-time app for bus arrivals in the rain.",
+              "Keep your Leap Card ready for quick boarding.",
+              "Buses offer a good warm-up opportunity between stops.",
+              "Watch out for puddles when getting on and off.",
+              "A small pocket umbrella is ideal for the walks in between."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintertour startet mit dem Bus zum Oriel House, wo Sie den kalten Morgen beginnen. Nach der Kirchenbesichtigung geht es weiter zum frostigen Regionalpark. Die Busfahrt bietet willkommene Wärme zwischen den Outdoor-Stopps. Den Tag beschließen Sie frühzeitig, bevor die Winterdunkelheit den Busverkehr verlangsamt.",
+            "hu": "A téli túra busszal indul az Oriel House-hoz, ahol a hideg reggelt kezdheti. A templomlátogatás után a fagyos Regional Park felé veszi az irányt. A buszozás örömteli melegséget nyújt a szabadtéri megállók között. A napot korán fejezze be, mielőtt a téli sötétség lelassítaná a buszközlekedést.",
+            "ro": "Turul de iarnă începe cu autobuzul spre Oriel House, unde începeți dimineața rece. După vizitarea bisericii, continuați spre parcul regional înghețat. Drumul cu autobuzul oferă o căldură binevenită între opririle exterioare. Încheiați ziua devreme, înainte ca întunericul de iarnă să încetinească traficul.",
+            "en": "The winter tour starts by bus to Oriel House, where you begin the cold morning. After visiting the church, continue to the frosty Regional Park. The bus ride offers welcome warmth between outdoor stops. End the day early before the winter darkness slows down bus traffic."
+          },
+          "stops": [
+            {
+              "name": "Oriel House",
+              "tip_5lang": {
+                "de": "Warmer Rückzugsort nah am ÖPNV.",
+                "hu": "Meleg menedék a tömegközlekedés közelében.",
+                "ro": "Refugiu cald aproape de transportul public.",
+                "en": "Warm retreat close to public transport."
+              }
+            },
+            {
+              "name": "St. Mary & St. John's Church",
+              "tip_5lang": {
+                "de": "Windgeschützter Wartebereich an der Straße.",
+                "hu": "Szélvédett várakozóhely az útnál.",
+                "ro": "Zonă de așteptare ferită de vânt la drum.",
+                "en": "Wind-sheltered waiting area by the road."
+              }
+            },
+            {
+              "name": "Ballincollig Castle",
+              "tip_5lang": {
+                "de": "Fußweg kann bei Frost glatt sein.",
+                "hu": "A gyalogút fagy esetén csúszós lehet.",
+                "ro": "Aleea poate fi alunecoasă pe îngheț.",
+                "en": "The footpath can be slippery in frost."
+              }
+            },
+            {
+              "name": "Ballincollig Gunpowder Mills",
+              "tip_5lang": {
+                "de": "Frühzeitige Rückfahrt einplanen.",
+                "hu": "Tervezzen korai visszautat.",
+                "ro": "Planificați întoarcerea devreme.",
+                "en": "Plan an early return trip."
+              }
+            },
+            {
+              "name": "Ballincollig Regional Park",
+              "tip_5lang": {
+                "de": "Haltestelle direkt am Haupteingang.",
+                "hu": "Megálló közvetlenül a főbejáratnál.",
+                "ro": "Stație chiar la intrarea principală.",
+                "en": "Stop located directly at the main entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie langes Warten an ungeschützten Haltestellen.",
+              "Die Heizung im Bus ist im Winter oft sehr stark eingestellt.",
+              "Tragen Sie reflektierende Kleidung für den Weg zur Haltestelle.",
+              "Prüfen Sie den Winterfahrplan auf eventuelle Änderungen.",
+              "Ein heißes Getränk verkürzt die Wartezeit auf den Bus."
+            ],
+            "hu": [
+              "Kerülje a hosszú várakozást a védtelen megállókban.",
+              "A buszok fűtése télen gyakran nagyon erős.",
+              "Viseljen fényvisszaverő ruházatot a megállóhoz vezető úton.",
+              "Ellenőrizze a téli menetrendet az esetleges változások miatt.",
+              "Egy forró ital lerövidíti a várakozási időt a buszra."
+            ],
+            "ro": [
+              "Evitați așteptarea lungă în stațiile neprotejate.",
+              "Încălzirea în autobuz este adesea foarte puternică iarna.",
+              "Purtați haine reflectorizante pentru drumul spre stație.",
+              "Verificați orarul de iarnă pentru eventuale modificări.",
+              "O băutură caldă scurtează timpul de așteptare pentru autobuz."
+            ],
+            "en": [
+              "Avoid long waits at unsheltered stops.",
+              "Bus heating is often set very high in winter.",
+              "Wear reflective clothing for the walk to the stop.",
+              "Check the winter schedule for any changes.",
+              "A hot drink shortens the waiting time for the bus."
+            ]
+          }
+        }
       }
     }
   }

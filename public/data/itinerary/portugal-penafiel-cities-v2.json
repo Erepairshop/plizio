@@ -362,6 +362,188 @@
           "Most shops and museums may close for lunch, so plan accordingly.",
           "Locals are friendly, but learning a few basic Portuguese phrases is always polite."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Vormittag gehört dem Stadtmuseum, einem idealen trockenen Startpunkt. Mittags finden Sie in den Gassen der Altstadt zahlreiche Restaurants mit überdachten Eingängen. Am Nachmittag besuchen Sie die Kirchen Misericórdia und die Hauptkirche, die Schutz vor Schauern bieten. Den Tag schließen wir am Sameiro-Heiligtum ab, dessen monumentale Treppe im Regen glänzt und eine mystische Fernsicht bietet.",
+            "hu": "A délelőttöt a városi múzeumban töltjük, amely kiváló fedett kiindulópont. Ebédidőben az óváros szűk utcáin számos fedett teraszos éttermet találunk. Délután a Misericórdia és a főtemplom belső terei nyújtanak menedéket a záporok elől. A napot a Sameiro-kegyhelyen zárjuk, ahol az esőben csillogó monumentális lépcsősor és a párás kilátás különleges, misztikus élményt nyújt.",
+            "ro": "Dimineața este dedicată Muzeului Municipal, un punct de pornire ideal și uscat. La prânz, veți găsi numeroase restaurante cu intrări acoperite pe străzile înguste ale centrului vechi. După-amiaza, vizitați bisericile Misericórdia și biserica principală, care oferă adăpost împotriva ploii. Încheiem ziua la Sanctuarul Sameiro, a cărui scară monumentală strălucește în ploaie, oferind o priveliște mistică.",
+            "en": "Spend the morning at the Municipal Museum, an ideal dry starting point. At lunch, find numerous restaurants with covered entrances in the old town alleys. In the afternoon, visit the Misericórdia and Main churches, which provide shelter from showers. We end the day at the Sameiro Sanctuary, where the monumental staircase gleams in the rain, offering a mystical and atmospheric view."
+          },
+          "stops": [
+            {
+              "name": "Municipal Museum of Penafiel",
+              "tip_5lang": {
+                "de": "Garderobe für nasse Mäntel und Schirme direkt am Eingang vorhanden.",
+                "hu": "A bejáratnál ruhatár áll rendelkezésre a vizes kabátok és esernyők számára.",
+                "ro": "Garderobă disponibilă la intrare pentru haine ude și umbrele.",
+                "en": "Cloakroom available at the entrance for wet coats and umbrellas."
+              }
+            },
+            {
+              "name": "Church of Misericórdia",
+              "tip_5lang": {
+                "de": "Der Innenraum ist ein perfekter Ort, um einen starken Regenguss abzuwarten.",
+                "hu": "A templombelső tökéletes hely egy intenzívebb zápor átvészelésére.",
+                "ro": "Interiorul este un loc perfect pentru a aștepta trecerea unei ploi torențiale.",
+                "en": "The interior is a perfect place to wait out a heavy downpour."
+              }
+            },
+            {
+              "name": "Main Church of Penafiel",
+              "tip_5lang": {
+                "de": "Achten Sie auf die Granitstufen, sie können bei Nässe rutschig sein.",
+                "hu": "Vigyázzon a gránitlépcsőkre, mert esőben csúszósak lehetnek.",
+                "ro": "Atenție la treptele de granit, pot fi alunecoase când sunt ude.",
+                "en": "Watch out for the granite steps; they can be slippery when wet."
+              }
+            },
+            {
+              "name": "Lunch in the City Center",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant in der Rua Paço de Sousa für kurze Wege im Regen.",
+                "hu": "Válasszon éttermet a Rua Paço de Sousa környékén a rövid gyalogút érdekében.",
+                "ro": "Alegeți un restaurant pe Rua Paço de Sousa pentru distanțe scurte prin ploaie.",
+                "en": "Choose a restaurant near Rua Paço de Sousa for short walking distances in the rain."
+              }
+            },
+            {
+              "name": "Calvary Garden",
+              "tip_5lang": {
+                "de": "Nutzen Sie die dichten Baumkronen als natürlichen Regenschutz beim Spaziergang.",
+                "hu": "Használja a sűrű lombkoronákat természetes esővédőként a séta során.",
+                "ro": "Folosiți coronamentul des al arborilor ca adăpost natural în timpul plimbării.",
+                "en": "Use the dense tree canopy as natural rain protection during your stroll."
+              }
+            },
+            {
+              "name": "Sameiro Sanctuary",
+              "tip_5lang": {
+                "de": "Die Auffahrt bietet bei Regen eine dramatische Sicht auf das Douro-Tal.",
+                "hu": "A feljáró esős időben drámai kilátást nyújt a Douro-völgy felé.",
+                "ro": "Urcarea oferă o vedere dramatică asupra văii Douro pe timp de ploaie.",
+                "en": "The ascent offers a dramatic view of the Douro Valley during rainy weather."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da die Pflastersteine in der Altstadt Wasser ansammeln.",
+              "Die meisten Museen und Kirchen in Penafiel bieten Schirmständer im Eingangsbereich.",
+              "Nutzen Sie die Cafés in der Stadtmitte für kurze Pausen, wenn der Regen stärker wird.",
+              "Ein Taschenschirm ist handlicher als ein großer Stockschirm in den engen Gassen."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert az óváros macskakövei között megállhat a víz.",
+              "A legtöbb múzeum és templom Penafielben esernyőtartót kínál a bejáratnál.",
+              "Használja a városközpont kávézóit rövid pihenőkre, ha felerősödik az eső.",
+              "Az összehajtható esernyő praktikusabb a szűk utcákban, mint a boternyő."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, deoarece apa se poate acumula între pavaje.",
+              "Majoritatea muzeelor și bisericilor din Penafiel oferă suporturi pentru umbrele.",
+              "Folosiți cafenelele din centrul orașului pentru pauze scurte când ploaia se intensifică.",
+              "O umbrelă pliabilă este mai practică decât una lungă pe străzile înguste."
+            ],
+            "en": [
+              "Wear waterproof shoes as water tends to pool between the old town cobblestones.",
+              "Most museums and churches in Penafiel provide umbrella stands at the entrance.",
+              "Use city center cafes for short breaks if the rain becomes too heavy.",
+              "A compact umbrella is more convenient than a large one in the narrow alleys."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An kühlen Wintermorgen wärmen wir uns im modernen Stadtmuseum auf. Die Mittagssonne am Hauptplatz ist angenehm, bevor wir die historischen Kirchen besichtigen. Da es bereits gegen 17:30 Uhr dunkel wird, planen wir den Besuch des Calvary-Gartens am frühen Nachmittag. Der Tag endet am Sameiro-Heiligtum, wo die Winterdämmerung das Tal in tiefes Blau taucht und die Lichter der Stadt hell erstrahlen.",
+            "hu": "A hűvös téli reggelen a modern városi múzeumban melegszünk fel. A főtér déli napsütése kellemes, mielőtt meglátogatnánk a történelmi templomokat. Mivel 17:30 körül sötétedik, a Calvary-kert meglátogatását kora délutánra időzítjük. A nap a Sameiro-kegyhelyen zárul, ahol a téli szürkület kékbe vonja a völgyet, és a város fényei ragyogni kezdenek.",
+            "ro": "În diminețile reci de iarnă, ne încălzim în muzeul municipal modern. Soarele de la prânz în piața principală este plăcut înainte de a vizita bisericile istorice. Deoarece se întunecă în jur de 17:30, planificăm vizita la Grădina Calvary devreme după-amiaza. Ziua se încheie la Sanctuarul Sameiro, unde amurgul de iarnă îmbracă valea în albastru închis, iar luminile orașului strălucesc.",
+            "en": "On chilly winter mornings, we warm up inside the modern Municipal Museum. The midday sun in the main square is pleasant before visiting the historic churches. Since it gets dark around 17:30, we schedule the Calvary Garden for early afternoon. The day ends at the Sameiro Sanctuary, where the winter dusk dyes the valley in deep blue and the city lights begin to sparkle."
+          },
+          "stops": [
+            {
+              "name": "Municipal Museum of Penafiel",
+              "tip_5lang": {
+                "de": "Die modernen Räume sind gut beheizt und bieten einen angenehmen Start.",
+                "hu": "A modern kiállítóterek jól fűtöttek, kellemes kezdést biztosítva.",
+                "ro": "Spațiile moderne sunt bine încălzite, oferind un început plăcut.",
+                "en": "The modern exhibition spaces are well-heated, providing a comfortable start."
+              }
+            },
+            {
+              "name": "Church of Misericórdia",
+              "tip_5lang": {
+                "de": "Im Inneren kann es kühl sein; behalten Sie Ihre Jacke während des Besuchs an.",
+                "hu": "Odabent hűvös lehet, érdemes a kabátot magunkon hagyni a látogatás alatt.",
+                "ro": "Poate fi răcoare în interior; păstrați jacheta pe parcursul vizitei.",
+                "en": "It can be chilly inside; keep your jacket on during the visit."
+              }
+            },
+            {
+              "name": "Main Church of Penafiel",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche gegen 15:00 Uhr, um das tiefe Winterlicht einzufangen.",
+                "hu": "Látogassa meg a templomot 15:00 körül a szép téli fények miatt.",
+                "ro": "Vizitați biserica în jurul orei 15:00 pentru a surprinde lumina joasă de iarnă.",
+                "en": "Visit the church around 15:00 to catch the beautiful low winter light."
+              }
+            },
+            {
+              "name": "Lunch in the City Center",
+              "tip_5lang": {
+                "de": "Probieren Sie herzhafte lokale Eintöpfe, die perfekt für kalte Tage sind.",
+                "hu": "Kóstolja meg a laktató helyi egytálételeket, amelyek kiválóak hideg napokon.",
+                "ro": "Gustați tocănițele locale consistente, perfecte pentru zilele reci.",
+                "en": "Try the hearty local stews, which are perfect for cold winter days."
+              }
+            },
+            {
+              "name": "Calvary Garden",
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne bietet hier ideale Bedingungen für Winterfotos.",
+                "hu": "Az alacsony állású nap kiváló feltételeket biztosít a téli fotózáshoz.",
+                "ro": "Soarele jos oferă condiții ideale pentru fotografii de iarnă aici.",
+                "en": "The low-hanging sun provides ideal conditions for winter photography here."
+              }
+            },
+            {
+              "name": "Sameiro Sanctuary",
+              "tip_5lang": {
+                "de": "Bringen Sie warme Kleidung mit, da es oben auf dem Hügel windig sein kann.",
+                "hu": "Vigyen meleg ruhát, mert a dombtetőn szeles és hideg lehet az idő.",
+                "ro": "Aduceți haine groase, deoarece pe deal poate fi vânt și frig.",
+                "en": "Bring warm clothing, as it can be windy and cold up on the hill."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht gegen 17:30 Uhr unter, planen Sie Außenaktivitäten davor.",
+              "Schichten Sie Ihre Kleidung, da es in der Sonne warm, im Schatten aber sehr kühl ist.",
+              "Ein heißer Galão (Milchkaffee) in einer lokalen Pastelaria wirkt Wunder.",
+              "Die Luftfeuchtigkeit im Norden Portugals lässt die Kälte intensiver wirken."
+            ],
+            "hu": [
+              "A nap 17:30 körül nyugszik, a szabadtéri programokat időzítse korábbra.",
+              "Öltözzön rétegesen, mert a napon meleg, de az árnyékban nagyon hűvös van.",
+              "Egy forró Galão (tejeskávé) egy helyi cukrászdában csodákra képes.",
+              "Észak-Portugália páratartalma miatt a hideget intenzívebbnek érezhetjük."
+            ],
+            "ro": [
+              "Soarele apune în jur de 17:30, planificați activitățile în aer liber înainte.",
+              "Îmbrăcați-vă în straturi, e cald la soare, dar foarte răcoare la umbră.",
+              "Un Galão (cafea cu lapte) fierbinte într-o patiserie locală face minuni.",
+              "Umiditatea din nordul Portugaliei face ca frigul să pară mai intens."
+            ],
+            "en": [
+              "Sunset is around 17:30, so plan outdoor activities for earlier in the day.",
+              "Dress in layers; it's warm in the sun but very chilly in the shade.",
+              "A hot Galão (latte) in a local pastry shop works wonders against the cold.",
+              "High humidity in northern Portugal can make the cold feel more intense."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -694,6 +876,170 @@
           "Always lock your bike when leaving it unattended.",
           "Check the opening hours for Quinta da Aveleda and book tours in advance."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten bei Quinta da Aveleda, wo die Kellereien Schutz bieten. Die Fahrt zum Stadtmuseum erfolgt auf asphaltierten Straßen, um Schlamm zu vermeiden. Mittags rasten wir im Zentrum und prüfen unsere Ausrüstung. Am Nachmittag führt der Weg zum Calvary-Garten, wobei wir auf nassen Granit achten. Die Tour endet am Castro de Monte Mozinho, wo die antiken Steine im Regen eine besonders raue Schönheit entfalten.",
+            "hu": "A Quinta da Aveleda birtokon kezdünk, ahol a borospincék védelmet nyújtanak. A múzeumhoz aszfaltozott úton tekerünk, elkerülve a sarat. Délben a központban pihenünk és ellenőrizzük a felszerelést. Délután a Calvary-kert felé vesszük az irányt, figyelve a vizes gránitburkolatra. A túra a Castro de Monte Mozinho-nál zárul, ahol az ókori kövek az esőben különleges, nyers szépséget mutatnak.",
+            "ro": "Începem la Quinta da Aveleda, unde cramele oferă protecție. Drumul către muzeu se face pe drumuri asfaltate pentru a evita noroiul. La prânz, ne odihnim în centru și verificăm echipamentul. După-amiaza, traseul duce spre Grădina Calvary, cu atenție la granitul ud. Turul se încheie la Castro de Monte Mozinho, unde pietrele antice capătă o frumusețe brută deosebită sub ploaie.",
+            "en": "We start at Quinta da Aveleda, where the wine cellars offer shelter. The ride to the museum follows paved roads to avoid mud. At noon, we rest in the center and check our gear. In the afternoon, the route leads to Calvary Garden, being careful on wet granite. The tour ends at Castro de Monte Mozinho, where the ancient stones display a particularly raw beauty in the rain."
+          },
+          "stops": [
+            {
+              "name": "Quinta da Aveleda",
+              "tip_5lang": {
+                "de": "Die Weinkeller und der Verkostungsraum sind komplett überdacht.",
+                "hu": "A borospincék és a kóstolóhelyiség teljesen fedett és száraz.",
+                "ro": "Cramele și sala de degustare sunt complet acoperite și uscate.",
+                "en": "The wine cellars and the tasting room are completely covered and dry."
+              }
+            },
+            {
+              "name": "Municipal Museum of Penafiel",
+              "tip_5lang": {
+                "de": "Sichere Fahrradständer befinden sich in der Nähe des Haupteingangs.",
+                "hu": "Biztonságos kerékpártárolók találhatók a főbejárat közelében.",
+                "ro": "Suporturi sigure pentru biciclete se află lângă intrarea principală.",
+                "en": "Secure bike racks are located near the main entrance."
+              }
+            },
+            {
+              "name": "Lunch in the City Center",
+              "tip_5lang": {
+                "de": "Suchen Sie Lokale mit Blick auf Ihr Fahrrad, um es im Auge zu behalten.",
+                "hu": "Keressen olyan helyet, ahonnan rálát a biciklijére az esőben is.",
+                "ro": "Căutați localuri cu vedere spre bicicletă pentru a o supraveghea.",
+                "en": "Find a spot where you can keep an eye on your bike through the window."
+              }
+            },
+            {
+              "name": "Calvary Garden",
+              "tip_5lang": {
+                "de": "Die Wege können durch nasses Laub rutschig sein; fahren Sie vorsichtig.",
+                "hu": "Az utak a vizes levelek miatt csúszósak lehetnek; tekerjen óvatosan.",
+                "ro": "Aleile pot fi alunecoase din cauza frunzelor ude; pedalați cu prudență.",
+                "en": "The paths can be slippery from wet leaves; ride with caution."
+              }
+            },
+            {
+              "name": "Castro de Monte Mozinho",
+              "tip_5lang": {
+                "de": "Vermeiden Sie die unbefestigten Pfade und bleiben Sie auf den Hauptwegen.",
+                "hu": "Kerülje a földutakat, maradjon a kijelölt kövezett főutakon.",
+                "ro": "Evitați potecile neamenajate și rămâneți pe drumurile principale.",
+                "en": "Avoid the unpaved trails and stick to the main established paths."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Bremsbeläge, da Nässe den Bremsweg auf Granit verlängert.",
+              "Vermeiden Sie bei Regen die Feldwege rund um das Castro de Monte Mozinho.",
+              "Wasserdichte Packtaschen sind unerlässlich, um Ihre Wechselkleidung trocken zu halten.",
+              "Nutzen Sie helle Beleuchtung, da die Sichtbarkeit bei Regen stark abnimmt."
+            ],
+            "hu": [
+              "Ellenőrizze a fékeket, mert a nedves grániton jelentősen megnő a fékút.",
+              "Esőben kerülje a Castro de Monte Mozinho körüli földutakat a sár miatt.",
+              "A vízálló táska elengedhetetlen a váltóruha szárazon tartásához.",
+              "Használjon erős világítást, mert esőben jelentősen romlik a láthatóság."
+            ],
+            "ro": [
+              "Verificați frânele, deoarece umezeala prelungește distanța de frânare pe granit.",
+              "Evitați drumurile de pământ din jurul Castro de Monte Mozinho când plouă.",
+              "Geantele impermeabile sunt esențiale pentru a păstra hainele de schimb uscate.",
+              "Folosiți lumini puternice, deoarece vizibilitatea scade mult pe timp de ploaie."
+            ],
+            "en": [
+              "Check your brake pads; wet granite significantly increases braking distance.",
+              "Avoid the dirt paths around Castro de Monte Mozinho in the rain due to mud.",
+              "Waterproof panniers are essential for keeping your spare clothes dry.",
+              "Use bright lights, as visibility decreases significantly during rainfall."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens besuchen wir Quinta da Aveleda, wenn der Raureif noch auf den Reben liegt. Die Fahrt zum Museum hilft, bei kühleren Temperaturen warm zu bleiben. Mittags genießen wir die Sonne im Stadtzentrum. Am Nachmittag radeln wir zum Calvary-Garten, wobei wir die tiefstehende Sonne im Rücken haben. Die Tour endet am Castro de Monte Mozinho pünktlich zum Sonnenuntergang, bevor die Abendkälte einsetzt.",
+            "hu": "Reggel a Quinta da Aveleda birtokot látogatjuk meg, amikor a dér még a tőkéken csillog. A múzeumhoz vezető út segít bemelegedni a hűvös időben. Délben a városközpont napsütését élvezzük. Délután a Calvary-kert felé tekerünk, az alacsonyan járó nappal a hátunk mögött. A túra a Castro de Monte Mozinho-nál zárul, pontosan naplementére, mielőtt beállna az esti fagy.",
+            "ro": "Dimineața vizităm Quinta da Aveleda, când chiciura încă strălucește pe vița de vie. Drumul spre muzeu ajută la încălzire în temperaturile scăzute. La prânz, ne bucurăm de soare în centrul orașului. După-amiaza, pedalăm spre Grădina Calvary cu soarele jos în spate. Turul se încheie la Castro de Monte Mozinho exact la apus, înainte de lăsarea frigului de seară.",
+            "en": "In the morning, we visit Quinta da Aveleda while hoarfrost still sparkles on the vines. The ride to the museum helps keep us warm in the cooler temperatures. At noon, we enjoy the sun in the city center. In the afternoon, we cycle to Calvary Garden with the low sun at our backs. The tour ends at Castro de Monte Mozinho right at sunset, before the evening chill sets in."
+          },
+          "stops": [
+            {
+              "name": "Quinta da Aveleda",
+              "tip_5lang": {
+                "de": "Frühmorgens kann es in den Gärten sehr kühl sein; tragen Sie Schichten.",
+                "hu": "Kora reggel a kertekben nagyon hűvös lehet; öltözzön rétegesen.",
+                "ro": "Dimineața devreme poate fi foarte răcoare în grădini; purtați straturi.",
+                "en": "Early morning in the gardens can be very chilly; wear layers."
+              }
+            },
+            {
+              "name": "Municipal Museum of Penafiel",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch, um Ihre Hände wieder aufzuwärmen.",
+                "hu": "Használja ki a múzeumlátogatást a kezei felmelegítésére.",
+                "ro": "Folosiți vizita la muzeu pentru a vă reîncălzi mâinile.",
+                "en": "Use the museum visit as an opportunity to warm up your hands."
+              }
+            },
+            {
+              "name": "Lunch in the City Center",
+              "tip_5lang": {
+                "de": "Suchen Sie sich einen Platz an einem sonnigen Fensterplatz im Café.",
+                "hu": "Keressen egy napos ablak melletti asztalt a kávézóban.",
+                "ro": "Căutați un loc la o masă însorită lângă fereastră în cafenea.",
+                "en": "Look for a table by a sunny window in the cafe."
+              }
+            },
+            {
+              "name": "Calvary Garden",
+              "tip_5lang": {
+                "de": "Der Park ist im Winter sehr ruhig und bietet klare Sichtachsen.",
+                "hu": "A park télen nagyon csendes, tiszta kilátást nyújtva a környékre.",
+                "ro": "Parcul este foarte liniștit iarna, oferind axe de vizibilitate clare.",
+                "en": "The park is very quiet in winter, offering clear lines of sight."
+              }
+            },
+            {
+              "name": "Castro de Monte Mozinho",
+              "tip_5lang": {
+                "de": "Planen Sie die Rückfahrt vor Einbruch der Dunkelheit gegen 17:30 Uhr.",
+                "hu": "Tervezze meg a visszautat a sötétedés előtt, 17:30 környékére.",
+                "ro": "Planificați drumul de întoarcere înainte de lăsarea întunericului, pe la 17:30.",
+                "en": "Plan your return trip before darkness falls around 17:30."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vollfinger-Handschuhe sind bei Abfahrten im Winter ein Muss.",
+              "Die Wintersonne steht tief; eine Sonnenbrille ist auch beim Radfahren nötig.",
+              "Achten Sie auf Raureif in schattigen Kurven der Landstraßen.",
+              "Nehmen Sie ein heißes Getränk in einer Thermoskanne für die Pausen mit."
+            ],
+            "hu": [
+              "A zárt ujjú kesztyű elengedhetetlen a téli lejtőzéshez.",
+              "A téli nap alacsonyan jár, ezért napszemüveg kerékpározáshoz is szükséges.",
+              "Figyeljen a zúzmarára az országutak árnyékos kanyarjaiban.",
+              "Vigyen forró italt termoszban a hosszabb pihenőkhöz."
+            ],
+            "ro": [
+              "Mănușile cu degete lungi sunt obligatorii pentru coborârile de iarnă.",
+              "Soarele de iarnă este jos; ochelarii de soare sunt necesari și la pedalat.",
+              "Atenție la chiciură în curbele umbrite ale drumurilor naționale.",
+              "Luați o băutură fierbinte într-un termos pentru pauze."
+            ],
+            "en": [
+              "Full-finger gloves are a must for descents in the winter chill.",
+              "The winter sun is low; sunglasses are necessary even for cycling.",
+              "Watch out for hoarfrost in shaded curves on country roads.",
+              "Take a hot drink in a thermos for your longer breaks."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1074,6 +1420,206 @@
           "The driver should be cautious with wine tastings. Portugal has strict drink-driving laws.",
           "Check fuel prices as they can vary."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten am Castro de Monte Mozinho, wo der Parkplatz direkt am Eingang liegt. Danach geht es zur Quinta da Aveleda, deren Innenhöfe gut befestigt sind. Mittags parken wir bequem in der Nähe der Aveleda für ein entspanntes Essen. Am Nachmittag führt die Fahrt zum Stadtzentrum, wo wir das Auto im Parkhaus abstellen und das Museum besuchen. Der Tag endet im Magikland, wobei wir die wetterfesten Attraktionen priorisieren.",
+            "hu": "A Castro de Monte Mozinho-nál kezdünk, ahol a parkoló közvetlenül a bejáratnál van. Ezután a Quinta da Aveleda következik, melynek udvarai jól burkoltak. Ebédre kényelmesen parkolunk az Aveleda közelében. Délután a városközpontba hajtunk, ahol mélygarázsban hagyjuk az autót a múzeumlátogatáshoz. A napot a Magiklandben zárjuk, a fedett attrakciókat előtérbe helyezve.",
+            "ro": "Începem la Castro de Monte Mozinho, unde parcarea este chiar la intrare. Apoi mergem la Quinta da Aveleda, ale cărei curți interioare sunt bine pavate. La prânz parcăm confortabil lângă Aveleda pentru o masă relaxată. După-amiaza conducem spre centru, unde lăsăm mașina în parcare pentru a vizita muzeul. Ziua se încheie la Magikland, prioritizând atracțiile acoperite.",
+            "en": "We start at Castro de Monte Mozinho, where the parking lot is right at the entrance. Next is Quinta da Aveleda, whose inner courtyards are well-paved. For lunch, we park comfortably near Aveleda. In the afternoon, we drive to the city center, leaving the car in a garage to visit the museum. The day ends at Magikland, prioritizing the weather-protected attractions."
+          },
+          "stops": [
+            {
+              "name": "Castro de Monte Mozinho",
+              "tip_5lang": {
+                "de": "Der Parkplatz kann bei starkem Regen Pfützen bilden; parken Sie am Rand.",
+                "hu": "A parkolóban nagy esőben tócsák alakulhatnak ki; parkoljon a szélén.",
+                "ro": "În parcare se pot forma bălți la ploi mari; parcați la margine.",
+                "en": "The parking lot can develop large puddles in heavy rain; park at the edge."
+              }
+            },
+            {
+              "name": "Quinta da Aveleda",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich zum Aussteigen der Passagiere.",
+                "hu": "Használja a fedett bejárati részt az utasok kiszállásához.",
+                "ro": "Folosiți zona de intrare acoperită pentru debarcarea pasagerilor.",
+                "en": "Use the covered entrance area for dropping off passengers dry."
+              }
+            },
+            {
+              "name": "Lunch near Aveleda",
+              "tip_5lang": {
+                "de": "Es gibt ausreichend Parkplätze direkt vor den Restaurants an der N15.",
+                "hu": "Közvetlenül az N15 út melletti éttermek előtt bőséges a parkolóhely.",
+                "ro": "Există suficiente locuri de parcare chiar în fața restaurantelor de pe N15.",
+                "en": "There is ample parking directly in front of the restaurants on the N15."
+              }
+            },
+            {
+              "name": "Park in City Center",
+              "tip_5lang": {
+                "de": "Das Parkhaus 'Pena' bietet direkten trockenen Zugang zur Stadtmitte.",
+                "hu": "A 'Pena' parkolóházból közvetlen, száraz út vezet a városközpontba.",
+                "ro": "Parcarea 'Pena' oferă acces direct și uscat spre centrul orașului.",
+                "en": "The 'Pena' parking garage offers direct dry access to the city center."
+              }
+            },
+            {
+              "name": "Municipal Museum of Penafiel",
+              "tip_5lang": {
+                "de": "Der kurze Weg vom Parkhaus zum Museum ist größtenteils windgeschützt.",
+                "hu": "A parkolóháztól a múzeumig tartó rövid út nagyrészt szélvédett.",
+                "ro": "Drumul scurt de la parcare la muzeu este în mare parte ferit de vânt.",
+                "en": "The short walk from the parking garage to the museum is mostly sheltered."
+              }
+            },
+            {
+              "name": "Calvary Garden",
+              "tip_5lang": {
+                "de": "Bei starkem Regen bietet die Sicht aus dem Auto einen guten Überblick.",
+                "hu": "Heves esőben az autóból is jó rálátás nyílik a kertre.",
+                "ro": "În caz de ploaie torențială, vederea din mașină oferă o perspectivă bună.",
+                "en": "In heavy rain, the view from the car still offers a good overview."
+              }
+            },
+            {
+              "name": "Magikland",
+              "tip_5lang": {
+                "de": "Prüfen Sie vorab, welche Fahrgeschäfte bei Regen in Betrieb sind.",
+                "hu": "Előre ellenőrizze, mely játékok üzemelnek esős időben.",
+                "ro": "Verificați în avans care atracții funcționează pe timp de ploaie.",
+                "en": "Check in advance which rides are operational during rainy weather."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf der Nationalstraße N15 bei Starkregen.",
+              "Nutzen Sie die Tiefgaragen im Zentrum, um trockenen Fußes in die Läden zu gelangen.",
+              "Die Sichtverhältnisse in den Hügeln rund um Penafiel können schnell abnehmen.",
+              "Halten Sie eine Decke im Auto bereit, falls Sie nach dem Regen auskühlen."
+            ],
+            "hu": [
+              "Vigyázzon az aquaplaning jelenségre az N15-ös főúton heves esőzéskor.",
+              "Használja a központi mélygarázsokat, hogy szárazon jusson el az üzletekbe.",
+              "A látási viszonyok a Penafiel körüli dombokon gyorsan romolhatnak.",
+              "Tartson takarót az autóban arra az esetre, ha elázás után lehűlne a levegő."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumul național N15 în timpul ploilor torențiale.",
+              "Folosiți parcările subterane din centru pentru a ajunge uscat la magazine.",
+              "Vizibilitatea pe dealurile din jurul Penafiel se poate reduce rapid.",
+              "Țineți o pătură în mașină în caz că vă este frig după ce v-a udat ploaia."
+            ],
+            "en": [
+              "Watch out for aquaplaning on the N15 national road during heavy rainfall.",
+              "Use underground parking in the center to reach shops without getting wet.",
+              "Visibility in the hills around Penafiel can decrease rapidly during storms.",
+              "Keep a blanket in the car in case you feel cold after being out in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens fahren wir zum Castro de Monte Mozinho, wenn das Winterlicht die Ruinen verzaubert. Danach besuchen wir Quinta da Aveleda, wo wir uns bei einer Weinprobe aufwärmen. Das Mittagessen nehmen wir in der Nähe der Aveleda ein. Am Nachmittag geht es ins Stadtzentrum zum Museumsbesuch. Nach einem kurzen Stopp am Calvary-Garten beenden wir den Tag im Magikland, das im Winter oft besonders festlich beleuchtet ist.",
+            "hu": "Reggel a Castro de Monte Mozinho-hoz autózunk, amikor a téli fények megvilágítják a romokat. Ezután a Quinta da Aveleda következik, ahol borkóstolóval melegszünk fel. Az ebédet az Aveleda közelében költjük el. Délután a városközpontba látogatunk a múzeumba. A Calvary-kert után a napot a Magiklandben zárjuk, amely télen gyakran ünnepi díszkivilágítást kap.",
+            "ro": "Dimineața conducem spre Castro de Monte Mozinho, când lumina de iarnă luminează ruinele. Urmează Quinta da Aveleda, unde ne încălzim cu o degustare de vinuri. Prânzul îl luăm lângă Aveleda. După-amiaza mergem în centrul orașului pentru a vizita muzeul. După o scurtă oprire la Grădina Calvary, încheiem ziua la Magikland, care iarna are adesea iluminat festiv.",
+            "en": "In the morning, we drive to Castro de Monte Mozinho when the winter light enchants the ruins. Then we visit Quinta da Aveleda, warming up with a wine tasting. We have lunch near Aveleda. In the afternoon, we head to the city center for a museum visit. After a quick stop at Calvary Garden, we end the day at Magikland, which is often festively lit in winter."
+          },
+          "stops": [
+            {
+              "name": "Castro de Monte Mozinho",
+              "tip_5lang": {
+                "de": "Morgens kann es auf dem Hügel sehr frostig sein; Heizung prüfen.",
+                "hu": "Reggel a dombtetőn fagyos lehet az idő; ellenőrizze a fűtést.",
+                "ro": "Dimineața poate fi foarte geros pe deal; verificați căldura în mașină.",
+                "en": "It can be very frosty on the hill in the morning; check your car's heater."
+              }
+            },
+            {
+              "name": "Quinta da Aveleda",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist schattig; das Auto kühlt hier im Winter schnell aus.",
+                "hu": "A parkoló árnyékos, az autó télen gyorsan lehűlhet itt.",
+                "ro": "Parcarea este umbrită; mașina se răcește rapid aici iarna.",
+                "en": "The parking lot is shaded; the car can cool down quickly here in winter."
+              }
+            },
+            {
+              "name": "Lunch near Aveleda",
+              "tip_5lang": {
+                "de": "Viele Restaurants haben im Winter gemütliche Kamine in Betrieb.",
+                "hu": "Sok étteremben télen hangulatos kandalló üzemel.",
+                "ro": "Multe restaurante au șeminee primitoare în funcțiune iarna.",
+                "en": "Many restaurants have cozy fireplaces in operation during winter."
+              }
+            },
+            {
+              "name": "Park in City Center",
+              "tip_5lang": {
+                "de": "Nutzen Sie Parkplätze in der Nähe der Haupteinkaufsstraße.",
+                "hu": "Keressen parkolóhelyet a fő bevásárlóutca közelében.",
+                "ro": "Căutați locuri de parcare aproape de strada principală de cumpărături.",
+                "en": "Look for parking spots close to the main shopping street."
+              }
+            },
+            {
+              "name": "Municipal Museum of Penafiel",
+              "tip_5lang": {
+                "de": "Das Museum ist im Winter ein willkommener warmer Zufluchtsort.",
+                "hu": "A múzeum télen hívogatóan meleg menedéket nyújt.",
+                "ro": "Muzeul este un adăpost cald și primitor pe timp de iarnă.",
+                "en": "The museum is a welcome warm sanctuary during the winter."
+              }
+            },
+            {
+              "name": "Calvary Garden",
+              "tip_5lang": {
+                "de": "Kurzer Stopp für Fotos; der Park ist im Winter sehr übersichtlich.",
+                "hu": "Rövid megálló fotózásra; a park télen nagyon átlátható.",
+                "ro": "Scurtă oprire pentru poze; parcul este foarte liber iarna.",
+                "en": "Short stop for photos; the park is very clear and quiet in winter."
+              }
+            },
+            {
+              "name": "Magikland",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Winteröffnungszeiten, da diese oft verkürzt sind.",
+                "hu": "Ellenőrizze a téli nyitvatartást, mert gyakran rövidített.",
+                "ro": "Verificați programul de iarnă, deoarece este adesea scurtat.",
+                "en": "Check the winter opening hours, as they are often reduced."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf morgendlichen Nebel in den Tälern um Penafiel.",
+              "Die Scheiben können morgens gefroren sein; Enteiser-Spray mitnehmen.",
+              "Die Straßen im Zentrum sind schmal; bei Kälte ist das Kopfsteinpflaster glatt.",
+              "Planen Sie die Rückfahrt vor Einbruch der frühen Dämmerung um 17:30 Uhr."
+            ],
+            "hu": [
+              "Figyeljen a reggeli ködre a Penafiel környéki völgyekben.",
+              "A szélvédők reggel fagyottak lehetnek; vigyen jégoldó spray-t.",
+              "A belvárosi utak szűkek; hidegben a macskakő csúszós lehet.",
+              "Tervezze meg a visszautat a korai, 17:30 körüli sötétedés előtt."
+            ],
+            "ro": [
+              "Atenție la ceața de dimineață în văile din jurul Penafiel.",
+              "Parbrizele pot fi înghețate dimineața; luați un spray degivrant.",
+              "Străzile din centru sunt înguste; pavajul poate fi alunecos la frig.",
+              "Planificați drumul de întoarcere înainte de amurgul devreme de la 17:30."
+            ],
+            "en": [
+              "Watch out for morning fog in the valleys surrounding Penafiel.",
+              "Windshields may be frozen in the morning; carry de-icer spray.",
+              "City center streets are narrow; cobblestones can be slick in the cold.",
+              "Plan your return trip before the early dusk at around 17:30."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1430,6 +1976,188 @@
           "Be aware of your stops; announcements may not always be clear.",
           "A day pass is often cheaper than buying individual tickets."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten am zentralen Busbahnhof, der einen guten Regenschutz bietet. Kurze Fahrten bringen uns zum Museums-Cluster, wo wir den Vormittag trocken verbringen. Mittags genießen wir lokale Küche im Stadtzentrum. Am Nachmittag bringt uns der Bus zur Haltestelle Magikland, von wo es nur ein kurzer Fußweg zum Park ist. Den Tag beenden wir am Sameiro-Heiligtum, das mit dem Bus bequem erreichbar ist.",
+            "hu": "A központi buszpályaudvaron kezdünk, amely jó esővédelmet nyújt. Rövid utazással érünk a múzeumi negyedbe, ahol szárazon töltjük a délelőttöt. Délben a városközpontban ebédelünk. Délután a busz a Magikland megállóhoz visz, ahonnan csak rövid séta a park. A napot a Sameiro-kegyhelyen zárjuk, amely busszal kényelmesen megközelíthető.",
+            "ro": "Începem la autogara centrală, care oferă o bună protecție împotriva ploii. Călătorii scurte ne duc la zona muzeelor, unde petrecem dimineața la adăpost. La prânz, savurăm bucătăria locală în centrul orașului. După-amiaza, autobuzul ne duce la stația Magikland, de unde este doar o scurtă plimbare până la parc. Încheiem ziua la Sanctuarul Sameiro, accesibil confortabil cu autobuzul.",
+            "en": "We start at the central bus station, which offers good rain protection. Short trips take us to the museum cluster, where we spend the morning dry. At noon, we enjoy local cuisine in the city center. In the afternoon, the bus takes us to the Magikland stop, just a short walk from the park. We end the day at the Sameiro Sanctuary, conveniently accessible by bus."
+          },
+          "stops": [
+            {
+              "name": "Penafiel Central Bus Station",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Wartebereich während der Umsteigezeiten.",
+                "hu": "Használja a fedett várakozóhelyet az átszállási időkben.",
+                "ro": "Folosiți zona de așteptare acoperită în timpul transferurilor.",
+                "en": "Use the covered waiting area during transfer times."
+              }
+            },
+            {
+              "name": "Municipal Museum & Churches",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist sehr nah an den Eingängen; ideal bei Regen.",
+                "hu": "A megálló nagyon közel van a bejáratokhoz; ideális esőben.",
+                "ro": "Stația este foarte aproape de intrări; ideal pe timp de ploaie.",
+                "en": "The stop is very close to the entrances; ideal in rainy weather."
+              }
+            },
+            {
+              "name": "Lunch in the City Center",
+              "tip_5lang": {
+                "de": "Viele Bushaltestellen im Zentrum verfügen über Wartehäuschen.",
+                "hu": "A központban sok buszmegálló rendelkezik várófülkével.",
+                "ro": "Multe stații de autobuz din centru au adăposturi pentru călători.",
+                "en": "Many bus stops in the center are equipped with passenger shelters."
+              }
+            },
+            {
+              "name": "Magikland Bus Stop",
+              "tip_5lang": {
+                "de": "Halten Sie Ihren Schirm bereit für den kurzen Fußweg zum Parkeingang.",
+                "hu": "Készítse elő esernyőjét a park bejáratáig tartó rövid sétához.",
+                "ro": "Pregătiți umbrela pentru scurta plimbare până la intrarea în parc.",
+                "en": "Have your umbrella ready for the short walk to the park entrance."
+              }
+            },
+            {
+              "name": "Magikland",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Indoor-Spielbereiche, wenn die Schauer stärker werden.",
+                "hu": "Használja a beltéri játszótereket, ha felerősödnek a záporok.",
+                "ro": "Folosiți zonele de joacă interioare dacă ploile se intensifică.",
+                "en": "Use the indoor play areas if the showers become heavier."
+              }
+            },
+            {
+              "name": "Sameiro Sanctuary",
+              "tip_5lang": {
+                "de": "Der Bus hält fast direkt vor dem Heiligtum; wenig Zeit im Regen.",
+                "hu": "A busz szinte közvetlenül a kegyhely előtt áll meg; kevés idő az esőben.",
+                "ro": "Autobuzul oprește aproape direct în fața sanctuarului; timp scurt în ploaie.",
+                "en": "The bus stops almost directly in front of the sanctuary; minimal time in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Laden Sie die lokale Verkehrs-App, um Wartezeiten im Regen zu minimieren.",
+              "Nicht alle kleinen Haltestellen sind überdacht; nehmen Sie einen stabilen Schirm mit.",
+              "Die Busse können bei Regen aufgrund des Verkehrs leichte Verspätungen haben.",
+              "Tragen Sie Kleidung, die auch im Sitzen in feuchtem Zustand bequem ist."
+            ],
+            "hu": [
+              "Töltse le a helyi közlekedési alkalmazást a várakozási idő minimalizálására.",
+              "Nem minden kis megálló fedett; vigyen magával egy strapabíró esernyőt.",
+              "A buszok esőben a forgalom miatt kisebb késésekkel közlekedhetnek.",
+              "Viseljen olyan ruhát, amely nedvesen is kényelmes az utazás során."
+            ],
+            "ro": [
+              "Descărcați aplicația locală de transport pentru a minimiza așteptarea.",
+              "Nu toate stațiile mici sunt acoperite; luați o umbrelă rezistentă.",
+              "Autobuzele pot avea mici întârzieri din cauza traficului pe timp de ploaie.",
+              "Purtați haine care sunt confortabile și când sunt ușor umede în autobuz."
+            ],
+            "en": [
+              "Download the local transit app to minimize waiting times in the rain.",
+              "Not all small bus stops are sheltered; bring a sturdy umbrella.",
+              "Buses may experience slight delays due to traffic during rainfall.",
+              "Wear clothing that remains comfortable even if slightly damp while seated."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An klaren Wintermorgen starten wir am Busbahnhof. Der Vormittag im Museums-Cluster ist perfekt, um der Kälte zu entgehen. Mittags wärmen wir uns in einem Restaurant im Zentrum auf. Nachmittags bringt uns der Bus zum Magikland, wo wir die winterliche Atmosphäre genießen. Der Tag endet am Sameiro-Heiligtum, von wo aus wir die beleuchtete Stadt im Tal sehen können, bevor wir bequem mit dem Bus zurückfahren.",
+            "hu": "Tiszta téli reggelen a buszpályaudvaron kezdünk. A délelőtt a múzeumi negyedben tökéletes a hideg elkerülésére. Délben a városközpontban melegszünk fel egy étteremben. Délután a busz a Magiklandhez visz, ahol élvezzük a téli hangulatot. A nap a Sameiro-kegyhelyen zárul, ahonnan láthatjuk a kivilágított várost, mielőtt kényelmesen visszabuszoznánk.",
+            "ro": "În diminețile senine de iarnă, începem la autogară. Dimineața în zona muzeelor este perfectă pentru a evita frigul. La prânz ne încălzim într-un restaurant din centru. După-amiaza, autobuzul ne duce la Magikland, unde ne bucurăm de atmosfera de iarnă. Ziua se încheie la Sanctuarul Sameiro, de unde vedem orașul iluminat, înainte de a reveni confortabil cu autobuzul.",
+            "en": "On clear winter mornings, we start at the bus station. The morning in the museum cluster is perfect for avoiding the cold. At noon, we warm up in a restaurant in the center. In the afternoon, the bus takes us to Magikland, where we enjoy the winter atmosphere. The day ends at the Sameiro Sanctuary, from where we can see the illuminated city before heading back comfortably by bus."
+          },
+          "stops": [
+            {
+              "name": "Penafiel Central Bus Station",
+              "tip_5lang": {
+                "de": "Das Bahnhofsgebäude bietet Schutz vor dem kalten Morgenwind.",
+                "hu": "Az állomásépület védelmet nyújt a hideg reggeli szél ellen.",
+                "ro": "Clădirea gării oferă protecție împotriva vântului rece de dimineață.",
+                "en": "The station building provides shelter from the cold morning wind."
+              }
+            },
+            {
+              "name": "Municipal Museum & Churches",
+              "tip_5lang": {
+                "de": "Nutzen Sie die gut beheizten Ausstellungsräume des Museums.",
+                "hu": "Használja ki a múzeum jól fűtött kiállítótereit.",
+                "ro": "Profitați de spațiile expoziționale bine încălzite ale muzeului.",
+                "en": "Take advantage of the museum's well-heated exhibition spaces."
+              }
+            },
+            {
+              "name": "Lunch in the City Center",
+              "tip_5lang": {
+                "de": "Genießen Sie ein heißes Getränk vor der Weiterfahrt am Nachmittag.",
+                "hu": "Élvezzen egy forró italt a délutáni továbbutazás előtt.",
+                "ro": "Savurați o băutură fierbinte înainte de plecarea de după-amiază.",
+                "en": "Enjoy a hot drink before continuing your journey in the afternoon."
+              }
+            },
+            {
+              "name": "Magikland Bus Stop",
+              "tip_5lang": {
+                "de": "Bewegung auf dem kurzen Fußweg hilft gegen die Winterkälte.",
+                "hu": "A rövid séta során a mozgás segít a téli hideg ellen.",
+                "ro": "Mişcarea în timpul scurtei plimbări ajută împotriva frigului de iarnă.",
+                "en": "Movement during the short walk helps against the winter cold."
+              }
+            },
+            {
+              "name": "Magikland",
+              "tip_5lang": {
+                "de": "Die Wintersonne macht die Außenbereiche am Nachmittag angenehm.",
+                "hu": "A téli napsütés délután kellemessé teszi a szabadtéri részeket.",
+                "ro": "Soarele de iarnă face zonele exterioare plăcute după-amiaza.",
+                "en": "The winter sun makes the outdoor areas pleasant in the afternoon."
+              }
+            },
+            {
+              "name": "Sameiro Sanctuary",
+              "tip_5lang": {
+                "de": "Achten Sie auf den letzten Bus zurück ins Zentrum gegen Abend.",
+                "hu": "Figyeljen az utolsó visszajáró buszra a központ felé este.",
+                "ro": "Atenție la ultimul autobuz de întoarcere spre centru seara.",
+                "en": "Keep an eye on the time for the last bus back to the center in the evening."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Winterfahrplan, da einige touristische Linien seltener fahren.",
+              "In den Bussen ist es meist warm; kleiden Sie sich nach dem Zwiebelprinzip.",
+              "Die Dämmerung beginnt früh, nutzen Sie die hellen Stunden bis 16:30 Uhr.",
+              "Halten Sie Kleingeld für den Busfahrer bereit, wenn Sie keine Karte haben."
+            ],
+            "hu": [
+              "Ellenőrizze a téli menetrendet, mert egyes járatok ritkábban közlekedhetnek.",
+              "A buszokon általában meleg van; öltözzön rétegesen a könnyű váltáshoz.",
+              "A szürkület korán kezdődik, használja ki a világos órákat 16:30-ig.",
+              "Készítsen elő aprópénzt a buszvezetőnek, ha nincs bérlete vagy kártyája."
+            ],
+            "ro": [
+              "Verificați orarul de iarnă, unele linii turistice pot circula mai rar.",
+              "În autobuze este de obicei cald; îmbrăcați-vă în straturi.",
+              "Amurgul începe devreme, profitați de orele cu lumină până la 16:30.",
+              "Pregătiți mărunțiș pentru șoferul de autobuz dacă nu aveți card."
+            ],
+            "en": [
+              "Check the winter timetable, as some tourist routes may run less frequently.",
+              "Buses are usually warm; dress in layers for easy adjustment.",
+              "Dusk begins early; make the most of the daylight hours until 16:30.",
+              "Have small change ready for the bus driver if you don't have a pass or card."
+            ]
+          }
+        }
       }
     }
   }

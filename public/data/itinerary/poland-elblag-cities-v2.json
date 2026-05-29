@@ -386,6 +386,206 @@
           "Most attractions in the Old Town are within easy walking distance.",
           "Check the opening hours of museums in advance as they can vary."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet das Markttor Schutz vor dem ersten Regenschauer. Die rekonstruierten Backsteinfassaden der Altstadt glänzen nass im fahlen Licht. Mittags verbringen Sie viel Zeit im trockenen Museum und in der gewaltigen Kathedrale. Nachmittags ist die Galeria EL ein idealer Ort für zeitgenössische Kunst unter festem Dach. Abends locken die gemütlichen Kellerrestaurants der Altstadt mit Wärme.",
+            "hu": "Reggel a piaci kapu boltívei alatt indul a nap, védve az esőtől. Az újjáépített óváros téglafalai sötétebb tónust kapnak a nedvességtől. Délben a múzeum és a katedrális belső terei nyújtanak menedéket. Délután a Galeria EL modern művészete vár egy egykori templom falai között. Estére a kivilágított főutca egyik éttermében pihenhetjük ki a vizes sétát.",
+            "ro": "Dimineața începe sub Poarta Pieței, oferind adăpost împotriva ploii. Fațadele de cărămidă ale orașului vechi strălucesc sub picăturile de apă. La prânz, interiorul muzeului și al catedralei oferă un refugiu uscat și cultural. După-amiaza, Galeria EL este locul perfect pentru artă modernă, ferit de intemperii. Seara se încheie într-un restaurant primitor din centru.",
+            "en": "Morning starts under the shelter of the Market Gate. The red bricks of the reconstructed Old Town glisten in the rain. At noon, the museum and cathedral provide extensive indoor exploration. In the afternoon, the Galeria EL art center offers a dry cultural escape in a former church. The evening is best spent in a cozy basement restaurant in the heart of Elbląg."
+          },
+          "stops": [
+            {
+              "name": "Elbląg Old Town & Market Gate",
+              "tip_5lang": {
+                "de": "Das Markttor bietet guten Unterstand bei plötzlichem Guss.",
+                "hu": "A kapu boltívei alatt megvárhatja az esőfelhők levonulását.",
+                "ro": "Arcadele porții oferă un adăpost bun în caz de ploaie torențială.",
+                "en": "The gate's arches provide excellent shelter during sudden downpours."
+              }
+            },
+            {
+              "name": "Archaeological and Historical Museum",
+              "tip_5lang": {
+                "de": "Perfekter Ort für eine lange, trockene Pause mit viel Geschichte.",
+                "hu": "Hosszú beltéri program, ideális a legesősebb órákra.",
+                "ro": "O opțiune excelentă pentru a sta la adăpost pe durata ploii.",
+                "en": "Extensive indoor exhibits make this perfect for rainy hours."
+              }
+            },
+            {
+              "name": "St. Nicholas Cathedral",
+              "tip_5lang": {
+                "de": "Die hohen Gewölbe sind trocken, aber in den Gängen ist es kühl.",
+                "hu": "A hatalmas belső tér száraz, de a kövezet hűvös lehet.",
+                "ro": "Interiorul vast este uscat, dar răcoros în zilele ploioase.",
+                "en": "The vast interior is dry, though it can feel chilly inside."
+              }
+            },
+            {
+              "name": "Art Centre Galeria EL",
+              "tip_5lang": {
+                "de": "Genießen Sie moderne Kunst im trockenen Kirchenschiff.",
+                "hu": "Modern művészet egy egykori templom száraz falai között.",
+                "ro": "Artă modernă într-o fostă biserică, complet ferită de ploaie.",
+                "en": "Contemporary art in a former church, fully protected from rain."
+              }
+            },
+            {
+              "name": "Walk along the Elbląg Canal",
+              "tip_5lang": {
+                "de": "Der Weg ist befestigt, aber ein großer Schirm ist hier Pflicht.",
+                "hu": "A part menti út kövezett, de ide már kell a nagy esernyő.",
+                "ro": "Drumul este pavat, dar o umbrelă mare este necesară aici.",
+                "en": "The path is paved, but a sturdy umbrella is essential here."
+              }
+            },
+            {
+              "name": "Bażantarnia Park",
+              "tip_5lang": {
+                "de": "Die dichten Baumkronen bieten nur begrenzten Schutz vor Regen.",
+                "hu": "A sűrű lombozat csak részben fogja fel az esővizet.",
+                "ro": "Coroanele copacilor oferă doar un adăpost limitat.",
+                "en": "The dense canopy provides only partial cover from the rain."
+              }
+            },
+            {
+              "name": "Dinner in the Old Town",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit Garderobe für nasse Mäntel.",
+                "hu": "Keressen olyan helyet, ahol van ruhatár a vizes kabátoknak.",
+                "ro": "Alegeți un restaurant cu garderobă pentru hainele umede.",
+                "en": "Choose a restaurant with a cloakroom for your wet coats."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da das Kopfsteinpflaster Pfützen bildet.",
+              "Nutzen Sie die Kathedrale und das Museum als strategische Regenpausen.",
+              "In der Altstadt gibt es viele Arkaden, unter denen man trocken gehen kann.",
+              "Ein Taschenschirm ist bei dem oft windigen Wetter in Elbing unverzichtbar."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, az óváros kövezetén megállhat a víz.",
+              "A katedrálist és a múzeumot használja stratégiai pihenőhelyként.",
+              "Az óvárosban több árkádos rész is segít szárazon maradni.",
+              "A szeles elblągi időjárás miatt az erős vázú esernyő ajánlott."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, pavajul vechi reține apa.",
+              "Folosiți catedrala și muzeul ca puncte strategice de odihnă.",
+              "Orașul vechi are porțiuni cu arcade unde puteți merge la uscat.",
+              "Din cauza vântului frecvent, o umbrelă rezistentă este necesară."
+            ],
+            "en": [
+              "Wear waterproof shoes as the old cobblestones tend to form puddles.",
+              "Use the cathedral and museum as strategic indoor resting points.",
+              "The Old Town features several arcades that help you stay dry while walking.",
+              "Due to the often windy weather, a sturdy umbrella is highly recommended."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens liegt oft Frost auf dem Backstein des Markttors, was der Altstadt einen herben Charme verleiht. Mittags wärmen Sie sich in der geheizten Kathedrale oder bei einer Tasse Tee am Marktplatz auf. Nachmittags sinkt die Sonne früh über dem Elbing-Kanal, die blaue Stunde färbt den Schnee auf den Wiesen blau. Abends leuchtet die Weihnachtsbeleuchtung in den Gassen der historischen Hansestadt.",
+            "hu": "Reggel zúzmara borítja a piaci kapu tégláit, ami különleges fényt ad az óvárosnak. Délben a katedrális csendje és a múzeum fűtött termei nyújtanak menedéket a hideg elől. Délután a nap korán bukik a horizont alá a csatorna felett, a Bażantarnia erdő pedig téli mesevilággá változik. Estére a kivilágított főutca hangulatos fényei mellett fejezhetjük be a napot.",
+            "ro": "Dimineața, chiciura acoperă cărămizile Porții Pieței, oferind orașului un farmec auster. La prânz, interiorul catedralei și muzeul încălzit oferă momente de respiro. După-amiaza, soarele apune devreme peste canal, transformând parcul Bażantarnia într-un peisaj de basm. Seara, luminile festive din centrul istoric creează o atmosferă caldă în ciuda gerului.",
+            "en": "Morning frost often covers the bricks of the Market Gate, adding a crisp charm to the Old Town. At noon, warm up in the heated museum or enjoy the quiet of the cathedral. In the afternoon, the sun sets early over the canal, and the Bażantarnia forest turns into a winter wonderland. By evening, the festive lights of the Hanseatic city create a magical atmosphere in the cold air."
+          },
+          "stops": [
+            {
+              "name": "Elbląg Old Town & Market Gate",
+              "tip_5lang": {
+                "de": "Vorsicht vor Glätte auf den historischen Pflastersteinen.",
+                "hu": "Vigyázat, a történelmi macskakövek jegesek és csúszósak lehetnek.",
+                "ro": "Atenție la polei pe pietrele cubice din zona istorică.",
+                "en": "Watch out for icy patches on the historic cobblestones."
+              }
+            },
+            {
+              "name": "Archaeological and Historical Museum",
+              "tip_5lang": {
+                "de": "Die Ausstellungsräume sind gut beheizt und bieten Komfort.",
+                "hu": "A kiállítótermek jól fűtöttek, ideális melegedőhely.",
+                "ro": "Sălile de expoziție sunt bine încălzite și confortabile.",
+                "en": "The exhibition halls are well-heated and very comfortable."
+              }
+            },
+            {
+              "name": "St. Nicholas Cathedral",
+              "tip_5lang": {
+                "de": "Ziehen Sie sich warm an, in der Kirche ist es sehr kalt.",
+                "hu": "Öltözzön rétegesen, a templom belső tere télen igen hideg.",
+                "ro": "Îmbrăcați-vă gros, interiorul bisericii este foarte rece iarna.",
+                "en": "Dress warmly as the cathedral interior can be very cold in winter."
+              }
+            },
+            {
+              "name": "Art Centre Galeria EL",
+              "tip_5lang": {
+                "de": "Das ungewöhnliche Ambiente wirkt im Winter besonders puristisch.",
+                "hu": "A különleges környezet télen még puritánabbnak hat.",
+                "ro": "Ambianța neobișnuită pare deosebit de puristă iarna.",
+                "en": "The unique atmosphere feels especially minimalist in winter."
+              }
+            },
+            {
+              "name": "Walk along the Elbląg Canal",
+              "tip_5lang": {
+                "de": "Der Wind vom Haff kann hier besonders schneidend sein.",
+                "hu": "A lagúna felől fújó szél itt különösen metsző lehet.",
+                "ro": "Vântul dinspre lagună poate fi tăios în această zonă.",
+                "en": "The wind from the lagoon can be particularly biting here."
+              }
+            },
+            {
+              "name": "Bażantarnia Park",
+              "tip_5lang": {
+                "de": "Die Waldwege können vereist sein; festes Schuhwerk ist nötig.",
+                "hu": "Az erdei utak jegesek lehetnek, túrabakancs ajánlott.",
+                "ro": "Potecile din pădure pot fi înghețate; purtați bocanci.",
+                "en": "Forest paths may be icy; sturdy winter boots are required."
+              }
+            },
+            {
+              "name": "Dinner in the Old Town",
+              "tip_5lang": {
+                "de": "Reservieren Sie einen Tisch nahe an der Heizung oder am Kamin.",
+                "hu": "Foglaljon asztalt a fűtőtest vagy a kandalló közelében.",
+                "ro": "Rezervați o masă lângă calorifer sau lângă șemineu.",
+                "en": "Book a table near the heater or the fireplace if available."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Dezember bereits gegen 15:30 Uhr unter.",
+              "Tragen Sie Thermounterwäsche gegen den kalten Wind vom Frischen Haff.",
+              "Kopfsteinpflaster in der Altstadt wird bei Frost extrem rutschig.",
+              "Viele Cafés bieten im Winter wärmenden 'Grzaniec' (Glühwein) an."
+            ],
+            "hu": [
+              "A nap decemberben már délután fél 4 körül lenyugszik.",
+              "A lagúna felől fújó hideg szél ellen réteges öltözet kell.",
+              "A macskakő fagyban rendkívül csúszóssá válik az óvárosban.",
+              "Sok kávézóban kapható ilyenkor melegítő 'Grzaniec' (forralt bor)."
+            ],
+            "ro": [
+              "Soarele apune deja în jurul orei 15:30 în luna decembrie.",
+              "Purtați haine termice împotriva vântului rece dinspre lagună.",
+              "Pietrele cubice devin extrem de alunecoase în caz de îngheț.",
+              "Multe cafenele servesc 'Grzaniec' (vin fiert) pentru încălzire."
+            ],
+            "en": [
+              "In December, the sun sets as early as 3:30 PM.",
+              "Wear thermal layers to protect against the cold lagoon winds.",
+              "Cobblestones in the Old Town become extremely slippery when frozen.",
+              "Many local cafes serve 'Grzaniec' (mulled wine) during winter."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -766,6 +966,206 @@
           "Bring a good lock to secure your bike at the attractions.",
           "Plan for extra time for unexpected stops and photo opportunities."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens erfordert das nasse Kopfsteinpflaster am Markttor volle Konzentration auf zwei Rädern. Mittags bietet die Kathedrale eine willkommene Pause zum Abtrocknen. Nachmittags führt die Tour am Elbing-Kanal entlang, wo der Asphalt griffiger ist als in der Altstadt. Der Bażantarnia-Park riecht bei Regen intensiv nach Wald, die Wege sind jedoch weich. Abends belohnt ein warmes Essen die nasse Fahrt.",
+            "hu": "Reggel a piaci kapu környéki vizes macskakő fokozott figyelmet igényel két keréken. Délben a székesegyház és a múzeum kínál száraz menedéket. Délután a csatorna menti kerékpározás során az aszfalt biztosabb tapadást ad, mint az óváros kövei. A Bażantarnia erdő ilyenkor illatos, de az utak sárosak lehetnek. Estére a folyóparti vacsora mellett szárítkozhatunk meg.",
+            "ro": "Dimineața, pavajul ud de lângă Poarta Pieței necesită atenție sporită pe bicicletă. La prânz, catedrala oferă o pauză binemeritată pentru a vă usca. După-amiaza, tura pe malul canalului beneficiază de asfalt, mai sigur decât piatra cubică. Parcul Bażantarnia are un miros intens de pădure, dar potecile sunt moi. Seara, o cină caldă răsplătește efortul prin ploaie.",
+            "en": "Morning ride near the Market Gate requires focus due to slippery wet cobblestones. At noon, the cathedral offers a perfect spot to dry off. In the afternoon, cycling along the canal provides better traction on asphalt compared to the Old Town. Bażantarnia Park smells wonderful in the rain, though forest paths can be muddy. A warm dinner by the river is the perfect reward for a wet ride."
+          },
+          "stops": [
+            {
+              "name": "Elbląg Old Town & Market Gate",
+              "tip_5lang": {
+                "de": "Vorsicht in Kurven; das nasse Pflaster ist extrem glatt.",
+                "hu": "Óvatosan a kanyarokban, a vizes macskakő nagyon csúszik.",
+                "ro": "Atenție în curbe; pavajul ud este extrem de alunecos.",
+                "en": "Careful in turns; the wet cobblestones are extremely slick."
+              }
+            },
+            {
+              "name": "St. Nicholas Cathedral",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter dem Vordach einer nahen Arkade ab.",
+                "hu": "Parkoljon le a közeli árkádok védelme alatt.",
+                "ro": "Parcați bicicleta sub protecția arcadelor din apropiere.",
+                "en": "Park your bike under the shelter of nearby arcades."
+              }
+            },
+            {
+              "name": "Archaeological and Historical Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch als längere Trockenpause.",
+                "hu": "Használja ki a múzeumi időt a ruházat szárítására.",
+                "ro": "Folosiți vizita la muzeu ca o pauză lungă pentru uscare.",
+                "en": "Use the museum visit as an extended break to dry off."
+              }
+            },
+            {
+              "name": "Bike ride along the Elbląg Canal",
+              "tip_5lang": {
+                "de": "Die Uferwege sind asphaltiert und auch bei Regen gut befahrbar.",
+                "hu": "A parti utak aszfaltozottak, esőben is jól tekerhetők.",
+                "ro": "Drumurile de pe mal sunt asfaltate și bune de parcurs pe ploaie.",
+                "en": "The riverside paths are paved and manageable even in the rain."
+              }
+            },
+            {
+              "name": "Bażantarnia Park",
+              "tip_5lang": {
+                "de": "Meiden Sie bei starkem Regen die unbefestigten Waldwege.",
+                "hu": "Heves esőzéskor kerülje a burkolatlan erdei ösvényeket.",
+                "ro": "Evitați potecile de pământ din pădure în caz de ploaie grea.",
+                "en": "Avoid unpaved forest trails during heavy rainfall."
+              }
+            },
+            {
+              "name": "Ruins of St. Mary's Church",
+              "tip_5lang": {
+                "de": "Kurzer Stopp; die Ruinen bieten kaum Schutz vor Güssen.",
+                "hu": "Rövid megálló, a romok nem védenek az esőtől.",
+                "ro": "Oprire scurtă; ruinele nu oferă protecție contra ploii.",
+                "en": "Short stop; the ruins offer little protection from rain."
+              }
+            },
+            {
+              "name": "Dinner with a River View",
+              "tip_5lang": {
+                "de": "Suchen Sie ein Lokal mit Innenplätzen direkt am Fenster.",
+                "hu": "Válasszon belső asztalt közvetlenül az ablak mellett.",
+                "ro": "Căutați un local cu locuri la interior chiar lângă fereastră.",
+                "en": "Look for a spot with indoor seating right by the window."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind bei dem nassen Untergrund in Elbing Pflicht.",
+              "Vermeiden Sie das Bremsen auf den Straßenbahnschienen bei Nässe.",
+              "Tragen Sie eine auffällige Regenjacke für bessere Sichtbarkeit.",
+              "Die Brücken über den Fluss können bei Regen sehr rutschig sein."
+            ],
+            "hu": [
+              "A sárvédő kötelező az elblągi vizes utakon.",
+              "Vizes időben kerülje a fékezést a villamossíneken.",
+              "Viseljen feltűnő esőkabátot a jobb láthatóság érdekében.",
+              "A folyó feletti hidak burkolata esőben nagyon csúszhat."
+            ],
+            "ro": [
+              "Aripile la bicicletă sunt obligatorii pe terenul umed.",
+              "Evitați frânarea pe șinele de tramvai când sunt ude.",
+              "Purtați o pelerină de ploaie stridentă pentru vizibilitate.",
+              "Podurile peste râu pot fi foarte alunecoase pe timp de ploaie."
+            ],
+            "en": [
+              "Mudguards are a must given the wet surfaces in Elbląg.",
+              "Avoid braking on tram tracks when they are wet.",
+              "Wear a high-visibility rain jacket for better safety.",
+              "The surfaces of the river bridges can be very slippery when wet."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens knirscht der Frost unter den Reifen, während Sie durch das Markttor fahren. Die klare Winterluft am Fluss ist erfrischend, erfordert aber gute Handschuhe. Mittags wärmt die Kathedrale den Geist, während die Finger im Museum auftauen. Nachmittags führt die Tour in den verschneiten Bażantarnia-Park, wo die Stille des Winters herrscht. Abends leuchten die Lichter der Altstadt den Weg zum verdienten Abendessen.",
+            "hu": "Reggel ropog a fagy a gumi alatt, ahogy áthajt a piaci kapun. A folyóparti tiszta téli levegő frissítő, de jó kesztyű nélkülözhetetlen. Délben a katedrális és a múzeum fűtött terei adják vissza az életkedvet. Délután a Bażantarnia park havas ösvényei igazi téli csendet árasztanak. Estére az óváros ünnepi fényei mutatják az utat a folyóparti étterem felé.",
+            "ro": "Dimineața, gerul scrâșnește sub roți la trecerea prin Poarta Pieței. Aerul curat de iarnă de lângă râu este revigorant, dar necesită mănuși bune. La prânz, degetele se dezgheață în muzeul încălzit. După-amiaza, tura continuă în parcul Bażantarnia înzăpezit, unde domnește liniștea iernii. Seara, luminile orașului vechi ghidează drumul spre cină.",
+            "en": "Morning frost crunches under your tires as you ride through the Market Gate. The crisp winter air by the river is refreshing but demands good gloves. At noon, your fingers thaw out in the heated museum. In the afternoon, the tour takes you to the snowy Bażantarnia Park, where winter silence prevails. By evening, the Old Town lights guide your way to a well-deserved dinner."
+          },
+          "stops": [
+            {
+              "name": "Elbląg Old Town & Market Gate",
+              "tip_5lang": {
+                "de": "Reifendruck leicht senken für mehr Grip auf Eis.",
+                "hu": "Engedjen kicsit a keréknyomásból a jobb tapadásért.",
+                "ro": "Reduceți ușor presiunea în pneuri pentru aderență pe gheață.",
+                "en": "Slightly lower tire pressure for better grip on icy ground."
+              }
+            },
+            {
+              "name": "St. Nicholas Cathedral",
+              "tip_5lang": {
+                "de": "Kurzer Stopp; das Metallschloss kann bei Frost klemmen.",
+                "hu": "Rövid megálló, a lakat belefagyhat a fémbe.",
+                "ro": "Oprire scurtă; lacătul metalic se poate bloca la ger.",
+                "en": "Short stop; metal locks can sometimes freeze up."
+              }
+            },
+            {
+              "name": "Archaeological and Historical Museum",
+              "tip_5lang": {
+                "de": "Parken Sie das Rad sicher und wärmen Sie sich lange auf.",
+                "hu": "Parkoljon le biztonságosan, és melegedjen fel alaposan.",
+                "ro": "Parcați bicicleta și încălziți-vă bine în interior.",
+                "en": "Park your bike securely and take plenty of time to warm up."
+              }
+            },
+            {
+              "name": "Bike ride along the Elbląg Canal",
+              "tip_5lang": {
+                "de": "Achten Sie auf gefrorene Pfützen am Wegrand.",
+                "hu": "Ügyeljen az út szélén megfagyott tócsákra.",
+                "ro": "Atenție la bălțile înghețate de pe marginea drumului.",
+                "en": "Watch out for frozen puddles along the path edges."
+              }
+            },
+            {
+              "name": "Bażantarnia Park",
+              "tip_5lang": {
+                "de": "Steile Abschnitte im Wald können extrem glatt sein.",
+                "hu": "Az erdei meredek szakaszok rendkívül csúszósak lehetnek.",
+                "ro": "Secțiunile abrupte din pădure pot fi extrem de alunecoase.",
+                "en": "Steep forest sections can be extremely slippery."
+              }
+            },
+            {
+              "name": "Ruins of St. Mary's Church",
+              "tip_5lang": {
+                "de": "Die Backsteinruinen wirken im Schnee besonders dramatisch.",
+                "hu": "A téglaromok a hóban különösen drámai látványt nyújtanak.",
+                "ro": "Ruinele de cărămidă par dramatice sub zăpadă.",
+                "en": "The brick ruins look particularly dramatic in the snow."
+              }
+            },
+            {
+              "name": "Dinner with a River View",
+              "tip_5lang": {
+                "de": "Prüfen Sie vor der Abfahrt die Lichtanlage Ihres Rades.",
+                "hu": "Indulás előtt ellenőrizze a kerékpár világítását.",
+                "ro": "Verificați sistemul de iluminare înainte de plecare.",
+                "en": "Check your bike lights thoroughly before heading out."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie im Winter unbedingt helle Vorder- und Rücklichter.",
+              "Halten Sie die Kette gut geölt gegen Streusalz und Feuchtigkeit.",
+              "Warme, winddichte Handschuhe sind in Elbing lebenswichtig.",
+              "Vermeiden Sie hektische Lenkbewegungen auf vereisten Flächen."
+            ],
+            "hu": [
+              "Télen feltétlenül használjon erős első és hátsó lámpákat.",
+              "A láncot tartsa olajozottan a sós hólé ellen.",
+              "A szélálló, meleg kesztyű Elblągban télen létfontosságú.",
+              "Kerülje a hirtelen kormánymozdulatokat a jeges felületeken."
+            ],
+            "ro": [
+              "Folosiți neapărat lumini puternice pe față și pe spate.",
+              "Mențineți lanțul bine uns împotriva sării și umidității.",
+              "Mănușile groase și rezistente la vânt sunt vitale iarna.",
+              "Evitați mișcările bruște de ghidon pe suprafețele înghețate."
+            ],
+            "en": [
+              "Always use bright front and rear lights during winter.",
+              "Keep your chain well-oiled to protect against road salt.",
+              "Warm, windproof gloves are essential in Elbląg winter.",
+              "Avoid sudden steering movements on icy or frozen patches."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1122,6 +1522,188 @@
           "A GPS is helpful for navigating to attractions outside the center.",
           "Refuel outside the city center where prices are usually lower."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens parken Sie bequem nahe der Altstadt, während der Regen gegen das Autodach prasselt. Mittags sind die Wege zwischen Kathedrale und Museum kurz, was Sie weitgehend trocken hält. Nachmittags führt die Fahrt zum Elbing-Kanal, wo Sie die Technik aus dem Fenster beobachten können. Der Bażantarnia-Park bietet auch vom Parkplatz aus schöne Ausblicke ins Grüne. Abends kehren Sie bequem zum Abendessen zurück.",
+            "hu": "Reggel kényelmesen parkolhat az óváros mellett, miközben az eső a kocsi tetején kopog. Délben a katedrális és a múzeum közötti rövid távokat szárazon teheti meg. Délután a csatornához autózva az ablakból is megcsodálhatja az ipari műemlékeket. A Bażantarnia park a parkolóból is szép zöld kilátást nyújt. Estére kényelmesen érkezhet az óvárosi vacsorahelyszínre.",
+            "ro": "Dimineața parcați confortabil lângă centrul vechi în timp ce ploaia bate în plafonul mașinii. La prânz, distanțele scurte între catedrală și muzeu vă mențin uscat. După-amiaza, drumul spre canal vă permite să observați peisajul din confortul vehiculului. Parcul Bażantarnia oferă vederi frumoase chiar și din parcare. Seara, reveniți ușor în centru pentru cină.",
+            "en": "Morning starts with convenient parking near the Old Town as rain taps on the car roof. At noon, the short distances between the cathedral and museum keep you mostly dry. In the afternoon, driving to the canal allows you to see the sights from the comfort of your seat. Bażantarnia Park offers lush views even from the parking area. Evening access to the Old Town for dinner is easy and dry."
+          },
+          "stops": [
+            {
+              "name": "Old Town Car Park (Cluster A)",
+              "tip_5lang": {
+                "de": "Zahlen Sie die Parkgebühr am Automaten per App.",
+                "hu": "Fizesse a parkolást kényelmesen, mobilapplikációval.",
+                "ro": "Plătiți parcarea ușor prin intermediul aplicației mobile.",
+                "en": "Pay for parking conveniently using a mobile app."
+              }
+            },
+            {
+              "name": "St. Nicholas Cathedral & Old Town",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Haupteingang für den kürzesten Fußweg.",
+                "hu": "Használja a főbejáratot a legrövidebb gyalogútért.",
+                "ro": "Folosiți intrarea principală pentru cel mai scurt traseu.",
+                "en": "Use the main entrance for the shortest walk from the car."
+              }
+            },
+            {
+              "name": "Archaeological and Historical Museum",
+              "tip_5lang": {
+                "de": "Parken Sie direkt davor, falls Plätze frei sind.",
+                "hu": "Parkoljon közvetlenül előtte, ha van szabad hely.",
+                "ro": "Parcați chiar în față dacă găsiți locuri libere.",
+                "en": "Park right in front if spaces are available."
+              }
+            },
+            {
+              "name": "Drive to Elbląg Canal (Cluster B)",
+              "tip_5lang": {
+                "de": "Gute Sicht auf die Hebewerke auch bei Regen.",
+                "hu": "Az emelőművekre esőben is jó rálátás nyílik a kocsiból.",
+                "ro": "Vedere bună asupra mecanismelor chiar și pe ploaie.",
+                "en": "Good view of the canal machinery even in the rain."
+              }
+            },
+            {
+              "name": "Bażantarnia Park (Cluster C)",
+              "tip_5lang": {
+                "de": "Einige Aussichtspunkte sind direkt mit dem PKW erreichbar.",
+                "hu": "Néhány kilátópont közvetlenül autóval is megközelíthető.",
+                "ro": "Unele puncte de belvedere sunt accesibile direct cu mașina.",
+                "en": "Some viewpoints are directly accessible by car."
+              }
+            },
+            {
+              "name": "Dinner in the Old Town",
+              "tip_5lang": {
+                "de": "Bewachte Parkplätze in der Nähe bieten zusätzliche Sicherheit.",
+                "hu": "A közeli őrzött parkolók extra biztonságot adnak.",
+                "ro": "Parcările păzite din apropiere oferă siguranță sporită.",
+                "en": "Nearby guarded parking lots offer extra security."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sichtweite kann bei starkem Regen in Küstennähe sinken.",
+              "Nutzen Sie die Parkhäuser, um trockenen Fußes ins Zentrum zu kommen.",
+              "Vorsicht vor tiefen Pfützen auf den Nebenstraßen am Kanal.",
+              "Achten Sie auf Fußgänger, die unter Regenschirmen schlechter sehen."
+            ],
+            "hu": [
+              "Heves esőben a látótávolság jelentősen lecsökkenhet.",
+              "Használja a parkolóházakat, hogy száraz lábbal érjen a központba.",
+              "Vigyázzon a mély tócsákra a csatorna menti mellékutakon.",
+              "Figyeljen a gyalogosokra, az esernyők korlátozzák a kilátást."
+            ],
+            "ro": [
+              "Vizibilitatea poate scădea semnificativ în caz de ploaie grea.",
+              "Folosiți parcările etajate pentru a ajunge uscat în centru.",
+              "Atenție la bălțile adânci pe drumurile secundare de lângă canal.",
+              "Fiți atenți la pietonii a căror vizibilitate e limitată de umbrele."
+            ],
+            "en": [
+              "Visibility can drop significantly near the coast during heavy rain.",
+              "Use parking garages to reach the city center with dry feet.",
+              "Watch out for deep puddles on side roads near the canal.",
+              "Be extra careful with pedestrians whose visibility is limited by umbrellas."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens befreien Sie das Auto von Frost, bevor Sie zum historischen Markttor fahren. Die Sitzheizung macht die Fahrt durch das winterliche Elbing angenehm. Mittags bieten die Kathedrale und das Museum warme Rückzugsorte. Nachmittags führt die Fahrt in den Bażantarnia-Park, wo der Schnee die Nadelbäume schwer beugt. Abends parken Sie direkt in der beleuchteten Altstadt für einen kurzen Weg zum warmen Restaurant.",
+            "hu": "Reggel le kell kaparni a jeget, mielőtt az óváros felé indulna. Az ülésfűtés kellemessé teszi a téli Elbląg bejárását. Délben a katedrális és a múzeum fűtött termei várják. Délután a Bażantarnia parkba autózva gyönyörködhet a hótól roskadozó fenyőkben. Estére közvetlenül az óvárosban parkolhat, így csak pár lépés a fűtött étterem.",
+            "ro": "Dimineața trebuie să curățați gheața înainte de a porni spre orașul vechi. Încălzirea în scaune face parcurgerea orașului foarte plăcută. La prânz, catedrala și muzeul oferă refugii calde. După-amiaza, drumul spre parcul Bażantarnia vă arată brazi încărcați de zăpadă. Seara, parcați chiar în centru pentru un acces rapid la restaurantul călduros.",
+            "en": "Morning starts with scraping frost before heading to the historic Market Gate. Seat heating makes the drive through winter Elbląg very pleasant. At noon, the cathedral and museum offer warm retreats. In the afternoon, a drive to Bażantarnia Park reveals evergreens heavy with snow. In the evening, park right in the Old Town for a short walk to a warm restaurant."
+          },
+          "stops": [
+            {
+              "name": "Old Town Car Park (Cluster A)",
+              "tip_5lang": {
+                "de": "Parkplätze werden im Winter oft geräumt und gestreut.",
+                "hu": "A parkolókat télen rendszeresen takarítják és sózzák.",
+                "ro": "Parcările sunt de obicei deszăpezite și date cu sare iarna.",
+                "en": "Parking lots are usually cleared of snow and salted in winter."
+              }
+            },
+            {
+              "name": "St. Nicholas Cathedral & Old Town",
+              "tip_5lang": {
+                "de": "Das Auto bleibt warm, während Sie die Kirche kurz besichtigen.",
+                "hu": "Az autó meleg marad, amíg Ön gyorsan megnézi a templomot.",
+                "ro": "Mașina rămâne caldă în timp ce vizitați rapid biserica.",
+                "en": "The car stays warm while you take a quick look at the church."
+              }
+            },
+            {
+              "name": "Archaeological and Historical Museum",
+              "tip_5lang": {
+                "de": "Prüfen Sie, ob der Parkplatz vor dem Museum geräumt ist.",
+                "hu": "Ellenőrizze, hogy a múzeum előtti parkolót letakarították-e.",
+                "ro": "Verificați dacă parcarea din fața muzeului este deszăpezită.",
+                "en": "Check if the parking area in front of the museum is cleared."
+              }
+            },
+            {
+              "name": "Drive to Elbląg Canal (Cluster B)",
+              "tip_5lang": {
+                "de": "Die Straßen zum Kanal können bei Frost tückisch sein.",
+                "hu": "A csatornához vezető utak fagyban trükkösek lehetnek.",
+                "ro": "Drumurile spre canal pot fi înșelătoare în caz de îngheț.",
+                "en": "Roads leading to the canal can be tricky when frozen."
+              }
+            },
+            {
+              "name": "Bażantarnia Park (Cluster C)",
+              "tip_5lang": {
+                "de": "Winterreifen sind für die Hügel im Park unbedingt nötig.",
+                "hu": "A park dombjaihoz a téli gumi elengedhetetlen.",
+                "ro": "Anvelopele de iarnă sunt obligatorii pentru dealurile din parc.",
+                "en": "Winter tires are essential for the hills inside the park."
+              }
+            },
+            {
+              "name": "Dinner in the Old Town",
+              "tip_5lang": {
+                "de": "Lassen Sie keine Wertsachen sichtbar im Auto liegen.",
+                "hu": "Ne hagyjon értéktárgyat látható helyen az autóban.",
+                "ro": "Nu lăsați obiecte de valoare la vedere în mașină.",
+                "en": "Do not leave any valuables visible inside the car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Führen Sie immer einen Eiskratzer und Frostschutzmittel mit.",
+              "Die Straßen in der Altstadt können unter dem Schnee vereist sein.",
+              "Achten Sie auf den Batteriezustand bei extremer Kälte.",
+              "Parken Sie vorzugsweise in hell beleuchteten Bereichen."
+            ],
+            "hu": [
+              "Mindig tartson jégkaparót és fagyállót az autóban.",
+              "Az óvárosi utcák a hó alatt jegesek maradhatnak.",
+              "Figyeljen az akkumulátor állapotára a nagy hidegben.",
+              "Lehetőleg jól kivilágított helyen parkoljon le."
+            ],
+            "ro": [
+              "Aveți întotdeauna o răzuitoare de gheață și antigel în mașină.",
+              "Străzile din centrul vechi pot rămâne înghețate sub zăpadă.",
+              "Atenție la starea bateriei în caz de ger extrem.",
+              "Parcați de preferință în zone bine iluminate."
+            ],
+            "en": [
+              "Always carry an ice scraper and de-icer in your car.",
+              "Old Town streets can remain icy underneath the snow layer.",
+              "Check your battery health during extreme cold spells.",
+              "Prefer parking in well-lit areas for better safety."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1478,6 +2060,188 @@
           "Be aware that buses can be crowded during peak hours.",
           "Always validate your ticket to avoid a fine."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens nutzen Sie die Straßenbahn, um trocken ins Zentrum von Elbing zu kommen. Das Markttor erreichen Sie mit nur wenigen Schritten von der Haltestelle. Mittags bieten die Museen und Kirchen lange Aufenthalte im Trockenen. Nachmittags bringt Sie der Bus zum Bażantarnia-Park, wo Sie die Natur unter dem Schutz der Bäume genießen. Abends kehren Sie mit der Bahn zum Abendessen in die beleuchtete Altstadt zurück.",
+            "hu": "Reggel villamossal érkezhet szárazon Elbląg központjába. A piaci kapu csak pár lépés a megállótól. Délben a múzeumok és templomok hosszú, beltéri programot kínálnak. Délután busz viszi a Bażantarnia parkba, ahol a fák alatt sétálhat az esőben. Estére a tömegközlekedés visszarepíti az óvárosba, ahol egy hangulatos vacsorával zárhatja a napot.",
+            "ro": "Dimineața folosiți tramvaiul pentru a ajunge uscat în centrul orașului. Poarta Pieței este la doar câțiva pași de stație. La prânz, muzeele și bisericile oferă vizite lungi la adăpost. După-amiaza, autobuzul vă duce la parcul Bażantarnia, unde puteți merge pe sub copaci. Seara, transportul public vă readuce în centrul istoric pentru cină.",
+            "en": "In the morning, use the tram to reach Elbląg center while staying dry. The Market Gate is just a few steps from the stop. At noon, museums and churches offer long indoor visits. In the afternoon, take a bus to Bażantarnia Park to enjoy nature under the leafy canopy. By evening, transit brings you back to the illuminated Old Town for a cozy dinner."
+          },
+          "stops": [
+            {
+              "name": "Central Stop (Cluster A)",
+              "tip_5lang": {
+                "de": "Überdachte Haltestellen bieten Schutz beim Warten.",
+                "hu": "A fedett megállók védelmet nyújtanak várakozás közben.",
+                "ro": "Stațiile acoperite oferă protecție în timpul așteptării.",
+                "en": "Covered transit stops provide shelter while waiting."
+              }
+            },
+            {
+              "name": "Elbląg Old Town & Market Gate",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg von der Straßenbahn; Schirm bereithalten.",
+                "hu": "Rövid séta a villamostól, tartsa készenlétben az esernyőt.",
+                "ro": "Drum scurt de la tramvai; țineți umbrela la îndemână.",
+                "en": "Short walk from the tram; keep your umbrella ready."
+              }
+            },
+            {
+              "name": "St. Nicholas Cathedral",
+              "tip_5lang": {
+                "de": "Die Kathedrale ist ein idealer Ort, um einen Guss abzuwarten.",
+                "hu": "A székesegyház ideális hely egy zápor kivárásához.",
+                "ro": "Catedrala este un loc ideal pentru a aștepta trecerea ploii.",
+                "en": "The cathedral is a perfect place to wait out a shower."
+              }
+            },
+            {
+              "name": "Trip to Bażantarnia Park (Cluster B)",
+              "tip_5lang": {
+                "de": "Der Bus hält direkt am Haupteingang des Parks.",
+                "hu": "A busz közvetlenül a park főbejáratánál áll meg.",
+                "ro": "Autobuzul oprește chiar la intrarea principală a parcului.",
+                "en": "The bus stops right at the main entrance of the park."
+              }
+            },
+            {
+              "name": "Art Centre Galeria EL",
+              "tip_5lang": {
+                "de": "Perfektes Timing: Drinnen Kunst schauen, während es regnet.",
+                "hu": "Tökéletes időzítés: bent nézhet művészetet, amíg esik.",
+                "ro": "Sincronizare perfectă: vizitați galeria în timp ce plouă.",
+                "en": "Perfect timing: enjoy art indoors while it rains outside."
+              }
+            },
+            {
+              "name": "Dinner in the Old Town",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Abfahrtszeiten für die Rückfahrt vorab.",
+                "hu": "Előre ellenőrizze a visszautazáshoz a menetrendet.",
+                "ro": "Verificați din timp orarul pentru drumul de întoarcere.",
+                "en": "Check the return schedule in advance to avoid waiting."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie Fahrkarten bequem am Automaten oder per App.",
+              "Die Straßenbahnen in Elbing sind zuverlässig, auch bei Regen.",
+              "Halten Sie an den Haltestellen Abstand zur Fahrbahnkante (Spritzwasser).",
+              "Ein kleiner Taschenschirm passt in jede Tasche für den Umstieg."
+            ],
+            "hu": [
+              "Vásároljon jegyet kényelmesen az automatánál vagy appon.",
+              "Az elblągi villamosok esőben is megbízhatóan járnak.",
+              "A megállóban álljon távolabb az úttest szélétől a felverődő víz miatt.",
+              "Egy kis összecsukható esernyő jól jön az átszállásoknál."
+            ],
+            "ro": [
+              "Cumpărați bilete ușor de la automat sau prin aplicație.",
+              "Tramvaiele din Elbląg sunt fiabile chiar și pe ploaie.",
+              "Stați mai departe de marginea drumului în stații (stropi de apă).",
+              "O umbrelă pliabilă este foarte utilă pentru momentele de transfer."
+            ],
+            "en": [
+              "Purchase tickets conveniently at machines or via app.",
+              "Trams in Elbląg are reliable even during rainy weather.",
+              "Stay back from the curb at stops to avoid splashes from cars.",
+              "A small foldable umbrella is handy during transit changes."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens bringen beheizte Straßenbahnen Sie direkt in das Herz der Altstadt. Der Frost am Markttor wirkt majestätisch. Mittags bieten die Kathedrale und das Museum Wärme und Kultur. Nachmittags fahren Sie mit dem Bus zum Bażantarnia-Park, um den frisch gefallenen Schnee auf den Hügeln zu bewundern. Abends leuchten die Lichter der Hansestadt den Weg zur Haltestelle nach einem gemütlichen Abendessen.",
+            "hu": "Reggel fűtött villamosok repítik az óváros szívébe. A zúzmarás piaci kapu fenséges látványt nyújt. Délben a katedrális és a múzeum kínál melegséget és kultúrát. Délután busszal utazhat a Bażantarnia parkba, hogy megcsodálja a dombokat borító friss havat. Estére a hanzaváros fényei kísérik el a megállóig a hangulatos vacsora után.",
+            "ro": "Dimineața, tramvaiele încălzite vă aduc direct în inima centrului vechi. Poarta Pieței înghețată arată maiestuos. La prânz, catedrala și muzeul oferă căldură și cultură. După-amiaza, luați autobuzul spre parcul Bażantarnia pentru a vedea zăpada proaspătă de pe dealuri. Seara, luminile festive vă ghidează spre stație după o cină reușită.",
+            "en": "Morning starts with heated trams taking you straight to the Old Town. The frost on the Market Gate looks majestic. At noon, the cathedral and museum provide warmth and local history. In the afternoon, take a bus to Bażantarnia Park to admire the fresh snow on the hills. By evening, the Hanseatic city lights guide your way to the stop after a cozy dinner."
+          },
+          "stops": [
+            {
+              "name": "Central Stop (Cluster A)",
+              "tip_5lang": {
+                "de": "Warten Sie im Windschatten des Wartehäuschens.",
+                "hu": "Várjon a megálló szélvédett belső részén.",
+                "ro": "Așteptați în zona ferită de vânt a stației.",
+                "en": "Wait inside the sheltered part of the transit stop."
+              }
+            },
+            {
+              "name": "Elbląg Old Town & Market Gate",
+              "tip_5lang": {
+                "de": "Vorsicht beim Aussteigen auf glatten Haltestellen.",
+                "hu": "Vigyázzon leszálláskor a csúszós megállókban.",
+                "ro": "Atenție la coborâre în stațiile care pot fi alunecoase.",
+                "en": "Be careful when stepping off onto slippery platforms."
+              }
+            },
+            {
+              "name": "St. Nicholas Cathedral",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche nur kurz, um nicht auszukühlen.",
+                "hu": "Csak rövid időre menjen be, hogy ne fázzon meg.",
+                "ro": "Vizitați biserica doar scurt timp pentru a nu vă răci.",
+                "en": "Keep your cathedral visit brief to avoid getting too cold."
+              }
+            },
+            {
+              "name": "Trip to Bażantarnia Park (Cluster B)",
+              "tip_5lang": {
+                "de": "Busse fahren im Winter nach dem Standardfahrplan.",
+                "hu": "A buszok télen is a szokásos menetrend szerint járnak.",
+                "ro": "Autobuzele circulă după orarul standard și iarna.",
+                "en": "Buses follow the standard schedule even in winter."
+              }
+            },
+            {
+              "name": "Art Centre Galeria EL",
+              "tip_5lang": {
+                "de": "Ein moderner, beheizter Ort für eine Pause.",
+                "hu": "Modern, fűtött helyszín egy kis pihenőhöz.",
+                "ro": "Un spațiu modern și încălzit pentru o pauză culturală.",
+                "en": "A modern, heated venue for a cultural break."
+              }
+            },
+            {
+              "name": "Dinner in the Old Town",
+              "tip_5lang": {
+                "de": "Haltestellen in der Altstadt sind abends gut beleuchtet.",
+                "hu": "Az óvárosi megállók este jól kivilágítottak.",
+                "ro": "Stațiile din centrul vechi sunt bine iluminate seara.",
+                "en": "Old Town transit stops are well-lit during the evening."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Straßenbahnen sind im Winter oft wärmer als Busse.",
+              "Achten Sie auf vereiste Stufen beim Ein- und Aussteigen.",
+              "Nutzen Sie die App für Echtzeit-Abfahrtszeiten in der Kälte.",
+              "Tragen Sie warme Schuhe, da das Warten an Haltestellen kühlt."
+            ],
+            "hu": [
+              "A villamosok télen gyakran melegebbek, mint a buszok.",
+              "Ügyeljen a jeges lépcsőkre le- és felszálláskor.",
+              "Használjon appot a valós idejű induláshoz, hogy ne várjon a hidegben.",
+              "Viseljen meleg cipőt, a megállóban állva gyorsan lehűl a láb."
+            ],
+            "ro": [
+              "Tramvaiele sunt adesea mai calde decât autobuzele iarna.",
+              "Atenție la treptele înghețate la urcare și coborâre.",
+              "Folosiți aplicația pentru timpii de plecare reali pentru a nu sta în frig.",
+              "Purtați încălțăminte groasă, așteptarea în stație răcește picioarele."
+            ],
+            "en": [
+              "Trams are often warmer than buses during the winter months.",
+              "Watch out for icy steps when getting on or off vehicles.",
+              "Use a transit app for real-time departures to minimize waiting in the cold.",
+              "Wear warm boots as standing at stops can quickly chill your feet."
+            ]
+          }
+        }
       }
     }
   }

@@ -362,6 +362,196 @@
           "Bring a reusable water bottle to stay hydrated.",
           "Most central sights are within easy walking distance of each other."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag am regnerischen Friedensplatz, wo die Cafés Zuflucht bieten. Mittags finden Sie in der St.-Albert-Kirche und der Evangelischen Kirche trockene Orte der Besinnung. Der Nachmittag gehört dem Museum der Eisenhütte, dem idealen Rückzugsort vor dem Wetter. Den Abend lassen wir im Stadtpark ausklingen, wo der Regen eine mystische Atmosphäre schafft.",
+            "hu": "A reggelt a szemerkélő esőben a Szabadság téren kezdjük, ahol a közeli kávézók nyújtanak menedéket. Délben a Szent Albert-templom és az Evangélikus templom belső terei kínálnak száraz pihenőt. A délutánt a vasmű múzeumában töltjük, ami tökéletes választás esős időben. Este a Forest Park párás ösvényein tehetünk egy frissítő sétát, mielőtt visszatérnénk a központba.",
+            "ro": "Începeți dimineața în Piața Libertății, unde cafenelele oferă adăpost împotriva ploii. La prânz, vizitați Biserica Sf. Albert și Biserica Evanghelică pentru un moment de liniște la adăpost. După-amiaza este dedicată Muzeului Combinatului Siderurgic, locul ideal pentru a scăpa de vremea rea. Seara, o plimbare prin parcul Forest Park oferă o atmosferă mistică sub picăturile de ploaie.",
+            "en": "Start your morning at Peace Square, where local cafes provide a dry refuge from the drizzle. At midday, find shelter within the peaceful interiors of St. Albert's and the Evangelical Church. Spend your afternoon at the Museum of Ironworks, the perfect indoor escape. In the evening, the Forest Park offers a refreshing, misty atmosphere for a final walk."
+          },
+          "stops": [
+            {
+              "name": "Peace Square (náměstí Svobody)",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden und Cafés am Platz, um trocken zu bleiben.",
+                "hu": "Használja a tér körüli árkádokat és kávézókat menedékként.",
+                "ro": "Folosiți arcadele și cafenelele din piață pentru a rămâne uscat.",
+                "en": "Use the arcades and cafes around the square to stay dry."
+              }
+            },
+            {
+              "name": "St. Albert's Church",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um den stärksten Regen abzuwarten.",
+                "hu": "Csendes hely a hevesebb esőzés megvárására.",
+                "ro": "Un loc liniștit pentru a aștepta trecerea ploii torențiale.",
+                "en": "A quiet place to wait out the heaviest rain."
+              }
+            },
+            {
+              "name": "Evangelical Church",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur, während es draußen regnet.",
+                "hu": "Csodálja meg az építészetet, miközben kint esik.",
+                "ro": "Admirați arhitectura în timp ce afară plouă.",
+                "en": "Admire the architecture while it rains outside."
+              }
+            },
+            {
+              "name": "Ironworks Monument",
+              "tip_5lang": {
+                "de": "Kurzer Stopp; die Metalloberflächen können bei Nässe glatt sein.",
+                "hu": "Rövid megálló; a fémfelületek nedvesen csúszhatnak.",
+                "ro": "Oprire scurtă; suprafețele metalice pot fi alunecoase când sunt ude.",
+                "en": "Quick stop; metal surfaces can be slippery when wet."
+              }
+            },
+            {
+              "name": "Museum of Ironworks",
+              "tip_5lang": {
+                "de": "Hervorragendes Schlechtwetterprogramm mit viel Indoor-Ausstellung.",
+                "hu": "Kiváló rosszidős program sok beltéri kiállítással.",
+                "ro": "Program excelent pentru vreme rea, cu multe expoziții interioare.",
+                "en": "Excellent bad-weather activity with plenty of indoor exhibits."
+              }
+            },
+            {
+              "name": "Forest Park",
+              "tip_5lang": {
+                "de": "Die asphaltierten Wege sind auch bei Regen gut begehbar.",
+                "hu": "Az aszfaltozott utak esőben is jól járhatóak.",
+                "ro": "Potecile asfaltate sunt ușor de parcurs chiar și pe ploaie.",
+                "en": "The paved paths are easily walkable even in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da einige Nebenwege matschig sein können.",
+              "Ein stabiler Regenschirm ist wegen des Windes in den Freiflächen ratsam.",
+              "Das Eisenhüttenmuseum bietet die längste überdachte Aufenthaltsdauer.",
+              "Nutzen Sie die kurzen Abstände zwischen den Kirchen für Sprints.",
+              "Viele Cafés am Friedensplatz haben Schirmständer im Eingangsbereich."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert a mellékutak sárosak lehetnek.",
+              "A nyitott tereken fújó szél miatt erős esernyő ajánlott.",
+              "A vasmű múzeuma kínálja a leghosszabb fedett programot.",
+              "Használja ki a templomok közötti rövid távolságokat a gyors haladáshoz.",
+              "A Szabadság téri kávézók többségében van esernyőtartó."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, deoarece drumurile secundare pot fi noroioase.",
+              "Se recomandă o umbrelă rezistentă din cauza vântului din spațiile deschise.",
+              "Muzeul Combinatului oferă cea mai lungă durată de ședere la adăpost.",
+              "Profitați de distanțele scurte dintre biserici pentru a înainta rapid.",
+              "Multe cafenele din Piața Libertății au suporturi pentru umbrele la intrare."
+            ],
+            "en": [
+              "Wear waterproof shoes as some side paths can become muddy.",
+              "A sturdy umbrella is recommended due to wind in open areas.",
+              "The Ironworks Museum offers the longest indoor stay.",
+              "Take advantage of the short distances between churches to move quickly.",
+              "Most cafes on Peace Square have umbrella stands at the entrance."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie den winterlichen Friedensplatz mit frostiger Luft am Morgen. Mittags wärmen wir uns in den prächtigen Kirchen der Stadt auf. Der Nachmittag im Museum der Eisenhütte bietet Schutz vor der Kälte und tiefe Einblicke in die Industriegeschichte. Zum Sonnenuntergang gegen 16 Uhr spazieren wir durch den verschneiten Waldpark, bevor wir uns in ein gemütliches Restaurant zurückziehen.",
+            "hu": "Kezdje a reggelt a fagyos Szabadság téren, ahol a friss levegő ébresztőleg hat. Délben a város templomaiban találunk lelki és fizikai melegséget. A délutáni órákat a vasmű múzeumának fűtött termeiben töltjük, megismerve a környék múltját. A korai, 16 óra körüli naplementét a havas Forest Park fái között csodálhatjuk meg, majd egy meleg vacsorával zárjuk a napot.",
+            "ro": "Experimentați Piața Libertății înghețată în aerul proaspăt al dimineții. La prânz, ne încălzim în bisericile splendide ale orașului. După-amiaza la Muzeul Combinatului oferă protecție împotriva frigului și o incursiune în istoria industrială. La apusul soarelui, în jurul orei 16:00, ne plimbăm prin parcul înzăpezit, înainte de a ne retrage la un restaurant primitor.",
+            "en": "Experience a frosty morning at Peace Square. At midday, warm up inside the city's magnificent churches. Spend the afternoon in the heated halls of the Ironworks Museum, learning about the local heritage. Around the 4 PM sunset, enjoy a walk through the snowy Forest Park before heading to a cozy restaurant for dinner."
+          },
+          "stops": [
+            {
+              "name": "Peace Square (náměstí Svobody)",
+              "tip_5lang": {
+                "de": "Vorsicht vor glatten Stellen auf dem Pflaster.",
+                "hu": "Vigyázat, a tér burkolata jegesedhet.",
+                "ro": "Atenție la porțiunile alunecoase de pe pavaj.",
+                "en": "Watch out for icy patches on the pavement."
+              }
+            },
+            {
+              "name": "St. Albert's Church",
+              "tip_5lang": {
+                "de": "Die dicken Mauern bieten Schutz vor dem schneidenden Wind.",
+                "hu": "A vastag falak védelmet nyújtanak a metsző szél ellen.",
+                "ro": "Zidurile groase oferă protecție împotriva vântului tăios.",
+                "en": "The thick walls provide protection from the biting wind."
+              }
+            },
+            {
+              "name": "Evangelical Church",
+              "tip_5lang": {
+                "de": "Ein Ort der Stille, ideal zum Aufwärmen zwischen den Spaziergängen.",
+                "hu": "A csend szigete, ideális átmelegedni a séták között.",
+                "ro": "Un loc de liniște, ideal pentru a vă încălzi între plimbări.",
+                "en": "A place of silence, ideal for warming up between walks."
+              }
+            },
+            {
+              "name": "Ironworks Monument",
+              "tip_5lang": {
+                "de": "Das Metall wirkt im Schnee besonders fotogen.",
+                "hu": "A fém emlékmű a hóban különösen jól mutat a fotókon.",
+                "ro": "Monumentul metalic arată deosebit de bine în fotografii pe zăpadă.",
+                "en": "The metal monument looks particularly photogenic in the snow."
+              }
+            },
+            {
+              "name": "Museum of Ironworks",
+              "tip_5lang": {
+                "de": "Genießen Sie die beheizten Ausstellungsräume.",
+                "hu": "Élvezze a fűtött kiállítótereket.",
+                "ro": "Bucurați-vă de sălile de expoziție încălzite.",
+                "en": "Enjoy the heated exhibition rooms."
+              }
+            },
+            {
+              "name": "Forest Park",
+              "tip_5lang": {
+                "de": "Früher Sonnenuntergang beachten; Wege können verschneit sein.",
+                "hu": "Ügyeljen a korai naplementére; az utak havasak lehetnek.",
+                "ro": "Atenție la apusul timpuriu; potecile pot fi înzăpezite.",
+                "en": "Note the early sunset; paths may be covered in snow."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie warme Thermokleidung und isolierte Schuhe.",
+              "Der Sonnenuntergang ist im Winter bereits gegen 16:00 Uhr.",
+              "Kirchen sind oft kühler als Museen, behalten Sie die Jacke an.",
+              "Der Waldpark ist bei Neuschnee besonders reizvoll.",
+              "Heiße Getränke gibt es in den Cafés rund um den Friedensplatz."
+            ],
+            "hu": [
+              "Viseljen meleg termoruha-rétegeket és hőszigetelt cipőt.",
+              "A naplemente télen már délután 4 óra körül bekövetkezik.",
+              "A templomok hűvösebbek lehetnek a múzeumnál, tartsa magán a kabátot.",
+              "A Forest Park friss hóban különleges látványt nyújt.",
+              "Forró italok a Szabadság tér körüli kávézókban kaphatók."
+            ],
+            "ro": [
+              "Purtați haine termice groase și încălțăminte izolată.",
+              "Apusul soarelui are loc deja în jurul orei 16:00 iarna.",
+              "Bisericile sunt adesea mai reci decât muzeele, păstrați haina pe dvs.",
+              "Parcul Forest Park este deosebit de frumos când ninge proaspăt.",
+              "Băuturi calde se găsesc în cafenelele din jurul Pieței Libertății."
+            ],
+            "en": [
+              "Wear warm thermal layers and insulated shoes.",
+              "Sunset in winter is as early as 4:00 PM.",
+              "Churches are often cooler than museums, keep your jacket on.",
+              "Forest Park is particularly charming with fresh snowfall.",
+              "Hot drinks are available in cafes around Peace Square."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -682,6 +872,196 @@
           "The river bike path is flat and suitable for all fitness levels.",
           "Be cautious of traffic in the city center."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie vorsichtig am regnerischen Friedensplatz. Die Fahrt zum Eisenhütten-Denkmal erfordert Aufmerksamkeit auf nassen Straßen. Mittags bietet das Museum eine lange, trockene Pause. Nachmittags erkunden wir das Kulturhaus, bevor wir im Waldpark die frische Regenluft genießen. Den Tag schließen wir mit einer Fahrt entlang der Olza ab, wo der Fluss im Regen kraftvoll wirkt.",
+            "hu": "Kezdje óvatosan a tekerést az esős Szabadság téren. A vasmű emlékművéhez vezető út figyelmet igényel a vizes aszfalton. Délben a múzeum nyújt hosszú, száraz pihenőt. Délután a Kulturházat fedezzük fel, majd a Forest Park friss, eső utáni levegőjét élvezzük. A napot az Olza menti kerékpárúton zárjuk, ahol a folyó esőben különösen zúgó.",
+            "ro": "Începeți cu atenție plimbarea cu bicicleta în Piața Libertății ploioasă. Drumul spre Monumentul Combinatului necesită prudență pe asfaltul ud. La prânz, muzeul oferă o pauză lungă și uscată. După-amiaza explorăm Casa de Cultură, apoi ne bucurăm de aerul proaspăt din Forest Park. Încheiem ziua pe pista de biciclete de-a lungul râului Olza.",
+            "en": "Start carefully at the rainy Peace Square. The ride to the Ironworks Monument requires attention on wet roads. Spend your midday taking a long, dry break at the museum. In the afternoon, explore the Kulturhaus before enjoying the fresh air in Forest Park. End your day on the Olza River path, where the river flows strongly in the rain."
+          },
+          "stops": [
+            {
+              "name": "Peace Square (náměstí Svobody)",
+              "tip_5lang": {
+                "de": "Vorsicht beim Anfahren auf nassem Kopfsteinpflaster.",
+                "hu": "Vigyázat az indulásnál a nedves macskakövön.",
+                "ro": "Atenție la pornire pe pavajul umed.",
+                "en": "Be careful when starting on wet cobblestones."
+              }
+            },
+            {
+              "name": "Ironworks Monument",
+              "tip_5lang": {
+                "de": "Schneller Fotostopp; Metallflächen nicht berühren.",
+                "hu": "Gyors fotómegálló; a fémfelületeket ne érintse meg.",
+                "ro": "Oprire rapidă pentru poze; nu atingeți suprafețele metalice.",
+                "en": "Quick photo stop; do not touch the metal surfaces."
+              }
+            },
+            {
+              "name": "Museum of Ironworks",
+              "tip_5lang": {
+                "de": "Fahrradständer vorhanden; ideale Regenpause.",
+                "hu": "Kerékpártároló van; ideális pihenő esőben.",
+                "ro": "Există suporturi pentru biciclete; pauză ideală de ploaie.",
+                "en": "Bike racks available; ideal rain break."
+              }
+            },
+            {
+              "name": "Kulturhaus Trinec",
+              "tip_5lang": {
+                "de": "Trockener Innenraum für eine kurze Verschnaufpause.",
+                "hu": "Száraz belső tér egy rövid szusszanáshoz.",
+                "ro": "Spațiu interior uscat pentru o scurtă pauză.",
+                "en": "Dry interior for a short breather."
+              }
+            },
+            {
+              "name": "Forest Park",
+              "tip_5lang": {
+                "de": "Laub auf den Wegen kann rutschig sein.",
+                "hu": "A falevelek az utakon csúszósak lehetnek.",
+                "ro": "Frunzele de pe poteci pot fi alunecoase.",
+                "en": "Leaves on the paths can be slippery."
+              }
+            },
+            {
+              "name": "Olza River Bike Path",
+              "tip_5lang": {
+                "de": "Spritzschutz am Fahrrad ist hier sehr vorteilhaft.",
+                "hu": "A sárvédő itt nagyon előnyös a kerékpáron.",
+                "ro": "Apărătoarea de noroi la bicicletă este foarte utilă aici.",
+                "en": "Mudguards on the bike are very beneficial here."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine komplette Regenmontur inkl. Regenhose.",
+              "Vermeiden Sie abruptes Bremsen auf Markierungen und Metall.",
+              "Das Museum bietet guten Wetterschutz für Mensch und Rad.",
+              "Der Olza-Radweg kann Pfützen bilden, vorsichtig fahren.",
+              "Prüfen Sie die Bremsleistung bei Nässe vor der Abfahrt."
+            ],
+            "hu": [
+              "Viseljen teljes esőfelszerelést, beleértve az esőnadrágot is.",
+              "Kerülje a hirtelen fékezést az útburkolati jeleken és fémen.",
+              "A múzeum jó védelmet nyújt az embernek és a gépnek is.",
+              "Az Olza-menti úton tócsák alakulhatnak ki, vezessen óvatosan.",
+              "Indulás előtt ellenőrizze a fékhatást nedves körülmények között."
+            ],
+            "ro": [
+              "Purtați echipament complet de ploaie, inclusiv pantaloni. ",
+              "Evitați frânarea bruscă pe marcajele rutiere și metal.",
+              "Muzeul oferă o bună protecție împotriva vremii pentru om și bicicletă.",
+              "Pe pista Olza pot apărea bălți, conduceți cu prudență.",
+              "Verificați eficiența frânelor în condiții de umiditate înainte de plecare."
+            ],
+            "en": [
+              "Wear full rain gear, including rain pants.",
+              "Avoid abrupt braking on road markings and metal surfaces.",
+              "The museum provides good weather protection for both you and your bike.",
+              "Puddles may form on the Olza path, ride cautiously.",
+              "Check brake performance in wet conditions before starting."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie den Wintertag gut eingepackt am Friedensplatz. Die Fahrt zum Industriedenkmal ist bei klarer Luft erfrischend. Mittags wärmen wir uns im Museum auf, während die Fahrräder draußen warten. Nachmittags bietet das Kulturhaus eine weitere Wärmestation. Durch den Waldpark geht es im Licht der tiefstehenden Sonne, bevor die Tour am Flussweg bei Dämmerung endet.",
+            "hu": "Kezdje a téli napot jól beöltözve a Szabadság téren. Az ipari emlékműhöz vezető út frissítő a hideg levegőn. Délben a múzeumban melegszünk fel, miközben a bringák kint pihennek. Délután a Kulturház kínál újabb pihenőt. A Forest Parkon az alacsonyan járó nap fényében tekerünk át, majd a folyóparton fejezzük be a túrát a szürkületben.",
+            "ro": "Începeți ziua de iarnă bine echipat în Piața Libertății. Drumul spre monumentul industrial este revigorant în aerul rece. La prânz ne încălzim în muzeu, în timp ce bicicletele așteaptă afară. După-amiaza, Casa de Cultură oferă o altă stație de încălzire. Traversăm Forest Park în lumina soarelui jos, înainte ca turul să se încheie pe malul râului la amurg.",
+            "en": "Start your winter day well-wrapped at Peace Square. The ride to the industrial monument is refreshing in the crisp air. Warm up at the museum during midday. In the afternoon, the Kulturhaus serves as another warming station. Cycle through Forest Park in the low winter sun before ending your tour by the river as twilight falls."
+          },
+          "stops": [
+            {
+              "name": "Peace Square (náměstí Svobody)",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Reifendruck; Kälte beeinflusst ihn.",
+                "hu": "Ellenőrizze a guminyomást; a hideg befolyásolja.",
+                "ro": "Verificați presiunea în anvelope; frigul o afectează.",
+                "en": "Check tire pressure; cold weather affects it."
+              }
+            },
+            {
+              "name": "Ironworks Monument",
+              "tip_5lang": {
+                "de": "Kurzer Stopp; Metall leitet die Kälte stark.",
+                "hu": "Rövid megálló; a fém erősen vezeti a hideget.",
+                "ro": "Oprire scurtă; metalul conduce puternic frigul.",
+                "en": "Short stop; metal conducts the cold intensely."
+              }
+            },
+            {
+              "name": "Museum of Ironworks",
+              "tip_5lang": {
+                "de": "Fahrradschloss nicht vergessen; lange Aufwärmpause.",
+                "hu": "Ne felejtse el a lakatot; hosszú bemelegítő pihenő.",
+                "ro": "Nu uitați antifurtul; pauză lungă de încălzire.",
+                "en": "Don't forget your bike lock; long warming break."
+              }
+            },
+            {
+              "name": "Kulturhaus Trinec",
+              "tip_5lang": {
+                "de": "Ideale Station für einen warmen Tee.",
+                "hu": "Ideális állomás egy forró teára.",
+                "ro": "Stație ideală pentru un ceai cald.",
+                "en": "Ideal station for a hot tea."
+              }
+            },
+            {
+              "name": "Forest Park",
+              "tip_5lang": {
+                "de": "Vorsicht bei vereisten Pfützen auf den Wegen.",
+                "hu": "Vigyázat a fagyott tócsákkal az utakon.",
+                "ro": "Atenție la bălțile înghețate de pe poteci.",
+                "en": "Watch out for frozen puddles on the paths."
+              }
+            },
+            {
+              "name": "Olza River Bike Path",
+              "tip_5lang": {
+                "de": "Gute Beleuchtung am Rad ist wegen der frühen Dunkelheit wichtig.",
+                "hu": "A jó világítás fontos a korai sötétedés miatt.",
+                "ro": "Iluminarea bună este importantă din cauza întunericului timpuriu.",
+                "en": "Good lighting on the bike is essential due to early darkness."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Handschuhe und eine Mütze unter dem Helm.",
+              "Vorsicht vor 'Black Ice' auf Brücken über die Olza.",
+              "Nutzen Sie das Kulturhaus für eine Zwischenaufwärmung.",
+              "Kürzen Sie die Tour ab, wenn die Finger zu kalt werden.",
+              "Akkus von E-Bikes entladen sich bei Kälte schneller."
+            ],
+            "hu": [
+              "Viseljen szélálló kesztyűt és sapkát a sisak alatt.",
+              "Vigyázzon a fekete jégre az Olza hídjain.",
+              "Használja a Kulturházat köztes melegedőhelyként.",
+              "Rövidítse le a túrát, ha az ujjai túlságosan áthűlnek.",
+              "Az elektromos kerékpárok akkumulátora gyorsabban merül hidegben."
+            ],
+            "ro": [
+              "Purtați mănuși rezistente la vânt și o căciulă sub cască.",
+              "Atenție la polei pe podurile peste râul Olza.",
+              "Folosiți Casa de Cultură pentru o încălzire intermediară.",
+              "Scurtați turul dacă degetele vă îngheață prea tare.",
+              "Bateriile bicicletelor electrice se descarcă mai repede la frig."
+            ],
+            "en": [
+              "Wear windproof gloves and a hat under your helmet.",
+              "Watch out for black ice on bridges over the Olza.",
+              "Use the Kulturhaus as an intermediate warming station.",
+              "Shorten the tour if your fingers get too cold.",
+              "E-bike batteries discharge faster in the cold."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1002,6 +1382,196 @@
           "A GPS is essential for navigating to Javorový peak.",
           "Combine your visit with destinations in the wider Beskydy region."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag mit der Fahrt zum Javorový-Gipfel, wo Wolken im Regen tief hängen. Mittags erreichen wir den Friedensplatz, wo das Parken direkt am Geschehen möglich ist. Die St.-Albert-Kirche bietet eine kulturelle Regenpause. Den Nachmittag verbringen wir im trockenen Museum der Eisenhütte. Den Tag beschließen wir mit einer gemütlichen Fahrt durch den nebligen Waldpark.",
+            "hu": "Kezdje a napot a Javorový-csúcsra vezető úttal, ahol esőben alacsonyan szállnak a felhők. Délben érkezünk a Szabadság térre, ahol kényelmesen parkolhatunk a központban. A Szent Albert-templom kulturális pihenőt nyújt az eső elől. A délutánt a vasmű száraz múzeumában töltjük. A napot egy hangulatos autózással zárjuk a ködös Forest Park környékén.",
+            "ro": "Începeți ziua cu drumul spre vârful Javorový, unde norii coboară jos pe ploaie. La prânz ajungem în Piața Libertății, unde parcarea este facilă. Biserica Sf. Albert oferă o pauză culturală ferită de ploaie. După-amiaza o petrecem în muzeul uscat al combinatului. Încheiem ziua cu o plimbare relaxantă cu mașina prin parcul cețos.",
+            "en": "Start your day with a drive to Javorový peak, where rain clouds hang low. At midday, reach Peace Square with convenient nearby parking. St. Albert's Church offers a cultural refuge from the rain. Spend your afternoon in the dry Museum of Ironworks. End the day with a cozy drive through the misty Forest Park area."
+          },
+          "stops": [
+            {
+              "name": "Javorový peak",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Sichtverhältnisse vor der Auffahrt.",
+                "hu": "Ellenőrizze a látási viszonyokat a felkapaszkodás előtt.",
+                "ro": "Verificați condițiile de vizibilitate înainte de urcare.",
+                "en": "Check visibility conditions before driving up."
+              }
+            },
+            {
+              "name": "Peace Square (náměstí Svobody)",
+              "tip_5lang": {
+                "de": "Parkhaus in der Nähe nutzen, um trockenen Fußes ins Café zu kommen.",
+                "hu": "Használja a közeli parkolóházat, hogy száraz lábbal érjen a kávézóba.",
+                "ro": "Folosiți parcarea acoperită din apropiere pentru a ajunge uscat la cafenea.",
+                "en": "Use the nearby parking garage to stay dry while heading to a cafe."
+              }
+            },
+            {
+              "name": "St. Albert's Church",
+              "tip_5lang": {
+                "de": "Parkplatz direkt vor dem Eingang oft verfügbar.",
+                "hu": "Gyakran van szabad parkoló közvetlenül a bejárat előtt.",
+                "ro": "Locuri de parcare adesea disponibile chiar în fața intrării.",
+                "en": "Parking is often available right in front of the entrance."
+              }
+            },
+            {
+              "name": "Museum of Ironworks",
+              "tip_5lang": {
+                "de": "Großer Parkplatz; ideal für einen langen Museumsbesuch.",
+                "hu": "Nagy parkoló; ideális egy hosszú múzeumlátogatáshoz.",
+                "ro": "Parcare mare; ideală pentru o vizită lungă la muzeu.",
+                "en": "Large parking lot; ideal for a long museum visit."
+              }
+            },
+            {
+              "name": "Ironworks Monument",
+              "tip_5lang": {
+                "de": "Vom Auto aus gut sichtbar, falls es zu stark regnet.",
+                "hu": "Az autóból is jól látható, ha túl erősen esne.",
+                "ro": "Vizibil din mașină în caz că plouă prea tare.",
+                "en": "Well visible from the car if it rains too hard."
+              }
+            },
+            {
+              "name": "Forest Park",
+              "tip_5lang": {
+                "de": "Parken am Parkeingang; befestigte Wege nutzen.",
+                "hu": "Parkolás a park bejáratánál; használja a szilárd burkolatú utakat.",
+                "ro": "Parcare la intrarea în parc; folosiți potecile pavate.",
+                "en": "Parking at the park entrance; use the paved paths."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf der Straße zum Javorový.",
+              "Nutzen Sie überdachte Parkmöglichkeiten im Stadtzentrum.",
+              "Halten Sie einen Regenschirm im Auto bereit für den Weg zum Museum.",
+              "Nebel kann am Berg die Sicht stark einschränken.",
+              "Scheinwerfer auch tagsüber bei Regen einschalten."
+            ],
+            "hu": [
+              "Ügyeljen a vízenfutásra (aquaplaning) a Javorový felé vezető úton.",
+              "Használja a fedett parkolási lehetőségeket a városközpontban.",
+              "Tartson esernyőt az autóban a múzeumig tartó rövid sétához.",
+              "A köd a hegyen erősen korlátozhatja a látási viszonyokat.",
+              "Nappal is kapcsolja be a fényszórókat esőben."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumul spre Javorový.",
+              "Folosiți parcările acoperite din centrul orașului.",
+              "Țineți o umbrelă în mașină pentru drumul spre muzeu.",
+              "Ceața poate limita puternic vizibilitatea la munte.",
+              "Aprindeți farurile și în timpul zilei pe ploaie."
+            ],
+            "en": [
+              "Watch out for aquaplaning on the road to Javorový.",
+              "Utilize covered parking options in the city center.",
+              "Keep an umbrella in the car for the walk to the museum entrance.",
+              "Fog can severely limit visibility on the mountain.",
+              "Turn on your headlights during the day in rainy weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie den Wintertag mit der Fahrt zum schneebedeckten Javorový-Gipfel. Mittags parken wir am Friedensplatz und genießen die winterliche Stadtatmosphäre. Die Kirchen bieten warme kulturelle Pausen. Den Nachmittag verbringen wir im beheizten Museum der Eisenhütte. Zum Abschluss fahren wir durch den festlich beleuchteten Waldpark im Abendlicht.",
+            "hu": "Kezdje a téli napot a havas Javorový-csúcsra vezető autózással. Délben a Szabadság téren parkolunk, élvezve a város téli hangulatát. A templomok meleg kulturális pihenőt kínálnak. A délutánt a vasmű fűtött múzeumában töltjük. Végezetül az esti fényekben pompázó Forest Park környékén teszünk egy kört.",
+            "ro": "Începeți ziua de iarnă cu un drum spre vârful înzăpezit Javorový. La prânz parcăm în Piața Libertății și ne bucurăm de atmosfera hibernală a orașului. Bisericile oferă pauze culturale călduroase. După-amiaza o petrecem în muzeul încălzit al combinatului. La final, trecem prin zona parcului luminat festiv în lumina serii.",
+            "en": "Start your winter day with a drive to the snow-covered Javorový peak. At midday, park at Peace Square and enjoy the wintry city atmosphere. The churches provide warm cultural breaks. Spend your afternoon in the heated Museum of Ironworks. To finish, drive through the festively lit Forest Park area in the evening light."
+          },
+          "stops": [
+            {
+              "name": "Javorový peak",
+              "tip_5lang": {
+                "de": "Winterreifen und ggf. Schneeketten für die Auffahrt nötig.",
+                "hu": "Téli gumi és szükség esetén hólánc kell a feljutáshoz.",
+                "ro": "Anvelope de iarnă și eventual lanțuri necesare pentru urcare.",
+                "en": "Winter tires and possibly snow chains needed for the climb."
+              }
+            },
+            {
+              "name": "Peace Square (náměstí Svobody)",
+              "tip_5lang": {
+                "de": "Parkplatzsuche im Schnee kann länger dauern; Parkhaus bevorzugen.",
+                "hu": "A parkolóhely-keresés a hóban tovább tarthat; válassza a parkolóházat.",
+                "ro": "Căutarea unui loc de parcare în zăpadă poate dura mai mult; preferați parcările acoperite.",
+                "en": "Finding parking in the snow might take longer; prefer the parking garage."
+              }
+            },
+            {
+              "name": "St. Albert's Church",
+              "tip_5lang": {
+                "de": "Vorsicht beim Aussteigen auf glattem Untergrund.",
+                "hu": "Vigyázat a kiszállásnál a csúszós talajon.",
+                "ro": "Atenție la coborârea din mașină pe suprafețe alunecoase.",
+                "en": "Be careful when getting out of the car on slippery ground."
+              }
+            },
+            {
+              "name": "Museum of Ironworks",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist meist gut geräumt.",
+                "hu": "A parkolót általában jól letakarítják.",
+                "ro": "Parcarea este de obicei bine deszăpezită.",
+                "en": "The parking lot is usually well-cleared of snow."
+              }
+            },
+            {
+              "name": "Ironworks Monument",
+              "tip_5lang": {
+                "de": "Gut beleuchtet in der frühen winterlichen Dunkelheit.",
+                "hu": "Jól kivilágítva a korai téli sötétségben.",
+                "ro": "Bine iluminat în întunericul timpuriu de iarnă.",
+                "en": "Well-lit during the early winter darkness."
+              }
+            },
+            {
+              "name": "Forest Park",
+              "tip_5lang": {
+                "de": "Parkplatz könnte im Winter eingeschränkt nutzbar sein.",
+                "hu": "A parkoló télen korlátozottan lehet használható.",
+                "ro": "Parcarea ar putea fi limitată pe timp de iarnă.",
+                "en": "Parking availability might be limited in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf die Winterdienst-Fahrzeuge auf den Bergstraßen.",
+              "Frostschutz für die Scheibenwaschanlage nicht vergessen.",
+              "Das Auto bietet den besten Wärmerückzug zwischen den Zielen.",
+              "Die Auffahrt zum Javorový kann bei starkem Schneefall gesperrt sein.",
+              "Eiskratzer und Schneebesen im Auto griffbereit halten."
+            ],
+            "hu": [
+              "Ügyeljen a hókotrókra a hegyi utakon.",
+              "Ne felejtse el a fagyállót a szélvédőmosóból.",
+              "Az autó a legjobb melegedőhely az egyes célpontok között.",
+              "A Javorový-hoz vezető út erős hóesésben lezárható.",
+              "Tartsa kéznél a jégkaparót és a hóseprűt az autóban."
+            ],
+            "ro": [
+              "Atenție la utilajele de deszăpezire pe drumurile de munte.",
+              "Nu uitați lichidul de parbriz rezistent la îngheț.",
+              "Mașina oferă cel mai bun refugiu termic între obiective.",
+              "Drumul spre Javorový poate fi închis în caz de ninsoare abundentă.",
+              "Țineți racleta și mătura de zăpadă la îndemână în mașină."
+            ],
+            "en": [
+              "Watch out for snow removal vehicles on mountain roads.",
+              "Don't forget antifreeze for your windshield washer fluid.",
+              "The car is the best place to warm up between stops.",
+              "The road to Javorový may be closed during heavy snowfall.",
+              "Keep an ice scraper and snow brush handy in the car."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1322,6 +1892,196 @@
           "Be aware that bus frequencies may be lower in the evenings and on weekends.",
           "Validate your ticket upon boarding the bus to avoid a fine."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie die Busse, um trocken zum Friedensplatz zu gelangen. Mittags verbinden uns kurze Fahrten mit den Kirchen der Stadt. Das Highlight am Nachmittag ist das Museum der Eisenhütte, das wir bequem per Bus erreichen. Den Abend lassen wir im Waldpark ausklingen, wobei die Haltestelle direkt am Eingang Schutz bietet.",
+            "hu": "Használja a buszokat, hogy szárazon jusson el a Szabadság térre. Délben rövid utazások kötik össze a város templomait. A délután fénypontja a vasmű múzeuma, amelyet kényelmesen elérhetünk busszal. A napot a Forest Parkban zárjuk, ahol a bejáratnál lévő megálló védelmet nyújt.",
+            "ro": "Folosiți autobuzele pentru a ajunge uscat în Piața Libertății. La prânz, călătorii scurte ne conectează cu bisericile orașului. Punctul culminant al după-amiezii este muzeul combinatului, la care se ajunge ușor cu autobuzul. Încheiem ziua în Forest Park, unde stația de la intrare oferă protecție.",
+            "en": "Use the local buses to reach Peace Square while staying dry. At midday, short transit trips connect you to the city's churches. The afternoon highlight is the Ironworks Museum, easily accessible by bus. End your day at Forest Park, where the bus stop at the entrance provides shelter."
+          },
+          "stops": [
+            {
+              "name": "Peace Square (náměstí Svobody)",
+              "tip_5lang": {
+                "de": "Zentrale Haltestelle mit vielen Unterständen.",
+                "hu": "Központi megálló sok váróval.",
+                "ro": "Stație centrală cu multe adăposturi.",
+                "en": "Central stop with many shelters."
+              }
+            },
+            {
+              "name": "St. Albert's Church",
+              "tip_5lang": {
+                "de": "Haltestelle nur wenige Gehminuten entfernt.",
+                "hu": "A megálló csak néhány perc séta.",
+                "ro": "Stația se află la doar câteva minute de mers pe jos.",
+                "en": "The stop is only a few minutes' walk away."
+              }
+            },
+            {
+              "name": "Evangelical Church",
+              "tip_5lang": {
+                "de": "Gute Busverbindung direkt ins Zentrum.",
+                "hu": "Jó buszközlekedés közvetlenül a központba.",
+                "ro": "Conexiune bună de autobuz direct spre centru.",
+                "en": "Good bus connection directly to the center."
+              }
+            },
+            {
+              "name": "Museum of Ironworks",
+              "tip_5lang": {
+                "de": "Eigene Haltestelle in der Nähe des Eingangs.",
+                "hu": "Saját megálló a bejárat közelében.",
+                "ro": "Stație proprie în apropierea intrării.",
+                "en": "Dedicated stop near the entrance."
+              }
+            },
+            {
+              "name": "Ironworks Monument",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg von der Bushaltestelle; Schirm nutzen.",
+                "hu": "Rövid séta a buszmegállótól; használjon esernyőt.",
+                "ro": "Scurtă plimbare de la stație; folosiți umbrela.",
+                "en": "Short walk from the bus stop; use an umbrella."
+              }
+            },
+            {
+              "name": "Forest Park",
+              "tip_5lang": {
+                "de": "Wartehäuschen schützt vor Regen beim Warten auf den Rückbus.",
+                "hu": "A váróterem véd az esőtől a visszaútra várakozva.",
+                "ro": "Adăpostul din stație vă protejează în timp ce așteptați autobuzul de întoarcere.",
+                "en": "The bus shelter protects you from the rain while waiting for the return bus."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie die Abfahrtszeiten per App, um Wartezeiten im Regen zu minimieren.",
+              "Zentrale Knotenpunkte wie 'u kina' bieten bessere Unterstände.",
+              "Halten Sie Kleingeld oder eine Karte für das Ticket bereit.",
+              "Busse sind bei Regen oft voller, planen Sie Zeitpuffer ein.",
+              "Ein kleiner Taschenschirm passt gut ins Handgepäck."
+            ],
+            "hu": [
+              "Ellenőrizze az indulásokat applikáción, hogy keveset várjon az esőben.",
+              "A központi csomópontoknál (pl. 'u kina') jobb várók vannak.",
+              "Készítsen elő aprópénzt vagy kártyát a jegyvásárláshoz.",
+              "Esőben a buszok zsúfoltabbak lehetnek, számoljon időpufferrel.",
+              "Egy kis összecsukható esernyő jól elfér a táskájában."
+            ],
+            "ro": [
+              "Verificați orele de plecare în aplicație pentru a minimiza așteptarea în ploaie.",
+              "Nodurile centrale precum 'u kina' oferă adăposturi mai bune.",
+              "Pregătiți mărunt sau cardul pentru plata biletului.",
+              "Autobuzele sunt adesea mai aglomerate pe ploaie, planificați o marjă de timp.",
+              "O umbrelă mică pliabilă încape bine în bagaj."
+            ],
+            "en": [
+              "Check departure times via app to minimize waiting in the rain.",
+              "Central hubs like 'u kina' offer better bus shelters.",
+              "Have change or a card ready for ticket purchase.",
+              "Buses are often more crowded in the rain; allow extra time.",
+              "A small folding umbrella fits easily in your bag."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie den Wintertag in den geheizten Bussen zum Friedensplatz. Mittags bieten die Fahrten zwischen den Kirchen eine willkommene Aufwärmpause. Den Nachmittag verbringen wir im Museum der Eisenhütte, das gut an das Liniennetz angebunden ist. Zum Abschluss genießen wir den verschneiten Waldpark, bevor uns der Bus sicher zurück ins Warme bringt.",
+            "hu": "Kezdje a téli napot a fűtött buszokon a Szabadság tér felé. Délben a templomok közötti utazás kellemes melegedő pihenőt jelent. A délutánt a vasmű jól megközelíthető múzeumában töltjük. Végezetül a havas Forest Parkot élvezzük, mielőtt a busz biztonságban visszavisz minket a melegbe.",
+            "ro": "Începeți ziua de iarnă în autobuzele încălzite spre Piața Libertății. La prânz, călătoriile între biserici oferă o pauză binemeritată de încălzire. După-amiaza o petrecem în muzeul combinatului, bine conectat la rețeaua de transport. La final ne bucurăm de parcul înzăpezit, înainte ca autobuzul să ne ducă înapoi la căldură.",
+            "en": "Start your winter day in the heated buses to Peace Square. At midday, the short rides between churches offer a welcome warming break. Spend your afternoon at the well-connected Ironworks Museum. To finish, enjoy the snowy Forest Park before the bus takes you safely back to the warmth."
+          },
+          "stops": [
+            {
+              "name": "Peace Square (náměstí Svobody)",
+              "tip_5lang": {
+                "de": "Wartebereiche können bei Schnee rutschig sein.",
+                "hu": "A várakozóhelyek havasak, csúszósak lehetnek.",
+                "ro": "Zonele de așteptare pot fi alunecoase din cauza zăpezii.",
+                "en": "Waiting areas can be slippery when covered in snow."
+              }
+            },
+            {
+              "name": "St. Albert's Church",
+              "tip_5lang": {
+                "de": "Kurzer Weg von der Haltestelle; ideal bei Kälte.",
+                "hu": "Rövid út a megállótól; ideális hidegben.",
+                "ro": "Drum scurt de la stație; ideal pe timp de frig.",
+                "en": "Short walk from the stop; ideal in cold weather."
+              }
+            },
+            {
+              "name": "Evangelical Church",
+              "tip_5lang": {
+                "de": "Busse fahren regelmäßig zurück in die Innenstadt.",
+                "hu": "A buszok rendszeresen járnak vissza a belvárosba.",
+                "ro": "Autobuzele circulă regulat înapoi spre centrul orașului.",
+                "en": "Buses run regularly back to the city center."
+              }
+            },
+            {
+              "name": "Museum of Ironworks",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist im Winter gut beleuchtet.",
+                "hu": "A megálló télen jól ki van világítva.",
+                "ro": "Stația este bine iluminată pe timp de iarnă.",
+                "en": "The bus stop is well-lit in winter."
+              }
+            },
+            {
+              "name": "Ironworks Monument",
+              "tip_5lang": {
+                "de": "Schneller Besuch, dann zurück zur warmen Haltestelle.",
+                "hu": "Gyors látogatás, majd vissza a meleg váróba.",
+                "ro": "Vizită rapidă, apoi înapoi la stația călduroasă.",
+                "en": "Quick visit, then back to the warm shelter."
+              }
+            },
+            {
+              "name": "Forest Park",
+              "tip_5lang": {
+                "de": "Letzte Busse vor dem frühen Abend beachten.",
+                "hu": "Ügyeljen az utolsó buszokra a korai sötétedés előtt.",
+                "ro": "Atenție la ultimele autobuze înainte de înserarea timpurie.",
+                "en": "Note the last buses before early evening falls."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrpläne können bei extremem Schneefall leicht abweichen.",
+              "Die Busse sind im Winter meist sehr gut beheizt.",
+              "Tragen Sie Schuhe mit gutem Profil für die Haltestellenwege.",
+              "Sitzplätze in der Nähe der Heizung bevorzugen.",
+              "Wintersonnenuntergang gegen 16:00 Uhr einplanen."
+            ],
+            "hu": [
+              "A menetrendek extrém hóesésben kissé eltérhetnek.",
+              "A buszok télen általában nagyon jól fűtöttek.",
+              "Viseljen jó tapadású cipőt a megállókhoz vezető úton.",
+              "Részesítse előnyben a fűtés közeli ülőhelyeket.",
+              "Számoljon a délután 4 órai téli naplementével."
+            ],
+            "ro": [
+              "Orarele pot varia ușor în caz de ninsori abundente.",
+              "Autobuzele sunt de obicei foarte bine încălzite iarna.",
+              "Purtați încălțăminte cu talpă aderentă pentru drumul spre stații.",
+              "Preferați locurile de lângă sistemul de încălzire.",
+              "Planificați activitățile având în vedere apusul de la ora 16:00."
+            ],
+            "en": [
+              "Schedules may vary slightly during extreme snowfall.",
+              "Buses are usually very well-heated in winter.",
+              "Wear shoes with good grip for the paths to and from stops.",
+              "Prefer seats near the heaters.",
+              "Plan for the 4 PM winter sunset."
+            ]
+          }
+        }
       }
     }
   }

@@ -296,6 +296,188 @@
           "Small concerts are often held by the lake in summer.",
           "Plan some time to visit a local cafe."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt unter dem Regenschirm in der Altstadt, wo das Kopfsteinpflaster glänzt. Mittags bietet die Kirche und später das Regionalmuseum perfekten Schutz vor den Güssen. Am Nachmittag bewundern wir das Haus der Töpfer, während der Regen auf das Dach trommelt. Der Spaziergang endet am nebligen Talsi-See, dessen Atmosphäre bei Regen besonders mystisch und ruhig wirkt.",
+            "hu": "Az esős reggel az óváros fényes macskakövei között indul, ernyővel a kézben. Délben a lutheránus templom, majd a Regionális Múzeum nyújt menedéket a záporok elől. Délután a Fazekasok házában bújunk el a víz elől, figyelve a kézműveseket. A nap a ködös Talsi-tónál zárul, amely ilyenkor különösen melankolikus és csendes arcát mutatja a látogatónak.",
+            "ro": "Dimineața începe sub umbrelă în centrul vechi, unde pavajul strălucește sub ploaie. La prânz, biserica și apoi Muzeul Regional oferă adăpostul perfect. După-amiaza vizităm Casa Olăritului, ascultând picăturile pe acoperiș. Plimbarea se încheie la lacul Talsi, care în condiții de ceață și ploaie capătă o atmosferă mistică, ideală pentru reflecție și liniște.",
+            "en": "The rainy morning starts in the old town center, where the cobblestones glisten. At noon, the church and later the Regional Museum provide perfect shelter from the downpour. In the afternoon, we take refuge in the Potters' House, watching the crafts. The walk concludes at the misty Talsi Lake, which feels exceptionally quiet and atmospheric under the grey, rainy sky."
+          },
+          "stops": [
+            {
+              "name": "Altes Stadtzentrum",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem glatten Kopfsteinpflaster.",
+                "hu": "Vigyázat, a macskakő esőben csúszik.",
+                "ro": "Atenție la pavajul alunecos din centrul vechi.",
+                "en": "Careful on the slippery cobblestones."
+              }
+            },
+            {
+              "name": "Lutherische Kirche Talsi",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um den Schauer abzuwarten.",
+                "hu": "Csendes hely a zápor kivárására.",
+                "ro": "Un loc liniștit pentru a aștepta trecerea ploii.",
+                "en": "A quiet place to wait out the shower."
+              }
+            },
+            {
+              "name": "Burgberg von Talsi",
+              "tip_5lang": {
+                "de": "Der Aufstieg kann bei Schlamm rutschig sein.",
+                "hu": "A sár miatt a dombra jutás csúszós lehet.",
+                "ro": "Urcarea poate fi noroioasă și alunecoasă.",
+                "en": "The climb can be muddy and slippery."
+              }
+            },
+            {
+              "name": "Regionalmuseum Talsi",
+              "tip_5lang": {
+                "de": "Ideale Zeit für eine ausgiebige Innentour.",
+                "hu": "Tökéletes idő egy alapos benti tárlatvezetésre.",
+                "ro": "Moment ideal pentru un tur interior detaliat.",
+                "en": "Perfect time for an extensive indoor tour."
+              }
+            },
+            {
+              "name": "Haus der Töpfer",
+              "tip_5lang": {
+                "de": "Gemütliches Handwerk erleben, während es regnet.",
+                "hu": "Élvezze a kézművességet a száraz műhelyben.",
+                "ro": "Bucurați-vă de meșteșuguri în atelierul uscat.",
+                "en": "Enjoy the crafts inside the dry workshop."
+              }
+            },
+            {
+              "name": "Talsi-See",
+              "tip_5lang": {
+                "de": "Die überdachten Pavillons bieten Regenschutz.",
+                "hu": "A fedett pavilonok védelmet nyújtanak.",
+                "ro": "Pavilioanele acoperite oferă protecție contra ploii.",
+                "en": "The covered pavilions provide rain shelter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Talsi hat neun Hügel; wasserfeste Schuhe mit gutem Profil sind bei Nässe Pflicht.",
+              "Das Regionalmuseum ist der beste Ort für längere Regenpausen.",
+              "Die Altstadtgassen leiten das Wasser teils stark ab, auf Pfützen achten.",
+              "Nutzen Sie die Innenräume der Kirchen für trockene Momente."
+            ],
+            "hu": [
+              "Talsi kilenc dombra épült; a sár és víz miatt profilos talpú vízálló cipő ajánlott.",
+              "A Regionális Múzeum a legjobb hely a hosszabb esőszünetekhez.",
+              "Az óvárosi utcákon nagy tócsák alakulhatnak ki a lejtők miatt.",
+              "Használja ki a Fazekasok házát a délutáni záporok idején."
+            ],
+            "ro": [
+              "Talsi are nouă dealuri; încălțămintea impermeabilă cu aderență este obligatorie pe ploaie.",
+              "Muzeul Regional este cel mai bun loc pentru pauze lungi de ploaie.",
+              "Atenție la bălțile mari care se formează pe străzile în pantă.",
+              "Vizitați Casa Olăritului pentru a rămâne la adăpost după-amiaza."
+            ],
+            "en": [
+              "Talsi is built on nine hills; waterproof shoes with good grip are essential in the rain.",
+              "The Regional Museum is the best spot for extended rain breaks.",
+              "Be aware of large puddles forming on the sloped old town streets.",
+              "Use the indoor craft house to stay dry during afternoon showers."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen in der verschneiten Altstadt von Talsi. Mittags wärmen wir uns in der Kirche und erklimmen vorsichtig den Burgberg für eine weiße Panoramaaussicht. Das Regionalmuseum bietet Schutz vor der Kälte, bevor wir das Haus der Töpfer besuchen. Den Tag beschließen wir am zugefrorenen Talsi-See, während die Sonne bereits gegen 16 Uhr hinter den Hügeln versinkt.",
+            "hu": "Deres reggel Talsi hófödte óvárosában. Délben a templomban melegszünk fel, majd óvatosan megmásszuk a Várdombot a fehér panorámáért. A Regionális Múzeum menedéket ad a fagy elől a délutáni Fazekasház látogatás előtt. A napot a befagyott Talsi-tónál zárjuk, miközben a nap már délután 4 körül eltűnik a havas dombok mögött.",
+            "ro": "O dimineață geroasă în centrul vechi înzăpezit din Talsi. La prânz ne încălzim în biserică și urcăm cu grijă pe dealul cetății pentru o panoramă albă. Muzeul Regional oferă protecție contra frigului înainte de a vizita Casa Olăritului. Încheiem ziua la lacul Talsi înghețat, în timp ce soarele apune deja în jurul orei 16:00 după dealurile orașului.",
+            "en": "A frosty morning in the snowy old town of Talsi. At noon, we warm up in the church and carefully climb the Castle Hill for a white panoramic view. The Regional Museum offers shelter from the cold before visiting the Potters' House. We finish the day at the frozen Talsi Lake, as the sun already sets behind the hills around 4 PM."
+          },
+          "stops": [
+            {
+              "name": "Altes Stadtzentrum",
+              "tip_5lang": {
+                "de": "Vorsicht vor Glatteis auf den steilen Wegen.",
+                "hu": "Vigyázat a jegesedéssel a meredek utakon.",
+                "ro": "Atenție la polei pe străzile abrupte.",
+                "en": "Watch out for black ice on steep paths."
+              }
+            },
+            {
+              "name": "Lutherische Kirche Talsi",
+              "tip_5lang": {
+                "de": "Ein Ort zum Aufwärmen zwischen den Stopps.",
+                "hu": "Melegedjen fel a megállók között a templomban.",
+                "ro": "Un loc pentru a vă încălzi între opriri.",
+                "en": "A place to warm up between stops."
+              }
+            },
+            {
+              "name": "Burgberg von Talsi",
+              "tip_5lang": {
+                "de": "Festes Schuhwerk für den verschneiten Aufstieg.",
+                "hu": "Bakancs ajánlott a havas dombmászáshoz.",
+                "ro": "Încălțăminte solidă pentru urcarea prin zăpadă.",
+                "en": "Sturdy boots needed for the snowy climb."
+              }
+            },
+            {
+              "name": "Regionalmuseum Talsi",
+              "tip_5lang": {
+                "de": "Genießen Sie die beheizten Ausstellungsräume.",
+                "hu": "Élvezze a fűtött kiállítótermeket.",
+                "ro": "Bucurați-vă de sălile de expoziție încălzite.",
+                "en": "Enjoy the heated exhibition rooms."
+              }
+            },
+            {
+              "name": "Haus der Töpfer",
+              "tip_5lang": {
+                "de": "Warme Atmosphäre im traditionellen Haus.",
+                "hu": "Meleg hangulat a hagyományos házban.",
+                "ro": "Atmosferă caldă în casa tradițională.",
+                "en": "Warm atmosphere inside the traditional house."
+              }
+            },
+            {
+              "name": "Talsi-See",
+              "tip_5lang": {
+                "de": "Betreten der Eisfläche erfolgt auf eigene Gefahr.",
+                "hu": "A jégre lépés saját felelősségre történik.",
+                "ro": "Accesul pe gheață se face pe risc propriu.",
+                "en": "Walking on ice is at your own risk."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im lettischen Winter früh unter (ca. 16:00 Uhr).",
+              "Die Hügel von Talsi können bei Schnee sehr rutschig sein.",
+              "Tragen Sie Zwiebelschichten, da die Innenräume gut beheizt sind.",
+              "Heißer Tee in der Nähe der Altstadt hilft gegen den Wind."
+            ],
+            "hu": [
+              "A nap korán nyugszik a lett télben (kb. 16:00 órakor).",
+              "Talsi dombjai hóban nagyon csúszósak lehetnek.",
+              "Réteges öltözködés javasolt a fűtött múzeumok miatt.",
+              "A tó felől fújó szél ellen a forró tea sokat segít."
+            ],
+            "ro": [
+              "Soarele apune devreme în iarna letonă (aprox. ora 16:00).",
+              "Dealurile din Talsi pot fi foarte alunecoase când e zăpadă.",
+              "Îmbrăcați-vă în straturi, muzeele sunt bine încălzite.",
+              "Un ceai fierbinte lângă centrul vechi ajută contra vântului."
+            ],
+            "en": [
+              "The sun sets early in the Latvian winter (around 4 PM).",
+              "Talsi's hills can be very slippery when covered in snow.",
+              "Wear layers as indoor museums are well heated.",
+              "Hot tea near the old town helps against the biting wind."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -586,6 +768,188 @@
           "A bike lock is recommended when visiting museums.",
           "Pack plenty of water."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen starten wir die Radtour durch die Altstadt. Mittags erreichen wir den Talsi-See, wo das Wasser von oben und unten spritzt. Der Aufstieg zum Burgberg erfordert bei Nässe Konzentration. Nach dem Museumsbesuch erkunden wir den Dendrologischen Kreis und den Tiguli-Hügel, wobei die nassen Blätter den Weg in ein rutschiges, aber farbenfrohes Abenteuer verwandeln.",
+            "hu": "Az eső ellenére kerékpárra pattanunk az óvárosban. Délben a Talsi-tóhoz érünk, ahol a víz alulról és felülről is fröccsköl. A Várdomb megmászása vizes úton koncentrációt igényel. A múzeum után a Dendrológiai kört és a Tiguli-dombot fedezzük fel, ahol a vizes levelek csúszós, de színes kalanddá varázsolják az utat.",
+            "ro": "În ciuda ploii, pornim turul cu bicicleta prin centrul vechi. La prânz ajungem la lacul Talsi, unde apa stropește din toate direcțiile. Urcarea pe dealul cetății necesită concentrare pe ud. După muzeu, explorăm Cercul Dendrologic și dealul Tiguli, unde frunzele ude transformă drumul într-o aventură alunecoasă, dar colorată.",
+            "en": "Despite the rain, we start our bike tour through the old town. At noon we reach Talsi Lake, with water splashing from above and below. Climbing the Castle Hill requires focus on the wet surface. After the museum, we explore the Dendrological Circle and Tiguli Hill, where wet leaves turn the path into a slippery but colorful adventure."
+          },
+          "stops": [
+            {
+              "name": "Altes Stadtzentrum",
+              "tip_5lang": {
+                "de": "Vorsicht auf nassen Schienen und Kopfsteinpflaster.",
+                "hu": "Vigyázat a vizes síneken és macskakövön.",
+                "ro": "Atenție la șinele ude și pavajul alunecos.",
+                "en": "Watch out for wet tracks and cobblestones."
+              }
+            },
+            {
+              "name": "Talsi-See",
+              "tip_5lang": {
+                "de": "Spritzschutz am Fahrrad ist heute Gold wert.",
+                "hu": "A sárvédő ma aranyat ér a biciklin.",
+                "ro": "Aripile la bicicletă sunt esențiale astăzi.",
+                "en": "Mudguards on your bike are worth gold today."
+              }
+            },
+            {
+              "name": "Burgberg von Talsi",
+              "tip_5lang": {
+                "de": "Im Stehen fahren vermeiden, Hinterrad könnte rutschen.",
+                "hu": "Kerülje a kiállva tekerést, a hátsó kerék kipöröghet.",
+                "ro": "Evitați pedalatul din picioare, roata spate poate patina.",
+                "en": "Avoid pedaling while standing; the rear wheel might slip."
+              }
+            },
+            {
+              "name": "Regionalmuseum Talsi",
+              "tip_5lang": {
+                "de": "Überdachter Fahrradständer vorhanden.",
+                "hu": "Fedett biciklitároló áll rendelkezésre.",
+                "ro": "Suport de biciclete acoperit disponibil.",
+                "en": "Covered bike rack available here."
+              }
+            },
+            {
+              "name": "Dendrologischer Kreis",
+              "tip_5lang": {
+                "de": "Vorsicht vor rutschigen Wurzeln auf den Wegen.",
+                "hu": "Vigyázat a csúszós gyökerekkel az utakon.",
+                "ro": "Atenție la rădăcinile alunecoase de pe poteci.",
+                "en": "Beware of slippery roots on the paths."
+              }
+            },
+            {
+              "name": "Tiguli-Hügel",
+              "tip_5lang": {
+                "de": "Bremsweg auf nassem Gefälle verlängert sich.",
+                "hu": "A féktávolság jelentősen megnő a vizes lejtőn.",
+                "ro": "Distanța de frânare crește pe pantele ude.",
+                "en": "Braking distance increases significantly on wet slopes."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine vollständige Regenmontur inkl. Regenhose.",
+              "Prüfen Sie Ihre Bremsen vor den steilen Abfahrten in Talsi.",
+              "Meiden Sie bei Starkregen die unbefestigten Waldwege.",
+              "Ein Helmvisier hilft, die Sicht bei Regen zu behalten."
+            ],
+            "hu": [
+              "Viseljen teljes esőfelszerelést, beleértve az esőnadrágot is.",
+              "Ellenőrizze a fékeket a meredek talsi lejtők előtt.",
+              "Heves esőzéskor kerülje a burkolatlan erdei utakat.",
+              "A sisakrostély segít tisztán látni az esőben."
+            ],
+            "ro": [
+              "Purtați echipament complet de ploaie, inclusiv pantaloni.",
+              "Verificați frânele înainte de coborârile abrupte din Talsi.",
+              "Evitați potecile de pământ din pădure în timpul ploilor torențiale.",
+              "O vizieră la cască ajută la menținerea vizibilității."
+            ],
+            "en": [
+              "Wear full rain gear, including waterproof trousers.",
+              "Check your brakes before the steep Talsi descents.",
+              "Avoid unpaved forest paths during heavy rain.",
+              "A helmet visor helps maintain visibility in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Radtour durch das verschneite Talsi erfordert Ausdauer. Morgens gleiten wir durch die Altstadt zum See, wo die kalte Brise uns wachrüttelt. Mittags kämpfen wir uns den Burgberg hoch für die Aussicht. Das Museum bietet die nötige Aufwärmpause. Nachmittags radeln wir durch den winterlichen Dendrologischen Kreis bis zum Tiguli-Hügel, bevor die Dämmerung den Wald in Blau taucht.",
+            "hu": "A téli kerékpározás a havas Talsiban kitartást igényel. Reggel az óvároson át gurulunk a tóhoz, ahol a hideg szél felébreszt. Délben felküzdjük magunkat a Várdombra a kilátásért. A múzeum adja a szükséges melegedőt. Délután a téli Dendrológiai körön át tekerünk a Tiguli-dombig, mielőtt a szürkület kékbe öltözteti az erdőt.",
+            "ro": "O tură cu bicicleta prin Talsi iarna necesită perseverență. Dimineața pedalăm prin centrul vechi spre lac, unde briza rece ne trezește. La prânz urcăm dealul cetății pentru panoramă. Muzeul oferă pauza de încălzire necesară. După-amiaza pedalăm prin Cercul Dendrologic înghețat până la dealul Tiguli, înainte ca amurgul să albăstrească pădurea.",
+            "en": "A winter bike tour through snowy Talsi requires endurance. In the morning, we glide through the old town to the lake, where the cold breeze wakes us up. At noon, we struggle up Castle Hill for the view. The museum provides a necessary warm break. In the afternoon, we cycle through the wintry Dendrological Circle to Tiguli Hill before dusk paints the forest blue."
+          },
+          "stops": [
+            {
+              "name": "Altes Stadtzentrum",
+              "tip_5lang": {
+                "de": "Reifendruck leicht senken für mehr Grip auf Schnee.",
+                "hu": "Csökkentse kissé a guminyomást a jobb tapadásért.",
+                "ro": "Reduceți ușor presiunea în pneuri pentru aderență.",
+                "en": "Lower tire pressure slightly for better grip on snow."
+              }
+            },
+            {
+              "name": "Talsi-See",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrierender Gischt am Seeufer.",
+                "hu": "Vigyázat a tóparti felfagyásokkal.",
+                "ro": "Atenție la porțiunile înghețate de lângă lac.",
+                "en": "Watch out for freezing spray near the lake shore."
+              }
+            },
+            {
+              "name": "Burgberg von Talsi",
+              "tip_5lang": {
+                "de": "Schieben ist am steilsten Stück bei Glätte sicherer.",
+                "hu": "A legmeredekebb részen biztonságosabb tolni.",
+                "ro": "Este mai sigur să împingeți bicicleta pe panta abruptă.",
+                "en": "Pushing the bike is safer on the steepest, icy parts."
+              }
+            },
+            {
+              "name": "Regionalmuseum Talsi",
+              "tip_5lang": {
+                "de": "Kleidung im Museum trocknen lassen.",
+                "hu": "Hagyja száradni a ruházatát a múzeumban.",
+                "ro": "Lăsați hainele la uscat în interiorul muzeului.",
+                "en": "Let your gear dry while inside the museum."
+              }
+            },
+            {
+              "name": "Dendrologischer Kreis",
+              "tip_5lang": {
+                "de": "Weiße Pracht genießen, aber auf versteckte Äste achten.",
+                "hu": "Figyeljen a hó alatt rejtőző ágakra.",
+                "ro": "Atenție la crengile ascunse sub zăpadă.",
+                "en": "Enjoy the snow but watch for hidden branches."
+              }
+            },
+            {
+              "name": "Tiguli-Hügel",
+              "tip_5lang": {
+                "de": "Frühzeitige Rückkehr planen, Beleuchtung prüfen.",
+                "hu": "Tervezzen korai visszatérést, ellenőrizze a lámpákat.",
+                "ro": "Planificați întoarcerea devreme, verificați luminile.",
+                "en": "Plan an early return and check your lights."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Thermo-Handschuhe und Winterschuhe sind absolut notwendig.",
+              "Die Akkus von E-Bikes entladen sich bei Kälte deutlich schneller.",
+              "Achten Sie auf Streusalz, es greift die Fahrradkette an.",
+              "Trinken Sie auch bei Kälte genug, am besten warmen Tee."
+            ],
+            "hu": [
+              "A termo-kesztyű és téli cipő elengedhetetlen.",
+              "Az e-bike akkumulátorok sokkal gyorsabban merülnek hidegben.",
+              "Ügyeljen az útszóró sóra, mert károsítja a láncot.",
+              "Igyon eleget hidegben is, lehetőleg meleg teát."
+            ],
+            "ro": [
+              "Mănușile termice și încălțămintea de iarnă sunt obligatorii.",
+              "Bateriile bicicletelor electrice se descarcă mult mai repede.",
+              "Atenție la sarea de pe drum, atacă lanțul bicicletei.",
+              "Hidratați-vă corespunzător, preferabil cu ceai cald."
+            ],
+            "en": [
+              "Thermal gloves and winter boots are absolutely necessary.",
+              "E-bike batteries discharge much faster in the cold.",
+              "Watch out for road salt; it can damage your bike chain.",
+              "Drink enough even in the cold, ideally warm tea."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -876,6 +1240,188 @@
           "The roads around the hills can be slippery in winter.",
           "Use the driving times to admire the scenery."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Im komfortablen Auto erkunden wir Talsi bei Regen. Wir parken nah an der Altstadt und der Kirche, um trocken zu bleiben. Mittags geht es zum Burgberg und zum Regionalmuseum, wobei die Scheibenwischer im Takt des lettischen Regens schlagen. Den Nachmittag verbringen wir im Dendrologischen Kreis und am Tiguli-Hügel, wobei wir die grüne, nasse Landschaft gemütlich vom Fahrersitz aus betrachten.",
+            "hu": "Kényelmes autóval fedezzük fel Talsit az esőben. Az óváros és a templom közelében parkolunk, hogy szárazon maradjunk. Délben a Várdombhoz és a Regionális Múzeumhoz hajtunk, miközben az ablaktörlők a lett eső ritmusára járnak. A délutánt a Dendrológiai körnél és a Tiguli-dombnál töltjük, a zöld, ázott tájat az autó ablakából csodálva.",
+            "ro": "Explorăm Talsi cu mașina, protejați de ploaie. Parcăm aproape de centrul vechi și biserică pentru a rămâne uscați. La prânz mergem la dealul cetății și la Muzeul Regional, cu ștergătoarele bătând în ritmul ploii letone. După-amiaza o petrecem la Cercul Dendrologic și dealul Tiguli, admirând peisajul verde și ud din confortul vehiculului.",
+            "en": "We explore Talsi by car, staying dry and comfortable. We park near the old town and the church to minimize walking in the rain. At noon, we drive to Castle Hill and the Regional Museum, with wipers swaying to the rhythm of the Latvian rain. The afternoon is spent at the Dendrological Circle and Tiguli Hill, admiring the lush, wet landscape from the driver's seat."
+          },
+          "stops": [
+            {
+              "name": "Altes Stadtzentrum",
+              "tip_5lang": {
+                "de": "Parkplätze in engen Gassen können bei Regen matschig sein.",
+                "hu": "A szűk utcák parkolói esőben sarasak lehetnek.",
+                "ro": "Parcările de pe străzile înguste pot fi noroioase.",
+                "en": "Parking in narrow streets can be muddy in the rain."
+              }
+            },
+            {
+              "name": "Lutherische Kirche Talsi",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Parkplatz zum Kircheneingang.",
+                "hu": "Rövid séta a parkolótól a templombejáratig.",
+                "ro": "Drum scurt pe jos de la parcare la intrarea în biserică.",
+                "en": "Short walk from the parking spot to the church entrance."
+              }
+            },
+            {
+              "name": "Burgberg von Talsi",
+              "tip_5lang": {
+                "de": "Parken Sie am Fuße des Hügels für weniger Aufstieg.",
+                "hu": "Parkoljon a domb alján a kevesebb mászáshoz.",
+                "ro": "Parcați la baza dealului pentru a urca mai puțin.",
+                "en": "Park at the base of the hill to minimize climbing."
+              }
+            },
+            {
+              "name": "Regionalmuseum Talsi",
+              "tip_5lang": {
+                "de": "Großer befestigter Parkplatz direkt vor Ort.",
+                "hu": "Nagy, aszfaltozott parkoló közvetlenül a helyszínen.",
+                "ro": "Parcare mare asfaltată chiar la locație.",
+                "en": "Large paved parking lot directly on-site."
+              }
+            },
+            {
+              "name": "Dendrologischer Kreis",
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den schmalen Zufahrtswegen.",
+                "hu": "Vezessen óvatosan a szűk bekötőutakon.",
+                "ro": "Conduceți cu atenție pe drumurile de acces înguste.",
+                "en": "Drive carefully on the narrow access roads."
+              }
+            },
+            {
+              "name": "Tiguli-Hügel",
+              "tip_5lang": {
+                "de": "Gute Sichtbarkeit auch bei starkem Regen vom Hügel.",
+                "hu": "Jó látótávolság a dombról heves esőben is.",
+                "ro": "Vizibilitate bună de pe deal chiar și pe ploaie torențială.",
+                "en": "Good visibility from the hill even during heavy rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf den abschüssigen Straßen.",
+              "Halten Sie die Fenster leicht offen gegen das Beschlagen.",
+              "Nutzen Sie Parkplätze direkt an den Sehenswürdigkeiten.",
+              "Scheinwerfer auch tagsüber bei Regen einschalten."
+            ],
+            "hu": [
+              "Ügyeljen az aquaplaningre a lejtős utakon.",
+              "Tartsa résnyire nyitva az ablakot a párásodás ellen.",
+              "Használja a látnivalók melletti közvetlen parkolókat.",
+              "Napközben is kapcsolja be a fényszórókat esőben."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe străzile în pantă.",
+              "Țineți geamurile ușor deschise pentru a evita aburirea.",
+              "Folosiți parcările situate chiar lângă obiective.",
+              "Aprindeți farurile și în timpul zilei dacă plouă."
+            ],
+            "en": [
+              "Watch out for aquaplaning on the sloping roads.",
+              "Keep windows slightly open to prevent fogging.",
+              "Use parking spots located directly at the sights.",
+              "Turn on headlights even during the day when it rains."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im beheizten Auto ist Talsi im Winter ein Märchen. Morgens gleiten wir durch die verschneite Altstadt und halten kurz an der Kirche. Der Weg zum Burgberg ist geräumt, bietet aber eine weiße Wunderwelt. Nach dem Aufwärmen im Museum fahren wir durch den tief verschneiten Dendrologischen Kreis. Den Tag beenden wir am Tiguli-Hügel, während die Sitzheizung den lettischen Frost vergessen lässt.",
+            "hu": "Fűtött autóval Talsi télen egy igazi mese. Reggel a havas óvároson át gurulunk, megállva a templomnál. A Várdombhoz vezető utat takarítják, de fehér csodaország fogad. A múzeumi melegedő után a mélyhóval fedett Dendrológiai körön át autózunk. A napot a Tiguli-dombnál zárjuk, miközben az ülésfűtés elfeledteti a lett fagyot.",
+            "ro": "Cu mașina încălzită, Talsi iarna este o poveste. Dimineața rulăm prin centrul vechi înzăpezit, cu o scurtă oprire la biserică. Drumul spre dealul cetății este curățat, dar oferă un peisaj de basm. După încălzirea la muzeu, conducem prin Cercul Dendrologic acoperit de zăpadă. Încheiem ziua la dealul Tiguli, în timp ce scaunele încălzite ne fac să uităm gerul leton.",
+            "en": "In a heated car, Talsi in winter is a true fairytale. In the morning, we glide through the snowy old town, stopping briefly at the church. The road to Castle Hill is cleared but offers a white wonderland. After warming up at the museum, we drive through the deep snow of the Dendrological Circle. We end the day at Tiguli Hill, with seat heaters making us forget the Latvian frost."
+          },
+          "stops": [
+            {
+              "name": "Altes Stadtzentrum",
+              "tip_5lang": {
+                "de": "Winterreifen und Eiskratzer sind Pflicht.",
+                "hu": "Téli gumi és jégkaparó kötelező.",
+                "ro": "Anvelopele de iarnă și racleta sunt obligatorii.",
+                "en": "Winter tires and an ice scraper are mandatory."
+              }
+            },
+            {
+              "name": "Lutherische Kirche Talsi",
+              "tip_5lang": {
+                "de": "Vorsicht beim Einparken auf festgefahrenem Schnee.",
+                "hu": "Vigyázat a parkolásnál a letaposott havon.",
+                "ro": "Atenție la parcare pe zăpadă bătătorită.",
+                "en": "Be careful when parking on packed snow."
+              }
+            },
+            {
+              "name": "Burgberg von Talsi",
+              "tip_5lang": {
+                "de": "Anfahren am Hang kann bei Glätte schwierig sein.",
+                "hu": "A dombon elindulás jeges úton nehéz lehet.",
+                "ro": "Pornirea în rampă poate fi dificilă pe polei.",
+                "en": "Starting on a slope can be difficult on icy roads."
+              }
+            },
+            {
+              "name": "Regionalmuseum Talsi",
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor nicht unnötig im Stand laufen.",
+                "hu": "Ne járassa feleslegesen a motort álló helyzetben.",
+                "ro": "Nu lăsați motorul pornit inutil în staționare.",
+                "en": "Do not leave the engine idling unnecessarily."
+              }
+            },
+            {
+              "name": "Dendrologischer Kreis",
+              "tip_5lang": {
+                "de": "Achten Sie auf Wildwechsel in Waldnähe.",
+                "hu": "Ügyeljen a vadállatokra az erdő közelében.",
+                "ro": "Atenție la animalele sălbatice în apropierea pădurii.",
+                "en": "Watch out for wildlife crossing near the forest."
+              }
+            },
+            {
+              "name": "Tiguli-Hügel",
+              "tip_5lang": {
+                "de": "Schneeketten im Kofferraum für Notfälle empfohlen.",
+                "hu": "Hólánc ajánlott a csomagtartóba vészhelyzetre.",
+                "ro": "Lanțurile de zăpadă sunt recomandate în portbagaj.",
+                "en": "Snow chains recommended in the trunk for emergencies."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Füllen Sie Frostschutzmittel in die Scheibenwaschanlage.",
+              "Planen Sie mehr Zeit für die Parkplatzsuche ein.",
+              "Batteriecheck vor der Reise nach Lettland empfohlen.",
+              "Vermeiden Sie abrupte Lenkmanöver auf Schnee."
+            ],
+            "hu": [
+              "Töltsön fagyállót a szélvédőmosóba.",
+              "Tervezzen több időt a parkolóhely keresésére.",
+              "A lettországi út előtt javasolt az akkumulátor ellenőrzése.",
+              "Kerülje a hirtelen kormánymozdulatokat a havon."
+            ],
+            "ro": [
+              "Puneți lichid de parbriz rezistent la îngheț.",
+              "Alocați mai mult timp pentru găsirea unui loc de parcare.",
+              "Verificați bateria înainte de călătoria în Letonia.",
+              "Evitați manevrele bruște de direcție pe zăpadă."
+            ],
+            "en": [
+              "Fill your windshield washer with antifreeze.",
+              "Allow more time for finding a parking spot.",
+              "Battery check recommended before traveling to Latvia.",
+              "Avoid abrupt steering maneuvers on snow."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1166,6 +1712,188 @@
           "The center is best experienced as a pedestrian-friendly cluster.",
           "Always have some small change ready for the buses."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus navigieren wir durch das regnerische Talsi. Wir nutzen die Wartehäuschen in der Altstadt und an der Kirche als Unterschlupf. Mittags bringt uns der Bus zum See und weiter zum Regionalmuseum, wo wir trocken ankommen. Den Nachmittag verbringen wir im Haus der Töpfer und im Dendrologischen Kreis, wobei wir die Fahrpläne so takten, dass wir kaum im Regen stehen müssen.",
+            "hu": "Busszal navigálunk az esős Talsiban. Az óvárosi és templom melletti megállókat használjuk menedékként. Délben a busz a tóhoz, majd a Regionális Múzeumhoz visz, ahová szárazon érkezünk. A délutánt a Fazekasháznál és a Dendrológiai körnél töltjük, a menetrendet úgy hangolva, hogy minimálisat kelljen az esőben várakoznunk.",
+            "ro": "Navigăm prin Talsi pe ploaie folosind autobuzul. Folosim refugiile din stațiile din centrul vechi și de lângă biserică. La prânz, autobuzul ne duce la lac și apoi la Muzeul Regional, unde ajungem uscați. După-amiaza o petrecem la Casa Olăritului și la Cercul Dendrologic, sincronizând programul pentru a minimiza așteptarea în ploaie.",
+            "en": "We navigate rainy Talsi by bus, using the shelters in the old town and near the church. At noon, the bus takes us to the lake and then to the Regional Museum, where we arrive dry. The afternoon is spent at the Potters' House and the Dendrological Circle, timing our schedule to minimize waiting in the rain."
+          },
+          "stops": [
+            {
+              "name": "Altes Stadtzentrum",
+              "tip_5lang": {
+                "de": "Bushaltestelle hat ein Dach gegen den Regen.",
+                "hu": "A buszmegálló fedett, véd az esőtől.",
+                "ro": "Stația de autobuz are acoperiș contra ploii.",
+                "en": "The bus stop has a roof to shield you from rain."
+              }
+            },
+            {
+              "name": "Lutherische Kirche Talsi",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Echtzeit-App für die nächste Abfahrt.",
+                "hu": "Ellenőrizze az appot a következő induláshoz.",
+                "ro": "Verificați aplicația pentru următoarea plecare.",
+                "en": "Check the real-time app for the next departure."
+              }
+            },
+            {
+              "name": "Talsi-See",
+              "tip_5lang": {
+                "de": "Kurzer Sprint vom Bus zum See-Pavillon.",
+                "hu": "Rövid sprint a busztól a tavi pavilonig.",
+                "ro": "Sprint scurt de la autobuz la pavilionul lacului.",
+                "en": "Short sprint from the bus to the lake pavilion."
+              }
+            },
+            {
+              "name": "Regionalmuseum Talsi",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist fast direkt vor dem Eingang.",
+                "hu": "A megálló szinte közvetlenül a bejárat előtt van.",
+                "ro": "Stația este aproape direct în fața intrării.",
+                "en": "The stop is almost directly in front of the entrance."
+              }
+            },
+            {
+              "name": "Haus der Töpfer",
+              "tip_5lang": {
+                "de": "Unterstellmöglichkeit an der nahen Haltestelle.",
+                "hu": "Menedék a közeli buszmegállóban.",
+                "ro": "Adăpost disponibil în stația de autobuz apropiată.",
+                "en": "Shelter available at the nearby bus stop."
+              }
+            },
+            {
+              "name": "Dendrologischer Kreis",
+              "tip_5lang": {
+                "de": "Regenschutz beim Warten auf den Rückbus einplanen.",
+                "hu": "Készüljön esővédelemmel a visszabusznál.",
+                "ro": "Planificați protecția contra ploii pentru retur.",
+                "en": "Plan rain protection while waiting for the return bus."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Holen Sie sich ein Tagesticket beim Fahrer.",
+              "Die Busse fahren bei Regen oft pünktlicher als Autos.",
+              "Tragen Sie Kleidung, die schnell trocknet.",
+              "Kleine Münzen für den Ticketkauf bereithalten."
+            ],
+            "hu": [
+              "Váltson napijegyet a sofőrnél.",
+              "A buszok esőben gyakran pontosabbak az autónál.",
+              "Viseljen gyorsan száradó ruházatot.",
+              "Készítsen elő aprópénzt a jegyvásárláshoz."
+            ],
+            "ro": [
+              "Cumpărați un bilet de o zi de la șofer.",
+              "Autobuzele sunt adesea mai punctuale decât mașinile pe ploaie.",
+              "Purtați haine care se usucă repede.",
+              "Pregătiți monede mici pentru achiziționarea biletului."
+            ],
+            "en": [
+              "Get a day pass from the driver.",
+              "Buses are often more punctual than cars in the rain.",
+              "Wear clothing that dries quickly.",
+              "Keep small change ready for buying tickets."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Mit dem warmen Bus durch das winterliche Talsi zu reisen, ist entspannt. Wir starten in der Altstadt und besuchen die frostige Kirche. Mittags gleiten wir am zugefrorenen See vorbei zum Regionalmuseum, wo wir uns lange aufwärmen. Den Nachmittag verbringen wir im Haus der Töpfer und im Dendrologischen Kreis, bevor der Bus uns im Dunkeln sicher zurückbringt.",
+            "hu": "A fűtött busszal utazni a téli Talsiban kényelmes megoldás. Az óvárosból indulunk a fagyos templomhoz. Délben a befagyott tó mellett elhaladva érünk a Regionális Múzeumhoz, ahol alaposan felmelegszünk. A délutánt a Fazekasháznál és a Dendrológiai körnél töltjük, mielőtt a busz a sötétben biztonságban visszavisz minket.",
+            "ro": "Călătoria cu autobuzul încălzit prin Talsi iarna este relaxantă. Pornim din centrul vechi și vizităm biserica înghețată. La prânz trecem pe lângă lacul înghețat spre Muzeul Regional, unde ne încălzim bine. După-amiaza o petrecem la Casa Olăritului și la Cercul Dendrologic, înainte ca autobuzul să ne aducă înapoi în siguranță pe întuneric.",
+            "en": "Traveling by warm bus through wintry Talsi is relaxed. We start in the old town and visit the frosty church. At noon, we pass the frozen lake to the Regional Museum, where we warm up properly. The afternoon is spent at the Potters' House and the Dendrological Circle before the bus safely brings us back in the dark."
+          },
+          "stops": [
+            {
+              "name": "Altes Stadtzentrum",
+              "tip_5lang": {
+                "de": "Warten Sie im Laden nebenan, wenn der Bus Verspätung hat.",
+                "hu": "Várjon a szomszédos boltban, ha késik a busz.",
+                "ro": "Așteptați în magazinul de alături dacă autobuzul întârzie.",
+                "en": "Wait in the nearby shop if the bus is delayed."
+              }
+            },
+            {
+              "name": "Lutherische Kirche Talsi",
+              "tip_5lang": {
+                "de": "Achten Sie auf Schneehaufen an den Haltestellen.",
+                "hu": "Ügyeljen a hóbuckákra a megállóknál.",
+                "ro": "Atenție la mormanele de zăpadă din stații.",
+                "en": "Watch out for snow piles at the bus stops."
+              }
+            },
+            {
+              "name": "Talsi-See",
+              "tip_5lang": {
+                "de": "Der Wind an der Haltestelle kann eisig sein.",
+                "hu": "A szél a megállóban jeges lehet.",
+                "ro": "Vântul în stație poate fi tăios.",
+                "en": "The wind at the stop can be icy."
+              }
+            },
+            {
+              "name": "Regionalmuseum Talsi",
+              "tip_5lang": {
+                "de": "Genießen Sie die Wärme im Bus nach dem Besuch.",
+                "hu": "Élvezze a busz melegét a látogatás után.",
+                "ro": "Bucurați-vă de căldura din autobuz după vizită.",
+                "en": "Enjoy the warmth of the bus after your visit."
+              }
+            },
+            {
+              "name": "Haus der Töpfer",
+              "tip_5lang": {
+                "de": "Beheizte Wartebereiche gibt es nur in größeren Bussen.",
+                "hu": "Fűtött várakozó csak a nagyobb buszokban van.",
+                "ro": "Zonă de așteptare încălzită există doar în autobuze.",
+                "en": "Heated waiting areas only exist inside the buses."
+              }
+            },
+            {
+              "name": "Dendrologischer Kreis",
+              "tip_5lang": {
+                "de": "Letzte Busse fahren oft früher als im Sommer.",
+                "hu": "Az utolsó buszok gyakran korábban indulnak, mint nyáron.",
+                "ro": "Ultimele autobuze pleacă adesea mai devreme decât vara.",
+                "en": "Last buses often depart earlier than in summer."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Reflektoren, da es früh dunkel wird.",
+              "Die Busse sind gut beheizt, ziehen Sie im Bus die Jacke auf.",
+              "Fahrplanänderungen bei extremem Schneefall möglich.",
+              "Sitzplätze hinten sind oft wärmer wegen des Motors."
+            ],
+            "hu": [
+              "Viseljen fényvisszaverőt, mert korán sötétedik.",
+              "A buszok jól fűtöttek, vegye le a kabátot utazáskor.",
+              "Extrém havazáskor menetrendi változások lehetnek.",
+              "A hátsó ülések gyakran melegebbek a motor miatt."
+            ],
+            "ro": [
+              "Purtați elemente reflectorizante, se întunecă devreme.",
+              "Autobuzele sunt bine încălzite, descheiați geaca în interior.",
+              "Posibile modificări de program în caz de ninsoare extremă.",
+              "Locurile din spate sunt adesea mai calde datorită motorului."
+            ],
+            "en": [
+              "Wear reflectors as it gets dark early.",
+              "Buses are well heated; unzip your coat while inside.",
+              "Schedule changes possible during extreme snowfall.",
+              "Seats at the back are often warmer due to the engine."
+            ]
+          }
+        }
       }
     }
   }

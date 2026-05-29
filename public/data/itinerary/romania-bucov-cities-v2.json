@@ -356,6 +356,188 @@
           "Check the opening hours of the museum and zoo in advance.",
           "A small umbrella is always a good idea as the weather can be unpredictable."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein grauer Vormittag am Denkmal, wo der Regen die Stille verstärkt. Mittags bietet die Kirche Schutz für Besinnung. Nachmittags erkunden wir den Park unter dem Regenschirm, bevor das Museum eine trockene Zuflucht bietet. Der Zoobesuch konzentriert sich auf die überdachten Bereiche, und der Tag endet mit einer melancholischen, aber schönen Aussicht auf den regnerischen See.",
+            "hu": "Szürke reggel az emlékműnél, ahol az eső kopogása mélyíti a csendet. Délben a templom nyújt menedéket a békés elmélyüléshez. Délután esernyővel járjuk be a parkot, majd a múzeum falai között száradunk meg. Az állatkertben a fedett kifutókra fókuszálunk, az estét pedig a tóparti eső áztatta, de látványos panoráma zárja le.",
+            "ro": "O dimineață gri la memorial, unde ploaia accentuează liniștea. La prânz, biserica oferă adăpost pentru reflecție. După-amiaza explorăm parcul sub umbrelă, înainte ca muzeul să devină un refugiu uscat. Vizita la grădina zoologică se concentrează pe zonele acoperite, iar ziua se încheie cu o vedere melancolică, dar frumoasă, asupra lacului sub ploaie.",
+            "en": "A grey morning at the memorial, where the rain intensifies the silence. At noon, the church provides shelter for quiet reflection. In the afternoon, we explore the park under an umbrella before the museum offers a dry refuge. The zoo visit focuses on covered areas, and the day ends with a melancholic but beautiful view of the rainy lake."
+          },
+          "stops": [
+            {
+              "name": "Memorial of the Anti-communist Resistance",
+              "tip_5lang": {
+                "de": "Kurzer Aufenthalt, da das Denkmal im Freien steht; Schirm bereithalten.",
+                "hu": "Rövid megálló, mivel az emlékmű szabadtéri; esernyő javasolt.",
+                "ro": "Oprire scurtă, monumentul fiind în aer liber; pregătiți umbrela.",
+                "en": "Short stop as the monument is outdoors; have your umbrella ready."
+              }
+            },
+            {
+              "name": "Saint Stelian Church",
+              "tip_5lang": {
+                "de": "Ein hervorragender Ort, um dem Regen für einen Moment zu entkommen.",
+                "hu": "Kiváló helyszín, hogy egy időre elmeneküljünk az eső elől.",
+                "ro": "Un loc excelent pentru a scăpa de ploaie pentru un moment.",
+                "en": "An excellent spot to escape the rain for a moment."
+              }
+            },
+            {
+              "name": "Constantin Stere Memorial Park",
+              "tip_5lang": {
+                "de": "Die asphaltierten Wege nutzen, um Matsch auf den Rasenflächen zu vermeiden.",
+                "hu": "Használja az aszfaltozott utakat, hogy elkerülje a sárga füves területeket.",
+                "ro": "Folosiți aleile asfaltate pentru a evita noroiul de pe iarbă.",
+                "en": "Use the paved paths to avoid mud on the grassy areas."
+              }
+            },
+            {
+              "name": "Constantin Stere Memorial Museum",
+              "tip_5lang": {
+                "de": "Ideale Regenaktivität; nehmen Sie sich Zeit für die Ausstellungen im Inneren.",
+                "hu": "Ideális esős program; szánjon időt a benti kiállítások megtekintésére.",
+                "ro": "Activitate ideală pe ploaie; alocați timp expozițiilor interioare.",
+                "en": "Ideal rainy day activity; take your time with the indoor exhibits."
+              }
+            },
+            {
+              "name": "Ploiești-Bucov Zoo",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz bei den Terrarien und Vogelhäusern.",
+                "hu": "Keressen menedéket a terráriumoknál és a madárházaknál.",
+                "ro": "Căutați adăpost la terarii și pavilioanele de păsări.",
+                "en": "Seek shelter at the terrariums and bird houses."
+              }
+            },
+            {
+              "name": "Bucov Lake",
+              "tip_5lang": {
+                "de": "Die Wasseroberfläche wirkt im Regen mystisch; wasserfeste Schuhe sind Pflicht.",
+                "hu": "A vízfelszín misztikus az esőben; vízálló cipő viselése kötelező.",
+                "ro": "Suprafața apei pare mistică pe ploaie; pantofii impermeabili sunt obligatorii.",
+                "en": "The water surface looks mystical in the rain; waterproof shoes are a must."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Wanderschuhe für die Parkwege.",
+              "Kombinieren Sie Außenstopps mit dem Museumsbesuch zum Aufwärmen.",
+              "Die Kirche bietet einen trockenen Ort für eine kurze Pause.",
+              "Ein stabiler Regenschirm ist wegen des Windes am See ratsam."
+            ],
+            "hu": [
+              "Viseljen vízálló túracipőt a parki ösvényekhez.",
+              "Kombinálja a kinti megállókat a múzeumlátogatással a száradáshoz.",
+              "A templom csendes és száraz helyszín egy rövid pihenőhöz.",
+              "A tónál tapasztalható szél miatt egy erős esernyő ajánlott."
+            ],
+            "ro": [
+              "Purtați încălțăminte de drumeție impermeabilă pentru potecile din parc.",
+              "Combinați opririle exterioare cu vizita la muzeu pentru a vă usca.",
+              "Biserica oferă un loc liniștit și uscat pentru o scurtă pauză.",
+              "O umbrelă rezistentă este recomandată din cauza vântului de la lac."
+            ],
+            "en": [
+              "Wear waterproof hiking shoes for the park paths.",
+              "Combine outdoor stops with the museum visit to dry off.",
+              "The church provides a quiet, dry spot for a quick break.",
+              "A sturdy umbrella is recommended due to the wind by the lake."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Start am Widerstandsdenkmal, wo die Kälte die Geschichte spürbar macht. Die Kirche wärmt Geist und Körper am Mittag. Im Park knirscht der Schnee unter den Füßen, und das Museum bietet eine gemütliche Pause in der Kälte. Im Zoo beobachten wir die winteraktiven Tiere, bevor der Tag bei einem frühen, klaren Sonnenuntergang am See endet.",
+            "hu": "Fagyos kezdés az ellenállási emlékműnél, ahol a hideg szinte tapinthatóvá teszi a múltat. Délben a templom melegíti fel a testet és lelket. A parkban hó ropog a talp alatt, a múzeum pedig barátságos menedéket nyújt a fagy elől. Az állatkertben a télen is aktív állatokat figyeljük meg, mielőtt a nap korai, tiszta naplementével zárul a tónál.",
+            "ro": "Un început geros la memorialul rezistenței, unde frigul face istoria palpabilă. Biserica încălzește trupul și sufletul la prânz. În parc, zăpada scârțâie sub picioare, iar muzeul oferă un refugiu primitor. La zoo observăm animalele active iarna, înainte ca ziua să se încheie cu un apus timpuriu și senin pe malul lacului.",
+            "en": "A frosty start at the resistance memorial, where the cold makes history palpable. The church warms body and soul at noon. In the park, snow crunches underfoot, and the museum provides a cozy retreat from the freeze. At the zoo, we observe winter-active animals before the day closes with an early, clear sunset by the lake."
+          },
+          "stops": [
+            {
+              "name": "Memorial of the Anti-communist Resistance",
+              "tip_5lang": {
+                "de": "Vorsicht bei Glätte auf den Steinstufen rund um das Denkmal.",
+                "hu": "Vigyázat, a lépcsők az emlékmű körül csúszósak lehetnek.",
+                "ro": "Atenție la polei pe treptele de piatră din jurul monumentului.",
+                "en": "Watch out for ice on the stone steps around the monument."
+              }
+            },
+            {
+              "name": "Saint Stelian Church",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort zum Aufwärmen zwischen den Spaziergängen.",
+                "hu": "Csendes hely a felmelegedéshez a séták között.",
+                "ro": "Un loc liniștit pentru a vă încălzi între plimbări.",
+                "en": "A quiet place to warm up between the walks."
+              }
+            },
+            {
+              "name": "Constantin Stere Memorial Park",
+              "tip_5lang": {
+                "de": "Die Winterlandschaft ist fotogen, aber warme Handschuhe sind nötig.",
+                "hu": "A téli táj nagyon fotogén, de meleg kesztyűre szükség lesz.",
+                "ro": "Peisajul de iarnă este fotogenic, dar aveți nevoie de mănuși groase.",
+                "en": "The winter landscape is photogenic, but warm gloves are needed."
+              }
+            },
+            {
+              "name": "Constantin Stere Memorial Museum",
+              "tip_5lang": {
+                "de": "Genießen Sie die beheizten Räume und die kulturelle Tiefe.",
+                "hu": "Élvezze a fűtött szobákat és a kulturális mélységet.",
+                "ro": "Bucurați-vă de camerele încălzite și de profunzimea culturală.",
+                "en": "Enjoy the heated rooms and the cultural depth."
+              }
+            },
+            {
+              "name": "Ploiești-Bucov Zoo",
+              "tip_5lang": {
+                "de": "Einige Tiere sind in Innengehegen; achten Sie auf die Winteröffnungszeiten.",
+                "hu": "Néhány állat benti kifutóban van; ügyeljen a téli nyitvatartásra.",
+                "ro": "Unele animale sunt în interior; verificați orarul de iarnă.",
+                "en": "Some animals are in indoor enclosures; check winter opening hours."
+              }
+            },
+            {
+              "name": "Bucov Lake",
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang am See ist im Winter oft spektakulär.",
+                "hu": "A naplemente a tónál télen gyakran lenyűgöző.",
+                "ro": "Apusul la lac este adesea spectaculos pe timp de iarnă.",
+                "en": "Sunset at the lake is often spectacular in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht gegen 16:45 Uhr unter, planen Sie das Ende am See ein.",
+              "Tragen Sie Thermo-Schichten für den längeren Aufenthalt im Park.",
+              "Nehmen Sie eine Thermoskanne mit warmem Tee für die Pausen mit.",
+              "Vorsicht vor vereisten Wegen in der Nähe des Wassers."
+            ],
+            "hu": [
+              "A nap 16:45 körül nyugszik, tervezze ehhez a tavi befejezést.",
+              "Viseljen thermo rétegeket a parki hosszabb tartózkodáshoz.",
+              "Vigyen magával termoszt meleg teával a pihenőkhöz.",
+              "Vigyázzon a jeges utakkal a víz közelében."
+            ],
+            "ro": [
+              "Soarele apune în jurul orei 16:45, planificați finalul la lac conform orarului.",
+              "Purtați straturi termice pentru șederea prelungită în parc.",
+              "Luați un termos cu ceai cald pentru pauze.",
+              "Atenție la aleile înghețate din apropierea apei."
+            ],
+            "en": [
+              "Sunset is around 16:45, plan the lakeside finish accordingly.",
+              "Wear thermal layers for the extended stay in the park.",
+              "Carry a thermos with warm tea for the breaks.",
+              "Beware of icy paths near the water."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -683,6 +865,170 @@
           "Bring a map or GPS device, as some trails can be poorly marked.",
           "Always lock your bike securely when leaving it unattended."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine erfrischende Fahrt durch den Dendrologischen Park, wo die Blätter den Regen auffangen. Mittags radeln wir zum Stere-Park, wobei wir auf rutschige Wege achten. Der Zoo bietet eine längere Pause im Trockenen. Nachmittags führt die Route zum See und durch das Teleajen-Tal, wo die Natur unter dem Regen besonders intensiv duftet und glänzt.",
+            "hu": "Frissítő tekerés a Dendrológiai Parkban, ahol a levelek felfogják az esőt. Délben a Stere parkhoz biciklizünk, figyelve a csúszós utakra. Az állatkert hosszabb száraz pihenőt kínál. Délután az út a tóhoz és a Teleajen-völgybe vezet, ahol a természet az esőben különösen intenzív illatot áraszt és csillog.",
+            "ro": "O plimbare răcoritoare prin Parcul Dendrologic, unde frunzele captează ploaia. La prânz pedalăm spre Parcul Stere, atenți la drumurile alunecoase. Grădina zoologică oferă o pauză lungă la uscat. După-amiaza ruta duce la lac și prin Valea Teleajen, unde natura miroase intens și strălucește sub ploaie.",
+            "en": "A refreshing ride through the Dendrological Park, where leaves catch the rain. At noon we cycle to Stere Park, watching out for slippery paths. The zoo offers a long dry break. In the afternoon, the route leads to the lake and through the Teleajen Valley, where nature smells especially intense and glistens under the rain."
+          },
+          "stops": [
+            {
+              "name": "Bucov Dendrological Park",
+              "tip_5lang": {
+                "de": "Die Bäume bieten etwas Schutz, aber die Wege können schlammig sein.",
+                "hu": "A fák némi védelmet nyújtanak, de az utak sárosak lehetnek.",
+                "ro": "Copacii oferă protecție, dar aleile pot fi noroioase.",
+                "en": "The trees offer some shelter, but paths can be muddy."
+              }
+            },
+            {
+              "name": "Constantin Stere Memorial Park",
+              "tip_5lang": {
+                "de": "Vorsicht in Kurven auf nassem Asphalt; Bremsweg verlängert sich.",
+                "hu": "Vigyázat a kanyarokban a nedves aszfalton; a fékút meghosszabbodik.",
+                "ro": "Atenție în curbe pe asfaltul umed; distanța de frânare crește.",
+                "en": "Careful in turns on wet asphalt; braking distance increases."
+              }
+            },
+            {
+              "name": "Ploiești-Bucov Zoo",
+              "tip_5lang": {
+                "de": "Gute Gelegenheit, die Ausrüstung zu trocknen, während man die Tiere besucht.",
+                "hu": "Jó alkalom a felszerelés megszárítására az állatlátogatás alatt.",
+                "ro": "Oportunitate bună de a usca echipamentul în timpul vizitei.",
+                "en": "Good opportunity to dry your gear while visiting the animals."
+              }
+            },
+            {
+              "name": "Bucov Lake",
+              "tip_5lang": {
+                "de": "Halten Sie kurz für Fotos, aber bleiben Sie in Bewegung gegen die Kälte.",
+                "hu": "Álljon meg fotózni, de maradjon mozgásban a lehűlés ellen.",
+                "ro": "Opriți scurt pentru poze, dar rămâneți în mișcare împotriva frigului.",
+                "en": "Stop briefly for photos, but keep moving to stay warm."
+              }
+            },
+            {
+              "name": "Teleajen Valley at Bucov",
+              "tip_5lang": {
+                "de": "Waldwege können sehr rutschig sein; Mountainbike-Profil empfohlen.",
+                "hu": "Az erdei utak nagyon csúszósak lehetnek; terepgumi ajánlott.",
+                "ro": "Drumurile de pădure pot fi alunecoase; profil de MTB recomandat.",
+                "en": "Forest paths can be very slippery; MTB tires recommended."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vollständige Regenbekleidung und Schutzbleche sind unerlässlich.",
+              "Vermeiden Sie starkes Bremsen auf nassen Blättern im Wald.",
+              "Prüfen Sie Ihre Lichter, da die Sicht im Regen eingeschränkt ist.",
+              "Ein Tuch zum Abwischen des Sattels ist sehr praktisch."
+            ],
+            "hu": [
+              "Teljes esőruházat és sárvédők elengedhetetlenek.",
+              "Kerülje az erős fékezést a nedves leveleken az erdőben.",
+              "Ellenőrizze a lámpákat, mert esőben a látási viszonyok rosszabbak.",
+              "Egy rongy a nyereg letörléséhez nagyon praktikus."
+            ],
+            "ro": [
+              "Echipamentul complet de ploaie și apărătorile sunt esențiale.",
+              "Evitați frânarea bruscă pe frunzele ude din pădure.",
+              "Verificați luminile, vizibilitatea este redusă pe ploaie.",
+              "O cârpă pentru ștergerea șeii este foarte practică."
+            ],
+            "en": [
+              "Full rain gear and mudguards are essential.",
+              "Avoid hard braking on wet leaves in the forest.",
+              "Check your lights as visibility is reduced in the rain.",
+              "A cloth to wipe the saddle is very practical."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine belebende Winterfahrt im Dendrologischen Park, umgeben von schneebedeckten Ästen. Mittags geht es zum Stere-Park, wo wir die kalte, klare Luft genießen. Die Pause im Zoo ist willkommen, um sich etwas aufzuwärmen. Nachmittags radeln wir am winterlichen See vorbei in das Teleajen-Tal, wobei wir die kurze Tageslichtdauer für eine sichere Rückkehr nutzen.",
+            "hu": "Élénkítő téli tekerés a Dendrológiai Parkban, hófödte ágak között. Délben a Stere park felé vesszük az irányt, élvezve a hideg, tiszta levegőt. Az állatkerti pihenő segít a felmelegedésben. Délután a télies tó mellett tekerünk a Teleajen-völgybe, kihasználva a rövid nappali világosságot a biztonságos visszatéréshez.",
+            "ro": "O plimbare revigorantă de iarnă în Parcul Dendrologic, printre ramuri ninse. La prânz mergem spre Parcul Stere, savurând aerul rece și curat. Pauza la zoo este binevenită pentru încălzire. După-amiaza pedalăm pe lângă lacul hibernal spre Valea Teleajen, profitând de lumina scurtă pentru o întoarcere sigură.",
+            "en": "An invigorating winter ride in the Dendrological Park, surrounded by snow-covered branches. At noon, we head to Stere Park, enjoying the cold, crisp air. The zoo break is welcome for warming up. In the afternoon, we cycle past the wintry lake into Teleajen Valley, making use of the short daylight for a safe return."
+          },
+          "stops": [
+            {
+              "name": "Bucov Dendrological Park",
+              "tip_5lang": {
+                "de": "Tiefe Temperaturen erfordern warme Handschuhe und Überschuhe.",
+                "hu": "Az alacsony hőmérséklet meleg kesztyűt és kamáslit igényel.",
+                "ro": "Temperaturile scăzute necesită mănuși groase și huse de pantofi.",
+                "en": "Low temperatures require warm gloves and overshoes."
+              }
+            },
+            {
+              "name": "Constantin Stere Memorial Park",
+              "tip_5lang": {
+                "de": "Achten Sie auf verstecktes Eis unter leichtem Schneefall.",
+                "hu": "Ügyeljen a hó alatt megbújó jégfoltokra.",
+                "ro": "Atenție la gheața ascunsă sub stratul subțire de zăpadă.",
+                "en": "Watch out for hidden ice under light snow cover."
+              }
+            },
+            {
+              "name": "Ploiești-Bucov Zoo",
+              "tip_5lang": {
+                "de": "Parken Sie das Rad sicher; nutzen Sie die Zeit für Bewegung zu Fuß.",
+                "hu": "Parkolja le biztonságosan a biciklit; mozogjon egyet gyalog is.",
+                "ro": "Parcați bicicleta în siguranță; profitați de timp pentru mișcare pe jos.",
+                "en": "Park the bike safely; use the time for some walking to warm up."
+              }
+            },
+            {
+              "name": "Bucov Lake",
+              "tip_5lang": {
+                "de": "Halten Sie nur kurz, da der Wind am Wasser sehr auskühlt.",
+                "hu": "Csak rövid ideig álljon meg, a vízparti szél nagyon hűt.",
+                "ro": "Opriți doar scurt, vântul de lângă apă accentuează frigul.",
+                "en": "Stop only briefly, as the wind by the water is very chilling."
+              }
+            },
+            {
+              "name": "Teleajen Valley at Bucov",
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihre Bremsen bei Frost einwandfrei funktionieren.",
+                "hu": "Győződjön meg róla, hogy a fékek fagyban is jól működnek.",
+                "ro": "Asigurați-vă că frânele funcționează corect pe timp de îngheț.",
+                "en": "Ensure your brakes work perfectly in freezing conditions."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich nach dem Zwiebelprinzip für variable Belastung.",
+              "Verwenden Sie Winterreifen oder reduzieren Sie den Luftdruck etwas.",
+              "Batterien von Lampen und Handys entladen sich bei Kälte schneller.",
+              "Beenden Sie die Tour vor 17:00 Uhr, wenn es dunkel wird."
+            ],
+            "hu": [
+              "Öltözzön rétegesen a változó intenzitású mozgáshoz.",
+              "Használjon téli gumit vagy csökkentse kicsit a guminyomást.",
+              "A lámpák és telefonok akkumulátora gyorsabban merül hidegben.",
+              "Fejezze be a túrát 17:00 előtt, mielőtt besötétedik."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi pentru efort variabil.",
+              "Folosiți anvelope de iarnă sau reduceți puțin presiunea.",
+              "Bateriile luminilor și ale telefonului se descarcă mai repede la frig.",
+              "Încheiați tura înainte de ora 17:00, când se întunecă."
+            ],
+            "en": [
+              "Dress in layers for variable physical effort.",
+              "Use winter tires or reduce tire pressure slightly for grip.",
+              "Batteries for lights and phones drain faster in the cold.",
+              "Finish your tour before 17:00 when it gets dark."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1039,6 +1385,188 @@
           "Check your fuel level before heading into more rural areas.",
           "Do not leave valuables visible in the car."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein bequemer Start mit dem Auto zum Stere-Park, während der Regen gegen die Scheibe trommelt. Der Museumsbesuch am Vormittag ist die perfekte Indoor-Wahl. Nach dem Zoo, wo wir die Tiere aus der Nähe überdachter Gehege sehen, besuchen wir die St.-Stelian-Kirche. Der Tag endet mit einer Fahrt zum nebligen See und durch das Teleajen-Tal, geschützt im warmen Fahrzeug.",
+            "hu": "Kényelmes kezdés autóval a Stere parknál, miközben az eső a szélvédőn kopog. A délelőtti múzeumlátogatás tökéletes benti program. Az állatkert után, ahol a fedett részeken figyeljük az állatokat, meglátogatjuk a Szent Sztelián templomot. A nap a ködös tónál és a Teleajen-völgyben ér véget, védve a meleg utastérben.",
+            "ro": "Un început confortabil cu mașina spre Parcul Stere, în timp ce ploaia bate în parbriz. Vizita la muzeu de dimineață este alegerea perfectă pentru interior. După zoo, unde vedem animalele din pavilioane acoperite, vizităm Biserica Sf. Stelian. Ziua se încheie cu o plimbare spre lacul cețos și prin Valea Teleajen, protejați în vehiculul cald.",
+            "en": "A comfortable start by car to Stere Park, while rain drums on the windshield. The morning museum visit is the perfect indoor choice. After the zoo, where we see animals in covered enclosures, we visit St. Stelian Church. The day ends with a drive to the misty lake and through Teleajen Valley, protected in the warm vehicle."
+          },
+          "stops": [
+            {
+              "name": "Parking at Constantin Stere Memorial Park",
+              "tip_5lang": {
+                "de": "Suchen Sie einen Platz nah am Parkeingang, um den Weg im Regen zu verkürzen.",
+                "hu": "Keressen helyet a bejárathoz közel, hogy rövid legyen a gyalogút az esőben.",
+                "ro": "Căutați un loc aproape de intrare pentru a scurta drumul prin ploaie.",
+                "en": "Find a spot close to the entrance to shorten the walk in the rain."
+              }
+            },
+            {
+              "name": "Constantin Stere Memorial Museum",
+              "tip_5lang": {
+                "de": "Hinterlassen Sie nasse Schirme im Eingangsbereich.",
+                "hu": "A vizes esernyőket hagyja a bejárati tárolóban.",
+                "ro": "Lăsați umbrelele ude în zona de la intrare.",
+                "en": "Leave wet umbrellas in the designated area at the entrance."
+              }
+            },
+            {
+              "name": "Ploiești-Bucov Zoo",
+              "tip_5lang": {
+                "de": "Der Parkplatz kann bei starkem Regen Pfützen bilden; Vorsicht beim Aussteigen.",
+                "hu": "A parkolóban tócsák alakulhatnak ki; vigyázzon a kiszállásnál.",
+                "ro": "Se pot forma bălți în parcare; atenție la coborârea din mașină.",
+                "en": "Puddles may form in the parking lot; watch your step when exiting."
+              }
+            },
+            {
+              "name": "Saint Stelian Church",
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Auto zur Kirche reicht meist aus.",
+                "hu": "Egy rövid sprint az autótól a templomig általában elég.",
+                "ro": "Un sprint scurt de la mașină la biserică este de obicei suficient.",
+                "en": "A short sprint from the car to the church is usually enough."
+              }
+            },
+            {
+              "name": "Bucov Lake",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den See direkt aus dem trockenen Auto.",
+                "hu": "Élvezze a kilátást a tóra közvetlenül a száraz autóból.",
+                "ro": "Bucurați-vă de priveliștea lacului direct din mașina uscată.",
+                "en": "Enjoy the view of the lake directly from the dry car."
+              }
+            },
+            {
+              "name": "Teleajen Valley at Bucov",
+              "tip_5lang": {
+                "de": "Die Straßen im Tal können bei Regen rutschig sein; vorsichtig fahren.",
+                "hu": "A völgy útjai esőben csúszósak lehetnek; vezessen óvatosan.",
+                "ro": "Drumurile din vale pot fi alunecoase pe ploaie; conduceți cu atenție.",
+                "en": "Valley roads can be slippery in the rain; drive carefully."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Heizung, um die Feuchtigkeit aus dem Auto zu bekommen.",
+              "Halten Sie ein Handtuch im Kofferraum für nasse Jacken bereit.",
+              "Prüfen Sie den Zustand Ihrer Scheibenwischer vor der Abfahrt.",
+              "In der Nähe der Sehenswürdigkeiten gibt es meist gute Parkmöglichkeiten."
+            ],
+            "hu": [
+              "Használja a fűtést a pára eltávolítására az autóból.",
+              "Tartson törölközőt a csomagtartóban a vizes kabátokhoz.",
+              "Indulás előtt ellenőrizze az ablaktörlők állapotát.",
+              "A látnivalók közelében általában jó parkolási lehetőségek vannak."
+            ],
+            "ro": [
+              "Folosiți încălzirea pentru a elimina umiditatea din mașină.",
+              "Țineți un prosop în portbagaj pentru jachetele ude.",
+              "Verificați starea ștergătoarelor înainte de plecare.",
+              "Există de obicei locuri de parcare bune în apropierea obiectivelor."
+            ],
+            "en": [
+              "Use the heater to clear humidity from inside the car.",
+              "Keep a towel in the trunk for wet jackets.",
+              "Check the condition of your wipers before starting the trip.",
+              "Good parking options are usually available near the sights."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein gemütlicher Winterausflug, beginnend am frostigen Stere-Park. Das Museum bietet am Vormittag angenehme Wärme und Kultur. Nach dem Zoobesuch, bei dem wir die Tiere im Winterpelz sehen, wärmen wir uns in der St.-Stelian-Kirche auf. Die Fahrt zum See bietet bei klarem Wetter tolle Fotomotive, gefolgt von einer malerischen Tour durch das Teleajen-Tal im Abendlicht.",
+            "hu": "Kellemes téli kirándulás, a fagyos Stere parknál kezdve. A múzeum délelőtt kellemes meleget és kultúrát kínál. Az állatkerti látogatás után, ahol téli bundás állatokat látunk, a Szent Sztelián templomban melegszünk fel. A tavi autózás tiszta időben remek fotótémákat kínál, melyet festői túra követ a Teleajen-völgyben.",
+            "ro": "O excursie plăcută de iarnă, începând la Parcul Stere înghețat. Muzeul oferă căldură și cultură în timpul dimineții. După vizita la zoo, unde vedem animalele în blană de iarnă, ne încălzim în Biserica Sf. Stelian. Drumul spre lac oferă ocazii foto excelente pe timp senin, urmat de o tură pitorească prin Valea Teleajen.",
+            "en": "A pleasant winter excursion, starting at the frosty Stere Park. The museum offers warmth and culture during the morning. After the zoo visit, where we see animals in winter coats, we warm up in St. Stelian Church. The drive to the lake offers great photo opportunities in clear weather, followed by a scenic tour through Teleajen Valley."
+          },
+          "stops": [
+            {
+              "name": "Parking at Constantin Stere Memorial Park",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf dem Parkplatzgelände.",
+                "hu": "Vigyázzon a jegesedésre a parkoló területén.",
+                "ro": "Atenție la porțiunile înghețate din parcare.",
+                "en": "Beware of icy patches in the parking lot area."
+              }
+            },
+            {
+              "name": "Constantin Stere Memorial Museum",
+              "tip_5lang": {
+                "de": "Ein warmer Ort, um die Winterkälte für eine Weile zu vergessen.",
+                "hu": "Meleg helyszín, ahol egy időre elfelejthetjük a téli hideget.",
+                "ro": "Un loc cald unde puteți uita de frigul iernii pentru o vreme.",
+                "en": "A warm location where you can forget the winter cold for a while."
+              }
+            },
+            {
+              "name": "Ploiești-Bucov Zoo",
+              "tip_5lang": {
+                "de": "Die Wege zwischen den Gehegen können rutschig sein; festes Schuhwerk!",
+                "hu": "A kifutók közötti utak csúszósak lehetnek; stabil lábbeli ajánlott!",
+                "ro": "Potecile dintre țarcăuri pot fi alunecoase; purtați încălțăminte solidă!",
+                "en": "Paths between enclosures can be slippery; wear solid footwear!"
+              }
+            },
+            {
+              "name": "Saint Stelian Church",
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor nicht unnötig laufen, während Sie drinnen sind.",
+                "hu": "Ne járassa feleslegesen a motort, amíg bent tartózkodik.",
+                "ro": "Nu lăsați motorul pornit inutil cât timp sunteți înăuntru.",
+                "en": "Don't leave the engine idling unnecessarily while you are inside."
+              }
+            },
+            {
+              "name": "Bucov Lake",
+              "tip_5lang": {
+                "de": "Kurzer Stopp für Panoramafotos; das Licht ist im Winter oft klarer.",
+                "hu": "Rövid megálló panorámafotókhoz; a fény télen gyakran tisztább.",
+                "ro": "Oprire scurtă pentru poze panoramice; lumina este adesea mai clară iarna.",
+                "en": "Short stop for panoramic photos; the light is often clearer in winter."
+              }
+            },
+            {
+              "name": "Teleajen Valley at Bucov",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Straßenverhältnisse, besonders bei Neuschnee.",
+                "hu": "Ellenőrizze az útviszonyokat, különösen friss hó esetén.",
+                "ro": "Verificați starea drumurilor, mai ales dacă a nins recent.",
+                "en": "Check road conditions, especially after recent snowfall."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen und ein Eiskratzer sind in dieser Region Pflicht.",
+              "Prüfen Sie den Frostschutz in der Scheibenwaschanlage.",
+              "Planen Sie mehr Zeit für die Fahrt ein, falls die Straßen glatt sind.",
+              "Nehmen Sie eine warme Decke für Notfälle mit."
+            ],
+            "hu": [
+              "Téli gumi és jégkaparó kötelező ebben a régióban.",
+              "Ellenőrizze a fagyállót a szélvédőmosóban.",
+              "Tervezzen több időt az útra, ha az utak csúszósak.",
+              "Vigyen magával meleg takarót vészhelyzet esetére."
+            ],
+            "ro": [
+              "Anvelopele de iarnă și racleta sunt obligatorii în această regiune.",
+              "Verificați antigelul din lichidul de parbriz.",
+              "Alocați mai mult timp deplasării dacă drumurile sunt alunecoase.",
+              "Luați o pătură caldă pentru situații de urgență."
+            ],
+            "en": [
+              "Winter tires and an ice scraper are mandatory in this region.",
+              "Check the antifreeze level in your windshield washer fluid.",
+              "Allow extra time for travel if roads are slippery.",
+              "Carry a warm blanket for emergencies."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1371,6 +1899,170 @@
           "Be aware of departure times for your return journey.",
           "Ask the locals for directions, they are often helpful."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus zum Stere-Park, wobei die Haltestelle einen kurzen Schutz bietet. Das Museum am Vormittag ist die ideale Wahl für einen Regentag. Mittags kehren wir ins Zentrum zurück, um die St.-Stelian-Kirche zu besuchen. Der öffentliche Verkehr ermöglicht es, die nassesten Abschnitte bequem zu überbrücken und trotzdem die wichtigsten Sehenswürdigkeiten von Bucov zu sehen.",
+            "hu": "Busszal a Stere parkhoz, ahol a megálló nyújt rövid védelmet. A délelőtti múzeumlátogatás ideális választás egy esős napon. Délben visszatérünk a központba, hogy meglátogassuk a Szent Sztelián templomot. A tömegközlekedés lehetővé teszi, hogy a legvizesebb szakaszokat kényelmesen áthidaljuk, és mégis lássuk Bucov főbb nevezetességeit.",
+            "ro": "Cu autobuzul spre Parcul Stere, unde stația oferă un scurt adăpost. Muzeul de dimineață este alegerea ideală pentru o zi ploioasă. La prânz revenim în centru pentru a vizita Biserica Sf. Stelian. Transportul public permite evitarea porțiunilor celor mai ude, vizitând totodată principalele atracții din Bucov.",
+            "en": "By bus to Stere Park, where the stop provides brief shelter. The morning museum visit is the ideal choice for a rainy day. At noon, we return to the center to visit St. Stelian Church. Public transport allows us to comfortably bridge the wettest sections while still seeing Bucov's main attractions."
+          },
+          "stops": [
+            {
+              "name": "Bus Stop at Constantin Stere Memorial Park",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist überdacht, bietet aber nur begrenzten Platz.",
+                "hu": "A megálló fedett, de korlátozott helyet kínál.",
+                "ro": "Stația este acoperită, dar oferă spațiu limitat.",
+                "en": "The bus stop is covered but offers limited space."
+              }
+            },
+            {
+              "name": "Constantin Stere Memorial Park",
+              "tip_5lang": {
+                "de": "Vom Bus zum Museum sind es nur wenige Minuten Fußweg.",
+                "hu": "A busztól a múzeumig csak pár perc séta az út.",
+                "ro": "De la autobuz la muzeu sunt doar câteva minute de mers pe jos.",
+                "en": "It's only a few minutes' walk from the bus to the museum."
+              }
+            },
+            {
+              "name": "Constantin Stere Memorial Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch, um auf den nächsten Bus zu warten.",
+                "hu": "Használja ki a múzeumlátogatást a következő buszra való várakozáshoz.",
+                "ro": "Folosiți vizita la muzeu pentru a aștepta următorul autobuz.",
+                "en": "Use the museum visit to wait for the next bus timing."
+              }
+            },
+            {
+              "name": "Bucov Center Bus Stop",
+              "tip_5lang": {
+                "de": "Zentraler Umsteigepunkt; achten Sie auf Pfützen am Bordstein.",
+                "hu": "Központi átszállóhely; ügyeljen a tócsákra a padkánál.",
+                "ro": "Punct central de transfer; atenție la bălțile de lângă bordură.",
+                "en": "Central transfer point; watch out for puddles by the curb."
+              }
+            },
+            {
+              "name": "Saint Stelian Church",
+              "tip_5lang": {
+                "de": "In der Nähe der Haltestelle gelegen, ideal bei schlechtem Wetter.",
+                "hu": "A megálló közelében található, ideális rossz időben.",
+                "ro": "Situată aproape de stație, ideală pe vreme rea.",
+                "en": "Located near the stop, ideal for bad weather."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Busfahrplan vorab online, um Wartezeiten im Regen zu minimieren.",
+              "Halten Sie Kleingeld oder eine Karte für das Ticket bereit.",
+              "Die Busse können bei Regen voller sein; planen Sie Pufferzeiten ein.",
+              "Ein kleiner, faltbarer Regenschirm passt gut in die Tasche."
+            ],
+            "hu": [
+              "Előre ellenőrizze a menetrendet, hogy minimálisat kelljen várni az esőben.",
+              "Készítsen elő aprópénzt vagy kártyát a jegyvásárláshoz.",
+              "A buszok esőben zsúfoltabbak lehetnek; számoljon pufferidővel.",
+              "Egy kis, összecsukható esernyő jól elfér a táskában."
+            ],
+            "ro": [
+              "Verificați orarul în avans pentru a minimiza așteptarea în ploaie.",
+              "Pregătiți mărunțiș sau cardul pentru bilet.",
+              "Autobuzele pot fi mai aglomerate pe ploaie; alocați timp suplimentar.",
+              "O umbrelă mică, pliabilă, încape ușor în geantă."
+            ],
+            "en": [
+              "Check the schedule in advance to minimize waiting in the rain.",
+              "Have small change or a card ready for the ticket.",
+              "Buses might be more crowded in the rain; allow buffer time.",
+              "A small, foldable umbrella fits well in a bag."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Fahrt mit dem Bus zum Stere-Park, wo wir die klare Luft genießen. Das Museum ist am Vormittag ein willkommener Ort, um der Kälte zu entfliehen. Nach der Rückkehr ins Zentrum besuchen wir die St.-Stelian-Kirche, die eine warme und friedliche Atmosphäre bietet. Die Nutzung öffentlicher Verkehrsmittel ist im Winter eine sichere und entspannte Art, Bucov zu erkunden.",
+            "hu": "Téli buszozás a Stere parkhoz, ahol élvezzük a tiszta levegőt. A múzeum délelőtt szívesen látott helyszín a hideg elől való menekülésre. A központba való visszatérés után meglátogatjuk a Szent Sztelián templomot, amely meleg és békés légkört áraszt. A tömegközlekedés télen biztonságos és pihentető módja Bucov felfedezésének.",
+            "ro": "O călătorie de iarnă cu autobuzul spre Parcul Stere, unde savurăm aerul curat. Muzeul este un loc binevenit dimineața pentru a scăpa de frig. După revenirea în centru vizităm Biserica Sf. Stelian, care oferă o atmosferă caldă și pașnică. Utilizarea transportului public iarna este o modalitate sigură și relaxantă de a explora Bucovul.",
+            "en": "A winter ride by bus to Stere Park, where we enjoy the crisp air. The museum is a welcome morning spot to escape the cold. After returning to the center, we visit St. Stelian Church, which offers a warm and peaceful atmosphere. Using public transport in winter is a safe and relaxing way to explore Bucov."
+          },
+          "stops": [
+            {
+              "name": "Bus Stop at Constantin Stere Memorial Park",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glätte beim Ein- und Aussteigen.",
+                "hu": "Vigyázzon a csúszásveszélyre a le- és felszálláskor.",
+                "ro": "Atenție la polei când urcați sau coborâți din autobuz.",
+                "en": "Watch out for ice when getting on or off the bus."
+              }
+            },
+            {
+              "name": "Constantin Stere Memorial Park",
+              "tip_5lang": {
+                "de": "Der Weg zum Museum ist im Winter kurz und meist geräumt.",
+                "hu": "A múzeumba vezető út télen rövid és általában letakarított.",
+                "ro": "Drumul spre muzeu este scurt și de obicei curățat de zăpadă.",
+                "en": "The path to the museum is short and usually cleared in winter."
+              }
+            },
+            {
+              "name": "Constantin Stere Memorial Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Wärme der Ausstellungsräume voll aus.",
+                "hu": "Használja ki teljesen a kiállítótermek melegét.",
+                "ro": "Profitați din plin de căldura sălilor de expoziție.",
+                "en": "Make full use of the warmth in the exhibition halls."
+              }
+            },
+            {
+              "name": "Bucov Center Bus Stop",
+              "tip_5lang": {
+                "de": "Zentraler Ort; halten Sie sich in Bewegung, um warm zu bleiben.",
+                "hu": "Központi helyszín; maradjon mozgásban, hogy melegen tartsa magát.",
+                "ro": "Loc central; rămâneți în mișcare pentru a vă menține căldura corporală.",
+                "en": "Central location; keep moving to stay warm while waiting."
+              }
+            },
+            {
+              "name": "Saint Stelian Church",
+              "tip_5lang": {
+                "de": "Ein schöner Abschluss in der Nähe der Haltestelle für die Heimfahrt.",
+                "hu": "Szép lezárás a megálló közelében a hazaúthoz.",
+                "ro": "Un final frumos aproape de stație pentru drumul spre casă.",
+                "en": "A nice finish near the stop for your return journey."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse sind im Winter meist gut beheizt.",
+              "Prüfen Sie mögliche Fahrplanänderungen bei starkem Schneefall.",
+              "Die Sonne geht früh unter; planen Sie die Rückfahrt vor 17:00 Uhr.",
+              "Tragen Sie warme Schuhe mit gutem Profil für die Haltestellenwege."
+            ],
+            "hu": [
+              "A buszok télen általában jól fűtöttek.",
+              "Ellenőrizze az esetleges menetrendi változásokat erős havazáskor.",
+              "A nap korán nyugszik; tervezze a visszautat 17:00 előtt.",
+              "Viseljen meleg, jó tapadású cipőt a megállókhoz vezető utakhoz."
+            ],
+            "ro": [
+              "Autobuzele sunt de obicei bine încălzite iarna.",
+              "Verificați posibilele modificări de orar în caz de ninsoare abundentă.",
+              "Soarele apune devreme; planificați întoarcerea înainte de ora 17:00.",
+              "Purtați încălțăminte călduroasă cu talpă aderentă pentru drumul spre stații."
+            ],
+            "en": [
+              "Buses are usually well-heated in winter.",
+              "Check for potential schedule changes during heavy snowfall.",
+              "The sun sets early; plan your return journey before 17:00.",
+              "Wear warm shoes with good grip for the walks to/from stops."
+            ]
+          }
+        }
       }
     }
   }

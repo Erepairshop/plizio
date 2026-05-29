@@ -302,6 +302,196 @@
           "Wear comfortable shoes as you will be doing a lot of walking.",
           "Check Birr Castle's opening times in advance as they can vary seasonally."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens am Emmet Square unter Arkaden Schutz suchen. Cumberland Pillar im grauen Licht bewundern, bevor es zur St. Brendan's Church geht. Mittags im Science Centre von Birr Castle stundenlang im Trockenen forschen. Nachmittags kurz am Camcor-Fluss spazieren, die frische Luft genießen. Abends bietet die Bibliothek einen gemütlichen, trockenen Ausklang.",
+            "hu": "Reggel az Emmet Square körüli boltívek alatt kezdünk. A Cumberland Pillar szürkén dacol az esővel a templom felé menet. Délben a Birr Castle Science Centre épületében, fedett helyen ismerkedünk a távcsővel. Délután egy frissítő, bár vizes séta a Camcor partján. Az estét a városi könyvtár csendes és meleg menedékében zárjuk.",
+            "ro": "Dimineața în Emmet Square, căutând adăpost sub streșini. Coloana Cumberland pare dramatică prin ploaie în drum spre biserică. La prânz, Science Centre din Birr Castle oferă ore întregi de explorare la uscat. După-amiaza, o plimbare scurtă pe malul râului Camcor este revigorantă. Seara se încheie perfect în atmosfera caldă a bibliotecii.",
+            "en": "Start at Emmet Square, staying under the shop awnings. The Cumberland Pillar looks stoic in the mist before heading to the church. Spend midday exploring the indoor Science Centre at Birr Castle. In the afternoon, take a brisk, wet walk along the Camcor River for fresh air. End your day in the cozy, dry sanctuary of the local library."
+          },
+          "stops": [
+            {
+              "name": "Emmet Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Gebäudekanten als Regenschutz.",
+                "hu": "Használja az épületek ereszeit esővédőként.",
+                "ro": "Folosiți streșinile clădirilor pentru a evita ploaia.",
+                "en": "Use the building overhangs to stay dry while observing."
+              }
+            },
+            {
+              "name": "Cumberland Pillar",
+              "tip_5lang": {
+                "de": "Der Boden kann bei Nässe rutschig sein.",
+                "hu": "A kövezet vizesen csúszós lehet az oszlop körül.",
+                "ro": "Paveajul poate fi alunecos în jurul coloanei.",
+                "en": "The pavement can be slippery when wet near the pillar."
+              }
+            },
+            {
+              "name": "St. Brendan's Church",
+              "tip_5lang": {
+                "de": "Ein idealer Ort für eine trockene Pause.",
+                "hu": "Kiváló hely egy száraz, csendes pihenőhöz.",
+                "ro": "Un loc ideal pentru o pauză uscată și liniștită.",
+                "en": "An ideal place for a quiet, dry break from the rain."
+              }
+            },
+            {
+              "name": "Birr Castle Demesne & Science Centre",
+              "tip_5lang": {
+                "de": "Das Science Centre ist komplett überdacht.",
+                "hu": "A Science Centre teljesen fedett és interaktív.",
+                "ro": "Science Centre este complet acoperit și interactiv.",
+                "en": "The Science Centre is fully indoors and interactive."
+              }
+            },
+            {
+              "name": "River Camcor Walk",
+              "tip_5lang": {
+                "de": "Gummistiefel für den Uferweg empfohlen.",
+                "hu": "Gumicsizma ajánlott a folyóparti ösvényhez.",
+                "ro": "Cizme de cauciuc recomandate pentru poteca de pe mal.",
+                "en": "Rubber boots are recommended for the river path."
+              }
+            },
+            {
+              "name": "Birr Library",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um die Kleidung zu trocknen.",
+                "hu": "Tökéletes hely a ruházat megszárításához.",
+                "ro": "Locul perfect pentru a vă usca hainele în liniște.",
+                "en": "Perfect spot to dry off and enjoy a local book."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine hochwertige Regenjacke mit Kapuze für den Wind.",
+              "Das Birr Castle Science Centre ist der beste Zufluchtsort bei Dauerregen.",
+              "Die Bibliothek bietet kostenloses WLAN und warme Sitzplätze.",
+              "Die Wege am Fluss Camcor können Pfützen bilden, festes Schuhwerk ist Pflicht.",
+              "Regenschirme sind wegen der Windböen oft unpraktisch, wählen Sie Ponchos."
+            ],
+            "hu": [
+              "Viseljen kapucnis esőkabátot az ír szél miatt.",
+              "A Birr Castle tudományos központja a legjobb menedék tartós esőben.",
+              "A könyvtárban ingyenes wifi és fűtött váró várja.",
+              "A Camcor-menti ösvényeken sok a tócsa, vízhatlan cipő kell.",
+              "Az esernyő a szél miatt gyakran használhatatlan, a poncsó jobb választás."
+            ],
+            "ro": [
+              "Purtați o jachetă de ploaie cu glugă din cauza vântului.",
+              "Centrul științific de la Birr Castle este cel mai bun refugiu pe ploaie.",
+              "Biblioteca oferă Wi-Fi gratuit și locuri încălzite.",
+              "Potecile de lângă Camcor pot avea bălți mari, încălțămintea impermeabilă e vitală.",
+              "Umbrelele sunt greu de folosit în vânt, alegeți o pelerină de ploaie."
+            ],
+            "en": [
+              "Wear a high-quality raincoat with a hood due to the wind.",
+              "Birr Castle Science Centre is your best long-term indoor escape.",
+              "The library offers free Wi-Fi and a warm place to rest.",
+              "The river paths can get very puddled, so waterproof shoes are a must.",
+              "Umbrellas are often useless in the wind; a poncho is more effective."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Regnerischer Start am Emmet Square mit frostigem Wind. Die Cumberland Pillar steht einsam im Winternebel. In der St. Brendan's Church wärmen wir uns kurz auf. Mittags bestaunen wir das Teleskop im Schlossgarten, bevor es dunkel wird. Nachmittags ist der Flussweg frostig schön. Den Tag beschließen wir in der geheizten Bibliothek bei einer lokalen Zeitung.",
+            "hu": "Deres reggel az Emmet Square-en, csípős széllel. A Cumberland Pillar magányosan áll a téli ködben. A St. Brendan templomban melegedhetünk fel egy kicsit. Délben a kastély hatalmas távcsövét nézzük meg, mielőtt korán sötétedne. Délután a befagyott Camcor-part mentén sétálunk. Az estét a fűtött könyvtárban zárjuk egy újsággal.",
+            "ro": "Dimineață geroasă în Emmet Square, cu un vânt tăios. Coloana Cumberland stă singuratică în ceața iernii. În biserica St. Brendan ne încălzim puțin sufletul. La prânz admirăm telescopul în grădinile castelului înainte de amurgul timpuriu. După-amiaza, malul râului este superb și înghețat. Încheiem ziua în biblioteca încălzită.",
+            "en": "A frosty morning start at Emmet Square with a biting breeze. The Cumberland Pillar stands tall in the winter mist. Warm up briefly inside St. Brendan's Church. Spend midday at the Castle to see the Great Telescope before the early sunset. The river walk is crisp and beautiful in the low light. End your afternoon in the heated town library."
+          },
+          "stops": [
+            {
+              "name": "Emmet Square",
+              "tip_5lang": {
+                "de": "Handschuhe anbehalten beim Fotografieren.",
+                "hu": "Tartsa melegen a kezeit fotózás közben is.",
+                "ro": "Păstrați-vă mănușile când faceți fotografii.",
+                "en": "Keep your gloves on while taking photos here."
+              }
+            },
+            {
+              "name": "Cumberland Pillar",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf dem Kopfsteinpflaster.",
+                "hu": "Vigyázzon a jegesedésre a macskaköveken.",
+                "ro": "Atenție la polei pe pietrele cubice de lângă coloană.",
+                "en": "Watch for black ice on the cobblestones around the pillar."
+              }
+            },
+            {
+              "name": "St. Brendan's Church",
+              "tip_5lang": {
+                "de": "Ein Ort der Stille und leichten Wärme.",
+                "hu": "A csend és a relatív meleg szigete télen.",
+                "ro": "Un refugiu de liniște și căldură moderată.",
+                "en": "A sanctuary of silence and moderate warmth in winter."
+              }
+            },
+            {
+              "name": "Birr Castle Demesne & Science Centre",
+              "tip_5lang": {
+                "de": "Das Teleskop ist im Winterlicht sehr imposant.",
+                "hu": "A távcső a téli fényekben lenyűgöző látvány.",
+                "ro": "Telescopul este impunător în lumina palidă de iarnă.",
+                "en": "The telescope looks massive and imposing in winter light."
+              }
+            },
+            {
+              "name": "River Camcor Walk",
+              "tip_5lang": {
+                "de": "Achtung, der Weg kann am Nachmittag gefrieren.",
+                "hu": "Figyelem, az ösvény délutánra lefagyhat.",
+                "ro": "Atenție, poteca de lângă râu poate îngheța după-amiaza.",
+                "en": "Caution: the river path can freeze over in the late afternoon."
+              }
+            },
+            {
+              "name": "Birr Library",
+              "tip_5lang": {
+                "de": "Der wärmste Ort der Stadt für eine Pause.",
+                "hu": "A város legmelegebb pontja egy kulturális pihenőhöz.",
+                "ro": "Cel mai cald loc din oraș pentru o pauză culturală.",
+                "en": "The warmest spot in town for a cultural break."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Winter gegen 16:15 Uhr unter.",
+              "Zwiebelprinzip bei der Kleidung ist für den Schlossbesuch ratsam.",
+              "Die Schlossgärten schließen im Winter früher als im Sommer.",
+              "Ein Thermosbecher mit Tee ist für den Camcor-Spaziergang ideal.",
+              "Nutzen Sie die Mittagsstunden für die Außenanlagen des Schlosses."
+            ],
+            "hu": [
+              "A nap télen már 16:15 körül lemegy, tervezzen korán.",
+              "Réteges öltözködés javasolt a kastélypark bejárásához.",
+              "A kastélykert télen korábban zár, mint nyáron.",
+              "Vigyen termoszban meleg teát a folyóparti sétához.",
+              "Használja ki a déli órákat a kastély kültéri látnivalóihoz."
+            ],
+            "ro": [
+              "Soarele apune în jurul orei 16:15, planificați-vă timpul.",
+              "Îmbrăcați-vă în straturi pentru a vizita grădinile castelului.",
+              "Grădinile castelului se închid mai devreme în timpul iernii.",
+              "Un termos cu ceai cald este ideal pentru plimbarea pe mal.",
+              "Profitați de orele prânzului pentru vizitarea exteriorului castelului."
+            ],
+            "en": [
+              "Sunset is around 16:15 in winter, plan your outdoor time early.",
+              "Layered clothing is essential for the castle gardens walk.",
+              "The castle demesne closes earlier in winter than in summer.",
+              "A thermos with tea is ideal for the crisp Camcor river walk.",
+              "Utilize the midday hours for the outdoor castle features."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -602,6 +792,196 @@
           "Bring a rain jacket, Irish weather is unpredictable.",
           "Use a cycling navigation app to find the best routes."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens am Emmet Square die Reifen prüfen, es ist rutschig. Kurzer Stopp an der St. Brendan's Church zum Unterstellen. Mittags das Fahrrad am Schloss sicher parken und das Teleskop besichtigen. Der Camcor-Radweg fordert Vorsicht bei Pfützen. Nachmittags bei der Bibliothek halten und zum Abschluss ein warmes Getränk im Pub genießen.",
+            "hu": "Reggel ellenőrizze a gumikat az Emmet Square-en, csúszik az út. Rövid megálló a templomnál, ahol fedett helyre húzódhat. Délben parkolja le a bringát a kastélynál, és nézze meg a távcsövet. A Camcor kerékpárút a tócsák miatt óvatosságot igényel. Délután a könyvtárnál pihenünk, végül egy forró itallal zárunk.",
+            "ro": "Dimineața în Emmet Square, verificați cauciucurile, drumul e umed. Oprire scurtă la biserică pentru a vă feri de ploaie. La prânz parcați bicicleta la castel și vizitați telescopul. Pistele de pe Camcor necesită atenție la bălți. După-amiaza la bibliotecă, iar seara un ceai fierbinte într-un pub.",
+            "en": "Check your tires at Emmet Square as the roads are slick. Take cover briefly at St. Brendan's Church during heavy spells. Park your bike securely at the Castle and enjoy the Great Telescope. The Camcor cycle path requires caution due to puddles. Visit the library in the afternoon and end with a warm drink."
+          },
+          "stops": [
+            {
+              "name": "Emmet Square",
+              "tip_5lang": {
+                "de": "Vorsicht auf den nassen Markierungen am Boden.",
+                "hu": "Vigyázzon a vizes útburkolati jeleken.",
+                "ro": "Atenție la marcajele rutiere umede, pot fi alunecoase.",
+                "en": "Caution on wet road markings, they can be slippery."
+              }
+            },
+            {
+              "name": "St. Brendan's Church",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Bäume als natürlichen Windschutz.",
+                "hu": "Használja a fákat természetes szélfogónak.",
+                "ro": "Folosiți copacii ca protecție naturală împotriva vântului.",
+                "en": "Use the trees as a natural windbreak for your bike."
+              }
+            },
+            {
+              "name": "Birr Castle Demesne & The Great Telescope",
+              "tip_5lang": {
+                "de": "Fahrradständer am Eingang sind teils überdacht.",
+                "hu": "A bejáratnál lévő tárolók részben fedettek.",
+                "ro": "Rastelurile de biciclete de la intrare sunt parțial acoperite.",
+                "en": "The bike racks at the entrance are partially sheltered."
+              }
+            },
+            {
+              "name": "River Camcor Cycle Path",
+              "tip_5lang": {
+                "de": "Schutzbleche sind heute Ihr bester Freund.",
+                "hu": "A sárvédő ma a legjobb barátja lesz.",
+                "ro": "Apărătorile de noroi sunt esențiale astăzi.",
+                "en": "Mudguards are your best friend today on the trail."
+              }
+            },
+            {
+              "name": "Birr Library & Emmet Square",
+              "tip_5lang": {
+                "de": "Fahrrad sicher abschließen und innen aufwärmen.",
+                "hu": "Zárja le biztonságosan a bringát, és melegedjen bent.",
+                "ro": "Încuiați bine bicicleta și încălziți-vă în interior.",
+                "en": "Lock your bike securely and warm up inside."
+              }
+            },
+            {
+              "name": "Farewell Drink",
+              "tip_5lang": {
+                "de": "Heißer Whiskey oder Tee wärmt nach der Fahrt.",
+                "hu": "Egy forró whiskey vagy tea segít a tekerés után.",
+                "ro": "Un whiskey cald sau un ceai vă va încălzi rapid.",
+                "en": "A hot whiskey or tea is perfect after a wet ride."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie starkes Bremsen auf nassem Kopfsteinpflaster.",
+              "Vollständige Regenbekleidung inklusive Überschuhen empfohlen.",
+              "Das Birr Castle bietet gute Abstellmöglichkeiten im Eingangsbereich.",
+              "Halten Sie Abstand zu Pfützen, da diese tiefer sein könnten.",
+              "Trinken Sie zwischendurch etwas Warmes, um die Körpertemperatur zu halten."
+            ],
+            "hu": [
+              "Kerülje az erős fékezést a vizes macskaköveken.",
+              "Teljes esőruházat és vízhatlan kamásli ajánlott.",
+              "A Birr Castle bejáratánál jó parkolóhelyek vannak a bringáknak.",
+              "Kerülje a mélyebb tócsákat a folyóparti úton.",
+              "Igyon rendszeresen valami meleg italt a testhőmérséklet megőrzéséhez."
+            ],
+            "ro": [
+              "Evitați frânarea bruscă pe pietrele cubice umede.",
+              "Echipament complet de ploaie, inclusiv protecții pentru pantofi.",
+              "Birr Castle oferă locuri bune de parcare lângă intrare.",
+              "Evitați bălțile, deoarece pot ascunde gropi adânci.",
+              "Beți ceva cald pe traseu pentru a vă menține temperatura."
+            ],
+            "en": [
+              "Avoid sudden braking on wet cobblestones in the town.",
+              "Full rain gear including overshoes is highly recommended.",
+              "Birr Castle has reliable bike parking near the main gate.",
+              "Stay clear of deep puddles on the Camcor path; they hide potholes.",
+              "Stop for a hot beverage to maintain your core temperature."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Kalte Brise am Morgen am Emmet Square. Schnelle Fahrt zur St. Brendan's Church, um in Bewegung zu bleiben. Mittags am Birr Castle das Teleskop bewundern, solange das Licht reicht. Der Camcor-Radweg ist im Winterwind fordernd. Nachmittags Zwischenstopp bei der Bibliothek und ein gemütliches Finale mit einem Drink zum Aufwärmen.",
+            "hu": "Hideg szél fogad reggel az Emmet Square-en. Gyors tekerés a templomig, hogy mozgásban maradjunk. Délben a Birr Castle távcsövét csodáljuk meg a téli napsütésben. A Camcor kerékpárút a téli szélben keményebb terep. Délután a könyvtárnál pihenünk, majd egy forró itallal zárjuk a napot.",
+            "ro": "Briză rece dimineața în Emmet Square. Pedalați rapid spre biserică pentru a vă menține căldura. La prânz admirați telescopul de la castel în lumina iernii. Traseul de pe Camcor este provocator din cauza vântului rece. După-amiaza la bibliotecă, apoi un final relaxant cu o băutură caldă.",
+            "en": "A chilly breeze greets you at Emmet Square. Pedal quickly to St. Brendan's Church to stay warm. Spend midday at Birr Castle admiring the massive telescope in the low winter sun. The Camcor cycle path is crisp but windy in winter. Afternoon rest at the library, followed by a warming drink to end the tour."
+          },
+          "stops": [
+            {
+              "name": "Emmet Square",
+              "tip_5lang": {
+                "de": "Warme Handschuhe sind für die Fahrt essenziell.",
+                "hu": "A meleg kesztyű elengedhetetlen a tekeréshez.",
+                "ro": "Mănușile călduroase sunt esențiale pentru acest drum.",
+                "en": "Warm gloves are essential for the ride today."
+              }
+            },
+            {
+              "name": "St. Brendan's Church",
+              "tip_5lang": {
+                "de": "Parken Sie windgeschüzt hinter der Kirchenmauer.",
+                "hu": "Parkoljon szélvédett helyen a templomfal mögött.",
+                "ro": "Parcați la ferit de vânt în spatele zidului bisericii.",
+                "en": "Park in a wind-sheltered spot behind the church wall."
+              }
+            },
+            {
+              "name": "Birr Castle Demesne & The Great Telescope",
+              "tip_5lang": {
+                "de": "Bewegung im Schlossgarten hält warm.",
+                "hu": "A séta a kastélykertben segít melegen maradni.",
+                "ro": "Mersul prin grădinile castelului vă va menține cald.",
+                "en": "Walking through the gardens will keep you warm."
+              }
+            },
+            {
+              "name": "River Camcor Cycle Path",
+              "tip_5lang": {
+                "de": "Achtung bei tiefstehender Sonne und Blendung.",
+                "hu": "Vigyázzon az alacsonyan járó nap vakítására.",
+                "ro": "Atenție la soarele jos care vă poate orbi pe traseu.",
+                "en": "Watch out for the low sun blinding you on the path."
+              }
+            },
+            {
+              "name": "Birr Library & Emmet Square",
+              "tip_5lang": {
+                "de": "Brille kann beim Eintreten beschlagen.",
+                "hu": "A szemüveg bepárásodhat a fűtött épületbe lépve.",
+                "ro": "Ochelarii se pot aburi la intrarea în clădirea caldă.",
+                "en": "Glasses may fog up when entering the heated library."
+              }
+            },
+            {
+              "name": "Farewell Drink",
+              "tip_5lang": {
+                "de": "Ein Kaminfeuer im Pub ist der beste Lohn.",
+                "hu": "A kandalló tüze a pubban a legjobb jutalom.",
+                "ro": "Focul din șemineu la pub este cea mai bună răsplată.",
+                "en": "The fireplace at the pub is your best reward."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Kleidung, besonders am Oberkörper.",
+              "Das Tageslicht endet früh, schalten Sie das Licht ab 16 Uhr ein.",
+              "Vermeiden Sie schattige Waldwege, dort hält sich Reif länger.",
+              "Thermounterwäsche ist für Radtouren im irischen Winter nötig.",
+              "Ein heißer Kakao am Nachmittag wirkt Wunder gegen die Kälte."
+            ],
+            "hu": [
+              "Viseljen szélálló ruházatot, különösen felül.",
+              "Korán sötétedik, kapcsolja be a lámpákat 16 órától.",
+              "Kerülje az árnyékos utakat, ahol a zúzmara megmarad.",
+              "A hőtartó aláöltözet kötelező az ír téli tekeréshez.",
+              "Egy forró kakaó délután csodákat művel a hideg ellen."
+            ],
+            "ro": [
+              "Purtați haine rezistente la vânt, mai ales pe torace.",
+              "Lumina zilei se termină repede, aprindeți farurile de la ora 16.",
+              "Evitați porțiunile umbrite unde chiciura persistă pe drum.",
+              "Lenjeria termică este necesară pentru ciclismul de iarnă.",
+              "O ciocolată caldă după-amiaza face minuni împotriva frigului."
+            ],
+            "en": [
+              "Wear windproof clothing, especially for your upper body.",
+              "Daylight ends early; turn your bike lights on by 16:00.",
+              "Avoid shaded paths where frost lingers longer on the asphalt.",
+              "Thermal base layers are a must for an Irish winter ride.",
+              "A hot cocoa in the afternoon works wonders against the chill."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -878,6 +1258,178 @@
           "Be mindful of farm vehicles on narrow country roads.",
           "Fill up with fuel before leaving town, petrol stations can be sparse in the countryside."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Komfortabler Start am Emmet Square, Parken direkt im Zentrum. Kurzer Weg zur St. Brendan's Church unter dem Schirm. Mittags zum Birr Castle fahren, der große Parkplatz ist nah am Eingang. Danach zum Science Centre, um das schlechte Wetter zu vergessen. Nachmittags Fahrt zur Clonoghil Farm, Natur aus dem Auto genießen.",
+            "hu": "Kényelmes kezdés az Emmet Square-en, parkolás a központban. Rövid séta esernyővel a templomig. Délben irány a Birr Castle, a tágas parkoló közel van a bejárathoz. Utána a Science Centre-ben feledjük a rossz időt. Délután autózás a Clonoghil Farm felé, a táj az ablakból is szép.",
+            "ro": "Început confortabil în Emmet Square, cu parcare în centru. Scurtă plimbare cu umbrela până la biserică. La prânz conduceți spre Birr Castle, parcarea mare e aproape de intrare. Apoi la Science Centre pentru a uita de vremea rea. După-amiaza, drum spre ferma Clonoghil.",
+            "en": "Comfortable start at Emmet Square with central parking. A quick umbrella walk to St. Brendan's Church. At midday, drive to Birr Castle where the large car park is right by the gate. Spend time at the Science Centre to escape the rain. Finish with a scenic drive towards Clonoghil Farm."
+          },
+          "stops": [
+            {
+              "name": "Town Centre Cluster: Emmet Square",
+              "tip_5lang": {
+                "de": "Zentraler Parkplatz oft belegt, früh ankommen.",
+                "hu": "A központi parkoló hamar megtelik, érkezzen korán.",
+                "ro": "Parcarea centrală se ocupă rapid, veniți devreme.",
+                "en": "Central parking fills up fast, arrive early to secure a spot."
+              }
+            },
+            {
+              "name": "Town Centre Cluster: St. Brendan's Church",
+              "tip_5lang": {
+                "de": "Parken Sie in den Seitenstraßen für kurzen Zugang.",
+                "hu": "Parkoljon a mellékutcákban a gyors bejutáshoz.",
+                "ro": "Parcați pe străzile laterale pentru acces rapid.",
+                "en": "Park in the side streets for the shortest walk to the door."
+              }
+            },
+            {
+              "name": "Castle Cluster: Birr Castle Demesne",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist befestigt und sauber.",
+                "hu": "A parkoló szilárd burkolatú és tiszta.",
+                "ro": "Parcarea este pavată și curată, fără noroi.",
+                "en": "The car park is paved and clean, no mud issues here."
+              }
+            },
+            {
+              "name": "Castle Cluster: Science Centre & Great Telescope",
+              "tip_5lang": {
+                "de": "Lassen Sie die nassen Jacken im Auto.",
+                "hu": "Hagyja a vizes kabátokat az autóban.",
+                "ro": "Lăsați jachetele umede în mașină pentru vizită.",
+                "en": "Leave your wet jackets in the car for the indoor visit."
+              }
+            },
+            {
+              "name": "Nature Cluster: Clonoghil Farm (nearby)",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Felder aus dem Wagen.",
+                "hu": "Élvezze a kilátást a földekre az autóból.",
+                "ro": "Admirați vederea spre câmpuri direct din mașină.",
+                "en": "Enjoy the view of the fields directly from your car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Scheibenwischer vor der Abfahrt.",
+              "Der Parkplatz am Birr Castle ist ideal für Regentage.",
+              "Fahren Sie vorsichtig auf den schmalen Landstraßen zur Farm.",
+              "Halten Sie Wechselkleidung im Kofferraum bereit.",
+              "Nutzen Sie Park-Apps, um das Bezahlen im Regen zu vermeiden."
+            ],
+            "hu": [
+              "Ellenőrizze az ablaktörlőket indulás előtt.",
+              "A Birr Castle parkolója ideális esős napokra.",
+              "Vezessen óvatosan a farm felé vezető keskeny utakon.",
+              "Tartson váltóruhát a csomagtartóban.",
+              "Használjon parkoló-appot, hogy ne kelljen az esőben fizetnie."
+            ],
+            "ro": [
+              "Verificați ștergătoarele înainte de a porni la drum.",
+              "Parcarea de la Birr Castle este ideală pentru zile ploioase.",
+              "Conduceți cu grijă pe drumurile înguste spre fermă.",
+              "Păstrați haine de schimb în portbagaj.",
+              "Folosiți aplicații de parcare pentru a evita plata în ploaie."
+            ],
+            "en": [
+              "Check your windshield wipers before setting off.",
+              "The Birr Castle car park is perfect for rainy day access.",
+              "Drive carefully on the narrow country roads to the farm.",
+              "Keep a change of clothes in the trunk just in case.",
+              "Use parking apps to avoid fumbling with coins in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frostiger Morgen am Emmet Square, die Heizung läuft. Kurzer Besuch der St. Brendan's Church, dann zurück ins warme Auto. Mittags zum Birr Castle, die Gärten im Winterlicht erleben. Das Teleskop wirkt bei klarem Himmel noch gewaltiger. Nachmittags Fahrt zur Farm, die winterliche Landschaft von Offaly zieht vorbei.",
+            "hu": "Deres reggel az Emmet Square-en, az autóban már jár a fűtés. Rövid látogatás a templomnál, majd vissza a meleg kocsiba. Délben a Birr Castle téli kertjét csodáljuk meg. A távcső tiszta égbolt mellett még monumentálisabb. Délután autózás a farm felé, a téli Offaly megye tájai kísérnek.",
+            "ro": "Dimineață geroasă în Emmet Square, cu încălzirea pornită. Vizită scurtă la biserică, apoi înapoi în mașina caldă. La prânz la Birr Castle pentru a vedea grădinile iarna. Telescopul pare monumental pe cerul senin. După-amiaza, drum prin peisajul hibernal din Offaly.",
+            "en": "A frosty morning at Emmet Square with the car heater on. A brief visit to St. Brendan's Church before returning to the warmth. Midday at Birr Castle to experience the winter gardens. The Great Telescope looks even bigger under a clear winter sky. Finish with a scenic drive through snowy Offaly landscapes."
+          },
+          "stops": [
+            {
+              "name": "Town Centre Cluster: Emmet Square",
+              "tip_5lang": {
+                "de": "Scheiben entfrosten dauert morgens etwas länger.",
+                "hu": "A szélvédő jégtelenítése reggel időbe telhet.",
+                "ro": "Dezghețarea parbrizului durează mai mult dimineața.",
+                "en": "De-icing your windshield may take extra time today."
+              }
+            },
+            {
+              "name": "Town Centre Cluster: St. Brendan's Church",
+              "tip_5lang": {
+                "de": "Vorsicht beim Aussteigen auf glattem Asphalt.",
+                "hu": "Vigyázzon a kiszállásnál a jeges aszfalton.",
+                "ro": "Atenție la coborârea din mașină pe asfaltul înghețat.",
+                "en": "Be careful when stepping out onto icy asphalt here."
+              }
+            },
+            {
+              "name": "Castle Cluster: Birr Castle Demesne",
+              "tip_5lang": {
+                "de": "Der Parkplatz kann im Schatten eisig sein.",
+                "hu": "A parkoló árnyékos részei jegesek lehetnek.",
+                "ro": "Parcarea poate fi înghețată în zonele cu umbră.",
+                "en": "The car park may be icy in the shaded sections."
+              }
+            },
+            {
+              "name": "Castle Cluster: Science Centre & Great Telescope",
+              "tip_5lang": {
+                "de": "Die Cafeteria am Schloss ist gut geheizt.",
+                "hu": "A kastély kávézója kellemesen fűtött.",
+                "ro": "Cafeneaua de la castel este bine încălzită.",
+                "en": "The castle cafeteria is a great place to warm up."
+              }
+            },
+            {
+              "name": "Nature Cluster: Clonoghil Farm (nearby)",
+              "tip_5lang": {
+                "de": "Bei Dämmerung auf Wildwechsel achten.",
+                "hu": "Szürkületkor figyeljen a vadakra az úton.",
+                "ro": "Atenție la animalele sălbatice pe drum la amurg.",
+                "en": "Watch for deer or wildlife on the road at twilight."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Haben Sie immer einen Eiskratzer griffbereit.",
+              "Prüfen Sie den Frostschutz in der Scheibenwaschanlage.",
+              "Die Landstraßen können bei plötzlichem Frost spiegelglatt sein.",
+              "Schalten Sie das Abblendlicht auch tagsüber ein.",
+              "Planen Sie die Rückfahrt vor Einbruch der frühen Dunkelheit."
+            ],
+            "hu": [
+              "Mindig legyen kéznél jégkaparó az autóban.",
+              "Ellenőrizze a fagyállót a szélvédőmosóban.",
+              "A vidéki utak hirtelen fagy esetén tükörsimák lehetnek.",
+              "Használja a tompított fényszórót nappal is.",
+              "Tervezze meg a visszautat a korai sötétedés előtt."
+            ],
+            "ro": [
+              "Aveți mereu o racletă de gheață la îndemână.",
+              "Verificați antigelul din lichidul de parbriz.",
+              "Drumurile secundare pot fi extrem de alunecoase iarna.",
+              "Folosiți faza scurtă chiar și în timpul zilei.",
+              "Planificați drumul de întoarcere înainte de lăsarea serii."
+            ],
+            "en": [
+              "Always keep an ice scraper handy in your vehicle.",
+              "Check the anti-freeze levels in your screen wash.",
+              "Country roads can be treacherous during a sudden freeze.",
+              "Keep your low beams on even during daylight hours.",
+              "Plan your return journey before the early winter darkness."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1154,6 +1706,178 @@
           "Check the bus schedule in advance, especially for the last return journey.",
           "Have some small change ready for the bus fare."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens Ankunft am Emmet Square, Bushäuschen bieten Schutz. Kurzer Lauf zum Cumberland Pillar und zur Bibliothek. Mittags mit dem Bus zum Schloss, Haltestelle fast vor der Tür. Lange Zeit im Science Centre verbringen, um trocken zu bleiben. Nachmittags Rückfahrt zum Zentrum und kurzer Spaziergang am Fluss bei Regenpausen.",
+            "hu": "Reggeli érkezés az Emmet Square-re, a buszvárók védenek az esőtől. Gyors séta a Cumberland Pillarhoz és a könyvtárhoz. Délben busszal a kastélyhoz, a megálló szinte a kapuban van. Hosszú időt töltünk a Science Centre-ben a szárazon. Délután visszautazás a központba, rövid séta a folyónál.",
+            "ro": "Sosire dimineața în Emmet Square, refugiile de autobuz vă feresc. Scurtă fugă spre coloana Cumberland și bibliotecă. La prânz cu autobuzul la castel, stația e chiar lângă poartă. Mult timp la Science Centre pentru a rămâne la uscat. După-amiaza retur în centru.",
+            "en": "Morning arrival at Emmet Square; bus shelters provide good cover. A quick dash to Cumberland Pillar and the library. At midday, take the bus to the castle; the stop is very close to the gate. Stay dry at the Science Centre for a long visit. In the afternoon, return to the centre by bus."
+          },
+          "stops": [
+            {
+              "name": "Town Centre Cluster: Emmet Square",
+              "tip_5lang": {
+                "de": "Das Bushäuschen ist bei Wind oft zugig.",
+                "hu": "A buszváró szeles időben huzatos lehet.",
+                "ro": "Stația de autobuz poate fi expusă la vânt.",
+                "en": "The bus shelter can be drafty in windy rain."
+              }
+            },
+            {
+              "name": "Town Centre Cluster: Cumberland Pillar & Library",
+              "tip_5lang": {
+                "de": "Die Bibliothek ist ein toller Wartebereich.",
+                "hu": "A könyvtár remek várakozóhely a buszhoz.",
+                "ro": "Biblioteca este un loc excelent de așteptare.",
+                "en": "The library is an excellent place to wait for a bus."
+              }
+            },
+            {
+              "name": "Castle Cluster: Birr Castle Bus Stop",
+              "tip_5lang": {
+                "de": "Halten Sie die Fahrkarte griffbereit.",
+                "hu": "Tartsa készenlétben a jegyét a felszálláshoz.",
+                "ro": "Aveți biletul pregătit pentru urcare.",
+                "en": "Have your ticket or pass ready to board quickly."
+              }
+            },
+            {
+              "name": "Castle Cluster: Birr Castle & Science Centre",
+              "tip_5lang": {
+                "de": "Überprüfen Sie die Rückfahrzeiten vorab.",
+                "hu": "Ellenőrizze előre a visszainduló buszokat.",
+                "ro": "Verificați orele de retur în avans.",
+                "en": "Check the return bus times before entering the castle."
+              }
+            },
+            {
+              "name": "Nature Cluster: River Camcor & St. Brendan's",
+              "tip_5lang": {
+                "de": "Weg zur Haltestelle kann matschig sein.",
+                "hu": "A megállóhoz vezető út saras lehet.",
+                "ro": "Drumul spre stație poate fi noroios.",
+                "en": "The path to the bus stop may be muddy."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie Echtzeit-Apps für Busabfahrten im Regen.",
+              "Die Bibliothek am Emmet Square ist der beste Warteort.",
+              "Tragen Sie wasserfeste Schuhe für den Weg zur Haltestelle.",
+              "Busse können bei starkem Regen leichte Verspätungen haben.",
+              "Ein kleiner Taschenschirm passt in jede Pendlertasche."
+            ],
+            "hu": [
+              "Használjon valós idejű menetrendet az esőben.",
+              "Az Emmet Square-nél a könyvtár a legjobb várakozóhely.",
+              "Viseljen vízálló cipőt a buszmegállóhoz menet.",
+              "A buszok nagy esőben késhetnek egy kicsit.",
+              "Egy kisméretű esernyő mindig legyen a táskájában."
+            ],
+            "ro": [
+              "Folosiți aplicații în timp real pentru orele autobuzelor.",
+              "Biblioteca din Emmet Square este cea mai bună sală de așteptare.",
+              "Purtați încălțăminte impermeabilă spre stație.",
+              "Autobuzele pot avea întârzieri pe ploaie torențială.",
+              "O umbrelă mică este indispensabilă pentru drumul spre stație."
+            ],
+            "en": [
+              "Use real-time transit apps to minimize waiting in the rain.",
+              "The library near Emmet Square is the best place to wait.",
+              "Wear waterproof footwear for the walk to the bus stops.",
+              "Buses may experience slight delays during heavy downpours.",
+              "A small travel umbrella is perfect for transit users here."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens Ankunft im winterlichen Birr, die Busse sind angenehm geheizt. Kurze Besichtigung im Zentrum, dann zur Bibliothek zum Aufwärmen. Mittags Fahrt zum Birr Castle, die schneebedeckten Gärten wirken verzaubert. Den Nachmittag im Science Centre verbringen, bis der Bus zurückfährt. Abends am Fluss die blaue Stunde genießen, bevor die Kälte siegt.",
+            "hu": "Reggeli érkezés a téli Birrbe, a buszok kellemesen fűtöttek. Rövid városnézés, majd melegedés a könyvtárban. Délben busszal a kastélyhoz, a havas kert varázslatos látvány. A délutánt a Science Centre-ben töltjük a buszig. Este a folyónál élvezzük a kék órát a hideg ellenére.",
+            "ro": "Sosire dimineața în Birr, autobuzele sunt bine încălzite. Scurtă vizită în centru, apoi la bibliotecă. La prânz cu autobuzul la castel, grădinile par desprinse din basme. După-amiaza la Science Centre până vine autobuzul înapoi. Seara admirăm malul râului înghețat.",
+            "en": "Morning arrival in winter Birr; the buses are nice and warm. Short sightseeing tour in the centre, then warm up at the library. Midday bus to Birr Castle; the frosty gardens look magical. Spend the afternoon at the Science Centre until your bus arrives. Enjoy the twilight at the river before the chill sets in."
+          },
+          "stops": [
+            {
+              "name": "Town Centre Cluster: Emmet Square",
+              "tip_5lang": {
+                "de": "Warten Sie im Café gegenüber der Haltestelle.",
+                "hu": "Várjon a megállóval szemközti kávézóban.",
+                "ro": "Așteptați în cafeneaua de vizavi de stație.",
+                "en": "Wait in the cafe opposite the stop to stay warm."
+              }
+            },
+            {
+              "name": "Town Centre Cluster: Cumberland Pillar & Library",
+              "tip_5lang": {
+                "de": "Die Bibliothek bietet kostenlosen Schutz vor Frost.",
+                "hu": "A könyvtár ingyenes menedék a fagy ellen.",
+                "ro": "Biblioteca oferă protecție gratuită împotriva gerului.",
+                "en": "The library provides free shelter from the biting frost."
+              }
+            },
+            {
+              "name": "Castle Cluster: Birr Castle Bus Stop",
+              "tip_5lang": {
+                "de": "Achten Sie auf gefrorene Pfützen an der Kante.",
+                "hu": "Vigyázzon a befagyott tócsákra a padka mellett.",
+                "ro": "Atenție la bălțile înghețate de lângă bordură.",
+                "en": "Watch for frozen puddles near the curb of the stop."
+              }
+            },
+            {
+              "name": "Castle Cluster: Birr Castle & Science Centre",
+              "tip_5lang": {
+                "de": "Innenräume sind der ideale Winterrückzugsort.",
+                "hu": "A belső terek ideális téli menedéket nyújtanak.",
+                "ro": "Spațiile interioare sunt refugiul ideal de iarnă.",
+                "en": "The indoor exhibits are the ideal winter escape."
+              }
+            },
+            {
+              "name": "Nature Cluster: River Camcor & St. Brendan's",
+              "tip_5lang": {
+                "de": "Der Fußweg zur Haltestelle kann glatt sein.",
+                "hu": "A megállóhoz vezető járda jeges lehet.",
+                "ro": "Trotuarul spre stație poate fi alunecos.",
+                "en": "The sidewalk to the bus stop may be icy."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrpläne können im Winter wetterbedingt variieren.",
+              "Die Busse sind meist sehr gut geheizt, Zwiebelprinzip hilft.",
+              "Nutzen Sie die hellen Stunden zwischen 10 und 15 Uhr.",
+              "Warme Getränke verkürzen die gefühlte Wartezeit.",
+              "Reflektoren an der Kleidung erhöhen die Sichtbarkeit im Dunkeln."
+            ],
+            "hu": [
+              "A menetrend télen az időjárás miatt változhat.",
+              "A buszok fűtöttek, a réteges öltözködés javasolt.",
+              "Használja ki a világos órákat 10 és 15 óra között.",
+              "A meleg italok lerövidítik a várakozás érzetét.",
+              "A fényvisszaverők segítenek a korai sötétben."
+            ],
+            "ro": [
+              "Orarele pot varia iarna din cauza condițiilor meteo.",
+              "Autobuzele sunt bine încălzite, îmbrăcați-vă în straturi.",
+              "Profitați de orele cu lumină între 10 și 15.",
+              "Băuturile calde fac așteptarea mai ușoară.",
+              "Elementele reflectorizante sunt utile după ora 16."
+            ],
+            "en": [
+              "Schedules may vary in winter due to road conditions.",
+              "Buses are usually well-heated; dress in layers for comfort.",
+              "Make the most of the daylight hours between 10:00 and 15:00.",
+              "Hot drinks make waiting at the stop much more bearable.",
+              "Reflective elements on your clothing are advised after 16:00."
+            ]
+          }
+        }
       }
     }
   }

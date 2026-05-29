@@ -350,6 +350,214 @@
           "Most of the sights are located close to each other.",
           "Plan time for a leisurely lunch at one of the traditional restaurants."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Vormittag beginnt geschützt in der Burg von Sabugal, wo die dicken Mauern den Regen abhalten. Mittags bietet das Museum eine ausführliche Flucht ins Trockene. Am Nachmittag führt der Weg entlang des Flusses Côa, dessen Pegel durch den Regen imposant ansteigt. Der Tag endet gemütlich in den Gassen der Altstadt, während die nassen Kopfsteinpflaster im Licht der Straßenlaternen glänzen.",
+            "hu": "A reggel a vár falai között indul, ahol a különleges ötszögletű torony védelmet nyújt az eső elől. Délben a városi múzeum kiállításai kínálnak tartalmas fedett programot. Délután a Côa folyó menti sétányon az eső illata és a megáradt víz látványa dominál. Az este a történelmi központban ér véget, ahol a nedves macskaköveken megcsillanó fények különleges hangulatot árasztanak.",
+            "ro": "Dimineața începe la adăpost în Castelul Sabugal, unde turnul pentagonal oferă protecție împotriva ploii. La prânz, Muzeul Sabugal este refugiul perfect pentru a explora istoria locală la căldură. După-amiaza, plimbarea pe malul râului Côa devine dramatică datorită debitului crescut al apei. Seara se încheie în centrul istoric, admirând reflexiile luminilor pe străzile umede de piatră.",
+            "en": "The morning starts under the protection of Sabugal Castle, where the unique pentagonal tower shields you from the rain. At noon, the Museum of Sabugal provides a perfect indoor escape to explore local history. In the afternoon, the walk along the Côa River promenade offers a dramatic view of the rising water levels. The day ends in the historic center, with streetlights reflecting beautifully on the wet cobblestones."
+          },
+          "stops": [
+            {
+              "name": "Sabugal Castle",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Bergfried als Schutz vor plötzlichen Schauern.",
+                "hu": "Az ötszögletű öregtorony kiváló menedék egy hirtelen zápor esetén.",
+                "ro": "Folosiți turnul principal ca adăpost împotriva averselor bruște.",
+                "en": "Use the keep (Torre de Menagem) as shelter from sudden rain showers."
+              }
+            },
+            {
+              "name": "Clock Tower",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp; halten Sie den Regenschirm wegen des Windes fest.",
+                "hu": "Rövid megálló; a szél miatt fogja szorosan az esernyőt.",
+                "ro": "O oprire scurtă; țineți umbrela bine din cauza vântului.",
+                "en": "A quick stop; hold your umbrella firmly due to the wind on the hill."
+              }
+            },
+            {
+              "name": "Church of Santa Maria",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um das Ende eines Regenschauers abzuwarten.",
+                "hu": "Csendes hely, ahol kényelmesen megvárhatja az eső végét.",
+                "ro": "Un loc liniștit pentru a aștepta trecerea unei reprize de ploaie.",
+                "en": "A quiet place to wait out the end of a rain shower comfortably."
+              }
+            },
+            {
+              "name": "Museum of Sabugal",
+              "tip_5lang": {
+                "de": "Ideal, um bei starkem Regen viel Zeit im Trockenen zu verbringen.",
+                "hu": "Ideális helyszín, hogy erős esőben hosszabb időt töltsön fedett helyen.",
+                "ro": "Ideal pentru a petrece mult timp la adăpost în caz de ploaie torențială.",
+                "en": "Ideal place to spend extended time indoors during heavy rain."
+              }
+            },
+            {
+              "name": "Pillory of Sabugal",
+              "tip_5lang": {
+                "de": "Vorsicht beim Fotografieren, der Boden um den Pranger ist rutschig.",
+                "hu": "Vigyázzon a fotózáskor, a pellengér körüli kövek csúszósak.",
+                "ro": "Atenție la fotografiat, pavajul din jurul stâlpului este alunecos.",
+                "en": "Be careful while taking photos; the pavement around the pillory is slippery."
+              }
+            },
+            {
+              "name": "Côa Riverside Promenade",
+              "tip_5lang": {
+                "de": "Wasserfeste Schuhe sind für den ufernahen Weg unbedingt ratsam.",
+                "hu": "A vízparti sétányhoz vízálló cipő viselése mindenképpen ajánlott.",
+                "ro": "Încălțămintea impermeabilă este recomandată pentru drumul de lângă râu.",
+                "en": "Waterproof shoes are highly recommended for the riverside path."
+              }
+            },
+            {
+              "name": "City Garden",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den großen Bäumen oder im nahen Pavillon.",
+                "hu": "Keressen menedéket a nagy fák alatt vagy a közeli pavilonban.",
+                "ro": "Căutați adăpost sub copacii mari sau în pavilionul din apropiere.",
+                "en": "Seek shelter under the large trees or in the nearby pavilion."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine Regenjacke mit Kapuze, da Schirme bei Wind am Burgberg unpraktisch sind.",
+              "Die Museen und Kirchen sind perfekte 'trockene Inseln' während Ihrer Tour.",
+              "Achten Sie auf das glatte Kopfsteinpflaster in der Oberstadt (Vila).",
+              "Die Burg bietet im Inneren der Mauern guten Schutz vor Wind und Wetter.",
+              "Nutzen Sie die Regenpausen für Fotos vom Fluss, wenn der Nebel aufsteigt."
+            ],
+            "hu": [
+              "Viseljen kapucnis esőkabátot, mert a várhegyen a szél miatt az ernyő nehezen használható.",
+              "A múzeum és a templomok kiváló 'száraz szigetek' a városnézés során.",
+              "Vigyázzon a felsőváros (Vila) simára kopott, esőben csúszós macskakövein.",
+              "A vár belső udvara és tornyai jó védelmet nyújtanak a szél ellen.",
+              "Használja ki az esőmentes szüneteket a folyóparti fotózásra, amikor felszáll a pára."
+            ],
+            "ro": [
+              "Purtați o pelerină de ploaie cu glugă, umbrelele sunt greu de folosit pe dealul castelului.",
+              "Muzeul și bisericile sunt 'insule uscate' perfecte în timpul turului.",
+              "Atenție la pavajul de piatră din orașul vechi, care devine foarte alunecos la ploaie.",
+              "Castelul oferă o protecție bună împotriva vântului în interiorul zidurilor sale.",
+              "Profită de pauzele dintre ploi pentru fotografii la râu, când se ridică ceața."
+            ],
+            "en": [
+              "Wear a hooded raincoat, as umbrellas are difficult to manage in the castle hill wind.",
+              "The museum and churches are perfect 'dry islands' during your walking tour.",
+              "Be careful on the smooth cobblestones of the upper town (Vila), which get slippery.",
+              "The castle interior and towers provide excellent protection from wind and rain.",
+              "Take advantage of breaks in the rain for photos by the river as the mist rises."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen in Sabugal ist oft frostig und klar, ideal für die Besichtigung der Burg bei schräg einfallendem Sonnenlicht. Mittags wärmt man sich im Museum oder bei einem heißen Kaffee in der Nähe des Prangers auf. Nachmittags sinkt die Temperatur am Fluss Côa spürbar, wenn der Wind von der Serra da Estrela weht. Den Abend genießt man am besten früh, da die Sonne zeitig hinter den Hügeln verschwindet.",
+            "hu": "A téli reggel Sabugalban gyakran fagyos és tiszta, tökéletes a vár felfedezéséhez a laposan beeső napfényben. Délben a múzeumban vagy a pellengér környéki kávézókban melegedhetünk fel. Délután a Côa folyónál érezhetően lehűl a levegő, ahogy megérkezik a szél a Serra da Estrela felől. Az estét érdemes korán kezdeni, mert a nap hamar eltűnik a dombok mögött.",
+            "ro": "Dimineața de iarnă în Sabugal este adesea geroasă și senină, ideală pentru a vizita castelul în lumina caldă a soarelui. La prânz, ne încălzim la muzeu sau cu o cafea fierbinte lângă stâlpul infamiei. După-amiaza, temperatura scade simțitor lângă râul Côa când bate vântul dinspre Serra da Estrela. Seara trebuie savurată devreme, deoarece soarele apune repede după dealuri.",
+            "en": "The winter morning in Sabugal is often frosty and clear, perfect for exploring the castle in the low-angled sunlight. At noon, warm up in the museum or with a hot coffee near the pillory. In the afternoon, temperatures drop noticeably by the Côa River as the wind blows from the Serra da Estrela. The evening is best enjoyed early, as the sun sets quickly behind the hills."
+          },
+          "stops": [
+            {
+              "name": "Sabugal Castle",
+              "tip_5lang": {
+                "de": "Die Steinmauern speichern die Kälte; tragen Sie warme Handschuhe.",
+                "hu": "A kőfalak ontják a hideget; viseljen meleg kesztyűt a korlátoknál.",
+                "ro": "Zidurile de piatră rețin frigul; purtați mănuși groase.",
+                "en": "The stone walls retain the cold; wear warm gloves when touching railings."
+              }
+            },
+            {
+              "name": "Clock Tower",
+              "tip_5lang": {
+                "de": "Bester Ort für Fotos im klaren, kalten Winterlicht.",
+                "hu": "A legjobb hely fotózásra a tiszta, hideg téli fényekben.",
+                "ro": "Cel mai bun loc pentru fotografii în lumina clară și rece de iarnă.",
+                "en": "Best spot for photos in the clear, sharp winter light."
+              }
+            },
+            {
+              "name": "Church of Santa Maria",
+              "tip_5lang": {
+                "de": "Das Innere ist oft wärmer als der windige Hügel draußen.",
+                "hu": "A templombelső gyakran melegebb, mint a szeles várhegy.",
+                "ro": "Interiorul este adesea mai cald decât dealul vântos de afară.",
+                "en": "The interior is often warmer than the windy hill outside."
+              }
+            },
+            {
+              "name": "Museum of Sabugal",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Heizung im Gebäude für eine längere Pause.",
+                "hu": "Használja ki az épület fűtését egy hosszabb pihenőre.",
+                "ro": "Profită de încălzirea din clădire pentru o pauză mai lungă.",
+                "en": "Take advantage of the building's heating for a longer rest."
+              }
+            },
+            {
+              "name": "Pillory of Sabugal",
+              "tip_5lang": {
+                "de": "In der Nähe gibt es Cafés für einen wärmenden 'Galão'.",
+                "hu": "A közelben több kávézó várja egy melegítő 'Galão'-ra.",
+                "ro": "În apropiere sunt cafenele unde puteți bea un 'Galão' fierbinte.",
+                "en": "Nearby cafes offer a warming 'Galão' (Portuguese latte)."
+              }
+            },
+            {
+              "name": "Côa Riverside Promenade",
+              "tip_5lang": {
+                "de": "Achten Sie auf Raureif; die Holzstege können glatt sein.",
+                "hu": "Vigyázzon a dérrel; a fapallók reggelente csúszósak lehetnek.",
+                "ro": "Atenție la chiciură; podețele de lemn pot fi alunecoase.",
+                "en": "Watch out for frost; the wooden walkways can be slippery in the morning."
+              }
+            },
+            {
+              "name": "City Garden",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe, bevor es nach 17:00 Uhr dunkel wird.",
+                "hu": "Élvezze a csendet, mielőtt 17:00 után gyorsan besötétedik.",
+                "ro": "Bucurați-vă de liniște înainte de a se întuneca, după ora 17:00.",
+                "en": "Enjoy the tranquility before it gets dark after 5:00 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Sabugal liegt hoch; warme Kleidung in Schichten ist im Winter Pflicht.",
+              "Die Sonne geht gegen 17:15 Uhr unter, planen Sie die Burgbesichtigung früher ein.",
+              "Der Wind aus der Serra da Estrela kann sehr beißend sein.",
+              "Probieren Sie lokale Winterspezialitäten wie Kastanien in den Cafés.",
+              "Tragen Sie Schuhe mit gutem Profil wegen möglicher Glätte auf den Steinen."
+            ],
+            "hu": [
+              "Sabugal magasan fekszik; a réteges, meleg öltözet télen kötelező.",
+              "A nap 17:15 körül nyugszik, a várnézést időzítse kora délutánra.",
+              "A Serra da Estrela felől fújó szél metszően hideg lehet.",
+              "Kóstolja meg a helyi téli csemegéket, például a sült gesztenyét a kávézókban.",
+              "Válasszon jó tapadású talpú cipőt a kövek esetleges jegesedése miatt."
+            ],
+            "ro": [
+              "Sabugal este situat la altitudine; hainele groase în straturi sunt obligatorii iarna.",
+              "Soarele apune în jurul orei 17:15, planificați vizita la castel mai devreme.",
+              "Vântul care vine dinspre Serra da Estrela poate fi foarte tăios.",
+              "Încercați specialitățile locale de iarnă, cum ar fi castanele, în cafenele.",
+              "Purtați încălțăminte cu talpă aderentă din cauza posibilei polei pe piatră."
+            ],
+            "en": [
+              "Sabugal is at high altitude; warm layered clothing is essential in winter.",
+              "Sunset is around 5:15 PM, so plan your castle visit for early afternoon.",
+              "The wind coming from Serra da Estrela can be very biting.",
+              "Try local winter treats like chestnuts in the neighborhood cafes.",
+              "Wear shoes with good grip due to potential frost on the stone steps."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -670,6 +878,196 @@
           "Some streets in the center are steep.",
           "Use the bike paths along the river."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour durch Sabugal erfordert bei Regen Konzentration auf dem Kopfsteinpflaster. Der Morgen beginnt mit einer kurzen Fahrt zur Burg. Mittags bietet das Museum eine willkommene Pause vom nassen Wetter. Die Route führt weiter zur Sabugal-Talsperre, wo der Regen die Landschaft in ein tiefes Grün taucht, bevor die Tour am Flussufer endet.",
+            "hu": "Az esős sabugali kerékpártúra figyelmet igényel a vizes macskaköveken. A reggel a várig tartó rövid tekeréssel indul. Délben a múzeum nyújt menedéket a csapadék elől. Az útvonal a Sabugal-gát felé folytatódik, ahol az eső mélyzöldre festi a tájat, majd a folyóparti sétányon zárul a nap.",
+            "ro": "Turul cu bicicleta prin Sabugal necesită concentrare pe pavajul ud. Dimineața începe cu o scurtă cursă până la castel. La prânz, muzeul oferă o pauză binevenită de la vremea umedă. Traseul continuă spre Barajul Sabugal, unde ploaia intensifică verdele peisajului, înainte de a încheia ziua pe malul râului.",
+            "en": "Cycling through Sabugal in the rain requires focus on the wet cobblestones. The morning starts with a short ride to the castle. At noon, the museum offers a welcome break from the wet weather. The route continues towards the Sabugal Dam, where the rain turns the landscape deep green, ending the day by the riverbank."
+          },
+          "stops": [
+            {
+              "name": "Sabugal Castle",
+              "tip_5lang": {
+                "de": "Vorsicht beim Absteigen; die Steine im Burghof sind extrem glatt.",
+                "hu": "Vigyázzon a leszálláskor; a várudvar kövei rendkívül csúszósak.",
+                "ro": "Atenție la descălecat; pietrele din curtea castelului sunt foarte glisante.",
+                "en": "Be careful when dismounting; the stones in the courtyard are extremely slippery."
+              }
+            },
+            {
+              "name": "Museum of Sabugal",
+              "tip_5lang": {
+                "de": "Sichere Fahrradständer vorhanden; ideal zum Trocknen während des Besuchs.",
+                "hu": "Biztonságos tárolók; ideális hely a megszáradáshoz a látogatás alatt.",
+                "ro": "Rasteluri sigure; loc ideal pentru a vă usca în timpul vizitei.",
+                "en": "Secure bike racks available; ideal spot to dry off during your visit."
+              }
+            },
+            {
+              "name": "Church of Mercy",
+              "tip_5lang": {
+                "de": "Kurzer Stopp; nutzen Sie das Vordach zum Unterstellen.",
+                "hu": "Rövid megálló; használja az előtetőt az eső elől.",
+                "ro": "Oprire scurtă; folosiți streașina pentru a vă adăposti.",
+                "en": "Short stop; use the church porch for temporary shelter."
+              }
+            },
+            {
+              "name": "City Garden",
+              "tip_5lang": {
+                "de": "Die Wege können Schlamm aufweisen; Schutzbleche sind nötig.",
+                "hu": "Az utak sárosak lehetnek; sárvédő használata elengedhetetlen.",
+                "ro": "Potecile pot avea noroi; aripile de protecție sunt necesare.",
+                "en": "Paths may be muddy; mudguards are essential for your bike."
+              }
+            },
+            {
+              "name": "Côa Riverside Promenade",
+              "tip_5lang": {
+                "de": "Fahren Sie langsam; Holzbrücken sind bei Nässe tückisch.",
+                "hu": "Tekerjen lassan; a fahidak vizesen nagyon csalókák.",
+                "ro": "Mergeți încet; podurile de lemn sunt înșelătoare când sunt ude.",
+                "en": "Ride slowly; wooden bridges are treacherous when wet."
+              }
+            },
+            {
+              "name": "Sabugal Dam",
+              "tip_5lang": {
+                "de": "Der Wind an der Staumauer verstärkt den Regen; gute Regenbekleidung!",
+                "hu": "A gátnál a szél felerősíti az esőt; viseljen komoly esőruhát!",
+                "ro": "Vântul de la baraj intensifică ploaia; purtați echipament impermeabil!",
+                "en": "Wind at the dam intensifies the rain; wear heavy-duty rain gear!"
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Benutzen Sie unbedingt Schutzbleche, um sich vor Spritzwasser zu schützen.",
+              "Vermeiden Sie scharfes Bremsen auf dem nassen Kopfsteinpflaster der Altstadt.",
+              "Die Route zur Talsperre ist asphaltiert und bei Regen sicherer als Feldwege.",
+              "Tragen Sie neongelbe Regenkleidung für bessere Sichtbarkeit.",
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt vom Burgberg."
+            ],
+            "hu": [
+              "Használjon sárvédőt, hogy megvédje magát a felverődő víztől.",
+              "Kerülje az erős fékezést az óváros vizes macskakövein.",
+              "A gát felé vezető út aszfaltozott, esőben biztonságosabb, mint a földutak.",
+              "Viseljen élénk színű esőruházatot a jobb láthatóság érdekében.",
+              "Ellenőrizze a fékeket a várhegyről való leereszkedés előtt."
+            ],
+            "ro": [
+              "Folosiți neapărat aripi de protecție pentru a vă feri de apă.",
+              "Evitați frânările bruște pe pavajul ud din centrul vechi.",
+              "Drumul spre baraj este asfaltat și mai sigur pe ploaie decât potecile.",
+              "Purtați haine de ploaie reflectorizante pentru o vizibilitate mai bună.",
+              "Verificați frânele înainte de a coborî de pe dealul castelului."
+            ],
+            "en": [
+              "Use mudguards to protect yourself from road spray.",
+              "Avoid sharp braking on the wet cobblestones in the old town.",
+              "The road to the dam is paved and safer in the rain than dirt paths.",
+              "Wear high-visibility rain gear to be seen by drivers.",
+              "Double-check your brakes before descending from the castle hill."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in Sabugal bietet weite Ausblicke durch die kahlen Bäume. Am Morgen geht es hinauf zur Burg, wo die Luft kristallklar ist. Nach dem Aufwärmen im Museum führt die Fahrt durch den Stadtgarten zum Fluss. Das Highlight ist die Tour zur Sabugal-Talsperre am Nachmittag, bevor die Winterkälte nach Sonnenuntergang drastisch zunimmt.",
+            "hu": "A téli biciklizés Sabugalban tiszta kilátást kínál a kopár fákon keresztül. Reggel a várhoz tekerünk fel, ahol a levegő kristálytiszta. A múzeumban való bemelegítés után a városi parkon át a folyóhoz vezet az út. A délután fénypontja a gát felé tartó túra, mielőtt a naplemente után hirtelen visszatérne a fagy.",
+            "ro": "Ciclismul de iarnă în Sabugal oferă vederi largi prin copacii desfrunziți. Dimineața urcăm la castel, unde aerul este deosebit de clar. După încălzirea la muzeu, traseul trece prin grădina orașului spre râu. Punctul culminant este tura spre baraj după-amiaza, înainte ca gerul să se lase după apus.",
+            "en": "Winter cycling in Sabugal offers expansive views through the leafless trees. In the morning, ride up to the castle where the air is crystal clear. After warming up at the museum, the route goes through the city garden to the river. The afternoon highlight is the dam tour, before the winter cold intensifies after sunset."
+          },
+          "stops": [
+            {
+              "name": "Sabugal Castle",
+              "tip_5lang": {
+                "de": "Der Aufstieg hält warm; oben angekommen, direkt die Jacke schließen.",
+                "hu": "A kapaszkodó melegen tart; felérve azonnal cipzárazza be a kabátját.",
+                "ro": "Urcarea vă ține de cald; odată ajunși sus, închideți imediat geaca.",
+                "en": "The climb keeps you warm; once at the top, zip up your jacket immediately."
+              }
+            },
+            {
+              "name": "Museum of Sabugal",
+              "tip_5lang": {
+                "de": "Perfekt für eine Pause, um die gefühllosen Finger aufzuwärmen.",
+                "hu": "Tökéletes pihenőhely az elgémberedett ujjak felmelegítésére.",
+                "ro": "Perfect pentru o pauză, pentru a vă încălzi degetele amorțite.",
+                "en": "Perfect break spot to warm up numb fingers."
+              }
+            },
+            {
+              "name": "Church of Mercy",
+              "tip_5lang": {
+                "de": "Die Mittagssonne bietet hier oft einen windgeschützten Platz.",
+                "hu": "A déli napsütés itt gyakran szélvédett helyet kínál a pihenéshez.",
+                "ro": "Soarele de la prânz oferă aici adesea un loc ferit de vânt.",
+                "en": "The midday sun often provides a wind-sheltered spot here."
+              }
+            },
+            {
+              "name": "City Garden",
+              "tip_5lang": {
+                "de": "Trockenes Laub auf den Wegen kann wegrutschen; vorsichtig fahren.",
+                "hu": "A száraz levelek az utakon megcsúszhatnak; óvatosan kanyarodjon.",
+                "ro": "Frunzele uscate pot fi alunecoase; virați cu atenție.",
+                "en": "Dry leaves on the paths can be slippery; corner with caution."
+              }
+            },
+            {
+              "name": "Côa Riverside Promenade",
+              "tip_5lang": {
+                "de": "Die kalte Luft am Wasser erfordert einen guten Schal.",
+                "hu": "A vízparti hideg levegő miatt egy jó sál elengedhetetlen.",
+                "ro": "Aerul rece de lângă apă necesită un fular gros.",
+                "en": "The cold air by the water requires a good scarf or buff."
+              }
+            },
+            {
+              "name": "Sabugal Dam",
+              "tip_5lang": {
+                "de": "Besuch bis 16:30 Uhr planen, um nicht im Dunkeln zurückzufahren.",
+                "hu": "Tervezze a látogatást 16:30-ig, hogy ne sötétben tekerjen vissza.",
+                "ro": "Planificați vizita până la 16:30, pentru a nu vă întoarce pe întuneric.",
+                "en": "Plan to finish by 4:30 PM to avoid riding back in the dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterhandschuhe sind wegen des kalten Fahrtwinds unerlässlich.",
+              "Tragen Sie eine winddichte Frontschicht, um Auskühlung zu vermeiden.",
+              "Achten Sie auf Schattenstellen; dort kann sich Reif länger halten.",
+              "Die Tage sind kurz; ein funktionierendes Licht ist Pflicht.",
+              "Trinken Sie auch bei Kälte genug, am besten Tee aus einer Thermoskanne."
+            ],
+            "hu": [
+              "A menetszél miatt a téli kesztyű használata elengedhetetlen.",
+              "Viseljen szélálló külső réteget a lehűlés megelőzésére.",
+              "Figyeljen az árnyékos szakaszokra, ahol a zúzmara tovább megmaradhat.",
+              "A nappalok rövidek; a jól működő világítás kötelező.",
+              "Hidegben is igyon eleget, a legjobb a termoszban vitt meleg tea."
+            ],
+            "ro": [
+              "Mănușile de iarnă sunt esențiale din cauza vântului rece de mișcare.",
+              "Purtați un strat exterior rezistent la vânt pentru a evita răceala.",
+              "Atenție la porțiunile umbrite unde poleiul poate persista.",
+              "Zilele sunt scurte; luminile funcționale sunt obligatorii.",
+              "Beți destule lichide chiar și pe frig, ideal ceai cald din termos."
+            ],
+            "en": [
+              "Winter gloves are indispensable due to the cold wind chill while riding.",
+              "Wear a windproof outer layer to prevent core cooling.",
+              "Watch out for shaded areas where frost can linger longer.",
+              "Days are short; ensure your bike lights are fully functional.",
+              "Keep hydrated even in the cold; warm tea in a thermos is best."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -990,6 +1388,196 @@
           "Combine your visit with other nearby historic villages.",
           "A GPS is helpful for finding the dam."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Sabugal auch bei Regen komfortabel zu erkunden. Der Tag beginnt an der Talsperre, wo man das Schauspiel des Regens vom Wagen aus beobachten kann. Danach geht es zum Flussufer und weiter zum Burgviertel. Die kurzen Wege zwischen den Parkplätzen und den Sehenswürdigkeiten wie dem Museum minimieren den Kontakt mit dem nassen Wetter.",
+            "hu": "Autóval Sabugal esőben is kényelmesen felfedezhető. A nap a gátnál indul, ahol a kocsiból is csodálhatjuk az esős tájat. Ezután a folyópart, majd a várnegyed következik. A parkolók és a látnivalók, például a múzeum közötti rövid távolságok minimalizálják az esővel való érintkezést.",
+            "ro": "Cu mașina, Sabugal poate fi explorat confortabil chiar și pe ploaie. Ziua începe la baraj, unde puteți admira peisajul direct din mașină. Urmează malul râului și apoi zona castelului. Distanțele scurte între parcări și obiective precum muzeul minimizează expunerea la ploaie.",
+            "en": "By car, Sabugal is comfortable to explore even in the rain. The day begins at the dam, where you can watch the rainy landscape from the comfort of your vehicle. Next is the riverbank, followed by the castle district. Short distances between parking lots and sights like the museum minimize rain exposure."
+          },
+          "stops": [
+            {
+              "name": "Sabugal Dam",
+              "tip_5lang": {
+                "de": "Parken Sie mit Blick auf den See; genießen Sie die Dramatik des Regens.",
+                "hu": "Parkoljon a tóra néző helyen; élvezze az esős táj drámaiságát.",
+                "ro": "Parcați cu fața spre lac; bucurați-vă de dramatismul ploii.",
+                "en": "Park facing the lake; enjoy the dramatic view of the rain over the water."
+              }
+            },
+            {
+              "name": "Côa Riverside Promenade (Parking)",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz direkt am Eingang zur Promenade.",
+                "hu": "Használja a közvetlenül a sétány bejáratánál lévő parkolót.",
+                "ro": "Folosiți parcarea situată direct la intrarea pe promenadă.",
+                "en": "Use the parking lot located directly at the promenade entrance."
+              }
+            },
+            {
+              "name": "Sabugal Castle (Cluster Start)",
+              "tip_5lang": {
+                "de": "Parkplätze direkt vor den Mauern sparen lange Wege im Regen.",
+                "hu": "A közvetlenül a várfal előtt lévő parkolók megkímélik az esőtől.",
+                "ro": "Parcările de lângă ziduri vă scutesc de mersul prin ploaie.",
+                "en": "Parking right by the walls saves you from walking long distances in the rain."
+              }
+            },
+            {
+              "name": "Church of Santa Maria",
+              "tip_5lang": {
+                "de": "Halten Sie kurz in der Nähe; die Straße ist bei Nässe eng.",
+                "hu": "Álljon meg rövid időre a közelben; az utca esőben szűknek tűnhet.",
+                "ro": "Opriți scurt în apropiere; strada poate părea îngustă pe ploaie.",
+                "en": "Briefly stop nearby; the street can feel narrow and slick when wet."
+              }
+            },
+            {
+              "name": "Museum of Sabugal",
+              "tip_5lang": {
+                "de": "Das Museum hat einen überdachten Eingangsbereich.",
+                "hu": "A múzeumnak fedett bejárati része van, ideális a kiszálláshoz.",
+                "ro": "Muzeul are o zonă de intrare acoperită, ideală pentru coborâre.",
+                "en": "The museum has a covered entrance area, perfect for drop-offs."
+              }
+            },
+            {
+              "name": "Pillory of Sabugal",
+              "tip_5lang": {
+                "de": "Vom Auto aus gut sichtbar, falls es zu stark regnet.",
+                "hu": "Az autóból is jól látható, ha túl erősen esne az eső.",
+                "ro": "Vizibil bine din mașină, în caz că plouă prea tare.",
+                "en": "Clearly visible from the car if the rain is too heavy to get out."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Schlaglöcher, die durch Pfützen verdeckt sein können.",
+              "Die engen Gassen der Oberstadt sind bei Nässe rutschig; fahren Sie langsam.",
+              "Nutzen Sie die Parkplätze am Flussufer für einen kurzen, geschützten Blick.",
+              "Schalten Sie das Licht ein, da die Sichtverhältnisse oft schlecht sind.",
+              "Ein Regenschirm im Auto ist für die Wege zum Ticketshop der Burg nötig."
+            ],
+            "hu": [
+              "Vigyázzon a kátyúkra, amelyeket elfedhetnek a tócsák.",
+              "Az óváros szűk utcái vizesen csúszósak; vezessen lassan.",
+              "Használja a folyóparti parkolókat egy rövid, védett kilátáshoz.",
+              "Kapcsolja be a fényszórókat a rossz látási viszonyok miatt.",
+              "Tartson esernyőt az autóban a várpénztárig tartó rövid sétához."
+            ],
+            "ro": [
+              "Atenție la gropile care pot fi ascunse de bălți.",
+              "Străzile înguste din orașul vechi sunt alunecoase; conduceți cu prudență.",
+              "Folosiți parcările de pe malul râului pentru o vedere scurtă și protejată.",
+              "Aprindeți farurile, deoarece vizibilitatea este adesea redusă.",
+              "Păstrați o umbrelă în mașină pentru drumul până la casa de bilete a castelului."
+            ],
+            "en": [
+              "Watch out for potholes that might be hidden by puddles.",
+              "The narrow streets of the upper town are slippery; drive slowly.",
+              "Use the riverside parking spots for a quick, sheltered view.",
+              "Keep your headlights on, as visibility is often poor during rain.",
+              "Keep an umbrella in the car for the walk to the castle ticket office."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Fahrt nach Sabugal bietet spektakuläre Aussichten auf die oft schneebedeckten Gipfel der Serra da Estrela in der Ferne. Der Morgen beginnt an der Talsperre bei klarer Luft. Die Tour führt dann zum wärmeren Flussufer und hinauf zur Burg. Die Heizung im Auto macht den Wechsel zwischen den frostigen Außenstopps und der Fahrt sehr angenehm.",
+            "hu": "A téli autózás Sabugalba látványos kilátást nyújt a távoli Serra da Estrela gyakran hófödte csúcsaira. A nap a gátnál indul a friss, tiszta levegőben. Ezután a folyópart, majd a vár következik. Az autó fűtése kellemessé teszi a fagyos kültéri megállók és az utazás közötti váltást.",
+            "ro": "O plimbare de iarnă spre Sabugal oferă vederi spectaculoase spre vârfurile înzăpezite ale Serra da Estrela. Ziua începe la baraj în aerul curat. Urmează malul râului și apoi castelul. Încălzirea din mașină face trecerea între opririle geroase și drum foarte plăcută.",
+            "en": "A winter drive to Sabugal offers spectacular views of the often snow-capped peaks of Serra da Estrela in the distance. The day starts at the dam in the crisp air. Next is the riverbank, then the castle. The car's heater makes the transition between frosty outdoor stops and the drive very pleasant."
+          },
+          "stops": [
+            {
+              "name": "Sabugal Dam",
+              "tip_5lang": {
+                "de": "Vorsicht vor überfrierender Nässe auf der Zufahrtsstraße am Morgen.",
+                "hu": "Vigyázzon a reggeli jegesedéssel a bekötőúton.",
+                "ro": "Atenție la polei pe drumul de acces în timpul dimineții.",
+                "en": "Watch out for black ice on the access road in the early morning."
+              }
+            },
+            {
+              "name": "Côa Riverside Promenade (Parking)",
+              "tip_5lang": {
+                "de": "Die Plätze im Schatten können mittags noch gefroren sein.",
+                "hu": "Az árnyékos helyek délben is fagyosak maradhatnak.",
+                "ro": "Locurile umbrite pot fi încă înghețate la prânz.",
+                "en": "Shaded spots might still be frozen at midday."
+              }
+            },
+            {
+              "name": "Sabugal Castle (Cluster Start)",
+              "tip_5lang": {
+                "de": "Das Auto bietet Schutz vor dem beißenden Wind auf dem Hügel.",
+                "hu": "Az autó menedéket nyújt a várhegy metsző szele elől.",
+                "ro": "Mașina oferă adăpost împotriva vântului tăios de pe deal.",
+                "en": "The car provides a warm refuge from the biting wind on the hill."
+              }
+            },
+            {
+              "name": "Church of Santa Maria",
+              "tip_5lang": {
+                "de": "Gute Wendemöglichkeiten; vermeiden Sie das Parken auf Eisflächen.",
+                "hu": "Jó megfordulási lehetőség; kerülje a jeges felületen való parkolást.",
+                "ro": "Posibilități bune de întoarcere; evitați parcarea pe gheață.",
+                "en": "Good turning options; avoid parking on patches of ice."
+              }
+            },
+            {
+              "name": "Museum of Sabugal",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch als Aufwärmpause für alle Passagiere.",
+                "hu": "Használja a múzeumlátogatást melegedőként minden utas számára.",
+                "ro": "Folosiți vizita la muzeu ca pauză de încălzire pentru toți pasagerii.",
+                "en": "Use the museum visit as a warming break for all passengers."
+              }
+            },
+            {
+              "name": "Pillory of Sabugal",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp, bevor die Abendkälte einsetzt.",
+                "hu": "Rövid fotómegálló, mielőtt beállna az esti fagy.",
+                "ro": "Oprire scurtă pentru poze înainte de a se lăsa gerul serii.",
+                "en": "Quick photo stop before the evening freeze sets in."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Frostschutz in der Scheibenwaschanlage.",
+              "Die Straßen zur Talsperre können morgens glatt sein.",
+              "Nehmen Sie warme Decken für längere Fotostopps im Auto mit.",
+              "Planen Sie die Fahrt so, dass Sie vor Einbruch der Dunkelheit (17:30) zurück sind.",
+              "Nutzen Sie die Sitzheizung nach dem Besuch der zugigen Burgmauern."
+            ],
+            "hu": [
+              "Ellenőrizze a fagyállót a szélvédőmosóban.",
+              "A gát felé vezető utak reggelente jegesek lehetnek.",
+              "Vigyen meleg takarót az autóba a hosszabb fotómegállókhoz.",
+              "Úgy tervezze az utat, hogy sötétedés előtt (17:30) érjen vissza.",
+              "Használja az ülésfűtést a huzatos várfalak meglátogatása után."
+            ],
+            "ro": [
+              "Verificați antigelul în lichidul de parbriz.",
+              "Drumurile spre baraj pot fi poleite dimineața.",
+              "Luați pături calde în mașină pentru opririle lungi de fotografiat.",
+              "Planificați drumul astfel încât să vă întoarceți înainte de lăsarea serii (17:30).",
+              "Folosiți încălzirea în scaune după vizitarea zidurilor castelului unde trage curentul."
+            ],
+            "en": [
+              "Check the antifreeze levels in your windshield washer fluid.",
+              "Roads to the dam can be icy in the early morning hours.",
+              "Keep warm blankets in the car for longer photo stops.",
+              "Plan your drive to return before darkness falls (around 5:30 PM).",
+              "Use your seat heaters after visiting the drafty castle ramparts."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1310,6 +1898,196 @@
           "Have small change ready for bus tickets.",
           "Most distances within the clusters are short and easily walkable."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regenwetter in Sabugal lässt sich mit dem Bus gut meistern, indem man die Fahrten als Ruhepausen nutzt. Am Morgen erreicht man das Zentrum und den Pranger. Nachmittags bringt einen der Bus zum Burgberg, wo man die Festung besichtigen kann, ohne den steilen Weg im Regen laufen zu müssen. Der Tag endet sicher an der zentralen Busstation.",
+            "hu": "Az esős idő Sabugalban busszal jól áthidalható, a járatokat pihenőként használva. Reggel a központot és a pellengért érjük el. Délután a busz felvisz a várhegyre, így a meredek utat nem kell esőben megtenni. A nap biztonságban, a központi buszállomáson ér véget.",
+            "ro": "Vremea ploioasă din Sabugal poate fi gestionată bine cu autobuzul, folosind cursele ca momente de odihnă. Dimineața ajungem în centru și la stâlpul infamiei. După-amiaza, autobuzul ne duce la castel, evitând urcarea abruptă prin ploaie. Ziua se încheie în siguranță la autogara centrală.",
+            "en": "Rainy weather in Sabugal is manageable by bus, using the rides as rest periods. In the morning, reach the center and the pillory. In the afternoon, the bus takes you up the castle hill, avoiding the steep climb in the rain. The day ends safely at the central bus station."
+          },
+          "stops": [
+            {
+              "name": "Central Bus Station (Cluster A)",
+              "tip_5lang": {
+                "de": "Überdachte Wartebereiche schützen beim Umsteigen.",
+                "hu": "Fedett várótermek védenek az átszállás közben.",
+                "ro": "Zonele de așteptare acoperite vă protejează în timpul legăturilor.",
+                "en": "Covered waiting areas provide shelter while waiting for connections."
+              }
+            },
+            {
+              "name": "Pillory of Sabugal",
+              "tip_5lang": {
+                "de": "In der Nähe gibt es Geschäfte mit Vordächern zum Unterstellen.",
+                "hu": "A közelben több bolt előtetője alá is be lehet húzódni.",
+                "ro": "În apropiere sunt magazine cu copertine unde vă puteți adăposti.",
+                "en": "Nearby shops have awnings where you can temporarily shelter."
+              }
+            },
+            {
+              "name": "Church of Mercy",
+              "tip_5lang": {
+                "de": "Wenige Meter von der Haltestelle entfernt; kaum Regenzeit.",
+                "hu": "Csak pár méterre a megállótól; alig kell az esőben lenni.",
+                "ro": "La doar câțiva metri de stație; expunere minimă la ploaie.",
+                "en": "Only a few meters from the stop; minimal exposure to rain."
+              }
+            },
+            {
+              "name": "Castle Bus Stop (Cluster B)",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist nah am Burgeingang; ideal bei Regen.",
+                "hu": "A megálló közel van a várbejárathoz; esőben kiváló választás.",
+                "ro": "Stația este aproape de intrarea în castel; ideal pe ploaie.",
+                "en": "The stop is very close to the castle entrance; ideal for rainy days."
+              }
+            },
+            {
+              "name": "Sabugal Castle",
+              "tip_5lang": {
+                "de": "Planen Sie den Besuch nach dem Busfahrplan, um Wartezeiten im Freien zu vermeiden.",
+                "hu": "Igazítsa a látogatást a buszmenetrendhez, hogy ne kelljen kint várnia.",
+                "ro": "Planificați vizita după mersul autobuzelor pentru a nu aștepta afară.",
+                "en": "Sync your visit with the bus schedule to avoid waiting outside."
+              }
+            },
+            {
+              "name": "Côa Riverside Promenade",
+              "tip_5lang": {
+                "de": "Fragen Sie den Fahrer nach der nächsten Haltestelle zum Pavillon.",
+                "hu": "Kérdezze a sofőrt a pavilonhoz legközelebbi megállóról.",
+                "ro": "Întrebați șoferul despre cea mai apropiată stație de pavilion.",
+                "en": "Ask the driver for the stop closest to the riverside pavilion."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Halten Sie Kleingeld für das Ticket bereit, um Verzögerungen im Regen zu vermeiden.",
+              "Die Busse sind im Winter und bei Regen oft gut geheizt.",
+              "Prüfen Sie die Fahrzeiten online, da es am Wochenende weniger Verbindungen gibt.",
+              "Nutzen Sie die Haltestelle am Museum als zentralen Treffpunkt.",
+              "Tragen Sie Schuhe mit rutschfesten Sohlen für den Ein- und Ausstieg."
+            ],
+            "hu": [
+              "Készítsen ki aprópénzt a jegyre, hogy elkerülje az esőben való várakozást.",
+              "A buszok télen és esőben gyakran jól fűtöttek.",
+              "Ellenőrizze a menetrendet online, hétvégén kevesebb a járat.",
+              "Használja a múzeumi megállót központi találkozóhelyként.",
+              "Viseljen csúszásmentes talpú cipőt a fel- és leszálláshoz."
+            ],
+            "ro": [
+              "Pregătiți bani mărunți pentru bilet pentru a evita întârzierile în ploaie.",
+              "Autobuzele sunt adesea bine încălzite iarna și pe ploaie.",
+              "Verificați orarul online, deoarece sunt mai puține curse în weekend.",
+              "Folosiți stația de la muzeu ca punct central de întâlnire.",
+              "Purtați încălțăminte cu talpă aderentă pentru urcare și coborâre."
+            ],
+            "en": [
+              "Have small change ready for tickets to avoid delays in the rain.",
+              "Buses are usually well-heated during winter and rainy spells.",
+              "Check schedules online as weekend connections are less frequent.",
+              "Use the museum bus stop as a central meeting point.",
+              "Wear non-slip shoes for safety when boarding and alighting."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintertag in Sabugal beginnt an der Busstation, von wo aus man schnell in die warme Altstadt gelangt. Mittags bieten die Busfahrten eine gute Gelegenheit, sich aufzuwärmen. Der Besuch der Burg am Nachmittag ist das Highlight, wobei der Bus den anstrengenden Aufstieg bei Kälte erspart. Den Rückweg zur Station plant man am besten vor dem frühen Sonnenuntergang.",
+            "hu": "A téli nap Sabugalban a buszállomáson indul, ahonnan gyorsan az óvárosba juthatunk. Napközben a buszos utazások jó lehetőséget adnak a felmelegedésre. A vár délutáni látogatása a fénypont, miközben a busz megkímél a hidegben való hegymenettől. A buszállomáshoz való visszatérést érdemes a korai naplemente előtt megtenni.",
+            "ro": "Ziua de iarnă în Sabugal începe la autogară, de unde ajungeți rapid în centrul vechi. În timpul zilei, cursele cu autobuzul sunt ocazii bune de încălzire. Vizita la castel este punctul culminant, autobuzul scutindu-vă de urcarea grea prin frig. Întoarcerea la autogară trebuie planificată înainte de apus.",
+            "en": "The winter day in Sabugal starts at the bus station, providing quick access to the historic center. During the day, bus rides are great opportunities to warm up. The afternoon castle visit is the highlight, with the bus saving you from the taxing climb in the cold. Plan your return to the station before the early sunset."
+          },
+          "stops": [
+            {
+              "name": "Central Bus Station (Cluster A)",
+              "tip_5lang": {
+                "de": "Das Café in der Station ist ideal für einen heißen Tee vor der Abfahrt.",
+                "hu": "Az állomáson lévő kávézó ideális egy forró teára indulás előtt.",
+                "ro": "Cafeneaua din autogară este ideală pentru un ceai cald înainte de plecare.",
+                "en": "The station cafe is ideal for a hot tea before your departure."
+              }
+            },
+            {
+              "name": "Pillory of Sabugal",
+              "tip_5lang": {
+                "de": "Die Haltestelle hier ist dem Wind ausgesetzt; warm anziehen.",
+                "hu": "A megálló itt ki van téve a szélnek; öltözzön fel melegen.",
+                "ro": "Stația de aici este expusă vântului; îmbrăcați-vă bine.",
+                "en": "The stop here is exposed to the wind; dress warmly."
+              }
+            },
+            {
+              "name": "Church of Mercy",
+              "tip_5lang": {
+                "de": "Hinter den dicken Steinmauern ist es im Winter angenehm still.",
+                "hu": "A vastag kőfalak mögött télen kellemes csend és nyugalom várja.",
+                "ro": "În spatele zidurilor groase de piatră este o liniște plăcută iarna.",
+                "en": "Behind the thick stone walls, it's pleasantly quiet in winter."
+              }
+            },
+            {
+              "name": "Castle Bus Stop (Cluster B)",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Bus, um die Kälte beim Aufstieg zu vermeiden.",
+                "hu": "Használja a buszt, hogy elkerülje a hegymenetet a hidegben.",
+                "ro": "Folosiți autobuzul pentru a evita urcarea prin frig.",
+                "en": "Use the bus to avoid the strenuous uphill walk in the cold."
+              }
+            },
+            {
+              "name": "Sabugal Castle",
+              "tip_5lang": {
+                "de": "Letzter Bus ins Zentrum oft gegen 18:00 Uhr; bitte prüfen.",
+                "hu": "Az utolsó busz a központba 18:00 körül indul; ellenőrizze!",
+                "ro": "Ultimul autobuz spre centru pleacă pe la 18:00; verificați orarul.",
+                "en": "The last bus back to the center is often around 6:00 PM; please check."
+              }
+            },
+            {
+              "name": "Côa Riverside Promenade",
+              "tip_5lang": {
+                "de": "Ein schöner Ort für den Sonnenuntergang, falls der Bus noch fährt.",
+                "hu": "Szép hely a naplemente megtekintéséhez, ha még jár a busz.",
+                "ro": "Un loc frumos pentru apus, dacă autobuzul mai circulă.",
+                "en": "A beautiful spot for sunset if the bus is still running."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Wartehäuschen bieten Schutz vor dem kalten Wind.",
+              "Die Busse sind meist pünktlich, kommen Sie 5 Minuten früher.",
+              "Im Winter sind die Fahrpläne an Feiertagen oft stark eingeschränkt.",
+              "Fragen Sie nach dem 'Bilhete Turístico', falls verfügbar.",
+              "Die Fahrt zum Burgberg spart Kraft für die Erkundung der Mauern."
+            ],
+            "hu": [
+              "A buszvárók védelmet nyújtanak a hideg szél ellen.",
+              "A buszok általában pontosak, érkezzen 5 perccel korábban.",
+              "Télen az ünnepnapokon a menetrend gyakran korlátozott.",
+              "Kérdezzen rá a 'Bilhete Turístico'-ra, ha elérhető.",
+              "A várhegyi buszozás energiát takarít meg a várfalak bejárásához."
+            ],
+            "ro": [
+              "Refugiile din stații oferă protecție împotriva vântului rece.",
+              "Autobuzele sunt de obicei punctuale, veniți cu 5 minute înainte.",
+              "Iarna, orarul este adesea restricționat în zilele de sărbătoare.",
+              "Întrebați de 'Bilhete Turístico' dacă este disponibil.",
+              "Drumul cu autobuzul spre castel vă economisește energia pentru ziduri."
+            ],
+            "en": [
+              "Bus shelters provide essential protection from the cold wind.",
+              "Buses are usually punctual; arrive 5 minutes before scheduled time.",
+              "Winter holiday schedules are often significantly reduced.",
+              "Ask for a 'Bilhete Turístico' (Tourist Ticket) if available.",
+              "Taking the bus uphill saves your energy for exploring the ramparts."
+            ]
+          }
+        }
       }
     }
   }

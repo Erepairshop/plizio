@@ -386,6 +386,206 @@
           "Most paths are well-marked, but a map is still helpful.",
           "Allow plenty of time for the castle ruins; there's a lot to explore."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag im Walking Stick Park, wo der Asphalt auch bei Nieselregen gut begehbar ist. Vormittags bietet das Neue Schloss Sigulda einen perfekten Rückzugsort im Trockenen mit seinen kunstvollen Innenräumen. Mittags erkunden Sie die Burgruine unter dem Schutz Ihres Regenschirms, während die Nebelschwaden über dem Gauja-Tal eine mystische Atmosphäre schaffen.\n\nAm Nachmittag bietet die Fahrt mit der Seilbahn einen trockenen Panoramablick über den Fluss. Die Gutmannshöhle dient als natürlicher Unterstand vor dem Regen, bevor Sie den Rückweg über die Gauja-Brücke antreten. Den Abend lassen Sie bei einem gemütlichen Abendessen in einem der warmen Restaurants im Stadtzentrum ausklingen, weit weg vom nassen Wetter.",
+            "hu": "Kezdje a napot a Botok parkjában, ahol az aszfaltozott utak esőben is jól járhatók. Délelőtt a Siguldai Új Kastély belső terei nyújtanak menedéket a csapadék elől. Délben az ódon várromokat fedezheti fel; az esernyő alól nézve a Gauja-völgy felett gomolygó köd különösen misztikus látványt nyújt.\n\nDélután a libegő zárt kabinja biztosít száraz panorámát a folyóra. A Gutman-barlang természetes védelmet nyújt a záporok elől, mielőtt átkelne a Gauja-hídon. Az estét töltse a városközpont egyik hangulatos éttermében, ahol helyi ételek mellett melegedhet fel a vizes túra után.",
+            "ro": "Începeți ziua în Parcul Bastonului, unde aleile asfaltate rămân practicabile chiar și pe ploaie. Dimineața, Castelul Nou din Sigulda oferă un refugiu perfect la interior, cu expoziții interesante. La prânz, explorați ruinele castelului medieval sub protecția umbrelei, în timp ce ceața de deasupra văii Gauja creează o atmosferă mistică.\n\nDupă-amiaza, telecabina vă oferă o vedere panoramică uscată asupra râului. Peștera Gutman servește drept adăpost natural împotriva ploii înainte de a traversa podul peste Gauja. Încheiați seara cu o cină relaxantă în centrul orașului, bucurându-vă de căldura restaurantelor locale.",
+            "en": "Start your day at the Walking Stick Park, where paved paths remain easy to navigate despite the drizzle. In the morning, Sigulda New Castle provides a perfect indoor escape with its artistic interiors. At noon, explore the medieval castle ruins under an umbrella; the mist rising over the Gauja Valley adds a mystical touch to the scenery.\n\nIn the afternoon, the cable car offers a dry, panoramic view of the river below. Gutman's Cave acts as a natural shelter from the rain before you cross the Gauja Bridge. End your evening with a cozy dinner in the city center, warming up with local hospitality away from the damp weather."
+          },
+          "stops": [
+            {
+              "name": "Walking Stick Park",
+              "tip_5lang": {
+                "de": "Pflasterwege sind bei Regen rutschfest, ideal für einen kurzen Spaziergang.",
+                "hu": "Az aszfaltozott utak nem sárosodnak el, esernyővel is kényelmes.",
+                "ro": "Potecile pavate nu devin noroioase, fiind ideale pentru o plimbare scurtă.",
+                "en": "Paved paths prevent mud, making it ideal for a quick stroll with an umbrella."
+              }
+            },
+            {
+              "name": "Sigulda New Castle",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Innenbesichtigung, um den Regenschauern zu entgehen.",
+                "hu": "Itt az idő a belső kiállítások megtekintésére, amíg kint esik.",
+                "ro": "Vizitați interiorul pentru a evita aversele de ploaie.",
+                "en": "Take an indoor tour to escape the rain showers outside."
+              }
+            },
+            {
+              "name": "Medieval Castle Ruins",
+              "tip_5lang": {
+                "de": "Vorsicht auf den Treppen, die Steine können bei Nässe glatt sein.",
+                "hu": "Vigyázzon a lépcsőkön, a nedves kövek csúszósak lehetnek.",
+                "ro": "Atenție la scări, pietrele pot fi alunecoase când sunt ude.",
+                "en": "Be careful on the stairs; the stones can be slippery when wet."
+              }
+            },
+            {
+              "name": "Cable Car over the Gauja River",
+              "tip_5lang": {
+                "de": "Die geschlossene Kabine bietet trockene Sicht auf das neblige Tal.",
+                "hu": "A zárt kabin száraz kilátást nyújt a ködös völgyre.",
+                "ro": "Cabina închisă oferă o vedere uscată asupra văii înzăpezite.",
+                "en": "The enclosed cabin provides a dry view of the misty valley."
+              }
+            },
+            {
+              "name": "Gutman's Cave",
+              "tip_5lang": {
+                "de": "Die tiefe Höhle bietet perfekten natürlichen Schutz vor starkem Regen.",
+                "hu": "A mély barlang kiváló természetes menedék a felhőszakadás elől.",
+                "ro": "Peștera adâncă oferă un adăpost natural perfect împotriva ploii torențiale.",
+                "en": "The deep cave offers perfect natural shelter from heavy rain."
+              }
+            },
+            {
+              "name": "Gauja Bridge",
+              "tip_5lang": {
+                "de": "Zügig überqueren, der Wind verstärkt das Regenempfinden auf der Brücke.",
+                "hu": "Haladjon gyorsan, a szél a hídon felerősíti az eső érzetét.",
+                "ro": "Traversați rapid, vântul intensifică senzația de ploaie pe pod.",
+                "en": "Cross quickly; the wind on the bridge intensifies the feeling of rain."
+              }
+            },
+            {
+              "name": "Dinner in the city center",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit Garderobe für Ihre nassen Mäntel.",
+                "hu": "Válasszon olyan helyet, ahol van ruhatár a vizes kabátoknak.",
+                "ro": "Alegeți un restaurant cu garderobă pentru hainele ude.",
+                "en": "Choose a restaurant with a cloakroom for your wet coats."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Wanderschuhe, da die Wege zur Höhle schlammig sein können.",
+              "Die Seilbahn ist die beste Option, um nasse, rutschige Holztreppen im Tal zu vermeiden.",
+              "Das Neue Schloss bietet ein Café, ideal für eine Pause während eines starken Schauers.",
+              "Ein stabiler Regenschirm ist wegen des Windes im Gauja-Tal besser als ein leichter Poncho."
+            ],
+            "hu": [
+              "Viseljen vízálló túrabakancsot, mert a barlanghoz vezető utak sárosak lehetnek.",
+              "A libegő a legjobb választás, ha el akarja kerülni a csúszós erdei lépcsőket.",
+              "Az Új Kastély kávézója ideális hely megvárni a záporok elvonulását.",
+              "A völgyben fújó szél miatt egy stabil esernyő praktikusabb, mint a vékony poncsó."
+            ],
+            "ro": [
+              "Purtați bocanci de drumeție impermeabili, drumurile spre peșteră pot fi noroioase.",
+              "Telecabina este cea mai bună opțiune pentru a evita scările de lemn alunecoase din vale.",
+              "Castelul Nou are o cafenea excelentă pentru a aștepta trecerea ploii.",
+              "O umbrelă rezistentă este mai utilă decât o pelerină subțire din cauza vântului din vale."
+            ],
+            "en": [
+              "Wear waterproof hiking boots as the paths to the cave can get muddy.",
+              "The cable car is the best option to avoid slippery wooden stairs in the valley.",
+              "The New Castle features a cafe, ideal for a break during heavy downpours.",
+              "A sturdy umbrella is better than a light poncho due to the winds in the Gauja valley."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie das lettische Wintermärchen im Walking Stick Park, wenn die markanten Skulpturen unter einer Schneedecke liegen. Vormittags erstrahlt das Schlosskomplex in reinem Weiß; die Ruinen wirken wie aus einer anderen Zeit. Mittags wärmen Sie sich im Inneren des Neuen Schlosses auf, bevor Sie den Blick auf das vereiste Gauja-Tal genießen.\n\nAm Nachmittag bietet die Seilbahnfahrt eine spektakuläre Aussicht auf die verschneiten Tannenwälder. Die Gutmannshöhle ist im Winter oft von bizarren Eiszapfen gesäumt. Überqueren Sie die Gauja-Brücke, während die Schollen auf dem Fluss treiben. Da die Sonne bereits gegen 16:00 Uhr untergeht, erreichen Sie das Stadtzentrum pünktlich zum Abendessen im warmen Schein der Straßenlaternen.",
+            "hu": "Fedezze fel a lett tél varázsát a Botok parkjában, ahol a szobrok hólepel alatt pihennek. Délelőtt a várkomplexum vakító fehérségben tündököl, a romok pedig időtlen hangulatot árasztanak. Délben melegedjen fel az Új Kastély termeiben, majd csodálja meg a befagyott Gauja-folyó látványát.\n\nDélután a libegőről felejthetetlen kilátás nyílik a havas fenyvesekre. A Gutman-barlangnál ilyenkor hatalmas jégcsapok lógnak a falakról. Keljen át a Gauja-hídon, figyelve a vízen úszó jégtáblákat. Mivel a nap már délután 4 körül lemegy, a városközpontba érve már a hangulatos utcai lámpák fénye mellett választhat vacsorázóhelyet.",
+            "ro": "Experimentați povestea de iarnă letonă în Parcul Bastonului, unde sculpturile sunt acoperite de zăpadă. Dimineața, complexul castelului strălucește în alb pur, oferind un decor de basm printre ruine. La prânz, încălziți-vă în interiorul Castelului Nou înainte de a admira valea înghețată a râului Gauja.\n\nDupă-amiaza, telecabina oferă o perspectivă spectaculoasă asupra pădurilor de brazi înzăpezite. Peștera Gutman este adesea decorată cu țurțuri gigantici în timpul iernii. Traversați podul peste Gauja, urmărind sloiurile de gheață de pe râu. Deoarece soarele apune în jurul orei 16:00, veți ajunge în centrul orașului exact la timp pentru cină, sub lumina caldă a felinarelor.",
+            "en": "Experience a Latvian winter wonderland at the Walking Stick Park, with its sculptures covered in fresh snow. In the morning, the castle complex gleams in pure white, making the ruins look like a scene from a fairy tale. At noon, warm up inside the New Castle before taking in the view of the frozen Gauja Valley.\n\nIn the afternoon, the cable car ride offers spectacular views of the snow-covered pine forests. Gutman's Cave is often adorned with giant icicles during the winter months. Cross the Gauja Bridge while watching ice floes drift down the river. Since the sun sets around 4:00 PM, you'll reach the city center just in time for dinner under the warm glow of street lamps."
+          },
+          "stops": [
+            {
+              "name": "Walking Stick Park",
+              "tip_5lang": {
+                "de": "Die Wege werden geräumt, aber Vorsicht vor überfrorener Glätte am Morgen.",
+                "hu": "Az utakat takarítják, de reggel vigyázzon a lefagyott részekre.",
+                "ro": "Drumurile sunt curățate, dar atenție la polei în timpul dimineții.",
+                "en": "Paths are cleared, but watch out for black ice in the morning."
+              }
+            },
+            {
+              "name": "Sigulda New Castle",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um sich zwischen den Außenbesichtigungen aufzuwärmen.",
+                "hu": "Ideális hely a felmelegedésre a szabadtéri várlátogatás közben.",
+                "ro": "Un loc ideal pentru a vă încălzi între vizitele în aer liber.",
+                "en": "An ideal place to warm up between outdoor sightseeing stops."
+              }
+            },
+            {
+              "name": "Medieval Castle Ruins",
+              "tip_5lang": {
+                "de": "Die Mauern bieten Schutz vor dem kalten Winterwind im Tal.",
+                "hu": "A várfalak védelmet nyújtanak a völgyben fújó hideg téli szél ellen.",
+                "ro": "Zidurile oferă protecție împotriva vântului rece de iarnă din vale.",
+                "en": "The castle walls provide some shelter from the cold winter wind."
+              }
+            },
+            {
+              "name": "Cable Car over the Gauja River",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das 'Weiße Tal' aus der beheizten Kabine.",
+                "hu": "Élvezze a 'Fehér-völgy' látványát a fűtött kabinból.",
+                "ro": "Bucurați-vă de vederea asupra văii albe din cabina încălzită.",
+                "en": "Enjoy the view of the 'White Valley' from the heated cabin."
+              }
+            },
+            {
+              "name": "Gutman's Cave",
+              "tip_5lang": {
+                "de": "Bewundern Sie die bizarren Eisformationen an den Sandsteinwänden.",
+                "hu": "Csodálja meg a homokkő falakon kialakuló különleges jégformákat.",
+                "ro": "Admirați formațiunile bizare de gheață de pe pereții de gresie.",
+                "en": "Admire the unique ice formations on the sandstone walls."
+              }
+            },
+            {
+              "name": "Gauja Bridge",
+              "tip_5lang": {
+                "de": "Halten Sie Ausschau nach den treibenden Eisschollen auf dem Fluss.",
+                "hu": "Figyelje a folyón úszó jégtáblákat a híd közepéről.",
+                "ro": "Urmăriți sloiurile de gheață care plutesc pe râu de pe pod.",
+                "en": "Watch for ice floes drifting down the river from the bridge."
+              }
+            },
+            {
+              "name": "Dinner in the city center",
+              "tip_5lang": {
+                "de": "Probieren Sie heißen Rhabarbersaft, ein lokales Wintergetränk.",
+                "hu": "Kóstolja meg a forró rebarbaralevet, ami kedvelt helyi téli ital.",
+                "ro": "Încercați sucul cald de rubarbă, o băutură locală populară iarna.",
+                "en": "Try hot rhubarb juice, a popular local winter drink."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermounterwäsche; die Temperaturen im Tal sind oft niedriger als im Zentrum.",
+              "Die Sonne geht im Dezember bereits vor 16:00 Uhr unter, planen Sie die Aussichtspunkte früh ein.",
+              "Einige Holztreppen in den Waldwegen können gesperrt oder extrem glatt sein.",
+              "Wollmütze und Handschuhe sind wegen des Winds am Flussufer unerlässlich."
+            ],
+            "hu": [
+              "Viseljen thermo alsóneműt; a völgyben sokkal hidegebb van, mint a városban.",
+              "A nap decemberben már délután 4 előtt lemegy, a panorámát tervezze korábbra.",
+              "Az erdei falépcsők télen gyakran lejegesednek vagy le vannak zárva.",
+              "A folyóparti szél miatt a gyapjúsapka és kesztyű elengedhetetlen."
+            ],
+            "ro": [
+              "Purtați lenjerie termică; temperaturile în vale sunt adesea mai scăzute decât în centru.",
+              "Soarele apune înainte de ora 16:00 în decembrie, planificați panoramele devreme.",
+              "Unele scări de lemn de pe traseele forestiere pot fi închise sau extrem de alunecoase.",
+              "Căciula de lână și mănușile sunt esențiale din cauza vântului de pe malul râului."
+            ],
+            "en": [
+              "Wear thermal underwear; temperatures in the valley are often lower than in the center.",
+              "The sun sets before 4:00 PM in December; plan your scenic viewpoints for earlier in the day.",
+              "Some wooden stairs on the forest paths might be closed or extremely slippery.",
+              "A wool hat and gloves are essential due to the wind chill along the riverbank."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -722,6 +922,188 @@
           "Many paths are multi-purpose, watch out for hikers.",
           "Bring a lock to secure your bike at the sights."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert gute Vorbereitung, bietet aber leere Wege im Gauja-Nationalpark. Starten Sie vormittags am Schlosskomplex, wo die alten Mauern im nassen Glanz erstrahlen. Mittags erreichen Sie die Gutmannshöhle; die Fahrt durch den Wald ist durch das dichte Blätterdach teilweise geschützt.\n\nAm Nachmittag führt die Route zum Herrenhaus Krimulda. Seien Sie vorsichtig bei der Abfahrt zur Gauja-Brücke, da der Boden rutschig sein kann. Besuchen Sie die Bobbahn, bevor Sie den Tag im Walking Stick Park ausklingen lassen. Ein warmer Tee nach der Rückgabe der Räder ist jetzt genau das Richtige.",
+            "hu": "Az esős kerékpározás felkészülést igényel, de cserébe üres ösvényeket kap a Gauja Nemzeti Parkban. Délelőtt a várkomplexumnál kezdjen, ahol a vizes kövek sötétebb tónusa különleges hangulatot ad. Délben érjen a Gutman-barlanghoz; az erdő sűrű lombkoronája némi védelmet nyújt a szitáló eső ellen.\n\nDélután tekerjen el a Krimulda-udvarházhoz. Legyen óvatos a Gauja-hídhoz vezető lejtőn, a vizes talaj csúszhat. Látogassa meg a bobpályát, majd pihenjen meg a Botok parkjában. A biciklik leadása után egy forró tea lesz a legjobb lezárása a napnak.",
+            "ro": "O tură cu bicicleta pe ploaie necesită pregătire, dar oferă poteci libere în Parcul Național Gauja. Începeți dimineața la complexul castelului, unde zidurile vechi strălucesc sub ploaie. La prânz ajungeți la Peștera Gutman; drumul prin pădure este parțial protejat de coronamentul des al copacilor.\n\nDupă-amiaza, traseul duce la Conacul Krimulda. Fiți atenți la coborârea spre podul Gauja, deoarece solul poate fi alunecos. Vizitați pista de bob înainte de a încheia ziua în Parcul Bastonului. Un ceai cald după returnarea bicicletelor este exact ce aveți nevoie.",
+            "en": "Cycling in the rain requires preparation but offers empty trails in the Gauja National Park. Start your morning at the castle complex, where the old walls glisten in the wet light. Reach Gutman's Cave by noon; the ride through the forest is partially sheltered by the dense tree canopy.\n\nIn the afternoon, the route takes you to Krimulda Manor. Be cautious on the descent to the Gauja Bridge, as the ground can be slippery. Visit the bobsleigh track before wrapping up your day at the Walking Stick Park. A hot tea after returning your bikes will be the perfect end to the trip."
+          },
+          "stops": [
+            {
+              "name": "Sigulda New Castle & Castle Ruins",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad unter den Bäumen, um den Sattel trocken zu halten.",
+                "hu": "Parkoljon a fák alatt, hogy a nyereg száraz maradjon.",
+                "ro": "Parcați bicicleta sub copaci pentru a păstra șaua uscată.",
+                "en": "Park your bike under trees to keep the saddle dry."
+              }
+            },
+            {
+              "name": "Gutman's Cave",
+              "tip_5lang": {
+                "de": "Vorsicht vor tiefen Pfützen auf dem unbefestigten Weg zur Höhle.",
+                "hu": "Vigyázzon a mély tócsákra a barlanghoz vezető föls úton.",
+                "ro": "Atenție la bălțile adânci de pe drumul neasfaltat spre peșteră.",
+                "en": "Watch out for deep puddles on the unpaved path to the cave."
+              }
+            },
+            {
+              "name": "Krimulda Manor",
+              "tip_5lang": {
+                "de": "Die Veranda bietet einen trockenen Unterstand für eine kurze Rast.",
+                "hu": "A veranda száraz menedéket nyújt egy rövid pihenőhöz.",
+                "ro": "Veranda oferă un adăpost uscat pentru o scurtă odihnă.",
+                "en": "The veranda provides a dry shelter for a short rest."
+              }
+            },
+            {
+              "name": "Gauja Bridge",
+              "tip_5lang": {
+                "de": "Bremsen Sie frühzeitig, die Metallfugen können bei Nässe extrem glatt sein.",
+                "hu": "Fékezzen időben, a fém illesztések nagyon csúszhatnak esőben.",
+                "ro": "Frânați din timp, îmbinările metalice pot fi extrem de alunecoase.",
+                "en": "Brake early; metal joints can be extremely slippery when wet."
+              }
+            },
+            {
+              "name": "Sigulda Bobsleigh Track",
+              "tip_5lang": {
+                "de": "Besichtigen Sie den Startpunkt im Trockenen, während es draußen regnet.",
+                "hu": "Nézze meg a rajtpozíciót fedett helyen, amíg kint esik.",
+                "ro": "Vizitați punctul de plecare la adăpost în timp ce afară plouă.",
+                "en": "Visit the starting point indoors while it rains outside."
+              }
+            },
+            {
+              "name": "Relaxing in the Walking Stick Park",
+              "tip_5lang": {
+                "de": "Kurze Pause zum Verschnaufen, bevor Sie die Räder zurückgeben.",
+                "hu": "Rövid pihenő a biciklik leadása előtt.",
+                "ro": "Scurtă pauză pentru respirație înainte de a returna bicicletele.",
+                "en": "A short breather before returning your rental bikes."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Bremsen vor dem Start; nasse Felgen verlängern den Bremsweg.",
+              "Vermeiden Sie steile Waldpfade; nutzen Sie lieber die befestigten Wege im Tal.",
+              "Schutzbleche sind bei diesem Wetter unerlässlich, um Schlammspritzer zu vermeiden.",
+              "Ein wasserdichter Rucksacküberzug hält Ihre Ersatzkleidung trocken."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze a fékeket; a vizes felni növeli a fékutat.",
+              "Kerülje a meredek erdei ösvényeket; maradjon a völgy aszfaltozott útjain.",
+              "A sárvédő elengedhetetlen, hogy elkerülje a felverődő sarat.",
+              "Egy vízálló hátizsák-huzat szárazon tartja a váltóruháját."
+            ],
+            "ro": [
+              "Verificați frânele înainte de plecare; jantele ude măresc distanța de frânare.",
+              "Evitați potecile abrupte de pădure; folosiți drumurile pavate din vale.",
+              "Apărătorile de noroi sunt esențiale pentru a evita stropirea.",
+              "O husă impermeabilă pentru rucsac vă va menține hainele de schimb uscate."
+            ],
+            "en": [
+              "Check your brakes before starting; wet rims increase braking distance.",
+              "Avoid steep forest trails; stick to the paved roads in the valley instead.",
+              "Mudguards are essential in this weather to avoid mud splatters.",
+              "A waterproof backpack cover will keep your spare clothes dry."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im Winter in Sigulda ist ein Abenteuer für Mutige, belohnt aber mit einsamen, weißen Landschaften. Vormittags besuchen Sie den Schlosskomplex, der in der Wintersonne funkelt. Mittags geht es zur Gutmannshöhle; achten Sie auf festgefahrenen Schnee auf den Wegen.\n\nAm Nachmittag radeln Sie hoch zum Herrenhaus Krimulda. Die Abfahrt zur Gauja-Brücke erfordert volle Konzentration bei Eisglätte. Das Highlight ist die Bobbahn, wo im Winter oft Profis trainieren. Beenden Sie Ihre Tour im Walking Stick Park, bevor die Dunkelheit einsetzt und die Kälte zunimmt.",
+            "hu": "A téli kerékpározás Siguldában bátor vállalkozás, de magányos, fehér tájakkal jutalmaz. Délelőtt látogassa meg a várkomplexumot, amely szikrázik a téli napsütésben. Délben irány a Gutman-barlang; figyeljen a letaposott hóra az utakon.\n\nDélután tekerjen fel a Krimulda-udvarházhoz. A Gauja-hídhoz vezető lejtő teljes koncentrációt igényel a jegesedés miatt. A nap fénypontja a bobpálya, ahol télen profik edzenek. Fejezze be a túrát a Botok parkjában, mielőtt beáll a sötétség és felerősödik a fagy.",
+            "ro": "Ciclismul de iarnă în Sigulda este o aventură pentru cei curajoși, oferind peisaje albe solitare. Dimineața vizitați complexul castelului, care strălucește în soarele de iarnă. La prânz mergeți spre Peștera Gutman; atenție la zăpada bătătorită de pe drumuri.\n\nDupă-amiaza pedalați până la Conacul Krimulda. Coborârea spre podul Gauja necesită concentrare maximă din cauza gheții. Punctul culminant este pista de bob, unde iarna se antrenează adesea profesioniștii. Încheiați tura în Parcul Bastonului înainte de lăsarea întunericului.",
+            "en": "Winter cycling in Sigulda is an adventure for the brave, rewarded with lonely, white landscapes. In the morning, visit the castle complex sparkling in the winter sun. At noon, head to Gutman's Cave; watch out for packed snow on the trails.\n\nIn the afternoon, cycle up to Krimulda Manor. The descent to the Gauja Bridge requires full concentration due to potential ice. The highlight is the bobsleigh track, where pros often train in winter. Finish your tour at the Walking Stick Park before darkness falls and the cold intensifies."
+          },
+          "stops": [
+            {
+              "name": "Sigulda New Castle & Castle Ruins",
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Abstellen auf Schneehaufen, das Rad könnte einsinken.",
+                "hu": "Ne parkoljon hóbuckákon, a bicikli elsüllyedhet vagy eldőlhet.",
+                "ro": "Evitați parcarea pe mormane de zăpadă, bicicleta se poate scufunda.",
+                "en": "Avoid parking on snow piles; the bike might sink or fall over."
+              }
+            },
+            {
+              "name": "Gutman's Cave",
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig, unter dem Schnee kann sich Eis verbergen.",
+                "hu": "Tekerjen óvatosan, a hó alatt jégpáncél bújhat meg.",
+                "ro": "Pedalați cu atenție, sub zăpadă se poate ascunde gheață.",
+                "en": "Ride carefully; ice may be hidden beneath the fresh snow."
+              }
+            },
+            {
+              "name": "Krimulda Manor",
+              "tip_5lang": {
+                "de": "Ein warmer Ort für eine kurze Pause ist hier im Winter Gold wert.",
+                "hu": "Egy meleg hely egy rövid pihenőre télen aranyat ér itt.",
+                "ro": "Un loc cald pentru o scurtă pauză valorează aur aici iarna.",
+                "en": "A warm spot for a short break is worth its weight in gold here in winter."
+              }
+            },
+            {
+              "name": "Gauja Bridge",
+              "tip_5lang": {
+                "de": "Halten Sie die Lenkstange fest, der Wind auf der Brücke ist eiskalt.",
+                "hu": "Fogja erősen a kormányt, a szél a hídon jéghideg.",
+                "ro": "Țineți bine ghidonul, vântul de pe pod este înghețat.",
+                "en": "Grip the handlebars firmly; the wind on the bridge is ice-cold."
+              }
+            },
+            {
+              "name": "Sigulda Bobsleigh Track",
+              "tip_5lang": {
+                "de": "Im Winter herrscht hier Hochbetrieb, ideal zum Zuschauen.",
+                "hu": "Télen itt nagy a pörgés, kiváló alkalom a nézelődésre.",
+                "ro": "Iarna este activitate intensă aici, ideal pentru a privi antrenamentele.",
+                "en": "This place is buzzing in winter, perfect for watching the action."
+              }
+            },
+            {
+              "name": "Relaxing in the Walking Stick Park",
+              "tip_5lang": {
+                "de": "Nicht zu lange sitzen bleiben, die Kälte zieht schnell ein.",
+                "hu": "Ne ücsörögjön túl sokáig, a hideg gyorsan átjárja az embert.",
+                "ro": "Nu stați așezați prea mult timp, frigul pătrunde rapid.",
+                "en": "Don't sit for too long; the cold will soak in quickly."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie ein Mountainbike mit breiten Reifen für besseren Grip im Schnee.",
+              "Tragen Sie geschlossene Handschuhe; der Fahrtwind bei Minustemperaturen ist extrem.",
+              "Vermeiden Sie die steilen Treppenwege, diese sind im Winter oft unpassierbar.",
+              "Die Lichtverhältnisse ändern sich schnell, sorgen Sie für funktionierende Lichter."
+            ],
+            "hu": [
+              "Használjon széles kerekű hegyikerékpárt a jobb tapadásért a hóban.",
+              "Viseljen zárt kesztyűt; a menetszél fagypont alatt rendkívül metsző.",
+              "Kerülje a meredek lépcsős utakat, ezek télen gyakran járhatatlanok.",
+              "A fényviszonyok gyorsan változnak, gondoskodjon a működő lámpákról."
+            ],
+            "ro": [
+              "Folosiți un mountain bike cu anvelope late pentru o aderență mai bună pe zăpadă.",
+              "Purtați mănuși groase; vântul la temperaturi negative este extrem.",
+              "Evitați traseele cu scări abrupte, acestea sunt adesea impracticabile iarna.",
+              "Condițiile de lumină se schimbă rapid, asigurați-vă că aveți lumini funcționale."
+            ],
+            "en": [
+              "Use a mountain bike with wide tires for better grip in the snow.",
+              "Wear insulated gloves; the wind chill at sub-zero temperatures is extreme.",
+              "Avoid steep stair paths; these are often impassable in winter.",
+              "Light conditions change quickly; make sure you have functioning bike lights."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1058,6 +1440,188 @@
           "Plan your route in advance as mobile reception can be patchy.",
           "A car gives you the flexibility to visit more remote places."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden Sie Sigulda bei Regen ganz entspannt und trocken. Parken Sie vormittags direkt am Schlosskomplex und besuchen Sie das Neue Schloss sowie die Ruinen. Mittags fahren Sie zum Parkplatz an der Gutmannshöhle, der nur wenige Schritte von der Höhle entfernt liegt.\n\nAm Nachmittag bietet sich ein Besuch der Bobbahn an, wo Sie das Geschehen bequem von überdachten Bereichen aus beobachten können. Die kurzen Wege zwischen Parkplatz und Sehenswürdigkeiten minimieren den Kontakt mit dem Regen. Den Tag können Sie mit einer Panoramafahrt durch das Gauja-Tal beenden, bevor Sie zum Abendessen aufbrechen.",
+            "hu": "Autóval Sigulda felfedezése esőben is kényelmes és száraz élmény marad. Délelőtt parkoljon közvetlenül a várkomplexumnál, látogassa meg az Új Kastélyt és a romokat. Délben hajtson át a Gutman-barlang parkolójába, amely csak pár lépésre van a látnivalótól.\n\nDélután látogassa meg a bobpályát, ahol a fedett részekről kísérheti figyelemmel az eseményeket. A parkolók és a látnivalók közötti rövid távolság minimalizálja az esőben töltött időt. A napot zárja egy panoráma-autózással a Gauja-völgyben, mielőtt vacsorázni indulna.",
+            "ro": "Cu mașina, explorarea orașului Sigulda pe ploaie este relaxantă și uscată. Dimineața parcați direct la complexul castelului și vizitați Castelul Nou și ruinele. La prânz, conduceți până la parcarea de lângă Peștera Gutman, situată la doar câțiva pași de peșteră.\n\nDupă-amiaza, vizitați pista de bob, unde puteți urmări activitatea din zonele acoperite. Distanțele scurte între parcare și obiective minimizează contactul cu ploaia. Puteți încheia ziua cu o plimbare panoramică prin valea Gauja înainte de a merge la cină.",
+            "en": "Exploring Sigulda by car in the rain is relaxed and dry. In the morning, park right at the castle complex and visit the New Castle and the ruins. At noon, drive to the parking lot near Gutman's Cave, which is just a few steps away from the site.\n\nIn the afternoon, visit the bobsleigh track, where you can watch the action from covered areas. The short distances between the parking lots and the sights minimize your time in the rain. You can end the day with a scenic drive through the Gauja Valley before heading out for dinner."
+          },
+          "stops": [
+            {
+              "name": "Parking at the Castle Complex",
+              "tip_5lang": {
+                "de": "Zahlen Sie die Parkgebühr per App, um nicht am Automaten im Regen zu stehen.",
+                "hu": "Fizessen parkolást applikációval, hogy ne kelljen az esőben az automatánál állni.",
+                "ro": "Plătiți parcarea prin aplicație pentru a nu sta la automat în ploaie.",
+                "en": "Pay for parking via app to avoid standing at the machine in the rain."
+              }
+            },
+            {
+              "name": "Sigulda New Castle",
+              "tip_5lang": {
+                "de": "Direkter Zugang vom Parkplatz, ideal bei starken Schauern.",
+                "hu": "Közvetlen bejárat a parkolótól, ideális nagy záporok idején.",
+                "ro": "Acces direct din parcare, ideal în timpul averselor puternice.",
+                "en": "Direct access from the parking lot, ideal during heavy downpours."
+              }
+            },
+            {
+              "name": "Medieval Castle Ruins",
+              "tip_5lang": {
+                "de": "Der Weg vom Schloss zu den Ruinen ist kurz und gut befestigt.",
+                "hu": "A kastélytól a romokig vezető út rövid és jól karbantartott.",
+                "ro": "Drumul de la castel la ruine este scurt și bine amenajat.",
+                "en": "The path from the castle to the ruins is short and well-paved."
+              }
+            },
+            {
+              "name": "Parking at Gutman's Cave",
+              "tip_5lang": {
+                "de": "Der Parkplatz kann bei starkem Regen Pfützen bilden, vorsichtig aussteigen.",
+                "hu": "A parkolóban esőben tócsák alakulhatnak ki, vigyázzon a kiszállásnál.",
+                "ro": "Parcarea poate avea bălți la ploaie torențială, atenție la coborâre.",
+                "en": "The parking lot can get puddles during heavy rain; be careful when exiting."
+              }
+            },
+            {
+              "name": "Gutman's Cave",
+              "tip_5lang": {
+                "de": "Nur 2 Minuten Fußweg vom Auto, kaum Regenexposition.",
+                "hu": "Csak 2 perc séta az autótól, alig kell az esőben lenni.",
+                "ro": "Doar 2 minute de mers pe jos de la mașină, expunere minimă la ploaie.",
+                "en": "Only a 2-minute walk from the car; minimal exposure to rain."
+              }
+            },
+            {
+              "name": "Sigulda Bobsleigh Track",
+              "tip_5lang": {
+                "de": "Überdachte Parkplätze und Zuschauerbereiche machen den Besuch wetterfest.",
+                "hu": "A fedett parkolók és nézőterek időjárásállóvá teszik a látogatást.",
+                "ro": "Parcările acoperite și zonele pentru spectatori fac vizita rezistentă la vreme.",
+                "en": "Covered parking and spectator areas make the visit weatherproof."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Parkplätze P1 und P2 für den kürzesten Weg zum Schloss.",
+              "Die Straße hinunter ins Tal zur Höhle kann bei starkem Regen rutschig sein.",
+              "Lassen Sie nasse Regenschirme im Kofferraum, um die Sicht im Auto nicht zu beeinträchtigen.",
+              "Die Panorama-Straße entlang der Gauja ist auch bei Regen sehr sehenswert."
+            ],
+            "hu": [
+              "Használja a P1 és P2 parkolót a kastélyhoz vezető legrövidebb úthoz.",
+              "A völgybe, a barlanghoz vezető út nagy esőben csúszós lehet.",
+              "A vizes esernyőket tartsa a csomagtartóban, hogy ne párásodjanak az ablakok.",
+              "A Gauja menti panorámaút esőben is nagyon látványos."
+            ],
+            "ro": [
+              "Folosiți parcările P1 și P2 pentru cel mai scurt drum către castel.",
+              "Drumul spre vale către peșteră poate fi alunecos în timpul ploilor abundente.",
+              "Lăsați umbrelele ude în portbagaj pentru a nu aburi geamurile mașinii.",
+              "Drumul panoramic de-a lungul râului Gauja merită văzut chiar și pe ploaie."
+            ],
+            "en": [
+              "Use parking lots P1 and P2 for the shortest walk to the castle.",
+              "The road down into the valley to the cave can be slippery during heavy rain.",
+              "Keep wet umbrellas in the trunk to prevent the car windows from fogging up.",
+              "The scenic road along the Gauja is worth driving even in rainy weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Sigulda im Winter ist mit dem Auto sicher und komfortabel zu bereisen. Vormittags parken Sie am Schlosskomplex und genießen die schneebedeckte Aussicht. Mittags fahren Sie vorsichtig ins Tal zur Gutmannshöhle; die Straßen sind meist gut geräumt, aber Winterreifen sind Pflicht.\n\nAm Nachmittag ist die Bobbahn das Hauptziel, da hier im Winter die meisten Wettbewerbe stattfinden. Genießen Sie die Fahrt durch die tief verschneiten Wälder des Gauja-Tals. Die Sitzheizung wird Ihr bester Freund sein, wenn Sie zwischen den frostigen Fotostopps zurück ins Auto steigen. Beenden Sie den Tag entspannt im Stadtzentrum.",
+            "hu": "Télen Sigulda autóval biztonságosan és kényelmesen bejárható. Délelőtt parkoljon a várkomplexumnál, és élvezze a havas panorámát. Délben óvatosan hajtson le a völgybe a Gutman-barlanghoz; az utakat általában jól takarítják, de a téli gumi kötelező.\n\nDélután a bobpálya a fő célpont, hiszen télen itt zajlik az élet. Élvezze az autózást a Gauja-völgy mélyen havas erdeiben. Az ülésfűtés lesz a legjobb barátja, amikor visszaszáll a kocsiba a fagyos fotószünetek után. Zárja a napot kényelmesen a városközpontban.",
+            "ro": "Sigulda iarna este sigură și confortabilă de vizitat cu mașina. Dimineața parcați la complexul castelului și bucurați-vă de vederea înzăpezită. La prânz, conduceți cu atenție spre vale către Peștera Gutman; drumurile sunt de obicei bine deszăpezite, dar anvelopele de iarnă sunt obligatorii.\n\nDupă-amiaza, pista de bob este destinația principală, iarna având loc cele mai multe competiții. Bucurați-vă de drumul prin pădurile troienite ale văii Gauja. Încălzirea în scaune va fi cea mai bună prietenă când vă întoarceți în mașină după opririle foto geroase.",
+            "en": "Sigulda in winter is safe and comfortable to explore by car. In the morning, park at the castle complex and enjoy the snow-covered views. At noon, drive carefully down into the valley to Gutman's Cave; roads are usually well-cleared, but winter tires are mandatory.\n\nIn the afternoon, the bobsleigh track is the main highlight as most competitions happen here in winter. Enjoy the drive through the deeply snow-covered forests of the Gauja Valley. Seat heating will be your best friend when getting back into the car between frosty photo stops. End your day comfortably in the city center."
+          },
+          "stops": [
+            {
+              "name": "Parking at the Castle Complex",
+              "tip_5lang": {
+                "de": "Vorsicht beim Gehen auf dem Parkplatz, es kann unter dem Schnee glatt sein.",
+                "hu": "Vigyázzon a parkolóban járva, a hó alatt jeges lehet a talaj.",
+                "ro": "Atenție la mers în parcare, poate fi polei sub zăpadă.",
+                "en": "Be careful walking in the parking lot; there may be ice under the snow."
+              }
+            },
+            {
+              "name": "Sigulda New Castle",
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor nicht unnötig laufen, nutzen Sie die Standheizung.",
+                "hu": "Ne járassa feleslegesen a motort, használja az állófűtést, ha van.",
+                "ro": "Nu lăsați motorul pornit inutil, folosiți încălzirea auxiliară.",
+                "en": "Don't leave the engine idling; use the auxiliary heater if available."
+              }
+            },
+            {
+              "name": "Medieval Castle Ruins",
+              "tip_5lang": {
+                "de": "Ein kurzer, aber frostiger Spaziergang; ziehen Sie sich warm an.",
+                "hu": "Rövid, de fagyos séta; öltözzön fel melegen.",
+                "ro": "O plimbare scurtă, dar geroasă; îmbrăcați-vă bine.",
+                "en": "A short but frosty walk; make sure to dress warmly."
+              }
+            },
+            {
+              "name": "Parking at Gutman's Cave",
+              "tip_5lang": {
+                "de": "Halten Sie Abstand zu Schneewällen beim Einparken.",
+                "hu": "Tartson távolságot a hófalaktól parkoláskor.",
+                "ro": "Păstrați distanța față de mormanele de zăpadă când parcați.",
+                "en": "Keep a safe distance from snow banks when parking."
+              }
+            },
+            {
+              "name": "Gutman's Cave",
+              "tip_5lang": {
+                "de": "Der kurze Weg vom Parkplatz ist meist geräumt und gestreut.",
+                "hu": "A parkolótól vezető rövid utat általában takarítják és szórják.",
+                "ro": "Drumul scurt din parcare este de obicei deszăpezit și presărat cu nisip.",
+                "en": "The short path from the parking lot is usually cleared and salted."
+              }
+            },
+            {
+              "name": "Sigulda Bobsleigh Track",
+              "tip_5lang": {
+                "de": "Parkplätze sind hier im Winter oft stark belegt, kommen Sie früh.",
+                "hu": "A parkolók télen gyakran tele vannak, érkezzen időben.",
+                "ro": "Parcările sunt adesea pline iarna aici, veniți devreme.",
+                "en": "Parking lots are often crowded here in winter; arrive early."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Ihr Wischwasser für extreme Minustemperaturen geeignet ist.",
+              "Die Abfahrt ins Gauja-Tal hat scharfe Kurven; fahren Sie im niedrigen Gang.",
+              "Nehmen Sie eine Schneeschaufel und einen Eiskratzer im Auto mit.",
+              "Tanken Sie rechtzeitig; bei Kälte verbraucht das Auto im Stand mehr Energie."
+            ],
+            "hu": [
+              "Győződjön meg róla, hogy a szélvédőmosó bírja a kemény mínuszokat.",
+              "A völgybe vezető úton éles kanyarok vannak; használjon motorféket.",
+              "Legyen az autóban hólapát és jégkaparó.",
+              "Tankoljon időben; hidegben a várakozás közbeni fűtés több energiát fogyaszt."
+            ],
+            "ro": [
+              "Asigurați-vă că lichidul de parbriz este rezistent la temperaturi scăzute.",
+              "Coborârea în valea Gauja are curbe strânse; folosiți frâna de motor.",
+              "Aveți în mașină o lopată de zăpadă și o răzuitoare de gheață.",
+              "Alimentați la timp; pe timp de frig, consumul de energie este mai mare."
+            ],
+            "en": [
+              "Ensure your windshield washer fluid is rated for extreme sub-zero temperatures.",
+              "The road down to the Gauja Valley has sharp curves; drive in a low gear.",
+              "Keep a snow shovel and an ice scraper in your car.",
+              "Refuel in time; heating while stationary consumes more fuel in the cold."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1394,6 +1958,188 @@
           "Most sights still require a short walk after the bus ride.",
           "Have small change ready for bus tickets in case card payment is not possible."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den öffentlichen Nahverkehr, um Sigulda bei Regen stressfrei zu erleben. Nach der Ankunft am Busbahnhof erreichen Sie schnell den Walking Stick Park. Vormittags bringen Sie lokale Busse direkt zum Schlosskomplex, sodass Sie kaum im Regen laufen müssen.\n\nMittags bietet die Seilbahn eine trockene Verbindung über die Gauja. Besuchen Sie die Gutmannshöhle und nutzen Sie die Bushaltestelle direkt daneben für die Rückfahrt. Den Nachmittag verbringen Sie im gemütlichen Stadtzentrum, wo Sie nach einem kurzen Spaziergang viele Cafés und Restaurants erreichen. Die Busse sind zuverlässig und bieten Schutz vor den Schauern.",
+            "hu": "Használja a tömegközlekedést Sigulda esőben való felfedezéséhez. A buszpályaudvarra érkezés után gyorsan elérheti a Botok parkját. Délelőtt helyi járatok viszik közvetlenül a várkomplexumhoz, így alig kell az esőben gyalogolnia.\n\nDélben a libegő biztosít száraz átkelést a Gauja felett. Látogassa meg a Gutman-barlangot, és használja a közvetlenül mellette lévő buszmegállót a visszatéréshez. A délutánt töltse a hangulatos városközpontban, ahol sok kávézó várja. A buszok megbízhatóak és védelmet nyújtanak a záporok elől.",
+            "ro": "Folosiți transportul public pentru a experimenta Sigulda pe ploaie fără stres. După sosirea la autogară, ajungeți rapid în Parcul Bastonului. Dimineața, autobuzele locale vă duc direct la complexul castelului, astfel încât să nu mergeți mult prin ploaie.\n\nLa prânz, telecabina oferă o conexiune uscată peste Gauja. Vizitați Peștera Gutman și folosiți stația de autobuz de lângă ea pentru întoarcere. Petreceți după-amiaza în centrul orașului, unde găsiți multe cafenele primitoare. Autobuzele sunt punctuale și oferă protecție împotriva ploii.",
+            "en": "Use public transport to experience Sigulda stress-free in the rain. After arriving at the bus station, you can quickly reach the Walking Stick Park. In the morning, local buses take you directly to the castle complex, minimizing your time walking in the rain.\n\nAt noon, the cable car provides a dry crossing over the Gauja. Visit Gutman's Cave and use the bus stop right next to it for your return trip. Spend the afternoon in the cozy city center, where many cafes and restaurants are just a short walk away. The buses are reliable and offer shelter from the showers."
+          },
+          "stops": [
+            {
+              "name": "Sigulda Bus Station (Arrival)",
+              "tip_5lang": {
+                "de": "Der Wartebereich ist überdacht, ideal zum Checken des Fahrplans.",
+                "hu": "A váróterem fedett, ideális a menetrend ellenőrzéséhez.",
+                "ro": "Zona de așteptare este acoperită, ideală pentru verificarea orarului.",
+                "en": "The waiting area is covered, ideal for checking the bus schedule."
+              }
+            },
+            {
+              "name": "Walking Stick Park",
+              "tip_5lang": {
+                "de": "Nur 5 Minuten Fußweg vom Bahnhof, asphaltierte Wege.",
+                "hu": "Csak 5 perc séta az állomástól, aszfaltozott utak.",
+                "ro": "Doar 5 minute de mers de la gară, drumuri asfaltate.",
+                "en": "Only a 5-minute walk from the station; fully paved paths."
+              }
+            },
+            {
+              "name": "New Castle & Castle Ruins",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle 'Siguldas pils' befindet sich direkt am Eingang.",
+                "hu": "A 'Siguldas pils' buszmegálló közvetlenül a bejáratnál van.",
+                "ro": "Stația de autobuz 'Siguldas pils' se află chiar la intrare.",
+                "en": "The 'Siguldas pils' bus stop is located right at the entrance."
+              }
+            },
+            {
+              "name": "Bus stop at the Cable Car",
+              "tip_5lang": {
+                "de": "Kleiner Unterstand vorhanden, falls Sie auf den Bus warten müssen.",
+                "hu": "Kis beálló van itt, ha várni kellene a buszra.",
+                "ro": "Există un mic adăpost în caz că trebuie să așteptați autobuzul.",
+                "en": "A small shelter is available if you need to wait for the bus."
+              }
+            },
+            {
+              "name": "Gutman's Cave",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Bus 12 oder 15 für die Rückfahrt ins Zentrum.",
+                "hu": "Használja a 12-es vagy 15-ös buszt a központba való visszatéréshez.",
+                "ro": "Folosiți autobuzul 12 sau 15 pentru întoarcerea în centru.",
+                "en": "Use bus 12 or 15 for the return trip to the center."
+              }
+            },
+            {
+              "name": "Return to the city center",
+              "tip_5lang": {
+                "de": "Die meisten Cafés liegen nah an den zentralen Haltestellen.",
+                "hu": "A legtöbb kávézó közel van a központi megállókhoz.",
+                "ro": "Majoritatea cafenelelor sunt aproape de stațiile centrale.",
+                "en": "Most cafes are located close to the central bus stops."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Laden Sie die 'Mobilly' App für einfache Ticketkäufe herunter.",
+              "Die Busse fahren bei Regen oft pünktlicher als Autos im Verkehr.",
+              "Der Bahnhof bietet Schließfächer, um schweres, nasses Gepäck zu verstauen.",
+              "Fragen Sie den Fahrer nach der nächsten Haltestelle zur Höhle (Gūtmaņa ala)."
+            ],
+            "hu": [
+              "Töltse le a 'Mobilly' alkalmazást az egyszerű jegyvásárláshoz.",
+              "A buszok esőben gyakran pontosabbak, mint az autós forgalom.",
+              "Az állomáson vannak csomagmegőrzők a nehéz, vizes táskáknak.",
+              "Kérdezze a sofőrt a barlanghoz (Gūtmaņa ala) legközelebbi megállóról."
+            ],
+            "ro": [
+              "Descărcați aplicația 'Mobilly' pentru achiziționarea ușoară a biletelor.",
+              "Autobuzele sunt adesea mai punctuale decât traficul auto pe ploaie.",
+              "Gara oferă dulapuri pentru depozitarea bagajelor grele și ude.",
+              "Întrebați șoferul despre cea mai apropiată stație de peșteră (Gūtmaņa ala)."
+            ],
+            "en": [
+              "Download the 'Mobilly' app for easy ticket purchases.",
+              "Buses often run more punctually than car traffic during rain.",
+              "The station offers lockers to store heavy or wet luggage.",
+              "Ask the driver for the stop closest to the cave (Gūtmaņa ala)."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Winter in Sigulda lässt sich hervorragend mit Bus und Bahn erkunden. Vormittags spazieren Sie durch den verschneiten Walking Stick Park. Lokale Busse bringen Sie zuverlässig zum Schlosskomplex, wo Sie die winterliche Stille genießen können.\n\nMittags ist die Seilbahnfahrt ein Muss, um die vereiste Gauja von oben zu sehen. Die Busse zur Gutmannshöhle sind gut beheizt und bieten eine warme Pause zwischen den Besichtigungen. Den Nachmittag verbringen Sie im Stadtzentrum, das im Winter festlich beleuchtet ist. Da es früh dunkel wird, sind die kurzen Wege zwischen den Haltestellen und den warmen Gaststuben ideal.",
+            "hu": "Sigulda tele kiválóan felfedezhető busszal és vonattal. Délelőtt sétáljon a havas Botok parkjában. A helyi buszok megbízhatóan viszik a várkomplexumhoz, ahol élvezheti a téli csendet.\n\nDélben a libegő kötelező program, hogy felülről lássa a jeges Gauját. A Gutman-barlanghoz tartó buszok jól fűtöttek, kellemes pihenőt nyújtanak a látnivalók között. A délutánt töltse a városközpontban, amely télen ünnepi fényekben úszik. Mivel korán sötétedik, a megállók és a meleg éttermek közötti rövid távolságok ideálisak.",
+            "ro": "Iarna în Sigulda poate fi explorată excelent cu autobuzul și trenul. Dimineața, plimbați-vă prin Parcul Bastonului înzăpezit. Autobuzele locale vă duc în siguranță la complexul castelului, unde puteți savura liniștea iernii.\n\nLa prânz, telecabina este obligatorie pentru a vedea râul Gauja înghețat de sus. Autobuzele spre Peștera Gutman sunt bine încălzite, oferind o pauză caldă între vizite. Petreceți după-amiaza în centrul orașului, luminat festiv iarna. Deoarece se întunecă devreme, distanțele scurte între stații și restaurantele calde sunt ideale.",
+            "en": "Sigulda in winter is easily explored by bus and train. In the morning, stroll through the snow-covered Walking Stick Park. Local buses reliably take you to the castle complex, where you can enjoy the winter silence.\n\nAt noon, the cable car ride is a must to see the frozen Gauja from above. Buses to Gutman's Cave are well-heated, providing a warm break between sights. Spend the afternoon in the city center, which is festively lit in winter. Since it gets dark early, the short distances between bus stops and warm eateries are ideal."
+          },
+          "stops": [
+            {
+              "name": "Sigulda Bus Station (Arrival)",
+              "tip_5lang": {
+                "de": "Der beheizte Wartesaal im Bahnhof ist ein guter Ort zum Aufwärmen.",
+                "hu": "Az állomás fűtött váróterme remek hely a felmelegedésre.",
+                "ro": "Sala de așteptare încălzită din gară este un loc bun pentru încălzire.",
+                "en": "The heated waiting room at the station is a great place to warm up."
+              }
+            },
+            {
+              "name": "Walking Stick Park",
+              "tip_5lang": {
+                "de": "Der Weg vom Bahnhof wird als einer der ersten geräumt.",
+                "hu": "Az állomástól vezető utat az elsők között takarítják le.",
+                "ro": "Drumul de la gară este printre primele curățate de zăpadă.",
+                "en": "The path from the station is one of the first to be cleared of snow."
+              }
+            },
+            {
+              "name": "New Castle & Castle Ruins",
+              "tip_5lang": {
+                "de": "Achten Sie auf den rutschigen Boden an der Bushaltestelle.",
+                "hu": "Vigyázzon a csúszós talajra a buszmegállónál.",
+                "ro": "Atenție la solul alunecos din stația de autobuz.",
+                "en": "Watch out for slippery ground at the bus stop area."
+              }
+            },
+            {
+              "name": "Bus stop at the Cable Car",
+              "tip_5lang": {
+                "de": "Die Seilbahn ist nur wenige Schritte von der Haltestelle entfernt.",
+                "hu": "A libegő csak pár lépésre van a megállótól.",
+                "ro": "Telecabina se află la doar câțiva pași de stație.",
+                "en": "The cable car is just a few steps away from the bus stop."
+              }
+            },
+            {
+              "name": "Gutman's Cave",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Winterfahrplan, die Busse fahren seltener als im Sommer.",
+                "hu": "Ellenőrizze a téli menetrendet, a buszok ritkábban járnak, mint nyáron.",
+                "ro": "Verificați orarul de iarnă, autobuzele circulă mai rar decât vara.",
+                "en": "Check the winter schedule; buses run less frequently than in summer."
+              }
+            },
+            {
+              "name": "Return to the city center",
+              "tip_5lang": {
+                "de": "Der zentrale Platz ist im Winter oft wunderschön dekoriert.",
+                "hu": "A központi tér télen gyakran gyönyörűen fel van díszítve.",
+                "ro": "Piața centrală este adesea decorată superb în timpul iernii.",
+                "en": "The central square is often beautifully decorated in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Schuhe mit gutem Profil für den Weg zur Bushaltestelle.",
+              "Die Fahrpläne hängen an den Haltestellen aus, sind aber auch online (1188.lv) verfügbar.",
+              "Züge zwischen Riga und Sigulda sind im Winter warm und sehr zuverlässig.",
+              "Halten Sie Kleingeld bereit, falls Sie Tickets direkt beim Fahrer kaufen müssen."
+            ],
+            "hu": [
+              "Viseljen jó tapadású cipőt a buszmegállóhoz vezető úton.",
+              "A menetrendek kint vannak a megállókban, de online is elérhetők (1188.lv).",
+              "A Riga és Sigulda közötti vonatok télen fűtöttek és nagyon megbízhatóak.",
+              "Legyen önnél aprópénz, ha közvetlenül a sofőrnél kell jegyet venni."
+            ],
+            "ro": [
+              "Purtați încălțăminte cu talpă antiderapantă pentru drumul spre stație.",
+              "Orarele sunt afișate în stații, dar sunt disponibile și online (1188.lv).",
+              "Trenurile între Riga și Sigulda sunt calde și foarte punctuale iarna.",
+              "Aveți pregătit mărunt în caz că trebuie să luați bilet de la șofer."
+            ],
+            "en": [
+              "Wear shoes with good grip for the walk to the bus stops.",
+              "Schedules are posted at stops but also available online (1188.lv).",
+              "Trains between Riga and Sigulda are warm and very reliable in winter.",
+              "Keep some small change ready in case you need to buy tickets from the driver."
+            ]
+          }
+        }
       }
     }
   }

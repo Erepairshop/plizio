@@ -356,6 +356,188 @@
           "Check opening times for attractions in advance, especially out of season.",
           "Bring water and snacks, as facilities can be limited between sites."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt im St. Patrick Centre, das idealen Schutz vor dem irischen Regen bietet. In den Ausstellungsräumen erfahren Sie alles über den Heiligen, während draußen die Wolken über den Hill of Down ziehen.\n\nMittags führt ein kurzer, nasser Weg zur Kathedrale. Das monumentale Innere ist ein Ort der Stille, an dem das Prasseln der Tropfen auf das Dach eine meditative Atmosphäre schafft.\n\nAm Nachmittag bietet das County Museum in der ehemaligen Strafanstalt einen trockenen Zufluchtsort. Die dicken Mauern lassen das Wetter vergessen, während Sie die lokale Geschichte erkunden.\n\nDer Abend endet mit einem Blick auf die Quoile-Marschen. Wenn der Regen nachlässt, glänzt das feuchte Schilf im fahlen Licht, bevor Sie in die Wärme eines lokalen Pubs einkehren.",
+            "hu": "A reggel a Szent Patrik Központban indul, amely kiváló menedéket nyújt az ír eső elől. A modern kiállítás elmélyülést kínál, amíg a felhők átvonulnak a város felett.\n\nDélben egy rövid séta vezet a katedrálishoz. A belső tér csendjében a tetőn kopogó eső hangja különleges, meditatív hangulatot áraszt a történelmi falak között.\n\nDélután a megyei múzeum vastag falai mögött folytatódik a program. Az egykori börtönépület száraz és izgalmas helyszín a helyi emlékek felfedezéséhez.\n\nAz este a Quoile-menti sétával zárul. Az eső áztatta nádas és a párás levegő misztikus látványt nyújt, mielőtt a városi fények és egy meleg tea felé vennénk az irányt.",
+            "ro": "Dimineața începe la Centrul St. Patrick, refugiul perfect împotriva ploii irlandeze. Expozițiile interactive vă țin la adăpost în timp ce norii grei trec peste dealul orașului.\n\nLa prânz, o scurtă plimbare vă duce la Catedrala Down. Interiorul vast și tăcut oferă un contrast cald cu vremea de afară, sunetul ploii pe vitralii fiind relaxant.\n\nDupă-amiaza este dedicată Muzeului Județean. Găzduit în fosta închisoare, oferă un mediu uscat și fascinant pentru a descoperi trecutul regiunii fără a depinde de vreme.\n\nSeara se încheie lângă mlaștinile Quoile. Când ploaia se domolește, reflexiile apei pe potecile umede creează un decor dramatic înainte de retragerea la căldură.",
+            "en": "The morning starts at the St. Patrick Centre, providing perfect shelter from the Irish rain. The interactive exhibits keep you dry while clouds roll over the historic Hill of Down.\n\nAt midday, a short walk leads to Down Cathedral. The vast, silent interior offers a warm contrast to the weather outside, with the sound of rain on the roof creating a meditative mood.\n\nIn the afternoon, the County Museum in the former jail provides a dry and fascinating environment to explore local history regardless of the downpour.\n\nThe evening concludes near the Quoile marshes. As the rain eases, the wet reeds and damp air create a misty, atmospheric end to the day before heading for a cozy indoor spot."
+          },
+          "stops": [
+            {
+              "name": "Start: St. Patrick Centre",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe für nasse Mäntel; das Café im Haus ist ideal für eine Regenpause.",
+                "hu": "Használja a ruhatárat a vizes kabátoknak; a benti kávézó remek hely kivárni az eső végét.",
+                "ro": "Folosiți garderoba pentru pelerinele umede; cafeneaua interioară este ideală pentru o pauză.",
+                "en": "Use the cloakroom for wet coats; the on-site café is perfect for waiting out a heavy shower."
+              }
+            },
+            {
+              "name": "Down Cathedral",
+              "tip_5lang": {
+                "de": "Achten Sie auf die rutschigen Steinplatten am Eingang zum Grab des Heiligen Patrick.",
+                "hu": "Vigyázzon a csúszós kőlapokra Szent Patrik sírjának bejáratánál az esős időben.",
+                "ro": "Atenție la dalele de piatră alunecoase de la intrarea spre mormântul Sfântului Patrick.",
+                "en": "Watch out for slippery stone flags near the entrance to St. Patrick's grave during rain."
+              }
+            },
+            {
+              "name": "Down County Museum",
+              "tip_5lang": {
+                "de": "Die Innenhöfe können pfützenreich sein; verbringen Sie mehr Zeit in den trockenen Zellen-Trakten.",
+                "hu": "Az udvarokon tócsák lehetnek; töltsön több időt a börtöncellák fedett kiállítótereiben.",
+                "ro": "Curțile pot avea bălți; petreceți mai mult timp în secțiunile interioare ale fostei închisori.",
+                "en": "Courtyards can be puddled; spend more time in the dry cell blocks and indoor galleries."
+              }
+            },
+            {
+              "name": "Saul Church",
+              "tip_5lang": {
+                "de": "Kleine Kirche mit begrenztem Schutz; parken Sie kurz davor, um den Weg im Regen zu minimieren.",
+                "hu": "Kis templom kevés óvóhellyel; érdemes esernyővel készülni a parkolótól a bejáratig.",
+                "ro": "Biserică mică cu adăpost limitat; pregătiți umbrela pentru drumul scurt de la poartă.",
+                "en": "Small church with limited indoor space; have your umbrella ready for the short walk from the gate."
+              }
+            },
+            {
+              "name": "Struell Wells",
+              "tip_5lang": {
+                "de": "Die Wege zu den Quellen werden sehr schlammig; festes, wasserdichtes Schuhwerk ist unerlässlich.",
+                "hu": "A forrásokhoz vezető út sáros lehet; a vízálló bakancs kötelező ezen a terepen.",
+                "ro": "Potecile spre izvoare devin noroioase; încălțămintea impermeabilă este esențială aici.",
+                "en": "Paths to the wells get muddy; sturdy waterproof boots are essential for this outdoor site."
+              }
+            },
+            {
+              "name": "Quoile Countryside Centre",
+              "tip_5lang": {
+                "de": "Vogelbeobachtungshütten bieten trockene Plätze mit Blick auf den Fluss und die nasse Natur.",
+                "hu": "A madármegfigyelő kunyhók száraz búvóhelyet és jó kilátást nyújtanak a folyóra.",
+                "ro": "Observatoarele de păsări oferă un loc uscat cu vedere spre râu și natura umedă.",
+                "en": "Bird hides provide dry spots with great views over the river and the rain-soaked landscape."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine hochwertige Regenjacke, da der Wind in Downpatrick oft Schirme zerstört.",
+              "Die Museen in Downpatrick sind montags oft geschlossen; prüfen Sie die Öffnungszeiten.",
+              "Nutzen Sie die Indoor-Cafés im St. Patrick Centre für längere Schauer.",
+              "Achten Sie auf rutschiges Kopfsteinpflaster in der Nähe der English Street."
+            ],
+            "hu": [
+              "Viseljen jó minőségű esőkabátot, mert a szél Downpatrickben gyakran tönkreteszi az ernyőket.",
+              "A múzeumok hétfőnként zárva tarthatnak; ellenőrizze a nyitvatartást esős napokon.",
+              "A Szent Patrik Központ kávézója kiváló menedék a nagyobb felhőszakadások idején.",
+              "Vigyázzon a csúszós macskakövekre az English Street környékén."
+            ],
+            "ro": [
+              "Purtați o jachetă de ploaie de calitate; vântul din Downpatrick poate distruge umbrelele rapid.",
+              "Muzeele pot fi închise lunea; verificați orarul înainte de a pleca la drum pe ploaie.",
+              "Cafeneaua de la Centrul St. Patrick este cel mai bun refugiu în timpul averselor grele.",
+              "Atenție la pavajul alunecos de pe străzile istorice din centrul orașului."
+            ],
+            "en": [
+              "Wear a high-quality raincoat as the wind in Downpatrick often breaks umbrellas.",
+              "Museums may have limited hours on rainy Mondays; check local listings before visiting.",
+              "The St. Patrick Centre café is the best spot for waiting out heavy downpours.",
+              "Be careful on slippery cobblestones around English Street and the Cathedral area."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen am St. Patrick Centre ist oft von Frost überzogen. Die Wärme der Ausstellungen lockt, während das fahle Sonnenlicht die Hügel der Grafschaft Down in ein silbernes Licht taucht.\n\nMittags ist die Kathedrale besonders stimmungsvoll. Das kalte Licht fällt durch die Fenster und beleuchtet die historischen Holzbänke, während man die Ruhe des heiligen Ortes genießt.\n\nNachmittags bietet das County Museum Schutz vor dem beißenden Wind. Die dicken Gefängnismauern halten die Kälte draußen, während Sie in die düstere Geschichte eintauchen.\n\nDer frühe Sonnenuntergang gegen 16 Uhr verwandelt die Quoile-Marschen in eine frostige Märchenlandschaft. Die kahlen Bäume spiegeln sich im kalten Wasser, bevor die Dunkelheit den Tag beendet.",
+            "hu": "A téli reggel a Szent Patrik Központnál gyakran déres tájjal fogadja. A kiállítótér melege hívogató, miközben a gyenge napfény ezüstösbe vonja a környező dombokat.\n\nDélben a katedrális különleges hangulatot áraszt. A hideg fények átvilágítanak az ablakokon, megvilágítva a történelmi padokat a csendes téli délidőben.\n\nDélután a megyei múzeum nyújt menedéket a metsző szél elől. A vastag falak kizárják a fagyot, így nyugodtan merülhet el a börtön és a város múltjában.\n\nA korai naplemente 16 óra körül fagyos tündérkertté változtatja a Quoile-menti vidéket. A kopár fák sziluettje tükröződik a vízen, mielőtt a sötétség teljesen beállna.",
+            "ro": "Dimineața de iarnă la Centrul St. Patrick este adesea marcată de chiciură. Căldura expozițiilor este primitoare în timp ce lumina slabă a soarelui argintează dealurile din Down.\n\nLa prânz, Catedrala are o atmosferă aparte. Lumina rece pătrunde prin vitralii, luminând stranele istorice în timp ce vă bucurați de liniștea deplină a locului.\n\nDupă-amiaza, Muzeul Județean oferă protecție împotriva vântului tăios. Zidurile groase ale fostei închisori țin frigul la distanță în timp ce explorați istoria locală.\n\nApusul timpuriu, în jurul orei 16:00, transformă mlaștinile Quoile într-un peisaj înghețat de poveste, înainte ca întunericul să cuprindă întregul oraș.",
+            "en": "A winter morning at the St. Patrick Centre is often crisp and frosty. The warmth of the exhibits is welcoming while pale sunlight silvers the rolling hills of County Down.\n\nAt midday, the Cathedral feels especially atmospheric. Cold light streams through the windows, illuminating historic pews as you enjoy the profound silence of this sacred site.\n\nIn the afternoon, the County Museum provides a solid escape from the biting wind. The thick prison walls keep the frost out as you delve into the area's storied past.\n\nThe early sunset around 4 PM transforms the Quoile marshes into a frozen fairyland. Bare trees reflect in the cold water just before darkness settles over the landscape."
+          },
+          "stops": [
+            {
+              "name": "Start: St. Patrick Centre",
+              "tip_5lang": {
+                "de": "Genießen Sie eine heiße Suppe im Café, um sich vor dem Rundgang aufzuwärmen.",
+                "hu": "Igyon egy forró levest a kávézóban, mielőtt nekivágna a városi sétának a hidegben.",
+                "ro": "Savurați o supă caldă la cafenea pentru a vă încălzi înainte de turul orașului.",
+                "en": "Enjoy a hot soup in the café to warm up before starting your winter walk."
+              }
+            },
+            {
+              "name": "Down Cathedral",
+              "tip_5lang": {
+                "de": "Tragen Sie warme Schichten; das Innere der Kathedrale kann im Winter sehr kühl sein.",
+                "hu": "Öltözzön rétegesen; a katedrális belseje télen meglehetősen hűvös lehet.",
+                "ro": "Purtați haine groase; interiorul catedralei poate fi foarte rece în timpul iernii.",
+                "en": "Dress in warm layers; the Cathedral interior can be quite chilly during winter months."
+              }
+            },
+            {
+              "name": "Down County Museum",
+              "tip_5lang": {
+                "de": "Die Zellentrakte sind unbeheizt; nutzen Sie die Galeriebereiche für wärmere Pausen.",
+                "hu": "A börtöncellák fűtetlenek; a galéria részei alkalmasabbak a hosszabb időzésre.",
+                "ro": "Celulele nu sunt încălzite; folosiți zonele de galerie pentru pauze mai călduroase.",
+                "en": "The cell blocks are unheated; use the gallery areas for warmer indoor breaks."
+              }
+            },
+            {
+              "name": "Saul Church",
+              "tip_5lang": {
+                "de": "Der Wind auf dem Hügel ist im Winter scharf; halten Sie den Besuch kurz und knackig.",
+                "hu": "A dombtetőn metsző lehet a téli szél; tervezzen rövid látogatást a templomnál.",
+                "ro": "Vântul de pe deal este tăios iarna; mențineți vizita scurtă și bine planificată.",
+                "en": "The wind on the hill is sharp in winter; keep your visit focused and brief."
+              }
+            },
+            {
+              "name": "Struell Wells",
+              "tip_5lang": {
+                "de": "Vorsicht bei Frost auf den unebenen Wegen; Steinplatten können extrem glatt sein.",
+                "hu": "Vigyázzon a fagyos, egyenetlen utakon; a kőlapok rendkívül csúszósak lehetnek.",
+                "ro": "Atenție la gheață pe potecile denivelate; dalele de piatră pot fi extrem de alunecoase.",
+                "en": "Watch for frost on uneven paths; the stone flags around the wells can be treacherous."
+              }
+            },
+            {
+              "name": "Quoile Countryside Centre",
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Ort vor 15:30 Uhr, um das letzte Tageslicht am Fluss zu nutzen.",
+                "hu": "Érkezzen 15:30 előtt, hogy még láthassa az utolsó fényeket a befagyott folyónál.",
+                "ro": "Vizitați înainte de ora 15:30 pentru a profita de ultima lumină a zilei pe râu.",
+                "en": "Visit before 3:30 PM to catch the last daylight reflecting off the winter river."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Dezember bereits vor 16:00 Uhr unter; planen Sie Outdoor-Stopps früh.",
+              "Tragen Sie Thermounterwäsche, da die Luftfeuchtigkeit die Kälte verstärkt.",
+              "Prüfen Sie, ob lokale Pubs Kamine haben – ideal für den Abschluss des Tages.",
+              "Einige Fußwege außerhalb des Zentrums werden im Winter nicht gestreut."
+            ],
+            "hu": [
+              "A nap decemberben már 16:00 előtt lemegy; a szabadtéri látnivalókat vegye előre.",
+              "Viseljen hőtartó aláöltözetet, mert a páratartalom miatt hidegebbnek érződik a levegő.",
+              "Keressen olyan pubokat, ahol van kandalló – tökéletes zárása a téli napnak.",
+              "A központon kívüli gyalogutakat télen nem mindenhol sózzák vagy takarítják."
+            ],
+            "ro": [
+              "Soarele apune înainte de ora 16:00 în decembrie; planificați vizitele externe devreme.",
+              "Purtați straturi termice; umiditatea ridicată face ca frigul să fie mult mai pătrunzător.",
+              "Căutați pub-uri cu șemineu pentru a încheia ziua într-o atmosferă caldă.",
+              "Unele poteci din afara centrului nu sunt curățate de gheață în mod regulat."
+            ],
+            "en": [
+              "Sunset is before 4 PM in December; prioritize outdoor stops for the morning hours.",
+              "Wear thermal layers as high humidity makes the winter air feel much colder.",
+              "Look for local pubs with open fires—they are perfect for ending a winter day.",
+              "Some footpaths outside the town centre may not be gritted during icy weather."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -729,6 +911,206 @@
           "Plan your route in advance as phone signal can be patchy.",
           "Wear a helmet and high-visibility clothing."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt windig an der Down Cathedral. Der Regen peitscht über den Hügel, während Sie schnell Schutz in der Vorhalle suchen.\n\nMittags radeln Sie zum St. Patrick Centre. Die Fahrt ist kurz, aber nass, und die warme Ausstellung bietet die nötige Trocknungspause für Ihre Ausrüstung.\n\nNachmittags führt die Route zur Inch Abbey. Die Ruinen wirken im Regen besonders dramatisch, auch wenn das Gras unter den Reifen nachgibt.\n\nDer Tag endet im County Museum. Nach dem Abstellen des Rads wärmen Sie sich in den Ausstellungsräumen auf, während der Regen draußen an die Fenster schlägt.",
+            "hu": "A nap szelesen indul a katedrálisnál. Az eső végigsöpör a dombon, így gyorsan érdemes behúzódni a történelmi falak közé.\n\nDélben a Szent Patrik Központhoz tekerünk. Az út rövid, de vizes, a modern kiállítótér pedig tökéletes hely a felszerelés megszárításához.\n\nDélután az Inch apátság romjaihoz vezet az út. Az esőben a romok még drámaibb látványt nyújtanak, még ha a fű csúszós is a kerekek alatt.\n\nA nap a megyei múzeumban zárul. A bicikli leparkolása után a belső termek melege segít elfelejteni a kinti áztató esőt.",
+            "ro": "Ziua începe cu vânt la Catedrala Down. Ploaia mătură dealul, așa că veți căuta rapid adăpost în pridvorul istoric.\n\nLa prânz, pedalați spre Centrul St. Patrick. Drumul este scurt, dar ud, iar expoziția modernă oferă răgazul necesar pentru a vă usca echipamentul.\n\nDupă-amiaza, ruta vă duce la Inch Abbey. Ruinele par dramatice sub ploaie, chiar dacă iarba de sub roți devine destul de instabilă.\n\nZiua se încheie la Muzeul Județean. După ce parcați bicicleta, vă puteți încălzi în galeriile muzeului în timp ce ploaia bate în geamuri.",
+            "en": "The day begins windily at Down Cathedral. Rain sweeps across the hill, making the historic porch a welcome temporary shelter.\n\nAt midday, cycle to the St. Patrick Centre. The ride is short but wet, and the modern exhibit offers a vital drying break for your gear.\n\nIn the afternoon, the route leads to Inch Abbey. The ruins look particularly dramatic in the rain, even if the grass feels soft under your tires.\n\nThe day concludes at the County Museum. After parking the bike, the indoor galleries provide warmth while the rain continues outside."
+          },
+          "stops": [
+            {
+              "name": "Down Cathedral",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter dem Vordach ab; der Boden am Hügel ist bei Nässe rutschig.",
+                "hu": "Parkoljon az előtető alatt; a domboldal talaja esőben rendkívül csúszóssá válik.",
+                "ro": "Parcați sub copertină; terenul de pe deal devine foarte alunecos când este ud.",
+                "en": "Park under the overhang; the hillside ground becomes very slippery when wet."
+              }
+            },
+            {
+              "name": "St. Patrick Centre",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich, um Regenkleidung kurz auszuschütteln.",
+                "hu": "Használja a fedett bejáratot az esővédő felszerelés lerázásához belépés előtt.",
+                "ro": "Folosiți intrarea acoperită pentru a scutura echipamentul de ploaie înainte de acces.",
+                "en": "Use the sheltered entrance area to shake off your rain gear before heading inside."
+              }
+            },
+            {
+              "name": "Quoile Countryside Centre",
+              "tip_5lang": {
+                "de": "Vorsicht auf den Uferwegen; Schlamm kann die Bremsleistung Ihres Rades beeinträchtigen.",
+                "hu": "Vigyázzon a parti utakon; a sár jelentősen csökkentheti a fékek hatékonyságát.",
+                "ro": "Atenție pe potecile de pe mal; noroiul poate afecta performanța frânelor bicicletei.",
+                "en": "Be careful on riverside paths; mud can seriously impact your bike's braking performance."
+              }
+            },
+            {
+              "name": "Inch Abbey",
+              "tip_5lang": {
+                "de": "Fahren Sie nicht auf das Gras; bleiben Sie auf den befestigten Wegen nahe der Ruine.",
+                "hu": "Ne hajtson a fűre; maradjon a kiépített utakon az apátság romjainak közelében.",
+                "ro": "Nu mergeți pe iarbă; rămâneți pe potecile consolidate din apropierea ruinelor.",
+                "en": "Avoid cycling on the grass; stick to the gravel paths near the abbey ruins."
+              }
+            },
+            {
+              "name": "Saul Church",
+              "tip_5lang": {
+                "de": "Der Anstieg ist bei Gegenwind und Regen anstrengend; schalten Sie frühzeitig herunter.",
+                "hu": "Az emelkedő ellenszélben és esőben nehéz; váltson időben kisebb fokozatra.",
+                "ro": "Urcarea este grea pe vânt și ploaie; schimbați vitezele din timp pentru confort.",
+                "en": "The climb is tough in headwinds and rain; shift to lower gears early for the ascent."
+              }
+            },
+            {
+              "name": "Ballynoe Stone Circle",
+              "tip_5lang": {
+                "de": "Der Zugangsweg ist oft überflutet; lassen Sie das Rad am Straßeneingang stehen.",
+                "hu": "A bevezető út gyakran víz alatt van; hagyja a biciklit az útmenti bejáratnál.",
+                "ro": "Aleea de acces este adesea inundată; lăsați bicicleta la intrarea de la drum.",
+                "en": "The access lane is often flooded; leave your bike at the roadside entrance."
+              }
+            },
+            {
+              "name": "Down County Museum",
+              "tip_5lang": {
+                "de": "Ein sicherer, trockener Abschluss; nutzen Sie die Fahrradständer im Innenhof.",
+                "hu": "Biztonságos, száraz zárás; használja a belső udvarban található biciklitárolókat.",
+                "ro": "Un final sigur și uscat; folosiți rastelele de biciclete din curtea interioară.",
+                "en": "A secure and dry finish; utilize the bike racks located in the inner courtyard."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie starkes Bremsen auf nassen Blättern oder schlammigen Feldwegen.",
+              "Tragen Sie eine neongelbe Regenjacke, da die Sicht für Autofahrer oft schlecht ist.",
+              "Prüfen Sie Ihre Bremsbeläge vor der Fahrt; der Sand in Downpatrick verschleißt sie schnell.",
+              "Nehmen Sie Plastiktüten für Ihren Sattel mit, wenn Sie das Rad draußen abstellen."
+            ],
+            "hu": [
+              "Kerülje az erős fékezést nedves leveleken vagy sáros dűlőutakon.",
+              "Viseljen feltűnő esőkabátot, mert a látási viszonyok rosszak lehetnek az autósoknak.",
+              "Ellenőrizze a fékbetéteket; a sár és a homok gyorsabban koptatja őket ezen a vidéken.",
+              "Vigyen magával nejlonzacskót a nyereg letakarásához, ha kint hagyja a gépet."
+            ],
+            "ro": [
+              "Evitați frânările bruște pe frunze ude sau pe drumuri de țară noroioase.",
+              "Purtați o jachetă reflectorizantă; vizibilitatea șoferilor este redusă pe ploaie.",
+              "Verificați saboții de frână; nisipul și noroiul local îi uzează mult mai rapid.",
+              "Luați pungi de plastic pentru a acoperi șaua când lăsați bicicleta afară."
+            ],
+            "en": [
+              "Avoid heavy braking on wet leaves or muddy country lanes to prevent skidding.",
+              "Wear high-visibility rain gear as driver visibility is significantly reduced in rain.",
+              "Check your brake pads before starting; the local grit and mud wear them down fast.",
+              "Carry plastic bags to cover your saddle whenever you park the bike outdoors."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kalter Start an der Down Cathedral. Der Reif glitzert auf den Grabsteinen, während die frische Luft Ihre Lungen füllt.\n\nMittags erreichen Sie das St. Patrick Centre. Die kurze Fahrt wärmt auf, und drinnen wartet eine heiße Schokolade im Café, bevor Sie die Ausstellung besuchen.\n\nNachmittags geht es zur Inch Abbey. Die tiefstehende Wintersonne wirft lange Schatten durch die gotischen Bögen, ein magischer Moment für Fotografen.\n\nDer Tag endet früh am County Museum. Wenn die Dämmerung einsetzt, leuchten die Lichter der Stadt auf und führen Sie sicher zum Ziel Ihrer winterlichen Tour.",
+            "hu": "Hideg kezdés a katedrálisnál. A dér csillog a sírköveken, miközben a friss téli levegő megtölti a tüdőnket.\n\nDélben érünk a Szent Patrik Központhoz. A rövid tekerés felmelegíti az embert, bent pedig egy forró csoki vár a kávézóban a kiállítás előtt.\n\nDélután az Inch apátság felé vesszük az irányt. Az alacsonyan járó téli nap hosszú árnyékokat vet a gótikus íveken keresztül, ami varázslatos látvány.\n\nA nap korán zárul a megyei múzeumban. Ahogy alkonyodik, a város fényei kigyúlnak, és biztonságban vezetik el a téli túra végállomásához.",
+            "ro": "Un început rece la Catedrala Down. Chiciura strălucește pe morminte în timp ce aerul proaspăt de iarnă vă revigorează.\n\nLa prânz ajungeți la Centrul St. Patrick. Scurta plimbare vă încălzește, iar înăuntru vă așteaptă o ciocolată caldă înainte de vizitarea expoziției.\n\nDupă-amiaza porniți spre Inch Abbey. Soarele jos de iarnă aruncă umbre lungi prin arcadele gotice, creând un moment magic pentru fotografii.\n\nZiua se încheie devreme la Muzeul Județean. Pe măsură ce se lasă amurgul, luminile orașului se aprind, ghidându-vă spre finalul turului de iarnă.",
+            "en": "A cold start at Down Cathedral. Frost glitters on the gravestones while the crisp winter air fills your lungs.\n\nAt midday, you reach the St. Patrick Centre. The short ride warms you up, and inside, a hot chocolate awaits in the café before exploring the exhibit.\n\nIn the afternoon, head towards Inch Abbey. The low winter sun casts long shadows through the Gothic arches, a magical moment for any photographer.\n\nThe day concludes early at the County Museum. As twilight sets in, the town lights flicker on, guiding you safely to the end of your winter tour."
+          },
+          "stops": [
+            {
+              "name": "Down Cathedral",
+              "tip_5lang": {
+                "de": "Vorsicht vor überfrorenen Stellen auf dem steilen Anstieg zum Domhügel.",
+                "hu": "Vigyázzon a lefagyott foltokra a katedrálishoz vezető meredek emelkedőn.",
+                "ro": "Atenție la zonele înghețate de pe urcarea abruptă spre dealul catedralei.",
+                "en": "Watch out for black ice on the steep ascent to the Cathedral Hill."
+              }
+            },
+            {
+              "name": "St. Patrick Centre",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad im Sichtbereich der Fenster ab; der Akku Ihres E-Bikes mag keine Kälte.",
+                "hu": "Parkoljon az ablakok közelében; az elektromos biciklik akkumulátora nem bírja a nagy hideget.",
+                "ro": "Parcați în raza vizuală a ferestrelor; bateria bicicletei electrice suferă la ger.",
+                "en": "Park your bike within view of the windows; remember e-bike batteries drain faster in cold."
+              }
+            },
+            {
+              "name": "Quoile Countryside Centre",
+              "tip_5lang": {
+                "de": "Die Wege können bei Frost sehr hart und uneben sein; dicke Reifen sind hier von Vorteil.",
+                "hu": "Az utak fagyban nagyon kemények és egyenetlenek lehetnek; a vastagabb gumik előnyösek.",
+                "ro": "Potecile pot fi foarte dure și denivelate pe ger; anvelopele groase sunt un avantaj aici.",
+                "en": "Paths can be very hard and rutted in frost; wider tires are an advantage here."
+              }
+            },
+            {
+              "name": "Inch Abbey",
+              "tip_5lang": {
+                "de": "Die Ruinen bieten keinen Schutz vor Wind; bewegen Sie sich, um warm zu bleiben.",
+                "hu": "A romok nem védenek a szél ellen; mozogjon folyamatosan, hogy ne fázzon meg.",
+                "ro": "Ruinele nu oferă adăpost contra vântului; mențineți-vă în mișcare pentru a sta cald.",
+                "en": "The ruins offer no wind protection; keep moving to maintain your body heat."
+              }
+            },
+            {
+              "name": "Saul Church",
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick über das verschneite oder gefrorene Lecale-Land.",
+                "hu": "Élvezze a távoli kilátást a havas vagy fagyos Lecale-vidékre a templom mellől.",
+                "ro": "Bucurați-vă de vederea panoramică asupra regiunii Lecale înghețate de lângă biserică.",
+                "en": "Enjoy the sweeping views over the frozen or snow-dusted Lecale countryside."
+              }
+            },
+            {
+              "name": "Ballynoe Stone Circle",
+              "tip_5lang": {
+                "de": "Der Pfad ist oft vereist; gehen Sie das letzte Stück zu Fuß für mehr Sicherheit.",
+                "hu": "Az ösvény gyakran jeges; a biztonság érdekében menjen gyalog az utolsó szakaszon.",
+                "ro": "Cărarea este adesea înghețată; mergeți pe jos ultima porțiune pentru siguranță.",
+                "en": "The path is often icy; walk the final stretch on foot for better stability."
+              }
+            },
+            {
+              "name": "Down County Museum",
+              "tip_5lang": {
+                "de": "Das Museum schließt im Winter oft früher; planen Sie Ihre Ankunft vor 16:00 Uhr.",
+                "hu": "A múzeum télen gyakran korábban zár; próbáljon meg 16:00 előtt megérkezni.",
+                "ro": "Muzeul se închide adesea mai devreme iarna; planificați sosirea înainte de ora 16:00.",
+                "en": "The museum often closes earlier in winter; aim to arrive before 4:00 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie dicke Handschuhe; kalte Hände reagieren langsamer beim Bremsen.",
+              "Die Tage sind kurz; sorgen Sie für voll aufgeladene Lichter an Ihrem Fahrrad.",
+              "Trinken Sie ausreichend; man vergisst im Winter oft, dass man beim Radeln schwitzt.",
+              "Vermeiden Sie schattige Waldwege, dort hält sich das Eis am längsten."
+            ],
+            "hu": [
+              "Viseljen vastag kesztyűt; a fázó kéz lassabban reagál fékezésnél.",
+              "Rövidek a nappalok; győződjön meg róla, hogy a lámpák teljesen fel vannak töltve.",
+              "Igyon eleget; télen hajlamosak vagyunk elfelejteni a folyadékpótlást tekerés közben.",
+              "Kerülje az árnyékos erdei utakat, ott marad meg legtovább a jég."
+            ],
+            "ro": [
+              "Purtați mănuși groase; mâinile înghețate reacționează mai lent la frânare.",
+              "Zilele sunt scurte; asigurați-vă că luminile bicicletei sunt complet încărcate.",
+              "Hidratați-vă corespunzător; iarna tindem să uităm de apă în timpul efortului.",
+              "Evitați drumurile forestiere umbrite, unde gheața rezistă cel mai mult."
+            ],
+            "en": [
+              "Wear insulated gloves; cold hands react much slower when you need to brake.",
+              "Days are short; ensure your bike lights are fully charged and bright.",
+              "Stay hydrated; it is easy to forget to drink enough while cycling in the cold.",
+              "Avoid shaded forest paths as black ice tends to linger there longest."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1102,6 +1484,206 @@
           "Some rural roads are narrow, so be prepared for oncoming traffic.",
           "Don't leave valuables visible in your car."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie den Tag gemütlich an der Inch Abbey. Vom Parkplatz aus sind es nur wenige Schritte zu den Ruinen, die im prasselnden Regen eine mystische Aura verströmen.\n\nMittags bietet das Quoile Centre einen trockenen Aussichtspunkt auf den Fluss. Genießen Sie die Szenerie aus dem Auto oder dem kleinen Besucherzentrum.\n\nNachmittags geht es zu den Struell Wells. Die kurzen Wege zwischen den Heiligtümern sind ideal bei wechselhaftem Wetter, da man schnell wieder im trockenen Wagen ist.\n\nDer Abend gehört der Innenstadt. Nach dem Besuch der Kathedrale und des St. Patrick Centres locken die beleuchteten Schaufenster von Downpatrick zu einem entspannten Abschluss.",
+            "hu": "Kezdje a napot az Inch apátságnál. A parkolótól csak pár lépés a romkert, amely az esőben misztikus hangulatot áraszt.\n\nDélben a Quoile Központ nyújt száraz kilátópontot a folyóra. Csodálja meg a tájat az autóból vagy a kis látogatóközpontból.\n\nDélután a Struell forrásokhoz látogatunk. A szent helyek közötti rövid távolságok ideálisak esős időben, mert gyorsan visszaérhetünk a száraz autóba.\n\nAz este a belvárosé. A katedrális és a Szent Patrik Központ után Downpatrick kivilágított kirakatai hívogatnak egy kellemes lezárásra.",
+            "ro": "Începeți ziua confortabil la Inch Abbey. De la parcare sunt doar câțiva pași până la ruinele care emană o aură mistică sub ploaia deasă.\n\nLa prânz, Centrul Quoile oferă un punct de observație uscat asupra râului. Admirați peisajul din mașină sau din micul centru pentru vizitatori.\n\nDupă-amiaza vizitați Izvoarele Struell. Distanțele scurte între sanctuare sunt ideale pe vreme schimbătoare, permițând retragerea rapidă în mașină.\n\nSeara este dedicată centrului. După vizitarea Catedralei și a Centrului St. Patrick, vitrinele luminate din Downpatrick vă invită la o încheiere relaxată.",
+            "en": "Start your day comfortably at Inch Abbey. It's just a few steps from the car park to the ruins, which exude a mystical aura in the pouring rain.\n\nAt midday, the Quoile Centre offers a dry vantage point over the river. Admire the scenery from your car or the small visitor centre.\n\nIn the afternoon, visit Struell Wells. The short distances between the shrines are ideal for changeable weather, allowing for a quick return to the dry car.\n\nThe evening belongs to the town centre. After visiting the Cathedral and St. Patrick Centre, Downpatrick's illuminated shop windows invite a relaxed finish."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Inch Abbey",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang; der Grasweg zur Abtei kann bei Regen sehr weich sein.",
+                "hu": "Parkoljon közel a bejárathoz; az apátsághoz vezető füves út nagyon felázhat.",
+                "ro": "Parcați aproape de intrare; aleea cu iarbă spre abație poate fi foarte moale.",
+                "en": "Park close to the entrance; the grassy path to the abbey can be very soft when wet."
+              }
+            },
+            {
+              "name": "Quoile Countryside Centre",
+              "tip_5lang": {
+                "de": "Gute Parkmöglichkeiten mit Blick auf das Wasser – ideal für ein Picknick im Auto.",
+                "hu": "Jó parkolási lehetőség rálátással a vízre – ideális egy autós piknikhez esőben.",
+                "ro": "Parcare bună cu vedere la apă – ideal pentru un picnic în mașină pe ploaie.",
+                "en": "Good parking with water views—ideal for an in-car picnic during heavy rain."
+              }
+            },
+            {
+              "name": "Cluster 2: Spiritual Heart",
+              "tip_5lang": {
+                "de": "Die Saul Church hat einen kleinen Parkplatz; bleiben Sie bei Schauern kurz im Wagen.",
+                "hu": "A Saul templomnak kis parkolója van; nagyobb zápor esetén várjon pár percet az autóban.",
+                "ro": "Biserica Saul are o parcare mică; așteptați în mașină dacă plouă torențial.",
+                "en": "Saul Church has a small car park; stay in the car for a few minutes during heavy showers."
+              }
+            },
+            {
+              "name": "Struell Wells",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist direkt bei den Quellen; nutzen Sie ihn als Basis für kurze Erkundungen.",
+                "hu": "A parkoló közvetlenül a forrásoknál van; használja bázisként a rövid sétákhoz.",
+                "ro": "Parcarea este chiar lângă izvoare; folosiți-o ca bază pentru scurte explorări.",
+                "en": "Parking is right by the wells; use it as a base for quick dashes to each shrine."
+              }
+            },
+            {
+              "name": "Cluster 3: Downpatrick Town Centre",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus in der Grove Shopping Centre für trockenen Zugang zur Stadt.",
+                "hu": "Használja a Grove bevásárlóközpont parkolóját a város száraz megközelítéséhez.",
+                "ro": "Folosiți parcarea de la Grove Shopping Centre pentru acces uscat spre oraș.",
+                "en": "Use the Grove Shopping Centre multi-storey for covered access to the town."
+              }
+            },
+            {
+              "name": "Down Cathedral",
+              "tip_5lang": {
+                "de": "Die Parkplätze am Hügel sind begrenzt; fahren Sie vorsichtig auf dem nassen Asphalt.",
+                "hu": "A dombon lévő parkolók száma korlátozott; vezessen óvatosan a vizes aszfalton.",
+                "ro": "Locurile de parcare de pe deal sunt limitate; conduceți cu grijă pe asfaltul ud.",
+                "en": "Hillside parking is limited; drive carefully on the steep, wet asphalt roads."
+              }
+            },
+            {
+              "name": "St. Patrick Centre",
+              "tip_5lang": {
+                "de": "Großer öffentlicher Parkplatz in unmittelbarer Nähe; Schirm für 2 Minuten Weg einplanen.",
+                "hu": "Nagy közszolgálati parkoló a közelben; készüljön ernyővel a 2 perces sétához.",
+                "ro": "Parcare publică mare în apropiere; pregătiți umbrela pentru drumul de 2 minute.",
+                "en": "Large public car park nearby; have an umbrella ready for the 2-minute walk."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie das Parken auf unbefestigten Seitenstreifen; Verschlammungsgefahr.",
+              "Stellen Sie sicher, dass Ihre Scheibenwischer in gutem Zustand sind.",
+              "In der Innenstadt kann es bei Regen zu Staus kommen; planen Sie Zeitpuffer ein.",
+              "Nutzen Sie Park-Apps, um das Bezahlen im Regen am Automaten zu vermeiden."
+            ],
+            "hu": [
+              "Kerülje a parkolást nem aszfaltozott útpadkán; fennáll az elakadás veszélye.",
+              "Győződjön meg róla, hogy az ablaktörlők jó állapotban vannak a túra előtt.",
+              "A belvárosban esőben nagyobb lehet a forgalom; számoljon időbeli ráhagyással.",
+              "Használjon parkolási alkalmazást, hogy ne kelljen az esőben az automatánál várni."
+            ],
+            "ro": [
+              "Evitați parcarea pe acostamente neasfaltate; există risc de împotmolire.",
+              "Asigurați-vă că ștergătoarele de parbriz sunt în stare perfectă de funcționare.",
+              "Traficul în centru poate fi mai lent pe ploaie; planificați timp suplimentar.",
+              "Folosiți aplicații de plată a parcării pentru a evita automatele exterioare pe ploaie."
+            ],
+            "en": [
+              "Avoid parking on unpaved verges; there is a high risk of getting stuck in the mud.",
+              "Ensure your windshield wipers are in top condition before starting the trip.",
+              "Town centre traffic can slow down during heavy rain; allow extra time for travel.",
+              "Use parking apps where possible to avoid standing at ticket machines in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen an der Inch Abbey. Die Heizung im Auto läuft, während Sie den Blick auf die eisigen Ruinen genießen, bevor Sie kurz aussteigen.\n\nMittags bietet das Quoile Centre eine ruhige, kalte Kulisse. Die schneebedeckten Ufer sind vom warmen Wagen aus ein wunderschöner Anblick.\n\nNachmittags führt die Fahrt zu den heiligen Quellen von Struell. Die tiefstehende Sonne glitzert im gefrorenen Wasser der historischen Becken.\n\nDer Tag endet in der festlich beleuchteten Innenstadt. Parken Sie in der Nähe der Kathedrale und genießen Sie die weihnachtliche Stimmung von Downpatrick zum Abschluss Ihrer Tour.",
+            "hu": "Deres reggel az Inch apátságnál. Az autóban megy a fűtés, miközben az ablakból gyönyörködik a jeges romokban, mielőtt tenne egy rövid kört.\n\nDélben a Quoile Központ csendes, hideg tájjal vár. A havas partok a meleg kocsiból nézve csodálatos látványt nyújtanak.\n\nDélután a Struell szent forrásokhoz autózunk. Az alacsonyan járó nap megcsillan a történelmi medencék befagyott vizén.\n\nA nap az ünnepi díszbe öltözött belvárosban ér véget. Parkoljon a katedrális közelében, és élvezze Downpatrick karácsonyi hangulatát a túra zárásaként.",
+            "ro": "O dimineață geros la Inch Abbey. Căldura din mașină este plăcută în timp ce admirați ruinele înghețate înainte de o scurtă plimbare.\n\nLa prânz, Centrul Quoile oferă un decor rece și liniștit. Malurile înzăpezite sunt superbe văzute din confortul mașinii.\n\nDupă-amiaza, drumul duce la izvoarele sfinte Struell. Soarele slab strălucește în apa înghețată a bazinelor istorice.\n\nZiua se încheie în centrul luminat festiv. Parcați lângă Catedrală și bucurați-vă de atmosfera de Crăciun din Downpatrick la finalul turului.",
+            "en": "A frosty morning at Inch Abbey. The car heater is on as you enjoy views of the icy ruins before stepping out for a quick look.\n\nAt midday, the Quoile Centre offers a quiet, cold backdrop. The snow-dusted banks are a beautiful sight from the warmth of your vehicle.\n\nIn the afternoon, drive to the holy wells of Struell. The low sun glints off the frozen water in the ancient stone basins.\n\nThe day ends in the festively lit town centre. Park near the Cathedral and soak up the winter atmosphere of Downpatrick as you finish your tour."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Inch Abbey",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem Parkplatz; die Zufahrt kann morgens glatt sein.",
+                "hu": "Vigyázzon a parkolóban; a bevezető út reggelente jeges lehet.",
+                "ro": "Atenție în parcare; aleea de acces poate fi alunecoasă dimineața.",
+                "en": "Drive carefully in the car park; the access lane can be icy in the mornings."
+              }
+            },
+            {
+              "name": "Quoile Countryside Centre",
+              "tip_5lang": {
+                "de": "Der Parkplatz bietet Windschutz; ideal für eine warme Kaffeepause im Wagen.",
+                "hu": "A parkoló védett a széltől; ideális egy forró kávészünethez az autóban.",
+                "ro": "Parcarea oferă protecție contra vântului; ideală pentru o pauză de cafea.",
+                "en": "The parking area is sheltered from the wind; ideal for a coffee break in the car."
+              }
+            },
+            {
+              "name": "Cluster 2: Spiritual Heart",
+              "tip_5lang": {
+                "de": "Stellen Sie den Motor nicht ab, wenn Sie nur kurz für ein Foto an der Saul Church halten.",
+                "hu": "Ne állítsa le a motort, ha csak egy gyors fotóra áll meg a Saul templomnál.",
+                "ro": "Nu opriți motorul dacă staționați doar scurt pentru o poză la Biserica Saul.",
+                "en": "Keep the heater running if you are only stopping for a quick photo at Saul Church."
+              }
+            },
+            {
+              "name": "Struell Wells",
+              "tip_5lang": {
+                "de": "Die schmale Zufahrtsstraße kann bei Schnee schwer passierbar sein; vorsichtig fahren.",
+                "hu": "A keskeny bekötőút hóban nehezen járható lehet; vezessen fokozott figyelemmel.",
+                "ro": "Drumul îngust de acces poate fi greu de parcurs pe zăpadă; conduceți prudent.",
+                "en": "The narrow access road can be tricky in snow; drive with extra caution."
+              }
+            },
+            {
+              "name": "Cluster 3: Downpatrick Town Centre",
+              "tip_5lang": {
+                "de": "Die Parkplatzsuche ist in der Vorweihnachtszeit schwieriger; kommen Sie frühzeitig.",
+                "hu": "A parkolóhely-keresés nehezebb az ünnepek előtt; érkezzen időben a városba.",
+                "ro": "Găsirea unui loc de parcare este mai grea înainte de sărbători; veniți devreme.",
+                "en": "Finding parking is tougher during the holiday season; arrive early in the afternoon."
+              }
+            },
+            {
+              "name": "Down Cathedral",
+              "tip_5lang": {
+                "de": "Der Parkplatz am Hügel kann bei Frost sehr glatt sein; nutzen Sie Handbremse sorgfältig.",
+                "hu": "A dombi parkoló fagyban nagyon csúszós lehet; húzza be biztonságosan a kéziféket.",
+                "ro": "Parcarea de pe deal poate fi foarte alunecoasă; folosiți frâna de mână cu grijă.",
+                "en": "The hillside parking can be very icy; ensure your handbrake is firmly engaged."
+              }
+            },
+            {
+              "name": "St. Patrick Centre",
+              "tip_5lang": {
+                "de": "Beleuchteter Parkplatz für einen sicheren Rückgang zum Auto nach Einbruch der Dunkelheit.",
+                "hu": "Kivilágított parkoló a biztonságos visszatéréshez a sötétedés után.",
+                "ro": "Parcare iluminată pentru o întoarcere sigură la mașină după lăsarea întunericului.",
+                "en": "Well-lit parking area for a safe return to your car after it gets dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Frostschutz in Ihrer Scheibenwaschanlage.",
+              "Führen Sie einen Eiskratzer und eventuell eine kleine Schaufel mit.",
+              "Die Straßen um Downpatrick können bei plötzlichem Frost sehr tückisch sein.",
+              "Nutzen Sie die Sitzheizung, um nach Außenbesichtigungen schnell aufzutauen."
+            ],
+            "hu": [
+              "Ellenőrizze a fagyállót a szélvédőmosó folyadékban a túra előtt.",
+              "Tartson jégkaparót és esetleg egy kis hólapátot az autóban.",
+              "A Downpatrick környéki utak hirtelen fagy esetén nagyon csalókák lehetnek.",
+              "Használja az ülésfűtést a gyors felmelegedéshez a szabadtéri séták után."
+            ],
+            "ro": [
+              "Verificați nivelul antigelului și lichidul de parbriz pentru iarnă.",
+              "Țineți în mașină o racletă pentru gheață și eventual o lopată mică.",
+              "Drumurile secundare din jurul orașului pot fi înșelătoare pe polei.",
+              "Folosiți încălzirea în scaune pentru a vă dezgheța rapid după vizitele externe."
+            ],
+            "en": [
+              "Check your antifreeze levels and use winter-grade screen wash fluid.",
+              "Keep an ice scraper and a small shovel in your trunk just in case.",
+              "Local roads around Downpatrick can be treacherous during sudden frosts.",
+              "Make use of your seat heaters to thaw out quickly after outdoor sightseeing."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1452,6 +2034,188 @@
           "Signal clearly for the bus to stop for you.",
           "Have cash ready for the fare, as not all buses may accept cards."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag im Stadtzentrum. Die Busstation bietet Schutz, bis der nächste lokale Bus Sie zur Kathedrale bringt, wo der Domhügel im Nebel liegt.\n\nMittags ist das St. Patrick Centre nur ein kurzer Sprint durch den Regen. Drinnen können Sie sich aufwärmen, während Sie auf den Anschlussbus warten.\n\nNachmittags geht es zum County Museum. Die zentrale Lage ermöglicht es, Wartezeiten in den nahegelegenen Cafés trocken zu überbrücken.\n\nDer Tag endet mit der Rückkehr zur Busstation. Die kurzen Wege zwischen den Haltestellen minimieren die Zeit im Regen, bevor Sie die Heimreise antreten.",
+            "hu": "Kezdje a napot a városközpontban. A buszpályaudvar védelmet nyújt, amíg a helyi járat elviszi a katedrálishoz, ahol a dombtető ködbe vész.\n\nDélben a Szent Patrik Központ csak egy rövid sprint az esőben. Bent felmelegedhetünk, amíg a csatlakozásra várunk.\n\nDélután a megyei múzeum látogatása következik. A központi elhelyezkedés lehetővé teszi, hogy a várakozási időt a közeli kávézókban töltsük.\n\nA nap a buszpályaudvarra való visszatéréssel zárul. A megállók közötti rövid távolságok minimalizálják az esőben töltött időt.",
+            "ro": "Începeți ziua în centrul orașului. Autogara oferă adăpost până când autobuzul local vă duce la Catedrală, unde dealul este învăluit în ceață.\n\nLa prânz, Centrul St. Patrick este la doar un sprint distanță prin ploaie. Înăuntru vă puteți încălzi în timp ce așteptați legătura.\n\nDupă-amiaza vizitați Muzeul Județean. Locația centrală permite petrecerea timpului de așteptare în cafenelele din apropiere.\n\nZiua se încheie cu întoarcerea la autogară. Distanțele scurte între stații minimizează timpul petrecut în ploaie înainte de plecare.",
+            "en": "Start the day in the town centre. The bus station provides shelter until the local bus takes you to the Cathedral, where the hill is shrouded in mist.\n\nAt midday, the St. Patrick Centre is just a short sprint through the rain. Inside, you can warm up while waiting for your next connection.\n\nIn the afternoon, visit the County Museum. Its central location makes it easy to spend waiting times in nearby cafés staying dry.\n\nThe day concludes with a return to the bus station. Short distances between stops minimize your time in the rain before heading home."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Town Centre",
+              "tip_5lang": {
+                "de": "Die Bushaltestellen haben meist kleine Dächer; Schirm trotzdem griffbereit halten.",
+                "hu": "A buszmegállóknak általában van tetejük, de az ernyő maradjon kéznél.",
+                "ro": "Stațiile de autobuz au de obicei copertine mici; țineți umbrela la îndemână.",
+                "en": "Bus stops usually have small shelters, but keep your umbrella ready for boarding."
+              }
+            },
+            {
+              "name": "St. Patrick Centre",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Abfahrtszeiten im Centre; das Personal ist sehr hilfsbereit.",
+                "hu": "Ellenőrizze az indulási időket a központban; a személyzet nagyon segítőkész.",
+                "ro": "Verificați orele de plecare în interior; personalul este foarte amabil.",
+                "en": "Check live bus departures inside the centre; staff are usually very helpful."
+              }
+            },
+            {
+              "name": "Down County Museum",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um auf den Bus zu warten, da die Haltestelle fast direkt vor der Tür liegt.",
+                "hu": "Ideális hely a buszra váráshoz, mivel a megálló szinte közvetlenül a kapu előtt van.",
+                "ro": "Loc ideal pentru a aștepta autobuzul, stația fiind aproape de poarta muzeului.",
+                "en": "An ideal place to wait for the bus as the stop is located almost right outside the gates."
+              }
+            },
+            {
+              "name": "Cluster 2: Sacred Sites",
+              "tip_5lang": {
+                "de": "Wenig Schutz an den ländlichen Haltestellen; Regenjacke ist hier Pflicht.",
+                "hu": "Kevés óvóhely a vidéki megállókban; az esőkabát itt kötelező viselet.",
+                "ro": "Adăpost limitat în stațiile rurale; pelerina de ploaie este obligatorie aici.",
+                "en": "Limited shelter at rural bus stops; a sturdy raincoat is mandatory for this leg."
+              }
+            },
+            {
+              "name": "Struell Wells",
+              "tip_5lang": {
+                "de": "Planen Sie genug Zeit für den Rückweg zur Haltestelle ein, da Wege rutschig sein können.",
+                "hu": "Számoljon elég időt a megállóhoz való visszatérésre a csúszós utak miatt.",
+                "ro": "Alocați suficient timp pentru întoarcerea la stație, drumurile pot fi alunecoase.",
+                "en": "Allow plenty of time to walk back to the stop as paths can be slippery in the rain."
+              }
+            },
+            {
+              "name": "Return to Bus Station",
+              "tip_5lang": {
+                "de": "Die Hauptstation hat ein beheiztes Wartezimmer für die Zeit vor der Abfahrt.",
+                "hu": "A főpályaudvarnak van fűtött váróterme az indulás előtti időre.",
+                "ro": "Autogara centrală are o sală de așteptare încălzită pentru timpul dinaintea plecării.",
+                "en": "The main bus station has a heated waiting room for your final departure."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Laden Sie die Translink-App für Echtzeit-Infos herunter.",
+              "Halten Sie Kleingeld oder eine kontaktlose Karte griffbereit.",
+              "Busse können bei starkem Regen Verspätung haben.",
+              "Tragen Sie wasserfeste Schuhe für die Wege zwischen Halt und Ziel."
+            ],
+            "hu": [
+              "Töltse le a Translink alkalmazást a valós idejű menetrendekhez.",
+              "Legyen kéznél aprópénz vagy érintős kártya a jegyvásárláshoz.",
+              "Nagy esőzés idején a buszok késhetnek a forgalom miatt.",
+              "Viseljen vízálló cipőt a megálló és a látnivaló közötti szakaszokra."
+            ],
+            "ro": [
+              "Descărcați aplicația Translink pentru informații în timp real.",
+              "Aveți pregătit mărunt sau un card contactless pentru bilet.",
+              "Autobuzele pot avea întârzieri în timpul ploilor torențiale.",
+              "Purtați încălțăminte impermeabilă pentru segmentele de mers pe jos."
+            ],
+            "en": [
+              "Download the Translink mLink app for real-time bus tracking and tickets.",
+              "Keep small change or a contactless card ready for easy fare payment.",
+              "Buses may experience slight delays during heavy rainfall due to traffic.",
+              "Wear waterproof footwear for the walking segments between stops and sites."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Start an der Busstation. Der beheizte Wartebereich ist Gold wert, bevor Sie der Bus zum Domhügel bringt.\n\nMittags bietet das St. Patrick Centre eine warme Zuflucht. Die kurzen Wege vom Bus zum Eingang sind bei Frost gut zu bewältigen.\n\nNachmittags erkunden Sie das County Museum. Die zentrale Lage sorgt dafür, dass Sie nie weit von einer warmen Bushaltestelle entfernt sind.\n\nDer Tag endet in der dämmerigen Innenstadt. Die hell erleuchtete Busstation ist ein sicherer Ankerpunkt für Ihre Rückreise in der kalten Winternacht.",
+            "hu": "Hűvös kezdés a buszpályaudvaron. A fűtött váróterem aranyat ér, mielőtt a járat kivisz a katedrálishoz.\n\nDélben a Szent Patrik Központ nyújt meleg menedéket. A busztól a bejáratig tartó rövid szakasz fagyban is jól bírható.\n\nDélután a megyei múzeumot fedezzük fel. A központi elhelyezkedés miatt sosem vagyunk messze egy jól kivilágított megállótól.\n\nA nap az alkonyi belvárosban zárul. A fényárban úszó buszpályaudvar biztonságos pont a hideg téli estén való hazautazáshoz.",
+            "ro": "Un început răcoros la autogară. Sala de așteptare încălzită este prețioasă înainte ca autobuzul să vă ducă spre dealul catedralei.\n\nLa prânz, Centrul St. Patrick oferă un refugiu cald. Distanța scurtă de la stație la intrare este ușor de parcurs chiar și pe ger.\n\nDupă-amiaza explorați Muzeul Județean. Locația centrală vă asigură că sunteți mereu aproape de o stație de autobuz bine iluminată.\n\nZiua se încheie în centrul orașului la amurg. Autogara luminată este punctul sigur de plecare spre casă în noaptea rece de iarnă.",
+            "en": "A cool start at the bus station. The heated waiting area is a lifesaver before your bus arrives for the Cathedral Hill.\n\nAt midday, the St. Patrick Centre provides a warm refuge. The short paths from the bus to the entrance are manageable even in frost.\n\nIn the afternoon, explore the County Museum. Its central location ensures you're never far from a well-lit bus stop.\n\nThe day ends in the twilight of the town centre. The brightly lit bus station is a secure anchor for your journey home on a cold winter night."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Town Centre",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Wartezeit, um sich in den Geschäften kurz aufzuwärmen.",
+                "hu": "Használja ki a várakozási időt, hogy kicsit felmelegedjen a közeli üzletekben.",
+                "ro": "Folosiți timpul de așteptare pentru a vă încălzi puțin în magazinele din jur.",
+                "en": "Use the waiting time to briefly warm up in the nearby shops."
+              }
+            },
+            {
+              "name": "St. Patrick Centre",
+              "tip_5lang": {
+                "de": "Warten Sie im Foyer auf den Bus; es ist dort viel wärmer als an der Straße.",
+                "hu": "Várjon a buszra az előcsarnokban; ott sokkal melegebb van, mint az utcán.",
+                "ro": "Așteptați autobuzul în foier; este mult mai cald decât afară la stradă.",
+                "en": "Wait for your bus in the foyer; it's much warmer than standing on the street."
+              }
+            },
+            {
+              "name": "Down County Museum",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Winterfahrplan; manche Linien fahren seltener.",
+                "hu": "Ellenőrizze a téli menetrendet; egyes járatok ritkábban közlekedhetnek.",
+                "ro": "Verificați orarul de iarnă; unele linii pot circula mai rar.",
+                "en": "Check the winter timetable as some rural routes may have reduced frequency."
+              }
+            },
+            {
+              "name": "Cluster 2: Sacred Sites",
+              "tip_5lang": {
+                "de": "Bewegen Sie sich an der Haltestelle, um die Blutzirkulation in Gang zu halten.",
+                "hu": "Mozogjon kicsit a megállóban várva, hogy fenntartsa a vérkeringését a hidegben.",
+                "ro": "Mențineți-vă în mișcare în stație pentru a vă păstra circulația sângelui.",
+                "en": "Keep moving while waiting at the stop to maintain your body circulation."
+              }
+            },
+            {
+              "name": "Struell Wells",
+              "tip_5lang": {
+                "de": "Die letzte Rückfahrt ist oft schon vor 17:00 Uhr; verpassen Sie sie nicht.",
+                "hu": "Az utolsó visszatérő járat gyakran már 17:00 előtt elindul; ne késse le.",
+                "ro": "Ultima cursă de întoarcere este adesea înainte de ora 17:00; nu o ratați.",
+                "en": "The last return bus is often before 5:00 PM; make sure not to miss it."
+              }
+            },
+            {
+              "name": "Return to Bus Station",
+              "tip_5lang": {
+                "de": "Holen Sie sich einen heißen Tee am Kiosk für die Wartezeit auf den Fernbus.",
+                "hu": "Vegyen egy forró teát a büfében a távolsági buszra való várakozás közben.",
+                "ro": "Luați un ceai cald de la chioșc pentru timpul de așteptare a autocarului.",
+                "en": "Get a hot tea at the kiosk to enjoy while waiting for your long-distance bus."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie warme Socken, da das Stehen an Haltestellen zu kalten Füßen führt.",
+              "Die Translink-App zeigt auch Ausfälle durch Wetterbedingungen an.",
+              "Planen Sie Verbindungen so, dass Sie nicht länger als 10 Minuten draußen warten.",
+              "Abends sind die Busse oft stärker beheizt – ein willkommener Bonus."
+            ],
+            "hu": [
+              "Viseljen vastag zoknit, mert a megállókban állva hamar kihűl a lába.",
+              "A Translink alkalmazás jelzi az időjárás miatti járatkimaradásokat is.",
+              "Úgy tervezze a csatlakozást, hogy ne kelljen 10 percnél többet kint várnia.",
+              "Este a buszokat gyakran erősebben fűtik – ez kellemes ráadás a nap végén."
+            ],
+            "ro": [
+              "Purtați șosete groase; statul în stații duce rapid la picioare înghețate.",
+              "Aplicația Translink raportează și anulările cauzate de condițiile meteo.",
+              "Planificați legăturile astfel încât să nu așteptați afară mai mult de 10 minute.",
+              "Seara, autobuzele sunt adesea bine încălzite – un bonus binevenit."
+            ],
+            "en": [
+              "Wear thick thermal socks as standing at bus stops leads to cold feet quickly.",
+              "The Translink app also reports any service cancellations due to icy conditions.",
+              "Try to time your arrivals so you don't spend more than 10 minutes outside.",
+              "Buses are often well-heated in the evenings—a welcome bonus for winter travelers."
+            ]
+          }
+        }
       }
     }
   }

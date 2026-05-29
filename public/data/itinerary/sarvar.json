@@ -350,6 +350,206 @@
           "Check the castle's opening hours in advance.",
           "Most sights are within walking distance, but the pace is relaxed."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt regnerisch am Kossuth-Platz, wo die St.-Ladislaus-Kirche einen ersten trockenen Zufluchtsort bietet. Danach verbringen wir die Mittagszeit im Schloss Nádasdy, dessen Ausstellungen ideal für schlechtes Wetter sind. Am Nachmittag führt der Weg durch das nasse Arboretum direkt ins Thermalbad, wo der Regen draußen schnell vergessen ist. Der Abend klingt gemütlich in einem Restaurant im Stadtzentrum aus.",
+            "hu": "Esős reggel a Kossuth téren, ahol a Szent László templom nyújt menedéket a városnézés kezdetén. A délelőttöt a Nádasdy-vár falai között töltjük, ami tökéletes program rossz időben. Ebéd után egy rövid esernyős séta következik az Arborétumon át, majd a nap fénypontja a Gyógyfürdő meleg vize lesz. Az estét egy hangulatos belvárosi étteremben zárjuk, távol a kinti szürkeségtől.",
+            "ro": "O dimineață ploioasă în Piața Kossuth, unde Biserica Sf. Ladislau oferă un prim adăpost. Continuăm spre Castelul Nádasdy, explorând muzeul în timp ce plouă afară. După-amiaza, după o scurtă plimbare prin Arboretum sub umbrelă, ne retragem la centrul SPA, refugiul perfect pentru o zi umedă. Seara se încheie cu o cină caldă și primitoare în centrul orașului.",
+            "en": "A rainy morning starts at Kossuth Square, with the church providing a dry refuge. Spend the midday exploring the indoor exhibits of Nádasdy Castle, ideal for escaping the weather. In the afternoon, take a brief umbrella walk through the Arboretum directly to the Spa, the ultimate rainy-day sanctuary. The evening concludes with a cozy dinner in the city center, safely away from the rain."
+          },
+          "stops": [
+            {
+              "name": "Kossuth Square",
+              "tip_5lang": {
+                "de": "Unter den Arkaden der umliegenden Gebäude Schutz suchen.",
+                "hu": "Használja a környékbeli épületek árkádjait menedékként.",
+                "ro": "Căutați adăpost sub arcadele clădirilor din jur.",
+                "en": "Seek shelter under the arcades of the surrounding buildings."
+              }
+            },
+            {
+              "name": "St. Ladislaus Church",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um den stärksten Regen abzuwarten.",
+                "hu": "Csendes és száraz hely, ideális a nagyobb záporok megvárására.",
+                "ro": "Un loc liniștit pentru a aștepta trecerea ploii torențiale.",
+                "en": "A quiet and dry place, ideal for waiting out heavy showers."
+              }
+            },
+            {
+              "name": "Nádasdy Castle",
+              "tip_5lang": {
+                "de": "Planen Sie mehr Zeit für die Deckenfresken im Prunksaal ein.",
+                "hu": "Szánjon több időt a díszterem lenyűgöző freskóira.",
+                "ro": "Alocați mai mult timp frescelor din sala de recepție.",
+                "en": "Allocate more time to admire the frescoes in the main hall."
+              }
+            },
+            {
+              "name": "Arboretum Sárvár",
+              "tip_5lang": {
+                "de": "Die asphaltierten Wege nutzen, um Matsch zu vermeiden.",
+                "hu": "Maradjon az aszfaltozott utakon a sár elkerülése érdekében.",
+                "ro": "Rămâneți pe potecile asfaltate pentru a evita noroiul.",
+                "en": "Stay on the paved paths to avoid the mud."
+              }
+            },
+            {
+              "name": "Boating Lake",
+              "tip_5lang": {
+                "de": "Der Blick auf den See ist auch bei Regen melancholisch schön.",
+                "hu": "A tó látványa esőben is különleges, melankolikus hangulatú.",
+                "ro": "Priveliștea lacului are un farmec melancolic chiar și pe ploaie.",
+                "en": "The lake view has a unique, melancholic charm even in the rain."
+              }
+            },
+            {
+              "name": "Sárvár Spa and Wellness Centre",
+              "tip_5lang": {
+                "de": "Das Thermalbecken im Freien ist bei Regen ein tolles Erlebnis.",
+                "hu": "A kültéri termálmedence esőben is felejthetetlen élmény.",
+                "ro": "Piscina termală exterioară este o experiență grozavă pe ploaie.",
+                "en": "The outdoor thermal pool is a great experience even in the rain."
+              }
+            },
+            {
+              "name": "Dinner in the city center",
+              "tip_5lang": {
+                "de": "Reservieren Sie einen Tisch in der Nähe der Heizung.",
+                "hu": "Foglaljon asztalt a bejárattól távolabb, a meleg belső térben.",
+                "ro": "Rezervați o masă departe de intrare, în zona încălzită.",
+                "en": "Book a table away from the entrance in the warm interior."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Regenschirm ist bei den Windböen am See wichtig.",
+              "Das Schlossmuseum bietet stundenlangen trockenen Aufenthalt.",
+              "Die Wege im Arboretum können bei Nässe rutschig sein.",
+              "Das Thermalbad ist der beste Ort, um nasse Kleidung im Spind zu lassen."
+            ],
+            "hu": [
+              "Egy erős esernyő elengedhetetlen a tóparti szélben.",
+              "A vármúzeum órákig tartó tartalmas elfoglaltságot ad fedett helyen.",
+              "Az Arborétum útjai nedvesen csúszósak lehetnek.",
+              "A fürdőben a vizes ruhákat a szekrényben hagyva teljesen ellazulhat."
+            ],
+            "ro": [
+              "O umbrelă rezistentă este esențială din cauza vântului de lângă lac.",
+              "Muzeul castelului oferă ore întregi de activități la interior.",
+              "Potecile din Arboretum pot fi alunecoase când sunt ude.",
+              "Băile termale sunt locul ideal pentru a uita de hainele ude."
+            ],
+            "en": [
+              "A sturdy umbrella is essential due to the winds near the lake.",
+              "The castle museum provides hours of indoor entertainment.",
+              "Paths in the Arboretum can be slippery when wet.",
+              "The spa is the best place to relax and leave wet clothes behind."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen beginnt am Kossuth-Platz, gefolgt von einem wärmenden Besuch in der Kirche. Mittags tauchen wir in die Geschichte von Schloss Nádasdy ein, bevor wir einen kurzen, erfrischenden Spaziergang durch das winterliche Arboretum unternehmen. Am späten Nachmittag genießen wir den Dampf über den Thermalbecken im Freien – ein magisches Wintererlebnis. Der Tag endet mit einer herzhaften ungarischen Mahlzeit im warmen Stadtzentrum.",
+            "hu": "Fagyos reggel a Kossuth téren, amit egy lélekmelengető templomlátogatás követ. Napközben a Nádasdy-vár fűtött kiállításai repítenek vissza a múltba, majd egy rövid, frissítő séta vár ránk a téli Arborétumban. Késő délután a fürdő gőzölgő kültéri medencéiben élvezzük a hideg és a meleg kontrasztját. A napot egy tányér forró gulyással zárjuk a belvárosban, ahogy leszáll a korai téli sötétség.",
+            "ro": "O dimineață geroasă în Piața Kossuth, urmată de o vizită la biserică pentru încălzire. La prânz explorăm istoria la Castelul Nádasdy, apoi facem o plimbare scurtă prin Arboretumul hibernal. După-amiaza târziu ne bucurăm de aburii piscinelor termale exterioare, o experiență magică de iarnă. Ziua se încheie cu o masă caldă consistentă în centrul orașului, sub luminile serii.",
+            "en": "A frosty morning starts at Kossuth Square, followed by a warming church visit. Spend midday immersed in history at Nádasdy Castle, then enjoy a crisp walk through the winter Arboretum. In the late afternoon, the steam rising from the outdoor thermal pools creates a magical atmosphere. The day ends with a hearty Hungarian meal in the warm city center as the early winter dusk falls."
+          },
+          "stops": [
+            {
+              "name": "Kossuth Square",
+              "tip_5lang": {
+                "de": "Vorsicht vor glatten Stellen auf dem Kopfsteinpflaster.",
+                "hu": "Vigyázzon a csúszós foltokra a macskaköveken.",
+                "ro": "Atenție la porțiunile alunecoase de pe pavaj.",
+                "en": "Watch out for slippery spots on the cobblestones."
+              }
+            },
+            {
+              "name": "St. Ladislaus Church",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Stille für eine kurze Aufwärmpause.",
+                "hu": "Használja ki a templom csendjét egy rövid felmelegedésre.",
+                "ro": "Folosiți liniștea bisericii pentru o scurtă pauză de încălzire.",
+                "en": "Use the quiet of the church for a short warming break."
+              }
+            },
+            {
+              "name": "Nádasdy Castle",
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten die Kälte draußen.",
+                "hu": "A vastag falak jól tartják a meleget a kiállítóterekben.",
+                "ro": "Zidurile groase țin frigul la distanță în interior.",
+                "en": "The thick walls keep the cold at bay inside the exhibits."
+              }
+            },
+            {
+              "name": "Arboretum Sárvár",
+              "tip_5lang": {
+                "de": "Die winterliche Ruhe der immergrünen Bäume genießen.",
+                "hu": "Élvezze az örökzöldek nyugalmát a téli tájban.",
+                "ro": "Bucurați-vă de liniștea coniferelor în peisajul de iarnă.",
+                "en": "Enjoy the tranquility of the evergreens in the winter landscape."
+              }
+            },
+            {
+              "name": "Boating Lake",
+              "tip_5lang": {
+                "de": "Betreten der Eisfläche ist meist streng untersagt.",
+                "hu": "A jégre lépni szigorúan tilos és veszélyes!",
+                "ro": "Accesul pe gheață este strict interzis și periculos.",
+                "en": "Walking on the ice is strictly forbidden and dangerous."
+              }
+            },
+            {
+              "name": "Sárvár Spa and Wellness Centre",
+              "tip_5lang": {
+                "de": "Der Kontrast zwischen Frost und Thermalwasser ist fantastisch.",
+                "hu": "A kinti fagy és a meleg víz kontrasztja lenyűgöző.",
+                "ro": "Contrastul dintre gerul de afară și apa caldă este uimitor.",
+                "en": "The contrast between the frost and the warm water is amazing."
+              }
+            },
+            {
+              "name": "Dinner in the city center",
+              "tip_5lang": {
+                "de": "Probieren Sie eine heiße Suppe zur Stärkung.",
+                "hu": "Próbáljon ki egy forró levest a nap végén.",
+                "ro": "Încercați o supă caldă pentru a vă revigora.",
+                "en": "Try a hot soup to revitalize yourself at the end of the day."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Mütze und Handschuhe sind wegen des Winds am See Pflicht.",
+              "Die Sonne geht im Dezember bereits gegen 16:00 Uhr unter.",
+              "Der Weg vom Schloss zum Bad ist kurz, aber windig.",
+              "Die Therme bietet den besten Kälteschutz am Nachmittag."
+            ],
+            "hu": [
+              "Sapka és kesztyű kötelező a tóparti szél miatt.",
+              "A nap télen már 16:00 körül lenyugszik, tervezzen eszerint.",
+              "A vár és a fürdő közötti szakasz rövid, de huzatos lehet.",
+              "A termálfürdő a legjobb menedék a délutáni lehűlés ellen."
+            ],
+            "ro": [
+              "Căciula și mănușile sunt obligatorii din cauza vântului de la lac.",
+              "Soarele apune în jur de ora 16:00 în timpul iernii.",
+              "Traseul dintre castel și băi este scurt, dar poate fi vântos.",
+              "Centrul SPA oferă cea mai bună protecție împotriva frigului."
+            ],
+            "en": [
+              "Hat and gloves are mandatory due to the lakeside wind.",
+              "The sun sets around 4:00 PM in winter, so plan accordingly.",
+              "The walk between the castle and the spa is short but can be windy.",
+              "The thermal spa is the best refuge against the afternoon cold."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -678,6 +878,206 @@
           "Always lock your bike securely when you park it.",
           "Sárvár is relatively flat, making it ideal for cycling."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen starten wir die Radtour am See mit guter Regenkleidung. Die Fahrt zum Wildpark führt durch schlammige Wege, was ein echtes Abenteuer ist. Mittags flüchten wir in das Thermalbad, um uns aufzuwärmen. Nachmittags besuchen wir das Schloss und den Kossuth-Platz, bevor wir die Räder zurückgeben und ein wohlverdientes Abendessen genießen.",
+            "hu": "Az eső ellenére a tóparton kezdünk, vízálló felszerelésben. A Vadaspark felé vezető út kicsit sáros lehet, ami igazi kalandot ígér. Délben a fürdőbe menekülünk felmelegedni és kiszáradni. Délután a várat és a Kossuth teret fedezzük fel két keréken, majd a biciklik leadása után egy kiadós vacsorával jutalmazzuk magunkat.",
+            "ro": "În ciuda ploii, începem turul cu bicicleta lângă lac, echipați corespunzător. Drumul spre parcul de animale poate fi noroios, o adevărată aventură. La prânz ne refugiem la băile termale pentru a ne încălzi. După-amiaza vizităm castelul și Piața Kossuth, iar după returnarea bicicletelor ne bucurăm de o cină binemeritată.",
+            "en": "Despite the rain, we start the bike tour at the lake with proper waterproof gear. The ride to the Wildpark involves some muddy paths, promising a real adventure. At midday, we retreat to the spa to warm up and dry off. In the afternoon, we explore the castle and Kossuth Square by bike, then reward ourselves with a hearty dinner after returning the cycles."
+          },
+          "stops": [
+            {
+              "name": "Bike Rental & Start at the Boating Lake",
+              "tip_5lang": {
+                "de": "Fragen Sie nach einer wasserdichten Sattelabdeckung.",
+                "hu": "Kérjen vízálló nyeregvédőt a kölcsönzőben.",
+                "ro": "Cereți o protecție impermeabilă pentru șa.",
+                "en": "Ask for a waterproof saddle cover at the rental shop."
+              }
+            },
+            {
+              "name": "Wildpark",
+              "tip_5lang": {
+                "de": "Vorsicht auf den unbefestigten Waldwegen.",
+                "hu": "Legyen óvatos a kiépítetlen erdei utakon.",
+                "ro": "Atenție sporită pe potecile de pădure neamenajate.",
+                "en": "Exercise caution on the unpaved forest paths."
+              }
+            },
+            {
+              "name": "Sárvár Spa and Wellness Centre",
+              "tip_5lang": {
+                "de": "Fahrradständer befinden sich direkt am Haupteingang.",
+                "hu": "A kerékpártárolók közvetlenül a főbejáratnál vannak.",
+                "ro": "Suporturile de biciclete sunt chiar lângă intrarea principală.",
+                "en": "Bike racks are located right next to the main entrance."
+              }
+            },
+            {
+              "name": "Arboretum Sárvár",
+              "tip_5lang": {
+                "de": "Kurzer Stopp, um die Räder im Trockenen abzustellen.",
+                "hu": "Rövid megálló, próbáljon fedett helyen parkolni.",
+                "ro": "Oprire scurtă, încercați să parcați sub un adăpost.",
+                "en": "Short stop, try to park under cover if possible."
+              }
+            },
+            {
+              "name": "Nádasdy Castle",
+              "tip_5lang": {
+                "de": "Das Kopfsteinpflaster im Innenhof ist bei Nässe rutschig.",
+                "hu": "A várudvar macskakövei nedvesen nagyon csúsznak.",
+                "ro": "Pavajul din curtea castelului este alunecos când e ud.",
+                "en": "The cobblestones in the courtyard are very slippery when wet."
+              }
+            },
+            {
+              "name": "Kossuth Square & St. Ladislaus Church",
+              "tip_5lang": {
+                "de": "Kurze Pause unter den Arkaden einplanen.",
+                "hu": "Tervezzen egy rövid pihenőt az árkádok alatt.",
+                "ro": "Planificați o scurtă pauză sub arcade.",
+                "en": "Plan a short break under the arcades."
+              }
+            },
+            {
+              "name": "Bike Return & Dinner",
+              "tip_5lang": {
+                "de": "Geben Sie das nasse Rad vorsichtig zurück.",
+                "hu": "Vigyázva adjuk le a vizes bicikliket.",
+                "ro": "Returnați cu grijă bicicleta umedă.",
+                "en": "Return the wet bike carefully."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie die Bremsen vor der Abfahrt, sie brauchen bei Nässe länger.",
+              "Tragen Sie eine auffällige Regenjacke für bessere Sichtbarkeit.",
+              "Meiden Sie tiefe Pfützen im Wildpark-Bereich.",
+              "Ein Handtuch im Rucksack hilft nach der Fahrt."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze a fékeket, nedvesen hosszabb a fékút.",
+              "Viseljen élénk színű esőkabátot a láthatóságért.",
+              "Kerülje a mély tócsákat a Vadaspark környékén.",
+              "Egy törölköző a hátizsákban sokat segíthet a tekerés után."
+            ],
+            "ro": [
+              "Verificați frânele înainte de plecare, distanța de frânare crește pe ud.",
+              "Purtați o pelerină reflectorizantă pentru vizibilitate.",
+              "Evitați bălțile adânci din zona parcului de animale.",
+              "Un prosop în rucsac este util după cursă."
+            ],
+            "en": [
+              "Check brakes before starting; stopping distance is longer when wet.",
+              "Wear a bright raincoat for better visibility.",
+              "Avoid deep puddles near the Wildpark area.",
+              "A towel in your backpack will be very useful after the ride."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An einem klaren Wintermorgen radeln wir dick eingepackt los. Der Wildpark zeigt sich in winterlicher Stille. Mittags lockt das Thermalwasser, um die durchgefrorenen Glieder aufzuwärmen. Nachmittags erkunden wir das Schloss und den Kossuth-Platz, wobei wir die kurzen Sonnenstunden nutzen. Den Tag beenden wir mit einem heißen Getränk im Zentrum, bevor wir die Fahrräder zurückgeben.",
+            "hu": "Tiszta téli reggelen indulunk útnak, alaposan felöltözve. A Vadaspark ilyenkor csendes és nyugodt. Délben a fürdő meleg vize segít átmelegíteni átfagyott végtagjainkat. Délután a várat és a belvárost keressük fel, kihasználva a kevés napsütést. A napot egy forró itallal zárjuk a központban, még mielőtt leadnánk a kerékpárokat.",
+            "ro": "Plecăm la drum într-o dimineață geroasă, bine îmbrăcați. Parcul de animale este liniștit iarna. La prânz, apa termală ne ajută să ne încălzim extremitățile înghețate. După-amiaza explorăm castelul și centrul, profitând de puținele ore cu soare. Încheiem ziua cu o băutură fierbinte înainte de a returna bicicletele.",
+            "en": "We set off on a crisp winter morning, layered in warm clothing. The Wildpark is peaceful and quiet this time of year. At midday, the warm spa water helps thaw out frozen limbs. In the afternoon, we visit the castle and the center, making the most of the limited sunlight. We end the day with a hot drink in the center before returning the bikes."
+          },
+          "stops": [
+            {
+              "name": "Bike Rental & Start at the Boating Lake",
+              "tip_5lang": {
+                "de": "Handschuhe sind beim Radfahren im Winter unverzichtbar.",
+                "hu": "A kesztyű elengedhetetlen a téli kerékpározáshoz.",
+                "ro": "Mănușile sunt indispensabile pentru ciclismul de iarnă.",
+                "en": "Gloves are indispensable for winter cycling."
+              }
+            },
+            {
+              "name": "Wildpark",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stellen im Schatten.",
+                "hu": "Figyeljen az árnyékos részeken lévő jeges foltokra.",
+                "ro": "Atenție la porțiunile înghețate din zonele umbrite.",
+                "en": "Watch out for icy patches in shaded areas."
+              }
+            },
+            {
+              "name": "Sárvár Spa and Wellness Centre",
+              "tip_5lang": {
+                "de": "Schließen Sie das Rad sicher ab, bevor Sie ins Warme gehen.",
+                "hu": "Zárja le biztonságosan a biciklit, mielőtt bemenne a melegre.",
+                "ro": "Asigurați bine bicicleta înainte de a intra la căldură.",
+                "en": "Lock your bike securely before heading into the warmth."
+              }
+            },
+            {
+              "name": "Arboretum Sárvár",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp bei den winterfesten Exoten.",
+                "hu": "Rövid fotómegálló a télálló egzotikus növényeknél.",
+                "ro": "Scurt popas pentru fotografii la plantele exotice rezistente.",
+                "en": "Short photo stop at the hardy exotic plants."
+              }
+            },
+            {
+              "name": "Nádasdy Castle",
+              "tip_5lang": {
+                "de": "Das Schieben des Rades im Hof verhindert Ausrutscher.",
+                "hu": "A várudvaron érdemes tolni a biciklit a csúszásveszély miatt.",
+                "ro": "Este recomandat să mergeți pe lângă bicicletă în curtea castelului.",
+                "en": "Walking your bike in the courtyard prevents slipping."
+              }
+            },
+            {
+              "name": "Kossuth Square & St. Ladislaus Church",
+              "tip_5lang": {
+                "de": "Suchen Sie ein Café für ein heißes Getränk auf.",
+                "hu": "Keressen egy kávézót egy forró italhoz.",
+                "ro": "Căutați o cafenea pentru o băutură fierbinte.",
+                "en": "Look for a cafe for a hot drink."
+              }
+            },
+            {
+              "name": "Bike Return & Dinner",
+              "tip_5lang": {
+                "de": "Geben Sie die Räder vor Einbruch der Dunkelheit ab.",
+                "hu": "Adja le a kerékpárokat még sötétedés előtt.",
+                "ro": "Returnați bicicletele înainte de lăsarea întunericului.",
+                "en": "Return the bikes before it gets dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Socken und Schuhe sind wichtig gegen kalte Füße.",
+              "Die Fahrradkette braucht im Winter mehr Pflege wegen Streusalz.",
+              "Planen Sie die Rückgabe bis spätestens 16:30 Uhr ein.",
+              "Ein Thermosbecher mit Tee im Korb ist sehr hilfreich."
+            ],
+            "hu": [
+              "A meleg zokni és cipő elengedhetetlen a lábak védelmében.",
+              "A lánc több törődést igényel a téli sós utak miatt.",
+              "Tervezze a leadást legkésőbb 16:30-ra.",
+              "Egy termosz forró tea a kosárban sokat segít."
+            ],
+            "ro": [
+              "Șosetele și încălțămintea groasă sunt vitale împotriva frigului.",
+              "Lanțul necesită mai multă întreținere din cauza sării de pe drum.",
+              "Planificați returnarea cel târziu la ora 16:30.",
+              "Un termos cu ceai în coșul bicicletei este foarte util."
+            ],
+            "en": [
+              "Warm socks and boots are vital against cold feet.",
+              "The chain needs more care due to road salt in winter.",
+              "Plan to return the bike by 4:30 PM at the latest.",
+              "A thermos of hot tea in the basket is very helpful."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -966,6 +1366,188 @@
           "A car gives you the flexibility to easily reach more distant destinations like the Wildpark.",
           "Pay attention to parking zones and restrictions in the city center."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Regentag beginnt komfortabel mit der Fahrt zum Wildpark. Dank des Autos sind wir flexibel und erreichen trocken das Stadtzentrum. Den Großteil des Mittags verbringen wir im Schloss Nádasdy und parken direkt daneben. Der Nachmittag gehört dem Thermalbad, wo wir uns entspannen, während es draußen stürmt. Der Tag endet bequem mit der Fahrt zum Abendessen.",
+            "hu": "Kényelmesen indul az esős nap a Vadasparknál. Az autónak köszönhetően szárazon érjük el a belvárost. A délelőtt nagy részét a Nádasdy-várban töltjük, ahol közvetlenül a közelben tudunk parkolni. A délután a fürdőé, ahol a kinti vihar ellenére tökéletesen kikapcsolódhatunk. A napot egy kényelmes autózással zárjuk az étteremig.",
+            "ro": "Ziua ploioasă începe confortabil cu o vizită la parcul de animale. Datorită mașinii, ajungem uscați în centrul orașului. Petrecem mare parte din prânz la Castelul Nádasdy, parcând chiar lângă el. După-amiaza aparține băilor termale, unde ne relaxăm în ciuda furtunii de afară. Ziua se încheie cu un drum scurt și comod spre cină.",
+            "en": "The rainy day begins comfortably with a drive to the Wildpark. Thanks to the car, we reach the city center dry. We spend most of the midday at Nádasdy Castle, parking conveniently nearby. The afternoon is dedicated to the spa, where we relax despite the storm outside. The day ends with a comfortable drive to dinner."
+          },
+          "stops": [
+            {
+              "name": "Arrival and Parking at the Wildpark",
+              "tip_5lang": {
+                "de": "Parken Sie auf befestigtem Untergrund.",
+                "hu": "Parkoljon a szilárd burkolatú részeken.",
+                "ro": "Parcați pe suprafețele consolidate.",
+                "en": "Park on paved surfaces to avoid mud."
+              }
+            },
+            {
+              "name": "Drive to the Center, Park at the Castle",
+              "tip_5lang": {
+                "de": "Nutzen Sie den großen Parkplatz hinter dem Schloss.",
+                "hu": "Használja a vár mögötti nagy parkolót.",
+                "ro": "Folosiți parcarea mare din spatele castelului.",
+                "en": "Use the large parking lot behind the castle."
+              }
+            },
+            {
+              "name": "Nádasdy Castle",
+              "tip_5lang": {
+                "de": "Lassen Sie die nassen Schirme im Auto.",
+                "hu": "A vizes esernyőket érdemes a kocsiban hagyni.",
+                "ro": "Lăsați umbrelele ude în mașină.",
+                "en": "Leave wet umbrellas in the car if possible."
+              }
+            },
+            {
+              "name": "Walk to Kossuth Square & St. Ladislaus Church",
+              "tip_5lang": {
+                "de": "Kurzer Sprint zum Platz, um trocken zu bleiben.",
+                "hu": "Rövid séta a térig, próbáljon fedezéket keresni.",
+                "ro": "Drum scurt până în piață, încercați să rămâneți la adăpost.",
+                "en": "Short walk to the square; try to stay under cover."
+              }
+            },
+            {
+              "name": "Drive to the Spa & Parking",
+              "tip_5lang": {
+                "de": "Der Parkplatz am Bad ist asphaltiert und sicher.",
+                "hu": "A fürdő parkolója aszfaltozott és biztonságos.",
+                "ro": "Parcarea de la băi este asfaltată și sigură.",
+                "en": "The spa parking lot is paved and secure."
+              }
+            },
+            {
+              "name": "Walk to the Boating Lake & Arboretum",
+              "tip_5lang": {
+                "de": "Nur ein kurzer Stopp für Fotos aus dem Auto möglich.",
+                "hu": "Akár az autóból is megcsodálhatja a tó látványát.",
+                "ro": "Puteți admira vederea spre lac chiar și din mașină.",
+                "en": "You can even enjoy the lake view from the car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Parkplatzsuche im Zentrum ist bei Regen oft einfacher.",
+              "Nutzen Sie das Auto als Basis für trockene Kleidung zum Wechseln.",
+              "Vorsicht beim Aussteigen in tiefe Pfützen.",
+              "Das Thermalbad bietet einen überdachten Zugangsbereich."
+            ],
+            "hu": [
+              "Esőben a belvárosi parkolás gyakran könnyebb.",
+              "Használja az autót bázisként a váltóruháknak.",
+              "Vigyázzon a kiszállásnál a mély tócsákra.",
+              "A fürdő bejárati része fedett, így szárazon juthat be."
+            ],
+            "ro": [
+              "Găsirea unui loc de parcare în centru e mai ușoară pe ploaie.",
+              "Folosiți mașina ca bază pentru haine de schimb uscate.",
+              "Atenție la bălțile adânci când coborâți din mașină.",
+              "Intrarea la băile termale este acoperită."
+            ],
+            "en": [
+              "Finding parking in the center is often easier in the rain.",
+              "Use the car as a base for keeping dry change of clothes.",
+              "Watch out for deep puddles when getting out of the car.",
+              "The spa entrance area is covered, keeping you dry."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kalter Wintertag beginnt mit der Fahrt zum Wildpark, wo wir die frostige Natur genießen. Danach geht es schnell ins warme Stadtzentrum zum Schloss Nádasdy. Mittags wärmen wir uns bei den Ausstellungen auf. Der Höhepunkt ist der Nachmittag im Thermalbad, besonders die Außenbecken im Dampf. Den Abend lassen wir entspannt im Zentrum ausklingen, bevor wir bequem zurückfahren.",
+            "hu": "Hideg téli nap indul a Vadasparknál, ahol megcsodáljuk a zúzmarás természetet. Innen gyorsan a belváros melegébe hajtunk a Nádasdy-várhoz. A délelőttöt a fűtött termekben töltjük. A nap csúcspontja a délutáni fürdőzés a gőzölgő kültéri medencékben. Az estét a hangulatos belvárosban zárjuk, majd kényelmesen visszautazunk.",
+            "ro": "O zi rece de iarnă începe la parcul de animale, admirând natura înghețată. De acolo mergem rapid spre căldura din centru, la Castelul Nádasdy. Petrecem prânzul în sălile încălzite. Punctul culminant este după-amiaza la băi, în piscinele exterioare aburinde. Încheiem seara în centrul primitor, apoi ne întoarcem confortabil cu mașina.",
+            "en": "A cold winter day starts at the Wildpark, where we admire the frosty nature. From there, we drive quickly to the warmth of the city center and Nádasdy Castle. We spend midday in the heated exhibition rooms. The highlight of the day is the afternoon at the spa, especially the steaming outdoor pools. We end the evening in the cozy city center before driving back comfortably."
+          },
+          "stops": [
+            {
+              "name": "Arrival and Parking at the Wildpark",
+              "tip_5lang": {
+                "de": "Vorsicht vor Eis auf dem Parkplatzgelände.",
+                "hu": "Vigyázzon a jegesedésre a parkoló területén.",
+                "ro": "Atenție la gheața din zona parcării.",
+                "en": "Watch out for ice in the parking area."
+              }
+            },
+            {
+              "name": "Drive to the Center, Park at the Castle",
+              "tip_5lang": {
+                "de": "Die Heizung im Auto auf dem kurzen Weg genießen.",
+                "hu": "Élvezze az autó fűtését ezen a rövid szakaszon is.",
+                "ro": "Bucurați-vă de căldura din mașină pe acest segment scurt.",
+                "en": "Enjoy the car's heating even on this short drive."
+              }
+            },
+            {
+              "name": "Nádasdy Castle",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um sich zwischen den Spaziergängen aufzuwärmen.",
+                "hu": "Ideális hely a felmelegedésre két séta között.",
+                "ro": "Locul ideal pentru încălzire între două plimbări.",
+                "en": "An ideal place to warm up between walks."
+              }
+            },
+            {
+              "name": "Walk to Kossuth Square & St. Ladislaus Church",
+              "tip_5lang": {
+                "de": "Der Wind pfeift hier im Winter oft recht stark.",
+                "hu": "A szél itt télen gyakran felerősödik, öltözzön rétegesen.",
+                "ro": "Vântul se intensifică adesea aici iarna, îmbrăcați-vă bine.",
+                "en": "The wind often picks up here in winter; dress in layers."
+              }
+            },
+            {
+              "name": "Drive to the Spa & Parking",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz nah am Eingang.",
+                "hu": "Próbáljon a bejárathoz minél közelebb parkolni.",
+                "ro": "Încercați să parcați cât mai aproape de intrare.",
+                "en": "Try to park as close to the entrance as possible."
+              }
+            },
+            {
+              "name": "Walk to the Boating Lake & Arboretum",
+              "tip_5lang": {
+                "de": "Ein kurzer, knackiger Winterspaziergang vor der Heimfahrt.",
+                "hu": "Egy rövid, frissítő téli séta a hazaindulás előtt.",
+                "ro": "O plimbare scurtă și revigorantă înainte de plecare.",
+                "en": "A short, refreshing winter walk before heading home."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Winterreifen und Frostschutzmittel.",
+              "Die Scheiben können am Nachmittag schnell wieder beschlagen.",
+              "Parkplätze nah an den Sehenswürdigkeiten sparen Gehzeit in der Kälte.",
+              "Das Auto bietet einen sicheren Rückzugsort vor dem Frost."
+            ],
+            "hu": [
+              "Ellenőrizze a téli gumikat és a fagyállót indulás előtt.",
+              "Délután az ablakok gyorsan bepárásodhatnak, használja a klímát.",
+              "A látnivalókhoz közeli parkolás minimalizálja a hidegben töltött időt.",
+              "Az autó biztonságos menedéket nyújt a fagy elől."
+            ],
+            "ro": [
+              "Verificați anvelopele de iarnă și antigelul înainte de plecare.",
+              "Geamurile se pot aburi rapid după-amiaza.",
+              "Parcarea aproape de obiective minimizează timpul petrecut în frig.",
+              "Mașina oferă un refugiu sigur împotriva gerului."
+            ],
+            "en": [
+              "Check winter tires and antifreeze before setting off.",
+              "Windows can fog up quickly in the afternoon; use the AC.",
+              "Parking close to the sights minimizes time spent in the cold.",
+              "The car provides a safe haven from the frost."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1234,6 +1816,188 @@
           "The bus stops are clearly marked.",
           "Keep some small change ready for bus tickets."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Vom Busbahnhof aus erreichen wir schnell den Kossuth-Platz. Den Vormittag verbringen wir trocken im Schloss Nádasdy. Mittags nehmen wir den Bus direkt zum Thermalbad, um dem Regen zu entgehen. Dort genießen wir die warmen Becken, während es draußen schüttet. Nach einem Besuch am See kehren wir mit dem Bus ins Zentrum zurück und beenden den Tag bei einem gemütlichen Abendessen.",
+            "hu": "Az autóbusz-állomásról pár perc alatt a Kossuth térre érünk. A délelőttöt a Nádasdy-vár fedett kiállításain töltjük. Délben busszal megyünk közvetlenül a fürdőig, elkerülve az ázást. Ott a meleg vízben pihenünk, miközben kint esik. Egy rövid tóparti nézelődés után busszal térünk vissza a belvárosba, ahol egy kellemes vacsorával zárjuk a napot.",
+            "ro": "De la autogară ajungem rapid în Piața Kossuth. Petrecem dimineața la adăpost în Castelul Nádasdy. La prânz luăm autobuzul direct spre băile termale pentru a evita ploaia. Acolo ne relaxăm în apa caldă în timp ce afară plouă torențial. După o scurtă vizită la lac, revenim cu autobuzul în centru pentru o cină plăcută.",
+            "en": "From the bus station, we quickly reach Kossuth Square. We spend the morning dry inside Nádasdy Castle. At midday, we take the bus directly to the spa to avoid getting wet. There, we relax in the warm pools while it pours outside. After a brief lakeside visit, we return by bus to the city center and finish the day with a pleasant dinner."
+          },
+          "stops": [
+            {
+              "name": "Arrival at the Bus Station & Walk to Kossuth Square",
+              "tip_5lang": {
+                "de": "Der Wartebereich am Bahnhof ist überdacht.",
+                "hu": "Az állomás váróterme fedett és védett.",
+                "ro": "Sala de așteptare din autogară este acoperită.",
+                "en": "The bus station waiting area is covered and protected."
+              }
+            },
+            {
+              "name": "Nádasdy Castle",
+              "tip_5lang": {
+                "de": "Nur 10 Minuten Fußweg vom Zentrum entfernt.",
+                "hu": "Mindössze 10 perc séta a központtól.",
+                "ro": "La doar 10 minute de mers pe jos de centru.",
+                "en": "Only a 10-minute walk from the center."
+              }
+            },
+            {
+              "name": "Lunch and walk to the Arboretum",
+              "tip_5lang": {
+                "de": "In der Nähe des Schlosses gibt es viele Cafés.",
+                "hu": "A vár környékén számos beülős kávézó található.",
+                "ro": "Există multe cafenele în apropierea castelului.",
+                "en": "There are many indoor cafes near the castle."
+              }
+            },
+            {
+              "name": "Bus ride to the Spa and Wellness Centre",
+              "tip_5lang": {
+                "de": "Die Linie 1 hält direkt vor dem Bad.",
+                "hu": "Az 1-es busz közvetlenül a fürdő előtt áll meg.",
+                "ro": "Autobuzul liniei 1 oprește chiar în fața băilor.",
+                "en": "Bus line 1 stops right in front of the spa."
+              }
+            },
+            {
+              "name": "Boating Lake",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle ist nur wenige Schritte entfernt.",
+                "hu": "A buszmegálló csak pár lépésre van a tóparttól.",
+                "ro": "Stația de autobuz este la doar câțiva pași de lac.",
+                "en": "The bus stop is just a few steps from the lake."
+              }
+            },
+            {
+              "name": "Return to the center and dinner",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Fahrplan für die Rückfahrt am Abend.",
+                "hu": "Ellenőrizze az esti menetrendet a visszautazáshoz.",
+                "ro": "Verificați orarul de seară pentru întoarcere.",
+                "en": "Check the evening schedule for the return trip."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie Fahrkarten im Vorverkauf, um Wartezeiten im Regen zu vermeiden.",
+              "Die Busse in Sárvár sind pünktlich und meist gut geheizt.",
+              "Nutzen Sie die App für Echtzeit-Abfahrten.",
+              "Ein Regenschirm ist für die Wege zwischen den Haltestellen nötig."
+            ],
+            "hu": [
+              "Váltson jegyet előre, hogy ne kelljen az esőben várakoznia.",
+              "A sárvári buszok pontosak és általában fűtöttek.",
+              "Használja a menetrendi alkalmazást az élő indulásokhoz.",
+              "Esernyőre szükség lesz a megállók és a látnivalók közötti rövid úton."
+            ],
+            "ro": [
+              "Cumpărați bilete în avans pentru a nu aștepta în ploaie.",
+              "Autobuzele din Sárvár sunt punctuale și bine încălzite.",
+              "Folosiți aplicația pentru plecări în timp real.",
+              "Umbrela este necesară pentru distanțele scurte între stații."
+            ],
+            "en": [
+              "Buy tickets in advance to avoid waiting in the rain.",
+              "Buses in Sárvár are punctual and generally well-heated.",
+              "Use the transit app for real-time departures.",
+              "An umbrella is needed for the short walks between stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Am Busbahnhof beginnt unser Winterabenteuer. Nach einem kurzen Stopp am Kossuth-Platz wärmen wir uns im Schloss Nádasdy auf. Mittags erkunden wir das Arboretum, bevor wir mit dem Bus bequem zum Thermalbad fahren. Die Wärme des Wassers ist der perfekte Kontrast zur Kälte draußen. Den Abend verbringen wir im beleuchteten Stadtzentrum und fahren dann entspannt mit dem Bus zurück.",
+            "hu": "Az autóbusz-állomáson kezdődik a téli kalandunk. A Kossuth téri rövid megálló után a Nádasdy-várban melegszünk fel. Délben felfedezzük az Arborétumot, majd busszal kényelmesen a fürdőbe utazunk. A víz melege tökéletes kontraszt a kinti hideggel. Az estét a kivilágított belvárosban töltjük, majd busszal utazunk vissza.",
+            "ro": "Aventura noastră de iarnă începe la autogară. După o scurtă oprire în Piața Kossuth, ne încălzim la Castelul Nádasdy. La prânz explorăm Arboretumul, apoi mergem comod cu autobuzul la băi. Căldura apei este contrastul perfect pentru frigul de afară. Petrecem seara în centrul iluminat, apoi revenim cu autobuzul.",
+            "en": "Our winter adventure starts at the bus station. After a short stop at Kossuth Square, we warm up inside Nádasdy Castle. At midday, we explore the Arboretum, then travel comfortably by bus to the spa. The warmth of the water is the perfect contrast to the cold outside. We spend the evening in the illuminated city center before heading back by bus."
+          },
+          "stops": [
+            {
+              "name": "Arrival at the Bus Station & Walk to Kossuth Square",
+              "tip_5lang": {
+                "de": "Achten Sie auf die gestreuten Wege rund um den Bahnhof.",
+                "hu": "Figyeljen a felszórt utakra az állomás környékén.",
+                "ro": "Atenție la căile de acces deszăpezite din jurul gării.",
+                "en": "Watch out for gritted paths around the station."
+              }
+            },
+            {
+              "name": "Nádasdy Castle",
+              "tip_5lang": {
+                "de": "Das Museum ist im Winter eine wohltemperierte Zuflucht.",
+                "hu": "A múzeum télen is kellemes hőmérsékletű menedék.",
+                "ro": "Muzeul este un refugiu cu temperatură plăcută iarna.",
+                "en": "The museum is a well-tempered refuge in winter."
+              }
+            },
+            {
+              "name": "Lunch and walk to the Arboretum",
+              "tip_5lang": {
+                "de": "Warme Kleidung für den Spaziergang im Park einplanen.",
+                "hu": "Készüljön meleg ruhával a parkbéli sétához.",
+                "ro": "Pregătiți haine groase pentru plimbarea prin parc.",
+                "en": "Plan for warm clothing for the walk in the park."
+              }
+            },
+            {
+              "name": "Bus ride to the Spa and Wellness Centre",
+              "tip_5lang": {
+                "de": "Warten Sie im beheizten Bus auf die Ankunft.",
+                "hu": "Élvezze a fűtött buszt a fürdőig tartó úton.",
+                "ro": "Bucurați-vă de căldura din autobuz până la băi.",
+                "en": "Enjoy the heated bus on the way to the spa."
+              }
+            },
+            {
+              "name": "Boating Lake",
+              "tip_5lang": {
+                "de": "Der See sieht im Winterfrost besonders malerisch aus.",
+                "hu": "A tó látványa a téli zúzmarában különösen festői.",
+                "ro": "Lacul arată deosebit de pitoresc în gerul iernii.",
+                "en": "The lake view is particularly picturesque in the winter frost."
+              }
+            },
+            {
+              "name": "Return to the center and dinner",
+              "tip_5lang": {
+                "de": "Die Busse fahren im Winter nach dem Standardplan.",
+                "hu": "A buszok télen is a szokásos menetrend szerint közlekednek.",
+                "ro": "Autobuzele circulă după orarul standard și iarna.",
+                "en": "Buses follow the standard schedule in winter as well."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Informieren Sie sich über eventuelle Winter-Fahrplanänderungen.",
+              "Haltestellen in Sárvár sind meist gut beleuchtet.",
+              "Warme Schuhe sind wichtig für das Warten an der Haltestelle.",
+              "Die Busfahrt zum Bad spart den kalten Fußweg."
+            ],
+            "hu": [
+              "Tájékozódjon az esetleges téli menetrendi változásokról.",
+              "A sárvári buszmegállók általában jól kivilágítottak.",
+              "A meleg cipő fontos a megállóban való várakozáskor.",
+              "A fürdőig tartó buszozással megspórolhatja a hideg gyalogutat."
+            ],
+            "ro": [
+              "Informați-vă despre eventualele modificări de orar iarna.",
+              "Stațiile de autobuz din Sárvár sunt în general bine iluminate.",
+              "Încălțămintea groasă este importantă cât timp așteptați în stație.",
+              "Drumul cu autobuzul până la băi vă scutește de mersul prin frig."
+            ],
+            "en": [
+              "Check for any potential winter schedule changes.",
+              "Bus stops in Sárvár are generally well-lit at night.",
+              "Warm boots are important while waiting at the stop.",
+              "Taking the bus to the spa saves you from the cold walk."
+            ]
+          }
+        }
       }
     }
   }

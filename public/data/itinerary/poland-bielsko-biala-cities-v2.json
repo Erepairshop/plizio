@@ -382,6 +382,214 @@
           "Most museums are closed on Mondays, so plan accordingly.",
           "Always have some cash on you for small purchases or tips."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Bielitz-Biala zeigt im Regen seinen industriellen Charme. Der Morgen beginnt am Rathaus, bevor die Kathedrale trockenen Unterschlupf bietet. Mittags wärmt ein polnisches Gericht, gefolgt von einem tiefen Einblick in die Textilgeschichte im Schloss und der Fabrik. Der Abend endet glanzvoll im beleuchteten Polnischen Theater, während der Regen auf das Pflaster trommelt.",
+            "hu": "Bielsko-Biała esőben is lenyűgöző ipari város. A reggel a Városházánál indul, majd a székesegyház nyújt menedéket a zápor elől. Ebéd után a vár és a régi gyár belső tereiben kalandozunk, elmerülve a textilipar múltjában. Az estét a színház pompás épülete és a vizes aszfalton tükröződő városi fények zárják le.",
+            "ro": "Bielsko-Biała pe ploaie își dezvăluie farmecul industrial. Dimineața începe la Primărie, apoi Catedrala oferă un adăpost uscat. La prânz, o masă caldă dă energie pentru explorarea Castelului și a Vechii Fabrici. Seara se încheie glorios la Teatrul Polonez, cu luminile orașului reflectându-se în asfaltul umed.",
+            "en": "Bielsko-Biała in the rain reveals its industrial charm. Morning starts at the Town Hall, followed by the dry sanctuary of the Cathedral. Lunch provides warmth before a deep dive into textile history at the Castle and Old Factory. The evening ends brilliantly at the Polish Theatre, with city lights reflecting on the wet pavement."
+          },
+          "stops": [
+            {
+              "name": "Bielsko-Biała Town Hall",
+              "tip_5lang": {
+                "de": "Unter den Arkaden des Rathauses warten, bis der Guss nachlässt.",
+                "hu": "A Városháza árkádjai alatt várd meg a zápor végét.",
+                "ro": "Așteaptă sub arcadele Primăriei până trece ploaia.",
+                "en": "Wait under the Town Hall arcades for the heavy rain to pass."
+              }
+            },
+            {
+              "name": "St. Nicholas Cathedral",
+              "tip_5lang": {
+                "de": "Die Ruhe und Trockenheit im gotischen Inneren genießen.",
+                "hu": "Élvezd a gótikus belső tér nyugalmát és szárazságát.",
+                "ro": "Bucură-te de liniștea și uscăciunea interiorului gotic.",
+                "en": "Enjoy the silence and dryness of the gothic interior."
+              }
+            },
+            {
+              "name": "Sułkowski Castle & Museum",
+              "tip_5lang": {
+                "de": "Idealer Ort für eine lange, trockene Besichtigung am Vormittag.",
+                "hu": "Ideális helyszín egy hosszú, fedett délelőtti látogatáshoz.",
+                "ro": "Locul ideal pentru o vizită lungă și uscată de dimineață.",
+                "en": "Ideal location for a long, dry morning visit."
+              }
+            },
+            {
+              "name": "House of Frogs",
+              "tip_5lang": {
+                "de": "Schnelles Foto der Frösche unter dem Dachvorsprung.",
+                "hu": "Gyors fotó a békákról az ereszvédő alatt.",
+                "ro": "Poză rapidă cu broaștele sub streașina acoperișului.",
+                "en": "Quick photo of the frogs under the roof overhang."
+              }
+            },
+            {
+              "name": "Lunch in the city center",
+              "tip_5lang": {
+                "de": "Zeit nutzen, um Kleidung und Schirme zu trocknen.",
+                "hu": "Használd ki az időt a kabátok és esernyők megszárítására.",
+                "ro": "Profită de timp pentru a-ți usca hainele și umbrela.",
+                "en": "Use this time to dry your coats and umbrellas."
+              }
+            },
+            {
+              "name": "Old Factory Museum",
+              "tip_5lang": {
+                "de": "Das Prasseln des Regens passt perfekt zur alten Fabrikhalle.",
+                "hu": "Az eső kopogása jól illik a régi gyárcsarnok hangulatához.",
+                "ro": "Ropotul ploii se potrivește perfect cu atmosfera vechii fabrici.",
+                "en": "The sound of rain matches the old factory atmosphere perfectly."
+              }
+            },
+            {
+              "name": "Polish Theatre",
+              "tip_5lang": {
+                "de": "Das prächtige Foyer bietet Schutz vor dem Abendregen.",
+                "hu": "A pompás előcsarnok védelmet nyújt az esti eső elől.",
+                "ro": "Foaierul splendid oferă protecție împotriva ploii de seară.",
+                "en": "The grand foyer provides shelter from the evening rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für das Kopfsteinpflaster.",
+              "Die Museen sind hervorragende Rückzugsorte bei Dauerregen.",
+              "Nutzen Sie die vielen Cafés in der Altstadt für Pausen.",
+              "Regenschirme können bei Wind in engen Gassen tückisch sein.",
+              "Das Textilmuseum ist weitläufig und komplett überdacht."
+            ],
+            "hu": [
+              "Viselj vízálló cipőt a csúszós macskakövek miatt.",
+              "A múzeumok kiváló menedéket nyújtanak tartós esőben.",
+              "Használd ki az óváros kávézóit a pihenéshez.",
+              "A szűk utcákban a szél miatt az esernyő trükkös lehet.",
+              "A Textilmúzeum tágas és teljesen fedett program."
+            ],
+            "ro": [
+              "Poartă încălțăminte impermeabilă pentru pavajul alunecos.",
+              "Muzeele sunt refugii excelente în caz de ploaie persistentă.",
+              "Folosește cafenelele din centrul vechi pentru pauze.",
+              "Umbrela poate fi greu de manevrat în vânt pe străzile înguste.",
+              "Muzeul Textil este spațios și complet acoperit."
+            ],
+            "en": [
+              "Wear waterproof shoes for the slippery cobblestones.",
+              "Museums are excellent retreats during persistent rain.",
+              "Take advantage of Old Town cafes for breaks.",
+              "Umbrellas can be tricky in narrow streets due to wind.",
+              "The Textile Museum is spacious and completely indoors."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Das winterliche Bielitz-Biala glänzt im Festtagslicht. Der frostige Morgen am Rathaus führt zur wärmenden Stille der Kathedrale. Nach einem herzhaften Mittagessen bieten Schloss und Fabrikmuseum Schutz vor der Kälte. Wenn die Dunkelheit gegen 16 Uhr hereinbricht, verwandelt sich die Stadt in ein Lichtermeer, das am Theater seinen Höhepunkt findet.",
+            "hu": "A téli Bielsko-Biała ünnepi fényekben pompázik. A fagyos reggel a Városházánál indul, majd a székesegyház csendes melege fogad. A kiadós ebéd után a vár és a gyármúzeum vastag falai védenek a hidegtől. Mivel 16 óra után sötétedik, a város fényei már korán beragyogják az utcákat a színház felé tartva.",
+            "ro": "Bielsko-Biała în iarnă strălucește în lumini de sărbătoare. Dimineața geroasă la Primărie duce spre căldura tăcută a Catedralei. După un prânz consistent, Castelul și Vechea Fabrică oferă protecție împotriva frigului. Întunericul se lasă după ora 16, transformând orașul într-o mare de lumini spre Teatru.",
+            "en": "Winter in Bielsko-Biała shines with festive lights. The frosty morning at the Town Hall leads to the warming silence of the Cathedral. After a hearty lunch, the Castle and Factory Museum protect you from the cold. As darkness falls after 4 PM, the city lights illuminate the way toward the grand Theatre."
+          },
+          "stops": [
+            {
+              "name": "Bielsko-Biała Town Hall",
+              "tip_5lang": {
+                "de": "Bewundern Sie die winterliche Beleuchtung der Fassade.",
+                "hu": "Csodáld meg a homlokzat ünnepi kivilágítását.",
+                "ro": "Admiră iluminatul festiv de pe fațadă.",
+                "en": "Admire the festive winter lighting on the facade."
+              }
+            },
+            {
+              "name": "St. Nicholas Cathedral",
+              "tip_5lang": {
+                "de": "Oft finden hier im Winter besinnliche Orgelkonzerte statt.",
+                "hu": "Télen gyakran tartanak itt meghitt orgonakoncerteket.",
+                "ro": "Iarna au loc adesea concerte de orgă impresionante.",
+                "en": "Often, moving organ concerts take place here in winter."
+              }
+            },
+            {
+              "name": "Sułkowski Castle & Museum",
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten die Winterkälte draußen.",
+                "hu": "A vastag falak jól kint tartják a téli hideget.",
+                "ro": "Zidurile groase țin frigul iernii la distanță.",
+                "en": "The thick walls keep the winter cold outside."
+              }
+            },
+            {
+              "name": "House of Frogs",
+              "tip_5lang": {
+                "de": "Die Frösche wirken im Winterfrost besonders skurril.",
+                "hu": "A békák a téli fagyban különösen furcsán festenek.",
+                "ro": "Broaștele par deosebit de ciudate în gerul iernii.",
+                "en": "The frogs look particularly whimsical in the winter frost."
+              }
+            },
+            {
+              "name": "Lunch in the city center",
+              "tip_5lang": {
+                "de": "Probieren Sie heiße Pierogi oder eine wärmende Suppe.",
+                "hu": "Kóstolj forró pirogot vagy egy melegítő levest.",
+                "ro": "Încearcă pierogi fierbinți sau o supă caldă.",
+                "en": "Try hot pierogi or a warming soup."
+              }
+            },
+            {
+              "name": "Old Factory Museum",
+              "tip_5lang": {
+                "de": "Warme Kleidung ist auch in den großen Hallen ratsam.",
+                "hu": "A nagy csarnokokban is tanácsos a meleg öltözet.",
+                "ro": "Hainele groase sunt recomandate și în halele mari.",
+                "en": "Warm clothing is advised even inside the large halls."
+              }
+            },
+            {
+              "name": "Polish Theatre",
+              "tip_5lang": {
+                "de": "Der beleuchtete Vorplatz wirkt im Schnee magisch.",
+                "hu": "A kivilágított előtér hóban egészen varázslatos.",
+                "ro": "Piața iluminată din față arată magic în zăpadă.",
+                "en": "The illuminated square looks magical in the snow."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht bereits gegen 16:00 Uhr unter.",
+              "Vorsicht vor vereisten Stellen auf dem Kopfsteinpflaster.",
+              "Tragen Sie Thermosocken für die langen Museumsbesuche.",
+              "Genießen Sie die weihnachtliche Atmosphäre in der Altstadt.",
+              "Heiße Schokolade in den lokalen Cafés ist ein Muss."
+            ],
+            "hu": [
+              "A nap már délután 16:00 körül lemegy.",
+              "Vigyázz a jeges foltokra a macskaköveken.",
+              "Viselj termozoknit a hosszú múzeumlátogatásokhoz.",
+              "Élvezd a karácsonyi hangulatot az óvárosban.",
+              "A forró csokoládé a helyi kávézókban kötelező."
+            ],
+            "ro": [
+              "Soarele apune deja în jurul orei 16:00.",
+              "Atenție la porțiunile înghețate de pe pavaj.",
+              "Poartă șosete termice pentru vizitele lungi la muzeu.",
+              "Bucură-te de atmosfera de Crăciun din centrul vechi.",
+              "Ciocolata caldă în cafenelele locale este obligatorie."
+            ],
+            "en": [
+              "Sunset occurs early, around 4:00 PM.",
+              "Watch out for icy patches on the cobblestones.",
+              "Wear thermal socks for long museum explorations.",
+              "Enjoy the Christmas atmosphere in the Old Town.",
+              "Hot chocolate in local cafes is a must."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -758,6 +966,214 @@
           "Poland has a mandatory helmet law for cyclists under 18; it's recommended for adults.",
           "Use designated bike paths wherever possible."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren in Bielitz-Biala bei Regen erfordert Vorsicht, bietet aber eine frische Perspektive. Vom Rathaus geht es zum Schloss, wo man das Rad trocken parken kann. Nach einem Stopp am Theater folgt eine Fahrt entlang der Biala, wo die Natur im Regen leuchtet. Nach dem Mittagessen und dem Fabrikbesuch endet der Tag gemütlich am Weberhaus.",
+            "hu": "A kerékpározás Bielsko-Białában esőben óvatosságot igényel, de friss élményt ad. A Városházától a várig tekerünk, ahol fedett helyen parkolhatsz. A színház után a Biala-folyó menti út következik, ahol a természet kivirul az esőben. Az ebéd és a gyármúzeum után a nap a takácsok házánál ér véget.",
+            "ro": "Ciclismul în Bielsko-Biała pe ploaie necesită prudență, dar oferă o perspectivă proaspătă. De la Primărie mergem la Castel, unde poți parca bicicleta la uscat. După Teatru, urmează drumul pe lângă râul Biala, unde natura strălucește sub ploaie. Ziua se încheie la Casa Țesătorului, după prânz și Fabrică.",
+            "en": "Cycling in Bielsko-Biała in the rain requires caution but offers a fresh perspective. Ride from the Town Hall to the Castle, where you can park under cover. After the Theatre, follow the Biala River path where nature glows in the wet. Post-lunch and museum, the day ends at the Weaver's House."
+          },
+          "stops": [
+            {
+              "name": "Town Hall and Market Square",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem nassen Pflaster beim Anfahren.",
+                "hu": "Vigyázz a vizes macskakövön az elindulásnál.",
+                "ro": "Atenție pe pavajul umed la plecarea de pe loc.",
+                "en": "Be careful on wet cobblestones when starting off."
+              }
+            },
+            {
+              "name": "Sułkowski Castle",
+              "tip_5lang": {
+                "de": "Fahrradständer im Innenhof bieten oft etwas Schutz.",
+                "hu": "A belső udvari tárolók némi védelmet nyújtanak.",
+                "ro": "Rafturile din curtea interioară oferă puțin adăpost.",
+                "en": "Bike racks in the courtyard often provide some cover."
+              }
+            },
+            {
+              "name": "Polish Theatre",
+              "tip_5lang": {
+                "de": "Kurzer Stopp für ein Foto, Sattel danach abwischen.",
+                "hu": "Gyors fotómegálló, utána töröld le a nyerget.",
+                "ro": "Oprire scurtă pentru poze, apoi șterge șaua.",
+                "en": "Quick photo stop; wipe your saddle afterwards."
+              }
+            },
+            {
+              "name": "Ride along the Biała River",
+              "tip_5lang": {
+                "de": "Schutzbleche sind auf dem Uferweg unverzichtbar.",
+                "hu": "A sárvédő elengedhetetlen a folyóparti úton.",
+                "ro": "Apărătorile de noroi sunt esențiale pe drumul de pe mal.",
+                "en": "Mudguards are essential on the riverside path."
+              }
+            },
+            {
+              "name": "Lunch",
+              "tip_5lang": {
+                "de": "Ein Restaurant mit Sichtkontakt zum Rad wählen.",
+                "hu": "Válassz olyan éttermet, ahonnan rálátsz a gépre.",
+                "ro": "Alege un restaurant de unde poți vedea bicicleta.",
+                "en": "Choose a restaurant where you can keep an eye on your bike."
+              }
+            },
+            {
+              "name": "Old Factory Museum",
+              "tip_5lang": {
+                "de": "Lange Pause nutzen, um die Regenkleidung zu lüften.",
+                "hu": "Használd ki a szünetet az esőruha szellőztetésére.",
+                "ro": "Folosește pauza pentru a aerisi hainele de ploaie.",
+                "en": "Use the long break to air out your rain gear."
+              }
+            },
+            {
+              "name": "Weaver's House",
+              "tip_5lang": {
+                "de": "Das Holzhaus strömt bei Regen einen urigen Duft aus.",
+                "hu": "A faház esőben különleges, ódon illatot áraszt.",
+                "ro": "Casa din lemn emană un miros arhaic pe ploaie.",
+                "en": "The wooden house emits a rustic scent in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie metallene Kanaldeckel bei Nässe.",
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt.",
+              "Wasserdichte Packtaschen schützen Ihre Kamera.",
+              "Der Weg am Fluss kann rutschigen Schlamm aufweisen.",
+              "Ein gelber Regenmantel verbessert die Sichtbarkeit."
+            ],
+            "hu": [
+              "Kerüld a fém csatornafedeleket nedves időben.",
+              "Indulás előtt ellenőrizd a fékeket.",
+              "A vízálló táskák megvédik az értékeidet.",
+              "A folyóparti út néhol saras és csúszós lehet.",
+              "Egy élénk színű esőkabát növeli a láthatóságot."
+            ],
+            "ro": [
+              "Evită capacele metalice de canal pe vreme umedă.",
+              "Verifică frânele înainte de plecare.",
+              "Geantele impermeabile îți vor proteja obiectele.",
+              "Drumul de lângă râu poate avea noroi alunecos.",
+              "O pelerină de ploaie galbenă îmbunătățește vizibilitatea."
+            ],
+            "en": [
+              "Avoid metal manhole covers in wet conditions.",
+              "Check your brakes before setting off.",
+              "Waterproof panniers will protect your valuables.",
+              "The riverside path may have slippery mud patches.",
+              "A bright rain jacket improves visibility to drivers."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine Wintertour per Rad durch Bielitz-Biala ist erfrischend. Morgens glitzert der Frost am Marktplatz. Das Schloss bietet eine kulturelle Aufwärmpause, gefolgt vom Besuch am Theater. Die Fahrt entlang der Biala ist bei klarem Winterwetter herrlich, erfordert aber Fokus. Nach Fabrik und Mittagessen endet die Tour am gemütlichen Weaver's House.",
+            "hu": "A téli bringázás Bielsko-Białában felfrissítő élmény. Reggel a dér csillog a főtéren. A vár kulturális melegedőt kínál, majd a színház következik. A Biala-folyó menti tekerés tiszta téli időben gyönyörű, de figyelmet igényel. A gyármúzeum és az ebéd után a túra a hangulatos Takácsok házánál zárul.",
+            "ro": "O tură de iarnă cu bicicleta prin Bielsko-Biała este revigorantă. Dimineața, promoroaca sclipește în piață. Castelul oferă o pauză culturală caldă, urmată de Teatru. Drumul pe lângă râul Biala este superb pe vreme senină, dar necesită atenție. După Fabrică și prânz, tura se încheie la Casa Țesătorului.",
+            "en": "A winter bike tour through Bielsko-Biała is refreshing. In the morning, frost glitters on the Market Square. The Castle offers a cultural warm-up, followed by the Theatre. The riverside ride is beautiful in clear winter weather but requires focus. After the Factory and lunch, the tour ends at the cozy Weaver's House."
+          },
+          "stops": [
+            {
+              "name": "Town Hall and Market Square",
+              "tip_5lang": {
+                "de": "Achtung bei Eisflächen zwischen den Pflastersteinen.",
+                "hu": "Figyelj a jégfoltokra a macskakövek között.",
+                "ro": "Atenție la gheața dintre pietrele de pavaj.",
+                "en": "Watch out for ice patches between the cobblestones."
+              }
+            },
+            {
+              "name": "Sułkowski Castle",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch zum Aufwärmen der Finger.",
+                "hu": "Használd a múzeumi látogatást az ujjaid felmelegítésére.",
+                "ro": "Profită de vizita la muzeu pentru a-ți încălzi degetele.",
+                "en": "Use the museum visit to warm up your fingers."
+              }
+            },
+            {
+              "name": "Polish Theatre",
+              "tip_5lang": {
+                "de": "Kurzer Stopp; Metallteile des Rads sind jetzt sehr kalt.",
+                "hu": "Gyors megálló; a bicikli fém részei ilyenkor nagyon hidegek.",
+                "ro": "Oprire scurtă; părțile metalice sunt foarte reci acum.",
+                "en": "Quick stop; metal parts of the bike are very cold now."
+              }
+            },
+            {
+              "name": "Ride along the Biała River",
+              "tip_5lang": {
+                "de": "Der Wind am Fluss kann die gefühlte Kälte verstärken.",
+                "hu": "A folyóparti szél felerősítheti a hidegérzetet.",
+                "ro": "Vântul de lângă râu poate accentua senzația de frig.",
+                "en": "The riverside wind can increase the wind chill factor."
+              }
+            },
+            {
+              "name": "Lunch",
+              "tip_5lang": {
+                "de": "Warme Getränke auffüllen für die restliche Fahrt.",
+                "hu": "Töltsd fel a melegital-készletedet a hátralévő útra.",
+                "ro": "Reumple rezervele de băuturi calde pentru restul drumului.",
+                "en": "Refill your warm beverage supplies for the rest of the ride."
+              }
+            },
+            {
+              "name": "Old Factory Museum",
+              "tip_5lang": {
+                "de": "Innen ist es deutlich angenehmer als auf dem Sattel.",
+                "hu": "Bent sokkal kellemesebb, mint a nyeregben.",
+                "ro": "În interior e mult mai plăcut decât în șa.",
+                "en": "It is much more pleasant inside than on the saddle."
+              }
+            },
+            {
+              "name": "Weaver's House",
+              "tip_5lang": {
+                "de": "Ein schöner Schlusspunkt, bevor es zu dunkel wird.",
+                "hu": "Szép befejező pont, mielőtt túl sötét lesz.",
+                "ro": "Un punct final frumos înainte să se întunece de tot.",
+                "en": "A beautiful finish point before it gets too dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Handschuhe und Socken.",
+              "Beleuchtung ist wegen der frühen Dämmerung Pflicht.",
+              "Achten Sie auf gefrierende Nässe im Schatten.",
+              "Der Reifendruck sollte für mehr Grip etwas niedriger sein.",
+              "Zwiebelprinzip bei der Kleidung schützt vor Auskühlung."
+            ],
+            "hu": [
+              "Viselj szélálló kesztyűt és zoknit.",
+              "A világítás kötelező a korai sötétedés miatt.",
+              "Ügyelj a fagyott tócsákra az árnyékos részeken.",
+              "A guminyomás legyen kicsit alacsonyabb a jobb tapadásért.",
+              "A réteges öltözködés véd a kihűlés ellen."
+            ],
+            "ro": [
+              "Poartă mănuși și șosete rezistente la vânt.",
+              "Luminile sunt obligatorii din cauza amurgului timpuriu.",
+              "Atenție la umezeala care îngheață la umbră.",
+              "Presiunea în pneuri trebuie să fie mai mică pentru aderență.",
+              "Îmbrăcămintea în straturi protejează împotriva frigului."
+            ],
+            "en": [
+              "Wear windproof gloves and socks.",
+              "Lights are mandatory due to early twilight.",
+              "Watch out for black ice in shaded areas.",
+              "Lower tire pressure slightly for better grip.",
+              "Layered clothing prevents hypothermia."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1134,6 +1550,214 @@
           "Traffic can be heavy during peak hours, allow for extra driving time.",
           "The cable car to Szyndzielnia may be closed during high winds."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Bielitz-Biala auch bei Regen komfortabel. Morgens erkunden wir die Altstadt und das Schloss, wobei das Auto als trockener Hafen dient. Das Highlight ist die Szyndzielnia-Seilbahn, wo man über den wolkenverhangenen Beskiden schwebt. Nach dem Mittagessen in den Bergen folgen Museumsbesuche im Stadtzentrum, alles ohne nass zu werden.",
+            "hu": "Autóval Bielsko-Biała esőben is kényelmesen felfedezhető. Reggel az óvárost és a várat járjuk be, az autó pedig száraz menedékként szolgál. A nap fénypontja a Szyndzielnia felvonó, ahol a felhős Beszkidek felett lebeghetünk. A hegyi ebéd után a városközponti múzeumok következnek, így az eső ellenére is száraz marad minden.",
+            "ro": "Cu mașina, Bielsko-Biała este ușor de explorat chiar și pe ploaie. Dimineața vizităm orașul vechi și Castelul, mașina fiind un refugiu uscat. Punctul culminant este telecabina Szyndzielnia, unde plutim deasupra munților Beskizi acoperiți de nori. După prânzul la munte, urmează muzeele din centru.",
+            "en": "By car, Bielsko-Biała is comfortable even in the rain. Spend the morning exploring the Old Town and Castle, using the car as a dry base. The highlight is the Szyndzielnia cable car, soaring above the cloudy Beskids. After a mountain lunch, return to the center for museums, staying dry throughout."
+          },
+          "stops": [
+            {
+              "name": "Old Town Cluster: Town Hall",
+              "tip_5lang": {
+                "de": "Parkplätze in Rathausnähe sind bei Regen schnell belegt.",
+                "hu": "A Városháza közeli parkolók esőben hamar betelnek.",
+                "ro": "Parcările de lângă Primărie se ocupă repede pe ploaie.",
+                "en": "Parking near the Town Hall fills up quickly in the rain."
+              }
+            },
+            {
+              "name": "Old Town Cluster: St. Nicholas Cathedral",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Parkplatz zum Portal einplanen.",
+                "hu": "Tervezz rövid sétát a parkolótól a bejáratig.",
+                "ro": "Planifică un drum scurt pe jos de la parcare la intrare.",
+                "en": "Plan for a short walk from the parking lot to the entrance."
+              }
+            },
+            {
+              "name": "Old Town Cluster: Sułkowski Castle",
+              "tip_5lang": {
+                "de": "Die Burgbesichtigung dauert etwa 75 Minuten im Trockenen.",
+                "hu": "A várlátogatás kb. 75 percet vesz igénybe fedett helyen.",
+                "ro": "Vizita la castel durează aproximativ 75 de minute la uscat.",
+                "en": "The castle tour takes about 75 minutes in the dry interior."
+              }
+            },
+            {
+              "name": "Szyndzielnia Cluster: Cable Car",
+              "tip_5lang": {
+                "de": "Mystische Aussicht, wenn die Wolken tief hängen.",
+                "hu": "Misztikus kilátás, amikor a felhők alacsonyan szállnak.",
+                "ro": "Vedere mistică atunci când norii sunt joși.",
+                "en": "Mystic views when the clouds are hanging low."
+              }
+            },
+            {
+              "name": "Szyndzielnia Cluster: Lunch in the Beskids",
+              "tip_5lang": {
+                "de": "Genießen Sie den Regenblick aus dem warmen Restaurant.",
+                "hu": "Élvezd az esős panorámát a meleg étteremből.",
+                "ro": "Bucură-te de vederea spre ploaie din restaurantul cald.",
+                "en": "Enjoy the rainy views from the warmth of the restaurant."
+              }
+            },
+            {
+              "name": "Museum Cluster: Old Factory",
+              "tip_5lang": {
+                "de": "Parken Sie direkt vor dem Museumseingang.",
+                "hu": "Parkolj közvetlenül a múzeum bejárata előtt.",
+                "ro": "Parchează direct în fața intrării muzeului.",
+                "en": "Park directly in front of the museum entrance."
+              }
+            },
+            {
+              "name": "Museum Cluster: Weaver's House",
+              "tip_5lang": {
+                "de": "Ein letzter kurzer Sprint durch den Regen zum Eingang.",
+                "hu": "Egy utolsó rövid sprint az esőben a bejáratig.",
+                "ro": "Un ultim sprint scurt prin ploaie până la intrare.",
+                "en": "One last short sprint through the rain to the entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Straßen in die Beskiden können bei Regen rutschig sein.",
+              "Prüfen Sie die Sichtweite für die Seilbahn vorab.",
+              "Ein Regenschirm im Kofferraum ist für Parkwege wichtig.",
+              "Nutzen Sie Parkhäuser in der Altstadt als Basis.",
+              "Fahren Sie bei starkem Regen besonders vorsichtig im Gebirge."
+            ],
+            "hu": [
+              "A Beszkidekbe vezető utak esőben csúszósak lehetnek.",
+              "Előre ellenőrizd a látási viszonyokat a felvonónál.",
+              "Tarts esernyőt a csomagtartóban a parkolótól a bejáratig.",
+              "Használd az óvárosi parkolóházakat bázisként.",
+              "Erős esőben vezess fokozott figyelemmel a hegyekben."
+            ],
+            "ro": [
+              "Drumurile spre Beskizi pot fi alunecoase pe ploaie.",
+              "Verifică vizibilitatea pentru telecabină în prealabil.",
+              "Păstrează o umbrelă în portbagaj pentru drumul de la parcare.",
+              "Folosește parcările etajate din centrul vechi ca bază.",
+              "Condu cu atenție sporită la munte în caz de ploaie torențială."
+            ],
+            "en": [
+              "Roads into the Beskids can be slippery in the rain.",
+              "Check the visibility for the cable car in advance.",
+              "Keep an umbrella in the trunk for the walk from the car.",
+              "Use multi-story parking in the Old Town as a base.",
+              "Drive with extra caution in the mountains during heavy rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Bielitz-Biala im Winter bietet mit dem Auto alpine Romantik. Nach dem frostigen Start in der Altstadt führt die Fahrt zur Szyndzielnia, wo die beschneiten Gipfel warten. Die Seilbahnfahrt ist im Winter ein Muss. Nach einem deftigen Mittagessen in der Berghütte geht es zurück zu den Museen, um den Tag im Warmen ausklingen zu lassen.",
+            "hu": "Bielsko-Biała télen autóval igazi alpesi romantikát kínál. A fagyos óvárosi kezdés után az út a Szyndzielniához vezet, ahol hófödte csúcsok várnak. A felvonózás télen kötelező program. A hegyi menedékházas ebéd után a múzeumok melegében fejezzük be a napot.",
+            "ro": "Bielsko-Biała iarna oferă o romantică alpină cu mașina. După startul geros în centrul vechi, drumul duce spre Szyndzielnia, unde așteaptă vârfurile înzăpezite. Telecabina este un must iarna. După un prânz copios la cabană, ne întoarcem la muzee pentru a încheia ziua la căldură.",
+            "en": "Winter in Bielsko-Biała offers alpine romance by car. After a frosty start in the Old Town, drive to Szyndzielnia where snow-capped peaks await. The cable car ride is a winter essential. After a hearty mountain hut lunch, return to the warmth of the museums to finish the day."
+          },
+          "stops": [
+            {
+              "name": "Old Town Cluster: Town Hall",
+              "tip_5lang": {
+                "de": "Scheiben rechtzeitig enteisen für gute Sicht.",
+                "hu": "Időben jégtelenítsd a szélvédőt a jó látáshoz.",
+                "ro": "Dezgheață parbrizul la timp pentru o vizibilitate bună.",
+                "en": "Defrost your windows in time for good visibility."
+              }
+            },
+            {
+              "name": "Old Town Cluster: St. Nicholas Cathedral",
+              "tip_5lang": {
+                "de": "Achtung, die Gassen zur Kathedrale können glatt sein.",
+                "hu": "Vigyázz, a székesegyházhoz vezető utcák jegesek lehetnek.",
+                "ro": "Atenție, străzile spre Catedrală pot fi poleite.",
+                "en": "Caution: the narrow streets to the Cathedral can be icy."
+              }
+            },
+            {
+              "name": "Old Town Cluster: Sułkowski Castle",
+              "tip_5lang": {
+                "de": "Das Schlossmuseum ist im Winter gut beheizt.",
+                "hu": "A vármúzeum télen is kellemesen fűtött.",
+                "ro": "Muzeul castelului este bine încălzit iarna.",
+                "en": "The castle museum is well-heated in winter."
+              }
+            },
+            {
+              "name": "Szyndzielnia Cluster: Cable Car",
+              "tip_5lang": {
+                "de": "Warme Kleidung für die Bergstation einpacken.",
+                "hu": "Vigyél meleg ruhát a fenti hegyi állomáshoz.",
+                "ro": "Ia haine groase pentru stația de sus de pe munte.",
+                "en": "Pack warm clothing for the mountain top station."
+              }
+            },
+            {
+              "name": "Szyndzielnia Cluster: Lunch in the Beskids",
+              "tip_5lang": {
+                "de": "Heiße polnische Spezialitäten sind jetzt perfekt.",
+                "hu": "A forró lengyel specialitások most a legjobbak.",
+                "ro": "Specialitățile poloneze fierbinți sunt perfecte acum.",
+                "en": "Hot Polish specialties are perfect right now."
+              }
+            },
+            {
+              "name": "Museum Cluster: Old Factory",
+              "tip_5lang": {
+                "de": "Parken Sie auf dem geräumten Besucherparkplatz.",
+                "hu": "Parkolj a letakarított látogatói parkolóban.",
+                "ro": "Parchează în parcarea curățată pentru vizitatori.",
+                "en": "Park in the cleared visitor parking lot."
+              }
+            },
+            {
+              "name": "Museum Cluster: Weaver's House",
+              "tip_5lang": {
+                "de": "Ein idyllischer Winterblick auf das alte Holzhaus.",
+                "hu": "Idilli téli látvány a régi faházra.",
+                "ro": "O vedere de iarnă idilică asupra vechii case din lemn.",
+                "en": "An idyllic winter view of the old wooden house."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen und Frostschutzmittel sind Pflicht.",
+              "Bergstraßen können bei Schneefall gesperrt sein.",
+              "Führen Sie Schneeketten für extreme Bedingungen mit.",
+              "Laden Sie Ihr Handy auf, Kälte reduziert die Akkuleistung.",
+              "Die Seilbahn fährt bei starkem Wind eventuell nicht."
+            ],
+            "hu": [
+              "A téli gumi és a fagyálló folyadék kötelező.",
+              "A hegyi utakat hóesésben lezárhatják.",
+              "Tarts hóláncot az autóban extrém helyzetekre.",
+              "Töltsd fel a telefonod, a hideg meríti az akkut.",
+              "Erős szélben a felvonó esetleg nem közlekedik."
+            ],
+            "ro": [
+              "Anvelopele de iarnă și antigelul sunt obligatorii.",
+              "Drumurile montane pot fi închise în caz de ninsoare.",
+              "Poartă lanțuri de zăpadă pentru condiții extreme.",
+              "Încarcă telefonul, frigul reduce durata bateriei.",
+              "Telecabina s-ar putea să nu circule în caz de vânt puternic."
+            ],
+            "en": [
+              "Winter tires and antifreeze are mandatory.",
+              "Mountain roads may be closed during heavy snowfall.",
+              "Carry snow chains for extreme conditions.",
+              "Keep your phone charged; cold drains the battery faster.",
+              "The cable car may stop operating in high winds."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1486,6 +2110,196 @@
           "Download the local public transport app (e.g., jakdojade) to check routes and schedules.",
           "Be aware that buses may run less frequently in the outskirts, especially on weekends."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Öffentliche Verkehrsmittel machen Bielitz-Biala bei Regen stressfrei. Morgens führt die Route zum Marktplatz und zum Schloss, wobei Buswartehäuschen Schutz bieten. Der Nachmittag gehört dem Fabrikmuseum und der Szyndzielnia-Seilbahn, die gut mit dem Bus erreichbar ist. Ein Tag voller Kontraste zwischen Industrie und Natur, während man draußen den Regen beobachtet.",
+            "hu": "A tömegközlekedés stresszmentessé teszi Bielsko-Białát esőben is. Reggel az útvonal a főtérhez és a várhoz vezet, a buszvárók pedig védenek az esőtől. A délután a gyármúzeumé és a Szyndzielnia felvonóé, ami busszal is jól megközelíthető. Ipari és természeti kontrasztok, miközben az ablakon át figyeled a záport.",
+            "ro": "Transportul public face ca Bielsko-Biała să fie fără stres pe ploaie. Dimineața, traseul duce spre Piața Mare și Castel, adăposturile de autobuz oferind protecție. După-amiaza aparține Muzeului Fabricii și telecabinei Szyndzielnia, ușor accesibile cu autobuzul. O zi de contraste între industrie și natură.",
+            "en": "Public transport makes Bielsko-Biała stress-free even in the rain. Morning routes take you to the Market Square and Castle, with bus shelters providing cover. The afternoon is for the Factory Museum and the Szyndzielnia cable car, easily reached by bus. A day of industrial and natural contrasts while watching the rain from the window."
+          },
+          "stops": [
+            {
+              "name": "Old Town Cluster: Market Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie die zentralen Bushaltestellen als Startpunkt.",
+                "hu": "Használd a központi buszmegállókat kiindulópontként.",
+                "ro": "Folosește stațiile de autobuz centrale ca punct de plecare.",
+                "en": "Use the central bus stops as your starting point."
+              }
+            },
+            {
+              "name": "Old Town Cluster: Sułkowski Castle",
+              "tip_5lang": {
+                "de": "Vom Schloss sind es nur wenige Minuten zur nächsten Haltestelle.",
+                "hu": "A vártól csak pár perc a legközelebbi megálló.",
+                "ro": "De la castel sunt doar câteva minute până la cea mai apropiată stație.",
+                "en": "It is only a few minutes from the Castle to the nearest stop."
+              }
+            },
+            {
+              "name": "Museum Cluster: Old Factory",
+              "tip_5lang": {
+                "de": "Die Busverbindung zum Museum ist sehr frequentiert.",
+                "hu": "A múzeumhoz vezető buszjárat gyakran közlekedik.",
+                "ro": "Legătura cu autobuzul către muzeu este foarte frecventă.",
+                "en": "The bus connection to the museum runs frequently."
+              }
+            },
+            {
+              "name": "Museum Cluster: Lunch",
+              "tip_5lang": {
+                "de": "Restaurants in Haltestellennähe ersparen lange Wege im Regen.",
+                "hu": "A megálló közeli éttermekkel elkerülhető a hosszú ázás.",
+                "ro": "Restaurantele de lângă stații te scutesc de mersul prin ploaie.",
+                "en": "Restaurants near stops save you from long walks in the rain."
+              }
+            },
+            {
+              "name": "Szyndzielnia Cluster: Cable Car",
+              "tip_5lang": {
+                "de": "Der Bus hält fast direkt an der Talstation.",
+                "hu": "A busz szinte közvetlenül az alsó állomásnál áll meg.",
+                "ro": "Autobuzul oprește aproape direct la stația de jos.",
+                "en": "The bus stops almost directly at the lower station."
+              }
+            },
+            {
+              "name": "Szyndzielnia Cluster: Viewpoint",
+              "tip_5lang": {
+                "de": "Bei Regen ist die Sicht eingeschränkt, aber stimmungsvoll.",
+                "hu": "Esőben a kilátás korlátozott, de hangulatos.",
+                "ro": "Pe ploaie vederea este limitată, dar atmosferică.",
+                "en": "In the rain, the view is limited but atmospheric."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrkarten können oft per App oder am Automaten gekauft werden.",
+              "Die Busse sind im Winter und bei Regen gut beheizt.",
+              "Prüfen Sie den Fahrplan für die Rückfahrt aus den Beskiden.",
+              "Abends fahren die Busse seltener, planen Sie voraus.",
+              "Eine Tageskarte ist meist die günstigste Option."
+            ],
+            "hu": [
+              "A jegyeket gyakran applikációban vagy automatában veheted meg.",
+              "A buszok télen és esőben is jól fűtöttek.",
+              "Ellenőrizd a menetrendet a Beszkidekből való visszatéréshez.",
+              "Este ritkábban járnak a buszok, tervezz előre.",
+              "A napijegy általában a leggazdaságosabb megoldás."
+            ],
+            "ro": [
+              "Biletele pot fi cumpărate adesea prin aplicație sau de la automat.",
+              "Autobuzele sunt bine încălzite iarna și pe ploaie.",
+              "Verifică orarul pentru întoarcerea din Beskizi.",
+              "Seara autobuzele circulă mai rar, planifică din timp.",
+              "Un abonament de o zi este de obicei cea mai ieftină opțiune."
+            ],
+            "en": [
+              "Tickets can often be bought via app or at machines.",
+              "Buses are well-heated in winter and during rain.",
+              "Check the schedule for the return trip from the Beskids.",
+              "Buses run less frequently in the evening; plan ahead.",
+              "A day pass is usually the most economical option."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Bielitz-Biala lässt sich im Winter hervorragend mit Bus und Bahn erkunden. Vom winterlichen Marktplatz geht es zum Schloss, wo die Geschichte wärmt. Der Nachmittag bringt den Kontrast zwischen dem Fabrikmuseum und der verschneiten Welt an der Szyndzielnia-Seilbahn. Ein Tag, der zeigt, wie gut die Stadt auch in der kalten Jahreszeit vernetzt ist.",
+            "hu": "Bielsko-Biała télen kiválóan felfedezhető busszal és vonattal. A téli főtérről a várba megyünk, ahol a történelem melegít fel. A délután a gyármúzeum és a Szyndzielnia felvonó havas világa közti kontrasztot hozza el. Ez a nap megmutatja, milyen jól összekapcsolt a város a hideg évszakban is.",
+            "ro": "Bielsko-Biała poate fi explorat excelent iarna cu autobuzul și trenul. De la piața de iarnă mergem la Castel, unde istoria te încălzește. După-amiaza aduce contrastul dintre Muzeul Fabricii și lumea înzăpezită de la telecabina Szyndzielnia. O zi care arată cât de bine este conectat orașul.",
+            "en": "Winter in Bielsko-Biała is easily explored by bus and train. From the wintery Market Square, head to the Castle for a historical warm-up. The afternoon brings a contrast between the Factory Museum and the snowy world at the Szyndzielnia cable car. A day showcasing the city's great connectivity even in winter."
+          },
+          "stops": [
+            {
+              "name": "Old Town Cluster: Market Square",
+              "tip_5lang": {
+                "de": "Der Marktplatz ist im Winter festlich beleuchtet.",
+                "hu": "A főtér télen ünnepi díszkivilágítást kap.",
+                "ro": "Piața Mare este iluminată festiv iarna.",
+                "en": "The Market Square is festively lit in winter."
+              }
+            },
+            {
+              "name": "Old Town Cluster: Sułkowski Castle",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit im Museum, um sich aufzuwärmen.",
+                "hu": "Használd ki a múzeumi időt a felmelegedésre.",
+                "ro": "Folosește timpul petrecut în muzeu pentru a te încălzi.",
+                "en": "Use your time in the museum to warm up properly."
+              }
+            },
+            {
+              "name": "Museum Cluster: Old Factory",
+              "tip_5lang": {
+                "de": "In der Nähe der Haltestelle gibt es oft warme Snack-Stände.",
+                "hu": "A megálló közelében gyakran vannak meleg harapnivalót kínáló árusok.",
+                "ro": "Lângă stație se găsesc adesea standuri cu gustări calde.",
+                "en": "There are often warm snack stands near the bus stop."
+              }
+            },
+            {
+              "name": "Museum Cluster: Lunch",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Lokal mit gemütlicher Winteratmosphäre.",
+                "hu": "Válassz egy hangulatos téli atmoszférájú helyet.",
+                "ro": "Alege un local cu o atmosferă de iarnă primitoare.",
+                "en": "Choose a place with a cozy winter atmosphere."
+              }
+            },
+            {
+              "name": "Szyndzielnia Cluster: Cable Car",
+              "tip_5lang": {
+                "de": "Der Bus zur Seilbahn fährt auch bei Schnee zuverlässig.",
+                "hu": "A felvonóhoz menő busz hóban is megbízhatóan közlekedik.",
+                "ro": "Autobuzul spre telecabină circulă constant și pe zăpadă.",
+                "en": "The bus to the cable car runs reliably even in snow."
+              }
+            },
+            {
+              "name": "Szyndzielnia Cluster: Viewpoint",
+              "tip_5lang": {
+                "de": "Warme Kleidung ist für die Aussichtspunkte unerlässlich.",
+                "hu": "A kilátópontoknál elengedhetetlen a meleg öltözet.",
+                "ro": "Hainele groase sunt indispensabile la punctele de belvedere.",
+                "en": "Warm clothing is essential for the viewpoints."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Halten Sie sich in den Wartehäuschen warm.",
+              "Schneefall kann vereinzelt zu Verspätungen führen.",
+              "Die Fahrpläne hängen an jeder größeren Haltestelle aus.",
+              "Tragen Sie Schuhe mit gutem Profil für die Wege zur Haltestelle.",
+              "Nutzen Sie die App für Echtzeit-Informationen zur Ankunft."
+            ],
+            "hu": [
+              "Melegedj meg a fedett buszvárókban.",
+              "A hóesés néha kisebb késéseket okozhat.",
+              "A menetrendek minden nagyobb megállóban ki vannak függesztve.",
+              "Viselj jó tapadású cipőt a megállóig tartó sétákhoz.",
+              "Használd az applikációt a valós idejű érkezési adatokért."
+            ],
+            "ro": [
+              "Încălzește-te în adăposturile de autobuz.",
+              "Ninsorile pot cauza ocazional mici întârzieri.",
+              "Orarele sunt afișate în fiecare stație principală.",
+              "Poartă încălțăminte cu talpă aderentă pentru drumul spre stație.",
+              "Folosește aplicația pentru informații în timp real despre sosiri."
+            ],
+            "en": [
+              "Keep warm inside the bus shelters.",
+              "Snowfall may cause occasional minor delays.",
+              "Schedules are posted at every major stop.",
+              "Wear shoes with good grip for the walks to the stops.",
+              "Use the mobile app for real-time arrival information."
+            ]
+          }
+        }
       }
     }
   }

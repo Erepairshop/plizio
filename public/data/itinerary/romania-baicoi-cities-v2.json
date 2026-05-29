@@ -362,6 +362,196 @@
           "Most shops and some attractions may be closed during lunchtime.",
           "Ask for the 'meniul zilei' (menu of the day) for a good value lunch."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag im historischen Zentrum von Băicoi unter dem Schutz Ihres Regenschirms. Die Kirchen der Stadt bieten am Vormittag einen friedlichen und trockenen Rückzugsort. Mittags ist das Kulturhaus der ideale Ort, um dem Regen zu entkommen, bevor Sie am Nachmittag einen kurzen, erfrischenden Spaziergang durch den Park unter den Bäumen unternehmen.",
+            "hu": "Kezdje a napot Băicoi történelmi központjában, esernyővel felszerelkezve. A város templomai délelőtt békés és száraz menedéket nyújtanak. Délben a Művelődési Ház ideális helyszín az eső elöli rejtőzködéshez, délután pedig egy rövid, frissítő sétát tehet a park fái alatt, mielőtt a nap végén megtekintené a Hősök emlékművét.",
+            "ro": "Începeți ziua în centrul istoric din Băicoi, echipat cu o umbrelă solidă. Bisericile orașului oferă un refugiu liniștit și uscat pe parcursul dimineții. La prânz, Casa de Cultură este locul ideal pentru a evita ploaia, urmând ca după-amiaza să faceți o scurtă plimbare revigorantă prin parc pe sub coronamentul copacilor.",
+            "en": "Start your day in the historic center of Băicoi, equipped with a sturdy umbrella. The town's churches offer a peaceful and dry refuge during the morning. At midday, the Culture House is the perfect spot to dodge the rain, followed by a short, refreshing afternoon stroll in the park under the tree canopy."
+          },
+          "stops": [
+            {
+              "name": "Historic Center",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Vordächer der Geschäfte als Regenschutz.",
+                "hu": "Használja az üzletek előtetőit eső elleni védelemként.",
+                "ro": "Folosiți copertinele magazinelor pentru protecție contra ploii.",
+                "en": "Use the shop awnings for protection against the rain."
+              }
+            },
+            {
+              "name": "Church of Saints Constantine and Helena",
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um die Architektur im Trockenen zu bewundern.",
+                "hu": "Tökéletes hely az építészet megcsodálására szárazon.",
+                "ro": "Un loc perfect pentru a admira arhitectura la adăpost.",
+                "en": "A perfect place to admire the architecture while staying dry."
+              }
+            },
+            {
+              "name": "Culture House",
+              "tip_5lang": {
+                "de": "Ideal für eine längere Pause während eines Regenschauers.",
+                "hu": "Ideális egy hosszabb szünetre egy zápor alatt.",
+                "ro": "Ideal pentru o pauză mai lungă în timpul unei averse.",
+                "en": "Ideal for a longer break during a rain shower."
+              }
+            },
+            {
+              "name": "Saint Nicholas Church",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Ikonen, während es draußen regnet.",
+                "hu": "Csodálja meg az ikonokat, miközben kint esik az eső.",
+                "ro": "Admirați icoanele în timp ce afară plouă.",
+                "en": "Admire the icons while it rains outside."
+              }
+            },
+            {
+              "name": "Băicoi Central Park",
+              "tip_5lang": {
+                "de": "Die dichten Baumkronen bieten natürlichen Schutz.",
+                "hu": "A sűrű lombkorona természetes védelmet nyújt.",
+                "ro": "Coronamentul des al arborilor oferă protecție naturală.",
+                "en": "The dense tree canopy offers natural protection."
+              }
+            },
+            {
+              "name": "Heroes' Monument",
+              "tip_5lang": {
+                "de": "Vorsicht vor rutschigen Stufen am Denkmal.",
+                "hu": "Vigyázat az emlékműnél lévő csúszós lépcsőkkel.",
+                "ro": "Atenție la treptele alunecoase de lângă monument.",
+                "en": "Beware of slippery steps near the monument."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da sich in den Straßen Pfützen bilden können.",
+              "Die Museen und Kirchen sind Ihre besten Freunde bei starkem Regen.",
+              "Băicoi ist kompakt, aber ein Regenschirm ist unverzichtbar.",
+              "Planen Sie mehr Zeit für die Innenbesichtigungen ein.",
+              "Cafés im Zentrum bieten gemütliche Pausen während der Schauer."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert az utcákon tócsák alakulhatnak ki.",
+              "A múzeumok és templomok a legjobb barátai heves esőzéskor.",
+              "Băicoi kompakt város, de egy esernyő nélkülözhetetlen.",
+              "Tervezzen több időt a belső látogatásokra.",
+              "A központ kávézói hangulatos pihenőhelyeket kínálnak a záporok alatt."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, deoarece pot apărea bălți pe străzi.",
+              "Muzeele și bisericile sunt cei mai buni prieteni în caz de ploaie torențială.",
+              "Băicoi este compact, dar o umbrelă este indispensabilă.",
+              "Planificați mai mult timp pentru vizitele în interior.",
+              "Cafenelele din centru oferă pauze plăcute în timpul averselor."
+            ],
+            "en": [
+              "Wear waterproof shoes as puddles can form on the streets.",
+              "Museums and churches are your best friends during heavy rain.",
+              "Băicoi is compact, but an umbrella is indispensable.",
+              "Plan more time for indoor visits.",
+              "Cafes in the center offer cozy breaks during the showers."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie den winterlichen Charme von Băicoi bei klarem, frostigem Wetter. Der Vormittag im historischen Zentrum ist belebend, während die warmen Innenräume der Kirchen mittags zur Besinnung einladen. Nutzen Sie das Tageslicht für den Parkbesuch am frühen Nachmittag, bevor die Sonne gegen 16:30 Uhr untergeht und das Denkmal in winterliches Abendlicht taucht.",
+            "hu": "Élje át Băicoi téli varázsát tiszta, fagyos időben. A délelőtt a történelmi központban élénkítő, míg délben a templomok meleg belső terei hívogatnak elmélyülésre. Használja ki a nappali fényt a kora délutáni parklátogatáshoz, mielőtt a nap 16:30 körül lenyugszik, és az emlékművet téli esti fénybe vonja.",
+            "ro": "Experimentați farmecul hibernal al orașului Băicoi pe o vreme geroasă și senină. Dimineața în centrul istoric este revigorantă, în timp ce interioarele calde ale bisericilor invită la reflecție la prânz. Profită de lumina zilei pentru vizita în parc după-amiaza devreme, înainte ca soarele să apună în jurul orei 16:30.",
+            "en": "Experience the winter charm of Băicoi in clear, frosty weather. The morning in the historic center is bracing, while the warm interiors of the churches invite reflection at midday. Make the most of the daylight for the park visit in the early afternoon, before the sun sets around 16:30, bathing the monument in winter evening light."
+          },
+          "stops": [
+            {
+              "name": "Historic Center",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stellen auf dem Kopfsteinpflaster.",
+                "hu": "Ügyeljen a jeges foltokra a macskaköveken.",
+                "ro": "Atenție la porțiunile înghețate de pe pavaj.",
+                "en": "Watch out for icy patches on the cobblestones."
+              }
+            },
+            {
+              "name": "Church of Saints Constantine and Helena",
+              "tip_5lang": {
+                "de": "Ein warmer Ort, um dem kalten Winterwind zu entfliehen.",
+                "hu": "Meleg hely a hideg téli szél elöli menekülésre.",
+                "ro": "Un loc călduros pentru a scăpa de vântul rece de iarnă.",
+                "en": "A warm place to escape the cold winter wind."
+              }
+            },
+            {
+              "name": "Culture House",
+              "tip_5lang": {
+                "de": "Prüfen Sie, ob es saisonale Winterveranstaltungen gibt.",
+                "hu": "Ellenőrizze, vannak-e szezonális téli események.",
+                "ro": "Verificați dacă există evenimente sezoniere de iarnă.",
+                "en": "Check if there are any seasonal winter events."
+              }
+            },
+            {
+              "name": "Saint Nicholas Church",
+              "tip_5lang": {
+                "de": "Die Kerzen im Inneren spenden eine gemütliche Atmosphäre.",
+                "hu": "A benti gyertyák meghitt hangulatot árasztanak.",
+                "ro": "Lumânările din interior oferă o atmosferă primitoare.",
+                "en": "The candles inside provide a cozy atmosphere."
+              }
+            },
+            {
+              "name": "Băicoi Central Park",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe des verschneiten Parks.",
+                "hu": "Élvezze a havas park nyugalmát.",
+                "ro": "Bucurați-vă de liniștea parcului înzăpezit.",
+                "en": "Enjoy the tranquility of the snowy park."
+              }
+            },
+            {
+              "name": "Heroes' Monument",
+              "tip_5lang": {
+                "de": "Besuchen Sie das Denkmal vor dem frühen Sonnenuntergang.",
+                "hu": "Látogassa meg az emlékművet a korai naplemente előtt.",
+                "ro": "Vizitați monumentul înainte de apusul devreme.",
+                "en": "Visit the monument before the early sunset."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich nach dem Zwiebelprinzip; der Wind kann beißend sein.",
+              "Die Sonne geht im Winter bereits gegen 16:30 Uhr unter.",
+              "Tragen Sie Schuhe mit gutem Profil wegen möglicher Glätte.",
+              "Wärmen Sie sich zwischendurch in lokalen Teehäusern auf.",
+              "Das Licht für Fotos ist am frühen Nachmittag am besten."
+            ],
+            "hu": [
+              "Öltözködjön rétegesen, a szél metsző lehet.",
+              "A nap télen már 16:30 körül lenyugszik.",
+              "Viseljen jó tapadású cipőt az esetleges csúszósság miatt.",
+              "Melegedjen fel időnként a helyi teázókban.",
+              "A fotózáshoz a fények kora délután a legjobbak."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi, vântul poate fi tăios.",
+              "Soarele apune deja în jurul orei 16:30 pe timp de iarnă.",
+              "Purtați încălțăminte cu talpă aderentă pentru zonele alunecoase.",
+              "Încălziți-vă ocazional în ceainăriile locale.",
+              "Lumina pentru fotografii este cea mai bună după-amiaza devreme."
+            ],
+            "en": [
+              "Dress in layers; the wind can be biting.",
+              "The sun sets as early as 16:30 in winter.",
+              "Wear shoes with good grip due to potential slipperiness.",
+              "Warm up occasionally in local teahouses.",
+              "The light for photos is best in the early afternoon."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -718,6 +908,196 @@
           "Some roads may be unpaved, ride with caution.",
           "Always lock your bike securely, even for short stops."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen durch Băicoi erfordert gute Vorbereitung. Die Fahrt zu den historischen Erdöltürmen führt über nasse Straßen, was dem industriellen Erbe eine mystische Note verleiht. Der Wald von Băicoi bietet am Nachmittag etwas Schutz vor direktem Regen, aber die Wege können schlammig sein.",
+            "hu": "Egy esős biciklitúra Băicoiban jó felkészülést igényel. A történelmi olajfúró tornyokhoz vezető út nedves aszfalton halad, ami misztikus hangulatot kölcsönöz az ipari örökségnek. A Băicoi erdő délután némi védelmet nyújt a közvetlen eső elől, de az utak sárosak lehetnek.",
+            "ro": "O tură cu bicicleta prin Băicoi pe ploaie necesită o pregătire bună. Drumul către vechile sonde de petrol se desfășoară pe străzi ude, oferind o notă mistică patrimoniului industrial. Pădurea Băicoi oferă după-amiaza puțină protecție contra ploii directe, dar potecile pot fi noroioase.",
+            "en": "A rainy bike tour in Băicoi requires good preparation. The ride to the historic oil derricks takes you over wet roads, adding a mystical touch to the industrial heritage. The Băicoi Forest offers some shelter from direct rain in the afternoon, but paths can be muddy."
+          },
+          "stops": [
+            {
+              "name": "Historic Center",
+              "tip_5lang": {
+                "de": "Vorsicht beim Bremsen auf nassem Kopfsteinpflaster.",
+                "hu": "Vigyázzon a fékezéssel a nedves macskakövön.",
+                "ro": "Atenție la frânarea pe pavajul umed.",
+                "en": "Be careful when braking on wet cobblestones."
+              }
+            },
+            {
+              "name": "Church of Saints Constantine and Helena",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp für einen kurzen Check der Ausrüstung.",
+                "hu": "Használja a megállót a felszerelés rövid ellenőrzésére.",
+                "ro": "Folosiți oprirea pentru o scurtă verificare a echipamentului.",
+                "en": "Use the stop for a quick equipment check."
+              }
+            },
+            {
+              "name": "Historic Oil Derricks",
+              "tip_5lang": {
+                "de": "Meiden Sie bei Regen die metallenen Plattformen.",
+                "hu": "Esőben kerülje a fém platformokat.",
+                "ro": "Evitați platformele metalice pe timp de ploaie.",
+                "en": "Avoid metal platforms during rain."
+              }
+            },
+            {
+              "name": "Băicoi Forest",
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den befestigten Wegen, um Schlamm zu vermeiden.",
+                "hu": "Maradjon a kövezett utakon a sár elkerülése érdekében.",
+                "ro": "Rămâneți pe potecile amenajate pentru a evita noroiul.",
+                "en": "Stay on the paved paths to avoid mud."
+              }
+            },
+            {
+              "name": "Băicoi Central Park",
+              "tip_5lang": {
+                "de": "Gute Gelegenheit, unter einem Dach kurz zu verschnaufen.",
+                "hu": "Jó alkalom egy rövid pihenőre egy tető alatt.",
+                "ro": "O bună ocazie pentru un scurt popas sub un adăpost.",
+                "en": "Good opportunity for a short break under a roof."
+              }
+            },
+            {
+              "name": "Heroes' Monument",
+              "tip_5lang": {
+                "de": "Die Sicht kann durch Spritzwasser beeinträchtigt sein.",
+                "hu": "A látási viszonyokat a felcsapódó víz ronthatja.",
+                "ro": "Vizibilitatea poate fi afectată de apa proiectată de roți.",
+                "en": "Visibility may be reduced by road spray."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie auffällige Regenkleidung für bessere Sichtbarkeit.",
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt; nasse Felgen bremsen schlechter.",
+              "Schutzbleche am Fahrrad sind bei diesem Wetter ein Muss.",
+              "Vermeiden Sie Pfützen, da diese tiefe Schlaglöcher verbergen können.",
+              "Verstauen Sie Wertsachen in wasserdichten Taschen."
+            ],
+            "hu": [
+              "Viseljen feltűnő esőruházatot a jobb láthatóságért.",
+              "Indulás előtt ellenőrizze a fékeket; a nedves felnik rosszabbul fognak.",
+              "A sárvédő használata kötelező ebben az időben.",
+              "Kerülje a tócsákat, mert mély kátyúkat rejthetnek.",
+              "Értékeit tárolja vízhatlan táskában."
+            ],
+            "ro": [
+              "Purtați haine de ploaie reflectorizante pentru vizibilitate.",
+              "Verificați frânele; jantele umede reduc eficiența frânării.",
+              "Apărătorile de noroi sunt obligatorii pe această vreme.",
+              "Evitați bălțile, deoarece pot ascunde gropi adânci.",
+              "Depozitați obiectele de valoare în genți impermeabile."
+            ],
+            "en": [
+              "Wear high-visibility rain gear for better safety.",
+              "Check your brakes; wet rims reduce braking efficiency.",
+              "Mudguards are a must-have in this weather.",
+              "Avoid puddles as they can hide deep potholes.",
+              "Store valuables in waterproof bags."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Radtour durch die Prahova-Region bietet weite, klare Aussichten. Die Luft an den Erdöltürmen ist schneidig kalt, was die Besichtigung kurz, aber intensiv macht. Der Waldweg ist bei Frost fest und gut befahrbar, aber achten Sie auf gefrorene Pfützen. Beenden Sie die Tour am Monument, bevor die Kälte am späten Nachmittag zunimmt.",
+            "hu": "Egy téli biciklitúra a Prahova-régióban tiszta kilátást kínál. Az olajtornyoknál a levegő metszően hideg, ami rövid, de intenzív látogatást tesz lehetővé. Az erdei út fagyban kemény és jól járható, de ügyeljen a befagyott tócsákra. Fejezze be a túrát az emlékműnél, mielőtt a hideg késő délután fokozódna.",
+            "ro": "O tură cu bicicleta iarna în regiunea Prahova oferă priveliști clare. Aerul la sondele de petrol este tăios, făcând vizita scurtă, dar intensă. Drumul prin pădure este rigid și practicabil pe îngheț, dar atenție la bălțile înghețate. Încheiați turul la monument înainte ca gerul să se intensifice.",
+            "en": "A winter bike tour through the Prahova region offers wide, clear views. The air at the oil derricks is biting cold, making the visit brief but intense. The forest path is firm and rideable during frost, but watch out for frozen puddles. Finish the tour at the monument before the cold intensifies in the late afternoon."
+          },
+          "stops": [
+            {
+              "name": "Historic Center",
+              "tip_5lang": {
+                "de": "Vorsicht vor 'Schwarzeis' auf glatten Flächen.",
+                "hu": "Vigyázzon a 'fekete jéggel' a sima felületeken.",
+                "ro": "Atenție la gheața neagră pe suprafețele netede.",
+                "en": "Beware of 'black ice' on smooth surfaces."
+              }
+            },
+            {
+              "name": "Church of Saints Constantine and Helena",
+              "tip_5lang": {
+                "de": "Kurze Aufwärmpause im Inneren möglich.",
+                "hu": "Rövid melegedési lehetőség odabent.",
+                "ro": "Posibilitatea unei scurte pauze de încălzire în interior.",
+                "en": "Possibility for a quick warm-up inside."
+              }
+            },
+            {
+              "name": "Historic Oil Derricks",
+              "tip_5lang": {
+                "de": "Metallteile können extrem kalt und rutschig sein.",
+                "hu": "A fémrészek rendkívül hidegek és csúszósak lehetnek.",
+                "ro": "Componentele metalice pot fi extrem de reci și alunecoase.",
+                "en": "Metal parts can be extremely cold and slippery."
+              }
+            },
+            {
+              "name": "Băicoi Forest",
+              "tip_5lang": {
+                "de": "Reifendruck leicht senken für besseren Grip auf Frost.",
+                "hu": "Csökkentse kissé a guminyomást a jobb tapadásért fagyon.",
+                "ro": "Reduceți ușor presiunea în pneuri pentru aderență pe îngheț.",
+                "en": "Lower tire pressure slightly for better grip on frost."
+              }
+            },
+            {
+              "name": "Băicoi Central Park",
+              "tip_5lang": {
+                "de": "Die Wege können im Schatten länger gefroren bleiben.",
+                "hu": "Az utak az árnyékban tovább maradhatnak fagyottak.",
+                "ro": "Aleile pot rămâne înghețate mai mult timp la umbră.",
+                "en": "Paths can stay frozen longer in shaded areas."
+              }
+            },
+            {
+              "name": "Heroes' Monument",
+              "tip_5lang": {
+                "de": "Schneller Temperaturabfall nach Sonnenuntergang.",
+                "hu": "Gyors hőmérséklet-csökkenés naplemente után.",
+                "ro": "Scădere rapidă a temperaturii după apus.",
+                "en": "Rapid temperature drop after sunset."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Handschuhe und eine Mütze unter dem Helm.",
+              "Akkus von E-Bikes entladen sich bei Kälte deutlich schneller.",
+              "Vermeiden Sie abrupte Lenkbewegungen auf möglicherweise glattem Grund.",
+              "Nehmen Sie ein heißes Getränk in einer Thermoskanne mit.",
+              "Überprüfen Sie die Beleuchtung; es wird früh dunkel."
+            ],
+            "hu": [
+              "Viseljen szélálló kesztyűt és sapkát a sisak alatt.",
+              "Az e-bike akkumulátorok hidegben sokkal gyorsabban merülnek.",
+              "Kerülje a hirtelen kormánymozdulatokat az esetleg csúszós talajon.",
+              "Vigyen magával forró italt termoszhordozóban.",
+              "Ellenőrizze a világítást; korán sötétedik."
+            ],
+            "ro": [
+              "Purtați mănuși rezistente la vânt și o căciulă sub cască.",
+              "Bateriile bicicletelor electrice se descarcă mult mai repede la ger.",
+              "Evitați manevrele bruște pe suprafețele potențial alunecoase.",
+              "Luați o băutură caldă într-un termos.",
+              "Verificați sistemul de iluminare; se întunecă devreme."
+            ],
+            "en": [
+              "Wear windproof gloves and a hat under your helmet.",
+              "E-bike batteries discharge much faster in the cold.",
+              "Avoid sudden steering movements on potentially slippery ground.",
+              "Take a hot drink in a thermos flask with you.",
+              "Check your lights; it gets dark early."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1098,6 +1478,214 @@
           "Fill up your tank before leaving the city, as gas stations can be sparse.",
           "Roads can be narrow and winding, drive with foresight."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Autotour durch Băicoi ist bei Regen die komfortabelste Option. Beginnen Sie bei den Erdöltürmen, die im Nebel besonders eindrucksvoll wirken. Ein ausgiebiges Mittagessen im Zentrum hilft, die stärksten Regenschauer abzuwarten, bevor Sie den Tag entspannt am Denkmal ausklingen lassen.",
+            "hu": "Az autós túra Băicoiban esőben a legkényelmesebb választás. Kezdjen az olajfúró tornyoknál, amelyek a ködben különösen lenyűgözőek. Egy bőséges ebéd a központban segít kivárni a hevesebb záporokat, mielőtt a napot pihentetően zárná az emlékműnél.",
+            "ro": "Turul cu mașina prin Băicoi este cea mai confortabilă opțiune pe ploaie. Începeți la sondele de petrol, care arată impresionant în ceață. Un prânz prelungit în centru vă ajută să treceți de aversele puternice înainte de a încheia ziua la monument.",
+            "en": "The car tour through Băicoi is the most comfortable option in the rain. Start at the oil derricks, which look particularly impressive in the mist. A leisurely lunch in the center helps wait out the heaviest showers before ending the day relaxed at the monument."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Historic Oil Derricks",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Aussichtspunkt, um trocken zu bleiben.",
+                "hu": "Parkoljon közel a kilátóponthoz, hogy száraz maradjon.",
+                "ro": "Parcați aproape de punctul de observație pentru a rămâne uscat.",
+                "en": "Park close to the viewpoint to stay dry."
+              }
+            },
+            {
+              "name": "Băicoi Forest (edge area)",
+              "tip_5lang": {
+                "de": "Die unbefestigten Parkflächen können schlammig sein.",
+                "hu": "A nem aszfaltozott parkolók sárosak lehetnek.",
+                "ro": "Zonele de parcare neasfaltate pot fi noroioase.",
+                "en": "Unpaved parking areas may be muddy."
+              }
+            },
+            {
+              "name": "Cluster 2: Historic Center",
+              "tip_5lang": {
+                "de": "Nutzen Sie Parkplätze in der Nähe der Kirchen.",
+                "hu": "Használja a templomok közelében lévő parkolókat.",
+                "ro": "Folosiți locurile de parcare din apropierea bisericilor.",
+                "en": "Use parking spots near the churches."
+              }
+            },
+            {
+              "name": "Church of Saints Constantine and Helena",
+              "tip_5lang": {
+                "de": "Lassen Sie den Schirm im Auto, wenn Sie nur kurz schauen.",
+                "hu": "Hagyja az esernyőt a kocsiban, ha csak rövid ideig nézelődik.",
+                "ro": "Lăsați umbrela în mașină dacă vizita este scurtă.",
+                "en": "Leave the umbrella in the car for very short visits."
+              }
+            },
+            {
+              "name": "Lunch in the Center",
+              "tip_5lang": {
+                "de": "Perfekte Zeit, um das Auto im Regen stehen zu lassen.",
+                "hu": "Tökéletes idő az autó leállítására az esőben.",
+                "ro": "Momentul perfect pentru a lăsa mașina în parcare.",
+                "en": "Perfect time to leave the car while it rains."
+              }
+            },
+            {
+              "name": "Cluster 3: Central Park & Monument",
+              "tip_5lang": {
+                "de": "Kurze Wege vom Parkplatz zum Denkmal nutzen.",
+                "hu": "Használja a parkolótól az emlékműig vezető rövid utakat.",
+                "ro": "Folosiți traseele scurte de la parcare la monument.",
+                "en": "Use the short paths from the parking lot to the monument."
+              }
+            },
+            {
+              "name": "Heroes' Monument",
+              "tip_5lang": {
+                "de": "Achten Sie auf Pfützen beim Aussteigen.",
+                "hu": "Ügyeljen a tócsákra kiszálláskor.",
+                "ro": "Atenție la bălți când coborâți din mașină.",
+                "en": "Watch out for puddles when getting out of the car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schalten Sie bei starkem Regen das Abblendlicht ein.",
+              "Prüfen Sie den Zustand Ihrer Scheibenwischer vor der Fahrt.",
+              "Vermeiden Sie das Durchfahren von tiefen Wasseransammlungen.",
+              "Suchen Sie nach asphaltierten Parkplätzen, um Schlamm zu vermeiden.",
+              "Nutzen Sie die Klimaanlage gegen beschlagene Scheiben."
+            ],
+            "hu": [
+              "Heves esőben kapcsolja be a tompított fényszórót.",
+              "Indulás előtt ellenőrizze az ablaktörlők állapotát.",
+              "Kerülje a mélyebb vízátfolyásokon való áthajtást.",
+              "Keressen aszfaltozott parkolóhelyeket a sár elkerülésére.",
+              "Használja a klímát a szélvédő párátlanítására."
+            ],
+            "ro": [
+              "Aprindeți faza scurtă în caz de ploaie puternică.",
+              "Verificați starea ștergătoarelor înainte de drum.",
+              "Evitați traversarea acumulărilor mari de apă.",
+              "Căutați locuri de parcare asfaltate pentru a evita noroiul.",
+              "Folosiți aerul condiționat pentru dezaburirea geamurilor."
+            ],
+            "en": [
+              "Turn on your dipped headlights in heavy rain.",
+              "Check the condition of your wipers before starting.",
+              "Avoid driving through deep water accumulations.",
+              "Look for paved parking spots to avoid mud.",
+              "Use the air conditioning to demist the windows."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erreichen Sie alle Sehenswürdigkeiten von Băicoi auch bei Frost bequem. Die Fahrt zum Waldrand ist im Winter besonders malerisch, wenn die Bäume mit Raureif bedeckt sind. Genießen Sie die Wärme im Fahrzeug zwischen den Stopps an den Kirchen und dem Monument.",
+            "hu": "Autóval Băicoi minden látnivalója kényelmesen elérhető fagyban is. Az erdőszélre vezető út télen különösen festői, amikor a fákat zúzmara fedi. Élvezze a jármű melegét a templomok és az emlékmű közötti megállók során.",
+            "ro": "Cu mașina puteți ajunge confortabil la toate atracțiile din Băicoi chiar și pe ger. Drumul spre marginea pădurii este pitoresc iarna, când copacii sunt acoperiți de chiciură. Bucurați-vă de căldura din vehicul între vizitele la biserici și monument.",
+            "en": "By car, you can comfortably reach all the sights of Băicoi even during frost. The drive to the forest edge is particularly picturesque in winter when the trees are covered in frost. Enjoy the warmth in the vehicle between stops at the churches and the monument."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Historic Oil Derricks",
+              "tip_5lang": {
+                "de": "Vorsicht vor glatten Stellen auf den Zufahrtswegen.",
+                "hu": "Vigyázzon a csúszós szakaszokra a bekötőutakon.",
+                "ro": "Atenție la porțiunile alunecoase de pe drumurile de acces.",
+                "en": "Watch out for slippery spots on the access roads."
+              }
+            },
+            {
+              "name": "Băicoi Forest (edge area)",
+              "tip_5lang": {
+                "de": "Parken Sie nur auf festem Untergrund.",
+                "hu": "Csak szilárd talajon parkoljon.",
+                "ro": "Parcați doar pe teren stabil.",
+                "en": "Only park on firm ground."
+              }
+            },
+            {
+              "name": "Cluster 2: Historic Center",
+              "tip_5lang": {
+                "de": "Beheizte Parkgaragen gibt es hier kaum; nutzen Sie die Straße.",
+                "hu": "Fűtött garázsok itt alig vannak; használja az utcát.",
+                "ro": "Garaje încălzite nu prea există; folosiți parcarea stradală.",
+                "en": "Heated garages are rare here; use street parking."
+              }
+            },
+            {
+              "name": "Church of Saints Constantine and Helena",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg zum Eingang einplanen.",
+                "hu": "Tervezzen rövid sétát a bejáratig.",
+                "ro": "Planificați un scurt parcurs pe jos până la intrare.",
+                "en": "Plan for a short walk to the entrance."
+              }
+            },
+            {
+              "name": "Lunch in the Center",
+              "tip_5lang": {
+                "de": "Gute Zeit, um das Auto aufzuwärmen.",
+                "hu": "Jó idő az autó bemelegítésére.",
+                "ro": "Un moment bun pentru a lăsa mașina să se încălzească.",
+                "en": "Good time to let the car warm up."
+              }
+            },
+            {
+              "name": "Cluster 3: Central Park & Monument",
+              "tip_5lang": {
+                "de": "Vorsicht beim Rangieren auf Schneeresten.",
+                "hu": "Vigyázzon a manőverezéssel a hómaradványokon.",
+                "ro": "Atenție la manevre pe resturile de zăpadă.",
+                "en": "Be careful when maneuvering on snow remnants."
+              }
+            },
+            {
+              "name": "Heroes' Monument",
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang ist im Auto sitzend gut zu beobachten.",
+                "hu": "A naplemente az autóból is jól megfigyelhető.",
+                "ro": "Apusul poate fi observat bine din interiorul mașinii.",
+                "en": "The sunset can be viewed nicely from inside the car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in Rumänien bei winterlichen Verhältnissen Pflicht.",
+              "Führen Sie einen Eiskratzer und Frostschutzmittel mit.",
+              "Prüfen Sie den Batteriezustand vor der Fahrt in die Region.",
+              "Halten Sie die Scheinwerfer von Salz und Schmutz sauber.",
+              "Achten Sie auf Wildwechsel in der Nähe des Waldes."
+            ],
+            "hu": [
+              "Téli gumi használata kötelező Romániában téli útviszonyoknál.",
+              "Tartson jégkaparót és fagyállót az autóban.",
+              "Ellenőrizze az akkumulátor állapotát az indulás előtt.",
+              "Tartsa tisztán a fényszórókat a sótól és kosztól.",
+              "Ügyeljen a vadakra az erdő közelében."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii în condiții de iarnă.",
+              "Aveți la îndemână o racletă și lichid de parbriz de iarnă.",
+              "Verificați starea bateriei înainte de a pleca la drum.",
+              "Păstrați farurile curate, fără sare sau murdărie.",
+              "Atenție la animalele sălbatice în apropierea pădurii."
+            ],
+            "en": [
+              "Winter tires are mandatory in Romania in winter conditions.",
+              "Carry an ice scraper and winter screen wash.",
+              "Check your battery status before heading into the region.",
+              "Keep headlights clean from salt and road grime.",
+              "Watch out for wildlife crossing near the forest."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1454,6 +2042,196 @@
           "Check the schedule in advance, especially for the evening.",
           "Buses can be crowded during peak hours, plan accordingly."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie die Busverbindungen in Băicoi, um im Trockenen von einem Punkt zum anderen zu gelangen. Das Kulturhaus bietet mittags einen idealen Schutzraum. Planen Sie Ihre Umstiege so, dass Sie die Wartezeiten an den Haltestellen minimieren und stattdessen mehr Zeit in den Kirchen verbringen.",
+            "hu": "Használja Băicoi buszközlekedését, hogy szárazon jusson el egyik ponttól a másikig. A Művelődési Ház délben ideális menedéket nyújt. Úgy tervezze az átszállásokat, hogy minimalizálja a várakozási időt a megállókban, és helyette több időt tölthessen a templomokban.",
+            "ro": "Folosiți liniile de autobuz din Băicoi pentru a călători la adăpost. Casa de Cultură oferă un refugiu ideal la prânz. Planificați corespondențele astfel încât să minimizați așteptarea în stații, petrecând mai mult timp în biserici.",
+            "en": "Use the bus connections in Băicoi to travel between points while staying dry. The Culture House provides an ideal shelter at midday. Plan your transfers to minimize waiting times at bus stops, spending more time inside the churches instead."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Historic Center",
+              "tip_5lang": {
+                "de": "Die Haltestellen im Zentrum sind meist überdacht.",
+                "hu": "A központi megállók többnyire fedettek.",
+                "ro": "Stațiile din centru sunt în mare parte acoperite.",
+                "en": "Central bus stops are mostly covered."
+              }
+            },
+            {
+              "name": "Culture House",
+              "tip_5lang": {
+                "de": "Ein guter Ort, um auf den nächsten Bus zu warten.",
+                "hu": "Jó hely a következő busz megvárására.",
+                "ro": "Un loc bun pentru a aștepta următorul autobuz.",
+                "en": "A good place to wait for the next bus."
+              }
+            },
+            {
+              "name": "Saint Nicholas Church",
+              "tip_5lang": {
+                "de": "Kurzer Sprint von der Haltestelle zur Kirche einplanen.",
+                "hu": "Tervezzen rövid futást a megállótól a templomig.",
+                "ro": "Planificați un scurt sprint de la stație la biserică.",
+                "en": "Plan for a short dash from the stop to the church."
+              }
+            },
+            {
+              "name": "Cluster 2: Park and Monument",
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Regen länger im Bus.",
+                "hu": "Heves esőben maradjon tovább a buszon.",
+                "ro": "Rămâneți în autobuz mai mult timp dacă plouă tare.",
+                "en": "Stay on the bus longer if the rain is heavy."
+              }
+            },
+            {
+              "name": "Heroes' Monument",
+              "tip_5lang": {
+                "de": "Haltestelle direkt in der Nähe nutzen.",
+                "hu": "Használja a közvetlen közelben lévő megállót.",
+                "ro": "Folosiți stația aflată în imediata apropiere.",
+                "en": "Use the bus stop located in the immediate vicinity."
+              }
+            },
+            {
+              "name": "Church of Saints Constantine and Helena",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Fahrplan für die Rückfahrt rechtzeitig.",
+                "hu": "Időben ellenőrizze a visszautat a menetrendben.",
+                "ro": "Verificați orarul pentru retur din timp.",
+                "en": "Check the return schedule in good time."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Halten Sie Ihr Ticket oder Kleingeld griffbereit und trocken.",
+              "Nutzen Sie Apps für Echtzeit-Informationen, falls verfügbar.",
+              "Die Busse können bei starkem Regen etwas Verspätung haben.",
+              "Tragen Sie Kleidung, die auch im Sitzen schnell trocknet.",
+              "Große Pfützen an den Haltestellen beim Einsteigen beachten."
+            ],
+            "hu": [
+              "Tartsa a jegyét vagy az aprópénzt kéznél és szárazon.",
+              "Használjon valós idejű menetrendi alkalmazásokat, ha elérhetőek.",
+              "A buszok heves esőzéskor késhetnek egy keveset.",
+              "Viseljen olyan ruhát, amely ülve is gyorsan szárad.",
+              "Ügyeljen a nagy tócsákra a megállókban felszálláskor."
+            ],
+            "ro": [
+              "Țineți biletul sau banii mărunți la îndemână și uscate.",
+              "Folosiți aplicații pentru info în timp real, dacă sunt disponibile.",
+              "Autobuzele pot avea mici întârzieri în caz de ploaie torențială.",
+              "Purtați haine care se usucă repede chiar și când stați jos.",
+              "Atenție la bălțile mari din stații la urcarea în autobuz."
+            ],
+            "en": [
+              "Keep your ticket or change handy and dry.",
+              "Use real-time info apps if they are available.",
+              "Buses may have slight delays during heavy rain.",
+              "Wear clothing that dries quickly even while sitting.",
+              "Watch out for large puddles at the stops when boarding."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Öffentliche Verkehrsmittel sind im Winter eine sichere Wahl in Băicoi. Die Busse sind meist beheizt und bieten eine Pause von der eisigen Luft. Besuchen Sie das Kulturhaus am Mittag, um sich aufzuwärmen, bevor Sie die letzten kulturellen Highlights des Tages ansteuern.",
+            "hu": "A tömegközlekedés télen biztonságos választás Băicoiban. A buszok többnyire fűtöttek, és pihenőt nyújtanak a fagyos levegő után. Látogassa meg a Művelődési Házat délben, hogy felmelegedjen, mielőtt a nap utolsó kulturális látnivalói felé veszi az irányt.",
+            "ro": "Transportul public este o alegere sigură iarna în Băicoi. Autobuzele sunt de regulă încălzite și oferă un respiro de la aerul înghețat. Vizitați Casa de Cultură la prânz pentru a vă încălzi înainte de ultimele obiective ale zilei.",
+            "en": "Public transit is a safe choice in Băicoi during winter. The buses are usually heated and offer a break from the icy air. Visit the Culture House at midday to warm up before heading to the day's final cultural highlights."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Historic Center",
+              "tip_5lang": {
+                "de": "Warten Sie in Geschäften nahe der Haltestelle auf den Bus.",
+                "hu": "Várja a buszt a megálló közeli üzletekben.",
+                "ro": "Așteptați autobuzul în magazinele din apropierea stației.",
+                "en": "Wait for the bus in shops near the stop."
+              }
+            },
+            {
+              "name": "Culture House",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Innenräume zum Aufwärmen.",
+                "hu": "Használja a belső tereket a felmelegedésre.",
+                "ro": "Folosiți spațiile interioare pentru a vă încălzi.",
+                "en": "Use the indoor spaces to warm up."
+              }
+            },
+            {
+              "name": "Saint Nicholas Church",
+              "tip_5lang": {
+                "de": "Achten Sie auf rutschige Bordsteinkanten beim Aussteigen.",
+                "hu": "Ügyeljen a csúszós padkákra kiszálláskor.",
+                "ro": "Atenție la bordurile alunecoase la coborâre.",
+                "en": "Watch out for slippery curbs when getting off the bus."
+              }
+            },
+            {
+              "name": "Cluster 2: Park and Monument",
+              "tip_5lang": {
+                "de": "Besuchsdauer an die Busfrequenz im Winter anpassen.",
+                "hu": "A látogatási időt igazítsa a téli buszgyakorisághoz.",
+                "ro": "Adaptați durata vizitei la frecvența autobuzelor de iarnă.",
+                "en": "Adjust visit duration to the winter bus frequency."
+              }
+            },
+            {
+              "name": "Heroes' Monument",
+              "tip_5lang": {
+                "de": "Das Licht am Abend macht das Warten stimmungsvoll.",
+                "hu": "Az esti fények hangulatossá teszik a várakozást.",
+                "ro": "Lumina de seară face așteptarea mai atmosferică.",
+                "en": "The evening light makes waiting atmospheric."
+              }
+            },
+            {
+              "name": "Church of Saints Constantine and Helena",
+              "tip_5lang": {
+                "de": "Die letzte Fahrt des Tages nicht verpassen.",
+                "hu": "Ne késse le a nap utolsó járatát.",
+                "ro": "Nu ratați ultima cursă a zilei.",
+                "en": "Don't miss the last bus of the day."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie warme Schuhe, da das Warten auf den Bus kalt sein kann.",
+              "Im Winter können Busse aufgrund von Glätte langsamer fahren.",
+              "Nutzen Sie die Fahrzeit, um Ihre Route auf dem Handy zu prüfen.",
+              "In den Bussen ist es oft sehr warm; kleiden Sie sich variabel.",
+              "Beachten Sie die eingeschränkten Fahrpläne an Feiertagen."
+            ],
+            "hu": [
+              "Viseljen meleg cipőt, mert a buszra való várakozás hideg lehet.",
+              "Télen a buszok a csúszósság miatt lassabban közlekedhetnek.",
+              "Használja az utazási időt az útvonal ellenőrzésére a telefonján.",
+              "A buszokon gyakran nagyon meleg van; öltözködjön variálhatóan.",
+              "Ügyeljen az ünnepnapi korlátozott menetrendekre."
+            ],
+            "ro": [
+              "Purtați încălțăminte călduroasă, așteptarea în stație poate fi rece.",
+              "Iarna, autobuzele pot circula mai încet din cauza carosabilului.",
+              "Folosiți timpul de parcurs pentru a verifica ruta pe telefon.",
+              "În autobuze este adesea foarte cald; îmbrăcați-vă versatil.",
+              "Atenție la orarele reduse în timpul sărbătorilor."
+            ],
+            "en": [
+              "Wear warm shoes as waiting for the bus can be cold.",
+              "Buses may travel slower in winter due to slippery roads.",
+              "Use the travel time to check your route on your phone.",
+              "Buses are often very warm; dress in adaptable layers.",
+              "Note the limited schedules during public holidays."
+            ]
+          }
+        }
       }
     }
   }

@@ -270,6 +270,188 @@
           "Bring water with you, especially in summer.",
           "Most central sights are within easy walking distance."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein verregneter Morgen am Ljuba Didić Denkmal beginnt mit grauen Wolken über dem Timok-Tal. Das Nationalmuseum bietet den perfekten Unterschlupf für den Vormittag. Mittags führt der Weg zum Radul Beg Konak, wo man die osmanische Architektur im Trockenen bewundern kann. Der Nachmittag endet mit einem erfrischenden Spaziergang durch den Kraljevica Waldpark, während der Regen auf die dichten Blätter prasselt.",
+            "hu": "Esős reggel a Ljuba Didić emlékműnél, a felhők alacsonyan szállnak a Timok-völgy felett. Délelőtt a Nemzeti Múzeum nyújt menedéket a csapadék elől. Délben a Radul bég konakja belső tereit fedezzük fel, távol a sártól. A délután a Kraljevica erdőparkban zárul, ahol a sűrű lombkorona alatt sétálva hallgathatjuk az eső kopogását a leveleken.",
+            "ro": "O dimineață ploioasă la monumentul Ljuba Didić, cu nori joși deasupra văii Timocului. Muzeul Național oferă refugiul perfect pentru orele amiezii. La prânz, vizităm Konakul lui Radul Beg, admirând arhitectura otomană la adăpost. După-amiaza se încheie cu o plimbare revigorantă prin parcul forestier Kraljevica, unde coronamentul des al copacilor protejează potecile.",
+            "en": "A rainy morning at the Ljuba Didić Monument starts with gray clouds over the Timok Valley. The National Museum provides the perfect shelter for the late morning hours. At noon, the path leads to Radul Beg's Konak for an indoor exploration of Ottoman heritage. The afternoon ends with a refreshing walk through Kraljevica Forest Park, listening to the rain patter against the thick canopy."
+          },
+          "stops": [
+            {
+              "name": "Ljuba Didić Monument",
+              "tip_5lang": {
+                "de": "Kurzer Stopp unter dem Regenschirm; der Platz kann bei Nässe rutschig sein.",
+                "hu": "Gyors megálló esernyővel; a tér kövezete esőben csúszóssá válhat.",
+                "ro": "Oprire scurtă sub umbrelă; pavajul pieței poate fi alunecos când este ud.",
+                "en": "Quick stop with an umbrella; the square's pavement can be slippery when wet."
+              }
+            },
+            {
+              "name": "National Museum Zaječar",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe für nasse Mäntel; idealer Ort, um den Regenschauer abzuwarten.",
+                "hu": "Használja a ruhatárat a vizes kabátoknak; tökéletes hely a zápor átvészelésére.",
+                "ro": "Folosiți garderoba pentru haine ude; locul ideal pentru a aștepta trecerea ploii.",
+                "en": "Use the cloakroom for wet coats; the ideal place to wait out a heavy downpour."
+              }
+            },
+            {
+              "name": "Radul Beg's Konak",
+              "tip_5lang": {
+                "de": "Innenbesichtigung der Holzbalkone; schöner Blick auf den nassen Innenhof aus dem Schutz.",
+                "hu": "A faborításos erkélyek megtekintése; remek kilátás nyílik a vizes udvarra a védett folyosóról.",
+                "ro": "Vizită interioară a balcoanelor din lemn; vedere frumoasă spre curtea udă de la adăpost.",
+                "en": "Indoor tour of the wooden balconies; great view of the wet courtyard from the shelter."
+              }
+            },
+            {
+              "name": "Church of the Nativity of the Theotokos",
+              "tip_5lang": {
+                "de": "Ruhiger Rückzugsort; achten Sie auf den feuchten Boden im Eingangsbereich.",
+                "hu": "Csendes menedék; ügyeljen a bejáratnál a nedves, csúszós padlóra.",
+                "ro": "Refugiu liniștit; atenție la podeaua umedă din zona de intrare.",
+                "en": "Quiet retreat; watch out for the damp, slippery floor at the entrance."
+              }
+            },
+            {
+              "name": "Popova Beach",
+              "tip_5lang": {
+                "de": "Atmosphärischer Blick auf den steigenden Timok; asphaltierte Wege nutzen.",
+                "hu": "Hangulatos kilátás az áradó Timokra; maradjon az aszfaltozott sétányokon.",
+                "ro": "Vedere atmosferică asupra Timocului în creștere; rămâneți pe aleile asfaltate.",
+                "en": "Atmospheric view of the rising Timok; stay on the paved walkways to avoid mud."
+              }
+            },
+            {
+              "name": "Kraljevica Forest Park",
+              "tip_5lang": {
+                "de": "Die dichten Bäume bieten natürlichen Schutz; festes Schuhwerk für Waldwege nötig.",
+                "hu": "A sűrű fák természetes védelmet nyújtanak; vízálló cipő ajánlott az erdei utakra.",
+                "ro": "Copacii deși oferă protecție naturală; încălțăminte rezistentă necesară pentru poteci.",
+                "en": "Dense trees provide natural shelter; waterproof shoes are essential for forest trails."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Wasserdichte Wanderschuhe sind für die Wege in Kraljevica bei Regen unerlässlich.",
+              "Das Museum und der Konak bieten zusammen über 2,5 Stunden Aufenthalt im Trockenen.",
+              "Bei starkem Regen steigen die Pegel des Timok schnell an, Vorsicht an den Uferkanten.",
+              "Ein Regenschirm mit Sturmfestigkeit ist wegen der Winde im Timok-Tal ratsam."
+            ],
+            "hu": [
+              "A Kraljevica erdőpark ösvényeihez elengedhetetlen a vízálló túracipő esős időben.",
+              "A múzeum és a konak összesen több mint 2,5 óra fedett programot biztosít.",
+              "Heves esőzéskor a Timok vízszintje gyorsan emelkedik, legyen óvatos a part közelében.",
+              "A völgyben fújó szél miatt érdemes masszívabb, szélálló esernyőt választani."
+            ],
+            "ro": [
+              "Încălțămintea de munte impermeabilă este esențială pentru potecile din Kraljevica pe ploaie.",
+              "Muzeul și Konakul oferă împreună peste 2,5 ore de program la interior.",
+              "La ploi torențiale, nivelul Timocului crește rapid; atenție sporită pe malul râului.",
+              "Se recomandă o umbrelă rezistentă la vânt din cauza curenților din valea Timocului."
+            ],
+            "en": [
+              "Waterproof hiking boots are essential for the trails in Kraljevica during rain.",
+              "The museum and the Konak together offer over 2.5 hours of dry indoor activities.",
+              "During heavy rain, the Timok water level rises quickly; stay cautious near the banks.",
+              "A wind-resistant umbrella is advised due to the gusts common in the Timok Valley."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Wintermorgen am Ljuba Didić Denkmal führt schnell in die beheizten Hallen des Nationalmuseums. Der Besuch des Konaks bietet einen Einblick in das historische Winterleben der Region. Nachmittags glitzert der Schnee auf den Dächern der orthodoxen Kirche. Der Tag endet früh mit einem Spaziergang im Kraljevica Waldpark, bevor die Dämmerung gegen 16:30 Uhr einsetzt.",
+            "hu": "Fagyos téli reggel a Ljuba Didić emlékműnél, ahonnan gyorsan a Nemzeti Múzeum fűtött termeibe húzódunk. A konak látogatása bepillantást enged a régió történelmi téli életmódjába. Délután a hó csillog az ortodox templom kupoláin. A nap korán zárul a Kraljevica erdőparkban, mielőtt 16:30 körül beállna a szürkület.",
+            "ro": "O dimineață geroasă de iarnă la monumentul Ljuba Didić, urmată de căldura sălilor Muzeului Național. Vizita la Konak oferă o perspectivă asupra vieții tradiționale de iarnă din regiune. După-amiaza, zăpada strălucește pe cupolele bisericii ortodoxe. Ziua se încheie devreme în parcul Kraljevica, înainte de asfințitul de la ora 16:30.",
+            "en": "A frosty winter morning at the Ljuba Didić Monument leads quickly to the heated halls of the National Museum. Visiting the Konak offers insight into historical winter life in the region. In the afternoon, snow glistens on the rooftops of the Orthodox church. The day ends early with a walk in Kraljevica Forest Park before dusk sets in around 4:30 PM."
+          },
+          "stops": [
+            {
+              "name": "Ljuba Didić Monument",
+              "tip_5lang": {
+                "de": "Kurze Fotosession; bei Frost ist die Pflasterung oft spiegelglatt.",
+                "hu": "Gyors fotómegálló; fagyos időben a burkolat tükörsima és csúszós lehet.",
+                "ro": "Sesiune foto scurtă; la îngheț, pavajul devine extrem de alunecos.",
+                "en": "Short photo stop; in freezing temperatures, the pavement is often ice-slicked."
+              }
+            },
+            {
+              "name": "National Museum Zaječar",
+              "tip_5lang": {
+                "de": "Angenehm temperiert; idealer Ort, um sich zwischen den Spaziergängen aufzuwärmen.",
+                "hu": "Kellemes hőmérséklet; ideális hely a bemelegedésre a városi séta közben.",
+                "ro": "Temperatură plăcută; locul ideal pentru a vă încălzi între plimbări.",
+                "en": "Comfortably heated; the perfect place to warm up between outdoor walks."
+              }
+            },
+            {
+              "name": "Radul Beg's Konak",
+              "tip_5lang": {
+                "de": "Innenräume sind beheizt; bewundern Sie die traditionellen Orientteppiche im Winterlicht.",
+                "hu": "A belső terek fűtöttek; csodálja meg a hagyományos szőnyegeket a téli fényben.",
+                "ro": "Interioarele sunt încălzite; admirați covoarele tradiționale în lumina iernii.",
+                "en": "The interior is heated; admire the traditional carpets in the soft winter light."
+              }
+            },
+            {
+              "name": "Church of the Nativity of the Theotokos",
+              "tip_5lang": {
+                "de": "In der Kirche ist es kühler als im Museum; Schal und Mütze anbehalten.",
+                "hu": "A templomban hűvösebb van, mint a múzeumban; sál és sapka ajánlott.",
+                "ro": "În biserică este mai răcoare decât în muzeu; păstrați fularul și căciula.",
+                "en": "It's cooler inside the church than the museum; keep your scarf and hat on."
+              }
+            },
+            {
+              "name": "Popova Beach",
+              "tip_5lang": {
+                "de": "Eisformationen am Flussufer; bleiben Sie auf den geräumten Hauptwegen.",
+                "hu": "Jégalakzatok a folyóparton; maradjon a letakarított főutakon.",
+                "ro": "Formațiuni de gheață pe malul râului; rămâneți pe căile principale curățate.",
+                "en": "Ice formations along the riverbank; stay on the cleared main paths."
+              }
+            },
+            {
+              "name": "Kraljevica Forest Park",
+              "tip_5lang": {
+                "de": "Frühzeitiger Aufbruch empfohlen; die unbeleuchteten Waldwege werden ab 16 Uhr dunkel.",
+                "hu": "Javasolt a korai indulás; a kivilágítatlan erdei utak 16 óra után sötétednek.",
+                "ro": "Se recomandă plecarea devreme; potecile neiluminate devin întunecate după ora 16.",
+                "en": "Early start recommended; unlit forest paths get dark quickly after 4:00 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Dezember bereits gegen 16:15 Uhr unter, planen Sie Kraljevica früher ein.",
+              "Thermounterwäsche ist für den längeren Aufenthalt im Waldpark unbedingt ratsam.",
+              "In der Nähe des Konaks gibt es Cafés mit heißen serbischen Kaffeespezialitäten.",
+              "Achten Sie auf Glatteis auf den Brücken über den Timok."
+            ],
+            "hu": [
+              "Decemberben a nap már 16:15 körül lemegy, tervezze korábbra a parklátogatást.",
+              "A hosszabb erdei tartózkodáshoz a réteges öltözet és a hőtartó aláöltözet kötelező.",
+              "A konak közelében több kávézó kínál forró szerb kávékülönlegességeket.",
+              "Vigyázzon a jegesedésre a Timok felett átívelő hidakon."
+            ],
+            "ro": [
+              "În decembrie soarele apune deja în jur de 16:15; planificați parcul mai devreme.",
+              "Lenjeria termică este absolut recomandată pentru șederea prelungită în pădure.",
+              "Lângă Konak găsiți cafenele cu specialități de cafea sârbească fierbinte.",
+              "Atenție la polei pe podurile care traversează râul Timoc."
+            ],
+            "en": [
+              "Sunset is as early as 4:15 PM in December; plan your park visit before then.",
+              "Thermal layers are highly recommended for the extended stay in the forest park.",
+              "Nearby the Konak, you'll find cafes serving hot Serbian coffee specialties.",
+              "Watch out for black ice on the bridges crossing the Timok river."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -534,6 +716,188 @@
           "Some parts of the city are hilly, so be prepared for climbs.",
           "Always lock your bike when leaving it unattended."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour beginnt am Theater, während der Regen auf die Straße peitscht. Kurze Sprints zwischen den Museen halten die Fahrt dynamisch. Der Weg zur Popova Beach ist bei Nässe eine Herausforderung, bietet aber einen dramatischen Blick auf den Timok. Den Abschluss bildet die Auffahrt nach Kraljevica, wo der Waldboden den Regen dämpft.",
+            "hu": "A kerékpártúra a színháztól indul, miközben az eső ostorozza az aszfaltot. A múzeumok közötti rövid sprintek dinamikussá teszik az utat. A Popova Beach felé vezető szakasz nedves úton kihívás, de drámai kilátást nyújt a Timokra. A napot a Kraljevica emelkedője zárja, ahol az erdei talaj elnyeli az eső zaját.",
+            "ro": "Turul cu bicicleta începe la teatru, în timp ce ploaia biciuiește asfaltul. Sprinturile scurte între muzee mențin dinamismul traseului. Drumul spre Popova Beach este o provocare pe ud, dar oferă o vedere dramatică asupra Timocului. Finalul este marcat de urcarea spre Kraljevica, unde solul pădurii absoarbe sunetul ploii.",
+            "en": "The bike tour starts at the theatre as rain lashes the pavement. Short sprints between museums keep the ride dynamic. The stretch toward Popova Beach is challenging in the wet but offers a dramatic view of the Timok. The day ends with the climb to Kraljevica, where the forest floor muffles the sound of the rain."
+          },
+          "stops": [
+            {
+              "name": "Zoran Radmilović Theatre",
+              "tip_5lang": {
+                "de": "Überdachter Eingangsbereich zum Unterstellen; Vorsicht beim Anfahren auf nassem Pflaster.",
+                "hu": "Fedett bejárati rész a várakozáshoz; óvatosan induljon el a vizes kövön.",
+                "ro": "Zonă de intrare acoperită pentru adăpost; atenție la pornirea pe pavaj ud.",
+                "en": "Covered entrance area for shelter; be careful when starting on wet pavement."
+              }
+            },
+            {
+              "name": "National Museum Zaječar",
+              "tip_5lang": {
+                "de": "Fahrradständer direkt am Museum; Helm im Museumsbüro oder Schließfach lassen.",
+                "hu": "Kerékpártárolók közvetlenül a múzeumnál; a sisakot hagyja az öltözőben.",
+                "ro": "Rastel de biciclete direct la muzeu; lăsați casca la garderobă sau în dulap.",
+                "en": "Bike racks located right at the museum; leave your helmet in a locker."
+              }
+            },
+            {
+              "name": "Radul Beg's Konak",
+              "tip_5lang": {
+                "de": "Kurzer Stopp; nasse Pedale können rutschig sein, Schuhe am Eingang gut abtreten.",
+                "hu": "Rövid megálló; a vizes pedál csúszhat, alaposan törölje le a cipőjét a bejáratnál.",
+                "ro": "Oprire scurtă; pedalele ude pot fi alunecoase, ștergeți bine tălpile la intrare.",
+                "en": "Short stop; wet pedals can be slippery, wipe your shoes well at the entrance."
+              }
+            },
+            {
+              "name": "Popova Beach",
+              "tip_5lang": {
+                "de": "Vorsicht bei Schlammansammlungen auf dem Radweg; Bremsweg auf nassem Asphalt verlängert.",
+                "hu": "Vigyázzon a sárfelhordásra a kerékpárúton; a fékút vizes aszfalton jelentősen megnő.",
+                "ro": "Atenție la acumulările de noroi pe pistă; distanța de frânare crește pe asfalt ud.",
+                "en": "Watch out for mud buildup on the bike path; braking distance increases on wet asphalt."
+              }
+            },
+            {
+              "name": "Kraljevica Forest Park",
+              "tip_5lang": {
+                "de": "Stollenreifen empfohlen; einige Waldwege können nach Regen sehr weich sein.",
+                "hu": "Bordázott gumik ajánlottak; egyes erdei utak eső után felázhatnak.",
+                "ro": "Anvelope cu crampoane recomandate; unele poteci devin moi după ploaie.",
+                "en": "Knobby tires recommended; some forest trails can get very soft after rain."
+              }
+            },
+            {
+              "name": "Church of the Nativity of the Theotokos",
+              "tip_5lang": {
+                "de": "Ruhiger Abschluss; Fahrrad im Sichtbereich abstellen, Bodenfliesen innen glatt.",
+                "hu": "Csendes lezárás; állítsa a biciklit látható helyre, a belső padló csúszós.",
+                "ro": "Final liniștit; parcați bicicleta la vedere, gresia interioară este alunecoasă.",
+                "en": "Quiet finish; park your bike within sight, the indoor floor tiles are slick."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind bei den Pfützen rund um den Timok absolut notwendig.",
+              "Vermeiden Sie scharfe Kurven auf dem glatten Kopfsteinpflaster im Zentrum.",
+              "Wasserdichte Packtaschen schützen Ihre Ausrüstung während der Museumsbesuche.",
+              "Die Bremswirkung kann bei nassen Felgen verzögert einsetzen; frühzeitig bremsen."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen a Timok környéki tócsák miatt.",
+              "Kerülje az éles kanyarodást a belváros csúszós macskaköves szakaszain.",
+              "A vízálló táskák megvédik felszerelését a múzeumlátogatások alatt.",
+              "Vizes felniken a fékhatás késleltetve jelentkezhet; fékezzen időben."
+            ],
+            "ro": [
+              "Aripile de protecție sunt absolut necesare din cauza bălților de lângă Timoc.",
+              "Evitați virajele strânse pe pavajul cu piatră cubică din centru.",
+              "Geantele impermeabile vă protejează echipamentul pe durata vizitelor la muzeu.",
+              "Eficiența frânării scade pe jante ude; începeți frânarea din timp."
+            ],
+            "en": [
+              "Mudguards are absolutely necessary given the puddles around the Timok river.",
+              "Avoid sharp turns on the slippery cobblestones in the city center.",
+              "Waterproof panniers will protect your gear during the museum stops.",
+              "Braking performance may be delayed on wet rims; start braking early."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Fahrt durch Zaječar beginnt mit klirrender Kälte am Theater. Der Sprint zum Museum hält den Kreislauf in Schwung. Durch die kühle Luft geht es zur Popova Beach, wo der Timok oft Nebelschwaden trägt. Die Auffahrt nach Kraljevica erfordert Kraft, belohnt aber mit einsamen, verschneiten Waldwegen.",
+            "hu": "Téli tekerés Zaječarban, a színháznál kezdődő metsző hidegben. A múzeumig tartó sprint segít fenntartani a testhőt. A hűvös levegőben a Popova Beach felé haladunk, ahol a Timok felett gyakori a köd. A Kraljevica emelkedője erőt igényel, de magányos, havas erdei ösvényekkel jutalmaz.",
+            "ro": "O cursă de iarnă prin Zaječar începe cu un frig pătrunzător la teatru. Sprintul spre muzeu ajută la menținerea circulației. Prin aerul rece pedalăm spre Popova Beach, unde Timocul e adesea acoperit de ceață. Urcarea spre Kraljevica cere efort, dar recompensează cu poteci forestiere înzăpezite.",
+            "en": "A winter ride through Zaječar begins with biting cold at the theatre. The sprint to the museum keeps the circulation going. Through the crisp air, we head to Popova Beach, where the Timok is often shrouded in mist. The climb to Kraljevica requires effort but rewards with solitary, snow-covered forest trails."
+          },
+          "stops": [
+            {
+              "name": "Zoran Radmilović Theatre",
+              "tip_5lang": {
+                "de": "Kurzer Stopp; Handschuhe beim Sichern des Schlosses anbehalten.",
+                "hu": "Gyors megálló; tartsa magán a kesztyűt a lakat lezárásakor is.",
+                "ro": "Oprire scurtă; păstrați mănușile când asigurați antifurtul.",
+                "en": "Short stop; keep your gloves on while securing your bike lock."
+              }
+            },
+            {
+              "name": "National Museum Zaječar",
+              "tip_5lang": {
+                "de": "Aufwärmpause einplanen; die Fahrradständer können vereist sein.",
+                "hu": "Tervezzen bemelegítő szünetet; a kerékpártárolók jegesek lehetnek.",
+                "ro": "Planificați o pauză de încălzire; rastelele pot fi acoperite cu gheață.",
+                "en": "Plan a warm-up break; the bike racks might be covered in ice."
+              }
+            },
+            {
+              "name": "Radul Beg's Konak",
+              "tip_5lang": {
+                "de": "Historisches Ambiente im Winter; Vorsicht auf den Holztreppen mit Winterschuhen.",
+                "hu": "Történelmi hangulat télen; vigyázzon a fapadjokon kerékpáros cipőben.",
+                "ro": "Ambiantă istorică de iarnă; atenție pe treptele de lemn cu încălțăminte de iarnă.",
+                "en": "Historical winter atmosphere; be careful on the wooden stairs with winter boots."
+              }
+            },
+            {
+              "name": "Popova Beach",
+              "tip_5lang": {
+                "de": "Starker Wind am Flussufer; Windstopper-Kleidung ist hier entscheidend.",
+                "hu": "Erős szél a folyóparton; a szélálló ruházat itt kulcsfontosságú.",
+                "ro": "Vânt puternic pe malul râului; îmbrăcămintea windstopper este esențială.",
+                "en": "Strong winds along the riverbank; windstopper clothing is crucial here."
+              }
+            },
+            {
+              "name": "Kraljevica Forest Park",
+              "tip_5lang": {
+                "de": "Achten Sie auf gefrorenes Laub; die Abfahrten nur mit reduzierter Geschwindigkeit.",
+                "hu": "Ügyeljen a fagyott avarra; a lejtőkön csak mérsékelt sebességgel haladjon.",
+                "ro": "Atenție la frunzișul înghețat; coborârile se fac cu viteză redusă.",
+                "en": "Watch out for frozen leaves; go down the slopes at reduced speed only."
+              }
+            },
+            {
+              "name": "Church of the Nativity of the Theotokos",
+              "tip_5lang": {
+                "de": "Abschluss vor Sonnenuntergang (ca. 16 Uhr); Lichtanlage am Rad prüfen.",
+                "hu": "Befejezés naplemente előtt (kb. 16 óra); ellenőrizze a világítást.",
+                "ro": "Final înainte de asfințit (aprox. ora 16); verificați sistemul de iluminare.",
+                "en": "Finish before sunset (approx. 4 PM); check your bike's lighting system."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie mehrere dünne Schichten; der Fahrtwind kühlt bei Minusgraden extrem ab.",
+              "Achten Sie auf Streusalzreste, die die Kette und Schaltung angreifen können.",
+              "Die Dämmerung setzt früh ein; reflektierende Kleidung ist ab 15:30 Uhr Pflicht.",
+              "Prüfen Sie den Reifendruck; bei Kälte sinkt dieser schneller ab."
+            ],
+            "hu": [
+              "Öltözzön rétegesen; a menetszél fagypont alatt extrém módon hűt.",
+              "Ügyeljen az útszóró sóra, amely károsíthatja a láncot és a váltót.",
+              "Korán sötétedik; a fényvisszaverő ruházat 15:30 után kötelező.",
+              "Ellenőrizze a guminyomást; hidegben az gyorsabban csökken."
+            ],
+            "ro": [
+              "Purtați mai multe straturi subțiri; vântul răcește extrem de mult la temperaturi negative.",
+              "Atenție la resturile de sare de pe drum, care pot ataca lanțul și schimbătorul.",
+              "Amurgul vine devreme; îmbrăcămintea reflectorizantă este obligatorie după 15:30.",
+              "Verificați presiunea în anvelope; aceasta scade mai repede la frig."
+            ],
+            "en": [
+              "Wear multiple thin layers; the wind chill factor is extreme at sub-zero temperatures.",
+              "Watch out for road salt residues that can corrode the chain and gears.",
+              "Dusk arrives early; reflective gear is mandatory from 3:30 PM onwards.",
+              "Check tire pressure frequently; it drops faster in cold weather."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -798,6 +1162,188 @@
           "Parking in the city center can be challenging, look for designated parking areas.",
           "If you have time, combine your visit with wine tasting in the nearby Negotin region."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Fahrt nach Felix Romuliana beginnt mit Scheibenwischern im Dauereinsatz. Die antiken Ruinen wirken im Regen besonders mystisch. Zurück in der Stadt bietet das Museum einen trockenen Stützpunkt. Nach einem gemütlichen Mittagessen führt die Fahrt zum Aussichtspunkt Kraljevica, wo die Wolken tief über Zaječar hängen.",
+            "hu": "Az út Felix Romuliana felé folyamatos ablaktörléssel kezdődik. Az antik romok az esőben különösen misztikusnak tűnnek. Visszatérve a városba, a múzeum nyújt száraz bázist. Egy kényelmes ebéd után az út a Kraljevica kilátóhoz vezet, ahol a felhők alacsonyan függnek Zaječar felett.",
+            "ro": "Drumul spre Felix Romuliana începe cu ștergătoarele în funcțiune continuă. Ruinele antice par deosebit de mistice în ploaie. Revenind în oraș, muzeul oferă o bază uscată. După un prânz relaxat, urcăm la punctul de belvedere Kraljevica, unde norii stau joși deasupra orașului.",
+            "en": "The drive to Felix Romuliana begins with wipers on constant duty. The ancient ruins look particularly mystical in the rain. Back in town, the museum provides a dry base. After a leisurely lunch, the drive leads to the Kraljevica viewpoint, where clouds hang low over Zaječar."
+          },
+          "stops": [
+            {
+              "name": "Felix Romuliana",
+              "tip_5lang": {
+                "de": "Vorsicht auf den antiken Steinen; diese sind bei Regen extrem rutschig.",
+                "hu": "Vigyázzon az antik köveken; esőben ezek rendkívül csúszóssá válnak.",
+                "ro": "Atenție pe pietrele antice; acestea devin extrem de alunecoase pe ploaie.",
+                "en": "Be careful on the ancient stones; they become extremely slippery when wet."
+              }
+            },
+            {
+              "name": "National Museum Zaječar",
+              "tip_5lang": {
+                "de": "Parkplätze in der Nähe nutzen; idealer Ort, um die Regenpause zu maximieren.",
+                "hu": "Használja a közeli parkolókat; ideális hely az esőszünet kihasználására.",
+                "ro": "Folosiți parcările din apropiere; locul ideal pentru a maximiza pauza de ploaie.",
+                "en": "Use nearby parking spots; the perfect place to maximize your dry time."
+              }
+            },
+            {
+              "name": "Radul Beg's Konak",
+              "tip_5lang": {
+                "de": "Zentrale Lage; kurzer Weg vom Parkplatz zum Eingang einplanen.",
+                "hu": "Központi elhelyezkedés; tervezzen rövid sétát a parkolótól a bejáratig.",
+                "ro": "Locație centrală; planificați un drum scurt de la parcare la intrare.",
+                "en": "Central location; plan for a short walk from the parking lot to the entrance."
+              }
+            },
+            {
+              "name": "Lunch in the city center",
+              "tip_5lang": {
+                "de": "Restaurants mit Innenbereich wählen; Zeit für die Trocknung der Kleidung nutzen.",
+                "hu": "Válasszon belső teres éttermet; használja az időt a ruhák megszárítására.",
+                "ro": "Alegeți restaurante cu interior; folosiți timpul pentru a vă usca hainele.",
+                "en": "Choose restaurants with indoor seating; use the time to dry off your gear."
+              }
+            },
+            {
+              "name": "Kraljevica Forest Park",
+              "tip_5lang": {
+                "de": "Auffahrt asphaltiert; Vorsicht vor Aquaplaning in den Kurven.",
+                "hu": "Az út aszfaltozott; vigyázzon a kanyarokban az aquaplaning veszélyére.",
+                "ro": "Drumul de urcare este asfaltat; atenție la acvaplanare în curbe.",
+                "en": "The access road is paved; watch out for hydroplaning in the curves."
+              }
+            },
+            {
+              "name": "Viewpoint in Kraljevica",
+              "tip_5lang": {
+                "de": "Sicht kann durch Nebel eingeschränkt sein; im Auto bleiben, falls es schüttet.",
+                "hu": "A kilátást korlátozhatja a köd; maradjon az autóban, ha szakad az eső.",
+                "ro": "Vizibilitatea poate fi redusă de ceață; rămâneți în mașină dacă plouă torențial.",
+                "en": "Visibility may be limited by fog; stay in the car if it's pouring."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Landstraße nach Gamzigrad (Romuliana) kann bei Starkregen Pfützen bilden.",
+              "Nutzen Sie die Parkhäuser im Zentrum, um trockenen Fußes in die Museen zu gelangen.",
+              "Achten Sie auf Fußgänger am Straßenrand, die oft unter Regenschirmen schlechte Sicht haben.",
+              "Halten Sie die Scheibenbeschlagung durch die Klimaanlage unter Kontrolle."
+            ],
+            "hu": [
+              "A Gamzigrad (Romuliana) felé vezető országúton heves esőben tócsák alakulhatnak ki.",
+              "Használja a belvárosi parkolókat, hogy száraz lábbal juthasson a múzeumokba.",
+              "Vigyázzon az út szélén haladó gyalogosokra, az esernyők korlátozzák a látásukat.",
+              "Tartsa kordában a szélvédő párásodását a légkondicionáló segítségével."
+            ],
+            "ro": [
+              "Drumul spre Gamzigrad (Romuliana) poate avea bălți mari la ploi torențiale.",
+              "Folosiți parcările centrale pentru a ajunge cu picioarele uscate la muzee.",
+              "Atenție la pietonii de pe marginea drumului, umbrelele le reduc vizibilitatea.",
+              "Mențineți parbrizul dezaburit cu ajutorul sistemului de climatizare."
+            ],
+            "en": [
+              "The road to Gamzigrad (Romuliana) can develop deep puddles during heavy rain.",
+              "Use central parking lots to ensure you reach the museums with dry feet.",
+              "Watch out for pedestrians on the roadside; umbrellas often block their view.",
+              "Keep window fogging under control by using the air conditioning."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein winterlicher Roadtrip beginnt mit der Fahrt zur verschneiten Felix Romuliana. Die antiken Mauern bilden einen starken Kontrast zum Weiß. In der Stadt wartet das warme Museum. Nach dem Mittagessen führt die Auffahrt zum Kraljevica Aussichtspunkt, von wo aus man das winterliche Zaječar im Abendlicht überblickt.",
+            "hu": "Téli autós kirándulás a havas Felix Romuliana meglátogatásával indul. Az antik falak éles kontrasztot alkotnak a fehér tájjal. A városban a meleg múzeum várja. Ebéd után az út a Kraljevica kilátóhoz vezet, ahonnan belátni a téli Zaječart az esti fényekben.",
+            "ro": "O excursie auto de iarnă începe cu vizita la Felix Romuliana înzăpezită. Zidurile antice fac un contrast puternic cu albul zăpezii. În oraș, ne așteaptă muzeul călduros. După prânz, urcăm la belvederea Kraljevica, de unde admirăm Zaječarul hibernal în lumina serii.",
+            "en": "A winter road trip begins with a drive to the snow-covered Felix Romuliana. The ancient walls stand in sharp contrast to the white landscape. In town, the warm museum awaits. After lunch, the drive leads to the Kraljevica viewpoint for an evening look over winter Zaječar."
+          },
+          "stops": [
+            {
+              "name": "Felix Romuliana",
+              "tip_5lang": {
+                "de": "Winterausrüstung für das Auto nötig; der Parkplatz kann vereist sein.",
+                "hu": "Téli felszerelés szükséges az autóhoz; a parkoló jeges lehet.",
+                "ro": "Echipament de iarnă necesar pentru mașină; parcarea poate fi înghețată.",
+                "en": "Winter car equipment is mandatory; the parking area might be icy."
+              }
+            },
+            {
+              "name": "National Museum Zaječar",
+              "tip_5lang": {
+                "de": "Heizung genießen; idealer Stopp, um die Batterien der Kamera aufzuwärmen.",
+                "hu": "Élvezze a fűtést; ideális megálló a fényképezőgép akkumulátorainak bemelegítésére.",
+                "ro": "Bucurați-vă de căldură; oprire ideală pentru a încălzi bateriile camerei foto.",
+                "en": "Enjoy the heating; an ideal stop to warm up your camera batteries."
+              }
+            },
+            {
+              "name": "Radul Beg's Konak",
+              "tip_5lang": {
+                "de": "Kurzer Spaziergang vom Auto; Parkplatzsituation im Winter meist entspannt.",
+                "hu": "Rövid séta az autótól; a parkolási helyzet télen általában nyugodt.",
+                "ro": "Plimbare scurtă de la mașină; situația parcării este relaxată iarna.",
+                "en": "Short walk from the car; parking is usually easier to find in winter."
+              }
+            },
+            {
+              "name": "Lunch in the city center",
+              "tip_5lang": {
+                "de": "Aufwärmen bei einer heißen Suppe; Parken in der blauen Zone prüfen.",
+                "hu": "Melegedjen fel egy forró levessel; ellenőrizze a parkolást a kék zónában.",
+                "ro": "Încălziți-vă cu o supă fierbinte; verificați parcarea în zona albastră.",
+                "en": "Warm up with a hot soup; check for parking in the blue zone."
+              }
+            },
+            {
+              "name": "Kraljevica Forest Park",
+              "tip_5lang": {
+                "de": "Auffahrt kann glatt sein; Winterreifen mit gutem Profil sind Pflicht.",
+                "hu": "Az emelkedő csúszós lehet; a jó állapotú téli gumi kötelező.",
+                "ro": "Urcarea poate fi alunecoasă; anvelopele de iarnă cu profil bun sunt obligatorii.",
+                "en": "The climb can be slippery; winter tires with good tread are mandatory."
+              }
+            },
+            {
+              "name": "Viewpoint in Kraljevica",
+              "tip_5lang": {
+                "de": "Frühzeitig ankommen (vor 16 Uhr); der Abstieg im Dunkeln erfordert Vorsicht.",
+                "hu": "Érkezzen korán (16 óra előtt); a sötétben való leereszkedés óvatosságot igényel.",
+                "ro": "Sosiți devreme (înainte de ora 16); coborârea pe întuneric necesită atenție.",
+                "en": "Arrive early (before 4 PM); descending in the dark requires extra caution."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Frostschutz in der Scheibenwaschanlage vor der Fahrt nach Romuliana.",
+              "Die Bergstraße in Kraljevica wird im Winter geräumt, kann aber nachts gefrieren.",
+              "Parken Sie im Stadtzentrum bevorzugt in beleuchteten Bereichen.",
+              "Halten Sie eine Decke und Enteiserspray im Fahrzeug bereit."
+            ],
+            "hu": [
+              "A Romuliana felé tartó út előtt ellenőrizze a fagyállót a szélvédőmosóban.",
+              "A Kraljevica hegyi utat télen takarítják, de éjszaka visszafagyhat.",
+              "A belvárosban lehetőleg jól kivilágított helyen parkoljon.",
+              "Tartson takarót és jégoldó spray-t az autóban."
+            ],
+            "ro": [
+              "Verificați lichidul de parbriz antigel înainte de drumul spre Romuliana.",
+              "Drumul montan din Kraljevica este curățat, dar poate îngheța noaptea.",
+              "Parcați de preferință în zone bine iluminate în centrul orașului.",
+              "Păstrați o pătură și spray de dezghețare în autovehicul."
+            ],
+            "en": [
+              "Check the anti-freeze level in your windshield washer before driving to Romuliana.",
+              "The mountain road in Kraljevica is cleared but can freeze over at night.",
+              "Prefer parking in well-lit areas in the city center.",
+              "Keep a blanket and de-icer spray ready in your vehicle."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1062,6 +1608,188 @@
           "Bus schedules may not always be accurate, so plan for buffer time.",
           "Ask locals for the correct bus line if you are unsure."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag beginnt mit der Fahrt zum Nationalmuseum. Busunterstände bieten Schutz am Monument und Theater. Die Fahrt zur Popova Beach ist kurz, aber der Timok wirkt bei Regen sehr kraftvoll. Den Nachmittag verbringen wir geschützt in Kraljevica, bevor der Tag bei einem gemütlichen Abendessen endet.",
+            "hu": "Esős nap kezdődik a Nemzeti Múzeum felé tartó busszal. A buszvárók védelmet nyújtanak az emlékműnél és a színháznál. A Popova Beach felé tartó út rövid, a Timok pedig lenyűgöző az esőben. A délutánt Kraljevicában töltjük, majd a napot egy kellemes vacsorával zárjuk.",
+            "ro": "O zi ploioasă începe cu drumul spre Muzeul Național. Stațiile de autobuz oferă adăpost la monument și teatru. Drumul spre Popova Beach este scurt, iar Timocul pare foarte puternic pe ploaie. După-amiaza o petrecem protejați în Kraljevica, încheind ziua cu o cină relaxată.",
+            "en": "A rainy day starts with a bus ride to the National Museum. Bus shelters provide cover at the monument and theatre. The trip to Popova Beach is short, but the Timok looks powerful in the rain. We spend the afternoon sheltered in Kraljevica before ending the day with a cozy dinner."
+          },
+          "stops": [
+            {
+              "name": "National Museum Zaječar",
+              "tip_5lang": {
+                "de": "Zentrale Bushaltestelle in der Nähe; Zeit im Museum flexibel gestalten.",
+                "hu": "Központi buszmegálló a közelben; alakítsa rugalmasan a múzeumi időt.",
+                "ro": "Stație centrală de autobuz în apropiere; gestionați flexibil timpul la muzeu.",
+                "en": "Central bus stop nearby; keep your museum visit timing flexible."
+              }
+            },
+            {
+              "name": "Ljuba Didić Monument",
+              "tip_5lang": {
+                "de": "Warten im Unterstand der nahen Haltestelle; kurze Gehdistanz.",
+                "hu": "Várakozás a közeli megálló fedett várójában; rövid gyalogút.",
+                "ro": "Așteptați în stația acoperită din apropiere; distanță scurtă de mers.",
+                "en": "Wait in the nearby covered bus stop; only a short walk away."
+              }
+            },
+            {
+              "name": "Zoran Radmilović Theatre",
+              "tip_5lang": {
+                "de": "Haltestelle direkt vor dem Gebäude; ideal bei Regen.",
+                "hu": "Buszmegálló közvetlenül az épület előtt; ideális esőben.",
+                "ro": "Stație de autobuz chiar în fața clădirii; ideal pe ploaie.",
+                "en": "Bus stop right in front of the building; ideal for rainy weather."
+              }
+            },
+            {
+              "name": "Popova Beach",
+              "tip_5lang": {
+                "de": "Achten Sie auf die Pfützen beim Aussteigen; Gehweg zum Fluss asphaltiert.",
+                "hu": "Ügyeljen a tócsákra leszálláskor; a folyóhoz vezető út aszfaltozott.",
+                "ro": "Atenție la bălți la coborâre; aleea spre râu este asfaltată.",
+                "en": "Watch out for puddles when getting off; the path to the river is paved."
+              }
+            },
+            {
+              "name": "Kraljevica Forest Park",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Buslinie bis zum Parkeingang; Bäume bieten Regenschutz.",
+                "hu": "Használja a buszjáratot a park bejáratáig; a fák védenek az esőtől.",
+                "ro": "Folosiți linia de autobuz până la intrarea în parc; copacii oferă adăpost.",
+                "en": "Take the bus line to the park entrance; trees provide natural rain cover."
+              }
+            },
+            {
+              "name": "Dinner near the park",
+              "tip_5lang": {
+                "de": "Reservierung empfohlen; Bushaltestelle für den Rückweg direkt erreichbar.",
+                "hu": "Foglalás ajánlott; a visszavezető buszmegálló közvetlenül elérhető.",
+                "ro": "Rezervare recomandată; stația de autobuz pentru retur este accesibilă.",
+                "en": "Reservation recommended; bus stop for the return trip is easily accessible."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie die Abfahrtszeiten online; bei Regen kann es zu leichten Verzögerungen kommen.",
+              "Halten Sie Kleingeld für das Ticket bereit, falls kein kontaktloses Bezahlen möglich ist.",
+              "Ein Taschenregenschirm ist für die Wege zwischen Haltestelle und Ziel unerlässlich.",
+              "Vermeiden Sie das Stehen in Pfützennähe an den Haltestellen."
+            ],
+            "hu": [
+              "Ellenőrizze az indulási időket online; esőben előfordulhatnak kisebb késések.",
+              "Legyen Önnél aprópénz a jegyhez, ha az érintésmentes fizetés nem elérhető.",
+              "Az útmenti tócsák miatt maradjon távol az úttest szélétől a megállókban.",
+              "Egy összecsukható esernyő kötelező a megálló és a célpont közötti szakaszokra."
+            ],
+            "ro": [
+              "Verificați orele de plecare online; ploile pot cauza mici întârzieri.",
+              "Aveți pregătit mărunt pentru bilet dacă plata contactless nu este disponibilă.",
+              "Evitați să stați aproape de bordură în stații din cauza stropirii de către mașini.",
+              "O umbrelă compactă este esențială pentru segmentele dintre stație și obiective."
+            ],
+            "en": [
+              "Check departure times online; rain may cause slight transit delays.",
+              "Keep small change ready for tickets if contactless payment isn't available.",
+              "Stay away from the curb at stops to avoid being splashed by passing cars.",
+              "A compact umbrella is essential for the walks between stops and destinations."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintertag in Zaječar beginnt in beheizten Bussen auf dem Weg zum Nationalmuseum. Kurze Wege verbinden das Monument und das Theater. Die Fahrt zur Popova Beach zeigt den Timok in winterlicher Stille. Nach einem Nachmittag in Kraljevica wärmen wir uns bei einem Abendessen in Parknähe wieder auf.",
+            "hu": "Téli nap Zaječarban fűtött buszokkal, úton a Nemzeti Múzeum felé. Rövid séták kötik össze az emlékművet és a színházat. A Popova Beach felé tartó út a téli csendben lévő Timokot mutatja. A Kraljevicában töltött délután után egy parkközeli vacsoránál melegedünk fel.",
+            "ro": "Ziua de iarnă în Zaječar începe în autobuze încălzite spre Muzeul Național. Distanțe scurte leagă monumentul de teatru. Drumul spre Popova Beach arată Timocul în liniștea iernii. După o după-amiază în Kraljevica, ne încălzim la o cină lângă parc.",
+            "en": "A winter day in Zaječar begins in heated buses heading to the National Museum. Short walks connect the monument and the theatre. The trip to Popova Beach reveals the Timok in its winter stillness. After an afternoon in Kraljevica, we warm up at a dinner near the park."
+          },
+          "stops": [
+            {
+              "name": "National Museum Zaječar",
+              "tip_5lang": {
+                "de": "Heißgetränk im Museumscafé oder in der Nähe genießen; Heizung im Bus meist gut.",
+                "hu": "Élvezzen egy forró italt a múzeumi kávézóban; a fűtés a buszokon általában jó.",
+                "ro": "Savurați o băutură caldă la cafeneaua muzeului; încălzirea în autobuz e de obicei bună.",
+                "en": "Enjoy a hot drink at the museum cafe; bus heating is usually reliable."
+              }
+            },
+            {
+              "name": "Ljuba Didić Monument",
+              "tip_5lang": {
+                "de": "Fahrtwind an der Haltestelle vermeiden; im Businneren warten, falls möglich.",
+                "hu": "Kerülje a menetszelet a megállóban; várjon a váróteremben, ha van.",
+                "ro": "Evitați curentul în stație; așteptați în interiorul stației dacă este posibil.",
+                "en": "Avoid the wind chill at the stop; wait inside the shelter if available."
+              }
+            },
+            {
+              "name": "Zoran Radmilović Theatre",
+              "tip_5lang": {
+                "de": "Abendvorstellungen prüfen; der Busverkehr ist bis spät abends getaktet.",
+                "hu": "Ellenőrizze az esti előadásokat; a buszközlekedés késő estig üzemel.",
+                "ro": "Verificați spectacolele de seară; transportul în comun circulă până târziu.",
+                "en": "Check for evening performances; bus service runs until late evening."
+              }
+            },
+            {
+              "name": "Popova Beach",
+              "tip_5lang": {
+                "de": "Kurzer Aufenthalt; achten Sie auf glatte Stellen beim Ein- und Aussteigen.",
+                "hu": "Rövid tartózkodás; ügyeljen a jeges részekre a fel- és leszállásnál.",
+                "ro": "Ședere scurtă; atenție la porțiunile înghețate la urcare și coborâre.",
+                "en": "Short stay; watch out for icy patches when getting on or off the bus."
+              }
+            },
+            {
+              "name": "Kraljevica Forest Park",
+              "tip_5lang": {
+                "de": "Letzte Busse vor Einbruch der Dunkelheit nutzen; Parkwege sind unbeleuchtet.",
+                "hu": "Használja az utolsó buszokat sötétedés előtt; a park ösvényei nincsenek kivilágítva.",
+                "ro": "Folosiți ultimele autobuze înainte de întuneric; potecile parcului nu sunt iluminate.",
+                "en": "Take the last buses before dark; the park paths are not illuminated."
+              }
+            },
+            {
+              "name": "Dinner near the park",
+              "tip_5lang": {
+                "de": "Ein gemütlicher Abschluss; Bushaltestelle für die Heimfahrt in Sichtweite.",
+                "hu": "Hangulatos lezárás; a hazafelé tartó busz megállója látótávolságban van.",
+                "ro": "Un final primitor; stația de autobuz pentru retur este în raza vizuală.",
+                "en": "A cozy finish; the bus stop for the return trip is within sight."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Busse sind im Winter meist gut beheizt, ideal zum Aufwärmen.",
+              "Fahrpläne können bei starkem Schneefall leicht abweichen; nutzen Sie Apps.",
+              "Achten Sie auf Streusalz in den Bussen, das die Schuhe angreifen kann.",
+              "Tragen Sie warme Socken, da das Stehen an Haltestellen die Füße auskühlt."
+            ],
+            "hu": [
+              "A buszok télen általában jól fűtöttek, ideálisak a bemelegedéshez.",
+              "Erős havazáskor a menetrendek módosulhatnak; használja a helyi alkalmazásokat.",
+              "Ügyeljen a buszokon lévő hólére és sóra, amely károsíthatja a cipőjét.",
+              "Viseljen meleg zoknit, mert a megállókban való várakozáskor a lábfej hűl le leggyorsabban."
+            ],
+            "ro": [
+              "Autobuzele sunt de obicei bine încălzite iarna, fiind ideale pentru încălzire.",
+              "Orarele se pot modifica la ninsori puternice; folosiți aplicațiile locale.",
+              "Atenție la sarea și umezeala din autobuze, care pot afecta încălțămintea.",
+              "Purtați șosete groase, deoarece așteptarea în stații răcește rapid picioarele."
+            ],
+            "en": [
+              "Buses are usually well-heated in winter, making them ideal for warming up.",
+              "Schedules may shift during heavy snowfall; use local transit apps for updates.",
+              "Watch out for slush and salt inside the buses, which can damage your footwear.",
+              "Wear warm socks, as waiting at stops is when your feet will get coldest."
+            ]
+          }
+        }
       }
     }
   }

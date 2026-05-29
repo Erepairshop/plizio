@@ -358,6 +358,188 @@
           "Most attractions are located close to each other.",
           "Take time for a 'fika', the Swedish coffee break, to relax and soak in the atmosphere."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet der Hertig Johans Square trotz Regen eine urbane Atmosphäre, während die nahe Kirche trockenen Unterschlupf bietet. Mittags verlagert sich das Geschehen in das Kulturhaus und das Balthazar Science Center, ideal für Stunden im Trockenen. Nachmittags führt ein kurzer, regnerischer Spaziergang zum Boulognerskogen Park, bevor der Tag gemütlich in der Innenstadt endet.",
+            "hu": "Reggel a Hertig Johans tér esős, de hangulatos központjából indulunk, a Szent Heléna templom pedig tökéletes fedett menedék. Délben a Kulturális Központ és a Balthazar Tudományos Központ falai között maradunk szárazon. Délután a Boulognerskogen park óriási fái alatt teszünk egy gyors sétát, majd a belváros meleg éttermeiben zárjuk a napot az eső elől elrejtőzve.",
+            "ro": "Dimineața începe în Piața Hertig Johans, cu o vizită rapidă la Biserica Sfânta Elena pentru a evita ploaia. La prânz, activitățile se mută la Casa de Cultură și Centrul Științific Balthazar, spații interioare perfecte. După-amiaza, o plimbare scurtă prin Parcul Boulognerskogen sub umbrelă oferă un aer proaspăt, finalizând ziua într-o locație caldă din centru.",
+            "en": "Morning starts at Hertig Johans Square, using Saint Helena's Church as a dry retreat. Midday is spent entirely indoors at the Culture House and Balthazar Science Center, avoiding the wet weather. In the afternoon, a brisk walk with an umbrella through Boulognerskogen Park provides fresh air before returning to the cozy city center for dinner."
+          },
+          "stops": [
+            {
+              "name": "Hertig Johans Square",
+              "tip_5lang": {
+                "de": "Die Arkaden der umliegenden Geschäfte bieten Schutz vor plötzlichen Schauern.",
+                "hu": "A környékbeli üzletek árkádjai alatt védve maradhatsz a hirtelen zivataroktól.",
+                "ro": "Arcadele magazinelor din jur oferă adăpost bun împotriva averselor bruște.",
+                "en": "The arcades of the surrounding shops offer good shelter from sudden showers."
+              }
+            },
+            {
+              "name": "Saint Helena's Church",
+              "tip_5lang": {
+                "de": "Ein ruhiger, trockener Ort, um den stärksten Regen am Vormittag abzuwarten.",
+                "hu": "Csendes, száraz helyszín a délelőtti intenzívebb eső kivárására.",
+                "ro": "Un loc liniștit și uscat pentru a aștepta trecerea ploii mai intense de dimineață.",
+                "en": "A quiet, dry spot to wait out the heavier morning rain."
+              }
+            },
+            {
+              "name": "Skövde Culture House",
+              "tip_5lang": {
+                "de": "Großes Foyer und Café, perfekt um die nasse Kleidung abzulegen.",
+                "hu": "Tágas előtér és kávézó, ideális a vizes ruhák levételéhez és pihenéshez.",
+                "ro": "Foaier mare și cafenea, ideale pentru a lăsa hainele umede și a te relaxa.",
+                "en": "Large foyer and café, perfect for shedding wet layers and relaxing."
+              }
+            },
+            {
+              "name": "Balthazar Science Center",
+              "tip_5lang": {
+                "de": "Komplett überdacht; ideal für Familien an einem regnerischen Tag.",
+                "hu": "Teljesen fedett helyszín, esős napon a legjobb választás családoknak.",
+                "ro": "Complet interior; cea mai bună alegere pentru familii într-o zi ploioasă.",
+                "en": "Entirely indoors; the best choice for families on a rainy day."
+              }
+            },
+            {
+              "name": "Lunch in the Center",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit Garderobe für nasse Regenschirme.",
+                "hu": "Válassz olyan éttermet, ahol van hely a vizes esernyők tárolására.",
+                "ro": "Alege un restaurant cu spațiu pentru depozitarea umbrelelor ude.",
+                "en": "Choose a restaurant with space to store wet umbrellas."
+              }
+            },
+            {
+              "name": "Boulognerskogen Park",
+              "tip_5lang": {
+                "de": "Die dichten Bäume bieten natürlichen Schutz, dennoch sind feste Schuhe ratsam.",
+                "hu": "A sűrű lombkorona védelmet nyújt, de a sár miatt vízálló cipő javasolt.",
+                "ro": "Copacii deși oferă protecție naturală, dar încălțămintea impermeabilă e necesară.",
+                "en": "The thick canopy offers natural cover, but waterproof shoes are recommended for mud."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die kurzen Wege zwischen Kulturhuset und Balthazar für trockene Übergänge.",
+              "Regenfeste Kleidung ist in Skövde bei diesem Wetter unerlässlich.",
+              "Die Arena Skövde bietet bei Dauerregen eine großartige Indoor-Alternative.",
+              "Viele Cafés im Zentrum haben gemütliche Fenstersitzplätze zum Regen-Beobachten."
+            ],
+            "hu": [
+              "Használd ki a rövid távolságokat a Kulturhuset és a Balthazar között.",
+              "Vízálló réteges öltözet kötelező, az esernyőt a szél tönkreteheti.",
+              "Az Arena Skövde fürdője kiváló B-terv tartós eső esetén.",
+              "A belvárosi kávézók ablak melletti asztalai hangulatosak esőben."
+            ],
+            "ro": [
+              "Profită de distanțele scurte între Kulturhuset și Balthazar pentru a rămâne uscat.",
+              "Îmbrăcămintea impermeabilă este esențială, umbrelele pot fi afectate de vânt.",
+              "Arena Skövde oferă o alternativă interioară excelentă în caz de ploaie continuă.",
+              "Cafenelele din centru au locuri la geam foarte primitoare pe timp de ploaie."
+            ],
+            "en": [
+              "Take advantage of the short distances between Kulturhuset and Balthazar to stay dry.",
+              "Waterproof layered clothing is essential; umbrellas can be tricky in the wind.",
+              "Arena Skövde's water park is a great indoor backup for persistent rain.",
+              "Many downtown cafés offer cozy window seating for rain-watching."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der verschneite Hertig Johans Square erstrahlt im Morgenlicht, während die warme Kirche zum Verweilen einlädt. Mittags bieten das Kulturhaus und das Balthazar-Zentrum beheizte Räume zum Aufwärmen. Da es bereits gegen 15:30 Uhr dunkel wird, bietet der Boulognerskogen Park eine magische, beleuchtete Kulisse für einen kurzen Winterspaziergang am Nachmittag.",
+            "hu": "A havas Hertig Johans tér téli reggeli fényekben úszik, a templom pedig meleg menedéket ad. Délben a Kulturális Központ és a Balthazar fűtött tereiben melegszünk fel. Mivel 15:30-kor már sötétedik, a Boulognerskogen park kivilágított ösvényei varázslatos hangulatot árasztanak egy rövid délutáni sétához a hidegben.",
+            "ro": "Piața Hertig Johans acoperită de zăpadă strălucește dimineața, iar biserica oferă un refugiu cald. La prânz, Casa de Cultură și Balthazar sunt puncte esențiale pentru încălzire. Deoarece se întunecă în jurul orei 15:30, Parcul Boulognerskogen devine magic sub lumini pentru o scurtă plimbare de iarnă.",
+            "en": "Snowy Hertig Johans Square glows in the morning light, with the warm church offering a peaceful start. Midday is focused on heated indoor spaces at the Culture House and Balthazar. With sunset around 15:30, Boulognerskogen Park provides a magical, lit backdrop for a crisp winter afternoon walk."
+          },
+          "stops": [
+            {
+              "name": "Hertig Johans Square",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stellen; der Platz wird oft festlich beleuchtet.",
+                "hu": "Vigyázz a jeges foltokra; a teret télen gyakran ünnepi fények díszítik.",
+                "ro": "Atenție la porțiunile cu gheață; piața este adesea iluminată festiv.",
+                "en": "Watch out for icy patches; the square is often festively lit in winter."
+              }
+            },
+            {
+              "name": "Saint Helena's Church",
+              "tip_5lang": {
+                "de": "Ein hervorragender Ort, um die Kälte für einige Momente zu vergessen.",
+                "hu": "Kiváló helyszín, hogy pár percre elfelejtsd a kinti fagyos levegőt.",
+                "ro": "Un loc excelent pentru a uita de gerul de afară pentru câteva momente.",
+                "en": "An excellent place to escape the freezing air for a few moments."
+              }
+            },
+            {
+              "name": "Skövde Culture House",
+              "tip_5lang": {
+                "de": "Genießen Sie eine heiße Schokolade im Café während der Mittagspause.",
+                "hu": "Élvezz egy forró csokoládét a kávézóban a déli pihenő alatt.",
+                "ro": "Savurează o ciocolată caldă în cafenea în timpul pauzei de prânz.",
+                "en": "Enjoy a hot chocolate in the café during your midday break."
+              }
+            },
+            {
+              "name": "Balthazar Science Center",
+              "tip_5lang": {
+                "de": "Perfekt beheizt, bietet es stundenlange Unterhaltung fernab vom Frost.",
+                "hu": "Tökéletesen fűtött, órákig tartó szórakozást nyújt a fagy elől menekülve.",
+                "ro": "Încălzit perfect, oferă divertisment pentru ore întregi, departe de ger.",
+                "en": "Perfectly heated, offering hours of entertainment away from the frost."
+              }
+            },
+            {
+              "name": "Lunch in the Center",
+              "tip_5lang": {
+                "de": "Suchen Sie ein Restaurant mit herzhaften schwedischen Wintergerichten.",
+                "hu": "Keress olyan éttermet, ahol kiadós svéd téli ételeket szolgálnak fel.",
+                "ro": "Caută un restaurant care servește preparate suedeze consistente de iarnă.",
+                "en": "Look for a restaurant serving hearty Swedish winter dishes."
+              }
+            },
+            {
+              "name": "Boulognerskogen Park",
+              "tip_5lang": {
+                "de": "Kurzer Spaziergang vor Sonnenuntergang (ca. 15:30) empfehlenswert.",
+                "hu": "A naplemente (kb. 15:30) előtti rövid séta kifejezetten ajánlott.",
+                "ro": "O plimbare scurtă înainte de apus (aprox. 15:30) este recomandată.",
+                "en": "A short walk before sunset (around 15:30) is highly recommended."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermo-Unterwäsche und Wollsocken für den Stadtspaziergang.",
+              "Die Sonne geht sehr früh unter; planen Sie Outdoor-Fotos vor 15:00 Uhr.",
+              "In Skövde gibt es im Winter oft eine öffentliche Schlittschuhbahn.",
+              "Nutzen Sie die beheizten Busse für längere Distanzen zwischen den Vierteln."
+            ],
+            "hu": [
+              "Viselj termikus alsóneműt és gyapjúzoknit a városi sétához.",
+              "A nap nagyon korán nyugszik, a szabadtéri fotókat 15:00 előtt készítsd el.",
+              "Skövde központjában télen gyakran van nyilvános korcsolyapálya.",
+              "Használd a fűtött buszokat a városrészek közötti hosszabb távokra."
+            ],
+            "ro": [
+              "Poartă lenjerie termică și șosete de lână pentru plimbarea prin oraș.",
+              "Soarele apune foarte devreme; planifică pozele afară înainte de ora 15:00.",
+              "În centrul orașului Skövde există adesea un patinoar public iarna.",
+              "Folosește autobuzele încălzite pentru distanțe mai mari între cartiere."
+            ],
+            "en": [
+              "Wear thermal underwear and wool socks for the city walk.",
+              "The sun sets very early; plan outdoor photos before 15:00.",
+              "There is often a public ice rink in central Skövde during winter.",
+              "Utilize heated buses for longer distances between neighborhoods."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -710,6 +892,188 @@
           "A helmet is recommended.",
           "Plan your route to avoid hills unless you're looking for a challenge."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour beginnt am nassen Marktplatz, wobei Schutzbleche heute unverzichtbar sind. Nach Stopps im Kulturhaus und der Kirche bietet die Arena Skövde eine willkommene trockene Abwechslung. Mittags wird das Balthazar-Zentrum zum Hauptziel, bevor die Fahrt durch den feuchten Boulognerskogen Park den Tag abrundet.",
+            "hu": "A bringázás a vizes piactéren kezdődik, ahol a sárvédő ma elengedhetetlen. A Kulturális Központ és a templom után az Arena Skövde ad száraz pihenőt. Délben a Balthazar központ a fő állomás, majd a napot a párás Boulognerskogen parkon átvágva zárjuk, ügyelve a csúszós utakra.",
+            "ro": "Turul cu bicicleta începe în piața umedă, unde apărătorile de noroi sunt indispensabile. După vizite la Casa de Cultură și biserică, Arena Skövde oferă o pauză uscată binevenită. La prânz, centrul Balthazar este destinația principală, încheind ziua prin Parcul Boulognerskogen.",
+            "en": "The bike ride starts at the wet market square, where mudguards are essential today. After visiting the Culture House and church, Arena Skövde provides a welcome dry break. Midday is spent at the Balthazar center before finishing the day cycling through the misty Boulognerskogen Park."
+          },
+          "stops": [
+            {
+              "name": "Hertig Johans Square",
+              "tip_5lang": {
+                "de": "Vorsicht beim Anfahren auf nassem Kopfsteinpflaster.",
+                "hu": "Vigyázz az induláskor a vizes macskaköveken.",
+                "ro": "Atenție la plecare pe pavajul umed din piață.",
+                "en": "Be careful when starting off on wet cobblestones."
+              }
+            },
+            {
+              "name": "Skövde Culture House",
+              "tip_5lang": {
+                "de": "Fahrradständer befinden sich direkt am Eingang für schnellen Zugang.",
+                "hu": "A biciklitárolók közvetlenül a bejáratnál vannak a gyors bejutáshoz.",
+                "ro": "Rafturile pentru biciclete sunt chiar la intrare pentru acces rapid.",
+                "en": "Bike racks are located right by the entrance for quick access."
+              }
+            },
+            {
+              "name": "Saint Helena's Church",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad unter Bäumen ab, um den Sattel trocken zu halten.",
+                "hu": "Parkolj a fák alá, hogy a nyereg szárazabb maradjon.",
+                "ro": "Parchează sub copaci pentru a menține șaua mai uscată.",
+                "en": "Park under trees to help keep your saddle dry."
+              }
+            },
+            {
+              "name": "Arena Skövde",
+              "tip_5lang": {
+                "de": "Ein guter Ort für eine längere Pause im Trockenen.",
+                "hu": "Jó helyszín egy hosszabb, száraz pihenőhöz.",
+                "ro": "Un loc bun pentru o pauză mai lungă la adăpost.",
+                "en": "A good location for a longer break in the dry."
+              }
+            },
+            {
+              "name": "Balthazar Science Center",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Schließfächer für nasse Helme und Jacken.",
+                "hu": "Használd az öltözőszekrényeket a vizes sisakok és kabátok tárolására.",
+                "ro": "Folosește dulapurile pentru căștile și jachetele ude.",
+                "en": "Use the lockers for wet helmets and jackets."
+              }
+            },
+            {
+              "name": "Cycle to and through Boulognerskogen Park",
+              "tip_5lang": {
+                "de": "Vermeiden Sie Pfützen, da diese tiefer sein können als erwartet.",
+                "hu": "Kerüld a tócsákat, mert mélyebbek lehetnek a vártnál.",
+                "ro": "Evită bălțile, deoarece pot fi mai adânci decât par.",
+                "en": "Avoid puddles as they can be deeper than expected."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vollständige Regenbekleidung inklusive Überschuhen wird empfohlen.",
+              "Prüfen Sie Ihre Bremsen, da der Bremsweg auf nasser Fahrbahn länger ist.",
+              "Die Fahrradwege in Skövde sind gut markiert, aber bei Regen rutschig.",
+              "Ein Plastiküberzug für den Sattel schützt vor Nässe während der Pausen."
+            ],
+            "hu": [
+              "Teljes esőruházat és kamásli használata erősen ajánlott.",
+              "Ellenőrizd a fékeket, mert a fékút vizes úton jelentősen megnő.",
+              "Skövde kerékpárútjai jól jelzettek, de esőben csúszósak lehetnek.",
+              "Egy műanyag nyeregvédő megóvja az ülést a víztől a pihenők alatt."
+            ],
+            "ro": [
+              "Se recomandă echipament complet de ploaie, inclusiv protecții pentru pantofi.",
+              "Verifică frânele, deoarece distanța de frânare crește pe asfalt umed.",
+              "Pistele de biciclete sunt bine marcate, dar pot deveni alunecoase.",
+              "O husă de plastic pentru șa protejează împotriva umezelii în timpul pauzelor."
+            ],
+            "en": [
+              "Full rain gear including shoe covers is highly recommended.",
+              "Check your brakes as stopping distance increases on wet surfaces.",
+              "Skövde's bike paths are well-marked but can be slippery in the rain.",
+              "A plastic saddle cover will keep your seat dry during breaks."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in Skövde erfordert Vorsicht auf dem frostigen Marktplatz. Das Kulturhaus und die Arena bieten wichtige Wärmestopps während der Tour. Mittags ist das Balthazar-Zentrum ein idealer Rückzugsort. Da der Boulognerskogen Park am Nachmittag früh im Schatten liegt, ist eine gute Beleuchtung am Fahrrad für die Rückfahrt entscheidend.",
+            "hu": "A téli bringázás Skövde fagyos piacterén óvatosságot igényel. A Kulturális Központ és az Arena fontos melegedőpontok a túra során. Délben a Balthazar központ ideális menedék a hideg elől. Mivel a Boulognerskogen park délután hamar árnyékba kerül, a jó kerékpáros világítás elengedhetetlen a visszaúthoz.",
+            "ro": "Ciclismul de iarnă în Skövde necesită prudență în piața înghețată. Casa de Cultură și Arena sunt puncte esențiale de încălzire. La prânz, centrul Balthazar este un refugiu ideal. Deoarece parcul intră repede în umbră după-amiaza, iluminarea bună a bicicletei este crucială.",
+            "en": "Winter cycling in Skövde requires caution on the frosty market square. The Culture House and Arena serve as vital warming stops. Midday at the Balthazar center offers a perfect escape from the chill. As Boulognerskogen Park gets dark early, good bike lights are essential for the return trip."
+          },
+          "stops": [
+            {
+              "name": "Hertig Johans Square",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenem Spritzwasser auf dem Pflaster.",
+                "hu": "Vigyázz a kikövezett részeken megfagyott felfröccsenő vízre.",
+                "ro": "Atenție la porțiunile înghețate de pe pavaj.",
+                "en": "Watch out for frozen spray and ice on the pavement."
+              }
+            },
+            {
+              "name": "Skövde Culture House",
+              "tip_5lang": {
+                "de": "Kurzes Aufwärmen im Foyer, bevor es weitergeht.",
+                "hu": "Gyors melegedés az előtérben, mielőtt továbbindulnál.",
+                "ro": "O scurtă încălzire în foaier înainte de a continua drumul.",
+                "en": "A quick warm-up in the foyer before continuing your ride."
+              }
+            },
+            {
+              "name": "Saint Helena's Church",
+              "tip_5lang": {
+                "de": "Nutzen Sie den windgeschützten Bereich zum Abstellen des Rades.",
+                "hu": "Használd a szélvédett részeket a kerékpár leállításához.",
+                "ro": "Folosește zonele ferite de vânt pentru a parca bicicleta.",
+                "en": "Use wind-sheltered areas for parking your bike."
+              }
+            },
+            {
+              "name": "Arena Skövde",
+              "tip_5lang": {
+                "de": "Hier können Sie sich vor der letzten Etappe gut aufwärmen.",
+                "hu": "Itt jól felmelegedhetsz az utolsó szakasz előtt.",
+                "ro": "Aici te poți încălzi bine înainte de ultima etapă.",
+                "en": "A great place to warm up thoroughly before the final stretch."
+              }
+            },
+            {
+              "name": "Balthazar Science Center",
+              "tip_5lang": {
+                "de": "Überprüfen Sie den Reifendruck; Kälte kann ihn verringern.",
+                "hu": "Ellenőrizd a guminyomást; a hidegben csökkenhet.",
+                "ro": "Verifică presiunea pneurilor; frigul o poate reduce.",
+                "en": "Check your tire pressure; cold air can cause it to drop."
+              }
+            },
+            {
+              "name": "Cycle to and through Boulognerskogen Park",
+              "tip_5lang": {
+                "de": "Fahren Sie defensiv; Laub unter Schnee kann sehr rutschig sein.",
+                "hu": "Vezess óvatosan; a hó alatti levelek nagyon csúszhatnak.",
+                "ro": "Condu defensiv; frunzele de sub zăpadă pot fi foarte alunecoase.",
+                "en": "Ride defensively; leaves under snow can be very slippery."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Spikereifen sind bei Eis und festgefahrenem Schnee sehr zu empfehlen.",
+              "Tragen Sie winddichte Handschuhe und eine Mütze unter dem Helm.",
+              "Reinigen Sie die Kette nach der Fahrt von Streusalz und Matsch.",
+              "Stellen Sie sicher, dass Ihre Fahrradbeleuchtung hell und voll geladen ist."
+            ],
+            "hu": [
+              "Szöges gumik használata javasolt jég és letaposott hó esetén.",
+              "Viselj szélálló kesztyűt és sisak alá való sapkát.",
+              "A túra után tisztítsd le a láncot az útszóró sótól és latyaktól.",
+              "Győződj meg róla, hogy a lámpáid fényesek és teljesen fel vannak töltve."
+            ],
+            "ro": [
+              "Anvelopele cu ținte sunt recomandate pentru gheață și zăpadă bătătorită.",
+              "Poartă mănuși rezistente la vânt și o căciulă sub cască.",
+              "Curăță lanțul de sare și noroi după fiecare plimbare.",
+              "Asigură-te că luminile bicicletei sunt puternice și complet încărcate."
+            ],
+            "en": [
+              "Studded tires are highly recommended for ice and packed snow.",
+              "Wear windproof gloves and a thin hat under your helmet.",
+              "Clean the salt and slush off your chain after the ride.",
+              "Ensure your bike lights are bright and fully charged for early darkness."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1062,6 +1426,188 @@
           "The cluster-walking method saves time on finding parking spots.",
           "The car gives you the flexibility to also visit more distant nature areas like Ryd Södra."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Fahrt beginnt am nebligen Billingen, wo die Aussicht auf die Seen trotz Regen atmosphärisch ist. Mittags bietet die Fahrt ins Zentrum Komfort und Schutz vor dem Wetter. Nach dem Besuch der Kirche und des Kulturhauses ist das Balthazar-Zentrum ein idealer Indoor-Abschluss, bevor man bequem im Auto die Heimreise antritt.",
+            "hu": "Az út a ködös Billingen-hegyen indul, ahol a tavak látványa esőben is különleges. Délben a központba autózás kényelmet és védelmet nyújt az időjárás elől. A templom és a Kulturális Központ után a Balthazar tudományos központ tökéletes benti program, mielőtt szárazon autóba szállnánk hazafelé.",
+            "ro": "Călătoria începe pe muntele Billingen, unde vederea lacurilor prin ceață este pitorească. La prânz, deplasarea spre centru oferă confort și protecție. După vizitarea bisericii și a Casei de Cultură, centrul Balthazar este finalul ideal la interior, urmat de o întoarcere relaxată cu mașina.",
+            "en": "The drive begins at misty Billingen, where lake views are atmospheric despite the rain. Midday involves a comfortable drive to the center, staying dry between stops. After visiting the church and Culture House, Balthazar provides a perfect indoor finish before a cozy drive back."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Park at Billingen",
+              "tip_5lang": {
+                "de": "Parkplätze nahe dem Aussichtspunkt nutzen, um Fußwege im Regen zu minimieren.",
+                "hu": "Parkolj közel a kilátóhoz, hogy minimalizáld az esőben való gyaloglást.",
+                "ro": "Parchează aproape de punctul de observație pentru a evita ploaia.",
+                "en": "Park close to the viewpoint to minimize walking in the rain."
+              }
+            },
+            {
+              "name": "Walk to Billingen Lakes",
+              "tip_5lang": {
+                "de": "Weg kann schlammig sein; Geländegängige Schuhe einpacken.",
+                "hu": "Az út sáros lehet; vigyél magaddal terepálló cipőt.",
+                "ro": "Traseul poate fi noroios; ia încălțăminte adecvată terenului.",
+                "en": "Paths can be muddy; pack shoes suitable for off-road walking."
+              }
+            },
+            {
+              "name": "Cluster B: Drive to Center, Park at Culture House",
+              "tip_5lang": {
+                "de": "Das Parkhaus am Kulturhuset bietet direkten, trockenen Zugang.",
+                "hu": "A Kulturhuset melletti parkolóház közvetlen, száraz bejutást biztosít.",
+                "ro": "Parcarea supraetajată de la Kulturhuset oferă acces direct și uscat.",
+                "en": "The parking garage at Kulturhuset offers direct, dry access."
+              }
+            },
+            {
+              "name": "Lunch and Walk to Hertig Johans Square",
+              "tip_5lang": {
+                "de": "Zentrales Parken ermöglicht kurze Wege zu den Restaurants.",
+                "hu": "A központi parkolás rövid sétát tesz lehetővé az éttermekig.",
+                "ro": "Parcarea centrală permite un acces rapid către restaurante.",
+                "en": "Central parking allows for short walks to the restaurants."
+              }
+            },
+            {
+              "name": "Walk to Saint Helena's Church",
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Auto reicht meist aus, um trocken zu bleiben.",
+                "hu": "Egy rövid futás az autótól általában elég, hogy száraz maradj.",
+                "ro": "O scurtă fugă de la mașină este suficientă pentru a rămâne uscat.",
+                "en": "A quick dash from the car is usually enough to stay dry."
+              }
+            },
+            {
+              "name": "Cluster C: Drive to Balthazar & Arena",
+              "tip_5lang": {
+                "de": "Großer Parkplatz direkt vor dem Balthazar vorhanden.",
+                "hu": "Tágas parkoló áll rendelkezésre közvetlenül a Balthazar előtt.",
+                "ro": "Parcare spațioasă disponibilă chiar în fața centrului Balthazar.",
+                "en": "Ample parking is available directly in front of Balthazar."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf der Auffahrt zum Billingen.",
+              "Nutzen Sie überdachte Parkhäuser im Zentrum, um das Auto trocken zu beladen.",
+              "Halten Sie ein Handtuch im Auto bereit, um nasse Sitze zu vermeiden.",
+              "Die Sicht am Billingen kann bei starkem Regen stark eingeschränkt sein."
+            ],
+            "hu": [
+              "Vigyázz a vízfelúszásra (aquaplaning) a Billingenre vezető úton.",
+              "Használd a fedett parkolóházakat a kényelmesebb ki- és beszálláshoz.",
+              "Tarts egy törölközőt az autóban a vizes kabátok és ülések miatt.",
+              "A látótávolság a Billingen-hegyen erős esőben korlátozott lehet."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumul spre muntele Billingen.",
+              "Folosește parcările acoperite din centru pentru mai mult confort.",
+              "Păstrează un prosop în mașină pentru a șterge scaunele sau hainele ude.",
+              "Vizibilitatea pe Billingen poate fi redusă semnificativ în caz de ploaie."
+            ],
+            "en": [
+              "Watch out for aquaplaning on the drive up to Billingen.",
+              "Use covered parking garages in the center for easier loading and unloading.",
+              "Keep a towel in the car to dry off seats or wet clothing.",
+              "Visibility at Billingen viewpoint can be very limited during heavy rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintermorgen am Billingen ist spektakulär, ideal für Fotos im Schnee oder einen kurzen Spaziergang an den Seen. Die Fahrt ins Zentrum führt vorbei an verschneiten Landschaften zum warmen Kulturhaus. Da es früh dunkel wird, ist die beleuchtete Innenstadt am Nachmittag besonders reizvoll, bevor man den Tag im Balthazar-Zentrum abschließt.",
+            "hu": "A téli reggel a Billingen-hegyen látványos, ideális havas fotókhoz vagy egy rövid sétához a tavaknál. Az út a belvárosba havas tájakon át vezet a meleg Kulturális Központig. Mivel korán sötétedik, a kivilágított város délután különleges élményt nyújt a Balthazar központ meglátogatása előtt.",
+            "ro": "O dimineață de iarnă pe Billingen este spectaculoasă, ideală pentru poze în zăpadă. Drumul spre centru trece prin peisaje înghețate până la Casa de Cultură. Deoarece se întunecă devreme, centrul iluminat este fermecător după-amiaza, înainte de vizita finală la Balthazar.",
+            "en": "A winter morning at Billingen is spectacular, perfect for snow photos or a crisp walk by the lakes. The drive to the center follows snowy roads to the warm Culture House. With early sunset, the lit city center is charming in the afternoon before ending the day at Balthazar."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Park at Billingen",
+              "tip_5lang": {
+                "de": "Winterreifen sind auf der steilen Auffahrt absolut zwingend.",
+                "hu": "A téli gumi használata a meredek feljárón kötelező.",
+                "ro": "Anvelopele de iarnă sunt obligatorii pentru urcarea abruptă.",
+                "en": "Winter tires are absolutely mandatory for the steep drive up."
+              }
+            },
+            {
+              "name": "Walk to Billingen Lakes",
+              "tip_5lang": {
+                "de": "Wanderwege können glatt sein; Eiskrallen für Schuhe empfohlen.",
+                "hu": "Az ösvények jegesek lehetnek; csúszásgátló használata ajánlott.",
+                "ro": "Traseele pot fi alunecoase; se recomandă crampoane pentru încălțăminte.",
+                "en": "Walking paths can be icy; ice cleats for shoes are recommended."
+              }
+            },
+            {
+              "name": "Cluster B: Drive to Center, Park at Culture House",
+              "tip_5lang": {
+                "de": "Parkhaus schützt das Auto vor erneutem Einschneien während des Besuchs.",
+                "hu": "A parkolóház megvédi az autót az újabb havazástól a látogatás alatt.",
+                "ro": "Parcarea acoperită protejează mașina de ninsoare pe durata vizitei.",
+                "en": "The parking garage protects your car from fresh snow during your visit."
+              }
+            },
+            {
+              "name": "Lunch and Walk to Hertig Johans Square",
+              "tip_5lang": {
+                "de": "Zentrale Lage verkürzt den Aufenthalt in der Kälte.",
+                "hu": "A központi elhelyezkedés lerövidíti a hidegben töltött időt.",
+                "ro": "Locația centrală reduce timpul petrecut în ger.",
+                "en": "The central location minimizes time spent out in the freezing cold."
+              }
+            },
+            {
+              "name": "Walk to Saint Helena's Church",
+              "tip_5lang": {
+                "de": "Vorsicht vor herabfallendem Schnee von Kirchendächern.",
+                "hu": "Vigyázz a templomtetőről lezúduló hótömegre.",
+                "ro": "Atenție la zăpada care poate cădea de pe acoperișul bisericii.",
+                "en": "Watch out for snow falling from the church roofs."
+              }
+            },
+            {
+              "name": "Cluster C: Drive to Balthazar & Arena",
+              "tip_5lang": {
+                "de": "Heizen Sie das Auto vor der Abfahrt gut auf.",
+                "hu": "Melegítsd fel az autót alaposan az indulás előtt.",
+                "ro": "Încălzește bine mașina înainte de a pleca spre casă.",
+                "en": "Warm up the car thoroughly before your final departure."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Führen Sie eine Schneeschaufel und einen Eiskratzer im Auto mit.",
+              "Prüfen Sie den Frostschutz in der Scheibenwaschanlage.",
+              "Die Auffahrt zum Billingen kann bei Glätte gesperrt sein.",
+              "Lassen Sie den Motor während kurzer Stopps nicht unnötig laufen."
+            ],
+            "hu": [
+              "Tarts hólapátot és jégkaparót az autóban.",
+              "Ellenőrizd a fagyállót a szélvédőmosó folyadékban.",
+              "A Billingen-hegyre vezető út jegesedés esetén lezárható.",
+              "Ne járasd feleslegesen a motort a rövid megállók alatt."
+            ],
+            "ro": [
+              "Asigură-te că ai o lopată de zăpadă și o racletă în mașină.",
+              "Verifică lichidul de parbriz să fie rezistent la îngheț.",
+              "Drumul spre Billingen poate fi închis în caz de polei sever.",
+              "Nu lăsa motorul pornit inutil în timpul opririlor scurte."
+            ],
+            "en": [
+              "Carry a snow shovel and an ice scraper in your car.",
+              "Check that your windshield washer fluid is rated for freezing temperatures.",
+              "The road up to Billingen may be closed during severe icy conditions.",
+              "Avoid idling the engine unnecessarily during short stops."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1390,6 +1936,170 @@
           "The Västtrafik To Go app is useful for planning routes and buying tickets.",
           "Be aware of bus schedules, especially in the evening and on weekends."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Vom Resecentrum sind es nur wenige Schritte zum Hertig Johans Square, wobei die Busse trockenen Transport garantieren. Mittags bietet der Transfer zum Balthazar-Zentrum eine Pause vom Regen. Nachmittags ist die Rückkehr zum Kulturhaus bequem per Bus möglich, ideal um den Tag entspannt und trocken ausklingen zu lassen.",
+            "hu": "A Resecentrumtól csak pár lépés a Hertig Johans tér, a buszok pedig garantálják a száraz közlekedést. Délben a Balthazar központba való átjutás ad pihenőt az eső elől. Délután a Kulturális Központhoz való visszatérés kényelmes busszal, így az egész napot szárazon töltheted.",
+            "ro": "De la Resecentrum sunt doar câțiva pași până în Piața Hertig Johans, autobuzele oferind transport uscat. La prânz, transferul către Balthazar este o pauză de la ploaie. După-amiaza, întoarcerea la Casa de Cultură este facilă cu autobuzul, încheind ziua relaxat.",
+            "en": "From Resecentrum, it's just a few steps to Hertig Johans Square, with buses ensuring a dry commute. Midday transfer to Balthazar provides a break from the rain. In the afternoon, returning to the Culture House is easy by bus, keeping you comfortable and dry all day."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Bus to Resecentrum/Center",
+              "tip_5lang": {
+                "de": "Resecentrum ist komplett überdacht; idealer Startpunkt.",
+                "hu": "A Resecentrum teljesen fedett, ideális kiindulópont esőben.",
+                "ro": "Resecentrum este complet acoperit, un punct de pornire ideal.",
+                "en": "Resecentrum is fully covered, making it an ideal starting point."
+              }
+            },
+            {
+              "name": "Walk to Hertig Johans Sq & Saint Helena's",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg; halten Sie den Schirm bereit.",
+                "hu": "Rövid séta; tartsd készenlétben az esernyődet.",
+                "ro": "Plimbare scurtă; ține umbrela la îndemână.",
+                "en": "Short walk; keep your umbrella ready for this section."
+              }
+            },
+            {
+              "name": "Cluster B: Bus to Balthazar Science Center",
+              "tip_5lang": {
+                "de": "Buslinie 1 oder 2 nutzen für minimalen Fußweg im Regen.",
+                "hu": "Használd az 1-es vagy 2-es buszt a minimális vizes séta érdekében.",
+                "ro": "Folosește liniile 1 sau 2 pentru a merge cât mai puțin prin ploaie.",
+                "en": "Use bus lines 1 or 2 for minimum walking in the rain."
+              }
+            },
+            {
+              "name": "Lunch and Walk to the Culture House",
+              "tip_5lang": {
+                "de": "Das Kulturhuset liegt direkt gegenüber dem Bahnhof.",
+                "hu": "A Kulturhuset közvetlenül az állomással szemben található.",
+                "ro": "Kulturhuset este situat chiar vizavi de gară.",
+                "en": "The Culture House is located directly across from the station."
+              }
+            },
+            {
+              "name": "Walk to Boulognerskogen Park",
+              "tip_5lang": {
+                "de": "Vom Bahnhof aus führt ein kurzer, oft windiger Weg zum Park.",
+                "hu": "Az állomástól rövid, de gyakran szeles út vezet a parkhoz.",
+                "ro": "De la gară este un drum scurt, dar adesea vântos, spre parc.",
+                "en": "From the station, there is a short, often windy path to the park."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Västtrafik To Go App für ticketlose Übergänge.",
+              "Die Wartebereiche im Resecentrum sind beheizt und trocken.",
+              "Balthazar und Arena sind gut durch das Stadtbusnetz angebunden.",
+              "Ein kleiner Taschenschirm passt gut in jede Tasche für die kurzen Wege."
+            ],
+            "hu": [
+              "Használd a Västtrafik To Go alkalmazást a jegyvásárláshoz.",
+              "A Resecentrum várótermei fűtöttek és szárazak.",
+              "A Balthazar és az Arena jól elérhető a városi buszhálózattal.",
+              "Egy kis összecsukható esernyő ideális a megállók közötti sétákhoz."
+            ],
+            "ro": [
+              "Folosește aplicația Västtrafik To Go pentru bilete digitale.",
+              "Zonele de așteptare de la Resecentrum sunt încălzite și uscate.",
+              "Balthazar și Arena sunt bine conectate prin rețeaua de autobuze.",
+              "O umbrelă pliabilă este ideală pentru segmentele scurte de mers pe jos."
+            ],
+            "en": [
+              "Use the Västtrafik To Go app for easy mobile ticketing.",
+              "Waiting areas at Resecentrum are heated and dry.",
+              "Balthazar and Arena are well-connected by the local bus network.",
+              "A small collapsible umbrella is perfect for short walks between stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintertag beginnt am warmen Resecentrum, von wo aus man schnell zum Hertig Johans Square gelangt. Die kurzen Busfahrten zum Balthazar-Zentrum schützen vor der klirrenden Kälte. Da es am Nachmittag früh dunkel wird, bietet die Rückfahrt zum hell erleuchteten Kulturhaus eine gemütliche Perspektive auf die verschneite Stadt Skövde.",
+            "hu": "A téli nap a meleg Resecentrumban indul, ahonnan gyorsan elérhető a Hertig Johans tér. A rövid buszutak a Balthazar központig megvédenek a csípős hidegtől. Mivel délután korán sötétedik, a kivilágított Kulturális Központhoz való visszatérés hangulatos látványt nyújt a havas városban.",
+            "ro": "O zi de iarnă începe la Resecentrum, de unde se ajunge rapid în Piața Hertig Johans. Călătoriile scurte cu autobuzul spre Balthazar protejează de ger. Deoarece se întunecă devreme, întoarcerea la Casa de Cultură iluminată oferă o perspectivă caldă asupra orașului.",
+            "en": "The winter day starts at the warm Resecentrum, with quick access to Hertig Johans Square. Short bus rides to the Balthazar center protect from the freezing cold. With early sunset, the return to the brightly lit Culture House offers a cozy view of the snowy Skövde city."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Bus to Resecentrum/Center",
+              "tip_5lang": {
+                "de": "Nutzen Sie die beheizten Wartehallen im Bahnhofsgebäude.",
+                "hu": "Használd az állomásépület fűtött várótermeit.",
+                "ro": "Folosește sălile de așteptare încălzite din gară.",
+                "en": "Utilize the heated waiting halls inside the station building."
+              }
+            },
+            {
+              "name": "Walk to Hertig Johans Sq & Saint Helena's",
+              "tip_5lang": {
+                "de": "Vorsicht vor Schneematsch an den Straßenecken.",
+                "hu": "Vigyázz a latyakra az utcasarkokon.",
+                "ro": "Atenție la fleoșcăială și noroi la colțurile străzilor.",
+                "en": "Watch out for slush at the street corners."
+              }
+            },
+            {
+              "name": "Cluster B: Bus to Balthazar Science Center",
+              "tip_5lang": {
+                "de": "Busse sind im Winter meist sehr pünktlich und gut beheizt.",
+                "hu": "A buszok télen is pontosak és jól fűtöttek.",
+                "ro": "Autobuzele sunt de obicei punctuale și bine încălzite iarna.",
+                "en": "Buses are usually very punctual and well-heated in winter."
+              }
+            },
+            {
+              "name": "Lunch and Walk to the Culture House",
+              "tip_5lang": {
+                "de": "Direkte Wege nutzen, um die Zeit im Frost zu minimieren.",
+                "hu": "Használd a legközvetlenebb utat a fagyos idő csökkentésére.",
+                "ro": "Folosește traseele directe pentru a minimiza timpul în frig.",
+                "en": "Use direct paths to minimize time spent in the freezing air."
+              }
+            },
+            {
+              "name": "Walk to Boulognerskogen Park",
+              "tip_5lang": {
+                "de": "Der beleuchtete Hauptweg ist im Winter am sichersten.",
+                "hu": "A kivilágított főútvonal a legbiztonságosabb télen.",
+                "ro": "Aleea principală iluminată este cea mai sigură iarna.",
+                "en": "The lit main path is the safest option during winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrpläne können bei extremem Schneefall leicht variieren.",
+              "Die Västtrafik-Busse haben meist USB-Ladebuchsen zum Handy-Laden.",
+              "Warten Sie im Inneren des Resecentrums bis kurz vor Abfahrt des Busses.",
+              "Tragen Sie Schuhe mit gutem Profil für die Wege zu den Haltestellen."
+            ],
+            "hu": [
+              "A menetrendek extrém havazás esetén kismértékben változhatnak.",
+              "A Västtrafik buszokon általában van USB-töltő a telefonokhoz.",
+              "Várj a Resecentrum belsejében a busz indulása előtti percekig.",
+              "Viselj jó tapadású cipőt a megállókhoz vezető utakhoz."
+            ],
+            "ro": [
+              "Orarele pot varia ușor în caz de ninsoare extremă.",
+              "Autobuzele Västtrafik au de obicei porturi USB pentru încărcarea telefonului.",
+              "Așteaptă în interiorul Resecentrum până aproape de ora plecării.",
+              "Poartă încălțăminte cu talpă aderentă pentru drumul spre stații."
+            ],
+            "en": [
+              "Schedules may vary slightly during extreme snowfall conditions.",
+              "Västtrafik buses usually have USB ports for charging your phone.",
+              "Wait inside Resecentrum until just before your bus departs.",
+              "Wear shoes with good grip for the walks to and from bus stops."
+            ]
+          }
+        }
       }
     }
   }

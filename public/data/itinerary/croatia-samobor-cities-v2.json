@@ -386,6 +386,214 @@
           "Most sights in the center are easily within walking distance.",
           "Bring a bottle of water, especially in the summer."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag auf dem King Tomislav Square und flüchten Sie in eines der gemütlichen Cafés für eine Samoborer Cremeschnitte. Mittags bieten die St. Anastasia Kirche und das Samobor Museum perfekten Schutz vor dem Regen. Nachmittags erkunden Sie das Franziskanerkloster. Der Aufstieg zur Burgruine erfordert bei Regen Vorsicht, aber die neblige Aussicht vom Tepec ist magisch. Beenden Sie den Tag mit einem romantischen Spaziergang unter dem Regenschirm an der Gradna-Promenade.",
+            "hu": "Kezdje a napot a Tomiszláv király téren, meneküljön be egy kávézóba egy meleg krémesre. Délben a Szent Anasztázia-templom és a Samobor Múzeum nyújt menedéket az eső elől. Délután látogassa meg a ferences kolostort. A várromokhoz vezető út sárban csúszós lehet, de a ködös Tepec kilátó különleges hangulatot áraszt. A napot egy esernyős, romantikus sétával zárja a Gradna-patak mentén, élvezve az eső kopogását a vízen.",
+            "ro": "Începeți ziua în Piața Regele Tomislav, refugiindu-vă într-o cafenea pentru o faimoasă cremșnită. La prânz, Biserica Sf. Anastasia și Muzeul Samobor oferă adăpost ideal împotriva ploii. După-amiaza, vizitați Mănăstirea Franciscană. Urcarea spre ruinele castelului necesită prudență pe ploaie, dar priveliștea cețoasă de la Tepec este mistică. Încheiați ziua cu o plimbare romantică sub umbrelă pe promenada Gradna.",
+            "en": "Start your day at King Tomislav Square, ducking into a café for a warm Samobor cream cake. At noon, St. Anastasia Church and the Samobor Museum provide perfect indoor shelter. Afternoon is spent at the Franciscan Monastery. The hike to the castle ruins can be slippery in the rain, but the misty Tepec Viewpoint is magical. End your day with a romantic umbrella walk along the Gradna Promenade, listening to the rain on the water."
+          },
+          "stops": [
+            {
+              "name": "King Tomislav Square",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den Markisen der Cafés und genießen Sie eine heiße Cremeschnitte.",
+                "hu": "Keressen menedéket a kávézók ponyvái alatt, és kóstolja meg a híres samobori krémest.",
+                "ro": "Căutați adăpost sub copertinele cafenelelor și savurați o cremșnită caldă.",
+                "en": "Seek shelter under the café awnings and enjoy a famous Samobor cream cake."
+              }
+            },
+            {
+              "name": "St. Anastasia Church",
+              "tip_5lang": {
+                "de": "Ein ruhiger, trockener Ort, um die barocke Architektur zu bewundern, während es draußen regnet.",
+                "hu": "Csendes, száraz hely a barokk építészet megcsodálására, amíg odakint esik.",
+                "ro": "Un loc liniștit și uscat pentru a admira arhitectura barocă în timp ce plouă afară.",
+                "en": "A quiet, dry place to admire Baroque architecture while it rains outside."
+              }
+            },
+            {
+              "name": "Samobor Museum",
+              "tip_5lang": {
+                "de": "Verlängern Sie Ihren Aufenthalt hier, um die lokalen Exponate im Trockenen zu erkunden.",
+                "hu": "Hosszabbítsa meg itt a tartózkodását, fedezze fel a helyi kiállításokat a szárazban.",
+                "ro": "Prelungiți vizita aici pentru a explora expozițiile locale la adăpost.",
+                "en": "Extend your stay here to explore local exhibits in the dry indoors."
+              }
+            },
+            {
+              "name": "Franciscan Monastery",
+              "tip_5lang": {
+                "de": "Der Kreuzgang bietet einen überdachten Bereich zum Reflektieren und Ausruhen.",
+                "hu": "A kolostor kerengője fedett területet biztosít az elmélkedéshez és pihenéshez.",
+                "ro": "Claustrul oferă o zonă acoperită pentru reflecție și odihnă.",
+                "en": "The cloister provides a covered area for reflection and rest."
+              }
+            },
+            {
+              "name": "Samobor Castle Ruins",
+              "tip_5lang": {
+                "de": "Vorsicht auf den Waldwegen; sie können sehr schlammig und rutschig sein.",
+                "hu": "Vigyázat az erdei utakon; nagyon sárosak és csúszósak lehetnek.",
+                "ro": "Atenție pe potecile din pădure; pot fi foarte noroioase și alunecoase.",
+                "en": "Caution on the forest paths; they can be very muddy and slippery."
+              }
+            },
+            {
+              "name": "Tepec Viewpoint",
+              "tip_5lang": {
+                "de": "Der Aussichtsturm bietet bei Regen nur wenig Schutz, halten Sie Ihren Regenschirm bereit.",
+                "hu": "A kilátótorony kevés védelmet nyújt, tartsa készenlétben az esernyőjét.",
+                "ro": "Turnul de observație oferă puțin adăpost; țineți umbrela la îndemână.",
+                "en": "The observation tower offers little shelter; keep your umbrella ready."
+              }
+            },
+            {
+              "name": "Gradna Promenade",
+              "tip_5lang": {
+                "de": "Genießen Sie die frische Luft und das Rauschen des Baches unter dichten Bäumen.",
+                "hu": "Élvezze a friss levegőt és a patak zúgását a sűrű fák védelme alatt.",
+                "ro": "Bucurați-vă de aerul proaspăt și de sunetul pârâului sub copacii deși.",
+                "en": "Enjoy the fresh air and the sound of the stream under the dense trees."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Wanderschuhe für den Weg zur Burgruine.",
+              "Die Cafés am Hauptplatz sind der beste Ort, um Schauer abzuwarten.",
+              "Nutzen Sie die Museumsbesuche als längere Pausen im Trockenen.",
+              "Ein stabiler Regenschirm ist wegen gelegentlicher Windböen in den Hügeln wichtig.",
+              "Der Gradna-Bach schwillt bei Regen an und bietet eine dramatische Kulisse."
+            ],
+            "hu": [
+              "Viseljen vízálló túracipőt a várromokhoz vezető úton.",
+              "A főtéri kávézók a legjobb helyek a futó záporok kivárására.",
+              "Használja ki a múzeumi látogatást hosszabb száraz pihenőként.",
+              "A dombokon fellépő szél miatt masszív esernyőre lesz szüksége.",
+              "A Gradna-patak esőben megduzzad, ami látványos hátteret ad a sétához."
+            ],
+            "ro": [
+              "Purtați încălțăminte de drumeție impermeabilă pentru drumul spre castel.",
+              "Cafenelele din piața principală sunt cel mai bun loc pentru a aștepta trecerea ploii.",
+              "Folosiți vizita la muzeu ca o pauză prelungită la uscat.",
+              "O umbrelă rezistentă este necesară din cauza rafalelor de vânt de pe dealuri.",
+              "Pârâul Gradna crește pe ploaie, oferind un cadru dramatic plimbării."
+            ],
+            "en": [
+              "Wear waterproof hiking shoes for the path to the castle ruins.",
+              "The cafés on the main square are the best spots to wait out rain showers.",
+              "Use museum visits as longer breaks in the dry indoors.",
+              "A sturdy umbrella is necessary due to occasional wind gusts in the hills.",
+              "The Gradna stream swells during rain, providing a dramatic backdrop for your walk."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie Samobor im winterlichen Glanz. Der Morgen am King Tomislav Square ist frisch, perfekt für einen heißen Tee. Vormittags wärmen Sie sich in der St. Anastasia Kirche und dem beheizten Museum auf. Nach dem Besuch des Franziskanerklosters steigen Sie zur Burgruine auf, bevor die Sonne gegen 16:30 Uhr untergeht. Der Blick vom Tepec im klaren Winterlicht ist weit. Den Tag beschließt ein Spaziergang an der Gradna-Promenade, wenn die Lichter der Stadt im Frost glitzern.",
+            "hu": "Fedezze fel Samobort téli pompájában. A reggel a Tomiszláv király téren friss, ideális egy forró teához. Délelőtt melegedjen fel a Szent Anasztázia-templomban és a fűtött múzeumban. A ferences kolostor után másszon fel a várromokhoz, még a korai, 16:30-as naplemente előtt. A Tepec kilátóból nyíló panoráma a tiszta téli levegőben lenyűgöző. A napot a Gradna-sétányon zárja, amikor a város fényei megcsillannak a zúzmarás fákon.",
+            "ro": "Experimentați Samobor în splendoarea iernii. Dimineața în Piața Regele Tomislav este răcoroasă, perfectă pentru un ceai fierbinte. Înainte de prânz, încălziți-vă în Biserica Sf. Anastasia și în muzeul încălzit. După mănăstirea franciscană, urcați la ruinele castelului înainte de apusul devreme de la 16:30. Priveliștea de la Tepec în lumina clară de iarnă este vastă. Încheiați ziua pe promenada Gradna, când luminile orașului sclipesc în ger.",
+            "en": "Experience Samobor in its winter splendor. The morning at King Tomislav Square is crisp, perfect for a hot tea. Mid-morning, warm up in St. Anastasia Church and the heated museum. After the Franciscan Monastery, climb to the castle ruins before the early sunset around 16:30. The view from Tepec in the clear winter light is vast. End the day at the Gradna Promenade as the city lights glisten in the frost."
+          },
+          "stops": [
+            {
+              "name": "King Tomislav Square",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich mit einer frisch gebackenen, warmen Cremeschnitte auf.",
+                "hu": "Melegedjen fel egy frissen sült, langyos samobori krémessel.",
+                "ro": "Încălziți-vă cu o cremșnită caldă, proaspăt scoasă din cuptor.",
+                "en": "Warm up with a freshly made, slightly warm Samobor cream cake."
+              }
+            },
+            {
+              "name": "St. Anastasia Church",
+              "tip_5lang": {
+                "de": "Die dicken Mauern bieten Schutz vor dem kalten Winterwind.",
+                "hu": "A vastag falak védelmet nyújtanak a hideg téli szél elől.",
+                "ro": "Zidurile groase oferă protecție împotriva vântului rece de iarnă.",
+                "en": "The thick walls provide protection from the cold winter wind."
+              }
+            },
+            {
+              "name": "Samobor Museum",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um der Kälte für eine Weile zu entfliehen.",
+                "hu": "Ideális hely, hogy egy időre elmeneküljön a kinti hideg elől.",
+                "ro": "Un loc ideal pentru a scăpa de frigul de afară pentru o vreme.",
+                "en": "An ideal place to escape the outdoor cold for a while."
+              }
+            },
+            {
+              "name": "Franciscan Monastery",
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille des winterlichen Klostergartens.",
+                "hu": "Élvezze a téli kolostorkert csendjét és nyugalmát.",
+                "ro": "Bucurați-vă de liniștea grădinii mănăstirii în timpul iernii.",
+                "en": "Enjoy the silence and peace of the winter monastery garden."
+              }
+            },
+            {
+              "name": "Samobor Castle Ruins",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ruinen früh, da es im Wald schnell dunkel wird.",
+                "hu": "Látogassa meg a romokat korán, mert az erdőben hamar sötétedik.",
+                "ro": "Vizitați ruinele devreme, deoarece se întunecă repede în pădure.",
+                "en": "Visit the ruins early, as it gets dark quickly in the forest."
+              }
+            },
+            {
+              "name": "Tepec Viewpoint",
+              "tip_5lang": {
+                "de": "Ziehen Sie sich warm an; der Wind auf dem Turm kann im Winter beißend sein.",
+                "hu": "Öltözzön rétegesen; a kilátóban a szél télen metsző lehet.",
+                "ro": "Îmbrăcați-vă bine; vântul de pe turn poate fi tăios iarna.",
+                "en": "Dress warmly; the wind on the tower can be biting in winter."
+              }
+            },
+            {
+              "name": "Gradna Promenade",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stellen auf dem Gehweg entlang des Baches.",
+                "hu": "Ügyeljen a jeges szakaszokra a patak menti gyalogúton.",
+                "ro": "Atenție la porțiunile înghețate de pe trotuarul de-a lungul pârâului.",
+                "en": "Watch out for icy patches on the walkway along the stream."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Winter gegen 16:30 Uhr unter, planen Sie Outdoor-Aktivitäten früh.",
+              "Die meisten Cafés bieten Decken für die Außenbereiche an.",
+              "Tragen Sie Schuhe mit gutem Profil für eventuell glatte Wege zur Burg.",
+              "Kremšnita schmeckt im Winter am besten mit einer Tasse heißer Schokolade.",
+              "Die Museen sind gut beheizt und bieten eine willkommene Aufwärmpause."
+            ],
+            "hu": [
+              "A nap télen 16:30 körül nyugszik, a kinti programokat tervezze korábbra.",
+              "A legtöbb kávézó biztosít plédet a külső teraszokon.",
+              "Viseljen jó tapadású cipőt a vár felé vezető, esetleg jeges utakon.",
+              "A krémes télen egy csésze forró csokoládéval a legfinomabb.",
+              "A múzeumok jól fűtöttek, kellemes felmelegedési pontot jelentenek."
+            ],
+            "ro": [
+              "Soarele apune în jur de 16:30 iarna; planificați activitățile în aer liber devreme.",
+              "Majoritatea cafenelelor oferă pături pentru zonele exterioare.",
+              "Purtați încălțăminte cu aderență bună pentru potecile spre castel.",
+              "Cremșnita este delicioasă iarna alături de o cană de ciocolată caldă.",
+              "Muzeele sunt bine încălzite și oferă o pauză de încălzire binevenită."
+            ],
+            "en": [
+              "Sunset is around 16:30 in winter, so plan outdoor activities early.",
+              "Most cafés provide blankets for their outdoor seating areas.",
+              "Wear shoes with good grip for potentially icy paths to the castle.",
+              "Kremšnita is best enjoyed with a cup of hot chocolate in winter.",
+              "The museums are well-heated and provide a welcome warm-up break."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -766,6 +974,214 @@
           "The route to Grgos Cave is on public roads, be careful.",
           "Bring a lock to secure your bike at the stops."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert gute Ausrüstung. Starten Sie am Hauptplatz und fahren Sie zum Franziskanerkloster. Die Gradna-Promenade ist bei Regen erfrischend, aber achten Sie auf rutschiges Laub. Die Burgruine und Tepec sind über befestigte Wege erreichbar. Ein langes Mittagessen in der Altstadt lässt den Schauer vorbeiziehen. Nachmittags ist die Grgos-Höhle der perfekte trockene Ort, bevor Sie im Museum den Tag beenden.",
+            "hu": "Az esős kerékpározáshoz jó felszerelés kell. Kezdjen a főtéren, majd tekerjen a ferences kolostorhoz. A Gradna-sétány frissítő esőben, de ügyeljen a csúszós levelekre. A várrom és a Tepec aszfaltozott utakon is megközelíthető. Egy hosszú ebéd az óvárosban segít kivárni a záport. Délután a Grgos-barlang a tökéletes száraz helyszín, mielőtt a múzeumban zárná a napot.",
+            "ro": "O tură cu bicicleta pe ploaie necesită echipament bun. Începeți în piața principală și pedalați spre mănăstire. Promenada Gradna este revigorantă pe ploaie, dar atenție la frunzele alunecoase. Ruinele castelului și Tepec sunt accesibile pe drumuri pavate. Un prânz lung în orașul vechi permite trecerea ploii. După-amiaza, Peștera Grgos este locul uscat perfect înainte de muzeu.",
+            "en": "Cycling in the rain requires good gear. Start at the main square and ride to the monastery. The Gradna Promenade is refreshing in the rain, but watch for slippery leaves. The castle ruins and Tepec are accessible via paved paths. A long lunch in the old town lets the shower pass. In the afternoon, Grgos Cave is the perfect dry spot before finishing the day at the museum."
+          },
+          "stops": [
+            {
+              "name": "King Tomislav Square",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen; das Kopfsteinpflaster ist bei Nässe sehr rutschig.",
+                "hu": "Ellenőrizze a fékeit; a macskaköves út nedvesen nagyon csúszik.",
+                "ro": "Verificați frânele; pavajul cu piatră cubică este foarte alunecos pe ud.",
+                "en": "Check your brakes; the cobblestones are very slippery when wet."
+              }
+            },
+            {
+              "name": "Franciscan Monastery",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad unter den Dachvorsprung am Eingang.",
+                "hu": "Támassza le kerékpárját a bejárat melletti tetőperem alá.",
+                "ro": "Parcați bicicleta sub streașina de la intrare.",
+                "en": "Park your bike under the roof overhang near the entrance."
+              }
+            },
+            {
+              "name": "Gradna Promenade",
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den Holzbrücken, sie werden bei Regen spiegelglatt.",
+                "hu": "Óvatosan a fahidakon, esőben tükörsimává válnak.",
+                "ro": "Circulați cu grijă pe podurile de lemn; devin extrem de alunecoase pe ploaie.",
+                "en": "Ride carefully on the wooden bridges; they become mirror-slick in the rain."
+              }
+            },
+            {
+              "name": "Samobor Castle Ruins & Tepec",
+              "tip_5lang": {
+                "de": "Nutzen Sie die asphaltierte Zufahrt statt der Waldwege für besseren Halt.",
+                "hu": "A jobb tapadás érdekében az aszfaltozott felhajtót használja az erdei utak helyett.",
+                "ro": "Folosiți accesul asfaltat în locul potecilor de pădure pentru aderență.",
+                "en": "Use the paved access road instead of forest trails for better grip."
+              }
+            },
+            {
+              "name": "Lunch in the Old Town",
+              "tip_5lang": {
+                "de": "Suchen Sie ein Restaurant mit Fahrradabstellplätzen im Sichtfeld.",
+                "hu": "Keressen olyan éttermet, ahol rálát a kerékpárjára az ablakból.",
+                "ro": "Căutați un restaurant unde puteți supraveghea bicicleta de la geam.",
+                "en": "Find a restaurant where you can keep an eye on your bike from the window."
+              }
+            },
+            {
+              "name": "Grgos Cave",
+              "tip_5lang": {
+                "de": "Die Höhle ist völlig trocken, ein idealer Zufluchtsort vor dem Wetter.",
+                "hu": "A barlang teljesen száraz, ideális menedék az időjárás elől.",
+                "ro": "Peștera este complet uscată, un refugiu ideal de vremea rea.",
+                "en": "The cave is completely dry, an ideal refuge from the weather."
+              }
+            },
+            {
+              "name": "Samobor Museum",
+              "tip_5lang": {
+                "de": "Schließen Sie Ihr Rad am Ständer vor dem Haupteingang an.",
+                "hu": "Zárja le kerékpárját a főbejárat előtti tárolónál.",
+                "ro": "Securizați bicicleta la suportul din fața intrării principale.",
+                "en": "Lock your bike at the rack in front of the main entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine vollflächige Regenjacke und wasserfeste Überhosen.",
+              "Vermeiden Sie scharfe Kurven auf nassem Kopfsteinpflaster.",
+              "Die Grgos-Höhle bietet eine großartige wetterunabhängige Besichtigung.",
+              "Benutzen Sie Schutzbleche, um sich vor Spritzwasser zu schützen.",
+              "Wischen Sie Ihren Sattel vor der Weiterfahrt mit einem Tuch trocken."
+            ],
+            "hu": [
+              "Viseljen teljes esőkabátot és vízálló nadrágot.",
+              "Kerülje az éles kanyarodást a nedves macskakövön.",
+              "A Grgos-barlang remek időjárásfüggetlen programot kínál.",
+              "Használjon sárvédőt, hogy megvédje magát a felcsapódó víztől.",
+              "Indulás előtt törölje szárazra a nyerget egy ronggyal."
+            ],
+            "ro": [
+              "Purtați o jachetă de ploaie completă și suprapantaloni impermeabili.",
+              "Evitați virajele bruște pe pavajul ud.",
+              "Peștera Grgos oferă o vizită excelentă indiferent de vreme.",
+              "Folosiți apărători de noroi pentru a vă proteja de stropi.",
+              "Ștergeți șaua cu o cârpă înainte de a pleca din nou la drum."
+            ],
+            "en": [
+              "Wear a full raincoat and waterproof over-trousers.",
+              "Avoid sharp turns on wet cobblestones.",
+              "Grgos Cave offers a great weather-independent sightseeing option.",
+              "Use mudguards to protect yourself from water spray.",
+              "Wipe your saddle dry with a cloth before riding again."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterradeln in Samobor ist erfrischend bei klarer Luft. Starten Sie dick eingepackt am King Tomislav Square. Besuchen Sie das Kloster und fahren Sie entlang der winterlichen Gradna-Promenade. Der Anstieg zur Burgruine hält Sie warm, aber Vorsicht vor Eis in schattigen Kurven. Nach dem Mittagessen in der Altstadt führt die Fahrt zur Grgos-Höhle, die im Winter angenehm mild ist. Beenden Sie die Tour im beheizten Samobor Museum.",
+            "hu": "A téli kerékpározás Samoborban frissítő élmény a tiszta levegőben. Induljon vastagon felöltözve a Tomiszláv király térről. Látogassa meg a kolostort, és tekerjen végig a jeges Gradna-sétányon. A várromhoz vezető emelkedő segít melegen tartani, de vigyázzon a jégre az árnyékos kanyarokban. Ebéd után irány a Grgos-barlang, amely télen kellemesen enyhe. A túrát a fűtött Samobor Múzeumban zárja.",
+            "ro": "Ciclismul de iarnă în Samobor este revigorant în aerul curat. Începeți bine echipat în Piața Regele Tomislav. Vizitați mănăstirea și pedalați pe promenada Gradna înghețată. Urcarea la castel vă va ține de cald, dar atenție la gheața din curbele umbrite. După prânz, mergeți la Peștera Grgos, care este plăcut de caldă iarna. Încheiați turul la Muzeul Samobor.",
+            "en": "Winter cycling in Samobor is refreshing in the clear air. Start well-layered at King Tomislav Square. Visit the monastery and ride along the wintry Gradna Promenade. The climb to the castle ruins will keep you warm, but watch for ice in shaded corners. After lunch in the old town, head to Grgos Cave, which is pleasantly mild in winter. Finish your tour at the heated Samobor Museum."
+          },
+          "stops": [
+            {
+              "name": "King Tomislav Square",
+              "tip_5lang": {
+                "de": "Trinken Sie einen heißen Tee, bevor Sie in den Fahrtwind starten.",
+                "hu": "Igyon egy forró teát, mielőtt nekivágna a menetszélnek.",
+                "ro": "Beți un ceai fierbinte înainte de a porni în vânt.",
+                "en": "Drink a hot tea before heading out into the wind."
+              }
+            },
+            {
+              "name": "Franciscan Monastery",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp im Inneren hilft, die Hände aufzuwärmen.",
+                "hu": "Egy rövid benti megálló segít felmelegíteni a kezeket.",
+                "ro": "O scurtă oprire în interior ajută la încălzirea mâinilor.",
+                "en": "A short stop inside helps to warm up your hands."
+              }
+            },
+            {
+              "name": "Gradna Promenade",
+              "tip_5lang": {
+                "de": "Achtung bei Reifglätte auf den Wegen im Schatten der Bäume.",
+                "hu": "Figyelem a zúzmarás szakaszokra a fák árnyékában lévő utakon.",
+                "ro": "Atenție la porțiunile cu chiciură pe potecile din umbra copacilor.",
+                "en": "Watch for frost on the paths in the shadow of the trees."
+              }
+            },
+            {
+              "name": "Samobor Castle Ruins & Tepec",
+              "tip_5lang": {
+                "de": "Der Anstieg ist anstrengend; öffnen Sie Ihre Jacke leicht, um nicht zu schwitzen.",
+                "hu": "Az emelkedő fárasztó; nyissa ki kicsit a kabátját, hogy ne izzadjon meg.",
+                "ro": "Urcarea este solicitantă; deschideți ușor jacheta pentru a nu transpira.",
+                "en": "The climb is strenuous; open your jacket slightly to avoid sweating."
+              }
+            },
+            {
+              "name": "Lunch in the Old Town",
+              "tip_5lang": {
+                "de": "Genießen Sie eine warme Suppe, um Ihre Kerntemperatur zu erhöhen.",
+                "hu": "Egyen egy forró levest, hogy helyreállítsa testhőmérsékletét.",
+                "ro": "Savorați o supă caldă pentru a vă ridica temperatura corpului.",
+                "en": "Enjoy a warm soup to boost your core temperature."
+              }
+            },
+            {
+              "name": "Grgos Cave",
+              "tip_5lang": {
+                "de": "Mit konstanten 11°C fühlt sich die Höhle im Winter wärmer an als draußen.",
+                "hu": "Az állandó 11°C-kal a barlang télen melegebbnek érződik, mint a kinti levegő.",
+                "ro": "Cu o temperatură constantă de 11°C, peștera se simte mai caldă decât afară.",
+                "en": "With a constant 11°C, the cave feels warmer than the outside air in winter."
+              }
+            },
+            {
+              "name": "Samobor Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe für Ihre schwere Winterkleidung.",
+                "hu": "Használja a ruhatárat a nehéz téli ruházatához.",
+                "ro": "Folosiți garderoba pentru hainele grele de iarnă.",
+                "en": "Use the cloakroom for your heavy winter cycling gear."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Handschuhe und eine Mütze unter dem Helm.",
+              "Achten Sie auf Glatteis auf den Brücken über die Gradna.",
+              "Die Grgos-Höhle ist ein idealer Aufwärmstopp mit stabilen Temperaturen.",
+              "Benutzen Sie helles Licht, da es im Winter schon früh dämmert.",
+              "Trinken Sie ausreichend, auch wenn Sie bei Kälte weniger Durst verspüren."
+            ],
+            "hu": [
+              "Viseljen szélálló kesztyűt és sapkát a sisak alatt.",
+              "Ügyeljen a jegesedésre a Gradna-patak hídjain.",
+              "A Grgos-barlang ideális melegedőhely a stabil hőmérsékletével.",
+              "Használjon erős lámpákat, mert télen hamar sötétedik.",
+              "Igyon elegendő folyadékot, még ha a hidegben kevésbé szomjas is."
+            ],
+            "ro": [
+              "Purtați mănuși rezistente la vânt și o căciulă sub cască.",
+              "Atenție la polei pe podurile peste Gradna.",
+              "Peștera Grgos este un punct de încălzire ideal datorită temperaturii stabile.",
+              "Folosiți lumini puternice, deoarece se întunecă devreme iarna.",
+              "Hidratați-vă corespunzător, chiar dacă simțiți mai puțin setea pe frig."
+            ],
+            "en": [
+              "Wear windproof gloves and a cap under your helmet.",
+              "Watch out for black ice on the bridges over the Gradna.",
+              "Grgos Cave is an ideal warm-up stop with its stable temperature.",
+              "Use bright lights as it gets dark very early in winter.",
+              "Stay hydrated even if you feel less thirsty in the cold."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1146,6 +1562,214 @@
           "Grgos Cave has limited opening hours, check before you visit.",
           "Combine the visit with lunch at one of the rural restaurants."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Samobor auch bei Regen bequem. Besuchen Sie die Altstadt-Cluster und das Museum, während Ihr Wagen in der Nähe parkt. Das Mittagessen in der Altstadt bietet Schutz vor den Schauern. Am Nachmittag fahren Sie zur Grgos-Höhle, die ein perfektes Indoor-Erlebnis bietet. Die Burgruine und der Tepec-Aussichtspunkt sind über Bergstraßen gut erreichbar, erfordern aber Vorsicht bei Nässe. Beenden Sie den Tag an der Promenade.",
+            "hu": "Autóval Samobor esőben is kényelmes. Látogassa meg az óvárost és a múzeumot, miközben autója a közelben parkol. Az óvárosi ebéd védelmet nyújt a záporok elől. Délután vezessen el a Grgos-barlanghoz, amely tökéletes fedett program. A várrom és a Tepec kilátó hegyi utakon jól megközelíthető, de esőben óvatosságot igényelnek. A napot a sétánynál zárja.",
+            "ro": "Cu mașina, Samobor este confortabil chiar și pe ploaie. Vizitați centrul vechi și muzeul, cu parcarea în apropiere. Prânzul oferă adăpost împotriva averselor. După-amiaza, conduceți spre Peștera Grgos pentru o experiență de interior perfectă. Ruinele castelului și punctul de belvedere Tepec sunt accesibile pe drumuri de munte, dar necesită prudență pe ud. Încheiați ziua la promenadă.",
+            "en": "By car, Samobor is comfortable even in the rain. Visit the old town clusters and museum with parking nearby. Lunch in the old town provides shelter from showers. In the afternoon, drive to Grgos Cave for a perfect indoor experience. The castle ruins and Tepec viewpoint are accessible via mountain roads but require caution when wet. Finish the day at the promenade."
+          },
+          "stops": [
+            {
+              "name": "Old Town Cluster: King Tomislav Square",
+              "tip_5lang": {
+                "de": "Parken Sie am Rande des Platzes für einen schnellen Zugang zu den Cafés.",
+                "hu": "Parkoljon a tér szélén a kávézók gyors eléréséhez.",
+                "ro": "Parcați la marginea pieței pentru acces rapid la cafenele.",
+                "en": "Park at the edge of the square for quick access to the cafés."
+              }
+            },
+            {
+              "name": "Old Town Cluster: Samobor Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz direkt vor dem Museum, um trocken zu bleiben.",
+                "hu": "Használja a közvetlenül a múzeum előtti parkolót, hogy száraz maradjon.",
+                "ro": "Folosiți parcarea direct din fața muzeului pentru a rămâne uscat.",
+                "en": "Use the parking right in front of the museum to stay dry."
+              }
+            },
+            {
+              "name": "Old Town Cluster: Franciscan Monastery",
+              "tip_5lang": {
+                "de": "In der Nähe gibt es begrenzte Parkmöglichkeiten, ideal bei starkem Regen.",
+                "hu": "A közelben korlátozott parkolási lehetőség van, ami ideális szakadó esőben.",
+                "ro": "Există locuri de parcare limitate în apropiere, ideale pe ploaie torențială.",
+                "en": "Limited parking nearby is ideal when it is pouring rain."
+              }
+            },
+            {
+              "name": "Hill Cluster: Samobor Castle Ruins",
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den schmalen Straßen zum Burgparkplatz.",
+                "hu": "Vezessen óvatosan a várparkolóhoz vezető keskeny utakon.",
+                "ro": "Conduceți cu prudență pe drumurile înguste spre parcarea castelului.",
+                "en": "Drive carefully on the narrow roads leading to the castle parking."
+              }
+            },
+            {
+              "name": "Hill Cluster: Tepec Viewpoint",
+              "tip_5lang": {
+                "de": "Vom Parkplatz aus ist es nur ein kurzer, nasser Sprint zum Turm.",
+                "hu": "A parkolótól csak egy rövid, vizes vágta a kilátótorony.",
+                "ro": "De la parcare este doar un sprint scurt prin ploaie până la turn.",
+                "en": "It is just a short, wet dash from the parking lot to the tower."
+              }
+            },
+            {
+              "name": "Cave Cluster: Grgos Cave",
+              "tip_5lang": {
+                "de": "Ausreichend Parkplätze direkt am Höhleneingang verfügbar.",
+                "hu": "Bőséges parkolóhely áll rendelkezésre közvetlenül a barlang bejáratánál.",
+                "ro": "Locuri de parcare suficiente disponibile chiar la intrarea în peșteră.",
+                "en": "Ample parking available right at the cave entrance."
+              }
+            },
+            {
+              "name": "Promenade Cluster: Gradna Promenade",
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe der Brücken für einen schnellen Zugang zum Bachlauf.",
+                "hu": "Parkoljon a hidak közelében a patakpart gyors eléréséhez.",
+                "ro": "Parcați lângă poduri pentru acces rapid la malul pârâului.",
+                "en": "Park near the bridges for quick access to the stream walkway."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Verwenden Sie Parkplätze in der Nähe der Eingänge, um Regenphasen zu minimieren.",
+              "Die Bergstraßen zur Burg können bei Nässe rutschig sein.",
+              "Grgos-Höhle ist ein exzellenter Stopp bei schlechtem Wetter.",
+              "Halten Sie einen Regenschirm im Auto für die kurzen Wege zu den POIs bereit.",
+              "Prüfen Sie Ihre Scheibenwischer vor der Fahrt in die Hügel."
+            ],
+            "hu": [
+              "Használja a bejáratokhoz közeli parkolókat az elázás minimalizálására.",
+              "A várhoz vezető hegyi utak nedvesen csúszósak lehetnek.",
+              "A Grgos-barlang kiváló célpont rossz idő esetén.",
+              "Tartson esernyőt az autóban a látnivalókig tartó rövid szakaszokra.",
+              "Ellenőrizze az ablaktörlőket a dombvidéki vezetés előtt."
+            ],
+            "ro": [
+              "Folosiți parcările de lângă intrări pentru a minimiza expunerea la ploaie.",
+              "Drumurile de munte spre castel pot fi alunecoase pe ud.",
+              "Peștera Grgos este o destinație excelentă pe vreme rea.",
+              "Păstrați o umbrelă în mașină pentru segmentele scurte până la POI.",
+              "Verificați ștergătoarele înainte de a conduce pe dealuri."
+            ],
+            "en": [
+              "Use parking lots near entrances to minimize walking in the rain.",
+              "Mountain roads to the castle can be slippery when wet.",
+              "Grgos Cave is an excellent stop during poor weather.",
+              "Keep an umbrella in the car for the short walks to the attractions.",
+              "Check your windshield wipers before driving into the hills."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie ein winterliches Samobor bequem vom Auto aus. Starten Sie am King Tomislav Square und wärmen Sie sich in den Cafés auf. Die Museen und Klöster bieten eine angenehme Atmosphäre abseits der Kälte. Die Fahrt zur Burgruine und zum Tepec bietet tolle Ausblicke auf verschneite Landschaften. Die Grgos-Höhle bleibt im Winter ein Highlight mit moderaten Temperaturen. Beenden Sie den Tag mit einem kurzen, frostigen Spaziergang an der Gradna-Promenade.",
+            "hu": "Élvezze a téli Samobort az autó kényelméből. Kezdjen a Tomiszláv király téren, és melegedjen fel a kávézókban. A múzeumok és kolostorok kellemes menedéket nyújtanak a hideg elől. A várromhoz és a Tepec kilátóhoz vezető út havas tájakra nyit panorámát. A Grgos-barlang télen is kötelező program mérsékelt hőmérsékletével. A napot a Gradna-sétányon zárja egy rövid, fagyos sétával.",
+            "ro": "Bucurați-vă de Samoborul de iarnă din confortul mașinii. Începeți în Piața Regele Tomislav și încălziți-vă în cafenele. Muzeele și mănăstirile oferă o atmosferă plăcută ferită de frig. Drumul spre castel și Tepec oferă vederi superbe asupra peisajului înzăpezit. Peștera Grgos rămâne un punct de interes cu temperaturi moderate. Încheiați ziua cu o scurtă plimbare pe promenada Gradna.",
+            "en": "Enjoy wintry Samobor from the comfort of your car. Start at King Tomislav Square and warm up in the cafés. The museums and monasteries offer a pleasant atmosphere away from the cold. The drive to the castle ruins and Tepec offers great views of snowy landscapes. Grgos Cave remains a highlight in winter with moderate temperatures. Finish the day with a short, frosty walk along the Gradna Promenade."
+          },
+          "stops": [
+            {
+              "name": "Old Town Cluster: King Tomislav Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Sitzheizung nach einem kurzen Rundgang über den frostigen Platz.",
+                "hu": "Használja az ülésfűtést a fagyos téren tett rövid séta után.",
+                "ro": "Folosiți încălzirea în scaune după o scurtă plimbare prin piața înghețată.",
+                "en": "Use your seat heaters after a quick stroll around the frosty square."
+              }
+            },
+            {
+              "name": "Old Town Cluster: Samobor Museum",
+              "tip_5lang": {
+                "de": "Der kurze Weg vom Parkplatz zum Museum minimiert die Kälteexposition.",
+                "hu": "A parkolótól a múzeumig tartó rövid út minimalizálja a hidegnek való kitettséget.",
+                "ro": "Distanța scurtă de la parcare la muzeu minimizează expunerea la frig.",
+                "en": "The short walk from the parking to the museum minimizes cold exposure."
+              }
+            },
+            {
+              "name": "Old Town Cluster: Franciscan Monastery",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um den eisigen Wind zu vermeiden.",
+                "hu": "Parkoljon a bejárat közelében, hogy elkerülje a jeges szelet.",
+                "ro": "Parcați aproape de intrare pentru a evita vântul înghețat.",
+                "en": "Park close to the entrance to avoid the icy winter wind."
+              }
+            },
+            {
+              "name": "Hill Cluster: Samobor Castle Ruins",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Straßenbedingungen; die Bergstraße kann vereist sein.",
+                "hu": "Ellenőrizze az útviszonyokat; a hegyi út jeges lehet.",
+                "ro": "Verificați starea drumului; drumul de munte poate fi înzăpezit.",
+                "en": "Check road conditions; the mountain road can be icy or snowy."
+              }
+            },
+            {
+              "name": "Hill Cluster: Tepec Viewpoint",
+              "tip_5lang": {
+                "de": "Genießen Sie die Aussicht vom Auto aus, falls der Wind am Turm zu stark ist.",
+                "hu": "Élvezze a kilátást az autóból, ha a szél a toronyban túl erős.",
+                "ro": "Bucurați-vă de priveliște din mașină dacă vântul este prea puternic pe turn.",
+                "en": "Enjoy the view from the car if the wind at the tower is too strong."
+              }
+            },
+            {
+              "name": "Cave Cluster: Grgos Cave",
+              "tip_5lang": {
+                "de": "Die Höhle ist im Winter ein angenehm warmer Rückzugsort.",
+                "hu": "A barlang télen kellemesen meleg menedékhely.",
+                "ro": "Peștera este un refugiu plăcut de cald în timpul iernii.",
+                "en": "The cave is a pleasantly warm retreat during winter."
+              }
+            },
+            {
+              "name": "Promenade Cluster: Gradna Promenade",
+              "tip_5lang": {
+                "de": "Parken Sie am Ende der Tour in der Nähe eines warmen Cafés.",
+                "hu": "A túra végén parkoljon egy meleg kávézó közelében.",
+                "ro": "Parcați lângă o cafenea călduroasă la finalul turului.",
+                "en": "Park near a warm café at the end of your promenade tour."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind für die Bergstraßen zur Burg zwingend erforderlich.",
+              "Führen Sie einen Eiskratzer und Frostschutzmittel mit.",
+              "Grgos-Höhle bietet eine stabile Temperatur von 11°C, ideal zum Aufwärmen.",
+              "Die Parkplätze sind im Winter meist weniger frequentiert.",
+              "Planen Sie die Bergfahrten vor dem frühen Einbruch der Dunkelheit."
+            ],
+            "hu": [
+              "A várfeljáróhoz kötelező a téli gumi és a jó fék.",
+              "Legyen Önnél jégkaparó és fagyálló szélvédőmosó.",
+              "A Grgos-barlang stabil 11°C-os hőmérséklete kiváló felmelegedni.",
+              "A parkolók télen általában kevésbé zsúfoltak.",
+              "A hegyi utakat a korai sötétedés előtt érdemes bejárni."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii pentru drumurile spre castel.",
+              "Aveți la îndemână o răzuitoare de gheață și lichid de parbriz de iarnă.",
+              "Peștera Grgos oferă o temperatură stabilă de 11°C, ideală pentru încălzire.",
+              "Parcările sunt de obicei mai puțin aglomerate în timpul iernii.",
+              "Planificați drumurile pe dealuri înainte de lăsarea serii devreme."
+            ],
+            "en": [
+              "Winter tires are mandatory for the mountain roads to the castle.",
+              "Keep an ice scraper and antifreeze fluid in your car.",
+              "Grgos Cave provides a stable 11°C, ideal for warming up.",
+              "Parking lots are usually less crowded during the winter season.",
+              "Plan your hill drives before the early winter sunset."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1502,6 +2126,196 @@
           "Ask locals for the correct bus line; not all are listed on online maps.",
           "Keep an eye on the time for the last bus back."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den Bus, um Samobor im Regen zu erkunden. Die Ankunft am Busbahnhof ist der ideale Startpunkt. Der King Tomislav Square und das Museum sind nur einen kurzen Spaziergang entfernt. Ein spezieller Bus bringt Sie näher an die Burgruine, was bei Nässe den Aufstieg erleichtert. Verbringen Sie den Nachmittag in den überdachten Bereichen der Promenade, bevor Sie mit dem Bus zurückfahren.",
+            "hu": "Használja a buszt Samobor felfedezéséhez esőben. A buszpályaudvarra érkezés ideális kiindulópont. A Tomiszláv király tér és a múzeum csak rövid sétára van. Egy helyi busz közelebb visz a várromokhoz, megkönnyítve a feljutást esőben. Töltse a délutánt a sétány fedettebb részein, mielőtt visszabuszozna.",
+            "ro": "Folosiți autobuzul pentru a explora Samoborul pe ploaie. Sosirea la autogară este punctul de plecare ideal. Piața Regele Tomislav și muzeul sunt la o scurtă plimbare. Un autobuz local vă aduce mai aproape de ruinele castelului, ușurând urcarea pe ud. Petreceți după-amiaza în zonele acoperite ale promenadei înainte de întoarcere.",
+            "en": "Use the bus to explore Samobor in the rain. Arriving at the bus station is the ideal starting point. King Tomislav Square and the museum are just a short walk away. A local bus takes you closer to the castle ruins, making the climb easier in the wet weather. Spend the afternoon in more sheltered areas of the promenade before taking the bus back."
+          },
+          "stops": [
+            {
+              "name": "Center Cluster: Arrival at Bus Station",
+              "tip_5lang": {
+                "de": "Warten Sie im überdachten Wartebereich des Bahnhofs, bis der Schauer nachlässt.",
+                "hu": "Várjon az állomás fedett várótermében, amíg alábbhagy a zápor.",
+                "ro": "Așteptați în zona acoperită a autogării până trece ploaia.",
+                "en": "Wait in the sheltered area of the station until the shower eases."
+              }
+            },
+            {
+              "name": "Center Cluster: King Tomislav Square",
+              "tip_5lang": {
+                "de": "Die Cafés rund um den Platz bieten schnellen Schutz vor plötzlichem Regen.",
+                "hu": "A tér körüli kávézók gyors menedéket nyújtanak a hirtelen eső elől.",
+                "ro": "Cafenelele din jurul pieței oferă adăpost rapid împotriva ploii bruște.",
+                "en": "Cafés around the square offer quick shelter from sudden rain."
+              }
+            },
+            {
+              "name": "Center Cluster: Samobor Museum",
+              "tip_5lang": {
+                "de": "Ein kurzer, nasser Fußweg vom Platz zum trockenen Museumseingang.",
+                "hu": "Rövid, vizes gyalogút a tértől a száraz múzeumi bejáratig.",
+                "ro": "O scurtă plimbare prin ploaie de la piață la intrarea uscată a muzeului.",
+                "en": "A short, wet walk from the square to the dry museum entrance."
+              }
+            },
+            {
+              "name": "Hill Cluster: Bus to the Castle Ruins",
+              "tip_5lang": {
+                "de": "Der Bus spart Ihnen den mühsamen Aufstieg auf rutschigen Waldwegen.",
+                "hu": "A busz megkíméli Önt a csúszós erdei utakon való fárasztó hegymászástól.",
+                "ro": "Autobuzul vă scutește de urcarea obositoare pe potecile alunecoase.",
+                "en": "The bus saves you from the tiring climb on slippery forest paths."
+              }
+            },
+            {
+              "name": "Hill Cluster: Samobor Castle Ruins",
+              "tip_5lang": {
+                "de": "Halten Sie sich an den Mauern fest, wenn Sie die Ruinen bei Nässe erkunden.",
+                "hu": "Kapaszkodjon a falakba, ha nedves időben fedezi fel a romokat.",
+                "ro": "Țineți-vă de ziduri când explorați ruinele pe vreme umedă.",
+                "en": "Hold onto the walls when exploring the ruins in wet weather."
+              }
+            },
+            {
+              "name": "Center Cluster: Gradna Promenade",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den dichten Baumkronen entlang des Baches.",
+                "hu": "Keressen menedéket a patak menti sűrű lombok alatt.",
+                "ro": "Căutați adăpost sub coronamentul des al copacilor de-a lungul pârâului.",
+                "en": "Seek shelter under the dense tree canopies along the stream."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Busfahrplan online, um Wartezeiten im Regen zu vermeiden.",
+              "Die Busse in Samobor sind zuverlässig und meist pünktlich.",
+              "Nutzen Sie die kurzen Wege zwischen den POIs im Zentrum.",
+              "Ein Regenschirm ist für die Wege zwischen den Bushaltestellen unverzichtbar.",
+              "Die Museen bieten einen großartigen trockenen Aufenthalt."
+            ],
+            "hu": [
+              "Ellenőrizze a buszmenetrendet online, hogy elkerülje az esőben való várakozást.",
+              "A samobori buszok megbízhatóak és általában pontosak.",
+              "Használja ki a belvárosi látnivalók közötti rövid távolságokat.",
+              "Az esernyő elengedhetetlen a buszmegállók közötti szakaszokon.",
+              "A múzeumok remek lehetőséget nyújtanak a száraz időtöltésre."
+            ],
+            "ro": [
+              "Verificați programul autobuzelor online pentru a evita așteptarea în ploaie.",
+              "Autobuzele din Samobor sunt de încredere și de obicei punctuale.",
+              "Profitați de distanțele scurte între punctele de interes din centru.",
+              "O umbrelă este indispensabilă pentru segmentele dintre stații.",
+              "Muzeele oferă o alternativă excelentă de interior pe ploaie."
+            ],
+            "en": [
+              "Check the bus schedule online to avoid waiting in the rain.",
+              "Buses in Samobor are reliable and usually on time.",
+              "Take advantage of the short distances between downtown attractions.",
+              "An umbrella is essential for the walks between bus stops.",
+              "The museums offer a great indoor alternative during the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie das winterliche Samobor mit dem öffentlichen Nahverkehr. Der Busbahnhof bietet einen warmen Empfang. Verbringen Sie den frostigen Vormittag auf dem King Tomislav Square und im Samobor Museum. Ein lokaler Bus bringt Sie bequem zur Burgruine, bevor es dunkel wird. Genießen Sie die klare Winterluft an der Promenade, bevor Sie sich im Bus für die Rückfahrt wieder aufwärmen.",
+            "hu": "Fedezze fel a téli Samobort tömegközlekedéssel. A buszpályaudvar meleg fogadtatást nyújt. Töltse a fagyos délelőttöt a Tomiszláv király téren és a Samobor Múzeumban. Egy helyi busz kényelmesen elviszi a várromokhoz, még sötétedés előtt. Élvezze a tiszta téli levegőt a sétányon, majd melegedjen fel a buszon a visszaúton.",
+            "ro": "Explorați Samoborul de iarnă cu transportul public. Autogara oferă un bun punct de plecare. Petreceți dimineața geroasă în Piața Regele Tomislav și la Muzeul Samobor. Un autobuz local vă duce confortabil la ruinele castelului înainte de lăsarea întunericului. Bucurați-vă de aerul curat de iarnă pe promenadă, apoi încălziți-vă în autobuz la întoarcere.",
+            "en": "Explore wintry Samobor using public transport. The bus station provides a warm welcome. Spend the frosty morning at King Tomislav Square and the Samobor Museum. A local bus takes you comfortably to the castle ruins before it gets dark. Enjoy the clear winter air at the promenade before warming up on the bus for your return."
+          },
+          "stops": [
+            {
+              "name": "Center Cluster: Arrival at Bus Station",
+              "tip_5lang": {
+                "de": "Nutzen Sie den beheizten Wartebereich des Bahnhofs.",
+                "hu": "Vegye igénybe az állomás fűtött váróhelyiségét.",
+                "ro": "Folosiți sala de așteptare încălzită a autogării.",
+                "en": "Make use of the heated waiting room at the station."
+              }
+            },
+            {
+              "name": "Center Cluster: King Tomislav Square",
+              "tip_5lang": {
+                "de": "Die Cafés bieten heiße Getränke zum Aufwärmen nach der Ankunft.",
+                "hu": "A kávézók forró italokat kínálnak a megérkezés utáni felmelegedéshez.",
+                "ro": "Cafenelele oferă băuturi fierbinți pentru încălzire după sosire.",
+                "en": "Cafés offer hot drinks to warm you up after arrival."
+              }
+            },
+            {
+              "name": "Center Cluster: Samobor Museum",
+              "tip_5lang": {
+                "de": "Die Ausstellungsräume sind gut beheizt und bieten Komfort.",
+                "hu": "A kiállítótermek jól fűtöttek és kényelmesek.",
+                "ro": "Sălile de expoziție sunt bine încălzite și confortabile.",
+                "en": "The exhibition rooms are well-heated and comfortable."
+              }
+            },
+            {
+              "name": "Hill Cluster: Bus to the Castle Ruins",
+              "tip_5lang": {
+                "de": "Vermeiden Sie den eisigen Wind auf dem Hügel durch die Busfahrt.",
+                "hu": "A buszozással elkerülheti a jeges szelet a dombtetőn.",
+                "ro": "Evitați vântul înghețat de pe deal folosind autobuzul.",
+                "en": "Avoid the biting wind on the hill by taking the bus."
+              }
+            },
+            {
+              "name": "Hill Cluster: Samobor Castle Ruins",
+              "tip_5lang": {
+                "de": "Tragen Sie feste Schuhe; die Stufen können bei Frost glatt sein.",
+                "hu": "Viseljen stabil cipőt; a lépcsők fagyban csúszósak lehetnek.",
+                "ro": "Purtați încălțăminte stabilă; treptele pot fi alunecoase pe îngheț.",
+                "en": "Wear sturdy shoes; the steps can be slippery in freezing weather."
+              }
+            },
+            {
+              "name": "Center Cluster: Gradna Promenade",
+              "tip_5lang": {
+                "de": "Beenden Sie den Spaziergang rechtzeitig, um den letzten Bus im Hellen zu erreichen.",
+                "hu": "Fejezze be időben a sétát, hogy még világosban elérje az utolsó buszt.",
+                "ro": "Încheiați plimbarea la timp pentru a prinde ultimul autobuz pe lumină.",
+                "en": "Finish your walk in time to catch the bus while it is still light."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Busfrequenz kann an Wintertagen reduziert sein, prüfen Sie den Plan.",
+              "Die Busse sind gut beheizt und bieten eine Pause von der Kälte.",
+              "Tragen Sie warme Kleidung für die Wartezeiten an den Haltestellen.",
+              "Kremšnita ist im Winter in den gemütlichen Cafés ein Muss.",
+              "Die Sonne geht früh unter, nutzen Sie das Tageslicht für Outdoor-Stopps."
+            ],
+            "hu": [
+              "A buszjáratok ritkábbak lehetnek téli napokon, ellenőrizze a menetrendet.",
+              "A buszok jól fűtöttek, kellemes pihenőt nyújtanak a hideg után.",
+              "Öltözzön melegen a buszmegállókban való várakozáshoz.",
+              "A krémes télen a hangulatos kávézókban kötelező program.",
+              "A nap korán nyugszik, használja ki a nappali fényt a kinti látnivalókhoz."
+            ],
+            "ro": [
+              "Frecvența autobuzelor poate fi redusă iarna; verificați programul.",
+              "Autobuzele sunt bine încălzite și oferă o pauză de la frig.",
+              "Îmbrăcați-vă gros pentru perioadele de așteptare în stații.",
+              "Cremșnita este un must-have în cafenelele primitoare pe timpul iernii.",
+              "Soarele apune devreme; profitați de lumina zilei pentru vizitele externe."
+            ],
+            "en": [
+              "Bus frequency might be reduced on winter days, check the timetable.",
+              "Buses are well-heated and offer a break from the cold.",
+              "Wear warm clothes for the waiting periods at bus stops.",
+              "Kremšnita is a must in the cozy cafés during winter.",
+              "Sunset is early, so use the daylight for your outdoor stops."
+            ]
+          }
+        }
       }
     }
   }

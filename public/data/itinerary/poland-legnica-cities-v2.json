@@ -386,6 +386,214 @@
           "Keep an eye out for the many dwarf statues hidden around the city.",
           "Some museums have free admission on specific days."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Vormittag: Wir starten am Ring unter den Arkaden des Alten Rathauses. Die Kathedrale bietet danach einen prächtigen, trockenen Zufluchtsort. Mittags: Der Weg zum Piastenschloss ist kurz; die dicken Mauern schützen vor dem Guss. Nachmittag: Das Kupfermuseum ist ideal, um viele Stunden im Trockenen zu verbringen. Abend: Ein kurzer, atmosphärischer Spaziergang durch den nassen Stadtpark beendet den Tag.",
+            "hu": "Reggel: A Főtér árkádjai alatt kezdünk, védve az esőtől. A katedrális fenséges belső tere tökéletes menedék. Délben: A Piast-vár vastag falai között folytatjuk a felfedezést. Délután: A Rézmúzeum kiállításai ideálisak a hosszabb esős órákra. Este: Egy rövid, hangulatos séta a vizes Városi Parkban, ahol az óriási fák lombjai némi védelmet nyújtanak a szemerkélő esőben.",
+            "ro": "Dimineața: Începem în Piața Pieței, folosind arcadele vechii primării pentru adăpost. Catedrala este un refugiu uscat și impunător. Prânz: Castelul Piast oferă protecție între zidurile sale istorice. După-amiaza: Muzeul Cuprului este destinația perfectă pentru a evita ploaia prelungită. Seara: O scurtă plimbare atmosferică prin Parcul Orașului, unde reflexiile luminii în bălți creează un decor aparte.",
+            "en": "Morning: Start at the Market Square, utilizing the town hall arcades for shelter. The Cathedral provides a dry, majestic sanctuary. Noon: Explore the Piast Castle; its thick walls offer respite from the downpour. Afternoon: The Museum of Copper is the perfect indoor highlight for rainy hours. Evening: A brief, atmospheric stroll through the wet City Park wraps up the day under the heavy tree canopy."
+          },
+          "stops": [
+            {
+              "name": "Old Town Hall and Market Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkadengänge rund um den Platz als Regenschutz.",
+                "hu": "Használja a tér körüli árkádokat esővédőként a bámészkodáshoz.",
+                "ro": "Folosiți arcadele din jurul pieței pentru a rămâne uscați.",
+                "en": "Use the arcade passages around the square to stay dry while sightseeing."
+              }
+            },
+            {
+              "name": "Cathedral of Saints Peter and Paul",
+              "tip_5lang": {
+                "de": "Die massiven Backsteinmauern halten das Innere bei Regen angenehm trocken.",
+                "hu": "A masszív téglafalak szárazon tartják a belsőt az intenzív esőben is.",
+                "ro": "Zidurile masive de cărămidă păstrează interiorul perfect uscat.",
+                "en": "The massive brick walls keep the interior perfectly dry during heavy rain."
+              }
+            },
+            {
+              "name": "Piast Castle",
+              "tip_5lang": {
+                "de": "Besuchen Sie zuerst die Innenhöfe und dann die überdachten Ausstellungen.",
+                "hu": "Előbb az udvarokat nézze meg, majd vonuljon be a fedett kiállításokra.",
+                "ro": "Vizitați întâi curțile, apoi retrageți-vă în expozițiile interioare.",
+                "en": "Visit the courtyards first, then retreat into the indoor exhibitions."
+              }
+            },
+            {
+              "name": "Church of St. John the Baptist",
+              "tip_5lang": {
+                "de": "Bewundern Sie das Piasten-Mausoleum in aller Ruhe im Trockenen.",
+                "hu": "Csodálja meg a Piast-mauzóleumot nyugodt, száraz környezetben.",
+                "ro": "Admirați Mausoleul Piast în liniște, feriți de intemperii.",
+                "en": "Admire the Piast Mausoleum in peace, completely sheltered from the rain."
+              }
+            },
+            {
+              "name": "Museum of Copper",
+              "tip_5lang": {
+                "de": "Hervorragender Ort, um eine längere Regenpause kulturell zu nutzen.",
+                "hu": "Kiváló hely egy hosszabb esőnap kulturális eltöltésére.",
+                "ro": "Loc excelent pentru a petrece cultural o pauză lungă de ploaie.",
+                "en": "Excellent spot to spend a long rainy period immersed in culture."
+              }
+            },
+            {
+              "name": "Knight's Academy",
+              "tip_5lang": {
+                "de": "Das prächtige Barockgebäude bietet weitläufige, trockene Innenräume.",
+                "hu": "A pompás barokk épület tágas, száraz belső tereket kínál.",
+                "ro": "Clădirea barocă superbă oferă spații interioare ample și uscate.",
+                "en": "The grand baroque building offers spacious, dry interior halls."
+              }
+            },
+            {
+              "name": "City Park",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den dichten, alten Baumkronen am Hauptweg.",
+                "hu": "Keressen menedéket a főút menti sűrű, öreg faágak alatt.",
+                "ro": "Căutați adăpost sub coroanele dese ale copacilor bătrâni de pe alee.",
+                "en": "Seek shelter under the thick, old tree canopies along the main path."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da das Kopfsteinpflaster in der Altstadt rutschig wird.",
+              "Die Arkaden am Ring sind der beste Ort für eine trockene Kaffeepause.",
+              "Das Kupfermuseum hat großzügige Garderoben für nasse Mäntel und Schirme.",
+              "Planen Sie mehr Zeit für die Kirchenbesichtigungen ein, um Schauer abzuwarten.",
+              "Ein stabiler Windschirm ist wegen der freien Flächen am Schloss ratsam."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert az óvárosi macskakő esőben csúszóssá válik.",
+              "A Főtér árkádjai a legjobb helyek egy száraz kávészünetre.",
+              "A Rézmúzeumban tágas ruhatár van a vizes kabátoknak és esernyőknek.",
+              "Szánjon több időt a templomokra, amíg elül egy-egy nagyobb zápor.",
+              "A vár körüli nyitott terek miatt érdemes szélálló esernyőt vinni."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, pavajul vechi devine alunecos la ploaie.",
+              "Arcadele din Piața Pieței sunt cel mai bun loc pentru o pauză de cafea uscată.",
+              "Muzeul Cuprului are garderobe spațioase pentru haine și umbrele ude.",
+              "Alocați mai mult timp vizitării bisericilor pentru a aștepta trecerea ploii.",
+              "O umbrelă rezistentă la vânt este recomandată pentru zonele deschise de lângă castel."
+            ],
+            "en": [
+              "Wear waterproof shoes as the old town cobblestones become slippery when wet.",
+              "The Market Square arcades are the best spots for a dry coffee break.",
+              "The Museum of Copper has spacious cloakrooms for wet coats and umbrellas.",
+              "Allocate more time for church interiors to wait out passing showers.",
+              "A sturdy windproof umbrella is advised due to open spaces near the castle."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Vormittag: Die frostige Luft am Ring macht den Kaffee in den warmen Cafés besonders gemütlich. Die Kathedrale empfängt uns mit besinnlicher Stille. Mittags: Das Piastenschloss wirkt im Winterlicht besonders wehrhaft. Danach wärmen wir uns in der Johanniskirche auf. Nachmittag: Die geheizten Säle des Kupfermuseums sind eine Wohltat. Abend: Der Stadtpark im Dämmerlicht bei kühler Luft bildet den Abschluss, bevor die Sonne früh untergeht.",
+            "hu": "Reggel: A fagyos levegő a Főtéren különösen jólesővé teszi a forró kávét a helyi kávézókban. A katedrális csendes melege hívogató. Délben: A Piast-vár a téli fényekben monumentális képet mutat. A Keresztelő Szent János-templom belső tere segít felmelegedni. Délután: A Rézmúzeum fűtött termei igazi felüdülést jelentenek a hideg után. Este: A Városi Park alkonyati fényei zárják a napot a korai sötétedés előtt.",
+            "ro": "Dimineața: Aerul înghețat din Piața Pieței face cafeaua din localurile calde și mai plăcută. Catedrala ne întâmpină cu o liniște primitoare. Prânz: Castelul Piast arată impunător în lumina iernii. Ne încălzim apoi în Biserica Sf. Ioan Botezătorul. După-amiaza: Sălile încălzite ale Muzeului Cuprului sunt o binecuvântare. Seara: Parcul Orașului în amurg, sub aerul rece, încheie ziua înainte de apusul timpuriu.",
+            "en": "Morning: The frosty air at the Market Square makes a hot coffee in a cozy cafe essential. The Cathedral offers a peaceful, warm refuge. Noon: Piast Castle looks particularly defiant in the winter light. Warm up inside St. John's Church. Afternoon: The heated halls of the Museum of Copper are a welcome relief from the cold. Evening: The City Park in the twilight air concludes the day as the sun sets early."
+          },
+          "stops": [
+            {
+              "name": "Old Town Hall and Market Square",
+              "tip_5lang": {
+                "de": "Genießen Sie ein Heißgetränk in einem der Cafés mit Blick auf das Rathaus.",
+                "hu": "Igyon egy forró italt a Városházára néző kávézók egyikében.",
+                "ro": "Savurați o băutură caldă la o cafenea cu vedere spre primărie.",
+                "en": "Enjoy a hot drink in one of the cafes overlooking the old town hall."
+              }
+            },
+            {
+              "name": "Cathedral of Saints Peter and Paul",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Kirchenbesichtigung, um sich zwischendurch aufzuwärmen.",
+                "hu": "Használja ki a templomlátogatást egy kis köztes felmelegedésre.",
+                "ro": "Profități de vizitarea bisericii pentru a vă încălzi puțin.",
+                "en": "Use the church visit to warm up between outdoor segments."
+              }
+            },
+            {
+              "name": "Piast Castle",
+              "tip_5lang": {
+                "de": "Vorsicht auf den Treppen im Außenbereich, sie können bei Frost glatt sein.",
+                "hu": "Vigyázzon a kültéri lépcsőkön, fagy esetén csúszósak lehetnek.",
+                "ro": "Atenție la scările exterioare, pot fi alunecoase în caz de îngheț.",
+                "en": "Be careful on the outdoor stairs; they can be slippery in freezing weather."
+              }
+            },
+            {
+              "name": "Church of St. John the Baptist",
+              "tip_5lang": {
+                "de": "Das Mausoleum ist im Winter oft ruhiger und sehr besinnlich.",
+                "hu": "A mauzóleum télen gyakran csendesebb és meghittebb.",
+                "ro": "Mausoleul este adesea mai liniștit și contemplativ iarna.",
+                "en": "The mausoleum is often quieter and very contemplative in winter."
+              }
+            },
+            {
+              "name": "Museum of Copper",
+              "tip_5lang": {
+                "de": "Planen Sie hier den längsten Aufenthalt zur wärmsten Tageszeit ein.",
+                "hu": "Ide tervezze a leghosszabb tartózkodást a nap legmelegebb szakaszában.",
+                "ro": "Planificați aici cea mai lungă ședere în perioada cea mai caldă a zilei.",
+                "en": "Plan your longest stay here during the coldest part of the day."
+              }
+            },
+            {
+              "name": "Knight's Academy",
+              "tip_5lang": {
+                "de": "Die barocke Pracht lässt sich in den beheizten Sälen gut bewundern.",
+                "hu": "A barokk pompát kiválóan megcsodálhatja a fűtött termekben.",
+                "ro": "Splendoarea barocă poate fi admirată confortabil în sălile încălzite.",
+                "en": "The baroque splendor can be admired comfortably in the heated halls."
+              }
+            },
+            {
+              "name": "City Park",
+              "tip_5lang": {
+                "de": "Besuchen Sie den Park vor 16 Uhr, um das restliche Tageslicht zu nutzen.",
+                "hu": "Délután 4 előtt látogasson el ide, hogy kihasználja a maradék fényt.",
+                "ro": "Vizitați parcul înainte de ora 16 pentru a profita de lumina zilei.",
+                "en": "Visit the park before 4 PM to make the most of the remaining daylight."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermo-Einlagen in den Schuhen für das Kopfsteinpflaster.",
+              "Die Sonne geht in Legnica im Dezember bereits gegen 16:10 Uhr unter.",
+              "Viele Cafés am Ring bieten saisonale polnische Winterspezialitäten an.",
+              "Achten Sie auf Glatteis in der Nähe des Schlosses und am Flussufer.",
+              "Die Innenräume der Museen sind gut geheizt, Zwiebelprinzip bei Kleidung hilft."
+            ],
+            "hu": [
+              "Viseljen talpmelegítőt vagy thermo-betétet a macskaköves sétákhoz.",
+              "Legnicában decemberben már 16:10 körül lemegy a nap.",
+              "A főtéri kávézók szezonális lengyel téli finomságokat kínálnak.",
+              "Vigyázzon a jegesedésre a vár környékén és a folyóparti részeken.",
+              "A múzeumok jól fűtöttek, a réteges öltözködés a legpraktikusabb."
+            ],
+            "ro": [
+              "Purtați branțuri termice în încălțăminte pentru plimbările pe pavaj.",
+              "Soarele apune în Legnica în jur de ora 16:10 în luna decembrie.",
+              "Multe cafenele din piață oferă specialități poloneze de iarnă.",
+              "Atenție la porțiunile cu gheață lângă castel și pe malul râului.",
+              "Interioarele muzeelor sunt bine încălzite, îmbrăcați-vă în straturi."
+            ],
+            "en": [
+              "Wear thermal insoles in your shoes for the long walks on cobblestones.",
+              "The sun sets in Legnica around 4:10 PM during December.",
+              "Many cafes in the square offer seasonal Polish winter specialties.",
+              "Watch out for icy patches near the castle and along the river banks.",
+              "Museum interiors are well-heated, so dressing in layers is recommended."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -766,6 +974,214 @@
           "Pay attention to designated bike lanes, especially outside the center.",
           "A bike bell is useful in city traffic."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Vormittag: Zügige Fahrt zwischen den historischen Highlights. Das Kopfsteinpflaster am Ring erfordert volle Konzentration. Mittags: Das Piastenschloss bietet einen schnellen Unterstand. Danach geht es im Regenschutz weiter zur Ritterakademie. Nachmittag: Eine längere Pause im Kupfermuseum lässt die Kleidung trocknen. Abend: Eine erfrischende, wenn auch nasse Runde durch den Stadtpark auf befestigten Wegen.",
+            "hu": "Reggel: Gyors tekerés a történelmi helyszínek között. Az óvárosi macskakő teljes koncentrációt igényel az esőben. Délben: A Piast-vár gyors menedéket nyújt a záporok elől. Folytatás esővédőben a Lovagakadémia felé. Délután: Hosszabb szünet a Rézmúzeumban, ahol az öltözetünk is megszáradhat. Este: Egy frissítő, bár vizes kör a Városi Park aszfaltozott útjain.",
+            "ro": "Dimineața: Deplasare rapidă între reperele istorice. Pavajul din piață necesită concentrare maximă pe ploaie. Prânz: Castelul Piast oferă un adăpost rapid. Continuăm protejați spre Academia Cavalerilor. După-amiaza: O pauză lungă la Muzeul Cuprului permite uscarea echipamentului. Seara: O tură revigorantă, deși udă, prin Parcul Orașului pe potecile asfaltate.",
+            "en": "Morning: Swift riding between historical highlights. The cobblestones in the square require full focus in the rain. Noon: Piast Castle offers a quick shelter from showers. Continue with rain gear towards the Knight's Academy. Afternoon: A long break at the Museum of Copper allows your gear to dry. Evening: A refreshing, if wet, loop through the City Park on paved paths."
+          },
+          "stops": [
+            {
+              "name": "Old Town Hall and Market Square",
+              "tip_5lang": {
+                "de": "Vorsicht beim Bremsen auf dem nassen Pflaster rund um das Rathaus.",
+                "hu": "Vigyázzon a fékezéssel a Városháza körüli vizes köveken.",
+                "ro": "Atenție la frânare pe pavajul ud din jurul primăriei.",
+                "en": "Be extra careful when braking on the wet pavement around the town hall."
+              }
+            },
+            {
+              "name": "Cathedral of Saints Peter and Paul",
+              "tip_5lang": {
+                "de": "Sicherer Fahrradständer direkt am Eingang unter dem Dachvorsprung.",
+                "hu": "Biztonságos biciklitároló közvetlenül a bejáratnál az eresz alatt.",
+                "ro": "Suport de biciclete sigur chiar la intrare, sub streașină.",
+                "en": "Secure bike rack directly at the entrance under the roof overhang."
+              }
+            },
+            {
+              "name": "Piast Castle & Chojnów Tower",
+              "tip_5lang": {
+                "de": "Die Auffahrt zum Schloss kann bei Regen rutschig sein.",
+                "hu": "A vár felé vezető feljáró esőben csúszós lehet.",
+                "ro": "Rampa spre castel poate fi alunecoasă pe timp de ploaie.",
+                "en": "The driveway up to the castle can be slippery during rainfall."
+              }
+            },
+            {
+              "name": "Knight's Academy",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad im Innenhof, der teilweise windgeschützt ist.",
+                "hu": "Parkoljon a belső udvarban, amely részben szélvédett.",
+                "ro": "Parcați bicicleta în curtea interioară, parțial ferită de vânt.",
+                "en": "Park your bike in the inner courtyard, which is partially wind-sheltered."
+              }
+            },
+            {
+              "name": "Museum of Copper",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch als Trockenpause für Ihre Ausrüstung.",
+                "hu": "Használja a múzeumlátogatást felszerelése megszárítására.",
+                "ro": "Folosiți vizita la muzeu ca pauză de uscare pentru echipament.",
+                "en": "Use the museum visit as a drying break for your cycling gear."
+              }
+            },
+            {
+              "name": "Church of St. John the Baptist",
+              "tip_5lang": {
+                "de": "Guter Unterstand für das Rad nahe dem Kircheneingang.",
+                "hu": "Jó fedett hely a biciklinek a templombejárat közelében.",
+                "ro": "Adăpost bun pentru bicicletă lângă intrarea în biserică.",
+                "en": "Good shelter for your bike near the church entrance."
+              }
+            },
+            {
+              "name": "City Park",
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den asphaltierten Hauptwegen, um Matsch zu vermeiden.",
+                "hu": "Maradjon az aszfaltozott főutakon a sár elkerülése érdekében.",
+                "ro": "Rămâneți pe aleile principale asfaltate pentru a evita noroiul.",
+                "en": "Stay on the paved main paths to avoid mud and puddles."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie Straßenbahnschienen in der Innenstadt bei Nässe.",
+              "Ein kompletter Regenponcho ist bei diesem Wind in Niederschlesien ratsam.",
+              "Prüfen Sie Ihre Bremsbeläge vor der Fahrt durch die Altstadt.",
+              "Der Stadtpark hat viele asphaltierte Wege, die auch bei Regen gut fahrbar sind.",
+              "Sichern Sie Taschen mit wasserdichten Überzügen."
+            ],
+            "hu": [
+              "Kerülje el a villamossíneket a belvárosban, ha nedves az út.",
+              "A szeles alsó-sziléziai időben a teljes esőponcho ajánlott.",
+              "Ellenőrizze a fékbetéteket az óvárosi túra előtt.",
+              "A Városi Park aszfaltozott útjai esőben is jól tekerhetőek.",
+              "Használjon vízálló huzatot a kerékpáros táskákra."
+            ],
+            "ro": [
+              "Evitați șinele de tramvai din centrul orașului când sunt ude.",
+              "O pelerină completă de ploaie este recomandată pentru vântul din Silezia.",
+              "Verificați plăcuțele de frână înainte de tura prin centrul vechi.",
+              "Parcul are multe alei asfaltate, practicabile chiar și pe ploaie.",
+              "Asigurați gențile cu huse impermeabile."
+            ],
+            "en": [
+              "Avoid tram tracks in the city center when the ground is wet.",
+              "A full rain poncho is advised given the windy conditions in Lower Silesia.",
+              "Check your brake pads before heading into the old town area.",
+              "The City Park has many paved paths that remain rideable in the rain.",
+              "Secure your panniers or bags with waterproof covers."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Vormittag: Eine sportliche Fahrt durch das frostige Legnica. Die klare Luft am Ring ist belebend. Mittags: Nach dem Schlossbesuch wärmen wir uns in den historischen Kirchen auf. Nachmittag: Das Kupfermuseum bietet die nötige Wärme für eine lange Pause. Abend: Eine schnelle Runde durch den winterlichen Stadtpark, bevor die Kälte nach Sonnenuntergang anzieht.",
+            "hu": "Reggel: Sportos tekerés a fagyos Legnicán keresztül. A tiszta levegő a Főtéren élénkítő. Délben: A várnézés után a történelmi templomokban melegszünk fel. Délután: A Rézmúzeum biztosítja a szükséges hőt egy hosszabb pihenőhöz. Este: Egy gyors kör a téli Városi Parkban, mielőtt a naplemente utáni hideg beköszönt.",
+            "ro": "Dimineața: O cursă sportivă prin Legnica înghețată. Aerul curat din piață este revigorant. Prânz: După vizitarea castelului, ne încălzim în bisericile istorice. După-amiaza: Muzeul Cuprului oferă căldura necesară pentru o pauză lungă. Seara: O tură rapidă prin parcul de iarnă, înainte ca gerul să se intensifice după apus.",
+            "en": "Morning: A sporty ride through frosty Legnica. The crisp air at the Market Square is invigorating. Noon: After visiting the castle, warm up inside the historical churches. Afternoon: The Museum of Copper provides much-needed warmth for a long break. Evening: A quick loop through the wintery City Park before the post-sunset cold sets in."
+          },
+          "stops": [
+            {
+              "name": "Old Town Hall and Market Square",
+              "tip_5lang": {
+                "de": "Achten Sie auf gefrorene Pfützen zwischen den Pflastersteinen.",
+                "hu": "Figyeljen a macskakövek közötti fagyott tócsákra.",
+                "ro": "Atenție la bălțile înghețate dintre pietrele de pavaj.",
+                "en": "Watch out for frozen puddles between the cobblestones."
+              }
+            },
+            {
+              "name": "Cathedral of Saints Peter and Paul",
+              "tip_5lang": {
+                "de": "Kurze Aufwärmpause im Vorraum der Kathedrale einlegen.",
+                "hu": "Tartson egy rövid melegedő szünetet a katedrális előterében.",
+                "ro": "Faceți o scurtă pauză de încălzire în vestibulul catedralei.",
+                "en": "Take a short warm-up break in the cathedral's vestibule."
+              }
+            },
+            {
+              "name": "Piast Castle & Chojnów Tower",
+              "tip_5lang": {
+                "de": "Halten Sie die Fahrtzeit im Freien kurz, nutzen Sie die Innenhöfe.",
+                "hu": "Tartsa röviden a kinti tartózkodást, használja a belső tereket.",
+                "ro": "Limitați timpul petrecut afară, folosiți spațiile interioare.",
+                "en": "Keep outdoor time short and prioritize the indoor exhibits."
+              }
+            },
+            {
+              "name": "Knight's Academy",
+              "tip_5lang": {
+                "de": "Fahrrad im geschützten Innenhof abstellen, um Sattelfrost zu vermeiden.",
+                "hu": "Védett udvaron parkoljon, hogy elkerülje a nyereg lefagyását.",
+                "ro": "Parcați în curtea protejată pentru a evita înghețarea șeii.",
+                "en": "Park in the sheltered courtyard to prevent seat frost."
+              }
+            },
+            {
+              "name": "Museum of Copper",
+              "tip_5lang": {
+                "de": "Idealer Ort für eine lange Pause in geheizten Räumen.",
+                "hu": "Ideális hely egy hosszú pihenőre a fűtött termekben.",
+                "ro": "Loc ideal pentru o pauză lungă în săli încălzite.",
+                "en": "Ideal spot for a long break in heated rooms."
+              }
+            },
+            {
+              "name": "Church of St. John the Baptist",
+              "tip_5lang": {
+                "de": "Wärmen Sie Ihre Hände in der Kirche auf, bevor es weitergeht.",
+                "hu": "Melegítse fel a kezeit a templomban a továbbindulás előtt.",
+                "ro": "Încălziți-vă mâinile în biserică înainte de a continua drumul.",
+                "en": "Warm your hands inside the church before continuing your ride."
+              }
+            },
+            {
+              "name": "City Park",
+              "tip_5lang": {
+                "de": "Vermeiden Sie schattige Wege, dort kann es dauerhaft glatt sein.",
+                "hu": "Kerülje az árnyékos utakat, ott tartósan jeges maradhat a talaj.",
+                "ro": "Evitați aleile umbrite, pot rămâne înghețate toată ziua.",
+                "en": "Avoid shaded paths as they can remain icy throughout the day."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Handschuhe, der Fahrtwind ist im Winter beißend.",
+              "Prüfen Sie den Reifendruck, er sinkt bei Kälte oft ab.",
+              "Die Sonne geht früh unter, sorgen Sie für voll geladene Fahrradlichter.",
+              "Ein Thermosbecher mit Tee passt meist perfekt in den Flaschenhalter.",
+              "Vermeiden Sie bei Frost die Nähe zu Brunnen oder Wasserflächen im Park."
+            ],
+            "hu": [
+              "Viseljen szélálló kesztyűt, a menetszél télen metsző lehet.",
+              "Ellenőrizze a guminyomást, a hidegben gyakran csökken.",
+              "A nap korán nyugszik, legyen teljesen feltöltött világítása.",
+              "Egy termosz tea általában tökéletesen illik a kulacstartóba.",
+              "Fagy esetén kerülje a szökőkutak és vízfelületek környékét a parkban."
+            ],
+            "ro": [
+              "Purtați mănuși rezistente la vânt, curentul este tăios iarna.",
+              "Verificați presiunea în pneuri, aceasta scade adesea la frig.",
+              "Soarele apune devreme, asigurați-vă că luminile sunt încărcate.",
+              "Un termos cu ceai se potrivește de obicei în suportul de bidon.",
+              "Evitați zonele cu fântâni sau apă din parc în caz de îngheț."
+            ],
+            "en": [
+              "Wear windproof gloves as the wind chill can be biting in winter.",
+              "Check your tire pressure; it often drops in cold temperatures.",
+              "The sun sets early; ensure your bike lights are fully charged.",
+              "A thermos of hot tea usually fits perfectly in a water bottle cage.",
+              "Avoid riding near fountains or water features in the park during frost."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1086,6 +1502,196 @@
           "Plan your drives between clusters outside of peak hours.",
           "A GPS is essential for navigating the city."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Vormittag: Bequeme Anfahrt zum Altstadt-Parkplatz. Kurze Wege führen zum Rathaus und zur Kathedrale. Mittags: Das Kupfermuseum bietet eine ideale trockene Station. Danach kurzer Transfer zum Parkplatz am Schloss. Nachmittag: Ausgiebige Besichtigung der Ritterakademie und des Schlosses. Abend: Kurze Fahrt zum Stadtpark für einen Blick ins Grüne aus dem trockenen Wagen oder einen kurzen Spaziergang.",
+            "hu": "Reggel: Kényelmes érkezés az óvárosi parkolóba. Rövid séta a Városházához és a katedrálishoz. Délben: A Rézmúzeum tökéletes száraz állomás az eső elől. Ezután rövid autózás a vár melletti parkolóba. Délután: A Lovagakadémia és a vár alapos bejárása. Este: Rövid út a Városi Parkhoz, egy gyors zöld pillantás az autóból, vagy egy rövid séta a fák alatt.",
+            "ro": "Dimineața: Sosire confortabilă la parcarea din centrul vechi. Drumuri scurte spre primărie și catedrală. Prânz: Muzeul Cuprului este o stație ideală împotriva ploii. Urmează un transfer scurt la parcarea castelului. După-amiaza: Vizitarea detaliată a Academiei Cavalerilor și a castelului. Seara: Scurtă deplasare la parc pentru o privire spre verdeață din mașină sau o plimbare scurtă.",
+            "en": "Morning: Comfortable arrival at the Old Town car park. Short walks lead to the Town Hall and Cathedral. Noon: The Museum of Copper is an ideal dry stop during the rain. Followed by a quick transfer to the Castle car park. Afternoon: Detailed exploration of the Knight's Academy and the Castle. Evening: Short drive to the City Park for a quick look at the greenery from your dry car or a brief stroll."
+          },
+          "stops": [
+            {
+              "name": "Old Town Car Park (Cluster A)",
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Schauer kurz im Wagen, bis es nachlässt.",
+                "hu": "Erős zápor esetén várjon kicsit az autóban, amíg alábbhagy.",
+                "ro": "Așteptați puțin în mașină în caz de aversă puternică.",
+                "en": "Stay in the car briefly during heavy downpours until it eases up."
+              }
+            },
+            {
+              "name": "Old Town Hall and Cathedral",
+              "tip_5lang": {
+                "de": "Zentraler Standort, alle Highlights sind in 2-3 Gehminuten erreichbar.",
+                "hu": "Központi hely, minden látnivaló 2-3 perc sétára van.",
+                "ro": "Locație centrală, toate atracțiile sunt la 2-3 minute de mers.",
+                "en": "Central location; all highlights are within a 2-3 minute walk."
+              }
+            },
+            {
+              "name": "Museum of Copper",
+              "tip_5lang": {
+                "de": "Parken Sie direkt davor, um den Regenweg minimal zu halten.",
+                "hu": "Parkoljon közvetlenül előtte, hogy minimális legyen az ázás.",
+                "ro": "Parcați chiar în față pentru a minimiza drumul prin ploaie.",
+                "en": "Park directly in front to keep the walk in the rain minimal."
+              }
+            },
+            {
+              "name": "Piast Castle Car Park (Cluster B)",
+              "tip_5lang": {
+                "de": "Bequemer Parkplatz direkt am Schlosskomplex.",
+                "hu": "Kényelmes parkoló közvetlenül a várkomplexum mellett.",
+                "ro": "Parcare convenabilă chiar lângă complexul castelului.",
+                "en": "Convenient parking located directly next to the castle complex."
+              }
+            },
+            {
+              "name": "Piast Castle and Knight's Academy",
+              "tip_5lang": {
+                "de": "Nutzen Sie die kurzen Wege zwischen den Gebäuden.",
+                "hu": "Használja ki az épületek közötti rövid távolságokat.",
+                "ro": "Profitați de distanțele scurte dintre clădiri.",
+                "en": "Take advantage of the short walking distances between the buildings."
+              }
+            },
+            {
+              "name": "City Park",
+              "tip_5lang": {
+                "de": "Parken Sie am Rande des Parks für einen schnellen Rückzug bei Regen.",
+                "hu": "Parkoljon a park szélén a gyors visszavonulás érdekében.",
+                "ro": "Parcați la marginea parcului pentru o retragere rapidă în caz de ploaie.",
+                "en": "Park at the edge of the park for a quick retreat if it rains."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Parkplatz-Cluster, um Fußwege im Regen zu minimieren.",
+              "Hinterlassen Sie keine feuchten Schirme auf den Sitzen.",
+              "Die Sicht kann bei starkem Regen in den engen Gassen eingeschränkt sein.",
+              "Die Tiefgarage des nahen Einkaufszentrums ist eine gute trockene Alternative.",
+              "Prüfen Sie Park-Apps für kontaktloses Bezahlen im Trockenen."
+            ],
+            "hu": [
+              "Használja a parkoló-fürtöket a gyaloglás minimalizálására az esőben.",
+              "Ne hagyjon vizes esernyőt az üléseken, használja a padlót.",
+              "A látási viszonyok korlátozottak lehetnek a szűk utcákban erős esőben.",
+              "A közeli pláza mélygarázsa jó száraz alternatíva lehet.",
+              "Használjon parkoló-appot a kényelmes, autóban ülve történő fizetéshez."
+            ],
+            "ro": [
+              "Folosiți parcările grupate pentru a minimiza mersul prin ploaie.",
+              "Nu lăsați umbrele ude pe scaune, folosiți podeaua mașinii.",
+              "Vizibilitatea poate fi redusă pe străzile înguste în timpul ploii.",
+              "Parcarea subterană a mall-ului din apropiere este o alternativă uscată.",
+              "Utilizați aplicații de parcare pentru a plăti confortabil din mașină."
+            ],
+            "en": [
+              "Use the parking clusters to minimize walking distances in the rain.",
+              "Avoid leaving wet umbrellas on the seats; use the floor mats.",
+              "Visibility may be limited in narrow streets during heavy rainfall.",
+              "The underground car park of the nearby mall is a good dry alternative.",
+              "Check parking apps for contactless payment from inside your car."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Vormittag: Entspannte Fahrt durch das winterliche Legnica zum ersten Parkplatz. Die Altstadt liegt im Frostschleier. Mittags: Nach dem Aufwärmen im Kupfermuseum geht es zum Schloss-Cluster. Nachmittag: Besichtigung der Ritterakademie und des Schlosses bei kühlem Winterlicht. Abend: Kurze Fahrt zum Stadtpark, um die beleuchteten Bäume in der Dämmerung zu sehen, bevor es zurückgeht.",
+            "hu": "Reggel: Pihentető autózás a téli Legnicán át az első parkolóig. Az óváros fagyos ködben úszik. Délben: A Rézmúzeumban történő felmelegedés után irány a vár-parkoló. Délután: A Lovagakadémia és a vár megtekintése hűvös téli fényekben. Este: Rövid út a Városi Parkhoz, a kivilágított fák megtekintése az alkonyatban a hazaindulás előtt.",
+            "ro": "Dimineața: Deplasare relaxată prin Legnica de iarnă până la prima parcare. Centrul vechi e acoperit de brumă. Prânz: După încălzirea la Muzeul Cuprului, mergem spre parcarea castelului. După-amiaza: Vizitarea academiei și a castelului în lumina rece a iernii. Seara: Scurtă deplasare spre parc pentru a vedea copacii luminați în amurg.",
+            "en": "Morning: Relaxing drive through wintery Legnica to the first car park. The old town is veiled in frost. Noon: After warming up at the Museum of Copper, head to the Castle cluster. Afternoon: Sightseeing at the Knight's Academy and the Castle in cool winter light. Evening: Short drive to the City Park to see the illuminated trees at twilight before heading back."
+          },
+          "stops": [
+            {
+              "name": "Old Town Car Park (Cluster A)",
+              "tip_5lang": {
+                "de": "Planen Sie Zeit zum Enteisen der Scheiben ein.",
+                "hu": "Számoljon extra idővel a szélvédő jégtelenítésére.",
+                "ro": "Alocați timp pentru dezghețarea parbrizului.",
+                "en": "Allow extra time for defrosting the windshield if parked outdoors."
+              }
+            },
+            {
+              "name": "Old Town Hall and Cathedral",
+              "tip_5lang": {
+                "de": "Die Cafés rund um das Rathaus sind im Winter sehr einladend.",
+                "hu": "A Városháza körüli kávézók télen nagyon hívogatóak.",
+                "ro": "Cafenelele din jurul primăriei sunt foarte primitoare iarna.",
+                "en": "The cafes around the town hall are very inviting during winter."
+              }
+            },
+            {
+              "name": "Museum of Copper",
+              "tip_5lang": {
+                "de": "Lassen Sie schwere Wintermäntel im Auto, wenn Sie direkt davor parken.",
+                "hu": "A nehéz télikabátokat az autóban is hagyhatja, ha közvetlen előtte parkol.",
+                "ro": "Puteți lăsa haina groasă în mașină dacă parcați chiar în față.",
+                "en": "Leave heavy winter coats in the car if you find a spot directly in front."
+              }
+            },
+            {
+              "name": "Piast Castle Car Park (Cluster B)",
+              "tip_5lang": {
+                "de": "Gut geräumter Parkplatz in unmittelbarer Nähe zum Schlosstor.",
+                "hu": "Jól letakarított parkoló közvetlenül a várkapu mellett.",
+                "ro": "Parcare bine deszăpezită în imediata apropiere a porții castelului.",
+                "en": "Well-cleared parking lot in immediate proximity to the castle gate."
+              }
+            },
+            {
+              "name": "Piast Castle and Knight's Academy",
+              "tip_5lang": {
+                "de": "Die Innenräume sind im Winter der Hauptanziehungspunkt.",
+                "hu": "Télen a belső terek jelentik a fő vonzerőt.",
+                "ro": "Interioarele reprezintă principala atracție pe timp de iarnă.",
+                "en": "The indoor exhibits are the main highlight during winter visits."
+              }
+            },
+            {
+              "name": "City Park",
+              "tip_5lang": {
+                "de": "Der Parkplatz bietet einen schönen Blick auf den gefrorenen Teich.",
+                "hu": "A parkolóból szép kilátás nyílik a befagyott tóra.",
+                "ro": "Parcarea oferă o vedere frumoasă spre lacul înghețat.",
+                "en": "The parking area offers a nice view of the frozen pond."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Glatteis auf den Kopfsteinpflasterstraßen der Altstadt.",
+              "Die Batteriekapazität kann bei starkem Frost abnehmen.",
+              "Nutzen Sie die Sitzheizung für die kurzen Etappen zwischen den Clustern.",
+              "Die Sonne geht gegen 16:10 Uhr unter, parken Sie unter Laternen.",
+              "Führen Sie einen Eiskratzer und Besen für plötzlichen Schneefall mit."
+            ],
+            "hu": [
+              "Vigyázzon a jegesedésre az óvárosi macskaköves utcákon.",
+              "Az akkumulátor kapacitása erős fagyban csökkenhet.",
+              "Használja az ülésfűtést a parkolók közötti rövid szakaszokon.",
+              "A nap 16:10 körül nyugszik, érdemes lámpák közelében parkolni.",
+              "Tartson jégkaparót és kefét az autóban hirtelen havazás esetére."
+            ],
+            "ro": [
+              "Atenție la polei pe străzile pavate din centrul vechi.",
+              "Capacitatea bateriei poate scădea în caz de ger puternic.",
+              "Folosiți încălzirea în scaune pentru segmentele scurte dintre parcări.",
+              "Soarele apune în jur de 16:10, parcați sub felinare.",
+              "Aveți la îndemână o racletă și o perie pentru ninsori neașteptate."
+            ],
+            "en": [
+              "Watch out for icy patches on the old town's cobblestone streets.",
+              "Battery capacity may decrease during periods of severe frost.",
+              "Use seat heaters for the short drives between parking clusters.",
+              "The sun sets around 4:10 PM; try to park near streetlights.",
+              "Keep an ice scraper and brush handy in case of sudden snowfall."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1390,6 +1996,196 @@
           "Validate your ticket upon boarding to avoid fines.",
           "Be aware that buses may run less frequently in the evening and on weekends."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Vormittag: Ankunft an der Haltestelle Altstadt. Ein kurzer Sprint unter Schirmen führt zum Rathaus. Mittags: Das Kupfermuseum bietet Schutz und Kultur. Danach kurzer Transfer zum Schloss-Cluster. Nachmittag: Besichtigung der Ritterakademie und des Piastenschlosses. Abend: Kurze Busfahrt zum Stadtpark, wo wir die Atmosphäre trotz Regen genießen, bevor es zur Endstation geht.",
+            "hu": "Reggel: Érkezés az óvárosi megállóba. Rövid futás esernyővel a Városházáig. Délben: A Rézmúzeum védelmet és kultúrát nyújt. Ezután rövid átszállás a vár-megállóhoz. Délután: A Lovagakadémia és a Piast-vár megtekintése. Este: Rövid buszozás a Városi Parkhoz, ahol az eső ellenére élvezzük a hangulatot a végállomás felé menet.",
+            "ro": "Dimineața: Sosire la stația din centrul vechi. Un scurt sprint sub umbrele spre primărie. Prânz: Muzeul Cuprului oferă adăpost și cultură. Urmează un transfer scurt spre castel. După-amiaza: Vizitarea Academiei Cavalerilor și a Castelului Piast. Seara: Scurtă călătorie cu autobuzul spre parcul orașului, bucurându-ne de atmosferă în ciuda ploii.",
+            "en": "Morning: Arrival at the Old Town stop. A short sprint under umbrellas leads to the Town Hall. Noon: The Museum of Copper offers shelter and culture. Followed by a quick transit transfer to the Castle area. Afternoon: Sightseeing at the Knight's Academy and Piast Castle. Evening: Short bus ride to the City Park, enjoying the atmosphere despite the rain before heading to the final stop."
+          },
+          "stops": [
+            {
+              "name": "Old Town Stop (Cluster A)",
+              "tip_5lang": {
+                "de": "Überdachte Haltestelle vorhanden, ideal zum Warten auf den Anschluss.",
+                "hu": "Fedett megálló, ideális a csatlakozásra való várakozáshoz.",
+                "ro": "Stație acoperită, ideală pentru a aștepta legătura.",
+                "en": "Covered transit stop available, ideal for waiting out heavy rain."
+              }
+            },
+            {
+              "name": "Old Town Hall and Cathedral",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Kircheneingang als Unterstand bei plötzlichem Guss.",
+                "hu": "Használja a templombejáratot menedékként hirtelen zápor esetén.",
+                "ro": "Folosiți intrarea bisericii ca adăpost în caz de aversă bruscă.",
+                "en": "Use the church entrance as a shelter during sudden downpours."
+              }
+            },
+            {
+              "name": "Museum of Copper",
+              "tip_5lang": {
+                "de": "Die Haltestelle befindet sich fast unmittelbar vor dem Museum.",
+                "hu": "A megálló szinte közvetlenül a múzeum előtt található.",
+                "ro": "Stația se află aproape direct în fața muzeului.",
+                "en": "The transit stop is located almost directly in front of the museum."
+              }
+            },
+            {
+              "name": "Piast Castle Stop (Cluster B)",
+              "tip_5lang": {
+                "de": "Nur 150 Meter Fußweg zum Schlosseingang, meist gepflastert.",
+                "hu": "Csak 150 méter séta a várbejáratig, végig kövezett úton.",
+                "ro": "Doar 150 de metri de mers până la castel, drum pavat.",
+                "en": "Only a 150-meter walk to the castle entrance, mostly paved."
+              }
+            },
+            {
+              "name": "Piast Castle and Knight's Academy",
+              "tip_5lang": {
+                "de": "Bei Regen ist die Ritterakademie ein weitläufiger Rückzugsort.",
+                "hu": "Esőben a Lovagakadémia tágas menedéket jelent.",
+                "ro": "Academia Cavalerilor este un refugiu spațios pe timp de ploaie.",
+                "en": "The Knight's Academy serves as a spacious retreat during rain."
+              }
+            },
+            {
+              "name": "City Park",
+              "tip_5lang": {
+                "de": "Wählen Sie die Haltestelle am Palmhaus für einen trockenen Blick.",
+                "hu": "Válassza a Pálmaház közeli megállót a száraz nézelődéshez.",
+                "ro": "Alegeți stația de lângă sere pentru o vedere ferită de ploaie.",
+                "en": "Choose the stop near the Palm House for a dry view of the park."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Legnica-ÖPNV-App für Echtzeit-Infos bei Verspätungen.",
+              "Fahrkarten können meist kontaktlos im Bus gekauft werden.",
+              "Die Haltestellen in der Altstadt sind oft nicht alle überdacht.",
+              "Tragen Sie bei Wind am Schloss eine Kapuze statt nur einen Schirm.",
+              "Halten Sie Kleingeld oder eine Karte für Ticketautomaten bereit."
+            ],
+            "hu": [
+              "Használja a helyi közlekedési appot a valós idejű infókért.",
+              "A jegyek általában érintésmentesen megvásárolhatóak a buszon.",
+              "Az óvárosi megállók közül nem mindegyik fedett.",
+              "A várnál fújó szélben érdemes kapucnit hordani esernyő helyett.",
+              "Legyen Önnél aprópénz vagy kártya az automatákhoz."
+            ],
+            "ro": [
+              "Utilizați aplicația de transport local pentru informații în timp real.",
+              "Biletele pot fi cumpărate de obicei contactless direct din autobuz.",
+              "Nu toate stațiile din centrul vechi sunt acoperite.",
+              "Purtați glugă în loc de umbrelă în zona vântoasă a castelului.",
+              "Aveți pregătit mărunt sau un card pentru automatele de bilete."
+            ],
+            "en": [
+              "Use the Legnica transit app for real-time info during rain delays.",
+              "Tickets can usually be purchased contactless inside the bus.",
+              "Not all stops in the old town area are covered.",
+              "Wear a hood instead of an umbrella in the windy castle area.",
+              "Keep some change or a card ready for the ticket machines."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Vormittag: Ankunft im frostigen Legnica. Kurzer Fußweg durch die belebende Winterluft zum Rathaus. Mittags: Nach dem Aufwärmen im Kupfermuseum nehmen wir den Bus zum Schloss-Viertel. Nachmittag: Besichtigung der Ritterakademie und des Piastenschlosses. Abend: Kurze Fahrt zum Stadtpark, um die winterliche Stille im Dämmerlicht zu erleben, bevor der Bus zur Rückreise kommt.",
+            "hu": "Reggel: Érkezés a fagyos Legnicára. Rövid séta az élénkítő téli levegőben a Városházáig. Délben: A Rézmúzeumban való felmelegedés után busszal megyünk a várnegyedbe. Délután: A Lovagakadémia és a Piast-vár megtekintése. Este: Rövid út a Városi Parkhoz, a téli csend átélése az alkonyatban a busz érkezése előtt.",
+            "ro": "Dimineața: Sosire în Legnica înghețată. Scurtă plimbare în aerul revigorant spre primărie. Prânz: După încălzirea la Muzeul Cuprului, luăm autobuzul spre zona castelului. După-amiaza: Vizitarea academiei și a castelului. Seara: Scurtă deplasare spre parc pentru a simți liniștea iernii în amurg înainte de întoarcere.",
+            "en": "Morning: Arrival in frosty Legnica. Short walk through the bracing winter air to the Town Hall. Noon: After warming up at the Museum of Copper, take the bus to the Castle district. Afternoon: Sightseeing at the Knight's Academy and Piast Castle. Evening: Short trip to the City Park to experience the winter silence in the twilight before the bus arrives."
+          },
+          "stops": [
+            {
+              "name": "Old Town Stop (Cluster A)",
+              "tip_5lang": {
+                "de": "Die Wartehäuschen bieten Schutz vor dem eisigen Wind.",
+                "hu": "A váróhelyek védelmet nyújtanak a jeges szél ellen.",
+                "ro": "Adăposturile din stație oferă protecție împotriva vântului tăios.",
+                "en": "The transit shelters provide protection from the biting winter wind."
+              }
+            },
+            {
+              "name": "Old Town Hall and Cathedral",
+              "tip_5lang": {
+                "de": "In der Nähe gibt es viele warme Orte für eine Pause.",
+                "hu": "A közelben számos meleg hely van egy rövid pihenőre.",
+                "ro": "În apropiere se află multe locuri calde pentru o pauză.",
+                "en": "There are many warm places nearby for a quick break."
+              }
+            },
+            {
+              "name": "Museum of Copper",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um sich zwischen zwei Busfahrten aufzuwärmen.",
+                "hu": "Ideális hely a felmelegedésre két buszút között.",
+                "ro": "Un loc ideal pentru încălzire între două călătorii cu autobuzul.",
+                "en": "An ideal place to warm up between two transit rides."
+              }
+            },
+            {
+              "name": "Piast Castle Stop (Cluster B)",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glätte an der Bordsteinkante beim Aussteigen.",
+                "hu": "Vigyázzon a csúszós útpadkára a leszálláskor.",
+                "ro": "Atenție la bordura alunecoasă la coborârea din autobuz.",
+                "en": "Watch out for slippery curbs when stepping off the bus."
+              }
+            },
+            {
+              "name": "Piast Castle and Knight's Academy",
+              "tip_5lang": {
+                "de": "Die Besichtigung der Innenräume spart Energie bei Kälte.",
+                "hu": "A belső terek megtekintése energiát spórol a hidegben.",
+                "ro": "Vizitarea interioarelor economisește energie pe ger.",
+                "en": "Focusing on indoor exhibits saves energy in the cold weather."
+              }
+            },
+            {
+              "name": "City Park",
+              "tip_5lang": {
+                "de": "Warten Sie auf den Rückbus in der beleuchteten Haltestelle am Parkrand.",
+                "hu": "Várja a visszajáratot a park szélén található kivilágított megállóban.",
+                "ro": "Așteptați autobuzul de întoarcere în stația luminată de la marginea parcului.",
+                "en": "Wait for the return bus at the illuminated stop at the park's edge."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse sind im Winter in Legnica meist sehr gut geheizt.",
+              "Die Fahrpläne können bei extremem Schneefall leicht abweichen.",
+              "Die Sonne geht bereits gegen 16:10 Uhr unter, planen Sie entsprechend.",
+              "Tragen Sie warme Socken, da das Stehen an Haltestellen die Füße auskühlt.",
+              "In der Nähe der Haltestellen gibt es oft Kioske für heiße Getränke."
+            ],
+            "hu": [
+              "A buszok Legnicában télen általában nagyon jól fűtöttek.",
+              "Extrém havazás esetén a menetrend kissé módosulhat.",
+              "A nap már 16:10 körül lemegy, tervezze ehhez a napját.",
+              "Viseljen meleg zoknit, a megállókban való várakozás lehűtheti a lábat.",
+              "A megállók közelében gyakran találni bódékat forró italokkal."
+            ],
+            "ro": [
+              "Autobuzele din Legnica sunt de obicei bine încălzite iarna.",
+              "Orarele pot varia ușor în caz de ninsori abundente.",
+              "Soarele apune deja în jur de 16:10, planificați în consecință.",
+              "Purtați șosete groase, așteptarea în stații răcește picioarele.",
+              "Lângă stații găsiți adesea chioșcuri cu băuturi fierbinți."
+            ],
+            "en": [
+              "Buses in Legnica are usually very well-heated during winter.",
+              "Schedules may vary slightly during periods of heavy snowfall.",
+              "The sun sets as early as 4:10 PM; plan your itinerary accordingly.",
+              "Wear warm socks; standing at stops can quickly chill your feet.",
+              "Kiosks near major stops often sell hot beverages to go."
+            ]
+          }
+        }
       }
     }
   }

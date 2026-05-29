@@ -290,6 +290,196 @@
           "Bring water with you, especially on hot days.",
           "Most city center sights are within easy walking distance."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt in der Alten Kirche, die Schutz vor dem ersten Regenschauer bietet. Vormittags erkunden wir das Tessedik-Museum, ein perfekter trockener Ort für Lokalgeschichte. Mittags bewundern wir das Bolza-Schloss von außen und suchen Schutz unter dem Dach des Wassertheaters. Der Nachmittag gehört dem Mini-Ungarn-Park und dem Arboretum, wo die Bäume bei Regen besonders intensiv duften.",
+            "hu": "A nap az Ótemplom vastag falai között indul, ahol az eső elől menedéket találunk. Délelőtt a Tessedik Sámuel Múzeum kiállításai nyújtanak tartalmas és száraz programot. Ebédidőben a Bolza-kastély és a Vízi Színház környékét járjuk be, esernyővel a kézben. A délutánt a Mini Magyarország makettjei között és az arborétum párás, illatos ösvényein töltjük, élvezve a természet nyugalmát.",
+            "ro": "Ziua începe la Biserica Veche, oferind un prim adăpost împotriva ploii. Dimineața explorăm Muzeul Tessedik, un spațiu interior ideal pentru a descoperi istoria locală. La prânz admirăm Castelul Bolza și căutăm refugiu sub acoperișul Teatrului de Vară. După-amiaza este dedicată Parcului Mini Ungaria și Arboretului, unde vegetația emană un parfum intens după ploaie.",
+            "en": "The day starts at the Old Church, providing initial shelter from the rain. Spend the morning at the Tessedik Museum, a perfect indoor spot for local history. At noon, admire Bolza Castle and find cover under the roof of the Water Theatre. The afternoon is dedicated to Mini Hungary and the Arboretum, where the trees release a particularly intense fragrance in the damp air."
+          },
+          "stops": [
+            {
+              "name": "Old Church (Ótemplom)",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Kircheneingang, um den Schirm trocken aufzuspannen.",
+                "hu": "Használja a templombejáratot az esernyő biztonságos kinyitásához.",
+                "ro": "Folosiți intrarea bisericii pentru a deschide umbrela la adăpost.",
+                "en": "Use the church entrance to open your umbrella safely."
+              }
+            },
+            {
+              "name": "Tessedik Sámuel Museum",
+              "tip_5lang": {
+                "de": "Ideal zum Aufwärmen und Trocknen bei anhaltendem Regen.",
+                "hu": "Ideális hely a felmelegedésre és száradásra tartós esőben.",
+                "ro": "Loc ideal pentru a vă încălzi și usca în caz de ploaie persistentă.",
+                "en": "Ideal place to warm up and dry off during persistent rain."
+              }
+            },
+            {
+              "name": "Bolza Castle",
+              "tip_5lang": {
+                "de": "Die Fassade lässt sich gut unter den Bäumen am Ufer betrachten.",
+                "hu": "A homlokzat jól megfigyelhető a part menti fák oltalma alól.",
+                "ro": "Fațada poate fi observată bine de sub copacii de pe mal.",
+                "en": "The facade can be observed well from under the trees on the bank."
+              }
+            },
+            {
+              "name": "Water Theatre",
+              "tip_5lang": {
+                "de": "Die Tribünenüberdachung bietet Schutz für eine kurze Rast.",
+                "hu": "A nézőtér fedett részei védelmet nyújtanak egy rövid pihenőhöz.",
+                "ro": "Zonele acoperite ale tribunei oferă adăpost pentru un scurt popas.",
+                "en": "The covered parts of the stands offer shelter for a short rest."
+              }
+            },
+            {
+              "name": "Mini Hungary Model Park",
+              "tip_5lang": {
+                "de": "Festes Schuhwerk ist für die teils rutschigen Wege empfohlen.",
+                "hu": "Zárt lábbeli ajánlott a helyenként csúszós gyalogutak miatt.",
+                "ro": "Se recomandă încălțăminte închisă din cauza potecilor alunecoase.",
+                "en": "Closed shoes are recommended due to slippery paths in some places."
+              }
+            },
+            {
+              "name": "Szarvas Arboretum",
+              "tip_5lang": {
+                "de": "Die asphaltierten Hauptwege bleiben auch bei Regen gut begehbar.",
+                "hu": "Az aszfaltozott főutak esőben is jól járhatóak maradnak.",
+                "ro": "Drumurile principale asfaltate rămân ușor practicabile și pe ploaie.",
+                "en": "The paved main paths remain easily accessible even in rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine wasserfeste Jacke für die längeren Gehstrecken am Ufer.",
+              "Das Tessedik-Museum bietet Schließfächer für nasse Regenschirme.",
+              "Im Arboretum bieten die dichten Nadelbäume natürlichen Regenschutz.",
+              "Konditoreien im Zentrum sind gute Rückzugsorte bei Starkregen.",
+              "Die Wege zwischen den Sehenswürdigkeiten sind weitgehend eben."
+            ],
+            "hu": [
+              "Viseljen vízhatlan kabátot a hosszabb parti sétákhoz.",
+              "A Tessedik Múzeumban találhatók tartók a vizes esernyőknek.",
+              "Az arborétumban a sűrű fenyvesek természetes esővédelmet nyújtanak.",
+              "A központ cukrászdái jó menedéket jelentenek hirtelen zápor esetén.",
+              "A látnivalók közötti utak nagyrészt sík terepen vezetnek."
+            ],
+            "ro": [
+              "Purtați o jachetă impermeabilă pentru plimbările lungi pe mal.",
+              "Muzeul Tessedik oferă suporturi pentru umbrelele ude.",
+              "În arboret, pădurile dese de conifere oferă protecție naturală contra ploii.",
+              "Cofetăriile din centru sunt refugii bune în caz de aversă bruscă.",
+              "Drumurile dintre obiective sunt în mare parte pe teren drept."
+            ],
+            "en": [
+              "Wear a waterproof jacket for the longer walks along the bank.",
+              "Tessedik Museum provides stands for wet umbrellas.",
+              "In the arboretum, dense conifer groves offer natural rain protection.",
+              "Patisseries in the center are good refuges during sudden showers.",
+              "The paths between sights are mostly on flat terrain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen beginnt an der Alten Kirche. Danach wärmen wir uns im Tessedik-Museum auf, bevor wir das Bolza-Schloss am vereisten Körös-Ufer bewundern. Mittags ist das Wassertheater in winterliche Stille gehüllt. Der Nachmittag führt uns durch den Mini-Ungarn-Park, wo die Modelle bei Reif magisch wirken. Den Tag schließen wir mit einem zügigen Spaziergang im Arboretum ab, bevor die Sonne früh untergeht.",
+            "hu": "A fagyos reggel az Ótemplomnál indul. Ezután a Tessedik Múzeum fűtött termeiben melegedünk fel, majd a Bolza-kastélyt nézzük meg a jeges Körös-parton. Délben a Vízi Színház téli csendje fogad minket. A délutánt a Mini Magyarország makettjei között töltjük, melyek zúzmarásan különleges látványt nyújtanak. A napot az arborétum kopárabb, de méltóságteljes fái között zárjuk a korai naplemente előtt.",
+            "ro": "O dimineață geroasă începe la Biserica Veche. Apoi ne încălzim în sălile muzeului Tessedik, înainte de a vedea Castelul Bolza pe malul înghețat al Crișului. La prânz ne întâmpină liniștea hibernală a Teatrului de Vară. După-amiaza o petrecem printre machetele Mini Ungaria, care par magice acoperite de chiciură. Încheiem ziua printre arborii maiestuoși ai arboretului, înainte de apusul timpuriu.",
+            "en": "A frosty morning starts at the Old Church. Then, we warm up in the heated rooms of the Tessedik Museum before viewing Bolza Castle on the icy Körös bank. At noon, the winter silence of the Water Theatre greets us. The afternoon is spent among the Mini Hungary models, which look magical when covered in frost. We end the day among the majestic trees of the arboretum before the early sunset."
+          },
+          "stops": [
+            {
+              "name": "Old Church (Ótemplom)",
+              "tip_5lang": {
+                "de": "Drinnen ist es deutlich kühler als in modernen Gebäuden.",
+                "hu": "Bent jelentősen hűvösebb van, mint a modern épületekben.",
+                "ro": "În interior este mult mai răcoare decât în clădirile moderne.",
+                "en": "It is significantly cooler inside than in modern buildings."
+              }
+            },
+            {
+              "name": "Tessedik Sámuel Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe, um schwere Wintermäntel abzulegen.",
+                "hu": "Használja a ruhatárat a nehéz télikabátok lepakolásához.",
+                "ro": "Folosiți garderoba pentru a lăsa hainele grele de iarnă.",
+                "en": "Use the cloakroom to leave heavy winter coats."
+              }
+            },
+            {
+              "name": "Bolza Castle",
+              "tip_5lang": {
+                "de": "Vorsicht vor Glatteis auf den Gehwegen direkt am Wasser.",
+                "hu": "Vigyázzon a jegesedésre a közvetlenül a víz melletti járdákon.",
+                "ro": "Atenție la polei pe trotuarele de lângă apă.",
+                "en": "Watch out for icy patches on the sidewalks right by the water."
+              }
+            },
+            {
+              "name": "Water Theatre",
+              "tip_5lang": {
+                "de": "Der Blick auf den gefrorenen Fluss ist hier am schönsten.",
+                "hu": "A befagyott folyóra innen nyílik a legszebb kilátás.",
+                "ro": "Vederea spre râul înghețat este cea mai frumoasă de aici.",
+                "en": "The view of the frozen river is most beautiful from here."
+              }
+            },
+            {
+              "name": "Mini Hungary Model Park",
+              "tip_5lang": {
+                "de": "Die Anlage ist im Winter oft weniger überlaufen.",
+                "hu": "A park télen gyakran sokkal kevésbé zsúfolt.",
+                "ro": "Parcul este adesea mult mai puțin aglomerat iarna.",
+                "en": "The park is often much less crowded in winter."
+              }
+            },
+            {
+              "name": "Szarvas Arboretum",
+              "tip_5lang": {
+                "de": "Besuchen Sie das Gewächshaus für eine kurze Aufwärmpause.",
+                "hu": "Látogasson el az üvegházba egy rövid melegedő szünetre.",
+                "ro": "Vizitați sera pentru o scurtă pauză de încălzire.",
+                "en": "Visit the greenhouse for a short warming break."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Planen Sie das Ende der Tour für 16:30 Uhr ein, da es dann dunkel wird.",
+              "Warme Thermosocken sind wegen der Bodenkälte in Museen ratsam.",
+              "Die öffentlichen Toiletten im Zentrum sind im Winter beheizt.",
+              "Prüfen Sie die Winteröffnungszeiten des Arboretums vorab.",
+              "Ein heißer Tee in den Cafés am Markt wärmt zwischen den Stopps."
+            ],
+            "hu": [
+              "A túra végét 16:30-ra tervezze, mert ekkor már sötétedik.",
+              "A múzeumok hideg padlója miatt ajánlott a vastag gyapjúzokni.",
+              "A központ nyilvános illemhelyei télen is fűtöttek.",
+              "Előre ellenőrizze az arborétum téli nyitvatartási idejét.",
+              "Egy forró tea a piaci kávézókban átmelegít a megállók között."
+            ],
+            "ro": [
+              "Planificați finalul turului pentru ora 16:30, când se întunecă.",
+              "Șosetele groase sunt recomandate din cauza podelelor reci din muzee.",
+              "Toaletele publice din centru sunt încălzite și iarna.",
+              "Verificați în prealabil programul de iarnă al arboretului.",
+              "Un ceai fierbinte în cafenelele din piață vă va încălzi între opriri."
+            ],
+            "en": [
+              "Plan the end of the tour for 16:30 as it gets dark early.",
+              "Thick wool socks are recommended due to cold floors in museums.",
+              "Public toilets in the center are heated in winter.",
+              "Check the winter opening hours of the arboretum in advance.",
+              "A hot tea in the market cafes will warm you up between stops."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -550,6 +740,178 @@
           "Szarvas is relatively flat, which makes for easy cycling.",
           "Always lock your bike when you leave it."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir radeln trotz Regen zum Mini-Ungarn-Park, wo asphaltierte Wege das Fahren erleichtern. Danach bietet das Arboretum dichten Blätterschutz. Mittags ist das Besucherzentrum des Nationalparks ein idealer trockener Stopp mit Indoor-Ausstellungen. Die Trockenmühle besuchen wir am Nachmittag, bevor wir am Bolza-Schloss vorbeirollen und die Tour beenden.",
+            "hu": "Az eső ellenére a Mini Magyarországhoz tekerünk, ahol az aszfaltozott utak segítik a haladást. Ezután az arborétum sűrű lombkoronája nyújt védelmet. Délben a Nemzeti Park látogatóközpontja tökéletes száraz állomás beltéri kiállításokkal. Délután a Szárazmalmot keressük fel, majd a Bolza-kastély mellett elhaladva zárjuk a túrát.",
+            "ro": "Pedalăm spre Mini Ungaria în ciuda ploii, unde drumurile asfaltate ușurează deplasarea. Apoi, coronamentul des al arboretului oferă protecție. La prânz, centrul de vizitare al Parcului Național este o oprire ideală, având expoziții interioare. Vizităm Moara Uscată după-amiaza, înainte de a trece pe lângă Castelul Bolza pentru a încheia turul.",
+            "en": "We cycle to Mini Hungary despite the rain, where paved paths make riding easier. Then, the dense canopy of the arboretum provides protection. At noon, the National Park visitor center is a perfect dry stop with indoor exhibitions. We visit the Dry Mill in the afternoon before passing by Bolza Castle to end the tour."
+          },
+          "stops": [
+            {
+              "name": "Mini Hungary Model Park",
+              "tip_5lang": {
+                "de": "Vorsicht beim Bremsen auf nassen Pflastersteinen am Eingang.",
+                "hu": "Vigyázzon a fékezéssel a bejáratnál lévő vizes macskakövön.",
+                "ro": "Atenție la frânare pe pavajul umed de la intrare.",
+                "en": "Be careful when braking on the wet cobblestones at the entrance."
+              }
+            },
+            {
+              "name": "Szarvas Arboretum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Fahrradständer am Haupteingang.",
+                "hu": "Használja a főbejáratnál lévő fedett biciklitárolót.",
+                "ro": "Folosiți suportul de biciclete acoperit de la intrarea principală.",
+                "en": "Use the covered bicycle rack at the main entrance."
+              }
+            },
+            {
+              "name": "Körös-Maros National Park Visitor Center",
+              "tip_5lang": {
+                "de": "Die Innenräume sind geräumig und bieten Platz zum Abtrocknen.",
+                "hu": "A belső terek tágasak, bőven van hely a megszárítkozáshoz.",
+                "ro": "Spațiile interioare sunt largi, oferind loc pentru a vă usca.",
+                "en": "The interior spaces are spacious, offering plenty of room to dry off."
+              }
+            },
+            {
+              "name": "Dry Mill",
+              "tip_5lang": {
+                "de": "Ein hervorragender Unterschlupf bei einem starken Regenguss.",
+                "hu": "Kiváló menedékhely egy hirtelen, erős felhőszakadás idején.",
+                "ro": "Un refugiu excelent în timpul unei averse puternice și bruște.",
+                "en": "An excellent shelter during a sudden, heavy downpour."
+              }
+            },
+            {
+              "name": "Bolza Castle",
+              "tip_5lang": {
+                "de": "Der Uferweg kann bei Regen schlammige Stellen aufweisen.",
+                "hu": "A parti sétányon esőben sáros szakaszok fordulhatnak elő.",
+                "ro": "Pe aleea de pe mal pot apărea porțiuni noroioase pe ploaie.",
+                "en": "The waterfront promenade may have muddy sections during rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche am Fahrrad sind bei nassen Wegen in Szarvas wichtig.",
+              "Vermeiden Sie bei Regen die unbefestigten Dammwege am Körös.",
+              "Tragen Sie neongelbe Regenkleidung für bessere Sichtbarkeit.",
+              "Die Fahrradwege im Stadtgebiet sind gut asphaltiert.",
+              "Wischen Sie den Sattel vor der Weiterfahrt immer trocken."
+            ],
+            "hu": [
+              "Sárvédő használata javasolt a vizes szarvasi utakon.",
+              "Esőben kerülje a Körös menti földgátakat.",
+              "Viseljen neon esőruházatot a jobb láthatóság érdekében.",
+              "A városi kerékpárutak jól aszfaltozottak.",
+              "Továbbindulás előtt mindig törölje szárazra a nyerget."
+            ],
+            "ro": [
+              "Se recomandă utilizarea apărătorilor pe drumurile umede din Szarvas.",
+              "Pe ploaie, evitați digurile de pământ de-a lungul Crișului.",
+              "Purtați haine de ploaie neon pentru o mai bună vizibilitate.",
+              "Pistele de biciclete din oraș sunt bine asfaltate.",
+              "Ștergeți întotdeauna șaua înainte de a pleca mai departe."
+            ],
+            "en": [
+              "Using mudguards is recommended on wet roads in Szarvas.",
+              "Avoid the dirt embankments along the Körös during rain.",
+              "Wear neon rain gear for better visibility.",
+              "The city bike paths are well paved.",
+              "Always wipe the saddle dry before moving on."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Bei kühler Winterluft radeln wir zum Mini-Ungarn-Park und danach zum frostigen Arboretum. Mittags erreichen wir das Besucherzentrum des Nationalparks, wo die geheizten Räume zur Pause einladen. Nachmittags besuchen wir die historische Trockenmühle. Die Tour endet am Bolza-Schloss, während die Abenddämmerung über dem Körös-Arm hereinbricht.",
+            "hu": "Hűvös téli levegőben tekerünk a Mini Magyarországhoz, majd a zúzmarás arborétumhoz. Délben érjük el a Nemzeti Park látogatóközpontját, ahol a fűtött terek pihenésre csábítanak. Délután a történelmi Szárazmalmot keressük fel. A túra a Bolza-kastélynál ér véget, miközben a szürkület leszáll a Körös-ágra.",
+            "ro": "Pedalăm prin aerul rece de iarnă spre Mini Ungaria, apoi spre arboretul înghețat. La prânz ajungem la centrul de vizitare al Parcului Național, unde spațiile încălzite ne invită la odihnă. După-amiaza vizităm istorica Moară Uscată. Turul se încheie la Castelul Bolza, în timp ce amurgul coboară peste brațul Crișului.",
+            "en": "We cycle through the cool winter air to Mini Hungary, then to the frosty arboretum. At noon, we reach the National Park visitor center, where the heated spaces invite rest. In the afternoon, we visit the historic Dry Mill. The tour ends at Bolza Castle as dusk falls over the Körös branch."
+          },
+          "stops": [
+            {
+              "name": "Mini Hungary Model Park",
+              "tip_5lang": {
+                "de": "Der Fahrtwind ist auf den freien Flächen hier besonders kalt.",
+                "hu": "A menetszél a nyílt területeken itt különösen hideg.",
+                "ro": "Curentul de aer este deosebit de rece pe spațiile deschise de aici.",
+                "en": "The wind chill is particularly cold on the open areas here."
+              }
+            },
+            {
+              "name": "Szarvas Arboretum",
+              "tip_5lang": {
+                "de": "Vorsicht vor überfrierender Nässe auf den Brücken im Park.",
+                "hu": "Vigyázzon a felfagyásokra a parkban lévő hidakon.",
+                "ro": "Atenție la gheața de pe podurile din parc.",
+                "en": "Watch out for black ice on the bridges in the park."
+              }
+            },
+            {
+              "name": "Körös-Maros National Park Visitor Center",
+              "tip_5lang": {
+                "de": "Die Cafeteria bietet heiße Getränke zum Aufwärmen an.",
+                "hu": "A büfé forró italokat kínál a felmelegedéshez.",
+                "ro": "Bufetul oferă băuturi fierbinți pentru încălzire.",
+                "en": "The cafeteria offers hot drinks for warming up."
+              }
+            },
+            {
+              "name": "Dry Mill",
+              "tip_5lang": {
+                "de": "Das massive Holzgebäude ist innen windgeschützt.",
+                "hu": "A masszív faépület belül szélvédett helyet biztosít.",
+                "ro": "Clădirea masivă din lemn oferă un loc ferit de vânt în interior.",
+                "en": "The massive wooden building provides a wind-protected spot inside."
+              }
+            },
+            {
+              "name": "Bolza Castle",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp, bevor die Kälte zu stark wird.",
+                "hu": "Rövid fotómegálló, mielőtt túl erős lenne a hideg.",
+                "ro": "Scurt popas pentru poze înainte ca frigul să devină prea puternic.",
+                "en": "Short photo stop before the cold becomes too strong."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterhandschuhe sind für das Radfahren in Szarvas unerlässlich.",
+              "Prüfen Sie den Reifendruck, da dieser bei Kälte leicht sinkt.",
+              "Die Radwege können an schattigen Uferstellen glatt sein.",
+              "Kürzen Sie die Tour bei extremer Kälte ab.",
+              "Tragen Sie eine winddichte Schicht über der Winterjacke."
+            ],
+            "hu": [
+              "A téli kesztyű elengedhetetlen a szarvasi kerékpározáshoz.",
+              "Ellenőrizze a guminyomást, mert hidegben az könnyen csökken.",
+              "Az árnyékos parti szakaszokon a kerékpárutak csúszósak lehetnek.",
+              "Rövidítse le a túrát, ha a hideg elviselhetetlenné válik.",
+              "Viseljen szélálló réteget a télikabát felett."
+            ],
+            "ro": [
+              "Mănușile de iarnă sunt esențiale pentru ciclismul în Szarvas.",
+              "Verificați presiunea în pneuri, deoarece scade ușor la frig.",
+              "Pistele pot fi alunecoase în zonele de mal umbrite.",
+              "Scurtați turul dacă frigul devine insuportabil.",
+              "Purtați un strat rezistent la vânt peste jacheta de iarnă."
+            ],
+            "en": [
+              "Winter gloves are essential for cycling in Szarvas.",
+              "Check tire pressure, as it drops slightly in the cold.",
+              "Bike paths can be slippery in shaded waterfront areas.",
+              "Shorten the tour if the cold becomes unbearable.",
+              "Wear a windproof layer over your winter jacket."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -858,6 +1220,214 @@
           "Parking is generally easier outside the immediate city center.",
           "A car gives you the flexibility to explore nearby villages as well."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erreichen wir bequem das Besucherzentrum des Nationalparks und die Trockenmühle, ohne nass zu werden. Mittags besuchen wir das Arboretum und den Mini-Ungarn-Park, wo Parkplätze direkt an den Eingängen kurze Wege garantieren. Nachmittags stehen die Alte Kirche, das Tessedik-Museum und das Bolza-Schloss auf dem Programm, alle gut erreichbar im Stadtzentrum.",
+            "hu": "Autóval kényelmesen, ázás nélkül érjük el a Nemzeti Park látogatóközpontját és a Szárazmalmot. Délben az arborétumot és a Mini Magyarországot keressük fel, ahol a bejáratok melletti parkolók rövid gyalogutat garantálnak. Délután az Ótemplom, a Tessedik Múzeum és a Bolza-kastély van soron, melyek mind jól elérhetők a városközpontban.",
+            "ro": "Cu mașina ajungem confortabil, fără a ne uda, la centrul de vizitare al Parcului Național și la Moara Uscată. La prânz vizităm arboretul și Mini Ungaria, unde parcările de lângă intrări garantează distanțe scurte de mers pe jos. După-amiaza urmează Biserica Veche, Muzeul Tessedik și Castelul Bolza, toate accesibile în centrul orașului.",
+            "en": "By car, we comfortably reach the National Park visitor center and the Dry Mill without getting wet. At noon, we visit the arboretum and Mini Hungary, where parking lots next to the entrances guarantee short walking distances. In the afternoon, the Old Church, Tessedik Museum, and Bolza Castle are on the agenda, all easily accessible in the city center."
+          },
+          "stops": [
+            {
+              "name": "Körös-Maros National Park Visitor Center",
+              "tip_5lang": {
+                "de": "Kostenlose Parkplätze befinden sich direkt vor dem Gebäude.",
+                "hu": "Ingyenes parkolóhelyek találhatók közvetlenül az épület előtt.",
+                "ro": "Locuri de parcare gratuite se află chiar în fața clădirii.",
+                "en": "Free parking spaces are located directly in front of the building."
+              }
+            },
+            {
+              "name": "Dry Mill",
+              "tip_5lang": {
+                "de": "Parken Sie auf dem befestigten Seitenstreifen der Straße.",
+                "hu": "Parkoljon az út melletti szilárd burkolatú padkán.",
+                "ro": "Parcați pe acostamentul consolidat al drumului.",
+                "en": "Park on the paved shoulder of the road."
+              }
+            },
+            {
+              "name": "Szarvas Arboretum",
+              "tip_5lang": {
+                "de": "Der Parkplatz kann bei starkem Regen Pfützen bilden.",
+                "hu": "A parkolóban erős esőben tócsák alakulhatnak ki.",
+                "ro": "În parcare se pot forma bălți în caz de ploaie puternică.",
+                "en": "Puddles can form in the parking lot during heavy rain."
+              }
+            },
+            {
+              "name": "Mini Hungary Model Park",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Haupteingang für den kürzesten Weg zum Auto.",
+                "hu": "Használja a főbejáratot a legrövidebb gyalogúthoz az autóig.",
+                "ro": "Folosiți intrarea principală pentru cel mai scurt drum spre mașină.",
+                "en": "Use the main entrance for the shortest walk to the car."
+              }
+            },
+            {
+              "name": "Old Church (Ótemplom)",
+              "tip_5lang": {
+                "de": "Parkzonen am Markt sind oft zeitlich begrenzt.",
+                "hu": "A piaci parkolózónák gyakran időkorlátosak.",
+                "ro": "Zonele de parcare de la piață sunt adesea limitate temporal.",
+                "en": "Parking zones at the market are often time-limited."
+              }
+            },
+            {
+              "name": "Tessedik Sámuel Museum",
+              "tip_5lang": {
+                "de": "Hinter dem Gebäude gibt es meist freie Parkmöglichkeiten.",
+                "hu": "Az épület mögött általában van szabad parkolóhely.",
+                "ro": "În spatele clădirii există de obicei locuri de parcare libere.",
+                "en": "There are usually free parking spaces behind the building."
+              }
+            },
+            {
+              "name": "Bolza Castle",
+              "tip_5lang": {
+                "de": "Halten Sie kurz auf dem Seitenstreifen für einen Fotostopp.",
+                "hu": "Álljon meg rövid időre az útpadkán egy fotó erejéig.",
+                "ro": "Opriți scurt pe acostament pentru o fotografie.",
+                "en": "Stop briefly on the shoulder for a photo."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie bei Regen auf Aquaplaning auf der Hauptstraße 44.",
+              "Verstauen Sie nasse Schirme im Kofferraum oder in einer Wanne.",
+              "Die Parkgebühren im Zentrum von Szarvas sind moderat.",
+              "Nutzen Sie die Scheibenheizung gegen Beschlagen bei Feuchtigkeit.",
+              "Die meisten Sehenswürdigkeiten bieten asphaltierte Parkflächen."
+            ],
+            "hu": [
+              "Esőben ügyeljen a vízenfutásra (aquaplaning) a 44-es főúton.",
+              "A vizes esernyőket a csomagtartóban vagy tálcán tárolja.",
+              "Szarvas központjában a parkolási díjak mérsékeltek.",
+              "Használja a szélvédőfűtést a párásodás ellen.",
+              "A legtöbb látnivaló aszfaltozott parkolót kínál."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumul principal 44 pe timp de ploaie.",
+              "Depozitați umbrelele ude în portbagaj sau pe o tavă.",
+              "Taxele de parcare în centrul orașului Szarvas sunt moderate.",
+              "Folosiți degivrarea parbrizului împotriva aburirii.",
+              "Majoritatea obiectivelor oferă parcări asfaltate."
+            ],
+            "en": [
+              "Watch out for aquaplaning on main road 44 during rain.",
+              "Store wet umbrellas in the trunk or on a tray.",
+              "Parking fees in the center of Szarvas are moderate.",
+              "Use the windshield heater against fogging in damp weather.",
+              "Most attractions offer paved parking areas."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Autotour startet am Nationalparkzentrum. Wir besuchen die Trockenmühle und das Arboretum, während die Heizung für angenehme Temperaturen sorgt. Nachmittags erkunden wir den Mini-Ungarn-Park und die historischen Gebäude im Stadtzentrum. Den Tag beenden wir am Bolza-Schloss, bevor Frost die Straßen von Szarvas glatt werden lässt.",
+            "hu": "A téli autós túra a Nemzeti Park központjánál indul. Felkeressük a Szárazmalmot és az arborétumot, miközben a fűtés kellemes hőmérsékletet biztosít. Délután a Mini Magyarországot és a belváros történelmi épületeit fedezzük fel. A napot a Bolza-kastélynál zárjuk, mielőtt a fagy csúszóssá tenné Szarvas utcáit.",
+            "ro": "Turul hibernal cu mașina începe la centrul Parcului Național. Vizităm Moara Uscată și arboretul, în timp ce încălzirea asigură o temperatură plăcută. După-amiaza explorăm Mini Ungaria și clădirile istorice din centrul orașului. Încheiem ziua la Castelul Bolza, înainte ca gerul să facă drumurile din Szarvas alunecoase.",
+            "en": "The winter car tour starts at the National Park center. We visit the Dry Mill and the arboretum while the heater ensures pleasant temperatures. In the afternoon, we explore Mini Hungary and the historic buildings in the city center. We end the day at Bolza Castle before frost makes the streets of Szarvas slippery."
+          },
+          "stops": [
+            {
+              "name": "Körös-Maros National Park Visitor Center",
+              "tip_5lang": {
+                "de": "Bei Schnee wird der Parkplatz hier meist zügig geräumt.",
+                "hu": "Hó esetén a parkolót itt általában gyorsan letakarítják.",
+                "ro": "În caz de zăpadă, parcarea de aici este curățată rapid.",
+                "en": "In case of snow, the parking lot here is usually cleared quickly."
+              }
+            },
+            {
+              "name": "Dry Mill",
+              "tip_5lang": {
+                "de": "Vorsicht beim Aussteigen, der Boden kann gefroren sein.",
+                "hu": "Vigyázzon kiszálláskor, a talaj fagyott lehet.",
+                "ro": "Atenție la coborâre, solul poate fi înghețat.",
+                "en": "Be careful when getting out, the ground may be frozen."
+              }
+            },
+            {
+              "name": "Szarvas Arboretum",
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor nicht unnötig im Stand laufen.",
+                "hu": "Ne járassa feleslegesen a motort álló helyzetben.",
+                "ro": "Nu lăsați motorul pornit inutil pe loc.",
+                "en": "Do not let the engine idle unnecessarily."
+              }
+            },
+            {
+              "name": "Mini Hungary Model Park",
+              "tip_5lang": {
+                "de": "Warme Kleidung ist für den Gang vom Parkplatz nötig.",
+                "hu": "Meleg ruházat szükséges a parkolótól való gyalogláshoz.",
+                "ro": "Haine groase sunt necesare pentru mersul de la parcare.",
+                "en": "Warm clothing is necessary for the walk from the parking lot."
+              }
+            },
+            {
+              "name": "Old Church (Ótemplom)",
+              "tip_5lang": {
+                "de": "Die Parkplätze am Markt sind im Winter gut beleuchtet.",
+                "hu": "A piaci parkolók télen jól megvilágítottak.",
+                "ro": "Parcările de la piață sunt bine iluminate iarna.",
+                "en": "The market parking lots are well-lit in winter."
+              }
+            },
+            {
+              "name": "Tessedik Sámuel Museum",
+              "tip_5lang": {
+                "de": "Direkt am Museumseingang sind oft Plätze frei.",
+                "hu": "Közvetlenül a múzeum bejáratánál gyakran van szabad hely.",
+                "ro": "Chiar la intrarea muzeului sunt adesea locuri libere.",
+                "en": "There are often free spaces right at the museum entrance."
+              }
+            },
+            {
+              "name": "Bolza Castle",
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihre Scheinwerfer sauber sind.",
+                "hu": "Győződjön meg róla, hogy a fényszórók tiszták.",
+                "ro": "Asigurați-vă că farurile sunt curate.",
+                "en": "Make sure your headlights are clean."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind auf den ländlichen Wegen um Szarvas Pflicht.",
+              "Füllen Sie Frostschutzmittel in die Scheibenwaschanlage.",
+              "Ein Eiskratzer im Auto ist morgens unerlässlich.",
+              "Achten Sie auf Wildwechsel in der Nähe des Nationalparks.",
+              "Halten Sie eine Decke für Notfälle im Fahrzeug bereit."
+            ],
+            "hu": [
+              "A téli gumi kötelező a Szarvas környéki vidéki utakon.",
+              "Töltsön fagyállót a szélvédőmosó tartályba.",
+              "A jégkaparó reggelente elengedhetetlen tartozék.",
+              "Ügyeljen a vadakra a Nemzeti Park közelében.",
+              "Tartson egy takarót az autóban vészhelyzet esetére."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii pe drumurile din jurul Szarvas.",
+              "Puneți antigel în rezervorul pentru spălarea parbrizului.",
+              "Răzuitoarea de gheață este esențială dimineața.",
+              "Atenție la animalele sălbatice în apropierea Parcului Național.",
+              "Țineți o pătură în mașină pentru situații de urgență."
+            ],
+            "en": [
+              "Winter tires are mandatory on the rural roads around Szarvas.",
+              "Put antifreeze in the windshield washer reservoir.",
+              "An ice scraper is an essential accessory in the mornings.",
+              "Watch out for wildlife near the National Park.",
+              "Keep a blanket in the car for emergencies."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1142,6 +1712,196 @@
           "Check the bus schedule in advance, especially for routes out of town.",
           "Be aware that buses may run less frequently on weekends."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem lokalen Bus erreichen wir die Alte Kirche und das Tessedik-Museum, wo wir den Regen abwarten können. Mittags nehmen wir den Bus in Richtung Arboretum und besuchen den benachbarten Mini-Ungarn-Park. Nachmittags fahren wir zurück ins Zentrum zum Wassertheater und dem Besucherzentrum des Nationalparks, wobei die Haltestellen kurze Fußwege zu den Zielen bieten.",
+            "hu": "Helyi autóbusszal érjük el az Ótemplomot és a Tessedik Múzeumot, ahol kivárhatjuk az eső végét. Délben az arborétum felé vesszük az irányt busszal, és megnézzük a szomszédos Mini Magyarországot is. Délután visszatérünk a központba a Vízi Színházhoz és a Nemzeti Park látogatóközpontjához; a buszmegállók közel vannak a látnivalókhoz.",
+            "ro": "Cu autobuzul local ajungem la Biserica Veche și Muzeul Tessedik, unde putem aștepta oprirea ploii. La prânz luăm autobuzul spre arboret și vizităm și Mini Ungaria din vecinătate. După-amiaza revenim în centru la Teatrul de Vară și la centrul de vizitare al Parcului Național; stațiile sunt aproape de obiective.",
+            "en": "By local bus, we reach the Old Church and the Tessedik Museum, where we can wait out the rain. At noon, we head towards the arboretum by bus and also visit the neighboring Mini Hungary. In the afternoon, we return to the center to the Water Theatre and the National Park visitor center; the bus stops are close to the sights."
+          },
+          "stops": [
+            {
+              "name": "Old Church (Ótemplom)",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle liegt nur wenige Schritte entfernt.",
+                "hu": "A buszmegálló mindössze néhány lépésre található.",
+                "ro": "Stația de autobuz se află la doar câțiva pași distanță.",
+                "en": "The bus stop is located just a few steps away."
+              }
+            },
+            {
+              "name": "Tessedik Sámuel Museum",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Fahrplan im Museumsfoyer.",
+                "hu": "Ellenőrizze a menetrendet a múzeum előterében.",
+                "ro": "Verificați mersul autobuzelor în holul muzeului.",
+                "en": "Check the bus schedule in the museum foyer."
+              }
+            },
+            {
+              "name": "Water Theatre",
+              "tip_5lang": {
+                "de": "Das Wartehäuschen an der Haltestelle bietet Wetterschutz.",
+                "hu": "A megállóban lévő váróterem védelmet nyújt az eső ellen.",
+                "ro": "Adăpostul din stație oferă protecție împotriva intemperiilor.",
+                "en": "The shelter at the bus stop provides weather protection."
+              }
+            },
+            {
+              "name": "Szarvas Arboretum",
+              "tip_5lang": {
+                "de": "Busse verkehren hier seltener, planen Sie die Rückfahrt genau.",
+                "hu": "A buszok itt ritkábban járnak, tervezze meg pontosan a visszautat.",
+                "ro": "Autobuzele circulă rar aici, planificați exact drumul de întoarcere.",
+                "en": "Buses run less frequently here; plan your return journey carefully."
+              }
+            },
+            {
+              "name": "Mini Hungary Model Park",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist identisch mit der des Arboretums.",
+                "hu": "A megálló megegyezik az arborétum megállójával.",
+                "ro": "Stația este aceeași cu cea pentru arboret.",
+                "en": "The bus stop is the same as the one for the arboretum."
+              }
+            },
+            {
+              "name": "Körös-Maros National Park Visitor Center",
+              "tip_5lang": {
+                "de": "Ein kleiner Fußweg von der Haltestelle ist einzuplanen.",
+                "hu": "A buszmegállótól egy rövid gyalogúttal kell számolni.",
+                "ro": "Trebuie luat în calcul un scurt drum pe jos de la stație.",
+                "en": "A short walk from the bus stop should be expected."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die App des Verkehrsunternehmens für Echtzeitdaten.",
+              "Halten Sie Kleingeld für den Fahrkartenkauf beim Fahrer bereit.",
+              "An Wochenenden fahren weniger Busse in Szarvas.",
+              "Tragen Sie feste Schuhe für den Weg zwischen den Haltestellen.",
+              "Ein Taschenregenschirm ist ideal für den Transit-Nutzer."
+            ],
+            "hu": [
+              "Használja a közlekedési társaság alkalmazását a valós idejű adatokhoz.",
+              "Készítsen elő aprópénzt a sofőrnél történő jegyvásárláshoz.",
+              "Hétvégén kevesebb autóbusz közlekedik Szarvason.",
+              "Viseljen kényelmes cipőt a megállók közötti gyalogláshoz.",
+              "Az összecsukható esernyő ideális a tömegközlekedőknek."
+            ],
+            "ro": [
+              "Folosiți aplicația companiei de transport pentru date în timp real.",
+              "Pregătiți mărunțiș pentru cumpărarea biletului de la șofer.",
+              "În weekend circulă mai puține autobuze în Szarvas.",
+              "Purtați pantofi comozi pentru mersul între stații.",
+              "O umbrelă pliabilă este ideală pentru utilizatorii de transport în comun."
+            ],
+            "en": [
+              "Use the transport company's app for real-time data.",
+              "Prepare loose change for buying a ticket from the driver.",
+              "Fewer buses operate in Szarvas on weekends.",
+              "Wear comfortable shoes for walking between stops.",
+              "A folding umbrella is ideal for transit users."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im beheizten Bus starten wir unsere Tour zur Alten Kirche und zum Tessedik-Museum. Mittags bringt uns der Bus zum winterlichen Arboretum und zum Mini-Ungarn-Park. Nachmittags besuchen wir das Wassertheater und das Nationalparkzentrum, wobei wir die Wartezeiten an den Haltestellen in nahegelegenen Cafés verbringen können.",
+            "hu": "Fűtött autóbusszal kezdjük túránkat az Ótemplomhoz és a Tessedik Múzeumhoz. Délben a busz a téli arborétumhoz és a Mini Magyarországhoz repít minket. Délután a Vízi Színházat és a Nemzeti Park központját keressük fel; a megállókban való várakozási időt közeli kávézókban tölthetjük el.",
+            "ro": "Începem turul cu un autobuz încălzit spre Biserica Veche și Muzeul Tessedik. La prânz, autobuzul ne duce la arboretul hibernal și la Mini Ungaria. După-amiaza vizităm Teatrul de Vară și centrul Parcului Național; timpul de așteptare în stații poate fi petrecut în cafenelele din apropiere.",
+            "en": "We start our tour in a heated bus to the Old Church and Tessedik Museum. At noon, the bus takes us to the winter arboretum and Mini Hungary. In the afternoon, we visit the Water Theatre and the National Park center; waiting times at the stops can be spent in nearby cafes."
+          },
+          "stops": [
+            {
+              "name": "Old Church (Ótemplom)",
+              "tip_5lang": {
+                "de": "Warten Sie im Kircheneingang, bis der Bus kommt.",
+                "hu": "Várjon a templombejáratnál, amíg megérkezik a busz.",
+                "ro": "Așteptați la intrarea bisericii până când vine autobuzul.",
+                "en": "Wait at the church entrance until the bus arrives."
+              }
+            },
+            {
+              "name": "Tessedik Sámuel Museum",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist nur 2 Minuten Fußweg entfernt.",
+                "hu": "A buszmegálló mindössze 2 perc sétára van.",
+                "ro": "Stația de autobuz este la doar 2 minute de mers pe jos.",
+                "en": "The bus stop is just a 2-minute walk away."
+              }
+            },
+            {
+              "name": "Water Theatre",
+              "tip_5lang": {
+                "de": "Die Wartehäuschen sind im Winter zugig, kleiden Sie sich warm.",
+                "hu": "A várótermek télen huzatosak, öltözzön melegen.",
+                "ro": "Adăposturile sunt reci iarna, îmbrăcați-vă gros.",
+                "en": "The shelters are draughty in winter; dress warmly."
+              }
+            },
+            {
+              "name": "Szarvas Arboretum",
+              "tip_5lang": {
+                "de": "Beachten Sie die frühen Rückfahrten bei Einbruch der Dunkelheit.",
+                "hu": "Ügyeljen a sötétedéskor induló korai járatokra.",
+                "ro": "Atenție la cursele timpurii la lăsarea întunericului.",
+                "en": "Watch out for the early return trips at nightfall."
+              }
+            },
+            {
+              "name": "Mini Hungary Model Park",
+              "tip_5lang": {
+                "de": "Bewahren Sie Ihr Busticket für die Rückfahrt gut auf.",
+                "hu": "Őrizze meg jól a buszjegyét a visszautazáshoz.",
+                "ro": "Păstrați biletul de autobuz pentru drumul de întoarcere.",
+                "en": "Keep your bus ticket safe for the return journey."
+              }
+            },
+            {
+              "name": "Körös-Maros National Park Visitor Center",
+              "tip_5lang": {
+                "de": "Die Haltestelle an der Hauptstraße ist gut beleuchtet.",
+                "hu": "A főúton lévő megálló jól kivilágított.",
+                "ro": "Stația de pe drumul principal este bine iluminată.",
+                "en": "The stop on the main road is well-lit."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Planen Sie Pufferzeiten für witterungsbedingte Verspätungen ein.",
+              "Winterstiefel mit gutem Profil sind für ungeräumte Haltestellen nötig.",
+              "Der Busbahnhof in Szarvas bietet einen geheizten Wartesaal.",
+              "Die Fahrpläne hängen an jeder größeren Haltestelle aus.",
+              "Nutzen Sie die Zeit im warmen Bus zum Ausruhen."
+            ],
+            "hu": [
+              "Számoljon ráhagyással az időjárás okozta késések miatt.",
+              "Jó profilú téli bakancs szükséges a le nem takarított megállókhoz.",
+              "A szarvasi autóbusz-állomás fűtött váróteremmel rendelkezik.",
+              "A menetrendek minden nagyobb megállóban ki vannak függesztve.",
+              "Használja ki a meleg buszban töltött időt a pihenésre."
+            ],
+            "ro": [
+              "Luați în calcul o marjă de timp pentru întârzieri cauzate de vreme.",
+              "Ghete de iarnă cu talpă aderentă sunt necesare pentru stațiile necurățate.",
+              "Autogara din Szarvas are o sală de așteptare încălzită.",
+              "Orarele sunt afișate în fiecare stație principală.",
+              "Folosiți timpul petrecut în autobuzul cald pentru a vă odihni."
+            ],
+            "en": [
+              "Allow for extra time due to weather-related delays.",
+              "Winter boots with good tread are needed for uncleared stops.",
+              "The bus station in Szarvas has a heated waiting room.",
+              "Schedules are posted at every major stop.",
+              "Use the time in the warm bus to rest."
+            ]
+          }
+        }
       }
     }
   }

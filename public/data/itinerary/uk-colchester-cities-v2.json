@@ -402,6 +402,224 @@
           "Check castle opening times in advance as they can be seasonal.",
           "Castle Park is the perfect spot for a picnic lunch."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgen: Der Regen glänzt auf den römischen Mauern, wir suchen Schutz in den Gassen des holländischen Viertels. Mittag: Die Ruinen von St. Botolph wirken im Nebel mystisch, während das Schloss trockene Zuflucht bietet. Nachmittag: Wir erkunden die Museen Hollytrees und Naturgeschichte im Warmen. Abend: Ein kurzer Spurt durch den Park zum Jumbo-Wasserturm beendet den nassen Tag.",
+            "hu": "Reggel: Az eső megcsillan a római falakon, a Holland negyed szűk utcáin keresünk menedéket. Dél: A St Botolph perjelelség romjai közt az eső fokozza az ódon hangulatot, de a várfalak mögött végre megszáradhatunk. Délután: A Hollytrees és a Természettudományi Múzeum belső tárlatai nyújtanak fedett programot. Este: Egy gyors vágta a parkon át a Jumbo víztoronyhoz zárja a napot.",
+            "ro": "Dimineața: Ploaia strălucește pe zidurile romane, căutăm adăpost în Cartierul Olandez. Prânz: Ruinele St Botolph par mistice în ceață, în timp ce castelul oferă un refugiu uscat. După-amiaza: Explorăm muzeele Hollytrees și de Istorie Naturală la adăpost. Seara: O fugă scurtă prin parc până la turnul de apă Jumbo încheie ziua ploioasă.",
+            "en": "Morning: Rain glistens on the Roman walls; we seek shelter in the alleys of the Dutch Quarter. Noon: St Botolph's ruins look mystical in the mist, while the Castle provides a dry sanctuary. Afternoon: We explore Hollytrees and the Natural History Museum indoors. Evening: A quick dash through the park to the Jumbo Water Tower ends our wet day."
+          },
+          "stops": [
+            {
+              "name": "Roman Wall",
+              "tip_5lang": {
+                "de": "Steine können rutschig sein.",
+                "hu": "A kövek csúszósak lehetnek.",
+                "ro": "Pietrele pot fi alunecoase.",
+                "en": "Stones can be slippery."
+              }
+            },
+            {
+              "name": "Dutch Quarter",
+              "tip_5lang": {
+                "de": "Enge Gassen bieten etwas Windschutz.",
+                "hu": "A szűk utcák szélfogók.",
+                "ro": "Străzile înguste oferă adăpost.",
+                "en": "Narrow streets offer wind protection."
+              }
+            },
+            {
+              "name": "St Botolph's Priory",
+              "tip_5lang": {
+                "de": "Vorsicht vor Pfützen im Gras.",
+                "hu": "Vigyázat a füves tócsákkal.",
+                "ro": "Atenție la bălțile din iarbă.",
+                "en": "Watch out for puddles in the grass."
+              }
+            },
+            {
+              "name": "Colchester Castle",
+              "tip_5lang": {
+                "de": "Bester Ort bei starkem Regen.",
+                "hu": "A legjobb hely szakadó esőben.",
+                "ro": "Cel mai bun loc în ploaie torențială.",
+                "en": "Best place during heavy rain."
+              }
+            },
+            {
+              "name": "Hollytrees Museum",
+              "tip_5lang": {
+                "de": "Kostenloser Eintritt, perfekt trocken.",
+                "hu": "Ingyenes és teljesen fedett.",
+                "ro": "Intrare gratuită, perfect uscat.",
+                "en": "Free entry, perfectly dry."
+              }
+            },
+            {
+              "name": "Natural History Museum",
+              "tip_5lang": {
+                "de": "Gute Garderobe für nasse Mäntel.",
+                "hu": "Van ruhatár a vizes kabátoknak.",
+                "ro": "Garderobă pentru haine ude.",
+                "en": "Good cloakroom for wet coats."
+              }
+            },
+            {
+              "name": "Castle Park",
+              "tip_5lang": {
+                "de": "Gepflasterte Wege nutzen.",
+                "hu": "Használja a burkolt utakat.",
+                "ro": "Folosiți aleile pavate.",
+                "en": "Use the paved paths."
+              }
+            },
+            {
+              "name": "Jumbo Water Tower",
+              "tip_5lang": {
+                "de": "Kurzer Stopp unter dem Turm.",
+                "hu": "Gyors megálló a torony alatt.",
+                "ro": "Oprire scurtă sub turn.",
+                "en": "Quick stop under the tower."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für die unebenen Mauern.",
+              "Das Schloss bietet Schließfächer für nasse Rucksäcke.",
+              "Die Museen liegen nah beieinander, ideal für Regen.",
+              "Ein stabiler Regenschirm ist wegen des Windes wichtig."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a római fal mentén.",
+              "A várban vannak szekrények a vizes táskáknak.",
+              "A múzeumok közel vannak egymáshoz, kevés az ázás.",
+              "A szél miatt érdemes erős esernyőt vinni."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă lângă zid.",
+              "Castelul are dulapuri pentru rucsacuri ude.",
+              "Muzeele sunt aproape, ideal pentru ploaie.",
+              "O umbrelă rezistentă e necesară din cauza vântului."
+            ],
+            "en": [
+              "Wear waterproof shoes for the Roman Wall path.",
+              "The castle offers lockers for wet bags.",
+              "Museums are close together, minimizing rain exposure.",
+              "A sturdy umbrella is recommended due to the wind."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgen: Frost liegt auf den alten Steinen der Stadtmauer, die Luft ist klirrend kalt. Mittag: Wir wärmen uns in den dicken Mauern des Schlosses auf. Nachmittag: In den Museen ist es gemütlich, während draußen die Sonne früh untergeht. Abend: Der beleuchtete Jumbo-Turm markiert das Ende unserer winterlichen Tour im Halbdunkel.",
+            "hu": "Reggel: Zúzmara fedi a városfal köveit, a levegő csípősen hideg. Dél: A vár vastag falai között melegszünk fel az átfagyott séta után. Délután: A múzeumokban barátságos a hangulat, miközben kint korán lebukik a nap. Este: A kivilágított Jumbo torony jelzi a téli túra végét a szürkületben.",
+            "ro": "Dimineața: Degerătură pe pietrele zidului, aerul este tăios de rece. Prânz: Ne încălzim între zidurile groase ale castelului. După-amiaza: Atmosfera este primitoare în muzee, în timp ce afară soarele apune devreme. Seara: Turnul Jumbo iluminat marchează sfârșitul turului nostru de iarnă în amurg.",
+            "en": "Morning: Frost covers the old city wall; the air is crisp and cold. Noon: We warm up inside the thick walls of the Castle after the walk. Afternoon: The museums feel cozy as the sun sets early outside. Evening: The lit-up Jumbo Tower marks the end of our winter tour in the gathering dusk."
+          },
+          "stops": [
+            {
+              "name": "Roman Wall",
+              "tip_5lang": {
+                "de": "Vorsicht vor Glatteis auf Steinen.",
+                "hu": "Vigyázat a jeges kövekkel.",
+                "ro": "Atenție la polei pe pietre.",
+                "en": "Watch for ice on the stones."
+              }
+            },
+            {
+              "name": "Dutch Quarter",
+              "tip_5lang": {
+                "de": "Winterbeleuchtung in den Gassen.",
+                "hu": "Téli fények a sikátorokban.",
+                "ro": "Lumini de iarnă pe străduțe.",
+                "en": "Winter lights in the alleys."
+              }
+            },
+            {
+              "name": "St Botolph's Priory",
+              "tip_5lang": {
+                "de": "Windchill in den Ruinen beachten.",
+                "hu": "A romok közt nagy a szél.",
+                "ro": "Vânt rece printre ruine.",
+                "en": "Watch the wind chill in the ruins."
+              }
+            },
+            {
+              "name": "Colchester Castle",
+              "tip_5lang": {
+                "de": "Gut beheizte Ausstellungsräume.",
+                "hu": "Jól fűtött kiállítóterek.",
+                "ro": "Săli de expoziție bine încălzite.",
+                "en": "Well-heated exhibition spaces."
+              }
+            },
+            {
+              "name": "Hollytrees Museum",
+              "tip_5lang": {
+                "de": "Warmer Rückzugsort im Park.",
+                "hu": "Meleg menedék a parkban.",
+                "ro": "Refugiu cald în parc.",
+                "en": "Warm retreat in the park."
+              }
+            },
+            {
+              "name": "Natural History Museum",
+              "tip_5lang": {
+                "de": "Ideal zum Aufwärmen am Nachmittag.",
+                "hu": "Ideális délutáni melegedő.",
+                "ro": "Ideal pentru încălzire după-amiaza.",
+                "en": "Ideal for warming up in the afternoon."
+              }
+            },
+            {
+              "name": "Castle Park",
+              "tip_5lang": {
+                "de": "Sonnenuntergang gegen 16:00 Uhr.",
+                "hu": "Naplemente 16:00 körül.",
+                "ro": "Apus de soare în jur de ora 16:00.",
+                "en": "Sunset around 4:00 PM."
+              }
+            },
+            {
+              "name": "Jumbo Water Tower",
+              "tip_5lang": {
+                "de": "Beleuchtung wirkt im Dunkeln toll.",
+                "hu": "A kivilágítás sötétben szép.",
+                "ro": "Iluminatul arată grozav pe întuneric.",
+                "en": "Lighting looks great in the dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Kleidung in Schichten ist ein Muss.",
+              "Die Sonne geht früh unter, planen Sie das Ende ein.",
+              "Suchen Sie Cafés in der High Street zum Aufwärmen.",
+              "Pfade im Park können im Schatten gefroren sein."
+            ],
+            "hu": [
+              "A réteges meleg öltözet kötelező.",
+              "A nap korán nyugszik, tervezze így a végét.",
+              "A High Street kávézói jók melegedni.",
+              "A park árnyékos ösvényei lefagyhatnak."
+            ],
+            "ro": [
+              "Îmbrăcămintea groasă în straturi este obligatorie.",
+              "Soarele apune devreme, planificați finalul.",
+              "Cafenelele de pe High Street sunt bune pentru încălzire.",
+              "Potecile din parc pot fi înghețate la umbră."
+            ],
+            "en": [
+              "Warm layered clothing is a must.",
+              "The sun sets early, so plan your finish time.",
+              "Find cafes on the High Street to warm up.",
+              "Park paths in the shade can be frozen."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -775,6 +993,206 @@
           "Some central streets are narrow; be cautious with traffic.",
           "Bring a water bottle and snacks, especially for your time in the park."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgen: Wir radeln vorsichtig am Wasserturm und der Mauer vorbei, während der Regen peitscht. Mittag: Nach dem Besuch der St. Botolph Ruinen finden wir im Firstsite und im Schloss trockene Unterstände. Nachmittag: Eine kurze Fahrt durch das holländische Viertel führt uns zum Várpark, wo wir trotz Pfützen die frische Luft genießen.",
+            "hu": "Reggel: Óvatosan tekerünk el a víztorony és a fal mellett a verő esőben. Dél: A St Botolph romok után a Firstsite és a vár nyújt száraz menedéket a bicikliknek is. Délután: Egy rövid gurulás a Holland negyeden át a Várparkba vezet, ahol a tócsák ellenére is élvezzük a friss levegőt.",
+            "ro": "Dimineața: Pedalăm cu atenție pe lângă turnul de apă și zid sub ploaie. Prânz: După vizitarea ruinelor St Botolph, găsim adăpost uscat la Firstsite și la castel. După-amiaza: O scurtă plimbare prin Cartierul Olandez ne duce în parcul castelului, unde ne bucurăm de aer curat în ciuda bălților.",
+            "en": "Morning: We cycle carefully past the water tower and wall as rain lashes down. Noon: After visiting St Botolph's, Firstsite and the Castle provide dry shelters for us and the bikes. Afternoon: A short ride through the Dutch Quarter leads to Castle Park, where we enjoy the fresh air despite the puddles."
+          },
+          "stops": [
+            {
+              "name": "Jumbo Water Tower",
+              "tip_5lang": {
+                "de": "Vorsicht auf nassem Asphalt.",
+                "hu": "Vigyázat a vizes aszfalton.",
+                "ro": "Atenție pe asfaltul umed.",
+                "en": "Caution on wet asphalt."
+              }
+            },
+            {
+              "name": "Roman Wall",
+              "tip_5lang": {
+                "de": "Bremsen frühzeitig prüfen.",
+                "hu": "Időben ellenőrizze a fékeket.",
+                "ro": "Verificați frânele din timp.",
+                "en": "Test brakes early."
+              }
+            },
+            {
+              "name": "St Botolph's Priory",
+              "tip_5lang": {
+                "de": "Rutschgefahr auf dem Kopfsteinpflaster.",
+                "hu": "Csúszós macskakövek a környéken.",
+                "ro": "Pavele alunecoase în zonă.",
+                "en": "Slippery cobblestones nearby."
+              }
+            },
+            {
+              "name": "Firstsite",
+              "tip_5lang": {
+                "de": "Fahrradständer direkt am Eingang.",
+                "hu": "Biciklitároló közvetlen a bejáratnál.",
+                "ro": "Suporturi de biciclete la intrare.",
+                "en": "Bike racks right at the entrance."
+              }
+            },
+            {
+              "name": "Colchester Castle",
+              "tip_5lang": {
+                "de": "Bäume bieten etwas Schutz beim Parken.",
+                "hu": "A fák némi védelmet adnak parkoláskor.",
+                "ro": "Copacii oferă protecție la parcare.",
+                "en": "Trees offer some shelter when parking."
+              }
+            },
+            {
+              "name": "Dutch Quarter",
+              "tip_5lang": {
+                "de": "Vorsicht in engen, nassen Kurven.",
+                "hu": "Vigyázat a szűk, vizes kanyarokban.",
+                "ro": "Atenție în curbele strâmte și ude.",
+                "en": "Watch out in tight, wet corners."
+              }
+            },
+            {
+              "name": "Castle Park",
+              "tip_5lang": {
+                "de": "Schlammige Stellen auf den Wegen möglich.",
+                "hu": "Saras részek lehetnek az utakon.",
+                "ro": "Pot exista porțiuni noroioase.",
+                "en": "Muddy patches possible on paths."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie helle, wasserfeste Kleidung.",
+              "Schützen Sie Ihren Sattel mit einer Hülle.",
+              "Vermeiden Sie scharfe Bremsmanöver auf Laub.",
+              "Firstsite ist ein toller Ort für eine Pause."
+            ],
+            "hu": [
+              "Viseljen feltűnő, vízálló ruházatot.",
+              "Védje a nyerget huzattal.",
+              "Kerülje a hirtelen fékezést a leveleken.",
+              "A Firstsite remek hely egy pihenőre."
+            ],
+            "ro": [
+              "Purtați haine reflectorizante și impermeabile.",
+              "Protejați șaua cu o husă.",
+              "Evitați frânările bruște pe frunze.",
+              "Firstsite e un loc excelent pentru o pauză."
+            ],
+            "en": [
+              "Wear high-visibility waterproof clothing.",
+              "Protect your saddle with a cover.",
+              "Avoid sharp braking on wet leaves.",
+              "Firstsite is a great indoor break spot."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgen: Die kühle Winterluft weht uns beim Radeln um die Nase. Mittag: Ein Stopp beim Firstsite bringt Wärme, bevor wir zum Schloss weiterfahren. Nachmittag: Das holländische Viertel wirkt im Winterlicht besonders malerisch, auch wenn wir schneller treten müssen, um warm zu bleiben. Abend: Wir beenden die Tour im Várpark, bevor es ganz dunkel wird.",
+            "hu": "Reggel: A hűvös téli levegő csíp kerékpározás közben. Dél: Egy megálló a Firstsite-nál visszahozza az életet belénk, mielőtt a várhoz tekernénk. Délután: A Holland negyed festői a téli fényben, bár gyorsabban kell tekernünk, hogy ne fázzunk. Este: A Várparkban zárjuk a túrát, mielőtt teljesen besötétedne.",
+            "ro": "Dimineața: Aerul rece de iarnă ne pișcă în timp ce pedalăm. Prânz: O oprire la Firstsite ne încălzește înainte de a merge la castel. După-amiaza: Cartierul Olandez este pitoresc în lumina iernii, deși pedalam mai repede să nu înghețăm. Seara: Încheiem turul în parcul castelului înainte de întuneric.",
+            "en": "Morning: The chilly winter air bites as we cycle past the landmarks. Noon: A stop at Firstsite brings us back to life before heading to the Castle. Afternoon: The Dutch Quarter is picturesque in the winter light, though we cycle faster to stay warm. Evening: We finish the tour in Castle Park before total darkness sets in."
+          },
+          "stops": [
+            {
+              "name": "Jumbo Water Tower",
+              "tip_5lang": {
+                "de": "Achten Sie auf gefrorene Pfützen.",
+                "hu": "Figyeljen a fagyott tócsákra.",
+                "ro": "Atenție la bălțile înghețate.",
+                "en": "Watch for frozen puddles."
+              }
+            },
+            {
+              "name": "Roman Wall",
+              "tip_5lang": {
+                "de": "Handschuhe sind hier unerlässlich.",
+                "hu": "A kesztyű itt elengedhetetlen.",
+                "ro": "Mănușile sunt esențiale aici.",
+                "en": "Gloves are essential here."
+              }
+            },
+            {
+              "name": "St Botolph's Priory",
+              "tip_5lang": {
+                "de": "Windanfällige offene Fläche.",
+                "hu": "Szélnek kitett nyílt terület.",
+                "ro": "Zonă deschisă expusă la vânt.",
+                "en": "Open area exposed to wind."
+              }
+            },
+            {
+              "name": "Firstsite",
+              "tip_5lang": {
+                "de": "Perfekt zum Aufwärmen der Hände.",
+                "hu": "Tökéletes a kezek felmelegítésére.",
+                "ro": "Perfect pentru încălzirea mâinilor.",
+                "en": "Perfect for warming up your hands."
+              }
+            },
+            {
+              "name": "Colchester Castle",
+              "tip_5lang": {
+                "de": "Fahrradschloss kann einfrieren.",
+                "hu": "A biciklizár befagyhat.",
+                "ro": "Antifurtul poate îngheța.",
+                "en": "Bike lock can freeze up."
+              }
+            },
+            {
+              "name": "Dutch Quarter",
+              "tip_5lang": {
+                "de": "Frühzeitiges Licht am Fahrrad prüfen.",
+                "hu": "Korán ellenőrizze a világítást.",
+                "ro": "Verificați luminile din timp.",
+                "en": "Check your lights early."
+              }
+            },
+            {
+              "name": "Castle Park",
+              "tip_5lang": {
+                "de": "Wege können bei Frost rutschig sein.",
+                "hu": "Az utak fagyban csúszhatnak.",
+                "ro": "Drumurile pot fi alunecoase.",
+                "en": "Paths can be slippery in frost."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Handschuhe.",
+              "Halten Sie die Fahrtzeit kurz, um nicht auszukühlen.",
+              "Beleuchtung ist ab 15:30 Uhr wichtig.",
+              "Trinken Sie zwischendurch etwas Warmes."
+            ],
+            "hu": [
+              "Viseljen szélálló kesztyűt.",
+              "Tartsa röviden a menetidőt a lehűlés ellen.",
+              "15:30-tól már kell a világítás.",
+              "Igyon valami meleget útközben."
+            ],
+            "ro": [
+              "Purtați mănuși rezistente la vânt.",
+              "Păstrați timpul de mers scurt contra frigului.",
+              "Luminile sunt necesare de la 15:30.",
+              "Beți ceva cald pe parcurs."
+            ],
+            "en": [
+              "Wear windproof gloves.",
+              "Keep cycling intervals short to stay warm.",
+              "Lights are necessary from 3:30 PM.",
+              "Drink something warm during breaks."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1131,6 +1549,188 @@
           "Driving in the town centre can be tricky due to one-way systems.",
           "Don't leave valuables on display in your car."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgen: Wir parken in der Priory Street und huschen schnell zum Firstsite, um dem Regen zu entkommen. Mittag: Ein kurzer Trip zum Parkplatz am Várpark bringt uns direkt zum Schloss und den Museen. Nachmittag: Wir verbringen die meiste Zeit drinnen im Schloss und genießen die Aussicht auf den nassen Park nur aus den Fenstern. Abend: Gemütliche Rückfahrt im warmen Auto.",
+            "hu": "Reggel: Leparkolunk a Priory Streeten, és gyorsan a Firstsite-ba osonunk az eső elől. Dél: Egy rövid autózás a Várpark parkolójához, ahonnan közvetlen út vezet a várhoz és a múzeumokhoz. Délután: Időnk nagy részét a várban töltjük, a vizes parkot csak az ablakokból nézzük. Este: Kellemes hazautazás a meleg autóban.",
+            "ro": "Dimineața: Parcăm pe Priory Street și fugim repede la Firstsite pentru a scăpa de ploaie. Prânz: O scurtă călătorie până la parcarea parcului castelului ne duce direct la castel și muzee. După-amiaza: Ne petrecem majoritatea timpului în interior, privind parcul ud doar de la ferestre. Seara: Întoarcere confortabilă în mașina caldă.",
+            "en": "Morning: We park at Priory Street and dash into Firstsite to escape the rain. Noon: A short drive to the Castle Park car park puts us right next to the Castle and museums. Afternoon: We spend most of our time inside the Castle, watching the wet park from the windows. Evening: A cozy drive back in the warm car."
+          },
+          "stops": [
+            {
+              "name": "Priory Street Car Park",
+              "tip_5lang": {
+                "de": "Regenschirm direkt bereithalten.",
+                "hu": "Esernyő legyen kéznél kiszálláskor.",
+                "ro": "Umbrela să fie la îndemână.",
+                "en": "Have umbrella ready when exiting."
+              }
+            },
+            {
+              "name": "Firstsite",
+              "tip_5lang": {
+                "de": "Überdachter Eingangsbereich.",
+                "hu": "Fedett bejárati rész.",
+                "ro": "Zonă de intrare acoperită.",
+                "en": "Covered entrance area."
+              }
+            },
+            {
+              "name": "St Botolph's Priory",
+              "tip_5lang": {
+                "de": "Kurzer, aber nasser Fußweg.",
+                "hu": "Rövid, de ázós gyalogút.",
+                "ro": "Drum scurt dar ud pe jos.",
+                "en": "Short but wet walk."
+              }
+            },
+            {
+              "name": "Castle Park Car Park",
+              "tip_5lang": {
+                "de": "Oft Pfützen auf dem Parkplatz.",
+                "hu": "Gyakoriak a tócsák a parkolóban.",
+                "ro": "Bălți frecvente în parcare.",
+                "en": "Frequent puddles in the lot."
+              }
+            },
+            {
+              "name": "Colchester Castle",
+              "tip_5lang": {
+                "de": "Ideal für mehrere Stunden Aufenthalt.",
+                "hu": "Ideális több órás tartózkodásra.",
+                "ro": "Ideal pentru câteva ore de vizită.",
+                "en": "Ideal for several hours of visit."
+              }
+            },
+            {
+              "name": "Castle Park & Museums",
+              "tip_5lang": {
+                "de": "Museen sind alle nah beieinander.",
+                "hu": "A múzeumok mind közel vannak.",
+                "ro": "Muzeele sunt toate aproape.",
+                "en": "Museums are all close together."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie Parkhäuser, um trocken zu bleiben.",
+              "Lassen Sie nasse Schirme im Kofferraum.",
+              "Die Sicht kann bei starkem Regen eingeschränkt sein.",
+              "Planen Sie Zeit für Parkplatzsuche ein."
+            ],
+            "hu": [
+              "Használjon parkolóházakat a szárazságért.",
+              "A vizes ernyőt hagyja a csomagtartóban.",
+              "A látási viszonyok rosszak lehetnek esőben.",
+              "Hagyjon időt a parkolóhely keresésére."
+            ],
+            "ro": [
+              "Folosiți parcări etajate pentru a rămâne uscați.",
+              "Lăsați umbrela udă în portbagaj.",
+              "Vizibilitatea poate fi redusă pe ploaie.",
+              "Alocați timp pentru găsirea parcării."
+            ],
+            "en": [
+              "Use multi-storey car parks to stay dry.",
+              "Keep wet umbrellas in the trunk.",
+              "Visibility can be poor in heavy rain.",
+              "Allow extra time for finding a spot."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgen: Nach dem Eiskratzen geht es zum Priory Street Parkplatz. Mittag: Die kurzen Wege zwischen Auto und Sehenswürdigkeiten sind bei Kälte ideal. Nachmittag: Das Schloss bietet eine warme Zuflucht, während die Dämmerung über den Várpark hereinbricht. Abend: Wir genießen die beleuchtete Stadt durch die Scheiben, während die Heizung läuft.",
+            "hu": "Reggel: Jégkaparás után irány a Priory Street parkoló. Dél: Az autó és a látnivalók közötti rövid utak ideálisak a hidegben. Délután: A vár meleg menedéket nyújt, miközben a szürkület leszáll a Várparkra. Este: A fűtött autóból nézzük a kivilágított várost.",
+            "ro": "Dimineața: După curățarea ghețului, mergem la parcarea Priory Street. Prânz: Distanțele scurte între mașină și atracții sunt ideale pe frig. După-amiaza: Castelul oferă un refugiu cald în timp ce amurgul coboară peste parc. Seara: Admirăm orașul iluminat din mașina încălzită.",
+            "en": "Morning: After scraping the ice, we head to Priory Street car park. Noon: Short walks between the car and sights are ideal in the cold. Afternoon: The Castle offers a warm refuge as dusk falls over the park. Evening: We enjoy the lit-up city from the heated car."
+          },
+          "stops": [
+            {
+              "name": "Priory Street Car Park",
+              "tip_5lang": {
+                "de": "Achten Sie auf überfrierende Nässe.",
+                "hu": "Vigyázat a lefagyott utakkal.",
+                "ro": "Atenție la porțiunile înghețate.",
+                "en": "Watch for icy patches in the lot."
+              }
+            },
+            {
+              "name": "Firstsite",
+              "tip_5lang": {
+                "de": "Drinnen ist es herrlich warm.",
+                "hu": "Bent kellemesen meleg van.",
+                "ro": "În interior este plăcut și cald.",
+                "en": "It is lovely and warm inside."
+              }
+            },
+            {
+              "name": "St Botolph's Priory",
+              "tip_5lang": {
+                "de": "Schneller Fotostopp im Kalten.",
+                "hu": "Gyors fotómegálló a hidegben.",
+                "ro": "Oprire rapidă pentru poze pe frig.",
+                "en": "Quick photo stop in the cold."
+              }
+            },
+            {
+              "name": "Castle Park Car Park",
+              "tip_5lang": {
+                "de": "Scheibenheizung vor Abfahrt nutzen.",
+                "hu": "Indulás előtt fűtse le a szélvédőt.",
+                "ro": "Degivrați parbrizul înainte de plecare.",
+                "en": "Defrost windshield before leaving."
+              }
+            },
+            {
+              "name": "Colchester Castle",
+              "tip_5lang": {
+                "de": "Warme Garderobe im Inneren.",
+                "hu": "Benti ruhatár elérhető.",
+                "ro": "Garderobă caldă disponibilă.",
+                "en": "Warm cloakroom available inside."
+              }
+            },
+            {
+              "name": "Castle Park & Museums",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen den Gebäuden.",
+                "hu": "Rövid utak az épületek között.",
+                "ro": "Distanțe scurte între clădiri.",
+                "en": "Short distances between buildings."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Heizung im Auto vorwärmen.",
+              "Vorsicht bei Glätte auf Parkplatzrampen.",
+              "Planen Sie Zeit zum Enteisen ein.",
+              "Warme Getränke im Auto mitnehmen."
+            ],
+            "hu": [
+              "Melegítse be az autót indulás előtt.",
+              "Vigyázat a csúszós parkolórámpákkal.",
+              "Hagyjon időt a jégtelenítésre.",
+              "Vigyen meleg italt az autóba."
+            ],
+            "ro": [
+              "Preîncălziți mașina înainte de drum.",
+              "Atenție la rampele de parcare alunecoase.",
+              "Alocați timp pentru dezghețare.",
+              "Luați băuturi calde în mașină."
+            ],
+            "en": [
+              "Pre-heat the car before starting.",
+              "Watch for ice on parking ramps.",
+              "Allow time for de-icing.",
+              "Take warm drinks in the car."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1487,6 +2087,188 @@
           "Most buses are accessible, but can get crowded at peak times.",
           "Keep an eye out for your stop; not all are announced automatically."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgen: Wir warten unter dem Unterstand an der Head Street auf den Bus. Mittag: Kurze Wege vom Bus zum Mercury Theatre und dem holländischen Viertel minimieren das Nasswerden. Nachmittag: Die Fahrt zur Várpark-Haltestelle bringt uns direkt zum Schloss, wo wir den Rest des Tages im Trockenen verbringen. Abend: Der Bus bringt uns bequem zurück.",
+            "hu": "Reggel: A Head Street megálló várójában várakozunk a buszra. Dél: A busztól a Mercury Színházhoz és a Holland negyedhez vezető rövid utak miatt alig ázunk meg. Délután: A Várpark megállóhoz tartó járat közvetlen a várhoz visz, ahol a nap hátralévő részét szárazon töltjük. Este: A busz kényelmesen visz vissza.",
+            "ro": "Dimineața: Așteptăm autobuzul la adăpostul de pe Head Street. Prânz: Drumurile scurte de la autobuz la Teatrul Mercury și Cartierul Olandez ne feresc de ploaie. După-amiaza: Călătoria spre stația parcului ne duce direct la castel, unde rămânem la uscat. Seara: Autobuzul ne duce înapoi confortabil.",
+            "en": "Morning: We wait under the shelter at Head Street for the bus. Noon: Short walks from the bus to Mercury Theatre and the Dutch Quarter minimize getting wet. Afternoon: The ride to the Castle Park stop puts us right by the Castle, where we spend the rest of the day dry. Evening: The bus takes us back comfortably."
+          },
+          "stops": [
+            {
+              "name": "Head Street Bus Stop",
+              "tip_5lang": {
+                "de": "Haltestelle ist überdacht.",
+                "hu": "A megálló fedett.",
+                "ro": "Stația este acoperită.",
+                "en": "The stop is sheltered."
+              }
+            },
+            {
+              "name": "Mercury Theatre",
+              "tip_5lang": {
+                "de": "Perfekter Ort für eine Pause.",
+                "hu": "Tökéletes hely egy szünetre.",
+                "ro": "Loc perfect pentru o pauză.",
+                "en": "Perfect place for a break."
+              }
+            },
+            {
+              "name": "Dutch Quarter",
+              "tip_5lang": {
+                "de": "Nur 5 Min. Fußweg von der Haltestelle.",
+                "hu": "Csak 5 perc séta a megállótól.",
+                "ro": "Doar 5 minute de mers de la stație.",
+                "en": "Only 5 min walk from the stop."
+              }
+            },
+            {
+              "name": "Castle Park Bus Stop",
+              "tip_5lang": {
+                "de": "Direkt am Parkeingang.",
+                "hu": "Közvetlen a park bejáratánál.",
+                "ro": "Chiar la intrarea în parc.",
+                "en": "Right at the park entrance."
+              }
+            },
+            {
+              "name": "Colchester Castle",
+              "tip_5lang": {
+                "de": "Kurzer Sprint von der Haltestelle.",
+                "hu": "Gyors sprint a megállótól.",
+                "ro": "Sprint scurt de la stație.",
+                "en": "Quick dash from the stop."
+              }
+            },
+            {
+              "name": "Castle Park",
+              "tip_5lang": {
+                "de": "Feste Wege zum Museum nehmen.",
+                "hu": "Szilárd utat válasszon a múzeumhoz.",
+                "ro": "Alegeți aleile solide spre muzeu.",
+                "en": "Choose solid paths to the museum."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die App für Echtzeit-Buszeiten.",
+              "Meiden Sie Stoßzeiten wegen nasser Kleidung.",
+              "Busse sind gut beheizt und trocken.",
+              "Ein kleiner Schirm passt in jede Tasche."
+            ],
+            "hu": [
+              "Használja az appot a valós idejű menetrendhez.",
+              "Kerülje a csúcsidőt a vizes ruhák miatt.",
+              "A buszok fűtöttek és szárazak.",
+              "Egy kis ernyő is elég a megállókig."
+            ],
+            "ro": [
+              "Folosiți aplicația pentru orele reale.",
+              "Evitați orele de vârf din cauza hainelor ude.",
+              "Autobuzele sunt încălzite și uscate.",
+              "O umbrelă mică e suficientă."
+            ],
+            "en": [
+              "Use the app for real-time bus info.",
+              "Avoid peak hours with wet clothes.",
+              "Buses are well-heated and dry.",
+              "A small umbrella is enough for stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgen: Die Wartezeit an der Haltestelle ist kurz, aber kalt. Mittag: Wir genießen die Wärme im Bus auf dem Weg zum Mercury Theatre. Nachmittag: Der Várpark wirkt im Winterschlaf ruhig, bevor wir uns ins warme Schloss flüchten. Abend: Die beleuchteten Busse bringen uns sicher durch die dunkle, kalte Stadt nach Hause.",
+            "hu": "Reggel: A várakozási idő a megállóban rövid, de hideg. Dél: Élvezzük a busz melegét a Mercury Színház felé menet. Délután: A Várpark csendes téli álmot alszik, mielőtt a meleg várba menekülnénk. Este: A kivilágított buszok biztonságban visznek haza a sötét, hideg városon át.",
+            "ro": "Dimineața: Așteptarea în stație este scurtă, dar rece. Prânz: Ne bucurăm de căldura din autobuz spre Teatrul Mercury. După-amiaza: Parcul pare liniștit în somnul de iarnă, înainte de a ne refugia în castel. Seara: Autobuzele iluminate ne duc în siguranță acasă prin orașul rece.",
+            "en": "Morning: The wait at the bus stop is short but chilly. Noon: We enjoy the warmth of the bus on the way to Mercury Theatre. Afternoon: Castle Park looks quiet in its winter sleep before we take refuge in the warm Castle. Evening: Lit-up buses take us safely home through the dark, cold city."
+          },
+          "stops": [
+            {
+              "name": "Head Street Bus Stop",
+              "tip_5lang": {
+                "de": "Windgeschützte Wartehalle.",
+                "hu": "Szélvédett várócsarnok.",
+                "ro": "Sală de așteptare ferită de vânt.",
+                "en": "Wind-sheltered waiting area."
+              }
+            },
+            {
+              "name": "Mercury Theatre",
+              "tip_5lang": {
+                "de": "Garderobe für dicke Mäntel nutzen.",
+                "hu": "Használja a ruhatárat a kabátoknak.",
+                "ro": "Folosiți garderoba pentru haine.",
+                "en": "Use the cloakroom for heavy coats."
+              }
+            },
+            {
+              "name": "Dutch Quarter",
+              "tip_5lang": {
+                "de": "Atmosphärisch bei Dämmerung.",
+                "hu": "Hangulatos szürkületkor.",
+                "ro": "Atmosferic la amurg.",
+                "en": "Atmospheric at dusk."
+              }
+            },
+            {
+              "name": "Castle Park Bus Stop",
+              "tip_5lang": {
+                "de": "Beleuchtete Wege zum Schloss.",
+                "hu": "Kivilágított utak a várhoz.",
+                "ro": "Alei iluminate spre castel.",
+                "en": "Lit paths to the castle."
+              }
+            },
+            {
+              "name": "Colchester Castle",
+              "tip_5lang": {
+                "de": "Wärmster Ort der Tour.",
+                "hu": "A túra legmelegebb pontja.",
+                "ro": "Cel mai cald punct al turului.",
+                "en": "Warmest point of the tour."
+              }
+            },
+            {
+              "name": "Castle Park",
+              "tip_5lang": {
+                "de": "Park schließt bei Dunkelheit früher.",
+                "hu": "A park sötétedéskor korábban zár.",
+                "ro": "Parcul se închide mai devreme.",
+                "en": "Park closes earlier at dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse fahren im Winter oft pünktlicher.",
+              "Tragen Sie warme Socken für das Warten.",
+              "Fahrpläne können sich an Feiertagen ändern.",
+              "Wärmen Sie sich im Bus gut auf."
+            ],
+            "hu": [
+              "A buszok télen gyakran pontosabbak.",
+              "Viseljen meleg zoknit a várakozáshoz.",
+              "Az ünnepi menetrend eltérő lehet.",
+              "Melegedjen fel jól a buszon."
+            ],
+            "ro": [
+              "Autobuzele sunt punctuale iarna.",
+              "Purtați șosete groase pentru așteptare.",
+              "Orarele pot varia de sărbători.",
+              "Încălziți-vă bine în autobuz."
+            ],
+            "en": [
+              "Buses are often punctual in winter.",
+              "Wear warm socks for waiting.",
+              "Check holiday schedules if visiting.",
+              "Warm up properly while on the bus."
+            ]
+          }
+        }
       }
     }
   }

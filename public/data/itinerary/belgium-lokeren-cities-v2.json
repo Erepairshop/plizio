@@ -366,6 +366,214 @@
           "Check the museum's opening hours in advance.",
           "Some paths in Molsbroek can be muddy after rain."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Vormittag am Alten Fischmarkt beginnt unter den Arkaden, gefolgt von der schützenden Stille der Laurentiuskirche. Den Mittag verbringen wir im Stadsmuseum, wo Lokerens Geschichte trocken erlebbar ist. Am Nachmittag führt der Weg zum Park ter Beuken und der Kapelle. Den Abschluss bildet der Molsbroek-Rundweg, wo der Regen die Natur zum Leuchten bringt, bevor wir die Durme-Brücke queren.",
+            "hu": "A délelőtt az Oszlopcsarnok védelmében indul a Vismarkton, majd a Szent Lőrinc-templom csendjében folytatódik. A delet a városi múzeum interaktív kiállításai között töltjük, elkerülve a záporokat. Délután a Park ter Beuken és a Szent Anna-kápolna felé vesszük az irányt. Az estét a Molsbroek tanösvényein zárjuk, ahol az eső illata frissíti fel a tájat a Durme-hídon való átkelés előtt.",
+            "ro": "Dimineața la Piața Veche de Pește începe sub arcade, urmată de liniștea protectoare a Bisericii Sf. Laurențiu. Prânzul este dedicat Muzeului Orașului, un refugiu cultural perfect împotriva ploii. După-amiaza explorăm Park ter Beuken și Capela Sf. Ana. Încheiem ziua în rezervația Molsbroek, unde reflexiile apei pe poteci creează un decor dramatic, înainte de a trece podul peste Durme.",
+            "en": "Morning at the Old Fish Market starts under the arcades, followed by the sheltered silence of St. Lawrence Church. Midday is spent in the City Museum, a perfect indoor cultural retreat. Afternoon leads to Park ter Beuken and St. Anne's Chapel. We finish at Molsbroek Nature Reserve, where the rain enhances the wetland atmosphere, before crossing the Durme Bridge as evening falls."
+          },
+          "stops": [
+            {
+              "name": "Old Fish Market",
+              "tip_5lang": {
+                "de": "Unter den historischen Arkaden am Markt findet man guten Schutz vor Regenschauern.",
+                "hu": "A régi piaccsarnok árkádjai alatt szárazon figyelhetjük a főtér forgalmát.",
+                "ro": "Arcadele istorice din piață oferă un adăpost excelent împotriva rafalelor de ploaie.",
+                "en": "The historical arcades at the market provide excellent shelter during rain showers."
+              }
+            },
+            {
+              "name": "Saint Lawrence Church",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Kanzel von 1736, während draußen der Regen gegen die Fenster trommelt.",
+                "hu": "Csodálja meg az 1736-os szószéket, miközben kint az eső kopog az üvegablakokon.",
+                "ro": "Admirați amvonul din 1736 în timp ce ploaia bate în ferestrele înalte ale bisericii.",
+                "en": "Admire the pulpit from 1736 while the rain drums against the high stained windows."
+              }
+            },
+            {
+              "name": "Lokeren City Museum",
+              "tip_5lang": {
+                "de": "Ein idealer Ort für eine längere Pause; das Museum ist komplett überdacht und beheizt.",
+                "hu": "Ideális helyszín egy hosszabb pihenőhöz; a múzeum teljesen fedett és fűtött.",
+                "ro": "Locul ideal pentru o pauză lungă; muzeul este complet acoperit și încălzit.",
+                "en": "An ideal location for a long break; the museum is fully indoor and climate-controlled."
+              }
+            },
+            {
+              "name": "Park ter Beuken",
+              "tip_5lang": {
+                "de": "Die dichten Baumkronen bieten natürlichen Schutz, aber wasserfeste Schuhe sind ratsam.",
+                "hu": "A sűrű lombozat természetes védelmet nyújt, de a vízálló cipő ajánlott a sétányon.",
+                "ro": "Coroanele dese oferă protecție naturală, dar încălțămintea impermeabilă este necesară.",
+                "en": "The thick canopy offers natural cover, but waterproof shoes are advised for the paths."
+              }
+            },
+            {
+              "name": "Saint Anne's Chapel",
+              "tip_5lang": {
+                "de": "Ein kleiner, ruhiger Ort zum Innehalten, falls der Regen am Nachmittag stärker wird.",
+                "hu": "Apró, csendes helyszín a megálláshoz, ha délutánra felerősödne a csapadék.",
+                "ro": "Un loc mic și liniștit pentru o oprire scurtă dacă ploaia se intensifică după-amiaza.",
+                "en": "A small, quiet spot to pause if the rain intensifies during the afternoon."
+              }
+            },
+            {
+              "name": "Molsbroek Nature Reserve",
+              "tip_5lang": {
+                "de": "Der 4,5 km lange Rundweg ist asphaltiert und daher auch bei Nässe gut begehbar.",
+                "hu": "A 4,5 km-es körút aszfaltozott, így nagy esőben is sármentesen járható.",
+                "ro": "Traseul de 4,5 km este asfaltat, fiind ușor de parcurs chiar și pe timp de ploaie.",
+                "en": "The 4.5 km circular path is paved, making it mud-free and easy to walk in the rain."
+              }
+            },
+            {
+              "name": "Durme Bridge",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem Bodenbelag der Brücke, der bei Nässe etwas rutschig sein kann.",
+                "hu": "Vigyázat, a híd burkolata nedvesen csúszóssá válhat az esti órákban.",
+                "ro": "Atenție la suprafața podului, care poate deveni alunecoasă când este udă.",
+                "en": "Be careful on the bridge surface, which can become slightly slippery when wet."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Durchgänge am Marktplatz als Abkürzung zwischen den Gebäuden.",
+              "Das Stadsmuseum verfügt über Schließfächer für nasse Mäntel und Regenschirme.",
+              "Die asphaltierten Wege im Molsbroek verhindern schlammige Schuhe.",
+              "Ein Besuch im Café 't Postiljon am Markt bietet eine gemütliche Aufwärmpause.",
+              "Regenschutz für den Rucksack ist bei der Wanderung zum Molsbroek wichtig."
+            ],
+            "hu": [
+              "Használja a főtér árkádjait rövidítésként az épületek között.",
+              "A városi múzeumban vannak értékmegőrzők a vizes kabátoknak és ernyőknek.",
+              "A Molsbroek aszfaltozott útjai garantálják a sármentes közlekedést.",
+              "A főtéri 't Postiljon kávézó tökéletes hely egy melegítő szünethez.",
+              "A hátizsákra való esővédő huzat hasznos a Molsbroek felé tartó nyílt terepen."
+            ],
+            "ro": [
+              "Folosiți pasajele din piața centrală ca scurtături între clădiri.",
+              "Muzeul orașului are dulapuri pentru depozitarea hainelor ude și a umbrelelor.",
+              "Potecile asfaltate din Molsbroek previn murdărirea încălțămintei cu noroi.",
+              "O vizită la cafeneaua 't Postiljon oferă o pauză caldă și primitoare.",
+              "Husa de ploaie pentru rucsac este esențială în zona deschisă de la Molsbroek."
+            ],
+            "en": [
+              "Use the passageways around the market square as shortcuts between buildings.",
+              "The City Museum has lockers available for wet coats and umbrellas.",
+              "Paved paths in Molsbroek ensure a mud-free experience even in heavy rain.",
+              "A stop at 't Postiljon cafe by the market is perfect for a warming break.",
+              "A rain cover for your backpack is essential on the open stretch to Molsbroek."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen beginnt am Alten Fischmarkt, wo der Dampf der Heißgetränke aufsteigt. Nach dem Besuch der Laurentiuskirche wärmen wir uns im Stadsmuseum auf. Am frühen Nachmittag nutzen wir das Tageslicht im Park ter Beuken. Die Wintersonne taucht das Molsbroek in goldenes Licht, bevor wir bei einsetzender Dunkelheit und beleuchteter Durme-Brücke in das Zentrum zurückkehren.",
+            "hu": "Zúzmarás reggel indul a Vismarkton, ahol a forró italok gőze száll a levegőben. A Szent Lőrinc-templom után a városi múzeum fűtött termeiben melegszünk fel. Kora délután kihasználjuk a maradék fényt a Park ter Beukenben. A téli nap aranyba vonja a Molsbroek jeges nádasait, majd a kivilágított Durme-hídon keresztül, a sötétedéssel egy időben érünk vissza.",
+            "ro": "O dimineață geroasă începe în Piața Veche de Pește, cu aburi ridicându-se din băuturile calde. După Biserica Sf. Laurențiu, ne încălzim în sălile Muzeului Orașului. Profităm de lumina puțină a amiezii în Park ter Beuken. Soarele de iarnă scaldă Molsbroek în culori aurii, înainte de a reveni în centru pe podul Durme iluminat festiv odată cu lăsarea serii.",
+            "en": "A frosty morning begins at the Old Fish Market with steam rising from hot coffee. After visiting St. Lawrence Church, we thaw out in the City Museum. We catch the midday light at Park ter Beuken before the winter sun casts golden hues over Molsbroek. We return as darkness falls, crossing the beautifully lit Durme Bridge back to the city heart."
+          },
+          "stops": [
+            {
+              "name": "Old Fish Market",
+              "tip_5lang": {
+                "de": "Genießen Sie einen warmen Kakao in einem der Cafés mit Blick auf den Marktplatz.",
+                "hu": "Élvezze a forró kakaót az egyik kávézóban, kilátással a főtérre.",
+                "ro": "Savurați o ciocolată caldă la una dintre cafenelele cu vedere spre piață.",
+                "en": "Enjoy a hot cocoa at one of the cafes with a direct view of the market square."
+              }
+            },
+            {
+              "name": "Saint Lawrence Church",
+              "tip_5lang": {
+                "de": "Ziehen Sie sich warm an; die hohen Kirchenschiffe können im Winter recht kühl sein.",
+                "hu": "Öltözzön rétegesen; a templom tágas hajói télen hűvösek maradhatnak.",
+                "ro": "Îmbrăcați-vă gros; interiorul bisericii poate fi destul de rece în timpul iernii.",
+                "en": "Dress in layers; the vast interior of the church can be quite chilly in winter."
+              }
+            },
+            {
+              "name": "Lokeren City Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Mittag für die Ausstellungen, wenn es draußen am kältesten ist.",
+                "hu": "Használja ki a delet a kiállításokra, amikor kint a leghidegebb az idő.",
+                "ro": "Profitați de orele prânzului pentru expoziții, când afară este cel mai frig.",
+                "en": "Use the midday hours for the exhibitions when it is coldest outside."
+              }
+            },
+            {
+              "name": "Park ter Beuken",
+              "tip_5lang": {
+                "de": "Die kahlen Bäume bieten weite Sichtachsen auf die Architektur des Parks.",
+                "hu": "A kopár fák között messzebbre ellátni a park építészeti elemei felé.",
+                "ro": "Copacii desfrunziți permit vederi panoramice spre arhitectura parcului.",
+                "en": "The bare trees offer clear sightlines to the park's architectural features."
+              }
+            },
+            {
+              "name": "Saint Anne's Chapel",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp vor dem Marsch zum Molsbroek, um den Windschutz zu nutzen.",
+                "hu": "Rövid megálló a Molsbroek felé tartó gyaloglás előtt, szélvédett helyen.",
+                "ro": "O oprire scurtă pentru a vă feri de vânt înainte de mersul spre Molsbroek.",
+                "en": "A brief stop to shelter from the wind before the walk towards Molsbroek."
+              }
+            },
+            {
+              "name": "Molsbroek Nature Reserve",
+              "tip_5lang": {
+                "de": "Achten Sie auf Zugvögel, die hier im Winter rasten; ein Fernglas ist lohnenswert.",
+                "hu": "Figyelje a télen itt pihenő vándormadarakat; a távcső ilyenkor hasznos.",
+                "ro": "Observați păsările migratoare care iernează aici; binoclul este recomandat.",
+                "en": "Watch for migratory birds wintering here; binoculars are highly recommended."
+              }
+            },
+            {
+              "name": "Durme Bridge",
+              "tip_5lang": {
+                "de": "Die Brücke ist ab 17 Uhr beleuchtet und bietet ein schönes Fotomotiv im Dunkeln.",
+                "hu": "A híd 17 órától ki van világítva, gyönyörű fotótéma a sötétben.",
+                "ro": "Podul este iluminat după ora 17:00, oferind un cadru perfect pentru fotografii.",
+                "en": "The bridge is lit from 5 PM, providing a beautiful photo opportunity in the dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht gegen 16:45 Uhr unter; planen Sie Molsbroek davor ein.",
+              "Das Stadsmuseum ist montags oft geschlossen; prüfen Sie die Öffnungszeiten.",
+              "Wollmützen und Handschuhe sind wegen des Winds an der Durme ratsam.",
+              "Suchen Sie nach dem 'Lokerse Paardenworst' in lokalen Lokalen zum Aufwärmen.",
+              "Die Wege können bei Reifglätte rutschig sein; tragen Sie Profilsohlen."
+            ],
+            "hu": [
+              "A nap 16:45 körül nyugszik; a Molsbroek látogatását időzítse előbbre.",
+              "A városi múzeum hétfőnként zárva lehet; ellenőrizze a nyitvatartást.",
+              "A Durme-parti szél miatt a sapka és kesztyű viselése erősen ajánlott.",
+              "Keresse a helyi 'Lokerse Paardenworst' ételt a vendéglőkben melegítésként.",
+              "Zúzmarás időben az utak csúszósak lehetnek; hordjon bordázott talpú cipőt."
+            ],
+            "ro": [
+              "Soarele apune în jur de ora 16:45; planificați vizita la Molsbroek înainte.",
+              "Muzeul orașului este adesea închis lunea; verificați programul în avans.",
+              "Căciula și mănușile sunt necesare din cauza vântului tăios de pe malul Durme.",
+              "Căutați specialitatea locală 'Lokerse Paardenworst' pentru o masă consistentă.",
+              "Căile pot fi alunecoase din cauza chiciurei; purtați încălțăminte cu aderență."
+            ],
+            "en": [
+              "Sunset is around 4:45 PM; make sure to finish the Molsbroek loop before then.",
+              "The City Museum is often closed on Mondays; check the seasonal schedule.",
+              "Woolen hats and gloves are advised due to the sharp wind near the Durme river.",
+              "Look for 'Lokerse Paardenworst' in local eateries for a hearty, warming meal.",
+              "Paths can be slippery with frost; wear shoes with good tread/grip."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -702,6 +910,196 @@
           "Bring plenty of water.",
           "Pay attention to the cycle path signage, which is excellent in Flanders."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine nasse Fahrt beginnt am Fischmarkt, doch das Ziel ist schnell erreicht. Nach Kultur in Kirche und Museum radeln wir durch den Bospark, wo die Bäume den Regen abfangen. Die Durme-Brücke bietet weite Sicht, bevor wir im Molsbroek auf befestigten Wegen die Wasserlandschaft genießen. Die Rückkehr ins Zentrum erfolgt zügig durch die erfrischte Stadt.",
+            "hu": "Esős tekerés indul a halpiacról, de a távolságok rövidek. A kulturális megállók után a Bospark fái nyújtanak némi védelmet a csapadék elől. A Durme-hídon átkelve a Molsbroek aszfaltozott útjain élvezzük a vizes élővilágot. A városközpontba való visszatérés gyors és frissítő a kimosott utcákon keresztül.",
+            "ro": "O plimbare umedă cu bicicleta începe la piață, dar obiectivele sunt aproape. După cultură la biserică și muzeu, pedalăm prin Bospark, unde arborii opresc stropii. Podul Durme oferă o perspectivă largă înainte de a intra în Molsbroek pe drumuri asfaltate. Revenirea în centru este rapidă prin aerul curat al orașului.",
+            "en": "A wet ride starts at the Fish Market, but the city layout keeps distances short. After cultural stops, we cycle through Bospark where trees buffer the rain. Crossing Durme Bridge, we enjoy the wetland views from Molsbroek's paved paths. The return to the center is quick and refreshing through the rain-washed streets."
+          },
+          "stops": [
+            {
+              "name": "Old Fish Market",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Fahrradständer direkt unter den schützenden Arkaden.",
+                "hu": "Használja a közvetlenül a védett árkádok alatt található kerékpártárolókat.",
+                "ro": "Folosiți rastelele pentru biciclete situate chiar sub arcadele protectoare.",
+                "en": "Use the bicycle racks located directly under the sheltered arcades."
+              }
+            },
+            {
+              "name": "St. Lawrence Church & City Museum",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad am Museumseingang ab, dort gibt es teilweise überdachte Plätze.",
+                "hu": "A múzeumnál részben fedett helyen is lezárhatja a kerékpárját.",
+                "ro": "Parcați bicicleta la intrarea muzeului, unde există locuri parțial acoperite.",
+                "en": "Park your bike at the museum entrance; some spots are partially covered."
+              }
+            },
+            {
+              "name": "Bospark",
+              "tip_5lang": {
+                "de": "Vorsicht bei nassem Laub auf den Wegen; die Hauptwege sind jedoch gut befestigt.",
+                "hu": "Vigyázat a nedves levelekkel az utakon; a fő sétányok jól burkoltak.",
+                "ro": "Atenție la frunzele ude de pe drum; aleile principale sunt însă bine pavate.",
+                "en": "Watch out for wet leaves on the ground; main paths are well-maintained."
+              }
+            },
+            {
+              "name": "Durme Bridge",
+              "tip_5lang": {
+                "de": "Überqueren Sie die Brücke bei Regen langsam, da Metallteile rutschig sein können.",
+                "hu": "Esőben lassan keljen át a hídon, a fém elemek csúszósak lehetnek.",
+                "ro": "Traversați podul cu viteză redusă; elementele metalice pot fi alunecoase.",
+                "en": "Cross the bridge slowly in rain as metal joints can be very slippery."
+              }
+            },
+            {
+              "name": "Molsbroek Nature Reserve",
+              "tip_5lang": {
+                "de": "Fahrradfahren ist auf dem Deich erlaubt und bietet eine tolle Aussicht bei Regen.",
+                "hu": "A gáton szabad kerékpározni, esőben is kiváló kilátást nyújt a tájra.",
+                "ro": "Ciclismul este permis pe dig, oferind o priveliște superbă chiar și pe ploaie.",
+                "en": "Cycling is permitted on the dike, offering a great view of the wet landscape."
+              }
+            },
+            {
+              "name": "Return to City Center",
+              "tip_5lang": {
+                "de": "Die Radwege zurück ins Zentrum sind gut beleuchtet und sicher befahrbar.",
+                "hu": "A központba vezető kerékpárutak jól kivilágítottak és biztonságosak.",
+                "ro": "Pistele de biciclete spre centru sunt bine iluminate și sigure.",
+                "en": "Cycle paths back to the center are well-lit and safe for travel."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche am Fahrrad sind in Lokeren bei Regen unerlässlich.",
+              "Tragen Sie eine neonfarbene Regenjacke für bessere Sichtbarkeit im Verkehr.",
+              "Prüfen Sie Ihre Bremsen vorab; auf nassen Straßen ist der Bremsweg länger.",
+              "Der Molsbroek-Dammweg ist asphaltiert, so bleibt das Rad sauber.",
+              "Ein Sattelschutz hält Ihren Sitz während der Stopps trocken."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen Lokerenben az esős napokon.",
+              "Viseljen neon esőkabátot a jobb láthatóság érdekében a forgalomban.",
+              "Ellenőrizze a fékeket; vizes úton a féktávolság jelentősen megnő.",
+              "A Molsbroek gátútja aszfaltozott, így a bringa tiszta marad.",
+              "Egy nyeregvedő huzat szárazon tartja az ülést a megállók alatt."
+            ],
+            "ro": [
+              "Aripile la bicicletă sunt esențiale în Lokeren în zilele ploioase.",
+              "Purtați o jachetă de ploaie reflectorizantă pentru vizibilitate sporită.",
+              "Verificați frânele; distanța de frânare crește pe asfaltul umed.",
+              "Drumul de pe digul Molsbroek este asfaltat, păstrând bicicleta curată.",
+              "O husă de șa vă va menține locul uscat în timpul vizitelor la obiective."
+            ],
+            "en": [
+              "Mudguards are essential on your bike in Lokeren during rainy days.",
+              "Wear a high-visibility rain jacket for better safety in the city traffic.",
+              "Check your brakes; braking distances are significantly longer on wet roads.",
+              "The Molsbroek dike path is paved, so your bike stays relatively clean.",
+              "A saddle cover will keep your seat dry while you are exploring stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Start am Fischmarkt führt uns schnell zur warmen Kirche und dem Museum. Die Fahrt zum Bospark belebt bei kühler Luft, während wir die klare Sicht über die Durme genießen. Im Molsbroek radeln wir durch die stille Winterlandschaft, bevor wir vor Einbruch der Dunkelheit wieder das gemütliche Zentrum erreichen.",
+            "hu": "Fagyos indulás a halpiacról, gyorsan elérve a templom és a múzeum melegét. A Bospark felé tekerés felfrissít a hideg levegőn, miközben tiszta a kilátás a Durme felett. A Molsbroekben a csendes téli tájon suhanunk át, majd még sötétedés előtt visszaérünk a hangulatos központba.",
+            "ro": "Un început înghețat la piață ne conduce rapid spre căldura bisericii și a muzeului. Drumul spre Bospark este revigorant, oferind o vedere clară peste râul Durme. În Molsbroek pedalăm prin peisajul tăcut de iarnă, revenind în centrul primitor înainte de lăsarea întunerikuui.",
+            "en": "A frosty start at the Fish Market leads us quickly to the warmth of the church and museum. The ride to Bospark is bracing in the cold air, with clear views over the Durme. In Molsbroek, we cycle through the quiet winter scenery, returning to the cozy center before darkness falls."
+          },
+          "stops": [
+            {
+              "name": "Old Fish Market",
+              "tip_5lang": {
+                "de": "Vorsicht beim Losfahren; das Kopfsteinpflaster kann morgens überfroren sein.",
+                "hu": "Vigyázzon az induláskor; a macskakő reggelente jeges lehet.",
+                "ro": "Atenție la plecare; pavajul cu piatră cubică poate fi înghețat dimineața.",
+                "en": "Be careful when starting; the cobblestones can be icy in the morning."
+              }
+            },
+            {
+              "name": "St. Lawrence Church & City Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit drinnen, um Ihre Hände für die Weiterfahrt aufzuwärmen.",
+                "hu": "Használja ki a bent töltött időt a kezei felmelegítésére a továbbút előtt.",
+                "ro": "Folosiți timpul petrecut în interior pentru a vă încălzi mâinile pentru drum.",
+                "en": "Use the time indoors to warm your hands before the next leg of the ride."
+              }
+            },
+            {
+              "name": "Bospark",
+              "tip_5lang": {
+                "de": "Auf schattigen Waldwegen kann sich Frost länger halten als auf den Hauptstraßen.",
+                "hu": "Az árnyékos erdei utakon a fagy tovább megmaradhat, mint a főutakon.",
+                "ro": "Pe potecile umbrite din pădure înghețul persistă mai mult decât pe străzi.",
+                "en": "On shaded forest paths, frost can linger longer than on main roads."
+              }
+            },
+            {
+              "name": "Durme Bridge",
+              "tip_5lang": {
+                "de": "Die Brücke kühlt schnell aus; achten Sie auf glatte Stellen am Brückenkopf.",
+                "hu": "A híd gyorsan áthűl; figyeljen a jegesedésre a hídfőnél.",
+                "ro": "Podul se răcește rapid; atenție la porțiunile înghețate de la capete.",
+                "en": "The bridge cools quickly; watch for icy patches at the entrance and exit."
+              }
+            },
+            {
+              "name": "Molsbroek Nature Reserve",
+              "tip_5lang": {
+                "de": "Die flache Landschaft bietet wenig Windschutz; treten Sie kräftig in die Pedale.",
+                "hu": "A sík táj kevés szélvédelmet nyújt; tekerjen tempósan a hideg ellen.",
+                "ro": "Peisajul plan oferă puțin adăpost contra vântului; pedalați cu spor.",
+                "en": "The flat landscape offers little wind protection; pedal steadily to stay warm."
+              }
+            },
+            {
+              "name": "Return to City Center",
+              "tip_5lang": {
+                "de": "Genießen Sie die Fahrt durch das beleuchtete Lokeren zum Abschluss.",
+                "hu": "Élvezze a kivilágított Lokeren látványát a túra zárásaként.",
+                "ro": "Bucurați-vă de plimbarea prin Lokerenul iluminat la finalul traseului.",
+                "en": "Enjoy the ride through the festive lights of Lokeren to finish your tour."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Handschuhe, da der Fahrtwind im Winter stark auskühlt.",
+              "Beleuchtung am Fahrrad ist ab 16:30 Uhr zwingend erforderlich.",
+              "Vermeiden Sie abrupte Bremsmanöver auf möglicherweise glatten Brücken.",
+              "Ein Thermosbecher mit Tee passt meist perfekt in den Flaschenhalter.",
+              "Die Reifen sollten im Winter etwas weniger Druck haben für mehr Grip."
+            ],
+            "hu": [
+              "Viseljen szélálló kesztyűt, mert a menetszél télen nagyon hűvös.",
+              "A kerékpár-világítás használata 16:30-tól kötelező.",
+              "Kerülje a hirtelen fékezést a hidakon, mert jegesek lehetnek.",
+              "Egy termosz tea általában pontosan beleillik a kulacstartóba.",
+              "Télen érdemes kicsit leengedni a guminyomást a jobb tapadásért."
+            ],
+            "ro": [
+              "Purtați mănuși rezistente la vânt, deoarece curentul răcește mâinile rapid.",
+              "Luminile la bicicletă sunt obligatorii după ora 16:30.",
+              "Evitați frânările bruște pe poduri, unde poate exista gheață neagră.",
+              "Un termos cu ceai se potrivește de obicei în suportul de bidon.",
+              "Iarna se recomandă o presiune ceva mai mică în pneuri pentru aderență."
+            ],
+            "en": [
+              "Wear windproof gloves as the wind chill while cycling is high in winter.",
+              "Bicycle lighting is mandatory from 4:30 PM onwards.",
+              "Avoid sudden braking on bridges, as they might have black ice.",
+              "A thermos of hot tea usually fits perfectly in a standard bottle cage.",
+              "Consider slightly lower tire pressure for better grip on winter roads."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1038,6 +1436,196 @@
           "Pay attention to the blue parking zones that require a parking disc.",
           "Plan your route in advance to avoid traffic."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Bequem erreichen wir das Parkhaus im Zentrum. Kurze Wege führen zum Markt und zur Kirche, während das Museum eine lange, trockene Pause ermöglicht. Danach fahren wir zum Molsbroek-Parkplatz und beobachten die Tierwelt geschützt vom Auto aus oder nutzen den befestigten Dammweg. Den Tag lassen wir mit einer Fahrt durch das verregnete, aber stimmungsvolle Lokeren ausklingen.",
+            "hu": "Kényelmesen érkezünk a központi parkolóba. Rövid sétával elérhető a piac és a templom, a múzeum pedig hosszú, száraz pihenőt kínál. Ezután a Molsbroek parkolóba hajtunk, ahol az autóból is megfigyelhetjük az élővilágot, vagy az aszfaltozott gáton sétálhatunk. A napot az esős, de hangulatos Lokerenben tett autózással zárjuk.",
+            "ro": "Ajungem confortabil la parcarea din centru. Drumuri scurte duc spre piață și biserică, în timp ce muzeul oferă o pauză lungă și uscată. Apoi conducem spre parcarea Molsbroek pentru a observa natura protejați de mașină sau pe digul asfaltat. Încheiem ziua cu o plimbare prin Lokerenul ploios, dar plin de atmosferă.",
+            "en": "We arrive comfortably at the central parking. Short walks lead to the market and church, while the museum provides a long, dry break. Next, we drive to the Molsbroek parking to observe wildlife from the shelter of the car or walk the paved dike. We end the day with a drive through the rainy but atmospheric Lokeren."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: City Center Parking",
+              "tip_5lang": {
+                "de": "Das Parkhaus Grote Markt ist ideal, um trockenen Fußes in das Zentrum zu gelangen.",
+                "hu": "A Grote Markt parkolóháza ideális, hogy száraz lábbal érjük el a központot.",
+                "ro": "Parcarea supraetajată Grote Markt este ideală pentru a ajunge în centru pe uscat.",
+                "en": "The Grote Markt parking garage is ideal for reaching the center keeping dry."
+              }
+            },
+            {
+              "name": "Old Fish Market & St. Lawrence Church",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Markt, um die Gehwege im Regen zu minimieren.",
+                "hu": "Parkoljon közel a piachoz, hogy minimalizálja az esőben való gyaloglást.",
+                "ro": "Parcați aproape de piață pentru a minimiza mersul pe jos prin ploaie.",
+                "en": "Park near the market to minimize walking distances in the rain."
+              }
+            },
+            {
+              "name": "Lokeren City Museum",
+              "tip_5lang": {
+                "de": "In der Nähe des Museums gibt es Kurzzeitparkplätze für einen schnellen Zugang.",
+                "hu": "A múzeum közelében rövid távú parkolók találhatók a gyors bejutáshoz.",
+                "ro": "Lângă muzeu există locuri de parcare pe termen scurt pentru acces rapid.",
+                "en": "Short-term parking is available near the museum for quick access."
+              }
+            },
+            {
+              "name": "Cluster 2: Molsbroek Parking",
+              "tip_5lang": {
+                "de": "Der Parkplatz bietet eine gute Sicht auf den Damm, falls es zu stark regnet.",
+                "hu": "A parkolóból jó kilátás nyílik a gátra, ha túl erősen esne az eső.",
+                "ro": "Parcarea oferă o vedere bună spre dig în caz că plouă prea tare.",
+                "en": "The parking lot offers a good view of the dike if it rains too heavily to walk."
+              }
+            },
+            {
+              "name": "Molsbroek Exploration",
+              "tip_5lang": {
+                "de": "Nutzen Sie den befestigten Weg zum Beobachtungspunkt, um Schlamm zu vermeiden.",
+                "hu": "Használja a burkolt utat a megfigyelőponthoz, így elkerülheti a sarat.",
+                "ro": "Folosiți drumul pavat spre punctul de observație pentru a evita noroiul.",
+                "en": "Use the paved path to the observation point to avoid any mud."
+              }
+            },
+            {
+              "name": "Cluster 3: Park ter Beuken",
+              "tip_5lang": {
+                "de": "In der Nähe gibt es Parkmöglichkeiten, die einen schnellen Rückzug ins Auto erlauben.",
+                "hu": "A közelben több parkoló is van, így gyorsan visszaérhet az autóba.",
+                "ro": "Există parcări în apropiere care permit o retragere rapidă la mașină.",
+                "en": "There are parking spots nearby allowing a quick return to the car if needed."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Park-and-Ride-Plätze, wenn das Zentrum wegen Regen voll ist.",
+              "Vermeiden Sie das Parken unter Bäumen im Park ter Beuken bei Sturmwarnung.",
+              "Prüfen Sie Ihre Scheibenwischer; in Lokeren kann es plötzlich stark regnen.",
+              "Das Parkhaus am Bahnhof ist eine gute Alternative mit direktem Zugang.",
+              "Behalten Sie einen Regenschirm im Auto für die kurzen Wege zu den Sehenswürdigkeiten."
+            ],
+            "hu": [
+              "Használja a P+R parkolókat, ha a központ zsúfolt az eső miatt.",
+              "Viharos szélben kerülje a fák alatti parkolást a Park ter Beuken környékén.",
+              "Ellenőrizze az ablaktörlőket; Lokerenben hirtelen jöhet nagy zápor.",
+              "Az állomás melletti parkolóház jó alternatíva közvetlen belvárosi kapcsolattal.",
+              "Tartson esernyőt az autóban a látnivalókhoz vezető rövid sétákhoz."
+            ],
+            "ro": [
+              "Folosiți parcările P+R dacă centrul este aglomerat din cauza ploii.",
+              "Evitați parcarea sub arbori în Park ter Beuken în caz de vânt puternic.",
+              "Verificați ștergătoarele; în Lokeren pot apărea averse bruște și intense.",
+              "Parcarea supraetajată de la gară este o alternativă bună cu acces facil.",
+              "Păstrați o umbrelă în mașină pentru drumurile scurte spre obiective."
+            ],
+            "en": [
+              "Use P+R lots if the city center parking is full due to the weather.",
+              "Avoid parking under large trees in Park ter Beuken during stormy weather.",
+              "Check your wipers; sudden heavy rain is common in the Lokeren area.",
+              "The station parking garage is a great alternative with easy city access.",
+              "Keep an umbrella in the car for the short walks to each attraction."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt mit einer Fahrt durch das frostige Lokeren zum zentralen Parkplatz. Nach der Besichtigung der Laurentiuskirche bietet das Stadsmuseum wohlige Wärme. Am Nachmittag fahren wir zum Molsbroek, wo die winterliche Stille vom Auto aus oder bei einem kurzen Spaziergang erlebt werden kann. Der Abend endet mit dem Blick auf den beleuchteten Park ter Beuken, bevor wir die Heizung im Auto genießen.",
+            "hu": "A nap autózással indul a fagyos Lokerenben a központi parkolóig. A Szent Lőrinc-templom után a városi múzeum nyújt kellemes meleget. Délután a Molsbroekhez hajtunk, ahol a téli csendet az autóból vagy egy rövid séta alatt élvezhetjük. Az este a kivilágított Park ter Beuken látványával zárul, mielőtt újra élveznénk az autó fűtését.",
+            "ro": "Ziua începe cu o plimbare prin Lokerenul înghețat până la parcarea centrală. După Biserica Sf. Laurențiu, muzeul oferă o căldură primitoare. După-amiaza conducem spre Molsbroek, unde liniștea iernii poate fi trăită din mașină sau printr-o scurtă plimbare. Seara se încheie cu vederea spre Park ter Beuken iluminat.",
+            "en": "The day starts with a drive through frosty Lokeren to the central parking. After visiting St. Lawrence Church, the City Museum offers cozy warmth. In the afternoon, we drive to Molsbroek where winter stillness can be enjoyed from the car or a short walk. The evening ends with views of the lit-up Park ter Beuken."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: City Center Parking",
+              "tip_5lang": {
+                "de": "Nutzen Sie ein überdachtes Parkhaus, um das Scheibenkratzen am Abend zu vermeiden.",
+                "hu": "Használjon fedett parkolóházat, hogy elkerülje az esti jégkaparást.",
+                "ro": "Folosiți o parcare acoperită pentru a evita curățarea parbrizului seara.",
+                "en": "Use an indoor parking garage to avoid scraping ice off your windshield later."
+              }
+            },
+            {
+              "name": "Old Fish Market & St. Lawrence Church",
+              "tip_5lang": {
+                "de": "Vorsicht beim Gehen auf dem Marktplatz; das Pflaster kann glatt sein.",
+                "hu": "Vigyázzon a gyalogláskor a főtéren; a burkolat csúszós lehet.",
+                "ro": "Atenție la mersul pe jos în piața centrală; pavajul poate fi alunecos.",
+                "en": "Be careful when walking across the market square; the stones can be slick."
+              }
+            },
+            {
+              "name": "Lokeren City Museum",
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um sich zwischen den Besichtigungen im Freien aufzuwärmen.",
+                "hu": "Tökéletes hely a felmelegedésre a szabadtéri látnivalók között.",
+                "ro": "Un loc perfect pentru a vă încălzi între vizitele în aer liber.",
+                "en": "A perfect spot to warm up between outdoor sightseeing stops."
+              }
+            },
+            {
+              "name": "Cluster 2: Molsbroek Parking",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist oft geräumt, aber achten Sie auf gefrorene Pfützen.",
+                "hu": "A parkolót általában takarítják, de figyeljen a fagyott tócsákra.",
+                "ro": "Parcarea este de obicei curățată, dar atenție la bălțile înghețate.",
+                "en": "The parking lot is usually cleared, but watch out for frozen puddles."
+              }
+            },
+            {
+              "name": "Molsbroek Exploration",
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Winterluft bei einem kurzen Gang auf dem Dammweg.",
+                "hu": "Élvezze a tiszta téli levegőt egy rövid séta alatt a gátúton.",
+                "ro": "Bucurați-vă de aerul curat de iarnă printr-o scurtă plimbare pe dig.",
+                "en": "Enjoy the crisp winter air with a short walk along the dike path."
+              }
+            },
+            {
+              "name": "Cluster 3: Park ter Beuken",
+              "tip_5lang": {
+                "de": "Die Beleuchtung im Park sorgt für eine schöne Atmosphäre am späten Nachmittag.",
+                "hu": "A park világítása hangulatos légkört teremt a késő délutáni órákban.",
+                "ro": "Iluminatul din parc creează o atmosferă frumoasă la lăsarea serii.",
+                "en": "The park's lighting creates a beautiful atmosphere in the late afternoon."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind bei Frost in der Region Flandern sehr ratsam.",
+              "Achten Sie auf Nebelbildung in der Nähe der Durme bei kalten Temperaturen.",
+              "Das Parkhaus 'Station' ist beheizt und schont die Autobatterie.",
+              "Halten Sie Enteisungsspray im Handschuhfach bereit.",
+              "Planen Sie mehr Zeit für die Parkplatzsuche ein, da viele das Auto nutzen."
+            ],
+            "hu": [
+              "A téli gumi használata fagy esetén erősen ajánlott Flandriában.",
+              "Számítson ködképződésre a Durme közelében hideg időben.",
+              "Az állomási parkolóház védettebb, ami kíméli az autó akkumulátorát.",
+              "Tartson jégoldó spray-t a kesztyűtartóban a biztonság kedvéért.",
+              "Tervezzen több időt a parkolásra, mert télen többen választják az autót."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt foarte recomandate în caz de îngheț în Flandra.",
+              "Atenție la ceață în apropierea râului Durme la temperaturi scăzute.",
+              "Parcarea de la gară este mai protejată, menajând bateria mașinii.",
+              "Păstrați un spray de dezghețare în torpedoul mașinii.",
+              "Planificați mai mult timp pentru parcare, mulți alegând mașina iarna."
+            ],
+            "en": [
+              "Winter tires are highly recommended in case of frost in the Flanders region.",
+              "Watch out for fog patches near the Durme river during cold snaps.",
+              "The station parking garage is more sheltered, protecting your car battery.",
+              "Keep a de-icing spray in your glove compartment just in case.",
+              "Allow extra time for finding parking as more people use cars in winter."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1350,6 +1938,178 @@
           "Download the app of the Belgian railway company (NMBS/SNCB).",
           "Check the bus schedules in advance, especially on weekends."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Vom Bahnhof Lokeren ist der Fischmarkt schnell erreicht. Wir nutzen die Busverbindungen, um trocken zum Park ter Beuken und später zum Molsbroek zu gelangen. Das Stadsmuseum dient als kultureller Ankerpunkt im Zentrum. Die Rückreise zum Bahnhof erfolgt bequem per Bus, wobei wir die vorbeiziehende, verregnete Landschaft aus dem Fenster genießen.",
+            "hu": "A lokereni állomástól a halpiac gyorsan elérhető. Buszjáratokat veszünk igénybe, hogy szárazon jussunk a Park ter Beukenbe, majd később a Molsbroekhez. A városi múzeum kulturális bázisként szolgál a központban. A visszautat az állomásra kényelmesen, busszal tesszük meg, az ablakból figyelve az esős tájat.",
+            "ro": "De la gara Lokeren, piața de pește este la câțiva pași. Folosim liniile de autobuz pentru a ajunge uscați la Park ter Beuken și apoi la Molsbroek. Muzeul orașului servește ca ancoră culturală în centru. Revenirea la gară se face confortabil cu autobuzul, admirând peisajul ploios de la fereastră.",
+            "en": "From Lokeren station, the fish market is a quick connection. We use bus services to stay dry while traveling to Park ter Beuken and later Molsbroek. The City Museum serves as a cultural hub in the center. The return to the station is comfortable by bus, enjoying the rainy scenery through the window."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Arrival at Station & Old Fish Market",
+              "tip_5lang": {
+                "de": "Der Bahnhof bietet überdachte Bahnsteige und einen beheizten Wartesaal.",
+                "hu": "Az állomás fedett peronokkal és fűtött váróteremmel rendelkezik.",
+                "ro": "Gara are peroane acoperite și o sală de așteptare încălzită.",
+                "en": "The station features covered platforms and a heated waiting room."
+              }
+            },
+            {
+              "name": "St. Lawrence Church & City Museum",
+              "tip_5lang": {
+                "de": "Diese Ziele liegen nah beieinander, was den Aufenthalt im Freien minimiert.",
+                "hu": "Ezek a látnivalók közel vannak egymáshoz, minimalizálva a kinti tartózkodást.",
+                "ro": "Aceste obiective sunt aproape unul de altul, minimizând timpul afară.",
+                "en": "These attractions are close to each other, minimizing outdoor exposure."
+              }
+            },
+            {
+              "name": "Cluster 2: Bus to Park ter Beuken",
+              "tip_5lang": {
+                "de": "Nutzen Sie die De Lijn App, um die Busankunft in Echtzeit zu prüfen.",
+                "hu": "Használja a De Lijn alkalmazást a busz érkezésének valós idejű követéséhez.",
+                "ro": "Folosiți aplicația De Lijn pentru a verifica sosirea autobuzului în timp real.",
+                "en": "Use the De Lijn app to check bus arrivals in real-time and stay sheltered."
+              }
+            },
+            {
+              "name": "Cluster 3: Bus to Molsbroek",
+              "tip_5lang": {
+                "de": "Die Haltestelle 'Lokeren Molsbroek' liegt direkt am Eingang zum Naturschutzgebiet.",
+                "hu": "A 'Lokeren Molsbroek' megálló közvetlenül a természetvédelmi területnél van.",
+                "ro": "Stația 'Lokeren Molsbroek' este chiar la intrarea în rezervație.",
+                "en": "The 'Lokeren Molsbroek' stop is located right at the nature reserve entrance."
+              }
+            },
+            {
+              "name": "Return to the Station",
+              "tip_5lang": {
+                "de": "Die Busse verkehren regelmäßig und bringen Sie direkt zum Bahnhofsvorplatz.",
+                "hu": "A buszok rendszeresen járnak, és közvetlenül az állomás elé visznek.",
+                "ro": "Autobuzele circulă regulat și vă lasă direct în fața gării.",
+                "en": "Buses run regularly and take you directly to the station square."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie Ihr Ticket vorab digital, um Wartezeiten im Regen zu vermeiden.",
+              "Die Haltestellen im Zentrum sind meist überdacht und bieten Regenschutz.",
+              "Prüfen Sie bei starkem Regen mögliche Umleitungen in der De Lijn App.",
+              "Der Bahnhof Lokeren hat Schließfächer für schweres, nasses Gepäck.",
+              "Ein kurzer Sprint vom Bus zum Museumseingang hält Sie weitgehend trocken."
+            ],
+            "hu": [
+              "Vásárolja meg jegyét digitálisan, hogy elkerülje az esőben való várakozást.",
+              "A központi buszmegállók többnyire fedettek, védelmet nyújtanak az eső ellen.",
+              "Nagy esőzésnél ellenőrizze az esetleges járatmódosításokat az appban.",
+              "A lokereni állomáson vannak csomagmegőrzők a nehéz, vizes táskáknak.",
+              "Egy rövid vágta a busztól a múzeumig segít szárazon maradni."
+            ],
+            "ro": [
+              "Cumpărați biletul digital în avans pentru a evita cozile prin ploaie.",
+              "Stațiile de autobuz din centru sunt majoritatea acoperite, oferind adăpost.",
+              "În caz de ploi torențiale, verificați posibilele devieri în aplicația De Lijn.",
+              "Gara Lokeren dispune de dulapuri pentru bagaje grele sau ude.",
+              "Un sprint scurt de la autobuz la muzeu vă va menține în mare parte uscat."
+            ],
+            "en": [
+              "Buy your ticket digitally in advance to avoid waiting at outdoor machines.",
+              "Most central bus stops are covered and provide good shelter from rain.",
+              "Check for potential service diversions in the De Lijn app during heavy rain.",
+              "Lokeren station has luggage lockers for heavy or wet bags.",
+              "A quick dash from the bus to the museum entrance keeps you mostly dry."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Nach der Ankunft am Bahnhof Lokeren führt ein kurzer Weg zum Markt. Wir nutzen die beheizten Busse für die Fahrten zum Park ter Beuken und Molsbroek, um der Kälte zu entgehen. Das Stadsmuseum bietet den idealen Aufwärmstopp zur Mittagszeit. Mit dem Bus geht es schließlich zurück zum Bahnhof, wo wir den Tag im gemütlichen Zug Revue passieren lassen.",
+            "hu": "A lokereni állomásra érkezés után rövid séta vezet a piachoz. A fűtött buszokat használjuk a Park ter Beuken és a Molsbroek felé, hogy elkerüljük a hideget. A városi múzeum ideális melegedőhely a déli órákban. Busszal térünk vissza az állomásra, ahol a kényelmes vonaton pihenjük ki a nap fáradalmait.",
+            "ro": "După sosirea în gara Lokeren, un drum scurt duce spre piață. Folosim autobuzele încălzite pentru deplasările spre Park ter Beuken și Molsbroek. Muzeul orașului oferă refugiul ideal împotriva gerului la amiază. Revenim cu autobuzul la gară, unde ne relaxăm în trenul confortabil spre casă.",
+            "en": "After arriving at Lokeren station, a short walk leads to the market. We use heated buses for trips to Park ter Beuken and Molsbroek to escape the cold. The City Museum provides the perfect warm-up spot at midday. We return to the station by bus, reflecting on the day in the comfort of the train."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Arrival at Station & Old Fish Market",
+              "tip_5lang": {
+                "de": "Der Bahnhofsbereich ist im Winter gut beleuchtet und sicher begehbar.",
+                "hu": "Az állomás környéke télen jól kivilágított és biztonságos.",
+                "ro": "Zona gării este bine iluminată iarna și sigură pentru pietoni.",
+                "en": "The station area is well-lit and safe to navigate during winter evenings."
+              }
+            },
+            {
+              "name": "St. Lawrence Church & City Museum",
+              "tip_5lang": {
+                "de": "Genießen Sie die Heizung im Museum nach dem frostigen Marktbesuch.",
+                "hu": "Élvezze a múzeum fűtését a fagyos piaci látogatás után.",
+                "ro": "Bucurați-vă de căldura din muzeu după vizita geroasă în piață.",
+                "en": "Enjoy the heating in the museum after a frosty visit to the market."
+              }
+            },
+            {
+              "name": "Cluster 2: Bus to Park ter Beuken",
+              "tip_5lang": {
+                "de": "Warten Sie im windgeschützten Bereich der Haltestelle auf den Bus.",
+                "hu": "Várja a buszt a megálló szélvédett részén a hideg ellen.",
+                "ro": "Așteptați autobuzul în zona ferită de vânt a stației.",
+                "en": "Wait for the bus in the wind-sheltered section of the bus stop."
+              }
+            },
+            {
+              "name": "Cluster 3: Bus to Molsbroek",
+              "tip_5lang": {
+                "de": "Achten Sie auf die früheren Abfahrtszeiten am späten Nachmittag.",
+                "hu": "Ügyeljen a kora délutáni járatokra a korai sötétedés miatt.",
+                "ro": "Atenție la orele de plecare mai devreme în cursul după-amiezii.",
+                "en": "Be mindful of earlier departure times during the late afternoon."
+              }
+            },
+            {
+              "name": "Return to the Station",
+              "tip_5lang": {
+                "de": "Der Bahnhofskiosk bietet warme Getränke für die Heimreise an.",
+                "hu": "Az állomási kioszk meleg italokat kínál a hazautazáshoz.",
+                "ro": "Chioșcul din gară oferă băuturi calde pentru drumul spre casă.",
+                "en": "The station kiosk offers hot drinks for your journey home."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Tageskarte für De Lijn, um flexibel zwischen den Bussen zu wechseln.",
+              "Busse können bei Schneefall Verspätung haben; planen Sie Pufferzeit ein.",
+              "Im Bahnhof gibt es einen beheizten Warteraum, falls der Zug Verspätung hat.",
+              "Tragen Sie warme Socken, da das Warten an Haltestellen auskühlen kann.",
+              "Die letzte Busverbindung vom Molsbroek ist im Winter oft früher belegt."
+            ],
+            "hu": [
+              "Használja a De Lijn napijegyet a buszok közötti rugalmas váltáshoz.",
+              "Hóesésben a buszok késhetnek; tervezzen be némi tartalékidőt.",
+              "Az állomáson van fűtött váróterem, ha késne a vonata.",
+              "Viseljen meleg zoknit, mert a megállókban való várakozás lehűtheti a lábát.",
+              "A Molsbroektől induló utolsó buszok télen gyakran hamarabb megtelnek."
+            ],
+            "ro": [
+              "Folosiți un abonament de o zi De Lijn pentru a schimba autobuzele flexibil.",
+              "Autobuzele pot avea întârzieri în caz de ninsoare; planificați timp suplimentar.",
+              "Gara are o sală de așteptare încălzită în caz că trenul are întârziere.",
+              "Purtați șosete groase, deoarece așteptarea în stații poate fi răcoroasă.",
+              "Ultima conexiune cu autobuzul de la Molsbroek poate fi aglomerată iarna."
+            ],
+            "en": [
+              "Use a De Lijn day pass for flexible transfers between different bus lines.",
+              "Buses may experience delays during snowfall; factor in some buffer time.",
+              "The station has a heated waiting room if your train happens to be late.",
+              "Wear warm socks as standing at bus stops can lead to cold feet quickly.",
+              "The last bus connections from Molsbroek can be busier during winter months."
+            ]
+          }
+        }
       }
     }
   }

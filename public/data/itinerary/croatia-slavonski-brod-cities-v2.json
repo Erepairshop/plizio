@@ -379,6 +379,214 @@
           "Some museums might be closed on Mondays, check their opening hours in advance.",
           "Keep some cash handy for small purchases at the market."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag auf dem Ivana-Brlić-Mažuranić-Platz, wo die nassen Pflastersteine die umliegenden Fassaden widerspiegeln. Besuchen Sie das Brlić-Haus, um dem Regen zu entfliehen. Mittags bietet das Franziskanerkloster eine ruhige, trockene Zuflucht. Der Nachmittag gehört der Festung Brod; nutzen Sie die Kasematten und das Museum als Schutz. Beenden Sie den Tag mit einem kurzen, erfrischenden Spaziergang an der Save-Promenade unter dem Regenschirm.",
+            "hu": "Kezdje a napot az Ivana Brlić-Mažuranić téren, ahol az esőben csillogó kövek különleges hangulatot árasztanak. A Brlić-ház tökéletes fedezék a reggeli zápor elől. Délben a ferences kolostor nyújt csendes és száraz menedéket. Délután a bródi vár kazamatái és a múzeum kínálnak benti programot. Az estét zárja egy rövid, ernyős sétával a Száva-parti sétányon, élvezve a folyó illatát az eső után.",
+            "ro": "Începeți ziua în Piața Ivana Brlić-Mažuranić, unde reflexiile ploii pe pavaj creează un decor melancolic. Casa Brlić este refugiul ideal pentru dimineață. La prânz, vizitați Mănăstirea Franciscană pentru liniște și adăpost. După-amiaza, explorați Cetatea Brod, folosind muzeul și spațiile interioare pentru a rămâne uscat. Încheiați ziua cu o plimbare scurtă cu umbrela pe faleza râului Sava.",
+            "en": "Start your day at the Ivana Brlić-Mažuranić Square, where the rain-slicked stones reflect the historic facades. The Brlić House provides a perfect indoor escape from the morning showers. At noon, the Franciscan Monastery offers a peaceful and dry sanctuary. Spend the afternoon exploring the Brod Fortress, utilizing the museum and casemates for shelter. End the day with a brief, umbrella-clad walk along the Sava Promenade."
+          },
+          "stops": [
+            {
+              "name": "Ivana Brlić-Mažuranić Square",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den Arkaden der umliegenden Gebäude.",
+                "hu": "Használja a környező épületek árkádjait az eső elől.",
+                "ro": "Căutați adăpost sub arcadele clădirilor din jur.",
+                "en": "Seek shelter under the arcades of the surrounding buildings."
+              }
+            },
+            {
+              "name": "Brlić Family House",
+              "tip_5lang": {
+                "de": "Ideal, um die regnerische Zeit in den historischen Räumen zu verbringen.",
+                "hu": "Ideális hely a zápor átvészelésére a történelmi szobákban.",
+                "ro": "Loc ideal pentru a petrece timpul ploios în interiorul istoric.",
+                "en": "Perfect place to spend rainy time inside historical rooms."
+              }
+            },
+            {
+              "name": "Franciscan Monastery",
+              "tip_5lang": {
+                "de": "Der Kreuzgang bietet einen überdachten Blick auf den Innenhof.",
+                "hu": "A kolostor kerengője fedett rálátást nyújt a belső udvarra.",
+                "ro": "Claustrul oferă o vedere acoperită spre curtea interioară.",
+                "en": "The cloister offers a covered view of the inner courtyard."
+              }
+            },
+            {
+              "name": "Brod Fortress",
+              "tip_5lang": {
+                "de": "Die massiven Mauern bieten Schutz; Wege können schlammig sein.",
+                "hu": "A masszív falak védelmet nyújtanak, de az utak sárosak lehetnek.",
+                "ro": "Zidurile masive oferă protecție; potecile pot fi noroioase.",
+                "en": "The massive walls provide shelter, but paths can be muddy."
+              }
+            },
+            {
+              "name": "Museum of Brod-Posavina",
+              "tip_5lang": {
+                "de": "Perfekt für eine ausgiebige Besichtigung während starker Regengüsse.",
+                "hu": "Tökéletes helyszín egy hosszú látogatáshoz nagy esőzés alatt.",
+                "ro": "Locație perfectă pentru o vizită lungă în timpul ploilor torențiale.",
+                "en": "Perfect location for an extended visit during heavy downpours."
+              }
+            },
+            {
+              "name": "Church of St. Stephen",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um die Regenkleidung kurz zu ordnen.",
+                "hu": "Csendes hely a pihenésre és az esőfelszerelés igazítására.",
+                "ro": "Un loc liniștit pentru a vă odihni și a aranja pelerina de ploaie.",
+                "en": "A quiet place to rest and adjust your rain gear."
+              }
+            },
+            {
+              "name": "Sava Promenade",
+              "tip_5lang": {
+                "de": "Achtung, die Uferwege können bei Nässe rutschig sein.",
+                "hu": "Vigyázat, a folyóparti kövezet vizesen csúszós lehet.",
+                "ro": "Atenție, pavajul de pe malul râului poate fi alunecos.",
+                "en": "Careful, the riverside pavement can be slippery when wet."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da die Festungsareale Pfützen bilden.",
+              "Nutzen Sie die Cafés am Hauptplatz für Pausen bei Starkregen.",
+              "Die Museen in Slavonski Brod sind montags oft geschlossen.",
+              "Ein stabiler Regenschirm ist wegen des Windes von der Save wichtig.",
+              "In der Festung sind die meisten Ausstellungsräume überdacht."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert a vár területén tócsák alakulhatnak ki.",
+              "A főtéri kávézók jó menedéket nyújtanak a heves záporok idején.",
+              "A bródi múzeumok hétfőnként általában zárva tartanak.",
+              "A Száva felől fújó szél miatt egy erős esernyő ajánlott.",
+              "A várban a legtöbb kiállítóhelyiség fedett, így esőben is élvezhető."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, pot apărea bălți în zona cetății.",
+              "Cafenelele din piața principală sunt bune pentru pauze în timpul ploii.",
+              "Muzeele din Slavonski Brod sunt adesea închise lunea.",
+              "O umbrelă rezistentă este necesară din cauza vântului de pe Sava.",
+              "În cetate, majoritatea spațiilor de expoziție sunt acoperite."
+            ],
+            "en": [
+              "Wear waterproof shoes as puddles often form in the fortress area.",
+              "Use the cafes around the main square for breaks during heavy rain.",
+              "Museums in Slavonski Brod are typically closed on Mondays.",
+              "A sturdy umbrella is essential due to the wind coming from the Sava.",
+              "Most exhibition areas within the fortress are covered and dry."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie den winterlichen Charme des frostigen Ivana-Brlić-Mažuranić-Platzes am Morgen. Ein Besuch im Brlić-Haus wärmt Sie auf, bevor Sie das Franziskanerkloster besichtigen. Mittags wirkt die Festung Brod unter einer Reifschicht besonders imposant. Verbringen Sie den kalten Nachmittag im Museum von Brod-Posavina. Da die Sonne früh untergeht, genießen Sie die beleuchtete Save-Promenade bei einem zügigen, wärmenden Abendspaziergang.",
+            "hu": "Élje át a zúzmarás Ivana Brlić-Mažuranić tér téli báját a reggeli órákban. A Brlić-ház belső terei felmelegítik, mielőtt a ferences kolostorhoz indulna. Délben a bródi vár különösen impozáns a téli fényekben. A hideg délutánt töltse a Posavinai Múzeumban. Mivel korán sötétedik, a kivilágított Száva-parti sétányt egy tempós, melengető esti séta keretében fedezze fel.",
+            "ro": "Experimentați farmecul iernii în Piața Ivana Brlić-Mažuranić înghețată de dimineață. O vizită la Casa Brlić vă va încălzi înainte de a merge la mănăstire. La prânz, Cetatea Brod arată impresionant sub un strat de promoroacă. Petreceți după-amiaza geroasă în Muzeul Brod-Posavina. Deoarece soarele apune devreme, bucurați-vă de faleza Savei iluminată în timpul unei plimbări energice.",
+            "en": "Experience the winter charm of the frosty Ivana Brlić-Mažuranić Square in the morning. A visit to the Brlić House warms you up before heading to the monastery. At noon, the Brod Fortress looks particularly imposing under a layer of hoarfrost. Spend the cold afternoon inside the Museum of Brod-Posavina. As the sun sets early, enjoy the lit Sava Promenade during a brisk, warming evening walk."
+          },
+          "stops": [
+            {
+              "name": "Ivana Brlić-Mažuranić Square",
+              "tip_5lang": {
+                "de": "Holen Sie sich einen heißen Tee in einem der Cafés am Platz.",
+                "hu": "Vegyél egy forró teát a tér egyik kávézójában.",
+                "ro": "Luați un ceai fierbinte la una dintre cafenelele din piață.",
+                "en": "Grab a hot tea at one of the cafes around the square."
+              }
+            },
+            {
+              "name": "Brlić Family House",
+              "tip_5lang": {
+                "de": "Genießen Sie die gemütliche Atmosphäre fernab der Kälte.",
+                "hu": "Élvezze a meghitt hangulatot távol a kinti hidegtől.",
+                "ro": "Bucurați-vă de atmosfera primitoare departe de frig.",
+                "en": "Enjoy the cozy atmosphere away from the outside cold."
+              }
+            },
+            {
+              "name": "Franciscan Monastery",
+              "tip_5lang": {
+                "de": "In der Kirche ist es oft kühler als draußen; behalten Sie den Mantel an.",
+                "hu": "A templomban gyakran hidegebb van, mint kint; tartsa magán a kabátot.",
+                "ro": "În biserică este adesea mai rece decât afară; păstrați haina pe dvs.",
+                "en": "It's often colder inside the church than outside; keep your coat on."
+              }
+            },
+            {
+              "name": "Brod Fortress",
+              "tip_5lang": {
+                "de": "Vorsicht auf den unebenen Wegen bei Frost oder Schnee.",
+                "hu": "Vigyázat az egyenetlen utakon fagy vagy hó esetén.",
+                "ro": "Atenție pe potecile denivelate în caz de îngheț sau zăpadă.",
+                "en": "Watch your step on uneven paths during frost or snow."
+              }
+            },
+            {
+              "name": "Museum of Brod-Posavina",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe, um sich für den Museumsbesuch zu entledigen.",
+                "hu": "Használja a ruhatárat, hogy kényelmesen nézhesse meg a kiállítást.",
+                "ro": "Folosiți garderoba pentru a vizita muzeul confortabil.",
+                "en": "Use the cloakroom to enjoy the museum visit comfortably."
+              }
+            },
+            {
+              "name": "Church of St. Stephen",
+              "tip_5lang": {
+                "de": "Ein Ort der Stille und kurzzeitigen Wärme.",
+                "hu": "A csend és a rövid felmelegedés helyszíne.",
+                "ro": "Un loc de liniște și încălzire temporară.",
+                "en": "A place of silence and brief warming up."
+              }
+            },
+            {
+              "name": "Sava Promenade",
+              "tip_5lang": {
+                "de": "Der Wind von der Save kann im Winter sehr schneidend sein.",
+                "hu": "A Száva felől fújó szél télen nagyon metsző lehet.",
+                "ro": "Vântul de pe Sava poate fi foarte tăios în timpul iernii.",
+                "en": "The wind from the Sava can be very biting in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich in Schichten; der Wind am Fluss ist tückisch.",
+              "Die Sonne geht gegen 16:30 Uhr unter, planen Sie die Festung früher.",
+              "Manche Außenbereiche der Festung können bei Glätte gesperrt sein.",
+              "Ein Thermosbecher mit Heißgetränk ist für die Promenade ratsam.",
+              "Öffentliche Toiletten sind im Winter oft nur in Cafés zugänglich."
+            ],
+            "hu": [
+              "Öltözzön rétegesen, a folyóparti szél csalóka lehet.",
+              "A nap 16:30 körül nyugszik, a várat tervezze a délután elejére.",
+              "A vár egyes kültéri részeit jegesedés esetén lezárhatják.",
+              "A sétányhoz érdemes termoszban forró italt vinni.",
+              "A nyilvános WC-k télen gyakran csak a kávézókban érhetők el."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi; vântul de pe râu este înșelător.",
+              "Soarele apune în jur de 16:30, planificați cetatea mai devreme.",
+              "Unele zone exterioare ale cetății pot fi închise în caz de polei.",
+              "Un termos cu băutură caldă este recomandat pentru faleză.",
+              "Toaletele publice iarna sunt adesea accesibile doar în cafenele."
+            ],
+            "en": [
+              "Dress in layers; the riverside wind can be treacherous.",
+              "Sunset is around 16:30; plan your fortress visit for early afternoon.",
+              "Some outdoor sections of the fortress might be closed if icy.",
+              "A thermos with a hot drink is advisable for the promenade walk.",
+              "Public toilets in winter are often only accessible in cafes."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -775,6 +983,232 @@
           "Be mindful of pedestrians in the city center.",
           "A bike lock is essential when you're visiting sights."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert Vorsicht auf dem glatten Hauptplatz. Suchen Sie Schutz im Brlić-Haus und danach im Franziskanerkloster. Die Festung Brod bietet weite Wege, die bei Regen rutschig sein können; nutzen Sie die überdachten Bereiche. Besuchen Sie das Museum, um trocken zu bleiben. Ein kurzer Stopp bei der Lokomotive und der St. Stephans-Kirche führt Sie schließlich zur Save-Promenade, wo Sie trotz Nässe die Aussicht genießen.",
+            "hu": "Az esőben való kerékpározás óvatosságot igényel a csúszós főtéren. Keressen menedéket a Brlić-házban, majd a ferences kolostornál. A bródi vár tágas útjai sárban nehezebben járhatók, használja a fedett részeket. A múzeumlátogatás segít szárazon maradni. Egy gyors megálló a gőzmozdony monumentumnál és az István-templomnál, mielőtt a Száva-parti sétányon zárná a napot.",
+            "ro": "Ciclismul pe ploaie necesită atenție sporită în piața principală alunecoasă. Adăpostiți-vă la Casa Brlić și apoi la mănăstire. Cetatea Brod are drumuri largi care pot deveni noroioase; folosiți zonele acoperite. Vizitați muzeul pentru a rămâne uscat. O oprire scurtă la locomotivă și la biserică vă va conduce în final pe faleza Savei, unde vă veți bucura de priveliște în ciuda ploii.",
+            "en": "Cycling in the rain requires caution on the slippery main square. Seek shelter in the Brlić House and later at the Franciscan Monastery. The Brod Fortress features wide paths that can become slick; utilize the covered areas. A museum visit will keep you dry. A quick stop at the locomotive monument and St. Stephen's Church leads you to the Sava Promenade to end your wet ride."
+          },
+          "stops": [
+            {
+              "name": "Ivana Brlić-Mažuranić Square",
+              "tip_5lang": {
+                "de": "Vorsicht beim Bremsen auf den nassen Steinplatten.",
+                "hu": "Vigyázzon a fékezéssel a nedves kőlapokon.",
+                "ro": "Atenție la frânare pe dalele de piatră umede.",
+                "en": "Be careful when braking on wet stone slabs."
+              }
+            },
+            {
+              "name": "Franciscan Monastery",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter dem Dachvorsprung ab.",
+                "hu": "Parkolja le a kerékpárt az eresz alatt.",
+                "ro": "Parcați bicicleta sub streașină.",
+                "en": "Park your bike under the roof overhang."
+              }
+            },
+            {
+              "name": "Brod Fortress",
+              "tip_5lang": {
+                "de": "Meiden Sie unbefestigte Wege, um Schlamm zu vermeiden.",
+                "hu": "Kerülje a burkolatlan utakat a sár miatt.",
+                "ro": "Evitați drumurile neasfaltate pentru a evita noroiul.",
+                "en": "Avoid unpaved paths to stay out of the mud."
+              }
+            },
+            {
+              "name": "Museum of Brod-Posavina",
+              "tip_5lang": {
+                "de": "Ein guter Ort, um die Regenkleidung trocknen zu lassen.",
+                "hu": "Jó hely az esőruha megszárítására látogatás közben.",
+                "ro": "Un loc bun pentru a lăsa pelerina să se usuce.",
+                "en": "A good place to let your rain gear dry during the visit."
+              }
+            },
+            {
+              "name": "Monument to the first locomotive",
+              "tip_5lang": {
+                "de": "Kurzer Stopp; Metallteile können sehr rutschig sein.",
+                "hu": "Gyors megálló; a fém részek nagyon csúszhatnak.",
+                "ro": "Oprire scurtă; piesele metalice pot fi foarte alunecoase.",
+                "en": "Quick stop; metal parts can be very slippery."
+              }
+            },
+            {
+              "name": "Church of St. Stephen",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Kircheneingang als kurzen Unterstand.",
+                "hu": "Használja a templom bejáratát rövid esővédőként.",
+                "ro": "Folosiți intrarea bisericii ca adăpost scurt.",
+                "en": "Use the church entrance as a brief rain shelter."
+              }
+            },
+            {
+              "name": "Brlić Family House",
+              "tip_5lang": {
+                "de": "Sicherer Fahrradabstellplatz in der Nähe vorhanden.",
+                "hu": "Biztonságos kerékpártároló található a közelben.",
+                "ro": "Parcare sigură pentru biciclete disponibilă în apropiere.",
+                "en": "Safe bicycle parking available nearby."
+              }
+            },
+            {
+              "name": "Sava Promenade",
+              "tip_5lang": {
+                "de": "Halten Sie Abstand zum Uferrand bei starkem Regen.",
+                "hu": "Tartson távolságot a part szélétől erős esőben.",
+                "ro": "Păstrați distanța de marginea falezei pe ploaie torențială.",
+                "en": "Keep distance from the river edge during heavy rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Verwenden Sie Schutzbleche, um sich vor Spritzwasser zu schützen.",
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt; Nässe verlängert den Bremsweg.",
+              "Tragen Sie eine neongelbe Regenjacke für bessere Sichtbarkeit.",
+              "Die Save-Promenade ist bei Regen oft fast menschenleer.",
+              "Vermeiden Sie Pfützen in der Festung, sie könnten tief sein."
+            ],
+            "hu": [
+              "Használjon sárvédőt, hogy megvédje magát a felfröccsenő víztől.",
+              "Indulás előtt ellenőrizze a fékeket; a vizes úton nő a féktáv.",
+              "Viseljen láthatósági esődzsekit a jobb észlelhetőségért.",
+              "A Száva-parti sétány esőben gyakran teljesen néptelen.",
+              "Kerülje a tócsákat a várban, mert mélyebbek lehetnek a vártnál."
+            ],
+            "ro": [
+              "Folosiți apărători de noroi pentru a vă proteja de apă.",
+              "Verificați frânele înainte de plecare; umezeala mărește distanța de frânare.",
+              "Purtați o jachetă de ploaie reflectorizantă pentru vizibilitate.",
+              "Faleza Savei este adesea aproape pustie pe timp de ploaie.",
+              "Evitați bălțile din cetate, pot fi mai adânci decât par."
+            ],
+            "en": [
+              "Use mudguards to protect yourself from road spray.",
+              "Check your brakes before starting; wetness increases braking distance.",
+              "Wear a high-visibility rain jacket for better safety.",
+              "The Sava Promenade is often nearly empty during rainfall.",
+              "Avoid puddles in the fortress area as they might be deceptively deep."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radeln in Slavonski Brod beginnt frisch auf dem Ivana-Brlić-Mažuranić-Platz. Ein Halt beim Franziskanerkloster bietet spirituelle Ruhe. Die Festung Brod wirkt im Winterlicht weitläufig und still. Wärmen Sie sich im Museum auf, bevor Sie die historische Lokomotive besichtigen. Nach einem Besuch in der St. Stephans-Kirche und dem Brlić-Haus beenden Sie die Tour an der Save-Promenade, während die Dämmerung den Fluss in blaues Licht taucht.",
+            "hu": "A téli kerékpározás frissen indul az Ivana Brlić-Mažuranić téren. Egy megálló a ferences kolostornál lelki nyugalmat ad. A bródi vár a téli fényben tágasnak és csendesnek tűnik. Melegedjen fel a múzeumban, mielőtt megnézné a történelmi mozdonyt. Az István-templom és a Brlić-ház után a Száva-parti sétányon zárja a túrát, miközben a szürkület kékbe vonja a folyót.",
+            "ro": "Ciclismul de iarnă începe cu prospețime în Piața Ivana Brlić-Mažuranić. O oprire la mănăstire oferă liniște spirituală. Cetatea Brod pare vastă și tăcută în lumina iernii. Încălziți-vă la muzeu înainte de a vedea locomotiva istorică. După o vizită la Biserica Sf. Ștefan și Casa Brlić, încheiați turul pe faleza Savei, în timp ce amurgul scaldă râul în lumină albastră.",
+            "en": "Winter cycling starts fresh at the Ivana Brlić-Mažuranić Square. A stop at the monastery provides spiritual calm. The Brod Fortress appears vast and silent in the winter light. Warm up at the museum before seeing the historic locomotive. After visiting St. Stephen's Church and the Brlić House, conclude your tour at the Sava Promenade as twilight bathes the river in blue."
+          },
+          "stops": [
+            {
+              "name": "Ivana Brlić-Mažuranić Square",
+              "tip_5lang": {
+                "de": "Tragen Sie warme Handschuhe für die Fahrt über den Platz.",
+                "hu": "Viseljen meleg kesztyűt a téren való áttekeréshez.",
+                "ro": "Purtați mănuși groase pentru plimbarea prin piață.",
+                "en": "Wear warm gloves for the ride across the square."
+              }
+            },
+            {
+              "name": "Franciscan Monastery",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort für eine kurze Pause vom Fahrtwind.",
+                "hu": "Csendes hely egy rövid pihenőre a menetszél után.",
+                "ro": "Un loc liniștit pentru o pauză scurtă de la vânt.",
+                "en": "A quiet place for a brief break from the riding wind."
+              }
+            },
+            {
+              "name": "Brod Fortress",
+              "tip_5lang": {
+                "de": "Achtung bei Reifglätte auf den Pflasterwegen.",
+                "hu": "Vigyázat a zúzmarás, csúszós kövezeten.",
+                "ro": "Atenție la polei pe drumurile pavate.",
+                "en": "Watch out for frost on the paved paths."
+              }
+            },
+            {
+              "name": "Museum of Brod-Posavina",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Heizung im Gebäude zur Regeneration.",
+                "hu": "Használja ki az épület fűtését a regenerálódáshoz.",
+                "ro": "Profitați de încălzirea din clădire pentru a vă revigora.",
+                "en": "Take advantage of the building's heating to recover."
+              }
+            },
+            {
+              "name": "Monument to the first locomotive",
+              "tip_5lang": {
+                "de": "Das Metall kann bei Frost extrem kalt und rutschig sein.",
+                "hu": "A fém fagyban rendkívül hideg és csúszós lehet.",
+                "ro": "Metalul poate fi extrem de rece și alunecos pe ger.",
+                "en": "The metal can be extremely cold and slippery during frost."
+              }
+            },
+            {
+              "name": "Church of St. Stephen",
+              "tip_5lang": {
+                "de": "Kurzer Halt zur Besinnung in der kühlen Stille.",
+                "hu": "Rövid megálló az elcsendesedésre a hűvös csendben.",
+                "ro": "Oprire scurtă pentru meditație în liniștea răcoroasă.",
+                "en": "Brief stop for reflection in the cool silence."
+              }
+            },
+            {
+              "name": "Brlić Family House",
+              "tip_5lang": {
+                "de": "Besuch der Innenräume ist im Winter sehr empfehlenswert.",
+                "hu": "A belső terek látogatása télen kifejezetten ajánlott.",
+                "ro": "Vizitarea interioarelor este foarte recomandată iarna.",
+                "en": "Visiting the interiors is highly recommended in winter."
+              }
+            },
+            {
+              "name": "Sava Promenade",
+              "tip_5lang": {
+                "de": "Warme Kleidung ist wegen des eisigen Flusswindes Pflicht.",
+                "hu": "Meleg ruházat kötelező a jeges folyóparti szél miatt.",
+                "ro": "Îmbrăcămintea groasă este obligatorie din cauza vântului rece.",
+                "en": "Warm clothing is mandatory due to the icy river wind."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Ihre Fahrradbeleuchtung einwandfrei funktioniert.",
+              "Der Windchill-Effekt auf dem Rad ist im Winter erheblich.",
+              "Vermeiden Sie hektische Lenkbewegungen bei möglichem Eis.",
+              "Planen Sie die Rückkehr vor Einbruch der frühen Dunkelheit (17 Uhr).",
+              "Ein heißer Kaffee nach der Tour hilft gegen die Kälte."
+            ],
+            "hu": [
+              "Győződjön meg róla, hogy a kerékpáros világítás tökéletesen működik.",
+              "A menetszél miatti hőérzet csökkenése télen jelentős.",
+              "Kerülje a hirtelen kormánymozdulatokat esetleges jegesedésnél.",
+              "Tervezze a visszaérkezést a korai sötétedés (17 óra) előtt.",
+              "A túra utáni forró kávé sokat segít a felfázás ellen."
+            ],
+            "ro": [
+              "Asigurați-vă că luminile bicicletei funcționează perfect.",
+              "Efectul de răcire al vântului pe bicicletă este considerabil iarna.",
+              "Evitați mișcările bruște de ghidon în caz de polei.",
+              "Planificați întoarcerea înainte de lăsarea întunericului (ora 17).",
+              "O cafea fierbinte după tur vă va ajuta să vă încălziți."
+            ],
+            "en": [
+              "Ensure your bicycle lights are working perfectly for the early dusk.",
+              "The wind-chill effect on a bike is significant during winter.",
+              "Avoid sudden steering movements if ice is suspected.",
+              "Plan to finish your ride before early darkness sets in around 5 PM.",
+              "A hot coffee after the tour is great for warming up."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1131,6 +1565,196 @@
           "Allow enough time for traffic between clusters, especially in the afternoon.",
           "A GPS is helpful for finding the parking spots near the clusters."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden Sie Slavonski Brod bequem trotz Regen. Parken Sie nahe dem Hauptplatz für das Zentrum-Cluster. Das Franziskanerkloster ist nur einen kurzen Sprung entfernt. Das Festungs-Cluster bietet mit dem Museum perfekten Schutz vor den Güssen. Besuchen Sie das Waterfront-Cluster am Nachmittag; die Kirche St. Stephan und die Save-Promenade sind vom Parkplatz aus schnell erreichbar, sodass Sie trocken bleiben.",
+            "hu": "Autóval kényelmesen felfedezheti Bródot az eső ellenére is. Parkoljon a főtér közelében a központi látnivalókhoz. A ferences kolostor csak egy rövid ugrásra van. A vár-klaszterben a múzeum tökéletes menedéket nyújt a záporok elől. Délután látogasson el a folyóparti részhez; az István-templom és a Száva-sétány a parkolóból gyorsan elérhető, így száraz maradhat.",
+            "ro": "Cu mașina puteți explora Slavonski Brod confortabil, în ciuda ploii. Parcați lângă piața principală pentru grupul de obiective centrale. Mănăstirea Franciscană este la doar un pas. În grupul cetății, muzeul oferă adăpost perfect. Vizitați zona falezei după-amiaza; Biserica Sf. Ștefan și faleza Savei sunt rapid accesibile din parcare, rămânând astfel uscat.",
+            "en": "By car, you can comfortably explore Slavonski Brod despite the rain. Park near the main square for the center cluster. The Franciscan Monastery is just a short hop away. In the fortress cluster, the museum provides perfect shelter from the downpours. Visit the waterfront cluster in the afternoon; St. Stephen's Church and the promenade are quickly reachable from the parking lot."
+          },
+          "stops": [
+            {
+              "name": "Center Cluster: Ivana Brlić-Mažuranić Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkplätze in den Seitenstraßen beim Platz.",
+                "hu": "Használja a tér környéki mellékutcák parkolóit.",
+                "ro": "Folosiți parcările de pe străzile adiacente pieței.",
+                "en": "Use the parking lots in the side streets near the square."
+              }
+            },
+            {
+              "name": "Center Cluster: Franciscan Monastery",
+              "tip_5lang": {
+                "de": "Kurze Fahrzeit zwischen den Clustern minimiert Regenzeit.",
+                "hu": "A klaszterek közti rövid út minimalizálja az esőben töltött időt.",
+                "ro": "Timpul scurt de condus între puncte reduce expunerea la ploaie.",
+                "en": "Short driving time between clusters minimizes time in the rain."
+              }
+            },
+            {
+              "name": "Fortress Cluster: Brod Fortress",
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Eingang der Festung.",
+                "hu": "Parkoljon közvetlenül a vár bejáratánál.",
+                "ro": "Parcați direct la intrarea în cetate.",
+                "en": "Park directly at the entrance of the fortress."
+              }
+            },
+            {
+              "name": "Fortress Cluster: Museum of Brod-Posavina",
+              "tip_5lang": {
+                "de": "Im Museum können Sie schwere Regenphasen aussitzen.",
+                "hu": "A múzeumban átvárhatja a hevesebb esőket.",
+                "ro": "În muzeu puteți aștepta să treacă ploaia torențială.",
+                "en": "You can wait out heavy rain inside the museum."
+              }
+            },
+            {
+              "name": "Waterfront Cluster: Church of St. Stephen",
+              "tip_5lang": {
+                "de": "Kostenlose Parkmöglichkeiten oft in der Nähe der Kirche.",
+                "hu": "Ingyenes parkolási lehetőség gyakran van a templom közelében.",
+                "ro": "Parcare gratuită adesea disponibilă lângă biserică.",
+                "en": "Free parking is often available near the church."
+              }
+            },
+            {
+              "name": "Waterfront Cluster: Sava Promenade",
+              "tip_5lang": {
+                "de": "Ein Regenschirm im Auto ist für den Weg zum Ufer ratsam.",
+                "hu": "Érdemes esernyőt tartani az autóban a parthoz vezető útra.",
+                "ro": "Este recomandat să aveți o umbrelă în mașină pentru faleză.",
+                "en": "Keeping an umbrella in the car is advised for the walk to the bank."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf den Hauptstraßen der Stadt.",
+              "Die Parkgebühren können per SMS bezahlt werden.",
+              "In der Nähe der Festung gibt es große, befestigte Parkplätze.",
+              "Nutzen Sie die Sitzheizung, um nach Außenbesichtigungen aufzuwärmen.",
+              "Bei starkem Regen ist die Sicht auf die Save eingeschränkt."
+            ],
+            "hu": [
+              "Vigyázzon a vízenfutásra (aquaplaning) a város főútjain.",
+              "A parkolási díjat SMS-ben is kifizetheti.",
+              "A vár közelében nagy, aszfaltozott parkolók találhatók.",
+              "Használja az ülésfűtést a külső helyszínek utáni felmelegedéshez.",
+              "Heves esőben a kilátás a Szávára korlátozott lehet."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe străzile principale ale orașului.",
+              "Taxele de parcare pot fi plătite prin SMS.",
+              "Lângă cetate există parcări mari, amenajate.",
+              "Folosiți încălzirea în scaune pentru a vă încălzi după vizite.",
+              "Pe ploaie torențială, vizibilitatea spre râul Sava este redusă."
+            ],
+            "en": [
+              "Watch out for aquaplaning on the city's main roads.",
+              "Parking fees can be paid conveniently via SMS.",
+              "Large, paved parking lots are available near the fortress.",
+              "Use seat heating to warm up after outdoor sightseeing.",
+              "Visibility across the Sava may be limited during heavy rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Autotour durch Slavonski Brod hält Sie warm. Starten Sie beim Zentrum-Cluster mit dem Hauptplatz und dem Franziskanerkloster. Die Fahrt zur Festung Brod bietet einen tollen Blick auf die winterliche Anlage. Das Museum von Brod-Posavina ist ideal für den kalten Mittag. Beenden Sie den Tag beim Waterfront-Cluster; die beleuchtete St. Stephans-Kirche und die Save-Promenade sind vom warmen Auto aus schnell erreicht.",
+            "hu": "A téli autós túra Bródban segít melegen maradni. Kezdje a központi klaszternél a főtérrel és a ferences kolostorral. Az út a bródi várhoz szép rálátást biztosít a téli tájra. A Posavinai Múzeum ideális a hideg délidőben. A napot a folyóparti részen zárja; a kivilágított István-templom és a Száva-sétány a meleg autóból gyorsan elérhető.",
+            "ro": "Un tur auto de iarnă prin Slavonski Brod vă menține la căldură. Începeți cu grupul central, piața și mănăstirea. Drumul spre Cetatea Brod oferă o vedere frumoasă asupra complexului iarna. Muzeul Brod-Posavina este ideal pentru prânzul rece. Încheiați ziua la grupul de pe malul apei; Biserica Sf. Ștefan iluminată și faleza sunt rapid accesibile din mașina caldă.",
+            "en": "A winter car tour through Slavonski Brod keeps you cozy and warm. Start at the center cluster with the main square and the monastery. The drive to the Brod Fortress offers a great view of the winter grounds. The Museum of Brod-Posavina is ideal for the cold midday. End your day at the waterfront cluster; the lit St. Stephen's Church and the promenade are quickly reached from your warm car."
+          },
+          "stops": [
+            {
+              "name": "Center Cluster: Ivana Brlić-Mažuranić Square",
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Parken auf vereisten Randstreifen.",
+                "hu": "Kerülje a parkolást a jeges útpadkákon.",
+                "ro": "Evitați parcarea pe marginile înghețate ale drumului.",
+                "en": "Avoid parking on icy road shoulders."
+              }
+            },
+            {
+              "name": "Center Cluster: Franciscan Monastery",
+              "tip_5lang": {
+                "de": "Das Auto bietet schnellen Wechsel zwischen den Sehenswürdigkeiten.",
+                "hu": "Az autó gyors váltást tesz lehetővé a látnivalók között.",
+                "ro": "Mașina permite trecerea rapidă între obiective.",
+                "en": "The car allows for quick transitions between sights."
+              }
+            },
+            {
+              "name": "Fortress Cluster: Brod Fortress",
+              "tip_5lang": {
+                "de": "Prüfen Sie, ob der Parkplatz bei Schnee geräumt ist.",
+                "hu": "Ellenőrizze, hogy a parkolót letakarították-e hó esetén.",
+                "ro": "Verificați dacă parcarea este deszăpezită.",
+                "en": "Check if the parking lot is cleared in case of snow."
+              }
+            },
+            {
+              "name": "Fortress Cluster: Museum of Brod-Posavina",
+              "tip_5lang": {
+                "de": "Museumsbesuch ist die beste Flucht vor der Winterkälte.",
+                "hu": "A múzeumlátogatás a legjobb menekülés a téli hideg elől.",
+                "ro": "Vizita la muzeu este cea mai bună scăpare de ger.",
+                "en": "The museum visit is the best escape from the winter cold."
+              }
+            },
+            {
+              "name": "Waterfront Cluster: Church of St. Stephen",
+              "tip_5lang": {
+                "de": "Die Abendbeleuchtung ist im Winter besonders stimmungsvoll.",
+                "hu": "Az esti kivilágítás télen különösen hangulatos.",
+                "ro": "Iluminatul de seară este deosebit de sugestiv iarna.",
+                "en": "Evening lighting is particularly atmospheric in winter."
+              }
+            },
+            {
+              "name": "Waterfront Cluster: Sava Promenade",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Save kurz, bevor es zu kalt wird.",
+                "hu": "Élvezze a kilátást a Szávára, mielőtt túl hideg lenne.",
+                "ro": "Bucurați-vă scurt de vederea spre Sava înainte de a îngheța.",
+                "en": "Enjoy the view of the Sava briefly before it gets too cold."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Führen Sie einen Eiskratzer und Frostschutzmittel mit.",
+              "Die Parkflächen in der Innenstadt werden bei Schnee geräumt.",
+              "Planen Sie mehr Zeit für die Parkplatzsuche bei Glätte ein.",
+              "Nutzen Sie die Standheizung, falls vorhanden, für Pausen.",
+              "Die Straßenbeleuchtung in der Festung ist im Winter sehr hell."
+            ],
+            "hu": [
+              "Legyen az autóban jégkaparó és jégoldó folyadék.",
+              "A belvárosi parkolókat hó esetén takarítják.",
+              "Számoljon több idővel a parkolóhely keresésére csúszós utakon.",
+              "Használja az állófűtést, ha van, a pihenők alatt.",
+              "A vár közvilágítása télen nagyon erős és biztonságos."
+            ],
+            "ro": [
+              "Aveți în mașină o răzuitoare de gheață și lichid de parbriz.",
+              "Parcările din centrul orașului sunt curățate de zăpadă.",
+              "Alocați mai mult timp pentru găsirea locului de parcare pe polei.",
+              "Folosiți încălzirea staționară, dacă există, în timpul pauzelor.",
+              "Iluminatul stradal din cetate este foarte bun pe timp de iarnă."
+            ],
+            "en": [
+              "Keep an ice scraper and de-icer fluid in your car.",
+              "Downtown parking areas are cleared of snow by municipal services.",
+              "Allow extra time for finding a parking spot if roads are icy.",
+              "Use stationary heating if available during sightseeing breaks.",
+              "The street lighting in the fortress is very bright in winter."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1487,6 +2111,196 @@
           "Be ready at the stops as buses tend to be on time.",
           "Most drivers are helpful if you ask about the right stop to get off."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die öffentlichen Verkehrsmittel bringen Sie trocken durch Slavonski Brod. Starten Sie im Zentrum beim Hauptplatz und dem Brlić-Haus. Der Bus zur Festungs-Zone minimiert den Weg im Freien. Besuchen Sie das Museum von Brod-Posavina, um dem Regen zu entkommen. Am Nachmittag bringt Sie der Transit zur Waterfront-Zone; der Aufenthalt am Franziskanerkloster bietet Schutz, bevor Sie die Save-Promenade kurz besuchen.",
+            "hu": "A tömegközlekedés segít szárazon maradni Bród felfedezése közben. Kezdjen a központi zónában a főtérnél és a Brlić-háznál. A vár-zónába tartó busz csökkenti a szabadban töltött időt. Látogasson el a Posavinai Múzeumba az eső elől. Délután a járatok a folyóparti zónába viszik; a ferences kolostor menedéket ad, mielőtt egy rövid pillantást vetne a Száva-parti sétányra.",
+            "ro": "Transportul public vă ajută să rămâneți uscat în timp ce explorați orașul. Începeți în zona centrală, la piață și Casa Brlić. Autobuzul spre zona cetății reduce timpul petrecut afară. Vizitați Muzeul Brod-Posavina pentru a scăpa de ploaie. După-amiaza, transportul vă duce spre zona falezei; mănăstirea oferă adăpost înainte de a vizita scurt faleza Savei.",
+            "en": "Public transit helps you stay dry while exploring Slavonski Brod. Start in the center zone at the main square and Brlić House. The bus to the fortress zone minimizes your time spent outdoors. Visit the Museum of Brod-Posavina to escape the rain. In the afternoon, transit takes you to the waterfront zone; the monastery provides shelter before a brief visit to the promenade."
+          },
+          "stops": [
+            {
+              "name": "Center Zone: Ivana Brlić-Mažuranić Square",
+              "tip_5lang": {
+                "de": "Warten Sie in den überdachten Bushaltestellen beim Platz.",
+                "hu": "Várjon a tér közeli fedett buszmegállókban.",
+                "ro": "Așteptați în stațiile de autobuz acoperite de lângă piață.",
+                "en": "Wait inside the covered bus stops near the square."
+              }
+            },
+            {
+              "name": "Center Zone: Brlić Family House",
+              "tip_5lang": {
+                "de": "Kurze Fußwege von der Haltestelle zum Haus einplanen.",
+                "hu": "Tervezzen rövid gyalogutat a megállótól a házig.",
+                "ro": "Planificați un drum scurt pe jos de la stație la casă.",
+                "en": "Plan for a short walk from the stop to the house."
+              }
+            },
+            {
+              "name": "Fortress Zone: Brod Fortress",
+              "tip_5lang": {
+                "de": "Nutzen Sie Busverbindungen, die direkt zur Festung führen.",
+                "hu": "Használja a közvetlenül a várhoz közlekedő buszjáratokat.",
+                "ro": "Folosiți liniile de autobuz care merg direct la cetate.",
+                "en": "Use bus lines that lead directly to the fortress entrance."
+              }
+            },
+            {
+              "name": "Fortress Zone: Museum of Brod-Posavina",
+              "tip_5lang": {
+                "de": "Das Museum ist ein idealer Stopp zwischen zwei Busabfahrten.",
+                "hu": "A múzeum ideális megálló két buszjárat között.",
+                "ro": "Muzeul este o oprire ideală între două plecări de autobuz.",
+                "en": "The museum is an ideal stop between two bus departures."
+              }
+            },
+            {
+              "name": "Waterfront Zone: Sava Promenade",
+              "tip_5lang": {
+                "de": "Überprüfen Sie die Fahrpläne für die Rückfahrt im Regen.",
+                "hu": "Ellenőrizze a menetrendet a visszautazáshoz az esőben.",
+                "ro": "Verificați orarul pentru drumul de întoarcere pe ploaie.",
+                "en": "Check the schedules for your return trip during the rain."
+              }
+            },
+            {
+              "name": "Waterfront Zone: Franciscan Monastery",
+              "tip_5lang": {
+                "de": "Das Kloster bietet einen trockenen Ort bis zur nächsten Verbindung.",
+                "hu": "A kolostor száraz helyet biztosít a következő járatig.",
+                "ro": "Mănăstirea oferă un loc uscat până la următoarea legătură.",
+                "en": "The monastery provides a dry spot until the next connection."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie Fahrkarten vorab am Kiosk, um Nässe beim Einstieg zu vermeiden.",
+              "Die Busse in Slavonski Brod sind gut beheizt und trocken.",
+              "Halten Sie Ihre App für Echtzeit-Fahrpläne bereit.",
+              "Einige Haltestellen haben nur begrenzten Regenschutz.",
+              "Transit ist die beste Wahl bei starkem Gewitter."
+            ],
+            "hu": [
+              "Vásároljon jegyet előre újságosnál, hogy elkerülje az ázást felszálláskor.",
+              "A bródi buszok jól fűtöttek és szárazak.",
+              "Használja a menetrendi applikációt a valós idejű adatokhoz.",
+              "Néhány megálló csak korlátozott védelmet nyújt az eső ellen.",
+              "A tömegközlekedés a legjobb választás heves vihar esetén."
+            ],
+            "ro": [
+              "Cumpărați bilete în avans de la chioșcuri pentru a evita ploaia.",
+              "Autobuzele din Slavonski Brod sunt bine încălzite și uscate.",
+              "Folosiți aplicația de transport pentru date în timp real.",
+              "Unele stații oferă protecție limitată împotriva ploii.",
+              "Transportul public este cea mai bună alegere în caz de furtună."
+            ],
+            "en": [
+              "Buy tickets in advance at kiosks to avoid delays in the rain.",
+              "Buses in Slavonski Brod are well-heated and dry inside.",
+              "Keep your transit app ready for real-time schedule updates.",
+              "Some bus stops have limited shelter from heavy rainfall.",
+              "Public transit is the best option during heavy thunderstorms."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Mit dem Transit entdecken Sie Slavonski Brod im Winter warm und sicher. Starten Sie in der Zentrum-Zone am Ivana-Brlić-Mažuranić-Platz. Der Bus zur Festungs-Zone spart Ihnen den kalten Fußweg. Das Museum von Brod-Posavina bietet einen gemütlichen Aufenthalt am Mittag. Der Nachmittag in der Waterfront-Zone führt Sie zum Franziskanerkloster. Da es früh dunkel wird, nutzen Sie den Transit für die schnelle Rückkehr nach dem Besuch der Save-Promenade.",
+            "hu": "A tömegközlekedéssel télen is melegen és biztonságosan fedezheti fel Bródot. Kezdjen a központi zónában az Ivana Brlić-Mažuranić téren. A vár-zónába tartó busz megkíméli a hideg gyaloglástól. A Posavinai Múzeum kényelmes pihenőt nyújt délidőben. A folyóparti zónában töltött délután során látogasson el a ferences kolostorba. Mivel korán sötétedik, a sétány után használja a járatokat a gyors hazajutáshoz.",
+            "ro": "Cu transportul public descoperiți Slavonski Brod iarna în siguranță și confort. Începeți în zona centrală, în Piața Ivana Brlić-Mažuranić. Autobuzul spre zona cetății vă scutește de mersul pe jos prin frig. Muzeul Brod-Posavina oferă un popas plăcut la prânz. După-amiaza în zona falezei vă duce la mănăstire. Deoarece se întunecă devreme, folosiți transportul pentru întoarcerea rapidă după vizitarea falezei.",
+            "en": "With transit, you can discover Slavonski Brod in winter warmly and safely. Start in the center zone at the Ivana Brlić-Mažuranić Square. The bus to the fortress zone saves you from a cold walk. The Museum of Brod-Posavina offers a cozy stay at midday. Afternoon in the waterfront zone leads you to the monastery. As it gets dark early, use transit for a quick return after visiting the promenade."
+          },
+          "stops": [
+            {
+              "name": "Center Zone: Ivana Brlić-Mažuranić Square",
+              "tip_5lang": {
+                "de": "Holen Sie sich ein Heißgetränk für die Wartezeit an der Haltestelle.",
+                "hu": "Vegyél egy forró italt a várakozáshoz a megállóban.",
+                "ro": "Luați o băutură caldă pentru timpul de așteptare în stație.",
+                "en": "Get a hot drink to keep warm while waiting at the stop."
+              }
+            },
+            {
+              "name": "Center Zone: Brlić Family House",
+              "tip_5lang": {
+                "de": "Die Haltestellen sind im Winter gut beleuchtet.",
+                "hu": "A megállók télen jól ki vannak világítva.",
+                "ro": "Stațiile sunt bine iluminate pe timp de iarnă.",
+                "en": "Bus stops are well-lit during the winter months."
+              }
+            },
+            {
+              "name": "Fortress Zone: Brod Fortress",
+              "tip_5lang": {
+                "de": "Busse fahren regelmäßig und ersparen weite Wege im Frost.",
+                "hu": "A buszok rendszeresen járnak, megkímélve a fagyos gyaloglástól.",
+                "ro": "Autobuzele circulă regulat, evitând drumurile lungi prin ger.",
+                "en": "Buses run regularly, saving you from long walks in the frost."
+              }
+            },
+            {
+              "name": "Fortress Zone: Museum of Brod-Posavina",
+              "tip_5lang": {
+                "de": "Idealer Ort, um die Zeit bis zum nächsten Bus im Warmen zu verbringen.",
+                "hu": "Ideális hely a következő buszig való várakozásra a melegben.",
+                "ro": "Loc ideal pentru a aștepta următorul autobuz la căldură.",
+                "en": "Ideal place to spend time in the warm until the next bus."
+              }
+            },
+            {
+              "name": "Waterfront Zone: Sava Promenade",
+              "tip_5lang": {
+                "de": "Beachten Sie mögliche Fahrplanänderungen an Feiertagen.",
+                "hu": "Ügyeljen az esetleges menetrendi változásokra az ünnepek alatt.",
+                "ro": "Atenție la posibilele modificări de orar în timpul sărbătorilor.",
+                "en": "Watch out for potential schedule changes during holidays."
+              }
+            },
+            {
+              "name": "Waterfront Zone: Franciscan Monastery",
+              "tip_5lang": {
+                "de": "Ein geschützter Ort vor dem kalten Wind an der Save.",
+                "hu": "Védett hely a Száva felől fújó hideg szél elől.",
+                "ro": "Un loc protejat de vântul rece de pe malul Savei.",
+                "en": "A sheltered spot from the cold wind on the Sava banks."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Busse sind im Winter meist sehr pünktlich.",
+              "Warten Sie lieber in nahegelegenen Cafés als an offenen Haltestellen.",
+              "Achten Sie auf rutschige Stufen beim Ein- und Aussteigen.",
+              "Die letzte Rückfahrt sollte vor 18 Uhr geplant werden.",
+              "Fahrkarten können oft auch beim Fahrer gekauft werden."
+            ],
+            "hu": [
+              "A buszok télen általában nagyon pontosak.",
+              "Érdemesebb közeli kávézókban várni, mint a nyitott megállókban.",
+              "Ügyeljen a csúszós lépcsőkre a le- és felszálláskor.",
+              "Az utolsó visszautat érdemes 18 óra előttre tervezni.",
+              "A jegyek gyakran a sofőrnél is megvásárolhatók."
+            ],
+            "ro": [
+              "Autobuzele sunt de obicei foarte punctuale iarna.",
+              "Este mai bine să așteptați în cafenele decât în stații deschise.",
+              "Atenție la treptele alunecoase la urcare și coborâre.",
+              "Planificați ultima cursă de întoarcere înainte de ora 18.",
+              "Biletele pot fi adesea cumpărate și de la șofer."
+            ],
+            "en": [
+              "Buses are usually very punctual during the winter season.",
+              "It's better to wait in nearby cafes than at open bus stops.",
+              "Be careful of slippery steps when boarding or exiting.",
+              "Plan your final return trip for before 6 PM.",
+              "Tickets can often be purchased directly from the driver."
+            ]
+          }
+        }
       }
     }
   }

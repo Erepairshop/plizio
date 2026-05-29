@@ -380,6 +380,206 @@
           "Keep a camera ready for the diverse architecture.",
           "Plan extra time for the Silesian Museum; it's larger than it appears."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag in Troppau beginnt am Oberring, wobei die Arkaden des Rathauses Schutz bieten. Mittags wärmt die Konkathedrale mit ihrer beeindruckenden Backsteingotik. Nachmittags verbringen wir viel Zeit im Schlesischen Landesmuseum, dem ältesten Museum Tschechiens, um dem Regen zu entfliehen. Der Abend klingt gemütlich bei einem warmen Essen in der Innenstadt aus.",
+            "hu": "Az esős Opava a Felső téren fogad minket, ahol a Városháza árkádjai alatt keresünk menedéket. Délben a monumentális társszékesegyház belső tere nyújt száraz pihenőt. A délutánt a Sziléziai Tartományi Múzeum gazdag tárlatai között töltjük, ami tökéletes program rossz időben. Este egy belvárosi étterem melegében pihenünk meg, miközben kint kopog az eső.",
+            "ro": "O zi ploioasă în Opava începe în Piața Superioară, folosind arcadele primăriei pentru adăpost. La prânz, interiorul impunător al Catedralei oferă un refugiu uscat și liniștit. După-amiaza este dedicată Muzeului Regional Silezian, unde colecțiile vaste ne fac să uităm de vremea de afară. Seara se încheie confortabil într-un restaurant local, savurând atmosfera orașului.",
+            "en": "A rainy day in Opava starts at the Upper Square, where the Town Hall's arcades provide early shelter. At noon, the massive Co-Cathedral offers a dry sanctuary. The afternoon is best spent inside the Silesian Regional Museum, the country's oldest museum. We conclude the day in a cozy city center restaurant, enjoying the local hospitality despite the damp weather outside."
+          },
+          "stops": [
+            {
+              "name": "Upper Square (Horní náměstí)",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden des Rathauses Hláska, um trocken zu bleiben.",
+                "hu": "Használja a Hláska városháza árkádjait, hogy szárazon maradjon a téren.",
+                "ro": "Folosiți arcadele primăriei Hláska pentru a rămâne uscat în piață.",
+                "en": "Use the arcades of the Hláska Town Hall to stay dry while viewing the square."
+              }
+            },
+            {
+              "name": "Hláska (Town Hall Tower)",
+              "tip_5lang": {
+                "de": "Der Aufstieg ist bei Regen rutschig; prüfen Sie die Sichtverhältnisse am Schalter.",
+                "hu": "A lépcsők csúszósak lehetnek esőben; ellenőrizze a látási viszonyokat a pénztárnál.",
+                "ro": "Urcarea poate fi alunecoasă pe ploaie; verificați vizibilitatea la ghișeu.",
+                "en": "The climb can be slippery in the rain; check visibility at the counter before going up."
+              }
+            },
+            {
+              "name": "Co-Cathedral of the Assumption of the Virgin Mary",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um den heftigsten Regen in Ruhe abzuwarten.",
+                "hu": "Ideális helyszín, hogy nyugalomban várja meg a hevesebb eső végét.",
+                "ro": "Un loc ideal pentru a aștepta trecerea ploii torențiale în liniște.",
+                "en": "An ideal place to wait out the heaviest rain in peace and quiet."
+              }
+            },
+            {
+              "name": "Silesian Theatre Opava",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Fassade kurz und suchen Sie dann ein nahegelegenes Café auf.",
+                "hu": "Csodálja meg gyorsan a homlokzatot, majd keressen egy közeli kávézót.",
+                "ro": "Admirați rapid fațada, apoi căutați o cafenea în apropiere.",
+                "en": "Admire the facade briefly, then head to a nearby cafe for shelter."
+              }
+            },
+            {
+              "name": "Lunch in the City Center",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit Garderobe für Ihre nassen Regenschirme.",
+                "hu": "Válasszon olyan éttermet, ahol van hely a vizes esernyőknek.",
+                "ro": "Alegeți un restaurant cu spațiu pentru umbrelele ude.",
+                "en": "Choose a restaurant with a cloakroom or space for wet umbrellas."
+              }
+            },
+            {
+              "name": "Silesian Regional Museum",
+              "tip_5lang": {
+                "de": "Perfektes Schlechtwetterprogramm; planen Sie hier die maximale Aufenthaltszeit ein.",
+                "hu": "Tökéletes rosszidős program; tervezze ide a maximális tartózkodási időt.",
+                "ro": "Program perfect pentru vreme rea; planificați aici timpul maxim de vizită.",
+                "en": "Perfect rainy day activity; plan your maximum stay time here to stay dry."
+              }
+            },
+            {
+              "name": "Chapel of the Holy Cross",
+              "tip_5lang": {
+                "de": "Der kurze Fußweg dorthin erfordert festes, wasserdichtes Schuhwerk.",
+                "hu": "A rövid séta ide vízálló lábbelit igényel a vizes járdák miatt.",
+                "ro": "Scurta plimbare până aici necesită încălțăminte impermeabilă.",
+                "en": "The short walk here requires waterproof footwear due to wet pavements."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine wasserfeste Jacke, da der Wind auf den Plätzen Regenschirme umknicken kann.",
+              "Die Arkaden am Oberring sind die besten natürlichen Unterstände der Stadt.",
+              "Nutzen Sie die langen Besuchszeiten im Museum, um die Regenfronten auszusitzen.",
+              "Viele Cafés in der Nähe des Theaters bieten gemütliche Rückzugsorte."
+            ],
+            "hu": [
+              "Viseljen vízálló kabátot, mert a tereken a szél könnyen kifordíthatja az esernyőt.",
+              "A Felső tér árkádjai a város legjobb természetes menedékhelyei.",
+              "Használja ki a múzeum hosszú nyitvatartását a nagyobb záporok idején.",
+              "A színház környéki kávézók remek helyek a felmelegedésre."
+            ],
+            "ro": [
+              "Purtați o jachetă impermeabilă, deoarece vântul din piețe poate rupe umbrelele.",
+              "Arcadele din Piața Superioară sunt cele mai bune adăposturi naturale din oraș.",
+              "Profitați de vizita prelungită la muzeu pentru a evita perioadele de ploaie intensă.",
+              "Multe cafenele de lângă teatru oferă refugii primitoare."
+            ],
+            "en": [
+              "Wear a waterproof jacket as wind in the open squares can flip umbrellas.",
+              "The arcades on the Upper Square are the city's best natural shelters.",
+              "Take advantage of the museum's indoor exhibits during heavy downpours.",
+              "Many cafes near the theatre offer cozy retreats to dry off."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintermorgen in Troppau glänzt oft mit Reif auf dem Oberring. Der Aufstieg zur Hláska bietet einen klaren Blick über die verschneiten Dächer. Mittags spendet die Konkathedrale spirituelle Wärme, bevor wir uns im Schlesischen Museum intensiv mit der Geschichte beschäftigen. Da es früh dunkel wird, genießen wir die beleuchteten Gassen bei einem heißen Getränk am späten Nachmittag.",
+            "hu": "A téli reggel Opavában gyakran zúzmarás Felső térrel fogad. A Hláska toronyból tiszta időben csodás a kilátás a havas háztetőkre. Délben a társszékesegyház nyújt lelki és fizikai menedéket a hideg elől. A délutánt a múzeum fűtött termeiben töltjük, majd a korai sötétedéskor már a kivilágított belváros fényeit élvezzük egy forró itallal.",
+            "ro": "O dimineață de iarnă în Opava dezvăluie adesea Piața Superioară acoperită de chiciură. Turnul Hláska oferă o panoramă superbă asupra acoperișurilor înzăpezite. La prânz, Catedrala oferă un moment de reculegere la căldură. După-amiaza este petrecută în sălile încălzite ale muzeului, iar seara admirăm luminile orașului cu o băutură caldă în mână.",
+            "en": "A winter morning in Opava often sees frost covering the Upper Square. The Hláska tower provides a crisp view over snowy rooftops on clear days. At noon, the Co-Cathedral offers a peaceful escape from the cold. We spend the afternoon in the heated halls of the museum, and as darkness falls early, we enjoy the festive city lights with a warm drink."
+          },
+          "stops": [
+            {
+              "name": "Upper Square (Horní náměstí)",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stellen auf dem Kopfsteinpflaster.",
+                "hu": "Vigyázzon a jeges foltokra a macskaköves burkolaton.",
+                "ro": "Atenție la porțiunile înghețate de pe pavaj.",
+                "en": "Watch out for icy patches on the cobblestone pavement."
+              }
+            },
+            {
+              "name": "Hláska (Town Hall Tower)",
+              "tip_5lang": {
+                "de": "Ziehen Sie sich warm an, der Wind oben auf dem Turm ist im Winter beißend.",
+                "hu": "Öltözzön rétegesen, a torony tetején télen metsző lehet a szél.",
+                "ro": "Îmbrăcați-vă gros, vântul din vârful turnului este tăios iarna.",
+                "en": "Dress warmly; the wind at the top of the tower is biting in winter."
+              }
+            },
+            {
+              "name": "Co-Cathedral of the Assumption of the Virgin Mary",
+              "tip_5lang": {
+                "de": "In der Kirche ist es kühl; behalten Sie Ihren Mantel während der Besichtigung an.",
+                "hu": "A templomban hűvös van; tartsa magán a kabátját a látogatás alatt.",
+                "ro": "În biserică este răcoare; păstrați haina pe dvs. în timpul vizitei.",
+                "en": "The church is chilly; keep your coat on during the visit."
+              }
+            },
+            {
+              "name": "Silesian Theatre Opava",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Spielplan für abendliche Aufführungen zum Aufwärmen.",
+                "hu": "Ellenőrizze az esti műsort egy melengető színházi előadáshoz.",
+                "ro": "Verificați programul pentru spectacole de seară la căldură.",
+                "en": "Check the schedule for evening performances to warm up inside."
+              }
+            },
+            {
+              "name": "Lunch in the City Center",
+              "tip_5lang": {
+                "de": "Probieren Sie eine traditionelle böhmische Suppe zum Aufwärmen.",
+                "hu": "Kóstoljon meg egy hagyományos cseh levest a felmelegedéshez.",
+                "ro": "Încercați o supă tradițională cehă pentru a vă încălzi.",
+                "en": "Try a traditional Czech soup to warm up your core."
+              }
+            },
+            {
+              "name": "Silesian Regional Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe, um schwere Wintermäntel bequem abzulegen.",
+                "hu": "Használja a ruhatárat, hogy kényelmesen, nehéz kabát nélkül nézhesse meg a tárlatot.",
+                "ro": "Folosiți garderoba pentru a lăsa hainele grele de iarnă.",
+                "en": "Use the cloakroom to store heavy winter coats comfortably during your visit."
+              }
+            },
+            {
+              "name": "Chapel of the Holy Cross",
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Ort vor 16:00 Uhr, bevor das Tageslicht schwindet.",
+                "hu": "Látogasson el ide 16:00 előtt, mielőtt elfogynak a nappali fények.",
+                "ro": "Vizitați acest loc înainte de ora 16:00, înainte de lăsarea întunericului.",
+                "en": "Visit this location before 4:00 PM before the daylight fades."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Da die Sonne gegen 16:30 Uhr untergeht, planen Sie Außenbesichtigungen für den Vormittag.",
+              "Schlesische Küche ist im Winter besonders nahrhaft und wärmend.",
+              "Das Museum bietet den besten Schutz vor klirrender Kälte.",
+              "Tragen Sie Schuhe mit gutem Profil für den Aufstieg zur Hláska."
+            ],
+            "hu": [
+              "Mivel a nap 16:30 körül nyugszik, a szabadtéri programokat délelőttre időzítse.",
+              "A sziléziai konyha télen különösen tápláló és melengető.",
+              "A múzeum nyújtja a legjobb védelmet a csípős hideg elől.",
+              "Viseljen jó tapadású talpú cipőt a Hláska torony megmászásához."
+            ],
+            "ro": [
+              "Deoarece soarele apune în jurul orei 16:30, planificați vizitele în exterior dimineața.",
+              "Bucătăria sileziană este deosebit de consistentă și hrănitoare iarna.",
+              "Muzeul oferă cea mai bună protecție împotriva gerului năpraznic.",
+              "Purtați încălțăminte cu talpă aderentă pentru urcarea în turnul Hláska."
+            ],
+            "en": [
+              "Since the sun sets around 4:30 PM, plan outdoor sightseeing for the morning.",
+              "Silesian cuisine is particularly hearty and warming during winter months.",
+              "The museum provides the best escape from the biting cold.",
+              "Wear shoes with good grip for the ascent to the Hláska tower."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -730,6 +930,188 @@
           "Opava is relatively flat, which makes cycling pleasant.",
           "Use the bike paths along the river for a scenic and traffic-free ride."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour durch Opava bei Regen erfordert Vorsicht auf dem Kopfsteinpflaster im Zentrum. Nach dem Besuch der Konkathedrale flüchten wir ins Schlesische Museum. Das Mittagessen am Fluss bietet trotz des grauen Wetters eine beruhigende Aussicht. Den Nachmittag verbringen wir im Stadtpark, bevor wir zum Gemeindehaus zurückkehren, wo wir uns trocknen können.",
+            "hu": "Az esős opavai kerékpározás óvatosságot igényel a belvárosi macskaköveken. A társszékesegyház után a múzeumba menekülünk az eső elől. Az Opava-parti ebéd a szürke idő ellenére is megnyugtató látványt nyújt. A délutánt a városi park fái alatt töltjük, majd az önkormányzati háznál fejezzük be a napot, ahol megszárítkozhatunk.",
+            "ro": "O plimbare cu bicicleta prin Opava pe ploaie necesită prudență pe pavajul din centru. După Catedrală, ne adăpostim la muzeu. Prânzul pe malul râului oferă o priveliște liniștitoare, în ciuda vremii gri. După-amiaza o petrecem în parcul orașului, înainte de a reveni la Casa Municipală pentru a ne usca.",
+            "en": "Cycling through Opava in the rain requires caution on the city center's wet cobblestones. After visiting the Co-Cathedral, we seek refuge in the museum. Lunch by the river offers a calming view despite the grey skies. We spend the afternoon under the park's trees before finishing at the Municipal House to dry off."
+          },
+          "stops": [
+            {
+              "name": "Upper Square (Horní náměstí)",
+              "tip_5lang": {
+                "de": "Vorsicht, das nasse Kopfsteinpflaster ist für Fahrradreifen extrem rutschig.",
+                "hu": "Vigyázat, a vizes macskakő rendkívül csúszós a kerékpárgumiknak.",
+                "ro": "Atenție, pavajul umed este extrem de alunecos pentru anvelopele de bicicletă.",
+                "en": "Caution: wet cobblestones are extremely slippery for bicycle tires."
+              }
+            },
+            {
+              "name": "Co-Cathedral of the Assumption of the Virgin Mary",
+              "tip_5lang": {
+                "de": "Suchen Sie einen geschützten Abstellplatz für Ihr Rad in der Nähe des Eingangs.",
+                "hu": "Keressen fedett kerékpártárolót a bejárat közelében.",
+                "ro": "Căutați un loc de parcare protejat pentru bicicletă lângă intrare.",
+                "en": "Look for a sheltered bike parking spot near the entrance."
+              }
+            },
+            {
+              "name": "Silesian Regional Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den langen Aufenthalt, um Ihre Regenbekleidung zu lüften.",
+                "hu": "Használja ki a hosszú látogatást az esőruházat szellőztetésére.",
+                "ro": "Profitați de vizita lungă pentru a vă aerisi echipamentul de ploaie.",
+                "en": "Take advantage of the long indoor stay to air out your rain gear."
+              }
+            },
+            {
+              "name": "Lunch by the Opava River",
+              "tip_5lang": {
+                "de": "Der Weg am Flussufer kann schlammig sein; bleiben Sie auf den befestigten Wegen.",
+                "hu": "A folyóparti út sáros lehet; maradjon a kiépített aszfalton.",
+                "ro": "Drumul de pe malul râului poate fi noroios; rămâneți pe pistele pavate.",
+                "en": "The riverside path may be muddy; stick to the paved sections."
+              }
+            },
+            {
+              "name": "Ride through the City Park (Městské sady)",
+              "tip_5lang": {
+                "de": "Das Blätterdach bietet leichten Schutz, aber Vorsicht vor nassen Ästen.",
+                "hu": "A lombok némi védelmet nyújtanak, de vigyázzon a lehullott vizes ágakra.",
+                "ro": "Coroana copacilor oferă o ușoară protecție, dar atenție la crengile ude.",
+                "en": "The tree canopy offers slight shelter, but watch out for wet debris on paths."
+              }
+            },
+            {
+              "name": "Municipal House (Obecní dům)",
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour hier und genießen Sie eine heiße Schokolade im Café.",
+                "hu": "Fejezze be itt a túrát és igyon egy forró csokoládét a kávézóban.",
+                "ro": "Încheiați turul aici și savurați o ciocolată caldă la cafenea.",
+                "en": "Finish your tour here and enjoy a hot chocolate in the cafe to warm up."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind bei diesem Wetter in Opava unerlässlich.",
+              "Vermeiden Sie schnelle Bremsmanöver auf dem Horní náměstí.",
+              "Wasserdichte Packtaschen schützen Ihre Kamera und Wertsachen.",
+              "Die Route durch den Park ist bei Regen oft weniger befahren."
+            ],
+            "hu": [
+              "A sárvédők elengedhetetlenek ebben az időben Opavában.",
+              "Kerülje a hirtelen fékezést a Felső téren.",
+              "A vízálló kerékpáros táskák megvédik értékeit az esőtől.",
+              "A parkon átvezető útvonal esőben gyakran kevésbé forgalmas."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt esențiale în acest tip de vreme în Opava.",
+              "Evitați frânările bruște în Piața Superioară.",
+              "Geantele de bicicletă impermeabile vă protejează bunurile de ploaie.",
+              "Ruta prin parc este adesea mai puțin aglomerată pe timp de ploaie."
+            ],
+            "en": [
+              "Mudguards are essential in this weather while cycling in Opava.",
+              "Avoid sudden braking on the Horní náměstí cobblestones.",
+              "Waterproof panniers will protect your valuables from the rain.",
+              "The park route is often less crowded and calmer in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im winterlichen Troppau erfordert warme Handschuhe gegen den Fahrtwind. Nach dem Start am Oberring bietet die Konkathedrale eine erste Aufwärmpause. Wir radeln vorsichtig zum Schlesischen Museum und weiter zum Fluss, wo die Winterlandschaft besonders ruhig ist. Der Stadtpark wirkt im Frost verzaubert, bevor wir uns im Gemeindehaus endgültig aufwärmen.",
+            "hu": "A téli kerékpározás Opavában meleg kesztyűt igényel a menetszél ellen. A Felső tér után a társszékesegyházban melegedhetünk fel először. Óvatosan tekerünk a múzeumhoz, majd a folyóhoz, ahol a téli táj különösen csendes. A városi park zúzmarás fái között fejezzük be a kört, végül az önkormányzati házban melegszünk fel teljesen.",
+            "ro": "Biciclitul în Opava pe timp de iarnă necesită mănuși groase împotriva vântului. După startul din Piața Superioară, Catedrala oferă prima pauză de încălzire. Pedalăm cu atenție spre muzeu și apoi spre râu, unde peisajul hibernal este foarte liniștit. Parcul orașului pare vrăjit sub promoroacă, înainte de a ne încălzi definitiv la Casa Municipală.",
+            "en": "Cycling in winter Opava requires warm gloves against the cold headwind. After starting at the Upper Square, the Co-Cathedral provides the first warming break. We cycle carefully to the museum and then to the river, where the winter scenery is peaceful. The city park looks magical in the frost before we finally warm up at the Municipal House."
+          },
+          "stops": [
+            {
+              "name": "Upper Square (Horní náměstí)",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrierender Nässe in den frühen Morgenstunden.",
+                "hu": "Vigyázzon a hajnali órákban lefagyott nedvességre.",
+                "ro": "Atenție la porțiunile înghețate în orele dimineții.",
+                "en": "Watch out for freezing moisture in the early morning hours."
+              }
+            },
+            {
+              "name": "Co-Cathedral of the Assumption of the Virgin Mary",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Halt, um Ihre Hände wieder aufzuwärmen.",
+                "hu": "Használja ki a megállót a kezei felmelegítésére.",
+                "ro": "Folosiți oprirea pentru a vă reîncălzi mâinile.",
+                "en": "Use this stop to warm up your hands and face."
+              }
+            },
+            {
+              "name": "Silesian Regional Museum",
+              "tip_5lang": {
+                "de": "Sichere Fahrradständer befinden sich direkt vor dem Museumseingang.",
+                "hu": "Biztonságos kerékpártárolók találhatók közvetlenül a múzeumi bejáratnál.",
+                "ro": "Rastele sigure pentru biciclete se află chiar în fața intrării în muzeu.",
+                "en": "Secure bike racks are located right in front of the museum entrance."
+              }
+            },
+            {
+              "name": "Lunch by the Opava River",
+              "tip_5lang": {
+                "de": "Ein heißer Tee ist jetzt wichtiger als eine kalte Limonade.",
+                "hu": "Egy forró tea most fontosabb, mint egy hideg üdítő.",
+                "ro": "Un ceai fierbinte este mai important acum decât o limonadă rece.",
+                "en": "A hot tea is more important now than a cold lemonade."
+              }
+            },
+            {
+              "name": "Ride through the City Park (Městské sady)",
+              "tip_5lang": {
+                "de": "Die Wege können geräumt, aber stellenweise spiegelglatt sein.",
+                "hu": "Az utak le lehetnek takarítva, de helyenként tükörsimák lehetnek.",
+                "ro": "Aleile pot fi curățate, dar pe alocuri pot fi foarte alunecoase.",
+                "en": "Paths may be cleared but can be ice-slicked in shaded spots."
+              }
+            },
+            {
+              "name": "Municipal House (Obecní dům)",
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um die Tour vor dem frühen Sonnenuntergang zu beenden.",
+                "hu": "Tökéletes hely a túra befejezéséhez a korai naplemente előtt.",
+                "ro": "Un loc perfect pentru a încheia turul înainte de apusul devreme.",
+                "en": "A perfect place to conclude the tour before the early sunset."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihren Reifendruck; etwas weniger Druck bietet mehr Grip auf Schnee.",
+              "Die Fahrradwege im Park werden oft erst spät geräumt.",
+              "Sonne reflektiert stark auf Schnee – Sonnenbrille nicht vergessen.",
+              "Planen Sie kürzere Etappen ein, da die Kälte schneller ermüdet."
+            ],
+            "hu": [
+              "Ellenőrizze a guminyomást; a kissé alacsonyabb nyomás jobb tapadást ad a havon.",
+              "A parki kerékpárutakat gyakran csak később takarítják le.",
+              "A hó erősen visszaveri a napfényt – ne felejtse el a napszemüveget.",
+              "Tervezzen rövidebb szakaszokat, mert a hidegben gyorsabban elfárad."
+            ],
+            "ro": [
+              "Verificați presiunea anvelopelor; o presiune mai mică oferă aderență pe zăpadă.",
+              "Pistele de biciclete din parc sunt adesea curățate mai târziu.",
+              "Soarele reflectă puternic pe zăpadă – nu uitați ochelarii de soare.",
+              "Planificați etape mai scurte, deoarece frigul obosește mai repede."
+            ],
+            "en": [
+              "Check tire pressure; slightly lower pressure offers better grip on snow.",
+              "Park bike paths are often cleared later than main roads.",
+              "Sun reflects strongly off snow – don't forget your sunglasses.",
+              "Plan shorter segments as the cold can tire you out faster."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1080,6 +1462,188 @@
           "A GPS is useful for the drive to Hradec nad Moravicí Castle.",
           "Plan enough time for the drive between Opava and Hradec."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist ein Regentag in Troppau komfortabel. Wir starten am Schlesischen Museum und fahren zur Konkathedrale, wobei wir Parkplätze direkt in der Nähe nutzen. Nach dem Mittagessen in der Innenstadt führt uns eine kurze Fahrt zum Schloss Grätz (Hradec nad Moravicí). Dort genießen wir die Innenräume des Schlosses, während der Regen die Parklandschaft draußen erfrischt.",
+            "hu": "Autóval az esős nap is kényelmes Opavában. A Sziléziai Múzeumnál kezdünk, majd a társszékesegyházhoz hajtunk, a közelben parkolva. A belvárosi ebéd után rövid autózással érjük el a Grätz-i (Hradec nad Moravicí) kastélyt. Itt a belső termeket élvezzük, miközben az eső frissíti a kinti kastélyparkot.",
+            "ro": "Cu mașina, o zi ploioasă în Opava este confortabilă. Începem la Muzeul Silezian și mergem spre Catedrală, parcând chiar în apropiere. După prânzul din centru, o scurtă călătorie ne duce la Castelul Hradec nad Moravicí. Aici ne bucurăm de interioarele castelului, în timp ce ploaia împrospătează parcul de afară.",
+            "en": "A rainy day in Opava is comfortable by car. We start at the Silesian Museum and drive to the Co-Cathedral, utilizing nearby parking. After lunch in the center, a short drive takes us to Hradec nad Moravicí Castle. We enjoy the castle's interiors while the rain refreshes the expansive parklands outside."
+          },
+          "stops": [
+            {
+              "name": "Park and Start at the Silesian Regional Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus in der Nähe, um trockenen Fußes ins Museum zu gelangen.",
+                "hu": "Használja a közeli parkolóházat, hogy száraz lábbal jusson be a múzeumba.",
+                "ro": "Folosiți parcarea din apropiere pentru a ajunge uscat la muzeu.",
+                "en": "Use the nearby parking garage to enter the museum without getting wet."
+              }
+            },
+            {
+              "name": "Co-Cathedral of the Assumption of the Virgin Mary",
+              "tip_5lang": {
+                "de": "Parkplätze am Rybí trh sind oft belegt; weichen Sie auf Seitenstraßen aus.",
+                "hu": "A Rybí trh parkolói gyakran teltek; keressen helyet a mellékutcákban.",
+                "ro": "Locurile de parcare de pe Rybí trh sunt adesea ocupate; încercați străzile laterale.",
+                "en": "Parking at Rybí trh is often full; look for spots in the side streets."
+              }
+            },
+            {
+              "name": "Upper Square & Town Hall Tower",
+              "tip_5lang": {
+                "de": "Lassen Sie das Auto stehen und nutzen Sie den kurzen Fußweg unter den Arkaden.",
+                "hu": "Hagyja az autót, és használja a rövid sétát az árkádok alatt.",
+                "ro": "Lăsați mașina și faceți o scurtă plimbare sub arcade.",
+                "en": "Leave the car parked and take the short walk under the arcades."
+              }
+            },
+            {
+              "name": "Lunch and back to the car",
+              "tip_5lang": {
+                "de": "Prüfen Sie vor der Weiterfahrt nach Hradec die Scheibenwischer.",
+                "hu": "Hradec felé indulás előtt ellenőrizze az ablaktörlőket.",
+                "ro": "Verificați ștergătoarele înainte de a pleca spre Hradec.",
+                "en": "Check your wipers before heading out to Hradec nad Moravicí."
+              }
+            },
+            {
+              "name": "Drive to Hradec nad Moravicí Castle",
+              "tip_5lang": {
+                "de": "Die Landstraße kann bei Regen rutschig sein; fahren Sie vorsichtig.",
+                "hu": "Az országút esőben csúszós lehet; vezessen óvatosan.",
+                "ro": "Drumul național poate fi alunecos pe ploaie; conduceți cu atenție.",
+                "en": "The rural road can be slippery in the rain; drive with extra caution."
+              }
+            },
+            {
+              "name": "Walk in the Castle Park",
+              "tip_5lang": {
+                "de": "Ein großer Regenschirm ist für diesen Spaziergang unerlässlich.",
+                "hu": "Egy nagy esernyő elengedhetetlen ehhez a sétához.",
+                "ro": "O umbrelă mare este indispensabilă pentru această plimbare.",
+                "en": "A large umbrella is essential for this park walk in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Parken Sie in Hradec so nah wie möglich am Schlosseingang.",
+              "Innerstädtische Kurzparkzonen erfordern bei Regen oft Kleingeld für Automaten.",
+              "Die Sicht auf der Fahrt nach Hradec kann bei starkem Regen eingeschränkt sein.",
+              "Nutzen Sie die Sitzheizung nach dem nassen Spaziergang im Park."
+            ],
+            "hu": [
+              "Hradecben parkoljon a lehető legközelebb a kastély bejáratához.",
+              "A belvárosi rövid távú parkolókhoz gyakran aprópénz kell az automatába.",
+              "A Hradec felé vezető úton heves esőben korlátozott lehet a látótávolság.",
+              "Használja az ülésfűtést a vizes parki séta után."
+            ],
+            "ro": [
+              "În Hradec, parcați cât mai aproape de intrarea în castel.",
+              "Zonele de parcare pe termen scurt din centru necesită adesea monede.",
+              "Vizibilitatea pe drumul spre Hradec poate fi redusă în caz de ploaie torențială.",
+              "Folosiți încălzirea în scaune după plimbarea umedă prin parc."
+            ],
+            "en": [
+              "Park as close as possible to the castle entrance in Hradec.",
+              "City center short-stay parking zones often require coins for machines.",
+              "Visibility on the drive to Hradec can be poor during heavy rain.",
+              "Use the seat heating after your wet walk in the castle park."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter bietet das Auto den besten Schutz vor der Troppauer Kälte. Wir starten am beheizten Schlesischen Museum und fahren zur Konkathedrale. Der Oberring ist festlich beleuchtet. Nach dem Mittagessen führt die Fahrt durch die verschneite Landschaft zum Schloss Grätz. Der Park wirkt im Winterschlaf friedlich, bevor wir die Rückfahrt im warmen Auto antreten.",
+            "hu": "Télen az autó nyújtja a legjobb védelmet az opavai hideg ellen. A fűtött Sziléziai Múzeumnál kezdünk, majd a társszékesegyházhoz hajtunk. A Felső tér ünnepi díszben ragyog. Ebéd után havas tájon át autózunk a Grätz-i kastélyhoz. A park a téli álomba merülve békés, mielőtt a meleg autóban elindulnánk vissza.",
+            "ro": "Iarna, mașina oferă cea mai bună protecție împotriva frigului din Opava. Începem la Muzeul Silezian încălzit și mergem spre Catedrală. Piața Superioară este luminată festiv. După prânz, drumul prin peisajul înzăpezit ne duce la Castelul Hradec. Parcul este liniștit în somnul iernii, înainte de a ne întoarce în mașina caldă.",
+            "en": "In winter, the car provides the best shield against Opava's chill. We start at the heated Silesian Museum and drive to the Co-Cathedral. The Upper Square is festively lit. After lunch, the drive through the snowy landscape leads to Hradec castle. The park is peaceful in its winter slumber before we head back in the warm car."
+          },
+          "stops": [
+            {
+              "name": "Park and Start at the Silesian Regional Museum",
+              "tip_5lang": {
+                "de": "Achten Sie auf Schneehaufen am Straßenrand beim Einparken.",
+                "hu": "Parkoláskor ügyeljen az út szélén felhalmozott hókupacokra.",
+                "ro": "Atenție la mormanele de zăpadă de la marginea drumului la parcare.",
+                "en": "Watch out for snow piles at the roadside when parking your car."
+              }
+            },
+            {
+              "name": "Co-Cathedral of the Assumption of the Virgin Mary",
+              "tip_5lang": {
+                "de": "Kurze Parkdauer einplanen, da die Kälte die Autobatterie belasten kann.",
+                "hu": "Rövid parkolást tervezzen, mert a hideg megterhelheti az akkumulátort.",
+                "ro": "Planificați o parcare scurtă, frigul poate afecta bateria mașinii.",
+                "en": "Plan for shorter parking stays; the cold can strain car batteries."
+              }
+            },
+            {
+              "name": "Upper Square & Town Hall Tower",
+              "tip_5lang": {
+                "de": "Die Auffahrt zum Turm ist bei Frost nur eingeschränkt möglich.",
+                "hu": "Fagy esetén a toronyba való feljutás korlátozott lehet.",
+                "ro": "Accesul în turn poate fi restricționat în caz de îngheț.",
+                "en": "Tower access may be limited during periods of severe frost."
+              }
+            },
+            {
+              "name": "Lunch and back to the car",
+              "tip_5lang": {
+                "de": "Befreien Sie das Auto vor der Abfahrt nach Hradec von möglichem Neuschnee.",
+                "hu": "Hradec felé indulás előtt takarítsa le az esetleges friss havat az autóról.",
+                "ro": "Curățați mașina de zăpada proaspătă înainte de a pleca spre Hradec.",
+                "en": "Clear any fresh snow from your car before driving to Hradec."
+              }
+            },
+            {
+              "name": "Drive to Hradec nad Moravicí Castle",
+              "tip_5lang": {
+                "de": "Winterreifen und genügend Frostschutzmittel sind obligatorisch.",
+                "hu": "A téli gumi és a fagyálló ablakmosó folyadék kötelező.",
+                "ro": "Anvelopele de iarnă și lichidul de parbriz anti-îngheț sunt obligatorii.",
+                "en": "Winter tires and sufficient anti-freeze fluid are mandatory."
+              }
+            },
+            {
+              "name": "Walk in the Castle Park",
+              "tip_5lang": {
+                "de": "Verkürzen Sie den Spaziergang, da der Wind im offenen Park eisig sein kann.",
+                "hu": "Rövidítse le a sétát, mert a nyitott parkban jeges lehet a szél.",
+                "ro": "Scurtați plimbarea, vântul poate fi tăios în parcul deschis.",
+                "en": "Shorten your walk as the wind in the open park can be icy."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahren Sie vorausschauend auf den möglicherweise glatten Landstraßen nach Hradec.",
+              "Die Parkplatzräumung in Hradec kann bei starkem Schneefall verzögert sein.",
+              "Nehmen Sie eine Thermoskanne mit heißem Tee im Auto mit.",
+              "Prüfen Sie den Reifendruck bei sinkenden Temperaturen."
+            ],
+            "hu": [
+              "Vezessen előrelátóan a Hradec felé vezető, esetleg jeges országúton.",
+              "Hradecben a parkolók takarítása erős hóesésben késhet.",
+              "Vigyen magával egy termoszt forró teával az autóba.",
+              "Ellenőrizze a guminyomást a csökkenő hőmérséklet mellett."
+            ],
+            "ro": [
+              "Conduceți preventiv pe drumul spre Hradec, care poate fi înghețat.",
+              "Deszăpezirea parcărilor din Hradec poate întârzia în caz de ninsoare abundentă.",
+              "Luați un termos cu ceai fierbinte în mașină.",
+              "Verificați presiunea pneurilor pe măsură ce temperatura scade."
+            ],
+            "en": [
+              "Drive defensively on the potentially icy country roads to Hradec.",
+              "Snow removal in Hradec parking areas might be delayed during heavy falls.",
+              "Keep a thermos of hot tea in the car for warming breaks.",
+              "Check tire pressure regularly as temperatures drop."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1430,6 +1994,188 @@
           "Pay attention to the line numbers and direction of travel of buses and trolleybuses.",
           "Validate your ticket immediately after boarding to avoid fines."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Öffentliche Verkehrsmittel sind bei Regen in Troppau ideal. Vom Ostbahnhof nehmen wir den Obus ins Zentrum. Die kurzen Wege zwischen den Haltestellen und Sehenswürdigkeiten wie der Konkathedrale und dem Schlesischen Museum halten uns trocken. Den Nachmittag verbringen wir im Theater, bevor wir bequem mit dem Bus zurück zum Bahnhof fahren.",
+            "hu": "A tömegközlekedés ideális esőben Opavában. A Keleti pályaudvartól trolibusszal megyünk a központba. A megállók és a látnivalók – mint a társszékesegyház és a Sziléziai Múzeum – közötti rövid távolságok segítenek szárazon maradni. A délutánt a színházban töltjük, majd kényelmesen busszal térünk vissza a vasúthoz.",
+            "ro": "Transportul public este ideal pe ploaie în Opava. De la Gara de Est luăm troleibuzul spre centru. Distanțele scurte între stații și obiective precum Catedrala și Muzeul Silezian ne mențin uscați. După-amiaza o petrecem la teatru, înainte de a reveni confortabil cu autobuzul la gară.",
+            "en": "Public transit is ideal during rain in Opava. From the East Station, we take a trolleybus to the center. Short walks between stops and sights like the Co-Cathedral and Silesian Museum keep us dry. We spend the afternoon at the theatre before taking a comfortable bus ride back to the station."
+          },
+          "stops": [
+            {
+              "name": "Arrival at East Station (Opava východ)",
+              "tip_5lang": {
+                "de": "Warten Sie in der Bahnhofshalle auf Ihren Anschluss, um trocken zu bleiben.",
+                "hu": "Várjon az állomás csarnokában a csatlakozásra, hogy száraz maradjon.",
+                "ro": "Așteptați în holul gării legătura pentru a rămâne uscat.",
+                "en": "Wait inside the station hall for your connection to stay dry."
+              }
+            },
+            {
+              "name": "Ride to the City Center (Cluster 1)",
+              "tip_5lang": {
+                "de": "Nutzen Sie die App 'IDOS' für Echtzeit-Infos bei witterungsbedingten Verspätungen.",
+                "hu": "Használja az 'IDOS' alkalmazást a valós idejű infókért eső miatti késésekkor.",
+                "ro": "Folosiți aplicația 'IDOS' pentru info în timp real în caz de întârzieri.",
+                "en": "Use the 'IDOS' app for real-time updates during weather-related delays."
+              }
+            },
+            {
+              "name": "Co-Cathedral and Town Hall Tower",
+              "tip_5lang": {
+                "de": "Die Haltestellen im Zentrum haben meist schützende Überdachungen.",
+                "hu": "A belvárosi megállók többsége fedett menedéket nyújt.",
+                "ro": "Majoritatea stațiilor din centru au copertine de protecție.",
+                "en": "Most city center stops have protective shelters against the rain."
+              }
+            },
+            {
+              "name": "Lunch and ride to the Museum (Cluster 2)",
+              "tip_5lang": {
+                "de": "Ein Kurzstreckenticket reicht oft für die Fahrt zwischen den Clustern.",
+                "hu": "Egy rövid távú jegy gyakran elég a klaszterek közötti utazáshoz.",
+                "ro": "Un bilet pe distanță scurtă este adesea suficient între zone.",
+                "en": "A short-distance ticket is often enough for travel between clusters."
+              }
+            },
+            {
+              "name": "Silesian Regional Museum",
+              "tip_5lang": {
+                "de": "Die Haltestelle befindet sich fast direkt vor dem Museumseingang.",
+                "hu": "A megálló szinte közvetlenül a múzeumi bejárat előtt van.",
+                "ro": "Stația se află aproape direct în fața intrării în muzeu.",
+                "en": "The transit stop is located almost directly in front of the museum entrance."
+              }
+            },
+            {
+              "name": "Walk to the Silesian Theatre",
+              "tip_5lang": {
+                "de": "Der Weg vom Museum zum Theater ist kurz, halten Sie den Schirm bereit.",
+                "hu": "A múzeumtól a színházig tartó út rövid, tartsa készenlétben az esernyőt.",
+                "ro": "Drumul de la muzeu la teatru este scurt, țineți umbrela la îndemână.",
+                "en": "The walk from the museum to the theatre is short; keep your umbrella ready."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie Tickets bequem per SMS oder kontaktlos im Fahrzeug.",
+              "Obusse in Opava sind sauber und ein trockenes Transportmittel.",
+              "Die Wartezeiten an den Haltestellen sind im Zentrum meist kurz.",
+              "Vermeiden Sie die Rushhour, um nicht mit nasser Kleidung in vollen Bussen zu stehen."
+            ],
+            "hu": [
+              "Vásároljon jegyet kényelmesen SMS-ben vagy érintésmentesen a járművön.",
+              "Az opavai trolibuszok tiszták és száraz közlekedési módot kínálnak.",
+              "A várakozási idő a belvárosi megállókban általában rövid.",
+              "Kerülje a csúcsforgalmat, hogy ne vizes ruhában álljon a tömegben."
+            ],
+            "ro": [
+              "Cumpărați bilete convenabil prin SMS sau contactless în vehicul.",
+              "Troleibuzele din Opava sunt curate și oferă un transport uscat.",
+              "Timpii de așteptare în stațiile din centru sunt de obicei scurți.",
+              "Evitați orele de vârf pentru a nu sta în picioare în haine ude."
+            ],
+            "en": [
+              "Buy tickets easily via SMS or contactless payment on the vehicle.",
+              "Trolleybuses in Opava are clean and offer a dry way to travel.",
+              "Wait times at central stops are usually very short.",
+              "Avoid peak hours to skip standing in crowded buses with wet gear."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An einem frostigen Wintertag ist der Obus in Troppau ein warmer Segen. Nach der Ankunft am Ostbahnhof bringt uns der Nahverkehr schnell ins Zentrum. Wir besichtigen die Konkathedrale und wärmen uns zwischen den Stationen in den geheizten Fahrzeugen auf. Den Nachmittag verbringen wir im Schlesischen Museum, bevor wir im Theater Kultur genießen und dann entspannt zum Bahnhof zurückfahren.",
+            "hu": "Egy fagyos téli napon a trolibusz meleg menedék Opavában. A Keleti pályaudvarra érkezés után a tömegközlekedés gyorsan a központba visz. Megnézzük a társszékesegyházat, a megállók között pedig a fűtött járműveken melegszünk fel. A délutánt a Sziléziai Múzeumban töltjük, majd kultúrával töltekezünk a színházban, végül visszatérünk a vasúthoz.",
+            "ro": "Într-o zi geroasă de iarnă, troleibuzul este un refugiu cald în Opava. După sosirea la Gara de Est, transportul public ne duce rapid în centru. Vizităm Catedrala și ne încălzim în vehiculele încălzite între stații. După-amiaza o petrecem la Muzeul Silezian, apoi ne bucurăm de cultură la teatru înainte de a reveni la gară.",
+            "en": "On a frosty winter day, the trolleybus is a warm blessing in Opava. After arriving at the East Station, public transit whisk us quickly to the center. We visit the Co-Cathedral and warm up in heated vehicles between stops. We spend the afternoon at the Silesian Museum, enjoy culture at the theatre, and then return relaxed to the station."
+          },
+          "stops": [
+            {
+              "name": "Arrival at East Station (Opava východ)",
+              "tip_5lang": {
+                "de": "Die Wartehalle ist im Winter beheizt; nutzen Sie sie für Pausen.",
+                "hu": "A várócsarnok télen fűtött; használja pihenésre.",
+                "ro": "Sala de așteptare este încălzită iarna; folosiți-o pentru pauze.",
+                "en": "The station waiting hall is heated in winter; use it for breaks."
+              }
+            },
+            {
+              "name": "Ride to the City Center (Cluster 1)",
+              "tip_5lang": {
+                "de": "Die Obusse sind gut beheizt und bieten Komfort bei Minusgraden.",
+                "hu": "A trolibuszok jól fűtöttek és kényelmesek a mínuszokban.",
+                "ro": "Troleibuzele sunt bine încălzite și oferă confort la temperaturi negative.",
+                "en": "Trolleybuses are well-heated and offer comfort during sub-zero days."
+              }
+            },
+            {
+              "name": "Co-Cathedral and Town Hall Tower",
+              "tip_5lang": {
+                "de": "Tragen Sie rutschfeste Schuhe für den Weg von der Haltestelle zum Eingang.",
+                "hu": "Viseljen csúszásmentes cipőt a megállótól a bejáratig tartó úton.",
+                "ro": "Purtați încălțăminte antiderapantă pentru drumul de la stație.",
+                "en": "Wear non-slip shoes for the walk from the stop to the entrance."
+              }
+            },
+            {
+              "name": "Lunch and ride to the Museum (Cluster 2)",
+              "tip_5lang": {
+                "de": "Kürzere Intervalle der Linien 201-221 nutzen das dichte Netz im Zentrum.",
+                "hu": "A 201-221-es járatok sűrűn közlekednek a belvárosi hálózatban.",
+                "ro": "Liniile 201-221 circulă frecvent în rețeaua din centru.",
+                "en": "Use lines 201-221 for frequent connections within the city center."
+              }
+            },
+            {
+              "name": "Silesian Regional Museum",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die kälteste Zeit des Tages im Warmen zu verbringen.",
+                "hu": "Ideális hely, hogy a nap leghidegebb óráit melegben töltse.",
+                "ro": "Un loc ideal pentru a petrece cele mai reci ore ale zilei la căldură.",
+                "en": "An ideal place to spend the coldest hours of the day indoors."
+              }
+            },
+            {
+              "name": "Walk to the Silesian Theatre",
+              "tip_5lang": {
+                "de": "Der kurze Spaziergang ist belebend; achten Sie auf glatte Gehwege.",
+                "hu": "A rövid séta frissítő; ügyeljen a jeges járdákra.",
+                "ro": "Scurta plimbare este revigorantă; atenție la trotuarele înghețate.",
+                "en": "The short walk is invigorating; watch out for icy pavements."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrpläne können bei extremem Schneefall leicht abweichen.",
+              "Die Ticketautomaten an den Haltestellen funktionieren auch bei Frost zuverlässig.",
+              "Halten Sie sich in der Nähe der Heizungen im Obus auf.",
+              "Kombinieren Sie Transit mit Museumsbesuchen für maximale Wärme."
+            ],
+            "hu": [
+              "A menetrendek extrém hóesésben kissé eltérhetnek.",
+              "A megállókban lévő jegyautomaták fagyban is megbízhatóan működnek.",
+              "Igyekezzen a fűtőtestek közelében helyet foglalni a trolibuszon.",
+              "Kombinálja a közlekedést múzeumlátogatással a maximális hőérzetért."
+            ],
+            "ro": [
+              "Orarele pot varia ușor în caz de ninsoare extremă.",
+              "Automatele de bilete din stații funcționează corect și pe ger.",
+              "Încercați să stați aproape de radiatoarele din troleibuz.",
+              "Combinați tranzitul cu vizitele la muzeu pentru a rămâne la căldură."
+            ],
+            "en": [
+              "Schedules may deviate slightly during extreme snowfall.",
+              "Ticket machines at stops function reliably even in freezing frost.",
+              "Try to secure a seat near the heaters inside the trolleybus.",
+              "Combine transit trips with museum visits for maximum warmth."
+            ]
+          }
+        }
       }
     }
   }

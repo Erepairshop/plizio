@@ -333,6 +333,170 @@
           "The weather can change quickly, so pack a light rain jacket.",
           "Check the opening hours of the museums in advance, especially outside of the main season."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet das Kulturzentrum einen trockenen Start. Mittags erkunden Sie die Holzschnitzgalerie und die Kirche, nur kurze Wege im Regen. Der Nachmittag im Schneemobil-Museum ist ideal, um drinnen zu bleiben. Den Tag lassen Sie am Pöyliöjärvi-See ausklingen, wo die neblige Atmosphäre eine ganz eigene Ruhe ausstrahlt.",
+            "hu": "A reggelt a Kulturális Központ fedett falai között kezdjük. Délben a fafaragó galéria és a templom kínál menedéket a szemerkélő eső elől. Délután a hómobil múzeum tökéletes beltéri program. Az estét a Pöyliöjärvi-tó partján zárjuk, ahol az eső áztatta táj különleges, melankolikus arcát mutatja a látogatónak.",
+            "ro": "Dimineața începe la Centrul Cultural, ferit de ploaie. La prânz, vizităm galeria de sculptură și biserica, profitând de distanțele scurte. După-amiaza la Muzeul de Motosante este ideală pentru a rămâne la adăpost. Seara se încheie pe malul lacului Pöyliöjärvi, unde ceața și ploaia creează o atmosferă nordică autentică.",
+            "en": "Start your morning inside the Cultural Centre to stay dry. At noon, the wood sculpture gallery and the church provide brief indoor escapes. The afternoon is best spent at the Snowmobile Museum, a perfect indoor highlight. End the day at Lake Pöyliöjärvi, where the rainy mist adds a unique, serene atmosphere to the Lappish landscape."
+          },
+          "stops": [
+            {
+              "name": "Kemijärvi Cultural Centre",
+              "tip_5lang": {
+                "de": "Perfekter Ort für regnerische Morgenstunden.",
+                "hu": "Kiváló helyszín egy esős reggel kezdéséhez.",
+                "ro": "Locul perfect pentru a începe o dimineață ploioasă.",
+                "en": "The perfect place to start a rainy morning."
+              }
+            },
+            {
+              "name": "Wood Sculpture Gallery",
+              "tip_5lang": {
+                "de": "Genießen Sie die Holzkunst im Trockenen.",
+                "hu": "Csodálja meg a fafaragásokat fedett helyen.",
+                "ro": "Bucurați-vă de arta lemnului la adăpost.",
+                "en": "Enjoy the wood art while staying dry indoors."
+              }
+            },
+            {
+              "name": "Kemijärvi Church",
+              "tip_5lang": {
+                "de": "Ein ruhiger Rückzugsort vor dem Regen.",
+                "hu": "Csendes menedék az eső elől.",
+                "ro": "Un refugiu liniștit departe de ploaie.",
+                "en": "A quiet retreat from the rain."
+              }
+            },
+            {
+              "name": "Snowmobile Museum",
+              "tip_5lang": {
+                "de": "Große Indoor-Ausstellung, ideal bei Schlechtwetter.",
+                "hu": "Nagy beltéri kiállítás, ideális rossz időben.",
+                "ro": "Expoziție interioară mare, ideală pe vreme rea.",
+                "en": "Large indoor exhibition, ideal for bad weather."
+              }
+            },
+            {
+              "name": "Lake Pöyliöjärvi",
+              "tip_5lang": {
+                "de": "Vorsicht, die Uferwege können rutschig sein.",
+                "hu": "Vigyázat, a tóparti ösvények csúszósak lehetnek.",
+                "ro": "Atenție, potecile de pe mal pot fi alunecoase.",
+                "en": "Careful, the lakeside paths can be slippery."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Regenschirm ist bei Wind am See unerlässlich.",
+              "Tragen Sie wasserfeste Wanderschuhe für die Uferwege.",
+              "Nutzen Sie die Cafés im Zentrum für Aufwärmpausen.",
+              "Planen Sie mehr Zeit für die Museen ein, um den Regen auszusitzen."
+            ],
+            "hu": [
+              "A tónál fújó szél miatt egy erős esernyő elengedhetetlen.",
+              "Viseljen vízálló túrabakancsot a tóparti sétákhoz.",
+              "Használja ki a központ kávézóit a pihenésre.",
+              "Töltsön több időt a múzeumokban, amíg eláll az eső."
+            ],
+            "ro": [
+              "O umbrelă rezistentă este esențială din cauza vântului de pe lac.",
+              "Purtați ghete de drumeție impermeabile pentru malul lacului.",
+              "Folosiți cafenelele din centru pentru pauze de încălzire.",
+              "Alocați mai mult timp muzeelor pentru a evita ploaia."
+            ],
+            "en": [
+              "A sturdy umbrella is essential due to the wind by the lake.",
+              "Wear waterproof hiking boots for the lakeside paths.",
+              "Take advantage of central cafes for warming breaks.",
+              "Plan more time for museums to wait out the heavier rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie den arktischen Morgen im Kulturzentrum. Mittags funkeln die Holzskulpturen im Schnee, gefolgt von der besinnlichen Atmosphäre in der Kirche. Der Nachmittag im Schneemobil-Museum passt perfekt zur Jahreszeit. Abends bietet der gefrorene Pöyliöjärvi-See bei klarem Himmel die Chance auf Polarlichter über der verschneiten Stadt.",
+            "hu": "Kezdje a sarkvidéki reggelt a Kulturális Központ melegében. Délben a fafaragások a hóban csillognak, majd a templom meghitt csendje várja. A délutáni hómobil múzeumi látogatás igazi téli hangulatot áraszt. Este a befagyott Pöyliöjärvi-tó felett, tiszta időben, akár a sarki fényt is megpillanthatja a város felett.",
+            "ro": "Experimentați dimineața arctică la Centrul Cultural. La prânz, sculpturile în lemn strălucesc în zăpadă, urmate de atmosfera liniștită a bisericii. După-amiaza la Muzeul de Motosante se potrivește perfect cu sezonul. Seara, lacul înghețat Pöyliöjärvi oferă șansa de a vedea aurora boreală sub cerul senin.",
+            "en": "Experience the Arctic morning warmth at the Cultural Centre. At noon, the wood sculptures sparkle in the snow, followed by the serene church atmosphere. The afternoon at the Snowmobile Museum is a highlight of the season. In the evening, the frozen Lake Pöyliöjärvi offers a chance to see the Northern Lights under a clear sky."
+          },
+          "stops": [
+            {
+              "name": "Kemijärvi Cultural Centre",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich auf, bevor der Stadtrundgang beginnt.",
+                "hu": "Melegedjen át, mielőtt elkezdi a városi sétát.",
+                "ro": "Încălziți-vă înainte de a începe turul orașului.",
+                "en": "Warm up here before starting your city walk."
+              }
+            },
+            {
+              "name": "Wood Sculpture Gallery",
+              "tip_5lang": {
+                "de": "Die Skulpturen wirken im Winterschnee magisch.",
+                "hu": "A szobrok mágikusak a téli hótakaróban.",
+                "ro": "Sculpturile par magice în zăpada de iarnă.",
+                "en": "The sculptures look magical in the winter snow."
+              }
+            },
+            {
+              "name": "Kemijärvi Church",
+              "tip_5lang": {
+                "de": "Ein stimmungsvoll beleuchteter Ort im Winter.",
+                "hu": "Hangulatosan kivilágított helyszín télen.",
+                "ro": "Un loc luminat feeric în timpul iernii.",
+                "en": "An atmospherically lit place during winter."
+              }
+            },
+            {
+              "name": "Snowmobile Museum",
+              "tip_5lang": {
+                "de": "Die beste Zeit für dieses Museum ist der Winter.",
+                "hu": "A legjobb időszak a múzeum látogatására a tél.",
+                "ro": "Cea mai bună perioadă pentru acest muzeu este iarna.",
+                "en": "Winter is the prime time to visit this museum."
+              }
+            },
+            {
+              "name": "Lake Pöyliöjärvi",
+              "tip_5lang": {
+                "de": "Betreten Sie das Eis nur auf markierten Wegen.",
+                "hu": "Csak a kijelölt utakon menjen rá a jégre.",
+                "ro": "Intrați pe gheață doar pe traseele marcate.",
+                "en": "Only step onto the ice on marked paths."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Reflektoren, da es bereits ab 15:00 Uhr dunkel wird.",
+              "Mehrlagige Thermokleidung ist bei Minustemperaturen Pflicht.",
+              "Achten Sie auf Glatteis auf den Gehwegen.",
+              "Halten Sie die Kamera für mögliche Polarlichter bereit."
+            ],
+            "hu": [
+              "Viseljen fényvisszaverőt, mert délután 3-kor már sötétedik.",
+              "A többrétegű termoruha kötelező a mínuszokban.",
+              "Ügyeljen a jeges, csúszós járdákra a városban.",
+              "Készítse elő a kamerát az esetleges sarki fényhez."
+            ],
+            "ro": [
+              "Purtați elemente reflectorizante, se întunecă după ora 15:00.",
+              "Îmbrăcămintea termică în straturi este obligatorie la minus grade.",
+              "Atenție la poleiul de pe trotuare.",
+              "Pregătiți camera pentru eventualele aurore boreale."
+            ],
+            "en": [
+              "Wear reflectors as it gets dark as early as 3:00 PM.",
+              "Multi-layered thermal clothing is mandatory in sub-zero temps.",
+              "Watch out for black ice on the sidewalks.",
+              "Keep your camera ready for potential Northern Lights."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -683,6 +847,188 @@
           "Bring enough water and snacks for the longer ride.",
           "Be aware that some paths may be unpaved."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie am Seeufer, solange der Regen leicht ist. Mittags bietet das Schneemobil-Museum eine willkommene Pause im Trockenen. Nachmittags erkunden Sie das Zentrum und die Kirche per Rad. Die Fahrt nach Suomutunturi führt durch dichte Wälder, die im Regen mystisch wirken, erfordert aber gute Regenbekleidung und Vorsicht auf nassen Waldwegen.",
+            "hu": "Kezdje a tóparton, amíg csak szemerkél az eső. Délben a hómobil múzeum kínál száraz pihenőt. Délután kerékpárral fedezzük fel a központot és a templomot. A Suomutunturi felé vezető út sűrű erdőkön át vezet, amelyek esőben misztikusak, de vízálló ruházatot és óvatosságot igényelnek a vizes utakon.",
+            "ro": "Începeți pe malul lacului cât timp ploaia este ușoară. La prânz, Muzeul de Motosante oferă o pauză binemeritată la uscat. După-amiaza explorăm centrul și biserica pe bicicletă. Drumul spre Suomutunturi trece prin păduri dese care par mistice pe ploaie, dar necesită echipament impermeabil.",
+            "en": "Start by the lakeshore while the rain is light. At noon, the Snowmobile Museum provides a welcome dry break. In the afternoon, explore the center and the church by bike. The ride to Suomutunturi goes through dense forests that look mystical in the rain, but requires good rain gear and caution on wet forest paths."
+          },
+          "stops": [
+            {
+              "name": "Lake Pöyliöjärvi",
+              "tip_5lang": {
+                "de": "Vorsicht bei nassen Holzwegen am Ufer.",
+                "hu": "Vigyázzon a vizes faösvényeken a parton.",
+                "ro": "Atenție la podețele de lemn ude de pe mal.",
+                "en": "Be careful on wet wooden paths along the shore."
+              }
+            },
+            {
+              "name": "Snowmobile Museum",
+              "tip_5lang": {
+                "de": "Sicherer Fahrradständer vorhanden.",
+                "hu": "Biztonságos kerékpártároló áll rendelkezésre.",
+                "ro": "Suport de biciclete securizat disponibil.",
+                "en": "Secure bike parking available here."
+              }
+            },
+            {
+              "name": "Kemijärvi Cultural Centre",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich.",
+                "hu": "Használja a fedett bejárati részt.",
+                "ro": "Folosiți zona de intrare acoperită.",
+                "en": "Utilize the covered entrance area."
+              }
+            },
+            {
+              "name": "Kemijärvi Church",
+              "tip_5lang": {
+                "de": "Kurzer Stopp, um den Regen abzuwarten.",
+                "hu": "Rövid megálló az eső elől.",
+                "ro": "Scurt popas pentru a evita ploaia.",
+                "en": "Short stop to wait out the rain."
+              }
+            },
+            {
+              "name": "Shores of Lake Kemijärvi",
+              "tip_5lang": {
+                "de": "Die Wege können matschig sein.",
+                "hu": "Az utak sárosak lehetnek.",
+                "ro": "Drumurile pot fi noroioase.",
+                "en": "The paths can be muddy."
+              }
+            },
+            {
+              "name": "Suomutunturi",
+              "tip_5lang": {
+                "de": "Vorsicht auf der Abfahrt bei Nässe.",
+                "hu": "Vigyázzon a lejtőkön nedves időben.",
+                "ro": "Atenție la coborâre pe carosabil umed.",
+                "en": "Caution on descents when wet."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche am Fahrrad sind bei diesem Wetter ein Muss.",
+              "Vermeiden Sie plötzliches Bremsen auf nassem Laub.",
+              "Tragen Sie eine vollflächige Regenjacke und Regenhose.",
+              "Wischen Sie den Sattel bei jedem Stopp trocken."
+            ],
+            "hu": [
+              "A sárvédő használata ilyenkor elengedhetetlen.",
+              "Kerülje a hirtelen fékezést a vizes leveleken.",
+              "Viseljen teljes esőruházatot (dzseki és nadrág).",
+              "Minden megállónál törölje szárazra a nyerget."
+            ],
+            "ro": [
+              "Aripile la bicicletă sunt obligatorii pe această vreme.",
+              "Evitați frânarea bruscă pe frunzele ude.",
+              "Purtați jachetă și pantaloni de ploaie complet impermeabili.",
+              "Ștergeți șaua la fiecare oprire."
+            ],
+            "en": [
+              "Mudguards on your bike are a must in this weather.",
+              "Avoid sudden braking on wet leaves.",
+              "Wear a full rain suit including jacket and trousers.",
+              "Wipe your saddle dry at every stop."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintermärchen auf zwei Rädern. Starten Sie am gefrorenen See mit Spikereifen. Mittags bietet das Museum Wärme und Geschichte. Nachmittags radeln Sie durch das verschneite Kemijärvi zur beleuchteten Kirche. Die Tour nach Suomutunturi ist anspruchsvoll, belohnt aber mit fantastischen Winterlandschaften. Ein Fatbike ist für diese Bedingungen die ideale Wahl.",
+            "hu": "Téli mese két keréken. Kezdje a befagyott tónál szöges gumikkal. Délben a múzeum meleget és történelmet kínál. Délután tekerjen át a havas Kemijärvin a kivilágított templomig. A Suomutunturi túra nehéz, de fantasztikus téli tájjal jutalmaz. Egy fatbike ideális választás ezekre a körülményekre.",
+            "ro": "O poveste de iarnă pe două roți. Începeți pe lacul înghețat cu anvelope cu ținte. La prânz, muzeul oferă căldură și istorie. După-amiaza pedalați prin Kemijärvi înzăpezit spre biserica luminată. Turul spre Suomutunturi este solicitant, dar oferă peisaje de iarnă superbe. Un fatbike este alegerea ideală.",
+            "en": "A winter fairytale on two wheels. Start on the frozen lake with studded tires. At noon, the museum offers warmth and history. In the afternoon, cycle through snowy Kemijärvi to the lit church. The Suomutunturi tour is challenging but rewards you with fantastic winter scenery. A fatbike is the ideal choice for these conditions."
+          },
+          "stops": [
+            {
+              "name": "Lake Pöyliöjärvi",
+              "tip_5lang": {
+                "de": "Fahren Sie nur auf festgetretenem Schnee.",
+                "hu": "Csak a letaposott havon közlekedjen.",
+                "ro": "Circulați doar pe zăpada bătătorită.",
+                "en": "Ride only on packed snow."
+              }
+            },
+            {
+              "name": "Snowmobile Museum",
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass das Schloss nicht einfriert.",
+                "hu": "Ügyeljen rá, hogy a lakat ne fagyjon be.",
+                "ro": "Asigurați-vă că nu îngheață antifurtul.",
+                "en": "Make sure your bike lock doesn't freeze."
+              }
+            },
+            {
+              "name": "Kemijärvi Cultural Centre",
+              "tip_5lang": {
+                "de": "Ein guter Ort, um die Finger aufzuwärmen.",
+                "hu": "Jó hely az ujjak felmelegítésére.",
+                "ro": "Un loc bun pentru a vă încălzi degetele.",
+                "en": "A good spot to warm up your fingers."
+              }
+            },
+            {
+              "name": "Kemijärvi Church",
+              "tip_5lang": {
+                "de": "Vorsicht vor Schneeverwehungen am Eingang.",
+                "hu": "Vigyázzon a hóátfúvásokkal a bejáratnál.",
+                "ro": "Atenție la troienele de zăpadă de la intrare.",
+                "en": "Watch out for snowdrifts at the entrance."
+              }
+            },
+            {
+              "name": "Shores of Lake Kemijärvi",
+              "tip_5lang": {
+                "de": "Wunderschön, aber sehr windig und kalt.",
+                "hu": "Gyönyörű, de nagyon szeles és hideg.",
+                "ro": "Frumos, dar foarte vântos și frig.",
+                "en": "Beautiful, but very windy and cold."
+              }
+            },
+            {
+              "name": "Suomutunturi",
+              "tip_5lang": {
+                "de": "Ziel für Hartgesottene; warm anziehen!",
+                "hu": "Kitartóknak ajánlott; öltözzön melegen!",
+                "ro": "Destinație pentru cei rezistenți; haine groase!",
+                "en": "Destination for the hardy; dress warmly!"
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Benutzen Sie Spikereifen oder ein Fatbike für Grip.",
+              "Halten Sie die Kette gut geölt gegen Streusalz.",
+              "Tragen Sie beheizbare Handschuhe für lange Fahrten.",
+              "Planen Sie die Rückkehr vor Einbruch der Dunkelheit (ca. 14:30 Uhr)."
+            ],
+            "hu": [
+              "Használjon szöges gumit vagy fatbike-ot a tapadáshoz.",
+              "Tartsa olajozottan a láncot az útszóró só ellen.",
+              "Hosszabb útra viseljen fűthető kesztyűt.",
+              "Tervezze meg a visszautat sötétedés előtt (kb. 14:30)."
+            ],
+            "ro": [
+              "Folosiți anvelope cu ținte sau un fatbike pentru aderență.",
+              "Mențineți lanțul bine uns împotriva sării de pe drum.",
+              "Purtați mănuși încălzite pentru drumuri lungi.",
+              "Plănuiți întoarcerea înainte de lăsarea întunericului (cca. 14:30)."
+            ],
+            "en": [
+              "Use studded tires or a fatbike for better grip.",
+              "Keep the chain well-oiled against road salt.",
+              "Wear heated gloves for longer rides.",
+              "Plan to return before darkness sets in (around 2:30 PM)."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1038,6 +1384,188 @@
           "Plan for extra time for unforeseen photo stops.",
           "A GPS or an offline map is essential."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Auto ist heute Ihr bester Freund. Nach dem Parken im Zentrum besuchen Sie die Galerie und die Kirche fast trocken. Die Fahrt zum Kotavaara-Turm bietet trotz Regen weite Ausblicke über die wolkenverhangenen Wälder. Den Nachmittag verbringen Sie im Skigebiet Suomutunturi und beenden den Tag entspannt am Ufer des Kemijärvi-Sees im Schutz Ihres Fahrzeugs.",
+            "hu": "Ma az autó a legjobb barátja. A központi parkolás után szinte szárazon látogathatja meg a galériát és a templomot. A Kotavaara-toronyhoz vezető út esőben is szép kilátást nyújt a felhős erdőkre. A délutánt a Suomutunturi síközpontban töltheti, majd a napot a Kemijärvi-tó partján, az autó védelmében zárhatja.",
+            "ro": "Mașina este cel mai bun prieten astăzi. După parcare, vizitați galeria și biserica aproape uscat. Drumul spre turnul Kotavaara oferă priveliști vaste peste pădurile acoperite de nori. După-amiaza o petreceți la Suomutunturi și încheiați ziua relaxat pe malul lacului Kemijärvi, protejat de vehicul.",
+            "en": "The car is your best friend today. After parking centrally, you can visit the gallery and church almost dry. The drive to Kotavaara tower offers vast views of cloud-covered forests despite the rain. Spend the afternoon at Suomutunturi resort and end the day relaxed by Lake Kemijärvi, protected inside your vehicle."
+          },
+          "stops": [
+            {
+              "name": "Parking in the Center",
+              "tip_5lang": {
+                "de": "Zentraler Ausgangspunkt, nah an allen Indoor-Zielen.",
+                "hu": "Központi kiindulópont, közel a beltéri célokhoz.",
+                "ro": "Punct central de plecare, aproape de obiectivele interioare.",
+                "en": "Central starting point, close to all indoor stops."
+              }
+            },
+            {
+              "name": "Wood Sculpture Gallery",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Parkplatz.",
+                "hu": "Rövid séta a parkolótól.",
+                "ro": "Scurtă plimbare de la parcare.",
+                "en": "Short walk from the parking lot."
+              }
+            },
+            {
+              "name": "Kemijärvi Church",
+              "tip_5lang": {
+                "de": "Parkplätze direkt vor dem Eingang.",
+                "hu": "Parkolóhelyek közvetlenül a bejáratnál.",
+                "ro": "Locuri de parcare chiar în fața intrării.",
+                "en": "Parking spaces right in front of the entrance."
+              }
+            },
+            {
+              "name": "Kotavaara Observation Tower",
+              "tip_5lang": {
+                "de": "Die Auffahrt kann bei Starkregen rutschig sein.",
+                "hu": "Az emelkedő heves esőben csúszós lehet.",
+                "ro": "Urcarea poate fi alunecoasă pe ploaie torențială.",
+                "en": "The climb can be slippery in heavy rain."
+              }
+            },
+            {
+              "name": "Suomutunturi",
+              "tip_5lang": {
+                "de": "Ideal für eine Kaffeepause im Trockenen.",
+                "hu": "Ideális egy száraz kávészünethez.",
+                "ro": "Ideal pentru o pauză de cafea la adăpost.",
+                "en": "Ideal for a dry coffee break."
+              }
+            },
+            {
+              "name": "Lake Kemijärvi",
+              "tip_5lang": {
+                "de": "Genießen Sie die Aussicht aus dem warmen Auto.",
+                "hu": "Élvezze a kilátást a meleg autóból.",
+                "ro": "Bucurați-vă de priveliște din mașina caldă.",
+                "en": "Enjoy the view from the warm car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vorsicht vor Rentieren, die bei Regen oft auf der Straße stehen.",
+              "Stellen Sie sicher, dass Ihre Scheibenwischer einwandfrei funktionieren.",
+              "Nutzen Sie die Sitzheizung, um nach kurzen Stopps warm zu werden.",
+              "Vermeiden Sie unbefestigte Waldwege, die aufweichen könnten."
+            ],
+            "hu": [
+              "Vigyázzon a rénszarvasokra, esőben gyakran az úton állnak.",
+              "Ellenőrizze, hogy az ablaktörlők tökéletesen működnek-e.",
+              "Használja az ülésfűtést a gyors felmelegedéshez.",
+              "Kerülje a kimosódott, felázott erdei utakat."
+            ],
+            "ro": [
+              "Atenție la reni, adesea stau pe drum când plouă.",
+              "Asigurați-vă că ștergătoarele funcționează impecabil.",
+              "Folosiți încălzirea în scaune pentru a vă încălzi rapid.",
+              "Evitați drumurile forestiere neasfaltate care pot fi moi."
+            ],
+            "en": [
+              "Watch out for reindeer; they often stand on the road in the rain.",
+              "Ensure your windshield wipers are working perfectly.",
+              "Use seat heaters to warm up quickly after short stops.",
+              "Avoid unpaved forest roads that might become soft."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein komfortables Winterabenteuer. Morgens parken Sie im verschneiten Zentrum. Die Fahrt zum Kotavaara-Turm ist bei Schnee eine Herausforderung, aber die Aussicht auf die weiße Wildnis ist unbezahlbar. Nachmittags erreichen Sie das Skigebiet Suomutunturi, ein Paradies für Wintersportler. Den Tag beschließen Sie am Kemijärvi-See, wo Sie im Auto auf das Polarlicht warten können.",
+            "hu": "Kényelmes téli kaland. Reggel parkoljon a havas központban. A Kotavaara-toronyhoz vezető út hóban kihívás, de a fehér vadon látványa megfizethetetlen. Délután érje el Suomutunturi síközpontját, a télisportok paradicsomát. A napot a Kemijärvi-tónál zárja, ahol az autóban várakozhat a sarki fényre.",
+            "ro": "O aventură confortabilă de iarnă. Dimineața parcați în centrul înzăpezit. Drumul spre Kotavaara este o provocare pe zăpadă, dar priveliștea este neprețuită. După-amiaza ajungeți la Suomutunturi, un paradis pentru sporturile de iarnă. Încheiați ziua la lacul Kemijärvi, așteptând aurora boreală din mașină.",
+            "en": "A comfortable winter adventure. In the morning, park in the snowy center. The drive to Kotavaara tower is a challenge in the snow, but the view of the white wilderness is priceless. In the afternoon, reach the Suomutunturi ski resort, a winter sports paradise. End the day at Lake Kemijärvi, waiting for the aurora from your car."
+          },
+          "stops": [
+            {
+              "name": "Parking in the Center",
+              "tip_5lang": {
+                "de": "Parkplatz oft schneebedeckt; Vorsicht beim Rangieren.",
+                "hu": "A parkoló gyakran havas; vigyázzon a manőverezésnél.",
+                "ro": "Parcare adesea înzăpezită; atenție la manevre.",
+                "en": "Parking lot often snowy; be careful when maneuvering."
+              }
+            },
+            {
+              "name": "Wood Sculpture Gallery",
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor nicht unnötig laufen.",
+                "hu": "Ne járassa feleslegesen a motort.",
+                "ro": "Nu lăsați motorul pornit inutil.",
+                "en": "Don't leave the engine idling unnecessarily."
+              }
+            },
+            {
+              "name": "Kemijärvi Church",
+              "tip_5lang": {
+                "de": "Wunderschön beleuchtet während der Polarnacht.",
+                "hu": "Gyönyörű kivilágítás a sarkvidéki éjszakában.",
+                "ro": "Iluminat superb în timpul nopții polare.",
+                "en": "Beautifully lit during the polar night."
+              }
+            },
+            {
+              "name": "Kotavaara Observation Tower",
+              "tip_5lang": {
+                "de": "Allradantrieb für die Auffahrt empfohlen.",
+                "hu": "Összkerékhajtás ajánlott az emelkedőhöz.",
+                "ro": "Tracțiune integrală recomandată pentru urcare.",
+                "en": "Four-wheel drive recommended for the climb."
+              }
+            },
+            {
+              "name": "Suomutunturi",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Skilift oder Restaurant.",
+                "hu": "Parkoljon a sílift vagy az étterem közelében.",
+                "ro": "Parcați aproape de teleski sau restaurant.",
+                "en": "Park close to the ski lift or restaurant."
+              }
+            },
+            {
+              "name": "Lake Kemijärvi",
+              "tip_5lang": {
+                "de": "Perfekter Ort für 'Aurora-Hunting' im Auto.",
+                "hu": "Tökéletes hely sarki fény vadászathoz az autóból.",
+                "ro": "Locul perfect pentru vânătoarea de aurore din mașină.",
+                "en": "Perfect spot for 'Aurora hunting' from the car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen mit Spikes sind in Lappland ein Muss.",
+              "Prüfen Sie den Frostschutz in der Scheibenwaschanlage.",
+              "Führen Sie eine Schaufel und ein Abschleppseil mit.",
+              "Nutzen Sie Motorvorwärmer, falls am Parkplatz vorhanden."
+            ],
+            "hu": [
+              "A szöges téli gumi alapfelszerelés Lappföldön.",
+              "Ellenőrizze a fagyállót a szélvédőmosóban.",
+              "Legyen az autóban hólapát és vontatókötél.",
+              "Használja a motor-előmelegítőt, ha van csatlakozó."
+            ],
+            "ro": [
+              "Anvelopele de iarnă cu ținte sunt obligatorii în Laponia.",
+              "Verificați antigelul din lichidul de parbriz.",
+              "Aveți la bord o lopată de zăpadă și o șufă de remorcare.",
+              "Folosiți preîncălzitorul de motor dacă parcare are prize."
+            ],
+            "en": [
+              "Winter tires with studs are a must in Lapland.",
+              "Check the antifreeze level in your windshield wash.",
+              "Keep a snow shovel and tow rope in the car.",
+              "Use engine pre-heaters if available at the parking spot."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1369,6 +1897,170 @@
           "Be at the bus stop on time, especially in rural areas.",
           "Some buses may only accept cash."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Bus bietet heute einen trockenen Transport zwischen den Highlights. Starten Sie am Busbahnhof und fahren Sie zum Schneemobil-Museum. Mittags bringt Sie der Bus zur Kirche im Stadtzentrum. Den Nachmittag verbringen Sie am Pöyliöjärvi-See, wobei Sie die kurzen Wege zwischen Haltestelle und Ufer nutzen. Den Abschluss bildet das Kulturzentrum, bevor Sie zurückfahren.",
+            "hu": "A busz ma száraz közlekedést biztosít a látnivalók között. Kezdje az állomáson, és utazzon a hómobil múzeumhoz. Délben a busz a belvárosi templomhoz viszi. A délutánt a Pöyliöjärvi-tónál töltjük, kihasználva a megálló és a part közötti rövid utat. Végül a Kulturális Központot látogatjuk meg, mielőtt visszatérnénk.",
+            "ro": "Autobuzul oferă astăzi un transport uscat între obiective. Începeți la autogară și mergeți la Muzeul de Motosante. La prânz, autobuzul vă duce la biserica din centru. După-amiaza o petreceți la lacul Pöyliöjärvi, folosind distanțele scurte de la stație. Finalizați la Centrul Cultural înainte de plecare.",
+            "en": "The bus offers dry transport between highlights today. Start at the station and ride to the Snowmobile Museum. At noon, take the bus to the central church. Spend the afternoon at Lake Pöyliöjärvi, using the short walks between stops and the shore. Finish at the Cultural Centre before heading back."
+          },
+          "stops": [
+            {
+              "name": "Central Bus Station",
+              "tip_5lang": {
+                "de": "Überdachter Wartebereich verfügbar.",
+                "hu": "Fedett várakozóhely áll rendelkezésre.",
+                "ro": "Zonă de așteptare acoperită disponibilă.",
+                "en": "Covered waiting area available."
+              }
+            },
+            {
+              "name": "Snowmobile Museum",
+              "tip_5lang": {
+                "de": "Kurzer, ungeschützter Weg von der Haltestelle.",
+                "hu": "Rövid, nem fedett út a megállótól.",
+                "ro": "Drum scurt, neacoperit de la stație.",
+                "en": "Short, unsheltered walk from the stop."
+              }
+            },
+            {
+              "name": "Kemijärvi Church",
+              "tip_5lang": {
+                "de": "Haltestelle fast direkt vor der Tür.",
+                "hu": "A megálló szinte közvetlenül az ajtó előtt van.",
+                "ro": "Stație aproape direct în fața ușii.",
+                "en": "The stop is almost right in front of the door."
+              }
+            },
+            {
+              "name": "Lake Pöyliöjärvi",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Rückfahrzeiten bei Regen.",
+                "hu": "Ellenőrizze a visszautat esős időben.",
+                "ro": "Verificați orele de retur pe ploaie.",
+                "en": "Check return times during rainy weather."
+              }
+            },
+            {
+              "name": "Kemijärvi Cultural Centre",
+              "tip_5lang": {
+                "de": "Idealer Ort, um auf den nächsten Bus zu warten.",
+                "hu": "Ideális hely a következő busz megvárására.",
+                "ro": "Loc ideal pentru a aștepta următorul autobuz.",
+                "en": "Ideal place to wait for the next bus."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Haben Sie die Fahrplan-App für Echtzeit-Infos bereit.",
+              "Tragen Sie bei Wind an den Haltestellen eine Kapuze.",
+              "In Bussen kann es bei nasser Kleidung feucht-kalt sein.",
+              "Halten Sie Kleingeld oder eine Karte für das Ticket bereit."
+            ],
+            "hu": [
+              "Készítse elő a menetrend alkalmazást az infókhoz.",
+              "Viseljen kapucnit a szeles megállókban várakozva.",
+              "A buszokon a vizes ruha miatt nyirkos lehet a levegő.",
+              "Legyen kéznél aprópénz vagy kártya a jegyhez."
+            ],
+            "ro": [
+              "Aveți pregătită aplicația cu orarul în timp real.",
+              "Purtați glugă în stațiile de autobuz vântoase.",
+              "În autobuz poate fi umezeală din cauza hainelor ude.",
+              "Aveți pregătiți bani mărunți sau cardul pentru bilet."
+            ],
+            "en": [
+              "Have the schedule app ready for real-time info.",
+              "Wear a hood while waiting at windy bus stops.",
+              "Buses can feel humid when many passengers have wet clothes.",
+              "Keep change or a card ready for the bus ticket."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterkomfort im öffentlichen Nahverkehr. Vom warmen Busbahnhof geht es zum Schneemobil-Museum. Mittags bringt Sie der beheizte Bus ins Herz der Stadt zur Kirche. Den Nachmittag verbringen Sie am winterlichen Pöyliöjärvi-See, bevor Sie sich im Kulturzentrum aufwärmen. Die kurzen Wege zwischen den Haltestellen minimieren die Zeit in der klirrenden Kälte.",
+            "hu": "Téli kényelem a tömegközlekedésben. A meleg állomásról induljon a hómobil múzeumba. Délben a fűtött busz a város szívébe, a templomhoz viszi. A délutánt a téli Pöyliöjärvi-tónál töltjük, majd a Kulturális Központban melegedünk fel. A megállók közötti rövid távolságok minimalizálják a metsző hidegben töltött időt.",
+            "ro": "Confort de iarnă în transportul public. De la autogara călduroasă mergeți la Muzeul de Motosante. La prânz, autobuzul încălzit vă duce în inima orașului. După-amiaza o petreceți la lacul înghețat Pöyliöjärvi, apoi vă încălziți la Centrul Cultural. Distanțele scurte dintre stații reduc timpul petrecut în ger.",
+            "en": "Winter comfort in public transit. From the warm bus station, head to the Snowmobile Museum. At noon, the heated bus takes you to the heart of the city and the church. Spend the afternoon at the wintry Lake Pöyliöjärvi before warming up at the Cultural Centre. Short walks between stops minimize your time in the biting cold."
+          },
+          "stops": [
+            {
+              "name": "Central Bus Station",
+              "tip_5lang": {
+                "de": "Ein beheizter Warteraum ist vorhanden.",
+                "hu": "Fűtött váróterem áll rendelkezésre.",
+                "ro": "Sală de așteptare încălzită disponibilă.",
+                "en": "A heated waiting room is available."
+              }
+            },
+            {
+              "name": "Snowmobile Museum",
+              "tip_5lang": {
+                "de": "Vorsicht vor Schneehaufen an der Haltestelle.",
+                "hu": "Vigyázzon a hókupacokkal a megállónál.",
+                "ro": "Atenție la mormanele de zăpadă din stație.",
+                "en": "Watch out for snow piles at the stop."
+              }
+            },
+            {
+              "name": "Kemijärvi Church",
+              "tip_5lang": {
+                "de": "Der Weg ist meist gut geräumt.",
+                "hu": "Az utat általában jól letakarítják.",
+                "ro": "Drumul este de obicei bine deszăpezit.",
+                "en": "The path is usually well-cleared of snow."
+              }
+            },
+            {
+              "name": "Lake Pöyliöjärvi",
+              "tip_5lang": {
+                "de": "Bei extremer Kälte fährt der Bus seltener.",
+                "hu": "Extrém hidegben a busz ritkábban járhat.",
+                "ro": "Pe ger extrem, autobuzul poate circula mai rar.",
+                "en": "Buses may run less frequently in extreme cold."
+              }
+            },
+            {
+              "name": "Kemijärvi Cultural Centre",
+              "tip_5lang": {
+                "de": "Warmer Rückzugsort am späten Nachmittag.",
+                "hu": "Meleg menedék késő délután.",
+                "ro": "Refugiu călduros la sfârșitul după-amiezii.",
+                "en": "Warm retreat in the late afternoon."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Planen Sie Pufferzeiten für witterungsbedingte Verspätungen ein.",
+              "Bewegen Sie sich an der Haltestelle, um warm zu bleiben.",
+              "Nutzen Sie die Wärme im Bus für kurze Ruhepausen.",
+              "Tragen Sie feste Winterstiefel mit gutem Profil."
+            ],
+            "hu": [
+              "Tervezzen be plusz időt az időjárás miatti késésekre.",
+              "Mozogjon a megállóban, hogy ne fázzon meg.",
+              "Használja ki a busz melegét a rövid pihenőkhöz.",
+              "Viseljen stabil, jó tapadású téli bakancsot."
+            ],
+            "ro": [
+              "Alocați timp suplimentar pentru eventuale întârzieri.",
+              "Mișcați-vă în stație pentru a vă menține căldura.",
+              "Folosiți căldura din autobuz pentru scurte pauze.",
+              "Purtați cizme de iarnă solide, cu talpă aderentă."
+            ],
+            "en": [
+              "Plan extra time for weather-related delays.",
+              "Keep moving at the bus stop to stay warm.",
+              "Take advantage of the bus's warmth for short rests.",
+              "Wear sturdy winter boots with good tread."
+            ]
+          }
+        }
       }
     }
   }

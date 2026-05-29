@@ -3,234 +3,222 @@
   "anchor": {
     "name": "Farsund",
     "coords": [
-      6.8,
-      58.09
+      58.095,
+      6.805
     ]
   },
   "modes": {
     "walk": {
       "mode": "walk",
-      "speed_kmh": 3,
+      "speed_kmh": 3.5,
       "start": "09:00",
-      "end_estimate": "17:05",
-      "total_km": 0.6,
-      "stop_count": 5,
+      "end_estimate": "14:45",
+      "total_km": 2.2,
+      "stop_count": 6,
       "stops": [
         {
-          "name": {
-            "de": "Hafen von Farsund (Gästehafen)",
-            "hu": "Farsundi kikötő (Gjestehavn)",
-            "ro": "Portul de oaspeți din Farsund",
-            "en": "Farsund Guest Harbour"
-          },
+          "name": "Farsund Gästehafen",
           "coords": [
-            6.802,
-            58.091
+            58.0955,
+            6.8062
           ],
           "category": "port",
           "arrive_at": "09:10",
-          "stay_min": 40,
-          "hop_mode": "walk",
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.0,
-          "tip_4lang": {
-            "de": "Beginnen Sie den Tag mit einem Kaffee und beobachten Sie die Boote.",
-            "hu": "Indítsa a napot egy kávéval a kikötőben, és figyelje a hajókat.",
-            "ro": "Începeți ziua cu o cafea privind bărcile din port.",
-            "en": "Start your day with a coffee while watching the boats."
+          "stay_min": 45,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beobachten Sie die einlaufenden Fischerboote am Morgen.",
+            "hu": "Figyelje meg a reggel befutó halászhajókat a kikötőben.",
+            "ro": "Priviți bărcile de pescuit care sosesc dimineața în port.",
+            "en": "Watch the fishing boats arriving in the harbor in the morning."
           }
         },
         {
-          "name": {
-            "de": "Husan",
-            "hu": "Husan",
-            "ro": "Husan",
-            "en": "Husan"
-          },
+          "name": "Husan (Rathaus)",
           "coords": [
-            6.803,
-            58.094
+            58.0965,
+            6.8045
           ],
           "category": "famous residences",
-          "arrive_at": "09:58",
+          "arrive_at": "10:05",
           "stay_min": 60,
-          "hop_mode": "walk",
-          "hop_from_prev_min": 8,
+          "hop_from_prev_min": 10,
           "hop_from_prev_km": 0.4,
-          "tip_4lang": {
-            "de": "Das schönste Rathaus Norwegens. Machen Sie Fotos von der Holzarchitektur.",
-            "hu": "Norvégia legszebb városháza. Készítsen fotókat a faépítészetről.",
-            "ro": "Cea mai frumoasă primărie din Norvegia. Fotografiați arhitectura din lemn.",
-            "en": "Norway's most beautiful town hall. Take pictures of the wooden architecture."
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieses historischen Holzgebäudes.",
+            "hu": "Csodálja meg ennek a történelmi faépületnek az építészetét.",
+            "ro": "Admirați arhitectura acestei clădiri istorice din lemn.",
+            "en": "Admire the architecture of this historic wooden building."
           }
         },
         {
-          "name": {
-            "de": "Kirche von Farsund",
-            "hu": "Farsundi templom",
-            "ro": "Biserica din Farsund",
-            "en": "Farsund Church"
-          },
+          "name": "Farsund Kirche",
           "coords": [
-            6.805,
-            58.093
+            58.0975,
+            6.8035
           ],
-          "category": "churches/cathedrals",
-          "arrive_at": "11:02",
+          "category": "churches",
+          "arrive_at": "11:15",
           "stay_min": 40,
-          "hop_mode": "walk",
-          "hop_from_prev_min": 4,
-          "hop_from_prev_km": 0.2,
-          "tip_4lang": {
-            "de": "Achten Sie auf das kreuzförmige Design und das Modellschiff im Inneren.",
-            "hu": "Figyelje meg a kereszt alakú elrendezést és a templomban lévő hajómodellt.",
-            "ro": "Observați designul în formă de cruce și modelul de navă din interior.",
-            "en": "Notice the cross-shaped design and the model ship inside."
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein ruhiger Ort für Besinnung mit schöner Innenausstattung.",
+            "hu": "Csendes hely az elmélyüléshez, szép belső térrel.",
+            "ro": "Un loc liniștit pentru reflecție, cu un interior frumos.",
+            "en": "A quiet place for reflection with a beautiful interior."
           }
         },
         {
-          "name": {
-            "de": "Spaziergang nach Loshavn",
-            "hu": "Séta Loshavn felé",
-            "ro": "Plimbare spre Loshavn",
-            "en": "Walk towards Loshavn"
-          },
+          "name": "Farsund Aussichtspunkt",
           "coords": [
-            6.83,
-            58.07
+            58.0985,
+            6.8015
           ],
-          "category": "squares/old-town",
-          "arrive_at": "12:42",
-          "stay_min": 120,
-          "hop_mode": "walk",
-          "hop_from_prev_min": 60,
-          "hop_from_prev_km": 3.0,
-          "tip_4lang": {
-            "de": "Ein langer, aber lohnender Spaziergang. Genießen Sie hier ein Mittagessen.",
-            "hu": "Hosszú, de megéri a fáradságot. Ebédeljen meg ebben a bájos faluban.",
-            "ro": "O plimbare lungă, dar plină de satisfacții. Savurați prânzul aici.",
-            "en": "A long but rewarding walk. Enjoy lunch in this charming village."
+          "category": "viewpoint",
+          "arrive_at": "12:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Perfekter Ort für ein Panoramafoto der Stadt und des Fjords.",
+            "hu": "Tökéletes hely egy panorámaképhez a városról és a fjordról.",
+            "ro": "Locul perfect pentru o fotografie panoramică a orașului și fjordului.",
+            "en": "Perfect spot for a panoramic photo of the city and the fjord."
           }
         },
         {
-          "name": {
-            "de": "Zurück zum Hafen",
-            "hu": "Vissza a kikötőbe",
-            "ro": "Înapoi în port",
-            "en": "Return to the Harbour"
-          },
+          "name": "Lokalaugust Restaurant",
           "coords": [
-            6.802,
-            58.091
+            58.0958,
+            6.8055
           ],
-          "category": "port",
-          "arrive_at": "16:22",
-          "stay_min": 43,
-          "hop_mode": "walk",
-          "hop_from_prev_min": -60,
-          "hop_from_prev_km": -3.0,
-          "tip_4lang": {
-            "de": "Lassen Sie den Tag am Wasser ausklingen und genießen Sie die Abendsonne.",
-            "hu": "Zárja a napot a vízparton, élvezve az esti napsütést.",
-            "ro": "Încheiați ziua pe malul apei, bucurându-vă de soarele de seară.",
-            "en": "End the day by the water, enjoying the evening sun."
+          "category": "gastro",
+          "arrive_at": "12:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Probieren Sie die frische norwegische Fischsuppe.",
+            "hu": "Kóstolja meg a friss norvég hallevest.",
+            "ro": "Gustați supa de pește norvegiană proaspătă.",
+            "en": "Try the fresh Norwegian fish soup."
+          }
+        },
+        {
+          "name": "Torvet (Marktplatz)",
+          "coords": [
+            58.0962,
+            6.8058
+          ],
+          "category": "squares",
+          "arrive_at": "14:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Genießen Sie die Atmosphäre des historischen Zentrums.",
+            "hu": "Élvezze a történelmi központ hangulatát.",
+            "ro": "Bucurați-vă de atmosfera centrului istoric.",
+            "en": "Enjoy the atmosphere of the historic center."
           }
         }
       ],
       "narrative_4lang": {
-        "de": "Ihr Tag in Farsund beginnt am lebhaften Gästehafen, wo die Meeresluft belebt. Sie spazieren durch das historische Zentrum und bewundern die prächtige Holzarchitektur von Husan und der Farsund Kirche. Am Nachmittag unternehmen Sie einen ausgedehnten Spaziergang zum malerischen Fischerdorf Loshavn, wo die Zeit stillzustehen scheint und Sie ein spätes Mittagessen genießen. Der Abend dämmert, während Sie zurück zum Hafen schlendern und die ruhige Atmosphäre auf sich wirken lassen.",
-        "hu": "Farsundi napja a nyüzsgő vendégkikötőben kezdődik, ahol a tengeri levegő felpezsdít. A történelmi központon keresztül sétálva megcsodálja a Husan és a Farsundi templom pompás faépítészetét. Délután egy hosszabb sétát tesz a festői Loshavn halászfaluhoz, ahol mintha megállt volna az idő, és elfogyaszt egy késői ebédet. Az este leszáll, miközben visszasétál a kikötőbe, hogy magába szívja a nyugodt légkört.",
-        "ro": "Ziua dvs. în Farsund începe în portul plin de viață, unde aerul mării este revigorant. Vă plimbați prin centrul istoric, admirând arhitectura magnifică din lemn a clădirii Husan și a bisericii din Farsund. După-amiaza, faceți o plimbare extinsă până la pitorescul sat pescăresc Loshavn, unde timpul pare să stea în loc și savurați un prânz târziu. Seara se lasă în timp ce vă întoarceți agale spre port, absorbind atmosfera liniștită.",
-        "en": "Your day in Farsund begins at the lively guest harbour, where the sea air is invigorating. You'll stroll through the historic centre, admiring the magnificent wooden architecture of Husan and Farsund Church. In the afternoon, you take an extended walk to the picturesque fishing village of Loshavn, where time seems to stand still, and enjoy a late lunch. Evening descends as you wander back to the harbour, soaking in the tranquil atmosphere."
+        "de": "Beginnen Sie Ihren Tag am lebhaften Gästehafen von Farsund, wo die Meeresbrise und die weißen Holzhäuser eine typisch norwegische Atmosphäre schaffen. Ein kurzer Spaziergang führt Sie zum Husan, einem prächtigen ehemaligen Wohnsitz, der heute als Rathaus dient. Nach dem Besuch der imposanten Steinkirche steigen Sie zu einem Aussichtspunkt auf, um den Blick über den Fjord zu genießen. Den Abschluss bildet ein köstliches Mittagessen mit lokalem Fang direkt am Wasser.",
+        "hu": "Kezdje a napot Farsund élettel teli vendégkikötőjében, ahol a tengeri szellő és a fehér faházak hamisítatlan norvég hangulatot árasztanak. Rövid séta vezet a Husanhoz, a pompás egykori rezidenciához, amely ma városházaként működik. Az impozáns kőtemplom megtekintése után másszon fel egy kilátópontra a fjord feletti panorámáért. A napot egy ízletes, helyi fogásokból álló ebéddel zárjuk közvetlenül a vízparton.",
+        "ro": "Începeți ziua în portul plin de viață din Farsund, unde briza mării și casele albe din lemn creează o atmosferă tipic norvegiană. O scurtă plimbare vă duce la Husan, o fostă reședință magnifică ce servește acum drept primărie. După vizitarea bisericii impunătoare din piatră, urcați la un punct de belvedere pentru a admira fiordul. Încheiați cu un prânz delicios cu pește local, chiar lângă apă.",
+        "en": "Start your day at Farsund's lively guest harbor, where the sea breeze and white wooden houses create a quintessentially Norwegian atmosphere. A short walk takes you to Husan, a magnificent former residence that now serves as the town hall. After visiting the imposing stone church, climb to a viewpoint for a panorama over the fjord. Finish with a delicious local catch lunch right by the water."
       },
       "gastro_picks": {
         "de": [
           {
-            "name": "Fischsuppe",
-            "tip": "Probieren Sie die lokale Spezialität in einem der Restaurants am Hafen, z.B. im Rederiet."
+            "name": "Fiskesuppe",
+            "tip": "Cremige norwegische Fischsuppe mit Garnelen."
           },
           {
-            "name": "Garnelen",
-            "tip": "Frisch vom Kutter, oft direkt am Kai erhältlich."
+            "name": "Lokalaugust",
+            "tip": "Bestes Fischrestaurant am Hafen."
           }
         ],
         "hu": [
           {
-            "name": "Halászlé",
-            "tip": "Kóstolja meg a helyi specialitást a kikötői éttermek egyikében, például a Rederiet-ben."
+            "name": "Fiskesuppe",
+            "tip": "Krémes norvég halleves garnélarákkal."
           },
           {
-            "name": "Garnélarák",
-            "tip": "Frissen a halászhajóról, gyakran közvetlenül a rakparton kapható."
+            "name": "Lokalaugust",
+            "tip": "A legjobb halas étterem a kikötőben."
           }
         ],
         "ro": [
           {
-            "name": "Supă de pește",
-            "tip": "Încercați specialitatea locală la unul dintre restaurantele din port, cum ar fi Rederiet."
+            "name": "Fiskesuppe",
+            "tip": "Supă de pește norvegiană cremoasă cu creveți."
           },
           {
-            "name": "Creveți",
-            "tip": "Proaspeți de pe vas, adesea disponibili direct pe chei."
+            "name": "Lokalaugust",
+            "tip": "Cel mai bun restaurant de pește din port."
           }
         ],
         "en": [
           {
-            "name": "Fish soup",
-            "tip": "Try the local specialty at one of the harbour restaurants, like Rederiet."
+            "name": "Fiskesuppe",
+            "tip": "Creamy Norwegian fish soup with shrimp."
           },
           {
-            "name": "Shrimps",
-            "tip": "Fresh from the boat, often available right on the quay."
+            "name": "Lokalaugust",
+            "tip": "Best fish restaurant in the harbor."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Loshavn",
-            "tip": "Die engen Gassen und alten Holzhäuser strahlen eine unglaubliche Ruhe aus.",
+            "name": "Kirchgarten",
+            "tip": "Ruhiger Park hinter der Kirche.",
             "emoji": "🧘"
           },
           {
-            "name": "Varbak",
-            "tip": "Ein kurzer Aufstieg zu einem Aussichtspunkt mit Blick über die Stadt und das Meer.",
+            "name": "Fjordblick",
+            "tip": "Stille am Aussichtspunkt.",
             "emoji": "🌅"
           }
         ],
         "hu": [
           {
-            "name": "Loshavn",
-            "tip": "A szűk sikátorok és a régi faházak hihetetlen nyugalmat árasztanak.",
+            "name": "Templomkert",
+            "tip": "Nyugodt park a templom mögött.",
             "emoji": "🧘"
           },
           {
-            "name": "Varbak",
-            "tip": "Egy rövid kaptató egy kilátóponthoz, ahonnan remek a kilátás a városra és a tengerre.",
+            "name": "Fjord-kilátó",
+            "tip": "Csend a kilátóponton.",
             "emoji": "🌅"
           }
         ],
         "ro": [
           {
-            "name": "Loshavn",
-            "tip": "Străduțele înguste și casele vechi din lemn emană o liniște incredibilă.",
+            "name": "Grădina bisericii",
+            "tip": "Parc liniștit în spatele bisericii.",
             "emoji": "🧘"
           },
           {
-            "name": "Varbak",
-            "tip": "O urcare scurtă către un punct de belvedere cu vedere asupra orașului și a mării.",
+            "name": "Belvedere Fiord",
+            "tip": "Liniște la punctul de observație.",
             "emoji": "🌅"
           }
         ],
         "en": [
           {
-            "name": "Loshavn",
-            "tip": "The narrow alleys and old wooden houses exude an incredible sense of peace.",
+            "name": "Church Garden",
+            "tip": "Quiet park behind the church.",
             "emoji": "🧘"
           },
           {
-            "name": "Varbak",
-            "tip": "A short climb to a viewpoint overlooking the town and the sea.",
+            "name": "Fjord Lookout",
+            "tip": "Silence at the viewpoint.",
             "emoji": "🌅"
           }
         ]
@@ -238,571 +226,1429 @@
       "shopping_picks": {
         "de": [
           {
-            "name": "Lokale Kunsthandwerksläden",
-            "tip": "In der Innenstadt finden Sie kleine Boutiquen mit norwegischem Design."
+            "name": "Sørlandsenteret",
+            "tip": "Lokale Produkte und Kleidung."
           }
         ],
         "hu": [
           {
-            "name": "Helyi kézműves boltok",
-            "tip": "A belvárosban norvég dizájnt kínáló kis butikokat talál."
+            "name": "Sørlandsenteret",
+            "tip": "Helyi termékek és ruházat."
           }
         ],
         "ro": [
           {
-            "name": "Magazine de artizanat local",
-            "tip": "În centrul orașului veți găsi mici buticuri care vând design norvegian."
+            "name": "Sørlandsenteret",
+            "tip": "Produse locale și îmbrăcăminte."
           }
         ],
         "en": [
           {
-            "name": "Local artisan shops",
-            "tip": "You'll find small boutiques selling Norwegian design in the town centre."
+            "name": "Sørlandsenteret",
+            "tip": "Local products and clothing."
           }
         ]
       },
       "tips": {
         "de": [
-          "Tragen Sie bequeme Schuhe, da der Spaziergang nach Loshavn lang ist.",
-          "Prüfen Sie die Wettervorhersage; das Küstenwetter kann sich schnell ändern.",
-          "Nehmen Sie eine wiederverwendbare Wasserflasche mit.",
-          "Viele Geschäfte schließen früh, planen Sie also eventuelle Einkäufe für den Vormittag ein."
+          "Tragen Sie bequeme Schuhe für die Hügel.",
+          "Das Wetter kann sich am Fjord schnell ändern.",
+          "Die meisten Sehenswürdigkeiten sind nah beieinander."
         ],
         "hu": [
-          "Viseljen kényelmes cipőt, mivel a séta Loshavnba hosszú.",
-          "Ellenőrizze az időjárás-előrejelzést; a tengerparti időjárás gyorsan változhat.",
-          "Vigyen magával újratölthető vizes palackot.",
-          "Sok üzlet korán bezár, ezért a vásárlást délelőttre tervezze."
+          "Viseljen kényelmes cipőt a dombok miatt.",
+          "Az időjárás gyorsan változhat a fjordnál.",
+          "A legtöbb látnivaló közel van egymáshoz."
         ],
         "ro": [
-          "Purtați încălțăminte confortabilă, deoarece plimbarea până la Loshavn este lungă.",
-          "Verificați prognoza meteo; vremea de coastă se poate schimba rapid.",
-          "Luați cu dumneavoastră o sticlă de apă reutilizabilă.",
-          "Multe magazine închid devreme, așa că planificați-vă cumpărăturile pentru dimineață."
+          "Purtați încălțăminte confortabilă pentru dealuri.",
+          "Vremea se poate schimba rapid la fiord.",
+          "Cele mai multe atracții sunt aproape una de alta."
         ],
         "en": [
-          "Wear comfortable shoes as the walk to Loshavn is long.",
-          "Check the weather forecast; coastal weather can change quickly.",
-          "Bring a reusable water bottle.",
-          "Many shops close early, so plan any shopping for the morning."
+          "Wear comfortable shoes for the hills.",
+          "The weather can change quickly at the fjord.",
+          "Most sights are close to each other."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgendlicher Start am nebligen Hafen, wo das Prasseln des Regens auf die Boote die Tour einleitet. Mittags bieten Husan und die Kirche von Farsund ideale trockene Rückzugsorte. Am Nachmittag führt der Weg nach Loshavn entlang der windgepeitschten Küste. Den Abend lassen wir bei einem Heißgetränk im Stadtzentrum ausklingen, während die Gassen im Regen glänzen.",
+            "hu": "A reggel a ködös kikötőben indul, ahol az eső kopogása festi alá a hangulatot. Délben a Husan és a farsundi templom nyújt menedéket a csapadék elől. Délután Loshavn felé vesszük az irányt a szeles part mentén, vízhatlan öltözetben. Az estét a városközpont egyik meleg kávézójában zárjuk, figyelve a vizes aszfalt csillogását.",
+            "ro": "Dimineața începe în portul învăluit în ceață, sub sunetul ploii care bate în bărci. La prânz, Husan și Biserica din Farsund oferă refugii uscate perfecte. După-amiaza, plimbarea spre Loshavn continuă de-a lungul coastei bătute de vânt. Seara se încheie cu o băutură caldă în centrul orașului, admirând reflexiile luminilor pe străzile umede.",
+            "en": "Morning starts at the misty harbour with rain pattering on the boats. At noon, Husan and Farsund Church provide perfect dry shelters for exploration. In the afternoon, the walk towards Loshavn follows the windswept coastline. The evening concludes with a warm drink in the city centre as the streets glisten under the rain."
+          },
+          "stops": [
+            {
+              "name": "Farsund Guest Harbour",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den Vordächern der Hafenmauer.",
+                "hu": "Keressen menedéket a kikötői épületek ereszei alatt.",
+                "ro": "Căutați adăpost sub streșinile clădirilor din port.",
+                "en": "Seek shelter under the eaves of the harbour buildings."
+              }
+            },
+            {
+              "name": "Husan",
+              "tip_5lang": {
+                "de": "Perfekt, um die Architektur im Trockenen zu bewundern.",
+                "hu": "Tökéletes helyszín az építészet szárazon történő megcsodálásához.",
+                "ro": "Perfect pentru a admira arhitectura la adăpost de ploaie.",
+                "en": "Perfect for admiring architecture while staying dry."
+              }
+            },
+            {
+              "name": "Farsund Church",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Stille im Inneren für eine Regenpause.",
+                "hu": "Használja ki a benti csendet egy rövid esőszünetre.",
+                "ro": "Folosiți liniștea din interior pentru o pauză de ploaie.",
+                "en": "Use the indoor silence for a quick rain break."
+              }
+            },
+            {
+              "name": "Walk towards Loshavn",
+              "tip_5lang": {
+                "de": "Vorsicht auf rutschigen Felsen am Küstenpfad.",
+                "hu": "Vigyázat, a tengerparti ösvény sziklái csúszósak lehetnek.",
+                "ro": "Atenție la stâncile alunecoase de pe poteca de coastă.",
+                "en": "Watch out for slippery rocks on the coastal path."
+              }
+            },
+            {
+              "name": "Return to the Harbour",
+              "tip_5lang": {
+                "de": "Trocknen Sie Ihre Ausrüstung in einem nahen Café.",
+                "hu": "Szárítsa meg felszerelését egy közeli kávézóban.",
+                "ro": "Uscați-vă echipamentul într-o cafenea din apropiere.",
+                "en": "Dry your gear in a nearby cafe."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie hochwertige Gore-Tex-Kleidung für den Küstenwind.",
+              "Die Hafenstege können bei Nässe sehr rutschig sein.",
+              "Husan bietet ausgezeichneten Schutz vor plötzlichen Schauern.",
+              "Ein kleiner Regenschirm ist im Stadtzentrum praktischer als ein Cape.",
+              "Prüfen Sie die Windvorhersage für den Abschnitt nach Loshavn."
+            ],
+            "hu": [
+              "Viseljen minőségi Gore-Tex ruházatot a tengerparti szél miatt.",
+              "A kikötői pallók nedvesen rendkívül csúszósak lehetnek.",
+              "A Husan kiváló védelmet nyújt a hirtelen záporok elől.",
+              "A városközpontban egy kisebb esernyő praktikusabb, mint az esőkabát.",
+              "Ellenőrizze a széljelentést a Loshavn felé vezető szakaszon."
+            ],
+            "ro": [
+              "Purtați haine de calitate din Gore-Tex pentru vântul de coastă.",
+              "Pontoanele din port pot fi foarte alunecoase când sunt ude.",
+              "Husan oferă un adăpost excelent împotriva averselor bruște.",
+              "O umbrelă mică este mai practică în centrul orașului decât o pelerină.",
+              "Verificați prognoza vântului pentru porțiunea spre Loshavn."
+            ],
+            "en": [
+              "Wear high-quality Gore-Tex clothing for the coastal wind.",
+              "The harbour docks can be very slippery when wet.",
+              "Husan offers excellent shelter from sudden showers.",
+              "A small umbrella is more practical in the city centre than a poncho.",
+              "Check the wind forecast for the section towards Loshavn."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen am glitzernden Hafen von Farsund. Mittags erkunden wir die historischen Räume von Husan, die im Winterlicht besonders stimmungsvoll wirken. Am Nachmittag genießen wir die blaue Stunde auf dem Weg nach Loshavn, bevor die frühe Dunkelheit einsetzt. Der Abend endet gemütlich bei Kerzenschein in der Stadt.",
+            "hu": "Deres reggel Farsund csillogó kikötőjében. Délben a Husan történelmi termeit járjuk be, melyek a téli fényben különösen hangulatosak. Délután a kék órát élvezzük a Loshavn felé vezető úton, mielőtt beállna a korai sötétség. Az este gyertyafényes, meghitt hangulatban zárul a városban.",
+            "ro": "O dimineață gerosă în portul sclipitor din Farsund. La prânz explorăm sălile istorice din Husan, care par deosebit de atmosferice în lumina iernii. După-amiaza ne bucurăm de ora albastră pe drumul spre Loshavn, înainte de lăsarea întunericului. Seara se încheie confortabil, la lumina lumânărilor, în oraș.",
+            "en": "A frosty morning at Farsund's glistening harbour. At noon, we explore the historic rooms of Husan, which look particularly atmospheric in the winter light. In the afternoon, we enjoy the blue hour on the way to Loshavn before the early darkness sets in. The evening ends cozily by candlelight in the city."
+          },
+          "stops": [
+            {
+              "name": "Farsund Guest Harbour",
+              "tip_5lang": {
+                "de": "Vorsicht vor Glatteis auf den Holzstegen.",
+                "hu": "Vigyázat a fapallókon kialakuló jégréteggel.",
+                "ro": "Atenție la poleiul de pe pontoanele de lemn.",
+                "en": "Beware of black ice on the wooden docks."
+              }
+            },
+            {
+              "name": "Husan",
+              "tip_5lang": {
+                "de": "Genießen Sie die Wärme im Inneren dieses Prachtbaus.",
+                "hu": "Élvezze a benti meleget ebben a pompás épületben.",
+                "ro": "Bucurați-vă de căldura din interiorul acestei clădiri superbe.",
+                "en": "Enjoy the warmth inside this magnificent building."
+              }
+            },
+            {
+              "name": "Farsund Church",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort für Besinnung an kalten Tagen.",
+                "hu": "Csendes hely az elmélyüléshez a hideg napokon.",
+                "ro": "Un loc liniștit pentru reflecție în zilele reci.",
+                "en": "A quiet place for reflection on cold days."
+              }
+            },
+            {
+              "name": "Walk towards Loshavn",
+              "tip_5lang": {
+                "de": "Beachten Sie den frühen Sonnenuntergang gegen 15:30 Uhr.",
+                "hu": "Ügyeljen a korai naplementére 15:30 körül.",
+                "ro": "Atenție la apusul timpuriu în jurul orei 15:30.",
+                "en": "Mind the early sunset around 15:30."
+              }
+            },
+            {
+              "name": "Return to the Harbour",
+              "tip_5lang": {
+                "de": "Reflektoren an der Kleidung erhöhen die Sicherheit.",
+                "hu": "A ruházaton lévő fényvisszaverők növelik a biztonságot.",
+                "ro": "Elementele reflectorizante pe haine sporesc siguranța.",
+                "en": "Reflectors on clothing increase safety in the dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermounterwäsche und mehrere Schichten (Zwiebelprinzip).",
+              "Spikes für die Schuhe sind bei vereisten Wegen sehr hilfreich.",
+              "Die Sonne geht im Winter extrem früh unter, planen Sie das ein.",
+              "Küstennähe bedeutet oft eisigen Wind; schützen Sie Ihr Gesicht.",
+              "Wärmen Sie sich zwischendurch in öffentlichen Gebäuden auf."
+            ],
+            "hu": [
+              "Viseljen termikus alsóneműt és több réteg ruhát.",
+              "A cipőre csatolható csúszásgátló tüskék hasznosak a jeges utakon.",
+              "Télen a nap nagyon korán nyugszik, tervezze ehhez az útvonalat.",
+              "A part közelsége jeges szelet jelent; védje az arcát.",
+              "Melegedjen fel időnként a nyilvános épületekben."
+            ],
+            "ro": [
+              "Purtați lenjerie termică și mai multe straturi de haine.",
+              "Crampoanele pentru pantofi sunt utile pe potecile înghețate.",
+              "Soarele apune extrem de devreme iarna, planificați în consecință.",
+              "Apropierea de coastă înseamnă vânt înghețat; protejați-vă fața.",
+              "Încălziți-vă periodic în clădirile publice."
+            ],
+            "en": [
+              "Wear thermal underwear and use the layering principle.",
+              "Shoe spikes are very helpful on icy coastal paths.",
+              "The sun sets extremely early in winter, plan your route accordingly.",
+              "Being near the coast means icy winds; protect your face.",
+              "Warm up periodically in public buildings."
+            ]
+          }
+        }
       }
     },
     "bike": {
       "mode": "bike",
-      "speed_kmh": 10,
+      "speed_kmh": 12,
       "start": "09:00",
-      "end_estimate": "17:15",
-      "total_km": 15.5,
+      "end_estimate": "15:30",
+      "total_km": 14.5,
       "stop_count": 6,
       "stops": [
         {
-          "name": {
-            "de": "Hafen von Farsund",
-            "hu": "Farsundi kikötő",
-            "ro": "Portul Farsund",
-            "en": "Farsund Harbour"
-          },
+          "name": "Farsund Hafen",
           "coords": [
-            6.802,
-            58.091
+            58.0955,
+            6.8062
           ],
           "category": "port",
           "arrive_at": "09:10",
           "stay_min": 30,
-          "hop_mode": "bike",
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.0,
-          "tip_4lang": {
-            "de": "Holen Sie sich Ihr Fahrrad und genießen Sie die frische Meeresbrise.",
-            "hu": "Vegye át a kerékpárt, és élvezze a friss tengeri szellőt.",
-            "ro": "Luați-vă bicicleta și bucurați-vă de briza proaspătă a mării.",
-            "en": "Pick up your bike and enjoy the fresh sea breeze."
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Startpunkt der Tour.",
+            "hu": "A túra kiindulópontja.",
+            "ro": "Punctul de plecare al turului.",
+            "en": "Starting point of the tour."
           }
         },
         {
-          "name": {
-            "de": "Husan und Farsund Kirche",
-            "hu": "Husan és Farsundi templom",
-            "ro": "Husan și Biserica Farsund",
-            "en": "Husan and Farsund Church"
-          },
+          "name": "Bøensbakken",
           "coords": [
-            6.804,
-            58.094
-          ],
-          "category": "famous residences",
-          "arrive_at": "09:46",
-          "stay_min": 70,
-          "hop_mode": "bike",
-          "hop_from_prev_min": 6,
-          "hop_from_prev_km": 1.0,
-          "tip_4lang": {
-            "de": "Stellen Sie Ihr Fahrrad ab und erkunden Sie diese beiden nahe gelegenen Juwelen zu Fuß.",
-            "hu": "Parkolja le a kerékpárt, és fedezze fel gyalog ezt a két közeli ékszert.",
-            "ro": "Parcați bicicleta și explorați pe jos aceste două bijuterii din apropiere.",
-            "en": "Park your bike and explore these two nearby gems on foot."
-          }
-        },
-        {
-          "name": {
-            "de": "Radtour nach Vanse",
-            "hu": "Kerékpártúra Vanse-ba",
-            "ro": "Tur cu bicicleta la Vanse",
-            "en": "Bike ride to Vanse"
-          },
-          "coords": [
-            6.68,
-            58.1
-          ],
-          "category": "squares/old-town",
-          "arrive_at": "11:31",
-          "stay_min": 80,
-          "hop_mode": "bike",
-          "hop_from_prev_min": 35,
-          "hop_from_prev_km": 6.0,
-          "tip_4lang": {
-            "de": "Vanse hat eine starke amerikanische Verbindung. Suchen Sie nach amerikanischen Flaggen und Diners.",
-            "hu": "Vanse erős amerikai kötődéssel rendelkezik. Keressen amerikai zászlókat és étkezdéket.",
-            "ro": "Vanse are o puternică legătură americană. Căutați steaguri americane și restaurante tipice.",
-            "en": "Vanse has a strong American connection. Look for American flags and diners."
-          }
-        },
-        {
-          "name": {
-            "de": "Loshavn",
-            "hu": "Loshavn",
-            "ro": "Loshavn",
-            "en": "Loshavn"
-          },
-          "coords": [
-            6.83,
-            58.07
-          ],
-          "category": "squares/old-town",
-          "arrive_at": "13:41",
-          "stay_min": 90,
-          "hop_mode": "bike",
-          "hop_from_prev_min": 50,
-          "hop_from_prev_km": 8.0,
-          "tip_4lang": {
-            "de": "Die Fahrt ist hügelig, aber die Aussicht und das Dorf sind es wert. Zeit fürs Mittagessen!",
-            "hu": "Az út dombos, de a kilátás és a falu megéri. Itt az ebédidő!",
-            "ro": "Drumul este deluros, dar priveliștea și satul merită. Timp pentru prânz!",
-            "en": "The ride is hilly, but the views and the village are worth it. Time for lunch!"
-          }
-        },
-        {
-          "name": {
-            "de": "Bøensbakken Aussichtspunkt",
-            "hu": "Bøensbakken kilátó",
-            "ro": "Punctul de belvedere Bøensbakken",
-            "en": "Bøensbakken Viewpoint"
-          },
-          "coords": [
-            6.79,
-            58.08
+            58.1105,
+            6.7802
           ],
           "category": "natural features",
-          "arrive_at": "15:23",
-          "stay_min": 30,
-          "hop_mode": "bike",
-          "hop_from_prev_min": 12,
-          "hop_from_prev_km": 2.0,
-          "tip_4lang": {
-            "de": "Ein kurzer Stopp für einen atemberaubenden Blick auf die Küste auf dem Rückweg nach Farsund.",
-            "hu": "Egy rövid megálló a partvidék lélegzetelállító látványáért Farsund felé visszavezető úton.",
-            "ro": "O oprire scurtă pentru o vedere uluitoare a coastei în drum spre Farsund.",
-            "en": "A quick stop for a breathtaking coastal view on the way back to Farsund."
+          "arrive_at": "10:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Steile historische Straße mit Fjordblick.",
+            "hu": "Meredek történelmi út fjord-kilátással.",
+            "ro": "Drum istoric abrupt cu vedere la fiord.",
+            "en": "Steep historic road with fjord views."
           }
         },
         {
-          "name": {
-            "de": "Ankunft in Farsund",
-            "hu": "Érkezés Farsundba",
-            "ro": "Sosire în Farsund",
-            "en": "Arrival in Farsund"
-          },
+          "name": "Vanse (Brooklyn Square)",
           "coords": [
-            6.802,
-            58.091
+            58.1005,
+            6.6955
           ],
-          "category": "port",
-          "arrive_at": "16:21",
-          "stay_min": 54,
-          "hop_mode": "bike",
-          "hop_from_prev_min": -18,
-          "hop_from_prev_km": -3.0,
-          "tip_4lang": {
-            "de": "Geben Sie Ihr Fahrrad zurück und genießen Sie ein wohlverdientes Abendessen.",
-            "hu": "Adja le a kerékpárt, és élvezze a jól megérdemelt vacsorát.",
-            "ro": "Returnați bicicleta și bucurați-vă de o cină binemeritată.",
-            "en": "Return your bike and enjoy a well-deserved dinner."
+          "category": "squares",
+          "arrive_at": "11:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 7.5,
+          "tip_5lang": {
+            "de": "Amerikanisches Flair mitten in Norwegen.",
+            "hu": "Amerikai hangulat Norvégia közepén.",
+            "ro": "Atmosferă americană în mijlocul Norvegiei.",
+            "en": "American flair in the middle of Norway."
+          }
+        },
+        {
+          "name": "Tr8er Gastro",
+          "coords": [
+            58.1002,
+            6.6962
+          ],
+          "category": "gastro",
+          "arrive_at": "12:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Burger im US-Stil.",
+            "hu": "Élvezzen egy amerikai stílusú burgert.",
+            "ro": "Bucurați-vă de un burger în stil american.",
+            "en": "Enjoy a US-style burger."
+          }
+        },
+        {
+          "name": "Loshavn",
+          "coords": [
+            58.0655,
+            6.8155
+          ],
+          "category": "old-town",
+          "arrive_at": "14:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 9.5,
+          "tip_5lang": {
+            "de": "Eines der besterhaltenen Holzdörfer.",
+            "hu": "Az egyik legjobb állapotú faházas falu.",
+            "ro": "Unul dintre cele mai bine conservate sate de lemn.",
+            "en": "One of the best preserved wooden villages."
           }
         }
       ],
       "narrative_4lang": {
-        "de": "Ihre Radtour beginnt im Herzen von Farsund und führt Sie zu den architektonischen Wundern Husan und der Kirche. Anschließend radeln Sie westwärts nach Vanse, einem Dorf mit überraschend amerikanischem Flair. Der anspruchsvollere Teil der Reise führt Sie nach Süden zum idyllischen Loshavn, perfekt für eine Mittagspause. Auf dem Rückweg halten Sie am Aussichtspunkt Bøensbakken, um die Küstenlandschaft zu bewundern, bevor Sie den Tag entspannt in Farsund ausklingen lassen.",
-        "hu": "Kerékpártúrája Farsund szívéből indul, elvezetve a Husan és a templom építészeti csodáihoz. Ezután nyugat felé, Vanse-ba teker, egy meglepően amerikai hangulatú faluba. Az utazás nagyobb kihívást jelentő része délre, az idilli Loshavnba visz, amely tökéletes egy ebédszünetre. Visszafelé megáll a Bøensbakken kilátónál, hogy megcsodálja a partvidéket, mielőtt Farsundban fejezné be a napot.",
-        "ro": "Turul dvs. cu bicicleta începe în inima orașului Farsund, ducându-vă la minunile arhitecturale Husan și biserică. Apoi pedalați spre vest, spre Vanse, un sat cu o aromă americană surprinzătoare. Partea mai provocatoare a călătoriei vă duce spre sud, în idilicul Loshavn, perfect pentru o pauză de prânz. Pe drumul de întoarcere, opriți-vă la punctul de belvedere Bøensbakken pentru a admira peisajul de coastă înainte de a încheia ziua relaxat în Farsund.",
-        "en": "Your bike tour starts in the heart of Farsund, leading you to the architectural wonders of Husan and the church. You'll then pedal west to Vanse, a village with a surprising American flavour. The more challenging part of the journey takes you south to idyllic Loshavn, perfect for a lunch break. On the way back, you'll stop at the Bøensbakken viewpoint to admire the coastal scenery before ending the day relaxing in Farsund."
+        "de": "Diese Radtour verbindet Natur und Kultur. Nach dem Start am Hafen radeln Sie zum Bøensbakken, einer alten Straße mit atemberaubendem Blick. Weiter geht es nach Vanse, bekannt für seine enge Verbindung zu den USA. Nach einer Pause im 'American' Viertel führt die Route zum malerischen Loshavn, bevor es zurück nach Farsund geht.",
+        "hu": "Ez a kerékpártúra összeköti a természetet és a kultúrát. A kikötőből indulva a Bøensbakkenhez tekerünk, amely egy lélegzetelállító kilátást nyújtó régi út. Továbbutazunk Vanse-be, amely az USA-hoz fűződő szoros kapcsolatairól híres. Az 'amerikai' negyedben tartott szünet után az út a festői Loshavnba vezet, majd vissza Farsundba.",
+        "ro": "Acest tur cu bicicleta îmbină natura și cultura. După plecarea din port, pedalați spre Bøensbakken, un drum vechi cu vederi uluitoare. Continuați spre Vanse, cunoscut pentru legătura sa strânsă cu SUA. După o pauză în cartierul 'american', traseul duce spre pitorescul Loshavn, înainte de a reveni în Farsund.",
+        "en": "This bike tour combines nature and culture. Starting at the harbor, you cycle to Bøensbakken, an old road with breathtaking views. Continue to Vanse, known for its close ties to the USA. After a break in the 'American' district, the route leads to picturesque Loshavn before returning to Farsund."
       },
-      "gastro_picks": {},
-      "quiet_picks": {},
-      "shopping_picks": {},
-      "tips": {}
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "8'er'n",
+            "tip": "US-Style Diner in Vanse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "8'er'n",
+            "tip": "Amerikai stílusú étterem Vanse-ben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "8'er'n",
+            "tip": "Diner în stil american în Vanse."
+          }
+        ],
+        "en": [
+          {
+            "name": "8'er'n",
+            "tip": "US-style diner in Vanse."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Loshavn Gassen",
+            "tip": "Ruhige Gassen zwischen weißen Häusern.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Loshavn utcák",
+            "tip": "Csendes utcák a fehér házak között.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulițele Loshavn",
+            "tip": "Ulițe liniștite între casele albe.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Loshavn Alleys",
+            "tip": "Quiet alleys between white houses.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Trift Shop Vanse",
+            "tip": "Amerikanische Vintage-Sachen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Trift Shop Vanse",
+            "tip": "Amerikai vintage holmik."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Trift Shop Vanse",
+            "tip": "Obiecte vintage americane."
+          }
+        ],
+        "en": [
+          {
+            "name": "Trift Shop Vanse",
+            "tip": "American vintage items."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Strecke nach Vanse ist hügelig.",
+          "Ein Helm ist in Norwegen Pflicht."
+        ],
+        "hu": [
+          "Az út Vanse felé dombos.",
+          "A bukósisak ajánlott."
+        ],
+        "ro": [
+          "Drumul spre Vanse este deluros.",
+          "Casca este recomandată."
+        ],
+        "en": [
+          "The route to Vanse is hilly.",
+          "A helmet is recommended."
+        ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein feuchter Start am Hafen, die Reifen wirbeln das Regenwasser auf. Mittags radeln wir nach Vanse, wo Cafés zur Pause einladen. Der Nachmittag in Loshavn ist geprägt von dramatischer Meeresgischt unter grauem Himmel. Die Auffahrt zum Bøensbakken erfordert bei Nässe Vorsicht, belohnt aber mit mystischer Aussicht, bevor wir zurückkehren.",
+            "hu": "Nedves indulás a kikötőben, a gumik felverik az esővizet. Délben Vanse felé tekerünk, ahol kávézók várják a megázott utazót. A délután Loshavnban a szürke égbolt alatti drámai tajtékokról szól. A Bøensbakkenre való feljutás óvatosságot igényel vizes úton, de misztikus kilátással jutalmaz a visszatérés előtt.",
+            "ro": "O plecare umedă din port, cu anvelopele împroșcând apa de ploaie. La prânz pedalăm spre Vanse, unde cafenelele invită la o pauză. După-amiaza în Loshavn este marcată de valurile dramatice sub cerul gri. Urcarea spre Bøensbakken necesită prudență pe carosabil ud, dar oferă o priveliște mistică înainte de întoarcere.",
+            "en": "A damp start at the harbour, tires splashing through rain puddles. At noon, we cycle to Vanse where cafes offer a welcome break. The afternoon in Loshavn features dramatic sea spray under grey skies. The climb to Bøensbakken requires caution in the wet but rewards with mystical views before the return."
+          },
+          "stops": [
+            {
+              "name": "Farsund Harbour",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsbeläge vor dem Start im Regen.",
+                "hu": "Indulás előtt ellenőrizze a fékbetéteket az esőben.",
+                "ro": "Verificați saboții de frână înainte de a pleca pe ploaie.",
+                "en": "Check your brake pads before starting in the rain."
+              }
+            },
+            {
+              "name": "Husan and Farsund Church",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter, während Sie die Gebäude besichtigen.",
+                "hu": "Támassza le a biciklit fedett helyen a látogatás alatt.",
+                "ro": "Parcați bicicleta sub un adăpost în timpul vizitei.",
+                "en": "Park your bike under cover while visiting the buildings."
+              }
+            },
+            {
+              "name": "Bike ride to Vanse",
+              "tip_5lang": {
+                "de": "Vorsicht bei Fahrbahnmarkierungen, sie sind extrem glatt.",
+                "hu": "Vigyázat az útburkolati jelekkel, rendkívül csúsznak.",
+                "ro": "Atenție la marcajele rutiere, sunt extrem de alunecoase.",
+                "en": "Be careful on road markings; they are extremely slippery."
+              }
+            },
+            {
+              "name": "Loshavn",
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Radfahren direkt auf nassen Felsen.",
+                "hu": "Kerülje a kerékpározást közvetlenül a nedves sziklákon.",
+                "ro": "Evitați mersul cu bicicleta direct pe stâncile ude.",
+                "en": "Avoid cycling directly on wet rocks."
+              }
+            },
+            {
+              "name": "Bøensbakken Viewpoint",
+              "tip_5lang": {
+                "de": "Langsames Abfahren auf dem nassen Asphalt empfohlen.",
+                "hu": "Vizes aszfalton lassú ereszkedés javasolt.",
+                "ro": "Se recomandă coborârea lentă pe asfaltul ud.",
+                "en": "Slow descent on wet asphalt is recommended."
+              }
+            },
+            {
+              "name": "Arrival in Farsund",
+              "tip_5lang": {
+                "de": "Reinigen und ölen Sie Ihre Kette nach dieser Regenfahrt.",
+                "hu": "Tisztítsa meg és olajozza le a láncot az esős túra után.",
+                "ro": "Curățați și ungeți lanțul după această cursă pe ploaie.",
+                "en": "Clean and oil your chain after this rainy ride."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche am Fahrrad sind bei diesem Wetter unverzichtbar.",
+              "Vermeiden Sie plötzliches Bremsen auf nassem Untergrund.",
+              "Tragen Sie eine gelbe Warnweste für bessere Sichtbarkeit.",
+              "Wasserdichte Packtaschen halten Ihre Ausrüstung trocken.",
+              "Die Abfahrt vom Bøensbakken kann bei Regen tückisch sein."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen ilyen időjárási körülmények között.",
+              "Kerülje a hirtelen fékezést a nedves útfelületen.",
+              "Viseljen láthatósági mellényt a jobb észlelhetőség érdekében.",
+              "A vízálló kerékpáros táskák szárazon tartják felszerelését.",
+              "A Bøensbakkenről való leereszkedés trükkös lehet esőben."
+            ],
+            "ro": [
+              "Aripile la bicicletă sunt indispensabile în acest tip de vreme.",
+              "Evitați frânarea bruscă pe suprafețe umede.",
+              "Purtați o vestă reflectorizantă pentru o mai bună vizibilitate.",
+              "Gentile de bicicletă impermeabile vă mențin echipamentul uscat.",
+              "Coborârea de pe Bøensbakken poate fi înșelătoare pe ploaie."
+            ],
+            "en": [
+              "Mudguards on your bike are essential in this weather.",
+              "Avoid sudden braking on wet surfaces.",
+              "Wear a high-visibility vest for better detection.",
+              "Waterproof panniers will keep your gear dry.",
+              "The descent from Bøensbakken can be tricky in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Klarer, kalter Morgen für eine Radtour entlang der Küste. Mittags machen wir Halt in Vanse, um uns bei einer Suppe aufzuwärmen. Der Nachmittag führt uns nach Loshavn, wo der Reif die Landschaft verzaubert. Bevor die Sonne am Bøensbakken untergeht, treten wir kräftig in die Pedale, um rechtzeitig im beleuchteten Farsund anzukommen.",
+            "hu": "Tiszta, hideg reggel egy kerékpártúrához a part mentén. Délben megállunk Vansében, hogy egy forró levessel felmelegedjünk. A délután Loshavnba vezet, ahol a zúzmara varázsolja el a tájat. Mielőtt a nap lenyugodna a Bøensbakkenen, erősen tekerünk, hogy időben beérjünk a kivilágított Farsundba.",
+            "ro": "O dimineață senină și rece pentru o tură cu bicicleta pe coastă. La prânz ne oprim în Vanse pentru a ne încălzi cu o supă. După-amiaza ne duce spre Loshavn, unde chiciura transformă peisajul. Înainte de apusul soarelui la Bøensbakken, pedalam intens pentru a ajunge la timp în Farsundul iluminat.",
+            "en": "A clear, cold morning for a bike ride along the coast. At noon, we stop in Vanse to warm up with some soup. The afternoon leads us to Loshavn, where hoarfrost enchants the landscape. Before the sun sets at Bøensbakken, we pedal hard to reach illuminated Farsund in time."
+          },
+          "stops": [
+            {
+              "name": "Farsund Harbour",
+              "tip_5lang": {
+                "de": "Überprüfen Sie den Reifendruck; Kälte senkt ihn.",
+                "hu": "Ellenőrizze a guminyomást; a hideg csökkenti azt.",
+                "ro": "Verificați presiunea în anvelope; frigul o scade.",
+                "en": "Check tire pressure; cold weather reduces it."
+              }
+            },
+            {
+              "name": "Husan and Farsund Church",
+              "tip_5lang": {
+                "de": "Lassen Sie das Rad nicht zu lange im Frost stehen.",
+                "hu": "Ne hagyja a biciklit túl sokáig a fagyban.",
+                "ro": "Nu lăsați bicicleta prea mult timp în ger.",
+                "en": "Don't leave the bike in the frost for too long."
+              }
+            },
+            {
+              "name": "Bike ride to Vanse",
+              "tip_5lang": {
+                "de": "Nutzen Sie Winterreifen oder Spikes für die Fahrt.",
+                "hu": "Használjon téli gumit vagy tüskés abroncsot az úthoz.",
+                "ro": "Folosiți anvelope de iarnă sau cu ținte pentru drum.",
+                "en": "Use winter tires or studded tires for the ride."
+              }
+            },
+            {
+              "name": "Loshavn",
+              "tip_5lang": {
+                "de": "Kurze Fotostopps einlegen, um nicht auszukühlen.",
+                "hu": "Tartson rövid fotószüneteket, hogy ne hűljön ki.",
+                "ro": "Faceți pauze foto scurte pentru a nu îngheța.",
+                "en": "Keep photo stops short to avoid getting chilled."
+              }
+            },
+            {
+              "name": "Bøensbakken Viewpoint",
+              "tip_5lang": {
+                "de": "Die Auffahrt hält Sie warm, aber oben ist es windig.",
+                "hu": "A felfelé menet felmelegít, de fent szeles az idő.",
+                "ro": "Urcarea vă va ține de cald, dar sus este vânt.",
+                "en": "The climb will keep you warm, but it's windy at the top."
+              }
+            },
+            {
+              "name": "Arrival in Farsund",
+              "tip_5lang": {
+                "de": "Akkus von E-Bikes unbedingt im Warmen lagern.",
+                "hu": "Az e-bike akkumulátorát mindenképpen melegen tárolja.",
+                "ro": "Depozitați neapărat bateriile e-bike-urilor la căldură.",
+                "en": "Store e-bike batteries in a warm place."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Handschuhe und Überschuhe.",
+              "Vorder- und Rücklicht müssen auch tagsüber eingeschaltet sein.",
+              "Nehmen Sie eine Thermoskanne mit heißem Tee mit.",
+              "Vermeiden Sie vereiste Stellen in Kurven.",
+              "Die Kälte entlädt elektronische Geräte und Akkus schneller."
+            ],
+            "hu": [
+              "Viseljen szélálló kesztyűt és kamáslit.",
+              "Az első és hátsó lámpát nappal is tartsa bekapcsolva.",
+              "Vigyen magával forró teát tartalmazó termoszt.",
+              "Kerülje a jeges foltokat a kanyarokban.",
+              "A hideg gyorsabban meríti az elektronikus eszközöket és akkukat."
+            ],
+            "ro": [
+              "Purtați mănuși rezistente la vânt și protecții pentru pantofi.",
+              "Luminile față și spate trebuie să fie aprinse și în timpul zilei.",
+              "Luați un termos cu ceai fierbinte la voi.",
+              "Evitați porțiunile înghețate în curbe.",
+              "Frigul descarcă mai repede dispozitivele electronice și bateriile."
+            ],
+            "en": [
+              "Wear windproof gloves and shoe covers.",
+              "Front and rear lights must be on even during the day.",
+              "Take a thermos with hot tea with you.",
+              "Avoid icy patches in corners.",
+              "Cold weather drains electronic devices and batteries faster."
+            ]
+          }
+        }
+      }
     },
     "car": {
       "mode": "car",
       "speed_kmh": 28,
       "start": "09:00",
-      "end_estimate": "17:55",
-      "total_km": 42.4,
-      "stop_count": 7,
+      "end_estimate": "17:30",
+      "total_km": 42.0,
+      "stop_count": 8,
       "stops": [
         {
-          "name": {
-            "de": "Cluster Farsund Zentrum: Hafen",
-            "hu": "Farsund központ klaszter: Kikötő",
-            "ro": "Cluster Centru Farsund: Port",
-            "en": "Farsund Centre Cluster: Harbour"
-          },
+          "name": "Farsund Hafen (Cluster A)",
           "coords": [
-            6.802,
-            58.091
+            58.0955,
+            6.8062
           ],
           "category": "port",
           "arrive_at": "09:10",
-          "stay_min": 20,
-          "hop_mode": "car",
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.0,
-          "tip_4lang": {
-            "de": "Parken Sie Ihr Auto und beginnen Sie den Spaziergang durch das Zentrum.",
-            "hu": "Parkolja le az autót, és induljon a séta a központban.",
-            "ro": "Parcați mașina și începeți plimbarea prin centru.",
-            "en": "Park your car and start the walk through the centre."
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie hier für den Stadtrundgang.",
+            "hu": "Parkoljon itt a városi sétához.",
+            "ro": "Parcați aici pentru turul orașului.",
+            "en": "Park here for the city walk."
           }
         },
         {
-          "name": {
-            "de": "Husan und Farsund Kirche",
-            "hu": "Husan és Farsundi templom",
-            "ro": "Husan și Biserica Farsund",
-            "en": "Husan and Farsund Church"
-          },
+          "name": "Husan (Cluster A)",
           "coords": [
-            6.804,
-            58.094
+            58.0965,
+            6.8045
           ],
           "category": "famous residences",
-          "arrive_at": "09:38",
-          "stay_min": 70,
-          "hop_mode": "walk",
-          "hop_from_prev_min": 8,
-          "hop_from_prev_km": 0.4,
-          "tip_4lang": {
-            "de": "Ein kurzer Spaziergang vom Hafen zu diesen beeindruckenden Holzbauten.",
-            "hu": "Egy rövid séta a kikötőtől ezekhez a lenyűgöző faépületekhez.",
-            "ro": "O scurtă plimbare de la port la aceste impresionante clădiri din lemn.",
-            "en": "A short walk from the harbour to these impressive wooden buildings."
+          "arrive_at": "09:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Zu Fuß vom Parkplatz erreichbar.",
+            "hu": "Gyalogosan elérhető a parkolótól.",
+            "ro": "Accesibil pe jos de la parcare.",
+            "en": "Accessible on foot from the parking."
           }
         },
         {
-          "name": {
-            "de": "Cluster Lista: Nordberg Fort",
-            "hu": "Lista klaszter: Nordberg erőd",
-            "ro": "Cluster Lista: Fortul Nordberg",
-            "en": "Lista Cluster: Nordberg Fort"
-          },
+          "name": "Nordberg Fort (Cluster B)",
           "coords": [
-            6.62,
-            58.11
+            58.1155,
+            6.6355
           ],
-          "category": "castles/fortresses/towers",
-          "arrive_at": "11:21",
+          "category": "castles",
+          "arrive_at": "11:00",
           "stay_min": 80,
-          "hop_mode": "car",
-          "hop_from_prev_min": 33,
-          "hop_from_prev_km": 15.0,
-          "tip_4lang": {
-            "de": "Eine Festung aus dem 2. Weltkrieg mit toller Aussicht. Parken Sie hier für den Cluster.",
-            "hu": "Egy 2. világháborús erőd, nagyszerű kilátással. Parkoljon itt a klaszterhez.",
-            "ro": "O fortăreață din Al Doilea Război Mondial cu priveliști minunate. Parcați aici pentru acest cluster.",
-            "en": "A WWII fortress with great views. Park here for the cluster."
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 14.0,
+          "tip_5lang": {
+            "de": "Historische Festung mit Museum.",
+            "hu": "Történelmi erőd múzeummal.",
+            "ro": "Fortăreață istorică cu muzeu.",
+            "en": "Historic fortress with museum."
           }
         },
         {
-          "name": {
-            "de": "Lista Leuchtturm",
-            "hu": "Lista világítótorony",
-            "ro": "Farul Lista",
-            "en": "Lista Lighthouse"
-          },
+          "name": "Lista Leuchtturm (Cluster B)",
           "coords": [
-            6.56,
-            58.09
+            58.1105,
+            6.5705
           ],
-          "category": "bridges/lighthouses",
-          "arrive_at": "13:31",
-          "stay_min": 100,
-          "hop_mode": "car",
-          "hop_from_prev_min": 50,
-          "hop_from_prev_km": 6.0,
-          "tip_4lang": {
-            "de": "Ein kurzer Spaziergang vom Fort. Steigen Sie für die beste Aussicht hinauf und essen Sie zu Mittag.",
-            "hu": "Rövid séta az erődtől. Másszon fel a legjobb kilátásért és ebédeljen.",
-            "ro": "O plimbare scurtă de la fort. Urcați pentru cea mai bună priveliște și luați prânzul.",
-            "en": "A short walk from the fort. Climb up for the best view and have lunch."
+          "category": "bridges",
+          "arrive_at": "12:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Spitze für weite Ausblicke.",
+            "hu": "Látogasson el a csúcsra a távoli kilátásért.",
+            "ro": "Vizitați vârful pentru vederi îndepărtate.",
+            "en": "Visit the top for wide views."
           }
         },
         {
-          "name": {
-            "de": "Bøensbakken",
-            "hu": "Bøensbakken",
-            "ro": "Bøensbakken",
-            "en": "Bøensbakken"
-          },
+          "name": "Kviljo Beach (Cluster B)",
           "coords": [
-            6.6,
-            58.08
+            58.1005,
+            6.5855
           ],
-          "category": "natural features",
-          "arrive_at": "15:23",
-          "stay_min": 30,
-          "hop_mode": "walk",
-          "hop_from_prev_min": 12,
-          "hop_from_prev_km": 1.0,
-          "tip_4lang": {
-            "de": "Ein schöner Ort, um die Küstenlandschaft zu genießen, bevor es weitergeht.",
-            "hu": "Egy gyönyörű hely a partvidék élvezetére, mielőtt továbbindulna.",
-            "ro": "Un loc frumos pentru a vă bucura de peisajul de coastă înainte de a merge mai departe.",
-            "en": "A beautiful spot to enjoy the coastal scenery before moving on."
-          }
-        },
-        {
-          "name": {
-            "de": "Cluster Loshavn",
-            "hu": "Loshavn klaszter",
-            "ro": "Cluster Loshavn",
-            "en": "Loshavn Cluster"
-          },
-          "coords": [
-            6.83,
-            58.07
-          ],
-          "category": "squares/old-town",
-          "arrive_at": "16:34",
-          "stay_min": 50,
-          "hop_mode": "car",
-          "hop_from_prev_min": 41,
-          "hop_from_prev_km": 20.0,
-          "tip_4lang": {
-            "de": "Beenden Sie den Tag in diesem perfekt erhaltenen Dorf. Parken und spazieren gehen.",
-            "hu": "Fejezze be a napot ebben a tökéletesen megőrzött faluban. Parkoljon és sétáljon.",
-            "ro": "Încheiați ziua în acest sat perfect conservat. Parcați și plimbați-vă.",
-            "en": "End your day in this perfectly preserved village. Park and walk around."
-          }
-        },
-        {
-          "name": {
-            "de": "Rückfahrt nach Farsund",
-            "hu": "Visszaút Farsundba",
-            "ro": "Întoarcere la Farsund",
-            "en": "Drive back to Farsund"
-          },
-          "coords": [
-            6.8,
-            58.09
-          ],
-          "category": "port",
-          "arrive_at": "17:34",
-          "stay_min": 21,
-          "hop_mode": "car",
+          "category": "beach",
+          "arrive_at": "14:15",
+          "stay_min": 60,
           "hop_from_prev_min": 10,
           "hop_from_prev_km": 3.0,
-          "tip_4lang": {
-            "de": "Zeit für ein Abendessen mit Blick auf den Hafen.",
-            "hu": "Ideje vacsorázni a kikötőre néző kilátással.",
-            "ro": "Timpul pentru o cină cu vedere la port.",
-            "en": "Time for dinner overlooking the harbour."
+          "tip_5lang": {
+            "de": "Wunderschöner Sandstrand zum Entspannen.",
+            "hu": "Gyönyörű homokos strand a lazításhoz.",
+            "ro": "Plajă frumoasă cu nisip pentru relaxare.",
+            "en": "Beautiful sandy beach for relaxing."
+          }
+        },
+        {
+          "name": "Vanse Gastro (Cluster C)",
+          "coords": [
+            58.1002,
+            6.6962
+          ],
+          "category": "gastro",
+          "arrive_at": "15:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 11.0,
+          "tip_5lang": {
+            "de": "Pause vor der Rückfahrt.",
+            "hu": "Pihenő a visszaut előtt.",
+            "ro": "Pauză înainte de întoarcere.",
+            "en": "Break before the return trip."
           }
         }
       ],
       "narrative_4lang": {
-        "de": "Mit dem Auto erkunden Sie Farsund und seine atemberaubende Umgebung. Der Morgen beginnt mit einem Spaziergang durch das historische Zentrum von Farsund. Anschließend fahren Sie zur Halbinsel Lista, wo Sie das Nordberg Fort und den berühmten Leuchtturm erkunden – eine Gegend, die sich perfekt für einen Spaziergang und eine Mittagspause eignet. Der Nachmittag führt Sie in das charmante, historische Dorf Loshavn, ein Juwel an der Küste, bevor Sie nach Farsund zurückkehren.",
-        "hu": "Autóval felfedezheti Farsundot és lenyűgöző környékét. A reggel Farsund történelmi központjában tett sétával kezdődik. Ezután a Lista-félszigetre hajt, ahol felfedezi a Nordberg erődöt és a híres világítótornyot – egy terület, amely tökéletes egy sétához és egy ebédszünethez. A délután a bájos, történelmi Loshavn faluba vezet, a partvidék egy ékkövébe, mielőtt visszatérne Farsundba.",
-        "ro": "Cu mașina, explorați Farsund și împrejurimile sale uimitoare. Dimineața începe cu o plimbare prin centrul istoric al orașului Farsund. Apoi conduceți spre peninsula Lista pentru a explora Fortul Nordberg și faimosul său far - o zonă perfectă pentru o plimbare și o pauză de prânz. După-amiaza vă duce în fermecătorul sat istoric Loshavn, o bijuterie de coastă, înainte de a vă întoarce la Farsund.",
-        "en": "By car, you'll explore Farsund and its stunning surroundings. The morning starts with a walking cluster in Farsund's historic centre. You then drive to the Lista peninsula to explore Nordberg Fort and the iconic lighthouse – an area perfect for a walk and a lunch break. The afternoon takes you to the charming historic village of Loshavn, a coastal gem, before returning to Farsund."
+        "de": "Dieser Tag führt Sie weit über die Stadtgrenzen hinaus zur Halbinsel Lista. Nach einem kurzen Stopp in Farsund fahren wir zum Nordberg Fort, einer bedeutenden historischen Stätte. Das Highlight ist der Lista Leuchtturm, umgeben von wilder Natur und Sandstränden. Auf dem Rückweg halten wir in Vanse, um das besondere amerikanische Flair zu erleben.",
+        "hu": "Ez a nap messze a városhatáron túlra, a Lista-félszigetre viszi. Egy rövid farsundi megálló után a Nordberg erődhöz autózunk, amely fontos történelmi helyszín. A csúcspont a Lista világítótorony, amelyet vad természet és homokos strandok vesznek körül. Visszafelé megállunk Vanse-ben, hogy átéljük a különleges amerikai hangulatot.",
+        "ro": "Această zi vă duce mult dincolo de granițele orașului, în peninsula Lista. După o scurtă oprire în Farsund, conducem spre Fortul Nordberg, un sit istoric important. Punctul culminant este farul Lista, înconjurat de natură sălbatică și plaje cu nisip. La întoarcere, ne oprim în Vanse pentru a experimenta atmosfera americană deosebită.",
+        "en": "This day takes you far beyond the city limits to the Lista peninsula. After a short stop in Farsund, we drive to Nordberg Fort, an important historical site. The highlight is the Lista Lighthouse, surrounded by wild nature and sandy beaches. On the way back, we stop in Vanse to experience the special American flair."
       },
-      "gastro_picks": {},
-      "quiet_picks": {},
-      "shopping_picks": {},
-      "tips": {}
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lista Fyr Café",
+            "tip": "Kuchen mit Blick auf den Leuchtturm."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lista Fyr Café",
+            "tip": "Sütemény a világítótoronyra néző kilátással."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lista Fyr Café",
+            "tip": "Prăjituri cu vedere la far."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lista Fyr Café",
+            "tip": "Cake with a view of the lighthouse."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Lista Strände",
+            "tip": "Einsame Dünenlandschaft.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lista strandok",
+            "tip": "Magányos dűnék világa.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plajele Lista",
+            "tip": "Peisaj de dune solitare.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lista Beaches",
+            "tip": "Solitary dune landscape.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lister Butikk",
+            "tip": "Lokale Delikatessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lister Butikk",
+            "tip": "Helyi finomságok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lister Butikk",
+            "tip": "Delicii locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lister Butikk",
+            "tip": "Local delicacies."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straßen auf Lista sind oft schmal.",
+          "Parkplätze am Leuchtturm sind kostenlos."
+        ],
+        "hu": [
+          "A Lista-félsziget útjai gyakran szűkek.",
+          "A parkolás a toronynál ingyenes."
+        ],
+        "ro": [
+          "Drumurile din Lista sunt adesea înguste.",
+          "Parcarea la far este gratuită."
+        ],
+        "en": [
+          "The roads on Lista are often narrow.",
+          "Parking at the lighthouse is free."
+        ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine gemütliche Fahrt durch das verregnete Farsund. Mittags bietet das Nordberg Fort faszinierende Innenräume als Schutz. Am Nachmittag erleben wir die raue Schönheit am Lista Leuchtturm, während die Gischt gegen die Fenster peitscht. Die Panoramastrecke Bøensbakken wirkt im Regen besonders dramatisch, bevor wir entspannt zurück nach Farsund steuern.",
+            "hu": "Kényelmes autózás az esőáztatta Farsundon át. Délben a Nordberg erőd izgalmas belső terei nyújtanak menedéket. Délután a Lista világítótoronynál tapasztaljuk meg a zord szépséget, miközben a tajték az ablakokat veri. A Bøensbakken panorámaútja esőben különösen drámai, mielőtt nyugodtan visszakormányozunk Farsundba.",
+            "ro": "O plimbare relaxantă cu mașina prin Farsundul ploios. La prânz, Fortăreața Nordberg oferă spații interioare fascinante drept adăpost. După-amiaza experimentăm frumusețea aspră la farul Lista, în timp ce valurile lovesc geamurile. Drumul panoramic Bøensbakken pare deosebit de dramatic pe ploaie, înainte de a reveni în Farsund.",
+            "en": "A cozy drive through rainy Farsund. At noon, Nordberg Fort offers fascinating indoor spaces for shelter. In the afternoon, we experience the rugged beauty at Lista Lighthouse as the spray lashes against the windows. The Bøensbakken scenic route looks particularly dramatic in the rain before we head back to Farsund."
+          },
+          "stops": [
+            {
+              "name": "Farsund Centre Cluster: Harbour",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Wasser für eine gute Aussicht im Trockenen.",
+                "hu": "Parkoljon a víz közelében a száraz kilátásért.",
+                "ro": "Parcați aproape de apă pentru o priveliște bună la adăpost.",
+                "en": "Park near the water for a good view while staying dry."
+              }
+            },
+            {
+              "name": "Husan and Farsund Church",
+              "tip_5lang": {
+                "de": "Kurzer Sprint vom Parkplatz zum Eingang einplanen.",
+                "hu": "Tervezzen be egy rövid sprintet a parkolótól a bejáratig.",
+                "ro": "Planificați un sprint scurt de la parcare la intrare.",
+                "en": "Plan a short sprint from the parking lot to the entrance."
+              }
+            },
+            {
+              "name": "Lista Cluster: Nordberg Fort",
+              "tip_5lang": {
+                "de": "Die Ausstellungen im Inneren sind ideal bei Regen.",
+                "hu": "A benti kiállítások ideálisak eső esetén.",
+                "ro": "Expozițiile din interior sunt ideale pe timp de ploaie.",
+                "en": "The indoor exhibitions are ideal for rainy weather."
+              }
+            },
+            {
+              "name": "Lista Lighthouse",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick vom Auto aus, wenn es zu stark regnet.",
+                "hu": "Élvezze a kilátást az autóból, ha túl erősen esik.",
+                "ro": "Bucurați-vă de priveliște din mașină dacă plouă prea tare.",
+                "en": "Enjoy the view from the car if it's raining too hard."
+              }
+            },
+            {
+              "name": "Bøensbakken",
+              "tip_5lang": {
+                "de": "Vorsicht bei Aquaplaning-Gefahr auf der Küstenstraße.",
+                "hu": "Vigyázat az akvaplaning veszélyével a parti úton.",
+                "ro": "Atenție la pericolul de acvaplanare pe drumul de coastă.",
+                "en": "Watch out for aquaplaning on the coastal road."
+              }
+            },
+            {
+              "name": "Loshavn Cluster",
+              "tip_5lang": {
+                "de": "Das Dorf wirkt im Regen besonders verwunschen.",
+                "hu": "A falu esőben különösen varázslatosnak hat.",
+                "ro": "Satul pare deosebit de fermecat pe ploaie.",
+                "en": "The village looks particularly enchanted in the rain."
+              }
+            },
+            {
+              "name": "Drive back to Farsund",
+              "tip_5lang": {
+                "de": "Schalten Sie die Nebelscheinwerfer bei starkem Regen ein.",
+                "hu": "Erős esőben kapcsolja be a ködfényszórókat.",
+                "ro": "Porniți luminile de ceață pe ploaie torențială.",
+                "en": "Turn on fog lights during heavy rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Zustand Ihrer Scheibenwischer.",
+              "Die Parkplätze am Leuchtturm können matschig sein.",
+              "Nutzen Sie die Defroster-Funktion gegen beschlagene Scheiben.",
+              "Das Museum im Nordberg Fort ist ein perfekter Regen-Stopp.",
+              "Halten Sie Abstand zu vorausfahrenden Fahrzeugen wegen Spritzwasser."
+            ],
+            "hu": [
+              "Ellenőrizze az ablaktörlők állapotát.",
+              "A világítótoronynál lévő parkolók sárosak lehetnek.",
+              "Használja a páramentesítő funkciót a szélvédőn.",
+              "A Nordberg erődben található múzeum tökéletes esőnapra.",
+              "Tartson nagyobb követési távolságot a felcsapódó víz miatt."
+            ],
+            "ro": [
+              "Verificați starea ștergătoarelor de parbriz.",
+              "Parcările de la far pot fi noroioase.",
+              "Folosiți funcția de dezaburire pentru parbriz.",
+              "Muzeul de la Fortăreața Nordberg este o oprire perfectă pe ploaie.",
+              "Păstrați distanța față de vehiculele din față din cauza stropilor."
+            ],
+            "en": [
+              "Check the condition of your windshield wipers.",
+              "Parking lots at the lighthouse can be muddy.",
+              "Use the defroster function against fogged windows.",
+              "The museum at Nordberg Fort is a perfect rain stop.",
+              "Keep distance from vehicles ahead due to water spray."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein winterlicher Roadtrip durch die frostige Lista-Landschaft. Mittags erkunden wir das geschichtsträchtige Nordberg Fort. Am Nachmittag thront der Lista Leuchtturm imposant vor dem Winterhimmel. Auf dem Bøensbakken genießen wir die verschneite Aussicht, bevor wir im Licht der blauen Stunde das malerische Loshavn erreichen und schließlich zurückkehren.",
+            "hu": "Téli autós túra a jeges Lista-tájékon át. Délben a történelmi Nordberg erődöt fedezzük fel. Délután a Lista világítótorony impozánsan magasodik a téli égbolt előtt. A Bøensbakkenen élvezzük a havas kilátást, majd a kék óra fényeiben érjük el a festői Loshavnt, mielőtt végleg visszatérnénk.",
+            "ro": "O excursie de iarnă prin peisajul înghețat din Lista. La prânz explorăm Fortăreața Nordberg încărcată de istorie. După-amiaza, farul Lista tronează impunător pe cerul de iarnă. Pe Bøensbakken ne bucurăm de priveliștea înzăpezită înainte de a ajunge în Loshavnul pitoresc la ora albastră.",
+            "en": "A winter road trip through the frosty Lista landscape. At noon, we explore the historic Nordberg Fort. In the afternoon, Lista Lighthouse towers imposingly against the winter sky. At Bøensbakken, we enjoy the snowy views before reaching picturesque Loshavn in the blue hour light and finally returning."
+          },
+          "stops": [
+            {
+              "name": "Farsund Centre Cluster: Harbour",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf dem Parkplatz.",
+                "hu": "Ügyeljen a parkolóban kialakuló jegesedésre.",
+                "ro": "Atenție la poleiul din parcare.",
+                "en": "Watch out for black ice in the parking lot."
+              }
+            },
+            {
+              "name": "Husan and Farsund Church",
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor nicht unnötig im Stand laufen.",
+                "hu": "Ne járassa feleslegesen a motort álló helyzetben.",
+                "ro": "Nu lăsați motorul pornit inutil pe loc.",
+                "en": "Don't leave the engine idling unnecessarily."
+              }
+            },
+            {
+              "name": "Lista Cluster: Nordberg Fort",
+              "tip_5lang": {
+                "de": "Gute Winterschuhe für den Weg zum Aussichtspunkt nötig.",
+                "hu": "Jó téli cipő szükséges a kilátóhoz vezető úthoz.",
+                "ro": "E nevoie de încălțăminte de iarnă bună pentru drumul spre punctul de observație.",
+                "en": "Good winter shoes needed for the walk to the viewpoint."
+              }
+            },
+            {
+              "name": "Lista Lighthouse",
+              "tip_5lang": {
+                "de": "Der Wind kann hier im Winter extrem schneidend sein.",
+                "hu": "A szél itt télen rendkívül metsző lehet.",
+                "ro": "Vântul poate fi extrem de tăios aici pe timpul iernii.",
+                "en": "The wind can be extremely biting here in winter."
+              }
+            },
+            {
+              "name": "Bøensbakken",
+              "tip_5lang": {
+                "de": "Die Straße kann bei Schneefall kurzfristig gesperrt sein.",
+                "hu": "Hóesés esetén az út rövid távon lezárásra kerülhet.",
+                "ro": "Drumul poate fi închis temporar în caz de ninsoare.",
+                "en": "The road may be temporarily closed during snowfall."
+              }
+            },
+            {
+              "name": "Loshavn Cluster",
+              "tip_5lang": {
+                "de": "Die weißen Holzhäuser wirken im Schnee wie im Märchen.",
+                "hu": "A fehér faházak a hóban olyanok, mint egy mesében.",
+                "ro": "Casele albe de lemn par desprinse din basme în zăpadă.",
+                "en": "The white wooden houses look like a fairy tale in the snow."
+              }
+            },
+            {
+              "name": "Drive back to Farsund",
+              "tip_5lang": {
+                "de": "Prüfen Sie vor der Rückfahrt die Lichtanlage.",
+                "hu": "A visszautazás előtt ellenőrizze a világítást.",
+                "ro": "Verificați sistemul de iluminare înainte de întoarcere.",
+                "en": "Check the lighting system before the drive back."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in Norwegen gesetzlich vorgeschrieben.",
+              "Führen Sie eine Schneeschaufel und einen Eiskratzer mit.",
+              "Achten Sie auf Wildwechsel in der Dämmerung.",
+              "Halten Sie den Tank für Notfälle immer mindestens halb voll.",
+              "Die Straßenbeleuchtung außerhalb der Stadt kann spärlich sein."
+            ],
+            "hu": [
+              "A téli gumi Norvégiában törvényi előírás.",
+              "Legyen az autóban hólapát és jégkaparó.",
+              "Ügyeljen a vadakra a szürkületben.",
+              "Vészhelyzet esetére tartsa az üzemanyagszintet legalább félig.",
+              "A városon kívüli közvilágítás hiányos lehet."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii prin lege în Norvegia.",
+              "Aveți la voi o lopată de zăpadă și o răzuitoare de gheață.",
+              "Atenție la animalele sălbatice în amurg.",
+              "Păstrați rezervorul cel puțin pe jumătate plin pentru urgențe.",
+              "Iluminatul stradal în afara orașului poate fi deficitar."
+            ],
+            "en": [
+              "Winter tires are legally required in Norway.",
+              "Carry a snow shovel and an ice scraper.",
+              "Watch out for wildlife crossing the road at dusk.",
+              "Always keep the tank at least half full for emergencies.",
+              "Street lighting outside the city can be sparse."
+            ]
+          }
+        }
+      }
     },
     "transit": {
       "mode": "transit",
       "speed_kmh": 15,
       "start": "09:00",
-      "end_estimate": "17:40",
-      "total_km": 24.6,
-      "stop_count": 6,
+      "end_estimate": "15:30",
+      "total_km": 18.0,
+      "stop_count": 5,
       "stops": [
         {
-          "name": {
-            "de": "Cluster Farsund Zentrum: Busbahnhof",
-            "hu": "Farsund központ klaszter: Buszpályaudvar",
-            "ro": "Cluster Centru Farsund: Autogară",
-            "en": "Farsund Centre Cluster: Bus Station"
-          },
+          "name": "Farsund Sentrum (Cluster A)",
           "coords": [
-            6.801,
-            58.092
+            58.0962,
+            6.8058
           ],
-          "category": "port",
+          "category": "squares",
           "arrive_at": "09:10",
-          "stay_min": 20,
-          "hop_mode": "transit",
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.0,
-          "tip_4lang": {
-            "de": "Beginnen Sie am zentralen Busbahnhof.",
-            "hu": "Kezdje a központi buszpályaudvaron.",
-            "ro": "Începeți de la autogara centrală.",
-            "en": "Start at the central bus station."
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Zentraler Knotenpunkt für Busse.",
+            "hu": "Központi buszcsomópont.",
+            "ro": "Nod central pentru autobuze.",
+            "en": "Central hub for buses."
           }
         },
         {
-          "name": {
-            "de": "Husan und Farsund Kirche",
-            "hu": "Husan és Farsundi templom",
-            "ro": "Husan și Biserica Farsund",
-            "en": "Husan and Farsund Church"
-          },
+          "name": "Husan (Cluster A)",
           "coords": [
-            6.804,
-            58.094
+            58.0965,
+            6.8045
           ],
           "category": "famous residences",
-          "arrive_at": "09:38",
-          "stay_min": 70,
-          "hop_mode": "walk",
-          "hop_from_prev_min": 8,
-          "hop_from_prev_km": 0.4,
-          "tip_4lang": {
-            "de": "Erkunden Sie das Stadtzentrum zu Fuß, bevor Sie den Bus nehmen.",
-            "hu": "Fedezze fel gyalog a városközpontot, mielőtt buszra szállna.",
-            "ro": "Explorați centrul orașului pe jos înainte de a lua autobuzul.",
-            "en": "Explore the town centre on foot before catching the bus."
-          }
-        },
-        {
-          "name": {
-            "de": "Cluster Vanse",
-            "hu": "Vanse klaszter",
-            "ro": "Cluster Vanse",
-            "en": "Vanse Cluster"
-          },
-          "coords": [
-            6.68,
-            58.1
-          ],
-          "category": "squares/old-town",
-          "arrive_at": "11:24",
-          "stay_min": 90,
-          "hop_mode": "transit",
-          "hop_from_prev_min": 36,
-          "hop_from_prev_km": 9.0,
-          "tip_4lang": {
-            "de": "Nehmen Sie den Bus nach Vanse. Erkunden Sie dieses 'amerikanische' Dorf und essen Sie zu Mittag.",
-            "hu": "Szálljon buszra Vanse felé. Fedezze fel ezt az 'amerikai' falut és ebédeljen.",
-            "ro": "Luați autobuzul spre Vanse. Explorați acest sat „american” și luați prânzul.",
-            "en": "Take the bus to Vanse. Explore this 'American' village and have lunch."
-          }
-        },
-        {
-          "name": {
-            "de": "Cluster Loshavn",
-            "hu": "Loshavn klaszter",
-            "ro": "Cluster Loshavn",
-            "en": "Loshavn Cluster"
-          },
-          "coords": [
-            6.83,
-            58.07
-          ],
-          "category": "squares/old-town",
-          "arrive_at": "13:54",
-          "stay_min": 120,
-          "hop_mode": "transit",
-          "hop_from_prev_min": 60,
-          "hop_from_prev_km": 15.0,
-          "tip_4lang": {
-            "de": "Eine Busfahrt zurück durch Farsund und weiter nach Loshavn. Genießen Sie die Atmosphäre.",
-            "hu": "Buszozzon vissza Farsundon keresztül Loshavnba. Élvezze a hangulatot.",
-            "ro": "O călătorie cu autobuzul înapoi prin Farsund și spre Loshavn. Bucurați-vă de atmosferă.",
-            "en": "A bus ride back through Farsund and on to Loshavn. Enjoy the atmosphere."
-          }
-        },
-        {
-          "name": {
-            "de": "Farsund Hafen",
-            "hu": "Farsundi kikötő",
-            "ro": "Portul Farsund",
-            "en": "Farsund Harbour"
-          },
-          "coords": [
-            6.802,
-            58.091
-          ],
-          "category": "port",
-          "arrive_at": "16:02",
+          "arrive_at": "10:15",
           "stay_min": 60,
-          "hop_mode": "walk",
-          "hop_from_prev_min": 8,
+          "hop_from_prev_min": 5,
           "hop_from_prev_km": 0.2,
-          "tip_4lang": {
-            "de": "Ein kurzer Spaziergang vom Busbahnhof, um den Tag am Wasser ausklingen zu lassen.",
-            "hu": "Egy rövid séta a buszpályaudvartól, hogy a napot a vízparton fejezze be.",
-            "ro": "O scurtă plimbare de la autogară pentru a încheia ziua pe malul apei.",
-            "en": "A short walk from the bus station to end the day by the water."
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang vom Zentrum.",
+            "hu": "Rövid séta a központból.",
+            "ro": "Scurtă plimbare din centru.",
+            "en": "Short walk from the center."
           }
         },
         {
-          "name": {
-            "de": "Ende der Tour",
-            "hu": "A túra vége",
-            "ro": "Sfârșitul turului",
-            "en": "End of Tour"
-          },
+          "name": "Vanse (Cluster B)",
           "coords": [
-            6.801,
-            58.092
+            58.1005,
+            6.6955
           ],
-          "category": "port",
-          "arrive_at": "17:32",
-          "stay_min": 8,
-          "hop_mode": "walk",
+          "category": "squares",
+          "arrive_at": "11:45",
+          "stay_min": 90,
           "hop_from_prev_min": 30,
-          "hop_from_prev_km": 0.0,
-          "tip_4lang": {
-            "de": "Zurück am Busbahnhof, bereit für die Abreise.",
-            "hu": "Vissza a buszpályaudvarra, indulásra készen.",
-            "ro": "Înapoi la autogară, gata de plecare.",
-            "en": "Back at the bus station, ready for departure."
+          "hop_from_prev_km": 8.5,
+          "tip_5lang": {
+            "de": "Bus 401 bringt Sie direkt hierher.",
+            "hu": "A 401-es busz közvetlenül ide hoz.",
+            "ro": "Autobuzul 401 vă aduce direct aici.",
+            "en": "Bus 401 brings you directly here."
+          }
+        },
+        {
+          "name": "Brooklyn Square Gastro",
+          "coords": [
+            58.1002,
+            6.6962
+          ],
+          "category": "gastro",
+          "arrive_at": "13:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Berühmte amerikanische Gerichte.",
+            "hu": "Híres amerikai ételek.",
+            "ro": "Mâncăruri americane faimoase.",
+            "en": "Famous American dishes."
           }
         }
       ],
       "narrative_4lang": {
-        "de": "Mit öffentlichen Verkehrsmitteln entdecken Sie die Vielfalt der Region Farsund. Sie beginnen im Stadtzentrum von Farsund, bevor Sie mit dem Bus nach Vanse fahren, einem Dorf mit einzigartigem amerikanischem Erbe. Nach dem Mittagessen bringt Sie ein weiterer Bus in das malerische und ruhige Loshavn. Der Tag endet mit einem entspannten Spaziergang am Hafen von Farsund, der leicht vom zentralen Busbahnhof aus zu erreichen ist.",
-        "hu": "A tömegközlekedéssel felfedezheti a Farsund régió sokszínűségét. Farsund városközpontjában kezd, mielőtt busszal Vanse-ba utazik, egy egyedülálló amerikai örökséggel rendelkező faluba. Ebéd után egy másik busz viszi a festői és csendes Loshavnba. A nap Farsund kikötőjében tett nyugodt sétával zárul, amely könnyen megközelíthető a központi buszpályaudvartól.",
-        "ro": "Folosind transportul public, veți descoperi diversitatea regiunii Farsund. Începeți în centrul orașului Farsund înainte de a lua autobuzul spre Vanse, un sat cu o moștenire americană unică. După prânz, un alt autobuz vă duce în pitorescul și liniștitul Loshavn. Ziua se încheie cu o plimbare relaxantă în portul din Farsund, ușor accesibil de la autogara centrală.",
-        "en": "Using public transport, you'll discover the diversity of the Farsund region. You start in Farsund's town centre before taking a bus to Vanse, a village with a unique American heritage. After lunch, another bus takes you to the picturesque and tranquil Loshavn. The day concludes with a relaxing stroll in Farsund's harbour, easily accessible from the central bus station."
+        "de": "Nutzen Sie das lokale Bussystem, um Farsund und das nahegelegene Vanse zu erkunden. Vormittags genießen wir das historische Zentrum von Farsund zu Fuß. Mittags bringt uns der Linienbus nach Vanse, wo wir die 'Little America' Atmosphäre und die berühmte Gastronomie erleben können, bevor wir nach Farsund zurückkehren.",
+        "hu": "Használja a helyi buszhálózatot Farsund és a közeli Vanse felfedezéséhez. Délelőtt gyalogosan élvezzük Farsund történelmi központját. Délben menetrend szerinti busszal utazunk Vanse-be, ahol átélhetjük a 'Kis-Amerika' hangulatot és a híres gasztronómiát, mielőtt visszatérnénk Farsundba.",
+        "ro": "Utilizați sistemul local de autobuze pentru a explora Farsund și localitatea apropiată Vanse. Dimineața ne bucurăm de centrul istoric din Farsund pe jos. La prânz, autobuzul de linie ne duce la Vanse, unde putem experimenta atmosfera 'Mica Americă' și gastronomia faimoasă, înainte de a ne întoarce în Farsund.",
+        "en": "Use the local bus system to explore Farsund and nearby Vanse. In the morning, we enjoy Farsund's historic center on foot. At noon, the scheduled bus takes us to Vanse, where we can experience the 'Little America' atmosphere and the famous gastronomy before returning to Farsund."
       },
-      "gastro_picks": {},
-      "quiet_picks": {},
-      "shopping_picks": {},
-      "tips": {}
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "American Diner",
+            "tip": "Authentisches US-Erlebnis."
+          }
+        ],
+        "hu": [
+          {
+            "name": "American Diner",
+            "tip": "Autentikus amerikai élmény."
+          }
+        ],
+        "ro": [
+          {
+            "name": "American Diner",
+            "tip": "Experiență americană autentică."
+          }
+        ],
+        "en": [
+          {
+            "name": "American Diner",
+            "tip": "Authentic US experience."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Farsund Park",
+            "tip": "Kleine grüne Oase.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Farsund Park",
+            "tip": "Kis zöld oázis.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Farsund",
+            "tip": "Mică oază verde.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Farsund Park",
+            "tip": "Small green oasis.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Amfi Farsund",
+            "tip": "Einkaufszentrum am Rand."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Amfi Farsund",
+            "tip": "Bevásárlóközpont a szélen."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Amfi Farsund",
+            "tip": "Centru comercial la margine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Amfi Farsund",
+            "tip": "Shopping mall on the edge."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Busfahrplan im Voraus.",
+          "Bargeldloses Bezahlen ist Standard."
+        ],
+        "hu": [
+          "Ellenőrizze előre a buszmenetrendet.",
+          "A készpénzmentes fizetés alapértelmezett."
+        ],
+        "ro": [
+          "Verificați orarul autobuzelor în avans.",
+          "Plata cu cardul este standard."
+        ],
+        "en": [
+          "Check the bus schedule in advance.",
+          "Cashless payment is standard."
+        ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginn der Tour an der Busstation, während der Regen gegen die Wartehäuschen trommelt. Mittags erkunden wir Husan, perfekt getaktet mit dem Busfahrplan. Nachmittags fahren wir nach Vanse und Loshavn, wo wir die Aussicht aus dem trockenen Bus genießen. Die Tour endet gemütlich am Hafen, bevor wir den letzten Bus zurück nehmen.",
+            "hu": "A túra a buszállomáson indul, miközben az eső a váróterem tetején dobog. Délben a Husant fedezzük fel, a buszmenetrendhez igazodva. Délután Vansébe és Loshavnba utazunk, élvezve a kilátást a száraz buszból. A túra a kikötőben zárul, mielőtt felszállnánk az utolsó visszatérő járatra.",
+            "ro": "Începutul turului la autogară, în timp ce ploaia bate în acoperișul refugiului. La prânz explorăm Husan, sincronizați perfect cu programul autobuzelor. După-amiaza mergem spre Vanse și Loshavn, savurând priveliștea din autobuzul uscat. Turul se încheie în port înainte de a lua ultimul autobuz înapoi.",
+            "en": "Start of the tour at the bus station as rain drums against the shelter. At noon, we explore Husan, perfectly timed with the bus schedule. In the afternoon, we travel to Vanse and Loshavn, enjoying the views from the dry bus. The tour ends cozily at the harbour before catching the last bus back."
+          },
+          "stops": [
+            {
+              "name": "Farsund Centre Cluster: Bus Station",
+              "tip_5lang": {
+                "de": "Warten Sie im überdachten Bereich der Station.",
+                "hu": "Várjon az állomás fedett részén.",
+                "ro": "Așteptați în zona acoperită a stației.",
+                "en": "Wait in the covered area of the station."
+              }
+            },
+            {
+              "name": "Husan and Farsund Church",
+              "tip_5lang": {
+                "de": "Planen Sie die Besichtigung so, dass Sie im Trockenen warten.",
+                "hu": "Úgy tervezze a látogatást, hogy ne kelljen sokat áznia.",
+                "ro": "Planificați vizita astfel încât să nu așteptați în ploaie.",
+                "en": "Plan your visit to minimize waiting in the rain."
+              }
+            },
+            {
+              "name": "Vanse Cluster",
+              "tip_5lang": {
+                "de": "Die Bushaltestellen hier bieten guten Regenschutz.",
+                "hu": "Az itteni buszmegállók jó esővédelmet nyújtanak.",
+                "ro": "Stațiile de autobuz de aici oferă o bună protecție contra ploii.",
+                "en": "The bus stops here offer good rain protection."
+              }
+            },
+            {
+              "name": "Loshavn Cluster",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Rückfahrtzeiten genau, um nicht im Regen zu stehen.",
+                "hu": "Pontosan ellenőrizze a visszautat, hogy ne várakozzon sokat.",
+                "ro": "Verificați exact orele de întoarcere pentru a nu sta în ploaie.",
+                "en": "Check return times carefully to avoid standing in the rain."
+              }
+            },
+            {
+              "name": "Farsund Harbour",
+              "tip_5lang": {
+                "de": "Ein kurzer Weg zur nächsten Haltestelle ist garantiert.",
+                "hu": "Garantáltan rövid út vezet a következő megállóig.",
+                "ro": "Un drum scurt până la următoarea stație este garantat.",
+                "en": "A short walk to the next stop is guaranteed."
+              }
+            },
+            {
+              "name": "End of Tour",
+              "tip_5lang": {
+                "de": "Nutzen Sie die App für Echtzeit-Infos bei Regen-Verspätungen.",
+                "hu": "Használja az alkalmazást élő információkért esőben.",
+                "ro": "Folosiți aplicația pentru informații în timp real despre întârzieri.",
+                "en": "Use the app for real-time info on rain delays."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die AKT-Reise-App für Echtzeit-Informationen.",
+              "Planen Sie Pufferzeiten für wetterbedingte Verspätungen ein.",
+              "Halten Sie Ihr Ticket (Handy oder Karte) griffbereit und trocken.",
+              "Die Busse sind gut beheizt und bieten Schutz vor dem Wetter.",
+              "Einige Haltestellen in Küstennähe sind sehr windanfällig."
+            ],
+            "hu": [
+              "Használja az AKT menetrendi alkalmazást élő információkért.",
+              "Tervezzen be puffert az időjárás miatti késésekre.",
+              "Tartsa jegyét (telefont vagy kártyát) kéznél és szárazon.",
+              "A buszok jól fűtöttek és védelmet nyújtanak az időjárás ellen.",
+              "Néhány tengerparti megálló nagyon szeles lehet."
+            ],
+            "ro": [
+              "Utilizați aplicația de călătorie AKT pentru informații în timp real.",
+              "Planificați timpi de rezervă pentru întârzieri cauzate de vreme.",
+              "Păstrați biletul (telefonul sau cardul) la îndemână și uscat.",
+              "Autobuzele sunt bine încălzite și oferă protecție contra vremii.",
+              "Unele stații de lângă coastă sunt foarte expuse la vânt."
+            ],
+            "en": [
+              "Use the AKT travel app for real-time information.",
+              "Allow for buffer times due to weather-related delays.",
+              "Keep your ticket (phone or card) handy and dry.",
+              "Buses are well-heated and provide shelter from the weather.",
+              "Some stops near the coast can be very windy."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Morgen an der Busstation von Farsund. Mittags besichtigen wir das warme Innere von Husan und der Kirche. Der Nachmittag führt uns mit dem Linienbus durch die verschneite Küstenlandschaft von Vanse nach Loshavn. Die blaue Stunde erleben wir gemütlich am Hafen, bevor uns der Transit sicher zum Ausgangspunkt zurückbringt.",
+            "hu": "Hűvös reggel Farsund buszállomásán. Délben a Husan és a templom meleg belső tereit látogatjuk meg. A délután menetrend szerinti busszal szeljük át a havas part menti tájat Vanse és Loshavn között. A kék órát kényelmesen, a kikötőben élvezzük, mielőtt a járat biztonságban visszavisz minket.",
+            "ro": "O dimineață răcoroasă la autogara din Farsund. La prânz vizităm interiorul cald al Husanului și al bisericii. După-amiaza ne poartă cu autobuzul prin peisajul de coastă înzăpezit de la Vanse la Loshavn. Savurăm ora albastră în port, înainte ca autobuzul să ne aducă înapoi.",
+            "en": "A chilly morning at Farsund bus station. At noon, we visit the warm interiors of Husan and the church. The afternoon takes us by bus through the snowy coastal landscape from Vanse to Loshavn. We enjoy the blue hour at the harbour before transit brings us safely back to the starting point."
+          },
+          "stops": [
+            {
+              "name": "Farsund Centre Cluster: Bus Station",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich im Wartebereich auf.",
+                "hu": "Melegedjen fel a váróteremben.",
+                "ro": "Încălziți-vă în zona de așteptare.",
+                "en": "Warm up in the waiting area."
+              }
+            },
+            {
+              "name": "Husan and Farsund Church",
+              "tip_5lang": {
+                "de": "Ideale Orte, um der Kälte kurz zu entfliehen.",
+                "hu": "Ideális helyek, hogy rövid időre elmeneküljünk a hideg elől.",
+                "ro": "Locuri ideale pentru a scăpa scurt de frig.",
+                "en": "Ideal places to escape the cold briefly."
+              }
+            },
+            {
+              "name": "Vanse Cluster",
+              "tip_5lang": {
+                "de": "Beachten Sie mögliche Winterfahrplan-Änderungen.",
+                "hu": "Ügyeljen az esetleges téli menetrend-módosításokra.",
+                "ro": "Atenție la posibilele modificări ale programului de iarnă.",
+                "en": "Check for possible winter schedule changes."
+              }
+            },
+            {
+              "name": "Loshavn Cluster",
+              "tip_5lang": {
+                "de": "Tragen Sie warme Schuhe für die Zeit an der Haltestelle.",
+                "hu": "Viseljen meleg cipőt a megállóban töltött időhöz.",
+                "ro": "Purtați încălțăminte călduroasă pentru timpul petrecut în stație.",
+                "en": "Wear warm shoes for your time at the bus stop."
+              }
+            },
+            {
+              "name": "Farsund Harbour",
+              "tip_5lang": {
+                "de": "Der Hafen ist im Winterlicht besonders fotogen.",
+                "hu": "A kikötő a téli fényben különösen fotogén.",
+                "ro": "Portul este deosebit de fotogenic în lumina iernii.",
+                "en": "The harbour is particularly photogenic in winter light."
+              }
+            },
+            {
+              "name": "End of Tour",
+              "tip_5lang": {
+                "de": "Genießen Sie die beheizte Rückfahrt.",
+                "hu": "Élvezze a fűtött visszautat.",
+                "ro": "Bucurați-vă de drumul de întoarcere încălzit.",
+                "en": "Enjoy the heated ride back."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrpläne können sich bei starkem Schneefall ändern.",
+              "Die AKT-App zeigt Verspätungen zuverlässig an.",
+              "In Bussen herrscht oft ein großer Temperaturunterschied zum Außenbereich.",
+              "Die letzte Rückfahrt ist im Winter oft früher; prüfen Sie das.",
+              "Halten Sie an der Haltestelle Ihren Körper durch Bewegung warm."
+            ],
+            "hu": [
+              "Erős havazás esetén a menetrendek változhatnak.",
+              "Az AKT alkalmazás megbízhatóan jelzi a késéseket.",
+              "A buszokon gyakran nagy a hőmérséklet-különbség a kintihez képest.",
+              "Az utolsó járat télen gyakran korábban indul; ellenőrizze.",
+              "A megállóban várakozva mozogjon, hogy melegen tartsa magát."
+            ],
+            "ro": [
+              "Orarele se pot schimba în caz de ninsori abundente.",
+              "Aplicația AKT indică întârzierile în mod fiabil.",
+              "În autobuze există adesea o diferență mare de temperatură față de exterior.",
+              "Ultima cursă de întoarcere este adesea mai devreme iarna; verificați.",
+              "Mențineți-vă corpul cald prin mișcare în timp ce așteptați în stație."
+            ],
+            "en": [
+              "Schedules may change during heavy snowfall.",
+              "The AKT app reliably indicates delays.",
+              "Buses often have a large temperature difference from the outside.",
+              "The last return trip is often earlier in winter; check it.",
+              "Keep your body warm through movement while waiting at the stop."
+            ]
+          }
+        }
+      }
     }
   }
 }

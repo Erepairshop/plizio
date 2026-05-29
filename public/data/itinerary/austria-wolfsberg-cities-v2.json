@@ -320,6 +320,196 @@
           "Wolfsberg is compact, but the small alleys can be confusing; a map is helpful.",
           "Many shops close for lunch."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt am Hohen Platz, wo die historischen Fassaden im Regen glänzen. Ein kurzer Sprint zum Rathaus bietet Schutz, bevor es zur Stadtpfarrkirche St. Markus geht. Der Mittag steht ganz im Zeichen der Kultur im trockenen Museum im Lavanthaus. Am Nachmittag führt der Weg hinauf zum Schloss Wolfsberg, das neugotische Monument wirkt bei Wolken besonders mystisch. Der Tag endet ruhig an der St. Jakobskirche.",
+            "hu": "A reggel a Hoher Platzon indul, ahol a történelmi homlokzatok az esőben csillognak. Egy rövid sprint a városházáig menedéket nyújt a Szent Márk plébániatemplom előtt. A délutánt a Lavanthaus Múzeum száraz termeiben töltjük, elmerülve a helyi történelemben. Később a Wolfsberg-kastély neogótikus tornyai közé kapaszkodunk fel, amelyek a felhők között még titokzatosabbak. A napot a Szent Jakab-templom csendje zárja.",
+            "ro": "Dimineața începe în Hoher Platz, unde fațadele istorice strălucesc în ploaie. Un scurt sprint către primărie oferă adăpost înainte de a vizita Biserica Sf. Marcu. Prânzul este dedicat culturii în Muzeul din Lavanthaus, un loc perfect uscat. După-amiaza, drumul urcă spre Castelul Wolfsberg, monumentul neogotic părând deosebit de mistic sub nori. Ziua se încheie liniștit la biserica filială Sf. Iacob.",
+            "en": "The morning begins at Hoher Platz, where historic facades glisten in the rain. A short dash to the Town Hall provides shelter before visiting St. Mark's. Midday is dedicated to culture inside the dry Museum in the Lavanthaus. In the afternoon, the path leads up to Wolfsberg Castle; the neo-Gothic monument looks particularly mystical under the clouds. The day ends quietly at St. Jacob's Branch Church."
+          },
+          "stops": [
+            {
+              "name": "Hoher Platz Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden und Hauseingänge als kurzen Regenschutz.",
+                "hu": "Használja az árkádokat és a házbejárókat rövid eső elleni védelemként.",
+                "ro": "Folosiți arcadele și intrările clădirilor ca adăpost scurt împotriva ploii.",
+                "en": "Use the arcades and building entrances as brief rain shelters."
+              }
+            },
+            {
+              "name": "Wolfsberg Town Hall",
+              "tip_5lang": {
+                "de": "Idealer Ort, um die Regenpause für ein Foto der Fassade zu nutzen.",
+                "hu": "Ideális hely, hogy az esőszünetet a homlokzat lefotózására használja.",
+                "ro": "Loc ideal pentru a profita de o pauză de ploaie pentru o fotografie a fațadei.",
+                "en": "Ideal spot to use a rain break for a photo of the facade."
+              }
+            },
+            {
+              "name": "St. Mark's Parish Church",
+              "tip_5lang": {
+                "de": "Das ruhige Innere bietet perfekten Schutz vor dem Wolkenbruch.",
+                "hu": "A nyugodt belső tér tökéletes védelmet nyújt a felhőszakadás elől.",
+                "ro": "Interiorul liniștit oferă adăpost perfect împotriva averselor.",
+                "en": "The quiet interior offers perfect shelter from the downpour."
+              }
+            },
+            {
+              "name": "Museum in the Lavanthaus",
+              "tip_5lang": {
+                "de": "Planen Sie hier mehr Zeit ein, um dem Regen komplett zu entgehen.",
+                "hu": "Tervezzen ide több időt, hogy teljesen elkerülje az esőt.",
+                "ro": "Planificați mai mult timp aici pentru a evita complet ploaia.",
+                "en": "Plan more time here to completely escape the rain."
+              }
+            },
+            {
+              "name": "Wolfsberg Castle",
+              "tip_5lang": {
+                "de": "Der Aufstieg kann rutschig sein; festes Schuhwerk ist ratsam.",
+                "hu": "A felfelé vezető út csúszós lehet; stabil lábbeli ajánlott.",
+                "ro": "Urcarea poate fi alunecoasă; se recomandă încălțăminte stabilă.",
+                "en": "The climb can be slippery; sturdy footwear is advisable."
+              }
+            },
+            {
+              "name": "St. Jacob's Branch Church",
+              "tip_5lang": {
+                "de": "Ein schöner, besinnlicher Abschluss eines nassen Wandertages.",
+                "hu": "Szép, elmélkedő lezárása egy vizes túranapnak.",
+                "ro": "Un final frumos și reflexiv pentru o zi de drumeție umedă.",
+                "en": "A beautiful, contemplative conclusion to a wet hiking day."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Feste Wanderschuhe sind auf dem Weg zum Schloss bei Nässe unerlässlich.",
+              "Das Lavanthaus Museum ist der beste Rückzugsort bei starkem Dauerregen.",
+              "Tragen Sie eine hochwertige Regenjacke, da der Wind im Tal zunehmen kann.",
+              "Die Cafés am Hohen Platz bieten gemütliche Pausen mit Blick auf den Regen.",
+              "Achten Sie auf Kopfsteinpflaster in der Altstadt, das bei Nässe glatt wird."
+            ],
+            "hu": [
+              "A kastélyhoz vezető úton nedves időben elengedhetetlen a stabil túrabakancs.",
+              "A Lavanthaus Múzeum a legjobb menedék tartós, erős esőzés esetén.",
+              "Viseljen minőségi esőkabátot, mert a völgyben felerősödhet a szél.",
+              "A Hoher Platz kávézói hangulatos pihenőt kínálnak kilátással az esőre.",
+              "Ügyeljen az óváros macskaköveire, amelyek nedvesen csúszóssá válnak."
+            ],
+            "ro": [
+              "Încălțămintea stabilă de drumeție este esențială pe drumul spre castel pe vreme umedă.",
+              "Muzeul Lavanthaus este cel mai bun refugiu în caz de ploaie puternică și persistentă.",
+              "Purtați o jachetă de ploaie de calitate, deoarece vântul se poate intensifica în vale.",
+              "Cafenelele din Hoher Platz oferă pauze primitoare cu vedere la ploaie.",
+              "Atenție la pavajul din orașul vechi, care devine alunecos când este ud."
+            ],
+            "en": [
+              "Sturdy hiking boots are essential on the way to the castle in wet conditions.",
+              "The Lavanthaus Museum is the best retreat during heavy persistent rain.",
+              "Wear a high-quality rain jacket as the wind can pick up in the valley.",
+              "Cafes at Hoher Platz offer cozy breaks with a view of the rain.",
+              "Watch out for cobblestones in the old town, which become slippery when wet."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein winterlicher Morgen am Hohen Platz empfängt Sie mit frostiger klarer Luft. Nach einem Blick auf das Rathaus wärmen Sie sich in der Stadtpfarrkirche St. Markus auf. Der Mittag im Museum im Lavanthaus bietet spannende Einblicke in die Region bei angenehmen Temperaturen. Am frühen Nachmittag stapfen Sie hinauf zum Schloss Wolfsberg, das im Winterlicht besonders prachtvoll wirkt. Der Tag endet, wenn die Sonne früh hinter den Lavanttaler Alpen versinkt.",
+            "hu": "A téli reggel a Hoher Platzon fagyos, tiszta levegővel fogadja. A városháza megtekintése után a Szent Márk plébániatemplomban melegedhet fel. A délutáni múzeumlátogatás a Lavanthausban kellemes hőmérséklet mellett kínál betekintést a régió múltjába. Kora délután kapaszkodjon fel a Wolfsberg-kastélyhoz, amely a téli fényekben különösen pompás. A nap akkor ér véget, amikor a nap korán eltűnik a Lavant-völgyi Alpok mögött.",
+            "ro": "O dimineață de iarnă în Hoher Platz vă întâmpină cu aer rece și clar. După o privire spre primărie, vă puteți încălzi în Biserica Sf. Marcu. Prânzul la Muzeul din Lavanthaus oferă perspective fascinante asupra regiunii la temperaturi plăcute. La începutul după-amiezii, urcați spre Castelul Wolfsberg, care arată magnific în lumina de iarnă. Ziua se încheie când soarele apune devreme după Alpii Lavanttal.",
+            "en": "A winter morning at Hoher Platz welcomes you with frosty, clear air. After a glance at the Town Hall, warm up in St. Mark's Parish Church. Midday at the Museum in the Lavanthaus offers exciting insights into the region at comfortable temperatures. In the early afternoon, trek up to Wolfsberg Castle, which looks particularly magnificent in the winter light. The day ends as the sun sets early behind the Lavanttal Alps."
+          },
+          "stops": [
+            {
+              "name": "Hoher Platz Square",
+              "tip_5lang": {
+                "de": "Genießen Sie die winterliche Stille am Morgen auf dem Platz.",
+                "hu": "Élvezze a reggeli téli csendet a téren.",
+                "ro": "Bucurați-vă de liniștea hibernală de dimineață în piață.",
+                "en": "Enjoy the wintry silence in the morning on the square."
+              }
+            },
+            {
+              "name": "Wolfsberg Town Hall",
+              "tip_5lang": {
+                "de": "Die Fassade wirkt im Kontrast zum weißen Schnee besonders markant.",
+                "hu": "A homlokzat különösen markánsan hat a fehér hóval szemben.",
+                "ro": "Fațada pare deosebit de izbitoare în contrast cu zăpada albă.",
+                "en": "The facade looks particularly striking in contrast to the white snow."
+              }
+            },
+            {
+              "name": "St. Mark's Parish Church",
+              "tip_5lang": {
+                "de": "Ein Ort der Ruhe und Wärme während des Stadtrundgangs.",
+                "hu": "A nyugalom és a meleg helye a városnézés során.",
+                "ro": "Un loc de liniște și căldură în timpul turului orașului.",
+                "en": "A place of peace and warmth during the city walk."
+              }
+            },
+            {
+              "name": "Museum in the Lavanthaus",
+              "tip_5lang": {
+                "de": "Perfekt, um sich aufzuwärmen und Geschichte zu erleben.",
+                "hu": "Tökéletes hely a felmelegedéshez és a történelem megismeréséhez.",
+                "ro": "Perfect pentru a vă încălzi și pentru a experimenta istoria.",
+                "en": "Perfect for warming up and experiencing history."
+              }
+            },
+            {
+              "name": "Wolfsberg Castle",
+              "tip_5lang": {
+                "de": "Wunderschönes Fotomotiv im Schnee; Vorsicht auf glatten Wegen.",
+                "hu": "Gyönyörű fotótéma a hóban; vigyázat a csúszós utakon.",
+                "ro": "Subiect foto superb în zăpadă; atenție pe potecile alunecoase.",
+                "en": "Beautiful photo motif in the snow; be careful on slippery paths."
+              }
+            },
+            {
+              "name": "St. Jacob's Branch Church",
+              "tip_5lang": {
+                "de": "Das frühe Abendlicht verleiht der Kirche einen besonderen Glanz.",
+                "hu": "A kora esti fény különleges ragyogást kölcsönöz a templomnak.",
+                "ro": "Lumina timpurie de seară conferă bisericii o strălucire deosebită.",
+                "en": "The early evening light gives the church a special glow."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Winter bereits gegen 16:30 Uhr unter, planen Sie entsprechend.",
+              "Tragen Sie Thermokleidung, da die Temperaturen im Lavanttal stark sinken können.",
+              "Der Weg zum Schloss kann vereist sein; nutzen Sie geräumte Hauptwege.",
+              "Genießen Sie einen heißen Punsch oder Tee in den lokalen Bäckereien.",
+              "Warme, isolierte Schuhe sind für das Gehen auf gefrorenem Boden wichtig."
+            ],
+            "hu": [
+              "A nap télen már 16:30 körül nyugszik, tervezzen ennek megfelelően.",
+              "Viseljen thermaruházatot, mert a Lavant-völgyben a hőmérséklet jelentősen leeshet.",
+              "A kastélyhoz vezető út jeges lehet; használja a takarított főutakat.",
+              "Élvezzen egy forró puncsot vagy teát a helyi pékségekben.",
+              "A fagyott talajon való járáshoz fontos a meleg, hőszigetelt cipő."
+            ],
+            "ro": [
+              "Soarele apune deja în jur de ora 16:30 iarna, planificați în consecință.",
+              "Purtați îmbrăcăminte termică, deoarece temperaturile pot scădea mult în Lavanttal.",
+              "Drumul spre castel poate fi înghețat; folosiți căile principale curățate.",
+              "Savurați un punch fierbinte sau un ceai în brutăriile locale.",
+              "Încălțămintea caldă și izolată este importantă pentru mersul pe solul înghețat."
+            ],
+            "en": [
+              "The sun sets as early as 16:30 in winter, plan accordingly.",
+              "Wear thermal clothing as temperatures in the Lavanttal can drop significantly.",
+              "The path to the castle can be icy; use cleared main paths.",
+              "Enjoy a hot punch or tea in the local bakeries.",
+              "Warm, insulated shoes are important for walking on frozen ground."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -634,6 +824,196 @@
           "Always lock your bike securely, especially in the city center.",
           "Pay attention to the cycle path signs to avoid getting lost."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ihre Radtour durch das regnerische Wolfsberg beginnt am Griesplatz. Der Weg führt über den Hohen Platz zur Stadtpfarrkirche, wobei das nasse Pflaster Vorsicht verlangt. Im Museum im Lavanthaus finden Sie und Ihre Ausrüstung eine längere Trockenpause. Nachmittags geht es zum Kuss Zentrum und schließlich den steilen, bei Regen anspruchsvollen Weg hinauf zum Schloss. Der Blick auf die verregnete Stadt belohnt die Mühe, bevor es zurück geht.",
+            "hu": "Esős biciklitúrája Wolfsbergben a Griesplatzon indul. Az út a Hoher Platzon át vezet a plébániatemplomhoz, ahol a nedves burkolat óvatosságot igényel. A Lavanthaus Múzeumban Ön és felszerelése is hosszabb száradási szünetet kaphat. Délután a Kuss központ felé veszi az irányt, majd végül a kastélyhoz vezető meredek, esőben embert próbáló útra. Az eső áztatta város látványa kárpótolja a fáradozásért.",
+            "ro": "Turul cu bicicleta prin Wolfsbergul ploios începe la Griesplatz. Drumul duce prin Hoher Platz către biserica parohială, pavajul umed necesitând prudență. În Muzeul din Lavanthaus, dumneavoastră și echipamentul veți găsi o pauză lungă de uscare. După-amiaza se merge spre centrul Kuss și, în final, pe drumul abrupt și solicitant pe ploaie spre castel. Vederea asupra orașului plouat răsplătește efortul înainte de întoarcere.",
+            "en": "Your bike tour through rainy Wolfsberg starts at Griesplatz. The route leads through Hoher Platz to the parish church, where wet pavement requires caution. In the Museum in the Lavanthaus, you and your gear can find a long drying break. In the afternoon, head to the Kuss center and finally up the steep path to the castle, which is challenging in the rain. The view of the rainy city rewards the effort before heading back."
+          },
+          "stops": [
+            {
+              "name": "Griesplatz Square",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor dem Start auf nasser Fahrbahn.",
+                "hu": "Indulás előtt ellenőrizze a fékeket a nedves úton.",
+                "ro": "Verificați frânele înainte de a pleca pe carosabilul umed.",
+                "en": "Check your brakes before starting on wet roads."
+              }
+            },
+            {
+              "name": "Hoher Platz Square",
+              "tip_5lang": {
+                "de": "Vorsicht beim Befahren des Kopfsteinpflasters bei Nässe.",
+                "hu": "Vigyázat a macskaköves burkolaton nedves időben.",
+                "ro": "Atenție la circularea pe pavaj pe vreme umedă.",
+                "en": "Be careful when riding on cobblestones in the wet."
+              }
+            },
+            {
+              "name": "St. Mark's Parish Church",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad sicher und windgeschützt ab.",
+                "hu": "Állítsa le a biciklit biztonságos és szélvédett helyen.",
+                "ro": "Parcați bicicleta în siguranță și ferită de vânt.",
+                "en": "Park your bike securely and protected from the wind."
+              }
+            },
+            {
+              "name": "Museum in the Lavanthaus",
+              "tip_5lang": {
+                "de": "Gute Gelegenheit, um nasse Regenbekleidung kurz abzulegen.",
+                "hu": "Jó alkalom a nedves esőruházat rövid levételére.",
+                "ro": "Oportunitate bună de a scoate scurt echipamentul umed de ploaie.",
+                "en": "Good opportunity to briefly take off wet rain gear."
+              }
+            },
+            {
+              "name": "Kuss Culture and Seminar Center",
+              "tip_5lang": {
+                "de": "Kurzer Stopp unter dem Vordach des modernen Gebäudes.",
+                "hu": "Rövid megálló a modern épület előtetője alatt.",
+                "ro": "Scurt popas sub streașina clădirii moderne.",
+                "en": "Brief stop under the overhang of the modern building."
+              }
+            },
+            {
+              "name": "Wolfsberg Castle",
+              "tip_5lang": {
+                "de": "Der Anstieg erfordert bei Regen viel Konzentration und Kraft.",
+                "hu": "Az emelkedő esőben nagy koncentrációt és erőt igényel.",
+                "ro": "Urcarea necesită multă concentrare și forță pe ploaie.",
+                "en": "The climb requires a lot of concentration and strength in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche am Fahrrad sind bei den Pfützen im Tal ein Muss.",
+              "Vermeiden Sie schnelle Kurven auf dem nassen Kopfsteinpflaster der Altstadt.",
+              "Eine wasserdichte Packtasche schützt Ihre Kamera und Wertsachen.",
+              "Der Lavantradweg kann bei starkem Regen stellenweise Schlamm aufweisen.",
+              "Reflektierende Kleidung verbessert Ihre Sichtbarkeit bei trübem Regenwetter."
+            ],
+            "hu": [
+              "A völgyben lévő tócsák miatt a sárvédő kötelező a kerékpáron.",
+              "Kerülje a gyors kanyarodást az óváros nedves macskakövein.",
+              "Vízálló táska védi a kamerát és az értéktárgyakat.",
+              "A Lavant kerékpárút erős esőben helyenként sáros lehet.",
+              "A fényvisszaverő ruházat javítja a láthatóságot borús esős időben."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt obligatorii din cauza bălților din vale.",
+              "Evitați virajele rapide pe pavajul umed din orașul vechi.",
+              "O geantă impermeabilă vă protejează camera și obiectele de valoare.",
+              "Pista de biciclete Lavant poate prezenta noroi pe alocuri în caz de ploaie.",
+              "Îmbrăcămintea reflectorizantă vă îmbunătățește vizibilitatea pe vreme mohorâtă."
+            ],
+            "en": [
+              "Fenders on your bike are a must with the puddles in the valley.",
+              "Avoid sharp turns on the wet cobblestones of the old town.",
+              "A waterproof pannier protects your camera and valuables.",
+              "The Lavant cycle path can be muddy in places during heavy rain.",
+              "Reflective clothing improves your visibility in gloomy rainy weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Kalt und klar präsentiert sich Wolfsberg auf dieser winterlichen Radtour. Vom Griesplatz geht es zum Hohen Platz, wo der Frost die Statuen ziert. Die Stadtpfarrkirche und das Museum bieten willkommene Stopps, um die kalten Finger aufzuwärmen. Am Nachmittag radeln Sie am Kuss Zentrum vorbei zum Schloss. Die Auffahrt hält Sie warm, und oben angekommen, glitzert die Stadt im Schnee. Denken Sie an die frühe Dämmerung für den Rückweg.",
+            "hu": "Hideg és tiszta Wolfsberg képe ezen a téli kerékpártúrán. A Griesplatztól a Hoher Platzig tekerünk, ahol zúzmara díszíti a szobrokat. A plébániatemplom és a múzeum szívesen látott megállókat kínál a hideg ujjak felmelegítésére. Délután a Kuss központ mellett elhaladva tekerünk a kastélyhoz. A felfelé vezető út melegen tartja, fent pedig a hóban szikrázó város várja. Ügyeljen a korai sötétedésre a visszaúton.",
+            "ro": "Wolfsberg se prezintă rece și clar în acest tur cu bicicleta de iarnă. De la Griesplatz mergeți spre Hoher Platz, unde înghețul decorează statuile. Biserica parohială și muzeul oferă popasuri binevenite pentru a vă încălzi degetele reci. După-amiaza pedalați pe lângă centrul Kuss spre castel. Urcarea vă ține de cald, iar odată ajunși sus, orașul sclipeste în zăpadă. Atenție la amurgul timpuriu pentru drumul de întoarcere.",
+            "en": "Cold and clear, Wolfsberg presents itself on this winter bike tour. From Griesplatz, head to Hoher Platz, where frost adorns the statues. The parish church and museum offer welcome stops to warm up cold fingers. In the afternoon, cycle past the Kuss center to the castle. The ride up keeps you warm, and once at the top, the city sparkles in the snow. Keep the early dusk in mind for the return trip."
+          },
+          "stops": [
+            {
+              "name": "Griesplatz Square",
+              "tip_5lang": {
+                "de": "Achten Sie auf mögliche Eisstellen im Schatten der Gebäude.",
+                "hu": "Ügyeljen az esetleges jeges foltokra az épületek árnyékában.",
+                "ro": "Atenție la posibilele porțiuni de gheață la umbra clădirilor.",
+                "en": "Watch out for possible icy spots in the shadows of buildings."
+              }
+            },
+            {
+              "name": "Hoher Platz Square",
+              "tip_5lang": {
+                "de": "Vorsicht bei gefrorenem Kopfsteinpflaster, es kann sehr glatt sein.",
+                "hu": "Vigyázat a fagyott macskaköveken, nagyon csúszós lehet.",
+                "ro": "Atenție la pavajul înghețat, poate fi foarte alunecos.",
+                "en": "Be careful on frozen cobblestones; they can be very slick."
+              }
+            },
+            {
+              "name": "St. Mark's Parish Church",
+              "tip_5lang": {
+                "de": "Kurze Pause, um die Hände in der Kirche aufzuwärmen.",
+                "hu": "Rövid szünet, hogy felmelegítse a kezét a templomban.",
+                "ro": "Scurtă pauză pentru a vă încălzi mâinile în biserică.",
+                "en": "Short break to warm up your hands in the church."
+              }
+            },
+            {
+              "name": "Museum in the Lavanthaus",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch als Aufwärmphase zur Mittagszeit.",
+                "hu": "Használja a múzeumlátogatást melegedőként ebédidőben.",
+                "ro": "Folosiți vizita la muzeu ca fază de încălzire la prânz.",
+                "en": "Use the museum visit as a warm-up phase at lunchtime."
+              }
+            },
+            {
+              "name": "Kuss Culture and Seminar Center",
+              "tip_5lang": {
+                "de": "Das moderne Areal ist meist gut geräumt und leicht befahrbar.",
+                "hu": "A modern terület általában jól takarított és könnyen járható.",
+                "ro": "Zona modernă este de obicei bine curățată și ușor de parcurs.",
+                "en": "The modern area is usually well-cleared and easy to ride."
+              }
+            },
+            {
+              "name": "Wolfsberg Castle",
+              "tip_5lang": {
+                "de": "Der Anstieg ist anstrengend, bietet aber tolle Winterausblicke.",
+                "hu": "Az emelkedő megerőltető, de nagyszerű téli kilátást nyújt.",
+                "ro": "Urcarea este obositoare, dar oferă vederi superbe de iarnă.",
+                "en": "The climb is strenuous but offers great winter views."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterfeste Fahrradhandschuhe sind bei Minusgraden unverzichtbar.",
+              "Achten Sie auf Splitt auf den Radwegen, der den Grip verringern kann.",
+              "Die Kälte entlädt E-Bike-Akkus schneller; planen Sie Reserven ein.",
+              "Tragen Sie eine Mütze unter dem Helm, um den Wärmeverlust zu minimieren.",
+              "Beleuchtung ist wichtig, da es im Winter schon ab 16:00 Uhr dämmert."
+            ],
+            "hu": [
+              "A télálló kerékpáros kesztyű nélkülözhetetlen mínusz fokokban.",
+              "Ügyeljen a kerékpárutakon lévő zúzalékra, ami csökkentheti a tapadást.",
+              "A hideg gyorsabban meríti az e-bike akkumulátorokat; tervezzen tartalékkal.",
+              "Viseljen sapkát a sisak alatt a hőveszteség minimalizálása érdekében.",
+              "A világítás fontos, mivel télen már 16:00 órától szürkül."
+            ],
+            "ro": [
+              "Mănușile de ciclism de iarnă sunt indispensabile la temperaturi negative.",
+              "Atenție la criblura de pe pistele de biciclete, care poate reduce aderența.",
+              "Frigul descarcă mai repede bateriile e-bike-urilor; planificați rezerve.",
+              "Purtați o căciulă sub cască pentru a minimiza pierderea de căldură.",
+              "Iluminarea este importantă, deoarece iarna se înserează deja de la 16:00."
+            ],
+            "en": [
+              "Winter-proof cycling gloves are indispensable in sub-zero temperatures.",
+              "Watch out for grit on cycle paths, which can reduce grip.",
+              "Cold drains e-bike batteries faster; plan for reserves.",
+              "Wear a cap under your helmet to minimize heat loss.",
+              "Lighting is important as it starts getting dark from 16:00 in winter."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -930,6 +1310,178 @@
           "Pay attention to one-way streets in the old town.",
           "Plan your route between clusters to save time."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein Regentag in Wolfsberg ist ideal, um die Sehenswürdigkeiten bequem mit dem Auto zu erkunden. Der Vormittag am Schloss Wolfsberg bietet dramatische Ausblicke aus dem Fenster. Danach geht es zum Museum im Lavanthaus, wo Sie direkt in der Nähe parken können. Der Hoher Platz lädt trotz Regen zu einem kurzen Spaziergang unter Schirmen ein, gefolgt von der Stadtpfarrkirche und dem Rathaus. Die kurzen Wege minimieren die Zeit im Freien.",
+            "hu": "Egy wolfsbergi esős nap ideális arra, hogy autóval, kényelmesen fedezze fel a látnivalókat. A Wolfsberg-kastély délelőtt drámai kilátást nyújt az ablakból. Ezután a Lavanthaus Múzeumba megyünk, ahol közvetlenül a közelben parkolhat. A Hoher Platz az eső ellenére is hívogat egy rövid, esernyős sétára, majd a plébániatemplom és a városháza következik. A rövid távolságok minimalizálják a szabadban töltött időt.",
+            "ro": "O zi ploioasă în Wolfsberg este ideală pentru a explora atracțiile confortabil cu mașina. Dimineața la Castelul Wolfsberg oferă vederi dramatice de pe fereastră. Apoi mergeți la Muzeul din Lavanthaus, unde puteți parca chiar în apropiere. Hoher Platz invită la o scurtă plimbare sub umbrele în ciuda ploii, urmată de biserica parohială și primărie. Traseele scurte minimizează timpul petrecut afară.",
+            "en": "A rainy day in Wolfsberg is ideal for exploring the sights comfortably by car. The morning at Wolfsberg Castle offers dramatic views from the window. Then it's off to the Museum in the Lavanthaus, where you can park right nearby. Hoher Platz invites you for a short walk under umbrellas despite the rain, followed by the parish church and the Town Hall. The short distances minimize time spent outdoors."
+          },
+          "stops": [
+            {
+              "name": "Wolfsberg Castle",
+              "tip_5lang": {
+                "de": "Parkplätze direkt beim Schloss ermöglichen einen trockenen Zugang.",
+                "hu": "A kastély melletti parkolók száraz bejutást tesznek lehetővé.",
+                "ro": "Parcările chiar lângă castel permit un acces uscat.",
+                "en": "Parking lots right at the castle allow for dry access."
+              }
+            },
+            {
+              "name": "Museum in the Lavanthaus",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkmöglichkeiten in der Nähe des Museums.",
+                "hu": "Használja a múzeum közelében található parkolási lehetőségeket.",
+                "ro": "Folosiți facilitățile de parcare din apropierea muzeului.",
+                "en": "Use the parking facilities near the museum."
+              }
+            },
+            {
+              "name": "Hoher Platz Square",
+              "tip_5lang": {
+                "de": "Kurzer Weg vom Parkhaus oder Parkplatz zum historischen Platz.",
+                "hu": "Rövid út a parkolóháztól vagy parkolótól a történelmi térig.",
+                "ro": "Drum scurt de la parcare la piața istorică.",
+                "en": "Short walk from the parking garage or lot to the historic square."
+              }
+            },
+            {
+              "name": "St. Mark's Parish Church",
+              "tip_5lang": {
+                "de": "Idealer Stopp für einen kurzen, wettergeschützten Besuch.",
+                "hu": "Ideális megálló egy rövid, időjárástól védett látogatáshoz.",
+                "ro": "Popas ideal pentru o vizită scurtă, protejată de intemperii.",
+                "en": "Ideal stop for a short, weather-protected visit."
+              }
+            },
+            {
+              "name": "Wolfsberg Town Hall",
+              "tip_5lang": {
+                "de": "Ein schneller Blick auf das Gebäude, bevor es zurück ins Auto geht.",
+                "hu": "Egy gyors pillantás az épületre, mielőtt visszatérne az autóba.",
+                "ro": "O privire rapidă asupra clădirii înainte de a reveni la mașină.",
+                "en": "A quick look at the building before heading back to the car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie die Parkplatzverfügbarkeit in der Altstadt bei Regen.",
+              "Vermeiden Sie tiefere Pfützen in der Nähe der Lavant-Ufer.",
+              "Halten Sie einen Regenschirm im Auto für die Wege zwischen Parkplatz und Ziel.",
+              "Beschlagene Scheiben können die Sicht auf die engen Gassen behindern.",
+              "Nutzen Sie Parkgaragen, um Ihr Auto während des Museumsbesuchs trocken zu halten."
+            ],
+            "hu": [
+              "Esőben ellenőrizze az óvárosi parkolóhelyek elérhetőségét.",
+              "Kerülje a mélyebb tócsákat a Lavant-part közelében.",
+              "Tartson esernyőt az autóban a parkoló és a célpont közötti szakaszokra.",
+              "A bepárásodott ablakok gátolhatják a kilátást a szűk utcákban.",
+              "Használjon parkolóházakat, hogy az autót szárazon tartsa a múzeumlátogatás alatt."
+            ],
+            "ro": [
+              "Verificați disponibilitatea locurilor de parcare în orașul vechi pe ploaie.",
+              "Evitați bălțile mai adânci în apropierea malurilor râului Lavant.",
+              "Țineți o umbrelă în mașină pentru segmentele dintre parcare și destinație.",
+              "Geamurile aburite pot îngreuna vizibilitatea în străzile înguste.",
+              "Folosiți garaje de parcare pentru a vă păstra mașina uscată în timpul vizitei la muzeu."
+            ],
+            "en": [
+              "Check parking availability in the old town when it rains.",
+              "Avoid deeper puddles near the Lavant riverbanks.",
+              "Keep an umbrella in the car for the walk between the parking spot and destination.",
+              "Fogged-up windows can hinder visibility in narrow alleys.",
+              "Use parking garages to keep your car dry during the museum visit."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterzauber in Wolfsberg bequem vom Fahrersitz aus. Der Tag beginnt mit der Fahrt hinauf zum verschneiten Schloss Wolfsberg. Danach führt die Route zum warmen Museum im Lavanthaus, einem kulturellen Highlight im Winter. Ein kurzer Stopp am Hohen Platz lässt Sie die winterliche Dekoration der Stadt bewundern, bevor Sie die Stadtpfarrkirche besuchen. Das Rathaus bildet den Abschluss, bevor Sie die Heizung im Auto wieder voll aufdrehen.",
+            "hu": "Téli varázs Wolfsbergben, kényelmesen a vezetőülésből. A nap a havas Wolfsberg-kastélyhoz vezető úttal indul. Ezután az út a meleg Lavanthaus Múzeumhoz vezet, amely télen kulturális fénypont. Egy rövid megálló a Hoher Platzon lehetővé teszi a város téli dekorációjának megcsodálását, mielőtt meglátogatná a plébániatemplomot. A városháza zárja a sort, mielőtt ismét feltekerné a fűtést az autóban.",
+            "ro": "Farmecul iernii în Wolfsberg, confortabil de pe scaunul șoferului. Ziua începe cu drumul spre Castelul Wolfsberg înzăpezit. Apoi traseul duce la Muzeul călduros din Lavanthaus, un punct culminant cultural iarna. Un scurt popas în Hoher Platz vă permite să admirați decorațiunile de iarnă ale orașului înainte de a vizita biserica parohială. Primăria încheie turul înainte de a porni din nou încălzirea la maxim.",
+            "en": "Winter magic in Wolfsberg comfortably from the driver's seat. The day begins with a drive up to the snowy Wolfsberg Castle. Then the route leads to the warm Museum in the Lavanthaus, a cultural highlight in winter. A short stop at Hoher Platz lets you admire the city's winter decorations before visiting the parish church. The Town Hall marks the end before you turn the car heater back up."
+          },
+          "stops": [
+            {
+              "name": "Wolfsberg Castle",
+              "tip_5lang": {
+                "de": "Winterreifen und ggf. Schneeketten für die Schlossauffahrt wichtig.",
+                "hu": "Téli gumi és szükség esetén hólánc fontos a kastélyhoz vezető úton.",
+                "ro": "Anvelopele de iarnă și eventual lanțurile sunt importante pentru urcarea la castel.",
+                "en": "Winter tires and possibly snow chains are important for the castle drive."
+              }
+            },
+            {
+              "name": "Museum in the Lavanthaus",
+              "tip_5lang": {
+                "de": "Ein gut beheizter Stopp, ideal zum Aufwärmen zwischendurch.",
+                "hu": "Jól fűtött megálló, ideális a köztes felmelegedéshez.",
+                "ro": "Un popas bine încălzit, ideal pentru a vă încălzi între vizite.",
+                "en": "A well-heated stop, ideal for warming up in between."
+              }
+            },
+            {
+              "name": "Hoher Platz Square",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die verschneite Altstadt aus dem Auto.",
+                "hu": "Élvezze a kilátást a havas óvárosra az autóból.",
+                "ro": "Bucurați-vă de vederea spre orașul vechi înzăpezit din mașină.",
+                "en": "Enjoy the view of the snowy old town from the car."
+              }
+            },
+            {
+              "name": "St. Mark's Parish Church",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche für einen Moment der inneren Einkehr.",
+                "hu": "Látogassa meg a templomot egy pillanatnyi belső elcsendesedésre.",
+                "ro": "Vizitați biserica pentru un moment de reculegere interioară.",
+                "en": "Visit the church for a moment of inner contemplation."
+              }
+            },
+            {
+              "name": "Wolfsberg Town Hall",
+              "tip_5lang": {
+                "de": "Schneller Fotostopp der beleuchteten Fassade in der Dämmerung.",
+                "hu": "Gyors fotómegálló a kivilágított homlokzatnál szürkületben.",
+                "ro": "Scurt popas foto la fațada iluminată în amurg.",
+                "en": "Quick photo stop at the illuminated facade at dusk."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Glatteis auf den steileren Straßen zum Schloss.",
+              "Führen Sie einen Eiskratzer und Frostschutzmittel im Auto mit.",
+              "Planen Sie mehr Zeit für die Parkplatzsuche bei Schneeräumung ein.",
+              "Die Batterieleistung kann bei extremer Kälte nachlassen.",
+              "Die Straßenbeleuchtung in Wolfsberg macht die Fahrt in der Dunkelheit sicher."
+            ],
+            "hu": [
+              "Ügyeljen a jegesedésre a kastélyhoz vezető meredekebb utakon.",
+              "Legyen az autóban jégkaparó és fagyálló folyadék.",
+              "Tervezzen több időt a parkolóhely-keresésre hóeltakarítás idején.",
+              "Az akkumulátor teljesítménye extrém hidegben csökkenhet.",
+              "Wolfsberg utcai világítása biztonságossá teszi a vezetést sötétben."
+            ],
+            "ro": [
+              "Atenție la polei pe străzile mai abrupte spre castel.",
+              "Țineți o racletă și lichid antigriz în mașină.",
+              "Planificați mai mult timp pentru căutarea parcării în timpul deszăpezirii.",
+              "Performanța bateriei poate scădea în caz de frig extrem.",
+              "Iluminatul stradal din Wolfsberg face condusul sigur pe timp de noapte."
+            ],
+            "en": [
+              "Watch out for black ice on the steeper roads to the castle.",
+              "Carry an ice scraper and antifreeze in the car.",
+              "Plan more time for finding parking during snow removal.",
+              "Battery performance can drop in extreme cold.",
+              "The street lighting in Wolfsberg makes driving in the dark safe."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1226,6 +1778,178 @@
           "Buses are not always on time, so plan for some buffer time.",
           "Pay attention to the stop announcements or use a map app."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regnerisches Wolfsberg lässt sich gut mit dem Bus kombinieren. Start am Griesplatz, dem zentralen Knotenpunkt. Von dort geht es zum Hohen Platz und zur Stadtpfarrkirche, wobei die Wartehäuschen guten Schutz bieten. Das Museum im Lavanthaus ist ein Highlight für den nassen Mittag. Später bringt Sie der Bus in die Nähe des Schlosses, sodass nur ein kurzer Fußmarsch im Regen bleibt. Ein praktischer Weg, um trocken durch die Stadt zu kommen.",
+            "hu": "Az esős Wolfsberg jól felfedezhető busszal kombinálva. Indulás a Griesplatzról, a központi csomópontról. Onnan a Hoher Platz és a plébániatemplom felé vesszük az irányt, ahol a várótermek jó védelmet nyújtanak. A Lavanthaus Múzeum a vizes délidő fénypontja. Később a busz a kastély közelébe viszi, így csak rövid séta marad az esőben. Praktikus módja a városnézésnek szárazon.",
+            "ro": "Wolfsbergul ploios poate fi explorat bine combinând mersul cu autobuzul. Start de la Griesplatz, nodul central. De acolo mergeți spre Hoher Platz și biserica parohială, unde stațiile oferă protecție bună. Muzeul din Lavanthaus este punctul culminant al prânzului umed. Mai târziu, autobuzul vă duce aproape de castel, rămânând doar o scurtă plimbare prin ploaie. O cale practică de a trece uscat prin oraș.",
+            "en": "Rainy Wolfsberg can be well explored by combining bus trips. Start at Griesplatz, the central hub. From there, head to Hoher Platz and the parish church, where the shelters provide good protection. The Museum in the Lavanthaus is a highlight for the wet midday. Later, the bus takes you near the castle, leaving only a short walk in the rain. A practical way to get through the city dry."
+          },
+          "stops": [
+            {
+              "name": "Bus Station/Griesplatz",
+              "tip_5lang": {
+                "de": "Nutzen Sie das überdachte Wartehäuschen bei Regen.",
+                "hu": "Használja a fedett várót eső esetén.",
+                "ro": "Folosiți stația acoperită în caz de ploaie.",
+                "en": "Use the covered bus shelter when it rains."
+              }
+            },
+            {
+              "name": "Hoher Platz Square",
+              "tip_5lang": {
+                "de": "Die Haltestellen in der Altstadt sind gut positioniert.",
+                "hu": "Az óvárosi megállók jól vannak elhelyezve.",
+                "ro": "Stațiile din orașul vechi sunt bine poziționate.",
+                "en": "The bus stops in the old town are well positioned."
+              }
+            },
+            {
+              "name": "St. Mark's Parish Church",
+              "tip_5lang": {
+                "de": "Kurzer Weg von der Haltestelle zum Kircheneingang.",
+                "hu": "Rövid út a megállótól a templombejáratig.",
+                "ro": "Drum scurt de la stație până la intrarea în biserică.",
+                "en": "Short walk from the bus stop to the church entrance."
+              }
+            },
+            {
+              "name": "Museum in the Lavanthaus",
+              "tip_5lang": {
+                "de": "Ideale Indoor-Aktivität, gut mit lokalen Bussen erreichbar.",
+                "hu": "Ideális beltéri tevékenység, jól elérhető helyi buszokkal.",
+                "ro": "Activitate indoor ideală, ușor accesibilă cu autobuzele locale.",
+                "en": "Ideal indoor activity, easily accessible by local buses."
+              }
+            },
+            {
+              "name": "Wolfsberg Castle",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Fahrzeiten der Linien, die näher ans Schloss fahren.",
+                "hu": "Ellenőrizze a kastélyhoz közelebb járó vonalak menetrendjét.",
+                "ro": "Verificați orarul liniilor care merg mai aproape de castel.",
+                "en": "Check the schedules of the lines that run closer to the castle."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Holen Sie sich eine Tageskarte für den Stadtbus Wolfsberg.",
+              "Die Busse sind beheizt und bieten Schutz vor nassem Wetter.",
+              "Nutzen Sie die App für Echtzeit-Infos zu Verspätungen bei Regen.",
+              "Am Griesplatz kreuzen sich fast alle wichtigen Linien.",
+              "Vermeiden Sie das Warten im Freien; nutzen Sie die Cafés an den Knotenpunkten."
+            ],
+            "hu": [
+              "Váltson napijegyet a wolfsbergi városi buszra.",
+              "A buszok fűtöttek és védelmet nyújtanak a nedves időjárás ellen.",
+              "Használja az alkalmazást a valós idejű infókért eső miatti késéseknél.",
+              "A Griesplatzon szinte minden fontos vonal találkozik.",
+              "Kerülje a szabadban való várakozást; használja a kávézókat a csomópontoknál."
+            ],
+            "ro": [
+              "Luați un abonament de o zi pentru autobuzul urban din Wolfsberg.",
+              "Autobuzele sunt încălzite și oferă protecție împotriva vremii umede.",
+              "Folosiți aplicația pentru informații în timp real despre întârzieri pe ploaie.",
+              "La Griesplatz se intersectează aproape toate liniile importante.",
+              "Evitați așteptarea în aer liber; folosiți cafenelele din nodurile de transport."
+            ],
+            "en": [
+              "Get a day ticket for the Wolfsberg city bus.",
+              "The buses are heated and offer protection from wet weather.",
+              "Use the app for real-time info on delays during rain.",
+              "Almost all important lines intersect at Griesplatz.",
+              "Avoid waiting outside; use the cafes at the transit hubs."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterlicher Komfort mit den Öffis in Wolfsberg. Vom frostigen Griesplatz starten Sie Ihre Tour. Die Busse bringen Sie bequem zum Hohen Platz und zur Stadtpfarrkirche, ohne dass Sie lange in der Kälte laufen müssen. Das Museum im Lavanthaus bietet mittags die perfekte Wärme. Später fahren Sie so nah wie möglich zum Schloss Wolfsberg, um den winterlichen Aufstieg zu verkürzen. Eine entspannte Art, die verschneite Stadt zu erleben.",
+            "hu": "Téli kényelem a wolfsbergi tömegközlekedéssel. A fagyos Griesplatzról indul a túra. A buszok kényelmesen elviszik a Hoher Platzra és a plébániatemplomhoz, anélkül, hogy sokat kellene a hidegben gyalogolnia. A Lavanthaus Múzeum délben tökéletes meleget kínál. Később utazzon a lehető legközelebb a Wolfsberg-kastélyhoz, hogy lerövidítse a téli emelkedőt. Pihentető módja a havas város felfedezésének.",
+            "ro": "Confort hibernal cu transportul public în Wolfsberg. De la Griesplatz-ul înghețat începeți turul. Autobuzele vă duc confortabil la Hoher Platz și la biserica parohială, fără a fi nevoie să mergeți mult prin frig. Muzeul din Lavanthaus oferă căldura perfectă la prânz. Mai târziu, mergeți cât mai aproape de Castelul Wolfsberg pentru a scurta urcarea de iarnă. Un mod relaxat de a experimenta orașul înzăpezit.",
+            "en": "Winter comfort with public transit in Wolfsberg. Start your tour from the frosty Griesplatz. The buses take you comfortably to Hoher Platz and the parish church without having to walk long in the cold. The Museum in the Lavanthaus offers the perfect warmth at midday. Later, ride as close as possible to Wolfsberg Castle to shorten the winter climb. A relaxed way to experience the snowy city."
+          },
+          "stops": [
+            {
+              "name": "Bus Station/Griesplatz",
+              "tip_5lang": {
+                "de": "Zentraler Startpunkt, oft gut gestreut und sicher zu begehen.",
+                "hu": "Központi indulópont, gyakran jól felszórt és biztonságos közlekedésre.",
+                "ro": "Punct de plecare central, adesea bine curățat și sigur pentru mers.",
+                "en": "Central starting point, often well-gritted and safe to walk."
+              }
+            },
+            {
+              "name": "Hoher Platz Square",
+              "tip_5lang": {
+                "de": "Die kurzen Wege zwischen Haltestelle und Platz sind im Winter ideal.",
+                "hu": "A megálló és a tér közötti rövid távolságok télen ideálisak.",
+                "ro": "Distanțele scurte între stație și piață sunt ideale iarna.",
+                "en": "The short distances between the stop and the square are ideal in winter."
+              }
+            },
+            {
+              "name": "St. Mark's Parish Church",
+              "tip_5lang": {
+                "de": "Besuch der Kirche, um der Kälte kurz zu entfliehen.",
+                "hu": "Látogasson el a templomba, hogy rövid időre elmeneküljön a hideg elől.",
+                "ro": "Vizitați biserica pentru a scăpa scurt de frig.",
+                "en": "Visit the church to briefly escape the cold."
+              }
+            },
+            {
+              "name": "Museum in the Lavanthaus",
+              "tip_5lang": {
+                "de": "Genießen Sie die Wärme im Museum nach der Busfahrt.",
+                "hu": "Élvezze a múzeum melegét a buszozás után.",
+                "ro": "Bucurați-vă de căldura din muzeu după călătoria cu autobuzul.",
+                "en": "Enjoy the warmth in the museum after the bus ride."
+              }
+            },
+            {
+              "name": "Wolfsberg Castle",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Winterfahrplan, um Wartezeiten in der Kälte zu minimieren.",
+                "hu": "Ellenőrizze a téli menetrendet, hogy minimalizálja a hidegben való várakozást.",
+                "ro": "Verificați orarul de iarnă pentru a minimiza așteptarea în frig.",
+                "en": "Check the winter schedule to minimize waiting in the cold."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warten Sie in den beheizten Bereichen oder nahen Geschäften.",
+              "Tragen Sie warme Kleidung, da die Busse beim Türenöffnen auskühlen.",
+              "Achten Sie auf vereiste Haltestellenbereiche beim Ein- und Aussteigen.",
+              "Die Fahrpläne können bei extremem Schneefall variieren.",
+              "Nutzen Sie die Abendstunden, um die beleuchtete Stadt aus dem Bus zu sehen."
+            ],
+            "hu": [
+              "Várakozzon a fűtött területeken vagy a közeli üzletekben.",
+              "Viseljen meleg ruhát, mert a buszok az ajtónyitáskor lehűlnek.",
+              "Ügyeljen a jeges megállókra a fel- és leszálláskor.",
+              "Extrém havazás esetén a menetrendek változhatnak.",
+              "Használja ki az esti órákat, hogy a buszból lássa a kivilágított várost."
+            ],
+            "ro": [
+              "Așteptați în zonele încălzite sau în magazinele apropiate.",
+              "Purtați haine groase, deoarece autobuzele se răcesc la deschiderea ușilor.",
+              "Atenție la zonele de stație înghețate la urcare și coborâre.",
+              "Orarele pot varia în caz de ninsori extreme.",
+              "Folosiți orele de seară pentru a vedea orașul iluminat din autobuz."
+            ],
+            "en": [
+              "Wait in heated areas or nearby shops.",
+              "Wear warm clothing as buses cool down when doors open.",
+              "Watch out for icy stop areas when getting on and off.",
+              "Schedules may vary during extreme snowfall.",
+              "Use the evening hours to see the illuminated city from the bus."
+            ]
+          }
+        }
       }
     }
   }

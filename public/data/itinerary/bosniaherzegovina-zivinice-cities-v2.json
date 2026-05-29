@@ -362,6 +362,188 @@
           "Most central locations are easily reachable on foot.",
           "Start early to avoid the crowds and enjoy the cooler morning hours."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt unter dem schützenden Vordach des Rathauses, während der Regen auf das Kopfsteinpflaster trommelt. In der Moschee finden Sie mittags spirituelle Ruhe und Schutz vor dem Wetter. Am Nachmittag bietet das Kulturzentrum eine trockene Zuflucht für Kunstliebhaber. Der Abend klingt trotz Regen gemütlich in den Cafés der Bulevar-Promenade aus, wo die Lichter auf dem nassen Asphalt glänzen.",
+            "hu": "A reggel a városháza védelmező eresze alatt indul, miközben az eső a macskaköveken kopog. Délben a mecset nyújt lelki békét és menedéket az égi áldás elől. Délután a Kulturális Központ válik száraz menedékké a művészetkedvelők számára. Az este az eső ellenére is hangulatosan telik a Bulevar sétány kávézóiban, ahol a városi fények megcsillannak a vizes aszfalton.",
+            "ro": "Dimineața începe sub streașina protectoare a primăriei, în timp ce ploaia bate în pavaj. La prânz, moscheea oferă liniște spirituală și adăpost împotriva vremii. După-amiaza, Centrul Cultural devine un refugiu uscat pentru iubitorii de artă. Seara se încheie plăcut, în ciuda ploii, în cafenelele de pe promenada Bulevar, unde luminile orașului strălucesc pe asfaltul umed.",
+            "en": "The morning starts under the protective eaves of the Town Hall while rain drums on the pavement. At noon, the mosque provides spiritual peace and shelter from the weather. In the afternoon, the Cultural Center becomes a dry haven for art lovers. The evening ends cozily despite the rain in the cafes of the Bulevar Promenade, where city lights glisten on the wet asphalt."
+          },
+          "stops": [
+            {
+              "name": "Živinice Town Hall",
+              "tip_5lang": {
+                "de": "Warten Sie unter dem Eingangsbereich, bis der stärkste Schauer vorbeizieht.",
+                "hu": "Várja meg a bejáratnál, amíg a legerősebb zápor elvonul.",
+                "ro": "Așteptați sub zona de intrare până trece cea mai puternică ploaie.",
+                "en": "Wait under the entrance area until the heaviest shower passes."
+              }
+            },
+            {
+              "name": "Živinice Mosque",
+              "tip_5lang": {
+                "de": "Ein idealer Ort für eine stille Pause im Trockenen.",
+                "hu": "Ideális hely egy csendes pihenőhöz a szárazban.",
+                "ro": "Un loc ideal pentru o pauză liniștită la adăpost.",
+                "en": "An ideal place for a quiet break in the dry."
+              }
+            },
+            {
+              "name": "Church of Saint John the Baptist",
+              "tip_5lang": {
+                "de": "Die Innenräume bieten Schutz und beeindruckende Akustik bei Regen.",
+                "hu": "A belső terek védelmet és lenyűgöző akusztikát nyújtanak esőben.",
+                "ro": "Interioarele oferă protecție și o acustică impresionantă pe ploaie.",
+                "en": "The interiors offer protection and impressive acoustics during rain."
+              }
+            },
+            {
+              "name": "Živinice Cultural Center",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit für Ausstellungen, während es draußen regnet.",
+                "hu": "Használja ki az időt a kiállításokra, amíg kint esik.",
+                "ro": "Profită de timp pentru expoziții în timp ce afară plouă.",
+                "en": "Use the time for exhibitions while it rains outside."
+              }
+            },
+            {
+              "name": "Bulevar Promenade",
+              "tip_5lang": {
+                "de": "Suchen Sie sich ein Café mit Markise für einen Kaffee im Freien.",
+                "hu": "Keressen egy napellenzős kávézót egy szabadtéri feketéhez.",
+                "ro": "Căutați o cafenea cu copertină pentru o cafea în aer liber.",
+                "en": "Find a cafe with an awning for an outdoor coffee."
+              }
+            },
+            {
+              "name": "Živinice Memorial Park",
+              "tip_5lang": {
+                "de": "Vorsicht, die unbefestigten Wege können rutschig sein.",
+                "hu": "Vigyázat, a burkolatlan utak csúszósak lehetnek.",
+                "ro": "Atenție, potecile neasfaltate pot fi alunecoase.",
+                "en": "Careful, the unpaved paths can be slippery."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine wasserfeste Jacke, da der Wind in Živinice den Schirm umknicken kann.",
+              "Die Gehwege in der Nähe des Rathauses können bei Nässe glatt werden.",
+              "Nutzen Sie die Arkaden der Geschäfte als Unterstand.",
+              "Viele Cafés an der Promenade haben beheizte Außenbereiche."
+            ],
+            "hu": [
+              "Viseljen vízálló kabátot, mert a szél Živinice-ben kifordíthatja az esernyőt.",
+              "A városháza környéki járdák nedvesen csúszóssá válhatnak.",
+              "Használja az üzletek árkádjait menedékként.",
+              "A sétány menti kávézók közül sok fűtött terasszal vár."
+            ],
+            "ro": [
+              "Purtați o jachetă impermeabilă, deoarece vântul din Živinice poate îndoi umbrela.",
+              "Trotuarele de lângă primărie pot deveni alunecoase când sunt ude.",
+              "Folosiți arcadele magazinelor ca adăpost.",
+              "Multe cafenele de pe promenadă au zone exterioare încălzite."
+            ],
+            "en": [
+              "Wear a waterproof jacket as the wind in Živinice can flip umbrellas.",
+              "Pavements near the Town Hall can become slippery when wet.",
+              "Use shop arcades as temporary shelters.",
+              "Many cafes along the promenade have heated outdoor areas."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens liegt oft Raureif auf dem Rathausplatz, was der Stadt einen frostigen Charme verleiht. Mittags wärmen Sie sich in der Moschee auf, deren Teppiche isolieren. Am Nachmittag bietet das Kulturzentrum ein warmes Programm gegen die Kälte. Da die Sonne gegen 16:30 Uhr untergeht, erstrahlt die Promenade abends in festlichem Kunstlicht, perfekt für einen kurzen Spaziergang vor dem Aufwärmen im Restaurant.",
+            "hu": "Reggelente gyakran zúzmara borítja a városháza terét, fagyos bájt kölcsönözve a városnak. Délben a mecsetben melegedhet fel, ahol a szőnyegek jól szigetelnek. Délután a Kulturális Központ kínál meleg programokat a hideg ellen. Mivel a nap fél öt körül nyugszik, a sétány este ünnepi fényben úszik, ami tökéletes egy rövid sétához a vacsora előtt.",
+            "ro": "Dimineața, chiciura acoperă adesea piața primăriei, dând orașului un farmec înghețat. La prânz, vă puteți încălzi în moschee, unde covoarele izolează bine. După-amiaza, Centrul Cultural oferă programe calde împotriva frigului. Deoarece soarele apune în jurul orei 16:30, promenada strălucește seara în lumini festive, perfectă pentru o plimbare scurtă înainte de cină.",
+            "en": "In the morning, frost often covers the Town Hall square, giving the city a frosty charm. At noon, warm up in the mosque where the carpets provide insulation. In the afternoon, the Cultural Center offers warm programs against the cold. Since the sun sets around 4:30 PM, the promenade shines in festive lights in the evening, perfect for a short walk before warming up at a restaurant."
+          },
+          "stops": [
+            {
+              "name": "Živinice Town Hall",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf den Stufen.",
+                "hu": "Ügyeljen a jegesedésre a lépcsőkön.",
+                "ro": "Atenție la gheața de pe trepte.",
+                "en": "Watch out for ice on the steps."
+              }
+            },
+            {
+              "name": "Živinice Mosque",
+              "tip_5lang": {
+                "de": "Die dicken Teppiche halten die Füße angenehm warm.",
+                "hu": "A vastag szőnyegek kellemesen melegen tartják a lábat.",
+                "ro": "Covoarele groase mențin picioarele calde.",
+                "en": "Thick carpets keep your feet pleasantly warm."
+              }
+            },
+            {
+              "name": "Church of Saint John the Baptist",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche für einen Moment der Stille in der Wärme.",
+                "hu": "Látogasson el a templomba egy csendes percre a melegben.",
+                "ro": "Vizitați biserica pentru un moment de liniște la căldură.",
+                "en": "Visit the church for a quiet moment in the warmth."
+              }
+            },
+            {
+              "name": "Živinice Cultural Center",
+              "tip_5lang": {
+                "de": "Idealer Ort, um der klirrenden Kälte am Nachmittag zu entfliehen.",
+                "hu": "Ideális hely, hogy elmeneküljön a délutáni metsző hideg elől.",
+                "ro": "Loc ideal pentru a scăpa de gerul tăios de după-amiază.",
+                "en": "Ideal place to escape the biting afternoon cold."
+              }
+            },
+            {
+              "name": "Bulevar Promenade",
+              "tip_5lang": {
+                "de": "Bestellen Sie einen heißen Tee oder bosnischen Kaffee zum Aufwärmen.",
+                "hu": "Rendeljen egy forró teát vagy bosnyák kávét a felmelegedéshez.",
+                "ro": "Comandați un ceai fierbinte sau o cafea bosniacă pentru încălzire.",
+                "en": "Order a hot tea or Bosnian coffee to warm up."
+              }
+            },
+            {
+              "name": "Živinice Memorial Park",
+              "tip_5lang": {
+                "de": "Der Park wirkt im Schnee besonders friedlich, aber ziehen Sie sich warm an.",
+                "hu": "A park hóban különösen békés, de öltözzön fel melegen.",
+                "ro": "Parcul pare deosebit de liniștit în zăpadă, dar îmbrăcați-vă gros.",
+                "en": "The park looks especially peaceful in the snow, but dress warmly."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht früh unter, planen Sie Außenaktivitäten vor 16:00 Uhr.",
+              "Tragen Sie Schuhe mit gutem Profil wegen möglicher Eisbildung.",
+              "Warme Schichten sind wichtig, da die Gebäude oft stark beheizt sind.",
+              "Probieren Sie lokale Winterspezialitäten in den Bäckereien."
+            ],
+            "hu": [
+              "A nap korán nyugszik, a szabadtéri programokat tervezze 16:00 előttre.",
+              "Viseljen jó tapadású cipőt az esetleges jegesedés miatt.",
+              "A réteges öltözködés fontos, mert az épületek gyakran erősen fűtöttek.",
+              "Kóstolja meg a helyi téli különlegességeket a pékségekben."
+            ],
+            "ro": [
+              "Soarele apune devreme, planificați activitățile în aer liber înainte de ora 16:00.",
+              "Purtați încălțăminte cu aderență bună din cauza posibilei gheți.",
+              "Îmbrăcămintea stratificată este importantă, clădirile fiind adesea bine încălzite.",
+              "Încercați specialitățile locale de iarnă în brutării."
+            ],
+            "en": [
+              "Sunset is early, plan outdoor activities before 4:00 PM.",
+              "Wear shoes with good grip due to potential ice formation.",
+              "Layering is key as buildings are often heavily heated.",
+              "Try local winter specialties in the bakeries."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -718,6 +900,188 @@
           "Plan your route in advance, but be flexible.",
           "Be aware of the traffic, especially on the main streets."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen lässt sich Živinice auf zwei Rädern erkunden, wenn man die Stopps im Kulturzentrum und in den Sakralbauten geschickt nutzt. Mittags bietet die Moschee eine trockene Pause. Die Fahrt zur Promenade erfordert Konzentration auf den nassen Straßen, aber der Blick auf den Memorial Park im Nebel hat eine ganz eigene, mystische Atmosphäre. Der Tag endet mit einer zügigen Fahrt zurück ins Stadtzentrum.",
+            "hu": "Az eső ellenére Živinice két keréken is felfedezhető, ha ügyesen használjuk a Kulturális Központ és a szakrális épületek megállóit. Délben a mecset nyújt száraz pihenőt. A sétány felé vezető út figyelmet igényel a vizes utakon, de a ködös Emlékpark látványa sajátos, misztikus hangulatot áraszt. A nap egy tempós tekeréssel zárul vissza a városközpontba.",
+            "ro": "În ciuda ploii, Živinice poate fi explorat pe două roți dacă folosiți inteligent opririle la Centrul Cultural și clădirile sacre. La prânz, moscheea oferă o pauză uscată. Drumul spre promenadă necesită atenție pe străzile ude, dar vederea Parcului Memorial în ceață are o atmosferă mistică proprie. Ziua se încheie cu o cursă rapidă înapoi spre centrul orașului.",
+            "en": "Despite the rain, Živinice can be explored on two wheels if you cleverly use stops at the Cultural Center and sacred buildings. At noon, the mosque offers a dry break. The ride towards the promenade requires focus on wet roads, but the sight of the Memorial Park in the mist has its own mystical atmosphere. The day ends with a brisk ride back to the city center."
+          },
+          "stops": [
+            {
+              "name": "Živinice Cultural Center",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad unter dem Vordach ab, um den Sattel trocken zu halten.",
+                "hu": "Parkolja le a bringát az eresz alatt, hogy a nyereg száraz maradjon.",
+                "ro": "Parcați bicicleta sub streașină pentru a menține șaua uscată.",
+                "en": "Park your bike under the overhang to keep the saddle dry."
+              }
+            },
+            {
+              "name": "Živinice Town Hall",
+              "tip_5lang": {
+                "de": "Vorsicht vor rutschigen Markierungen auf der Straße.",
+                "hu": "Vigyázzon az úttesten lévő csúszós felfestésekkel.",
+                "ro": "Atenție la marcajele alunecoase de pe carosabil.",
+                "en": "Beware of slippery road markings."
+              }
+            },
+            {
+              "name": "Živinice Mosque",
+              "tip_5lang": {
+                "de": "Sichern Sie Ihr Rad an einem überdachten Platz.",
+                "hu": "Láncolja le a biciklit egy fedett helyen.",
+                "ro": "Asigurați bicicleta într-un loc acoperit.",
+                "en": "Secure your bike in a covered spot."
+              }
+            },
+            {
+              "name": "Church of Saint John the Baptist",
+              "tip_5lang": {
+                "de": "Kurzer Stopp für Fotos, bevor es weitergeht.",
+                "hu": "Rövid megálló fotózásra, mielőtt továbbindulna.",
+                "ro": "Scurtă oprire pentru poze înainte de a pleca mai departe.",
+                "en": "Short stop for photos before moving on."
+              }
+            },
+            {
+              "name": "Bulevar Promenade",
+              "tip_5lang": {
+                "de": "Fahren Sie langsam auf dem nassen Pflaster.",
+                "hu": "Hajtson lassan a vizes díszburkolaton.",
+                "ro": "Circulați încet pe pavajul umed.",
+                "en": "Ride slowly on the wet pavement."
+              }
+            },
+            {
+              "name": "Živinice Memorial Park",
+              "tip_5lang": {
+                "de": "Die Wege können aufgeweicht sein, bleiben Sie auf den festen Pfaden.",
+                "hu": "Az utak felázhatnak, maradjon a szilárd ösvényeken.",
+                "ro": "Potecile pot fi moi, rămâneți pe traseele solide.",
+                "en": "Paths may be soft, stay on firm tracks."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Verwenden Sie Schutzbleche, um Schlammspritzer zu vermeiden.",
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt, da Nässe die Bremskraft reduziert.",
+              "Tragen Sie auffällige Regenkleidung für bessere Sichtbarkeit.",
+              "Vermeiden Sie Pfützen, da diese tiefe Schlaglöcher verbergen können."
+            ],
+            "hu": [
+              "Használjon sárvédőt, hogy elkerülje a felverődő sarat.",
+              "Indulás előtt ellenőrizze a fékeket, mert a nedvesség rontja a fékhatást.",
+              "Viseljen feltűnő esőruházatot a jobb láthatóságért.",
+              "Kerülje a tócsákat, mert mély kátyúkat rejthetnek."
+            ],
+            "ro": [
+              "Folosiți apărători de noroi pentru a evita stropirea.",
+              "Verificați frânele înainte de plecare, deoarece umezeala reduce eficiența.",
+              "Purtați haine de ploaie reflectorizante pentru vizibilitate mai bună.",
+              "Evitați bălțile, deoarece pot ascunde gropi adânci."
+            ],
+            "en": [
+              "Use mudguards to avoid mud splashes.",
+              "Check your brakes before starting as wetness reduces stopping power.",
+              "Wear high-visibility rain gear for better safety.",
+              "Avoid puddles as they can hide deep potholes."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Start am Kulturzentrum weckt die Lebensgeister. Die Tour führt durch die klare Winterluft zum Rathaus und zur Moschee, wo kurze Pausen zum Aufwärmen einladen. Nachmittags fordern die kühlen Temperaturen Durchhaltevermögen auf dem Weg zur Kirche. Die Promenade zeigt sich im Winterlicht von ihrer spröden Seite, bevor der Memorial Park im frühen Abendgrauen eine stille Endstation bildet.",
+            "hu": "A Kulturális Központnál tett fagyos kezdés felébreszti az életkedvet. A túra a tiszta téli levegőn át vezet a városházához és a mecsethez, ahol rövid melegedő szünetek várnak. Délután a hűvös hőmérséklet kitartást igényel a templom felé vezető úton. A sétány téli fényben mutatja meg ridegebb arcát, mielőtt az Emlékpark a kora esti szürkületben csendes végállomássá válik.",
+            "ro": "Un început înghețat la Centrul Cultural trezește spiritul. Turul continuă prin aerul curat de iarnă spre primărie și moschee, unde scurte pauze invită la încălzire. După-amiaza, temperaturile scăzute cer perseverență pe drumul spre biserică. Promenada își arată latura sobră în lumina iernii, înainte ca Parcul Memorial să devină o destinație finală liniștită în amurg.",
+            "en": "A frosty start at the Cultural Center awakens the spirit. The tour leads through clear winter air to the Town Hall and Mosque, where short breaks invite warming up. In the afternoon, cool temperatures demand stamina on the way to the church. The promenade shows its stark side in winter light before the Memorial Park becomes a quiet final stop in the early evening twilight."
+          },
+          "stops": [
+            {
+              "name": "Živinice Cultural Center",
+              "tip_5lang": {
+                "de": "Starten Sie zügig, um die Körpertemperatur zu halten.",
+                "hu": "Kezdjen tempósan, hogy fenntartsa a testhőmérsékletét.",
+                "ro": "Începeți în ritm alert pentru a menține temperatura corpului.",
+                "en": "Start briskly to maintain body temperature."
+              }
+            },
+            {
+              "name": "Živinice Town Hall",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad kurz ab für ein schnelles Foto.",
+                "hu": "Állítsa le a gépet egy gyors fotó erejéig.",
+                "ro": "Parcați scurt pentru o fotografie rapidă.",
+                "en": "Park briefly for a quick photo."
+              }
+            },
+            {
+              "name": "Živinice Mosque",
+              "tip_5lang": {
+                "de": "Kurze Aufwärmpause im Eingangsbereich.",
+                "hu": "Rövid melegedő pihenő a bejárati résznél.",
+                "ro": "Scurtă pauză de încălzire în zona de intrare.",
+                "en": "Short warming break in the entrance area."
+              }
+            },
+            {
+              "name": "Church of Saint John the Baptist",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenem Kondenswasser auf den Wegen.",
+                "hu": "Vigyázzon az utakon megfagyott páralecsapódással.",
+                "ro": "Atenție la condensul înghețat de pe drum.",
+                "en": "Beware of frozen condensation on the paths."
+              }
+            },
+            {
+              "name": "Bulevar Promenade",
+              "tip_5lang": {
+                "de": "Der Wind pfeift hier im Winter oft stärker.",
+                "hu": "Télen itt gyakran erősebben fütyül a szél.",
+                "ro": "Vântul suflă adesea mai tare aici iarna.",
+                "en": "The wind often whistles stronger here in winter."
+              }
+            },
+            {
+              "name": "Živinice Memorial Park",
+              "tip_5lang": {
+                "de": "Schließen Sie die Tour vor Einbruch der Dunkelheit ab.",
+                "hu": "Fejezze be a túrát még sötétedés előtt.",
+                "ro": "Încheiați turul înainte de lăsarea întunericului.",
+                "en": "Finish the tour before dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fetten Sie die Kette gut ein, um sie vor Streusalz zu schützen.",
+              "Tragen Sie Thermo-Handschuhe und winddichte Kleidung.",
+              "Prüfen Sie den Reifendruck; etwas weniger Druck gibt besseren Grip.",
+              "Nehmen Sie ein isoliertes Getränk mit, um hydriert zu bleiben."
+            ],
+            "hu": [
+              "Zsírozza be jól a láncot, hogy védje az útszóró sótól.",
+              "Viseljen termokesztyűt és szélálló ruházatot.",
+              "Ellenőrizze a guminyomást; a kissé alacsonyabb nyomás jobb tapadást ad.",
+              "Vigyen magával hőszigetelt kulacsban italt."
+            ],
+            "ro": [
+              "Ungeți bine lanțul pentru a-l proteja de sarea de pe drum.",
+              "Purtați mănuși termice și haine rezistente la vânt.",
+              "Verificați presiunea anvelopelor; o presiune mai mică oferă aderență mai bună.",
+              "Luați o băutură izolată pentru a rămâne hidratat."
+            ],
+            "en": [
+              "Grease the chain well to protect it from road salt.",
+              "Wear thermal gloves and windproof clothing.",
+              "Check tire pressure; slightly lower pressure gives better grip.",
+              "Take an insulated drink to stay hydrated."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1098,6 +1462,206 @@
           "Pack water and snacks for the hike.",
           "Fill up your car's fuel tank before leaving the city for rural areas."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt bequem mit der Parkplatzsuche im Zentrum. Während der Regen prasselt, besuchen Sie Rathaus und Kulturzentrum trockenen Fußes. Mittags führt die Fahrt zum Berg Konjuh, wo die tief hängenden Wolken den Wald in ein mystisches Grau hüllen. Die Toplica-Quelle wirkt bei Regen besonders kraftvoll. Der Abend endet bei einem gemütlichen Dinner an der Promenade, während draußen der Regen gegen die Scheiben klopft.",
+            "hu": "A nap kényelmesen, parkolóhely kereséssel indul a központban. Miközben az eső szakad, száraz lábbal látogathatja meg a városházát és a Kulturális Központot. Délben az út a Konjuh-hegyre vezet, ahol az alacsonyan szálló felhők misztikus szürkébe öltöztetik az erdőt. A Toplica-forrás esőben különösen erőteljesnek tűnik. Az este hangulatos vacsorával zárul a sétányon.",
+            "ro": "Ziua începe confortabil cu căutarea unui loc de parcare în centru. În timp ce ploaia toarnă, vizitați primăria și centrul cultural fără a vă uda. La prânz, drumul duce spre muntele Konjuh, unde norii joși învăluie pădurea într-un gri mistic. Izvorul Toplica pare deosebit de puternic pe ploaie. Seara se încheie cu o cină plăcută pe promenadă.",
+            "en": "The day starts comfortably with finding a parking spot in the center. While rain pours, visit the Town Hall and Cultural Center with dry feet. At noon, the drive leads to Mount Konjuh, where low-hanging clouds wrap the forest in a mystical gray. The Toplica Spring looks particularly powerful in the rain. The evening ends with a cozy dinner at the promenade while rain taps on the windows."
+          },
+          "stops": [
+            {
+              "name": "Parking at the City Center",
+              "tip_5lang": {
+                "de": "Suchen Sie einen Platz nah am Ausgang, um lange Wege im Regen zu vermeiden.",
+                "hu": "Keressen helyet a kijárathoz közel, hogy elkerülje a hosszú utat az esőben.",
+                "ro": "Căutați un loc aproape de ieșire pentru a evita drumul lung prin ploaie.",
+                "en": "Find a spot near the exit to avoid long walks in the rain."
+              }
+            },
+            {
+              "name": "Town Hall and Mosque",
+              "tip_5lang": {
+                "de": "Kurzer Sprint vom Auto zum Eingang.",
+                "hu": "Rövid sprint az autótól a bejáratig.",
+                "ro": "Sprint scurt de la mașină la intrare.",
+                "en": "Short sprint from the car to the entrance."
+              }
+            },
+            {
+              "name": "St. John's Church & Cultural Center",
+              "tip_5lang": {
+                "de": "Gute Parkmöglichkeiten in unmittelbarer Nähe.",
+                "hu": "Jó parkolási lehetőség a közvetlen közelben.",
+                "ro": "Opțiuni bune de parcare în imediata apropiere.",
+                "en": "Good parking options in the immediate vicinity."
+              }
+            },
+            {
+              "name": "Mount Konjuh",
+              "tip_5lang": {
+                "de": "Vorsicht vor Nebel und rutschigen Bergstraßen.",
+                "hu": "Vigyázzon a köddel és a csúszós hegyi utakkal.",
+                "ro": "Atenție la ceață și drumurile montane alunecoase.",
+                "en": "Beware of fog and slippery mountain roads."
+              }
+            },
+            {
+              "name": "Toplica Spring",
+              "tip_5lang": {
+                "de": "Der Boden rund um die Quelle kann sehr matschig sein.",
+                "hu": "A forrás körüli talaj nagyon sáros lehet.",
+                "ro": "Terenul din jurul izvorului poate fi foarte noroios.",
+                "en": "The ground around the spring can be very muddy."
+              }
+            },
+            {
+              "name": "Živinice Memorial Park",
+              "tip_5lang": {
+                "de": "Bleiben Sie für den Ausblick lieber im Auto, wenn es zu stark regnet.",
+                "hu": "Maradjon inkább az autóban a kilátásért, ha túl erősen esik.",
+                "ro": "Rămâneți mai degrabă în mașină pentru priveliște dacă plouă prea tare.",
+                "en": "Better stay in the car for the view if it rains too hard."
+              }
+            },
+            {
+              "name": "Dinner at Bulevar Promenade",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus, falls verfügbar.",
+                "hu": "Használja a parkolóházat, ha elérhető.",
+                "ro": "Folosiți parcarea etajată dacă este disponibilă.",
+                "en": "Use a parking garage if available."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Zustand der Scheibenwischer vor der Fahrt ins Gebirge.",
+              "Achten Sie auf Aquaplaning auf der Hauptstraße nach Tuzla.",
+              "Halten Sie im Auto einen Regenschirm für die Stopps bereit.",
+              "Die Sicht am Berg Konjuh kann bei Regen schlagartig sinken."
+            ],
+            "hu": [
+              "Ellenőrizze az ablaktörlők állapotát a hegymenet előtt.",
+              "Ügyeljen a vízenfutásra (aquaplaning) a Tuzla felé vezető főúton.",
+              "Tartson az autóban esernyőt a megállókhoz.",
+              "A látótávolság a Konjuh-hegyen esőben hirtelen lecsökkenhet."
+            ],
+            "ro": [
+              "Verificați starea ștergătoarelor înainte de drumul la munte.",
+              "Atenție la acvaplanare pe drumul principal spre Tuzla.",
+              "Țineți o umbrelă în mașină pentru opriri.",
+              "Vizibilitatea pe muntele Konjuh poate scădea brusc pe ploaie."
+            ],
+            "en": [
+              "Check wiper blade condition before heading to the mountains.",
+              "Watch out for aquaplaning on the main road to Tuzla.",
+              "Keep an umbrella in the car for the stops.",
+              "Visibility on Mount Konjuh can drop suddenly during rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen am Steuer beginnt mit dem Freikratzen der Scheiben, doch bald sorgt die Heizung für Komfort. Die Fahrt durch das verschneite Živinice führt zum Rathaus und zur Kirche. Das Highlight ist die Tour zum Berg Konjuh, der sich als echtes Winterwunderland präsentiert – Winterreifen sind hier Pflicht. Nach einem Abstecher zur Toplica-Quelle kehren Sie zurück in die Stadt, wo das festlich beleuchtete Bulevar zum Abendessen lädt.",
+            "hu": "A téli reggel a kormánynál jégkaparással indul, de a fűtés hamar kényelmet teremt. Az út a havas Živinice-n át vezet a városházához és a templomhoz. A csúcspont a Konjuh-hegyi túra, amely igazi téli mesevilág – a téli gumi itt kötelező. A Toplica-forrás után visszatér a városba, ahol az ünnepi díszben úszó sétány várja egy vacsorára.",
+            "ro": "Dimineața de iarnă la volan începe cu curățarea parbrizului, dar încălzirea aduce repede confort. Drumul prin Živinice înzăpezit duce la primărie și biserică. Punctul culminant este tura spre muntele Konjuh, care se prezintă ca un tărâm de basm – anvelopele de iarnă sunt obligatorii aici. După Izvorul Toplica, reveniți în oraș pentru cină.",
+            "en": "The winter morning at the wheel starts with scraping ice, but soon the heater provides comfort. The drive through snowy Živinice leads to the Town Hall and Church. The highlight is the trip to Mount Konjuh, which presents itself as a true winter wonderland – winter tires are mandatory here. After the Toplica Spring, return to the city where the festively lit Bulevar invites you for dinner."
+          },
+          "stops": [
+            {
+              "name": "Parking at the City Center",
+              "tip_5lang": {
+                "de": "Meiden Sie Parkplätze unter hohen Bäumen wegen Schneelast.",
+                "hu": "Kerülje a magas fák alatti parkolókat a hóteher miatt.",
+                "ro": "Evitați parcarea sub copaci înalți din cauza greutății zăpezii.",
+                "en": "Avoid parking under tall trees due to snow load."
+              }
+            },
+            {
+              "name": "Town Hall and Mosque",
+              "tip_5lang": {
+                "de": "Die Heizung im Inneren ist sehr angenehm.",
+                "hu": "A belső fűtés nagyon kellemes.",
+                "ro": "Încălzirea interioară este foarte plăcută.",
+                "en": "The indoor heating is very pleasant."
+              }
+            },
+            {
+              "name": "St. John's Church & Cultural Center",
+              "tip_5lang": {
+                "de": "Vorsicht beim Einparken auf ungeräumten Seitenstreifen.",
+                "hu": "Vigyázzon a parkolásnál a le nem takarított padkán.",
+                "ro": "Atenție la parcare pe marginile necurățate ale drumului.",
+                "en": "Be careful when parking on unplowed road shoulders."
+              }
+            },
+            {
+              "name": "Mount Konjuh",
+              "tip_5lang": {
+                "de": "Schneeketten im Kofferraum sind ratsam.",
+                "hu": "Hólánc a csomagtartóban ajánlott.",
+                "ro": "Lanțurile de zăpadă în portbagaj sunt recomandate.",
+                "en": "Snow chains in the trunk are advisable."
+              }
+            },
+            {
+              "name": "Toplica Spring",
+              "tip_5lang": {
+                "de": "Dampfendes Wasser bietet ein tolles Fotomotiv bei Kälte.",
+                "hu": "A gőzölgő víz remek fotótéma a hidegben.",
+                "ro": "Apa aburindă oferit un motiv foto excelent pe ger.",
+                "en": "Steaming water provides a great photo motif in the cold."
+              }
+            },
+            {
+              "name": "Živinice Memorial Park",
+              "tip_5lang": {
+                "de": "Kurzer Stopp für die Aussicht auf die verschneite Stadt.",
+                "hu": "Rövid megálló a havas városra nyíló kilátásért.",
+                "ro": "Scurtă oprire pentru priveliștea orașului înzăpezit.",
+                "en": "Short stop for the view of the snowy city."
+              }
+            },
+            {
+              "name": "Dinner at Bulevar Promenade",
+              "tip_5lang": {
+                "de": "Reservieren Sie einen Tisch in Heizungsnähe.",
+                "hu": "Foglaljon asztalt a fűtés közelében.",
+                "ro": "Rezervați o masă aproape de sursa de căldură.",
+                "en": "Book a table near the heater."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Frostschutzmittel im Scheibenwischwasser ist.",
+              "Fahren Sie in den Bergen vorausschauend und nutzen Sie die Motorbremse.",
+              "Ein kleiner Klappspaten kann bei Neuschnee hilfreich sein.",
+              "Die Dämmerung beginnt früh, prüfen Sie Ihre Beleuchtung."
+            ],
+            "hu": [
+              "Győződjön meg róla, hogy van fagyálló a szélvédőmosóban.",
+              "A hegyekben vezessen előrelátóan, használja a motorféket.",
+              "Egy kis összecsukható ásó hasznos lehet friss hó esetén.",
+              "A szürkület korán kezdődik, ellenőrizze a világítást."
+            ],
+            "ro": [
+              "Asigurați-vă că aveți antigel în lichidul de parbriz.",
+              "Conduceți preventiv la munte și folosiți frâna de motor.",
+              "O lopată mică pliabilă poate fi utilă în caz de zăpadă proaspătă.",
+              "Amurgul începe devreme, verificați sistemul de iluminare."
+            ],
+            "en": [
+              "Ensure there is antifreeze in the windshield washer fluid.",
+              "Drive defensively in the mountains and use engine braking.",
+              "A small folding shovel can be helpful in fresh snow.",
+              "Twilight starts early, check your lights."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1454,6 +2018,188 @@
           "Have small change ready for tickets.",
           "Be prepared to walk between bus stops and the sights."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus erreichen Sie das Stadtzentrum, wo Rathaus und Moschee erste trockene Anlaufpunkte bilden. Die Wartezeiten an den Haltestellen verbringen Sie mittags am besten unter den Unterständen. Nachmittags bietet der Transit zum Kulturzentrum Schutz vor den Güssen. Der Tag klingt an der Promenade aus, wobei die kurzen Wege zwischen Busstopp und Cafés die Regenexposition minimieren. Ein effizienter Weg, Živinice trotz Schmuddelwetter zu erleben.",
+            "hu": "Busszal könnyen elérheti a városközpontot, ahol a városháza és a mecset az első száraz állomások. A buszmegállók váróiban vészelheti át a déli záporokat. Délután a Kulturális Központba tartó járat nyújt védelmet. A nap a sétányon zárul, ahol a buszmegálló és a kávézók közötti rövid távolság minimalizálja az esőben töltött időt. Hatékony módja Živinice felfedezésének zord időben is.",
+            "ro": "Cu autobuzul ajungeți în centrul orașului, unde primăria și moscheea sunt primele puncte uscate. Timpul de așteptare în stații este cel mai bine petrecut sub adăposturi la prânz. După-amiaza, tranzitul spre Centrul Cultural oferă protecție împotriva ploii. Ziua se încheie la promenadă, distanțele scurte între stație și cafenele minimizând expunerea la ploaie.",
+            "en": "By bus, you reach the city center where the Town Hall and Mosque are the first dry points. Wait at bus shelters during noon showers. In the afternoon, the transit to the Cultural Center provides protection from downpours. The day ends at the promenade, where short distances between bus stops and cafes minimize rain exposure. An efficient way to see Živinice despite the gloomy weather."
+          },
+          "stops": [
+            {
+              "name": "Town Hall (Cluster A)",
+              "tip_5lang": {
+                "de": "Die Haltestelle bietet guten Schutz vor Wind und Regen.",
+                "hu": "A megálló jó védelmet nyújt a szél és az eső ellen.",
+                "ro": "Stația oferă o protecție bună împotriva vântului și ploii.",
+                "en": "The stop offers good protection from wind and rain."
+              }
+            },
+            {
+              "name": "Živinice Mosque",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg von der Haltestelle, halten Sie den Schirm bereit.",
+                "hu": "Rövid séta a megállótól, tartsa készenlétben az esernyőt.",
+                "ro": "Scurtă plimbare de la stație, țineți umbrela pregătită.",
+                "en": "Short walk from the stop, keep your umbrella ready."
+              }
+            },
+            {
+              "name": "Church of Saint John the Baptist",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Echtzeit-Anzeige der App, um nicht im Regen zu warten.",
+                "hu": "Használja az app valós idejű kijelzését, hogy ne várjon az esőben.",
+                "ro": "Folosiți afișajul în timp real din aplicație pentru a nu aștepta în ploaie.",
+                "en": "Use the real-time app display to avoid waiting in the rain."
+              }
+            },
+            {
+              "name": "Memorial Park (Cluster B)",
+              "tip_5lang": {
+                "de": "Vorsicht beim Aussteigen aus dem Bus wegen Pfützen am Straßenrand.",
+                "hu": "Vigyázzon a leszálláskor az útmenti tócsák miatt.",
+                "ro": "Atenție la coborârea din autobuz din cauza bălților de la marginea drumului.",
+                "en": "Watch out for puddles at the roadside when getting off the bus."
+              }
+            },
+            {
+              "name": "Živinice Cultural Center",
+              "tip_5lang": {
+                "de": "Der Bus hält fast direkt vor dem Eingang.",
+                "hu": "A busz szinte közvetlenül a bejárat előtt áll meg.",
+                "ro": "Autobuzul oprește aproape direct în fața intrării.",
+                "en": "The bus stops almost directly in front of the entrance."
+              }
+            },
+            {
+              "name": "Bulevar Promenade",
+              "tip_5lang": {
+                "de": "Viele überdachte Sitzmöglichkeiten in der Nähe der Haltestelle.",
+                "hu": "Sok fedett ülőhely a megálló közelében.",
+                "ro": "Multe locuri de șezut acoperite în apropierea stației.",
+                "en": "Many covered seating options near the stop."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Laden Sie die lokale Fahrplan-App für aktuelle Infos bei Verspätungen.",
+              "Halten Sie Kleingeld trocken bereit für den Fahrkartenkauf.",
+              "Vermeiden Sie das Warten direkt am Bordstein, um Spritzwasser zu entgehen.",
+              "In den Bussen kann es bei Regen recht feucht und schwül sein."
+            ],
+            "hu": [
+              "Töltse le a helyi menetrendi appot a késések figyelemmel kíséréséhez.",
+              "Tartsa az aprópénzt szárazon a jegyvásárláshoz.",
+              "Ne várjon közvetlenül a padkán, hogy elkerülje a felcsapódó vizet.",
+              "A buszokon esőben elég párás és fülledt lehet a levegő."
+            ],
+            "ro": [
+              "Descărcați aplicația locală de transport pentru info despre întârzieri.",
+              "Păstrați restul uscat pentru cumpărarea biletului.",
+              "Evitați așteptarea direct la bordură pentru a scăpa de stropi.",
+              "În autobuze poate fi destul de umed și înăbușitor când plouă."
+            ],
+            "en": [
+              "Download the local schedule app for updates on delays.",
+              "Keep change dry for buying tickets.",
+              "Avoid waiting right at the curb to escape splashes.",
+              "Buses can get quite humid and stuffy during rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der winterliche Morgen beginnt in einem beheizten Bus, der Sie sicher ins Zentrum bringt. Rathaus und Moschee bieten warme Aufenthalte, bevor Sie die nächste Verbindung nehmen. Mittags schätzen Sie die Wärme des Kulturzentrums, das gut an das Liniennetz angebunden ist. Da die Sonne früh untergeht, ist die Fahrt am späten Nachmittag bereits von der Stadtbeleuchtung geprägt. Ein entspannter Weg, die frostige Atmosphäre von Živinice ohne kalte Füße zu genießen.",
+            "hu": "A téli reggel egy fűtött buszon indul, amely biztonságban viszi a központba. A városháza és a mecset meleg menedéket kínál a következő csatlakozásig. Délben értékelni fogja a Kulturális Központ melegét, amely jól kapcsolódik a hálózathoz. Mivel a nap korán nyugszik, a késő délutáni utazást már a városi fények kísérik. Nyugodt módja a fagyos Živinice élvezetének fázás nélkül.",
+            "ro": "Dimineața de iarnă începe într-un autobuz încălzit care vă duce în siguranță în centru. Primăria și moscheea oferă adăpost cald până la următoarea legătură. La prânz, veți aprecia căldura Centrului Cultural, bine conectat la rețea. Deoarece soarele apune devreme, călătoria de după-amiază este deja marcată de luminile orașului. O modalitate relaxată de a te bucura de atmosfera geroasă.",
+            "en": "The winter morning starts in a heated bus that brings you safely to the center. Town Hall and Mosque offer warm stays before you take the next connection. At noon, you will appreciate the warmth of the Cultural Center, which is well-connected to the network. Since the sun sets early, the late afternoon ride is already defined by city lighting. A relaxed way to enjoy the frosty atmosphere of Živinice without getting cold feet."
+          },
+          "stops": [
+            {
+              "name": "Town Hall (Cluster A)",
+              "tip_5lang": {
+                "de": "Ziehen Sie sich warm an, falls der Bus Verspätung hat.",
+                "hu": "Öltözzön fel melegen, ha a busz késne.",
+                "ro": "Îmbrăcați-vă gros în caz că autobuzul întârzie.",
+                "en": "Dress warmly in case the bus is delayed."
+              }
+            },
+            {
+              "name": "Živinice Mosque",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Wartezeit für einen schnellen Blick in die Moschee.",
+                "hu": "Használja ki a várakozási időt egy gyors mecsetlátogatásra.",
+                "ro": "Folosiți timpul de așteptare pentru o scurtă vizită la moschee.",
+                "en": "Use the waiting time for a quick look inside the mosque."
+              }
+            },
+            {
+              "name": "Church of Saint John the Baptist",
+              "tip_5lang": {
+                "de": "Vorsicht vor rutschigen Trittstufen beim Einsteigen.",
+                "hu": "Vigyázzon a csúszós lépcsőfokokkal a felszálláskor.",
+                "ro": "Atenție la treptele alunecoase la urcare.",
+                "en": "Beware of slippery steps when boarding."
+              }
+            },
+            {
+              "name": "Memorial Park (Cluster B)",
+              "tip_5lang": {
+                "de": "Bei Schnee sind die Wege im Park oft nicht geräumt.",
+                "hu": "Hó esetén a parkban az utak gyakran nincsenek letakarítva.",
+                "ro": "În caz de zăpadă, potecile din parc nu sunt adesea curățate.",
+                "en": "In case of snow, paths in the park are often not cleared."
+              }
+            },
+            {
+              "name": "Živinice Cultural Center",
+              "tip_5lang": {
+                "de": "In der Nähe gibt es Kioske für ein heißes Getränk.",
+                "hu": "A közelben újságárusoknál vehet forró italt.",
+                "ro": "Există chioșcuri în apropiere pentru o băutură fierbinte.",
+                "en": "There are kiosks nearby for a hot drink."
+              }
+            },
+            {
+              "name": "Bulevar Promenade",
+              "tip_5lang": {
+                "de": "Letzter Busstopp vor dem Abendessen im Warmen.",
+                "hu": "Utolsó buszmegálló a meleg vacsora előtt.",
+                "ro": "Ultima stație de autobuz înainte de cina la căldură.",
+                "en": "Last bus stop before dinner in the warm."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Planen Sie Pufferzeiten ein, da Schnee den Verkehr verlangsamen kann.",
+              "Achten Sie in den Bussen auf rutschige Böden durch Schmelzwasser.",
+              "Die Heizung im Bus kann sehr stark sein, tragen Sie Schichten.",
+              "Nutzen Sie die beleuchteten Haltestellen für mehr Sicherheit am Abend."
+            ],
+            "hu": [
+              "Tervezzen be ráhagyást, mert a hó lassíthatja a közlekedést.",
+              "Ügyeljen a buszokon az olvadékvíz miatt csúszós padlóra.",
+              "A fűtés a buszon nagyon erős lehet, öltözzön rétegesen.",
+              "Használja a kivilágított megállókat a nagyobb biztonság érdekében."
+            ],
+            "ro": [
+              "Planificați timp suplimentar, zăpada poate încetini traficul.",
+              "Atenție la podeaua alunecoasă din autobuz din cauza zăpezii topite.",
+              "Încălzirea în autobuz poate fi foarte puternică, purtați straturi.",
+              "Folosiți stațiile iluminate pentru mai multă siguranță seara."
+            ],
+            "en": [
+              "Allow extra time as snow can slow down traffic.",
+              "Watch out for slippery floors in buses due to melted snow.",
+              "Heating in the bus can be very strong, so wear layers.",
+              "Use lit bus stops for better safety in the evening."
+            ]
+          }
+        }
       }
     }
   }

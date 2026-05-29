@@ -359,6 +359,214 @@
           "Plan for a longer lunch break as many shops observe a siesta.",
           "Keep an eye on your belongings in busy squares."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag in der Pasaje de Lodares, deren Glasdach perfekten Schutz bietet. Mittags finden Sie in der Kathedrale trockene Stille. Den Nachmittag verbringen Sie im Messer-Museum, weit weg vom Regen. Abends leuchten die nassen Straßen rund um die Plaza de Toros besonders stimmungsvoll im Licht der Laternen.",
+            "hu": "A napot a Pasaje de Lodares üvegtetős passzázsában kezdje, ahol az eső nem érheti el. Délben a katedrális belső tere nyújt menedéket. A délutánt a Késmúzeum száraz falai között töltse, ismerkedve a helyi iparral. Este az esőáztatta utcák és a Bikaviadal-tér fényei különleges, csillogó hangulatot árasztanak.",
+            "ro": "Începeți ziua în Pasaje de Lodares, unde acoperișul de sticlă oferă protecție perfectă. La prânz, interiorul catedralei oferă un refugiu uscat. Petreceți după-amiaza în Muzeul de Cuțite, ferit de ploaie. Seara, străzile ude din jurul Plaza de Toros strălucesc spectaculos sub luminile felinarelor.",
+            "en": "Start your day in Pasaje de Lodares, where the glass roof provides perfect shelter. At noon, find dry sanctuary inside the Cathedral. Spend the afternoon within the dry walls of the Cutlery Museum. In the evening, the rain-slicked streets around the Plaza de Toros glow beautifully under the streetlights."
+          },
+          "stops": [
+            {
+              "name": "Pasaje de Lodares",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um den ersten Regenschauer trocken zu überstehen.",
+                "hu": "Tökéletes hely az első eső elől való menekülésre.",
+                "ro": "Locul perfect pentru a scăpa de prima rafală de ploaie.",
+                "en": "The perfect spot to stay dry during the first rain shower."
+              }
+            },
+            {
+              "name": "Cathedral of San Juan Bautista",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Innenbesichtigung für eine Regenpause.",
+                "hu": "Használja ki a belső látogatást egy esőszünetre.",
+                "ro": "Folosiți vizita în interior pentru o pauză de ploaie.",
+                "en": "Use the indoor visit as a break from the rain."
+              }
+            },
+            {
+              "name": "Museum of Cutlery (Museo de la Cuchillería)",
+              "tip_5lang": {
+                "de": "Ein großzügiger Innenbereich, ideal für regnerische Stunden.",
+                "hu": "Tágas belső tér, ideális a borús, esős órákra.",
+                "ro": "Spațiu interior generos, ideal pentru orele ploioase.",
+                "en": "Spacious interior, ideal for rainy hours."
+              }
+            },
+            {
+              "name": "Depósitos del Sol",
+              "tip_5lang": {
+                "de": "Die Bibliothek im Inneren ist ein wunderbarer Rückzugsort.",
+                "hu": "A belső könyvtár remek menedék a víz elől.",
+                "ro": "Biblioteca din interior este un refugiu minunat.",
+                "en": "The library inside is a wonderful retreat from the wet."
+              }
+            },
+            {
+              "name": "Teatro Circo",
+              "tip_5lang": {
+                "de": "Genießen Sie die Architektur unter festem Dach.",
+                "hu": "Élvezze az építészetet szilárd tető alatt.",
+                "ro": "Bucurați-vă de arhitectură sub un acoperiș solid.",
+                "en": "Enjoy the architecture under a solid roof."
+              }
+            },
+            {
+              "name": "Abelardo Sánchez Park",
+              "tip_5lang": {
+                "de": "Die dichten Bäume bieten begrenzten Schutz vor Nieselregen.",
+                "hu": "A sűrű fák korlátozott védelmet nyújtanak a szemerkélő esőben.",
+                "ro": "Copacii deși oferă protecție limitată împotriva burniței.",
+                "en": "The dense trees offer limited protection from light drizzle."
+              }
+            },
+            {
+              "name": "Plaza de Toros",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem bei Nässe rutschigen Vorplatz.",
+                "hu": "Vigyázat, a tér burkolata vizesen csúszóssá válhat.",
+                "ro": "Atenție pe esplanadă, poate deveni alunecoasă când e udă.",
+                "en": "Careful on the plaza, the tiles can be slippery when wet."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Pasaje de Lodares ist Ihr bester Freund bei Regen.",
+              "Nutzen Sie die Museen für längere Aufenthalte im Trockenen.",
+              "Achten Sie auf Pfützen in den tiefer gelegenen Altstadtgassen.",
+              "Tragen Sie wasserfeste Schuhe für die Parkwege.",
+              "Die Cafés am Altozano bieten gemütliche Plätze zum Aufwärmen."
+            ],
+            "hu": [
+              "A Pasaje de Lodares a legjobb barátod esőben.",
+              "Használd a múzeumokat a hosszabb szárazon maradáshoz.",
+              "Vigyázz a tócsákra az óváros mélyebben fekvő utcáin.",
+              "Viselj vízálló cipőt a parki sétányokhoz.",
+              "Az Altozano kávézói barátságos menedéket nyújtanak."
+            ],
+            "ro": [
+              "Pasaje de Lodares este cel mai bun prieten pe ploaie.",
+              "Folosiți muzeele pentru perioade mai lungi la adăpost.",
+              "Atenție la bălțile de pe străzile joase ale centrului vechi.",
+              "Purtați încălțăminte impermeabilă pentru aleile din parc.",
+              "Cafenelele de la Altozano oferă refugii primitoare."
+            ],
+            "en": [
+              "Pasaje de Lodares is your best friend when it rains.",
+              "Utilize museums for longer periods of staying dry.",
+              "Watch out for puddles in the lower streets of the old town.",
+              "Wear waterproof shoes for the park paths.",
+              "The cafés at Altozano offer cozy shelters to warm up."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Atmen Sie die frische Winterluft in der Pasaje de Lodares ein. Mittags wärmt die Sonne die Kathedrale, während die Luft draußen klar bleibt. Nachmittags bietet das Klingenmuseum eine warme Pause von der Brise der La Mancha. Der Tag endet an der Plaza de Toros, wenn die Winterdämmerung Albacete in goldenes Licht taucht.",
+            "hu": "Lélegezze be a friss téli levegőt a Pasaje de Lodares környékén. Délben a nap sugarai megvilágítják a katedrálist, míg a levegő csípős marad. Délután a Késmúzeum nyújt meleg pihenőt a manchai szél elől. A nap a Bikaviadal-térnél ér véget, ahogy a téli szürkület arany fénybe vonja a várost.",
+            "ro": "Respirați aerul proaspăt de iarnă în Pasaje de Lodares. La prânz, soarele încălzește catedrala, deși aerul rămâne tăios. După-amiaza, Muzeul de Cuțite oferă o pauză caldă de la briza de La Mancha. Ziua se încheie la Plaza de Toros, când amurgul de iarnă scaldă orașul în lumină aurie.",
+            "en": "Breathe in the fresh winter air around Pasaje de Lodares. At noon, the sun warms the Cathedral while the air remains crisp. In the afternoon, the Cutlery Museum offers a warm break from the La Mancha breeze. The day ends at the Plaza de Toros as the winter dusk bathes the city in golden light."
+          },
+          "stops": [
+            {
+              "name": "Pasaje de Lodares",
+              "tip_5lang": {
+                "de": "Windgeschützter Durchgang, ideal für kalte Vormittage.",
+                "hu": "Szélvédett átjáró, ideális a hideg délelőttökre.",
+                "ro": "Pasaj protejat de vânt, ideal pentru diminețile reci.",
+                "en": "Wind-protected passage, ideal for cold mornings."
+              }
+            },
+            {
+              "name": "Cathedral of San Juan Bautista",
+              "tip_5lang": {
+                "de": "Drinnen ist es oft wärmer als in den windigen Gassen.",
+                "hu": "Bent gyakran melegebb van, mint a szeles utcákon.",
+                "ro": "În interior e adesea mai cald decât pe străzile vântoase.",
+                "en": "It is often warmer inside than in the windy alleys."
+              }
+            },
+            {
+              "name": "Museum of Cutlery (Museo de la Cuchillería)",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um sich zwischen den Besichtigungen aufzuwärmen.",
+                "hu": "Tökéletes hely a felmelegedésre a városnézés közben.",
+                "ro": "Loc perfect pentru încălzire între vizite.",
+                "en": "Perfect place to warm up between sightseeing stops."
+              }
+            },
+            {
+              "name": "Depósitos del Sol",
+              "tip_5lang": {
+                "de": "Genießen Sie die Wintersonne auf dem Vorplatz.",
+                "hu": "Élvezze a téli napsütést az épület előtti téren.",
+                "ro": "Bucurați-vă de soarele de iarnă în piața din față.",
+                "en": "Enjoy the winter sun in the front plaza."
+              }
+            },
+            {
+              "name": "Teatro Circo",
+              "tip_5lang": {
+                "de": "Abends kühlt es hier schnell ab, Jacke bereit halten.",
+                "hu": "Este gyorsan lehűl a levegő, készüljön meleg kabáttal.",
+                "ro": "Seara se răcește rapid, aveți haina pregătită.",
+                "en": "It cools down fast in the evening, have a jacket ready."
+              }
+            },
+            {
+              "name": "Abelardo Sánchez Park",
+              "tip_5lang": {
+                "de": "Ein schöner Winterspaziergang, aber meiden Sie den Schatten.",
+                "hu": "Szép téli sétahely, de kerülje az árnyékos részeket.",
+                "ro": "O plimbare frumoasă de iarnă, dar evitați umbra.",
+                "en": "A beautiful winter walk, but avoid the shady areas."
+              }
+            },
+            {
+              "name": "Plaza de Toros",
+              "tip_5lang": {
+                "de": "Kurz vor Sonnenuntergang ist das Licht hier fantastisch.",
+                "hu": "Közvetlenül naplemente előtt fantasztikusak itt a fények.",
+                "ro": "Lumina este fantastică aici chiar înainte de apus.",
+                "en": "The light is fantastic here just before sunset."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Albacete liegt hoch, der Wind kann im Winter schneidend sein.",
+              "Die Sonne geht gegen 17:30 Uhr unter, planen Sie das Ende ein.",
+              "Warme Getränke in der Calle Ancha sind ein Muss.",
+              "Schattenseiten der Straßen sind deutlich kälter.",
+              "Tragen Sie Zwiebelschichten für den Wechsel zwischen Innen und Außen."
+            ],
+            "hu": [
+              "Albacete magasan fekszik, a téli szél metsző lehet.",
+              "A nap 17:30 körül nyugszik, tervezze ehhez a nap végét.",
+              "Egy forró ital a Calle Ancha-n kötelező program.",
+              "Az utcák árnyékos oldala jóval hidegebb.",
+              "Öltözzön rétegesen a kinti és benti hőmérséklet különbsége miatt."
+            ],
+            "ro": [
+              "Albacete e la altitudine, vântul de iarnă poate fi tăios.",
+              "Soarele apune în jur de 17:30, planificați finalul zilei.",
+              "O băutură caldă pe Calle Ancha este obligatorie.",
+              "Părțile umbrite ale străzilor sunt mult mai reci.",
+              "Purtați straturi de haine pentru trecerea interior-exterior."
+            ],
+            "en": [
+              "Albacete is high up, the winter wind can be piercing.",
+              "Sunset is around 17:30, plan your finish accordingly.",
+              "A hot drink on Calle Ancha is a must.",
+              "Shady sides of the streets are significantly colder.",
+              "Wear layers to handle the transition between indoor and outdoor."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -712,6 +920,214 @@
           "A water bottle is essential on warm days.",
           "Check museum opening times in advance."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radeln Sie vorsichtig zur Pasaje de Lodares, wo Sie kurz verschnaufen können. Mittags bietet die Kathedrale Schutz, während Ihr Rad draußen im Regen wartet. Der Nachmittag im Museum ist die ideale Pause vom nassen Wetter. Den Tag beenden Sie mit einer zügigen Fahrt durch die glitzernden Straßen zurück zum Ausgangspunkt.",
+            "hu": "Óvatosan kerekezzen a Pasaje de Lodareshez, ahol egy pillanatra megpihenhet. Délben a katedrális nyújt menedéket, amíg a bicikli kint vár az esőben. A délutáni múzeumlátogatás ideális szünet a vizes időben. A napot egy tempós tekeréssel zárja a csillogó utcákon át a kiindulópontig.",
+            "ro": "Pedalați cu atenție spre Pasaje de Lodares pentru o scurtă pauză. La prânz, catedrala oferă adăpost în timp ce bicicleta așteaptă afară în ploaie. După-amiaza la muzeu este pauza ideală de vremea umedă. Încheiați ziua cu o cursă rapidă prin străzile strălucitoare înapoi la start.",
+            "en": "Cycle carefully to Pasaje de Lodares for a brief breather. At noon, the Cathedral provides shelter while your bike waits in the rain. An afternoon at the museum is the ideal break from the wet weather. End the day with a brisk ride through the glistening streets back to your starting point."
+          },
+          "stops": [
+            {
+              "name": "Pasaje de Lodares",
+              "tip_5lang": {
+                "de": "Vorsicht beim Absteigen auf nassem Steinboden.",
+                "hu": "Vigyázzon a leszálláskor a vizes kőburkolaton.",
+                "ro": "Atenție la descălecare pe pavajul umed.",
+                "en": "Be careful when dismounting on wet stone floors."
+              }
+            },
+            {
+              "name": "Cathedral of San Juan Bautista",
+              "tip_5lang": {
+                "de": "Suchen Sie einen geschützten Fahrradständer in der Nähe.",
+                "hu": "Keressen egy védett biciklitárolót a közelben.",
+                "ro": "Căutați un suport de biciclete protejat în apropiere.",
+                "en": "Look for a sheltered bike rack nearby."
+              }
+            },
+            {
+              "name": "Museum of Cutlery (Museo de la Cuchillería)",
+              "tip_5lang": {
+                "de": "Ein langer Stopp hilft, die Regenjacke zu trocknen.",
+                "hu": "Egy hosszabb megálló segít megszárítani az esőkabátot.",
+                "ro": "O oprire lungă ajută la uscarea pelerinei de ploaie.",
+                "en": "A long stop helps your raincoat dry out."
+              }
+            },
+            {
+              "name": "Recinto Ferial",
+              "tip_5lang": {
+                "de": "Große offene Flächen können bei Wind und Regen ungemütlich sein.",
+                "hu": "A nagy nyitott terek szélben és esőben kellemetlenek lehetnek.",
+                "ro": "Spațiile deschise mari pot fi inconfortabile pe vânt și ploaie.",
+                "en": "Large open areas can be uncomfortable in wind and rain."
+              }
+            },
+            {
+              "name": "Plaza de Toros",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden für einen kurzen Check der Route.",
+                "hu": "Használja az árkádokat az útvonal gyors ellenőrzéséhez.",
+                "ro": "Folosiți arcadele pentru o verificare rapidă a rutei.",
+                "en": "Use the arcades for a quick route check."
+              }
+            },
+            {
+              "name": "Abelardo Sánchez Park",
+              "tip_5lang": {
+                "de": "Vermeiden Sie Pfützen auf den unbefestigten Wegen.",
+                "hu": "Kerülje el a tócsákat a burkolatlan utakon.",
+                "ro": "Evitați bălțile de pe potecile neasfaltate.",
+                "en": "Avoid puddles on the unpaved paths."
+              }
+            },
+            {
+              "name": "Teatro Circo",
+              "tip_5lang": {
+                "de": "Letzter Stopp, bevor Sie sich ins Trockene begeben.",
+                "hu": "Utolsó megálló, mielőtt fedett helyre vonulna.",
+                "ro": "Ultima oprire înainte de a merge la adăpost.",
+                "en": "Final stop before heading to a dry indoor spot."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Bremsen, nasser Asphalt ist tückisch.",
+              "Vermeiden Sie Markierungen auf der Straße, sie sind rutschig.",
+              "Verwenden Sie Schutzbleche, um Schlammspritzer zu vermeiden.",
+              "Ein Poncho ist praktischer als eine normale Jacke beim Radeln.",
+              "Parken Sie das Rad nach Möglichkeit unter Vordächern."
+            ],
+            "hu": [
+              "Ellenőrizze a fékeket, a vizes aszfalt csalóka.",
+              "Kerülje az útburkolati jeleket, mert csúsznak.",
+              "Használjon sárvédőt a felcsapódó sár ellen.",
+              "A poncsó praktikusabb kerékpározáshoz, mint a kabát.",
+              "A biciklit lehetőség szerint előtetők alatt parkolja le."
+            ],
+            "ro": [
+              "Verificați frânele, asfaltul umed este înșelător.",
+              "Evitați marcajele rutiere, sunt foarte alunecoase.",
+              "Folosiți apărători pentru a evita stropii de noroi.",
+              "Un ponciu este mai practic decât o jachetă la pedalat.",
+              "Parcați bicicleta sub copertine ori de câte ori este posibil."
+            ],
+            "en": [
+              "Check your brakes, wet asphalt is treacherous.",
+              "Avoid road markings as they become very slippery.",
+              "Use mudguards to avoid mud splashes.",
+              "A poncho is more practical than a jacket while cycling.",
+              "Park the bike under overhangs whenever possible."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre Radtour durch die kühle Morgenluft von Albacete. Die Fahrt zur Kathedrale belebt den Geist, während die Wintersonne tief steht. Nachmittags wärmen Sie sich im Klingenmuseum auf, bevor Sie den Park durchqueren. Der Tag endet am Teatro Circo, wenn die Lichter der Stadt in der klaren Winternacht erstrahlen.",
+            "hu": "Kezdje kerékpártúráját Albacete hűvös reggeli levegőjében. A katedrálishoz vezető út frissítő, miközben a téli nap alacsonyan jár. Délután melegedjen fel a Késmúzeumban, mielőtt átvágná a parkon. A nap a Teatro Circo-nál ér véget, ahogy a város fényei felgyulladnak a tiszta téli éjszakában.",
+            "ro": "Începeți tura cu bicicleta în aerul răcoros al dimineții din Albacete. Drumul spre catedrală este revigorant, cu soarele de iarnă jos pe cer. După-amiaza, încălziți-vă la Muzeul de Cuțite înainte de a traversa parcul. Ziua se încheie la Teatro Circo, când luminile orașului se aprind în noaptea senină.",
+            "en": "Start your bike tour in the cool morning air of Albacete. The ride to the Cathedral is refreshing with the low winter sun. In the afternoon, warm up at the Cutlery Museum before crossing the park. The day ends at Teatro Circo as the city lights shine in the clear winter night."
+          },
+          "stops": [
+            {
+              "name": "Pasaje de Lodares",
+              "tip_5lang": {
+                "de": "Guter Ort, um die Handschuhe kurz auszuziehen.",
+                "hu": "Jó hely a kesztyűk rövid levételére.",
+                "ro": "Loc bun pentru a scoate mănușile scurt.",
+                "en": "Good spot to briefly take off your gloves."
+              }
+            },
+            {
+              "name": "Cathedral of San Juan Bautista",
+              "tip_5lang": {
+                "de": "Parken Sie in der Sonne, um den Sattel warm zu halten.",
+                "hu": "Parkoljon a napon, hogy a nyereg meleg maradjon.",
+                "ro": "Parcați la soare pentru a păstra șaua caldă.",
+                "en": "Park in the sun to keep the saddle warm."
+              }
+            },
+            {
+              "name": "Museum of Cutlery (Museo de la Cuchillería)",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Pause für ein heißes Getränk im Café gegenüber.",
+                "hu": "Használja ki a szünetet egy forró italra a szemközti kávézóban.",
+                "ro": "Folosiți pauza pentru o băutură caldă la cafeneaua de vizavi.",
+                "en": "Use the break for a hot drink at the café opposite."
+              }
+            },
+            {
+              "name": "Recinto Ferial",
+              "tip_5lang": {
+                "de": "Bei Winterwind kann es hier sehr zugig sein.",
+                "hu": "Téli szélben itt nagyon huzatos lehet a levegő.",
+                "ro": "Pe vânt de iarnă poate fi foarte mult curent aici.",
+                "en": "It can be very draughty here in the winter wind."
+              }
+            },
+            {
+              "name": "Plaza de Toros",
+              "tip_5lang": {
+                "de": "Achten Sie auf die kürzer werdenden Schatten.",
+                "hu": "Figyeljen a gyorsan nyúló árnyékokra.",
+                "ro": "Fiți atenți la umbrele care se lungesc rapid.",
+                "en": "Watch the shadows lengthening quickly."
+              }
+            },
+            {
+              "name": "Abelardo Sánchez Park",
+              "tip_5lang": {
+                "de": "Zügiges Radeln hält die Körpertemperatur stabil.",
+                "hu": "A tempós tekerés segít megőrizni a testhőt.",
+                "ro": "Pedalarea viguroasă ajută la menținerea căldurii corporale.",
+                "en": "Vigorous cycling helps maintain body heat."
+              }
+            },
+            {
+              "name": "Teatro Circo",
+              "tip_5lang": {
+                "de": "Vorsicht vor Reifbildung auf Brücken oder Metallteilen.",
+                "hu": "Vigyázzon a zúzmarára a hidakon vagy fémfelületeken.",
+                "ro": "Atenție la chiciura de pe poduri sau elemente metalice.",
+                "en": "Watch out for frost on bridges or metal surfaces."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Handschuhe, der Fahrtwind kühlt stark.",
+              "Ein Schlauchtuch schützt das Gesicht vor der kalten Brise.",
+              "Die Lichtverhältnisse ändern sich ab 16:30 Uhr massiv.",
+              "Prüfen Sie den Reifendruck, er sinkt bei Kälte oft ab.",
+              "Machen Sie öfter kurze Pausen in beheizten Räumen."
+            ],
+            "hu": [
+              "Viseljen szélálló kesztyűt, a menetszél nagyon hűt.",
+              "A csősál védi az arcot a hideg fuvallatoktól.",
+              "A látási viszonyok 16:30 után gyorsan változnak.",
+              "Ellenőrizze a guminyomást, hidegben gyakran csökken.",
+              "Tartson gyakrabban rövid szüneteket fűtött helyeken."
+            ],
+            "ro": [
+              "Purtați mănuși rezistente la vânt, curentul răcește mult.",
+              "O eșarfă tip tub protejează fața de briza rece.",
+              "Condițiile de lumină se schimbă masiv după ora 16:30.",
+              "Verificați presiunea roților, scade adesea la frig.",
+              "Faceți pauze scurte mai des în spații încălzite."
+            ],
+            "en": [
+              "Wear windproof gloves, the wind chill is strong.",
+              "A neck warmer protects your face from the cold breeze.",
+              "Light conditions change drastically after 16:30.",
+              "Check tire pressure, it often drops in the cold.",
+              "Take short breaks in heated spaces more frequently."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1072,6 +1488,214 @@
           "A GPS is helpful for navigating the city.",
           "Do not leave valuables visible in the car."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die Fahrt durch das verregnete Albacete, gut geschützt im Auto. Am historischen Zentrum finden Sie nahe Parkmöglichkeiten. Mittags und nachmittags bieten Kathedrale und Museum trockenes Programm. Den Abend lassen Sie entspannt ausklingen, während die Scheibenwischer den Takt zur beleuchteten Stadt vorgeben.",
+            "hu": "Élvezze az autózást az esős Albacetében, biztonságban a kocsi belsejében. A történelmi központnál talál közeli parkolókat. Délben és délután a katedrális és a múzeum kínál száraz programot. Az estét kényelmesen zárja, miközben az ablaktörlők ütemére figyeli a kivilágított várost.",
+            "ro": "Bucurați-vă de drum prin Albacete-ul ploios, bine protejat în mașină. Lângă centrul istoric veți găsi parcări apropiate. La prânz și după-amiază, catedrala și muzeul oferă program uscat. Încheiați seara relaxat, în timp ce ștergătoarele bat ritmul orașului iluminat.",
+            "en": "Enjoy driving through rainy Albacete, well protected inside your car. You'll find nearby parking at the historic center. At noon and in the afternoon, the Cathedral and museum offer a dry itinerary. End the evening relaxed while the wipers set the beat to the illuminated city."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Historic Center",
+              "tip_5lang": {
+                "de": "Nutzen Sie Parkhäuser, um direkt im Trockenen auszusteigen.",
+                "hu": "Használja a parkolóházakat, hogy közvetlenül fedett helyre érkezzen.",
+                "ro": "Folosiți parcările etajate pentru a coborî direct la adăpost.",
+                "en": "Use parking garages to exit directly into a dry area."
+              }
+            },
+            {
+              "name": "Cathedral of San Juan Bautista",
+              "tip_5lang": {
+                "de": "Kurzer Sprint vom Parkplatz zum Kircheneingang.",
+                "hu": "Gyors vágta a parkolótól a templom bejáratáig.",
+                "ro": "Sprint scurt de la parcare la intrarea în biserică.",
+                "en": "Short sprint from the parking spot to the church entrance."
+              }
+            },
+            {
+              "name": "Museum of Cutlery (Museo de la Cuchillería)",
+              "tip_5lang": {
+                "de": "Ideales Ziel, wenn der Regen draußen am stärksten ist.",
+                "hu": "Ideális célpont, amikor kint a legerősebben esik.",
+                "ro": "Destinație ideală când ploaia e cea mai puternică afară.",
+                "en": "Ideal destination when the rain is heaviest outside."
+              }
+            },
+            {
+              "name": "Cluster 2: Culture & Park",
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Guss länger in den Gebäuden.",
+                "hu": "Erős felhőszakadás esetén maradjon tovább az épületekben.",
+                "ro": "Rămâneți mai mult în clădiri în caz de aversă puternică.",
+                "en": "Stay longer inside buildings during heavy downpours."
+              }
+            },
+            {
+              "name": "Abelardo Sánchez Park",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Museum, um Wege zu verkürzen.",
+                "hu": "Parkoljon közel a múzeumhoz, hogy rövidítse a gyaloglást.",
+                "ro": "Parcați aproape de muzeu pentru a scurta drumul.",
+                "en": "Park close to the museum to shorten the walking distance."
+              }
+            },
+            {
+              "name": "Cluster 3: Fair & Arena",
+              "tip_5lang": {
+                "de": "Die Ringstraße bietet gute Sicht auf die Monumente im Regen.",
+                "hu": "A körgyűrűről esőben is jól láthatók a műemlékek.",
+                "ro": "Șoseaua de centură oferă o vedere bună spre monumente pe ploaie.",
+                "en": "The ring road offers good views of the monuments in the rain."
+              }
+            },
+            {
+              "name": "Plaza de Toros",
+              "tip_5lang": {
+                "de": "Genießen Sie den Anblick kurz aus dem warmen Auto.",
+                "hu": "Élvezze a látványt egy pillanatra a meleg autóból.",
+                "ro": "Bucurați-vă de priveliște scurt din mașina caldă.",
+                "en": "Enjoy the view briefly from the warm car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf den Hauptverkehrsstraßen.",
+              "Parkhäuser im Zentrum sind bei Regen oft schneller belegt.",
+              "Halten Sie die Scheiben beschlagfrei für bessere Sicht.",
+              "Nutzen Sie die Tiefgaragen beim Park Abelardo Sánchez.",
+              "Planen Sie etwas mehr Zeit für den Stadtverkehr ein."
+            ],
+            "hu": [
+              "Vigyázzon a vízenfutásra (aquaplaning) a főutakon.",
+              "A központi parkolóházak esőben hamarabb megtelhetnek.",
+              "Tartsa páramentesen a szélvédőt a jobb kilátásért.",
+              "Használja az Abelardo Sánchez park alatti mélygarázst.",
+              "Számoljon kicsit több idővel a városi forgalom miatt."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe bulevardele principale.",
+              "Parcările etajate centrale se umplu mai repede pe ploaie.",
+              "Păstrați geamurile dezaburite pentru o vizibilitate mai bună.",
+              "Folosiți parcările subterane de lângă parcul Abelardo Sánchez.",
+              "Planificați ceva mai mult timp pentru traficul urban."
+            ],
+            "en": [
+              "Watch out for aquaplaning on the main roads.",
+              "Central parking garages fill up faster when it rains.",
+              "Keep the windshield defogged for better visibility.",
+              "Use the underground parking near Abelardo Sánchez Park.",
+              "Allow a bit more time for city traffic."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie gemütlich im beheizten Auto in Ihren Wintertag in Albacete. Die Kathedrale und das Museum sind angenehme Zwischenstopps, wenn die Außentemperaturen sinken. Nachmittags lockt der Park für einen kurzen, frischen Spaziergang. Am Abend bietet die Plaza de Toros eine stimmungsvolle Kulisse für Ihre Fahrt durch die klare Winternacht.",
+            "hu": "Kezdje kényelmesen, fűtött autóval a téli napot Albacetében. A katedrális és a múzeum kellemes megállóhelyek, amikor kint csökken a hőmérséklet. Délután a park hívogat egy rövid, frissítő sétára. Este a Bikaviadal-tér hangulatos díszletet nyújt a tiszta téli éjszakai autózáshoz.",
+            "ro": "Începeți confortabil, cu mașina încălzită, ziua de iarnă în Albacete. Catedrala și muzeul sunt opriri plăcute când temperaturile scad afară. După-amiaza, parcul vă invită la o plimbare scurtă și proaspătă. Seara, Plaza de Toros oferă un cadru atmosferic pentru drumul prin noaptea senină.",
+            "en": "Start your winter day in Albacete comfortably in a heated car. The Cathedral and museum are pleasant stops when outside temperatures drop. In the afternoon, the park invites you for a short, fresh walk. In the evening, the Plaza de Toros provides an atmospheric backdrop for your drive through the clear winter night."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Historic Center",
+              "tip_5lang": {
+                "de": "Lassen Sie das Auto kurz warm laufen, bevor Sie starten.",
+                "hu": "Hagyja kicsit bemelegedni az autót indulás előtt.",
+                "ro": "Lăsați mașina să se încălzească puțin înainte de start.",
+                "en": "Let the car warm up briefly before you start."
+              }
+            },
+            {
+              "name": "Cathedral of San Juan Bautista",
+              "tip_5lang": {
+                "de": "Parkplätze im direkten Umfeld sind im Winter oft frei.",
+                "hu": "A közvetlen környezetben télen gyakran van szabad parkoló.",
+                "ro": "Locurile de parcare din proximitate sunt adesea libere iarna.",
+                "en": "Parking spots in the immediate vicinity are often available in winter."
+              }
+            },
+            {
+              "name": "Museum of Cutlery (Museo de la Cuchillería)",
+              "tip_5lang": {
+                "de": "Ein warmer Zwischenstopp ist im Winter Gold wert.",
+                "hu": "Egy meleg pihenő télen aranyat ér.",
+                "ro": "O oprire la căldură valorează aur iarna.",
+                "en": "A warm stop is worth its weight in gold in winter."
+              }
+            },
+            {
+              "name": "Cluster 2: Culture & Park",
+              "tip_5lang": {
+                "de": "Die Parkplatzsuche geht im Winter meist schneller.",
+                "hu": "Télen általában gyorsabb a parkolóhely-keresés.",
+                "ro": "Căutarea locului de parcare e de obicei mai rapidă iarna.",
+                "en": "Finding a parking spot is usually faster in winter."
+              }
+            },
+            {
+              "name": "Abelardo Sánchez Park",
+              "tip_5lang": {
+                "de": "Hinterlassen Sie keine Wertsachen sichtbar im Auto.",
+                "hu": "Ne hagyjon értéket látható helyen az autóban.",
+                "ro": "Nu lăsați obiecte de valoare la vedere în mașină.",
+                "en": "Don't leave valuables visible in the car."
+              }
+            },
+            {
+              "name": "Cluster 3: Fair & Arena",
+              "tip_5lang": {
+                "de": "Die Abendbeleuchtung ist im Winter besonders klar.",
+                "hu": "Az esti kivilágítás télen különösen élesen látszik.",
+                "ro": "Iluminatul de seară este deosebit de clar iarna.",
+                "en": "Evening illumination is especially clear in winter."
+              }
+            },
+            {
+              "name": "Plaza de Toros",
+              "tip_5lang": {
+                "de": "Perfekter Ort für ein letztes Foto im Abendlicht.",
+                "hu": "Tökéletes hely egy utolsó fotóhoz az esti fényekben.",
+                "ro": "Locul perfect pentru o ultimă poză în lumina serii.",
+                "en": "Perfect spot for one last photo in the evening light."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Frostschutz in der Scheibenwaschanlage.",
+              "Batterien schwächeln bei Kälte, achten Sie auf Startprobleme.",
+              "Die Parkplatzsuche im Zentrum ist im Winter entspannter.",
+              "Achten Sie auf Glätte in schattigen Kurven der Vorstadt.",
+              "Nutzen Sie die Sitzheizung für maximale Gemütlichkeit."
+            ],
+            "hu": [
+              "Ellenőrizze a fagyállót a szélvédőmosóban.",
+              "Az akkumulátor hidegben gyengülhet, figyeljen az indításra.",
+              "A központi parkolás télen általában nyugodtabb.",
+              "Vigyázzon a jegesedésre a külvárosi árnyékos kanyarokban.",
+              "Használja az ülésfűtést a maximális kényelemért."
+            ],
+            "ro": [
+              "Verificați antigelul din lichidul de parbriz.",
+              "Bateriile slăbesc la frig, atenție la problemele de pornire.",
+              "Parcarea în centru este mai relaxată pe timp de iarnă.",
+              "Atenție la polei în curbele umbrite de la periferie.",
+              "Folosiți încălzirea în scaune pentru confort maxim."
+            ],
+            "en": [
+              "Check the antifreeze in your windshield washer fluid.",
+              "Batteries weaken in the cold, watch for starting issues.",
+              "Parking in the center is generally more relaxed in winter.",
+              "Watch for ice in shady curves on the outskirts.",
+              "Use seat heating for maximum coziness."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1408,6 +2032,196 @@
           "Have small change ready for tickets bought from the driver.",
           "Be aware that bus frequency may be lower in the evenings and on weekends."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie das Busnetz von Albacete, um trocken von Viertel zu Viertel zu gelangen. Das Zentrum bietet viele überdachte Wartehallen. Mittags und nachmittags sind Kathedrale und Museum ideale Indoor-Ziele. Abends bringt Sie der Bus sicher und bequem durch den Regen zurück, während Sie die Aussicht auf die nasse Stadt genießen.",
+            "hu": "Használja Albacete buszhálózatát, hogy szárazon jusson el negyedről negyedre. A központban sok a fedett buszváró. Délben és délután a katedrális és a múzeum ideális beltéri úticélok. Este a busz biztonságosan és kényelmesen visz át az esőn, miközben az ablakból csodálhatja a vizes várost.",
+            "ro": "Folosiți rețeaua de autobuze din Albacete pentru a ajunge uscat dintr-un cartier în altul. Centrul oferă multe stații acoperite. La prânz și după-amiază, catedrala și muzeul sunt destinații ideale de interior. Seara, autobuzul vă aduce în siguranță prin ploaie, în timp ce admirați orașul ud.",
+            "en": "Use Albacete's bus network to travel dry from district to district. The center offers many covered shelters. At noon and in the afternoon, the Cathedral and museum are ideal indoor destinations. In the evening, the bus takes you safely through the rain while you enjoy the view of the wet city."
+          },
+          "stops": [
+            {
+              "name": "District 1: Center",
+              "tip_5lang": {
+                "de": "Warten Sie in der Pasaje de Lodares auf den nächsten Bus.",
+                "hu": "Várjon a Pasaje de Lodaresben a következő buszra.",
+                "ro": "Așteptați în Pasaje de Lodares următorul autobuz.",
+                "en": "Wait in Pasaje de Lodares for the next bus."
+              }
+            },
+            {
+              "name": "Cathedral of San Juan Bautista",
+              "tip_5lang": {
+                "de": "Die Bushaltestellen hier haben meist gute Unterstände.",
+                "hu": "Az itteni buszmegállók általában jó fedéllel rendelkeznek.",
+                "ro": "Stațiile de autobuz de aici au de obicei copertine bune.",
+                "en": "Bus stops here usually have good shelters."
+              }
+            },
+            {
+              "name": "Museum of Cutlery (Museo de la Cuchillería)",
+              "tip_5lang": {
+                "de": "Perfekt getaktet mit den Buslinien der Innenstadt.",
+                "hu": "Kiválóan összehangolva a belvárosi buszjáratokkal.",
+                "ro": "Perfect sincronizat cu liniile de autobuz din centru.",
+                "en": "Perfectly timed with the downtown bus lines."
+              }
+            },
+            {
+              "name": "District 2: Park & Culture",
+              "tip_5lang": {
+                "de": "Nutzen Sie die App, um die Wartezeit im Regen zu minimieren.",
+                "hu": "Használja az appot, hogy minimálisra csökkentse a várakozást.",
+                "ro": "Folosiți aplicația pentru a minimiza așteptarea în ploaie.",
+                "en": "Use the app to minimize waiting time in the rain."
+              }
+            },
+            {
+              "name": "District 3: Arena & Fair",
+              "tip_5lang": {
+                "de": "Große Haltestellen bieten hier oft guten Windschutz.",
+                "hu": "A nagy megállók itt gyakran jó szélvédelmet nyújtanak.",
+                "ro": "Stațiile mari oferă adesea protecție bună la vânt.",
+                "en": "Large stops here often offer good wind protection."
+              }
+            },
+            {
+              "name": "Recinto Ferial",
+              "tip_5lang": {
+                "de": "Der Bus hält direkt am Eingang, ideal bei Guss.",
+                "hu": "A busz közvetlenül a bejáratnál áll meg, ideális esőben.",
+                "ro": "Autobuzul oprește chiar la intrare, ideal pe aversă.",
+                "en": "The bus stops right at the entrance, ideal during a downpour."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Halten Sie Kleingeld oder Ihre Karte griffbereit.",
+              "In den Bussen ist es angenehm warm und trocken.",
+              "Die Linien A und B decken das Zentrum gut ab.",
+              "Vermeiden Sie das Einsteigen mit tropfenden Schirmen.",
+              "Prüfen Sie Echtzeit-Infos, Regen kann den Verkehr bremsen."
+            ],
+            "hu": [
+              "Tartson kéznél aprópénzt vagy a kártyáját.",
+              "A buszokon kellemesen meleg és száraz az idő.",
+              "Az A és B járatok jól lefedik a központot.",
+              "Lehetőleg ne szálljon fel csöpögő esernyővel.",
+              "Ellenőrizze az infókat, az eső lassíthatja a buszokat."
+            ],
+            "ro": [
+              "Țineți măruntul sau cardul la îndemână.",
+              "În autobuze este plăcut, cald și uscat.",
+              "Liniile A și B acoperă bine centrul.",
+              "Evitați urcarea cu umbrele care picură puternic.",
+              "Verificați info în timp real, ploaia poate încetini traficul."
+            ],
+            "en": [
+              "Keep change or your card ready.",
+              "It’s pleasantly warm and dry on the buses.",
+              "Lines A and B cover the center well.",
+              "Try not to board with heavily dripping umbrellas.",
+              "Check real-time info, as rain can slow down traffic."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie Albacete im Winter mit dem komfortablen Nahverkehr. Die Busse bieten Schutz vor der kühlen Brise während Ihrer Tour zwischen Kathedrale und Museum. Nachmittags ist der Park schnell erreichbar, bevor die Kälte anzieht. Am Abend bringt Sie der Bus bequem durch die beleuchtete Winternacht zurück zu Ihrer Unterkunft.",
+            "hu": "Élvezze Albacetét télen a kényelmes tömegközlekedéssel. A buszok védelmet nyújtanak a hűvös szél ellen a katedrális és a múzeum közötti úton. Délután a park gyorsan elérhető, mielőtt beállna az igazi hideg. Este a busz kényelmesen visz át a kivilágított téli éjszakán a szálláshelyére.",
+            "ro": "Bucurați-vă de Albacete iarna cu transportul public confortabil. Autobuzele oferă protecție împotriva brizei reci în drumul dintre catedrală și muzeu. După-amiaza, parcul este rapid accesibil înainte de lăsarea frigului. Seara, autobuzul vă duce confortabil prin noaptea de iarnă iluminată.",
+            "en": "Enjoy Albacete in winter with comfortable public transport. The buses provide protection from the cool breeze during your tour between the Cathedral and museum. In the afternoon, the park is quickly reachable before the cold sets in. In the evening, the bus takes you comfortably through the illuminated winter night back to your stay."
+          },
+          "stops": [
+            {
+              "name": "District 1: Center",
+              "tip_5lang": {
+                "de": "Warten Sie im Warmen, bis der Bus laut App fast da ist.",
+                "hu": "Várjon bent, amíg a busz az app szerint majdnem odaér.",
+                "ro": "Așteptați la căldură până autobuzul e aproape, conform aplicației.",
+                "en": "Wait indoors until the bus is almost there according to the app."
+              }
+            },
+            {
+              "name": "Cathedral of San Juan Bautista",
+              "tip_5lang": {
+                "de": "Die Haltestellen in der Sonne sind im Winter beliebter.",
+                "hu": "A napos megállók télen népszerűbbek.",
+                "ro": "Stațiile însorite sunt mai populare iarna.",
+                "en": "Sunny bus stops are more popular in winter."
+              }
+            },
+            {
+              "name": "Museum of Cutlery (Museo de la Cuchillería)",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen Haltestelle und Museumseingang.",
+                "hu": "Rövid séta a megálló és a múzeumbemenet között.",
+                "ro": "Drum scurt între stație și intrarea în muzeu.",
+                "en": "Short distance between the stop and the museum entrance."
+              }
+            },
+            {
+              "name": "District 2: Park & Culture",
+              "tip_5lang": {
+                "de": "Beheizte Busse machen den Weg zum Park sehr angenehm.",
+                "hu": "A fűtött buszok kényelmessé teszik az utat a parkig.",
+                "ro": "Autobuzele încălzite fac drumul spre parc foarte plăcut.",
+                "en": "Heated buses make the trip to the park very pleasant."
+              }
+            },
+            {
+              "name": "District 3: Arena & Fair",
+              "tip_5lang": {
+                "de": "Abends sind die Busse hier oft weniger voll.",
+                "hu": "Este a buszok itt gyakran kevésbé zsúfoltak.",
+                "ro": "Seara autobuzele sunt adesea mai puțin aglomerate aici.",
+                "en": "Buses are often less crowded here in the evening."
+              }
+            },
+            {
+              "name": "Recinto Ferial",
+              "tip_5lang": {
+                "de": "Letzter Bus-Check, bevor es in die kalte Nacht geht.",
+                "hu": "Utolsó buszellenőrzés a hideg éjszaka előtt.",
+                "ro": "Ultima verificare a autobuzului înainte de noaptea rece.",
+                "en": "Final bus check before heading out into the cold night."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse sind im Winter der wärmste Weg durch die Stadt.",
+              "Die Fahrpläne sind auch im Winter sehr zuverlässig.",
+              "Nutzen Sie die Wartehallen als Windschutz.",
+              "Fensterplätze bieten tolle Ausblicke auf die Winterbeleuchtung.",
+              "Vermeiden Sie langes Stehen an zugigen Straßenecken."
+            ],
+            "hu": [
+              "Télen a busz a legmelegebb módja a városjárásnak.",
+              "A menetrendek télen is nagyon megbízhatóak.",
+              "Használja a buszvárókat szélvédelemnek.",
+              "Az ablak melletti helyekről szép a rálátás az ünnepi fényekre.",
+              "Kerülje a hosszú várakozást a huzatos utcasarkokon."
+            ],
+            "ro": [
+              "Autobuzul este cea mai caldă cale prin oraș iarna.",
+              "Orarele sunt foarte de încredere și pe timp de iarnă.",
+              "Folosiți stațiile acoperite ca protecție contra vântului.",
+              "Locurile de la fereastră oferă vederi bune la luminile de iarnă.",
+              "Evitați așteptarea lungă la colțurile de stradă cu curent."
+            ],
+            "en": [
+              "Buses are the warmest way through the city in winter.",
+              "Schedules are very reliable even in winter.",
+              "Use the bus shelters as windbreaks.",
+              "Window seats offer great views of the winter lights.",
+              "Avoid standing for long at windy street corners."
+            ]
+          }
+        }
       }
     }
   }

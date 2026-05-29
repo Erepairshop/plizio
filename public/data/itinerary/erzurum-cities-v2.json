@@ -410,6 +410,224 @@
           "Have some cash on hand for small purchases and tea houses.",
           "Women should carry a headscarf for visiting mosques."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt an der Yakutiye-Madrasa, deren dicke Mauern Schutz vor dem Regen bieten. Mittags erkunden Sie die Große Moschee und die Doppelminarett-Madrasa, wobei die kurzen Wege zwischen den Monumenten ideal für regnerisches Wetter sind. Am Nachmittag verbringen Sie viel Zeit im überdachten Taşhan beim Teetrinken. Den Abend lassen wir an der Aziziye-Bastion bei frischer, feuchter Luft ausklingen.",
+            "hu": "A reggel a Yakutiye Medreszénél indul, ahol a vastag falak menedéket nyújtanak az eső elől. Délben az Ulu Cami és a Cifte Minareli Medresze belső tereit járjuk be, a rövid gyalogos távok ideálisak ilyenkor. Délután a fedett Taşhan bazárban melegedünk fel egy tea mellett. Az estét az Aziziye bástyánál zárjuk, ahol az eső utáni friss hegyi levegő kísér minket.",
+            "ro": "Dimineața începe la Madrasa Yakutiye, ale cărei ziduri groase oferă adăpost împotriva ploii. La prânz explorăm Marea Moschee și Madrasa cu Două Minarete, distanțele scurte fiind ideale. După-amiaza este dedicată bazarului acoperit Taşhan pentru ceai și cumpărături. Seara se încheie la Bastionul Aziziye, unde aerul umed de munte este revigorant după ploaie.",
+            "en": "The morning starts at Yakutiye Madrasa, where thick stone walls provide shelter. At noon, we explore the Grand Mosque and Twin Minaret Madrasa; the short walking distances are perfect for rainy intervals. Spend the afternoon inside the covered Taşhan bazaar with a warm tea. The evening concludes at Aziziye Bastion, enjoying the fresh, damp mountain air after the showers."
+          },
+          "stops": [
+            {
+              "name": "Yakutiye Madrasa",
+              "tip_5lang": {
+                "de": "Innenausstellungen bieten perfekten Regenschutz.",
+                "hu": "A belső kiállítások alatt nem ázunk meg.",
+                "ro": "Expozițiile interioare oferă protecție excelentă.",
+                "en": "Indoor exhibits offer perfect rain protection."
+              }
+            },
+            {
+              "name": "Twin Minaret Madrasa",
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Arkaden im Innenhof.",
+                "hu": "Használja az udvar fedett árkádjait.",
+                "ro": "Folosiți arcadele acoperite din curte.",
+                "en": "Utilize the covered arcades in the courtyard."
+              }
+            },
+            {
+              "name": "Grand Mosque (Ulu Cami)",
+              "tip_5lang": {
+                "de": "Ein weitläufiger, trockener Ort der Ruhe.",
+                "hu": "Tágas, száraz és nyugodt helyszín.",
+                "ro": "Un loc de liniște vast și uscat.",
+                "en": "A vast, dry place of tranquility."
+              }
+            },
+            {
+              "name": "Erzurum Castle & Clock Tower",
+              "tip_5lang": {
+                "de": "Vorsicht auf den rutschigen Steinstufen des Turms.",
+                "hu": "Vigyázat, a torony lépcsői csúszósak lehetnek.",
+                "ro": "Atenție la treptele de piatră alunecoase.",
+                "en": "Be careful on the slippery stone steps."
+              }
+            },
+            {
+              "name": "Three Tombs (Üç Kümbetler)",
+              "tip_5lang": {
+                "de": "Kurzer Aufenthalt im Freien zwischen den Schauern.",
+                "hu": "Gyors látogatás a szabadtéren két zápor között.",
+                "ro": "Vizită scurtă în aer liber între reprizele de ploaie.",
+                "en": "Quick outdoor visit between rain showers."
+              }
+            },
+            {
+              "name": "Taşhan (Rüstem Pasha Caravanserai)",
+              "tip_5lang": {
+                "de": "Bester Ort für eine lange, trockene Teepause.",
+                "hu": "A legjobb hely egy hosszú, száraz teaszünetre.",
+                "ro": "Cel mai bun loc pentru o pauză lungă de ceai.",
+                "en": "Best spot for a long, dry tea break."
+              }
+            },
+            {
+              "name": "Atatürk House Museum",
+              "tip_5lang": {
+                "de": "Gemütliches Museumserlebnis im Trockenen.",
+                "hu": "Kellemes múzeumi élmény fedett helyen.",
+                "ro": "O experiență muzeală confortabilă la adăpost.",
+                "en": "Comfortable museum experience indoors."
+              }
+            },
+            {
+              "name": "Aziziye Bastion",
+              "tip_5lang": {
+                "de": "Gute wasserfeste Schuhe für die Erdpfade nötig.",
+                "hu": "Vízálló cipő ajánlott a sáros ösvények miatt.",
+                "ro": "Pantofi impermeabili necesari pentru poteci.",
+                "en": "Waterproof shoes needed for the dirt paths."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für die Kopfsteinpflastergassen.",
+              "Der Taşhan-Basar ist der ideale Rückzugsort bei starkem Regen.",
+              "Regenschirme sind wegen des oft böigen Windes weniger effektiv als Regenjacken.",
+              "Die historischen Stätten im Zentrum liegen sehr nah beieinander."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a macskaköves utcák miatt.",
+              "A Taşhan bazár ideális menedék heves esőzés esetén.",
+              "A szeles idő miatt az esőkabát praktikusabb, mint az esernyő.",
+              "A központ történelmi látnivalói nagyon közel vannak egymáshoz."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru străzile pietruite.",
+              "Bazarul Taşhan este refugiul ideal în caz de ploaie torențială.",
+              "Pelerina de ploaie este mai utilă decât umbrela din cauza vântului.",
+              "Obiectivele istorice din centru sunt foarte aproape unele de altele."
+            ],
+            "en": [
+              "Wear waterproof shoes for the cobblestone streets.",
+              "Taşhan bazaar is the ideal refuge during heavy rain.",
+              "Raincoats are more practical than umbrellas due to gusty winds.",
+              "The historic sites in the center are very close to each other."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erzurum im Winter ist ein eisiges Märchen. Morgens besuchen wir die Yakutiye-Madrasa, während der Schnee die Minarette ziert. Mittags wärmen wir uns in der Großen Moschee auf, bevor wir das Schloss erklimmen, um die schneebedeckte Stadt zu sehen. Der Nachmittag gehört dem heißen Tee im Taşhan, dem perfekten Ort gegen die Kälte. Den Abend verbringen wir im warmen Atatürk-Museum, bevor es früh dunkel wird.",
+            "hu": "Erzurum télen igazi jeges tündérmese. Reggel a Yakutiye Medreszét nézzük meg, miközben hó borítja a minareteket. Délben az Ulu Camiban melegszünk fel, majd a várból csodáljuk a hófödte várost. A délutánt a forró tea uralja a Taşhan bazárban, ami tökéletes óvóhely a hideg elől. Az estét a meleg Atatürk múzeumban töltjük, mielőtt korán leszáll az éj.",
+            "ro": "Erzurum iarna este un basm înghețat. Dimineața vizităm Madrasa Yakutiye, cu zăpada decorând minaretele. La prânz ne încălzim în Marea Moschee înainte de a urca la castel pentru panorama înzăpezită. După-amiaza este dedicată ceaiului fierbinte în Taşhan, refugiul perfect împotriva gerului. Seara o petrecem în muzeul Atatürk, înainte de lăsarea timpurie a întunericului.",
+            "en": "Erzurum in winter is an icy fairy tale. In the morning, visit Yakutiye Madrasa with snow-dusted minarets. Warm up in the Grand Mosque at noon before climbing the castle for a snowy city view. The afternoon is dominated by hot tea in Taşhan, the perfect shelter from the biting cold. Spend the evening in the cozy Atatürk Museum before the early sunset."
+          },
+          "stops": [
+            {
+              "name": "Yakutiye Madrasa",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in den Ausstellungsräumen auf.",
+                "hu": "Melegedjen fel a kiállítótermekben.",
+                "ro": "Încălziți-vă în sălile de expoziție.",
+                "en": "Warm up inside the exhibition rooms."
+              }
+            },
+            {
+              "name": "Twin Minaret Madrasa",
+              "tip_5lang": {
+                "de": "Beeindruckende Eiszapfen an den Portalen.",
+                "hu": "Lenyűgöző jégcsapok a kapukon.",
+                "ro": "Țurțuri impresionanți pe portaluri.",
+                "en": "Impressive icicles on the portals."
+              }
+            },
+            {
+              "name": "Grand Mosque (Ulu Cami)",
+              "tip_5lang": {
+                "de": "Dicke Teppiche isolieren gut gegen die Kälte.",
+                "hu": "A vastag szőnyegek jól szigetelnek a hideg ellen.",
+                "ro": "Covoarele groase izolează bine împotriva frigului.",
+                "en": "Thick carpets provide good insulation from cold."
+              }
+            },
+            {
+              "name": "Erzurum Castle & Clock Tower",
+              "tip_5lang": {
+                "de": "Achtung: Stufen können vereist sein.",
+                "hu": "Vigyázat: a lépcsők jegesek lehetnek.",
+                "ro": "Atenție: treptele pot fi înghețate.",
+                "en": "Caution: steps may be icy."
+              }
+            },
+            {
+              "name": "Three Tombs (Üç Kümbetler)",
+              "tip_5lang": {
+                "de": "Wunderschön im weißen Schnee für Fotos.",
+                "hu": "Gyönyörű fotótéma a fehér hóban.",
+                "ro": "Minunat pentru fotografii în zăpadă.",
+                "en": "Beautiful for photos in the white snow."
+              }
+            },
+            {
+              "name": "Taşhan (Rüstem Pasha Caravanserai)",
+              "tip_5lang": {
+                "de": "Heißer Tee und Oltu-Stein-Souvenirs wärmen.",
+                "hu": "Forró tea és oltu-kő szuvenírek melengetnek.",
+                "ro": "Ceaiul fierbinte și suvenirurile din piatră Oltu.",
+                "en": "Hot tea and Oltu stone souvenirs warm you up."
+              }
+            },
+            {
+              "name": "Atatürk House Museum",
+              "tip_5lang": {
+                "de": "Ein gut geheizter Ort für den späten Nachmittag.",
+                "hu": "Jól fűtött helyszín késő délutánra.",
+                "ro": "Un loc bine încălzit pentru după-amiază.",
+                "en": "A well-heated location for late afternoon."
+              }
+            },
+            {
+              "name": "Aziziye Bastion",
+              "tip_5lang": {
+                "de": "Früher Sonnenuntergang um 16:30 Uhr beachten.",
+                "hu": "Figyelem: korai naplemente 16:30 körül.",
+                "ro": "Atenție la apusul devreme, în jur de 16:30.",
+                "en": "Note the early sunset around 16:30."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Temperaturen fallen oft unter -15°C, Thermokleidung ist Pflicht.",
+              "Die Sonne geht im Winter bereits gegen 16:30 Uhr unter.",
+              "Kopfsteinpflaster kann extrem glatt durch Eis sein.",
+              "Suchen Sie alle 60 Minuten einen beheizten Innenraum auf."
+            ],
+            "hu": [
+              "A hőmérséklet gyakran -15°C alá esik, a hőtartó ruházat kötelező.",
+              "A nap télen már 16:30 körül lemegy.",
+              "A macskakő a jég miatt rendkívül csúszós lehet.",
+              "60 percenként keressen fűtött belső teret a felmelegedéshez."
+            ],
+            "ro": [
+              "Temperaturile scad des sub -15°C, hainele termice sunt obligatorii.",
+              "Soarele apune deja în jurul orei 16:30 iarna.",
+              "Pietrele de pavaj pot fi extrem de alunecoase din cauza gheții.",
+              "Căutați un spațiu interior încălzit la fiecare 60 de minute."
+            ],
+            "en": [
+              "Temperatures often drop below -15°C; thermal clothing is mandatory.",
+              "The sun sets as early as 16:30 in winter.",
+              "Cobblestones can be extremely slippery due to ice.",
+              "Visit a heated indoor space every 60 minutes to warm up."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -814,6 +1032,224 @@
           "Bring a lock to secure your bike.",
           "A light jacket is recommended even in summer for the evenings."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen von Erzurum erfordert Ausdauer. Vormittags besuchen wir die Madrasas auf asphaltierten Wegen. Mittags bietet die Große Moschee eine trockene Pause. Nachmittags radeln wir zum Taşhan, um uns bei Tee aufzuwärmen und die Räder sicher abzustellen. Den Tag beenden wir mit einer vorsichtigen Fahrt zum Atatürk-Haus, während wir Pfützen auf den Straßen meiden.",
+            "hu": "Az esős Erzurumban a kerékpározás kitartást igényel. Délelőtt aszfaltozott utakon érjük el a medreszéket. Délben az Ulu Cami nyújt száraz pihenőt. Délután a Taşhanhoz tekerünk, ahol meleg tea és biztonságos pihenő vár ránk. A napot óvatos tekeréssel zárjuk az Atatürk-házig, kerülgetve a tócsákat a városi utakon.",
+            "ro": "Ciclismul în Erzurum pe ploaie necesită rezistență. Dimineața vizităm madresele pe drumuri asfaltate. La prânz, Marea Moschee oferă o pauză uscată. După-amiaza pedalăm spre Taşhan pentru un ceai fierbinte și parcare sigură. Încheiem ziua cu o cursă precaută spre Casa Atatürk, evitând bălțile de pe șosele.",
+            "en": "Cycling in rainy Erzurum requires resilience. In the morning, visit the madrasas using paved roads. At noon, the Grand Mosque offers a dry break. Cycle to Taşhan in the afternoon for hot tea and safe bike parking. End the day with a cautious ride to Atatürk House, avoiding puddles on the city streets."
+          },
+          "stops": [
+            {
+              "name": "Yakutiye Madrasa",
+              "tip_5lang": {
+                "de": "Fahrradständer in der Nähe suchen.",
+                "hu": "Keressen kerékpártárolót a közelben.",
+                "ro": "Căutați suporturi de biciclete în apropiere.",
+                "en": "Look for bike racks nearby."
+              }
+            },
+            {
+              "name": "Twin Minaret Madrasa",
+              "tip_5lang": {
+                "de": "Vorsicht auf nassen Bordsteinen beim Parken.",
+                "hu": "Vigyázat a vizes padkákkal parkoláskor.",
+                "ro": "Atenție la bordurile umede la parcare.",
+                "en": "Careful with wet curbs when parking."
+              }
+            },
+            {
+              "name": "Grand Mosque (Ulu Cami)",
+              "tip_5lang": {
+                "de": "Guter Ort, um die Regenkleidung zu richten.",
+                "hu": "Jó hely az esőruházat megigazítására.",
+                "ro": "Un loc bun pentru a ajusta pelerina de ploaie.",
+                "en": "Good place to adjust your rain gear."
+              }
+            },
+            {
+              "name": "Erzurum Castle",
+              "tip_5lang": {
+                "de": "Schlammige Wege rund um den Burgberg meiden.",
+                "hu": "Kerülje a sáros utakat a várdomb körül.",
+                "ro": "Evitați drumurile noroioase din jurul dealului.",
+                "en": "Avoid muddy paths around the castle hill."
+              }
+            },
+            {
+              "name": "Three Tombs",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp, Boden kann rutschig sein.",
+                "hu": "Rövid fotómegálló, a talaj csúszós lehet.",
+                "ro": "Oprire scurtă, solul poate fi alunecos.",
+                "en": "Short photo stop, ground can be slippery."
+              }
+            },
+            {
+              "name": "Taşhan",
+              "tip_5lang": {
+                "de": "Lange Pause, um die Ausrüstung zu trocknen.",
+                "hu": "Hosszú szünet a felszerelés szárítására.",
+                "ro": "Pauză lungă pentru a usca echipamentul.",
+                "en": "Long break to dry off your gear."
+              }
+            },
+            {
+              "name": "Atatürk House Museum",
+              "tip_5lang": {
+                "de": "Parken Sie im geschützten Bereich.",
+                "hu": "Parkoljon védett területen.",
+                "ro": "Parcați într-o zonă protejată.",
+                "en": "Park in a protected area if possible."
+              }
+            },
+            {
+              "name": "Aziziye Bastion",
+              "tip_5lang": {
+                "de": "Anspruchsvolle Fahrt bergauf bei Regen.",
+                "hu": "Kihívást jelentő emelkedő esőben.",
+                "ro": "Urcare dificilă pe ploaie.",
+                "en": "Challenging uphill ride in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind bei diesem Wetter unverzichtbar.",
+              "Vorsicht bei Straßenmarkierungen, sie werden bei Nässe extrem glatt.",
+              "Nutzen Sie den Taşhan als strategischen Trockenpunkt.",
+              "Wasserdichte Packtaschen schützen Ihre Wertsachen."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen ilyen időben.",
+              "Vigyázzon az útburkolati jelekre, vizesen nagyon csúsznak.",
+              "Használja a Taşhant stratégiai pihenőhelyként.",
+              "Vízálló táskák használata javasolt az értékek védelmében."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt indispensabile pe acest timp.",
+              "Atenție la marcajele rutiere, devin extrem de alunecoase.",
+              "Folosiți Taşhan ca punct strategic de uscare.",
+              "Gețile impermeabile vă protejează obiectele de valoare."
+            ],
+            "en": [
+              "Mudguards are indispensable in this weather.",
+              "Watch out for road markings; they become extremely slippery when wet.",
+              "Use Taşhan as a strategic drying point.",
+              "Waterproof panniers will protect your valuables."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im Winter in Erzurum ist nur für Erfahrene. Morgens gleiten wir vorsichtig zur Yakutiye-Madrasa über geräumte Straßen. Mittags wärmen wir uns in den Madrasas und der Moschee auf. Die Fahrt zum Schloss bietet einen weiten Blick auf die verschneite Ebene. Im Taşhan tanken wir Energie mit Tee, bevor wir die kurze Fahrt zum Atatürk-Haus antreten, bevor der Frost am Abend zunimmt.",
+            "hu": "A téli kerékpározás Erzurumban csak tapasztaltaknak ajánlott. Reggel óvatosan gurulunk a letakarított utakon a medreszékig. Délben a mecsetekben és medreszékben melegszünk fel. A vár felé tekerve pazar kilátás nyílik a havas síkságra. A Taşhanban teával gyűjtünk erőt, majd az Atatürk-ház felé vesszük az irányt, mielőtt este beköszönt a kőkemény fagy.",
+            "ro": "Ciclismul iarna în Erzurum este doar pentru cei experimentați. Dimineața alunecăm cu grijă spre Madrasa Yakutiye pe drumuri curățate. La prânz ne încălzim în moschei și madrese. Cursa spre castel oferă o vedere largă asupra câmpiei înzăpezite. În Taşhan ne reîncărcăm cu ceai înainte de drumul scurt spre Casa Atatürk, înainte de gerul serii.",
+            "en": "Winter cycling in Erzurum is only for the experienced. In the morning, glide carefully to Yakutiye Madrasa on cleared roads. Warm up in the mosques and madrasas at noon. The ride to the castle offers wide views of the snowy plains. Recharge with tea at Taşhan before the short trip to Atatürk House as the evening frost intensifies."
+          },
+          "stops": [
+            {
+              "name": "Yakutiye Madrasa",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenen Pfützen beim Bremsen.",
+                "hu": "Vigyázzon a fagyott tócsákra fékezéskor.",
+                "ro": "Atenție la bălțile înghețate la frânare.",
+                "en": "Beware of frozen puddles when braking."
+              }
+            },
+            {
+              "name": "Twin Minaret Madrasa",
+              "tip_5lang": {
+                "de": "Metallständer können sehr kalt sein.",
+                "hu": "A fém tárolók nagyon hidegek lehetnek.",
+                "ro": "Suporturile metalice pot fi foarte reci.",
+                "en": "Metal bike racks can be very cold."
+              }
+            },
+            {
+              "name": "Grand Mosque (Ulu Cami)",
+              "tip_5lang": {
+                "de": "Kurze Aufwärmpause für die Finger.",
+                "hu": "Rövid melegítő szünet az ujjaknak.",
+                "ro": "Scurtă pauză de încălzire pentru degete.",
+                "en": "Short warm-up break for your fingers."
+              }
+            },
+            {
+              "name": "Erzurum Castle",
+              "tip_5lang": {
+                "de": "Anstieg kann vereist sein, schieben empfohlen.",
+                "hu": "Az emelkedő jeges lehet, javasolt a tolás.",
+                "ro": "Urcarea poate fi înghețată, se recomandă împinsul.",
+                "en": "Incline may be icy; pushing the bike recommended."
+              }
+            },
+            {
+              "name": "Three Tombs",
+              "tip_5lang": {
+                "de": "Schnelles Foto, Windchill auf dem Rad beachten.",
+                "hu": "Gyors fotó, figyeljen a szélhűtésre tekeréskor.",
+                "ro": "Fotografie rapidă, atenție la vântul tăios.",
+                "en": "Quick photo; watch out for wind chill while riding."
+              }
+            },
+            {
+              "name": "Taşhan",
+              "tip_5lang": {
+                "de": "Heißgetränk ist jetzt überlebenswichtig.",
+                "hu": "A forró ital most létfontosságú.",
+                "ro": "Băutura fierbinte este vitală acum.",
+                "en": "Hot drinks are essential at this point."
+              }
+            },
+            {
+              "name": "Atatürk House Museum",
+              "tip_5lang": {
+                "de": "Innentemperatur genießen.",
+                "hu": "Élvezze a benti hőmérsékletet.",
+                "ro": "Bucurați-vă de temperatura interioară.",
+                "en": "Enjoy the indoor temperature."
+              }
+            },
+            {
+              "name": "Aziziye Bastion",
+              "tip_5lang": {
+                "de": "Nur bei tageslicht befahren, Sturzgefahr.",
+                "hu": "Csak nappali fénynél tekerjen, esésveszély.",
+                "ro": "Circulați doar pe lumină, risc de cădere.",
+                "en": "Only ride in daylight; risk of falling on ice."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Spikereifen oder breite Reifen mit wenig Druck verwenden.",
+              "Tragen Sie winddichte Handschuhe und Gesichtsschutz.",
+              "Achten Sie auf Schneepflüge auf den Hauptstraßen.",
+              "Kürzen Sie die Fahrzeiten zwischen den Stopps."
+            ],
+            "hu": [
+              "Használjon szöges vagy széles, alacsony nyomású gumikat.",
+              "Viseljen szélálló kesztyűt és arcvédőt.",
+              "Figyeljen a hókotrókra a főutakon.",
+              "Rövidítse le a megállók közötti menetidőt."
+            ],
+            "ro": [
+              "Folosiți anvelope cu ținte sau late cu presiune mică.",
+              "Purtați mănuși rezistente la vânt și protecție facială.",
+              "Atenție la utilajele de deszăpezire pe drumurile principale.",
+              "Scurtați timpii de deplasare între opriri."
+            ],
+            "en": [
+              "Use studded tires or wide tires with low pressure.",
+              "Wear windproof gloves and face protection.",
+              "Watch out for snowplows on main roads.",
+              "Shorten riding times between stops."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1194,6 +1630,206 @@
           "A GPS is helpful for navigating the smaller streets.",
           "Watch out for pedestrians in the historic alleys."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Erzurum im Regen komfortabel. Morgens fahren wir zur Aziziye-Bastion, wo wir im trockenen Fahrzeug die Aussicht genießen. Mittags besuchen wir das Atatürk-Museum und parken nah am Eingang. Der Nachmittag im historischen Zentrum ist dank kurzer Wege zwischen den Madrasas und dem Taşhan unkompliziert. Den Abend lassen wir bei einer Stadtfahrt im warmen Auto ausklingen.",
+            "hu": "Autóval Erzurum esőben is kényelmes. Reggel az Aziziye bástyához hajtunk, ahol a száraz kocsiból élvezzük a kilátást. Délben az Atatürk múzeumot látogatjuk meg, közel parkolva a bejárathoz. A délután a történelmi központban a medreszék és a Taşhan közelsége miatt egyszerű. Az estét egy városi kocsikázással zárjuk a fűtött utastérben.",
+            "ro": "Cu mașina, Erzurum este confortabil pe ploaie. Dimineața mergem la Bastionul Aziziye, admirând vederea din vehiculul uscat. La prânz vizităm Muzeul Atatürk, parcând aproape de intrare. După-amiaza în centrul istoric este simplă datorită proximității obiectivelor. Seara se încheie cu o plimbare prin oraș în mașina încălzită.",
+            "en": "Erzurum is comfortable in the rain by car. In the morning, drive to Aziziye Bastion and enjoy the view from your dry vehicle. Visit the Atatürk Museum at noon, parking close to the entrance. The afternoon in the historic center is easy due to the proximity of the madrasas and Taşhan. End the evening with a city drive in your warm car."
+          },
+          "stops": [
+            {
+              "name": "Aziziye Bastion",
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Aussichtspunkt.",
+                "hu": "Parkoljon közvetlenül a kilátópontnál.",
+                "ro": "Parcați direct la punctul de belvedere.",
+                "en": "Park directly at the viewpoint."
+              }
+            },
+            {
+              "name": "Atatürk House Museum",
+              "tip_5lang": {
+                "de": "Parkplätze in den Nebenstraßen nutzen.",
+                "hu": "Használja a mellékutcák parkolóit.",
+                "ro": "Folosiți parcările de pe străzile laterale.",
+                "en": "Use parking spaces in the side streets."
+              }
+            },
+            {
+              "name": "Cluster: Historic Center",
+              "tip_5lang": {
+                "de": "Zentrales Parkhaus für alle Ziele suchen.",
+                "hu": "Keressen központi parkolót a célokhoz.",
+                "ro": "Căutați o parcare centrală pentru toate țintele.",
+                "en": "Find a central parking garage for all sites."
+              }
+            },
+            {
+              "name": "Castle & Three Tombs",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Parkplatz zum Tor.",
+                "hu": "Rövid séta a parkolótól a kapuig.",
+                "ro": "Scurtă plimbare de la parcare la poartă.",
+                "en": "Short walk from the parking lot to the gate."
+              }
+            },
+            {
+              "name": "Grand Mosque & Taşhan (Lunch)",
+              "tip_5lang": {
+                "de": "In der Nähe des Basars parken.",
+                "hu": "Parkoljon a bazár közelében.",
+                "ro": "Parcați în apropierea bazarului.",
+                "en": "Park near the bazaar entrance."
+              }
+            },
+            {
+              "name": "Twin Minaret Madrasa",
+              "tip_5lang": {
+                "de": "Vorsicht beim Aussteigen, Pfützengefahr.",
+                "hu": "Vigyázat kiszálláskor, tócsák lehetnek.",
+                "ro": "Atenție la coborâre, risc de bălți.",
+                "en": "Careful when getting out; watch for puddles."
+              }
+            },
+            {
+              "name": "Yakutiye Madrasa",
+              "tip_5lang": {
+                "de": "Gute Beleuchtung bei Regen am Abend.",
+                "hu": "Jó megvilágítás esős este.",
+                "ro": "Iluminare bună în seara ploioasă.",
+                "en": "Good lighting on a rainy evening."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie Parkhäuser, um trocken zu bleiben.",
+              "Prüfen Sie die Wischerblätter vor der Fahrt.",
+              "Haupstraßen sind bei Regen oft staubelastet.",
+              "Halten Sie einen Regenschirm im Auto bereit."
+            ],
+            "hu": [
+              "Használjon parkolóházakat, hogy száraz maradjon.",
+              "Indulás előtt ellenőrizze az ablaktörlőket.",
+              "A főutak esőben gyakran zsúfoltak.",
+              "Tartson esernyőt az autóban az átszállásokhoz."
+            ],
+            "ro": [
+              "Folosiți parcările etajate pentru a rămâne uscați.",
+              "Verificați ștergătoarele înainte de drum.",
+              "Drumurile principale sunt adesea aglomerate pe ploaie.",
+              "Țineți o umbrelă în mașină pentru transferuri."
+            ],
+            "en": [
+              "Use parking garages to stay dry.",
+              "Check your wiper blades before starting.",
+              "Main roads are often congested during rain.",
+              "Keep an umbrella in the car for short walks."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterfahrten in Erzurum sind dank geräumter Straßen gut machbar. Morgens fahren wir zur Aziziye-Bastion, um die eisige Stadt von oben zu sehen. Das Atatürk-Museum bietet mittags eine warme Zuflucht. Der Nachmittag im historischen Viertel ist effizient, da wir zwischen den Madrasas und dem Taşhan nur kurz der Kälte ausgesetzt sind. Den Abend verbringen wir bei einer Fahrt durch das festlich beleuchtete, verschneite Erzurum.",
+            "hu": "A téli autózás Erzurumban a letakarított utaknak köszönhetően jól megoldható. Reggel az Aziziye bástyához hajtunk, hogy fentről lássuk a jeges várost. Az Atatürk múzeum délben meleg menedéket nyújt. A délután a történelmi negyedben hatékony, mivel a medreszék és a Taşhan között csak rövid ideig kell a hidegben lennünk. Az estét a díszesen kivilágított, havas Erzurumban kocsikázva töltjük.",
+            "ro": "Condusul iarna în Erzurum este fezabil datorită drumurilor curățate. Dimineața mergem la Bastionul Aziziye pentru panorama orașului înghețat. Muzeul Atatürk oferă un refugiu cald la prânz. După-amiaza în cartierul istoric este eficientă, fiind expuși minim la ger între madrese și Taşhan. Seara o petrecem plimbându-ne prin Erzurumul înzăpezit și iluminat festiv.",
+            "en": "Winter driving in Erzurum is manageable thanks to cleared roads. In the morning, drive to Aziziye Bastion to see the frozen city from above. The Atatürk Museum provides a warm refuge at noon. The afternoon in the historic quarter is efficient, as we are only briefly exposed to the cold between the madrasas and Taşhan. Spend the evening driving through festively lit, snowy Erzurum."
+          },
+          "stops": [
+            {
+              "name": "Aziziye Bastion",
+              "tip_5lang": {
+                "de": "Winterreifen auf steilen Wegen zwingend.",
+                "hu": "Téli gumi kötelező a meredek utakon.",
+                "ro": "Anvelopele de iarnă sunt obligatorii pe pante.",
+                "en": "Winter tires mandatory for the steep paths."
+              }
+            },
+            {
+              "name": "Atatürk House Museum",
+              "tip_5lang": {
+                "de": "Parkplatzsuche kann bei Schnee länger dauern.",
+                "hu": "A parkolókeresés hóban tovább tarthat.",
+                "ro": "Căutarea parcării poate dura mai mult în zăpadă.",
+                "en": "Finding parking may take longer in the snow."
+              }
+            },
+            {
+              "name": "Cluster: Historic Center",
+              "tip_5lang": {
+                "de": "Vorsicht vor Schneehaufen am Straßenrand.",
+                "hu": "Vigyázzon az útmenti hóbuckákra.",
+                "ro": "Atenție la mormanele de zăpadă de pe margine.",
+                "en": "Watch out for snow piles on the roadside."
+              }
+            },
+            {
+              "name": "Castle & Three Tombs",
+              "tip_5lang": {
+                "de": "Motor laufen lassen für die Heizung vermeiden.",
+                "hu": "Kerülje a motor járatását álló helyzetben.",
+                "ro": "Evitați să lăsați motorul pornit în staționare.",
+                "en": "Avoid idling the engine for heat if possible."
+              }
+            },
+            {
+              "name": "Grand Mosque & Taşhan (Lunch)",
+              "tip_5lang": {
+                "de": "Genießen Sie das Oltu-Handwerk drinnen.",
+                "hu": "Élvezze az oltu-kézművességet bent.",
+                "ro": "Bucurați-vă de artizanatul Oltu la interior.",
+                "en": "Enjoy the Oltu craftsmanship indoors."
+              }
+            },
+            {
+              "name": "Twin Minaret Madrasa",
+              "tip_5lang": {
+                "de": "Fassade sieht im Schnee fantastisch aus.",
+                "hu": "A homlokzat fantasztikusan néz ki hóban.",
+                "ro": "Fațada arată fantastic în zăpadă.",
+                "en": "The facade looks fantastic in the snow."
+              }
+            },
+            {
+              "name": "Yakutiye Madrasa",
+              "tip_5lang": {
+                "de": "Zufahrt kann glatt sein, langsam fahren.",
+                "hu": "A behajtó csúszós lehet, hajtson lassan.",
+                "ro": "Accesul poate fi alunecos, conduceți încet.",
+                "en": "Access road may be slippery; drive slowly."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen und Frostschutzmittel sind absolut notwendig.",
+              "Parken Sie nicht unter Dächern wegen Dachlawinengefahr.",
+              "Heizung im Auto regelmäßig prüfen.",
+              "Halten Sie eine Schneeschaufel im Kofferraum bereit."
+            ],
+            "hu": [
+              "A téli gumi és a fagyálló hűtőfolyadék elengedhetetlen.",
+              "Ne parkoljon tetők alatt a lehulló hó/jég miatt.",
+              "Rendszeresen ellenőrizze az autó fűtését.",
+              "Tartson hólapátot a csomagtartóban."
+            ],
+            "ro": [
+              "Anvelopele de iarnă și antigelul sunt absolut necesare.",
+              "Nu parcați sub acoperișuri din cauza riscului de avalanșe.",
+              "Verificați regulat încălzirea mașinii.",
+              "Țineți o lopată de zăpadă în portbagaj."
+            ],
+            "en": [
+              "Winter tires and antifreeze are absolutely necessary.",
+              "Do not park under eaves due to falling snow/ice risk.",
+              "Check the car's heating system regularly.",
+              "Keep a snow shovel in the trunk."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1574,6 +2210,206 @@
           "Dolmuş minibuses follow fixed routes but don't have fixed stops - just wave them down.",
           "Ask locals for the right bus line; they are usually very helpful."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Öffentliche Verkehrsmittel sind ideal im regnerischen Erzurum. Morgens bringt uns der Bus direkt zum historischen Zentrum. Mittags verbringen wir viel Zeit in den Madrasas und der Moschee, während wir auf die nächste Verbindung warten. Der Nachmittag im Taşhan ist perfekt, um im Trockenen zu bleiben. Den Abend beenden wir mit einer Busfahrt zur Aziziye-Bastion, wobei wir die kurzen Wartezeiten an den Haltestellen schätzen.",
+            "hu": "A tömegközlekedés ideális az esős Erzurumban. Reggel a busz közvetlenül a történelmi központba visz. Délben sok időt töltünk a medreszékben és a mecsetben, miközben várjuk a következő járatot. A délután a Taşhanban tökéletes a szárazon maradáshoz. Az estét egy buszos utazással zárjuk az Aziziye bástyához, kihasználva a megállók közelségét.",
+            "ro": "Transportul public este ideal în Erzurum pe ploaie. Dimineața, autobuzul ne duce direct în centrul istoric. La prânz petrecem mult timp în madrese și moschee în timp ce așteptăm legăturile. După-amiaza în Taşhan este perfectă pentru a rămâne uscați. Seara se încheie cu o călătorie spre Bastionul Aziziye, apreciind timpii scurți de așteptare.",
+            "en": "Public transit is ideal in rainy Erzurum. In the morning, the bus takes us directly to the historic center. Spend time in the madrasas and Grand Mosque at noon while waiting for connections. The afternoon in Taşhan is perfect for staying dry. End the evening with a bus ride to Aziziye Bastion, appreciating the short wait times at the stops."
+          },
+          "stops": [
+            {
+              "name": "Cluster: Historic Center",
+              "tip_5lang": {
+                "de": "Zentraler Knotenpunkt vieler Buslinien.",
+                "hu": "Számos buszvonal központi csomópontja.",
+                "ro": "Nod central pentru multe linii de autobuz.",
+                "en": "Central hub for many bus lines."
+              }
+            },
+            {
+              "name": "Yakutiye & Twin Minaret Madrasas",
+              "tip_5lang": {
+                "de": "Bushaltestelle direkt vor der Yakutiye.",
+                "hu": "Buszmegálló közvetlenül a Yakutiye előtt.",
+                "ro": "Stație de autobuz chiar în fața Yakutiye.",
+                "en": "Bus stop directly in front of Yakutiye."
+              }
+            },
+            {
+              "name": "Grand Mosque & Taşhan (Lunch)",
+              "tip_5lang": {
+                "de": "Viele überdachte Wartebereiche in der Nähe.",
+                "hu": "Sok fedett várakozóhely a közelben.",
+                "ro": "Multe zone de așteptare acoperite în apropiere.",
+                "en": "Many covered waiting areas nearby."
+              }
+            },
+            {
+              "name": "Cluster: Castle Quarter",
+              "tip_5lang": {
+                "de": "Kurze Umstiege im historischen Viertel.",
+                "hu": "Gyors átszállások a történelmi negyedben.",
+                "ro": "Transferuri scurte în cartierul istoric.",
+                "en": "Quick transfers in the historic quarter."
+              }
+            },
+            {
+              "name": "Castle & Three Tombs",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem nassen Weg zur Haltestelle.",
+                "hu": "Vigyázat a megállóhoz vezető vizes úton.",
+                "ro": "Atenție pe drumul umed spre stație.",
+                "en": "Careful on the wet path to the bus stop."
+              }
+            },
+            {
+              "name": "Atatürk House Museum",
+              "tip_5lang": {
+                "de": "Hauseingang bietet Schutz beim Warten.",
+                "hu": "A múzeum bejárata védelmet nyújt várva.",
+                "ro": "Intrarea oferă protecție în timpul așteptării.",
+                "en": "Museum entrance provides shelter while waiting."
+              }
+            },
+            {
+              "name": "Aziziye Bastion",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Fahrplan für die Rückfahrt.",
+                "hu": "Ellenőrizze a menetrendet a visszautashoz.",
+                "ro": "Verificați orarul pentru drumul de întoarcere.",
+                "en": "Check the schedule for the return trip."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie eine Erzurum-Card für bargeldloses Zahlen.",
+              "Nutzen Sie Bus-Apps für Echtzeit-Informationen.",
+              "Haltestellen im Zentrum sind oft überdacht.",
+              "Tragen Sie wasserfeste Kleidung für die Wege zum Bus."
+            ],
+            "hu": [
+              "Vásároljon Erzurum-kártyát a készpénzmentes fizetéshez.",
+              "Használjon buszos alkalmazásokat a valós idejű infókért.",
+              "A központi megállók gyakran fedettek.",
+              "Viseljen vízálló ruhát a buszig tartó sétákhoz."
+            ],
+            "ro": [
+              "Cumpărați un card Erzurum pentru plăți fără numerar.",
+              "Folosiți aplicații de transport pentru info în timp real.",
+              "Stațiile din centru sunt adesea acoperite.",
+              "Purtați haine impermeabile pentru drumul spre autobuz."
+            ],
+            "en": [
+              "Purchase an Erzurum Card for cashless payments.",
+              "Use transit apps for real-time bus information.",
+              "Central bus stops are often sheltered.",
+              "Wear waterproof clothing for the walks to the stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Busfahren ist die wärmste Art, Erzurum im Winter zu erkunden. Morgens bringt uns der geheizte Bus zum historischen Kern. Mittags genießen wir die Wärme in den Madrasas und nutzen die Busverbindungen für kurze Wege. Der Nachmittag im Taşhan bietet die perfekte Gelegenheit, sich mit Tee aufzuwärmen. Den Tag beenden wir mit einer gemütlichen Fahrt im warmen Bus, während draußen der Schnee leise auf die Aziziye-Bastion fällt.",
+            "hu": "A buszozás a legmelegebb módja Erzurum felfedezésének télen. Reggel a fűtött busz visz a történelmi magba. Délben élvezzük a medreszék melegét, és buszokkal rövidítjük le a távokat. A délután a Taşhanban tökéletes alkalom a teázásra és melegedésre. A napot egy kényelmes, meleg buszos utazással zárjuk, miközben odakint halkan hull a hó az Aziziye bástyánál.",
+            "ro": "Autobuzul este cel mai călduros mod de a explora Erzurumul iarna. Dimineața, autobuzul încălzit ne duce în nucleul istoric. La prânz ne bucurăm de căldura din madrese și folosim autobuzele pentru distanțe scurte. După-amiaza în Taşhan este ocazia perfectă pentru ceai și încălzire. Ziua se încheie cu o cursă confortabilă, în timp ce afară ninge peste Bastionul Aziziye.",
+            "en": "Taking the bus is the warmest way to explore Erzurum in winter. In the morning, the heated bus brings us to the historic core. Enjoy the warmth in the madrasas at noon and use bus connections for short distances. The afternoon in Taşhan is the perfect time for tea and warming up. End the day with a cozy ride in a warm bus as snow falls quietly on Aziziye Bastion."
+          },
+          "stops": [
+            {
+              "name": "Cluster: Historic Center",
+              "tip_5lang": {
+                "de": "Beheizte Busse sind ein Segen bei -20°C.",
+                "hu": "A fűtött buszok áldást jelentenek -20 fokban.",
+                "ro": "Autobuzele încălzite sunt o binecuvântare la -20°C.",
+                "en": "Heated buses are a blessing in -20°C weather."
+              }
+            },
+            {
+              "name": "Yakutiye & Twin Minaret Madrasas",
+              "tip_5lang": {
+                "de": "Warten Sie im Eingangsbereich der Yakutiye.",
+                "hu": "Várjon a Yakutiye bejárati részében.",
+                "ro": "Așteptați în zona de intrare a Yakutiye.",
+                "en": "Wait inside the Yakutiye entrance area."
+              }
+            },
+            {
+              "name": "Grand Mosque & Taşhan (Lunch)",
+              "tip_5lang": {
+                "de": "Taşhan ist der wärmste Ort im Zentrum.",
+                "hu": "A Taşhan a legmelegebb hely a központban.",
+                "ro": "Taşhan este cel mai cald loc din centru.",
+                "en": "Taşhan is the warmest spot in the center."
+              }
+            },
+            {
+              "name": "Cluster: Castle Quarter",
+              "tip_5lang": {
+                "de": "Haltestellen können durch Schneehaufen blockiert sein.",
+                "hu": "A megállókat hóbuckák torlaszolhatják el.",
+                "ro": "Stațiile pot fi blocate de mormane de zăpadă.",
+                "en": "Bus stops might be blocked by snow piles."
+              }
+            },
+            {
+              "name": "Castle & Three Tombs",
+              "tip_5lang": {
+                "de": "Vorsicht vor Eis an den Haltestellen.",
+                "hu": "Vigyázat, a megállók jegesek lehetnek.",
+                "ro": "Atenție la gheața din stații.",
+                "en": "Beware of ice at the bus stops."
+              }
+            },
+            {
+              "name": "Atatürk House Museum",
+              "tip_5lang": {
+                "de": "Guter Takt der Linien im Winter.",
+                "hu": "A járatok sűrűsége télen is jó.",
+                "ro": "Frecvența liniilor este bună și iarna.",
+                "en": "Good bus frequency even in winter."
+              }
+            },
+            {
+              "name": "Aziziye Bastion",
+              "tip_5lang": {
+                "de": "Letzten Bus für die Rückfahrt nicht verpassen.",
+                "hu": "Ne késse le az utolsó buszt visszafelé.",
+                "ro": "Nu ratați ultimul autobuz spre întoarcere.",
+                "en": "Don't miss the last bus for the return trip."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse sind im Winter oft stark geheizt, Zwiebelprinzip bei Kleidung.",
+              "Fahrpläne können sich bei starkem Schneefall verzögern.",
+              "Nutzen Sie geschlossene Wartehallen, wo vorhanden.",
+              "Halten Sie Ihre Erzurum-Card griffbereit, um Kälte am Automaten zu vermeiden."
+            ],
+            "hu": [
+              "A buszok télen nagyon fűtöttek, öltözzön rétegesen.",
+              "Erős havazáskor a menetrendben késések lehetnek.",
+              "Használja a zárt várótermeket, ahol elérhető.",
+              "Tartsa kéznél az Erzurum-kártyáját, hogy ne kelljen sokat várni."
+            ],
+            "ro": [
+              "Autobuzele sunt foarte încălzite, folosiți îmbrăcămintea stratificată.",
+              "Programul poate avea întârzieri la ninsori abundente.",
+              "Folosiți sălile de așteptare închise unde există.",
+              "Țineți cardul Erzurum la îndemână pentru a evita frigul la automat."
+            ],
+            "en": [
+              "Buses are often heavily heated; wear layers of clothing.",
+              "Schedules may be delayed during heavy snowfall.",
+              "Use enclosed waiting areas where available.",
+              "Keep your Erzurum Card ready to avoid long waits at machines."
+            ]
+          }
+        }
       }
     }
   }

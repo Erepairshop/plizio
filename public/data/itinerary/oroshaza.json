@@ -356,6 +356,196 @@
           "Allow plenty of time for the spa; it's the highlight for many visitors.",
           "Check the museum's opening hours in advance."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Spaziergang beginnt auf dem Hauptplatz, wo die nassen Pflastersteine den Regen reflektieren. Die evangelische Kirche bietet einen trockenen Rückzugsort zur Besinnung.\n\nMittags suchen wir Schutz im Szántó Kovács János Museum, um die Lokalgeschichte ohne Nässe zu erkunden.\n\nAm Nachmittag führt der Weg zum Gellértegyháza Park; Regenschirme sind zwischen den historischen Stationen unerlässlich.\n\nDer Tag endet perfekt im Gyopárosfürdő, wo das warme Thermalwasser den Regen vergessen lässt.",
+            "hu": "A séta a Főtéren indul, ahol az esőben csillogó kövek közt keressük az utat. Az evangélikus templom csendje menedéket nyújt a zápor elől.\n\nDélben a Szántó Kovács János Múzeum kiállításai közt töltjük az időt, szárazon ismerkedve a város múltjával.\n\nDélután a gellértegyházi park ösvényein esernyővel sétálunk a történelmi emlékhelyek között.\n\nA napot a Gyopárosfürdő zárja, ahol a fedett medencék melege feledteti a kinti borús időt.",
+            "ro": "Plimbarea începe în Piața Centrală, printre reflexiile ploii pe pavaj. Biserica Evanghelică oferă un refugiu uscat și liniștit.\n\nLa prânz, explorăm istoria locală la Muzeul Szántó Kovács János, feriți de intemperiile de afară.\n\nDupă-amiaza vizităm parcul istoric Gellértegyháza; umbrela este obligatorie pe aleile dintre monumente.\n\nZiua se încheie la băile Gyopárosfürdő, unde bazinele acoperite oferă relaxarea perfectă pe timp de ploaie.",
+            "en": "The walk starts at the Main Square, with rain reflecting on the stones. The Evangelical Church provides a dry and quiet sanctuary.\n\nAt noon, we find shelter in the Szántó Kovács János Museum to explore local history away from the wet weather.\n\nIn the afternoon, we head to Gellértegyháza Park; umbrellas are essential while navigating the historical stations.\n\nThe day concludes at Gyopárosfürdő, where the indoor thermal pools make the rain irrelevant."
+          },
+          "stops": [
+            {
+              "name": "Main Square",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den Arkaden der nahen Geschäfte.",
+                "hu": "Használja a közeli üzletek árkádjait eső ellen.",
+                "ro": "Folosiți arcadele magazinelor din apropiere pentru adăpost.",
+                "en": "Use the arcades of nearby shops for shelter from sudden showers."
+              }
+            },
+            {
+              "name": "Orosháza Town Hall",
+              "tip_5lang": {
+                "de": "Ein schneller Blick auf die Fassade reicht bei starkem Regen.",
+                "hu": "Erős esőben egy gyors pillantás a homlokzatra elegendő.",
+                "ro": "O privire rapidă asupra fațadei este suficientă pe ploaie.",
+                "en": "A quick look at the facade is enough during heavy rain."
+              }
+            },
+            {
+              "name": "Evangelical Church",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit zur Innenbesichtigung, es ist hier absolut trocken.",
+                "hu": "Ideális időpont a belső terek megtekintésére, itt garantáltan száraz marad.",
+                "ro": "Moment ideal pentru vizitarea interiorului, unde rămâneți uscat.",
+                "en": "Perfect time to admire the interior while staying completely dry."
+              }
+            },
+            {
+              "name": "Szántó Kovács János Museum",
+              "tip_5lang": {
+                "de": "Planen Sie hier mehr Zeit ein, um den Schauer abzuwarten.",
+                "hu": "Töltsön itt több időt, amíg elvonul a nagyobb zápor.",
+                "ro": "Petreceți mai mult timp aici până trece aversa de ploaie.",
+                "en": "Spend extra time here to wait out any heavy downpours."
+              }
+            },
+            {
+              "name": "Gellértegyháza Historical Park",
+              "tip_5lang": {
+                "de": "Vorsicht auf den unbefestigten Wegen, sie können rutschig sein.",
+                "hu": "Vigyázzon a burkolatlan utakon, sárra és csúszós szakaszokra számítson.",
+                "ro": "Atenție pe aleile neasfaltate, pot deveni noroioase și alunecoase.",
+                "en": "Be careful on unpaved paths as they can become muddy and slippery."
+              }
+            },
+            {
+              "name": "Gyopárosfürdő Thermal Spa",
+              "tip_5lang": {
+                "de": "Die überdachten Gänge zwischen den Becken nutzen.",
+                "hu": "Használja a medencék közötti fedett folyosókat.",
+                "ro": "Folosiți coridoarele acoperite dintre bazine.",
+                "en": "Utilize the covered walkways between the indoor pools."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für die 4,8 km lange Strecke.",
+              "Die Museen sind die besten Orte, um heftige Schauer trocken zu überstehen.",
+              "Das Thermalbad hat ausgezeichnete Indoor-Bereiche.",
+              "Ein Taschenregenschirm ist bei diesem Wind in der Ebene obligatorisch.",
+              "Zwischen Stadtzentrum und Bad gibt es wenig Unterstand."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a 4,8 km-es távhoz.",
+              "A múzeumok a legjobb helyek a nagyobb záporok átvészelésére.",
+              "A termálfürdő kiváló fedett részlegekkel rendelkezik.",
+              "Az alföldi szél miatt az összecsukható esernyő kötelező kellék.",
+              "A városközpont és a fürdő között kevés a fedett várakozóhely."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru traseul de 4,8 km.",
+              "Muzeele sunt cele mai bune locuri pentru a aștepta trecerea ploii.",
+              "Băile termale au secțiuni interioare excelente.",
+              "Umbrela pliabilă este esențială din cauza vântului de câmpie.",
+              "Există puține locuri de adăpost între centrul orașului și băi."
+            ],
+            "en": [
+              "Wear waterproof footwear for the 4.8 km route.",
+              "Museums are your best options to stay dry during heavy rain.",
+              "The thermal spa features excellent indoor facilities.",
+              "A compact umbrella is mandatory due to the windy plains.",
+              "There is limited shelter available between the city center and the spa."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen am Hauptplatz ist frostig; das Rathaus wirkt im fahlen Licht imposant. Die Kirche bietet einen kurzen Moment zum Aufwärmen.\n\nMittags tauchen wir im Museum in die Geschichte ein, während draußen der kalte Wind weht.\n\nNachmittags ist der Besuch in Gellértegyháza kurz, da die Sonne früh untergeht und der Frost zunimmt.\n\nAbends bietet Gyopárosfürdő das Highlight: Dampfendes Wasser in der kalten Winterluft ist ein Erlebnis.",
+            "hu": "A téli reggel a Főtéren csípős; a Városháza épülete komoran magasodik a fagyos fényben. A templomban rövid időre felmelegedhetünk.\n\nDélben a múzeum tárlatai közt bújunk el a metsző szél elől, megismerve a térség múltját.\n\nDélután Gellértegyháza látogatása rövidre nyúlik a korai naplemente és a fokozódó hideg miatt.\n\nA nap fénypontja Gyopárosfürdő: a gőzölgő meleg víz a téli levegőben különleges élményt nyújt.",
+            "ro": "Dimineața de iarnă în Piața Centrală este geroasă; Primăria pare impunătoare sub lumina palidă. Biserica oferă un scurt moment de încălzire.\n\nLa prânz, ne adăpostim în muzeu de vântul tăios de iarnă, explorând expozițiile locale.\n\nDupă-amiaza vizităm parcul istoric; turul este scurtat de apusul timpuriu și frigul intens.\n\nSeara, Gyopárosfürdő oferă experiența supremă: aburii apei calde în aerul rece de iarnă.",
+            "en": "The winter morning at the Main Square is frosty; the Town Hall stands imposing in the pale light. The church offers a brief warm-up.\n\nAt noon, we retreat to the museum to hide from the biting wind while learning about the region's past.\n\nIn the afternoon, the visit to Gellértegyháza is brief due to the early sunset and dropping temperatures.\n\nThe day's highlight is Gyopárosfürdő: soaking in steaming thermal water in the cold winter air is a unique experience."
+          },
+          "stops": [
+            {
+              "name": "Main Square",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stellen auf dem Pflaster.",
+                "hu": "Vigyázzon a jeges foltokra a díszburkolaton.",
+                "ro": "Atenție la porțiunile înghețate de pe pavaj.",
+                "en": "Watch out for icy patches on the pavement."
+              }
+            },
+            {
+              "name": "Orosháza Town Hall",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp, dann schnell weiter ins Warme.",
+                "hu": "Gyors fotómegálló, aztán irány a meleg belső tér.",
+                "ro": "Oprire scurtă pentru poze, apoi mergeți repede la căldură.",
+                "en": "Quick photo stop, then move quickly to a heated indoor area."
+              }
+            },
+            {
+              "name": "Evangelical Church",
+              "tip_5lang": {
+                "de": "In der Kirche ist es kühler als in beheizten Räumen; Mantel anlassen.",
+                "hu": "A templom hűvösebb lehet a fűtött házaknál; ne vegye le a kabátját.",
+                "ro": "Biserica poate fi mai răcoroasă; păstrați haina pe dvs.",
+                "en": "The church can be chilly; keep your coat on during the visit."
+              }
+            },
+            {
+              "name": "Szántó Kovács János Museum",
+              "tip_5lang": {
+                "de": "Idealer Ort, um die Körpertemperatur wieder zu normalisieren.",
+                "hu": "Tökéletes helyszín a test felmelegítésére a városnézés közben.",
+                "ro": "Locul ideal pentru a vă încălzi în timpul vizitei orașului.",
+                "en": "Ideal location to warm up your body during the city tour."
+              }
+            },
+            {
+              "name": "Gellértegyháza Historical Park",
+              "tip_5lang": {
+                "de": "Warme Kleidung ist für den Aufenthalt im Freien unerlässlich.",
+                "hu": "A szabadtéri tartózkodáshoz elengedhetetlen a réteges, meleg öltözet.",
+                "ro": "Îmbrăcămintea groasă este esențială pentru plimbarea în aer liber.",
+                "en": "Layered, warm clothing is essential for being outdoors here."
+              }
+            },
+            {
+              "name": "Gyopárosfürdő Thermal Spa",
+              "tip_5lang": {
+                "de": "Nach dem Baden Haare gründlich föhnen vor dem Gehen.",
+                "hu": "Fürdés után alaposan szárítsa meg a haját indulás előtt.",
+                "ro": "Uscați-vă bine părul înainte de plecare după baie.",
+                "en": "Dry your hair thoroughly before leaving after your swim."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht bereits gegen 16:15 Uhr unter.",
+              "Tragen Sie Thermo-Einlagen in den Schuhen für den Spaziergang.",
+              "Die Innenbecken im Spa sind im Winter sehr beliebt.",
+              "Heißer Tee in den Cafés am Hauptplatz hilft gegen den Frost.",
+              "Einige Außenbereiche des Parks könnten bei Schnee gesperrt sein."
+            ],
+            "hu": [
+              "A nap már 16:15 körül lemegy, tervezzen eszerint.",
+              "Használjon hőtárolós talpbetétet a hosszú sétához.",
+              "A fürdő belső medencéi télen nagyon népszerűek.",
+              "A Főtér kávézóiban egy forró tea segít a fagy ellen.",
+              "A park egyes részei hó esetén nehezen járhatóak lehetnek."
+            ],
+            "ro": [
+              "Soarele apune deja în jurul orei 16:15.",
+              "Folosiți branțuri termice în încălțăminte pentru plimbare.",
+              "Bazinele interioare ale băilor sunt foarte populare iarna.",
+              "Un ceai fierbinte la cafenelele din Piață ajută împotriva gerului.",
+              "Unele zone ale parcului pot fi greu accesibile în caz de zăpadă."
+            ],
+            "en": [
+              "Sunset occurs as early as 16:15 in mid-winter.",
+              "Use thermal insoles in your shoes for the long walk.",
+              "The indoor pools at the spa are very popular during winter.",
+              "A hot tea in the Main Square cafes helps against the frost.",
+              "Some parts of the park might be difficult to access in case of snow."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -729,6 +919,214 @@
           "Always lock your bike securely at major attractions.",
           "Carry water with you, especially on warm days."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour startet trotz Regen am Hauptplatz; Vorsicht bei den nassen Schienen. Die Kirche bietet eine erste trockene Pause.\n\nMittags besuchen wir das Museum und das Petőfi Kulturzentrum, beides ideale Orte zum Unterstellen.\n\nNachmittags radeln wir zum Park und zum Gedenkhaus; wasserfeste Kleidung ist auf den 12,5 km unerlässlich.\n\nDie Belohnung wartet am Abend: Entspannung im warmen Gyopárosfürdő, während es draußen weiter regnet.",
+            "hu": "A biciklitúra esőben indul a Főtérről; vigyázzon a csúszós sínekre és kövekre. A templom az első száraz megálló.\n\nDélben a múzeum és a Petőfi Művelődési Központ nyújt fedett menedéket a kerékpárosoknak.\n\nDélután a park és az emlékház felé tekerünk; a vízálló ruházat kulcsfontosságú a 12,5 km-es távon.\n\nEste jön a jutalom: lazítás a meleg Gyopárosfürdőben, miközben kint kopog az eső.",
+            "ro": "Turul cu bicicleta începe pe ploaie din Piața Centrală; atenție la șinele și pietrele alunecoase. Biserica este prima oprire uscată.\n\nLa prânz, muzeul și Centrul Cultural Petőfi oferă adăpost acoperit bicicliștilor.\n\nDupă-amiaza pedalăm spre parc și casa memorială; hainele impermeabile sunt esențiale pentru cei 12,5 km.\n\nSeara vine răsplata: relaxare la băile calde Gyopárosfürdő în timp ce afară plouă.",
+            "en": "The bike tour starts in the rain from the Main Square; watch out for slippery rails and stones. The church is the first dry stop.\n\nAt noon, the museum and Petőfi Cultural Centre provide covered shelter for cyclists.\n\nIn the afternoon, we cycle towards the park and the memorial house; waterproof gear is crucial for the 12.5 km route.\n\nThe reward comes in the evening: relaxing in the warm Gyopárosfürdő while rain taps on the roof."
+          },
+          "stops": [
+            {
+              "name": "Main Square",
+              "tip_5lang": {
+                "de": "Vorsicht beim Bremsen auf nassem Kopfsteinpflaster.",
+                "hu": "Vigyázzon a fékezéssel a vizes díszburkolaton.",
+                "ro": "Atenție la frânare pe pavajul umed.",
+                "en": "Be careful when braking on wet decorative pavement."
+              }
+            },
+            {
+              "name": "Evangelical Church",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad unter einen Vorsprung, falls möglich.",
+                "hu": "Próbálja az ereszek alá támasztani a kerékpárt az eső elől.",
+                "ro": "Încercați să parcați bicicleta sub o streașină pentru protecție.",
+                "en": "Try to park your bike under an overhang to keep the seat dry."
+              }
+            },
+            {
+              "name": "Szántó Kovács János Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch zum Trocknen der Kleidung.",
+                "hu": "Használja ki a múzeumi látogatást a ruházat száradására.",
+                "ro": "Profitați de vizita la muzeu pentru a vă usca hainele.",
+                "en": "Take advantage of the museum visit to let your gear dry out."
+              }
+            },
+            {
+              "name": "Petőfi Cultural Centre",
+              "tip_5lang": {
+                "de": "Ein kurzer, überdachter Stopp zur Orientierung.",
+                "hu": "Rövid, fedett megálló a további útvonal áttekintéséhez.",
+                "ro": "O scurtă oprire acoperită pentru verificarea traseului.",
+                "en": "A short, covered stop to check your route map."
+              }
+            },
+            {
+              "name": "Gellértegyháza Historical Park",
+              "tip_5lang": {
+                "de": "Die Wege können weich sein; bleiben Sie auf festem Grund.",
+                "hu": "Az utak felázhatnak; maradjon a szilárdabb szakaszokon.",
+                "ro": "Drumurile pot fi noroioase; rămâneți pe secțiunile mai ferme.",
+                "en": "Paths can be soft; stay on the firmer ground sections."
+              }
+            },
+            {
+              "name": "Darvas József Memorial House",
+              "tip_5lang": {
+                "de": "Ein weiterer trockener Kulturstopp vor dem Endspurt.",
+                "hu": "Újabb száraz kulturális megálló a végső szakasz előtt.",
+                "ro": "O altă oprire culturală uscată înainte de ultima etapă.",
+                "en": "Another dry cultural stop before the final stretch."
+              }
+            },
+            {
+              "name": "Gyopárosfürdő Thermal Spa",
+              "tip_5lang": {
+                "de": "Sicherer Fahrradparkplatz direkt am Eingang vorhanden.",
+                "hu": "Biztonságos kerékpártároló található közvetlenül a bejáratnál.",
+                "ro": "Parcare sigură pentru biciclete chiar la intrare.",
+                "en": "Secure bike racks are available right at the entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche am Fahrrad sind bei diesem Wetter zwingend notwendig.",
+              "Tragen Sie eine auffällige Regenjacke für bessere Sichtbarkeit.",
+              "Die 12,5 km Tour führt teilweise über Landstraßen; Vorsicht bei Pfützen.",
+              "Vermeiden Sie hastige Lenkbewegungen auf nassem Asphalt.",
+              "Das Spa bietet Schließfächer für nasse Radbekleidung."
+            ],
+            "hu": [
+              "A sárvédő használata ilyen időben elengedhetetlen.",
+              "Viseljen feltűnő esőkabátot a jobb láthatóságért.",
+              "A 12,5 km-es út részben országúton halad; vigyázzon a tócsákkal.",
+              "Kerülje a hirtelen kormánymozdulatokat a vizes aszfalton.",
+              "A fürdőben vannak zárható szekrények a vizes kerékpáros ruháknak."
+            ],
+            "ro": [
+              "Aripile de protecție la bicicletă sunt obligatorii pe acest timp.",
+              "Purtați o pelerină de ploaie stridentă pentru vizibilitate.",
+              "Traseul de 12,5 km include drumuri județene; atenție la bălți.",
+              "Evitați manevrele bruște pe asflatul umed.",
+              "Băile oferă vestiare pentru hainele de ciclism ude."
+            ],
+            "en": [
+              "Mudguards are absolutely essential in this weather.",
+              "Wear a bright raincoat for better visibility to drivers.",
+              "The 12.5 km route uses some open roads; watch out for puddles.",
+              "Avoid sudden steering movements on wet asphalt.",
+              "The spa provides lockers for storing wet cycling gear."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der frostige Morgen am Hauptplatz erfordert Handschuhe und Tempo. Die evangelische Kirche bietet eine erste Aufwärmpause.\n\nMittags wechseln wir zwischen Museum und Kulturzentrum, um der Kälte im Freien zu entkommen.\n\nNachmittags radeln wir durch die winterliche Landschaft zum Park und Gedenkhaus; die klare Luft ist erfrischend.\n\nDer Abschluss in Gyopárosfürdő ist der perfekte Kontrast zur Kälte der 12,5 km Radtour.",
+            "hu": "A fagyos reggel a Főtéren kesztyűt és tempót követel. Az evangélikus templom nyújtja az első felmelegedési lehetőséget.\n\nDélben a múzeum és a művelődési központ között váltunk, hogy elkerüljük a kinti hideget.\n\nDélután a téli tájban tekerünk a parkhoz és az emlékházhoz; a tiszta levegő frissítően hat.\n\nA gyopárosi befejezés tökéletes kontrasztot ad a 12,5 km-es biciklitúra hidege után.",
+            "ro": "Dimineața geroasă în Piața Centrală necesită mănuși și un ritm alert. Biserica oferă prima ocazie de încălzire.\n\nLa prânz, alternăm între muzeu și centrul cultural pentru a scăpa de frigul de afară.\n\nDupă-amiaza pedalăm prin peisajul de iarnă spre parc și casa memorială; aerul curat este revigorant.\n\nFinalul la Gyopárosfürdő reprezintă contrastul perfect după frigul turului de 12,5 km.",
+            "en": "The frosty morning at the Main Square requires gloves and a steady pace. The church offers the first chance to warm up.\n\nAt noon, we alternate between the museum and the cultural center to escape the outdoor cold.\n\nIn the afternoon, we cycle through the winter landscape to the park and memorial house; the crisp air is refreshing.\n\nThe finish at Gyopárosfürdő is the perfect contrast to the cold of the 12.5 km bike ride."
+          },
+          "stops": [
+            {
+              "name": "Main Square",
+              "tip_5lang": {
+                "de": "Achtung vor Glätte in schattigen Bereichen.",
+                "hu": "Ügyeljen a jegesedésre az árnyékos részeken.",
+                "ro": "Atenție la polei în zonele umbrite.",
+                "en": "Be careful of icy spots in shaded areas."
+              }
+            },
+            {
+              "name": "Evangelical Church",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp, um die Finger wieder warm zu bekommen.",
+                "hu": "Használja ki a megállót az ujjai felmelegítésére.",
+                "ro": "Folosiți oprirea pentru a vă încălzi degetele.",
+                "en": "Use this stop to get some warmth back into your fingers."
+              }
+            },
+            {
+              "name": "Szántó Kovács János Museum",
+              "tip_5lang": {
+                "de": "Längerer Aufenthalt zum Aufwärmen empfohlen.",
+                "hu": "Hosszabb tartózkodás javasolt a teljes felmelegedéshez.",
+                "ro": "Se recomandă o ședere mai lungă pentru încălzire.",
+                "en": "A longer stay is recommended to fully warm up."
+              }
+            },
+            {
+              "name": "Petőfi Cultural Centre",
+              "tip_5lang": {
+                "de": "Kurze Pause im Foyer, um dem Wind zu entgehen.",
+                "hu": "Rövid pihenő az előtérben a szél elől.",
+                "ro": "Scurtă pauză în foaier pentru a scăpa de vânt.",
+                "en": "Short break in the foyer to hide from the wind."
+              }
+            },
+            {
+              "name": "Gellértegyháza Historical Park",
+              "tip_5lang": {
+                "de": "Der Wind auf freier Fläche ist hier besonders kalt.",
+                "hu": "A nyílt terepen a szél itt különösen hideg lehet.",
+                "ro": "Vântul pe câmp deschis este deosebit de rece aici.",
+                "en": "The wind on the open fields is particularly cold here."
+              }
+            },
+            {
+              "name": "Darvas József Memorial House",
+              "tip_5lang": {
+                "de": "Ein gemütlicher Innenstopp vor dem letzten Abschnitt.",
+                "hu": "Meghitt belső megálló az utolsó szakasz előtt.",
+                "ro": "O oprire interioară primitoare înainte de ultima etapă.",
+                "en": "A cozy indoor stop before the final segment."
+              }
+            },
+            {
+              "name": "Gyopárosfürdő Thermal Spa",
+              "tip_5lang": {
+                "de": "Warmer Tee im Spa-Café ist jetzt ideal.",
+                "hu": "Egy forró tea a fürdő kávézójában most ideális.",
+                "ro": "Un ceai fierbinte la cafeneaua băilor este ideal acum.",
+                "en": "A hot tea at the spa cafe is ideal right now."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winddichte Kleidung ist bei 12,5 km Radfahrt im Winter Pflicht.",
+              "Achten Sie auf gefrorenes Tauwasser auf den Radwegen.",
+              "Die Dämmerung setzt früh ein; prüfen Sie die Beleuchtung.",
+              "Halten Sie die Pausen im Freien so kurz wie möglich.",
+              "Warme Getränke in der Thermoskanne sind empfehlenswert."
+            ],
+            "hu": [
+              "Szélálló ruházat kötelező a 12,5 km-es téli tekeréshez.",
+              "Ügyeljen a visszafagyott olvadékvízre a kerékpárutakon.",
+              "A sötétedés korán érkezik; ellenőrizze a világítást.",
+              "A szabadtéri pihenőket tartsa a lehető legrövidebbre.",
+              "Meleg ital termoszban kifejezetten ajánlott."
+            ],
+            "ro": [
+              "Îmbrăcămintea rezistentă la vânt este obligatorie iarna pe 12,5 km.",
+              "Atenție la apa topită care reîngheață pe pistele de biciclete.",
+              "Se întunecă devreme; verificați sistemul de iluminare.",
+              "Păstrați pauzele în aer liber cât mai scurte posibil.",
+              "Băuturile calde în termos sunt recomandate."
+            ],
+            "en": [
+              "Windproof clothing is mandatory for a 12.5 km winter ride.",
+              "Watch out for refrozen meltwater on the cycling paths.",
+              "Dusk arrives early; ensure your lights are working properly.",
+              "Keep your outdoor breaks as short as possible.",
+              "Bringing hot drinks in a thermos is highly recommended."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1085,6 +1483,196 @@
           "Allow enough time for the drive to the spa.",
           "Check parking availability at the attractions."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir parken im Zentrum; der Regen prasselt aufs Autodach. Der kurze Weg zum Hauptplatz und zur Kirche ist mit Schirm machbar.\n\nMittags fahren wir trocken nach Gellértegyháza, wo der Parkplatz nah an den Sehenswürdigkeiten liegt.\n\nDas Mittagessen in der Nähe des Parks bietet eine gemütliche Pause vom grauen Wetter.\n\nDer Tag endet entspannt in Gyopárosfürdő; das Auto parkt direkt vor der Therme, sodass wir trocken hineinkommen.",
+            "hu": "A központban parkolunk; az eső kopog a tetőn. A rövid út a Főtérig és a templomig esernyővel könnyen teljesíthető.\n\nDélben szárazon autózunk Gellértegyházára, ahol a parkoló közel van a látnivalókhoz.\n\nA park melletti ebéd meghitt pihenőt nyújt a szürke időben.\n\nA nap Gyopárosfürdőn zárul; az autó közvetlenül a fürdő előtt parkol, így szárazon jutunk be.",
+            "ro": "Parcăm în centru; ploaia bate în plafonul mașinii. Drumul scurt până în Piață și la biserică este ușor de parcurs cu umbrela.\n\nLa prânz, conducem spre Gellértegyháza, unde parcarea este aproape de obiective.\n\nPrânzul de lângă parc oferă o pauză plăcută de vremea gri.\n\nZiua se încheie relaxat la Gyopárosfürdő; mașina este parcată chiar în fața băilor, intrăm uscați.",
+            "en": "We park in the center while rain drums on the car roof. The short walk to the Main Square and Church is easy with an umbrella.\n\nAt noon, we drive dryly to Gellértegyháza, where the parking lot is close to the sights.\n\nLunch near the park provides a cozy break from the gray weather.\n\nThe day ends relaxedly at Gyopárosfürdő; with the car parked right in front of the spa, we stay dry entering."
+          },
+          "stops": [
+            {
+              "name": "City Center Cluster Parking",
+              "tip_5lang": {
+                "de": "Suchen Sie einen Platz nah am Ausgang, um Laufwege im Regen zu kürzen.",
+                "hu": "Keressen helyet a kijárathoz közel, hogy rövidítse az esőben megtett utat.",
+                "ro": "Căutați un loc aproape de ieșire pentru a scurta drumul prin ploaie.",
+                "en": "Find a spot near the exit to minimize walking in the rain."
+              }
+            },
+            {
+              "name": "Main Square & Town Hall",
+              "tip_5lang": {
+                "de": "Der Schirm sollte griffbereit im Auto liegen.",
+                "hu": "Az esernyő legyen kéznél az autóban az induláskor.",
+                "ro": "Umbrela ar trebui să fie la îndemână în mașină.",
+                "en": "Keep your umbrella within reach inside the car."
+              }
+            },
+            {
+              "name": "Evangelical Church",
+              "tip_5lang": {
+                "de": "Kurze Fahrstrecke vom Parkplatz hierher.",
+                "hu": "Rövid autóút a parkolótól idáig.",
+                "ro": "Drum scurt cu mașina de la parcare până aici.",
+                "en": "Very short drive from the parking cluster to this point."
+              }
+            },
+            {
+              "name": "Gellértegyháza Historical Park",
+              "tip_5lang": {
+                "de": "Vorsicht beim Ein- und Aussteigen auf unbefestigten Parkflächen.",
+                "hu": "Vigyázzon a ki- és beszálláskor a burkolatlan parkolófelületeken.",
+                "ro": "Atenție la urcarea și coborârea din mașină în parcările neasfaltate.",
+                "en": "Be careful when getting in and out of the car on unpaved parking areas."
+              }
+            },
+            {
+              "name": "Lunch near the Park",
+              "tip_5lang": {
+                "de": "Nutzen Sie den hauseigenen Parkplatz des Restaurants.",
+                "hu": "Használja az étterem saját parkolóját a kényelemért.",
+                "ro": "Folosiți parcarea proprie a restaurantului pentru confort.",
+                "en": "Use the restaurant's own parking lot for convenience."
+              }
+            },
+            {
+              "name": "Gyopárosfürdő Thermal Spa",
+              "tip_5lang": {
+                "de": "Beheizte Innenräume machen das Wetter draußen vergessen.",
+                "hu": "A fűtött belső terek feledtetik a kinti rossz időt.",
+                "ro": "Spațiile interioare încălzite vă fac să uitați de vremea de afară.",
+                "en": "Heated indoor areas will make you forget the weather outside."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Zustand der Scheibenwischer vor der Fahrt.",
+              "Vermeiden Sie tiefe Pfützen am Straßenrand beim Parken.",
+              "Die 9,2 km Fahrt ist bei Regen in 15-20 Minuten machbar.",
+              "Lüften Sie das Auto gut, um beschlagene Scheiben zu vermeiden.",
+              "Das Spa-Parken ist bei Regen oft stark frequentiert."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze az ablaktörlők állapotát.",
+              "Kerülje a mély tócsákat az út szélén parkoláskor.",
+              "A 9,2 km-es út esőben is 15-20 perc alatt teljesíthető.",
+              "Szellőztesse jól az autót a párásodás elkerülése érdekében.",
+              "A fürdő parkolója esőben gyakran hamar megtelik."
+            ],
+            "ro": [
+              "Verificați starea ștergătoarelor înainte de plecare.",
+              "Evitați bălțile adânci de la marginea drumului când parcați.",
+              "Traseul de 9,2 km poate fi parcurs în 15-20 minute pe ploaie.",
+              "Ventilați bine mașina pentru a evita aburirea geamurilor.",
+              "Parcarea de la băi este adesea aglomerată când plouă."
+            ],
+            "en": [
+              "Check the condition of your windshield wipers before starting.",
+              "Avoid deep puddles at the roadside when parking.",
+              "The 9.2 km drive takes about 15-20 minutes in the rain.",
+              "Keep the car well-ventilated to prevent windows from fogging up.",
+              "The spa parking lot often fills up quickly on rainy days."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens im beheizten Auto zum Zentrum; die Stadt wirkt unter Reif erstarrt. Der Besuch am Hauptplatz ist kurz und knackig.\n\nMittags fahren wir nach Gellértegyháza; die Heizung läuft auf Hochtouren. Der Spaziergang im Park ist erfrischend kalt.\n\nDas Mittagessen in Wärme ist nach dem Aufenthalt im Freien besonders willkommen.\n\nDer Abend in den Thermalbecken von Gyopárosfürdő bietet den perfekten Abschluss für den winterlichen Tag.",
+            "hu": "Reggel fűtött autóval érkezünk a központba; a város zúzmarás fényben úszik. A főtéri látogatás rövid és frissítő.\n\nDélben Gellértegyházára autózunk, a fűtés maximális fokozaton üzemel. A parki séta életerővel tölt fel.\n\nA melegben elköltött ebéd különösen jólesik a kinti tartózkodás után.\n\nAz este a gyopárosi termálmedencékben tökéletes zárása a téli napnak.",
+            "ro": "Dimineața sosim în centru cu mașina încălzită; orașul pare încremenit sub chiciură. Vizita în Piață este scurtă și revigorantă.\n\nLa prânz conducem spre Gellértegyháza cu căldura la maximum. Plimbarea în parc este reconfortantă.\n\nPrânzul la căldură este binevenit după timpul petrecut afară.\n\nSeara în bazinele termale de la Gyopárosfürdő încheie perfect ziua de iarnă.",
+            "en": "Morning arrival in a heated car to the center; the city is frozen in hoarfrost. The visit to the Main Square is short and brisk.\n\nAt noon, we drive to Gellértegyháza with the heater on full. The walk in the park is refreshingly cold.\n\nLunch in the warmth is particularly welcome after spending time outdoors.\n\nAn evening in the thermal pools of Gyopárosfürdő is the perfect conclusion to a winter day."
+          },
+          "stops": [
+            {
+              "name": "City Center Cluster Parking",
+              "tip_5lang": {
+                "de": "Vorsicht vor Straßenglätte bei der Einfahrt.",
+                "hu": "Vigyázzon az úttest csúszósságára a behajtáskor.",
+                "ro": "Atenție la polei la intrarea în parcare.",
+                "en": "Watch out for road icing when entering the parking area."
+              }
+            },
+            {
+              "name": "Main Square & Town Hall",
+              "tip_5lang": {
+                "de": "Nur kurzer Aufenthalt im Freien geplant.",
+                "hu": "Csak rövid szabadtéri tartózkodást tervezzen.",
+                "ro": "Planificați doar o scurtă ședere în aer liber.",
+                "en": "Plan for only a short stay outdoors here."
+              }
+            },
+            {
+              "name": "Evangelical Church",
+              "tip_5lang": {
+                "de": "Die Kirche bietet Schutz vor dem kalten Wind.",
+                "hu": "A templom jó menedék a metsző szél ellen.",
+                "ro": "Biserica oferă un bun adăpost împotriva vântului tăios.",
+                "en": "The church provides good shelter from the biting wind."
+              }
+            },
+            {
+              "name": "Gellértegyháza Historical Park",
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor nicht unnötig im Stand laufen.",
+                "hu": "Ne járassa feleslegesen a motort várakozás közben.",
+                "ro": "Nu lăsați motorul pornit inutil în timpul așteptării.",
+                "en": "Avoid idling your engine unnecessarily while waiting."
+              }
+            },
+            {
+              "name": "Lunch near the Park",
+              "tip_5lang": {
+                "de": "Genießen Sie die warme Atmosphäre im Restaurant.",
+                "hu": "Élvezze az étterem meleg, barátságos légkörét.",
+                "ro": "Bucurați-vă de atmosfera caldă și primitoare din restaurant.",
+                "en": "Enjoy the warm and friendly atmosphere inside the restaurant."
+              }
+            },
+            {
+              "name": "Gyopárosfürdő Thermal Spa",
+              "tip_5lang": {
+                "de": "Achten Sie auf gefrorene Parkflächen am Abend.",
+                "hu": "Ügyeljen a lefagyott parkolófelületekre az esti órákban.",
+                "ro": "Atenție la suprafețele înghețate din parcare seara.",
+                "en": "Watch out for frozen parking surfaces in the evening."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Füllen Sie Frostschutzmittel in die Scheibenwaschanlage.",
+              "Vermeiden Sie das Parken unter schneebeladenen Bäumen.",
+              "Die Batteriekapazität kann bei starkem Frost sinken.",
+              "Planen Sie 5-10 Minuten zum Enteisen der Scheiben ein.",
+              "Die Zufahrtsstraße nach Gyopárosfürdő wird meist gut geräumt."
+            ],
+            "hu": [
+              "Töltse fel fagyállóval a szélvédőmosó tartályt.",
+              "Kerülje a parkolást hóval terhelt fák alatt.",
+              "Az akkumulátor kapacitása csökkenhet erős fagyban.",
+              "Tervezzen plusz 5-10 percet a szélvédők jégtelenítésére.",
+              "A Gyopárosfürdőre vezető utat általában jól takarítják."
+            ],
+            "ro": [
+              "Umpleți rezervorul de spălare a parbrizului cu lichid antigel.",
+              "Evitați parcarea sub copaci încărcați cu zăpadă.",
+              "Capacitatea bateriei poate scădea la ger puternic.",
+              "Alocați 5-10 minute în plus pentru degivrarea parbrizului.",
+              "Drumul spre Gyopárosfürdő este de obicei bine curățat."
+            ],
+            "en": [
+              "Fill your windshield washer tank with anti-freeze fluid.",
+              "Avoid parking under trees heavily laden with snow.",
+              "Battery capacity can drop significantly in deep frost.",
+              "Plan an extra 5-10 minutes for de-icing your windows.",
+              "The road leading to Gyopárosfürdő is usually well-cleared."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1417,6 +2005,178 @@
           "Be at the bus stop on time, especially for less frequent services.",
           "Ask a local for the right bus line if you're unsure."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus zum Hauptplatz; die Haltestellen bieten Schutz. Der Besuch der Kirche ist perfekt, um einen Schauer trocken abzuwarten.\n\nMittags besuchen wir das Museum, das bequem mit dem Nahverkehr erreichbar ist.\n\nDas Mittagessen im Zentrum findet in Reichweite der wichtigsten Buslinien statt.\n\nDer Tag endet in Gyopárosfürdő; der lokale Bus bringt uns fast bis vor die Tür der Therme.",
+            "hu": "Busszal érkezünk a Főtérre; a várók védelmet nyújtanak. A templomlátogatás remek alkalom egy zápor átvészelésére.\n\nDélben a múzeumot keressük fel, amely kényelmesen elérhető tömegközlekedéssel.\n\nA belvárosi ebéd a legfontosabb buszvonalak közelében zajlik.\n\nA nap Gyopárosfürdőn zárul; a helyi járat szinte a fürdő bejáratáig visz minket.",
+            "ro": "Sosim cu autobuzul în Piață; stațiile oferă protecție. Vizita la biserică este o ocazie bună de a aștepta trecerea ploii.\n\nLa prânz vizităm muzeul, ușor accesibil cu transportul public.\n\nPrânzul din centru are loc în apropierea principalelor linii de autobuz.\n\nZiua se încheie la Gyopárosfürdő; autobuzul local ne lasă aproape de intrarea băilor.",
+            "en": "We arrive by bus at the Main Square; the shelters provide cover. Visiting the church is a great way to wait out a downpour.\n\nAt noon, we visit the museum, which is conveniently accessible by public transit.\n\nLunch in the city center takes place near the main bus routes.\n\nThe day concludes at Gyopárosfürdő; the local bus drops us off almost at the spa's entrance."
+          },
+          "stops": [
+            {
+              "name": "Main Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Wartehäuschen bei der Bushaltestelle.",
+                "hu": "Használja a buszmegálló fedett váróját.",
+                "ro": "Folosiți refugiul acoperit al stației de autobuz.",
+                "en": "Utilize the covered shelter at the bus stop."
+              }
+            },
+            {
+              "name": "Evangelical Church",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg von der Haltestelle zur Kirche.",
+                "hu": "Rövid gyalogút a megállótól a templomig.",
+                "ro": "Drum scurt pe jos de la stație până la biserică.",
+                "en": "Short walk from the transit stop to the church entrance."
+              }
+            },
+            {
+              "name": "Szántó Kovács János Museum",
+              "tip_5lang": {
+                "de": "Ideale Indoor-Aktivität bei Regen.",
+                "hu": "Ideális benti program esős időben.",
+                "ro": "Activitate interioară ideală pe timp de ploaie.",
+                "en": "An ideal indoor activity for rainy weather."
+              }
+            },
+            {
+              "name": "Lunch in the City Center",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant direkt an der Busroute.",
+                "hu": "Válasszon éttermet közvetlenül a buszútvonal mentén.",
+                "ro": "Alegeți un restaurant aflat direct pe traseul autobuzului.",
+                "en": "Pick a restaurant located directly along the bus route."
+              }
+            },
+            {
+              "name": "Gyopárosfürdő Thermal Spa",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Rückfahrzeiten des Busses am Aushang.",
+                "hu": "Ellenőrizze a busz visszaindulási idejét a hirdetményen.",
+                "ro": "Verificați orarul de întoarcere al autobuzului la avizier.",
+                "en": "Check the bus return schedule on the posted timetable."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Halten Sie Ihr Ticket griffbereit, um langes Suchen im Regen zu vermeiden.",
+              "Busse können bei starkem Regen leichte Verspätungen haben.",
+              "Die Haltestellen im Zentrum sind meist überdacht.",
+              "Vermeiden Sie es, nasse Schirme auf die Sitze zu legen.",
+              "Der Bus 2 fährt regelmäßig Richtung Gyopárosfürdő."
+            ],
+            "hu": [
+              "Tartsa kéznél a jegyét, hogy ne az esőben kelljen keresgélni.",
+              "A buszok erős esőben kisebb késéssel közlekedhetnek.",
+              "A belvárosi megállók többsége fedett.",
+              "Ne tegye a vizes esernyőt az ülésekre.",
+              "A 2-es busz rendszeresen jár Gyopárosfürdő irányába."
+            ],
+            "ro": [
+              "Păstrați biletul la îndemână pentru a nu căuta prin ploaie.",
+              "Autobuzele pot avea mici întârzieri pe ploaie torențială.",
+              "Majoritatea stațiilor din centru sunt acoperite.",
+              "Nu puneți umbrelele ude pe scaunele autobuzului.",
+              "Autobuzul 2 circulă regulat spre Gyopárosfürdő."
+            ],
+            "en": [
+              "Keep your ticket ready to avoid searching for it in the rain.",
+              "Buses may experience minor delays during heavy rainfall.",
+              "Most city center bus stops are covered for protection.",
+              "Avoid placing wet umbrellas on the bus seats.",
+              "Bus line 2 runs regularly towards Gyopárosfürdő."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im beheizten Bus zum frostigen Hauptplatz; die Fenster sind oft beschlagen. Die Kirche bietet eine spirituelle Aufwärmpause.\n\nMittags erkunden wir das Museum; der Fußweg von der Haltestelle ist kurz und belebend.\n\nDas Mittagessen im Zentrum stärkt uns für den Rest des winterlichen Tages.\n\nDer Abend gehört der Therme Gyopárosfürdő; die Fahrt im warmen Bus dorthin ist entspannend.",
+            "hu": "Fűtött busszal érkezünk a fagyos Főtérre; az ablakok gyakran párásak. A templom lelki és fizikai felmelegedést nyújt.\n\nDélben a múzeumban kalandozunk; a megállótól való séta rövid és élénkítő.\n\nA belvárosi ebéd erőt ad a téli nap hátralévő részéhez.\n\nAz este Gyopárosfürdőé; a meleg buszút a fürdőig pihentető élmény.",
+            "ro": "Sosim cu autobuzul încălzit în Piața geroasă; geamurile sunt adesea aburite. Biserica oferă încălzire spirituală și fizică.\n\nLa prânz explorăm muzeul; plimbarea de la stație este scurtă și revigorantă.\n\nPrânzul din centru ne dă forțe noi pentru restul zilei de iarnă.\n\nSeara aparține băilor Gyopárosfürdő; drumul cu autobuzul cald până acolo este relaxant.",
+            "en": "Arriving by heated bus at the frosty Main Square; windows are often fogged up. The church offers spiritual and physical warmth.\n\nAt noon, we explore the museum; the walk from the stop is short and invigorating.\n\nLunch in the city center energizes us for the rest of the winter day.\n\nThe evening belongs to Gyopárosfürdő; the ride in a warm bus to the spa is relaxing."
+          },
+          "stops": [
+            {
+              "name": "Main Square",
+              "tip_5lang": {
+                "de": "Warten Sie im Inneren der nahen Geschäfte, falls der Bus Verspätung hat.",
+                "hu": "Várjon a közeli üzletekben, ha késik a busz.",
+                "ro": "Așteptați în interiorul magazinelor din apropiere dacă autobuzul întârzie.",
+                "en": "Wait inside nearby shops if the bus is running late."
+              }
+            },
+            {
+              "name": "Evangelical Church",
+              "tip_5lang": {
+                "de": "Ein ruhiger, windgeschützter Ort.",
+                "hu": "Csendes, szélvédett helyszín.",
+                "ro": "Un loc liniștit, ferit de vânt.",
+                "en": "A quiet location protected from the wind."
+              }
+            },
+            {
+              "name": "Szántó Kovács János Museum",
+              "tip_5lang": {
+                "de": "Gut beheizte Ausstellungsräume.",
+                "hu": "Jól fűtött kiállítóterek várják.",
+                "ro": "Săli de expoziție bine încălzite.",
+                "en": "Well-heated exhibition halls await you."
+              }
+            },
+            {
+              "name": "Lunch in the City Center",
+              "tip_5lang": {
+                "de": "Heiße Suppen sind im Winter sehr zu empfehlen.",
+                "hu": "A forró levesek kifejezetten ajánlottak télen.",
+                "ro": "Supele fierbinți sunt foarte recomandate iarna.",
+                "en": "Hot soups are highly recommended in winter."
+              }
+            },
+            {
+              "name": "Gyopárosfürdő Thermal Spa",
+              "tip_5lang": {
+                "de": "Letzter Bus zurück meist gegen 18:30 Uhr; bitte prüfen.",
+                "hu": "Az utolsó busz visszafelé általában 18:30 körül indul; ellenőrizze.",
+                "ro": "Ultimul autobuz înapoi pleacă de obicei în jur de 18:30; verificați.",
+                "en": "The last bus back usually leaves around 18:30; please verify."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Bedenken Sie, dass Busse bei Schnee langsamer fahren können.",
+              "Warme Kleidung ist für das Warten an der Haltestelle wichtig.",
+              "Nutzen Sie die App des Verkehrsverbunds für Echtzeitdaten.",
+              "Im Bus ist es oft sehr warm; kleiden Sie sich im Zwiebelprinzip.",
+              "Die Busfrequenz ist an Wochenenden geringer."
+            ],
+            "hu": [
+              "Számoljon vele, hogy a buszok hóban lassabban haladhatnak.",
+              "A megállóban való várakozáshoz elengedhetetlen a meleg ruha.",
+              "Használja a közlekedési alkalmazást a valós idejű adatokhoz.",
+              "A buszokon gyakran nagyon meleg van; öltözzön rétegesen.",
+              "Hétvégente a buszok ritkábban közlekednek."
+            ],
+            "ro": [
+              "Luați în considerare că autobuzele pot circula mai lent pe zăpadă.",
+              "Hainele groase sunt importante pentru așteptarea în stație.",
+              "Folosiți aplicația de transport pentru date în timp real.",
+              "În autobuze este adesea foarte cald; îmbrăcați-vă în straturi.",
+              "Frecvența autobuzelor este mai redusă în weekend."
+            ],
+            "en": [
+              "Keep in mind that buses may travel slower in snowy conditions.",
+              "Warm clothing is vital for waiting at the bus stop.",
+              "Use the transit app for real-time arrival information.",
+              "Buses are often very warm; dress in layers for comfort.",
+              "Bus frequency is lower during the weekends."
+            ]
+          }
+        }
       }
     }
   }

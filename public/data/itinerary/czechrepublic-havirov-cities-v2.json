@@ -327,6 +327,214 @@
           "Most sights are concentrated in the city center and are easily accessible on foot.",
           "Look out for the many green spaces and parks that provide a break from the city."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag unter den Arkaden der Sorela-Architektur, die Schutz vor dem Regen bieten. Mittags besichtigen Sie das Schloss Havířov und die St.-Anna-Kirche, beide bieten trockene Zuflucht. Nachmittags erkunden Sie die Kotulova-Holzhütte, bevor Sie den Tag im gemütlichen Kino Centrum ausklingen lassen. Ein regnerischer Tag voller Kultur und Architektur im Trockenen.",
+            "hu": "Kezdje a napot a Sorela-negyed árkádjai alatt, amelyek kiváló védelmet nyújtanak az eső ellen. Délben látogasson el a Szent Anna-templomba és a kastélyba, mindkettő fedett menedéket kínál. Délután fedezze fel a Kotula-féle faházat, majd zárja a napot a Mozi központ melegében. Az eső ellenére a város szocreál öröksége és múzeumai kényelmesen bejárhatók.",
+            "ro": "Începeți ziua sub arcadele arhitecturii Sorela, care oferă protecție împotriva ploii. La prânz, vizitați Biserica Sfânta Ana și Castelul Havířov, ambele oferind refugiu uscat. După-amiaza, explorați căsuța de lemn Kotula, înainte de a încheia ziua în confortabilul Cinema Centrum. O zi ploioasă plină de cultură și istorie, petrecută în mare parte la interior.",
+            "en": "Start the day under the arcades of the Sorela architecture, providing excellent shelter from the rain. At noon, visit St. Anne's Church and the Havířov Castle, both offering dry sanctuary. In the afternoon, explore the Kotulova wooden house, then end your day in the cozy Kino Centrum. Despite the rain, the city's socialist realism heritage and museums are easily accessible."
+          },
+          "stops": [
+            {
+              "name": "Main Street (Sorela Architecture)",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden der Gebäude, um trocken zu bleiben.",
+                "hu": "Használja az épületek árkádjait, hogy szárazon maradjon.",
+                "ro": "Folosiți arcadele clădirilor pentru a rămâne uscat.",
+                "en": "Use the building arcades to stay dry while walking."
+              }
+            },
+            {
+              "name": "St. Anne's Church",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort für eine Pause während eines Regenschauers.",
+                "hu": "Csendes hely egy pihenőre egy zápor idején.",
+                "ro": "Un loc liniștit pentru o pauză în timpul unei averse.",
+                "en": "A quiet place for a break during a rain shower."
+              }
+            },
+            {
+              "name": "Havířov Castle",
+              "tip_5lang": {
+                "de": "Genießen Sie die Innenausstellungen und das Schlossrestaurant.",
+                "hu": "Élvezze a belső kiállításokat és a kastély éttermét.",
+                "ro": "Bucurați-vă de expozițiile interioare și de restaurantul castelului.",
+                "en": "Enjoy the indoor exhibitions and the castle restaurant."
+              }
+            },
+            {
+              "name": "Miner's Memorial",
+              "tip_5lang": {
+                "de": "Kurzer Halt, halten Sie Ihren Regenschirm bereit.",
+                "hu": "Rövid megálló, tartsa készenlétben az esernyőjét.",
+                "ro": "Oprire scurtă, țineți umbrela la îndemână.",
+                "en": "Quick stop, keep your umbrella ready."
+              }
+            },
+            {
+              "name": "Kotulova dřevěnka (Wooden House)",
+              "tip_5lang": {
+                "de": "Die Innenräume bieten einen faszinierenden Einblick ins Volksleben.",
+                "hu": "A belső terek lenyűgöző betekintést nyújtanak a népi életbe.",
+                "ro": "Interioarele oferă o privire fascinantă asupra vieții populare.",
+                "en": "The interiors provide a fascinating glimpse into folk life."
+              }
+            },
+            {
+              "name": "Central Park Havířov",
+              "tip_5lang": {
+                "de": "Gehen Sie auf den asphaltierten Wegen, um Schlamm zu vermeiden.",
+                "hu": "Haladjon az aszfaltozott utakon a sár elkerülése érdekében.",
+                "ro": "Mergeți pe potecile asfaltate pentru a evita noroiul.",
+                "en": "Stay on the paved paths to avoid mud."
+              }
+            },
+            {
+              "name": "Kino Centrum",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um den Tag bei einem Film aufzuwärmen.",
+                "hu": "Tökéletes hely, hogy egy film mellett melegedjen fel.",
+                "ro": "Locul perfect pentru a vă încălzi vizionând un film.",
+                "en": "Perfect place to warm up while watching a movie."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sorela-Hauptstraße hat viele überdachte Gänge.",
+              "Tragen Sie wasserfeste Schuhe für den Parkbesuch.",
+              "Das Schlossrestaurant ist ideal für eine längere Mittagspause.",
+              "Kino Centrum bietet oft Nachmittagsvorstellungen an.",
+              "Ein Regenschirm ist wegen des Windes auf offenen Plätzen wichtig."
+            ],
+            "hu": [
+              "A Sorela főutca számos fedett átjáróval rendelkezik.",
+              "Viseljen vízálló cipőt a parklátogatáshoz.",
+              "A kastély étterme ideális egy hosszabb ebédszünethez.",
+              "A mozi gyakran kínál délutáni előadásokat.",
+              "Az esernyő fontos a nyitott tereken tapasztalható szél miatt."
+            ],
+            "ro": [
+              "Strada principală Sorela are multe pasaje acoperite.",
+              "Purtați încălțăminte impermeabilă pentru vizita în parc.",
+              "Restaurantul castelului este ideal pentru o pauză de prânz prelungită.",
+              "Cinematograful oferă adesea spectacole după-amiaza.",
+              "O umbrelă este importantă din cauza vântului în spațiile deschise."
+            ],
+            "en": [
+              "The Sorela main street has many covered walkways.",
+              "Wear waterproof shoes for the park visit.",
+              "The castle restaurant is ideal for a long lunch break.",
+              "The cinema often offers afternoon screenings.",
+              "An umbrella is essential due to wind in open areas."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie den winterlichen Charme von Havířov. Morgens bewundern Sie die Sorela-Architektur im weichen Winterlicht. Mittags wärmen Sie sich in der St.-Anna-Kirche und im Schloss auf. Der Nachmittag führt zur Kotulova-Hütte, die im Schnee besonders malerisch wirkt. Da es früh dunkel wird, bietet das Kino Centrum am späten Nachmittag den idealen, gemütlichen Abschluss.",
+            "hu": "Fedezze fel Havířov téli báját. Reggel csodálja meg a Sorela-építészetet a lágy téli fényben. Délben melegedjen fel a Szent Anna-templomban és a kastélyban. A délután a Kotula-faházhoz vezet, amely a hóban különösen festői látványt nyújt. Mivel korán sötétedik, a Mozi központ ideális és barátságos befejezést kínál a nap végén.",
+            "ro": "Descoperiți farmecul iernatic al orașului Havířov. Dimineața, admirați arhitectura Sorela în lumina blândă a iernii. La prânz, încălziți-vă în Biserica Sfânta Ana și în castel. După-amiaza vă duce la căsuța Kotula, care arată pitoresc în zăpadă. Deoarece se întunecă devreme, Cinema Centrum oferă finalul ideal și primitor.",
+            "en": "Discover the winter charm of Havířov. In the morning, admire the Sorela architecture in the soft winter light. At noon, warm up in St. Anne's Church and the castle. The afternoon leads to the Kotulova wooden house, which looks particularly picturesque in the snow. Since it gets dark early, Kino Centrum provides the ideal, cozy conclusion to your day."
+          },
+          "stops": [
+            {
+              "name": "Main Street (Sorela Architecture)",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Gehwege unter den Arkaden.",
+                "hu": "Ügyeljen a jeges járdákra az árkádok alatt.",
+                "ro": "Atenție la trotuarele înghețate sub arcade.",
+                "en": "Watch out for icy pavements under the arcades."
+              }
+            },
+            {
+              "name": "St. Anne's Church",
+              "tip_5lang": {
+                "de": "Ein warmer Ort für Besinnung während der Kälte.",
+                "hu": "Meleg hely az elmélyüléshez a hidegben.",
+                "ro": "Un loc cald pentru reflecție în timpul frigului.",
+                "en": "A warm place for reflection during the cold."
+              }
+            },
+            {
+              "name": "Havířov Castle",
+              "tip_5lang": {
+                "de": "Besuchen Sie das Café für ein heißes Getränk.",
+                "hu": "Látogasson el a kávézóba egy forró italra.",
+                "ro": "Vizitați cafeneaua pentru o băutură caldă.",
+                "en": "Visit the cafe for a hot drink."
+              }
+            },
+            {
+              "name": "Miner's Memorial",
+              "tip_5lang": {
+                "de": "Die Metallskulptur wirkt im Schnee besonders markant.",
+                "hu": "A fémszobor különösen markáns a hóban.",
+                "ro": "Sculptura metalică arată deosebit de izbitor în zăpadă.",
+                "en": "The metal sculpture looks particularly striking in the snow."
+              }
+            },
+            {
+              "name": "Kotulova dřevěnka (Wooden House)",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Winteröffnungszeiten vor Ihrem Besuch.",
+                "hu": "Látogatás előtt ellenőrizze a téli nyitvatartást.",
+                "ro": "Verificați programul de iarnă înainte de vizită.",
+                "en": "Check winter opening hours before visiting."
+              }
+            },
+            {
+              "name": "Central Park Havířov",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die verschneiten Bäume.",
+                "hu": "Élvezze a havas fák látványát.",
+                "ro": "Bucurați-vă de priveliștea copacilor înzăpeziți.",
+                "en": "Enjoy the view of the snow-covered trees."
+              }
+            },
+            {
+              "name": "Kino Centrum",
+              "tip_5lang": {
+                "de": "Ein gemütlicher Rückzugsort nach dem Sonnenuntergang um 16 Uhr.",
+                "hu": "Hangulatos menedék a 16 órai naplemente után.",
+                "ro": "Un refugiu primitor după apusul de la ora 16:00.",
+                "en": "A cozy retreat after the 4 PM sunset."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Dezember bereits gegen 16:00 Uhr unter.",
+              "Warme Kleidung ist für die Wege zwischen den Museen nötig.",
+              "Viele Cafés in der Hauptstraße bieten tschechische Süßspeisen an.",
+              "Öffentliche Gebäude sind gut beheizt und bieten Erholung.",
+              "Achten Sie auf Streusalz, das Lederschuhe angreifen kann."
+            ],
+            "hu": [
+              "A nap decemberben már 16:00 körül lemegy.",
+              "Meleg ruházat szükséges a múzeumok közötti szakaszokon.",
+              "A főutca kávézói kiváló cseh édességeket kínálnak.",
+              "A középületek jól fűtöttek és pihenést nyújtanak.",
+              "Ügyeljen az útszóró sóra, amely károsítheti a bőrcipőket."
+            ],
+            "ro": [
+              "Soarele apune deja în jurul orei 16:00 în decembrie.",
+              "Îmbrăcămintea groasă este necesară pentru drumurile dintre muzee.",
+              "Multe cafenele de pe strada principală oferă dulciuri cehești.",
+              "Clădirile publice sunt bine încălzite și oferă odihnă.",
+              "Atenție la sarea de pe drum, care poate afecta încălțămintea din piele."
+            ],
+            "en": [
+              "The sun sets as early as 4:00 PM in December.",
+              "Warm clothing is necessary for the walks between museums.",
+              "Many cafes on Main Street offer traditional Czech sweets.",
+              "Public buildings are well-heated and offer respite.",
+              "Be careful with road salt, which can damage leather shoes."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -625,6 +833,196 @@
           "Bring enough water, especially for the longer ride in the afternoon.",
           "A bike lock is essential when you visit the sights."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine sportliche Tour trotz Regen. Starten Sie im Sorela-Viertel und radeln Sie zur St.-Anna-Kirche. Die Kotulova-Hütte bietet eine trockene Pause. Nachmittags fordern die Flussmäander der Lučina Ihre Ausdauer auf feuchtem Untergrund heraus. Die Tour verbindet urbane Architektur mit der rauen Schönheit der Natur bei Regen.",
+            "hu": "Sportos túra az eső ellenére. Kezdjen a Sorela-negyedben, majd tekerjen a Szent Anna-templomhoz. A Kotula-faház száraz pihenőt kínál. Délután a Lučina folyó kanyarulatai próbára teszik kitartását a nedves talajon. A túra ötvözi a városi építészetet a természet vad szépségével esős időben.",
+            "ro": "Un tur sportiv în ciuda ploii. Începeți în cartierul Sorela, apoi pedalați spre Biserica Sfânta Ana. Căsuța Kotula oferă o pauză uscată. După-amiaza, meandrele râului Lučina vă vor pune la încercare rezistența pe teren umed. Turul combină arhitectura urbană cu frumusețea aspră a naturii pe ploaie.",
+            "en": "A sporty tour despite the rain. Start in the Sorela district, then cycle to St. Anne's Church. The Kotulova wooden house offers a dry break. In the afternoon, the meanders of the Lučina River will challenge your endurance on damp ground. The tour combines urban architecture with the raw beauty of nature in rainy weather."
+          },
+          "stops": [
+            {
+              "name": "Main Street (Sorela)",
+              "tip_5lang": {
+                "de": "Vorsicht vor rutschigen Straßenbahnschienen und Kopfsteinpflaster.",
+                "hu": "Vigyázzon a csúszós villamossínekre és macskakőre.",
+                "ro": "Atenție la șinele de tramvai și pavajul alunecos.",
+                "en": "Beware of slippery tram tracks and cobblestones."
+              }
+            },
+            {
+              "name": "St. Anne's Church",
+              "tip_5lang": {
+                "de": "Überdachte Fahrradständer sind in der Nähe vorhanden.",
+                "hu": "Fedett kerékpártárolók találhatók a közelben.",
+                "ro": "Suporturi de biciclete acoperite sunt disponibile în apropiere.",
+                "en": "Covered bike racks are available nearby."
+              }
+            },
+            {
+              "name": "Kotulova dřevěnka",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter dem Dachvorsprung ab.",
+                "hu": "Állítsa le a kerékpárt az ereszkedő tető alá.",
+                "ro": "Parcați bicicleta sub streșina acoperișului.",
+                "en": "Park your bike under the roof overhang."
+              }
+            },
+            {
+              "name": "Miner's Memorial",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp, achten Sie auf Pfützen.",
+                "hu": "Rövid fotómegálló, ügyeljen a tócsákra.",
+                "ro": "Scurtă oprire pentru fotografii, atenție la bălți.",
+                "en": "Quick photo stop, watch out for puddles."
+              }
+            },
+            {
+              "name": "Central Park Havířov",
+              "tip_5lang": {
+                "de": "Die Hauptwege sind asphaltiert und gut befahrbar.",
+                "hu": "A főutak aszfaltozottak és jól járhatóak.",
+                "ro": "Drumurile principale sunt asfaltate și ușor de parcurs.",
+                "en": "The main paths are paved and easy to cycle."
+              }
+            },
+            {
+              "name": "Meanders of the Lučina River",
+              "tip_5lang": {
+                "de": "Vorsicht, die Waldwege können sehr schlammig sein.",
+                "hu": "Vigyázat, az erdei utak nagyon sárosak lehetnek.",
+                "ro": "Atenție, potecile din pădure pot fi foarte noroioase.",
+                "en": "Caution, forest paths can be very muddy."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vollständige Regenbekleidung ist für diese 12km Tour ratsam.",
+              "Prüfen Sie Ihre Bremsen, da der Bremsweg auf Nässe länger ist.",
+              "Schutzbleche am Fahrrad sind bei den Flussmäandern essenziell.",
+              "Nutzen Sie helle Beleuchtung bei schlechter Sicht.",
+              "Die Lučina-Meander sind bei Regen ein echtes Offroad-Erlebnis."
+            ],
+            "hu": [
+              "Teljes esőruházat javasolt ehhez a 12 km-es túrához.",
+              "Ellenőrizze a fékeket, mert nedves úton hosszabb a féktáv.",
+              "A sárvédő elengedhetetlen a folyókanyarulatoknál.",
+              "Használjon erős világítást rossz látási viszonyok között.",
+              "A Lučina-kanyarulatok esőben valódi terepélményt nyújtanak."
+            ],
+            "ro": [
+              "Echipamentul complet de ploaie este recomandat pentru acest tur de 12 km.",
+              "Verificați frânele, deoarece distanța de frânare este mai mare pe ud.",
+              "Apărătorile de noroi sunt esențiale la meandrele râului.",
+              "Folosiți lumini strălucitoare în caz de vizibilitate redusă.",
+              "Meandrele Lučinei sunt o adevărată experiență off-road pe ploaie."
+            ],
+            "en": [
+              "Full rain gear is recommended for this 12km tour.",
+              "Check your brakes as stopping distance is longer in the wet.",
+              "Mudguards are essential for the river meanders area.",
+              "Use bright lights in low visibility conditions.",
+              "The Lučina meanders are a true off-road experience in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine erfrischende Wintertour durch Havířov. Morgens gleiten Sie durch das Sorela-Viertel. Mittags bietet die Kotulova-Hütte einen historischen Kontrast zum modernen Bergbau-Erbe. Der Höhepunkt ist die Fahrt zu den Lučina-Mäandern, die im Frost eine magische Stille ausstrahlen. Packen Sie sich warm ein für dieses aktive Winterabenteuer.",
+            "hu": "Frissítő téli túra Havířovban. Reggel guruljon végig a Sorela-negyeden. Délben a Kotula-faház történelmi kontrasztot nyújt a modern bányászati örökséggel. A csúcspont a Lučina-kanyarulatokhoz vezető út, amely fagyban varázslatos csendet áraszt. Öltözzön rétegesen ehhez az aktív téli kalandhoz.",
+            "ro": "Un tur de iarnă revigorant în Havířov. Dimineața, pedalați prin cartierul Sorela. La prânz, căsuța Kotula oferă un contrast istoric cu moștenirea minieră modernă. Punctul culminant este drumul spre meandrele Lučinei, care emană o liniște magică în timpul gerului. Îmbrăcați-vă bine pentru această aventură activă.",
+            "en": "A refreshing winter bike tour through Havířov. In the morning, glide through the Sorela district. At noon, the Kotulova wooden house offers a historic contrast to the modern mining heritage. The highlight is the ride to the Lučina meanders, which exude a magical silence in the frost. Dress warmly for this active winter adventure."
+          },
+          "stops": [
+            {
+              "name": "Main Street (Sorela)",
+              "tip_5lang": {
+                "de": "Vermeiden Sie schnelle Kurven auf potenziell glatten Stellen.",
+                "hu": "Kerülje a gyors kanyarodást a potenciálisan csúszós részeken.",
+                "ro": "Evitați virajele rapide în locurile potențial alunecoase.",
+                "en": "Avoid sharp turns on potentially slippery spots."
+              }
+            },
+            {
+              "name": "St. Anne's Church",
+              "tip_5lang": {
+                "de": "Kurze Pause zum Aufwärmen im Vorraum möglich.",
+                "hu": "Rövid pihenő és melegedés lehetséges az előtérben.",
+                "ro": "Scurtă pauză pentru încălzire posibilă în pridvor.",
+                "en": "Short break for warming up possible in the vestibule."
+              }
+            },
+            {
+              "name": "Kotulova dřevěnka",
+              "tip_5lang": {
+                "de": "Die alte Hütte sieht unter einer Schneedecke bezaubernd aus.",
+                "hu": "Az öreg faház varázslatosan néz ki hótakaró alatt.",
+                "ro": "Vechea căsuță arată fermecător sub un strat de zăpadă.",
+                "en": "The old wooden house looks enchanting under a blanket of snow."
+              }
+            },
+            {
+              "name": "Miner's Memorial",
+              "tip_5lang": {
+                "de": "Trinken Sie hier einen heißen Tee aus Ihrer Thermoskanne.",
+                "hu": "Igyon itt egy forró teát a termoszából.",
+                "ro": "Beți un ceai fierbinte din termos aici.",
+                "en": "Drink some hot tea from your thermos here."
+              }
+            },
+            {
+              "name": "Central Park Havířov",
+              "tip_5lang": {
+                "de": "Achten Sie auf Fußgänger auf den geräumten Wegen.",
+                "hu": "Ügyeljen a gyalogosokra a letakarított utakon.",
+                "ro": "Atenție la pietoni pe potecile curățate.",
+                "en": "Watch out for pedestrians on the cleared paths."
+              }
+            },
+            {
+              "name": "Meanders of the Lučina River",
+              "tip_5lang": {
+                "de": "Die Natur ist hier im Winter besonders friedlich.",
+                "hu": "A természet itt télen különösen békés.",
+                "ro": "Natura este deosebit de liniștită aici iarna.",
+                "en": "Nature is particularly peaceful here in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterfeste Reifen oder niedriger Reifendruck helfen bei Schnee.",
+              "Tragen Sie geschichtete Kleidung und winddichte Handschuhe.",
+              "Beenden Sie die Tour vor 16 Uhr, da es dann dunkel und kälter wird.",
+              "Eine Thermoskanne mit Heißgetränk ist Ihr bester Begleiter.",
+              "Reinigen Sie Ihr Fahrrad nach der Tour vom Streusalz."
+            ],
+            "hu": [
+              "A téli gumi vagy az alacsonyabb guminyomás segít a hóban.",
+              "Viseljen réteges ruházatot és szélálló kesztyűt.",
+              "Fejezze be a túrát 16 óra előtt, mert utána sötét és hidegebb lesz.",
+              "Egy termosz forró ital a legjobb kísérője lesz.",
+              "A túra után tisztítsa meg a kerékpárt az útszóró sótól."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sau presiunea scăzută ajută pe zăpadă.",
+              "Purtați haine în straturi și mănuși rezistente la vânt.",
+              "Încheiați turul înainte de ora 16:00, când se întunecă și se răcește.",
+              "Un termos cu o băutură caldă este cel mai bun companion.",
+              "Curățați bicicleta de sare după tur."
+            ],
+            "en": [
+              "Winter tires or lower tire pressure help on snow.",
+              "Wear layered clothing and windproof gloves.",
+              "Finish the tour before 4 PM as it gets dark and colder.",
+              "A thermos with a hot drink is your best companion.",
+              "Clean your bike from road salt after the tour."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -953,6 +1351,214 @@
           "Plan your route between clusters in advance.",
           "The car gives you the flexibility to easily reach destinations slightly outside the city, like the Lučina meanders."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Genießen Sie Havířov bequem vom Auto aus. Vormittags erkunden Sie das historische Zentrum und die Sorela-Architektur. Mittags besuchen Sie die St.-Anna-Kirche und das Schloss, wobei Sie zwischen den Stopps trocken bleiben. Nachmittags fahren Sie zur Kotulova-Hütte und zu den Lučina-Mäandern, wo Sie die Natur vom warmen Fahrzeug aus beobachten können.",
+            "hu": "Élvezze Havířovot kényelmesen, az autóból. Délelőtt fedezze fel a történelmi központot és a Sorela-építészetet. Délben látogasson el a Szent Anna-templomba és a kastélyba, miközben a megállók között száraz marad. Délután hajtson a Kotula-faházhoz és a Lučina-kanyarulatokhoz, ahol a meleg járműből szemlélheti a természetet.",
+            "ro": "Bucurați-vă de Havířov confortabil, din mașină. Dimineața, explorați centrul istoric și arhitectura Sorela. La prânz, vizitați Biserica Sfânta Ana și castelul, rămânând uscat între opriri. După-amiaza, conduceți spre căsuța Kotula și meandrele Lučinei, unde puteți observa natura din vehiculul cald.",
+            "en": "Enjoy Havířov comfortably from your car. In the morning, explore the historic center and the Sorela architecture. At noon, visit St. Anne's Church and the castle, staying dry between stops. In the afternoon, drive to the Kotulova wooden house and the Lučina meanders, where you can observe nature from your warm vehicle."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Historic Center",
+              "tip_5lang": {
+                "de": "Parkhäuser im Zentrum bieten Schutz beim Aussteigen.",
+                "hu": "A központi parkolóházak védelmet nyújtanak kiszálláskor.",
+                "ro": "Parcările acoperite din centru oferă protecție la coborâre.",
+                "en": "Parking garages in the center offer shelter when exiting."
+              }
+            },
+            {
+              "name": "Main Street (Sorela)",
+              "tip_5lang": {
+                "de": "Parken Sie direkt an der Straße für schnellen Zugang zu den Arkaden.",
+                "hu": "Parkoljon közvetlenül az utcán a gyors hozzáféréshez az árkádokhoz.",
+                "ro": "Parcați direct pe stradă pentru acces rapid la arcade.",
+                "en": "Park directly on the street for quick access to the arcades."
+              }
+            },
+            {
+              "name": "St. Anne's Church",
+              "tip_5lang": {
+                "de": "Ein kleiner Parkplatz befindet sich direkt vor der Kirche.",
+                "hu": "Egy kis parkoló található közvetlenül a templom előtt.",
+                "ro": "O mică parcare se află chiar în fața bisericii.",
+                "en": "A small parking lot is located right in front of the church."
+              }
+            },
+            {
+              "name": "Havířov Castle",
+              "tip_5lang": {
+                "de": "Nutzen Sie den großen Schloss-Parkplatz.",
+                "hu": "Használja a kastély nagy parkolóját.",
+                "ro": "Folosiți parcarea mare a castelului.",
+                "en": "Use the large castle parking lot."
+              }
+            },
+            {
+              "name": "Cluster 2: Culture and Nature",
+              "tip_5lang": {
+                "de": "Gute Wendemöglichkeiten auch bei starkem Regen.",
+                "hu": "Jó megfordulási lehetőségek még erős esőben is.",
+                "ro": "Posibilități bune de întoarcere chiar și pe ploaie abundentă.",
+                "en": "Good turning options even in heavy rain."
+              }
+            },
+            {
+              "name": "Kotulova dřevěnka",
+              "tip_5lang": {
+                "de": "Parken Sie am Straßenrand, der Fußweg ist kurz.",
+                "hu": "Parkoljon az út szélén, a gyalogút rövid.",
+                "ro": "Parcați la marginea drumului, drumul pe jos este scurt.",
+                "en": "Park on the roadside, the walk is short."
+              }
+            },
+            {
+              "name": "Meanders of the Lučina River",
+              "tip_5lang": {
+                "de": "Fahren Sie nur bis zum befestigten Parkplatz.",
+                "hu": "Csak a szilárd burkolatú parkolóig hajtson.",
+                "ro": "Conduceți doar până la parcarea asfaltată.",
+                "en": "Drive only as far as the paved parking area."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie bei Starkregen unbefestigte Seitenstreifen.",
+              "Die Hauptstraßen in Havířov sind gut ausgebaut.",
+              "Das Schlossrestaurant ist mit dem Auto perfekt erreichbar.",
+              "Prüfen Sie Ihre Scheibenwischer vor der Fahrt.",
+              "Nutzen Sie die Park-App für bequemes Bezahlen im Trockenen."
+            ],
+            "hu": [
+              "Heves esőben kerülje a nem szilárd útpadkákat.",
+              "Havířov főútjai jól kiépítettek.",
+              "A kastély étterme autóval tökéletesen megközelíthető.",
+              "Indulás előtt ellenőrizze az ablaktörlőket.",
+              "Használja a parkolási applikációt a kényelmes fizetéshez."
+            ],
+            "ro": [
+              "Evitați acostamentele neasfaltate în caz de ploaie abundentă.",
+              "Drumurile principale din Havířov sunt bine întreținute.",
+              "Restaurantul castelului este perfect accesibil cu mașina.",
+              "Verificați ștergătoarele înainte de drum.",
+              "Folosiți aplicația de parcare pentru plată confortabilă."
+            ],
+            "en": [
+              "Avoid unpaved roadsides during heavy rain.",
+              "Main roads in Havířov are well-developed.",
+              "The castle restaurant is perfectly accessible by car.",
+              "Check your windshield wipers before the trip.",
+              "Use the parking app for convenient payment from inside."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Havířov im Winter ist am besten mit dem Auto zu erleben. Starten Sie im Sorela-Zentrum, wo die Architektur oft festlich beleuchtet ist. Mittags wärmen Sie sich im Schloss auf, bevor Sie am Nachmittag zur verschneiten Kotulova-Hütte fahren. Den Abschluss bildet die Fahrt zu den Lučina-Mäandern, die im Winterlicht besonders stimmungsvoll wirken, alles bei angenehmer Fahrzeugtemperatur.",
+            "hu": "A téli Havířovot az autóval a legkönnyebb felfedezni. Kezdjen a Sorela-központban, ahol az épületek gyakran ünnepi kivilágítást kapnak. Délben melegedjen fel a kastélyban, majd délután hajtson a havas Kotula-faházhoz. A napot a Lučina-kanyarulatoknál tett látogatás zárja, amely a téli fényben különösen hangulatos, mindezt kellemes fűtés mellett.",
+            "ro": "Havířov iarna este cel mai bine experimentat cu mașina. Începeți în centrul Sorela, unde arhitectura este adesea iluminată festiv. La prânz, încălziți-vă la castel înainte de a conduce spre căsuța Kotula înzăpezită. Finalul este vizita la meandrele Lučinei, care sunt deosebit de atmosferice în lumina iernii.",
+            "en": "Havířov in winter is best experienced by car. Start in the Sorela center, where the architecture is often festively lit. At noon, warm up at the castle before driving to the snowy Kotulova wooden house. The day concludes with a drive to the Lučina meanders, which are particularly atmospheric in the winter light, all within a warm vehicle."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Historic Center",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glätte auf den Parkplatzflächen.",
+                "hu": "Ügyeljen a csúszós felületekre a parkolókban.",
+                "ro": "Atenție la polei în zonele de parcare.",
+                "en": "Watch out for ice on parking surfaces."
+              }
+            },
+            {
+              "name": "Main Street (Sorela)",
+              "tip_5lang": {
+                "de": "Die Straßenbeleuchtung macht die Sorela am frühen Abend sehenswert.",
+                "hu": "Az utcai világítás miatt a Sorela kora este is látványos.",
+                "ro": "Iluminatul stradal face Sorela demnă de văzut seara devreme.",
+                "en": "Street lighting makes Sorela worth seeing in the early evening."
+              }
+            },
+            {
+              "name": "St. Anne's Church",
+              "tip_5lang": {
+                "de": "Der Fußweg vom Parkplatz zur Kirche wird meist geräumt.",
+                "hu": "A parkolótól a templomig tartó utat általában letakarítják.",
+                "ro": "Drumul de la parcare la biserică este de obicei curățat.",
+                "en": "The path from the parking lot to the church is usually cleared."
+              }
+            },
+            {
+              "name": "Havířov Castle",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den verschneiten Schlosspark.",
+                "hu": "Élvezze a kilátást a havas kastélyparkra.",
+                "ro": "Bucurați-vă de priveliștea parcului castelului înzăpezit.",
+                "en": "Enjoy the view of the snow-covered castle park."
+              }
+            },
+            {
+              "name": "Cluster 2: Culture and Nature",
+              "tip_5lang": {
+                "de": "Planen Sie mehr Zeit für das Einparken im Schnee ein.",
+                "hu": "Számoljon több idővel a hóban való parkoláshoz.",
+                "ro": "Alocați mai mult timp pentru parcare în zăpadă.",
+                "en": "Allow more time for parking in the snow."
+              }
+            },
+            {
+              "name": "Kotulova dřevěnka",
+              "tip_5lang": {
+                "de": "Die Hütte bietet tolle Winter-Fotomotive.",
+                "hu": "A faház remek téli fotótémákat kínál.",
+                "ro": "Căsuța oferă motive foto de iarnă excelente.",
+                "en": "The wooden house offers great winter photo opportunities."
+              }
+            },
+            {
+              "name": "Meanders of the Lučina River",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrierender Nässe auf den Zufahrtsstraßen.",
+                "hu": "Vigyázzon a lefagyott utakra a bekötőutakon.",
+                "ro": "Atenție la polei pe drumurile de acces.",
+                "en": "Beware of freezing moisture on the access roads."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in Tschechien gesetzlich vorgeschrieben.",
+              "Führen Sie einen Eiskratzer und Handfeger mit sich.",
+              "Die Parkplätze am Schloss werden zuverlässig geräumt.",
+              "Dunkelheit setzt ab 16 Uhr ein, achten Sie auf Wildwechsel.",
+              "Nutzen Sie die Sitzheizung für maximalen Komfort."
+            ],
+            "hu": [
+              "Csehországban a téli gumi használata kötelező.",
+              "Vigyen magával jégkaparót és hókefét.",
+              "A kastély parkolóit megbízhatóan takarítják.",
+              "16 órától sötétedik, ügyeljen a vadakra az utakon.",
+              "Használja az ülésfűtést a maximális kényelemért."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii prin lege în Cehia.",
+              "Aveți la îndemână o racletă și o perie de zăpadă.",
+              "Parcările de la castel sunt curățate cu regularitate.",
+              "Întunericul se lasă de la ora 16:00, atenție la animale pe drum.",
+              "Folosiți încălzirea în scaune pentru confort maxim."
+            ],
+            "en": [
+              "Winter tires are legally required in the Czech Republic.",
+              "Carry an ice scraper and a snow brush with you.",
+              "The parking lots at the castle are reliably cleared.",
+              "Darkness sets in from 4 PM, watch out for wildlife.",
+              "Use the seat heating for maximum comfort."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1257,6 +1863,196 @@
           "Most buses are modern and air-conditioned.",
           "Have small change ready for tickets if you need to buy them directly from the driver."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie Havířov mit Bus und Bahn, ideal bei Regen. Das Sorela-Viertel ist hervorragend angebunden. Mittags bringt Sie der Nahverkehr zum Kino Centrum und zur Kotulova-Hütte, wobei Sie kaum nass werden. Der Nachmittag im Central Park lässt sich gut mit Stopps in Cafés kombinieren. Eine effiziente und trockene Art, die Stadt zu erleben.",
+            "hu": "Fedezze fel Havířovot busszal és vonattal, ami esőben ideális. A Sorela-negyed kiváló összeköttetéssel bír. Délben a tömegközlekedés elviszi a Mozi központhoz és a Kotula-faházhoz, így alig lesz vizes. A délutáni parklátogatás jól kombinálható kávéházi pihenőkkel. Hatékony és száraz módja a városnézésnek.",
+            "ro": "Explorați Havířov cu autobuzul și trenul, ideal pe ploaie. Cartierul Sorela este excelent conectat. La prânz, transportul public vă duce la Cinema Centrum și căsuța Kotula, fără să vă udați prea tare. După-amiaza în Parcul Central poate fi combinată cu opriri la cafenele. O modalitate eficientă și uscată de a vedea orașul.",
+            "en": "Explore Havířov by bus and train, ideal for a rainy day. The Sorela district is excellently connected. At noon, public transport takes you to Kino Centrum and the Kotulova wooden house, keeping you mostly dry. An afternoon in Central Park can be easily combined with cafe stops. An efficient and dry way to experience the city."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Sorela Center",
+              "tip_5lang": {
+                "de": "Zentraler Knotenpunkt mit vielen überdachten Haltestellen.",
+                "hu": "Központi csomópont számos fedett megállóval.",
+                "ro": "Nod central cu multe stații acoperite.",
+                "en": "Central hub with many covered transit stops."
+              }
+            },
+            {
+              "name": "Main Street (Sorela)",
+              "tip_5lang": {
+                "de": "Busse verkehren hier in sehr kurzen Abständen.",
+                "hu": "A buszok itt nagyon sűrűn közlekednek.",
+                "ro": "Autobuzele circulă aici la intervale foarte scurte.",
+                "en": "Buses run here at very frequent intervals."
+              }
+            },
+            {
+              "name": "Kino Centrum",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle befindet sich fast direkt vor dem Eingang.",
+                "hu": "A buszmegálló szinte közvetlenül a bejárat előtt van.",
+                "ro": "Stația de autobuz este aproape direct în fața intrării.",
+                "en": "The bus stop is located almost directly in front of the entrance."
+              }
+            },
+            {
+              "name": "Cluster 2: Cultural Heritage",
+              "tip_5lang": {
+                "de": "Gute Verbindung zu den Museen der Stadt.",
+                "hu": "Jó összeköttetés a város múzeumaival.",
+                "ro": "Conexiune bună cu muzeele orașului.",
+                "en": "Good connection to the city's museums."
+              }
+            },
+            {
+              "name": "Kotulova dřevěnka",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg von der nächsten Haltestelle.",
+                "hu": "Rövid gyalogút a legközelebbi megállótól.",
+                "ro": "Drum scurt pe jos de la cea mai apropiată stație.",
+                "en": "Short walk from the nearest transit stop."
+              }
+            },
+            {
+              "name": "Central Park Havířov",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Bus, um das nasse Gras zu umfahren.",
+                "hu": "Használja a buszt a vizes fű elkerülésére.",
+                "ro": "Folosiți autobuzul pentru a ocoli iarba udă.",
+                "en": "Use the bus to navigate around wet areas."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie ein Tagesticket direkt beim Fahrer oder per SMS.",
+              "Die IDOS-App zeigt Echtzeit-Verbindungen an.",
+              "Haltestellen im Zentrum bieten meist guten Regenschutz.",
+              "Nutzen Sie die Wartezeit für einen schnellen Kaffee am Bahnhof.",
+              "Busse sind bei Regen oft voll, planen Sie Pufferzeit ein."
+            ],
+            "hu": [
+              "Vásároljon napijegyet a sofőrnél vagy SMS-ben.",
+              "Az IDOS applikáció valós idejű járatinformációkat mutat.",
+              "A központi megállók általában jól védenek az esőtől.",
+              "Használja ki a várakozási időt egy gyors kávéra az állomáson.",
+              "Esőben a buszok zsúfoltak lehetnek, számoljon rá több időt."
+            ],
+            "ro": [
+              "Cumpărați un bilet de o zi direct de la șofer sau prin SMS.",
+              "Aplicația IDOS arată conexiunile în timp real.",
+              "Stațiile din centru oferă de obicei protecție bună la ploaie.",
+              "Folosiți timpul de așteptare pentru o cafea rapidă la gară.",
+              "Autobuzele sunt adesea aglomerate pe ploaie, planificați timp suplimentar."
+            ],
+            "en": [
+              "Buy a day ticket directly from the driver or via SMS.",
+              "The IDOS app shows real-time connections.",
+              "Center stops usually offer good rain protection.",
+              "Use waiting times for a quick coffee at the station.",
+              "Buses are often crowded in the rain, plan extra time."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie Havířovs Winterlandschaft entspannt mit den öffentlichen Verkehrsmitteln. Morgens bestaunen Sie die Sorela-Gebäude. Mittags wärmen Sie sich im Bus auf dem Weg zum Kino Centrum oder zur Kotulova-Hütte auf. Der Winterspaziergang im Central Park lässt sich durch die nahen Haltestellen jederzeit abbrechen, falls es zu kalt wird. Ein sicherer Weg durch den Schnee.",
+            "hu": "Fedezze fel Havířov téli tájait kényelmesen, tömegközlekedéssel. Reggel csodálja meg a Sorela-épületeket. Délben melegedjen fel a buszon, miközben a Mozi központ vagy a Kotula-faház felé tart. A téli séta a parkban bármikor megszakítható a közeli megállóknak köszönhetően, ha túl hideg lenne. Biztonságos út a hóban is.",
+            "ro": "Experimentați peisajul de iarnă din Havířov relaxat, cu transportul public. Dimineața admirați clădirile Sorela. La prânz, încălziți-vă în autobuz în drum spre Cinema Centrum sau căsuța Kotula. Plimbarea de iarnă în Parcul Central poate fi întreruptă oricând datorită stațiilor apropiate. O cale sigură prin zăpadă.",
+            "en": "Experience Havířov's winter landscape relaxed with public transport. In the morning, admire the Sorela buildings. At noon, warm up on the bus on your way to Kino Centrum or the Kotulova wooden house. A winter walk in Central Park can be shortened at any time thanks to nearby stops if it gets too cold. A safe way through the snow."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Sorela Center",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glätte beim Ein- und Aussteigen.",
+                "hu": "Ügyeljen a csúszós felületekre fel- és leszálláskor.",
+                "ro": "Atenție la polei la urcare și coborâre.",
+                "en": "Watch out for ice when boarding and exiting."
+              }
+            },
+            {
+              "name": "Main Street (Sorela)",
+              "tip_5lang": {
+                "de": "Die Busse sind im Winter angenehm beheizt.",
+                "hu": "A buszok télen kellemesen fűtöttek.",
+                "ro": "Autobuzele sunt încălzite plăcut iarna.",
+                "en": "Buses are pleasantly heated during winter."
+              }
+            },
+            {
+              "name": "Kino Centrum",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Zeit bis zum nächsten Bus im Warmen zu verbringen.",
+                "hu": "Ideális hely a következő buszig tartó idő melegben való eltöltésére.",
+                "ro": "Un loc ideal pentru a aștepta următorul autobuz la căldură.",
+                "en": "An ideal place to wait for the next bus in the warm."
+              }
+            },
+            {
+              "name": "Cluster 2: Cultural Heritage",
+              "tip_5lang": {
+                "de": "Haltestellen werden bei Schneefall meist prioritär geräumt.",
+                "hu": "A megállókat havazáskor általában prioritással takarítják.",
+                "ro": "Stațiile sunt de obicei curățate cu prioritate în caz de ninsoare.",
+                "en": "Stops are usually cleared with priority during snowfall."
+              }
+            },
+            {
+              "name": "Kotulova dřevěnka",
+              "tip_5lang": {
+                "de": "Die verschneite Gegend wirkt wie aus einem Märchen.",
+                "hu": "A havas környék olyan, mint egy tündérmesében.",
+                "ro": "Zona înzăpezită arată ca dintr-un basm.",
+                "en": "The snowy area looks like something out of a fairy tale."
+              }
+            },
+            {
+              "name": "Central Park Havířov",
+              "tip_5lang": {
+                "de": "Mehrere Haltestellen umgeben den Park für flexible Planung.",
+                "hu": "Több megálló is övezi a parkot a rugalmas tervezéshez.",
+                "ro": "Mai multe stații înconjoară parcul pentru o planificare flexibilă.",
+                "en": "Multiple stops surround the park for flexible planning."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrpläne können sich bei extremem Schneefall verzögern.",
+              "Nutzen Sie die beheizten Wartehallen am Hauptbahnhof.",
+              "Ab 16 Uhr ist es dunkel, die Busse sind dann gut beleuchtet.",
+              "Tragen Sie Schuhe mit gutem Profil für den Weg zur Haltestelle.",
+              "Die IDOS-App hilft, Wartezeiten in der Kälte zu minimieren."
+            ],
+            "hu": [
+              "Extrém havazás esetén a menetrendben késések fordulhatnak elő.",
+              "Használja a fűtött várótermeket a főpályaudvaron.",
+              "16 órától sötét van, a buszok ilyenkor jól kivilágítottak.",
+              "Viseljen jó tapadású cipőt a megállóig tartó úton.",
+              "Az IDOS app segít minimalizálni a hidegben való várakozást."
+            ],
+            "ro": [
+              "Orarele pot avea întârzieri în caz de ninsori extreme.",
+              "Folosiți sălile de așteptare încălzite de la gara centrală.",
+              "De la ora 16:00 este întuneric, autobuzele sunt bine iluminate.",
+              "Purtați pantofi cu talpă aderentă pentru drumul spre stație.",
+              "Aplicația IDOS ajută la minimizarea așteptării în frig."
+            ],
+            "en": [
+              "Schedules may be delayed during extreme snowfall.",
+              "Use the heated waiting rooms at the main station.",
+              "It gets dark from 4 PM; buses are well-lit during this time.",
+              "Wear shoes with good grip for the walk to the stop.",
+              "The IDOS app helps minimize waiting time in the cold."
+            ]
+          }
+        }
       }
     }
   }

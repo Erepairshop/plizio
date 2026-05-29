@@ -332,6 +332,188 @@
           "Take time for a guided tour of Stockalper Palace to understand its rich history.",
           "A short detour to the banks of the Saltina or Rhone rivers offers a refreshing break."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag unter den schützenden Arkaden der Altstadt von Brig. Die historischen Gassen bieten auch bei Regen viel Charme und Unterschlupf.\n\nMittags bietet das Stockalperschloss eine perfekte Zuflucht. Die Innenbesichtigung der prunkvollen Säle lässt Sie das Wetter draußen vergessen.\n\nNachmittags führt der Weg zur Gliser Kirche. Der kurze Spaziergang ist mit einem guten Regenschirm problemlos machbar.\n\nAbends entspannen Sie in einem der gemütlichen Cafés am Stadtplatz, während der Regen gegen die Scheiben prasselt.",
+            "hu": "Kezdje a napot Brig óvárosának védett árkádjai alatt. A történelmi utcák esőben is hangulatosak és sok helyen fedettek.\n\nDélben a Stockalper-palota nyújt tökéletes menedéket. A pompás termek belső látogatása közben teljesen elfelejti a kinti szürkeséget.\n\nDélután a glisi zarándoktemplom felé veheti az irányt. Egy jó esernyővel a rövid séta kényelmesen teljesíthető.\n\nEste pihenjen meg a főtér egyik barátságos kávézójában, hallgatva az ablakon kopogó esőt.",
+            "ro": "Începeți ziua sub arcadele protectoare ale centrului vechi din Brig. Străzile istorice oferă farmec și adăpost chiar și pe ploaie.\n\nLa prânz, Palatul Stockalper este refugiul perfect. Vizitarea sălilor fastuoase vă va face să uitați de vremea de afară.\n\nDupă-amiaza, drumul duce spre biserica din Glis. Plimbarea scurtă este ușor de parcurs cu o umbrelă bună.\n\nSeara, relaxați-vă într-una dintre cafenelele primitoare din piața centrală, în timp ce ploaia bate în geam.",
+            "en": "Start your day under the protective arcades of Brig's old town. The historic alleys offer plenty of charm and shelter even in the rain.\n\nAt noon, Stockalper Palace provides the perfect escape. A guided tour of the opulent halls makes you forget the grey weather outside.\n\nIn the afternoon, head towards the Glis pilgrimage church. With a good umbrella, the short walk is easily manageable.\n\nIn the evening, cozy up in one of the cafes at the town square while listening to the rain against the windows."
+          },
+          "stops": [
+            {
+              "name": "Brig Old Town",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkadengänge, um trocken zu bleiben.",
+                "hu": "Használja az árkádokat, hogy száraz maradjon.",
+                "ro": "Folosiți arcadele pentru a rămâne uscat.",
+                "en": "Use the arcades to stay dry while exploring."
+              }
+            },
+            {
+              "name": "St. Sebastian's Chapel",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort für eine kurze Regenpause.",
+                "hu": "Csendes hely egy rövid esőszünethez.",
+                "ro": "Un loc liniștit pentru o scurtă pauză de ploaie.",
+                "en": "A quiet place for a short break from the rain."
+              }
+            },
+            {
+              "name": "Collegiate Church of the Holy Spirit",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Barockkunst im trockenen Innenraum.",
+                "hu": "Csodálja meg a barokk művészetet a száraz belső térben.",
+                "ro": "Admirați arta barocă în interiorul uscat.",
+                "en": "Admire the Baroque art in the dry interior."
+              }
+            },
+            {
+              "name": "Stockalper Palace",
+              "tip_5lang": {
+                "de": "Ideales Ziel für Regentage, da die Tour drinnen stattfindet.",
+                "hu": "Ideális esős napra, a vezetés bent zajlik.",
+                "ro": "Destinație ideală pentru zile ploioase, turul e în interior.",
+                "en": "Ideal for rainy days as the tour is indoors."
+              }
+            },
+            {
+              "name": "Stockalper Garden",
+              "tip_5lang": {
+                "de": "Feste Schuhe empfohlen, die Wege können weich sein.",
+                "hu": "Zárt cipő ajánlott, az utak felázhatnak.",
+                "ro": "Se recomandă încălțăminte solidă, potecile pot fi moi.",
+                "en": "Sturdy shoes recommended, paths can be soft."
+              }
+            },
+            {
+              "name": "Pilgrimage Church of the Assumption in Glis",
+              "tip_5lang": {
+                "de": "Der Innenraum bietet Schutz und spirituelle Ruhe.",
+                "hu": "A belső tér védelmet és lelki nyugalmat nyújt.",
+                "ro": "Interiorul oferă adăpost și liniște spirituală.",
+                "en": "The interior offers shelter and spiritual peace."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Arkaden am Stadtplatz bieten ca. 200m wettergeschützten Gehweg.",
+              "Im Stockalperschloss gibt es Schirmständer am Eingang.",
+              "Der Bahnhof Brig hat Schließfächer für nasse Ausrüstung.",
+              "Die Cafés in der Sebastiansgasse sind besonders gemütlich bei Regen."
+            ],
+            "hu": [
+              "A főtér árkádjai kb. 200 méternyi védett útvonalat biztosítanak.",
+              "A Stockalper-palota bejáratánál vannak esernyőtartók.",
+              "A brigi vasútállomáson vannak szekrények a vizes felszerelésnek.",
+              "A Sebastiansgasse kávézói különösen hangulatosak esőben."
+            ],
+            "ro": [
+              "Arcadele din piață oferă cca. 200 m de trotuar protejat.",
+              "La intrarea în Palatul Stockalper există suporturi pentru umbrele.",
+              "Gara Brig are vestiare pentru echipamentul ud.",
+              "Cafenelele de pe Sebastiansgasse sunt foarte primitoare pe ploaie."
+            ],
+            "en": [
+              "The arcades at the town square provide about 200m of sheltered walkway.",
+              "Stockalper Palace has umbrella stands at the entrance.",
+              "Brig station offers lockers for storing wet gear.",
+              "Cafes in Sebastiansgasse are especially cozy during rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens glitzert der Frost auf dem Kopfsteinpflaster der Altstadt. Die klare Alpenluft sorgt für eine weite Sicht auf die schneebedeckten Gipfel.\n\nMittags wärmen Sie sich im Stockalperschloss auf. Die massiven Mauern halten die Kälte draußen, während Sie die Geschichte des Salzbarons entdecken.\n\nNachmittags ist der Garten in eine stille Schneedecke gehüllt. Der kurze Weg nach Glis führt vorbei an beleuchteten Fenstern.\n\nAbends taucht die Winterdämmerung Brig in ein festliches Licht. Genießen Sie ein warmes Getränk, bevor die Kälte anzieht.",
+            "hu": "Reggel dér csillog az óváros macskakövén. A tiszta alpesi levegő lenyűgöző kilátást nyújt a hófödte csúcsokra.\n\nDélben melegedjen fel a Stockalper-palotában. A masszív falak kint tartják a hideget, miközben felfedezi a sóbáró történetét.\n\nDélután a kertet csendes hótakaró borítja. A Glisbe vezető rövid út kivilágított ablakok mellett halad el.\n\nEste a téli szürkület ünnepi fénybe öltözteti Briget. Élvezzen egy forró italt, mielőtt igazán lehűl a levegő.",
+            "ro": "Dimineața, bruma strălucește pe pietrele din centrul vechi. Aerul curat de munte oferă o vedere clară spre vârfurile înzăpezite.\n\nLa prânz, încălziți-vă în Palatul Stockalper. Zidurile masive țin frigul afară în timp ce descoperiți istoria baronului sării.\n\nDupă-amiaza, grădina este învăluită într-un strat de zăpadă tăcut. Drumul scurt spre Glis trece pe lângă ferestre luminate.\n\nSeara, amurgul de iarnă scaldă orașul într-o lumină festivă. Savurați o băutură caldă înainte să se lase gerul.",
+            "en": "In the morning, frost glistens on the cobblestones of the old town. The crisp Alpine air provides wide views of the snow-capped peaks.\n\nAt noon, warm up inside the Stockalper Palace. The massive walls keep the cold at bay while you discover the history of the salt baron.\n\nIn the afternoon, the garden is shrouded in a quiet blanket of snow. The short walk to Glis leads past illuminated windows.\n\nIn the evening, the winter twilight bathes Brig in festive light. Enjoy a hot drink before the temperature drops further."
+          },
+          "stops": [
+            {
+              "name": "Brig Old Town",
+              "tip_5lang": {
+                "de": "Vorsicht vor glatten Stellen auf dem Pflaster.",
+                "hu": "Vigyázat, a macskakő csúszós lehet.",
+                "ro": "Atenție la porțiunile alunecoase de pe pavaj.",
+                "en": "Watch out for slippery spots on the cobblestones."
+              }
+            },
+            {
+              "name": "St. Sebastian's Chapel",
+              "tip_5lang": {
+                "de": "Ein warmer, besinnlicher Ort an kalten Tagen.",
+                "hu": "Meleg, meghitt hely a hideg napokon.",
+                "ro": "Un loc cald și meditativ în zilele reci.",
+                "en": "A warm, contemplative place on cold days."
+              }
+            },
+            {
+              "name": "Collegiate Church of the Holy Spirit",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Krippe in der Weihnachtszeit.",
+                "hu": "Karácsonykor nézze meg a betlehemi jászlat.",
+                "ro": "Admirați ieslea în timpul perioadei Crăciunului.",
+                "en": "Admire the nativity scene during Christmas time."
+              }
+            },
+            {
+              "name": "Stockalper Palace",
+              "tip_5lang": {
+                "de": "Die Innenräume sind angenehm temperiert.",
+                "hu": "A belső terek kellemesen temperáltak.",
+                "ro": "Interioarele au o temperatură plăcută.",
+                "en": "The interiors are kept at a comfortable temperature."
+              }
+            },
+            {
+              "name": "Stockalper Garden",
+              "tip_5lang": {
+                "de": "Der Garten schließt im Winter oft früher (Dämmerung).",
+                "hu": "A kert télen gyakran korábban zár (szürkületkor).",
+                "ro": "Grădina se închide adesea mai devreme iarna.",
+                "en": "The garden often closes earlier in winter (at dusk)."
+              }
+            },
+            {
+              "name": "Pilgrimage Church of the Assumption in Glis",
+              "tip_5lang": {
+                "de": "Besonders stimmungsvoll bei Kerzenlicht am späten Nachmittag.",
+                "hu": "Késő délután, gyertyafényben különösen hangulatos.",
+                "ro": "Foarte atmosferic la lumina lumânărilor după-amiaza.",
+                "en": "Very atmospheric by candlelight in the late afternoon."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne verschwindet gegen 16:30 Uhr hinter den Bergen.",
+              "Tragen Sie Schichten, da der Wind im Rhonetal kalt sein kann.",
+              "Der Bahnhofsvorplatz ist meist gut geräumt und gestreut.",
+              "Probieren Sie Walliser Spezialitäten in der warmen Gaststube."
+            ],
+            "hu": [
+              "A nap 16:30 körül tűnik el a hegyek mögött.",
+              "Öltözzön rétegesen, a szél hideg lehet a Rhone-völgyben.",
+              "A vasútállomás előtti tér általában jól takarított és sózott.",
+              "Kóstolja meg a vallisi specialitásokat egy meleg vendéglőben."
+            ],
+            "ro": [
+              "Soarele dispare după munți în jurul orei 16:30.",
+              "Îmbrăcați-vă în straturi, vântul pe valea Ronului e rece.",
+              "Piața gării este de obicei bine curățată de zăpadă.",
+              "Gustați specialități din Valais într-un local încălzit."
+            ],
+            "en": [
+              "The sun disappears behind the mountains around 16:30.",
+              "Wear layers as the wind in the Rhone valley can be cold.",
+              "The station square is usually well-cleared of snow and salted.",
+              "Try local Valais specialties in a warm tavern."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -640,6 +822,170 @@
           "An e-bike is a good option to tackle the gentle slopes to Glis or into the vineyards effortlessly.",
           "Many restaurants welcome cyclists and offer safe places to park your bike."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie wasserfest ausgerüstet in der Altstadt. Die kurzen Wege zwischen den Gebäuden minimieren die Zeit im Regen.\n\nMittags bietet die Fahrt zur Gliser Kirche eine kurze Herausforderung, aber der asphaltierte Weg ist sicher.\n\nNachmittags radeln Sie am Rhoneufer. Der Wind kann hier den Regen peitschen, daher ist gute Kleidung entscheidend.\n\nAbends bietet Naters warme Gaststuben, um die nassen Sachen zu trocknen und neue Energie zu tanken.",
+            "hu": "Induljon vízálló felszerelésben az óvárosból. Az épületek közötti rövid távolságok minimalizálják az esőben töltött időt.\n\nDélben a glisi templomhoz vezető út rövid kihívás, de az aszfaltozott út biztonságos.\n\nDélután tekerjen a Rhone partján. A szél itt korbácsolhatja az esőt, ezért a jó ruházat döntő fontosságú.\n\nEste Naters meleg vendéglői várják, ahol megszáríthatja ruháit és új erőre kaphat.",
+            "ro": "Porniți echipat impermeabil din centrul vechi. Distanțele scurte între clădiri minimizează timpul petrecut în ploaie.\n\nLa prânz, drumul spre biserica din Glis e o mică provocare, dar drumul asfaltat este sigur.\n\nDupă-amiaza, pedalați pe malul Ronului. Vântul poate biciui ploaia aici, deci echipamentul e crucial.\n\nSeara, Naters oferă localuri calde pentru a vă usca hainele și a vă reîncărca bateriile.",
+            "en": "Start in the old town equipped with waterproofs. Short distances between buildings minimize your time in the rain.\n\nAt noon, the ride to Glis church is a brief challenge, but the paved path remains safe.\n\nIn the afternoon, cycle along the Rhone bank. The wind can whip the rain here, so good gear is essential.\n\nIn the evening, Naters offers warm taverns to dry your clothes and recharge your energy."
+          },
+          "stops": [
+            {
+              "name": "Brig Old Town & Palace",
+              "tip_5lang": {
+                "de": "Überdachte Fahrradständer beim Stockalperschloss nutzen.",
+                "hu": "Használja a fedett kerékpártárolókat a palotánál.",
+                "ro": "Folosiți suporturile de biciclete acoperite de la palat.",
+                "en": "Use covered bike racks near the Stockalper Palace."
+              }
+            },
+            {
+              "name": "Pilgrimage Church of Glis",
+              "tip_5lang": {
+                "de": "Vorsicht beim Absteigen auf nassem Asphalt.",
+                "hu": "Vigyázat a leszálláskor a vizes aszfalton.",
+                "ro": "Atenție la descălecare pe asfaltul ud.",
+                "en": "Be careful when dismounting on wet asphalt."
+              }
+            },
+            {
+              "name": "Ride along the Rhone",
+              "tip_5lang": {
+                "de": "Schutzbleche sind heute Ihr bester Freund.",
+                "hu": "A sárvédő ma a legjobb barátja lesz.",
+                "ro": "Aripile de protecție sunt necesare astăzi.",
+                "en": "Mudguards are your best friend today."
+              }
+            },
+            {
+              "name": "Lunch in Naters",
+              "tip_5lang": {
+                "de": "Suchen Sie Lokale mit sichtbarem Fahrradparkplatz.",
+                "hu": "Keressen olyan helyet, ahol rálát a biciklire.",
+                "ro": "Căutați localuri cu parcare vizibilă pentru biciclete.",
+                "en": "Look for places with visible bike parking."
+              }
+            },
+            {
+              "name": "Stockalper Garden",
+              "tip_5lang": {
+                "de": "Bei starkem Regen sind die Wege rutschig.",
+                "hu": "Heves esőben az utak csúszósak lehetnek.",
+                "ro": "Pe ploaie torențială, potecile sunt alunecoase.",
+                "en": "Paths are slippery during heavy rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Bremsen, der Bremsweg ist auf nassem Pflaster länger.",
+              "Vermeiden Sie Pfützen, sie könnten tiefer sein als gedacht.",
+              "Die Unterführung beim Bahnhof Brig ist trocken und befahrbar.",
+              "Ein Helm-Überzug hält den Kopf angenehm trocken."
+            ],
+            "hu": [
+              "Ellenőrizze a fékeket, a féktávolság vizes úton hosszabb.",
+              "Kerülje a tócsákat, mélyebbek lehetnek, mint látszanak.",
+              "A brigi állomás aluljárója száraz és kerékpározható.",
+              "A bukósisak-huzat kellemesen szárazon tartja a fejet."
+            ],
+            "ro": [
+              "Verificați frânele, distanța de frânare e mai mare pe ud.",
+              "Evitați bălțile, pot fi mai adânci decât par.",
+              "Subpasajul de la gara Brig este uscat și practicabil.",
+              "O husă pentru cască vă menține capul uscat."
+            ],
+            "en": [
+              "Check your brakes; stopping distance is longer on wet ground.",
+              "Avoid puddles as they might be deeper than they look.",
+              "The underpass at Brig station is dry and bikeable.",
+              "A helmet cover keeps your head comfortably dry."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frühmorgens radeln Sie durch das stille Brig. Die kühle Luft ist erfrischend, erfordert aber warme Handschuhe.\n\nMittags führt die Tour zur Gliser Kirche. Achten Sie auf geräumte Wege, die Hauptverbindungen sind meist sicher.\n\nNachmittags bietet die Fahrt am Rhoneufer spektakuläre Ausblicke auf die tief verschneite Bergwelt des Wallis.\n\nAbends ist Naters der ideale Ort für ein Fondue, um sich nach der aktiven Wintertour wieder aufzuwärmen.",
+            "hu": "Kora reggel tekerjen át a csendes Brigen. A hűvös levegő frissítő, de meleg kesztyűre szükség lesz.\n\nDélben az út a glisi templomhoz vezet. Figyeljen a letakarított utakra, a fővonalak általában biztonságosak.\n\nDélután a Rhone-parti tekerés látványos kilátást nyújt Wallis mélyen hófödte hegyvilágára.\n\nEste Naters az ideális hely egy fonduera, hogy az aktív téli túra után újra felmelegedjen.",
+            "ro": "Dimineața devreme, pedalați prin Brigul liniștit. Aerul rece este revigorant, dar necesită mănuși groase.\n\nLa prânz, turul duce spre biserica din Glis. Atenție la drumurile curățate, axele principale sunt sigure.\n\nDupă-amiaza, tura pe malul Ronului oferă vederi spectaculoase spre munții înzăpeziți din Valais.\n\nSeara, Naters este locul ideal pentru un fondue, pentru a vă încălzi după tura activă de iarnă.",
+            "en": "Early morning, cycle through quiet Brig. The cool air is refreshing but requires warm gloves.\n\nAt noon, the tour leads to Glis church. Stick to cleared paths; main connections are usually safe.\n\nIn the afternoon, the ride along the Rhone offers spectacular views of the deeply snow-covered Valais mountains.\n\nIn the evening, Naters is the ideal spot for a fondue to warm up after your active winter tour."
+          },
+          "stops": [
+            {
+              "name": "Brig Old Town & Palace",
+              "tip_5lang": {
+                "de": "Vorsicht vor Eisplatten im Schatten des Palastes.",
+                "hu": "Vigyázat a jégfoltokkal a palota árnyékában.",
+                "ro": "Atenție la gheață în zonele umbrite ale palatului.",
+                "en": "Beware of icy patches in the palace's shadow."
+              }
+            },
+            {
+              "name": "Pilgrimage Church of Glis",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad an einem schneefreien Ort ab.",
+                "hu": "Hómentes helyen parkolja le a kerékpárt.",
+                "ro": "Parcați bicicleta într-un loc fără zăpadă.",
+                "en": "Park your bike in a snow-free spot."
+              }
+            },
+            {
+              "name": "Ride along the Rhone",
+              "tip_5lang": {
+                "de": "Der Wind am Fluss kühlt stark ab. Gesichtsschutz nutzen.",
+                "hu": "A folyóparti szél nagyon hűt. Használjon arcvédőt.",
+                "ro": "Vântul de lângă râu e tăios. Folosiți protecție facială.",
+                "en": "The wind by the river is very cold. Use face protection."
+              }
+            },
+            {
+              "name": "Lunch in Naters",
+              "tip_5lang": {
+                "de": "In Naters gibt es viele Radständer nahe der Cafés.",
+                "hu": "Natersben sok a bringatároló a kávézók közelében.",
+                "ro": "În Naters sunt multe rastele lângă cafenele.",
+                "en": "Naters has many bike racks near its cafes."
+              }
+            },
+            {
+              "name": "Stockalper Garden",
+              "tip_5lang": {
+                "de": "Die Wege können bei Frost sehr glatt sein.",
+                "hu": "Fagyban az utak nagyon csúszósak lehetnek.",
+                "ro": "Potecile pot fi foarte alunecoase în caz de îngheț.",
+                "en": "Paths can be very slippery during frost."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Reduzieren Sie den Reifendruck leicht für besseren Grip auf Schnee.",
+              "Akku-Lampen entladen sich bei Kälte schneller. Ersatz mitnehmen.",
+              "Verwenden Sie Winter-Fahrradhandschuhe gegen den Fahrtwind.",
+              "Hauptstraßen werden in Brig vorrangig geräumt."
+            ],
+            "hu": [
+              "Csökkentse kicsit a guminyomást a jobb tapadásért a havon.",
+              "Az akkus lámpák hidegben gyorsabban merülnek. Vigyen pótot.",
+              "Használjon téli kerékpáros kesztyűt a menetszél ellen.",
+              "Brigben a főutakat takarítják el elsőként a hótól."
+            ],
+            "ro": [
+              "Reduceți ușor presiunea în pneuri pentru aderență pe zăpadă.",
+              "Luminile cu acumulator se descarcă rapid la frig. Luați rezerve.",
+              "Folosiți mănuși de iarnă speciale împotriva vântului.",
+              "Drumurile principale din Brig sunt curățate prioritar."
+            ],
+            "en": [
+              "Slightly reduce tire pressure for better grip on snow.",
+              "Battery lights drain faster in the cold. Bring spares.",
+              "Use winter cycling gloves against the wind chill.",
+              "Main roads in Brig are prioritized for snow clearance."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -942,6 +1288,170 @@
           "Plan enough time for the drive to the baths or into the mountains to enjoy the scenery.",
           "The roads in the Alps can be narrow and winding; drive carefully."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie das Parkhaus in der Altstadt, um direkt im trockenen Zentrum zu starten. Der kurze Weg zum Schloss ist ideal.\n\nMittags bewundern Sie das Stockalperschloss. Die Führung bietet eine spannende Zeitreise unter festem Dach.\n\nNachmittags fahren Sie entspannt nach Brigerbad. Die Fahrt durch den Regen wird durch die Aussicht auf warmes Thermalwasser belohnt.\n\nAbends genießen Sie das Bad im Thermalpool, während der Regen auf die Wasseroberfläche prasselt – ein meditatives Erlebnis.",
+            "hu": "Használja az óvárosi parkolóházat, hogy közvetlenül a száraz központban kezdjen. A palotához vezető rövid út ideális.\n\nDélben csodálja meg a Stockalper-palotát. A vezetés izgalmas időutazást kínál biztonságos tető alatt.\n\nDélután autózzon el Brigerbadba. Az esős utazást a meleg termálvíz ígérete teszi kellemessé.\n\nEste élvezze a fürdőzést a termálmedencében, miközben az eső a vízfelszínen kopog – meditatív élmény.",
+            "ro": "Folosiți parcarea subterană din centrul vechi pentru a începe turul la adăpost. Distanța scurtă până la palat e ideală.\n\nLa prânz, admirați Palatul Stockalper. Turul ghidat oferă o călătorie în timp sub un acoperiș sigur.\n\nDupă-amiaza, conduceți relaxat spre Brigerbad. Drumul prin ploaie este răsplătit de perspectiva apei termale calde.\n\nSeara, bucurați-vă de baia în piscina termală în timp ce ploaia cade pe suprafața apei – o experiență meditativă.",
+            "en": "Use the underground parking in the old town to start directly in the dry center. The short walk to the palace is ideal.\n\nAt noon, admire the Stockalper Palace. The tour offers an exciting journey through time under a solid roof.\n\nIn the afternoon, enjoy a relaxed drive to Brigerbad. The drive through the rain is rewarded by the prospect of warm thermal water.\n\nIn the evening, enjoy soaking in the thermal pool while the rain taps on the water surface – a meditative experience."
+          },
+          "stops": [
+            {
+              "name": "Brig Center Cluster: Old Town Parking",
+              "tip_5lang": {
+                "de": "Parkhaus 'Altstadt' ist unterirdisch und trocken.",
+                "hu": "Az 'Altstadt' parkolóház földalatti és száraz.",
+                "ro": "Parcarea 'Altstadt' este subterană și uscată.",
+                "en": "The 'Altstadt' parking garage is underground and dry."
+              }
+            },
+            {
+              "name": "Brig Old Town & Collegiate Church",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen den Sehenswürdigkeiten einplanen.",
+                "hu": "Tervezzen rövid gyalogutakat a látnivalók között.",
+                "ro": "Planificați distanțe scurte între obiective.",
+                "en": "Plan for short walks between the sights."
+              }
+            },
+            {
+              "name": "Stockalper Palace & Gardens",
+              "tip_5lang": {
+                "de": "Der Innenhof ist teilweise durch Arkaden geschützt.",
+                "hu": "A belső udvart részben árkádok védik.",
+                "ro": "Curtea interioară este parțial protejată de arcade.",
+                "en": "The inner courtyard is partially sheltered by arcades."
+              }
+            },
+            {
+              "name": "Brigerbad Cluster: Drive to the Thermal Baths",
+              "tip_5lang": {
+                "de": "Scheibenwischer auf Intervall bei leichtem Regen.",
+                "hu": "Ablaktörlő szakaszos üzemmódra állítása ajánlott.",
+                "ro": "Folosiți ștergătoarele pe modul intermitent.",
+                "en": "Set wipers to intermittent during light rain."
+              }
+            },
+            {
+              "name": "Brigerbad Thermal Baths",
+              "tip_5lang": {
+                "de": "Thermalbaden ist bei Regen besonders gemütlich.",
+                "hu": "Az esőben való fürdőzés különösen hangulatos.",
+                "ro": "Băile termale sunt foarte plăcute pe ploaie.",
+                "en": "Thermal bathing is especially cozy when it rains."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Das Parkhaus Altstadt bietet direkten Zugang zur Fußgängerzone.",
+              "Vermeiden Sie das Parken unter Bäumen wegen herabfallender Äste.",
+              "Die Straße nach Brigerbad ist gut ausgebaut und sicher.",
+              "Im Brigerbad gibt es einen großen Parkplatz direkt beim Eingang."
+            ],
+            "hu": [
+              "Az Altstadt parkolóházból közvetlen út vezet a sétálóutcához.",
+              "Kerülje a fák alatti parkolást a lehulló ágak veszélye miatt.",
+              "A Brigerbadba vezető út jól kiépített és biztonságos.",
+              "Brigerbadban nagy parkoló található közvetlenül a bejáratnál."
+            ],
+            "ro": [
+              "Parcarea Altstadt oferă acces direct la zona pietonală.",
+              "Evitați parcarea sub copaci din cauza crengilor ce pot cădea.",
+              "Drumul spre Brigerbad este bine amenajat și sigur.",
+              "La Brigerbad există o parcare mare chiar lângă intrare."
+            ],
+            "en": [
+              "The Altstadt parking garage offers direct access to the pedestrian zone.",
+              "Avoid parking under trees due to the risk of falling branches.",
+              "The road to Brigerbad is well-maintained and safe.",
+              "Brigerbad has a large parking lot directly at the entrance."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie morgens im beheizten Auto. Die Fahrt durch das winterliche Brig bietet wunderbare Ausblicke auf die schneebedeckten Hänge.\n\nMittags besichtigen Sie das Stockalperschloss. Die Räume sind ein warmer Zufluchtsort vor dem eisigen Wind.\n\nNachmittags führt die Fahrt durch die Winterlandschaft nach Brigerbad. Achten Sie auf mögliche Schneeglätte in den Nebenstraßen.\n\nAbends ist das Brigerbad ein Highlight: Schwimmen Sie im dampfenden Außenpool, während um Sie herum Schnee liegt – ein unvergesslicher Kontrast.",
+            "hu": "Induljon reggel fűtött autóval. Az utazás a téli Brigen át csodálatos kilátást nyújt a hófödte lejtőkre.\n\nDélben látogassa meg a Stockalper-palotát. A termek meleg menedéket nyújtanak a jeges szél elől.\n\nDélután a téli tájon át vezet az út Brigerbadba. Ügyeljen az esetleges jegesedésre a mellékutcákban.\n\nEste a Brigerbad a csúcspont: ússzon a gőzölgő kültéri medencében, miközben körülötte hó fekszik – felejthetetlen kontraszt.",
+            "ro": "Porniți dimineața cu mașina încălzită. Drumul prin Brigul iernatic oferă vederi minunate spre versanții înzăpeziți.\n\nLa prânz, vizitați Palatul Stockalper. Sălile sunt un refugiu cald împotriva vântului înghețat.\n\nDupă-amiaza, drumul prin peisajul de iarnă duce la Brigerbad. Atenție la gheața de pe străzile secundare.\n\nSeara, Brigerbad este punctul culminant: înotați în piscina exterioară aburindă în timp ce totul e plin de zăpadă – un contrast de neuitat.",
+            "en": "Start in the morning with a heated car. Driving through wintery Brig offers wonderful views of the snow-covered slopes.\n\nAt noon, visit the Stockalper Palace. The rooms are a warm sanctuary from the icy wind.\n\nIn the afternoon, the drive through the winter landscape leads to Brigerbad. Watch out for potential ice on side streets.\n\nIn the evening, Brigerbad is the highlight: swim in the steaming outdoor pool while surrounded by snow – an unforgettable contrast."
+          },
+          "stops": [
+            {
+              "name": "Brig Center Cluster: Old Town Parking",
+              "tip_5lang": {
+                "de": "Parkhaus ist frostfrei und schont die Batterie.",
+                "hu": "A parkolóház fagymentes és kíméli az akkumulátort.",
+                "ro": "Parcarea e ferită de îngheț și protejează bateria.",
+                "en": "The parking garage is frost-free and protects the battery."
+              }
+            },
+            {
+              "name": "Brig Old Town & Collegiate Church",
+              "tip_5lang": {
+                "de": "Vorsicht beim Ein- und Aussteigen auf eisigen Rändern.",
+                "hu": "Vigyázat a ki- és beszálláskor a jeges szegélyeknél.",
+                "ro": "Atenție la urcare și coborâre pe marginile înghețate.",
+                "en": "Be careful when getting in and out on icy edges."
+              }
+            },
+            {
+              "name": "Stockalper Palace & Gardens",
+              "tip_5lang": {
+                "de": "Der Gartenweg kann bei Schnee gesperrt sein.",
+                "hu": "A kerti utat nagy hó esetén lezárhatják.",
+                "ro": "Poteca din grădină poate fi închisă în caz de zăpadă.",
+                "en": "The garden path may be closed during heavy snow."
+              }
+            },
+            {
+              "name": "Brigerbad Cluster: Drive to the Thermal Baths",
+              "tip_5lang": {
+                "de": "Winterreifen sind in dieser Region absolut Pflicht.",
+                "hu": "A téli gumi ebben a régióban kötelező.",
+                "ro": "Anvelopele de iarnă sunt obligatorii în această regiune.",
+                "en": "Winter tires are absolutely mandatory in this region."
+              }
+            },
+            {
+              "name": "Brigerbad Thermal Baths",
+              "tip_5lang": {
+                "de": "Dampfendes Wasser bietet tollen Kontrast zur Kälte.",
+                "hu": "A gőzölgő víz remek kontrasztot ad a hideggel.",
+                "ro": "Apa aburindă oferă un contrast superb cu frigul.",
+                "en": "Steaming water offers a great contrast to the cold."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Eiskratzer und Handbesen sollten im Auto bereitliegen.",
+              "Die Hauptstraßen in Brig werden vorbildlich geräumt.",
+              "Achten Sie auf Dachlawinen in der engen Altstadt.",
+              "Brigerbad bietet warme Umkleiden und Föhnbereiche."
+            ],
+            "hu": [
+              "Jégkaparó és kefe legyen kéznél az autóban.",
+              "A brigi főutakat példásan takarítják a hótól.",
+              "Ügyeljen a tetőkről lezúduló hóra a szűk óvárosban.",
+              "Brigerbadban meleg öltözők és hajszárítók várják."
+            ],
+            "ro": [
+              "Răzuitoarea de gheață și peria trebuie să fie la îndemână.",
+              "Drumurile principale din Brig sunt curățate exemplar.",
+              "Atenție la zăpada care poate cădea de pe acoperișuri în oraș.",
+              "Brigerbad oferă vestiare calde și zone cu uscătoare."
+            ],
+            "en": [
+              "Ice scraper and brush should be ready in the car.",
+              "Main roads in Brig are cleared excellently.",
+              "Watch out for snow sliding off roofs in the narrow old town.",
+              "Brigerbad offers warm changing rooms and hair drying areas."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1244,6 +1754,170 @@
           "Check the timetables, especially for the last bus back from Brigerbad.",
           "The SBB Mobile app is very useful for planning routes and buying tickets."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie am Bahnhof Brig, der viele überdachte Bereiche bietet. Die Busse bringen Sie schnell und trocken zu den wichtigsten Punkten.\n\nMittags ist das Stockalperschloss nur einen kurzen Fußweg von der Bushaltestelle entfernt. Die Arkaden bieten Schutz vor dem Regen.\n\nNachmittags bringt Sie der Bus direkt vor die Tür der Gliser Kirche. So minimieren Sie den Aufenthalt im Freien.\n\nAbends ist die Fahrt zum Brigerbad die perfekte Wahl. Die warmen Quellen lassen Sie die kühle Regenluft schnell vergessen.",
+            "hu": "Kezdje a brigi állomáson, ahol sok a fedett rész. A buszok gyorsan és szárazon viszik el a legfontosabb pontokhoz.\n\nDélben a Stockalper-palota csak egy rövid séta a buszmegállótól. Az árkádok védelmet nyújtanak az eső ellen.\n\nDélután a busz közvetlenül a glisi templom elé viszi. Így minimalizálhatja a szabadban töltött időt.\n\nEste a Brigerbadba vezető buszút a tökéletes választás. A meleg források feledtetik a hűvös esőt.",
+            "ro": "Începeți la gara Brig, care oferă multe zone acoperite. Autobuzele vă duc rapid și la adăpost spre punctele principale.\n\nLa prânz, Palatul Stockalper e la doar câțiva pași de stație. Arcadele oferă protecție împotriva ploii.\n\nDupă-amiaza, autobuzul vă lasă chiar în fața bisericii din Glis. Astfel minimizați timpul petrecut afară.\n\nSeara, călătoria spre Brigerbad este alegerea perfectă. Izvoarele calde vă vor face să uitați de ploaia rece.",
+            "en": "Start at Brig station, which offers many covered areas. Buses take you quickly and dryly to the most important points.\n\nAt noon, Stockalper Palace is only a short walk from the bus stop. The arcades provide shelter from the rain.\n\nIn the afternoon, the bus drops you off right in front of the Glis church. This minimizes your time spent outdoors.\n\nIn the evening, the bus ride to Brigerbad is the perfect choice. The warm springs make you quickly forget the cool rain."
+          },
+          "stops": [
+            {
+              "name": "Brig Center Cluster: Arrival at Train Station",
+              "tip_5lang": {
+                "de": "Wartebereiche im Bahnhof sind trocken und windgeschützt.",
+                "hu": "Az állomás várótermei szárazak és szélvédettek.",
+                "ro": "Zonele de așteptare din gară sunt uscate și protejate.",
+                "en": "Waiting areas in the station are dry and sheltered."
+              }
+            },
+            {
+              "name": "Brig Old Town & Stockalper Palace",
+              "tip_5lang": {
+                "de": "Bushaltestelle 'Brig, Schloss' nutzen für kürzesten Weg.",
+                "hu": "Használja a 'Brig, Schloss' megállót a legrövidebb úthoz.",
+                "ro": "Folosiți stația 'Brig, Schloss' pentru cel mai scurt drum.",
+                "en": "Use the 'Brig, Schloss' bus stop for the shortest walk."
+              }
+            },
+            {
+              "name": "Glis Cluster: Bus to the Pilgrimage Church",
+              "tip_5lang": {
+                "de": "Busse fahren im dichten Takt, kaum Wartezeit im Regen.",
+                "hu": "A buszok sűrűn járnak, alig kell várni az esőben.",
+                "ro": "Autobuzele circulă frecvent, așteptare minimă în ploaie.",
+                "en": "Buses run frequently, minimal waiting time in the rain."
+              }
+            },
+            {
+              "name": "Brigerbad Cluster: Bus to the Thermal Baths",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist fast direkt vor dem Thermaleingang.",
+                "hu": "A megálló szinte közvetlenül a fürdő bejárata előtt van.",
+                "ro": "Stația este aproape în fața intrării la termale.",
+                "en": "The stop is almost directly in front of the thermal entrance."
+              }
+            },
+            {
+              "name": "Brigerbad Thermal Baths",
+              "tip_5lang": {
+                "de": "Bademantel im Innenbereich nutzen zum Aufwärmen.",
+                "hu": "Használjon fürdőköpenyt a belső térben a bemelegedéshez.",
+                "ro": "Folosiți halatul în interior pentru a vă încălzi.",
+                "en": "Use a bathrobe indoors to stay warm."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die SBB Mobile App für Echtzeit-Infos bei Regen.",
+              "Der Bahnhof Brig verfügt über eine große, trockene Unterführung.",
+              "Die Postautos nach Brigerbad sind modern und klimatisiert.",
+              "Ein Tagespass (Abonnement) lohnt sich für die vielen kurzen Fahrten."
+            ],
+            "hu": [
+              "Használja az SBB Mobile appot a valós idejű infókért.",
+              "A brigi állomás nagy, száraz aluljáróval rendelkezik.",
+              "A Brigerbadba tartó postabuszok modernek és légkondicionáltak.",
+              "A napijegy megéri a sok rövid utazás miatt."
+            ],
+            "ro": [
+              "Folosiți aplicația SBB Mobile pentru info în timp real.",
+              "Gara Brig are un subpasaj mare și uscat.",
+              "Autobuzele poștale spre Brigerbad sunt moderne.",
+              "Un abonament de o zi merită pentru numeroasele drumuri scurte."
+            ],
+            "en": [
+              "Use the SBB Mobile app for real-time info during rain.",
+              "Brig station has a large, dry underpass.",
+              "Postbuses to Brigerbad are modern and comfortable.",
+              "A day pass is worth it for the many short trips."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie morgens die Fahrt im gut beheizten Postauto. Der Blick aus dem Fenster auf die verschneiten Walliser Berge ist traumhaft.\n\nMittags erreichen Sie das Stockalperschloss bequem per Bus. Die kurzen Fußwege halten den Kontakt mit der Kälte gering.\n\nNachmittags bringt Sie der Transit direkt in das winterliche Glis. Die beleuchtete Kirche wirkt im Schnee besonders mystisch.\n\nAbends ist die Rückfahrt von Brigerbad entspannend. Der Kontrast zwischen der Kälte draußen und dem warmen Bus ist nach dem Thermalbad wunderbar.",
+            "hu": "Élvezze reggel az utazást a jól fűtött postabuszon. Az ablakból nyíló kilátás a havas vallisi hegyekre mesés.\n\nDélben kényelmesen, busszal érheti el a Stockalper-palotát. A rövid gyalogutak minimálisra csökkentik a hideggel való érintkezést.\n\nDélután a tömegközlekedés egyenesen a téli Glisbe viszi. A kivilágított templom a hóban különösen misztikus.\n\nEste a visszatérés Brigerbadból pihentető. A kinti hideg és a meleg busz kontrasztja a fürdő után csodálatos.",
+            "ro": "Bucurați-vă dimineața de drumul cu autobuzul poștal bine încălzit. Vederea spre munții înzăpeziți este de vis.\n\nLa prânz, ajungeți confortabil cu autobuzul la Palatul Stockalper. Distanțele scurte de mers pe jos vă feresc de frig.\n\nDupă-amiaza, tranzitul vă duce direct în Glis-ul hibernal. Biserica luminată pare mistică în zăpadă.\n\nSeara, drumul de întoarcere de la Brigerbad este relaxant. Contrastul dintre frigul de afară și autobuzul cald e minunat după baie.",
+            "en": "In the morning, enjoy the ride in a well-heated postbus. The view from the window of the snowy Valais mountains is dreamlike.\n\nAt noon, reach the Stockalper Palace comfortably by bus. Short walking distances keep contact with the cold to a minimum.\n\nIn the afternoon, transit takes you directly into wintery Glis. The illuminated church looks especially mystical in the snow.\n\nIn the evening, the return trip from Brigerbad is relaxing. The contrast between the cold outside and the warm bus is wonderful after the thermal baths."
+          },
+          "stops": [
+            {
+              "name": "Brig Center Cluster: Arrival at Train Station",
+              "tip_5lang": {
+                "de": "Warme Cafés im Bahnhof laden zum Verweilen ein.",
+                "hu": "Meleg kávézók várják az állomáson a várakozás alatt.",
+                "ro": "Cafenelele calde din gară sunt ideale pentru așteptare.",
+                "en": "Warm cafes in the station are perfect for a break."
+              }
+            },
+            {
+              "name": "Brig Old Town & Stockalper Palace",
+              "tip_5lang": {
+                "de": "Busse sind im Winter meist pünktlich trotz Schnee.",
+                "hu": "A buszok télen is általában pontosak a hó ellenére.",
+                "ro": "Autobuzele sunt punctuale iarna în ciuda zăpezii.",
+                "en": "Buses are usually punctual in winter despite snow."
+              }
+            },
+            {
+              "name": "Glis Cluster: Bus to the Pilgrimage Church",
+              "tip_5lang": {
+                "de": "Genießen Sie die beheizten Sitze im Postauto.",
+                "hu": "Élvezze a fűtött üléseket a postabuszon.",
+                "ro": "Bucurați-vă de scaunele încălzite din autobuz.",
+                "en": "Enjoy the heated seats in the postbus."
+              }
+            },
+            {
+              "name": "Brigerbad Cluster: Bus to the Thermal Baths",
+              "tip_5lang": {
+                "de": "Die letzte Rückfahrt am Abend im Fahrplan prüfen.",
+                "hu": "Ellenőrizze az utolsó esti járatot a menetrendben.",
+                "ro": "Verificați ultima cursă de seară în orar.",
+                "en": "Check the schedule for the last return trip in the evening."
+              }
+            },
+            {
+              "name": "Brigerbad Thermal Baths",
+              "tip_5lang": {
+                "de": "Haare vor dem Verlassen des Bads gut trocknen.",
+                "hu": "Távozás előtt szárítsa meg alaposan a haját.",
+                "ro": "Uscați-vă bine părul înainte de a pleca de la băi.",
+                "en": "Dry your hair thoroughly before leaving the baths."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Bahnhof Brig ist ein wichtiger Umsteigeknoten mit warmem Wartesaal.",
+              "Postautos haben oft Skihalterungen, nützlich für Wintergepäck.",
+              "Die Fahrpläne sind auch bei Schneefall zuverlässig.",
+              "Vermeiden Sie lange Wartezeiten an zugigen Haltestellen."
+            ],
+            "hu": [
+              "A brigi állomás fontos csomópont meleg váróteremmel.",
+              "A postabuszokon gyakran van sítartó a téli csomagoknak.",
+              "A menetrendek havazás idején is megbízhatóak.",
+              "Kerülje a hosszú várakozást a huzatos megállókban."
+            ],
+            "ro": [
+              "Gara Brig este un nod important cu sală de așteptare caldă.",
+              "Autobuzele au adesea suporturi pentru schiuri.",
+              "Orarele sunt de încredere chiar și în caz de ninsoare.",
+              "Evitați așteptările lungi în stațiile unde trage curentul."
+            ],
+            "en": [
+              "Brig station is a major hub with a warm waiting room.",
+              "Postbuses often have ski racks, useful for winter gear.",
+              "Schedules remain reliable even during snowfall.",
+              "Avoid long waiting times at drafty bus stops."
+            ]
+          }
+        }
       }
     }
   }

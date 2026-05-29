@@ -356,6 +356,188 @@
           "Check the opening hours of the KUBEN Museum in advance as they can vary seasonally.",
           "An evening walk along the harbour offers a different, more tranquil perspective of the city."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Am Morgen glänzen die bunten Holzhäuser von Tyholmen im Regen besonders intensiv. Mittags bietet die Hafengegend Pollen gemütliche Cafés, um dem grauen Himmel zu entkommen. Nachmittags erkunden wir die prachtvollen Innenräume des Rathauses und der Dreifaltigkeitskirche. Der Abend im KUBEN Museum ist der perfekte Abschluss, um trocken in die regionale Geschichte einzutauchen.",
+            "hu": "Reggel Tyholmen színes faházai az esőben még élénkebben ragyognak. Délben a Pollen kikötő környéke hangulatos kávézókkal vár, ahol elmenekülhetünk a szürke égbolt elől. Délután a Városháza és a Szentháromság-templom belső tereit fedezzük fel. Az estét a KUBEN Múzeumban zárjuk, ahol szárazon merülhetünk el a régió történelmében.",
+            "ro": "Dimineața, casele colorate de lemn din Tyholmen strălucesc intens în ploaie. La prânz, zona portului Pollen oferă cafenele primitoare pentru a scăpa de cerul cenușiu. După-amiaza explorăm interioarele superbe ale Primăriei și ale Bisericii Sfânta Treime. Seara la Muzeul KUBEN este încheierea perfectă pentru a descoperi istoria regională la adăpost.",
+            "en": "In the morning, the colorful wooden houses of Tyholmen shine intensely in the rain. At noon, the Pollen harbour area offers cozy cafes to escape the grey sky. In the afternoon, we explore the grand interiors of the Town Hall and Trinity Church. The evening at KUBEN Museum is the perfect way to end the day, staying dry while diving into regional history."
+          },
+          "stops": [
+            {
+              "name": "Tyholmen (Old Town)",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem nassen Kopfsteinpflaster in den engen Gassen.",
+                "hu": "Vigyázzon a vizes macskaköveken a szűk utcákban.",
+                "ro": "Atenție la pavajul umed de pe străduțele înguste.",
+                "en": "Be careful on the wet cobblestones in the narrow alleys."
+              }
+            },
+            {
+              "name": "Pollen (Harbour)",
+              "tip_5lang": {
+                "de": "Die Cafés am Wasser bieten warme Waffeln und Schutz vor Regen.",
+                "hu": "A vízparti kávézók meleg gofrit és védelmet nyújtanak az eső ellen.",
+                "ro": "Cafenelele de pe mal oferă vafe calde și adăpost împotriva ploii.",
+                "en": "Waterfront cafes offer warm waffles and shelter from the rain."
+              }
+            },
+            {
+              "name": "Arendal Town Hall",
+              "tip_5lang": {
+                "de": "Ein hervorragender Ort, um die Architektur im Trockenen zu bewundern.",
+                "hu": "Kiváló hely az építészet megcsodálására száraz helyen.",
+                "ro": "Un loc excelent pentru a admira arhitectura la adăpost.",
+                "en": "An excellent place to admire the architecture while staying dry."
+              }
+            },
+            {
+              "name": "Trinity Church",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe und das Prasseln des Regens gegen die Fenster.",
+                "hu": "Élvezze a csendet és az eső kopogását az ablakokon.",
+                "ro": "Bucurați-vă de liniște și de sunetul ploii în ferestre.",
+                "en": "Enjoy the peace and the sound of rain against the windows."
+              }
+            },
+            {
+              "name": "Lunch near the harbour",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit überdachtem Eingangsbereich.",
+                "hu": "Válasszon fedett bejárattal rendelkező éttermet.",
+                "ro": "Alegeți un restaurant cu o intrare acoperită.",
+                "en": "Choose a restaurant with a covered entrance area."
+              }
+            },
+            {
+              "name": "KUBEN Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe für Ihre nasse Regenkleidung.",
+                "hu": "Használja a ruhatárat a nedves esőruhák tárolására.",
+                "ro": "Folosiți garderoba pentru hainele de ploaie ude.",
+                "en": "Use the cloakroom for your wet rain gear."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Regenschirm ist bei Küstenwind in Arendal unerlässlich.",
+              "Wasserdichte Schuhe sind für das Kopfsteinpflaster der Altstadt wichtig.",
+              "Viele Museen und Kirchen bieten kostenlose Schirmständer an.",
+              "Nutzen Sie die Passage im Rathaus als Abkürzung im Trockenen."
+            ],
+            "hu": [
+              "A tengerparti szél miatt egy erős esernyő elengedhetetlen Arendalban.",
+              "A vízálló cipő fontos az óváros macskaköves utcáin.",
+              "Sok múzeum és templom kínál ingyenes esernyőtartót.",
+              "Használja a városháza átjáróját száraz rövidítésként."
+            ],
+            "ro": [
+              "O umbrelă rezistentă este esențială din cauza vântului de coastă din Arendal.",
+              "Încălțămintea impermeabilă este importantă pentru străzile cu piatră cubică.",
+              "Multe muzee și biserici oferă suporturi gratuite pentru umbrele.",
+              "Folosiți pasajul de la primărie ca scurtătură la adăpost."
+            ],
+            "en": [
+              "A sturdy umbrella is essential due to the coastal wind in Arendal.",
+              "Waterproof shoes are important for the cobblestones of the old town.",
+              "Many museums and churches offer free umbrella stands.",
+              "Use the passage at the town hall as a dry shortcut."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Arendal verwandelt sich im Winter in ein stilles Küstenmärchen mit glitzerndem Frost auf den Holzhäusern. Mittags wärmt uns die tiefstehende Sonne am Hafen, während wir die frische Meeresluft genießen. Nachmittags laden die historischen Gebäude zu einer Zeitreise im Warmen ein. Wenn die Dunkelheit früh einbricht, leuchtet das KUBEN Museum als kulturelles Zentrum der Stadt.",
+            "hu": "Arendal télen csendes tengerparti tündérmesévé válik, csillogó zúzmarával a faházakon. Délben a mélyen járó nap melenget minket a kikötőben, miközben a friss tengeri levegőt élvezzük. Délután a történelmi épületek hívnak meleg időutazásra. Amikor korán leszáll az éj, a KUBEN Múzeum a város kulturális központjaként ragyog fel.",
+            "ro": "Arendal se transformă iarna într-un basm de coastă liniștit, cu promoroacă strălucitoare pe casele de lemn. La prânz, soarele jos ne încălzește în port, în timp ce ne bucurăm de aerul proaspăt marin. După-amiaza, clădirile istorice ne invită la o călătorie în timp la căldură. Când întunericul coboară devreme, Muzeul KUBEN strălucește ca centru cultural al orașului.",
+            "en": "Arendal transforms into a quiet coastal fairytale in winter, with sparkling frost on the wooden houses. At noon, the low sun warms us at the harbour while we enjoy the fresh sea air. In the afternoon, the historical buildings invite us for a warm journey through time. As darkness falls early, the KUBEN Museum shines as the city's cultural heart."
+          },
+          "stops": [
+            {
+              "name": "Tyholmen (Old Town)",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis in den schattigen, engen Gassen.",
+                "hu": "Ügyeljen a jegesedésre az árnyékos, szűk utcákban.",
+                "ro": "Atenție la polei pe străduțele înguste și umbrite.",
+                "en": "Watch out for black ice in the shaded, narrow alleys."
+              }
+            },
+            {
+              "name": "Pollen (Harbour)",
+              "tip_5lang": {
+                "de": "Die Boote im gefrorenen Hafen bieten ein tolles Fotomotiv.",
+                "hu": "A befagyott kikötőben álló hajók remek fotótémát nyújtanak.",
+                "ro": "Barcile din portul înghețat oferă o oportunitate excelentă pentru poze.",
+                "en": "The boats in the frozen harbour provide a great photo opportunity."
+              }
+            },
+            {
+              "name": "Arendal Town Hall",
+              "tip_5lang": {
+                "de": "Genießen Sie die behagliche Wärme im größten Holzgebäude Norwegens.",
+                "hu": "Élvezze a hangulatos meleget Norvégia legnagyobb faépületében.",
+                "ro": "Bucurați-vă de căldura primitoare în cea mai mare clădire de lemn din Norvegia.",
+                "en": "Enjoy the cozy warmth inside Norway's largest wooden building."
+              }
+            },
+            {
+              "name": "Trinity Church",
+              "tip_5lang": {
+                "de": "Die Winterbeleuchtung verleiht dem Innenraum eine magische Atmosphäre.",
+                "hu": "A téli kivilágítás varázslatos hangulatot kölcsönöz a belső térnek.",
+                "ro": "Iluminatul de iarnă oferă interiorului o atmosferă magică.",
+                "en": "The winter lighting gives the interior a magical atmosphere."
+              }
+            },
+            {
+              "name": "Lunch near the harbour",
+              "tip_5lang": {
+                "de": "Probieren Sie eine traditionelle, wärmende Fischsuppe.",
+                "hu": "Kóstoljon meg egy hagyományos, melengető hallevest.",
+                "ro": "Încercați o supă de pește tradițională și caldă.",
+                "en": "Try a traditional, warming fish soup."
+              }
+            },
+            {
+              "name": "KUBEN Museum",
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um den kalten Nachmittag im Warmen zu verbringen.",
+                "hu": "Tökéletes hely a hideg délután melegben való eltöltésére.",
+                "ro": "Locul perfect pentru a petrece după-amiaza rece la căldură.",
+                "en": "The perfect place to spend the cold afternoon in the warm."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Winter bereits gegen 15:30 Uhr unter.",
+              "Tragen Sie Reflektoren, da es in den Gassen schnell dunkel wird.",
+              "Zwiebelprinzip bei der Kleidung schützt vor dem eisigen Küstenwind.",
+              "Wollsocken sind in den oft kühleren Kirchen von Vorteil."
+            ],
+            "hu": [
+              "Télen a nap már 15:30 körül lenyugszik.",
+              "Viseljen fényvisszaverőt, mert az utcákon gyorsan sötétedik.",
+              "A réteges öltözködés véd a jeges tengerparti széltől.",
+              "A gyapjúzokni előnyös a gyakran hűvösebb templomokban."
+            ],
+            "ro": [
+              "Soarele apune deja în jur de ora 15:30 iarna.",
+              "Purtați reflectorizante, deoarece se întunecă repede pe străzi.",
+              "Îmbrăcămintea în straturi protejează împotriva vântului înghețat de coastă.",
+              "Șosetele de lână sunt avantajoase în bisericile adesea mai răcoroase."
+            ],
+            "en": [
+              "The sun sets as early as 3:30 PM in winter.",
+              "Wear reflectors, as it gets dark quickly in the alleys.",
+              "Layering your clothes protects against the icy coastal wind.",
+              "Woolen socks are beneficial in the often cooler churches."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -729,6 +911,206 @@
           "Bring a water bottle and snacks for the ride to Hisøy.",
           "Always lock your bike securely, especially near tourist attractions."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert die richtige Ausrüstung, belohnt aber mit einsamen Wegen am Pollen. Mittags radeln wir durch die glänzenden Gassen von Tyholmen, wo das Holz im nassen Zustand leuchtet. Nachmittags geht es über die Brücke zur Hisøy Kirche, wobei der Nebel über dem Wasser mystisch wirkt. Den Tag lassen wir entspannt im KUBEN Museum ausklingen.",
+            "hu": "Az esős kerékpározás megfelelő felszerelést igényel, de magányos utakkal jutalmaz a Pollennél. Délben Tyholmen csillogó utcáin tekerünk, ahol a fa nedvesen ragyog. Délután áttekerünk a hídon a Hisøy-templomhoz, ahol a víz feletti köd misztikus látványt nyújt. A napot a KUBEN Múzeumban zárjuk pihentetően.",
+            "ro": "O tură cu bicicleta în ploaie necesită echipament adecvat, dar oferă trasee solitare la Pollen. La prânz pedalăm prin străduțele strălucitoare din Tyholmen, unde lemnul capătă un luciu aparte. După-amiaza traversăm podul spre biserica Hisøy, în timp ce ceața de deasupra apei pare mistică. Încheiem ziua relaxați la Muzeul KUBEN.",
+            "en": "Cycling in the rain requires the right gear but rewards you with lonely paths by Pollen. At noon, we pedal through the shining alleys of Tyholmen, where the wood glows when wet. In the afternoon, we cross the bridge to Hisøy Church, where the mist over the water looks mystical. We end the day in a relaxed way at the KUBEN Museum."
+          },
+          "stops": [
+            {
+              "name": "Pollen (Harbour)",
+              "tip_5lang": {
+                "de": "Achten Sie auf rutschige Metallkanten an den Stegen.",
+                "hu": "Ügyeljen a csúszós fémperemekre a mólókon.",
+                "ro": "Atenție la marginile metalice alunecoase de pe pontoane.",
+                "en": "Watch out for slippery metal edges on the piers."
+              }
+            },
+            {
+              "name": "Tyholmen (Old Town)",
+              "tip_5lang": {
+                "de": "Fahren Sie langsam auf dem nassen Kopfsteinpflaster.",
+                "hu": "Hajtson lassan a nedves macskakövön.",
+                "ro": "Mergeți încet pe piatra cubică umedă.",
+                "en": "Ride slowly on the wet cobblestones."
+              }
+            },
+            {
+              "name": "Hisøy Church",
+              "tip_5lang": {
+                "de": "Ein guter Ort für eine kurze Pause im Trockenen.",
+                "hu": "Jó hely egy rövid, száraz szünetre.",
+                "ro": "Un loc bun pentru o scurtă pauză la uscat.",
+                "en": "A good place for a short break in the dry."
+              }
+            },
+            {
+              "name": "Lunch on Hisøy",
+              "tip_5lang": {
+                "de": "Suchen Sie ein Café mit Fahrradständern direkt am Eingang.",
+                "hu": "Keressen olyan kávézót, ahol a bejáratnál van kerékpártároló.",
+                "ro": "Căutați o cafenea cu suporturi de biciclete direct la intrare.",
+                "en": "Look for a cafe with bike racks right at the entrance."
+              }
+            },
+            {
+              "name": "KUBEN Museum",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad auf den befestigten Flächen.",
+                "hu": "Parkolja le kerékpárját a szilárd burkolatú területeken.",
+                "ro": "Parcați bicicleta pe suprafețele pavate.",
+                "en": "Park your bike on the paved surfaces."
+              }
+            },
+            {
+              "name": "Trinity Church",
+              "tip_5lang": {
+                "de": "Der Vorplatz kann bei Regen rutschig sein.",
+                "hu": "Az előtér esőben csúszós lehet.",
+                "ro": "Piațeta din față poate fi alunecoasă pe ploaie.",
+                "en": "The forecourt can be slippery in the rain."
+              }
+            },
+            {
+              "name": "Relaxation at Pollen",
+              "tip_5lang": {
+                "de": "Ein heißer Tee nach der Tour wirkt Wunder.",
+                "hu": "Egy forró tea a túra után csodákra képes.",
+                "ro": "Un ceai fierbinte după tură face minuni.",
+                "en": "A hot tea after the tour works wonders."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Bremsen, da der Bremsweg auf nassem Untergrund länger ist.",
+              "Wasserdichte Packtaschen halten Ihre Sachen trocken.",
+              "Vermeiden Sie Pfützen, da diese tiefe Schlaglöcher verbergen können.",
+              "Ein Sattelüberzug verhindert eine nasse Hose beim Losfahren."
+            ],
+            "hu": [
+              "Ellenőrizze a fékeket, mert vizes úton hosszabb a féktáv.",
+              "A vízálló táskák szárazon tartják a holmiját.",
+              "Kerülje a tócsákat, mert mély kátyúkat rejthetnek.",
+              "A nyeregvédő megakadályozza, hogy vizes legyen a nadrágja induláskor."
+            ],
+            "ro": [
+              "Verificați frânele, deoarece distanța de frânare este mai mare pe carosabil umed.",
+              "Genzile impermeabile vă vor păstra lucrurile uscate.",
+              "Evitați bălțile, deoarece pot ascunde gropi adânci.",
+              "O husă pentru șa previne umezirea pantalonilor la plecare."
+            ],
+            "en": [
+              "Check your brakes, as braking distance is longer on wet surfaces.",
+              "Waterproof panniers will keep your belongings dry.",
+              "Avoid puddles, as they can hide deep potholes.",
+              "A saddle cover prevents wet pants when starting your ride."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in Arendal ist erfrischend und bietet klare Küstenausblicke. Mittags erkunden wir das frostige Tyholmen und radeln weiter zur Hisøy Kirche, wo die verschneite Landschaft friedlich wirkt. Nachmittags wärmen wir uns im KUBEN Museum auf, bevor wir bei einsetzender Dämmerung zur Trinity Church zurückkehren. Der Tag endet mit einem heißen Getränk am beleuchteten Pollen.",
+            "hu": "A téli kerékpározás Arendalban frissítő, és tiszta tengerparti kilátást nyújt. Délben a fagyos Tyholment fedezzük fel, majd a Hisøy-templomhoz tekerünk, ahol a havas táj békésnek tűnik. Délután a KUBEN Múzeumban melegszünk fel, mielőtt a szürkületben visszatérnénk a Szentháromság-templomhoz. A nap a kivilágított Pollennél zárul egy forró itallal.",
+            "ro": "Pedalatul pe timp de iarnă în Arendal este revigorant și oferă vederi clare spre coastă. La prânz explorăm Tyholmen înghețat și pedalăm spre biserica Hisøy, unde peisajul înzăpezit pare liniștit. După-amiaza ne încălzim la Muzeul KUBEN, înainte de a ne întoarce la biserica Sfânta Treime la amurg. Ziua se încheie cu o băutură caldă la Pollen-ul iluminat.",
+            "en": "Winter cycling in Arendal is refreshing and offers clear coastal views. At noon, we explore frosty Tyholmen and cycle further to Hisøy Church, where the snowy landscape looks peaceful. In the afternoon, we warm up in the KUBEN Museum before returning to Trinity Church as dusk falls. The day ends with a hot drink by the illuminated Pollen."
+          },
+          "stops": [
+            {
+              "name": "Pollen (Harbour)",
+              "tip_5lang": {
+                "de": "Achten Sie auf überfrierende Nässe am Hafenbecken.",
+                "hu": "Ügyeljen a fagyott nedvességre a kikötőmedence mellett.",
+                "ro": "Atenție la polei în apropierea bazinului portuar.",
+                "en": "Watch out for black ice near the harbour basin."
+              }
+            },
+            {
+              "name": "Tyholmen (Old Town)",
+              "tip_5lang": {
+                "de": "Einige Gassen werden im Winter nicht geräumt.",
+                "hu": "Néhány szűk utcát télen nem takarítanak.",
+                "ro": "Unele străduțe nu sunt deszăpezite iarna.",
+                "en": "Some narrow alleys are not cleared in winter."
+              }
+            },
+            {
+              "name": "Hisøy Church",
+              "tip_5lang": {
+                "de": "Die Fahrt über die Brücke kann sehr windig und kalt sein.",
+                "hu": "A hídon való átkelés nagyon szeles és hideg lehet.",
+                "ro": "Traversarea podului poate fi foarte vântoasă și rece.",
+                "en": "The ride over the bridge can be very windy and cold."
+              }
+            },
+            {
+              "name": "Lunch on Hisøy",
+              "tip_5lang": {
+                "de": "Ein herzhaftes warmes Essen gibt Energie für den Rückweg.",
+                "hu": "Egy bőséges meleg étel energiát ad a visszaútra.",
+                "ro": "O masă caldă consistentă vă oferă energie pentru drumul de întoarcere.",
+                "en": "A hearty warm meal gives energy for the ride back."
+              }
+            },
+            {
+              "name": "KUBEN Museum",
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihre Schaltung nicht eingefroren ist.",
+                "hu": "Győződjön meg róla, hogy a váltója nincs befagyva.",
+                "ro": "Asigurați-vă că schimbătorul de viteze nu a înghețat.",
+                "en": "Make sure your gear shift is not frozen."
+              }
+            },
+            {
+              "name": "Trinity Church",
+              "tip_5lang": {
+                "de": "Das Licht der Kirche wirkt im Schnee besonders einladend.",
+                "hu": "A templom fénye a hóban különösen hívogató.",
+                "ro": "Lumina bisericii pare deosebit de primitoare în zăpadă.",
+                "en": "The church light looks especially inviting in the snow."
+              }
+            },
+            {
+              "name": "Relaxation at Pollen",
+              "tip_5lang": {
+                "de": "Genießen Sie die blaue Stunde am Wasser.",
+                "hu": "Élvezze a kék órát a vízparton.",
+                "ro": "Bucurați-vă de ora albastră lângă apă.",
+                "en": "Enjoy the blue hour by the water."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Spikereifen sind bei Eis auf den Straßen von Arendal sehr ratsam.",
+              "Batteriebetriebene Lichter entladen sich bei Kälte schneller.",
+              "Tragen Sie warme Handschuhe, um Ihre Finger beweglich zu halten.",
+              "Kürzen Sie die Tour ab, wenn der Wind zu stark wird."
+            ],
+            "hu": [
+              "A tüskés gumi nagyon ajánlott Arendal jeges útjain.",
+              "Az elemes lámpák hidegben gyorsabban lemerülnek.",
+              "Viseljen meleg kesztyűt, hogy ujjai mozgékonyak maradjanak.",
+              "Rövidítse le a túrát, ha a szél túl erőssé válik."
+            ],
+            "ro": [
+              "Anvelopele cu ținte sunt foarte recomandate pe străzile înghețate din Arendal.",
+              "Luminile cu baterii se descarcă mai repede la frig.",
+              "Purtați mănuși groase pentru a vă păstra degetele mobile.",
+              "Scurtați turul dacă vântul devine prea puternic."
+            ],
+            "en": [
+              "Studded tires are highly recommended on Arendal's icy roads.",
+              "Battery-powered lights discharge faster in the cold.",
+              "Wear warm gloves to keep your fingers mobile.",
+              "Shorten the tour if the wind becomes too strong."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1108,6 +1490,206 @@
           "Allow plenty of time for the ferry ride and exploring Merdø.",
           "The roads around Arendal are narrow and winding, drive carefully."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden wir Arendal flexibel und bleiben zwischen den Stopps im Trockenen. Nach dem Besuch der Altstadt fahren wir zum Bomsholmen Museum, um mehr über die Industriegeschichte zu erfahren. Mittags bringt uns die Fähre zur Insel Merdø, wo wir trotz Regen die raue Küstennatur erleben. Der Tag endet mit einem spektakulären Blick auf die Leuchttürme von Torungen.",
+            "hu": "Autóval rugalmasan fedezzük fel Arendalt, és a megállók között szárazon maradunk. Az óváros után a Bomsholmen Múzeumhoz hajtunk, hogy többet tudjunk meg az ipartörténetről. Délben komp visz Merdø szigetére, ahol az eső ellenére is megismerjük a vad tengerparti természetet. A nap a Torungen világítótornyokra nyíló látványos kilátással zárul.",
+            "ro": "Cu mașina explorăm Arendal în mod flexibil și rămânem la adăpost între opriri. După vizitarea orașului vechi, conducem spre Muzeul Bomsholmen pentru a afla mai multe despre istoria industrială. La prânz, feribotul ne duce pe insula Merdø, unde experimentăm natura costieră aspră în ciuda ploii. Ziua se încheie cu o vedere spectaculoasă asupra farurilor Torungen.",
+            "en": "By car, we explore Arendal flexibly and stay dry between stops. After visiting the old town, we drive to the Bomsholmen Museum to learn more about industrial history. At noon, the ferry takes us to Merdø Island, where we experience the raw coastal nature despite the rain. The day ends with a spectacular view of the Torungen lighthouses."
+          },
+          "stops": [
+            {
+              "name": "Park and Walk in the Center",
+              "tip_5lang": {
+                "de": "Nutzen Sie Parkhäuser, um direkt im Trockenen auszusteigen.",
+                "hu": "Használja a parkolóházakat, hogy közvetlenül száraz helyen szálljon ki.",
+                "ro": "Folosiți parcările etajate pentru a coborí direct la adăpost.",
+                "en": "Use parking garages to exit directly into the dry."
+              }
+            },
+            {
+              "name": "Tyholmen & Pollen",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen den Gebäuden minimieren den Regen.",
+                "hu": "Az épületek közötti rövid távok minimalizálják az ázást.",
+                "ro": "Distanțele scurte între clădiri minimizează expunerea la ploaie.",
+                "en": "Short distances between buildings minimize rain exposure."
+              }
+            },
+            {
+              "name": "Town Hall & Trinity Church",
+              "tip_5lang": {
+                "de": "Parkplätze sind in der Nähe der Kirche oft verfügbar.",
+                "hu": "A templom közelében gyakran van szabad parkolóhely.",
+                "ro": "Locurile de parcare sunt adesea disponibile lângă biserică.",
+                "en": "Parking spaces are often available near the church."
+              }
+            },
+            {
+              "name": "Drive to Bomsholmen Museum",
+              "tip_5lang": {
+                "de": "Die Fahrt bietet schöne Ausblicke auf den geschwollenen Fluss.",
+                "hu": "Az út szép kilátást nyújt a megduzzadt folyóra.",
+                "ro": "Drumul oferă priveliști frumoase asupra râului umflat.",
+                "en": "The drive offers beautiful views of the swollen river."
+              }
+            },
+            {
+              "name": "Drive to Merdø Island (Ferry Pier)",
+              "tip_5lang": {
+                "de": "Prüfen Sie, ob die Fähre bei starkem Wind planmäßig verkehrt.",
+                "hu": "Ellenőrizze, hogy erős szélben is menetrend szerint jár-e a komp.",
+                "ro": "Verificați dacă feribotul circulă conform programului pe vânt puternic.",
+                "en": "Check if the ferry is running on schedule during strong winds."
+              }
+            },
+            {
+              "name": "Exploring Merdø",
+              "tip_5lang": {
+                "de": "Regenjacken sind auf der windigen Insel unerlässlich.",
+                "hu": "Az esőkabát elengedhetetlen a szeles szigeten.",
+                "ro": "Jachetele de ploaie sunt esențiale pe insula vântoasă.",
+                "en": "Rain jackets are essential on the windy island."
+              }
+            },
+            {
+              "name": "View of Torungen Lighthouses",
+              "tip_5lang": {
+                "de": "Genießen Sie den dramatischen Blick bequem aus dem Auto.",
+                "hu": "Élvezze a drámai kilátást kényelmesen az autóból.",
+                "ro": "Bucurați-vă de vederea dramatică din confortul mașinii.",
+                "en": "Enjoy the dramatic view from the comfort of your car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sicht kann bei starkem Regen an der Küste eingeschränkt sein.",
+              "Parkplätze am Hafen sind bei Regen oft schneller belegt.",
+              "Halten Sie die Scheibenwischer in gutem Zustand.",
+              "Die Fähre nach Merdø hat einen überdachten Bereich."
+            ],
+            "hu": [
+              "Heves esőben a látótávolság korlátozott lehet a parton.",
+              "A kikötői parkolók esőben gyakran gyorsabban megtelnek.",
+              "Tartsa jó állapotban az ablaktörlőket.",
+              "A Merdø-kompnak van fedett része."
+            ],
+            "ro": [
+              "Vizibilitatea poate fi limitată pe coastă în timpul ploilor abundente.",
+              "Parcările din port se ocupă adesea mai repede pe ploaie.",
+              "Păstrați ștergătoarele în stare bună.",
+              "Feribotul către Merdø are o zonă acoperită."
+            ],
+            "en": [
+              "Visibility can be limited on the coast during heavy rain.",
+              "Harbour parking often fills up faster when it rains.",
+              "Keep your windshield wipers in good condition.",
+              "The ferry to Merdø has a covered area."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter bietet das Auto eine warme Basis, um die verschneite Umgebung von Arendal zu erkunden. Mittags besuchen wir das Bomsholmen Museum und genießen die winterliche Flusslandschaft. Die Fahrt zur Fähre führt uns zur Insel Merdø, die im Winter eine magische Stille ausstrahlt. Den Tag schließen wir mit dem Blick auf die blinkenden Leuchtfeuer von Torungen ab, die in der frühen Dunkelheit weit leuchten.",
+            "hu": "Télen az autó meleg bázist nyújt Arendal havas környékének felfedezéséhez. Délben ellátogatunk a Bomsholmen Múzeumba, és gyönyörködünk a téli folyóparti tájban. Az út a komphoz Merdø szigetére vezet, amely télen varázslatos csendet áraszt. A napot a Torungen világítótornyok villogó fényeivel zárjuk, amelyek a korai sötétségben messzire világítanak.",
+            "ro": "Iarna, mașina oferă o bază caldă pentru a explora împrejurimile înzăpezite ale Arendal-ului. La prânz vizităm Muzeul Bomsholmen și ne bucurăm de peisajul de iarnă al râului. Drumul spre feribot ne duce pe insula Merdø, care emană o liniște magică iarna. Încheiem ziua cu vederea farurilor Torungen, care luminează departe în întunericul timpuriu.",
+            "en": "In winter, the car provides a warm base to explore the snowy surroundings of Arendal. At noon, we visit the Bomsholmen Museum and enjoy the wintry river landscape. The drive to the ferry takes us to Merdø Island, which radiates a magical silence in winter. We end the day with a view of the flashing lights of Torungen, which shine far in the early darkness."
+          },
+          "stops": [
+            {
+              "name": "Park and Walk in the Center",
+              "tip_5lang": {
+                "de": "Achten Sie auf Schneehaufen an den Straßenrändern.",
+                "hu": "Ügyeljen az útmenti hóhalmokra.",
+                "ro": "Atenție la mormanele de zăpadă de la marginea drumului.",
+                "en": "Watch out for snow piles at the edges of the road."
+              }
+            },
+            {
+              "name": "Tyholmen & Pollen",
+              "tip_5lang": {
+                "de": "Der Hafenbereich kann bei Frost sehr rutschig sein.",
+                "hu": "A kikötő környéke fagyban nagyon csúszós lehet.",
+                "ro": "Zona portului poate fi foarte alunecoasă în caz de îngheț.",
+                "en": "The harbour area can be very slippery during frost."
+              }
+            },
+            {
+              "name": "Town Hall & Trinity Church",
+              "tip_5lang": {
+                "de": "Kurze Gehwege sind ideal bei kalten Temperaturen.",
+                "hu": "A rövid séták ideálisak hideg időben.",
+                "ro": "Traseele scurte pe jos sunt ideale la temperaturi scăzute.",
+                "en": "Short walks are ideal in cold temperatures."
+              }
+            },
+            {
+              "name": "Drive to Bomsholmen Museum",
+              "tip_5lang": {
+                "de": "Die Straßen können hier weniger geräumt sein.",
+                "hu": "Az utak itt kevésbé lehetnek letakarítva.",
+                "ro": "Drumurile pot fi mai puțin deszăpezite în această zonă.",
+                "en": "The roads here may be less cleared of snow."
+              }
+            },
+            {
+              "name": "Drive to Merdø Island (Ferry Pier)",
+              "tip_5lang": {
+                "de": "Beachten Sie den ausgedünnten Winterfahrplan der Fähre.",
+                "hu": "Vegye figyelembe a komp ritkított téli menetrendjét.",
+                "ro": "Țineți cont de programul redus de iarnă al feribotului.",
+                "en": "Note the reduced winter schedule of the ferry."
+              }
+            },
+            {
+              "name": "Exploring Merdø",
+              "tip_5lang": {
+                "de": "Die Wege auf der Insel können tief verschneit sein.",
+                "hu": "A szigeten lévő utak mélyen havasak lehetnek.",
+                "ro": "Cărările de pe insulă pot fi acoperite de zăpadă adâncă.",
+                "en": "The paths on the island can be deeply covered in snow."
+              }
+            },
+            {
+              "name": "View of Torungen Lighthouses",
+              "tip_5lang": {
+                "de": "Die Fernsicht ist bei klarer Winterluft oft exzellent.",
+                "hu": "A távoli kilátás tiszta téli levegőben gyakran kiváló.",
+                "ro": "Vizibilitatea la distanță este adesea excelentă în aerul curat de iarnă.",
+                "en": "Long-distance visibility is often excellent in clear winter air."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in Norwegen gesetzlich vorgeschrieben.",
+              "Ein Eiskratzer und ein kleiner Besen sollten im Auto sein.",
+              "Achten Sie auf Wildwechsel in den Waldstücken nach Bomsholmen.",
+              "Planen Sie mehr Zeit für das Parken bei Schneeglätte ein."
+            ],
+            "hu": [
+              "Norvégiában a téli gumi kötelező.",
+              "Jégkaparónak és egy kis seprűnek lennie kell az autóban.",
+              "Figyeljen a vadállatokra a Bomsholmen utáni erdős szakaszokon.",
+              "Tervezzen több időt a parkolásra havas útviszonyok esetén."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii prin lege în Norvegia.",
+              "O racletă și o măturică ar trebui să fie în mașină.",
+              "Atenție la animale sălbatice în zonele împădurite de după Bomsholmen.",
+              "Alocați mai mult timp pentru parcare în caz de polei sau zăpadă."
+            ],
+            "en": [
+              "Winter tires are legally required in Norway.",
+              "An ice scraper and a small broom should be in the car.",
+              "Watch out for wildlife in the forested sections after Bomsholmen.",
+              "Allow more time for parking in snowy conditions."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1463,6 +2045,188 @@
           "Plan for buffer time for bus and ferry connections.",
           "The last ferry from Merdø leaves relatively early, don't miss it!"
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Öffentliche Verkehrsmittel sind der beste Weg, um Arendal bei Regen trocken zu erkunden. Vom Busterminal aus erreichen wir schnell die historischen Viertel und das KUBEN Museum. Mittags bringt uns der Bus nach Hisøy, wo wir die Aussicht aus dem Fenster genießen. Trotz des Wetters ist die kurze Fährfahrt nach Merdø ein Erlebnis, bevor wir komfortabel ins Zentrum zurückkehren.",
+            "hu": "A tömegközlekedés a legjobb módja Arendal száraz felfedezésének esőben. A buszpályaudvarról gyorsan elérjük a történelmi negyedeket és a KUBEN Múzeumot. Délben busz visz Hisøy-ba, ahol az ablakból élvezzük a kilátást. Az időjárás ellenére a rövid kompozás Merdø-re nagy élmény, mielőtt kényelmesen visszatérnénk a központba.",
+            "ro": "Transportul public este cea mai bună modalitate de a explora Arendal la uscat pe timp de ploaie. De la autogară ajungem rapid în cartierele istorice și la Muzeul KUBEN. La prânz, autobuzul ne duce la Hisøy, unde ne bucurăm de priveliștea de la fereastră. În ciuda vremii, scurta călătorie cu feribotul spre Merdø este o experiență deosebită.",
+            "en": "Public transport is the best way to explore Arendal while staying dry in the rain. From the bus terminal, we quickly reach the historical districts and the KUBEN Museum. At noon, the bus takes us to Hisøy, where we enjoy the view from the window. Despite the weather, the short ferry ride to Merdø is a great experience before returning comfortably to the center."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Arendal bus terminal",
+              "tip_5lang": {
+                "de": "Der Terminal ist überdacht und bietet digitale Anzeigen.",
+                "hu": "A pályaudvar fedett és digitális kijelzőkkel rendelkezik.",
+                "ro": "Terminalul este acoperit și oferă afișaje digitale.",
+                "en": "The terminal is covered and features digital displays."
+              }
+            },
+            {
+              "name": "Walk: Tyholmen & Pollen",
+              "tip_5lang": {
+                "de": "Nutzen Sie die kurzen Abstände zwischen den Bushaltestellen.",
+                "hu": "Használja ki a buszmegállók közötti rövid távolságokat.",
+                "ro": "Folosiți distanțele scurte între stațiile de autobuz.",
+                "en": "Take advantage of the short distances between bus stops."
+              }
+            },
+            {
+              "name": "Walk: KUBEN Museum",
+              "tip_5lang": {
+                "de": "Die Haltestelle befindet sich fast direkt vor dem Museum.",
+                "hu": "A buszmegálló szinte közvetlenül a múzeum előtt van.",
+                "ro": "Stația de autobuz se află aproape direct în fața muzeului.",
+                "en": "The bus stop is located almost directly in front of the museum."
+              }
+            },
+            {
+              "name": "Bus to Hisøy",
+              "tip_5lang": {
+                "de": "Die Busse sind beheizt und bieten Schutz vor dem Wind.",
+                "hu": "A buszok fűtöttek és védelmet nyújtanak a szél ellen.",
+                "ro": "Autobuzele sunt încălzite și oferă protecție împotriva vântului.",
+                "en": "Buses are heated and offer protection from the wind."
+              }
+            },
+            {
+              "name": "Ferry to Merdø Island",
+              "tip_5lang": {
+                "de": "Warten Sie im überdachten Wartebereich am Anleger.",
+                "hu": "Várjon a mólónál lévő fedett várakozóhelyen.",
+                "ro": "Așteptați în zona de așteptare acoperită de la debarcader.",
+                "en": "Wait in the covered waiting area at the pier."
+              }
+            },
+            {
+              "name": "Return to the Center",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Abfahrtszeiten bequem per App.",
+                "hu": "Ellenőrizze az indulási időket kényelmesen az alkalmazáson.",
+                "ro": "Verificați orele de plecare convenabil prin aplicație.",
+                "en": "Check departure times conveniently via the app."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die 'AKT Billett' App für stressfreie Ticketkäufe.",
+              "Die meisten Busse haben WLAN, ideal für die Planung bei Regen.",
+              "Bushaltestellen in Arendal sind oft gut gegen Wind geschützt.",
+              "Die Merdø-Fähre fährt auch bei Regen regelmäßig."
+            ],
+            "hu": [
+              "Használja az 'AKT Billett' alkalmazást a stresszmentes jegyvásárláshoz.",
+              "A legtöbb buszon van Wi-Fi, ideális a tervezéshez esőben.",
+              "Arendal buszmegállói gyakran jól védettek a széltől.",
+              "A Merdø-komp esőben is rendszeresen jár."
+            ],
+            "ro": [
+              "Folosiți aplicația „AKT Billett” pentru cumpărarea biletelor fără stres.",
+              "Majoritatea autobuzelor au Wi-Fi, ideal pentru planificare pe ploaie.",
+              "Stațiile de autobuz din Arendal sunt adesea bine protejate de vânt.",
+              "Feribotul către Merdø circulă regulat și pe ploaie."
+            ],
+            "en": [
+              "Use the 'AKT Billett' app for stress-free ticket purchases.",
+              "Most buses have Wi-Fi, ideal for planning while it rains.",
+              "Bus stops in Arendal are often well-protected against the wind.",
+              "The Merdø ferry runs regularly even in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterreisen mit dem Bus bieten eine gemütliche Perspektive auf das verschneite Arendal. Mittags bringt uns der Transit zum KUBEN Museum, wo wir viel Zeit im Warmen verbringen können. Die Reise geht weiter nach Hisøy, wo die weißen Landschaften am Fenster vorbeiziehen. Ein Highlight ist die winterliche Fährüberfahrt nach Merdø, die eine ganz besondere, stille Atmosphäre bietet, bevor wir zurückkehren.",
+            "hu": "A téli buszos utazás hangulatos perspektívát kínál a havas Arendalra. Délben a közlekedés a KUBEN Múzeumba visz minket, ahol sok időt tölthetünk a melegben. Az út Hisøy felé folytatódik, ahol a fehér tájak elsuhannak az ablak mellett. Kiemelkedő élmény a téli kompozás Merdø-re, amely különleges, csendes hangulatot áraszt.",
+            "ro": "Călătoriile cu autobuzul iarna oferă o perspectivă confortabilă asupra Arendal-ului înzăpezit. La prânz, transportul ne duce la Muzeul KUBEN, unde putem petrece mult timp la căldură. Călătoria continuă spre Hisøy, unde peisajele albe trec prin fața ferestrei. Un punct culminant este traversarea cu feribotul spre Merdø iarna, care oferă o atmosferă deosebită.",
+            "en": "Winter travel by bus offers a cozy perspective on snowy Arendal. At noon, transit takes us to the KUBEN Museum, where we can spend plenty of time in the warm. The journey continues to Hisøy, where white landscapes pass by the window. A highlight is the winter ferry crossing to Merdø, which offers a very special, quiet atmosphere before we return."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Arendal bus terminal",
+              "tip_5lang": {
+                "de": "Ein kleiner Kiosk bietet heiße Getränke zum Aufwärmen.",
+                "hu": "Egy kis kioszk forró italokat kínál a bemelegítéshez.",
+                "ro": "Un mic chioșc oferă băuturi calde pentru încălzire.",
+                "en": "A small kiosk offers hot drinks to warm up."
+              }
+            },
+            {
+              "name": "Walk: Tyholmen & Pollen",
+              "tip_5lang": {
+                "de": "Die Wege zu den Haltestellen sind meist gut geräumt.",
+                "hu": "A megállókhoz vezető utak többnyire jól le vannak takarítva.",
+                "ro": "Căile către stații sunt de obicei bine deszăpezite.",
+                "en": "Paths to the stops are usually well cleared of snow."
+              }
+            },
+            {
+              "name": "Walk: KUBEN Museum",
+              "tip_5lang": {
+                "de": "Genießen Sie die warme Fahrt nach dem Museumsbesuch.",
+                "hu": "Élvezze a meleg utazást a múzeumlátogatás után.",
+                "ro": "Bucurați-vă de drumul călduros după vizitarea muzeului.",
+                "en": "Enjoy the warm ride after the museum visit."
+              }
+            },
+            {
+              "name": "Bus to Hisøy",
+              "tip_5lang": {
+                "de": "Achten Sie auf mögliche winterbedingte Verzögerungen.",
+                "hu": "Ügyeljen a lehetséges tél miatti késésekre.",
+                "ro": "Atenție la posibilele întârzieri cauzate de condițiile de iarnă.",
+                "en": "Watch out for possible winter-related delays."
+              }
+            },
+            {
+              "name": "Ferry to Merdø Island",
+              "tip_5lang": {
+                "de": "Warme Kleidung für die Überfahrt ist zwingend erforderlich.",
+                "hu": "A kompozáshoz meleg ruházat kötelező.",
+                "ro": "Îmbrăcămintea groasă pentru traversare este obligatorie.",
+                "en": "Warm clothing for the crossing is mandatory."
+              }
+            },
+            {
+              "name": "Return to the Center",
+              "tip_5lang": {
+                "de": "Die Busse fahren im Winter oft seltener am Abend.",
+                "hu": "A buszok télen este gyakran ritkábban járnak.",
+                "ro": "Autobuzele circulă adesea mai rar seara pe timp de iarnă.",
+                "en": "Buses often run less frequently in the evening during winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Winterfahrplan der Merdø-Fähre vorab.",
+              "Bushaltestellen sind gute Orte, um Reflektoren sichtbar zu tragen.",
+              "Die Busse sind im Winter angenehm geheizt.",
+              "Laden Sie Ihr Handy auf, da Kälte den Akku schneller leert."
+            ],
+            "hu": [
+              "Előre ellenőrizze a Merdø-komp téli menetrendjét.",
+              "A buszmegállók jó helyek a fényvisszaverők látható viselésére.",
+              "A buszok télen kellemesen fűtöttek.",
+              "Töltse fel telefonját, mert a hideg gyorsabban meríti az akkumulátort."
+            ],
+            "ro": [
+              "Verificați din timp programul de iarnă al feribotului spre Merdø.",
+              "Stațiile de autobuz sunt locuri bune pentru a purta reflectorizante vizibile.",
+              "Autobuzele sunt încălzite plăcut iarna.",
+              "Încărcați-vă telefonul, deoarece frigul descarcă bateria mai repede."
+            ],
+            "en": [
+              "Check the Merdø ferry's winter schedule in advance.",
+              "Bus stops are good places to wear reflectors visibly.",
+              "Buses are pleasantly heated in winter.",
+              "Charge your phone, as cold drains the battery faster."
+            ]
+          }
+        }
       }
     }
   }

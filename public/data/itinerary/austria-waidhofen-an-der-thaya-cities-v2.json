@@ -330,6 +330,206 @@
           "Allow plenty of time for Thaya Park; it's a beautiful spot to relax.",
           "Most sights in the town center are within easy walking distance."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regnerischer Morgen am Rathausplatz, wo die Arkaden ersten Schutz bieten. Mittags verbringen wir viel Zeit im trockenen Schloss Waidhofen und erkunden die Ausstellungen. Am Nachmittag führt ein kurzer, erfrischender Gang durch den Thaya-Park, bevor wir die Waldrapp-Voliere besuchen. Den Abend lassen wir bei regionaler Küche in einem gemütlichen Gasthaus der Altstadt ausklingen.",
+            "hu": "Esős reggel a városházánál, ahol az árkádok nyújtanak menedéket. Délben a Waidhofen-kastély száraz termeiben böngésszük a kiállításokat. Délután egy frissítő, rövid séta következik a Thaya-parkban, majd látogatás az íbisz-röpdénél. Az estét a várost övező falak tövében, egy barátságos óvárosi vendéglőben zárjuk, helyi fogásokkal.",
+            "ro": "O dimineață ploioasă la primărie, unde arcadele oferă primul adăpost. La prânz, petrecem mult timp în interiorul uscat al castelului Waidhofen, explorând expozițiile. După-amiaza, o scurtă plimbare revigorantă prin Parcul Thaya precede vizita la voliera de păsări Ibis. Seara se încheie cu preparate regionale într-un restaurant primitor din orașul vechi.",
+            "en": "A rainy morning at the Town Hall, where the arcades provide initial shelter. At noon, we spend plenty of time in the dry interior of Waidhofen Castle, exploring the exhibits. In the afternoon, a short, refreshing walk through Thaya Park leads us to the Bald Ibis aviary. The evening concludes with regional cuisine in a cozy old town tavern, safe from the damp weather."
+          },
+          "stops": [
+            {
+              "name": "Town Hall and Marian Column",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Rathaus-Foyer als Regenschutz.",
+                "hu": "Használja a városháza előcsarnokát menedékként.",
+                "ro": "Folosiți foierul primăriei ca adăpost.",
+                "en": "Use the town hall foyer as a rain shelter."
+              }
+            },
+            {
+              "name": "Parish Church of the Assumption",
+              "tip_5lang": {
+                "de": "Idealer Ort für eine trockene Pause und Stille.",
+                "hu": "Ideális hely egy száraz pihenőre és csendre.",
+                "ro": "Loc ideal pentru o pauză uscată și liniște.",
+                "en": "Ideal place for a dry break and silence."
+              }
+            },
+            {
+              "name": "Waidhofen Castle",
+              "tip_5lang": {
+                "de": "Das Museum bietet Schutz vor starkem Regen.",
+                "hu": "A múzeum védelmet nyújt az erős eső elől.",
+                "ro": "Muzeul oferă protecție împotriva ploii abundente.",
+                "en": "The museum provides protection from heavy rain."
+              }
+            },
+            {
+              "name": "Section of the Town Wall",
+              "tip_5lang": {
+                "de": "Achtung, das Pflaster kann bei Nässe glatt sein.",
+                "hu": "Vigyázat, a burkolat nedvesen csúszós lehet.",
+                "ro": "Atenție, pavajul poate fi alunecos pe timp de ploaie.",
+                "en": "Caution, the pavement can be slippery when wet."
+              }
+            },
+            {
+              "name": "Civic Hospital Church",
+              "tip_5lang": {
+                "de": "Kleiner, ruhiger Rückzugsort im Trockenen.",
+                "hu": "Kicsi, csendes menedékhely a szárazon.",
+                "ro": "Mic refugiu liniștit la adăpost de ploaie.",
+                "en": "Small, quiet retreat in the dry."
+              }
+            },
+            {
+              "name": "Thaya Park",
+              "tip_5lang": {
+                "de": "Feste, wasserdichte Schuhe für die Wege empfohlen.",
+                "hu": "Vízálló túracipő ajánlott az ösvényekre.",
+                "ro": "Se recomandă încălțăminte impermeabilă pentru poteci.",
+                "en": "Waterproof hiking shoes recommended for the paths."
+              }
+            },
+            {
+              "name": "Northern Bald Ibis Aviary",
+              "tip_5lang": {
+                "de": "Unterstand an der Voliere bietet begrenzten Schutz.",
+                "hu": "A röpdénél lévő beálló korlátozott védelmet nyújt.",
+                "ro": "Adăpostul de la volieră oferă protecție limitată.",
+                "en": "The shelter at the aviary offers limited protection."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Stockschirm ist bei Wind im Thayatal besser als ein Knirps.",
+              "Die Innenräume des Schlosses sind die beste Option bei Dauerregen.",
+              "Das Waldviertel-Wetter kann schnell umschlagen, Zwiebelprinzip nutzen.",
+              "Planen Sie mehr Zeit für die Kirchenbesichtigungen ein, um trocken zu bleiben."
+            ],
+            "hu": [
+              "Egy stabil boternyő jobb a Thaya-völgyi szélben, mint az összecsukható.",
+              "A kastély belső terei a legjobb opciók tartós eső esetén.",
+              "A Waldviertel időjárása gyorsan változhat, használjon réteges öltözködést.",
+              "Tervezzen több időt a templomlátogatásokra, hogy szárazon maradjon."
+            ],
+            "ro": [
+              "O umbrelă stabilă este mai bună decât una pliabilă în vântul de pe Valea Thaya.",
+              "Interioarele castelului sunt cea mai bună opțiune în caz de ploaie continuă.",
+              "Vremea în Waldviertel se poate schimba rapid, folosiți îmbrăcăminte în straturi.",
+              "Alocați mai mult timp vizitării bisericilor pentru a rămâne la uscat."
+            ],
+            "en": [
+              "A sturdy stick umbrella is better in the Thaya Valley wind than a compact one.",
+              "The castle interiors are the best option during continuous rain.",
+              "Waldviertel weather can change quickly; use the layering principle.",
+              "Plan more time for church visits to stay dry and warm."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen am Hauptplatz, der oft in dichten Nebel gehüllt ist. Mittags wärmen wir uns im Schlossmuseum auf und genießen den Blick auf die verschneite Thaya. Am Nachmittag unternehmen wir einen kurzen Spaziergang durch den winterlichen Park, bevor es früh dunkel wird. Den Abend verbringen wir bei einer heißen Suppe in der Nähe der Stadtmauer, während draußen der Frost anzieht.",
+            "hu": "Deres reggel a főtéren, amelyet gyakran sűrű köd borít. Délben a kastélymúzeumban melegszünk fel, és csodáljuk a jeges Thaya folyót. Délután rövid sétát teszünk a télies parkban, mielőtt korán leszáll az éj. Az estét egy forró leves mellett töltjük a városfal közelében, miközben odakint egyre jobban röpködnek a mínuszok.",
+            "ro": "O dimineață geroasă în piața centrală, adesea învăluită în ceață densă. La prânz ne încălzim în muzeul castelului și admirăm râul Thaya înghețat. După-amiaza facem o scurtă plimbare prin parcul hibernal, înainte ca întunericul să se lase devreme. Seara o petrecem cu o supă fierbinte lângă zidul cetății, în timp ce gerul se întețește afară.",
+            "en": "A frosty morning on the main square, often shrouded in thick mist. At noon, we warm up in the castle museum and admire the frozen Thaya river. In the afternoon, we take a short stroll through the wintry park before darkness falls early. The evening is spent with a hot soup near the town wall while the frost sets in outside."
+          },
+          "stops": [
+            {
+              "name": "Town Hall and Marian Column",
+              "tip_5lang": {
+                "de": "Vorsicht vor Glatteis auf dem Kopfsteinpflaster.",
+                "hu": "Vigyázat, jegesedés várható a macskaköveken.",
+                "ro": "Atenție la polei pe pavajul de piatră.",
+                "en": "Watch out for black ice on the cobblestones."
+              }
+            },
+            {
+              "name": "Parish Church of the Assumption",
+              "tip_5lang": {
+                "de": "Die Kirche ist oft kühler als draußen, warm anziehen.",
+                "hu": "A templom gyakran hűvösebb, mint kint, öltözzön melegen.",
+                "ro": "Biserica este adesea mai rece decât afară, îmbrăcați-vă bine.",
+                "en": "The church is often cooler than outside; dress warmly."
+              }
+            },
+            {
+              "name": "Waidhofen Castle",
+              "tip_5lang": {
+                "de": "Gut beheizte Räume laden zum längeren Verweilen ein.",
+                "hu": "A jól fűtött termek hosszabb időzésre csábítanak.",
+                "ro": "Încăperile bine încălzite vă invită la o ședere prelungită.",
+                "en": "Well-heated rooms invite you to stay longer."
+              }
+            },
+            {
+              "name": "Section of the Town Wall",
+              "tip_5lang": {
+                "de": "Schöne Aussicht auf das verschneite Umland.",
+                "hu": "Szép kilátás a havas környékre.",
+                "ro": "Vedere frumoasă asupra împrejurimilor înzăpezite.",
+                "en": "Beautiful view of the snowy surroundings."
+              }
+            },
+            {
+              "name": "Civic Hospital Church",
+              "tip_5lang": {
+                "de": "Kurzer Stopp, um der Winterkälte zu entfliehen.",
+                "hu": "Rövid megálló a téli hideg elől.",
+                "ro": "O scurtă oprire pentru a scăpa de gerul iernii.",
+                "en": "A short stop to escape the winter cold."
+              }
+            },
+            {
+              "name": "Thaya Park",
+              "tip_5lang": {
+                "de": "Wunderschöne Winterlandschaft, aber windig.",
+                "hu": "Gyönyörű téli táj, de szeles.",
+                "ro": "Peisaj de iarnă superb, dar vântos.",
+                "en": "Beautiful winter landscape, but windy."
+              }
+            },
+            {
+              "name": "Northern Bald Ibis Aviary",
+              "tip_5lang": {
+                "de": "Waldrappe sind auch im Winter zu beobachten.",
+                "hu": "Az íbiszek télen is megfigyelhetőek.",
+                "ro": "Păsările Ibis pot fi observate și iarna.",
+                "en": "Bald ibises can be observed even in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Thermoskanne mit Tee für den Parkbesuch mitnehmen.",
+              "Sonnenuntergang ist bereits gegen 16:30 Uhr, planen Sie früh.",
+              "Die Gehwege an der Thaya können sehr rutschig sein.",
+              "Tragen Sie Handschuhe, der Wind im Waldviertel ist schneidig."
+            ],
+            "hu": [
+              "Vigyen magával teával teli termoszt a parkba.",
+              "A naplemente már 16:30 körül bekövetkezik, tervezzen korán.",
+              "A Thaya-parti gyalogutak nagyon csúszósak lehetnek.",
+              "Viseljen kesztyűt, a waldvierteli szél metsző tud lenni."
+            ],
+            "ro": [
+              "Luați un termos cu ceai cald pentru vizita în parc.",
+              "Apusul este deja în jur de ora 16:30, planificați devreme.",
+              "Potecile de pe malul râului Thaya pot fi foarte alunecoase.",
+              "Purtați mănuși, vântul din Waldviertel este tăios."
+            ],
+            "en": [
+              "Take a thermos with hot tea for the park visit.",
+              "Sunset is already around 4:30 PM; plan your day early.",
+              "The paths along the Thaya can be very slippery.",
+              "Wear gloves; the wind in the Waldviertel region is biting."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -594,6 +794,188 @@
           "Some parts of the old town have cobblestones, ride carefully there.",
           "Bring plenty of water, especially for the afternoon ride."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein feuchter Start am Hauptplatz, wir achten auf rutschige Markierungen. Mittags suchen wir Schutz im Schloss, während die Räder im Ständer warten. Nachmittags radeln wir vorsichtig am Thaya-Ufer entlang zur Voliere, wobei die Schutzbleche Schwerstarbeit leisten. Am Abend kehren wir nass, aber zufrieden ins Stadtzentrum zurück, um uns im Trockenen aufzuwärmen.",
+            "hu": "Nedves kezdés a főtéren, figyelünk a csúszós útburkolati jelekre. Délben a kastélyban keresünk menedéket, amíg a bringák a tárolóban pihennek. Délután óvatosan tekerünk a Thaya-parton a röpdéhez, a sárvédők nagy szolgálatot tesznek. Este ázottan, de elégedetten térünk vissza a városközpontba, hogy a szárazon felmelegedjünk.",
+            "ro": "Un start umed în piața principală, cu atenție la marcajele alunecoase. La prânz căutăm adăpost în castel, în timp ce bicicletele așteaptă în rastel. După-amiaza pedalăm cu grijă pe malul râului Thaya spre volieră, unde apărătorile de noroi sunt esențiale. Seara revenim uzi, dar mulțumiți, în centrul orașului pentru a ne încălzi la uscat.",
+            "en": "A damp start on the main square; we watch out for slippery road markings. At noon, we seek shelter in the castle while the bikes wait in the racks. In the afternoon, we cycle carefully along the Thaya banks to the aviary, with mudguards doing heavy work. In the evening, we return wet but satisfied to the city center to warm up in the dry."
+          },
+          "stops": [
+            {
+              "name": "Town Hall and Main Square",
+              "tip_5lang": {
+                "de": "Vorsicht beim Bremsen auf nassem Pflaster.",
+                "hu": "Óvatosan fékezzen a nedves köveken.",
+                "ro": "Atenție la frânare pe pavajul umed.",
+                "en": "Be careful when braking on wet pavement."
+              }
+            },
+            {
+              "name": "Waidhofen Castle",
+              "tip_5lang": {
+                "de": "Überdachte Fahrradständer vorhanden.",
+                "hu": "Fedett biciklitárolók rendelkezésre állnak.",
+                "ro": "Sunt disponibile rastele de biciclete acoperite.",
+                "en": "Covered bicycle racks are available."
+              }
+            },
+            {
+              "name": "Thaya Park",
+              "tip_5lang": {
+                "de": "Wege können aufgeweicht und matschig sein.",
+                "hu": "Az utak felázottak és sárosak lehetnek.",
+                "ro": "Potecile pot fi moi și noroioase.",
+                "en": "Paths can be soft and muddy."
+              }
+            },
+            {
+              "name": "Northern Bald Ibis Aviary",
+              "tip_5lang": {
+                "de": "Besuch lohnt sich trotz Regen.",
+                "hu": "Eső ellenére is érdemes meglátogatni.",
+                "ro": "Merită vizitat în ciuda ploii.",
+                "en": "Worth a visit despite the rain."
+              }
+            },
+            {
+              "name": "Along the Thaya Cycle Path",
+              "tip_5lang": {
+                "de": "Gischt vom Fluss beachten, wasserdichte Kleidung!",
+                "hu": "Figyeljen a folyó vízpermetére, vízálló ruhát!",
+                "ro": "Atenție la stropii de la râu, haine impermeabile!",
+                "en": "Watch for spray from the river; waterproof gear needed!"
+              }
+            },
+            {
+              "name": "Parish Church and Old Town",
+              "tip_5lang": {
+                "de": "Abschluss der Tour im Trockenen planen.",
+                "hu": "A túra végét tervezze száraz helyre.",
+                "ro": "Planificați finalul turului la adăpost.",
+                "en": "Plan the end of the tour in a dry place."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Reduzieren Sie den Reifendruck minimal für besseren Grip.",
+              "Vermeiden Sie Pfützen, sie könnten tiefer sein als gedacht.",
+              "Tragen Sie eine gut sichtbare Regenjacke (Neon/Reflektoren).",
+              "Ein Sattelschutz hält die Sitzfläche bei Pausen trocken."
+            ],
+            "hu": [
+              "Csökkentse minimálisan a guminyomást a jobb tapadásért.",
+              "Kerülje a tócsákat, mélyebbek lehetnek a vártnál.",
+              "Viseljen jól látható esőkabátot (neon/fényvisszaverő).",
+              "A nyeregvédő szárazon tartja az ülést a szünetekben."
+            ],
+            "ro": [
+              "Reduceți ușor presiunea în pneuri pentru o aderență mai bună.",
+              "Evitați bălțile, pot fi mai adânci decât par.",
+              "Purtați o jachetă de ploaie vizibilă (neon/reflectorizantă).",
+              "O husă de șa menține scaunul uscat în timpul pauzelor."
+            ],
+            "en": [
+              "Slightly reduce tire pressure for better grip on wet roads.",
+              "Avoid puddles; they might be deeper than they look.",
+              "Wear a high-visibility raincoat (neon or reflectors).",
+              "A saddle cover keeps the seat dry during breaks."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Kalter Start in die Radtour am Rathausplatz bei klarem Winterhimmel. Mittags machen wir eine ausgiebige Pause im warmen Schloss, um die eingefrorenen Finger zu beleben. Nachmittags radeln wir durch die glitzernde Parklandschaft entlang der Thaya, wobei wir auf Eisstellen achten. Der Tag endet früh bei Sonnenuntergang, bevor die Temperaturen im Stadtzentrum stark fallen.",
+            "hu": "Hideg kezdés a bringatúrán a városházánál, tiszta téli égbolt alatt. Délben bőséges szünetet tartunk a meleg kastélyban, hogy életet leheljünk az elfagyott ujjainkba. Délután a Thaya menti csillogó parkban tekerünk, figyelve a jeges szakaszokra. A nap korán, naplementekor ér véget, mielőtt a hőmérséklet drasztikusan visszaesne.",
+            "ro": "Start rece în turul cu bicicleta la primărie, sub un cer senin de iarnă. La prânz facem o pauză lungă în castelul călduros pentru a ne revigora degetele înghețate. După-amiaza pedalăm prin peisajul sclipitor al parcului de-a lungul râului Thaya, atenți la porțiunile cu gheață. Ziua se încheie devreme la apus, înainte ca temperaturile să scadă brusc.",
+            "en": "A cold start to the bike tour at the Town Hall under a clear winter sky. At noon, we take an extended break in the warm castle to revive frozen fingers. In the afternoon, we cycle through the sparkling park landscape along the Thaya, watching out for icy spots. The day ends early at sunset, before temperatures drop sharply in the city center."
+          },
+          "stops": [
+            {
+              "name": "Town Hall and Main Square",
+              "tip_5lang": {
+                "de": "Möglicher Raureif auf dem Pflaster.",
+                "hu": "Lehetséges zúzmara a burkolaton.",
+                "ro": "Posibil polei pe pavaj.",
+                "en": "Possible hoarfrost on the pavement."
+              }
+            },
+            {
+              "name": "Waidhofen Castle",
+              "tip_5lang": {
+                "de": "Innenbesichtigung zum Aufwärmen nutzen.",
+                "hu": "Használja a belső látogatást felmelegedésre.",
+                "ro": "Folosiți vizita la interior pentru încălzire.",
+                "en": "Use the indoor visit to warm up."
+              }
+            },
+            {
+              "name": "Thaya Park",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenem Laub auf den Wegen.",
+                "hu": "Vigyázat, fagyott levelek lehetnek az úton.",
+                "ro": "Atenție la frunzele înghețate pe poteci.",
+                "en": "Watch out for frozen leaves on the paths."
+              }
+            },
+            {
+              "name": "Northern Bald Ibis Aviary",
+              "tip_5lang": {
+                "de": "Windchill-Effekt beim Radfahren beachten.",
+                "hu": "Figyeljen a szélhűtés hatására tekerés közben.",
+                "ro": "Atenție la efectul de răcire a vântului la pedalat.",
+                "en": "Be mindful of wind chill while cycling."
+              }
+            },
+            {
+              "name": "Along the Thaya Cycle Path",
+              "tip_5lang": {
+                "de": "Gefahr von Glatteis in schattigen Abschnitten.",
+                "hu": "Jegesedés veszélye az árnyékos szakaszokon.",
+                "ro": "Pericol de polei în porțiunile umbrite.",
+                "en": "Danger of black ice in shaded sections."
+              }
+            },
+            {
+              "name": "Parish Church and Old Town",
+              "tip_5lang": {
+                "de": "Tour beenden, bevor es frostig wird.",
+                "hu": "Fejezze be a túrát, mielőtt megfagyna.",
+                "ro": "Încheiați turul înainte de lăsarea gerului.",
+                "en": "Finish the tour before it gets too frosty."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Schichten und winddichte Handschuhe.",
+              "Überprüfen Sie den Bremsweg bei Kälte und Frost.",
+              "Ein warmer Akku hält bei E-Bikes im Winter länger.",
+              "Planen Sie regelmäßige Stopps in beheizten Lokalen ein."
+            ],
+            "hu": [
+              "Viseljen réteges ruházatot és szélálló kesztyűt.",
+              "Ellenőrizze a fékutat hidegben és fagyban.",
+              "Az e-bike akkumulátora tovább bírja, ha melegen tartja.",
+              "Tervezzen rendszeres megállókat fűtött helyeken."
+            ],
+            "ro": [
+              "Purtați haine în straturi și mănuși rezistente la vânt.",
+              "Verificați distanța de frânare pe ger și îngheț.",
+              "O baterie caldă durează mai mult la bicicletele electrice.",
+              "Planificați opriri regulate în localuri încălzite."
+            ],
+            "en": [
+              "Wear layers and windproof gloves.",
+              "Check your braking distance in cold and frost.",
+              "A warm battery lasts longer for e-bikes in winter.",
+              "Plan regular stops in heated establishments."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -858,6 +1240,188 @@
           "The car is useful for switching between the town center and the more distant nature attractions.",
           "Waidhofen is small, so driving times are short."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir parken bequem im Zentrum und starten die Tour trocken. Mittags nutzen wir die Nähe zum Schloss, um den Regen im Museum zu überdauern. Am Nachmittag fahren wir zum Thayapark-Parkplatz und machen nur kurze Abstecher ins Freie zur Ibis-Voliere. Den Abend verbringen wir entspannt im Auto oder in einem Restaurant, ohne nass zu werden.",
+            "hu": "Kényelmesen parkolunk a központban, és szárazon indítjuk a túrát. Délben a kastély közelségét kihasználva a múzeumban vészeljük át az esőt. Délután a Thayapark parkolójához hajtunk, és csak rövid kiruccanásokat teszünk az íbisz-röpdéhez. Az estét nyugodtan töltjük az autóban vagy egy étteremben, anélkül, hogy megáznánk.",
+            "ro": "Parcăm confortabil în centru și începem turul la uscat. La prânz profităm de proximitatea castelului pentru a aștepta trecerea ploii în muzeu. După-amiaza conducem spre parcarea Thayapark și facem doar scurte incursiuni afară spre voliera de Ibis. Seara o petrecem relaxați în mașină sau la un restaurant, fără să ne udăm.",
+            "en": "We park conveniently in the center and start the tour dry. At noon, we take advantage of the castle's proximity to wait out the rain in the museum. In the afternoon, we drive to the Thayapark parking lot and make only brief outdoor trips to the Ibis aviary. The evening is spent relaxing in the car or a restaurant without getting wet."
+          },
+          "stops": [
+            {
+              "name": "Central Parking",
+              "tip_5lang": {
+                "de": "Zentraler Startpunkt im Trockenen.",
+                "hu": "Központi indulópont a szárazon.",
+                "ro": "Punct central de plecare la adăpost.",
+                "en": "Central starting point in the dry."
+              }
+            },
+            {
+              "name": "Town Hall & Parish Church",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen den Sehenswürdigkeiten.",
+                "hu": "Rövid távolságok a látnivalók között.",
+                "ro": "Distanțe scurte între obiective.",
+                "en": "Short distances between the sights."
+              }
+            },
+            {
+              "name": "Waidhofen Castle",
+              "tip_5lang": {
+                "de": "Parken Sie direkt in der Nähe.",
+                "hu": "Parkoljon közvetlenül a közelben.",
+                "ro": "Parcați chiar în apropiere.",
+                "en": "Park right nearby."
+              }
+            },
+            {
+              "name": "Town Wall & Civic Hospital Church",
+              "tip_5lang": {
+                "de": "Regenschirm für den kurzen Fußweg mitnehmen.",
+                "hu": "Vigyen ernyőt a rövid sétához.",
+                "ro": "Luați umbrela pentru scurta plimbare.",
+                "en": "Take an umbrella for the short walk."
+              }
+            },
+            {
+              "name": "Thayapark Parking",
+              "tip_5lang": {
+                "de": "Guter Ausgangspunkt für den Parkbesuch.",
+                "hu": "Jó kiindulópont a parklátogatáshoz.",
+                "ro": "Punct bun de plecare pentru vizita în parc.",
+                "en": "Good starting point for the park visit."
+              }
+            },
+            {
+              "name": "Northern Bald Ibis Aviary",
+              "tip_5lang": {
+                "de": "Vom Parkplatz nur 5 Minuten Fußweg.",
+                "hu": "A parkolótól csak 5 perc séta.",
+                "ro": "La doar 5 minute de mers de la parcare.",
+                "en": "Only a 5-minute walk from the parking lot."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie die Sichtverhältnisse bei Starkregen.",
+              "Nutzen Sie Parkhäuser, um das Auto trocken zu verlassen.",
+              "Vermeiden Sie das Parken unter Bäumen bei Sturmgefahr.",
+              "Halten Sie ein Handtuch im Auto bereit."
+            ],
+            "hu": [
+              "Ellenőrizze a látási viszonyokat heves esőzésben.",
+              "Használjon parkolóházakat, hogy szárazon szálljon ki.",
+              "Viharveszély esetén kerülje a fák alatti parkolást.",
+              "Legyen kéznél egy törölköző az autóban."
+            ],
+            "ro": [
+              "Verificați vizibilitatea în timpul ploilor torențiale.",
+              "Folosiți parcări acoperite pentru a ieși uscat din mașină.",
+              "Evitați parcarea sub copaci dacă există risc de furtună.",
+              "Aveți la îndemână un prosop în mașină."
+            ],
+            "en": [
+              "Check visibility conditions during heavy rain.",
+              "Use parking garages to exit the car in the dry.",
+              "Avoid parking under trees during storm warnings.",
+              "Keep a towel ready in the car."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Fahrt durch das verschneite Waidhofen mit Parkstopp im Zentrum. Mittags genießen wir die Wärme des Schlosses und den Ausblick auf das winterliche Umland vom Auto aus. Nachmittags fahren wir zum Thaya-Ufer für einen kurzen, knackigen Winterspaziergang zur Voliere. Der Tag endet gemütlich mit dem Auto im Stadtzentrum, während draußen der Schnee leise fällt.",
+            "hu": "Autózás a havas Waidhofenben, parkolás a központban. Délben a kastély melegét élvezzük, és az autóból csodáljuk a télies környéket. Délután a Thaya-partra hajtunk egy rövid, frissítő téli sétára a röpdéhez. A nap hangulatosan ér véget az autóval a városközpontban, miközben odakint halkan hull a hó.",
+            "ro": "Conducem prin Waidhofen înzăpezit cu oprire în centrul orașului. La prânz ne bucurăm de căldura castelului și de priveliștea hibernală din mașină. După-amiaza mergem pe malul râului Thaya pentru o scurtă plimbare de iarnă până la volieră. Ziua se încheie confortabil cu mașina în centru, în timp ce afară ninge liniștit.",
+            "en": "Drive through snowy Waidhofen with a parking stop in the center. At noon, we enjoy the warmth of the castle and the winter views from the car. In the afternoon, we drive to the Thaya banks for a short, crisp winter walk to the aviary. The day ends cozily with the car in the city center while snow falls quietly outside."
+          },
+          "stops": [
+            {
+              "name": "Central Parking",
+              "tip_5lang": {
+                "de": "Auf geräumte Parkflächen achten.",
+                "hu": "Figyeljen a letakarított parkolóhelyekre.",
+                "ro": "Atenție la locurile de parcare deszăpezite.",
+                "en": "Look for cleared parking spaces."
+              }
+            },
+            {
+              "name": "Town Hall & Parish Church",
+              "tip_5lang": {
+                "de": "Heizung im Auto auf dem Weg warm halten.",
+                "hu": "Tartsa melegen az autót útközben.",
+                "ro": "Mențineți căldura în mașină pe traseu.",
+                "en": "Keep the car heater running on the way."
+              }
+            },
+            {
+              "name": "Waidhofen Castle",
+              "tip_5lang": {
+                "de": "Schöne Fotomotive des verschneiten Schlosses.",
+                "hu": "Szép fotótémák a havas kastélyról.",
+                "ro": "Oportunități foto frumoase cu castelul înzăpezit.",
+                "en": "Beautiful photo opportunities of the snowy castle."
+              }
+            },
+            {
+              "name": "Town Wall & Civic Hospital Church",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg minimiert die Kälte.",
+                "hu": "A rövid séta minimalizálja a hideget.",
+                "ro": "Scurta plimbare minimizează expunerea la frig.",
+                "en": "A short walk minimizes exposure to cold."
+              }
+            },
+            {
+              "name": "Thayapark Parking",
+              "tip_5lang": {
+                "de": "Vorsicht vor Schneematsch auf dem Parkplatz.",
+                "hu": "Vigyázat, hókása lehet a parkolóban.",
+                "ro": "Atenție la fleșcăraia de zăpadă din parcare.",
+                "en": "Watch out for slush in the parking lot."
+              }
+            },
+            {
+              "name": "Northern Bald Ibis Aviary",
+              "tip_5lang": {
+                "de": "Vögel sind auch im Schnee aktiv.",
+                "hu": "A madarak hóban is aktívak.",
+                "ro": "Păsările sunt active și în zăpadă.",
+                "en": "The birds are active even in the snow."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen und Eiskratzer sind Pflicht.",
+              "Vermeiden Sie steile Nebenstraßen bei Schneefall.",
+              "Frostschutz für die Scheibenwaschanlage prüfen.",
+              "Warme Kleidung für Ausstiege griffbereit halten."
+            ],
+            "hu": [
+              "Téli gumi és jégkaparó kötelező.",
+              "Havazáskor kerülje a meredek mellékutcákat.",
+              "Ellenőrizze a szélvédőmosó fagyállóját.",
+              "Legyen kéznél meleg ruha a kiszállásokhoz."
+            ],
+            "ro": [
+              "Anvelopele de iarnă și racleta sunt obligatorii.",
+              "Evitați străzile secundare abrupte în caz de ninsoare.",
+              "Verificați lichidul de parbriz anti-îngheț.",
+              "Țineți haine groase la îndemână pentru coborârile din mașină."
+            ],
+            "en": [
+              "Winter tires and an ice scraper are mandatory.",
+              "Avoid steep side streets during snowfall.",
+              "Check the antifreeze in the windshield washer system.",
+              "Keep warm clothing handy for when you step out."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1098,6 +1662,170 @@
           "A day ticket is likely the most cost-effective option.",
           "Keep an eye on the time to not miss the last bus back to the center."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir erreichen das Zentrum mit dem Bus und nutzen die Haltestelle als ersten Unterschlupf. Mittags besichtigen wir das Schloss und die Kirchen, die alle gut zu Fuß vom Zentrum erreichbar sind. Am Nachmittag bringt uns ein Bus zum Thaya-Park, wo wir den Regen bei den Waldrappen beobachten. Die Rückfahrt am Abend erfolgt bequem mit dem Bus ins Stadtzentrum.",
+            "hu": "Busszal érkezünk a központba, és a megállót használjuk első menedékként. Délben megnézzük a kastélyt és a templomokat, amelyek gyalogosan is jól elérhetőek. Délután egy busz visz ki a Thaya-parkhoz, ahol az esőben figyeljük az íbiszeket. Az esti visszautazás kényelmesen, busszal történik a városközpontba.",
+            "ro": "Ajungem în centru cu autobuzul și folosim stația ca prim adăpost. La prânz vizităm castelul și bisericile, toate ușor accesibile pe jos din centru. După-amiaza un autobuz ne duce la Parcul Thaya, unde observăm păsările Ibis pe ploaie. Întoarcerea de seară se face confortabil cu autobuzul spre centrul orașului.",
+            "en": "We reach the center by bus and use the stop as our first shelter. At noon, we visit the castle and churches, all easily accessible on foot from the center. In the afternoon, a bus takes us to Thaya Park, where we observe the bald ibises in the rain. The return trip in the evening is comfortably made by bus to the city center."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Central Bus Stop",
+              "tip_5lang": {
+                "de": "Überdachte Wartehalle nutzen.",
+                "hu": "Használja a fedett várócsarnokot.",
+                "ro": "Folosiți sala de așteptare acoperită.",
+                "en": "Use the covered waiting area."
+              }
+            },
+            {
+              "name": "Town Hall, Parish Church & Castle",
+              "tip_5lang": {
+                "de": "Alles nah beieinander, wenig Regen-Exposition.",
+                "hu": "Minden közel van, kevés időt kell esőben tölteni.",
+                "ro": "Totul este aproape, expunere minimă la ploaie.",
+                "en": "Everything is close together; minimal rain exposure."
+              }
+            },
+            {
+              "name": "Bus Ride to Thaya Park",
+              "tip_5lang": {
+                "de": "Trockener Transfer zum Park.",
+                "hu": "Száraz transzfer a parkhoz.",
+                "ro": "Transfer uscat către parc.",
+                "en": "Dry transfer to the park."
+              }
+            },
+            {
+              "name": "Northern Bald Ibis Aviary",
+              "tip_5lang": {
+                "de": "Kurzer Weg von der Haltestelle.",
+                "hu": "Rövid séta a megállótól.",
+                "ro": "Drum scurt de la stație.",
+                "en": "Short walk from the bus stop."
+              }
+            },
+            {
+              "name": "Return to the Center",
+              "tip_5lang": {
+                "de": "Fahrplan-App für Pünktlichkeit nutzen.",
+                "hu": "Használja a menetrendi appot a pontosságért.",
+                "ro": "Folosiți aplicația de transport pentru punctualitate.",
+                "en": "Use the schedule app for punctuality."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Kleidung für die Wege zur Haltestelle.",
+              "Prüfen Sie eventuelle wetterbedingte Verspätungen.",
+              "Halten Sie Kleingeld oder eine Fahrkarte bereit.",
+              "Die Busse sind gut beheizt und bieten Schutz."
+            ],
+            "hu": [
+              "Viseljen vízálló ruhát a megállóhoz vezető úton.",
+              "Ellenőrizze az időjárás miatti esetleges késéseket.",
+              "Legyen kéznél aprópénz vagy jegy.",
+              "A buszok jól fűtöttek és védelmet nyújtanak."
+            ],
+            "ro": [
+              "Purtați haine impermeabile pentru drumul spre stație.",
+              "Verificați eventualele întârzieri cauzate de vreme.",
+              "Aveți pregătiți bani mărunți sau biletul.",
+              "Autobuzele sunt bine încălzite și oferă protecție."
+            ],
+            "en": [
+              "Wear waterproof clothing for the walk to the stop.",
+              "Check for any weather-related delays.",
+              "Have small change or a ticket ready.",
+              "Buses are well-heated and provide shelter."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Wir kommen am frostigen Morgen mit dem Bus an und genießen den Blick auf die verschneite Altstadt. Mittags verbringen wir viel Zeit im warmen Schlossmuseum, bevor wir den Nachmittagsbus zum winterlichen Thayapark nehmen. Ein kurzer Rundgang bei der Ibis-Voliere belebt den Geist, bevor wir uns auf die Rückfahrt machen. Der Tag endet sicher und warm mit dem Bus im Zentrum von Waidhofen.",
+            "hu": "Deres reggelen érkezünk busszal, és élvezzük a havas óváros látványát. Délben sok időt töltünk a meleg kastélymúzeumban, majd délutáni busszal megyünk a télies Thayaparkhoz. Rövid körséta az íbisz-röpdénél felfrissít, mielőtt visszaindulnánk. A nap biztonságban és melegben ér véget busszal Waidhofen központjában.",
+            "ro": "Sărbătorim dimineața geroasă sosind cu autobuzul și admirând orașul vechi înzăpezit. La prânz petrecem mult timp în muzeul castelului, înainte de a lua autobuzul spre Parcul Thaya. O scurtă plimbare la voliera de Ibis ne revigorează spiritul. Ziua se încheie în siguranță și căldură cu autobuzul în centrul orașului Waidhofen.",
+            "en": "We arrive on a frosty morning by bus and enjoy the view of the snowy old town. At noon, we spend plenty of time in the warm castle museum before taking the afternoon bus to the wintry Thaya Park. A short stroll at the Ibis aviary revives the spirit before we head back. The day ends safely and warmly by bus in the center of Waidhofen."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Central Bus Stop",
+              "tip_5lang": {
+                "de": "Hinterlassen Sie keine nassen Spuren im Bus.",
+                "hu": "Ne hagyjon nedves nyomokat a buszon.",
+                "ro": "Nu lăsați urme de umezeală în autobuz.",
+                "en": "Avoid leaving wet patches in the bus."
+              }
+            },
+            {
+              "name": "Town Hall, Parish Church & Castle",
+              "tip_5lang": {
+                "de": "Zentrale Lage minimiert Wartezeiten im Kalten.",
+                "hu": "A központi fekvés minimalizálja a hidegben várakozást.",
+                "ro": "Locația centrală reduce așteptarea în frig.",
+                "en": "Central location minimizes waiting in the cold."
+              }
+            },
+            {
+              "name": "Bus Ride to Thaya Park",
+              "tip_5lang": {
+                "de": "Genießen Sie die Fahrt im Warmen.",
+                "hu": "Élvezze az utazást a melegben.",
+                "ro": "Bucurați-vă de călătoria la căldură.",
+                "en": "Enjoy the ride in the warmth."
+              }
+            },
+            {
+              "name": "Northern Bald Ibis Aviary",
+              "tip_5lang": {
+                "de": "Passen Sie die Besuchszeit dem Busplan an.",
+                "hu": "Igazítsa a látogatást a buszmenetrendhez.",
+                "ro": "Adaptați durata vizitei la orarul autobuzelor.",
+                "en": "Adjust your visit to the bus schedule."
+              }
+            },
+            {
+              "name": "Return to the Center",
+              "tip_5lang": {
+                "de": "Warten Sie im beleuchteten Haltestellenbereich.",
+                "hu": "Várjon a kivilágított megállóhelyen.",
+                "ro": "Așteptați în zona iluminată a stației.",
+                "en": "Wait in the illuminated bus stop area."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse fahren im Winter oft seltener, Fahrplan prüfen.",
+              "Vermeiden Sie das Warten in zugigen Haltestellen.",
+              "Nutzen Sie die Wärme der öffentlichen Gebäude.",
+              "Schneefall kann die Fahrzeit der Busse verlängern."
+            ],
+            "hu": [
+              "Télen a buszok ritkábban járhatnak, ellenőrizze a tervet.",
+              "Kerülje a várakozást a huzatos megállókban.",
+              "Használja ki a középületek melegét.",
+              "A havazás meghosszabbíthatja a buszok menetidejét."
+            ],
+            "ro": [
+              "Autobuzele pot circula mai rar iarna, verificați orarul.",
+              "Evitați așteptarea în stații unde trage curentul.",
+              "Profități de căldura clădirilor publice.",
+              "Ninsoarea poate prelungi durata călătoriei cu autobuzul."
+            ],
+            "en": [
+              "Buses may run less frequently in winter; check the schedule.",
+              "Avoid waiting at drafty bus stops.",
+              "Take advantage of the warmth in public buildings.",
+              "Snowfall can increase bus travel times."
+            ]
+          }
+        }
       }
     }
   }

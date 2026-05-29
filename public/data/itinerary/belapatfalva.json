@@ -370,6 +370,206 @@
           "Allow plenty of time for the abbey; its history is fascinating.",
           "The path to Gilitka Chapel is not always well-marked, ask locals for directions."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet das Volksmuseum Schutz vor dem Regen. Mittags führt der Weg zur Zisterzienserabtei, deren massives Mauerwerk Geborgenheit ausstrahlt. Nachmittags ist der Aufstieg zum Bél-kő bei Regen anspruchsvoll, aber die neblige Aussicht ist mystisch. Abends entspannt man am Lak-Tal-See, während die Regentropfen auf die Wasseroberfläche trommeln.",
+            "hu": "Reggel a néprajzi múzeum fedett kiállításai nyújtanak menedéket. Délben a ciszterci apátság vastag falai között hűvös, de száraz időtöltés vár. Délután a Bél-kő ködbe vesző sziklái misztikus látványt nyújtanak az esőben. Este a Lak-völgyi tónál zárjuk a napot, ahol a vízparti fák alatt figyelhetjük a tó felszínén kopogó esőt.",
+            "ro": "Dimineața, muzeul de etnografie oferă adăpost împotriva ploii. La prânz, zidurile groase ale abației cisterciene oferă o ambianță uscată și liniștită. După-amiaza, urcarea pe muntele Bél-kő este mistică prin ceață și ploaie. Seara se încheie la lacul din Valea Lak, unde sunetul ploii pe apă creează o atmosferă relaxantă.",
+            "en": "In the morning, the folk museum's indoor exhibits provide shelter from the rain. At noon, the thick walls of the Cistercian Abbey offer a dry and peaceful refuge. In the afternoon, the ascent to Bél-kő is mystic as clouds and rain wrap the cliffs. The day ends at Lak Valley Lake, watching the raindrops dance on the water's surface."
+          },
+          "stops": [
+            {
+              "name": "Bélapátfalva Folk Museum",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um den ersten Regenschauer im Trockenen abzuwarten.",
+                "hu": "Kiváló helyszín az első záporok átvészelésére a fedett termekben.",
+                "ro": "Loc perfect pentru a aștepta trecerea primei averse în interior.",
+                "en": "A perfect place to wait out the first rain showers indoors."
+              }
+            },
+            {
+              "name": "Calvary Hill",
+              "tip_5lang": {
+                "de": "Vorsicht, die Stufen können bei Nässe rutschig sein.",
+                "hu": "Vigyázat, a lépcsők és az ösvény nedvesen csúszóssá válhatnak.",
+                "ro": "Atenție, treptele pot deveni alunecoase când sunt ude.",
+                "en": "Caution, the steps and path can be slippery when wet."
+              }
+            },
+            {
+              "name": "Mary's Spring",
+              "tip_5lang": {
+                "de": "Das frische Quellwasser schmeckt bei Regen besonders rein.",
+                "hu": "A friss forrásvíz esős időben is frissítő és tiszta.",
+                "ro": "Apa proaspătă de izvor este revigorantă chiar și pe ploaie.",
+                "en": "The fresh spring water is refreshing even in rainy weather."
+              }
+            },
+            {
+              "name": "Cistercian Abbey",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit für eine ausführliche Innenbesichtigung.",
+                "hu": "Használja ki az időt egy alapos belső körbevezetésre a szárazban.",
+                "ro": "Profită de timp pentru o vizită detaliată a interiorului uscat.",
+                "en": "Take advantage of the time for a detailed indoor visit."
+              }
+            },
+            {
+              "name": "Gilitka Chapel",
+              "tip_5lang": {
+                "de": "Der Wald bietet hier einen natürlichen Regenschutz.",
+                "hu": "Az erdő lombkoronája természetes esernyőként véd a kápolnánál.",
+                "ro": "Copacii pădurii oferă o protecție naturală împotriva ploii.",
+                "en": "The forest canopy provides natural shelter near the chapel."
+              }
+            },
+            {
+              "name": "Bél-kő Mountain",
+              "tip_5lang": {
+                "de": "Gute Regenjacke und Trittsicherheit sind hier heute Pflicht.",
+                "hu": "Vízálló túracipő és esőkabát kötelező a sziklás terepen.",
+                "ro": "Încălțămintea impermeabilă și pelerina de ploaie sunt esențiale.",
+                "en": "Waterproof hiking boots and a rain jacket are essential here."
+              }
+            },
+            {
+              "name": "Lak Valley Lake",
+              "tip_5lang": {
+                "de": "Die überdachten Bänke am Ufer bieten Schutz beim Ausruhen.",
+                "hu": "A part menti fedett pihenőhelyeknél szárazon pihenhetünk.",
+                "ro": "Băncile acoperite de pe mal oferă adăpost pentru odihnă.",
+                "en": "Covered benches along the shore provide shelter for resting."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Wanderschuhe für den kalkhaltigen Boden.",
+              "Die Abtei ist ein idealer Rückzugsort bei starkem Guss.",
+              "Packen Sie Ihre Elektronik in wasserdichte Beutel.",
+              "Der Pfad zum Bél-kő kann bei Schlamm rutschig sein."
+            ],
+            "hu": [
+              "Viseljen vízálló túrabakancsot a mészköves talaj miatt.",
+              "Az apátság kiváló menedék hevesebb zivatar esetén.",
+              "Tegye az elektronikai eszközöket vízhatlan tasakba.",
+              "A Bél-kőhöz vezető út sárban csúszóssá válhat."
+            ],
+            "ro": [
+              "Purtați bocanci impermeabili din cauza solului calcaros.",
+              "Abația este un refugiu excelent în caz de furtună.",
+              "Puneți dispozitivele electronice în pungi etanșe.",
+              "Drumul spre Bél-kő poate fi noroios și alunecos."
+            ],
+            "en": [
+              "Wear waterproof hiking boots due to the limestone soil.",
+              "The Abbey is an excellent shelter during heavy downpours.",
+              "Place your electronics in waterproof bags.",
+              "The path to Bél-kő can become muddy and slippery."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen beginnt im warmen Volksmuseum. Mittags wirkt die romanische Abtei in der verschneiten Landschaft wie aus einer anderen Zeit. Am Nachmittag ist die Wanderung zum Bél-kő kurz, da die Sonne früh hinter den Bergen verschwindet. Den Abend verbringt man am zugefrorenen Lak-Tal-See, wo die kühle Winterluft die Sinne schärft.",
+            "hu": "A fagyos reggel a néprajzi múzeum fűtött kiállítóterében indul. Délben a havas tájban álló apátság olyan, mint egy középkori képeslap. Délután a Bél-kőre tett túrát rövidre fogjuk a korai naplemente miatt. Estére a befagyott Lak-völgyi tó partján élvezzük a csípős téli levegőt és a csendet.",
+            "ro": "O dimineață geroasă începe în muzeul de etnografie încălzit. La prânz, abația în peisajul înzăpezit pare desprinsă dintr-o altă epocă. După-amiaza, drumeția pe Bél-kő este scurtă din cauza apusului timpuriu. Seara se încheie la lacul înghețat din Valea Lak, în aerul rece de iarnă.",
+            "en": "A frosty morning starts in the warm rooms of the folk museum. At noon, the abbey in the snowy landscape looks like a medieval postcard. In the afternoon, the hike to Bél-kő is timed carefully before the early sunset. The evening ends by the frozen Lak Valley Lake, enjoying the crisp winter air."
+          },
+          "stops": [
+            {
+              "name": "Bélapátfalva Folk Museum",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich hier auf, bevor der Marsch beginnt.",
+                "hu": "Melegedjen át a múzeumban a túra megkezdése előtt.",
+                "ro": "Încălzește-te aici înainte de a începe drumeția.",
+                "en": "Warm up here before starting your outdoor trek."
+              }
+            },
+            {
+              "name": "Calvary Hill",
+              "tip_5lang": {
+                "de": "Achten Sie auf Vereisungen auf den Treppenstufen.",
+                "hu": "Ügyeljen a lépcsőfokokon kialakuló jegesedésre.",
+                "ro": "Atenție la porțiunile înghețate de pe trepte.",
+                "en": "Watch out for icy patches on the steps."
+              }
+            },
+            {
+              "name": "Mary's Spring",
+              "tip_5lang": {
+                "de": "Die Quelle friert selten zu, ideal zum Auffüllen.",
+                "hu": "A forrás ritkán fagy be, ilyenkor is iható a vize.",
+                "ro": "Izvorul îngheață rar, apa este bună de băut și iarna.",
+                "en": "The spring rarely freezes over, great for a refill."
+              }
+            },
+            {
+              "name": "Cistercian Abbey",
+              "tip_5lang": {
+                "de": "In der Kirche ist es sehr kalt, behalten Sie den Mantel an.",
+                "hu": "A templomban nagyon hideg van, ne vegye le a kabátját.",
+                "ro": "Este foarte frig în biserică, păstrați haina pe dvs.",
+                "en": "It is very cold inside the church, keep your coat on."
+              }
+            },
+            {
+              "name": "Gilitka Chapel",
+              "tip_5lang": {
+                "de": "Der verschneite Waldweg zur Kapelle ist besonders ruhig.",
+                "hu": "A kápolnához vezető havas erdei út ilyenkor a legcsendesebb.",
+                "ro": "Drumul prin pădurea înzăpezită este extrem de liniștit.",
+                "en": "The snowy forest path to the chapel is exceptionally quiet."
+              }
+            },
+            {
+              "name": "Bél-kő Mountain",
+              "tip_5lang": {
+                "de": "Starten Sie spätestens um 13 Uhr für den Abstieg bei Licht.",
+                "hu": "Legkésőbb 13 órakor induljon vissza a világos miatt.",
+                "ro": "Începeți coborârea cel târziu la ora 13 pentru lumină.",
+                "en": "Start your descent by 1 PM to have enough daylight."
+              }
+            },
+            {
+              "name": "Lak Valley Lake",
+              "tip_5lang": {
+                "de": "Betreten Sie die Eisfläche des Sees niemals ungesichert.",
+                "hu": "Soha ne menjen a tó jegére, ha nem engedélyezett.",
+                "ro": "Nu intrați pe gheața lacului dacă nu este sigur.",
+                "en": "Never step onto the lake's ice unless it is officially safe."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Winter bereits gegen 16:00 Uhr unter.",
+              "Tragen Sie Zwiebelschichten und Thermounterwäsche.",
+              "Nehmen Sie eine Thermoskanne mit heißem Tee mit.",
+              "Einige Waldwege können bei hohem Schnee schwer passierbar sein."
+            ],
+            "hu": [
+              "A nap télen már 16:00 körül lenyugszik a hegyek mögött.",
+              "Öltözzön rétegesen, használjon termoneműt.",
+              "Vigyen magával termoszban forró teát a túrára.",
+              "Nagy hóban egyes erdei utak nehezen járhatóak lehetnek."
+            ],
+            "ro": [
+              "Soarele apune iarna în jurul orei 16:00 după munți.",
+              "Îmbrăcați-vă în straturi și folosiți haine termice.",
+              "Luați un termos cu ceai fierbinte pentru drum.",
+              "Unele poteci pot fi greu accesibile în zăpadă mare."
+            ],
+            "en": [
+              "The sun sets around 4 PM behind the mountains in winter.",
+              "Dress in layers and use thermal underwear.",
+              "Carry a thermos with hot tea for the hike.",
+              "Some forest paths might be difficult to navigate in deep snow."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -674,6 +874,188 @@
           "Bring a good lock to secure your bike at stops.",
           "The path to Bél-kő is a hiking trail, not a bike path."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt am regnerischen Lak-Tal-See, wo der Asphalt glänzt. Mittags bietet das Volksmuseum eine trockene Pause. Danach führt die Fahrt zur Abtei, wobei man auf spritzendes Wasser achten muss. Nachmittags erkunden wir das alte Zementwerk, bevor wir den Tag am nebligen Fuße des Bél-kő beenden.",
+            "hu": "A nap az esős Lak-völgyi tónál indul, ahol csillog az aszfalt. Napközben a néprajzi múzeum nyújt száraz pihenőt. Ezután az apátsághoz tekerünk, ügyelve a felverődő vízre. Délután a régi cementgyár ipari romjait nézzük meg, majd a ködös Bél-kő lábánál zárjuk a túrát.",
+            "ro": "Ziua începe la lacul din Valea Lak, unde asfaltul lucește de ploaie. La prânz, muzeul de etnografie oferă o pauză uscată. Continuăm spre abație, atenți la apa împroșcată. După-amiaza explorăm vechea fabrică de ciment, încheind turul la poalele muntelui Bél-kő.",
+            "en": "The day begins at a rainy Lak Valley Lake with glistening asphalt. Midday, the folk museum offers a dry break. Then we cycle to the Abbey, being careful of splashing water. In the afternoon, we explore the cement works ruins, finishing at the misty foot of Bél-kő."
+          },
+          "stops": [
+            {
+              "name": "Lak Valley Lake",
+              "tip_5lang": {
+                "de": "Vorsicht vor rutschigem Laub auf dem Radweg am Ufer.",
+                "hu": "Vigyázzon a vizes levelekre a tóparti kerékpárúton.",
+                "ro": "Atenție la frunzele umede pe pista de biciclete de pe mal.",
+                "en": "Watch out for slippery wet leaves on the lakeside path."
+              }
+            },
+            {
+              "name": "Bélapátfalva Folk Museum",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter das Vordach, um den Sattel trocken zu halten.",
+                "hu": "Támassza le a biciklit az eresz alá, hogy száraz maradjon a nyereg.",
+                "ro": "Parcați bicicleta sub streașină pentru a păstra șaua uscată.",
+                "en": "Park your bike under the eaves to keep the saddle dry."
+              }
+            },
+            {
+              "name": "Mary's Spring",
+              "tip_5lang": {
+                "de": "Ein schneller Stopp, um die Wasserflaschen aufzufüllen.",
+                "hu": "Gyors megálló a kulacsok feltöltésére az esőben.",
+                "ro": "O oprire rapidă pentru a umple bidoanele cu apă.",
+                "en": "A quick stop to refill water bottles in the rain."
+              }
+            },
+            {
+              "name": "Cistercian Abbey",
+              "tip_5lang": {
+                "de": "Der Anstieg zur Abtei kann bei Nässe mehr Kraft kosten.",
+                "hu": "Az apátsághoz vezető emelkedő vizes úton nehezebb lehet.",
+                "ro": "Urcarea spre abație pe drum ud poate fi mai solicitantă.",
+                "en": "The climb to the Abbey can be more taxing on wet roads."
+              }
+            },
+            {
+              "name": "Former Cement Works",
+              "tip_5lang": {
+                "de": "Meiden Sie tiefe Pfützen auf dem Fabrikgelände.",
+                "hu": "Kerülje a mély tócsákat a gyár területén.",
+                "ro": "Evitați bălțile adânci din zona fabricii.",
+                "en": "Avoid deep puddles in the factory area."
+              }
+            },
+            {
+              "name": "Trailhead to Bél-kő",
+              "tip_5lang": {
+                "de": "Schließen Sie Ihr Rad sicher ab, bevor Sie zu Fuß weitergehen.",
+                "hu": "Zárja le biztonságosan a kerékpárt a túra előtt.",
+                "ro": "Încuiați bicicleta în siguranță înainte de drumeție.",
+                "en": "Lock your bike securely before continuing on foot."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Bremsen, sie reagieren bei Nässe langsamer.",
+              "Schutzbleche sind bei diesem Wetter unverzichtbar.",
+              "Tragen Sie eine neongelbe Regenjacke für bessere Sichtbarkeit.",
+              "Vermeiden Sie riskante Kurvenmanöver auf nassem Asphalt."
+            ],
+            "hu": [
+              "Ellenőrizze a fékeket, nedvesen hosszabb a fékút.",
+              "A sárvédő elengedhetetlen ilyen időben.",
+              "Viseljen feltűnő esőkabátot a jobb láthatóságért.",
+              "Kerülje a hirtelen kanyarodást a vizes aszfalton."
+            ],
+            "ro": [
+              "Verificați frânele, distanța de frânare crește pe ud.",
+              "Apărătorile de noroi sunt indispensabile pe ploaie.",
+              "Purtați o pelerină reflectorizantă pentru vizibilitate.",
+              "Evitați manevrele bruște pe asfaltul ud."
+            ],
+            "en": [
+              "Check your brakes, stopping distance is longer when wet.",
+              "Mudguards are indispensable in this weather.",
+              "Wear high-visibility rain gear for better safety.",
+              "Avoid sharp turns on the wet asphalt."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klirrend kalter Start am Lak-Tal-See erfordert warme Handschuhe. Mittags wärmen wir uns im Volksmuseum kurz auf. Die Fahrt zur Abtei durch den Winterwald ist magisch, aber man muss auf Glatteis achten. Nachmittags besichtigen wir das Zementwerk, bevor wir das Rad am Bél-kő abstellen und die klare Luft genießen.",
+            "hu": "A Lak-völgyi tónál kezdődő fagyos reggelen jól jön a meleg kesztyű. Délben a néprajzi múzeumban melegszünk fel. A téli erdőn át vezető út az apátsághoz mesés, de a jeges foltokra ügyelni kell. Délután a cementgyárnál teszünk egy kört, majd a Bél-kőnél fejezzük be a tekerést.",
+            "ro": "Un start geros la lacul din Valea Lak necesită mănuși groase. La prânz ne încălzim scurt la muzeul de etnografie. Drumul spre abație prin pădurea înghețată este magic, dar atenție la polei. După-amiaza vizităm fabrica de ciment, încheind turul în aerul curat de la Bél-kő.",
+            "en": "A biting cold start at Lak Valley Lake requires warm gloves. Midday, we warm up briefly at the folk museum. The ride to the Abbey through the winter forest is magical, but watch out for black ice. In the afternoon, we visit the cement works before finishing at Bél-kő."
+          },
+          "stops": [
+            {
+              "name": "Lak Valley Lake",
+              "tip_5lang": {
+                "de": "Achtung vor überfrierender Nässe auf der Uferstraße.",
+                "hu": "Vigyázzon a felfagyásokra a tóparti úton.",
+                "ro": "Atenție la polei pe drumul de lângă lac.",
+                "en": "Beware of black ice on the lakeside road."
+              }
+            },
+            {
+              "name": "Bélapátfalva Folk Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp, um die Finger wieder zu spüren.",
+                "hu": "Használja ki a pihenőt, hogy felmelegedjenek az ujjai.",
+                "ro": "Folosiți oprirea pentru a vă dezmorți degetele.",
+                "en": "Use this stop to get some feeling back into your fingers."
+              }
+            },
+            {
+              "name": "Mary's Spring",
+              "tip_5lang": {
+                "de": "Vorsicht beim Absteigen, der Boden um die Quelle kann vereist sein.",
+                "hu": "Vigyázzon a leszállásnál, a forrás környéke jeges lehet.",
+                "ro": "Atenție la coborâre, zona izvorului poate fi înghețată.",
+                "en": "Be careful when dismounting; the area around the spring may be icy."
+              }
+            },
+            {
+              "name": "Cistercian Abbey",
+              "tip_5lang": {
+                "de": "Das Radfahren im Winterwald ist anstrengend, planen Sie Pausen ein.",
+                "hu": "A téli erdei tekerés fárasztó, tervezzen több pihenőt.",
+                "ro": "Ciclismul prin pădurea de iarnă e obositor, planificați pauze.",
+                "en": "Cycling through the winter forest is tiring; plan for breaks."
+              }
+            },
+            {
+              "name": "Former Cement Works",
+              "tip_5lang": {
+                "de": "Die Metallteile im Werk können bei Frost extrem rutschig sein.",
+                "hu": "A gyár fémalkatrészei fagyban rendkívül csúszósak.",
+                "ro": "Elementele metalice din fabrică sunt foarte alunecoase la ger.",
+                "en": "Metal parts in the factory can be extremely slippery in frost."
+              }
+            },
+            {
+              "name": "Trailhead to Bél-kő",
+              "tip_5lang": {
+                "de": "Denken Sie an die Rückfahrt im Dunkeln, Licht prüfen!",
+                "hu": "Gondoljon a sötétben való visszatérésre, ellenőrizze a lámpákat!",
+                "ro": "Atenție la întoarcerea pe întuneric, verificați luminile!",
+                "en": "Plan for a return in the dark; check your lights!"
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Reduzieren Sie den Reifendruck leicht für besseren Grip.",
+              "Kälteschutz für Knie und Füße ist besonders wichtig.",
+              "Batterien von Lampen entladen sich bei Kälte schneller.",
+              "Meiden Sie schattige Waldpassagen wegen Glatteisgefahr."
+            ],
+            "hu": [
+              "Csökkentse kissé a guminyomást a jobb tapadásért.",
+              "A térdek és lábfejek védelme kiemelten fontos hidegben.",
+              "A lámpák elemei gyorsabban merülnek a hidegben.",
+              "Kerülje az árnyékos erdei szakaszokat a jegesedés miatt."
+            ],
+            "ro": [
+              "Reduceți ușor presiunea în pneuri pentru aderență mai bună.",
+              "Protecția genunchilor și a picioarelor este esențială la ger.",
+              "Bateriile luminilor se descarcă mai repede la frig.",
+              "Evitați porțiunile umbrite din pădure din cauza poleiului."
+            ],
+            "en": [
+              "Slightly reduce tire pressure for better grip on snow/ice.",
+              "Protecting your knees and feet from cold is vital.",
+              "Light batteries drain faster in cold temperatures.",
+              "Avoid shaded forest sections due to high risk of black ice."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -962,6 +1344,188 @@
           "Fill up your car, as gas stations are scarce in the mountains.",
           "Hiking boots are essential for Bél-kő."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein verregneter Vormittag am Lak-Tal-See, das Auto bietet den perfekten Unterschlupf. Mittags fahren wir zur Zisterzienserabtei, wo der Parkplatz nur wenige Schritte vom Eingang entfernt ist. Nachmittags geht es zum alten Zementwerk und zum Fuße des Bél-kő, wobei die Scheibenwischer im Dauereinsatz sind. Ein entspannter Tag trotz schlechtem Wetter.",
+            "hu": "Esős délelőtt a Lak-völgyi tónál, az autó tökéletes menedéket nyújt. Délben a ciszterci apátsághoz hajtunk, ahol a parkoló csak pár lépésre van a bejárattól. Délután a régi cementgyárat és a Bél-kő lábát keressük fel, miközben az ablaktörlők folyamatosan dolgoznak. Kényelmes túra a rossz idő ellenére is.",
+            "ro": "O dimineață ploioasă la lacul din Valea Lak, mașina fiind adăpostul perfect. La prânz mergem la abația cisterciană, unde parcarea este aproape de intrare. După-amiaza vizităm vechea fabrică de ciment și poalele muntelui Bél-kő, cu ștergătoarele pornite continuu. O zi relaxantă în ciuda vremii.",
+            "en": "A rainy morning at Lak Valley Lake, with the car providing perfect shelter. At noon, we drive to the Cistercian Abbey, where the parking is just steps from the entrance. In the afternoon, we visit the old cement works and the foot of Bél-kő, with wipers working constantly. A comfortable tour despite the rain."
+          },
+          "stops": [
+            {
+              "name": "Parking at Lak Valley Lake",
+              "tip_5lang": {
+                "de": "Parken Sie auf befestigtem Untergrund, um nicht steckenzubleiben.",
+                "hu": "Parkoljon szilárd burkolaton, hogy elkerülje az elakadást a sárban.",
+                "ro": "Parcați pe suprafețe dure pentru a nu rămâne înnoroiat.",
+                "en": "Park on paved surfaces to avoid getting stuck in mud."
+              }
+            },
+            {
+              "name": "Lak Valley Lake",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den See direkt aus dem Auto.",
+                "hu": "Élvezze a tóra nyíló kilátást közvetlenül az autóból.",
+                "ro": "Bucurați-vă de vederea spre lac direct din mașină.",
+                "en": "Enjoy the lake view directly from the comfort of your car."
+              }
+            },
+            {
+              "name": "Abbey Parking Area",
+              "tip_5lang": {
+                "de": "Halten Sie den Schirm beim Aussteigen bereit.",
+                "hu": "Készítse elő az esernyőt, mielőtt kiszáll az autóból.",
+                "ro": "Pregătiți umbrela înainte de a coborî din mașină.",
+                "en": "Have your umbrella ready before getting out of the car."
+              }
+            },
+            {
+              "name": "Cistercian Abbey",
+              "tip_5lang": {
+                "de": "Kurzer Weg von den Parkplätzen zum trockenen Kirchenschiff.",
+                "hu": "Rövid séta a parkolótól a száraz templombelsőig.",
+                "ro": "Scurtă plimbare de la parcare până în interiorul uscat.",
+                "en": "A short walk from the parking lot to the dry church interior."
+              }
+            },
+            {
+              "name": "Former Cement Works",
+              "tip_5lang": {
+                "de": "Die Zufahrt kann bei Starkregen überschwemmt sein.",
+                "hu": "Heves esőzéskor a bekötőút víz alatt állhat.",
+                "ro": "Drumul de acces poate fi inundat la ploi torențiale.",
+                "en": "The access road might be flooded during heavy rain."
+              }
+            },
+            {
+              "name": "Parking at Bél-kő Trailhead",
+              "tip_5lang": {
+                "de": "Bleiben Sie bei Gewitter im Fahrzeug, es dient als Faradayscher Käfig.",
+                "hu": "Vihar esetén maradjon az autóban, az biztonságos menedék.",
+                "ro": "În caz de furtună rămâneți în mașină, este un refugiu sigur.",
+                "en": "Stay in the vehicle during thunderstorms; it's a safe Faraday cage."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Zustand Ihrer Scheibenwischerblätter.",
+              "Fahren Sie vorsichtig auf den schmalen Waldstraßen.",
+              "Halten Sie einen Lappen bereit, um beschlagene Scheiben zu reinigen.",
+              "Vermeiden Sie das Parken unter morschen Bäumen bei Wind."
+            ],
+            "hu": [
+              "Ellenőrizze az ablaktörlő lapátok állapotát.",
+              "Vezessen óvatosan a szűk erdei utakon.",
+              "Legyen kéznél törlőkendő a párásodó szélvédőhöz.",
+              "Szeles időben ne parkoljon korhadt fák alá."
+            ],
+            "ro": [
+              "Verificați starea lamelelor ștergătoarelor.",
+              "Conduceți cu prudență pe drumurile înguste de pădure.",
+              "Aveți la îndemână o cârpă pentru parbrizul aburit.",
+              "Evitați parcarea sub copaci bătrâni pe timp de vânt."
+            ],
+            "en": [
+              "Check the condition of your windshield wiper blades.",
+              "Drive carefully on the narrow forest roads.",
+              "Keep a cloth handy for clearing fogged-up windows.",
+              "Avoid parking under old trees during windy weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Tag beginnt am Lak-Tal-See, das Auto ist bereits vorgeheizt. Mittags führt die Fahrt durch die verschneite Bükk-Landschaft zur Abtei, ein herrlicher Anblick. Nachmittags besuchen wir das Zementwerk und den Parkplatz am Bél-kő, wobei wir die Wintersonne genießen, bevor es früh dunkel wird. Dank Sitzheizung ist die Tour sehr angenehm.",
+            "hu": "Fagyos nap a Lak-völgyi tónál, a fűtött autó igazi áldás. Délben a havas Bükkön át autózunk az apátsághoz, ami ilyenkor festői látvány. Délután a cementgyár és a Bél-kő parkolója a cél, élvezzük a téli napsütést a korai sötétedés előtt. Az ülésfűtés mellett a túra rendkívül kényelmes.",
+            "ro": "O zi geroasă la lacul din Valea Lak, mașina încălzită fiind o binecuvântare. La prânz conducem prin peisajul înzăpezit spre abație, care arată pitoresc. După-amiaza vizităm fabrica de ciment și parcarea de la Bél-kő, profitând de soarele de iarnă înainte de lăsarea serii.",
+            "en": "A frosty day at Lak Valley Lake, where a pre-heated car is a blessing. At noon, we drive through the snowy Bükk landscape to the Abbey, which looks picturesque. In the afternoon, we visit the cement works and Bél-kő parking, enjoying the winter sun before the early darkness."
+          },
+          "stops": [
+            {
+              "name": "Parking at Lak Valley Lake",
+              "tip_5lang": {
+                "de": "Achtung, der Parkplatz wird im Winter oft nicht geräumt.",
+                "hu": "Vigyázat, a parkolót télen nem mindig takarítják a hótól.",
+                "ro": "Atenție, parcarea nu este mereu deszăpezită iarna.",
+                "en": "Caution: the parking lot may not always be cleared of snow in winter."
+              }
+            },
+            {
+              "name": "Lak Valley Lake",
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor nicht unnötig im Stand laufen.",
+                "hu": "Ne járassa feleslegesen a motort álló helyzetben.",
+                "ro": "Nu lăsați motorul pornit inutil în staționare.",
+                "en": "Don't leave the engine idling unnecessarily while stationary."
+              }
+            },
+            {
+              "name": "Abbey Parking Area",
+              "tip_5lang": {
+                "de": "Vorsicht vor Eisplatten unter der Schneedecke.",
+                "hu": "Vigyázzon a hóréteg alatt megbújó jégfoltokra.",
+                "ro": "Atenție la porțiunile de gheață de sub zăpadă.",
+                "en": "Watch out for ice patches hidden under the snow."
+              }
+            },
+            {
+              "name": "Cistercian Abbey",
+              "tip_5lang": {
+                "de": "Der Innenraum ist kälter als draußen, warm anziehen.",
+                "hu": "A templom belseje hidegebb, mint a kinti levegő.",
+                "ro": "Interiorul bisericii este mai rece decât aerul de afară.",
+                "en": "The church interior is colder than the air outside."
+              }
+            },
+            {
+              "name": "Former Cement Works",
+              "tip_5lang": {
+                "de": "Die Zufahrt zum Werk kann bei Glätte gefährlich sein.",
+                "hu": "A gyárhoz vezető út csúszós időben veszélyes lehet.",
+                "ro": "Drumul spre fabrică poate fi periculos când e polei.",
+                "en": "The road to the factory can be treacherous in icy conditions."
+              }
+            },
+            {
+              "name": "Parking at Bél-kő Trailhead",
+              "tip_5lang": {
+                "de": "Prüfen Sie vor der Abfahrt, ob die Scheinwerfer schneefrei sind.",
+                "hu": "Indulás előtt tisztítsa meg a fényszórókat a hótól.",
+                "ro": "Curățați farurile de zăpadă înainte de a pleca.",
+                "en": "Clear the snow off your headlights before driving off."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen und Frostschutzmittel sind absolut notwendig.",
+              "Führen Sie einen Eiskratzer und einen kleinen Besen mit.",
+              "Achten Sie auf Wildwechsel in der Dämmerung.",
+              "Tanken Sie rechtzeitig, im Gebirge steigt der Verbrauch."
+            ],
+            "hu": [
+              "A téli gumi és a fagyálló folyadék elengedhetetlen.",
+              "Legyen az autóban jégkaparó és hókefe.",
+              "Vigyázzon a vadakra a korai szürkületben.",
+              "Tankoljon időben, a hegymenetben nő a fogyasztás."
+            ],
+            "ro": [
+              "Anvelopele de iarnă și antigelul sunt obligatorii.",
+              "Aveți în mașină o racletă și o perie de zăpadă.",
+              "Atenție la animalele sălbatice în amurgul timpuriu.",
+              "Alimentați la timp, consumul crește la munte."
+            ],
+            "en": [
+              "Winter tires and antifreeze are absolutely mandatory.",
+              "Keep an ice scraper and a snow brush in the car.",
+              "Watch out for wildlife crossing the road during early dusk.",
+              "Refuel in time; mountain driving increases consumption."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1230,6 +1794,188 @@
           "Have small change ready for tickets.",
           "Buses may not run frequently, so plan your time accordingly."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt an der Bushaltestelle im Zentrum, von wo aus wir schnell ins trockene Volksmuseum gelangen. Mittags bringt uns der Bus zur Abtei, wobei wir die Wartezeit unter dem Haltestellendach verbringen. Nachmittags besichtigen wir die Kirche im Trockenen. Den Abschluss bildet eine Fahrt zum Lak-Tal-See, bevor wir den Bus zurück nehmen.",
+            "hu": "A nap a központi buszmegállónál indul, ahonnan gyorsan beérünk a száraz néprajzi múzeumba. Délben busszal megyünk az apátsághoz, a váróteremben vészelve át az esőt. Délután a templomot nézzük meg fedett helyen. A napot egy Lak-völgyi tavi kirándulással zárjuk, majd busszal térünk vissza.",
+            "ro": "Ziua începe la stația de autobuz din centru, de unde ajungem rapid la muzeul de etnografie. La prânz, autobuzul ne duce la abație, așteptând sub copertina stației. După-amiaza vizităm biserica la adăpost. Încheiem cu o vizită la lacul din Valea Lak înainte de a lua autobuzul înapoi.",
+            "en": "The day begins at the center bus stop, from where we quickly reach the dry folk museum. At noon, the bus takes us to the Abbey, waiting under the shelter of the stop. In the afternoon, we visit the church indoors. We finish with a trip to Lak Valley Lake before taking the bus back."
+          },
+          "stops": [
+            {
+              "name": "Bélapátfalva, Center Bus Stop",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Wartehäuschen als Schutz vor dem Regen.",
+                "hu": "Használja a buszmegálló váróhelyiségét eső elleni védelemként.",
+                "ro": "Folosiți copertina stației pentru a vă proteja de ploaie.",
+                "en": "Use the bus stop shelter to protect yourself from the rain."
+              }
+            },
+            {
+              "name": "Bélapátfalva Folk Museum",
+              "tip_5lang": {
+                "de": "Nur wenige Gehminuten von der Haltestelle entfernt.",
+                "hu": "Csak pár perc séta a buszmegállótól a bejáratig.",
+                "ro": "La doar câteva minute de mers pe jos de la stație.",
+                "en": "Only a few minutes' walk from the bus stop to the entrance."
+              }
+            },
+            {
+              "name": "Calvary Hill",
+              "tip_5lang": {
+                "de": "Bei starkem Regen ist dieser Stopp im Freien optional.",
+                "hu": "Heves esőzés esetén ez a szabadtéri pont kihagyható.",
+                "ro": "În caz de ploaie torențială, această oprire este opțională.",
+                "en": "In case of heavy rain, this outdoor stop is optional."
+              }
+            },
+            {
+              "name": "Cistercian Abbey Bus Stop",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Fahrplan, um Wartezeiten im Regen zu minimieren.",
+                "hu": "Ellenőrizze a menetrendet, hogy ne kelljen sokat várnia az esőben.",
+                "ro": "Verificați mersul autobuzelor pentru a nu aștepta mult în ploaie.",
+                "en": "Check the timetable to minimize waiting in the rain."
+              }
+            },
+            {
+              "name": "Cistercian Abbey",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um einen Regenguss abzuwarten.",
+                "hu": "Ideális helyszín egy nagyobb zápor átvészelésére.",
+                "ro": "Un loc ideal pentru a aștepta trecerea unei averse.",
+                "en": "An ideal place to wait out a heavy downpour."
+              }
+            },
+            {
+              "name": "Lak Valley Lake Bus Stop",
+              "tip_5lang": {
+                "de": "Der Fußweg zum See kann bei Regen etwas matschig sein.",
+                "hu": "A tóhoz vezető gyalogút esőben sáros lehet.",
+                "ro": "Drumul spre lac poate fi noroios pe timp de ploaie.",
+                "en": "The walking path to the lake can be muddy when it rains."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Laden Sie die Fahrplan-App vorab herunter.",
+              "Tragen Sie bei Wind an Haltestellen eine winddichte Jacke.",
+              "Halten Sie Kleingeld für den Fahrkartenkauf bereit.",
+              "Die Busse verkehren in dieser ländlichen Region seltener."
+            ],
+            "hu": [
+              "Töltse le előre a menetrendi alkalmazást.",
+              "Szeles időben a megállóban jól jön a szélkabát.",
+              "Legyen Önnél aprópénz a jegyvásárláshoz.",
+              "A buszok ezen a vidéken ritkábban járnak, tervezzen előre."
+            ],
+            "ro": [
+              "Descărcați în avans aplicația cu mersul autobuzelor.",
+              "Purtați o jachetă rezistentă la vânt în timp ce așteptați.",
+              "Aveți pregătiți bani mărunți pentru bilet.",
+              "Autobuzele circulă mai rar în această zonă rurală."
+            ],
+            "en": [
+              "Download the timetable app in advance.",
+              "Wear a windproof jacket while waiting at the bus stops.",
+              "Have small change ready for buying tickets.",
+              "Buses run less frequently in this rural area; plan ahead."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Start im Zentrum, wir warten im beheizten Bus. Mittags besuchen wir das Volksmuseum, bevor uns der nächste Bus zur Abtei bringt. Die verschneite Landschaft aus dem Busfenster zu betrachten ist sehr entspannend. Den Nachmittag verbringen wir in der Abtei, bevor wir zum Lak-Tal-See fahren und rechtzeitig vor Einbruch der Dunkelheit den Rückweg antreten.",
+            "hu": "Fagyos kezdés a központban, a fűtött buszban várakozunk. Délben a néprajzi múzeumot nézzük meg, majd a következő busszal az apátsághoz megyünk. A buszablakból nézni a havas tájat nagyon megnyugtató. A délutánt az apátságnál töltjük, majd a Lak-völgyi tó után még sötétedés előtt visszaindulunk.",
+            "ro": "Un start geros în centru, așteptăm în autobuzul încălzit. La prânz vizităm muzeul de etnografie, apoi luăm autobuzul spre abație. Peisajul înzăpezit văzut de pe geam este relaxant. După-amiaza o petrecem la abație, apoi la lacul din Valea Lak, întorcându-ne înainte de lăsarea serii.",
+            "en": "A frosty start in the center, waiting in the heated bus. Midday we visit the folk museum before the next bus takes us to the Abbey. Watching the snowy landscape through the bus window is very relaxing. We spend the afternoon at the Abbey and Lak Valley Lake, returning before dark."
+          },
+          "stops": [
+            {
+              "name": "Bélapátfalva, Center Bus Stop",
+              "tip_5lang": {
+                "de": "Suchen Sie bei Kälte Schutz im Inneren nahegelegener Geschäfte.",
+                "hu": "Hidegben keressen menedéket a közeli üzletekben a buszig.",
+                "ro": "La ger, căutați adăpost în magazinele din apropiere.",
+                "en": "In extreme cold, seek shelter in nearby shops until the bus arrives."
+              }
+            },
+            {
+              "name": "Bélapátfalva Folk Museum",
+              "tip_5lang": {
+                "de": "Ein warmer Stopp, um die Kälte kurz zu vergessen.",
+                "hu": "Meleg helyszín, ahol kicsit elfelejtheti a kinti hideget.",
+                "ro": "O oprire caldă unde poți uita de frigul de afară.",
+                "en": "A warm stop to forget about the cold outside for a while."
+              }
+            },
+            {
+              "name": "Calvary Hill",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glätte auf dem Weg von der Haltestelle.",
+                "hu": "Ügyeljen a csúszós utakra a buszmegállótól jövet.",
+                "ro": "Atenție la polei pe drumul de la stație.",
+                "en": "Watch out for slippery roads when walking from the bus stop."
+              }
+            },
+            {
+              "name": "Cistercian Abbey Bus Stop",
+              "tip_5lang": {
+                "de": "Kommen Sie erst kurz vor der Abfahrt zur Haltestelle.",
+                "hu": "Csak röviddel az indulás előtt álljon ki a megállóba.",
+                "ro": "Veniți la stație cu doar câteva minute înainte de plecare.",
+                "en": "Only head to the bus stop a few minutes before departure."
+              }
+            },
+            {
+              "name": "Cistercian Abbey",
+              "tip_5lang": {
+                "de": "Beachten Sie die eingeschränkten Winteröffnungszeiten.",
+                "hu": "Ügyeljen a korlátozott téli nyitvatartási időre.",
+                "ro": "Atenție la programul redus de vizitare pe timp de iarnă.",
+                "en": "Pay attention to the reduced winter visiting hours."
+              }
+            },
+            {
+              "name": "Lak Valley Lake Bus Stop",
+              "tip_5lang": {
+                "de": "Der letzte Bus zurück fährt im Winter oft früher.",
+                "hu": "A tópartról induló utolsó busz télen korábban mehet.",
+                "ro": "Ultimul autobuz de la lac poate pleca mai devreme iarna.",
+                "en": "The last bus back from the lake often departs earlier in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Planen Sie Pufferzeiten ein, Busse können bei Schnee Verspätung haben.",
+              "Halten Sie Ihre Hände und Füße warm während der Wartezeiten.",
+              "Im Bus ist es meist warm, kleiden Sie sich nach dem Zwiebelprinzip.",
+              "In der Dämmerung sind Haltestellen oft schlecht beleuchtet."
+            ],
+            "hu": [
+              "Számoljon rá időt, a buszok késhetnek a hó miatt.",
+              "Várakozás közben tartsa melegen a kezeit és lábait.",
+              "A buszon meleg van, öltözzön rétegesen, hogy levethesse a kabátot.",
+              "Szürkületben a megállók néha rosszul megvilágítottak."
+            ],
+            "ro": [
+              "Luați-vă o marjă de timp, autobuzele pot întârzia din cauza zăpezii.",
+              "Păstrați-vă mâinile și picioarele calde în timp ce așteptați.",
+              "În autobuz este cald, îmbrăcați-vă în straturi.",
+              "Stațiile pot fi prost iluminate la lăsarea serii."
+            ],
+            "en": [
+              "Allow extra time; buses can be delayed due to snow.",
+              "Keep your hands and feet warm while waiting at the stops.",
+              "Buses are usually warm; dress in layers so you can adjust.",
+              "Bus stops might be poorly lit during winter dusk."
+            ]
+          }
+        }
       }
     }
   }

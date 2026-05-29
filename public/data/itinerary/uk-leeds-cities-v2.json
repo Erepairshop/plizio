@@ -378,6 +378,196 @@
           "An umbrella is always a good idea in the north of England.",
           "Take advantage of the many pedestrianised areas in the city centre."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag im Schutz der imposanten Town Hall, bevor Sie zum City Museum eilen. Mittags erkunden Sie die prächtige Architektur des Grand Theatre und finden Unterschlupf im historischen Corn Exchange. Den Nachmittag verbringen Sie trocken im Royal Armouries Museum am Leeds Dock. Den Abend lassen Sie bei einem gemütlichen Essen in The Calls ausklingen, während der Regen gegen die Fenster prasselt.",
+            "hu": "Kezdje a napot a városháza lenyűgöző oszlopai alatt, majd siessen át a városi múzeumba az eső elől. Délidőben a Grand Theatre környékén sétálhat a fedett árkádok alatt, délután pedig a Corn Exchange és a Royal Armouries nyújt tökéletes menedéket. Az estét egy hangulatos vacsorával zárja a The Calls negyedben, élvezve a vízparti esős panorámát.",
+            "ro": "Începeți ziua sub arcadele primăriei, apoi mergeți rapid spre Muzeul Orașului pentru a evita ploaia. La prânz, explorați zona Teatrului Mare și adăpostiți-vă în eleganta clădire Corn Exchange. După-amiaza este ideală pentru Muzeul Royal Armouries, unde veți rămâne la adăpost. Încheiați seara cu o cină caldă în cartierul The Calls, privind ploaia peste râu.",
+            "en": "Start your day under the grand columns of the Town Hall before dashing to the City Museum to stay dry. At midday, explore the Grand Theatre area and find shelter in the historic Corn Exchange. Spend the afternoon safely indoors at the Royal Armouries Museum at Leeds Dock. End the evening with a cozy dinner at The Calls, watching the rain fall over the waterfront."
+          },
+          "stops": [
+            {
+              "name": "Leeds Town Hall",
+              "tip_5lang": {
+                "de": "Nutzen Sie den massiven Eingangsbereich als ersten Regenschutz.",
+                "hu": "Használja a hatalmas bejárati oszlopcsarnokot eső elleni menedékként.",
+                "ro": "Folosiți coloanele masive de la intrare ca prim adăpost contra ploii.",
+                "en": "Use the massive entrance portico as your first shelter from the rain."
+              }
+            },
+            {
+              "name": "Leeds City Museum",
+              "tip_5lang": {
+                "de": "Idealer Ort, um eine längere Regenfront trocken zu überstehen.",
+                "hu": "Ideális helyszín egy hosszabb esőzés szárazon történő átvészeléséhez.",
+                "ro": "Locul ideal pentru a aștepta trecerea unei ploi mai lungi.",
+                "en": "The perfect place to spend a rainy morning entirely indoors."
+              }
+            },
+            {
+              "name": "Grand Theatre",
+              "tip_5lang": {
+                "de": "Die nahegelegenen Grand Arcade bietet trockene Wege zwischen den Läden.",
+                "hu": "A közeli Grand Arcade fedett folyosókat kínál az üzletek között.",
+                "ro": "Pasajul Grand Arcade din apropiere oferă rute acoperite între magazine.",
+                "en": "The nearby Grand Arcade offers covered paths between boutique shops."
+              }
+            },
+            {
+              "name": "Leeds Corn Exchange",
+              "tip_5lang": {
+                "de": "Die beeindruckende Kuppel hält Sie beim Shoppen garantiert trocken.",
+                "hu": "A lenyűgöző kupola garantáltan szárazon tart vásárlás közben.",
+                "ro": "Cupola impresionantă vă va ține cu siguranță la adăpost în timp ce faceți cumpărături.",
+                "en": "The stunning Victorian dome keeps you completely dry while browsing."
+              }
+            },
+            {
+              "name": "Royal Armouries Museum",
+              "tip_5lang": {
+                "de": "Ein riesiger Indoor-Komplex, perfekt für nasse Nachmittage.",
+                "hu": "Hatalmas beltéri komplexum, tökéletes a csapadékos délutánokra.",
+                "ro": "Un complex interior imens, perfect pentru după-amiezi ploioase.",
+                "en": "A vast indoor complex, perfect for escaping the afternoon showers."
+              }
+            },
+            {
+              "name": "Lunch at The Calls",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit Blick auf den regnerischen Fluss Aire.",
+                "hu": "Válasszon egy éttermet, ahonnan rálátni az esős Aire-folyóra.",
+                "ro": "Alegeți un restaurant cu vedere spre râul Aire sub ploaie.",
+                "en": "Choose a restaurant with a window seat overlooking the rainy River Aire."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Victoria Quarter Arkaden für trockene Wege im Zentrum.",
+              "Tragen Sie wasserfeste Schuhe, da sich in den Kopfsteinpflastergassen Pfützen bilden.",
+              "Die Wassertaxis am Leeds Dock sind überdacht und eine trockene Alternative.",
+              "Viele Cafés in The Calls bieten kuschelige Plätze am Fenster.",
+              "Regenschirme können in den engen Arkaden manchmal unpraktisch sein."
+            ],
+            "hu": [
+              "Használja a Victoria Quarter árkádjait a belvárosi közlekedéshez.",
+              "Viseljen vízálló cipőt, mert a macskaköves utcákon megállhat a víz.",
+              "A Leeds Dock vízitaxijai fedettek, így száraz alternatívát jelentenek.",
+              "The Calls negyed kávézói kiválóak egy kis esőlesre.",
+              "Az árkádokban érdemes összecsukni az esernyőt a nagy forgalom miatt."
+            ],
+            "ro": [
+              "Folosiți arcadele Victoria Quarter pentru a traversa centrul la uscat.",
+              "Purtați încălțăminte impermeabilă, străzile pietruite pot avea bălți.",
+              "Taxiurile pe apă de la Leeds Dock sunt acoperite și oferă transport uscat.",
+              "Cafenelele din zona The Calls sunt foarte primitoare pe timp de ploaie.",
+              "Umbrelele pot fi greu de manevrat în pasajele comerciale înguste."
+            ],
+            "en": [
+              "Utilize the Victoria Quarter arcades for dry routes through the center.",
+              "Wear waterproof shoes as puddles tend to form on the cobbled streets.",
+              "The water taxis at Leeds Dock are covered and provide a dry transit option.",
+              "Many cafes in The Calls offer cozy window spots for rain-watching.",
+              "Umbrellas can be cumbersome in the busy, narrow Victorian arcades."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen beginnt an der festlich beleuchteten Town Hall. Mittags wärmen Sie sich in den Ausstellungen des City Museum auf, bevor Sie die winterliche Atmosphäre am Grand Theatre genießen. Der Nachmittag gehört der Wärme des Corn Exchange und den Royal Armouries. Sobald es gegen 16:00 Uhr dunkel wird, erstrahlen die Lichter von The Calls in besonderem Glanz für Ihr Abendessen.",
+            "hu": "A fagyos reggel a díszes kivilágítású városházánál indul. Délben a városi múzeum kiállításai között melegedhet fel, majd élvezheti a téli hangulatot a Grand Theatre környékén. A délutánt töltse a Corn Exchange és a Royal Armouries fűtött tereiben. Amint 16 óra körül besötétedik, The Calls fényei különleges hangulatot árasztanak a vacsorához.",
+            "ro": "O dimineață geroasă începe la primăria luminată festiv. La prânz, încălziți-vă printre exponatele muzeului, apoi bucurați-vă de atmosfera de iarnă de lângă teatru. După-amiaza aparține căldurii din Corn Exchange și Royal Armouries. Pe măsură ce se întunecă în jurul orei 16:00, luminile din The Calls strălucesc special pentru cină.",
+            "en": "A frosty morning begins at the festively lit Town Hall. At midday, warm up among the museum exhibits before enjoying the winter atmosphere near the Grand Theatre. Spend the afternoon in the heated spaces of the Corn Exchange and Royal Armouries. As it gets dark around 16:00, the lights of The Calls provide a magical backdrop for your dinner."
+          },
+          "stops": [
+            {
+              "name": "Leeds Town Hall",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Winterbeleuchtung der viktorianischen Fassade.",
+                "hu": "Csodálja meg a viktoriánus homlokzat téli díszkivilágítását.",
+                "ro": "Admirați iluminatul de iarnă al fațadei victoriene.",
+                "en": "Admire the festive winter lighting on the Victorian facade."
+              }
+            },
+            {
+              "name": "Leeds City Museum",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um sich zwischen den Spaziergängen aufzuwärmen.",
+                "hu": "Tökéletes hely a felmelegedéshez két séta között.",
+                "ro": "Locul perfect pentru a vă încălzi între plimbările prin oraș.",
+                "en": "The perfect indoor spot to warm up between city walks."
+              }
+            },
+            {
+              "name": "Grand Theatre",
+              "tip_5lang": {
+                "de": "Die Abenddämmerung setzt hier im Winter besonders früh ein.",
+                "hu": "A szürkület itt télen különösen korán beköszönt.",
+                "ro": "Amurgul se lasă aici foarte devreme în timpul iernii.",
+                "en": "Dusk settles in very early here during the winter months."
+              }
+            },
+            {
+              "name": "Leeds Corn Exchange",
+              "tip_5lang": {
+                "de": "Genießen Sie ein heißes Getränk unter der schützenden Kuppel.",
+                "hu": "Élvezzen egy forró italt a védelmező kupola alatt.",
+                "ro": "Savurați o băutură caldă sub cupola protectoare.",
+                "en": "Enjoy a hot drink under the shelter of the historic dome."
+              }
+            },
+            {
+              "name": "Royal Armouries Museum",
+              "tip_5lang": {
+                "de": "Vermeiden Sie den kalten Wind am Dock durch den Haupteingang.",
+                "hu": "Kerülje el a kikötői hideg szelet a főbejárat felé sietve.",
+                "ro": "Evitați vântul rece de la docuri mergând spre intrarea principală.",
+                "en": "Avoid the cold dockside wind by heading straight for the main entrance."
+              }
+            },
+            {
+              "name": "Lunch at The Calls",
+              "tip_5lang": {
+                "de": "Warme, deftige britische Küche ist jetzt genau das Richtige.",
+                "hu": "A meleg, kiadós brit konyha most a legvonzóbb választás.",
+                "ro": "Bucătăria britanică caldă și consistentă este ideală acum.",
+                "en": "Warm, hearty British cuisine is exactly what you need now."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Dezember bereits gegen 15:50 Uhr unter.",
+              "Besuchen Sie den Weihnachtsmarkt auf dem Millennium Square (saisonal).",
+              "Tragen Sie Thermokleidung, der Wind in Leeds kann schneidend kalt sein.",
+              "Arkaden bieten Schutz vor dem kalten Nordwind im Zentrum.",
+              "Die Gehwege können bei Frost in den Schattenbereichen glatt sein."
+            ],
+            "hu": [
+              "A nap decemberben már 15:50 körül lenyugszik.",
+              "Látogassa meg a karácsonyi vásárt a Millennium Square-en (szezonális).",
+              "Öltözzön rétegesen, a szél Leeds-ben nagyon metsző tud lenni.",
+              "Az árkádok védelmet nyújtanak a hideg északi szél elől.",
+              "A járdák a fagyos napokon az árnyékos részeken csúszósak lehetnek."
+            ],
+            "ro": [
+              "Soarele apune în decembrie deja în jurul orei 15:50.",
+              "Vizitați piața de Crăciun din Millennium Square (sezonier).",
+              "Purtați haine termice, vântul din Leeds poate fi tăios.",
+              "Arcadele oferă adăpost împotriva vântului rece din nord.",
+              "Trotuarele pot fi alunecoase în zonele umbrite după îngheț."
+            ],
+            "en": [
+              "The sun sets as early as 15:50 in December.",
+              "Visit the Christmas Market at Millennium Square if visiting in season.",
+              "Wear thermal layers as the wind in Leeds can be biting cold.",
+              "Arcades provide excellent shelter from the cold northern winds.",
+              "Pavements can be slippery in shaded areas during frosty spells."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -710,6 +900,178 @@
           "Always lock your bike securely, even for short periods.",
           "Many cafes and pubs in Leeds are bike-friendly."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie vorsichtig am Corn Exchange und radeln Sie zum Royal Armouries. Der Weg zum Kirkstall Abbey führt entlang des Kanals, der bei Regen rutschig sein kann. Mittags kehren Sie ins Stadtzentrum zur Town Hall zurück. Den Abschluss bildet eine nasse, aber erfrischende Runde durch den Roundhay Park, bevor Sie Ihr Rad sicher abstellen.",
+            "hu": "Induljon óvatosan a Corn Exchange-től a Royal Armouries felé. A Kirkstall Abbey-hez vezető csatornapart esőben csúszós lehet. Délben térjen vissza a városközpontba a városházához. A napot egy esős, de frissítő kör zárja a Roundhay Parkban, mielőtt biztonságba helyezné a kerékpárt.",
+            "ro": "Porniți cu atenție de la Corn Exchange spre Royal Armouries. Drumul spre Kirkstall Abbey pe marginea canalului poate fi alunecos pe ploaie. La prânz, reveniți în centru la primărie. Ziua se încheie cu o tură ploioasă, dar revigorantă prin Roundhay Park.",
+            "en": "Start carefully from the Corn Exchange and cycle to the Royal Armouries. The route to Kirkstall Abbey along the canal can be slippery in the rain. At midday, head back to the city center and the Town Hall. Finish with a wet but refreshing loop of Roundhay Park before parking your bike safely."
+          },
+          "stops": [
+            {
+              "name": "Leeds Corn Exchange",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor der Abfahrt auf nassem Untergrund.",
+                "hu": "Indulás előtt ellenőrizze a fékeket a vizes útfelület miatt.",
+                "ro": "Verificați frânele înainte de plecare pe carosabilul umed.",
+                "en": "Check your brakes before setting off on the wet pavement."
+              }
+            },
+            {
+              "name": "Royal Armouries Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Fahrradständer am Leeds Dock.",
+                "hu": "Használja a fedett kerékpártárolókat a Leeds Docknál.",
+                "ro": "Folosiți rastelele de biciclete acoperite de la Leeds Dock.",
+                "en": "Utilize the covered bike racks available at Leeds Dock."
+              }
+            },
+            {
+              "name": "Kirkstall Abbey",
+              "tip_5lang": {
+                "de": "Der Kanalweg hat bei Regen oft tiefe Pfützen.",
+                "hu": "A csatornaparti úton esőben gyakoriak a mély tócsák.",
+                "ro": "Drumul de pe malul canalului are adesea bălți adânci pe ploaie.",
+                "en": "The canal path often develops deep puddles during rainfall."
+              }
+            },
+            {
+              "name": "Leeds Town Hall",
+              "tip_5lang": {
+                "de": "Vorsicht vor rutschigen Markierungen auf den Straßen im Zentrum.",
+                "hu": "Vigyázzon a csúszós útburkolati jelekre a belvárosban.",
+                "ro": "Atenție la marcajele rutiere alunecoase din centrul orașului.",
+                "en": "Watch out for slippery road markings in the city center."
+              }
+            },
+            {
+              "name": "Roundhay Park",
+              "tip_5lang": {
+                "de": "Die asphaltierten Wege sind sicherer als die nassen Wiesen.",
+                "hu": "Az aszfaltozott utak biztonságosabbak, mint a vizes fű.",
+                "ro": "Aleile asfaltate sunt mai sigure decât iarba udă.",
+                "en": "Paved paths are much safer than wet grass for cycling."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie scharfes Bremsen auf nassem Kopfsteinpflaster.",
+              "Vollständige Regenbekleidung inklusive Überschuhen wird dringend empfohlen.",
+              "Schutzbleche sind bei den Pfützen am Kanalweg unerlässlich.",
+              "Der Wind am Leeds Dock kann das Radfahren erschweren.",
+              "Planen Sie mehr Zeit für den Bremsweg ein."
+            ],
+            "hu": [
+              "Kerülje az erős fékezést a vizes macskakövön.",
+              "Teljes esőruházat és kamásli használata erősen ajánlott.",
+              "A sárvédő elengedhetetlen a csatornaparti tócsák miatt.",
+              "A szél a Leeds Dock környékén megnehezítheti a tekerést.",
+              "Számoljon hosszabb féktávval a vizes úton."
+            ],
+            "ro": [
+              "Evitați frânarea bruscă pe pavajul umed.",
+              "Se recomandă echipament complet de ploaie, inclusiv protecții încălțăminte.",
+              "Apărătorile sunt esențiale din cauza bălților de pe canal.",
+              "Vântul de la Leeds Dock poate îngreuna pedalarea.",
+              "Luați în calcul o distanță de frânare mai mare pe carosabil ud."
+            ],
+            "en": [
+              "Avoid sharp braking on wet cobblestones in the center.",
+              "Full waterproof gear including overshoes is highly recommended.",
+              "Mudguards are essential due to puddles along the canal path.",
+              "Wind at Leeds Dock can make cycling more challenging.",
+              "Allow extra time for braking on wet surfaces."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer, kalter Wintermorgen führt Sie vom Corn Exchange zum Dock. Die Fahrt zum Kirkstall Abbey bietet schöne Frostansichten, erfordert aber Wachsamkeit wegen Glatteis. Mittags kehren Sie zur Town Hall zurück, bevor Sie den Roundhay Park erreichen. Da es früh dunkel wird, sollten Sie die Parkrunde beenden, bevor die Temperaturen stark sinken.",
+            "hu": "Tiszta, hideg téli reggel vezet a Corn Exchange-től a kikötőig. A Kirkstall Abbey-hez vezető út fagyos látványt nyújt, de éberséget igényel a jégfoltok miatt. Délben térjen vissza a városházához, majd tekerjen ki a Roundhay Parkba. Mivel korán sötétedik, fejezze be a kört, mielőtt a hőmérséklet hirtelen leesne.",
+            "ro": "O dimineață de iarnă senină și rece vă duce de la Corn Exchange la docuri. Drumul spre Kirkstall Abbey oferă peisaje înghețate frumoase, dar necesită atenție la polei. Reveniți la prânz în centru, apoi mergeți spre Roundhay Park. Terminați tura înainte de lăsarea întunericului.",
+            "en": "A crisp, cold winter morning takes you from the Corn Exchange to the docks. The ride to Kirkstall Abbey offers beautiful frosty views but requires vigilance for icy patches. At midday, return to the Town Hall before heading to Roundhay Park. As it gets dark early, finish your park loop before the temperature drops sharply."
+          },
+          "stops": [
+            {
+              "name": "Leeds Corn Exchange",
+              "tip_5lang": {
+                "de": "Starten Sie erst, wenn die Sonne den Boden etwas erwärmt hat.",
+                "hu": "Csak akkor induljon, ha a nap már kicsit felmelegítette az utat.",
+                "ro": "Porniți la drum doar după ce soarele a încălzit puțin carosabilul.",
+                "en": "Wait for the morning sun to thaw any overnight frost before starting."
+              }
+            },
+            {
+              "name": "Royal Armouries Museum",
+              "tip_5lang": {
+                "de": "Vorsicht vor überfrierender Nässe auf den Brücken am Dock.",
+                "hu": "Vigyázzon a lefagyott pára miatt a kikötői hidakon.",
+                "ro": "Atenție la poleiul de pe podurile din zona docurilor.",
+                "en": "Watch out for black ice on the bridges around the dock area."
+              }
+            },
+            {
+              "name": "Kirkstall Abbey",
+              "tip_5lang": {
+                "de": "Der Kanalweg kann im Schatten ganztägig gefroren bleiben.",
+                "hu": "A csatornaparti út az árnyékban egész nap fagyos maradhat.",
+                "ro": "Drumul de pe marginea canalului poate rămâne înghețat toată ziua în umbră.",
+                "en": "The canal path can remain frozen all day in shaded sections."
+              }
+            },
+            {
+              "name": "Leeds Town Hall",
+              "tip_5lang": {
+                "de": "Warme Handschuhe sind für die Fahrt durch den Wind unerlässlich.",
+                "hu": "A meleg kesztyű elengedhetetlen a szélben való tekeréshez.",
+                "ro": "Mănușile groase sunt esențiale pentru pedalatul prin vântul rece.",
+                "en": "Thermal gloves are essential for cycling through the winter wind."
+              }
+            },
+            {
+              "name": "Roundhay Park",
+              "tip_5lang": {
+                "de": "Beenden Sie die Fahrt hier vor dem frühen Sonnenuntergang.",
+                "hu": "Fejezze be itt a tekerést a korai naplemente előtt.",
+                "ro": "Încheiați tura aici înainte de apusul devreme al soarelui.",
+                "en": "Aim to finish your ride here before the early winter sunset."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Fahrradbeleuchtung; es wird früh dunkel.",
+              "Tragen Sie mehrere Schichten Kleidung gegen den Fahrtwind.",
+              "Vermeiden Sie Fahrten bei Nebel, der in Leeds im Winter oft auftritt.",
+              "Schattige Kurven am Kanalweg können tückisches Eis verbergen.",
+              "Ein heißer Tee in Tropical World (Roundhay) wärmt nach der Fahrt auf."
+            ],
+            "hu": [
+              "Ellenőrizze a világítást, mert nagyon korán sötétedik.",
+              "Öltözzön rétegesen a menetszél elleni védekezésül.",
+              "Kerülje a kerékpározást ködben, ami Leedsben télen gyakori.",
+              "A csatornaparti árnyékos kanyarokban alattomos jég lehet.",
+              "Egy forró tea a Tropical Worldben (Roundhay) segít felmelegedni."
+            ],
+            "ro": [
+              "Verificați luminile bicicletei, se întunecă foarte devreme.",
+              "Purtați mai multe straturi de haine împotriva vântului de rulare.",
+              "Evitați deplasarea pe ceață, fenomen des întâlnit în Leeds iarna.",
+              "Curbele umbrite de pe canal pot ascunde gheață înșelătoare.",
+              "Un ceai fierbinte la Tropical World (Roundhay) vă va încălzi după tură."
+            ],
+            "en": [
+              "Check your bike lights as it gets dark very early in the afternoon.",
+              "Wear multiple layers to protect against the biting wind chill.",
+              "Avoid cycling in fog, which is common in Leeds during winter.",
+              "Shaded bends along the canal path can hide treacherous black ice.",
+              "A hot tea at Tropical World in Roundhay Park is a great post-ride warmer."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1090,6 +1452,214 @@
           "Allow extra time for traffic, especially during peak hours.",
           "Check opening times as some attractions may be closed out of season."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag bequem am Harewood House, wo Sie direkt am Eingang parken können. Trotz Regen ist der Spaziergang im Estate kurz gehalten. Mittags fahren Sie zum Kirkstall Abbey und genießen ein warmes Mittagessen in der Nähe. Den Nachmittag verbringen Sie im Zentrum bei der Town Hall und im Corn Exchange, bevor Sie den Tag im Roundhay Park beschließen.",
+            "hu": "Kezdje a napot kényelmesen a Harewood House-nál, ahol közvetlenül a bejáratnál parkolhat. Az eső ellenére a birtokon tett séta röviden is élvezetes. Délben hajtson a Kirkstall Abbey-hez, majd ebédeljen meg a közelben. A délutánt a belvárosban, a városházánál és a Corn Exchange-nél töltse, végül zárja a napot a Roundhay Parkban.",
+            "ro": "Începeți ziua confortabil la Harewood House, unde puteți parca chiar lângă intrare. În ciuda ploii, scurta plimbare pe domeniu este plăcută. La prânz mergeți spre Kirkstall Abbey și luați masa în apropiere. După-amiaza vizitați centrul și Corn Exchange, terminând ziua la Roundhay Park.",
+            "en": "Start your day comfortably at Harewood House, where you can park right near the entrance. Despite the rain, keep the estate walk short and sweet. At midday, drive to Kirkstall Abbey and enjoy a warm lunch nearby. Spend the afternoon in the city center at the Town Hall and Corn Exchange before ending at Roundhay Park."
+          },
+          "stops": [
+            {
+              "name": "Harewood House",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz direkt am Besucherzentrum.",
+                "hu": "Használja a közvetlenül a látogatóközpont melletti parkolót.",
+                "ro": "Folosiți parcarea situată chiar lângă centrul pentru vizitatori.",
+                "en": "Use the car park located directly next to the visitor center."
+              }
+            },
+            {
+              "name": "Walk in Harewood Estate",
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den befestigten Wegen, um Schlamm zu vermeiden.",
+                "hu": "Maradjon a kiépített utakon, hogy elkerülje a sarat.",
+                "ro": "Rămâneți pe aleile pavate pentru a evita noroiul.",
+                "en": "Stick to the paved paths to avoid getting muddy during the rain."
+              }
+            },
+            {
+              "name": "Kirkstall Abbey",
+              "tip_5lang": {
+                "de": "Parken Sie am Abbey House Museum direkt gegenüber.",
+                "hu": "Parkoljon a szemközti Abbey House Museum-nál.",
+                "ro": "Parcați la Abbey House Museum, situat chiar vizavi.",
+                "en": "Park at the Abbey House Museum located directly across the road."
+              }
+            },
+            {
+              "name": "Lunch in Kirkstall",
+              "tip_5lang": {
+                "de": "Viele Pubs hier haben eigene, kostenfreie Kundenparkplätze.",
+                "hu": "Sok itteni pub saját, ingyenes parkolóval rendelkezik.",
+                "ro": "Multe pub-uri de aici au parcări proprii gratuite pentru clienți.",
+                "en": "Many local pubs here have their own free customer car parks."
+              }
+            },
+            {
+              "name": "Leeds Town Hall & City Centre Cluster",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus 'The Light' für einen trockenen Zugang.",
+                "hu": "Használja a 'The Light' parkolóházat a száraz bejutáshoz.",
+                "ro": "Folosiți parcarea etajată 'The Light' pentru acces la adăpost.",
+                "en": "Use 'The Light' multi-storey car park for a dry walk to the center."
+              }
+            },
+            {
+              "name": "Leeds Corn Exchange",
+              "tip_5lang": {
+                "de": "Kurzzeitparkplätze in der Call Lane sind bei Regen oft belegt.",
+                "hu": "A Call Lane rövid távú parkolói esőben gyakran foglaltak.",
+                "ro": "Parcările pe termen scurt din Call Lane sunt adesea ocupate pe ploaie.",
+                "en": "Short-stay parking on Call Lane is often busy during rain showers."
+              }
+            },
+            {
+              "name": "Roundhay Park",
+              "tip_5lang": {
+                "de": "Der Parkplatz an der Tropical World bietet den kürzesten Weg.",
+                "hu": "A Tropical World melletti parkoló kínálja a legrövidebb utat.",
+                "ro": "Parcarea de la Tropical World oferă cel mai scurt drum spre intrare.",
+                "en": "The car park by Tropical World offers the shortest walk to shelter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf der A61 nach Harewood.",
+              "Parkhäuser im Zentrum sind bei Regen die bessere Wahl als Straßenparkplätze.",
+              "Planen Sie im Berufsverkehr bei Regen deutlich mehr Zeit ein.",
+              "Nutzen Sie die Park-and-Ride Plätze, wenn das Zentrum zu voll ist.",
+              "Halten Sie Schirme im Auto für den Weg vom Parkplatz bereit."
+            ],
+            "hu": [
+              "Vigyázzon a vízenfutásra (aquaplaning) a Harewood felé vezető A61-esen.",
+              "Esőben a belvárosi parkolóházak jobbak, mint az utcai parkolás.",
+              "Csúcsidőben és esőben számoljon jelentős menetidő-növekedéssel.",
+              "Használja a P+R parkolókat, ha a belváros túl zsúfolt.",
+              "Tartson esernyőt az autóban a parkolóból való kiszálláshoz."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumul A61 spre Harewood.",
+              "Parcările etajate din centru sunt de preferat celor stradale pe ploaie.",
+              "Alocați timp suplimentar pentru trafic în orele de vârf cu ploaie.",
+              "Folosiți parcările Park-and-Ride dacă centrul este prea aglomerat.",
+              "Aveți umbrele pregătite în mașină pentru drumul de la parcare."
+            ],
+            "en": [
+              "Be wary of aquaplaning on the A61 road towards Harewood.",
+              "Multi-storey car parks are a better choice than street parking in the rain.",
+              "Allow significantly more travel time during rainy rush hours.",
+              "Consider using Park-and-Ride sites if the city center is too congested.",
+              "Keep umbrellas handy in the car for the short walk from your parking spot."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen beginnt am prächtigen Harewood House. Die Gärten sind im Winter ruhig und oft mit Raureif bedeckt. Mittags fahren Sie zum Kirkstall Abbey, wo die Ruinen im Winterlicht besonders eindrucksvoll wirken. Nach einem wärmenden Mittagessen erkunden Sie das Zentrum und den Corn Exchange, bevor Sie die winterliche Dämmerung im Roundhay Park erleben.",
+            "hu": "Fagyos reggel kezdődik a pompás Harewood House-nál. A kertek télen csendesek és gyakran zúzmarásak. Délben hajtson a Kirkstall Abbey-hez, ahol a romok a téli fényben különösen hatásosak. Egy melengető ebéd után fedezze fel a belvárost és a Corn Exchange-et, végül élvezze a téli szürkületet a Roundhay Parkban.",
+            "ro": "O dimineață geroasă începe la somptuoasa Harewood House. Grădinile sunt liniștite iarna și adesea acoperite de chiciură. La prânz mergeți spre Kirkstall Abbey, unde ruinele arată spectaculos în lumina iernii. După o masă caldă, vizitați centrul, încheind ziua la Roundhay Park.",
+            "en": "A frosty morning begins at the magnificent Harewood House. The gardens are quiet in winter and often covered in hoarfrost. At midday, drive to Kirkstall Abbey, where the ruins look particularly striking in the winter light. After a warming lunch, explore the city center and Corn Exchange before experiencing the winter dusk at Roundhay Park."
+          },
+          "stops": [
+            {
+              "name": "Harewood House",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Winteröffnungszeiten vor der Anfahrt.",
+                "hu": "Indulás előtt ellenőrizze a téli nyitvatartást.",
+                "ro": "Verificați programul de iarnă înainte de a porni la drum.",
+                "en": "Check the winter opening hours before planning your visit."
+              }
+            },
+            {
+              "name": "Walk in Harewood Estate",
+              "tip_5lang": {
+                "de": "Die Wege können bei Frost am frühen Morgen glatt sein.",
+                "hu": "A gyalogutak kora reggel fagyosak és csúszósak lehetnek.",
+                "ro": "Aleile pot fi alunecoase dimineața devreme din cauza înghețului.",
+                "en": "Estate paths can be slippery with frost during the early morning."
+              }
+            },
+            {
+              "name": "Kirkstall Abbey",
+              "tip_5lang": {
+                "de": "Die Anlage schließt im Winter oft bereits um 16:00 Uhr.",
+                "hu": "A terület télen gyakran már 16:00-kor bezár.",
+                "ro": "Situl se închide adesea la ora 16:00 în timpul iernii.",
+                "en": "The abbey grounds often close as early as 16:00 in winter."
+              }
+            },
+            {
+              "name": "Lunch in Kirkstall",
+              "tip_5lang": {
+                "de": "Ein Platz am Kamin ist in den lokalen Pubs jetzt begehrt.",
+                "hu": "A kandalló melletti helyek ilyenkor nagyon népszerűek a pubokban.",
+                "ro": "Locurile de lângă șemineu sunt la mare căutare în pub-urile locale.",
+                "en": "Seats near the fireplace are highly coveted in local pubs now."
+              }
+            },
+            {
+              "name": "Leeds Town Hall & City Centre Cluster",
+              "tip_5lang": {
+                "de": "Die Weihnachtsbeleuchtung macht die Anfahrt am späten Nachmittag lohnenswert.",
+                "hu": "A karácsonyi fények miatt megéri késő délután érkezni.",
+                "ro": "Luminile de Crăciun fac vizita de după-amiază foarte plăcută.",
+                "en": "The Christmas lights make a late afternoon visit very worthwhile."
+              }
+            },
+            {
+              "name": "Leeds Corn Exchange",
+              "tip_5lang": {
+                "de": "Die Heizung unter der Kuppel macht den Aufenthalt sehr angenehm.",
+                "hu": "A kupola alatti fűtés nagyon kellemessé teszi az itt tartózkodást.",
+                "ro": "Încălzirea de sub cupolă face vizita foarte confortabilă.",
+                "en": "The heating under the dome makes for a very comfortable visit."
+              }
+            },
+            {
+              "name": "Roundhay Park",
+              "tip_5lang": {
+                "de": "Besuchen Sie Tropical World, um der Winterkälte kurz zu entfliehen.",
+                "hu": "Látogasson el a Tropical Worldbe, hogy elmeneküljön a téli hideg elől.",
+                "ro": "Vizitați Tropical World pentru a scăpa scurt de frigul iernii.",
+                "en": "Visit Tropical World to briefly escape the outdoor winter chill."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Ihr Wischwasser Frostschutzmittel enthält.",
+              "Die A61 nach Norden kann bei Schneefall schwierig zu befahren sein.",
+              "Planen Sie Besichtigungen im Freien vor 15:30 Uhr ein.",
+              "Nutzen Sie die Parkhäuser, damit das Auto beim Parken nicht auskühlt.",
+              "Vermeiden Sie Nebenstrecken, die im Winter nicht gestreut werden."
+            ],
+            "hu": [
+              "Gondoskodjon a fagyálló szélvédőmosó folyadékról.",
+              "A Harewood felé vezető A61-es út hóesésben nehezen járható lehet.",
+              "A szabadtéri programokat tervezze 15:30 előtti időszakra.",
+              "Használjon fedett parkolókat, hogy az autó kevésbé hűljön le.",
+              "Kerülje a mellékutakat, amelyeket télen nem mindig sóznak."
+            ],
+            "ro": [
+              "Asigurați-vă că aveți lichid de parbriz rezistent la îngheț.",
+              "Drumul A61 spre nord poate fi dificil în caz de ninsoare.",
+              "Planificați vizitele în aer liber înainte de ora 15:30.",
+              "Folosiți parcări acoperite pentru ca mașina să nu înghețe prea tare.",
+              "Evitați drumurile secundare care nu sunt deszăpezite sau tratate."
+            ],
+            "en": [
+              "Ensure your screen wash contains adequate anti-freeze.",
+              "The A61 road heading north can be tricky during snowfall.",
+              "Plan all your outdoor sightseeing before the 15:30 dusk.",
+              "Use multi-storey car parks to keep your vehicle slightly warmer.",
+              "Avoid minor backroads which may not be gritted during icy spells."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1446,6 +2016,196 @@
           "The water taxis between Leeds Dock and Granary Wharf are a fun and quick way to cross the river.",
           "Plan your journeys in advance, especially for the last bus back from outlying areas."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie trocken an der Town Hall und nutzen Sie die kurzen Buswege zum City Museum. Mittags bringt Sie der Bus bequem zum Royal Armouries am Leeds Dock. Nach einem Mittagessen in der Nähe fahren Sie zum Kirkstall Abbey, wobei Sie die Wartezeiten in den überdachten Haltestellen verbringen. Der Tag endet mit einer Busfahrt zum Roundhay Park, ideal um den Regen aus dem Fenster zu beobachten.",
+            "hu": "Kezdje a napot szárazon a városházánál, és használja a rövid buszutakat a városi múzeumhoz. Délben a busz kényelmesen elviszi a Royal Armouries-hoz a Leeds Dockhoz. Egy közeli ebéd után irány a Kirkstall Abbey, a várakozási időt pedig töltse a fedett megállókban. A nap buszos utazással zárul a Roundhay Parkhoz, élvezve az esős tájat az ablakból.",
+            "ro": "Începeți ziua la adăpost la primărie și folosiți autobuzul pentru drumuri scurte. La prânz, autobuzul vă duce confortabil la Royal Armouries. După masă, mergeți spre Kirkstall Abbey, așteptând în stațiile acoperite. Ziua se încheie cu o călătorie spre Roundhay Park, admirând ploaia de la fereastra autobuzului.",
+            "en": "Start dry at the Town Hall and take short bus rides to the City Museum. At midday, the bus takes you comfortably to the Royal Armouries at Leeds Dock. After lunch nearby, head to Kirkstall Abbey, spending any wait times in covered bus shelters. The day ends with a transit trip to Roundhay Park, perfect for watching the rain from the window."
+          },
+          "stops": [
+            {
+              "name": "Leeds Town Hall",
+              "tip_5lang": {
+                "de": "Warten Sie unter dem Portikus, bis Ihr Bus fast da ist.",
+                "hu": "Várjon a városháza oszlopai alatt, amíg megérkezik a busza.",
+                "ro": "Așteptați sub porticul primăriei până când vine autobuzul.",
+                "en": "Wait under the Town Hall portico until your bus is about to arrive."
+              }
+            },
+            {
+              "name": "Leeds City Museum",
+              "tip_5lang": {
+                "de": "Die Haltestellen am Millennium Square bieten guten Regenschutz.",
+                "hu": "A Millennium Square megállói jó védelmet nyújtanak az eső ellen.",
+                "ro": "Stațiile din Millennium Square oferă protecție bună contra ploii.",
+                "en": "Bus stops around Millennium Square offer decent rain shelter."
+              }
+            },
+            {
+              "name": "Royal Armouries Museum",
+              "tip_5lang": {
+                "de": "Das Wassertaxi ist bei Regen eine überdachte, charmante Option.",
+                "hu": "A vízitaxi esőben is fedett és hangulatos közlekedési mód.",
+                "ro": "Taxiul pe apă este o opțiune acoperită și fermecătoare pe ploaie.",
+                "en": "The water taxi is a covered and charming transit option in the rain."
+              }
+            },
+            {
+              "name": "Lunch near the museum",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Lokal direkt an der Bushaltestelle für kurze Wege.",
+                "hu": "Válasszon egy helyet közvetlenül a buszmegálló mellett.",
+                "ro": "Alegeți un local situat chiar lângă stația de autobuz.",
+                "en": "Choose a dining spot right next to the bus stop for a short dash."
+              }
+            },
+            {
+              "name": "Kirkstall Abbey",
+              "tip_5lang": {
+                "de": "Die Buslinie 33 hält fast direkt vor dem Abbey-Eingang.",
+                "hu": "A 33-as buszjárat szinte közvetlenül az apátság bejáratánál áll meg.",
+                "ro": "Linia 33 de autobuz oprește aproape chiar în fața intrării.",
+                "en": "The number 33 bus stops almost directly in front of the abbey."
+              }
+            },
+            {
+              "name": "Roundhay Park",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Bus 2 oder 12 für eine direkte, trockene Fahrt.",
+                "hu": "Használja a 2-es vagy 12-es buszt a közvetlen, száraz útért.",
+                "ro": "Folosiți autobuzul 2 sau 12 pentru o călătorie directă și uscată.",
+                "en": "Take the 2 or 12 bus for a direct and dry journey to the park."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die M-Card Mobile App für kontaktloses Bezahlen im Trockenen.",
+              "Die Busse in Leeds sind oft klimatisiert und halten Sie trocken.",
+              "Große Umsteigepunkte wie Corn Exchange haben überdachte Wartebereiche.",
+              "Prüfen Sie Live-Abfahrtszeiten, um Wartezeiten im Regen zu minimieren.",
+              "Der Leeds CityBus (Viktoria-Linie) verbindet die wichtigsten Indoor-Ziele."
+            ],
+            "hu": [
+              "Használja az M-Card mobilalkalmazást a száraz, érintésmentes fizetéshez.",
+              "A leedsi buszok modernek és garantáltan szárazon tartják.",
+              "A főbb csomópontok, mint a Corn Exchange, fedett várókkal rendelkeznek.",
+              "Ellenőrizze az élő menetrendet, hogy keveset kelljen az esőben állnia.",
+              "A Leeds CityBus összeköti a legfontosabb beltéri látnivalókat."
+            ],
+            "ro": [
+              "Folosiți aplicația M-Card pentru plată contactless la adăpost.",
+              "Autobuzele din Leeds sunt moderne și vă vor ține la uscat.",
+              "Nodurile principale precum Corn Exchange au zone de așteptare acoperite.",
+              "Verificați timpii de sosire live pentru a minimiza așteptarea în ploaie.",
+              "Leeds CityBus face legătura între principalele obiective interioare."
+            ],
+            "en": [
+              "Use the M-Card mobile app for contactless payment while staying dry.",
+              "Leeds buses are modern and provide a reliable escape from the rain.",
+              "Major hubs like Corn Exchange have extensive covered waiting areas.",
+              "Check live bus times to minimize your standing time in the rain.",
+              "The Leeds CityBus connects many of the key indoor city attractions."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kalter Morgen beginnt an der festlich geschmückten Town Hall. Der Bus bringt Sie schnell zum warmen City Museum. Mittags fahren Sie zum Leeds Dock und den Royal Armouries, wo die Wintersonne auf dem Wasser glitzert. Nach dem Mittagessen geht es zum Kirkstall Abbey. Die Fahrt zum Roundhay Park am späten Nachmittag zeigt die ersten Lichter der Stadt in der frühen Dunkelheit.",
+            "hu": "Hideg reggel indul az ünnepi díszbe öltözött városházánál. A busz gyorsan elviszi a fűtött városi múzeumba. Délben irány a Leeds Dock és a Royal Armouries, ahol a téli nap csillog a vízen. Ebéd után látogassa meg a Kirkstall Abbey-t. A késő délutáni út a Roundhay Parkba már a város esti fényeit mutatja.",
+            "ro": "O dimineață rece începe la primăria decorată festiv. Autobuzul vă duce rapid la Muzeul Orașului, care este bine încălzit. La prânz mergeți spre Leeds Dock, unde soarele de iarnă sclipește pe apă. După masă vizitați Kirkstall Abbey, iar drumul spre Roundhay Park vă arată luminile orașului.",
+            "en": "A cold morning starts at the festively decorated Town Hall. The bus whisks you quickly to the warm City Museum. At midday, head to Leeds Dock and the Royal Armouries, where the winter sun glints off the water. After lunch, visit Kirkstall Abbey. The late afternoon trip to Roundhay Park reveals the first city lights in the early dark."
+          },
+          "stops": [
+            {
+              "name": "Leeds Town Hall",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich kurz in der Eingangshalle auf, falls zugänglich.",
+                "hu": "Melegedjen fel rövid ideig az előcsarnokban, ha nyitva van.",
+                "ro": "Încălziți-vă scurt în holul de la intrare, dacă este accesibil.",
+                "en": "Briefly warm up in the entrance hall if it is accessible to the public."
+              }
+            },
+            {
+              "name": "Leeds City Museum",
+              "tip_5lang": {
+                "de": "Die Garderobe hier ist praktisch, um schwere Wintermäntel abzulegen.",
+                "hu": "A ruhatár praktikus a nehéz télikabátok leadásához.",
+                "ro": "Garderoba de aici este utilă pentru a lăsa hainele groase de iarnă.",
+                "en": "The cloakroom here is handy for dropping off heavy winter coats."
+              }
+            },
+            {
+              "name": "Royal Armouries Museum",
+              "tip_5lang": {
+                "de": "Die Busse zum Dock sind im Winter angenehm geheizt.",
+                "hu": "A kikötőbe tartó buszok télen kellemesen fűtöttek.",
+                "ro": "Autobuzele spre docuri sunt bine încălzite în timpul iernii.",
+                "en": "Buses heading to the docks are usually pleasantly heated in winter."
+              }
+            },
+            {
+              "name": "Lunch near the museum",
+              "tip_5lang": {
+                "de": "Suchen Sie ein Restaurant mit gemütlicher Winteratmosphäre.",
+                "hu": "Keressen egy éttermet barátságos, téli hangulattal.",
+                "ro": "Căutați un restaurant cu o atmosferă caldă de iarnă.",
+                "en": "Look for a dining spot with a cozy, welcoming winter atmosphere."
+              }
+            },
+            {
+              "name": "Kirkstall Abbey",
+              "tip_5lang": {
+                "de": "Beachten Sie, dass Busse bei Schneefall Verspätung haben können.",
+                "hu": "Vegye figyelembe, hogy hóesésben a buszok késhetnek.",
+                "ro": "Rețineți că autobuzele pot avea întârzieri în caz de ninsoare.",
+                "en": "Keep in mind that buses may face delays during heavy snowfall."
+              }
+            },
+            {
+              "name": "Roundhay Park",
+              "tip_5lang": {
+                "de": "Der letzte Bus zurück sollte vor der starken Abendkälte genommen werden.",
+                "hu": "Az utolsó visszautat érdemes a nagy esti lehűlés előtt megtenni.",
+                "ro": "E indicat să luați ultimul autobuz înapoi înainte de gerul serii.",
+                "en": "Aim to catch your return bus before the sharp evening temperature drop."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterfahrpläne können an Feiertagen abweichen; vorab prüfen.",
+              "Die Busse bieten eine warme Zuflucht zwischen den Zielen.",
+              "Ab 16:00 Uhr leuchten die Straßenlaternen und Weihnachtslichter.",
+              "Warten Sie in Geschäften nahe der Haltestelle, wenn der Bus Verspätung hat.",
+              "Tragen Sie warme Socken; die Busböden können im Winter kalt sein."
+            ],
+            "hu": [
+              "A téli menetrend ünnepek alatt változhat; ellenőrizze előre.",
+              "A buszok meleg menedéket nyújtanak a látnivalók között.",
+              "16:00 után már égnek az utcai lámpák és az ünnepi fények.",
+              "Késés esetén várjon a megálló melletti üzletekben.",
+              "Viseljen meleg zoknit, mert a buszok padlója télen hideg lehet."
+            ],
+            "ro": [
+              "Orarele de iarnă pot varia de sărbători; verificați în avans.",
+              "Autobuzele oferă un refugiu cald între diversele obiective.",
+              "După ora 16:00, luminile stradale și cele festive sunt aprinse.",
+              "Așteptați în magazinele de lângă stație dacă autobuzul întârzie.",
+              "Purtați șosete groase, podeaua autobuzelor poate fi rece iarna."
+            ],
+            "en": [
+              "Winter schedules may vary during holidays; check in advance.",
+              "Buses provide a warm sanctuary while traveling between sights.",
+              "Street lamps and festive lights are usually on by 16:00.",
+              "Wait inside shops near the bus stop if there's a significant delay.",
+              "Wear warm socks as bus floors can feel quite chilly in the winter."
+            ]
+          }
+        }
       }
     }
   }

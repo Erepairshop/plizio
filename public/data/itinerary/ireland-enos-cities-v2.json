@@ -333,6 +333,178 @@
           "Check opening times for the castle and monument as they can be seasonal.",
           "Cash is useful for smaller purchases at the market."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag geschützt in den Arkaden des Buttermarkets. Mittags bieten die Kathedrale und die massiven Mauern der Burg Enniskillen perfekten Schutz vor den Schauern.\n\nAm Nachmittag führt der Weg zum Cole's Monument; ein stabiler Regenschirm ist wegen des Windes vom Erne unerlässlich.\n\nDen Abend lassen Sie gemütlich in einem der traditionellen Pubs im Stadtzentrum ausklingen.",
+            "hu": "Kezdje a napot a Buttermarket fedett árkádjai alatt, ahol szárazon böngészhet a kézművesek között. Délben a katedrális és a vár belső kiállításai nyújtanak menedéket az eső elől.\n\nA délutáni séta a Forthill Parkban frissítő, de a dombtetőn erős szélre és tócsákra kell készülni.\n\nAz estét töltse egy barátságos belvárosi pubban, élvezve a kandalló melegét és a helyi vendégszeretetet.",
+            "ro": "Începeți ziua sub arcadele acoperite de la Buttermarket, explorând atelierele locale. La prânz, Catedrala și Castelul Enniskillen oferă refugiul ideal împotriva averselor.\n\nDupă-amiaza, urcarea spre Monumentul Cole necesită o umbrelă rezistentă la vântul ce suflă dinspre lac.\n\nSeara se încheie perfect într-un pub tradițional din centru, unde atmosfera caldă vă va face să uitați de ploaia de afară.",
+            "en": "Start your morning under the sheltered arcades of the Buttermarket. Midday is best spent exploring the indoor galleries of the Cathedral and Enniskillen Castle.\n\nIn the afternoon, a walk to Cole's Monument is refreshing, but a sturdy umbrella is vital against the Erne winds on the hill.\n\nFinish your rainy day in a cozy town centre pub, drying off by the fire with a warm drink."
+          },
+          "stops": [
+            {
+              "name": "The Buttermarket",
+              "tip_5lang": {
+                "de": "Die überdachten Gänge bieten Schutz beim Stöbern in den Kunsthandwerksläden.",
+                "hu": "A fedett udvar és az árkádok tökéletes védelmet nyújtanak az eső ellen.",
+                "ro": "Curtea interioară cu arcade este locul ideal pentru a evita ploaia.",
+                "en": "The covered walkways allow for dry browsing of the craft studios."
+              }
+            },
+            {
+              "name": "St. Macartin's Cathedral",
+              "tip_5lang": {
+                "de": "Bewundern Sie die prächtige Decke, während draußen der Regen trommelt.",
+                "hu": "Csodálja meg a belső teret, miközben kint kopog az eső.",
+                "ro": "Interiorul liniștit este un loc excelent pentru a aștepta trecerea unei averse.",
+                "en": "The peaceful interior is a great place to stay dry and admire the architecture."
+              }
+            },
+            {
+              "name": "Enniskillen Castle",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit für die umfangreichen Museen im Inneren der Burg.",
+                "hu": "Töltsön több időt a belső múzeumi kiállítások felfedezésével.",
+                "ro": "Explorați muzeele din interior pentru a rămâne la adăpost de intemperii.",
+                "en": "Maximize your time in the extensive indoor museum galleries."
+              }
+            },
+            {
+              "name": "Cole's Monument",
+              "tip_5lang": {
+                "de": "Vorsicht beim Aufstieg; die Stufen können bei Nässe rutschig sein.",
+                "hu": "Vigyázat, az emlékműhöz vezető lépcsők nedvesen csúszósak lehetnek.",
+                "ro": "Atenție la treptele umede; vântul este mai puternic aici, sus.",
+                "en": "Be careful on the steps; they can be slippery when wet."
+              }
+            },
+            {
+              "name": "Forthill Park",
+              "tip_5lang": {
+                "de": "Die asphaltierten Wege sind auch bei Regen gut begehbar.",
+                "hu": "Az aszfaltozott ösvények sármentes sétát biztosítanak esőben is.",
+                "ro": "Potecile asfaltate sunt cele mai sigure pentru a evita noroiul.",
+                "en": "Stick to the paved paths to avoid muddy grass areas."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine windfeste Regenjacke, da Schirme am See oft umklappen.",
+              "Die Innenstadt ist kompakt; nutzen Sie Passagen zwischen den Straßen.",
+              "Im Enniskillen Castle gibt es Schließfächer für nasse Mäntel.",
+              "Die Pubs in der Belmore Street sind besonders gemütlich bei Regen.",
+              "Achten Sie auf Pfützen an den Bordsteinkanten beim Überqueren der Straße."
+            ],
+            "hu": [
+              "Szélálló esőkabát ajánlott, az ernyők gyakran kifordulnak a tóparti szélben.",
+              "A belváros kompakt, használja az épületek közötti átjárókat.",
+              "A vár múzeumában találhatók értékmegőrzők a vizes kabátoknak.",
+              "A Belmore Street pubjai különösen hangulatosak esős időben.",
+              "Figyeljen a mélyebb tócsákra az útmenti járdaszegélyeknél."
+            ],
+            "ro": [
+              "O jachetă impermeabilă este mai utilă decât o umbrelă din cauza vântului.",
+              "Centrul este compact; folosiți pasajele dintre străzi pentru adăpost.",
+              "Castelul Enniskillen oferă dulapuri pentru depozitarea hainelor ude.",
+              "Pub-urile de pe strada Belmore sunt foarte primitoare când plouă.",
+              "Atenție la bălțile adânci formate lângă borduri la traversare."
+            ],
+            "en": [
+              "A windproof raincoat is better than an umbrella due to Erne gusts.",
+              "The town centre is compact; use the shop awnings for cover.",
+              "Enniskillen Castle has lockers available for wet coats and bags.",
+              "Pubs on Belmore Street are particularly cozy during a downpour.",
+              "Watch out for deep puddles near the curbs when crossing streets."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie den winterlichen Charme am Buttermarket bei einem heißen Kakao. Mittags wärmen Sie sich in der geschichtsträchtigen Kathedrale auf, bevor Sie die Burg besuchen.\n\nDer Nachmittag am Cole's Monument bietet bei klarer Luft eine fantastische Fernsicht, doch die Kälte zieht schnell vom Wasser herauf.\n\nDa es bereits gegen 16:30 Uhr dunkel wird, genießen Sie die festliche Beleuchtung der Stadt bei einem Abendspaziergang.",
+            "hu": "Élvezze a téli Buttermarket hangulatát egy forró itallal. Napközben a katedrális és a fűtött vármúzeum tökéletes hely a felmelegedéshez.\n\nDélután a Forthill Parkban a tiszta téli levegő ragyogó kilátást nyújt, de a tóról érkező hideg szél miatt réteges öltözet kell.\n\nMivel 16:30 körül sötétedik, az esti órákban már a város ünnepi fényei és a meleg éttermek hívogatnak.",
+            "ro": "Savurați farmecul iernii la Buttermarket cu o băutură caldă. La prânz, Catedrala și muzeul încălzit al Castelului sunt locuri ideale pentru a vă încălzi.\n\nDupă-amiaza în Parcul Forthill oferă vederi clare, dar frigul ce vine de pe lac necesită haine groase.\n\nApusul devreme, în jur de 16:30, face ca luminile orașului să strălucească frumos în timpul plimbării de seară.",
+            "en": "Enjoy the winter charm at the Buttermarket with a hot drink. Midday is perfect for warming up inside the Cathedral and the heated Enniskillen Castle museum.\n\nA crisp afternoon at Cole's Monument offers clear views, but the damp cold rises quickly from the Erne. \n\nWith sunset around 16:30, enjoy the festive town lights during your evening stroll to a local restaurant."
+          },
+          "stops": [
+            {
+              "name": "The Buttermarket",
+              "tip_5lang": {
+                "de": "Holen Sie sich einen Coffee-to-go, um die Hände beim Bummeln warm zu halten.",
+                "hu": "Vegyen egy forró kávét, hogy melegen tartsa a kezét nézelődés közben.",
+                "ro": "Luați o cafea fierbinte pentru a vă încălzi mâinile în timp ce vizitați.",
+                "en": "Grab a hot coffee to keep your hands warm while browsing the crafts."
+              }
+            },
+            {
+              "name": "St. Macartin's Cathedral",
+              "tip_5lang": {
+                "de": "Oft finden hier im Winter stimmungsvolle Chorkonzerte statt.",
+                "hu": "Télen gyakran tartanak itt hangulatos kóruskoncerteket.",
+                "ro": "Iarna, aici au loc adesea concerte de colinde sau corale.",
+                "en": "Winter often brings atmospheric choir rehearsals or concerts here."
+              }
+            },
+            {
+              "name": "Enniskillen Castle",
+              "tip_5lang": {
+                "de": "Die Ausstellungsräume sind beheizt und bieten eine willkommene Pause.",
+                "hu": "A kiállítótermek fűtöttek, kellemes pihenőt nyújtanak a hideg után.",
+                "ro": "Sălile de expoziție sunt încălzite, oferind o pauză binevenită de la frig.",
+                "en": "The exhibition rooms are heated, providing a cozy escape from the frost."
+              }
+            },
+            {
+              "name": "Cole's Monument",
+              "tip_5lang": {
+                "de": "Besuchen Sie das Denkmal vor 16:00 Uhr, um das Tageslicht zu nutzen.",
+                "hu": "Látogasson el ide 16:00 előtt, hogy még természetes fénynél lássa a tájat.",
+                "ro": "Vizitați monumentul înainte de ora 16:00 pentru a profita de lumină.",
+                "en": "Visit before 16:00 to catch the last of the winter daylight."
+              }
+            },
+            {
+              "name": "Forthill Park",
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne sorgt für tolle Fotomotive am Denkmal.",
+                "hu": "Az alacsonyan járó téli nap fantasztikus fényeket fest az emlékműre.",
+                "ro": "Soarele palid de iarnă oferă condiții excelente pentru fotografii.",
+                "en": "The low winter sun creates dramatic lighting for photos of the monument."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht gegen 16:30 Uhr unter; planen Sie Außenstopps früh ein.",
+              "Wollmütze und Handschuhe sind wegen des kalten Seewinds Pflicht.",
+              "Einige Cafés am Buttermarket haben im Winter verkürzte Öffnungszeiten.",
+              "Tragen Sie Schuhe mit gutem Profil wegen möglicher Glätte auf den Wegen.",
+              "Die Weihnachtsbeleuchtung wird meist ab Mitte November eingeschaltet."
+            ],
+            "hu": [
+              "A nap 16:30 körül nyugszik, a parkot és emlékművet vegye előre.",
+              "Sapka és kesztyű kötelező a tó felől fújó jeges szél miatt.",
+              "Néhány kávézó a Buttermarketnél hamarabb zárhat télen.",
+              "Viseljen jó tapadású cipőt az esetlegesen jeges járdák miatt.",
+              "A karácsonyi díszkivilágítás november közepétől látható a városban."
+            ],
+            "ro": [
+              "Soarele apune în jur de 16:30; planificați parcul pentru prima parte a zilei.",
+              "Căciula și mănușile sunt esențiale din cauza vântului înghețat de pe lac.",
+              "Unele cafenele de la Buttermarket pot avea program redus iarna.",
+              "Purtați încălțăminte antiderapantă pentru eventualele porțiuni înghețate.",
+              "Iluminatul festiv de Crăciun este activat de obicei la mijlocul lui noiembrie."
+            ],
+            "en": [
+              "Sunset is around 16:30; visit the park and monument early in the day.",
+              "Gloves and hats are essential against the biting wind from Lough Erne.",
+              "Some craft shops at the Buttermarket may close earlier in winter.",
+              "Wear boots with good grip as paths can get frosty and slippery.",
+              "Enjoy the town's Christmas lights, usually on from mid-November."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -659,6 +831,178 @@
           "Some roads can be narrow; be cautious of traffic.",
           "Pack water and snacks for your ride."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Radtag beginnt am Buttermarket. Achten Sie auf den nassen Asphalt auf dem Weg zur Kathedrale und Burg, wo Sie die Räder sicher abstellen können.\n\nDie Fahrt zur Portora School ist windanfällig; wasserfeste Kleidung ist hier der beste Freund des Radlers.\n\nNachmittags geht es zum Forthill Park, bevor Sie den Abend bei einem warmen Getränk im Zentrum abschließen.",
+            "hu": "Esős bringás nap indul a Buttermarketnél. Vigyázzon a vizes aszfaltra a katedrális felé, a várnál pedig talál biztonságos tárolót.\n\nA Portora School felé tartó szakasz szeles, a vízálló öltözet elengedhetetlen a sárvédők mellett.\n\nDélután tekerjen fel a Forthill Parkhoz, majd fejezze be a napot egy forró itallal a belvárosban.",
+            "ro": "O zi ploioasă pe bicicletă începe la Buttermarket. Atenție la carosabilul umed spre Catedrală; la Castel găsiți rastele sigure.\n\nTraseul spre Școala Portora este expus vântului; echipamentul impermeabil este vital pentru cicliști.\n\nDupă-amiaza vizitați Parcul Forthill, apoi relaxați-vă cu o băutură caldă în centrul orașului.",
+            "en": "A rainy cycling day starts at the Buttermarket. Be careful on wet tarmac heading to the Cathedral and Castle, where you can find bike racks.\n\nThe stretch to Portora Royal School is exposed to wind; waterproof gear is a cyclist's best friend here.\n\nIn the afternoon, pedal to Forthill Park before warming up in a central cafe for the evening."
+          },
+          "stops": [
+            {
+              "name": "The Buttermarket",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Bereich für einen kurzen Check der Regenbekleidung.",
+                "hu": "Használja a fedett udvart az esőruházat gyors ellenőrzésére.",
+                "ro": "Folosiți zona acoperită pentru a vă ajusta echipamentul de ploaie.",
+                "en": "Use the sheltered courtyard to adjust your waterproof gear."
+              }
+            },
+            {
+              "name": "St. Macartin's Cathedral",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad nahe der Mauer ab, um es etwas vor Wind zu schützen.",
+                "hu": "Parkoljon a fal közelében, hogy védje a biciklit a széltől.",
+                "ro": "Parcați bicicleta lângă zid pentru o protecție minimă contra vântului.",
+                "en": "Park your bike close to the wall for some protection from the gusts."
+              }
+            },
+            {
+              "name": "Enniskillen Castle",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem Kopfsteinpflaster im Innenhof; es wird bei Nässe sehr glatt.",
+                "hu": "Vigyázat, a belső udvar macskakövei vizesen rendkívül csúszósak.",
+                "ro": "Atenție pe pietrele cubice din curte; devin foarte alunecoase când sunt ude.",
+                "en": "Be extremely careful on the courtyard cobblestones; they get very slick."
+              }
+            },
+            {
+              "name": "Portora Royal School",
+              "tip_5lang": {
+                "de": "Der Anstieg ist bei Gegenwind und Regen anstrengender als gewöhnlich.",
+                "hu": "Az emelkedő ellenszélben és esőben a szokásosnál is nehezebb.",
+                "ro": "Urcarea este mai dificilă iarna din cauza vântului din față.",
+                "en": "The uphill climb is more challenging with headwind and rain."
+              }
+            },
+            {
+              "name": "Forthill Park & Cole's Monument",
+              "tip_5lang": {
+                "de": "Fahren Sie langsam auf den Parkwegen; Laub kann rutschig sein.",
+                "hu": "Lassan haladjon a parkban, a nedves levelek csúszásveszélyesek.",
+                "ro": "Circulați cu viteză redusă; frunzele umede pot provoca derapaje.",
+                "en": "Ride slowly on the park paths; wet leaves can be a major slip hazard."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Sorgen Sie für funktionstüchtige Schutzbleche, um trocken zu bleiben.",
+              "Verwenden Sie bei Regen unbedingt Scheibenbremsen-schonende Fahrweise.",
+              "Vermeiden Sie metallene Schachtdeckel, diese sind bei Nässe wie Eis.",
+              "Ein kompletter Satz Regenzeug (Hose + Jacke) ist in Fermanagh Pflicht.",
+              "Planen Sie mehr Zeit für die Bremswege auf nassem Asphalt ein."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen, hogy ne ázzon át alulról.",
+              "Fékezzen időben, a vizes felnin a fékhatás lassabban jelentkezik.",
+              "Kerülje a fém csatornafedeleket, vizesen olyanok, mint a jég.",
+              "A teljes esőruha (nadrág + kabát) alapfelszerelés Fermanagh-ban.",
+              "Számoljon hosszabb fékúttal a nedves útfelületen."
+            ],
+            "ro": [
+              "Aripile la bicicletă sunt esențiale pentru a rămâne cât de cât uscat.",
+              "Frânați din timp; jantele umede reduc eficiența frânării.",
+              "Evitați capacele de canal metalice; devin extrem de alunecoase.",
+              "Echipamentul complet de ploaie este obligatoriu în Fermanagh.",
+              "Anticipați distanțe de frânare mai mari pe asfaltul ud."
+            ],
+            "en": [
+              "Mudguards are essential to keep road spray off your back.",
+              "Brake early as wet rims significantly increase stopping distance.",
+              "Avoid metal manhole covers; they act like ice when wet.",
+              "Full waterproofs (trousers and jacket) are a must in Fermanagh.",
+              "Take corners slowly to avoid sliding on wet road debris."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre Wintertour warm eingepackt am Buttermarket. Die klare Morgenluft am See ist herrlich, aber fordernd.\n\nNach dem Besuch der Kathedrale und Burg führt der Weg zur Portora School – die Kälte bei der Abfahrt nicht unterschätzen!\n\nNachmittags erreichen Sie den Forthill Park. Wegen der frühen Dämmerung ist eine gute Beleuchtung am Rad für den Rückweg ins Zentrum entscheidend.",
+            "hu": "Indítsa téli túráját melegen felöltözve a Buttermarketnél. A tiszta reggeli levegő frissítő, de a tó mellett harapós.\n\nA katedrális és a vár után tekerjen a Portora School felé – a lejtőn a menetszél miatt nagyon hideg lehet.\n\nDélután érkezik a Forthill Parkhoz. A korai sötétedés miatt a jó világítás elengedhetetlen a központba való visszatéréshez.",
+            "ro": "Începeți tura de iarnă bine echipat la Buttermarket. Aerul curat de dimineață este revigorant, dar tăios lângă apă.\n\nDupă Catedrală și Castel, pedalați spre Școala Portora – nu subestimați frigul la coborâre!\n\nDupă-amiaza ajungeți în Parcul Forthill. Din cauza amurgului devreme, luminile bune sunt vitale pentru drumul de întoarcere.",
+            "en": "Start your winter ride wrapped up warm at the Buttermarket. The crisp morning air by the lake is invigorating but sharp.\n\nAfter visiting the Cathedral and Castle, head to Portora School – don't underestimate the wind chill on the descent!\n\nIn the afternoon, reach Forthill Park. Due to early sunset, high-quality bike lights are essential for the ride back to town."
+          },
+          "stops": [
+            {
+              "name": "The Buttermarket",
+              "tip_5lang": {
+                "de": "Beginnen Sie die Tour erst, wenn der Reif auf den Wegen geschmolzen ist.",
+                "hu": "Csak akkor induljon, ha a reggeli zúzmara már felszállt az utakról.",
+                "ro": "Începeți tura doar după ce chiciura de pe drum s-a topit.",
+                "en": "Wait for any morning frost to clear before starting your ride."
+              }
+            },
+            {
+              "name": "St. Macartin's Cathedral",
+              "tip_5lang": {
+                "de": "Trinken Sie einen warmen Tee, bevor Sie die Fahrt fortsetzen.",
+                "hu": "Igyon egy forró teát, mielőtt folytatná az utat a hidegben.",
+                "ro": "Beți un ceai cald înainte de a continua drumul prin frig.",
+                "en": "Have a warm drink nearby before continuing your winter ride."
+              }
+            },
+            {
+              "name": "Enniskillen Castle",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch zum Aufwärmen Ihrer Finger und Füße.",
+                "hu": "Használja ki a múzeumlátogatást a kezei és lábai felmelegítésére.",
+                "ro": "Folosiți vizita la muzeu pentru a vă încălzi extremitățile.",
+                "en": "Use the museum visit as a chance to warm up your hands and feet."
+              }
+            },
+            {
+              "name": "Portora Royal School",
+              "tip_5lang": {
+                "de": "Bei Minusgraden kann die Straße im Schatten der Bäume glatt sein.",
+                "hu": "Fagypont alatt a fák árnyékában az út jeges maradhat.",
+                "ro": "La temperaturi scăzute, drumul la umbră poate rămâne înghețat.",
+                "en": "In freezing temperatures, the shaded road here can remain icy."
+              }
+            },
+            {
+              "name": "Forthill Park & Cole's Monument",
+              "tip_5lang": {
+                "de": "Überprüfen Sie Ihr Licht; im Park wird es im Winter sehr früh dunkel.",
+                "hu": "Ellenőrizze a lámpáit, a parkban télen nagyon hamar sötétedik.",
+                "ro": "Verificați luminile; în parc se întunecă foarte devreme iarna.",
+                "en": "Check your lights; the park gets dark very early in winter months."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie mehrere Schichten und winddichte Handschuhe.",
+              "Die Dämmerung setzt ab 16:00 Uhr ein – Licht ist ein Muss.",
+              "Vermeiden Sie Fahrten bei Glatteiswarnung; Enniskillen hat viele Hügel.",
+              "Reinigen Sie Ihr Rad nach der Fahrt von Streusalzrückständen.",
+              "Thermische Überschuhe halten Ihre Füße bei Seewind warm."
+            ],
+            "hu": [
+              "Öltözzön rétegesen, a szélálló kesztyű létfontosságú.",
+              "A szürkület már 16:00-kor elkezdődik, a világítás kötelező.",
+              "Jeges útviszonyoknál ne induljon el, a város dombos és veszélyes.",
+              "Takarítsa le a bringát a túra után az útszórás miatti sótól.",
+              "A kamásli segít melegen tartani a lábát a tóparti hidegben."
+            ],
+            "ro": [
+              "Folosiți straturi multiple și mănuși rezistente la vânt.",
+              "Amurgul începe de la ora 16:00 – luminile sunt obligatorii.",
+              "Evitați deplasarea dacă există polei; orașul are multe pante.",
+              "Curățați bicicleta după tură pentru a elimina sarea de pe drum.",
+              "Protecțiile termice pentru încălțăminte vă vor salva picioarele."
+            ],
+            "en": [
+              "Dress in thin layers and use high-quality windproof gloves.",
+              "Twilight starts from 16:00 – lights are absolutely mandatory.",
+              "Avoid cycling if black ice is forecast; the town is very hilly.",
+              "Wash your bike after the ride to remove corrosive road salt.",
+              "Thermal overshoes are highly recommended for the lakeside chill."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -666,7 +1010,7 @@
       "speed_kmh": 28,
       "start": "09:00",
       "end_estimate": "18:20",
-      "total_km": 13.5,
+      "total_km": 28.5,
       "stop_count": 6,
       "stops": [
         {
@@ -1015,6 +1359,196 @@
           "Mobile signal can be patchy on Devenish Island.",
           "Book tours for Castle Coole in advance to avoid disappointment."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie entspannt bei Castle Coole, wo Sie direkt am Herrenhaus parken können. Bei Regen ist die Innenbesichtigung ein Muss.\n\nMittags geht es zum Buttermarket und zur Kathedrale. Das Auto lässt sich bequem in den zentralen Parkhäusern abstellen.\n\nNach der Burg fahren Sie zum Fähranleger für Devenish Island. Bei starkem Regen bietet der Aussichtspunkt am Ufer einen guten Blick, ohne nass zu werden.\n\nDer Abend endet in einem Restaurant im Stadtzentrum.",
+            "hu": "Kezdje a napot a Castle Coole-nál, ahol közvetlenül a kastély mellett parkolhat. Esőben a belső tárlatvezetés kötelező program.\n\nDélben irány a Buttermarket és a katedrális; az autóval kényelmesen megállhat a központi parkolókban.\n\nA vár után vezessen a Devenish-szigeti komp kikötőjéhez. Nagy esőben a parti kilátópontról is jól látható a kerek torony.\n\nAz estét töltse a belváros egyik kiváló éttermében.",
+            "ro": "Începeți relaxat la Castle Coole, unde puteți parca chiar lângă conac. Pe ploaie, turul interior este obligatoriu.\n\nLa prânz vizitați Buttermarket și Catedrala; parcarea este facilă în zonele centrale amenajate.\n\nDupă Castel, conduceți spre punctul de feribot pentru Insula Devenish. Dacă plouă tare, panorama de pe mal este suficientă.\n\nSeara se încheie la un restaurant primitor din centrul orașului.",
+            "en": "Start your day at Castle Coole, with convenient parking right by the mansion. The interior tour is a perfect rainy day activity.\n\nMidday move to the Buttermarket and Cathedral; central car parks make town access easy and dry.\n\nAfter the castle, drive to the Devenish Island ferry point. In heavy rain, the lakeside viewpoint offers a great look at the ruins.\n\nFinish your evening at a local restaurant in the heart of Enniskillen."
+          },
+          "stops": [
+            {
+              "name": "Castle Coole",
+              "tip_5lang": {
+                "de": "Parken Sie auf dem oberen Parkplatz, um den Fußweg im Regen zu minimieren.",
+                "hu": "Használja a felső parkolót, hogy keveset kelljen az esőben gyalogolnia.",
+                "ro": "Parcați în zona superioară pentru a minimiza mersul prin ploaie.",
+                "en": "Use the upper car park to minimize walking distance in the rain."
+              }
+            },
+            {
+              "name": "The Buttermarket & Town Centre",
+              "tip_5lang": {
+                "de": "Zentrale Parkplätze wie 'Head Street' bieten kurzen Weg zu den Läden.",
+                "hu": "A központi parkolók (pl. Head Street) közel vannak a boltokhoz.",
+                "ro": "Parcările centrale oferă acces rapid și protejat spre magazine.",
+                "en": "Central car parks like Head Street offer quick access to the shops."
+              }
+            },
+            {
+              "name": "St. Macartin's Cathedral",
+              "tip_5lang": {
+                "de": "Es gibt begrenzte Parkmöglichkeiten direkt vor der Kathedrale.",
+                "hu": "Közvetlenül a katedrális előtt korlátozott számú parkolóhely áll rendelkezésre.",
+                "ro": "Există locuri de parcare limitate chiar în fața Catedralei.",
+                "en": "Limited street parking is available directly in front of the Cathedral."
+              }
+            },
+            {
+              "name": "Enniskillen Castle",
+              "tip_5lang": {
+                "de": "Der Parkplatz direkt an der Burg ist ideal bei schlechtem Wetter.",
+                "hu": "A közvetlenül a vár mellett található parkoló ideális rossz időben.",
+                "ro": "Parcarea de lângă castel este ideală pentru a evita ploaia.",
+                "en": "The dedicated castle car park is ideal for rainy day visits."
+              }
+            },
+            {
+              "name": "Devenish Island Ferry Point",
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Regen im Auto und genießen Sie die Aussicht.",
+                "hu": "Heves esőben maradjon az autóban, és onnan csodálja a panorámát.",
+                "ro": "Dacă plouă torențial, admirați peisajul direct din mașină.",
+                "en": "In heavy downpours, enjoy the lake views from the comfort of your car."
+              }
+            },
+            {
+              "name": "Devenish Island",
+              "tip_5lang": {
+                "de": "Die Überfahrt ist kurz, aber das Boot ist meist offen – Regenjacke mitnehmen!",
+                "hu": "Az átkelés rövid, de a hajó nyitott – vigyen magával esőkabátot!",
+                "ro": "Traversarea este scurtă, dar barca e deschisă; aveți nevoie de pelerină.",
+                "en": "The ferry is short but open-air; bring a raincoat for the crossing."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf den Landstraßen rund um den Erne.",
+              "Das Parkhaus am Erneside Shopping Centre bietet komplett trockenen Zugang.",
+              "Die Sicht kann bei starkem Regen auf den engen Straßen eingeschränkt sein.",
+              "Prüfen Sie, ob die Fähre nach Devenish bei Sturm überhaupt fährt.",
+              "Nutzen Sie die Park-App, um das Ticket im trockenen Auto zu bezahlen."
+            ],
+            "hu": [
+              "Vigyázzon a vízátfolyásokra az Erne-tó körüli mellékutakon.",
+              "Az Erneside bevásárlóközpont parkolóháza teljesen fedett és száraz.",
+              "A látási viszonyok heves esőben jelentősen romolhatnak a szűk utakon.",
+              "Ellenőrizze, hogy viharos szélben indul-e a komp Devenish-re.",
+              "Használja a parkoló applikációt, így az autóban ülve is fizethet."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumurile din jurul lacului Erne.",
+              "Parcarea acoperită de la Erneside oferă acces uscat spre centru.",
+              "Vizibilitatea poate fi redusă pe drumurile înguste în timpul ploii.",
+              "Verificați dacă feribotul circulă în caz de vânt puternic.",
+              "Folosiți aplicația de parcare pentru a plăti fără a ieși în ploaie."
+            ],
+            "en": [
+              "Watch out for surface water and aquaplaning on lakeside roads.",
+              "Erneside Shopping Centre multi-storey offers fully sheltered parking.",
+              "Visibility can be poor on narrow rural roads during heavy rain.",
+              "Check if the Devenish ferry is operating if conditions are stormy.",
+              "Use a parking app to pay so you don't have to stand at the machine."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintermorgen bei Castle Coole zeigt die Parkanlage oft mystisch im Nebel. Das beheizte Herrenhaus ist ein warmer Zufluchtsort.\n\nMittags erkunden Sie die Stadt. Die kurzen Wege vom Parkplatz zur Kathedrale und zum Buttermarket sind ideal bei Kälte.\n\nNach der Burg fahren Sie zum Seeufer. Da die Fähre nach Devenish im Winter oft nur eingeschränkt fährt, genießen Sie die Aussicht vom Festland.\n\nZum Abendessen lockt die weihnachtlich beleuchtete Innenstadt mit ihren warmen Gasthäusern.",
+            "hu": "A téli reggel a Castle Coole parkjában gyakran misztikus ködbe vész. A fűtött udvarház meleg menedéket nyújt.\n\nDélben irány a város. A parkolóktól mért rövid távolságok a katedrálishoz és a piachoz ideálisak a hidegben.\n\nA vár után vezessen a tópartra. Mivel a komp télen korlátozottan jár, a szárazföldről csodálja meg a panorámát.\n\nVacsoraidőben a karácsonyi fényekben úszó belváros meleg éttermei hívogatnak.",
+            "ro": "O dimineață de iarnă la Castle Coole oferă adesea un peisaj mistic în ceață. Conacul încălzit este un refugiu perfect.\n\nLa prânz explorați orașul; distanțele scurte de la parcare la obiective sunt ideale pe ger.\n\nDupă Castel, mergeți spre malul lacului. Deoarece feribotul are program redus iarna, admirați Insula Devenish de la distanță.\n\nSeara, centrul luminat festiv vă așteaptă cu restaurante primitoare și calde.",
+            "en": "A winter morning at Castle Coole often reveals the parkland in mystical mist. The heated mansion is a welcome warm refuge.\n\nMidday exploring is easy; short walks from central car parks to the Cathedral and Buttermarket suit the cold. \n\nAfter the castle, drive to the lakeshore. As the ferry has limited winter hours, enjoy the views from the mainland viewpoint. \n\nFor dinner, the festively lit town centre offers many warm and inviting eateries."
+          },
+          "stops": [
+            {
+              "name": "Castle Coole",
+              "tip_5lang": {
+                "de": "Vorsicht bei Raureif auf der Zufahrtsstraße im Wald.",
+                "hu": "Vigyázzon a zúzmarás, csúszós szakaszokra az erdős bevezető úton.",
+                "ro": "Atenție la porțiunile cu chiciură pe drumul de acces prin pădure.",
+                "en": "Watch out for frosty patches on the shaded driveway through the woods."
+              }
+            },
+            {
+              "name": "The Buttermarket & Town Centre",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus, um in ein ungefrorenes Auto zurückzukehren.",
+                "hu": "Használja a parkolóházat, hogy ne fagyjon le az autó, mire visszaér.",
+                "ro": "Folosiți parcarea acoperită pentru a evita înghețarea parbrizului.",
+                "en": "Using the multi-storey car park avoids returning to a frosted car."
+              }
+            },
+            {
+              "name": "St. Macartin's Cathedral",
+              "tip_5lang": {
+                "de": "Die Heizung in der Kathedrale sorgt für angenehme Besichtigungstemperaturen.",
+                "hu": "A katedrális fűtése kellemes hőmérsékletet biztosít a látogatáshoz.",
+                "ro": "Sistemul de încălzire din catedrală face vizita foarte plăcută.",
+                "en": "The cathedral's heating makes for a comfortable indoor visit."
+              }
+            },
+            {
+              "name": "Enniskillen Castle",
+              "tip_5lang": {
+                "de": "Der Parkplatz kann bei Minusgraden morgens glatt sein.",
+                "hu": "A parkoló reggelente jeges és csúszós lehet fagypont alatt.",
+                "ro": "Parcarea poate fi alunecoasă dimineața dacă temperaturile sunt negative.",
+                "en": "The car park surface can be icy in the early morning hours."
+              }
+            },
+            {
+              "name": "Devenish Island Ferry Point",
+              "tip_5lang": {
+                "de": "Prüfen Sie vorab die Winter-Abfahrtszeiten; diese sind stark reduziert.",
+                "hu": "Előre ellenőrizze a téli menetrendet, mert ilyenkor ritkábban jár a komp.",
+                "ro": "Verificați programul de iarnă al feribotului; este foarte redus.",
+                "en": "Check winter ferry times in advance; they are significantly reduced."
+              }
+            },
+            {
+              "name": "Devenish Island",
+              "tip_5lang": {
+                "de": "Warme Kleidung ist für die windige Überfahrt unerlässlich.",
+                "hu": "Meleg öltözet kötelező a szeles vízi átkeléshez.",
+                "ro": "Hainele groase sunt obligatorii pentru traversarea pe apă.",
+                "en": "Warm clothing is essential for the biting wind during the crossing."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Ihr Wischwasser genug Frostschutz enthält.",
+              "Einige Parkplätze in Enniskillen können bei Frost sehr glatt sein.",
+              "Die Dämmerung beginnt früh; prüfen Sie Ihre Fahrzeugbeleuchtung.",
+              "Nutzen Sie die Sitzheizung nach dem Spaziergang im Forthill Park.",
+              "Buchen Sie Restauranttische am Wochenende im Voraus (Weihnachtsfeiern)."
+            ],
+            "hu": [
+              "Ellenőrizze a fagyálló szintjét a szélvédőmosóban.",
+              "Néhány parkoló felülete jeges maradhat napközben is.",
+              "A szürkület korán jön, ügyeljen a fényszórók használatára.",
+              "Használja az ülésfűtést a Forthill Park-i séta után.",
+              "Hétvégére foglaljon asztalt előre a karácsonyi céges bulik miatt."
+            ],
+            "ro": [
+              "Asigurați-vă că aveți lichid de parbriz rezistent la îngheț.",
+              "Suprafața unor parcări poate rămâne înghețată pe parcursul zilei.",
+              "Amurgul vine devreme; verificați funcționarea farurilor.",
+              "Folosiți încălzirea în scaune după plimbarea prin parcul rece.",
+              "Rezervați masa din timp în weekend din cauza petrecerilor de Crăciun."
+            ],
+            "en": [
+              "Ensure your screen wash has sufficient anti-freeze protection.",
+              "Some open-air car parks can be very slippery if frost lingers.",
+              "Twilight is early; double-check your headlights are working well.",
+              "Take advantage of seat heaters after the chilly Forthill walk.",
+              "Book dinner tables in advance during the festive season (Nov/Dec)."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1347,6 +1881,178 @@
           "Buses may not be frequent, so plan accordingly.",
           "Signal clearly for the driver to stop."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie am zentralen Busbahnhof, der guten Schutz vor Regen bietet. Von dort ist der Buttermarket nur ein kurzer, fast trockener Sprung entfernt.\n\nMittags erreichen Sie bequem die Burg Enniskillen. Die Busse halten oft direkt in der Nähe der Haupteingänge.\n\nNachmittags führt die Fahrt nach Castle Coole. Der Fußweg von der Haltestelle zum Haus ist bei Regen lang – ein Schirm ist Pflicht.\n\nDen Abend beschließen Sie nach einer kurzen Busfahrt zurück im gemütlichen Stadtzentrum.",
+            "hu": "Kezdje a napot a központi buszpályaudvaron, amely jó védelmet nyújt az eső elől. Innen a Buttermarket csak egy rövid, szinte száraz séta.\n\nDélben könnyen elérheti a várat, a buszok gyakran közvetlenül a főbejárat közelében állnak meg.\n\nDélután látogasson el Castle Coole-ba. A buszmegállótól a házig tartó séta esőben hosszúnak tűnhet – ernyő kötelező.\n\nAz estét töltse a belvárosban, ahová egy rövid buszúttal térhet vissza.",
+            "ro": "Începeți la autogara centrală, care oferă adăpost bun împotriva ploii. De acolo, Buttermarket este la doar câțiva pași.\n\nLa prânz ajungeți ușor la Castelul Enniskillen; autobuzele opresc adesea chiar lângă intrarea principală.\n\nDupă-amiaza mergeți la Castle Coole. Drumul de la stație la conac este lung prin ploaie – umbrela e obligatorie.\n\nSeara se încheie în centrul orașului, după o scurtă călătorie de întoarcere cu autobuzul.",
+            "en": "Start at the central bus station, which offers good shelter. From there, the Buttermarket is just a short, mostly dry walk away.\n\nAt midday, Enniskillen Castle is easily accessible, with bus stops located very close to the main gate.\n\nIn the afternoon, head to Castle Coole. The walk from the bus stop to the house is long in the rain – an umbrella is a must.\n\nFinish your day back in the town centre after a short bus ride to your evening destination."
+          },
+          "stops": [
+            {
+              "name": "Town Centre Bus Stop",
+              "tip_5lang": {
+                "de": "Warten Sie im überdachten Wartehäuschen auf Ihren Anschluss.",
+                "hu": "Várjon a fedett váróban a csatlakozásra.",
+                "ro": "Așteptați în zona acoperită a stației pentru a rămâne uscat.",
+                "en": "Wait inside the sheltered area of the station for your connection."
+              }
+            },
+            {
+              "name": "The Buttermarket",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist nah genug, um bei Regen schnell dorthin zu gelangen.",
+                "hu": "A megálló elég közel van ahhoz, hogy ne ázzon el útközben.",
+                "ro": "Stația este suficient de aproape pentru a ajunge rapid la adăpost.",
+                "en": "The stop is close enough to reach the shelter quickly in a downpour."
+              }
+            },
+            {
+              "name": "Enniskillen Castle",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Bus, um direkt vor das Burgtor zu gelangen.",
+                "hu": "Használja a buszt, hogy közvetlenül a várkapu elé érkezzen.",
+                "ro": "Folosiți autobuzul pentru a ajunge chiar în fața porții castelului.",
+                "en": "Take the bus to arrive right in front of the castle's main entrance."
+              }
+            },
+            {
+              "name": "Castle Coole",
+              "tip_5lang": {
+                "de": "Der Weg von der Straße zum Haus ist nicht überdacht – Vorsicht!",
+                "hu": "Az úttól a házig vezető sétány nem fedett – készüljön fel!",
+                "ro": "Drumul de la stradă la conac nu este acoperit; folosiți umbrela.",
+                "en": "The long driveway from the road to the house is unsheltered."
+              }
+            },
+            {
+              "name": "Portora Royal School",
+              "tip_5lang": {
+                "de": "Busse in diese Richtung fahren regelmäßig ab dem Busbahnhof.",
+                "hu": "A buszok rendszeresen indulnak ebbe az irányba a pályaudvarról.",
+                "ro": "Autobuzele spre această zonă pleacă regulat din autogară.",
+                "en": "Buses to this area run frequently from the main bus station."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Laden Sie die Translink-App für Live-Abfahrtszeiten bei Regen.",
+              "Warten Sie im Busbahnhof statt an offenen Haltestellen.",
+              "Busse können bei starkem Regen wegen des Verkehrs Verspätung haben.",
+              "Halten Sie Ihr Ticket oder Handy griffbereit, um schnell einzusteigen.",
+              "Vermeiden Sie es, nasse Schirme direkt auf den Sitz neben sich zu legen."
+            ],
+            "hu": [
+              "Töltse le a Translink appot az élő menetrendért esőben.",
+              "Várjon a pályaudvaron a nyitott megállók helyett, amíg lehet.",
+              "Heves esőben a buszok késhetnek a nagyobb forgalom miatt.",
+              "Készítse elő a jegyét, hogy gyorsan felszállhasson az esőben.",
+              "Ne tegye a vizes ernyőt a mellette lévő ülésre a buszon."
+            ],
+            "ro": [
+              "Descărcați aplicația Translink pentru orele de plecare în timp real.",
+              "Așteptați în autogară în loc de stațiile deschise dacă plouă.",
+              "Autobuzele pot avea întârzieri din cauza traficului greu pe ploaie.",
+              "Aveți biletul pregătit pentru a urca rapid în vehicul.",
+              "Nu așezați umbrelele ude direct pe scaunele din autobuz."
+            ],
+            "en": [
+              "Download the Translink app for live bus tracking during rain.",
+              "Wait inside the bus station hub rather than at open roadside stops.",
+              "Buses may be slightly delayed during heavy rain due to traffic.",
+              "Have your payment or pass ready to board quickly and stay dry.",
+              "Please keep wet umbrellas off the seats for other passengers."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie am beleuchteten Busbahnhof. Die Fahrt zum Buttermarket ist kurz und schützt vor dem eisigen Morgenwind.\n\nMittags erreichen Sie die Burg Enniskillen. Die kurzen Wege zwischen Haltestelle und Museumseingang sind im Winter ideal.\n\nNachmittags führt die Route nach Castle Coole. Beachten Sie, dass es auf dem Gelände früh dunkel wird; planen Sie den Rückweg zur Bushaltestelle rechtzeitig.\n\nDen Abend genießen Sie im hell erleuchteten Stadtzentrum, bevor Sie bequem mit dem Bus zu Ihrer Unterkunft fahren.",
+            "hu": "Kezdje a napot a kivilágított pályaudvaron. A buszút a Buttermarketig rövid, és megvédi a jeges reggeli széltől.\n\nDélben látogasson el a várba; a megálló és a múzeumbemenet közötti rövid távolság télen ideális.\n\nDélután irány Castle Coole. Ne feledje, hogy a parkban korán sötétedik, időben induljon vissza a buszmegállóhoz.\n\nAz estét töltse a díszkivilágításban úszó belvárosban, majd utazzon kényelmesen busszal a szállására.",
+            "ro": "Începeți la autogara luminată. Călătoria spre Buttermarket este scurtă și vă ferește de vântul înghețat de dimineață.\n\nLa prânz vizitați castelul; distanța mică între stație și intrare este ideală iarna.\n\nDupă-amiaza mergeți la Castle Coole. Rețineți că se întunecă devreme în parc; planificați drumul spre stație din timp.\n\nSeara bucurați-vă de centrul orașului iluminat festiv, apoi luați autobuzul spre cazare.",
+            "en": "Start at the brightly lit bus station. The ride to the Buttermarket is short and shields you from the icy morning wind.\n\nAt midday, visit the Castle; the minimal walking distance from the stop to the museum is perfect for winter. \n\nIn the afternoon, head to Castle Coole. Remember that the grounds get dark early; plan your walk back to the bus stop accordingly. \n\nEnjoy the evening in the festively decorated town centre before a comfortable bus ride back."
+          },
+          "stops": [
+            {
+              "name": "Town Centre Bus Stop",
+              "tip_5lang": {
+                "de": "Der Busbahnhof ist im Winter beheizt und ein guter Treffpunkt.",
+                "hu": "A buszpályaudvar télen fűtött, kiváló találkozópont.",
+                "ro": "Autogara este încălzită iarna, fiind un loc bun de așteptare.",
+                "en": "The bus station hub is heated in winter and is a good meeting spot."
+              }
+            },
+            {
+              "name": "The Buttermarket",
+              "tip_5lang": {
+                "de": "Die Busse fahren hier im Winter oft in dichterem Takt ins Zentrum.",
+                "hu": "A buszok télen gyakran sűrűbben járnak innen a központba.",
+                "ro": "Autobuzele circulă frecvent de aici spre centru pe timpul iernii.",
+                "en": "Buses run frequently from here to the centre during winter months."
+              }
+            },
+            {
+              "name": "Enniskillen Castle",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Wartehäuschen gegenüber der Burg für den Rückweg.",
+                "hu": "Használja a várral szemközti fedett várót a visszaúthoz.",
+                "ro": "Folosiți refugiul stației de peste drum de castel pentru retur.",
+                "en": "Use the sheltered stop across from the castle for your return trip."
+              }
+            },
+            {
+              "name": "Castle Coole",
+              "tip_5lang": {
+                "de": "Der letzte Bus zurück fährt im Winter oft früher ab – Plan prüfen!",
+                "hu": "Az utolsó busz télen korábban indulhat – ellenőrizze a menetrendet!",
+                "ro": "Ultimul autobuz poate pleca mai devreme iarna; verificați orarul.",
+                "en": "The last bus back might be earlier in winter; check the timetable."
+              }
+            },
+            {
+              "name": "Portora Royal School",
+              "tip_5lang": {
+                "de": "Die Haltestelle liegt oben am Hügel, ziehen Sie sich warm an.",
+                "hu": "A megálló a dombtetőn van, öltözzön fel melegen a várakozáshoz.",
+                "ro": "Stația este pe deal; îmbrăcați-vă gros pentru așteptare.",
+                "en": "The stop is on a hill; dress warmly while waiting for the bus."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ab 16:30 Uhr ist es dunkel; nutzen Sie beleuchtete Haltestellen.",
+              "Die Translink-Busse sind im Winter gut beheizt und komfortabel.",
+              "Planen Sie Pufferzeiten ein, falls Glätte den Verkehr verlangsamt.",
+              "Tragen Sie reflektierende Kleidung beim Weg zur Haltestelle im Dunkeln.",
+              "Kaufen Sie ein Tagesticket ('iLink'), um unbegrenzt umzusteigen."
+            ],
+            "hu": [
+              "16:30 után sötét van, próbáljon jól kivilágított megállókat használni.",
+              "A Translink buszok télen jól fűtöttek és kényelmesek.",
+              "Számoljon extra idővel, ha a jeges utak lassítják a forgalmat.",
+              "Viseljen fényvisszaverő elemet, ha sötétben gyalogol a megállóhoz.",
+              "Vásároljon napijegyet (iLink) a korlátlan átszálláshoz."
+            ],
+            "ro": [
+              "După 16:30 este întuneric; folosiți stațiile bine iluminate.",
+              "Autobuzele Translink sunt bine încălzite și confortabile iarna.",
+              "Anticipați întârzieri dacă drumurile înghețate încetinesc traficul.",
+              "Purtați elemente reflectorizante când mergeți spre stație pe întuneric.",
+              "Cumpărați un bilet de o zi (iLink) pentru călătorii nelimitate."
+            ],
+            "en": [
+              "It gets dark after 16:30; try to use well-lit bus stops.",
+              "Translink buses are well-heated and very comfortable in winter.",
+              "Allow extra travel time if icy conditions slow down road traffic.",
+              "Wear something reflective if walking to rural stops in the dark.",
+              "An 'iLink' day pass offers the best value for multiple bus trips."
+            ]
+          }
+        }
       }
     }
   }

@@ -338,6 +338,178 @@
           "Be sure to try the local pastries.",
           "Respect local customs, especially when visiting religious sites."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt unter dem Schutz des Befreiungsdenkmals, während der Regen auf den Asphalt prasselt. Mittags bietet die Hamza-Bey-Moschee einen friedlichen, trockenen Rückzugsort vor dem Mittagessen in der Innenstadt. Am Nachmittag führt der Weg zum Stadtpark, wo das satte Grün der Bäume im Regen leuchtet. Der Abend klingt gemütlich in einem der Cafés nahe der Sana-Brücke aus.",
+            "hu": "A reggel a Felszabadulási Emlékműnél indul az eső kopogása mellett. Délben a Hamza bég mecset nyújt száraz menedéket a belvárosi ebéd előtt. Délután a városi park zöldje különösen intenzív a csapadékban, friss illatot árasztva. Az estét érdemes egy folyóparti kávézóban tölteni, figyelve a Szana hullámait és a hidak fényeit a nedves aszfalton.",
+            "ro": "Dimineața începe la Monumentul Eliberării sub sunetul picăturilor de ploaie. La prânz, Moscheea Hamza Bey oferă un refugiu spiritual și uscat înainte de masă. După-amiaza, parcul orașului devine o oază verde vibrantă în ciuda vremii. Seara se încheie confortabil într-o cafenea centrală, privind reflexiile podului Sana în apa râului.",
+            "en": "The morning starts at the Liberation Monument as rain patters on the pavement. By noon, the Hamza Bey Mosque provides a peaceful, dry sanctuary before a cozy lunch in the center. In the afternoon, the city park's greenery glows under the gray sky. The evening concludes in a warm café near the Sana bridge, watching the raindrops dance on the river surface."
+          },
+          "stops": [
+            {
+              "name": "Liberation Monument",
+              "tip_5lang": {
+                "de": "Kurzer Aufenthalt, die Treppen können bei Nässe rutschig sein.",
+                "hu": "Rövid megálló, a lépcsők nedvesen csúszósak lehetnek.",
+                "ro": "Oprire scurtă, treptele pot fi alunecoase când sunt ude.",
+                "en": "Quick stop, the steps can be slippery when wet."
+              }
+            },
+            {
+              "name": "Sana Bridge",
+              "tip_5lang": {
+                "de": "Holzbohlen sind rutschig, festes Schuhwerk ist ratsam.",
+                "hu": "A fapadlók csúsznak, ajánlott a tapadós talpú cipő.",
+                "ro": "Scândurile de lemn alunecă, se recomandă încălțăminte aderentă.",
+                "en": "Wooden planks are slippery, grippy shoes are recommended."
+              }
+            },
+            {
+              "name": "Hamza Bey Mosque",
+              "tip_5lang": {
+                "de": "Idealer Ort, um den Regen kurz abzuwarten.",
+                "hu": "Ideális hely az eső rövid kivárására a fedett részen.",
+                "ro": "Loc ideal pentru a aștepta scurt trecerea ploii.",
+                "en": "Ideal place to briefly wait out the rain under cover."
+              }
+            },
+            {
+              "name": "Lunch in the City Center",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit Blick auf den Fluss.",
+                "hu": "Válasszunk folyóra néző asztalt a hangulatos ebédhez.",
+                "ro": "Alegeți un restaurant cu vedere la râu pentru prânz.",
+                "en": "Choose a restaurant with a river view for a cozy lunch."
+              }
+            },
+            {
+              "name": "Sanski Most City Park",
+              "tip_5lang": {
+                "de": "Die asphaltierten Wege sind sauberer als die Rasenflächen.",
+                "hu": "Az aszfaltozott utak tisztábbak maradnak, mint a pázsit.",
+                "ro": "Aleeile asfaltate sunt mai curate decât zonele cu iarbă.",
+                "en": "Paved paths stay cleaner than the grassy areas."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine wasserfeste Jacke, da der Wind am Fluss kühl weht.",
+              "Die Innenstadt hat viele überdachte Passagen zum Unterstellen.",
+              "Nutzen Sie die Moschee als kulturellen und trockenen Ruhepol.",
+              "Achten Sie auf Pfützen auf den Brückenbelägen.",
+              "Regenschirme sind bei Windstößen von der Sana riskant."
+            ],
+            "hu": [
+              "Viselj vízálló kabátot, a folyó felől fújó szél hűvös lehet.",
+              "A belvárosban sok fedett árkád található az eső elől.",
+              "A mecset kiváló kulturális menedék a záporok idején.",
+              "Vigyázz a tócsákra a hidak burkolatain.",
+              "Az ernyő a Szana felőli széllökésekben instabil lehet."
+            ],
+            "ro": [
+              "Purtați o jachetă impermeabilă, vântul de pe râu este rece.",
+              "Centrul are multe pasaje acoperite pentru adăpost.",
+              "Moscheea este un refugiu cultural excelent în timpul ploii.",
+              "Atenție la bălțile de pe suprafața podurilor.",
+              "Umbrelele pot fi greu de ținut din cauza rafalelor de vânt."
+            ],
+            "en": [
+              "Wear a waterproof jacket, as the river wind can be chilly.",
+              "The city center has many covered passages for shelter.",
+              "Use the mosque as a cultural and dry sanctuary.",
+              "Watch out for puddles on the bridge surfaces.",
+              "Umbrellas might be tricky during gusts from the Sana river."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen am Denkmal weckt die Sinne. Mittags bietet die Sana-Brücke einen weiten Blick auf den eiskalten Fluss, bevor die Hamza-Bey-Moschee Wärme spendet. Nach einem herzhaften Mittagessen führt der Spaziergang durch den winterlichen Stadtpark, wo die kahlen Bäume eine grafische Kulisse bilden. Da die Sonne früh untergeht, endet der Tag bei heißem Tee in der Stadt.",
+            "hu": "A fagyos reggel az emlékműnél frissítően indul. Délben a Szana-hídról nyílik kilátás a jéghideg folyóra, majd a mecset áraszt nyugalmat. Egy laktató ebéd után a téli park kopár fái között sétálunk, ahol a dér csillog az ágakon. A korai naplemente miatt az estét már egy meleg teázóban fejezzük be.",
+            "ro": "O dimineață geroasă la monument trezește simțurile. La prânz, podul Sana oferă o vedere amplă asupra râului rece, urmată de căldura moscheii. După un prânz copios, urmează o plimbare prin parcul hibernal, cu copaci golași și promoroacă. Deoarece soarele apune devreme, ziua se încheie cu un ceai fierbinte.",
+            "en": "A frosty morning at the monument wakes up the senses. At noon, the Sana bridge offers a vast view of the icy river, followed by the quiet warmth of the mosque. After a hearty lunch, walk through the winter city park, where frost sparkles on bare branches. With the early sunset, the day ends with hot tea in a cozy local spot."
+          },
+          "stops": [
+            {
+              "name": "Liberation Monument",
+              "tip_5lang": {
+                "de": "Morgens kann Raureif die Oberflächen glatt machen.",
+                "hu": "Reggel a zúzmara síkossá teheti a felületeket.",
+                "ro": "Promoroaca de dimineață poate face suprafețele alunecoase.",
+                "en": "Morning frost can make surfaces very slick."
+              }
+            },
+            {
+              "name": "Sana Bridge",
+              "tip_5lang": {
+                "de": "Der Wind auf der Brücke ist im Winter sehr schneidend.",
+                "hu": "A hídon télen nagyon metsző tud lenni a szél.",
+                "ro": "Vântul de pe pod este foarte tăios în timpul iernii.",
+                "en": "The wind on the bridge is very biting in winter."
+              }
+            },
+            {
+              "name": "Hamza Bey Mosque",
+              "tip_5lang": {
+                "de": "Warme Kleidung ist auch im Inneren ratsam.",
+                "hu": "A belső térben is ajánlott a réteges, meleg öltözet.",
+                "ro": "Îmbrăcămintea groasă este necesară și în interior.",
+                "en": "Warm layers are recommended even inside."
+              }
+            },
+            {
+              "name": "Lunch in the City Center",
+              "tip_5lang": {
+                "de": "Probieren Sie lokale Eintöpfe zum Aufwärmen.",
+                "hu": "Próbálja ki a helyi egytálételeket a felmelegedéshez.",
+                "ro": "Încercați tocănițele locale pentru a vă încălzi.",
+                "en": "Try local stews to warm up during lunch."
+              }
+            },
+            {
+              "name": "Sanski Most City Park",
+              "tip_5lang": {
+                "de": "Genießen Sie das Licht vor dem Sonnenuntergang um 16 Uhr.",
+                "hu": "Élvezze a fényeket a korai, 16 órai naplemente előtt.",
+                "ro": "Bucurați-vă de lumină înainte de apusul de la ora 16.",
+                "en": "Enjoy the light before the early sunset at 4 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Handschuhe sind für den Spaziergang an der Sana essenziell.",
+              "Die Sonne verschwindet im Winter bereits gegen 16:30 Uhr.",
+              "Einige Brückenwege können bei Frost gesperrt sein.",
+              "Suchen Sie mittags die Nähe von Heizkörpern in Restaurants.",
+              "Trinken Sie 'Salep', falls es in lokalen Cafés angeboten wird."
+            ],
+            "hu": [
+              "A meleg kesztyű alapvető a Szana-parti sétához.",
+              "Télen a nap már 16:30 körül eltűnik a horizontról.",
+              "A hidak egyes részei fagy esetén lezárhatók.",
+              "Ebédnél keress fűtőtest közeli asztalt a gyorsabb melegedéshez.",
+              "Kóstold meg a 'salep'-et, ha kínálják a kávézókban."
+            ],
+            "ro": [
+              "Mănușile groase sunt esențiale pentru plimbarea pe malul râului.",
+              "Iarna soarele dispare deja în jurul orei 16:30.",
+              "Unele căi de pe poduri pot fi închise în caz de îngheț.",
+              "Căutați locuri lângă calorifere în restaurante la prânz.",
+              "Beți 'salep' dacă este oferit în cafenelele locale."
+            ],
+            "en": [
+              "Warm gloves are essential for the walk along the Sana.",
+              "The sun disappears around 4:30 PM in the winter.",
+              "Some bridge sections might be closed during heavy frost.",
+              "Look for tables near radiators in restaurants at lunch.",
+              "Try 'salep' if available in local cafés to warm up."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -345,7 +517,7 @@
       "speed_kmh": 10,
       "start": "09:00",
       "end_estimate": "17:15",
-      "total_km": 21.0,
+      "total_km": 11.5,
       "stop_count": 6,
       "stops": [
         {
@@ -694,6 +866,196 @@
           "A helmet is highly recommended.",
           "Always lock your bike in busy areas."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt im nassen Stadtpark, gefolgt von einer vorsichtigen Fahrt über die Sana-Brücke. Mittags bietet die Hamza-Bey-Moschee Schutz, bevor es zur Festung Kamengrad geht. Der Aufstieg ist im Regen fordernd, aber die mystische Atmosphäre belohnt die Mühe. Nach dem Essen führt der Weg zurück zum Fluss, wo der Regen leise auf das Wasser trifft.",
+            "hu": "A nap a nedves városi parkban indul, majd óvatos tekerés következik a Szana-hídon. Délben a mecsetnél pihenünk meg, mielőtt Kamengrad vára felé vesszük az irányt. Az esős emelkedő nehéz, de a ködös vár látványa kárpótol. Ebéd után gurulunk vissza a folyóhoz, ahol az eső csendesen dobol a vízen.",
+            "ro": "Ziua începe în parcul ud, urmată de o traversare atentă a podului Sana. La prânz, moscheea oferă adăpost înainte de drumul spre cetatea Kamengrad. Urcarea pe ploaie este solicitantă, dar atmosfera mistică merită efortul. După masă, revenim la râu, unde ploaia cade liniștit peste apă.",
+            "en": "The day starts in the damp city park, followed by a careful ride across the Sana bridge. By noon, the mosque offers cover before heading to Kamengrad Fortress. The rainy climb is demanding, but the misty fortress atmosphere rewards the effort. After lunch, cycle back to the river, watching the rain blend with the flow."
+          },
+          "stops": [
+            {
+              "name": "Sanski Most City Park",
+              "tip_5lang": {
+                "de": "Vorsicht bei nassem Laub auf den Radwegen.",
+                "hu": "Vigyázz a vizes falevelekre a kerékpárutakon.",
+                "ro": "Atenție la frunzele ude pe pistele de biciclete.",
+                "en": "Watch out for wet leaves on the cycling paths."
+              }
+            },
+            {
+              "name": "Sana Bridge",
+              "tip_5lang": {
+                "de": "Metallfugen können extrem rutschig sein.",
+                "hu": "A fém illesztések rendkívül csúszósak lehetnek.",
+                "ro": "Îmbinările metalice pot fi extrem de alunecoase.",
+                "en": "Metal joints on the bridge can be extremely slippery."
+              }
+            },
+            {
+              "name": "Hamza Bey Mosque",
+              "tip_5lang": {
+                "de": "Fahrradständer sind oft nicht überdacht.",
+                "hu": "A kerékpártárolók gyakran nem fedettek.",
+                "ro": "Suporturile de biciclete nu sunt adesea acoperite.",
+                "en": "Bike racks are often not covered."
+              }
+            },
+            {
+              "name": "Kamengrad Fortress",
+              "tip_5lang": {
+                "de": "Der Anstieg auf unbefestigten Wegen ist schlammig.",
+                "hu": "A burkolatlan utakon az emelkedő sáros lehet.",
+                "ro": "Urcarea pe drumuri neasfaltate este noroioasă.",
+                "en": "The climb on unpaved roads will be muddy."
+              }
+            },
+            {
+              "name": "Lunch in Kamengrad",
+              "tip_5lang": {
+                "de": "Suchen Sie einen Platz, um die Kleidung zu trocknen.",
+                "hu": "Keressen helyet a ruházat szárításához ebéd közben.",
+                "ro": "Căutați un loc pentru a vă usca hainele în timpul mesei.",
+                "en": "Look for a spot to dry your clothes during lunch."
+              }
+            },
+            {
+              "name": "Back to the Sana River",
+              "tip_5lang": {
+                "de": "Beleuchtung prüfen, die Sicht ist bei Regen schlechter.",
+                "hu": "Ellenőrizze a világítást, esőben rosszabbak a látási viszonyok.",
+                "ro": "Verificați luminile, vizibilitatea este redusă pe ploaie.",
+                "en": "Check your lights, visibility is reduced in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind bei den Pfützen in Sanski Most unerlässlich.",
+              "Vermeiden Sie starkes Bremsen auf den Brückenbelägen.",
+              "Die Straße nach Kamengrad ist bei Regen rutschig.",
+              "Tragen Sie eine auffällige Regenjacke für bessere Sichtbarkeit.",
+              "Halten Sie die Kette nach der Fahrt sauber (Sand/Schlamm)."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen a városi tócsák miatt.",
+              "Kerüld az erős fékezést a hidak burkolatán.",
+              "A Kamengrad felé vezető út esőben csúszós.",
+              "Viselj feltűnő esőkabátot a jobb láthatóságért.",
+              "A túra után tisztítsd meg a láncot a sártól."
+            ],
+            "ro": [
+              "Apărătorile sunt esențiale din cauza bălților din oraș.",
+              "Evitați frânarea bruscă pe suprafața podurilor.",
+              "Drumul spre Kamengrad este alunecos pe ploaie.",
+              "Purtați o pelerină reflectorizantă pentru vizibilitate.",
+              "Curățați lanțul după plimbare (nisip/noroi)."
+            ],
+            "en": [
+              "Mudguards are essential due to puddles in the city.",
+              "Avoid hard braking on the bridge surfaces.",
+              "The road to Kamengrad gets slippery when wet.",
+              "Wear a bright raincoat for better visibility to cars.",
+              "Clean your chain after the ride from sand and mud."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens führt die Fahrt durch den frostigen Stadtpark zur Sana-Brücke, wo der Wind eisig weht. Nach einem kurzen Halt an der Moschee folgt der winterliche Aufstieg nach Kamengrad. Die Anstrengung hält warm, und der Ausblick auf das schneebedeckte Tal ist fantastisch. Mittags stärkt ein warmes Essen, bevor die Rückfahrt im dämmrigen Licht des Nachmittags erfolgt.",
+            "hu": "Reggel a deres városi parkból indulunk a Szana-híd felé, ahol jeges szél fogad. A mecsetnél tett rövid pihenő után következik a téli kaptató Kamengradba. A tekerés melegen tart, a havas völgy látványa pedig lenyűgöző. Ebéd után, a délutáni szürkületben gurulunk vissza a városba.",
+            "ro": "Dimineața trecem prin parcul înghețat spre podul Sana, unde vântul este tăios. După o scurtă oprire la moschee, urmează urcarea hibernală spre Kamengrad. Efortul vă menține calzi, iar vederea spre valea înzăpezită este superbă. După prânz, revenim spre oraș în lumina slabă a după-amiezii.",
+            "en": "In the morning, ride through the frosty city park to the Sana bridge, where the wind bites. After a quick stop at the mosque, begin the winter climb to Kamengrad. The exertion keeps you warm, and the snowy valley view is fantastic. After lunch, head back to town in the fading afternoon light."
+          },
+          "stops": [
+            {
+              "name": "Sanski Most City Park",
+              "tip_5lang": {
+                "de": "Achten Sie auf überfrierende Nässe im Schatten.",
+                "hu": "Vigyázz a felfagyásokra az árnyékos szakaszokon.",
+                "ro": "Atenție la porțiunile de gheață din zonele umbrite.",
+                "en": "Watch out for black ice in shaded areas."
+              }
+            },
+            {
+              "name": "Sana Bridge",
+              "tip_5lang": {
+                "de": "Starker Seitenwind kann das Radfahren erschweren.",
+                "hu": "Az erős oldalszél nehezítheti a haladást a hídon.",
+                "ro": "Vântul lateral puternic poate îngreuna înaintarea.",
+                "en": "Strong side winds can make cycling difficult on the bridge."
+              }
+            },
+            {
+              "name": "Hamza Bey Mosque",
+              "tip_5lang": {
+                "de": "Handschuhe nicht vergessen, die Griffe sind eiskalt.",
+                "hu": "Ne feledd a kesztyűt, a kormány markolata jéghideg.",
+                "ro": "Nu uitați mănușile, mânerele ghidonului sunt reci.",
+                "en": "Don't forget gloves, the handlebars will be freezing."
+              }
+            },
+            {
+              "name": "Kamengrad Fortress",
+              "tip_5lang": {
+                "de": "Der Boden kann gefroren und sehr uneben sein.",
+                "hu": "A talaj fagyott és nagyon egyenetlen lehet.",
+                "ro": "Solul poate fi înghețat și foarte denivelat.",
+                "en": "The ground might be frozen and very uneven."
+              }
+            },
+            {
+              "name": "Lunch in Kamengrad",
+              "tip_5lang": {
+                "de": "Dehnen Sie sich kurz, um Krämpfe durch Kälte zu vermeiden.",
+                "hu": "Nyújtson kicsit, elkerülve a hideg miatti görcsöket.",
+                "ro": "Faceți câteva întinderi pentru a evita crampele de la frig.",
+                "en": "Do some light stretching to avoid cramps from the cold."
+              }
+            },
+            {
+              "name": "Back to the Sana River",
+              "tip_5lang": {
+                "de": "Schalten Sie das Licht frühzeitig ein (ab 16 Uhr).",
+                "hu": "Kapcsolja be a világítást korán (16 órától).",
+                "ro": "Aprindeți luminile devreme (de la ora 16).",
+                "en": "Turn on your lights early (from 4 PM)."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Thermo-Layer sind für die Abfahrt von Kamengrad wichtig.",
+              "Prüfen Sie den Reifendruck; etwas weniger bietet mehr Grip.",
+              "Der Windchill-Effekt auf der Brücke ist nicht zu unterschätzen.",
+              "Trinken Sie ausreichend, auch wenn Sie keinen Durst spüren.",
+              "Planen Sie die Rückkehr vor 17:00 Uhr ein."
+            ],
+            "hu": [
+              "A termo-rétegek fontosak a Kamengradból való leguruláshoz.",
+              "Ellenőrizd a guminyomást; a kevesebb jobb tapadást ad.",
+              "A hídon a szél hűtő hatása jelentős.",
+              "Igyál eleget, még ha nem is érzed magad szomjasnak.",
+              "Tervezd a visszaérkezést 17:00 előttre."
+            ],
+            "ro": [
+              "Straturile termice sunt importante pentru coborârea din Kamengrad.",
+              "Verificați presiunea; o presiune mai mică oferă aderență.",
+              "Efectul vântului pe pod nu trebuie subestimat.",
+              "Beți suficiente lichide, chiar dacă nu simțiți setea.",
+              "Planificați revenirea înainte de ora 17:00."
+            ],
+            "en": [
+              "Thermal layers are vital for the descent from Kamengrad.",
+              "Check tire pressure; slightly lower gives better grip on ice.",
+              "Don't underestimate the wind chill on the bridges.",
+              "Stay hydrated even if you don't feel thirsty in the cold.",
+              "Aim to be back in the city center by 5:00 PM."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1098,6 +1460,232 @@
           "Check opening hours, especially for the fortress.",
           "Have snacks and water in the car for the longer drives."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Tour beginnt entspannt an der Sana-Brücke, während Regentropfen auf das Autodach trommeln. Mittags führt die Fahrt zur Festung Kamengrad, wobei die Scheibenwischer den Blick auf die grünen Hügel freigeben. Nach dem Besuch der Musalla folgt das Highlight: der Bliha-Wasserfall, der bei Regen besonders kraftvoll tost. Der Tag endet ruhig im Stadtpark, geschützt vor dem Schauer.",
+            "hu": "A túra a Szana-hídnál kezdődik, miközben az eső kopog a tetőn. Délben Kamengrad vára felé autózunk a zöldellő dombok között. A Musalla megtekintése után következik a fénypont: a Bliha-vízesés, amely esőben különösen dübörgő. A napot a városi parkban zárjuk, ahonnan gyorsan autóba szállhatunk, ha újra rákezd az eső.",
+            "ro": "Turul începe la podul Sana sub sunetul ploii pe plafonul mașinii. La prânz, conducem spre cetatea Kamengrad prin dealurile verzi. După vizitarea Musalla, urmează punctul culminant: cascada Bliha, care este impresionantă pe ploaie. Ziua se termină în parcul orașului, cu mașina aproape în caz de aversă.",
+            "en": "The tour starts comfortably at the Sana bridge as rain drums on the roof. By noon, drive to Kamengrad Fortress through lush green hills. After visiting the Musalla, the highlight awaits: Bliha Waterfall, roaring with extra power in the rain. The day ends quietly at the city park, with a quick retreat to the car if needed."
+          },
+          "stops": [
+            {
+              "name": "Sana Bridge (Cluster A)",
+              "tip_5lang": {
+                "de": "Parkplätze nahe der Brücke können bei Regen voll sein.",
+                "hu": "A híd közeli parkolók esőben hamar megtelhetnek.",
+                "ro": "Parcările de lângă pod pot fi pline pe timp de ploaie.",
+                "en": "Parking near the bridge might be busy during rain."
+              }
+            },
+            {
+              "name": "Liberation Monument (Cluster A)",
+              "tip_5lang": {
+                "de": "Kurzer Stopp möglich, Parkplatz direkt daneben.",
+                "hu": "Gyors megálló lehetséges, parkoló közvetlenül mellette.",
+                "ro": "Oprire scurtă posibilă, parcare chiar lângă.",
+                "en": "Quick stop possible with parking right next to it."
+              }
+            },
+            {
+              "name": "Hamza Bey Mosque (Cluster A)",
+              "tip_5lang": {
+                "de": "Einfahrt zur Moschee ist schmal, Vorsicht bei Pfützen.",
+                "hu": "A mecset bejárata szűk, vigyázz a tócsákra.",
+                "ro": "Intrarea spre moschee este îngustă, atenție la bălți.",
+                "en": "The mosque entrance is narrow, watch out for puddles."
+              }
+            },
+            {
+              "name": "Kamengrad Fortress (Cluster B)",
+              "tip_5lang": {
+                "de": "Der Weg zur Festung ist steil und bei Regen rutschig.",
+                "hu": "A várba vezető út meredek és esőben csúszós.",
+                "ro": "Drumul spre cetate este abrupt și alunecos pe ploaie.",
+                "en": "The path to the fortress is steep and slippery in rain."
+              }
+            },
+            {
+              "name": "Musalla in Kamengrad (Cluster B)",
+              "tip_5lang": {
+                "de": "Parken Sie auf festem Untergrund, um nicht einzusinken.",
+                "hu": "Parkoljon szilárd burkolaton, hogy ne akadjon el a sárban.",
+                "ro": "Parcați pe teren solid pentru a nu vă împotmoli.",
+                "en": "Park on solid ground to avoid getting stuck in mud."
+              }
+            },
+            {
+              "name": "Lunch in Kamengrad (Cluster B)",
+              "tip_5lang": {
+                "de": "Reservieren Sie einen Tisch nahe dem Parkplatz.",
+                "hu": "Foglaljon asztalt a parkolóhoz közel.",
+                "ro": "Rezervați o masă aproape de parcare.",
+                "en": "Book a table close to the parking area."
+              }
+            },
+            {
+              "name": "Bliha Waterfall (Cluster C)",
+              "tip_5lang": {
+                "de": "Der Fußweg vom Parkplatz zum Wasserfall ist schlammig.",
+                "hu": "A parkolótól a vízesésig vezető gyalogút sáros.",
+                "ro": "Poteca de la parcare la cascadă este noroioasă.",
+                "en": "The walk from the parking lot to the fall is muddy."
+              }
+            },
+            {
+              "name": "Sanski Most City Park",
+              "tip_5lang": {
+                "de": "Parken Sie unter den Bäumen für einen kurzen Regenschutz.",
+                "hu": "Parkoljon a fák alatt a rövid esővédelemért.",
+                "ro": "Parcați sub copaci pentru o scurtă protecție la ploaie.",
+                "en": "Park under trees for some brief cover from rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Zustand Ihrer Scheibenwischer vor der Abfahrt.",
+              "Die Landstraßen um Kamengrad können Aquaplaning-Gefahr bieten.",
+              "Der Bliha-Wasserfall sprüht bei Regen viel Gischt – Kamera schützen.",
+              "Halten Sie ein Handtuch im Auto für nasse Kleidung bereit.",
+              "Schalten Sie das Abblendlicht auch tagsüber ein."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizd az ablaktörlők állapotát.",
+              "A Kamengrad körüli utakon fennáll az aquaplaning veszélye.",
+              "A vízesésnél sok a vízpermet esőben – védd a kamerát.",
+              "Legyen nálad törölköző az autóban a vizes ruhákhoz.",
+              "Napközben is használd a tompított fényszórót."
+            ],
+            "ro": [
+              "Verificați starea ștergătoarelor înainte de plecare.",
+              "Drumurile spre Kamengrad pot prezenta risc de acvaplanare.",
+              "Cascada Bliha pulverizează multă apă – protejați camera.",
+              "Păstrați un prosop în mașină pentru hainele ude.",
+              "Folosiți faza scurtă chiar și în timpul zilei."
+            ],
+            "en": [
+              "Check your wiper blades before starting the tour.",
+              "Rural roads near Kamengrad may have aquaplaning risks.",
+              "Bliha waterfall sprays a lot of mist in rain – protect your tech.",
+              "Keep a towel in the car for wet clothes or hair.",
+              "Keep your headlights on even during the day."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Start an der Sana-Brücke führt uns zur Festung Kamengrad, deren Mauern im Winter besonders trutzig wirken. Die Fahrt durch die schneebedeckte Landschaft ist malerisch. Mittags wärmen wir uns in Kamengrad auf, bevor es zum Bliha-Wasserfall geht, der teilweise vereist sein kann. Den Tag lassen wir im Stadtpark ausklingen, bevor die Kälte der Nacht einzieht.",
+            "hu": "A hűvös kezdés a Szana-hídnál Kamengrad felé folytatódik, melynek falai télen különösen zordak. A havas táj látványa festői az autóból. Délben Kamengradban melegszünk fel, majd a részben befagyott Bliha-vízeséshez látogatunk. A napot a városi parkban zárjuk, mielőtt beállna az éjszakai fagy.",
+            "ro": "Începutul răcoros la podul Sana continuă spre cetatea Kamengrad, ale cărei ziduri par dârze iarna. Peisajul înzăpezit este pitoresc din mașină. La prânz ne încălzim în Kamengrad, apoi vizităm cascada Bliha, parțial înghețată. Încheiem ziua în parcul orașului înainte de gerul nopții.",
+            "en": "A chilly start at the Sana bridge leads to Kamengrad Fortress, looking defiant against the winter sky. The drive through the snowy landscape is picturesque. After warming up in Kamengrad at noon, visit Bliha Waterfall, which might be partially frozen. End the day at the city park before the night frost sets in."
+          },
+          "stops": [
+            {
+              "name": "Sana Bridge (Cluster A)",
+              "tip_5lang": {
+                "de": "Die Auffahrt zur Brücke kann bei Frost glatt sein.",
+                "hu": "A hídra vezető felhajtó fagyban csúszós lehet.",
+                "ro": "Rampa spre pod poate fi alunecoasă în caz de îngheț.",
+                "en": "The access ramp to the bridge can be icy."
+              }
+            },
+            {
+              "name": "Liberation Monument (Cluster A)",
+              "tip_5lang": {
+                "de": "Heizung im Auto lassen, während man kurz aussteigt.",
+                "hu": "Hagyja menni a fűtést a rövid kiszállás alatt.",
+                "ro": "Lăsați căldura pornită în timpul scurtei opriri.",
+                "en": "Keep the heater on during the short photo stop."
+              }
+            },
+            {
+              "name": "Hamza Bey Mosque (Cluster A)",
+              "tip_5lang": {
+                "de": "Parkplatzsuche ist im Winter einfacher als im Sommer.",
+                "hu": "A parkolókeresés télen egyszerűbb, mint nyáron.",
+                "ro": "Căutarea parcării este mai ușoară iarna decât vara.",
+                "en": "Finding parking is easier in winter than in summer."
+              }
+            },
+            {
+              "name": "Kamengrad Fortress (Cluster B)",
+              "tip_5lang": {
+                "de": "Winterreifen sind für den Anstieg zwingend erforderlich.",
+                "hu": "A téli gumi kötelező a várhoz vezető emelkedőn.",
+                "ro": "Anvelopele de iarnă sunt obligatorii pentru urcare.",
+                "en": "Winter tires are mandatory for the climb to the fort."
+              }
+            },
+            {
+              "name": "Musalla in Kamengrad (Cluster B)",
+              "tip_5lang": {
+                "de": "Der Boden ist hart gefroren, Vorsicht beim Gehen.",
+                "hu": "A talaj keményre fagyott, vigyázzon a kiszálláskor.",
+                "ro": "Solul este înghețat, atenție când coborâți din mașină.",
+                "en": "The ground is hard-frozen, watch your step when exiting."
+              }
+            },
+            {
+              "name": "Lunch in Kamengrad (Cluster B)",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit zum Enteisen der Scheiben.",
+                "hu": "Használja az időt a szélvédők jégmentesítésére.",
+                "ro": "Folosiți timpul pentru a degivra parbrizul.",
+                "en": "Use the time to de-ice your windows if needed."
+              }
+            },
+            {
+              "name": "Bliha Waterfall (Cluster C)",
+              "tip_5lang": {
+                "de": "Glatte Steine am Wasserfall-Eingang, sehr gefährlich.",
+                "hu": "Csúszós kövek a vízesés bejáratánál, nagyon veszélyes.",
+                "ro": "Pietre alunecoase la intrarea spre cascadă, periculos.",
+                "en": "Slippery rocks at the waterfall entrance, very dangerous."
+              }
+            },
+            {
+              "name": "Sanski Most City Park",
+              "tip_5lang": {
+                "de": "Die Dämmerung beginnt früh, Parklicht nutzen.",
+                "hu": "A szürkület korán kezdődik, használja a helyzetjelzőt.",
+                "ro": "Amurgul începe devreme, folosiți luminile de poziție.",
+                "en": "Dusk starts early, use your parking lights."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Führen Sie immer einen Eiskratzer und Frostschutzmittel mit.",
+              "Die Bergstraßen nach Kamengrad werden oft spät geräumt.",
+              "Bliha-Wasserfall kann bei extremer Kälte spektakulär vereisen.",
+              "Lassen Sie den Motor nicht unnötig im Stand laufen.",
+              "Sonne blendet im Winter tief stehend – Sonnenbrille bereitlegen."
+            ],
+            "hu": [
+              "Mindig legyen nálad jégkaparó és fagyálló folyadék.",
+              "A Kamengrad felé vezető utakat gyakran későn takarítják.",
+              "Extrém hidegben a vízesés látványosan befagyhat.",
+              "Ne járassa feleslegesen álló helyzetben a motort.",
+              "A nap télen alacsonyan jár – készíts be napszemüveget."
+            ],
+            "ro": [
+              "Aveți întotdeauna o racletă și lichid de parbriz de iarnă.",
+              "Drumurile spre Kamengrad sunt curățate adesea cu întârziere.",
+              "Cascada Bliha poate îngheța spectaculos la ger naprasnic.",
+              "Nu lăsați motorul să meargă inutil în staționare.",
+              "Soarele este jos iarna – pregătiți ochelarii de soare."
+            ],
+            "en": [
+              "Always carry an ice scraper and winter washer fluid.",
+              "Mountain roads to Kamengrad are often cleared late.",
+              "Bliha waterfall can freeze spectacularly in extreme cold.",
+              "Avoid idling the engine for too long while stationary.",
+              "The low winter sun can be blinding – have sunglasses ready."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1454,6 +2042,196 @@
           "Be prepared for some waiting time for buses.",
           "The natural attractions like the waterfall are likely not accessible by public transport."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt im Zentrum, wo man von Café zu Café huscht. Mittags führt die Fahrt zur Sana-Brücke und zum Denkmal, wobei man die Buswartehäuschen als trockene Stützpunkte nutzt. Der Ausflug nach Kamengrad erfordert Planung bei Regen, belohnt aber mit einer nebligen Burg-Kulisse. Abends kehrt man ins belebte Zentrum zurück, um den Tag gemütlich abzuschließen.",
+            "hu": "A nap a központban indul, ahol kávézóról kávézóra járhatunk. Délben a Szana-híd és az emlékmű következik, a buszmegállókat használva esővédőként. A kamengradi kirándulás esőben tervezést igényel, de a ködös vár látványa kárpótol. Este visszatérünk a városba, hogy egy meleg étteremben zárjuk a napot.",
+            "ro": "Ziua începe în centru, sărind din cafenea în cafenea. La prânz, vizităm podul Sana și monumentul, folosind stațiile de autobuz ca refugii. Excursia la Kamengrad necesită planificare pe ploaie, dar oferă o priveliște mistică. Seara revenim în centru pentru a încheia ziua confortabil.",
+            "en": "The day starts in the center, hopping between cafés to stay dry. At noon, visit the Sana bridge and monument, using bus shelters as dry bases. The trip to Kamengrad requires careful timing in the rain but rewards you with a misty fortress view. Return to the center in the evening to wrap up in a warm eatery."
+          },
+          "stops": [
+            {
+              "name": "City Center (Cluster A)",
+              "tip_5lang": {
+                "de": "Viele Geschäfte bieten Unterstand bei plötzlichen Schauern.",
+                "hu": "Sok üzlet kínál menedéket hirtelen zápor esetén.",
+                "ro": "Multe magazine oferă adăpost în caz de averse bruște.",
+                "en": "Many shops provide shelter during sudden downpours."
+              }
+            },
+            {
+              "name": "Sana Bridge (Cluster A)",
+              "tip_5lang": {
+                "de": "Bushaltestelle ist etwa 5 Minuten Fußweg entfernt.",
+                "hu": "A buszmegálló kb. 5 perc sétára található.",
+                "ro": "Stația de autobuz este la aproximativ 5 minute de mers.",
+                "en": "The bus stop is about a 5-minute walk away."
+              }
+            },
+            {
+              "name": "Liberation Monument (Cluster A)",
+              "tip_5lang": {
+                "de": "Wartebereiche sind nicht immer überdacht.",
+                "hu": "A várakozóhelyek nem mindenhol fedettek.",
+                "ro": "Zonele de așteptare nu sunt întotdeauna acoperite.",
+                "en": "Waiting areas are not always covered."
+              }
+            },
+            {
+              "name": "Kamengrad Fortress (Cluster B)",
+              "tip_5lang": {
+                "de": "Busse nach Kamengrad fahren seltener, Fahrplan prüfen.",
+                "hu": "A buszok ritkábban járnak, ellenőrizze a menetrendet.",
+                "ro": "Autobuzele circulă rar, verificați orarul.",
+                "en": "Buses to Kamengrad are infrequent, check the schedule."
+              }
+            },
+            {
+              "name": "Musalla in Kamengrad (Cluster B)",
+              "tip_5lang": {
+                "de": "Tragen Sie wasserfeste Schuhe für den Weg vom Bus.",
+                "hu": "Viseljen vízálló cipőt a busztól vezető úthoz.",
+                "ro": "Purtați încălțăminte impermeabilă de la autobuz.",
+                "en": "Wear waterproof shoes for the walk from the bus."
+              }
+            },
+            {
+              "name": "Back in Sanski Most (Cluster A)",
+              "tip_5lang": {
+                "de": "Die Moschee ist ein guter Orientierungspunkt beim Aussteigen.",
+                "hu": "A mecset jó tájékozódási pont a leszálláskor.",
+                "ro": "Moscheea este un punct bun de reper la coborâre.",
+                "en": "The mosque is a good landmark when getting off the bus."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die App für Echtzeit-Buszeiten, falls verfügbar.",
+              "Halten Sie Kleingeld für das Ticket beim Fahrer bereit.",
+              "Bei Regen sind Busse oft überfüllt – früher kommen.",
+              "Die Hauptbusstation bietet den besten Schutz vor Wind.",
+              "Vermeiden Sie Fensterplätze, wenn diese beschlagen sind."
+            ],
+            "hu": [
+              "Használj menetrendi alkalmazást a pontos induláshoz.",
+              "Készíts be aprópénzt a buszvezetőnél váltható jegyhez.",
+              "Esőben a buszok zsúfoltabbak lehetnek – érkezz korábban.",
+              "A főbuszállomás nyújtja a legjobb védelmet a szél ellen.",
+              "Kerüld a párás ablak melletti üléseket a kilátás miatt."
+            ],
+            "ro": [
+              "Folosiți aplicația pentru orarul autobuzelor în timp real.",
+              "Pregătiți mărunțiș pentru biletul cumpărat de la șofer.",
+              "Autobuzele sunt adesea aglomerate pe ploaie.",
+              "Autogara principală oferă cea mai bună protecție contra vântului.",
+              "Evitați locurile de la geam dacă acestea sunt aburite."
+            ],
+            "en": [
+              "Check local apps or schedules for real-time updates.",
+              "Have small change ready for tickets bought from the driver.",
+              "Buses get crowded during rain – arrive a bit early.",
+              "The main bus station offers the best wind protection.",
+              "Avoid window seats if they are fogged up for better visibility."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens führt der Weg durch das frostige Zentrum zur Sana-Brücke. Die kurzen Busfahrten sind eine willkommene Aufwärmpause. Mittags geht es nach Kamengrad, wo die Burg in winterlicher Stille liegt. Die Rückfahrt im warmen Bus bietet einen Blick auf die dämmrige Landschaft. Der Abend endet bei Tee und Gebäck im Herzen von Sanski Most.",
+            "hu": "Reggel a fagyos központon át vezet az utunk a Szana-hídhoz. A rövid buszutak jó alkalmat adnak a felmelegedésre. Délben Kamengradba utazunk, ahol a vár téli csendbe burkolózik. A visszaút a meleg buszon a szürkületi tájra enged rálátást. Az estét teával és süteménnyel zárjuk Sanski Most szívében.",
+            "ro": "Dimineața drumul duce prin centrul înghețat spre podul Sana. Scurtele călătorii cu autobuzul sunt pauze bune de încălzire. La prânz mergem la Kamengrad, unde cetatea stă în liniște hibernală. Revenirea cu autobuzul cald oferă o vedere spre peisajul în amurg. Seara se încheie cu ceai în inima orașului.",
+            "en": "In the morning, walk through the frosty center to the Sana bridge. Short bus rides provide a welcome chance to warm up. At noon, head to Kamengrad, where the fortress sits in winter silence. The return trip in a warm bus offers a view of the darkening landscape. The evening ends with tea and pastries in the heart of town."
+          },
+          "stops": [
+            {
+              "name": "City Center (Cluster A)",
+              "tip_5lang": {
+                "de": "Warten Sie in einem Café, bis der Bus fast da ist.",
+                "hu": "Várjon egy kávézóban, amíg a busz majdnem megérkezik.",
+                "ro": "Așteptați într-o cafenea până când autobuzul este aproape.",
+                "en": "Wait in a café until the bus is nearly due."
+              }
+            },
+            {
+              "name": "Sana Bridge (Cluster A)",
+              "tip_5lang": {
+                "de": "Die Stufen am Denkmal können vereist sein.",
+                "hu": "Az emlékmű lépcsői jegesek lehetnek.",
+                "ro": "Treptele de la monument pot fi înghețate.",
+                "en": "The steps at the monument might be icy."
+              }
+            },
+            {
+              "name": "Liberation Monument (Cluster A)",
+              "tip_5lang": {
+                "de": "Kalte Brise am Denkmal, Schal fest binden.",
+                "hu": "Hideg szellő az emlékműnél, kösd szorosra a sálat.",
+                "ro": "Briză rece la monument, strângeți bine fularul.",
+                "en": "Cold breeze at the monument, tie your scarf tight."
+              }
+            },
+            {
+              "name": "Kamengrad Fortress (Cluster B)",
+              "tip_5lang": {
+                "de": "Letzter Bus zurück fährt oft gegen 16:30 Uhr.",
+                "hu": "Az utolsó busz visszafelé gyakran 16:30 körül indul.",
+                "ro": "Ultimul autobuz spre oraș pleacă adesea la 16:30.",
+                "en": "The last bus back often departs around 4:30 PM."
+              }
+            },
+            {
+              "name": "Musalla in Kamengrad (Cluster B)",
+              "tip_5lang": {
+                "de": "Wenig Schutz vor Wind an der Haltestelle in Kamengrad.",
+                "hu": "Kevés szélvédett hely van a kamengradi megállóban.",
+                "ro": "Puțină protecție contra vântului în stația din Kamengrad.",
+                "en": "Little wind protection at the Kamengrad bus stop."
+              }
+            },
+            {
+              "name": "Back in Sanski Most (Cluster A)",
+              "tip_5lang": {
+                "de": "Die Abendbeleuchtung der Moschee ist im Winter sehr schön.",
+                "hu": "A mecset esti kivilágítása télen nagyon szép.",
+                "ro": "Iluminatul de seară al moscheii este superb iarna.",
+                "en": "The evening lighting of the mosque is lovely in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterfahrpläne können von den Sommerzeiten abweichen.",
+              "Heizungen in Bussen sind in Bosnien oft sehr stark.",
+              "Tragen Sie Schuhe mit dicker Sohle gegen die Bodenkälte.",
+              "Haben Sie die Telefonnummer eines Taxis für Notfälle bereit.",
+              "Der Sonnenuntergang um 16:15 Uhr begrenzt die Sightseeing-Zeit."
+            ],
+            "hu": [
+              "A téli menetrendek eltérhetnek a nyáriaktól.",
+              "A buszok fűtése Boszniában gyakran nagyon erős.",
+              "Viselj vastag talpú cipőt a talaj felőli hideg ellen.",
+              "Legyen nálad egy taxi telefonszáma vészhelyzetre.",
+              "A 16:15-ös naplemente korlátozza a nézelődési időt."
+            ],
+            "ro": [
+              "Orarele de iarnă pot diferi de cele de vară.",
+              "Căldura în autobuzele din Bosnia este adesea foarte puternică.",
+              "Purtați încălțăminte cu talpă groasă contra frigului.",
+              "Aveți la îndemână numărul unui taxi pentru urgențe.",
+              "Apusul de la 16:15 limitează timpul de vizitare."
+            ],
+            "en": [
+              "Winter schedules may differ from summer ones.",
+              "Heaters in Bosnian buses are often turned up high.",
+              "Wear thick-soled shoes to insulate against the cold ground.",
+              "Keep a local taxi number handy for emergencies.",
+              "Sunset at 4:15 PM limits your outdoor sightseeing time."
+            ]
+          }
+        }
       }
     }
   }

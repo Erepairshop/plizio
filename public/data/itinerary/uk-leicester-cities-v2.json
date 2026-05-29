@@ -328,6 +328,196 @@
           "The historic New Walk promenade is strictly for pedestrians only.",
           "Cobblestones surround the Guildhall area, so comfortable walking shoes are recommended."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Morgen in der überdachten Leicester Market Hall, um dem Regen zu entgehen. Mittags bieten das Guildhall und die Kathedrale historischen Schutz in unmittelbarer Nähe. Am Nachmittag ist das Richard III Centre der ideale Ort für eine ausführliche Indoor-Erkundung. Den Tag beenden Sie im New Walk Museum, das stundenlange Unterhaltung im Trockenen bietet.",
+            "hu": "Kezdje a reggelt a Leicester Market fedett csarnokában, védve az esőtől. Délben a Guildhall és a Székesegyház közelsége lehetővé teszi, hogy gyorsan fedél alá érjen. Délután a Richard III Központ tökéletes belső programot kínál. A napot a New Walk Múzeumban zárhatja, ahol órákig böngészhet a száraz kiállítóterekben.",
+            "ro": "Începeți dimineața în hala acoperită a Leicester Market pentru a evita ploaia. La prânz, Guildhall și Catedrala oferă adăpost istoric în imediata apropiere. După-amiaza, centrul Richard III este locul ideal pentru o explorare interioară detaliată. Încheiați ziua la Muzeul New Walk, care oferă ore de divertisment la adăpost.",
+            "en": "Start your morning in the covered Leicester Market hall to dodge the raindrops. At midday, the Guildhall and Cathedral offer historic shelter in close proximity. In the afternoon, the Richard III Centre is the perfect spot for an extended indoor exploration. End the day at the New Walk Museum, which provides hours of dry entertainment."
+          },
+          "stops": [
+            {
+              "name": "Leicester Market",
+              "tip_4lang": {
+                "de": "Nutzen Sie die moderne Glashalle, um trocken lokale Spezialitäten zu probieren.",
+                "hu": "Használja a modern üvegcsarnokot, hogy szárazon kóstolhassa meg a helyi termékeket.",
+                "ro": "Folosiți hala modernă de sticlă pentru a degusta produse locale fără a vă uda.",
+                "en": "Use the modern glass food hall to sample local produce while staying dry."
+              }
+            },
+            {
+              "name": "Leicester Guildhall",
+              "tip_4lang": {
+                "de": "Ein herrlich atmosphärischer Ort, um dem Regen in mittelalterlichen Hallen zu entkommen.",
+                "hu": "Hangulatos hely az eső elől való menekülésre a középkori termekben.",
+                "ro": "Un loc atmosferic pentru a scăpa de ploaie în sălile medievale.",
+                "en": "A wonderfully atmospheric place to escape the rain in medieval halls."
+              }
+            },
+            {
+              "name": "Leicester Cathedral",
+              "tip_4lang": {
+                "de": "Genießen Sie die Stille und den Schutz des Kirchenschiffs während eines Schauers.",
+                "hu": "Élvezze a csendet és a hajó védelmét egy zápor ideje alatt.",
+                "ro": "Bucurați-vă de liniștea și protecția naosului în timpul unei averse.",
+                "en": "Enjoy the silence and shelter of the nave during a heavy shower."
+              }
+            },
+            {
+              "name": "Richard III Visitor Centre",
+              "tip_4lang": {
+                "de": "Vollständig überdacht und perfekt für regnerische Nachmittage geeignet.",
+                "hu": "Teljesen fedett, tökéletesen alkalmas esős délutánokra.",
+                "ro": "Complet acoperit și perfect potrivit pentru după-amiezele ploioase.",
+                "en": "Fully indoor and perfectly suited for rainy afternoons."
+              }
+            },
+            {
+              "name": "Jewry Wall",
+              "tip_4lang": {
+                "de": "Vom Bürgersteig aus schnell unter dem Regenschirm zu besichtigen.",
+                "hu": "A járdáról gyorsan megtekinthető egy esernyő alól.",
+                "ro": "Poate fi văzut rapid de pe trotuar de sub umbrelă.",
+                "en": "Can be viewed quickly from the pavement under an umbrella."
+              }
+            },
+            {
+              "name": "New Walk Museum & Art Gallery",
+              "tip_4lang": {
+                "de": "Der ultimative Regen-Unterschlupf mit weitläufigen Galerien und Cafés.",
+                "hu": "A végső menedék esőben, hatalmas galériákkal és kávézóval.",
+                "ro": "Adăpostul suprem pe timp de ploaie, cu galerii vaste și cafenea.",
+                "en": "The ultimate rainy-day sanctuary with extensive galleries and a cafe."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für die kopfsteingepflasterten Gassen der Lanes.",
+              "Die Markthalle (Food Hall) bietet den besten Schutz im Zentrum.",
+              "Die meisten Sehenswürdigkeiten im Old Town Cluster liegen nur 2 Gehminuten voneinander entfernt.",
+              "Nutzen Sie die Cafés im New Walk Museum für eine längere Regenpause.",
+              "Ein Regenschirm ist wegen der Windböen in den offenen Straßen unerlässlich."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a The Lanes macskaköves utcáihoz.",
+              "A piaccsarnok (Food Hall) kínálja a legjobb védelmet a központban.",
+              "Az óvárosi látnivalók többsége 2 perces sétára van egymástól.",
+              "Használja a New Walk Múzeum kávézóit egy hosszabb esőszünethez.",
+              "Az esernyő elengedhetetlen a nyitott utcákon tapasztalható széllökések miatt."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru străzile pietruite din The Lanes.",
+              "Hala pieței (Food Hall) oferă cea mai bună protecție în centru.",
+              "Majoritatea atracțiilor din zona veche sunt la 2 minute de mers pe jos una de alta.",
+              "Folosiți cafenelele din Muzeul New Walk pentru o pauză mai lungă de ploaie.",
+              "O umbrelă este esențială din cauza rafalelor de vânt de pe străzile deschise."
+            ],
+            "en": [
+              "Wear waterproof shoes for the cobbled streets of The Lanes.",
+              "The indoor Food Hall at the market offers the best central shelter.",
+              "Most attractions in the Old Town cluster are within a 2-minute walk of each other.",
+              "Utilize the New Walk Museum cafes for a longer dry break.",
+              "An umbrella is essential due to wind gusts in the open streets."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie die frische Winterluft auf dem Leicester Market, wo heiße Getränke locken. Mittags wärmen Sie sich in der geschichtsträchtigen Guildhall oder der Kathedrale auf. Da es gegen 16:00 Uhr dunkel wird, bietet das Richard III Centre am frühen Nachmittag eine gemütliche Zuflucht. Den frostigen Abend verbringen Sie in den beheizten Hallen des New Walk Museums.",
+            "hu": "Élvezze a friss téli levegőt a Leicester Marketen, ahol forró italok várják. Napközben melegedjen fel a történelmi Guildhallban vagy a Székesegyházban. Mivel 16 óra körül sötétedik, a Richard III Központ kora délután meghitt menedéket nyújt. A fagyos estét a New Walk Múzeum fűtött termeiben töltheti.",
+            "ro": "Experimentați aerul proaspăt de iarnă în Leicester Market, unde vă așteaptă băuturi calde. La prânz, încălziți-vă în istoricul Guildhall sau în Catedrală. Deoarece se întunecă în jurul orei 16:00, centrul Richard III oferă un refugiu primitor după-amiaza. Petreceți seara geroasă în sălile încălzite ale Muzeului New Walk.",
+            "en": "Experience the crisp winter air at Leicester Market, where hot drinks await. At midday, warm up inside the historic Guildhall or the Cathedral. As it gets dark around 16:00, the Richard III Centre provides a cozy refuge in the early afternoon. Spend the frosty evening in the heated halls of the New Walk Museum."
+          },
+          "stops": [
+            {
+              "name": "Leicester Market",
+              "tip_4lang": {
+                "de": "Holen Sie sich einen heißen Tee oder Kaffee an den Außenständen.",
+                "hu": "Vegyen egy forró teát vagy kávét a kültéri bódéknál.",
+                "ro": "Luați un ceai sau o cafea fierbinte de la tarabele exterioare.",
+                "en": "Grab a hot tea or coffee from the outdoor stalls to keep warm."
+              }
+            },
+            {
+              "name": "Leicester Guildhall",
+              "tip_4lang": {
+                "de": "Die dicken Mauern halten die Kälte draußen; ein stimmungsvoller Winterstopp.",
+                "hu": "A vastag falak kint tartják a hideget; hangulatos téli pihenő.",
+                "ro": "Zidurile groase țin frigul afară; o oprire de iarnă plină de atmosferă.",
+                "en": "The thick walls keep the chill out; an atmospheric winter stop."
+              }
+            },
+            {
+              "name": "Leicester Cathedral",
+              "tip_4lang": {
+                "de": "Besuchen Sie die Kathedrale für einen Moment der Ruhe im Warmen.",
+                "hu": "Látogasson el a székesegyházba egy pillanatnyi meleg nyugalomért.",
+                "ro": "Vizitați catedrala pentru un moment de liniște la căldură.",
+                "en": "Visit the cathedral for a moment of quiet reflection in the warm."
+              }
+            },
+            {
+              "name": "Richard III Visitor Centre",
+              "tip_4lang": {
+                "de": "Perfekt temperiert, ideal um der Winterkälte zu entfliehen.",
+                "hu": "Kellemesen fűtött, ideális a téli hideg elől való menekülésre.",
+                "ro": "Temperatură perfectă, ideal pentru a scăpa de frigul iernii.",
+                "en": "Perfectly climate-controlled, ideal for escaping the winter chill."
+              }
+            },
+            {
+              "name": "Jewry Wall",
+              "tip_4lang": {
+                "de": "Die römischen Ruinen wirken im fahlen Winterlicht besonders beeindruckend.",
+                "hu": "A római romok különösen lenyűgözőek a bágyadt téli fényben.",
+                "ro": "Ruinele romane par deosebit de impresionante în lumina palidă de iarnă.",
+                "en": "The Roman ruins look particularly striking in the pale winter light."
+              }
+            },
+            {
+              "name": "New Walk Museum & Art Gallery",
+              "tip_4lang": {
+                "de": "Ein großartiger Ort, wenn die Dämmerung früh einsetzt.",
+                "hu": "Nagyszerű hely, amikor korán leszáll az alkony.",
+                "ro": "Un loc minunat când amurgul se lasă devreme.",
+                "en": "A great indoor location for when dusk falls early."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Dezember gegen 16:00 Uhr unter; planen Sie Außenstopps früh.",
+              "Tragen Sie mehrere Schichten, da die Museen gut beheizt sind.",
+              "Der Leicester Market hat im Winter oft festliche Stände.",
+              "Die Kathedrale bietet oft kostenlose Mittags-Konzerte im Warmen an.",
+              "Vorsicht vor rutschigem Kopfsteinpflaster bei Frost in der Altstadt."
+            ],
+            "hu": [
+              "A nap decemberben 16:00 körül nyugszik; a kültéri megállókat tervezze korábbra.",
+              "Öltözzön rétegesen, mert a múzeumok jól fűtöttek.",
+              "A Leicester Marketen télen gyakran vannak ünnepi árusok.",
+              "A székesegyház gyakran tart ingyenes déli koncerteket a melegben.",
+              "Vigyázzon a csúszós macskakövekkel fagy esetén az óvárosban."
+            ],
+            "ro": [
+              "Soarele apune în jurul orei 16:00 în decembrie; planificați opririle externe devreme.",
+              "Purtați haine în straturi, deoarece muzeele sunt bine încălzite.",
+              "Leicester Market are adesea tarabe festive în timpul iernii.",
+              "Catedrala oferă adesea concerte gratuite la prânz, la căldură.",
+              "Atenție la pavajul alunecos în caz de îngheț în orașul veche."
+            ],
+            "en": [
+              "Sunset is around 16:00 in December; plan outdoor stops early.",
+              "Dress in layers as the museums are well-heated.",
+              "Leicester Market often hosts festive stalls during winter.",
+              "The Cathedral frequently hosts free lunchtime concerts in the warm.",
+              "Beware of slippery cobbles during frosty periods in the Old Town."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -631,6 +821,178 @@
           "Pedestrian zones in the old town might require you to dismount your bike.",
           "Make use of the ample cycle parking at the major museums."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie vorsichtig an der Jewry Wall auf regennassen Straßen. Das Richard III Centre und die Kathedrale liegen nah beieinander und bieten schnelle Zuflucht. Die Fahrt zum Abbey Park kann bei Regen ungemütlich sein, daher empfiehlt sich eine zügige Weiterfahrt zum National Space Centre, wo Sie den Rest des Tages im Trockenen verbringen können.",
+            "hu": "Kezdje óvatosan a Jewry Wallnál az esőáztatta utakon. A Richard III Központ és a Székesegyház közel vannak egymáshoz, gyors menedéket nyújtva. Az Abbey Park felé vezető út esőben kényelmetlen lehet, ezért érdemes gyorsan továbbtekerni a National Space Centre-be, ahol a nap hátralévő részét szárazon töltheti.",
+            "ro": "Începeți cu prudență la Jewry Wall pe străzile ude de ploaie. Centrul Richard III și Catedrala sunt aproape una de alta, oferind refugiu rapid. Drumul spre Abbey Park poate fi inconfortabil pe ploaie, așa că se recomandă continuarea rapidă spre National Space Centre, unde vă puteți petrece restul zilei la adăpost.",
+            "en": "Start cautiously at the Jewry Wall on rain-slicked streets. The Richard III Centre and Cathedral are close together, offering quick refuge. The ride to Abbey Park can be uncomfortable in the rain, so a brisk pace to the National Space Centre is advised, where you can spend the rest of the day dry."
+          },
+          "stops": [
+            {
+              "name": "Jewry Wall",
+              "tip_4lang": {
+                "de": "Vorsicht beim Absteigen; die Flächen können bei Nässe rutschig sein.",
+                "hu": "Vigyázat a leszálláskor; a felületek nedvesen csúszósak lehetnek.",
+                "ro": "Atenție la descălecare; suprafețele pot fi alunecoase când sunt ude.",
+                "en": "Careful when dismounting; surfaces can be slippery when wet."
+              }
+            },
+            {
+              "name": "Richard III Visitor Centre",
+              "tip_4lang": {
+                "de": "Nutzen Sie die Fahrradständer direkt am Eingang für einen schnellen Wechsel ins Trockene.",
+                "hu": "Használja a bejáratnál lévő biciklitárolókat a gyors bejutáshoz.",
+                "ro": "Folosiți suporturile de biciclete de la intrare pentru o intrare rapidă la adăpost.",
+                "en": "Use the bike racks right at the entrance for a quick transition to the dry."
+              }
+            },
+            {
+              "name": "Leicester Cathedral",
+              "tip_4lang": {
+                "de": "Ein kurzer Stopp zum Aufwärmen und Trocknen ist hier willkommen.",
+                "hu": "Egy rövid megálló a felmelegedésre és száradásra itt szívesen látott.",
+                "ro": "O scurtă oprire pentru încălzire și uscare este binevenită aici.",
+                "en": "A short stop to warm up and dry off is welcome here."
+              }
+            },
+            {
+              "name": "Abbey Park",
+              "tip_4lang": {
+                "de": "Bleiben Sie auf den asphaltierten Wegen, um Schlamm zu vermeiden.",
+                "hu": "Maradjon az aszfaltozott utakon a sár elkerülése érdekében.",
+                "ro": "Rămâneți pe potecile asfaltate pentru a evita noroiul.",
+                "en": "Stick to the paved paths to avoid mud during rain."
+              }
+            },
+            {
+              "name": "National Space Centre",
+              "tip_4lang": {
+                "de": "Überdachte Parkplätze für Fahrräder sind vorhanden; idealer Endpunkt bei Regen.",
+                "hu": "Fedett kerékpártárolók állnak rendelkezésre; ideális végpont esőben.",
+                "ro": "Sunt disponibile parcări acoperite pentru biciclete; punct final ideal pe ploaie.",
+                "en": "Covered bike parking is available; an ideal end point for a rainy day."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine vollflächige Regenjacke und Regenhosen.",
+              "Achten Sie auf Metallgitter und Kopfsteinpflaster im Zentrum, diese sind extrem rutschig.",
+              "Das National Space Centre bietet Schließfächer für nasse Ausrüstung.",
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt, da Nässe den Bremsweg verlängert.",
+              "Nutzen Sie die Radwege entlang des Flusses Soar für weniger Verkehrsspritzwasser."
+            ],
+            "hu": [
+              "Viseljen teljes esőkabátot és esőnadrágot.",
+              "Ügyeljen a fémrácsokra és macskakövekre a központban, ezek rendkívül csúszósak.",
+              "A National Space Centre-ben vannak szekrények a vizes felszerelésnek.",
+              "Indulás előtt ellenőrizze a fékeket, mert a nedvesség növeli a fékutat.",
+              "Használja a Soar folyó menti kerékpárutakat a kevesebb felverődő vízért."
+            ],
+            "ro": [
+              "Purtați o jachetă de ploaie completă și pantaloni de ploaie.",
+              "Atenție la grătarele metalice și pavajul din centru, sunt extrem de alunecoase.",
+              "National Space Centre oferă dulapuri pentru echipamentul ud.",
+              "Verificați frânele înainte de plecare, deoarece umezeala mărește distanța de frânare.",
+              "Folosiți pistele de biciclete de-a lungul râului Soar pentru a evita stropirea din trafic."
+            ],
+            "en": [
+              "Wear a full rain jacket and waterproof trousers.",
+              "Watch out for metal grates and cobbles in the center; they are extremely slippery.",
+              "The National Space Centre offers lockers for wet gear.",
+              "Check your brakes before setting off as wetness increases braking distance.",
+              "Use the bike paths along the River Soar to avoid traffic spray."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre Wintertour gut eingepackt an der Jewry Wall. Die historische Altstadt lässt sich schnell mit dem Rad erkunden, mit Aufwärmstopps im Richard III Centre und der Kathedrale. Die Fahrt durch den Abbey Park ist bei Wintersonne herrlich, aber achten Sie auf die Zeit: Vor Einbruch der Dunkelheit sollten Sie das National Space Centre erreichen.",
+            "hu": "Kezdje téli túráját jól felöltözve a Jewry Wallnál. A történelmi óváros gyorsan bejárható kerékpárral, melegedő megállókkal a Richard III Központban és a Székesegyházban. Az út az Abbey Parkon át gyönyörű téli napsütésben, de ügyeljen az időre: sötétedés előtt érjen a National Space Centre-be.",
+            "ro": "Începeți turul de iarnă bine echipat la Jewry Wall. Centrul istoric poate fi explorat rapid cu bicicleta, cu opriri pentru încălzire la centrul Richard III și Catedrală. Drumul prin Abbey Park este superb în soarele de iarnă, dar atenție la timp: ajungeți la National Space Centre înainte de lăsarea întunericului.",
+            "en": "Start your winter tour well-wrapped at the Jewry Wall. The historic old town can be quickly explored by bike, with warming stops at the Richard III Centre and Cathedral. The ride through Abbey Park is wonderful in winter sun, but watch the time: reach the National Space Centre before darkness falls."
+          },
+          "stops": [
+            {
+              "name": "Jewry Wall",
+              "tip_4lang": {
+                "de": "Ein kurzer Fotostopp reicht hier bei eisigen Temperaturen völlig aus.",
+                "hu": "Egy rövid fotómegálló itt bőven elég a jeges hőmérsékletben.",
+                "ro": "O scurtă oprire pentru poze este suficientă aici la temperaturi înghețate.",
+                "en": "A short photo stop is plenty here in freezing temperatures."
+              }
+            },
+            {
+              "name": "Richard III Visitor Centre",
+              "tip_4lang": {
+                "de": "Guter Ort, um die Finger wieder aufzuwärmen, bevor es weitergeht.",
+                "hu": "Jó hely az ujjak felmelegítésére, mielőtt továbbindulna.",
+                "ro": "Un loc bun pentru a vă reîncălzi degetele înainte de a continua.",
+                "en": "Good place to warm up your fingers before continuing the ride."
+              }
+            },
+            {
+              "name": "Leicester Cathedral",
+              "tip_4lang": {
+                "de": "Die Innentemperatur ist angenehm für eine kurze Pause vom Fahrtwind.",
+                "hu": "A benti hőmérséklet kellemes egy rövid szünetre a menetszél után.",
+                "ro": "Temperatura interioară este plăcută pentru o scurtă pauză de la vântul de mers.",
+                "en": "The indoor temperature is pleasant for a short break from the headwind."
+              }
+            },
+            {
+              "name": "Abbey Park",
+              "tip_4lang": {
+                "de": "Bei Frost können die Brücken im Park besonders glatt sein.",
+                "hu": "Fagy esetén a park hídjai különösen csúszósak lehetnek.",
+                "ro": "În caz de îngheț, podurile din parc pot fi deosebit de alunecoase.",
+                "en": "Bridges in the park can be particularly slick during frost."
+              }
+            },
+            {
+              "name": "National Space Centre",
+              "tip_4lang": {
+                "de": "Genießen Sie die Wärme der Ausstellung nach der kühlen Fahrt am Fluss.",
+                "hu": "Élvezze a kiállítás melegét a hűvös folyóparti tekerés után.",
+                "ro": "Bucurați-vă de căldura expoziției după plimbarea răcoroasă pe malul râului.",
+                "en": "Enjoy the warmth of the exhibition after the chilly riverside ride."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrradbeleuchtung ist wegen der frühen Dämmerung ab 15:30 Uhr Pflicht.",
+              "Tragen Sie winddichte Handschuhe und eine Mütze unter dem Helm.",
+              "Achten Sie auf vereiste Stellen im Schatten von Gebäuden oder Bäumen.",
+              "Der Akku von E-Bikes entlädt sich bei Kälte schneller.",
+              "Nutzen Sie die kürzeren Wege durch die Innenstadt, um Zeit im Wind zu sparen."
+            ],
+            "hu": [
+              "A kerékpárvilágítás kötelező a korai, 15:30-as sötétedés miatt.",
+              "Viseljen szélálló kesztyűt és sapkát a sisak alatt.",
+              "Ügyeljen a jeges foltokra az épületek vagy fák árnyékában.",
+              "Az elektromos kerékpárok akkumulátora gyorsabban merül hidegben.",
+              "Használja a rövidebb utakat a belvároson át, hogy kevesebb időt töltsön a szélben."
+            ],
+            "ro": [
+              "Luminile de bicicletă sunt obligatorii din cauza amurgului timpuriu de la 15:30.",
+              "Purtați mănuși rezistente la vânt și o căciulă sub cască.",
+              "Atenție la porțiunile înghețate la umbra clădirilor sau copacilor.",
+              "Bateriile bicicletelor electrice se descarcă mai repede la frig.",
+              "Folosiți rutele mai scurte prin centrul orașului pentru a economisi timp în vânt."
+            ],
+            "en": [
+              "Bike lights are mandatory due to early dusk from 15:30.",
+              "Wear windproof gloves and a thermal cap under your helmet.",
+              "Watch out for icy patches in the shadows of buildings or trees.",
+              "Electric bike batteries drain faster in cold temperatures.",
+              "Use shorter routes through the city center to save time in the wind."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -934,6 +1296,178 @@
           "For the Space Centre, park directly in their massive dedicated car park.",
           "Try to avoid driving through the city centre during rush hour."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie das Auto, um bequem zwischen den Sehenswürdigkeiten zu pendeln. Parken Sie zentral für die Kathedrale, das Richard III Centre und das Guildhall, die alle nah beieinander liegen. Nach einem kurzen, regnerischen Abstecher zum Abbey Park bietet das National Space Centre mit eigenem Parkplatz den perfekten Abschluss im Trockenen.",
+            "hu": "Használja az autót a kényelmes ingázáshoz a látnivalók között. Parkoljon központilag a Székesegyház, a Richard III Központ és a Guildhall közelében. Egy rövid, esős Abbey Park-i kitérő után a National Space Centre saját parkolóval kínál tökéletes, száraz befejezést.",
+            "ro": "Folosiți mașina pentru a face naveta confortabil între atracții. Parcați central pentru Catedrală, Centrul Richard III și Guildhall, toate fiind aproape. După o scurtă oprire ploioasă la Abbey Park, National Space Centre, cu parcare proprie, oferă finalul perfect la adăpost.",
+            "en": "Use the car to commute comfortably between attractions. Park centrally for the Cathedral, Richard III Centre, and Guildhall, all close together. After a brief, rainy detour to Abbey Park, the National Space Centre with its own car park offers the perfect dry conclusion."
+          },
+          "stops": [
+            {
+              "name": "Leicester Cathedral",
+              "tip_4lang": {
+                "de": "Parken Sie im St. Nicholas Circle Parkhaus für den kürzesten Fußweg im Regen.",
+                "hu": "Parkoljon a St Nicholas Circle parkolóházban a legrövidebb esős sétához.",
+                "ro": "Parcați în parcarea St Nicholas Circle pentru cel mai scurt drum prin ploaie.",
+                "en": "Park in the St Nicholas Circle car park for the shortest walk in the rain."
+              }
+            },
+            {
+              "name": "Richard III Visitor Centre",
+              "tip_4lang": {
+                "de": "Nur einen kurzen Sprint vom Parkhaus entfernt.",
+                "hu": "Csak egy rövid vágta a parkolóháztól.",
+                "ro": "La doar un scurt sprint distanță de parcare.",
+                "en": "Just a short sprint away from the multi-story car park."
+              }
+            },
+            {
+              "name": "Leicester Guildhall",
+              "tip_4lang": {
+                "de": "Direkt neben der Kathedrale; nutzen Sie die Gebäude für Deckung.",
+                "hu": "Közvetlenül a székesegyház mellett; használja az épületeket fedezékként.",
+                "ro": "Chiar lângă catedrală; folosiți clădirile pentru adăpost.",
+                "en": "Right next to the cathedral; use the buildings for cover."
+              }
+            },
+            {
+              "name": "Abbey Park",
+              "tip_4lang": {
+                "de": "Parken Sie nah am Eingang, um den Regenaufenthalt kurz zu halten.",
+                "hu": "Parkoljon közel a bejárathoz, hogy rövid legyen az esőben töltött idő.",
+                "ro": "Parcați aproape de intrare pentru a scurta timpul petrecut în ploaie.",
+                "en": "Park close to the entrance to keep your rain exposure brief."
+              }
+            },
+            {
+              "name": "National Space Centre",
+              "tip_4lang": {
+                "de": "Großer Parkplatz direkt vor der Tür; ideal bei schlechtem Wetter.",
+                "hu": "Nagy parkoló közvetlenül az ajtó előtt; ideális rossz időben.",
+                "ro": "Parcare mare chiar în fața ușii; ideal în caz de vreme rea.",
+                "en": "Large car park right outside; ideal for poor weather conditions."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die 'Park and Ride'-Plätze, um den Stadtverkehr bei Regen zu vermeiden.",
+              "Halten Sie Kleingeld oder eine Park-App für die zentralen Parkplätze bereit.",
+              "Die Sicht kann bei starkem Regen in der Stadt eingeschränkt sein.",
+              "Das Auto ist der beste Ort, um nasse Regenschirme zu verstauen.",
+              "Planen Sie etwas mehr Zeit für die Parkplatzsuche in der Nähe der Lanes ein."
+            ],
+            "hu": [
+              "Használja a 'Park and Ride' parkolókat, hogy elkerülje a városi forgalmat esőben.",
+              "Készítsen elő aprópénzt vagy parkolási appot a központi helyekhez.",
+              "A látási viszonyok korlátozottak lehetnek heves esőben a városban.",
+              "Az autó a legjobb hely a vizes esernyők tárolására.",
+              "Szánjon kicsit több időt a parkolóhely keresésére a The Lanes közelében."
+            ],
+            "ro": [
+              "Folosiți parcările 'Park and Ride' pentru a evita traficul urban pe ploaie.",
+              "Aveți pregătit mărunțiș sau o aplicație de parcare pentru locurile centrale.",
+              "Vizibilitatea poate fi redusă în oraș în timpul ploilor abundente.",
+              "Mașina este cel mai bun loc pentru a depozita umbrelele ude.",
+              "Alocați mai mult timp pentru găsirea unui loc de parcare lângă The Lanes."
+            ],
+            "en": [
+              "Use 'Park and Ride' sites to avoid inner-city traffic during heavy rain.",
+              "Have change or a parking app ready for central parking locations.",
+              "Visibility can be limited in the city during downpours.",
+              "The car is the best place to stow wet umbrellas between stops.",
+              "Allow extra time for finding a space near the popular Lanes area."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine Autotour ist ideal, um die Winterkälte zwischen den Stopps zu überbrücken. Beginnen Sie an der Kathedrale und wärmen Sie sich im Richard III Centre auf. Ein kurzer Besuch im Abbey Park zeigt die winterliche Natur, bevor Sie rechtzeitig vor Sonnenuntergang das National Space Centre erreichen, wo Sie den Abend gemütlich ausklingen lassen können.",
+            "hu": "Az autós túra ideális a téli hideg áthidalására a megállók között. Kezdjen a Székesegyháznál, majd melegedjen fel a Richard III Központban. Egy rövid látogatás az Abbey Parkban megmutatja a téli természetet, mielőtt naplemente előtt elérné a National Space Centre-t.",
+            "ro": "Un tur cu mașina este ideal pentru a evita frigul iernii între opriri. Începeți la Catedrală și încălziți-vă la Centrul Richard III. O scurtă vizită în Abbey Park vă arată natura iernatică, înainte de a ajunge la National Space Centre înainte de apus.",
+            "en": "A car tour is ideal for bridging the winter cold between stops. Start at the Cathedral and warm up at the Richard III Centre. A brief visit to Abbey Park showcases winter nature before reaching the National Space Centre well before sunset for a cozy finish."
+          },
+          "stops": [
+            {
+              "name": "Leicester Cathedral",
+              "tip_4lang": {
+                "de": "Nutzen Sie die Sitzheizung auf dem Weg hierher für maximalen Komfort.",
+                "hu": "Használja az ülésfűtést idefelé a maximális kényelemért.",
+                "ro": "Folosiți încălzirea în scaune pe drumul spre aici pentru confort maxim.",
+                "en": "Use your car's seat heating on the way here for maximum comfort."
+              }
+            },
+            {
+              "name": "Richard III Visitor Centre",
+              "tip_4lang": {
+                "de": "Das Zentrum ist ein hervorragender Ort, um sich nach dem Aussteigen aufzuwärmen.",
+                "hu": "A központ kiváló hely a felmelegedésre kiszállás után.",
+                "ro": "Centrul este un loc excelent pentru a vă încălzi după ce coborâți din mașină.",
+                "en": "The visitor center is an excellent place to thaw out after parking."
+              }
+            },
+            {
+              "name": "Leicester Guildhall",
+              "tip_4lang": {
+                "de": "Kurze Wege zwischen Auto und Eingang minimieren die Zeit in der Kälte.",
+                "hu": "Az autó és a bejárat közötti rövid táv minimalizálja a hidegben töltött időt.",
+                "ro": "Distanțele scurte între mașină și intrare minimizează timpul petrecut în frig.",
+                "en": "Short distances between car and entrance minimize time in the cold."
+              }
+            },
+            {
+              "name": "Abbey Park",
+              "tip_4lang": {
+                "de": "Genießen Sie den Blick auf den frostigen Park kurz vom warmen Auto aus.",
+                "hu": "Élvezze a kilátást a fagyos parkra rövid ideig a meleg autóból.",
+                "ro": "Bucurați-vă de vederea parcului înghețat scurt timp din mașina caldă.",
+                "en": "Enjoy the view of the frosty park briefly from the warm car."
+              }
+            },
+            {
+              "name": "National Space Centre",
+              "tip_4lang": {
+                "de": "Der Parkplatz ist im Winter gut beleuchtet und sicher.",
+                "hu": "A parkoló télen jól kivilágított és biztonságos.",
+                "ro": "Parcarea este bine iluminată și sigură pe timpul iernii.",
+                "en": "The car park is well-lit and safe for early winter evenings."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie vorab den Frostschutz und den Reifendruck Ihres Wagens.",
+              "Die Parkhäuser im Zentrum bieten Schutz vor dem Einfrieren der Scheiben.",
+              "Planen Sie für den Abbey Park festes Schuhwerk ein, falls es gefroren ist.",
+              "Nutzen Sie die frühen Morgenstunden für Fahrten, wenn die Straßen geräumt sind.",
+              "Lassen Sie keine Wertsachen sichtbar im Auto liegen, auch nicht kurz."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze a fagyállót és a guminyomást.",
+              "A belvárosi parkolóházak védelmet nyújtanak a szélvédő befagyása ellen.",
+              "Készítsen be stabil lábbelit az Abbey Parkhoz, ha fagy van.",
+              "Használja a kora reggeli órákat az utazáshoz, amikor az utak már tiszták.",
+              "Ne hagyjon értéket látható helyen az autóban, még rövid időre sem."
+            ],
+            "ro": [
+              "Verificați antigelul și presiunea în anvelope înainte de plecare.",
+              "Parcările etajate din centru oferă protecție împotriva înghețării parbrizului.",
+              "Pregătiți încălțăminte solidă pentru Abbey Park în caz de îngheț.",
+              "Folosiți orele dimineții pentru deplasări când drumurile sunt curățate.",
+              "Nu lăsați obiecte de valoare la vedere în mașină, nici măcar pentru scurt timp."
+            ],
+            "en": [
+              "Check your antifreeze levels and tire pressure before setting off.",
+              "Multi-story car parks in the center prevent windshields from frosting over.",
+              "Pack sturdy footwear for Abbey Park if conditions are icy.",
+              "Travel during daylight hours when road conditions are easiest to judge.",
+              "Don't leave valuables on display in the car, even for short stops."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1237,6 +1771,178 @@
           "The sights in the historic old town are very close together.",
           "Haymarket bus station is the perfect hub for traveling in any direction."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie das dichte Busnetz von Leicester, um bei Regen trocken zu bleiben. Starten Sie am Leicester Market und nutzen Sie die kurzen Wege zum Guildhall und zur Kathedrale. Die Busfahrt zum Abbey Park bringt Sie nah an den Eingang, und von dort geht es schnell weiter zum National Space Centre, wo Sie den restlichen Tag im Trockenen verbringen.",
+            "hu": "Használja Leicester sűrű buszhálózatát, hogy száraz maradjon az esőben. Kezdjen a Leicester Marketnél, és használja ki a Guildhall és a Székesegyház közelségét. A busz az Abbey Park bejáratához közel teszi le, onnan pedig gyorsan továbbutazhat a National Space Centre-be.",
+            "ro": "Folosiți rețeaua densă de autobuze din Leicester pentru a rămâne uscați pe ploaie. Începeți la Leicester Market și profitați de distanțele scurte spre Guildhall și Catedrală. Autobuzul vă lasă aproape de intrarea în Abbey Park, iar de acolo continuați rapid spre National Space Centre.",
+            "en": "Utilize Leicester's dense bus network to stay dry during the rain. Start at Leicester Market and take advantage of the short walks to the Guildhall and Cathedral. The bus to Abbey Park drops you close to the entrance, from where you can quickly move on to the National Space Centre."
+          },
+          "stops": [
+            {
+              "name": "Leicester Market",
+              "tip_4lang": {
+                "de": "Der Busbahnhof Haymarket bietet viele überdachte Warteplätze in der Nähe.",
+                "hu": "A Haymarket buszpályaudvar sok fedett váróhelyet kínál a közelben.",
+                "ro": "Autogara Haymarket oferă multe locuri de așteptare acoperite în apropiere.",
+                "en": "Haymarket bus station nearby offers plenty of covered waiting areas."
+              }
+            },
+            {
+              "name": "Leicester Guildhall",
+              "tip_4lang": {
+                "de": "Zentrale Bushaltestellen befinden sich nur wenige Gehminuten entfernt.",
+                "hu": "A központi buszmegállók mindössze néhány perc sétára találhatók.",
+                "ro": "Stațiile de autobuz centrale sunt la doar câteva minute de mers pe jos.",
+                "en": "Central bus stops are located just a few minutes' walk away."
+              }
+            },
+            {
+              "name": "Leicester Cathedral",
+              "tip_4lang": {
+                "de": "Nutzen Sie die Kathedrale als Warteort, falls es gerade stark regnet.",
+                "hu": "Használja a székesegyházat várakozóhelyként, ha éppen hevesen esik.",
+                "ro": "Folosiți catedrala ca loc de așteptare dacă plouă torențial.",
+                "en": "Use the cathedral as a place to wait if it is currently pouring down."
+              }
+            },
+            {
+              "name": "Abbey Park",
+              "tip_4lang": {
+                "de": "Die Bushaltestelle liegt direkt an der Abbey Park Road; kurzer Weg zum Tor.",
+                "hu": "A buszmegálló közvetlenül az Abbey Park Roadon van; rövid út a kapuig.",
+                "ro": "Stația de autobuz este chiar pe Abbey Park Road; drum scurt până la poartă.",
+                "en": "The bus stop is right on Abbey Park Road; a short walk to the gate."
+              }
+            },
+            {
+              "name": "National Space Centre",
+              "tip_4lang": {
+                "de": "Busse halten fast direkt vor dem Museum; perfekt für Regentage.",
+                "hu": "A buszok szinte közvetlenül a múzeum előtt állnak meg; tökéletes esős napokon.",
+                "ro": "Autobuzele opresc aproape direct în fața muzeului; perfect pentru zilele ploioase.",
+                "en": "Buses stop almost directly in front of the museum; perfect for rainy days."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die kontaktlose Zahlung beim Einsteigen für Schnelligkeit.",
+              "Die 'First Bus' App zeigt Ihnen die Ankunftszeiten in Echtzeit an.",
+              "Warten Sie an den größeren Stationen (Haymarket/St Margaret's) unter dem Dach.",
+              "Halten Sie Ihren Regenschirm bereit für die kurzen Wege zwischen Stopp und Bus.",
+              "Die Busse sind im Winter gut beheizt und bieten Komfort."
+            ],
+            "hu": [
+              "Használja az érintésmentes fizetést a felszálláskor a gyorsaság érdekében.",
+              "A 'First Bus' alkalmazás valós időben mutatja az érkezési időket.",
+              "Várjon a nagyobb állomásokon (Haymarket/St Margaret's) a tető alatt.",
+              "Legyen kéznél az esernyő a buszmegálló és a látnivalók közötti rövid útra.",
+              "A buszok télen jól fűtöttek és kényelmesek."
+            ],
+            "ro": [
+              "Folosiți plata contactless la urcare pentru rapiditate.",
+              "Aplicația 'First Bus' vă arată timpii de sosire în timp real.",
+              "Așteptați în stațiile mai mari (Haymarket/St Margaret's) sub acoperiș.",
+              "Aveți umbrela pregătită pentru distanțele scurte între stație și obiective.",
+              "Autobuzele sunt bine încălzite iarna și oferă confort."
+            ],
+            "en": [
+              "Use contactless payment when boarding for speed and ease.",
+              "The 'First Bus' app shows real-time arrival info to minimize waiting in rain.",
+              "Wait at larger transport hubs (Haymarket/St Margaret's) for better cover.",
+              "Keep your umbrella handy for the short walks between stops and the bus.",
+              "Buses are well-heated and comfortable during the winter months."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie eine entspannte Wintertour mit dem Bus durch Leicester. Starten Sie am Markt und wärmen Sie sich in der Kathedrale auf. Die Fahrt zum Abbey Park bietet einen Blick auf die frostige Stadt, bevor Sie rechtzeitig zum National Space Centre weiterfahren. Die hell erleuchteten Busse bringen Sie am Abend sicher zurück ins Stadtzentrum.",
+            "hu": "Élvezze a pihentető téli buszos túrát Leicesterben. Kezdjen a piacon, majd melegedjen fel a Székesegyházban. Az Abbey Park felé tartó út kilátást nyújt a fagyos városra, mielőtt továbbutazna a National Space Centre-be. A jól kivilágított buszok este biztonságban visszaviszik a városközpontba.",
+            "ro": "Bucurați-vă de un tur relaxant cu autobuzul prin Leicester iarna. Începeți la piață și încălziți-vă în Catedrală. Drumul spre Abbey Park oferă o vedere asupra orașului înghețat, înainte de a continua spre National Space Centre. Autobuzele bine luminate vă readuc în siguranță în centru seara.",
+            "en": "Enjoy a relaxing winter bus tour through Leicester. Start at the market and warm up in the Cathedral. The ride to Abbey Park offers views of the frosty city before you continue to the National Space Centre. The well-lit buses will take you safely back to the city center in the evening."
+          },
+          "stops": [
+            {
+              "name": "Leicester Market",
+              "tip_4lang": {
+                "de": "Nutzen Sie die Wartezeit für einen schnellen heißen Snack am Markt.",
+                "hu": "Használja ki a várakozási időt egy gyors forró snackre a piacon.",
+                "ro": "Folosiți timpul de așteptare pentru o gustare caldă rapidă la piață.",
+                "en": "Use the waiting time for a quick hot snack at the market."
+              }
+            },
+            {
+              "name": "Leicester Guildhall",
+              "tip_4lang": {
+                "de": "Zentrale Lage bedeutet kurze Wartezeiten an den Haltestellen.",
+                "hu": "A központi elhelyezkedés rövid várakozási időt jelent a megállókban.",
+                "ro": "Locația centrală înseamnă timpi scurți de așteptare în stații.",
+                "en": "Central location means shorter waiting times at the nearby stops."
+              }
+            },
+            {
+              "name": "Leicester Cathedral",
+              "tip_4lang": {
+                "de": "Ein warmer Ort für eine Pause zwischen zwei Busverbindungen.",
+                "hu": "Meleg hely egy szünetre két buszjárat között.",
+                "ro": "Un loc cald pentru o pauză între două conexiuni de autobuz.",
+                "en": "A warm place for a break between two bus connections."
+              }
+            },
+            {
+              "name": "Abbey Park",
+              "tip_4lang": {
+                "de": "Achten Sie auf die Fahrpläne, da Busse im Winter seltener fahren könnten.",
+                "hu": "Ügyeljen a menetrendre, mert a buszok télen ritkábban járhatnak.",
+                "ro": "Atenție la orare, deoarece autobuzele pot circula mai rar iarna.",
+                "en": "Check timetables as some bus frequencies might change in deep winter."
+              }
+            },
+            {
+              "name": "National Space Centre",
+              "tip_4lang": {
+                "de": "Die Rückfahrt ins Zentrum ist auch bei Dunkelheit unkompliziert.",
+                "hu": "A visszautazás a központba sötétben is egyszerű.",
+                "ro": "Întoarcerea în centru este simplă chiar și după lăsarea întunericului.",
+                "en": "The return trip to the center is straightforward even after dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Abends sind die Busse oft weniger überfüllt und sehr gemütlich.",
+              "Prüfen Sie die letzte Abfahrt vom National Space Centre vorab.",
+              "Warten Sie in beleuchteten Unterständen, besonders nach 16:00 Uhr.",
+              "Nutzen Sie Tageskarten für unbegrenzte Fahrten im Stadtgebiet.",
+              "Die Busbahnhöfe sind gute Orte, um Stadtpläne oder Infos zu erhalten."
+            ],
+            "hu": [
+              "Este a buszok gyakran kevésbé zsúfoltak és nagyon hangulatosak.",
+              "Előre ellenőrizze az utolsó indulást a National Space Centre-től.",
+              "Várjon kivilágított várókban, különösen 16:00 után.",
+              "Használjon napijegyet a korlátlan utazáshoz a városhatáron belül.",
+              "A buszpályaudvarok jó helyek várostérképek vagy információk szerzésére."
+            ],
+            "ro": [
+              "Seara, autobuzele sunt adesea mai puțin aglomerate și foarte primitoare.",
+              "Verificați din timp ultima plecare de la National Space Centre.",
+              "Așteptați în adăposturi iluminate, mai ales după ora 16:00.",
+              "Folosiți bilete de o zi pentru călătorii nelimitate în zona urbană.",
+              "Autogările sunt locuri bune pentru a obține hărți sau informații despre oraș."
+            ],
+            "en": [
+              "Buses are often less crowded and quite cozy in the evenings.",
+              "Check the last departure time from the National Space Centre in advance.",
+              "Wait in well-lit shelters, especially after 16:00.",
+              "Use day tickets for unlimited travel within the city zone.",
+              "Bus stations are good places to pick up city maps or local info."
+            ]
+          }
+        }
       }
     }
   }

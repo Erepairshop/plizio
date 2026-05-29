@@ -356,6 +356,188 @@
           "Keep an eye on the opening hours of the museums, especially outside the main season.",
           "Many paths are along the water, perfect for photos."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen in Den Helder beginnt grau, doch das historische Werftgelände Willemsoord bietet mit seinen großen Hallen guten Schutz vor den ersten Schauern. Ein kurzer Sprint bringt Sie ins Marinemuseum, wo Sie den Vormittag trocken verbringen.\n\nMittags genießen Sie die maritime Atmosphäre im Rettungsbootmuseum. Die kurzen Wege zwischen den Gebäuden im Hafenareal sind auch bei Regen gut zu bewältigen, bevor Sie sich in ein gemütliches Restaurant zurückziehen.\n\nAm Nachmittag fordern der Wind und der Regen am Deich Ihre Ausrüstung heraus. Der Anblick des Leuchtturms 'Lange Jaap' wirkt bei stürmischem Wetter besonders dramatisch und kraftvoll.\n\nDer Abend endet mit einem erfrischenden Spaziergang am Kap Holland. Die salzige Luft und das Rauschen der Brandung entschädigen für die Nässe, während die Lichter der Stadt im Regen reflektieren.",
+            "hu": "A reggel szürkén indul Den Helderben, de a Willemsoord történelmi hajógyár csarnokai menedéket nyújtanak az első záporok elől. Egy gyors séta után a Haditengerészeti Múzeumban töltheti a délelőttöt szárazon.\n\nDélben a mentőhajók történeteivel ismerkedhet, miközben a kikötő épületei között cikázva kerüli el a nagyobb esőt. Egy meleg ebéd a kikötőben tökéletes pihenő a folytatás előtt.\n\nDélután a szél és az eső a gáton próbára teszi az öltözetet. A 'Lange Jaap' világítótorony látványa viharos időben különösen drámai és monumentális.\n\nAz este frissítő sétával zárul a Holland-foknál. A sós tengeri levegő és a hullámverés zaja kárpótol a nedvességért, miközben a város fényei megcsillannak az eső áztatta kövezeten.",
+            "ro": "Dimineața în Den Helder începe cenușie, dar șantierul naval istoric Willemsoord oferă adăpost bun în halele sale mari. Un scurt sprint vă duce la Muzeul Marinei, unde petreceți dimineața la adăpost de ploaie.\n\nLa prânz, explorați poveștile salvamarilor în timp ce navigați printre clădirile portului pentru a evita aversele. Un prânz cald în port este pauza ideală înainte de a continua traseul.\n\nDupă-amiaza, vântul și ploaia de pe dig vă provoacă echipamentul. Vederea farului 'Lange Jaap' este deosebit de dramatică și puternică pe o vreme furtunoasă.\n\nSeara se încheie cu o plimbare revigorantă la Capul Olandei. Aerul sărat și sunetul valurilor compensează umezeala, în timp ce luminile orașului se reflectă în ploaie.",
+            "en": "The morning in Den Helder starts grey, but the historic Willemsoord shipyard offers good shelter in its large halls. A short dash takes you to the Marine Museum, where you can spend the morning staying dry.\n\nAt midday, enjoy the maritime atmosphere in the Lifeboat Museum. The short distances between the harbor buildings are manageable even in the rain before retreating to a cozy restaurant.\n\nIn the afternoon, the wind and rain on the dike will challenge your gear. The sight of the 'Lange Jaap' lighthouse looks particularly dramatic and powerful in stormy weather.\n\nThe evening ends with a refreshing walk at Cape Holland. The salty air and the sound of the surf make up for the wetness as the city lights reflect in the rain."
+          },
+          "stops": [
+            {
+              "name": "Willemsoord",
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Passagen zwischen den historischen Werkstätten.",
+                "hu": "Használja a történelmi műhelyek közötti fedett átjárókat.",
+                "ro": "Folosiți pasajele acoperite între atelierele istorice.",
+                "en": "Use the covered passages between the historic workshops."
+              }
+            },
+            {
+              "name": "Marine Museum",
+              "tip_5lang": {
+                "de": "Das U-Boot Tonijn ist auch bei Regen von innen begehbar.",
+                "hu": "A Tonijn tengeralattjáró esőben is bejárható belülről.",
+                "ro": "Submarinul Tonijn poate fi vizitat pe interior chiar și pe ploaie.",
+                "en": "The Tonijn submarine can be explored from the inside even in the rain."
+              }
+            },
+            {
+              "name": "National Lifeboat Museum",
+              "tip_5lang": {
+                "de": "Ideal zum Aufwärmen, da sich fast alles im Innenbereich befindet.",
+                "hu": "Ideális melegedő, mivel szinte minden kiállítás beltéri.",
+                "ro": "Ideal pentru încălzire, deoarece aproape totul este la interior.",
+                "en": "Ideal for warming up, as almost all exhibits are indoors."
+              }
+            },
+            {
+              "name": "Lunch at the Harbor",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit direktem Blick auf das regnerische Hafenbecken.",
+                "hu": "Válasszon éttermet közvetlen kilátással az esős kikötőre.",
+                "ro": "Alegeți un restaurant cu vedere directă la bazinul portuar ploios.",
+                "en": "Choose a restaurant with a direct view of the rainy harbor basin."
+              }
+            },
+            {
+              "name": "Lange Jaap Lighthouse",
+              "tip_5lang": {
+                "de": "Achtung, starke Windböen am Fuß des Turms bei Regen.",
+                "hu": "Vigyázat, erős széllökések a torony lábánál esőben.",
+                "ro": "Atenție la rafalele puternice de vânt la baza turnului.",
+                "en": "Beware of strong wind gusts at the base of the tower."
+              }
+            },
+            {
+              "name": "Dike Walk at Cape Holland",
+              "tip_5lang": {
+                "de": "Vollständige Regenkleidung ist hier wegen des Peitschenwindes Pflicht.",
+                "hu": "A csapkodó szél miatt itt kötelező a teljes esőruházat.",
+                "ro": "Pelerina de ploaie este obligatorie din cauza vântului tăios.",
+                "en": "Full rain gear is mandatory here due to the whipping wind."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine winddichte Regenjacke, da der Wind vom Meer den Regen fast waagerecht peitscht.",
+              "Die Museen in Willemsoord sind perfekte Rückzugsorte bei starken Schauern.",
+              "Achten Sie auf rutschige Kopfsteinpflaster im historischen Hafenbereich.",
+              "Ein Taschenschirm ist wegen der starken Böen oft weniger effektiv als ein Regenponcho."
+            ],
+            "hu": [
+              "Viseljen szélálló esőkabátot, mert a tenger felőli szél szinte vízszintesen hordja az esőt.",
+              "A willemsoordi múzeumok tökéletes menedékek nagy záporok idején.",
+              "Vigyázzon a csúszós macskakövekre a történelmi kikötő területén.",
+              "Az erős széllökések miatt az esernyő helyett praktikusabb egy esőponcsó."
+            ],
+            "ro": [
+              "Purtați o jachetă de ploaie rezistentă la vânt, deoarece vântul de pe mare bate ploaia aproape orizontal.",
+              "Muzeele din Willemsoord sunt locuri perfecte de refugiu în timpul averselor puternice.",
+              "Atenție la pavajul alunecos din zona istorică a portului.",
+              "Din cauza rafalelor puternice, o umbrelă este adesea mai puțin eficientă decât o pelerină."
+            ],
+            "en": [
+              "Wear a windproof rain jacket, as the sea breeze drives rain almost horizontally.",
+              "The museums in Willemsoord are perfect retreats during heavy showers.",
+              "Watch out for slippery cobblestones in the historic harbor area.",
+              "A rain poncho is often more effective than an umbrella due to the strong gusts."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen in Den Helder beginnt an der Willemsoord. Der kalte Nordseewind weht durch die Gassen, aber die historischen Mauern bieten Schutz, während Sie sich auf den Weg zum Marinemuseum machen.\n\nMittags suchen Sie die Wärme in den Ausstellungsräumen. Die Schiffe im Außenbereich glänzen im Winterlicht, doch die meiste Zeit verbringen Sie gemütlich drinnen, bevor ein deftiges Mittagessen Sie aufwärmt.\n\nAm Nachmittag wird das Licht am Deich bereits golden und knapp. Der Leuchtturm 'Lange Jaap' steht stolz gegen den klaren Winterhimmel, während Sie die klirrende Kälte bei einem schnellen Spaziergang spüren.\n\nDer Abend bricht früh herein und hüllt den Hafen in eine ruhige Atmosphäre. Ein kurzer Gang am Kap Holland lässt Sie die raue Schönheit des winterlichen Wattenmeeres erleben, bevor Sie in die wohlige Wärme der Stadt zurückkehren.",
+            "hu": "Fagyos reggel indul Den Helderben, a Willemsoord negyedben. A hideg északi szél átfúj az utcákon, de a történelmi falak védelmet nyújtanak, miközben a Haditengerészeti Múzeum felé tart.\n\nDélben a fűtött kiállítótermekben keres menedéket. A szabadtéri hajók csillognak a téli fényben, de a legtöbb időt bent tölti, mielőtt egy tartalmas ebéd felmelegítené.\n\nDélután a fények a gáton már aranyosak és fogytán vannak. A 'Lange Jaap' büszkén áll a tiszta téli égbolt előtt, miközben a metsző hideget érzi egy gyors séta során.\n\nAz este korán érkezik, és csendes hangulatba burkolja a kikötőt. Egy rövid séta a Holland-foknál megmutatja a téli Waddenzee nyers szépségét, mielőtt visszatérne a város melegébe.",
+            "ro": "O dimineață geroasă în Den Helder începe la Willemsoord. Vântul rece al Mării Nordului suflă pe străzi, dar zidurile istorice oferă protecție în drum spre Muzeul Marinei.\n\nLa prânz, căutați căldura în sălile de expoziție fűtött. Navele din exterior strălucesc în lumina iernii, dar petreceți majoritatea timpului la interior înainte ca un prânz consistent să vă încălzească.\n\nDupă-amiaza, lumina de pe dig devine aurie și rară. Farul 'Lange Jaap' stă mândru pe cerul senin de iarnă, în timp ce simțiți frigul tăios în timpul unei plimbări rapide.\n\nSeara coboară devreme, învăluind portul într-o atmosferă liniștită. O scurtă ieșire la Capul Olandei vă permite să experimentați frumusețea aspră a mării pe timp de iarnă.",
+            "en": "A frosty morning in Den Helder begins at Willemsoord. The cold North Sea wind blows through the alleys, but the historic walls offer protection as you head towards the Marine Museum.\n\nAt midday, seek warmth in the heated exhibition rooms. The outdoor ships glisten in the winter light, but you spend most of your time cozy indoors before a hearty lunch warms you up.\n\nIn the afternoon, the light on the dike is already golden and fading. The 'Lange Jaap' lighthouse stands proud against the clear winter sky as you feel the biting cold during a brisk walk.\n\nEvening falls early, wrapping the harbor in a quiet atmosphere. A short walk at Cape Holland lets you experience the raw beauty of the winter Wadden Sea before returning to the warmth of the city."
+          },
+          "stops": [
+            {
+              "name": "Willemsoord",
+              "tip_5lang": {
+                "de": "Genießen Sie den Kontrast zwischen kalter Seeluft und warmer Gastronomie.",
+                "hu": "Élvezze a hideg tengeri levegő és a meleg éttermek kontrasztját.",
+                "ro": "Bucurați-vă de contrastul dintre aerul rece al mării și gastronomia caldă.",
+                "en": "Enjoy the contrast between cold sea air and warm gastronomy."
+              }
+            },
+            {
+              "name": "Marine Museum",
+              "tip_5lang": {
+                "de": "Drinnen ist es gut geheizt; perfekt für eine längere Pause.",
+                "hu": "Bent jól fűtött; tökéletes hely egy hosszabb szünethez.",
+                "ro": "La interior este bine încălzit; perfect pentru o pauză mai lungă.",
+                "en": "It is well heated inside; perfect for a longer break."
+              }
+            },
+            {
+              "name": "National Lifeboat Museum",
+              "tip_5lang": {
+                "de": "Hinter dicken Mauern entkommt man dem schneidenden Wind.",
+                "hu": "A vastag falak mögött elmenekülhet a metsző szél elől.",
+                "ro": "În spatele zidurilor groase scăpați de vântul tăios.",
+                "en": "Behind thick walls, you can escape the biting wind."
+              }
+            },
+            {
+              "name": "Lunch at the Harbor",
+              "tip_5lang": {
+                "de": "Probieren Sie eine typisch niederländische Erbsensuppe (Snert) zum Aufwärmen.",
+                "hu": "Próbáljon ki egy tipikus holland borsólevest (Snert) a melegedéshez.",
+                "ro": "Încercați o supă tipic olandeză de mazăre (Snert) pentru încălzire.",
+                "en": "Try a typical Dutch pea soup (Snert) to warm up."
+              }
+            },
+            {
+              "name": "Lange Jaap Lighthouse",
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang ist im Winter bereits gegen 16:30 Uhr.",
+                "hu": "A naplemente télen már délután fél 5 körül bekövetkezik.",
+                "ro": "Apusul de soare în timpul iernii este deja în jurul orei 16:30.",
+                "en": "Sunset in winter is already around 4:30 PM."
+              }
+            },
+            {
+              "name": "Dike Walk at Cape Holland",
+              "tip_5lang": {
+                "de": "Mütze und Handschuhe sind wegen des eisigen Seewinds unverzichtbar.",
+                "hu": "A jeges tengeri szél miatt a sapka és kesztyű nélkülözhetetlen.",
+                "ro": "Căciula și mănușile sunt indispensabile din cauza vântului înghețat.",
+                "en": "Hat and gloves are essential because of the icy sea wind."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schichten Sie Ihre Kleidung (Zwiebelprinzip), um der feuchten Kälte zu trotzen.",
+              "Die Sonne geht früh unter; planen Sie Außenaktivitäten vor 16 Uhr.",
+              "Wärmen Sie sich regelmäßig in den gut geheizten Museen auf.",
+              "Der Windchill-Effekt am Deich macht es gefühlt viel kälter als das Thermometer zeigt."
+            ],
+            "hu": [
+              "Rétegesen öltözködjön a nedves hideg ellen.",
+              "A nap korán nyugszik; a kültéri programokat tervezze 16 óra elé.",
+              "Melegedjen fel rendszeresen a jól fűtött múzeumokban.",
+              "A gáton a szél miatt sokkal hidegebbnek érződik az idő, mint amit a hőmérő mutat."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi pentru a face față frigului umed.",
+              "Soarele apune devreme; planificați activitățile în aer liber înainte de ora 16.",
+              "Încălziți-vă regulat în muzeele bine încălzite.",
+              "Efectul de răcire al vântului pe dig face ca temperatura resimțită să fie mult mai mică."
+            ],
+            "en": [
+              "Layer your clothing to withstand the damp cold.",
+              "The sun sets early; plan outdoor activities before 4 PM.",
+              "Warm up regularly in the well-heated museums.",
+              "The wind chill effect on the dike makes it feel much colder than the thermometer suggests."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -706,6 +888,188 @@
           "Always lock your bike securely, especially at tourist attractions.",
           "A waterproof bag is useful for the unpredictable weather."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen ist Den Helder ein Erlebnis auf zwei Rädern. Der Vormittag in Willemsoord bietet genug Zeit im Trockenen, während Sie die Fahrräder sicher abstellen können.\n\nMittags radeln Sie zum Fort Kijkduin. Die Strecke führt entlang der Küste, wo der Regen das Meer aufwühlt, was eine raue, authentische Atmosphäre schafft.\n\nNachmittags geht es durch die Donkere Duinen. Die Bäume bieten hier einen natürlichen Schutzschirm gegen den direkten Niederschlag, bevor Sie zum Hafen zurückkehren.\n\nDer Abend schließt mit einem Blick auf das stürmische Hafenbecken ab. Die kurze Fahrt zurück zum Ausgangspunkt lässt Sie die Kraft der Nordsee spüren.",
+            "hu": "Az eső ellenére Den Helder két keréken is élmény. A Willemsoord negyedben töltött délelőtt elég időt ad szárazon, miközben a bicikliket biztonságban lezárhatja.\n\nDélben a Fort Kijkduin felé teker. Az út a part mentén vezet, ahol az eső felkorbácsolja a tengert, nyers és hiteles hangulatot árasztva.\n\nDélután a Donkere Duinen erdőn halad át. A fák természetes ernyőként védenek a közvetlen csapadéktól, mielőtt visszatérne a kikötőbe.\n\nAz este a viharos kikötő látványával zárul. A rövid visszaút során érezheti az Északi-tenger erejét.",
+            "ro": "În ciuda ploii, Den Helder este o experiență pe două roți. Dimineața la Willemsoord oferă destul timp la adăpost, în timp ce bicicletele pot fi parcate în siguranță.\n\nLa prânz, pedalați spre Fort Kijkduin. Traseul urmează coasta, unde ploaia agită marea, creând o atmosferă aspră și autentică.\n\nDupă-amiaza, traversați Donkere Duinen. Copacii oferă aici un paravan natural împotriva precipitațiilor directe înainte de a vă întoarce în port.\n\nSeara se încheie cu o privire asupra bazinului portuar furtunos. Scurta cursă înapoi vă face să simțiți forța Mării Nordului.",
+            "en": "Despite the rain, Den Helder is an experience on two wheels. The morning at Willemsoord provides enough time indoors while your bikes can be safely parked.\n\nAt midday, cycle to Fort Kijkduin. The route follows the coast, where the rain stirs up the sea, creating a raw, authentic atmosphere.\n\nIn the afternoon, head through the Donkere Duinen. The trees here offer a natural canopy against direct precipitation before you return to the harbor.\n\nThe evening concludes with a view of the stormy harbor basin. The short ride back lets you feel the power of the North Sea."
+          },
+          "stops": [
+            {
+              "name": "Willemsoord & Marine Museum",
+              "tip_5lang": {
+                "de": "Fahrradständer sind oft in der Nähe der Museumseingänge vorhanden.",
+                "hu": "A múzeumi bejáratok közelében gyakran találhatók kerékpártárolók.",
+                "ro": "Suporturile pentru biciclete sunt adesea lângă intrările muzeelor.",
+                "en": "Bike racks are often available near museum entrances."
+              }
+            },
+            {
+              "name": "Fort Kijkduin",
+              "tip_5lang": {
+                "de": "Stellen Sie die Räder im Schutz der Festungsmauern ab.",
+                "hu": "Zárja le a bicikliket az erőd falainak védelmében.",
+                "ro": "Parcați bicicletele la adăpostul zidurilor fortăreței.",
+                "en": "Park your bikes in the shelter of the fortress walls."
+              }
+            },
+            {
+              "name": "Lunch in Huisduinen",
+              "tip_5lang": {
+                "de": "Ideal, um die nasse Kleidung kurz zu lüften.",
+                "hu": "Ideális hely a nedves ruhák rövid szellőztetésére.",
+                "ro": "Ideal pentru a aerisi scurt hainele ude.",
+                "en": "Ideal place to briefly air out wet clothing."
+              }
+            },
+            {
+              "name": "Donkere Duinen",
+              "tip_5lang": {
+                "de": "Vorsicht auf den Waldwegen; bei Regen können sie rutschig sein.",
+                "hu": "Vigyázat az erdei utakon; esőben csúszósak lehetnek.",
+                "ro": "Atenție pe potecile din pădure; pot fi alunecoase la ploaie.",
+                "en": "Be careful on the forest paths; they can be slippery in the rain."
+              }
+            },
+            {
+              "name": "National Lifeboat Museum",
+              "tip_5lang": {
+                "de": "Perfekt, um vor der letzten Etappe wieder trocken zu werden.",
+                "hu": "Tökéletes, hogy megszáradjon az utolsó szakasz előtt.",
+                "ro": "Perfect pentru a vă usca înainte de ultima etapă.",
+                "en": "Perfect to dry off before the final leg."
+              }
+            },
+            {
+              "name": "Sunset view at the harbor",
+              "tip_5lang": {
+                "de": "Die Lichter spiegeln sich wunderschön auf dem nassen Asphalt.",
+                "hu": "A fények gyönyörűen tükröződnek a nedves aszfalton.",
+                "ro": "Luminile se reflectă frumos pe asfaltul umed.",
+                "en": "The lights reflect beautifully on the wet asphalt."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie scharfes Bremsen auf nassen Hafenfliesen.",
+              "Vollständige wasserfeste Kleidung und Überschuhe werden dringend empfohlen.",
+              "Nutzen Sie die Waldwege in den Dünen als Windschutz.",
+              "Prüfen Sie Ihre Beleuchtung, da die Sicht bei Regen stark eingeschränkt ist."
+            ],
+            "hu": [
+              "Kerülje az erős fékezést a nedves kikötői burkolaton.",
+              "Teljes vízálló ruházat és kamásli erősen ajánlott.",
+              "Használja a dűnék erdei útjait szélvédelemként.",
+              "Ellenőrizze a világítást, mert esőben a látási viszonyok korlátozottak."
+            ],
+            "ro": [
+              "Evitați frânarea bruscă pe pavajul umed din port.",
+              "Se recomandă echipament complet impermeabil și protecții pentru încălțăminte.",
+              "Folosiți potecile din pădure pentru protecție împotriva vântului.",
+              "Verificați luminile, vizibilitatea este redusă semnificativ pe ploaie."
+            ],
+            "en": [
+              "Avoid sharp braking on wet harbor tiles.",
+              "Full waterproof gear and shoe covers are strongly recommended.",
+              "Use the forest paths in the dunes as a windbreak.",
+              "Check your lights as visibility is significantly reduced in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer, kalter Wintertag in Den Helder ist ideal für eine Radtour, wenn man warm eingepackt ist. Der Vormittag startet frisch am Hafenareal.\n\nMittags radeln Sie gegen den strammen Wind zum Fort Kijkduin. Die Anstrengung hält Sie warm, und die Aussicht auf die eisige Nordsee ist atemberaubend.\n\nNachmittags bieten die Donkere Duinen Schutz vor dem schneidenden Seewind. Das Licht zwischen den kahlen Bäumen erzeugt eine ganz besondere, stille Stimmung.\n\nDer Abend kommt früh. Die letzte Fahrt durch den Hafen bei einsetzender Dämmerung zeigt Den Helder von seiner ruhigsten und authentischsten Seite.",
+            "hu": "Egy tiszta, hideg téli nap Den Helderben ideális egy biciklitúrához, ha melegen felöltözik. A délelőtt frissen indul a kikötőben.\n\nDélben az erős széllel szemben teker a Fort Kijkduin felé. A mozgás melegen tartja, a kilátás a jeges Északi-tengerre pedig lélegzetelállító.\n\nDélután a Donkere Duinen erdő védelmet nyújt a metsző tengeri szél ellen. A kopár fák között átszűrődő fény különleges, csendes hangulatot áraszt.\n\nAz este korán érkezik. Az utolsó szakasz a kikötőben a szürkület beálltakor Den Helder legnyugodtabb és leghitelesebb arcát mutatja.",
+            "ro": "O zi de iarnă senină și rece în Den Helder este ideală pentru o tură cu bicicleta, dacă sunteți bine îmbrăcat. Dimineața începe proaspăt în zona portului.\n\nLa prânz, pedalați împotriva vântului puternic spre Fort Kijkduin. Efortul vă menține cald, iar vederea spre Marea Nordului înghețată este spectaculoasă.\n\nDupă-amiaza, Donkere Duinen oferă protecție împotriva vântului tăios de pe mare. Lumina printre copacii golași creează o atmosferă specială, liniștită.\n\nSeara vine devreme. Ultima cursă prin port la lăsarea amurgului arată Den Helder în cea mai liniștită și autentică formă a sa.",
+            "en": "A clear, cold winter day in Den Helder is ideal for a bike tour if you are wrapped up warm. The morning starts fresh at the harbor area.\n\nAt midday, cycle against the stiff breeze to Fort Kijkduin. The exertion keeps you warm, and the view of the icy North Sea is breathtaking.\n\nIn the afternoon, the Donkere Duinen provide shelter from the biting sea wind. The light between the bare trees creates a very special, quiet mood.\n\nEvening comes early. The last ride through the harbor as dusk sets in shows Den Helder at its quietest and most authentic."
+          },
+          "stops": [
+            {
+              "name": "Willemsoord & Marine Museum",
+              "tip_5lang": {
+                "de": "Bewahren Sie Ihre Handschuhe beim Museumsbesuch sicher auf.",
+                "hu": "Vigyázzon a kesztyűire a múzeumlátogatás alatt.",
+                "ro": "Păstrați-vă mănușile în siguranță în timpul vizitei la muzeu.",
+                "en": "Keep your gloves safe during the museum visit."
+              }
+            },
+            {
+              "name": "Fort Kijkduin",
+              "tip_5lang": {
+                "de": "Das Aquarium im Inneren ist ein wunderbarer Ort zum Aufwärmen.",
+                "hu": "A belső akvárium csodálatos hely a felmelegedéshez.",
+                "ro": "Acvariul din interior este un loc minunat pentru încălzire.",
+                "en": "The aquarium inside is a wonderful place to warm up."
+              }
+            },
+            {
+              "name": "Lunch in Huisduinen",
+              "tip_5lang": {
+                "de": "Ein heißer Kakao gibt Energie für die Weiterfahrt.",
+                "hu": "Egy forró kakaó energiát ad a folytatáshoz.",
+                "ro": "O ciocolată caldă vă dă energie pentru continuarea drumului.",
+                "en": "A hot cocoa gives energy for the rest of the ride."
+              }
+            },
+            {
+              "name": "Donkere Duinen",
+              "tip_5lang": {
+                "de": "Die Wege können bei Frost stellenweise glatt sein.",
+                "hu": "Fagy esetén az utak helyenként csúszósak lehetnek.",
+                "ro": "Potecile pot fi alunecoase pe alocuri în caz de îngheț.",
+                "en": "Paths can be slippery in places during frost."
+              }
+            },
+            {
+              "name": "National Lifeboat Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe, um schwere Winterjacken abzulegen.",
+                "hu": "Használja a ruhatárat a nehéz télikabátok lepakolásához.",
+                "ro": "Folosiți garderoba pentru a lăsa jachetele grele de iarnă.",
+                "en": "Use the cloakroom to leave heavy winter jackets."
+              }
+            },
+            {
+              "name": "Sunset view at the harbor",
+              "tip_5lang": {
+                "de": "Genießen Sie das Licht, aber achten Sie auf die schnell fallenden Temperaturen.",
+                "hu": "Élvezze a fényeket, de figyeljen a gyorsan süllyedő hőmérsékletre.",
+                "ro": "Bucurați-vă de lumină, dar atenție la scăderea rapidă a temperaturii.",
+                "en": "Enjoy the light, but watch out for the rapidly falling temperatures."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermo-Unterwäsche und winddichte Handschuhe.",
+              "Achten Sie auf vereiste Stellen, besonders in Schattenbereichen.",
+              "Planen Sie mehr Zeit für Pausen in beheizten Räumen ein.",
+              "Die Wintersonne steht tief; eine Sonnenbrille hilft gegen Blendung beim Radeln."
+            ],
+            "hu": [
+              "Viseljen termo-aláöltözetet és szélálló kesztyűt.",
+              "Ügyeljen a jeges foltokra, különösen az árnyékos részeken.",
+              "Tervezzen több időt a fűtött helyiségekben tartott szünetekre.",
+              "A téli nap alacsonyan jár; a napszemüveg segít a vakítás ellen tekerés közben."
+            ],
+            "ro": [
+              "Purtați lenjerie termică și mănuși rezistente la vânt.",
+              "Atenție la porțiunile înghețate, în special în zonele cu umbră.",
+              "Planificați mai mult timp pentru pauze în spații încălzite.",
+              "Soarele de iarnă este jos; ochelarii de soare ajută împotriva orbirii."
+            ],
+            "en": [
+              "Wear thermal underwear and windproof gloves.",
+              "Watch out for icy spots, especially in shaded areas.",
+              "Plan more time for breaks in heated rooms.",
+              "The winter sun is low; sunglasses help against glare while cycling."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1086,6 +1450,206 @@
           "A GPS is essential for navigating the rural areas.",
           "Remember that Hortus Bulborum is only open for a few weeks a year."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Im Auto lässt sich das maritime Erbe von Den Helder auch bei Regen entspannt erkunden. Der Morgen beginnt am Willemsoord, wo Parkplätze direkt vor den Museen das Aussteigen erleichtern.\n\nMittags bietet die Fahrt entlang der Küste zum Fort Kijkduin einen sicheren Blick auf das aufgewühlte Meer, während Sie im trockenen Innenraum des Wagens bleiben.\n\nNachmittags führt die Route zu den Donkere Duinen und weiter nach Limmen. Die Scheibenwischer arbeiten im Takt der Nordseeschauer, während Sie die Aussicht genießen.\n\nDer Abend endet gemütlich in Limmen. Das Prasseln des Regens auf das Autodach schafft eine behagliche Atmosphäre auf dem Weg zum Abendessen.",
+            "hu": "Autóval Den Helder tengeri öröksége esőben is kényelmesen felfedezhető. A reggel a Willemsoord negyedben indul, ahol a múzeumok előtti parkolók megkönnyítik a kiszállást.\n\nDélben a part menti autóút a Fort Kijkduin felé biztonságos kilátást nyújt a felkorbácsolt tengerre, miközben Ön a kocsi száraz belsejében marad.\n\nDélután az út a Donkere Duinen erdőhöz és tovább Limmenbe vezet. Az ablaktörlők az északi-tengeri záporok ütemére járnak, miközben élvezi a kilátást.\n\nAz este Limmenben zárul. Az autó tetőjén kopogó eső meghitt hangulatot teremt az vacsorához vezető úton.",
+            "ro": "Cu mașina, moștenirea maritimă din Den Helder poate fi explorată relaxat chiar și pe ploaie. Dimineața începe la Willemsoord, unde parcările direct în fața muzeelor facilitează coborârea.\n\nLa prânz, drumul de-a lungul coastei spre Fort Kijkduin oferă o vedere sigură asupra mării agitate, în timp ce rămâneți în interiorul uscat al mașinii.\n\nDupă-amiaza, traseul duce la Donkere Duinen și mai departe spre Limmen. Ștergătoarele lucrează în ritmul averselor, în timp ce vă bucurați de peisaj.\n\nSeara se încheie confortabil în Limmen. Roipotul ploii pe plafonul mașinii creează o atmosferă plăcută în drum spre cină.",
+            "en": "By car, the maritime heritage of Den Helder can be explored in a relaxed way even in the rain. The morning starts at Willemsoord, where parking spaces right in front of the museums make getting out easy.\n\nAt midday, the drive along the coast to Fort Kijkduin offers a safe view of the turbulent sea while you stay in the dry interior of the car.\n\nIn the afternoon, the route leads to the Donkere Duinen and further to Limmen. The windshield wipers work to the rhythm of the North Sea showers as you enjoy the view.\n\nThe evening ends cozily in Limmen. The pattering of rain on the car roof creates a snug atmosphere on the way to dinner."
+          },
+          "stops": [
+            {
+              "name": "Harbor Cluster: Willemsoord",
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang, um Regenpausen zu nutzen.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz, kihasználva az esőszüneteket.",
+                "ro": "Parcați cât mai aproape de intrare pentru a profita de pauzele de ploaie.",
+                "en": "Park as close as possible to the entrance to take advantage of rain breaks."
+              }
+            },
+            {
+              "name": "Harbor Cluster: Marine Museum",
+              "tip_5lang": {
+                "de": "Großer Parkplatz vorhanden, kurzer Weg zum überdachten Eingang.",
+                "hu": "Nagy parkoló áll rendelkezésre, rövid út a fedett bejáratig.",
+                "ro": "Parcare mare disponibilă, drum scurt până la intrarea acoperită.",
+                "en": "Large parking lot available, short walk to the covered entrance."
+              }
+            },
+            {
+              "name": "Harbor Cluster: Lifeboat Museum & Lunch",
+              "tip_5lang": {
+                "de": "Zentrales Parken ermöglicht schnellen Wechsel zwischen den Attraktionen.",
+                "hu": "A központi parkolás gyors váltást tesz lehetővé a látnivalók között.",
+                "ro": "Parcarea centrală permite schimbarea rapidă între atracții.",
+                "en": "Central parking allows for quick changes between attractions."
+              }
+            },
+            {
+              "name": "Coast Cluster: Fort Kijkduin",
+              "tip_5lang": {
+                "de": "Vom Parkplatz hat man einen tollen Blick auf die Brandung.",
+                "hu": "A parkolóból nagyszerű kilátás nyílik a hullámtörésre.",
+                "ro": "De în parcare aveți o vedere excelentă asupra valurilor.",
+                "en": "The parking lot offers a great view of the surf."
+              }
+            },
+            {
+              "name": "Coast Cluster: Beach Walk",
+              "tip_5lang": {
+                "de": "Genießen Sie die Aussicht bei Regen lieber aus dem warmen Auto.",
+                "hu": "Élvezze a kilátást esőben inkább a meleg autóból.",
+                "ro": "Bucurați-vă de vedere mai degrabă din mașina caldă pe ploaie.",
+                "en": "Prefer to enjoy the view from the warm car during rain."
+              }
+            },
+            {
+              "name": "Excursion: Hortus Bulborum (seasonal)",
+              "tip_5lang": {
+                "de": "Bei starkem Regen sind die Außenanlagen oft sehr matschig.",
+                "hu": "Erős esőben a kültéri részek gyakran nagyon sárosak.",
+                "ro": "În caz de ploaie puternică, zonele exterioare sunt adesea noroioase.",
+                "en": "During heavy rain, the outdoor areas are often very muddy."
+              }
+            },
+            {
+              "name": "Dinner in Limmen",
+              "tip_5lang": {
+                "de": "Suchen Sie sich einen Parkplatz direkt vor dem Restaurant.",
+                "hu": "Keressen parkolóhelyet közvetlenül az étterem előtt.",
+                "ro": "Căutați un loc de parcare direct în fața restaurantului.",
+                "en": "Find a parking spot directly in front of the restaurant."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Haben Sie immer einen Regenschirm im Auto für die kurzen Wege zum Eingang.",
+              "Vermeiden Sie das Parken in tiefen Pfützen auf unbefestigten Plätzen.",
+              "Nutzen Sie die Heizung des Autos, um feuchte Kleidung zu trocknen.",
+              "Die Sicht kann auf den Küstenstraßen bei Gischt und Regen eingeschränkt sein."
+            ],
+            "hu": [
+              "Mindig legyen esernyő az autóban a bejáratig tartó rövid utakhoz.",
+              "Kerülje a parkolást a mély tócsákban a nem aszfaltozott helyeken.",
+              "Használja az autó fűtését a nedves ruhák szárítására.",
+              "A látási viszonyok a parti utakon a permet és az eső miatt korlátozottak lehetnek."
+            ],
+            "ro": [
+              "Aveți întotdeauna o umbrelă în mașină pentru drumurile scurte până la intrare.",
+              "Evitați parcarea în bălți adânci în locurile neasfaltate.",
+              "Folosiți încălzirea mașinii pentru a usca hainele umede.",
+              "Vizibilitatea pe drumurile de coastă poate fi redusă din cauza ceții și ploii."
+            ],
+            "en": [
+              "Always have an umbrella in the car for the short walks to entrances.",
+              "Avoid parking in deep puddles in unpaved lots.",
+              "Use the car's heater to dry damp clothing.",
+              "Visibility can be limited on coastal roads due to spray and rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliche Küstenromantik lässt sich in Den Helder am besten mit dem Auto erleben. Der Vormittag startet gemütlich in der Wärme, während Sie Willemsoord ansteuern.\n\nMittags genießen Sie die dramatische Aussicht auf die winterliche Nordsee vom Auto aus, bevor Sie das Fort Kijkduin erkunden.\n\nNachmittags führt die Tour durch die stillen Donkere Duinen nach Limmen. Die tiefstehende Wintersonne wirft lange Schatten auf die flache niederländische Landschaft.\n\nDer Abend in Limmen bietet die perfekte Gelegenheit für ein winterliches Abendessen, bevor Sie entspannt im warmen Wagen zurückfahren.",
+            "hu": "A téli parti romantika Den Helderben autóval élvezhető a legjobban. A délelőtt kényelmesen, melegben indul, miközben a Willemsoord felé tart.\n\nDélben élvezze a téli Északi-tenger drámai látványát az autóból, mielőtt felfedezné a Fort Kijkduint.\n\nDélután a túra a csendes Donkere Duinen erdőn keresztül vezet Limmenbe. Az alacsonyan járó téli nap hosszú árnyékokat vet a lapos holland tájra.\n\nAz este Limmenben tökéletes alkalom egy téli vacsorára, mielőtt kényelmesen, a meleg kocsiban visszautazna.",
+            "ro": "Romantismul de coastă pe timp de iarnă se experimentează cel mai bine cu mașina în Den Helder. Dimineața începe confortabil la căldură în drum spre Willemsoord.\n\nLa prânz, bucurați-vă de vederea dramatică a Mării Nordului iarna din mașină, înainte de a explora Fort Kijkduin.\n\nDupă-amiaza, turul trece prin liniștitele Donkere Duinen spre Limmen. Soarele de iarnă aruncă umbre lungi pe peisajul plat olandez.\n\nSeara în Limmen oferă ocazia perfectă pentru o cină de iarnă înainte de a vă întoarce relaxat în mașina caldă.",
+            "en": "Winter coastal romance in Den Helder is best experienced by car. The morning starts comfortably in the warmth as you head for Willemsoord.\n\nAt midday, enjoy the dramatic view of the winter North Sea from the car before exploring Fort Kijkduin.\n\nIn the afternoon, the tour leads through the quiet Donkere Duinen to Limmen. The low winter sun casts long shadows over the flat Dutch landscape.\n\nEvening in Limmen offers the perfect opportunity for a winter dinner before a relaxed drive back in the warm car."
+          },
+          "stops": [
+            {
+              "name": "Harbor Cluster: Willemsoord",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stellen auf dem Hafengelände beim Aussteigen.",
+                "hu": "Ügyeljen a jeges foltokra a kikötő területén kiszálláskor.",
+                "ro": "Atenție la porțiunile înghețate din zona portului la coborâre.",
+                "en": "Watch out for icy spots in the harbor area when getting out."
+              }
+            },
+            {
+              "name": "Harbor Cluster: Marine Museum",
+              "tip_5lang": {
+                "de": "Die Motorenwärme ist nach dem Besuch der Außenschiffe sehr willkommen.",
+                "hu": "A motor melege nagyon jólesik a szabadtéri hajók látogatása után.",
+                "ro": "Căldura motorului este binevenită după vizitarea navelor exterioare.",
+                "en": "The engine's warmth is very welcome after visiting the outdoor ships."
+              }
+            },
+            {
+              "name": "Harbor Cluster: Lifeboat Museum & Lunch",
+              "tip_5lang": {
+                "de": "Parken Sie zentral, um die Zeit im kalten Wind zu minimieren.",
+                "hu": "Parkoljon központilag, hogy minimalizálja a hideg szélben töltött időt.",
+                "ro": "Parcați central pentru a minimiza timpul petrecut în vântul rece.",
+                "en": "Park centrally to minimize time spent in the cold wind."
+              }
+            },
+            {
+              "name": "Coast Cluster: Fort Kijkduin",
+              "tip_5lang": {
+                "de": "Die Anfahrt kann bei Winterwetter rutschig sein.",
+                "hu": "A megközelítés téli időben csúszós lehet.",
+                "ro": "Drumul de acces poate fi alunecos pe timp de iarnă.",
+                "en": "The approach can be slippery in winter weather."
+              }
+            },
+            {
+              "name": "Coast Cluster: Beach Walk",
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick aus dem beheizten Innenraum.",
+                "hu": "Élvezze a tágas kilátást a fűtött utastérből.",
+                "ro": "Bucurați-vă de vederea largă din habitaclul încălzit.",
+                "en": "Enjoy the expansive view from the heated interior."
+              }
+            },
+            {
+              "name": "Excursion: Hortus Bulborum (seasonal)",
+              "tip_5lang": {
+                "de": "Oft geschlossen im Winter; prüfen Sie die Öffnungszeiten vorab.",
+                "hu": "Télen gyakran zárva; előzetesen ellenőrizze a nyitvatartást.",
+                "ro": "Adesea închis iarna; verificați programul în prealabil.",
+                "en": "Often closed in winter; check opening hours beforehand."
+              }
+            },
+            {
+              "name": "Dinner in Limmen",
+              "tip_5lang": {
+                "de": "Ideal, um den Tag in wohliger Wärme abzuschließen.",
+                "hu": "Ideális a nap kényelmes melegben való lezárásához.",
+                "ro": "Ideal pentru a încheia ziua la o căldură plăcută.",
+                "en": "Ideal for ending the day in cozy warmth."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Reifendruck, da dieser bei Kälte sinken kann.",
+              "Führen Sie einen Eiskratzer und Frostschutzmittel mit.",
+              "Planen Sie die Rückfahrt vor Einbruch der frühen Dunkelheit ein.",
+              "Nutzen Sie die Sitzheizung für zusätzlichen Komfort nach den Außenstopps."
+            ],
+            "hu": [
+              "Ellenőrizze a guminyomást, mert hidegben csökkenhet.",
+              "Legyen Önnél jégkaparó és fagyálló folyadék.",
+              "Tervezze meg a visszautat a korai sötétedés beállta előtt.",
+              "Használja az ülésfűtést az extra kényelemért a kültéri megállók után."
+            ],
+            "ro": [
+              "Verificați presiunea în anvelope, aceasta poate scădea la frig.",
+              "Aveți la voi o racletă și lichid de parbriz anti-îngheț.",
+              "Planificați drumul de întoarcere înainte de lăsarea întunericului.",
+              "Folosiți încălzirea în scaune pentru un confort sporit după opririle afară."
+            ],
+            "en": [
+              "Check tire pressure, as it can drop in the cold.",
+              "Carry an ice scraper and anti-freeze with you.",
+              "Plan your return journey before early darkness sets in.",
+              "Use seat heating for extra comfort after outdoor stops."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1442,6 +2006,188 @@
           "Most attractions in the city center are easily within walking distance.",
           "Be aware that the last bus may run earlier than you expect."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus lässt sich Den Helder auch bei Regen bequem erkunden. Der Vormittag am Willemsoord ist weitgehend wetterunabhängig, da die Museen viel Raum im Trockenen bieten.\n\nMittags bringt Sie der Bus schnell nach Huisduinen. Sie vermeiden lange Wege im Regen und steigen fast direkt vor dem Fort Kijkduin aus.\n\nNachmittags genießen Sie die Fahrt durch die regnerische Dünenlandschaft. Der Blick aus dem Fenster des Busses bietet eine entspannte Perspektive auf die stürmische Natur.\n\nDer Abend endet mit der Rückfahrt zum Bahnhof. Die gut getakteten Verbindungen sorgen dafür, dass Sie nicht lange im Regen warten müssen.",
+            "hu": "Busszal Den Helder esőben is kényelmesen felfedezhető. A délelőtt a Willemsoord negyedben nagyjából időjárásfüggetlen, mivel a múzeumok sok belső teret kínálnak.\n\nDélben a busz gyorsan Huisduinenbe viszi. Elkerüli a hosszú utat az esőben, és szinte közvetlenül a Fort Kijkduin előtt szállhat le.\n\nDélután élvezze az utazást az esős dűnék között. A busz ablakából nyíló kilátás nyugodt perspektívát kínál a viharos természetre.\n\nAz este a vasútállomásra való visszautazással zárul. A jól ütemezett csatlakozásoknak köszönhetően nem kell sokat várnia az esőben.",
+            "ro": "Cu autobuzul, Den Helder poate fi explorat confortabil chiar și pe ploaie. Dimineața la Willemsoord este în mare parte independentă de vreme, deoarece muzeele oferă mult spațiu la adăpost.\n\nLa prânz, autobuzul vă duce rapid la Huisduinen. Evitați drumurile lungi prin ploaie și coborâți aproape direct în fața Fort Kijkduin.\n\nDupă-amiaza, bucurați-vă de călătoria prin peisajul ploios al dunelor. Vederea de pe geamul autobuzului oferă o perspectivă relaxată asupra naturii furtunoase.\n\nSeara se încheie cu întoarcerea la gară. Conexiunile bine programate asigură faptul că nu trebuie să așteptați mult în ploaie.",
+            "en": "By bus, Den Helder can be explored comfortably even in the rain. The morning at Willemsoord is largely weather-independent as the museums offer plenty of indoor space.\n\nAt midday, the bus takes you quickly to Huisduinen. You avoid long walks in the rain and get off almost directly in front of Fort Kijkduin.\n\nIn the afternoon, enjoy the ride through the rainy dune landscape. The view from the bus window offers a relaxed perspective on the stormy nature.\n\nThe evening ends with the return to the station. The well-timed connections ensure that you don't have to wait long in the rain."
+          },
+          "stops": [
+            {
+              "name": "Center Cluster: Station Arrival & Willemsoord",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Bahnhofsbereich zum Umsteigen.",
+                "hu": "Használja a vasútállomás fedett területét az átszálláshoz.",
+                "ro": "Folosiți zona acoperită a gării pentru transfer.",
+                "en": "Use the covered station area for transfers."
+              }
+            },
+            {
+              "name": "Center Cluster: Marine Museum",
+              "tip_5lang": {
+                "de": "Kurze Wege von der Bushaltestelle zum Museumseingang.",
+                "hu": "Rövid út a buszmegállótól a múzeum bejáratáig.",
+                "ro": "Drum scurt de la stația de autobuz la intrarea muzeului.",
+                "en": "Short walk from the bus stop to the museum entrance."
+              }
+            },
+            {
+              "name": "Center Cluster: Lunch & Lifeboat Museum",
+              "tip_5lang": {
+                "de": "Die Haltestellen sind meist mit Unterständen ausgestattet.",
+                "hu": "A megállók többsége váróval felszerelt.",
+                "ro": "Stațiile sunt în mare parte dotate cu adăposturi.",
+                "en": "The stops are mostly equipped with shelters."
+              }
+            },
+            {
+              "name": "Huisduinen Cluster: Fort Kijkduin",
+              "tip_5lang": {
+                "de": "Der Bus hält fast direkt am Eingang; ideal bei starkem Regen.",
+                "hu": "A busz szinte közvetlenül a bejáratnál áll meg; ideális erős esőben.",
+                "ro": "Autobuzul oprește aproape direct la intrare; ideal pe ploaie.",
+                "en": "The bus stops almost directly at the entrance; ideal during heavy rain."
+              }
+            },
+            {
+              "name": "Huisduinen Cluster: Beach and Lighthouse",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Abfahrtszeiten per App, um Wartezeiten im Freien zu vermeiden.",
+                "hu": "Ellenőrizze az indulást appon, hogy elkerülje a kinti várakozást.",
+                "ro": "Verificați orele de plecare prin aplicație pentru a evita așteptarea afară.",
+                "en": "Check departure times via app to avoid waiting outdoors."
+              }
+            },
+            {
+              "name": "Return to Center",
+              "tip_5lang": {
+                "de": "Suchen Sie sich einen Platz im hinteren Teil des Busses, um trocken zu bleiben.",
+                "hu": "Keressen helyet a busz hátuljában, hogy száraz maradjon.",
+                "ro": "Căutați un loc în partea din spate a autobuzului pentru a rămâne uscat.",
+                "en": "Find a seat in the back of the bus to stay dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die OV-Chipkaart oder kontaktloses Bezahlen für schnellen Einstieg.",
+              "Die App '9292' bietet Echtzeit-Infos bei witterungsbedingten Verzögerungen.",
+              "Haben Sie Ihre Regenkleidung griffbereit für die Wege zur Haltestelle.",
+              "Busse in Küstennähe sind oft besser geheizt als man erwartet."
+            ],
+            "hu": [
+              "Használja az OV-Chipkaart-ot vagy érintésmentes fizetést a gyors felszálláshoz.",
+              "A '9292' alkalmazás valós idejű infókat ad az időjárás miatti késésekről.",
+              "Legyen kéznél az esőruházat a megállóig tartó utakhoz.",
+              "A parti járatok gyakran jobban fűtöttek, mint gondolnánk."
+            ],
+            "ro": [
+              "Folosiți OV-Chipkaart sau plata contactless pentru o îmbarcare rapidă.",
+              "Aplicația '9292' oferă info în timp real în caz de întârzieri din cauza vremii.",
+              "Aveți echipamentul de ploaie la îndemână pentru drumul spre stație.",
+              "Autobuzele de lângă coastă sunt adesea mai bine încălzite decât vă așteptați."
+            ],
+            "en": [
+              "Use OV-Chipkaart or contactless payment for quick boarding.",
+              "The '9292' app provides real-time info on weather-related delays.",
+              "Keep your rain gear handy for the walks to the bus stop.",
+              "Buses near the coast are often better heated than expected."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintertag in Den Helder lässt sich mit den öffentlichen Verkehrsmitteln warm und sicher gestalten. Der Vormittag startet am gut geheizten Bahnhof.\n\nMittags bringt Sie der Bus durch die frostige Landschaft nach Huisduinen. Sie genießen den Blick auf die eisigen Dünen, während Sie im Warmen sitzen.\n\nNachmittags erkunden Sie das Fort Kijkduin und kehren dann zur Bushaltestelle zurück. Die kurzen Wege minimieren die Zeit in der klirrenden Kälte.\n\nDer Abend schließt mit der Rückfahrt zum Zentrum ab. Die hell beleuchteten Busse bieten eine wohlige Atmosphäre für den Abschluss des Tages.",
+            "hu": "Egy téli nap Den Helderben tömegközlekedéssel melegen és biztonságosan tölthető. A délelőtt a jól fűtött vasútállomáson indul.\n\nDélben a busz a fagyos tájon keresztül Huisduinenbe viszi. Élvezze a kilátást a jeges dűnékre, miközben a melegben ül.\n\nDélután fedezze fel a Fort Kijkduint, majd térjen vissza a buszmegállóba. A rövid utak minimalizálják a metsző hidegben töltött időt.\n\nAz este a központba való visszautazással zárul. A fényesen kivilágított buszok meghitt hangulatot árasztanak a nap végére.",
+            "ro": "O zi de iarnă în Den Helder poate fi parcursă cald și sigur cu transportul public. Dimineața începe la gara bine încălzită.\n\nLa prânz, autobuzul vă poartă prin peisajul înghețat spre Huisduinen. Bucurați-vă de vederea dunelor înghețate în timp ce stați la căldură.\n\nDupă-amiaza, explorați Fort Kijkduin și întoarceți-vă la stația de autobuz. Drumurile scurte minimizează timpul petrecut în gerul tăios.\n\nSeara se încheie cu drumul de întoarcere spre centru. Autobuzele luminate oferă o atmosferă plăcută pentru finalul zilei.",
+            "en": "A winter day in Den Helder can be spent warmly and safely using public transport. The morning starts at the well-heated station.\n\nAt midday, the bus takes you through the frosty landscape to Huisduinen. Enjoy the view of the icy dunes while sitting in the warmth.\n\nIn the afternoon, explore Fort Kijkduin and then return to the bus stop. The short distances minimize time spent in the biting cold.\n\nThe evening concludes with the return journey to the center. The brightly lit buses provide a cozy atmosphere for the end of the day."
+          },
+          "stops": [
+            {
+              "name": "Center Cluster: Station Arrival & Willemsoord",
+              "tip_5lang": {
+                "de": "Warten Sie im beheizten Bahnhofsgebäude auf Ihren Anschluss.",
+                "hu": "Várjon a fűtött állomásépületben a csatlakozásra.",
+                "ro": "Așteptați în clădirea încălzită a gării pentru legătură.",
+                "en": "Wait in the heated station building for your connection."
+              }
+            },
+            {
+              "name": "Center Cluster: Marine Museum",
+              "tip_5lang": {
+                "de": "Der Bus hält nah am Eingang, so entgeht man dem kalten Wind.",
+                "hu": "A busz közel áll meg a bejárathoz, így elkerülhető a hideg szél.",
+                "ro": "Autobuzul oprește aproape de intrare, evitând vântul rece.",
+                "en": "The bus stops near the entrance, avoiding the cold wind."
+              }
+            },
+            {
+              "name": "Center Cluster: Lunch & Lifeboat Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit im Bus, um die Hände aufzuwärmen.",
+                "hu": "Használja ki az időt a buszon a kezei felmelegítésére.",
+                "ro": "Folosiți timpul în autobuz pentru a vă încălzi mâinile.",
+                "en": "Use the time on the bus to warm up your hands."
+              }
+            },
+            {
+              "name": "Huisduinen Cluster: Fort Kijkduin",
+              "tip_5lang": {
+                "de": "Achten Sie auf die Abfahrtszeiten, da die Takte im Winter seltener sein können.",
+                "hu": "Figyeljen az indulási időkre, mert télen ritkábbak lehetnek a járatok.",
+                "ro": "Atenție la orele de plecare, intervalele pot fi mai mari iarna.",
+                "en": "Watch departure times as intervals may be longer in winter."
+              }
+            },
+            {
+              "name": "Huisduinen Cluster: Beach and Lighthouse",
+              "tip_5lang": {
+                "de": "Der Rückweg zur Haltestelle sollte zügig erfolgen.",
+                "hu": "A megállóhoz vezető utat tegye meg tempósan.",
+                "ro": "Drumul de întoarcere la stație ar trebui făcut rapid.",
+                "en": "The walk back to the stop should be done briskly."
+              }
+            },
+            {
+              "name": "Return to Center",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die beleuchtete Stadt im Winterabend.",
+                "hu": "Élvezze a kivilágított város látványát a téli estén.",
+                "ro": "Bucurați-vă de vederea orașului iluminat în seara de iarnă.",
+                "en": "Enjoy the view of the illuminated city in the winter evening."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Fahrplanänderungen wegen Frost oder Schneefall.",
+              "Die Busse sind im Winter meist sehr gut beheizt.",
+              "Tragen Sie warme Socken, da das Warten an Haltestellen die Füße auskühlt.",
+              "Nutzen Sie digitale Tickets, um langes Hantieren mit Bargeld in der Kälte zu vermeiden."
+            ],
+            "hu": [
+              "Ellenőrizze a menetrendi változásokat fagy vagy hóesés esetén.",
+              "A buszok télen általában nagyon jól fűtöttek.",
+              "Viseljen meleg zoknit, mert a megállókban való várakozás lehűti a lábat.",
+              "Használjon digitális jegyet, hogy elkerülje a készpénzzel való bajlódást a hidegben."
+            ],
+            "ro": [
+              "Verificați modificările de program în caz de îngheț sau zăpadă.",
+              "Autobuzele sunt de obicei foarte bine încălzite iarna.",
+              "Purtați șosete groase, așteptarea în stații răcește picioarele.",
+              "Folosiți bilete digitale pentru a evita manipularea banilor în frig."
+            ],
+            "en": [
+              "Check for schedule changes due to frost or snowfall.",
+              "Buses are usually very well heated in winter.",
+              "Wear warm socks, as waiting at stops can cool down your feet.",
+              "Use digital tickets to avoid fumbling with cash in the cold."
+            ]
+          }
+        }
       }
     }
   }

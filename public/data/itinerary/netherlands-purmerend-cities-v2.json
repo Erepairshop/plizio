@@ -362,6 +362,196 @@
           "Bring a reusable water bottle; there are public fountains available.",
           "Plan for extra time to have lunch at one of the many restaurants around the Koemarkt."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgen am Koemarkt unter Arkaden. Rathaus und Kirche bieten Schutz vor Schauern.\n\nMittags im Museum Purmerend Geschichte trocken entdecken.\n\nNachmittags Melkwegbrug und Leeghwater Park mit Schirm und Regenjacke erkunden.\n\nAbends gemütliches Essen am Koemarkt bei Regenprasseln genießen.",
+            "hu": "Reggel a Koemarkt kávézói alatt. A Városháza és a templom menedék az esőben.\n\nDélben a Purmerends Múzeumban fedezze fel a múltat szárazon.\n\nDélután Melkwegbrug híd és Leeghwater park esernyővel és vízhatlan ruhában.\n\nEste vacsora a főtéren, hallgatva az ablakon kopogó esőt.",
+            "ro": "Dimineața la Koemarkt sub arcade. Primăria și biserica oferă adăpost contra ploii.\n\nLa prânz, vizitați Muzeul Purmerends pentru o experiență culturală uscată.\n\nDupă-amiaza, explorați Melkwegbrug și parcul cu o umbrelă rezistentă.\n\nSeara, cină caldă la Koemarkt în sunetul relaxant al ploii.",
+            "en": "Morning at Koemarkt under awnings. City Hall and church provide rain shelter.\n\nMidday at Purmerends Museum to explore history away from the wet.\n\nAfternoon at Melkwegbrug and park with a sturdy umbrella and jacket.\n\nEvening dinner at the square, cozy while the rain falls outside."
+          },
+          "stops": [
+            {
+              "name": "Koemarkt (Cattle Market)",
+              "tip_5lang": {
+                "de": "Nutzen Sie Cafe-Markisen.",
+                "hu": "Használja a kávézók ereszeit.",
+                "ro": "Folosiți copertinele cafenelelor.",
+                "en": "Use the cafe awnings."
+              }
+            },
+            {
+              "name": "Stadhuis Purmerend (City Hall)",
+              "tip_5lang": {
+                "de": "Rövid, száraz megálló.",
+                "hu": "Rövid, száraz megálló.",
+                "ro": "Oprire scurtă și uscată.",
+                "en": "A quick, dry stop here."
+              }
+            },
+            {
+              "name": "St. Nicholas' Church",
+              "tip_5lang": {
+                "de": "Sicherer Schutz vor Regen.",
+                "hu": "Biztos menedék esőben.",
+                "ro": "Adăpost sigur contra ploii.",
+                "en": "Safe shelter from rain."
+              }
+            },
+            {
+              "name": "Purmerends Museum",
+              "tip_5lang": {
+                "de": "Ideal bei starkem Schauer.",
+                "hu": "Ideális nagy zápor idején.",
+                "ro": "Ideal în caz de aversă.",
+                "en": "Ideal during heavy showers."
+              }
+            },
+            {
+              "name": "Melkwegbrug (Milky Way Bridge)",
+              "tip_5lang": {
+                "de": "Vorsicht, Stufen sind nass.",
+                "hu": "Vigyázat, a lépcső nedves.",
+                "ro": "Atenție, treptele sunt ude.",
+                "en": "Careful, steps are wet."
+              }
+            },
+            {
+              "name": "Leeghwater Park",
+              "tip_5lang": {
+                "de": "Regenfeste Schuhe tragen.",
+                "hu": "Vízálló cipő ajánlott.",
+                "ro": "Purtați pantofi impermeabili.",
+                "en": "Wear waterproof shoes."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Windfeste Regenjacke einpacken.",
+              "Museum als Hauptzuflucht nutzen.",
+              "Auf Pfützen im Zentrum achten.",
+              "Stabiler Schirm ist Pflicht.",
+              "Mehr Zeit für Kaffee einplanen."
+            ],
+            "hu": [
+              "Szélálló esőkabát ajánlott.",
+              "A múzeum a legjobb menedék.",
+              "Ügyeljen a tócsákra a téren.",
+              "Erős esernyő kötelező.",
+              "Tervezzen be kávészüneteket."
+            ],
+            "ro": [
+              "Purtați o jachetă contra vântului.",
+              "Muzeul e cel mai bun adăpost.",
+              "Atenție la bălți în centru.",
+              "Umbrelă rezistentă e necesară.",
+              "Faceți pauze lungi de cafea."
+            ],
+            "en": [
+              "Pack a windproof raincoat.",
+              "Use the museum as main refuge.",
+              "Watch for puddles in the center.",
+              "A sturdy umbrella is a must.",
+              "Plan longer coffee breaks."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frostiger Morgen am Koemarkt mit heißem Kaffee. Kurzer Gang zum Rathaus belebt.\n\nMittags in der St. Nikolauskirche und im wohlig warmen Purmerends Museum aufwärmen.\n\nNachmittags Melkwegbrug im Winterlicht und frischer Spaziergang im Leeghwater Park.\n\nAbends beleuchtete Kanäle und Rückkehr zum gemütlichen, hellen Koemarkt.",
+            "hu": "Fagyos reggel a Koemarkton forró kávéval. Rövid séta a Városházáig.\n\nDélben a Szent Miklós-templom és a kellemesen fűtött múzeum várja.\n\nDélután Melkwegbrug a téli fényben és frissítő séta a Leeghwater parkban.\n\nEste kivilágított csatornák és visszatérés a barátságos, fényes főtérre.",
+            "ro": "Dimineață geroasă la Koemarkt cu o cafea fierbinte. Primăria e aproape.\n\nLa prânz, vizitați biserica și muzeul Purmerends pentru a vă încălzi.\n\nDupă-amiaza, Melkwegbrug în lumina iernii și plimbare în parcul înghețat.\n\nSeara, canale iluminate și revenire în piața centrală plină de viață.",
+            "en": "Frosty morning at Koemarkt with hot coffee. Brisk walk to the City Hall.\n\nMidday at St. Nicholas' Church and the warm, cozy Purmerends Museum.\n\nAfternoon Melkwegbrug in winter light and a fresh walk in Leeghwater Park.\n\nEvening illuminated canals and return to the bright, inviting Koemarkt."
+          },
+          "stops": [
+            {
+              "name": "Koemarkt (Cattle Market)",
+              "tip_5lang": {
+                "de": "Heißes Getränk zum Start.",
+                "hu": "Forró ital indításnak.",
+                "ro": "Băutură caldă la început.",
+                "en": "Hot drink to start with."
+              }
+            },
+            {
+              "name": "Stadhuis Purmerend (City Hall)",
+              "tip_5lang": {
+                "de": "Fassade im Winterlicht.",
+                "hu": "Homlokzat téli fényben.",
+                "ro": "Fațadă în lumină de iarnă.",
+                "en": "Facade in winter light."
+              }
+            },
+            {
+              "name": "St. Nicholas' Church",
+              "tip_5lang": {
+                "de": "Jacke drinnen anlassen.",
+                "hu": "Tartsa magán a kabátot.",
+                "ro": "Păstrați haina pe dvs.",
+                "en": "Keep your coat on inside."
+              }
+            },
+            {
+              "name": "Purmerends Museum",
+              "tip_5lang": {
+                "de": "Garderobe für Mäntel.",
+                "hu": "Ruhatár a kabátoknak.",
+                "ro": "Garderobă pentru haine.",
+                "en": "Cloakroom for big coats."
+              }
+            },
+            {
+              "name": "Melkwegbrug (Milky Way Bridge)",
+              "tip_5lang": {
+                "de": "Vorsicht vor Glätte.",
+                "hu": "Vigyázzon, csúszhat.",
+                "ro": "Atenție, poate fi polei.",
+                "en": "Watch out for ice."
+              }
+            },
+            {
+              "name": "Leeghwater Park",
+              "tip_5lang": {
+                "de": "Warm einpacken für Frost.",
+                "hu": "Öltözzön fel melegen.",
+                "ro": "Haine groase pentru ger.",
+                "en": "Dress warmly for frost."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schichtenweise kleiden.",
+              "Sonnenuntergang gegen 16:30.",
+              "Auf glatte Wege achten.",
+              "Regelmäßige Pausen drinnen.",
+              "Thermo-Socken tragen."
+            ],
+            "hu": [
+              "Réteges öltözködés fontos.",
+              "Naplemente 16:30 körül.",
+              "Ügyeljen a csúszós utakra.",
+              "Rendszeres benti pihenők.",
+              "Viseljen termo-zoknit."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi.",
+              "Apus în jur de ora 16:30.",
+              "Atenție la polei pe alei.",
+              "Pauze dese la căldură.",
+              "Purtați șosete termice."
+            ],
+            "en": [
+              "Dress in multiple layers.",
+              "Sunset around 16:30.",
+              "Watch for icy patches.",
+              "Take frequent indoor breaks.",
+              "Wear thermal socks."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -718,6 +908,196 @@
           "The Netherlands is flat, but a wind jacket is a good idea even on sunny days.",
           "Many paths in the polder are narrow; be mindful of farm traffic."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Vormittags am Koemarkt im Regenponcho starten. Kurzer Ritt zur Melkwegbrug.\n\nMittags durch den Leeghwater Park radeln, Baumkronen fangen Tropfen auf.\n\nNachmittags im Museum aufwärmen, während das Rad draußen sicher parkt.\n\nAbends Tour-Abschluss an der Kirche und gemütliches Essen im Zentrum.",
+            "hu": "Délelőtt indulás a Koemarktról esőponchóban. Rövid tekerés a Melkwegbrugig.\n\nDélben a Leeghwater park fái alatt, ahol a lombok védenek az esőtől.\n\nDélután melegedés a múzeumban, amíg a bringa kint vár a tárolóban.\n\nEste a túra zárása a templomnál, majd egy jól megérdemelt vacsora.",
+            "ro": "Dimineața porniți de la Koemarkt în poncho. Pedalați scurt până la Melkwegbrug.\n\nLa prânz, prin parcul Leeghwater, unde coroanele copacilor opresc ploaia.\n\nDupă-amiaza, vizită la muzeu pentru a vă usca și a vedea expozițiile.\n\nSeara, finalul turului la biserică și o cină caldă în orașul vechi.",
+            "en": "Morning start at Koemarkt in a poncho. Short ride to Melkwegbrug bridge.\n\nMidday cycling through Leeghwater Park, using trees as natural cover.\n\nAfternoon warming up at the museum while your bike stays parked outside.\n\nEvening wrap-up at the church followed by a hearty dinner downtown."
+          },
+          "stops": [
+            {
+              "name": "Bike Rental & Koemarkt",
+              "tip_5lang": {
+                "de": "Sattelschutz anfragen.",
+                "hu": "Kérjen nyeregvédőt.",
+                "ro": "Cereți protecție de șa.",
+                "en": "Ask for a saddle cover."
+              }
+            },
+            {
+              "name": "Melkwegbrug",
+              "tip_5lang": {
+                "de": "Vorsicht bei Metall.",
+                "hu": "Vigyázat a fémrészeken.",
+                "ro": "Atenție pe metal.",
+                "en": "Careful on metal parts."
+              }
+            },
+            {
+              "name": "Leeghwater Park",
+              "tip_5lang": {
+                "de": "Nur Asphalt nutzen.",
+                "hu": "Csak aszfalton hajtson.",
+                "ro": "Rămâneți pe asfalt.",
+                "en": "Stick to paved paths."
+              }
+            },
+            {
+              "name": "The Purmer Polder",
+              "tip_5lang": {
+                "de": "Wind ist hier stark.",
+                "hu": "Erős szélre számítson.",
+                "ro": "Vânt puternic aici.",
+                "en": "Expect strong winds."
+              }
+            },
+            {
+              "name": "Purmerends Museum",
+              "tip_5lang": {
+                "de": "Kleidung kurz trocknen.",
+                "hu": "Szárítsa meg ruháját.",
+                "ro": "Uscați-vă hainele.",
+                "en": "Let your gear dry off."
+              }
+            },
+            {
+              "name": "St. Nicholas' Church & Dinner",
+              "tip_5lang": {
+                "de": "Abendessen im Trockenen.",
+                "hu": "Vacsora száraz helyen.",
+                "ro": "Cină la adăpost.",
+                "en": "Dinner in a dry place."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Bremsweg bei Nässe prüfen.",
+              "Poncho über Rucksack.",
+              "Kurven langsam fahren.",
+              "Brille gegen Regen tragen.",
+              "Helle Kleidung nutzen."
+            ],
+            "hu": [
+              "Féktáv nagyobb nedvesen.",
+              "Ponchó a hátizsákra is.",
+              "Lassan vegye a kanyart.",
+              "Szemüveg eső ellen.",
+              "Világos ruha ajánlott."
+            ],
+            "ro": [
+              "Frânați din timp pe ud.",
+              "Poncho peste rucsac.",
+              "Virați lent pe pavaj.",
+              "Ochelari contra ploii.",
+              "Purtați haine deschise."
+            ],
+            "en": [
+              "Check brakes when wet.",
+              "Poncho over backpack.",
+              "Take turns slowly.",
+              "Wear glasses for rain.",
+              "Use bright clothing."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Wintermorgen mit Handschuhen am Koemarkt starten. Frische Luft zur Melkwegbrug.\n\nMittags Leeghwater Park und weiter in den frostigen Purmer Polder radeln.\n\nNachmittags im Museum Purmerend Hände und Füße bei der Ausstellung wärmen.\n\nAbends Rückkehr zur Kirche in der Dämmerung und festliches Essen im Ort.",
+            "hu": "Téli reggel kesztyűben a Koemarkton. Friss levegő a Melkwegbrug felé.\n\nDélben Leeghwater park, majd tekerés a fagyos Purmer Polderbe.\n\nDélután a múzeumban melegítse fel kezeit a kiállítás közben.\n\nEste visszatérés a templomhoz szürkületben és ünnepi vacsora.",
+            "ro": "Dimineață de iarnă cu mănuși. Aer curat spre Melkwegbrug.\n\nLa prânz, parcul Leeghwater și pedalat în Purmer Polder înghețat.\n\nDupă-amiaza, la muzeu vă încălziți mâinile și picioarele.\n\nSeara, revenire la biserică în amurg și o cină festivă.",
+            "en": "Winter morning with gloves at Koemarkt. Fresh air ride to Melkwegbrug.\n\nMidday Leeghwater Park and cycling into the frosty Purmer Polder.\n\nAfternoon at the museum to warm up while seeing the exhibits.\n\nEvening return to the church at dusk and a festive local dinner."
+          },
+          "stops": [
+            {
+              "name": "Bike Rental & Koemarkt",
+              "tip_5lang": {
+                "de": "Gute Reifen wählen.",
+                "hu": "Válasszon jó gumikat.",
+                "ro": "Alegeți pneuri bune.",
+                "en": "Choose good tires."
+              }
+            },
+            {
+              "name": "Melkwegbrug",
+              "tip_5lang": {
+                "de": "Eis auf Rampen möglich.",
+                "hu": "Jég lehet a rámpákon.",
+                "ro": "Gheață pe rampe.",
+                "en": "Ice possible on ramps."
+              }
+            },
+            {
+              "name": "Leeghwater Park",
+              "tip_5lang": {
+                "de": "Schattenwege gefroren.",
+                "hu": "Árnyékos utak jegesek.",
+                "ro": "Aleile umbrite sunt ude.",
+                "en": "Shady paths are icy."
+              }
+            },
+            {
+              "name": "The Purmer Polder",
+              "tip_5lang": {
+                "de": "Beißender kalter Wind.",
+                "hu": "Metszően hideg szél.",
+                "ro": "Vânt tăios și rece.",
+                "en": "Biting cold wind."
+              }
+            },
+            {
+              "name": "Purmerends Museum",
+              "tip_5lang": {
+                "de": "Hände gut aufwärmen.",
+                "hu": "Melegítse fel kezeit.",
+                "ro": "Încălziți-vă mâinile.",
+                "en": "Warm up your hands."
+              }
+            },
+            {
+              "name": "St. Nicholas' Church & Dinner",
+              "tip_5lang": {
+                "de": "Licht ab 16 Uhr an.",
+                "hu": "Lámpa 16 órától kell.",
+                "ro": "Luminile de la ora 16.",
+                "en": "Lights on from 16:00."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Dicke Handschuhe nutzen.",
+              "Licht früh einschalten.",
+              "Hektisches Lenken meiden.",
+              "Schlauchschal einpacken.",
+              "Grip der Reifen prüfen."
+            ],
+            "hu": [
+              "Vastag kesztyű kell.",
+              "Lámpát korán kapcsolni.",
+              "Hirtelen kormányzás tilos.",
+              "Csősálat viseljen.",
+              "Ellenőrizze a tapadást."
+            ],
+            "ro": [
+              "Mănuși groase neapărat.",
+              "Aprindeți farul devreme.",
+              "Evitați viraje bruște.",
+              "Fular tip tub util.",
+              "Verificați aderența."
+            ],
+            "en": [
+              "Use thick gloves.",
+              "Turn lights on early.",
+              "Avoid sudden steering.",
+              "Pack a neck warmer.",
+              "Check tire grip."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1098,6 +1478,214 @@
           "Use a navigation app to navigate between clusters.",
           "A car gives you the flexibility to stop at scenic spots outside the town."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regnerischer Start in der Garage am Koemarkt. Kurzer Sprint zum Rathaus.\n\nMittags St. Nikolauskirche und Museum besuchen, Auto bleibt trocken geparkt.\n\nNachmittags Fahrt durch den Polder, Aussicht entspannt vom Fahrersitz genießen.\n\nAbends Blick auf die Melkwegbrug vom Parkplatz aus, bevor es nach Hause geht.",
+            "hu": "Esős kezdés a főtéri garázsban. Gyors futás a Városházáig.\n\nDélben Szent Miklós-templom és múzeum, az autó szárazon várja.\n\nDélután autózás a polderben, kilátás kényelmesen az utastérből.\n\nEste pillantás a Melkwegbrugra a parkolóból, majd indulás haza.",
+            "ro": "Start ploios din parcarea Koemarkt. Sprint scurt spre Primărie.\n\nLa prânz, biserica și muzeul, mașina rămâne la uscat în garaj.\n\nDupă-amiaza, drum prin polder, priveliște din interiorul cald.\n\nSeara, vedere spre Melkwegbrug din parcare înainte de plecare.",
+            "en": "Rainy start in the Koemarkt garage. Quick dash to the City Hall.\n\nMidday visit to the church and museum; car stays dry in the garage.\n\nAfternoon drive through the polder, enjoy views from your seat.\n\nEvening view of Melkwegbrug from the parking spot before heading home."
+          },
+          "stops": [
+            {
+              "name": "Parking Garage & Koemarkt (Cluster A)",
+              "tip_5lang": {
+                "de": "Parkhaus im Zentrum.",
+                "hu": "Belvárosi parkolóház.",
+                "ro": "Garaj în centru.",
+                "en": "Central parking garage."
+              }
+            },
+            {
+              "name": "Stadhuis Purmerend (City Hall)",
+              "tip_5lang": {
+                "de": "Kurzer Weg vom Auto.",
+                "hu": "Rövid séta az autótól.",
+                "ro": "Drum scurt de la mașină.",
+                "en": "Short walk from car."
+              }
+            },
+            {
+              "name": "St. Nicholas' Church",
+              "tip_5lang": {
+                "de": "Pause bis Regen endet.",
+                "hu": "Pihenő az eső végéig.",
+                "ro": "Pauză până stă ploaia.",
+                "en": "Wait for rain to stop."
+              }
+            },
+            {
+              "name": "Purmerends Museum",
+              "tip_5lang": {
+                "de": "Schirm im Auto lassen.",
+                "hu": "Esernyő maradjon kint.",
+                "ro": "Lăsați umbrela în mașină.",
+                "en": "Leave umbrella in car."
+              }
+            },
+            {
+              "name": "Drive to the Polder & Viewpoint (Cluster B)",
+              "tip_5lang": {
+                "de": "Panoramablick im Auto.",
+                "hu": "Panoráma az autóból.",
+                "ro": "Panoramă din mașină.",
+                "en": "Panorama from car seat."
+              }
+            },
+            {
+              "name": "Leeghwater Park",
+              "tip_5lang": {
+                "de": "Nah am Eingang parken.",
+                "hu": "Parkoljon a bejáratnál.",
+                "ro": "Parcați lângă intrare.",
+                "en": "Park near the entry."
+              }
+            },
+            {
+              "name": "Melkwegbrug",
+              "tip_5lang": {
+                "de": "Blick auf Beleuchtung.",
+                "hu": "Kilátás a fényekre.",
+                "ro": "Vedere spre iluminat.",
+                "en": "View of the lights."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Zentrum-Parkhäuser nutzen.",
+              "Polder-Feldwege meiden.",
+              "Handtuch im Auto haben.",
+              "Sicht im Polder prüfen.",
+              "Scheibenwischer testen."
+            ],
+            "hu": [
+              "Használjon mélygarázst.",
+              "Kerülje a földutakat.",
+              "Legyen bent törölköző.",
+              "Ellenőrizze a kilátást.",
+              "Ablaktörlőket tesztelni."
+            ],
+            "ro": [
+              "Folosiți garajele.",
+              "Evitați drumuri de câmp.",
+              "Țineți un prosop în auto.",
+              "Verificați vizibilitatea.",
+              "Testați ștergătoarele."
+            ],
+            "en": [
+              "Use parking garages.",
+              "Avoid field paths.",
+              "Keep a towel in the car.",
+              "Check polder visibility.",
+              "Test your wipers."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Wintertag im geheizten Auto starten. Parken am Koemarkt für kurzen Rundgang.\n\nMittags Kirche und Museum besuchen, Kälte dank kurzen Wegen zum Auto egal.\n\nNachmittags Fahrt in den Purmer Polder, frostige Weite vom Beifahrersitz aus.\n\nAbends Melkwegbrug im Dunkeln und Rückkehr durch die beleuchtete Stadt.",
+            "hu": "Téli nap a fűtött autóban. Parkolás a főtérnél, rövid séta a központban.\n\nDélben templom és múzeum, a hideg nem akadály a közeli autó miatt.\n\nDélután autózás a polderben, fagyos táj az ablakon keresztül.\n\nEste Melkwegbrug sötétben, majd autózás a kivilágított városon át.",
+            "ro": "Zi de iarnă în mașina caldă. Parcare la Koemarkt, plimbare scurtă.\n\nLa prânz, biserica și muzeul, frigul e suportabil lângă mașină.\n\nAfter-amiaza, drum în polder, peisaj înghețat de după geam.\n\nSeara, Melkwegbrug pe întuneric și drum prin orașul luminat.",
+            "en": "Winter day in a heated car. Park at Koemarkt for a short walk around.\n\nMidday church and museum; the cold is fine with the car nearby.\n\nAfternoon drive to the polder, frosty views from your passenger seat.\n\nEvening Melkwegbrug in the dark and return through the lit-up city."
+          },
+          "stops": [
+            {
+              "name": "Parking Garage & Koemarkt (Cluster A)",
+              "tip_5lang": {
+                "de": "Schutz vor Frost.",
+                "hu": "Védelem a fagy ellen.",
+                "ro": "Protecție contra ger.",
+                "en": "Protection from frost."
+              }
+            },
+            {
+              "name": "Stadhuis Purmerend (City Hall)",
+              "tip_5lang": {
+                "de": "Glitzerndes Winterlicht.",
+                "hu": "Csillogó téli fények.",
+                "ro": "Lumină de iarnă.",
+                "en": "Sparkling winter light."
+              }
+            },
+            {
+              "name": "St. Nicholas' Church",
+              "tip_5lang": {
+                "de": "Kurze Stille genießen.",
+                "hu": "Élvezze a rövid csendet.",
+                "ro": "Bucurați-vă de liniște.",
+                "en": "Enjoy the brief silence."
+              }
+            },
+            {
+              "name": "Purmerends Museum",
+              "tip_5lang": {
+                "de": "Aufwärmen im Inneren.",
+                "hu": "Melegedjen fel bent.",
+                "ro": "Încălziți-vă în interior.",
+                "en": "Warm up inside."
+              }
+            },
+            {
+              "name": "Drive to the Polder & Viewpoint (Cluster B)",
+              "tip_5lang": {
+                "de": "Vorsicht bei Glätte.",
+                "hu": "Vigyázzon, csúszhat.",
+                "ro": "Atenție la polei.",
+                "en": "Watch for icy roads."
+              }
+            },
+            {
+              "name": "Leeghwater Park",
+              "tip_5lang": {
+                "de": "Kurze Winterstimmung.",
+                "hu": "Rövid téli hangulat.",
+                "ro": "Atmosferă de iarnă.",
+                "en": "Brief winter vibe."
+              }
+            },
+            {
+              "name": "Melkwegbrug",
+              "tip_5lang": {
+                "de": "Wunderschön beleuchtet.",
+                "hu": "Gyönyörű kivilágítás.",
+                "ro": "Iluminat superb.",
+                "en": "Beautifully lit up."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Frostschutz prüfen.",
+              "Eiskratzer bereithalten.",
+              "Polder bei Licht fahren.",
+              "Nebenwege meiden.",
+              "Sitzheizung genießen."
+            ],
+            "hu": [
+              "Fagyállót ellenőrizni.",
+              "Jégkaparó legyen kéznél.",
+              "Poldert világosban nézni.",
+              "Mellékutak jegesek.",
+              "Ülésfűtés használata."
+            ],
+            "ro": [
+              "Verificați antigelul.",
+              "Racleta la îndemână.",
+              "Polder pe lumină.",
+              "Evitați drumuri mici.",
+              "Încălzire în scaune."
+            ],
+            "en": [
+              "Check antifreeze.",
+              "Keep scraper ready.",
+              "Drive polder in light.",
+              "Avoid side paths.",
+              "Enjoy seat heaters."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1454,6 +2042,196 @@
           "Buses in the Netherlands are cashless; use an OV-chipkaart or contactless debit/credit card.",
           "Download a local public transport app for real-time information."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Vom Bahnhof Purmerend mit dem Bus zum Koemarkt, Arkaden halten trocken.\n\nMittags Rathaus und Museum, ÖPNV bietet Schutz vor dem Dauerregen.\n\nNachmittags Bus zum Leeghwater Park, Wartehäuschen nutzen für Umstieg.\n\nAbends Rückkehr ins Zentrum, spiegelnde Straßen vor der Heimfahrt mit dem Zug.",
+            "hu": "Állomástól busszal a Koemarktig, az ereszek szárazon tartják.\n\nDélben Városháza és múzeum, a busz védelmet ad a tartós esőben.\n\nDélután busz a parkhoz, használja a fedett várókat az átszálláshoz.\n\nEste központ, tükröződő utcák, majd vonattal irány haza.",
+            "ro": "De la gară cu autobuzul la Koemarkt, arcadele vă țin uscați.\n\nLa prânz, Primăria și muzeul, transportul vă apără de ploaie.\n\nDupă-amiaza, autobuz la park, stații acoperite pentru schimb.\n\nSeara, în centru, străzi lucioase înainte de drumul cu trenul.",
+            "en": "From station by bus to Koemarkt; awnings keep you dry there.\n\nMidday City Hall and museum; transit offers cover from steady rain.\n\nAfternoon bus to the park; use shelters while waiting for connections.\n\nEvening in the center, reflecting streets before the train ride home."
+          },
+          "stops": [
+            {
+              "name": "Train/Bus Station & Koemarkt (Cluster A)",
+              "tip_5lang": {
+                "de": "Im Gebäude warten.",
+                "hu": "Várjon az épületben.",
+                "ro": "Așteptați în clădire.",
+                "en": "Wait inside building."
+              }
+            },
+            {
+              "name": "Stadhuis Purmerend (City Hall)",
+              "tip_5lang": {
+                "de": "Haltestelle nahbei.",
+                "hu": "Megálló a közelben.",
+                "ro": "Stație foarte aproape.",
+                "en": "Stop is very close."
+              }
+            },
+            {
+              "name": "St. Nicholas' Church",
+              "tip_5lang": {
+                "de": "Schauer abwarten.",
+                "hu": "Várja meg az eső végét.",
+                "ro": "Așteptați înăuntru.",
+                "en": "Wait out the shower."
+              }
+            },
+            {
+              "name": "Purmerends Museum",
+              "tip_5lang": {
+                "de": "Viele Linien halten hier.",
+                "hu": "Sok járat áll meg itt.",
+                "ro": "Multe linii opresc aici.",
+                "en": "Many lines stop here."
+              }
+            },
+            {
+              "name": "Bus to Leeghwaterpark (Cluster B)",
+              "tip_5lang": {
+                "de": "App für Echtzeit nutzen.",
+                "hu": "Használja az appot.",
+                "ro": "Folosiți aplicația.",
+                "en": "Use the transit app."
+              }
+            },
+            {
+              "name": "Melkwegbrug",
+              "tip_5lang": {
+                "de": "Guter Blick aus Haltestelle.",
+                "hu": "Kilátás a megállóból.",
+                "ro": "Vedere din stație.",
+                "en": "View from the stop."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "OV-Chipkaart nutzen.",
+              "Überdachte Haltestellen.",
+              "Route im Bus planen.",
+              "Vorsicht vor Spritzwasser.",
+              "Kioske am Bahnhof nutzen."
+            ],
+            "hu": [
+              "OV-Chipkaart ajánlott.",
+              "Fedett buszmegállók.",
+              "Tervezés a buszon.",
+              "Vigyázat, a víz felcsaphat.",
+              "Büfék az állomáson."
+            ],
+            "ro": [
+              "Card OV-Chipkaart.",
+              "Stații acoperite.",
+              "Planificați în autobuz.",
+              "Atenție la stropi.",
+              "Chioșcuri în gară."
+            ],
+            "en": [
+              "Use OV-chipkaart.",
+              "Covered bus stops.",
+              "Plan route on bus.",
+              "Watch for splashes.",
+              "Use station kiosks."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Wintermorgen am Bahnhof, warmer Bus zum Koemarkt und glitzernde Kanäle.\n\nMittags Kirche und Museum, geheizter ÖPNV macht die Kälte erträglich.\n\nNachmittags Bus zum Leeghwater Park, Stille genießen und schnell zurück ins Warme.\n\nAbends frühe Lichter der Stadt und festliche Busfahrt zurück zum Zug.",
+            "hu": "Téli reggel az állomáson, meleg busz a főtérig és csillogó csatornák.\n\nDélben templom és múzeum, a fűtött buszok elviselhetővé teszik a napot.\n\nDélután busz a parkhoz, élvezze a csendet, majd gyorsan vissza a melegbe.\n\nEste korai városi fények és ünnepi buszozás vissza a vonathoz.",
+            "ro": "Dimineață de iarnă la gară, autobuz cald spre Koemarkt și canale sclipitoare.\n\nLa prânz, biserica și muzeul, transportul încălzit face gerul suportabil.\n\nDupă-amiaza, autobuz la park, liniște și revenire rapidă la căldură.\n\nSeara, lumini timpurii și drum festiv cu autobuzul spre gară.",
+            "en": "Winter morning at the station, warm bus to Koemarkt and sparkling canals.\n\nMidday church and museum; heated transit makes the cold manageable.\n\nAfternoon bus to the park; enjoy silence then get back into the warmth.\n\nEvening early city lights and a festive bus ride back to the train."
+          },
+          "stops": [
+            {
+              "name": "Train/Bus Station & Koemarkt (Cluster A)",
+              "tip_5lang": {
+                "de": "Beheizte Wartebereiche.",
+                "hu": "Fűtött várótermek.",
+                "ro": "Săli de așteptare calde.",
+                "en": "Heated waiting areas."
+              }
+            },
+            {
+              "name": "Stadhuis Purmerend (City Hall)",
+              "tip_5lang": {
+                "de": "Kurzer Weg zum Bus.",
+                "hu": "Rövid séta a buszig.",
+                "ro": "Drum scurt la bus.",
+                "en": "Short walk to bus."
+              }
+            },
+            {
+              "name": "St. Nicholas' Church",
+              "tip_5lang": {
+                "de": "Handschuhe anlassen.",
+                "hu": "Kesztyű maradjon kézen.",
+                "ro": "Păstrați mănușile.",
+                "en": "Keep gloves on."
+              }
+            },
+            {
+              "name": "Purmerends Museum",
+              "tip_5lang": {
+                "de": "Hervorragend beheizt.",
+                "hu": "Kiválóan fűtött.",
+                "ro": "Foarte bine încălzit.",
+                "en": "Well-heated inside."
+              }
+            },
+            {
+              "name": "Bus to Leeghwaterpark (Cluster B)",
+              "tip_5lang": {
+                "de": "Winter-Fahrplan prüfen.",
+                "hu": "Téli menetrend ellenőrzése.",
+                "ro": "Verificați orarul.",
+                "en": "Check winter schedule."
+              }
+            },
+            {
+              "name": "Melkwegbrug",
+              "tip_5lang": {
+                "de": "Festliche Beleuchtung.",
+                "hu": "Ünnepi kivilágítás.",
+                "ro": "Iluminat festiv.",
+                "en": "Festive lighting."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Pufferzeiten einplanen.",
+              "In Cafés warten.",
+              "Busse sind gut beheizt.",
+              "Eis an Stufen beachten.",
+              "Fotos aus dem Bus."
+            ],
+            "hu": [
+              "Tervezzen ráhagyással.",
+              "Kávézóban várjon.",
+              "Jól fűtött buszok.",
+              "Jeges lépcsők veszélye.",
+              "Fotók a buszról."
+            ],
+            "ro": [
+              "Timp suplimentar.",
+              "Așteptați în cafe.",
+              "Busuri încălzite.",
+              "Gheață pe trepte.",
+              "Poze din autobuz."
+            ],
+            "en": [
+              "Allow extra time.",
+              "Wait in cafes.",
+              "Buses are well-heated.",
+              "Ice on the steps.",
+              "Photos from bus."
+            ]
+          }
+        }
       }
     }
   }

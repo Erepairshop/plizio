@@ -362,6 +362,188 @@
           "Check the opening hours of the Heimatmuseum as they can vary.",
           "Most shops and cafes accept card payments, but some cash is always good to have."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag trotz Regen auf dem Ernst-Feigenwinter-Platz, geschützt unter den Arkaden. Die St. Nikolaus Kirche und das Heimatmuseum bieten ideale trockene Rückzugsorte am Vormittag. Ein Spaziergang durch den Birs-Park erfordert gute Regenbekleidung, wirkt aber mystisch im Nebel. Den Tag lassen wir beim Tierpark ausklingen, wo einige Unterstände Schutz bieten.",
+            "hu": "Kezdje a napot az Ernst-Feigenwinter téren, az árkádok alatt védve az esőtől. A Szent Miklós-templom és a Helytörténeti Múzeum tökéletes száraz menedéket nyújt délelőtt. A Birs Parkban tett séta vízálló öltözetet igényel, de a ködös táj különleges látványt nyújt. A napot a Vadasparkban zárjuk, ahol több fedett rész is található a kifutók mellett.",
+            "ro": "Începeți ziua în Piața Ernst-Feigenwinter, protejați sub arcade de ploaie. Biserica Sf. Nicolae și Muzeul de Istorie Locală oferă refugii uscate ideale dimineața. O plimbare prin Parcul Birs necesită echipament impermeabil, dar peisajul cețos este fascinant. Încheiem ziua la parcul de animale, unde există mai multe adăposturi acoperite lângă țarcuri.",
+            "en": "Start your day at Ernst-Feigenwinter Square, staying under the arcades to avoid the rain. St. Nicholas Church and the Local History Museum provide perfect dry refuges during the morning. A walk through Birs Park requires waterproof gear, but the misty scenery is quite mystical. End the day at the Animal Park, where several shelters offer protection from the downpour."
+          },
+          "stops": [
+            {
+              "name": "Ernst-Feigenwinter Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Gebäudevorsprünge als Unterstand.",
+                "hu": "Használja az épületek ereszeit eső elleni védelemként.",
+                "ro": "Folosiți arcadele clădirilor pentru a vă adăposti de ploaie.",
+                "en": "Use the building overhangs as a shelter from the rain."
+              }
+            },
+            {
+              "name": "St. Nicholas Church",
+              "tip_5lang": {
+                "de": "Ein ruhiger, trockener Ort zum Innehalten.",
+                "hu": "Csendes, száraz hely az elmélyüléshez az eső elől.",
+                "ro": "Un loc liniștit și uscat pentru un moment de respiro.",
+                "en": "A quiet, dry place to take a break from the weather."
+              }
+            },
+            {
+              "name": "Reinach Local History Museum",
+              "tip_5lang": {
+                "de": "Idealer Ort, um einen Regenschauer auszusitzen.",
+                "hu": "Ideális hely egy komolyabb zápor átvészelésére.",
+                "ro": "Locul ideal pentru a aștepta trecerea unei averse.",
+                "en": "The perfect spot to wait out a heavy rain shower."
+              }
+            },
+            {
+              "name": "Bürgerhaus Reinach (Community Hall)",
+              "tip_5lang": {
+                "de": "Kurzer Stopp im überdachten Eingangsbereich.",
+                "hu": "Rövid megálló a fedett bejárati résznél.",
+                "ro": "Scurtă oprire în zona de intrare acoperită.",
+                "en": "A brief stop in the covered entrance area."
+              }
+            },
+            {
+              "name": "Birs Park",
+              "tip_5lang": {
+                "de": "Vorsicht auf den unbefestigten Wegen (Matschgefahr).",
+                "hu": "Vigyázat a burkolatlan utakon a sár miatt.",
+                "ro": "Atenție pe potecile neasfaltate din cauza noroiului.",
+                "en": "Be careful on unpaved paths due to muddy conditions."
+              }
+            },
+            {
+              "name": "Reinach Animal Park",
+              "tip_5lang": {
+                "de": "Die Tiere sind oft in ihren überdachten Ställen.",
+                "hu": "Az állatok gyakran a fedett istállókba húzódnak.",
+                "ro": "Animalele sunt adesea în adăposturile lor acoperite.",
+                "en": "Animals are often found in their covered shelters."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Regenschirm ist wegen der Windböen im Birstal ratsam.",
+              "Das Museum bietet kostenlose Schließfächer für nasse Mäntel.",
+              "Viele Cafés rund um den Hauptplatz bieten gemütliche Innenplätze.",
+              "Die Gehwege im Birs Park können bei Nässe rutschig sein."
+            ],
+            "hu": [
+              "A Birs-völgyben tapasztalható széllökések miatt erős esernyő ajánlott.",
+              "A múzeumban ingyenes ruhatár van a vizes kabátoknak.",
+              "A főtér körüli kávézók barátságos belső terekkel várják.",
+              "A Birs Park gyalogútjai nedvesen csúszóssá válhatnak."
+            ],
+            "ro": [
+              "Se recomandă o umbrelă rezistentă din cauza vântului de pe Valea Birs.",
+              "Muzeul oferă dulapuri gratuite pentru hainele umede.",
+              "Multe cafenele din jurul pieței principale au locuri primitoare în interior.",
+              "Potecile din Parcul Birs pot deveni alunecoase când sunt ude."
+            ],
+            "en": [
+              "A sturdy umbrella is recommended due to wind gusts in the Birs valley.",
+              "The museum offers free lockers for wet coats and bags.",
+              "Many cafes around the main square provide cozy indoor seating.",
+              "Footpaths in Birs Park can be slippery when wet."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie das winterliche Reinach beim morgendlichen Rundgang über den Ernst-Feigenwinter-Platz. Die beheizte St. Nikolaus Kirche und das Museum bieten angenehme Wärme an kalten Tagen. Mittags spazieren wir durch den oft frostig-schönen Birs-Park. Da es bereits gegen 16:30 Uhr dunkel wird, bietet der Tierpark in der Dämmerung eine besondere Atmosphäre vor der Rückkehr.",
+            "hu": "Ismerje meg a téli Reinach-ot a reggeli séta során az Ernst-Feigenwinter téren. A fűtött Szent Miklós-templom és a múzeum kellemes meleget kínál a hideg napokon. Délben a gyakran zúzmarás Birs Parkban kalandozunk. Mivel 16:30 körül sötétedik, a Vadaspark a szürkületben különleges hangulatot áraszt a hazatérés előtt.",
+            "ro": "Descoperiți Reinach-ul de iarnă în timpul unei plimbări matinale prin Piața Ernst-Feigenwinter. Biserica Sf. Nicolae încălzită și muzeul oferă o căldură plăcută în zilele reci. La prânz explorăm Parcul Birs, adesea acoperit de chiciură. Deoarece se întunecă în jurul orei 16:30, parcul de animale oferă o atmosferă deosebită la amurg.",
+            "en": "Experience winter in Reinach with a morning stroll across Ernst-Feigenwinter Square. The heated St. Nicholas Church and the museum offer pleasant warmth on cold days. At noon, we wander through the frost-covered Birs Park. Since it gets dark around 16:30, the Animal Park provides a unique atmosphere at dusk before heading back."
+          },
+          "stops": [
+            {
+              "name": "Ernst-Feigenwinter Square",
+              "tip_5lang": {
+                "de": "Vorsicht bei Kopfsteinpflaster (Glatteisgefahr).",
+                "hu": "Vigyázat a macskaköveken a lefagyások miatt.",
+                "ro": "Atenție pe pavajul de piatră din cauza poleiului.",
+                "en": "Be careful on the cobblestones due to potential ice."
+              }
+            },
+            {
+              "name": "St. Nicholas Church",
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille im beheizten Innenraum.",
+                "hu": "Élvezze a csendet a fűtött belső térben.",
+                "ro": "Bucurați-vă de liniște în interiorul încălzit.",
+                "en": "Enjoy the silence in the heated interior."
+              }
+            },
+            {
+              "name": "Reinach Local History Museum",
+              "tip_5lang": {
+                "de": "Perfekter Ort zum Aufwärmen zwischen den Etappen.",
+                "hu": "Tökéletes hely a felmelegedésre a szakaszok között.",
+                "ro": "Locul perfect pentru a vă încălzi între etape.",
+                "en": "The perfect place to warm up between tour segments."
+              }
+            },
+            {
+              "name": "Bürgerhaus Reinach (Community Hall)",
+              "tip_5lang": {
+                "de": "Beachten Sie die weihnachtliche Dekoration im Winter.",
+                "hu": "Figyelje meg az ünnepi dekorációt télen.",
+                "ro": "Observați decorațiunile festive de iarnă.",
+                "en": "Look out for the festive winter decorations."
+              }
+            },
+            {
+              "name": "Birs Park",
+              "tip_5lang": {
+                "de": "Festes Schuhwerk für gefrorene Wege erforderlich.",
+                "hu": "Zárt, meleg cipő ajánlott a fagyott utakhoz.",
+                "ro": "Încălțăminte solidă necesară pentru drumurile înghețate.",
+                "en": "Sturdy footwear required for frozen paths."
+              }
+            },
+            {
+              "name": "Reinach Animal Park",
+              "tip_5lang": {
+                "de": "Frühe Dämmerung beachten, Lampen sind vorhanden.",
+                "hu": "A korai sötétedés miatt a lámpák már égni fognak.",
+                "ro": "Atenție la amurgul timpuriu, există iluminat stradal.",
+                "en": "Note the early sunset; street lamps will be on."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Sonnenuntergang ist im Winter bereits gegen 16:45 Uhr.",
+              "Tragen Sie Thermokleidung für den längeren Aufenthalt im Birs Park.",
+              "Heiße Getränke gibt es in den Bäckereien am Dorfplatz.",
+              "Die Wege im Tierpark werden bei Schnee nur teilweise geräumt."
+            ],
+            "hu": [
+              "Télen a naplemente már 16:45 körül bekövetkezik.",
+              "A Birs Park-beli hosszabb tartózkodáshoz viseljen réteges öltözetet.",
+              "Meleg italok kaphatók a falusi téri pékségekben.",
+              "A vadaspark útjait hó esetén csak részben takarítják."
+            ],
+            "ro": [
+              "Apusul soarelui are loc deja în jurul orei 16:45 iarna.",
+              "Purtați haine termice pentru șederea prelungită în Parcul Birs.",
+              "Băuturi calde sunt disponibile la brutăriile din piața satului.",
+              "Drumurile din parcul de animale sunt deszăpezite doar parțial."
+            ],
+            "en": [
+              "Sunset in winter is already around 16:45.",
+              "Wear thermal clothing for the extended stay in Birs Park.",
+              "Hot drinks are available at the bakeries near the village square.",
+              "Animal park paths are only partially cleared in case of snow."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -718,6 +900,188 @@
           "Use the well-developed cycle paths, especially along the Birs river.",
           "Allow enough time for climbs, even if the area is relatively flat."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour durch Reinach bei Regen beginnt am Dorfplatz. Wir fahren vorsichtig zur Mischeli-Kirche und weiter zum Birs-Park, wo asphaltierte Wege bevorzugt werden sollten. Das Heimatmuseum bietet eine längere Pause im Trockenen. Der Tierpark und der Leywald bilden den Abschluss – achten Sie hier besonders auf rutschiges Laub und Pfützen auf den Waldwegen.",
+            "hu": "Az esős reinachi kerékpártúra a falu főteréről indul. Óvatosan tekerünk a Mischeli-templomhoz, majd a Birs Parkba, ahol az aszfaltozott utakat preferáljuk. A Helytörténeti Múzeum hosszabb száraz pihenőt kínál. A Vadaspark és a Leywald erdő zárja a kört – itt különösen figyeljen a csúszós levelekre és tócsákra.",
+            "ro": "Turul cu bicicleta prin Reinach pe ploaie începe în piața satului. Pedalăm cu atenție spre Biserica Mischeli și apoi spre Parcul Birs, unde ar trebui preferate drumurile asfaltate. Muzeul de Istorie Locală oferă o pauză lungă la uscat. Parcul de animale și pădurea Leywald încheie traseul – atenție la frunzele alunecoase.",
+            "en": "A rainy bike tour through Reinach starts at the village square. We cycle carefully to Mischeli Church and on to Birs Park, where paved paths should be preferred. The Local History Museum offers a long dry break. The Animal Park and Leywald forest complete the circuit – watch out for slippery leaves and puddles on forest paths."
+          },
+          "stops": [
+            {
+              "name": "Ernst-Feigenwinter Square",
+              "tip_5lang": {
+                "de": "Vorsicht beim Losfahren auf nassem Pflaster.",
+                "hu": "Induláskor vigyázzon a nedves díszburkolaton.",
+                "ro": "Atenție la plecare pe pavajul umed.",
+                "en": "Be careful when starting off on wet pavement."
+              }
+            },
+            {
+              "name": "Mischeli Church",
+              "tip_5lang": {
+                "de": "Fahrradständer direkt vor dem Eingang vorhanden.",
+                "hu": "Kerékpártárolók közvetlenül a bejárat előtt találhatók.",
+                "ro": "Suporturi de biciclete disponibile chiar în fața intrării.",
+                "en": "Bicycle racks are available right in front of the entrance."
+              }
+            },
+            {
+              "name": "Birs Park",
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den asphaltierten Hauptwegen.",
+                "hu": "Maradjon az aszfaltozott főutakon.",
+                "ro": "Rămâneți pe drumurile principale asfaltate.",
+                "en": "Stick to the main paved paths to avoid mud."
+              }
+            },
+            {
+              "name": "Reinach Local History Museum",
+              "tip_5lang": {
+                "de": "Sichere Abstellmöglichkeiten im Innenhof.",
+                "hu": "Biztonságos tárolási lehetőség a belső udvarban.",
+                "ro": "Posibilități de parcare sigure în curtea interioară.",
+                "en": "Safe parking options available in the inner courtyard."
+              }
+            },
+            {
+              "name": "Reinach Animal Park",
+              "tip_5lang": {
+                "de": "Vorsicht vor tiefen Pfützen bei der Einfahrt.",
+                "hu": "Vigyázzon a mély tócsákra a bejáratnál.",
+                "ro": "Atenție la bălțile adânci de la intrare.",
+                "en": "Watch out for deep puddles at the entrance."
+              }
+            },
+            {
+              "name": "Leywald Forest",
+              "tip_5lang": {
+                "de": "Rutschgefahr durch nasses Laub auf den Wegen.",
+                "hu": "A nedves levelek miatt az utak csúszóssá válnak.",
+                "ro": "Pericol de alunecare din cauza frunzelor ude.",
+                "en": "Risk of slipping due to wet leaves on the paths."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche am Fahrrad sind bei diesem Wetter unverzichtbar.",
+              "Vermeiden Sie abruptes Bremsen auf den Tramschienen im Ort.",
+              "Eine wasserdichte Handyhalterung hilft bei der Navigation.",
+              "Prüfen Sie Ihre Bremsbeläge vor der Fahrt durch den nassen Wald."
+            ],
+            "hu": [
+              "Sárvédő használata elengedhetetlen ilyen időben.",
+              "Kerülje a hirtelen fékezést a faluban lévő villamossíneken.",
+              "A vízálló telefontartó sokat segít a navigációban.",
+              "Ellenőrizze a fékbetéteket a nedves erdei tekerés előtt."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt indispensabile pe o astfel de vreme.",
+              "Evitați frânarea bruscă pe șinele de tramvai din localitate.",
+              "Un suport de telefon impermeabil ajută la navigare.",
+              "Verificați plăcuțele de frână înainte de cursa prin pădurea umedă."
+            ],
+            "en": [
+              "Mudguards on your bike are essential in this weather.",
+              "Avoid abrupt braking on the tram tracks in town.",
+              "A waterproof phone mount is very helpful for navigation.",
+              "Check your brake pads before riding through the wet forest."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Radtour führt uns durch die klare Luft von Reinach. Start am Dorfplatz, dann über die Mischeli-Siedlung zum frostigen Birs-Park. Ein Besuch im Heimatmuseum dient als wichtige Aufwärmpause. Nach dem Tierpark geht es in den Leywald, wo die tiefstehende Wintersonne wunderschöne Lichtspiele zwischen den kahlen Bäumen erzeugt, bevor die Dunkelheit einsetzt.",
+            "hu": "A téli kerékpártúra a reinachi tiszta levegőn vezet keresztül. Indulás a falutérről, majd a Mischeli lakótelepen át a deres Birs Parkba. A Helytörténeti Múzeum fontos melegedőpontként szolgál. A Vadaspark után a Leywald erdő következik, ahol az alacsonyan járó téli nap csodás fényeket vet a kopár fák közé a sötétedés előtt.",
+            "ro": "Turul de iarnă cu bicicleta ne poartă prin aerul curat din Reinach. Plecare din piața satului, apoi prin cartierul Mischeli spre Parcul Birs înghețat. Vizita la muzeu servește ca o pauză importantă de încălzire. După parcul de animale mergem în pădurea Leywald, unde soarele de iarnă creează jocuri de lumină superbe.",
+            "en": "The winter bike tour takes us through the crisp air of Reinach. Start at the village square, then via the Mischeli area to the frosty Birs Park. A visit to the Local History Museum serves as a crucial warming break. After the Animal Park, we head into Leywald, where the low winter sun creates beautiful light effects among the bare trees."
+          },
+          "stops": [
+            {
+              "name": "Ernst-Feigenwinter Square",
+              "tip_5lang": {
+                "de": "Reifendruck für mehr Grip auf hartem Boden prüfen.",
+                "hu": "Ellenőrizze a guminyomást a tapadás érdekében.",
+                "ro": "Verificați presiunea în anvelope pentru aderență.",
+                "en": "Check tire pressure for better grip on hard ground."
+              }
+            },
+            {
+              "name": "Mischeli Church",
+              "tip_5lang": {
+                "de": "Kurzer Stopp, um die gefrorene Architektur zu bewundern.",
+                "hu": "Rövid megálló a fagyos építészet megcsodálására.",
+                "ro": "Scurtă oprire pentru a admira arhitectura înghețată.",
+                "en": "Short stop to admire the frozen architecture."
+              }
+            },
+            {
+              "name": "Birs Park",
+              "tip_5lang": {
+                "de": "Vorsicht vor Eisplatten in schattigen Abschnitten.",
+                "hu": "Vigyázzon a jégfoltokra az árnyékos szakaszokon.",
+                "ro": "Atenție la plăcile de gheață în porțiunile umbrite.",
+                "en": "Watch out for ice patches in shaded sections."
+              }
+            },
+            {
+              "name": "Reinach Local History Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit zum Aufwärmen der Hände.",
+                "hu": "Használja ki az időt a kezei felmelegítésére.",
+                "ro": "Folosiți timpul pentru a vă încălzi mâinile.",
+                "en": "Use the time to warm up your hands indoors."
+              }
+            },
+            {
+              "name": "Reinach Animal Park",
+              "tip_5lang": {
+                "de": "Kürzere Aufenthaltsdauer wegen der Kälte einplanen.",
+                "hu": "A hideg miatt tervezzen rövidebb tartózkodást.",
+                "ro": "Planificați o durată mai scurtă din cauza frigului.",
+                "en": "Plan for a shorter stay due to the cold."
+              }
+            },
+            {
+              "name": "Leywald Forest",
+              "tip_5lang": {
+                "de": "Frühe Rückkehr planen, Beleuchtung einschalten.",
+                "hu": "Tervezzen korai visszatérést, kapcsolja be a lámpákat.",
+                "ro": "Planificați întoarcerea devreme, porniți luminile.",
+                "en": "Plan an early return and turn on your lights."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Funktionierende Vorder- und Rücklichter sind bei früher Dämmerung Pflicht.",
+              "Tragen Sie winddichte Handschuhe und eine Mütze unter dem Helm.",
+              "Achten Sie auf Streusalz, das die Kette angreifen kann (nachher reinigen).",
+              "Die Waldwege können bei Frost sehr hart und uneben sein."
+            ],
+            "hu": [
+              "A korai sötétedés miatt a működő lámpák kötelezőek.",
+              "Viseljen szélálló kesztyűt és sapkát a sisak alatt.",
+              "Ügyeljen az útszóró sóra, amely károsíthatja a láncot (tisztítás ajánlott).",
+              "Az erdei utak fagyban nagyon kemények és egyenetlenek lehetnek."
+            ],
+            "ro": [
+              "Luminile funcționale sunt obligatorii din cauza amurgului timpuriu.",
+              "Purtați mănuși rezistente la vânt și o căciulă sub cască.",
+              "Atenție la sarea de pe drum care poate ataca lanțul (curățați după).",
+              "Drumurile forestiere pot fi foarte dure și denivelate pe ger."
+            ],
+            "en": [
+              "Working front and rear lights are mandatory due to early dusk.",
+              "Wear windproof gloves and a thin cap under your helmet.",
+              "Watch out for road salt which can damage the chain (clean after).",
+              "Forest paths can be very hard and uneven during frost."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1098,6 +1462,206 @@
           "Obey the speed limits, especially in residential areas.",
           "A GPS is essential for navigating between the clusters."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Autotour durch Reinach bei Regen ist komfortabel. Wir starten am Waldparkplatz Leywald und besuchen den Tierpark, wobei der Wagen als trockene Basis dient. Danach parken wir zentral im Dorf, um den Ernst-Feigenwinter-Platz und die St. Nikolaus Kirche zu erkunden. Der Abschluss bildet der Birs-Park, wo man bei starkem Regen auch gut aus dem Auto die Natur beobachten kann.",
+            "hu": "Az esős reinachi autós túra kényelmes megoldás. A Leywald erdei parkolóból indulunk és a Vadasparkot látogatjuk meg, az autót bázisként használva. Ezután a faluközpontban parkolunk, hogy felfedezzük az Ernst-Feigenwinter teret és a templomot. A napot a Birs Parknál zárjuk, ahol heves esőben az autóból is élvezhető a táj.",
+            "ro": "Turul cu mașina prin Reinach pe ploaie este confortabil. Pornim din parcarea pădurii Leywald și vizităm parcul de animale, folosind mașina ca bază uscată. Apoi parcăm central în sat pentru a explora Piața Ernst-Feigenwinter și biserica. Încheiem la Parcul Birs, unde natura poate fi observată și din mașină în caz de ploaie torențială.",
+            "en": "The car tour through Reinach in the rain is a comfortable option. We start at the Leywald forest parking and visit the Animal Park, using the car as a dry base. Then we park centrally in the village to explore Ernst-Feigenwinter Square and the church. The finale is at Birs Park, where you can watch nature from the car if it rains heavily."
+          },
+          "stops": [
+            {
+              "name": "Leywald Parking",
+              "tip_5lang": {
+                "de": "Parkplatz unter Bäumen bietet etwas Regenschutz.",
+                "hu": "A fák alatti parkoló némi védelmet nyújt az eső ellen.",
+                "ro": "Parcarea sub copaci oferă puțină protecție contra ploii.",
+                "en": "Parking under trees offers some rain protection."
+              }
+            },
+            {
+              "name": "Leywald Forest",
+              "tip_5lang": {
+                "de": "Kurzer Abstecher, da die Waldwege sehr matschig sind.",
+                "hu": "Csak rövid kitérő ajánlott a sáros erdei utak miatt.",
+                "ro": "Scurtă incursiune, deoarece drumurile sunt noroioase.",
+                "en": "Keep it short as the forest paths are very muddy."
+              }
+            },
+            {
+              "name": "Reinach Animal Park",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um trocken zu bleiben.",
+                "hu": "Parkoljon a bejárathoz közel, hogy száraz maradjon.",
+                "ro": "Parcați aproape de intrare pentru a rămâne uscați.",
+                "en": "Park close to the entrance to stay dry."
+              }
+            },
+            {
+              "name": "Center Parking",
+              "tip_5lang": {
+                "de": "Tiefgarage im Zentrum nutzen (trockener Ausstieg).",
+                "hu": "Használja a központi mélygarázst a száraz kiszálláshoz.",
+                "ro": "Folosiți parcarea subterană centrală.",
+                "en": "Use the underground center parking for a dry exit."
+              }
+            },
+            {
+              "name": "Ernst-Feigenwinter Square",
+              "tip_5lang": {
+                "de": "Kurze Wege zu den umliegenden Geschäften.",
+                "hu": "Rövid séta a környező üzletekig.",
+                "ro": "Distanțe scurte până la magazinele din jur.",
+                "en": "Short walking distances to surrounding shops."
+              }
+            },
+            {
+              "name": "St. Nicholas Church",
+              "tip_5lang": {
+                "de": "Der Kircheneingang ist nur wenige Meter vom Parkplatz.",
+                "hu": "A templombejárat csak pár méterre van a parkolótól.",
+                "ro": "Intrarea în biserică este la doar câțiva metri de parcare.",
+                "en": "The church entrance is just a few meters from parking."
+              }
+            },
+            {
+              "name": "Birs Park",
+              "tip_5lang": {
+                "de": "Parkplätze mit guter Sicht auf den Fluss Birs.",
+                "hu": "Parkolóhelyek jó rálátással a Birs folyóra.",
+                "ro": "Locuri de parcare cu vizibilitate bună spre râul Birs.",
+                "en": "Parking spots with a good view of the Birs river."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Parkhäuser im Zentrum, um nicht im Regen laufen zu müssen.",
+              "Achten Sie auf beschlagene Scheiben bei hoher Luftfeuchtigkeit.",
+              "Fahren Sie in den engen Dorfstraßen besonders vorsichtig bei Nässe.",
+              "Ein Regenschirm sollte immer griffbereit im Fahrgastraum liegen."
+            ],
+            "hu": [
+              "Használja a központi parkolóházakat, hogy elkerülje az ázást.",
+              "Ügyeljen a párásodó szélvédőkre a magas páratartalom miatt.",
+              "A szűk falusi utcákban vezessen óvatosan a nedves úton.",
+              "Az esernyőt tartsa mindig kéznél az utastérben."
+            ],
+            "ro": [
+              "Folosiți parcările supraetajate din centru pentru a nu merge prin ploaie.",
+              "Atenție la parbrizele aburite din cauza umidității ridicate.",
+              "Conduceți cu atenție pe străzile înguste ale satului când plouă.",
+              "Țineți umbrela la îndemână în habitaclu."
+            ],
+            "en": [
+              "Use multi-story car parks in the center to avoid walking in rain.",
+              "Watch out for fogged-up windows due to high humidity.",
+              "Drive especially carefully on narrow village streets when wet.",
+              "Keep an umbrella handy in the passenger compartment."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Unsere winterliche Autotour beginnt im verschneiten Leywald. Wir besuchen den Tierpark, bevor wir zum Aufwärmen ins Dorfzentrum fahren. Ernst-Feigenwinter-Platz und die St. Nikolaus Kirche sind festlich beleuchtet. Der Nachmittag im Birs-Park bietet herrliche Winterpanoramen, die man bequem vom warmen Auto aus erreichen kann, bevor die Nacht über das Birstal hereinbricht.",
+            "hu": "Téli autós túránk a havas Leywald erdőben kezdődik. Meglátogatjuk a Vadasparkot, majd a faluközpontba hajtunk melegedni. Az Ernst-Feigenwinter tér és a templom ünnepi díszkivilágításban úszik. A délután a Birs Parkban csodás téli panorámát kínál, melyet kényelmesen, a meleg autóból érhetünk el a sötétedés előtt.",
+            "ro": "Turul nostru de iarnă cu mașina începe în pădurea Leywald înzăpezită. Vizităm parcul de animale înainte de a merge în centrul satului pentru încălzire. Piața și biserica sunt iluminate festiv. După-amiaza în Parcul Birs oferă panorame de iarnă superbe, accesibile confortabil din mașina caldă.",
+            "en": "Our winter car tour starts in the snowy Leywald. We visit the Animal Park before heading to the village center to warm up. Ernst-Feigenwinter Square and the church are festively lit. The afternoon at Birs Park offers wonderful winter panoramas, easily reachable from the warm car before night falls over the valley."
+          },
+          "stops": [
+            {
+              "name": "Leywald Parking",
+              "tip_5lang": {
+                "de": "Achten Sie auf Schneehaufen am Rand des Parkplatzes.",
+                "hu": "Ügyeljen a parkoló szélén felhalmozott hókupacokra.",
+                "ro": "Atenție la mormanele de zăpadă de la marginea parcării.",
+                "en": "Watch out for snow piles at the edge of the parking lot."
+              }
+            },
+            {
+              "name": "Leywald Forest",
+              "tip_5lang": {
+                "de": "Nur geräumte Wege für den Waldspaziergang nutzen.",
+                "hu": "Csak a letakarított utakat használja az erdei sétához.",
+                "ro": "Folosiți doar drumurile deszăpezite pentru plimbare.",
+                "en": "Only use cleared paths for your forest walk."
+              }
+            },
+            {
+              "name": "Reinach Animal Park",
+              "tip_5lang": {
+                "de": "Kurzer Stopp, der Motor kühlt bei Frost schnell aus.",
+                "hu": "Rövid megálló, a motor gyorsan lehűl a fagyban.",
+                "ro": "Oprire scurtă, motorul se răcește repede pe ger.",
+                "en": "Short stop; the engine cools down quickly in the frost."
+              }
+            },
+            {
+              "name": "Center Parking",
+              "tip_5lang": {
+                "de": "Parkhaus bietet Schutz vor Frost und Schnee.",
+                "hu": "A parkolóház védelmet nyújt a fagy és hó ellen.",
+                "ro": "Parcarea supraetajată oferă protecție contra gerului.",
+                "en": "The parking garage offers protection from frost and snow."
+              }
+            },
+            {
+              "name": "Ernst-Feigenwinter Square",
+              "tip_5lang": {
+                "de": "Abends besonders schön durch die Winterbeleuchtung.",
+                "hu": "Este különösen szép a téli díszkivilágítás miatt.",
+                "ro": "Seara este deosebit de frumos datorită iluminatului de iarnă.",
+                "en": "Especially beautiful in the evening with winter lights."
+              }
+            },
+            {
+              "name": "St. Nicholas Church",
+              "tip_5lang": {
+                "de": "Genießen Sie die Wärme im Inneren der Kirche.",
+                "hu": "Élvezze a meleget a templom belső terében.",
+                "ro": "Bucurați-vă de căldura din interiorul bisericii.",
+                "en": "Enjoy the warmth inside the church."
+              }
+            },
+            {
+              "name": "Birs Park",
+              "tip_5lang": {
+                "de": "Parkplatz kann bei Eisglätte tückisch sein.",
+                "hu": "A parkoló jegesedés esetén csalóka lehet.",
+                "ro": "Parcarea poate fi înșelătoare în caz de polei.",
+                "en": "The parking area can be treacherous when icy."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen und Frostschutzmittel sind absolut notwendig.",
+              "Rechnen Sie mit Parkplatzmangel bei starkem Schneefall durch Räumarbeiten.",
+              "Die Heizung des Autos braucht im Kurzstreckenverkehr länger.",
+              "Eiskratzer und Handbesen sollten im Auto griffbereit sein."
+            ],
+            "hu": [
+              "Téli gumi és fagyálló folyadék használata elengedhetetlen.",
+              "Számoljon kevesebb parkolóhellyel erős havazás és takarítás idején.",
+              "Az autó fűtése rövid távokon lassabban melegszik fel.",
+              "Jégkaparót és hókefét tartson az utastérben."
+            ],
+            "ro": [
+              "Anvelopele de iarnă și antigelul sunt absolut necesare.",
+              "Luați în calcul lipsa locurilor de parcare în caz de ninsoare abundentă.",
+              "Încălzirea mașinii durează mai mult în traficul pe distanțe scurte.",
+              "Răzuitoarea de gheață și mătura ar trebui să fie la îndemână."
+            ],
+            "en": [
+              "Winter tires and anti-freeze are absolutely mandatory.",
+              "Expect fewer parking spots during heavy snow due to clearing work.",
+              "The car's heater takes longer to warm up on short trips.",
+              "Ice scraper and snow brush should be kept handy in the car."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1456,6 +2020,188 @@
           "Be aware of peak hours to avoid crowded buses.",
           "The day pass is often cheaper than multiple single tickets."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den öffentlichen Verkehr, um Reinach trocken zu erkunden. Die Tramhaltestelle Reinach Dorf bringt Sie direkt zum Zentrum am Ernst-Feigenwinter-Platz. Von dort erreichen wir die St. Nikolaus Kirche und das Heimatmuseum mit minimalen Wegen im Freien. Der Bus bringt uns zum Tierpark und später zum Birs-Park, wobei die Wartezeiten in den überdachten Haltestellen verbracht werden können.",
+            "hu": "Használja a tömegközlekedést Reinach felfedezéséhez esős időben. A Reinach Dorf villamosmegálló közvetlenül a központba, az Ernst-Feigenwinter térhez visz. Innen a templom és a múzeum minimális kinti sétával elérhető. Busszal megyünk a Vadasparkba és a Birs Parkba, a várakozási időt pedig fedett megállókban tölthetjük.",
+            "ro": "Folosiți transportul public pentru a explora Reinach-ul pe ploaie. Stația de tramvai Reinach Dorf vă aduce direct în centru. De acolo ajungem la biserică și muzeu cu un minim de mers pe afară. Autobuzul ne duce la parcul de animale și apoi la Parcul Birs, timpul de așteptare fiind petrecut în stații acoperite.",
+            "en": "Use public transport to explore Reinach while staying dry. The Reinach Dorf tram stop brings you directly to the center at Ernst-Feigenwinter Square. From there, we reach the church and museum with minimal outdoor walking. The bus takes us to the Animal Park and later to Birs Park, with waiting times spent in covered shelters."
+          },
+          "stops": [
+            {
+              "name": "Reinach Dorf Stop",
+              "tip_5lang": {
+                "de": "Zentraler Knotenpunkt mit Kiosk und Unterstand.",
+                "hu": "Központi csomópont kioszkkal és esőbeállóval.",
+                "ro": "Nod central cu chioșc și adăpost contra ploii.",
+                "en": "Central hub with a kiosk and rain shelter."
+              }
+            },
+            {
+              "name": "Ernst-Feigenwinter Square",
+              "tip_5lang": {
+                "de": "Nur wenige Schritte von der Tramstation entfernt.",
+                "hu": "Csak pár lépésre található a villamosmegállótól.",
+                "ro": "La doar câțiva pași de stația de tramvai.",
+                "en": "Just a few steps away from the tram station."
+              }
+            },
+            {
+              "name": "St. Nicholas Church",
+              "tip_5lang": {
+                "de": "Ideal, um auf den nächsten Bus/Tram zu warten.",
+                "hu": "Ideális hely a következő busz vagy villamos várására.",
+                "ro": "Ideal pentru a aștepta următorul autobuz sau tramvai.",
+                "en": "Ideal spot to wait for the next bus or tram."
+              }
+            },
+            {
+              "name": "Reinach Local History Museum",
+              "tip_5lang": {
+                "de": "Informieren Sie sich über Abfahrtszeiten im Museum.",
+                "hu": "Tájékozódjon az indulási időkről a múzeumban.",
+                "ro": "Informați-vă despre orele de plecare în muzeu.",
+                "en": "Check departure times while inside the museum."
+              }
+            },
+            {
+              "name": "Tierpark Stop",
+              "tip_5lang": {
+                "de": "Kleine Haltestelle, halten Sie den Schirm bereit.",
+                "hu": "Kis megálló, tartsa készenlétben az esernyőt.",
+                "ro": "Stație mică, țineți umbrela pregătită.",
+                "en": "Small stop; have your umbrella ready."
+              }
+            },
+            {
+              "name": "Birs Park",
+              "tip_5lang": {
+                "de": "Gute Anbindung mit der Tramlinie 11.",
+                "hu": "Jó összeköttetés a 11-es villamosvonallal.",
+                "ro": "Conexiune bună cu linia de tramvai 11.",
+                "en": "Good connection with tram line 11."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Tramlinie 11 verkehrt alle 7.5 Minuten nach Basel.",
+              "Nutzen Sie die App der BLT für Echtzeit-Abfahrtszeiten.",
+              "In den Trams ist es bei Regen oft feucht-warm, kleiden Sie sich variabel.",
+              "Fast alle Haltestellen im Zentrum sind überdacht."
+            ],
+            "hu": [
+              "A 11-es villamos 7,5 percenként jár Bázel felé.",
+              "Használja a BLT alkalmazást a valós idejű indulásokhoz.",
+              "A villamosokon esőben gyakran fülledt az idő, öltözzön rétegesen.",
+              "A központban szinte minden megálló fedett."
+            ],
+            "ro": [
+              "Linia de tramvai 11 circulă la fiecare 7,5 minute spre Basel.",
+              "Folosiți aplicația BLT pentru orele de plecare în timp real.",
+              "În tramvaie este adesea umed și cald când plouă, îmbrăcați-vă variat.",
+              "Aproape toate stațiile din centru sunt acoperite."
+            ],
+            "en": [
+              "Tram line 11 runs every 7.5 minutes towards Basel.",
+              "Use the BLT app for real-time departure information.",
+              "Trams can get humid when it rains; dress in layers.",
+              "Almost all stops in the center are covered."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Entdecken Sie das winterliche Reinach bequem mit Tram und Bus. Wir starten an der Haltestelle Reinach Dorf und besuchen den Ernst-Feigenwinter-Platz. Die beheizten Fahrzeuge der BLT bieten eine willkommene Pause von der Kälte während der Fahrten zwischen Museum, Tierpark und Birs-Park. Die beleuchteten Haltestellen sorgen für Sicherheit in der frühen Winterdämmerung.",
+            "hu": "Fedezze fel a téli Reinach-ot kényelmesen villamossal és busszal. A Reinach Dorf megállóból indulunk az Ernst-Feigenwinter térre. A BLT fűtött járművei kellemes pihenőt nyújtanak a hideg ellen a múzeum, a Vadaspark és a Birs Park közötti utazás során. A kivilágított megállók biztonságérzetet adnak a korai sötétedésben.",
+            "ro": "Descoperiți Reinach-ul de iarnă confortabil cu tramvaiul și autobuzul. Pornim de la stația Reinach Dorf spre Piața Ernst-Feigenwinter. Vehiculele încălzite ale BLT oferă o pauză binevenită de la frig între vizitele la muzeu și parcuri. Stațiile iluminate oferă siguranță la amurg.",
+            "en": "Discover winter in Reinach comfortably by tram and bus. We start at the Reinach Dorf stop and visit Ernst-Feigenwinter Square. The heated BLT vehicles offer a welcome break from the cold during trips between the museum, Animal Park, and Birs Park. Illuminated stops ensure safety during the early winter dusk."
+          },
+          "stops": [
+            {
+              "name": "Reinach Dorf Stop",
+              "tip_5lang": {
+                "de": "Warme Wartehalle in der Nähe verfügbar.",
+                "hu": "Meleg váróhelyiség elérhető a közelben.",
+                "ro": "Sală de așteptare încălzită disponibilă în apropiere.",
+                "en": "Warm waiting area available nearby."
+              }
+            },
+            {
+              "name": "Ernst-Feigenwinter Square",
+              "tip_5lang": {
+                "de": "Vorsicht vor Schneematsch im Einstiegsbereich.",
+                "hu": "Vigyázzon a hókásával a felszállási területen.",
+                "ro": "Atenție la fleșcăraia de zăpadă la urcare.",
+                "en": "Watch out for slush in the boarding area."
+              }
+            },
+            {
+              "name": "St. Nicholas Church",
+              "tip_5lang": {
+                "de": "Kurze Wege zur Haltestelle minimieren das Frieren.",
+                "hu": "A rövid út a megállóig csökkenti a fázást.",
+                "ro": "Distanțele scurte până la stație reduc expunerea la frig.",
+                "en": "Short distances to the stop minimize shivering."
+              }
+            },
+            {
+              "name": "Reinach Local History Museum",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um die Zeit bis zum Bus zu überbrücken.",
+                "hu": "Tökéletes hely a busz érkezéséig hátralévő időre.",
+                "ro": "Locul perfect pentru a petrece timpul până la autobuz.",
+                "en": "Perfect place to bridge the time until the next bus."
+              }
+            },
+            {
+              "name": "Tierpark Stop",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Sitzbänke.",
+                "hu": "Ügyeljen a jeges padokra a megállóban.",
+                "ro": "Atenție la băncile înghețate din stație.",
+                "en": "Watch out for icy benches at the stop."
+              }
+            },
+            {
+              "name": "Birs Park",
+              "tip_5lang": {
+                "de": "Die Tramhaltestelle wird im Winter regelmäßig geräumt.",
+                "hu": "A villamosmegállót télen rendszeresen takarítják.",
+                "ro": "Stația de tramvai este deszăpezită regulat iarna.",
+                "en": "The tram stop is regularly cleared of snow in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Trams und Busse sind im Winter gut beheizt.",
+              "Bei extremem Schneefall kann es zu leichten Verspätungen kommen.",
+              "Die Haltestellenanzeigen zeigen die nächste Verbindung an.",
+              "Tragen Sie rutschfeste Schuhe für den Weg von der Haltestelle zum Ziel."
+            ],
+            "hu": [
+              "A villamosok és buszok télen jól fűtöttek.",
+              "Extrém havazás esetén kisebb késések előfordulhatnak.",
+              "A megállók kijelzői mutatják a következő járatot.",
+              "Viseljen csúszásmentes cipőt a megállótól a célig tartó úton."
+            ],
+            "ro": [
+              "Tramvaiele și autobuzele sunt bine încălzite iarna.",
+              "În caz de ninsoare extremă, pot apărea ușoare întârzieri.",
+              "Afișajele din stații arată următoarea conexiune.",
+              "Purtați pantofi antiderapanți pentru drumul de la stație la destinație."
+            ],
+            "en": [
+              "Trams and buses are well-heated during winter.",
+              "Slight delays may occur during extreme snowfall.",
+              "Stop displays show the next available connection.",
+              "Wear non-slip shoes for the walk from the stop to your destination."
+            ]
+          }
+        }
       }
     }
   }

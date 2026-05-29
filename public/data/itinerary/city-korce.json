@@ -386,6 +386,206 @@
           "Always carry some cash for small purchases or tips.",
           "Locals are friendly; a simple 'Përshëndetje' (Hello) is much appreciated."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt im Alten Basar, wo die überdachten Gassen Schutz vor dem Regen bieten und zum Kaffeetrinken einladen. Mittags dienen die Mirahori-Moschee und die Auferstehungskathedrale als friedliche, trockene Rückzugsorte. Am Nachmittag tauchen wir in die beheizten Räume des Nationalmuseums für mittelalterliche Kunst ein. Der Abend klingt bei einem kurzen Spaziergang im Rinia-Park und einem gemütlichen Abendessen in einer warmen Taverne aus.",
+            "hu": "A reggel az Óbazárban indul, ahol a fedett árkádok és kávézók menedéket nyújtanak az eső elől. Délben a Mirahori-mecset és a Feltámadás-székesegyház csendes, száraz belső tereiben pihenünk meg. Délután a középkori művészeti múzeum fűtött galériái várják a látogatókat. Az este a párás Rinia parkban tett rövid séta után egy hangulatos, meleg étteremben ér véget, ahol megkóstolhatjuk a helyi specialitásokat.",
+            "ro": "Dimineața începe în Vechiul Bazar, unde arcadele acoperite oferă protecție împotriva ploii și un loc perfect pentru cafea. La prânz, Moscheea Mirahori și Catedrala Învierii servesc ca refugii liniștite și uscate. După-amiaza explorăm galeriile încălzite ale Muzeului Național de Artă Medievală. Seara se încheie cu o scurtă plimbare prin parcul Rinia și o cină caldă într-o tavernă primitoare, departe de vremea umedă.",
+            "en": "Morning starts in the Old Bazaar, where covered corridors and cafes provide shelter from the rain. At noon, the Mirahori Mosque and Resurrection Cathedral serve as peaceful, dry sanctuaries. In the afternoon, we explore the heated galleries of the National Museum of Medieval Art. The evening concludes with a short stroll through the misty Rinia Park followed by a cozy dinner in a warm local tavern."
+          },
+          "stops": [
+            {
+              "name": "Old Bazaar of Korçë",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den historischen Arkaden.",
+                "hu": "Keressen menedéket a történelmi árkádok alatt.",
+                "ro": "Căutați adăpost sub arcadele istorice.",
+                "en": "Seek shelter under the historic stone arches."
+              }
+            },
+            {
+              "name": "Mirahori Mosque",
+              "tip_5lang": {
+                "de": "Trockener Innenraum, bitte Schuhe am Eingang lassen.",
+                "hu": "Száraz belső tér, kérjük, hagyja a cipőket a bejáratnál.",
+                "ro": "Interior uscat, vă rugăm să lăsați încălțămintea la intrare.",
+                "en": "Dry interior, please leave your shoes at the entrance."
+              }
+            },
+            {
+              "name": "Themistokli Gërmenji Statue",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp mit dem Regenschirm.",
+                "hu": "Gyors fotómegálló esernyővel.",
+                "ro": "Oprire scurtă pentru poze sub umbrelă.",
+                "en": "Quick photo stop with an umbrella."
+              }
+            },
+            {
+              "name": "Resurrection Cathedral",
+              "tip_5lang": {
+                "de": "Große Halle, ideal zum Abwarten von Schauern.",
+                "hu": "Hatalmas csarnok, ideális az eső kivárására.",
+                "ro": "Sală mare, ideală pentru a aștepta trecerea ploii.",
+                "en": "Large hall, ideal for waiting out heavy showers."
+              }
+            },
+            {
+              "name": "National Museum of Medieval Art",
+              "tip_5lang": {
+                "de": "Perfekter Ort für einen langen, trockenen Nachmittag.",
+                "hu": "Tökéletes hely egy hosszú, száraz délutánhoz.",
+                "ro": "Loc perfect pentru o după-amiază lungă și uscată.",
+                "en": "Perfect place for a long, dry afternoon."
+              }
+            },
+            {
+              "name": "Museum of Education",
+              "tip_5lang": {
+                "de": "Interessante Ausstellungen im wetterfesten Gebäude.",
+                "hu": "Érdekes kiállítások az időjárásálló épületben.",
+                "ro": "Expoziții interesante în clădirea rezistentă la intemperii.",
+                "en": "Interesting exhibitions inside the weatherproof building."
+              }
+            },
+            {
+              "name": "Rinia Park",
+              "tip_5lang": {
+                "de": "Vorsicht vor Pfützen auf den unebenen Wegen.",
+                "hu": "Vigyázzon a tócsákra az egyenetlen utakon.",
+                "ro": "Atenție la bălțile de pe aleile denivelate.",
+                "en": "Watch out for puddles on the uneven paths."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da das Kopfsteinpflaster im Basar rutschig wird.",
+              "Korçë hat viele Cafés mit Vordächern, ideal für kurze Regenpausen.",
+              "Die Museen sind montags oft geschlossen, prüfen Sie die Öffnungszeiten.",
+              "Ein stabiler Regenschirm ist wegen der Windböen in den Gassen ratsam."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert a bazári macskakő esőben nagyon csúszik.",
+              "Korçë számos előtetős kávézóval rendelkezik, amelyek ideálisak a rövid pihenőkhöz.",
+              "A múzeumok hétfőnként gyakran zárva tartanak, ellenőrizze a nyitvatartást.",
+              "A szűk utcákban fújó szél miatt érdemes stabilabb esernyőt vinni."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, deoarece pavajul din bazar devine alunecos.",
+              "Korçë are multe cafenele cu copertine, ideale pentru pauze scurte în timpul ploii.",
+              "Muzeele sunt adesea închise lunea, verificați programul de funcționare.",
+              "O umbrelă stabilă este recomandată din cauza rafalelelor de vânt de pe străzi."
+            ],
+            "en": [
+              "Wear waterproof shoes as the cobblestones in the Bazaar become slippery.",
+              "Korçë has many cafes with awnings, ideal for short breaks during rain.",
+              "Museums are often closed on Mondays; check the opening hours beforehand.",
+              "A sturdy umbrella is advisable due to wind gusts in the narrow streets."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An einem frostigen Morgen wärmen wir uns im Basar mit heißem Salep auf. Mittags bietet die massive Bauweise der Kathedrale Schutz vor dem kalten Wind. Der Nachmittag gehört den Museen, in denen man die Geschichte der Stadt im Warmen entdecken kann. Nach dem frühen Sonnenuntergang wandern wir durch den winterlichen Rinia-Park und genießen danach die herzhafte lokale Küche in einer beheizten Stube.",
+            "hu": "A fagyos reggelen forró szaleppal melegszünk fel a Bazár egyik kávézójában. Délben a katedrális vaskos falai nyújtanak védelmet a metsző szél ellen. A délutánt a fűtött múzeumokban töltjük, felfedezve a város gazdag múltját. A korai naplemente után teszünk egy kört a téli Rinia parkban, majd egy kandallós étteremben élvezzük a kiadós albán vacsorát.",
+            "ro": "Într-o dimineață geroasă ne încălzim în bazar cu un pahar de salep fierbinte. La prânz, zidurile masive ale catedralei oferă protecție împotriva vântului rece. După-amiaza aparține muzeelor, unde putem descoperi istoria orașului la căldură. După apusul devreme, ne plimbăm prin parcul Rinia înghețat, apoi savurăm bucătăria locală într-o tavernă bine încălzită.",
+            "en": "On a frosty morning, we warm up in the Bazaar with a hot cup of salep. At noon, the massive walls of the cathedral offer protection from the biting wind. The afternoon is spent inside heated museums, discovering the city's rich history. After the early sunset, we take a stroll through the wintry Rinia Park and then enjoy hearty local cuisine in a warm restaurant."
+          },
+          "stops": [
+            {
+              "name": "Old Bazaar of Korçë",
+              "tip_5lang": {
+                "de": "Probieren Sie heißen Salep gegen die Kälte.",
+                "hu": "Próbálja ki a forró szaleppet a hideg ellen.",
+                "ro": "Încercați salep fierbinte împotriva frigului.",
+                "en": "Try some hot salep to keep the cold away."
+              }
+            },
+            {
+              "name": "Mirahori Mosque",
+              "tip_5lang": {
+                "de": "Tragen Sie dicke Socken, der Boden ist kalt.",
+                "hu": "Viseljen vastag zoknit, a padló hideg lehet.",
+                "ro": "Purtați șosete groase, podeaua este rece.",
+                "en": "Wear thick socks as the floor can be cold."
+              }
+            },
+            {
+              "name": "Themistokli Gërmenji Statue",
+              "tip_5lang": {
+                "de": "Zügiges Gehen hält warm bei diesem Stopp.",
+                "hu": "A tempós séta melegen tart ennél a megállónál.",
+                "ro": "Mersul alert vă menține cald la această oprire.",
+                "en": "Brisk walking keeps you warm at this stop."
+              }
+            },
+            {
+              "name": "Resurrection Cathedral",
+              "tip_5lang": {
+                "de": "Windgeschützter Ort für eine kurze Rast.",
+                "hu": "Szélvédett hely egy rövid pihenőhöz.",
+                "ro": "Loc ferit de vânt pentru o scurtă odihnă.",
+                "en": "Wind-sheltered spot for a short rest."
+              }
+            },
+            {
+              "name": "National Museum of Medieval Art",
+              "tip_5lang": {
+                "de": "Genießen Sie die angenehme Wärme im Inneren.",
+                "hu": "Élvezze a kellemes belső meleget.",
+                "ro": "Bucurați-vă de căldura plăcută din interior.",
+                "en": "Enjoy the pleasant warmth inside the galleries."
+              }
+            },
+            {
+              "name": "Museum of Education",
+              "tip_5lang": {
+                "de": "Historische Wärme in der ersten albanischen Schule.",
+                "hu": "Történelmi melegség az első albán iskolában.",
+                "ro": "Căldură istorică în prima școală albaneză.",
+                "en": "Historic warmth in the first Albanian school."
+              }
+            },
+            {
+              "name": "Rinia Park",
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang ist im Winter bereits gegen 16:30 Uhr.",
+                "hu": "A naplemente télen már 16:30 körül bekövetkezik.",
+                "ro": "Apusul de soare în timpul iernii este în jur de ora 16:30.",
+                "en": "Sunset occurs early around 4:30 PM in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "In Korçë kann es im Winter schneien, bringen Sie feste Winterschuhe mit.",
+              "Die Museen sind gut beheizt und bieten eine Flucht vor dem Frost.",
+              "Warme Getränke wie Tee und Kaffee sind fester Bestandteil der lokalen Kultur.",
+              "Kleiden Sie sich in Schichten, da es in der Sonne und im Schatten große Temperaturunterschiede gibt."
+            ],
+            "hu": [
+              "Korçában télen gyakori a hó, hozzon magával bélelt téli cipőt.",
+              "A múzeumok jól fűtöttek, kiváló menedéket nyújtanak a fagy elől.",
+              "A meleg italok, mint a tea és a kávé, a helyi kultúra szerves részei.",
+              "Öltözzön rétegesen, mert a napon és az árnyékban nagy a hőmérséklet-különbség."
+            ],
+            "ro": [
+              "În Korçë poate ninge iarna, aduceți încălțăminte de iarnă solidă.",
+              "Muzeele sunt bine încălzite și oferă o scăpare de ger.",
+              "Băuturile calde, cum ar fi ceaiul și cafeaua, sunt esențiale în cultura locală.",
+              "Îmbrăcați-vă în straturi din cauza diferențelor mari de temperatură dintre soare și umbră."
+            ],
+            "en": [
+              "Snow is common in Korçë during winter, so bring sturdy winter boots.",
+              "The museums are well-heated and offer a great escape from the frost.",
+              "Hot drinks like tea and coffee are a staple of the local winter culture.",
+              "Dress in layers due to the significant temperature difference between sun and shade."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -790,6 +990,224 @@
           "Some streets can be busy with traffic, so be cautious.",
           "A bottle of water is essential, especially on warm days."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz des Regens erkunden wir die Stadt auf zwei Rädern. Der Morgen beginnt vorsichtig auf dem nassen Kopfsteinpflaster des Basars. Mittags suchen wir Schutz in den Sakralbauten, während die Räder sicher geparkt sind. Am Nachmittag radeln wir zügig zwischen den Museen hin und her. Der Abend endet nach einer erfrischenden Fahrt durch den nassen Park in einem fahrradfreundlichen Lokal.",
+            "hu": "Az eső ellenére két keréken fedezzük fel a várost. A reggel óvatosan indul a Bazár nedves macskakövein. Délben a szakrális épületekben keresünk menedéket, amíg a kerékpárok biztonságban pihennek. Délután gyorsan tekerünk a múzeumok között. Az este a frissítő, vizes parki gurulás után egy kerékpárosbarát helyen zárul.",
+            "ro": "În ciuda ploii, explorăm orașul pe două roți. Dimineața începe cu prudență pe pavajul umed al bazarului. La prânz căutăm adăpost în clădirile sacre, în timp ce bicicletele sunt parcate în siguranță. După-amiaza pedalăm rapid între muzee. Seara se încheie după o tură revigorantă prin parcul ud, într-un local prietenos cu bicicliștii.",
+            "en": "Despite the rain, we explore the city on two wheels. Morning starts cautiously on the wet cobblestones of the Bazaar. At noon, we seek shelter in religious sites while the bikes are safely parked. In the afternoon, we cycle quickly between the museums. The evening ends after a refreshing ride through the wet park at a bike-friendly spot."
+          },
+          "stops": [
+            {
+              "name": "Old Bazaar of Korçë",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem extrem rutschigen Kopfsteinpflaster.",
+                "hu": "Vigyázzon a rendkívül csúszós macskaköveken.",
+                "ro": "Atenție la pavajul extrem de alunecos.",
+                "en": "Be very careful on the extremely slippery cobblestones."
+              }
+            },
+            {
+              "name": "Clock Tower of Korça",
+              "tip_5lang": {
+                "de": "Kurzer Stopp, halten Sie die Bremsen griffbereit.",
+                "hu": "Rövid megálló, tartsa készenlétben a fékeket.",
+                "ro": "Oprire scurtă, țineți frânele pregătite.",
+                "en": "Short stop, keep your brakes ready."
+              }
+            },
+            {
+              "name": "Mirahori Mosque",
+              "tip_5lang": {
+                "de": "Parken Sie das Rad an einem regengeschützten Ort.",
+                "hu": "Parkolja a kerékpárt esőtől védett helyre.",
+                "ro": "Parcați bicicleta într-un loc ferit de ploaie.",
+                "en": "Park your bike in a spot protected from the rain."
+              }
+            },
+            {
+              "name": "Resurrection Cathedral",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit zum Abtrocknen der Ausrüstung.",
+                "hu": "Használja ki az időt a felszerelés megszárítására.",
+                "ro": "Folosiți timpul pentru a vă usca echipamentul.",
+                "en": "Use this time to dry off your gear."
+              }
+            },
+            {
+              "name": "National Museum of Medieval Art",
+              "tip_5lang": {
+                "de": "Fahrradständer befinden sich oft nahe dem Eingang.",
+                "hu": "A kerékpártárolók gyakran a bejárat közelében vannak.",
+                "ro": "Suporturile de biciclete sunt adesea lângă intrare.",
+                "en": "Bike racks are often located near the entrance."
+              }
+            },
+            {
+              "name": "Bratko Museum of Oriental Art",
+              "tip_5lang": {
+                "de": "Zügiges Radeln zwischen den Museumsstopps.",
+                "hu": "Tempós tekerés a múzeumi megállók között.",
+                "ro": "Pedalare rapidă între opririle la muzee.",
+                "en": "Brisk cycling between museum stops."
+              }
+            },
+            {
+              "name": "Museum of Education",
+              "tip_5lang": {
+                "de": "Achten Sie auf Fußgänger mit Regenschirmen.",
+                "hu": "Vigyázzon az esernyős gyalogosokra.",
+                "ro": "Atenție la pietonii cu umbrele.",
+                "en": "Watch out for pedestrians with umbrellas."
+              }
+            },
+            {
+              "name": "Rinia Park",
+              "tip_5lang": {
+                "de": "Meiden Sie schlammige Abschnitte abseits der Wege.",
+                "hu": "Kerülje el a sáros szakaszokat az utak mentén.",
+                "ro": "Evitați porțiunile noroioase de lângă alei.",
+                "en": "Avoid muddy sections off the main paths."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie unbedingt Schutzbleche, um Spritzwasser zu vermeiden.",
+              "Das Kopfsteinpflaster im Zentrum ist bei Nässe eine echte Herausforderung.",
+              "Tragen Sie eine auffällige Regenjacke für bessere Sichtbarkeit.",
+              "Prüfen Sie Ihre Bremsen, da sich der Bremsweg auf nassen Straßen verlängert."
+            ],
+            "hu": [
+              "Mindenképpen használjon sárvédőt a felcsapódó víz ellen.",
+              "A belvárosi macskakő nedvesen komoly kihívást jelent.",
+              "Viseljen feltűnő esőkabátot a jobb láthatóság érdekében.",
+              "Ellenőrizze a fékeket, mert a fékút jelentősen megnő a vizes utakon."
+            ],
+            "ro": [
+              "Folosiți neapărat apărători de noroi pentru a evita apa stropită.",
+              "Pavajul din centru este o adevărată provocare când este ud.",
+              "Purtați o jachetă de ploaie stridentă pentru o vizibilitate mai bună.",
+              "Verificați frânele, deoarece distanța de frânare crește pe drumurile ude."
+            ],
+            "en": [
+              "Be sure to use mudguards to avoid getting splashed by water.",
+              "The cobblestones in the center are a real challenge when wet.",
+              "Wear a brightly colored raincoat for better visibility to drivers.",
+              "Check your brakes, as stopping distances increase on wet roads."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die kalte Winterluft belebt uns auf der morgendlichen Fahrt zum Basar. Mittags wärmen wir uns in den Museen auf, während wir das Rad sicher abstellen. Der Nachmittag führt uns durch die ruhigen, teils verschneiten Gassen von Korçë. Vor dem frühen Dunkelwerden genießen wir die klare Luft im Rinia-Park und beenden die Tour bei einem heißen Getränk in der Altstadt.",
+            "hu": "A hideg téli levegő felfrissít a reggeli gurulás közben a Bazár felé. Délben a múzeumokban melegszünk fel, miközben a kerékpárt biztonságban hagyjuk. A délután Korça csendes, helyenként havas utcáin vezet keresztül. A korai sötétedés előtt élvezzük a tiszta levegőt a Rinia parkban, majd egy forró itallal zárjuk a túrát az óvárosban.",
+            "ro": "Aerul rece de iarnă ne revigorează în timpul plimbării de dimineață spre bazar. La prânz ne încălzim în muzee, lăsând bicicleta în siguranță. După-amiaza ne poartă prin străzile liniștite, parțial înzăpezite ale orașului Korçë. Înainte de lăsarea serii, ne bucurăm de aerul curat în parcul Rinia și încheiem turul cu o băutură fierbinte în centrul vechi.",
+            "en": "The cold winter air invigorates us on our morning ride to the Bazaar. At noon, we warm up inside museums while keeping the bike safely parked. The afternoon takes us through the quiet, partly snowy streets of Korçë. Before it gets dark early, we enjoy the crisp air in Rinia Park and finish the tour with a hot drink in the old town."
+          },
+          "stops": [
+            {
+              "name": "Old Bazaar of Korçë",
+              "tip_5lang": {
+                "de": "Vorsicht vor Eisplatten zwischen den Steinen.",
+                "hu": "Vigyázzon a kövek közötti jégfoltokra.",
+                "ro": "Atenție la porțiunile de gheață dintre pietre.",
+                "en": "Watch out for icy patches between the stones."
+              }
+            },
+            {
+              "name": "Clock Tower of Korça",
+              "tip_5lang": {
+                "de": "Kurze Pause, halten Sie sich in Bewegung.",
+                "hu": "Rövid szünet, maradjon mozgásban.",
+                "ro": "Pauză scurtă, rămâneți în mișcare.",
+                "en": "Short break, keep moving to stay warm."
+              }
+            },
+            {
+              "name": "Mirahori Mosque",
+              "tip_5lang": {
+                "de": "Kalte Metallteile am Rad nicht mit bloßen Händen berühren.",
+                "hu": "Ne érjen puszta kézzel a kerékpár hideg fém részeihez.",
+                "ro": "Nu atingeți părțile metalice reci ale bicicletei cu mâinile goale.",
+                "en": "Do not touch cold metal bike parts with bare hands."
+              }
+            },
+            {
+              "name": "Resurrection Cathedral",
+              "tip_5lang": {
+                "de": "Ein Ort der Stille und relativen Wärme.",
+                "hu": "A csend és a relatív meleg helye.",
+                "ro": "Un loc de liniște și căldură relativă.",
+                "en": "A place of silence and relative warmth."
+              }
+            },
+            {
+              "name": "National Museum of Medieval Art",
+              "tip_5lang": {
+                "de": "Längere Aufwärmpause für Radfahrer ideal.",
+                "hu": "Hosszabb melegedő szünet bicikliseknek ideális.",
+                "ro": "Pauză lungă de încălzire, ideală pentru bicicliști.",
+                "en": "A longer warm-up break is ideal for cyclists."
+              }
+            },
+            {
+              "name": "Bratko Museum of Oriental Art",
+              "tip_5lang": {
+                "de": "Achten Sie auf gefrorenes Tauwasser auf den Wegen.",
+                "hu": "Vigyázzon az utakon megfagyott olvadékvízre.",
+                "ro": "Atenție la apa înghețată de pe drumuri.",
+                "en": "Watch out for frozen meltwater on the paths."
+              }
+            },
+            {
+              "name": "Museum of Education",
+              "tip_5lang": {
+                "de": "Ein weiterer Stopp zum Aufwärmen der Hände.",
+                "hu": "Újabb megálló a kezek felmelegítésére.",
+                "ro": "Încă o oprire pentru a vă încălzi mâinile.",
+                "en": "Another stop to warm up your hands."
+              }
+            },
+            {
+              "name": "Rinia Park",
+              "tip_5lang": {
+                "de": "Beleuchtung einschalten, es wird früh dunkel.",
+                "hu": "Kapcsolja be a világítást, korán sötétedik.",
+                "ro": "Aprindeți luminile, se întunecă devreme.",
+                "en": "Turn on your lights, as it gets dark early."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme, winddichte Handschuhe sind beim Radfahren im Winter ein Muss.",
+              "Reduzieren Sie den Reifendruck leicht für besseren Grip auf Schnee.",
+              "Vermeiden Sie abrupte Bremsmanöver auf glatten Oberflächen.",
+              "Sorgen Sie für eine funktionierende Beleuchtung, da die Sicht oft eingeschränkt ist."
+            ],
+            "hu": [
+              "A meleg, szélálló kesztyű elengedhetetlen a téli biciklizéshez.",
+              "Csökkentse kissé a guminyomást a jobb tapadás érdekében a havon.",
+              "Kerülje a hirtelen fékezést a csúszós felületeken.",
+              "Gondoskodjon a működő világításról, mert a látási viszonyok gyakran rosszak."
+            ],
+            "ro": [
+              "Mănușile calde și rezistente la vânt sunt obligatorii pentru ciclismul de iarnă.",
+              "Reduceți ușor presiunea în pneuri pentru o aderență mai bună pe zăpadă.",
+              "Evitați manevrele de frânare bruște pe suprafețele alunecoase.",
+              "Asigurați-vă că luminile funcționează, deoarece vizibilitatea este adesea redusă."
+            ],
+            "en": [
+              "Warm, windproof gloves are a must for cycling in winter.",
+              "Slightly reduce tire pressure for better grip on snowy surfaces.",
+              "Avoid sudden braking maneuvers on slippery or icy ground.",
+              "Ensure your lights are working, as visibility is often limited."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1170,6 +1588,206 @@
           "The roads in the city are narrow. Drive carefully.",
           "Keep your GPS ready, especially for the drive out of the city."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Bequem und trocken starten wir die Tour mit dem Auto am Alten Basar. Mittags besuchen wir die Kathedrale und das Mittelaltermuseum, wobei wir die kurzen Wege zwischen den Parkplätzen schätzen. Die Fahrt zum Berg Morava bietet trotz Regen schöne Ausblicke, gefolgt von einem Mittagessen in der Höhe. Der Abend endet nach einem Besuch im Rinia-Park wieder im warmen Stadtzentrum.",
+            "hu": "Kényelmesen és szárazon indul a túra az Óbazárnál. Délben meglátogatjuk a katedrálist és a középkori múzeumot, kihasználva a parkolók közötti rövid távolságokat. A Morava-hegyre vezető út az eső ellenére is szép kilátást nyújt, amit egy hegyi ebéd követ. Az este a Rinia parki látogatás után ismét a meleg városközpontban zárul.",
+            "ro": "Începem turul confortabil și la adăpost de ploaie cu mașina la Vechiul Bazar. La prânz vizităm catedrala și muzeul medieval, apreciind distanțele scurte dintre parcări. Drumul spre muntele Morava oferă priveliști frumoase în ciuda ploii, urmat de un prânz la înălțime. Seara se încheie în centrul cald al orașului, după o vizită în parcul Rinia.",
+            "en": "We start the tour comfortably and dry by car at the Old Bazaar. At noon, we visit the cathedral and the medieval museum, appreciating the short distances between parking spots. The drive to Morava Mountain offers beautiful views despite the rain, followed by a high-altitude lunch. The evening ends back in the warm city center after a visit to Rinia Park."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Park at the Old Bazaar",
+              "tip_5lang": {
+                "de": "Nutzen Sie den befestigten Parkplatz nahe dem Zentrum.",
+                "hu": "Használja a központ közeli aszfaltozott parkolót.",
+                "ro": "Folosiți parcarea asfaltată de lângă centru.",
+                "en": "Use the paved parking lot near the center."
+              }
+            },
+            {
+              "name": "Resurrection Cathedral",
+              "tip_5lang": {
+                "de": "Parken ist oft direkt an der Straßenseite möglich.",
+                "hu": "Parkolás gyakran közvetlenül az út szélén lehetséges.",
+                "ro": "Parcarea este adesea posibilă chiar pe marginea drumului.",
+                "en": "Parking is often possible directly on the roadside."
+              }
+            },
+            {
+              "name": "National Museum of Medieval Art",
+              "tip_5lang": {
+                "de": "Kleiner Parkplatz direkt vor dem Museumseingang.",
+                "hu": "Kis parkoló közvetlenül a múzeum bejárata előtt.",
+                "ro": "Parcare mică chiar în fața intrării muzeului.",
+                "en": "Small parking lot right in front of the museum entrance."
+              }
+            },
+            {
+              "name": "Cluster B: Drive to Morava Mountain",
+              "tip_5lang": {
+                "de": "Vorsicht bei Nebel und nasser Fahrbahn am Berg.",
+                "hu": "Vigyázzon a ködre és a nedves úttestre a hegyen.",
+                "ro": "Atenție la ceață și la carosabilul umed pe munte.",
+                "en": "Watch out for fog and wet roads on the mountain."
+              }
+            },
+            {
+              "name": "Lunch at a Mountain Restaurant",
+              "tip_5lang": {
+                "de": "Warmer Stopp mit Panoramablick auf die Regenwolken.",
+                "hu": "Meleg pihenő panorámás kilátással az esőfelhőkre.",
+                "ro": "Oprire caldă cu vedere panoramică spre norii de ploaie.",
+                "en": "Warm stop with a panoramic view of the rain clouds."
+              }
+            },
+            {
+              "name": "Cluster C: Park at Rinia Park",
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Parken auf unbefestigten Seitenstreifen.",
+                "hu": "Kerülje a parkolást a burkolatlan útpadkán.",
+                "ro": "Evitați parcarea pe acostamentele neamenajate.",
+                "en": "Avoid parking on unpaved roadsides."
+              }
+            },
+            {
+              "name": "Museum of Education",
+              "tip_5lang": {
+                "de": "Parken im Zentrum kann bei Regen schwierig sein.",
+                "hu": "A belvárosi parkolás esőben nehézkes lehet.",
+                "ro": "Parcarea în centru poate fi dificilă pe ploaie.",
+                "en": "Parking in the center can be tricky during rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Bergstraße zum Morava kann bei starkem Regen rutschig sein.",
+              "Schalten Sie das Abblendlicht ein, um bei schlechter Sicht besser gesehen zu werden.",
+              "Achten Sie im Zentrum auf tiefe Pfützen am Straßenrand.",
+              "Prüfen Sie vorab die Funktionsfähigkeit Ihrer Scheibenwischer."
+            ],
+            "hu": [
+              "A Morava-hegyre vezető út heves esőzéskor csúszós lehet.",
+              "Kapcsolja be a tompított fényszórót a jobb láthatóság érdekében.",
+              "A belvárosban ügyeljen a mély tócsákra az út szélén.",
+              "Indulás előtt ellenőrizze az ablaktörlők állapotát."
+            ],
+            "ro": [
+              "Drumul montan spre Morava poate fi alunecos în timpul ploilor abundente.",
+              "Aprindeți faza scurtă pentru a fi mai vizibil în condiții de vizibilitate redusă.",
+              "În centru, atenție la bălțile adânci de pe marginea drumului.",
+              "Verificați funcționarea ștergătoarelor înainte de a pleca la drum."
+            ],
+            "en": [
+              "The mountain road to Morava can be slippery during heavy rain.",
+              "Turn on your low-beam headlights for better visibility.",
+              "In the center, watch out for deep puddles on the roadside.",
+              "Check that your windshield wipers are working properly before starting."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An einem kalten Wintermorgen nutzen wir die Sitzheizung auf dem Weg zum Basar. Mittags besuchen wir die kulturellen Highlights im Stadtzentrum, wobei das Auto als warmer Rückzugsort dient. Die Fahrt zum Berg Morava führt durch eine glitzernde Winterlandschaft zum Mittagessen. Nach einem kurzen Besuch im Rinia-Park lassen wir den Tag sicher und warm im Zentrum ausklingen.",
+            "hu": "A hideg téli reggelen kihasználjuk az ülésfűtést a Bazár felé menet. Délben meglátogatjuk a belvárosi kulturális látnivalókat, miközben az autó meleg menedékként szolgál. A Morava-hegyi út szikrázó téli tájon vezet keresztül az ebédhez. A Rinia parki rövid látogatás után biztonságban és melegben zárjuk a napot a központban.",
+            "ro": "Într-o dimineață rece de iarnă folosim încălzirea în scaune în drum spre bazar. La prânz vizităm atracțiile culturale din centru, mașina servind drept refugiu cald. Drumul spre muntele Morava ne poartă printr-un peisaj de iarnă sclipitor spre prânz. După o scurtă vizită în parcul Rinia, încheiem ziua în siguranță și la căldură în centru.",
+            "en": "On a cold winter morning, we enjoy the seat heating on the way to the Bazaar. At noon, we visit the cultural highlights in the center, with the car serving as a warm retreat. The drive to Morava Mountain leads through a sparkling winter landscape to lunch. After a short visit to Rinia Park, we end the day safely and warmly in the center."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Park at the Old Bazaar",
+              "tip_5lang": {
+                "de": "Achten Sie auf gefrorene Stellen auf dem Parkplatz.",
+                "hu": "Ügyeljen a jeges részekre a parkolóban.",
+                "ro": "Atenție la zonele înghețate din parcare.",
+                "en": "Watch out for icy spots in the parking lot."
+              }
+            },
+            {
+              "name": "Resurrection Cathedral",
+              "tip_5lang": {
+                "de": "Befreien Sie das Auto vor der Fahrt komplett von Schnee.",
+                "hu": "Indulás előtt teljesen tisztítsa meg az autót a hótól.",
+                "ro": "Curățați mașina complet de zăpadă înainte de drum.",
+                "en": "Clear all snow from your car before driving."
+              }
+            },
+            {
+              "name": "National Museum of Medieval Art",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Parkplatz zum warmen Museum.",
+                "hu": "Rövid séta a parkolótól a meleg múzeumig.",
+                "ro": "Scurtă plimbare de la parcare la muzeul cald.",
+                "en": "Short walk from the parking lot to the warm museum."
+              }
+            },
+            {
+              "name": "Cluster B: Drive to Morava Mountain",
+              "tip_5lang": {
+                "de": "Winterreifen und ggf. Schneeketten sind am Berg Pflicht.",
+                "hu": "A hegyen téli gumi és szükség esetén hólánc kötelező.",
+                "ro": "Anvelopele de iarnă și eventual lanțurile sunt obligatorii pe munte.",
+                "en": "Winter tires and possibly snow chains are mandatory on the mountain."
+              }
+            },
+            {
+              "name": "Lunch at a Mountain Restaurant",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die verschneiten Berge.",
+                "hu": "Élvezze a kilátást a havas hegyekre.",
+                "ro": "Bucurați-vă de vederea spre munții înzăpeziți.",
+                "en": "Enjoy the view of the snow-covered mountains."
+              }
+            },
+            {
+              "name": "Cluster C: Park at Rinia Park",
+              "tip_5lang": {
+                "de": "Parkplätze können im Winter schlechter geräumt sein.",
+                "hu": "A parkolók télen kevésbé lehetnek letakarítva.",
+                "ro": "Parcările pot fi mai puțin curățate în timpul iernii.",
+                "en": "Parking lots may be poorly cleared of snow in winter."
+              }
+            },
+            {
+              "name": "Museum of Education",
+              "tip_5lang": {
+                "de": "Zentrales Parken ermöglicht schnellen Zugang zur Wärme.",
+                "hu": "A központi parkolás gyors bejutást biztosít a melegbe.",
+                "ro": "Parcarea centrală permite accesul rapid la căldură.",
+                "en": "Central parking allows for quick access to the warmth."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Führen Sie immer einen Eiskratzer und ein Enteisungsspray mit.",
+              "Die Bergstraße kann bei Schneefall plötzlich gesperrt werden.",
+              "Prüfen Sie den Frostschutz im Scheibenwischwasser.",
+              "Achten Sie auf Streusalz, das die Sicht auf der Frontscheibe trüben kann."
+            ],
+            "hu": [
+              "Mindig tartson magánál jégkaparót és jégoldó spray-t.",
+              "Hovazás esetén a hegyi utat hirtelen lezárhatják.",
+              "Ellenőrizze a fagyállót a szélvédőmosó folyadékban.",
+              "Ügyeljen az útszóró sóra, amely elhomályosíthatja a szélvédőt."
+            ],
+            "ro": [
+              "Aveți întotdeauna la îndemână o racletă și un spray de dezghețare.",
+              "Drumul montan poate fi închis brusc în caz de ninsoare.",
+              "Verificați antigelul din lichidul de spălare a parbrizului.",
+              "Atenție la sarea de pe drum, care poate murdări parbrizul rapid."
+            ],
+            "en": [
+              "Always carry an ice scraper and de-icing spray in your car.",
+              "The mountain road may be suddenly closed during heavy snowfall.",
+              "Check the antifreeze level in your windshield washer fluid.",
+              "Watch out for road salt, which can quickly cloud your windshield."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1550,6 +2168,206 @@
           "Keep small change ready for bus tickets.",
           "Buses can be crowded, so be prepared to stand."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Dank des gut ausgebauten Liniennetzes bleiben wir bei der Fahrt zum Basar trocken. Mittags nutzen wir die Busverbindungen zwischen der Kathedrale und den Museen, um dem Regen zu entkommen. Der Nachmittag wird im kulturellen Viertel verbracht, wobei die Haltestellen nah an den Eingängen liegen. Der Abend endet nach einer kurzen Fahrt zum Rinia-Park gemütlich im Zentrum.",
+            "hu": "A jól kiépített hálózatnak köszönhetően szárazon érkezünk a Bazárhoz. Délben a buszjáratokat használjuk a katedrális és a múzeumok között, hogy elkerüljük az esőt. A délutánt a kulturális negyedben töltjük, ahol a megállók közel vannak a bejáratokhoz. Az este a Rinia parkhoz tett rövid utazás után hangulatosan zárul a központban.",
+            "ro": "Datorită rețelei bine dezvoltate, rămânem uscați în drum spre bazar. La prânz folosim liniile de autobuz între catedrală și muzee pentru a scăpa de ploaie. După-amiaza o petrecem în cartierul cultural, unde stațiile sunt aproape de intrări. Seara se încheie confortabil în centru, după o scurtă călătorie spre parcul Rinia.",
+            "en": "Thanks to the well-developed transit network, we stay dry on the way to the Bazaar. At noon, we use bus connections between the cathedral and museums to escape the rain. The afternoon is spent in the cultural district, where stops are close to the entrances. The evening ends cozily in the center after a short ride to Rinia Park."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Arrive at the Old Bazaar",
+              "tip_5lang": {
+                "de": "Zentraler Ankunftspunkt mit vielen Unterstellmöglichkeiten.",
+                "hu": "Központi érkezési pont sok fedett várakozóhellyel.",
+                "ro": "Punct central de sosire cu multe locuri de adăpost.",
+                "en": "Central arrival point with plenty of shelter options."
+              }
+            },
+            {
+              "name": "Mirahori Mosque",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg von der Bushaltestelle, nutzen Sie den Schirm.",
+                "hu": "Rövid séta a buszmegállótól, használjon esernyőt.",
+                "ro": "Scurtă plimbare de la stație, folosiți umbrela.",
+                "en": "Short walk from the bus stop; use an umbrella."
+              }
+            },
+            {
+              "name": "Clock Tower of Korça",
+              "tip_5lang": {
+                "de": "Orientierungspunkt nahe wichtiger Buslinien.",
+                "hu": "Tájékozódási pont fontos buszvonalak közelében.",
+                "ro": "Punct de orientare lângă linii de autobuz importante.",
+                "en": "Landmark located near important bus lines."
+              }
+            },
+            {
+              "name": "Cluster B: Transit to the Cathedral",
+              "tip_5lang": {
+                "de": "Nutzen Sie die App für Echtzeit-Abfahrtszeiten.",
+                "hu": "Használja az alkalmazást a valós idejű indulásokhoz.",
+                "ro": "Folosiți aplicația pentru timpii de plecare în timp real.",
+                "en": "Use the app for real-time departure information."
+              }
+            },
+            {
+              "name": "National Museum of Medieval Art",
+              "tip_5lang": {
+                "de": "Haltestelle fast direkt vor der Tür des Museums.",
+                "hu": "Megálló szinte közvetlenül a múzeum ajtaja előtt.",
+                "ro": "Stație aproape direct în fața ușii muzeului.",
+                "en": "Bus stop is almost directly in front of the museum."
+              }
+            },
+            {
+              "name": "Cluster C: Transit to Rinia Park",
+              "tip_5lang": {
+                "de": "Warten Sie unter dem Dach der Haltestelle.",
+                "hu": "Várjon a megálló fedett teteje alatt.",
+                "ro": "Așteptați sub acoperișul stației.",
+                "en": "Wait under the shelter of the bus stop."
+              }
+            },
+            {
+              "name": "Bratko Museum of Oriental Art",
+              "tip_5lang": {
+                "de": "Planen Sie die Rückfahrt vor Einbruch der Dunkelheit.",
+                "hu": "Tervezze meg a visszautat sötétedés előtt.",
+                "ro": "Planificați drumul de întoarcere înainte de lăsarea serii.",
+                "en": "Plan your return trip before it gets dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Haben Sie passendes Kleingeld oder eine Fahrkarte bereit.",
+              "Die Busse können bei Regen aufgrund des Verkehrs verspätet sein.",
+              "Ein kleiner Taschenregenschirm passt in jede Tasche für den Weg zur Haltestelle.",
+              "Die Hauptlinien verkehren regelmäßig, auch bei schlechtem Wetter."
+            ],
+            "hu": [
+              "Készítsen össze aprópénzt vagy jegyet előre.",
+              "A buszok esőben a forgalom miatt késhetnek.",
+              "Egy kis zsebnyitó esernyő mindig legyen kéznél a megállóig vezető útra.",
+              "A fővonalak rendszeresen közlekednek rossz időben is."
+            ],
+            "ro": [
+              "Aveți pregătit mărunt sau biletul de călătorie.",
+              "Autobuzele pot întârzia pe ploaie din cauza traficului.",
+              "O umbrelă mică de buzunar este utilă pentru drumul spre stație.",
+              "Liniile principale circulă regulat, chiar și pe vreme rea."
+            ],
+            "en": [
+              "Have exact change or your ticket ready beforehand.",
+              "Buses may be delayed during rain due to increased traffic.",
+              "Keep a small pocket umbrella handy for the walk to the stop.",
+              "Main lines run regularly, even during bad weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "In den beheizten Bussen von Korçë entkommen wir der morgendlichen Kälte auf dem Weg zum Basar. Mittags pendeln wir bequem zwischen den Museen und der Kathedrale. Der Nachmittag bietet kulturelle Einblicke im Warmen, wobei die Fahrten kurze Erholungspausen bieten. Vor dem frühen Winterabend fahren wir zum Rinia-Park und kehren dann mit dem Bus sicher ins Stadtzentrum zurück.",
+            "hu": "Korça fűtött buszaiban menekülünk meg a reggeli hidegtől a Bazár felé menet. Délben kényelmesen ingázunk a múzeumok és a katedrális között. A délután kulturális betekintést nyújt a melegben, az utazások pedig rövid pihenőt jelentenek. A korai téli este előtt a Rinia parkhoz utazunk, majd busszal biztonságban térünk vissza a városközpontba.",
+            "ro": "În autobuzele încălzite din Korçă scăpăm de frigul dimineții în drum spre bazar. La prânz facem naveta confortabil între muzee și catedrală. După-amiaza oferă perspective culturale la căldură, călătoriile fiind scurte pauze de odihnă. Înainte de seara devreme de iarnă, mergem spre parcul Rinia, apoi revenim în siguranță cu autobuzul în centru.",
+            "en": "In Korçë's heated buses, we escape the morning cold on the way to the Bazaar. At noon, we commute comfortably between museums and the cathedral. The afternoon offers cultural insights in the warmth, with the bus rides providing short breaks. Before the early winter evening, we travel to Rinia Park and then return safely to the city center by bus."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Arrive at the Old Bazaar",
+              "tip_5lang": {
+                "de": "Warten Sie im Warmen eines nahen Cafés auf den Bus.",
+                "hu": "Várjon a buszra egy közeli kávézó melegében.",
+                "ro": "Așteptați autobuzul în căldura unei cafenele din apropiere.",
+                "en": "Wait for the bus inside the warmth of a nearby cafe."
+              }
+            },
+            {
+              "name": "Mirahori Mosque",
+              "tip_5lang": {
+                "de": "Achten Sie auf rutschige Stufen beim Ein- und Aussteigen.",
+                "hu": "Vigyázzon a csúszós lépcsőkre a fel- és leszálláskor.",
+                "ro": "Atenție la treptele alunecoase la urcare și coborâre.",
+                "en": "Watch out for slippery steps when boarding the bus."
+              }
+            },
+            {
+              "name": "Clock Tower of Korça",
+              "tip_5lang": {
+                "de": "Die Haltestellen sind im Winter oft schneefrei geräumt.",
+                "hu": "A megállókat télen gyakran letakarítják a hótól.",
+                "ro": "Stațiile sunt adesea curățate de zăpadă în timpul iernii.",
+                "en": "Bus stops are often cleared of snow during winter."
+              }
+            },
+            {
+              "name": "Cluster B: Transit to the Cathedral",
+              "tip_5lang": {
+                "de": "Busse sind meist gut beheizt und bieten Komfort.",
+                "hu": "A buszok többnyire jól fűtöttek és kényelmesek.",
+                "ro": "Autobuzele sunt de obicei bine încălzite și confortabile.",
+                "en": "Buses are usually well-heated and provide comfort."
+              }
+            },
+            {
+              "name": "National Museum of Medieval Art",
+              "tip_5lang": {
+                "de": "Kurzer Weg von der Haltestelle minimiert die Kälte.",
+                "hu": "A megállótól vezető rövid út csökkenti a hidegben töltött időt.",
+                "ro": "Drumul scurt de la stație minimizează expunerea la frig.",
+                "en": "The short walk from the stop minimizes time in the cold."
+              }
+            },
+            {
+              "name": "Cluster C: Transit to Rinia Park",
+              "tip_5lang": {
+                "de": "Beachten Sie mögliche Fahrplanänderungen bei starkem Schnee.",
+                "hu": "Ügyeljen az esetleges menetrendi változásokra erős hóban.",
+                "ro": "Atenție la posibilele modificări de program în caz de ninsoare.",
+                "en": "Be aware of potential schedule changes during heavy snow."
+              }
+            },
+            {
+              "name": "Bratko Museum of Oriental Art",
+              "tip_5lang": {
+                "de": "Die letzte Fahrt sollte vor 18:00 Uhr geplant werden.",
+                "hu": "Az utolsó utat érdemes 18:00 előtt megtervezni.",
+                "ro": "Ultima călătorie ar trebui planificată înainte de ora 18:00.",
+                "en": "Your last trip should be planned before 6:00 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Schuhe mit gutem Profil für den Weg zur Haltestelle.",
+              "Die Wartezeiten an den Haltestellen können sich bei Kälte länger anfühlen.",
+              "Informieren Sie sich über die letzten Fahrten am Abend.",
+              "Halten Sie sich im Bus an den Griffen fest, da Bremsmanöver auf Eis ruckartig sein können."
+            ],
+            "hu": [
+              "Viseljen jó tapadású cipőt a megállóig vezető úton.",
+              "A várakozási idő a megállókban hidegben hosszabbnak tűnhet.",
+              "Tájékozódjon az utolsó esti járatokról.",
+              "Kapaszkodjon erősen a buszon, mert a jeges úton a fékezés hirtelen lehet."
+            ],
+            "ro": [
+              "Purtați încălțăminte cu talpă aderentă pentru drumul spre stație.",
+              "Timpul de așteptare în stații poate părea mai lung pe ger.",
+              "Informați-vă despre ultimele curse de seară.",
+              "Țineți-vă bine în autobuz, deoarece frânarea pe gheață poate fi bruscă."
+            ],
+            "en": [
+              "Wear shoes with good grip for the walk to the bus stop.",
+              "Waiting times at stops can feel longer in the cold.",
+              "Check the schedule for the last evening trips beforehand.",
+              "Hold on tight in the bus, as braking on ice can be sudden."
+            ]
+          }
+        }
       }
     }
   }

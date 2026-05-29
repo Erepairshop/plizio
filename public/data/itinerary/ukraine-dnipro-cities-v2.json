@@ -374,6 +374,206 @@
           "Carry water with you, especially in summer.",
           "Plan for extra time at the museum if you are a history enthusiast."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen am Dnjepr-Ufer bietet eine melancholische, aber schöne Atmosphäre. Mittags bieten das Menorah-Zentrum und das Historische Museum perfekten Schutz vor den Güssen. Der Nachmittag gehört der Ruhe in den Kathedralen. Den Abend lassen wir trotz Regen auf der Klosterinsel ausklingen, während sich die Lichter der Stadt in den Pfützen spiegeln.",
+            "hu": "Az esős reggel a Dnyeper-parton indul, ahol a folyami pára misztikus hangulatot áraszt. Délben a Menóra Központ és a Történeti Múzeum nyújt száraz menedéket. Délután a székesegyházak belső tereiben pihenhetünk meg a záporok elől. Az este a Monostor-szigetnél ér minket, ahol a vizes aszfalton megcsillannak a város fényei.",
+            "ro": "O dimineață ploioasă pe faleza Niprului oferă o atmosferă melancolică, dar fascinantă. La prânz, Centrul Menorah și Muzeul de Istorie oferă adăpostul perfect împotriva ploii. După-amiaza este dedicată liniștii din catedrale. Seara se încheie pe Insula Mănăstirii, unde luminile orașului se reflectă superb în bălțile de pe asfalt.",
+            "en": "A rainy morning on the Dnipro Embankment offers a moody yet beautiful atmosphere. By noon, the Menorah Center and Historical Museum provide the perfect dry sanctuary. The afternoon is spent in the quiet peace of the cathedrals. End the day at Monastery Island, watching the city lights shimmer on the wet pavements."
+          },
+          "stops": [
+            {
+              "name": "Start: Dnipro River Embankment",
+              "tip_5lang": {
+                "de": "Uferweg kann windig sein, Schirm gut festhalten.",
+                "hu": "Szeles lehet a part, tartsuk erősen az esernyőt.",
+                "ro": "Faleza poate fi vântoasă, țineți bine umbrela.",
+                "en": "The embankment can be windy; hold your umbrella tight."
+              }
+            },
+            {
+              "name": "Holy Trinity Cathedral",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um einen kurzen Schauer abzuwarten.",
+                "hu": "Ideális hely egy rövid zápor átvészelésére.",
+                "ro": "Un loc ideal pentru a aștepta trecerea unei averse scurte.",
+                "en": "An ideal place to wait out a short rain shower."
+              }
+            },
+            {
+              "name": "Menorah Center",
+              "tip_5lang": {
+                "de": "Komplett überdacht, perfekt für eine lange Regenpause.",
+                "hu": "Teljesen fedett, tökéletes egy hosszú esőpihenőhöz.",
+                "ro": "Complet acoperit, perfect pentru o pauză lungă de ploaie.",
+                "en": "Fully covered, perfect for a long rain break."
+              }
+            },
+            {
+              "name": "Yavornytsky Historical Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe für nasse Mäntel.",
+                "hu": "Használja a ruhatárat a vizes kabátoknak.",
+                "ro": "Folosiți garderoba pentru hainele ude.",
+                "en": "Use the cloakroom for your wet coats."
+              }
+            },
+            {
+              "name": "Transfiguration Cathedral",
+              "tip_5lang": {
+                "de": "Ruhiger Rückzugsort vor dem prasselnden Regen.",
+                "hu": "Csendes menedék a kopogó eső elől.",
+                "ro": "Refugiu liniștit departe de ploaia torențială.",
+                "en": "A quiet retreat from the pattering rain."
+              }
+            },
+            {
+              "name": "Taras Shevchenko Park",
+              "tip_5lang": {
+                "de": "Die asphaltierten Wege meiden tiefe Pfützen.",
+                "hu": "Az aszfaltozott utak segítenek elkerülni a sarat.",
+                "ro": "Potecile asfaltate evită bălțile adânci.",
+                "en": "Paved paths help avoid deep puddles."
+              }
+            },
+            {
+              "name": "Monastery Island",
+              "tip_5lang": {
+                "de": "Die Brücke ist bei Regen rutschig, Vorsicht!",
+                "hu": "A híd esőben csúszós lehet, vigyázzon!",
+                "ro": "Podul poate fi alunecos pe ploaie, atenție!",
+                "en": "The bridge can be slippery in the rain, be careful!"
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für die langen Uferwege.",
+              "Nutzen Sie die Passage im Menorah-Zentrum als Abkürzung.",
+              "Unterführungen bieten kurzzeitig Schutz bei Starkregen.",
+              "Die Cafés im Zentrum haben oft Schirmständer bereit."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a hosszú parti sétákhoz.",
+              "Használja a Menóra Központ átjáróit rövidítésként.",
+              "A gyalogos aluljárók jó menedéket nyújtanak felhőszakadáskor.",
+              "A belvárosi kávézókban szinte mindenhol van esernyőtartó."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru plimbările lungi pe faleză.",
+              "Folosiți pasajele din Centrul Menorah ca scurtături.",
+              "Subpasajele pietonale oferă adăpost bun în timpul averselor.",
+              "Cafenelele din centru au de obicei suporturi pentru umbrele."
+            ],
+            "en": [
+              "Wear waterproof shoes for the long embankment walks.",
+              "Use the Menorah Center passages as a dry shortcut.",
+              "Pedestrian underpasses provide good shelter during heavy downpours.",
+              "Most city center cafes provide umbrella stands."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen am Dnjepr zeigt den Fluss oft in Eis gehüllt. Mittags bieten das Menorah-Zentrum und das Museum wohlige Wärme und Kultur. Der Nachmittag in den verschneiten Parks wirkt wie ein Märchen, bevor die frühe Dämmerung die Stadt in goldenes Licht taucht. Der Abend endet mit einem heißen Getränk nahe der Klosterinsel.",
+            "hu": "A fagyos reggelen a Dnyeper gyakran jégtáblákkal teli. Délben a Menóra Központ és a Múzeum nyújt meleget és kulturális élményt. A délutáni séta a havas parkokban mesebeli hangulatot áraszt, mielőtt a korai sötétedés arany fénybe vonja a várost. Az este egy forró ital mellett ér véget a Monostor-sziget közelében.",
+            "ro": "O dimineață geroasă pe Nipru arată adesea râul acoperit de gheață. La prânz, Centrul Menorah și Muzeul oferă căldură și cultură. După-amiaza în parcurile înzăpezite pare un basm, înainte ca amurgul timpuriu să scalde orașul în lumină aurie. Seara se încheie cu o băutură caldă lângă Insula Mănăstirii.",
+            "en": "A frosty morning by the Dnipro often reveals the river partially frozen. By noon, the Menorah Center and Museum offer cozy warmth and culture. An afternoon stroll through snowy parks feels like a fairytale before the early sunset bathes the city in golden light. The day ends with a hot drink near Monastery Island."
+          },
+          "stops": [
+            {
+              "name": "Start: Dnipro River Embankment",
+              "tip_5lang": {
+                "de": "Warme Kleidung ist Pflicht, der Wind vom Fluss ist eisig.",
+                "hu": "Meleg ruha kötelező, a folyó felől metsző szél fúj.",
+                "ro": "Hainele groase sunt obligatorii, vântul de pe râu este tăios.",
+                "en": "Warm clothes are a must; the wind from the river is icy."
+              }
+            },
+            {
+              "name": "Holy Trinity Cathedral",
+              "tip_5lang": {
+                "de": "Ein warmer Ort für ein kurzes Gebet und zum Aufwärmen.",
+                "hu": "Meleg hely egy rövid imához és átmelegedéshez.",
+                "ro": "Un loc cald pentru o scurtă rugăciune și încălzire.",
+                "en": "A warm place for a short prayer and to thaw out."
+              }
+            },
+            {
+              "name": "Menorah Center",
+              "tip_5lang": {
+                "de": "Perfekt geheizt, genießen Sie die Aussicht von drinnen.",
+                "hu": "Kiválóan fűtött, élvezze a kilátást belülről.",
+                "ro": "Bine încălzit, bucurați-vă de priveliște din interior.",
+                "en": "Well-heated; enjoy the view from the inside."
+              }
+            },
+            {
+              "name": "Yavornytsky Historical Museum",
+              "tip_5lang": {
+                "de": "Verbringen Sie hier die kältesten Stunden des Tages.",
+                "hu": "Itt töltse a nap leghidegebb óráit.",
+                "ro": "Petreceți aici cele mai reci ore ale zilei.",
+                "en": "Spend the coldest hours of the day inside here."
+              }
+            },
+            {
+              "name": "Transfiguration Cathedral",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stufen am Kircheneingang.",
+                "hu": "Vigyázzon a jeges lépcsőkre a templom bejáratánál.",
+                "ro": "Atenție la treptele înghețate de la intrarea în biserică.",
+                "en": "Watch out for icy steps at the church entrance."
+              }
+            },
+            {
+              "name": "Taras Shevchenko Park",
+              "tip_5lang": {
+                "de": "Wunderschön im Schnee, aber Wege können glatt sein.",
+                "hu": "Gyönyörű a hóban, de az utak csúszósak lehetnek.",
+                "ro": "Superb în zăpadă, dar aleile pot fi alunecoase.",
+                "en": "Beautiful in the snow, but paths can be slippery."
+              }
+            },
+            {
+              "name": "Monastery Island",
+              "tip_5lang": {
+                "de": "Sonnenuntergang ist im Winter bereits gegen 16:00 Uhr.",
+                "hu": "Télen a naplemente már 16:00 körül bekövetkezik.",
+                "ro": "Apusul în timpul iernii este deja în jurul orei 16:00.",
+                "en": "Sunset in winter is already around 4:00 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermo-Einlegesohlen für die langen Märsche.",
+              "Die Sonne geht früh unter, planen Sie Outdoor-Fotos vor 15 Uhr.",
+              "Heißer Tee ist an vielen Kiosken am Ufer erhältlich.",
+              "Vorsicht vor Eiszapfen an alten Gebäuden im Zentrum."
+            ],
+            "hu": [
+              "Viseljen termobetétet a cipőjében a hosszú sétákhoz.",
+              "A nap korán nyugszik, a fotókat tervezze 15 óra elé.",
+              "Forró tea szinte minden parti bódéban kapható.",
+              "Vigyázzon a jégcsapokra a belvárosi régi épületeknél."
+            ],
+            "ro": [
+              "Purtați branțuri termice pentru plimbările lungi.",
+              "Soarele apune devreme, planificați fotografiile înainte de ora 15.",
+              "Ceai cald este disponibil la multe chioșcuri de pe faleză.",
+              "Atenție la țurțurii de gheață de pe clădirile vechi din centru."
+            ],
+            "en": [
+              "Wear thermal insoles for the long walks.",
+              "The sun sets early; plan your outdoor photos before 3 PM.",
+              "Hot tea is available at many kiosks along the embankment.",
+              "Watch out for icicles on old buildings in the center."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -766,6 +966,224 @@
           "Always lock your bike securely when you park it.",
           "Some hills require a bit of effort, but the views are worth it."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert Vorsicht am rutschigen Dnjepr-Ufer. Mittags bieten die Museen eine willkommene Trockenpause für Mensch und Rad. Der Nachmittag führt durch die Parks, wo die Blätter unter den Reifen rascheln. Der Abend endet schnell und effizient im Stadtzentrum.",
+            "hu": "Az esős bringázás óvatosságot igényel a csúszós Dnyeper-parton. Délben a múzeumok kínálnak száraz pihenőt bringásnak és gépnek egyaránt. Délután a parkokon át vezet az út, ahol a vizes levelek az abroncsok alatt surrogna. Az este gyorsan és hatékonyan zárul a városközpontban.",
+            "ro": "Ciclismul pe ploaie necesită prudență pe faleza alunecoasă a Niprului. La prânz, muzeele oferă o pauză uscată binemeritată. După-amiaza trece prin parcuri, unde frunzele ude foșnesc sub roți. Seara se încheie rapid și eficient în centrul orașului.",
+            "en": "Cycling in the rain requires caution on the slippery Dnipro Embankment. By noon, museums offer a welcome dry break for both rider and bike. The afternoon leads through parks where wet leaves rustle under the tires. The day ends efficiently in the city center."
+          },
+          "stops": [
+            {
+              "name": "Globa Park",
+              "tip_5lang": {
+                "de": "Asphaltierte Wege nutzen, um Matsch zu vermeiden.",
+                "hu": "Használja az aszfaltozott utakat a sár elkerülésére.",
+                "ro": "Folosiți aleile asfaltate pentru a evita noroiul.",
+                "en": "Stick to paved paths to avoid mud."
+              }
+            },
+            {
+              "name": "Rocket Park",
+              "tip_5lang": {
+                "de": "Kurzer Stopp, die Raketen glänzen im Regen.",
+                "hu": "Rövid megálló, a rakéták fényesen csillognak az esőben.",
+                "ro": "Oprire scurtă, rachetele strălucesc în ploaie.",
+                "en": "Short stop; the rockets gleam in the rain."
+              }
+            },
+            {
+              "name": "Dnipro River Embankment",
+              "tip_5lang": {
+                "de": "Vorsicht bei Pfützen, sie könnten tief sein.",
+                "hu": "Vigyázzon a tócsákkal, mélyek lehetnek.",
+                "ro": "Atenție la bălți, pot fi adânci.",
+                "en": "Be careful with puddles; they might be deep."
+              }
+            },
+            {
+              "name": "Merefa-Kherson Bridge",
+              "tip_5lang": {
+                "de": "Fahrbahnmarkierungen sind bei Nässe extrem glatt.",
+                "hu": "Az útburkolati jelek vizesen rendkívül csúszósak.",
+                "ro": "Marcajele rutiere sunt extrem de alunecoase pe ud.",
+                "en": "Road markings are extremely slippery when wet."
+              }
+            },
+            {
+              "name": "Monastery Island",
+              "tip_5lang": {
+                "de": "Die Rampe zur Insel vorsichtig befahren.",
+                "hu": "A szigetre vezető rámpán hajtson óvatosan.",
+                "ro": "Urcați rampa spre insulă cu prudență.",
+                "en": "Ride the ramp to the island carefully."
+              }
+            },
+            {
+              "name": "Taras Shevchenko Park",
+              "tip_5lang": {
+                "de": "Gute Bremsen sind bei den Gefällen wichtig.",
+                "hu": "A lejtőkön fontos a jó fékhatás.",
+                "ro": "Frânele bune sunt esențiale pe pante.",
+                "en": "Good brakes are essential on the slopes."
+              }
+            },
+            {
+              "name": "Yavornytsky Historical Museum",
+              "tip_5lang": {
+                "de": "Fahrradständer sind oft ungeschützt, Schloss ölen.",
+                "hu": "A bringatárolók fedetlenek, olajozza a zárat.",
+                "ro": "Rastelele sunt neprotejate, ungeți încuietoarea.",
+                "en": "Bike racks are uncovered; oil your lock."
+              }
+            },
+            {
+              "name": "Menorah Center",
+              "tip_5lang": {
+                "de": "Sicherer Abstellplatz in der Nähe vorhanden.",
+                "hu": "Biztonságos tárolóhely a közelben.",
+                "ro": "Loc de parcare sigur disponibil în apropiere.",
+                "en": "Secure parking spot available nearby."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind bei diesem Wetter unverzichtbar.",
+              "Reduzieren Sie den Reifendruck für besseren Grip.",
+              "Tragen Sie eine neongelbe Regenjacke für Sichtbarkeit.",
+              "Vermeiden Sie abrupte Bremsmanöver auf Kopfsteinpflaster."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen ilyen időben.",
+              "Csökkentse kicsit a guminyomást a jobb tapadásért.",
+              "Viseljen feltűnő esőkabátot a láthatóságért.",
+              "Kerülje a hirtelen fékezést a macskakövön."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt indispensabile pe acest timp.",
+              "Reduceți puțin presiunea în pneuri pentru aderență.",
+              "Purtați o pelerină reflectorizantă pentru vizibilitate.",
+              "Evitați frânările bruște pe piatra cubică."
+            ],
+            "en": [
+              "Mudguards are indispensable in this weather.",
+              "Lower your tire pressure slightly for better grip.",
+              "Wear a high-visibility raincoat for safety.",
+              "Avoid sudden braking on cobblestones."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radeln in Dnipro ist eine Herausforderung gegen Kälte und Wind. Der Vormittag führt durch frostige Parks, während der Mittag im warmen Menorah-Zentrum zur Regeneration genutzt wird. Nachmittags gleitet man über festgetretenen Schnee, bevor die Kälte den Heimweg beschleunigt. Ein kurzer, intensiver Tag auf zwei Rädern.",
+            "hu": "A téli bringázás Dnyipróban kihívás a hideg és a szél ellen. A délelőtt fagyos parkokon át vezet, míg a délutánt a meleg Menóra Központban töltjük regenerálódással. A délutáni suhanás a letaposott havon különleges élmény, mielőtt a fagy gyors hazatérésre késztet. Rövid, de intenzív nap két keréken.",
+            "ro": "Ciclismul de iarnă în Nipru este o provocare împotriva frigului și vântului. Dimineața trece prin parcuri înghețate, iar prânzul este folosit pentru regenerare în Centrul Menorah. După-amiaza se alunecă pe zăpadă bătătorită, înainte ca gerul să grăbească drumul spre casă. O zi scurtă, dar intensă pe două roți.",
+            "en": "Winter cycling in Dnipro is a challenge against cold and wind. The morning leads through frosty parks, while noon is used for recovery in the warm Menorah Center. In the afternoon, glide over packed snow before the freezing air hastens the ride home. A short but intense day on two wheels."
+          },
+          "stops": [
+            {
+              "name": "Globa Park",
+              "tip_5lang": {
+                "de": "Vorsicht vor vereisten Stellen auf den Brücken.",
+                "hu": "Vigyázzon a jeges foltokra a hidakon.",
+                "ro": "Atenție la porțiunile înghețate de pe poduri.",
+                "en": "Watch out for icy patches on the bridges."
+              }
+            },
+            {
+              "name": "Rocket Park",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp, Metallteile nicht berühren!",
+                "hu": "Rövid fotóstop, ne érjen a fém részekhez!",
+                "ro": "Oprire scurtă, nu atingeți părțile metalice!",
+                "en": "Short photo stop; do not touch metal parts!"
+              }
+            },
+            {
+              "name": "Dnipro River Embankment",
+              "tip_5lang": {
+                "de": "Extremer Windchill am offenen Flussufer.",
+                "hu": "Extrém szélhideg a nyitott folyóparton.",
+                "ro": "Vânt extrem de rece pe malul deschis al râului.",
+                "en": "Extreme wind chill on the open riverbank."
+              }
+            },
+            {
+              "name": "Merefa-Kherson Bridge",
+              "tip_5lang": {
+                "de": "Oft wehen Schneeverwehungen auf den Radweg.",
+                "hu": "Gyakran hófúvások nehezítik a kerékpárutat.",
+                "ro": "Deseori zăpada troienită blochează pista.",
+                "en": "Snowdrifts often cover the bike path here."
+              }
+            },
+            {
+              "name": "Monastery Island",
+              "tip_5lang": {
+                "de": "Der Zugang kann bei Glätte gesperrt sein.",
+                "hu": "Jegesedés esetén a bejárat lezárva lehet.",
+                "ro": "Accesul poate fi închis în caz de polei.",
+                "en": "Access might be closed in case of heavy ice."
+              }
+            },
+            {
+              "name": "Taras Shevchenko Park",
+              "tip_5lang": {
+                "de": "Die Abfahrten sind im Winter riskant.",
+                "hu": "A lejtők télen kockázatosak lehetnek.",
+                "ro": "Coborârile sunt riscante pe timp de iarnă.",
+                "en": "Downhill sections are risky in winter."
+              }
+            },
+            {
+              "name": "Yavornytsky Historical Museum",
+              "tip_5lang": {
+                "de": "Akkus entladen sich bei Kälte schneller.",
+                "hu": "Az akkuk hidegben gyorsabban merülnek.",
+                "ro": "Bateriile se descarcă mai repede la ger.",
+                "en": "Batteries drain faster in the cold."
+              }
+            },
+            {
+              "name": "Menorah Center",
+              "tip_5lang": {
+                "de": "Idealer Ort, um die Finger wieder aufzuwärmen.",
+                "hu": "Ideális hely az ujjak átmelegítésére.",
+                "ro": "Loc ideal pentru a vă reîncălzi degetele.",
+                "en": "Ideal place to warm up your fingers."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen oder Spikes sind sehr zu empfehlen.",
+              "Fetten Sie die Kette häufiger gegen Streusalz.",
+              "Tragen Sie geschlossene Handschuhe und Gesichtsschutz.",
+              "Planen Sie mehr Zeit für die gleiche Strecke ein."
+            ],
+            "hu": [
+              "Téli gumi vagy szöges abroncs ajánlott.",
+              "Zsírozza gyakrabban a láncot az útszóró só ellen.",
+              "Viseljen zárt kesztyűt és arcvédőt.",
+              "Tervezzen több időt ugyanarra a távra."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sau cu ținte sunt recomandate.",
+              "Ungeți lanțul mai des împotriva sării de pe drum.",
+              "Purtați mănuși groase și protecție pentru față.",
+              "Alocați mai mult timp pentru aceeași distanță."
+            ],
+            "en": [
+              "Winter tires or studs are highly recommended.",
+              "Grease your chain more often against road salt.",
+              "Wear lobster gloves and a face mask.",
+              "Allow more time for the same distance."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1134,6 +1552,206 @@
           "Pay attention to parking regulations to avoid fines.",
           "A car gives you the flexibility to visit more distant places as well."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Im Auto lässt sich der Regen in Dnipro entspannt ignorieren. Der Vormittag beginnt mit einer Fahrt entlang des Ufers, gefolgt von trockenen Stopps in den Museen. Mittags genießt man den Blick aus dem Autofenster auf die verregnete Stadt, bevor man abends bequem direkt vor den Sehenswürdigkeiten parkt.",
+            "hu": "Autóval a dnyiprói eső könnyen figyelmen kívül hagyható. A délelőtt egy parti autózással indul, majd száraz megállókkal folytatódik a múzeumoknál. Délben az autó ablakából csodálhatjuk az eső áztatta várost, este pedig kényelmesen, közvetlenül a látnivalók előtt parkolhatunk.",
+            "ro": "Cu mașina, ploaia din Nipru poate fi ignorată cu ușurință. Dimineața începe cu o plimbare pe faleză, urmată de opriri uscate la muzee. La prânz, admirați orașul udat de ploaie prin geamul mașinii, iar seara parcați confortabil chiar în fața obiectivelor turistice.",
+            "en": "By car, the rain in Dnipro is easy to ignore. The morning starts with a drive along the embankment, followed by dry stops at museums. At noon, enjoy the view of the rainy city through the car window, and in the evening, park conveniently right in front of the sights."
+          },
+          "stops": [
+            {
+              "name": "Start & Cluster A: Globa Park",
+              "tip_5lang": {
+                "de": "Parkplätze am Eingang oft bei Regen belegt.",
+                "hu": "A bejárati parkolók esőben hamar megtelnek.",
+                "ro": "Parcările de la intrare se ocupă rapid pe ploaie.",
+                "en": "Parking spots near the entrance fill up fast in the rain."
+              }
+            },
+            {
+              "name": "Holy Trinity Cathedral",
+              "tip_5lang": {
+                "de": "Kurzparkzone direkt vor der Kirche nutzen.",
+                "hu": "Használja a templom előtti rövid távú parkolót.",
+                "ro": "Folosiți parcarea de scurtă durată din fața bisericii.",
+                "en": "Use the short-term parking right in front of the church."
+              }
+            },
+            {
+              "name": "Cluster B: Menorah Center",
+              "tip_5lang": {
+                "de": "Tiefgarage bietet den trockensten Zugang.",
+                "hu": "A mélygarázs biztosítja a legszárazabb bejutást.",
+                "ro": "Parcarea subterană oferă cel mai uscat acces.",
+                "en": "The underground garage offers the driest access."
+              }
+            },
+            {
+              "name": "Yavornytsky Historical Museum",
+              "tip_5lang": {
+                "de": "Vorsicht vor tiefen Pfützen am Straßenrand.",
+                "hu": "Vigyázzon a mély tócsákra az út szélén.",
+                "ro": "Atenție la bălțile adânci de la marginea drumului.",
+                "en": "Watch out for deep puddles at the curb."
+              }
+            },
+            {
+              "name": "Cluster C: Taras Shevchenko Park",
+              "tip_5lang": {
+                "de": "Parken am Parkeingang spart lange Laufwege.",
+                "hu": "A park bejáratánál parkolva megspórolja a gyaloglást.",
+                "ro": "Parcarea la intrare vă scutește de mersul prin ploaie.",
+                "en": "Parking at the park entrance saves walking in the rain."
+              }
+            },
+            {
+              "name": "Transfiguration Cathedral",
+              "tip_5lang": {
+                "de": "Gute Sichtbarkeit beim Abbiegen im Regen wichtig.",
+                "hu": "Fontos a jó láthatóság az esőben való kanyarodáskor.",
+                "ro": "Vizibilitatea bună este esențială la virajele pe ploaie.",
+                "en": "Good visibility is key when turning in the rain."
+              }
+            },
+            {
+              "name": "Monastery Island",
+              "tip_5lang": {
+                "de": "Parkplatz an der Brücke ist oft schlammig.",
+                "hu": "A híd melletti parkoló esőben gyakran sáros.",
+                "ro": "Parcarea de lângă pod este adesea noroioasă.",
+                "en": "The parking lot near the bridge is often muddy."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Scheibenwischer vor der Abfahrt.",
+              "Nutzen Sie Parkhäuser, um trocken ein- und auszusteigen.",
+              "Die Uferstraße kann bei Starkregen leicht überfluten.",
+              "Vermeiden Sie das Spritzen von Passanten am Gehweg."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze az ablaktörlőket.",
+              "Használjon parkolóházakat a száraz ki- és beszálláshoz.",
+              "A parti út heves esőzéskor könnyen víz alá kerülhet.",
+              "Ügyeljen, hogy ne fröccsenjen a járdán lévőkre."
+            ],
+            "ro": [
+              "Verificați ștergătoarele înainte de plecare.",
+              "Folosiți parcările etajate pentru acces uscat.",
+              "Drumul de pe faleză se poate inunda la ploi torențiale.",
+              "Aveți grijă să nu stropiți pietonii de pe trotuar."
+            ],
+            "en": [
+              "Check your wipers before starting the trip.",
+              "Use parking garages for dry entry and exit.",
+              "The embankment road can flood slightly during heavy rain.",
+              "Be careful not to splash pedestrians on the sidewalk."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Autofahrt durch Dnipro ist gemütlich und warm. Der Vormittag bietet Ausblicke auf die verschneite Uferpromenade, während man mittags im beheizten Menorah-Zentrum verweilt. Der Nachmittag führt durch die winterliche Oberstadt, bevor man den Tag bei früh einsetzender Dunkelheit sicher beendet.",
+            "hu": "A téli autózás Dnyipróban kényelmes és meleg. A délelőtt kilátást nyújt a havas parti sétányra, miközben délben a fűtött Menóra Központban időzünk. A délután a téli felsővároson át vezet, mielőtt a korai sötétségben biztonságosan befejeznénk a napot.",
+            "ro": "O plimbare de iarnă cu mașina prin Nipru este confortabilă și caldă. Dimineața oferă priveliști spre faleza înzăpezită, în timp ce la prânz zăbovim în Centrul Menorah încălzit. După-amiaza trece prin orașul de sus înzăpezit, înainte de a încheia ziua în siguranță pe întunericul timpuriu.",
+            "en": "A winter drive through Dnipro is cozy and warm. The morning offers views of the snowy embankment, while noon is spent in the heated Menorah Center. The afternoon leads through the wintery upper city before ending the day safely in the early darkness."
+          },
+          "stops": [
+            {
+              "name": "Start & Cluster A: Globa Park",
+              "tip_5lang": {
+                "de": "Scheiben rechtzeitig enteisen vor dem Start.",
+                "hu": "Indulás előtt időben jégtelenítse a szélvédőt.",
+                "ro": "Dezghețați geamurile din timp înainte de plecare.",
+                "en": "De-ice your windows well before starting."
+              }
+            },
+            {
+              "name": "Holy Trinity Cathedral",
+              "tip_5lang": {
+                "de": "Vorsicht beim Bremsen auf Schneematsch.",
+                "hu": "Vigyázzon a fékezéssel a latyakos úton.",
+                "ro": "Atenție la frânare pe carosabilul cu lătunoaie.",
+                "en": "Be careful when braking on slushy roads."
+              }
+            },
+            {
+              "name": "Cluster B: Menorah Center",
+              "tip_5lang": {
+                "de": "Tiefgarage schützt das Auto vor dem Einfrieren.",
+                "hu": "A mélygarázs megvédi az autót a befagyástól.",
+                "ro": "Parcarea subterană protejează mașina de îngheț.",
+                "en": "Underground parking protects the car from freezing."
+              }
+            },
+            {
+              "name": "Yavornytsky Historical Museum",
+              "tip_5lang": {
+                "de": "Parkplätze können durch Schneehaufen blockiert sein.",
+                "hu": "A parkolókat hóbuckák torlaszolhatják el.",
+                "ro": "Locurile de parcare pot fi blocate de mormane de zăpadă.",
+                "en": "Parking spots might be blocked by snow piles."
+              }
+            },
+            {
+              "name": "Cluster C: Taras Shevchenko Park",
+              "tip_5lang": {
+                "de": "Zufahrtsstraßen in der Oberstadt oft glatt.",
+                "hu": "A felsővárosi mellékutcák gyakran jegesek.",
+                "ro": "Străzile secundare din orașul de sus sunt adesea înghețate.",
+                "en": "Side streets in the upper city are often icy."
+              }
+            },
+            {
+              "name": "Transfiguration Cathedral",
+              "tip_5lang": {
+                "de": "Batterie checken, Kälte beansprucht sie stark.",
+                "hu": "Ellenőrizze az akkut, a hideg erősen igénybe veszi.",
+                "ro": "Verificați bateria, gerul o solicită intens.",
+                "en": "Check your battery; the cold drains it significantly."
+              }
+            },
+            {
+              "name": "Monastery Island",
+              "tip_5lang": {
+                "de": "Abblendlicht einschalten bei Schneefall.",
+                "hu": "Hóesésben kapcsolja be a tompított fényszórót.",
+                "ro": "Aprindeți faza scurtă în caz de ninsoare.",
+                "en": "Turn on your low beams during snowfall."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in der Ukraine gesetzlich vorgeschrieben.",
+              "Führen Sie einen Eiskratzer und Handbesen mit.",
+              "Vermeiden Sie steile Nebenstraßen bei Glatteis.",
+              "Der Kraftstoffverbrauch ist im Winter höher."
+            ],
+            "hu": [
+              "A téli gumi használata Ukrajnában kötelező.",
+              "Tartson az autóban jégkaparót és hóseprűt.",
+              "Jegesedéskor kerülje a meredek mellékutcákat.",
+              "A fogyasztás télen magasabb a fűtés miatt."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii în Ucraina.",
+              "Țineți în mașină o racletă și o măturice de zăpadă.",
+              "Evitați străzile în pantă în caz de polei.",
+              "Consumul de combustibil este mai mare iarna."
+            ],
+            "en": [
+              "Winter tires are legally required in Ukraine.",
+              "Keep an ice scraper and a snow brush in the car.",
+              "Avoid steep side streets during icy conditions.",
+              "Fuel consumption is higher in winter due to heating."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1502,6 +2120,206 @@
           "Be prepared for crowded buses and trolleybuses during peak hours.",
           "Always validate your ticket to avoid fines."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der öffentliche Nahverkehr in Dnipro bietet eine trockene Alternative im Regen. Der Vormittag startet mit einer Straßenbahnfahrt entlang des Ufers. Mittags wechselt man schnell zwischen den überdachten Museen und dem Menorah-Zentrum. Der Nachmittag wird gemütlich in den Bussen verbracht, während der Regen gegen die Scheiben trommelt.",
+            "hu": "A dnyiprói tömegközlekedés száraz alternatívát kínál az esőben. A délelőtt egy villamosozással indul a part mentén. Délben gyorsan válthatunk a fedett múzeumok és a Menóra Központ között. A délutánt kényelmesen a buszokon töltjük, miközben az eső a szélvédőn kopog.",
+            "ro": "Transportul public din Nipru oferă o alternativă uscată pe ploaie. Dimineața începe cu o plimbare cu tramvaiul pe faleză. La prânz, schimbați rapid între muzeele acoperite și Centrul Menorah. După-amiaza este petrecută confortabil în autobuze, în timp ce ploaia bate în geamuri.",
+            "en": "Public transit in Dnipro offers a dry alternative in the rain. The morning starts with a tram ride along the embankment. At noon, switch quickly between covered museums and the Menorah Center. The afternoon is spent comfortably on buses while rain drums against the windows."
+          },
+          "stops": [
+            {
+              "name": "Start & Cluster A: Dnipro River Embankment",
+              "tip_5lang": {
+                "de": "Warten Sie unter den Kioskdächern auf den Bus.",
+                "hu": "Várjon a buszra a bódék eresze alatt.",
+                "ro": "Așteptați autobuzul sub streșinile chioșcurilor.",
+                "en": "Wait for the bus under the kiosk awnings."
+              }
+            },
+            {
+              "name": "Rocket Park",
+              "tip_5lang": {
+                "de": "Haltestellen sind oft nicht überdacht, Schirm bereit.",
+                "hu": "A megállók gyakran fedetlenek, legyen kéznél az ernyő.",
+                "ro": "Stațiile sunt adesea neacoperite, pregătiți umbrela.",
+                "en": "Stops are often uncovered; have your umbrella ready."
+              }
+            },
+            {
+              "name": "Cluster B: Holy Trinity Cathedral",
+              "tip_5lang": {
+                "de": "Zentrale Umstiegsknoten bieten meist Schutz.",
+                "hu": "A központi átszállóhelyek legtöbbször fedettek.",
+                "ro": "Nodurile centrale de transfer sunt de obicei protejate.",
+                "en": "Central transfer hubs usually provide shelter."
+              }
+            },
+            {
+              "name": "Menorah Center",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg von der nächsten Haltestelle.",
+                "hu": "Rövid séta a legközelebbi megállótól.",
+                "ro": "Scurtă plimbare de la cea mai apropiată stație.",
+                "en": "Short walk from the nearest stop."
+              }
+            },
+            {
+              "name": "Cluster C: Transfiguration Cathedral",
+              "tip_5lang": {
+                "de": "Straßenbahnen können bei Starkregen Verspätung haben.",
+                "hu": "Heves esőben a villamosok késhetnek.",
+                "ro": "Tramvaiele pot avea întârzieri la ploi torențiale.",
+                "en": "Trams might be delayed during heavy rain."
+              }
+            },
+            {
+              "name": "Taras Shevchenko Park",
+              "tip_5lang": {
+                "de": "Fahrplan-App nutzen, um Wartezeiten im Regen zu minimieren.",
+                "hu": "Használjon menetrendi appot a várakozás csökkentésére.",
+                "ro": "Folosiți aplicația de transport pentru a minimiza așteptarea.",
+                "en": "Use a transit app to minimize waiting in the rain."
+              }
+            },
+            {
+              "name": "Monastery Island",
+              "tip_5lang": {
+                "de": "Nasse Böden in den Bussen können rutschig sein.",
+                "hu": "A vizes padló a buszokon csúszós lehet.",
+                "ro": "Podeaua udă din autobuze poate fi alunecoasă.",
+                "en": "Wet floors in buses can be slippery."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie Fahrkarten vorab am Kiosk.",
+              "Die Metro ist der trockenste Ort der Stadt.",
+              "Tragen Sie Kleidung, die schnell trocknet.",
+              "Halten Sie sich in den Kurven gut fest (nasse Haltestangen)."
+            ],
+            "hu": [
+              "Vásároljon jegyet előre a bódékban.",
+              "A metró a város legszárazabb helye.",
+              "Viseljen gyorsan száradó ruházatot.",
+              "Kanyarokban kapaszkodjon erősen (csúszós kapaszkodók)."
+            ],
+            "ro": [
+              "Cumpărați bilete în avans de la chioșcuri.",
+              "Metroul este cel mai uscat loc din oraș.",
+              "Purtați haine care se usucă repede.",
+              "Țineți-vă bine în curbe (barele pot fi umede)."
+            ],
+            "en": [
+              "Buy tickets in advance at kiosks.",
+              "The metro is the driest place in the city.",
+              "Wear quick-drying clothing.",
+              "Hold on tight in turns (wet handrails can be slippery)."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Öffentliche Verkehrsmittel sind im Winter der Rettungsanker gegen die Kälte. Der Vormittag beginnt in der warmen Straßenbahn mit Blick auf das Eis. Mittags nutzt man die kurzen Wege zwischen den Museen und dem Menorah-Zentrum. Der Nachmittag vergeht im Rhythmus der Stadtbusse, bevor man abends schnell im geheizten Abteil nach Hause fährt.",
+            "hu": "A tömegközlekedés télen a mentőöv a hideg ellen. A délelőtt a meleg villamoson indul, kilátással a jégre. Délben kihasználjuk a rövid távokat a múzeumok és a Menóra Központ között. A délután a városi buszok ritmusában telik, mielőtt este gyorsan a fűtött utastérbe menekülnénk.",
+            "ro": "Transportul public este colacul de salvare împotriva gerului iarna. Dimineața începe în tramvaiul cald cu vedere la gheață. La prânz, profităm de distanțele scurte între muzee și Centrul Menorah. După-amiaza trece în ritmul autobuzelor urbane, înainte de a ne retrage seara în compartimentele încălzite.",
+            "en": "Public transit is the lifesaver against the cold in winter. The morning starts in a warm tram with views of the ice. At noon, take advantage of the short distances between museums and the Menorah Center. The afternoon follows the rhythm of city buses before retreating to heated interiors in the evening."
+          },
+          "stops": [
+            {
+              "name": "Start & Cluster A: Dnipro River Embankment",
+              "tip_5lang": {
+                "de": "Wartehäuschen bieten Schutz vor dem schneidenden Wind.",
+                "hu": "A várók védenek a metsző szél ellen.",
+                "ro": "Refugiile din stații protejează de vântul tăios.",
+                "en": "Station shelters protect against the biting wind."
+              }
+            },
+            {
+              "name": "Rocket Park",
+              "tip_5lang": {
+                "de": "Türen schließen im Winter oft automatisch gegen Kälte.",
+                "hu": "Télen az ajtók gyakran automatikusan záródnak a hideg miatt.",
+                "ro": "Iarna, ușile se închid adesea automat pentru a păstra căldura.",
+                "en": "Doors often close automatically in winter to keep heat in."
+              }
+            },
+            {
+              "name": "Cluster B: Holy Trinity Cathedral",
+              "tip_5lang": {
+                "de": "Zentraler Platz, viele Linien fahren hier häufig.",
+                "hu": "Központi hely, sok járat sűrűn közlekedik itt.",
+                "ro": "Loc central, multe linii circulă frecvent aici.",
+                "en": "Central location; many lines run frequently here."
+              }
+            },
+            {
+              "name": "Menorah Center",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Wärme im Inneren beim Warten.",
+                "hu": "Használja ki a benti meleget várakozás közben.",
+                "ro": "Profitați de căldura din interior în timp ce așteptați.",
+                "en": "Take advantage of the indoor warmth while waiting."
+              }
+            },
+            {
+              "name": "Cluster C: Transfiguration Cathedral",
+              "tip_5lang": {
+                "de": "Fenster in der Tram können im Winter beschlagen sein.",
+                "hu": "A villamos ablakai télen párásak lehetnek.",
+                "ro": "Geamurile tramvaiului pot fi aburite iarna.",
+                "en": "Tram windows can be foggy/frosted in winter."
+              }
+            },
+            {
+              "name": "Taras Shevchenko Park",
+              "tip_5lang": {
+                "de": "Planen Sie Pufferzeiten für witterungsbedingte Staus ein.",
+                "hu": "Tervezzen plusz időt az időjárás miatti dugókra.",
+                "ro": "Alocați timp suplimentar pentru blocajele din cauza vremii.",
+                "en": "Allow extra time for weather-related traffic jams."
+              }
+            },
+            {
+              "name": "Monastery Island",
+              "tip_5lang": {
+                "de": "Letzte Fahrten können bei extremem Frost entfallen.",
+                "hu": "Extrém fagyban az utolsó járatok kimaradhatnak.",
+                "ro": "La ger extrem, ultimele curse pot fi anulate.",
+                "en": "In extreme frost, the last trips might be cancelled."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Metro, um extremen Frost zu meiden.",
+              "Warten Sie in Geschäften nahe der Haltestelle.",
+              "Achten Sie auf Glatteis beim Ein- und Aussteigen.",
+              "Heizungen in alten Trams sind manchmal schwach."
+            ],
+            "hu": [
+              "Használja a metrót az extrém fagy elkerülésére.",
+              "Várjon a megálló közeli üzletekben.",
+              "Ügyeljen a jegesedésre le- és felszálláskor.",
+              "A régi villamosokon a fűtés néha gyenge."
+            ],
+            "ro": [
+              "Folosiți metroul pentru a evita gerul extrem.",
+              "Așteptați în magazinele de lângă stație.",
+              "Atenție la polei când urcați sau coborâți.",
+              "Încălzirea în tramvaiele vechi este uneori slabă."
+            ],
+            "en": [
+              "Use the metro to avoid extreme frost.",
+              "Wait inside shops near the bus stops.",
+              "Watch out for ice when getting on or off.",
+              "Heating in old trams can be weak sometimes."
+            ]
+          }
+        }
       }
     }
   }

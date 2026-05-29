@@ -342,6 +342,188 @@
           "Most shops close for an afternoon siesta, so plan accordingly.",
           "Enjoy a leisurely lunch; it's an important part of Spanish culture."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet der Platz der Verfassung unter den Arkaden ersten Schutz, gefolgt von der prächtigen Kathedrale. \nMittags erkunden wir das Hospital de San José, das heute als Kulturzentrum dient und trocken bleibt. \nNachmittags genießen wir ein ausgiebiges Mittagessen in der Altstadt, während es draußen regnet. \nAbends beenden wir den Tag mit einem kurzen, erfrischenden Spaziergang durch den Alhóndiga-Park.",
+            "hu": "Reggel az Alkotmány tér árkádjai alatt kezdünk, majd a székesegyház hűvös falaiban gyönyörködünk az eső elől. \nDélben a San José Kórház épületében keresünk kulturális élményeket fedett helyen. \nDélután egy hosszú, kényelmes ebéddel várjuk ki a zápor végét egy belvárosi étteremben. \nEste a friss levegőn teszünk egy rövid kört az Alhóndiga-park tavai körül.",
+            "ro": "Dimineața, Piața Constituției oferă adăpost sub arcade, urmată de vizitarea interiorului cald al catedralei. \nLa prânz, explorăm Spitalul San José, acum centru cultural, perfect pentru a evita ploaia. \nDupă-amiaza, ne bucurăm de un prânz prelungit într-un restaurant primitor din centru. \nSeara, încheiem ziua cu o scurtă plimbare revigorantă prin Parcul Alhóndiga, sub umbrelă.",
+            "en": "In the morning, Constitution Square offers shelter under its arcades, followed by a visit to the dry cathedral. \nAt noon, we explore the Hospital of San José, a cultural space that keeps us away from the raindrops. \nIn the afternoon, we enjoy a long, cozy lunch in the city center while watching the rain. \nIn the evening, we take a brief, refreshing walk through Alhóndiga Park with an umbrella."
+          },
+          "stops": [
+            {
+              "name": "Constitution Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden rund um den Platz, um bei Schauern trocken zu bleiben.",
+                "hu": "Használja a tér körüli árkádokat, hogy száraz maradjon a záporok idején.",
+                "ro": "Folosiți arcadele din jurul pieței pentru a rămâne uscați în timpul ploii.",
+                "en": "Use the arcades around the square to stay dry during showers."
+              }
+            },
+            {
+              "name": "Cathedral of Saint Mary Magdalene",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um das Retabel zu bewundern, während es draußen regnet.",
+                "hu": "Ideális hely az oltárkép megcsodálására, amíg odakint esik.",
+                "ro": "Un loc ideal pentru a admira retablul în timp ce afară plouă.",
+                "en": "An ideal place to admire the altarpiece while it rains outside."
+              }
+            },
+            {
+              "name": "Hospital of San José",
+              "tip_5lang": {
+                "de": "Das Innere bietet Schutz und interessante kulturelle Ausstellungen.",
+                "hu": "A belső tér védelmet és érdekes kulturális kiállításokat kínál.",
+                "ro": "Interiorul oferă adăpost și expoziții culturale interesante.",
+                "en": "The interior offers shelter and interesting cultural exhibitions."
+              }
+            },
+            {
+              "name": "García Lorca Theatre-Auditorium",
+              "tip_5lang": {
+                "de": "Prüfen Sie das Programm; oft gibt es mittags kurze Indoor-Veranstaltungen.",
+                "hu": "Ellenőrizze a programot; délben gyakran vannak rövid beltéri előadások.",
+                "ro": "Verificați programul; adesea există scurte evenimente interioare la prânz.",
+                "en": "Check the program; there are often short indoor events at noon."
+              }
+            },
+            {
+              "name": "Lunch in the center",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit Fensterplatz, um den Regen zu beobachten.",
+                "hu": "Válasszon ablak melletti asztalt, hogy figyelhesse az eső áztatta utcát.",
+                "ro": "Alegeți un restaurant cu loc la fereastră pentru a observa ploaia.",
+                "en": "Choose a restaurant with a window seat to watch the rain."
+              }
+            },
+            {
+              "name": "Alhóndiga Park",
+              "tip_5lang": {
+                "de": "Die asphaltierten Wege sind auch bei Regen gut begehbar.",
+                "hu": "Az aszfaltozott utak esőben is jól járhatóak a tó körül.",
+                "ro": "Potecile asfaltate sunt ușor de parcurs chiar și pe ploaie.",
+                "en": "The paved paths are easy to walk even in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da einige Pflastersteine rutschig sein können.",
+              "Die Arkaden an der Plaza de la Constitución sind Ihr bester Freund bei Wind.",
+              "Getafe hat viele gemütliche Cafés für kurze Aufwärmpausen.",
+              "Ein Taschenschirm ist bei dem oft böigen Wind in Madrid-Nähe praktischer."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert a belvárosi kövezet csúszós lehet.",
+              "A Plaza de la Constitución árkádjai kiváló menedéket nyújtanak szélben.",
+              "Getafe számos hangulatos kávézóval várja a rövid pihenőkre vágyókat.",
+              "Egy összecsukható esernyő praktikusabb a Madrid környéki szeles időben."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, deoarece unele pavaje pot fi alunecoase.",
+              "Arcadele din Plaza de la Constitución sunt cel mai bun aliat împotriva vântului.",
+              "Getafe are multe cafenele primitoare pentru scurte pauze de încălzire.",
+              "O umbrelă pliabilă este mai practică în vântul adesea agitat din zona Madrid."
+            ],
+            "en": [
+              "Wear waterproof shoes as some cobblestones can be slippery when wet.",
+              "The arcades at Plaza de la Constitución are your best friend in the wind.",
+              "Getafe has many cozy cafes for short warm-up breaks.",
+              "A compact umbrella is more practical in the often gusty wind near Madrid."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen beginnt frisch am Hauptplatz, wo die kühle Luft die Sinne weckt. \nMittags besuchen wir die Kathedrale und das wärmere Theater García Lorca. \nNachmittags genießen wir ein herzhaftes Madrider Cocido zum Mittagessen. \nVor Sonnenuntergang spazieren wir durch den Alhóndiga-Park und genießen das klare Winterlicht.",
+            "hu": "A téli reggel frissen indul a főtéren, ahol a hűvös levegő ébreszti fel a várost. \nDélben a katedrális és a melegebb García Lorca Színház felé vesszük az irányt. \nDélután egy tápláló madridi egytálétellel melegszünk fel egy helyi étteremben. \nNaplemente előtt az Alhóndiga-parkban sétálunk, élvezve a tiszta téli fényeket.",
+            "ro": "Dimineața de iarnă începe proaspăt în piața centrală, unde aerul rece trezește simțurile. \nLa prânz, vizităm catedrala și teatrul García Lorca, mai adăpostit de frig. \nDupă-amiaza, ne încălzim cu o tocană tradițională de Madrid la prânz. \nÎnainte de apus, ne plimbăm prin Parcul Alhóndiga, admirând lumina clară de iarnă.",
+            "en": "The winter morning starts fresh at the main square, where the cool air wakes you up. \nAt noon, we head to the cathedral and the warmer García Lorca Theatre. \nIn the afternoon, we warm up with a hearty Madrid stew for lunch. \nBefore sunset, we walk through Alhóndiga Park, enjoying the clear winter light."
+          },
+          "stops": [
+            {
+              "name": "Constitution Square",
+              "tip_5lang": {
+                "de": "Die Morgensonne wärmt hier oft schon die Fassaden auf.",
+                "hu": "A reggeli nap itt már gyakran kellemesen melegíti a homlokzatokat.",
+                "ro": "Soarele de dimineață încălzește adesea fațadele de aici.",
+                "en": "The morning sun often warms up the facades here early on."
+              }
+            },
+            {
+              "name": "Cathedral of Saint Mary Magdalene",
+              "tip_5lang": {
+                "de": "In der Kirche ist es meist milder als im zugigen Außenbereich.",
+                "hu": "A templomban általában enyhébb az idő, mint a huzatos utcákon.",
+                "ro": "În biserică este de obicei mai blând decât în zonele exterioare cu curent.",
+                "en": "Inside the church, it is usually milder than in the drafty outdoors."
+              }
+            },
+            {
+              "name": "Hospital of San José",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ausstellungsräume, um sich zwischendurch aufzuwärmen.",
+                "hu": "Látogasson el a kiállítótermekbe, hogy közben kicsit felmelegedjen.",
+                "ro": "Vizitați sălile de expoziție pentru a vă încălzi între timp.",
+                "en": "Visit the exhibition rooms to warm up in between stops."
+              }
+            },
+            {
+              "name": "García Lorca Theatre-Auditorium",
+              "tip_5lang": {
+                "de": "Das Foyer bietet einen guten Schutz vor dem kalten Winterwind.",
+                "hu": "Az előcsarnok jó védelmet nyújt a hideg téli szél ellen.",
+                "ro": "Foaierul oferă o protecție bună împotriva vântului rece de iarnă.",
+                "en": "The foyer provides good protection from the cold winter wind."
+              }
+            },
+            {
+              "name": "Lunch in the center",
+              "tip_5lang": {
+                "de": "Probieren Sie 'Cocido Madrileño', das perfekte Wintergericht der Region.",
+                "hu": "Kóstolja meg a 'Cocido Madrileño'-t, a régió tökéletes téli ételét.",
+                "ro": "Încercați „Cocido Madrileño”, preparatul perfect de iarnă din regiune.",
+                "en": "Try 'Cocido Madrileño', the perfect winter dish of the region."
+              }
+            },
+            {
+              "name": "Alhóndiga Park",
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang ist im Winter gegen 18:00 Uhr besonders schön.",
+                "hu": "A naplemente télen 18:00 körül különösen szép a tó felett.",
+                "ro": "Apusul este deosebit de frumos iarna, în jurul orei 18:00.",
+                "en": "The sunset is especially beautiful in winter around 18:00."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Zwiebelprinzip bei der Kleidung: Die Sonne kann mittags recht stark sein.",
+              "Die Winterabende kühlen schnell ab, haben Sie einen Schal bereit.",
+              "Genießen Sie die klare Sicht, die man im Winter oft bis nach Madrid hat.",
+              "Sonnenschutz ist trotz der Kälte wegen der hohen UV-Strahlung ratsam."
+            ],
+            "hu": [
+              "Réteges öltözködés javasolt: a nap délben meglepően erős lehet.",
+              "A téli esték gyorsan lehűlnek, legyen kéznél egy sál.",
+              "Élvezze a tiszta kilátást, ami télen gyakran Madridig is ellátni enged.",
+              "A hideg ellenére a fényvédő ajánlott a magas UV-sugárzás miatt."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi: soarele poate fi destul de puternic la prânz.",
+              "Serile de iarnă se răcesc rapid, aveți la îndemână un fular.",
+              "Bucurați-vă de vizibilitatea clară, iarna se vede adesea până la Madrid.",
+              "Protecția solară este recomandată în ciuda frigului din cauza radiațiilor UV."
+            ],
+            "en": [
+              "Dress in layers: the sun can be quite strong at noon despite the chill.",
+              "Winter evenings cool down quickly, have a scarf ready.",
+              "Enjoy the clear views; in winter you can often see all the way to Madrid.",
+              "Sunscreen is advisable despite the cold due to high UV radiation."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -702,6 +884,206 @@
           "The climb to Cerro de los Ángeles is challenging; take your time.",
           "Wear a helmet and be mindful of city traffic."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten vorsichtig am regennassen Hauptplatz. \nMittags radeln wir zur Kathedrale und weiter zum Alhóndiga-Park, wo wir unter Bäumen Schutz suchen. \nNachmittags stärken wir uns bei einem Mittagessen am Parkrand. \nAm Ende des Tages erklimmen wir den Cerro de los Ángeles, während der Regen langsam nachlässt.",
+            "hu": "Óvatosan indulunk az esőáztatta főtérről két keréken. \nDélben a katedrálishoz, majd az Alhóndiga-parkhoz tekerünk, a fák alatt keresve menedéket. \nDélután a park szélén elköltött ebéddel gyűjtünk erőt a folytatáshoz. \nA nap végén feltekerünk az Angyalok dombjára, miközben az eső csendesedik.",
+            "ro": "Pornim cu atenție din piața principală udă de ploaie. \nLa prânz, pedalăm spre catedrală și apoi spre Parcul Alhóndiga, căutând adăpost sub copaci. \nDupă-amiaza, ne refacem forțele cu un prânz lângă parc. \nLa sfârșitul zilei, urcăm Cerro de los Ángeles în timp ce ploaia se domolește treptat.",
+            "en": "We start carefully from the rain-soaked main square. \nAt noon, we cycle to the cathedral and on to Alhóndiga Park, seeking shelter under the trees. \nIn the afternoon, we recharge with a lunch near the park. \nAt the end of the day, we climb Cerro de los Ángeles as the rain gradually lets up."
+          },
+          "stops": [
+            {
+              "name": "Constitution Square",
+              "tip_5lang": {
+                "de": "Vorsicht beim Anfahren: Das nasse Kopfsteinpflaster ist rutschig.",
+                "hu": "Vigyázat az indulásnál: a vizes macskakő csúszós lehet.",
+                "ro": "Atenție la pornire: pavajul umed este alunecos.",
+                "en": "Be careful when starting: the wet cobblestones are slippery."
+              }
+            },
+            {
+              "name": "Cathedral of Saint Mary Magdalene",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an einem gut sichtbaren, überdachten Ort.",
+                "hu": "Parkolja le kerékpárját jól látható, fedett helyen.",
+                "ro": "Parcați bicicleta într-un loc vizibil și acoperit.",
+                "en": "Park your bike in a visible, covered spot if possible."
+              }
+            },
+            {
+              "name": "Alhóndiga Park",
+              "tip_5lang": {
+                "de": "Meiden Sie unbefestigte Wege; nutzen Sie die asphaltierten Radwege.",
+                "hu": "Kerülje a földutakat; használja az aszfaltozott kerékpárutakat.",
+                "ro": "Evitați drumurile neasfaltate; folosiți pistele de biciclete pavate.",
+                "en": "Avoid unpaved paths; stick to the paved bike lanes."
+              }
+            },
+            {
+              "name": "Lunch near the park",
+              "tip_5lang": {
+                "de": "Suchen Sie ein Lokal mit Abstellmöglichkeit im Blickfeld.",
+                "hu": "Keressen olyan helyet, ahol rálát a lezárt kerékpárjára.",
+                "ro": "Căutați un local unde puteți vedea bicicleta parcată.",
+                "en": "Look for a place where you can keep an eye on your bike."
+              }
+            },
+            {
+              "name": "Hill of the Angels",
+              "tip_5lang": {
+                "de": "Der Aufstieg ist bei Nässe anstrengender; achten Sie auf die Traktion.",
+                "hu": "Az emelkedő nehezebb esőben; ügyeljen a gumik tapadására.",
+                "ro": "Urcarea este mai grea pe ploaie; atenție la tracțiunea pneurilor.",
+                "en": "The climb is tougher in the wet; watch your traction."
+              }
+            },
+            {
+              "name": "Monument to the Sacred Heart of Jesus",
+              "tip_5lang": {
+                "de": "Kurzer Stopp für Fotos; der Wind kann hier oben bei Regen stark sein.",
+                "hu": "Gyors fotómegálló; a szél itt fent esőben felerősödhet.",
+                "ro": "Oprire scurtă pentru poze; vântul poate fi puternic aici pe ploaie.",
+                "en": "Quick photo stop; the wind can be strong up here during rain."
+              }
+            },
+            {
+              "name": "Return to the Center",
+              "tip_5lang": {
+                "de": "Nutzen Sie beim Bergabfahren die Bremsen vorsichtig.",
+                "hu": "Ereszkedésnél használja óvatosan a fékeket.",
+                "ro": "Folosiți frânele cu atenție la coborâre.",
+                "en": "Use your brakes cautiously during the descent."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vollständige Regenbekleidung ist für die Fahrt zum Cerro unerlässlich.",
+              "Prüfen Sie Ihre Bremsbeläge vor der Fahrt; Nässe verlängert den Bremsweg.",
+              "Vermeiden Sie Pfützen, da diese tiefe Schlaglöcher verdecken können.",
+              "Ein Schutzblech schützt Sie vor Spritzwasser auf den Parkwegen."
+            ],
+            "hu": [
+              "A teljes esőruházat elengedhetetlen a Cerro de los Ángeles felé.",
+              "Ellenőrizze a fékeket: a vizes abroncsokon hosszabb a féktáv.",
+              "Kerülje a tócsákat, mert mély kátyúkat rejthetnek.",
+              "A sárvédő megvédi Önt a felverődő víztől a parki utakon."
+            ],
+            "ro": [
+              "Echipamentul complet de ploaie este esențial pentru drumul spre Cerro.",
+              "Verificați frânele: umezeala prelungește distanța de frânare.",
+              "Evitați bălțile, deoarece pot ascunde gropi adânci.",
+              "O apărătoare de noroi vă va proteja de stropii de apă de pe alei."
+            ],
+            "en": [
+              "Full rain gear is essential for the ride to Cerro de los Ángeles.",
+              "Check your brakes; wet rims mean longer braking distances.",
+              "Avoid puddles as they can hide deep potholes.",
+              "Mudguards will protect you from splashes on the park paths."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An einem klaren Wintermorgen radeln wir durch das Stadtzentrum. \nMittags besuchen wir die Kathedrale und den Alhóndiga-Park unter strahlend blauem Himmel. \nNachmittags wärmen wir uns bei einem Mittagessen auf, bevor wir zum Cerro de los Ángeles fahren. \nAbends genießen wir den weiten Blick auf Madrid im kalten, aber schönen Winterlicht.",
+            "hu": "Tiszta téli reggelen vágunk neki a városközpontnak kerékpárral. \nDélben a katedrális és az Alhóndiga-park vár minket a ragyogó kék ég alatt. \nDélután egy forró ebéd után tekerünk fel az Angyalok dombjára. \nEste a hideg, de gyönyörű téli fényekben csodáljuk meg a Madridra nyíló kilátást.",
+            "ro": "Într-o dimineață clară de iarnă, pedalăm prin centrul orașului. \nLa prânz, vizităm catedrala și Parcul Alhóndiga sub un cer albastru strălucitor. \nDupă-amiaza, ne încălzim la prânz înainte de a porni spre Cerro de los Ángeles. \nSeara, admirăm panorama spre Madrid în lumina rece, dar superbă, a iernii.",
+            "en": "On a clear winter morning, we cycle through the city center. \nAt noon, we visit the cathedral and Alhóndiga Park under a bright blue sky. \nIn the afternoon, we warm up with lunch before heading to Cerro de los Ángeles. \nIn the evening, we enjoy the wide view of Madrid in the cold but beautiful winter light."
+          },
+          "stops": [
+            {
+              "name": "Constitution Square",
+              "tip_5lang": {
+                "de": "Tragen Sie Handschuhe; der Fahrtwind ist im Winter sehr bissig.",
+                "hu": "Viseljen kesztyűt; a menetszél télen nagyon csípős lehet.",
+                "ro": "Purtați mănuși; vântul la pedalare este foarte tăios iarna.",
+                "en": "Wear gloves; the wind chill while cycling is very sharp in winter."
+              }
+            },
+            {
+              "name": "Cathedral of Saint Mary Magdalene",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp zum Aufwärmen im Inneren ist ratsam.",
+                "hu": "Egy rövid benti felmelegedés ajánlott a folytatás előtt.",
+                "ro": "O scurtă oprire pentru încălzire în interior este recomandată.",
+                "en": "A short warm-up break inside the cathedral is advisable."
+              }
+            },
+            {
+              "name": "Alhóndiga Park",
+              "tip_5lang": {
+                "de": "Die Sonne steht tief; achten Sie auf Blendung auf den Wegen.",
+                "hu": "Alacsonyan jár a nap; ügyeljen a vakító fényre az utakon.",
+                "ro": "Soarele este jos; atenție la orbire pe aleile parcului.",
+                "en": "The sun is low; watch out for glare on the park paths."
+              }
+            },
+            {
+              "name": "Lunch near the park",
+              "tip_5lang": {
+                "de": "Heiße Getränke helfen, die Körpertemperatur zu halten.",
+                "hu": "A forró italok segítenek fenntartani a testhőmérsékletet.",
+                "ro": "Băuturile fierbinți ajută la menținerea temperaturii corpului.",
+                "en": "Hot drinks will help maintain your body temperature."
+              }
+            },
+            {
+              "name": "Hill of the Angels",
+              "tip_5lang": {
+                "de": "Durch die Bewegung bergauf wird Ihnen schnell warm.",
+                "hu": "A felfelé tekeréstől gyorsan ki fog kanyarodni a hideg.",
+                "ro": "Urcarea vă va ajuta să vă încălziți rapid prin efort.",
+                "en": "The uphill effort will quickly warm you up."
+              }
+            },
+            {
+              "name": "Monument to the Sacred Heart of Jesus",
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Fernsicht, die es nur im Winter gibt.",
+                "hu": "Élvezze a tiszta távlatokat, amik csak télen láthatóak.",
+                "ro": "Bucurați-vă de vizibilitatea clară, specifică iernii.",
+                "en": "Enjoy the clear long-distance views unique to winter."
+              }
+            },
+            {
+              "name": "Return to the Center",
+              "tip_5lang": {
+                "de": "Nach Sonnenuntergang wird es schlagartig kälter.",
+                "hu": "Naplemente után hirtelen lehűl a levegő.",
+                "ro": "După apusul soarelui, se va răci brusc.",
+                "en": "It gets significantly colder immediately after sunset."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Verwenden Sie Lippenbalsam und Creme gegen die trockene Winterluft.",
+              "Stellen Sie sicher, dass Ihre Fahrradbeleuchtung für die frühe Dämmerung funktioniert.",
+              "Eine Thermo-Trinkflasche verhindert das Einfrieren Ihres Getränks.",
+              "Achten Sie auf Schattenbereiche; dort kann es deutlich kälter sein."
+            ],
+            "hu": [
+              "Használjon ajakírt és krémet a száraz téli levegő ellen.",
+              "Ellenőrizze a világítást a korai sötétedés miatt.",
+              "A termokulacs megakadályozza az ital túlzott lehűlését.",
+              "Ügyeljen az árnyékos szakaszokra; ott jóval hidegebb lehet."
+            ],
+            "ro": [
+              "Folosiți balsam de buze și cremă împotriva aerului uscat de iarnă.",
+              "Asigurați-vă că luminile bicicletei funcționează pentru amurgul timpuriu.",
+              "O sticlă termică va împiedica răcirea excesivă a băuturii.",
+              "Atenție la zonele umbrite; acolo poate fi mult mai frig."
+            ],
+            "en": [
+              "Use lip balm and moisturizer against the dry winter air.",
+              "Ensure your bike lights are working for the early dusk.",
+              "A thermal water bottle prevents your drink from getting too cold.",
+              "Watch out for shaded areas where it can be significantly colder."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1038,6 +1420,188 @@
           "A GPS is essential for navigating the city and its surroundings.",
           "Do not leave valuables visible in the car."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erreichen wir bequem den Cerro de los Ángeles am Morgen. \nMittags parken wir im Zentrum und besuchen die Kathedrale, ohne nass zu werden. \nNachmittags genießen wir das Mittagessen in Stadtnähe. \nAbends fahren wir zum Alhóndiga-Park, wo wir vom trockenen Auto aus den Blick auf den See genießen.",
+            "hu": "Autóval kényelmesen érjük el az Angyalok dombját a reggeli esőben. \nDélben a központban parkolunk, és száraz lábbal látogatjuk meg a katedrálist. \nDélután egy közeli étteremben ebédelünk meg. \nEste az Alhóndiga-parkhoz hajtunk, ahol az autó biztonságából csodáljuk a tavat.",
+            "ro": "Cu mașina, ajungem confortabil la Cerro de los Ángeles dimineața. \nLa prânz, parcăm în centru și vizităm catedrala fără a ne uda prea tare. \nDupă-amiaza, ne bucurăm de prânz într-o zonă accesibilă. \nSeara, mergem la Parcul Alhóndiga, admirând lacul din confortul mașinii.",
+            "en": "By car, we comfortably reach Cerro de los Ángeles in the morning rain. \nAt noon, we park in the center and visit the cathedral while staying dry. \nIn the afternoon, we enjoy lunch at a nearby accessible restaurant. \nIn the evening, we drive to Alhóndiga Park, admiring the lake from the car."
+          },
+          "stops": [
+            {
+              "name": "Parking at Cerro de los Ángeles",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Denkmal, um Laufwege im Regen zu minimieren.",
+                "hu": "Parkoljon közel az emlékműhöz, hogy keveset kelljen sétálnia.",
+                "ro": "Parcați aproape de monument pentru a minimiza mersul prin ploaie.",
+                "en": "Park close to the monument to minimize walking in the rain."
+              }
+            },
+            {
+              "name": "Cerro de los Ángeles & Monument",
+              "tip_5lang": {
+                "de": "Vom Auto aus hat man bereits eine tolle Sicht auf die Statue.",
+                "hu": "Az autóból is nagyszerű kilátás nyílik a szoborra.",
+                "ro": "Din mașină aveți deja o vedere excelentă asupra statuii.",
+                "en": "You can get a great view of the statue right from the car seat."
+              }
+            },
+            {
+              "name": "Parking in the City Center",
+              "tip_5lang": {
+                "de": "Nutzen Sie Tiefgaragen, um direkt im Trockenen auszusteigen.",
+                "hu": "Használja a mélygarázsokat, hogy szárazon szállhasson ki.",
+                "ro": "Folosiți parcările subterane pentru a ieși direct la adăpost.",
+                "en": "Use underground parking to get out directly in the dry."
+              }
+            },
+            {
+              "name": "Constitution Square & Lunch",
+              "tip_5lang": {
+                "de": "Viele Restaurants hier haben Parkplätze in unmittelbarer Nähe.",
+                "hu": "Sok étterem közelében van közvetlen parkolási lehetőség.",
+                "ro": "Multe restaurante de aici au parcări în imediata apropiere.",
+                "en": "Many restaurants here have parking spots very close by."
+              }
+            },
+            {
+              "name": "Cathedral of Saint Mary Magdalene",
+              "tip_5lang": {
+                "de": "Der Eingang ist nur einen kurzen Sprint vom Parkplatz entfernt.",
+                "hu": "A bejárat csak egy rövid vágta a parkolóhelytől.",
+                "ro": "Intrarea este la doar un scurt sprint distanță de parcare.",
+                "en": "The entrance is just a short sprint away from the parking."
+              }
+            },
+            {
+              "name": "Alhóndiga Park",
+              "tip_5lang": {
+                "de": "Der Parkplatz bietet eine gute Sicht auf den beleuchteten See.",
+                "hu": "A parkolóból jó rálátás nyílik a kivilágított tóra.",
+                "ro": "Parcarea oferă o vedere bună asupra lacului iluminat.",
+                "en": "The parking lot offers a good view of the illuminated lake."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Ihre Scheibenwischer in gutem Zustand sind.",
+              "Vermeiden Sie bei starkem Regen tiefgelegene Straßenabschnitte.",
+              "Parkhäuser im Zentrum sind bei Regen oft schneller belegt.",
+              "Die Sicht am Cerro kann durch tiefziehende Wolken eingeschränkt sein."
+            ],
+            "hu": [
+              "Ellenőrizze az ablaktörlők állapotát az indulás előtt.",
+              "Heves esőzéskor kerülje az alacsonyabban fekvő útszakaszokat.",
+              "A belvárosi parkolóházak esőben hamarabb megtelhetnek.",
+              "A Cerro de los Ángelesnél a látótávolság korlátozott lehet a felhők miatt."
+            ],
+            "ro": [
+              "Asigurați-vă că ștergătoarele sunt în stare bună înainte de drum.",
+              "Evitați secțiunile de drum joase în timpul ploilor torențiale.",
+              "Parcările etajate din centru se umplu mai repede când plouă.",
+              "Vizibilitatea la Cerro poate fi limitată de norii joși."
+            ],
+            "en": [
+              "Make sure your windshield wipers are in good condition.",
+              "Avoid low-lying road sections during heavy rainfall.",
+              "City center parking garages often fill up faster when it rains.",
+              "Visibility at Cerro de los Ángeles may be limited by low clouds."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens fahren wir zum Cerro de los Ángeles, während die Heizung für Komfort sorgt. \nMittags erkunden wir das Stadtzentrum und die Kathedrale. \nNachmittags genießen wir ein warmes Mittagessen in der Altstadt. \nAbends beschließen wir die Tour im Alhóndiga-Park, bevor die Winterkälte zu stark wird.",
+            "hu": "Reggel az Angyalok dombjára hajtunk, miközben a fűtés biztosítja a kényelmet. \nDélben a városközpontot és a katedrálist fedezzük fel. \nDélután egy meleg ebédet fogyasztunk el az óvárosban. \nEste az Alhóndiga-parkban zárjuk a túrát, mielőtt túl hideg lenne.",
+            "ro": "Dimineața mergem la Cerro de los Ángeles, în timp ce căldura din mașină oferă confort. \nLa prânz, explorăm centrul orașului și catedrala. \nDupă-amiaza, ne bucurăm de un prânz cald în centrul vechi. \nSeara, încheiem turul în Parcul Alhóndiga înainte ca frigul să fie prea mare.",
+            "en": "In the morning, we drive to Cerro de los Ángeles while the heater keeps us warm. \nAt noon, we explore the city center and the cathedral. \nIn the afternoon, we enjoy a warm lunch in the old town. \nIn the evening, we conclude the tour at Alhóndiga Park before it gets too cold."
+          },
+          "stops": [
+            {
+              "name": "Parking at Cerro de los Ángeles",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Wagen als Basis, um die Kältepausen zu verkürzen.",
+                "hu": "Használja az autót bázisként a hideg elleni szünetekhez.",
+                "ro": "Folosiți mașina ca bază pentru a scurta expunerea la frig.",
+                "en": "Use the car as a base to keep cold-weather breaks short."
+              }
+            },
+            {
+              "name": "Cerro de los Ángeles & Monument",
+              "tip_5lang": {
+                "de": "Die Fernsicht ist im Winter bei klarem Himmel phänomenal.",
+                "hu": "A távoli kilátás télen, tiszta égbolt mellett lenyűgöző.",
+                "ro": "Panorama este fenomenală iarna, când cerul este senin.",
+                "en": "The distant view is phenomenal in winter with clear skies."
+              }
+            },
+            {
+              "name": "Parking in the City Center",
+              "tip_5lang": {
+                "de": "Parken Sie zentral, um kurze Wege zu den Sehenswürdigkeiten zu haben.",
+                "hu": "Parkoljon központi helyen, hogy rövid legyen a séta.",
+                "ro": "Parcați central pentru a avea distanțe scurte până la obiective.",
+                "en": "Park centrally to have short walking distances to the sights."
+              }
+            },
+            {
+              "name": "Constitution Square & Lunch",
+              "tip_5lang": {
+                "de": "Die Restaurants sind im Winter gut beheizt und gemütlich.",
+                "hu": "Az éttermek télen jól fűtöttek és hangulatosak.",
+                "ro": "Restaurantele sunt bine încălzite și primitoare iarna.",
+                "en": "The restaurants are well-heated and cozy in winter."
+              }
+            },
+            {
+              "name": "Cathedral of Saint Mary Magdalene",
+              "tip_5lang": {
+                "de": "Ein Besuch im Inneren schützt vor dem beißenden Wind.",
+                "hu": "A belső látogatás megvéd a metsző téli széltől.",
+                "ro": "O vizită în interior vă protejează de vântul tăios.",
+                "en": "A visit inside protects you from the biting winter wind."
+              }
+            },
+            {
+              "name": "Alhóndiga Park",
+              "tip_5lang": {
+                "de": "Die Parkbeleuchtung schafft im Winter eine besondere Atmosphäre.",
+                "hu": "A park világítása télen különleges hangulatot áraszt.",
+                "ro": "Iluminatul parcului creează o atmosferă specială iarna.",
+                "en": "The park lighting creates a special atmosphere in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Reifendruck; Kälte kann diesen beeinflussen.",
+              "Haben Sie eine Eiskratzer bereit, falls es über Nacht gefriert.",
+              "Die Batterieleistung kann bei niedrigen Temperaturen nachlassen.",
+              "Achten Sie auf Brücken auf mögliche Glättebildung."
+            ],
+            "hu": [
+              "Ellenőrizze a guminyomást; a hideg befolyásolhatja azt.",
+              "Legyen kéznél jégkaparó az éjszakai fagyok esetére.",
+              "Az akkumulátor teljesítménye csökkenhet alacsony hőmérsékleten.",
+              "Ügyeljen a hidakra, ahol könnyebben kialakulhat jegesedés."
+            ],
+            "ro": [
+              "Verificați presiunea în anvelope; frigul o poate influența.",
+              "Aveți pregătită o racletă în caz de îngheț peste noapte.",
+              "Performanța bateriei poate scădea la temperaturi scăzute.",
+              "Atenție la poduri, unde se poate forma polei mai ușor."
+            ],
+            "en": [
+              "Check tire pressure; cold weather can affect it significantly.",
+              "Keep an ice scraper ready in case of overnight frost.",
+              "Battery performance may decrease in low temperatures.",
+              "Watch out for possible icy spots on bridges."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1374,6 +1938,188 @@
           "Validate your ticket every time you board to avoid fines.",
           "Be aware of your belongings at stations and on crowded buses."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nach der Ankunft am Bahnhof Getafe Central nutzen wir die kurzen Wege zum Hauptplatz. \nMittags besuchen wir die Kathedrale und genießen ein langes Mittagessen im Zentrum. \nNachmittags nehmen wir den Bus zum Cerro de los Ángeles, um im Trockenen dorthin zu gelangen. \nAbends kehren wir mit dem Bus zurück und genießen die beleuchtete Stadt.",
+            "hu": "A Getafe Central állomásra érkezve rövid sétával érjük el a főteret. \nDélben a katedrálist nézzük meg, majd egy hosszú ebédet tartunk a központban. \nDélután busszal megyünk az Angyalok dombjára, így szárazon utazhatunk. \nEste busszal térünk vissza a városba, és gyönyörködünk a fényekben.",
+            "ro": "După sosirea în gara Getafe Central, folosim distanțele scurte până la piață. \nLa prânz, vizităm catedrala și ne bucurăm de un prânz lung în centru. \nDupă-amiaza, luăm autobuzul spre Cerro de los Ángeles pentru a ajunge acolo la uscat. \nSeara, ne întoarcem cu autobuzul și admirăm orașul iluminat.",
+            "en": "After arriving at Getafe Central station, we take short walks to the main square. \nAt noon, we visit the cathedral and enjoy a long lunch in the center. \nIn the afternoon, we take the bus to Cerro de los Ángeles to stay dry on the way. \nIn the evening, we return by bus and enjoy the illuminated city."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Getafe Central Station",
+              "tip_5lang": {
+                "de": "Der Bahnhof bietet guten Schutz beim Warten auf Anschlusszüge.",
+                "hu": "Az állomás jó védelmet nyújt a csatlakozásra való várakozáskor.",
+                "ro": "Gara oferă adăpost bun în timp ce așteptați legăturile.",
+                "en": "The station provides good shelter while waiting for connections."
+              }
+            },
+            {
+              "name": "Constitution Square",
+              "tip_5lang": {
+                "de": "Die Bushaltestellen in der Nähe sind meist überdacht.",
+                "hu": "A közeli buszmegállók többnyire fedettek.",
+                "ro": "Stațiile de autobuz din apropiere sunt majoritatea acoperite.",
+                "en": "The bus stops nearby are mostly covered."
+              }
+            },
+            {
+              "name": "Cathedral of Saint Mary Magdalene",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Wartezeit in der Kirche, bis der Regen nachlässt.",
+                "hu": "Várja meg a templomban, amíg elcsendesedik az eső.",
+                "ro": "Folosiți timpul în biserică până când ploaia se mai domolește.",
+                "en": "Use your time in the church until the rain lets up."
+              }
+            },
+            {
+              "name": "Lunch in the center",
+              "tip_5lang": {
+                "de": "In Bahnhofsnähe gibt es viele gute und trockene Einkehrmöglichkeiten.",
+                "hu": "Az állomás közelében számos jó és fedett étkezési lehetőség van.",
+                "ro": "Lângă gară sunt multe opțiuni de masă bune și ferite de ploaie.",
+                "en": "There are many good and dry dining options near the station."
+              }
+            },
+            {
+              "name": "Bus to Cerro de los Ángeles",
+              "tip_5lang": {
+                "de": "Der Bus hält direkt am Fuße des Hügels, wenig Laufweg im Regen.",
+                "hu": "A busz közvetlenül a domb lábánál áll meg, kevés a séta az esőben.",
+                "ro": "Autobuzul oprește chiar la baza dealului, puțin de mers prin ploaie.",
+                "en": "The bus stops right at the foot of the hill, minimizing the wet walk."
+              }
+            },
+            {
+              "name": "Return to Center & Relaxation",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Bus-App für sekundengenaue Ankunftszeiten.",
+                "hu": "Használja a buszos alkalmazást a pontos érkezési időkhöz.",
+                "ro": "Folosiți aplicația de transport pentru timpii exacți de sosire.",
+                "en": "Use the transit app for real-time bus arrival information."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Haben Sie Ihre Fahrkarte griffbereit, um langes Suchen im Regen zu vermeiden.",
+              "Die Busse sind im Winter und bei Regen oft voller.",
+              "Getafe hat eine gute Anbindung an die Metro Madrid (Linie 12).",
+              "Achten Sie auf Pfützen beim Ein- und Aussteigen an den Haltestellen."
+            ],
+            "hu": [
+              "Tartsa készenlétben a jegyét, hogy ne az esőben kelljen keresgélni.",
+              "A buszok esőben és télen gyakran zsúfoltabbak.",
+              "Getafe kiváló kapcsolattal rendelkezik a madridi metróhoz (12-es vonal).",
+              "Ügyeljen a tócsákra a megállókban történő fel- és leszálláskor."
+            ],
+            "ro": [
+              "Aveți biletul la îndemână pentru a evita căutarea lui în ploaie.",
+              "Autobuzele sunt adesea mai aglomerate iarna și pe ploaie.",
+              "Getafe are o legătură bună cu metroul din Madrid (linia 12).",
+              "Atenție la bălți când urcați sau coborâți în stații."
+            ],
+            "en": [
+              "Have your ticket ready to avoid searching for it in the rain.",
+              "Buses are often more crowded during winter and rain.",
+              "Getafe has great connections to the Madrid Metro (Line 12).",
+              "Watch out for puddles when getting on or off at bus stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An einem klaren Wintermorgen kommen wir mit der Bahn in Getafe an. \nMittags besuchen wir die Kathedrale und erkunden das Zentrum. \nNachmittags wärmen wir uns in einem Restaurant auf, bevor wir mit dem Bus zum Cerro fahren. \nAbends genießen wir die kühle Luft am Cerro de los Ángeles, bevor es zurück zum Bahnhof geht.",
+            "hu": "Tiszta téli reggelen érkezünk meg vonattal Getafébe. \nDélben a katedrálist látogatjuk meg, és bejárjuk a központot. \nDélután egy étteremben melegszünk fel, majd busszal indulunk a Cerro felé. \nEste élvezzük a hűvös levegőt az Angyalok dombján, majd visszatérünk az állomásra.",
+            "ro": "Într-o dimineață clară de iarnă, ajungem cu trenul în Getafe. \nLa prânz, vizităm catedrala și explorăm centrul. \nDupă-amiaza, ne încălzim într-un restaurant înainte de a lua autobuzul spre Cerro. \nSeara, admirăm aerul rece de la Cerro de los Ángeles înainte de a reveni la gară.",
+            "en": "On a clear winter morning, we arrive in Getafe by train. \nAt noon, we visit the cathedral and explore the center. \nIn the afternoon, we warm up in a restaurant before taking the bus to Cerro. \nIn the evening, we enjoy the cool air at Cerro de los Ángeles before heading back to the station."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Getafe Central Station",
+              "tip_5lang": {
+                "de": "Die Wartehallen sind im Winter meist beheizt.",
+                "hu": "A várótermek télen általában fűtöttek.",
+                "ro": "Sălile de așteptare sunt de obicei încălzite iarna.",
+                "en": "The waiting areas are usually heated during winter."
+              }
+            },
+            {
+              "name": "Constitution Square",
+              "tip_5lang": {
+                "de": "Die Morgensonne auf dem Platz ist im Winter sehr angenehm.",
+                "hu": "A reggeli napsütés a téren télen is nagyon kellemes.",
+                "ro": "Soarele de dimineață în piață este foarte plăcut iarna.",
+                "en": "The morning sun on the square is very pleasant in winter."
+              }
+            },
+            {
+              "name": "Cathedral of Saint Mary Magdalene",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Innenraum für eine kurze Pause von der Kälte.",
+                "hu": "Használja a belső teret egy rövid pihenőre a hideg elől.",
+                "ro": "Folosiți spațiul interior pentru o scurtă pauză de frig.",
+                "en": "Use the interior for a short break from the winter cold."
+              }
+            },
+            {
+              "name": "Lunch in the center",
+              "tip_5lang": {
+                "de": "Viele Cafés bieten heiße Schokolade mit Churros an.",
+                "hu": "Sok kávézó kínál forró csokoládét churrosszal.",
+                "ro": "Multe cafenele oferă ciocolată caldă cu churros.",
+                "en": "Many cafes offer hot chocolate with churros."
+              }
+            },
+            {
+              "name": "Bus to Cerro de los Ángeles",
+              "tip_5lang": {
+                "de": "Der Bus ist im Winter eine warme Alternative zum langen Fußweg.",
+                "hu": "A busz télen meleg alternatíva a hosszú gyalogláshoz képest.",
+                "ro": "Autobuzul este o alternativă caldă la mersul lung pe jos iarna.",
+                "en": "The bus is a warm alternative to the long walk in winter."
+              }
+            },
+            {
+              "name": "Return to Center & Relaxation",
+              "tip_5lang": {
+                "de": "Planen Sie Ihre Rückreise vor der großen Abendkälte.",
+                "hu": "Tervezze meg a visszautat a nagy esti lehűlés előtt.",
+                "ro": "Planificați călătoria de întoarcere înainte de gerul serii.",
+                "en": "Plan your return trip before the heavy evening chill sets in."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Cercanías-Züge (C-3/C-4) fahren regelmäßig nach Madrid.",
+              "Achten Sie auf die veränderten Fahrpläne an Feiertagen im Winter.",
+              "Bahnhöfe können im Winter zugig sein, bleiben Sie in Bewegung.",
+              "Tragen Sie warme Socken, da man an Haltestellen oft länger steht."
+            ],
+            "hu": [
+              "A Cercanías vonatok (C-3/C-4) rendszeresen járnak Madridba.",
+              "Ügyeljen a téli ünnepnapok miatti menetrendváltozásokra.",
+              "Az állomások télen huzatosak lehetnek, maradjon mozgásban.",
+              "Viseljen meleg zoknit, mert a megállókban többet kell állni."
+            ],
+            "ro": [
+              "Trenurile Cercanías (C-3/C-4) circulă regulat spre Madrid.",
+              "Atenție la orarele modificate în timpul sărbătorilor de iarnă.",
+              "Gările pot fi cu curent iarna, rămâneți în mișcare.",
+              "Purtați șosete groase, deoarece veți sta mult în stații."
+            ],
+            "en": [
+              "The Cercanías trains (C-3/C-4) run regularly to Madrid.",
+              "Be aware of modified schedules during winter holidays.",
+              "Stations can be drafty in winter; keep moving to stay warm.",
+              "Wear warm socks as you might stand longer at transit stops."
+            ]
+          }
+        }
       }
     }
   }

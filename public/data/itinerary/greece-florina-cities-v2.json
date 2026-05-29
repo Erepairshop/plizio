@@ -279,6 +279,206 @@
           "It can get quite cold here in winter, bring warm clothes.",
           "The museums are easily accessible on foot."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt am nebligen Aristoteles-Platz, wo die Cafés trockene Zuflucht bieten. In der Fußgängerzone schützen Vordächer vor den Tropfen.\n\nMittags suchen wir die Stille der Kirche Agios Georgios auf, bevor wir den Vormittag im Volkskundemuseum im Warmen verbringen.\n\nDer Nachmittag gehört den Museen. Wir spazieren am melancholischen Sakoulevas-Ufer entlang, das im Regen besonders stimmungsvoll wirkt.\n\nDen Abend lassen wir im Museum für Moderne Kunst ausklingen, während draußen der Regen auf die alten Dächer von Florina trommelt.",
+            "hu": "A nap a ködös Arisztotelész téren indul, ahol a kávézók nyújtanak menedéket. A sétálóutcában az ereszek védenek az eső elől.\n\nDélben az Ágiosz Geórgiosz-templom csendjébe húzódunk, majd a délelőttöt a Néprajzi Múzeumban töltjük, távol a sártól.\n\nA délután a múzeumoké. A Szakulévassz folyó partja esőben különösen melankolikus és hangulatos, igazi filmes díszlet.\n\nAz estét a Modern Művészetek Múzeumában zárjuk, miközben kint az eső veri Florina régi házainak tetőit.",
+            "ro": "Ziua începe în Piața Aristoteles, unde cafenelele oferă un refugiu uscat. În zona pietonală, copertinele magazinelor ne feresc de picături.\n\nLa prânz căutăm liniștea bisericii Agios Georgios, apoi petrecem dimineața în interiorul călduros al Muzeului de Folclor.\n\nDupă-amiaza este dedicată muzeelor. Ne plimbăm pe malul râului Sakoulevas, care în ploaie are o atmosferă melancolică deosebită.\n\nSeara se încheie la Muzeul de Artă Modernă, în timp ce afară ploaia bate ritmic în acoperișurile vechi din Florina.",
+            "en": "The day begins at the misty Aristoteles Square, where cafes provide dry shelter. In the pedestrian zone, awnings keep us away from the drops.\n\nAt noon, we find peace in the Agios Georgios church, then spend the late morning warming up inside the Folklore Museum.\n\nAfternoon is for museum hopping. We stroll along the Sakoulevas riverbank, which looks uniquely atmospheric and cinematic in the rain.\n\nEvening concludes at the Museum of Modern Art, while rain taps on the traditional roofs of Florina outside."
+          },
+          "stops": [
+            {
+              "name": "Aristoteles-Platz",
+              "tip_5lang": {
+                "de": "Cafés mit Markisen sind ideal für einen trockenen griechischen Kaffee.",
+                "hu": "A napernyős kávézók tökéletesek egy száraz görög kávéhoz.",
+                "ro": "Cafenelele cu copertine sunt ideale pentru o cafea grecească la adăpost.",
+                "en": "Cafes with awnings are ideal for a dry Greek coffee."
+              }
+            },
+            {
+              "name": "Zentrale Fußgängerzone",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden und Vordächer der Geschäfte als Regenschutz.",
+                "hu": "Használja az üzletek árkádjait és ereszét esővédőként.",
+                "ro": "Folosiți arcadele și copertinele magazinelor pentru a vă proteja de ploaie.",
+                "en": "Use the shop arcades and awnings as rain protection."
+              }
+            },
+            {
+              "name": "Kirche Agios Georgios",
+              "tip_5lang": {
+                "de": "Ein würdevoller und trockener Ort für eine kurze Pause.",
+                "hu": "Méltóságteljes és száraz hely egy rövid pihenőhöz.",
+                "ro": "Un loc demn și uscat pentru o scurtă pauză.",
+                "en": "A dignified and dry place for a short break."
+              }
+            },
+            {
+              "name": "Volkskundemuseum",
+              "tip_5lang": {
+                "de": "Viel Zeit im Inneren einplanen, um den Regen draußen zu vergessen.",
+                "hu": "Tervezzen sok időt bentre, hogy elfelejtse a kinti esőt.",
+                "ro": "Planificați mult timp în interior pentru a uita de ploaia de afară.",
+                "en": "Plan plenty of time inside to forget the rain outside."
+              }
+            },
+            {
+              "name": "Ufer des Sakoulevas",
+              "tip_5lang": {
+                "de": "Die Spiegelungen der neoklassizistischen Häuser im nassen Pflaster sind fotogen.",
+                "hu": "A neoklasszicista házak tükröződése a vizes kövön nagyon fotogén.",
+                "ro": "Reflexiile caselor neoclasice pe pavajul umed sunt foarte fotogenice.",
+                "en": "The reflections of neoclassical houses on wet pavement are very photogenic."
+              }
+            },
+            {
+              "name": "Archäologisches Museum",
+              "tip_5lang": {
+                "de": "Hinter dicken Mauern sind Sie sicher vor jedem Wolkenbruch.",
+                "hu": "A vastag falak mögött biztonságban van minden felhőszakadástól.",
+                "ro": "În spatele zidurilor groase sunteți ferit de orice aversă.",
+                "en": "Behind thick walls, you are safe from any cloudburst."
+              }
+            },
+            {
+              "name": "Museum für Moderne Kunst",
+              "tip_5lang": {
+                "de": "Ein inspirierender Ort, um den Tag gemütlich im Trockenen zu beenden.",
+                "hu": "Inspiráló hely a nap kényelmes, száraz befejezéséhez.",
+                "ro": "Un loc plin de inspirație pentru a încheia ziua confortabil la uscat.",
+                "en": "An inspiring place to end the day comfortably in the dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Regenschirm ist bei den Windböen in Florina wichtig.",
+              "Die Uferpromenade kann bei Nässe rutschig sein, tragen Sie griffige Schuhe.",
+              "Museen in Florina sind montags oft geschlossen, prüfen Sie die Termine.",
+              "Nutzen Sie die vielen gemütlichen 'Ouzeri' als Zwischenstopps."
+            ],
+            "hu": [
+              "A florinai széllökések miatt egy erős esernyő elengedhetetlen.",
+              "A folyóparti sétány nedvesen csúszós lehet, viseljen tapadós talpú cipőt.",
+              "A múzeumok hétfőn gyakran zárva tartanak, ellenőrizze a nyitvatartást.",
+              "Használja a hangulatos 'ouzeri'-ket köztes pihenőpontként."
+            ],
+            "ro": [
+              "O umbrelă rezistentă este esențială din cauza rafalelor de vânt din Florina.",
+              "Promenada de pe malul râului poate fi alunecoasă, purtați pantofi cu aderență.",
+              "Muzeele sunt adesea închise lunea, verificați programul în prealabil.",
+              "Folosiți numeroasele 'ouzeri' primitoare ca puncte de oprire intermediare."
+            ],
+            "en": [
+              "A sturdy umbrella is essential due to wind gusts in Florina.",
+              "The riverside promenade can be slippery when wet; wear grippy shoes.",
+              "Museums in Florina are often closed on Mondays; check schedules first.",
+              "Use the many cozy 'ouzeri' as intermediate rest stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Florina, das 'kleine Paris' Griechenlands, glänzt im Frost auf dem Aristoteles-Platz. Die klare Winterluft belebt den Gang durch die Fußgängerzone.\n\nMittags wärmen wir uns in der Kirche Agios Georgios auf. Danach bietet das Volkskundemuseum Einblicke in traditionelle Winterbräuche der Region.\n\nDer Nachmittag am Sakoulevas ist magisch: Die bunten Häuser bilden einen scharfen Kontrast zum Schnee. Die Museen bieten wohlige Wärme.\n\nDa die Sonne früh untergeht, genießen wir das Museum für Moderne Kunst, bevor wir uns in eine geheizte Taverne zurückziehen.",
+            "hu": "Florina, Görögország 'kis Párizsa', dérlepte Arisztotelész térrel vár. A friss téli levegő élénkítően hat a sétálóutcai korzózáskor.\n\nDélben az Ágiosz Geórgiosz-templomban melegszünk fel, majd a Néprajzi Múzeum bemutatja a régió hagyományos téli szokásait.\n\nA délután a Szakulévassz partján varázslatos: a színes házak élesen elütnek a hótól. A múzeumok hívogató meleget kínálnak.\n\nMivel korán sötétedik, a Modern Művészetek Múzeumában töltjük az uzsonnaidőt, mielőtt egy fűtött tavernába vonulnánk.",
+            "ro": "Florina, „micul Paris” al Greciei, strălucește sub promoroacă în Piața Aristoteles. Aerul proaspăt de iarnă revigorează plimbarea prin zona pietonală.\n\nLa prânz ne încălzim în biserica Agios Georgios. Ulterior, Muzeul de Folclor ne oferă o perspectivă asupra tradițiilor de iarnă ale regiunii.\n\nDupă-amiaza pe malul Sakoulevas este magică: casele colorate contrastează puternic cu zăpada. Muzeele oferă o căldură primitoare.\n\nDeoarece soarele apune devreme, ne bucurăm de Muzeul de Artă Modernă înainte de a ne retrage într-o tavernă bine încălzită.",
+            "en": "Florina, the 'Little Paris' of Greece, glows under frost at Aristoteles Square. The crisp winter air invigorates our walk through the pedestrian zone.\n\nAt noon, we warm up in the Agios Georgios church. Later, the Folklore Museum offers insights into the region's traditional winter customs.\n\nAfternoon by the Sakoulevas is magical; the colorful houses contrast sharply with the snow. Museums provide a welcoming warmth.\n\nAs the sun sets early, we enjoy the Museum of Modern Art before retreating to a heated local tavern for the evening."
+          },
+          "stops": [
+            {
+              "name": "Aristoteles-Platz",
+              "tip_5lang": {
+                "de": "Probieren Sie heiße Schokolade in den Cafés am Platz.",
+                "hu": "Kóstolja meg a forró csokoládét a főtér kávézóiban.",
+                "ro": "Gustați o ciocolată caldă în cafenelele din piață.",
+                "en": "Try some hot chocolate in the square's cafes."
+              }
+            },
+            {
+              "name": "Zentrale Fußgängerzone",
+              "tip_5lang": {
+                "de": "Die Architektur wirkt im Winterlicht besonders plastisch.",
+                "hu": "Az építészet a téli fényben különösen plasztikusnak hat.",
+                "ro": "Arhitectura pare deosebit de plastică în lumina iernii.",
+                "en": "The architecture looks particularly sculptural in winter light."
+              }
+            },
+            {
+              "name": "Kirche Agios Georgios",
+              "tip_5lang": {
+                "de": "Der Duft von Weihrauch und Kerzen schafft eine warme Atmosphäre.",
+                "hu": "A tömjén és a gyertyák illata meleg atmoszférát teremt.",
+                "ro": "Mirosul de tămâie și lumânări creează o atmosferă caldă.",
+                "en": "The scent of incense and candles creates a warm atmosphere."
+              }
+            },
+            {
+              "name": "Volkskundemuseum",
+              "tip_5lang": {
+                "de": "Ideal, um die Kälte für eine Stunde zu vergessen.",
+                "hu": "Ideális hely, hogy egy órára elfelejtse a hideget.",
+                "ro": "Ideal pentru a uita de frig timp de o oră.",
+                "en": "Ideal place to forget the cold for an hour."
+              }
+            },
+            {
+              "name": "Ufer des Sakoulevas",
+              "tip_5lang": {
+                "de": "Vorsicht vor vereisten Stellen direkt am Wasser.",
+                "hu": "Vigyázzon a jeges szakaszokkal közvetlenül a víz mellett.",
+                "ro": "Atenție la porțiunile înghețate direct lângă apă.",
+                "en": "Watch out for icy patches right by the water."
+              }
+            },
+            {
+              "name": "Archäologisches Museum",
+              "tip_5lang": {
+                "de": "Ein gut geheizter Ort voller antiker Schätze.",
+                "hu": "Jól fűtött hely, tele antik kincsekkel.",
+                "ro": "Un loc bine încălzit, plin de comori antice.",
+                "en": "A well-heated place full of ancient treasures."
+              }
+            },
+            {
+              "name": "Museum für Moderne Kunst",
+              "tip_5lang": {
+                "de": "Die Ausstellungen bieten einen farbenfrohen Kontrast zum Grau draußen.",
+                "hu": "A kiállítások színes kontrasztot adnak a kinti szürkeségnek.",
+                "ro": "Expozițiile oferă un contrast colorat față de griul de afară.",
+                "en": "The exhibitions offer a colorful contrast to the grey outside."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Florina ist eine der kältesten Städte Griechenlands, Schichten sind Pflicht.",
+              "Die Sonne verschwindet gegen 17:00 Uhr hinter den Bergen.",
+              "Probieren Sie 'Florina-Paprika', die im Winter oft geröstet serviert werden.",
+              "Schnee ist hier keine Seltenheit, feste Stiefel einplanen."
+            ],
+            "hu": [
+              "Florina Görögország egyik leghidegebb városa, a réteges öltözködés kötelező.",
+              "A nap 17:00 körül tűnik el a hegyek mögött.",
+              "Kóstolja meg a sült Florina-paprikát, amit télen gyakran szolgálnak fel.",
+              "A hó nem ritka, tervezzen hótaposóval vagy bakaccsal."
+            ],
+            "ro": [
+              "Florina este unul dintre cele mai reci orașe din Grecia; straturile sunt obligatorii.",
+              "Soarele dispare în spatele munților în jurul orei 17:00.",
+              "Gustați ardeii de Florina, serviți adesea copți în timpul iernii.",
+              "Zăpada nu este rară aici, planificați cizme solide."
+            ],
+            "en": [
+              "Florina is one of Greece's coldest cities; layering is mandatory.",
+              "The sun disappears behind the mountains around 17:00.",
+              "Try 'Florina peppers', often served roasted during winter.",
+              "Snow is common here; plan for sturdy winter boots."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -517,6 +717,188 @@
           "Use the many cafes for short breaks.",
           "Lock your bike securely at the museums."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regen in Florina bremst uns nicht aus, erfordert aber Vorsicht auf den Radwegen. Wir starten am Aristoteles-Platz und radeln zur Kirche Agios Georgios.\n\nDie Fahrt entlang des Sakoulevas bietet einen einzigartigen Blick auf die im Regen glänzenden Fassaden der alten Herrenhäuser.\n\nWir verbringen den Nachmittag in den Museen, wo wir unsere Räder sicher abstellen und uns im Trockenen regenerieren können.\n\nZum Abschluss geht es zum Archäologischen Museum, bevor wir die kurze, nasse Fahrt zurück ins Zentrum antreten.",
+            "hu": "Az eső Florinában nem állít meg, de óvatosságot igényel a kerékpárutakon. Az Arisztotelész tértől tekerünk az Ágiosz Geórgiosz-templomig.\n\nA Szakulévassz menti tekerés egyedi rálátást nyújt a régi udvarházak esőben csillogó homlokzataira.\n\nA délutánt múzeumokban töltjük, ahol biztonságban lezárhatjuk a gépeket és szárazon regenerálódhatunk.\n\nZárásként a Régészeti Múzeumot látogatjuk meg, mielőtt megtennénk a rövid, vizes utat vissza a központba.",
+            "ro": "Ploaia în Florina nu ne oprește, dar necesită prudență pe pistele de biciclete. Pornim din Piața Aristoteles și pedalăm spre biserica Agios Georgios.\n\nPlimbarea de-a lungul râului Sakoulevas oferă o vedere unică asupra fațadelor conacelor vechi care strălucesc în ploaie.\n\nPetrecem după-amiaza în muzee, unde putem parca bicicletele în siguranță și ne putem regenera la uscat.\n\nLa final mergem la Muzeul de Arheologie, înainte de scurta călătorie umedă înapoi spre centru.",
+            "en": "Rain in Florina won't stop us, but it requires caution on the bike paths. We start from Aristoteles Square and cycle to Agios Georgios church.\n\nThe ride along the Sakoulevas offers a unique view of the old mansions' facades glistening in the rain.\n\nWe spend the afternoon in museums, where we can park the bikes safely and recover in the dry interiors.\n\nFinally, we head to the Archaeological Museum before the short, wet ride back to the center."
+          },
+          "stops": [
+            {
+              "name": "Aristoteles-Platz",
+              "tip_5lang": {
+                "de": "Das Kopfsteinpflaster kann bei Regen extrem rutschig sein.",
+                "hu": "A macskakő esőben rendkívül csúszós lehet.",
+                "ro": "Pavajul de piatră cubică poate fi extrem de alunecos pe ploaie.",
+                "en": "The cobblestones can be extremely slippery in the rain."
+              }
+            },
+            {
+              "name": "Kirche Agios Georgios",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Kircheneingang als kurzen Unterstand.",
+                "hu": "Használja a templom bejáratát rövid esőbeállónak.",
+                "ro": "Folosiți intrarea bisericii ca scurt adăpost.",
+                "en": "Use the church entrance as a short shelter."
+              }
+            },
+            {
+              "name": "Ufer des Sakoulevas",
+              "tip_5lang": {
+                "de": "Fahren Sie langsam; Pfützen können tiefe Löcher verbergen.",
+                "hu": "Hajtson lassan; a tócsák mély kátyúkat rejthetnek.",
+                "ro": "Pedalați încet; bălțile pot ascunde gropi adânci.",
+                "en": "Ride slowly; puddles can hide deep potholes."
+              }
+            },
+            {
+              "name": "Museum für Moderne Kunst",
+              "tip_5lang": {
+                "de": "Sicherer Fahrradständer in der Nähe vorhanden.",
+                "hu": "Biztonságos kerékpártároló található a közelben.",
+                "ro": "Suport de biciclete securizat disponibil în apropiere.",
+                "en": "Secure bike rack available nearby."
+              }
+            },
+            {
+              "name": "Archäologisches Museum",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um die Regenjacke auszuschütteln.",
+                "hu": "Tökéletes hely az esőkabát lerázására.",
+                "ro": "Locul perfect pentru a scutura pelerina de ploaie.",
+                "en": "Perfect place to shake off the raincoat."
+              }
+            },
+            {
+              "name": "Hügel Agios Panteleimon",
+              "tip_5lang": {
+                "de": "Der Anstieg ist anstrengend; bei starkem Regen eher meiden.",
+                "hu": "A kapaszkodó fárasztó; szakadó esőben inkább kerülje el.",
+                "ro": "Urcarea este obositoare; evitați-o în caz de ploaie torențială.",
+                "en": "The climb is tiring; avoid it during heavy rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vollständige Regenbekleidung (Hose und Jacke) ist ratsam.",
+              "Prüfen Sie Ihre Bremsen; der Bremsweg verlängert sich auf nassem Asphalt.",
+              "Halten Sie Abstand zum Flussufer, der Boden kann dort weich werden.",
+              "Die Sicht kann durch Regen und Nebel eingeschränkt sein, Licht einschalten."
+            ],
+            "hu": [
+              "Teljes esőruházat (nadrág és kabát) tanácsos.",
+              "Ellenőrizze a fékeket; a fékút hosszabb a nedves aszfalton.",
+              "Tartson távolságot a folyóparttól, a talaj ott felázhat.",
+              "Az eső és a köd ronthatja a látási viszonyokat, kapcsolja be a lámpát."
+            ],
+            "ro": [
+              "Se recomandă echipament complet de ploaie (pantaloni și jachetă).",
+              "Verificați frânele; distanța de frânare crește pe asfaltul umed.",
+              "Păstrați distanța față de malul râului, solul poate deveni moale acolo.",
+              "Vizibilitatea poate fi limitată de ploaie și ceață, aprindeți luminile."
+            ],
+            "en": [
+              "Full rain gear (pants and jacket) is advisable.",
+              "Check your brakes; stopping distance increases on wet asphalt.",
+              "Keep distance from the riverbank as the ground can become soft.",
+              "Visibility may be reduced by rain and mist; turn on your lights."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im winterlichen Florina ist erfrischend, erfordert aber Schichten gegen den kalten Fahrtwind. Der Aristoteles-Platz begrüßt uns frostig.\n\nNach einem Stopp an der Kirche geht es zum Sakoulevas-Ufer, wo die Luft eiskalt, aber herrlich sauber ist. Ein schneller Tritt hält warm.\n\nDie Museen sind unsere rettenden Wärmestationen. Wir genießen moderne und antike Kunst, während sich draußen das Winterlicht ändert.\n\nDen Abschluss bildet der Hügel Agios Panteleimon, von dem aus wir Florina unter einer eventuellen Schneedecke bewundern können.",
+            "hu": "A kerékpározás a téli Florinában frissítő, de a hideg menetszél ellen réteges öltözetet igényel. Az Arisztotelész tér fagyosan fogad.\n\nA templomi megálló után a Szakulévassz partjára megyünk, ahol a levegő jéghideg, de csodásan tiszta. A tekerés melegen tart.\n\nA múzeumok a mentőövként szolgáló melegítőpontjaink. Élvezzük a művészetet, miközben kint változnak a téli fények.\n\nA napot az Ágiosz Panteleimon-domb zárja, ahonnan megcsodálhatjuk a hótakaró alatti Florinát.",
+            "ro": "Pedalatul în Florina pe timp de iarnă este revigorant, dar necesită straturi împotriva vântului rece. Piața Aristoteles ne întâmpină înghețată.\n\nDupă o oprire la biserică, mergem pe malul Sakoulevas, unde aerul este rece, dar minunat de curat. Pedalarea ne menține calzi.\n\nMuzeele sunt stațiile noastre de încălzire salvatoare. Ne bucurăm de artă, în timp ce lumina iernii se schimbă afară.\n\nFinalul este marcat de dealul Agios Panteleimon, de unde putem admira Florina sub o eventuală manta de zăpadă.",
+            "en": "Cycling in wintery Florina is refreshing but requires layers against the cold wind. Aristoteles Square greets us with a frosty embrace.\n\nAfter a church stop, we head to the Sakoulevas bank, where the air is freezing but wonderfully clean. Brisk pedaling keeps us warm.\n\nMuseums are our saving warm-up stations. We enjoy modern and ancient art while the winter light changes outside.\n\nThe tour ends at Agios Panteleimon Hill, offering a view of Florina under a possible blanket of snow."
+          },
+          "stops": [
+            {
+              "name": "Aristoteles-Platz",
+              "tip_5lang": {
+                "de": "Handschuhe sind für die Fahrt durch die Stadt unerlässlich.",
+                "hu": "A kesztyű elengedhetetlen a városon keresztüli tekeréshez.",
+                "ro": "Mănușile sunt esențiale pentru plimbarea prin oraș.",
+                "en": "Gloves are essential for the ride through the city."
+              }
+            },
+            {
+              "name": "Kirche Agios Georgios",
+              "tip_5lang": {
+                "de": "Kurzes Aufwärmen im Vorraum der Kirche möglich.",
+                "hu": "Rövid melegedés lehetséges a templom előterében.",
+                "ro": "O scurtă încălzire este posibilă în vestibulul bisericii.",
+                "en": "A brief warm-up is possible in the church's vestibule."
+              }
+            },
+            {
+              "name": "Ufer des Sakoulevas",
+              "tip_5lang": {
+                "de": "Meiden Sie nasse Blätter oder Eisplatten auf dem Weg.",
+                "hu": "Kerülje a nedves leveleket vagy jégfoltokat az úton.",
+                "ro": "Evitați frunzele umede sau porțiunile cu gheață de pe drum.",
+                "en": "Avoid wet leaves or ice patches on the path."
+              }
+            },
+            {
+              "name": "Museum für Moderne Kunst",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch für eine heiße Pause.",
+                "hu": "Használja ki a múzeumlátogatást egy forró pihenőre.",
+                "ro": "Folosiți vizita la muzeu pentru o pauză călduroasă.",
+                "en": "Take advantage of the museum visit for a warm break."
+              }
+            },
+            {
+              "name": "Archäologisches Museum",
+              "tip_5lang": {
+                "de": "Kaltes Metall am Fahrradständer – Handschuhe anlassen!",
+                "hu": "Hideg fém a kerékpártárolón – hagyja magán a kesztyűt!",
+                "ro": "Metal rece la suportul de biciclete – păstrați mănușile!",
+                "en": "Cold metal at the bike rack – keep your gloves on!"
+              }
+            },
+            {
+              "name": "Hügel Agios Panteleimon",
+              "tip_5lang": {
+                "de": "Achtung: Die Abfahrt kann bei Frost gefährlich glatt sein.",
+                "hu": "Vigyázat: a lejtő fagyban veszélyesen síkos lehet.",
+                "ro": "Atenție: coborârea poate fi periculos de alunecoasă pe timp de îngheț.",
+                "en": "Caution: the descent can be dangerously slippery in frost."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen mit gutem Profil sind für Florina empfohlen.",
+              "Achten Sie auf Streusalz, das die Kette angreifen kann; danach reinigen.",
+              "Die Temperaturen sinken nach Sonnenuntergang (17:00) rapide.",
+              "Ein Thermo-Trinkbeutel verhindert das Einfrieren Ihres Getränks."
+            ],
+            "hu": [
+              "Jó profilú téli gumi javasolt Florinához.",
+              "Ügyeljen az útszóró sóra, ami kikezdheti a láncot; utána tisztítsa meg.",
+              "A hőmérséklet naplemente (17:00) után gyorsan zuhan.",
+              "Egy hőszigetelt kulacs megakadályozza az ital megfagyását."
+            ],
+            "ro": [
+              "Anvelopele de iarnă cu profil bun sunt recomandate pentru Florina.",
+              "Atenție la sarea de pe drum, care poate ataca lanțul; curățați-l după.",
+              "Temperaturile scad rapid după apusul soarelui (17:00).",
+              "Un bidon termic previne înghețarea băuturii."
+            ],
+            "en": [
+              "Winter tires with good tread are recommended for Florina.",
+              "Watch out for road salt which can damage the chain; clean it after.",
+              "Temperatures drop rapidly after sunset (17:00).",
+              "An insulated bottle prevents your drink from freezing."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -755,6 +1137,188 @@
           "There is plenty of parking at the viewpoint.",
           "Florina's museums are arranged in clusters, ideal for this concept."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden wir Florina bequem und trocken. Wir starten am zentralen Platz und steuern direkt das Volkskundemuseum an.\n\nDie Fahrt am Sakoulevas entlang ist sicher; wir parken nah an den Sehenswürdigkeiten, um den Regenweg zu minimieren.\n\nDer Nachmittag steht ganz im Zeichen der Archäologie und Moderne, bevor wir den Tag am Aussichtspunkt Panteleimon krönen.\n\nTrotz des Regens ist die Sicht von oben auf die Stadt im Tal bei bewölktem Himmel dramatisch und imposant.",
+            "hu": "Autóval kényelmesen és szárazon fedezzük fel Florinát. A központi térről indulunk, és egyenesen a Néprajzi Múzeum felé vesszük az irányt.\n\nA Szakulévassz menti autózás biztonságos; közel parkolunk a látnivalókhoz, hogy minimalizáljuk az esőben megtett utat.\n\nA délután a régészet és a modern művészet jegyében telik, mielőtt a napot a Panteleimon-kilátónál koronáznánk meg.\n\nAz eső ellenére a kilátás a völgyben fekvő városra a felhős égbolt alatt drámai és lenyűgöző.",
+            "ro": "Explorăm Florina confortabil și la uscat cu mașina. Pornim din piața centrală și ne îndreptăm direct spre Muzeul de Folclor.\n\nPlimbarea cu mașina de-a lungul Sakoulevas este sigură; parcăm aproape de atracții pentru a minimiza mersul prin ploaie.\n\nDupă-amiaza este dedicată arheologiei și artei moderne, înainte de a încununa ziua la punctul de belvedere Panteleimon.\n\nÎn ciuda ploii, vederea de sus asupra orașului din vale sub cerul înnorat este dramatică și impunătoare.",
+            "en": "Exploring Florina by car is comfortable and dry. We start at the central square and head straight for the Folklore Museum.\n\nDriving along the Sakoulevas is safe; we park close to the sights to minimize walking in the rain.\n\nThe afternoon is dedicated to archaeology and modern art before crowning the day at the Panteleimon viewpoint.\n\nDespite the rain, the view from above onto the valley city under a cloudy sky is dramatic and imposing."
+          },
+          "stops": [
+            {
+              "name": "Aristoteles-Platz",
+              "tip_5lang": {
+                "de": "Parkplätze in den Seitenstraßen suchen, der Platz ist Fußgängerzone.",
+                "hu": "Keressen parkolót az oldalsó utcákban, a tér sétálóövezet.",
+                "ro": "Căutați locuri de parcare în străzile laterale, piața este zonă pietonală.",
+                "en": "Look for parking in side streets; the square is a pedestrian zone."
+              }
+            },
+            {
+              "name": "Volkskundemuseum",
+              "tip_5lang": {
+                "de": "Parken Sie direkt vor dem Gebäude, um trocken hineinzukommen.",
+                "hu": "Parkoljon közvetlenül az épület előtt, hogy szárazon jusson be.",
+                "ro": "Parcați chiar în fața clădirii pentru a intra la uscat.",
+                "en": "Park right in front of the building to get inside dry."
+              }
+            },
+            {
+              "name": "Ufer des Sakoulevas",
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig, die engen Uferstraßen sind bei Regen glatt.",
+                "hu": "Vezessen óvatosan, a szűk folyóparti utcák esőben síkosak.",
+                "ro": "Conduceți cu atenție, străzile înguste de pe mal sunt alunecoase pe ploaie.",
+                "en": "Drive carefully; the narrow riverside streets are slippery in the rain."
+              }
+            },
+            {
+              "name": "Archäologisches Museum",
+              "tip_5lang": {
+                "de": "Es gibt einen kleinen Parkplatz für Besucher am Eingang.",
+                "hu": "A bejáratnál egy kis parkoló várja a látogatókat.",
+                "ro": "Există o mică parcare pentru vizitatori la intrare.",
+                "en": "There is a small parking lot for visitors at the entrance."
+              }
+            },
+            {
+              "name": "Museum für Moderne Kunst",
+              "tip_5lang": {
+                "de": "Ideal für einen längeren Aufenthalt während eines Schauers.",
+                "hu": "Ideális egy hosszabb tartózkodásra egy zápor alatt.",
+                "ro": "Ideal pentru o ședere mai lungă în timpul unei averse.",
+                "en": "Ideal for a longer stay during a downpour."
+              }
+            },
+            {
+              "name": "Hügel Agios Panteleimon",
+              "tip_5lang": {
+                "de": "Aussicht genießen, ohne das Auto bei starkem Regen zu verlassen.",
+                "hu": "Élvezze a kilátást anélkül, hogy kiszállna szakadó esőben.",
+                "ro": "Bucurați-vă de priveliște fără a părăsi mașina în caz de ploaie torențială.",
+                "en": "Enjoy the view without leaving the car during heavy rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Beschlagene Scheiben sind bei Regen ein Problem, Klimaanlage nutzen.",
+              "Die Uferstraße kann einspurig und eng sein; Gegenverkehr beachten.",
+              "Parkplätze im Zentrum sind bei Regen sehr begehrt, frühzeitig suchen.",
+              "Die Bergstraße zum Panteleimon ist gut asphaltiert, aber kurvig."
+            ],
+            "hu": [
+              "A párás szélvédő esőben gond lehet, használja a klímát.",
+              "A folyóparti út egyirányú és szűk lehet; figyeljen a szembejövőkre.",
+              "A központi parkolók esőben kelendőek, keressen időben helyet.",
+              "A Panteleimonhoz vezető hegyi út jól aszfaltozott, de kanyargós."
+            ],
+            "ro": [
+              "Geamurile aburite pot fi o problemă pe ploaie, folosiți aerul condiționat.",
+              "Drumul de pe mal poate fi îngust și cu sens unic; atenție la trafic.",
+              "Locurile de parcare din centru sunt căutate pe ploaie, căutați din timp.",
+              "Drumul montan spre Panteleimon este bine asfaltat, dar sinuos."
+            ],
+            "en": [
+              "Foggy windshields can be an issue in the rain; use the AC.",
+              "The riverside road can be narrow and one-way; watch for traffic.",
+              "Parking spots in the center are popular during rain; look early.",
+              "The mountain road to Panteleimon is well-paved but curvy."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter ist das Auto das ideale Transportmittel für Florina, besonders wenn es schneit. Wir starten gut geheizt am Aristoteles-Platz.\n\nNach dem Museumsbesuch fahren wir am verschneiten Sakoulevas-Ufer entlang, ein Anblick wie aus einem Märchenbuch.\n\nDie Museen bieten uns kulturelle Tiefe und wohlige Wärme, während wir die kurzen Wege zwischen den Parkplätzen genießen.\n\nZum Sonnenuntergang fahren wir auf den Hügel Agios Panteleimon. Der Blick auf die beleuchtete Stadt im Schnee ist unvergesslich.",
+            "hu": "Télen az autó az ideális közlekedési eszköz Florinában, különösen, ha esik a hó. Jól befűtve indulunk az Arisztotelész térről.\n\nA múzeumlátogatás után a havas Szakulévassz partján autózunk, ami olyan látvány, mint egy mesekönyvben.\n\nA múzeumok kulturális mélységet és hívogató meleget kínálnak, miközben élvezzük a parkolók közötti rövid utat.\n\nNaplementére az Ágiosz Panteleimon-dombra hajtunk. A kivilágított, havas város látványa felejthetetlen.",
+            "ro": "Iarna, mașina este mijlocul de transport ideal pentru Florina, mai ales dacă ninge. Pornim cu mașina încălzită din Piața Aristoteles.\n\nDupă vizitarea muzeului, conducem pe malul înzăpezit al Sakoulevas, o priveliște ca dintr-o carte de povești.\n\nMuzeele ne oferă profunzime culturală și căldură primitoare, în timp ce ne bucurăm de distanțele scurte între parcări.\n\nLa apusul soarelui, mergem pe dealul Agios Panteleimon. Vederea orașului iluminat sub zăpadă este de neuitat.",
+            "en": "In winter, a car is the ideal way to get around Florina, especially when it snows. We start well-heated from Aristoteles Square.\n\nAfter the museum visit, we drive along the snowy Sakoulevas bank—a sight straight out of a fairy tale.\n\nMuseums offer cultural depth and cozy warmth while we appreciate the short distances between parking spots.\n\nAt sunset, we drive up to Agios Panteleimon Hill. The view of the illuminated city in the snow is unforgettable."
+          },
+          "stops": [
+            {
+              "name": "Aristoteles-Platz",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis in den schattigen Seitenstraßen.",
+                "hu": "Ügyeljen a jegesedésre az árnyékos mellékutcákban.",
+                "ro": "Atenție la polei în străzile laterale umbrite.",
+                "en": "Watch out for black ice in shaded side streets."
+              }
+            },
+            {
+              "name": "Volkskundemuseum",
+              "tip_5lang": {
+                "de": "Der Motor sollte warm sein, bevor Sie die Bergfahrt wagen.",
+                "hu": "A motornak be kell melegednie, mielőtt nekivág a hegyi útnak.",
+                "ro": "Motorul ar trebui să fie cald înainte de a urca pe munte.",
+                "en": "The engine should be warm before attempting the mountain drive."
+              }
+            },
+            {
+              "name": "Ufer des Sakoulevas",
+              "tip_5lang": {
+                "de": "Die bunten Häuser spiegeln sich wunderschön im Eis des Flusses.",
+                "hu": "A színes házak gyönyörűen tükröződnek a folyó jegén.",
+                "ro": "Casele colorate se reflectă frumos în gheața râului.",
+                "en": "The colorful houses reflect beautifully in the river's ice."
+              }
+            },
+            {
+              "name": "Archäologisches Museum",
+              "tip_5lang": {
+                "de": "Innen ist es gemütlich, parken Sie nah am Haupteingang.",
+                "hu": "Bent barátságos az idő, parkoljon közel a főbejárathoz.",
+                "ro": "În interior este plăcut, parcați aproape de intrarea principală.",
+                "en": "It's cozy inside; park close to the main entrance."
+              }
+            },
+            {
+              "name": "Museum für Moderne Kunst",
+              "tip_5lang": {
+                "de": "Perfekt für eine Pause, wenn die Außentemperaturen sinken.",
+                "hu": "Tökéletes pihenőre, ha a kinti hőmérséklet süllyed.",
+                "ro": "Perfect pentru o pauză când temperaturile exterioare scad.",
+                "en": "Perfect for a break when outside temperatures drop."
+              }
+            },
+            {
+              "name": "Hügel Agios Panteleimon",
+              "tip_5lang": {
+                "de": "Winterreifen oder Schneeketten sind hier bei Schneefall Pflicht.",
+                "hu": "Hóesésben itt kötelező a téli gumi vagy a hólánc.",
+                "ro": "Anvelopele de iarnă sau lanțurile sunt obligatorii aici dacă ninge.",
+                "en": "Winter tires or snow chains are mandatory here if it snows."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Frostschutzmittel in der Scheibenwaschanlage ist in Florina essenziell.",
+              "Die Bergstraße kann bei plötzlichem Schneefall schnell glatt werden.",
+              "Batterie prüfen; die Kälte in Florina kann schwache Akkus entladen.",
+              "Lassen Sie das Auto nicht mit angezogener Handbremse über Nacht stehen."
+            ],
+            "hu": [
+              "A fagyálló a szélvédőmosóban elengedhetetlen Florinában.",
+              "A hegyi út hirtelen hóesésnél gyorsan síkossá válhat.",
+              "Ellenőrizze az akkumulátort; a florinai hideg lemerítheti a gyenge akksit.",
+              "Ne hagyja az autót behúzott kézifékkel éjszakára a fagyban."
+            ],
+            "ro": [
+              "Antigelul în lichidul de parbriz este esențial în Florina.",
+              "Drumul montan poate deveni rapid alunecos în caz de ninsoare bruscă.",
+              "Verificați bateria; frigul din Florina poate descărca bateriile slabe.",
+              "Nu lăsați mașina peste noapte cu frâna de mână trasă pe îngheț."
+            ],
+            "en": [
+              "Antifreeze in the windshield washer fluid is essential in Florina.",
+              "The mountain road can quickly become slippery during sudden snowfall.",
+              "Check your battery; Florina's cold can drain weak batteries.",
+              "Don't leave the car with the parking brake engaged overnight in frost."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -993,6 +1557,188 @@
           "Check departure times in advance.",
           "Wear comfortable shoes for walking."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Öffentliche Verkehrsmittel sind ideal, um bei Regen trocken durch Florina zu kommen. Wir starten am Aristoteles-Platz und nutzen Busse zur Fußgängerzone.\n\nZwischen den Schauern besuchen wir die Kirche Agios Georgios und das Sakoulevas-Ufer, immer mit Blick auf den Fahrplan.\n\nDer Nachmittag gehört den Museen, die gut an das lokale Busnetz angebunden sind, sodass wir kaum nass werden.\n\nWir beenden die Tour im Volkskundemuseum, bevor wir bequem mit dem Bus zurück zum Ausgangspunkt oder zum Hotel fahren.",
+            "hu": "A tömegközlekedés ideális, hogy esőben szárazon jussunk át Florinán. Az Arisztotelész téren kezdünk, és busszal megyünk a sétálóutcához.\n\nA záporok között meglátogatjuk az Ágiosz Geórgiosz-templomot és a Szakulévassz partját, mindig szemmel tartva a menetrendet.\n\nA délután a múzeumoké, amelyek jól kapcsolódnak a helyi buszhálózathoz, így alig ér minket víz.\n\nA túrát a Néprajzi Múzeumban zárjuk, mielőtt kényelmesen busszal visszatérnénk a kiindulópontra vagy a hotelhez.",
+            "ro": "Transportul public este ideal pentru a traversa Florina la uscat pe timp de ploaie. Începem în Piața Aristoteles și folosim autobuzele spre zona pietonală.\n\nÎntre averse vizităm biserica Agios Georgios și malul Sakoulevas, mereu cu ochii pe programul autobuzelor.\n\nDupă-amiaza aparține muzeelor, care sunt bine conectate la rețeaua locală de autobuze, astfel încât abia dacă ne udăm.\n\nÎncheiem turul la Muzeul de Folclor, înainte de a ne întoarce confortabil cu autobuzul la punctul de plecare sau la hotel.",
+            "en": "Public transit is ideal for staying dry while moving through Florina in the rain. We start at Aristoteles Square and take buses to the pedestrian zone.\n\nBetween showers, we visit Agios Georgios church and the Sakoulevas bank, always keeping an eye on the schedule.\n\nAfternoon is spent in museums, which are well-connected to the local bus network, ensuring we stay mostly dry.\n\nWe conclude the tour at the Folklore Museum before taking a comfortable bus ride back to our starting point or hotel."
+          },
+          "stops": [
+            {
+              "name": "Aristoteles-Platz",
+              "tip_5lang": {
+                "de": "Zentraler Knotenpunkt für fast alle Stadtlinien.",
+                "hu": "Központi csomópont szinte minden városi járathoz.",
+                "ro": "Nod central pentru aproape toate liniile urbane.",
+                "en": "Central hub for almost all city bus lines."
+              }
+            },
+            {
+              "name": "Zentrale Fußgängerzone",
+              "tip_5lang": {
+                "de": "Bushaltestellen befinden sich oft an den Enden der Zone.",
+                "hu": "A buszmegállók gyakran a sétálóövezet végeinél vannak.",
+                "ro": "Stațiile de autobuz se află adesea la capetele zonei pietonale.",
+                "en": "Bus stops are often located at the ends of the zone."
+              }
+            },
+            {
+              "name": "Kirche Agios Georgios",
+              "tip_5lang": {
+                "de": "Überdachte Haltestellen bieten Schutz beim Warten.",
+                "hu": "Fedett megállók nyújtanak védelmet várakozás közben.",
+                "ro": "Stațiile acoperite oferă protecție în timpul așteptării.",
+                "en": "Covered stops provide protection while waiting."
+              }
+            },
+            {
+              "name": "Ufer des Sakoulevas",
+              "tip_5lang": {
+                "de": "Ein kurzer Fußweg von der nächsten Haltestelle am Fluss.",
+                "hu": "Rövid séta a legközelebbi folyóparti megállótól.",
+                "ro": "O scurtă plimbare de la cea mai apropiată stație de pe râu.",
+                "en": "A short walk from the nearest riverside stop."
+              }
+            },
+            {
+              "name": "Archäologisches Museum",
+              "tip_5lang": {
+                "de": "Der Bus hält oft in unmittelbarer Nähe des Eingangs.",
+                "hu": "A busz gyakran közvetlenül a bejárat közelében áll meg.",
+                "ro": "Autobuzul oprește adesea în imediata apropiere a intrării.",
+                "en": "The bus often stops in the immediate vicinity of the entrance."
+              }
+            },
+            {
+              "name": "Volkskundemuseum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Echtzeit-App, um Regenwartezeiten zu vermeiden.",
+                "hu": "Használja a valós idejű appot, hogy elkerülje az esőben várakozást.",
+                "ro": "Folosiți aplicația în timp real pentru a evita așteptarea în ploaie.",
+                "en": "Use the real-time app to avoid waiting in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Halten Sie Kleingeld für Fahrkarten bereit, falls keine App genutzt wird.",
+              "Bei starkem Regen können Busse leicht verspätet sein.",
+              "Die Busse sind im Winter oft stark geheizt – Zwiebelprinzip bei Kleidung.",
+              "Fragen Sie den Fahrer nach der nächsten Haltestelle für die Museen."
+            ],
+            "hu": [
+              "Legyen kéznél aprópénz a jegyhez, ha nem használ applikációt.",
+              "Heves esőzéskor a buszok kissé késhetnek.",
+              "A buszok télen gyakran erősen fűtöttek – réteges öltözködés javasolt.",
+              "Kérdezze a sofőrt a múzeumokhoz legközelebbi megállóról."
+            ],
+            "ro": [
+              "Aveți pregătit mărunt pentru bilete dacă nu folosiți o aplicație.",
+              "În caz de ploaie torențială, autobuzele pot avea mici întârzieri.",
+              "Autobuzele sunt adesea bine încălzite iarna – purtați straturi de haine.",
+              "Întrebați șoferul despre cea mai apropiată stație pentru muzee."
+            ],
+            "en": [
+              "Have small change ready for tickets if you're not using an app.",
+              "During heavy rain, buses may be slightly delayed.",
+              "Buses are often heavily heated in winter; dress in layers.",
+              "Ask the driver for the nearest stop for the museums."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Bus ist im Winter die wärmste Art, Florina zu erleben. Wir starten am frostigen Aristoteles-Platz und fahren gemütlich zur Fußgängerzone.\n\nNach dem Besuch der Kirche nutzen wir den Transit zum Sakoulevas-Ufer, um die Kältephasen im Freien kurzzuhalten.\n\nDie Museen sind kulturelle Highlights, die wir entspannt erreichen, ohne uns über glatte Straßen Gedanken machen zu müssen.\n\nZum Abschluss wärmen wir uns im Volkskundemuseum auf, bevor uns der Bus sicher zurück ins Zentrum bringt.",
+            "hu": "A busz télen a legmelegebb módja Florina felfedezésének. A fagyos Arisztotelész téren kezdünk, és kényelmesen utazunk a sétálóutcához.\n\nA templomlátogatás után busszal megyünk a Szakulévassz partjára, hogy lerövidítsük a kinti hidegben töltött időt.\n\nA múzeumok kulturális fénypontok, amiket nyugodtan érünk el, nem kell a csúszós utak miatt aggódnunk.\n\nZárásként a Néprajzi Múzeumban melegszünk fel, mielőtt a busz biztonságban visszavisz minket a központba.",
+            "ro": "Autobuzul este cel mai călduros mod de a experimenta Florina iarna. Începem în Piața Aristoteles înghețată și mergem confortabil spre zona pietonală.\n\nDupă vizitarea bisericii, folosim transportul spre malul Sakoulevas pentru a scurta perioadele de frig afară.\n\nMuzeele sunt puncte culminante culturale la care ajungem relaxați, fără a ne face griji pentru străzile alunecoase.\n\nÎn final, ne încălzim în Muzeul de Folclor, înainte ca autobuzul să ne ducă în siguranță înapoi în centru.",
+            "en": "The bus is the warmest way to experience Florina in winter. We start at the frosty Aristoteles Square and ride comfortably to the pedestrian zone.\n\nAfter visiting the church, we use transit to reach the Sakoulevas bank, keeping outdoor exposure to the cold minimal.\n\nMuseums are cultural highlights that we reach in a relaxed manner without worrying about slippery roads.\n\nFinally, we warm up at the Folklore Museum before the bus takes us safely back to the city center."
+          },
+          "stops": [
+            {
+              "name": "Aristoteles-Platz",
+              "tip_5lang": {
+                "de": "Der zentrale Platz ist ein guter Ort, um im Café auf den Bus zu warten.",
+                "hu": "A főtér jó hely, hogy egy kávézóban várja meg a buszt.",
+                "ro": "Piața centrală este un loc bun pentru a aștepta autobuzul într-o cafenea.",
+                "en": "The central square is a good place to wait for the bus in a cafe."
+              }
+            },
+            {
+              "name": "Zentrale Fußgängerzone",
+              "tip_5lang": {
+                "de": "Vorsicht beim Aussteigen auf eventuell vereisten Gehwegen.",
+                "hu": "Vigyázzon a leszálláskor az esetlegesen jeges járdákra.",
+                "ro": "Atenție la coborâre pe trotuarele eventual înghețate.",
+                "en": "Be careful when getting off on potentially icy sidewalks."
+              }
+            },
+            {
+              "name": "Kirche Agios Georgios",
+              "tip_5lang": {
+                "de": "Haltestellen in der Nähe sind oft gut beleuchtet.",
+                "hu": "A közeli megállók gyakran jól megvilágítottak.",
+                "ro": "Stațiile din apropiere sunt adesea bine iluminate.",
+                "en": "Stops nearby are often well-lit."
+              }
+            },
+            {
+              "name": "Ufer des Sakoulevas",
+              "tip_5lang": {
+                "de": "Busse fahren hier seltener; achten Sie genau auf die Uhrzeiten.",
+                "hu": "A buszok itt ritkábban járnak; figyeljen pontosan az időpontokra.",
+                "ro": "Autobuzele circulă mai rar aici; atenție sporită la orele de plecare.",
+                "en": "Buses run less frequently here; watch the timetable closely."
+              }
+            },
+            {
+              "name": "Archäologisches Museum",
+              "tip_5lang": {
+                "de": "Gutes Ziel, um sich nach der Fahrt kurz die Beine zu vertreten.",
+                "hu": "Jó célpont, hogy az út után kicsit megmozgassa a lábait.",
+                "ro": "O destinație bună pentru a vă dezmorți picioarele după călătorie.",
+                "en": "A good destination to stretch your legs after the ride."
+              }
+            },
+            {
+              "name": "Volkskundemuseum",
+              "tip_5lang": {
+                "de": "Die letzte Fahrt zurück sollte vor 18:00 Uhr geplant werden.",
+                "hu": "Az utolsó visszautat 18:00 előtt érdemes megtervezni.",
+                "ro": "Ultima călătorie de întoarcere ar trebui planificată înainte de ora 18:00.",
+                "en": "The last trip back should be planned before 18:00."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterfahrpläne können von Sommerfahrplänen abweichen.",
+              "Bei starkem Schneefall können einige Linien eingeschränkt sein.",
+              "Busse sind ein Treffpunkt der Einheimischen; ideal für Insider-Tipps.",
+              "Wärmen Sie sich in den Museen auf, die Haltestellen sind oft zugig."
+            ],
+            "hu": [
+              "A téli menetrendek eltérhetnek a nyáriaktól.",
+              "Erős hóesésben egyes járatok korlátozottan közlekedhetnek.",
+              "A buszok a helyiek találkozóhelyei; ideálisak tippek szerzésére.",
+              "Melegedjen fel a múzeumokban, a megállók gyakran huzatosak."
+            ],
+            "ro": [
+              "Orarele de iarnă pot diferi de cele de vară.",
+              "În caz de ninsoare puternică, unele linii pot fi limitate.",
+              "Autobuzele sunt un loc de întâlnire al localnicilor; ideale pentru sfaturi.",
+              "Încălziți-vă în muzee, stațiile sunt adesea expuse curentului."
+            ],
+            "en": [
+              "Winter schedules may differ from summer ones.",
+              "During heavy snowfall, some lines may have restricted service.",
+              "Buses are local meeting spots; ideal for getting insider tips.",
+              "Warm up in the museums; bus stops can often be drafty."
+            ]
+          }
+        }
       }
     }
   }

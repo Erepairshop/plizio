@@ -338,6 +338,192 @@
           "Check the opening hours of the museums in advance.",
           "Have a camera ready to capture the surreal art and industrial architecture."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Vormittags erkunden wir das Stadtzentrum von La Louvière mit Schirm, beginnend am Rathaus. Die kurzen Wege zwischen den Museen sind ideal bei Regen. Mittags genießen wir die wallonische Küche in einem gemütlichen Restaurant im Zentrum. Der Nachmittag steht ganz im Zeichen der Keramik und Kunst im Keramis, wo wir trocken bleiben. Abends lassen wir den Tag bei einem Glas lokalem Bier ausklingen.",
+            "hu": "Délelőtt esernyővel indulunk a városháza elől, kihasználva a központi múzeumok közelségét. Az esős időben a Saint-Joseph templom és a Daily-Bul gyűjteménye nyújt menedéket. Ebéd után a Keramis látogatóközpont belső tereiben mélyedünk el a kerámia művészetében. Estére egy belga söröző meleg hangulata várja a várost bejáró utazót.",
+            "ro": "Dimineața explorăm centrul orașului La Louvière cu umbrela, începând de la primărie. Distanțele scurte între muzee sunt ideale pe ploaie. La prânz ne bucurăm de bucătăria valonă într-un restaurant primitor. După-amiaza este dedicată artei ceramicii la Keramis, unde rămânem la adăpost. Seara ne relaxăm cu o bere locală într-o atmosferă caldă.",
+            "en": "In the morning, we explore La Louvière city center with an umbrella, starting at the Town Hall. The short distances between museums are perfect for rainy weather. At lunch, enjoy Walloon cuisine in a cozy central restaurant. The afternoon is dedicated to ceramic art at Keramis, staying dry indoors. In the evening, unwind with a local beer in a warm atmosphere."
+          },
+          "stops": [
+            {
+              "name": "La Louvière Town Hall",
+              "tip_5lang": {
+                "de": "Unter den Arkaden des Zentrums Schutz suchen.",
+                "hu": "A központi árkádok alatt keressünk menedéket.",
+                "ro": "Căutați adăpost sub arcadele centrale.",
+                "en": "Seek shelter under the central arcades."
+              }
+            },
+            {
+              "name": "Saint-Joseph Church",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um den heftigsten Regen abzuwarten.",
+                "hu": "Csendes hely a legnagyobb zápor átvészelésére.",
+                "ro": "Un loc liniștit pentru a aștepta trecerea ploii.",
+                "en": "A quiet place to wait out the heaviest rain."
+              }
+            },
+            {
+              "name": "Daily-Bul & Co",
+              "tip_5lang": {
+                "de": "Perfekt für eine ausgiebige Indoor-Besichtigung.",
+                "hu": "Tökéletes választás egy hosszabb benti programhoz.",
+                "ro": "Perfect pentru o vizită prelungită în interior.",
+                "en": "Perfect for an extensive indoor visit."
+              }
+            },
+            {
+              "name": "Keramis",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe für nasse Mäntel.",
+                "hu": "Használjuk a ruhatárat a vizes kabátoknak.",
+                "ro": "Folosiți garderoba pentru hainele ude.",
+                "en": "Use the cloakroom for wet coats."
+              }
+            },
+            {
+              "name": "Lunch in the city center",
+              "coords": [
+                4.185,
+                50.478
+              ],
+              "tip_5lang": {
+                "de": "Wählen Sie ein Lokal mit direktem Eingang zur Fußgängerzone.",
+                "hu": "Válasszunk közvetlenül a sétálóutcáról nyíló éttermet.",
+                "ro": "Alegeți un local cu intrare directă din zona pietonală.",
+                "en": "Choose a place with direct entry from the pedestrian zone."
+              }
+            },
+            {
+              "name": "Parc Boël",
+              "tip_5lang": {
+                "de": "Die asphaltierten Wege meiden Pfützen am besten.",
+                "hu": "Az aszfaltozott utak mentén kerülhetjük el a pocsolyákat.",
+                "ro": "Aleile asfaltate sunt cele mai bune pentru a evita bălțile.",
+                "en": "Paved paths are best for avoiding puddles."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Museen im Zentrum liegen sehr nah beieinander, ideal für kurze Sprints.",
+              "Tragen Sie wasserfeste Schuhe, da das Kopfsteinpflaster rutschig sein kann.",
+              "Das Keramis Museum bietet viel Platz zum Trocknen und Verweilen.",
+              "Suchen Sie nach Cafés mit Vordächern in der Nähe des Place Communale."
+            ],
+            "hu": [
+              "A központi múzeumok nagyon közel vannak egymáshoz, minimális kinti sétával.",
+              "Viseljünk vízálló cipőt, mert a macskaköves burkolat csúszóssá válik.",
+              "A Keramis múzeumban tágas terek várnak, ahol kényelmesen megszáradhatunk.",
+              "Keressünk előtetővel rendelkező kávézókat a Place Communale környékén."
+            ],
+            "ro": [
+              "Muzeele din centru sunt foarte aproape unele de altele, limitând expunerea.",
+              "Purtați încălțăminte impermeabilă, pavajul poate deveni alunecos.",
+              "Muzeul Keramis oferă spații generoase unde vă puteți usca confortabil.",
+              "Căutați cafenele cu copertine în apropierea Place Communale."
+            ],
+            "en": [
+              "Center museums are very close to each other, minimizing outdoor time.",
+              "Wear waterproof shoes as the cobblestones can get slippery.",
+              "Keramis museum offers plenty of space to dry off and relax.",
+              "Look for cafes with awnings near Place Communale."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen beginnt frisch am Rathaus, wo wir die kalte Luft bei einem kurzen Spaziergang genießen. Wir flüchten schnell in die Wärme der Museen Daily-Bul und Keramis. Mittags stärken wir uns mit einer heißen belgischen Suppe. Da die Sonne bereits gegen 17:00 Uhr untergeht, planen wir den Besuch im Parc Boël für den frühen Nachmittag ein, um das letzte Tageslicht zu nutzen.",
+            "hu": "A téli reggel frissen indul a városházánál, ahol élvezzük a csípős levegőt egy rövid séta erejéig. Hamar a Daily-Bul és a Keramis múzeumok melegébe húzódunk. Ebédre egy forró belga levest választunk. Mivel a nap 17:00 körül nyugszik, a Parc Boël látogatását kora délutánra időzítjük, hogy kihasználjuk a maradék fényt.",
+            "ro": "Dimineața de iarnă începe proaspăt la primărie, unde ne bucurăm de aerul rece în timpul unei scurte plimbări. Ne retragem rapid la căldură în muzeele Daily-Bul și Keramis. La prânz ne încălzim cu o supă belgiană fierbinte. Deoarece soarele apune în jur de ora 17:00, planificăm vizita în Parcul Boël pentru începutul după-amiezii.",
+            "en": "The winter morning starts fresh at the Town Hall, enjoying the crisp air during a short walk. We quickly retreat to the warmth of the Daily-Bul and Keramis museums. For lunch, warm up with a hot Belgian soup. As the sun sets around 17:00, we schedule the Parc Boël visit for the early afternoon to catch the last daylight."
+          },
+          "stops": [
+            {
+              "name": "La Louvière Town Hall",
+              "tip_5lang": {
+                "de": "Morgens kann es auf den Treppen glatt sein.",
+                "hu": "Reggel a lépcsők jegesek és csúszósak lehetnek.",
+                "ro": "Dimineața, scările pot fi înghețate și alunecoase.",
+                "en": "Steps can be icy and slippery in the morning."
+              }
+            },
+            {
+              "name": "Saint-Joseph Church",
+              "tip_5lang": {
+                "de": "Achten Sie auf die oft schweren, winddichten Türen.",
+                "hu": "Figyeljünk a nehéz, szélfogó ajtókra belépéskor.",
+                "ro": "Atenție la ușile grele care opresc curentul la intrare.",
+                "en": "Watch for the heavy, wind-blocking doors upon entry."
+              }
+            },
+            {
+              "name": "Daily-Bul & Co",
+              "tip_5lang": {
+                "de": "Die Heizung hier ist im Winter sehr angenehm.",
+                "hu": "A fűtés télen kifejezetten kellemes ebben a múzeumban.",
+                "ro": "Încălzirea este foarte plăcută aici pe timp de iarnă.",
+                "en": "The heating here is very pleasant during winter."
+              }
+            },
+            {
+              "name": "Keramis",
+              "tip_5lang": {
+                "de": "Ideal, um sich vor dem Nachmittagsspaziergang aufzuwärmen.",
+                "hu": "Ideális hely a felmelegedésre a délutáni séta előtt.",
+                "ro": "Loc ideal pentru încălzire înainte de plimbarea de după-amiază.",
+                "en": "Ideal place to warm up before the afternoon walk."
+              }
+            },
+            {
+              "name": "Lunch in the city center",
+              "tip_5lang": {
+                "de": "Fragen Sie nach saisonalen Wildgerichten.",
+                "hu": "Kérdezzünk rá a szezonális vadhúsételekre.",
+                "ro": "Întrebați de preparatele sezoniere din vânat.",
+                "en": "Ask about seasonal game dishes."
+              }
+            },
+            {
+              "name": "Parc Boël",
+              "tip_5lang": {
+                "de": "Besuch vor 16:30 Uhr wegen der frühen Dämmerung.",
+                "hu": "Látogassuk meg 16:30 előtt a korai sötétedés miatt.",
+                "ro": "Vizitați înainte de 16:30 din cauza amurgului timpuriu.",
+                "en": "Visit before 16:30 due to the early twilight."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie mehrere Schichten, da die Museen gut beheizt sind.",
+              "Die Sonne verschwindet früh hinter den Industriegebäuden.",
+              "Heiße Schokolade ist ein Muss in den Cafés am Marktplatz.",
+              "Vorsicht vor gefrorenem Laub auf den Parkwegen."
+            ],
+            "hu": [
+              "Réteges öltözködés javasolt, mert a múzeumok jól fűtöttek.",
+              "A nap korán eltűnik az ipari épületek mögött.",
+              "A forró csokoládé kötelező program a főtéri kávézókban.",
+              "Vigyázzunk a megfagyott falevelekre a parki utakon."
+            ],
+            "ro": [
+              "Se recomandă îmbrăcămintea în straturi, muzeele sunt bine încălzite.",
+              "Soarele dispare devreme în spatele clădirilor industriale.",
+              "Ciocolata caldă este obligatorie în cafenelele din piața centrală.",
+              "Atenție la frunzele înghețate pe aleile din parc."
+            ],
+            "en": [
+              "Layered clothing is recommended as museums are well-heated.",
+              "The sun disappears early behind the industrial buildings.",
+              "Hot chocolate is a must in the main square cafes.",
+              "Watch out for frozen leaves on park paths."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -654,6 +840,188 @@
           "The paths along the canal are flat and great for cycling.",
           "Stay hydrated, especially on sunny days."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen erkunden wir La Louvière mit dem Rad, beginnend im Parc Boël, wo die Bäume etwas Schutz bieten. Die Fahrt zum Keramis erfolgt auf asphaltierten Straßen, um Schlamm zu vermeiden. Mittags suchen wir ein Restaurant mit überdachten Fahrradständern. Der Höhepunkt ist die Fahrt entlang des Canal du Centre, wo der Regen eine mystische Atmosphäre über den Schiffshebewerken schafft.",
+            "hu": "Az eső ellenére kerékpárral indulunk, a Parc Boël fái alatt kezdve, amelyek némi védelmet nyújtanak. A Keramis felé aszfaltozott utakon haladunk a sár elkerülése érdekében. Ebédre olyan helyet keresünk, ahol fedett tároló van. A nap fénypontja a Canal du Centre menti tekerés, ahol az eső misztikus hangulatot áraszt a hajóemelők felett.",
+            "ro": "În ciuda ploii, explorăm La Louvière cu bicicleta, începând din Parcul Boël, unde copacii oferă protecție. Drumul spre Keramis urmează străzi asfaltate pentru a evita noroiul. La prânz căutăm un restaurant cu rastele acoperite. Punctul culminant este traseul de-a lungul Canal du Centre, unde ploaia creează o atmosferă mistică peste elevatoare.",
+            "en": "Despite the rain, we explore La Louvière by bike, starting in Parc Boël where trees offer some cover. The ride to Keramis follows paved streets to avoid mud. For lunch, we look for a spot with covered bike racks. The highlight is cycling along the Canal du Centre, where the rain creates a mystical atmosphere over the boat lifts."
+          },
+          "stops": [
+            {
+              "name": "Parc Boël",
+              "tip_5lang": {
+                "de": "Vorsicht bei nassen Blättern in den Kurven.",
+                "hu": "Vigyázzunk a vizes levelekre a kanyarokban.",
+                "ro": "Atenție la frunzele ude în curbe.",
+                "en": "Be careful with wet leaves in turns."
+              }
+            },
+            {
+              "name": "Town Hall and City Center",
+              "tip_5lang": {
+                "de": "Kurzer Stopp unter den Rathaus-Arkaden möglich.",
+                "hu": "Rövid megálló a városháza árkádjai alatt lehetséges.",
+                "ro": "Scurt popas posibil sub arcadele primăriei.",
+                "en": "Short stop possible under the Town Hall arcades."
+              }
+            },
+            {
+              "name": "Keramis & Daily-Bul",
+              "tip_5lang": {
+                "de": "Garderobe für nasse Regenbekleidung nutzen.",
+                "hu": "Használjuk a ruhatárat a vizes esőruhákhoz.",
+                "ro": "Folosiți garderoba pentru echipamentul de ploaie ud.",
+                "en": "Use the cloakroom for wet rain gear."
+              }
+            },
+            {
+              "name": "Lunch",
+              "tip_5lang": {
+                "de": "Ein Handtuch für den Sattel ist heute Gold wert.",
+                "hu": "Egy törölköző a nyereghez ma aranyat ér.",
+                "ro": "Un prosop pentru șa valorează aur astăzi.",
+                "en": "A towel for the saddle is worth its weight in gold today."
+              }
+            },
+            {
+              "name": "Pont du Garde-Dieu",
+              "tip_5lang": {
+                "de": "Metallene Dehnungsfugen auf der Brücke sind extrem rutschig.",
+                "hu": "A hídon lévő fém illesztések rendkívül csúszósak.",
+                "ro": "Rosturile metalice de pe pod sunt extrem de alunecoase.",
+                "en": "Metal expansion joints on the bridge are extremely slippery."
+              }
+            },
+            {
+              "name": "Canal du Centre Boat Lifts",
+              "tip_5lang": {
+                "de": "Der Leinpfad kann bei starkem Regen Pfützen bilden.",
+                "hu": "A vontatóúton heves esőben pocsolyák alakulhatnak ki.",
+                "ro": "Calea de halaj poate forma bălți la ploaie torențială.",
+                "en": "The towpath can form puddles during heavy rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Verwenden Sie Schutzbleche, um Spritzwasser zu vermeiden.",
+              "Reduzieren Sie den Reifendruck leicht für besseren Grip auf nassem Asphalt.",
+              "Die alten Treidelpfade am Kanal sind meist gut befestigt.",
+              "Halten Sie unter den Autobahnbrücken für eine kurze Pause an."
+            ],
+            "hu": [
+              "Használjunk sárvédőt a felcsapódó víz ellen.",
+              "Csökkentsük kicsit a guminyomást a jobb tapadásért a vizes aszfalton.",
+              "A csatorna menti régi vontatóutak többnyire jól rögzítettek.",
+              "Az autópálya-hidak alatt szárazon tarthatunk rövid pihenőt."
+            ],
+            "ro": [
+              "Folosiți apărători pentru a evita stropirea.",
+              "Reduceți ușor presiunea în pneuri pentru aderență pe asfalt ud.",
+              "Vechile căi de halaj de pe canal sunt de obicei bine consolidate.",
+              "Opriți sub podurile autostrăzii pentru o scurtă pauză uscată."
+            ],
+            "en": [
+              "Use mudguards to avoid spray water.",
+              "Slightly reduce tire pressure for better grip on wet asphalt.",
+              "The old towpaths along the canal are mostly well-stabilized.",
+              "Stop under highway bridges for a quick dry break."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Radtour durch La Louvière erfordert warme Handschuhe. Wir starten im Parc Boël und fahren zügig durch das Stadtzentrum, um die Körperwärme zu halten. Lange Aufenthalte in den Museen Keramis und Daily-Bul bieten die nötige Aufwärmpause. Nach einem herzhaften Mittagessen radeln wir am Canal du Centre entlang, wo der Frost die historischen Stahlkonstruktionen der Hebewerke weiß färbt.",
+            "hu": "A téli kerékpározás La Louvière-ben meleg kesztyűt igényel. A Parc Boël-ből indulunk, és tempósan haladunk a központon keresztül, hogy tartsuk a testhőt. A Keramis és Daily-Bul múzeumok hosszú látogatása biztosítja a szükséges melegedőt. Egy kiadós ebéd után a Canal du Centre mentén tekerünk, ahol a dér fehérre festi a hajóemelők acélszerkezeteit.",
+            "ro": "O tură cu bicicleta prin La Louvière iarna necesită mănuși groase. Pornim din Parcul Boël și pedalăm vioi prin centru pentru a menține căldura. Vizitele lungi la Keramis și Daily-Bul oferă pauza de încălzire necesară. După un prânz consistent, mergem de-a lungul Canal du Centre, unde gerul albește structurile de oțel ale elevatoarelor.",
+            "en": "A winter bike tour through La Louvière requires warm gloves. We start in Parc Boël and cycle briskly through the center to keep body heat. Long visits to Keramis and Daily-Bul museums provide the necessary warm-up breaks. After a hearty lunch, we cycle along the Canal du Centre, where frost whitens the historic steel structures of the boat lifts."
+          },
+          "stops": [
+            {
+              "name": "Parc Boël",
+              "tip_5lang": {
+                "de": "Vorsicht vor überfrierender Nässe im Schatten der Bäume.",
+                "hu": "Vigyázzunk a fák árnyékában lévő lefagyásokra.",
+                "ro": "Atenție la gheața formată în umbra copacilor.",
+                "en": "Watch out for black ice in the shade of trees."
+              }
+            },
+            {
+              "name": "Town Hall and City Center",
+              "tip_5lang": {
+                "de": "Schneller Durchgang, um nicht auszukühlen.",
+                "hu": "Gyors áthaladás, hogy ne hűljünk ki.",
+                "ro": "Traversare rapidă pentru a nu ne răci.",
+                "en": "Quick passage to avoid getting chilled."
+              }
+            },
+            {
+              "name": "Keramis & Daily-Bul",
+              "tip_5lang": {
+                "de": "Schuhe am Eingang gut abklopfen (Schnee/Salz).",
+                "hu": "Verjük le a havat/sót a cipőnkről a bejáratnál.",
+                "ro": "Scuturați bine zăpada/sarea de pe încălțăminte la intrare.",
+                "en": "Kick off snow/salt from your shoes at the entrance."
+              }
+            },
+            {
+              "name": "Lunch",
+              "tip_5lang": {
+                "de": "Ein warmer Tee ist jetzt besser als Kaltgetränke.",
+                "hu": "Egy meleg tea most jobb választás a hideg italoknál.",
+                "ro": "Un ceai cald este mai bun acum decât băuturile reci.",
+                "en": "A warm tea is better than cold drinks right now."
+              }
+            },
+            {
+              "name": "Pont du Garde-Dieu",
+              "tip_5lang": {
+                "de": "Brücken kühlen schneller aus und vereisen eher.",
+                "hu": "A hidak gyorsabban lehűlnek és hamarabb jegesednek.",
+                "ro": "Podurile se răcesc mai repede și îngheață primele.",
+                "en": "Bridges cool down faster and ice up sooner."
+              }
+            },
+            {
+              "name": "Canal du Centre Boat Lifts",
+              "tip_5lang": {
+                "de": "Der Wind am Kanal kann die gefühlte Temperatur senken.",
+                "hu": "A csatorna menti szél csökkentheti a hőérzetet.",
+                "ro": "Vântul de pe canal poate scădea temperatura resimțită.",
+                "en": "The wind along the canal can lower the felt temperature."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Kleidung, besonders am offenen Kanal.",
+              "Batterien von E-Bikes entladen sich bei Kälte schneller.",
+              "Planen Sie die Rückkehr vor Einbruch der Dunkelheit (ca. 16:45).",
+              "Ein Thermosbehälter mit warmem Getränk ist sehr zu empfehlen."
+            ],
+            "hu": [
+              "Viseljünk szélálló ruhát, különösen a nyitott csatornapartnál.",
+              "Az elektromos kerékpárok akkumulátora gyorsabban merül hidegben.",
+              "Tervezzük a visszatérést sötétedés előtt (kb. 16:45).",
+              "Egy termoszt meleg itallal erősen ajánlott magunkkal vinni."
+            ],
+            "ro": [
+              "Purtați haine rezistente la vânt, mai ales pe malul canalului.",
+              "Bateriile bicicletelor electrice se descarcă mai repede la frig.",
+              "Planificați întoarcerea înainte de lăsarea întunericului (cca. 16:45).",
+              "Se recomandă un termos cu o băutură caldă."
+            ],
+            "en": [
+              "Wear windproof clothing, especially by the open canal.",
+              "E-bike batteries drain faster in the cold.",
+              "Plan your return before dark (around 16:45).",
+              "A thermos with a warm drink is highly recommended."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1010,6 +1378,206 @@
           "Check parking options and fees in advance.",
           "The car allows you to easily reach more remote attractions."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist La Louvière bei Regen komfortabel zu erkunden. Wir starten im Bois-du-Luc, wo die alten Bergarbeiterhäuser im Regen besonders authentisch wirken. Danach fahren wir zu den Schiffshebewerken, die man auch gut vom Auto aus sehen kann. Nach einem Mittagessen am Kanal parken wir direkt im Zentrum, um die Museen Keramis und Daily-Bul mit minimalem Fußweg im Regen zu besuchen.",
+            "hu": "Autóval La Louvière esőben is kényelmesen felfedezhető. A Bois-du-Luc bányásztelepülésen kezdünk, ahol a régi házak esőben különösen autentikusak. Ezután a hajóemelőkhöz hajtunk, amelyek az autóból is jól látszanak. A csatorna menti ebéd után közvetlenül a központban parkolunk, hogy a Keramis és Daily-Bul múzeumokat minimális ázással érjük el.",
+            "ro": "Cu mașina, La Louvière este confortabil de explorat pe ploaie. Începem la Bois-du-Luc, unde vechile case de mineri par deosebit de autentice în ploaie. Apoi mergem la elevatoarele de nave, care pot fi văzute bine și din mașină. După un prânz pe canal, parcăm direct în centru pentru a vizita muzeele Keramis și Daily-Bul cu expunere minimă la ploaie.",
+            "en": "By car, La Louvière is comfortable to explore even in the rain. We start at Bois-du-Luc, where the old miners' houses look especially authentic in the rain. Then we drive to the boat lifts, which can be seen well from the car. After lunch by the canal, we park directly in the center to visit the Keramis and Daily-Bul museums with minimal walking in the rain."
+          },
+          "stops": [
+            {
+              "name": "Bois-du-Luc",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Besucherzentrum für kurze Wege.",
+                "hu": "Parkoljunk a látogatóközpont közelében a rövid sétaért.",
+                "ro": "Parcați aproape de centrul de vizitatori.",
+                "en": "Park near the visitor center for short walks."
+              }
+            },
+            {
+              "name": "Canal du Centre Boat Lifts",
+              "tip_5lang": {
+                "de": "Gute Sichtpunkte direkt von der Straße aus nutzbar.",
+                "hu": "A kilátópontok közvetlenül az út mellől is élvezhetők.",
+                "ro": "Puncte de observație accesibile direct de pe șosea.",
+                "en": "Good viewpoints accessible directly from the road."
+              }
+            },
+            {
+              "name": "Canal Walk & Pont du Garde-Dieu",
+              "tip_5lang": {
+                "de": "Kurzer Ausstieg mit Regenschirm für Fotos empfohlen.",
+                "hu": "Rövid kiszállás esernyővel ajánlott a fotókhoz.",
+                "ro": "Scurtă coborâre cu umbrela recomandată pentru poze.",
+                "en": "Short hop out with an umbrella recommended for photos."
+              }
+            },
+            {
+              "name": "Lunch near the canal",
+              "tip_5lang": {
+                "de": "Restaurants mit eigenem Parkplatz bevorzugen.",
+                "hu": "Részesítsük előnyben a saját parkolóval rendelkező helyeket.",
+                "ro": "Preferați restaurantele cu parcare proprie.",
+                "en": "Prefer restaurants with their own parking lot."
+              }
+            },
+            {
+              "name": "La Louvière City Center (Parking)",
+              "tip_5lang": {
+                "de": "Das Parkhaus 'Maugrétout' ist überdacht.",
+                "hu": "A 'Maugrétout' parkolóház fedett védelmet nyújt.",
+                "ro": "Parcarea etajată 'Maugrétout' este acoperită.",
+                "en": "The 'Maugrétout' parking garage is covered."
+              }
+            },
+            {
+              "name": "Town Hall & Saint-Joseph Church",
+              "tip_5lang": {
+                "de": "Kurzer Sprint vom Parkplatz zum Kircheneingang.",
+                "hu": "Gyors sprint a parkolótól a templom bejáratáig.",
+                "ro": "Scurt sprint de la parcare la intrarea în biserică.",
+                "en": "Quick sprint from the parking to the church entrance."
+              }
+            },
+            {
+              "name": "Keramis",
+              "tip_5lang": {
+                "de": "Parkplatz direkt vor dem Museum verfügbar.",
+                "hu": "Parkoló közvetlenül a múzeum előtt rendelkezésre áll.",
+                "ro": "Parcare disponibilă direct în fața muzeului.",
+                "en": "Parking available directly in front of the museum."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie Parkhäuser im Zentrum, um nicht im Regen zu bezahlen.",
+              "Die Landstraßen zwischen den Hebewerken können bei Regen rutschig sein.",
+              "Lassen Sie keine nassen Schirme auf den Polstern liegen.",
+              "Prüfen Sie die Wischerblätter vor der Abfahrt."
+            ],
+            "hu": [
+              "Használjuk a belvárosi parkolóházakat, hogy ne az esőben kelljen fizetni.",
+              "A hajóemelők közötti országutak esőben csúszósak lehetnek.",
+              "Ne hagyjuk a vizes esernyőket az üléseken.",
+              "Indulás előtt ellenőrizzük az ablaktörlőket."
+            ],
+            "ro": [
+              "Folosiți parcările etajate din centru pentru a nu plăti în ploaie.",
+              "Drumurile între elevatoare pot fi alunecoase pe ploaie.",
+              "Nu lăsați umbrelele ude pe scaune.",
+              "Verificați ștergătoarele înainte de plecare."
+            ],
+            "en": [
+              "Use multi-story car parks in the center to avoid paying in the rain.",
+              "Country roads between boat lifts can be slippery in the rain.",
+              "Don't leave wet umbrellas on the car seats.",
+              "Check wiper blades before starting the trip."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Winterausflug mit dem Auto nach La Louvière beginnt im historischen Bois-du-Luc, wo die Ziegelsteine im Frost glänzen. Die Fahrt zu den Schiffshebewerken bietet tolle Ausblicke auf die winterliche Landschaft des Hennegaus. Nach einem wärmenden Mittagessen parken wir im Zentrum, um die Museen zu besuchen. Da es früh dunkel wird, genießen wir die beleuchtete Stadtkulisse von La Louvière am späten Nachmittag.",
+            "hu": "A téli autós kirándulás La Louvière-be a történelmi Bois-du-Luc-nél kezdődik, ahol a téglák csillognak a dérben. A hajóemelőkhöz vezető út csodás kilátást nyújt Hainaut téli tájaira. Egy melengető ebéd után a központban parkolunk a múzeumlátogatáshoz. Mivel korán sötétedik, a délután végén már La Louvière kivilágított városképét élvezhetjük.",
+            "ro": "O excursie de iarnă cu mașina la La Louvière începe la istoricul Bois-du-Luc, unde cărămizile strălucesc în ger. Drumul spre elevatoare oferă vederi superbe asupra peisajului hibernal din Hainaut. După un prânz cald, parcăm în centru pentru vizitarea muzeelor. Deoarece se întunecă devreme, la sfârșitul după-amiezii ne bucurăm de orașul iluminat.",
+            "en": "A winter car trip to La Louvière starts at the historic Bois-du-Luc, where the bricks glisten in the frost. The drive to the boat lifts offers great views of the wintry Hainaut landscape. After a warming lunch, we park in the center for museum visits. Since it gets dark early, we enjoy the illuminated city scene of La Louvière in the late afternoon."
+          },
+          "stops": [
+            {
+              "name": "Bois-du-Luc",
+              "tip_5lang": {
+                "de": "Vorsicht vor vereisten Stellen auf dem Kopfsteinpflaster.",
+                "hu": "Vigyázzunk a jeges foltokra a macskaköveken.",
+                "ro": "Atenție la porțiunile înghețate de pe pavaj.",
+                "en": "Watch out for icy patches on the cobblestones."
+              }
+            },
+            {
+              "name": "Canal du Centre Boat Lifts",
+              "tip_5lang": {
+                "de": "Der Parkplatz kann bei Schnee ungeräumt sein.",
+                "hu": "A parkoló havas időben lehet, hogy nincs letakarítva.",
+                "ro": "Parcarea poate fi necurățată în caz de zăpadă.",
+                "en": "The parking lot might not be cleared during snow."
+              }
+            },
+            {
+              "name": "Canal Walk & Pont du Garde-Dieu",
+              "tip_5lang": {
+                "de": "Nur kurz für den Ausblick anhalten, Windgefahr.",
+                "hu": "Csak rövid időre álljunk meg a kilátásért a szél miatt.",
+                "ro": "Opriți doar scurt pentru priveliște din cauza vântului.",
+                "en": "Stop only briefly for the view due to the wind."
+              }
+            },
+            {
+              "name": "Lunch near the canal",
+              "tip_5lang": {
+                "de": "Fragen Sie nach einem Platz in der Nähe der Heizung.",
+                "hu": "Kérjünk asztalt a fűtőtest közelében.",
+                "ro": "Cereți o masă lângă calorifer.",
+                "en": "Ask for a table near the heater."
+              }
+            },
+            {
+              "name": "La Louvière City Center (Parking)",
+              "tip_5lang": {
+                "de": "Unterirdisches Parken schützt das Auto vor Frost.",
+                "hu": "A mélygarázs megvédi az autót a lefagyástól.",
+                "ro": "Parcarea subterană protejează mașina de îngheț.",
+                "en": "Underground parking protects the car from frost."
+              }
+            },
+            {
+              "name": "Town Hall & Saint-Joseph Church",
+              "tip_5lang": {
+                "de": "Beleuchtung des Rathauses ab 16:30 Uhr.",
+                "hu": "A városháza kivilágítása 16:30-tól látható.",
+                "ro": "Iluminatul primăriei este vizibil de la 16:30.",
+                "en": "Town Hall illumination is visible from 16:30."
+              }
+            },
+            {
+              "name": "Keramis",
+              "tip_5lang": {
+                "de": "Warmer Abschluss des Tages im beheizten Museum.",
+                "hu": "A nap meleg lezárása a fűtött múzeumban.",
+                "ro": "Încheiere caldă a zilei în muzeul încălzit.",
+                "en": "A warm end to the day in the heated museum."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in den ländlichen Gebieten um die Kanäle ratsam.",
+              "Füllen Sie Frostschutzmittel in die Scheibenwaschanlage.",
+              "Planen Sie mehr Zeit für das Einparken im Zentrum ein.",
+              "Achten Sie auf Wildwechsel auf den Straßen zum Bois-du-Luc."
+            ],
+            "hu": [
+              "A csatornák környéki vidéki utakon javasolt a téli gumi.",
+              "Töltsünk fagyállót a szélvédőmosóba.",
+              "Hagyjunk több időt a belvárosi parkolásra.",
+              "Vigyázzunk a vadakra a Bois-du-Luc felé vezető utakon."
+            ],
+            "ro": [
+              "Se recomandă anvelope de iarnă pe drumurile rurale din jurul canalelor.",
+              "Puneți lichid de parbriz rezistent la îngheț.",
+              "Alocați mai mult timp pentru parcare în centru.",
+              "Atenție la animalele sălbatice pe drumurile spre Bois-du-Luc."
+            ],
+            "en": [
+              "Winter tires are advisable on rural roads around the canals.",
+              "Fill the windshield washer with antifreeze.",
+              "Allow more time for parking in the center.",
+              "Watch out for wildlife on the roads to Bois-du-Luc."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1310,6 +1878,188 @@
           "Pay attention to the last bus departure times to avoid getting stranded.",
           "A day pass is often cheaper than single tickets."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit Bus und Bahn erkunden wir La Louvière bei Regen trocken und entspannt. Vom Bahnhof gelangen wir schnell ins Zentrum zum Rathaus. Die Busverbindung zum Canal du Centre ermöglicht den Besuch der Schiffshebewerke ohne nass zu werden. Mittags wärmen wir uns in einem Restaurant auf, bevor wir den Nachmittag im Keramis verbringen, das gut an das lokale Busnetz angebunden ist.",
+            "hu": "Tömegközlekedéssel szárazon és kényelmesen fedezzük fel La Louvière-t esőben. A vasútállomástól gyorsan elérjük a központot. A csatornához tartó buszjárat lehetővé teszi a hajóemelők megtekintését ázás nélkül. Ebédre egy meleg éttermet választunk, majd a délutánt a Keramis múzeumban töltjük, amely jól kapcsolódik a helyi buszhálózathoz.",
+            "ro": "Cu transportul public explorăm La Louvière pe ploaie în mod uscat și relaxat. De la gară ajungem rapid în centru. Linia de autobuz spre canal permite vizitarea elevatoarelor fără a ne uda. La prânz ne încălzim într-un restaurant, înainte de a petrece după-amiaza la Keramis, bine conectat la rețeaua de autobuze.",
+            "en": "By public transport, we explore La Louvière dry and relaxed in the rain. From the station, we quickly reach the center. The bus connection to the canal allows for visiting the boat lifts without getting wet. For lunch, we warm up in a restaurant before spending the afternoon at Keramis, which is well-connected to the local bus network."
+          },
+          "stops": [
+            {
+              "name": "Main Station & Arrival",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Wartebereich am Gleis.",
+                "hu": "Használjuk a vágányoknál lévő fedett várót.",
+                "ro": "Folosiți sala de așteptare acoperită de pe peron.",
+                "en": "Use the covered waiting area on the platform."
+              }
+            },
+            {
+              "name": "City Center Cluster: Town Hall",
+              "tip_5lang": {
+                "de": "Bushaltestelle direkt gegenüber dem Rathaus.",
+                "hu": "A buszmegálló közvetlenül a városházával szemben van.",
+                "ro": "Stația de autobuz este direct vizavi de primărie.",
+                "en": "The bus stop is directly opposite the Town Hall."
+              }
+            },
+            {
+              "name": "Saint-Joseph Church",
+              "tip_5lang": {
+                "de": "Nur 2 Minuten Fußweg von der Bushaltestelle.",
+                "hu": "Mindössze 2 perc séta a buszmegállótól.",
+                "ro": "Doar 2 minute de mers de la stația de autobuz.",
+                "en": "Only a 2-minute walk from the bus stop."
+              }
+            },
+            {
+              "name": "Canal Cluster: Boat Lifts",
+              "tip_5lang": {
+                "de": "Das Besucherzentrum bietet Schutz bei Wartezeiten.",
+                "hu": "A látogatóközpont védelmet nyújt várakozás közben.",
+                "ro": "Centrul de vizitatori oferă adăpost în timpul așteptării.",
+                "en": "The visitor center offers shelter while waiting."
+              }
+            },
+            {
+              "name": "Lunch and walk by the canal",
+              "tip_5lang": {
+                "de": "Suchen Sie Lokale in Sichtweite der Bushaltestelle.",
+                "hu": "Keressünk éttermet a buszmegálló látótávolságában.",
+                "ro": "Căutați localuri în raza vizuală a stației de autobuz.",
+                "en": "Look for places within sight of the bus stop."
+              }
+            },
+            {
+              "name": "Museum Cluster: Keramis",
+              "tip_5lang": {
+                "de": "Häufige Busverbindungen zurück zum Hauptbahnhof.",
+                "hu": "Gyakori buszjáratok indulnak vissza a főpályaudvarra.",
+                "ro": "Autobuze frecvente înapoi spre gara centrală.",
+                "en": "Frequent bus connections back to the main station."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die TEC-App für Echtzeit-Infos bei Regen-Verspätungen.",
+              "Halten Sie Ihr Ticket griffbereit, um nicht im Regen zu suchen.",
+              "Die Busse sind im Winter meist gut beheizt.",
+              "Vermeiden Sie Umstiege an nicht überdachten Haltestellen."
+            ],
+            "hu": [
+              "Használjuk a TEC appot az eső miatti késések követésére.",
+              "Tartsuk készenlétben a jegyünket, ne az esőben keressük.",
+              "A buszok télen általában jól fűtöttek.",
+              "Kerüljük az átszállást fedetlen megállókban."
+            ],
+            "ro": [
+              "Folosiți aplicația TEC pentru info în timp real despre întârzieri.",
+              "Țineți biletul la îndemână, nu îl căutați în ploaie.",
+              "Autobuzele sunt de obicei bine încălzite iarna.",
+              "Evitați schimbările în stații neacoperite."
+            ],
+            "en": [
+              "Use the TEC app for real-time info on rain delays.",
+              "Keep your ticket ready so you don't search for it in the rain.",
+              "Buses are usually well-heated in winter.",
+              "Avoid transfers at stops without shelters."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Mit dem öffentlichen Nahverkehr entdecken wir das winterliche La Louvière. Die kurzen Wege von den Bushaltestellen zu den Museen minimieren die Zeit in der Kälte. Nach der Ankunft am Bahnhof führt uns der Weg direkt ins warme Stadtzentrum. Die Busfahrt zum Canal du Centre bietet einen Panoramablick auf die frostige Industrielandschaft. Den Tag beschließen wir im Keramis, bevor wir bequem mit dem Bus zum Bahnhof zurückkehren.",
+            "hu": "Tömegközlekedéssel fedezzük fel a téli La Louvière-t. A megállóktól a múzeumokig tartó rövid séták minimálisra csökkentik a hidegben töltött időt. A vasútállomásról egyenesen a meleg városközpontba megyünk. A csatornához tartó buszút panorámás kilátást nyújt a deres ipari tájra. A napot a Keramis-ban zárjuk, majd kényelmesen busszal térünk vissza az állomásra.",
+            "ro": "Descoperim La Louvière-ul hibernal cu transportul public. Scurtele plimbări de la stații la muzee minimizează timpul petrecut în frig. După sosirea la gară, mergem direct în centrul cald al orașului. Călătoria cu autobuzul spre canal oferă o vedere panoramică asupra peisajului industrial înghețat. Încheiem ziua la Keramis, apoi revenim confortabil cu autobuzul la gară.",
+            "en": "We discover winter La Louvière by public transport. Short walks from the bus stops to the museums minimize time spent in the cold. After arriving at the station, we head straight to the warm city center. The bus ride to the canal offers panoramic views of the frosty industrial landscape. We end the day at Keramis before returning comfortably by bus to the station."
+          },
+          "stops": [
+            {
+              "name": "Main Station & Arrival",
+              "tip_5lang": {
+                "de": "Bahnhofshalle zum Aufwärmen nach der Ankunft nutzen.",
+                "hu": "Használjuk az állomáscsarnokot melegedésre érkezés után.",
+                "ro": "Folosiți holul gării pentru încălzire după sosire.",
+                "en": "Use the station hall to warm up after arrival."
+              }
+            },
+            {
+              "name": "City Center Cluster: Town Hall",
+              "tip_5lang": {
+                "de": "Zentrale Haltestelle mit digitaler Anzeige.",
+                "hu": "Központi megálló digitális kijelzővel.",
+                "ro": "Stație centrală cu afișaj digital.",
+                "en": "Central stop with digital display."
+              }
+            },
+            {
+              "name": "Saint-Joseph Church",
+              "tip_5lang": {
+                "de": "Innenraum ist oft kühler als die Museen.",
+                "hu": "A templombelső gyakran hűvösebb a múzeumoknál.",
+                "ro": "Interiorul este adesea mai răcoros decât muzeele.",
+                "en": "The church interior is often cooler than the museums."
+              }
+            },
+            {
+              "name": "Canal Cluster: Boat Lifts",
+              "tip_5lang": {
+                "de": "Seltenerer Bustakt im Winter beachten.",
+                "hu": "Ügyeljünk a ritkább téli buszmenetrendre.",
+                "ro": "Atenție la frecvența redusă a autobuzelor iarna.",
+                "en": "Note the reduced bus frequency in winter."
+              }
+            },
+            {
+              "name": "Lunch and walk by the canal",
+              "tip_5lang": {
+                "de": "Nicht zu weit von der Haltestelle entfernen.",
+                "hu": "Ne távolodjunk el messze a megállótól.",
+                "ro": "Nu vă îndepărtați prea mult de stație.",
+                "en": "Don't stray too far from the stop."
+              }
+            },
+            {
+              "name": "Museum Cluster: Keramis",
+              "tip_5lang": {
+                "de": "Warmer Wartebereich im Foyer des Museums.",
+                "hu": "Meleg váróhelyiség a múzeum előcsarnokában.",
+                "ro": "Zonă de așteptare caldă în foierul muzeului.",
+                "en": "Warm waiting area in the museum foyer."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Züge und Busse können bei extremem Frost Verspätung haben.",
+              "Tragen Sie rutschfeste Sohlen für den Weg zur Haltestelle.",
+              "Abends sind die Bahnhöfe oft zugig, Mütze aufbehalten.",
+              "Prüfen Sie die letzte Verbindung vor 18:00 Uhr."
+            ],
+            "hu": [
+              "Extrém fagy esetén a vonatok és buszok késhetnek.",
+              "Viseljünk csúszásmentes talpú cipőt a megállóig.",
+              "Este az állomások gyakran huzatosak, maradjunk sapkában.",
+              "Ellenőrizzük az utolsó járatot 18:00 előtt."
+            ],
+            "ro": [
+              "Trenurile și autobuzele pot avea întârzieri la ger extrem.",
+              "Purtați tălpi antiderapante pentru drumul spre stație.",
+              "Seara, gările sunt adesea cu curent, păstrați căciula.",
+              "Verificați ultima conexiune înainte de ora 18:00."
+            ],
+            "en": [
+              "Trains and buses may be delayed during extreme frost.",
+              "Wear non-slip soles for the walk to the stop.",
+              "Stations are often drafty in the evening, keep your hat on.",
+              "Check the last connection before 18:00."
+            ]
+          }
+        }
       }
     }
   }

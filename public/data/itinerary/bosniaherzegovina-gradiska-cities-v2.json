@@ -366,6 +366,196 @@
           "Plan for a longer lunch break to enjoy the local cuisine.",
           "Gradiška is a safe city, but as always, be mindful of your valuables."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag auf dem Gradaščević-Platz unter den Arkaden. Der Besuch der Marienkirche bietet einen trockenen Zufluchtsort, bevor Sie den Mittag im Heimatmuseum verbringen, wo Sie dem Regen entfliehen können. Die römischen Ruinen von Servitium wirken im Regen mystisch, erfordern jedoch festes Schuhwerk. Beenden Sie den Tag mit einem kurzen, erfrischenden Spaziergang an der nebligen Save-Promenade und im Stadtpark.",
+            "hu": "Kezdje a napot a Gradaščević téren, az épületek ereszei alatt védve. A Szűz Mária-templom látogatása száraz menedéket nyújt, mielőtt a délelőtt hátralévő részét a Helytörténeti Múzeumban töltené, elmenekülve az eső elől. Servitium római romjai misztikus hangulatot árasztanak a ködben, de figyeljen a sárra. A napot egy rövid, frissítő sétával zárja a ködös Száva-parti sétányon és a városi parkban.",
+            "ro": "Începeți ziua în Piața Gradaščević, adăpostindu-vă sub arcadele clădirilor. Vizita la Biserica Adormirea Maicii Domnului oferă un refugiu uscat înainte de a petrece prânzul în Muzeul Patrimoniului, ferit de ploaie. Ruinele romane de la Servitium par mistice pe timp de ploaie, dar necesită încălțăminte adecvată. Încheiați ziua cu o scurtă plimbare revigorantă pe faleza încețoșată a râului Sava și în parcul orașului.",
+            "en": "Start your day at Gradaščević Square, staying close to the building awnings. A visit to the Church of the Assumption provides a dry sanctuary before spending midday in the Heritage Museum, safely away from the rain. The Roman ruins of Servitium look mystical in the drizzle, though the ground can be soft. End the day with a short, refreshing walk along the misty Sava Promenade and through the lush City Park."
+          },
+          "stops": [
+            {
+              "name": "Husein-kapetan Gradaščević Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Vordächer der Cafés am Platz, um trocken zu bleiben.",
+                "hu": "Használja a tér körüli kávézók előtetőit az eső elleni védekezéshez.",
+                "ro": "Folosiți copertinele cafenelelor din piață pentru a rămâne uscat.",
+                "en": "Use the cafe awnings around the square to stay dry while observing."
+              }
+            },
+            {
+              "name": "Church of the Assumption of the Virgin Mary",
+              "tip_5lang": {
+                "de": "Ein idealer Ort für eine besinnliche Pause während eines Regenschauers.",
+                "hu": "Ideális hely egy csendes pihenőre egy intenzívebb zápor alatt.",
+                "ro": "Un loc ideal pentru o pauză liniștită în timpul unei averse.",
+                "en": "An ideal place for a quiet break during a heavy downpour."
+              }
+            },
+            {
+              "name": "Gradiška Heritage Museum",
+              "tip_5lang": {
+                "de": "Planen Sie hier bei starkem Regen mehr Zeit für die Ausstellungen ein.",
+                "hu": "Heves esőzés esetén tervezzen ide hosszabb időt a kiállítások megtekintésére.",
+                "ro": "Planificați mai mult timp aici pentru expoziții dacă plouă tare.",
+                "en": "Plan more time here for the exhibits if the rain intensifies."
+              }
+            },
+            {
+              "name": "Roman archaeological site Servitium",
+              "tip_5lang": {
+                "de": "Vorsicht, die Ausgrabungsstätte kann bei Regen rutschig und schlammig sein.",
+                "hu": "Vigyázat, a feltárási terület esőben csúszós és sáros lehet.",
+                "ro": "Atenție, situl arheologic poate fi alunecos și noroios pe ploaie.",
+                "en": "Caution, the archaeological site can be slippery and muddy in the rain."
+              }
+            },
+            {
+              "name": "Sava River Promenade",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Save; der Asphalt ist gut begehbar.",
+                "hu": "Élvezze a Száva látványát; az aszfalt jól járható esőben is.",
+                "ro": "Bucurați-vă de priveliștea râului Sava; asfaltul este ușor de parcurs.",
+                "en": "Enjoy the Sava view; the asphalt remains easy to walk on."
+              }
+            },
+            {
+              "name": "Mladen Stojanović City Park",
+              "tip_5lang": {
+                "de": "Die dichten Baumkronen bieten einen gewissen Schutz vor leichtem Nieselregen.",
+                "hu": "A sűrű lombozat bizonyos védelmet nyújt az enyhe szemerkélő eső ellen.",
+                "ro": "Coroanele dese ale copacilor oferă oarecare protecție împotriva burniței.",
+                "en": "The dense tree canopies offer some protection against light drizzle."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da die Wege am Flussufer feucht sein können.",
+              "Das Heimatmuseum ist der beste Ort, um eine längere Regenfront abzuwarten.",
+              "Die Promenade ist asphaltiert, sodass man keine Angst vor tiefem Schlamm haben muss.",
+              "Kombinieren Sie den Stadtrundgang mit einem Besuch in den Cafés am Hauptplatz.",
+              "Ein Taschenschirm ist bei dem oft wechselhaften Wetter an der Save unerlässlich."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert a folyóparti utak nedvesek lehetnek.",
+              "A Helytörténeti Múzeum a legjobb hely egy hosszabb esőzés kivárására.",
+              "A sétány aszfaltozott, így nem kell tartani a mély sártól.",
+              "Kösse össze a városnézést a főtéri kávézók meglátogatásával.",
+              "Az összecsukható esernyő elengedhetetlen a Száva menti változékony időben."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, deoarece căile de pe malul râului pot fi umede.",
+              "Muzeul Patrimoniului este cel mai bun loc pentru a aștepta trecerea unei ploi lungi.",
+              "Faleza este asfaltată, deci nu trebuie să vă temeți de noroi adânc.",
+              "Combinați vizitarea orașului cu o oprire la cafenelele din piața principală.",
+              "O umbrelă compactă este esențială în zona Savei, unde vremea e schimbătoare."
+            ],
+            "en": [
+              "Wear waterproof shoes as the riverside paths can get damp and slick.",
+              "The Heritage Museum is the best indoor spot to wait out a long rain front.",
+              "The promenade is paved, so you don't need to worry about deep mud.",
+              "Combine your sightseeing with a visit to the cafes on the main square.",
+              "A compact umbrella is essential given the changeable weather near the Sava."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie den Gradaščević-Platz in der frischen Winterluft. Die Marienkirche bietet einen ruhigen Ort zum Aufwärmen, bevor Sie den Mittag in der Wärme des Heimatmuseums verbringen. Ein kurzer Besuch der verschneiten römischen Ruinen führt Sie zur winterlichen Save-Promenade, wo der Fluss oft nebelverhangen ist. Beenden Sie die Tour frühzeitig im Mladen Stojanović Park, bevor die Winterdämmerung einsetzt.",
+            "hu": "Fedezze fel a Gradaščević teret a friss téli levegőn. A templom csendes helyet kínál a felmelegedéshez, mielőtt a délelőttöt a Helytörténeti Múzeum fűtött termeiben töltené. A hófödte római romok rövid megtekintése után irány a téli Száva-sétány, ahol a folyó gyakran ködbe vész. Zárja a túrát korán a Mladen Stojanović parkban, még a téli szürkület beállta előtt.",
+            "ro": "Explorați Piața Gradaščević în aerul proaspăt de iarnă. Biserica oferă un loc liniștit pentru a vă încălzi înainte de a petrece prânzul în căldura Muzeului Patrimoniului. O scurtă vizită la ruinele romane înzăpezite vă conduce spre faleza de iarnă a Savei, unde râul este adesea învăluit în ceață. Încheiați turul devreme în Parcul Mladen Stojanović, înainte de lăsarea amurgului.",
+            "en": "Explore Gradaščević Square in the crisp winter air. The church offers a peaceful spot to warm up before spending midday in the heated halls of the Heritage Museum. A quick visit to the snow-dusted Roman ruins leads you to the wintry Sava Promenade, where the river is often shrouded in fog. Finish your tour early in Mladen Stojanović Park before the winter twilight sets in."
+          },
+          "stops": [
+            {
+              "name": "Husein-kapetan Gradaščević Square",
+              "tip_5lang": {
+                "de": "Achten Sie auf eventuelles Glatteis auf dem Steinpflaster des Platzes.",
+                "hu": "Ügyeljen az esetleges jegesedésre a tér kőburkolatán.",
+                "ro": "Atenție la eventualul polei de pe pavajul de piatră al pieței.",
+                "en": "Watch out for potential ice patches on the stone pavement of the square."
+              }
+            },
+            {
+              "name": "Church of the Assumption of the Virgin Mary",
+              "tip_5lang": {
+                "de": "Ein geschützter Ort, um sich kurz von der Kälte zu erholen.",
+                "hu": "Védett hely, ahol rövid időre megpihenhet a hideg elől.",
+                "ro": "Un loc protejat unde vă puteți odihni scurt timp ferit de frig.",
+                "en": "A sheltered spot to take a brief break from the biting cold."
+              }
+            },
+            {
+              "name": "Gradiška Heritage Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe, um schwere Wintermäntel während der Besichtigung abzulegen.",
+                "hu": "Használja a ruhatárat, hogy levehesse a nehéz télikabátot a látogatás alatt.",
+                "ro": "Folosiți garderoba pentru a lăsa haina grea de iarnă în timpul vizitei.",
+                "en": "Use the cloakroom to drop off heavy winter coats during your visit."
+              }
+            },
+            {
+              "name": "Roman archaeological site Servitium",
+              "tip_5lang": {
+                "de": "Im Winter sind die Konturen der Ruinen unter dem Reif oft schöner zu sehen.",
+                "hu": "Télen a romok kontúrjai a zúzmara alatt gyakran jobban kirajzolódnak.",
+                "ro": "Iarna, contururile ruinelor sub chiciură sunt adesea mai vizibile.",
+                "en": "In winter, the outlines of the ruins under frost are often more distinct."
+              }
+            },
+            {
+              "name": "Sava River Promenade",
+              "tip_5lang": {
+                "de": "Kleiden Sie sich warm, da der Wind von der Save im Winter sehr schneidend sein kann.",
+                "hu": "Öltözzön melegen, mert a Száva felől fújó szél télen nagyon metsző lehet.",
+                "ro": "Îmbrăcați-vă gros, deoarece vântul dinspre Sava poate fi tăios iarna.",
+                "en": "Dress warmly as the wind from the Sava can be very biting in winter."
+              }
+            },
+            {
+              "name": "Mladen Stojanović City Park",
+              "tip_5lang": {
+                "de": "Der Park schließt bei Dunkelheit; planen Sie den Besuch vor 16:30 Uhr.",
+                "hu": "A park sötétedéskor bezár; tervezze a látogatást 16:30 előttre.",
+                "ro": "Parcul se închide la lăsarea întunericului; planificați vizita înainte de 16:30.",
+                "en": "The park feels desolate after dark; plan your visit before 4:30 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Winter bereits gegen 16:00 Uhr unter, planen Sie den Tag frühzeitig.",
+              "Wollmütze und Handschuhe sind wegen der Nähe zum Fluss unbedingt erforderlich.",
+              "Das Heimatmuseum ist gut beheizt und bietet eine ideale Aufwärmpause.",
+              "Vorsicht auf der Promenade, bei Frost kann der Weg sehr glatt sein.",
+              "Genießen Sie einen heißen Tee in einem der Cafés nahe dem Sava-Ufer."
+            ],
+            "hu": [
+              "A nap télen már 16:00 körül lemegy, tervezze koránra a szabadtéri programokat.",
+              "Gyapjúsapka és kesztyű feltétlenül szükséges a folyó közelsége miatt.",
+              "A Helytörténeti Múzeum jól fűtött, ideális hely a felmelegedésre.",
+              "Vigyázat a sétányon, fagy esetén az út nagyon csúszós lehet.",
+              "Élvezzen egy forró teát a Száva-parthoz közeli kávézók egyikében."
+            ],
+            "ro": [
+              "Soarele apune deja în jur de ora 16:00 iarna, planificați ziua din timp.",
+              "Căciula și mănușile sunt absolut necesare din cauza proximității râului.",
+              "Muzeul Patrimoniului este bine încălzit, oferind o pauză ideală de încălzire.",
+              "Atenție pe faleză, drumul poate fi foarte alunecos în caz de îngheț.",
+              "Savurați un ceai fierbinte într-una dintre cafenelele de lângă malul Savei."
+            ],
+            "en": [
+              "The sun sets as early as 4:00 PM in winter, so plan your outdoor stops early.",
+              "Warm hats and gloves are essential due to the damp cold near the river.",
+              "The Heritage Museum is well-heated and provides an ideal warming break.",
+              "Watch your step on the promenade; frost can make the path very slippery.",
+              "Enjoy a hot tea or coffee in one of the cafes near the Sava riverbank."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -750,6 +940,214 @@
           "Always lock your bike securely when you park it.",
           "A helmet is recommended for your safety."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen beginnt am Gradaščević-Platz, wo Sie auf dem Kopfsteinpflaster vorsichtig sein sollten. Das Kulturzentrum bietet Schutz für eine kurze Pause, bevor Sie durch den Stadtpark zum Museum fahren. Nutzen Sie die asphaltierte Save-Promenade für eine schnellere Fahrt, aber achten Sie auf Pfützen. Die Tour endet an der Save-Brücke, wo der Blick auf das graue Wasser beeindruckend ist.",
+            "hu": "Az esős kerékpártúra a Gradaščević téren kezdődik, ahol óvatosan hajtson a kockakövön. A Kulturális Központ védelmet nyújt egy rövid szünetre, mielőtt a parkon át a múzeumhoz tekerni. Használja az aszfaltozott Száva-sétányt a gyorsabb haladáshoz, de ügyeljen a tócsákra. A túra a Száva-hídnál ér véget, ahol lenyűgöző a kilátás a szürke folyóra.",
+            "ro": "O tură cu bicicleta pe ploaie începe în Piața Gradaščević, unde trebuie să fiți atent pe pavaj. Centrul Cultural oferă protecție pentru o scurtă pauză înainte de a pedala prin parc spre muzeu. Folosiți faleza asfaltată a Savei pentru o deplasare mai rapidă, dar atenție la bălți. Turul se încheie la podul peste Sava, unde vederea apei cenușii este impresionantă.",
+            "en": "A rainy bike tour starts at Gradaščević Square, where you should pedal carefully on the wet stones. The Cultural Centre provides shelter for a quick break before riding through the park to the museum. Use the paved Sava Promenade for a smoother ride, but watch out for large puddles. The tour ends at the Sava Bridge, offering an impressive view of the grey river waters."
+          },
+          "stops": [
+            {
+              "name": "Husein-kapetan Gradaščević Square",
+              "tip_5lang": {
+                "de": "Vermeiden Sie scharfe Bremsmanöver auf dem nassen Kopfsteinpflaster.",
+                "hu": "Kerülje az erős fékezést a nedves kockakövön.",
+                "ro": "Evitați frânarea bruscă pe pavajul de piatră ud.",
+                "en": "Avoid sharp braking on the wet cobblestones of the square."
+              }
+            },
+            {
+              "name": "Cultural Centre Gradiška",
+              "tip_5lang": {
+                "de": "Ein guter Ort, um das Fahrrad kurz unterzustellen und sich zu trocknen.",
+                "hu": "Jó hely a kerékpár rövid idejű leállítására és a megszárítkozásra.",
+                "ro": "Un loc bun pentru a lăsa bicicleta scurt timp și a vă usca.",
+                "en": "A good spot to park your bike briefly and dry off inside."
+              }
+            },
+            {
+              "name": "Mladen Stojanović City Park",
+              "tip_5lang": {
+                "de": "Achten Sie auf nasses Laub auf den Radwegen im Park.",
+                "hu": "Ügyeljen a nedves levelekre a park kerékpárútjain.",
+                "ro": "Atenție la frunzele ude de pe pistele de biciclete din parc.",
+                "en": "Watch out for slippery wet leaves on the park trails."
+              }
+            },
+            {
+              "name": "Gradiška Heritage Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Fahrradständer vor dem Eingang; sie sind meist stabil.",
+                "hu": "Használja a bejárat előtti kerékpártámaszokat; általában stabilak.",
+                "ro": "Folosiți rastelele de biciclete de la intrare; sunt stabile.",
+                "en": "Use the bike racks in front of the entrance; they are sturdy."
+              }
+            },
+            {
+              "name": "Church of the Assumption of the Virgin Mary",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad nah an der Wand, um es vor direktem Regen zu schützen.",
+                "hu": "Parkoljon a fal közelében, hogy védje a biciklit a közvetlen esőtől.",
+                "ro": "Parcați bicicleta aproape de zid pentru a o proteja de ploaie.",
+                "en": "Park your bike close to the wall to keep it partially dry."
+              }
+            },
+            {
+              "name": "Sava River Promenade",
+              "tip_5lang": {
+                "de": "Halten Sie Abstand zum Uferrand, da der Wind hier böig sein kann.",
+                "hu": "Tartson távolságot a part szélétől, mert a szél itt lökésszerű lehet.",
+                "ro": "Păstrați distanța față de marginea malului, vântul poate fi în rafale.",
+                "en": "Keep a safe distance from the river edge; wind can be gusty here."
+              }
+            },
+            {
+              "name": "Sava Bridge",
+              "tip_5lang": {
+                "de": "Der Metallboden der Brücke kann bei Nässe extrem rutschig sein.",
+                "hu": "A híd fémburkolata nedvesen rendkívül csúszós lehet.",
+                "ro": "Podeaua metalică a podului poate fi extrem de alunecoasă pe umezeală.",
+                "en": "The metal deck of the bridge can be extremely slippery when wet."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vergewissern Sie sich, dass Ihre Bremsen bei Nässe einwandfrei funktionieren.",
+              "Tragen Sie eine auffällige Regenjacke, um im trüben Wetter besser gesehen zu werden.",
+              "Meiden Sie tiefere Pfützen, da diese Schlaglöcher verbergen können.",
+              "Die Save-Promenade bietet den besten Grip für Radfahrer bei Regen.",
+              "Schützen Sie Ihren Sattel mit einer wasserdichten Hülle beim Parken."
+            ],
+            "hu": [
+              "Győződjön meg róla, hogy a fékek esőben is megfelelően fognak.",
+              "Viseljen feltűnő esőkabátot, hogy a borús időben jobban látható legyen.",
+              "Kerülje a mélyebb tócsákat, mert kátyúkat rejthetnek.",
+              "A Száva-sétány kínálja a legjobb tapadást a bicikliseknek esőben.",
+              "Védje a nyerget vízhatlan huzattal a megállások alatt."
+            ],
+            "ro": [
+              "Asigurați-vă că frânele funcționează corect pe timp de ploaie.",
+              "Purtați o jachetă reflectorizantă pentru a fi vizibil pe vreme mohorâtă.",
+              "Evitați bălțile adânci, deoarece pot ascunde gropi.",
+              "Faleza Savei oferă cea mai bună aderență pentru bicicliști pe ploaie.",
+              "Protejați șaua cu o husă impermeabilă în timpul staționărilor."
+            ],
+            "en": [
+              "Ensure your brakes are in top condition for wet surface stopping.",
+              "Wear high-visibility rain gear to stay safe in the grey weather.",
+              "Avoid deep puddles as they may hide dangerous potholes.",
+              "The Sava Promenade provides the best traction for cyclists in the rain.",
+              "Use a waterproof saddle cover when parking your bike outside."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in Gradiška erfordert warme Kleidung gegen den Wind von der Save. Starten Sie am Hauptplatz und machen Sie einen Halt im Kulturzentrum zum Aufwärmen. Der Stadtpark bietet eine ruhige, oft reifbedeckte Kulisse für die Fahrt zum Museum. Besuchen Sie die Marienkirche und radeln Sie dann entlang der Promenade zur Save-Brücke, wobei Sie auf vereiste Stellen auf dem Asphalt achten müssen.",
+            "hu": "A téli kerékpározás Gradiškában meleg ruházatot igényel a Száva felőli szél ellen. Kezdje a főtéren, és álljon meg a Kulturális Központban melegedni. A városi park nyugodt, gyakran zúzmarás hátteret nyújt a múzeum felé vezető úton. Látogassa meg a Szűz Mária-templomot, majd tekerjen a sétányon a híd felé, ügyelve az aszfalt jeges szakaszaira.",
+            "ro": "Ciclismul de iarnă în Gradiška necesită haine groase împotriva vântului dinspre Sava. Începeți în piața principală și opriți-vă la Centrul Cultural pentru a vă încălzi. Parcul oferă un decor liniștit, adesea acoperit de chiciură, în drum spre muzeu. Vizitați biserica, apoi pedalați pe faleză spre pod, fiind atenți la porțiunile înghețate de pe asfalt.",
+            "en": "Winter cycling in Gradiška requires warm layers against the wind off the Sava. Start at the main square and stop at the Cultural Centre to warm up. The city park offers a peaceful, frost-covered backdrop for the ride to the museum. Visit the church, then cycle along the promenade toward the bridge, staying alert for icy patches on the pavement."
+          },
+          "stops": [
+            {
+              "name": "Husein-kapetan Gradaščević Square",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrierender Nässe in den Fugen des Kopfsteinpflasters.",
+                "hu": "Vigyázat a kockakövek közötti fagyott nedvesség miatt.",
+                "ro": "Atenție la umezeala înghețată dintre rosturile pavajului.",
+                "en": "Beware of frozen moisture in the joints of the cobblestones."
+              }
+            },
+            {
+              "name": "Cultural Centre Gradiška",
+              "tip_5lang": {
+                "de": "Ideale Aufwärmpause; das Gebäude ist im Winter gut geheizt.",
+                "hu": "Ideális melegedőhely; az épület télen jól fűtött.",
+                "ro": "Pauză ideală de încălzire; clădirea este bine încălzită iarna.",
+                "en": "Perfect warming break; the building is well-heated in winter."
+              }
+            },
+            {
+              "name": "Mladen Stojanović City Park",
+              "tip_5lang": {
+                "de": "Fahren Sie langsam, da gefrorener Raureif auf den Wegen tückisch sein kann.",
+                "hu": "Hajtson lassan, mert a fagyott zúzmara az utakon csalóka lehet.",
+                "ro": "Pedalați încet, chiciura înghețată de pe alei poate fi trădătoare.",
+                "en": "Cycle slowly as frozen hoarfrost on the paths can be deceptive."
+              }
+            },
+            {
+              "name": "Gradiška Heritage Museum",
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihr Fahrradschloss bei Kälte nicht einfriert.",
+                "hu": "Győződjön meg róla, hogy a kerékpárzár nem fagy be a hidegben.",
+                "ro": "Asigurați-vă că antifurtul nu îngheață la temperaturi scăzute.",
+                "en": "Ensure your bike lock doesn't freeze up in the low temperatures."
+              }
+            },
+            {
+              "name": "Church of the Assumption of the Virgin Mary",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort für eine kurze Rast vor dem windigen Uferabschnitt.",
+                "hu": "Nyugodt hely egy rövid pihenőre a szeles parti szakasz előtt.",
+                "ro": "Un loc liniștit pentru o scurtă odihnă înainte de zona vântoasă.",
+                "en": "A calm spot for a brief rest before the windy riverside section."
+              }
+            },
+            {
+              "name": "Sava River Promenade",
+              "tip_5lang": {
+                "de": "Der Windchill-Effekt ist hier am stärksten; schützen Sie Ihr Gesicht.",
+                "hu": "Itt a legerősebb a szél hűtőhatása; védje az arcát.",
+                "ro": "Efectul de răcire al vântului e cel mai puternic aici; protejați-vă fața.",
+                "en": "The wind chill is strongest here; protect your face while riding."
+              }
+            },
+            {
+              "name": "Sava Bridge",
+              "tip_5lang": {
+                "de": "Die Brücke ist oft kälter und windiger als das Stadtzentrum.",
+                "hu": "A híd gyakran hidegebb és szelesebb, mint a városközpont.",
+                "ro": "Podul este adesea mai rece și mai vântos decât centrul orașului.",
+                "en": "The bridge is often colder and windier than the city center."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Handschuhe mit gutem Grip, um die Kontrolle über den Lenker zu behalten.",
+              "Vermeiden Sie Fahrten bei extremer Glätte oder starkem Schneefall.",
+              "Der Akku von E-Bikes verliert bei Kälte schneller an Kapazität.",
+              "Das Licht sollte auch tagsüber eingeschaltet sein, da es oft trüb ist.",
+              "Nutzen Sie die kurzen Tage für kompakte Touren vor 16:00 Uhr."
+            ],
+            "hu": [
+              "Viseljen jó tapadású kesztyűt, hogy magabiztosan tartsa a kormányt.",
+              "Kerülje a kerékpározást extrém jegesedés vagy erős havazás esetén.",
+              "Az elektromos kerékpárok akkumulátora gyorsabban merül a hidegben.",
+              "Használjon világítást nappal is, mert gyakran borús a látóhatár.",
+              "Használja ki a rövid nappalokat kompakt túrákra 16:00 előtt."
+            ],
+            "ro": [
+              "Purtați mănuși cu aderență bună pentru a păstra controlul ghidonului.",
+              "Evitați deplasarea pe polei extrem sau ninsoare puternică.",
+              "Bateria bicicletelor electrice se descarcă mai repede la frig.",
+              "Folosiți luminile și în timpul zilei, deoarece este adesea mohorât.",
+              "Profitate de zilele scurte pentru tururi compacte înainte de ora 16:00."
+            ],
+            "en": [
+              "Wear gloves with good grip to maintain control of the handlebars.",
+              "Avoid cycling during extreme icing or heavy snowfall events.",
+              "E-bike batteries lose capacity significantly faster in the cold.",
+              "Keep your lights on even during the day as visibility is often low.",
+              "Take advantage of the short days for compact tours before 4:00 PM."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1110,6 +1508,196 @@
           "Combine car trips between districts with walks within the neighborhoods.",
           "Download an offline map to make navigation easier."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden Sie Gradiška bei Regen komfortabel. Beginnen Sie beim Parkplatz im Stadtpark und besuchen Sie das nahegelegene Kulturzentrum. Der Gradaščević-Platz ist nur eine kurze Fahrt entfernt, gefolgt von einem Stopp an der Save-Promenade. Das Heimatmuseum bietet zwei Stunden trockene Unterhaltung, bevor Sie die Tour mit einer Fahrt über die beeindruckende Save-Brücke abschließen.",
+            "hu": "Autóval kényelmesen felfedezheti Gradiškát esőben is. Kezdjen a városi park parkolójánál, és látogassa meg a közeli Kulturális Központot. A Gradaščević tér csak rövid útra van, amit a Száva-sétány parkolója követ. A Helytörténeti Múzeum kétórás száraz programot kínál, mielőtt a túrát a lenyűgöző Száva-hídon való átkeléssel zárná.",
+            "ro": "Cu mașina, puteți explora confortabil orașul Gradiška pe timp de ploaie. Începeți la parcarea din parc și vizitați Centrul Cultural din apropiere. Piața Gradaščević este la mică distanță, urmată de o oprire la faleza Savei. Muzeul Patrimoniului oferă două ore de divertisment la adăpost, înainte de a încheia turul cu o traversare a podului peste Sava.",
+            "en": "By car, you can comfortably explore Gradiška despite the rain. Start at the City Park parking area and visit the nearby Cultural Centre. Gradaščević Square is just a short drive away, followed by a stop at the Sava Promenade parking. The Heritage Museum offers two hours of dry entertainment before finishing the tour with a drive across the impressive Sava Bridge."
+          },
+          "stops": [
+            {
+              "name": "Mladen Stojanović City Park (Parking)",
+              "tip_5lang": {
+                "de": "Parken Sie unter den Bäumen für einen leicht geschützten Ausstieg.",
+                "hu": "Parkoljon a fák alatt a védettebb kiszállás érdekében.",
+                "ro": "Parcați sub copaci pentru o coborâre mai protejată din mașină.",
+                "en": "Park under the trees for a slightly sheltered exit from the vehicle."
+              }
+            },
+            {
+              "name": "Cultural Centre Gradiška",
+              "tip_5lang": {
+                "de": "Kurze Wege vom Parkplatz zum Eingang minimieren den Kontakt mit dem Regen.",
+                "hu": "A parkolótól a bejáratig tartó rövid út minimalizálja az esővel való érintkezést.",
+                "ro": "Distanța scurtă de la parcare la intrare reduce contactul cu ploaia.",
+                "en": "Short distance from parking to entrance minimizes rain exposure."
+              }
+            },
+            {
+              "name": "Husein-kapetan Gradaščević Square",
+              "tip_5lang": {
+                "de": "Suchen Sie einen Parkplatz in den Seitenstraßen für schnellen Zugang zum Platz.",
+                "hu": "Keressen parkolót az oldalsó utcákban a tér gyors eléréséhez.",
+                "ro": "Căutați parcare pe străzile laterale pentru acces rapid în piață.",
+                "en": "Find parking in the side streets for quick access to the square."
+              }
+            },
+            {
+              "name": "Sava Promenade (Parking)",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den Fluss direkt aus dem Auto, falls es stark regnet.",
+                "hu": "Élvezze a folyóra néző kilátást közvetlenül az autóból, ha hevesen esik.",
+                "ro": "Bucurați-vă de priveliștea râului direct din mașină dacă plouă tare.",
+                "en": "Enjoy the river view directly from your car if it rains heavily."
+              }
+            },
+            {
+              "name": "Gradiška Heritage Museum",
+              "tip_5lang": {
+                "de": "Ein idealer Stopp für eine längere Regenpause im Trockenen.",
+                "hu": "Ideális megálló egy hosszabb esőpause-hoz a szárazon.",
+                "ro": "O oprire ideală pentru o pauză lungă de ploaie la uscat.",
+                "en": "An ideal stop for a long rain break in dry conditions."
+              }
+            },
+            {
+              "name": "Sava Bridge",
+              "tip_5lang": {
+                "de": "Die Brücke bietet bei Regen eine dramatische Aussicht auf die Grenzregion.",
+                "hu": "A híd esőben drámai kilátást nyújt a határvidékre.",
+                "ro": "Podul oferă o priveliște dramatică asupra regiunii de frontieră pe ploaie.",
+                "en": "The bridge offers a dramatic view of the border region in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Parkplatzsuche ist bei Regen meist einfacher, da weniger Fußgänger unterwegs sind.",
+              "Nutzen Sie das Auto als Basis, um zwischendurch Kleidung zu wechseln oder zu trocknen.",
+              "Vermeiden Sie das Parken in tiefen Pfützen, um nasse Füße beim Aussteigen zu verhindern.",
+              "Die Hauptstraßen in Gradiška sind gut drainiert, achten Sie dennoch auf Aquaplaning.",
+              "Ein Regenschirm im Auto ist für die kurzen Wege zwischen Parkplatz und Ziel wichtig."
+            ],
+            "hu": [
+              "Esőben általában könnyebb parkolót találni, mert kevesebb a gyalogos.",
+              "Használja az autót bázisként a ruhaváltáshoz vagy szárítkozáshoz.",
+              "Kerülje a mély tócsákban való parkolást, hogy kiszálláskor ne legyen vizes a lába.",
+              "Gradiška főútjai jól elvezetik a vizet, de figyeljen az aquaplaningre.",
+              "Az autóban tartott esernyő fontos a parkoló és a célpont közötti rövid utakhoz."
+            ],
+            "ro": [
+              "Găsirea unui loc de parcare e mai ușoară pe ploaie, fiind mai puțini pietoni.",
+              "Folosiți mașina ca bază pentru a schimba sau usca hainele între opriri.",
+              "Evitați parcarea în bălți adânci pentru a nu vă uda la picioare la coborâre.",
+              "Drumurile principale sunt bine drenate, totuși atenție la acvaplanare.",
+              "O umbrelă în mașină este importantă pentru distanțele scurte până la obiective."
+            ],
+            "en": [
+              "Finding parking is usually easier in the rain as fewer people are out on foot.",
+              "Use your car as a base to dry off or change layers between stops.",
+              "Avoid parking in deep puddles to keep your feet dry when exiting the car.",
+              "Main roads in Gradiška drain well, but stay alert for aquaplaning risks.",
+              "Keep an umbrella in the car for the short walks from the parking to the sights."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Autotour durch Gradiška beginnt im beheizten Stadtpark-Parkplatz. Besuchen Sie das Kulturzentrum und den Gradaščević-Platz, ohne lange der Kälte ausgesetzt zu sein. Ein kurzer Stopp an der winterlichen Save-Promenade bietet tolle Fotomotive des oft gefrorenen Flussrandes. Verbringen Sie den Nachmittag im warmen Heimatmuseum und genießen Sie zum Abschluss die Fahrt über die beleuchtete Save-Brücke.",
+            "hu": "A téli autós túra Gradiškában a fűtött utasterű autóból indul a parknál. Látogassa meg a Kulturális Központot és a teret anélkül, hogy sokáig a hidegben lenne. Rövid megálló a téli Száva-sétánynál nagyszerű fotókat kínál a folyó jeges szegélyéről. Töltse a délutánt a meleg múzeumban, majd zárásként élvezze az átkelést a kivilágított Száva-hídon.",
+            "ro": "Turul auto de iarnă prin Gradiška începe din parcarea de lângă parc. Vizitați Centrul Cultural și piața fără a fi expuși mult timp la frig. O scurtă oprire la faleza de iarnă oferă oportunități foto cu malul adesea înghețat al râului. Petreceți după-amiaza în muzeul călduros și bucurați-vă la final de drumul peste podul iluminat.",
+            "en": "The winter car tour of Gradiška begins with the comfort of a heated cabin near the park. Visit the Cultural Centre and the square without prolonged exposure to the cold. A brief stop at the winter Sava Promenade offers great photo ops of the icy riverbanks. Spend the afternoon in the warm museum and enjoy the final drive across the illuminated Sava Bridge."
+          },
+          "stops": [
+            {
+              "name": "Mladen Stojanović City Park (Parking)",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Flächen auf dem Parkplatzgelände.",
+                "hu": "Ügyeljen a jeges felületekre a parkoló területén.",
+                "ro": "Atenție la suprafețele înghețate din zona parcării.",
+                "en": "Be careful of icy patches on the parking lot surface."
+              }
+            },
+            {
+              "name": "Cultural Centre Gradiška",
+              "tip_5lang": {
+                "de": "Guter Ort, um sich zwischen den Fahrten kurz aufzuwärmen.",
+                "hu": "Jó hely a rövid felmelegedésre az autózások között.",
+                "ro": "Un loc bun pentru a vă încălzi scurt timp între deplasări.",
+                "en": "A good place to warm up briefly between driving stretches."
+              }
+            },
+            {
+              "name": "Husein-kapetan Gradaščević Square",
+              "tip_5lang": {
+                "de": "Parken Sie zentral, um die Zeit im Freien kurz zu halten.",
+                "hu": "Parkoljon központilag, hogy a szabadban töltött idő rövid maradjon.",
+                "ro": "Parcați central pentru a limita timpul petrecut în aer liber.",
+                "en": "Park centrally to keep your time spent outdoors to a minimum."
+              }
+            },
+            {
+              "name": "Sava Promenade (Parking)",
+              "tip_5lang": {
+                "de": "Im Winter ist hier oft weniger Betrieb, was das Parken erleichtert.",
+                "hu": "Télen itt gyakran kisebb a forgalom, ami megkönnyíti a parkolást.",
+                "ro": "Iarna este adesea mai puțin aglomerat aici, facilitând parcarea.",
+                "en": "It is often less busy here in winter, making parking easier."
+              }
+            },
+            {
+              "name": "Gradiška Heritage Museum",
+              "tip_5lang": {
+                "de": "Besuchen Sie das Museum am späten Vormittag für ein warmes Erlebnis.",
+                "hu": "Látogassa meg a múzeumot késő délelőtt a meleg élményért.",
+                "ro": "Vizitați muzeul spre sfârșitul dimineții pentru o experiență călduroasă.",
+                "en": "Visit the museum in the late morning for a cozy, warm experience."
+              }
+            },
+            {
+              "name": "Sava Bridge",
+              "tip_5lang": {
+                "de": "Die Brücke kann im Winter besonders windig und zugig sein.",
+                "hu": "A híd télen különösen szeles és huzatos lehet.",
+                "ro": "Podul poate fi deosebit de vântos și rece pe timp de iarnă.",
+                "en": "The bridge can be exceptionally windy and cold during winter months."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Ihr Fahrzeug mit Winterreifen und Frostschutz ausgestattet ist.",
+              "Parken Sie in der Sonne, um den Innenraum des Autos natürlich aufzuwärmen.",
+              "Vermeiden Sie unnötig langes Laufenlassen des Motors im Stand.",
+              "Die Straßen in der Innenstadt werden bei Schneefall meist schnell geräumt.",
+              "Planen Sie Ihre Route so, dass Sie vor Einbruch der frühen Dunkelheit fertig sind."
+            ],
+            "hu": [
+              "Győződjön meg róla, hogy autója téli gumival és fagyállóval fel van készítve.",
+              "Parkoljon napos helyen, hogy az autó utastere természetes módon melegedjen.",
+              "Kerülje a motor szükségtelenül hosszú álló helyzetben való járatását.",
+              "A belvárosi utakat havazás esetén általában gyorsan megtisztítják.",
+              "Tervezze úgy az útvonalat, hogy a korai sötétedés előtt befejezze."
+            ],
+            "ro": [
+              "Asigurați-vă că vehiculul are anvelope de iarnă și antigel.",
+              "Parcați la soare pentru a încălzi natural interiorul mașinii.",
+              "Evitați lăsarea motorului pornit la ralanti pentru perioade lungi.",
+              "Drumurile din centrul orașului sunt de obicei deszăpezite rapid.",
+              "Planificați ruta astfel încât să terminați înainte de lăsarea serii timpurii."
+            ],
+            "en": [
+              "Ensure your vehicle is equipped with winter tires and antifreeze.",
+              "Park in sunny spots to let the car interior warm up naturally.",
+              "Avoid idling the engine for unnecessarily long periods while parked.",
+              "Downtown roads are usually cleared quickly after snowfall in Gradiška.",
+              "Plan your route to finish before the early winter darkness sets in."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1470,6 +2058,196 @@
           "Have small change ready for the tickets.",
           "Be on time at the bus stop, especially for less frequent lines."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihre Transit-Tour am Busbahnhof und fahren Sie zum Gradaščević-Platz. Das Heimatmuseum ist mit dem Bus gut erreichbar und bietet Schutz vor dem Regen. Ein kurzer Transfer bringt Sie zur Save-Promenade, wo Sie die überdachten Bushaltestellen nutzen können. Besuchen Sie die römischen Ruinen und beenden Sie den Tag an der Save-Brücke, bevor Sie bequem mit dem Bus zurückfahren.",
+            "hu": "Kezdje a közösségi közlekedési túrát a buszpályaudvaron, majd utazzon a térre. A Helytörténeti Múzeum busszal jól elérhető, és védelmet nyújt az eső elől. Rövid átszállás viszi a Száva-sétányhoz, ahol használhatja a fedett buszmegállókat. Látogassa meg a római romokat, majd zárja a napot a Száva-hídnál, mielőtt kényelmesen busszal visszatérne.",
+            "ro": "Începeți turul cu transportul public la autogară și mergeți spre piață. Muzeul Patrimoniului este ușor accesibil cu autobuzul și oferă adăpost împotriva ploii. Un scurt transfer vă duce la faleza Savei, unde puteți folosi stațiile acoperite. Vizitați ruinele romane și încheiați ziua la podul peste Sava, înainte de a reveni confortabil cu autobuzul.",
+            "en": "Start your transit tour at the bus station and head to the main square. The Heritage Museum is easily accessible by bus and provides a perfect escape from the rain. A short transfer takes you to the Sava Promenade, where you can utilize covered bus stops. Visit the Roman ruins and end your day at the Sava Bridge before taking a convenient bus back."
+          },
+          "stops": [
+            {
+              "name": "Bus Station (Arrival)",
+              "tip_5lang": {
+                "de": "Der Wartebereich am Bahnhof ist überdacht und bietet Schutz.",
+                "hu": "Az állomás váróterme fedett és védelmet nyújt.",
+                "ro": "Zona de așteptare din autogară este acoperită și oferă protecție.",
+                "en": "The waiting area at the station is covered and provides good shelter."
+              }
+            },
+            {
+              "name": "Husein-kapetan Gradaščević Square",
+              "tip_5lang": {
+                "de": "Die Haltestellen nahe dem Platz sind oft mit Unterständen ausgestattet.",
+                "hu": "A tér közeli megállók gyakran rendelkeznek váróval.",
+                "ro": "Stațiile de lângă piață sunt adesea dotate cu adăposturi.",
+                "en": "Stops near the square are often equipped with shelters."
+              }
+            },
+            {
+              "name": "Gradiška Heritage Museum",
+              "tip_5lang": {
+                "de": "Die nächstgelegene Haltestelle ist nur wenige Gehminuten entfernt.",
+                "hu": "A legközelebbi megálló csak néhány perc sétára található.",
+                "ro": "Cea mai apropiată stație este la doar câteva minute de mers pe jos.",
+                "en": "The nearest stop is only a few minutes' walk away from the museum."
+              }
+            },
+            {
+              "name": "Sava Promenade (Bus Stop)",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Unterstand der Haltestelle, um den Fahrplan trocken zu prüfen.",
+                "hu": "Használja a megálló váróját a menetrend szárazon történő ellenőrzéséhez.",
+                "ro": "Folosiți adăpostul stației pentru a verifica orarul fără a vă uda.",
+                "en": "Use the stop's shelter to check the schedule while staying dry."
+              }
+            },
+            {
+              "name": "Roman archaeological site Servitium",
+              "tip_5lang": {
+                "de": "Planen Sie den Rückweg zur Haltestelle ein, da die Wege nass sein können.",
+                "hu": "Tervezze meg a visszautat a megállóhoz, mert az utak nedvesek lehetnek.",
+                "ro": "Planificați drumul înapoi spre stație, căile pot fi ude.",
+                "en": "Plan your walk back to the stop carefully as paths can be wet."
+              }
+            },
+            {
+              "name": "Sava Bridge",
+              "tip_5lang": {
+                "de": "Achten Sie auf die Buszeiten, um lange Wartezeiten im Regen zu vermeiden.",
+                "hu": "Ügyeljen a buszmenetrendre, hogy elkerülje a hosszú várakozást az esőben.",
+                "ro": "Fiți atenți la orarul autobuzelor pentru a evita așteptarea lungă în ploaie.",
+                "en": "Check bus times carefully to avoid long waits in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Haben Sie immer etwas Kleingeld für die Fahrkarten bereit.",
+              "Nutzen Sie Apps oder Online-Fahrpläne, um Wartezeiten im Freien zu minimieren.",
+              "Die Busse sind im Regen oft voller; planen Sie etwas Pufferzeit ein.",
+              "Überdachte Haltestellen sind Ihre besten Freunde bei plötzlichen Schauern.",
+              "Tragen Sie Kleidung, die auch in geheizten Bussen komfortabel ist."
+            ],
+            "hu": [
+              "Mindig legyen kéznél aprópénz a jegyvásárláshoz.",
+              "Használjon menetrendi alkalmazásokat a szabadtéri várakozás minimalizálásához.",
+              "Esőben a buszok gyakran zsúfoltabbak; tervezzen némi pufferidőt.",
+              "A fedett megállók a legjobb barátai a hirtelen záporok idején.",
+              "Viseljen olyan ruházatot, amely a fűtött buszokon is kényelmes."
+            ],
+            "ro": [
+              "Aveți întotdeauna mărunțiș pregătit pentru bilete.",
+              "Folosiți aplicații sau orare online pentru a minimiza așteptarea în exterior.",
+              "Autobuzele sunt adesea mai pline pe ploaie; planificați timp suplimentar.",
+              "Stațiile acoperite sunt cei mai buni prieteni în timpul averselor bruște.",
+              "Purtați haine care sunt confortabile și în autobuzele încălzite."
+            ],
+            "en": [
+              "Always have some small change ready for buying bus tickets.",
+              "Use transit apps or online schedules to minimize outdoor waiting time.",
+              "Buses can be more crowded during rain; allow for some buffer time.",
+              "Covered bus stops are your best friends during sudden downpours.",
+              "Wear layers that are comfortable even inside heated buses."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ihre winterliche Transit-Tour in Gradiška beginnt am zentralen Busbahnhof. Fahren Sie zum Gradaščević-Platz und wärmen Sie sich in den Bussen zwischen den Stopps auf. Das Heimatmuseum ist ein Muss an kalten Tagen. Nutzen Sie die Busverbindungen zur Save-Promenade und zu den römischen Ruinen, um die Zeit in der Kälte zu verkürzen. Beenden Sie den Tag an der Save-Brücke und kehren Sie mit dem warmen Bus zurück.",
+            "hu": "A téli közösségi közlekedési túra Gradiškában a központi buszpályaudvaron indul. Utazzon a térre, és melegedjen fel a buszokon a megállók között. A Helytörténeti Múzeum kötelező program a hideg napokon. Használja a buszjáratokat a sétányhoz és a romokhoz, hogy lerövidítse a hidegben töltött időt. Zárja a napot a Száva-hídnál, majd térjen vissza a fűtött busszal.",
+            "ro": "Turul de iarnă cu transportul public în Gradiška începe la autogara centrală. Mergeți spre piață și încălziți-vă în autobuze între opriri. Muzeul Patrimoniului este obligatoriu în zilele reci. Folosiți liniile de autobuz spre faleză și ruine pentru a scurta timpul petrecut în frig. Încheiați ziua la podul peste Sava și reveniți cu autobuzul călduros.",
+            "en": "Your winter transit tour in Gradiška starts at the central bus station. Head to the main square and warm up on the buses between stops. The Heritage Museum is a must-visit on cold days. Use bus connections to the promenade and Roman ruins to minimize your time in the freezing air. End the day at the Sava Bridge and return via a warm, cozy bus."
+          },
+          "stops": [
+            {
+              "name": "Bus Station (Arrival)",
+              "tip_5lang": {
+                "de": "Der geschlossene Warteraum bietet Schutz vor eisigem Wind.",
+                "hu": "A zárt váróterem védelmet nyújt a jeges szél ellen.",
+                "ro": "Sala de așteptare închisă oferă protecție împotriva vântului înghețat.",
+                "en": "The enclosed waiting room provides good protection from icy winds."
+              }
+            },
+            {
+              "name": "Husein-kapetan Gradaščević Square",
+              "tip_5lang": {
+                "de": "Halten Sie sich in der Nähe der beheizten Geschäfte am Platz auf.",
+                "hu": "Tartózkodjon a tér közeli fűtött üzletek közelében.",
+                "ro": "Stați în apropierea magazinelor încălzite de lângă piață.",
+                "en": "Stay near the heated shops around the square while waiting."
+              }
+            },
+            {
+              "name": "Gradiška Heritage Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Besuch, um die Winterkälte für eine Weile zu vergessen.",
+                "hu": "Használja ki a látogatást, hogy egy időre elfelejtse a téli hideget.",
+                "ro": "Folosiți vizita pentru a uita pentru o vreme de frigul iernii.",
+                "en": "Take advantage of the visit to escape the winter chill for a while."
+              }
+            },
+            {
+              "name": "Sava Promenade (Bus Stop)",
+              "tip_5lang": {
+                "de": "Busse können bei Schnee leichte Verspätungen haben; kleiden Sie sich warm.",
+                "hu": "Hó esetén a buszok késhetnek; öltözzön melegen a várakozáshoz.",
+                "ro": "Autobuzele pot avea întârzieri pe zăpadă; îmbrăcați-vă gros.",
+                "en": "Buses may have slight delays in snow; dress warmly for the wait."
+              }
+            },
+            {
+              "name": "Roman archaeological site Servitium",
+              "tip_5lang": {
+                "de": "Vom Busstopp ist es nur ein kurzer, aber eventuell glatter Weg.",
+                "hu": "A buszmegállótól csak rövid, de esetleg csúszós út vezet ide.",
+                "ro": "De la stație este un drum scurt, dar posibil alunecos.",
+                "en": "It's a short but potentially slippery walk from the bus stop."
+              }
+            },
+            {
+              "name": "Sava Bridge",
+              "tip_5lang": {
+                "de": "Prüfen Sie die letzte Abfahrt, bevor es dunkel und noch kälter wird.",
+                "hu": "Ellenőrizze az utolsó járatot, mielőtt besötétedik és még hidegebb lesz.",
+                "ro": "Verificați ultima plecare înainte de a se întuneca și a se face mai frig.",
+                "en": "Check the last departure before it gets dark and even colder."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Busse sind im Winter meist gut beheizt und bieten eine gute Pause.",
+              "Achten Sie auf rutschige Einstiegsbereiche bei den Bussen.",
+              "In der Dämmerung sind beleuchtete Haltestellen sicherer und angenehmer.",
+              "Halten Sie Ihren Fahrschein griffbereit, um langes Suchen in der Kälte zu vermeiden.",
+              "Die Transit-Frequenz kann an sehr kalten Tagen oder bei Schnee variieren."
+            ],
+            "hu": [
+              "A buszok télen általában jól fűtöttek és kellemes pihenőt nyújtanak.",
+              "Ügyeljen a csúszós felszállási területekre a buszoknál.",
+              "Szürkületben a kivilágított megállók biztonságosabbak és kellemesebbek.",
+              "Tartsa készenlétben a jegyét, hogy elkerülje a keresgélést a hidegben.",
+              "Nagyon hideg napokon vagy hóban a járatok gyakorisága változhat."
+            ],
+            "ro": [
+              "Autobuzele sunt de obicei bine încălzite iarna, oferind o pauză plăcută.",
+              "Atenție la zonele de urcare alunecoase ale autobuzelor.",
+              "La amurg, stațiile iluminate sunt mai sigure și mai plăcute.",
+              "Țineți biletul la îndemână pentru a evita căutarea lui în frig.",
+              "Frecvența transportului poate varia în zilele foarte reci sau cu zăpadă."
+            ],
+            "en": [
+              "Buses are usually well-heated in winter, offering a welcome warm break.",
+              "Be careful of slippery steps when boarding or exiting the bus.",
+              "Illuminated stops are safer and more comfortable during twilight.",
+              "Keep your ticket or pass ready to avoid fumbling in the cold air.",
+              "Transit frequency may vary on extremely cold or snowy days."
+            ]
+          }
+        }
       }
     }
   }

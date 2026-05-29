@@ -352,6 +352,188 @@
           "Most museums are closed on Mondays, so check opening hours in advance.",
           "Horsens is compact, making it ideal for exploring on foot."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag geschützt in der Klosterkirche. Der Weg zum Kunstmuseum ist kurz, halten Sie dennoch den Schirm bereit. Der Nachmittag gehört den großzügigen Innenräumen des Industriemuseums und des Gefängnisses, ideal um dem Regen zu entfliehen. Ein kurzer Abendspaziergang durch den Park beschließt den Tag, wenn sich die Lichter in den Pfützen spiegeln.",
+            "hu": "Kezdje a napot az apátsági templom védelmében. A művészeti múzeum felé tartó séta rövid, de az esernyő legyen kéznél. A délutánt töltse az Ipari Múzeum és a Börtön tágas belső tereiben, ahol garantáltan szárazon marad. A napot egy rövid esti parki séta zárja, amikor a városi fények megcsillannak a vizes aszfalton.",
+            "ro": "Începeți ziua la adăpost în biserica abației. Drumul spre muzeul de artă este scurt, dar țineți umbrela la îndemână. După-amiaza aparține spațiilor interioare generoase ale Muzeului Industrial și ale Închisorii, ideale pentru a scăpa de ploaie. O scurtă plimbare de seară prin parc încheie ziua, când luminile se oglindesc în bălți.",
+            "en": "Start your day sheltered inside the Abbey Church. The walk to the Art Museum is short, but keep your umbrella ready. Spend the afternoon in the vast indoor spaces of the Industrial Museum and the Prison, perfect for escaping the rain. A brief evening stroll through the park concludes the day as city lights reflect in the puddles."
+          },
+          "stops": [
+            {
+              "name": "Horsens Abbey Church",
+              "tip_5lang": {
+                "de": "Perfekter trockener Startpunkt.",
+                "hu": "Tökéletes száraz kezdőpont.",
+                "ro": "Punct de plecare uscat perfect.",
+                "en": "Perfect dry starting point."
+              }
+            },
+            {
+              "name": "Horsens Art Museum",
+              "tip_5lang": {
+                "de": "Schirmständer am Eingang vorhanden.",
+                "hu": "Esernyőtartó az入口nál.",
+                "ro": "Suporturi de umbrele la intrare.",
+                "en": "Umbrella stands available at the entrance."
+              }
+            },
+            {
+              "name": "Denmark's Industrial Museum",
+              "tip_5lang": {
+                "de": "Große Hallen bieten viel Platz im Trockenen.",
+                "hu": "A nagy csarnokok rengeteg helyet kínálnak fedett helyen.",
+                "ro": "Halele mari oferă mult spațiu la adăpost.",
+                "en": "Large halls offer plenty of dry space."
+              }
+            },
+            {
+              "name": "Fængslet (The Prison)",
+              "tip_5lang": {
+                "de": "Die Zellenblöcke sind komplett überdacht.",
+                "hu": "A börtönblokkok teljesen fedettek.",
+                "ro": "Blocurile celulelor sunt complet acoperite.",
+                "en": "The cell blocks are completely covered."
+              }
+            },
+            {
+              "name": "Vitus Bering Park",
+              "tip_5lang": {
+                "de": "Befestigte Wege minimieren Matsch.",
+                "hu": "A burkolt utak csökkentik a sarat.",
+                "ro": "Aleile pavate minimizează noroiul.",
+                "en": "Paved paths minimize mud."
+              }
+            },
+            {
+              "name": "Horsens New Theatre",
+              "tip_5lang": {
+                "de": "Gemütliches Foyer zum Aufwärmen.",
+                "hu": "Hangulatos előcsarnok a melegedéshez.",
+                "ro": "Foaier primitor pentru încălzire.",
+                "en": "Cozy foyer for warming up."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da einige Gehwege Pfützen bilden.",
+              "Nutzen Sie die Garderoben in den Museen für nasse Jacken.",
+              "Der Wind vom Fjord kann Schirme instabil machen, Regenjacken sind besser.",
+              "Planen Sie mehr Zeit für die Indoor-Exponate ein."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert egyes járdákon megáll a víz.",
+              "Használja a múzeumi ruhatárakat a vizes kabátokhoz.",
+              "A fjord felől fújó szél miatt az esőkabát praktikusabb, mint az esernyő.",
+              "Szánjon több időt a beltéri kiállításokra."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, unele trotuare rețin apa.",
+              "Folosiți garderobele muzeelor pentru jachetele ude.",
+              "Vântul de pe fjord poate face umbrelele instabile, pelerinele sunt mai bune.",
+              "Alocați mai mult timp pentru expozițiile interioare."
+            ],
+            "en": [
+              "Wear waterproof shoes as some sidewalks tend to puddle.",
+              "Use museum cloakrooms for wet jackets.",
+              "Wind from the fjord can make umbrellas unstable; raincoats are better.",
+              "Plan for extra time at indoor exhibits."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen erwartet Sie in der geschichtsträchtigen Klosterkirche. Der zügige Weg zum Kunstmuseum erfrischt, bevor Sie die Wärme der Galerien genießen. Nachmittags bieten das Industriemuseum und das Gefängnis wohligen Schutz vor der beißenden Kälte. Da die Dämmerung früh einsetzt, ist der Vitus Bering Park bereits festlich beleuchtet, wenn Sie Ihren Rundgang beenden.",
+            "hu": "Fagyos reggel várja a patinás apátsági templomban. A művészeti múzeum felé vezető élénk séta felfrissít, mielőtt élvezné a galériák melegét. Délután az Ipari Múzeum és a Börtön nyújt menedéket a metsző hideg elől. Mivel korán sötétedik, a Vitus Bering Park már díszkivilágításban úszik, amikor befejezi a körutat.",
+            "ro": "O dimineață geroasă vă așteaptă în biserica abației plină de istorie. Plimbarea vioaie spre muzeul de artă vă va revigora înainte de a vă bucura de căldura galeriilor. După-amiaza, Muzeul Industrial și Închisoarea oferă adăpost primitor împotriva frigului tăios. Deoarece se întunecă devreme, Parcul Vitus Bering este deja luminat festiv când vă încheiați turul.",
+            "en": "A frosty morning awaits at the historic Abbey Church. The brisk walk to the Art Museum is refreshing before enjoying the warmth of the galleries. In the afternoon, the Industrial Museum and the Prison provide cozy shelter from the biting cold. As dusk falls early, Vitus Bering Park is already festively lit when you finish your tour."
+          },
+          "stops": [
+            {
+              "name": "Horsens Abbey Church",
+              "tip_5lang": {
+                "de": "Ziehige Kirche, Mütze auflassen.",
+                "hu": "Huzatos templom, hagyja magán a sapkát.",
+                "ro": "Biserică răcoroasă, păstrați căciula.",
+                "en": "Drafty church, keep your hat on."
+              }
+            },
+            {
+              "name": "Horsens Art Museum",
+              "tip_5lang": {
+                "de": "Gut geheizte Räume, perfekt zum Aufwärmen.",
+                "hu": "Jól fűtött terek, tökéletes a melegedéshez.",
+                "ro": "Spații bine încălzite, perfecte pentru dezmorțire.",
+                "en": "Well-heated spaces, perfect for warming up."
+              }
+            },
+            {
+              "name": "Denmark's Industrial Museum",
+              "tip_5lang": {
+                "de": "Vorsicht vor glatten Stufen im Außenbereich.",
+                "hu": "Vigyázat, a külső lépcsők csúszhatnak.",
+                "ro": "Atenție la treptele alunecoase din exterior.",
+                "en": "Watch out for slippery steps in outdoor areas."
+              }
+            },
+            {
+              "name": "Fængslet (The Prison)",
+              "tip_5lang": {
+                "de": "Im Winter besonders atmosphärisch durch die Schatten.",
+                "hu": "Télen különösen hangulatos az árnyékok miatt.",
+                "ro": "Deosebit de atmosferic iarna datorită umbrelor.",
+                "en": "Especially atmospheric in winter due to the shadows."
+              }
+            },
+            {
+              "name": "Vitus Bering Park",
+              "tip_5lang": {
+                "de": "Wunderschön beleuchtet nach 16:00 Uhr.",
+                "hu": "Gyönyörű kivilágítás 16:00 után.",
+                "ro": "Iluminat superb după ora 16:00.",
+                "en": "Beautifully lit after 16:00."
+              }
+            },
+            {
+              "name": "Horsens New Theatre",
+              "tip_5lang": {
+                "de": "Heißes Getränk im Café genießen.",
+                "hu": "Igyon egy forró italt a kávézóban.",
+                "ro": "Savurați o băutură caldă la cafenea.",
+                "en": "Enjoy a hot drink at the cafe."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht gegen 15:45 Uhr unter, planen Sie Außenstopps zuerst.",
+              "Warme Kleidung in Schichten ist für die Wechsel zwischen Museen wichtig.",
+              "Vorsicht vor Glatteis auf den Kopfsteinpflastergassen.",
+              "Museen schließen im Winter oft etwas früher."
+            ],
+            "hu": [
+              "A nap 15:45 körül lemegy, a kültéri megállókat vegye előre.",
+              "A réteges öltözködés fontos a múzeumi váltásoknál.",
+              "Vigyázzon a jegesedésre a macskaköves utcákon.",
+              "Télen a múzeumok gyakran korábban zárnak."
+            ],
+            "ro": [
+              "Soarele apune în jur de 15:45, planificați opririle exterioare primele.",
+              "Îmbrăcămintea stratificată este esențială pentru tranzitul între muzee.",
+              "Atenție la polei pe străzile pavate.",
+              "Muzeele se închid adesea mai devreme iarna."
+            ],
+            "en": [
+              "The sun sets around 15:45; prioritize outdoor stops early.",
+              "Layered clothing is vital for transitions between museums.",
+              "Beware of icy patches on cobblestone streets.",
+              "Museums often close slightly earlier in winter."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -702,6 +884,188 @@
           "Always lock your bike securely, especially in busy areas.",
           "A bike map can be helpful, but is not essential."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine windige Fahrt zum Schloss Boller startet den Tag. Der Küstenweg Langelinie fordert bei Regen Standfestigkeit, bietet aber raue Schönheit. Mittags finden Sie Schutz in der Kirche und den Museen, während Ihr Rad sicher parkt. Der Tag endet mit einer schnellen Fahrt zum Kunstmuseum, wo Sie sich im Trockenen regenerieren können.",
+            "hu": "Szeles tekeréssel indul a nap a Boller kastély felé. A Langelinie tengerparti út esőben kihívást jelent, de nyers szépséget kínál. Délben a templomban és a múzeumokban talál menedéket, amíg a bicikli biztonságban pihen. A nap egy gyors tekeréssel zárul a művészeti múzeumhoz, ahol fedett helyen regenerálódhat.",
+            "ro": "O plimbare vântoasă spre Castelul Boller începe ziua. Drumul de coastă Langelinie necesită atenție pe ploaie, dar oferă o frumusețe brută. La prânz găsiți adăpost în biserică și muzee, în timp ce bicicleta stă parcată în siguranță. Ziua se încheie cu o cursă rapidă spre muzeul de artă pentru recuperare la uscat.",
+            "en": "A windy ride to Boller Castle starts the day. The Langelinie coastal path challenges your balance in the rain but offers raw beauty. At noon, find shelter in the church and museums while your bike rests safely. The day ends with a quick dash to the Art Museum, where you can recover in the dry."
+          },
+          "stops": [
+            {
+              "name": "Boller Castle",
+              "tip_5lang": {
+                "de": "Wege im Schlosspark können schlammig sein.",
+                "hu": "A kastélypark útjai sárosak lehetnek.",
+                "ro": "Drumurile din parcul castelului pot fi noroioase.",
+                "en": "Paths in the castle park can be muddy."
+              }
+            },
+            {
+              "name": "Langelinie",
+              "tip_5lang": {
+                "de": "Vorsicht bei Seitenwind am Fjord.",
+                "hu": "Vigyázat az oldalszéllel a fjordnál.",
+                "ro": "Atenție la vântul lateral pe malul fjordului.",
+                "en": "Watch out for crosswinds by the fjord."
+              }
+            },
+            {
+              "name": "Horsens Abbey Church",
+              "tip_5lang": {
+                "de": "Überdachte Fahrradständer in der Nähe.",
+                "hu": "Fedett biciklitárolók a közelben.",
+                "ro": "Suporturi de biciclete acoperite în apropiere.",
+                "en": "Covered bike racks nearby."
+              }
+            },
+            {
+              "name": "Denmark's Industrial Museum",
+              "tip_5lang": {
+                "de": "Trocknen Sie Ihre Ausrüstung während des Besuchs.",
+                "hu": "Szárítsa meg felszerelését a látogatás alatt.",
+                "ro": "Uscați-vă echipamentul în timpul vizitei.",
+                "en": "Dry your gear during the visit."
+              }
+            },
+            {
+              "name": "Fængslet (The Prison)",
+              "tip_5lang": {
+                "de": "Sicherer Parkplatz im Innenhof.",
+                "hu": "Biztonságos parkoló a belső udvaron.",
+                "ro": "Parcare sigură în curtea interioară.",
+                "en": "Secure parking in the inner courtyard."
+              }
+            },
+            {
+              "name": "Horsens Art Museum",
+              "tip_5lang": {
+                "de": "Belohnen Sie sich mit dem Ausblick.",
+                "hu": "Jutalmazza meg magát a kilátással.",
+                "ro": "Răsplătiți-vă cu priveliștea.",
+                "en": "Reward yourself with the view."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vollständige Regenbekleidung inklusive Überschuhen empfohlen.",
+              "Bremsen können bei Nässe verzögert reagieren.",
+              "Fahren Sie auf den Radwegen vorsichtig über nasse Blätter.",
+              "Gute Beleuchtung ist bei grauem Wetter Pflicht."
+            ],
+            "hu": [
+              "Teljes esőruházat és cipővédő ajánlott.",
+              "A fékek nedves időben lassabban reagálhatnak.",
+              "A kerékpárutakon vigyázzon a vizes levelekre.",
+              "Szürke időben a jó világítás kötelező."
+            ],
+            "ro": [
+              "Se recomandă echipament complet de ploaie și protecții de pantofi.",
+              "Frânele pot reacționa mai lent pe carosabil umed.",
+              "Circulați cu prudență pe pistele cu frunze ude.",
+              "Iluminarea bună este obligatorie pe vreme gri."
+            ],
+            "en": [
+              "Full rain gear including shoe covers is recommended.",
+              "Brakes may have delayed response when wet.",
+              "Ride carefully on bike paths covered with wet leaves.",
+              "Good lighting is mandatory in grey weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine erfrischende Winterfahrt führt Sie zum verschneiten Schloss Boller. Entlang der Langelinie weht eine kalte Brise, die Sie schnell zur Wärme der Innenstadt treibt. Die Museumsbesuche am Mittag sind ideale Pausen zum Aufwärmen. Beenden Sie den Tag am Kunstmuseum, während die Lichter von Horsens in der frühen Dunkelheit erstrahlen.",
+            "hu": "Frissítő téli tekerés vezet a havas Boller kastélyhoz. A Langelinie mentén hideg szél fúj, ami gyorsan a belváros melegébe hajtja. A déli múzeumlátogatások ideális pihenők a felmelegedéshez. Zárja a napot a művészeti múzeumnál, miközben Horsens fényei felgyúlnak a korai sötétségben.",
+            "ro": "O cursă răcoritoare de iarnă vă duce la Castelul Boller înzăpezit. O briză rece suflă de-a lungul Langelinie, grăbindu-vă spre căldura centrului. Vizitele la muzee de la prânz sunt pauze ideale pentru încălzire. Încheiați ziua la muzeul de artă, în timp ce luminile din Horsens strălucesc în întunericul timpuriu.",
+            "en": "A refreshing winter ride leads you to snowy Boller Castle. A cold breeze blows along Langelinie, pushing you quickly toward the warmth of downtown. Midday museum visits are ideal breaks for warming up. End the day at the Art Museum as the lights of Horsens shine in the early darkness."
+          },
+          "stops": [
+            {
+              "name": "Boller Castle",
+              "tip_5lang": {
+                "de": "Märchenhafter Anblick bei Frost.",
+                "hu": "Mesebeli látvány fagyban.",
+                "ro": "Vedere de basm pe timp de îngheț.",
+                "en": "Fairytale sight during frost."
+              }
+            },
+            {
+              "name": "Langelinie",
+              "tip_5lang": {
+                "de": "Gesichtsschutz gegen kalten Wind empfohlen.",
+                "hu": "Arcvédelem ajánlott a hideg szél ellen.",
+                "ro": "Protecție facială recomandată contra vântului rece.",
+                "en": "Face protection recommended against cold wind."
+              }
+            },
+            {
+              "name": "Horsens Abbey Church",
+              "tip_5lang": {
+                "de": "Kurzer Stopp zum Beine lockern.",
+                "hu": "Rövid megálló a lábak átmozgatására.",
+                "ro": "Oprire scurtă pentru dezmorțire.",
+                "en": "Short stop to stretch your legs."
+              }
+            },
+            {
+              "name": "Denmark's Industrial Museum",
+              "tip_5lang": {
+                "de": "Warmer Kakao im Museumscafé.",
+                "hu": "Forró kakaó a múzeumi kávézóban.",
+                "ro": "Cacao caldă la cafeneaua muzeului.",
+                "en": "Hot cocoa at the museum cafe."
+              }
+            },
+            {
+              "name": "Fængslet (The Prison)",
+              "tip_5lang": {
+                "de": "Vorsicht vor Eis auf dem Parkplatz.",
+                "hu": "Vigyázzon a jégre a parkolóban.",
+                "ro": "Atenție la gheața din parcare.",
+                "en": "Beware of ice in the parking lot."
+              }
+            },
+            {
+              "name": "Horsens Art Museum",
+              "tip_5lang": {
+                "de": "Letzter Anstieg wärmt den Körper auf.",
+                "hu": "Az utolsó emelkedő bemelegíti a testet.",
+                "ro": "Ultima urcare vă va încălzi corpul.",
+                "en": "The final climb warms up your body."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Handschuhe und Thermosocken.",
+              "Prüfen Sie den Reifendruck, er sinkt bei Kälte.",
+              "Achten Sie auf gestreute Wege, Salz kann das Rad korrodieren.",
+              "Frühzeitiger Sonnenuntergang (16 Uhr) erfordert volle Batterien für Lichter."
+            ],
+            "hu": [
+              "Viseljen kesztyűt és termozoknit.",
+              "Ellenőrizze a guminyomást, hidegben csökkenhet.",
+              "Ügyeljen a sózott utakra, a só korrodálhatja a biciklit.",
+              "A korai naplemente (16 óra) miatt feltöltött lámpák kellenek."
+            ],
+            "ro": [
+              "Purtați mănuși și șosete termice.",
+              "Verificați presiunea pneurilor, scade la frig.",
+              "Atenție la drumurile cu sare, aceasta poate coroda bicicleta.",
+              "Apusul timpuriu (ora 16) necesită baterii pline pentru lumini."
+            ],
+            "en": [
+              "Wear gloves and thermal socks.",
+              "Check tire pressure; it drops in the cold.",
+              "Watch for salted paths; salt can corrode the bike.",
+              "Early sunset (4 PM) requires full batteries for lights."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1058,6 +1422,188 @@
           "Speed limits are strict, pay attention to the signs.",
           "A car allows you to visit sights just outside the city as well."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die Fahrt zum Schloss Boller im trockenen Auto. Der Parkspaziergang wird kurz gehalten, dafür bleibt mehr Zeit für die beeindruckenden Museen. Fængslet und das Industriemuseum bieten perfekte Indoor-Erlebnisse. Den Tag lassen Sie entspannt in der Innenstadt ausklingen, wo Parkhäuser direkten Zugang zu den Sehenswürdigkeiten bieten.",
+            "hu": "Élvezze az utat a Boller kastélyhoz a száraz autóban. A parki sétát rövidre fogjuk, így több idő marad a lenyűgöző múzeumokra. A Fængslet és az Ipari Múzeum tökéletes beltéri élményeket kínál. A napot pihentetően zárja a belvárosban, ahol a parkolóházak közvetlen hozzáférést biztosítanak a látnivalókhoz.",
+            "ro": "Bucurați-vă de drumul spre Castelul Boller în mașina uscată. Plimbarea în parc va fi scurtă, lăsând mai mult timp pentru muzeele impresionante. Fængslet și Muzeul Industrial oferă experiențe interioare perfecte. Încheiați ziua relaxat în centrul orașului, unde parcările oferă acces direct la atracții.",
+            "en": "Enjoy the drive to Boller Castle in the dry car. The park walk is kept short, leaving more time for the impressive museums. Fængslet and the Industrial Museum offer perfect indoor experiences. End the day relaxed in the city center, where parking garages provide direct access to the sights."
+          },
+          "stops": [
+            {
+              "name": "Boller Castle",
+              "tip_5lang": {
+                "de": "Parkplatz direkt am Eingang nutzen.",
+                "hu": "Használja a közvetlenül a bejáratnál lévő parkolót.",
+                "ro": "Folosiți parcarea direct de la intrare.",
+                "en": "Use the parking lot directly at the entrance."
+              }
+            },
+            {
+              "name": "Walk in the Castle Park",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter großen Bäumen.",
+                "hu": "Keressen menedéket a nagy fák alatt.",
+                "ro": "Căutați adăpost sub copacii mari.",
+                "en": "Seek shelter under large trees."
+              }
+            },
+            {
+              "name": "Museum Cluster (Fængslet & Industrial Museum)",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen den Gebäuden.",
+                "hu": "Rövid távolságok az épületek között.",
+                "ro": "Distanțe scurte între clădiri.",
+                "en": "Short distances between buildings."
+              }
+            },
+            {
+              "name": "Fængslet (The Prison)",
+              "tip_5lang": {
+                "de": "Überdachter Zugang zum Museumsshop.",
+                "hu": "Fedett bejárat a múzeumi bolthoz.",
+                "ro": "Acces acoperit spre magazinul muzeului.",
+                "en": "Covered access to the museum shop."
+              }
+            },
+            {
+              "name": "Denmark's Industrial Museum",
+              "tip_5lang": {
+                "de": "Parken Sie im Innenhof für kurze Wege.",
+                "hu": "Parkoljon a belső udvaron a rövid utakért.",
+                "ro": "Parcați în curtea interioară pentru distanțe scurte.",
+                "en": "Park in the inner courtyard for short walks."
+              }
+            },
+            {
+              "name": "Center Cluster (Abbey Church & Langelinie)",
+              "tip_5lang": {
+                "de": "Parkhaus 'Levysgade' ist ideal.",
+                "hu": "A 'Levysgade' parkolóház ideális.",
+                "ro": "Parcarea 'Levysgade' este ideală.",
+                "en": "The 'Levysgade' parking garage is ideal."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf der Landstraße zum Schloss.",
+              "Parkhäuser in der Innenstadt halten das Auto trocken.",
+              "Haben Sie immer einen Regenschirm für den Weg zum Parkplatz dabei.",
+              "Sichtverhältnisse können bei starkem Regen eingeschränkt sein."
+            ],
+            "hu": [
+              "Ügyeljen a vízfelúszásra a kastélyhoz vezető úton.",
+              "A belvárosi parkolóházak szárazon tartják az autót.",
+              "Mindig legyen esernyő az autóban a parkolótól való sétához.",
+              "Erős esőben a látási viszonyok korlátozottak lehetnek."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumul spre castel.",
+              "Parcările etajate din centru mențin mașina uscată.",
+              "Aveți mereu o umbrelă pentru drumul de la parcare.",
+              "Vizibilitatea poate fi redusă în caz de ploaie torențială."
+            ],
+            "en": [
+              "Watch for aquaplaning on the road to the castle.",
+              "City center parking garages keep the car dry.",
+              "Always have an umbrella ready for the walk from the car.",
+              "Visibility may be limited during heavy rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine gemütliche Fahrt durch das winterliche Horsens bringt Sie zum Schloss Boller. Der kurze Stopp im Park lässt Sie die klare Luft genießen, bevor Sie in die warmen Museen flüchten. Der Fængslet-Besuch ist im Winter besonders stimmungsvoll. Den Tag beenden Sie im beleuchteten Stadtzentrum, wo die kurzen Wege zwischen Auto und Kirche ideal sind.",
+            "hu": "Hangulatos autózás a téli Horsensben a Boller kastélyhoz. A rövid parki megálló során élvezze a friss levegőt, mielőtt a meleg múzeumokba menekülne. A Fængslet látogatása télen különösen hangulatos. A napot a kivilágított városközpontban zárja, ahol az autó és a templom közötti rövid távolságok ideálisak.",
+            "ro": "O călătorie confortabilă prin Horsens-ul hibernal vă duce la Castelul Boller. Oprirea scurtă în parc vă permite să savurați aerul curat înainte de a vă refugia în muzeele calde. Vizita la Fængslet este deosebit de sugestivă iarna. Încheiați ziua în centrul luminat, unde distanțele scurte între mașină și biserică sunt ideale.",
+            "en": "A cozy drive through winter Horsens takes you to Boller Castle. The short park stop lets you enjoy the crisp air before escaping into the warm museums. The Fængslet visit is especially atmospheric in winter. End the day in the lit city center, where the short distances between the car and the church are ideal."
+          },
+          "stops": [
+            {
+              "name": "Boller Castle",
+              "tip_5lang": {
+                "de": "Heizung im Auto lassen, kurze Fotopause.",
+                "hu": "Hagyja menni a fűtést az autóban, csak rövid fotószünet.",
+                "ro": "Lăsați căldura pornită în mașină, doar o scurtă pauză foto.",
+                "en": "Keep the car heater on; just a short photo break."
+              }
+            },
+            {
+              "name": "Walk in the Castle Park",
+              "tip_5lang": {
+                "de": "Vorsicht auf ungeräumten Waldwegen.",
+                "hu": "Vigyázat a nem takarított erdei utakon.",
+                "ro": "Atenție la potecile de pădure necurățate.",
+                "en": "Beware of uncleared forest paths."
+              }
+            },
+            {
+              "name": "Museum Cluster (Fængslet & Industrial Museum)",
+              "tip_5lang": {
+                "de": "Zentraler Parkplatz spart Gehzeit in der Kälte.",
+                "hu": "A központi parkolóval időt spórol a hidegben.",
+                "ro": "Parcarea centrală economisește timp în frig.",
+                "en": "Central parking saves walking time in the cold."
+              }
+            },
+            {
+              "name": "Fængslet (The Prison)",
+              "tip_5lang": {
+                "de": "Abends oft schön angestrahlt.",
+                "hu": "Este gyakran szépen ki van világítva.",
+                "ro": "Adesea iluminat frumos seara.",
+                "en": "Often beautifully illuminated in the evening."
+              }
+            },
+            {
+              "name": "Denmark's Industrial Museum",
+              "tip_5lang": {
+                "de": "Drinnen ist es herrlich warm.",
+                "hu": "Bent kellemes meleg van.",
+                "ro": "Înăuntru este minunat de cald.",
+                "en": "It is wonderfully warm inside."
+              }
+            },
+            {
+              "name": "Center Cluster (Abbey Church & Langelinie)",
+              "tip_5lang": {
+                "de": "Nutzen Sie beheizte Parkgaragen.",
+                "hu": "Használja a fűtött parkolóházakat.",
+                "ro": "Folosiți parcările etajate încălzite.",
+                "en": "Utilize heated parking garages."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Frostschutz in der Scheibenwaschanlage.",
+              "Vorsicht vor 'Schwarzeis' auf Brücken und am Fjord.",
+              "Lassen Sie keine Getränke im Auto einfrieren.",
+              "Winterreifen sind in Dänemark bei diesen Bedingungen Pflicht."
+            ],
+            "hu": [
+              "Ellenőrizze a fagyállót a szélvédőmosóban.",
+              "Vigyázzon a 'fekete jégre' a hidakon és a fjordnál.",
+              "Ne hagyjon italokat az autóban megfagyni.",
+              "Ilyen körülmények között Dániában kötelező a téli gumi."
+            ],
+            "ro": [
+              "Verificați antigelul în lichidul de parbriz.",
+              "Atenție la gheața neagră pe poduri și lângă fjord.",
+              "Nu lăsați băuturi să înghețe în mașină.",
+              "Anvelopele de iarnă sunt obligatorii în Danemarca în aceste condiții."
+            ],
+            "en": [
+              "Check the antifreeze in your windshield washer fluid.",
+              "Beware of 'black ice' on bridges and near the fjord.",
+              "Do not leave beverages to freeze in the car.",
+              "Winter tires are mandatory in Denmark under these conditions."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1414,6 +1960,188 @@
           "The 'Rejseplanen' app is very useful for planning your journeys.",
           "Be at the bus stop on time, buses often leave exactly on schedule."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie die Busverbindungen, um trocken zu den Museen zu gelangen. Fængslet und das Industriemuseum sind perfekt für einen verregneten Vormittag. Die Fahrt ins Zentrum ermöglicht einen wettergeschützten Besuch der Klosterkirche. Beenden Sie den Tag im Park, wenn der Regen nachlässt, oder genießen Sie den Ausblick aus dem warmen Bus.",
+            "hu": "Használja a buszjáratokat, hogy szárazon jusson el a múzeumokhoz. A Fængslet és az Ipari Múzeum tökéletes egy esős délelőtthöz. A belvárosi utazás lehetővé teszi az apátsági templom látogatását az időjárástól védve. A napot a parkban zárja, ha eláll az eső, vagy élvezze a kilátást a meleg buszból.",
+            "ro": "Folosiți liniile de autobuz pentru a ajunge uscat la muzee. Fængslet și Muzeul Industrial sunt perfecte pentru o dimineață ploioasă. Călătoria spre centru permite vizitarea bisericii abației protejat de vreme. Încheiați ziua în parc dacă ploaia se oprește, sau savurați priveliștea din autobuzul cald.",
+            "en": "Use the bus connections to reach the museums dry. Fængslet and the Industrial Museum are perfect for a rainy morning. The trip to the center allows for a weather-protected visit to the Abbey Church. End the day in the park if the rain subsides, or enjoy the view from the warm bus."
+          },
+          "stops": [
+            {
+              "name": "Museum Cluster (Fængslet & Industrial Museum)",
+              "tip_5lang": {
+                "de": "Bushaltestelle direkt vor der Tür.",
+                "hu": "Buszmegálló közvetlenül az ajtó előtt.",
+                "ro": "Stație de autobuz chiar în fața intrării.",
+                "en": "Bus stop right in front of the door."
+              }
+            },
+            {
+              "name": "Fængslet (The Prison)",
+              "tip_5lang": {
+                "de": "Wartebereiche an den Haltestellen sind meist überdacht.",
+                "hu": "A megállók váróterületei többnyire fedettek.",
+                "ro": "Zonele de așteptare din stații sunt în mare parte acoperite.",
+                "en": "Waiting areas at stops are mostly covered."
+              }
+            },
+            {
+              "name": "Denmark's Industrial Museum",
+              "tip_5lang": {
+                "de": "Innenräume sind weitläufig und trocken.",
+                "hu": "A belső terek tágasak és szárazak.",
+                "ro": "Spațiile interioare sunt vaste și uscate.",
+                "en": "Indoor spaces are extensive and dry."
+              }
+            },
+            {
+              "name": "Center Cluster (Abbey Church & Vitus Bering Park)",
+              "tip_5lang": {
+                "de": "Zentraler Knotenpunkt für alle Linien.",
+                "hu": "Központi csomópont minden vonalhoz.",
+                "ro": "Nod central pentru toate liniile.",
+                "en": "Central hub for all bus lines."
+              }
+            },
+            {
+              "name": "Horsens Abbey Church",
+              "tip_5lang": {
+                "de": "Wenige Schritte vom Busbahnhof entfernt.",
+                "hu": "Pár lépésre a buszpályaudvartól.",
+                "ro": "La câțiva pași de autogară.",
+                "en": "A few steps from the bus station."
+              }
+            },
+            {
+              "name": "Vitus Bering Park",
+              "tip_5lang": {
+                "de": "Direkt neben dem Bahnhof gelegen.",
+                "hu": "Közvetlenül a vasútállomás mellett található.",
+                "ro": "Situat chiar lângă gară.",
+                "en": "Located right next to the train station."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die 'Rejseplanen' App für Echtzeit-Infos bei Verzögerungen.",
+              "In Bussen ist es bei Regen oft schwül, tragen Sie atmungsaktive Kleidung.",
+              "Der Bahnhof Horsens bietet ein großes Café zum Warten.",
+              "Fahrkarten können kontaktlos im Bus bezahlt werden."
+            ],
+            "hu": [
+              "Használja a 'Rejseplanen' alkalmazást a valós idejű infókért.",
+              "A buszokon esőben gyakran fülledt a levegő, hordjon lélegző ruhát.",
+              "A horsensi vasútállomáson nagy kávézó várja a várakozókat.",
+              "A jegyek érintésmentesen fizethetők a buszon."
+            ],
+            "ro": [
+              "Folosiți aplicația 'Rejseplanen' pentru info în timp real.",
+              "În autobuze e adesea zăpușeală pe ploaie, purtați haine ce lasă pielea să respire.",
+              "Gara Horsens oferă o cafenea mare pentru așteptare.",
+              "Biletele pot fi plătite contactless în autobuz."
+            ],
+            "en": [
+              "Use the 'Rejseplanen' app for real-time info during delays.",
+              "Buses can be humid during rain; wear breathable clothing.",
+              "Horsens station offers a large cafe for waiting.",
+              "Tickets can be paid contactless on the bus."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Bus bringt Sie bequem durch das frostige Horsens zu den Museen. Genießen Sie die Wärme während der Fahrt, während die winterliche Landschaft vorbeizieht. Das Industriemuseum und das Gefängnis sind ideale Rückzugsorte. Am Nachmittag führt Sie der Weg zurück ins Zentrum zur festlich beleuchteten Klosterkirche und dem nahegelegenen Park am Bahnhof.",
+            "hu": "A busz kényelmesen viszi át a fagyos Horsensen a múzeumokhoz. Élvezze a meleget utazás közben, miközben a téli táj elsuhan az ablak előtt. Az Ipari Múzeum és a Börtön ideális menedékhelyek. Délután az út visszavezet a központba, a díszkivilágítású apátsági templomhoz és a vasútállomás melletti parkhoz.",
+            "ro": "Autobuzul vă poartă confortabil prin Horsens-ul înghețat spre muzee. Bucurați-vă de căldură în timpul călătoriei, în timp ce peisajul de iarnă trece pe lângă geam. Muzeul Industrial și Închisoarea sunt refugii ideale. După-amiaza, drumul vă duce înapoi în centru, la biserica luminată festiv și parcul de lângă gară.",
+            "en": "The bus takes you comfortably through frosty Horsens to the museums. Enjoy the warmth during the ride as the winter landscape passes by. The Industrial Museum and the Prison are ideal retreats. In the afternoon, the route leads back to the center to the festively lit Abbey Church and the park near the station."
+          },
+          "stops": [
+            {
+              "name": "Museum Cluster (Fængslet & Industrial Museum)",
+              "tip_5lang": {
+                "de": "Beheizte Wartehäuschen an wichtigen Stopps.",
+                "hu": "Fűtött váróterek a fontosabb megállóknál.",
+                "ro": "Adăposturi de așteptare încălzite în stațiile importante.",
+                "en": "Heated waiting shelters at key stops."
+              }
+            },
+            {
+              "name": "Fængslet (The Prison)",
+              "tip_5lang": {
+                "de": "Abends herrlich beleuchtete Fassade.",
+                "hu": "Este csodásan kivilágított homlokzat.",
+                "ro": "Fațadă superb iluminată seara.",
+                "en": "Wonderfully illuminated facade in the evening."
+              }
+            },
+            {
+              "name": "Denmark's Industrial Museum",
+              "tip_5lang": {
+                "de": "Perfekt, um der Kälte für zwei Stunden zu entfliehen.",
+                "hu": "Tökéletes, hogy két órára elmeneküljön a hideg elől.",
+                "ro": "Perfect pentru a scăpa de frig timp de două ore.",
+                "en": "Perfect for escaping the cold for two hours."
+              }
+            },
+            {
+              "name": "Center Cluster (Abbey Church & Vitus Bering Park)",
+              "tip_5lang": {
+                "de": "Der Bahnhof ist ein guter Ort zum Aufwärmen.",
+                "hu": "A pályaudvar jó hely a felmelegedéshez.",
+                "ro": "Gara este un loc bun pentru încălzire.",
+                "en": "The train station is a good place to warm up."
+              }
+            },
+            {
+              "name": "Horsens Abbey Church",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg minimiert Frostbeulen.",
+                "hu": "A rövid gyalogút csökkenti a fagyoskodást.",
+                "ro": "Scurta plimbare minimizează expunerea la ger.",
+                "en": "The short walk minimizes exposure to frost."
+              }
+            },
+            {
+              "name": "Vitus Bering Park",
+              "tip_5lang": {
+                "de": "Ab 16:00 Uhr stimmungsvolle Winterlichter.",
+                "hu": "16:00-tól hangulatos téli fények.",
+                "ro": "Lumini de iarnă atmosferice după ora 16:00.",
+                "en": "Atmospheric winter lights from 16:00."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrpläne können bei Schnee leicht variieren.",
+              "Die Busse sind im Winter sehr gut geheizt.",
+              "Achten Sie beim Aussteigen auf glatte Bordsteinkanten.",
+              "Der Bahnhof bietet Schließfächer für schwere Winterausrüstung."
+            ],
+            "hu": [
+              "A menetrendek hóesésben kissé változhatnak.",
+              "A buszok télen nagyon jól fűtöttek.",
+              "Leszálláskor ügyeljen a csúszós útpadkára.",
+              "A vasútállomáson vannak csomagmegőrzők a nehéz téli cuccoknak."
+            ],
+            "ro": [
+              "Orarele pot varia ușor în caz de ninsoare.",
+              "Autobuzele sunt foarte bine încălzite iarna.",
+              "Atenție la bordurile alunecoase la coborâre.",
+              "Gara oferă dulapuri pentru echipamentul greu de iarnă."
+            ],
+            "en": [
+              "Schedules may vary slightly during snowfall.",
+              "Buses are very well-heated in winter.",
+              "Watch for slippery curbs when disembarking.",
+              "The station offers lockers for heavy winter gear."
+            ]
+          }
+        }
       }
     }
   }

@@ -340,6 +340,188 @@
           "Check the church's opening hours as they can vary.",
           "A small backpack is useful for snacks and a light jacket."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag geschützt in der St.-Nikolaus-Kirche, während der Regen auf das Dach trommelt. Der Vormittag führt Sie zu den Monumenten im Dorfzentrum, wo Asphaltwege Sie vor dem Schlamm bewahren. Mittags bietet der Bahnhof einen trockenen Rückzugsort.\nNachmittags wird der Wald von Teișani durch den Regen besonders aromatisch, aber die Wege können rutschig sein. Der Aufstieg zum Bughea-Hügel erfordert bei diesem Wetter Vorsicht und gute Ausrüstung.\nDer Abend endet mit einem grauen, aber stimmungsvollen Blick über das neblige Teleajen-Tal, bevor Sie ins Dorf zurückkehren.",
+            "hu": "Kezdje a napot a Szent Miklós-templom védelmében, miközben az eső kopog a tetőn. A délelőtt a falu központjának emlékműveihez vezet, ahol az aszfaltozott utak megóvják a sártól. Délben a vasútállomás nyújt száraz pihenőhelyet.\nDélután a Teișani-erdő az esőtől különösen illatossá válik, de az ösvények csúszósak lehetnek. A Bughea-dombra való feljutás ilyenkor óvatosságot és jó felszerelést igényel.\nA nap szürke, de hangulatos kilátással zárul a ködös Teleajen-völgyre, mielőtt visszatérne a faluba.",
+            "ro": "Începeți ziua la adăpost în Biserica Sfântul Nicolae, în timp ce ploaia bate în acoperiș. Dimineața vă poartă pe la monumentele din centrul satului, unde drumurile asfaltate vă feresc de noroi. La prânz, gara oferă un loc de retragere uscat.\nDupă-amiaza, pădurea Teișani devine deosebit de aromată datorită ploii, dar potecile pot fi alunecoase. Urcarea pe dealul Bughea necesită prudență și echipament bun pe acest tip de vreme.\nSeara se încheie cu o priveliște cenușie, dar atmosferică, peste Valea Teleajenului învăluită în ceață, înainte de a vă întoarce în sat.",
+            "en": "Start your day sheltered in Saint Nicholas Church as the rain drums on the roof. The morning leads you to the monuments in the village center, where paved roads keep you away from the mud. At noon, the train station provides a dry retreat.\nIn the afternoon, the Teișani forest becomes especially fragrant with the rain, but the paths can be slippery. The ascent to Bughea Hill requires caution and good gear in this weather.\nThe evening ends with a grey but atmospheric view over the misty Teleajen Valley before returning to the village."
+          },
+          "stops": [
+            {
+              "name": "Saint Nicholas Church",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Innere der Kirche, um die Regenpause abzuwarten.",
+                "hu": "Használja ki a templom belső terét az esőszünet kivárására.",
+                "ro": "Folosiți interiorul bisericii pentru a aștepta oprirea ploii.",
+                "en": "Use the church interior to wait for a break in the rain."
+              }
+            },
+            {
+              "name": "The Stone Cross of the Vornic",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem nassen Gras um das Kreuz herum.",
+                "hu": "Vigyázzon a vizes fűre a kereszt körül.",
+                "ro": "Atenție la iarba udă din jurul crucii.",
+                "en": "Watch out for the wet grass around the cross."
+              }
+            },
+            {
+              "name": "Heroes' Monument of Teișani",
+              "tip_5lang": {
+                "de": "Das Denkmal steht auf festem Boden, ideal für Fotos trotz Regen.",
+                "hu": "Az emlékmű szilárd talajon áll, ideális fotózáshoz esőben is.",
+                "ro": "Monumentul este pe teren stabil, ideal pentru poze chiar și pe ploaie.",
+                "en": "The monument is on solid ground, ideal for photos despite the rain."
+              }
+            },
+            {
+              "name": "Teișani Train Station",
+              "tip_5lang": {
+                "de": "Der überdachte Bahnsteig ist ein perfekter Unterstand.",
+                "hu": "A fedett peron tökéletes menedék az eső elől.",
+                "ro": "Peronul acoperit este un adăpost perfect împotriva ploii.",
+                "en": "The covered platform is a perfect shelter from the rain."
+              }
+            },
+            {
+              "name": "Teișani Forest",
+              "tip_5lang": {
+                "de": "Tragen Sie wasserfeste Schuhe, der Waldboden weicht schnell auf.",
+                "hu": "Viseljen vízálló cipőt, az erdő talaja gyorsan felázik.",
+                "ro": "Purtați încălțăminte impermeabilă, solul pădurii se înmoaie repede.",
+                "en": "Wear waterproof shoes; the forest floor gets soft quickly."
+              }
+            },
+            {
+              "name": "Bughea Hill",
+              "tip_5lang": {
+                "de": "Die Sicht kann eingeschränkt sein; bleiben Sie auf den Hauptpfaden.",
+                "hu": "A látótávolság korlátozott lehet; maradjon a fő ösvényeken.",
+                "ro": "Vizibilitatea poate fi redusă; rămâneți pe potecile principale.",
+                "en": "Visibility may be limited; stay on the main paths."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie Abkürzungen durch das Gelände, da der Lehmboden sehr rutschig wird.",
+              "Die Züge bieten eine gute Möglichkeit, trocken zwischen den Ortsteilen zu pendeln.",
+              "Ein Regenschirm ist bei den Windböen im Tal weniger effektiv als ein Poncho.",
+              "Planen Sie mehr Zeit für die Waldwege ein, da das Vorankommen mühsamer ist."
+            ],
+            "hu": [
+              "Kerülje a terepen való rövidítéseket, mert az agyagos talaj nagyon csúszóssá válik.",
+              "A vonatok jó lehetőséget kínálnak a falurészek közötti száraz közlekedésre.",
+              "Az esernyő a völgyi széllökésekben kevésbé hatékony, mint egy esőponcsó.",
+              "Tervezzen több időt az erdei utakra, mert a haladás nehézkesebb."
+            ],
+            "ro": [
+              "Evitați scurtăturile prin teren, deoarece solul lutos devine foarte alunecos.",
+              "Trenurile oferă o opțiune bună pentru a face naveta între zonele satului la uscat.",
+              "O umbrelă este mai puțin eficientă decât un pelerină de ploaie în rafalele de vânt din vale.",
+              "Alocați mai mult timp pentru potecile din pădure, deoarece înaintarea este mai anevoioasă."
+            ],
+            "en": [
+              "Avoid shortcuts through the terrain, as the clay soil becomes very slippery.",
+              "Trains offer a good option for commuting between village areas while staying dry.",
+              "An umbrella is less effective than a poncho in the valley's wind gusts.",
+              "Plan more time for forest paths, as progress is more laborious."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen begrüßt Sie in Teișani. Die St.-Nikolaus-Kirche wirkt im Schnee wie aus einem Märchen. Der Vormittag am Monument ist kurz, da die Kälte schnell in die Knochen zieht. Ein warmer Tee am Bahnhof ist mittags Gold wert.\nNachmittags glitzert der Wald von Teișani unter einer weißen Decke. Der Aufstieg zum Bughea-Hügel bietet ein spektakuläres Winterpanorama, erfordert aber Trittsicherheit auf vereisten Stellen.\nDa die Sonne bereits gegen 16:30 Uhr untergeht, sollten Sie den Abstieg frühzeitig beginnen, um die Dämmerung im Dorf zu erleben.",
+            "hu": "Deres reggel köszönti Teișani-ban. A Szent Miklós-templom a hóban úgy fest, mint egy mesében. A délelőtt az emlékműnél rövid, mert a hideg hamar átjárja az embert. Egy meleg tea a vasútállomáson délben aranyat ér.\nDélután a Teișani-erdő fehér takaró alatt csillog. A Bughea-dombra való feljutás látványos téli panorámát kínál, de magabiztos járást igényel a jeges szakaszokon.\nMivel a nap már 16:30 körül lemegy, kezdje el korán a leereszkedést, hogy a szürkületet már a faluban érje el.",
+            "ro": "O dimineață geroasă vă întâmpină în Teișani. Biserica Sfântul Nicolae pare desprinsă din basme în zăpadă. Dimineața la monument este scurtă, deoarece frigul pătrunde repede. Un ceai cald la gară valorează aur la prânz.\nDupă-amiaza, pădurea Teișani strălucește sub o mantie albă. Urcarea pe dealul Bughea oferă o panoramă hibernală spectaculoasă, dar necesită siguranță pe picioare în zonele înghețate.\nDeoarece soarele apune deja în jurul orei 16:30, ar trebui să începeți coborârea devreme pentru a prinde amurgul în sat.",
+            "en": "A frosty morning greets you in Teișani. Saint Nicholas Church looks like something out of a fairy tale in the snow. The morning at the monument is short, as the cold quickly seeps in. A warm tea at the train station is worth its weight in gold at noon.\nIn the afternoon, the Teișani forest glitters under a white blanket. The ascent to Bughea Hill offers a spectacular winter panorama but requires sure-footedness on icy patches.\nSince the sun sets around 4:30 PM, you should start the descent early to experience the twilight in the village."
+          },
+          "stops": [
+            {
+              "name": "Saint Nicholas Church",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf den Stufen zum Kircheneingang.",
+                "hu": "Vigyázzon a jegesedésre a templombejárathoz vezető lépcsőkön.",
+                "ro": "Atenție la polei pe treptele de la intrarea în biserică.",
+                "en": "Watch out for black ice on the steps to the church entrance."
+              }
+            },
+            {
+              "name": "The Stone Cross of the Vornic",
+              "tip_5lang": {
+                "de": "Das Steinkreuz ist oft mit Raureif bedeckt, ein tolles Fotomotiv.",
+                "hu": "A kőkeresztet gyakran zúzmara borítja, nagyszerű fotótéma.",
+                "ro": "Crucea de piatră este adesea acoperită de chiciură, un motiv foto excelent.",
+                "en": "The stone cross is often covered in hoarfrost, a great photo motive."
+              }
+            },
+            {
+              "name": "Heroes' Monument of Teișani",
+              "tip_5lang": {
+                "de": "Halten Sie sich kurz, der Wind auf dem freien Platz ist eisig.",
+                "hu": "Ne időzzön sokat, a szél a nyílt téren jeges.",
+                "ro": "Nu stați mult, vântul în piața deschisă este înghețat.",
+                "en": "Keep it short; the wind in the open square is icy."
+              }
+            },
+            {
+              "name": "Teișani Train Station",
+              "tip_5lang": {
+                "de": "Im Wartesaal kann man sich kurz aufwärmen.",
+                "hu": "A váróteremben rövid időre fel lehet melegedni.",
+                "ro": "Vă puteți încălzi scurt timp în sala de așteptare.",
+                "en": "You can warm up briefly in the waiting room."
+              }
+            },
+            {
+              "name": "Teișani Forest",
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den markierten Wegen, im Tiefschnee verliert man leicht die Orientierung.",
+                "hu": "Maradjon a jelzett utakon, a mély hóban könnyű eltévedni.",
+                "ro": "Rămâneți pe traseele marcate, în zăpada adâncă vă puteți dezorienta ușor.",
+                "en": "Stay on the marked paths; it's easy to lose orientation in deep snow."
+              }
+            },
+            {
+              "name": "Bughea Hill",
+              "tip_5lang": {
+                "de": "Stöcke und Spikes für die Schuhe sind für den Gipfel ratsam.",
+                "hu": "Botok és cipőre szerelhető tüskék ajánlottak a csúcs eléréséhez.",
+                "ro": "Bețele și crampoanele pentru încălțăminte sunt recomandate pentru vârf.",
+                "en": "Poles and shoe spikes are advisable for the summit."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Zwiebelschichten; die Temperaturen fallen rapide, sobald die Sonne weg ist.",
+              "Die Gehwege im Dorf werden nicht immer sofort geräumt, Vorsicht vor verdecktem Eis.",
+              "Nehmen Sie eine Thermoskanne mit, da Cafés im Winter begrenzte Öffnungszeiten haben.",
+              "Die Lichtverhältnisse für Fotos sind zwischen 10:00 und 14:00 Uhr am besten."
+            ],
+            "hu": [
+              "Öltözködjön rétegesen; a hőmérséklet gyorsan leesik, amint eltűnik a nap.",
+              "A falu járdáit nem mindig takarítják azonnal, vigyázzon a rejtett jégre.",
+              "Vigyen magával termoszt, mert a kávézók télen korlátozottan vannak nyitva.",
+              "A fényviszonyok a fotózáshoz 10:00 és 14:00 óra között a legjobbak."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi; temperaturile scad rapid imediat ce soarele apune.",
+              "Trotuarele din sat nu sunt întotdeauna curățate imediat, atenție la gheața mascată.",
+              "Luați un termos cu voi, deoarece cafenelele au program limitat iarna.",
+              "Condițiile de lumină pentru fotografii sunt cele mai bune între orele 10:00 și 14:00."
+            ],
+            "en": [
+              "Wear layers; temperatures drop rapidly as soon as the sun goes down.",
+              "Village sidewalks are not always cleared immediately; watch out for hidden ice.",
+              "Carry a thermos, as cafes may have limited winter opening hours.",
+              "Light conditions for photos are best between 10:00 AM and 2:00 PM."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -661,6 +843,206 @@
           "Some roads may be unpaved, so ride with caution.",
           "Plan your route in advance as cell coverage can be patchy."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag auf zwei Rädern erfordert Mut und gute Schutzbleche. Vormittags erkunden Sie die Sehenswürdigkeiten im Dorf auf befestigten Straßen. Das Skulpturenlager bietet zwischen den Werken kleine Unterstände.\nMittags führt die Route durch das Teleajen-Tal, wo die Feuchtigkeit die Natur in sattes Grün taucht. Der Nachmittag am Bughea-Hügel wird zur technischen Herausforderung, da die unbefestigten Abschnitte schlammig werden.\nAm Abend kehren Sie zum Steinernen Kreuz zurück, wobei Sie auf dem nassen Asphalt besonders vorsichtig bremsen sollten.",
+            "hu": "Egy esős nap két keréken bátorságot és jó sárvédőt igényel. Délelőtt a falu látnivalóit fedezi fel szilárd burkolatú utakon. A szoborpark az alkotások között kisebb menedékeket kínál.\nDélben az útvonal a Teleajen-völgyön vezet keresztül, ahol a nedvesség dús zöldre festi a természetet. A délután a Bughea-dombnál technikai kihívássá válik, mert a nem aszfaltozott szakaszok sárosak lesznek.\nEste tér vissza a Kőkereszthez, ekkor a vizes aszfalton különösen óvatosan fékezzen.",
+            "ro": "O zi ploioasă pe două roți necesită curaj și apărători bune. Dimineața explorați atracțiile din sat pe drumuri pavate. Tabăra de sculptură oferă mici adăposturi printre lucrări.\nLa prânz, traseul trece prin Valea Teleajenului, unde umiditatea scaldă natura într-un verde crud. După-amiaza la dealul Bughea devine o provocare tehnică, deoarece porțiunile neasfaltate devin noroioase.\nSeara reveniți la Crucea de Piatră, frânând cu mare atenție pe asfaltul ud.",
+            "en": "A rainy day on two wheels requires courage and good fenders. In the morning, you'll explore village sights on paved roads. The sculpture camp offers small shelters between the works.\nAt noon, the route leads through the Teleajen Valley, where the moisture bathes nature in deep green. The afternoon at Bughea Hill becomes a technical challenge as unpaved sections turn muddy.\nIn the evening, you return to the Stone Cross, braking especially carefully on the wet asphalt."
+          },
+          "stops": [
+            {
+              "name": "Saint Nicholas Church",
+              "tip_5lang": {
+                "de": "Parken Sie das Rad im Windschatten der Kirchenmauer.",
+                "hu": "Parkolja a kerékpárt a templomfal szélárnyékában.",
+                "ro": "Parcați bicicleta la adăpostul zidului bisericii.",
+                "en": "Park your bike in the lee of the church wall."
+              }
+            },
+            {
+              "name": "Heroes' Monument of Teișani",
+              "tip_5lang": {
+                "de": "Vermeiden Sie scharfe Kurven auf dem glatten Pflaster beim Denkmal.",
+                "hu": "Kerülje az éles kanyarokat a csúszós burkolaton az emlékműnél.",
+                "ro": "Evitați virajele strânse pe pavajul alunecos de lângă monument.",
+                "en": "Avoid sharp turns on the slippery pavement near the monument."
+              }
+            },
+            {
+              "name": "Teișani Sculpture Camp",
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig zwischen den Skulpturen, der Boden ist oft grasig und rutschig.",
+                "hu": "Óvatosan haladjon a szobrok között, a talaj gyakran füves és csúszós.",
+                "ro": "Circulați cu prudență printre sculpturi, solul este adesea înierbat și alunecos.",
+                "en": "Ride carefully between sculptures; the ground is often grassy and slippery."
+              }
+            },
+            {
+              "name": "Teleajen Valley near Teișani",
+              "tip_5lang": {
+                "de": "Die Uferwege können überschwemmt oder sehr weich sein.",
+                "hu": "A part menti utak elöntöttek vagy nagyon puhák lehetnek.",
+                "ro": "Potecile de pe mal pot fi inundate sau foarte moi.",
+                "en": "Riverside paths may be flooded or very soft."
+              }
+            },
+            {
+              "name": "Teișani Train Station",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Halt für einen schnellen Check Ihrer Bremsbeläge.",
+                "hu": "Használja ki a megállót a fékbetétek gyors ellenőrzésére.",
+                "ro": "Folosiți oprirea pentru o verificare rapidă a saboților de frână.",
+                "en": "Use the stop for a quick check of your brake pads."
+              }
+            },
+            {
+              "name": "Bughea Hill",
+              "tip_5lang": {
+                "de": "Bei starkem Regen ist der Aufstieg für Trekkingräder kaum fahrbar.",
+                "hu": "Erős esőben a feljutás túrakerékpárral alig kivitelezhető.",
+                "ro": "În caz de ploaie torențială, urcarea este aproape impracticabilă pentru biciclete de trekking.",
+                "en": "In heavy rain, the ascent is barely rideable for trekking bikes."
+              }
+            },
+            {
+              "name": "The Stone Cross of the Vornic",
+              "tip_5lang": {
+                "de": "Das Ziel ist nah, fahren Sie die letzte Abfahrt defensiv.",
+                "hu": "A cél közel van, az utolsó lejtőt vezesse védekezően.",
+                "ro": "Destinația este aproape, parcurgeți ultima coborâre defensiv.",
+                "en": "The goal is near; ride the last descent defensively."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Scheibenbremsen sind bei diesem Wetter ein großer Sicherheitsvorteil.",
+              "Tragen Sie neongelbe Regenkleidung, da die Sichtverhältnisse für Autos schlecht sind.",
+              "Vermeiden Sie Pfützen, sie könnten tiefe Schlaglöcher verbergen.",
+              "Ein tieferer Reifendruck erhöht den Grip auf den schlammigen Hügelwegen."
+            ],
+            "hu": [
+              "A tárcsafékek ebben az időben nagy biztonsági előnyt jelentenek.",
+              "Viseljen neon sárga esőruházatot, mert az autósok látási viszonyai rosszak.",
+              "Kerülje a tócsákat, mély kátyúkat rejthetnek.",
+              "Az alacsonyabb guminyomás növeli a tapadást a sáros erdei utakon."
+            ],
+            "ro": [
+              "Frânele pe disc reprezintă un mare avantaj de siguranță pe acest tip de vreme.",
+              "Purtați haine de ploaie galben neon, deoarece vizibilitatea pentru șoferi este redusă.",
+              "Evitați bălțile, acestea pot ascunde gropi adânci.",
+              "O presiune mai mică în anvelope crește aderența pe drumurile noroioase de deal."
+            ],
+            "en": [
+              "Disc brakes are a significant safety advantage in this weather.",
+              "Wear neon yellow rain gear, as visibility for cars is poor.",
+              "Avoid puddles; they might hide deep potholes.",
+              "Lower tire pressure increases grip on muddy hill paths."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im Winter von Teișani ist ein Abenteuer für Hartgesottene. Vormittags gleiten Sie durch das Dorf, wobei Sie auf gefrorenen Schneematsch achten müssen. Das Skulpturenlager wirkt unter der weißen Last imposant.\nMittags bietet das Teleajen-Tal kühle, klare Luft und harte Wege. Der Nachmittag am Bughea-Hügel erfordert maximale Konzentration und warme Handschuhe für die Abfahrt.\nBevor es dunkel wird, beenden Sie die Tour am Steinernen Kreuz, wo der Frost den Boden bereits wieder fest werden lässt.",
+            "hu": "A téli kerékpározás Teișani-ban a kemények kalandja. Délelőtt a falun keresztül halad, ügyelve a fagyott hókásás szakaszokra. A szoborpark a fehér teher alatt impozáns látványt nyújt.\nDélben a Teleajen-völgy hűvös, tiszta levegőt és kemény utakat kínál. A délután a Bughea-dombnál maximális koncentrációt és meleg kesztyűt igényel a lefelé úthoz.\nMielőtt besötétedik, fejezze be a túrát a Kőkeresztnél, ahol a fagy már újra kezdi megkeményíteni a talajt.",
+            "ro": "Ciclismul de iarnă în Teișani este o aventură pentru cei rezistenți. Dimineața alunecați prin sat, fiind atenți la porțiunile cu zăpadă înghețată. Tabăra de sculptură pare impunătoare sub greutatea albă.\nLa prânz, Valea Teleajenului oferă aer rece, curat și drumuri întărite. După-amiaza la dealul Bughea necesită concentrare maximă și mănuși groase pentru coborâre.\nÎnainte de lăsarea întunericului, încheiați turul la Crucea de Piatră, unde gerul începe deja să întărească din nou solul.",
+            "en": "Winter cycling in Teișani is an adventure for the hardy. In the morning, you'll glide through the village, watching out for frozen slush. The sculpture camp looks imposing under its white burden.\nAt noon, the Teleajen Valley offers cool, clear air and firm paths. The afternoon at Bughea Hill requires maximum concentration and warm gloves for the descent.\nBefore it gets dark, finish the tour at the Stone Cross, where the frost is already making the ground firm again."
+          },
+          "stops": [
+            {
+              "name": "Saint Nicholas Church",
+              "tip_5lang": {
+                "de": "Metallteile am Rad können bei Minusgraden sehr kalt werden, Handschuhe tragen.",
+                "hu": "A kerékpár fém alkatrészei mínuszokban nagyon lehűlhetnek, viseljen kesztyűt.",
+                "ro": "Părțile metalice ale bicicletei pot deveni foarte reci la temperaturi negative, purtați mănuși.",
+                "en": "Metal bike parts can get very cold in freezing temperatures; wear gloves."
+              }
+            },
+            {
+              "name": "Heroes' Monument of Teișani",
+              "tip_5lang": {
+                "de": "Der Platz wird oft als Erster geräumt, aber Vorsicht vor Streusalz-Korrosion.",
+                "hu": "A teret gyakran elsőként takarítják, de vigyázzon az útszóró só okozta korrózióra.",
+                "ro": "Piața este adesea prima curățată, dar atenție la coroziunea cauzată de sarea de deszăpezire.",
+                "en": "The square is often cleared first, but watch out for road salt corrosion."
+              }
+            },
+            {
+              "name": "Teișani Sculpture Camp",
+              "tip_5lang": {
+                "de": "Vorsicht vor versteckten Steinen unter der Schneedecke.",
+                "hu": "Vigyázzon a hó alatt rejtőző kövekre.",
+                "ro": "Atenție la pietrele ascunse sub stratul de zăpadă.",
+                "en": "Watch out for hidden stones under the snow cover."
+              }
+            },
+            {
+              "name": "Teleajen Valley near Teișani",
+              "tip_5lang": {
+                "de": "Das Wasser im Tal zieht die Kälte an, halten Sie sich in Bewegung.",
+                "hu": "A völgyben a víz vonzza a hideget, maradjon mozgásban.",
+                "ro": "Apa din vale atrage frigul, mențineți-vă în mișcare.",
+                "en": "The water in the valley attracts the cold; keep moving."
+              }
+            },
+            {
+              "name": "Teișani Train Station",
+              "tip_5lang": {
+                "de": "Überprüfen Sie, ob Ihre Schaltung bei der Kälte noch reibungslos funktioniert.",
+                "hu": "Ellenőrizze, hogy a váltója a hidegben is zökkenőmentesen működik-e.",
+                "ro": "Verificați dacă schimbătorul de viteze mai funcționează corect la ger.",
+                "en": "Check if your gears are still functioning smoothly in the cold."
+              }
+            },
+            {
+              "name": "Bughea Hill",
+              "tip_5lang": {
+                "de": "Die Abfahrt kühlt den Körper extrem schnell aus, Windschutz ist Pflicht.",
+                "hu": "A leereszkedés rendkívül gyorsan lehűti a testet, a szélvédelem kötelező.",
+                "ro": "Coborârea răcește corpul extrem de rapid, protecția contra vântului este obligatorie.",
+                "en": "The descent cools the body down extremely fast; wind protection is mandatory."
+              }
+            },
+            {
+              "name": "The Stone Cross of the Vornic",
+              "tip_5lang": {
+                "de": "Wischen Sie Feuchtigkeit vom Rad, bevor sie gefriert.",
+                "hu": "Törölje le a nedvességet a bringáról, mielőtt ráfagyna.",
+                "ro": "Ștergeți umezeala de pe bicicletă înainte ca aceasta să înghețe.",
+                "en": "Wipe moisture off the bike before it freezes."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Verwenden Sie Winter-Kettenöl, damit der Antrieb nicht festfriert.",
+              "Spikereifen sind auf den Bergstraßen von Prahova im Winter lebensrettend.",
+              "Akkus von E-Bikes entladen sich bei Kälte deutlich schneller.",
+              "Trinken Sie auch bei Kälte genug, man merkt den Flüssigkeitsverlust weniger."
+            ],
+            "hu": [
+              "Használjon téli láncolajat, hogy a hajtás ne fagyjon be.",
+              "A szöges gumik életmentőek lehetnek Prahova hegyi útjain télen.",
+              "Az e-bike akkumulátorok hidegben jelentősen gyorsabban merülnek.",
+              "Igyon eleget a hidegben is, a folyadékveszteséget ilyenkor kevésbé érzi az ember."
+            ],
+            "ro": [
+              "Folosiți ulei de lanț de iarnă pentru ca transmisia să nu înghețe.",
+              "Anvelopele cu ținte sunt salvatoare pe drumurile de munte din Prahova iarna.",
+              "Bateriile bicicletelor electrice se descarcă mult mai repede la ger.",
+              "Beți suficient chiar și la temperaturi scăzute, senzația de deshidratare este mai redusă."
+            ],
+            "en": [
+              "Use winter chain oil to prevent the drivetrain from freezing.",
+              "Studded tires are lifesavers on Prahova mountain roads in winter.",
+              "E-bike batteries discharge significantly faster in the cold.",
+              "Drink enough even in the cold; you feel fluid loss less."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -989,6 +1371,206 @@
           "Download offline maps as signal can be weak.",
           "A car gives you the flexibility to explore the more remote natural areas."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Im Auto ist Teișani auch bei Regen ein Genuss. Vormittags parken Sie bequem im Zentrum und besuchen die Kirche und das Kreuz. Das Skulpturenlager ist nur eine kurze Fahrt entfernt, wo Sie die Werke fast vom Autofenster aus sehen können.\nMittags fahren Sie ins Teleajen-Tal, wo die Parkplätze oft matschig sind. Nachmittags führt die Route zum Bughea-Hügel; achten Sie auf Aquaplaning auf der Hauptstraße.\nDer Abend endet entspannt mit einer Fahrt durch die nebligen Hügel von Prahova, bevor Sie den Tag gemütlich abschließen.",
+            "hu": "Autóval Teișani esőben is élvezet. Délelőtt kényelmesen parkolhat a központban, és meglátogathatja a templomot és a keresztet. A szoborpark csak rövid autóút, ahol az alkotásokat szinte az autó ablakából is láthatja.\nDélben a Teleajen-völgybe autózik, ahol a parkolók gyakran sárosak. Délután az útvonal a Bughea-dombhoz vezet; ügyeljen az aquaplaningre a főúton.\nA nap pihentetően zárul egy autózással Prahova ködös dombjai között, mielőtt kényelmesen befejezné a napot.",
+            "ro": "Cu mașina, Teișani este o plăcere chiar și pe ploaie. Dimineața parcați confortabil în centru și vizitați biserica și crucea. Tabăra de sculptură este la scurtă distanță, unde puteți vedea lucrările aproape din geamul mașinii.\nLa prânz conduceți spre Valea Teleajenului, unde parcările sunt adesea noroioase. După-amiaza, traseul duce spre dealul Bughea; atenție la acvaplanare pe drumul principal.\nSeara se încheie relaxat cu o plimbare prin dealurile cețoase ale Prahovei, înainte de a finaliza ziua confortabil.",
+            "en": "By car, Teișani is a delight even in the rain. In the morning, park conveniently in the center and visit the church and the cross. The sculpture camp is just a short drive away, where you can see the works almost from the car window.\nAt noon, drive to the Teleajen Valley, where parking lots are often muddy. In the afternoon, the route leads to Bughea Hill; watch out for aquaplaning on the main road.\nThe evening ends relaxingly with a drive through the misty hills of Prahova before concluding the day comfortably."
+          },
+          "stops": [
+            {
+              "name": "Teișani Center Parking",
+              "tip_5lang": {
+                "de": "Suchen Sie einen Platz nahe dem Bürgersteig, um Pfützen beim Aussteigen zu vermeiden.",
+                "hu": "Keressen helyet a járda közelében, hogy elkerülje a tócsákat kiszálláskor.",
+                "ro": "Căutați un loc lângă trotuar pentru a evita bălțile la coborâre.",
+                "en": "Find a spot near the sidewalk to avoid puddles when getting out."
+              }
+            },
+            {
+              "name": "Saint Nicholas Church",
+              "tip_5lang": {
+                "de": "Man kann sehr nah am Eingang halten, um trocken ins Innere zu gelangen.",
+                "hu": "Nagyon közel meg lehet állni a bejárathoz, hogy szárazon jusson be.",
+                "ro": "Se poate opri foarte aproape de intrare pentru a ajunge la uscat în interior.",
+                "en": "You can stop very close to the entrance to get inside dry."
+              }
+            },
+            {
+              "name": "The Stone Cross of the Vornic",
+              "tip_5lang": {
+                "de": "Parken Sie am Straßenrand, der Boden daneben kann weich sein.",
+                "hu": "Parkoljon az út szélén, mellette a talaj puha lehet.",
+                "ro": "Parcați pe marginea drumului, terenul de lângă poate fi moale.",
+                "en": "Park on the roadside; the ground next to it might be soft."
+              }
+            },
+            {
+              "name": "Teișani Sculpture Camp",
+              "tip_5lang": {
+                "de": "Der Zugangsweg kann bei viel Regen für tiefergelegte Autos schwierig sein.",
+                "hu": "A bevezető út sok esőben nehézkes lehet az alacsony építésű autóknak.",
+                "ro": "Drumul de acces poate fi dificil pentru mașinile joase în caz de ploaie multă.",
+                "en": "The access road can be difficult for low-clearance cars in heavy rain."
+              }
+            },
+            {
+              "name": "Teleajen Valley Parking",
+              "tip_5lang": {
+                "de": "Vermeiden Sie unbefestigte Flächen, um nicht stecken zu bleiben.",
+                "hu": "Kerülje a nem aszfaltozott felületeket, nehogy elakadjon.",
+                "ro": "Evitați suprafețele neasfaltate pentru a nu rămâne împotmolit.",
+                "en": "Avoid unpaved areas to prevent getting stuck."
+              }
+            },
+            {
+              "name": "Walk in the Teleajen Valley",
+              "tip_5lang": {
+                "de": "Lassen Sie nasse Kleidung im Kofferraum, um das Beschlagen der Scheiben zu verhindern.",
+                "hu": "Hagyja a vizes ruhákat a csomagtartóban, hogy elkerülje az üvegek párásodását.",
+                "ro": "Lăsați hainele ude în portbagaj pentru a preveni aburirea geamurilor.",
+                "en": "Leave wet clothes in the trunk to prevent windows from fogging up."
+              }
+            },
+            {
+              "name": "Hike to Bughea Hill",
+              "tip_5lang": {
+                "de": "Die Auffahrt zum Startpunkt der Wanderung ist steil; bei Regen rutschig.",
+                "hu": "A túra kiindulópontjához vezető út meredek; esőben csúszós.",
+                "ro": "Urcarea spre punctul de pornire al traseului este abruptă; alunecoasă pe ploaie.",
+                "en": "The drive to the hike's starting point is steep; slippery in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Scheibenwischer vor der Abfahrt durch das Tal.",
+              "Nebelscheinwerfer sind im Teleajen-Becken oft auch tagsüber sinnvoll.",
+              "Halten Sie die Klimaanlage an, um Feuchtigkeit aus dem Innenraum zu ziehen.",
+              "Die Landstraßen in dieser Region haben oft tiefe Wasserlachen am Rand."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze az ablaktörlőket a völgyben való vezetéshez.",
+              "A ködfényszórók a Teleajen-medencében gyakran nappal is hasznosak.",
+              "Tartsa bekapcsolva a légkondicionálót, hogy kivonja a nedvességet az utastérből.",
+              "A régió országútjain gyakran mély tócsák alakulnak ki az út szélén."
+            ],
+            "ro": [
+              "Verificați ștergătoarele înainte de a pleca prin vale.",
+              "Proiectoarele de ceață sunt adesea utile în bazinul Teleajenului chiar și ziua.",
+              "Țineți aerul condiționat pornit pentru a elimina umiditatea din habitaclu.",
+              "Drumurile naționale din această regiune au adesea bălți adânci pe margini."
+            ],
+            "en": [
+              "Check your wipers before driving through the valley.",
+              "Fog lights are often useful in the Teleajen basin even during the day.",
+              "Keep the air conditioning on to draw moisture out of the interior.",
+              "Country roads in this region often have deep puddles at the edges."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliche Romantik in Teișani lässt sich am besten im warmen Auto erleben. Vormittags besuchen Sie die verschneite Kirche; das Parken ist im Winter meist unproblematisch. Die Fahrt zum Skulpturenlager bietet tolle Ausblicke auf die Prahova-Hügel.\nMittags fahren Sie ins Teleajen-Tal, wo die Straßen gut geräumt, aber salzig sind. Der Nachmittag führt zum Bughea-Hügel; die Auffahrt kann bei Neuschnee Allradantrieb erfordern.\nDa es früh dunkel wird, genießen Sie die Fahrt zurück ins Dorf bei einsetzender Beleuchtung der traditionellen Häuser.",
+            "hu": "A téli romantika Teișani-ban legjobban a meleg autóból élvezhető. Délelőtt a havas templomot látogatja meg; a parkolás télen általában problémamentes. Az út a szoborparkhoz nagyszerű kilátást nyújt a Prahova-dombságra.\nDélben a Teleajen-völgybe autózik, ahol az utak jól takarítottak, de sósak. A délután a Bughea-dombhoz vezet; az út friss hóban összkerékhajtást igényelhet.\nMivel korán sötétedik, élvezze a visszautat a faluba, miközben a hagyományos házak fényei kigyúlnak.",
+            "ro": "Romantismul hibernal din Teișani se experimentează cel mai bine din mașina caldă. Dimineața vizitați biserica înzăpezită; parcarea nu pune probleme iarna de obicei. Drumul spre tabăra de sculptură oferă vederi superbe spre dealurile Prahovei.\nLa prânz conduceți spre Valea Teleajenului, unde drumurile sunt bine deszăpezite, dar sărate. După-amiaza duce spre dealul Bughea; urcarea poate necesita tracțiune integrală în caz de zăpadă proaspătă.\nDeoarece se întunecă devreme, bucurați-vă de drumul înapoi în sat în timp ce luminile caselor tradiționale se aprind.",
+            "en": "Winter romance in Teișani is best experienced in a warm car. In the morning, visit the snowy church; parking is usually trouble-free in winter. The drive to the sculpture camp offers great views of the Prahova hills.\nAt noon, drive to the Teleajen Valley, where roads are well-cleared but salty. The afternoon leads to Bughea Hill; the ascent may require four-wheel drive in fresh snow.\nSince it gets dark early, enjoy the drive back to the village as the lights of traditional houses begin to flicker on."
+          },
+          "stops": [
+            {
+              "name": "Teișani Center Parking",
+              "tip_5lang": {
+                "de": "Achten Sie auf Schneehaufen, die Parkplätze blockieren könnten.",
+                "hu": "Vigyázzon a hóbuckákra, amik elzárhatják a parkolóhelyeket.",
+                "ro": "Atenție la mormanele de zăpadă care pot bloca locurile de parcare.",
+                "en": "Watch out for snow piles that might block parking spots."
+              }
+            },
+            {
+              "name": "Saint Nicholas Church",
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor nicht unnötig laufen, während Sie die Kirche besichtigen.",
+                "hu": "Ne járassa feleslegesen a motort, amíg a templomot látogatja.",
+                "ro": "Nu lăsați motorul pornit inutil în timp ce vizitați biserica.",
+                "en": "Don't leave the engine idling unnecessarily while visiting the church."
+              }
+            },
+            {
+              "name": "The Stone Cross of the Vornic",
+              "tip_5lang": {
+                "de": "Halten Sie Abstand zum Randstein, unter dem Schnee sind Kanten unsichtbar.",
+                "hu": "Tartson távolságot a padkától, a hó alatt a szélek láthatatlanok.",
+                "ro": "Păstrați distanța față de bordură, marginile sunt invizibile sub zăpadă.",
+                "en": "Keep distance from the curb; edges are invisible under the snow."
+              }
+            },
+            {
+              "name": "Teișani Sculpture Camp",
+              "tip_5lang": {
+                "de": "Nur mit guten Winterreifen befahren, der Weg wird nicht priorisiert geräumt.",
+                "hu": "Csak jó téli gumival hajtson be, az utat nem takarítják prioritással.",
+                "ro": "Intrați doar cu anvelope de iarnă bune, drumul nu este prioritizat la deszăpezire.",
+                "en": "Only enter with good winter tires; the road is not prioritized for clearing."
+              }
+            },
+            {
+              "name": "Teleajen Valley Parking",
+              "tip_5lang": {
+                "de": "Parken Sie so, dass Sie auch bei plötzlichem Schneefall leicht wieder wegfahren können.",
+                "hu": "Úgy parkoljon, hogy hirtelen hóesés esetén is könnyen el tudjon indulni.",
+                "ro": "Parcați astfel încât să puteți pleca ușor chiar și în caz de ninsoare bruscă.",
+                "en": "Park so that you can easily pull out even in case of sudden snowfall."
+              }
+            },
+            {
+              "name": "Walk in the Teleajen Valley",
+              "tip_5lang": {
+                "de": "Prüfen Sie vor dem Aussteigen die Außentemperatur.",
+                "hu": "Kiszállás előtt ellenőrizze a külső hőmérsékletet.",
+                "ro": "Verificați temperatura exterioară înainte de a coborî.",
+                "en": "Check the outside temperature before getting out."
+              }
+            },
+            {
+              "name": "Hike to Bughea Hill",
+              "tip_5lang": {
+                "de": "Sollte die Straße vereist sein, parken Sie lieber weiter unten im Dorf.",
+                "hu": "Ha az út jeges, parkoljon inkább lejjebb a faluban.",
+                "ro": "Dacă drumul este înghețat, parcați mai degrabă mai jos în sat.",
+                "en": "If the road is icy, it's better to park further down in the village."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in Rumänien bei Schnee und Eis gesetzlich vorgeschrieben.",
+              "Führen Sie Schneeketten mit, wenn Sie die kleineren Hügelstraßen befahren.",
+              "Frostschutzmittel in der Scheibenwaschanlage ist in dieser Gebirgsregion essenziell.",
+              "Die Batteriekapazität kann bei extremen Minustemperaturen in der Nacht sinken."
+            ],
+            "hu": [
+              "Romániában a téli gumi kötelező havas és jeges útfelületen.",
+              "Vigyen magával hóláncot, ha a kisebb domboldali utakra merészkedik.",
+              "A szélvédőmosó fagyállója elengedhetetlen ebben a hegyvidéki régióban.",
+              "Az akkumulátor kapacitása jelentősen csökkenhet az extrém éjszakai fagyokban."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii prin lege în România pe zăpadă și gheață.",
+              "Aveți lanțuri antiderapante la voi dacă circulați pe drumurile de deal secundare.",
+              "Antigelul în lichidul de parbriz este esențial în această regiune muntoasă.",
+              "Capacitatea bateriei poate scădea la temperaturi negative extreme pe timpul nopții."
+            ],
+            "en": [
+              "Winter tires are legally required in Romania on snow and ice.",
+              "Carry snow chains if you plan to drive on smaller hill roads.",
+              "Antifreeze in the windshield washer fluid is essential in this mountain region.",
+              "Battery capacity can drop during extreme sub-zero temperatures at night."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1293,6 +1875,188 @@
           "Be prepared to walk, even when using public transport.",
           "Stop names may not always be clear, so track your location on a map."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Öffentliche Verkehrsmittel sind an Regentagen die klügste Wahl in Teișani. Vormittags nutzen Sie die Busse ins Zentrum, um trocken zur Kirche zu gelangen. Das Denkmal liegt nur wenige Schritte von der Haltestelle entfernt.\nMittags bringt Sie der Bus näher ans Teleajen-Tal; der Bahnhof bietet Schutz vor Schauern. Nachmittags ist die Fahrt zum Bughea-Hügel-Aussichtspunkt entspannt, während Sie den Regen an den Fensterscheiben beobachten.\nDer Abend endet an der zentralen Haltestelle, wo Sie gut beleuchtet und geschützt auf Ihre Rückverbindung warten können.",
+            "hu": "A tömegközlekedés esős napokon a legokosabb választás Teișani-ban. Délelőtt a központba tartó buszokkal szárazon juthat el a templomhoz. Az emlékmű csak pár lépésre van a megállótól.\nDélben a busz közelebb viszi a Teleajen-völgyhöz; a vasútállomás védelmet nyújt a záporok elől. Délután a Bughea-dombi kilátóhoz vezető út pihentető, miközben az ablaküvegen lefolyó esőt figyeli.\nA nap a központi megállóban zárul, ahol jól megvilágított és védett helyen várhatja a csatlakozását.",
+            "ro": "Transportul public este cea mai înțeleaptă alegere în zilele ploioase în Teișani. Dimineața folosiți autobuzele spre centru pentru a ajunge la uscat la biserică. Monumentul este la doar câțiva pași de stație.\nLa prânz autobuzul vă aduce mai aproape de Valea Teleajenului; gara oferă protecție împotriva averselor. După-amiaza călătoria spre punctul de belvedere de pe dealul Bughea este relaxantă, privind ploaia pe geam.\nSeara se încheie la stația centrală, unde puteți aștepta legătura de întoarcere bine iluminat și protejat.",
+            "en": "Public transit is the smartest choice on rainy days in Teișani. In the morning, use buses to the center to reach the church dry. The monument is just a few steps from the stop.\nAt noon, the bus brings you closer to the Teleajen Valley; the train station offers shelter from showers. In the afternoon, the trip to the Bughea Hill viewpoint is relaxing as you watch the rain on the windowpanes.\nThe evening ends at the central stop, where you can wait for your return connection in a well-lit and sheltered spot."
+          },
+          "stops": [
+            {
+              "name": "Teișani Central Bus Stop",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist überdacht, bleiben Sie hier bei plötzlichem Starkregen.",
+                "hu": "A megálló fedett, hirtelen szakadó esőben maradjon itt.",
+                "ro": "Stația este acoperită, rămâneți aici în caz de ploaie torențială bruscă.",
+                "en": "The stop is covered; stay here during sudden heavy rain."
+              }
+            },
+            {
+              "name": "Saint Nicholas Church",
+              "tip_5lang": {
+                "de": "Vom Bus sind es nur 2 Minuten Fußweg zur Kirche.",
+                "hu": "A busztól mindössze 2 perc séta a templom.",
+                "ro": "De la autobuz sunt doar 2 minute de mers pe jos până la biserică.",
+                "en": "It's only a 2-minute walk from the bus to the church."
+              }
+            },
+            {
+              "name": "Heroes' Monument of Teișani",
+              "tip_5lang": {
+                "de": "Die Haltestelle direkt daneben hat einen kleinen Unterstand.",
+                "hu": "A közvetlenül mellette lévő megállónak van egy kis várója.",
+                "ro": "Stația de lângă are un mic adăpost.",
+                "en": "The stop right next to it has a small shelter."
+              }
+            },
+            {
+              "name": "Bus Stop near Teleajen Valley",
+              "tip_5lang": {
+                "de": "Der Weg zum Fluss ist bei Regen oft matschig, festes Schuhwerk nutzen.",
+                "hu": "A folyóhoz vezető út esőben gyakran sáros, használjon erős lábbelit.",
+                "ro": "Drumul spre râu este adesea noroios pe ploaie, folosiți încălțăminte solidă.",
+                "en": "The path to the river is often muddy in the rain; use sturdy footwear."
+              }
+            },
+            {
+              "name": "Teișani Forest",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Wald als natürlichen Regenschutz, aber achten Sie auf herabfallende Tropfen.",
+                "hu": "Használja az erdőt természetes esővédőként, de ügyeljen a lehulló cseppekre.",
+                "ro": "Folosiți pădurea ca protecție naturală contra ploii, dar atenție la picăturile care cad din copaci.",
+                "en": "Use the forest as natural rain protection, but watch out for falling drops."
+              }
+            },
+            {
+              "name": "Bughea Hill Viewpoint",
+              "tip_5lang": {
+                "de": "Der Bus hält direkt am Fuße des Aussichtspunkts.",
+                "hu": "A busz közvetlenül a kilátópont lábánál áll meg.",
+                "ro": "Autobuzul oprește chiar la baza punctului de belvedere.",
+                "en": "The bus stops right at the foot of the viewpoint."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrpläne können bei extremem Regen leicht variieren; nutzen Sie Online-Apps.",
+              "Die Züge zwischen Ploiești und Măneciu halten hier und sind sehr zuverlässig.",
+              "Halten Sie Kleingeld für den Busfahrer bereit, wenn Sie keine Karte haben.",
+              "Die Busse sind im Herbst und Winter oft gut beheizt."
+            ],
+            "hu": [
+              "A menetrendek extrém esőben kissé eltérhetnek; használjon online appokat.",
+              "A Ploiești és Măneciu közötti vonatok itt is megállnak, és nagyon megbízhatóak.",
+              "Legyen kéznél aprópénz a buszsofőrnek, ha nincs bérlete.",
+              "A buszok ősszel és télen gyakran jól fűtöttek."
+            ],
+            "ro": [
+              "Orarele pot varia ușor în caz de ploaie extremă; folosiți aplicații online.",
+              "Trenurile între Ploiești și Măneciu opresc aici și sunt foarte fiabile.",
+              "Aveți bani mărunți pregătiți pentru șofer, dacă nu aveți card.",
+              "Autobuzele sunt adesea bine încălzite toamna și iarna."
+            ],
+            "en": [
+              "Schedules may vary slightly in extreme rain; use online apps.",
+              "Trains between Ploiești and Măneciu stop here and are very reliable.",
+              "Have small change ready for the bus driver if you don't have a card.",
+              "Buses are often well-heated in autumn and winter."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Mit dem Transit durch das winterliche Teișani zu reisen, ist gemütlich und sicher. Vormittags bringen Sie beheizte Busse ins Zentrum zur Kirche. Der Blick aus dem Zugfenster auf die verschneite Prahova-Landschaft ist unbezahlbar.\nMittags ist der Bahnhof Teișani ein historischer und warmer Knotenpunkt. Nachmittags führt die Tour zum Bughea-Hügel, wobei der Bus Sie direkt zum Aussichtspunkt bringt, ohne dass Sie im Tiefschnee wandern müssen.\nDa es früh dunkelt, bietet die Fahrt im beleuchteten Bus zurück eine schöne Atmosphäre, um die traditionellen Häuser im Schnee zu betrachten.",
+            "hu": "A téli Teișani-ban tömegközlekedéssel utazni kényelmes és biztonságos. Délelőtt fűtött buszok viszik a központba a templomhoz. A vonatablakból nyíló kilátás a havas Prahova-tájra megfizethetetlen.\nDélben a Teișani vasútállomás történelmi és meleg csomópont. Délután a túra a Bughea-dombhoz vezet, a busz közvetlenül a kilátóhoz viszi, így nem kell a mély hóban gyalogolnia.\nMivel korán sötétedik, a kivilágított buszon való visszautazás szép atmoszférát teremt a havas hagyományos házak megtekintéséhez.",
+            "ro": "Călătoria cu transportul public prin Teișani-ul hibernal este confortabilă și sigură. Dimineața, autobuzele încălzite vă duc în centru la biserică. Vederea de pe geamul trenului spre peisajul înzăpezit al Prahovei este de neprețuit.\nLa prânz, gara Teișani este un nod istoric și călduros. După-amiaza turul duce spre dealul Bughea, autobuzul lăsându-vă chiar la punctul de belvedere, fără a fi nevoie să mergeți prin zăpadă adâncă.\nDeoarece se întunecă devreme, călătoria cu autobuzul iluminat înapoi oferă o atmosferă frumoasă pentru a observa casele tradiționale în zăpadă.",
+            "en": "Traveling by transit through wintery Teișani is cozy and safe. In the morning, heated buses take you to the center for the church. The view from the train window of the snowy Prahova landscape is priceless.\nAt noon, Teișani train station is a historical and warm hub. In the afternoon, the tour leads to Bughea Hill, with the bus taking you directly to the viewpoint without having to trek through deep snow.\nSince it gets dark early, the ride back in the lit bus provides a lovely atmosphere to view the traditional houses in the snow."
+          },
+          "stops": [
+            {
+              "name": "Teișani Central Bus Stop",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenem Matsch beim Ein- und Aussteigen.",
+                "hu": "Vigyázzon a fagyott hókására fel- és leszálláskor.",
+                "ro": "Atenție la zăpada înghețată la urcare și coborâre.",
+                "en": "Watch out for frozen slush when getting on and off."
+              }
+            },
+            {
+              "name": "Saint Nicholas Church",
+              "tip_5lang": {
+                "de": "Die Wege von der Haltestelle sind meist gut gestreut.",
+                "hu": "A megállótól vezető utak általában jól szórtak.",
+                "ro": "Căile de acces de la stație sunt de obicei bine dezhidratate/presărate cu sare.",
+                "en": "The paths from the stop are usually well-salted."
+              }
+            },
+            {
+              "name": "Heroes' Monument of Teișani",
+              "tip_5lang": {
+                "de": "Bleiben Sie bei Wind im Wartehäuschen, bis der Bus kommt.",
+                "hu": "Szeles időben maradjon a váróban, amíg megjön a busz.",
+                "ro": "Rămâneți în stație în caz de vânt până când vine autobuzul.",
+                "en": "Stay in the shelter during wind until the bus arrives."
+              }
+            },
+            {
+              "name": "Bus Stop near Teleajen Valley",
+              "tip_5lang": {
+                "de": "Im Winter ist der Zugang zum Tal oft vereist; die Aussicht vom Bus aus ist sicherer.",
+                "hu": "Télen a völgybe vezető út gyakran jeges; a kilátás a buszból biztonságosabb.",
+                "ro": "Iarna accesul spre vale este adesea înghețat; vederea din autobuz este mai sigură.",
+                "en": "In winter, valley access is often icy; the view from the bus is safer."
+              }
+            },
+            {
+              "name": "Teișani Forest",
+              "tip_5lang": {
+                "de": "Der Bus fährt direkt am Waldrand entlang, ideal für Winterfotos.",
+                "hu": "A busz közvetlenül az erdőszél mentén halad, ideális téli fotókhoz.",
+                "ro": "Autobuzul trece chiar pe la marginea pădurii, ideal pentru poze de iarnă.",
+                "en": "The bus runs directly along the forest edge, ideal for winter photos."
+              }
+            },
+            {
+              "name": "Bughea Hill Viewpoint",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Rückfahrplan, im Winter fahren abends weniger Busse.",
+                "hu": "Ellenőrizze a visszautat, télen este kevesebb busz jár.",
+                "ro": "Verificați programul de întoarcere, iarna circulă mai puține autobuze seara.",
+                "en": "Check the return schedule; fewer buses run in the evening during winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Züge haben im Winter oft eine bessere Heizung als die regionalen Busse.",
+              "Tragen Sie Schuhe mit gutem Profil, die Stufen der Busse können rutschig sein.",
+              "Die Sonne geht früh unter; planen Sie Ihre Rückfahrt vor 17:00 Uhr.",
+              "Haltestellen in höheren Lagen können starkem Wind ausgesetzt sein."
+            ],
+            "hu": [
+              "A vonatok télen gyakran jobb fűtéssel rendelkeznek, mint a regionális buszok.",
+              "Viseljen jó profilú cipőt, a buszok lépcsői csúszósak lehetnek.",
+              "A nap korán nyugszik; tervezze a visszautat 17:00 óra előttre.",
+              "A magasabban fekvő megállók erős szélnek lehetnek kitéve."
+            ],
+            "ro": [
+              "Trenurile au adesea o încălzire mai bună iarna decât autobuzele regionale.",
+              "Purtați încălțăminte cu profil bun, treptele autobuzelor pot fi alunecoase.",
+              "Soarele apune devreme; planificați întoarcerea înainte de ora 17:00.",
+              "Stațiile din zonele mai înalte pot fi expuse vântului puternic."
+            ],
+            "en": [
+              "Trains often have better heating in winter than regional buses.",
+              "Wear shoes with good tread; bus steps can be slippery.",
+              "The sun sets early; plan your return before 5:00 PM.",
+              "Stops at higher elevations can be exposed to strong winds."
+            ]
+          }
+        }
       }
     }
   }

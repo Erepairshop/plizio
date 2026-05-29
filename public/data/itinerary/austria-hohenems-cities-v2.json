@@ -260,6 +260,196 @@
           "Wear comfortable shoes as the city center is compact and ideal for walking.",
           "Many museums are closed on Mondays, so plan accordingly."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein verregneter Morgen im Jüdischen Viertel beginnt gemütlich unter den Dachvorsprüngen der historischen Häuser. Mittags bietet das Jüdische Museum einen idealen, trockenen Rückzugsort mit tiefgründiger Geschichte. Am Nachmittag führt der Weg kurz durch den Regen zum Palast und in die prunkvolle Pfarrkirche. Der Tag endet im Stoffels Säge-Mühle Museum, wo die überdachten Bereiche Schutz bieten, während man der Kraft des Wassers lauscht.",
+            "hu": "Az esős reggel a Zsidó negyed történelmi házainak ereszei alatt kezdődik. Délben a Zsidó Múzeum tökéletes száraz menedéket nyújt mély történelmi tartalommal. Délután egy rövid esős séta után a Palotát és a pompás plébániatemplomot látogatjuk meg. A nap a Stoffel-féle fűrészmalomban zárul, ahol a fedett részek védelmet nyújtanak, miközben a víz erejét figyeljük a zuhogó esőben is.",
+            "ro": "O dimineață ploioasă în Cartierul Evreiesc începe confortabil sub streșinile caselor istorice. La prânz, Muzeul Evreiesc oferă un refugiu uscat ideal, cu o istorie profundă. După-amiaza, drumul duce scurt prin ploaie către Palat și biserica parohială somptuoasă. Ziua se încheie la Muzeul Gaterului lui Stoffel, unde zonele acoperite oferă protecție în timp ce ascultați forța apei.",
+            "en": "A rainy morning in the Jewish Quarter begins cozily under the eaves of historic houses. At noon, the Jewish Museum provides an ideal dry retreat with profound history. In the afternoon, a short walk through the rain leads to the Palace and the magnificent parish church. The day ends at Stoffel's Saw-Mill Museum, where covered areas offer protection while you listen to the power of the water."
+          },
+          "stops": [
+            {
+              "name": "Jewish Quarter",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden und Dachvorsprünge zum Unterstellen.",
+                "hu": "Használja az árkádokat és az ereszeket az eső elleni védekezéshez.",
+                "ro": "Folosiți arcadele și streșinile pentru a vă adăposti.",
+                "en": "Use the arcades and eaves to shelter from the rain."
+              }
+            },
+            {
+              "name": "Jewish Museum Hohenems",
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um die stärksten Regenschauer im Trockenen zu verbringen.",
+                "hu": "Tökéletes hely, hogy a legnagyobb felhőszakadást szárazon vészeljük át.",
+                "ro": "Un loc perfect pentru a petrece cele mai puternice averse la adăpost.",
+                "en": "A perfect place to spend the heaviest rain showers in the dry."
+              }
+            },
+            {
+              "name": "Salomon Sulzer Hall",
+              "tip_5lang": {
+                "de": "Kurzer Stopp unter dem Vordach, um die Architektur zu bewundern.",
+                "hu": "Rövid megálló az előtető alatt, az építészet megcsodálására.",
+                "ro": "Scurtă oprire sub copertină pentru a admira arhitectura.",
+                "en": "Short stop under the canopy to admire the architecture."
+              }
+            },
+            {
+              "name": "Hohenems Palace",
+              "tip_5lang": {
+                "de": "Besichtigung der Innenräume ist bei Regen sehr zu empfehlen.",
+                "hu": "Az esőben kifejezetten ajánlott a belső terek megtekintése.",
+                "ro": "Vizitarea interiorului este foarte recomandată pe timp de ploaie.",
+                "en": "Visiting the interiors is highly recommended when it rains."
+              }
+            },
+            {
+              "name": "Parish Church of St. Charles Borromeo",
+              "tip_5lang": {
+                "de": "Stille und Trockenheit im prunkvollen Innenraum genießen.",
+                "hu": "Élvezze a csendet és a szárazságot a pompás belső térben.",
+                "ro": "Bucurați-vă de liniște și uscăciune în interiorul somptuos.",
+                "en": "Enjoy the silence and dryness in the magnificent interior."
+              }
+            },
+            {
+              "name": "Stoffel's Saw-Mill",
+              "tip_5lang": {
+                "de": "Festes Schuhwerk für die teils unbefestigten Wege zwischen den Hallen.",
+                "hu": "Zárt cipő ajánlott a csarnokok közötti, néhol nem aszfaltozott utakhoz.",
+                "ro": "Încălțăminte robustă pentru potecile parțial neasfaltate dintre hale.",
+                "en": "Sturdy footwear for the partly unpaved paths between the halls."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Innenstadt ist kompakt, Regenschirme können in Museen abgegeben werden.",
+              "Das Jüdische Museum hat ein gemütliches Café für eine Pause.",
+              "Vorsicht auf dem Kopfsteinpflaster im Jüdischen Viertel, es wird rutschig.",
+              "Stoffels Sägemühle ist teilweise im Freien, Regenjacke ist Pflicht.",
+              "Warme Getränke gibt es in den Cafés rund um den Schloßplatz."
+            ],
+            "hu": [
+              "A belváros kompakt, az esernyők a múzeumokban leadhatók.",
+              "A Zsidó Múzeumban hangulatos kávézó várja a megpihenni vágyókat.",
+              "Vigyázat a Zsidó negyed macskaköveivel, esőben csúszósak lehetnek.",
+              "A Stoffel fűrészmalom részben szabadtéri, esőkabát kötelező.",
+              "Meleg italokat a Schloßplatz körüli kávézókban találhatunk."
+            ],
+            "ro": [
+              "Centrul orașului este compact, umbrelele pot fi lăsate la muzee.",
+              "Muzeul Evreiesc are o cafenea primitoare pentru o pauză.",
+              "Atenție la pavajul din Cartierul Evreiesc, devine alunecos.",
+              "Gaterul lui Stoffel este parțial în aer liber, pelerina de ploaie este obligatorie.",
+              "Băuturi calde găsiți în cafenelele din jurul pieței Schloßplatz."
+            ],
+            "en": [
+              "The town center is compact; umbrellas can be left at the museums.",
+              "The Jewish Museum has a cozy café for a warm break.",
+              "Watch out on the cobblestones in the Jewish Quarter, they get slippery.",
+              "Stoffel's Saw-Mill is partially outdoors; a raincoat is mandatory.",
+              "Warm drinks are available in the cafés around Schloßplatz."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen taucht das Jüdische Viertel in eine stille, frostige Atmosphäre. Mittags wärmt man sich bei einer ausführlichen Tour durch das Jüdische Museum auf. Am Nachmittag glitzert der Schnee auf dem Palastvorplatz, bevor man in die wohlig warme Pfarrkirche einkehrt. Da es bereits um 16:30 Uhr dunkel wird, bietet der Besuch bei Stoffels Säge-Mühle einen stimmungsvollen Abschluss des Tages im winterlichen Vorarlberg.",
+            "hu": "A téli reggel csendes, deres hangulatba burkolja a Zsidó negyedet. Délben a Zsidó Múzeumban melegszünk fel egy alapos tárlatvezetés során. Délután a hó csillog a Palota előtti téren, mielőtt betérnénk a kellemesen meleg plébániatemplomba. Mivel 16:30-kor sötétedik, a Stoffel-féle fűrészmalom látogatása hangulatos zárása a napnak a téli Vorarlbergben.",
+            "ro": "Dimineața de iarnă scufundă Cartierul Evreiesc într-o atmosferă liniștită și geroasă. La prânz, vă încălziți în timpul unui tur detaliat al Muzeului Evreiesc. După-amiaza, zăpada strălucește în fața Palatului, înainte de a intra în biserica parohială călduroasă. Deoarece se întunecă deja la ora 16:30, vizita la Gaterul lui Stoffel oferă o încheiere atmosferică a zilei în Vorarlbergul hibernal.",
+            "en": "The winter morning immerses the Jewish Quarter in a quiet, frosty atmosphere. At noon, warm up during an extensive tour of the Jewish Museum. In the afternoon, snow glistens on the Palace square before you enter the pleasantly warm parish church. Since it gets dark by 4:30 PM, the visit to Stoffel's Saw-Mill provides an atmospheric conclusion to the day in wintry Vorarlberg."
+          },
+          "stops": [
+            {
+              "name": "Jewish Quarter",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf den alten Pflastersteinen.",
+                "hu": "Vigyázzon a jegesedésre a régi macskaköveken.",
+                "ro": "Atenție la polei pe pavajul vechi.",
+                "en": "Watch out for black ice on the old cobblestones."
+              }
+            },
+            {
+              "name": "Jewish Museum Hohenems",
+              "tip_5lang": {
+                "de": "Perfekte Gelegenheit, sich zwischendurch aufzuwärmen.",
+                "hu": "Tökéletes alkalom a napközbeni felmelegedésre.",
+                "ro": "Oportunitate perfectă pentru a vă încălzi între timp.",
+                "en": "Perfect opportunity to warm up in between stops."
+              }
+            },
+            {
+              "name": "Salomon Sulzer Hall",
+              "tip_5lang": {
+                "de": "Die Fassade wirkt im weichen Winterlicht besonders edel.",
+                "hu": "A homlokzat a lágy téli fényben különösen előkelőnek hat.",
+                "ro": "Fațada arată deosebit de elegant în lumina blândă de iarnă.",
+                "en": "The facade looks particularly elegant in the soft winter light."
+              }
+            },
+            {
+              "name": "Hohenems Palace",
+              "tip_5lang": {
+                "de": "Der Schloßplatz ist oft festlich beleuchtet.",
+                "hu": "A Schloßplatz gyakran ünnepi díszkivilágítást kap.",
+                "ro": "Piața Palatului este adesea iluminată festiv.",
+                "en": "The Palace square is often festively illuminated."
+              }
+            },
+            {
+              "name": "Parish Church of St. Charles Borromeo",
+              "tip_5lang": {
+                "de": "Ein Ort der Ruhe, oft mit einer schönen Krippe im Dezember.",
+                "hu": "A nyugalom helye, decemberben gyakran szép betlehemmel.",
+                "ro": "Un loc de liniște, adesea cu o iesle frumoasă în decembrie.",
+                "en": "A place of peace, often with a beautiful nativity scene in December."
+              }
+            },
+            {
+              "name": "Stoffel's Saw-Mill",
+              "tip_5lang": {
+                "de": "Warme Kleidung wichtig, da einige Ausstellungen unbeheizt sind.",
+                "hu": "Meleg ruházat fontos, mivel néhány kiállítótér fűtetlen.",
+                "ro": "Îmbrăcămintea groasă este importantă, unele spații fiind neîncălzite.",
+                "en": "Warm clothing is important as some exhibition areas are unheated."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht früh unter, planen Sie Außenaktivitäten vor 16:00 Uhr.",
+              "Warme Schuhe mit gutem Profil sind für Schnee und Matsch nötig.",
+              "Genießen Sie österreichische Winterspezialitäten in den Gasthöfen.",
+              "Die Museen sind gut geheizt und bieten Garderoben an.",
+              "Die Wege zur Sägemühle können bei Schneefall rutschig sein."
+            ],
+            "hu": [
+              "A nap korán nyugszik, a szabadtéri programokat tervezze 16:00 előttre.",
+              "Meleg, jó tapadású talpú cipő szükséges a hóhoz és latyakhoz.",
+              "Kóstolja meg az osztrák téli specialitásokat a helyi vendéglőkben.",
+              "A múzeumok jól fűtöttek és ruhatárral rendelkeznek.",
+              "A fűrészmalomhoz vezető utak havazáskor csúszósak lehetnek."
+            ],
+            "ro": [
+              "Soarele apune devreme, planificați activitățile în aer liber înainte de 16:00.",
+              "Încălțămintea groasă cu aderență bună este necesară pentru zăpadă și noroi.",
+              "Savurați specialitățile austriece de iarnă în hanurile locale.",
+              "Muzeele sunt bine încălzite și oferă garderobe.",
+              "Drumurile către gater pot fi alunecoase în caz de ninsoare."
+            ],
+            "en": [
+              "The sun sets early; plan outdoor activities before 4:00 PM.",
+              "Warm shoes with good grip are necessary for snow and slush.",
+              "Enjoy Austrian winter specialties in the local inns.",
+              "The museums are well-heated and offer cloakrooms.",
+              "The paths to the saw-mill can be slippery during snowfall."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -514,6 +704,196 @@
           "Take advantage of the well-developed cycle path network in the Rhine Valley.",
           "A bicycle lock is essential for visiting the sights without worry."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen bietet die Radtour durch Hohenems ihren Reiz. Vormittags radeln wir geschützt zum Palast, gefolgt von einem langen, trockenen Stopp im Jüdischen Viertel. Mittags bietet die Kirche Unterschlupf. Die Fahrt zum Stoffels Sägewerk und weiter zum Schloß Glopper erfordert gute Regenbekleidung. Der Abschluss am Rheinufer zeigt die Natur in einer rauen, wasserreichen Stimmung, bevor wir den Rückweg antreten.",
+            "hu": "Az eső ellenére a Hohenems-i kerékpártúra tartogat érdekességeket. Délelőtt a Palotához tekerünk, majd hosszú, száraz pihenőt tartunk a Zsidó negyedben. Délben a templom nyújt menedéket. A Stoffel fűrészmalomhoz és a Glopper kastélyhoz vezető út jó esőruházatot igényel. A Rajna-parti zárás a természet vadabb, vizes arcát mutatja meg, mielőtt visszaindulnánk.",
+            "ro": "În ciuda ploii, turul cu bicicleta prin Hohenems are farmecul său. Dimineața pedalăm protejați către Palat, urmat de o oprire lungă și uscată în Cartierul Evreiesc. La prânz, biserica oferă adăpost. Drumul către Gaterul lui Stoffel și mai departe spre Castelul Glopper necesită echipament de ploaie bun. Încheierea pe malul Rinului arată natura într-o stare brută, plină de apă, înainte de drumul de întoarcere.",
+            "en": "Despite the rain, the bike tour through Hohenems has its charm. In the morning, we cycle protected to the Palace, followed by a long, dry stop in the Jewish Quarter. At noon, the church provides shelter. The ride to Stoffel's Saw-Mill and on to Glopper Castle requires good rain gear. The conclusion on the Rhine riverbank shows nature in a raw, water-rich mood before we head back."
+          },
+          "stops": [
+            {
+              "name": "Hohenems Palace",
+              "tip_5lang": {
+                "de": "Fahrradständer sind direkt beim Schloßplatz vorhanden.",
+                "hu": "Kerékpártárolók közvetlenül a Schloßplatzon találhatók.",
+                "ro": "Există rastele de biciclete direct în piața Schloßplatz.",
+                "en": "Bike racks are available directly at Schloßplatz."
+              }
+            },
+            {
+              "name": "Jewish Quarter & Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch, um Kleidung zu trocknen.",
+                "hu": "Használja ki a múzeumlátogatást a ruházat megszárítására.",
+                "ro": "Folosiți vizita la muzeu pentru a vă usca hainele.",
+                "en": "Use the museum visit as an opportunity to dry your clothes."
+              }
+            },
+            {
+              "name": "Parish Church of St. Charles Borromeo",
+              "tip_5lang": {
+                "de": "Kurze Aufwärmpause im trockenen Kirchenschiff.",
+                "hu": "Rövid melegedő pihenő a száraz templomhajóban.",
+                "ro": "Scurtă pauză de încălzire în nava uscată a bisericii.",
+                "en": "Short warm-up break in the dry church nave."
+              }
+            },
+            {
+              "name": "Stoffel's Saw-Mill",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem Radweg, Laub und Nässe machen ihn rutschig.",
+                "hu": "Vigyázat a kerékpárúton, a levelek és a víz csúszóssá teszik.",
+                "ro": "Atenție pe pista de biciclete, frunzele și umezeala o fac alunecoasă.",
+                "en": "Be careful on the bike path; leaves and wetness make it slippery."
+              }
+            },
+            {
+              "name": "Glopper Castle",
+              "tip_5lang": {
+                "de": "Der Anstieg ist bei Nässe anstrengender, aber asphaltiert.",
+                "hu": "Az emelkedő esőben fárasztóbb, de végig aszfaltozott.",
+                "ro": "Urcarea este mai obositoare pe umezeală, dar este asfaltată.",
+                "en": "The climb is more strenuous in the wet, but it is paved."
+              }
+            },
+            {
+              "name": "Rhine Riverbank",
+              "tip_5lang": {
+                "de": "Vermeiden Sie unbefestigte Uferwege bei starkem Regen.",
+                "hu": "Erős esőben kerülje a nem aszfaltozott parti utakat.",
+                "ro": "Evitați potecile neasfaltate de pe mal în caz de ploaie torențială.",
+                "en": "Avoid unpaved riverbank paths during heavy rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vollständige Regenmontur inklusive Überschuhen ist ratsam.",
+              "Prüfen Sie Ihre Bremsen, da der Bremsweg bei Nässe länger ist.",
+              "Die Radwege im Rheintal sind flach und sehr gut ausgebaut.",
+              "Beleuchtung am Rad ist auch tagsüber bei Regen wichtig.",
+              "Suchen Sie bei Gewitter sofort festen Unterschlupf."
+            ],
+            "hu": [
+              "Teljes esőfelszerelés, beleértve a kamáslit is, ajánlott.",
+              "Ellenőrizze a fékeket, mert vizes úton hosszabb a féktáv.",
+              "A Rajna-völgy kerékpárútjai síkok és kiváló minőségűek.",
+              "Esőben nappal is fontos a kerékpár világítása.",
+              "Vihar esetén azonnal keressen szilárd menedéket."
+            ],
+            "ro": [
+              "Se recomandă echipament complet de ploaie, inclusiv protecții pentru pantofi.",
+              "Verificați frânele, deoarece distanța de frânare este mai mare pe ud.",
+              "Pistele de biciclete din Valea Rinului sunt plate și foarte bine amenajate.",
+              "Iluminarea bicicletei este importantă și ziua pe timp de ploaie.",
+              "În caz de furtună, căutați imediat un adăpost solid."
+            ],
+            "en": [
+              "Full rain gear including shoe covers is advisable.",
+              "Check your brakes, as the braking distance is longer in the wet.",
+              "The bike paths in the Rhine Valley are flat and very well developed.",
+              "Bike lights are important even during the day when it rains.",
+              "Seek solid shelter immediately in case of a thunderstorm."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in Hohenems erfordert warme Schichten. Der Morgen beginnt am Palast, bevor es zum Aufwärmen ins Museum geht. Die kühle Luft belebt auf dem Weg zur Pfarrkirche und weiter zur Sägemühle. Der Anstieg zum Schloß Glopper bietet eine fantastische Aussicht auf das verschneite Rheintal. Zum Abschluss erreichen wir das Rheinufer, wo der frostige Wind weht, bevor wir die Tour pünktlich vor Einbruch der Dunkelheit beenden.",
+            "hu": "A téli kerékpározás Hohenemsben réteges öltözködést igényel. A reggel a Palotánál indul, majd a múzeumban melegszünk fel. A hűvös levegő élénkítően hat a plébániatemplom és a fűrészmalom felé vezető úton. A Glopper kastélyhoz vezető emelkedő fantasztikus kilátást nyújt a havas Rajna-völgyre. Végül elérjük a Rajna-partot, ahol fagyos szél fúj, mielőtt még sötétedés előtt befejeznénk a túrát.",
+            "ro": "Mersul cu bicicleta iarna în Hohenems necesită straturi groase. Dimineața începe la Palat, înainte de a merge la muzeu pentru încălzire. Aerul rece este revigorant în drum spre biserica parohială și mai departe spre gater. Urcarea spre Castelul Glopper oferă o vedere fantastică asupra Văii Rinului înzăpezite. La final, ajungem pe malul Rinului, unde bate vântul înghețat, înainte de a termina turul fix înainte de lăsarea întunericului.",
+            "en": "Winter cycling in Hohenems requires warm layers. The morning starts at the Palace before heading to the museum to warm up. The cool air is invigorating on the way to the parish church and on to the saw-mill. The climb to Glopper Castle offers a fantastic view of the snowy Rhine Valley. Finally, we reach the Rhine riverbank, where the frosty wind blows, before finishing the tour just before dark."
+          },
+          "stops": [
+            {
+              "name": "Hohenems Palace",
+              "tip_5lang": {
+                "de": "Vorsicht bei Schnee auf dem gepflasterten Vorplatz.",
+                "hu": "Vigyázzon a hóval a kövezett előtéren.",
+                "ro": "Atenție la zăpadă pe pavajul din fața palatului.",
+                "en": "Be careful with snow on the paved forecourt."
+              }
+            },
+            {
+              "name": "Jewish Quarter & Museum",
+              "tip_5lang": {
+                "de": "Parken Sie das Rad sicher und wärmen Sie sich im Museum auf.",
+                "hu": "Parkolja le biztonságosan a biciklit, és melegedjen fel a múzeumban.",
+                "ro": "Parcați bicicleta în siguranță și încălziți-vă în muzeu.",
+                "en": "Park the bike safely and warm up in the museum."
+              }
+            },
+            {
+              "name": "Parish Church of St. Charles Borromeo",
+              "tip_5lang": {
+                "de": "Ein kurzer Moment der Stille in der warmen Kirche.",
+                "hu": "Egy rövid csendes pillanat a meleg templomban.",
+                "ro": "Un scurt moment de liniște în biserica caldă.",
+                "en": "A short moment of silence in the warm church."
+              }
+            },
+            {
+              "name": "Stoffel's Saw-Mill",
+              "tip_5lang": {
+                "de": "Der Weg hierher kann im Winter vereist sein.",
+                "hu": "Az idevezető út télen jeges lehet.",
+                "ro": "Drumul până aici poate fi înghețat iarna.",
+                "en": "The path here can be icy in winter."
+              }
+            },
+            {
+              "name": "Glopper Castle",
+              "tip_5lang": {
+                "de": "Der Bergaufweg hält Sie warm, genießen Sie den Fernblick.",
+                "hu": "A felfelé vezető út melegen tartja, élvezze a távoli kilátást.",
+                "ro": "Urcușul vă va ține de cald, bucurați-vă de priveliște.",
+                "en": "The uphill path will keep you warm; enjoy the distant view."
+              }
+            },
+            {
+              "name": "Rhine Riverbank",
+              "tip_5lang": {
+                "de": "Winddichte Kleidung ist hier am offenen Ufer entscheidend.",
+                "hu": "A szélálló ruházat itt a nyitott parton döntő fontosságú.",
+                "ro": "Îmbrăcămintea rezistentă la vânt este crucială aici, pe malul deschis.",
+                "en": "Windproof clothing is crucial here on the open riverbank."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermounterwäsche und winddichte Handschuhe.",
+              "Der Akku von E-Bikes entlädt sich bei Kälte schneller.",
+              "Achten Sie auf Streusalz, das die Kette angreifen kann.",
+              "Da es um 17:00 Uhr dunkel ist, ist gute Beleuchtung Pflicht.",
+              "Planen Sie mehr Zeit ein, da man im Winter langsamer fährt."
+            ],
+            "hu": [
+              "Viseljen termikus aláöltözetet és szélálló kesztyűt.",
+              "Az elektromos kerékpárok akkumulátora hidegben gyorsabban merül.",
+              "Ügyeljen az útszóró sóra, amely kikezdheti a láncot.",
+              "Mivel 17:00-kor sötétedik, a jó világítás kötelező.",
+              "Tervezzen több időt, mert télen lassabban halad az ember."
+            ],
+            "ro": [
+              "Purtați lenjerie termică și mănuși rezistente la vânt.",
+              "Bateria bicicletelor electrice se descarcă mai repede la frig.",
+              "Atenție la sarea de pe drum, care poate afecta lanțul.",
+              "Deoarece se întunecă la ora 17:00, iluminarea bună este obligatorie.",
+              "Planificați mai mult timp, deoarece iarna se merge mai încet."
+            ],
+            "en": [
+              "Wear thermal underwear and windproof gloves.",
+              "E-bike batteries discharge faster in the cold.",
+              "Watch out for road salt, which can corrode the chain.",
+              "Since it's dark by 5:00 PM, good lighting is mandatory.",
+              "Plan more time, as cycling is slower in winter."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -798,6 +1178,214 @@
           "Check parking options in advance. There are paid short-term parking zones in the center.",
           "Combine the trip with a visit to Dornbirn or Feldkirch."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden wir Hohenems heute bequem und trocken. Wir starten bei den Ruinen von Alt-Ems, wo der Regen eine mystische Atmosphäre schafft. Danach geht es zum Schloß Glopper und ins Stadtzentrum. Das Parken im Zentrum ermöglicht einen kurzen Weg zum Palast und zum Jüdischen Viertel. Der Nachmittag gehört dem Jüdischen Museum, dem perfekten Ort für Regentage, bevor wir den Tag an der Pfarrkirche abschließen.",
+            "hu": "Autóval kényelmesen és szárazon fedezzük fel ma Hohenemset. Az Alt-Ems várromnál kezdünk, ahol az eső misztikus hangulatot áraszt. Ezután a Glopper kastély és a városközpont következik. A központi parkolás rövid utat tesz lehetővé a Palotához és a Zsidó negyedhez. A délután a Zsidó Múzeumé, amely tökéletes hely esős napokra, mielőtt a plébániatemplomnál zárnánk a napot.",
+            "ro": "Cu mașina explorăm astăzi Hohenems confortabil și la uscat. Începem la ruinele Alt-Ems, unde ploaia creează o atmosferă mistică. Apoi mergem la Castelul Glopper și în centrul orașului. Parcarea în centru permite un drum scurt către Palat și Cartierul Evreiesc. După-amiaza aparține Muzeului Evreiesc, locul perfect pentru zilele ploioase, înainte de a încheia ziua la biserica parohială.",
+            "en": "By car, we explore Hohenems comfortably and dry today. We start at the ruins of Alt-Ems, where the rain creates a mystical atmosphere. Then it's off to Glopper Castle and the town center. Parking downtown allows for a short walk to the Palace and the Jewish Quarter. The afternoon is dedicated to the Jewish Museum, the perfect spot for rainy days, before we end the day at the parish church."
+          },
+          "stops": [
+            {
+              "name": "Alt-Ems Castle Ruins",
+              "tip_5lang": {
+                "de": "Parkplatz ist vorhanden, der kurze Fußweg zur Ruine kann rutschig sein.",
+                "hu": "Parkoló van, a romhoz vezető rövid gyalogút csúszós lehet.",
+                "ro": "Există parcare, scurta plimbare spre ruine poate fi alunecoasă.",
+                "en": "Parking is available; the short walk to the ruins can be slippery."
+              }
+            },
+            {
+              "name": "Glopper Castle",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp vom Auto aus möglich.",
+                "hu": "Rövid fotómegálló az autóból is lehetséges.",
+                "ro": "Scurtă oprire pentru poze posibilă chiar din mașină.",
+                "en": "Short photo stop possible from the car."
+              }
+            },
+            {
+              "name": "Parking Downtown",
+              "tip_5lang": {
+                "de": "Zentraler Tiefgaragenparkplatz hält das Auto trocken.",
+                "hu": "A központi mélygarázs szárazon tartja az autót.",
+                "ro": "Parcarea subterană centrală menține mașina uscată.",
+                "en": "Central underground parking keeps the car dry."
+              }
+            },
+            {
+              "name": "Hohenems Palace",
+              "tip_5lang": {
+                "de": "Nur wenige Schritte vom Parkplatz entfernt.",
+                "hu": "Csak pár lépésre található a parkolótól.",
+                "ro": "La doar câțiva pași de parcare.",
+                "en": "Just a few steps away from the parking lot."
+              }
+            },
+            {
+              "name": "Jewish Quarter",
+              "tip_5lang": {
+                "de": "Ideal für einen kurzen Spaziergang zwischen den Regenschauern.",
+                "hu": "Ideális egy rövid sétára két zápor között.",
+                "ro": "Ideal pentru o scurtă plimbare între averse.",
+                "en": "Ideal for a short walk between rain showers."
+              }
+            },
+            {
+              "name": "Jewish Museum Hohenems",
+              "tip_5lang": {
+                "de": "Planen Sie hier bei starkem Regen mehr Zeit ein.",
+                "hu": "Erős eső esetén tervezzen ide több időt.",
+                "ro": "Planificați mai mult timp aici în caz de ploaie torențială.",
+                "en": "Plan more time here during heavy rain."
+              }
+            },
+            {
+              "name": "Parish Church of St. Charles Borromeo",
+              "tip_5lang": {
+                "de": "Direkte Zufahrt fast bis vor das Portal möglich.",
+                "hu": "Közvetlen behajtás szinte a bejáratig lehetséges.",
+                "ro": "Acces auto direct posibil aproape până în fața portalului.",
+                "en": "Direct access by car almost to the entrance is possible."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Parkgarage im Zentrum für stressfreies Parken.",
+              "Die Straßen zu den Ruinen sind schmal, fahren Sie vorsichtig.",
+              "Haben Sie immer einen Regenschirm für die Wege vom Auto bereit.",
+              "Im Stadtzentrum gibt es Kurzparkzonen, beachten Sie die Zeit.",
+              "Das Auto ist ideal, um zwischen den verstreuten Sehenswürdigkeiten zu wechseln."
+            ],
+            "hu": [
+              "Használja a központi parkolóházat a stresszmentes parkoláshoz.",
+              "A romokhoz vezető utak szűkek, vezessen óvatosan.",
+              "Mindig legyen kéznél esernyő az autótól a látnivalókig.",
+              "A városközpontban rövid távú parkolási zónák vannak, figyelje az időt.",
+              "Az autó ideális a távolabb eső látnivalók közötti váltáshoz."
+            ],
+            "ro": [
+              "Folosiți parcarea supraetajată din centru pentru o parcare fără stres.",
+              "Drumurile către ruine sunt înguste, conduceți cu prudență.",
+              "Aveți întotdeauna o umbrelă pregătită pentru drumul de la mașină.",
+              "În centrul orașului există zone de parcare de scurtă durată, atenție la timp.",
+              "Mașina este ideală pentru a vă deplasa între obiectivele împrăștiate."
+            ],
+            "en": [
+              "Use the central parking garage for stress-free parking.",
+              "The roads to the ruins are narrow; drive carefully.",
+              "Always have an umbrella ready for the walk from the car.",
+              "There are short-term parking zones in the town center; watch the time.",
+              "A car is ideal for switching between the scattered sights."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Fahrt durch Hohenems führt uns zuerst hinauf zur Ruine Alt-Ems, die oft in mystischen Nebel oder Schnee gehüllt ist. Nach einem kurzen Stopp am Schloß Glopper parken wir im warmen Stadtzentrum. Der Besuch im Jüdischen Viertel und im beheizten Museum bietet Schutz vor der Kälte. Der Tag endet besinnlich in der Pfarrkirche, bevor wir die kurze Fahrt zurück durch die beleuchteten Straßen genießen.",
+            "hu": "A téli autózás Hohenemsben először az Alt-Ems romokhoz vezet, amely gyakran ködbe vagy hóba burkolózik. Egy rövid Glopper kastély-megálló után a meleg városközpontban parkolunk. A Zsidó negyed és a fűtött múzeum látogatása védelmet nyújt a hideg ellen. A nap áhítattal zárul a plébániatemplomban, mielőtt a kivilágított utcákon visszahajtanánk.",
+            "ro": "Drumul hibernal prin Hohenems ne duce mai întâi sus la ruinele Alt-Ems, adesea învăluite în ceață mistică sau zăpadă. După o scurtă oprire la Castelul Glopper, parcăm în centrul cald al orașului. Vizita în Cartierul Evreiesc și la muzeul încălzit oferă protecție împotriva frigului. Ziua se încheie liniștit la biserica parohială, înainte de a ne bucura de drumul scurt înapoi prin străzile iluminate.",
+            "en": "The wintry drive through Hohenems first leads us up to the Alt-Ems ruins, often shrouded in mystical mist or snow. After a short stop at Glopper Castle, we park in the warm town center. A visit to the Jewish Quarter and the heated museum offers protection from the cold. The day ends contemplatively at the parish church before we enjoy the short drive back through the illuminated streets."
+          },
+          "stops": [
+            {
+              "name": "Alt-Ems Castle Ruins",
+              "tip_5lang": {
+                "de": "Winterreifen und Vorsicht bei Schnee auf der Bergstraße nötig.",
+                "hu": "Téli gumi és óvatosság szükséges a havas hegyi úton.",
+                "ro": "Anvelope de iarnă și prudență necesare pe drumul montan înzăpezit.",
+                "en": "Winter tires and caution are necessary on the snowy mountain road."
+              }
+            },
+            {
+              "name": "Glopper Castle",
+              "tip_5lang": {
+                "de": "Toller Ausblick auf das winterliche Tal direkt vom Parkplatz.",
+                "hu": "Nagyszerű kilátás a téli völgyre közvetlenül a parkolóból.",
+                "ro": "Vedere minunată asupra văii hibernale direct din parcare.",
+                "en": "Great view of the wintry valley directly from the parking lot."
+              }
+            },
+            {
+              "name": "Parking Downtown",
+              "tip_5lang": {
+                "de": "Tiefgarage schützt vor dem Scheibenkratzen.",
+                "hu": "A mélygarázs megóv a szélvédőkaparástól.",
+                "ro": "Parcarea subterană vă scutește de curățatul parbrizului.",
+                "en": "Underground parking saves you from scraping the windshield."
+              }
+            },
+            {
+              "name": "Hohenems Palace",
+              "tip_5lang": {
+                "de": "Im Winter oft stimmungsvoll beleuchtet.",
+                "hu": "Télen gyakran hangulatos díszkivilágítást kap.",
+                "ro": "Iarna este adesea iluminat atmosferic.",
+                "en": "Often atmospherically lit in winter."
+              }
+            },
+            {
+              "name": "Jewish Quarter",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen den historischen Gebäuden halten warm.",
+                "hu": "A történelmi épületek közötti rövid utak melegen tartják.",
+                "ro": "Distanțele scurte între clădirile istorice vă mențin cald.",
+                "en": "Short distances between historic buildings keep you warm."
+              }
+            },
+            {
+              "name": "Jewish Museum Hohenems",
+              "tip_5lang": {
+                "de": "Die Garderobe ist ideal, um schwere Wintermäntel abzulegen.",
+                "hu": "A ruhatár ideális a nehéz télikabátok letételéhez.",
+                "ro": "Garderoba este ideală pentru a lăsa hainele grele de iarnă.",
+                "en": "The cloakroom is ideal for leaving heavy winter coats."
+              }
+            },
+            {
+              "name": "Parish Church of St. Charles Borromeo",
+              "tip_5lang": {
+                "de": "Genießen Sie die wohlige Wärme im Inneren.",
+                "hu": "Élvezze a kellemes belső meleget.",
+                "ro": "Bucurați-vă de căldura plăcută din interior.",
+                "en": "Enjoy the cozy warmth inside."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahren Sie bei Schneefall vorausschauend auf den Bergstraßen.",
+              "Die Parkgarage im Zentrum ist der beste Startpunkt für den Stadtgang.",
+              "Achten Sie auf gefrierende Nässe bei Sonnenuntergang (ca. 16:30 Uhr).",
+              "Haben Sie immer einen Eiskratzer und Schneebesen im Auto.",
+              "Besuchen Sie eines der traditionellen Gasthäuser für ein warmes Abendessen."
+            ],
+            "hu": [
+              "Havazáskor vezessen előrelátóan a hegyi utakon.",
+              "A központi parkolóház a legjobb kiindulópont a városi sétához.",
+              "Ügyeljen a fagyos utakra naplemente környékén (kb. 16:30).",
+              "Mindig legyen jégkaparó és hókefe az autóban.",
+              "Látogasson el egy hagyományos vendéglőbe egy meleg vacsorára."
+            ],
+            "ro": [
+              "Conduceți preventiv pe drumurile montane în caz de ninsoare.",
+              "Parcarea subterană din centru este cel mai bun punct de plecare.",
+              "Atenție la polei în jurul orei apusului (aprox. 16:30).",
+              "Aveți întotdeauna o racletă și o perie de zăpadă în mașină.",
+              "Vizitați unul dintre hanurile tradiționale pentru o cină caldă."
+            ],
+            "en": [
+              "Drive proactively on mountain roads during snowfall.",
+              "The central parking garage is the best starting point for the city walk.",
+              "Watch out for freezing wetness around sunset (approx. 4:30 PM).",
+              "Always have an ice scraper and a snow brush in the car.",
+              "Visit one of the traditional inns for a warm dinner."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1058,6 +1646,196 @@
           "Buy a day ticket for the Vorarlberg public transport network (VVV).",
           "Check the bus timetables in advance, especially on weekends."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Öffentliche Verkehrsmittel bringen uns heute trocken durch Hohenems. Wir starten am Bahnhof und erreichen schnell das Jüdische Viertel. Das Museum bietet den perfekten Schutz vor dem Regen zur Mittagszeit. Danach geht es mit dem Bus weiter zum Palast und zur Sägemühle. Auch wenn die Aussicht von Alt-Ems bei Regen wolkenverhangen ist, bleibt die Fahrt mit dem Landbus ein entspanntes Erlebnis im nassen Vorarlberg.",
+            "hu": "A tömegközlekedés ma szárazon visz át minket Hohenemsen. A vasútállomástól indulunk, és gyorsan elérjük a Zsidó negyedet. A múzeum tökéletes védelmet nyújt az eső elől ebédidőben. Ezután busszal megyünk tovább a Palotához és a fűrészmalomhoz. Még ha az Alt-Ems kilátása esőben felhős is, a Landbus-szal való utazás pihentető élmény marad a vizes Vorarlbergben.",
+            "ro": "Transportul public ne poartă astăzi la uscat prin Hohenems. Începem de la gară și ajungem rapid în Cartierul Evreiesc. Muzeul oferă protecția perfectă împotriva ploii la ora prânzului. Apoi continuăm cu autobuzul către Palat și gater. Chiar dacă vederea de la Alt-Ems este acoperită de nori pe ploaie, călătoria cu autobuzul regional rămâne o experiență relaxantă în Vorarlbergul umed.",
+            "en": "Public transport keeps us dry through Hohenems today. We start at the train station and quickly reach the Jewish Quarter. The museum offers the perfect protection from the rain at lunchtime. Then we continue by bus to the Palace and the saw-mill. Even if the view from Alt-Ems is clouded over in the rain, the ride with the regional bus remains a relaxed experience in wet Vorarlberg."
+          },
+          "stops": [
+            {
+              "name": "Hohenems Train Station",
+              "tip_5lang": {
+                "de": "Überdachte Bahnsteige vorhanden.",
+                "hu": "Fedett peronok állnak rendelkezésre.",
+                "ro": "Există peroane acoperite.",
+                "en": "Covered platforms are available."
+              }
+            },
+            {
+              "name": "Jewish Quarter",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg von der Bushaltestelle 'Schloßplatz'.",
+                "hu": "Rövid gyalogút a 'Schloßplatz' buszmegállótól.",
+                "ro": "Scurtă plimbare de la stația de autobuz 'Schloßplatz'.",
+                "en": "Short walk from the 'Schloßplatz' bus stop."
+              }
+            },
+            {
+              "name": "Jewish Museum Hohenems",
+              "tip_5lang": {
+                "de": "Ideal, um die Zeit bis zum nächsten Bus im Trockenen zu verbringen.",
+                "hu": "Ideális a következő buszig hátralévő időt szárazon tölteni.",
+                "ro": "Ideal pentru a petrece timpul până la următorul autobuz la uscat.",
+                "en": "Ideal for spending time in the dry until the next bus."
+              }
+            },
+            {
+              "name": "Hohenems Palace & Parish Church",
+              "tip_5lang": {
+                "de": "Zentraler Knotenpunkt vieler Buslinien.",
+                "hu": "Számos buszjárat központi csomópontja.",
+                "ro": "Nod central pentru multe linii de autobuz.",
+                "en": "Central hub for many bus lines."
+              }
+            },
+            {
+              "name": "Stoffel's Saw-Mill",
+              "tip_5lang": {
+                "de": "Bus hält fast direkt vor dem Museum.",
+                "hu": "A busz szinte közvetlenül a múzeum előtt áll meg.",
+                "ro": "Autobuzul oprește aproape direct în fața muzeului.",
+                "en": "The bus stops almost directly in front of the museum."
+              }
+            },
+            {
+              "name": "Alt-Ems Castle Ruins (View)",
+              "tip_5lang": {
+                "de": "Bei starkem Regen ist die Sicht eingeschränkt, der Bus fährt aber zuverlässig.",
+                "hu": "Erős esőben a kilátás korlátozott, de a busz megbízhatóan közlekedik.",
+                "ro": "În caz de ploaie torențială vizibilitatea este redusă, dar autobuzul circulă regulat.",
+                "en": "In heavy rain, visibility is limited, but the bus runs reliably."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die VVV-App für Echtzeit-Fahrpläne bei Regen.",
+              "Der Landbus Vorarlberg ist bekannt für Pünktlichkeit und Komfort.",
+              "Ein Tagesticket ist oft günstiger als Einzelfahrten.",
+              "Die Busse sind gut klimatisiert und halten das Fensterbeschlagen gering.",
+              "Warten Sie in den Museen oder Cafés, bis der Bus kommt."
+            ],
+            "hu": [
+              "Használja a VVV alkalmazást a valós idejű menetrendekhez esőben.",
+              "A Vorarlbergi Landbus híres a pontosságáról és a kényelméről.",
+              "A napijegy gyakran olcsóbb, mint az egyedi jegyek.",
+              "A buszok jól klimatizáltak, így az ablakok kevésbé párásodnak.",
+              "Várjon a múzeumokban vagy kávézókban a busz érkezéséig."
+            ],
+            "ro": [
+              "Folosiți aplicația VVV pentru orare în timp real pe timp de ploaie.",
+              "Autobuzul regional Vorarlberg este cunoscut pentru punctualitate și confort.",
+              "Un bilet de o zi este adesea mai ieftin decât călătoriile individuale.",
+              "Autobuzele sunt bine climatizate, reducând aburirea geamurilor.",
+              "Așteptați în muzee sau cafenele până vine autobuzul."
+            ],
+            "en": [
+              "Use the VVV app for real-time schedules during rain.",
+              "The Vorarlberg Landbus is known for punctuality and comfort.",
+              "A day ticket is often cheaper than individual fares.",
+              "Buses are well air-conditioned, keeping window fogging to a minimum.",
+              "Wait in museums or cafés until the bus arrives."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter ist der Landbus der gemütlichste Weg durch Hohenems. Wir starten am Bahnhof und fahren durch die verschneite Stadt zum Jüdischen Viertel. Die Wärme im Jüdischen Museum ist nach dem Spaziergang durch den Frost willkommen. Am Nachmittag bringt uns der Bus zum Palast und später hinauf Richtung Alt-Ems. Die beleuchtete Stadt bietet bei der Rückfahrt zum Bahnhof einen glanzvollen Abschluss der Tour.",
+            "hu": "Télen a Landbus a legkényelmesebb út Hohenemsen keresztül. A vasútállomástól indulunk, és a havas városon át a Zsidó negyedbe utazunk. A Zsidó Múzeum melege hívogató a fagyos séta után. Délután a busz a Palotához, majd később az Alt-Ems irányába visz minket. A kivilágított város a vasútállomásra való visszatéréskor ragyogó zárása a túrának.",
+            "ro": "Iarna, autobuzul regional este cel mai confortabil mod de a traversa Hohenems. Începem de la gară și mergem prin orașul înzăpezit spre Cartierul Evreiesc. Căldura din Muzeul Evreiesc este binevenită după plimbarea prin ger. După-amiaza, autobuzul ne duce la Palat și mai târziu spre Alt-Ems. Orașul iluminat oferă o încheiere strălucitoare la întoarcerea spre gară.",
+            "en": "In winter, the regional bus is the coziest way through Hohenems. We start at the train station and ride through the snowy town to the Jewish Quarter. The warmth in the Jewish Museum is welcome after the walk through the frost. In the afternoon, the bus takes us to the Palace and later up towards Alt-Ems. The illuminated town provides a brilliant conclusion to the tour on the way back to the station."
+          },
+          "stops": [
+            {
+              "name": "Hohenems Train Station",
+              "tip_5lang": {
+                "de": "Beheizter Wartesaal im Bahnhofsgebäude vorhanden.",
+                "hu": "Fűtött váróterem áll rendelkezésre a vasútállomás épületében.",
+                "ro": "Există o sală de așteptare încălzită în clădirea gării.",
+                "en": "Heated waiting room available in the station building."
+              }
+            },
+            {
+              "name": "Jewish Quarter",
+              "tip_5lang": {
+                "de": "Haltestelle 'Schloßplatz' ist oft schneefrei geräumt.",
+                "hu": "A 'Schloßplatz' megállót gyakran hómentesítik.",
+                "ro": "Stația 'Schloßplatz' este adesea curățată de zăpadă.",
+                "en": "The 'Schloßplatz' stop is often cleared of snow."
+              }
+            },
+            {
+              "name": "Jewish Museum Hohenems",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch als Aufwärmstopp.",
+                "hu": "Használja a múzeumlátogatást melegedő pihenőként.",
+                "ro": "Folosiți vizita la muzeu ca punct de încălzire.",
+                "en": "Use the museum visit as a warm-up stop."
+              }
+            },
+            {
+              "name": "Hohenems Palace & Parish Church",
+              "tip_5lang": {
+                "de": "In der Nähe gibt es Cafés für einen heißen Kakao.",
+                "hu": "A közelben kávézók várják egy forró kakaóra.",
+                "ro": "În apropiere există cafenele pentru o ciocolată caldă.",
+                "en": "There are cafés nearby for a hot cocoa."
+              }
+            },
+            {
+              "name": "Stoffel's Saw-Mill",
+              "tip_5lang": {
+                "de": "Der Bus fährt auch bei Schneefall zuverlässig.",
+                "hu": "A busz havazás esetén is megbízhatóan közlekedik.",
+                "ro": "Autobuzul circulă regulat chiar și în caz de ninsoare.",
+                "en": "The bus runs reliably even during snowfall."
+              }
+            },
+            {
+              "name": "Alt-Ems Castle Ruins (View)",
+              "tip_5lang": {
+                "de": "Vorsicht beim Aussteigen auf glatten Haltestellen.",
+                "hu": "Vigyázzon a leszálláskor a csúszós megállókban.",
+                "ro": "Atenție la coborâre în stațiile alunecoase.",
+                "en": "Be careful when getting off at slippery bus stops."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Züge und Busse sind im Winter gut beheizt.",
+              "Achten Sie auf Winterfahrpläne an Feiertagen.",
+              "Bei starkem Schneefall kann es zu kurzen Verzögerungen kommen.",
+              "Der Fußweg vom Bahnhof ins Zentrum ist kurz (ca. 10 Min).",
+              "Kombinieren Sie Bus und Bahn für Ausflüge in die Nachbarorte."
+            ],
+            "hu": [
+              "A vonatok és buszok télen jól fűtöttek.",
+              "Ügyeljen az ünnepi téli menetrendekre.",
+              "Erős havazás esetén előfordulhatnak rövid késések.",
+              "A gyalogút az állomástól a központig rövid (kb. 10 perc).",
+              "Kombinálja a buszt és a vonatot a szomszédos falvak meglátogatásához."
+            ],
+            "ro": [
+              "Trenurile și autobuzele sunt bine încălzite iarna.",
+              "Atenție la orarele de iarnă în zilele de sărbătoare.",
+              "În caz de ninsoare abundentă pot apărea scurte întârzieri.",
+              "Drumul pe jos de la gară la centru este scurt (aprox. 10 min).",
+              "Combinați autobuzul și trenul pentru excursii în localitățile vecine."
+            ],
+            "en": [
+              "Trains and buses are well-heated in winter.",
+              "Check for winter schedules during holidays.",
+              "Short delays may occur during heavy snowfall.",
+              "The walk from the station to the center is short (approx. 10 mins).",
+              "Combine bus and train for excursions to neighboring towns."
+            ]
+          }
+        }
       }
     }
   }

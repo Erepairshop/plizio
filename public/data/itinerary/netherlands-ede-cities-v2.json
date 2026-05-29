@@ -332,6 +332,188 @@
           "Check the opening hours for the mills as they can be variable.",
           "An umbrella is always a good idea in the Netherlands."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag am Bahnhof Ede-Wageningen und nutzen Sie die Schirme für den Weg zum Kulturzentrum Cultura. Mittags genießen Sie ein langes Essen im Stadtzentrum, um dem Regen zu entgehen. Nachmittags besuchen Sie die historischen Mühlen, wobei die Wege etwas matschig sein können. Ein gemütlicher Abschluss in der Innenstadt bietet Schutz vor dem niederländischen Wetter.",
+            "hu": "Kezdje a napot az Ede-Wageningen állomáson, majd fedett helyen, a Cultura központban folytassa a programot. Ebédeljen hosszasan a belvárosban, amíg eláll az eső. Délután látogasson el a történelmi malmokhoz, de készüljön fel a sárosabb ösvényekre. Az út végén a városközpont vendéglátóhelyei kínálnak menedéket a szürke idő elől.",
+            "ro": "Începeți ziua la gara Ede-Wageningen și îndreptați-vă spre centrul cultural Cultura pentru a rămâne la adăpost. Prânzul prelungit în centrul orașului este ideal pentru a evita ploaia. După-amiaza, vizitați morile istorice, având grijă la potecile care pot deveni noroioase. Seara se încheie confortabil în interiorul unei cafenele locale.",
+            "en": "Start your day at Ede-Wageningen Station and head to the Cultura center to stay dry. Enjoy a long lunch in the city center while waiting for the rain to ease. In the afternoon, visit the historic mills, though paths may be muddy. Conclude your walk in the cozy city center, sheltered from the Dutch drizzle."
+          },
+          "stops": [
+            {
+              "name": "Ede-Wageningen Station",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Bahnsteig für die Planung.",
+                "hu": "Használja a fedett peront az útvonaltervezéshez.",
+                "ro": "Folosiți peronul acoperit pentru a vă planifica traseul.",
+                "en": "Use the covered platform to check your route."
+              }
+            },
+            {
+              "name": "Cultura Ede",
+              "tip_5lang": {
+                "de": "Perfekter Zufluchtsort mit Galerie und Bibliothek.",
+                "hu": "Tökéletes menedék galériával és könyvtárral.",
+                "ro": "Refugiu perfect cu galerie și bibliotecă.",
+                "en": "Perfect indoor refuge with a gallery and library."
+              }
+            },
+            {
+              "name": "Oude Kerk (Old Church)",
+              "tip_5lang": {
+                "de": "Die dicken Mauern bieten Stille und Trockenheit.",
+                "hu": "A vastag falak csendet és szárazságot nyújtanak.",
+                "ro": "Zidurile groase oferă liniște și uscăciune.",
+                "en": "The thick walls offer silence and dryness."
+              }
+            },
+            {
+              "name": "Lunch in the City Center",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Café mit gemütlichem Innenbereich.",
+                "hu": "Válasszon egy hangulatos belső terű kávézót.",
+                "ro": "Alegeți o cafenea cu un interior primitor.",
+                "en": "Choose a café with a cozy indoor seating area."
+              }
+            },
+            {
+              "name": "Concordia Mill",
+              "tip_5lang": {
+                "de": "Vorsicht auf den rutschigen Holzstufen.",
+                "hu": "Vigyázat a csúszós falépcsőkön.",
+                "ro": "Atenție la treptele de lemn alunecoase.",
+                "en": "Be careful on the slippery wooden steps."
+              }
+            },
+            {
+              "name": "Doesburgermolen",
+              "tip_5lang": {
+                "de": "Der Zugangsweg kann bei Regen sehr weich sein.",
+                "hu": "Az odavezető út esőben nagyon felázhat.",
+                "ro": "Poteca de acces poate fi foarte moale pe ploaie.",
+                "en": "The access path can be very soft in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Regenschirm ist bei dem Wind in Ede unerlässlich.",
+              "Das Cultura Ede ist der beste Ort, um Schauer abzuwarten.",
+              "Tragen Sie wasserfeste Schuhe für die Wege zu den Mühlen.",
+              "Viele Cafés im Zentrum bieten kostenloses WLAN zum Aufwärmen."
+            ],
+            "hu": [
+              "Az edei szélben egy stabil esernyő elengedhetetlen.",
+              "A Cultura Ede a legjobb hely a záporok átvészelésére.",
+              "Viseljen vízálló cipőt a malmokhoz vezető utakon.",
+              "A központ kávézóiban melegedés közben ingyen wifi is van."
+            ],
+            "ro": [
+              "O umbrelă rezistentă este esențială din cauza vântului.",
+              "Cultura Ede este cel mai bun loc pentru a aștepta trecerea ploii.",
+              "Purtați încălțăminte impermeabilă pentru drumul spre mori.",
+              "Multe cafenele centrale oferă Wi-Fi gratuit pentru încălzire."
+            ],
+            "en": [
+              "A sturdy umbrella is essential given the wind in Ede.",
+              "Cultura Ede is the best place to wait out heavy showers.",
+              "Wear waterproof shoes for the paths to the mills.",
+              "Many city center cafés offer free Wi-Fi while you dry off."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie Ede im winterlichen Glanz, beginnend am frostigen Bahnhof. Das Cultura Ede bietet wohlige Wärme vor dem Besuch der historischen Oude Kerk. Ein herzhaftes Mittagessen stärkt Sie für den Weg zu den Mühlen, die in der frühen Dämmerung besonders stimmungsvoll wirken. Beenden Sie den Tag bei Heißgetränken in der festlich beleuchteten Innenstadt.",
+            "hu": "Fedezze fel Edét téli hangulatban, a zúzmarás állomásról indulva. A Cultura Ede kellemes meleget kínál az Oude Kerk meglátogatása előtt. Egy kiadós ebéd után irány a malmok, amelyek a korai szürkületben különleges látványt nyújtanak. A napot forró italokkal zárja a díszesen kivilágított belvárosban.",
+            "ro": "Experimentați Ede în straie de iarnă, începând de la gara înghețată. Cultura Ede oferă căldură înainte de a vizita vechea biserică Oude Kerk. Un prânz consistent vă va pregăti pentru drumul spre mori, care arată spectaculos în amurgul timpuriu. Încheiați ziua cu băuturi calde în centrul luminat festiv.",
+            "en": "Experience Ede in its winter charm, starting from the frosty station. Cultura Ede provides warmth before you visit the historic Oude Kerk. A hearty lunch will sustain you for the trip to the mills, which look particularly atmospheric in the early twilight. End your day with hot drinks in the festively lit city center."
+          },
+          "stops": [
+            {
+              "name": "Ede-Wageningen Station",
+              "tip_5lang": {
+                "de": "Warme Kleidung für den windigen Bahnsteig nötig.",
+                "hu": "Meleg ruházat szükséges a szeles peronon.",
+                "ro": "Haine groase necesare pentru peronul vântos.",
+                "en": "Warm layers needed for the windy platform."
+              }
+            },
+            {
+              "name": "Cultura Ede",
+              "tip_5lang": {
+                "de": "Genießen Sie einen heißen Kakao im Café.",
+                "hu": "Élvezzen egy forró kakaót a kávézóban.",
+                "ro": "Savurați o ciocolată caldă la cafenea.",
+                "en": "Enjoy a hot cocoa at the internal café."
+              }
+            },
+            {
+              "name": "Oude Kerk (Old Church)",
+              "tip_5lang": {
+                "de": "In der Kirche kann es recht kühl sein.",
+                "hu": "A templomban elég hűvös lehet télen.",
+                "ro": "În interiorul bisericii poate fi destul de frig.",
+                "en": "It can be quite chilly inside the church."
+              }
+            },
+            {
+              "name": "Lunch in the City Center",
+              "tip_5lang": {
+                "de": "Probieren Sie typisch niederländische Erbsensuppe.",
+                "hu": "Kóstolja meg a tipikus holland borsólevest.",
+                "ro": "Gustați supa de mazăre tipic olandeză.",
+                "en": "Try some typical Dutch pea soup (snert)."
+              }
+            },
+            {
+              "name": "Concordia Mill",
+              "tip_5lang": {
+                "de": "Das Winterlicht eignet sich perfekt für Fotos.",
+                "hu": "A téli fények tökéletesek a fotózáshoz.",
+                "ro": "Lumina de iarnă este perfectă pentru fotografii.",
+                "en": "Winter light is perfect for photography here."
+              }
+            },
+            {
+              "name": "Doesburgermolen",
+              "tip_5lang": {
+                "de": "Achtung bei Glätte auf den Waldwegen.",
+                "hu": "Vigyázzon a jegesedésre az erdei utakon.",
+                "ro": "Atenție la gheață pe potecile din pădure.",
+                "en": "Watch out for icy patches on the forest paths."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Winter bereits gegen 16:30 Uhr unter.",
+              "Zwiebelprinzip bei der Kleidung schützt vor dem Wind.",
+              "In Ede sind viele Gehwege bei Frost gestreut.",
+              "Das Cultura ist ein idealer Ort zum Aufwärmen zwischendurch."
+            ],
+            "hu": [
+              "Télen a nap már 16:30 körül lenyugszik.",
+              "A réteges öltözködés véd legjobban a szél ellen.",
+              "Ede járdáit fagy esetén rendszeresen sózzák.",
+              "A Cultura ideális hely a köztes felmelegedésre."
+            ],
+            "ro": [
+              "Soarele apune în jurul orei 16:30 în timpul iernii.",
+              "Îmbrăcămintea în straturi protejează cel mai bine de vânt.",
+              "Trotuarele din Ede sunt de obicei deszăpezite rapid.",
+              "Cultura este locul ideal pentru o pauză de încălzire."
+            ],
+            "en": [
+              "Sunset in winter is as early as 4:30 PM.",
+              "Layered clothing is best to fight the cold wind.",
+              "Many footpaths in Ede are salted when it freezes.",
+              "Cultura is an ideal spot for a warm-up break."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -659,6 +841,170 @@
           "Bring plenty of water, especially for the ride to Hoge Veluwe.",
           "Respect the bike lanes and signal your intentions."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen gehört zur niederländischen Erfahrung. Nach dem Ausleihen der Räder in Ede besuchen Sie die Oude Kerk als ersten trockenen Stopp. Die Fahrt durch die Ginkelse Heide erfordert gute Regenbekleidung, führt Sie aber zu einem gemütlichen Pfannkuchenhaus. Den Abschluss bildet der Nationalpark Hoge Veluwe, wo die weißen Räder auch bei Nässe bereitstehen.",
+            "hu": "Egy esős bringázás igazi holland élmény. A kölcsönzés után az Oude Kerk az első száraz állomás. A Ginkelse Heide pusztáján való átkeléshez jó esőkabát kell, de a jutalom egy hangulatos palacsintázó lesz. A napot a Hoge Veluwe parkban zárja, ahol a híres fehér biciklik esőben is bevethetőek.",
+            "ro": "O plimbare cu bicicleta pe ploaie este o experiență autentic olandeză. După închiriere, Oude Kerk este prima oprire uscată. Traversarea Ginkelse Heide necesită echipament de ploaie, dar vă conduce la o clătitărie primitoare. Ziua se încheie în parcul Hoge Veluwe, unde bicicletele albe sunt disponibile.",
+            "en": "A bike ride in the rain is a true Dutch experience. After renting your bike, Oude Kerk is your first dry stop. Cycling across the Ginkelse Heide requires good rain gear but leads to a cozy pancake house. Finish your day at Hoge Veluwe National Park, where the white bikes are ready even in wet weather."
+          },
+          "stops": [
+            {
+              "name": "Bike Rental in Ede Center",
+              "tip_5lang": {
+                "de": "Fragen Sie nach einem Rad mit guten Schutzblechen.",
+                "hu": "Kérjen sárvédővel jól felszerelt kerékpárt.",
+                "ro": "Cereți o bicicletă cu apărători de noroi bune.",
+                "en": "Ask for a bike with good mudguards."
+              }
+            },
+            {
+              "name": "Oude Kerk (Old Church)",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp zum Trocknen der Kleidung.",
+                "hu": "Használja a megállót a ruhák megszárítására.",
+                "ro": "Folosiți oprirea pentru a vă usca hainele.",
+                "en": "Use this stop to dry off your gear a bit."
+              }
+            },
+            {
+              "name": "Ginkelse Heide (Heathland)",
+              "tip_5lang": {
+                "de": "Der Wind kann hier auf offener Fläche stark sein.",
+                "hu": "A szél itt a nyílt terepen nagyon erős lehet.",
+                "ro": "Vântul poate fi puternic aici, pe teren deschis.",
+                "en": "The wind can be strong here on the open plains."
+              }
+            },
+            {
+              "name": "Lunch Break at a 'Pannekoekenhuis'",
+              "tip_5lang": {
+                "de": "Parken Sie das Rad im überdachten Bereich.",
+                "hu": "Parkolja a biciklit fedett helyre.",
+                "ro": "Parcați bicicleta într-o zonă acoperită.",
+                "en": "Park your bike in a covered area if available."
+              }
+            },
+            {
+              "name": "Hoge Veluwe National Park (Otterlo Entrance)",
+              "tip_5lang": {
+                "de": "Weiße Räder haben oft nasse Sättel, Tuch mitnehmen.",
+                "hu": "A fehér biciklik nyerge gyakran vizes, vigyen rongyot.",
+                "ro": "Șeile bicicletelor albe sunt adesea ude; luați o cârpă.",
+                "en": "White bikes often have wet seats; bring a small cloth."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein kompletter Regenanzug ist besser als nur ein Schirm.",
+              "Vermeiden Sie scharfes Bremsen auf nassen Blättern.",
+              "Die Radwege in Ede sind auch bei Regen gut befahrbar.",
+              "Nutzen Sie die kostenlosen weißen Räder im Park für kurze Strecken."
+            ],
+            "hu": [
+              "A teljes esőruha sokkal jobb, mint egy esernyő.",
+              "Kerülje a hirtelen fékezést a vizes leveleken.",
+              "Ede kerékpárútjai esőben is jól használhatóak.",
+              "Használja az ingyenes fehér bicikliket a parkon belüli utakra."
+            ],
+            "ro": [
+              "Un costum complet de ploaie este mai util decât o umbrelă.",
+              "Evitați frânările bruște pe frunzele ude.",
+              "Pistele de biciclete sunt bine întreținute chiar și pe ploaie.",
+              "Folosiți bicicletele albe gratuite din parc pentru distanțe scurte."
+            ],
+            "en": [
+              "A full rain suit is much better than an umbrella for cycling.",
+              "Avoid sharp braking on wet leaves or painted lines.",
+              "Cycle paths in Ede are well-maintained even in the rain.",
+              "Use the free white bikes in the park for internal trips."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in Ede bietet klare Luft und weite Sichten. Starten Sie warm eingepackt im Zentrum und besuchen Sie die Oude Kerk. Die Ginkelse Heide wirkt bei Frost fast magisch, erfordert aber Schutz gegen den kalten Fahrtwind. Ein heißes Mittagessen im Pfannkuchenhaus ist die ideale Pause, bevor Sie die winterliche Stille des Nationalparks Hoge Veluwe genießen.",
+            "hu": "A téli bringázás Edében friss levegőt és tiszta kilátást kínál. Melegen felöltözve induljon a központból az Oude Kerk felé. A fagyos Ginkelse Heide látványa varázslatos, de védekezni kell a hideg menetszél ellen. Egy forró ebéd a palacsintázóban ideális pihenő a Hoge Veluwe park téli nyugalmának felfedezése előtt.",
+            "ro": "Ciclismul de iarnă în Ede oferă aer curat și priveliști largi. Plecați bine îmbrăcați din centru spre Oude Kerk. Ginkelse Heide pare magică pe ger, dar necesită protecție împotriva vântului rece. Un prânz cald la clătitărie este pauza ideală înainte de a savura liniștea din Hoge Veluwe.",
+            "en": "Winter cycling in Ede offers crisp air and vast views. Start bundled up in the center and visit the Oude Kerk. The Ginkelse Heide looks magical in the frost but requires protection against the cold wind. A hot lunch at the pancake house is the ideal break before enjoying the winter silence of Hoge Veluwe National Park."
+          },
+          "stops": [
+            {
+              "name": "Bike Rental in Ede Center",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Reifendruck für besseren Halt.",
+                "hu": "Ellenőrizze a guminyomást a jobb tapadásért.",
+                "ro": "Verificați presiunea în anvelope pentru aderență.",
+                "en": "Check tire pressure for better grip on cold roads."
+              }
+            },
+            {
+              "name": "Oude Kerk (Old Church)",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort für eine kurze Aufwärmpause.",
+                "hu": "Csendes hely egy rövid felmelegedéshez.",
+                "ro": "Un loc liniștit pentru o scurtă pauză de încălzire.",
+                "en": "A quiet place for a short warm-up break."
+              }
+            },
+            {
+              "name": "Ginkelse Heide (Heathland)",
+              "tip_5lang": {
+                "de": "Handschuhe sind auf der Heide absolut notwendig.",
+                "hu": "A pusztán a kesztyű használata kötelező.",
+                "ro": "Mănușile sunt absolut necesare pe câmpia deschisă.",
+                "en": "Gloves are absolutely necessary on the open heath."
+              }
+            },
+            {
+              "name": "Lunch Break at a 'Pannekoekenhuis'",
+              "tip_5lang": {
+                "de": "Suchen Sie einen Platz direkt am Kamin.",
+                "hu": "Keressen helyet közvetlenül a kandalló mellett.",
+                "ro": "Căutați un loc lângă șemineu.",
+                "en": "Look for a seat near the fireplace if possible."
+              }
+            },
+            {
+              "name": "Hoge Veluwe National Park (Otterlo Entrance)",
+              "tip_5lang": {
+                "de": "Der Park schließt im Winter früher (meist 18:00).",
+                "hu": "A park télen korábban zár (általában 18:00).",
+                "ro": "Parcul se închide mai devreme iarna (de obicei la 18:00).",
+                "en": "The park closes earlier in winter (usually 6:00 PM)."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Handschuhe und eine Mütze unter dem Helm.",
+              "Achten Sie auf vereiste Stellen im Schatten von Bäumen.",
+              "Die weißen Räder im Park können bei Frost rutschig sein.",
+              "Planen Sie Ihre Rückkehr vor Einbruch der Dunkelheit."
+            ],
+            "hu": [
+              "Viseljen kesztyűt és sapkát a bukósisak alatt.",
+              "Ügyeljen a jeges foltokra a fák árnyékában.",
+              "A park fehér biciklijei fagyban csúszósak lehetnek.",
+              "Tervezze meg a visszautat sötétedés előtt."
+            ],
+            "ro": [
+              "Purtați mănuși și o căciulă sub cască.",
+              "Fiți atenți la porțiunile înghețate de la umbra copacilor.",
+              "Bicicletele albe pot fi alunecoase pe ger.",
+              "Planificați întoarcerea înainte de lăsarea întunericului."
+            ],
+            "en": [
+              "Wear gloves and a thin hat under your helmet.",
+              "Watch out for icy patches in the shade of trees.",
+              "The white bikes in the park can be slippery in frost.",
+              "Plan to return before it gets completely dark."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1015,6 +1361,188 @@
           "Plan your driving times outside of peak rush hours if possible.",
           "The cluster-walking philosophy means you still need comfortable shoes."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Ede auch bei Regen bequem zu erkunden. Verbringen Sie den Vormittag im weltberühmten Kröller-Müller Museum, gut geschützt vor den Schauern. Nach einem gemütlichen Mittagessen im Parkrestaurant geht es zum Museumpark Harskamp, wo viele Ausstellungen überdacht sind. Den Tag lassen Sie entspannt bei einem Abendessen in der Innenstadt ausklingen.",
+            "hu": "Autóval Ede esőben is kényelmesen felfedezhető. Töltse a délelőttöt a világhírű Kröller-Müller Múzeumban, védve a záporoktól. Egy kellemes ebéd után a park éttermében látogasson el a Museumpark Harskampba, ahol sok a fedett kiállítás. A napot pihentető vacsorával zárja a városközpontban.",
+            "ro": "Cu mașina, Ede poate fi explorat confortabil chiar și pe ploaie. Petreceți dimineața la faimosul Muzeu Kröller-Müller, ferit de averse. După un prânz plăcut la restaurantul parcului, mergeți la Museumpark Harskamp, unde multe exponate sunt acoperite. Încheiați ziua cu o cină relaxantă în centrul orașului.",
+            "en": "Ede is easy to explore by car even in the rain. Spend your morning at the world-famous Kröller-Müller Museum, well-sheltered from the showers. After a pleasant lunch at the park restaurant, head to Museumpark Harskamp, where many exhibits are indoors. Finish your day with a relaxing dinner in the city center."
+          },
+          "stops": [
+            {
+              "name": "Parking at Hoge Veluwe National Park",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um nass zu werden zu vermeiden.",
+                "hu": "Parkoljon a bejárathoz közel, hogy elkerülje az ázást.",
+                "ro": "Parcați aproape de intrare pentru a evita ploaia.",
+                "en": "Park close to the entrance to minimize time in the rain."
+              }
+            },
+            {
+              "name": "Kröller-Müller Museum",
+              "tip_5lang": {
+                "de": "Die Innengalerien sind ideal bei schlechtem Wetter.",
+                "hu": "A belső galériák ideálisak rossz idő esetén.",
+                "ro": "Galeriile interioare sunt ideale pe vreme rea.",
+                "en": "Indoor galleries are ideal for bad weather."
+              }
+            },
+            {
+              "name": "Lunch at the Park Restaurant",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den Regen durch das Glas.",
+                "hu": "Élvezze az eső látványát az üvegfalakon keresztül.",
+                "ro": "Bucurați-vă de priveliștea ploii prin geamurile mari.",
+                "en": "Enjoy the view of the rain through the large windows."
+              }
+            },
+            {
+              "name": "Museumpark Harskamp",
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Wege zwischen den Gebäuden.",
+                "hu": "Használja az épületek közötti fedett folyosókat.",
+                "ro": "Folosiți căile acoperite între clădiri.",
+                "en": "Use the covered walkways between the buildings."
+              }
+            },
+            {
+              "name": "Ginkelse Heide Monument",
+              "tip_5lang": {
+                "de": "Kurzer Ausstieg für ein Foto reicht völlig.",
+                "hu": "Egy rövid kiszállás a fotóhoz bőven elég.",
+                "ro": "O scurtă oprire pentru o fotografie este suficientă.",
+                "en": "A quick hop out for a photo is enough here."
+              }
+            },
+            {
+              "name": "Dinner in Ede Center",
+              "tip_5lang": {
+                "de": "Suchen Sie Parkhäuser direkt im Stadtzentrum.",
+                "hu": "Keressen parkolóházakat közvetlenül a belvárosban.",
+                "ro": "Căutați parcări etajate direct în centrul orașului.",
+                "en": "Look for parking garages directly in the city center."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf den Waldstraßen.",
+              "Die Parkgebühren im Hoge Veluwe beinhalten den Autozugang.",
+              "Nutzen Sie die Tiefgaragen in Ede für trockenen Zugang.",
+              "Das Kröller-Müller bietet Schirmverleih für den Skulpturengarten."
+            ],
+            "hu": [
+              "Ügyeljen a vízenfutásra (aquaplaning) az erdei utakon.",
+              "A Hoge Veluwe parkolási díja tartalmazza az autóbehajtást.",
+              "Használja az edei mélygarázsokat a száraz bejutáshoz.",
+              "A Kröller-Müller esernyőt is kölcsönöz a szoborparkhoz."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumurile din pădure.",
+              "Taxa de parcare la Hoge Veluwe include accesul cu mașina.",
+              "Folosiți parcările subterane din Ede pentru acces uscat.",
+              "Muzeul Kröller-Müller oferă umbrele pentru grădina de sculpturi."
+            ],
+            "en": [
+              "Watch out for aquaplaning on the forest roads.",
+              "Parking fees at Hoge Veluwe include car entry to the park.",
+              "Use underground parking in Ede for dry access to shops.",
+              "The Kröller-Müller offers umbrella loans for the sculpture garden."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Autofahrt durch die Region Ede ist besonders reizvoll. Besuchen Sie das Kröller-Müller Museum und bestaunen Sie die Skulpturen im Frost oder Schnee. Nach einem wärmenden Mittagessen erkunden Sie den Museumpark Harskamp. Die Ginkelse Heide bietet bei tiefstehender Sonne spektakuläre Fotomotive, bevor Sie ein gemütliches Abendessen im Zentrum von Ede genießen.",
+            "hu": "A téli autózás Ede környékén különleges élmény. Látogasson el a Kröller-Müller Múzeumba, és csodálja meg a szobrokat fagyban vagy hóban. Egy melegítő ebéd után fedezze fel a Museumpark Harskampot. A Ginkelse Heide a lemenő nap fényében látványos fotótéma, a napot pedig egy hangulatos vacsora zárja Ede központjában.",
+            "ro": "O călătorie cu mașina prin regiunea Ede iarna este încântătoare. Vizitați Muzeul Kröller-Müller și admirați sculpturile în ger sau zăpadă. După un prânz cald, explorați Museumpark Harskamp. Ginkelse Heide oferă oportunități foto spectaculoase la apus, înainte de cina din centrul orașului.",
+            "en": "A winter drive through the Ede region is especially charming. Visit the Kröller-Müller Museum and marvel at the sculptures in the frost or snow. After a warming lunch, explore Museumpark Harskamp. The Ginkelse Heide offers spectacular photo opportunities in the low sun, followed by a cozy dinner in Ede center."
+          },
+          "stops": [
+            {
+              "name": "Parking at Hoge Veluwe National Park",
+              "tip_5lang": {
+                "de": "Vorsicht vor überfrierender Nässe auf dem Parkplatz.",
+                "hu": "Vigyázzon a lefagyásokra a parkolóban.",
+                "ro": "Atenție la polei în zona de parcare.",
+                "en": "Watch out for black ice in the parking area."
+              }
+            },
+            {
+              "name": "Kröller-Müller Museum",
+              "tip_5lang": {
+                "de": "Der Skulpturengarten wirkt im Schnee fast surreal.",
+                "hu": "A szoborpark a hóban szinte szürreális látvány.",
+                "ro": "Grădina de sculpturi arată aproape ireal în zăpadă.",
+                "en": "The sculpture garden looks almost surreal in the snow."
+              }
+            },
+            {
+              "name": "Lunch at the Park Restaurant",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Fenster mit Blick auf die Winterlandschaft.",
+                "hu": "Válasszon ablak melletti helyet a téli táj látványáért.",
+                "ro": "Alegeți o masă la fereastră pentru peisajul de iarnă.",
+                "en": "Pick a window seat for views of the winter landscape."
+              }
+            },
+            {
+              "name": "Museumpark Harskamp",
+              "tip_5lang": {
+                "de": "Einige Außenbereiche könnten glatt sein.",
+                "hu": "Néhány kültéri rész csúszós lehet.",
+                "ro": "Unele zone exterioare pot fi alunecoase.",
+                "en": "Some outdoor sections might be slippery."
+              }
+            },
+            {
+              "name": "Ginkelse Heide Monument",
+              "tip_5lang": {
+                "de": "Bester Zeitpunkt für Fotos ist die goldene Stunde.",
+                "hu": "A fotózáshoz a legjobb időpont az 'aranyóra'.",
+                "ro": "Cel mai bun moment pentru poze este 'ora de aur'.",
+                "en": "The best time for photos is the golden hour before sunset."
+              }
+            },
+            {
+              "name": "Dinner in Ede Center",
+              "tip_5lang": {
+                "de": "Die Innenstadt ist im Winter oft festlich beleuchtet.",
+                "hu": "A belváros télen gyakran ünnepi díszkivilágítást kap.",
+                "ro": "Centrul orașului este adesea iluminat festiv iarna.",
+                "en": "The city center often features festive lighting in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Waldstraßen werden oft später geräumt als Hauptstraßen.",
+              "Frostschutz für die Scheibenwischanlage nicht vergessen.",
+              "Die Parkplatzkapazitäten sind im Winter meist unproblematisch.",
+              "Planen Sie für das Kröller-Müller mindestens 3 Stunden ein."
+            ],
+            "hu": [
+              "Az erdei utakat gyakran később takarítják, mint a főutakat.",
+              "Ne felejtse el a fagyállót a szélvédőmosóból.",
+              "A parkolási lehetőségek télen általában bőségesek.",
+              "Tervezzen legalább 3 órát a Kröller-Müller látogatására."
+            ],
+            "ro": [
+              "Drumurile forestiere sunt curățate mai târziu decât cele principale.",
+              "Nu uitați lichidul de parbriz rezistent la îngheț.",
+              "Capacitatea parcărilor nu este o problemă în timpul iernii.",
+              "Alocați cel puțin 3 ore pentru vizita la Kröller-Müller."
+            ],
+            "en": [
+              "Forest roads are often cleared later than main highways.",
+              "Don't forget antifreeze for your windshield wipers.",
+              "Parking capacity is usually not an issue in winter.",
+              "Plan at least 3 hours for the Kröller-Müller Museum."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1347,6 +1875,170 @@
           "Have change or a contactless card ready for bus tickets.",
           "Validate your ticket when boarding and exiting."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den öffentlichen Nahverkehr, um Ede trocken zu erkunden. Vom Bahnhof Ede-Wageningen erreichen Sie schnell die Oude Kerk und das Cultura. Die Busverbindung zum Nationalpark Hoge Veluwe bringt Sie direkt zum Kröller-Müller Museum, sodass Sie kaum im Regen stehen müssen. Ein idealer Tag für Kultur- und Kunstliebhaber bei jedem Wetter.",
+            "hu": "Használja a tömegközlekedést Ede száraz felfedezéséhez. Az Ede-Wageningen állomásról gyorsan elérheti az Oude Kerket és a Culturát. A Hoge Veluwe parkba tartó buszjárat közvetlenül a Kröller-Müller Múzeumhoz viszi, így alig kell az esőben tartózkodnia. Ideális nap a kultúra és művészet kedvelőinek.",
+            "ro": "Folosiți transportul public pentru a explora Ede fără a vă uda. De la gara Ede-Wageningen ajungeți rapid la Oude Kerk și Cultura. Linia de autobuz spre Hoge Veluwe vă lasă direct la Muzeul Kröller-Müller, evitând ploaia. O zi ideală pentru iubitorii de cultură, indiferent de vreme.",
+            "en": "Use public transit to explore Ede while staying dry. From Ede-Wageningen Station, you can quickly reach Oude Kerk and Cultura. The bus connection to Hoge Veluwe Park takes you directly to the Kröller-Müller Museum, minimizing your time in the rain. An ideal day for culture and art lovers in any weather."
+          },
+          "stops": [
+            {
+              "name": "Ede-Wageningen Station",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Wartehalle im Bahnhofsgebäude.",
+                "hu": "Használja az állomásépület várótermét.",
+                "ro": "Folosiți sala de așteptare din clădirea gării.",
+                "en": "Use the waiting area inside the station building."
+              }
+            },
+            {
+              "name": "Oude Kerk (Old Church)",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg von der Bushaltestelle 'Centrum'.",
+                "hu": "Rövid séta a 'Centrum' buszmegállótól.",
+                "ro": "Scurtă plimbare de la stația de autobuz 'Centrum'.",
+                "en": "Short walk from the 'Centrum' bus stop."
+              }
+            },
+            {
+              "name": "Cultura Ede",
+              "tip_5lang": {
+                "de": "Direkt im Zentrum, viele Buslinien halten hier.",
+                "hu": "Közvetlenül a központban, több buszjárat is érinti.",
+                "ro": "Direct în centru, multe linii de autobuz opresc aici.",
+                "en": "Located in the center, many bus lines stop nearby."
+              }
+            },
+            {
+              "name": "Bus Stop to Hoge Veluwe National Park",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist meist überdacht.",
+                "hu": "A megálló általában fedett.",
+                "ro": "Stația este în general acoperită.",
+                "en": "The bus stop is mostly covered."
+              }
+            },
+            {
+              "name": "Kröller-Müller Museum",
+              "tip_5lang": {
+                "de": "Der Bus hält fast unmittelbar vor dem Eingang.",
+                "hu": "A busz szinte közvetlenül a bejárat előtt áll meg.",
+                "ro": "Autobuzul oprește aproape chiar în fața intrării.",
+                "en": "The bus stops almost right in front of the entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die App '9292' für Echtzeit-Fahrpläne.",
+              "Die OV-chipkaart ist das einfachste Zahlungsmittel.",
+              "Busse zum Nationalpark fahren seltener, Fahrplan prüfen.",
+              "Der Bahnhof Ede-Wageningen bietet Schließfächer für Gepäck."
+            ],
+            "hu": [
+              "Használja a '9292' alkalmazást a valós idejű menetrendhez.",
+              "Az OV-chipkaart a legegyszerűbb fizetési mód.",
+              "A nemzeti parkba tartó buszok ritkábban járnak, ellenőrizze.",
+              "Az Ede-Wageningen állomáson csomagmegőrző szekrények is vannak."
+            ],
+            "ro": [
+              "Folosiți aplicația '9292' pentru orare în timp real.",
+              "OV-chipkaart este cea mai simplă metodă de plată.",
+              "Autobuzele spre parcul național circulă mai rar; verificați orarul.",
+              "Gara Ede-Wageningen oferă dulapuri pentru bagaje."
+            ],
+            "en": [
+              "Use the '9292' app for real-time Dutch transit info.",
+              "An OV-chipkaart or contactless card is the best way to pay.",
+              "Buses to the national park run less frequently; check the schedule.",
+              "Ede-Wageningen Station has lockers for your luggage."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Entdecken Sie Ede im Winter ganz entspannt mit Bus und Bahn. Beginnen Sie am modernisierten Bahnhof Ede-Wageningen und besuchen Sie die festliche Innenstadt. Das Cultura bietet Wärme und Kultur. Die Fahrt zum Nationalpark Hoge Veluwe durch die winterliche Heidelandschaft ist besonders stimmungsvoll. Das Kröller-Müller Museum ist auch im Winter ein Highlight jeder Reise.",
+            "hu": "Fedezze fel Edét télen kényelmesen, busszal és vonattal. Kezdjen a modernizált Ede-Wageningen állomáson, majd látogasson el az ünnepi belvárosba. A Cultura meleget és kultúrát kínál. A Hoge Veluwe parkba tartó buszút a téli pusztán keresztül különösen hangulatos. A Kröller-Müller Múzeum télen is minden utazás fénypontja.",
+            "ro": "Descoperiți Ede iarna, relaxat, cu autobuzul și trenul. Începeți la gara modernizată Ede-Wageningen și vizitați centrul festiv. Cultura oferă căldură și programe culturale. Călătoria spre Hoge Veluwe prin peisajul de iarnă este foarte pitorească. Muzeul Kröller-Müller rămâne un punct culminant și iarna.",
+            "en": "Discover Ede in winter comfortably by bus and train. Start at the modernized Ede-Wageningen Station and visit the festive city center. Cultura offers warmth and local culture. The bus ride to Hoge Veluwe National Park through the winter heathland is particularly scenic. The Kröller-Müller Museum is a highlight of any trip, even in winter."
+          },
+          "stops": [
+            {
+              "name": "Ede-Wageningen Station",
+              "tip_5lang": {
+                "de": "Der Bahnhof ist gut beheizt und modern.",
+                "hu": "Az állomás jól fűtött és modern.",
+                "ro": "Gara este bine încălzită și modernă.",
+                "en": "The station is well-heated and modern."
+              }
+            },
+            {
+              "name": "Oude Kerk (Old Church)",
+              "tip_5lang": {
+                "de": "Besonders schön in der frühen Winterdämmerung.",
+                "hu": "Különösen szép a korai téli szürkületben.",
+                "ro": "Deosebit de frumoasă în amurgul timpuriu de iarnă.",
+                "en": "Particularly beautiful in the early winter twilight."
+              }
+            },
+            {
+              "name": "Cultura Ede",
+              "tip_5lang": {
+                "de": "Idealer Ort für eine Pause im Warmen.",
+                "hu": "Ideális hely egy szünetre a melegben.",
+                "ro": "Locul ideal pentru o pauză la căldură.",
+                "en": "Ideal place for a break in the warm interior."
+              }
+            },
+            {
+              "name": "Bus Stop to Hoge Veluwe National Park",
+              "tip_5lang": {
+                "de": "Kommen Sie pünktlich, um langes Warten in der Kälte zu vermeiden.",
+                "hu": "Érkezzen pontosan, hogy ne várjon sokat a hidegben.",
+                "ro": "Veniți la timp pentru a nu aștepta mult în frig.",
+                "en": "Arrive on time to avoid waiting too long in the cold."
+              }
+            },
+            {
+              "name": "Kröller-Müller Museum",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Winteröffnungszeiten vorab.",
+                "hu": "Előre ellenőrizze a téli nyitvatartást.",
+                "ro": "Verificați programul de iarnă în prealabil.",
+                "en": "Check the winter opening hours in advance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrpläne können sich an Feiertagen ändern.",
+              "Züge zwischen Ede und Utrecht verkehren sehr häufig.",
+              "Halten Sie Ihre Fahrkarte für die Parkkontrolle bereit.",
+              "Im Winter sind die Busse oft weniger überfüllt."
+            ],
+            "hu": [
+              "A menetrendek ünnepnapokon változhatnak.",
+              "A vonatok Ede és Utrecht között nagyon gyakran járnak.",
+              "Tartsa készenlétben jegyét a park ellenőrzéséhez.",
+              "Télen a buszok gyakran kevésbé zsúfoltak."
+            ],
+            "ro": [
+              "Orarele se pot schimba în zilele de sărbătoare.",
+              "Trenurile între Ede și Utrecht circulă foarte des.",
+              "Aveți biletul la îndemână pentru controlul la intrarea în parc.",
+              "Iarna, autobuzele sunt adesea mai puțin aglomerate."
+            ],
+            "en": [
+              "Schedules may change during the winter holidays.",
+              "Trains between Ede and Utrecht run very frequently.",
+              "Keep your ticket ready for the park entry control.",
+              "Buses are often less crowded during the winter season."
+            ]
+          }
+        }
       }
     }
   }

@@ -362,6 +362,196 @@
           "Bring a reusable water bottle; the tap water is delicious.",
           "The walk to Gálgahraun is long but the otherworldly landscape is worth it."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Am Morgen erkunden wir die Hofstaðir-Ruinen unter regnerischem Himmel. Mittags bietet das Designmuseum den perfekten trockenen Zufluchtsort. Am Nachmittag wärmen wir uns bei der Garðakirkja und einem heißen Lunch auf. Abends spazieren wir durch das mystische, nasse Gálgahraun-Lavafeld bis nach Bessastaðir.",
+            "hu": "Reggel a Hofstaðir romjai közt kezdünk, az eső dacára is érezni a történelmet. Délben a Design Múzeumban találunk menedéket a modern alkotások közt. Délután a Garðakirkja templom és egy meleg leves tölt fel minket. Este a Gálgahraun lávamezői közt sétálunk Bessastaðir felé a drámai szürkületben.",
+            "ro": "Dimineața explorăm ruinele Hofstaðir sub un cer ploios. La prânz, Muzeul de Design oferă refugiul perfect printre creații moderne. După-amiaza ne încălzim la biserica Garðakirkja și cu un prânz cald. Seara ne plimbăm prin câmpul de lavă Gálgahraun, umed și mistic, spre Bessastaðir.",
+            "en": "Morning starts at Hofstaðir ruins, where history feels alive even in the rain. At noon, the Design Museum provides a perfect dry sanctuary. In the afternoon, Garðakirkja and a warm lunch recharge us. Evening brings a moody walk through wet lava fields at Gálgahraun towards Bessastaðir."
+          },
+          "stops": [
+            {
+              "name": "Hofstaðir Historical Park",
+              "tip_5lang": {
+                "de": "Regenkleidung ist hier wichtig, da die Ruinen komplett im Freien liegen.",
+                "hu": "Teljesen nyitott terület, vízálló rétegek kötelezőek a romok megtekintéséhez.",
+                "ro": "Zonă complet deschisă, straturile impermeabile sunt obligatorii pentru vizitare.",
+                "en": "Fully open area, waterproof layers are mandatory for viewing the ruins."
+              }
+            },
+            {
+              "name": "Museum of Design and Applied Art",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe, um Ihre nassen Sachen zu trocknen, während Sie die Kunst genießen.",
+                "hu": "Használja a ruhatárat a vizes kabátoknak, amíg a kiállítást élvezi.",
+                "ro": "Folosiți garderoba pentru hainele ude în timp ce savurați expoziția.",
+                "en": "Use the cloakroom for wet coats while you enjoy the exhibition."
+              }
+            },
+            {
+              "name": "Garðakirkja Church",
+              "tip_5lang": {
+                "de": "Ein friedlicher Ort, um dem Prasseln des Regens zu lauschen.",
+                "hu": "Békés helyszín, tökéletes menedék az eső kopogása elől.",
+                "ro": "Un loc liniștit, refugiul perfect pentru a asculta ropotul ploii.",
+                "en": "A peaceful spot, perfect refuge to listen to the pattering rain."
+              }
+            },
+            {
+              "name": "Lunch in the center",
+              "tip_5lang": {
+                "de": "Bestellen Sie die isländische Kjötsúpa, um sich von innen aufzuwärmen.",
+                "hu": "Rendeljen izlandi húslevest (Kjötsúpa), hogy belülről is felmelegedjen.",
+                "ro": "Comandați supa de carne islandeză (Kjötsúpa) pentru a vă încălzi.",
+                "en": "Order the Icelandic meat soup (Kjötsúpa) to warm up from the inside."
+              }
+            },
+            {
+              "name": "Gálgahraun lava field",
+              "tip_5lang": {
+                "de": "Vorsicht, die Lavasteine können bei Nässe sehr rutschig sein.",
+                "hu": "Vigyázat, a lávakövek vizesen rendkívül csúszósak lehetnek.",
+                "ro": "Atenție, pietrele de lavă pot fi extrem de alunecoase când sunt ude.",
+                "en": "Caution, the lava rocks can be extremely slippery when wet."
+              }
+            },
+            {
+              "name": "Bessastaðir",
+              "tip_5lang": {
+                "de": "Der Wind ist hier am Meer oft stärker, halten Sie Ihre Kapuze fest.",
+                "hu": "A tengerparton a szél felerősödhet, rögzítse jól az esőkabát kapucniját.",
+                "ro": "Vântul poate fi puternic la malul mării, fixați bine gluga pelerinei.",
+                "en": "Wind can be strong by the sea, secure your raincoat hood tightly."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vollständige Regenbekleidung inklusive Hose ist in Island unerlässlich.",
+              "Wanderschuhe mit gutem Grip helfen auf den nassen Lava-Pfaden.",
+              "Nutzen Sie die Cafés im Zentrum für strategische Trockenpausen.",
+              "Die Lavafarben wirken im Regen viel intensiver und dunkler.",
+              "Windfeste Regenschirme sind zwecklos, setzen Sie auf gute Kapuzen."
+            ],
+            "hu": [
+              "A teljes esőfelszerelés, nadrággal együtt, elengedhetetlen Izlandon.",
+              "A jó tapadású túrabakancs segít a vizes lávaösvényeken.",
+              "Használja a központi kávézókat stratégiai száradó szünetekre.",
+              "A láva színei esőben sokkal intenzívebbek és sötétebbek.",
+              "A szélálló esernyő itt hiábavaló, válasszon jó kapucnit."
+            ],
+            "ro": [
+              "Echipamentul complet de ploaie, inclusiv pantalonii, este esențial în Islanda.",
+              "Bocancii cu aderență bună ajută pe potecile de lavă ude.",
+              "Folosiți cafenelele centrale pentru pauze strategice de uscare.",
+              "Culorile lavei sunt mult mai intense și întunecate pe ploaie.",
+              "Umbrelele rezistente la vânt sunt inutile, mizați pe glugi bune."
+            ],
+            "en": [
+              "Full rain gear, including trousers, is essential in Iceland.",
+              "Hiking boots with good grip help on the wet lava paths.",
+              "Use central cafes for strategic drying breaks.",
+              "Lava colors appear much more intense and dark in the rain.",
+              "Windproof umbrellas are useless here, rely on good hoods."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt frisch an den verschneiten Ruinen von Hofstaðir. Zu Mittag bietet das Designmuseum wohlige Wärme und Inspiration. Nachmittags besuchen wir die Garðakirkja im sanften Winterlicht vor dem frühen Sonnenuntergang. Abends erleben wir die frostige Stille von Gálgahraun unter dem Sternenhimmel.",
+            "hu": "A reggel frissen indul Hofstaðir havas romjai között. Délben a Design Múzeum nyújt meleg menedéket és inspirációt. Délután a Garðakirkja templomot látogatjuk meg a téli fényekben, még a korai naplemente előtt. Este a fagyos csendet élvezzük Gálgahraun lávamezőin a csillagos ég alatt.",
+            "ro": "Dimineața începe proaspăt printre ruinele înzăpezite de la Hofstaðir. La prânz, Muzeul de Design oferă căldură și inspirație. După-amiaza vizităm biserica Garðakirkja în lumina blândă de iarnă, înainte de apusul timpuriu. Seara experimentăm liniștea înghețată din Gálgahraun sub cerul înstelat.",
+            "en": "Morning starts fresh at the snow-covered ruins of Hofstaðir. At noon, the Design Museum offers cozy warmth and inspiration. In the afternoon, we visit Garðakirkja in soft winter light before the early sunset. Evening brings the frosty silence of Gálgahraun under the starry sky."
+          },
+          "stops": [
+            {
+              "name": "Hofstaðir Historical Park",
+              "tip_5lang": {
+                "de": "Die Pfade können vereist sein, tragen Sie Schuhe mit gutem Profil.",
+                "hu": "Az ösvények jegesek lehetnek, viseljen jó profilú, csúszásmentes cipőt.",
+                "ro": "Potecile pot fi înghețate, purtați încălțăminte cu profil bun.",
+                "en": "Paths can be icy, wear shoes with good tread or microspikes."
+              }
+            },
+            {
+              "name": "Museum of Design and Applied Art",
+              "tip_5lang": {
+                "de": "Genießen Sie einen heißen Kaffee im Museumscafé, um sich aufzuwärmen.",
+                "hu": "Élvezzen egy forró kávét a múzeumi kávézóban a felmelegedéshez.",
+                "ro": "Savurați o cafea fierbinte la cafeneaua muzeului pentru a vă încălzi.",
+                "en": "Enjoy a hot coffee at the museum cafe to warm up properly."
+              }
+            },
+            {
+              "name": "Garðakirkja Church",
+              "tip_5lang": {
+                "de": "Beachten Sie die festliche Beleuchtung, die im Winter besonders schön ist.",
+                "hu": "Figyelje meg az ünnepi kivilágítást, ami télen különösen szép.",
+                "ro": "Observați iluminatul festiv, care este deosebit de frumos iarna.",
+                "en": "Notice the festive lighting, which is especially beautiful in winter."
+              }
+            },
+            {
+              "name": "Lunch in the center",
+              "tip_5lang": {
+                "de": "Wählen Sie einen Platz am Fenster, um das letzte Tageslicht zu nutzen.",
+                "hu": "Válasszon ablak melletti asztalt, hogy kihasználja az utolsó fényeket.",
+                "ro": "Alegeți o masă la fereastră pentru a profita de ultima lumină a zilei.",
+                "en": "Choose a window seat to make the most of the remaining daylight."
+              }
+            },
+            {
+              "name": "Gálgahraun lava field",
+              "tip_5lang": {
+                "de": "Stirnlampen sind ratsam, da es nach 16 Uhr schnell dunkel wird.",
+                "hu": "Fejlámpa ajánlott, mivel 16 óra után gyorsan sötétedik.",
+                "ro": "Lanterna frontală este recomandată, deoarece se întunecă repede după ora 16.",
+                "en": "Headlamps are advised as it gets dark quickly after 4 PM."
+              }
+            },
+            {
+              "name": "Bessastaðir",
+              "tip_5lang": {
+                "de": "Halten Sie Ausschau nach Polarlichtern, wenn der Himmel klar ist.",
+                "hu": "Tiszta égbolt esetén figyelje az északi fényt a horizonton.",
+                "ro": "Dacă cerul este senin, căutați aurora boreală la orizont.",
+                "en": "Keep an eye out for Northern Lights if the sky is clear."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich nach dem Zwiebelprinzip mit Wolle als Basisschicht.",
+              "Die Sonne geht im Mittwinter bereits gegen 15:30 Uhr unter.",
+              "Taschenwärmer können bei längeren Fotostopps sehr hilfreich sein.",
+              "Achten Sie auf Glatteis auf den Gehwegen abseits der Hauptstraßen.",
+              "Warme, wasserdichte Handschuhe sind für Außenaktivitäten Pflicht."
+            ],
+            "hu": [
+              "Öltözzön rétegesen, gyapjú alapréteggel a hideg ellen.",
+              "Tél közepén a nap már délután 15:30 körül lenyugszik.",
+              "A zsebmelegítők nagyon hasznosak lehetnek a fotómegállóknál.",
+              "Ügyeljen a jegesedésre a mellékutcák járdáin.",
+              "A meleg, vízálló kesztyű kötelező a kültéri programokhoz."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi, cu lână ca strat de bază împotriva frigului.",
+              "În mijlocul iernii, soarele apune deja în jurul orei 15:30.",
+              "Încălzitoarele de buzunar pot fi foarte utile la opririle foto.",
+              "Atenție la polei pe trotuarele străzilor secundare.",
+              "Mănușile calde și impermeabile sunt obligatorii pentru activități externe."
+            ],
+            "en": [
+              "Dress in layers with wool as a base layer against the cold.",
+              "In mid-winter, the sun sets as early as 3:30 PM.",
+              "Hand warmers can be very helpful during longer photo stops.",
+              "Watch out for black ice on sidewalks away from main roads.",
+              "Warm, waterproof gloves are mandatory for outdoor activities."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -742,6 +932,214 @@
           "Check the wind direction before you leave; a headwind can be exhausting.",
           "Many areas have dedicated bike paths, which are safer and more enjoyable than the road."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regen hält uns nicht auf: Wir radeln morgens zum nebligen Vífilsstaðavatn. Mittags wärmen wir uns im Designmuseum auf, bevor wir Garðabær erkunden. Nach dem Lunch geht es durch das nasse Lavafeld nach Bessastaðir. Der Tag endet an der historischen Bessastaðakirkja unter grauen Wolken.",
+            "hu": "Az eső nem állít meg: reggel a ködös Vífilsstaðavatn tóhoz tekerünk. Délben a Design Múzeumban melegszünk fel Garðabær felfedezése előtt. Ebéd után a vizes lávamezőn át jutunk el Bessastaðirba. A nap a történelmi Bessastaðakirkja templomnál zárul a szürke felhők alatt.",
+            "ro": "Ploaia nu ne oprește: pedalăm dimineața spre lacul cețos Vífilsstaðavatn. La prânz ne încălzim la Muzeul de Design înainte de a explora Garðabær. După prânz, trecem prin câmpul de lavă umed spre Bessastaðir. Ziua se încheie la biserica istorică Bessastaðakirkja sub nori gri.",
+            "en": "Rain won't stop us: we cycle to misty Lake Vífilsstaðavatn in the morning. At noon, we warm up in the Design Museum before exploring Garðabær. After lunch, we navigate the wet lava field to Bessastaðir. The day ends at the historic Bessastaðakirkja under gray clouds."
+          },
+          "stops": [
+            {
+              "name": "Lake Vífilsstaðavatn",
+              "tip_5lang": {
+                "de": "Vorsicht auf unbefestigten Wegen, sie können matschig sein.",
+                "hu": "Vigyázzon a nem aszfaltozott utakon, sárra és tócsákra számítson.",
+                "ro": "Atenție pe drumurile neasfaltate, pot fi noroioase.",
+                "en": "Careful on unpaved paths around the lake, they can be muddy."
+              }
+            },
+            {
+              "name": "Hofstaðir Historical Park",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad sicher ab; Metallständer sind bei Nässe rutschig.",
+                "hu": "Biztonságosan támassza le a biciklit; a fém tárolók csúszósak lehetnek.",
+                "ro": "Parcați bicicleta în siguranță; suporturile metalice sunt alunecoase.",
+                "en": "Park your bike securely; metal racks are slippery when wet."
+              }
+            },
+            {
+              "name": "Museum of Design",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um schnell ins Trockene zu kommen.",
+                "hu": "Parkoljon közel a bejárathoz, hogy gyorsan fedél alá kerüljön.",
+                "ro": "Parcați aproape de intrare pentru a ajunge rapid la adăpost.",
+                "en": "Park close to the entrance to get into the dry quickly."
+              }
+            },
+            {
+              "name": "Lunch",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit Sichtkontakt zu Ihren Rädern.",
+                "hu": "Válasszon olyan helyet, ahonnan rálát a lezárt biciklikre.",
+                "ro": "Alegeți un loc de unde puteți vedea bicicletele parcate.",
+                "en": "Choose a spot where you can keep an eye on your bikes."
+              }
+            },
+            {
+              "name": "Gálgahraun lava field",
+              "tip_5lang": {
+                "de": "Halten Sie mehr Abstand beim Bremsen auf nasser Lava-Asche.",
+                "hu": "Tartson nagyobb féktávot a vizes láva-hamus utakon.",
+                "ro": "Păstrați o distanță de frânare mai mare pe cenușa de lavă umedă.",
+                "en": "Maintain a longer braking distance on wet lava-ash paths."
+              }
+            },
+            {
+              "name": "Bessastaðir",
+              "tip_5lang": {
+                "de": "Achten Sie auf starken Seitenwind auf dem Dammweg.",
+                "hu": "Ügyeljen az erős oldalszélre a gáton vezető úton.",
+                "ro": "Atenție la vântul lateral puternic pe drumul de pe dig.",
+                "en": "Watch out for strong crosswinds on the causeway road."
+              }
+            },
+            {
+              "name": "Bessastaakirkja Church",
+              "tip_5lang": {
+                "de": "Ein schöner Ort, um kurz zu verschnaufen, bevor es zurückgeht.",
+                "hu": "Szép hely egy rövid pihenőre a visszaút előtt.",
+                "ro": "Un loc frumos pentru un scurt popas înainte de întoarcere.",
+                "en": "A lovely spot for a brief rest before heading back."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserdichte Überschuhe, um die Füße trocken zu halten.",
+              "Ein Schutzblech ist bei isländischem Regen ein Muss.",
+              "Vermeiden Sie hektische Lenkbewegungen auf Pfützen.",
+              "Sorgen Sie für gute Beleuchtung, da die Sicht schlechter ist.",
+              "Wischen Sie den Sattel vor jeder Fahrt trocken."
+            ],
+            "hu": [
+              "Viseljen vízálló kamáslit, hogy lábai szárazon maradjanak.",
+              "A sárvédő Izlandon kötelező tartozék esőben.",
+              "Kerülje a hirtelen kormánymozdulatokat a tócsákban.",
+              "Gondoskodjon a jó világításról a rosszabb látási viszonyok miatt.",
+              "Minden indulás előtt törölje szárazra a nyerget."
+            ],
+            "ro": [
+              "Purtați huse impermeabile pentru încălțăminte ca să aveți picioarele uscate.",
+              "Apărătorile de noroi sunt obligatorii în ploaia islandeză.",
+              "Evitați mișcările bruște de ghidon în bălți.",
+              "Asigurați-vă un iluminat bun, vizibilitatea fiind redusă.",
+              "Ștergeți șaua înainte de fiecare plecare."
+            ],
+            "en": [
+              "Wear waterproof overshoes to keep your feet dry.",
+              "Mudguards (fenders) are a must in the Icelandic rain.",
+              "Avoid sudden steering movements in puddles.",
+              "Ensure good lighting as visibility is significantly lower.",
+              "Wipe your saddle dry before every ride."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winter-Biking: Morgens geht es vorsichtig zum gefrorenen Vífilsstaðavatn. Mittags wärmen wir uns im Designmuseum auf. Nachmittags nutzen wir das letzte Licht für Garðabær. Abends radeln wir durch die klare, frostige Luft zum beleuchteten Bessastaðir und seiner Kirche.",
+            "hu": "Téli kerékpározás: reggel óvatosan tekerünk a befagyott Vífilsstaðavatn tóhoz. Délben a Design Múzeumban melegszünk fel. Délután az utolsó fényeket használjuk ki Garðabérban. Este a tiszta, fagyos levegőben érjük el a kivilágított Bessastaðirt és templomát.",
+            "ro": "Ciclism de iarnă: dimineața pedalăm cu grijă spre lacul înghețat Vífilsstaðavatn. La prânz ne încălzim la Muzeul de Design. După-amiaza profităm de ultima lumină în Garðabær. Seara pedalăm prin aerul rece spre Bessastaðirul iluminat.",
+            "en": "Winter biking: we head carefully to frozen Lake Vífilsstaðavatn in the morning. At noon, we warm up at the Design Museum. In the afternoon, we catch the last light in Garðabær. Evening finds us cycling through crisp, frosty air to lit-up Bessastaðir."
+          },
+          "stops": [
+            {
+              "name": "Lake Vífilsstaðavatn",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenen Pfützen auf den Uferwegen.",
+                "hu": "Vigyázzon a befagyott tócsákkal a tóparti utakon.",
+                "ro": "Atenție la bălțile înghețate de pe drumurile de pe mal.",
+                "en": "Beware of frozen puddles on the lakeside paths."
+              }
+            },
+            {
+              "name": "Hofstaðir Historical Park",
+              "tip_5lang": {
+                "de": "Metallteile am Rad können bei Frost festfrieren.",
+                "hu": "A kerékpár fém részei fagyban könnyen ráfagyhatnak a kézre.",
+                "ro": "Părțile metalice ale bicicletei pot îngheța la temperaturi scăzute.",
+                "en": "Metal parts of the bike can become extremely cold; use gloves."
+              }
+            },
+            {
+              "name": "Museum of Design",
+              "tip_5lang": {
+                "de": "Nehmen Sie abnehmbare Lichter mit rein, damit sie nicht einfrieren.",
+                "hu": "Vigye be a levehető lámpákat, hogy az akkuk ne merüljenek le.",
+                "ro": "Luați luminile detașabile în interior ca să nu se descarce bateriile.",
+                "en": "Take detachable lights inside so the batteries don't drain in the cold."
+              }
+            },
+            {
+              "name": "Lunch",
+              "tip_5lang": {
+                "de": "Lassen Sie das Rad an einem beleuchteten Ort stehen.",
+                "hu": "Hagyja a kerékpárt jól megvilágított helyen.",
+                "ro": "Lăsați bicicleta într-un loc bine iluminat.",
+                "en": "Leave your bike in a well-lit area while you eat."
+              }
+            },
+            {
+              "name": "Gálgahraun lava field",
+              "tip_5lang": {
+                "de": "Schnee kann Spalten in der Lava verdecken, bleiben Sie auf dem Weg.",
+                "hu": "A hó elfedheti a láva réseit, maradjon szigorúan az úton.",
+                "ro": "Zăpada poate ascunde fisurile din lavă, rămâneți strict pe drum.",
+                "en": "Snow can hide cracks in the lava; stay strictly on the path."
+              }
+            },
+            {
+              "name": "Bessastaðir",
+              "tip_5lang": {
+                "de": "Extremer Windchill auf dem Rad; schützen Sie Ihr Gesicht.",
+                "hu": "Erős szélhűtés kerékpározáskor; védje az arcát maszkka.",
+                "ro": "Senzație de frig accentuată pe bicicletă; protejați-vă fața.",
+                "en": "Extreme windchill while cycling; protect your face with a buff."
+              }
+            },
+            {
+              "name": "Bessastaðakirkja Church",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe vor der frostigen Rückfahrt.",
+                "hu": "Élvezze a csendet a fagyos visszaút előtt.",
+                "ro": "Bucurați-vă de liniște înainte de întoarcerea geroasă.",
+                "en": "Enjoy the quiet before the frosty ride back."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Spikereifen sind bei Eis in Island sehr zu empfehlen.",
+              "Die Batterien von E-Bikes entladen sich bei Kälte schneller.",
+              "Tragen Sie eine winddichte Skimaske unter dem Helm.",
+              "Bremsen Sie vorsichtig, da die Felgen vereist sein können.",
+              "Planen Sie die Rückkehr vor 16 Uhr ein (Tageslicht)."
+            ],
+            "hu": [
+              "A szöges gumi erősen ajánlott a jeges izlandi utakon.",
+              "Az elektromos kerékpárok akkumulátora gyorsabban merül hidegben.",
+              "Viseljen szélálló maszkot a sisak alatt.",
+              "Óvatosan fékezzen, a felnik ráfagyhatnak a fékbetétre.",
+              "Tervezze a visszaérkezést 16 óra elé (nappali fény)."
+            ],
+            "ro": [
+              "Anvelopele cu ținte sunt recomandate pe drumurile înghețate.",
+              "Bateriile bicicletelor electrice se descarcă mai repede la frig.",
+              "Purtați o mască rezistentă la vânt sub cască.",
+              "Frânați cu grijă, jantele pot fi înghețate.",
+              "Planificați întoarcerea înainte de ora 16:00 (lumina zilei)."
+            ],
+            "en": [
+              "Studded tires are highly recommended on icy Icelandic roads.",
+              "E-bike batteries drain much faster in the cold.",
+              "Wear a windproof balaclava under your helmet.",
+              "Brake cautiously as rims might be icy.",
+              "Plan to return before 4 PM to stay in daylight."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1122,6 +1520,214 @@
           "Be aware of speed limits, which can change frequently.",
           "The car gives you the flexibility to stop for spontaneous photo opportunities."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Bequem im Auto geht es morgens zur nebligen Heiðmörk und dem Vífilsstaðavatn. Mittags besuchen wir Hofstaðir und das Designmuseum. Nach dem Lunch an der Garðakirkja fahren wir zum verregneten Gálgahraun. Der Tag endet sicher und trocken bei Bessastaðir und seiner Kirche.",
+            "hu": "Kényelmesen, autóval indulunk reggel a ködös Heiðmörkbe és a Vífilsstaðavatn tóhoz. Délben Hofstaðir és a Design Múzeum vár ránk. Az ebéd után a Garðakirkja templomot, majd az esős Gálgahraun mezőt nézzük meg. A napot biztonságban és szárazon zárjuk Bessastaðirnál.",
+            "ro": "Confortabil, cu mașina, mergem dimineața spre Heiðmörk și lacul Vífilsstaðavatn. La prânz vizităm Hofstaðir și Muzeul de Design. După prânz vedem biserica Garðakirkja și câmpul de lavă ploios. Încheiem ziua la Bessastaðir, la adăpost de ploaie.",
+            "en": "Comfortably by car, we start in misty Heiðmörk and at Lake Vífilsstaðavatn. Midday is spent at Hofstaðir and the Design Museum. After lunch at Garðakirkja, we drive to rainy Gálgahraun. The day ends warm and dry at Bessastaðir and its church."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Heiðmörk Nature Reserve",
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den befestigten Parkplätzen, um nicht im Matsch steckenzubleiben.",
+                "hu": "Maradjon a kijelölt parkolókban, hogy ne akadjon el a sárban.",
+                "ro": "Rămâneți în parcările amenajate pentru a nu rămâne blocați în noroi.",
+                "en": "Stay on paved parking lots to avoid getting stuck in the mud."
+              }
+            },
+            {
+              "name": "Cluster A: Lake Vífilsstaðavatn",
+              "tip_5lang": {
+                "de": "Kurze Fotostopps vom Auto aus sind bei starkem Regen ideal.",
+                "hu": "A rövid fotómegállók az autóból ideálisak erős esőben.",
+                "ro": "Opririle foto scurte din mașină sunt ideale pe ploaie puternică.",
+                "en": "Short photo stops from the car are ideal during heavy rain."
+              }
+            },
+            {
+              "name": "Cluster B: Hofstaðir & Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus in der Nähe, um trocken ins Museum zu gelangen.",
+                "hu": "Használja a közeli parkolót, hogy szárazon jusson a múzeumba.",
+                "ro": "Folosiți parcarea apropiată pentru a ajunge uscat la muzeu.",
+                "en": "Use the nearby parking to get to the museum as dry as possible."
+              }
+            },
+            {
+              "name": "Cluster B: Lunch & Garðakirkja",
+              "tip_5lang": {
+                "de": "Parkplätze direkt vor der Kirche sind meist verfügbar.",
+                "hu": "A templom előtti parkolók általában szabadok.",
+                "ro": "Parcările direct în fața bisericii sunt de obicei disponibile.",
+                "en": "Parking spots directly in front of the church are usually available."
+              }
+            },
+            {
+              "name": "Cluster C: Gálgahraun lava field",
+              "tip_5lang": {
+                "de": "Die Zufahrtsstraßen können große Pfützen haben, fahren Sie langsam.",
+                "hu": "A bekötőutakon nagy tócsák lehetnek, hajtson lassan.",
+                "ro": "Drumurile de acces pot avea bălți mari, conduceți încet.",
+                "en": "Access roads can have large puddles; drive slowly."
+              }
+            },
+            {
+              "name": "Cluster C: Bessastaðir",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist exponiert, Windböen beim Türöffnen beachten.",
+                "hu": "A parkoló nyitott, figyeljen az ajtónyitáskor a széllökésekre.",
+                "ro": "Parcarea este expusă, atenție la rafalele de vânt când deschideți ușa.",
+                "en": "The parking lot is exposed; watch for wind gusts when opening doors."
+              }
+            },
+            {
+              "name": "Cluster C: Bessastaðakirkja Church",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das Meer durch die Scheiben.",
+                "hu": "Élvezze a kilátást a tengerre az autó ablakán keresztül.",
+                "ro": "Bucurați-vă de vederea spre mare prin geamurile mașinii.",
+                "en": "Enjoy the sea view through the car windows."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Halten Sie beim Türöffnen die Tür fest (isländischer Wind).",
+              "Nutzen Sie die Klimaanlage gegen beschlagene Scheiben.",
+              "Prüfen Sie road.is auf wetterbedingte Sperrungen.",
+              "Haben Sie immer ein Handtuch im Auto bereit.",
+              "Vermeiden Sie das Parken in tiefen Senken (Überflutungsgefahr)."
+            ],
+            "hu": [
+              "Ajtónyitáskor fogja erősen az ajtót (izlandi szél).",
+              "Használja a légkondicionálót a szélvédő páramentesítésére.",
+              "Ellenőrizze a road.is oldalt az esetleges útlezárásokért.",
+              "Mindig legyen kéznél egy törölköző az autóban.",
+              "Kerülje a mélyebb mélyedésekben való parkolást (vízelöntés)."
+            ],
+            "ro": [
+              "Țineți bine ușa când o deschideți (vânt islandez puternic).",
+              "Folosiți aerul condiționat pentru a dezaburi parbrizul.",
+              "Verificați road.is pentru eventuale drumuri închise.",
+              "Aveți întotdeauna un prosop la îndemână în mașină.",
+              "Evitați parcarea în zone joase (risc de inundație)."
+            ],
+            "en": [
+              "Hold the car door firmly when opening (Icelandic wind).",
+              "Use the AC to prevent windows from fogging up.",
+              "Check road.is for weather-related road closures.",
+              "Keep a towel handy in the car at all times.",
+              "Avoid parking in deep hollows due to flooding risk."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Wintertour mit dem Auto: Morgens geht es sicher durch die Schneelandschaft von Heiðmörk. Mittags besuchen wir Hofstaðir und das warme Designmuseum. Nach dem Lunch an der Garðakirkja bewundern wir das verschneite Gálgahraun. Der Tag endet im magischen Winterlicht bei Bessastaðir.",
+            "hu": "Téli autós túra: reggel biztonságban járjuk be Heiðmörk havas tájait. Délben Hofstaðir és a meleg Design Múzeum vár ránk. Az ebéd után a Garðakirkja, majd a hófödte Gálgahraun mező következik. A napot mágikus téli fényekben zárjuk Bessastaðirnál.",
+            "ro": "Tur de iarnă cu mașina: dimineața parcurgem în siguranță peisajele înzăpezite din Heiðmörk. La prânz vizităm Hofstaðir și Muzeul de Design. După prânz urmează Garðakirkja și câmpul de lavă înzăpezit. Încheiem ziua în lumina magică de iarnă la Bessastaðir.",
+            "en": "Winter road trip: morning starts safely through the snowy landscapes of Heiðmörk. Midday is for Hofstaðir and the warm Design Museum. After lunch at Garðakirkja, we admire snowy Gálgahraun. The day concludes in magical winter light at Bessastaðir."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Heiðmörk Nature Reserve",
+              "tip_5lang": {
+                "de": "Achten Sie auf Schneeverwehungen auf den Zufahrtswegen.",
+                "hu": "Ügyeljen a hóátfúvásokra a bekötőutakon.",
+                "ro": "Atenție la troienele de zăpadă pe drumurile de acces.",
+                "en": "Watch out for snowdrifts on the access roads."
+              }
+            },
+            {
+              "name": "Cluster A: Lake Vífilsstaðavatn",
+              "tip_5lang": {
+                "de": "Der See ist oft gefroren, ein tolles Fotomotiv.",
+                "hu": "A tó gyakran befagy, remek fotótéma az autóból.",
+                "ro": "Lacul este adesea înghețat, un subiect foto excelent.",
+                "en": "The lake is often frozen; a great photo motive from the car."
+              }
+            },
+            {
+              "name": "Cluster B: Hofstaðir & Museum",
+              "tip_5lang": {
+                "de": "Parken Sie nicht unter Dachkanten (Eiszapfengefahr).",
+                "hu": "Ne parkoljon tetőperemek alatt (jégcsapveszély).",
+                "ro": "Nu parcați sub streșini (risc de cădere a țurțurilor).",
+                "en": "Do not park directly under roof edges (danger of falling icicles)."
+              }
+            },
+            {
+              "name": "Cluster B: Lunch & Garðakirkja",
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor nicht unnötig im Stand laufen.",
+                "hu": "Ne járassa feleslegesen a motort várakozás közben.",
+                "ro": "Nu lăsați motorul pornit inutil în timp ce staționați.",
+                "en": "Do not leave the engine idling unnecessarily while waiting."
+              }
+            },
+            {
+              "name": "Cluster C: Gálgahraun lava field",
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den geräumten Straßenabschnitten.",
+                "hu": "Maradjon a letakarított útszakaszokon.",
+                "ro": "Rămâneți pe porțiunile de drum curățate de zăpadă.",
+                "en": "Stay on the cleared sections of the road."
+              }
+            },
+            {
+              "name": "Cluster C: Bessastaðir",
+              "tip_5lang": {
+                "de": "Vorsicht, der Parkplatz kann spiegelglatt sein.",
+                "hu": "Vigyázat, a parkoló tükörsima és jeges lehet.",
+                "ro": "Atenție, parcarea poate fi extrem de alunecoasă.",
+                "en": "Caution: the parking lot surface can be very icy and slippery."
+              }
+            },
+            {
+              "name": "Cluster C: Bessastaðakirkja Church",
+              "tip_5lang": {
+                "de": "Genießen Sie den warmen Innenraum vor der Rückfahrt.",
+                "hu": "Élvezze a meleg belső teret a visszaindulás előtt.",
+                "ro": "Bucurați-vă de interiorul cald înainte de plecare.",
+                "en": "Enjoy the warm interior before heading back."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind Pflicht, Spikereifen empfohlen.",
+              "Halten Sie den Tank für Notfälle mindestens halbvoll.",
+              "Ein Eiskratzer und ein kleiner Besen sind unverzichtbar.",
+              "Fahren Sie immer mit eingeschaltetem Licht.",
+              "Vermeiden Sie abrupte Bremsmanöver auf vereister Fahrbahn."
+            ],
+            "hu": [
+              "A téli gumi kötelező, a szöges gumi ajánlott.",
+              "Vészhelyzet esetére tartsa az üzemanyagtartályt legalább félig.",
+              "A jégkaparó és egy kis kefe elengedhetetlen tartozék.",
+              "Mindig bekapcsolt fényszóróval közlekedjen.",
+              "Kerülje a hirtelen fékezést a jeges úttesten."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii, cele cu ținte recomandate.",
+              "Păstrați rezervorul cel puțin pe jumătate plin pentru urgențe.",
+              "Răzuitoarea de gheață și o perie mică sunt indispensabile.",
+              "Conduceți întotdeauna cu luminile aprinse.",
+              "Evitați frânările bruște pe carosabilul înghețat."
+            ],
+            "en": [
+              "Winter tires are mandatory; studded tires are recommended.",
+              "Keep the fuel tank at least half full for emergencies.",
+              "An ice scraper and a small brush are indispensable.",
+              "Always drive with your headlights turned on.",
+              "Avoid abrupt braking maneuvers on icy roads."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1454,6 +2060,178 @@
           "Plan for extra time for potential bus delays.",
           "Bus stops are not always directly at the attractions, so be prepared for short walks."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus geht es morgens trocken zum Designmuseum und Hofstaðir. Mittags genießen wir Lunch und die Garðakirkja. Nachmittags besuchen wir das regnerische Gálgahraun. Abends nutzen wir die Busverbindung nach Bessastaðir und kehren bequem zurück.",
+            "hu": "Busszal reggel szárazon jutunk el a Design Múzeumhoz és Hofstaðirba. Délben ebéd és a Garðakirkja vár ránk. Délután az esős Gálgahraun mezőt keressük fel. Este a buszjáratot használjuk Bessastaðir felé, majd kényelmesen térünk vissza.",
+            "ro": "Cu autobuzul ajungem dimineața uscați la Muzeul de Design și Hofstaðir. La prânz savurăm prânzul și biserica Garðakirkja. După-amiaza vizităm câmpul de lavă ploios. Seara folosim autobuzul spre Bessastaðir și ne întoarcem confortabil.",
+            "en": "By bus, we reach the Design Museum and Hofstaðir dry in the morning. Midday is for lunch and Garðakirkja. In the afternoon, we explore rainy Gálgahraun. In the evening, we take the transit towards Bessastaðir and return comfortably."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Hofstaðir & Design Museum",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle ist nur wenige Gehminuten entfernt.",
+                "hu": "A buszmegálló mindössze pár perc sétára van.",
+                "ro": "Stația de autobuz este la doar câteva minute de mers pe jos.",
+                "en": "The bus stop is just a few minutes' walk away."
+              }
+            },
+            {
+              "name": "Cluster A: Garðakirkja & Lunch",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Wartezeit im Restaurant, bis der Bus kommt.",
+                "hu": "Várja meg a buszt az étteremben, amíg eláll az eső.",
+                "ro": "Așteptați autobuzul în restaurant până când se oprește ploaia.",
+                "en": "Wait for the bus inside the restaurant until it's due."
+              }
+            },
+            {
+              "name": "Cluster B: Gálgahraun lava field",
+              "tip_5lang": {
+                "de": "Der Fußweg von der Haltestelle kann windig sein.",
+                "hu": "A megállótól vezető gyalogút szeles lehet.",
+                "ro": "Drumul pe jos de la stație poate fi vântos.",
+                "en": "The walk from the bus stop can be very windy."
+              }
+            },
+            {
+              "name": "Cluster C: Bessastaðir",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Rückfahrzeiten vorab in der App.",
+                "hu": "Ellenőrizze előre a visszautat a mobilapplikációban.",
+                "ro": "Verificați din timp orele de întoarcere în aplicație.",
+                "en": "Check the return times in the app beforehand."
+              }
+            },
+            {
+              "name": "Cluster C: Bessastaðakirkja Church",
+              "tip_5lang": {
+                "de": "Ein schöner Ort, um geschützt auf den Bus zu warten.",
+                "hu": "Jó helyszín védett várakozásra a buszhoz.",
+                "ro": "Un loc bun pentru a aștepta autobuzul la adăpost.",
+                "en": "A good spot to wait for the bus while staying sheltered."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Klapp-App für papierlose Tickets.",
+              "Die Busse in Island sind pünktlich und gut beheizt.",
+              "Warten Sie in Unterständen, um trocken zu bleiben.",
+              "Planen Sie Pufferzeiten bei starkem Regen ein.",
+              "Kostenloses WLAN im Bus hilft bei der weiteren Planung."
+            ],
+            "hu": [
+              "Használja a Klapp appot a jegyvásárláshoz.",
+              "Az izlandi buszok pontosak és jól fűtöttek.",
+              "Várjon a fedett megállókban, hogy ne ázzon el.",
+              "Számoljon rá némi időt az eső miatti lassabb forgalomra.",
+              "A buszon lévő ingyen wifi segít a tervezésben."
+            ],
+            "ro": [
+              "Folosiți aplicația Klapp pentru bilete digitale.",
+              "Autobuzele islandeze sunt punctuale și bine încălzite.",
+              "Așteptați în stațiile acoperite pentru a rămâne uscați.",
+              "Luați în calcul o marjă de timp pe ploaie puternică.",
+              "Wi-Fi-ul gratuit din autobuz ajută la planificare."
+            ],
+            "en": [
+              "Use the Klapp app for paperless tickets.",
+              "Icelandic buses are punctual and well-heated.",
+              "Wait inside bus shelters to stay dry.",
+              "Allow extra time for potential rain delays.",
+              "Free Wi-Fi on the bus helps with further planning."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winter-Transit: Morgens bringt uns der Bus zum Designmuseum. Mittags erkunden wir Garðakirkja und wärmen uns beim Lunch auf. Nachmittags sehen wir das frostige Gálgahraun. Abends fahren wir zum festlich beleuchteten Bessastaðir und genießen die Winterstimmung.",
+            "hu": "Téli tömegközlekedés: reggel a busz a Design Múzeumhoz visz minket. Délben Garðakirkja és egy meleg ebéd vár. Délután a fagyos Gálgahraun mezőt látogatjuk meg. Este az ünnepi fényekben úszó Bessastaðirhoz utazunk busszal.",
+            "ro": "Transport public iarna: dimineața autobuzul ne duce la Muzeul de Design. La prânz explorăm Garðakirkja și ne încălzim la prânz. După-amiaza vizităm câmpul de lavă înghețat. Seara călătorim spre Bessastaðirul iluminat festiv.",
+            "en": "Winter transit: morning bus takes us to the Design Museum. Midday is for Garðakirkja and a warm lunch. In the afternoon, we see frosty Gálgahraun. Evening transit takes us to festive Bessastaðir to enjoy the winter mood."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Hofstaðir & Design Museum",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis an der Bushaltestelle.",
+                "hu": "Ügyeljen a jegesedésre a buszmegálló környékén.",
+                "ro": "Atenție la polei în zona stației de autobuz.",
+                "en": "Watch out for black ice around the bus stop area."
+              }
+            },
+            {
+              "name": "Cluster A: Garðakirkja & Lunch",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen Bus und Restaurant sind ideal.",
+                "hu": "A busz és az étterem közötti rövid táv ideális télen.",
+                "ro": "Distanța scurtă între autobuz și restaurant este ideală iarna.",
+                "en": "Short distances between bus and restaurant are ideal in winter."
+              }
+            },
+            {
+              "name": "Cluster B: Gálgahraun lava field",
+              "tip_5lang": {
+                "de": "In der Dunkelheit ist die Haltestelle beleuchtet.",
+                "hu": "A sötétben a buszmegálló jól meg van világítva.",
+                "ro": "Stația de autobuz este bine iluminată pe timp de noapte.",
+                "en": "The bus stop is well-lit even after dark."
+              }
+            },
+            {
+              "name": "Cluster C: Bessastaðir",
+              "tip_5lang": {
+                "de": "Der Bus fährt auch bei Schnee meist zuverlässig.",
+                "hu": "A busz általában hóban is megbízhatóan közlekedik.",
+                "ro": "Autobuzul circulă de obicei fiabil chiar și pe zăpadă.",
+                "en": "The bus usually runs reliably even in snowy conditions."
+              }
+            },
+            {
+              "name": "Cluster C: Bessastaðakirkja Church",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Bus für eine warme Rückfahrt.",
+                "hu": "Használja a buszt a meleg és kényelmes visszautazáshoz.",
+                "ro": "Folosiți autobuzul pentru o întoarcere caldă și confortabilă.",
+                "en": "Use the bus for a warm and comfortable ride back."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie straeto.is bei extremem Schneefall.",
+              "Die Busse sind im Winter sehr warm und gemütlich.",
+              "Tragen Sie reflektierende Kleidung an den Haltestellen.",
+              "Sitzheizung ist in vielen modernen Bussen vorhanden.",
+              "Nutzen Sie die App für Echtzeit-Tracking der Busse."
+            ],
+            "hu": [
+              "Extrém havazáskor ellenőrizze a straeto.is oldalt.",
+              "A buszok télen nagyon melegek és barátságosak.",
+              "Viseljen fényvisszaverő elemeket a megállókban.",
+              "Sok modern buszon van már ülésfűtés is.",
+              "Használja az appot a buszok valós idejű követésére."
+            ],
+            "ro": [
+              "Verificați straeto.is în caz de ninsori extreme.",
+              "Autobuzele sunt foarte calde și primitoare iarna.",
+              "Purtați elemente reflectorizante în stații.",
+              "Multe autobuze moderne au acum încălzire în scaune.",
+              "Folosiți aplicația pentru urmărirea în timp real a autobuzelor."
+            ],
+            "en": [
+              "Check straeto.is during extreme snowfall.",
+              "Buses are very warm and cozy in winter.",
+              "Wear reflective gear while waiting at stops.",
+              "Seat heating is available on many modern buses.",
+              "Use the app for real-time bus tracking."
+            ]
+          }
+        }
       }
     }
   }

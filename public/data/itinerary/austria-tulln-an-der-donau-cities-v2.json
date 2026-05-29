@@ -13,7 +13,7 @@
       "speed_kmh": 3,
       "start": "09:00",
       "end_estimate": "17:15",
-      "total_km": 1.3,
+      "total_km": 3.8,
       "stop_count": 7,
       "stops": [
         {
@@ -366,6 +366,214 @@
           "Many shops and some restaurants close early on Sundays.",
           "Keep a reusable water bottle handy; there are several fountains around the city."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt trocken in der Stadtpfarrkirche und im Karner, zwei architektonischen Juwelen. Mittags suchen wir Schutz in den gemütlichen Gasthäusern am Hauptplatz. Der Nachmittag gehört ganz der Kunst im Egon-Schiele-Museum, das ideal für Regentage ist. Am Abend bietet der Römerturm einen geschichtsträchtigen Abschluss, bevor wir uns ins nächste Café flüchten.",
+            "hu": "A reggelt a plébániatemplom és a csontház fedett falai között kezdjük, elkerülve az esőt. Délben a főtér hangulatos éttermeiben pihenünk meg. A délután tökéletes helyszíne az Egon Schiele Múzeum, ahol órákig böngészhetjük a műveket. Az estet a római torony misztikus látványa zárja, majd egy közeli kávézó melegében vonulunk vissza.",
+            "ro": "Dimineața începe la adăpost în biserica parohială și osuar, bijuterii arhitecturale locale. La prânz ne retragem în restaurantele primitoare din piața centrală. După-amiaza este dedicată artei la Muzeul Egon Schiele, un loc ideal pentru zilele ploioase. Seara se încheie la Turnul Roman, oferind o perspectivă istorică înainte de a ne refugia într-o cafenea.",
+            "en": "The morning begins under the cover of the parish church and ossuary, local architectural gems. At noon, we find shelter in the cozy taverns of the main square. The afternoon is perfectly spent at the Egon Schiele Museum, ideal for rainy weather. The day concludes at the Roman Tower, offering a historical touch before we retreat to a nearby café."
+          },
+          "stops": [
+            {
+              "name": "Parish Church of St. Stephen",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Kircheneingang als Regenschutz; das Interieur ist beeindruckend.",
+                "hu": "Használja a templom bejáratát esővédőként; a belső tér lenyűgöző.",
+                "ro": "Folosiți intrarea bisericii ca adăpost; interiorul este impresionant.",
+                "en": "Use the church entrance as rain cover; the interior is impressive."
+              }
+            },
+            {
+              "name": "Tulln Ossuary",
+              "tip_5lang": {
+                "de": "Ein kleiner, komplett überdachter Raum, ideal zum kurzen Verweilen bei Guss.",
+                "hu": "Kis, teljesen fedett tér, ideális egy rövid pihenőre az esőben.",
+                "ro": "Un spațiu mic, complet acoperit, ideal pentru o scurtă pauză pe ploaie.",
+                "en": "A small, fully covered space, ideal for a short stay during a downpour."
+              }
+            },
+            {
+              "name": "Nibelungen Fountain",
+              "tip_5lang": {
+                "de": "Die Bronzefiguren glänzen bei Regen besonders schön; kurzes Foto reicht.",
+                "hu": "A bronzfigurák esőben különösen szépen csillognak; egy gyors fotó elég.",
+                "ro": "Statuile de bronz strălucesc frumos pe ploaie; o fotografie rapidă e de ajuns.",
+                "en": "The bronze figures shine beautifully in the rain; a quick photo is enough."
+              }
+            },
+            {
+              "name": "Egon Schiele Museum",
+              "tip_5lang": {
+                "de": "Perfekter Ort für zwei Stunden im Trockenen; Garderobe für nasse Mäntel nutzen.",
+                "hu": "Tökéletes hely két száraz órához; használja a ruhatárat a vizes kabátokhoz.",
+                "ro": "Locul perfect pentru două ore la uscat; folosiți garderoba pentru haine ude.",
+                "en": "Perfect place for two dry hours; use the cloakroom for wet coats."
+              }
+            },
+            {
+              "name": "Lunch Break",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit direktem Blick auf den verregneten Hauptplatz.",
+                "hu": "Válasszon olyan éttermet, ahonnan rálátni a borús főtérre.",
+                "ro": "Alegeți un restaurant cu vedere directă spre piața centrală ploioasă.",
+                "en": "Choose a restaurant with a direct view of the rainy main square."
+              }
+            },
+            {
+              "name": "Danube Promenade",
+              "tip_5lang": {
+                "de": "Ein fester Regenschirm ist wegen des Windes an der Donau unerlässlich.",
+                "hu": "A dunai szél miatt egy erős esernyő elengedhetetlen a sétányon.",
+                "ro": "O umbrelă rezistentă este esențială din cauza vântului de pe Dunăre.",
+                "en": "A sturdy umbrella is essential due to the wind on the Danube."
+              }
+            },
+            {
+              "name": "Roman Tower",
+              "tip_5lang": {
+                "de": "Massive Mauern bieten Schutz; lesen Sie die Infotafeln im Inneren.",
+                "hu": "A masszív falak védelmet nyújtanak; olvassa el a benti táblákat.",
+                "ro": "Zidurile masive oferă protecție; citiți panourile informative din interior.",
+                "en": "Massive walls provide shelter; read the information boards inside."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tulln hat viele Arkaden am Hauptplatz, die als trockene Laufwege dienen.",
+              "Das Egon-Schiele-Museum ist der beste Rückzugsort bei starkem Dauerregen.",
+              "Tragen Sie wasserfeste Schuhe, da sich auf der Promenade Pfützen bilden können.",
+              "Die Gehwege in der Altstadt sind bei Nässe teilweise rutschig.",
+              "Kombinieren Sie Außenstopps mit Kaffeepausen in den zahlreichen Konditoreien."
+            ],
+            "hu": [
+              "Tulln főterén sok az árkád, amelyek száraz útvonalként szolgálnak.",
+              "Az Egon Schiele Múzeum a legjobb menedék tartós eső esetén.",
+              "Viseljen vízálló cipőt, mert a sétányon tócsák alakulhatnak ki.",
+              "Az óváros járdái nedvesen helyenként csúszósak lehetnek.",
+              "Kombinálja a kinti megállókat kávészünetekkel a helyi cukrászdákban."
+            ],
+            "ro": [
+              "Tulln are multe arcade în piața centrală, care servesc ca rute uscate.",
+              "Muzeul Egon Schiele este cel mai bun refugiu în caz de ploaie persistentă.",
+              "Purtați încălțăminte impermeabilă, deoarece pe faleză se pot forma bălți.",
+              "Troletele din centrul vechi pot fi alunecoase când sunt ude.",
+              "Combinați opririle exterioare cu pauze de cafea în numeroasele cofetării."
+            ],
+            "en": [
+              "Tulln has many arcades in the main square that serve as dry walkways.",
+              "The Egon Schiele Museum is the best retreat during persistent rain.",
+              "Wear waterproof shoes as puddles can form on the promenade.",
+              "The sidewalks in the old town can be slippery when wet.",
+              "Combine outdoor stops with coffee breaks in the numerous pastry shops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen führt uns zur festlich beleuchteten Stadtpfarrkirche. Mittags wärmen wir uns bei einer heißen Suppe im Zentrum auf. Der Nachmittag bietet im Schiele-Museum Kultur pur, während draußen die Dämmerung früh einsetzt. Den Tag lassen wir bei einem Spaziergang an der Donau ausklingen, wo der Raureif die Promenade in Silber taucht.",
+            "hu": "A tiszta téli reggel a díszesen kivilágított plébániatemplomhoz vezet. Délben egy forró levessel melegszünk fel a központban. A délután kulturális feltöltődést kínál a Schiele Múzeumban, miközben kint korán sötétedik. A napot a Duna-parti sétával zárjuk, ahol a dér ezüstbe öltözteti a sétányt.",
+            "ro": "O dimineață senină de iarnă ne conduce la biserica parohială luminată festiv. La prânz ne încălzim cu o supă fierbinte în centru. După-amiaza oferă cultură pură la Muzeul Schiele, în timp ce afară se înserează devreme. Încheiem ziua cu o plimbare pe malul Dunării, unde promontoriul este acoperit de chiciură argintie.",
+            "en": "A clear winter morning leads us to the festively lit parish church. At noon, we warm up with a hot soup in the center. The afternoon offers pure culture at the Schiele Museum as dusk sets in early outside. We end the day with a walk along the Danube, where frost dresses the promenade in silver."
+          },
+          "stops": [
+            {
+              "name": "Parish Church of St. Stephen",
+              "tip_5lang": {
+                "de": "Die Kirche ist im Winter oft beheizt und bietet eine stille, warme Atmosphäre.",
+                "hu": "A templom télen gyakran fűtött, csendes és meleg légkört áraszt.",
+                "ro": "Biserica este adesea încălzită iarna, oferind o atmosferă caldă și liniștită.",
+                "en": "The church is often heated in winter, offering a quiet, warm atmosphere."
+              }
+            },
+            {
+              "name": "Tulln Ossuary",
+              "tip_5lang": {
+                "de": "Kurzer Besuch empfohlen, da der Steinraum im Winter sehr kalt sein kann.",
+                "hu": "Rövid látogatás javasolt, mert a kőépület télen nagyon hideg lehet.",
+                "ro": "Se recomandă o vizită scurtă, deoarece spațiul de piatră este foarte rece iarna.",
+                "en": "Short visit recommended as the stone room can be very cold in winter."
+              }
+            },
+            {
+              "name": "Nibelungen Fountain",
+              "tip_5lang": {
+                "de": "Das Wasser ist abgestellt, aber die Statuen wirken im Frost sehr mystisch.",
+                "hu": "A vizet elzárták, de a szobrok a fagyban nagyon misztikusak.",
+                "ro": "Apa este oprită, dar statuile par foarte mistice în ger.",
+                "en": "The water is turned off, but the statues look very mystical in the frost."
+              }
+            },
+            {
+              "name": "Egon Schiele Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Mittagsstunden für den Besuch, um das Tageslicht zu nutzen.",
+                "hu": "Használja ki a déli órákat a látogatáshoz a természetes fény miatt.",
+                "ro": "Vizitați muzeul la amiază pentru a profita de lumina naturală.",
+                "en": "Visit the museum during midday hours to make use of the natural light."
+              }
+            },
+            {
+              "name": "Lunch Break",
+              "tip_5lang": {
+                "de": "Bestellen Sie traditionelle österreichische Wintergerichte wie Tafelspitz.",
+                "hu": "Rendeljen hagyományos osztrák téli ételeket, például Tafelspitz-et.",
+                "ro": "Comandați mâncăruri tradiționale austriece de iarnă, cum ar fi Tafelspitz.",
+                "en": "Order traditional Austrian winter dishes like Tafelspitz."
+              }
+            },
+            {
+              "name": "Danube Promenade",
+              "tip_5lang": {
+                "de": "Warme Kleidung ist wegen des eisigen Windes vom Fluss her ein Muss.",
+                "hu": "Meleg ruházat kötelező a folyó felől fújó jeges szél miatt.",
+                "ro": "Îmbrăcămintea groasă este obligatorie din cauza vântului înghețat de pe râu.",
+                "en": "Warm clothing is a must due to the icy wind from the river."
+              }
+            },
+            {
+              "name": "Roman Tower",
+              "tip_5lang": {
+                "de": "Besuchen Sie den Turm vor Sonnenuntergang (ca. 16:30 Uhr).",
+                "hu": "Látogassa meg a tornyot naplemente előtt (kb. 16:30).",
+                "ro": "Vizitați turnul înainte de apusul soarelui (aprox. 16:30).",
+                "en": "Visit the tower before sunset (approx. 16:30)."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Winter bereits gegen 16:30 Uhr unter; planen Sie entsprechend.",
+              "Besuchen Sie den kleinen Weihnachtsmarkt am Hauptplatz (Dezember).",
+              "Der Wind an der Donau kann die gefühlte Temperatur stark senken.",
+              "Museen und Kirchen sind gute Orte, um sich zwischendurch aufzuwärmen.",
+              "Achten Sie auf Glatteis auf den gepflasterten Wegen der Altstadt."
+            ],
+            "hu": [
+              "A nap télen már 16:30 körül lemegy; tervezzen ennek megfelelően.",
+              "Látogassa meg a főtéri kis karácsonyi vásárt (decemberben).",
+              "A dunai szél jelentősen csökkentheti a hőérzetet.",
+              "A múzeumok és templomok jó helyek a köztes felmelegedésre.",
+              "Ügyeljen a jegesedésre az óváros kövezett útjain."
+            ],
+            "ro": [
+              "Soarele apune deja în jur de ora 16:30 iarna; planificați în consecință.",
+              "Vizitați mica piață de Crăciun din piața centrală (în decembrie).",
+              "Vântul de pe Dunăre poate scădea considerabil temperatura resimțită.",
+              "Muzeele și bisericile sunt locuri bune pentru a vă încălzi între timp.",
+              "Atenție la polei pe drumurile pavate din centrul vechi."
+            ],
+            "en": [
+              "The sun sets as early as 16:30 in winter; plan accordingly.",
+              "Visit the small Christmas market in the main square (in December).",
+              "The wind along the Danube can significantly lower the perceived temperature.",
+              "Museums and churches are good places to warm up in between stops.",
+              "Watch out for black ice on the paved paths of the old town."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -702,6 +910,196 @@
           "Always lock your bike to a fixed object.",
           "Bring plenty of water, especially on warm days."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen bietet Tulln für Radfahrer gute Wege. Wir starten am Schiele-Geburtshaus und radeln zügig zum Museum für eine lange Pause. Die Gärten von Tulln sind auch bei Nässe botanisch interessant, da viele Pflanzen dann besonders duften. Den Tag beenden wir sicher in der Stadtpfarrkirche, geschützt vor dem Wind.",
+            "hu": "Az eső ellenére Tulln jó utakat kínál a bicikliseknek. Schiele szülőházától indulunk, és gyorsan a múzeumhoz tekerünk egy hosszú pihenőre. A tullni kertek esőben is érdekesek, mert ilyenkor sok növény illata intenzívebb. A napot biztonságban, a szél elől védett plébániatemplomban zárjuk.",
+            "ro": "În ciuda ploii, Tulln oferă rute bune pentru bicicliști. Pornim de la casa natală a lui Schiele și pedalăm rapid spre muzeu pentru o pauză lungă. Grădinile din Tulln sunt interesante botanic chiar și pe ploaie, multe plante fiind mai parfumate. Încheiem ziua în siguranță, în biserica parohială protejată de vânt.",
+            "en": "Despite the rain, Tulln offers good paths for cyclists. We start at Schiele's birthplace and cycle quickly to the museum for a long break. The Tulln Gardens are botanically interesting even in the wet, as many plants are more fragrant then. We end the day safely in the parish church, protected from the wind."
+          },
+          "stops": [
+            {
+              "name": "Egon Schiele's Birthplace",
+              "tip_5lang": {
+                "de": "Überdachter Eingang am Bahnhof vorhanden; idealer Startpunkt im Regen.",
+                "hu": "Fedett bejárat a vasútállomásnál; ideális kiindulópont esőben.",
+                "ro": "Intrare acoperită disponibilă la gară; punct de plecare ideal pe ploaie.",
+                "en": "Covered entrance available at the train station; ideal starting point in rain."
+              }
+            },
+            {
+              "name": "Egon Schiele Museum",
+              "tip_5lang": {
+                "de": "Überdachte Fahrradständer in der Nähe suchen; Kleidung im Museum trocknen.",
+                "hu": "Keressen fedett biciklitárolót a közelben; szárítsa ruháit a múzeumban.",
+                "ro": "Căutați rastele de biciclete acoperite în apropiere; uscați hainele în muzeu.",
+                "en": "Look for covered bike racks nearby; dry your clothes in the museum."
+              }
+            },
+            {
+              "name": "Danube Promenade",
+              "tip_5lang": {
+                "de": "Vorsicht, der Asphalt kann bei Regen rutschig sein; langsam fahren.",
+                "hu": "Vigyázat, az aszfalt esőben csúszós lehet; hajtson lassan.",
+                "ro": "Atenție, asfaltul poate fi alunecos pe ploaie; mergeți încet.",
+                "en": "Caution, the asphalt can be slippery in the rain; ride slowly."
+              }
+            },
+            {
+              "name": "The Tulln Gardens",
+              "tip_5lang": {
+                "de": "Viele Unterstände und Pavillons bieten Schutz bei plötzlichen Schauern.",
+                "hu": "Számos beálló és pavilon nyújt védelmet a hirtelen záporok elől.",
+                "ro": "Multe adăposturi și pavilioane oferă protecție în caz de averse bruște.",
+                "en": "Many shelters and pavilions provide protection during sudden showers."
+              }
+            },
+            {
+              "name": "Nibelungen Fountain",
+              "tip_5lang": {
+                "de": "Kurzer Stopp reicht; bei starkem Regen direkt weiter zum Ziel.",
+                "hu": "Rövid megálló elég; heves esőben hajtson tovább a cél felé.",
+                "ro": "O scurtă oprire e suficientă; pe ploaie torențială mergeți direct spre destinație.",
+                "en": "A short stop is enough; in heavy rain, continue directly to your destination."
+              }
+            },
+            {
+              "name": "Parish Church & Ossuary",
+              "tip_5lang": {
+                "de": "Fahrrad sicher abstellen und im warmen Kirchenraum regenerieren.",
+                "hu": "Állítsa le biztonságosan a biciklit, és pihenjen a meleg templomban.",
+                "ro": "Parcați bicicleta în siguranță și regenerați-vă în spațiul cald al bisericii.",
+                "en": "Park your bike safely and recuperate in the warm church interior."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie bei starkem Regen unbefestigte Wege entlang der Donau.",
+              "Tragen Sie eine komplett wasserdichte Regenjacke und Regenhose.",
+              "Prüfen Sie Ihre Bremsen, da der Bremsweg auf nasser Fahrbahn länger ist.",
+              "Die Fahrradständer am Schiele-Museum bieten guten Zugang zum Eingang.",
+              "Nutzen Sie die Zeit im Garten Tulln für Pausen in den Gewächshäusern."
+            ],
+            "hu": [
+              "Heves esőben kerülje a Duna menti nem aszfaltozott utakat.",
+              "Viseljen teljesen vízálló esőkabátot és esőnadrágot.",
+              "Ellenőrizze a fékeket, mert nedves úton hosszabb a féktávolság.",
+              "A Schiele Múzeumnál lévő tárolók jó hozzáférést biztosítanak a bejárathoz.",
+              "Használja ki a Garten Tulln üvegházaiban töltött időt a pihenésre."
+            ],
+            "ro": [
+              "Evitați drumurile neasfaltate de-a lungul Dunării în caz de ploaie torențială.",
+              "Purtați o jachetă și pantaloni de ploaie complet impermeabili.",
+              "Verificați frânele, deoarece distanța de frânare este mai mare pe carosabil ud.",
+              "Rastelele de la Muzeul Schiele oferă acces facil către intrare.",
+              "Profitați de timpul petrecut în grădinile Tulln pentru pauze în sere."
+            ],
+            "en": [
+              "Avoid unpaved paths along the Danube during heavy rain.",
+              "Wear a fully waterproof rain jacket and rain trousers.",
+              "Check your brakes as the braking distance is longer on wet roads.",
+              "The bike racks at the Schiele Museum provide good access to the entrance.",
+              "Use your time at Garten Tulln for breaks in the greenhouses."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren in Tulln im Winter ist erfrischend. Wir erkunden Schieles Erbe und wärmen uns in Museen auf. Die Donaupromenade bietet klare Luft und weite Blicke auf das Eis. In den Tullner Gärten genießen wir die winterliche Stille (beachten Sie die saisonalen Öffnungszeiten), bevor wir den Tag bei den historischen Sakralbauten beenden.",
+            "hu": "A téli biciklizés Tullnban frissítő élmény. Felfedezzük Schiele örökségét, és múzeumokban melegszünk fel. A Duna-sétány tiszta levegőt és távoli kilátást kínál a jégre. A tullni kertekben élvezzük a téli csendet, mielőtt a napot a történelmi egyházi épületeknél zárnánk.",
+            "ro": "Ciclismul în Tulln iarna este revigorant. Explorăm moștenirea lui Schiele și ne încălzim în muzee. Faleza Dunării oferă aer curat și vederi largi asupra gheții. În grădinile Tulln ne bucurăm de liniștea iernii înainte de a încheia ziua la clădirile sacre istorice.",
+            "en": "Cycling in Tulln in winter is refreshing. We explore Schiele's heritage and warm up in museums. The Danube Promenade offers clear air and wide views of the ice. In the Tulln Gardens, we enjoy winter silence before ending the day at the historic sacred buildings."
+          },
+          "stops": [
+            {
+              "name": "Egon Schiele's Birthplace",
+              "tip_5lang": {
+                "de": "Direkt am Bahnhof; nutzen Sie die beheizte Wartehalle zur Vorbereitung.",
+                "hu": "Közvetlenül a vasútállomásnál; használja a fűtött várótermet a készülődéshez.",
+                "ro": "Chiar la gară; folosiți sala de așteptare încălzită pentru pregătire.",
+                "en": "Right at the train station; use the heated waiting hall for preparation."
+              }
+            },
+            {
+              "name": "Egon Schiele Museum",
+              "tip_5lang": {
+                "de": "Sicherer Abstellplatz vorhanden; wärmen Sie Ihre Hände im Foyer auf.",
+                "hu": "Biztonságos tároló elérhető; melegítse fel a kezeit a foyer-ban.",
+                "ro": "Loc sigur de parcare disponibil; încălziți-vă mâinile în foier.",
+                "en": "Secure parking available; warm your hands in the foyer."
+              }
+            },
+            {
+              "name": "Danube Promenade",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorener Gischt auf dem Radweg; langsam in die Kurven.",
+                "hu": "Vigyázzon a fagyott pára miatti csúszós útra; lassan vegye a kanyarokat.",
+                "ro": "Atenție la chiciura înghețată pe pistă; încetiniți în curbe.",
+                "en": "Beware of frozen spray on the bike path; slow down in corners."
+              }
+            },
+            {
+              "name": "The Tulln Gardens",
+              "tip_5lang": {
+                "de": "Im Winter eingeschränkter Zugang; genießen Sie den Blick von außen.",
+                "hu": "Télen korlátozott hozzáférés; élvezze a kilátást kívülről.",
+                "ro": "Acces limitat iarna; bucurați-vă de vedere din exterior.",
+                "en": "Limited access in winter; enjoy the view from outside."
+              }
+            },
+            {
+              "name": "Nibelungen Fountain",
+              "tip_5lang": {
+                "de": "Oft mit Schnee bedeckt, ein tolles Fotomotiv für Winterradler.",
+                "hu": "Gyakran hó borítja, remek fotótéma a téli bicikliseknek.",
+                "ro": "Adesea acoperit de zăpadă, un motiv foto excelent pentru bicicliști.",
+                "en": "Often covered in snow, a great photo motif for winter cyclists."
+              }
+            },
+            {
+              "name": "Parish Church & Ossuary",
+              "tip_5lang": {
+                "de": "Ein würdiger Abschluss; nutzen Sie die Stille zur Einkehr.",
+                "hu": "Méltó lezárás; használja ki a csendet az elmélyülésre.",
+                "ro": "Un final demn; folosiți liniștea pentru reculegere.",
+                "en": "A worthy conclusion; use the silence for reflection."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermounterwäsche und winddichte Handschuhe.",
+              "Beleuchtung am Fahrrad ist wegen der frühen Dunkelheit Pflicht.",
+              "Vermeiden Sie hektische Lenkbewegungen bei möglichem Glatteis.",
+              "Die Garten Tulln sind im Winter oft geschlossen; prüfen Sie die Website.",
+              "Planen Sie mehr Zeit für Aufwärmpausen in Cafés ein."
+            ],
+            "hu": [
+              "Viseljen termó fehérneműt és szélálló kesztyűt.",
+              "A kerékpár világítása a korai sötétedés miatt kötelező.",
+              "Kerülje a hirtelen kormánymozdulatokat az esetleges jegesedés miatt.",
+              "A Garten Tulln télen gyakran zárva tart; ellenőrizze a honlapot.",
+              "Tervezzen több időt a kávézókban való felmelegedésre."
+            ],
+            "ro": [
+              "Purtați lenjerie termică și mănuși rezistente la vânt.",
+              "Iluminarea bicicletei este obligatorie din cauza întunericului timpuriu.",
+              "Evitați manevrele bruște de direcție în caz de polei.",
+              "Grădinile Tulln sunt adesea închise iarna; verificați site-ul.",
+              "Planificați mai mult timp pentru pauze de încălzire în cafenele."
+            ],
+            "en": [
+              "Wear thermal underwear and windproof gloves.",
+              "Bike lighting is mandatory due to early darkness.",
+              "Avoid sudden steering movements if there is potential ice.",
+              "Garten Tulln is often closed in winter; check the website.",
+              "Plan more time for warm-up breaks in cafés."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1062,6 +1460,214 @@
           "Plan your route with a GPS app to avoid traffic.",
           "The car gives you the flexibility to also visit nearby Heuriger taverns outside the city."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Tulln auch bei Regen komfortabel. Wir starten am Hauptplatz, besuchen die nahen Kirchen und das Schiele-Museum, ohne nass zu werden. Das Mittagessen im Zentrum ist nur einen kurzen Sprung vom Parkplatz entfernt. Den Nachmittag verbringen wir in den weitläufigen Gartenanlagen, die viele überdachte Bereiche bieten.",
+            "hu": "Autóval Tulln esőben is kényelmes. A főtéren kezdünk, meglátogatjuk a közeli templomokat és a Schiele Múzeumot anélkül, hogy eláznánk. Az ebéd a központban csak pár lépésre van a parkolótól. A délutánt a tágas kertrendszerekben töltjük, ahol sok a fedett rész.",
+            "ro": "Cu mașina, Tulln este confortabil chiar și pe ploaie. Începem în piața centrală, vizităm bisericile din apropiere și Muzeul Schiele fără a ne uda. Prânzul în centru este la doar un pas de parcare. După-amiaza o petrecem în grădinile vaste, care oferă multe zone acoperite.",
+            "en": "By car, Tulln is comfortable even in the rain. We start at the main square, visit nearby churches and the Schiele Museum without getting wet. Lunch in the center is just a short hop from the parking lot. We spend the afternoon in the extensive garden areas, which offer many covered sections."
+          },
+          "stops": [
+            {
+              "name": "Park and Start at the Main Square",
+              "tip_5lang": {
+                "de": "Tiefgarage am Hauptplatz nutzen, um direkt im Trockenen zu starten.",
+                "hu": "Használja a főtéri mélygarázst, hogy szárazon indulhasson.",
+                "ro": "Folosiți parcarea subterană din piața centrală pentru a porni la uscat.",
+                "en": "Use the underground car park at the main square to start dry."
+              }
+            },
+            {
+              "name": "Parish Church & Ossuary",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Parkplatz; Schirm im Auto bereit halten.",
+                "hu": "Rövid séta a parkolótól; tartsa készenlétben az esernyőt.",
+                "ro": "Scurtă plimbare de la parcare; țineți umbrela pregătită în mașină.",
+                "en": "Short walk from the parking lot; keep an umbrella ready in the car."
+              }
+            },
+            {
+              "name": "Egon Schiele Museum",
+              "tip_5lang": {
+                "de": "Parkplätze direkt an der Donaulände vor dem Museum vorhanden.",
+                "hu": "Parkolók közvetlenül a múzeum előtt, a Duna-parton találhatók.",
+                "ro": "Locuri de parcare disponibile chiar pe faleză, în fața muzeului.",
+                "en": "Parking spaces available right on the promenade in front of the museum."
+              }
+            },
+            {
+              "name": "Lunch in the Center",
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe des Restaurants, um Regenwege zu minimieren.",
+                "hu": "Parkoljon az étterem közelében, hogy minimalizálja az esőben gyaloglást.",
+                "ro": "Parcați aproape de restaurant pentru a minimiza mersul prin ploaie.",
+                "en": "Park near the restaurant to minimize walking in the rain."
+              }
+            },
+            {
+              "name": "The Tulln Gardens",
+              "tip_5lang": {
+                "de": "Großer Parkplatz vorhanden; nutzen Sie den Schirmverleih vor Ort.",
+                "hu": "Nagy parkoló áll rendelkezésre; használja a helyi esernyőkölcsönzőt.",
+                "ro": "Parcare mare disponibilă; folosiți serviciul de închiriat umbrele de acolo.",
+                "en": "Large parking lot available; use the on-site umbrella rental."
+              }
+            },
+            {
+              "name": "Treetop Walkway",
+              "tip_5lang": {
+                "de": "Bei starkem Regen rutschig; festes Schuhwerk ist unerlässlich.",
+                "hu": "Heves esőben csúszós; a stabil lábbeli elengedhetetlen.",
+                "ro": "Alunecos pe ploaie torențială; încălțămintea stabilă este esențială.",
+                "en": "Slippery in heavy rain; sturdy footwear is essential."
+              }
+            },
+            {
+              "name": "Drive back to Center/Dinner",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Fahrtzeit, um die Heizung zum Trocknen der Kleidung zu nutzen.",
+                "hu": "Használja az utazási időt a ruhák megszárítására a fűtéssel.",
+                "ro": "Folosiți timpul de condus pentru a usca hainele cu ajutorul căldurii.",
+                "en": "Use the driving time to dry your clothes using the car heater."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Tiefgarage am Hauptplatz bietet den besten Schutz vor Regen.",
+              "Halten Sie die Sichtscheiben frei; bei Regen beschlagen diese schnell.",
+              "Das Schiele-Museum hat Parkplätze direkt am Eingang an der Donaulände.",
+              "Nutzen Sie die Garten Tulln primär für die Innenbereiche/Gewächshäuser.",
+              "Ein Ersatzpaar Socken im Auto ist bei Regentouren Gold wert."
+            ],
+            "hu": [
+              "A főtéri mélygarázs nyújtja a legjobb védelmet az eső ellen.",
+              "Tartsa tisztán a szélvédőt; esőben gyorsan bepárásodhat.",
+              "A Schiele Múzeumnak közvetlenül a bejáratánál vannak parkolói.",
+              "A Garten Tulln-t elsősorban a belső terek/üvegházak miatt keresse fel.",
+              "Egy pótpár zokni az autóban aranyat ér esős túrák esetén."
+            ],
+            "ro": [
+              "Parcarea subterană din piața centrală oferă cea mai bună protecție contra ploii.",
+              "Mențineți geamurile curate; acestea se pot aburi rapid pe ploaie.",
+              "Muzeul Schiele are locuri de parcare chiar la intrare, pe faleză.",
+              "Vizitați Grădinile Tulln în special pentru zonele interioare/sere.",
+              "O pereche de șosete de rezervă în mașină este extrem de utilă pe ploaie."
+            ],
+            "en": [
+              "The underground car park at the main square offers the best rain protection.",
+              "Keep the windows clear; they can fog up quickly in the rain.",
+              "The Schiele Museum has parking spaces right at the entrance on the promenade.",
+              "Utilize Garten Tulln primarily for its indoor areas/greenhouses.",
+              "A spare pair of socks in the car is worth its weight in gold on rainy tours."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter genießen wir Tulln bequem vom beheizten Auto aus. Wir besuchen die historischen Stätten und das Museum, wobei kurze Wege zwischen Parkplatz und Eingang ideal sind. Das Mittagessen im warmen Stadtzentrum ist ein Highlight. Am Nachmittag lockt der Baumwipfelpfad mit frostigen Ausblicken, bevor wir entspannt zum Abendessen fahren.",
+            "hu": "Télen kényelmesen, a fűtött autóból élvezzük Tullnt. Meglátogatjuk a történelmi helyszíneket és a múzeumot, ahol a parkoló és a bejárat közötti rövid távolság ideális. A meleg városközpontban elköltött ebéd fénypontja a napnak. Délután a lombkorona sétány jeges kilátással vár.",
+            "ro": "Iarna ne bucurăm de Tulln din confortul mașinii încălzite. Vizităm siturile istorice și muzeul, distanțele scurte între parcare și intrare fiind ideale. Prânzul în centrul cald al orașului este un punct culminant. După-amiaza, poteca prin coronamentul copacilor atrage cu vederi înghețate.",
+            "en": "In winter, we enjoy Tulln comfortably from a heated car. We visit historic sites and the museum, with short distances between parking and entrance being ideal. Lunch in the warm city center is a highlight. In the afternoon, the treetop walkway beckons with frosty views before a relaxed dinner."
+          },
+          "stops": [
+            {
+              "name": "Park and Start at the Main Square",
+              "tip_5lang": {
+                "de": "Zentrale Parkplätze ermöglichen schnellen Zugang zu warmen Cafés.",
+                "hu": "A központi parkolók gyors hozzáférést biztosítanak a meleg kávézókhoz.",
+                "ro": "Parcările centrale permit accesul rapid la cafenelele calde.",
+                "en": "Central parking spaces allow quick access to warm cafés."
+              }
+            },
+            {
+              "name": "Parish Church & Ossuary",
+              "tip_5lang": {
+                "de": "Vorsicht beim Aussteigen; das Pflaster kann glatt sein.",
+                "hu": "Vigyázzon a kiszállásnál; a kövezet csúszós lehet.",
+                "ro": "Atenție la coborârea din mașină; pavajul poate fi alunecos.",
+                "en": "Be careful when getting out; the pavement can be slippery."
+              }
+            },
+            {
+              "name": "Egon Schiele Museum",
+              "tip_5lang": {
+                "de": "Heizung im Auto aufdrehen, um nach dem Museumsbesuch aufzuwärmen.",
+                "hu": "Tekerje fel a fűtést az autóban, hogy átmelegedjen a múzeumlátogatás után.",
+                "ro": "Porniți căldura în mașină pentru a vă încălzi după vizita la muzeu.",
+                "en": "Turn up the car heater to warm up after the museum visit."
+              }
+            },
+            {
+              "name": "Lunch in the Center",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit Parkmöglichkeit direkt davor.",
+                "hu": "Válasszon olyan éttermet, ahol közvetlenül előtte lehet parkolni.",
+                "ro": "Alegeți un restaurant cu posibilitate de parcare chiar în față.",
+                "en": "Choose a restaurant with parking directly in front."
+              }
+            },
+            {
+              "name": "The Tulln Gardens",
+              "tip_5lang": {
+                "de": "Parkplatz ist oft geräumt; genießen Sie den Blick auf die frostige Anlage.",
+                "hu": "A parkolót gyakran letakarítják; élvezze a fagyos kert látványát.",
+                "ro": "Parcarea este adesea deszăpezită; bucurați-vă de vederea grădinii înghețate.",
+                "en": "The parking lot is often cleared; enjoy the view of the frosty grounds."
+              }
+            },
+            {
+              "name": "Treetop Walkway",
+              "tip_5lang": {
+                "de": "Extrem windig im Winter; Schal und Mütze sind unverzichtbar.",
+                "hu": "Télen rendkívül szeles; sál és sapka nélkülözhetetlen.",
+                "ro": "Extrem de vântos iarna; fularul și căciula sunt indispensabile.",
+                "en": "Extremely windy in winter; scarf and hat are indispensable."
+              }
+            },
+            {
+              "name": "Drive back to Center/Dinner",
+              "tip_5lang": {
+                "de": "Genießen Sie die weihnachtliche Beleuchtung der Stadt während der Fahrt.",
+                "hu": "Élvezze a város karácsonyi kivilágítását vezetés közben.",
+                "ro": "Bucurați-vă de iluminatul festiv al orașului în timp ce conduceți.",
+                "en": "Enjoy the city's Christmas lights while driving."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Ihr Auto wintertauglich ist (Winterreifen, Frostschutz).",
+              "Nutzen Sie die Sitzheizung für maximalen Komfort zwischen den Stopps.",
+              "Die Parkplätze an der Donaulände bieten oft eine tolle Aussicht auf das Eis.",
+              "Achten Sie auf die kürzeren Tageslichtzeiten für Außenaktivitäten.",
+              "In der Vorweihnachtszeit sind Parkplätze am Hauptplatz sehr begehrt."
+            ],
+            "hu": [
+              "Győződjön meg róla, hogy autója téliesített (téli gumi, fagyálló).",
+              "Használja az ülésfűtést a megállók közötti maximális kényelemért.",
+              "A Duna-parti parkolók gyakran remek kilátást nyújtanak a jégre.",
+              "Ügyeljen a rövidebb nappalokra a kinti programok tervezésénél.",
+              "A karácsony előtti időszakban a főtéri parkolók nagyon keresettek."
+            ],
+            "ro": [
+              "Asigurați-vă că mașina este pregătită de iarnă (anvelope, antigel).",
+              "Folosiți încălzirea în scaune pentru confort maxim între opriri.",
+              "Parcările de pe faleză oferă adesea o vedere superbă asupra gheții.",
+              "Aveți în vedere durata scurtă a zilei pentru activitățile exterioare.",
+              "În perioada premergătoare Crăciunului, locurile de parcare sunt limitate."
+            ],
+            "en": [
+              "Ensure your car is winter-ready (winter tires, antifreeze).",
+              "Use the seat heating for maximum comfort between stops.",
+              "Parking spaces on the promenade often offer a great view of the ice.",
+              "Be mindful of the shorter daylight hours for outdoor activities.",
+              "In the pre-Christmas period, parking spots at the main square are in high demand."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1398,6 +2004,196 @@
           "The VOR AnachB app is useful for real-time route planning.",
           "Be aware that buses run less frequently on Sundays and public holidays."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit Bus und Bahn bleibt man in Tulln trocken. Vom Bahnhof geht es per Bus direkt zum Hauptplatz und später zum Schiele-Museum. Die Wartezeiten verbringen wir in den überdachten Haltestellen. Der Nachmittag in den Gärten von Tulln bietet trotz Regen viele Innenräume. Den Tag lassen wir entspannt in Bahnhofsnähe ausklingen, bereit für die Rückreise.",
+            "hu": "Busszal és vonattal Tullnban is szárazon maradhatunk. A vasútállomástól busszal megyünk a főtérre, majd a Schiele Múzeumhoz. A várakozási időt fedett megállókban töltjük. A tullni kertek délután sok belső teret kínálnak esőben is. A napot a vasútállomás közelében zárjuk, készen a hazaútra.",
+            "ro": "Cu autobuzul și trenul rămâneți uscați în Tulln. De la gară mergem cu autobuzul direct în piața centrală și apoi la Muzeul Schiele. Timpul de așteptare îl petrecem în stații acoperite. Grădinile din Tulln oferă multe spații interioare după-amiaza. Încheiem ziua relaxați lângă gară, gata de plecare.",
+            "en": "By bus and train, you stay dry in Tulln. From the station, take the bus directly to the main square and later to the Schiele Museum. Waiting times are spent in covered stops. Afternoon at Garten Tulln offers many indoor spaces despite the rain. We end the day relaxed near the station, ready for the journey back."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Tulln Train Station",
+              "tip_5lang": {
+                "de": "Die Bahnhofshalle bietet perfekten Schutz; prüfen Sie die Busabfahrten.",
+                "hu": "A vasútállomás csarnoka tökéletes védelmet nyújt; ellenőrizze a buszokat.",
+                "ro": "Gara oferă protecție perfectă; verificați orele de plecare ale autobuzelor.",
+                "en": "The train station hall provides perfect shelter; check the bus departures."
+              }
+            },
+            {
+              "name": "Bus to the Main Square",
+              "tip_5lang": {
+                "de": "Wählen Sie eine Haltestelle mit Wartehäuschen am Hauptplatz.",
+                "hu": "Válasszon olyan megállót a főtéren, ahol van váróterem vagy beálló.",
+                "ro": "Alegeți o stație cu adăpost în piața centrală.",
+                "en": "Choose a stop with a shelter at the main square."
+              }
+            },
+            {
+              "name": "Egon Schiele Museum & Roman Tower",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg von der Bushaltestelle; halten Sie den Schirm bereit.",
+                "hu": "Rövid séta a buszmegállótól; tartsa készen az esernyőt.",
+                "ro": "Scurtă plimbare de la stația de autobuz; țineți umbrela pregătită.",
+                "en": "Short walk from the bus stop; keep your umbrella ready."
+              }
+            },
+            {
+              "name": "Bus to The Tulln Gardens",
+              "tip_5lang": {
+                "de": "Der Bus hält fast direkt vor dem Eingang; ideal bei Regen.",
+                "hu": "A busz szinte közvetlenül a bejárat előtt áll meg; ideális esőben.",
+                "ro": "Autobuzul oprește aproape direct în fața intrării; ideal pe ploaie.",
+                "en": "The bus stops almost directly in front of the entrance; ideal in the rain."
+              }
+            },
+            {
+              "name": "Walk to Danube Promenade",
+              "tip_5lang": {
+                "de": "Abkürzen möglich, wenn der Regen zu stark wird; Bus nehmen.",
+                "hu": "Lehet rövidíteni, ha túl heves az eső; használja a buszt.",
+                "ro": "Se poate scurta traseul dacă plouă prea tare; luați autobuzul.",
+                "en": "Shortcut possible if the rain gets too heavy; take the bus."
+              }
+            },
+            {
+              "name": "Bus back to the Train Station",
+              "tip_5lang": {
+                "de": "Planen Sie Pufferzeit ein, da der Verkehr bei Regen langsamer sein kann.",
+                "hu": "Tervezzen be puffert időt, mert esőben lassabb lehet a forgalom.",
+                "ro": "Planificați timp suplimentar, traficul poate fi mai lent pe ploaie.",
+                "en": "Plan some buffer time as traffic can be slower in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die VOR AnachB App für Echtzeit-Infos bei Regenverzögerungen.",
+              "Die wichtigsten Bushaltestellen in Tulln sind überdacht.",
+              "Kaufen Sie Ihr Ticket vorab online, um Wartezeiten im Freien zu vermeiden.",
+              "Der Bahnhof Tulln Stadt liegt zentraler für die Altstadt als der Hauptbahnhof.",
+              "Nutzen Sie die Zeit im Bus, um sich kurz aufzuwärmen."
+            ],
+            "hu": [
+              "Használja a VOR AnachB alkalmazást az eső miatti késések figyelésére.",
+              "Tulln legfontosabb buszmegállói fedettek.",
+              "Vásárolja meg jegyét online, hogy elkerülje a kinti várakozást.",
+              "Tulln Stadt állomás közelebb van az óvároshoz, mint a főpályaudvar.",
+              "Használja ki a buszon töltött időt a rövid felmelegedésre."
+            ],
+            "ro": [
+              "Folosiți aplicația VOR AnachB pentru info în timp real despre întârzieri.",
+              "Cele mai importante stații de autobuz din Tulln sunt acoperite.",
+              "Cumpărați biletul online pentru a evita așteptarea în exterior.",
+              "Gara Tulln Stadt este mai centrală pentru orașul vechi decât gara principală.",
+              "Folosiți timpul în autobuz pentru a vă încălzi puțin."
+            ],
+            "en": [
+              "Use the VOR AnachB app for real-time info on rain delays.",
+              "The most important bus stops in Tulln are covered.",
+              "Buy your ticket online beforehand to avoid waiting outside.",
+              "Tulln Stadt station is more central for the old town than the main station.",
+              "Use the time on the bus to warm up briefly."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterreise nach Tulln mit öffentlichen Verkehrsmitteln ist entspannt. Wir nutzen die beheizten Busse zwischen Bahnhof, Zentrum und Schiele-Museum. Die winterliche Atmosphäre am Hauptplatz ist bezaubernd. In den Gärten von Tulln genießen wir die Stille, bevor uns der Bus zurück zum Bahnhof bringt. Ein warmer Kakao am Bahnhof rundet den Tag ab.",
+            "hu": "A téli utazás Tullnba tömegközlekedéssel pihentető. Fűtött buszokat használunk az állomás, a központ és a Schiele Múzeum között. A főtér téli hangulata varázslatos. A tullni kertekben élvezzük a csendet, mielőtt a busz visszavisz az állomásra. Egy forró kakaó a pályaudvaron zárja a napot.",
+            "ro": "Călătoria de iarnă la Tulln cu transportul public este relaxantă. Folosim autobuze încălzite între gară, centru și Muzeul Schiele. Atmosfera de iarnă din piața centrală este încântătoare. În grădinile Tulln ne bucurăm de liniște înainte ca autobuzul să ne ducă înapoi la gară.",
+            "en": "Winter travel to Tulln by public transport is relaxed. We use heated buses between the station, center, and Schiele Museum. The winter atmosphere at the main square is enchanting. In the Tulln Gardens, we enjoy the silence before the bus takes us back to the station. A hot cocoa at the station rounds off the day."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Tulln Train Station",
+              "tip_5lang": {
+                "de": "Bahnhofshalle ist beheizt; ideal zum Warten auf den Anschlussbus.",
+                "hu": "A vasútállomás csarnoka fűtött; ideális a csatlakozó buszra várva.",
+                "ro": "Sala gării este încălzită; ideală pentru așteptarea autobuzului de legătură.",
+                "en": "The station hall is heated; ideal for waiting for the connecting bus."
+              }
+            },
+            {
+              "name": "Bus to the Main Square",
+              "tip_5lang": {
+                "de": "Genießen Sie die Fahrt durch das winterlich geschmückte Tulln.",
+                "hu": "Élvezze az utazást a téliesen feldíszített Tullnon keresztül.",
+                "ro": "Bucurați-vă de drumul prin Tulln decorat de iarnă.",
+                "en": "Enjoy the ride through winter-decorated Tulln."
+              }
+            },
+            {
+              "name": "Egon Schiele Museum & Roman Tower",
+              "tip_5lang": {
+                "de": "Beachten Sie die winterlichen Öffnungszeiten der Museen.",
+                "hu": "Ügyeljen a múzeumok téli nyitvatartási idejére.",
+                "ro": "Aveți în vedere programul de iarnă al muzeelor.",
+                "en": "Note the winter opening hours of the museums."
+              }
+            },
+            {
+              "name": "Bus to The Tulln Gardens",
+              "tip_5lang": {
+                "de": "Prüfen Sie, ob der Garten-Bus im Winter nach Fahrplan verkehrt.",
+                "hu": "Ellenőrizze, hogy a kerti busz téli menetrend szerint jár-e.",
+                "ro": "Verificați dacă autobuzul spre grădini circulă conform orarului de iarnă.",
+                "en": "Check if the garden bus runs according to the winter schedule."
+              }
+            },
+            {
+              "name": "Walk to Danube Promenade",
+              "tip_5lang": {
+                "de": "Kurzer Spaziergang empfohlen; bei Kälte schnell zurück zum Bus.",
+                "hu": "Rövid séta javasolt; hideg esetén gyorsan térjen vissza a buszhoz.",
+                "ro": "Se recomandă o plimbare scurtă; în caz de frig, reveniți rapid la autobuz.",
+                "en": "Short walk recommended; if it's too cold, return quickly to the bus."
+              }
+            },
+            {
+              "name": "Bus back to the Train Station",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Wartehalle im Bahnhof für die Zeit bis zur Zugabfahrt.",
+                "hu": "Használja a vasútállomás várótermét a vonat indulásáig.",
+                "ro": "Folosiți sala de așteptare a gării până la plecarea trenului.",
+                "en": "Use the station's waiting hall until your train departs."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse in Tulln sind im Winter zuverlässig und gut beheizt.",
+              "Die Sonne geht früh unter; nutzen Sie das Tageslicht für Fotos.",
+              "Der Hauptbahnhof Tulln bietet Schließfächer für schweres Wintergepäck.",
+              "Tragen Sie feste Schuhe für den Weg zwischen Haltestelle und Museum.",
+              "Im Winter gibt es oft spezielle Kombi-Tickets für Bahn und Museum."
+            ],
+            "hu": [
+              "Tulln buszai télen megbízhatóak és jól fűtöttek.",
+              "A nap korán lemegy; használja ki a nappali fényt a fotózáshoz.",
+              "A tullni főpályaudvaron vannak csomagmegőrzők a nehéz téli cuccoknak.",
+              "Viseljen stabil cipőt a megálló és a múzeum közötti gyalogláshoz.",
+              "Télen gyakran vannak speciális kombinált jegyek a vasútra és múzeumba."
+            ],
+            "ro": [
+              "Autobuzele din Tulln sunt sigure și bine încălzite iarna.",
+              "Soarele apune devreme; profitați de lumina zilei pentru fotografii.",
+              "Gara principală din Tulln oferă vestiare pentru bagaje grele de iarnă.",
+              "Purtați încălțăminte solidă pentru drumul dintre stație și muzeu.",
+              "Iarna există adesea bilete speciale combinate pentru tren și muzeu."
+            ],
+            "en": [
+              "Buses in Tulln are reliable and well-heated in winter.",
+              "The sun sets early; use the daylight for photos.",
+              "Tulln main station offers lockers for heavy winter luggage.",
+              "Wear sturdy shoes for the walk between the stop and the museum.",
+              "In winter, there are often special combo tickets for train and museum."
+            ]
+          }
+        }
       }
     }
   }

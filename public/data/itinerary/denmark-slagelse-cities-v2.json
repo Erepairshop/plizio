@@ -362,6 +362,196 @@
           "Some churches may be closed to visitors during lunchtime.",
           "Bring a reusable water bottle to stay hydrated."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag am Schweizerpladsen, wo die Cafés Schutz bieten. Ein kurzer Spaziergang führt zur St.-Michaels-Kirche, einem trockenen Zufluchtsort mit historischem Charme.\n\nDas Slagelse Museum ist das Highlight am Mittag; hier verbringen Sie die regnerischen Stunden zwischen alten Handwerkshäusern im Trockenen.\n\nDer Weg zur Antvorskov-Ruine ist nass; nutzen Sie die überdachten Infotafeln. Der Panums Park wirkt im Regen melancholisch, bietet aber dichte Baumkronen.\n\nBeenden Sie den Tag im Stadtzentrum. Die warmen Lichter der Restaurants spiegeln sich in den Pfützen und laden zu einem gemütlichen dänischen Abendessen ein.",
+            "hu": "Kezdje a napot a Schweizerpladsenen, ahol a környező árkádok és kávézók menedéket nyújtanak. A közeli Szent Mihály-templom tökéletes hely a csendes, száraz elvonuláshoz.\n\nA déli órákban a Slagelse Múzeum a legjobb választás; a beltéri kiállítások és a régi boltok rekonstrukciói feledtetik a kinti felhőszakadást.\n\nDélután az Antvorskov kolostorromoknál számítson sárra; a fák és a romfalak csak részleges védelmet adnak. A Panums Parkban a sűrűbb részeken keressen menedéket.\n\nAz estet a belvárosban zárja. A kivilágított utcák és a gőzölgő vacsora a helyi éttermekben kárpótolják a nedves lábakért és a szürke időért.",
+            "ro": "Începeți ziua în Schweizerpladsen, profitând de cafenelele din apropiere pentru a evita ploaia. Biserica Sf. Mihail oferă un refugiu spiritual și uscat în apropiere.\n\nLa prânz, Muzeul Slagelse este destinația ideală; expozițiile interioare vă permit să explorați istoria locală fără a avea nevoie de umbrelă.\n\nDupă-amiaza, vizita la ruinele Antvorskov necesită încălțăminte impermeabilă din cauza noroiului. Panums Park oferă un decor dramatic sub ploaie, dar protecție limitată.\n\nÎncheiați ziua în centru. Restaurantele primitoare sunt locul perfect pentru a vă usca și a savura o cină caldă în timp ce ascultați ploaia de afară.",
+            "en": "Start your day at Schweizerpladsen, using nearby shop awnings and cafes for cover. St. Michael's Church provides a grand, dry sanctuary just steps away.\n\nMidday is best spent at Slagelse Museum; its extensive indoor displays of old trades keep you fully sheltered from the Danish rain.\n\nIn the afternoon, the walk to Antvorskov ruins might be muddy, so stick to the paved edges. Panums Park offers a lush, albeit wet, atmosphere under the trees.\n\nFinish your walk in the city center. The cozy glow of local eateries is especially inviting when the streets are slick with rain and the air is cool."
+          },
+          "stops": [
+            {
+              "name": "Schweizerpladsen",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Vordächer der Geschäfte am Platz.",
+                "hu": "Használja az üzletek előtetőit a téren.",
+                "ro": "Folosiți copertinele magazinelor din piață.",
+                "en": "Use the shop awnings around the square for cover."
+              }
+            },
+            {
+              "name": "St. Michael's Church",
+              "tip_5lang": {
+                "de": "Idealer Ort, um einen heftigen Schauer abzuwarten.",
+                "hu": "Ideális hely egy heves zápor kivárására.",
+                "ro": "Loc ideal pentru a aștepta trecerea unei averse.",
+                "en": "Ideal spot to wait out a heavy downpour."
+              }
+            },
+            {
+              "name": "Slagelse Museum",
+              "tip_5lang": {
+                "de": "Verlängern Sie Ihren Aufenthalt, wenn es stark regnet.",
+                "hu": "Hosszabbítsa meg a látogatást, ha kint szakad az eső.",
+                "ro": "Prelungiți vizita dacă afară plouă torențial.",
+                "en": "Extend your stay here if the rain intensifies."
+              }
+            },
+            {
+              "name": "Antvorskov Monastery Ruin",
+              "tip_5lang": {
+                "de": "Vorsicht, die Grasflächen können sehr rutschig sein.",
+                "hu": "Vigyázat, a füves területek nagyon csúszósak lehetnek.",
+                "ro": "Atenție, zonele cu iarbă pot fi foarte alunecoase.",
+                "en": "Caution: the grassy areas can be very slippery."
+              }
+            },
+            {
+              "name": "Panums Park",
+              "tip_5lang": {
+                "de": "Dichte Baumgruppen bieten natürlichen Regenschutz.",
+                "hu": "A sűrű facsoportok természetes védelmet nyújtanak.",
+                "ro": "Grupurile dese de copaci oferă protecție naturală.",
+                "en": "Dense clusters of trees offer natural rain protection."
+              }
+            },
+            {
+              "name": "Dinner in the Center",
+              "topic_5lang": {
+                "de": "Wählen Sie ein Restaurant mit Garderobe für nasse Mäntel.",
+                "hu": "Válasszon olyan helyet, ahol van ruhatár a vizes kabátoknak.",
+                "ro": "Alegeți un restaurant cu garderobă pentru haine ude.",
+                "en": "Choose a spot with a cloakroom for wet coats."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine hochwertige Regenjacke, da der Wind Schirme oft unbrauchbar macht.",
+              "Wasserdichte Schuhe sind für den Weg zur Antvorskov-Ruine unerlässlich.",
+              "Die Fußgängerzone kann bei Nässe glatt sein; gehen Sie vorsichtig.",
+              "Nutzen Sie die Museen als Ankerpunkte für die schlimmsten Regenphasen.",
+              "Dänisches 'Hygge' ist in verregneten Cafés am besten erlebbar."
+            ],
+            "hu": [
+              "Viseljen minőségi esőkabátot, mert a szél gyakran tönkreteszi az ernyőket.",
+              "A vízálló cipő elengedhetetlen az Antvorskov romokhoz vezető úton.",
+              "A sétálóutca kövei vizesen csúszhatnak; óvatosan lépkedjen.",
+              "Használja a múzeumokat bázisként a leghevesebb esőzés idején.",
+              "A dán 'Hygge' életérzés az esős kávézókban a legélvezetesebb."
+            ],
+            "ro": [
+              "Purtați o jachetă de ploaie de calitate, vântul poate distruge umbrelele.",
+              "Încălțămintea impermeabilă este esențială pentru drumul spre ruine.",
+              "Pietonala poate fi alunecoasă când este udă; mergeți cu atenție.",
+              "Folosiți muzeele ca puncte de ancoră în timpul celor mai mari averse.",
+              "Conceptul danez 'Hygge' se simte cel mai bine în cafenelele primitoare."
+            ],
+            "en": [
+              "Wear a high-quality raincoat, as wind often makes umbrellas useless here.",
+              "Waterproof footwear is essential for the path to Antvorskov ruins.",
+              "The pedestrian streets can be slippery when wet; walk carefully.",
+              "Use the museums as anchor points during the heaviest rain phases.",
+              "Experience Danish 'Hygge' at its best in a cozy, rain-drenched cafe."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie den kalten Morgen am Schweizerpladsen mit einem heißen Kaffee. Die St.-Michaels-Kirche bietet danach eine andächtige Stille und Schutz vor dem beißenden Wind.\n\nDas Slagelse Museum ist zur Mittagszeit perfekt aufgeheizt. Die historischen Interieurs wirken im winterlichen Licht besonders atmosphärisch und gemütlich.\n\nAm Nachmittag führt der Weg zur Antvorskov-Ruine durch die frische Winterluft. Achten Sie auf die frühe Dämmerung, die die alten Mauern in ein mystisches Licht taucht.\n\nWenn die Kälte am Abend zunimmt, kehren Sie ins Stadtzentrum zurück. Die beleuchteten Fenster der Gaststätten versprechen Wärme und herzhafte dänische Winterküche.",
+            "hu": "Indítsa a fagyos reggelt a Schweizerpladsenen egy forró itallal. A Szent Mihály-templom falai között menedéket talál a csípős dán szél elől.\n\nA Slagelse Múzeum délben a legvonzóbb; a fűtött termek és a régi idők hangulata segít felmelegedni a kinti séta után.\n\nDélután az Antvorskov romok látványa a téli szürkületben különösen misztikus. A Panums Parkban a kopasz fák között gyorsan hűl a levegő, öltözzön rétegesen.\n\nAz este közeledtével a belváros fényei hívogatnak. Keressen egy hangulatos éttermet, ahol a helyi ételekkel és a meleg belső térrel búcsúzhat a naptól.",
+            "ro": "Începeți dimineața geroasă în Schweizerpladsen cu o băutură fierbinte. Biserica Sf. Mihail oferă liniște și adăpost împotriva vântului tăios de iarnă.\n\nMuzeul Slagelse este destinația ideală la prânz; sălile încălzite și decorul istoric creează o atmosferă caldă și primitoare.\n\nDupă-amiaza, vizitați ruinele Antvorskov înainte de apusul timpuriu. Aerul rece de iarnă face ca parcul Panums să pară vast și liniștit.\n\nPe măsură ce frigul se intensifică seara, retrageți-vă în centrul orașului. Restaurantele luminate oferă confortul și preparatele calde necesare după o zi de iarnă.",
+            "en": "Begin your frosty morning at Schweizerpladsen with a steaming cup of coffee. St. Michael's Church follows as a serene spot to escape the biting winter wind.\n\nSlagelse Museum is perfectly heated for a midday visit. The historic exhibits take on a special, cozy charm in the soft, low winter light.\n\nIn the afternoon, head to Antvorskov ruins. Be mindful of the early sunset around 16:00, which casts long, dramatic shadows over the ancient stones.\n\nAs the evening chill sets in, return to the city center. The brightly lit restaurant windows offer a warm welcome and hearty Danish winter comfort food."
+          },
+          "stops": [
+            {
+              "name": "Schweizerpladsen",
+              "tip_5lang": {
+                "de": "Holen Sie sich einen Tee zum Mitnehmen zum Aufwärmen.",
+                "hu": "Vegyél egy forró teát elvitelre a bemelegítéshez.",
+                "ro": "Luați un ceai la pachet pentru a vă încălzi mâinile.",
+                "en": "Grab a hot tea to go to keep your hands warm."
+              }
+            },
+            {
+              "name": "St. Michael's Church",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stufen am Kircheneingang.",
+                "hu": "Ügyeljen a jeges lépcsőkre a templom bejáratánál.",
+                "ro": "Atenție la treptele înghețate de la intrare.",
+                "en": "Watch out for icy steps at the church entrance."
+              }
+            },
+            {
+              "name": "Slagelse Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe, um schwere Winterkleidung abzulegen.",
+                "hu": "Használja a ruhatárat a nehéz téli kabátokhoz.",
+                "ro": "Folosiți garderoba pentru haine groase de iarnă.",
+                "en": "Use the cloakroom to shed heavy winter layers."
+              }
+            },
+            {
+              "name": "Antvorskov Monastery Ruin",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ruine vor dem Sonnenuntergang um 16 Uhr.",
+                "hu": "Látogassa meg a romokat a 16 órai naplemente előtt.",
+                "ro": "Vizitați ruinele înainte de apusul de la ora 16:00.",
+                "en": "Visit the ruins before the early 4 PM sunset."
+              }
+            },
+            {
+              "name": "Panums Park",
+              "tip_5lang": {
+                "de": "Die Wege können bei Frost sehr glatt sein.",
+                "hu": "Az utak fagyos időben nagyon csúszósak lehetnek.",
+                "ro": "Aleile pot fi foarte alunecoase în caz de îngheț.",
+                "en": "Paths can be very slippery during frosty weather."
+              }
+            },
+            {
+              "name": "Dinner in the Center",
+              "tip_5lang": {
+                "de": "Reservieren Sie einen Tisch in der Nähe eines Heizkörpers.",
+                "hu": "Foglaljon asztalt fűtőtest közelébe.",
+                "ro": "Rezervați o masă lângă o sursă de căldură.",
+                "en": "Reserve a table near a radiator for extra comfort."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermounterwäsche; der dänische Wind kühlt schnell aus.",
+              "Die Sonne geht im Winter bereits gegen 16:00 Uhr unter.",
+              "Achten Sie auf Streusalz, das Ihre Schuhe angreifen kann.",
+              "Nutzen Sie die beheizten Innenräume der Kirchen und Museen oft.",
+              "Mützen und Handschuhe sind wegen der hohen Luftfeuchtigkeit Pflicht."
+            ],
+            "hu": [
+              "Viseljen termikus alsóneműt; a dán szél hamar lehűti az embert.",
+              "A nap télen már délután 4 óra körül lemegy.",
+              "Vigyázzon az útszóró sóval, ami károsíthatja a lábbelit.",
+              "Gyakran térjen be fűtött helyekre, például templomokba.",
+              "A sapka és kesztyű kötelező a magas páratartalom miatt."
+            ],
+            "ro": [
+              "Purtați lenjerie termică; vântul danez răcește corpul rapid.",
+              "Soarele apune în jurul orei 16:00 pe timpul iernii.",
+              "Atenție la sarea de pe drumuri care poate afecta încălțămintea.",
+              "Intrați des în spații încălzite precum biserici sau muzee.",
+              "Căciula și mănușile sunt obligatorii din cauza umidității mari."
+            ],
+            "en": [
+              "Wear thermal base layers; the Danish wind chills you quickly.",
+              "Daylight is short; the sun sets around 4 PM in winter.",
+              "Be mindful of road salt, which can damage your footwear.",
+              "Take frequent breaks in heated indoor spaces like churches.",
+              "Hats and gloves are mandatory due to high humidity and wind."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -681,6 +871,196 @@
           "Bring a lock to secure your bike at stops.",
           "Plan your route in advance, but be open to spontaneous detours."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Holen Sie Ihr Rad am Schweizerpladsen ab und achten Sie auf die nassen Pflastersteine. Der kurze Weg zur St.-Michaels-Kirche erfordert Vorsicht in den Kurven.\n\nDie Fahrt zum Gerlev Legepark führt durch offene Felder; bei Regen peitscht der Wind hier besonders stark. Suchen Sie Schutz unter den Bäumen des Parks.\n\nZurück an der Antvorskov-Ruine könnten die Wege aufgeweicht sein. Das Slagelse Museum bietet danach die perfekte Gelegenheit, sich im Trockenen aufzuwärmen.\n\nDas Abendessen im Zentrum markiert das Ende einer feuchten Tour. Parken Sie Ihr Rad an einem gut beleuchteten, überdachten Ort, bevor Sie einkehren.",
+            "hu": "Vegye át a kerékpárt a Schweizerpladsenen, és ügyeljen a vizes macskakövekre. A Szent Mihály-templomig tartó rövid út óvatosságot igényel a kanyarokban.\n\nA Gerlev Legepark felé vezető út nyílt terepen halad, ahol az eső és a szél erősebben érezhető. A park fái alatt keressen ideiglenes menedéket.\n\nAz Antvorskov romoknál sáros utakra számítson. A Slagelse Múzeum ezután tökéletes alkalmat kínál a teljes kiszáradásra és pihenésre.\n\nA központi vacsora zárja a vizes túrát. Keresse az étterem közelében az esővédett biciklitárolókat, hogy ne ázzon tovább a nyereg.",
+            "ro": "Luați bicicleta din Schweizerpladsen și fiți atenți la pavajul ud. Drumul scurt spre Biserica Sf. Mihail necesită prudență în curbe.\n\nTraseul spre Gerlev Legepark traversează câmpuri deschise unde ploaia și vântul pot fi intense. Căutați adăpost sub copacii din parc.\n\nLa ruinele Antvorskov, drumurile pot fi noroioase. Muzeul Slagelse oferă apoi ocazia perfectă pentru a vă încălzi și a vă usca hainele.\n\nCina din centru marchează sfârșitul unei ture umede. Parcați bicicleta într-un loc iluminat și acoperit înainte de a intra în restaurant.",
+            "en": "Pick up your rental at Schweizerpladsen and be wary of wet cobblestones. The short ride to St. Michael's Church requires extra care in the turns.\n\nThe cycling route to Gerlev Legepark crosses open fields where rain can be driven by strong winds. Seek temporary shelter under the park's trees.\n\nPaths near Antvorskov ruins may be soft and muddy. Slagelse Museum provides a much-needed dry environment to warm up and recover afterward.\n\nDinner in the center concludes your wet ride. Look for covered bike parking near the restaurant to keep your seat dry while you eat."
+          },
+          "stops": [
+            {
+              "name": "Bike Rental & Schweizerpladsen",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Bremsleistung bei Nässe sofort.",
+                "hu": "Azonnal ellenőrizze a fékhatást vizes úton.",
+                "ro": "Verificați imediat eficiența frânelor pe carosabil ud.",
+                "en": "Check your braking power on wet surfaces immediately."
+              }
+            },
+            {
+              "name": "St. Michael's Church",
+              "tip_5lang": {
+                "de": "Parken Sie das Rad nah am Eingang für kurzen Weg.",
+                "hu": "Parkoljon közel a bejárathoz a rövid gyalogútért.",
+                "ro": "Parcați bicicleta aproape de intrare pentru a nu merge mult prin ploaie.",
+                "en": "Park close to the entrance to minimize time in the rain."
+              }
+            },
+            {
+              "name": "Gerlev Legepark",
+              "topic_5lang": {
+                "de": "Manche Spielgeräte können bei Regen rutschig sein.",
+                "hu": "Néhány játékeszköz csúszós lehet az esőben.",
+                "ro": "Unele echipamente de joacă pot fi alunecoase pe ploaie.",
+                "en": "Some play equipment may be slippery in the rain."
+              }
+            },
+            {
+              "name": "Antvorskov Monastery Ruin",
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Fahren direkt auf dem nassen Gras.",
+                "hu": "Kerülje a kerékpározást közvetlenül a vizes füvön.",
+                "ro": "Evitați să pedalați direct pe iarba udă.",
+                "en": "Avoid cycling directly onto the wet grass."
+              }
+            },
+            {
+              "name": "Slagelse Museum",
+              "tip_5lang": {
+                "de": "Hängen Sie nasse Regenponchos im Eingangsbereich auf.",
+                "hu": "Akassza fel a vizes esővédőket a bejáratnál.",
+                "ro": "Agățați pelerinele de ploaie ude în zona de intrare.",
+                "en": "Hang up wet rain ponchos in the entrance area."
+              }
+            },
+            {
+              "name": "Dinner",
+              "tip_5lang": {
+                "de": "Suchen Sie einen Platz mit Blick auf Ihr Fahrrad.",
+                "hu": "Keressen olyan helyet, ahonnan rálát a biciklijére.",
+                "ro": "Căutați un loc cu vedere la bicicleta dumneavoastră.",
+                "en": "Find a seat with a view of your parked bike."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine Regenhose über Ihrer normalen Kleidung.",
+              "Schutzbleche sind bei diesem Wetter absolut notwendig.",
+              "Reduzieren Sie den Reifendruck leicht für besseren Grip auf nassen Wegen.",
+              "Vermeiden Sie Markierungen auf der Straße, diese sind extrem rutschig.",
+              "Wischen Sie den Sattel vor dem Aufsteigen immer trocken."
+            ],
+            "hu": [
+              "Viseljen esőnadrágot a rendes ruházata felett.",
+              "Sárvédő nélkül ne induljon el ilyen időben.",
+              "Kicsit csökkentse a guminyomást a jobb tapadásért vizes úton.",
+              "Kerülje az útburkolati jeleket, mert rendkívül csúsznak.",
+              "Felszállás előtt mindig törölje szárazra a nyerget."
+            ],
+            "ro": [
+              "Purtați pantaloni de ploaie peste hainele obișnuite.",
+              "Aripile de protecție sunt absolut necesare pe această vreme.",
+              "Reduceți ușor presiunea în anvelope pentru aderență mai bună pe ud.",
+              "Evitați marcajele rutiere, sunt extrem de alunecoase.",
+              "Ștergeți întotdeauna șaua înainte de a vă urca pe bicicletă."
+            ],
+            "en": [
+              "Wear rain trousers over your normal clothes.",
+              "Mudguards are absolutely necessary in this weather.",
+              "Slightly reduce tire pressure for better grip on wet paths.",
+              "Avoid road markings as they become extremely slippery.",
+              "Always wipe your saddle dry before mounting."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie vorsichtig am Schweizerpladsen; das Kopfsteinpflaster kann bei Frost tückisch sein. Die St.-Michaels-Kirche ist ein guter erster Halt zum Aufwärmen.\n\nDie Radtour zum Gerlev Legepark ist erfrischend, erfordert aber warme Handschuhe gegen den kalten Fahrtwind. Die winterliche Landschaft zeigt sich hier von ihrer rauen Seite.\n\nBesuchen Sie die Antvorskov-Ruine im hellen Mittagslicht. Später bietet das Slagelse Museum eine wohlverdiente Pause in beheizten Räumen, bevor es dunkel wird.\n\nDas Abendessen im Zentrum bildet den Abschluss. Stellen Sie sicher, dass Ihre Beleuchtung funktioniert, da die Sicht im dänischen Winter früh abnimmt.",
+            "hu": "Kezdje óvatosan a Schweizerpladsenen; a macskakövek fagyban csalókák lehetnek. A Szent Mihály-templom kiváló megálló egy kis bemelegedéshez.\n\nA Gerlev Legepark felé tartó biciklizés frissítő, de a menetszél ellen meleg kesztyűre lesz szüksége. A téli táj itt mutatja meg zord, de szép arcát.\n\nLátogassa meg az Antvorskov romokat a déli napsütésben. Később a Slagelse Múzeum fűtött termei nyújtanak pihenőt, mielőtt teljesen besötétedne.\n\nA túrát egy belvárosi vacsorával zárja. Ellenőrizze a lámpákat, mert a dán télben hamar és hirtelen lesz sötét.",
+            "ro": "Porniți cu atenție din Schweizerpladsen; pavajul poate fi trădător în caz de îngheț. Biserica Sf. Mihail este un prim popas bun pentru încălzire.\n\nTraseul spre Gerlev Legepark este revigorant, dar necesită mănuși groase împotriva vântului rece. Peisajul de iarnă își arată aici latura aspră.\n\nVizitați ruinele Antvorskov în lumina amiezii. Mai târziu, Muzeul Slagelse oferă o pauză binemeritată în săli încălzite înainte de lăsarea întunericului.\n\nCina din centru încheie ziua. Asigurați-vă că luminile bicicletei funcționează, deoarece vizibilitatea scade devreme iarna.",
+            "en": "Start carefully at Schweizerpladsen; cobblestones can be treacherous when frosty. St. Michael's Church is a great first stop to thaw out your fingers.\n\nThe ride to Gerlev Legepark is refreshing but demands warm gloves against the cold wind. The winter landscape here is stark and beautiful.\n\nVisit Antvorskov ruins during the bright midday hours. Later, Slagelse Museum offers a warm refuge to explore local history before the sun sets.\n\nEnd your day with dinner in the center. Ensure your bike lights are bright and working, as winter twilight fades very quickly in Denmark."
+          },
+          "stops": [
+            {
+              "name": "Bike Rental & Schweizerpladsen",
+              "tip_5lang": {
+                "de": "Prüfen Sie, ob die Reifen für Winterwitterung geeignet sind.",
+                "hu": "Ellenőrizze, hogy a gumik alkalmasak-e a téli időre.",
+                "ro": "Verificați dacă anvelopele sunt potrivite pentru iarnă.",
+                "en": "Check if the tires are suitable for winter conditions."
+              }
+            },
+            {
+              "name": "St. Michael's Church",
+              "tip_5lang": {
+                "de": "Kurze Aufwärmpause in der windgeschützten Vorhalle.",
+                "hu": "Rövid melegedő szünet a szélvédett előcsarnokban.",
+                "ro": "Scurtă pauză de încălzire în vestibulul ferit de vânt.",
+                "en": "Short warm-up break in the wind-sheltered vestibule."
+              }
+            },
+            {
+              "name": "Gerlev Legepark",
+              "tip_5lang": {
+                "de": "Bewegung hilft gegen die Kälte, aber übertreiben Sie nicht.",
+                "hu": "A mozgás segít a hideg ellen, de ne vigye túlzásba.",
+                "ro": "Mișcarea ajută împotriva frigului, dar nu exagerați.",
+                "en": "Movement helps with the cold, but don't overexert yourself."
+              }
+            },
+            {
+              "name": "Antvorskov Monastery Ruin",
+              "tip_5lang": {
+                "de": "Vorsicht vor Eisplatten im Schatten der Mauern.",
+                "hu": "Vigyázzon a falak árnyékában megbújó jégfoltokra.",
+                "ro": "Atenție la porțiunile cu gheață din umbra zidurilor.",
+                "en": "Watch out for ice patches in the shadows of the walls."
+              }
+            },
+            {
+              "name": "Slagelse Museum",
+              "tip_5lang": {
+                "de": "Trinken Sie einen heißen Kakao im Museumscafé.",
+                "hu": "Igyon egy forró kakaót a múzeum kávézójában.",
+                "ro": "Beți o ciocolată caldă în cafeneaua muzeului.",
+                "en": "Have a hot cocoa at the museum cafe to recharge."
+              }
+            },
+            {
+              "name": "Dinner",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad an einen beleuchteten Platz.",
+                "hu": "Világos helyen parkolja le a kerékpárt.",
+                "ro": "Parcați bicicleta într-un loc bine iluminat.",
+                "en": "Park your bike in a well-lit area for safety."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie mehrere Schichten (Zwiebelprinzip) und Windstopper-Material.",
+              "Vermeiden Sie bei Glätte abruptes Bremsen oder enge Kurven.",
+              "Die Batterie Ihrer Fahrradbeleuchtung entlädt sich bei Kälte schneller.",
+              "Ein Helm schützt nicht nur, sondern hält mit Unterziehmütze auch warm.",
+              "Achten Sie auf gefrorenes Laub, das extrem rutschig sein kann."
+            ],
+            "hu": [
+              "Öltözzön rétegesen, és használjon szélálló anyagokat.",
+              "Jeges úton kerülje a hirtelen fékezést és az éles kanyarokat.",
+              "A lámpák akkumulátora hidegben gyorsabban lemerül.",
+              "A bukósisak alá húzott sapka segít melegen tartani a fejet.",
+              "Vigyázzon a fagyott levelekkel, amik nagyon csúszósak."
+            ],
+            "ro": [
+              "Purtați mai multe straturi de haine și materiale anti-vânt.",
+              "Evitați frânarea bruscă sau virajele strânse pe gheață.",
+              "Bateriile luminilor se descarcă mai repede la temperaturi scăzute.",
+              "O cască purtată cu o căciulă subțire dedesubt menține căldura.",
+              "Atenție la frunzele înghețate, pot fi extrem de alunecoase."
+            ],
+            "en": [
+              "Wear multiple layers (onion principle) and wind-stopper fabrics.",
+              "Avoid abrupt braking or sharp turns on icy patches.",
+              "Bike light batteries drain significantly faster in the cold.",
+              "A helmet with a thermal liner underneath also helps keep you warm.",
+              "Watch out for frozen leaves, which can be extremely slippery."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1025,6 +1405,214 @@
           "Parking fees may apply in the city center.",
           "A GPS or map app is essential for navigating the countryside."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre Fahrt nach Trelleborg; der Regen verleiht der Wikingerburg eine authentische, raue Atmosphäre. Im Besucherzentrum bleiben Sie trocken.\n\nWeiter geht es zum Schloss Borreby. Die nasse Backsteinarchitektur wirkt imposant, aber nutzen Sie den Wagen als Basis für kurze Erkundungen im Park.\n\nDas Mittagessen in Skælskør bietet einen Panoramablick auf den grauen Hafen. Nach der Rückkehr nach Slagelse ist das Parkhaus am Zentrum ideal, um trocken auszusteigen.\n\nBeenden Sie den Tag im Slagelse Museum. Die Fahrt zwischen den Zielen ist bei Regen komfortabel, und die kurzen Wege zu den Sehenswürdigkeiten minimieren die Nässe.",
+            "hu": "Induljon Trelleborgba; az eső hiteles, zord hangulatot kölcsönöz a viking várnak. A látogatóközpontban szárazon maradhat a vihar elől.\n\nFolytassa az utat Borreby kastélyához. A nedves téglafalak impozánsak, de használja az autót bázisként a park rövid felfedezéséhez.\n\nA skælskøri ebéd alatt élvezze a kilátást a szürke kikötőre. Slagelsébe visszatérve a központi parkolóház a legjobb választás a száraz kiszálláshoz.\n\nA napot a Slagelse Múzeumban zárja. Az autó kényelmet nyújt a helyszínek között, a rövid gyalogutak pedig minimalizálják az ázást.",
+            "ro": "Începeți drumul spre Trelleborg; ploaia oferă cetății vikinge o atmosferă autentică și aspră. Rămâneți la adăpost în centrul pentru vizitatori.\n\nContinuați spre Castelul Borreby. Arhitectura din cărămidă udă este impunătoare, dar folosiți mașina ca bază pentru scurte explorări în parc.\n\nPrânzul în Skælskør oferă o vedere panoramică asupra portului gri. La revenirea în Slagelse, parcarea acoperită este ideală pentru a coborî la uscat.\n\nÎncheiați ziua la Muzeul Slagelse. Mașina oferă confort între obiective, iar distanțele scurte de mers pe jos minimizează expunerea la ploaie.",
+            "en": "Drive out to Trelleborg; the rain gives the Viking fortress an authentic, moody atmosphere. The visitor center offers a dry spot to learn the history.\n\nContinue to Borreby Castle. The wet brickwork looks striking, but use your car as a base for quick dashes into the gardens and courtyard.\n\nLunch in Skælskør lets you watch the rain over the harbor from a warm restaurant. Back in Slagelse, use a central parking garage for a dry arrival.\n\nFinish at Slagelse Museum. Traveling by car is the most comfortable way to jump between these spread-out sites while staying completely dry."
+          },
+          "stops": [
+            {
+              "name": "Trelleborg",
+              "tip_5lang": {
+                "de": "Besucherzentrum bietet Schutz vor starken Schauern.",
+                "hu": "A látogatóközpont védelmet nyújt a záporok elől.",
+                "ro": "Centrul pentru vizitatori oferă adăpost în caz de ploaie.",
+                "en": "The visitor center provides good shelter from downpours."
+              }
+            },
+            {
+              "name": "Borreby Castle",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Torhaus für kurze Wege.",
+                "hu": "Parkoljon a kapu közelében a rövid séta érdekében.",
+                "ro": "Parcați aproape de poartă pentru a merge puțin pe jos.",
+                "en": "Park close to the gatehouse to minimize walking in rain."
+              }
+            },
+            {
+              "name": "Lunch in Skælskør",
+              "tip_5lang": {
+                "de": "Einige Restaurants haben eigene Gästeparkplätze.",
+                "hu": "Néhány étterem saját vendégparkolóval rendelkezik.",
+                "ro": "Unele restaurante au parcări private pentru oaspeți.",
+                "en": "Some restaurants offer private parking for guests."
+              }
+            },
+            {
+              "name": "Park in Slagelse Center",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Parkhaus mit überdachtem Zugang.",
+                "hu": "Válasszon fedett kijárattal rendelkező parkolóházat.",
+                "ro": "Alegeți o parcare etajată cu acces acoperit.",
+                "en": "Choose a multi-story car park with covered pedestrian exits."
+              }
+            },
+            {
+              "name": "Schweizerpladsen",
+              "tip_5lang": {
+                "de": "Kurzer Sprint zu den Cafés unter den Arkaden.",
+                "hu": "Rövid sprint az árkádok alatti kávézókhoz.",
+                "ro": "Sprint scurt spre cafenelele de sub arcade.",
+                "en": "Short sprint to the cafes located under the arcades."
+              }
+            },
+            {
+              "name": "St. Michael's Church",
+              "tip_5lang": {
+                "de": "Der Eingangsbereich ist ein trockener Wartepunkt.",
+                "hu": "A bejárati rész száraz várakozóhely.",
+                "ro": "Zona de intrare este un punct de așteptare uscat.",
+                "en": "The entrance area is a dry waiting point."
+              }
+            },
+            {
+              "name": "Slagelse Museum",
+              "tip_5lang": {
+                "de": "Lassen Sie Schirme im Auto, wenn Sie nah parken.",
+                "hu": "Hagyja az ernyőket az autóban, ha közel parkol.",
+                "ro": "Lăsați umbrelele în mașină dacă parcați aproape.",
+                "en": "Leave umbrellas in the car if you park right outside."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Zustand Ihrer Scheibenwischer vor der Fahrt.",
+              "Achten Sie auf Aquaplaning auf den Landstraßen nach Skælskør.",
+              "Nutzen Sie die Parkhäuser im Zentrum, um trockenen Fußes in die Läden zu gelangen.",
+              "Halten Sie eine Decke im Auto bereit, falls Sie nass geworden sind.",
+              "Licht am Tag ist in Dänemark ohnehin Pflicht, bei Regen besonders wichtig."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze az ablaktörlők állapotát.",
+              "Vigyázzon a vízátfolyásokra a Skælskør felé vezető utakon.",
+              "Használja a belvárosi parkolóházakat a száraz bejutáshoz.",
+              "Tartson egy takarót az autóban, ha elázna a városnézés alatt.",
+              "A nappali menetfény kötelező, de esőben a tompított még fontosabb."
+            ],
+            "ro": [
+              "Verificați starea ștergătoarelor înainte de a pleca la drum.",
+              "Atenție la acvaplanare pe drumurile spre Skælskør.",
+              "Folosiți parcările etajate din centru pentru a ajunge uscat în magazine.",
+              "Țineți o pătură în mașină în caz că vă udă ploaia.",
+              "Luminile de zi sunt obligatorii în Danemarca, esențiale pe ploaie."
+            ],
+            "en": [
+              "Check the condition of your windshield wipers before starting.",
+              "Beware of hydroplaning on the rural roads toward Skælskør.",
+              "Use central parking garages to reach shops without getting wet.",
+              "Keep a spare blanket in the car in case you get soaked.",
+              "Daytime running lights are mandatory; keep them on during rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Wintertrip in Trelleborg. Die schneebedeckten Wälle der Wikingerburg bieten ein spektakuläres Fotomotiv, bevor die Kälte zuschlägt.\n\nFahren Sie zum Schloss Borreby, das in der klaren Winterluft wie aus einem Märchen wirkt. Der beheizte Wagen macht die Fahrt zwischen den Orten sehr angenehm.\n\nDas Mittagessen in Skælskør wärmt Sie auf, bevor es zurück nach Slagelse geht. Die Sonne steht tief und taucht die dänische Landschaft in ein goldenes Licht.\n\nVerbringen Sie den späten Nachmittag im Slagelse Museum. Die Fahrt im Dunkeln zurück zum Hotel ist dank guter Straßenbeleuchtung im Zentrum unproblematisch.",
+            "hu": "Kezdje téli kirándulását Trelleborgban. A viking vár hófödte sáncai látványos fotótémát kínálnak, mielőtt a fagy igazán csípni kezdene.\n\nAutózzon Borreby kastélyához, amely a tiszta téli levegőben úgy fest, mint egy mesekönyvben. A fűtött autó kényelmessé teszi az utazást a helyszínek között.\n\nA skælskøri ebéd felmelegíti, mielőtt visszatérne Slagelsébe. A nap alacsonyan jár, arany fénybe vonva a dán vidéket.\n\nA késő délutánt töltse a Slagelse Múzeumban. A sötétben való visszavezetés a városközpont jó közvilágítása miatt nem jelent gondot.",
+            "ro": "Începeți excursia de iarnă la Trelleborg. Valurile cetății vikinge acoperite de zăpadă oferă un cadru spectaculos înainte ca frigul să se simtă.\n\nConduceți spre Castelul Borreby, care pare desprins dintr-un basm în aerul clar de iarnă. Mașina încălzită face deplasarea foarte plăcută.\n\nPrânzul în Skælskør vă va încălzi înainte de a reveni în Slagelse. Soarele stă jos la orizont, scăldând peisajul danez într-o lumină aurie.\n\nPetreceți după-amiaza la Muzeul Slagelse. Întoarcerea la hotel pe întuneric este sigură datorită iluminatului stradal bun din centru.",
+            "en": "Start your winter excursion at Trelleborg. The snow-covered ramparts of the Viking fortress are stunning before the freezing wind sets in.\n\nDrive to Borreby Castle, looking like a fairytale scene in the crisp winter air. Your heated vehicle makes the commute between sites very pleasant.\n\nWarm up with lunch in Skælskør before returning to Slagelse. The low winter sun creates a beautiful golden glow over the Danish countryside.\n\nSpend the late afternoon inside Slagelse Museum. Driving back in the dark is easy thanks to the excellent street lighting in the city center."
+          },
+          "stops": [
+            {
+              "name": "Trelleborg",
+              "tip_5lang": {
+                "de": "Vorsicht vor vereisten Pfaden auf den Wällen.",
+                "hu": "Vigyázzon a jeges ösvényekkel a sáncokon.",
+                "ro": "Atenție la potecile înghețate de pe valuri.",
+                "en": "Be careful on the icy paths along the ramparts."
+              }
+            },
+            {
+              "name": "Borreby Castle",
+              "tip_5lang": {
+                "de": "Der Schlosshof kann im Schatten spiegelglatt sein.",
+                "hu": "A kastély udvara az árnyékban tükörsima lehet.",
+                "ro": "Curtea castelului poate fi extrem de alunecoasă la umbră.",
+                "en": "The castle courtyard can be slippery in shaded areas."
+              }
+            },
+            {
+              "name": "Lunch in Skælskør",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz direkt am Restaurant.",
+                "hu": "Használja közvetlenül az étterem melletti parkolót.",
+                "ro": "Folosiți parcarea de lângă restaurant.",
+                "en": "Use the parking lot directly adjacent to the restaurant."
+              }
+            },
+            {
+              "name": "Park in Slagelse Center",
+              "tip_5lang": {
+                "de": "Parkhäuser schützen das Auto vor dem Einfrieren.",
+                "hu": "A parkolóházak megvédik az autót a lefagyástól.",
+                "ro": "Parcările etajate protejează mașina de îngheț.",
+                "en": "Parking garages protect your car from freezing over."
+              }
+            },
+            {
+              "name": "Schweizerpladsen",
+              "tip_5lang": {
+                "de": "Genießen Sie die Winterbeleuchtung am Platz.",
+                "hu": "Élvezze a tér téli díszkivilágítását.",
+                "ro": "Bucurați-vă de iluminatul de iarnă din piață.",
+                "en": "Enjoy the festive winter lighting in the square."
+              }
+            },
+            {
+              "name": "St. Michael's Church",
+              "tip_5lang": {
+                "de": "Drinnen ist es oft kühler als gedacht, Mantel anlassen.",
+                "hu": "Bent hűvösebb lehet, ne vegye le a kabátot.",
+                "ro": "Interiorul poate fi răcoros, păstrați haina pe dumneavoastră.",
+                "en": "It can be cool inside; keep your coat on."
+              }
+            },
+            {
+              "name": "Slagelse Museum",
+              "tip_5lang": {
+                "de": "Idealer Ort, um die Dämmerung abzuwarten.",
+                "hu": "Ideális hely a szürkület kivárására.",
+                "ro": "Loc ideal pentru a aștepta lăsarea serii.",
+                "en": "Ideal spot to spend the twilight hours indoors."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Führen Sie einen Eiskratzer und Frostschutzmittel mit.",
+              "Prüfen Sie den Reifendruck, da dieser bei Kälte sinkt.",
+              "Achten Sie auf 'Schwarzeis' auf den Küstenstraßen.",
+              "Halten Sie die Tankfüllung für Notfälle über der Hälfte.",
+              "Entfernen Sie vor der Fahrt den Schnee vom Dach des Wagens."
+            ],
+            "hu": [
+              "Mindig legyen kéznél jégkaparó és fagyálló.",
+              "Ellenőrizze a guminyomást, mert hidegben csökkenhet.",
+              "Vigyázzon a 'fekete jéggel' a parti utak mentén.",
+              "Tartsa az üzemanyagszintet félig töltve vészhelyzet esetére.",
+              "Indulás előtt mindig takarítsa le a havat az autó tetejéről."
+            ],
+            "ro": [
+              "Aveți întotdeauna la îndemână o racletă și antigel.",
+              "Verificați presiunea anvelopelor, scade la temperaturi mici.",
+              "Atenție la 'gheața neagră' pe drumurile de coastă.",
+              "Mențineți rezervorul cel puțin pe jumătate plin.",
+              "Curățați zăpada de pe plafonul mașinii înainte de a pleca."
+            ],
+            "en": [
+              "Keep an ice scraper and antifreeze in the car.",
+              "Check tire pressure regularly as it drops in cold weather.",
+              "Watch out for 'black ice' on coastal roads near Skælskør.",
+              "Keep your fuel tank at least half full for emergencies.",
+              "Always clear snow from the car roof before driving."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1329,6 +1917,196 @@
           "A day pass is often cheaper than buying single tickets.",
           "Ask the bus driver if you are unsure about a stop."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ihre Ankunft am Bahnhof Slagelse ist dank der Überdachung trocken. Nehmen Sie den Bus zur Antvorskov-Ruine und nutzen Sie die Wartehäuschen an den Haltestellen.\n\nDer Panums Park lässt sich bei Regen kurz besichtigen, bevor Sie mit dem Bus zurück ins Zentrum fahren. Die Cluster im Stadtzentrum liegen nah beieinander.\n\nDie St.-Michaels-Kirche bietet eine trockene Zuflucht vor der nächsten Busfahrt. Das Slagelse Museum ist der perfekte Ort für den verregneten Nachmittag.\n\nGenießen Sie ein langes Mittagessen oder eine Kaffeepause im Museum, um die schlimmsten Schauer zu überstehen, bevor Sie bequem per Zug oder Bus abreisen.",
+            "hu": "A Slagelse állomásra való érkezés a tető alatt száraz marad. Szálljon buszra az Antvorskov romokhoz, és használja a megállók váróhelyiségeit.\n\nA Panums Park esőben is megnézhető egy rövid séta erejéig, majd busszal térjen vissza a centrumba. A városközpont látnivalói közel vannak egymáshoz.\n\nA Szent Mihály-templom száraz menedéket nyújt a következő buszjáratig. A Slagelse Múzeum a legjobb hely a délutáni esőzés idején.\n\nÉlvezzen egy hosszú ebédet vagy kávét a múzeumban, várja meg, amíg eláll az eső, majd kényelmesen utazzon haza vonattal vagy busszal.",
+            "ro": "Sosirea la gara Slagelse este protejată de acoperiș. Luați autobuzul spre ruinele Antvorskov și folosiți refugiile din stații.\n\nPanums Park poate fi vizitat rapid pe ploaie înainte de a lua autobuzul înapoi spre centru. Obiectivele centrale sunt grupate aproape.\n\nBiserica Sf. Mihail oferă un adăpost uscat înainte de următoarea cursă. Muzeul Slagelse este locul perfect pentru o după-amiază ploioasă.\n\nSavurați un prânz lung sau o cafea la muzeu pentru a evita averselor mari înainte de a pleca confortabil cu trenul.",
+            "en": "Arrive at Slagelse Station undercover and stay dry. Catch the local bus to Antvorskov ruins and wait in the sheltered bus stops along the way.\n\nQuickly explore Panums Park between showers before hopping back on a bus to the center. The city stops are close together, minimizing rain exposure.\n\nSt. Michael's Church provides a grand, dry space while waiting for your next connection. Slagelse Museum is the ultimate rainy afternoon destination.\n\nTake your time with lunch or coffee at the museum to wait out the worst weather before making your way back to the station."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Slagelse Station",
+              "tip_5lang": {
+                "de": "Bahnhofshalle bietet Kioske und Schutz.",
+                "hu": "Az állomás csarnokában büfék és védelem várja.",
+                "ro": "Holul gării are chioșcuri și oferă adăpost.",
+                "en": "The station hall has kiosks and plenty of cover."
+              }
+            },
+            {
+              "name": "Antvorskov Monastery Ruin",
+              "tip_5lang": {
+                "de": "Busstation liegt nur wenige Gehminuten entfernt.",
+                "hu": "A buszmegálló csak pár perc sétára van.",
+                "ro": "Stația de autobuz este la câteva minute de mers.",
+                "en": "The bus stop is just a few minutes' walk away."
+              }
+            },
+            {
+              "name": "Panums Park",
+              "tip_5lang": {
+                "de": "Unter den Pavillons im Park bleiben Sie trocken.",
+                "hu": "A park pavilonjai alatt szárazon maradhat.",
+                "ro": "Rămâneți uscați sub pavilioanele din parc.",
+                "en": "Stay dry under the pavilions located within the park."
+              }
+            },
+            {
+              "name": "City Center Cluster",
+              "tip_5lang": {
+                "de": "Bushaltestellen im Zentrum sind meist überdacht.",
+                "hu": "A központi buszmegállók többnyire fedettek.",
+                "ro": "Stațiile din centru sunt în mare parte acoperite.",
+                "en": "Most central bus stops are sheltered from the rain."
+              }
+            },
+            {
+              "name": "St. Michael's Church",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit für eine Innenbesichtigung.",
+                "hu": "Használja ki az időt a belső tér megtekintésére.",
+                "ro": "Folosiți timpul pentru a vizita interiorul.",
+                "en": "Use the time for an extended interior visit."
+              }
+            },
+            {
+              "name": "Slagelse Museum & Lunch",
+              "tip_5lang": {
+                "de": "Das Restaurant im Museum ist ideal bei Regen.",
+                "hu": "A múzeumi étterem ideális esős időben.",
+                "ro": "Restaurantul din muzeu este ideal pe ploaie.",
+                "en": "The museum's restaurant is perfect for rainy days."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Laden Sie die 'Rejseplanen' App für Live-Abfahrtszeiten herunter.",
+              "Warten Sie in Geschäften nahe der Haltestelle auf den Bus.",
+              "Tragen Sie Schuhe, die auch bei nassen Bahnsteigen Halt bieten.",
+              "Züge sind oft pünktlicher als Busse bei extremem Regen.",
+              "Ein kleiner Taschenschirm passt gut ins Handgepäck."
+            ],
+            "hu": [
+              "Töltse le a 'Rejseplanen' appot az élő menetrendhez.",
+              "A megálló közeli boltokban várja meg a buszt.",
+              "Olyan cipőt hordjon, ami a vizes peronon is tapad.",
+              "A vonatok gyakran pontosabbak a buszoknál nagy esőben.",
+              "Egy kisméretű esernyő mindig legyen a táskájában."
+            ],
+            "ro": [
+              "Descărcați aplicația 'Rejseplanen' pentru orele de plecare live.",
+              "Așteptați autobuzul în magazinele din apropierea stației.",
+              "Purtați pantofi cu talpă aderentă pentru peroanele ude.",
+              "Trenurile sunt adesea mai punctuale decât autobuzele pe ploaie.",
+              "O umbrelă mică de buzunar este utilă în bagajul de mână."
+            ],
+            "en": [
+              "Download the 'Rejseplanen' app for real-time departure info.",
+              "Wait in nearby shops if the bus stop is not fully covered.",
+              "Wear shoes with good grip for wet station platforms.",
+              "Trains are often more reliable than buses during heavy rain.",
+              "A compact travel umbrella is perfect for transit users."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Kommen Sie warm verpackt am Bahnhof Slagelse an. Die beheizten Wartebereiche im Bahnhof sind ein Segen, bevor Sie den Bus zur Antvorskov-Ruine nehmen.\n\nIm Panums Park ist die Winterluft klar; ein kurzer Spaziergang belebt, bevor Sie sich im nächsten Bus aufwärmen. Das Stadtzentrum bietet viele warme Stopps.\n\nDie St.-Michaels-Kirche bietet Ruhe und Schutz vor dem Wind. Das Slagelse Museum am Nachmittag ist die beste Wahl, um sich bei einer heißen Mahlzeit aufzuwärmen.\n\nPlanen Sie Ihre Rückreise rechtzeitig vor Sonnenuntergang. Die hell erleuchteten Bahnhofsanlagen in Slagelse sorgen für ein sicheres Gefühl beim Warten am Abend.",
+            "hu": "Érkezzen jól felöltözve a Slagelse állomásra. A fűtött várótermek áldásosak, mielőtt felszállna a buszra az Antvorskov romok felé.\n\nA Panums Parkban friss a téli levegő, de hamar keressen melegedőt a következő buszon. A városközpontban sok fűtött megálló található.\n\nA Szent Mihály-templom falai között elmenekülhet a szél elől. A Slagelse Múzeum a legjobb délutáni program a meleg ételekkel és kiállításokkal.\n\nA hazautat még naplemente előtt tervezze meg. A jól kivilágított Slagelse állomás biztonságos és kényelmes várakozóhely az esti órákban is.",
+            "ro": "Sosiți bine îmbrăcați la gara Slagelse. Sălile de așteptare încălzite sunt binevenite înainte de a lua autobuzul spre ruinele Antvorskov.\n\nÎn Panums Park aerul de iarnă este revigorant, dar încălziți-vă rapid în următorul autobuz. Centrul orașului oferă multe locuri calde.\n\nBiserica Sf. Mihail oferă liniște și protecție contra vântului. Muzeul Slagelse este cea mai bună alegere după-amiaza pentru a vă încălzi cu o masă caldă.\n\nPlanificați călătoria de întoarcere înainte de apus. Gara din Slagelse, bine luminată, oferă un sentiment de siguranță în timp ce așteptați seara.",
+            "en": "Arrive bundle-up at Slagelse Station. The heated waiting areas are a blessing before you catch the bus out to the Antvorskov ruins.\n\nEnjoy the crisp winter air in Panums Park, then warm up on the bus ride back to the center. Slagelse's city core is full of warm cafes and shops.\n\nSt. Michael's Church provides a peaceful break from the cold wind. Slagelse Museum is your best bet for the afternoon to enjoy a hot meal and history.\n\nCoordinate your return trip before the early sunset. The brightly lit platforms at Slagelse Station ensure a safe and comfortable wait for your evening train."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Slagelse Station",
+              "tip_5lang": {
+                "de": "Nutzen Sie den beheizten Wartesaal im Bahnhof.",
+                "hu": "Használja az állomás fűtött várótermét.",
+                "ro": "Folosiți sala de așteptare încălzită din gară.",
+                "en": "Use the heated waiting room inside the station."
+              }
+            },
+            {
+              "name": "Antvorskov Monastery Ruin",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Busfahrplan, um Wartezeiten im Freien zu minimieren.",
+                "hu": "Ellenőrizze a buszmenetrendet a kinti várakozás csökkentésére.",
+                "ro": "Verificați programul pentru a nu aștepta mult în frig.",
+                "en": "Check the bus schedule to minimize outdoor waiting time."
+              }
+            },
+            {
+              "name": "Panums Park",
+              "tip_5lang": {
+                "de": "Kurzer Spaziergang, um warm zu bleiben.",
+                "hu": "Rövid séta a testhőmérséklet fenntartásához.",
+                "ro": "Plimbare scurtă pentru a vă menține căldura corporală.",
+                "en": "Keep moving with a short walk to stay warm."
+              }
+            },
+            {
+              "name": "City Center Cluster",
+              "tip_5lang": {
+                "de": "Wechseln Sie oft in beheizte Geschäfte.",
+                "hu": "Gyakran térjen be fűtött üzletekbe.",
+                "ro": "Intrați des în magazinele încălzite.",
+                "en": "Pop into heated shops frequently to warm up."
+              }
+            },
+            {
+              "name": "St. Michael's Church",
+              "tip_5lang": {
+                "de": "Die schwere Tür hält den kalten Wind draußen.",
+                "hu": "A nehéz ajtó kint tartja a hideg szelet.",
+                "ro": "Ușa grea menține vântul rece afară.",
+                "en": "The heavy entrance door keeps the cold wind out."
+              }
+            },
+            {
+              "name": "Slagelse Museum & Lunch",
+              "tip_5lang": {
+                "de": "Genießen Sie die gemütliche Winterstimmung im Museum.",
+                "hu": "Élvezze a múzeum meghitt téli hangulatát.",
+                "ro": "Bucurați-vă de atmosfera primitoare de iarnă din muzeu.",
+                "en": "Enjoy the cozy winter atmosphere inside the museum."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie warme Socken, da Bahnsteige sehr kalt sein können.",
+              "Nutzen Sie die Heizung in den Bussen zum Aufwärmen.",
+              "Achten Sie auf Verspätungen bei Schneefall.",
+              "Bahnhöfe sind oft windanfällig; suchen Sie geschützte Ecken.",
+              "Halten Sie Ihr Handy warm, damit der Akku für das Ticket hält."
+            ],
+            "hu": [
+              "Viseljen meleg zoknit, mert a peronok nagyon hidegek.",
+              "Használja ki a buszok fűtését a felmelegedéshez.",
+              "Hóesés esetén számítson esetleges késésekre.",
+              "Az állomások szelesek lehetnek; keressen védett sarkot.",
+              "Tartsa melegen a telefonját a digitális jegy miatt."
+            ],
+            "ro": [
+              "Purtați șosete groase, peroanele pot fi foarte reci.",
+              "Profitați de încălzirea din autobuze pentru a vă dezmorți.",
+              "Atenție la posibile întârzieri în caz de ninsoare.",
+              "Gările pot fi expuse vântului; căutați colțuri ferite.",
+              "Țineți telefonul la căldură pentru a nu se descărca bateria."
+            ],
+            "en": [
+              "Wear thermal socks as station platforms can be freezing.",
+              "Make the most of the heating inside buses to warm up.",
+              "Expect potential delays if there is heavy snowfall.",
+              "Stations can be draughty; find a sheltered corner to wait.",
+              "Keep your phone in an inner pocket to save battery for your ticket."
+            ]
+          }
+        }
       }
     }
   }

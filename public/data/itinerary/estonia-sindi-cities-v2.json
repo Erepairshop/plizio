@@ -356,6 +356,196 @@
           "Check the museum's opening hours in advance.",
           "A camera is a must to capture the industrial and natural beauty."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den regnerischen Morgen im Rathaus von Sindi. Der Vormittag gehört dem Museum, das perfekten Schutz bietet. Mittags spazieren wir durch die historische Arbeitersiedlung zur alten Wollfabrik. Der Nachmittag am Pärnu-Ufer ist neblig und stimmungsvoll. Zum Abend hin kehren wir durch das Arboretum ins Zentrum zurück, während die Lichter der Fabrikstadt im Regen glänzen.",
+            "hu": "Kezdje az esős reggelt a sindi városházánál. A délelőttöt a múzeumban tölthetjük, védve az elemektől. Délben a munkástelepen át az egykori gyapjúgyár felé vesszük az irányt. A délutáni Pärnu-part szürke, de hangulatos a vízpára miatt. Estére az arborétumon keresztül térünk vissza a központba, miközben felgyúlnak a város fényei a szakadó esőben.",
+            "ro": "Începeți dimineața ploioasă la Primăria din Sindi. Dimineața este rezervată muzeului, oferind adăpost ideal. La prânz, trecem prin cartierul muncitoresc spre fosta fabrică de lână. După-amiaza pe malul râului Pärnu este cețoasă și plină de atmosferă. Spre seară ne întoarcem prin arboretum spre centru, în timp ce luminile orașului industrial strălucesc în ploaie.",
+            "en": "Start the rainy morning at Sindi Town Hall. Spend the morning at the museum, which offers perfect shelter. At noon, walk through the historic residential settlement towards the wool factory. The afternoon by the Pärnu riverbank is misty and atmospheric. By evening, return through the arboretum to the center as the lights of the factory town glisten in the rain."
+          },
+          "stops": [
+            {
+              "name": "Sindi Town Hall",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur vom trockenen Eingangsbereich aus.",
+                "hu": "Csodálja meg az építészetet a száraz bejárati rész alól.",
+                "ro": "Admirați arhitectura din zona de intrare protejată de ploaie.",
+                "en": "Admire the architecture from the dry entrance area."
+              }
+            },
+            {
+              "name": "Sindi Museum",
+              "tip_5lang": {
+                "de": "Verlängern Sie Ihren Aufenthalt, bis der stärkste Regen nachlässt.",
+                "hu": "Maradjon bent hosszabb ideig, amíg a legnagyobb eső elvonul.",
+                "ro": "Prelungiți vizita până când ploaia torențială se mai domolește.",
+                "en": "Extend your stay until the heaviest rain passes."
+              }
+            },
+            {
+              "name": "Factory's Residential Settlement",
+              "tip_5lang": {
+                "de": "Die roten Backsteinhäuser wirken im Regen besonders farbintensiv.",
+                "hu": "A vörös téglaépületek színe elmélyül az esős időben.",
+                "ro": "Casele din cărămidă roșie par mai intens colorate în ploaie.",
+                "en": "The red brick houses look more color-intensive in the rain."
+              }
+            },
+            {
+              "name": "Sindi Wool Factory",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den Dachvorsprüngen der Fabrikgebäude.",
+                "hu": "Keressen menedéket a gyárépületek ereszei alatt.",
+                "ro": "Căutați adăpost sub streșinile clădirilor fabricii.",
+                "en": "Find shelter under the eaves of the factory buildings."
+              }
+            },
+            {
+              "name": "Pärnu Riverbank",
+              "tip_5lang": {
+                "de": "Vorsicht auf den rutschigen Pfaden direkt am Flussufer.",
+                "hu": "Vigyázat, a közvetlen folyóparti ösvények csúszósak lehetnek.",
+                "ro": "Atenție la potecile alunecoase de pe malul râului.",
+                "en": "Careful on the slippery paths directly by the riverbank."
+              }
+            },
+            {
+              "name": "Sindi Arboretum",
+              "tip_5lang": {
+                "de": "Dichte Baumkronen bieten natürlichen Schutz vor leichtem Nieselregen.",
+                "hu": "A sűrű lombkoronák természetes védelmet nyújtanak a szitáló esőben.",
+                "ro": "Coroanele dese oferă protecție naturală împotriva burniței.",
+                "en": "Dense tree canopies provide natural shelter from light drizzle."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Wanderschuhe für die unbefestigten Wege am Fluss.",
+              "Ein stabiler Regenschirm ist wegen der Windböen vom Fluss her unerlässlich.",
+              "Das Museum ist der beste Ort, um eine längere Regenfront abzuwarten.",
+              "Nutzen Sie die überdachten Bushaltestellen als kurzzeitige Unterstände.",
+              "Warme Getränke finden Sie in den kleinen Cafés nahe dem Rathaus."
+            ],
+            "hu": [
+              "Viseljen vízálló túracipőt a folyóparti nem aszfaltozott utakhoz.",
+              "A folyó felől érkező széllökések miatt erős esernyőre lesz szüksége.",
+              "A múzeum a legjobb hely egy hosszabb esőfront kivárására.",
+              "Használja a fedett buszmegállókat ideiglenes menedékként.",
+              "Meleg italokat a városháza közeli kis kávézókban talál."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru potecile neasfaltate de pe mal.",
+              "Aveți nevoie de o umbrelă rezistentă din cauza vântului de pe râu.",
+              "Muzeul este cel mai bun loc pentru a aștepta trecerea ploii.",
+              "Folosiți stațiile de autobuz acoperite ca adăposturi temporare.",
+              "Găsiți băuturi calde în micile cafenele de lângă primărie."
+            ],
+            "en": [
+              "Wear waterproof hiking boots for the unpaved paths by the river.",
+              "You will need a sturdy umbrella due to wind gusts from the river.",
+              "The museum is the best place to wait out a long rain front.",
+              "Use the covered bus stops as temporary shelters.",
+              "Find warm drinks in the small cafes near the Town Hall."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Wintermorgen beginnt am Rathaus von Sindi. Die verschneite Arbeitersiedlung wirkt wie eine Kulisse aus dem 19. Jahrhundert. Der Vormittag im Museum bietet wohlige Wärme vor dem estnischen Frost. Mittags bewundern wir die vereiste Wollfabrik. Am Nachmittag glitzert der Schnee am Pärnu-Ufer, bevor wir bei frühem Sonnenuntergang das Arboretum erreichen.",
+            "hu": "A fagyos téli reggel a sindi városházánál indul. A havas munkástelep olyan, mint egy 19. századi díszlet. A délelőtt a múzeumban kellemes menedéket ad az észt fagy elől. Délben a jeges gyapjúgyárat csodáljuk meg. Délután a hó csillog a Pärnu partján, majd a korai naplemente idején érjük el az arborétumot.",
+            "ro": "O dimineață geroasă de iarnă începe la Primăria din Sindi. Cartierul muncitoresc înzăpezit pare un decor din secolul al XIX-lea. Dimineața la muzeu oferă o căldură plăcută împotriva gerului estonian. La prânz admirăm fabrica de lână înghețată. După-amiaza zăpada sclipește pe malul râului Pärnu, înainte de a ajunge la arboretum la apusul devreme.",
+            "en": "A frosty winter morning starts at Sindi Town Hall. The snowy residential settlement looks like a 19th-century stage set. Morning at the museum provides cozy warmth against the Estonian frost. At noon, we admire the icy wool factory. In the afternoon, snow glistens on the Pärnu riverbank before reaching the arboretum at early sunset."
+          },
+          "stops": [
+            {
+              "name": "Sindi Town Hall",
+              "tip_5lang": {
+                "de": "Das gelbe Gebäude bildet einen tollen Kontrast zum weißen Schnee.",
+                "hu": "A sárga épület remek kontrasztot alkot a fehér hóval.",
+                "ro": "Clădirea galbenă oferă un contrast superb cu zăpada albă.",
+                "en": "The yellow building provides a great contrast with the white snow."
+              }
+            },
+            {
+              "name": "Sindi Museum",
+              "tip_5lang": {
+                "de": "Genießen Sie die historische Wärme im Inneren des Museums.",
+                "hu": "Élvezze a múzeum belső tereinek történelmi melegét.",
+                "ro": "Bucurați-vă de căldura istorică din interiorul muzeului.",
+                "en": "Enjoy the historical warmth inside the museum."
+              }
+            },
+            {
+              "name": "Factory's Residential Settlement",
+              "tip_5lang": {
+                "de": "Achten Sie auf Eiszapfen an den alten Holzhäusern.",
+                "hu": "Ügyeljen a régi faházak ereszéről lelógó jégcsapokra.",
+                "ro": "Atenție la țurțurii de pe streșinile vechilor case din lemn.",
+                "en": "Watch out for icicles on the eaves of the old wooden houses."
+              }
+            },
+            {
+              "name": "Sindi Wool Factory",
+              "tip_5lang": {
+                "de": "Die massiven Backsteinmauern schützen etwas vor dem kalten Wind.",
+                "hu": "A masszív téglafalak némileg védenek a hideg szél ellen.",
+                "ro": "Zidurile masive de cărămidă oferă protecție împotriva vântului rece.",
+                "en": "The massive brick walls provide some protection from the cold wind."
+              }
+            },
+            {
+              "name": "Pärnu Riverbank",
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Betreten des Eises auf dem Pärnu-Fluss.",
+                "hu": "Kerülje a rálépést a Pärnu folyó jegére.",
+                "ro": "Evitați să pășiți pe gheața râului Pärnu.",
+                "en": "Avoid stepping onto the ice on the Pärnu river."
+              }
+            },
+            {
+              "name": "Sindi Arboretum",
+              "tip_5lang": {
+                "de": "Die schneebedeckten Bäume wirken im Dämmerlicht magisch.",
+                "hu": "A hóval borított fák mágikus látványt nyújtanak a szürkületben.",
+                "ro": "Copacii acoperiți de zăpadă par magici în lumina amurgului.",
+                "en": "The snow-covered trees look magical in the twilight light."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht in Estland im Winter bereits gegen 15:30 Uhr unter.",
+              "Tragen Sie Thermokleidung, da der Wind vom Fluss sehr beißend sein kann.",
+              "Die Wege am Flussufer werden im Winter nicht immer geräumt.",
+              "Nutzen Sie die Tageslichtstunden für Fotos der Siedlung.",
+              "Planen Sie Aufwärmpausen im Museum oder in lokalen Geschäften ein."
+            ],
+            "hu": [
+              "Észtországban télen a nap már 15:30 körül lenyugszik.",
+              "Viseljen termaruházatot, mert a folyó felőli szél metsző lehet.",
+              "A folyóparti utakat télen nem mindenhol takarítják le.",
+              "Használja ki a nappali órákat a település fotózására.",
+              "Tervezzen be melegedő szüneteket a múzeumban vagy a boltokban."
+            ],
+            "ro": [
+              "Soarele apune în Estonia în jurul orei 15:30 pe timp de iarnă.",
+              "Purtați haine termice, vântul de pe râu poate fi tăios.",
+              "Potecile de pe malul râului nu sunt întotdeauna curățate de zăpadă.",
+              "Profită de orele de lumină pentru a fotografia așezarea.",
+              "Planificați pauze de încălzire la muzeu sau în magazinele locale."
+            ],
+            "en": [
+              "The sun sets in Estonia around 15:30 during winter.",
+              "Wear thermal clothing as the wind from the river can be biting.",
+              "The riverbank paths are not always cleared of snow in winter.",
+              "Make use of the daylight hours for photos of the settlement.",
+              "Plan warming breaks in the museum or local shops."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -729,6 +919,214 @@
           "Bring a lock to secure your bike during museum visits.",
           "Plan your route in advance, but be flexible."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie vorsichtig am alten Bahnhof. Der Weg zum Sindi-Damm ist bei Regen rutschig, aber die Wassermassen sind beeindruckend. Mittags bietet die Wollfabrik einen industriellen Rückzugsort. Nach dem Museumsbesuch erkunden wir das Arboretum, wo die Blätter den Regen dämpfen. Der Tag endet mit einer Fahrt entlang des grauen Pärnu-Ufers.",
+            "hu": "Induljon óvatosan a régi vasútállomástól. Az út a sindi gátig esőben csúszós, de a víztömeg lenyűgöző. Délben a gyapjúgyár nyújt ipari menedéket. A múzeumlátogatás után az arborétumot fedezzük fel, ahol a levelek tompítják az esőt. A nap a szürke Pärnu-part menti tekeréssel zárul.",
+            "ro": "Porniți cu prudență de la vechea gară. Drumul spre barajul Sindi este alunecos pe ploaie, dar debitul apei este impresionant. La prânz, fabrica de lână oferă un refugiu industrial. După vizitarea muzeului, explorăm arboretumul, unde frunzele temperează ploaia. Ziua se încheie cu o plimbare pe malul gri al râului Pärnu.",
+            "en": "Start carefully at the old train station. The path to the Sindi Dam is slippery in the rain, but the water volume is impressive. At noon, the wool factory provides an industrial retreat. After the museum visit, we explore the arboretum where leaves dampen the rain. The day ends with a ride along the grey Pärnu riverbank."
+          },
+          "stops": [
+            {
+              "name": "Sindi Train Station",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Vordach des Bahnhofs, um die Regenkleidung zu richten.",
+                "hu": "Használja az állomás előtetőjét az esőruházat megigazításához.",
+                "ro": "Folosiți copertina gării pentru a vă ajusta echipamentul de ploaie.",
+                "en": "Use the station's canopy to adjust your rain gear."
+              }
+            },
+            {
+              "name": "Sindi Dam",
+              "tip_5lang": {
+                "de": "Vorsicht beim Bremsen auf der nassen Brücke und am Damm.",
+                "hu": "Vigyázzon a fékezéssel a nedves hídon és a gátnál.",
+                "ro": "Atenție la frânare pe podul umed și lângă baraj.",
+                "en": "Be careful when braking on the wet bridge and near the dam."
+              }
+            },
+            {
+              "name": "Sindi Wool Factory",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad unter einen der Fabrikunterstände.",
+                "hu": "Állítsa le a biciklijét a gyári előtetők egyikének védelmébe.",
+                "ro": "Parcați bicicleta sub unul dintre adăposturile fabricii.",
+                "en": "Park your bike under one of the factory shelters."
+              }
+            },
+            {
+              "name": "Sindi Museum",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich auf, während Ihr Fahrrad draußen im Ständer wartet.",
+                "hu": "Melegedjen fel, amíg a bicikli kint vár a tárolóban.",
+                "ro": "Încălziți-vă în timp ce bicicleta așteaptă afară în rastel.",
+                "en": "Warm up while your bike waits outside in the rack."
+              }
+            },
+            {
+              "name": "Sindi Town Hall",
+              "tip_5lang": {
+                "de": "Kurzer Stopp unter dem Portal für ein regnerisches Foto.",
+                "hu": "Rövid megálló a kapualj alatt egy esős fotóhoz.",
+                "ro": "Scurtă oprire sub portal pentru o fotografie pe ploaie.",
+                "en": "Short stop under the portal for a rainy photo."
+              }
+            },
+            {
+              "name": "Sindi Arboretum",
+              "tip_5lang": {
+                "de": "Fahren Sie langsam auf den nassen Waldwegen.",
+                "hu": "Hajtson lassan a nedves erdei utakon.",
+                "ro": "Conduceți încet pe potecile umede de pădure.",
+                "en": "Ride slowly on the wet forest paths."
+              }
+            },
+            {
+              "name": "Pärnu Riverbank",
+              "tip_5lang": {
+                "de": "Meiden Sie die weichen Grasflächen neben dem Radweg.",
+                "hu": "Kerülje a kerékpárút melletti felázott füves területeket.",
+                "ro": "Evitați zonele cu iarbă moale de lângă pista de biciclete.",
+                "en": "Avoid the soft grass areas next to the bike path."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Bremsen, da nasse Felgen einen längeren Bremsweg haben.",
+              "Vermeiden Sie Pfützen, da diese tiefe Schlaglöcher verbergen können.",
+              "Schutzbleche sind bei diesem Wetter absolut notwendig.",
+              "Ein Helm mit Visier hilft, den Regen aus den Augen zu halten.",
+              "Die Holzstege am Fluss können extrem rutschig sein."
+            ],
+            "hu": [
+              "Ellenőrizze a fékeket, mert a nedves felniken hosszabb a fékút.",
+              "Kerülje a tócsákat, mert mély kátyúkat rejthetnek.",
+              "A sárvédő elengedhetetlen ilyen időben.",
+              "A szemellenzős sisak segít távol tartani az esőt a szemétől.",
+              "A folyóparti fapallók rendkívül csúszósak lehetnek."
+            ],
+            "ro": [
+              "Verificați frânele, jantele umede necesită o distanță mai mare de frânare.",
+              "Evitați bălțile, deoarece pot ascunde gropi adânci.",
+              "Apărătorile de noroi sunt absolut necesare pe această vreme.",
+              "O cască cu vizieră ajută la protejarea ochilor de ploaie.",
+              "Podețele de lemn de pe râu pot fi extrem de alunecoase."
+            ],
+            "en": [
+              "Check your brakes as wet rims require a longer braking distance.",
+              "Avoid puddles as they can hide deep potholes.",
+              "Mudguards are absolutely necessary in this weather.",
+              "A helmet with a visor helps keep the rain out of your eyes.",
+              "The wooden boardwalks by the river can be extremely slippery."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Radtour durch Sindi beginnt am frostigen Bahnhof. Die Fahrt zum Damm führt durch eine stille, weiße Landschaft. Die Wollfabrik und die Arbeitersiedlung wirken im Schnee friedlich. Nach dem Museumsbesuch radeln wir durch das frostige Arboretum. Der Tag endet mit einer kühlen Brise am Pärnu-Ufer unter dem weiten Winterhimmel.",
+            "hu": "A téli kerékpártúra Sindi fagyos vasútállomásától indul. A gát felé vezető út csendes, fehér tájon át vezet. A gyapjúgyár és a munkástelep békés látványt nyújt a hóban. A múzeumlátogatás után a zúzmarás arborétumon át tekerünk. A nap a Pärnu-part hűvös szellőjével zárul a tágas téli égbolt alatt.",
+            "ro": "O tură de iarnă cu bicicleta prin Sindi începe la gara înghețată. Drumul spre baraj trece printr-un peisaj alb și liniștit. Fabrica de lână și cartierul muncitoresc par pașnice în zăpadă. După vizita la muzeu, pedalăm prin arboretumul înghețat. Ziua se încheie cu o briză rece pe malul râului Pärnu sub cerul vast de iarnă.",
+            "en": "A winter bike tour through Sindi starts at the frosty train station. The ride to the dam leads through a silent, white landscape. The wool factory and residential settlement look peaceful in the snow. After the museum visit, we cycle through the frosty arboretum. The day ends with a cool breeze by the Pärnu riverbank under the wide winter sky."
+          },
+          "stops": [
+            {
+              "name": "Sindi Train Station",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stellen auf dem Bahnsteig.",
+                "hu": "Ügyeljen a peron jeges részeire.",
+                "ro": "Atenție la porțiunile înghețate de pe peron.",
+                "en": "Watch out for icy patches on the platform."
+              }
+            },
+            {
+              "name": "Sindi Dam",
+              "tip_5lang": {
+                "de": "Die Gischt am Damm kann die Wege schnell vereisen lassen.",
+                "hu": "A gátnál lévő vízpermet gyorsan lefagyaszthatja az utakat.",
+                "ro": "Stropii de apă de la baraj pot îngheța rapid potecile.",
+                "en": "Water spray at the dam can quickly freeze the paths."
+              }
+            },
+            {
+              "name": "Sindi Wool Factory",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad dort ab, wo es nicht einschneit.",
+                "hu": "Olyan helyen parkoljon, ahol nem esik rá a hó.",
+                "ro": "Parcați bicicleta într-un loc ferit de ninsoare.",
+                "en": "Park your bike where it won't get covered in snow."
+              }
+            },
+            {
+              "name": "Sindi Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit drinnen, um Ihre Glieder aufzuwärmen.",
+                "hu": "Használja ki a bent töltött időt a végtagjai felmelegítésére.",
+                "ro": "Folosiți timpul în interior pentru a vă încălzi extremitățile.",
+                "en": "Use the time inside to warm up your limbs."
+              }
+            },
+            {
+              "name": "Sindi Town Hall",
+              "tip_5lang": {
+                "de": "Ein schneebedecktes Foto vor dem gelben Rathaus lohnt sich.",
+                "hu": "Érdemes egy havas fotót készíteni a sárga városháza előtt.",
+                "ro": "Merită o fotografie înzăpezită în fața primăriei galbene.",
+                "en": "A snowy photo in front of the yellow Town Hall is worth it."
+              }
+            },
+            {
+              "name": "Sindi Arboretum",
+              "tip_5lang": {
+                "de": "Vorsicht vor tiefem Schnee, der Wurzeln verdecken kann.",
+                "hu": "Vigyázzon a mély hóval, ami elrejtheti a gyökereket.",
+                "ro": "Atenție la zăpada adâncă ce poate ascunde rădăcini.",
+                "en": "Beware of deep snow that can hide roots."
+              }
+            },
+            {
+              "name": "Pärnu Riverbank",
+              "tip_5lang": {
+                "de": "Der Wind am Fluss kühlt die gefühlte Temperatur stark ab.",
+                "hu": "A folyóparti szél jelentősen csökkenti a hőérzetet.",
+                "ro": "Vântul de pe râu scade mult temperatura resimțită.",
+                "en": "The wind by the river significantly lowers the perceived temperature."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie Reifen mit Spikes oder breitem Profil für besseren Halt.",
+              "Vermeiden Sie plötzliche Lenkbewegungen auf festgefahrenem Schnee.",
+              "Akkus von E-Bikes entladen sich in der Kälte viel schneller.",
+              "Tragen Sie warme Handschuhe und eine winddichte Mütze unter dem Helm.",
+              "Bei Sonnenuntergang gegen 15:30 Uhr ist eine gute Beleuchtung Pflicht."
+            ],
+            "hu": [
+              "Használjon szöges vagy széles profilú gumit a jobb tapadásért.",
+              "Kerülje a hirtelen kormánymozdulatokat a letaposott havon.",
+              "Az e-bike akkumulátorok sokkal gyorsabban merülnek a hidegben.",
+              "Viseljen meleg kesztyűt és szélálló sapkát a sisak alatt.",
+              "A 15:30-as naplemente miatt a jó világítás kötelező."
+            ],
+            "ro": [
+              "Folosiți anvelope cu ținte sau profil lat pentru aderență mai bună.",
+              "Evitați manevrele bruște de direcție pe zăpada bătătorită.",
+              "Bateriile bicicletelor electrice se descarcă mult mai repede la ger.",
+              "Purtați mănuși groase și o căciulă rezistentă la vânt sub cască.",
+              "Din cauza apusului la 15:30, iluminarea bună este obligatorie."
+            ],
+            "en": [
+              "Use studded tires or wide treads for better grip.",
+              "Avoid sudden steering movements on packed snow.",
+              "E-bike batteries discharge much faster in the cold.",
+              "Wear warm gloves and a windproof hat under your helmet.",
+              "With sunset around 15:30, good lighting is mandatory."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1108,6 +1506,214 @@
           "Do not leave valuables in the car.",
           "A GPS is helpful for navigating between the clusters."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Genießen Sie Sindi bequem vom Auto aus. Nach dem Parken im Zentrum besuchen wir das Rathaus und das Museum. Die Fahrt zur Arbeitersiedlung und Wollfabrik zeigt den industriellen Charme auch bei grauem Himmel. Der Sindi-Damm ist bei Regen besonders imposant. Zum Abschluss bietet der Parkplatz am Arboretum einen guten Blick auf den nebligen Fluss.",
+            "hu": "Fedezze fel Sindit kényelmesen az autójából. A központi parkolás után látogassuk meg a városházát és a múzeumot. A munkástelep és a gyapjúgyár felé autózva feltárul az ipari báj a szürke égbolt alatt is. A sindi gát esőben különösen impozáns. Végül az arborétum melletti parkoló jó kilátást nyújt a ködös folyóra.",
+            "ro": "Explorați Sindi confortabil din mașină. După parcarea în centru, vizităm primăria și muzeul. Drumul spre cartierul muncitoresc și fabrica de lână dezvăluie farmecul industrial sub cerul gri. Barajul Sindi este impunător pe ploaie. La final, parcarea de lângă arboretum oferă o vedere bună spre râul cețos.",
+            "en": "Explore Sindi comfortably from your car. After parking in the center, we visit the Town Hall and the museum. Driving to the residential settlement and wool factory reveals the industrial charm even under grey skies. The Sindi Dam is particularly imposing in the rain. Finally, the parking lot by the arboretum offers a good view of the misty river."
+          },
+          "stops": [
+            {
+              "name": "Parking at the Town Center",
+              "tip_5lang": {
+                "de": "Suchen Sie einen Platz nahe dem Museumseingang.",
+                "hu": "Keressen helyet közel a múzeum bejáratához.",
+                "ro": "Căutați un loc aproape de intrarea muzeului.",
+                "en": "Find a spot close to the museum entrance."
+              }
+            },
+            {
+              "name": "Sindi Town Hall",
+              "tip_5lang": {
+                "de": "Kurzer Ausstieg für ein Foto, bevor es zurück ins Trockene geht.",
+                "hu": "Gyors kiszállás egy fotóra, mielőtt visszatérne a szárazba.",
+                "ro": "Coborâre scurtă pentru o poză, înainte de a reveni la adăpost.",
+                "en": "Quick exit for a photo before returning to the dry."
+              }
+            },
+            {
+              "name": "Sindi Museum",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist direkt vor der Tür, ideal bei Regen.",
+                "hu": "A parkoló közvetlenül az ajtó előtt van, ideális esőben.",
+                "ro": "Parcarea este chiar în fața ușii, ideal pe timp de ploaie.",
+                "en": "The parking is right in front of the door, ideal in the rain."
+              }
+            },
+            {
+              "name": "Factory's Residential Settlement",
+              "tip_5lang": {
+                "de": "Befahren Sie die Siedlung langsam, um die Häuser zu sehen.",
+                "hu": "Hajtson lassan a telepen, hogy megcsodálhassa a házakat.",
+                "ro": "Conduceți încet prin cartier pentru a vedea casele.",
+                "en": "Drive slowly through the settlement to see the houses."
+              }
+            },
+            {
+              "name": "Sindi Wool Factory",
+              "tip_5lang": {
+                "de": "Parken Sie am Fabriktor für einen schnellen Blick auf das Areal.",
+                "hu": "Parkoljon a gyárkapunál egy gyors pillantásra a területre.",
+                "ro": "Parcați la poarta fabricii pentru o privire rapidă asupra zonei.",
+                "en": "Park at the factory gate for a quick look at the area."
+              }
+            },
+            {
+              "name": "Sindi Dam",
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Regen für die Aussicht im Auto.",
+                "hu": "Heves esőben maradjon az autóban a kilátásért.",
+                "ro": "Rămâneți în mașină pentru priveliște dacă plouă torențial.",
+                "en": "Stay in the car for the view if it rains heavily."
+              }
+            },
+            {
+              "name": "Sindi Arboretum & Riverbank",
+              "tip_5lang": {
+                "de": "Vom Parkplatz aus haben Sie Sicht auf den Pärnu-Fluss.",
+                "hu": "A parkolóból rálátni a Pärnu folyóra.",
+                "ro": "Din parcare aveți vedere spre râul Pärnu.",
+                "en": "From the parking lot, you have a view of the Pärnu river."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie das Parken unter alten Bäumen bei Sturmgefahr.",
+              "Die Sichtverhältnisse am Fluss können durch Nebel eingeschränkt sein.",
+              "Halten Sie die Scheinwerfer auch tagsüber eingeschaltet.",
+              "Achten Sie auf tiefere Pfützen in den Nebenstraßen der Siedlung.",
+              "Ein Regenschirm im Auto ist für die kurzen Wege unerlässlich."
+            ],
+            "hu": [
+              "Viharveszély esetén kerülje a parkolást öreg fák alatt.",
+              "A folyónál a látási viszonyokat korlátozhatja a köd.",
+              "Tartsa bekapcsolva a fényszórókat napközben is.",
+              "Ügyeljen a mélyebb tócsákra a telep mellékutcáiban.",
+              "Az autóban tartott esernyő elengedhetetlen a rövid sétákhoz."
+            ],
+            "ro": [
+              "Evitați parcarea sub copaci bătrâni dacă există risc de furtună.",
+              "Vizibilitatea la râu poate fi limitată de ceață.",
+              "Păstrați farurile aprinse și în timpul zilei.",
+              "Atenție la bălțile adânci de pe străzile secundare ale coloniei.",
+              "O umbrelă în mașină este indispensabilă pentru drumurile scurte."
+            ],
+            "en": [
+              "Avoid parking under old trees if there is a storm risk.",
+              "Visibility by the river can be limited by fog.",
+              "Keep your headlights on even during the day.",
+              "Watch out for deeper puddles in the side streets of the settlement.",
+              "An umbrella in the car is essential for the short walks."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein winterlicher Ausflug nach Sindi beginnt mit der Anfahrt zum verschneiten Zentrum. Das Rathaus und das Museum sind warme Ankerpunkte in der frostigen Landschaft. Die Fahrt durch die historische Arbeitersiedlung und zur Wollfabrik wirkt wie eine Reise in die Vergangenheit. Der Sindi-Damm ist im Winter oft vereist, was ein spektakuläres Fotomotiv bietet.",
+            "hu": "A téli kirándulás Sindibe a havas központba való megérkezéssel indul. A városháza és a múzeum meleg pontok a fagyos tájban. Az autózás a történelmi munkástelepen és a gyapjúgyárnál olyan, mint egy időutazás. A sindi gát télen gyakran jeges, ami látványos fotótémát kínál.",
+            "ro": "O excursie de iarnă în Sindi începe cu sosirea în centrul înzăpezit. Primăria și muzeul sunt puncte calde în peisajul înghețat. Drumul prin cartierul muncitoresc istoric și pe la fabrica de lână pare o călătorie în trecut. Barajul Sindi este adesea înghețat iarna, oferind un subiect foto spectaculos.",
+            "en": "A winter trip to Sindi starts with the drive to the snowy center. The Town Hall and museum are warm anchors in the frosty landscape. Driving through the historic residential settlement and to the wool factory feels like a trip back in time. The Sindi Dam is often icy in winter, offering a spectacular photo subject."
+          },
+          "stops": [
+            {
+              "name": "Parking at the Town Center",
+              "tip_5lang": {
+                "de": "Achten Sie auf Schneehaufen, die Parklücken verkleinern.",
+                "hu": "Ügyeljen a hókupacokra, amik leszűkítik a parkolóhelyeket.",
+                "ro": "Atenție la mormanele de zăpadă care micșorează locurile de parcare.",
+                "en": "Watch out for snow piles that narrow the parking spots."
+              }
+            },
+            {
+              "name": "Sindi Town Hall",
+              "tip_5lang": {
+                "de": "Der Vorplatz kann bei Frost sehr glatt sein.",
+                "hu": "A városháza előtti tér fagyban nagyon csúszós lehet.",
+                "ro": "Piața din fața primăriei poate fi foarte alunecoasă la ger.",
+                "en": "The square in front of the Town Hall can be very slippery in frost."
+              }
+            },
+            {
+              "name": "Sindi Museum",
+              "tip_5lang": {
+                "de": "Genießen Sie die Heizung im Gebäude nach dem kurzen Weg vom Auto.",
+                "hu": "Élvezze az épület fűtését az autótól tett rövid út után.",
+                "ro": "Bucurați-vă de căldura din clădire după drumul scurt de la mașină.",
+                "en": "Enjoy the heating in the building after the short walk from the car."
+              }
+            },
+            {
+              "name": "Factory's Residential Settlement",
+              "tip_5lang": {
+                "de": "Die Straßen in der Siedlung sind oft nur einspurig geräumt.",
+                "hu": "A telepen az utakat gyakran csak egy sávban takarítják le.",
+                "ro": "Străzile din colonie sunt adesea deszăpezite doar pe o bandă.",
+                "en": "The streets in the settlement are often cleared only in one lane."
+              }
+            },
+            {
+              "name": "Sindi Wool Factory",
+              "tip_5lang": {
+                "de": "Die alten Mauern speichern die Kälte, bleiben Sie warm angezogen.",
+                "hu": "A régi falak tárolják a hideget, maradjon melegen felöltözve.",
+                "ro": "Zidurile vechi rețin frigul, rămâneți bine îmbrăcat.",
+                "en": "The old walls hold the cold, stay warmly dressed."
+              }
+            },
+            {
+              "name": "Sindi Dam",
+              "tip_5lang": {
+                "de": "Der Parkplatz am Damm kann bei Glatteis tückisch sein.",
+                "hu": "A gátnál lévő parkoló jegesedéskor trükkös lehet.",
+                "ro": "Parcarea de la baraj poate fi înșelătoare în caz de polei.",
+                "en": "The parking lot at the dam can be tricky in case of black ice."
+              }
+            },
+            {
+              "name": "Sindi Arboretum & Riverbank",
+              "tip_5lang": {
+                "de": "Die Zufahrt zum Arboretum wird bei starkem Schneefall zuletzt geräumt.",
+                "hu": "Az arborétumhoz vezető utat erős havazáskor utoljára takarítják.",
+                "ro": "Accesul la arboretum este deszăpezit ultimul în caz de ninsoare.",
+                "en": "Access to the arboretum is cleared last during heavy snowfall."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in Estland von Dezember bis März gesetzlich vorgeschrieben.",
+              "Führen Sie einen Eiskratzer und einen kleinen Schneebesen mit.",
+              "Die Batteriekapazität kann bei starkem Frost deutlich sinken.",
+              "Parken Sie so, dass Sie bei Schneefall leicht wieder herausfahren können.",
+              "Nutzen Sie die Sitzheizung für die kurzen Fahrten zwischen den POIs."
+            ],
+            "hu": [
+              "Észtországban decembertől márciusig kötelező a téli gumi.",
+              "Legyen önnél jégkaparó és egy kis kefe a hóeltakarításhoz.",
+              "Az akkumulátor kapacitása erős fagyban jelentősen csökkenhet.",
+              "Úgy parkoljon, hogy havazás esetén is könnyen ki tudjon állni.",
+              "Használja az ülésfűtést a POI-k közötti rövid utakon."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii în Estonia din decembrie până în martie.",
+              "Aveți la îndemână o racletă și o perie mică pentru zăpadă.",
+              "Capacitatea bateriei poate scădea semnificativ la ger puternic.",
+              "Parcați astfel încât să puteți ieși ușor în caz de ninsoare.",
+              "Folosiți încălzirea în scaune pentru drumurile scurte între obiective."
+            ],
+            "en": [
+              "Winter tires are mandatory in Estonia from December to March.",
+              "Keep an ice scraper and a small snow brush with you.",
+              "Battery capacity can drop significantly in heavy frost.",
+              "Park in a way that you can easily pull out if it snows.",
+              "Use the seat heating for the short drives between POIs."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1463,6 +2069,196 @@
           "Be mindful of the last bus departure time to avoid getting stranded.",
           "Be prepared to walk between bus stops and the sights."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Kommen Sie entspannt mit dem Bus im regnerischen Sindi an. Das Rathaus und das Museum sind vom Zentrum aus schnell erreichbar und bieten Schutz. Die Wollfabrik und der Damm sind Ziele, die auch bei Schmuddelwetter ihren Reiz behalten. Nutzen Sie die Wartehäuschen am Flussufer, um den Pärnu-Fluss trocken zu bewundern, bevor der Bus Sie zurückbringt.",
+            "hu": "Érkezzen kényelmesen busszal az esős Sindibe. A városháza és a múzeum gyorsan elérhető a központból, és védelmet nyújtanak. A gyapjúgyár és a gát olyan célpontok, amelyek borús időben is megőrzik vonzerejüket. Használja a folyóparti várókat a Pärnu folyó száraz megcsodálásához, mielőtt a busz visszavinné.",
+            "ro": "Sosiți relaxat cu autobuzul în Sindi pe timp de ploaie. Primăria și muzeul sunt rapid accesibile din centru și oferă adăpost. Fabrica de lână și barajul sunt destinații care își păstrează farmecul și pe vreme rea. Folosiți adăposturile de pe mal pentru a admira râul Pärnu la adăpost, înainte de întoarcere.",
+            "en": "Arrive relaxed by bus in rainy Sindi. The Town Hall and museum are quickly accessible from the center and provide shelter. The wool factory and the dam are destinations that retain their charm even in gloomy weather. Use the riverside shelters to admire the Pärnu river while staying dry before the bus takes you back."
+          },
+          "stops": [
+            {
+              "name": "Arrival in Sindi Center",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle im Zentrum ist überdacht.",
+                "hu": "A központi buszmegálló fedett.",
+                "ro": "Stația de autobuz din centru este acoperită.",
+                "en": "The central bus stop is covered."
+              }
+            },
+            {
+              "name": "Sindi Town Hall",
+              "tip_5lang": {
+                "de": "Das Rathaus ist nur wenige Gehminuten von der Haltestelle entfernt.",
+                "hu": "A városháza csak néhány perc séta a megállótól.",
+                "ro": "Primăria este la doar câteva minute de mers pe jos de stație.",
+                "en": "The Town Hall is just a few minutes' walk from the stop."
+              }
+            },
+            {
+              "name": "Sindi Museum",
+              "tip_5lang": {
+                "de": "Ideal, um die Zeit bis zur nächsten Busabfahrt im Trockenen zu verbringen.",
+                "hu": "Ideális a következő buszig tartó időt szárazon eltölteni.",
+                "ro": "Ideal pentru a petrece timpul până la următorul autobuz la adăpost.",
+                "en": "Ideal for spending the time until the next bus in the dry."
+              }
+            },
+            {
+              "name": "Sindi Wool Factory",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Busfahrplan für die Haltestelle nahe der Fabrik.",
+                "hu": "Ellenőrizze a menetrendet a gyár közeli megállóhoz.",
+                "ro": "Verificați mersul autobuzelor pentru stația de lângă fabrică.",
+                "en": "Check the bus schedule for the stop near the factory."
+              }
+            },
+            {
+              "name": "Sindi Dam",
+              "tip_5lang": {
+                "de": "Die Wege zum Damm können bei Regen matschig sein.",
+                "hu": "A gát felé vezető utak esőben sarasak lehetnek.",
+                "ro": "Drumurile spre baraj pot fi noroioase pe ploaie.",
+                "en": "The paths to the dam can be muddy in the rain."
+              }
+            },
+            {
+              "name": "Pärnu Riverbank",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Haltestellenunterstände als Regenschutz.",
+                "hu": "Használja a megállóhelyi várókat eső elleni védelemként.",
+                "ro": "Folosiți adăposturile din stații pentru protecție contra ploii.",
+                "en": "Use the stop shelters as protection against rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die 'Pärnu region' App für Echtzeit-Businformationen.",
+              "Die Busfrequenzen können an regnerischen Wochenenden reduziert sein.",
+              "Halten Sie Kleingeld oder eine Fahrkarte bereit, um schnell einzusteigen.",
+              "Das Museum ist der wärmste Ort zum Warten auf den nächsten Bus.",
+              "Tragen Sie auffällige Regenkleidung, um an der Haltestelle gesehen zu werden."
+            ],
+            "hu": [
+              "Használja a 'Pärnu region' alkalmazást a valós idejű buszinformációkhoz.",
+              "Esős hétvégéken a buszok ritkábban járhatnak.",
+              "Legyen önnél aprópénz vagy jegy a gyors felszálláshoz.",
+              "A múzeum a legmelegebb hely a következő buszra való várakozáshoz.",
+              "Viseljen feltűnő esőruházatot, hogy észrevegyék a megállóban."
+            ],
+            "ro": [
+              "Folosiți aplicația 'Pärnu region' pentru informații în timp real.",
+              "Frecvența autobuzelor poate fi redusă în weekend-urile ploioase.",
+              "Aveți pregătit mărunt sau biletul pentru a urca rapid.",
+              "Muzeul este cel mai cald loc pentru a aștepta următorul autobuz.",
+              "Purtați haine de ploaie reflectorizante pentru a fi vizibil în stație."
+            ],
+            "en": [
+              "Use the 'Pärnu region' app for real-time bus information.",
+              "Bus frequencies may be reduced on rainy weekends.",
+              "Have change or a ticket ready for quick boarding.",
+              "The museum is the warmest place to wait for the next bus.",
+              "Wear bright rain gear to be seen at the bus stop."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Winterbesuch in Sindi mit der Busankunft im schneebedeckten Zentrum. Das Rathaus und das Museum bieten eine willkommene Flucht vor der Kälte. Die Fahrt zwischen den historischen Standorten der Fabrikstadt ist im geheizten Bus besonders angenehm. Genießen Sie die Aussicht auf den vereisten Sindi-Damm und den Pärnu-Fluss, bevor Sie die Heimreise antreten.",
+            "hu": "Kezdje téli sindi látogatását a havas központba érkező busszal. A városháza és a múzeum szívesen látott menekülést kínál a hideg elől. A gyárváros történelmi helyszínei közötti utazás a fűtött buszon különösen kellemes. Élvezze a jeges sindi gát és a Pärnu folyó látványát, mielőtt elindulna hazafelé.",
+            "ro": "Începeți vizita de iarnă în Sindi cu sosirea autobuzului în centrul înzăpezit. Primăria și muzeul oferă o evadare binevenită din frig. Călătoria între siturile istorice ale orașului industrial este plăcută în autobuzul încălzit. Bucurați-vă de priveliștea barajului înghețat și a râului Pärnu înainte de plecare.",
+            "en": "Start your winter visit to Sindi with the bus arrival in the snowy center. The Town Hall and museum offer a welcome escape from the cold. Traveling between the factory town's historical sites is especially pleasant in the heated bus. Enjoy the view of the frozen Sindi Dam and the Pärnu river before heading home."
+          },
+          "stops": [
+            {
+              "name": "Arrival in Sindi Center",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glätte beim Aussteigen aus dem Bus.",
+                "hu": "Ügyeljen a csúszós talajra a buszról való leszálláskor.",
+                "ro": "Atenție la polei când coborâți din autobuz.",
+                "en": "Watch out for slipperiness when getting off the bus."
+              }
+            },
+            {
+              "name": "Sindi Town Hall",
+              "tip_5lang": {
+                "de": "Die Wartezeit an der Haltestelle sollte im Winter kurz gehalten werden.",
+                "hu": "A megállóban való várakozást télen érdemes minimalizálni.",
+                "ro": "Timpul de așteptare în stație ar trebui limitat pe timp de iarnă.",
+                "en": "Waiting time at the stop should be kept short in winter."
+              }
+            },
+            {
+              "name": "Sindi Museum",
+              "tip_5lang": {
+                "de": "Der Museumsshop bietet warme Souvenirs wie Wollprodukte.",
+                "hu": "A múzeumi bolt meleg szuveníreket, például gyapjútermékeket kínál.",
+                "ro": "Magazinul muzeului oferă suveniruri călduroase din lână.",
+                "en": "The museum shop offers warm souvenirs like wool products."
+              }
+            },
+            {
+              "name": "Sindi Wool Factory",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle hier bietet wenig Windschutz.",
+                "hu": "Az itteni buszmegálló kevés védelmet nyújt a szél ellen.",
+                "ro": "Stația de autobuz de aici oferă puțin adăpost contra vântului.",
+                "en": "The bus stop here offers little wind protection."
+              }
+            },
+            {
+              "name": "Sindi Dam",
+              "tip_5lang": {
+                "de": "Der Wind pfeift hier im Winter besonders stark.",
+                "hu": "A szél itt télen különösen erősen fúj.",
+                "ro": "Vântul suflă foarte tare aici pe timp de iarnă.",
+                "en": "The wind blows particularly strong here in winter."
+              }
+            },
+            {
+              "name": "Pärnu Riverbank",
+              "tip_5lang": {
+                "de": "Ein kurzer Blick auf den gefrorenen Fluss reicht meist aus.",
+                "hu": "A befagyott folyóra vetett gyors pillantás általában elég.",
+                "ro": "O privire scurtă spre râul înghețat este de obicei suficientă.",
+                "en": "A quick look at the frozen river is usually enough."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse können bei starkem Schneefall Verspätung haben.",
+              "Warten Sie lieber in nahegelegenen Geschäften als direkt im Wind.",
+              "Tragen Sie Winterschuhe mit gutem Profil für den Weg zur Haltestelle.",
+              "Die Dunkelheit bricht früh herein, planen Sie den Rückweg vor 16 Uhr.",
+              "In estnischen Bussen ist es meist sehr gut geheizt."
+            ],
+            "hu": [
+              "Erős havazáskor a buszok késhetnek.",
+              "Inkább közeli boltokban várjon, mint közvetlenül a szélben.",
+              "Viseljen jó profilú téli cipőt a megállóhoz vezető úthoz.",
+              "Korán sötétedik, tervezze a hazautat 16 óra elé.",
+              "Az észt buszokon általában nagyon jó a fűtés."
+            ],
+            "ro": [
+              "Autobuzele pot avea întârzieri în caz de ninsoare abundentă.",
+              "Așteptați mai degrabă în magazinele din apropiere decât în vânt.",
+              "Purtați ghete de iarnă cu talpă aderentă pentru drumul spre stație.",
+              "Se întunecă devreme, planificați întoarcerea înainte de ora 16.",
+              "Autobuzele estoniene sunt de obicei foarte bine încălzite."
+            ],
+            "en": [
+              "Buses may be delayed during heavy snowfall.",
+              "Wait in nearby shops rather than directly in the wind.",
+              "Wear winter shoes with good tread for the walk to the stop.",
+              "Darkness sets in early, plan your return before 16:00.",
+              "Estonian buses are usually very well heated."
+            ]
+          }
+        }
       }
     }
   }

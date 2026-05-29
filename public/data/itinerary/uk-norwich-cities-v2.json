@@ -372,6 +372,188 @@
           "Some smaller museums and attractions may have limited opening hours; check in advance.",
           "Take advantage of the many historic pubs for a break and a local ale."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens glänzen die nassen Fassaden von Elm Hill im Regen. Mittags bietet die monumentale Kathedrale einen trockenen, ehrwürdigen Zufluchtsort. Nachmittags ist das gläserne Forum der perfekte Ort, um geschützt das Treiben zu beobachten. Abends verzaubert der Plantation Garden mit seiner nebligen, mystischen Atmosphäre trotz des Niederschlags.",
+            "hu": "Reggel az eső áztatta Elm Hill középkori házai között kezdünk. Délben a katedrális hatalmas belső tere nyújt tökéletes menedéket a zápor elől. Délután a Forum modern üvegcsarnoka tart minket szárazon a város szívében. Este a Plantation Garden ködös és esős hangulata különleges lezárást ad a napnak.",
+            "ro": "Dimineața, fațadele umede din Elm Hill strălucesc sub ploaie. La prânz, catedrala monumentală oferă un refugiu uscat și liniștit. După-amiaza, Forumul cu pereți de sticlă este locul ideal pentru a rămâne la adăpost. Seara, Plantation Garden încântă cu atmosfera sa mistică și ploioasă, în ciuda vremii.",
+            "en": "Morning sees the wet facades of Elm Hill glistening in the rain. At noon, the monumental cathedral provides a dry and venerable sanctuary. In the afternoon, the glass-fronted Forum is the perfect spot to watch the city while staying dry. The evening ends with the misty, rain-soaked charm of Plantation Garden."
+          },
+          "stops": [
+            {
+              "name": "Elm Hill",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem glatten Kopfsteinpflaster; feste Sohlen sind ratsam.",
+                "hu": "Vigyázz a csúszós macskaköveken, viselj tapadós talpú cipőt.",
+                "ro": "Atenție la pietrele cubice alunecoase; purtați pantofi cu aderență.",
+                "en": "Watch your step on the slippery cobblestones; wear grippy shoes."
+              }
+            },
+            {
+              "name": "Norwich Cathedral",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Kreuzgang als überdachten Rundgang bei Regen.",
+                "hu": "Használd a kerengőt fedett sétányként az eső idején.",
+                "ro": "Folosiți claustrul ca pasaj acoperit în timp ce plouă.",
+                "en": "Use the cloisters as a covered walkway during the downpour."
+              }
+            },
+            {
+              "name": "Strangers' Hall",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um lange Zeit im Trockenen Geschichte zu erleben.",
+                "hu": "Ideális helyszín a hosszú, fedett történelmi felfedezéshez.",
+                "ro": "Un loc ideal pentru a explora istoria la adăpost pentru mult timp.",
+                "en": "An ideal spot for a long, dry exploration of local history."
+              }
+            },
+            {
+              "name": "The Forum",
+              "tip_5lang": {
+                "de": "Das große Glasfoyer bietet Schutz und eine tolle Aussicht.",
+                "hu": "A nagy üvegfoyer védelmet és remek kilátást nyújt.",
+                "ro": "Foaierul mare de sticlă oferă adăpost și o priveliște excelentă.",
+                "en": "The large glass foyer offers shelter and a great view."
+              }
+            },
+            {
+              "name": "Norwich Castle",
+              "tip_5lang": {
+                "de": "Der Aufstieg ist windig, aber die Ausstellungen sind alle drinnen.",
+                "hu": "A felmenet szeles, de a kiállítások mind fedett helyen vannak.",
+                "ro": "Urcarea este vântoasă, dar expozițiile sunt toate în interior.",
+                "en": "The climb is windy, but the exhibitions are all indoors."
+              }
+            },
+            {
+              "name": "Plantation Garden",
+              "tip_5lang": {
+                "de": "Die Wege können matschig sein, wasserfeste Schuhe sind ein Muss.",
+                "hu": "Az utak sárosak lehetnek, a vízálló cipő kötelező.",
+                "ro": "Potecile pot fi noroioase, încălțămintea impermeabilă este necesară.",
+                "en": "Paths can be muddy; waterproof footwear is essential."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Royal Arcade als überdachte Abkürzung im Zentrum.",
+              "Ein stabiler Regenschirm ist bei dem oft windigen Wetter wichtig.",
+              "Das Kaufhaus Jarrolds bietet eine gute Gelegenheit für eine trockene Pause.",
+              "Wasserdichte Stiefel sind für den Besuch des Gartens sehr zu empfehlen."
+            ],
+            "hu": [
+              "Használd a Royal Arcade-et fedett rövidítésként a központban.",
+              "Egy erős esernyő elengedhetetlen a gyakran szeles városban.",
+              "A Jarrolds áruház kiváló hely egy száraz pihenőre és kávéra.",
+              "A vízálló bakancs erősen ajánlott a kerti sétához."
+            ],
+            "ro": [
+              "Folosiți Royal Arcade ca scurtătură acoperită în centru.",
+              "O umbrelă rezistentă este esențială în acest oraș adesea vântos.",
+              "Magazinul Jarrolds oferă o ocazie bună pentru o pauză uscată.",
+              "Cizmele impermeabile sunt recomandate pentru vizitarea grădinii."
+            ],
+            "en": [
+              "Use the Royal Arcade as a covered shortcut in the city center.",
+              "A sturdy umbrella is essential in the often windy Norwich weather.",
+              "Jarrolds department store is a great spot for a dry break and coffee.",
+              "Waterproof boots are highly recommended for the garden visit."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens glitzert der Frost auf den mittelalterlichen Gassen von Elm Hill. Mittags wärmen wir uns in den beheizten Bereichen der Kathedrale auf. Nachmittags leuchten die Lichter des Forums in der frühen Dämmerung besonders hell. Abends genießen wir die kühle, klare Winterluft in der Stille des Plantation Garden.",
+            "hu": "Reggel dér csillog az Elm Hill középkori utcáin. Délben a katedrális csendes sarkaiban és a közeli kávézókban melegszünk fel. Délután a Forum fényei már a korai szürkületben hívogatóan világítanak. Este a Plantation Garden téli álmát és a friss levegőt élvezzük a korai sötétben.",
+            "ro": "Dimineața, chiciura strălucește pe străzile medievale din Elm Hill. La prânz ne încălzim în zonele catedralei sau în cafenelele din apropiere. După-amiaza, luminile Forumului strălucesc primitor în amurgul timpuriu. Seara ne bucurăm de aerul rece și de liniștea hibernală din Plantation Garden.",
+            "en": "Morning brings frost glistening on the medieval lanes of Elm Hill. At noon, we find warmth in the cathedral's quiet corners or nearby cafes. In the afternoon, the Forum's lights shine brightly in the early twilight. The evening ends with the crisp winter air and stillness of Plantation Garden."
+          },
+          "stops": [
+            {
+              "name": "Elm Hill",
+              "tip_5lang": {
+                "de": "Vorsicht bei Frost; das alte Pflaster kann sehr rutschig sein.",
+                "hu": "Vigyázz fagy esetén; a régi burkolat nagyon csúszós lehet.",
+                "ro": "Atenție la îngheț; pavajul vechi poate fi foarte alunecos.",
+                "en": "Careful in frosty conditions; the old paving can be very slippery."
+              }
+            },
+            {
+              "name": "Norwich Cathedral",
+              "tip_5lang": {
+                "de": "Drinnen kann es kühl sein, behalten Sie Ihren Mantel an.",
+                "hu": "Bent hűvös lehet, ne vedd le a kabátodat látogatás közben.",
+                "ro": "Poate fi răcoare în interior, păstrați haina pe dumneavoastră.",
+                "en": "It can be chilly inside; keep your coat on during the visit."
+              }
+            },
+            {
+              "name": "Strangers' Hall",
+              "tip_5lang": {
+                "de": "Die historischen Räume wirken im Winterlicht besonders gemütlich.",
+                "hu": "A történelmi szobák a téli fényben különösen hangulatosak.",
+                "ro": "Camerele istorice par deosebit de primitoare în lumina iernii.",
+                "en": "The historic rooms look especially cozy in the winter light."
+              }
+            },
+            {
+              "name": "The Forum",
+              "tip_5lang": {
+                "de": "Ein warmer Rückzugsort mit einer gemütlichen Bibliothek und Café.",
+                "hu": "Meleg menedékhely hangulatos könyvtárral és kávézóval.",
+                "ro": "Un refugiu cald, cu o bibliotecă și o cafenea primitoare.",
+                "en": "A warm retreat with a cozy library and cafe."
+              }
+            },
+            {
+              "name": "Norwich Castle",
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick über die frostige Stadt von oben.",
+                "hu": "Élvezd a fentről nyíló kilátást a deres, téli városra.",
+                "ro": "Bucurați-vă de priveliștea panoramică asupra orașului înghețat.",
+                "en": "Enjoy the panoramic view over the frosty city from the top."
+              }
+            },
+            {
+              "name": "Plantation Garden",
+              "tip_5lang": {
+                "de": "Der Garten schließt im Winter oft früher, prüfen Sie die Zeiten.",
+                "hu": "A kert télen gyakran korábban zár, ellenőrizd a nyitvatartást.",
+                "ro": "Grădina se închide adesea mai devreme iarna, verificați orarul.",
+                "en": "The garden often closes earlier in winter; check the times."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Winter bereits gegen 16:00 Uhr unter.",
+              "Tragen Sie mehrere Schichten Kleidung für den windigen Burgberg.",
+              "Warmer Apfelwein oder Tee ist in den Cafés von Elm Hill ein Muss.",
+              "Die Weihnachtsbeleuchtung in der Gentlemans Walk ist sehenswert."
+            ],
+            "hu": [
+              "A nap télen már délután 4 óra körül lemegy.",
+              "Öltözz rétegesen a szeles várdomb és a kertek miatt.",
+              "Egy forró tea vagy almabor kötelező az Elm Hill kávézóiban.",
+              "A Gentlemans Walk karácsonyi fényei nagyon hangulatosak."
+            ],
+            "ro": [
+              "Soarele apune deja în jurul orei 16:00 pe timpul iernii.",
+              "Îmbrăcați-vă în straturi pentru dealul castelului, unde bate vântul.",
+              "Un ceai cald sau cidru este obligatoriu în cafenelele din Elm Hill.",
+              "Luminile de Crăciun de pe Gentlemans Walk merită văzute."
+            ],
+            "en": [
+              "The sun sets as early as 4:00 PM during the winter months.",
+              "Dress in layers for the windy castle hill and open gardens.",
+              "Hot cider or tea is a must in the cozy cafes around Elm Hill.",
+              "The Christmas lights on Gentlemans Walk are well worth seeing."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -745,6 +927,206 @@
           "Always lock your bike securely. There are plenty of bike racks throughout the city.",
           "Some of the older streets are narrow, so cycle with care and be mindful of pedestrians."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens radeln wir vorsichtig zum Forum, um die erste Schauer abzuwarten. Mittags geht es weiter zur Kathedrale, wo die Fahrradständer oft belegt sind. Nachmittags erkunden wir Elm Hill schiebend, da das Pflaster bei Nässe tückisch ist. Abends beenden wir die Tour im Sainsbury Centre, einem sicheren Hafen im Regen.",
+            "hu": "Reggel óvatosan tekerünk a Forumhoz, kivárva az első záport. Délben a katedrális felé vesszük az irányt, ahol a biciklitárolók fedetlenek lehetnek. Délután az Elm Hillen inkább toljuk a gépet a csúszós kövek miatt. Este a Sainsbury Centre modern épülete nyújt száraz zárást a napnak.",
+            "ro": "Dimineața pedalăm cu atenție spre Forum pentru a aștepta trecerea ploii. La prânz continuăm spre catedrală, unde rastelele pot fi ocupate. După-amiaza explorăm Elm Hill pe lângă bicicletă din cauza pietrelor alunecoase. Seara încheiem la Sainsbury Centre, un refugiu sigur în ploaie.",
+            "en": "Morning involves a cautious ride to the Forum to wait out the first shower. At noon, we head to the cathedral, where bike racks can be busy. In the afternoon, we push our bikes through Elm Hill as the wet stones are tricky. The evening ends at the Sainsbury Centre, a dry haven in the rain."
+          },
+          "stops": [
+            {
+              "name": "The Forum",
+              "tip_5lang": {
+                "de": "Gute Fahrradständer direkt vor dem Haupteingang vorhanden.",
+                "hu": "Jó kerékpártárolók találhatók közvetlenül a főbejárat előtt.",
+                "ro": "Rastele bune de biciclete disponibile chiar în fața intrării.",
+                "en": "Good bike racks are available right in front of the entrance."
+              }
+            },
+            {
+              "name": "Norwich Castle",
+              "tip_5lang": {
+                "de": "Der Burgberg kann bei Regen rutschig sein, fahren Sie langsam.",
+                "hu": "A várdomb esőben csúszós lehet, tekerj lassan felfelé.",
+                "ro": "Dealul castelului poate fi alunecos pe ploaie, pedalați încet.",
+                "en": "The castle hill can be slippery in the rain; ride slowly."
+              }
+            },
+            {
+              "name": "Dragon Hall",
+              "tip_5lang": {
+                "de": "Schließen Sie Ihr Rad gut an, die Gegend ist belebt.",
+                "hu": "Zárd le alaposan a biciklit, a környék forgalmas.",
+                "ro": "Asigurați bine bicicleta, zona este destul de circulată.",
+                "en": "Lock your bike securely; the area is quite busy."
+              }
+            },
+            {
+              "name": "Norwich Cathedral",
+              "tip_5lang": {
+                "de": "Suchen Sie einen Platz nahe der Mauern für etwas Regenschutz.",
+                "hu": "Keress helyet a falak mellett egy kis esővédelemért.",
+                "ro": "Căutați un loc lângă ziduri pentru puțină protecție la ploaie.",
+                "en": "Look for a spot near the walls for some rain protection."
+              }
+            },
+            {
+              "name": "Elm Hill",
+              "tip_5lang": {
+                "de": "Am besten schieben, das nasse Kopfsteinpflaster ist gefährlich.",
+                "hu": "Inkább told a biciklit, a vizes macskakő életveszélyes.",
+                "ro": "Mai bine mergeți pe lângă, pavajul umed este periculos.",
+                "en": "Better to push your bike; wet cobblestones are dangerous."
+              }
+            },
+            {
+              "name": "Plantation Garden",
+              "tip_5lang": {
+                "de": "Kein Radfahren im Garten erlaubt, nutzen Sie die Ständer draußen.",
+                "hu": "A kertben tilos biciklizni, használd a kinti tárolókat.",
+                "ro": "Ciclismul interzis în grădină, folosiți rastelele de afară.",
+                "en": "No cycling inside the garden; use the racks outside."
+              }
+            },
+            {
+              "name": "Sainsbury Centre",
+              "tip_5lang": {
+                "de": "Überdachte Fahrradständer beim UEA-Campus in der Nähe.",
+                "hu": "Fedett biciklitárolók találhatók a közeli UEA kampuszon.",
+                "ro": "Rastele acoperite disponibile în apropiere, în campusul UEA.",
+                "en": "Covered bike racks available nearby at the UEA campus."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie markierte Linien auf der Straße, sie sind glatt.",
+              "Vollständige Schutzbleche sind bei diesem Wetter ein Segen.",
+              "Prüfen Sie Ihre Bremsbeläge vor der Fahrt durch die Hügel.",
+              "Wasserdichte Handschuhe halten Ihre Hände beweglich."
+            ],
+            "hu": [
+              "Kerüld a felfestett útburkolati jeleket, mert csúsznak.",
+              "A teljes sárvédő ebben az időben igazi áldás.",
+              "Ellenőrizd a fékbetéteket a dombos szakaszok előtt.",
+              "A vízálló kesztyű melegen és mozgékonyan tartja a kezed."
+            ],
+            "ro": [
+              "Evitați liniile marcate pe șosea, sunt foarte alunecoase.",
+              "Apărătorile de noroi complete sunt o binecuvântare pe această vreme.",
+              "Verificați saboții de frână înainte de a porni spre dealuri.",
+              "Mănușile impermeabile vă mențin mâinile mobile."
+            ],
+            "en": [
+              "Avoid riding on painted road markings; they get very slick.",
+              "Full mudguards are a blessing in this rainy weather.",
+              "Check your brake pads before heading through the hilly sections.",
+              "Waterproof gloves will keep your hands warm and responsive."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens startet die Tour am hell erleuchteten Forum. Mittags erklimmen wir den windigen Burgberg für ein wenig Wintersonne. Nachmittags geht es durch die frostigen Gassen zur Kathedrale. Abends radeln wir mit guter Beleuchtung durch den dunklen Park zum weit entfernten Sainsbury Centre.",
+            "hu": "Reggel a fényárban úszó Forumtól indulunk. Délben megmásszuk a szeles várdombot egy kis téli napsütésért. Délután a deres utcákon át tekerünk a katedrálishoz. Este erős lámpákkal felszerelve vágunk át a sötét parkon a távoli Sainsbury Centre felé.",
+            "ro": "Dimineața turul începe de la Forumul luminat puternic. La prânz urcăm dealul castelului pentru puțin soare de iarnă. După-amiaza mergem prin străzile înghețate spre catedrală. Seara pedalăm cu lumini bune prin parcul întunecat spre Sainsbury Centre.",
+            "en": "Morning starts the tour at the brightly lit Forum. At noon, we climb the windy castle hill for some winter sun. In the afternoon, we head through frosty lanes to the cathedral. In the evening, with good lights, we cycle through the dark park to the distant Sainsbury Centre."
+          },
+          "stops": [
+            {
+              "name": "The Forum",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Licht des Gebäudes zum Aufschließen Ihres Rades.",
+                "hu": "Használd az épület fényeit a bicikli lakatolásához.",
+                "ro": "Folosiți lumina clădirii pentru a vă descuia bicicleta.",
+                "en": "Use the building's lights to help with locking your bike."
+              }
+            },
+            {
+              "name": "Norwich Castle",
+              "tip_5lang": {
+                "de": "Achten Sie auf schwarzes Eis auf den Schattenseiten des Berges.",
+                "hu": "Vigyázz a fekete jéggel a várdomb árnyékos oldalain.",
+                "ro": "Atenție la polei pe părțile umbrite ale dealului.",
+                "en": "Watch out for black ice on the shaded sides of the hill."
+              }
+            },
+            {
+              "name": "Dragon Hall",
+              "tip_5lang": {
+                "de": "Kurzer Stopp, um die steifen Glieder wieder zu bewegen.",
+                "hu": "Rövid megálló, hogy átmozgasd átfagyott végtagjaidat.",
+                "ro": "Oprire scurtă pentru a vă dezmorți membrele înghețate.",
+                "en": "Short stop to get your stiff limbs moving again."
+              }
+            },
+            {
+              "name": "Norwich Cathedral",
+              "tip_5lang": {
+                "de": "Die Radwege hier sind oft geräumt, aber Vorsicht in Kurven.",
+                "hu": "A kerékpárutakat itt gyakran takarítják, de vigyázz a kanyarokban.",
+                "ro": "Pistele sunt adesea curățate aici, dar atenție în curbe.",
+                "en": "Cycle paths here are often cleared, but be careful in turns."
+              }
+            },
+            {
+              "name": "Elm Hill",
+              "tip_5lang": {
+                "de": "Extrem glatt bei Frost, schieben ist die sicherste Wahl.",
+                "hu": "Fagyban rendkívül csúszós, a tolás a legbiztonságosabb választás.",
+                "ro": "Extrem de alunecos pe ger, mersul pe lângă este cea mai sigură alegere.",
+                "en": "Extremely slick in frost; pushing is the safest choice."
+              }
+            },
+            {
+              "name": "Plantation Garden",
+              "tip_5lang": {
+                "de": "Der Boden ist hart gefroren, achten Sie auf Unebenheiten.",
+                "hu": "A talaj keményre fagyott, figyelj az egyenetlenségekre.",
+                "ro": "Solul este înghețat bocnă, atenție la denivelări.",
+                "en": "The ground is frozen hard; watch out for uneven spots."
+              }
+            },
+            {
+              "name": "Sainsbury Centre",
+              "tip_5lang": {
+                "de": "Der Weg über den Campus kann im Dunkeln unübersichtlich sein.",
+                "hu": "A kampuszon átvezető út a sötétben nehezen követhető lehet.",
+                "ro": "Drumul prin campus poate fi confuz pe întuneric.",
+                "en": "The path through the campus can be confusing in the dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Helle Lichter und Reflektoren sind ab 15:30 Uhr Pflicht.",
+              "Prüfen Sie den Reifendruck; etwas weniger Grip hilft bei Frost.",
+              "Thermoskanne mit Tee hält Sie auf der langen Fahrt zum UEA warm.",
+              "Vermeiden Sie Waldwege, wenn es geschneit hat oder gefriert."
+            ],
+            "hu": [
+              "Délután fél 4-től erős lámpák és fényvisszaverők kötelezőek.",
+              "Ellenőrizd a guminyomást; a kisebb nyomás több tapadást ad.",
+              "Egy termosz tea jól jön a hosszú úton az UEA felé.",
+              "Kerüld az erdei utakat, ha esett a hó vagy fagy."
+            ],
+            "ro": [
+              "Luminile puternice și reflectorizante sunt obligatorii după 15:30.",
+              "Verificați presiunea; o presiune mai mică ajută la aderență.",
+              "Un termos cu ceai vă va prinde bine pe drumul lung spre UEA.",
+              "Evitați potecile prin pădure dacă a nins sau îngheață."
+            ],
+            "en": [
+              "Bright lights and reflectors are mandatory from 3:30 PM onwards.",
+              "Check tire pressure; slightly lower pressure helps with grip on frost.",
+              "A thermos of tea keeps you warm on the long ride to UEA.",
+              "Avoid woodland paths if it has snowed or is freezing over."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1100,6 +1482,188 @@
           "Be aware of the one-way system in the city centre, it's best to use a sat-nav.",
           "Don't leave valuables on display in your car."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens parken wir im trockenen Rose Lane Parkhaus. Mittags fahren wir gemütlich durch den Regen zur Kathedrale und weiter nach Elm Hill. Nachmittags geht es zum Sainsbury Centre, wo wir direkt vor der Tür parken können. Abends endet die Fahrt am verregneten, aber beleuchteten Plantation Garden.",
+            "hu": "Reggel a Rose Lane fedett parkolóházában kezdünk. Délben kényelmesen autózunk az esőben a katedrálishoz, majd az Elm Hill felé. Délután a Sainsbury Centre-hez hajtunk, ahol közel tudunk megállni a bejárathoz. Este a Plantation Garden megvilágított bejáratánál zárjuk a kört.",
+            "ro": "Dimineața parcăm în parcarea acoperită Rose Lane. La prânz conducem relaxați prin ploaie spre catedrală și apoi spre Elm Hill. După-amiaza mergem la Sainsbury Centre, unde putem parca aproape de intrare. Seara încheiem la Plantation Garden, luminată frumos sub ploaie.",
+            "en": "Morning starts with parking in the dry Rose Lane multi-story. At noon, we drive comfortably through the rain to the cathedral and Elm Hill. In the afternoon, we head to the Sainsbury Centre, parking close to the entrance. The evening ends at the rain-soaked but lit Plantation Garden."
+          },
+          "stops": [
+            {
+              "name": "Rose Lane Car Park",
+              "tip_5lang": {
+                "de": "Modernes, überdachtes Parkhaus, ideal bei starkem Regen.",
+                "hu": "Modern, fedett parkolóház, ideális szakadó esőben.",
+                "ro": "Parcare modernă acoperită, ideală în caz de ploaie torențială.",
+                "en": "Modern, covered car park, ideal for heavy rain conditions."
+              }
+            },
+            {
+              "name": "Dragon Hall",
+              "tip_5lang": {
+                "de": "Parken Sie kurz am Straßenrand, wenn Plätze frei sind.",
+                "hu": "Parkolj rövid időre az út mentén, ha van szabad hely.",
+                "ro": "Parcați scurt pe marginea drumului dacă găsiți locuri libere.",
+                "en": "Park briefly at the roadside if spaces are available."
+              }
+            },
+            {
+              "name": "Norwich Cathedral",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkplätze in der Upper Close für kurzen Weg.",
+                "hu": "Használd az Upper Close parkolóit a rövid gyalogút érdekében.",
+                "ro": "Folosiți parcările din Upper Close pentru un drum scurt pe jos.",
+                "en": "Use the parking spaces in Upper Close for a short walk."
+              }
+            },
+            {
+              "name": "Elm Hill",
+              "tip_5lang": {
+                "de": "Parken in der St. Andrews Car Park ist am nächsten dran.",
+                "hu": "A St. Andrews parkolóház van a legközelebb az Elm Hillhez.",
+                "ro": "Parcarea St. Andrews este cea mai apropiată opțiune.",
+                "en": "St. Andrews multi-story car park is the closest option here."
+              }
+            },
+            {
+              "name": "Sainsbury Centre",
+              "tip_5lang": {
+                "de": "Großer Parkplatz vorhanden, oft direkt am Museumseingang.",
+                "hu": "Nagy parkoló áll rendelkezésre, gyakran közvetlenül a bejáratnál.",
+                "ro": "Parcare mare disponibilă, adesea chiar lângă intrare.",
+                "en": "Large car park available, often right by the museum entrance."
+              }
+            },
+            {
+              "name": "Plantation Garden",
+              "tip_5lang": {
+                "de": "Begrenzte Parkplätze an der Earlham Road, oft besetzt.",
+                "hu": "Korlátozott parkolóhelyek az Earlham Roadon, gyakran foglaltak.",
+                "ro": "Locuri de parcare limitate pe Earlham Road, adesea ocupate.",
+                "en": "Limited parking on Earlham Road; often full during peaks."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie das Stadtzentrum zu Stoßzeiten bei Regen.",
+              "Rose Lane ist das beste Parkhaus, um trocken ins Auto zu kommen.",
+              "Prüfen Sie Ihre Scheibenwischer vor der Abfahrt.",
+              "Sainsbury Centre ist ein großartiger Ort für Regentage."
+            ],
+            "hu": [
+              "Kerüld a belvárost csúcsidőben, különösen esőben.",
+              "A Rose Lane a legjobb hely, ha szárazon akarsz beszállni.",
+              "Ellenőrizd az ablaktörlőket az indulás előtt.",
+              "A Sainsbury Centre az egyik legjobb esőnapi úti cél."
+            ],
+            "ro": [
+              "Evitați centrul orașului la orele de vârf când plouă.",
+              "Rose Lane este cea mai bună opțiune pentru a rămâne uscat.",
+              "Verificați ștergătoarele înainte de a pleca la drum.",
+              "Sainsbury Centre este o destinație excelentă pentru zile ploioase."
+            ],
+            "en": [
+              "Avoid the city center during rush hours when it rains.",
+              "Rose Lane is the best car park to stay dry while entering the car.",
+              "Check your wipers before starting your city tour.",
+              "Sainsbury Centre is one of the best rainy-day destinations."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens starten wir mit eisfreien Scheiben am Rose Lane Parkhaus. Mittags fahren wir durch die winterlich geschmückte Stadt zur Kathedrale. Nachmittags geht es hinaus zum Sainsbury Centre, wo die Architektur im kalten Licht beeindruckt. Abends kehren wir zum festlich beleuchteten Plantation Garden zurück.",
+            "hu": "Reggel jégtelenített szélvédővel indulunk a Rose Lane parkolóból. Délben a téli díszbe öltözött városon át hajtunk a katedrálishoz. Délután a Sainsbury Centre felé tartunk, ahol az építészet lenyűgöző a hideg fényben. Este a Plantation Garden ünnepi fényeit csodáljuk meg.",
+            "ro": "Dimineața pornim cu parbrizul dezghețat din parcarea Rose Lane. La prânz conducem prin orașul decorat de iarnă spre catedrală. După-amiaza mergem la Sainsbury Centre, unde arhitectura impresionează în lumina rece. Seara revenim la Plantation Garden, iluminată festiv.",
+            "en": "Morning starts with de-iced windows at Rose Lane car park. At noon, we drive through the winter-decorated city to the cathedral. In the afternoon, we head out to the Sainsbury Centre, where the architecture impresses in the cold light. The evening ends at the festively lit Plantation Garden."
+          },
+          "stops": [
+            {
+              "name": "Rose Lane Car Park",
+              "tip_5lang": {
+                "de": "Das Parkhaus schützt das Auto vor Frost über Nacht.",
+                "hu": "A parkolóház megvédi az autót az éjszakai fagyoktól.",
+                "ro": "Parcarea protejează mașina de înghețul din timpul nopții.",
+                "en": "The car park protects the vehicle from overnight frost."
+              }
+            },
+            {
+              "name": "Dragon Hall",
+              "tip_5lang": {
+                "de": "Heizung anlassen, wenn Sie nur kurz aussteigen.",
+                "hu": "Hagyd menni a fűtést, ha csak rövid időre szállsz ki.",
+                "ro": "Lăsați căldura pornită dacă coborâți doar pentru scurt timp.",
+                "en": "Keep the heater on if you're only hopping out for a moment."
+              }
+            },
+            {
+              "name": "Norwich Cathedral",
+              "tip_5lang": {
+                "de": "Vorsicht beim Gehen vom Parkplatz zur Kathedrale (Eisgefahr).",
+                "hu": "Vigyázz, miközben a parkolótól a katedrálishoz sétálsz (jég).",
+                "ro": "Atenție la mersul de la parcare la catedrală (pericol de gheață).",
+                "en": "Careful walking from the car park to the cathedral (ice risk)."
+              }
+            },
+            {
+              "name": "Elm Hill",
+              "tip_5lang": {
+                "de": "Das Kopfsteinpflaster in der Nähe ist oft glatt gefroren.",
+                "hu": "A közeli macskakövek gyakran tükörsimára fagynak.",
+                "ro": "Pietrele cubice din apropiere sunt adesea înghețate.",
+                "en": "The nearby cobblestones are often frozen and slippery."
+              }
+            },
+            {
+              "name": "Sainsbury Centre",
+              "tip_5lang": {
+                "de": "Die Zufahrtsstraßen zum UEA-Campus werden meist gut gestreut.",
+                "hu": "Az UEA kampusza felé vezető utakat jól sózzák.",
+                "ro": "Drumurile spre campusul UEA sunt de obicei bine deszăpezite.",
+                "en": "Access roads to the UEA campus are usually well-gritted."
+              }
+            },
+            {
+              "name": "Plantation Garden",
+              "tip_5lang": {
+                "de": "Achten Sie auf die steile Einfahrt bei Frost.",
+                "hu": "Vigyázz a meredek behajtónál fagyos időben.",
+                "ro": "Atenție la intrarea în pantă în condiții de îngheț.",
+                "en": "Watch out for the steep entrance drive in frosty conditions."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Sitzheizung für die Fahrt zum UEA-Campus.",
+              "Prüfen Sie das Frostschutzmittel im Wischwasser.",
+              "Parkhäuser im Zentrum sparen Zeit beim Eiskratzen.",
+              "Die Parkplatzsuche ist im Winter oft entspannter als im Sommer."
+            ],
+            "hu": [
+              "Használd az ülésfűtést az UEA felé tartó hosszabb úton.",
+              "Ellenőrizd a fagyállót a szélvédőmosó folyadékban.",
+              "A belvárosi parkolóházakkal megspórolhatod a jégkaparást.",
+              "A parkolóhely-keresés télen gyakran könnyebb, mint nyáron."
+            ],
+            "ro": [
+              "Folosiți încălzirea în scaune pentru drumul spre campusul UEA.",
+              "Verificați antigelul din lichidul de parbriz.",
+              "Parcările acoperite din centru vă scutesc de răzuirea gheții.",
+              "Căutarea unui loc de parcare este mai relaxată iarna."
+            ],
+            "en": [
+              "Use the seat heaters for the longer drive to the UEA campus.",
+              "Check the antifreeze levels in your screenwash.",
+              "Central multi-story car parks save you time on de-icing.",
+              "Parking space hunting is often more relaxed in winter than summer."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1479,6 +2043,206 @@
           "Buses in Norwich are cashless or accept contactless payments.",
           "Peak travel times can cause delays, so allow a little extra time for your journeys."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens warten wir unter dem Dach am Castle Meadow. Mittags bringt uns der Bus schnell zur Kathedrale und Elm Hill, wo wir die Schauer in Cafés abwarten. Nachmittags fahren wir zum Sainsbury Centre, einem idealen Indoor-Ziel. Abends kehren wir mit dem Bus zum Stadtzentrum zurück, während es draußen weiter regnet.",
+            "hu": "Reggel a fedett Castle Meadow megállóban várunk. Délben a busz gyorsan elvisz a katedrálishoz és az Elm Hillhez, ahol kávézókban bújunk el az eső elől. Délután a Sainsbury Centre felé vesszük az irányt, ami tökéletes beltéri célpont. Este busszal térünk vissza a központba, miközben kint szakad.",
+            "ro": "Dimineața așteptăm sub acoperiș la Castle Meadow. La prânz autobuzul ne duce rapid la catedrală și Elm Hill, unde stăm la cafenele. După-amiaza mergem la Sainsbury Centre, o destinație ideală de interior. Seara revenim cu autobuzul în centru în timp ce afară continuă să plouă.",
+            "en": "Morning starts under the shelter at Castle Meadow. At noon, the bus whisk us to the cathedral and Elm Hill, where we dodge showers in cafes. In the afternoon, we head to the Sainsbury Centre, a perfect indoor destination. In the evening, we return to the center by bus while it continues to pour outside."
+          },
+          "stops": [
+            {
+              "name": "Castle Meadow Bus Stop",
+              "tip_5lang": {
+                "de": "Zentraler Knotenpunkt mit guten Wartehallen.",
+                "hu": "Központi csomópont jó várótermekkel és tetővel.",
+                "ro": "Nod central cu adăposturi bune în stații.",
+                "en": "Central hub with good shelters at most stops."
+              }
+            },
+            {
+              "name": "Norwich Castle",
+              "tip_5lang": {
+                "de": "Nur ein kurzer Fußweg von der Bushaltestelle zum Eingang.",
+                "hu": "Csak egy rövid séta a buszmegállótól a bejáratig.",
+                "ro": "Doar o scurtă plimbare de la stație până la intrare.",
+                "en": "Only a short walk from the bus stop to the entrance."
+              }
+            },
+            {
+              "name": "The Forum",
+              "tip_5lang": {
+                "de": "Viele Buslinien halten direkt vor oder hinter dem Gebäude.",
+                "hu": "Számos buszjárat áll meg közvetlenül az épület előtt vagy mögött.",
+                "ro": "Multe linii de autobuz opresc chiar în fața sau spatele clădirii.",
+                "en": "Many bus lines stop right in front of or behind the building."
+              }
+            },
+            {
+              "name": "Norwich Cathedral",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Haltestelle Tombland für den kürzesten Weg.",
+                "hu": "Használd a Tombland megállót a leggyorsabb bejutáshoz.",
+                "ro": "Folosiți stația Tombland pentru cel mai scurt drum pe jos.",
+                "en": "Use the Tombland stop for the shortest walk to the gates."
+              }
+            },
+            {
+              "name": "Elm Hill",
+              "tip_5lang": {
+                "de": "Von Tombland aus sind es nur 2 Minuten zu Fuß.",
+                "hu": "A Tombland megállótól mindössze 2 perc séta.",
+                "ro": "De la stația Tombland sunt doar 2 minute de mers pe jos.",
+                "en": "It is just a 2-minute walk from the Tombland bus stop."
+              }
+            },
+            {
+              "name": "Sainsbury Centre",
+              "tip_5lang": {
+                "de": "Die Busse der Linie 25/26 fahren alle 10-15 Minuten.",
+                "hu": "A 25/26-os buszok 10-15 percenként járnak.",
+                "ro": "Autobuzele 25/26 circulă la fiecare 10-15 minute.",
+                "en": "The 25/26 buses run frequently every 10-15 minutes."
+              }
+            },
+            {
+              "name": "Plantation Garden",
+              "tip_5lang": {
+                "de": "Haltestelle St. Stephens Road bietet guten Zugang.",
+                "hu": "A St. Stephens Road megálló jó hozzáférést biztosít.",
+                "ro": "Stația St. Stephens Road oferă acces facil.",
+                "en": "The St. Stephens Road stop provides good access nearby."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die First Bus App für Live-Abfahrtszeiten.",
+              "Castle Meadow ist der beste Ort zum Umsteigen im Trockenen.",
+              "Die Busse sind im Winter und bei Regen meist gut beheizt.",
+              "Sainsbury Centre ist mit dem Bus sehr bequem erreichbar."
+            ],
+            "hu": [
+              "Használd a First Bus alkalmazást az élő indulási időkhöz.",
+              "A Castle Meadow a legjobb hely a száraz átszálláshoz.",
+              "A buszok télen és esőben általában jól fűtöttek.",
+              "A Sainsbury Centre busszal nagyon kényelmesen elérhető."
+            ],
+            "ro": [
+              "Folosiți aplicația First Bus pentru orele de plecare în timp real.",
+              "Castle Meadow este cel mai bun loc pentru a schimba liniile la adăpost.",
+              "Autobuzele sunt de obicei bine încălzite iarna.",
+              "Sainsbury Centre este ușor accesibil cu autobuzul."
+            ],
+            "en": [
+              "Use the First Bus app for live departure times and delays.",
+              "Castle Meadow is the best spot for sheltered transfers.",
+              "Buses are generally well-heated during winter and rainy days.",
+              "The Sainsbury Centre is very conveniently reached by bus."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens steigen wir am frostigen Castle Meadow in den warmen Bus. Mittags erkunden wir die Kathedrale und nutzen die Busse, um die Zeit im Freien zu minimieren. Nachmittags fahren wir hinaus zum Sainsbury Centre, während die Sonne früh untergeht. Abends bringt uns der Transit sicher zurück in die hell beleuchtete Innenstadt.",
+            "hu": "Reggel a deres Castle Meadow-nál szállunk fel a fűtött buszra. Délben a katedrálist nézzük meg, és buszozunk, hogy minél kevesebbet legyünk a hidegben. Délután a Sainsbury Centre felé tartunk a korai naplementében. Este a tömegközlekedés biztonságosan visz vissza a kivilágított belvárosba.",
+            "ro": "Dimineața urcăm în autobuzul cald la stația înghețată Castle Meadow. La prânz explorăm catedrala și folosim autobuzul pentru a sta cât mai puțin în frig. După-amiaza mergem la Sainsbury Centre în timpul apusului timpuriu. Seara transportul ne duce înapoi în centrul luminat.",
+            "en": "Morning starts by boarding a warm bus at frosty Castle Meadow. At noon, we explore the cathedral and use buses to minimize time spent in the cold. In the afternoon, we head to the Sainsbury Centre as the sun sets early. In the evening, transit brings us safely back to the brightly lit city center."
+          },
+          "stops": [
+            {
+              "name": "Castle Meadow Bus Stop",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glätte an den Bordsteinen beim Einsteigen.",
+                "hu": "Vigyázz a jeges padkákra a buszra való felszálláskor.",
+                "ro": "Atenție la bordurile înghețate când urcați în autobuz.",
+                "en": "Watch out for icy curbs when boarding the bus."
+              }
+            },
+            {
+              "name": "Norwich Castle",
+              "tip_5lang": {
+                "de": "Vom Bus sind es nur wenige Schritte bis zum warmen Museum.",
+                "hu": "A busztól csak pár lépés a meleg múzeumépület.",
+                "ro": "De la autobuz sunt doar câțiva pași până la muzeul cald.",
+                "en": "From the bus, it's just a few steps to the warm museum building."
+              }
+            },
+            {
+              "name": "The Forum",
+              "tip_5lang": {
+                "de": "Das Forum dient als warmer Warteraum für viele Buslinien.",
+                "hu": "A Forum meleg váróteremként is szolgál sok buszjárat számára.",
+                "ro": "Forumul servește ca sală de așteptare caldă pentru multe linii.",
+                "en": "The Forum serves as a warm waiting room for many bus lines."
+              }
+            },
+            {
+              "name": "Norwich Cathedral",
+              "tip_5lang": {
+                "de": "Busse halten sehr nah am Eingangsbereich von Tombland.",
+                "hu": "A buszok nagyon közel állnak meg a Tombland bejáratához.",
+                "ro": "Autobuzele opresc foarte aproape de intrarea din Tombland.",
+                "en": "Buses stop very close to the Tombland entrance gates."
+              }
+            },
+            {
+              "name": "Elm Hill",
+              "tip_5lang": {
+                "de": "Gehen Sie vorsichtig über die gefrorenen Steine zur Haltestelle.",
+                "hu": "Sétálj óvatosan a fagyos köveken a megálló felé.",
+                "ro": "Mergeți cu atenție pe pietrele înghețate spre stație.",
+                "en": "Walk carefully over the frozen stones towards the bus stop."
+              }
+            },
+            {
+              "name": "Sainsbury Centre",
+              "tip_5lang": {
+                "de": "Der Bus hält direkt auf dem Campus, kurzer Weg ins Warme.",
+                "hu": "A busz közvetlenül a kampuszon áll meg, rövid út a melegbe.",
+                "ro": "Autobuzul oprește chiar în campus, drum scurt spre căldură.",
+                "en": "The bus stops right on campus; a short walk to the warmth."
+              }
+            },
+            {
+              "name": "Plantation Garden",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Rückfahrzeiten am Abend, sie sind seltener.",
+                "hu": "Ellenőrizd az esti visszautat, ilyenkor ritkábban járnak a buszok.",
+                "ro": "Verificați orele de retur seara, sunt mai rare.",
+                "en": "Check the return times in the evening; they are less frequent."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse sind im Winter oft die wärmste Art der Fortbewegung.",
+              "In der Dämmerung ist der Blick aus dem Oberdeck toll.",
+              "Halten Sie Kleingeld oder eine Kontaktlos-Karte bereit.",
+              "Die Haltestellen im Zentrum sind im Winter festlich beleuchtet."
+            ],
+            "hu": [
+              "A busz télen gyakran a legmelegebb közlekedési mód.",
+              "A szürkületben remek a kilátás az emeletes buszok tetejéről.",
+              "Készítsd elő az aprót vagy az érintős kártyádat a fizetéshez.",
+              "A belvárosi megállók télen ünnepi kivilágítást kapnak."
+            ],
+            "ro": [
+              "Autobuzul este adesea cel mai călduros mod de transport iarna.",
+              "La amurg, priveliștea de la etajul autobuzului este superbă.",
+              "Aveți pregătit restul sau un card contactless pentru plată.",
+              "Stațiile din centru sunt iluminate festiv pe timpul iernii."
+            ],
+            "en": [
+              "Buses are often the warmest way to get around in winter.",
+              "At twilight, the view from the top deck of the bus is great.",
+              "Have your change or contactless card ready for payment.",
+              "Central bus stops are often festively lit during winter."
+            ]
+          }
+        }
       }
     }
   }

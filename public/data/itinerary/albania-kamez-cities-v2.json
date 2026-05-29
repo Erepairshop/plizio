@@ -362,6 +362,188 @@
           "Start early to avoid the midday heat.",
           "Be aware of your surroundings in crowded areas."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgen: Start am Mutter-Teresa-Platz mit Schirm, dann Schutz in den Cafés am Boulevard. Mittag: Der Kulturpalast bietet ein trockenes Programm. Nachmittag: Kurzer Besuch der Moschee und zügiger Gang durch den Stadtpark auf befestigten Wegen. Abend: Gemütlicher Ausklang in einem Restaurant an der 'Blue' Straße, während es draußen prasselt.",
+            "hu": "Reggel: Kezdés a Teréz anya téren esernyővel, majd menekülés a sugárút fedett kávézóiba. Délben: A Kulturális Palota belső terei nyújtanak menedéket. Délután: Rövid látogatás a mecsetnél, majd gyors séta a park betonozott ösvényein. Este: Vacsora a 'Kék' sugárút egyik éttermében, élvezve a kopogó eső hangját.",
+            "ro": "Dimineața: Pornire din Piața Maica Tereza cu umbrelă, apoi refugiu în cafenelele de pe bulevard. La prânz: Palatul Culturii oferă un program cultural la adăpost. După-amiaza: Vizită scurtă la moschee și plimbare rapidă prin parc pe aleile pavate. Seara: Final de zi într-un restaurant de pe bulevardul 'Blue', ferit de ploaie.",
+            "en": "Morning: Start at Mother Teresa Square with an umbrella, then seek shelter in boulevard cafes. Noon: The Palace of Culture provides a dry cultural escape. Afternoon: A quick visit to the mosque followed by a brisk walk on the park's paved paths. Evening: Relax in a restaurant on the 'Blue' boulevard while listening to the rain outside."
+          },
+          "stops": [
+            {
+              "name": "Mother Teresa Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Vordächer der umliegenden Geschäfte als Regenschutz.",
+                "hu": "Használja a környező üzletek előtetőit eső elleni védelemként.",
+                "ro": "Folosiți copertinele magazinelor din jur pentru a vă adăposti de ploaie.",
+                "en": "Use the storefront awnings around the square for quick rain cover."
+              }
+            },
+            {
+              "name": "Boulevard 'Blue'",
+              "tip_5lang": {
+                "de": "Zahlreiche Passagen und Cafés laden hier zum trockenen Verweilen ein.",
+                "hu": "Számos passzázs és kávézó kínál itt száraz pihenőhelyet.",
+                "ro": "Numeroase pasaje și cafenele oferă aici un refugiu uscat.",
+                "en": "Numerous passages and cafes offer a dry spot to wait out showers."
+              }
+            },
+            {
+              "name": "Mother Teresa Statue",
+              "tip_5lang": {
+                "de": "Ein schnelles Foto zwischen den Regenschauern ist hier am besten.",
+                "hu": "A legjobb egy gyors fotót készíteni két zápor között.",
+                "ro": "Cel mai bine este să faceți o fotografie rapidă între reprizele de ploaie.",
+                "en": "Best to take a quick photo during a break in the rainfall."
+              }
+            },
+            {
+              "name": "Palace of Culture Kamëz",
+              "tip_5lang": {
+                "de": "Idealer Ort, um die Zeit bei Regen im Inneren zu verbringen.",
+                "hu": "Ideális helyszín, hogy az esős időt a falak között töltse el.",
+                "ro": "Locație ideală pentru a petrece timpul în interior pe durata ploii.",
+                "en": "Perfect indoor location to spend time while it is pouring outside."
+              }
+            },
+            {
+              "name": "Mosque of Kamëz",
+              "tip_5lang": {
+                "de": "Bitte Schirme im Eingangsbereich lassen; innen ist es warm und trocken.",
+                "hu": "Az esernyőket hagyja a bejáratnál; bent csend és szárazság várja.",
+                "ro": "Lăsați umbrelele la intrare; interiorul este liniștit și uscat.",
+                "en": "Leave umbrellas at the entrance; the interior is peaceful and dry."
+              }
+            },
+            {
+              "name": "Kamëz City Park",
+              "tip_5lang": {
+                "de": "Meiden Sie die Rasenflächen; die gepflasterten Wege sind rutschfest.",
+                "hu": "Kerülje a füves területeket; a kövezett utak kevésbé csúsznak.",
+                "ro": "Evitați zonele cu iarbă; aleile pavate sunt mai puțin alunecoase.",
+                "en": "Avoid grassy areas; stick to the paved paths which are less slippery."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Trekkingschirm ist bei Wind in Kamëz besser als ein leichter Knirps.",
+              "Die Cafés am Boulevard Blue sind der beste Rückzugsort bei plötzlichen Güssen.",
+              "Tragen Sie wasserfeste Schuhe, da sich in Straßensenken Pfützen bilden können.",
+              "Der Kulturpalast hat oft kurzfristige Indoor-Ausstellungen bei Schlechtwetter."
+            ],
+            "hu": [
+              "Egy stabil túraesernyő jobb választás Kamëz szeles utcáin, mint egy kisméretű.",
+              "A Kék sugárút kávézói a legjobb menedékek hirtelen felhőszakadás esetén.",
+              "Viseljen vízálló cipőt, mert az útpadkák mentén nagyobb tócsák alakulhatnak ki.",
+              "A Kulturális Palota gyakran kínál beltéri kiállításokat rossz idő esetén."
+            ],
+            "ro": [
+              "O umbrelă de trekking stabilă este mai bună pe străzile vântoase din Kamëz.",
+              "Cafenelele de pe bulevardul Blue sunt cel mai bun refugiu în caz de aversă.",
+              "Purtați încălțăminte impermeabilă, deoarece se pot forma bălți mari la marginea drumului.",
+              "Palatul Culturii oferă adesea expoziții interioare în caz de vreme rea."
+            ],
+            "en": [
+              "A sturdy trekking umbrella is better than a small one in Kamëz's windy streets.",
+              "The cafes on Blue Boulevard are the best shelters during sudden downpours.",
+              "Wear waterproof shoes as large puddles can form near the curbs.",
+              "The Palace of Culture often hosts indoor exhibitions during bad weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgen: Frischer Start am Platz, der Wind kann kühl wehen. Mittag: Aufwärmen bei einem starken albanischen Kaffee am Boulevard. Nachmittag: Der Besuch des Kulturpalastes ist angenehm beheizt. Abend: Da es früh dunkel wird, leuchtet die Weihnachtsbeleuchtung am Boulevard besonders stimmungsvoll für den Rückweg.",
+            "hu": "Reggel: Friss kezdés a téren, a szél hűvös lehet. Délben: Melegedjen fel egy erős albán kávéval a sugárúton. Délután: A Kulturális Palota látogatása kellemesen fűtött környezetben telik. Este: Mivel korán sötétedik, a sugárút fényei különleges hangulatot árasztanak a visszaúton.",
+            "ro": "Dimineața: Început răcoros în piață, vântul poate fi tăios. La prânz: Încălziți-vă cu o cafea albaneză tare pe bulevard. După-amiaza: Vizita la Palatul Culturii se desfășoară într-un mediu încălzit. Seara: Deoarece se întunecă devreme, luminile bulevardului creează o atmosferă festivă.",
+            "en": "Morning: A crisp start at the square, the wind can be quite chilly. Noon: Warm up with a strong Albanian coffee on the boulevard. Afternoon: Exploring the Palace of Culture is comfortable in the heated interior. Evening: As it gets dark early, the boulevard lights provide a festive atmosphere for your walk back."
+          },
+          "stops": [
+            {
+              "name": "Mother Teresa Square",
+              "tip_5lang": {
+                "de": "Ein heißer Tee am Morgen hilft gegen die winterliche Kälte.",
+                "hu": "Egy forró tea reggel segít a téli hideg ellen.",
+                "ro": "Un ceai fierbinte dimineața ajută împotriva frigului de iarnă.",
+                "en": "A hot tea in the morning helps against the winter chill."
+              }
+            },
+            {
+              "name": "Boulevard 'Blue'",
+              "tip_5lang": {
+                "de": "Genießen Sie das bunte Treiben und die festliche Beleuchtung.",
+                "hu": "Élvezze a pezsgő forgalmat és az ünnepi díszkivilágítást.",
+                "ro": "Bucurați-vă de agitația orașului și de iluminatul festiv.",
+                "en": "Enjoy the bustling atmosphere and the festive winter lights."
+              }
+            },
+            {
+              "name": "Mother Teresa Statue",
+              "tip_5lang": {
+                "de": "Die Wintersonne steht tief und bietet schönes Licht für Fotos.",
+                "hu": "A téli nap alacsonyan jár, szép fényeket ad a fotókhoz.",
+                "ro": "Soarele de iarnă este jos, oferind o lumină frumoasă pentru poze.",
+                "en": "The winter sun stays low, providing beautiful lighting for photos."
+              }
+            },
+            {
+              "name": "Palace of Culture Kamëz",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe, um schwere Mäntel für den Rundgang abzugeben.",
+                "hu": "Használja a ruhatárat a nehéz kabátok leadásához a körbejárás alatt.",
+                "ro": "Folosiți garderoba pentru a lăsa hainele groase în timpul vizitei.",
+                "en": "Use the cloakroom to drop off heavy coats during your indoor tour."
+              }
+            },
+            {
+              "name": "Mosque of Kamëz",
+              "tip_5lang": {
+                "de": "Dicke Socken sind ratsam, da man die Schuhe ausziehen muss.",
+                "hu": "Vastag zokni ajánlott, mivel a cipőt le kell venni a belépéshez.",
+                "ro": "Șosetele groase sunt recomandate, deoarece trebuie să vă descălțați.",
+                "en": "Thick socks are recommended as you must remove your shoes to enter."
+              }
+            },
+            {
+              "name": "Kamëz City Park",
+              "tip_5lang": {
+                "de": "Beenden Sie den Parkbesuch vor 16:30 Uhr, bevor es dunkel wird.",
+                "hu": "Fejezze be a parklátogatást 16:30 előtt, mielőtt besötétedik.",
+                "ro": "Încheiați vizita în parc înainte de ora 16:30, înainte de lăsarea serii.",
+                "en": "Finish your park visit before 4:30 PM before it gets dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht in Kamëz im Winter bereits gegen 16:45 Uhr unter.",
+              "Tragen Sie Schichten (Zwiebelprinzip), da Cafés oft stark beheizt sind.",
+              "Warme Getränke wie 'Salep' sind im Winter an Straßenständen beliebt.",
+              "Handschuhe und Mütze sind wegen des Windes vom Dajti-Berg wichtig."
+            ],
+            "hu": [
+              "A nap Kamëzban télen már 16:45 körül lemegy.",
+              "Öltözködjön rétegesen, mert a kávézók gyakran erősen fűtöttek.",
+              "A forró 'Salep' népszerű téli ital az utcai árusoknál.",
+              "A Dajti-hegy felől fújó szél miatt a kesztyű és sapka elengedhetetlen."
+            ],
+            "ro": [
+              "Soarele apune în Kamëz iarna în jurul orei 16:45.",
+              "Îmbrăcați-vă în straturi, deoarece cafenelele sunt adesea supraîncălzite.",
+              "Băuturile calde precum 'Salep' sunt populare la vânzătorii stradali.",
+              "Mănușile și căciula sunt importante din cauza vântului de pe muntele Dajti."
+            ],
+            "en": [
+              "The sun sets in Kamëz around 4:45 PM in winter.",
+              "Dress in layers as cafes are often heavily heated inside.",
+              "Hot drinks like 'Salep' are popular winter treats at street stalls.",
+              "Gloves and a hat are essential due to the wind from Mount Dajti."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -742,6 +924,206 @@
           "Bring a map or GPS device.",
           "Plan for breaks to rest and hydrate."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgen: Vorsichtige Fahrt durch die Stadt, achten Sie auf rutschige Markierungen. Mittag: Pause im Kulturpalast, während das Rad sicher abgestellt ist. Nachmittag: Schnelle Fahrt zum Paskuqan-See, die Wege können matschig sein. Abend: Abschluss an der Moschee, bevor es zurück zum Startpunkt geht.",
+            "hu": "Reggel: Óvatos tekerés a városban, figyeljen a csúszós útburkolati jelekre. Délben: Pihenő a Kulturális Palotánál, amíg a bicikli biztonságban pihen. Délután: Gyors menet a Paskuqan-tóhoz, az utak sárosak lehetnek. Este: Zárás a mecsetnél, mielőtt visszatérne a kiindulópontra.",
+            "ro": "Dimineața: Mers prudent cu bicicleta prin oraș, atenție la marcajele alunecoase. La prânz: Pauză la Palatul Culturii, în timp ce bicicleta este parcată în siguranță. După-amiaza: Tur rapid spre lacul Paskuqan, potecile pot fi noroioase. Seara: Final la moschee înainte de întoarcerea la start.",
+            "en": "Morning: Cautious ride through the city, watch out for slippery road markings. Noon: Break at the Palace of Culture while the bike is safely parked. Afternoon: Quick dash to Paskuqan Lake, though paths might be muddy. Evening: Wrap up at the Mosque before heading back to the starting point."
+          },
+          "stops": [
+            {
+              "name": "Mother Teresa Square",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen; das Pflaster wird bei Nässe sehr glatt.",
+                "hu": "Ellenőrizze a fékeit; a burkolat nagyon csúszóssá válik esőben.",
+                "ro": "Verificați frânele; pavajul devine foarte alunecos pe ploaie.",
+                "en": "Check your brakes; the pavement becomes very slick when wet."
+              }
+            },
+            {
+              "name": "Boulevard 'Blue'",
+              "tip_5lang": {
+                "de": "Fahren Sie defensiv; Autos spritzen in den Kurven oft Wasser auf.",
+                "hu": "Tekerjen óvatosan; az autók gyakran felcsapják a vizet a kanyarokban.",
+                "ro": "Conduceți defensiv; mașinile stropesc adesea cu apă în curbe.",
+                "en": "Ride defensively; cars often splash water when taking turns."
+              }
+            },
+            {
+              "name": "Palace of Culture Kamëz",
+              "tip_5lang": {
+                "de": "Suchen Sie einen überdachten Fahrradständer in der Nähe.",
+                "hu": "Keressen fedett biciklitárolót a közelben.",
+                "ro": "Căutați un suport de biciclete acoperit în apropiere.",
+                "en": "Look for a covered bike rack nearby to keep your seat dry."
+              }
+            },
+            {
+              "name": "Park of the Agricultural University",
+              "tip_5lang": {
+                "de": "Die Erdwege können weich sein; bleiben Sie auf den Hauptrouten.",
+                "hu": "A földutak felázhatnak; maradjon a fő útvonalakon.",
+                "ro": "Drumurile de pământ pot fi moi; rămâneți pe rutele principale.",
+                "en": "Dirt paths can be soft; stick to the main paved routes."
+              }
+            },
+            {
+              "name": "Kamëz City Park",
+              "tip_5lang": {
+                "de": "Vorsicht bei Laub auf den Wegen, Sturzgefahr!",
+                "hu": "Vigyázat az avaron az utakon, esésveszély!",
+                "ro": "Atenție la frunzele de pe poteci, risc de cădere!",
+                "en": "Watch out for wet leaves on the paths; high slip risk!"
+              }
+            },
+            {
+              "name": "Paskuqan Lake",
+              "tip_5lang": {
+                "de": "Der Uferweg ist windig und nass; tragen Sie eine Regenjacke.",
+                "hu": "A tóparti út szeles és vizes; viseljen esőkabátot.",
+                "ro": "Drumul de pe malul lacului este vântos și ud; purtați pelerină.",
+                "en": "The lakeside path is windy and wet; wear a waterproof jacket."
+              }
+            },
+            {
+              "name": "Mosque of Kamëz",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad unter den Arkaden ab, falls möglich.",
+                "hu": "Ha lehetséges, állítsa a biciklit az árkádok alá.",
+                "ro": "Dacă este posibil, lăsați bicicleta sub arcade.",
+                "en": "If possible, park your bike under the archways to stay dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie Schutzbleche, um sich vor Spritzwasser zu schützen.",
+              "Die Sichtbarkeit ist bei Regen gering; schalten Sie das Licht ein.",
+              "Wischen Sie den Sattel mit einem Tuch trocken, bevor Sie aufsteigen.",
+              "Reduzieren Sie den Reifendruck minimal für besseren Grip auf nassem Asphalt."
+            ],
+            "hu": [
+              "Használjon sárvédőt a felcsapódó víz ellen.",
+              "Esőben rosszabb a láthatóság; kapcsolja be a világítást.",
+              "Törölje szárazra a nyerget egy ronggyal felszállás előtt.",
+              "Csökkentse minimálisan a guminyomást a jobb tapadásért a vizes aszfalton."
+            ],
+            "ro": [
+              "Folosiți apărători pentru a vă proteja de apă.",
+              "Vizibilitatea este redusă pe ploaie; aprindeți luminile.",
+              "Ștergeți șaua cu o cârpă înainte de a vă urca pe bicicletă.",
+              "Reduceți minim presiunea în anvelope pentru aderență pe asfalt ud."
+            ],
+            "en": [
+              "Use mudguards to protect yourself from road spray.",
+              "Visibility is low in the rain; turn on your lights.",
+              "Wipe your saddle dry with a cloth before mounting.",
+              "Slightly reduce tire pressure for better grip on wet asphalt."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgen: Kalte Brise bei der Fahrt zum Boulevard. Mittag: Der Kulturpalast bietet eine willkommene Aufwärmpause. Nachmittag: Fahrt zur Universität und zum Paskuqan-See; die Luft ist klar, aber beißend kalt. Abend: Rückkehr in die Stadt bei Dämmerung, achten Sie auf funktionierende Lichter.",
+            "hu": "Reggel: Hideg szél tekerés közben a sugárút felé. Délben: A Kulturális Palota várva várt melegedőhelyet kínál. Délután: Menet az egyetemhez és a tóhoz; a levegő tiszta, de metszően hideg. Este: Visszatérés a városba alkonyatkor, ügyeljen a működő lámpákra.",
+            "ro": "Dimineața: Adiere rece în timpul cursei spre bulevard. La prânz: Palatul Culturii oferă o pauză de încălzire binevenită. După-amiaza: Tur spre universitate și lac; aerul este curat, dar tăios de rece. Seara: Întoarcere în oraș la amurg, asigurați-vă că luminile funcționează.",
+            "en": "Morning: A cold breeze as you ride towards the boulevard. Noon: The Palace of Culture provides a welcome warm-up break. Afternoon: Heading to the university and the lake; the air is clear but bitingly cold. Evening: Return to the city at dusk, make sure your lights are working properly."
+          },
+          "stops": [
+            {
+              "name": "Mother Teresa Square",
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Handschuhe, um steife Finger zu vermeiden.",
+                "hu": "Viseljen szélálló kesztyűt az ujjai elgémberedése ellen.",
+                "ro": "Purtați mănuși rezistente la vânt pentru a evita degetele amorțite.",
+                "en": "Wear windproof gloves to avoid stiff fingers from the cold."
+              }
+            },
+            {
+              "name": "Boulevard 'Blue'",
+              "tip_5lang": {
+                "de": "Achten Sie auf Fußgänger, die wegen der Kälte oft unachtsam queren.",
+                "hu": "Figyeljen a gyalogosokra, akik a hideg miatt gyakran sietősen kelnek át.",
+                "ro": "Atenție la pietoni, care traversează adesea grăbiți din cauza frigului.",
+                "en": "Watch for pedestrians crossing quickly to escape the cold."
+              }
+            },
+            {
+              "name": "Palace of Culture Kamëz",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp im Foyer taut die Hände wieder auf.",
+                "hu": "Egy rövid megálló az előtérben felolvasztja a kezeket.",
+                "ro": "O scurtă oprire în foier vă va dezgheța mâinile.",
+                "en": "A brief stop in the foyer will help thaw out your hands."
+              }
+            },
+            {
+              "name": "Park of the Agricultural University",
+              "tip_5lang": {
+                "de": "Bei Bodenfrost können die Schattenbereiche tückisch glatt sein.",
+                "hu": "Talajmenti fagy esetén az árnyékos részek csalókán csúszhatnak.",
+                "ro": "În caz de îngheț, zonele umbrite pot fi înșelător de alunecoase.",
+                "en": "With ground frost, shaded areas can be treacherously slippery."
+              }
+            },
+            {
+              "name": "Kamëz City Park",
+              "tip_5lang": {
+                "de": "Die Winterdämmerung im Park beginnt hier bereits sehr früh.",
+                "hu": "A téli szürkület a parkban itt már nagyon korán elkezdődik.",
+                "ro": "Amurgul de iarnă în parc începe aici foarte devreme.",
+                "en": "Winter twilight starts very early here in the park."
+              }
+            },
+            {
+              "name": "Paskuqan Lake",
+              "tip_5lang": {
+                "de": "Der Wind am See ist im Winter besonders schneidend.",
+                "hu": "A tóparti szél télen különösen metsző.",
+                "ro": "Vântul de pe malul lacului este extrem de tăios iarna.",
+                "en": "The lakeside wind is especially cutting during winter."
+              }
+            },
+            {
+              "name": "Mosque of Kamëz",
+              "tip_5lang": {
+                "de": "Die Außenanlagen sind bei Frost oft geräumt, aber Vorsicht.",
+                "hu": "A kültéri részeket fagy esetén gyakran takarítják, de vigyázzon.",
+                "ro": "Zonele exterioare sunt adesea curățate în caz de îngheț, dar fiți atenți.",
+                "en": "Exterior areas are often cleared of frost, but still be careful."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Batterien; Kälte entlädt Fahrradlichter schneller.",
+              "Tragen Sie eine Sturmhaube unter dem Helm gegen den Fahrtwind.",
+              "Vermeiden Sie hektische Lenkbewegungen auf möglicherweise gefrorenem Asphalt.",
+              "Eine isolierte Trinkflasche hält Ihren Tee länger warm."
+            ],
+            "hu": [
+              "Ellenőrizze az elemeket; a hideg gyorsabban meríti a lámpákat.",
+              "Viseljen maszkot a sisak alatt a menetszél ellen.",
+              "Kerülje a hirtelen kormánymozdulatokat a jeges aszfalton.",
+              "Egy szigetelt kulacs tovább tartja melegen a teáját."
+            ],
+            "ro": [
+              "Verificați bateriile; frigul descarcă mai repede luminile bicicletei.",
+              "Purtați o cagulă sub cască împotriva curentului de aer.",
+              "Evitați mișcările bruște de ghidon pe asfaltul posibil înghețat.",
+              "O sticlă izolată vă va păstra ceaiul cald mai mult timp."
+            ],
+            "en": [
+              "Check your batteries; cold temperatures drain bike lights faster.",
+              "Wear a balaclava under your helmet against the headwind.",
+              "Avoid sudden steering movements on potentially frozen asphalt.",
+              "An insulated water bottle will keep your tea warm for longer."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1122,6 +1504,206 @@
           "Have small change ready for parking fees.",
           "Plan for extra time for traffic during peak hours."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgen: Bequeme Fahrt zum Paskuqan-See, genießen Sie den Blick aus dem trockenen Auto. Mittag: Parken nahe der Universität und kurzer Gang zum Park. Nachmittag: Stadtzentrum und Kulturpalast; Parkhäuser nutzen. Abend: Fahrt über den beleuchteten Boulevard Blue zurück.",
+            "hu": "Reggel: Kényelmes gurulás a Paskuqan-tóhoz, élvezze a kilátást a száraz autóból. Délben: Parkolás az egyetem közelében, rövid séta a parkig. Délután: Városközpont és Kulturális Palota; használja a parkolókat. Este: Autózás a kivilágított Kék sugárúton keresztül vissza.",
+            "ro": "Dimineața: Drum confortabil spre lacul Paskuqan, admirați peisajul din mașină. La prânz: Parcare lângă universitate și scurtă plimbare până în parc. După-amiaza: Centrul orașului și Palatul Culturii; folosiți parcările. Seara: Plimbare cu mașina pe bulevardul Blue iluminat spre destinație.",
+            "en": "Morning: Comfortable drive to Paskuqan Lake, enjoy the view from your dry car. Noon: Park near the university and take a short walk to the park. Afternoon: City center and Palace of Culture; use designated parking areas. Evening: Drive back through the brightly lit Blue Boulevard."
+          },
+          "stops": [
+            {
+              "name": "Paskuqan Lake",
+              "tip_5lang": {
+                "de": "Parken Sie auf befestigtem Grund, um nicht im Schlamm zu stecken.",
+                "hu": "Szilárd talajon parkoljon, hogy ne akadjon el a sárban.",
+                "ro": "Parcați pe teren solid pentru a nu rămâne blocat în noroi.",
+                "en": "Park on paved ground to avoid getting stuck in the mud."
+              }
+            },
+            {
+              "name": "Park of the Agricultural University",
+              "tip_5lang": {
+                "de": "Die Zufahrtsstraßen können bei Starkregen überflutet sein.",
+                "hu": "A bekötőutak heves esőzéskor víz alá kerülhetnek.",
+                "ro": "Drumurile de acces pot fi inundate în caz de ploaie torențială.",
+                "en": "Access roads can become flooded during heavy rainfall."
+              }
+            },
+            {
+              "name": "Kamëz City Park",
+              "tip_5lang": {
+                "de": "Halten Sie an den Haupteingängen, um Laufwege im Regen zu kürzen.",
+                "hu": "Álljon meg a főbejáratoknál, hogy lerövidítse a sétát az esőben.",
+                "ro": "Opriți la intrările principale pentru a scurta mersul prin ploaie.",
+                "en": "Stop at the main entrances to shorten the walk in the rain."
+              }
+            },
+            {
+              "name": "Mother Teresa Square",
+              "tip_5lang": {
+                "de": "Parkplätze sind am Platz bei Regen oft heiß begehrt.",
+                "hu": "A téren a parkolóhelyek esőben nagyon keresettek.",
+                "ro": "Locurile de parcare din piață sunt foarte căutate pe timp de ploaie.",
+                "en": "Parking spaces at the square are in high demand during rain."
+              }
+            },
+            {
+              "name": "Palace of Culture Kamëz",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz direkt vor dem Gebäude.",
+                "hu": "Használja közvetlenül az épület előtti parkolót.",
+                "ro": "Folosiți parcarea direct din fața clădirii.",
+                "en": "Use the parking lot located directly in front of the building."
+              }
+            },
+            {
+              "name": "Mosque of Kamëz",
+              "tip_5lang": {
+                "de": "Achten Sie beim Aussteigen auf tiefe Pfützen am Straßenrand.",
+                "hu": "Kiszálláskor ügyeljen a mély tócsákra az út szélén.",
+                "ro": "Atenție la bălțile adânci de la marginea drumului când coborâți.",
+                "en": "Watch out for deep puddles at the curb when getting out."
+              }
+            },
+            {
+              "name": "Boulevard 'Blue'",
+              "tip_5lang": {
+                "de": "Langsames Fahren bei Aquaplaning-Gefahr auf dem Boulevard.",
+                "hu": "Lassú haladás ajánlott a sugárúton az aquaplaning veszélye miatt.",
+                "ro": "Se recomandă rularea cu viteză redusă din cauza riscului de acvaplanare.",
+                "en": "Slow speed is recommended on the boulevard due to hydroplaning risk."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Scheibenwischer vor der Fahrt.",
+              "Die Kanalisation kann bei Sturzfluten in Kamëz überfordert sein.",
+              "Halten Sie Abstand zu Bussen, die große Mengen Wasser aufwirbeln.",
+              "Nutzen Sie die Klimaanlage gegen beschlagene Scheiben."
+            ],
+            "hu": [
+              "Ellenőrizze az ablaktörlőket indulás előtt.",
+              "A csatornázás Kamëzban hirtelen áradáskor túlterhelt lehet.",
+              "Tartson távolságot a buszoktól, amelyek sok vizet verhetnek fel.",
+              "Használja a légkondicionálót a szélvédő párátlanításához."
+            ],
+            "ro": [
+              "Verificați ștergătoarele înainte de a porni la drum.",
+              "Canalizarea din Kamëz poate fi depășită în caz de viituri.",
+              "Păstrați distanța față de autobuze, care pot ridica multă apă.",
+              "Folosiți aerul condiționat pentru a dezaburi geamurile."
+            ],
+            "en": [
+              "Check your windshield wipers before starting the trip.",
+              "Drainage systems in Kamëz can overflow during flash floods.",
+              "Keep distance from buses that splash large amounts of water.",
+              "Use the air conditioning to keep the windows from fogging up."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgen: Fahrt zum Paskuqan-See, die Heizung sorgt für Komfort. Mittag: Kurzer Stopp an der Universität, die Winterlandschaft ist karg, aber weitläufig. Nachmittag: Besuch des Kulturpalastes und der Moschee im warmen Stadtzentrum. Abend: Fahrt über den festlich beleuchteten Boulevard Blue.",
+            "hu": "Reggel: Autózás a Paskuqan-tóhoz, a fűtés biztosítja a kényelmet. Délben: Rövid megálló az egyetemen, a téli táj kopár, de tágas. Délután: A Kulturális Palota és a mecset meglátogatása a meleg városközpontban. Este: Gurulás az ünnepi díszben úszó Kék sugárúton.",
+            "ro": "Dimineața: Drum spre lacul Paskuqan, încălzirea asigură confortul. La prânz: Scurtă oprire la universitate, peisajul de iarnă este auster, dar vast. După-amiaza: Vizitarea Palatului Culturii și a moscheii în centrul cald. Seara: Mers cu mașina pe bulevardul Blue decorat festiv.",
+            "en": "Morning: Driving to Paskuqan Lake, the car heater ensures your comfort. Noon: A short stop at the university, the winter landscape is sparse but vast. Afternoon: Visiting the Palace of Culture and the Mosque in the warm city center. Evening: Cruising through the festively decorated Blue Boulevard."
+          },
+          "stops": [
+            {
+              "name": "Paskuqan Lake",
+              "tip_5lang": {
+                "de": "Die Straße zum See kann morgens leicht überfroren sein.",
+                "hu": "A tóhoz vezető út reggelente enyhén jeges lehet.",
+                "ro": "Drumul spre lac poate fi ușor înghețat dimineața.",
+                "en": "The road to the lake can be slightly icy in the early morning."
+              }
+            },
+            {
+              "name": "Park of the Agricultural University",
+              "tip_5lang": {
+                "de": "Die Parkplätze sind im Winter meist leerer als im Sommer.",
+                "hu": "A parkolók télen általában üresebbek, mint nyáron.",
+                "ro": "Parcările sunt de obicei mai libere iarna decât vara.",
+                "en": "Parking lots are usually emptier in winter than in summer."
+              }
+            },
+            {
+              "name": "Kamëz City Park",
+              "tip_5lang": {
+                "de": "Parken Sie windgeschützt hinter Gebäuden, falls möglich.",
+                "hu": "Ha lehetséges, parkoljon szélvédett helyen az épületek mögött.",
+                "ro": "Dacă este posibil, parcați într-un loc ferit de vânt în spatele clădirilor.",
+                "en": "Park in wind-sheltered spots behind buildings if possible."
+              }
+            },
+            {
+              "name": "Mother Teresa Square",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glätte beim Ein- und Aussteigen am Bordstein.",
+                "hu": "Ügyeljen a csúszós felületre a padkánál ki- és beszálláskor.",
+                "ro": "Atenție la polei pe bordură când urcați sau coborâți din mașină.",
+                "en": "Watch for ice on the curb when getting in or out of the car."
+              }
+            },
+            {
+              "name": "Palace of Culture Kamëz",
+              "tip_5lang": {
+                "de": "Die Parkplatzmarkierungen können durch Frost schlecht sichtbar sein.",
+                "hu": "A parkolóhelyek felfestése a fagy miatt rosszul látszódhat.",
+                "ro": "Marcajele parcării pot fi greu vizibile din cauza brumei.",
+                "en": "Parking lines might be hard to see due to frost or ice."
+              }
+            },
+            {
+              "name": "Mosque of Kamëz",
+              "tip_5lang": {
+                "de": "Der Motor kühlt im Stand schnell aus; Heizung kurz nachlaufen lassen.",
+                "hu": "A motor álló helyzetben hamar lehűl; hagyja a fűtést kicsit járni.",
+                "ro": "Motorul se răcește repede la staționare; lăsați căldura să mai meargă.",
+                "en": "The engine cools quickly when parked; keep the heater on for a bit."
+              }
+            },
+            {
+              "name": "Boulevard 'Blue'",
+              "tip_5lang": {
+                "de": "Vorsicht vor Blitzeis auf den schattigen Abschnitten des Boulevards.",
+                "hu": "Vigyázzon a fekete jégre a sugárút árnyékos szakaszain.",
+                "ro": "Atenție la polei pe porțiunile umbrite ale bulevardului.",
+                "en": "Beware of black ice on the shaded sections of the boulevard."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Frostschutzmittel im Scheibenwasser ist auch in Albanien nötig.",
+              "Batterien schwächeln bei Kälte; Kurzstreckenfahrten vermeiden.",
+              "Ein Eiskratzer im Handschuhfach schadet im albanischen Winter nicht.",
+              "Warme Decken im Kofferraum für Notfälle bei Überlandfahrten."
+            ],
+            "hu": [
+              "A szélvédőmosó fagyállója Albániában is szükséges.",
+              "Az akkumulátorok gyengülnek a hidegben; kerülje a rövid utakat.",
+              "Egy jégkaparó a kesztyűtartóban jól jöhet az albán télen is.",
+              "Tartsunk meleg takarót a csomagtartóban vészhelyzet esetére."
+            ],
+            "ro": [
+              "Antigelul în lichidul de parbriz este necesar și în Albania.",
+              "Bateriile slăbesc la frig; evitați călătoriile foarte scurte.",
+              "O răzuitoare de gheață în torpedou este utilă și în iarna albaneză.",
+              "Păstrați pături calde în portbagaj pentru situații de urgență."
+            ],
+            "en": [
+              "Anti-freeze in the wiper fluid is necessary even in Albania.",
+              "Batteries weaken in the cold; avoid frequent short trips.",
+              "An ice scraper in the glove box is useful in the Albanian winter.",
+              "Keep warm blankets in the trunk for emergencies during long drives."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1482,6 +2064,188 @@
           "Be attentive at stops so you don't miss yours.",
           "Validate your ticket when you board."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgen: Fahrt zum Mutter-Teresa-Platz, Busstationen als Unterstand nutzen. Mittag: Transit zum Kulturpalast; kurze Wege zwischen Haltestelle und Eingang. Nachmittag: Besuch der Parks; bei Regen sind die Busse oft voll. Abend: Rückkehr zum Boulevard Blue, wo die Cafés hell erleuchtet sind.",
+            "hu": "Reggel: Utazás a Teréz anya térre, használja a buszmegállókat esőbeállóként. Délben: Átszállás a Kulturális Palotához; rövid séta a megálló és a bejárat között. Délután: Parklátogatások; esőben a buszok gyakran zsúfoltak. Este: Visszatérés a Kék sugárúthoz, ahol a kávézók fényesen világítanak.",
+            "ro": "Dimineața: Călătorie spre Piața Maica Tereza, folosiți stațiile de autobuz ca adăpost. La prânz: Tranzit spre Palatul Culturii; distanțe scurte între stație și intrare. După-amazia: Vizitarea parcurilor; pe ploaie autobuzele sunt adesea pline. Seara: Întoarcere la bulevardul Blue, unde cafenelele sunt luminate.",
+            "en": "Morning: Travel to Mother Teresa Square, use bus shelters to stay dry. Noon: Transit to the Palace of Culture; short walks between the stop and entrance. Afternoon: Park visits; buses are often crowded during rain. Evening: Return to Blue Boulevard, where the cafes are brightly lit and welcoming."
+          },
+          "stops": [
+            {
+              "name": "Mother Teresa Square",
+              "tip_5lang": {
+                "de": "Stellen Sie sich unter das Dach der Bushaltestelle.",
+                "hu": "Álljon a buszmegálló teteje alá.",
+                "ro": "Stați sub acoperișul stației de autobuz.",
+                "en": "Stand under the bus stop shelter to stay dry."
+              }
+            },
+            {
+              "name": "Palace of Culture Kamëz",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist fast direkt vor der Tür; kaum Regenexposition.",
+                "hu": "A megálló szinte közvetlenül az ajtó előtt van; alig kell ázni.",
+                "ro": "Stația este aproape în fața ușii; expunere minimă la ploaie.",
+                "en": "The stop is almost right in front of the door; minimal rain exposure."
+              }
+            },
+            {
+              "name": "Mosque of Kamëz",
+              "tip_5lang": {
+                "de": "Rechnen Sie mit Matsch beim Ein- und Aussteigen.",
+                "hu": "Számoljon a sárral le- és felszálláskor.",
+                "ro": "Așteptați-vă la noroi la urcare și coborâre.",
+                "en": "Expect some mud when getting on or off the bus."
+              }
+            },
+            {
+              "name": "Park of the Agricultural University",
+              "tip_5lang": {
+                "de": "Warten Sie in der Uni-Lobby auf den nächsten Bus.",
+                "hu": "Várjon az egyetem előcsarnokában a következő buszra.",
+                "ro": "Așteptați în holul universității următorul autobuz.",
+                "en": "Wait in the university lobby for the next bus to arrive."
+              }
+            },
+            {
+              "name": "Kamëz City Park",
+              "tip_5lang": {
+                "de": "Nutzen Sie die App, um die Wartezeit im Regen zu minimieren.",
+                "hu": "Használja az alkalmazást, hogy minimálisat kelljen várni az esőben.",
+                "ro": "Folosiți aplicația pentru a minimiza timpul de așteptare în ploaie.",
+                "en": "Use the transit app to minimize waiting time in the rain."
+              }
+            },
+            {
+              "name": "Boulevard 'Blue'",
+              "tip_5lang": {
+                "de": "Zentrale Haltestelle mit vielen Umsteigemöglichkeiten ins Trockene.",
+                "hu": "Központi megálló sok átszállási lehetőséggel a fedett helyekre.",
+                "ro": "Stație centrală cu multe opțiuni de transfer spre locuri acoperite.",
+                "en": "Central stop with many transfer options to indoor areas."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse sind bei Regen oft überfüllt und die Fenster beschlagen.",
+              "Halten Sie Kleingeld bereit, um Verzögerungen beim Einstieg zu vermeiden.",
+              "Achten Sie auf Pfützen, wenn der Bus an den Randstein fährt.",
+              "Tragen Sie wasserfeste Kleidung für die Wege zwischen den Haltestellen."
+            ],
+            "hu": [
+              "Esőben a buszok gyakran zsúfoltak és az ablakok párásak.",
+              "Legyen kéznél aprópénz, hogy elkerülje a késlekedést felszálláskor.",
+              "Ügyeljen a tócsákra, amikor a busz a padkához áll.",
+              "Viseljen vízálló ruházatot a megállók közötti szakaszokra."
+            ],
+            "ro": [
+              "Autobuzele sunt adesea aglomerate pe ploaie și geamurile sunt aburite.",
+              "Aveți mărunțiș la îndemână pentru a evita întârzierile la urcare.",
+              "Atenție la bălți când autobuzul trage la bordură.",
+              "Purtați haine impermeabile pentru segmentele dintre stații."
+            ],
+            "en": [
+              "Buses are often crowded during rain and windows may fog up.",
+              "Have small change ready to avoid delays when boarding.",
+              "Watch out for puddles as the bus pulls up to the curb.",
+              "Wear waterproof clothing for the walks between stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgen: Start am Platz, die Busse sind angenehm beheizt. Mittag: Fahrt zum Kulturpalast; genießen Sie die winterliche Stadt aus dem Fenster. Nachmittag: Besuch der Universitätsparks, bevor es früh dunkel wird. Abend: Rückkehr zum hell erleuchteten Boulevard Blue bei klirrender Kälte.",
+            "hu": "Reggel: Kezdés a téren, a buszok kellemesen fűtöttek. Délben: Utazás a Kulturális Palotához; csodálja a téli várost az ablakból. Délután: Az egyetemi parkok látogatása, mielőtt korán besötétedik. Este: Visszatérés a kivilágított Kék sugárúthoz a metsző hidegben.",
+            "ro": "Dimineața: Pornire din piață, autobuzele sunt încălzite plăcut. La prânz: Călătorie spre Palatul Culturii; admirați orașul de iarnă de pe geam. După-amiaza: Vizitarea parcurilor universitare înainte de lăsarea serii. Seara: Întoarcere la bulevardul Blue iluminat în frigul tăios.",
+            "en": "Morning: Starting at the square, the buses are comfortably heated. Noon: Journey to the Palace of Culture; enjoy the winter city view from the window. Afternoon: Visiting the university parks before it gets dark early. Evening: Return to the brightly lit Blue Boulevard in the biting cold."
+          },
+          "stops": [
+            {
+              "name": "Mother Teresa Square",
+              "tip_5lang": {
+                "de": "Warten Sie im Inneren eines Cafés, bis der Bus kommt.",
+                "hu": "Várjon egy kávézó belsejében, amíg megjön a busz.",
+                "ro": "Așteptați în interiorul unei cafenele până vine autobuzul.",
+                "en": "Wait inside a cafe until the bus is about to arrive."
+              }
+            },
+            {
+              "name": "Palace of Culture Kamëz",
+              "tip_5lang": {
+                "de": "Der Bus hält direkt vor dem beheizten Gebäude.",
+                "hu": "A busz közvetlenül a fűtött épület előtt áll meg.",
+                "ro": "Autobuzul oprește chiar în fața clădirii încălzite.",
+                "en": "The bus stops directly in front of the heated building."
+              }
+            },
+            {
+              "name": "Mosque of Kamëz",
+              "tip_5lang": {
+                "de": "Achten Sie auf gefrorene Stellen an den Haltestellen.",
+                "hu": "Ügyeljen a fagyott foltokra a megállók környékén.",
+                "ro": "Atenție la porțiunile înghețate din stații.",
+                "en": "Watch out for frozen patches near the bus stops."
+              }
+            },
+            {
+              "name": "Park of the Agricultural University",
+              "tip_5lang": {
+                "de": "Beachten Sie die selteneren Fahrzeiten im Winterfahrplan.",
+                "hu": "Ügyeljen a ritkább járatokra a téli menetrendben.",
+                "ro": "Atenție la frecvența redusă a curselor în orarul de iarnă.",
+                "en": "Note the less frequent bus services in the winter schedule."
+              }
+            },
+            {
+              "name": "Kamëz City Park",
+              "tip_5lang": {
+                "de": "Planen Sie den Rückweg vor Einbruch der Dunkelheit.",
+                "hu": "Tervezze meg a visszautat a sötétedés beállta előtt.",
+                "ro": "Planificați întoarcerea înainte de lăsarea întunericului.",
+                "en": "Plan your return trip before darkness sets in."
+              }
+            },
+            {
+              "name": "Boulevard 'Blue'",
+              "tip_5lang": {
+                "de": "Die Station ist gut beleuchtet und sicher für den Abend.",
+                "hu": "A megálló jól kivilágított és biztonságos este is.",
+                "ro": "Stația este bine iluminată și sigură pe timp de seară.",
+                "en": "The stop is well-lit and safe for evening transfers."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse sind im Winter oft stark beheizt; Kleidung anpassen.",
+              "Die Dämmerung beginnt früh, Reflektoren an der Kleidung sind gut.",
+              "Halten Sie die Fahrkarte griffbereit, um die Kältezeit an der Tür zu kürzen.",
+              "Einige Linien fahren im Winter seltener zum Stadtrand."
+            ],
+            "hu": [
+              "A buszok télen gyakran erősen fűtöttek; öltözzön ennek megfelelően.",
+              "Korán sötétedik, a fényvisszaverő az öltözéken hasznos lehet.",
+              "Tartsa kéznél a jegyét, hogy minél kevesebbet álljon a nyitott ajtónál.",
+              "Néhány járat télen ritkábban közlekedik a külváros felé."
+            ],
+            "ro": [
+              "Autobuzele sunt adesea supraîncălzite iarna; adaptați-vă hainele.",
+              "Amurgul vine devreme, elementele reflectorizante pe haine sunt utile.",
+              "Aveți biletul pregătit pentru a minimiza timpul petrecut la ușă.",
+              "Unele rute circulă mai rar spre periferie în timpul iernii."
+            ],
+            "en": [
+              "Buses are often heavily heated in winter; dress accordingly.",
+              "Dusk starts early, so reflective items on your clothes are helpful.",
+              "Keep your ticket ready to minimize time spent standing by the open door.",
+              "Some routes run less frequently to the outskirts in winter."
+            ]
+          }
+        }
       }
     }
   }

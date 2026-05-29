@@ -379,6 +379,214 @@
           "Most sights are within walking distance, so take your time and enjoy the stroll.",
           "Be sure to try the local Malvasia wine."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag unter den Arkaden am Manzioli-Platz. Der Besenghi-Palast bietet trockenen Unterschlupf für Architekturfreunde. Mittags laden die Fischrestaurants am Hafen zum Verweilen ein. Am Nachmittag schützt die Kirche St. Maurus vor Schauern. Der Spaziergang zur Simon-Bucht erfolgt am besten mit festem Schuhwerk entlang der Ufermauer. Den Abend beschließt ein gemütliches Essen in einer der Altstadtgassen.",
+            "hu": "Kezdje a napot a Manzioli tér árkádjai alatt, védve az esőtől. A Besenghi-palota barokk belső tere tökéletes menedék az építészet kedvelőinek. Ebédidőben a kikötő fedett haléttermei várják. Délután a Szent Mór-templom csendje nyújt oltalmat a záporok elől. A Simon-öböl felé vezető parti sétányon számítson szélre és csúszós kövekre. Az estét egy meghitt óvárosi tavernabeli vacsorával zárhatja.",
+            "ro": "Începeți ziua sub arcadele din Piața Manzioli. Palatul Besenghi oferă un adăpost uscat pentru iubitorii de arhitectură. La prânz, restaurantele de pește din port sunt ideale pentru a aștepta oprirea ploii. După-amiaza, interiorul bisericii Sf. Mauru oferă liniște și protecție. Plimbarea spre Golful Simon trebuie făcută cu încălțăminte aderentă pe faleza umedă. Seara se încheie cu o cină caldă pe străzile înguste ale centrului vechi.",
+            "en": "Start the day under the arcades of Manzioli Square. The Besenghi Palace provides dry shelter for architecture enthusiasts. At noon, the covered fish restaurants at the port are perfect for staying dry. In the afternoon, the interior of St. Maurus Church offers peace and protection. The walk to Simon's Bay requires sturdy shoes along the wet sea wall. The evening ends with a cozy dinner in one of the old town's narrow alleys."
+          },
+          "stops": [
+            {
+              "name": "Manzioli Square",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den venezianischen Arkaden der Loggia.",
+                "hu": "Keressen menedéket a velencei loggia árkádjai alatt.",
+                "ro": "Căutați adăpost sub arcadele venețiene ale loggiei.",
+                "en": "Seek shelter under the Venetian arcades of the loggia."
+              }
+            },
+            {
+              "name": "Besenghi degli Ughi Palace",
+              "tip_5lang": {
+                "de": "Idealer Zeitpunkt, um die Stuckarbeiten im Inneren ohne Eile zu bewundern.",
+                "hu": "Ideális időpont a belső stukkók nyugodt megcsodálására.",
+                "ro": "Moment ideal pentru a admira stucaturile interioare fără grabă.",
+                "en": "Ideal time to admire the interior stucco work without rushing."
+              }
+            },
+            {
+              "name": "Church of St. Maurus",
+              "tip_5lang": {
+                "de": "Das Kirchenschiff bietet Schutz; der Glockenturm kann bei Wind rutschig sein.",
+                "hu": "A templomhajó védelmet nyújt; a harangtorony szélben csúszós lehet.",
+                "ro": "Interiorul oferă protecție; turnul poate fi alunecos pe vânt.",
+                "en": "The nave offers protection; the bell tower can be slippery in wind."
+              }
+            },
+            {
+              "name": "Port of Izola",
+              "tip_5lang": {
+                "de": "Beobachten Sie das Treiben der Fischerboote aus einem der Hafen-Cafés.",
+                "hu": "Figyelje a halászhajók mozgását az egyik kikötői kávézó ablakából.",
+                "ro": "Urmăriți activitatea bărcilor de pescuit dintr-o cafenea din port.",
+                "en": "Watch the fishing boats' activity from one of the port cafes."
+              }
+            },
+            {
+              "name": "Lighthouse Park (Svetilnik)",
+              "tip_5lang": {
+                "de": "Starker Wind an der Landspitze; achten Sie auf Gischt an der Mauer.",
+                "hu": "Erős szél a félsziget csúcsán; ügyeljen a falra felcsapó hullámokra.",
+                "ro": "Vânt puternic în vârf; atenție la stropii de valuri pe dig.",
+                "en": "Strong wind at the point; watch out for sea spray on the wall."
+              }
+            },
+            {
+              "name": "Simon's Bay Archaeological Park",
+              "tip_5lang": {
+                "de": "Die Ausgrabungen sind teilweise unter freiem Himmel; Regenschirm nötig.",
+                "hu": "Az ásatások részben szabadtériek; esernyő használata ajánlott.",
+                "ro": "Săpăturile sunt parțial în aer liber; este necesară umbrela.",
+                "en": "Excavations are partly outdoors; an umbrella is necessary."
+              }
+            },
+            {
+              "name": "Dinner at Manzioli Square",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit Innenplätzen nahe der alten Stadtmauer.",
+                "hu": "Válasszon belső teremmel rendelkező éttermet a várfal közelében.",
+                "ro": "Alegeți un restaurant cu locuri la interior lângă zidul cetății.",
+                "en": "Choose a restaurant with indoor seating near the old city wall."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Steinpflasterung der Altstadt wird bei Nässe extrem rutschig.",
+              "Nutzen Sie die Arkaden der Manzioli-Loggia als natürlichen Regenschirm.",
+              "Die Stadtbibliothek im alten Palast ist ein guter Ort zum Aufwärmen.",
+              "Fischsuppe (Brodet) ist das ideale Gericht für einen regnerischen Adriatag.",
+              "Kaufen Sie einen hochwertigen Regenschirm in den kleinen Läden der Ljubljanska ulica."
+            ],
+            "hu": [
+              "Az óváros kőburkolata esőben rendkívül csúszóssá válik.",
+              "Használja a Manzioli-loggia árkádjait természetes esernyőként.",
+              "A régi palotában működő városi könyvtár jó hely a felmelegedésre.",
+              "A halleves (Brodet) a legalkalmasabb étel egy esős adriai napon.",
+              "Vásároljon tartós esernyőt a Ljubljanska utca kis boltjaiban."
+            ],
+            "ro": [
+              "Pavajul de piatră din centrul vechi devine extrem de alunecos când este ud.",
+              "Folosiți arcadele loggiei Manzioli ca pe o umbrelă naturală.",
+              "Biblioteca orășenească din vechiul palat este un loc bun pentru încălzire.",
+              "Supa de pește (Brodet) este preparatul ideal pentru o zi ploioasă la Adriatică.",
+              "Cumpărați o umbrelă rezistentă din micile magazine de pe strada Ljubljanska."
+            ],
+            "en": [
+              "The old town's stone paving becomes extremely slippery when wet.",
+              "Use the arcades of the Manzioli loggia as a natural umbrella.",
+              "The town library in the old palace is a good place to warm up.",
+              "Fish stew (Brodet) is the ideal dish for a rainy Adriatic day.",
+              "Buy a sturdy umbrella in the small shops on Ljubljanska Street."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die klare Winterluft am Manzioli-Platz, wenn die Stadt zur Ruhe kommt. Die Paläste strahlen im tiefstehenden Sonnenlicht eine besondere Eleganz aus. Mittags wärmt ein Kaffee am Hafen, während man die schneebedeckten Alpen in der Ferne sehen kann. Nachmittags bietet die Kirche St. Maurus besinnliche Stille. Der Sonnenuntergang am Svetilnik-Leuchtturm findet bereits gegen 16:30 Uhr statt. Der Tag endet bei einem Glas lokalen Refošk-Weins.",
+            "hu": "Élvezze a tiszta téli levegőt a Manzioli téren, amikor a város elcsendesedik. A paloták különleges eleganciát áradnak az alacsonyan járó napfényben. Ebédidőben egy kávé a kikötőben átmelegíti, miközben a távolban a havas Alpokat csodálhatja. Délután a Szent Mór-templom nyújt meghitt csendet. A naplemente a Svetilnik-világítótoronynál már 16:30 körül bekövetkezik. A napot egy pohár helyi Refošk borral zárhatja.",
+            "ro": "Bucurați-vă de aerul curat de iarnă în Piața Manzioli, când orașul devine liniștit. Palatele emană o eleganță aparte în lumina joasă a soarelui. La prânz, o cafea în port vă va încălzi în timp ce admirați Alpii înzăpeziți în depărtare. După-amiaza, biserica Sf. Mauru oferă o liniște contemplativă. Apusul la farul Svetilnik are loc deja în jurul orei 16:30. Ziua se încheie cu un pahar de vin local Refošk.",
+            "en": "Enjoy the crisp winter air at Manzioli Square when the town grows quiet. The palaces exude a special elegance in the low sunlight. At noon, a coffee at the port warms you up while you can admire the snowy Alps in the distance. In the afternoon, St. Maurus Church offers contemplative silence. Sunset at the Svetilnik lighthouse occurs as early as 4:30 PM. The day ends with a glass of local Refošk wine."
+          },
+          "stops": [
+            {
+              "name": "Manzioli Square",
+              "tip_5lang": {
+                "de": "Wenig Touristen; genießen Sie die Architektur in aller Ruhe.",
+                "hu": "Kevés a turista; élvezze az építészetet zavartalanul.",
+                "ro": "Puțini turiști; bucurați-vă de arhitectură în liniște deplină.",
+                "en": "Few tourists; enjoy the architecture in complete peace."
+              }
+            },
+            {
+              "name": "Besenghi degli Ughi Palace",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Winteröffnungszeiten der Musikschule im Palast.",
+                "hu": "Ellenőrizze a palotában működő zeneiskola téli nyitvatartását.",
+                "ro": "Verificați programul de iarnă al școlii de muzică din palat.",
+                "en": "Check the winter opening hours of the music school in the palace."
+              }
+            },
+            {
+              "name": "Church of St. Maurus",
+              "tip_5lang": {
+                "de": "Innen ist es kühl; behalten Sie die Jacke während der Besichtigung an.",
+                "hu": "Odabent hűvös van; tartsa magán a kabátot a látogatás alatt.",
+                "ro": "În interior este răcoare; păstrați haina pe dvs. în timpul vizitei.",
+                "en": "It's cool inside; keep your jacket on during the visit."
+              }
+            },
+            {
+              "name": "Port of Izola",
+              "tip_5lang": {
+                "de": "Suchen Sie Plätze an der Sonne, um die Mittagswärme zu nutzen.",
+                "hu": "Keressen napsütötte helyet a déli órák melegének kihasználására.",
+                "ro": "Căutați locuri la soare pentru a profita de căldura amiezii.",
+                "en": "Look for sunny spots to take advantage of the midday warmth."
+              }
+            },
+            {
+              "name": "Lighthouse Park (Svetilnik)",
+              "tip_5lang": {
+                "de": "Perfekter Ort für Fotos der schneebedeckten Gipfel über dem Meer.",
+                "hu": "Tökéletes hely a tenger felett magasodó havas csúcsok fotózásához.",
+                "ro": "Loc perfect pentru fotografii cu vârfurile înzăpezite peste mare.",
+                "en": "Perfect spot for photos of the snowy peaks over the sea."
+              }
+            },
+            {
+              "name": "Simon's Bay Archaeological Park",
+              "tip_5lang": {
+                "de": "Der Park ist oft leerer; genießen Sie den weiten Blick auf Triest.",
+                "hu": "A park ilyenkor üresebb; élvezze a távoli kilátást Trieszt felé.",
+                "ro": "Parcul este adesea pustiu; bucurați-vă de vederea spre Trieste.",
+                "en": "The park is often emptier; enjoy the distant view towards Trieste."
+              }
+            },
+            {
+              "name": "Dinner at Manzioli Square",
+              "tip_5lang": {
+                "de": "Probieren Sie lokale Spezialitäten wie Jota (Eintopf) zum Aufwärmen.",
+                "hu": "Kóstolja meg a helyi Jota egytálételt a felmelegedéshez.",
+                "ro": "Gustați specialități locale precum Jota pentru a vă încălzi.",
+                "en": "Try local specialties like Jota (stew) to warm up."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf die Burja (Bora) Winde, die sehr kalt sein können.",
+              "Die Sonne geht im Winter bereits gegen 16:30 Uhr unter.",
+              "Viele Cafés bieten Decken für die Außenbestuhlung an.",
+              "Besuchen Sie die kleinen Galerien, um sich zwischendurch aufzuwärmen.",
+              "Die klare Fernsicht ermöglicht oft Blicke bis zu den Dolomiten."
+            ],
+            "hu": [
+              "Ügyeljen a Burja (Bóra) szélre, amely rendkívül hideg lehet.",
+              "A nap télen már 16:30 körül lemegy Izolában.",
+              "Sok kávézó kínál pokrócot a kinti asztalokhoz.",
+              "Látogasson el a kis galériákba, hogy útközben felmelegedjen.",
+              "A tiszta időben gyakran egészen a Dolomitokig el lehet látni."
+            ],
+            "ro": [
+              "Atenție la vântul Burja (Bora), care poate fi foarte rece.",
+              "Soarele apune iarna în jurul orei 16:30 în Izola.",
+              "Multe cafenele oferă pături pentru mesele de afară.",
+              "Vizitați micile galerii pentru a vă încălzi pe parcurs.",
+              "Vizibilitatea clară permite adesea vederea până la Dolomiți."
+            ],
+            "en": [
+              "Watch out for the Burja (Bora) winds, which can be very cold.",
+              "The sun sets as early as 4:30 PM in winter in Izola.",
+              "Many cafes offer blankets for outdoor seating.",
+              "Visit small art galleries to warm up during your walk.",
+              "Clear winter visibility often allows views as far as the Dolomites."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -677,6 +885,196 @@
           "Bring plenty of water, especially in summer.",
           "A helmet is recommended."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Vorsicht auf dem glatten Kopfsteinpflaster am Hafen. Der Weg zur Simon-Bucht ist asphaltiert, aber Pfützen können tief sein. Mittags bietet die Parenzana-Strecke im Hinterland etwas Schutz durch die Vegetation, wird aber schlammig. Die Rückkehr in die Altstadt führt zur Kirche St. Maurus, wo man die Räder gesichert abstellen kann. Der Tag endet mit einem verdienten warmen Essen am schützenden Hafen.",
+            "hu": "Az esőben való kerékpározás óvatosságot igényel a kikötő csúszós macskakövén. A Simon-öböl felé vezető út aszfaltozott, de a tócsák mélyek lehetnek. Délben a Parenzana útvonal a szárazföld belseje felé a növényzet miatt némi védelmet nyújt, de sárosodhat. Az óvárosba visszatérve a Szent Mór-templomnál biztonságosan lezárhatja a bringát. A nap egy megérdemelt meleg vacsorával zárul a kikötőben.",
+            "ro": "O tură cu bicicleta pe ploaie necesită prudență pe pavajul alunecos din port. Drumul spre Golful Simon este asfaltat, dar bălțile pot fi adânci. La prânz, traseul Parenzana din interior oferă puțină protecție prin vegetație, dar devine noroios. Revenirea în centrul vechi duce la biserica Sf. Mauru, unde puteți parca bicicletele în siguranță. Ziua se încheie cu o cină caldă binemeritată în portul adăpostit.",
+            "en": "A bike ride in the rain requires caution on the slippery cobblestones at the port. The path to Simon's Bay is paved, but puddles can be deep. At noon, the Parenzana route inland offers some protection through vegetation but can get muddy. Returning to the old town leads to St. Maurus Church, where bikes can be safely locked. The day ends with a well-deserved warm meal at the sheltered harbour."
+          },
+          "stops": [
+            {
+              "name": "Manzioli Square & Port",
+              "tip_5lang": {
+                "de": "Vorsicht beim Bremsen auf den nassen Steinplatten am Platz.",
+                "hu": "Vigyázzon a fékezéssel a tér nedves kőlapjain.",
+                "ro": "Atenție la frânare pe dalele de piatră umede din piață.",
+                "en": "Be careful when braking on the wet stone slabs in the square."
+              }
+            },
+            {
+              "name": "Lighthouse Park (Svetilnik)",
+              "tip_5lang": {
+                "de": "Windböen von der Adria können das Radfahren erschweren.",
+                "hu": "Az Adria felől érkező széllökések nehezíthetik a haladást.",
+                "ro": "Rafalele de vânt dinspre Adriatică pot îngreuna pedalarea.",
+                "en": "Wind gusts from the Adriatic can make cycling difficult."
+              }
+            },
+            {
+              "name": "Ride along the coast to Simon's Bay",
+              "tip_5lang": {
+                "de": "Achten Sie auf Fußgänger mit Regenschirmen auf dem Uferweg.",
+                "hu": "Ügyeljen az esernyős gyalogosokra a parti sétányon.",
+                "ro": "Atenție la pietonii cu umbrele pe drumul de pe faleză.",
+                "en": "Watch out for pedestrians with umbrellas on the coastal path."
+              }
+            },
+            {
+              "name": "Parenzana Path",
+              "tip_5lang": {
+                "de": "Unbefestigte Abschnitte können sehr schlammig und rutschig sein.",
+                "hu": "A nem aszfaltozott szakaszok nagyon sárosak és csúszósak lehetnek.",
+                "ro": "Secțiunile neasfaltate pot fi foarte noroioase și alunecoase.",
+                "en": "Unpaved sections can be very muddy and slippery."
+              }
+            },
+            {
+              "name": "Church of St. Maurus",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad unter einem Vordach in der Nähe ab.",
+                "hu": "Támassza le a bringát egy közeli előtető alá.",
+                "ro": "Parcați bicicleta sub un acoperiș din apropiere.",
+                "en": "Park your bike under a nearby overhang."
+              }
+            },
+            {
+              "name": "Dinner at the Port",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Lokal mit Sicht auf Ihren Fahrradabstellplatz.",
+                "hu": "Válasszon olyan helyet, ahonnan rálát a biciklitárolóra.",
+                "ro": "Alegeți un local cu vedere spre locul unde ați lăsat bicicleta.",
+                "en": "Choose a place with a view of your bike parking spot."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie scharfe Kurven auf dem glatten Kopfsteinpflaster.",
+              "Tragen Sie wasserfeste Kleidung und Schutzbleche sind ein Muss.",
+              "Die Bremswirkung kann auf nassen Felgen verzögert eintreten.",
+              "Nutzen Sie die Tunnel der Parenzana als kurzen Regenschutz.",
+              "Prüfen Sie den Reifendruck für besseren Grip auf nasser Straße."
+            ],
+            "hu": [
+              "Kerülje az éles kanyarokat a csúszós macskakövön.",
+              "Vízálló ruházat és sárvédő használata elengedhetetlen.",
+              "A fékhatás nedves felniken késleltetve jelentkezhet.",
+              "Használja a Parenzana alagútjait rövid eső elleni menedékként.",
+              "Ellenőrizze a guminyomást a jobb tapadás érdekében nedves úton."
+            ],
+            "ro": [
+              "Evitați virajele strânse pe pavajul de piatră alunecos.",
+              "Purtarea hainelor impermeabile și aripile de noroi sunt obligatorii.",
+              "Efectul de frânare poate întârzia pe jantele umede.",
+              "Folosiți tunelurile Parenzana ca adăpost scurt împotriva ploii.",
+              "Verificați presiunea în pneuri pentru o aderență mai bună pe carosabil ud."
+            ],
+            "en": [
+              "Avoid sharp turns on the slippery cobblestones.",
+              "Waterproof clothing and mudguards are a must.",
+              "Braking performance may be delayed on wet rims.",
+              "Use the Parenzana tunnels as short-term rain shelters.",
+              "Check tire pressure for better grip on wet roads."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in Izola bietet weite Sichten bei kühler Meeresbrise. Starten Sie am Hafen, wo die Boote winterfest gemacht sind. Die Fahrt zur Simon-Bucht ist bei wenig Betrieb entspannt. Auf der Parenzana-Strecke genießt man die Ruhe der Weinberge im Winterschlaf. Der Aufstieg zur Kirche St. Maurus bringt den Kreislauf in Schwung. Beenden Sie die Tour frühzeitig vor dem Sonnenuntergang mit einem warmen Getränk am Hafenbecken.",
+            "hu": "A téli kerékpározás Izolában tiszta kilátást és hűvös tengeri szellőt kínál. Kezdjen a kikötőben, ahol a hajók téli álomra készülnek. A Simon-öböl felé vezető út a kis forgalom miatt pihentető. A Parenzana útvonalon élvezheti a téli pihenőt tartó szőlőültetvények nyugalmát. A Szent Mór-templomhoz vezető emelkedő felpezsdíti a keringést. Fejezze be a túrát még naplemente előtt egy meleg itallal a kikötőben.",
+            "ro": "Ciclismul de iarnă în Izola oferă vederi largi și o briză marină răcoroasă. Începeți în port, unde bărcile sunt pregătite pentru iarnă. Drumul spre Golful Simon este relaxant datorită traficului redus. Pe traseul Parenzana vă bucurați de liniștea podgoriilor în repaus. Urcarea spre biserica Sf. Mauru vă va pune sângele în mișcare. Încheiați tura devreme, înainte de apus, cu o băutură caldă în zona portului.",
+            "en": "Winter cycling in Izola offers wide views and a cool sea breeze. Start at the port, where boats are winterized. The ride to Simon's Bay is relaxing with little traffic. On the Parenzana route, enjoy the peace of the dormant vineyards. The climb to St. Maurus Church will get your circulation going. Finish the tour early before sunset with a warm drink by the harbour basin."
+          },
+          "stops": [
+            {
+              "name": "Manzioli Square & Port",
+              "tip_5lang": {
+                "de": "Tragen Sie Handschuhe gegen den kalten Fahrtwind am Meer.",
+                "hu": "Viseljen kesztyűt a tengerparti hideg menetszél ellen.",
+                "ro": "Purtați mănuși împotriva vântului rece de pe faleză.",
+                "en": "Wear gloves against the cold headwind by the sea."
+              }
+            },
+            {
+              "name": "Lighthouse Park (Svetilnik)",
+              "tip_5lang": {
+                "de": "Der Boden kann morgens durch Reif glatt sein.",
+                "hu": "Reggelente a talaj a dér miatt csúszós lehet.",
+                "ro": "Solul poate fi alunecos dimineața din cauza brumei.",
+                "en": "The ground can be slippery in the morning due to frost."
+              }
+            },
+            {
+              "name": "Ride along the coast to Simon's Bay",
+              "tip_5lang": {
+                "de": "Genießen Sie die Sonne, solange sie hoch genug steht.",
+                "hu": "Élvezze a napsütést, amíg elég magasan jár a nap.",
+                "ro": "Bucurați-vă de soare cât timp este suficient de sus.",
+                "en": "Enjoy the sun while it's high enough."
+              }
+            },
+            {
+              "name": "Parenzana Path",
+              "tip_5lang": {
+                "de": "Fahren Sie defensiv, da die tiefstehende Sonne blenden kann.",
+                "hu": "Vezessen óvatosan, mert az alacsonyan járó nap elvakíthatja.",
+                "ro": "Conduceți defensiv, soarele jos poate fi orbitor.",
+                "en": "Ride defensively as the low sun can be blinding."
+              }
+            },
+            {
+              "name": "Church of St. Maurus",
+              "tip_5lang": {
+                "de": "Bester Aussichtspunkt für klare Winterfernreisen.",
+                "hu": "A legjobb kilátópont a tiszta téli táj megtekintéséhez.",
+                "ro": "Cel mai bun punct de observație pentru panoramele clare de iarnă.",
+                "en": "Best viewpoint for clear winter panoramas."
+              }
+            },
+            {
+              "name": "Dinner at the Port",
+              "tip_5lang": {
+                "de": "Planen Sie die Ankunft vor 16:30 Uhr ein (Dämmerung).",
+                "hu": "Tervezze az érkezést 16:30 előtt (alkonyat).",
+                "ro": "Planificați sosirea înainte de ora 16:30 (amurg).",
+                "en": "Plan to arrive before 4:30 PM (twilight)."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich nach dem Zwiebelprinzip für variable Anstrengung.",
+              "Achten Sie auf vereiste Stellen im Schatten der Altstadtgassen.",
+              "Verwenden Sie helles Licht, da es früh dunkel wird.",
+              "Trinken Sie ausreichend, auch wenn Sie weniger Durst verspüren.",
+              "Der Windchill-Effekt am Meer ist im Winter erheblich."
+            ],
+            "hu": [
+              "Öltözködjön rétegesen a változó intenzitású mozgáshoz.",
+              "Ügyeljen a jeges foltokra az óvárosi utcák árnyékos részein.",
+              "Használjon erős lámpát, mert korán sötétedik.",
+              "Igyon elegendő folyadékot, még ha kevésbé is szomjas.",
+              "A tengerparti szél hűtő hatása (windchill) télen jelentős."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi pentru efort variabil.",
+              "Atenție la porțiunile înghețate din umbra străzilor vechi.",
+              "Folosiți lumini puternice, deoarece se întunecă devreme.",
+              "Beți suficiente lichide, chiar dacă nu simțiți setea atât de tare.",
+              "Efectul de răcire al vântului la mare este considerabil iarna."
+            ],
+            "en": [
+              "Dress in layers for variable exertion levels.",
+              "Watch out for icy patches in the shade of the old town alleys.",
+              "Use bright lights as it gets dark early.",
+              "Drink enough fluids even if you feel less thirsty.",
+              "The windchill effect by the sea is significant in winter."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -981,6 +1379,196 @@
           "A GPS is helpful for exploring the hinterland.",
           "Combine your visit with a trip to Piran or Koper."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "An einem Regentag ist Izola bequem mit dem Auto erreichbar, mit Parkplätzen nahe dem Zentrum. Besuchen Sie die Altstadt mit Schirm und nutzen Sie den Palast Besenghi für Kultur im Trockenen. Die Fahrt zur Simon-Bucht ist kurz, und der Archäologiepark hat ein kleines Besucherzentrum. Ein Ausflug zum Strunjan-Naturpark bietet dramatische Ausblicke auf die stürmische Adria vom Auto aus. Den Abend genießen Sie bei Fischspezialitäten in Hafennähe.",
+            "hu": "Esős napon Izola kényelmesen elérhető autóval, a központ közeli parkolók használatával. Fedezze fel az óvárost esernyővel, és látogasson el a Besenghi-palotába egy kis fedett kultúráért. A Simon-öböl rövid autóút, ahol az archeológiai park kis látogatóközponttal is rendelkezik. A Strunjan natúrpark felé vezető út drámai kilátást nyújt a viharos Adriára az autóból. Az estét a kikötő közeli haléttermekben töltheti.",
+            "ro": "Într-o zi ploioasă, Izola este ușor accesibilă cu mașina, cu parcări aproape de centru. Explorați orașul vechi cu umbrela și vizitați Palatul Besenghi pentru cultură la adăpost. Drumul spre Golful Simon este scurt, iar parcul arheologic are un mic centru pentru vizitatori. O excursie spre parcul natural Strunjan oferă vederi dramatice asupra Adriaticii furtunoase din mașină. Seara se savurează cu specialități de pește lângă port.",
+            "en": "On a rainy day, Izola is easily accessible by car, with parking near the center. Explore the old town with an umbrella and visit Besenghi Palace for indoor culture. The drive to Simon's Bay is short, and the archaeological park has a small visitor center. A trip to Strunjan Nature Park offers dramatic views of the stormy Adriatic from the car. The evening is enjoyed with fish specialties near the harbour."
+          },
+          "stops": [
+            {
+              "name": "Parking & Old Town Cluster",
+              "tip_5lang": {
+                "de": "Parkhaus Lonka ist der beste Ort, um trocken ins Zentrum zu kommen.",
+                "hu": "A Lonka parkolóház a legjobb hely, hogy szárazon jusson a központba.",
+                "ro": "Parcarea Lonka este cel mai bun loc pentru a ajunge uscat în centru.",
+                "en": "Lonka parking garage is the best place to get to the center dry."
+              }
+            },
+            {
+              "name": "Manzioli Square & Palaces",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen den Gebäuden minimieren den Regenkontakt.",
+                "hu": "Az épületek közti rövid távolság minimalizálja az esővel való érintkezést.",
+                "ro": "Distanțele scurte între clădiri minimizează contactul cu ploaia.",
+                "en": "Short distances between buildings minimize exposure to rain."
+              }
+            },
+            {
+              "name": "Church of St. Maurus",
+              "tip_5lang": {
+                "de": "Nutzen Sie den nahen Parkplatz hinter der Kirche für kurze Wege.",
+                "hu": "Használja a templom mögötti közeli parkolót a rövid séta érdekében.",
+                "ro": "Folosiți parcarea din spatele bisericii pentru un drum scurt.",
+                "en": "Use the nearby parking behind the church for a short walk."
+              }
+            },
+            {
+              "name": "Simon's Bay & Archeology Cluster",
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Eingang des archäologischen Parks.",
+                "hu": "Parkoljon közvetlenül az archeológiai park bejáratánál.",
+                "ro": "Parcați chiar la intrarea în parcul arheologic.",
+                "en": "Park right at the entrance of the archaeological park."
+              }
+            },
+            {
+              "name": "Drive to Strunjan",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Klippen aus dem warmen Auto.",
+                "hu": "Élvezze a sziklákra nyíló kilátást a meleg autóból.",
+                "ro": "Bucurați-vă de vederea spre stânci din mașina caldă.",
+                "en": "Enjoy the view of the cliffs from the warm car."
+              }
+            },
+            {
+              "name": "Dinner in Izola",
+              "tip_5lang": {
+                "de": "Suchen Sie ein Restaurant mit direktem Zugang oder Vordach.",
+                "hu": "Keressen közvetlen bejárattal vagy előtetővel rendelkező éttermet.",
+                "ro": "Căutați un restaurant cu acces direct sau copertină.",
+                "en": "Look for a restaurant with direct access or a canopy."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Park-App EasyPark, um nicht im Regen am Automaten zu stehen.",
+              "Vermeiden Sie das Parken direkt am Kai bei starkem Seegang (Gischt).",
+              "Die Küstenstraße zwischen Izola und Koper ist bei Regen besonders schön.",
+              "Hinterlassen Sie keine Wertsachen sichtbar im Auto.",
+              "Prüfen Sie Ihre Scheibenwischer für die salzhaltige Meeresluft."
+            ],
+            "hu": [
+              "Használja az EasyPark alkalmazást, hogy ne kelljen az esőben az automatánál állnia.",
+              "Erős hullámzáskor kerülje a közvetlen mólón való parkolást (sós permet).",
+              "Az Izola és Koper közti parti út esőben is különleges látványt nyújt.",
+              "Ne hagyjon értéktárgyat látható helyen az autóban.",
+              "Ellenőrizze az ablaktörlőket a sós tengeri levegő miatt."
+            ],
+            "ro": [
+              "Folosiți aplicația EasyPark pentru a nu sta în ploaie la parcomat.",
+              "Evitați parcarea direct pe chei în caz de valuri mari (stropi de sare).",
+              "Drumul de coastă între Izola și Koper este deosebit de frumos pe ploaie.",
+              "Nu lăsați obiecte de valoare la vedere în mașină.",
+              "Verificați ștergătoarele pentru aerul marin sărat."
+            ],
+            "en": [
+              "Use the EasyPark app to avoid standing at the meter in the rain.",
+              "Avoid parking directly on the pier during heavy seas (salt spray).",
+              "The coastal road between Izola and Koper is especially beautiful in rain.",
+              "Do not leave valuables visible in the car.",
+              "Check your wipers for the salty sea air."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter bietet Izola entspanntes Parken und klare Sichtverhältnisse. Beginnen Sie in der Altstadt, die nun den Einheimischen gehört. Die Fahrt nach Simon-Bucht offenbart das ruhige Mittelmeer. Ein Ausflug nach Strunjan im Winterlicht zeigt die Salinen von ihrer kargen, ästhetischen Seite. Die Fernsicht auf die schneebedeckten Alpen ist vom Auto aus spektakulär. Den Tag beschließt ein traditionelles Abendessen in einem der warmen Restaurants der Stadt.",
+            "hu": "Télen Izola stresszmentes parkolást és tiszta látási viszonyokat kínál. Kezdjen az óvárosban, amely ilyenkor a helyieké. A Simon-öböl felé tartó út a nyugodt Földközi-tengert mutatja be. A téli fényekben úszó Strunjan a sólepárlókat esztétikus, puritán arcukról mutatja meg. A havas Alpokra nyíló kilátás az autóból is látványos. A napot egy hagyományos vacsora zárja a város egyik meleg éttermében.",
+            "ro": "Iarna, Izola oferă parcare fără stres și condiții de vizibilitate clară. Începeți în centrul vechi, care acum aparține localnicilor. Drumul spre Golful Simon dezvăluie Mediterana liniștită. O excursie la Strunjan în lumina iernii arată salinele în latura lor estetică și austeră. Vederea spre Alpii înzăpeziți este spectaculoasă din mașină. Ziua se încheie cu o cină tradițională într-unul din restaurantele primitoare ale orașului.",
+            "en": "In winter, Izola offers stress-free parking and clear visibility. Start in the old town, which now belongs to the locals. The drive to Simon's Bay reveals the calm Mediterranean. A trip to Strunjan in winter light shows the salt pans from their aesthetic, stark side. The view of the snowy Alps is spectacular from the car. The day ends with a traditional dinner in one of the town's warm restaurants."
+          },
+          "stops": [
+            {
+              "name": "Parking & Old Town Cluster",
+              "tip_5lang": {
+                "de": "Profitieren Sie von den niedrigeren Wintertarifen auf vielen Parkplätzen.",
+                "hu": "Használja ki az alacsonyabb téli parkolási díjakat sok helyen.",
+                "ro": "Profitați de tarifele de iarnă mai mici în multe parcări.",
+                "en": "Take advantage of lower winter rates at many parking lots."
+              }
+            },
+            {
+              "name": "Manzioli Square & Palaces",
+              "tip_5lang": {
+                "de": "Die Sonne steht tief und leuchtet die Fassaden perfekt aus.",
+                "hu": "Az alacsonyan járó nap tökéletesen megvilágítja a homlokzatokat.",
+                "ro": "Soarele jos luminează perfect fațadele.",
+                "en": "The low sun illuminates the facades perfectly."
+              }
+            },
+            {
+              "name": "Church of St. Maurus",
+              "tip_5lang": {
+                "de": "Aussichtspunkt auf die verschneiten Gipfel im Norden.",
+                "hu": "Kilátópont az északi irányban fekvő havas csúcsokra.",
+                "ro": "Punct de observație spre vârfurile înzăpezite din nord.",
+                "en": "Viewpoint for the snowy peaks to the north."
+              }
+            },
+            {
+              "name": "Simon's Bay & Archeology Cluster",
+              "tip_5lang": {
+                "de": "Ideal für einen kurzen Spaziergang in der klaren Winterluft.",
+                "hu": "Ideális egy rövid sétához a tiszta téli levegőn.",
+                "ro": "Ideal pentru o scurtă plimbare în aerul curat de iarnă.",
+                "en": "Ideal for a short walk in the crisp winter air."
+              }
+            },
+            {
+              "name": "Drive to Strunjan",
+              "tip_5lang": {
+                "de": "Vorsicht vor Glätte auf den kleinen Nebenstraßen am Morgen.",
+                "hu": "Vigyázzon a csúszós szakaszokra a kis mellékutakon reggelente.",
+                "ro": "Atenție la porțiunile alunecoase pe drumurile secundare dimineața.",
+                "en": "Watch out for icy patches on small side roads in the morning."
+              }
+            },
+            {
+              "name": "Dinner in Izola",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit Kamin oder guter Heizung.",
+                "hu": "Válasszon kandallóval vagy jó fűtéssel rendelkező éttermet.",
+                "ro": "Alegeți un restaurant cu șemineu sau încălzire bună.",
+                "en": "Choose a restaurant with a fireplace or good heating."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Frostschutzmittel in der Scheibenwaschanlage ist auch an der Küste ratsam.",
+              "Die Dämmerung beginnt früh, prüfen Sie die Fahrzeugbeleuchtung.",
+              "Nutzen Sie die leeren Straßen für entspanntes Sightseeing.",
+              "Parkplätze direkt am Hafen sind im Winter leichter zu finden.",
+              "Besuchen Sie das Hinterland von Izola für lokalen Olivenölkauf."
+            ],
+            "hu": [
+              "A szélvédőmosó fagyállója a tengerparton is tanácsos.",
+              "Az alkonyat korán kezdődik, ellenőrizze a fényszórókat.",
+              "Használja ki az üres utakat a stresszmentes városnézéshez.",
+              "A közvetlen kikötői parkolók télen sokkal könnyebben elérhetők.",
+              "Látogasson el Izola hátországába helyi olívaolajért."
+            ],
+            "ro": [
+              "Lichidul de parbriz antigel este recomandat și pe coastă.",
+              "Amurgul începe devreme, verificați iluminarea vehiculului.",
+              "Profitați de străzile pustii pentru o vizitare relaxată.",
+              "Locurile de parcare direct în port sunt mai ușor de găsit iarna.",
+              "Vizitați interiorul zonei Izola pentru a cumpăra ulei de măsline local."
+            ],
+            "en": [
+              "Antifreeze in the windshield washer is advisable even on the coast.",
+              "Twilight starts early, check your vehicle lighting.",
+              "Take advantage of the empty roads for relaxed sightseeing.",
+              "Parking spots directly at the port are easier to find in winter.",
+              "Visit the hinterland of Izola to buy local olive oil."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1285,6 +1873,196 @@
           "Izola is very walkable; the bus is most useful for shortening the first or last leg of the journey.",
           "Most buses are modern and air-conditioned."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie an Regentagen die Arriva-Busse für kurze Strecken zwischen der Altstadt und der Simon-Bucht. Das Archäologiezentrum bietet Schutz und Informationen im Inneren. Mittags lädt die Hafenpromenade zum schnellen Wechsel in ein Restaurant ein. Nachmittags erkunden Sie den Old Town Cluster mit Schirm. Die Busse fahren regelmäßig und bieten eine trockene Alternative zum Fußweg entlang der Küste. Der Abend endet gemütlich im Stadtzentrum.",
+            "hu": "Esős napokon használja az Arriva buszokat az óváros és a Simon-öböl közti rövid távolságon. Az archeológiai központ védelmet és fedett információkat kínál. Ebédidőben a kikötői sétányról gyorsan behúzódhat egy étterembe. Délután fedezze fel az óvárosi negyedet esernyővel. A buszok rendszeresen járnak, száraz alternatívát nyújtva a parti sétához. Az este kellemesen telik a városközpontban.",
+            "ro": "În zilele ploioase, folosiți autobuzele Arriva pentru distanțe scurte între centrul vechi și Golful Simon. Centrul arheologic oferă adăpost și informații la interior. La prânz, faleza portului permite accesul rapid într-un restaurant. După-amiaza, explorați zona veche cu umbrela. Autobuzele circulă regulat, oferind o alternativă uscată la plimbarea pe faleză. Seara se încheie plăcut în centrul orașului.",
+            "en": "On rainy days, use Arriva buses for short distances between the old town and Simon's Bay. The archaeological center provides shelter and indoor information. At noon, the harbour promenade allows for a quick dash into a restaurant. In the afternoon, explore the old town cluster with an umbrella. Buses run regularly, offering a dry alternative to walking along the coast. The evening ends comfortably in the city center."
+          },
+          "stops": [
+            {
+              "name": "Arrival & Bus to Simon's Bay",
+              "tip_5lang": {
+                "de": "Warten Sie im überdachten Wartebereich am Busbahnhof.",
+                "hu": "Várjon a buszpályaudvar fedett várótermi részén.",
+                "ro": "Așteptați în zona acoperită a autogării.",
+                "en": "Wait in the covered waiting area at the bus station."
+              }
+            },
+            {
+              "name": "Simon's Bay Archaeological Park",
+              "tip_5lang": {
+                "de": "Das Besucherzentrum bietet Schutz vor plötzlichen Schauern.",
+                "hu": "A látogatóközpont védelmet nyújt a hirtelen záporok elől.",
+                "ro": "Centrul pentru vizitatori oferă adăpost împotriva averselor.",
+                "en": "The visitor center offers shelter from sudden showers."
+              }
+            },
+            {
+              "name": "Stroll along the Promenade",
+              "tip_5lang": {
+                "de": "Kurze Abschnitte gehen, dann Schutz in Cafés suchen.",
+                "hu": "Sétáljon rövid szakaszokat, majd pihenjen meg kávézókban.",
+                "ro": "Mergeți pe porțiuni scurte, apoi căutați adăpost în cafenele.",
+                "en": "Walk short sections, then seek shelter in cafes."
+              }
+            },
+            {
+              "name": "Harbour & Lunch",
+              "tip_5lang": {
+                "de": "Wählen Sie Lokale, die direkt an der Bushaltestelle liegen.",
+                "hu": "Válasszon közvetlenül a buszmegálló melletti éttermeket.",
+                "ro": "Alegeți localuri situate chiar lângă stația de autobuz.",
+                "en": "Choose places located right next to the bus stop."
+              }
+            },
+            {
+              "name": "Old Town Cluster: Manzioli & Church",
+              "tip_5lang": {
+                "de": "Die engen Gassen bieten teilweisen Schutz vor Wind.",
+                "hu": "A szűk utcák némi védelmet nyújtanak a szél ellen.",
+                "ro": "Străzile înguste oferă protecție parțială împotriva vântului.",
+                "en": "The narrow alleys offer partial protection from the wind."
+              }
+            },
+            {
+              "name": "Lighthouse Park (Svetilnik)",
+              "tip_5lang": {
+                "de": "Vermeiden Sie den Strandbereich bei starkem Regen.",
+                "hu": "Erős esőben kerülje a közvetlen strand területét.",
+                "ro": "Evitați zona plajei în caz de ploaie torențială.",
+                "en": "Avoid the beach area during heavy rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Laden Sie die Arriva Slovenia App für Echtzeit-Fahrpläne.",
+              "Halten Sie Kleingeld oder eine kontaktlose Karte bereit.",
+              "Die Busse sind im Regen oft voll, planen Sie Zeit ein.",
+              "Die Haltestelle 'Izola' ist zentraler als der Busbahnhof.",
+              "Nutzen Sie den Regen für einen Besuch im lokalen Museum."
+            ],
+            "hu": [
+              "Töltse le az Arriva Slovenia alkalmazást a valós idejű menetrendhez.",
+              "Készítsen elő aprópénzt vagy érintésmentes kártyát.",
+              "Esőben a buszok gyakran zsúfoltak, számoljon több idővel.",
+              "Az 'Izola' megálló központibb helyen van, mint a buszpályaudvar.",
+              "Használja ki az esőt egy látogatásra a helyi múzeumban."
+            ],
+            "ro": [
+              "Descărcați aplicația Arriva Slovenia pentru orare în timp real.",
+              "Pregătiți mărunțiș sau un card contactless.",
+              "Autobuzele sunt adesea aglomerate pe ploaie, planificați timp suplimentar.",
+              "Stația 'Izola' este mai centrală decât autogara.",
+              "Folosiți ploaia pentru o vizită la muzeul local."
+            ],
+            "en": [
+              "Download the Arriva Slovenia app for real-time schedules.",
+              "Have small change or a contactless card ready.",
+              "Buses are often crowded in the rain; allow extra time.",
+              "The 'Izola' stop is more central than the main bus station.",
+              "Use the rain as an opportunity to visit the local museum."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterreisen mit dem Bus nach Izola sind ruhig und entspannt. Besuchen Sie die Simon-Bucht im klaren Winterlicht, bevor Sie den Bus zurück ins Zentrum nehmen. Die Hafenpromenade lädt zu einem sonnigen Mittagsspaziergang ein. Nachmittags erkunden Sie die Altstadt ohne die sommerliche Hitze. Die Arriva-Busse sind gut beheizt und verbinden die Küstenstädte zuverlässig. Beenden Sie den Tag rechtzeitig vor Sonnenuntergang am Leuchtturm-Park.",
+            "hu": "A téli buszos utazás Izolába nyugodt és pihentető. Látogasson el a Simon-öbölbe a tiszta téli fényekben, mielőtt visszatérne a központba. A kikötői sétány napsütéses déli sétára hívogat. Délután fedezze fel az óvárost a nyári hőség nélkül. Az Arriva buszok jól fűtöttek és megbízhatóan összekötik a parti városokat. Zárja a napot még naplemente előtt a világítótorony parkjánál.",
+            "ro": "Călătoriile cu autobuzul iarna spre Izola sunt liniștite și relaxante. Vizitați Golful Simon în lumina clară de iarnă înainte de a lua autobuzul înapoi în centru. Faleza portului invită la o plimbare însorită la amiază. După-amiaza, explorați orașul vechi fără căldura verii. Autobuzele Arriva sunt bine încălzite și leagă orașele de coastă cu încredere. Încheiați ziua înainte de apus în parcul farului.",
+            "en": "Winter bus trips to Izola are quiet and relaxing. Visit Simon's Bay in the clear winter light before taking the bus back to the center. The harbour promenade invites for a sunny midday stroll. In the afternoon, explore the old town without the summer heat. Arriva buses are well-heated and reliably connect the coastal towns. End the day before sunset at the lighthouse park."
+          },
+          "stops": [
+            {
+              "name": "Arrival & Bus to Simon's Bay",
+              "tip_5lang": {
+                "de": "Beachten Sie den reduzierten Winterfahrplan am Wochenende.",
+                "hu": "Ügyeljen a csökkentett téli menetrendre hétvégente.",
+                "ro": "Atenție la orarul de iarnă redus în weekend.",
+                "en": "Note the reduced winter schedule on weekends."
+              }
+            },
+            {
+              "name": "Simon's Bay Archaeological Park",
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille des Parks ohne Besuchermassen.",
+                "hu": "Élvezze a park csendjét tömeg nélkül.",
+                "ro": "Bucurați-vă de liniștea parcului fără mulțimi de vizitatori.",
+                "en": "Enjoy the silence of the park without the crowds."
+              }
+            },
+            {
+              "name": "Stroll along the Promenade",
+              "tip_5lang": {
+                "de": "Die Wintersonne ist am Meer besonders intensiv.",
+                "hu": "A téli nap a tengerparton különösen intenzív.",
+                "ro": "Soarele de iarnă este deosebit de intens la malul mării.",
+                "en": "The winter sun is particularly intense by the sea."
+              }
+            },
+            {
+              "name": "Harbour & Lunch",
+              "tip_5lang": {
+                "de": "Hafencafés bieten oft sonnige Plätze hinter Glas.",
+                "hu": "A kikötői kávézók gyakran kínálnak napsütötte helyet üveg mögött.",
+                "ro": "Cafenelele din port oferă adesea locuri însorite după geam.",
+                "en": "Port cafes often offer sunny spots behind glass."
+              }
+            },
+            {
+              "name": "Old Town Cluster: Manzioli & Church",
+              "tip_5lang": {
+                "de": "Die Steine speichern die Mittagssonne und geben Wärme ab.",
+                "hu": "A kövek elraktározzák a déli nap melegét.",
+                "ro": "Pietrele înmagazinează soarele amiezii și emană căldură.",
+                "en": "The stones store the midday sun and radiate warmth."
+              }
+            },
+            {
+              "name": "Lighthouse Park (Svetilnik)",
+              "tip_5lang": {
+                "de": "Bester Ort für den frühen Sonnenuntergang gegen 16:30 Uhr.",
+                "hu": "A legjobb hely a korai, 16:30 körüli naplemente megtekintéséhez.",
+                "ro": "Cel mai bun loc pentru apusul devreme, în jurul orei 16:30.",
+                "en": "Best spot for the early sunset around 4:30 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie die Abfahrtszeiten vorab, da sie seltener sein können.",
+              "Die Busse sind im Winter meist pünktlicher als im Sommer.",
+              "Tragen Sie warme Kleidung für die Wartezeiten an den Haltestellen.",
+              "Kombinieren Sie den Besuch mit Piran oder Koper per Bus.",
+              "Einige Buslinien fahren im Winter nur bis zum frühen Abend."
+            ],
+            "hu": [
+              "Ellenőrizze előre az indulási időket, mert ritkábbak lehetnek.",
+              "A buszok télen általában pontosabbak, mint nyáron.",
+              "Öltözzön melegen a megállókban való várakozáshoz.",
+              "Kombinálja a látogatást Pirannal vagy Koperrel busz segítségével.",
+              "Néhány buszjárat télen csak kora estig közlekedik."
+            ],
+            "ro": [
+              "Verificați orele de plecare în avans, pot fi mai rare.",
+              "Autobuzele sunt de obicei mai punctuale iarna decât vara.",
+              "Îmbrăcați-vă gros pentru timpii de așteptare în stații.",
+              "Combinați vizita cu Piran sau Koper folosind autobuzul.",
+              "Unele linii de autobuz circulă iarna doar până seara devreme."
+            ],
+            "en": [
+              "Check departure times in advance as they can be less frequent.",
+              "Buses are usually more punctual in winter than in summer.",
+              "Wear warm clothing for the waiting times at bus stops.",
+              "Combine your visit with Piran or Koper by bus.",
+              "Some bus lines only run until early evening in winter."
+            ]
+          }
+        }
       }
     }
   }

@@ -362,6 +362,196 @@
           "Some paths can be uneven, so watch your step.",
           "Be respectful of the quiet in residential and university areas."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag am Unabhängigkeitsdenkmal, wo der graue Himmel die Atmosphäre unterstreicht. \n\nSuchen Sie während der Regenschauer Zuflucht in der prächtigen St. Joseph Kirche und bewundern Sie die Barockkunst. \n\nAm Mittag bieten die Cafés der Marina trockene Plätze mit Blick auf die Boote. \n\nDer Bastion Garden bietet im Regen eine mystische Aussicht auf den nebligen Hafen von Marsamxett.",
+            "hu": "Kezdje a napot a Függetlenségi Emlékműnél, ahol a szürke égbolt méltóságteljes hangulatot áraszt. \n\nAz eső elől keressen menedéket a monumentális Szent József-templomban, csodálva a barokk belsőt. \n\nDélben a Marina kávézói száraz helyet kínálnak kilátással a ringatózó hajókra. \n\nA Bastion Garden az esőben misztikus panorámát nyújt a ködös Marsamxett kikötőre.",
+            "ro": "Începeți ziua la Monumentul Independenței, unde cerul gri adaugă o notă solemnă. \n\nCăutați adăpost de ploaie în impunătoarea Biserică Sf. Iosif, admirând detaliile baroce. \n\nLa prânz, cafenelele din Marina oferă locuri uscate cu vedere la ambarcațiuni. \n\nGrădina Bastionului oferă pe ploaie o panoramă mistică asupra portului Marsamxett acoperit de ceață.",
+            "en": "Start the day at the Independence Monument, where the grey sky adds a solemn mood. \n\nSeek refuge from the rain in the grand St. Joseph Parish Church, admiring the Baroque interior. \n\nAt noon, the Marina cafes offer dry spots with a view of the bobbing boats. \n\nThe Bastion Garden in the rain provides a mystical panorama of the misty Marsamxett Harbour."
+          },
+          "stops": [
+            {
+              "name": "Independence Monument",
+              "tip_5lang": {
+                "de": "Glatte Steinflächen rund um das Denkmal.",
+                "hu": "Csúszós kőfelületek az emlékmű körül.",
+                "ro": "Suprafețe de piatră alunecoase în jurul monumentului.",
+                "en": "Slippery stone surfaces around the monument."
+              }
+            },
+            {
+              "name": "Msida Creek Promenade",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden der nahen Gebäude als Schutz.",
+                "hu": "Használja a közeli épületek árkádjait menedékként.",
+                "ro": "Folosiți arcadele clădirilor din apropiere ca adăpost.",
+                "en": "Use the arcades of nearby buildings as shelter."
+              }
+            },
+            {
+              "name": "St. Joseph Parish Church",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um einen starken Schauer abzuwarten.",
+                "hu": "Tökéletes hely egy nagyobb zápor kivárására.",
+                "ro": "Locul perfect pentru a aștepta trecerea unei averse.",
+                "en": "Perfect place to wait out a heavy downpour."
+              }
+            },
+            {
+              "name": "Msida Yacht Marina",
+              "tip_5lang": {
+                "de": "Überdachte Restaurants am Kai bieten guten Schutz.",
+                "hu": "A rakpart fedett éttermei jó védelmet nyújtanak.",
+                "ro": "Restaurantele acoperite de pe chei oferă protecție bună.",
+                "en": "Covered restaurants on the quay offer good protection."
+              }
+            },
+            {
+              "name": "University of Malta",
+              "tip_5lang": {
+                "de": "Die Gänge der Fakultäten sind meist überdacht.",
+                "hu": "A karok folyosói többnyire fedettek.",
+                "ro": "Coridoarele facultăților sunt în mare parte acoperite.",
+                "en": "The faculty corridors are mostly covered."
+              }
+            },
+            {
+              "name": "Msida Bastion Historic Garden",
+              "tip_5lang": {
+                "de": "Vorsicht auf den nassen, abschüssigen Wegen.",
+                "hu": "Vigyázzon a vizes, lejtős ösvényeken.",
+                "ro": "Atenție pe potecile umede și înclinate.",
+                "en": "Be careful on the wet, sloping paths."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da sich an der Promenade Pfützen bilden.",
+              "Die St. Joseph Kirche ist der beste Ort für eine längere Regenpause.",
+              "Nutzen Sie die Universität als indoor Kulturstopp.",
+              "Vermeiden Sie offene Regenschirme bei starkem Wind am Hafen.",
+              "Cafés an der Marina haben oft gemütliche Innenbereiche."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert a sétányon tócsák alakulhatnak ki.",
+              "A Szent József-templom a legjobb hely egy hosszabb esőszünetre.",
+              "Használja az egyetemet fedett kulturális megállóként.",
+              "Erős szélben kerülje az esernyő használatát a kikötőnél.",
+              "A Marina kávézói barátságos belső terekkel rendelkeznek."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, pot apărea bălți pe faleză.",
+              "Biserica Sf. Iosif este cel mai bun loc pentru o pauză lungă de ploaie.",
+              "Folosiți universitatea ca oprire culturală de interior.",
+              "Evitați umbrelele în caz de vânt puternic lângă port.",
+              "Cafenelele din Marina au interioare primitoare."
+            ],
+            "en": [
+              "Wear waterproof shoes as puddles form on the promenade.",
+              "St. Joseph Church is the best spot for a long rain break.",
+              "Use the university as an indoor cultural stop.",
+              "Avoid using umbrellas in strong winds near the harbor.",
+              "Marina cafes have cozy indoor seating areas."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen am Denkmal bietet klare Luft und sanftes Licht. \n\nDer Spaziergang entlang der Marina ist bei milden 15 Grad sehr angenehm ohne die Sommerhitze. \n\nAm Nachmittag erstrahlt der Bastion Garden in sattem Wintergrün, ideal für Fotos. \n\nDa die Sonne gegen 17:00 Uhr untergeht, genießen Sie das goldene Licht über dem Hafen schon früh.",
+            "hu": "A friss téli reggel az emlékműnél tiszta levegőt és lágy fényeket kínál. \n\nA Marina menti séta a kellemes 15 fokban nagyon élvezetes a nyári hőség nélkül. \n\nDélután a Bastion Garden buja téli zöldben pompázik, ideális fotózáshoz. \n\nMivel a nap 17:00 körül nyugszik, élvezze korán az aranyló fényeket a kikötő felett.",
+            "ro": "O dimineață răcoroasă de iarnă la monument oferă aer curat și lumină blândă. \n\nPlimbarea de-a lungul Marinei la 15 grade este foarte plăcută fără căldura verii. \n\nDupă-amiaza, Grădina Bastionului strălucește într-un verde luxuriant de iarnă, ideal pentru poze. \n\nDeoarece soarele apune în jur de 17:00, bucurați-vă de lumina aurie peste port mai devreme.",
+            "en": "A crisp winter morning at the monument offers clear air and soft light. \n\nThe walk along the Marina at a mild 15 degrees is very pleasant without the summer heat. \n\nIn the afternoon, the Bastion Garden shines in lush winter greenery, ideal for photos. \n\nSince the sun sets around 17:00, enjoy the golden light over the harbor early."
+          },
+          "stops": [
+            {
+              "name": "Independence Monument",
+              "tip_5lang": {
+                "de": "Die Morgensonne beleuchtet das Denkmal perfekt.",
+                "hu": "A reggeli nap tökéletesen megvilágítja az emlékművet.",
+                "ro": "Soarele de dimineață luminează perfect monumentul.",
+                "en": "The morning sun illuminates the monument perfectly."
+              }
+            },
+            {
+              "name": "Msida Creek Promenade",
+              "tip_5lang": {
+                "de": "Ein leichter Windschutz ist am Wasser ratsam.",
+                "hu": "A vízparton ajánlott egy könnyű széldzseki.",
+                "ro": "O protecție ușoară împotriva vântului este recomandată lângă apă.",
+                "en": "Light wind protection is advised by the water."
+              }
+            },
+            {
+              "name": "St. Joseph Parish Church",
+              "tip_5lang": {
+                "de": "Innen ist es im Winter oft wärmer als draußen.",
+                "hu": "Odabent télen gyakran melegebb van, mint kint.",
+                "ro": "În interior este adesea mai cald decât afară iarna.",
+                "en": "It is often warmer inside than outside in winter."
+              }
+            },
+            {
+              "name": "Msida Yacht Marina",
+              "tip_5lang": {
+                "de": "Genießen Sie ein heißes Getränk mit Blick auf den Hafen.",
+                "hu": "Élvezzen egy forró italt a kikötőre néző kilátással.",
+                "ro": "Savurați o băutură caldă cu vedere la port.",
+                "en": "Enjoy a hot drink with a view of the harbor."
+              }
+            },
+            {
+              "name": "University of Malta",
+              "tip_5lang": {
+                "de": "Belebte studentische Atmosphäre auch im Winter.",
+                "hu": "Élénk hallgatói légkör télen is.",
+                "ro": "Atmosferă studențească animată chiar și iarna.",
+                "en": "Lively student atmosphere even in winter."
+              }
+            },
+            {
+              "name": "Msida Bastion Historic Garden",
+              "tip_5lang": {
+                "de": "Beste Zeit, um die üppige Vegetation zu sehen.",
+                "hu": "A legjobb időszak a buja növényzet megtekintésére.",
+                "ro": "Cel mai bun moment pentru a vedea vegetația luxuriantă.",
+                "en": "Best time to see the lush vegetation."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht gegen 17:00 Uhr unter, planen Sie das Ende früher.",
+              "Zwiebelprinzip bei der Kleidung schützt vor kühlem Seewind.",
+              "Der Bastion Garden ist im Winter grüner als im Sommer.",
+              "Die Marina ist im Winter weniger überlaufen und ruhiger.",
+              "Prüfen Sie die Öffnungszeiten der Kirche für Besichtigungen."
+            ],
+            "hu": [
+              "A nap 17:00 körül nyugszik, tervezze korábbra a befejezést.",
+              "A réteges öltözködés véd a hűvös tengeri széltől.",
+              "A Bastion Garden télen zöldebb, mint nyáron.",
+              "A Marina télen kevésbé zsúfolt és sokkal nyugodtabb.",
+              "Ellenőrizze a templom nyitvatartását a látogatáshoz."
+            ],
+            "ro": [
+              "Soarele apune în jur de 17:00, planificați finalul mai devreme.",
+              "Îmbrăcămintea în straturi protejează de vântul rece de mare.",
+              "Grădina Bastionului este mai verde iarna decât vara.",
+              "Marina este mai puțin aglomerată și mai liniștită iarna.",
+              "Verificați programul bisericii pentru vizitare."
+            ],
+            "en": [
+              "The sun sets around 17:00, plan to finish earlier.",
+              "Layered clothing protects from the chilly sea breeze.",
+              "The Bastion Garden is greener in winter than in summer.",
+              "The Marina is less crowded and much quieter in winter.",
+              "Check the church opening hours for visits."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -702,6 +892,196 @@
           "Lock your bike in secure locations.",
           "Be prepared for some steep climbs away from the coast."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie vorsichtig entlang der nassen Promenade am Morgen. \n\nDie Marina erfordert bei Regen volle Konzentration wegen rutschiger Wege. \n\nDas Tal Wied il-Kappara kann schlammig sein, bietet aber einen wilden Anblick. \n\nBeenden Sie die Tour an der Universität, wo Sie Ihr Rad sicher und trocken abstellen können.",
+            "hu": "Reggel óvatosan tekerjen a vizes sétány mentén. \n\nA Marina teljes koncentrációt igényel esőben a csúszós utak miatt. \n\nA Wied il-Kappara völgy sáros lehet, de vadregényes látványt nyújt. \n\nA túrát az egyetemen fejezze be, ahol biztonságosan és szárazon teheti le a bringát.",
+            "ro": "Pedalați cu atenție de-a lungul falezei umede dimineața. \n\nMarina necesită concentrare maximă pe ploaie din cauza drumurilor alunecoase. \n\nValea Wied il-Kappara poate fi noroioasă, dar oferă o priveliște sălbatică. \n\nÎncheiați turul la universitate, unde puteți lăsa bicicleta în siguranță și la uscat.",
+            "en": "Cycle carefully along the wet promenade in the morning. \n\nThe Marina requires full concentration in the rain due to slippery paths. \n\nWied il-Kappara valley might be muddy but offers a wild scenic view. \n\nFinish the tour at the University, where you can park your bike safely and dryly."
+          },
+          "stops": [
+            {
+              "name": "Msida Creek Promenade",
+              "tip_5lang": {
+                "de": "Vorsicht vor rutschigen Markierungen auf dem Asphalt.",
+                "hu": "Vigyázzon az aszfalton lévő csúszós felfestésekkel.",
+                "ro": "Atenție la marcajele alunecoase de pe asfalt.",
+                "en": "Watch out for slippery markings on the asphalt."
+              }
+            },
+            {
+              "name": "Msida Yacht Marina",
+              "tip_5lang": {
+                "de": "Bremsen Sie frühzeitig vor den Kurven am Kai.",
+                "hu": "Fékezzen időben a rakparti kanyarok előtt.",
+                "ro": "Frânați din timp înaintea curbelor de pe chei.",
+                "en": "Brake early before the curves on the quay."
+              }
+            },
+            {
+              "name": "St. Joseph Parish Church",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad unter dem Dachvorsprung ab.",
+                "hu": "Támassza le a bringát a tetőpárkány alá.",
+                "ro": "Parcați bicicleta sub streșina acoperișului.",
+                "en": "Park your bike under the roof overhang."
+              }
+            },
+            {
+              "name": "Wied il-Kappara",
+              "tip_5lang": {
+                "de": "Meiden Sie unbefestigte Wege bei starkem Regen.",
+                "hu": "Kerülje a burkolatlan utakat heves esőben.",
+                "ro": "Evitați drumurile neasfaltate pe ploaie torențială.",
+                "en": "Avoid unpaved paths during heavy rain."
+              }
+            },
+            {
+              "name": "University of Malta",
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Fahrradständer am Campus.",
+                "hu": "Használja a fedett biciklitárolókat a campuson.",
+                "ro": "Folosiți rastelele de biciclete acoperite din campus.",
+                "en": "Use the covered bike racks on campus."
+              }
+            },
+            {
+              "name": "Msida Bastion Historic Garden",
+              "tip_5lang": {
+                "de": "Der steile Zugang ist bei Nässe sehr rutschig.",
+                "hu": "A meredek feljáró nedvesen nagyon csúszik.",
+                "ro": "Accesul abrupt este foarte alunecos când este ud.",
+                "en": "The steep access is very slippery when wet."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie abrupte Bremsmanöver auf nassem Kopfsteinpflaster.",
+              "Tragen Sie eine komplett wasserdichte Regenjacke und Hose.",
+              "Prüfen Sie Ihren Reifendruck für besseren Grip bei Nässe.",
+              "Beleuchtung ist bei schlechter Sicht durch Regen Pflicht.",
+              "Schützen Sie den Sattel mit einem Plastiküberzug."
+            ],
+            "hu": [
+              "Kerülje a hirtelen fékezést a vizes macskakövön.",
+              "Viseljen teljesen vízhatlan esődzsekit és nadrágot.",
+              "Ellenőrizze a guminyomást a jobb tapadás érdekében.",
+              "Az eső miatti rossz látási viszonyoknál kötelező a világítás.",
+              "Védje a nyerget műanyag borítással."
+            ],
+            "ro": [
+              "Evitați frânarea bruscă pe pavajul umed.",
+              "Purtați o jachetă și pantaloni complet impermeabili.",
+              "Verificați presiunea în anvelope pentru aderență mai bună.",
+              "Luminile sunt obligatorii în caz de vizibilitate redusă.",
+              "Protejați șaua cu o husă de plastic."
+            ],
+            "en": [
+              "Avoid sudden braking on wet cobblestones.",
+              "Wear a fully waterproof rain jacket and trousers.",
+              "Check your tire pressure for better grip in the wet.",
+              "Lights are mandatory in poor visibility caused by rain.",
+              "Protect your saddle with a plastic cover."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein sonniger Wintertag ist ideal für die Fahrt durch Wied il-Kappara. \n\nDie kühle Brise an der Marina ist erfrischend, erfordert aber gute Kleidung. \n\nAm Nachmittag bietet der Aufstieg zur Universität ein gutes Training gegen die Kälte. \n\nDer Bastion Garden ist am späten Nachmittag der perfekte Ort für den Sonnenuntergang.",
+            "hu": "Egy napos téli nap ideális a Wied il-Kappara völgyön való áthaladáshoz. \n\nA hűvös szellő a Marinánál frissítő, de jó ruházatot igényel. \n\nDélután az egyetemre való felkapaszkodás jó edzés a hideg ellen. \n\nA Bastion Garden késő délután a tökéletes hely a naplemente megtekintéséhez.",
+            "ro": "O zi însorită de iarnă este ideală pentru o plimbare prin Wied il-Kappara. \n\nBriza răcoroasă de la Marina este revigorantă, dar necesită haine bune. \n\nDupă-amiaza, urcarea spre universitate este un antrenament bun contra frigului. \n\nGrădina Bastionului este locul perfect pentru apus după-amiaza târziu.",
+            "en": "A sunny winter day is ideal for cycling through Wied il-Kappara. \n\nThe cool breeze at the Marina is refreshing but requires good clothing. \n\nIn the afternoon, the climb to the university is a good workout against the cold. \n\nThe Bastion Garden is the perfect spot for sunset in the late afternoon."
+          },
+          "stops": [
+            {
+              "name": "Msida Creek Promenade",
+              "tip_5lang": {
+                "de": "Achten Sie auf tiefstehende Sonne beim Fahren.",
+                "hu": "Ügyeljen az alacsonyan járó napra vezetés közben.",
+                "ro": "Atenție la soarele care strălucește jos în timp ce pedalați.",
+                "en": "Watch out for low sun glare while riding."
+              }
+            },
+            {
+              "name": "Msida Yacht Marina",
+              "tip_5lang": {
+                "de": "Windfeste Handschuhe sind am Wasser wichtig.",
+                "hu": "A szélálló kesztyű fontos a vízparton.",
+                "ro": "Mănușile rezistente la vânt sunt importante lângă apă.",
+                "en": "Windproof gloves are important near the water."
+              }
+            },
+            {
+              "name": "St. Joseph Parish Church",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Pause für ein warmes Getränk.",
+                "hu": "Használja ki a szünetet egy forró italra.",
+                "ro": "Folosiți pauza pentru o băutură caldă.",
+                "en": "Use the break for a warm drink nearby."
+              }
+            },
+            {
+              "name": "Wied il-Kappara",
+              "tip_5lang": {
+                "de": "Die Natur ist hier im Winter am grünsten.",
+                "hu": "A természet itt télen a legzöldebb.",
+                "ro": "Natura este cel mai verde aici iarna.",
+                "en": "Nature is at its greenest here in winter."
+              }
+            },
+            {
+              "name": "University of Malta",
+              "tip_5lang": {
+                "de": "Steile Anfahrt hält den Körper warm.",
+                "hu": "A meredek feljáró melegen tartja a testet.",
+                "ro": "Urcarea abruptă menține corpul cald.",
+                "en": "The steep approach keeps your body warm."
+              }
+            },
+            {
+              "name": "Msida Bastion Historic Garden",
+              "tip_5lang": {
+                "de": "Frühe Dämmerung erfordert funktionierende Lichter.",
+                "hu": "A korai szürkület miatt ellenőrizze a lámpákat.",
+                "ro": "Amurgul timpuriu necesită lumini funcționale.",
+                "en": "Early dusk requires functioning lights."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Handschuhe und ein Stirnband unter dem Helm.",
+              "Die Wintersonne kann stark blenden, nutzen Sie eine Brille.",
+              "Die Wege in Wied il-Kappara sind im Winter am schönsten.",
+              "Beleuchtung ist ab 16:30 Uhr unbedingt erforderlich.",
+              "Kürzen Sie die Tour ab, falls der Wind zu stark wird."
+            ],
+            "hu": [
+              "Viseljen kesztyűt és fejpántot a sisak alatt.",
+              "A téli nap erősen vakíthat, használjon szemüveget.",
+              "A Wied il-Kappara ösvényei télen a legszebbek.",
+              "Világítás 16:30-tól feltétlenül szükséges.",
+              "Rövidítse le a túrát, ha a szél túl erőssé válik."
+            ],
+            "ro": [
+              "Purtați mănuși și o bandă pe cap sub cască.",
+              "Soarele de iarnă poate fi orbitor, folosiți ochelari.",
+              "Potecile din Wied il-Kappara sunt cele mai frumoase iarna.",
+              "Luminile sunt absolut necesare după ora 16:30.",
+              "Scurtați turul dacă vântul devine prea puternic."
+            ],
+            "en": [
+              "Wear gloves and a headband under your helmet.",
+              "Winter sun can be blinding, use sunglasses.",
+              "The paths in Wied il-Kappara are most beautiful in winter.",
+              "Lights are absolutely necessary from 16:30.",
+              "Shorten the tour if the wind becomes too strong."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1042,6 +1422,196 @@
           "Be aware of one-way streets and narrow alleys.",
           "Do not leave valuables visible in your car."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die Aussicht auf das Wied il-Kappara bequem vom Auto aus. \n\nAn der Universität gibt es gute Parkmöglichkeiten, um trocken zum Campus zu kommen. \n\nDas Mittagessen an der Marina lässt sich in einem der Restaurants mit Hafenblick genießen. \n\nBesuchen Sie die St. Joseph Kirche am späten Nachmittag, ein kurzer Weg vom Parkplatz.",
+            "hu": "Élvezze a kilátást a Wied il-Kappara völgyre kényelmesen az autóból. \n\nAz egyetemnél jó parkolási lehetőség van, így szárazon juthat el a campusra. \n\nA Marina menti ebédet az egyik kikötőre néző étteremben töltheti el. \n\nKéső délután látogasson el a Szent József-templomhoz, rövid séta a parkolótól.",
+            "ro": "Bucurați-vă de vederea spre Wied il-Kappara confortabil din mașină. \n\nLa universitate există opțiuni bune de parcare pentru a ajunge uscat în campus. \n\nPrânzul la Marina poate fi savurat într-unul din restaurantele cu vedere la port. \n\nVizitați Biserica Sf. Iosif după-amiaza târziu, la scurtă distanță de parcare.",
+            "en": "Enjoy the views of Wied il-Kappara comfortably from your car. \n\nThere are good parking options at the University to reach the campus dryly. \n\nLunch at the Marina can be enjoyed in one of the restaurants with a harbor view. \n\nVisit St. Joseph Church in the late afternoon, just a short walk from the parking area."
+          },
+          "stops": [
+            {
+              "name": "Wied il-Kappara",
+              "tip_5lang": {
+                "de": "Vorsicht vor Aquaplaning auf den tieferen Straßen.",
+                "hu": "Vigyázzon a vízre felúszással az alacsonyabb utakon.",
+                "ro": "Atenție la acvaplanare pe drumurile joase.",
+                "en": "Watch out for aquaplaning on lower roads."
+              }
+            },
+            {
+              "name": "University of Malta & Junior College",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus für einen trockenen Zugang.",
+                "hu": "Használja a parkolóházat a száraz bejutáshoz.",
+                "ro": "Folosiți parcarea etajată pentru acces uscat.",
+                "en": "Use the multi-story car park for dry access."
+              }
+            },
+            {
+              "name": "Msida Bastion Historic Garden",
+              "tip_5lang": {
+                "de": "Wenig Parkplätze direkt am Eingang, kurzer Sprint nötig.",
+                "hu": "Kevés parkoló a bejáratnál, rövid sprint szükséges.",
+                "ro": "Puține locuri de parcare la intrare, necesită un sprint scurt.",
+                "en": "Few parking spots at the entrance, a short sprint needed."
+              }
+            },
+            {
+              "name": "Msida Yacht Marina (Lunch)",
+              "tip_5lang": {
+                "de": "Parken Sie auf dem Marina-Gelände für kürzere Wege.",
+                "hu": "Parkoljon a Marina területén a rövidebb gyalogútért.",
+                "ro": "Parcați în zona Marinei pentru distanțe scurte.",
+                "en": "Park within the Marina area for shorter walking distances."
+              }
+            },
+            {
+              "name": "Msida Creek Promenade",
+              "tip_5lang": {
+                "de": "Gischt kann bei starkem Wind auf die Straße spritzen.",
+                "hu": "Erős szélben a tengervíz az útra fröccsenhet.",
+                "ro": "Apa mării poate stropi pe drum în caz de vânt puternic.",
+                "en": "Sea spray can splash onto the road in strong winds."
+              }
+            },
+            {
+              "name": "St. Joseph Parish Church",
+              "tip_5lang": {
+                "de": "Parkplatz direkt vor dem Kircheneingang suchen.",
+                "hu": "Keressen parkolót közvetlenül a templom bejárata előtt.",
+                "ro": "Căutați parcare chiar în fața intrării în biserică.",
+                "en": "Look for parking right in front of the church entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Rechnen Sie mit mehr Verkehr auf den Hauptstraßen bei Regen.",
+              "Nutzen Sie Parkhäuser, um trocken zu Ihren Zielen zu kommen.",
+              "Vermeiden Sie tiefgelegene Straßen, die schnell überfluten.",
+              "Prüfen Sie Ihre Scheibenwischer vor der Abfahrt.",
+              "Reservieren Sie einen Tisch in der Marina für das Mittagessen."
+            ],
+            "hu": [
+              "Számoljon nagyobb forgalommal a főutakon esőben.",
+              "Használja a parkolóházakat, hogy szárazon jusson célba.",
+              "Kerülje az alacsonyan fekvő utakat, amik gyorsan elönthetők.",
+              "Indulás előtt ellenőrizze az ablaktörlőket.",
+              "Foglaljon asztalt a Marinánál az ebédhez."
+            ],
+            "ro": [
+              "Așteptați-vă la trafic mai intens pe drumurile principale pe ploaie.",
+              "Folosiți parcările etajate pentru a ajunge uscat la destinație.",
+              "Evitați drumurile joase care se pot inunda rapid.",
+              "Verificați ștergătoarele înainte de plecare.",
+              "Rezervați o masă în Marina pentru prânz."
+            ],
+            "en": [
+              "Expect heavier traffic on main roads during rain.",
+              "Use multi-story car parks to reach destinations dryly.",
+              "Avoid low-lying roads that can flood quickly.",
+              "Check your windshield wipers before departure.",
+              "Book a table at the Marina for lunch."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintersonne macht die Fahrt durch Wied il-Kappara besonders malerisch. \n\nBesuchen Sie die Universität am Vormittag, wenn das Licht ideal für Architekturfotos ist. \n\nEin Mittagessen am Hafen ist auch im Winter bei milden Temperaturen draußen möglich. \n\nDer Bastion Garden bietet am Nachmittag eine ruhige Atmosphäre vor dem frühen Sonnenuntergang.",
+            "hu": "A téli napsütés különösen festőivé teszi az utat a Wied il-Kappara völgyben. \n\nLátogasson el az egyetemre délelőtt, amikor a fény ideális az építészeti fotókhoz. \n\nA kikötői ebéd télen is lehetséges kint a kellemes hőmérsékletnek köszönhetően. \n\nA Bastion Garden délután nyugodt légkört kínál a korai naplemente előtt.",
+            "ro": "Soarele de iarnă face drumul prin Wied il-Kappara deosebit de pitoresc. \n\nVizitați universitatea dimineața, când lumina este ideală pentru fotografii. \n\nUn prânz în port este posibil afară și iarna datorită temperaturilor blânde. \n\nGrădina Bastionului oferă o atmosferă liniștită după-amiaza înainte de apus.",
+            "en": "The winter sun makes the drive through Wied il-Kappara especially picturesque. \n\nVisit the university in the morning when the light is ideal for architectural photos. \n\nA harbor lunch is possible outside even in winter thanks to mild temperatures. \n\nThe Bastion Garden offers a peaceful atmosphere in the afternoon before the early sunset."
+          },
+          "stops": [
+            {
+              "name": "Wied il-Kappara",
+              "tip_5lang": {
+                "de": "Ideales Licht für Landschaftsfotos vom Parkplatz aus.",
+                "hu": "Ideális fények a tájképekhez a parkolóból.",
+                "ro": "Lumină ideală pentru fotografii de peisaj din parcare.",
+                "en": "Ideal light for landscape photos from the parking spot."
+              }
+            },
+            {
+              "name": "University of Malta & Junior College",
+              "tip_5lang": {
+                "de": "Weniger Studentenverkehr während der Winterferien.",
+                "hu": "Kevesebb hallgatói forgalom a téli szünetben.",
+                "ro": "Mai puțin trafic studențesc în timpul vacanței de iarnă.",
+                "en": "Less student traffic during the winter break."
+              }
+            },
+            {
+              "name": "Msida Bastion Historic Garden",
+              "tip_5lang": {
+                "de": "Der Garten ist im Winter besonders farbenfroh.",
+                "hu": "A kert télen különösen színgazdag.",
+                "ro": "Grădina este deosebit de colorată iarna.",
+                "en": "The garden is especially colorful in winter."
+              }
+            },
+            {
+              "name": "Msida Yacht Marina (Lunch)",
+              "tip_5lang": {
+                "de": "Beheizte Terrassen machen das Essen im Freien angenehm.",
+                "hu": "A fűtött teraszok kellemessé teszik a kinti étkezést.",
+                "ro": "Terasele încălzite fac masa afară plăcută.",
+                "en": "Heated terraces make outdoor dining pleasant."
+              }
+            },
+            {
+              "name": "Msida Creek Promenade",
+              "tip_5lang": {
+                "de": "Gute Parkmöglichkeiten entlang der Marina.",
+                "hu": "Jó parkolási lehetőségek a Marina mentén.",
+                "ro": "Opțiuni bune de parcare de-a lungul Marinei.",
+                "en": "Good parking options along the Marina."
+              }
+            },
+            {
+              "name": "St. Joseph Parish Church",
+              "tip_5lang": {
+                "de": "Beleuchtung der Fassade beginnt im Winter früher.",
+                "hu": "A homlokzat kivilágítása télen korábban kezdődik.",
+                "ro": "Iluminatul fațadei începe mai devreme iarna.",
+                "en": "The facade lighting starts earlier in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die milden Vormittage für Spaziergänge.",
+              "Parkplätze sind in der Nebensaison leichter zu finden.",
+              "Vermeiden Sie das Fahren bei tiefstehender Sonne am Nachmittag.",
+              "Die Marina ist am Abend wunderschön beleuchtet.",
+              "Einige Cafés haben im Winter kürzere Öffnungszeiten."
+            ],
+            "hu": [
+              "Használja ki az enyhe délelőttöket a sétákhoz.",
+              "A főszezonon kívül könnyebb parkolóhelyet találni.",
+              "Kerülje a vezetést az alacsonyan járó napnál délután.",
+              "A Marina este gyönyörűen ki van világítva.",
+              "Néhány kávézó télen rövidebb ideig tarthat nyitva."
+            ],
+            "ro": [
+              "Profitați de diminețile blânde pentru plimbări.",
+              "Locurile de parcare sunt mai ușor de găsit în extrasezon.",
+              "Evitați condusul când soarele strălucește jos după-amiaza.",
+              "Marina este frumos iluminată seara.",
+              "Unele cafenele pot avea program scurt iarna."
+            ],
+            "en": [
+              "Take advantage of mild mornings for short walks.",
+              "Parking spots are easier to find outside peak season.",
+              "Avoid driving during low sun glare in the afternoon.",
+              "The Marina is beautifully lit up in the evening.",
+              "Some cafes may have shorter opening hours in winter."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1382,6 +1952,196 @@
           "Buses can be crowded during peak hours.",
           "Validate your ticket every time you board a bus."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Warten Sie an der Bushaltestelle Msida unter dem Dach. \n\nDer Weg zur St. Joseph Kirche ist kurz, sodass Sie kaum nass werden. \n\nDie Universität bietet mit ihren vielen Gebäuden eine gute Möglichkeit, den Mittag im Trockenen zu verbringen. \n\nBeenden Sie den Tag an der Marina, wo Sie direkt in einen Bus nach Valletta oder Sliema steigen können.",
+            "hu": "Várjon az msidai buszmegállóban a fedél alatt. \n\nA Szent József-templomhoz vezető út rövid, így alig lesz vizes. \n\nAz egyetem sok épületével jó lehetőséget kínál a délután száraz eltöltésére. \n\nA napot a Marinánál fejezze be, ahonnan közvetlenül buszra szállhat Valletta vagy Sliema felé.",
+            "ro": "Așteptați în stația de autobuz din Msida sub acoperiș. \n\nDrumul spre Biserica Sf. Iosif este scurt, deci nu vă veți uda prea tare. \n\nUniversitatea, cu multele sale clădiri, oferă o variantă bună de a petrece prânzul la uscat. \n\nÎncheiați ziua la Marina, de unde puteți lua direct un autobuz spre Valletta sau Sliema.",
+            "en": "Wait at the Msida bus stop under the shelter. \n\nThe walk to St. Joseph Church is short, so you won't get very wet. \n\nThe university, with its many buildings, offers a good way to spend the afternoon dry. \n\nFinish the day at the Marina, where you can hop directly on a bus to Valletta or Sliema."
+          },
+          "stops": [
+            {
+              "name": "Msida Bus Stop (Arrival)",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist überdacht, bleiben Sie dort bei Regen.",
+                "hu": "A megálló fedett, maradjon ott eső esetén.",
+                "ro": "Stația este acoperită, rămâneți acolo în caz de ploaie.",
+                "en": "The stop is sheltered, stay there if it's raining."
+              }
+            },
+            {
+              "name": "Msida Creek Promenade",
+              "tip_5lang": {
+                "de": "Busse spritzen beim Vorbeifahren oft Wasser auf den Gehweg.",
+                "hu": "A buszok elhaladáskor gyakran vizet fröccsennek a járdára.",
+                "ro": "Autobuzele stropesc adesea apă pe trotuar când trec.",
+                "en": "Buses often splash water onto the sidewalk when passing by."
+              }
+            },
+            {
+              "name": "St. Joseph Parish Church",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg von den meisten Haltestellen.",
+                "hu": "Rövid séta a legtöbb buszmegállótól.",
+                "ro": "Plimbare scurtă de la majoritatea stațiilor de autobuz.",
+                "en": "Short walk from most bus stops."
+              }
+            },
+            {
+              "name": "University of Malta (by bus)",
+              "tip_5lang": {
+                "de": "Häufige Busverbindungen direkt zum Campus-Haupteingang.",
+                "hu": "Gyakori buszjáratok közvetlenül a campus főbejáratához.",
+                "ro": "Legături frecvente de autobuz direct la intrarea principală.",
+                "en": "Frequent bus connections directly to the main campus entrance."
+              }
+            },
+            {
+              "name": "Msida Bastion Historic Garden (by bus)",
+              "tip_5lang": {
+                "de": "Nehmen Sie einen Bus Richtung Floriana für den Rückweg.",
+                "hu": "A visszaúthoz szálljon fel egy Floriana felé tartó buszra.",
+                "ro": "Luați un autobuz spre Floriana pentru drumul de întoarcere.",
+                "en": "Take a bus towards Floriana for the return journey."
+              }
+            },
+            {
+              "name": "Msida Yacht Marina (walk)",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Ziel-Café nahe einer Bushaltestelle.",
+                "hu": "Válasszon buszmegállóhoz közeli kávézót a végén.",
+                "ro": "Alegeți o cafenea aproape de o stație de autobuz la final.",
+                "en": "Choose a cafe near a bus stop for your final stop."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Busse können bei Regen aufgrund des Verkehrs Verspätung haben.",
+              "Nutzen Sie die 'Tallinja' App für Echtzeit-Informationen.",
+              "Tragen Sie einen kompakten Regenschirm bei sich.",
+              "Msida ist ein wichtiger Knotenpunkt, viele Busse halten hier.",
+              "Vermeiden Sie das Warten an nicht überdachten Haltestellen."
+            ],
+            "hu": [
+              "A buszok esőben a forgalom miatt késhetnek.",
+              "Használja a 'Tallinja' alkalmazást a valós idejű adatokhoz.",
+              "Tartson magánál egy kompakt esernyőt.",
+              "Msida fontos csomópont, sok busz megáll itt.",
+              "Kerülje a várakozást a nem fedett megállókban."
+            ],
+            "ro": [
+              "Autobuzele pot întârzia pe ploaie din cauza traficului.",
+              "Folosiți aplicația 'Tallinja' pentru informații în timp real.",
+              "Aveți la voi o umbrelă compactă.",
+              "Msida este un nod important, multe autobuze opresc aici.",
+              "Evitați așteptarea în stațiile care nu sunt acoperite."
+            ],
+            "en": [
+              "Buses may be delayed during rain due to traffic congestion.",
+              "Use the 'Tallinja' app for real-time bus arrival info.",
+              "Keep a compact umbrella with you at all times.",
+              "Msida is a major hub, many bus routes stop here.",
+              "Avoid waiting at bus stops that are not sheltered."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den klaren Wintermorgen für eine Busfahrt zur Universität. \n\nDer Bastion Garden ist im Winter besonders grün und per Bus leicht erreichbar. \n\nAm Nachmittag lädt die Marina zu einem Spaziergang ein, bevor die Kühle des Abends einsetzt. \n\nGenießen Sie die beleuchtete Kirche am Abend, bevor Sie den Bus zurück nehmen.",
+            "hu": "Használja ki a tiszta téli reggelt egy buszos utazásra az egyetemre. \n\nA Bastion Garden télen különösen zöld, és busszal könnyen elérhető. \n\nDélután a Marina sétára hívogat, mielőtt beállna az esti hűvösség. \n\nÉlvezze a kivilágított templomot este, mielőtt visszabuszozna a szállására.",
+            "ro": "Profitați de dimineața senină de iarnă pentru o călătorie cu autobuzul la universitate. \n\nGrădina Bastionului este deosebit de verde iarna și ușor accesibilă cu autobuzul. \n\nDupă-amiaza, Marina vă invită la o plimbare înainte de răcoarea serii. \n\nBucurați-vă de biserica iluminată seara, înainte de a lua autobuzul înapoi.",
+            "en": "Take advantage of the clear winter morning for a bus trip to the university. \n\nThe Bastion Garden is especially green in winter and easily accessible by bus. \n\nIn the afternoon, the Marina invites you for a walk before the evening chill sets in. \n\nEnjoy the illuminated church in the evening before taking the bus back."
+          },
+          "stops": [
+            {
+              "name": "Msida Bus Stop (Arrival)",
+              "tip_5lang": {
+                "de": "Zentrale Haltestelle mit vielen Umsteigemöglichkeiten.",
+                "hu": "Központi megálló sok átszállási lehetőséggel.",
+                "ro": "Stație centrală cu multe opțiuni de transfer.",
+                "en": "Central stop with many transfer possibilities."
+              }
+            },
+            {
+              "name": "Msida Creek Promenade",
+              "tip_5lang": {
+                "de": "Frische Seeluft im Winter, ideal für einen kurzen Stopp.",
+                "hu": "Friss tengeri levegő télen, ideális egy rövid megállóra.",
+                "ro": "Aer marin proaspăt iarna, ideal pentru o scurtă oprire.",
+                "en": "Fresh sea air in winter, ideal for a short stop."
+              }
+            },
+            {
+              "name": "St. Joseph Parish Church",
+              "tip_5lang": {
+                "de": "In der Kirche ist es windstill und friedlich.",
+                "hu": "A templomban szélcsend és nyugalom honol.",
+                "ro": "În biserică nu bate vântul și este liniște.",
+                "en": "It is windless and peaceful inside the church."
+              }
+            },
+            {
+              "name": "University of Malta (by bus)",
+              "tip_5lang": {
+                "de": "Busse fahren im Winter nach regulärem Plan.",
+                "hu": "A buszok télen a rendes menetrend szerint járnak.",
+                "ro": "Autobuzele circulă după programul normal iarna.",
+                "en": "Buses run according to the regular schedule in winter."
+              }
+            },
+            {
+              "name": "Msida Bastion Historic Garden (by bus)",
+              "tip_5lang": {
+                "de": "Der Bus spart Ihnen den steilen Fußweg im Wind.",
+                "hu": "A busz megkíméli Önt a szeles, meredek gyalogúttól.",
+                "ro": "Autobuzul vă scutește de urcarea abruptă în vânt.",
+                "en": "The bus saves you the steep walk in the wind."
+              }
+            },
+            {
+              "name": "Msida Yacht Marina (walk)",
+              "tip_5lang": {
+                "de": "Busse fahren bis spät in den Abend Richtung Valletta.",
+                "hu": "A buszok késő estig járnak Valletta felé.",
+                "ro": "Autobuzele circulă până târziu spre Valletta.",
+                "en": "Buses run until late towards Valletta."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine Jacke, da es beim Warten an Haltestellen kühl ist.",
+              "Die Wintersonne ist angenehm für die Fahrt am Fenster.",
+              "Prüfen Sie den Fahrplan für die frühen Abendstunden.",
+              "Die Busse sind im Winter seltener überfüllt als im Sommer.",
+              "Msida ist der ideale Startpunkt für Ausflüge in alle Richtungen."
+            ],
+            "hu": [
+              "Viseljen kabátot, mert a megállókban várakozva hűvös lehet.",
+              "A téli napsütés kellemes az ablak melletti utazáshoz.",
+              "Ellenőrizze a menetrendet a kora esti órákra.",
+              "A buszok télen ritkábban zsúfoltak, mint nyáron.",
+              "Msida ideális kiindulópont minden irányú kiránduláshoz."
+            ],
+            "ro": [
+              "Purtați o jachetă, poate fi răcoare în timp ce așteptați în stații.",
+              "Soarele de iarnă este plăcut pentru călătoria la fereastră.",
+              "Verificați orarul pentru orele de seară devreme.",
+              "Autobuzele sunt mai puțin aglomerate iarna decât vara.",
+              "Msida este punctul de plecare ideal pentru excursii în toate direcțiile."
+            ],
+            "en": [
+              "Wear a jacket as it can be cool while waiting at stops.",
+              "Winter sun is pleasant for sitting by the window.",
+              "Check the schedule for early evening hours.",
+              "Buses are less crowded in winter than in summer.",
+              "Msida is an ideal starting point for trips in all directions."
+            ]
+          }
+        }
       }
     }
   }

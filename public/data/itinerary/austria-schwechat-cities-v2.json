@@ -302,6 +302,188 @@
           "Wear comfortable shoes as you'll be on your feet all day.",
           "Check the opening hours of the Railway Museum in advance."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens erkunden wir den Rathauspark unter dem Schirm. Mittags bietet das Eisenbahnmuseum trockenen Unterschlupf zwischen historischen Waggons. Nachmittags besuchen wir die Brauerei und das Schloss Rothmühle, wo die nasse Fassade besonders markant wirkt. Den Tag lassen wir in einem gemütlichen Gasthaus bei einem Schwechater Bier ausklingen, während es draußen stürmt.",
+            "hu": "Reggel esernyővel indulunk a Városháza parkból. Délben a Vasútmúzeum fedett csarnokai nyújtanak menedéket a gőzmozdonyok között. Délután a sörgyár és a Rothmühle kastély következik, utóbbi vizes falai mélabús hangulatot árasztanak. Az estét egy barátságos vendéglőben zárjuk egy korsó Schwechater mellett, menedéket lelvén az eső elől.",
+            "ro": "Dimineața începe cu o plimbare prin parcul primăriei sub umbrelă. La prânz, Muzeul Căilor Ferate oferă adăpost printre locomotivele vechi. După-amiaza vizităm fabrica de bere și castelul Rothmühle, a cărui fațadă umedă are un farmec aparte. Încheiem ziua într-un han local cu o bere de Schwechat, protejați de vremea de afară.",
+            "en": "Morning starts at the City Hall Park with an umbrella. At noon, the Railway Museum provides a dry shelter among historic steam engines. Afternoon includes the brewery and Rothmühle Castle, where the wet stone facade looks particularly striking. We finish the evening in a cozy local tavern with a pint of Schwechater, sheltered from the rain."
+          },
+          "stops": [
+            {
+              "name": "City Hall Park & City Hall",
+              "tip_5lang": {
+                "de": "Die Arkaden des Rathauses bieten guten Schutz vor plötzlichen Schauern.",
+                "hu": "A városháza árkádjai kiváló menedéket nyújtanak a hirtelen záporok elől.",
+                "ro": "Arcadele primăriei oferă o protecție bună împotriva averselor bruște.",
+                "en": "The city hall's arcades offer good protection from sudden rain showers."
+              }
+            },
+            {
+              "name": "St. Jacob's Parish Church",
+              "tip_5lang": {
+                "de": "Nutzen Sie die ruhige Atmosphäre im Inneren für eine trockene Pause.",
+                "hu": "Használja ki a belső tér nyugodt hangulatát egy száraz pihenőre.",
+                "ro": "Profitați de atmosfera liniștită din interior pentru o pauză uscată.",
+                "en": "Take advantage of the calm indoor atmosphere for a dry break."
+              }
+            },
+            {
+              "name": "Schwechat Railway Museum",
+              "tip_5lang": {
+                "de": "Die großen Hallen sind ideal, um dem Regen für längere Zeit zu entfliehen.",
+                "hu": "A nagy csarnokok ideálisak, hogy hosszabb időre elmeneküljünk az eső elől.",
+                "ro": "Halele mari sunt ideale pentru a scăpa de ploaie pentru o perioadă mai lungă.",
+                "en": "The large halls are ideal for escaping the rain for an extended period."
+              }
+            },
+            {
+              "name": "Schwechat Brewery",
+              "tip_5lang": {
+                "de": "Der Shop und die Verkostungsbereiche sind komplett überdacht.",
+                "hu": "A bolt és a kóstolóhelyiségek teljesen fedettek.",
+                "ro": "Magazinul și zonele de degustare sunt complet acoperite.",
+                "en": "The shop and tasting areas are completely covered."
+              }
+            },
+            {
+              "name": "Rothmühle Castle",
+              "tip_5lang": {
+                "de": "Der Innenhof bietet bei Nieselregen teilweise geschützte Bereiche.",
+                "hu": "A belső udvar szemerkélő esőben részben védett területeket kínál.",
+                "ro": "Curtea interioară oferă zone parțial protejate în caz de burniță.",
+                "en": "The inner courtyard offers partially sheltered areas during light drizzle."
+              }
+            },
+            {
+              "name": "Felmayer Garden",
+              "tip_5lang": {
+                "de": "Vorsicht auf den unbefestigten Wegen, diese können bei Regen matschig sein.",
+                "hu": "Vigyázat a burkolatlan utakon, esőben sárosak lehetnek.",
+                "ro": "Atenție pe potecile neasfaltate, acestea pot fi noroioase pe ploaie.",
+                "en": "Watch out on the unpaved paths, they can get muddy in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für die Parkwege.",
+              "Das Eisenbahnmuseum ist der beste Ort für eine lange Regenpause.",
+              "Die Brauerei bietet trockene Führungen an.",
+              "Nehmen Sie einen stabilen Schirm mit, da es oft windig ist."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a parki utakhoz.",
+              "A Vasútmúzeum a legjobb hely egy hosszú esőszünethez.",
+              "A sörgyár fedett túrákat kínál.",
+              "Vigyen magával erős esernyőt, mert gyakran fúj a szél."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru aleile din parc.",
+              "Muzeul Căilor Ferate este cel mai bun loc pentru o pauză lungă de ploaie.",
+              "Fabrica de bere oferă tururi în interior.",
+              "Luați o umbrelă rezistentă, deoarece vântul suflă adesea tare."
+            ],
+            "en": [
+              "Wear waterproof shoes for the park paths.",
+              "The Railway Museum is the best spot for a long rain break.",
+              "The brewery offers indoor guided tours.",
+              "Carry a sturdy umbrella as it is often windy here."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der frostige Morgen beginnt im Rathauspark. Das Eisenbahnmuseum bietet mittags Schutz vor der Kälte, auch wenn die Hallen kühl sind. Nachmittags bewundern wir das Schloss Rothmühle in der frühen Dämmerung. Da es bereits gegen 16:30 Uhr dunkel wird, beenden wir den Tag frühzeitig bei einem wärmenden Getränk in der Stadt.",
+            "hu": "A fagyos reggel a Városháza parkban indul. A Vasútmúzeum délben védelmet nyújt a szél elől, bár a csarnokok hűvösek maradhatnak. Délután a Rothmühle kastélyt csodáljuk meg a korai szürkületben. Mivel 16:30 körül sötétedik, a napot egy meleg ital mellett zárjuk a városközpontban.",
+            "ro": "Dimineața geroasă începe în parcul primăriei. Muzeul Căilor Ferate oferă protecție împotriva vântului la prânz, deși halele pot fi răcoroase. După-amiaza admirăm castelul Rothmühle în amurgul timpuriu. Deoarece se întunecă în jurul orei 16:30, încheiem ziua devreme cu o băutură caldă.",
+            "en": "The frosty morning starts at City Hall Park. The Railway Museum offers shelter from the wind at noon, though the halls remain cool. Afternoon finds us at Rothmühle Castle in the early twilight. As it gets dark around 16:30, we finish the day early with a warm drink in the city center."
+          },
+          "stops": [
+            {
+              "name": "City Hall Park & City Hall",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stellen auf den Gehwegen im Park.",
+                "hu": "Ügyeljen a jeges foltokra a park járdáin.",
+                "ro": "Atenție la porțiunile înghețate de pe trotuarele din parc.",
+                "en": "Watch out for icy patches on the park's walkways."
+              }
+            },
+            {
+              "name": "St. Jacob's Parish Church",
+              "tip_5lang": {
+                "de": "Ein kurzer Aufenthalt im Inneren hilft, sich etwas aufzuwärmen.",
+                "hu": "Egy rövid benti tartózkodás segít némileg felmelegedni.",
+                "ro": "O scurtă oprire în interior ajută la încălzirea ușoară.",
+                "en": "A short stay inside helps to warm up slightly."
+              }
+            },
+            {
+              "name": "Schwechat Railway Museum",
+              "tip_5lang": {
+                "de": "Tragen Sie warme Kleidung, da die Museumshallen nicht beheizt sind.",
+                "hu": "Öltözzön melegen, mert a múzeumi csarnokok nincsenek fűtve.",
+                "ro": "Purtați haine groase, deoarece halele muzeului nu sunt încălzite.",
+                "en": "Wear warm clothing as the museum halls are not heated."
+              }
+            },
+            {
+              "name": "Schwechat Brewery",
+              "tip_5lang": {
+                "de": "Der Shop ist ein guter Ort, um sich zwischen den Stationen aufzuwärmen.",
+                "hu": "A bolt jó hely a felmelegedésre az állomások között.",
+                "ro": "Magazinul este un loc bun pentru a vă încălzi între stații.",
+                "en": "The shop is a good place to warm up between stops."
+              }
+            },
+            {
+              "name": "Rothmühle Castle",
+              "tip_5lang": {
+                "de": "Bei Schnee bietet das Schloss eine wunderbare Fotokulisse.",
+                "hu": "Hóban a kastély csodálatos fotótémát nyújt.",
+                "ro": "În caz de zăpadă, castelul oferă un decor minunat pentru fotografii.",
+                "en": "In case of snow, the castle provides a wonderful photo backdrop."
+              }
+            },
+            {
+              "name": "Felmayer Garden",
+              "tip_5lang": {
+                "de": "Besuchen Sie den Garten vor 16:00 Uhr, um das restliche Tageslicht zu nutzen.",
+                "hu": "Látogasson el a kertbe 16:00 előtt, hogy kihasználja a maradék fényt.",
+                "ro": "Vizitați grădina înainte de ora 16:00 pentru a profita de lumina zilei.",
+                "en": "Visit the garden before 16:00 to catch the remaining daylight."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Dezember bereits gegen 16:15 Uhr unter.",
+              "Schichtenprinzip bei der Kleidung ist im Freilichtmuseum wichtig.",
+              "Prüfen Sie die Winteröffnungszeiten des Eisenbahnmuseums.",
+              "Warme Getränke gibt es in den Cafés nahe dem Hauptplatz."
+            ],
+            "hu": [
+              "A nap decemberben már 16:15 körül lemegy.",
+              "A réteges öltözködés fontos a szabadtéri múzeumban.",
+              "Ellenőrizze a Vasútmúzeum téli nyitvatartását.",
+              "Meleg italokat a főtér közeli kávézókban talál."
+            ],
+            "ro": [
+              "Soarele apune deja în jurul orei 16:15 în decembrie.",
+              "Îmbrăcămintea în straturi este esențială în muzeul în aer liber.",
+              "Verificați programul de iarnă al Muzeului Căilor Ferate.",
+              "Băuturi calde pot fi găsite în cafenelele de lângă piața centrală."
+            ],
+            "en": [
+              "The sun sets as early as 16:15 in December.",
+              "Layered clothing is essential for the open-air museum parts.",
+              "Check the winter opening hours of the Railway Museum.",
+              "Warm drinks are available in cafes near the main square."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -622,6 +804,206 @@
           "Schwechat is relatively flat, making it great for bike tours.",
           "Look for cycle paths and respect traffic rules."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen starten wir die Radtour am Rathaus. Die Wege zum Eisenbahnmuseum sind asphaltiert, aber Vorsicht bei nassen Schienen. Mittags pausieren wir länger im trockenen Museum. Die Fahrt zum Phönix Park erfordert gute Regenbekleidung. Den Abschluss bildet das Schloss Rothmühle, bevor wir die Räder sicher abstellen.",
+            "hu": "Az eső ellenére a Városházánál kezdjük a bringázást. A Vasútmúzeum felé vezető utak aszfaltozottak, de a vizes síneknél vigyázzunk. Délben hosszabb pihenőt tartunk a száraz múzeumban. A Phönix Park felé tartó út jó esőruházatot igényel. A napot a Rothmühle kastélynál zárjuk.",
+            "ro": "În ciuda ploii, începem tura cu bicicleta de la primărie. Drumurile spre muzeu sunt asfaltate, dar atenție la șinele umede. La prânz facem o pauză mai lungă în muzeul uscat. Drumul spre Phönix Park necesită echipament de ploaie bun. Încheiem la castelul Rothmühle.",
+            "en": "Despite the rain, we start the bike tour at the City Hall. Paths to the museum are paved, but be careful with wet tracks. At noon, we take a longer break in the dry museum. The ride to Phönix Park requires good rain gear. We finish at Rothmühle Castle."
+          },
+          "stops": [
+            {
+              "name": "City Hall Park & City Hall",
+              "tip_5lang": {
+                "de": "Vorsicht beim Losfahren auf nassem Kopfsteinpflaster.",
+                "hu": "Induláskor vigyázzon a vizes macskakövön.",
+                "ro": "Atenție la plecare pe pavajul umed.",
+                "en": "Be careful when starting off on wet cobblestones."
+              }
+            },
+            {
+              "name": "St. Jacob's Parish Church",
+              "tip_5lang": {
+                "de": "Es gibt überdachte Fahrradständer in der Nähe des Eingangs.",
+                "hu": "A bejárat közelében fedett kerékpártárolók találhatók.",
+                "ro": "Există rastele de biciclete acoperite lângă intrare.",
+                "en": "There are covered bike racks near the entrance."
+              }
+            },
+            {
+              "name": "Schwechat Brewery",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp, um die Regenjacke kurz zu lüften.",
+                "hu": "Használja ki a megállót az esőkabát rövid szellőztetésére.",
+                "ro": "Folosiți oprirea pentru a aerisi scurt jacheta de ploaie.",
+                "en": "Use the stop to briefly air out your rain jacket."
+              }
+            },
+            {
+              "name": "Schwechat Railway Museum",
+              "tip_5lang": {
+                "de": "Schieben Sie das Rad auf dem Gelände, Schienen sind extrem rutschig.",
+                "hu": "Tolja a biciklit a területen, a sínek rendkívül csúszósak.",
+                "ro": "Împingeți bicicleta în incintă, șinele sunt extrem de alunecoase.",
+                "en": "Push your bike on the premises; tracks are extremely slippery."
+              }
+            },
+            {
+              "name": "Phönix Park",
+              "tip_5lang": {
+                "de": "Die Wege können Pfützen bilden; Schutzbleche sind hier Gold wert.",
+                "hu": "Az utakon tócsák alakulhatnak ki; a sárvédő itt aranyat ér.",
+                "ro": "Pe poteci se pot forma bălți; aripile sunt esențiale aici.",
+                "en": "Paths may form puddles; mudguards are worth their weight in gold here."
+              }
+            },
+            {
+              "name": "Rothmühle Castle",
+              "tip_5lang": {
+                "de": "Sicherer Abstellplatz im Innenhof vorhanden.",
+                "hu": "Biztonságos tárolóhely a belső udvarban rendelkezésre áll.",
+                "ro": "Loc de parcare sigur disponibil în curtea interioară.",
+                "en": "Secure parking spot available in the inner courtyard."
+              }
+            },
+            {
+              "name": "Felmayer Garden",
+              "tip_5lang": {
+                "de": "Fahren Sie langsam auf dem feuchten Kiesboden.",
+                "hu": "Hajtson lassan a nedves kavicsos talajon.",
+                "ro": "Mergeți încet pe suprafața cu pietriș umed.",
+                "en": "Ride slowly on the damp gravel surface."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie das Überfahren von Schienen im spitzen Winkel.",
+              "Vollständige Regenmontur inklusive Überschuhen empfohlen.",
+              "Die Bremswirkung kann bei Nässe deutlich verzögert sein.",
+              "Nutzen Sie das Eisenbahnmuseum für eine trockene Pause."
+            ],
+            "hu": [
+              "Kerülje a síneken való áthajtást éles szögben.",
+              "Teljes esőfelszerelés, beleértve a kamáslit is, ajánlott.",
+              "A fékhatás nedves időben jelentősen késhet.",
+              "Használja a Vasútmúzeumot egy száraz pihenőre."
+            ],
+            "ro": [
+              "Evitați traversarea șinelor sub un unghi ascuțit.",
+              "Se recomandă echipament de ploaie complet, inclusiv huse de pantofi.",
+              "Eficiența frânării poate fi redusă semnificativ pe ud.",
+              "Folosiți Muzeul Căilor Ferate pentru o pauză uscată."
+            ],
+            "en": [
+              "Avoid crossing railway tracks at an acute angle.",
+              "Full rain gear including shoe covers is recommended.",
+              "Braking performance can be significantly delayed in the wet.",
+              "Utilize the Railway Museum for a dry break."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kalter Wintertag auf zwei Rädern durch Schwechat. Wir starten dick eingepackt am Rathaus. Mittags wärmen wir uns im Brauereishop kurz auf. Das Eisenbahnmuseum bietet Windschutz, aber wenig Wärme. Nachmittags erreichen wir den Phönix Park und das Schloss Rothmühle bei tiefstehender Wintersonne, bevor die Kälte gegen 16 Uhr zunimmt.",
+            "hu": "Hideg téli nap két keréken Schwechatban. Vastagon beöltözve indulunk a Városházától. Délben a sörgyár boltjában melegszünk fel kicsit. A Vasútmúzeum szélvédett, de nem fűtött. Délután a Phönix Parkhoz és a Rothmühle kastélyhoz érünk az alacsonyan járó téli napnál, mielőtt 16 óra után fokozódik a hideg.",
+            "ro": "O zi rece de iarnă pe două roți prin Schwechat. Începem bine înfofoliți de la primărie. La prânz ne încălzim puțin în magazinul fabricii de bere. Muzeul Căilor Ferate oferă protecție contra vântului. După-amiaza ajungem la Phönix Park și castelul Rothmühle sub soarele slab de iarnă.",
+            "en": "A cold winter day on two wheels through Schwechat. We start heavily bundled up at City Hall. At noon, we warm up briefly in the brewery shop. The Railway Museum offers wind protection but little heat. Afternoon reaches Phönix Park and Rothmühle Castle under the low winter sun before it gets colder after 16:00."
+          },
+          "stops": [
+            {
+              "name": "City Hall Park & City Hall",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenem Laub auf den Wegen.",
+                "hu": "Vigyázzon a fagyott levelekre az utakon.",
+                "ro": "Atenție la frunzele înghețate de pe poteci.",
+                "en": "Watch out for frozen leaves on the paths."
+              }
+            },
+            {
+              "name": "St. Jacob's Parish Church",
+              "tip_5lang": {
+                "de": "Kurzer Stopp zum Aufwärmen der Finger im Vorraum.",
+                "hu": "Rövid megálló az ujjak felmelegítésére az előtérben.",
+                "ro": "Scurtă oprire pentru încălzirea degetelor în vestibul.",
+                "en": "Short stop to warm up your fingers in the vestibule."
+              }
+            },
+            {
+              "name": "Schwechat Brewery",
+              "tip_5lang": {
+                "de": "Im Winter ist der Werksverkauf ein guter Wärmepunkt.",
+                "hu": "Télen a gyári bolt jó melegedőpont.",
+                "ro": "Iarna, magazinul fabricii este un punct bun de încălzire.",
+                "en": "In winter, the factory shop is a good warm-up point."
+              }
+            },
+            {
+              "name": "Schwechat Railway Museum",
+              "tip_5lang": {
+                "de": "In den Metallhallen ist es oft kälter als draußen; Handschuhe anlassen.",
+                "hu": "A fémcsarnokokban gyakran hidegebb van, mint kint; hagyja fent a kesztyűt.",
+                "ro": "În halele metalice e adesea mai rece decât afară; păstrați mănușile.",
+                "en": "It's often colder in the metal halls than outside; keep your gloves on."
+              }
+            },
+            {
+              "name": "Phönix Park",
+              "tip_5lang": {
+                "de": "Die Wege können bei Frost sehr hart und uneben sein.",
+                "hu": "A fagyott utak nagyon kemények és egyenetlenek lehetnek.",
+                "ro": "Potecile pot fi foarte dure și denivelate din cauza înghețului.",
+                "en": "Paths can be very hard and uneven in frosty conditions."
+              }
+            },
+            {
+              "name": "Rothmühle Castle",
+              "tip_5lang": {
+                "de": "Das Schloss wirkt im Winterlicht besonders eindrucksvoll.",
+                "hu": "A kastély a téli fényben különösen hatásos.",
+                "ro": "Castelul arată deosebit de impresionant în lumina iernii.",
+                "en": "The castle looks particularly impressive in the winter light."
+              }
+            },
+            {
+              "name": "Felmayer Garden",
+              "tip_5lang": {
+                "de": "Planen Sie das Ende der Tour vor Einbruch der Dunkelheit (ca. 16:30).",
+                "hu": "Tervezze a túra végét sötétedés előtt (kb. 16:30).",
+                "ro": "Planificați finalul turei înainte de lăsarea întunericului (aprox. 16:30).",
+                "en": "Plan the end of your tour before dark (approx. 16:30)."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme, winddichte Handschuhe sind zwingend erforderlich.",
+              "Akkus von E-Bikes entladen sich bei Kälte schneller.",
+              "Beleuchtung am Rad ist wegen der frühen Dämmerung wichtig.",
+              "Vermeiden Sie schattige Waldstücke wegen Glatteisgefahr."
+            ],
+            "hu": [
+              "Meleg, szélálló kesztyű kötelező.",
+              "Az e-bike akkumulátorok hidegben gyorsabban merülnek.",
+              "A világítás fontos a korai szürkület miatt.",
+              "Kerülje az árnyékos erdős részeket a jegesedés veszélye miatt."
+            ],
+            "ro": [
+              "Mănușile groase și rezistente la vânt sunt obligatorii.",
+              "Bateriile bicicletelor electrice se descarcă mai repede la ger.",
+              "Luminile sunt esențiale din cauza amurgului timpuriu.",
+              "Evitați zonele împădurite umbrite din cauza riscului de polei."
+            ],
+            "en": [
+              "Warm, windproof gloves are mandatory.",
+              "E-bike batteries discharge faster in the cold.",
+              "Lights on the bike are essential due to early twilight.",
+              "Avoid shaded wooded sections due to ice hazards."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -894,6 +1276,170 @@
           "Use the cluster strategy to minimize parking fees.",
           "Check parking options at each cluster starting point in advance."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Bequeme Fahrt trotz Regen durch Schwechat. Wir starten am Schloss Rothmühle und parken direkt am Eingang. Mittags geht es zum Rathaus, wobei die kurzen Wege zum Auto ideal sind. Das Eisenbahnmuseum und die Brauerei bilden den Abschluss, wo wir immer trockene Parkmöglichkeiten in der Nähe finden. Ein entspannter Tag ohne nass zu werden.",
+            "hu": "Kényelmes autózás Schwechatban az eső ellenére. A Rothmühle kastélynál kezdünk, közvetlenül a bejáratnál parkolva. Délben a Városházához megyünk, az autóhoz vezető rövid utak ideálisak. A Vasútmúzeum és a sörgyár zárja a napot, ahol mindig találunk száraz parkolóhelyet a közelben. Pihentető nap anélkül, hogy megáznánk.",
+            "ro": "Călătorie confortabilă prin Schwechat în ciuda ploii. Începem la castelul Rothmühle și parcăm chiar la intrare. La prânz mergem spre primărie, distanțele scurte până la mașină fiind ideale. Muzeul Căilor Ferate și fabrica de bere încheie ziua, unde găsim parcări aproape. O zi relaxată fără a ne uda.",
+            "en": "Comfortable drive through Schwechat despite the rain. We start at Rothmühle Castle, parking right at the entrance. At noon, we head to the City Hall; the short distances to the car are ideal. The Railway Museum and Brewery conclude the day, with dry parking spots always nearby. A relaxed day without getting wet."
+          },
+          "stops": [
+            {
+              "name": "Rothmühle Castle (Cluster A)",
+              "tip_5lang": {
+                "de": "Parken Sie direkt auf dem Schlossgelände, um den Fußweg zu minimieren.",
+                "hu": "Parkoljon közvetlenül a kastély területén a gyalogút minimalizálása érdekében.",
+                "ro": "Parcați chiar în incinta castelului pentru a minimiza mersul pe jos.",
+                "en": "Park directly on the castle grounds to minimize the walk."
+              }
+            },
+            {
+              "name": "Felmayer Garden (Cluster A)",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz an der Felmayer-Halle.",
+                "hu": "Használja a Felmayer-Halle melletti parkolót.",
+                "ro": "Folosiți parcarea de la Felmayer-Halle.",
+                "en": "Use the parking lot at Felmayer-Halle."
+              }
+            },
+            {
+              "name": "City Hall & Parish Church (Cluster B)",
+              "tip_5lang": {
+                "de": "Kurzparkzonen beachten; Parkgaragen sind bei Regen trockener.",
+                "hu": "Ügyeljen a rövid távú parkolási zónákra; a parkolóházak szárazabbak.",
+                "ro": "Atenție la zonele de parcare pe termen scurt; garajele sunt mai uscate.",
+                "en": "Note short-term parking zones; parking garages are drier in rain."
+              }
+            },
+            {
+              "name": "Railway Museum (Cluster C)",
+              "tip_5lang": {
+                "de": "Großer befestigter Parkplatz direkt vor dem Museumseingang.",
+                "hu": "Nagy, szilárd burkolatú parkoló közvetlenül a múzeum bejárata előtt.",
+                "ro": "Parcare mare amenajată chiar în fața intrării în muzeu.",
+                "en": "Large paved parking lot directly in front of the museum entrance."
+              }
+            },
+            {
+              "name": "Schwechat Brewery (Cluster C)",
+              "tip_5lang": {
+                "de": "Der Kundenparkplatz ist bei Regen meist wenig ausgelastet.",
+                "hu": "A vásárlói parkoló esőben általában kevésbé foglalt.",
+                "ro": "Parcarea pentru clienți este de obicei liberă pe ploaie.",
+                "en": "The customer parking lot is usually under-occupied in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Parkplätze so nah wie möglich an den Eingängen.",
+              "Achten Sie auf Pfützen in den unbefestigten Parkbereichen.",
+              "Die Sicht kann bei starkem Regen in der Stadt eingeschränkt sein.",
+              "Lassen Sie den Schirm griffbereit im Auto."
+            ],
+            "hu": [
+              "Használja a bejáratokhoz legközelebbi parkolókat.",
+              "Ügyeljen a tócsákra a burkolatlan parkolóhelyeken.",
+              "Erős esőben a látótávolság korlátozott lehet a városban.",
+              "Tartsa az esernyőt kéznél az autóban."
+            ],
+            "ro": [
+              "Folosiți parcările cât mai aproape de intrări.",
+              "Atenție la bălțile din zonele de parcare neasfaltate.",
+              "Vizibilitatea poate fi redusă în oraș pe ploaie torențială.",
+              "Țineți umbrela la îndemână în mașină."
+            ],
+            "en": [
+              "Use parking spots as close to the entrances as possible.",
+              "Watch out for puddles in unpaved parking areas.",
+              "Visibility can be limited in the city during heavy rain.",
+              "Keep your umbrella handy in the car."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliche Stadttour mit dem Auto. Wir genießen die Sitzheizung zwischen den Stopps. Vom Schloss Rothmühle geht es zum Rathaus, wobei wir die weihnachtliche Beleuchtung bewundern. Mittags ist das Eisenbahnmuseum ein frostiges Highlight. Wir beenden die Tour an der Brauerei, wenn die Wintersonne früh hinter den Industrieanlagen verschwindet.",
+            "hu": "Téli városnézés autóval. Élvezzük az ülésfűtést a megállók között. A Rothmühle kastélytól a Városháza felé vesszük az irányt, megcsodálva a karácsonyi fényeket. Délben a Vasútmúzeum fagyos fénypontja a napnak. A túrát a sörgyárnál fejezzük be, amikor a téli nap korán eltűnik az ipari létesítmények mögött.",
+            "ro": "Tur de iarnă cu mașina prin oraș. Ne bucurăm de încălzirea în scaune între opriri. De la castelul Rothmühle mergem spre primărie, admirând luminile de Crăciun. La prânz, Muzeul Căilor Ferate este punctul culminant. Încheiem la fabrica de bere când soarele apune devreme.",
+            "en": "Winter city tour by car. We enjoy the heated seats between stops. From Rothmühle Castle, we head to the City Hall, admiring the Christmas lights. At noon, the Railway Museum is a frosty highlight. We finish the tour at the brewery as the winter sun disappears early behind the industrial plants."
+          },
+          "stops": [
+            {
+              "name": "Rothmühle Castle (Cluster A)",
+              "tip_5lang": {
+                "de": "Vorsicht bei der Einfahrt, die Wege können glatt sein.",
+                "hu": "Vigyázzon a behajtásnál, az utak csúszósak lehetnek.",
+                "ro": "Atenție la intrare, drumurile pot fi alunecoase.",
+                "en": "Be careful when entering; the paths can be slippery."
+              }
+            },
+            {
+              "name": "Felmayer Garden (Cluster A)",
+              "tip_5lang": {
+                "de": "Im Winter sind meist ausreichend Parkplätze vorhanden.",
+                "hu": "Télen általában elegendő parkolóhely áll rendelkezésre.",
+                "ro": "Iarna sunt de obicei suficiente locuri de parcare disponibile.",
+                "en": "In winter, there are usually plenty of parking spots available."
+              }
+            },
+            {
+              "name": "City Hall & Parish Church (Cluster B)",
+              "tip_5lang": {
+                "de": "Die Parkhäuser bieten Schutz vor Frost für das Auto.",
+                "hu": "A parkolóházak védelmet nyújtanak az autónak a fagy ellen.",
+                "ro": "Parcările etajate oferă protecție împotriva înghețului pentru mașină.",
+                "en": "Parking garages offer protection from frost for the car."
+              }
+            },
+            {
+              "name": "Railway Museum (Cluster C)",
+              "tip_5lang": {
+                "de": "Der Parkplatz wird bei Schnee geräumt, aber Vorsicht vor Restglätte.",
+                "hu": "A parkolót hó esetén takarítják, de vigyázzon a maradványcsúszásra.",
+                "ro": "Parcarea este deszăpezită, dar atenție la poleiul rezidual.",
+                "en": "The parking lot is cleared of snow, but watch out for residual ice."
+              }
+            },
+            {
+              "name": "Schwechat Brewery (Cluster C)",
+              "tip_5lang": {
+                "de": "Kurze Wege vom Parkplatz in den beheizten Shop.",
+                "hu": "Rövid út a parkolótól a fűtött boltba.",
+                "ro": "Distanță scurtă de la parcare la magazinul încălzit.",
+                "en": "Short walk from the parking lot to the heated shop."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in Österreich ab November Pflicht.",
+              "Heizung rechtzeitig einschalten für die kurzen Etappen.",
+              "Eiskratzer und Besen sollten griffbereit sein.",
+              "Achten Sie auf Streusalz, das die Wege rutschig machen kann."
+            ],
+            "hu": [
+              "Ausztriában novembertől kötelező a téli gumi.",
+              "Kapcsolja be időben a fűtést a rövid szakaszokhoz.",
+              "A jégkaparónak és a seprűnek kéznél kell lennie.",
+              "Ügyeljen az útszóró sóra, amely csúszóssá teheti az utakat."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii în Austria din noiembrie.",
+              "Porniți încălzirea din timp pentru etapele scurte.",
+              "Răzuitoarea de gheață și peria trebuie să fie la îndemână.",
+              "Atenție la sarea de deszăpezire, care poate face drumul alunecos."
+            ],
+            "en": [
+              "Winter tires are mandatory in Austria from November.",
+              "Turn on the heater in time for the short stages.",
+              "Ice scraper and brush should be within reach.",
+              "Watch out for road salt, which can make paths slippery."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1166,6 +1712,170 @@
           "Download a timetable app to keep track of bus and train times.",
           "A day pass is often cheaper than single tickets."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit Bahn und Bus trocken durch Schwechat. Wir kommen am Bahnhof an und nutzen die Unterführungen. Das Eisenbahnmuseum ist nur einen kurzen Fußweg entfernt. Mittags bringen uns Busse zum Rathaus und zur Brauerei. Zum Schloss Rothmühle nutzen wir die lokalen Linien, um lange Wege im Regen zu vermeiden. Ein Tag mit optimaler Nutzung des ÖPNV.",
+            "hu": "Vonattal és busszal szárazon Schwechatban. A vasútállomásra érkezünk, és az aluljárókat használjuk. A Vasútmúzeum csak rövid sétára van. Délben buszok visznek a Városházához és a sörgyárhoz. A Rothmühle kastélyhoz helyi járatokat veszünk igénybe, elkerülve a hosszú gyaloglást az esőben.",
+            "ro": "Cu trenul și autobuzul prin Schwechat, fără a ne uda. Sosim la gară și folosim pasajele subterane. Muzeul Căilor Ferate este la o scurtă plimbare. La prânz, autobuzele ne duc la primărie și la fabrica de bere. Folosim liniile locale pentru castelul Rothmühle.",
+            "en": "By train and bus through Schwechat while staying dry. We arrive at the station and use the underpasses. The Railway Museum is just a short walk away. At noon, buses take us to the City Hall and Brewery. We use local lines for Rothmühle Castle to avoid long walks in the rain."
+          },
+          "stops": [
+            {
+              "name": "Schwechat Train Station (Arrival)",
+              "tip_5lang": {
+                "de": "Warten Sie in der Bahnhofshalle, bis der Regen nachlässt.",
+                "hu": "Várjon a vasútállomás csarnokában, amíg alábbhagy az eső.",
+                "ro": "Așteptați în holul gării până când se potolește ploaia.",
+                "en": "Wait in the station hall until the rain lets up."
+              }
+            },
+            {
+              "name": "Schwechat Railway Museum (Cluster A)",
+              "tip_5lang": {
+                "de": "Der Weg vom Bahnhof ist kurz, aber ungeschützt; Schirm bereithalten.",
+                "hu": "Az út az állomástól rövid, de nem fedett; tartsa készenlétben az esernyőt.",
+                "ro": "Drumul de la gară este scurt, dar neprotejat; aveți umbrela pregătită.",
+                "en": "The walk from the station is short but unsheltered; have an umbrella ready."
+              }
+            },
+            {
+              "name": "City Hall & Parish Church (Cluster B)",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle liegt direkt vor dem Rathauspark.",
+                "hu": "A buszmegálló közvetlenül a Városháza park előtt található.",
+                "ro": "Stația de autobuz este chiar în fața parcului primăriei.",
+                "en": "The bus stop is located directly in front of the City Hall Park."
+              }
+            },
+            {
+              "name": "Schwechat Brewery (Cluster B)",
+              "tip_5lang": {
+                "de": "Mehrere Linien halten in fußläufiger Distanz zur Brauerei.",
+                "hu": "Több járat is megáll sétatávolságra a sörgyártól.",
+                "ro": "Mai multe linii opresc la mică distanță de mers pe jos de fabrică.",
+                "en": "Several lines stop within walking distance of the brewery."
+              }
+            },
+            {
+              "name": "Rothmühle Castle (Cluster C)",
+              "tip_5lang": {
+                "de": "Nutzen Sie die App 'VOR AnachB' für Echtzeit-Infos bei Wetterverzögerungen.",
+                "hu": "Használja a 'VOR AnachB' alkalmazást a valós idejű infókért késések esetén.",
+                "ro": "Folosiți aplicația „VOR AnachB” pentru info în timp real în caz de întârzieri.",
+                "en": "Use the 'VOR AnachB' app for real-time info during weather delays."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Bahnhöfe bieten guten Schutz vor Wind und Regen.",
+              "Fahrpläne können bei extremem Wetter leicht variieren.",
+              "Die Kurzstreckenbusse verkehren regelmäßig im Stadtgebiet.",
+              "Ein Tagesticket lohnt sich bei mehreren Fahrten im Regen."
+            ],
+            "hu": [
+              "A vasútállomások jó védelmet nyújtanak a szél és eső ellen.",
+              "A menetrendek szélsőséges időjárás esetén kismértékben változhatnak.",
+              "A rövid távú buszok rendszeresen közlekednek a városban.",
+              "A napijegy megéri, ha többször utazunk az esőben."
+            ],
+            "ro": [
+              "Gările oferă o protecție bună împotriva vântului și ploii.",
+              "Orarele pot varia ușor în caz de vreme extremă.",
+              "Autobuzele locale circulă regulat în zona urbană.",
+              "Un bilet de o zi merită dacă faceți mai multe călătorii pe ploaie."
+            ],
+            "en": [
+              "Train stations offer good protection from wind and rain.",
+              "Schedules may vary slightly during extreme weather.",
+              "Short-distance buses run regularly within the city area.",
+              "A day ticket is worth it if you take multiple trips in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterreise mit öffentlichen Verkehrsmitteln. Wir nutzen die beheizten Züge der S7 zur Anreise. Mittags wärmen wir uns in den Wartekojen der Bushaltestellen auf. Das Eisenbahnmuseum ist ein frostiger Stopp, bevor wir mit dem Bus zum stimmungsvoll beleuchteten Schloss Rothmühle fahren. Der Tag endet am gut beleuchteten Bahnhof für die Rückreise im Warmen.",
+            "hu": "Téli utazás tömegközlekedéssel. Az S7 fűtött vonatait használjuk az érkezéshez. Délben a buszmegállók váróiban melegszünk fel. A Vasútmúzeum fagyos állomás, mielőtt busszal a hangulatosan kivilágított Rothmühle kastélyhoz utazunk. A nap a jól megvilágított állomáson ér véget a melegben való hazautazáshoz.",
+            "ro": "Călătorie de iarnă cu transportul public. Folosim trenurile încălzite S7. La prânz ne încălzim în refugiile stațiilor de autobuz. Muzeul Căilor Ferate este o oprire geroasă, înainte de a merge cu autobuzul la castelul Rothmühle. Ziua se încheie la gara bine iluminată.",
+            "en": "Winter journey by public transport. We use the heated S7 trains for arrival. At noon, we warm up in the bus stop shelters. The Railway Museum is a frosty stop before we take the bus to the atmospheric Rothmühle Castle. The day ends at the well-lit station for a warm return journey."
+          },
+          "stops": [
+            {
+              "name": "Schwechat Train Station (Arrival)",
+              "tip_5lang": {
+                "de": "Die beheizten Warteräume im Bahnhof sind ideal zum Aufwärmen.",
+                "hu": "Az állomás fűtött várótermei ideálisak a felmelegedésre.",
+                "ro": "Sălile de așteptare încălzite din gară sunt ideale pentru încălzire.",
+                "en": "The heated waiting rooms in the station are ideal for warming up."
+              }
+            },
+            {
+              "name": "Schwechat Railway Museum (Cluster A)",
+              "tip_5lang": {
+                "de": "Beachten Sie die eingeschränkten Winter-Fahrpläne der Zubringerbusse.",
+                "hu": "Ügyeljen a csatlakozó buszok korlátozott téli menetrendjére.",
+                "ro": "Atenție la orarul de iarnă restricționat al autobuzelor de legătură.",
+                "en": "Note the restricted winter schedules of the connecting buses."
+              }
+            },
+            {
+              "name": "City Hall & Parish Church (Cluster B)",
+              "tip_5lang": {
+                "de": "Die Beleuchtung im Rathauspark ist im Winter sehr stimmungsvoll.",
+                "hu": "A Városháza park kivilágítása télen nagyon hangulatos.",
+                "ro": "Iluminatul din parcul primăriei este foarte pitoresc iarna.",
+                "en": "The lighting in the City Hall Park is very atmospheric in winter."
+              }
+            },
+            {
+              "name": "Schwechat Brewery (Cluster B)",
+              "tip_5lang": {
+                "de": "Warme Kleidung für die Wartezeiten an den Haltestellen einplanen.",
+                "hu": "Tervezzen meleg ruházatot a megállókban való várakozáshoz.",
+                "ro": "Planificați haine groase pentru timpul de așteptare în stații.",
+                "en": "Plan for warm clothing for waiting times at the stops."
+              }
+            },
+            {
+              "name": "Rothmühle Castle (Cluster C)",
+              "tip_5lang": {
+                "de": "Letzte Rückfahrt vor 17:00 Uhr sichert Tageslicht am Bahnhof.",
+                "hu": "Az utolsó visszaindulás 17:00 előtt biztosítja a fényt az állomáson.",
+                "ro": "Ultima plecare înainte de ora 17:00 asigură lumină la gară.",
+                "en": "The last return trip before 17:00 ensures daylight at the station."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Züge der S7 verkehren halbstündlich nach Wien und zum Flughafen.",
+              "Die Wartehallen am Bahnhof sind im Winter beheizt.",
+              "Nutzen Sie die VOR-Auskunft für wetterbedingte Ausfälle.",
+              "Tragen Sie Schuhe mit gutem Profil für glatte Bahnsteige."
+            ],
+            "hu": [
+              "Az S7-es vonatok félóránként közlekednek Bécs és a repülőtér felé.",
+              "Az állomási várótermek télen fűtöttek.",
+              "Használja a VOR-tájékoztatást az időjárás miatti járatkimaradásokhoz.",
+              "Viseljen jó profilú cipőt a csúszós peronok miatt."
+            ],
+            "ro": [
+              "Trenurile S7 circulă la fiecare jumătate de oră spre Viena și aeroport.",
+              "Sălile de așteptare din gară sunt încălzite iarna.",
+              "Folosiți info VOR pentru anulări cauzate de vreme.",
+              "Purtați pantofi cu talpă aderentă pentru peroanele alunecoase."
+            ],
+            "en": [
+              "S7 trains run every half hour to Vienna and the airport.",
+              "Station waiting halls are heated in winter.",
+              "Check VOR info for weather-related cancellations.",
+              "Wear shoes with good tread for slippery platforms."
+            ]
+          }
+        }
       }
     }
   }

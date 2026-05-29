@@ -286,6 +286,214 @@
         "en": [
           "Wear comfortable shoes as you will be doing a lot of walking. Bring a reusable water bottle. Many cafes offer free refills."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt auf dem Stortorget unter Regenschirmen, gefolgt von der schützenden Stille der roten Kathedrale. Mittags bieten das Småland- und Glasmuseum eine ausgedehnte, trockene Flucht in die Kulturgeschichte. Am Nachmittag vertiefen wir uns im Haus der Auswanderer in bewegende Schicksale. Der Tag endet mit einem stürmischen Blick auf den See und der gemütlichen Ankunft am Schloss Teleborg.",
+            "hu": "Reggel a főtéren az esernyők alatt indul a nap, majd a székesegyház vörös falai között találunk csendes menedéket. Délben az üvegmúzeum és a Småland Múzeum kínál hosszú, száraz programot a zuhogó esőben. Délután az Emigránsok Házának tárlatait böngésszük, majd a tóparti szélben sétálunk el a Teleborg-kastélyig, ahol egy forró kávé mellett zárjuk a napot.",
+            "ro": "Dimineața începe în piața principală sub umbrele, urmată de liniștea protectoare a catedralei roșii. La prânz, muzeele de sticlă și Småland oferă un refugiu uscat și cultural. După-amiaza explorăm Casa Emigranților, feriți de ploaie. Încheiem ziua cu o plimbare scurtă pe malul lacului Helgasjön și o vizită la castelul Teleborg, unde atmosfera devine magică în ciuda vremii umede.",
+            "en": "Morning starts at the main square under umbrellas, followed by the dry sanctuary of the red-brick cathedral. Midday is spent exploring the Småland and Glass Museums, perfect for escaping the Swedish rain. In the afternoon, the House of Emigrants provides a moving indoor experience. We finish with a brisk walk by the lake to Teleborg Castle, where the grey skies add a dramatic touch to the stone walls."
+          },
+          "stops": [
+            {
+              "name": "Växjö Main Square",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den Markisen der Cafés am Platz.",
+                "hu": "Használja a tér körüli kávézók előtetőit az eső ellen.",
+                "ro": "Căutați adăpost sub copertinele cafenelelor din piață.",
+                "en": "Seek shelter under the cafe awnings around the square."
+              }
+            },
+            {
+              "name": "Växjö Cathedral",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Regenpause trocken zu verbringen.",
+                "hu": "Tökéletes helyszín egy száraz pihenőre az esőben.",
+                "ro": "Locul ideal pentru o pauză uscată în timpul ploii.",
+                "en": "A perfect spot for a dry break during a downpour."
+              }
+            },
+            {
+              "name": "Linné Park",
+              "tip_5lang": {
+                "de": "Wählen Sie die asphaltierten Wege, um Matsch zu vermeiden.",
+                "hu": "Válassza az aszfaltozott utakat a sár elkerülése érdekében.",
+                "ro": "Alegeți potecile asfaltate pentru a evita noroiul.",
+                "en": "Stick to the paved paths to avoid the muddy grass."
+              }
+            },
+            {
+              "name": "Småland Museum & Swedish Glass Museum",
+              "tip_5lang": {
+                "de": "Große Garderobe vorhanden – perfekt zum Trocknen der Jacken.",
+                "hu": "Tágas ruhatár áll rendelkezésre a vizes kabátoknak.",
+                "ro": "Garderobă spațioasă disponibilă pentru uscarea hainelor.",
+                "en": "Large cloakroom available – perfect for drying your gear."
+              }
+            },
+            {
+              "name": "House of Emigrants",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe im Archiv, während es draußen regnet.",
+                "hu": "Élvezze az archívum nyugalmát, amíg kint esik az eső.",
+                "ro": "Bucurați-vă de liniștea arhivelor în timp ce plouă afară.",
+                "en": "Enjoy the quiet of the archives while it rains outside."
+              }
+            },
+            {
+              "name": "Walk by Lake Helgasjön",
+              "tip_5lang": {
+                "de": "Wasserdichte Schuhe sind für den ufernahen Weg nötig.",
+                "hu": "Vízálló cipő szükséges a tóparti sétányhoz.",
+                "ro": "Încălțămintea impermeabilă este necesară pe malul lacului.",
+                "en": "Waterproof shoes are essential for the lakeside path."
+              }
+            },
+            {
+              "name": "Teleborg Castle",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich im Schlossrestaurant bei einem Tee auf.",
+                "hu": "Melegedjen fel egy teával a kastély éttermében.",
+                "ro": "Încălziți-vă cu un ceai la restaurantul castelului.",
+                "en": "Warm up with a hot tea at the castle restaurant."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Växjö ist die grünste Stadt, aber Regenponchos sind hier ein Muss.",
+              "Die Museen liegen nah beieinander, ideal für kurze Sprints im Regen.",
+              "Nutzen Sie die Cathedral als architektonischen Regenschutz.",
+              "Einige Cafés am Stortorget bieten kostenlose Schirmleihe an.",
+              "Die Buslinie 1 verbindet das Zentrum schnell mit Teleborg."
+            ],
+            "hu": [
+              "Växjö Európa legzöldebb városa, de az esőponchó kötelező kellék.",
+              "A múzeumok közel vannak egymáshoz, így kevés időt tölt a szabadban.",
+              "A katedrális belseje kiváló menedék a nagyobb zuhék idején.",
+              "Számos kávézó kínál 'fika' szünetet, ami esőben a legjobb program.",
+              "Vízálló cipő nélkül ne induljon el a Helgasjön-tó partjára."
+            ],
+            "ro": [
+              "Växjö este cel mai verde oraș, dar pelerina de ploaie este obligatorie.",
+              "Muzeele sunt grupate, minimizând expunerea la ploaie între ele.",
+              "Interiorul catedralei este un refugiu excelent în timpul rafalelor.",
+              "Multe cafenele oferă umbrele de împrumut pentru clienți.",
+              "Lacul Helgasjön poate fi vântos; purtați o jachetă rezistentă."
+            ],
+            "en": [
+              "Växjö is Europe's greenest city, but a rain poncho is a local must.",
+              "The museums are clustered together, perfect for short dashes in the rain.",
+              "The Cathedral interior is a great sanctuary during heavy downpours.",
+              "Take advantage of the 'fika' culture to dry off in cozy cafes.",
+              "Lakeside paths can be slippery; wear shoes with good grip."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der frostige Morgen am Stortorget wird durch eine heiße Fika belebt. In der Kathedrale bewundern wir das Lichtspiel auf dem roten Stein, bevor wir uns im warmen Glasmuseum aufwärmen. Nachmittags sinkt die Sonne früh über dem Linné-Park, was den Weg zum Schloss Teleborg in ein blaues Winterlicht taucht. Der Abend endet vor dem beleuchteten Schloss, während der Frost die Stadt Växjö fest im Griff hat.",
+            "hu": "A fagyos reggel a főtéren egy forró kávéval indul. A katedrális vörös téglái között melegedünk, majd az üvegmúzeum kemencéinek közelsége ad hőt a téli hidegben. Délután a korai naplemente már a Linné-park felett ér minket, így a Teleborg-kastélyt már ünnepi kivilágításban pillantjuk meg. A napot a befagyott tó látványa és a kastély esti fényei zárják.",
+            "ro": "Dimineața geroasă în piață necesită o oprire pentru o cafea fierbinte. Admirăm catedrala, apoi ne încălzim în muzeul de sticlă, unde arta transpare prin căldură. După-amiaza, soarele apune devreme peste parcul Linné, transformând drumul spre castelul Teleborg într-o poveste de iarnă. Încheiem ziua sub luminile castelului, în aerul rece și curat al Suediei.",
+            "en": "The frosty morning at the main square is best started with a hot fika. We visit the red cathedral, then retreat to the warmth of the Glass Museum as temperatures drop. In the afternoon, the early winter sunset paints the sky purple over Linné Park. We reach the illuminated Teleborg Castle just in time to see its towers glow against the dark, snowy Swedish landscape."
+          },
+          "stops": [
+            {
+              "name": "Växjö Main Square",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf dem Kopfsteinpflaster.",
+                "hu": "Vigyázzon a jegesedésre a macskaköves burkolaton.",
+                "ro": "Atenție la porțiunile cu gheață de pe pavaj.",
+                "en": "Watch out for icy patches on the cobblestones."
+              }
+            },
+            {
+              "name": "Växjö Cathedral",
+              "tip_5lang": {
+                "de": "In den Wintermonaten oft stimmungsvoll beleuchtet.",
+                "hu": "A téli hónapokban gyakran hangulatos díszkivilágítást kap.",
+                "ro": "Adesea iluminată spectaculos în lunile de iarnă.",
+                "en": "Often beautifully illuminated during winter months."
+              }
+            },
+            {
+              "name": "Linné Park",
+              "tip_5lang": {
+                "de": "Der Park ist im Winter ein schöner Ort für Fotos im Schnee.",
+                "hu": "A park télen gyönyörű helyszín a havas fotókhoz.",
+                "ro": "Parcul este un loc superb pentru fotografii în zăpadă.",
+                "en": "The park is a beautiful spot for snowy photos in winter."
+              }
+            },
+            {
+              "name": "Småland Museum & Swedish Glass Museum",
+              "tip_5lang": {
+                "de": "Genießen Sie die Wärme im Inneren – idealer Winterstopp.",
+                "hu": "Élvezze a benti meleget – ideális téli megálló.",
+                "ro": "Bucurați-vă de căldura din interior – oprire ideală iarna.",
+                "en": "Enjoy the cozy warmth inside – an ideal winter stop."
+              }
+            },
+            {
+              "name": "House of Emigrants",
+              "tip_5lang": {
+                "de": "Prüfen Sie die kürzeren Winteröffnungszeiten vorab.",
+                "hu": "Ellenőrizze előre a rövidebb téli nyitvatartást.",
+                "ro": "Verificați programul scurt de iarnă înainte de vizită.",
+                "en": "Check the shorter winter opening hours in advance."
+              }
+            },
+            {
+              "name": "Walk by Lake Helgasjön",
+              "tip_5lang": {
+                "de": "Vorsicht, der Wind vom See kann sehr schneidend sein.",
+                "hu": "Vigyázat, a tóról fújó szél metszően hideg lehet.",
+                "ro": "Atenție, vântul de pe lac poate fi foarte tăios.",
+                "en": "Be careful, the wind from the lake can be biting cold."
+              }
+            },
+            {
+              "name": "Teleborg Castle",
+              "tip_5lang": {
+                "de": "Besuchen Sie das Schloss zur blauen Stunde für beste Fotos.",
+                "hu": "A 'kék órában' látogasson el ide a legjobb fotókért.",
+                "ro": "Vizitați castelul la 'ora albastră' pentru poze superbe.",
+                "en": "Visit the castle at 'blue hour' for the best photos."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Winter bereits gegen 15:30 Uhr unter.",
+              "Tragen Sie Zwiebelschichten; die Innenräume sind stark geheizt.",
+              "Reflektoren an der Kleidung sind für Spaziergänge im Dunkeln wichtig.",
+              "Probieren Sie 'Glögg' auf dem Marktplatz, falls ein Stand offen ist.",
+              "Schwere Stiefel mit gutem Profil sind für verschneite Wege nötig."
+            ],
+            "hu": [
+              "A nap télen már délután fél 4 körül lemegy.",
+              "Öltözködjön rétegesen, mert a múzeumok nagyon fűtöttek.",
+              "Használjon fényvisszaverőt a kabátján a sötét délutánokon.",
+              "A Helgasjön-tó partján a szélérzet sokkal hidegebb lehet.",
+              "A Teleborg-kastély kivilágítása sötétben a leglátványosabb."
+            ],
+            "ro": [
+              "Soarele apune în jurul orei 15:30 în timpul iernii.",
+              "Îmbrăcați-vă în straturi; interioarele sunt foarte bine încălzite.",
+              "Purtați elemente reflectorizante pentru plimbările de seară.",
+              "Gheața pe trotuare este comună; mergeți cu atenție sporită.",
+              "Castelul Teleborg arată ca în basme după căderea întunericului."
+            ],
+            "en": [
+              "The sun sets as early as 3:30 PM during the winter months.",
+              "Wear layers; Swedish indoor spaces are kept very warm.",
+              "Wear reflectors on your coat for safety in the dark afternoons.",
+              "The wind chill by Lake Helgasjön can be much lower than forecast.",
+              "Teleborg Castle is most atmospheric when illuminated at night."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -542,6 +750,196 @@
         "en": [
           "Växjö is a bike-friendly city with many cycle paths. Always lock your bike securely. A helmet is recommended."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Radtag in Växjö erfordert gute Ausrüstung. Vom Stortorget flüchten wir schnell in das Museumsquartier, wo wir die Räder sicher abstellen. Mittags geht es trotz Nieselregen zum Lake Helgasjön, wobei die asphaltierten Wege guten Halt bieten. Nach einem Besuch der Ruinen von Kronoberg führt der Rückweg zum Teleborg-Schloss, wo die nasse Fassade in sattem Grau glänzt. Der Tag endet sicher im Stadtzentrum.",
+            "hu": "Egy esős bringás nap Växjőben jó felszerelést igényel. A főtérről gyorsan a múzeumi negyedbe tekerünk, ahol fedett helyen hagyhatjuk a bicikliket. Délben a szemerkélő esőben is kimegyünk a Helgasjön-tóhoz, kihasználva a jól karbantartatott utakat. A Kronoberg várrom után a Teleborg-kastély következik, majd a katedrálisnál fejezzük be a kört, mielőtt teljesen eláznánk.",
+            "ro": "O zi de bicicletă pe ploaie în Växjö necesită echipament impermeabil. De la Stortorget pedalăm rapid spre zona muzeelor. La prânz, în ciuda burniței, explorăm malul lacului Helgasjön pe piste asfaltate. După ruinele castelului Kronoberg, revenim spre castelul Teleborg, admirând peisajul dramatic. Încheiem turul la catedrală, pregătiți pentru o pauză caldă.",
+            "en": "A rainy cycling day in Växjö demands quality waterproofs. From the main square, we head straight to the Museum Park. Midday sees us pedaling along Lake Helgasjön, where the wet paths remain manageable. After visiting Kronoberg ruins, we cycle to Teleborg Castle, seeing the landscape in deep, rain-soaked colors. We finish the loop at the Cathedral, ready for a warm indoor fika."
+          },
+          "stops": [
+            {
+              "name": "Växjö Main Square",
+              "tip_5lang": {
+                "de": "Wischen Sie den Sattel vor der Abfahrt trocken.",
+                "hu": "Indulás előtt törölje szárazra a nyerget.",
+                "ro": "Ștergeți șaua înainte de a pleca la drum.",
+                "en": "Wipe your saddle dry before heading out."
+              }
+            },
+            {
+              "name": "Museum Park (Småland, Glass, Emigrants)",
+              "tip_5lang": {
+                "de": "Überdachte Fahrradständer direkt vor dem Museumseingang.",
+                "hu": "Fedett biciklitárolók közvetlenül a múzeum bejárata előtt.",
+                "ro": "Rasteluri de biciclete acoperite chiar la intrarea în muzeu.",
+                "en": "Covered bike racks available right in front of the museum."
+              }
+            },
+            {
+              "name": "Bike ride along Lake Helgasjön",
+              "tip_5lang": {
+                "de": "Vorsicht bei nassem Laub auf den Uferwegen.",
+                "hu": "Vigyázzon a vizes levelekre a tóparti utakon.",
+                "ro": "Atenție la frunzele ude de pe pistele de pe mal.",
+                "en": "Be careful with wet leaves on the lakeside paths."
+              }
+            },
+            {
+              "name": "Kronoberg Castle Ruins",
+              "tip_5lang": {
+                "de": "Die Steine können bei Regen sehr rutschig sein.",
+                "hu": "A kövek esőben nagyon csúszósak lehetnek.",
+                "ro": "Pietrele pot fi foarte alunecoase pe ploaie.",
+                "en": "The stones can be very slippery when wet."
+              }
+            },
+            {
+              "name": "Teleborg Castle",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter dem Torbogen des Schlosses.",
+                "hu": "Keressen menedéket a kastély boltíves kapuja alatt.",
+                "ro": "Căutați adăpost sub bolta de la intrarea castelului.",
+                "en": "Seek shelter under the castle's arched gateway."
+              }
+            },
+            {
+              "name": "Växjö Cathedral & Linné Park",
+              "tip_5lang": {
+                "de": "Nutzen Sie den breiten Weg im Park für mehr Sicherheit.",
+                "hu": "Használja a park szélesebb útjait a biztonságért.",
+                "ro": "Folosiți aleile late din parc pentru siguranță.",
+                "en": "Use the wider park paths for better safety."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Bremsen; Bremswege verlängern sich bei Nässe.",
+              "Växjö hat ausgezeichnete Radwege, die das Wasser gut ableiten.",
+              "Vermeiden Sie das Überfahren von Fahrbahnmarkierungen bei Regen.",
+              "Ein Fahrrad-Regenponcho schützt auch die Beine beim Treten.",
+              "Beleuchtung ist auch tagsüber bei starkem Regen ratsam."
+            ],
+            "hu": [
+              "Ellenőrizze a fékeket, esőben a fékút jelentősen megnő.",
+              "Växjő kerékpárútjai jól elvezetik a vizet, de a sárvédő fontos.",
+              "Kerülje az útburkolati jeleken való fékezést kanyarodáskor.",
+              "A kerékpáros esőponchó a lábait is védi tekerés közben.",
+              "Erős esőben nappal is használja a kerékpáros lámpákat."
+            ],
+            "ro": [
+              "Verificați frânele; distanța de frânare crește pe carosabil ud.",
+              "Pistele din Växjö sunt bune, dar noroiul poate apărea în parcuri.",
+              "Evitați marcajele rutiere, acestea devin foarte alunecoase.",
+              "O pelerină specială de bicicletă vă va proteja și picioarele.",
+              "Aprindeți luminile bicicletei chiar și ziua dacă plouă torențial."
+            ],
+            "en": [
+              "Check your brakes; stopping distances increase on wet roads.",
+              "Växjö's bike paths drain well, but mudguards are recommended.",
+              "Avoid braking hard on painted road markings when wet.",
+              "A cycling-specific poncho will help keep your legs dry.",
+              "Keep your lights on even during the day in heavy rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im Winter-Växjö ist ein Abenteuer auf eisigen Pfaden. Wir starten am Stortorget und radeln vorsichtig zum Museumsquartier. Die Fahrt zum Lake Helgasjön bietet glitzernde Frostlandschaften, erfordert aber volle Konzentration. Mittags erreichen wir die Ruinen von Kronoberg, die im Schnee fast mystisch wirken. Der Rückweg führt uns zum beleuchteten Teleborg-Schloss, bevor wir den Tag an der warmen Kathedrale beenden.",
+            "hu": "A téli kerékpározás Växjőben igazi kaland a jeges utakon. A főtérről indulva óvatosan tekerünk a múzeumi negyedbe. A Helgasjön-tó felé tartó út fagyos, csillogó tájat kínál, de teljes koncentrációt igényel. Délben a Kronoberg várrom hóval fedett falai között járunk. A visszaút a Teleborg-kastély esti fényei mellett vezet, majd a székesegyháznál fejezzük be a fagyos túrát.",
+            "ro": "Bicicletul iarna în Växjö este o aventură pe poteci înghețate. Pornim de la Stortorget spre cartierul muzeelor cu mare atenție. Drumul spre lacul Helgasjön oferă peisaje înghețate superbe. La prânz explorăm ruinele Kronoberg acoperite de zăpadă. Revenim pe lângă castelul Teleborg iluminat, încheind ziua la catedrală, unde ne putem încălzi după efort.",
+            "en": "Winter cycling in Växjö is an adventure across icy landscapes. We start at the main square and pedal carefully to the Museum Park. The ride to Lake Helgasjön offers stunning frozen views but requires steady handling. Midday is spent at the snow-covered Kronoberg ruins. We return via the glowing Teleborg Castle, finishing our frosty tour at the welcoming Cathedral in the city center."
+          },
+          "stops": [
+            {
+              "name": "Växjö Main Square",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenem Tau auf dem Pflaster.",
+                "hu": "Vigyázzon a megfagyott pára miatti csúszós kövekre.",
+                "ro": "Atenție la bruma înghețată de pe pavaj.",
+                "en": "Beware of frozen dew on the cobblestones."
+              }
+            },
+            {
+              "name": "Museum Park (Småland, Glass, Emigrants)",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Besuch, um die Hände aufzuwärmen.",
+                "hu": "Használja ki a látogatást a kezei felmelegítésére.",
+                "ro": "Profită de vizită pentru a-ți încălzi mâinile.",
+                "en": "Use the visit as a chance to warm up your hands."
+              }
+            },
+            {
+              "name": "Bike ride along Lake Helgasjön",
+              "tip_5lang": {
+                "de": "Halten Sie Abstand zum Ufer bei vereisten Wegen.",
+                "hu": "Tartson távolságot a parttól a jeges utakon.",
+                "ro": "Păstrați distanța față de mal pe drumurile înghețate.",
+                "en": "Keep a safe distance from the shore on icy paths."
+              }
+            },
+            {
+              "name": "Kronoberg Castle Ruins",
+              "tip_5lang": {
+                "de": "Festes Schuhwerk ist für die Besichtigung im Schnee nötig.",
+                "hu": "Havas időben stabil bakancs kell a várrom bejárásához.",
+                "ro": "Încălțăminte stabilă necesară pentru vizitarea ruinelor.",
+                "en": "Sturdy boots are needed for exploring the ruins in snow."
+              }
+            },
+            {
+              "name": "Teleborg Castle",
+              "tip_5lang": {
+                "de": "Beleuchtung am Rad ist ab 15:00 Uhr zwingend erforderlich.",
+                "hu": "Délután 3 órától a lámpa használata kötelező.",
+                "ro": "Luminile sunt obligatorii după ora 15:00.",
+                "en": "Bike lights are mandatory starting from 3:00 PM."
+              }
+            },
+            {
+              "name": "Växjö Cathedral & Linné Park",
+              "tip_5lang": {
+                "de": "Der Parkweg wird meist geräumt, kann aber glatt sein.",
+                "hu": "A parki utakat takarítják, de néhol csúszós maradhat.",
+                "ro": "Aleile parcului sunt curățate, dar pot rămâne alunecoase.",
+                "en": "Park paths are usually cleared but can remain slippery."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie im Winter unbedingt Reifen mit gutem Profil (Spikes).",
+              "Tragen Sie dicke Handschuhe; der Fahrtwind ist extrem kalt.",
+              "Die Kette benötigt im Winter wegen des Streusalzes mehr Pflege.",
+              "Planen Sie mehr Zeit für die Wege ein als im Sommer.",
+              "Warmer Tee in einer Thermoskanne ist der beste Begleiter."
+            ],
+            "hu": [
+              "Télen használjon szöges gumit (dubbdäck) a biztonságért.",
+              "Viseljen vastag kesztyűt, a menetszél nagyon hideg lehet.",
+              "A lánc több törődést igényel a téli útszóró só miatt.",
+              "Tervezzen több időt az utakra, mint nyáron.",
+              "Vigyen magával meleg teát termoszban a hosszabb utakra."
+            ],
+            "ro": [
+              "Folosiți anvelope cu crampoane dacă există gheață pe drum.",
+              "Purtați mănuși groase; vântul este extrem de rece la pedalat.",
+              "Lanțul necesită curățare frecventă din cauza sării de pe drum.",
+              "Calculați timpi de deplasare mai mari decât în sezonul cald.",
+              "O termos cu ceai cald este cel mai bun accesoriu iarna."
+            ],
+            "en": [
+              "Consider using studded tires (dubbdäck) for better grip on ice.",
+              "Wear thick gloves; the wind chill while cycling is intense.",
+              "Your bike chain needs extra oiling due to winter road salt.",
+              "Allow significantly more travel time than during summer.",
+              "A thermos with hot lingonberry juice is a great local tip."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -798,6 +1196,196 @@
         "en": [
           "Parking fees can be high in the city center. Pay attention to the signs. Plan for extra time for traffic, especially in the afternoon."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein Regentag in Växjö lässt sich im Auto entspannt genießen. Wir starten am City Center und parken direkt bei der Kathedrale. Mittags fahren wir zum Småland-Museum, wo das Auto im Trockenen bleibt, während wir Glas-Kunst bestaunen. Die Fahrt zu den Ruinen von Kronoberg bietet weite Blicke auf den regnerischen Lake Helgasjön. Der Tag endet standesgemäß mit der Fahrt zum majestätischen Schloss Teleborg.",
+            "hu": "Az esős nap Växjőben autóval a legkényelmesebb. A központból indulunk, és közvetlenül a katedrálisnál parkolunk le. Délben a múzeumi negyedbe hajtunk, ahol fedett parkolót találunk. Az út a Kronoberg várromhoz látványos kilátást nyújt a szürke Helgasjön-tóra. A napot a Teleborg-kastélynál zárjuk, élvezve az autó fűtését a megállók között.",
+            "ro": "O zi ploioasă în Växjö este mult mai relaxantă cu mașina. Pornim din centru și parcăm lângă catedrală. La prânz mergem la muzeul Småland, beneficiind de parcări apropiate. Drumul spre ruinele Kronoberg oferă vederi panoramice asupra lacului Helgasjön. Încheiem turul la castelul Teleborg, feriți de vântul umed de afară.",
+            "en": "Rainy weather in Växjö is easily handled by car. We start at the city center and find parking near the Cathedral. Midday is spent at the Museum Park, with convenient parking allowing us to stay dry between stops. The drive to Kronoberg ruins offers expansive views of Lake Helgasjön through the mist. We conclude our tour at Teleborg Castle, staying warm and comfortable throughout the trip."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: City Center",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus am Bahnhof für trockenen Zugang.",
+                "hu": "Használja az állomás melletti parkolóházat a száraz kijutáshoz.",
+                "ro": "Folosiți parcarea acoperită de la gară pentru acces uscat.",
+                "en": "Use the multi-story car park by the station for dry access."
+              }
+            },
+            {
+              "name": "Växjö Cathedral",
+              "tip_5lang": {
+                "de": "Parkplätze befinden sich direkt südlich der Kirche.",
+                "hu": "Parkolóhelyek közvetlenül a templomtól délre találhatók.",
+                "ro": "Locuri de parcare disponibile direct la sud de biserică.",
+                "en": "Parking spaces are available directly south of the church."
+              }
+            },
+            {
+              "name": "Småland Museum & Swedish Glass Museum",
+              "tip_5lang": {
+                "de": "Großer Parkplatz vorhanden, ideal bei starkem Regen.",
+                "hu": "Nagy parkoló áll rendelkezésre, ideális szakadó esőben.",
+                "ro": "Parcare mare disponibilă, ideală în caz de ploaie torențială.",
+                "en": "Large car park available, ideal for heavy rain."
+              }
+            },
+            {
+              "name": "Cluster 2: Kronoberg Castle Ruins",
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf der ufernahen Zufahrtsstraße.",
+                "hu": "Vezessen óvatosan a tóparti bekötőúton.",
+                "ro": "Conduceți cu atenție pe drumul de acces de lângă lac.",
+                "en": "Drive carefully on the access road near the lake shore."
+              }
+            },
+            {
+              "name": "Walk by Lake Helgasjön",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick bei Regen direkt aus dem Auto.",
+                "hu": "Élvezze a kilátást esőben közvetlenül az autóból.",
+                "ro": "Bucurați-vă de priveliște direct din mașină dacă plouă.",
+                "en": "Enjoy the view directly from the car if it's pouring."
+              }
+            },
+            {
+              "name": "Cluster 3: Teleborg Castle",
+              "tip_5lang": {
+                "de": "Kostenlose Parkplätze direkt am Schlossparkgelände.",
+                "hu": "Ingyenes parkolás közvetlenül a kastélypark területén.",
+                "ro": "Parcare gratuită disponibilă direct la castel.",
+                "en": "Free parking available directly at the castle grounds."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Parken in Växjö ist meist per App (z.B. EasyPark) steuerbar.",
+              "Halten Sie die Fenster sauber, um bei Regen bessere Sicht zu haben.",
+              "Vermeiden Sie tiefe Pfützen am Seeufer; Aquaplaning-Gefahr.",
+              "Die Fahrt zum Schloss Teleborg führt durch schöne Alleen.",
+              "An Wochenenden sind viele Parkplätze im Zentrum günstiger."
+            ],
+            "hu": [
+              "A parkolás Växjőben legkönnyebben applikációval intézhető.",
+              "Tartsa tisztán a szélvédőt a jobb látási viszonyokért esőben.",
+              "Kerülje a mély tócsákat a Helgasjön-tó melletti utakon.",
+              "A Teleborg-kastély felé vezető út esőben is hangulatos.",
+              "Használja az autó fűtését a vizes kabátok szárításához."
+            ],
+            "ro": [
+              "Parcarea în Växjö se plătește de obicei prin aplicații mobile.",
+              "Păstrați parbrizul curat pentru vizibilitate optimă pe ploaie.",
+              "Evitați bălțile adânci de lângă lac; risc de acvaplanare.",
+              "Drumul spre castelul Teleborg trece prin zone rezidențiale verzi.",
+              "Multe parcări centrale au tarife reduse în weekend."
+            ],
+            "en": [
+              "Parking in Växjö is easiest via apps like EasyPark.",
+              "Keep your headlights on and windows clear for better visibility.",
+              "Be cautious of deep puddles near the lake due to aquaplaning.",
+              "The drive to Teleborg Castle is very scenic even in the rain.",
+              "On weekends, many central parking areas offer cheaper rates."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintertag im Auto bietet Wärme zwischen den eisigen Sehenswürdigkeiten Växjös. Wir starten im Zentrum und fahren zur frostigen Kathedrale. Mittags geht es zum Glasmuseum, wo wir die skandinavische Kunst im Warmen genießen. Die Fahrt zu den verschneiten Ruinen von Kronoberg erfordert Winterreifen, bietet aber traumhafte Fotomotive am zugefrorenen See. Den krönenden Abschluss bildet das Schloss Teleborg in seiner winterlichen Pracht.",
+            "hu": "A téli nap autóval kényelmes meleget biztosít a jeges látnivalók között. A központból indulva a deres katedrálist nézzük meg. Délben az üvegmúzeumban csodáljuk a svéd művészetet, távol a fagytól. A havas Kronoberg várromhoz vezető út téli gumit igényel, de a befagyott tó látványa kárpótol minket. A túrát a Teleborg-kastély esti fényeiben fejezzük be.",
+            "ro": "O zi de iarnă cu mașina oferă confort între atracțiile înghețate ale orașului. Pornim din centru spre catedrala acoperită de chiciură. La prânz mergem la muzeul de sticlă pentru a admira arta la căldură. Drumul spre ruinele Kronoberg necesită anvelope de iarnă, dar oferă peisaje superbe cu lacul înghețat. Încheiem la castelul Teleborg, strălucind în noaptea suedeză.",
+            "en": "A winter's day by car provides cozy warmth between Växjö's frosty sights. We start in the center and drive to the icy Cathedral. Midday is perfect for the Glass Museum, enjoying Scandinavian art away from the chill. The drive to snow-covered Kronoberg ruins requires winter tires but rewards you with magical views of the frozen Helgasjön. We finish at Teleborg Castle, glowing in its winter splendor."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: City Center",
+              "tip_5lang": {
+                "de": "Prüfen Sie, ob Ihr Parkplatz schneefrei geräumt ist.",
+                "hu": "Ellenőrizze, hogy a parkolóhelyet letakarították-e a hótól.",
+                "ro": "Verificați dacă locul de parcare este curățat de zăpadă.",
+                "en": "Check if your parking spot has been cleared of snow."
+              }
+            },
+            {
+              "name": "Växjö Cathedral",
+              "tip_5lang": {
+                "de": "Die Zufahrt zur Kirche wird im Winter gut gestreut.",
+                "hu": "A templomhoz vezető utat télen jól felszórják.",
+                "ro": "Accesul la biserică este bine întreținut în timpul iernii.",
+                "en": "The access road to the church is well-salted in winter."
+              }
+            },
+            {
+              "name": "Småland Museum & Swedish Glass Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Motorvorwärmer, falls vorhanden.",
+                "hu": "Használja a motor-előmelegítőt, ha van az autóban.",
+                "ro": "Folosiți preîncălzitorul motorului dacă mașina are unul.",
+                "en": "Use the engine block heater if your car is equipped with one."
+              }
+            },
+            {
+              "name": "Cluster 2: Kronoberg Castle Ruins",
+              "tip_5lang": {
+                "de": "Die kleine Brücke zu den Ruinen kann extrem glatt sein.",
+                "hu": "A várromhoz vezető kis híd rendkívül csúszós lehet.",
+                "ro": "Podul mic spre ruine poate fi extrem de alunecos.",
+                "en": "The small bridge to the ruins can be extremely slippery."
+              }
+            },
+            {
+              "name": "Walk by Lake Helgasjön",
+              "tip_5lang": {
+                "de": "Parken Sie nur auf festem Untergrund; Matschgefahr.",
+                "hu": "Csak szilárd talajon parkoljon, kerülje a sarat/havat.",
+                "ro": "Parcați doar pe teren solid; evitați noroiul sau omătul.",
+                "en": "Only park on solid ground; avoid soft mud or deep snow."
+              }
+            },
+            {
+              "name": "Cluster 3: Teleborg Castle",
+              "tip_5lang": {
+                "de": "Das beleuchtete Schloss ist vom Parkplatz aus gut sichtbar.",
+                "hu": "A kivilágított kastély már a parkolóból jól látható.",
+                "ro": "Castelul iluminat este vizibil chiar din parcare.",
+                "en": "The illuminated castle is clearly visible from the parking lot."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in Schweden ab Dezember gesetzlich Pflicht.",
+              "Führen Sie immer einen Eiskratzer und einen Schneebesen mit.",
+              "Achten Sie auf Wildwechsel (Rehe/Elche) in der Dämmerung.",
+              "Die Straßenbeleuchtung in Växjö ist im Winter sehr gut.",
+              "Halten Sie den Tank immer mindestens halb voll (Sicherheit)."
+            ],
+            "hu": [
+              "Svédországban decembertől kötelező a téli gumi használata.",
+              "Mindig legyen az autóban jégkaparó és hóseprű.",
+              "Vigyázzon a vadakra (őzekre) a szürkületi órákban.",
+              "Växjő közvilágítása kiváló, de a mellékutak sötétek lehetnek.",
+              "A fagyos éjszakák előtt ellenőrizze a fagyállót."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii în Suedia din decembrie.",
+              "Aveți întotdeauna în mașină o răzuitoare de gheață și o perie.",
+              "Atenție la animalele sălbatice (căprioare) în amurg.",
+              "Drumurile secundare pot fi acoperite cu zăpadă bătătorită.",
+              "Păstrați rezervorul plin pentru siguranță în caz de blocaje."
+            ],
+            "en": [
+              "Winter tires are mandatory in Sweden from December 1st.",
+              "Always carry an ice scraper and a snow brush in the car.",
+              "Watch out for wildlife (deer) crossing the roads at dusk.",
+              "Road lighting in Växjö is excellent, but country roads are dark.",
+              "Check the weather forecast for sudden snowstorms (snösmocka)."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1054,6 +1642,196 @@
         "en": [
           "Buy a day pass for the bus for unlimited travel. Download the timetable app to track your journeys in real-time."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus durch das regnerische Växjö ist komfortabel. Wir starten am Stortorget und fahren kurz zur Kathedrale. Mittags bringt uns die Linie 1 zum Museumsviertel, wo wir den Regen ignorieren können. Nachmittags geht es weiter zum Schloss Teleborg, während wir aus dem warmen Bus das herbstliche Wetter beobachten. Ein Spaziergang im Biskopshagen-Reservat wird durch den Regen besonders atmosphärisch, bevor wir zum Evedal am See fahren.",
+            "hu": "Busszal közlekedni az esős Växjőben kényelmes és praktikus. A főtérről indulva hamar elérjük a katedrálist. Délben az 1-es busz repít a múzeumi negyedbe, ahol védve vagyunk az esőtől. Délután a Teleborg-kastélyhoz utazunk, útközben a busz ablakából nézzük a tóparti tájat. A Biskopshagen rezervátum esőben is különleges, a napot pedig az Evedal tópartján zárjuk.",
+            "ro": "Transportul public din Växjö este ideal pe timp de ploaie. Pornim de la Stortorget spre catedrală. La prânz, linia 1 ne duce la muzee, oferind un drum uscat. După-amiaza mergem spre castelul Teleborg, privind peisajul ploios de la geamul autobuzului. Rezervația Biskopshagen are un farmec aparte pe ploaie, iar turul se încheie la malul lacului, în zona Evedal.",
+            "en": "Navigating rainy Växjö by bus is both easy and efficient. We start at Stortorget and take a short ride to the Cathedral. Midday finds us in the Museum Quarter via line 1, perfectly sheltered from the rain. In the afternoon, we head to Teleborg Castle, watching the wet streets from the warm bus. A walk through Biskopshagen remains atmospheric despite the drizzle, finishing our day at Evedal by the lake."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: City Center (Stortorget)",
+              "tip_5lang": {
+                "de": "Warten Sie im gläsernen Wartebereich der Busstation.",
+                "hu": "Várjon a buszpályaudvar üvegezett várótermében.",
+                "ro": "Așteptați în zona vitrată a stației de autobuz.",
+                "en": "Wait in the glass-walled waiting area at the bus station."
+              }
+            },
+            {
+              "name": "Växjö Cathedral & Linné Park",
+              "tip_5lang": {
+                "de": "Die nächste Bushaltestelle bietet Schutz vor Regen.",
+                "hu": "A legközelebbi buszmegálló fedett, véd az eső ellen.",
+                "ro": "Cea mai apropiată stație de autobuz este acoperită.",
+                "en": "The nearest bus stop is covered, providing shelter."
+              }
+            },
+            {
+              "name": "Museum Quarter (Småland, Emigrants)",
+              "tip_5lang": {
+                "de": "In den Museen gibt es Schließfächer für nasse Schirme.",
+                "hu": "A múzeumokban vannak zárható szekrények az esernyőknek.",
+                "ro": "Muzeele au dulapuri pentru umbrelele ude.",
+                "en": "The museums have lockers for wet umbrellas."
+              }
+            },
+            {
+              "name": "Cluster 2: Teleborg Castle",
+              "tip_5lang": {
+                "de": "Vom Busstopp ist es nur ein kurzer Sprint zum Schloss.",
+                "hu": "A buszmegállótól csak egy rövid séta a kastély bejárata.",
+                "ro": "De la stația de autobuz este doar o scurtă plimbare la castel.",
+                "en": "It's just a short dash from the bus stop to the castle."
+              }
+            },
+            {
+              "name": "Biskopshagen Nature Reserve",
+              "tip_5lang": {
+                "de": "Die Wege im Reservat können bei Regen schlammig sein.",
+                "hu": "A rezervátum útjai esőben sárosak lehetnek.",
+                "ro": "Potecile din rezervație pot fi noroioase pe ploaie.",
+                "en": "The reserve paths can get muddy during rain."
+              }
+            },
+            {
+              "name": "Cluster 3: Lake Helgasjön & Evedal",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Rückfahrzeiten des letzten Busses.",
+                "hu": "Ellenőrizze az utolsó busz visszaindulási idejét.",
+                "ro": "Verificați ora de plecare a ultimului autobuz de întoarcere.",
+                "en": "Double-check the departure time of the last return bus."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die App 'Länstrafiken Kronoberg' für Echtzeitdaten.",
+              "Bargeld wird in den Bussen nicht akzeptiert; nutzen Sie die App.",
+              "Die Linie 1 ist die Hauptader zwischen Bahnhof und Universität.",
+              "Viele Haltestellen im Zentrum haben digitale Abfahrtstafeln.",
+              "Kombinieren Sie Bus und kurze Sprints für maximale Trockenheit."
+            ],
+            "hu": [
+              "Használja a 'Länstrafiken Kronoberg' appot a menetrendhez.",
+              "A buszokon nem lehet készpénzzel fizetni, csak kártyával/appal.",
+              "Az 1-es busz a legfontosabb járat a városnézéshez.",
+              "A buszok fűtöttek, kiváló helyek a kabátok szárítására.",
+              "Evedal felé ritkábban járnak a buszok, tervezzen előre."
+            ],
+            "ro": [
+              "Folosiți aplicația 'Länstrafiken Kronoberg' pentru orar.",
+              "Plata în autobuz se face doar cu cardul sau prin aplicație.",
+              "Linia 1 conectează gara de majoritatea punctelor de interes.",
+              "Stațiile centrale au ecrane digitale cu timpii de așteptare.",
+              "Autobuzele sunt curate și bine încălzite iarna și pe ploaie."
+            ],
+            "en": [
+              "Download the 'Länstrafiken Kronoberg' app for live schedules.",
+              "Buses are cash-free; pay via the app or contactless card.",
+              "Line 1 is the main tourist route connecting the station and castle.",
+              "Most central stops have real-time digital display boards.",
+              "Check for 'Reseperiod' tickets for cheaper 24-hour travel."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Mit dem öffentlichen Nahverkehr erleben wir das winterliche Växjö ohne Stress. Wir starten am Stortorget und nehmen den Bus zur frostigen Kathedrale. Mittags wärmen wir uns im Museumsviertel auf, bevor uns die Linie 1 zum beleuchteten Schloss Teleborg bringt. Die winterliche Natur im Biskopshagen-Reservat ist per Bus gut erreichbar. Zum Abschluss genießen wir die Aussicht auf den zugefrorenen See in Evedal, bevor wir zurück ins warme Zentrum fahren.",
+            "hu": "Tömegközlekedéssel kényelmesen fedezhetjük fel a téli Växjőt. A főtérről busszal megyünk a zúzmarás katedrálishoz. Délben a múzeumi negyedben melegedünk, majd az 1-es busszal a kivilágított Teleborg-kastélyhoz utazunk. A Biskopshagen rezervátum havas tája lenyűgöző a buszablakból. A napot a befagyott Helgasjön-tónál zárjuk Evedalban, mielőtt visszatérnénk a városba.",
+            "ro": "Transportul public ne permite să vedem Växjö iarna fără grija gerului. Pornim de la Stortorget spre catedrala înghețată. La prânz ne încălzim la muzee, apoi linia 1 ne duce la castelul Teleborg iluminat feeric. Natura din rezervația Biskopshagen arată superb sub zăpadă. Încheiem ziua la Evedal, admirând lacul înghețat, apoi revenim rapid cu autobuzul în centru.",
+            "en": "Public transport is the best way to see wintry Växjö while staying warm. We start at the main square and take a bus to the frosty Cathedral. Midday is spent in the warm Museum Quarter before line 1 takes us to the glowing Teleborg Castle. The snowy landscapes of Biskopshagen are easily accessible by bus. We finish our day at the frozen shores of Evedal before returning to the cozy city center."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: City Center (Stortorget)",
+              "tip_5lang": {
+                "de": "Die Busstation ist beheizt, ideal bei Minusgraden.",
+                "hu": "A buszpályaudvar várója fűtött, ideális mínuszokban.",
+                "ro": "Stația de autobuz este încălzită, ideală pe ger.",
+                "en": "The bus station waiting room is heated, ideal for sub-zero days."
+              }
+            },
+            {
+              "name": "Växjö Cathedral & Linné Park",
+              "tip_5lang": {
+                "de": "Warten Sie in der Nähe der Laternen für mehr Sichtbarkeit.",
+                "hu": "Várjon a lámpák közelében a jobb láthatóságért.",
+                "ro": "Așteptați în apropierea stâlpilor de iluminat.",
+                "en": "Wait near the streetlights for better visibility."
+              }
+            },
+            {
+              "name": "Museum Quarter (Småland, Emigrants)",
+              "tip_5lang": {
+                "de": "Die Museen sind beliebte Treffpunkte im Winter.",
+                "hu": "A múzeumok népszerű találkozóhelyek télen.",
+                "ro": "Muzeele sunt locuri de întâlnire populare iarna.",
+                "en": "The museums are popular social hubs during winter."
+              }
+            },
+            {
+              "name": "Cluster 2: Teleborg Castle",
+              "tip_5lang": {
+                "de": "Der Fußweg vom Bus zum Schloss kann glatt sein.",
+                "hu": "A busztól a kastélyig tartó gyalogút csúszós lehet.",
+                "ro": "Aleea de la autobuz la castel poate fi alunecoasă.",
+                "en": "The short walk from the bus stop can be slippery."
+              }
+            },
+            {
+              "name": "Biskopshagen Nature Reserve",
+              "tip_5lang": {
+                "de": "Achten Sie im Dunkeln auf die Busfahrpläne.",
+                "hu": "Sötétedés után figyeljen a buszok menetrendjére.",
+                "ro": "Atenție la orarul autobuzelor după lăsarea întunericului.",
+                "en": "Pay close attention to bus schedules after dark."
+              }
+            },
+            {
+              "name": "Cluster 3: Lake Helgasjön & Evedal",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das Eis vom Wartehäuschen.",
+                "hu": "Élvezze a kilátást a jégre a váróhelyről.",
+                "ro": "Bucurați-vă de priveliștea gheții din stație.",
+                "en": "Enjoy the view of the ice from the bus shelter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Busse sind im Winter sehr zuverlässig und warm.",
+              "Reflektoren sind für den Weg zur Haltestelle lebenswichtig.",
+              "Im Winter können Busse bei extremem Schneefall leicht verspätet sein.",
+              "Die App zeigt die genaue Position des Busses auf der Karte.",
+              "Der Bahnhof (Resecentrum) ist der zentrale Knotenpunkt."
+            ],
+            "hu": [
+              "A buszok télen is nagyon megbízhatóak és jól fűtöttek.",
+              "Használjon fényvisszaverőt, ha sötétben megy a megállóba.",
+              "Extrém hóesésben kisebb késések előfordulhatnak.",
+              "Az applikáció térképen mutatja a buszok aktuális helyzetét.",
+              "A vasútállomás (Resecentrum) a közlekedés központja."
+            ],
+            "ro": [
+              "Autobuzele sunt foarte punctuale și călduroase iarna.",
+              "Elementele reflectorizante sunt vitale pentru siguranță.",
+              "În caz de ninsori abundente, pot apărea mici întârzieri.",
+              "Aplicația arată poziția exactă a autobuzului pe hartă.",
+              "Gara (Resecentrum) este nodul central de transport."
+            ],
+            "en": [
+              "Swedish buses are very reliable and warm during winter.",
+              "Wearing reflectors is essential when walking to the stop.",
+              "Expect minor delays only during extreme snowfall (snöfall).",
+              "The app displays the bus's live position on a map.",
+              "The train station (Resecentrum) is the main hub for all lines."
+            ]
+          }
+        }
       }
     }
   }

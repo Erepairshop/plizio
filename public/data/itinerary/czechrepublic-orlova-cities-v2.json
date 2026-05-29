@@ -386,6 +386,206 @@
           "Bring a water bottle, especially on warmer days.",
           "Plan for a lunch break near the museum area."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt unter dem Regenschirm am Platz des 28. Oktobers. Das Alte Rathaus bietet erste Zuflucht vor dem nasskalten Wetter. Mittags nutzen wir die schützenden Portale der Kirchen, um trocken zu bleiben. Der Nachmittag gehört ganz dem Museum der Region Teschen, wo man die Geschichte der Bergbaustadt ohne nass zu werden erkunden kann. Der Tag endet mit einem kurzen, nebligen Spaziergang durch den Schlosspark.",
+            "hu": "A reggel esernyővel indul a 28. október téren, az Óvárosháza bejárata nyújt menedéket a szemerkélő esőben. Délben a templomok vastag falai között pihenünk meg, távol a szélétől. A délután központja a Těšíni Régió Múzeuma, amely tökéletes beltéri programot kínál. A napot a Zámecký park ködös, hangulatos ösvényein zárjuk, ahol a fák némi védelmet nyújtanak az égi áldás ellen.",
+            "ro": "Dimineața începe cu umbrela în Piața 28 Octombrie, unde Vechea Primărie oferă un prim adăpost. La prânz, explorăm bisericile locale pentru a rămâne la uscat în timp ce admirăm arhitectura. După-amiaza este dedicată Muzeului Regiunii Těšín, un spațiu interior excelent pentru a evita ploaia. Încheiem ziua cu o plimbare scurtă și mistică prin parcul castelului, printre arborii învăluiți în ceață.",
+            "en": "Morning starts with an umbrella at October 28th Square, using the Old Town Hall for shelter. At noon, we seek refuge in the local churches to stay dry while admiring the history. The afternoon is spent entirely inside the Museum of the Těšín Region, the best spot to escape the rain. We finish with a short, misty stroll through the Castle Park, where the wet landscape creates a unique atmosphere."
+          },
+          "stops": [
+            {
+              "name": "October 28th Square",
+              "tip_5lang": {
+                "de": "Große Pfützen auf dem Platz meiden.",
+                "hu": "Kerülje a nagyobb tócsákat a nyílt téren.",
+                "ro": "Evitați bălțile mari din piața deschisă.",
+                "en": "Avoid large puddles on the open square."
+              }
+            },
+            {
+              "name": "Old Town Hall",
+              "tip_5lang": {
+                "de": "Das Vordach bietet guten Regenschutz.",
+                "hu": "Az előtető jó védelmet nyújt az eső elől.",
+                "ro": "Copertina oferă o protecție bună contra ploii.",
+                "en": "The entrance canopy provides good shelter."
+              }
+            },
+            {
+              "name": "Monument to the Strike Victims",
+              "tip_5lang": {
+                "de": "Vorsicht, die Steinstufen sind rutschig.",
+                "hu": "Vigyázat, a kőlépcsők csúszósak lehetnek.",
+                "ro": "Atenție, treptele de piatră sunt alunecoase.",
+                "en": "Be careful, the stone steps are slippery."
+              }
+            },
+            {
+              "name": "Church of the Nativity of the Virgin Mary",
+              "tip_5lang": {
+                "de": "Idealer Ort für eine trockene Pause.",
+                "hu": "Ideális helyszín egy száraz pihenőhöz.",
+                "ro": "Loc ideal pentru o pauză la uscat.",
+                "en": "Ideal spot for a dry break inside."
+              }
+            },
+            {
+              "name": "Evangelical Church",
+              "tip_5lang": {
+                "de": "Der Eingangsbereich ist windgeschützt.",
+                "hu": "A bejárati rész védett a széltől.",
+                "ro": "Zona de intrare este protejată de vânt.",
+                "en": "The entrance area is sheltered from the wind."
+              }
+            },
+            {
+              "name": "Museum of the Těšín Region",
+              "tip_5lang": {
+                "de": "Planen Sie hier die längste Zeit ein.",
+                "hu": "Itt tervezze a leghosszabb tartózkodást.",
+                "ro": "Planificați aici cea mai lungă oprire.",
+                "en": "Plan your longest stay here to stay dry."
+              }
+            },
+            {
+              "name": "Castle Park",
+              "tip_5lang": {
+                "de": "Nur befestigte Wege im Park nutzen.",
+                "hu": "Csak a kiépített utakat használja a parkban.",
+                "ro": "Folosiți doar aleile pavate din parc.",
+                "en": "Use only paved paths in the park."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Festes, wasserdichtes Schuhwerk ist in Orlová Pflicht.",
+              "Das Museum ist der beste Rückzugsort bei starkem Guss.",
+              "Die Wege im Schlosspark können bei Nässe schlammig sein.",
+              "In der Nähe des Marktplatzes gibt es kleine Cafés zum Aufwärmen."
+            ],
+            "hu": [
+              "Vízálló lábbeli erősen ajánlott az óvárosi részen.",
+              "A múzeum a legjobb menedék tartós eső esetén.",
+              "A kastélypark ösvényei sárosak lehetnek, maradjon az aszfalton.",
+              "A főtér környékén több fedett kávézó is található."
+            ],
+            "ro": [
+              "Încălțămintea impermeabilă este obligatorie în Orlová.",
+              "Muzeul este cel mai bun refugiu în caz de ploaie torențială.",
+              "Aleile din parcul castelului pot fi noroioase.",
+              "Există cafenele mici lângă piață pentru a vă încălzi."
+            ],
+            "en": [
+              "Waterproof footwear is essential for walking in Orlová.",
+              "The museum is the best retreat during heavy downpours.",
+              "Castle Park paths can be muddy, stick to the main trails.",
+              "Small cafes near the square offer good indoor breaks."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen am Platz des 28. Oktobers eröffnet den Tag. Die Kälte zieht durch die Gassen, doch das Alte Rathaus und die Kirchen bieten warme Momente der Stille. Mittags wärmen wir uns im Museum der Region Teschen auf, während draußen der Frost die Stadt überzieht. Der Nachmittag im Schlosspark ist kurz, da die Sonne früh hinter den Hügeln von Schlesien verschwindet, was den Schnee glitzern lässt.",
+            "hu": "Dérlepte reggel fogad a 28. október téren, a csípős hidegben az Óvárosháza látványa melengető. Délben a templomok szakrális csendjében és hűvösében teszünk rövid látogatást. A nap fénypontja a fűtött múzeum, ahol alaposan megismerhetjük a helyi bányászmúltat. Mivel a nap korán nyugszik, a Zámecký park havas sétányait még szürkület előtt bejárjuk.",
+            "ro": "O dimineață geroasă în Piața 28 Octombrie dă startul zilei. Frigul pătrunde pe străzi, dar bisericile oferă momente de liniște și adăpost. La prânz, ne încălzim în Muzeul Regiunii Těšín, explorând expozițiile miniere. După-amiaza în parcul castelului este scurtă din cauza apusului timpuriu, dar zăpada oferă un peisaj de basm înainte de lăsarea serii.",
+            "en": "A frosty morning at October 28th Square begins our winter tour. The cold wind bites, but the churches provide quiet moments of respite. At noon, we warm up inside the Museum of the Těšín Region while frost covers the city outside. The afternoon in Castle Park is brief as the sun sets early over the Silesian hills, making the snow sparkle in the twilight."
+          },
+          "stops": [
+            {
+              "name": "October 28th Square",
+              "tip_5lang": {
+                "de": "Vorsicht vor Glatteis auf dem Pflaster.",
+                "hu": "Vigyázzon a jegesedésre a macskakövön.",
+                "ro": "Atenție la poleiul de pe pavaj.",
+                "en": "Watch out for black ice on the pavement."
+              }
+            },
+            {
+              "name": "Old Town Hall",
+              "tip_5lang": {
+                "de": "Kurzer Stopp, um dem Wind zu entgehen.",
+                "hu": "Rövid megálló a szél elleni védelemért.",
+                "ro": "Oprire scurtă pentru a evita vântul.",
+                "en": "Short stop to escape the biting wind."
+              }
+            },
+            {
+              "name": "Monument to the Strike Victims",
+              "tip_5lang": {
+                "de": "Stufen oft nicht geräumt, Rutschgefahr.",
+                "hu": "A lépcsők csúszhatnak, ha havasak.",
+                "ro": "Treptele pot fi înzăpezite și alunecoase.",
+                "en": "Steps might be snowy and very slippery."
+              }
+            },
+            {
+              "name": "Church of the Nativity of the Virgin Mary",
+              "tip_5lang": {
+                "de": "Prüfen Sie die winterlichen Öffnungszeiten.",
+                "hu": "Ellenőrizze a téli nyitvatartást.",
+                "ro": "Verificați programul de iarnă.",
+                "en": "Check winter opening hours before visiting."
+              }
+            },
+            {
+              "name": "Evangelical Church",
+              "tip_5lang": {
+                "de": "Warme Kleidung für die Innenbesichtigung.",
+                "hu": "Réteges öltözet ajánlott a benti látogatáshoz.",
+                "ro": "Haine groase necesare pentru interior.",
+                "en": "Warm clothes needed for the interior visit."
+              }
+            },
+            {
+              "name": "Museum of the Těšín Region",
+              "tip_5lang": {
+                "de": "Perfekter Ort zum Aufwärmen am Mittag.",
+                "hu": "Tökéletes hely a felmelegedéshez délben.",
+                "ro": "Locul perfect pentru încălzire la prânz.",
+                "en": "The perfect place to warm up at midday."
+              }
+            },
+            {
+              "name": "Castle Park",
+              "tip_5lang": {
+                "de": "Sonnenuntergang bereits gegen 16:15 Uhr.",
+                "hu": "A nap már 16:15 körül nyugovóra tér.",
+                "ro": "Apusul are loc deja în jurul orei 16:15.",
+                "en": "Sunset occurs early, around 16:15."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich im Zwiebelprinzip für Orlová.",
+              "Die Sonne geht im Dezember sehr früh unter.",
+              "Achten Sie auf geräumte Gehwege im Stadtzentrum.",
+              "Ein heißer Tee im Museumsbereich ist ratsam."
+            ],
+            "hu": [
+              "Réteges öltözködés javasolt a kinti sétákhoz.",
+              "A nap decemberben már délután 4 után lemegy.",
+              "Figyeljen a letakarított járdákra a központban.",
+              "Vigyen magával termoszban meleg italt."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi pentru vizita în Orlová.",
+              "Soarele apune foarte devreme în timpul iernii.",
+              "Atenție la trotuarele curățate din centrul orașului.",
+              "Un ceai fierbinte la muzeu este binevenit."
+            ],
+            "en": [
+              "Dress in layers for the cold Orlová winds.",
+              "Sun sets very early, plan to be in the park by 15:30.",
+              "Stick to cleared sidewalks in the city center.",
+              "Bring a thermos with a hot drink for the park."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -790,6 +990,224 @@
           "A good lock is essential for securing your bike at stops.",
           "The town is relatively flat, but some minor climbs are possible."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regnerische Fahrt durch Orlová. Wir starten vorsichtig am Platz des 28. Oktobers und halten kurz am Alten Rathaus. Die Route führt über nasse Straßen zu den Kirchen. Das Kulturhaus und das Museum bieten längere Trockenphasen. Die Tour endet mit einer rutschigen Runde durch den Schlosspark, wobei Vorsicht in den Kurven geboten ist.",
+            "hu": "Esős tekerés Orlová utcáin. Óvatosan indulunk a 28. október térről, rövid megállókkal a Városházánál. A vizes aszfalton haladunk a templomok felé, majd a Művelődési Ház és a Múzeum nyújt hosszabb pihenőt. A napot a Zámecký park csúszós ösvényein zárjuk, kerülve a hirtelen fékezést.",
+            "ro": "Cursă ploioasă prin Orlová. Pornim cu prudență din Piața 28 Octombrie, cu scurte opriri la Primărie. Traseul continuă pe asfalt ud spre biserici, iar Casa de Cultură și Muzeul oferă pauze lungi la adăpost. Încheiem tura cu o tură prin parcul castelului, atenți la curbe pe teren umed.",
+            "en": "Rainy ride through Orlová. We start cautiously at October 28th Square, with brief stops at the Town Hall. The route leads over wet streets to the churches, with the House of Culture and Museum providing dry breaks. The tour ends with a slippery loop through Castle Park, requiring extra care on the bends."
+          },
+          "stops": [
+            {
+              "name": "October 28th Square",
+              "tip_5lang": {
+                "de": "Vorsicht auf nassem Kopfsteinpflaster.",
+                "hu": "Vigyázzon a vizes macskakövön.",
+                "ro": "Atenție pe pavajul umed.",
+                "en": "Be careful on wet cobblestones."
+              }
+            },
+            {
+              "name": "Old Town Hall",
+              "tip_5lang": {
+                "de": "Kurzer Stopp unter dem Dachvorsprung.",
+                "hu": "Rövid megálló az ereszek alatt.",
+                "ro": "Oprire scurtă sub streșini.",
+                "en": "Short stop under the roof overhang."
+              }
+            },
+            {
+              "name": "Monument to the Strike Victims",
+              "tip_5lang": {
+                "de": "Bodenbelag hier sehr glatt bei Regen.",
+                "hu": "A burkolat itt nagyon csúszik esőben.",
+                "ro": "Pavajul este foarte alunecos aici pe ploaie.",
+                "en": "Surfaces here are very slick when wet."
+              }
+            },
+            {
+              "name": "Orlová House of Culture",
+              "tip_5lang": {
+                "de": "Gute Fahrradständer am Eingang.",
+                "hu": "Jó kerékpártárolók a bejáratnál.",
+                "ro": "Suporturi bune de biciclete la intrare.",
+                "en": "Good bike racks available at the entrance."
+              }
+            },
+            {
+              "name": "Church of the Nativity of the Virgin Mary",
+              "tip_5lang": {
+                "de": "Auffahrt zur Kirche kann rutschig sein.",
+                "hu": "A templomhoz vezető út csúszós lehet.",
+                "ro": "Urcarea spre biserică poate fi alunecoasă.",
+                "en": "The climb to the church can be slippery."
+              }
+            },
+            {
+              "name": "Evangelical Church",
+              "tip_5lang": {
+                "de": "Schneller Check, dann weiter ins Trockene.",
+                "hu": "Gyors megtekintés, majd irány a fedett hely.",
+                "ro": "Vizită rapidă, apoi spre un loc uscat.",
+                "en": "Quick check, then head to a dry spot."
+              }
+            },
+            {
+              "name": "Museum of the Těšín Region",
+              "tip_5lang": {
+                "de": "Sicherer Parkplatz für Fahrräder.",
+                "hu": "Biztonságos kerékpárparkoló a közelben.",
+                "ro": "Parcare sigură pentru biciclete în zonă.",
+                "en": "Secure bike parking available nearby."
+              }
+            },
+            {
+              "name": "Castle Park",
+              "tip_5lang": {
+                "de": "Nasses Laub auf den Wegen beachten.",
+                "hu": "Ügyeljen a vizes levelekre az úton.",
+                "ro": "Atenție la frunzele ude de pe alei.",
+                "en": "Watch out for wet leaves on the paths."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind bei diesem Wetter unverzichtbar.",
+              "Vermeiden Sie abruptes Bremsen auf Kopfsteinpflaster.",
+              "Nutzen Sie das Museum für eine lange Aufwärmpause.",
+              "Vorder- und Rücklicht auch tagsüber einschalten."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen ilyen időben.",
+              "Kerülje a hirtelen fékezést a macskakövön.",
+              "Használja ki a múzeumot egy hosszú pihenőre.",
+              "Kapcsolja be a lámpákat nappal is a láthatóságért."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt indispensabile acum.",
+              "Evitați frânarea bruscă pe pavaj.",
+              "Folosiți muzeul pentru o pauză lungă de încălzire.",
+              "Aprindeți luminile și în timpul zilei."
+            ],
+            "en": [
+              "Mudguards are essential for this ride.",
+              "Avoid sudden braking on the old town cobblestones.",
+              "Use the museum for a long indoor break.",
+              "Keep your lights on even during the day for visibility."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radeln in Orlová bei klirrender Kälte. Der Platz des 28. Oktobers ist oft vereist, daher ist eine ruhige Fahrweise nötig. Die Kirchenbesuche bieten kurze Pausen vom kalten Wind. Mittags ist das Museum der rettende Hafen. Die Tour schließt im winterlichen Schlosspark ab, bevor die Dämmerung gegen 16 Uhr die Sicht einschränkt.",
+            "hu": "Téli kerékpározás Orlová fagyos utcáin. A 28. október tér gyakran jeges, ezért lassú tempó javasolt. A templomlátogatások rövid védelmet adnak a fagyos szél ellen. Délben a múzeum a melegedő bázisunk. A túrát a havas Zámecký parkban fejezzük be, még a korai sötétedés előtt.",
+            "ro": "Ciclism de iarnă în Orlová pe un ger pătrunzător. Piața 28 Octombrie este adesea înghețată, deci e necesară o viteză redusă. Vizitele la biserici oferă scurte pauze de vânt. La prânz, muzeul este refugiul salvator. Tura se încheie în parcul castelului înainte ca amurgul să limiteze vizibilitatea la ora 16.",
+            "en": "Winter cycling in Orlová amidst biting cold. October 28th Square is often icy, requiring steady handling. Church visits offer brief breaks from the freezing wind. At noon, the museum is our warm harbor. The tour concludes in the snowy Castle Park before dusk limits visibility around 4 PM."
+          },
+          "stops": [
+            {
+              "name": "October 28th Square",
+              "tip_5lang": {
+                "de": "Gefahr durch gefrierende Nässe.",
+                "hu": "Veszélyes lehet a lefagyott pára.",
+                "ro": "Pericol de polei pe pavaj.",
+                "en": "Danger of freezing moisture on the ground."
+              }
+            },
+            {
+              "name": "Old Town Hall",
+              "tip_5lang": {
+                "de": "Kurzer Halt für ein Foto im Schnee.",
+                "hu": "Rövid megálló egy havas fotóra.",
+                "ro": "Oprire scurtă pentru o poză în zăpadă.",
+                "en": "Brief stop for a snowy photo."
+              }
+            },
+            {
+              "name": "Monument to the Strike Victims",
+              "tip_5lang": {
+                "de": "Vorsicht beim Absteigen, glatter Untergrund.",
+                "hu": "Vigyázzon leszálláskor a csúszós talajra.",
+                "ro": "Atenție la descălecare pe teren alunecos.",
+                "en": "Be careful when dismounting on slick surfaces."
+              }
+            },
+            {
+              "name": "Orlová House of Culture",
+              "tip_5lang": {
+                "de": "Windgeschützter Bereich zum Sammeln.",
+                "hu": "Szélvédett rész a várakozáshoz.",
+                "ro": "Zonă protejată de vânt pentru regrupare.",
+                "en": "Wind-sheltered area to regroup."
+              }
+            },
+            {
+              "name": "Church of the Nativity of the Virgin Mary",
+              "tip_5lang": {
+                "de": "Vereiste Stellen im Schatten beachten.",
+                "hu": "Ügyeljen az árnyékos részeken a jégre.",
+                "ro": "Atenție la porțiunile înghețate la umbră.",
+                "en": "Watch for icy patches in the shadows."
+              }
+            },
+            {
+              "name": "Evangelical Church",
+              "tip_5lang": {
+                "de": "Helles Licht für dunkle Winternachmittage.",
+                "hu": "Használjon erős lámpát a sötét délutánon.",
+                "ro": "Lumină puternică necesară după-amiaza.",
+                "en": "Bright lights needed for dark afternoons."
+              }
+            },
+            {
+              "name": "Museum of the Těšín Region",
+              "tip_5lang": {
+                "de": "Längerer Aufenthalt zum Aufwärmen.",
+                "hu": "Hosszabb tartózkodás javasolt a fűtés miatt.",
+                "ro": "Ședere prelungită pentru încălzire.",
+                "en": "Stay longer to regain body heat."
+              }
+            },
+            {
+              "name": "Castle Park",
+              "tip_5lang": {
+                "de": "Wegen Eisgefahr auf den Hauptwegen bleiben.",
+                "hu": "Jégveszély miatt maradjon a főutakon.",
+                "ro": "Rămâneți pe aleile principale datorită gheții.",
+                "en": "Stay on main paths due to ice hazard."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Reifendruck für besseren Grip.",
+              "Warme Handschuhe sind absolut überlebenswichtig.",
+              "Die Tour sollte spätestens um 16 Uhr enden.",
+              "Achten Sie auf Streusalz, das die Kette angreift."
+            ],
+            "hu": [
+              "Ellenőrizze a guminyomást a jobb tapadásért.",
+              "A meleg kesztyű életmentő lehet.",
+              "A túrát fejezze be legkésőbb délután 4-ig.",
+              "Az útszóró só károsíthatja a kerékpár láncát."
+            ],
+            "ro": [
+              "Verificați presiunea în pneuri pentru aderență.",
+              "Mănușile groase sunt absolut vitale.",
+              "Finalizați tura cel târziu la ora 16:00.",
+              "Atenție la sarea de pe drum care atacă lanțul."
+            ],
+            "en": [
+              "Lower tire pressure slightly for better grip on ice.",
+              "Heavy-duty gloves are mandatory for this ride.",
+              "Plan to finish the tour by 16:00 due to darkness.",
+              "Wash your bike after to remove corrosive road salt."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1170,6 +1588,206 @@
           "Do not leave valuables visible in the car.",
           "The cluster strategy saves time searching for parking at each individual sight."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Bequeme Regentour durch Orlová. Wir steuern die Cluster-Parkplätze an, um die Wege im Regen zu minimieren. Das Alte Rathaus und das Monument sind schnell erreicht. Mittags verbringen wir viel Zeit im Museum, das direkt angefahren werden kann. Der Tag klingt mit einer Panoramafahrt durch den nassen Schlosspark aus, wobei wir die Aussicht trocken aus dem Auto genießen.",
+            "hu": "Kényelmes esős túra Orlován. A parkolókat úgy válogatjuk meg, hogy minimálisat kelljen gyalogolni. Az Óvárosháza és az emlékmű gyorsan megtekinthető. Délben a múzeum fűtött és száraz épületében időzünk hosszabban. A napot a Zámecký park melletti autózással zárjuk, élvezve a kilátást az autó ablakából.",
+            "ro": "Tur cu mașina prin Orlová pe ploaie. Vizităm punctele de interes parcând cât mai aproape pentru a evita ploaia. Vechea Primărie și Monumentul sunt accesibile rapid. La prânz, petrecem timp la Muzeul Regiunii Těšín, unde parcarea este facilă. Încheiem ziua cu o trecere prin zona parcului castelului, admirând peisajul de la adăpost.",
+            "en": "Comfortable rainy tour of Orlová. We target parking clusters to minimize walking in the wet. The Old Town Hall and Monument are reached quickly. At noon, we spend ample time at the museum, which is easily accessible by car. The day ends with a scenic drive past Castle Park, enjoying the view from the dry interior of the vehicle."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Central Square",
+              "tip_5lang": {
+                "de": "Parkplatz direkt am Platz nutzen.",
+                "hu": "Használja a közvetlen téri parkolót.",
+                "ro": "Folosiți parcarea direct din piață.",
+                "en": "Use the parking lot directly on the square."
+              }
+            },
+            {
+              "name": "Old Town Hall",
+              "tip_5lang": {
+                "de": "Kurzer Ausstieg, Schirm bereithalten.",
+                "hu": "Rövid kiszállás, legyen kéznél esernyő.",
+                "ro": "Coborâre scurtă, țineți umbrela la îndemână.",
+                "en": "Quick exit, keep your umbrella ready."
+              }
+            },
+            {
+              "name": "Monument to the Strike Victims",
+              "tip_5lang": {
+                "de": "Vorsicht beim Einparken bei Nässe.",
+                "hu": "Vigyázzon a parkoláskor a csúszós úton.",
+                "ro": "Atenție la parcare pe carosabil umed.",
+                "en": "Be careful when parking on wet surfaces."
+              }
+            },
+            {
+              "name": "Cluster B: Churches & Museum",
+              "tip_5lang": {
+                "de": "Zentraler Parkplatz für beide Ziele.",
+                "hu": "Központi parkoló mindkét célponthoz.",
+                "ro": "Parcare centrală pentru ambele obiective.",
+                "en": "Central parking spot for both destinations."
+              }
+            },
+            {
+              "name": "Church of the Nativity of the Virgin Mary",
+              "tip_5lang": {
+                "de": "Eingang ist nur wenige Meter entfernt.",
+                "hu": "A bejárat csak pár méterre van.",
+                "ro": "Intrarea este la doar câțiva metri distanță.",
+                "en": "The entrance is just a few meters away."
+              }
+            },
+            {
+              "name": "Museum of the Těšín Region",
+              "tip_5lang": {
+                "de": "Parken direkt vor dem Museum möglich.",
+                "hu": "Parkolás közvetlenül a múzeum előtt.",
+                "ro": "Parcare posibilă chiar în fața muzeului.",
+                "en": "Parking is available directly in front."
+              }
+            },
+            {
+              "name": "Castle Park",
+              "tip_5lang": {
+                "de": "Schöne Aussicht vom Parkplatz aus.",
+                "hu": "Szép kilátás nyílik a parkolóból.",
+                "ro": "Vedere frumoasă direct din parcare.",
+                "en": "Good views even from the parking area."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Parkplätze in unmittelbarer Nähe.",
+              "Hinterlassen Sie keine feuchten Schirme auf den Sitzen.",
+              "Scheinwerfer bei Regen einschalten.",
+              "Die Zufahrt zum Schlosspark kann eng sein."
+            ],
+            "hu": [
+              "Használja a közvetlen közeli parkolóhelyeket.",
+              "Ne hagyja a vizes esernyőt az üléseken.",
+              "Kapcsolja be a fényszórókat esőben.",
+              "A kastélyparkhoz vezető út szűk lehet."
+            ],
+            "ro": [
+              "Folosiți parcările din imediata apropiere.",
+              "Nu lăsați umbrelele ude pe scaunele mașinii.",
+              "Aprindeți farurile pe timp de ploaie.",
+              "Accesul spre parcul castelului poate fi strâmt."
+            ],
+            "en": [
+              "Prioritize parking lots closest to the entrances.",
+              "Don't leave wet umbrellas on car seats.",
+              "Keep your headlights on for better visibility.",
+              "The drive near Castle Park can be narrow."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Wintertour durch das verschneite Orlová. Dank der Heizung ist die Fahrt angenehm, während wir die historischen Cluster ansteuern. Der Platz des 28. Oktobers erstrahlt im Winterlicht. Das Museum bietet die perfekte Mittagspause im Warmen. Zum Abschluss genießen wir die schneebedeckte Landschaft des Schlossparks, bevor wir die Rückreise im Dunkeln antreten.",
+            "hu": "Téli autós túra a havas Orlován. A fűtött utastérben kényelmesen érjük el a történelmi helyszíneket. A 28. október tér különleges téli fényben tündököl. A múzeum tökéletes menedék a fagy elől délben. A túrát a havas Zámecký park látványával zárjuk, mielőtt sötétedés után elindulnánk haza.",
+            "ro": "Tur de iarnă prin Orlová înzăpezită. Datorită încălzirii, drumul este plăcut spre zonele istorice. Piața 28 Octombrie strălucește în lumina iernii. Muzeul oferă pauza de prânz ideală la căldură. La final, admirăm peisajul alb al parcului castelului înainte de a pleca spre casă pe întuneric.",
+            "en": "Winter car tour through snowy Orlová. Heated interiors make the drive pleasant as we visit historical clusters. October 28th Square glows in the winter light. The museum provides the perfect warm break at noon. To finish, we enjoy the snow-covered views of Castle Park before heading home after dark."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Central Square",
+              "tip_5lang": {
+                "de": "Parkplätze können vereist sein.",
+                "hu": "A parkolóhelyek jegesek lehetnek.",
+                "ro": "Locurile de parcare pot fi înghețate.",
+                "en": "Parking spots might be icy."
+              }
+            },
+            {
+              "name": "Old Town Hall",
+              "tip_5lang": {
+                "de": "Kurzer Stopp für Fotos, Motor warmhalten.",
+                "hu": "Rövid megálló fotózásra.",
+                "ro": "Oprire scurtă pentru poze.",
+                "en": "Short stop for photos."
+              }
+            },
+            {
+              "name": "Monument to the Strike Victims",
+              "tip_5lang": {
+                "de": "Vorsicht bei Schneehaufen am Straßenrand.",
+                "hu": "Vigyázzon a hóbuckákra az út szélén.",
+                "ro": "Atenție la troienele de la marginea drumului.",
+                "en": "Watch out for snowbanks on the roadside."
+              }
+            },
+            {
+              "name": "Cluster B: Churches & Museum",
+              "tip_5lang": {
+                "de": "Einfahrt zum Parkplatz oft rutschig.",
+                "hu": "A parkoló bejárata gyakran csúszós.",
+                "ro": "Intrarea în parcare este adesea alunecoasă.",
+                "en": "Parking lot entrance is often slippery."
+              }
+            },
+            {
+              "name": "Church of the Nativity of the Virgin Mary",
+              "tip_5lang": {
+                "de": "Vorsicht beim Aussteigen auf Eis.",
+                "hu": "Vigyázzon a kiszálláskor a jégre.",
+                "ro": "Atenție la coborâre pe gheață.",
+                "en": "Watch your step on ice when exiting."
+              }
+            },
+            {
+              "name": "Museum of the Těšín Region",
+              "tip_5lang": {
+                "de": "Guter Ort für eine lange Aufwärmpause.",
+                "hu": "Jó hely egy hosszú felmelegedéshez.",
+                "ro": "Loc bun pentru o pauză lungă de încălzire.",
+                "en": "Excellent spot for a long warm-up."
+              }
+            },
+            {
+              "name": "Castle Park",
+              "tip_5lang": {
+                "de": "Aussicht genießen, bevor es dunkel wird.",
+                "hu": "Élvezze a kilátást sötétedés előtt.",
+                "ro": "Admirați vederea înainte de întuneric.",
+                "en": "Enjoy the view before it gets dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Winterreifen und Frostschutz.",
+              "Die Parkplätze am Museum sind meist gut geräumt.",
+              "Planen Sie mehr Zeit für die Parkplatzsuche ein.",
+              "Die Scheiben können schnell beschlagen."
+            ],
+            "hu": [
+              "Ellenőrizze a téli gumikat és a fagyállót.",
+              "A múzeumi parkoló általában jól takarított.",
+              "Tervezzen több időt a parkolóhely keresésére.",
+              "Az ablakok gyorsan bepárásodhatnak."
+            ],
+            "ro": [
+              "Verificați anvelopele de iarnă și antigelul.",
+              "Parcările de la muzeu sunt de obicei deszăpezite.",
+              "Alocați mai mult timp pentru căutarea parcării.",
+              "Geamurile se pot aburi rapid."
+            ],
+            "en": [
+              "Ensure you have winter tires and antifreeze.",
+              "The museum parking lot is usually well-cleared.",
+              "Allow extra time for finding a parking spot.",
+              "Keep the defroster on to prevent fogged windows."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1550,6 +2168,206 @@
           "Most buses are modern and accessible.",
           "Have small change ready for tickets if buying from the driver."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus durch das verregnete Orlová. Wir nutzen die Haltestellen nahe dem Zentrum, um trocken zum Platz des 28. Oktobers zu kommen. Das Kulturhaus bietet Schutz am Vormittag. Den Mittag und frühen Nachmittag verbringen wir im trockenen Museum der Region Teschen. Die Tour endet mit einer Busfahrt am Schlosspark vorbei, wobei wir die nassen Bäume aus dem Fenster beobachten.",
+            "hu": "Busszal az esős Orlován. A központi megállókat használjuk, hogy szárazon jussunk a 28. október térre. A Művelődési Ház délelőtti menedéket nyújt. A délutánt a Těšíni Régió Múzeumában töltjük, elkerülve az esőt. A napot a busz ablakából látható Zámecký park látványával zárjuk.",
+            "ro": "Cu autobuzul prin Orlová pe ploaie. Folosim stațiile centrale pentru a ajunge uscați în Piața 28 Octombrie. Casa de Cultură oferă adăpost dimineața. Prânzul și după-amiaza sunt dedicate muzeului, feriți de ploaie. Încheiem ziua privind copacii uzi ai parcului prin geamul autobuzului.",
+            "en": "By bus through rainy Orlová. We use central stops to reach October 28th Square while staying dry. The House of Culture provides morning shelter. Midday and afternoon are spent inside the Museum of the Těšín Region, avoiding the rain. The tour ends with a bus ride past Castle Park, watching the wet landscape from the window."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Center",
+              "tip_5lang": {
+                "de": "Haltestelle mit Unterstand wählen.",
+                "hu": "Válasszon fedett buszmegállót.",
+                "ro": "Alegeți o stație cu adăpost.",
+                "en": "Choose a bus stop with a shelter."
+              }
+            },
+            {
+              "name": "Old Town Hall",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg von der Bushaltestelle.",
+                "hu": "Rövid séta a buszmegállótól.",
+                "ro": "Drum scurt pe jos de la stație.",
+                "en": "Short walk from the bus stop."
+              }
+            },
+            {
+              "name": "Orlová House of Culture",
+              "tip_5lang": {
+                "de": "Perfekter Ort für eine Regenpause.",
+                "hu": "Tökéletes hely egy esőszünetre.",
+                "ro": "Loc perfect pentru o pauză de ploaie.",
+                "en": "Perfect spot for a rain break."
+              }
+            },
+            {
+              "name": "Cluster B: History & Faith",
+              "tip_5lang": {
+                "de": "Busse halten direkt in der Nähe.",
+                "hu": "A buszok közvetlenül a közelben állnak meg.",
+                "ro": "Autobuzele opresc chiar în apropiere.",
+                "en": "Buses stop very close to this cluster."
+              }
+            },
+            {
+              "name": "Church of the Nativity of the Virgin Mary",
+              "tip_5lang": {
+                "de": "Schneller Zugang zum trockenen Innenraum.",
+                "hu": "Gyors bejutás a száraz belső térbe.",
+                "ro": "Acces rapid la interiorul uscat.",
+                "en": "Quick access to the dry interior."
+              }
+            },
+            {
+              "name": "Museum of the Těšín Region",
+              "tip_5lang": {
+                "de": "Ideale Busverbindung für nasse Tage.",
+                "hu": "Ideális buszközlekedés esős napokra.",
+                "ro": "Conexiune ideală cu autobuzul pe ploaie.",
+                "en": "Ideal bus connection for rainy days."
+              }
+            },
+            {
+              "name": "Castle Park",
+              "tip_5lang": {
+                "de": "Blick aus dem Busfenster genießen.",
+                "hu": "Élvezze a kilátást a busz ablakából.",
+                "ro": "Admirați parcul prin geamul autobuzului.",
+                "en": "Enjoy the park view from the bus window."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die App für aktuelle Busabfahrten.",
+              "Warten Sie in den Haltestellenhäuschen.",
+              "Das Museum ist sehr gut mit dem ÖPNV erreichbar.",
+              "Halten Sie Kleingeld oder Karte bereit."
+            ],
+            "hu": [
+              "Használja az alkalmazást a buszok indulásához.",
+              "Várjon a fedett megállókban az eső elől.",
+              "A múzeum jól megközelíthető tömegközlekedéssel.",
+              "Készítse elő aprópénzét vagy kártyáját."
+            ],
+            "ro": [
+              "Folosiți aplicația pentru orarul autobuzelor.",
+              "Așteptați în stațiile acoperite.",
+              "Muzeul este foarte accesibil cu transportul public.",
+              "Pregătiți mărunțiș sau cardul pentru bilet."
+            ],
+            "en": [
+              "Use the local transit app for live updates.",
+              "Wait inside bus shelters to stay dry.",
+              "The museum is very well connected by public transport.",
+              "Have your change or card ready for fare."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliche Busreise durch Orlová. Die geheizten Busse sind eine Wohltat bei den frostigen Temperaturen am Platz des 28. Oktobers. Wir erkunden die Stadtgeschichte in Etappen, wobei das Museum am Mittag den wärmsten Stopp darstellt. Der Nachmittag endet mit der Fahrt durch die verschneiten Vororte, bevor die Dunkelheit den Schlosspark einhüllt.",
+            "hu": "Téli buszos utazás Orlován. A fűtött buszok hívogatóak a fagyos 28. október téren. Szakaszosan fedezzük fel a várost, a múzeumnál tartva a leghosszabb melegedőt. A délutánt a havas elővárosok látványa zárja, mielőtt a sötétség teljesen belepné a Zámecký parkot.",
+            "ro": "Călătorie de iarnă cu autobuzul prin Orlová. Autobuzele încălzite sunt binevenite la temperaturile geroase din Piața 28 Octombrie. Explorăm istoria orașului în etape, muzeul fiind cea mai caldă oprire. După-amiaza se încheie cu drumul prin suburbiile înzăpezite înainte de lăsarea serii.",
+            "en": "Winter bus journey through Orlová. Heated buses are a relief during the freezing temperatures at October 28th Square. We explore the city's history in stages, with the museum being the warmest stop at midday. The afternoon ends with a ride through snowy suburbs before darkness covers Castle Park."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Center",
+              "tip_5lang": {
+                "de": "Windgeschützte Haltestellen nutzen.",
+                "hu": "Használja a szélvédett megállókat.",
+                "ro": "Folosiți stațiile protejate de vânt.",
+                "en": "Use wind-sheltered bus stops."
+              }
+            },
+            {
+              "name": "Old Town Hall",
+              "tip_5lang": {
+                "de": "Kurzer, kalter Weg zur Haltestelle.",
+                "hu": "Rövid, hideg séta a megállóhoz.",
+                "ro": "Drum scurt și rece spre stație.",
+                "en": "Short, cold walk to the stop."
+              }
+            },
+            {
+              "name": "Orlová House of Culture",
+              "tip_5lang": {
+                "de": "Guter Ort zum Warten im Warmen.",
+                "hu": "Jó hely a melegben való várakozáshoz.",
+                "ro": "Loc bun pentru așteptare la căldură.",
+                "en": "Good place to wait in the warm."
+              }
+            },
+            {
+              "name": "Cluster B: History & Faith",
+              "tip_5lang": {
+                "de": "Busse fahren hier regelmäßig ab.",
+                "hu": "A buszok innen rendszeresen indulnak.",
+                "ro": "Autobuzele pleacă regulat de aici.",
+                "en": "Buses depart regularly from here."
+              }
+            },
+            {
+              "name": "Church of the Nativity of the Virgin Mary",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Rückweg zur Haltestelle.",
+                "hu": "Ellenőrizze a visszautat a megállóhoz.",
+                "ro": "Verificați drumul înapoi spre stație.",
+                "en": "Check the path back to the stop."
+              }
+            },
+            {
+              "name": "Museum of the Těšín Region",
+              "tip_5lang": {
+                "de": "Warmer Stopp vor der Weiterfahrt.",
+                "hu": "Meleg állomás a továbbút előtt.",
+                "ro": "Oprire caldă înainte de continuarea drumului.",
+                "en": "Warm stop before continuing your journey."
+              }
+            },
+            {
+              "name": "Castle Park",
+              "tip_5lang": {
+                "de": "Busfahrt bei Dämmerung ist malerisch.",
+                "hu": "A buszozás szürkületben festői.",
+                "ro": "Drumul cu autobuzul la amurg e pitoresc.",
+                "en": "The bus ride at twilight is picturesque."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf winterliche Fahrplanänderungen.",
+              "Busse sind oft der sicherste Weg bei Glatteis.",
+              "Wärmen Sie sich in den Pausen im Museum auf.",
+              "Tragen Sie Reflektoren für den Abend."
+            ],
+            "hu": [
+              "Ügyeljen a téli menetrendi változásokra.",
+              "A busz a legbiztonságosabb jeges időben.",
+              "Melegedjen fel a múzeumi pihenő alatt.",
+              "Viseljen fényvisszaverőt este a láthatóságért."
+            ],
+            "ro": [
+              "Atenție la modificările de orar iarna.",
+              "Autobuzul e cea mai sigură cale pe polei.",
+              "Încălziți-vă în timpul pauzei la muzeu.",
+              "Purtați elemente reflectorizante seara."
+            ],
+            "en": [
+              "Check for winter schedule adjustments.",
+              "Buses are often the safest way to travel on ice.",
+              "Take advantage of the museum's heating.",
+              "Wear reflectors for safety during the early dark."
+            ]
+          }
+        }
       }
     }
   }

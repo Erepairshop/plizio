@@ -366,6 +366,206 @@
           "Most attractions in the city center are within easy walking distance.",
           "Bring some cash for small purchases at the market."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt unter dem schützenden Vordach des Rathauses, während der Regen auf das Kopfpflaster prasselt. Mittags bietet das Museum des Polnischen Liedes den perfekten trockenen Zufluchtsort mit interaktiven Ausstellungen. Am Nachmittag wirkt das Oppelner Venedig durch die Spiegelungen im Wasser besonders mystisch. Den Tag beenden wir im Zoo, wo die überdachten Pavillons Schutz bieten, während die Natur draußen aufatmet.",
+            "hu": "A reggel a városháza árkádjai alatt indul, miközben az eső veri a macskaköveket. Délben a Lengyel Dal Múzeuma nyújt tökéletes, száraz menedéket interaktív kiállításaival. Délután az Oppelni Velence a vízi tükröződések miatt különösen misztikus arcát mutatja. A napot az állatkertben zárjuk, ahol a fedett pavilonok védelmet nyújtanak, miközben a kinti természet felfrissül.",
+            "ro": "Dimineața începe sub arcadele primăriei, în timp ce ploaia bate în pavajul de piatră. La prânz, Muzeul Cântecului Polonez oferă refugiul uscat perfect cu expozițiile sale interactive. După-amiaza, Veneția din Opole pare deosebit de mistică datorită reflexiilor din apă. Încheiem ziua la grădina zoologică, unde pavilioanele acoperite oferă adăpost în timp ce natura de afară se reîmprospătează.",
+            "en": "The morning starts under the town hall's porticos as rain hits the cobblestones. At noon, the Museum of Polish Song provides the perfect dry sanctuary with its interactive exhibits. In the afternoon, Opole Venice looks particularly mystical with the reflections in the water. We end the day at the zoo, where covered pavilions offer shelter while the nature outside breathes again."
+          },
+          "stops": [
+            {
+              "name": "Opole Town Hall",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den Arkaden des Rathauses.",
+                "hu": "Keressen menedéket a városháza árkádjai alatt.",
+                "ro": "Căutați adăpost sub arcadele primăriei.",
+                "en": "Seek shelter under the town hall porticos."
+              }
+            },
+            {
+              "name": "Cathedral of the Holy Cross",
+              "tip_5lang": {
+                "de": "Ein ruhiger, trockener Ort für eine Besichtigung.",
+                "hu": "Csendes, száraz hely egy belső látogatáshoz.",
+                "ro": "Un loc liniștit și uscat pentru o vizită interioară.",
+                "en": "A quiet, dry place for an indoor visit."
+              }
+            },
+            {
+              "name": "Museum of Polish Song",
+              "tip_5lang": {
+                "de": "Ideal für Regentage, komplett überdacht.",
+                "hu": "Ideális esős napokra, teljesen fedett.",
+                "ro": "Ideal pentru zilele ploioase, complet acoperit.",
+                "en": "Ideal for rainy days, completely indoors."
+              }
+            },
+            {
+              "name": "Piast Tower",
+              "tip_5lang": {
+                "de": "Vorsicht, die Stufen können bei Nässe rutschig sein.",
+                "hu": "Vigyázat, a lépcsők nedvesen csúszósak lehetnek.",
+                "ro": "Atenție, treptele pot fi alunecoase când sunt ude.",
+                "en": "Caution, the steps can be slippery when wet."
+              }
+            },
+            {
+              "name": "Opole Venice",
+              "tip_5lang": {
+                "de": "Schöne Spiegelungen im Kanal bei Regen.",
+                "hu": "Szép tükröződések a csatornán esőben.",
+                "ro": "Reflexii frumoase pe canal pe timp de ploaie.",
+                "en": "Beautiful reflections on the canal during rain."
+              }
+            },
+            {
+              "name": "Bolko Island",
+              "tip_5lang": {
+                "de": "Feste Schuhe sind wegen möglicher Pfützen ratsam.",
+                "hu": "A pocsolyák miatt vízálló túracipő ajánlott.",
+                "ro": "Se recomandă încălțăminte impermeabilă din cauza bălților.",
+                "en": "Waterproof shoes recommended due to puddles."
+              }
+            },
+            {
+              "name": "Opole Zoo",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Giraffenhaus als Regenschutz.",
+                "hu": "Használja a zsiráfházat eső elleni menedékként.",
+                "ro": "Folosiți casa girafei ca adăpost împotriva ploii.",
+                "en": "Use the giraffe house as shelter from the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Regenschirm ist bei Wind am Kanal unerlässlich.",
+              "Die Passage am Marktplatz bietet trockene Gehwege.",
+              "Nutzen Sie die vielen Cafés in der Altstadt für Aufwärmpausen.",
+              "Das Museum am Amphitheater ist der beste Ort bei Starkregen."
+            ],
+            "hu": [
+              "A csatorna menti szél miatt stabil esernyő szükséges.",
+              "A főtéri passzázsok száraz útvonalat biztosítanak.",
+              "Használja ki az óvárosi kávézókat egy-egy pihenőre.",
+              "A múzeum az amfiteátrumnál a legjobb hely heves esőben."
+            ],
+            "ro": [
+              "O umbrelă stabilă este esențială din cauza vântului de pe canal.",
+              "Pasajele din piața centrală oferă rute uscate.",
+              "Profitați de cafenelele din centrul vechi pentru pauze.",
+              "Muzeul de lângă amfiteatru este cel mai bun loc în caz de ploaie torențială."
+            ],
+            "en": [
+              "A sturdy umbrella is essential due to wind along the canal.",
+              "Passages around the main square provide dry routes.",
+              "Make use of old town cafes for rest stops.",
+              "The museum by the amphitheater is the best spot during heavy rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen beginnt am Rathaus, wo der Duft von heißem Tee in der Luft liegt. Mittags wärmen wir uns in der Kathedrale auf, bevor wir die moderne Wärme des Musikmuseums genießen. Am Nachmittag glitzert der Frost auf den Brücken des Oppelner Venedigs. Wir beenden den Tag auf der Bolko-Insel, wo die kahlen Bäume eine stille Winterlandschaft bilden, bevor die frühe Dunkelheit die Stadtlichter entzündet.",
+            "hu": "Fagyos reggel indul a városházánál, ahol forró tea illata lengi be a teret. Délben a székesegyházban melegszünk fel, majd a zenemúzeum modern fűtött tereit élvezzük. Délután a zúzmara csillog az Oppelni Velence hídjain. A napot a Bolko-szigeten zárjuk, ahol a kopár fák csendes téli tájat alkotnak, mielőtt a korai sötétedésben kigyúlnak a város fényei.",
+            "ro": "O dimineață geroasă începe la primărie, unde mirosul de ceai fierbinte plutește în aer. La prânz ne încălzim în catedrală, apoi ne bucurăm de spațiile moderne încălzite ale muzeului muzicii. După-amiaza, chiciura strălucește pe podurile din Veneția de Opole. Încheiem ziua pe insula Bolko, unde copacii golași formează un peisaj de iarnă liniștit, înainte ca întunericul timpuriu să aprindă luminile orașului.",
+            "en": "A frosty morning begins at the town hall, where the scent of hot tea fills the air. At noon we warm up in the cathedral, then enjoy the modern heated spaces of the music museum. In the afternoon, frost sparkles on the bridges of Opole Venice. We end the day on Bolko Island, where bare trees form a quiet winter landscape before early darkness lights up the city."
+          },
+          "stops": [
+            {
+              "name": "Opole Town Hall",
+              "tip_5lang": {
+                "de": "Genießen Sie die Weihnachtsbeleuchtung am Platz.",
+                "hu": "Élvezze az ünnepi kivilágítást a téren.",
+                "ro": "Bucurați-vă de iluminatul festiv din piață.",
+                "en": "Enjoy the festive lights on the square."
+              }
+            },
+            {
+              "name": "Cathedral of the Holy Cross",
+              "tip_5lang": {
+                "de": "Ein Ort der Stille und leichten Wärme.",
+                "hu": "A csend és az enyhe meleg helyszíne.",
+                "ro": "Un loc de liniște și căldură ușoară.",
+                "en": "A place of silence and mild warmth."
+              }
+            },
+            {
+              "name": "Museum of Polish Song",
+              "tip_5lang": {
+                "de": "Perfekt beheizt für einen langen Aufenthalt.",
+                "hu": "Tökéletesen fűtött egy hosszabb látogatáshoz.",
+                "ro": "Perfect încălzit pentru o ședere lungă.",
+                "en": "Perfectly heated for a long stay."
+              }
+            },
+            {
+              "name": "Piast Tower",
+              "tip_5lang": {
+                "de": "Vorsicht vor Eis auf den Stufen.",
+                "hu": "Vigyázzon a lépcsőkön lévő jéggel.",
+                "ro": "Atenție la gheața de pe trepte.",
+                "en": "Watch out for ice on the steps."
+              }
+            },
+            {
+              "name": "Opole Venice",
+              "tip_5lang": {
+                "de": "Der Kanal dampft oft bei starkem Frost.",
+                "hu": "A csatorna gyakran gőzölög erős fagyban.",
+                "ro": "Canalul scoate adesea aburi la ger puternic.",
+                "en": "The canal often steams during hard frost."
+              }
+            },
+            {
+              "name": "Bolko Island",
+              "tip_5lang": {
+                "de": "Die Wege können bei Schnee rutschig sein.",
+                "hu": "Az utak hóban csúszósak lehetnek.",
+                "ro": "Drumurile pot fi alunecoase pe zăpadă.",
+                "en": "Paths can be slippery in the snow."
+              }
+            },
+            {
+              "name": "Opole Zoo",
+              "tip_5lang": {
+                "de": "Besuchen Sie die warmen Tierhäuser.",
+                "hu": "Látogassa meg a fűtött állatházakat.",
+                "ro": "Vizitați adăposturile încălzite ale animalelor.",
+                "en": "Visit the heated animal houses."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Dezember bereits gegen 16:00 Uhr unter.",
+              "Tragen Sie Thermokleidung für den Spaziergang zur Insel.",
+              "In der Altstadt gibt es oft Stände mit heißen Getränken.",
+              "Planen Sie mehr Zeit für die Zoo-Pavillons ein."
+            ],
+            "hu": [
+              "A nap decemberben már 16:00 körül lemegy.",
+              "Viseljen hőtartó ruházatot a szigeti sétához.",
+              "Az óvárosban gyakran találni forró italokat árusító bódékat.",
+              "Tervezzen több időt az állatkerti pavilonokra."
+            ],
+            "ro": [
+              "Soarele apune deja în jur de ora 16:00 în decembrie.",
+              "Purtați haine termice pentru plimbarea pe insulă.",
+              "În centrul vechi există adesea standuri cu băuturi calde.",
+              "Alocați mai mult timp pentru pavilioanele de la grădina zoologică."
+            ],
+            "en": [
+              "The sun sets as early as 4 PM in December.",
+              "Wear thermal clothing for the island walk.",
+              "Hot drink stalls are often found in the old town.",
+              "Plan more time for the indoor zoo pavilions."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -750,6 +950,224 @@
           "Many bridges are also accessible to cyclists.",
           "Bring a good lock to secure your bike at the sights."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir radeln vorsichtig durch die nassen Gassen der Altstadt zum Rathaus. Mittags lassen wir die Räder im trockenen Parkhaus stehen und erkunden das Musikmuseum. Am Nachmittag führt die Route entlang des Młynówka-Kanals, wo die Bäume natürlichen Schutz bieten. Den Tag beenden wir auf der Bolko-Insel, wobei wir die asphaltierten Wege nutzen, um Matsch zu vermeiden.",
+            "hu": "Óvatosan tekerünk az óváros nedves utcáin a városházáig. Délben a bicikliket száraz parkolóban hagyjuk, és felfedezzük a zenemúzeumot. Délután az útvonal a Młynówka-csatorna mentén halad, ahol a fák természetes védelmet nyújtanak. A napot a Bolko-szigeten zárjuk, az aszfaltozott utakat használva a sár elkerülése érdekében.",
+            "ro": "Pedalăm cu atenție prin străzile umede ale centrului vechi spre primărie. La prânz lăsăm bicicletele într-o parcare uscată și explorăm muzeul muzicii. După-amiaza, traseul trece pe lângă canalul Młynówka, unde copacii oferă protecție naturală. Încheiem ziua pe insula Bolko, folosind potecile asfaltate pentru a evita noroiul.",
+            "en": "We cycle carefully through the wet streets of the old town to the town hall. At noon, we leave the bikes in a dry spot and explore the music museum. In the afternoon, the route follows the Młynówka canal, where trees offer natural protection. We end the day on Bolko Island, using paved paths to avoid the mud."
+          },
+          "stops": [
+            {
+              "name": "Opole Town Hall",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem nassen Kopfsteinpflaster.",
+                "hu": "Vigyázat a nedves macskakövön.",
+                "ro": "Atenție pe pavajul umed.",
+                "en": "Watch out on the wet cobblestones."
+              }
+            },
+            {
+              "name": "Upper Castle",
+              "tip_5lang": {
+                "de": "Parken Sie das Rad unter den Bäumen am Eingang.",
+                "hu": "Parkolja a biciklit a fák alá a bejáratnál.",
+                "ro": "Parcați bicicleta sub copaci la intrare.",
+                "en": "Park your bike under the trees at the entrance."
+              }
+            },
+            {
+              "name": "Cathedral of the Holy Cross",
+              "tip_5lang": {
+                "de": "Kurze Pause im Trockenen einplanen.",
+                "hu": "Tervezzen egy rövid pihenőt száraz helyen.",
+                "ro": "Planificați o scurtă pauză la uscat.",
+                "en": "Plan a short break in a dry place."
+              }
+            },
+            {
+              "name": "Piast Tower",
+              "tip_5lang": {
+                "de": "Fahrradständer sind in der Nähe vorhanden.",
+                "hu": "Biciklitárolók találhatók a közelben.",
+                "ro": "Există rastele de biciclete în apropiere.",
+                "en": "Bike racks are available nearby."
+              }
+            },
+            {
+              "name": "Opole Venice",
+              "tip_5lang": {
+                "de": "Der Radweg am Kanal kann rutschig sein.",
+                "hu": "A csatorna menti kerékpárút csúszós lehet.",
+                "ro": "Pista de biciclete de pe canal poate fi alunecoasă.",
+                "en": "The bike path along the canal can be slippery."
+              }
+            },
+            {
+              "name": "Bolko Island",
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den befestigten Hauptwegen.",
+                "hu": "Maradjon a burkolt főutakon.",
+                "ro": "Rămâneți pe drumurile principale pavate.",
+                "en": "Stay on the paved main paths."
+              }
+            },
+            {
+              "name": "Opole Zoo",
+              "tip_5lang": {
+                "de": "Überdachte Fahrradabstellplätze am Haupteingang.",
+                "hu": "Fedett biciklitárolók a főbejáratnál.",
+                "ro": "Locuri de parcare acoperite la intrarea principală.",
+                "en": "Covered bike parking at the main entrance."
+              }
+            },
+            {
+              "name": "Museum of Polish Song",
+              "tip_5lang": {
+                "de": "Sicheres Abstellen am Amphitheater möglich.",
+                "hu": "Biztonságos tárolás az amfiteátrumnál.",
+                "ro": "Parcare sigură posibilă la amfiteatru.",
+                "en": "Safe parking available at the amphitheater."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Bremse vorsichtig auf nassem Kopfsteinpflaster.",
+              "Wasserdichte Packtaschen schützen Ihre Ausrüstung.",
+              "Nutzen Sie Schutzbleche gegen Spritzwasser.",
+              "Ein Regenponcho ist praktischer als ein Schirm beim Fahren."
+            ],
+            "hu": [
+              "Fékezzen óvatosan a nedves macskakövön.",
+              "A vízálló táskák megvédik a felszerelését.",
+              "Használjon sárvédőt a felfröccsenő víz ellen.",
+              "A biciklis esőponcsó praktikusabb tekerés közben."
+            ],
+            "ro": [
+              "Frânați cu atenție pe pavajul umed.",
+              "Genzile impermeabile vă protejează echipamentul.",
+              "Folosiți aripi pentru a vă proteja de apă.",
+              "O pelerină de ploaie este mai practică decât o umbrelă pe bicicletă."
+            ],
+            "en": [
+              "Brake carefully on wet cobblestones.",
+              "Waterproof panniers will protect your gear.",
+              "Use mudguards against splashing water.",
+              "A rain poncho is more practical than an umbrella while riding."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine erfrischende Wintertour startet am Marktplatz. Wir radeln durch die klare Luft zum Oberen Schloss und wärmen uns bei den Besichtigungen auf. Mittags führt die Tour über die frostigen Brücken zur Piasten-Insel. Am Nachmittag bietet die Bolko-Insel eine ruhige, schneebedeckte Kulisse. Wir beenden die Fahrt am Musikmuseum, wo wir die Räder sicher parken und den Tag im Warmen ausklingen lassen.",
+            "hu": "Frissítő téli túra indul a főtéren. A tiszta levegőben tekerünk a Felsővárig, és a látogatások alatt melegszünk fel. Délben a túra fagyos hidakon át vezet a Piast-szigetre. Délután a Bolko-sziget csendes, hófödte díszletet nyújt. Az utat a zenemúzeumnál zárjuk, ahol biztonságban lezárjuk a gépeket, és bent fejezzük be a napot.",
+            "ro": "O tură de iarnă revigorantă începe în piața centrală. Pedalăm prin aerul curat spre Castelul de Sus și ne încălzim în timpul vizitelor. La prânz, traseul trece peste poduri înghețate spre insula Piast. După-amiaza, insula Bolko oferă un decor liniștit, acoperit de zăpadă. Încheiem drumul la muzeul muzicii, unde parcăm în siguranță.",
+            "en": "A refreshing winter tour starts at the main square. We cycle through the crisp air to the Upper Castle and warm up during visits. At noon, the tour leads over frosty bridges to Piast Island. In the afternoon, Bolko Island offers a quiet, snow-covered backdrop. We end the journey at the music museum, parking safely to finish the day indoors."
+          },
+          "stops": [
+            {
+              "name": "Opole Town Hall",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrierender Nässe in den Kurven.",
+                "hu": "Vigyázzon a kanyarokban a lefagyásokkal.",
+                "ro": "Atenție la porțiunile înghețate în curbe.",
+                "en": "Beware of freezing patches in the corners."
+              }
+            },
+            {
+              "name": "Upper Castle",
+              "tip_5lang": {
+                "de": "Schnee am Eingang kann rutschig sein.",
+                "hu": "A hó a bejáratnál csúszós lehet.",
+                "ro": "Zăpada de la intrare poate fi alunecoasă.",
+                "en": "Snow at the entrance can be slippery."
+              }
+            },
+            {
+              "name": "Cathedral of the Holy Cross",
+              "tip_5lang": {
+                "de": "Kurzer Stopp zum Händeaufwärmen.",
+                "hu": "Rövid megálló a kezek felmelegítésére.",
+                "ro": "Scurtă oprire pentru a vă încălzi mâinile.",
+                "en": "Short stop to warm up your hands."
+              }
+            },
+            {
+              "name": "Piast Tower",
+              "tip_5lang": {
+                "de": "Die Brücke zur Insel ist oft glatt.",
+                "hu": "A szigetre vezető híd gyakran jeges.",
+                "ro": "Podul spre insulă este adesea alunecos.",
+                "en": "The bridge to the island is often icy."
+              }
+            },
+            {
+              "name": "Opole Venice",
+              "tip_5lang": {
+                "de": "Kaltes Windrisiko entlang des Wassers.",
+                "hu": "Hideg szél várható a víz mentén.",
+                "ro": "Risc de vânt rece de-a lungul apei.",
+                "en": "Risk of cold wind along the water."
+              }
+            },
+            {
+              "name": "Bolko Island",
+              "tip_5lang": {
+                "de": "Traumhafte Winterlandschaft, aber wenig Windschutz.",
+                "hu": "Csodás téli táj, de kevés a szélvédett hely.",
+                "ro": "Peisaj de iarnă de vis, dar puțin adăpost contra vântului.",
+                "en": "Dreamy winter landscape, but little wind protection."
+              }
+            },
+            {
+              "name": "Opole Zoo",
+              "tip_5lang": {
+                "de": "Tiere sind oft in den Innengehegen.",
+                "hu": "Az állatok gyakran a belső kifutókban vannak.",
+                "ro": "Animalele sunt adesea în țarcurile interioare.",
+                "en": "Animals are often in the indoor enclosures."
+              }
+            },
+            {
+              "name": "Museum of Polish Song",
+              "tip_5lang": {
+                "de": "Idealer Abschluss im beheizten Gebäude.",
+                "hu": "Ideális befejezés a fűtött épületben.",
+                "ro": "Final ideal într-o clădire încălzită.",
+                "en": "Ideal finish in a heated building."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Handschuhe sind für die Bremskontrolle wichtig.",
+              "Beleuchtung bereits ab 15:30 Uhr einschalten.",
+              "Vermeiden Sie Metallteile am Fahrrad ohne Handschuhe.",
+              "Der Reifendruck sollte bei Kälte leicht gesenkt werden."
+            ],
+            "hu": [
+              "A meleg kesztyű fontos a fék kezeléséhez.",
+              "Már 15:30-tól kapcsolja be a világítást.",
+              "Kesztyű nélkül kerülje a fém részek érintését.",
+              "Hidegben a guminyomást érdemes kicsit csökkenteni."
+            ],
+            "ro": [
+              "Mănușile calde sunt importante pentru controlul frânelor.",
+              "Aprindeți luminile deja de la ora 15:30.",
+              "Evitați atingerea părților metalice fără mănuși.",
+              "Presiunea din pneuri ar trebui ușor scăzută pe ger."
+            ],
+            "en": [
+              "Warm gloves are vital for brake control.",
+              "Turn on lights as early as 3:30 PM.",
+              "Avoid touching metal parts without gloves.",
+              "Lower tire pressure slightly for better grip on snow."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1110,6 +1528,206 @@
           "Driving in the Old Town itself is not recommended; use the car parks on the edge.",
           "Plan for extra time for traffic, especially in the late afternoon."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir nutzen das Auto, um trocken zwischen den Highlights zu pendeln. Vormittags parken wir nahe der Altstadt und besuchen das Rathaus. Mittags führt die Fahrt zum Museum am Amphitheater, wo wir direkt vor der Tür parken können. Am Nachmittag genießen wir den Blick auf das Oppelner Venedig aus dem warmen Auto, bevor wir zum Zoo weiterfahren, wo der große Parkplatz kurze Wege zum Eingang bietet.",
+            "hu": "Az autót használjuk, hogy szárazon ingázzunk a látnivalók között. Délelőtt az óvároshoz közel parkolunk, és meglátogatjuk a városházát. Délben az út az amfiteátrumnál lévő múzeumhoz vezet, ahol közvetlenül az ajtó előtt parkolhatunk. Délután a meleg autóból élvezzük az Oppelni Velence látványát, majd az állatkerthez megyünk, ahol a nagy parkolóból rövid séta vezet a bejáratig.",
+            "ro": "Folosim mașina pentru a face naveta între atracții fără a ne uda. Dimineața parcăm aproape de centrul vechi și vizităm primăria. La prânz, drumul duce la muzeul de lângă amfiteatru, unde putem parca chiar în față. După-amiaza admirăm Veneția din Opole din mașina caldă, apoi mergem la grădina zoologică.",
+            "en": "We use the car to commute dry between highlights. In the morning we park near the old town and visit the town hall. At noon, the drive leads to the museum by the amphitheater, where we can park right at the door. In the afternoon, we enjoy the view of Opole Venice from the warm car before heading to the zoo."
+          },
+          "stops": [
+            {
+              "name": "Old Town Car Park",
+              "tip_5lang": {
+                "de": "Zentraler Parkplatz, oft schnell voll bei Regen.",
+                "hu": "Központi parkoló, esőben hamar megtelik.",
+                "ro": "Parcare centrală, adesea plină rapid pe ploaie.",
+                "en": "Central car park, often fills up fast during rain."
+              }
+            },
+            {
+              "name": "Opole Town Hall",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Parkplatz zur Marktplatzmitte.",
+                "hu": "Rövid séta a parkolótól a főtér közepéig.",
+                "ro": "Drum scurt pe jos de la parcare în piață.",
+                "en": "Short walk from the parking to the square."
+              }
+            },
+            {
+              "name": "Cathedral of the Holy Cross",
+              "tip_5lang": {
+                "de": "Einige Parkplätze direkt an der Kathedrale.",
+                "hu": "Néhány parkolóhely közvetlenül a dóm mellett.",
+                "ro": "Câteva locuri de parcare chiar lângă catedrală.",
+                "en": "A few parking spots right by the cathedral."
+              }
+            },
+            {
+              "name": "Opole Venice & Piast Tower",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus am Kanal.",
+                "hu": "Használja a csatorna menti parkolóházat.",
+                "ro": "Folosiți parcarea etajată de lângă canal.",
+                "en": "Use the multi-story car park by the canal."
+              }
+            },
+            {
+              "name": "Car Park Zoo/Bolko Island",
+              "tip_5lang": {
+                "de": "Großer asphaltierter Parkplatz, keine Matschgefahr.",
+                "hu": "Nagy aszfaltozott parkoló, nincs sárveszély.",
+                "ro": "Parcare mare asfaltată, fără risc de noroi.",
+                "en": "Large paved car park, no risk of mud."
+              }
+            },
+            {
+              "name": "Bolko Island",
+              "tip_5lang": {
+                "de": "Bequemer Zugang vom Parkplatz über die Brücke.",
+                "hu": "Kényelmes bejutás a parkolótól a hídon át.",
+                "ro": "Acces convenabil de la parcare peste pod.",
+                "en": "Convenient access from the car park via the bridge."
+              }
+            },
+            {
+              "name": "Opole Zoo",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Haupteingang.",
+                "hu": "Parkoljon közel a főbejárathoz.",
+                "ro": "Parcați aproape de intrarea principală.",
+                "en": "Park close to the main entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf beschlagene Scheiben bei hoher Luftfeuchtigkeit.",
+              "In der Innenstadt herrscht bei Regen oft mehr Verkehr.",
+              "Nutzen Sie Park-Apps, um das Ticket im Auto zu bezahlen.",
+              "Halten Sie einen Regenschirm im Kofferraum bereit."
+            ],
+            "hu": [
+              "Ügyeljen a párásodó szélvédőkre a magas páratartalom miatt.",
+              "Esőben gyakran nagyobb a forgalom a belvárosban.",
+              "Használjon parkolási appot a jegyvásárláshoz.",
+              "Tartson esernyőt az autó csomagtartójában."
+            ],
+            "ro": [
+              "Atenție la aburirea geamurilor din cauza umidității.",
+              "Traficul este adesea mai intens în centru pe ploaie.",
+              "Folosiți aplicații de parcare pentru plată.",
+              "Țineți o umbrelă pregătită în portbagaj."
+            ],
+            "en": [
+              "Watch out for foggy windows due to high humidity.",
+              "Traffic is often heavier in the city center during rain.",
+              "Use parking apps to pay from inside the car.",
+              "Keep an umbrella ready in the trunk."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein entspannter Wintertag startet mit der Fahrt in die beleuchtete Innenstadt. Wir genießen die Wärme des Wagens zwischen den Besichtigungen von Rathaus und Kathedrale. Mittags führt die Tour zur Piasten-Insel, wo wir den Turm besichtigen. Den Nachmittag verbringen wir auf der Bolko-Insel, wobei wir uns nach dem Spaziergang im Auto wieder aufwärmen können, bevor wir den Tag am Zoo-Eingang mit Blick auf das winterliche Gelände beenden.",
+            "hu": "Pihentető téli nap indul a kivilágított belvárosba hajtva. Élvezzük a kocsi melegét a városháza és a dóm megtekintése között. Délben a túra a Piast-szigetre vezet a toronyhoz. A délutánt a Bolko-szigeten töltjük, majd a séta után az autóban melegszünk fel, mielőtt a napot az állatkert bejáratánál zárjuk, rálátással a téli tájra.",
+            "ro": "O zi de iarnă relaxantă începe cu drumul spre centrul luminat. Ne bucurăm de căldura mașinii între vizitele la primărie și catedrală. La prânz mergem la insula Piast pentru a vizita turnul. Petrecem după-amiaza pe insula Bolko, apoi ne încălzim în mașină după plimbare, înainte de a încheia ziua la grădina zoologică.",
+            "en": "A relaxed winter day starts with a drive to the illuminated city center. We enjoy the warmth of the car between visits to the town hall and cathedral. At noon, the tour leads to Piast Island to visit the tower. We spend the afternoon on Bolko Island, warming up in the car after the walk, before ending the day at the zoo entrance."
+          },
+          "stops": [
+            {
+              "name": "Old Town Car Park",
+              "tip_5lang": {
+                "de": "Vorsicht bei Schnee auf den Parkmarkierungen.",
+                "hu": "Vigyázzon, ha hó fedi a felfestéseket.",
+                "ro": "Atenție la zăpada care acoperă marcajele.",
+                "en": "Careful if snow covers the parking lines."
+              }
+            },
+            {
+              "name": "Opole Town Hall",
+              "tip_5lang": {
+                "de": "In der Nähe gibt es Parkplätze mit kurzem Weg zum Markt.",
+                "hu": "Közeli parkolók rövid sétára a piactértől.",
+                "ro": "Parcări apropiate la mică distanță de piață.",
+                "en": "Nearby parking within a short walk to the market."
+              }
+            },
+            {
+              "name": "Cathedral of the Holy Cross",
+              "tip_5lang": {
+                "de": "Parkplätze können im Winter rutschig sein.",
+                "hu": "A parkolók télen csúszósak lehetnek.",
+                "ro": "Parcările pot fi alunecoase iarna.",
+                "en": "Parking areas can be slippery in winter."
+              }
+            },
+            {
+              "name": "Opole Venice & Piast Tower",
+              "tip_5lang": {
+                "de": "Überdachtes Parkhaus empfohlen.",
+                "hu": "Fedett parkolóház ajánlott.",
+                "ro": "Se recomandă parcare etajată acoperită.",
+                "en": "Covered parking garage recommended."
+              }
+            },
+            {
+              "name": "Car Park Zoo/Bolko Island",
+              "tip_5lang": {
+                "de": "Parken Sie auf geräumten Flächen.",
+                "hu": "Parkoljon a letakarított területeken.",
+                "ro": "Parcați pe suprafețele curățate de zăpadă.",
+                "en": "Park on cleared areas."
+              }
+            },
+            {
+              "name": "Bolko Island",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick, bevor es dunkel wird.",
+                "hu": "Élvezze a kilátást, mielőtt besötétedik.",
+                "ro": "Bucurați-vă de priveliște înainte de întuneric.",
+                "en": "Enjoy the view before it gets dark."
+              }
+            },
+            {
+              "name": "Opole Zoo",
+              "tip_5lang": {
+                "de": "Kurzer Weg vom Auto in die warmen Pavillons.",
+                "hu": "Rövid út az autótól a meleg pavilonokig.",
+                "ro": "Drum scurt de la mașină la pavilioanele calde.",
+                "en": "Short walk from the car to the warm pavilions."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind im polnischen Winter Pflicht.",
+              "Führen Sie einen Eiskratzer und Frostschutzmittel mit.",
+              "Batterie vor der Fahrt prüfen, Kälte belastet sie.",
+              "Planen Sie mehr Zeit für die Parkplatzsuche ein."
+            ],
+            "hu": [
+              "A téli gumi kötelező a lengyel télben.",
+              "Vigyen magával jégkaparót és fagyállót.",
+              "Ellenőrizze az akkumulátort indulás előtt.",
+              "Tervezzen több időt a parkolóhely keresésére."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii în Polonia.",
+              "Aveți la voi o racletă și lichid antigel.",
+              "Verificați bateria înainte de plecare.",
+              "Alocați mai mult timp pentru căutarea parcării."
+            ],
+            "en": [
+              "Winter tires are mandatory in the Polish winter.",
+              "Keep an ice scraper and antifreeze in the car.",
+              "Check the battery before driving; cold strains it.",
+              "Plan extra time for finding a parking spot."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1446,6 +2064,188 @@
           "Check the bus schedule in advance, especially for the return trip from Bolko Island.",
           "Public transport apps can be very helpful for planning routes in real time."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit den städtischen Bussen erkunden wir Opole regenfest. Vormittags führt die Linie zum Rathaus, wo wir direkt am Rand der Fußgängerzone aussteigen. Mittags bietet das Musikmuseum Schutz, gefolgt von einer Busfahrt zur Bolko-Insel. Den Nachmittag verbringen wir im Zoo, wobei die Haltestelle fast direkt am Eingang liegt, was die Zeit im Freien minimiert.",
+            "hu": "A városi buszokkal esőbiztosan fedezzük fel Oppelnt. Délelőtt a városházához utazunk, ahol a sétálóövezet szélén szállunk le. Délben a zenemúzeum nyújt védelmet, majd busszal megyünk a Bolko-szigethez. A délutánt az állatkertben töltjük, ahol a megálló szinte közvetlenül a bejáratnál van, minimalizálva a kinti tartózkodást.",
+            "ro": "Explorăm Opole feriți de ploaie cu autobuzele urbane. Dimineața mergem spre primărie, coborând la marginea zonei pietonale. La prânz ne adăpostim în muzeul muzicii, apoi luăm autobuzul spre insula Bolko. Petrecem după-amiaza la zoo, unde stația este aproape de intrare.",
+            "en": "We explore Opole rain-proof using city buses. In the morning, a line takes us to the town hall, where we hop off at the edge of the pedestrian zone. At noon, the music museum provides shelter, followed by a bus ride to Bolko Island. We spend the afternoon at the zoo, where the stop is almost directly at the entrance."
+          },
+          "stops": [
+            {
+              "name": "Opole Town Hall",
+              "tip_5lang": {
+                "de": "Haltestelle 'Centrum' bietet oft Unterstände.",
+                "hu": "A 'Centrum' megálló gyakran fedett.",
+                "ro": "Stația 'Centrum' are adesea adăpost.",
+                "en": "The 'Centrum' stop often has shelters."
+              }
+            },
+            {
+              "name": "Museum of Polish Song",
+              "tip_5lang": {
+                "de": "Gut mit Linien aus der Altstadt erreichbar.",
+                "hu": "Jól elérhető az óvárosi járatokkal.",
+                "ro": "Ușor accesibil cu liniile din centrul vechi.",
+                "en": "Easily accessible by lines from the old town."
+              }
+            },
+            {
+              "name": "Opole Venice",
+              "tip_5lang": {
+                "de": "Kurzer Spaziergang von der Haltestelle zum Kanal.",
+                "hu": "Rövid séta a megállótól a csatornáig.",
+                "ro": "Scurtă plimbare de la stație la canal.",
+                "en": "Short walk from the stop to the canal."
+              }
+            },
+            {
+              "name": "Bus Stop at the Zoo",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Unterstand bei Wartezeiten.",
+                "hu": "Használja a várót, ha várakoznia kell.",
+                "ro": "Folosiți adăpostul dacă trebuie să așteptați.",
+                "en": "Use the shelter if you have to wait."
+              }
+            },
+            {
+              "name": "Bolko Island",
+              "tip_5lang": {
+                "de": "Vom Bus zum Parkeingang sind es nur wenige Meter.",
+                "hu": "A busztól a parkig csak pár méter a séta.",
+                "ro": "De la autobuz până în parc sunt doar câțiva metri.",
+                "en": "It's only a few meters from the bus to the park."
+              }
+            },
+            {
+              "name": "Opole Zoo",
+              "tip_5lang": {
+                "de": "Ideale Anbindung, fast direkt am Tor.",
+                "hu": "Ideális összeköttetés, szinte a kapunál.",
+                "ro": "Conexiune ideală, aproape direct la poartă.",
+                "en": "Ideal connection, almost right at the gate."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie Fahrkarten bequem per Smartphone-App.",
+              "Anzeigen an den Haltestellen zeigen Echtzeit-Daten.",
+              "Die Busse sind gut beheizt und trocken.",
+              "Ein Regenschirm für die kurzen Wege zwischen Stopps ist nötig."
+            ],
+            "hu": [
+              "Vásároljon jegyet kényelmesen mobilalkalmazással.",
+              "A megállók kijelzői valós idejű adatokat mutatnak.",
+              "A buszok jól fűtöttek és szárazak.",
+              "Esernyő szükséges a megállók közötti rövid sétákhoz."
+            ],
+            "ro": [
+              "Cumpărați bilete comod prin aplicația de pe telefon.",
+              "Panourile din stații arată date în timp real.",
+              "Autobuzele sunt bine încălzite și uscate.",
+              "O umbrelă este necesară pentru distanțele scurte."
+            ],
+            "en": [
+              "Buy tickets conveniently via a smartphone app.",
+              "Displays at stops show real-time arrival data.",
+              "Buses are well-heated and dry inside.",
+              "An umbrella is needed for the short walks between stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Sightseeing in Opole klappt am besten mit dem Bus. Wir starten am frostigen Marktplatz und nutzen die warmen Linien zum Musikmuseum. Mittags führt die Fahrt zur Piasten-Insel, wobei wir die Aussicht auf die verschneite Stadt aus dem Busfenster genießen. Den Nachmittag verbringen wir auf der Bolko-Insel und im Zoo, bevor wir mit dem beleuchteten Abendbus zurück in das Stadtzentrum fahren.",
+            "hu": "Téli városnézés Oppelnben busszal a legjobb. A fagyos főtéren kezdünk, és a meleg járatokat használjuk a zenemúzeumig. Délben az út a Piast-szigetre vezet, miközben a buszablakból csodáljuk a havas várost. A délutánt a Bolko-szigeten és az állatkertben töltjük, majd az esti, kivilágított busszal térünk vissza a központba.",
+            "ro": "Vizitarea orașului Opole iarna este ideală cu autobuzul. Începem în piața geroasă și folosim liniile calde spre muzeu. La prânz, drumul duce spre insula Piast, admirând orașul înzăpezit pe geam. Petrecem după-amiaza pe insula Bolko și la zoo, apoi ne întoarcem în centru.",
+            "en": "Winter sightseeing in Opole works best by bus. We start at the frosty main square and use warm bus lines to reach the music museum. At noon, the journey leads to Piast Island while we enjoy views of the snowy city from the window. We spend the afternoon on Bolko Island and at the zoo before returning by evening bus."
+          },
+          "stops": [
+            {
+              "name": "Opole Town Hall",
+              "tip_5lang": {
+                "de": "Haltestelle nahe dem Weihnachtsmarkt.",
+                "hu": "Megálló a karácsonyi vásár közelében.",
+                "ro": "Stație aproape de târgul de Crăciun.",
+                "en": "Stop near the Christmas market."
+              }
+            },
+            {
+              "name": "Museum of Polish Song",
+              "tip_5lang": {
+                "de": "Angenehm temperierte Fahrt zum Amphitheater.",
+                "hu": "Kellemes hőmérsékletű utazás az amfiteátrumig.",
+                "ro": "Călătorie cu temperatură plăcută spre amfiteatru.",
+                "en": "Pleasant temperature during the ride to the amphitheater."
+              }
+            },
+            {
+              "name": "Opole Venice",
+              "tip_5lang": {
+                "de": "Vom Bus aus hat man oft einen tollen Blick auf den Kanal.",
+                "hu": "A buszból gyakran remek kilátás nyílik a csatornára.",
+                "ro": "Din autobuz aveți adesea o vedere excelentă spre canal.",
+                "en": "The bus often offers a great view of the canal."
+              }
+            },
+            {
+              "name": "Bus Stop at the Zoo",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich im Bus auf, bevor es zum Zoo geht.",
+                "hu": "Melegedjen fel a buszon, mielőtt az állatkertbe megy.",
+                "ro": "Încălziți-vă în autobuz înainte de a merge la zoo.",
+                "en": "Warm up in the bus before heading to the zoo."
+              }
+            },
+            {
+              "name": "Bolko Island",
+              "tip_5lang": {
+                "de": "Taktung der Busse im Winter prüfen.",
+                "hu": "Télen ellenőrizze a buszok gyakoriságát.",
+                "ro": "Verificați frecvența autobuzelor pe timp de iarnă.",
+                "en": "Check the bus frequency during winter."
+              }
+            },
+            {
+              "name": "Opole Zoo",
+              "tip_5lang": {
+                "de": "Abends sind die Busse oft weihnachtlich geschmückt.",
+                "hu": "Este a buszok gyakran ünnepi díszben vannak.",
+                "ro": "Seara, autobuzele sunt adesea decorate festiv.",
+                "en": "Buses are often festively decorated in the evening."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse sind im Winter der wärmste Ort zwischen den Zielen.",
+              "Die Fahrpläne können sich bei starkem Schneefall verzögern.",
+              "Die App 'mPay' oder 'SkyCash' ist nützlich für Tickets.",
+              "Sitzplätze nahe der Heizung sind besonders begehrt."
+            ],
+            "hu": [
+              "Télen a buszok a legmelegebb helyek a célpontok között.",
+              "Erős havazáskor a menetrendben késések lehetnek.",
+              "Az 'mPay' vagy 'SkyCash' app hasznos a jegyvásárláshoz.",
+              "A fűtés közeli ülőhelyek különösen népszerűek."
+            ],
+            "ro": [
+              "Autobuzele sunt cele mai calde locuri între obiective iarna.",
+              "Orarele pot avea întârzieri la ninsori puternice.",
+              "Aplicațiile 'mPay' sau 'SkyCash' sunt utile pentru bilete.",
+              "Locurile de lângă încălzire sunt foarte căutate."
+            ],
+            "en": [
+              "Buses are the warmest places between sights in winter.",
+              "Schedules may be delayed during heavy snowfall.",
+              "The 'mPay' or 'SkyCash' app is useful for tickets.",
+              "Seats near the heaters are especially popular."
+            ]
+          }
+        }
       }
     }
   }

@@ -218,6 +218,196 @@
           "Sturdy shoes are needed for the Sentonina trail.",
           "Arrive early to secure a parking spot at the harbor."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens am nebligen Hafen von Rabac starten. Mittags bietet die St.-Andreas-Kirche trockenen Unterschlupf. Nachmittags ist die Promenade menschenleer, aber die stürmische Adria wirkt beeindruckend. Abends verleiht der Regen den Teleferika-Ruinen eine mystische, fast geisterhafte Atmosphäre.",
+            "hu": "Reggel a ködös kikötőben kezdünk. Délben a Szent András-templom nyújt menedéket az eső elől. Délután a sétány kihalt, de a viharos tenger látványa lenyűgöző. Este az eső misztikus, kísérteties hangulatot kölcsönöz a Teleferika romjainak a szürkületben.",
+            "ro": "Dimineața începe în portul învăluit în ceață. La prânz, biserica Sf. Andrei oferă un adăpost uscat. După-amiaza, faleza este pustie, dar marea agitată oferă un spectacol grandios. Seara, ploaia transformă ruinele Teleferika într-un loc mistic și plin de mister.",
+            "en": "Start the morning at the misty harbor. At noon, St. Andrew's Church provides a dry refuge. In the afternoon, the promenade is empty, but the stormy Adriatic looks impressive. By evening, the rain adds a mystical, almost ghostly atmosphere to the Teleferika ruins."
+          },
+          "stops": [
+            {
+              "name": "Hafen von Rabac",
+              "tip_5lang": {
+                "de": "Regenschirm fest halten, am Hafen windet es oft stark.",
+                "hu": "Erősen fogja az esernyőt, a kikötőben gyakran fúj a szél.",
+                "ro": "Țineți umbrela bine, vântul suflă tare în port.",
+                "en": "Hold your umbrella tight, it's often windy at the harbor."
+              }
+            },
+            {
+              "name": "Kirche des hl. Andreas",
+              "tip_5lang": {
+                "de": "Ein guter Ort, um kurz trocken zu werden und innezuhalten.",
+                "hu": "Kiváló hely egy rövid pihenőre, amíg eláll az eső.",
+                "ro": "Un loc bun pentru a sta la adăpost și a vă reculege.",
+                "en": "A great place to dry off for a bit and find peace."
+              }
+            },
+            {
+              "name": "Lungomare Promenade",
+              "tip_5lang": {
+                "de": "Vorsicht auf den nassen Steinen, Rutschgefahr!",
+                "hu": "Vigyázzon a vizes köveken, könnyen megcsúszhat!",
+                "ro": "Atenție pe pietrele ude, pericol de alunecare!",
+                "en": "Watch your step on the wet stones, they can be slippery."
+              }
+            },
+            {
+              "name": "Strand Lanterna",
+              "tip_5lang": {
+                "de": "Genießen Sie das tosende Meer unter einem festen Vordach.",
+                "hu": "Élvezze a háborgó tenger látványát egy fedett teraszról.",
+                "ro": "Admirați marea învolburată de sub un acoperiș fix.",
+                "en": "Enjoy the roaring sea from under a solid roof."
+              }
+            },
+            {
+              "name": "Strand Girandella",
+              "tip_5lang": {
+                "de": "Die Cafés hier sind im Regen besonders gemütlich.",
+                "hu": "Az itteni kávézók esőben kifejezetten hangulatosak.",
+                "ro": "Cafenelele de aici sunt foarte primitoare pe ploaie.",
+                "en": "The cafes here are especially cozy during the rain."
+              }
+            },
+            {
+              "name": "Teleferika Ruinen",
+              "tip_5lang": {
+                "de": "Festes Schuhwerk nötig, der Weg kann schlammig sein.",
+                "hu": "Zárt cipő ajánlott, az ösvény sáros lehet.",
+                "ro": "Încălțăminte solidă necesară, poteca poate fi noroioasă.",
+                "en": "Sturdy shoes needed, the path can be muddy."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine windfeste Regenjacke statt eines Schirms.",
+              "Die Hafenmauer bietet bei Wellengang tolle Fotomotive.",
+              "Nutzen Sie die Kirchenbesichtigung für eine Regenpause.",
+              "Einkehrmöglichkeiten am Hafen sind ideal zum Aufwärmen.",
+              "Achten Sie auf spritzendes Salzwasser an der Promenade."
+            ],
+            "hu": [
+              "Szélálló esőkabátot válasszon az esernyő helyett.",
+              "A kikötői gátnál a hullámzás remek fotótéma esőben.",
+              "Használja ki a templomlátogatást egy esőszünetre.",
+              "A kikötői éttermek ideálisak a felmelegedéshez.",
+              "Vigyázzon a sétányon felcsapó sós vízpermetre."
+            ],
+            "ro": [
+              "Purtați o pelerină de ploaie rezistentă la vânt.",
+              "Digul portului oferă ocazii bune de fotografiat valurile.",
+              "Folosiți vizita la biserică pentru o pauză de ploaie.",
+              "Restaurantele din port sunt ideale pentru a vă încălzi.",
+              "Atenție la stropii de apă sărată de pe faleză."
+            ],
+            "en": [
+              "Wear a windproof rain jacket instead of an umbrella.",
+              "The harbor wall offers great photo ops when waves are high.",
+              "Use the church visit as a break from the rain.",
+              "Harbor-side eateries are perfect for warming up.",
+              "Watch out for salt water spray on the promenade."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen am ruhigen Hafen. Mittags wärmt die tiefstehende Sonne die Kirchenmauer. Nachmittags leuchten die Strände in klarem Winterlicht, weit weg vom Sommertrubel. Den Abend lässt man in den belebten Cafés im Ortskern ausklingen, während es früh dunkel wird.",
+            "hu": "Friss téli reggel a csendes kikötőben. Délben az alacsonyan járó nap sugarai melengetik a templom falát. Délután a strandok kristálytiszta téli fényben tündökölnek, messze a nyári tömegtől. Az estét a helyiek által kedvelt kávézókban zárjuk, ahogy korán sötétedik.",
+            "ro": "O dimineață răcoroasă de iarnă în portul liniștit. La prânz, soarele blând încălzește zidurile bisericii. După-amiaza, plajele strălucesc într-o lumină clară, departe de agitația verii. Seara se încheie în cafenelele din centru, pe măsură ce se înserează devreme.",
+            "en": "A crisp winter morning at the quiet harbor. At noon, the low sun warms the church walls. In the afternoon, the beaches glow in clear winter light, far from the summer crowds. The evening ends in the lively cafes of the town center as darkness falls early."
+          },
+          "stops": [
+            {
+              "name": "Hafen von Rabac",
+              "tip_5lang": {
+                "de": "Genießen Sie den Kaffee wie ein Local in der Sonne.",
+                "hu": "Élvezze a kávét úgy, mint a helyiek, a téli napfényben.",
+                "ro": "Savurați o cafea la soare, exact ca localnicii.",
+                "en": "Enjoy a coffee in the sun just like the locals do."
+              }
+            },
+            {
+              "name": "Kirche des hl. Andreas",
+              "tip_5lang": {
+                "de": "Oft nur zu Gottesdiensten geöffnet, Fassade bewundern.",
+                "hu": "Gyakran csak misék idején van nyitva, nézze meg kívülről.",
+                "ro": "Deschisă des doar pentru slujbe, admirați fațada.",
+                "en": "Often open only for services, admire the facade."
+              }
+            },
+            {
+              "name": "Lungomare Promenade",
+              "tip_5lang": {
+                "de": "Perfekt für zügiges Wandern bei kühlen Temperaturen.",
+                "hu": "Tökéletes tempós sétához a hűvös időben.",
+                "ro": "Ideală pentru o plimbare energică pe temperaturi scăzute.",
+                "en": "Perfect for brisk walking in the cool temperatures."
+              }
+            },
+            {
+              "name": "Strand Lanterna",
+              "tip_5lang": {
+                "de": "Die Einsamkeit hier ist im Winter unbezahlbar.",
+                "hu": "A téli magány itt megfizethetetlen élmény.",
+                "ro": "Liniștea de aici pe timp de iarnă este de neprețuit.",
+                "en": "The solitude here in winter is priceless."
+              }
+            },
+            {
+              "name": "Strand Girandella",
+              "tip_5lang": {
+                "de": "Ideal für Fotos vom Sonnenuntergang gegen 16:30 Uhr.",
+                "hu": "Ideális hely naplementés fotókhoz 16:30 körül.",
+                "ro": "Loc ideal pentru fotografii la apus, în jur de 16:30.",
+                "en": "Ideal spot for sunset photos around 4:30 PM."
+              }
+            },
+            {
+              "name": "Teleferika Ruinen",
+              "tip_5lang": {
+                "de": "Klare Sicht auf die Insel Cres genießen.",
+                "hu": "Élvezze a tiszta kilátást a szemközti Cres-szigetre.",
+                "ro": "Bucurați-vă de vizibilitatea clară spre insula Cres.",
+                "en": "Enjoy the clear views towards Cres Island."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Zwiebelprinzip bei der Kleidung schützt vor Wind.",
+              "Die Sonne verschwindet im Winter früh hinter den Bergen.",
+              "Viele Strandbars haben Winterpause, im Zentrum suchen.",
+              "Die Luft ist im Winter besonders sauber und gesund.",
+              "Warme Getränke in der Thermoskanne mitnehmen."
+            ],
+            "hu": [
+              "Réteges öltözködés javasolt a hideg szél miatt.",
+              "A nap télen korán eltűnik a hegyek mögött.",
+              "Sok strandbár zárva van, keressen helyet a központban.",
+              "A levegő télen különösen tiszta és egészséges.",
+              "Vigyen magával meleg italt termoszban."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în mai multe straturi contra vântului.",
+              "Iarna, soarele apune devreme după munți.",
+              "Multe baruri de pe plajă sunt închise, căutați în centru.",
+              "Aerul este extrem de curat și sănătos iarna.",
+              "Luați cu voi băuturi calde într-un termos."
+            ],
+            "en": [
+              "Dress in layers to protect against the cold wind.",
+              "In winter, the sun disappears early behind the hills.",
+              "Many beach bars are closed, look for places in the center.",
+              "The air is exceptionally clean and healthy in winter.",
+              "Bring warm drinks in a thermos for the walk."
+            ]
+          }
+        }
       }
     }
   }

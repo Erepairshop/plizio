@@ -277,6 +277,178 @@
           "Kallbadhuset has separate sections for men and women, bathed nude.",
           "The seaside promenade is fully wheelchair accessible."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag in der schützenden Stille der Stadskyrka. Der kurze Weg zum Kallbadhuset wird durch die raue Nordsee-Atmosphäre belohnt, wo Sie das Prasseln des Regens auf dem Holzdeck genießen. Mittags bietet die Festung Varberg mit ihren dicken Mauern perfekten Schutz vor den Elementen. Den Nachmittag verbringen Sie im Museum beim Bockstensmannen, bevor ein kurzer, erfrischender Spaziergang an der Uferpromenade den regnerischen Tag abschließt.",
+            "hu": "Kezdje a napot a városi templom védelmező csendjében. A Kallbadhuset felé vezető rövid séta során a tenger morajlása és az eső kopogása különleges hangulatot áraszt. Délben a vár vastag falai között keresünk menedéket, majd a múzeumban a Bockstens-ember rejtélyével ismerkedünk meg. A napot a parti sétányon zárjuk, ahol az eső utáni friss tengeri levegő és a drámai szürke égbolt nyújt felejthetetlen látványt.",
+            "ro": "Începeți ziua în liniștea protectoare a bisericii orașului. Scurta plimbare spre Kallbadhuset este răsplătită de atmosfera crudă a mării, unde puteți asculta ploaia pe puntea de lemn. La prânz, cetatea oferă adăpost perfect între zidurile sale groase. După-amiaza este dedicată muzeului și Omului de Bocksten, înainte ca o scurtă plimbare pe faleza umedă să încheie această zi revigorantă de coastă.",
+            "en": "Start your day in the protective silence of the city church. The short walk to Kallbadhuset is rewarded by the raw North Sea atmosphere, enjoying the rain's rhythm on the wooden deck. At noon, the fortress walls provide perfect shelter from the elements. Spend the afternoon with the Bocksten Man in the museum, before a short, refreshing walk along the promenade concludes this rainy coastal day."
+          },
+          "stops": [
+            {
+              "name": "Varbergs Stadskyrka",
+              "tip_5lang": {
+                "de": "Idealer Ort, um den ersten Regenschauer trocken abzuwarten.",
+                "hu": "Tökéletes hely az első záporok átvészelésére szárazon.",
+                "ro": "Locul ideal pentru a aștepta trecerea primei averse.",
+                "en": "Ideal place to wait out the first rain showers in the dry."
+              }
+            },
+            {
+              "name": "Kallbadhuset Varberg",
+              "tip_5lang": {
+                "de": "Die Sauna im Inneren ist bei Regen besonders gemütlich.",
+                "hu": "A benti szauna esőben különösen hangulatos élmény.",
+                "ro": "Sauna din interior este extrem de primitoare pe ploaie.",
+                "en": "The indoor sauna is especially cozy when it's raining outside."
+              }
+            },
+            {
+              "name": "Festung Varberg",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Durchgänge und Kasematten als Regenschutz.",
+                "hu": "Használja az átjárókat és kazamatákat eső elleni védelemként.",
+                "ro": "Folosiți pasajele și cazămatele ca adăpost împotriva ploii.",
+                "en": "Use the passages and casemates as shelter from the rain."
+              }
+            },
+            {
+              "name": "Bockstensmannen",
+              "tip_5lang": {
+                "de": "Komplett überdacht – perfekt für einen längeren Aufenthalt.",
+                "hu": "Teljesen fedett kiállítás, ideális hosszabb időtöltésre.",
+                "ro": "Complet acoperit – perfect pentru o vizită prelungită.",
+                "en": "Completely indoor – perfect for a longer stay during rain."
+              }
+            },
+            {
+              "name": "Strandpromenaden Varberg",
+              "tip_5lang": {
+                "de": "Feste Regenkleidung ist wegen des starken Windes Pflicht.",
+                "hu": "Az erős szél miatt a strapabíró esőkabát kötelező.",
+                "ro": "Pelerina de ploaie rezistentă e necesară din cauza vântului.",
+                "en": "Sturdy rain gear is a must due to the strong coastal winds."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine windfeste Regenjacke statt eines Schirms, da es an der Küste sehr windig sein kann.",
+              "Die Wege zwischen den Sehenswürdigkeiten sind kurz, aber oft ungeschützt.",
+              "Nutzen Sie die Cafés in der Nähe der Festung für trockene Pausen.",
+              "Die Holzstege am Kallbadhuset können bei Nässe rutschig sein.",
+              "Besuchen Sie das Museum zuletzt, um die meiste Zeit im Trockenen zu verbringen."
+            ],
+            "hu": [
+              "Ernyő helyett szélálló esőkabátot válassz, mert a tengerparton erős a szél.",
+              "A látnivalók közötti utak rövidek, de többnyire nincs felettük fedél.",
+              "Használd ki a vár környéki kávézókat a száraz pihenőkhöz.",
+              "A Kallbadhuset fapallói vizesen csúszóssá válhatnak.",
+              "A múzeumlátogatást hagyd a végére, hogy minél több időt tölthess fedett helyen."
+            ],
+            "ro": [
+              "Alegeți o jachetă de ploaie rezistentă la vânt în loc de umbrelă, coasta fiind foarte vântoasă.",
+              "Traseele între obiective sunt scurte, dar în mare parte neprotejate.",
+              "Folosiți cafenelele din apropierea cetății pentru pauze la adăpost.",
+              "Platformele de lemn de la Kallbadhuset pot deveni alunecoase când sunt ude.",
+              "Vizitați muzeul la final pentru a petrece cât mai mult timp la interior."
+            ],
+            "en": [
+              "Wear a windproof raincoat instead of an umbrella, as the coast can be very windy.",
+              "Paths between sights are short but mostly unsheltered.",
+              "Utilize the cafes near the fortress for dry breaks.",
+              "The wooden walkways at Kallbadhuset can be slippery when wet.",
+              "Save the museum for last to maximize your time in a dry environment."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen beginnt in der warmen Stadskyrka. Der Weg zum Kallbadhuset führt durch die klare Winterluft, wo ein heißes Bad mit Blick auf das eisige Meer wartet. Mittags erkunden Sie die schneebedeckte Festung, bevor Sie sich im Museum beim Bockstensmannen aufwärmen. Der Tag endet früh mit einem Spaziergang bei Sonnenuntergang an der gefrorenen Küste, wobei das Licht des Nordens die Stadt in magische Farben taucht.",
+            "hu": "A fagyos reggel a városi templom melegében indul. A tiszta téli levegőn át sétálunk a Kallbadhuset-hez, ahol egy forró fürdő vár a jeges tengeri kilátással. Délben a hóval borított várat fedezzük fel, majd a múzeumban melegszünk fel a Bockstens-ember mellett. A nap korán zárul egy naplementés sétával a fagyos parton, ahol az északi fények mágikus színekbe öltöztetik a várost.",
+            "ro": "O dimineață geroasă începe în căldura bisericii orașului. Drumul prin aerul curat de iarnă duce la Kallbadhuset, unde vă așteaptă o baie caldă cu vedere la marea înghețată. La prânz explorăm cetatea înzăpezită, apoi ne încălzim în muzeu. Ziua se încheie devreme cu o plimbare la apus pe faleza înghețată, lumina nordică pictând orașul în culori magice.",
+            "en": "A frosty morning starts in the warm city church. Walk through the crisp winter air to Kallbadhuset, where a hot bath with views of the icy sea awaits. Explore the snow-covered fortress at noon before warming up in the museum. The day ends early with a sunset stroll along the frozen coast, as the northern light bathes the town in magical colors."
+          },
+          "stops": [
+            {
+              "name": "Varbergs Stadskyrka",
+              "tip_5lang": {
+                "de": "Gut beheizter Innenraum für einen warmen Start in den Tag.",
+                "hu": "Jól fűtött belső tér a nap meleg indításához.",
+                "ro": "Interior bine încălzit pentru un început de zi confortabil.",
+                "en": "Well-heated interior for a warm start to your day."
+              }
+            },
+            {
+              "name": "Kallbadhuset Varberg",
+              "tip_5lang": {
+                "de": "Heißes Saunieren während draußen das Packeis treibt.",
+                "hu": "Forró szaunázás, miközben kint zajlik a jeges tenger.",
+                "ro": "Saună fierbinte în timp ce afară plutesc ghețurile.",
+                "en": "Hot sauna session while the pack ice floats outside."
+              }
+            },
+            {
+              "name": "Festung Varberg",
+              "tip_5lang": {
+                "de": "Vorsicht auf den gepflasterten Wegen, es kann glatt sein.",
+                "hu": "Vigyázat a kövezett utakon, jegesedés várható.",
+                "ro": "Atenție pe aleile pietruite, pot fi extrem de alunecoase.",
+                "en": "Be careful on the cobbled paths; they can be very icy."
+              }
+            },
+            {
+              "name": "Bockstensmannen",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um die kälteste Zeit des Tages im Warmen zu verbringen.",
+                "hu": "Tökéletes hely a nap leghidegebb óráinak átvészelésére.",
+                "ro": "Locul perfect pentru a petrece orele geroase la căldură.",
+                "en": "Perfect place to spend the coldest hours of the day indoors."
+              }
+            },
+            {
+              "name": "Strandpromenaden Varberg",
+              "tip_5lang": {
+                "de": "Genießen Sie den frühen Sonnenuntergang gegen 15:30 Uhr.",
+                "hu": "Élvezze a korai naplementét 15:30 körül.",
+                "ro": "Bucurați-vă de apusul timpuriu, în jurul orei 15:30.",
+                "en": "Enjoy the early sunset around 3:30 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Sonnenuntergang ist im Winter bereits gegen 15:30 Uhr.",
+              "Kleiden Sie sich nach dem Zwiebelprinzip, da Museen warm, die Küste aber eisig ist.",
+              "Die Uferpromenade kann bei gefrierender Gischt sehr glatt werden.",
+              "Trinken Sie zwischendurch warme Getränke in den lokalen Bäckereien.",
+              "Das Kallbadhuset bietet im Winter ein einzigartiges 'Eisbaden'-Erlebnis."
+            ],
+            "hu": [
+              "A naplemente télen már délután 15:30 körül bekövetkezik.",
+              "Öltözz rétegesen: a múzeumok fűtöttek, de a partvonal jeges.",
+              "A parti sétány a ráfagyott tengerpermet miatt nagyon csúszós lehet.",
+              "Tarts szünetet egy forró italra a helyi pékségek valamelyikében.",
+              "A Kallbadhuset télen különleges jeges fürdőzési élményt kínál."
+            ],
+            "ro": [
+              "Apusul de soare are loc devreme iarna, în jurul orei 15:30.",
+              "Îmbrăcați-vă în straturi: muzeele sunt calde, dar faleza e geroasă.",
+              "Faleza poate deveni foarte alunecoasă din cauza aerosolilor înghețați.",
+              "Faceți pauze pentru băuturi calde la brutăriile locale.",
+              "Kallbadhuset oferă iarna o experiență unică de baie la copcă."
+            ],
+            "en": [
+              "Sunset occurs early in winter, around 3:30 PM.",
+              "Dress in layers: museums are warm, but the coast is freezing.",
+              "The promenade can be very slippery due to freezing sea spray.",
+              "Take breaks for warm drinks in local bakeries.",
+              "Kallbadhuset offers a unique 'ice bathing' experience in winter."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -544,6 +716,178 @@
           "Watch out for pedestrians when approaching the fortress and promenade.",
           "A bike lock is recommended when you step into the nature reserves."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen bietet die Radtour nach Varberg eine erfrischende Brise. Wir starten am Kallbadhuset, wo die Sicht auf das graue Meer dramatisch ist. Die Fahrt zur Festung ist kurz, und die alten Mauern bieten Schutz für eine Pause. Ein längerer Ritt führt zum Naturschutzgebiet Getterön, wo das Besucherzentrum trockene Beobachtungsposten bietet. Über die Strandpromenade radeln wir zum Kurort, um den Tag entspannt ausklingen zu lassen.",
+            "hu": "Az eső ellenére a biciklitúra frissítő szellőt ígér Varbergben. A Kallbadhusetnél kezdünk, ahol a szürke tenger látványa drámai. A várig tartó út rövid, a falak védelmében megpihenhetünk. Hosszabb tekerés vezet a Getterön természetvédelmi területre, ahol a látogatóközpont száraz megfigyelőpontokat kínál. A parti sétányon át tekerünk a Kurorthoz, hogy pihentetően zárjuk a napot.",
+            "ro": "În ciuda ploii, turul cu bicicleta oferă o briză revigorantă. Începem la Kallbadhuset, unde marea gri arată dramatic. Drumul spre cetate e scurt, iar zidurile vechi oferă adăpost. O cursă mai lungă ne duce la rezervația Getterön, unde centrul de vizitare are puncte de observație uscate. Pedalăm pe faleză spre Kurort pentru un final de zi relaxant.",
+            "en": "Despite the rain, the bike tour offers a refreshing breeze. We start at Kallbadhuset with dramatic views of the gray sea. The ride to the fortress is short, with old walls providing shelter. A longer ride leads to Getterön Nature Reserve, where the visitor center offers dry observation spots. Cycle along the promenade to the Kurort for a relaxing finish."
+          },
+          "stops": [
+            {
+              "name": "Kallbadhuset Varberg",
+              "tip_5lang": {
+                "de": "Überdachte Fahrradständer in der Nähe suchen.",
+                "hu": "Keressen fedett kerékpártárolót a közelben.",
+                "ro": "Căutați rastele de biciclete acoperite în apropiere.",
+                "en": "Look for covered bike racks in the vicinity."
+              }
+            },
+            {
+              "name": "Festung Varberg",
+              "tip_5lang": {
+                "de": "Vorsicht beim Befahren der nassen Kopfsteinpflasterabschnitte.",
+                "hu": "Vigyázat a vizes macskaköves szakaszokon.",
+                "ro": "Atenție la pedalarea pe secțiunile cu piatră cubică udă.",
+                "en": "Be careful when cycling on wet cobblestone sections."
+              }
+            },
+            {
+              "name": "Getterön Naturschutzgebiet",
+              "tip_5lang": {
+                "de": "Das Besucherzentrum ist der perfekte Ort, um trocken Vögel zu beobachten.",
+                "hu": "A látogatóközpont tökéletes hely a száraz madármegfigyeléshez.",
+                "ro": "Centrul de vizitare e locul perfect pentru birdwatching la uscat.",
+                "en": "The visitor center is the perfect spot for dry birdwatching."
+              }
+            },
+            {
+              "name": "Strandpromenaden Varberg",
+              "tip_5lang": {
+                "de": "Bei starkem Regen kann Gischt auf den Radweg peitschen.",
+                "hu": "Heves esőben a tengerpermet a bicikliútra csaphat.",
+                "ro": "În caz de ploaie torențială, aerosolii pot lovi pista de biciclete.",
+                "en": "During heavy rain, sea spray can whip onto the bike path."
+              }
+            },
+            {
+              "name": "Varberg Kurort",
+              "tip_5lang": {
+                "de": "Ein warmes Bad nach der regnerischen Fahrt genießen.",
+                "hu": "Élvezzen egy meleg fürdőt az esős tekerés után.",
+                "ro": "Bucurați-vă de o baie caldă după cursa prin ploaie.",
+                "en": "Enjoy a warm bath after the rainy ride."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie scharfe Bremsmanöver auf nassem Asphalt oder Holzstegen.",
+              "Vollständige Regenbekleidung inklusive Überschuhen wird dringend empfohlen.",
+              "Das Besucherzentrum Getterön bietet einen großartigen Schutz bei plötzlichen Schauern.",
+              "Überprüfen Sie Ihre Bremsen vor dem Start, da Nässe den Bremsweg verlängert.",
+              "Licht am Fahrrad ist bei trübem Regenwetter auch tagsüber wichtig."
+            ],
+            "hu": [
+              "Kerüld a hirtelen fékezést a vizes aszfalton vagy fapallókon.",
+              "Teljes esőruházat, beleértve a cipővédőt is, erősen ajánlott.",
+              "A Getterön látogatóközpont kiváló menedék hirtelen zápor esetén.",
+              "Indulás előtt ellenőrizd a fékeket, mert a nedvesség növeli a féktávot.",
+              "A biciklilámpa használata borús időben nappal is fontos."
+            ],
+            "ro": [
+              "Evitați frânările bruște pe asfaltul ud sau pe platformele de lemn.",
+              "Se recomandă echipament de ploaie complet, inclusiv protecții pentru pantofi.",
+              "Centrul de vizitare Getterön oferă un adăpost excelent în caz de averse.",
+              "Verificați frânele înainte de plecare; umezeala prelungește distanța de frânare.",
+              "Luminile bicicletei sunt importante și ziua pe timp de ploaie."
+            ],
+            "en": [
+              "Avoid sudden braking on wet asphalt or wooden walkways.",
+              "Full rain gear, including shoe covers, is strongly recommended.",
+              "The Getterön visitor center provides great shelter during sudden showers.",
+              "Check your brakes before starting; wetness increases stopping distance.",
+              "Bike lights are important even during the day in gloomy rainy weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Radtour erfordert warme Handschuhe, belohnt aber mit einsamen Wegen. Nach dem Kallbadhuset führt der Weg zur Festung, die im Winterlicht besonders majestätisch wirkt. Die Fahrt nach Getterön ist bei klarer Luft erfrischend, wobei man im Besucherzentrum verweilen kann. Entlang der frostigen Strandpromenade geht es zum Kurort, wo die Wärme des Spas das perfekte Ziel für frierende Radfahrer ist.",
+            "hu": "A téli biciklitúra meleg kesztyűt igényel, de csendes utakkal hálálja meg. A Kallbadhuset után a vár felé vesszük az irányt, amely a téli fényben fenséges látvány. A tekerés Getterön felé a tiszta levegőn frissítő, a látogatóközpontban pedig megpihenhetünk. A fagyos parti sétány mentén haladunk a Kurort felé, ahol a gyógyfürdő melege tökéletes célpont a fázós bicikliseknek.",
+            "ro": "Un tur de iarnă cu bicicleta necesită mănuși groase, dar oferă drumuri pustii. După Kallbadhuset, drumul duce la cetate, care arată maiestuos în lumina iernii. Cursa spre Getterön este revigorantă în aerul curat, cu popas la centrul de vizitare. Pe faleza înghețată ajungem la Kurort, unde căldura spa-ului este destinația perfectă pentru bicicliști.",
+            "en": "A winter bike tour requires warm gloves but rewards with lonely paths. After Kallbadhuset, the route leads to the fortress, looking majestic in winter light. The ride to Getterön is refreshing in the crisp air, with a stay at the visitor center. Along the frosty promenade, head to the Kurort, where the spa's warmth is the perfect goal for chilly cyclists."
+          },
+          "stops": [
+            {
+              "name": "Kallbadhuset Varberg",
+              "tip_5lang": {
+                "de": "Heiße Getränke im Café helfen gegen die Kälte beim Start.",
+                "hu": "A kávézó forró italai segítenek a hideg elleni küzdelemben.",
+                "ro": "Băuturile calde de la cafenea ajută la combaterea frigului la start.",
+                "en": "Hot drinks at the cafe help against the cold at the start."
+              }
+            },
+            {
+              "name": "Festung Varberg",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis an den schattigen Burgmauern.",
+                "hu": "Ügyeljen a jegesedésre az árnyékos várfalak mentén.",
+                "ro": "Atenție la polei în zonele umbrite ale zidurilor cetății.",
+                "en": "Watch out for black ice along the shaded castle walls."
+              }
+            },
+            {
+              "name": "Getterön Naturschutzgebiet",
+              "tip_5lang": {
+                "de": "Im Winter lassen sich hier oft seltene nordische Vögel beobachten.",
+                "hu": "Télen gyakran láthatók itt ritka északi madárfajok.",
+                "ro": "Iarna pot fi observate aici adesea păsări nordice rare.",
+                "en": "Rare Nordic birds can often be spotted here during winter."
+              }
+            },
+            {
+              "name": "Strandpromenaden Varberg",
+              "tip_5lang": {
+                "de": "Tragen Sie eine Gesichtsmaske gegen den schneidenden Winterwind.",
+                "hu": "Viseljen arcmaszkot a metsző téli szél ellen.",
+                "ro": "Purtați o mască de față împotriva vântului tăios de iarnă.",
+                "en": "Wear a face mask against the cutting winter wind."
+              }
+            },
+            {
+              "name": "Varberg Kurort",
+              "tip_5lang": {
+                "de": "Das ultimative Ziel, um steife Glieder wieder aufzuwärmen.",
+                "hu": "A végső állomás az elgémberedett végtagok felmelegítésére.",
+                "ro": "Destinația supremă pentru reîncălzirea membrelor amorțite.",
+                "en": "The ultimate goal to warm up stiff limbs after the ride."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf 'Black Ice' (unsichtbares Glatteis) auf den Radwegen.",
+              "Die Batterien von E-Bikes entladen sich bei Kälte deutlich schneller.",
+              "Gefütterte Handschuhe und warme Socken sind für das Radfahren essentiell.",
+              "Planen Sie Ihre Tour so, dass Sie vor Einbruch der Dunkelheit (ca. 15:30) ankommen.",
+              "Salz auf den Straßen kann den Fahrradrahmen angreifen; nach der Tour kurz abspülen."
+            ],
+            "hu": [
+              "Vigyázz a 'fekete jégre' (láthatatlan jegesedés) a bicikliutakon.",
+              "Az e-bike akkumulátorok hidegben jóval gyorsabban merülnek.",
+              "A bélelt kesztyű és a meleg zokni elengedhetetlen a tekeréshez.",
+              "Úgy tervezd az utat, hogy sötétedés előtt (kb. 15:30) célba érj.",
+              "Az utak sózása korrodálhatja a vázat; a túra után érdemes leöblíteni."
+            ],
+            "ro": [
+              "Atenție la 'gheața neagră' (polei invizibil) pe pistele de biciclete.",
+              "Bateriile bicicletelor electrice se descarcă mult mai repede la ger.",
+              "Mănușile căptușite și șosetele groase sunt esențiale pentru pedalat.",
+              "Planificați turul astfel încât să ajungeți înainte de întuneric (cca. 15:30).",
+              "Sarea de pe drum poate ataca cadrul bicicletei; clătiți-o după tur."
+            ],
+            "en": [
+              "Watch out for 'black ice' (invisible ice) on the bike paths.",
+              "E-bike batteries drain significantly faster in cold weather.",
+              "Insulated gloves and warm socks are essential for cycling.",
+              "Plan your tour to arrive before darkness falls (around 3:30 PM).",
+              "Road salt can damage the bike frame; rinse it briefly after the tour."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -811,6 +1155,178 @@
           "Park in the center and walk – it is much more relaxing.",
           "Grimeton Radio Station offers guided tours, book in advance!"
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Im Auto erkunden Sie Varberg bequem und trocken. Wir starten beim Kallbadhuset, wo Sie den Regen vom warmen Innenraum aus beobachten. Die Festung und das Museum bieten stundenlange Unterhaltung im Trockenen. Ein Ausflug zum Naturschutzgebiet Getterön zeigt die wilde Natur, bevor die Fahrt zur Grimeton Radiostation führt, wo die Technikgeschichte auch bei schlechtem Wetter beeindruckt.",
+            "hu": "Autóval kényelmesen és szárazon fedezheti fel Varberget. A Kallbadhusetnél kezdünk, ahol a meleg utastérből figyelheti az esőt. A vár és a múzeum órákig tartó száraz szórakozást nyújt. A Getterön természetvédelmi terület kirándulása a vad természetet mutatja be, mielőtt a Grimeton rádióállomáshoz hajtanánk, ahol a technikai történelem rossz időben is lenyűgöző.",
+            "ro": "Cu mașina explorați Varberg confortabil și la uscat. Începem la Kallbadhuset, unde puteți observa ploaia din interiorul cald. Cetatea și muzeul oferă divertisment la adăpost timp de ore întregi. O excursie la rezervația Getterön arată natura sălbatică, înainte de drumul spre stația radio Grimeton, unde istoria tehnicii impresionează și pe vreme rea.",
+            "en": "Explore Varberg comfortably and dry by car. Start at Kallbadhuset, watching the rain from the warm interior. The fortress and museum offer hours of indoor entertainment. A trip to Getterön Nature Reserve showcases wild nature before driving to Grimeton Radio Station, where technical history impresses even in bad weather."
+          },
+          "stops": [
+            {
+              "name": "Kallbadhuset Varberg",
+              "tip_5lang": {
+                "de": "Parkplätze direkt am Hafen nutzen, um Wege kurz zu halten.",
+                "hu": "Használja a kikötői parkolót a gyalogút minimalizálására.",
+                "ro": "Parcați direct în port pentru a scurta drumul pe jos.",
+                "en": "Use parking spots directly at the harbor to keep walks short."
+              }
+            },
+            {
+              "name": "Festung Varberg",
+              "tip_5lang": {
+                "de": "Parkplatz direkt unterhalb der Festungsmauern verfügbar.",
+                "hu": "Parkolóhely közvetlenül a várfalak alatt elérhető.",
+                "ro": "Locuri de parcare disponibile chiar sub zidurile cetății.",
+                "en": "Parking is available directly below the fortress walls."
+              }
+            },
+            {
+              "name": "Bockstensmannen",
+              "tip_5lang": {
+                "de": "Das Museum ist bei Regen ein idealer Rückzugsort.",
+                "hu": "A múzeum ideális menedék eső esetén.",
+                "ro": "Muzeul este un refugiu ideal pe timp de ploaie.",
+                "en": "The museum is an ideal retreat when it rains."
+              }
+            },
+            {
+              "name": "Getterön Naturschutzgebiet",
+              "tip_5lang": {
+                "de": "Man kann die Vögel teilweise direkt vom Auto aus beobachten.",
+                "hu": "A madarak egy része közvetlenül az autóból is megfigyelhető.",
+                "ro": "Păsările pot fi observate parțial direct din mașină.",
+                "en": "Some birds can be observed directly from the car."
+              }
+            },
+            {
+              "name": "Grimeton Radiostation",
+              "tip_5lang": {
+                "de": "Große Indoor-Ausstellung zur Funktechnik.",
+                "hu": "Hatalmas fedett kiállítás a rádiótechnikáról.",
+                "ro": "Expoziție interioară vastă despre tehnologia radio.",
+                "en": "Large indoor exhibition on radio technology."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sicht kann bei starkem Regen an der Küste stark eingeschränkt sein.",
+              "Parkplätze sind bei Regenwetter oft leichter zu finden.",
+              "Grimeton liegt etwas außerhalb, die Fahrt dorthin ist bei Regen sehr entspannt.",
+              "Achten Sie auf Aquaplaning auf den Küstenstraßen.",
+              "Nutzen Sie die Sitzheizung nach den kurzen Spaziergängen zum Aufwärmen."
+            ],
+            "hu": [
+              "Heves esőben a látótávolság jelentősen csökkenhet a parton.",
+              "Esőben általában könnyebb parkolóhelyet találni.",
+              "Grimeton kicsit távolabb esik, az odaút esőben is pihentető.",
+              "Vigyázz az aquaplaning jelenségre a tengerparti utakon.",
+              "Használd az ülésfűtést a rövid séták utáni átmelegedéshez."
+            ],
+            "ro": [
+              "Vizibilitatea poate fi redusă semnificativ pe coastă în timpul ploii.",
+              "Locurile de parcare sunt adesea mai ușor de găsit pe vreme ploioasă.",
+              "Grimeton este puțin în afara orașului; drumul e relaxant chiar și pe ploaie.",
+              "Atenție la acvaplanare pe drumurile de coastă.",
+              "Folosiți încălzirea în scaune pentru a vă încălzi după scurte plimbări."
+            ],
+            "en": [
+              "Visibility can be significantly reduced on the coast during heavy rain.",
+              "Parking spots are often easier to find in rainy weather.",
+              "Grimeton is a bit outside; the drive there is very relaxed in the rain.",
+              "Watch out for aquaplaning on coastal roads.",
+              "Use the seat heaters to warm up after short walks."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine Wintertour mit dem Auto zeigt Varberg von seiner glitzernden Seite. Wir starten am Kallbadhuset und genießen die frostige Meeresbrise, bevor wir uns ins Auto zurückziehen. Die Festung und das Museum bieten eine warme Zeitreise. Nach einem Besuch in Getterön fahren wir ins Hinterland nach Grimeton, wo die gigantischen Antennen im Reif besonders eindrucksvoll aufragen, bevor wir zur blauen Stunde zurückkehren.",
+            "hu": "A téli autós túra Varberg csillogó oldalát mutatja be. A Kallbadhusetnél kezdünk, élvezzük a fagyos tengeri szellőt, majd visszahúzódunk az autóba. A vár és a múzeum meleg időutazást kínál. Getterön után a belső területek felé vesszük az irányt Grimetonba, ahol a hatalmas antennák a zuzmarában különösen hatásosak, mielőtt a kék órában visszatérnénk.",
+            "ro": "Un tur de iarnă cu mașina prezintă partea sclipitoare a orașului Varberg. Începem la Kallbadhuset, savurând briza înghețată înainte de a ne retrage în mașină. Cetatea și muzeul oferă o călătorie în timp la căldură. După Getterön, conducem spre Grimeton, unde antenele gigantice arată impresionant sub chiciură.",
+            "en": "A winter car tour shows Varberg's glittering side. Start at Kallbadhuset and enjoy the frosty sea breeze before retreating to the car. The fortress and museum offer a warm time travel. After Getterön, drive inland to Grimeton, where giant antennas rise impressively under hoarfrost before returning at twilight."
+          },
+          "stops": [
+            {
+              "name": "Kallbadhuset Varberg",
+              "tip_5lang": {
+                "de": "Der Hafenparkplatz kann im Winter vereist sein.",
+                "hu": "A kikötői parkoló télen jeges lehet.",
+                "ro": "Parcarea din port poate fi înghețată iarna.",
+                "en": "The harbor parking lot can be icy in winter."
+              }
+            },
+            {
+              "name": "Festung Varberg",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Parkplatz zum warmen Museumseingang.",
+                "hu": "Rövid séta a parkolótól a múzeum meleg bejáratáig.",
+                "ro": "Scurtă plimbare de la parcare la intrarea caldă a muzeului.",
+                "en": "Short walk from the parking lot to the warm museum entrance."
+              }
+            },
+            {
+              "name": "Bockstensmannen",
+              "tip_5lang": {
+                "de": "Garderobe vorhanden, um dicke Wintermäntel abzulegen.",
+                "hu": "Van ruhatár, ahol leteheti a vastag téli kabátot.",
+                "ro": "Garderobă disponibilă pentru a lăsa hainele groase de iarnă.",
+                "en": "Cloakroom available to leave heavy winter coats."
+              }
+            },
+            {
+              "name": "Getterön Naturschutzgebiet",
+              "tip_5lang": {
+                "de": "Die Zufahrtsstraße wird bei Schneefall zuverlässig geräumt.",
+                "hu": "A bekötőutat havazáskor is megbízhatóan takarítják.",
+                "ro": "Drumul de acces este curățat constant în caz de ninsoare.",
+                "en": "The access road is reliably cleared during snowfall."
+              }
+            },
+            {
+              "name": "Grimeton Radiostation",
+              "tip_5lang": {
+                "de": "Das Weltkulturerbe wirkt im Winterlicht besonders einsam und groß.",
+                "hu": "A világörökségi helyszín a téli fényben különösen fenséges.",
+                "ro": "Situl UNESCO arată deosebit de solitar și vast în lumina iernii.",
+                "en": "The UNESCO site looks particularly solitary and vast in winter light."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in Schweden gesetzlich vorgeschrieben und notwendig.",
+              "Achten Sie auf Wildwechsel (Elche/Rehe) in der Dämmerung bei Grimeton.",
+              "Halten Sie einen Eiskratzer und Schneebesen im Auto bereit.",
+              "Die Tage sind kurz; Grimeton sollte man bei Tageslicht besuchen.",
+              "Einige kleinere Straßen im Hinterland können glatt sein."
+            ],
+            "hu": [
+              "Svédországban a téli gumi törvényileg kötelező és elengedhetetlen.",
+              "Grimeton környékén szürkületkor figyelj a vadakra (szarvas, őz).",
+              "Legyen az autóban jégkaparó és hókefe.",
+              "A nappalok rövidek; Grimetont érdemes még világosban felkeresni.",
+              "A belső területek kisebb útjai jegesek lehetnek."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii prin lege în Suedia și necesare.",
+              "Atenție la animale sălbatice (elani/căprioare) la amurg lângă Grimeton.",
+              "Păstrați în mașină o racletă și o perie de zăpadă.",
+              "Zilele sunt scurte; vizitați Grimeton cât încă este lumină.",
+              "Unele drumuri secundare din interior pot fi alunecoase."
+            ],
+            "en": [
+              "Winter tires are legally required in Sweden and absolutely necessary.",
+              "Watch out for wildlife (moose/deer) at dusk near Grimeton.",
+              "Keep an ice scraper and snow brush ready in the car.",
+              "Days are short; visit Grimeton while it's still daylight.",
+              "Some smaller inland roads can be slippery."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1078,6 +1594,178 @@
           "Most sights in the center are close to each other, buses are only needed for outer destinations.",
           "Cashless payment is the standard in Sweden, even on the bus."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie Varbergs Busse, um bequem von einer Sehenswürdigkeit zur nächsten zu gelangen. Wir beginnen an der Stadskyrka im Zentrum. Ein kurzer Sprung mit dem Bus bringt uns zur Festung, wo wir den Vormittag verbringen. Nach dem Kallbadhuset geht es mit dem Nahverkehr zur Uferpromenade. Den Tag schließen wir im Kurort ab, wo das Spa-Erlebnis den Regen vergessen lässt.",
+            "hu": "Használja Varberg buszait, hogy kényelmesen jusson el egyik látnivalótól a másikig. A központi Stadskyrkánál kezdünk. Egy rövid buszos ugrás a várig visz, ahol a délelőttöt töltjük. A Kallbadhuset után tömegközlekedéssel megyünk a parti sétányhoz. A napot a Kurortnál zárjuk, ahol a spa élmény elfeledteti az esőt.",
+            "ro": "Folosiți autobuzele din Varberg pentru a ajunge confortabil de la un obiectiv la altul. Începem la Stadskyrka în centru. O scurtă călătorie cu autobuzul ne duce la cetate. După Kallbadhuset, mergem cu transportul public spre faleză. Încheiem ziua la Kurort, unde experiența spa vă face să uitați de ploaie.",
+            "en": "Use Varberg's buses to travel comfortably between sights. Start at Stadskyrka in the center. A quick bus ride takes us to the fortress for the morning. After Kallbadhuset, use public transit to reach the promenade. End the day at the Kurort, where the spa experience makes you forget the rain."
+          },
+          "stops": [
+            {
+              "name": "Varbergs Stadskyrka",
+              "tip_5lang": {
+                "de": "Zentrale Bushaltestelle in unmittelbarer Nähe.",
+                "hu": "Központi buszmegálló közvetlen közelben.",
+                "ro": "Stație centrală de autobuz în imediata apropiere.",
+                "en": "Central bus stop in the immediate vicinity."
+              }
+            },
+            {
+              "name": "Festung Varberg",
+              "tip_5lang": {
+                "de": "Überdachte Wartebereiche an den Haltestellen nutzen.",
+                "hu": "Használja a megállók fedett várakozóit.",
+                "ro": "Folosiți zonele de așteptare acoperite din stații.",
+                "en": "Use the sheltered waiting areas at the stops."
+              }
+            },
+            {
+              "name": "Kallbadhuset Varberg",
+              "tip_5lang": {
+                "de": "Vom Bahnhof (Resecentrum) nur 5 Minuten Fußweg.",
+                "hu": "A vasútállomástól (Resecentrum) mindössze 5 perc séta.",
+                "ro": "La doar 5 minute de mers pe jos de gară (Resecentrum).",
+                "en": "Only a 5-minute walk from the station (Resecentrum)."
+              }
+            },
+            {
+              "name": "Strandpromenaden Varberg",
+              "tip_5lang": {
+                "de": "Buslinien verbinden den Hafen mit den südlichen Abschnitten.",
+                "hu": "Buszjáratok kötik össze a kikötőt a déli szakaszokkal.",
+                "ro": "Liniile de autobuz leagă portul de secțiunile sudice.",
+                "en": "Bus lines connect the harbor with the southern sections."
+              }
+            },
+            {
+              "name": "Varberg Kurort",
+              "tip_5lang": {
+                "de": "Die Haltestelle 'Kurorten' liegt direkt vor der Tür.",
+                "hu": "A 'Kurorten' megálló közvetlenül az épület előtt van.",
+                "ro": "Stația 'Kurorten' se află chiar în fața clădirii.",
+                "en": "The 'Kurorten' stop is right in front of the entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie Tickets vorab über die 'Hallandstrafiken' App.",
+              "Die Busse sind gut beheizt und bieten Schutz vor Regengüssen.",
+              "Das Resecentrum ist der zentrale Umsteigepunkt für alle Linien.",
+              "Die Taktung der Busse kann am Wochenende geringer sein.",
+              "Nutzen Sie die App für Echtzeit-Infos bei wetterbedingten Verzögerungen."
+            ],
+            "hu": [
+              "Vegye meg jegyét előre a 'Hallandstrafiken' alkalmazásban.",
+              "A buszok jól fűtöttek és védelmet nyújtanak a záporok elől.",
+              "A Resecentrum a központi átszállási pont minden járatnál.",
+              "Hétvégén a buszok ritkábban járhatnak.",
+              "Használd az appot a valós idejű infókért esetleges késések esetén."
+            ],
+            "ro": [
+              "Cumpărați biletele în avans prin aplicația 'Hallandstrafiken'.",
+              "Autobuzele sunt bine încălzite și oferă protecție contra ploii.",
+              "Resecentrum este punctul central de transfer pentru toate liniile.",
+              "Frecvența autobuzelor poate fi mai redusă în weekend.",
+              "Folosiți aplicația pentru informații în timp real în caz de întârzieri."
+            ],
+            "en": [
+              "Buy tickets in advance via the 'Hallandstrafiken' app.",
+              "Buses are well-heated and provide shelter from downpours.",
+              "The Resecentrum is the central hub for all bus lines.",
+              "Bus frequency may be lower on weekends.",
+              "Use the app for real-time info in case of weather-related delays."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus durch das winterliche Varberg zu fahren, schont die Kräfte. Nach der Stadskyrka bringt uns der Bus schnell zur Festung, wo wir die Winterausstellungen genießen. Ein kurzer Spaziergang zum Kallbadhuset ist bei Kälte erfrischend, bevor wir uns im warmen Bus zur Strandpromenade fahren lassen. Der Tag endet im Kurort, der per Bus perfekt an das Stadtzentrum angebunden ist.",
+            "hu": "Busszal utazni a téli Varbergben energiát takarít meg. A Stadskyrka után a busz gyorsan a várhoz visz, ahol élvezzük a téli kiállításokat. Egy rövid séta a Kallbadhuset-hez frissítő a hidegben, majd a meleg busszal megyünk a parti sétányhoz. A nap a Kurortnál zárul, amely busszal tökéletesen összeköttetésben van a központtal.",
+            "ro": "Călătoria cu autobuzul prin Varbergul hibernal vă scutește de efort. După Stadskyrka, autobuzul ne duce rapid la cetate. O scurtă plimbare la Kallbadhuset este revigorantă pe ger, înainte de a lua autobuzul cald spre faleză. Ziua se încheie la Kurort, care este perfect conectat de centru prin autobuz.",
+            "en": "Traveling by bus through wintery Varberg saves energy. After Stadskyrka, the bus quickly takes us to the fortress for winter exhibitions. A short walk to Kallbadhuset is refreshing in the cold before taking a warm bus to the promenade. The day ends at the Kurort, perfectly connected to the center by bus."
+          },
+          "stops": [
+            {
+              "name": "Varbergs Stadskyrka",
+              "tip_5lang": {
+                "de": "Wartebereiche im Freien können sehr zugig sein.",
+                "hu": "A kültéri várakozóhelyek nagyon huzatosak lehetnek.",
+                "ro": "Zonele de așteptare în aer liber pot fi foarte expuse vântului.",
+                "en": "Outdoor waiting areas can be very drafty."
+              }
+            },
+            {
+              "name": "Festung Varberg",
+              "tip_5lang": {
+                "de": "Im Winter sind die Innenräume der Festung angenehm temperiert.",
+                "hu": "Télen a vár belső terei kellemes hőmérsékletűek.",
+                "ro": "Iarna, interioarele cetății au o temperatură plăcută.",
+                "en": "In winter, the fortress interiors are kept at a pleasant temperature."
+              }
+            },
+            {
+              "name": "Kallbadhuset Varberg",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Weg durch den Bahnhof zum Aufwärmen.",
+                "hu": "Használja az állomáson átvezető utat a bemelegedéshez.",
+                "ro": "Folosiți drumul prin gară pentru a vă mai încălzi.",
+                "en": "Use the route through the station to warm up."
+              }
+            },
+            {
+              "name": "Strandpromenaden Varberg",
+              "tip_5lang": {
+                "de": "Busse fahren hier seltener als im Stadtkern.",
+                "hu": "A buszok itt ritkábban járnak, mint a városmagban.",
+                "ro": "Autobuzele trec mai rar aici decât în centrul orașului.",
+                "en": "Buses run less frequently here than in the city core."
+              }
+            },
+            {
+              "name": "Varberg Kurort",
+              "tip_5lang": {
+                "de": "Der Bus hält direkt an der Auffahrt zum Hotel.",
+                "hu": "A busz közvetlenül a szálloda felhajtójánál áll meg.",
+                "ro": "Autobuzul oprește chiar la rampa de acces a hotelului.",
+                "en": "The bus stops right at the hotel's driveway."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Busse sind im Winter zuverlässig beheizt.",
+              "Beachten Sie die verkürzten Öffnungszeiten einiger Sights im Winter.",
+              "Vermeiden Sie langes Warten an Haltestellen durch Nutzung der Echtzeit-App.",
+              "Der Fußweg vom Bus zur Festung kann bei Schnee rutschig sein.",
+              "Das Resecentrum bietet einen warmen Wartesaal."
+            ],
+            "hu": [
+              "A buszok télen megbízhatóan fűtöttek.",
+              "Ügyeljen egyes látnivalók rövidített téli nyitvatartására.",
+              "Kerülje a hosszú várakozást a megállókban a valós idejű app használatával.",
+              "A busztól a várig tartó sétaút havas időben csúszós lehet.",
+              "A Resecentrum meleg váróteremmel rendelkezik."
+            ],
+            "ro": [
+              "Autobuzele sunt încălzite constant pe timp de iarnă.",
+              "Atenție la programul redus de iarnă al unor obiective.",
+              "Evitați așteptarea lungă în stații folosind aplicația în timp real.",
+              "Drumul pe jos de la autobuz la cetate poate fi alunecos pe zăpadă.",
+              "Resecentrum oferă o sală de așteptare încălzită."
+            ],
+            "en": [
+              "Buses are reliably heated during winter months.",
+              "Note the shortened winter opening hours for some attractions.",
+              "Avoid long waits at stops by using the real-time app.",
+              "The walk from the bus stop to the fortress can be slippery in snow.",
+              "The Resecentrum offers a warm waiting hall."
+            ]
+          }
+        }
       }
     }
   }

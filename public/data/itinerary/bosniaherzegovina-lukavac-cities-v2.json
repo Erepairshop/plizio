@@ -342,6 +342,196 @@
           "Most sights in the center are within easy walking distance.",
           "Plan for breaks at the numerous cafes to soak in the atmosphere."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt in Puračić, wo die nassen Pflastersteine die Geschichte des Viertels widerspiegeln. Ein Schirm ist für den Weg zur Weißen Moschee unerlässlich, die einen trockenen Ort der Besinnung bietet. Mittags bietet das Kulturzentrum Lukavac perfekten Schutz vor den Güssen und zeigt lokale Ausstellungen. Nach einem langen Mittagessen im Zentrum führt ein kurzer Spaziergang zur Vila Solvay. Der Tag endet am Denkmal Macan Marija, wenn die Lichter der Stadt im Regen glänzen.",
+            "hu": "A reggel Puračić ódon negyedében indul, ahol a vizes macskakövek tükrözik a múltat. Az esernyő kötelező a Fehér Mecset felé, amely csendes menedéket nyújt a zápor elől. Délben a Kulturális Központ fedett tereiben ismerkedhetünk a helyi művészettel. Egy kiadós városközponti ebéd után a Vila Solvay történelmi épületét érintjük. A napot a Macan Marija emlékműnél zárjuk, miközben az esőcseppek dobolnak a háztetőkön.",
+            "ro": "Dimineața începe în centrul vechi Puračić, unde pavajul umed reflectă farmecul istoric. Umbrela este esențială pentru drumul spre Moscheea Albă, un refugiu liniștit împotriva ploii. La prânz, Centrul Cultural Lukavac oferă protecție perfectă și expoziții locale interesante. După un prânz prelungit în centru, vizităm Vila Solvay. Ziua se încheie la Monumentul Macan Marija, în timp ce luminile orașului scânteiază prin perdeaua de ploaie.",
+            "en": "Morning starts in Puračić's old quarter, where wet cobblestones reflect the neighborhood's history. An umbrella is essential for the walk to the White Mosque, which offers a dry place for reflection. At noon, the Cultural Centre provides perfect shelter and a glimpse into local arts. After a long lunch in the city center, we visit the historic Vila Solvay. The day ends at the Macan Marija Monument as city lights shimmer through the drizzle."
+          },
+          "stops": [
+            {
+              "name": "Puračić Old Town",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem glatten Pflaster.",
+                "hu": "Vigyázz a csúszós macskaköveken.",
+                "ro": "Atenție la pavajul alunecos.",
+                "en": "Careful on the slippery cobblestones."
+              }
+            },
+            {
+              "name": "White Mosque Lukavac",
+              "tip_5lang": {
+                "de": "Überdachter Eingangsbereich nutzen.",
+                "hu": "Használd a fedett bejáratot.",
+                "ro": "Folosiți intrarea acoperită.",
+                "en": "Utilize the covered entrance area."
+              }
+            },
+            {
+              "name": "Cultural Centre Lukavac",
+              "tip_5lang": {
+                "de": "Idealer Ort, um den Guss abzuwarten.",
+                "hu": "Ideális hely az eső kivárására.",
+                "ro": "Loc ideal pentru a aștepta oprirea ploii.",
+                "en": "Ideal place to wait out a heavy downpour."
+              }
+            },
+            {
+              "name": "Vila Solvay",
+              "tip_5lang": {
+                "de": "Kurzer Stopp unter dem Vordach.",
+                "hu": "Gyors megálló az előtető alatt.",
+                "ro": "Oprire scurtă sub streașină.",
+                "en": "Quick stop under the porch canopy."
+              }
+            },
+            {
+              "name": "Lunch in the city center",
+              "tip_5lang": {
+                "de": "Platz in Fensternähe wählen.",
+                "hu": "Válassz ablak melletti asztalt.",
+                "ro": "Alegeți o masă lângă fereastră.",
+                "en": "Choose a table near the window."
+              }
+            },
+            {
+              "name": "Macan Marija Monument",
+              "tip_5lang": {
+                "de": "Schnelles Foto im Regen.",
+                "hu": "Gyors fotó az esőben.",
+                "ro": "O fotografie rapidă în ploaie.",
+                "en": "Quick photo during a break in rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für die Altstadtgassen.",
+              "Das Kulturzentrum ist der beste Rückzugsort bei Starkregen.",
+              "Ein Taschenschirm ist handlicher als ein Stockschirm.",
+              "Die meisten Cafés im Zentrum haben überdachte Außenbereiche.",
+              "Die Sicht auf die Industrieanlagen ist bei Regen besonders mystisch."
+            ],
+            "hu": [
+              "Viselj vízálló cipőt az óvárosi szűk utcákhoz.",
+              "A Kulturális Központ a legjobb menedék heves esőzéskor.",
+              "Az összecsukható esernyő praktikusabb a városi séta során.",
+              "A központi kávézók többsége rendelkezik fedett terasszal.",
+              "Az ipari létesítmények látványa esőben különösen misztikus."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru străzile vechi.",
+              "Centrul Cultural este cel mai bun refugiu în caz de ploaie torențială.",
+              "O umbrelă pliabilă este mai practică pentru plimbările urbane.",
+              "Majoritatea cafenelelor centrale au terase acoperite.",
+              "Priveliștea zonei industriale este deosebit de mistică pe ploaie."
+            ],
+            "en": [
+              "Wear waterproof shoes for the narrow old town streets.",
+              "The Cultural Centre is the best retreat during heavy rain.",
+              "A compact umbrella is more practical for city walking.",
+              "Most central cafes have covered outdoor seating areas.",
+              "The view of industrial sites is particularly mystic in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen empfängt Sie in Puračić, wo der Schnee die alten Dächer bedeckt. Die Weiße Moschee strahlt in der klaren Winterluft eine besondere Ruhe aus. Mittags bietet das beheizte Kulturzentrum Wärme und Einblicke in die lokale Geschichte. Ein heißes Mittagessen mit traditionellen Suppen stärkt für den Nachmittag. Der Besuch der Vila Solvay wirkt im Winterlicht fast märchenhaft. Den Tag beschließen wir am Denkmal Macan Marija, bevor die frühe Dunkelheit einsetzt.",
+            "hu": "Deres reggel fogad Puračićban, ahol a hó belepi a régi háztetőket. A Fehér Mecset különleges nyugalmat áraszt a tiszta téli levegőben. Délben a fűtött Kulturális Központ kínál meleget és helyi történeteket. Egy forró, hagyományos levesekkel teli ebéd erőt ad a délutánhoz. A Vila Solvay látogatása a téli fényekben szinte mesebeli. A napot a Macan Marija emlékműnél zárjuk, még a korai sötétedés beállta előtt.",
+            "ro": "O dimineață geroasă vă întâmpină în Puračić, cu zăpada acoperind acoperișurile vechi. Moscheea Albă emană o liniște aparte în aerul curat de iarnă. La prânz, Centrul Cultural încălzit oferă adăpost și povești locale. Un prânz cald cu ciorbe tradiționale vă va încălzi pentru după-amiază. Vizita la Vila Solvay pare aproape desprinsă din basme în lumina iernii. Încheiem ziua la Monumentul Macan Marija înainte de lăsarea serii.",
+            "en": "A frosty morning greets you in Puračić, with snow covering the old rooftops. The White Mosque radiates a special tranquility in the crisp winter air. At noon, the heated Cultural Centre offers warmth and local stories. A hot lunch filled with traditional Bosnian soups prepares you for the afternoon. The visit to Vila Solvay feels almost fairytale-like in the winter light. We conclude the day at the Macan Marija Monument before the early dusk sets in."
+          },
+          "stops": [
+            {
+              "name": "Puračić Old Town",
+              "tip_5lang": {
+                "de": "Warme Stiefel mit Profil tragen.",
+                "hu": "Viselj bordázott talpú meleg bakancsot.",
+                "ro": "Purtați ghete călduroase cu aderență.",
+                "en": "Wear warm boots with good tread."
+              }
+            },
+            {
+              "name": "White Mosque Lukavac",
+              "tip_5lang": {
+                "de": "Schuhe ausziehen auf kaltem Boden beachten.",
+                "hu": "Vedd figyelembe a cipőlevételt.",
+                "ro": "Atenție la descălțat pe podeaua rece.",
+                "en": "Be mindful of shoe removal on cold floors."
+              }
+            },
+            {
+              "name": "Cultural Centre Lukavac",
+              "tip_5lang": {
+                "de": "Aufwärmpause in der Galerie.",
+                "hu": "Melegedő szünet a galériában.",
+                "ro": "Pauză de încălzire în galerie.",
+                "en": "Warm-up break in the gallery."
+              }
+            },
+            {
+              "name": "Vila Solvay",
+              "tip_5lang": {
+                "de": "Schnee auf den Stufen beachten.",
+                "hu": "Vigyázz a havas lépcsőkön.",
+                "ro": "Atenție la zăpada de pe trepte.",
+                "en": "Watch out for snow on the steps."
+              }
+            },
+            {
+              "name": "Lunch in the city center",
+              "tip_5lang": {
+                "de": "Probieren Sie Begova čorba.",
+                "hu": "Kóstold meg a Begova čorbát.",
+                "ro": "Încercați Begova čorba.",
+                "en": "Try the hot Begova čorba soup."
+              }
+            },
+            {
+              "name": "Macan Marija Monument",
+              "tip_5lang": {
+                "de": "Besuch vor Sonnenuntergang (16:30).",
+                "hu": "Látogatás naplemente (16:30) előtt.",
+                "ro": "Vizită înainte de apus (16:30).",
+                "en": "Visit before sunset (around 16:30)."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Gehwege können morgens vereist sein.",
+              "Planen Sie mehr Zeit für Aufwärmpausen in Cafés ein.",
+              "Die Sonne geht im Dezember bereits gegen 16:15 Uhr unter.",
+              "Zwiebelprinzip bei der Kleidung schützt vor dem Wind.",
+              "Heiße Schokolade in den lokalen Konditoreien ist ein Muss."
+            ],
+            "hu": [
+              "A járdák reggelente jegesek lehetnek.",
+              "Tervezz be több melegedő szünetet a kávézókban.",
+              "A nap decemberben már 16:15 körül lemegy.",
+              "A réteges öltözködés véd a hideg szél ellen.",
+              "A helyi cukrászdák forró csokoládéja kötelező program."
+            ],
+            "ro": [
+              "Trotuarele pot fi înghețate dimineața.",
+              "Planificați mai multe pauze de încălzire în cafenele.",
+              "Soarele apune deja în jurul orei 16:15 în decembrie.",
+              "Îmbrăcămintea în straturi protejează împotriva vântului.",
+              "Ciocolata caldă din cofetăriile locale este obligatorie."
+            ],
+            "en": [
+              "Sidewalks can be icy in the early morning.",
+              "Plan for more warm-up breaks in local cafes.",
+              "The sun sets around 16:15 in December.",
+              "Layered clothing protects best against the biting wind.",
+              "Hot chocolate in local pastry shops is a must-try."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -662,6 +852,196 @@
           "Bring a lock to secure your bike while you explore the sights.",
           "A map or GPS device is helpful for navigating between the lakes and the city."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Start am Bistarac-See erfordert gute Schutzkleidung, während der Nebel über dem Wasser hängt. Die Fahrt nach Puračić führt über nasse Straßen, vorbei an glänzenden historischen Fassaden. Die Weiße Moschee bietet einen kurzen Halt im Trockenen, bevor es zum Mittagessen geht. Nachmittags zeigt sich das industrielle Erbe von Lukavac unter grauem Himmel besonders eindrucksvoll. Die Rückkehr zum Modrac-See erfolgt auf feuchten Wegen, wo das Plätschern des Regens die Stille begleitet.",
+            "hu": "Az esős start a Bistarac-tónál vízhatlan ruházatot igényel, miközben köd ül a víz felett. Az út Puračićba vizes aszfalton vezet, csillogó történelmi homlokzatok mellett. A Fehér Mecset rövid száraz pihenőt kínál az ebéd előtt. Délután Lukavac ipari öröksége szürke égbolt alatt mutatkozik meg leginkább. A visszatérés a Modrac-tóhoz nedves utakon történik, ahol az eső kopogása kíséri a csendet.",
+            "ro": "Un început ploios la Lacul Bistarac necesită echipament impermeabil, în timp ce ceața plutește deasupra apei. Drumul spre Puračić continuă pe asfalt umed, pe lângă fațade istorice strălucitoare. Moscheea Albă oferă un scurt popas uscat înainte de prânz. După-amiaza, moștenirea industrială din Lukavac este impresionantă sub cerul gri. Revenirea la Lacul Modrac se face pe drumuri ude, unde sunetul ploii însoțește liniștea.",
+            "en": "A rainy start at Lake Bistarac requires waterproof gear while mist hangs over the water. The ride to Puračić follows wet roads past glistening historic facades. The White Mosque offers a brief dry stop before lunch. In the afternoon, Lukavac's industrial heritage is particularly striking under gray skies. The return to Lake Modrac is on damp paths, where the rhythmic patter of rain accompanies the silence."
+          },
+          "stops": [
+            {
+              "name": "Start at Lake Bistarac",
+              "tip_5lang": {
+                "de": "Schutzbleche am Rad kontrollieren.",
+                "hu": "Ellenőrizd a sárvédőket a biciklin.",
+                "ro": "Verificați apărătorile de noroi.",
+                "en": "Check mudguards on your bike."
+              }
+            },
+            {
+              "name": "Puračić Old Town",
+              "tip_5lang": {
+                "de": "Vorsicht bei Kurven auf nassem Stein.",
+                "hu": "Vigyázz a kanyarokban a vizes kövön.",
+                "ro": "Atenție la curbe pe piatra umedă.",
+                "en": "Careful in turns on wet stones."
+              }
+            },
+            {
+              "name": "White Mosque Lukavac",
+              "tip_5lang": {
+                "de": "Fahrrad im Windschatten abstellen.",
+                "hu": "Állítsd a biciklit szélvédett helyre.",
+                "ro": "Parcați bicicleta la adăpost.",
+                "en": "Park your bike in a sheltered spot."
+              }
+            },
+            {
+              "name": "Lunch",
+              "tip_5lang": {
+                "de": "Kleidung zum Trocknen aufhängen.",
+                "hu": "Akaszd fel a ruháidat száradni.",
+                "ro": "Puneți hainele la uscat la interior.",
+                "en": "Hang your gear to dry indoors."
+              }
+            },
+            {
+              "name": "Industrial Heritage Lukavac",
+              "tip_5lang": {
+                "de": "Vorsicht vor Pfützen und Ölflecken.",
+                "hu": "Vigyázz a tócsákkal és olajfoltokkal.",
+                "ro": "Atenție la bălți și pete de ulei.",
+                "en": "Watch out for puddles and oil spots."
+              }
+            },
+            {
+              "name": "Return to Lake Modrac",
+              "tip_5lang": {
+                "de": "Bremsweg auf nassem Asphalt länger.",
+                "hu": "A fékút vizes aszfalton hosszabb.",
+                "ro": "Distanța de frânare este mai mare.",
+                "en": "Braking distance is longer on wet roads."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie das Bremsen auf nassen Fahrbahnmarkierungen.",
+              "Vollvisierhelm oder Brille schützt vor Spritzwasser.",
+              "Wasserdichte Packtaschen halten Ihre Sachen trocken.",
+              "Die Uferwege am See können schlammig sein.",
+              "Beleuchtung auch tagsüber einschalten für bessere Sicht."
+            ],
+            "hu": [
+              "Kerüld a fékezést a vizes útburkolati jeleken.",
+              "A szemüveg vagy plexi véd a felcsapódó víztől.",
+              "Vízálló táskák tartsák szárazon a holmidat.",
+              "A tóparti utak sárosak lehetnek.",
+              "Kapcsold be a világítást nappal is a láthatóságért."
+            ],
+            "ro": [
+              "Evitați frânarea pe marcajele rutiere umede.",
+              "Ochelarii protejează împotriva stropilor de apă.",
+              "Gențile impermeabile vă păstrează lucrurile uscate.",
+              "Potecile de pe malul lacului pot fi noroioase.",
+              "Aprindeți luminile și ziua pentru vizibilitate."
+            ],
+            "en": [
+              "Avoid braking on wet road markings.",
+              "Eyewear protects your eyes from water splashes.",
+              "Waterproof panniers keep your belongings dry.",
+              "Lakeside paths may be muddy in rainy weather.",
+              "Keep your lights on even during the day for visibility."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein eisiger Morgen am Bistarac-See startet die Tour mit gefrorenem Nebel auf den Wegen. Die Fahrt nach Puračić erfordert warme Schichten gegen den schneidenden Wind. Die Weiße Moschee wirkt in der kargen Winterlandschaft besonders majestätisch. Ein warmes Mittagessen ist die nötige Pause, um die Finger aufzutauen. Nachmittags glüht das Stahlwerk Lukavac im kalten Licht, ein Symbol der Industrie. Die Tour endet am Modrac-See, wenn die Sonne früh hinter den Bergen verschwindet.",
+            "hu": "Jeges reggel a Bistarac-tónál, zúzmarás utakkal indul a túra. Az út Puračićba meleg rétegeket igényel a metsző szél ellen. A Fehér Mecset különösen fenséges a kopár téli tájban. Egy meleg ebéd szükséges pihenő az ujjak felmelegítéséhez. Délután a Lukavac-i acélmű izzik a hideg fényben, az ipar szimbólumaként. A túra a Modrac-tónál ér véget, miközben a nap korán eltűnik a hegyek mögött.",
+            "ro": "O dimineață geroasă la Lacul Bistarac începe turul cu chiciură pe drumuri. Drumul spre Puračić necesită straturi groase împotriva vântului tăios. Moscheea Albă pare deosebit de maiestuoasă în peisajul auster. Un prânz cald este pauza necesară pentru a vă încălzi mâinile. După-amiaza, oțelăria din Lukavac strălucește în lumina rece. Turul se încheie la Lacul Modrac, când soarele dispare devreme după munți.",
+            "en": "An icy morning at Lake Bistarac starts the tour with frost on the paths. The ride to Puračić requires warm layers against the biting wind. The White Mosque looks particularly majestic in the barren winter landscape. A warm lunch is a necessary break to thaw out your fingers. In the afternoon, the Lukavac steelworks glow in the cold light, a symbol of industry. The tour ends at Lake Modrac as the sun disappears early behind the mountains."
+          },
+          "stops": [
+            {
+              "name": "Start at Lake Bistarac",
+              "tip_5lang": {
+                "de": "Auf überfrierende Nässe achten.",
+                "hu": "Vigyázz a felfagyásokkal az úton.",
+                "ro": "Atenție la poleiul de pe drum.",
+                "en": "Watch out for black ice on the paths."
+              }
+            },
+            {
+              "name": "Puračić Old Town",
+              "tip_5lang": {
+                "de": "Langsames Tempo in den Kurven.",
+                "hu": "Lassú tempó a kanyarokban.",
+                "ro": "Viteză redusă în curbe.",
+                "en": "Maintain a slow pace in corners."
+              }
+            },
+            {
+              "name": "White Mosque Lukavac",
+              "tip_5lang": {
+                "de": "Bremsen vor dem Absteigen prüfen.",
+                "hu": "Ellenőrizd a fékeket leszállás előtt.",
+                "ro": "Verificați frânele înainte de oprire.",
+                "en": "Check your brakes before dismounting."
+              }
+            },
+            {
+              "name": "Lunch",
+              "tip_5lang": {
+                "de": "Thermoskanne mit Tee auffüllen.",
+                "hu": "Töltsd fel a termoszt forró teával.",
+                "ro": "Umpleți termosul cu ceai fierbinte.",
+                "en": "Refill your thermos with hot tea."
+              }
+            },
+            {
+              "name": "Industrial Heritage Lukavac",
+              "tip_5lang": {
+                "de": "Vorsicht bei Metallschienen am Boden.",
+                "hu": "Vigyázz a földön fekvő sínekkel.",
+                "ro": "Atenție la șinele de metal de pe sol.",
+                "en": "Careful with metal tracks on the ground."
+              }
+            },
+            {
+              "name": "Return to Lake Modrac",
+              "tip_5lang": {
+                "de": "Warme Handschuhe sind essenziell.",
+                "hu": "A meleg kesztyű elengedhetetlen.",
+                "ro": "Mănușile călduroase sunt esențiale.",
+                "en": "Warm gloves are essential for the descent."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schützen Sie Ihr Gesicht vor dem kalten Fahrtwind.",
+              "Die Batterie von E-Bikes entlädt sich bei Kälte schneller.",
+              "Vermeiden Sie Waldwege bei Schneebruchgefahr.",
+              "Die Wege am Modrac-See können vereist sein.",
+              "Sorgen Sie für reflektierende Kleidung bei Dämmerung."
+            ],
+            "hu": [
+              "Védd az arcodat a hideg menetszéltől.",
+              "Az e-bike-ok akkumulátora gyorsabban merül hidegben.",
+              "Kerüld az erdei utakat hóesés után.",
+              "A Modrac-tó körüli utak jegesek lehetnek.",
+              "Viselj fényvisszaverő ruházatot szürkületkor."
+            ],
+            "ro": [
+              "Protejați-vă fața de vântul rece din mers.",
+              "Bateria bicicletelor electrice se descarcă mai repede la ger.",
+              "Evitați potecile prin pădure după ninsori.",
+              "Drumurile de lângă Lacul Modrac pot fi înghețate.",
+              "Purtați haine reflectorizante după amiază."
+            ],
+            "en": [
+              "Protect your face from the cold wind chill.",
+              "E-bike batteries drain faster in freezing temps.",
+              "Avoid forest paths if there is a risk of falling branches.",
+              "Paths around Lake Modrac can be very icy.",
+              "Wear reflective gear as darkness falls early."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1006,6 +1386,214 @@
           "Allow enough time for the drives between clusters.",
           "Check road conditions, especially if you are driving into more rural areas."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen am Modrac-See bietet dramatische Ausblicke auf die Staumauer im Nebel. Die Fahrt geht weiter zum Bistarac-See, wo der Regen auf das Autodach trommelt. In Puračić parken wir nah am Zentrum, um die Altstadt zwischen den Schauern zu erkunden. Das Mittagessen bietet eine gemütliche Pause, während draußen der Himmel grau bleibt. Nachmittags besuchen wir die Weiße Moschee und das industrielle Erbe, bevor die Tour bei der Vila Solvay im sanften Abendregen endet.",
+            "hu": "Az esős reggel a Modrac-tónál drámai kilátást nyújt a gátra a ködben. Az út a Bistarac-tóhoz folytatódik, ahol az eső kopog a tetőn. Puračićban a központhoz közel parkolunk, hogy két zápor között felfedezzük az óvárost. Az ebéd barátságos pihenőt kínál, miközben kint szürke marad az ég. Délután meglátogatjuk a Fehér Mecsetet és az ipari örökséget, majd a Vila Solvaynál zárjuk a túrát az esti esőben.",
+            "ro": "O dimineață ploioasă la Lacul Modrac oferă vederi dramatice asupra barajului în ceață. Drumul continuă spre Lacul Bistarac, cu ploaia bătând în plafonul mașinii. În Puračić parcăm aproape de centru pentru a explora orașul vechi între reprizele de ploaie. Prânzul oferă o pauză caldă, în timp ce cerul rămâne gri. După-amiaza vizităm Moscheea Albă și patrimoniul industrial, încheind turul la Vila Solvay sub ploaia serii.",
+            "en": "A rainy morning at Lake Modrac offers dramatic views of the dam in the mist. The drive continues to Lake Bistarac as rain drums on the car roof. In Puračić, we park close to the center to explore the old town between showers. Lunch provides a cozy break while the sky remains gray outside. In the afternoon, we visit the White Mosque and industrial sites, concluding the tour at Vila Solvay in the gentle evening rain."
+          },
+          "stops": [
+            {
+              "name": "Lake Modrac (Cluster A)",
+              "tip_5lang": {
+                "de": "Vorsicht bei Gischt auf der Straße.",
+                "hu": "Vigyázz a felcsapódó vízre az úton.",
+                "ro": "Atenție la acvaplanare pe șosea.",
+                "en": "Watch out for spray on the road."
+              }
+            },
+            {
+              "name": "Lake Bistarac (Cluster A)",
+              "tip_5lang": {
+                "de": "Parkplatz auf festem Untergrund wählen.",
+                "hu": "Szilárd talajon keress parkolót.",
+                "ro": "Parcați pe o suprafață solidă.",
+                "en": "Choose a parking spot on solid ground."
+              }
+            },
+            {
+              "name": "Puračić Old Town (Cluster B)",
+              "tip_5lang": {
+                "de": "Naher Parkplatz erspart langen Fußweg.",
+                "hu": "A közeli parkoló megkímél a gyaloglástól.",
+                "ro": "Parcarea apropiată evită plimbarea lungă.",
+                "en": "Close parking saves a long wet walk."
+              }
+            },
+            {
+              "name": "Lunch in Puračić (Cluster B)",
+              "tip_5lang": {
+                "de": "Trockener Ort für eine Pause.",
+                "hu": "Száraz hely egy pihenőhöz.",
+                "ro": "Loc uscat pentru o pauză relaxantă.",
+                "en": "Perfect dry spot for a break."
+              }
+            },
+            {
+              "name": "White Mosque (Cluster B)",
+              "tip_5lang": {
+                "de": "Kurze Laufwege zum Eingang.",
+                "hu": "Rövid séta a bejáratig.",
+                "ro": "Distanță scurtă de mers până la intrare.",
+                "en": "Short walking distance to the entrance."
+              }
+            },
+            {
+              "name": "Industrial Heritage Lukavac (Cluster C)",
+              "tip_5lang": {
+                "de": "Sichtverhältnisse bei Schwerlastverkehr.",
+                "hu": "Figyelj a teherautókra a rossz látásnál.",
+                "ro": "Vizibilitate redusă lângă camioane.",
+                "en": "Mind visibility around heavy trucks."
+              }
+            },
+            {
+              "name": "Vila Solvay (Cluster C)",
+              "tip_5lang": {
+                "de": "Sicherer Halt am Straßenrand.",
+                "hu": "Biztonságos megállás az út szélén.",
+                "ro": "Oprire sigură pe marginea drumului.",
+                "en": "Safe stopping on the roadside."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Scheibenwischer vor der Abfahrt.",
+              "Die Straßen rund um die Industrieanlagen können rutschig sein.",
+              "Nutzen Sie die Parkplätze direkt am Bistarac-See.",
+              "Vermeiden Sie tiefes Wasser in Senken.",
+              "Tagfahrlicht bei starkem Regen einschalten."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizd az ablaktörlőket.",
+              "Az ipari övezet körüli utak csúszósak lehetnek.",
+              "Használd a közvetlenül a Bistarac-tónál lévő parkolót.",
+              "Kerüld a mély tócsákat az úthajlatokban.",
+              "Heves esőben kapcsold be a tompított fényszórót."
+            ],
+            "ro": [
+              "Verificați ștergătoarele înainte de plecare.",
+              "Drumurile din zona industrială pot fi alunecoase.",
+              "Folosiți parcarea direct de la Lacul Bistarac.",
+              "Evitați bălțile adânci din zonele joase.",
+              "Aprindeți faza scurtă în caz de ploaie torențială."
+            ],
+            "en": [
+              "Check your windshield wipers before departing.",
+              "Roads around industrial areas can be greasy.",
+              "Use the parking lot directly at Lake Bistarac.",
+              "Avoid deep puddles in low-lying sections.",
+              "Turn on your headlights during heavy downpours."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen am Modrac-See zeigt die vereiste Uferlandschaft in strahlendem Weiß. Die Fahrt zum Bistarac-See führt über geräumte, aber kalte Straßen. In Puračić genießen wir den Blick auf die verschneite Altstadt aus dem warmen Auto, bevor wir einen kurzen Spaziergang wagen. Das Mittagessen in Puračić wärmt uns für den Nachmittag auf. Die Weiße Moschee und die Industrieanlagen von Lukavac wirken im Winterlicht besonders kontrastreich. Die Tour endet bei der Vila Solvay, wenn die Frostnacht beginnt.",
+            "hu": "Deres reggel a Modrac-tónál, ahol a jeges partvidék ragyogó fehérségben úszik. Az út a Bistarac-tóhoz takarított, de hideg utakon vezet. Puračićban a meleg autóból csodáljuk a havas óvárost, mielőtt tennénk egy rövid sétát. Az ebéd Puračićban felmelegít a délutánra. A Fehér Mecset és a Lukavac-i ipari létesítmények téli fényben különösen kontrasztosak. A túra a Vila Solvaynál ér véget, ahogy beáll a fagyos éjszaka.",
+            "ro": "O dimineață geroasă la Lacul Modrac prezintă malul înghețat într-un alb strălucitor. Drumul spre Lacul Bistarac continuă pe șosele curățate, dar reci. În Puračić admirăm orașul vechi înzăpezit din căldura mașinii înainte de o scurtă plimbare. Prânzul în Puračić ne încălzește pentru după-amiază. Moscheea Albă și zona industrială par pline de contrast în lumina iernii. Turul se încheie la Vila Solvay, când începe noaptea geroasă.",
+            "en": "A frosty morning at Lake Modrac reveals the icy shoreline in brilliant white. The drive to Lake Bistarac follows cleared but cold roads. In Puračić, we admire the snowy old town from the warmth of the car before venturing out for a short walk. Lunch in Puračić warms us up for the afternoon. The White Mosque and Lukavac's industrial sites look particularly high-contrast in winter light. The tour ends at Vila Solvay as the freezing night sets in."
+          },
+          "stops": [
+            {
+              "name": "Lake Modrac (Cluster A)",
+              "tip_5lang": {
+                "de": "Vorsicht auf ungeräumten Parkflächen.",
+                "hu": "Vigyázz a takarítatlan parkolókban.",
+                "ro": "Atenție în parcările necurățate.",
+                "en": "Careful in unplowed parking areas."
+              }
+            },
+            {
+              "name": "Lake Bistarac (Cluster A)",
+              "tip_5lang": {
+                "de": "Scheibenheizung nutzen.",
+                "hu": "Használd a szélvédőfűtést.",
+                "ro": "Folosiți degivrarea parbrizului.",
+                "en": "Use the windshield defroster."
+              }
+            },
+            {
+              "name": "Puračić Old Town (Cluster B)",
+              "tip_5lang": {
+                "de": "Motor nicht unnötig laufen lassen.",
+                "hu": "Ne járasd feleslegesen a motort.",
+                "ro": "Nu lăsați motorul pornit inutil.",
+                "en": "Don't leave the engine idling."
+              }
+            },
+            {
+              "name": "Lunch in Puračić (Cluster B)",
+              "tip_5lang": {
+                "de": "Batterie bei Kälte schonen.",
+                "hu": "Kíméld az akkumulátort a hidegben.",
+                "ro": "Protejați bateria la temperaturi scăzute.",
+                "en": "Conserve battery in freezing weather."
+              }
+            },
+            {
+              "name": "White Mosque (Cluster B)",
+              "tip_5lang": {
+                "de": "Parkplatzsuche auf gestreuten Wegen.",
+                "hu": "Sózott utakon keress parkolót.",
+                "ro": "Căutați locuri de parcare pe drumuri srate.",
+                "en": "Look for parking on salted roads."
+              }
+            },
+            {
+              "name": "Industrial Heritage Lukavac (Cluster C)",
+              "tip_5lang": {
+                "de": "Dampfwolken können Sicht behindern.",
+                "hu": "A gőzfelhők zavarhatják a kilátást.",
+                "ro": "Norii de abur pot reduce vizibilitatea.",
+                "en": "Steam clouds can block visibility."
+              }
+            },
+            {
+              "name": "Vila Solvay (Cluster C)",
+              "tip_5lang": {
+                "de": "Frostschutz für Scheiben bereitstellen.",
+                "hu": "Készíts be jégoldót a szélvédőre.",
+                "ro": "Aveți pregătit spray degivrant.",
+                "en": "Have windshield de-icer ready."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in Bosnien gesetzlich vorgeschrieben.",
+              "Führen Sie einen Eiskratzer und Besen mit.",
+              "Bremswege auf Brücken über den See sind länger.",
+              "Achten Sie auf Wildwechsel in Waldabschnitten.",
+              "Der Kraftstoffverbrauch ist im Winter meist höher."
+            ],
+            "hu": [
+              "A téli gumi Boszniában kötelező.",
+              "Tarts az autóban jégkaparót és kefét.",
+              "A tavon átívelő hidakon hosszabb a fékút.",
+              "Figyelj a vadakra az erdős szakaszokon.",
+              "A fogyasztás télen általában magasabb."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii în Bosnia.",
+              "Aveți în mașină o răzuitoare și o perie.",
+              "Distanța de frânare pe poduri este mai mare.",
+              "Atenție la animale pe secțiunile împădurite.",
+              "Consumul de combustibil este mai mare iarna."
+            ],
+            "en": [
+              "Winter tires are mandatory by law in Bosnia.",
+              "Carry an ice scraper and a snow brush.",
+              "Braking distances are longer on lake bridges.",
+              "Watch for wildlife on forested road sections.",
+              "Fuel consumption is generally higher in winter."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1302,6 +1890,178 @@
           "Allow for buffer time as buses can be delayed.",
           "Ask locals or the bus driver if you are unsure about a stop."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Ankunft im Zentrum von Lukavac erfolgt bei prasselndem Regen, der die Straßen glänzen lässt. Ein kurzer Weg führt zur Weißen Moschee, einem ruhigen Zufluchtsort im Trockenen. Den Mittag verbringen wir im Kulturzentrum, wo Ausstellungen und ein warmes Essen auf uns warten. Mit dem Bus geht es zum Bistarac-See, während die Tropfen an den Fenstern herunterlaufen. Ein Spaziergang am Ufer beschließt den Tag, wenn der Regen nachlässt und der See im grauen Licht ruht.",
+            "hu": "A megérkezés Lukavac központjába szakadó esőben történik, ami fényessé teszi az utcákat. Rövid út vezet a Fehér Mecsethez, amely nyugodt és száraz menedék. A delet a Kulturális Központban töltjük, ahol kiállítások és meleg ebéd vár ránk. Busszal utazunk a Bistarac-tóhoz, miközben az ablakon csorognak az esőcseppek. Egy tóparti séta zárja a napot, ahogy az eső eláll és a tó szürke fényben pihen.",
+            "ro": "Sosirea în centrul orașului Lukavac are loc pe o ploaie torențială care face străzile să strălucească. Un drum scurt duce la Moscheea Albă, un refugiu liniștit și uscat. Prânzul îl petrecem la Centrul Cultural, între expoziții și mâncare caldă. Mergem cu autobuzul la Lacul Bistarac, cu picăturile prelingându-se pe geamuri. O plimbare pe mal încheie ziua, când ploaia se oprește și lacul se odihnește în lumina gri.",
+            "en": "Arrival in Lukavac center happens during heavy rain, making the streets glisten. A short path leads to the White Mosque, a quiet and dry sanctuary. We spend midday at the Cultural Centre among exhibitions and a warm lunch. A bus ride takes us to Lake Bistarac as raindrops run down the windows. A lakeside walk concludes the day when the rain eases and the lake rests in the gray light."
+          },
+          "stops": [
+            {
+              "name": "Arrival in the Center (Cluster A)",
+              "tip_5lang": {
+                "de": "Unterstand am Busbahnhof nutzen.",
+                "hu": "Használd a buszmegálló váróját.",
+                "ro": "Folosiți adăpostul din autogară.",
+                "en": "Use the shelter at the bus station."
+              }
+            },
+            {
+              "name": "White Mosque (Cluster A)",
+              "tip_5lang": {
+                "de": "Kurzer Sprint zum Eingang.",
+                "hu": "Gyors sprint a bejáratig.",
+                "ro": "Sprint scurt până la intrare.",
+                "en": "Quick sprint to the entrance."
+              }
+            },
+            {
+              "name": "Cultural Centre & Lunch (Cluster A)",
+              "tip_5lang": {
+                "de": "Lange Aufenthaltszeit genießen.",
+                "hu": "Élvezd a hosszú bent tartózkodást.",
+                "ro": "Bucurați-vă de timpul petrecut la interior.",
+                "en": "Enjoy the long indoor stay."
+              }
+            },
+            {
+              "name": "Trip to Lake Bistarac (Cluster B)",
+              "tip_5lang": {
+                "de": "Fahrplan-App aktuell halten.",
+                "hu": "Figyeld a friss menetrendet.",
+                "ro": "Verificați mersul autobuzelor.",
+                "en": "Check for real-time bus updates."
+              }
+            },
+            {
+              "name": "Walk along the lake shore (Cluster B)",
+              "tip_5lang": {
+                "de": "Feste Wege bevorzugen.",
+                "hu": "Maradj a szilárd burkolatú utakon.",
+                "ro": "Rămâneți pe potecile pavate.",
+                "en": "Stick to the paved lakeside paths."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie bei Regen Kleidung mit Reflektoren.",
+              "Die Busse können bei schlechtem Wetter Verspätung haben.",
+              "Halten Sie Kleingeld für das Busticket bereit.",
+              "Die Wartebereiche am See sind spärlich überdacht.",
+              "Ein Buch verkürzt die Wartezeit im Kulturzentrum."
+            ],
+            "hu": [
+              "Viselj fényvisszaverős ruhát az esőben.",
+              "A buszok rossz időben késhetnek.",
+              "Készíts be aprópénzt a buszjegyhez.",
+              "A tóparti várók csak korlátozottan fedettek.",
+              "Egy könyv lerövidíti a várakozást a központban."
+            ],
+            "ro": [
+              "Purtați haine cu elemente reflectorizante pe ploaie.",
+              "Autobuzele pot avea întârzieri pe vreme rea.",
+              "Pregătiți mărunțiș pentru biletul de autobuz.",
+              "Zonele de așteptare de la lac sunt puțin protejate.",
+              "O carte scurtează timpul de așteptare la centru."
+            ],
+            "en": [
+              "Wear reflective gear when walking in the rain.",
+              "Buses may experience delays due to poor weather.",
+              "Keep small change ready for bus tickets.",
+              "Shelter at lakeside bus stops is limited.",
+              "A book is great for waiting at the Cultural Centre."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kalter Wintermorgen in Lukavac beginnt mit frostigem Wind am Bahnhof. Die Weiße Moschee bietet einen friedlichen, geschützten Ort vor der Kälte. Im Kulturzentrum wärmen wir uns mittags bei lokaler Kunst und einem heißen Essen auf. Die Busfahrt zum Bistarac-See zeigt die verschneite Industrielandschaft von ihrer rauen Seite. Ein kurzer Uferspaziergang im Winterlicht bildet den Abschluss, bevor uns der beheizte Bus zurück ins Zentrum bringt.",
+            "hu": "Hideg téli reggel Lukavacban, fagyos széllel az állomáson. A Fehér Mecset békés, védett helyet kínál a hideg elől. A Kulturális Központban helyi művészet és meleg ebéd mellett melegedhetünk fel. A buszút a Bistarac-tóhoz a havas ipari táj nyers oldalát mutatja meg. Rövid tóparti séta zárja a napot a téli fényben, mielőtt a fűtött busz visszavisz minket a központba.",
+            "ro": "O dimineață rece de iarnă în Lukavac începe cu vânt tăios la gară. Moscheea Albă oferă un loc pașnic și protejat de frig. La Centrul Cultural ne încălzim la prânz cu artă locală și mâncare fierbinte. Călătoria cu autobuzul spre Lacul Bistarac prezintă latura brută a peisajului industrial înzăpezit. O scurtă plimbare pe mal în lumina iernii încheie ziua, înainte ca autobuzul încălzit să ne ducă înapoi.",
+            "en": "A cold winter morning in Lukavac starts with a biting wind at the station. The White Mosque offers a peaceful, sheltered spot from the cold. At the Cultural Centre, we warm up at noon with local art and a hot meal. The bus ride to Lake Bistarac shows the raw side of the snowy industrial landscape. A short lakeside walk in the winter light concludes the day before the heated bus takes us back to the center."
+          },
+          "stops": [
+            {
+              "name": "Arrival in the Center (Cluster A)",
+              "tip_5lang": {
+                "de": "Warme Kleidung beim Warten tragen.",
+                "hu": "Viselj meleg ruhát várakozás közben.",
+                "ro": "Purtați haine groase cât așteptați.",
+                "en": "Wear warm layers while waiting."
+              }
+            },
+            {
+              "name": "White Mosque (Cluster A)",
+              "tip_5lang": {
+                "de": "Auf glatte Stufen achten.",
+                "hu": "Vigyázz a jeges lépcsőkre.",
+                "ro": "Atenție la treptele înghețate.",
+                "en": "Watch out for icy steps."
+              }
+            },
+            {
+              "name": "Cultural Centre & Lunch (Cluster A)",
+              "tip_5lang": {
+                "de": "Aufwärmen an der Heizung möglich.",
+                "hu": "Melegedési lehetőség a fűtőtesteknél.",
+                "ro": "Posibilitate de încălzire la calorifere.",
+                "en": "Warm up near the radiators."
+              }
+            },
+            {
+              "name": "Trip to Lake Bistarac (Cluster B)",
+              "tip_5lang": {
+                "de": "Fensterplatz für Aussicht wählen.",
+                "hu": "Válassz ablak melletti helyet a kilátáshoz.",
+                "ro": "Alegeți loc la geam pentru vedere.",
+                "en": "Choose a window seat for the view."
+              }
+            },
+            {
+              "name": "Walk along the lake shore (Cluster B)",
+              "tip_5lang": {
+                "de": "Kurzer Spaziergang wegen Kälte.",
+                "hu": "Rövid séta a nagy hideg miatt.",
+                "ro": "Plimbare scurtă din cauza gerului.",
+                "en": "Keep the walk short due to the cold."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse sind im Winter meist gut beheizt.",
+              "Die Abenddämmerung beginnt bereits gegen 16:00 Uhr.",
+              "Tragen Sie Schuhe mit rutschfester Gummisohle.",
+              "Informieren Sie sich über gekürzte Winterfahrpläne.",
+              "Ein Heißgetränk am Bahnhof hilft gegen das Frieren."
+            ],
+            "hu": [
+              "A buszok télen általában jól fűtöttek.",
+              "Az alkonyat már 16:00 körül elkezdődik.",
+              "Viselj csúszásmentes gumitalpú cipőt.",
+              "Tájékozódj a téli menetrendi változásokról.",
+              "Egy forró ital az állomáson segít a fázás ellen."
+            ],
+            "ro": [
+              "Autobuzele sunt de obicei bine încălzite iarna.",
+              "Amurgul începe deja în jurul orei 16:00.",
+              "Purtați încălțăminte cu talpă de cauciuc aderentă.",
+              "Informați-vă despre orarul de iarnă redus.",
+              "O băutură fierbinte în gară ajută împotriva frigului."
+            ],
+            "en": [
+              "Buses are usually well-heated in winter.",
+              "Dusk starts as early as 16:00 in winter.",
+              "Wear shoes with non-slip rubber soles.",
+              "Check for any reduced winter bus schedules.",
+              "A hot drink at the station helps fight the chill."
+            ]
+          }
+        }
       }
     }
   }

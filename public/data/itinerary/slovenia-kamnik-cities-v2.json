@@ -386,6 +386,206 @@
           "Allow plenty of time for the museum in Zaprice Castle.",
           "Most sights in the center are easily within walking distance."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen in Kamnik beginnt grau, doch die mittelalterlichen Gassen der Šutna bieten unter den Dachvorsprüngen Schutz. Mittags finden Sie Zuflucht im Franziskanerkloster mit seiner beeindruckenden Bibliothek. Am Nachmittag erkunden Sie die Ausstellungen im Schloss Zaprice, während der Regen gegen die alten Mauern trommelt. Den Tag lassen wir ruhig ausklingen, da der Aufstieg zur Burgruine bei Nässe Vorsicht erfordert.",
+            "hu": "A reggel szürkén indul Kamnikban, de a Šutna középkori utcái az ereszek alatt némi menedéket nyújtanak. Délben a ferences kolostor és lenyűgöző könyvtára nyújt száraz menedéket. Délután a Zaprice-kastély kiállításait fedezzük fel, miközben az eső kopog az ablakokon. A napot óvatosan zárjuk, mivel a Stari Gradhoz vezető út vizesen csúszós lehet, de a ködös kilátás így is misztikus.",
+            "ro": "Dimineața în Kamnik începe sub nori, dar străzile medievale din Šutna oferă adăpost sub streșini. La prânz, Mănăstirea Franciscană și biblioteca sa impresionantă sunt refugiul perfect. După-amiaza explorăm Castelul Zaprice, ascultând ploaia bătând în ferestrele vechi. Încheiem ziua cu prudență, deoarece drumul spre Stari Grad poate fi alunecos, însă panorama cețoasă are un farmec aparte.",
+            "en": "The morning in Kamnik starts grey, but the medieval streets of Šutna offer some shelter under the eaves. At midday, the Franciscan Monastery and its library provide a dry sanctuary. In the afternoon, explore Zaprice Castle's exhibits while the rain drums against the old walls. We end the day carefully, as the path to the Old Castle can be slippery, though the misty views remain mystical."
+          },
+          "stops": [
+            {
+              "name": "Main Square (Glavni trg)",
+              "tip_5lang": {
+                "de": "Regenschirm bereit halten, Cafés bieten schnellen Schutz.",
+                "hu": "Legyen kéznél esernyő, a kávézók gyors menedéket adnak.",
+                "ro": "Țineți umbrela la îndemână, cafenelele oferă adăpost rapid.",
+                "en": "Keep an umbrella handy, cafes offer quick shelter."
+              }
+            },
+            {
+              "name": "Šutna Street",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden und Dachvorsprünge zum Unterstellen.",
+                "hu": "Használja az árkádokat és ereszeket az elázás ellen.",
+                "ro": "Folosiți arcadele și streșinile pentru a vă feri de ploaie.",
+                "en": "Use the arcades and eaves to stay dry while walking."
+              }
+            },
+            {
+              "name": "Franciscan Monastery Kamnik",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um den stärksten Regen im Trockenen abzuwarten.",
+                "hu": "Tökéletes hely a nagyobb eső szárazon való megvárására.",
+                "ro": "Locul perfect pentru a aștepta trecerea ploii la adăpost.",
+                "en": "Perfect place to wait out the heaviest rain in the dry."
+              }
+            },
+            {
+              "name": "Mali Grad (Little Castle)",
+              "tip_5lang": {
+                "de": "Die Steinstufen können rutschig sein, halten Sie sich am Geländer fest.",
+                "hu": "A kőlépcsők csúszósak lehetnek, kapaszkodjon a korlátba.",
+                "ro": "Treptele de piatră pot fi alunecoase, țineți-vă de balustradă.",
+                "en": "Stone steps can be slippery, hold onto the railings."
+              }
+            },
+            {
+              "name": "Zaprice Castle",
+              "tip_5lang": {
+                "de": "Ideales Ziel für einen verregneten Nachmittag im Museum.",
+                "hu": "Ideális célpont egy esős délutánra a múzeumban.",
+                "ro": "Destinație ideală pentru o după-amiază ploioasă la muzeu.",
+                "en": "Ideal destination for a rainy afternoon inside the museum."
+              }
+            },
+            {
+              "name": "Birth House of Rudolf Maister",
+              "tip_5lang": {
+                "de": "Ein kleiner, feiner Indoor-Stopp zur lokalen Geschichte.",
+                "hu": "Kicsi, nívós beltéri megálló a helyi történelemről.",
+                "ro": "O oprire interioară scurtă despre istoria locală.",
+                "en": "A small, quality indoor stop about local history."
+              }
+            },
+            {
+              "name": "Stari Grad (Old Castle)",
+              "tip_5lang": {
+                "de": "Gutes Schuhwerk ist bei Nässe für diesen Aufstieg Pflicht.",
+                "hu": "Vizes időben kötelező a jó cipő ehhez a kaptatóhoz.",
+                "ro": "Încălțămintea bună este obligatorie pentru această urcare pe ud.",
+                "en": "Good footwear is mandatory for this climb in wet conditions."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nehmen Sie eine hochwertige Regenjacke mit, da der Wind in den Bergen wechselhaft ist.",
+              "Die Museen in Kamnik sind montags oft geschlossen, prüfen Sie die Zeiten.",
+              "Das Kopfsteinpflaster in der Altstadt wird bei Nässe extrem glatt.",
+              "Nutzen Sie die Zeit für eine längere Kaffeepause in einem der historischen Gebäude."
+            ],
+            "hu": [
+              "Vigyél magaddal minőségi esőkabátot, mert a hegyi szél változékony.",
+              "A kamniki múzeumok hétfőnként zárva tarthatnak, ellenőrizd az időpontokat.",
+              "Az óváros macskakövei vizesen rendkívül csúszóssá válnak.",
+              "Használd ki az időt egy hosszabb kávészünetre a történelmi épületekben."
+            ],
+            "ro": [
+              "Luați o jachetă de ploaie de calitate, vântul de munte este schimbător.",
+              "Muzeele din Kamnik sunt adesea închise lunea, verificați programul.",
+              "Pavelele din centrul vechi devin extrem de alunecoase când sunt ude.",
+              "Profită de timp pentru o pauză de cafea prelungită în clădirile istorice."
+            ],
+            "en": [
+              "Bring a high-quality raincoat as mountain winds are unpredictable.",
+              "Kamnik museums are often closed on Mondays, check the opening hours.",
+              "The cobblestones in the old town become extremely slippery when wet.",
+              "Take the opportunity for a longer coffee break in one of the historic buildings."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Kamnik im Winter wirkt wie aus einem Märchen, wenn der Schnee die roten Dächer bedeckt. Der Morgen in der Šutna ist frostig, aber die Bäckereien duften verführerisch. Mittags wärmen wir uns in der Klosterkirche auf. Am Nachmittag bietet Schloss Zaprice einen warmen Rückzugsort mit Blick auf die verschneiten Steiner Alpen. Da es um 17 Uhr dunkel wird, genießen wir das blaue Licht der Dämmerung von Mali Grad aus.",
+            "hu": "Kamnik télen mesebeli, amikor a hó befedi a piros tetőket. A reggel a Šutnában fagyos, de a pékségek illata csalogató. Délben a kolostortemplomban melegszünk fel lélekben. Délután a Zaprice-kastély kínál meleg menedéket kilátással a havas Kamniki-Alpokra. Mivel 17 órakor sötétedik, a Mali Grad falairól csodáljuk meg a város kék órás fényeit.",
+            "ro": "Kamnik iarna pare desprins dintr-un basm când zăpada acoperă acoperișurile roșii. Dimineața în Šutna este geroasă, dar mirosul brutăriilor este ademenitor. La prânz ne încălzim în biserica mănăstirii. După-amiaza, Castelul Zaprice oferă un refugiu cald cu vedere spre Alpii Kamnici înzăpeziți. Deoarece se întunecă la ora 17, admirăm lumina albastră a amurgului de pe Mali Grad.",
+            "en": "Kamnik in winter looks like a fairytale when snow covers the red roofs. The morning in Šutna is frosty, but the smell of bakeries is enticing. At midday, we warm up in the monastery church. In the afternoon, Zaprice Castle offers a warm retreat with views of the snowy Kamnik Alps. Since it gets dark by 5 PM, we enjoy the blue light of dusk from Mali Grad."
+          },
+          "stops": [
+            {
+              "name": "Main Square (Glavni trg)",
+              "tip_5lang": {
+                "de": "Vorsicht vor Eisplatten auf dem offenen Platz.",
+                "hu": "Vigyázat, a nyitott téren jeges foltok lehetnek.",
+                "ro": "Atenție la porțiunile de gheață din piața deschisă.",
+                "en": "Watch out for icy patches in the open square."
+              }
+            },
+            {
+              "name": "Šutna Street",
+              "tip_5lang": {
+                "de": "Holen Sie sich einen heißen Tee in einem der Cafés.",
+                "hu": "Vegyél egy forró teát az egyik hangulatos kávézóban.",
+                "ro": "Luați un ceai fierbinte de la una dintre cafenele.",
+                "en": "Get a hot tea at one of the cozy cafes."
+              }
+            },
+            {
+              "name": "Franciscan Monastery Kamnik",
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten die Kälte gut ab.",
+                "hu": "A vastag falak jól felfogják a kinti hideget.",
+                "ro": "Zidurile groase țin bine frigul la distanță.",
+                "en": "The thick walls provide a good break from the cold."
+              }
+            },
+            {
+              "name": "Mali Grad (Little Castle)",
+              "tip_5lang": {
+                "de": "Bester Ort für Fotos der verschneiten Stadt vor Sonnenuntergang.",
+                "hu": "A legjobb hely fotózni a havas várost naplemente előtt.",
+                "ro": "Cel mai bun loc pentru poze cu orașul înzăpezeit înainte de apus.",
+                "en": "Best spot for photos of the snowy town before sunset."
+              }
+            },
+            {
+              "name": "Zaprice Castle",
+              "tip_5lang": {
+                "de": "Genießen Sie die geheizten Museumsräume und die Aussicht.",
+                "hu": "Élvezd a fűtött múzeumi termeket és a panorámát.",
+                "ro": "Bucurați-vă de sălile de muzeu încălzite și de priveliște.",
+                "en": "Enjoy the heated museum rooms and the snowy view."
+              }
+            },
+            {
+              "name": "Birth House of Rudolf Maister",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp zum Aufwärmen zwischen den Sehenswürdigkeiten.",
+                "hu": "Egy rövid megálló melegedni a látnivalók között.",
+                "ro": "O scurtă oprire pentru încălzire între obiective.",
+                "en": "A short stop to warm up between sightseeing points."
+              }
+            },
+            {
+              "name": "Stari Grad (Old Castle)",
+              "tip_5lang": {
+                "de": "Der Weg kann bei Schnee unpassierbar sein, prüfen Sie die Lage.",
+                "hu": "Hóban az út járhatatlan lehet, ellenőrizd a viszonyokat.",
+                "ro": "Drumul poate fi impracticabil pe zăpadă, verificați condițiile.",
+                "en": "The path may be impassable in snow, check local conditions."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermounterwäsche, die Temperaturen fallen oft unter den Gefrierpunkt.",
+              "Die Sonne verschwindet früh hinter den Bergen, planen Sie Outdoor-Aktivitäten bis 15 Uhr.",
+              "Viele kleinere Cafés schließen im Winter früher als im Sommer.",
+              "Die Wege nach Mali Grad werden geräumt, Stari Grad jedoch oft nicht."
+            ],
+            "hu": [
+              "Viselj termikus alsóneműt, a hőmérséklet gyakran fagypont alá esik.",
+              "A nap korán eltűnik a hegyek mögött, a kinti programokat tervezd 15 óráig.",
+              "Sok kisebb kávézó télen korábban zár, mint nyáron.",
+              "A Mali Gradhoz vezető utat takarítják, a Stari Gradot gyakran nem."
+            ],
+            "ro": [
+              "Purtați lenjerie termică, temperaturile scad adesea sub îngheț.",
+              "Soarele dispare devreme după munți, planificați activitățile externe până la ora 15.",
+              "Multe cafenele mici se închid iarna mai devreme decât vara.",
+              "Drumurile spre Mali Grad sunt deszăpezite, dar Stari Grad adesea nu."
+            ],
+            "en": [
+              "Wear thermal layers as temperatures often drop below freezing.",
+              "The sun disappears early behind the mountains, plan outdoor activities by 3 PM.",
+              "Many small cafes close earlier in winter than in summer.",
+              "The paths to Mali Grad are cleared, but Stari Grad is often not."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -690,6 +890,188 @@
           "Some sections in the old town may require you to dismount and walk your bike.",
           "There are several bike paths in the area; a map can be useful."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Disziplin, belohnt aber mit menschenleeren Wegen. Der Morgen im Arboretum Volčji Potok ist feucht, die Pflanzen leuchten jedoch in tiefem Grün. Mittags erreichen wir Kamnik und flüchten ins Schloss Zaprice. Nachmittags erkunden wir die Altstadt auf zwei Rädern, wobei wir die rutschigen Gassen meiden. Der Tag endet mit einer rasanten, aber vorsichtigen Abfahrt vom Old Castle.",
+            "hu": "Az esős biciklizés fegyelmet igényel, de üres utakkal jutalmaz. A reggel az arborétumban párás, de a növények mélyzöldben pompáznak. Délre érünk Kamnikba, és a Zaprice-kastélyba menekülünk az égi áldás elől. Délután két keréken fedezzük fel az óvárost, kerülve a legcsúszósabb részeket. A napot egy tempós, de óvatos lejtmenettel zárjuk a várból.",
+            "ro": "O tură cu bicicleta pe ploaie necesită disciplină, dar oferă drumuri libere. Dimineața în Arboretum este umedă, însă plantele strălucesc în verde intens. La prânz ajungem în Kamnik și ne refugiem în Castelul Zaprice. După-amiaza explorăm centrul vechi pe două roți, evitând zonele alunecoase. Ziua se încheie cu o coborâre rapidă, dar prudentă, de la castel.",
+            "en": "Cycling in the rain requires discipline but rewards you with empty paths. The morning at the Arboretum is humid, but the plants glow in deep green. By midday, we reach Kamnik and retreat to Zaprice Castle to stay dry. In the afternoon, we explore the old town on two wheels, avoiding the slippiest spots. The day ends with a swift but careful descent from the Old Castle."
+          },
+          "stops": [
+            {
+              "name": "Arboretum Volčji Potok",
+              "tip_5lang": {
+                "de": "Achtung, die asphaltierten Wege können rutschig sein.",
+                "hu": "Vigyázat, az aszfaltozott utak csúszósak lehetnek.",
+                "ro": "Atenție, potecile asfaltate pot fi alunecoase.",
+                "en": "Caution, the paved paths can be slippery when wet."
+              }
+            },
+            {
+              "name": "Zaprice Castle",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter dem Schlossportal ab.",
+                "hu": "Parkolja le a bringát a kastély kapuja alatt.",
+                "ro": "Parcați bicicleta sub portalul castelului.",
+                "en": "Park your bike under the castle portal for shelter."
+              }
+            },
+            {
+              "name": "Main Square & Šutna",
+              "tip_5lang": {
+                "de": "Meiden Sie bei Starkregen das glatte Kopfsteinpflaster.",
+                "hu": "Heves esőben kerülje a sima macskaköveket.",
+                "ro": "Evitați pavelele lucioase în timpul ploii torențiale.",
+                "en": "Avoid smooth cobblestones during heavy rain."
+              }
+            },
+            {
+              "name": "Franciscan Monastery Kamnik",
+              "tip_5lang": {
+                "de": "Kurze Pause im Trockenen, bevor es weitergeht.",
+                "hu": "Rövid szünet szárazon, mielőtt továbbindulna.",
+                "ro": "Scurtă pauză la adăpost înainte de a continua.",
+                "en": "Brief dry break before continuing your ride."
+              }
+            },
+            {
+              "name": "Mali Grad (Little Castle)",
+              "tip_5lang": {
+                "de": "Schieben Sie das Rad den kurzen, steilen Weg hoch.",
+                "hu": "Tolja a bringát a rövid, meredek úton.",
+                "ro": "Împingeți bicicleta pe porțiunea scurtă și abruptă.",
+                "en": "Push your bike up the short, steep section."
+              }
+            },
+            {
+              "name": "Stari Grad (Old Castle)",
+              "tip_5lang": {
+                "de": "Bremsen auf dem nassen Asphalt fein dosieren.",
+                "hu": "A vizes aszfalton óvatosan adagolja a féket.",
+                "ro": "Dozarea fină a frânei pe asfaltul ud este esențială.",
+                "en": "Carefully modulate your brakes on the wet asphalt."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind bei diesem Wetter unverzichtbar für eine saubere Fahrt.",
+              "Die Sicht kann durch Regen eingeschränkt sein, schalten Sie das Licht ein.",
+              "Wählen Sie breitere Reifen mit mehr Grip, falls verfügbar.",
+              "Trocknen Sie Kette und Schaltung nach der Tour gründlich ab."
+            ],
+            "hu": [
+              "A sárvédők nélkülözhetetlenek a tiszta utazáshoz ebben az időben.",
+              "Az eső korlátozhatja a látási viszonyokat, kapcsolja be a lámpákat.",
+              "Ha teheti, válasszon szélesebb, tapadósabb gumikat.",
+              "A túra után alaposan szárítsa meg a láncot és a váltót."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt indispensabile pentru o călătorie curată.",
+              "Vizibilitatea poate fi redusă de ploaie, aprindeți luminile.",
+              "Alegeți anvelope mai late cu aderență sporită, dacă este posibil.",
+              "Uscați bine lanțul și schimbătorul după terminarea turei."
+            ],
+            "en": [
+              "Mudguards are essential for a clean ride in this weather.",
+              "Visibility can be restricted by rain, so turn on your lights.",
+              "Choose wider tires with more grip if available.",
+              "Thoroughly dry the chain and gears after your tour."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in Kamnik ist erfrischend, erfordert aber warme Schichten. Der Morgen im Arboretum zeigt sich in kühler Stille. Mittags radeln wir zum Schloss Zaprice, wo der Anstieg uns warm hält. Am Nachmittag gleiten wir durch die weihnachtlich beleuchtete Šutna. Da der Frost am späten Nachmittag anzieht, beenden wir die Tour vor Einbruch der Dunkelheit nach einem kurzen Blick vom Old Castle.",
+            "hu": "A téli biciklizés Kamnikban frissítő, de réteges öltözetet igényel. A reggel az arborétumban hűvös csendben telik. Délben a Zaprice-kastélyhoz tekerünk, a kaptató segít melegen tartani minket. Délután a karácsonyi fényekben úszó Šutnán gurulunk át. Mivel a fagy késő délután erősödik, a túrát sötétedés előtt zárjuk a várból nyíló kilátás után.",
+            "ro": "Ciclismul de iarnă în Kamnik este revigorant, dar necesită straturi calde. Dimineața în Arboretum este marcată de o liniște rece. La prânz pedalăm spre Castelul Zaprice, unde urcarea ne menține calzi. După-amiaza traversăm strada Šutna iluminată festiv. Deoarece gerul se intensifică spre seară, încheiem tura înainte de lăsarea întunericului.",
+            "en": "Winter cycling in Kamnik is refreshing but requires warm layers. The morning at the Arboretum is spent in cool silence. At midday, we pedal to Zaprice Castle, where the climb keeps us warm. In the afternoon, we glide through the festively lit Šutna. As the frost intensifies in the late afternoon, we finish the tour before dark after a quick look from the Old Castle."
+          },
+          "stops": [
+            {
+              "name": "Arboretum Volčji Potok",
+              "tip_5lang": {
+                "de": "Warme Handschuhe sind bei der Fahrt im Talwind nötig.",
+                "hu": "Meleg kesztyű kell a völgyben fújó szélben.",
+                "ro": "Mănușile calde sunt necesare din cauza vântului de pe vale.",
+                "en": "Warm gloves are necessary due to the valley wind."
+              }
+            },
+            {
+              "name": "Zaprice Castle",
+              "tip_5lang": {
+                "de": "Der Anstieg bringt den Kreislauf in Schwung.",
+                "hu": "Az emelkedő jól felpezsdíti a vérkeringést.",
+                "ro": "Urcarea vă va pune circulația în mișcare.",
+                "en": "The climb will get your circulation going."
+              }
+            },
+            {
+              "name": "Main Square & Šutna",
+              "tip_5lang": {
+                "de": "Achtung bei Schattenstellen, dort hält sich Eis länger.",
+                "hu": "Vigyázat az árnyékos részeken, ott megmaradhat a jég.",
+                "ro": "Atenție la zonele umbrite, gheața persistă mai mult acolo.",
+                "en": "Watch out for shaded areas where ice lingers longer."
+              }
+            },
+            {
+              "name": "Franciscan Monastery Kamnik",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad sicher ab, der Boden kann gefroren sein.",
+                "hu": "Biztonságosan támassza le a gépet, a talaj fagyott lehet.",
+                "ro": "Parcați bicicleta în siguranță, solul poate fi înghețat.",
+                "en": "Park your bike securely, the ground may be frozen."
+              }
+            },
+            {
+              "name": "Mali Grad (Little Castle)",
+              "tip_5lang": {
+                "de": "Kurzer Stopp für das Panorama, dann weiter in die Wärme.",
+                "hu": "Rövid megálló a panorámáért, aztán irány a meleg.",
+                "ro": "Oprire scurtă pentru panoramă, apoi mergeți la căldură.",
+                "en": "Brief stop for the panorama, then head for warmth."
+              }
+            },
+            {
+              "name": "Stari Grad (Old Castle)",
+              "tip_5lang": {
+                "de": "Bei Schneeglätte auf die Abfahrt verzichten.",
+                "hu": "Havas út esetén tekintsen el a leereszkedéstől.",
+                "ro": "Renunțați la coborâre dacă drumul este înzăpezeit.",
+                "en": "Skip the descent if the road is snowy or icy."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Benutzen Sie ein Frostschutz-Kettenöl für reibungslose Schaltvorgänge.",
+              "Vermeiden Sie hektische Lenkbewegungen auf möglicherweise eisigen Stellen.",
+              "Eine Thermoskanne mit warmem Getränk ist Ihr bester Begleiter.",
+              "Die Akkulaufzeit von E-Bikes ist bei Kälte deutlich reduziert."
+            ],
+            "hu": [
+              "Használjon fagyálló láncolajat a zökkenőmentes váltáshoz.",
+              "Kerülje a hirtelen kormánymozdulatokat az esetlegesen jeges részeken.",
+              "Egy termosz meleg ital a legjobb társad lesz az úton.",
+              "Az elektromos kerékpárok akkuideje hidegben jelentősen csökken."
+            ],
+            "ro": [
+              "Folosiți un ulei de lanț anti-îngheț pentru schimbări line.",
+              "Evitați manevrele bruște de direcție pe porțiunile potențial înghețate.",
+              "Un termos cu băutură caldă este cel mai bun companion.",
+              "Autonomia bateriei la bicicletele electrice este redusă semnificativ la ger."
+            ],
+            "en": [
+              "Use a frost-resistant chain oil for smooth shifting.",
+              "Avoid sudden steering movements on potentially icy patches.",
+              "A thermos with a warm drink is your best companion.",
+              "E-bike battery life is significantly reduced in cold temperatures."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1018,6 +1400,206 @@
           "A car allows you to easily reach more remote attractions like Velika Planina.",
           "Combine driving with walking to experience the best of both worlds."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regen in Kamnik macht die Fahrt im Auto besonders gemütlich. Den Vormittag verbringen wir im Arboretum, wo wir bei Schauern schnell zum Wagen zurückkehren können. Mittags parken wir nahe der Altstadt und besuchen das Schloss Zaprice. Der Nachmittag gehört den Museen und Kirchen, während draußen der Nebel über die Steiner Alpen zieht. Abends fahren wir zum Old Castle, um das Lichtermeer der Stadt im Regen zu sehen.",
+            "hu": "Az eső Kamnikban az autós utazást különösen kényelmessé teszi. A délelőttöt az arborétumban töltjük, ahol zápor esetén gyorsan visszatérhetünk a kocsihoz. Délben az óváros közelében parkolunk, és meglátogatjuk a Zaprice-kastélyt. A délután a múzeumé és a templomé, miközben kint köd ül a Kamniki-Alpokra. Este a várhoz autózunk, hogy megnézzük a város fényeit az esőben.",
+            "ro": "Ploaia în Kamnik face călătoria cu mașina deosebit de confortabilă. Petrecem dimineața în Arboretum, unde ne putem retrage rapid în mașină în caz de aversă. La prânz parcăm lângă centrul vechi și vizităm Castelul Zaprice. După-amiaza este dedicată muzeelor, în timp ce ceața se lasă peste Alpi. Seara urcăm cu mașina la castel pentru a vedea luminile orașului prin ploaie.",
+            "en": "Rain in Kamnik makes traveling by car especially cozy. We spend the morning at the Arboretum, where we can quickly return to the car during showers. At midday, we park near the old town and visit Zaprice Castle. The afternoon is dedicated to museums and churches while mist rolls over the Alps. In the evening, we drive to the Old Castle to see the city lights through the rain."
+          },
+          "stops": [
+            {
+              "name": "Arboretum Volčji Potok",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang für kurze Wege im Regen.",
+                "hu": "Parkoljon közel a bejárathoz a rövid gyalogútért.",
+                "ro": "Parcați aproape de intrare pentru a merge puțin prin ploaie.",
+                "en": "Park close to the entrance for a short walk in the rain."
+              }
+            },
+            {
+              "name": "Cluster: Kamnik Center",
+              "tip_5lang": {
+                "de": "Zentraler Parkplatz als Basis für kurze Besorgungen.",
+                "hu": "Központi parkoló mint bázis a rövid sétákhoz.",
+                "ro": "Parcare centrală ca bază pentru plimbări scurte.",
+                "en": "Central parking lot as a base for short errands."
+              }
+            },
+            {
+              "name": "Zaprice Castle",
+              "tip_5lang": {
+                "de": "Parkplatz direkt am Schloss verfügbar, sehr komfortabel.",
+                "hu": "Parkoló közvetlenül a kastélynál, nagyon kényelmes.",
+                "ro": "Parcare disponibilă chiar la castel, foarte confortabil.",
+                "en": "Parking available right at the castle, very convenient."
+              }
+            },
+            {
+              "name": "Main Square & Šutna",
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig, Fußgänger achten weniger auf Autos.",
+                "hu": "Vezessen óvatosan, a gyalogosok kevésbé figyelnek ilyenkor.",
+                "ro": "Conduceți cu atenție, pietonii sunt mai puțin vigilenți pe ploaie.",
+                "en": "Drive carefully, pedestrians are less attentive in the rain."
+              }
+            },
+            {
+              "name": "Franciscan Monastery Kamnik",
+              "tip_5lang": {
+                "de": "Kurzer Sprint vom Parkplatz zum Kircheneingang.",
+                "hu": "Rövid sprint a parkolótól a templom bejáratáig.",
+                "ro": "Sprint scurt de la parcare până la intrarea în biserică.",
+                "en": "Short sprint from the parking lot to the church entrance."
+              }
+            },
+            {
+              "name": "Mali Grad (Little Castle)",
+              "tip_5lang": {
+                "de": "Parken Sie unterhalb und nutzen Sie den Regenschirm.",
+                "hu": "Parkoljon lentebb, és használjon esernyőt.",
+                "ro": "Parcați mai jos și folosiți umbrela.",
+                "en": "Park below and use an umbrella for the short climb."
+              }
+            },
+            {
+              "name": "Stari Grad (Old Castle)",
+              "tip_5lang": {
+                "de": "Die schmale Straße nach oben kann bei Nässe rutschig sein.",
+                "hu": "A felfelé vezető keskeny út vizesen csúszós lehet.",
+                "ro": "Drumul îngust spre vârf poate fi alunecos pe ud.",
+                "en": "The narrow road to the top can be slippery when wet."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Scheibenwischer vor der Tour durch die Bergregion.",
+              "Halten Sie Kleingeld für die Parkautomaten in Kamnik bereit.",
+              "Bei Nebel in den Bergen unbedingt das Abblendlicht einschalten.",
+              "Ein Regenschirm im Kofferraum ist Pflicht für die Stadtbesichtigung."
+            ],
+            "hu": [
+              "Ellenőrizze az ablaktörlőket a hegyi túra előtt.",
+              "Legyen nálad aprópénz a kamniki parkolóautomatákhoz.",
+              "Hegyi ködben feltétlenül kapcsolja be a tompított fényszórót.",
+              "A csomagtartóban tartott esernyő kötelező a városnézéshez."
+            ],
+            "ro": [
+              "Verificați ștergătoarele înainte de tura prin regiunea montană.",
+              "Aveți pregătite monede pentru automatele de parcare din Kamnik.",
+              "În caz de ceață la munte, aprindeți neapărat faza scurtă.",
+              "O umbrelă în portbagaj este obligatorie pentru vizitarea orașului."
+            ],
+            "en": [
+              "Check your wipers before the tour through the mountain region.",
+              "Keep coins ready for the parking meters in Kamnik.",
+              "In mountain mist, be sure to turn on your low-beam headlights.",
+              "An umbrella in the trunk is mandatory for city sightseeing."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die verschneiten Straßen rund um Kamnik bieten eine malerische Kulisse für eine winterliche Autofahrt. Am Vormittag besuchen wir das ruhige Arboretum. Mittags bringt uns der Wagen bequem zum Schloss Zaprice, wo wir die geheizten Ausstellungen genießen. Nachmittags parken wir zentral, um die festlich geschmückte Altstadt zu erleben. Zum Abschluss fahren wir zum Old Castle, um den Sonnenuntergang über dem schneeweißen Tal zu bewundern.",
+            "hu": "A Kamnik körüli havas utak festői hátteret nyújtanak a téli autózáshoz. Délelőtt a csendes arborétumot látogatjuk meg. Délben a kocsi kényelmesen felvisz a Zaprice-kastélyhoz, ahol élvezzük a fűtött termeket. Délután központi helyen parkolunk, hogy átéljük az ünnepi díszbe öltözött város hangulatát. Zárásként a várhoz autózunk a hófehér völgy feletti naplementéért.",
+            "ro": "Drumurile înzăpezite din jurul Kamnik oferă un cadru pitoresc pentru o plimbare cu mașina. Dimineața vizităm Arboretumul liniștit. La prânz, mașina ne duce confortabil la Castelul Zaprice. După-amiaza parcăm central pentru a experimenta centrul vechi decorat festiv. La final, urcăm la castel pentru a admira apusul peste valea albă de zăpadă.",
+            "en": "The snowy roads around Kamnik offer a picturesque backdrop for a winter drive. In the morning, we visit the quiet Arboretum. At midday, the car conveniently takes us to Zaprice Castle, where we enjoy the heated exhibits. In the afternoon, we park centrally to experience the festively decorated old town. Finally, we drive to the Old Castle to admire the sunset over the snow-white valley."
+          },
+          "stops": [
+            {
+              "name": "Arboretum Volčji Potok",
+              "tip_5lang": {
+                "de": "Winterdienst ist meist gut, dennoch auf Eis achten.",
+                "hu": "A hóeltakarítás általában jó, de figyeljen a jégre.",
+                "ro": "Deszăpezirea este de obicei bună, totuși atenție la gheață.",
+                "en": "Snow clearing is usually good, but watch out for ice."
+              }
+            },
+            {
+              "name": "Cluster: Kamnik Center",
+              "tip_5lang": {
+                "de": "Beheiztes Parkhaus oder geräumter Parkplatz empfohlen.",
+                "hu": "Fűtött parkolóház vagy letakarított parkoló ajánlott.",
+                "ro": "Se recomandă parcarea acoperită sau un loc deszăpezit.",
+                "en": "Heated parking or a cleared lot is recommended."
+              }
+            },
+            {
+              "name": "Zaprice Castle",
+              "tip_5lang": {
+                "de": "Die Auffahrt zum Schloss wird prioritär geräumt.",
+                "hu": "A kastélyhoz vezető utat prioritással takarítják.",
+                "ro": "Urcarea spre castel este deszăpezită cu prioritate.",
+                "en": "The drive to the castle is cleared with priority."
+              }
+            },
+            {
+              "name": "Main Square & Šutna",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen Auto und warmen Cafés nutzen.",
+                "hu": "Használja ki az autó és a meleg kávézók közti rövid távot.",
+                "ro": "Profită de distanța scurtă între mașină și cafenelele calde.",
+                "en": "Take advantage of short distances between car and warm cafes."
+              }
+            },
+            {
+              "name": "Franciscan Monastery Kamnik",
+              "tip_5lang": {
+                "de": "Parkplatz direkt vor dem Kloster, wenig Fußweg.",
+                "hu": "Parkoló közvetlenül a kolostor előtt, kevés gyaloglás.",
+                "ro": "Parcare chiar în fața mănăstirii, puțin de mers pe jos.",
+                "en": "Parking right in front of the monastery, minimal walking."
+              }
+            },
+            {
+              "name": "Mali Grad (Little Castle)",
+              "tip_5lang": {
+                "de": "Der Anstieg zu Fuß ist kurz, aber oft vereist.",
+                "hu": "A gyalogos emelkedő rövid, de gyakran jeges.",
+                "ro": "Urcarea pe jos este scurtă, dar adesea înghețată.",
+                "en": "The foot climb is short but often icy."
+              }
+            },
+            {
+              "name": "Stari Grad (Old Castle)",
+              "tip_5lang": {
+                "de": "Winterreifen und Erfahrung am Berg sind hier wichtig.",
+                "hu": "Téli gumi és hegyi tapasztalat itt fontos.",
+                "ro": "Anvelopele de iarnă și experiența la munte sunt esențiale aici.",
+                "en": "Winter tires and mountain experience are important here."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in Slowenien gesetzlich vorgeschrieben.",
+              "Führen Sie einen Eiskratzer und eventuell Schneeketten mit.",
+              "Die Bergstraßen können nach Schneefall schnell glatt werden.",
+              "Prüfen Sie den Frostschutz der Scheibenwaschanlage."
+            ],
+            "hu": [
+              "Szlovéniában a téli gumi törvényileg kötelező.",
+              "Vigyél magaddal jégkaparót és esetleg hóláncot.",
+              "A hegyi utak havazás után gyorsan csúszóssá válhatnak.",
+              "Ellenőrizze az ablakmosó folyadék fagyállóságát."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii prin lege în Slovenia.",
+              "Aveți la îndemână o racletă și eventual lanțuri de zăpadă.",
+              "Drumurile montane pot deveni rapid alunecoase după ninsoare.",
+              "Verificați antigelul pentru lichidul de parbriz."
+            ],
+            "en": [
+              "Winter tires are legally required in Slovenia.",
+              "Carry an ice scraper and possibly snow chains.",
+              "Mountain roads can quickly become slippery after snowfall.",
+              "Check the frost protection of your windshield washer fluid."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1322,6 +1904,188 @@
           "Most buses in Slovenia are modern and comfortable.",
           "Be mindful of the last bus back when planning your evening."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit Bus und Bahn lässt sich Kamnik auch bei Regen entspannt erkunden. Der Vormittag beginnt im Zentrum, wo die Wege kurz sind. Mittags bringt uns der Bus zum Arboretum, wobei wir den Blick aus dem Fenster genießen. Den Nachmittag verbringen wir im Schloss Zaprice, bevor wir zum Bahnhof zurückkehren. Die öffentlichen Verkehrsmittel bieten eine trockene Verbindung zwischen den historischen Highlights.",
+            "hu": "Busszal és vonattal Kamnik esőben is kényelmesen felfedezhető. A délelőtt a központban indul, ahol minden közel van. Délben busz visz az arborétumhoz, közben élvezzük a kilátást az ablakból. A délutánt a Zaprice-kastélyban töltjük, mielőtt visszatérnénk az állomásra. A tömegközlekedés száraz összeköttetést biztosít a történelmi látnivalók között.",
+            "ro": "Cu autobuzul și trenul, Kamnik poate fi explorat relaxat chiar și pe ploaie. Dimineața începe în centru, unde distanțele sunt mici. La prânz, autobuzul ne duce la Arboretum. După-amiaza o petrecem la Castelul Zaprice înainte de a reveni la gară. Transportul public oferă o legătură uscată între atracțiile istorice.",
+            "en": "With bus and train, Kamnik can be explored in a relaxed way even in the rain. The morning starts in the center where distances are short. At midday, the bus takes us to the Arboretum while we enjoy the window view. We spend the afternoon at Zaprice Castle before returning to the station. Public transport provides a dry connection between historical highlights."
+          },
+          "stops": [
+            {
+              "name": "Cluster: Kamnik Center",
+              "tip_5lang": {
+                "de": "Bushaltestellen sind meist überdacht, nutzen Sie den Schutz.",
+                "hu": "A buszmegállók többnyire fedettek, használja ki.",
+                "ro": "Stațiile de autobuz sunt în general acoperite, profitați.",
+                "en": "Bus stops are mostly covered, use them for shelter."
+              }
+            },
+            {
+              "name": "Main Square & Šutna",
+              "tip_5lang": {
+                "de": "Wenige Gehminuten von den Haltestellen entfernt.",
+                "hu": "Csak pár perc gyalog a megállóktól.",
+                "ro": "La doar câteva minute de mers pe jos de stații.",
+                "en": "Only a few minutes' walk from the transit stops."
+              }
+            },
+            {
+              "name": "Mali Grad & Monastery",
+              "tip_5lang": {
+                "de": "Ideale Indoor-Ziele nahe den Buslinien.",
+                "hu": "Ideális beltéri célpontok a buszjáratok közelében.",
+                "ro": "Destinații interioare ideale aproape de liniile de autobuz.",
+                "en": "Ideal indoor destinations near the bus lines."
+              }
+            },
+            {
+              "name": "Arboretum Volčji Potok",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Rückfahrzeiten, um nicht im Regen zu warten.",
+                "hu": "Ellenőrizze a visszautat, ne várjon sokat az esőben.",
+                "ro": "Verificați orarul de întoarcere pentru a nu aștepta în ploaie.",
+                "en": "Check return times to avoid waiting in the rain."
+              }
+            },
+            {
+              "name": "Zaprice Castle",
+              "tip_5lang": {
+                "de": "Ein kleiner Aufstieg von der nächsten Haltestelle.",
+                "hu": "Egy kis kaptató a legközelebbi megállótól.",
+                "ro": "O scurtă urcare de la cea mai apropiată stație.",
+                "en": "A small climb from the nearest bus stop."
+              }
+            },
+            {
+              "name": "Birth House of Rudolf Maister",
+              "tip_5lang": {
+                "de": "Direkt in der Nähe zentraler Haltestellen.",
+                "hu": "Közvetlenül a központi megállók közelében.",
+                "ro": "Chiar în apropierea stațiilor centrale.",
+                "en": "Located right near the central transit stops."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die App der slowenischen Bahn für Echtzeit-Infos.",
+              "Kaufen Sie Fahrkarten vorab am Schalter oder online.",
+              "Die Busfrequenz zum Arboretum kann am Wochenende geringer sein.",
+              "Ein kleiner Taschenschirm passt in jedes Gepäck."
+            ],
+            "hu": [
+              "Használd a szlovén vasút appját a valós idejű infókért.",
+              "Vegyél jegyet előre a pénztárnál vagy online.",
+              "Hétvégén az arborétumhoz járó buszok ritkábban közlekedhetnek.",
+              "Egy kis összecsukható esernyő minden táskában elfér."
+            ],
+            "ro": [
+              "Folosiți aplicația căilor ferate slovene pentru info în timp real.",
+              "Cumpărați biletele în avans de la ghișeu sau online.",
+              "Frecvența autobuzelor spre Arboretum poate fi mai mică în weekend.",
+              "O umbrelă mică pliabilă încape în orice bagaj."
+            ],
+            "en": [
+              "Use the Slovenian Railways app for real-time information.",
+              "Buy tickets in advance at the counter or online.",
+              "Bus frequency to the Arboretum may be lower on weekends.",
+              "A small foldable umbrella fits in any bag."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Zugfahrt von Ljubljana nach Kamnik ist im Winter besonders malerisch. Den frostigen Vormittag verbringen wir in der Altstadt, bevor uns der Bus zum verschneiten Arboretum bringt. Mittags wärmen wir uns während der Fahrt zum Schloss Zaprice auf. Nachmittags genießen wir die warme Atmosphäre der Museen. Die Rückfahrt im beleuchteten Zug rundet den Tag stimmungsvoll ab.",
+            "hu": "A Ljubljana-Kamnik vonatút télen különösen festői. A fagyos délelőttöt az óvárosban töltjük, mielőtt a busz a havas arborétumhoz vinne. Délben melegedünk a Zaprice-kastély felé tartó járaton. Délután a múzeumok meleg vendégszeretetét élvezzük. A hazautazás a kivilágított vonaton hangulatosan zárja a napot.",
+            "ro": "Călătoria cu trenul de la Ljubljana la Kamnik este deosebit de pitorească iarna. Petrecem dimineața geroasă în centrul vechi înainte ca autobuzul să ne ducă la Arboretumul înzăpezit. La prânz ne încălzim în timpul cursei spre Castelul Zaprice. După-amiaza ne bucurăm de atmosfera caldă a muzeelor. Întoarcerea cu trenul iluminat încheie ziua într-un mod plăcut.",
+            "en": "The train ride from Ljubljana to Kamnik is especially scenic in winter. We spend the frosty morning in the old town before the bus takes us to the snowy Arboretum. At midday, we warm up during the ride to Zaprice Castle. In the afternoon, we enjoy the warm hospitality of the museums. The journey back on the lit-up train rounds off the day perfectly."
+          },
+          "stops": [
+            {
+              "name": "Cluster: Kamnik Center",
+              "tip_5lang": {
+                "de": "Warteräume am Bahnhof sind im Winter beheizt.",
+                "hu": "Az állomási várótermek télen fűtöttek.",
+                "ro": "Sălile de așteptare din gară sunt încălzite iarna.",
+                "en": "Station waiting rooms are heated during the winter."
+              }
+            },
+            {
+              "name": "Main Square & Šutna",
+              "tip_5lang": {
+                "de": "Genießen Sie den kurzen Spaziergang in der Wintersonne.",
+                "hu": "Élvezze a rövid sétát a téli napsütésben.",
+                "ro": "Bucurați-vă de plimbarea scurtă sub soarele de iarnă.",
+                "en": "Enjoy the short walk in the winter sun."
+              }
+            },
+            {
+              "name": "Mali Grad & Monastery",
+              "tip_5lang": {
+                "de": "Nahe beieinander gelegen, ideal für kalte Tage.",
+                "hu": "Közel vannak egymáshoz, ideális hideg napokon.",
+                "ro": "Situate aproape una de alta, ideal pentru zilele reci.",
+                "en": "Located close to each other, ideal for cold days."
+              }
+            },
+            {
+              "name": "Arboretum Volčji Potok",
+              "tip_5lang": {
+                "de": "Letzter Bus zurück meist vor Sonnenuntergang.",
+                "hu": "Az utolsó busz visszafelé általában naplemente előtt indul.",
+                "ro": "Ultimul autobuz spre întoarcere este de obicei înainte de apus.",
+                "en": "The last bus back is usually before sunset."
+              }
+            },
+            {
+              "name": "Zaprice Castle",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Bus, um Höhenmeter im Schnee zu sparen.",
+                "hu": "Használja a buszt, hogy megspórolja a havas emelkedőt.",
+                "ro": "Folosiți autobuzul pentru a evita urcarea prin zăpadă.",
+                "en": "Use the bus to save climbing elevation in the snow."
+              }
+            },
+            {
+              "name": "Birth House of Rudolf Maister",
+              "tip_5lang": {
+                "de": "Perfekter Abschluss in der Nähe des Bahnhofs.",
+                "hu": "Tökéletes zárás a vasútállomás közelében.",
+                "ro": "Final perfect în apropierea gării.",
+                "en": "Perfect ending located near the train station."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Planen Sie Pufferzeiten ein, Schnee kann den Verkehr verzögern.",
+              "Die Züge sind meist gut geheizt und sehr komfortabel.",
+              "Prüfen Sie die Winterfahrpläne, manche Linien fahren seltener.",
+              "Warme Schuhe mit gutem Profil sind für die Wege zum Bus nötig."
+            ],
+            "hu": [
+              "Számoljon ráhagyással, a hó késleltetheti a forgalmat.",
+              "A vonatok általában jól fűtöttek és kényelmesek.",
+              "Ellenőrizze a téli menetrendet, egyes járatok ritkábban járnak.",
+              "Meleg, jó profilú cipő kell a buszhoz vezető utakhoz."
+            ],
+            "ro": [
+              "Planificați timp suplimentar, zăpada poate întârzia traficul.",
+              "Trenurile sunt de obicei bine încălzite și confortabile.",
+              "Verificați mersul trenurilor de iarnă, unele linii sunt mai rare.",
+              "Încălțămintea caldă cu talpă aderentă este necesară pentru drumul spre stație."
+            ],
+            "en": [
+              "Allow for extra time as snow can delay traffic.",
+              "Trains are usually well-heated and very comfortable.",
+              "Check winter schedules, as some lines may run less frequently.",
+              "Warm shoes with good grip are needed for the walks to the stops."
+            ]
+          }
+        }
       }
     }
   }

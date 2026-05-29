@@ -402,6 +402,206 @@
           "Take time for a coffee at one of the many cafes on the main square.",
           "Check the opening hours for the Black Tower, as they can vary seasonally."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens schützen die berühmten Arkaden am Přemysl-Otakar-II.-Platz vor dem Regen. Mittags bietet die Kathedrale einen ruhigen, trockenen Rückzugsort. Nachmittags ist das Südböhmische Museum ideal, um dem Wetter zu entfliehen. Der Tag endet gemütlich bei einer Brauereibesichtigung im Trockenen.",
+            "hu": "Reggel a főtér híres árkádjai alatt védve maradhatunk az esőtől. Délben a székesegyház nyújt csendes és száraz menedéket. Délután a Dél-csehországi Múzeum kiállításai tökéletesek a rossz időben. Az estét a Budvar sörgyár fedett látogatóközpontjában zárjuk.",
+            "ro": "Dimineața, arcadele faimoase din Piața Přemysl Otakar II oferă adăpost împotriva ploii. La prânz, catedrala este un refugiu liniștit și uscat. După-amiaza, Muzeul Boemiei de Sud este ideal pentru a evita vremea rea. Ziua se încheie confortabil cu un tur al berăriei.",
+            "en": "In the morning, the famous arcades of the main square keep you dry. At noon, the cathedral offers a peaceful indoor retreat. The afternoon is best spent exploring the South Bohemian Museum. The day concludes with a cozy, sheltered brewery tour at Budvar."
+          },
+          "stops": [
+            {
+              "name": "Přemysl Otakar II Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie die durchgehenden Arkadengänge rund um den Platz.",
+                "hu": "Használja a tér körüli folyamatos árkádsort a száraz közlekedéshez.",
+                "ro": "Folosiți arcadele continue din jurul pieței pentru a rămâne uscat.",
+                "en": "Use the continuous arcades around the square to stay dry."
+              }
+            },
+            {
+              "name": "Town Hall and Samson's Fountain",
+              "tip_5lang": {
+                "de": "Das Rathaus bietet im Inneren Schutz; der Brunnen ist bei Regen fotogen.",
+                "hu": "A városháza belül menedéket nyújt; a szökőkút esőben is látványos.",
+                "ro": "Primăria oferă adăpost în interior; fântâna este fotogenică pe ploaie.",
+                "en": "The Town Hall provides indoor shelter; the fountain looks great in rain."
+              }
+            },
+            {
+              "name": "St. Nicholas Cathedral",
+              "tip_5lang": {
+                "de": "Ein perfekter Ort für eine trockene und besinnliche Pause.",
+                "hu": "Tökéletes helyszín egy száraz és meghitt pihenőhöz.",
+                "ro": "Un loc perfect pentru o pauză uscată și liniștită.",
+                "en": "A perfect spot for a dry and contemplative break."
+              }
+            },
+            {
+              "name": "Black Tower",
+              "tip_5lang": {
+                "de": "Vorsicht auf den steilen Stufen; oben kann es windig und nass sein.",
+                "hu": "Vigyázat a meredek lépcsőkön; fent szeles és vizes lehet az idő.",
+                "ro": "Atenție pe treptele abrupte; sus poate fi vânt și umezeală.",
+                "en": "Careful on the steep steps; it can be windy and wet at the top."
+              }
+            },
+            {
+              "name": "Iron Maiden Tower",
+              "tip_5lang": {
+                "de": "Kurzer Aufenthalt im Freien, suchen Sie schnell wieder Schutz.",
+                "hu": "Rövid kinti megálló, keressen gyorsan újra fedett helyet.",
+                "ro": "Scurtă oprire în aer liber, căutați repede un nou adăpost.",
+                "en": "Short outdoor stop, find shelter again quickly."
+              }
+            },
+            {
+              "name": "Museum of South Bohemia",
+              "tip_5lang": {
+                "de": "Ideales Ziel bei Regen; planen Sie hier mehr Zeit ein.",
+                "hu": "Ideális úti cél esőben; tervezzen ide több időt.",
+                "ro": "Destinație ideală pe ploaie; planificați mai mult timp aici.",
+                "en": "Ideal destination during rain; plan more time here."
+              }
+            },
+            {
+              "name": "Budweiser Budvar Brewery",
+              "tip_5lang": {
+                "de": "Komplett überdachtes Erlebnis; perfekt für verregnete Nachmittage.",
+                "hu": "Teljesen fedett élmény; tökéletes esős délutánokra.",
+                "ro": "Experiență complet acoperită; perfectă pentru după-amiezi ploioase.",
+                "en": "Completely indoor experience; perfect for rainy afternoons."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Arkaden am Marktplatz als natürlichen Regenschirm.",
+              "Die Brauereitour ist der beste Ort für starke Regengüsse.",
+              "Tragen Sie wasserfeste Schuhe für das Kopfsteinpflaster.",
+              "Kürzen Sie Wege durch Passagen in der Altstadt ab."
+            ],
+            "hu": [
+              "Használja a főtér árkádjait természetes esernyőként.",
+              "A sörgyári túra a legjobb választás tartós eső esetén.",
+              "Viseljen vízálló cipőt a macskaköves utcákon.",
+              "Rövidítse le az utat az óvárosi passzázsokon keresztül."
+            ],
+            "ro": [
+              "Folosiți arcadele din piață ca pe o umbrelă naturală.",
+              "Turul berăriei este cea mai bună opțiune în caz de ploaie persistentă.",
+              "Purtați încălțăminte impermeabilă pentru străzile cu piatră cubică.",
+              "Scurtați drumul prin pasajele din centrul vechi."
+            ],
+            "en": [
+              "Use the square arcades as a natural umbrella.",
+              "The brewery tour is the best refuge during heavy downpours.",
+              "Wear waterproof shoes for the cobblestone streets.",
+              "Shorten your walks by using old town passages."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der frostige Morgen beginnt auf dem festlich beleuchteten Marktplatz. Mittags wärmt die Stille der Kathedrale auf, bevor es auf den Schwarzen Turm geht. Der Nachmittag im Museum bietet wohlige Wärme. Der Tag endet mit einem herzhaften tschechischen Abendessen und einem Budweiser Bier.",
+            "hu": "A fagyos reggel a díszesen kivilágított főtéren indul. Délben a székesegyház csendje melenget, mielőtt megmásznánk a Fekete-tornyot. A délutáni múzeumlátogatás kellemes meleget kínál. A napot bőséges cseh vacsorával és egy pohár Budvar sörrel zárjuk.",
+            "ro": "Dimineața geroasă începe în piața iluminată festiv. La prânz, liniștea catedralei vă încălzește înainte de a urca în Turnul Negru. După-amiaza la muzeu oferă o căldură plăcută. Ziua se încheie cu o cină cehă copioasă și o bere Budweiser.",
+            "en": "The frosty morning starts at the festively lit main square. At noon, warm up in the quiet cathedral before climbing the Black Tower. The afternoon in the museum provides a cozy escape from the cold. End the day with a hearty Czech dinner and Budweiser beer."
+          },
+          "stops": [
+            {
+              "name": "Přemysl Otakar II Square",
+              "tip_5lang": {
+                "de": "Genießen Sie heißen tschechischen Punsch an den Marktständen.",
+                "hu": "Élvezze a forró cseh puncsot a piaci bódéknál.",
+                "ro": "Savurați un punch ceh fierbinte la tarabele din piață.",
+                "en": "Enjoy hot Czech punch at the market stalls."
+              }
+            },
+            {
+              "name": "Town Hall and Samson's Fountain",
+              "tip_5lang": {
+                "de": "Der Brunnen ist im Winter oft kunstvoll eingehaust oder beleuchtet.",
+                "hu": "A szökőkutat télen gyakran díszesen körbeépítik vagy kivilágítják.",
+                "ro": "Fântâna este adesea protejată sau iluminată artistic iarna.",
+                "en": "The fountain is often artistically enclosed or lit up in winter."
+              }
+            },
+            {
+              "name": "St. Nicholas Cathedral",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um der Kälte kurz zu entfliehen.",
+                "hu": "Csendes helyszín a hideg elöli rövid meneküléshez.",
+                "ro": "Un loc liniștit pentru a scăpa scurt de frig.",
+                "en": "A quiet place to escape the cold briefly."
+              }
+            },
+            {
+              "name": "Black Tower",
+              "tip_5lang": {
+                "de": "Der Aufstieg wärmt auf, aber oben ist der Wind eisig.",
+                "hu": "A mászás felmelegít, de fent a szél jeges lehet.",
+                "ro": "Urcarea vă va încălzi, dar sus vântul este înghețat.",
+                "en": "The climb warms you up, but the wind at the top is icy."
+              }
+            },
+            {
+              "name": "Iron Maiden Tower",
+              "tip_5lang": {
+                "de": "Das Kopfsteinpflaster rundherum kann bei Frost glatt sein.",
+                "hu": "A környékbeli macskakő fagyban csúszós lehet.",
+                "ro": "Piatra cubică din jur poate fi alunecoasă la îngheț.",
+                "en": "The surrounding cobblestones can be slippery in frost."
+              }
+            },
+            {
+              "name": "Museum of South Bohemia",
+              "tip_5lang": {
+                "de": "Perfekt temperierte Räume für eine lange Winterpause.",
+                "hu": "Tökéletes hőmérsékletű termek egy hosszú téli pihenőhöz.",
+                "ro": "Încăperi cu temperatură perfectă pentru o pauză lungă de iarnă.",
+                "en": "Perfectly heated rooms for a long winter break."
+              }
+            },
+            {
+              "name": "Budweiser Budvar Brewery",
+              "tip_5lang": {
+                "de": "Das Besucherzentrum ist warm; im Lagerkeller ist es konstant kühl.",
+                "hu": "A látogatóközpont meleg; a pincében állandó a hűvös.",
+                "ro": "Centrul pentru vizitatori este cald; în pivniță este răcoare constantă.",
+                "en": "The visitor center is warm; the lager cellar is constantly cool."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Winter gegen 16:00 Uhr unter.",
+              "Tragen Sie Schichten für den Wechsel zwischen Kälte und Museen.",
+              "Heiße Getränke gibt es an fast jeder Ecke am Markt.",
+              "Achten Sie auf Glatteis an den Flussufern."
+            ],
+            "hu": [
+              "Télen a nap délután 4 óra körül nyugszik.",
+              "Réteges öltözködés ajánlott a hideg és a fűtött múzeumok miatt.",
+              "Forró italok szinte minden sarkon kaphatók a piacon.",
+              "Vigyázzon a jegesedésre a folyóparti szakaszokon."
+            ],
+            "ro": [
+              "Iarna soarele apune în jurul orei 16:00.",
+              "Purtați haine în straturi pentru trecerea de la frig la muzee.",
+              "Băuturi calde se găsesc la aproape orice colț în piață.",
+              "Atenție la gheață pe malurile râului."
+            ],
+            "en": [
+              "Sunset occurs around 4:00 PM in winter.",
+              "Dress in layers for the transition between cold and museums.",
+              "Hot drinks are available at almost every corner of the market.",
+              "Watch out for black ice on the riverbanks."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -798,6 +998,206 @@
           "Always lock your bike securely, especially in busy places.",
           "Many cafes and restaurants allow you to park your bike within sight."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert Vorsicht auf dem rutschigen Kopfsteinpflaster der Altstadt. Die Tour entlang der Moldau ist erfrischend, aber nass. Die Brauerei am Nachmittag ist das rettende Ziel für trockene Kleidung und ein kühles Bier.",
+            "hu": "Az esőben való biciklizés óvatosságot igényel az óváros csúszós macskakövein. A Moldva menti tekerés frissítő, de vizes élmény. A délutáni sörgyár a megmentő célpont a száraz ruhákhoz és egy hideg sörhöz.",
+            "ro": "Mersul pe bicicletă în ploaie necesită prudență pe piatra cubică alunecoasă. Turul de-a lungul Vltavei este revigorant, dar ud. Berăria de după-amiază este destinația salvatoare pentru haine uscate și o bere.",
+            "en": "Cycling in the rain requires caution on the slippery old town cobblestones. The ride along the Vltava is refreshing but wet. The brewery in the afternoon is the saving destination for dry clothes and a cool beer."
+          },
+          "stops": [
+            {
+              "name": "Přemysl Otakar II Square",
+              "tip_5lang": {
+                "de": "Vorsicht beim Bremsen auf nassen Steinen am Markt.",
+                "hu": "Óvatosan fékezzen a piacon a vizes köveken.",
+                "ro": "Frânați cu grijă pe pietrele ude din piață.",
+                "en": "Brake carefully on the wet stones in the square."
+              }
+            },
+            {
+              "name": "Black Tower & Cathedral",
+              "tip_5lang": {
+                "de": "Sicherer Fahrradständer direkt an der Kathedrale vorhanden.",
+                "hu": "Biztonságos kerékpártároló található közvetlenül a székesegyháznál.",
+                "ro": "Suport securizat pentru biciclete disponibil chiar lângă catedrală.",
+                "en": "Secure bike racks available right by the cathedral."
+              }
+            },
+            {
+              "name": "Museum of South Bohemia",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad unter; das Museum ist ein guter Regenstopp.",
+                "hu": "Parkoljon fedett helyen; a múzeum jó megálló esőben.",
+                "ro": "Parcați sub acoperiș; muzeul este o oprire bună pe ploaie.",
+                "en": "Park under cover; the museum is a good rain stop."
+              }
+            },
+            {
+              "name": "Ride along the Vltava River",
+              "tip_5lang": {
+                "de": "Achten Sie auf Pfützen und schlammige Stellen am Radweg.",
+                "hu": "Ügyeljen a tócsákra és a sáros részekre a kerékpárúton.",
+                "ro": "Atenție la bălți și porțiuni noroioase pe pista de biciclete.",
+                "en": "Watch out for puddles and muddy spots on the bike path."
+              }
+            },
+            {
+              "name": "Iron Maiden Tower",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp, bei starkem Regen weiter zum Ziel.",
+                "hu": "Rövid fotómegálló, erős esőben tekerjen tovább a cél felé.",
+                "ro": "Scurtă oprire foto, în caz de ploaie torențială continuați spre destinație.",
+                "en": "Short photo stop; in heavy rain, keep moving to your destination."
+              }
+            },
+            {
+              "name": "Budweiser Budvar Brewery",
+              "tip_5lang": {
+                "de": "Großer Parkplatz für Räder am Besucherzentrum.",
+                "hu": "Nagy kerékpárparkoló a látogatóközpontnál.",
+                "ro": "Parcare mare pentru biciclete la centrul pentru vizitatori.",
+                "en": "Large bike parking area at the visitor center."
+              }
+            },
+            {
+              "name": "Back to the Main Square",
+              "tip_5lang": {
+                "de": "Die Arkaden bieten beim Parken Schutz vor Regen.",
+                "hu": "Az árkádok védelmet nyújtanak a parkoláskor az esőtől.",
+                "ro": "Arcadele oferă protecție împotriva ploii la parcare.",
+                "en": "The arcades provide rain protection while parking."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind bei diesem Wetter unerlässlich.",
+              "Vermeiden Sie schnelle Kurven auf dem Marktplatz.",
+              "Die Radwege am Fluss können rutschig sein.",
+              "Nutzen Sie wasserfeste Packtaschen."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen ebben az időben.",
+              "Kerülje a gyors kanyarodást a főtéren.",
+              "A folyóparti utak csúszósak lehetnek.",
+              "Használjon vízálló kerékpáros táskákat."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt esențiale pe această vreme.",
+              "Evitați virajele rapide în piața centrală.",
+              "Pistele de pe malul râului pot fi alunecoase.",
+              "Folosiți genți de bicicletă impermeabile."
+            ],
+            "en": [
+              "Mudguards are essential in this weather.",
+              "Avoid sharp turns on the main square.",
+              "Riverside paths can be slippery.",
+              "Use waterproof panniers."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine Wintertour durch Budweis ist erfrischend kalt. Die flache Landschaft macht das Radeln angenehm, solange es eisfrei ist. Nach der Tour entlang der Vltava wärmt die Brauerei die müden Glieder wieder auf.",
+            "hu": "Egy téli túra Budweisben frissítően hideg. A lapos vidék kellemessé teszi a tekerést, amíg jégmentes az út. A Moldva menti szakasz után a sörgyár melege várja a megfáradt vándorokat.",
+            "ro": "Un tur de iarnă prin Budweis este răcoros și revigorant. Relieful plat face pedalatul plăcut, cât timp drumul nu este înghețat. După tura de-a lungul Vltavei, berăria vă va încălzi.",
+            "en": "A winter bike tour through Budweis is refreshingly cold. The flat landscape makes cycling pleasant as long as it is ice-free. After the Vltava ride, the brewery warms up tired limbs."
+          },
+          "stops": [
+            {
+              "name": "Přemysl Otakar II Square",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenem Spritzwasser der Brunnen.",
+                "hu": "Vigyázzon a szökőkút lefagyott vízpermetére.",
+                "ro": "Atenție la apa înghețată din jurul fântânii.",
+                "en": "Watch out for frozen spray from the fountains."
+              }
+            },
+            {
+              "name": "Black Tower & Cathedral",
+              "tip_5lang": {
+                "de": "Das Aufschließen des Schlosses kann bei Frost schwierig sein.",
+                "hu": "A lakat kinyitása nehézkes lehet fagyban.",
+                "ro": "Descuierea lacătului poate fi dificilă la îngheț.",
+                "en": "Unlocking your bike lock can be tricky in hard frost."
+              }
+            },
+            {
+              "name": "Museum of South Bohemia",
+              "tip_5lang": {
+                "de": "Guter Ort, um die Finger wieder aufzuwärmen.",
+                "hu": "Jó hely az ujjak átmelegítésére.",
+                "ro": "Loc bun pentru a vă reîncălzi degetele.",
+                "en": "Good place to warm up your fingers."
+              }
+            },
+            {
+              "name": "Ride along the Vltava River",
+              "tip_5lang": {
+                "de": "Oft windig; tragen Sie unbedingt winddichte Kleidung.",
+                "hu": "Gyakran szeles; viseljen szélálló ruházatot.",
+                "ro": "Adesea vânt; purtați neapărat haine rezistente la vânt.",
+                "en": "Often windy; be sure to wear windproof clothing."
+              }
+            },
+            {
+              "name": "Iron Maiden Tower",
+              "tip_5lang": {
+                "de": "Kurzer Stopp; bleiben Sie in Bewegung, um warm zu bleiben.",
+                "hu": "Rövid megálló; maradjon mozgásban a melegedéshez.",
+                "ro": "Scurtă oprire; rămâneți în mișcare pentru a vă menține căldura.",
+                "en": "Short stop; keep moving to stay warm."
+              }
+            },
+            {
+              "name": "Budweiser Budvar Brewery",
+              "tip_5lang": {
+                "de": "Genießen Sie ein warmes Essen in der Brauereigaststätte.",
+                "hu": "Élvezzen egy meleg ételt a sörgyári étteremben.",
+                "ro": "Savurați o masă caldă la restaurantul berăriei.",
+                "en": "Enjoy a warm meal at the brewery restaurant."
+              }
+            },
+            {
+              "name": "Back to the Main Square",
+              "tip_5lang": {
+                "de": "Die Beleuchtung am Abend ist vom Sattel aus wunderschön.",
+                "hu": "Az esti kivilágítás a nyeregből is csodálatos.",
+                "ro": "Iluminatul de seară este superb văzut de pe bicicletă.",
+                "en": "The evening lights are beautiful from the bike saddle."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Handschuhe sind bei Fahrtwind Pflicht.",
+              "Achten Sie auf Streusalz, das die Kette angreifen kann.",
+              "Die Wege am Fluss frieren zuerst ein.",
+              "Früher Sonnenuntergang: Licht am Fahrrad prüfen."
+            ],
+            "hu": [
+              "A meleg kesztyű kötelező a menetszél miatt.",
+              "Ügyeljen az útszórósóra, amely károsíthatja a láncot.",
+              "A folyóparti utak fagynak le először.",
+              "Korai napnyugta: ellenőrizze a világítást."
+            ],
+            "ro": [
+              "Mănușile calde sunt obligatorii din cauza vântului.",
+              "Atenție la sarea de pe drum, care poate afecta lanțul.",
+              "Pistele de lângă râu îngheață primele.",
+              "Apus timpuriu: verificați luminile bicicletei."
+            ],
+            "en": [
+              "Warm gloves are mandatory due to wind chill.",
+              "Watch out for road salt which can damage the chain.",
+              "Riverside paths freeze over first.",
+              "Early sunset: check your bike lights."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1170,6 +1570,188 @@
           "The driver should refrain from alcohol after the brewery tour. Buy some beer for later instead.",
           "Plan for some buffer time for traffic between clusters."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Budweis auch bei Regen komfortabel. Kurze Wege von den Parkplätzen zu den Arkaden halten Sie trocken. Der Besuch der Brauerei am Stadtrand ist ein perfektes Ziel für trübe Tage.",
+            "hu": "Autóval Budweis esőben is kényelmes. A parkolóktól az árkádokig tartó rövid séták szárazon tartják. A város szélén található sörgyár tökéletes célpont borús napokon.",
+            "ro": "Cu mașina, Budweis este confortabil chiar și pe ploaie. Distanțele scurte de la parcări la arcade vă mențin uscat. Vizita la berăria de la marginea orașului este o destinație perfectă pentru zilele mohorâte.",
+            "en": "By car, Budweis is comfortable even in the rain. Short walks from parking lots to the arcades keep you dry. Visiting the brewery on the outskirts is a perfect goal for gloomy days."
+          },
+          "stops": [
+            {
+              "name": "Parking at the Old Town Cluster",
+              "tip_5lang": {
+                "de": "Zentrales Parkhaus nutzen, um trocken ins Zentrum zu kommen.",
+                "hu": "Használja a központi parkolóházat, hogy szárazon jusson a központba.",
+                "ro": "Folosiți parcarea centrală pentru a ajunge uscat în centru.",
+                "en": "Use the central parking garage to stay dry while reaching the center."
+              }
+            },
+            {
+              "name": "Přemysl Otakar II Square & Town Hall",
+              "tip_5lang": {
+                "de": "Kurzer Sprint zu den Arkaden; dort sind Sie sicher.",
+                "hu": "Gyors sprint az árkádokig; ott már biztonságban lesz.",
+                "ro": "Sprint scurt până la arcade; acolo sunteți în siguranță.",
+                "en": "Quick sprint to the arcades; you'll be safe there."
+              }
+            },
+            {
+              "name": "Black Tower & St. Nicholas Cathedral",
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Turm.",
+                "hu": "Parkoljon a lehető legközelebb a toronyhoz.",
+                "ro": "Parcați cât mai aproape de turn.",
+                "en": "Park as close to the tower as possible."
+              }
+            },
+            {
+              "name": "Museum of South Bohemia",
+              "tip_5lang": {
+                "de": "Großer Parkplatz direkt vor dem Museum vorhanden.",
+                "hu": "Nagy parkoló található közvetlenül a múzeum előtt.",
+                "ro": "Parcare mare disponibilă chiar în fața muzeului.",
+                "en": "Large parking lot available directly in front of the museum."
+              }
+            },
+            {
+              "name": "Drive to Budweiser Budvar Brewery",
+              "tip_5lang": {
+                "de": "Bequeme Anfahrt; Parkplätze für Besucher sind überdacht.",
+                "hu": "Kényelmes megközelítés; a látogatói parkolók fedettek.",
+                "ro": "Acces facil; locurile de parcare pentru vizitatori sunt acoperite.",
+                "en": "Easy access; visitor parking spaces are sheltered."
+              }
+            },
+            {
+              "name": "Riverside Walk",
+              "tip_5lang": {
+                "de": "Bei starkem Regen vom Auto aus genießen oder Schirm nutzen.",
+                "hu": "Erős esőben élvezze az autóból, vagy használjon ernyőt.",
+                "ro": "Pe ploaie torențială admirați din mașină sau folosiți umbrela.",
+                "en": "In heavy rain, enjoy from the car or use an umbrella."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Parkhäuser statt Außenparkplätze.",
+              "Ein Regenschirm im Auto ist in Budweis Pflicht.",
+              "Die Straßen in der Altstadt können rutschig sein.",
+              "Planen Sie Zeit für die Parkplatzsuche bei Regen ein."
+            ],
+            "hu": [
+              "Használja a parkolóházakat a kinti helyek helyett.",
+              "Az esernyő az autóban kötelező Budweisben.",
+              "Az óvárosi utcák csúszósak lehetnek.",
+              "Számoljon több idővel a parkolásra esőben."
+            ],
+            "ro": [
+              "Folosiți parcările etajate în locul celor exterioare.",
+              "O umbrelă în mașină este obligatorie în Budweis.",
+              "Străzile din centrul vechi pot fi alunecoase.",
+              "Alocați timp suplimentar pentru parcare pe ploaie."
+            ],
+            "en": [
+              "Use parking garages instead of outdoor spots.",
+              "An umbrella in the car is a must in Budweis.",
+              "Old town streets can be slippery.",
+              "Allow extra time for finding parking in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Budweis im Winter mit dem Auto ermöglicht ein Aufwärmen zwischen den Sehenswürdigkeiten. Die Fahrt zur Budvar-Brauerei ist bei Kälte die angenehmste Option. Der festlich geschmückte Marktplatz lässt sich gut erreichen.",
+            "hu": "Budweis télen autóval lehetővé teszi a felmelegedést a látnivalók között. A Budvar sörgyárba való utazás hidegben a legkényelmesebb opció. A díszes főtér könnyen megközelíthető.",
+            "ro": "Budweis iarna cu mașina permite încălzirea între obiectivele turistice. Drumul spre berăria Budvar este cea mai plăcută opțiune pe frig. Piața decorată festiv este ușor accesibilă.",
+            "en": "Budweis in winter by car allows for warming up between sights. The drive to the Budvar brewery is the most pleasant option in the cold. The festively decorated main square is easy to reach."
+          },
+          "stops": [
+            {
+              "name": "Parking at the Old Town Cluster",
+              "tip_5lang": {
+                "de": "Tiefgarage schützt das Auto vor Frost.",
+                "hu": "A mélygarázs megvédi az autót a fagytól.",
+                "ro": "Parcarea subterană protejează mașina de îngheț.",
+                "en": "Underground parking protects the car from frost."
+              }
+            },
+            {
+              "name": "Přemysl Otakar II Square & Town Hall",
+              "tip_5lang": {
+                "de": "Der Platz ist im Winter herrlich beleuchtet.",
+                "hu": "A tér télen gyönyörűen ki van világítva.",
+                "ro": "Piața este superb iluminată iarna.",
+                "en": "The square is beautifully illuminated in winter."
+              }
+            },
+            {
+              "name": "Black Tower & St. Nicholas Cathedral",
+              "tip_5lang": {
+                "de": "Vorsicht beim Aussteigen auf glattem Kopfsteinpflaster.",
+                "hu": "Vigyázzon a kiszálláskor a csúszós macskakövön.",
+                "ro": "Atenție la coborâre pe piatra cubică alunecoasă.",
+                "en": "Be careful when getting out on slippery cobblestones."
+              }
+            },
+            {
+              "name": "Museum of South Bohemia",
+              "tip_5lang": {
+                "de": "Das Museum ist gut beheizt; ideal zum Aufwärmen.",
+                "hu": "A múzeum jól fűtött; ideális a felmelegedéshez.",
+                "ro": "Muzeul este bine încălzit; ideal pentru încălzire.",
+                "en": "The museum is well-heated; ideal for warming up."
+              }
+            },
+            {
+              "name": "Drive to Budweiser Budvar Brewery",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Sitzheizung für die kurze Fahrt.",
+                "hu": "Használja az ülésfűtést a rövid útra.",
+                "ro": "Folosiți încălzirea în scaune pentru drumul scurt.",
+                "en": "Use seat heating for the short drive."
+              }
+            },
+            {
+              "name": "Riverside Walk",
+              "tip_5lang": {
+                "de": "Im Winter oft neblig und sehr stimmungsvoll.",
+                "hu": "Télen gyakran ködös és nagyon hangulatos.",
+                "ro": "Iarna este adesea ceață și o atmosferă deosebită.",
+                "en": "Often foggy and very atmospheric in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen und Eiskratzer sind absolut notwendig.",
+              "Parkhäuser sind im Winter oft voll (Shopping).",
+              "Achten Sie auf Fußgänger in dunkler Kleidung.",
+              "Frostschutz für die Scheibenwaschanlage prüfen."
+            ],
+            "hu": [
+              "Téli gumi és jégkaparó elengedhetetlen.",
+              "A parkolóházak télen gyakran tele vannak a vásárlók miatt.",
+              "Ügyeljen a sötét ruhás gyalogosokra.",
+              "Ellenőrizze a szélvédőmosó fagyállóságát."
+            ],
+            "ro": [
+              "Anvelopele de iarnă și racleta sunt absolut necesare.",
+              "Parcările etajate sunt adesea pline iarna (cumpărături).",
+              "Atenție la pietonii îmbrăcați în culori închise.",
+              "Verificați lichidul de parbriz antigel."
+            ],
+            "en": [
+              "Winter tires and ice scrapers are absolutely necessary.",
+              "Parking garages are often full in winter due to shoppers.",
+              "Watch out for pedestrians in dark clothing.",
+              "Check anti-freeze levels in your washer fluid."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1518,6 +2100,170 @@
           "Bus schedules are posted at the stops. Check the times for your return journey.",
           "Ask your hotel for a public transport map."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Budweis verfügt über ein effizientes Bussystem, das Sie auch bei Regen trocken ans Ziel bringt. Kurze Wartezeiten an den Haltestellen minimieren den Kontakt mit dem Wetter. Die Brauerei ist bequem mit dem Bus erreichbar.",
+            "hu": "Budweis hatékony buszhálózattal rendelkezik, amely esőben is szárazon célba juttatja. A rövid várakozási idő a megállókban minimálisra csökkenti az időjárással való érintkezést. A sörgyár kényelmesen elérhető busszal.",
+            "ro": "Budweis are un sistem de autobuze eficient care vă duce la destinație uscat, chiar și pe ploaie. Timpii scurți de așteptare în stații minimizează contactul cu vremea. Berăria este ușor accesibilă cu autobuzul.",
+            "en": "Budweis has an efficient bus system that gets you to your destination dry, even in the rain. Short wait times at stops minimize exposure to the weather. The brewery is easily accessible by bus."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Main Square (Piaristická stop)",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist überdacht.",
+                "hu": "A megálló fedett.",
+                "ro": "Stația este acoperită.",
+                "en": "The stop is sheltered."
+              }
+            },
+            {
+              "name": "Walk: Main Square, Town Hall, Black Tower",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz in den Arkaden zwischen den Busfahrten.",
+                "hu": "Keressen menedéket az árkádok alatt a buszok között.",
+                "ro": "Căutați adăpost sub arcade între cursele de autobuz.",
+                "en": "Seek shelter under the arcades between bus rides."
+              }
+            },
+            {
+              "name": "Museum of South Bohemia",
+              "tip_5lang": {
+                "de": "Bushaltestelle direkt vor dem Eingang.",
+                "hu": "Buszmegálló közvetlenül a bejárat előtt.",
+                "ro": "Stație de autobuz chiar în fața intrării.",
+                "en": "Bus stop right in front of the entrance."
+              }
+            },
+            {
+              "name": "Trip to Budweiser Budvar Brewery (Budvar stop)",
+              "tip_5lang": {
+                "de": "Die Linie 2 bringt Sie direkt und trocken hin.",
+                "hu": "A 2-es vonal közvetlenül és szárazon odaviszi.",
+                "ro": "Linia 2 vă duce direct și fără a vă uda.",
+                "en": "Line 2 takes you there directly and keeps you dry."
+              }
+            },
+            {
+              "name": "Return to the Center and Dinner",
+              "tip_5lang": {
+                "de": "Abendliche Busse fahren regelmäßig.",
+                "hu": "Az esti buszok rendszeresen járnak.",
+                "ro": "Autobuzele de seară circulă regulat.",
+                "en": "Evening buses run regularly."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Laden Sie die App für Echtzeit-Abfahrten herunter.",
+              "Kaufen Sie Fahrkarten bequem per SMS oder Karte im Bus.",
+              "Haltestellen in der Altstadt sind oft nah an Arkaden.",
+              "Tragen Sie bei Regen einen kompakten Schirm bei sich."
+            ],
+            "hu": [
+              "Töltse le az alkalmazást a valós idejű indulásokhoz.",
+              "Vegyen jegyet kényelmesen SMS-ben vagy kártyával a buszon.",
+              "Az óvárosi megállók gyakran árkádok közelében vannak.",
+              "Hordjon magánál kompakt esernyőt esőben."
+            ],
+            "ro": [
+              "Descărcați aplicația pentru plecări în timp real.",
+              "Cumpărați bilete prin SMS sau cu cardul în autobuz.",
+              "Stațiile din centrul vechi sunt adesea lângă arcade.",
+              "Purtați o umbrelă compactă cu voi pe ploaie."
+            ],
+            "en": [
+              "Download the app for real-time departures.",
+              "Buy tickets conveniently via SMS or card on the bus.",
+              "Old town stops are often near arcades.",
+              "Carry a compact umbrella during rainy weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die beheizten Busse in Budweis sind im Winter ein Segen. Sie verbinden die Altstadt schnell mit der Brauerei, ohne dass man lange in der Kälte stehen muss. Der Anblick der beleuchteten Stadt aus dem Busfenster ist besonders schön.",
+            "hu": "A fűtött buszok Budweisben áldást jelentenek télen. Gyorsan összekötik az óvárost a sörgyárral, anélkül, hogy sokat kellene a hidegben állni. A kivilágított város látványa a buszablakból különösen szép.",
+            "ro": "Autobuzele încălzite din Budweis sunt o binecuvântare iarna. Ele conectează rapid centrul vechi de berărie, fără a sta mult în frig. Vederea orașului iluminat de la fereastra autobuzului este deosebită.",
+            "en": "Heated buses in Budweis are a blessing in winter. They quickly connect the old town with the brewery without having to stand in the cold for long. The sight of the lit-up city from the bus window is especially beautiful."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Main Square (Piaristická stop)",
+              "tip_5lang": {
+                "de": "Warten Sie in den beheizten Geschäften nebenan.",
+                "hu": "Várjon a szomszédos fűtött üzletekben.",
+                "ro": "Așteptați în magazinele încălzite de alături.",
+                "en": "Wait in the nearby heated shops."
+              }
+            },
+            {
+              "name": "Walk: Main Square, Town Hall, Black Tower",
+              "tip_5lang": {
+                "de": "Die kurzen Wege zwischen den Haltestellen sind ideal.",
+                "hu": "A megállók közötti rövid távok ideálisak.",
+                "ro": "Distanțele scurte între stații sunt ideale.",
+                "en": "Short distances between stops are ideal."
+              }
+            },
+            {
+              "name": "Museum of South Bohemia",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um sich zwischen den Fahrten aufzuwärmen.",
+                "hu": "Tökéletes hely a felmelegedéshez a járatok között.",
+                "ro": "Loc perfect pentru încălzire între curse.",
+                "en": "Perfect place to warm up between bus rides."
+              }
+            },
+            {
+              "name": "Trip to Budweiser Budvar Brewery (Budvar stop)",
+              "tip_5lang": {
+                "de": "Achten Sie auf den Winterfahrplan (weniger Fahrten).",
+                "hu": "Ügyeljen a téli menetrendre (kevesebb járat).",
+                "ro": "Atenție la orarul de iarnă (mai puține curse).",
+                "en": "Check the winter timetable (fewer trips)."
+              }
+            },
+            {
+              "name": "Return to the Center and Dinner",
+              "tip_5lang": {
+                "de": "Genießen Sie die Fahrt durch die beleuchteten Straßen.",
+                "hu": "Élvezze az utazást a kivilágított utcákon.",
+                "ro": "Bucurați-vă de drumul prin străzile iluminate.",
+                "en": "Enjoy the ride through the illuminated streets."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse sind im Winter meist sehr pünktlich.",
+              "In den Bussen ist es oft sehr warm; Schichten tragen.",
+              "Die Haltestellenansagen helfen bei beschlagenen Fenstern.",
+              "Früher Abendverkehr kann zu leichten Verzögerungen führen."
+            ],
+            "hu": [
+              "A buszok télen általában nagyon pontosak.",
+              "A buszokon gyakran nagyon meleg van; öltözzön rétegesen.",
+              "A megállóbemondások segítenek, ha párás az ablak.",
+              "A kora esti forgalom kisebb késéseket okozhat."
+            ],
+            "ro": [
+              "Autobuzele sunt de obicei foarte punctuale iarna.",
+              "În autobuze este adesea foarte cald; purtați straturi.",
+              "Anunțurile stațiilor ajută dacă geamurile sunt aburite.",
+              "Traficul de seară poate cauza mici întârzieri."
+            ],
+            "en": [
+              "Buses are usually very punctual in winter.",
+              "Buses are often quite warm inside; dress in layers.",
+              "Audio announcements help if windows are fogged up.",
+              "Early evening traffic may cause slight delays."
+            ]
+          }
+        }
       }
     }
   }

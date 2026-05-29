@@ -379,6 +379,206 @@
           "Check the opening times for the museum and arts centre in advance.",
           "A light raincoat is always a good idea in Northern Ireland."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Entdecken Sie Lisburn trotz des Regens. Der Vormittag gehört der Kathedrale und dem Leinenmuseum, idealen Zufluchtsorten. Mittags bieten die Cafés an der Castle Street Schutz. Nachmittags glänzen die Castle Gardens im nassen Grün, bevor das Island Arts Centre den Tag kulturell und trocken abrundet. Abends spiegelt sich das Stadtlicht in den Pfützen des Wallace Parks.",
+            "hu": "Fedezze fel Lisburnt az eső ellenére is. A délelőtt a székesegyházé és a Lenmúzeumé, amelyek kiváló menedékek. Ebédidőben a Castle Street kávézói hívogatnak. Délután a várkert és a Lagan-völgy párás színei dominálnak, majd az Island Arts Centre kínál száraz kulturális élményt. Az este a Wallace Park vizes ösvényei között, a város fényeiben ér véget.",
+            "ro": "Explorați Lisburn chiar și pe ploaie. Dimineața este dedicată Catedralei și Muzeului Inului, refugii ideale. La prânz, cafenelele de pe Castle Street vă așteaptă. După-amiaza, grădinile castelului strălucesc în verdele ud, iar Island Arts Centre oferă un final cultural și uscat. Seara, luminile orașului se oglindesc în bălțile din Wallace Park.",
+            "en": "Explore Lisburn despite the rain. Spend your morning in the Cathedral and the Linen Centre, both excellent shelters. At noon, find a cozy spot on Castle Street. Afternoon brings a misty charm to Castle Gardens and Lagan Valley Island, followed by dry cultural immersion at the Arts Centre. The evening concludes with reflections of city lights in the damp Wallace Park."
+          },
+          "stops": [
+            {
+              "name": "Castle Street",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Vordächer der Geschäfte.",
+                "hu": "Használja az üzletek előtetőit menedékként.",
+                "ro": "Folosiți copertinele magazinelor.",
+                "en": "Utilize the shop awnings for shelter."
+              }
+            },
+            {
+              "name": "Lisburn Cathedral",
+              "tip_5lang": {
+                "de": "Trocknen Sie Ihren Schirm im Vorraum.",
+                "hu": "Szárítsa meg esernyőjét az előtérben.",
+                "ro": "Uscați umbrela în pridvor.",
+                "en": "Dry your umbrella in the porch."
+              }
+            },
+            {
+              "name": "Irish Linen Centre & Lisburn Museum",
+              "tip_5lang": {
+                "de": "Perfektes Versteck bei starkem Guss.",
+                "hu": "Tökéletes búvóhely felhőszakadás idején.",
+                "ro": "Loc de refugiu perfect în caz de furtună.",
+                "en": "Perfect hiding spot during heavy downpours."
+              }
+            },
+            {
+              "name": "Castle Gardens",
+              "tip_5lang": {
+                "de": "Vorsicht, die Steinstufen sind rutschig.",
+                "hu": "Vigyázat, a kőlépcsők csúszósak.",
+                "ro": "Atenție, treptele de piatră sunt alunecoase.",
+                "en": "Caution, the stone steps are slippery."
+              }
+            },
+            {
+              "name": "Island Arts Centre",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in den Galerien auf.",
+                "hu": "Melegedjen fel a galériákban.",
+                "ro": "Încălziți-vă în galerii.",
+                "en": "Warm up in the indoor galleries."
+              }
+            },
+            {
+              "name": "Lagan Valley Island",
+              "tip_5lang": {
+                "de": "Beobachten Sie den Regen vom Glasfoyer.",
+                "hu": "Nézze az esőt az üveg előcsarnokból.",
+                "ro": "Priviți ploaia din foierul de sticlă.",
+                "en": "Watch the rain from the glass foyer."
+              }
+            },
+            {
+              "name": "Wallace Park",
+              "tip_5lang": {
+                "de": "Halten Sie sich an die asphaltierten Wege.",
+                "hu": "Maradjon az aszfaltozott utakon.",
+                "ro": "Rămâneți pe aleile asfaltate.",
+                "en": "Stick to the paved paths to avoid mud."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Das Linen Centre ist der beste kostenlose Indoor-Halt.",
+              "Tragen Sie wasserfeste Schuhe für die Parkwege.",
+              "Die Kathedrale bietet Ruhe während kurzer Schauer.",
+              "Viele Cafés in der Bow Street haben überdachte Eingänge."
+            ],
+            "hu": [
+              "A Lenmúzeum a legjobb ingyenes beltéri megálló.",
+              "Viseljen vízálló cipőt a parki sétákhoz.",
+              "A székesegyház nyugalmat nyújt a záporok alatt.",
+              "A Bow Street kávézói fedett bejáratokkal rendelkeznek."
+            ],
+            "ro": [
+              "Centrul Inului este cel mai bun popas interior gratuit.",
+              "Purtați încălțăminte impermeabilă pentru parcuri.",
+              "Catedrala oferă liniște în timpul averselor.",
+              "Multe cafenele de pe Bow Street au intrări acoperite."
+            ],
+            "en": [
+              "The Linen Centre is the best free indoor stop.",
+              "Wear waterproof shoes for the park paths.",
+              "The Cathedral offers peace during brief showers.",
+              "Many cafes on Bow Street have covered entrances."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Spaziergang durch das winterliche Lisburn. Starten Sie frisch an der Castle Street und suchen Sie Wärme in der Kathedrale. Das Leinenmuseum bietet mittags gemütliche Einblicke. Die Castle Gardens wirken im Winterlicht magisch, während das Island Arts Centre am Nachmittag zum Aufwärmen einlädt. Der Tag endet im frühen Sonnenuntergang des Wallace Parks.",
+            "hu": "Deres séta a téli Lisburnben. Kezdjen frissen a Castle Streeten, majd keressen meleget a székesegyházban. A Lenmúzeum délben barátságos menedéket nyújt. A várkert varázslatos a téli fényekben, délután pedig az Arts Centre hívogat egy kis melegre. A nap a korai naplementében, a Wallace Park zúzmarás fái között ér véget.",
+            "ro": "O plimbare geroasă prin Lisburnul de iarnă. Începeți pe Castle Street și căutați căldură în Catedrală. Muzeul Inului oferă un refugiu primitor la prânz. Grădinile castelului sunt magice în lumina iernii, iar după-amiaza vizitați Island Arts Centre. Ziua se încheie cu apusul timpuriu printre copacii din Wallace Park.",
+            "en": "A crisp winter walk through Lisburn. Start fresh on Castle Street and seek warmth in the Cathedral. The Linen Museum provides a cozy midday retreat. Castle Gardens look magical in the low winter sun, and the Arts Centre is perfect for an afternoon warm-up. End your day as the sun sets early over the frosted trees of Wallace Park."
+          },
+          "stops": [
+            {
+              "name": "Castle Street",
+              "tip_5lang": {
+                "de": "Besuchen Sie die kleinen Handwerksläden.",
+                "hu": "Látogasson el a kis kézműves boltokba.",
+                "ro": "Vizitați micile magazine de artizanat.",
+                "en": "Visit the small craft shops for warmth."
+              }
+            },
+            {
+              "name": "Lisburn Cathedral",
+              "tip_5lang": {
+                "de": "Genießen Sie die festliche Stille.",
+                "hu": "Élvezze az ünnepi csendet.",
+                "ro": "Bucurați-vă de liniștea festivă.",
+                "en": "Enjoy the festive indoor silence."
+              }
+            },
+            {
+              "name": "Irish Linen Centre & Lisburn Museum",
+              "tip_5lang": {
+                "de": "Gut geheizte Ausstellungsräume.",
+                "hu": "Jól fűtött kiállítótermek.",
+                "ro": "Săli de expoziție bine încălzite.",
+                "en": "Well-heated exhibition rooms."
+              }
+            },
+            {
+              "name": "Castle Gardens",
+              "tip_5lang": {
+                "de": "Ideal für Fotos bei tiefstehender Sonne.",
+                "hu": "Ideális fotóhely alacsony napállásnál.",
+                "ro": "Ideal pentru fotografii la apus.",
+                "en": "Ideal for photos in the low winter sun."
+              }
+            },
+            {
+              "name": "Island Arts Centre",
+              "tip_5lang": {
+                "de": "Trinken Sie einen heißen Tee im Café.",
+                "hu": "Igyon egy forró teát a kávézóban.",
+                "ro": "Beți un ceai fierbinte la cafenea.",
+                "en": "Have a hot tea at the internal cafe."
+              }
+            },
+            {
+              "name": "Lagan Valley Island",
+              "tip_5lang": {
+                "de": "Achten Sie auf gefrorene Wege am Fluss.",
+                "hu": "Vigyázzon a fagyott utakra a folyónál.",
+                "ro": "Atenție la aleile înghețate de lângă râu.",
+                "en": "Watch out for icy paths near the river."
+              }
+            },
+            {
+              "name": "Wallace Park",
+              "tip_5lang": {
+                "de": "Der Park schließt bei Dämmerung.",
+                "hu": "A park sötétedéskor bezár.",
+                "ro": "Parcul se închide la lăsarea serii.",
+                "en": "The park closes at dusk (~16:30)."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Dezember gegen 16:15 Uhr unter.",
+              "Tragen Sie Schichten für den Wechsel zwischen Drinnen und Draußen.",
+              "Das Museumscafé ist ein lokaler Geheimtipp zum Aufwärmen.",
+              "Festliche Beleuchtung in der Innenstadt ab 16:00 Uhr."
+            ],
+            "hu": [
+              "A nap decemberben 16:15 körül nyugszik.",
+              "Öltözzön rétegesen a kinti hideg és benti meleg miatt.",
+              "A múzeum kávézója remek hely a felmelegedésre.",
+              "Ünnepi fények a belvárosban 16 órától."
+            ],
+            "ro": [
+              "Soarele apune în jur de ora 16:15 în decembrie.",
+              "Îmbrăcați-vă în straturi pentru interior/exterior.",
+              "Cafeneaua muzeului este ideală pentru încălzire.",
+              "Luminile festive se aprind în centru după ora 16:00."
+            ],
+            "en": [
+              "Sunset is around 16:15 in December.",
+              "Dress in layers for the indoor/outdoor transition.",
+              "The museum cafe is a great spot to warm up.",
+              "Festive lights in the city centre turn on from 16:00."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -775,6 +975,224 @@
           "The Lagan Towpath is great for a relaxed ride away from the roads.",
           "Some hills in and around Lisburn can be challenging."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine erfrischende Radtour durch das nasse Lisburn. Beginnen Sie im Wallace Park, wo die Bäume Schutz bieten. Die Route führt über die Kathedrale zum Museum für eine lange Pause. Die Castle Gardens sind bei Regen ruhig und leer. Am Nachmittag radeln Sie am Lagan entlang zur Hilden Brewery, wo Sie sich bei einem lokalen Bier im Trockenen belohnen können.",
+            "hu": "Frissítő kerékpározás a vizes Lisburnben. Kezdjen a Wallace Parkban, ahol a fák némi védelmet nyújtanak. Az út a székesegyházon át a múzeumhoz vezet egy hosszabb pihenőre. A várkert esőben csendes és üres. Délután a Lagan mentén tekerjen a Hilden sörfőzdéig, ahol egy helyi sörrel jutalmazhatja magát a szárazban.",
+            "ro": "O tură revigorantă cu bicicleta prin Lisburnul ploios. Începeți în Wallace Park, unde copacii oferă adăpost. Traseul trece pe la Catedrală spre Muzeu pentru o pauză lungă. Grădinile castelului sunt liniștite pe ploaie. După-amiaza, pedalați de-a lungul râului Lagan până la Hilden Brewery, pentru o recompensă la adăpost.",
+            "en": "A refreshing cycle through rainy Lisburn. Start in Wallace Park, where trees offer some canopy. Head past the Cathedral to the Museum for a long dry break. Castle Gardens are quiet and atmospheric in the rain. In the afternoon, pedal along the Lagan to Hilden Brewery, rewarding yourself with a local brew in their dry seating area."
+          },
+          "stops": [
+            {
+              "name": "Wallace Park",
+              "tip_5lang": {
+                "de": "Vorsicht vor nassem Laub auf den Wegen.",
+                "hu": "Vigyázzon a vizes levelekre az utakon.",
+                "ro": "Atenție la frunzele ude pe alei.",
+                "en": "Watch out for wet leaves on the paths."
+              }
+            },
+            {
+              "name": "Castle Street",
+              "tip_5lang": {
+                "de": "Kurzer Halt unter dem Marktplatz-Dach.",
+                "hu": "Rövid megálló a piactér teteje alatt.",
+                "ro": "Popas scurt sub acoperișul pieței.",
+                "en": "Brief stop under the Market Square roof."
+              }
+            },
+            {
+              "name": "Lisburn Cathedral",
+              "tip_5lang": {
+                "de": "Fahrradständer befinden sich am Eingang.",
+                "hu": "Kerékpártárolók a bejáratnál.",
+                "ro": "Suporturi de biciclete la intrare.",
+                "en": "Bike racks are located at the entrance."
+              }
+            },
+            {
+              "name": "Irish Linen Centre & Lisburn Museum",
+              "tip_5lang": {
+                "de": "Ideale Zeit für die Innenausstellung.",
+                "hu": "Ideális idő a benti kiállításra.",
+                "ro": "Moment ideal pentru expoziția interioară.",
+                "en": "Ideal time for the indoor exhibition."
+              }
+            },
+            {
+              "name": "Castle Gardens",
+              "tip_5lang": {
+                "de": "Die Wege können bei Regen schlammig sein.",
+                "hu": "Az utak esőben sárosak lehetnek.",
+                "ro": "Potecile pot fi noroioase pe ploaie.",
+                "en": "Paths can be muddy; stick to the gravel."
+              }
+            },
+            {
+              "name": "Island Arts Centre",
+              "tip_5lang": {
+                "de": "Überdachte Parkplätze am Gebäude.",
+                "hu": "Fedett parkoló az épületnél.",
+                "ro": "Parcare acoperită lângă clădire.",
+                "en": "Covered parking available at the building."
+              }
+            },
+            {
+              "name": "Lagan Valley Island",
+              "tip_5lang": {
+                "de": "Der Uferweg ist teilweise rutschig.",
+                "hu": "A folyóparti út helyenként csúszós.",
+                "ro": "Drumul de pe mal este parțial alunecos.",
+                "en": "The riverside path is partially slippery."
+              }
+            },
+            {
+              "name": "Hilden Brewery",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad unter den Torbogen.",
+                "hu": "Támassza a bringát a boltív alá.",
+                "ro": "Lăsați bicicleta sub arcadă.",
+                "en": "Park your bike under the archway."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind bei diesem Wetter unverzichtbar.",
+              "Der Lagan-Treidelpfad kann Pfützen bilden.",
+              "Hilden Brewery hat einen großen überdachten Innenhof.",
+              "Tragen Sie helle, wasserdichte Kleidung."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen ilyenkor.",
+              "A Lagan menti vontatóúton tócsák lehetnek.",
+              "A Hilden sörfőzde nagy fedett udvarral rendelkezik.",
+              "Viseljen világos, vízálló ruházatot."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt indispensabile.",
+              "Drumul de pe malul Lagan poate avea bălți.",
+              "Hilden Brewery are o curte interioară acoperită mare.",
+              "Purtați haine reflectorizante și impermeabile."
+            ],
+            "en": [
+              "Mudguards are essential in this weather.",
+              "The Lagan towpath can develop large puddles.",
+              "Hilden Brewery has a large covered courtyard area.",
+              "Wear bright, waterproof clothing for visibility."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine zügige Winterfahrt durch Lisburn. Der Wallace Park glänzt im Frost, bevor Sie ins warme Stadtzentrum radeln. Nutzen Sie das Museum für eine Aufwärmpause am Mittag. Die Castle Gardens bieten eine klare Sicht auf die Stadt. Der Nachmittag am Flussufer ist frisch, führt aber zum gemütlichen Kaminfeuer oder der Wärme der Hilden Brewery.",
+            "hu": "Tempós téli tekerés Lisburnben. A Wallace Park deres fényben ragyog, mielőtt a meleg városközpontba érne. Használja a múzeumot délben a felmelegedéshez. A várkertből tiszta kilátás nyílik a városra. A délután a folyóparton csípős, de a Hilden sörfőzde melege kárpótolja a nap végén.",
+            "ro": "O tură rapidă de iarnă prin Lisburn. Wallace Park strălucește în ger, înainte de a ajunge în centrul cald. Folosiți muzeul pentru încălzire la prânz. Grădinile castelului oferă o vedere clară. După-amiaza pe malul râului este geroasă, dar căldura de la Hilden Brewery vă așteaptă la final.",
+            "en": "A brisk winter ride through Lisburn. Wallace Park glitters in the frost before you cycle into the warm city centre. Use the Museum for a midday warm-up. Castle Gardens offer clear views over the town. The afternoon riverside path is chilly, but the warmth of Hilden Brewery awaits at the end of the day."
+          },
+          "stops": [
+            {
+              "name": "Wallace Park",
+              "tip_5lang": {
+                "de": "Vorsicht vor überfrierender Nässe.",
+                "hu": "Vigyázzon a lefagyásokra az utakon.",
+                "ro": "Atenție la porțiunile înghețate.",
+                "en": "Watch out for black ice on shaded paths."
+              }
+            },
+            {
+              "name": "Castle Street",
+              "tip_5lang": {
+                "de": "Warmer Stopp in einem lokalen Café.",
+                "hu": "Melegedjen meg egy helyi kávézóban.",
+                "ro": "Popas cald într-o cafenea locală.",
+                "en": "Warm stop in a local coffee shop."
+              }
+            },
+            {
+              "name": "Lisburn Cathedral",
+              "tip_5lang": {
+                "de": "Besuch der Krippe im Innenraum.",
+                "hu": "Látogassa meg a benti betlehemet.",
+                "ro": "Vizitați ieslea din interior.",
+                "en": "Visit the nativity scene inside."
+              }
+            },
+            {
+              "name": "Irish Linen Centre & Lisburn Museum",
+              "tip_5lang": {
+                "de": "Lassen Sie die Handschuhe am Empfang.",
+                "hu": "Hagyja a kesztyűket a recepciónál.",
+                "ro": "Lăsați mănușile la recepție.",
+                "en": "Leave your gloves at the reception desk."
+              }
+            },
+            {
+              "name": "Castle Gardens",
+              "tip_5lang": {
+                "de": "Windig, tragen Sie einen Gesichtsschutz.",
+                "hu": "Szeles hely, viseljen arcvédőt.",
+                "ro": "Bate vântul, purtați protecție pentru față.",
+                "en": "Windy spot; wear face protection."
+              }
+            },
+            {
+              "name": "Island Arts Centre",
+              "tip_5lang": {
+                "de": "Ideal für eine kurze Innenpause.",
+                "hu": "Ideális egy rövid benti szünetre.",
+                "ro": "Ideal pentru o scurtă pauză la interior.",
+                "en": "Ideal for a quick indoor break."
+              }
+            },
+            {
+              "name": "Lagan Valley Island",
+              "tip_5lang": {
+                "de": "Vermeiden Sie den Weg direkt am Wasser.",
+                "hu": "Kerülje közvetlenül a vízparti utat.",
+                "ro": "Evitați drumul direct de pe mal.",
+                "en": "Avoid the path directly by the water if icy."
+              }
+            },
+            {
+              "name": "Hilden Brewery",
+              "tip_5lang": {
+                "de": "Warme Küche und lokales Winterbier.",
+                "hu": "Meleg konyha és helyi téli sör.",
+                "ro": "Mâncare caldă și bere locală de iarnă.",
+                "en": "Warm food and local winter ale available."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Handschuhe sind bei Fahrtwind Pflicht.",
+              "Die Wege am Fluss kühlen schnell ab.",
+              "Prüfen Sie Ihre Lichter vor der Abfahrt.",
+              "Der Sonnenuntergang ist bereits um 16:15 Uhr."
+            ],
+            "hu": [
+              "A meleg kesztyű kötelező a menetszélben.",
+              "A folyó menti utak gyorsan lehűlnek.",
+              "Indulás előtt ellenőrizze a lámpákat.",
+              "A naplemente már 16:15-kor bekövetkezik."
+            ],
+            "ro": [
+              "Mănușile călduroase sunt obligatorii.",
+              "Drumurile de lângă râu se răcesc rapid.",
+              "Verificați luminile înainte de plecare.",
+              "Apusul are loc deja la ora 16:15."
+            ],
+            "en": [
+              "Warm gloves are mandatory against wind chill.",
+              "Riverside paths cool down significantly in the afternoon.",
+              "Check your lights before starting the ride.",
+              "Sunset is as early as 16:15 in mid-winter."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1152,6 +1570,206 @@
           "Using park-and-ride services can be a good option.",
           "Keep change handy for parking meters."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Bequemes Sightseeing mit dem Auto im regnerischen Lisburn. Parken Sie direkt am Wallace Park, bevor Sie ins Stadtzentrum fahren. Das Leinenmuseum ist der ideale Halt für den nassen Mittag. Besuchen Sie die Castle Gardens kurz zwischen den Schauern. Der Nachmittag endet entspannt in der Hilden Brewery, wo Sie im Trockenen die Geschichte des Bieres erleben können.",
+            "hu": "Kényelmes városnézés autóval az esős Lisburnben. Parkoljon közvetlenül a Wallace Parknál, mielőtt a városközpontba hajtana. A Lenmúzeum ideális megálló a vizes délidőben. A várkertet a záporok között látogassa meg. A délután a Hilden sörfőzdében ér véget, ahol szárazon ismerkedhet meg a sörfőzés történetével.",
+            "ro": "Vizitarea relaxată a orașului Lisburn cu mașina pe ploaie. Parcați chiar lângă Wallace Park înainte de a merge în centru. Muzeul Inului este popasul ideal pentru prânzul ploios. Vizitați grădinile castelului între averse. După-amiaza se încheie relaxat la Hilden Brewery, unde puteți afla istoria berii la adăpost.",
+            "en": "Comfortable sightseeing by car in rainy Lisburn. Park directly by Wallace Park before driving to the city centre. The Linen Museum is the ideal stop for a rainy midday. Visit Castle Gardens briefly between showers. The afternoon ends relaxedly at Hilden Brewery, where you can experience the history of brewing while staying dry."
+          },
+          "stops": [
+            {
+              "name": "Wallace Park Car Park",
+              "tip_5lang": {
+                "de": "Direkter Zugang zu den Wegen.",
+                "hu": "Közvetlen hozzáférés az utakhoz.",
+                "ro": "Acces direct la alei.",
+                "en": "Direct access to the paved paths."
+              }
+            },
+            {
+              "name": "City Centre Car Park",
+              "tip_5lang": {
+                "de": "Überdachtes Parken im Multistorey.",
+                "hu": "Fedett parkolás a többszintes garázsban.",
+                "ro": "Parcare acoperită în garajul etajat.",
+                "en": "Covered parking in the multi-storey garage."
+              }
+            },
+            {
+              "name": "Castle Street & Cathedral",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Parkhaus.",
+                "hu": "Rövid séta a parkolóháztól.",
+                "ro": "Scurtă plimbare de la parcare.",
+                "en": "Short walk from the parking building."
+              }
+            },
+            {
+              "name": "Irish Linen Centre & Lisburn Museum",
+              "tip_5lang": {
+                "de": "Perfekt für einen langen Aufenthalt.",
+                "hu": "Tökéletes egy hosszabb látogatáshoz.",
+                "ro": "Perfect pentru o vizită lungă.",
+                "en": "Perfect for a long indoor stay."
+              }
+            },
+            {
+              "name": "Castle Gardens",
+              "tip_5lang": {
+                "de": "Bleiben Sie im Auto, wenn es gießt.",
+                "hu": "Maradjon a kocsiban, ha szakad az eső.",
+                "ro": "Stați în mașină dacă plouă torențial.",
+                "en": "Stay in the car if it's pouring."
+              }
+            },
+            {
+              "name": "Hilden Brewery",
+              "tip_5lang": {
+                "de": "Ausreichend Parkplätze vor Ort.",
+                "hu": "Bőséges parkolóhely a helyszínen.",
+                "ro": "Parcare suficientă la locație.",
+                "en": "Ample parking available on-site."
+              }
+            },
+            {
+              "name": "Lagan Valley Island",
+              "tip_5lang": {
+                "de": "Blick auf den Fluss vom Parkplatz.",
+                "hu": "Kilátás a folyóra a parkolóból.",
+                "ro": "Vedere la râu din parcare.",
+                "en": "View of the river from the car park."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Das Graham Gardens Parkhaus ist zentral und trocken.",
+              "Nutzen Sie den Drive-thru Service lokaler Ketten.",
+              "Hilden Brewery bietet überdachte Eingänge.",
+              "Regenschirm immer im Kofferraum bereit halten."
+            ],
+            "hu": [
+              "A Graham Gardens parkolóház központi és száraz.",
+              "Használja a helyi láncok autós kiszolgálóit.",
+              "A Hilden sörfőzde fedett bejáratokkal bír.",
+              "Mindig legyen esernyő a csomagtartóban."
+            ],
+            "ro": [
+              "Parcarea Graham Gardens este centrală și uscată.",
+              "Utilizați serviciile drive-thru ale lanțurilor locale.",
+              "Hilden Brewery are intrări acoperite.",
+              "Țineți umbrela mereu în portbagaj."
+            ],
+            "en": [
+              "Graham Gardens car park is central and dry.",
+              "Utilize drive-thru services of local chains.",
+              "Hilden Brewery has covered entrance areas.",
+              "Always keep an umbrella ready in the boot."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winter-Tour durch Lisburn mit dem Komfort der Heizung. Starten Sie im Wallace Park und genießen Sie die Frostlandschaft vom Auto aus. Das Stadtzentrum lockt mit warmen Museen und der Kathedrale. Mittags ist das Leinenmuseum der gemütlichste Ort. Nachmittags besuchen Sie die Hilden Brewery, bevor Sie den Lagan im Abendlicht bewundern und den Tag warm beenden.",
+            "hu": "Téli túra Lisburnben a fűtés kényelmével. Kezdjen a Wallace Parkban, és csodálja a deres tájat az autóból. A városközpont meleg múzeumaival és a székesegyházzal várja. Délben a Lenmúzeum a legbarátságosabb hely. Délután látogassa meg a Hilden sörfőzdét, mielőtt megcsodálná a Lagant az esti fényekben.",
+            "ro": "Tur de iarnă în Lisburn cu confortul încălzirii. Începeți în Wallace Park și admirați peisajul înghețat din mașină. Centrul vă așteaptă cu muzee calde și Catedrala. La prânz, Muzeul Inului este cel mai primitor loc. După-amiaza vizitați Hilden Brewery înainte de a vedea râul în lumina serii.",
+            "en": "Winter tour of Lisburn with the comfort of car heating. Start at Wallace Park and enjoy the frost-covered landscape from your vehicle. The city centre beckons with warm museums and the Cathedral. Midday at the Linen Museum is the coziest choice. Afternoon visit to Hilden Brewery followed by admiring the Lagan in the twilight."
+          },
+          "stops": [
+            {
+              "name": "Wallace Park Car Park",
+              "tip_5lang": {
+                "de": "Vorsicht vor Eis auf der Zufahrt.",
+                "hu": "Vigyázzon a jégre a behajtónál.",
+                "ro": "Atenție la gheață pe drumul de acces.",
+                "en": "Watch out for ice on the access road."
+              }
+            },
+            {
+              "name": "City Centre Car Park",
+              "tip_5lang": {
+                "de": "Gut beleuchtetes Parkhaus.",
+                "hu": "Jól kivilágított parkolóház.",
+                "ro": "Parcare bine iluminată.",
+                "en": "Well-lit parking building for safety."
+              }
+            },
+            {
+              "name": "Castle Street & Cathedral",
+              "tip_5lang": {
+                "de": "Die Kathedrale ist angenehm temperiert.",
+                "hu": "A székesegyház kellemesen temperált.",
+                "ro": "Catedrala este încălzită moderat.",
+                "en": "The Cathedral is pleasantly tempered."
+              }
+            },
+            {
+              "name": "Irish Linen Centre & Lisburn Museum",
+              "tip_5lang": {
+                "de": "Garderobe für dicke Mäntel nutzen.",
+                "hu": "Használja a ruhatárat a kabátoknak.",
+                "ro": "Folosiți garderoba pentru haine.",
+                "en": "Use the cloakroom for heavy coats."
+              }
+            },
+            {
+              "name": "Castle Gardens",
+              "tip_5lang": {
+                "de": "Besuch der beleuchteten Statuen.",
+                "hu": "Látogassa meg a kivilágított szobrokat.",
+                "ro": "Vizitați statuile iluminate.",
+                "en": "Visit the illuminated statues at dusk."
+              }
+            },
+            {
+              "name": "Hilden Brewery",
+              "tip_5lang": {
+                "de": "Genießen Sie den Kaminofen.",
+                "hu": "Élvezze a kandallót.",
+                "ro": "Bucurați-vă de șemineu.",
+                "en": "Enjoy the roaring fireplace inside."
+              }
+            },
+            {
+              "name": "Lagan Valley Island",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Haupteingang.",
+                "hu": "Parkoljon közel a főbejárathoz.",
+                "ro": "Parcați aproape de intrarea principală.",
+                "en": "Park close to the main entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Straßen können morgens überfroren sein.",
+              "Graham Gardens Parkhaus ist nachts sicher.",
+              "Frühstück in der Hilden Brewery wärmt auf.",
+              "Die Parkuhr-Apps funktionieren auch im Auto."
+            ],
+            "hu": [
+              "Az utak reggel jegesek lehetnek.",
+              "A Graham Gardens parkolóház éjjel is biztonságos.",
+              "A reggeli a Hilden sörfőzdében jól átmelegít.",
+              "A parkolóautomaták appjai a kocsiból is működnek."
+            ],
+            "ro": [
+              "Drumurile pot fi înghețate dimineața.",
+              "Parcarea Graham Gardens este sigură noaptea.",
+              "Micul dejun la Hilden Brewery vă va încălzi.",
+              "Aplicațiile de parcare pot fi folosite din mașină."
+            ],
+            "en": [
+              "Roads can be icy in the early morning.",
+              "Graham Gardens car park is secure at night.",
+              "Breakfast at Hilden Brewery is very warming.",
+              "Parking apps allow payment from inside the car."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1508,6 +2126,188 @@
           "Buses in Northern Ireland are typically red; look for Translink Ulsterbus.",
           "Signal the driver when you see your bus approaching."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit Bus und Bahn entspannt durch das nasse Lisburn. Vom Buszentrum ist es nur ein kurzer Sprung zur Kathedrale. Das Leinenmuseum bietet mittags stundenlangen Schutz. Die Castle Gardens sind schnell erreichbar, wenn der Regen nachlässt. Den Nachmittag verbringen Sie im Island Arts Centre, bevor Sie bequem vom Wallace Park zurückfahren.",
+            "hu": "Busszal és vonattal kényelmesen az esős Lisburnben. A buszpályaudvartól csak egy ugrás a székesegyház. A Lenmúzeum délben órákig tartó menedéket nyújt. A várkert gyorsan elérhető, ha alábbhagy az eső. A délutánt töltse az Island Arts Centre-ben, majd utazzon vissza kényelmesen a Wallace Parktól.",
+            "ro": "Cu autobuzul și trenul prin Lisburnul ploios. De la autogară e doar un pas până la Catedrală. Muzeul Inului oferă adăpost ore în șir la prânz. Grădinile castelului sunt accesibile rapid când ploaia se oprește. După-amiaza vizitați Island Arts Centre, apoi plecați din Wallace Park.",
+            "en": "Relaxed transit tour through rainy Lisburn. It's a short hop from the Bus Centre to the Cathedral. The Linen Museum offers hours of shelter at midday. Castle Gardens are quickly accessible when the rain eases. Spend your afternoon at the Island Arts Centre before a convenient bus back from Wallace Park."
+          },
+          "stops": [
+            {
+              "name": "Lisburn Bus Centre",
+              "tip_5lang": {
+                "de": "Überdachte Wartebereiche vorhanden.",
+                "hu": "Fedett várótermek állnak rendelkezésre.",
+                "ro": "Sunt disponibile zone de așteptare acoperite.",
+                "en": "Covered waiting areas available."
+              }
+            },
+            {
+              "name": "Castle Street & Cathedral",
+              "tip_5lang": {
+                "de": "Haltestelle direkt an der Kirche.",
+                "hu": "Megálló közvetlenül a templomnál.",
+                "ro": "Stație chiar lângă biserică.",
+                "en": "Bus stop located right by the church."
+              }
+            },
+            {
+              "name": "Irish Linen Centre & Lisburn Museum",
+              "tip_5lang": {
+                "de": "WLAN und Cafeteria im Inneren.",
+                "hu": "Wifi és kávézó odabent.",
+                "ro": "Wi-Fi și cafenea la interior.",
+                "en": "Wi-Fi and cafeteria inside."
+              }
+            },
+            {
+              "name": "Castle Gardens",
+              "tip_5lang": {
+                "de": "Warten Sie im Museum, bis der Regen stoppt.",
+                "hu": "Várjon a múzeumban, míg eláll az eső.",
+                "ro": "Așteptați în muzeu până se oprește ploaia.",
+                "en": "Wait in the museum until the rain stops."
+              }
+            },
+            {
+              "name": "Island Arts Centre",
+              "tip_5lang": {
+                "de": "Bushaltestelle am Lagan Valley Island.",
+                "hu": "Buszmegálló a Lagan Valley Islandnél.",
+                "ro": "Stație de autobuz la Lagan Valley Island.",
+                "en": "Bus stop right at Lagan Valley Island."
+              }
+            },
+            {
+              "name": "Wallace Park",
+              "tip_5lang": {
+                "de": "Bahnhof Lisburn direkt am Parkausgang.",
+                "hu": "Lisburn állomás közvetlenül a parknál.",
+                "ro": "Gara Lisburn este chiar la ieșirea din parc.",
+                "en": "Lisburn station is right at the park exit."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Translink mLink App für Tickets.",
+              "Die Züge nach Belfast fahren alle 20 Minuten.",
+              "Die Busbahnhöfe sind gut gegen Wind geschützt.",
+              "Alle Busse sind barrierefrei und trocken."
+            ],
+            "hu": [
+              "Használja a Translink mLink appot a jegyekhez.",
+              "A vonatok Belfastba 20 percenként járnak.",
+              "A buszpályaudvarok védettek a szél ellen.",
+              "Minden busz akadálymentes és száraz."
+            ],
+            "ro": [
+              "Utilizați aplicația Translink mLink pentru bilete.",
+              "Trenurile spre Belfast circulă la fiecare 20 de minute.",
+              "Autogările sunt bine protejate de vânt.",
+              "Toate autobuzele sunt accesibile și uscate."
+            ],
+            "en": [
+              "Use the Translink mLink app for easy tickets.",
+              "Trains to Belfast run every 20 minutes.",
+              "The bus centre is well-shielded from the wind.",
+              "All buses are accessible and climate-controlled."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliche Entdeckung Lisburns mit warmen öffentlichen Verkehrsmitteln. Starten Sie im Buszentrum und besuchen Sie das festliche Stadtzentrum. Das Leinenmuseum ist mittags der wärmste Ort der Stadt. Nachmittags bietet das Island Arts Centre Kultur im Trockenen. Den Tag beenden Sie mit einem Winterspaziergang im Wallace Park, bevor der Zug Sie schnell nach Hause bringt.",
+            "hu": "Téli felfedezés Lisburnben fűtött tömegközlekedéssel. Kezdjen a buszpályaudvaron, és látogassa meg az ünnepi városközpontot. A Lenmúzeum délben a város legmelegebb pontja. Délután az Arts Centre kínál benti kultúrát. A napot zárja téli sétával a Wallace Parkban, mielőtt a vonat hazarepítené.",
+            "ro": "Explorare de iarnă în Lisburn cu transportul public încălzit. Începeți la autogară și vizitați centrul festiv. Muzeul Inului este cel mai cald loc din oraș la prânz. După-amiaza, Island Arts Centre oferă cultură la adăpost. Încheiați ziua cu o plimbare în Wallace Park înainte de tren.",
+            "en": "Winter discovery of Lisburn using warm public transport. Start at the Bus Centre and visit the festive city centre. The Linen Museum is the warmest spot in town at midday. Afternoon brings indoor culture at the Arts Centre. End the day with a winter walk in Wallace Park before the train takes you home."
+          },
+          "stops": [
+            {
+              "name": "Lisburn Bus Centre",
+              "tip_5lang": {
+                "de": "Fahrplan-Info im geheizten Foyer.",
+                "hu": "Menetrendi infó a fűtött előcsarnokban.",
+                "ro": "Informații despre program în foierul încălzit.",
+                "en": "Timetable info in the heated foyer."
+              }
+            },
+            {
+              "name": "Castle Street & Cathedral",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen den Stopps.",
+                "hu": "Rövid távolságok a megállók között.",
+                "ro": "Distanțe scurte între opriri.",
+                "en": "Short walking distances between stops."
+              }
+            },
+            {
+              "name": "Irish Linen Centre & Lisburn Museum",
+              "tip_5lang": {
+                "de": "Perfekt zum Aufwärmen zwischen Fahrten.",
+                "hu": "Remek hely felmelegedni az utak között.",
+                "ro": "Perfect pentru încălzire între călătorii.",
+                "en": "Perfect for warming up between rides."
+              }
+            },
+            {
+              "name": "Castle Gardens",
+              "tip_5lang": {
+                "de": "Frühzeitiger Aufbruch zum Bus empfohlen.",
+                "hu": "Javasolt korán elindulni a buszhoz.",
+                "ro": "Se recomandă plecarea timpurie spre autobuz.",
+                "en": "Early departure to the bus stop recommended."
+              }
+            },
+            {
+              "name": "Island Arts Centre",
+              "tip_5lang": {
+                "de": "Schöne Aussicht auf den winterlichen Lagan.",
+                "hu": "Szép kilátás a téli Laganra.",
+                "ro": "Vedere frumoasă spre râul Lagan iarna.",
+                "en": "Beautiful views of the winter Lagan."
+              }
+            },
+            {
+              "name": "Wallace Park",
+              "tip_5lang": {
+                "de": "Bahnhofseingang ist direkt am Park.",
+                "hu": "Az állomás bejárata közvetlenül a parknál van.",
+                "ro": "Intrarea gării este chiar lângă parc.",
+                "en": "The station entrance is right by the park."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterfahrplan beachten, weniger Busse am Abend.",
+              "Die mLink-App spart Zeit am kalten Automaten.",
+              "Busse sind im Winter meist sehr gut beheizt.",
+              "Der Bahnhof Lisburn hat ein Café zum Warten."
+            ],
+            "hu": [
+              "Figyeljen a téli menetrendre, este kevesebb busz jár.",
+              "Az mLink appal elkerülhető a várakozás az automatánál.",
+              "A buszok télen általában jól fűtöttek.",
+              "A lisburni vasútállomáson van kávézó a várakozáshoz."
+            ],
+            "ro": [
+              "Verificați programul de iarnă, sunt mai puține autobuze seara.",
+              "Aplicația mLink vă scutește de statul la automat.",
+              "Autobuzele sunt de obicei bine încălzite iarna.",
+              "Gara Lisburn are o cafenea unde puteți aștepta."
+            ],
+            "en": [
+              "Check winter timetables; fewer buses run in the evening.",
+              "mLink app avoids waiting at cold ticket machines.",
+              "Buses are usually very well heated in winter.",
+              "Lisburn train station has an indoor cafe for waiting."
+            ]
+          }
+        }
       }
     }
   }

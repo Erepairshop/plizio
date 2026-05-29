@@ -323,6 +323,206 @@
           "A water bottle is essential, especially for the hike up the hills.",
           "The locals are friendly; don't hesitate to ask for directions."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen in Breaza beginnt erfrischend im Stadtpark, wo die hohen Bäume den ersten Tropfen trotzen. Mittags bieten das Kulturzentrum und die St.-Nikolaus-Kirche trockene Zuflucht und spirituelle Ruhe. Der Nachmittag gehört der Architektur, während die Villen im Nebel fast mystisch wirken. Abends blicken wir trotz Wolken von den Hügeln auf das glitzernde Tal hinab.",
+            "hu": "Az esős reggel Breazában friss ózonillattal indul a parkban, ahol a fák koronája véd az első cseppektől. Délben a kultúrház és a Szent Miklós-templom nyújt száraz menedéket. Délután a patinás villák között sétálunk, melyek a párában egészen misztikus látványt nyújtanak. Az este a Gurga-dombon ér minket, ahol a sár ellenére a kilátás a völgyre kárpótol mindenért.",
+            "ro": "O dimineață ploioasă în Breaza începe cu aer curat în parcul central, unde copacii oferă o protecție naturală. La prânz, Centrul Cultural și Biserica Sf. Nicolae sunt refugii perfecte și uscate. După-amiaza este dedicată vilelor interbelice, care par desprinse din basme prin ceață. Seara se încheie pe dealurile din jur, privind valea Prahovei sub mantia norilor.",
+            "en": "A rainy morning in Breaza starts with the fresh scent of ozone in the park, where old trees provide some cover. Midday is best spent inside the Cultural Center and St. Nicholas Church to stay dry. In the afternoon, the traditional villas look mystical through the mist. The day ends on the hills, where despite the clouds, the view over the valley remains impressive."
+          },
+          "stops": [
+            {
+              "name": "Breaza Park",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Musikpavillon als trockenen Aussichtspunkt.",
+                "hu": "Használja a zenepavilont száraz pihenőhelyként.",
+                "ro": "Folosiți pavilionul muzical ca punct de observație uscat.",
+                "en": "Use the music pavilion as a dry observation point."
+              }
+            },
+            {
+              "name": "Heroes' Monument",
+              "tip_5lang": {
+                "de": "Kurzer Stopp; der Boden kann bei Nässe rutschig sein.",
+                "hu": "Rövid megálló; a burkolat vizesen csúszós lehet.",
+                "ro": "Oprire scurtă; pavajul poate fi alunecos pe ploaie.",
+                "en": "Short stop; the pavement can be slippery when wet."
+              }
+            },
+            {
+              "name": "Ion Manolescu Cultural Center",
+              "tip_5lang": {
+                "de": "Idealer Ort, um eine Regenpause bei einer Ausstellung einzulegen.",
+                "hu": "Ideális hely egy esőszünetre egy kiállítás megtekintése közben.",
+                "ro": "Loc ideal pentru o pauză de ploaie vizitând o expoziție.",
+                "en": "Ideal place for a rain break while visiting an exhibition."
+              }
+            },
+            {
+              "name": "Saint Nicholas Church",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Innenmalereien, während es draußen regnet.",
+                "hu": "Csodálja meg a belső festményeket, amíg kint esik.",
+                "ro": "Admirați picturile interioare în timp ce afară plouă.",
+                "en": "Admire the interior paintings while it rains outside."
+              }
+            },
+            {
+              "name": "Tour of Traditional Villas",
+              "tip_5lang": {
+                "de": "Die Villen haben oft große Dachüberstände zum Unterstellen.",
+                "hu": "A villák ereszaljai gyakran nyújtanak némi védelmet.",
+                "ro": "Ereșurile vilelor oferă adesea protecție temporară.",
+                "en": "The eaves of the villas often provide temporary shelter."
+              }
+            },
+            {
+              "name": "Gurga Hill",
+              "tip_5lang": {
+                "de": "Vorsicht, der Pfad wird bei Regen sehr schlammig.",
+                "hu": "Vigyázat, az ösvény esőben nagyon sáros lesz.",
+                "ro": "Atenție, poteca devine foarte noroioasă pe ploaie.",
+                "en": "Careful, the path becomes very muddy in the rain."
+              }
+            },
+            {
+              "name": "Gura Beliei Viewpoint",
+              "tip_5lang": {
+                "de": "Tief hängende Wolken erzeugen hier eine tolle Fotostimmung.",
+                "hu": "Az alacsonyan szálló felhők remek fotótémát adnak itt.",
+                "ro": "Norii joși creează o atmosferă excelentă pentru fotografii.",
+                "en": "Low-hanging clouds create a great atmosphere for photos."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Wanderschuhe für die Hügelwege.",
+              "Ein stabiler Regenschirm ist bei den Windböen am Hang nötig.",
+              "Das Ion Manolescu Zentrum ist der beste Ort zum Aufwärmen.",
+              "Die Aussichtspunkte sind bei Nebel besonders atmosphärisch."
+            ],
+            "hu": [
+              "Vízálló túrabakancs kötelező a domboldali ösvényekhez.",
+              "Erős esernyő kell a gerincen tapasztalható széllökések miatt.",
+              "Az Ion Manolescu központ a legjobb hely a kiszáradáshoz.",
+              "A kilátópontok ködben különleges fotóhangulatot árasztanak."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru potecile de pe deal.",
+              "O umbrelă rezistentă e necesară din cauza vântului de pe coastă.",
+              "Centrul Ion Manolescu este cel mai bun loc pentru a vă usca.",
+              "Punctele de belvedere sunt foarte atmosferice pe ceață."
+            ],
+            "en": [
+              "Wear waterproof hiking boots for the hillside paths.",
+              "A sturdy umbrella is needed due to wind gusts on the ridge.",
+              "The Ion Manolescu center is the best place to dry off.",
+              "The viewpoints offer a unique atmosphere during foggy rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintermorgen in Breaza begrüßt Sie mit kristallklarer Bergluft und oft schneebedeckten Villendächern. Mittags wärmt man sich im Kulturzentrum auf, bevor man die Stille des Parks genießt. Der Nachmittag bietet einen Aufstieg zum Gurga-Hügel, wo die tiefstehende Sonne den Schnee glitzern lässt. Abends kehrt man früh ein, wenn die Dämmerung das Prahova-Tal in blaues Licht taucht.",
+            "hu": "A téli reggel Breazában kristálytiszta hegyi levegővel és hófödte tetőkkel vár. Délben a kulturális központ melegében pihenünk meg, mielőtt a csendes parkba indulnánk. A délutáni túra a Gurga-dombra igazi élmény, ahogy a lemenő nap megcsillan a havon. Az este korán érkezik, kék fénybe vonva a Prahova-völgyet a korai naplemente idején.",
+            "ro": "O dimineață de iarnă în Breaza vă întâmpină cu aer cristalin de munte și acoperișuri ninse. La prânz, căldura Centrului Cultural este binevenită înainte de o plimbare prin parcul tăcut. După-amiaza oferă o urcare pe dealul Gurga, unde zăpada sclipește sub soarele palid. Seara coboară devreme, pictând valea Prahovei în nuanțe de albastru.",
+            "en": "A winter morning in Breaza welcomes you with crystal clear mountain air and snow-covered roofs. Midday is perfect for warming up in the Cultural Center before enjoying the silent park. The afternoon hike to Gurga Hill is rewarding as the low sun makes the snow glisten. Evening arrives early, bathing the Prahova Valley in deep blue light."
+          },
+          "stops": [
+            {
+              "name": "Breaza Park",
+              "tip_5lang": {
+                "de": "Die verschneiten Alleen sind perfekt für Winterfotos.",
+                "hu": "A havas sétányok tökéletesek téli fotókhoz.",
+                "ro": "Aleile înzăpezite sunt perfecte pentru fotografii de iarnă.",
+                "en": "The snowy alleys are perfect for winter photography."
+              }
+            },
+            {
+              "name": "Heroes' Monument",
+              "tip_5lang": {
+                "de": "Der Stein kann bei Frost sehr glatt sein, Vorsicht.",
+                "hu": "A kőburkolat fagyban nagyon csúszhat, óvatosan.",
+                "ro": "Piatra poate fi foarte alunecoasă pe îngheț, atenție.",
+                "en": "The stone can be very slippery in frost, be careful."
+              }
+            },
+            {
+              "name": "Ion Manolescu Cultural Center",
+              "tip_5lang": {
+                "de": "Holen Sie sich hier Tipps zu lokalen Winterveranstaltungen.",
+                "hu": "Kérjen itt tippeket a helyi téli rendezvényekről.",
+                "ro": "Cereți aici informații despre evenimentele locale de iarnă.",
+                "en": "Get tips here about local winter events and festivals."
+              }
+            },
+            {
+              "name": "Saint Nicholas Church",
+              "tip_5lang": {
+                "de": "Ein Ort der Wärme und Stille an kalten Tagen.",
+                "hu": "A meleg és a csend szigete a hideg napokon.",
+                "ro": "Un loc de căldură și liniște în zilele geroase.",
+                "en": "A place of warmth and silence on cold winter days."
+              }
+            },
+            {
+              "name": "Tour of Traditional Villas",
+              "tip_5lang": {
+                "de": "Achten Sie auf die beeindruckenden Eiszapfen an den Dächern.",
+                "hu": "Figyelje meg az impozáns jégcsapokat a tetőkön.",
+                "ro": "Observați țurțurii spectaculoși de la streșini.",
+                "en": "Observe the impressive icicles hanging from the roofs."
+              }
+            },
+            {
+              "name": "Gurga Hill",
+              "tip_5lang": {
+                "de": "Feste Schuhe nötig; der Pfad kann vereist sein.",
+                "hu": "Bakancs szükséges; az ösvény jeges lehet.",
+                "ro": "Bocanci necesari; poteca poate fi înghețată.",
+                "en": "Boots are required; the path can be icy in places."
+              }
+            },
+            {
+              "name": "Gura Beliei Viewpoint",
+              "tip_5lang": {
+                "de": "Bester Platz für den Sonnenuntergang um ca. 16:30 Uhr.",
+                "hu": "Legjobb hely a naplemente megtekintéséhez 16:30 körül.",
+                "ro": "Cel mai bun loc pentru apus, în jur de ora 16:30.",
+                "en": "Best spot for the sunset around 4:30 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich nach dem Zwiebelprinzip für die Kälte.",
+              "Die Sonne geht im Dezember bereits gegen 16:30 Uhr unter.",
+              "Ein Thermosbecher mit heißem Tee ist auf dem Hügel Gold wert.",
+              "Einige Wege zu den Aussichtspunkten werden nicht geräumt."
+            ],
+            "hu": [
+              "Öltözzön rétegesen a fagyos hegyi szél miatt.",
+              "A nap decemberben már 16:30 körül nyugovóra tér.",
+              "Egy termosz forró tea aranyat ér a Gurga-dombon.",
+              "A kilátókhoz vezető ösvényeket nem mindig takarítják."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi pentru vântul rece de munte.",
+              "Soarele apune în decembrie deja în jurul orei 16:30.",
+              "Un termos cu ceai cald este esențial pe dealul Gurga.",
+              "Unele poteci spre punctele de belvedere nu sunt deszăpezite."
+            ],
+            "en": [
+              "Dress in layers to combat the cold mountain wind.",
+              "The sun sets as early as 4:30 PM in December.",
+              "A thermos of hot tea is worth its weight in gold on the hill.",
+              "Some paths to the viewpoints are not cleared of snow."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -601,6 +801,188 @@
           "A helmet and water are essential.",
           "Always lock your bike when leaving it unattended."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regnerisches Radeln in Breaza beginnt am Golfclub, wo der Asphalt noch gut greift. Mittags suchen wir Schutz unter den Arkaden am Stadtzentrum. Die Fahrt zu den Villen erfordert Vorsicht bei nassen Kurven. Der Aufstieg zum Gurga-Hügel wird zur Schlammschlacht, aber die Abfahrt durch den Regen bietet einen echten Adrenalinkick vor dem Abend.",
+            "hu": "Az esős bringázás a golfklubnál indul, ahol az aszfalt még jól tapad. Délben a városközpont árkádjai alatt pihenünk meg. A villák közötti tekerés óvatosságot igényel a vizes kanyarokban. A Gurga-dombra való feljutás sáros kaland lesz, de az esőben való száguldás a völgy felé igazi adrenalinlöketet ad az este előtt.",
+            "ro": "Ciclismul pe ploaie în Breaza începe la clubul de golf, unde asfaltul are încă aderență. La prânz căutăm adăpost sub arcadele din centrul orașului. Drumul spre vile necesită prudență în curbele umede. Urcarea pe dealul Gurga devine o aventură prin noroi, dar coborârea prin ploaie oferă un plus de adrenalină înainte de seară.",
+            "en": "Rainy cycling in Breaza starts at the golf club, where the asphalt still has good grip. Midday is for resting under the arches in the town center. Riding past the villas requires caution in wet corners. The climb to Gurga Hill becomes a muddy adventure, but the descent through the rain provides a real adrenaline rush before evening."
+          },
+          "stops": [
+            {
+              "name": "Paul Tomiță Golf Club",
+              "tip_5lang": {
+                "de": "Das Clubhaus bietet Schutz bei plötzlichen Schauern.",
+                "hu": "A klubház védelmet nyújt hirtelen zápor esetén.",
+                "ro": "Clubul oferă adăpost în caz de averse bruște.",
+                "en": "The clubhouse provides shelter during sudden showers."
+              }
+            },
+            {
+              "name": "Breaza Park",
+              "tip_5lang": {
+                "de": "Vorsicht vor nassen Blättern auf den Radwegen.",
+                "hu": "Vigyázzon a vizes levelekre a kerékpárúton.",
+                "ro": "Atenție la frunzele ude pe pistele de biciclete.",
+                "en": "Watch out for wet leaves on the cycling paths."
+              }
+            },
+            {
+              "name": "St. Nicholas Church & Cultural Center",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich zum Parken.",
+                "hu": "Használja a fedett bejáratot a bringák leállításához.",
+                "ro": "Folosiți zona acoperită de la intrare pentru parcare.",
+                "en": "Use the covered entrance area for bicycle parking."
+              }
+            },
+            {
+              "name": "Lunch and Tour of Traditional Villas",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit überdachter Terrasse.",
+                "hu": "Válasszon fedett teraszos éttermet az ebédhez.",
+                "ro": "Alegeți un restaurant cu terasă acoperită pentru prânz.",
+                "en": "Choose a restaurant with a covered terrace for lunch."
+              }
+            },
+            {
+              "name": "Gurga Hill",
+              "tip_5lang": {
+                "de": "Extremer Schlamm; nur für erfahrene Mountainbiker.",
+                "hu": "Erős sár; csak gyakorlott terepbringásoknak.",
+                "ro": "Noroi extrem; doar pentru bicicliști cu experiență.",
+                "en": "Extreme mud; recommended only for experienced riders."
+              }
+            },
+            {
+              "name": "Gura Beliei Viewpoint",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor der nassen Abfahrt.",
+                "hu": "Ellenőrizze a fékeket a vizes lejtő előtt.",
+                "ro": "Verificați frânele înainte de coborârea pe ud.",
+                "en": "Check your brakes before the wet descent."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind bei diesem Wetter unverzichtbar.",
+              "Vermeiden Sie plötzliches Bremsen auf nassem Kopfsteinpflaster.",
+              "Tragen Sie eine neongelbe Regenjacke für bessere Sichtbarkeit.",
+              "Die Bergpfade können nach starkem Regen unpassierbar sein."
+            ],
+            "hu": [
+              "Sárvédő nélkül ne induljon el ebben az időben.",
+              "Kerülje a hirtelen fékezést a vizes macskakövön.",
+              "Viseljen neon esőkabátot a jobb láthatóság érdekében.",
+              "A hegyi utak nagy eső után járhatatlanná válhatnak."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt indispensabile pe acestă vreme.",
+              "Evitați frânările bruște pe porțiunile cu piatră cubică.",
+              "Purtați o jachetă de ploaie reflectorizantă pentru vizibilitate.",
+              "Potecile de munte pot fi impracticabile după ploi grele."
+            ],
+            "en": [
+              "Mudguards are indispensable in this kind of weather.",
+              "Avoid sudden braking on wet cobblestone sections.",
+              "Wear a neon rain jacket for better visibility to drivers.",
+              "Mountain paths might be impassable after heavy rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in Breaza verlangt warme Ausrüstung für den Fahrtwind am Morgen. Mittags wärmt die Sonne oft die Hauptstraßen, während die Nebenwege im Schatten gefroren bleiben. Der Nachmittagstest am Gurga-Hügel belohnt mit Panoramablicken auf die schneebedeckten Karpaten. Abends sorgt die kalte Luft für eine schnelle Heimfahrt, bevor die Dunkelheit einsetzt.",
+            "hu": "A téli bringázáshoz Breazában meleg felszerelés kell a reggeli menetszél ellen. Délben a nap gyakran felszárítja a főutakat, de az árnyékos mellékutcák jegesek maradhatnak. A délutáni Gurga-dombi tekerés jutalma a havas Kárpátok panorámája. Este a metsző hideg gyors hazatekerésre ösztönöz, még a sötétség beállta előtt.",
+            "ro": "Ciclismul de iarnă în Breaza necesită echipament termic contra vântului de dimineață. La prânz, soarele dezgheață drumurile principale, dar ulițele rămân înghețate. Testul de după-amiază spre dealul Gurga e răsplătit cu panorama Carpaților înzăpeziți. Seara, aerul tăios vă îndeamnă la un drum rapid spre casă înainte de întuneric.",
+            "en": "Winter cycling in Breaza requires thermal gear against the morning wind chill. Midday sun often thaws the main roads, but shaded side streets remain icy. The afternoon test up Gurga Hill rewards you with a panorama of the snowy Carpathians. Evening cold encourages a quick ride back home before darkness falls."
+          },
+          "stops": [
+            {
+              "name": "Paul Tomiță Golf Club",
+              "tip_5lang": {
+                "de": "Die Zufahrtsstraße kann morgens glatt sein.",
+                "hu": "A bekötőút reggelente jeges, csúszós lehet.",
+                "ro": "Drumul de acces poate fi poleit dimineața.",
+                "en": "The access road can be icy in the early morning."
+              }
+            },
+            {
+              "name": "Breaza Park",
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den geräumten Wegen.",
+                "hu": "Óvatosan tekerjen a letakarított utakon.",
+                "ro": "Mergeți cu prudență pe aleile curățate.",
+                "en": "Ride carefully on the cleared park paths."
+              }
+            },
+            {
+              "name": "St. Nicholas Church & Cultural Center",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp zum Aufwärmen der Finger.",
+                "hu": "Rövid megálló az ujjak felmelegítésére.",
+                "ro": "O oprire scurtă pentru a vă încălzi mâinile.",
+                "en": "A short stop to warm up your fingers."
+              }
+            },
+            {
+              "name": "Lunch and Tour of Traditional Villas",
+              "tip_5lang": {
+                "de": "Suchen Sie sich einen Platz nah am Heizkörper.",
+                "hu": "Keressen egy helyet a fűtőtest közelében.",
+                "ro": "Căutați un loc lângă calorifer în restaurant.",
+                "en": "Look for a table near the heater in the restaurant."
+              }
+            },
+            {
+              "name": "Gurga Hill",
+              "tip_5lang": {
+                "de": "Schnee am Hang macht das Treten sehr anstrengend.",
+                "hu": "A hó a domboldalon nagyon megnehezíti a tekerést.",
+                "ro": "Zăpada de pe pantă face pedalatul foarte solicitant.",
+                "en": "Snow on the slope makes pedaling very strenuous."
+              }
+            },
+            {
+              "name": "Gura Beliei Viewpoint",
+              "tip_5lang": {
+                "de": "Genießen Sie die kalte, klare Fernsicht.",
+                "hu": "Élvezze a hideg, tiszta távoli kilátást.",
+                "ro": "Bucurați-vă de vizibilitatea clară și rece.",
+                "en": "Enjoy the cold and crystal-clear long-distance view."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen für das Fahrrad bieten besseren Halt.",
+              "Vermeiden Sie gefrorene Pfützen in schattigen Kurven.",
+              "Licht am Rad ist ab 16:00 Uhr absolut notwendig.",
+              "Thermo-Handschuhe schützen vor Taubheitsgefühlen."
+            ],
+            "hu": [
+              "A téli gumik jobb tapadást biztosítanak a bringának.",
+              "Kerülje a befagyott tócsákat az árnyékos kanyarokban.",
+              "A világítás 16:00 után már kötelező.",
+              "A termokeresztyűk megvédenek az ujjak elgémberedésétől."
+            ],
+            "ro": [
+              "Anvelopele de iarnă oferă o aderență mai bună.",
+              "Evitați bălțile înghețate în curbele umbrite.",
+              "Luminile bicicletei sunt obligatorii după ora 16:00.",
+              "Mănușile termice previn amorțirea degetelor."
+            ],
+            "en": [
+              "Winter tires for your bike offer much better grip.",
+              "Avoid frozen puddles in shaded corners.",
+              "Bike lights are absolutely necessary after 4:00 PM.",
+              "Thermal gloves prevent your fingers from going numb."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -925,6 +1307,206 @@
           "Plan your drives between clusters to avoid peak traffic.",
           "Always take your valuables with you from the car."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto durch das regnerische Breaza zu fahren, ist die komfortabelste Wahl. Morgens erreichen Sie den Golfclub trocken, während draußen der Regen prasselt. Mittags parken wir direkt an den Sehenswürdigkeiten im Zentrum. Die Fahrt zu den Aussichtspunkten bietet dramatische Ausblicke durch die Wischerblätter. Abends genießen wir die gemütliche Fahrt durch das beleuchtete, nasse Städtchen.",
+            "hu": "Az esős Breazát autóval felfedezni a legkényelmesebb választás. Reggel szárazon érjük el a golfklubot, miközben kint kopog az eső. Délben közvetlenül a központ látnivalói mellett parkolhatunk. A kilátópontok felé vezető úton drámai látvány tárul elénk az ablaktörlők mögül. Az este folyamán élvezzük a kényelmes autózást a kivilágított, vizes városkában.",
+            "ro": "Explorarea orașului Breaza pe ploaie cu mașina este cea mai confortabilă opțiune. Dimineața ajungeți la clubul de golf uscați, în timp ce afară plouă. La prânz parcăm chiar lângă obiectivele din centru. Drumul spre punctele de belvedere oferă cadre dramatice prin parbriz. Seara ne bucurăm de o plimbare relaxantă prin orășelul luminat și ud.",
+            "en": "Exploring rainy Breaza by car is the most comfortable choice. In the morning, you reach the golf club dry while the rain drums outside. Midday allows parking right next to the town center attractions. The drive to the viewpoints offers dramatic vistas through the wiper blades. In the evening, enjoy a cozy drive through the lit, wet town."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Paul Tomiță Golf Club",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um trocken zu bleiben.",
+                "hu": "Parkoljon közel a bejárathoz, hogy száraz maradjon.",
+                "ro": "Parcați aproape de intrare pentru a rămâne uscat.",
+                "en": "Park close to the entrance to stay dry."
+              }
+            },
+            {
+              "name": "Cluster 2: Gura Beliei & Gurga Hill",
+              "tip_5lang": {
+                "de": "Die Straßen zum Aussichtspunkt können rutschig sein.",
+                "hu": "A kilátóhoz vezető utak csúszósak lehetnek.",
+                "ro": "Drumurile spre belvedere pot fi alunecoase.",
+                "en": "The roads to the viewpoints can be slippery."
+              }
+            },
+            {
+              "name": "Walk to Gurga Hill",
+              "tip_5lang": {
+                "de": "Lassen Sie die nassen Schirme im Kofferraum.",
+                "hu": "Hagyja a vizes ernyőket a csomagtartóban.",
+                "ro": "Lăsați umbrelele ude în portbagaj.",
+                "en": "Leave the wet umbrellas in the trunk."
+              }
+            },
+            {
+              "name": "Cluster 3: Town Center & Lunch",
+              "tip_5lang": {
+                "de": "Zentrale Parkplätze sind bei Regen schnell belegt.",
+                "hu": "A központi parkolók esőben hamar megtelnek.",
+                "ro": "Parcările centrale se ocupă repede pe ploaie.",
+                "en": "Central parking spots fill up quickly in the rain."
+              }
+            },
+            {
+              "name": "Walk to St. Nicholas Church",
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Parkplatz reicht meist aus.",
+                "hu": "Egy rövid sprint a parkolóból általában elég.",
+                "ro": "Un sprint scurt din parcare este de ajuns.",
+                "en": "A short sprint from the parking spot is usually enough."
+              }
+            },
+            {
+              "name": "Walk to Breaza Park",
+              "tip_5lang": {
+                "de": "Genießen Sie den Park-Blick aus dem Auto heraus.",
+                "hu": "Élvezze a park látványát az autóból.",
+                "ro": "Bucurați-vă de vederea parcului din mașină.",
+                "en": "Enjoy the park views from inside the car."
+              }
+            },
+            {
+              "name": "Tour of Traditional Villas",
+              "tip_5lang": {
+                "de": "Perfekt für eine Sightseeing-Runde im Trockenen.",
+                "hu": "Tökéletes egy száraz városnéző körhöz.",
+                "ro": "Perfect pentru un tur de oraș la adăpost.",
+                "en": "Perfect for a sightseeing loop while staying dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf der Hauptstraße DN1.",
+              "Beschlagene Scheiben stören die Sicht auf die Villen.",
+              "Halten Sie Abstand zu Fußgängern an Pfützen.",
+              "Nutzen Sie die Parkplätze direkt vor den Restaurants."
+            ],
+            "hu": [
+              "Ügyeljen a vízátfolyásokra a DN1-es főúton.",
+              "A párásodó szélvédő ronthatja a kilátást a villákra.",
+              "Tartson távolságot a gyalogosoktól a tócsáknál.",
+              "Használja az éttermek közvetlen parkolóit."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumul principal DN1.",
+              "Aburirea geamurilor poate limita vizibilitatea.",
+              "Păstrați distanța față de pietoni lângă bălți.",
+              "Folosiți parcările din fața restaurantelor."
+            ],
+            "en": [
+              "Watch out for aquaplaning on the DN1 main road.",
+              "Foggy windows can block your view of the villas.",
+              "Keep your distance from pedestrians near puddles.",
+              "Use the parking spots right in front of restaurants."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintertour mit dem Auto durch Breaza bietet Sicherheit und Wärme. Morgens gleiten wir über oft geräumte Straßen zum Golfclub. Mittags ist das Parken im Zentrum unkompliziert, und die Wege zu den Kirchen sind kurz. Der Nachmittag bringt uns sicher zu den Bergpanoramen, während die Heizung läuft. Abends bewundern wir die Weihnachtsbeleuchtung der Villen aus dem warmen Cockpit.",
+            "hu": "A téli autós túra Breazában biztonságot és meleget nyújt. Reggel a letakarított utakon gurulunk a golfklubhoz. Délben a központi parkolás egyszerű, a templomokhoz vezető út pedig rövid. A délután folyamán a fűtött utastérből csodálhatjuk a hegyi panorámát. Este a villák karácsonyi kivilágításában gyönyörködhetünk a meleg autóból.",
+            "ro": "Turul de iarnă cu mașina prin Breaza oferă siguranță și căldură. Dimineața rulăm pe drumuri deszăpezite spre clubul de golf. La prânz parcarea în centru e facilă, iar drumul spre biserici e scurt. După-amiaza ne aduce în siguranță spre panoramele montane. Seara admirăm iluminatul festiv al vilelor din interiorul cald al mașinii.",
+            "en": "A winter car tour through Breaza offers safety and warmth. In the morning, we glide over cleared roads to the golf club. Midday parking in the center is easy, and walks to the churches are short. The afternoon safely brings us to mountain panoramas while the heater runs. In the evening, admire the festive villa lights from your warm seat."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Paul Tomiță Golf Club",
+              "tip_5lang": {
+                "de": "Prüfen Sie, ob der Parkplatz geräumt ist.",
+                "hu": "Ellenőrizze, hogy a parkoló le van-e takarítva.",
+                "ro": "Verificați dacă parcarea este deszăpezită.",
+                "en": "Check if the parking lot has been cleared of snow."
+              }
+            },
+            {
+              "name": "Cluster 2: Gura Beliei & Gurga Hill",
+              "tip_5lang": {
+                "de": "Die Steigung kann bei Eis tückisch sein.",
+                "hu": "Az emelkedő jeges időben csalóka lehet.",
+                "ro": "Panta poate fi înșelătoare pe polei.",
+                "en": "The incline can be treacherous if there is ice."
+              }
+            },
+            {
+              "name": "Walk to Gurga Hill",
+              "tip_5lang": {
+                "de": "Schütteln Sie den Schnee vor dem Einsteigen ab.",
+                "hu": "Rázza le a havat a cipőjéről beszállás előtt.",
+                "ro": "Scuturați zăpada de pe încălțăminte la urcare.",
+                "en": "Shake the snow off your boots before getting in."
+              }
+            },
+            {
+              "name": "Cluster 3: Town Center & Lunch",
+              "tip_5lang": {
+                "de": "Warme Parkhäuser gibt es hier nicht, nur Außenplätze.",
+                "hu": "Itt nincsenek fűtött garázsok, csak kinti helyek.",
+                "ro": "Nu există parcări subterane calde, doar exterioare.",
+                "en": "There are no heated garages here, only outdoor spots."
+              }
+            },
+            {
+              "name": "Walk to St. Nicholas Church",
+              "tip_5lang": {
+                "de": "Vorsicht vor herabfallendem Schnee von den Dächern.",
+                "hu": "Vigyázzon a tetőkről lezúduló hóra.",
+                "ro": "Atenție la zăpada care poate cădea de pe acoperiș.",
+                "en": "Watch out for snow sliding off the roofs."
+              }
+            },
+            {
+              "name": "Walk to Breaza Park",
+              "tip_5lang": {
+                "de": "Kurze Fahrten belasten die Batterie bei Kälte.",
+                "hu": "A rövid utak megterhelik az akkumulátort hidegben.",
+                "ro": "Drumurile scurte solicită bateria pe ger.",
+                "en": "Short trips can strain the battery in freezing cold."
+              }
+            },
+            {
+              "name": "Tour of Traditional Villas",
+              "tip_5lang": {
+                "de": "Langsame Fahrt erlaubt beste Blicke auf die Fassaden.",
+                "hu": "A lassú haladás segíti a homlokzatok megfigyelését.",
+                "ro": "Viteza redusă permite observarea fațadelor.",
+                "en": "Slow driving allows the best views of the facades."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in dieser Region Pflicht.",
+              "Führen Sie einen Eiskratzer und Frostschutzmittel mit.",
+              "Planen Sie mehr Zeit für das Freimachen des Autos ein.",
+              "Die Bergstraßen können bei Neuschnee gesperrt sein."
+            ],
+            "hu": [
+              "Téli gumi kötelező ebben a hegyvidéki régióban.",
+              "Tartson az autóban jégkaparót és fagyállót.",
+              "Számoljon több időt az autó jégtelenítésére.",
+              "A hegyi utakat friss hó esetén lezárhatják."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii în această regiune.",
+              "Aveți mereu o racletă și lichid de parbriz de iarnă.",
+              "Alocați mai mult timp pentru dezghețarea mașinii.",
+              "Drumurile spre dealuri pot fi închise la ninsoare mare."
+            ],
+            "en": [
+              "Winter tires are mandatory in this mountain region.",
+              "Keep an ice scraper and antifreeze in the car.",
+              "Allow extra time for defrosting the vehicle.",
+              "Mountain roads may be closed during heavy snowfall."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1209,6 +1791,188 @@
           "Check the bus schedule in advance.",
           "Have some small change ready for tickets."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Öffentliche Verkehrsmittel in Breaza sind bei Regen eine gute Wahl, um zwischen den Clustern trocken zu bleiben. Morgens starten wir im Stadtzentrum, wo die Wartehäuschen Schutz bieten. Mittags nutzen wir kurze Busfahrten zur Kirche und zum Park. Der Nachmittag an den Hügeln erfordert zwar Fußwege, aber die Busse bringen uns danach schnell zurück in die Wärme. Abends endet die Tour gemütlich im beleuchteten Zentrum.",
+            "hu": "A tömegközlekedés Breazában esőben jó választás a távolabbi pontok összekötésére. Reggel a városközpontban kezdünk, ahol a várók fedettek. Délben rövid buszutakkal jutunk el a templomhoz és a parkhoz. A délutáni dombvidéki rész gyaloglást igényel, de a buszok utána gyorsan visszavisznek a melegbe. Az este a kivilágított központban zárul.",
+            "ro": "Transportul public din Breaza este util pe ploaie pentru a evita mersul pe jos între zone. Dimineața începem în centrul orașului sub protecția stațiilor acoperite. La prânz folosim microbuzele pentru a ajunge la biserică și parc. După-amiaza pe dealuri implică mers pe jos, dar transportul ne readuce rapid la căldură. Seara se încheie în centrul luminat.",
+            "en": "Public transit in Breaza is a solid choice during rain to stay dry between clusters. In the morning, start in the town center where bus shelters provide cover. Midday involves short transit rides to the church and park. The afternoon hillside section requires walking, but buses will quickly bring you back to warmth afterwards. Evening ends in the lit center."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Town Center",
+              "tip_5lang": {
+                "de": "Zentraler Knotenpunkt mit vielen Unterstellmöglichkeiten.",
+                "hu": "Központi csomópont sok fedett várakozóhellyel.",
+                "ro": "Nod central cu multe locuri de adăpost.",
+                "en": "Central hub with many places to take cover."
+              }
+            },
+            {
+              "name": "Walk to St. Nicholas Church",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle ist nur wenige Meter entfernt.",
+                "hu": "A buszmegálló csak pár méterre van innen.",
+                "ro": "Stația de autobuz este la doar câțiva metri.",
+                "en": "The bus stop is only a few meters away from here."
+              }
+            },
+            {
+              "name": "Walk to Breaza Park & Lunch",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Bus, um nicht durch den nassen Park zu laufen.",
+                "hu": "Használja a buszt, hogy ne kelljen a vizes parkon átvágni.",
+                "ro": "Luați microbuzul pentru a evita traversarea parcului ud.",
+                "en": "Take the bus to avoid walking through the wet park."
+              }
+            },
+            {
+              "name": "Cluster 2: Hill Viewpoints",
+              "tip_5lang": {
+                "de": "Hier fahren weniger Busse; planen Sie nach Fahrplan.",
+                "hu": "Itt ritkább a közlekedés; nézze meg a menetrendet.",
+                "ro": "Transportul e mai rar aici; verificați orarul.",
+                "en": "Transit is less frequent here; check the schedule."
+              }
+            },
+            {
+              "name": "Walk to Gura Beliei Viewpoint",
+              "tip_5lang": {
+                "de": "Der Fußweg von der Haltestelle kann rutschig sein.",
+                "hu": "A megállótól vezető gyalogút csúszós lehet.",
+                "ro": "Drumul de la stație poate fi alunecos.",
+                "en": "The walk from the stop can be slippery."
+              }
+            },
+            {
+              "name": "Walk to the Heroes' Monument",
+              "tip_5lang": {
+                "de": "Gut mit dem Bus erreichbar, kaum Fußweg nötig.",
+                "hu": "Busszal jól elérhető, alig kell gyalogolni.",
+                "ro": "Accesibil cu autobuzul, necesită puțin mers pe jos.",
+                "en": "Easily accessible by bus with minimal walking."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Haben Sie Kleingeld für das Ticket beim Fahrer bereit.",
+              "Die Wartezeiten können bei Regen länger erscheinen.",
+              "Die Minibusse (Maxi-Taxi) halten oft auf Handzeichen.",
+              "Prüfen Sie die letzte Rückfahrt vom Hügel ins Zentrum."
+            ],
+            "hu": [
+              "Készítsen ki aprópénzt a sofőrnél váltható jegyhez.",
+              "A várakozási idő esőben hosszabbnak tűnhet.",
+              "A kisbuszok (maxi-taxi) gyakran intésre is megállnak.",
+              "Ellenőrizze az utolsó járatot a dombtól a központba."
+            ],
+            "ro": [
+              "Pregătiți bani mărunți pentru biletul de la șofer.",
+              "Timpul de așteptare poate părea mai lung pe ploaie.",
+              "Microbuzele opresc adesea la semnul mâinii.",
+              "Verificați ora ultimei curse de la deal spre centru."
+            ],
+            "en": [
+              "Have small change ready for tickets bought from the driver.",
+              "Waiting times can feel longer when it is raining.",
+              "Minibuses (maxi-taxi) often stop upon a hand signal.",
+              "Check the time of the last return trip from the hill."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Transit im Winter in Breaza bietet eine warme Flucht vor der eisigen Luft. Morgens nutzen wir die beheizten Busse zum Zentrum. Mittags sind die Verbindungen zwischen Park und Kirche ideal, um die Zeit im Freien zu minimieren. Der Nachmittagsbesuch der Aussichtspunkte erfordert Planung, da die Busse bei Schnee langsamer sein können. Abends bringen uns die Lichter der Stadt sicher zum Endpunkt.",
+            "hu": "A téli tömegközlekedés Breazában meleg menedéket nyújt a jeges levegő elől. Reggel a fűtött buszokat használjuk a központ eléréséhez. Délben a park és a templom közötti járatok segítenek minimalizálni a kinti tartózkodást. A délutáni kilátópont-látogatás tervezést igényel, mert a hó lassíthatja a buszokat. Este a város fényei között biztonságban érünk célba.",
+            "ro": "Transportul în comun iarna oferă un refugiu cald în Breaza. Dimineața folosim microbuzele încălzite spre centru. La prânz, legăturile între parc și biserici sunt ideale pentru a minimiza timpul petrecut în ger. Vizita de după-amiază la punctele de belvedere necesită planificare, căci zăpada poate întârzia cursele. Seara ne întoarcem în siguranță sub luminile orașului.",
+            "en": "Transit in winter offers a warm escape from the freezing Breaza air. In the morning, use heated buses to reach the center. Midday connections between the park and church are ideal for minimizing time spent outdoors. The afternoon visit to the viewpoints requires planning as snow might slow down the buses. In the evening, the city lights guide you safely to your destination."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Town Center",
+              "tip_5lang": {
+                "de": "Warten Sie in einem Café nahe der Haltestelle.",
+                "hu": "Várjon egy kávézóban a megálló közelében.",
+                "ro": "Așteptați într-o cafenea lângă stație.",
+                "en": "Wait in a cafe near the bus stop to stay warm."
+              }
+            },
+            {
+              "name": "Walk to St. Nicholas Church",
+              "tip_5lang": {
+                "de": "Die Wege an den Haltestellen können vereist sein.",
+                "hu": "A megállók környéke jeges, csúszós lehet.",
+                "ro": "Zonele din jurul stațiilor pot fi înghețate.",
+                "en": "The areas around the bus stops can be icy."
+              }
+            },
+            {
+              "name": "Walk to Breaza Park & Lunch",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant nah an einer Bushaltestelle.",
+                "hu": "Válasszon éttermet közel egy buszmegállóhoz.",
+                "ro": "Alegeți un restaurant aproape de o stație.",
+                "en": "Choose a restaurant close to a bus stop."
+              }
+            },
+            {
+              "name": "Cluster 2: Hill Viewpoints",
+              "tip_5lang": {
+                "de": "Bei starkem Schneefall können Fahrten ausfallen.",
+                "hu": "Erős havazás esetén járatok maradhatnak ki.",
+                "ro": "La ninsoare puternică, cursele pot fi anulate.",
+                "en": "Trips may be cancelled during heavy snowfall."
+              }
+            },
+            {
+              "name": "Walk to Gura Beliei Viewpoint",
+              "tip_5lang": {
+                "de": "Planen Sie den Rückweg vor Einbruch der Dunkelheit.",
+                "hu": "Tervezze meg a visszautat sötétedés előtt.",
+                "ro": "Planificați întoarcerea înainte de lăsarea serii.",
+                "en": "Plan your return trip before darkness falls."
+              }
+            },
+            {
+              "name": "Walk to the Heroes' Monument",
+              "tip_5lang": {
+                "de": "Abends sind die Busse oft beheizt und gemütlich.",
+                "hu": "Este a buszok gyakran fűtöttek és barátságosak.",
+                "ro": "Seara microbuzele sunt adesea bine încălzite.",
+                "en": "In the evening, buses are often well-heated and cozy."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrpläne können sich bei extremem Wetter verzögern.",
+              "Die Heizung in den Minibussen funktioniert meist sehr gut.",
+              "Achten Sie beim Aussteigen auf Glatteis am Straßenrand.",
+              "Nutzen Sie die App oder lokale Infos für Echtzeit-Updates."
+            ],
+            "hu": [
+              "A menetrendek extrém időjárás esetén módosulhatnak.",
+              "A kisbuszok fűtése általában nagyon jól működik.",
+              "Kiszálláskor ügyeljen a jeges útpadkára.",
+              "Használjon helyi infókat a valós idejű adatokhoz."
+            ],
+            "ro": [
+              "Orarele pot suferi întârzieri pe vreme extremă.",
+              "Încălzirea în microbuze funcționează de obicei bine.",
+              "Atenție la gheața de pe marginea drumului la coborâre.",
+              "Urmăriți grupurile locale pentru actualizări în timp real."
+            ],
+            "en": [
+              "Schedules may be delayed during extreme weather conditions.",
+              "The heating in minibuses usually works very well.",
+              "Watch out for ice on the curbside when stepping off.",
+              "Use local info or apps for real-time transit updates."
+            ]
+          }
+        }
       }
     }
   }

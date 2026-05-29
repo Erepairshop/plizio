@@ -237,6 +237,188 @@
           "The old town is small and easy to explore on foot.",
           "Visit the church during the morning."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Morgen in der Mariä-Himmelfahrt-Kirche, um dem ersten Regen zu entgehen. Die barocke Stille bietet den perfekten Schutz vor dem nassen Wetter.\n\nMittags führt der Weg entlang der Stadtmauer, wo die Adria bei Regen eine dramatische, graue Färbung annimmt. Die alten Steine erzählen Geschichten von stürmischen Zeiten.\n\nAm Nachmittag bietet das Stadtmuseum von Umag eine trockene Zuflucht. Entdecken Sie die römische Geschichte der Region, während draußen der Regen auf die Dächer prasselt.\n\nDer Abend endet mit einem kurzen Spaziergang am Hafen. Die Lichter der Stadt spiegeln sich in den Pfützen auf dem Pflaster und erzeugen eine melancholische, aber friedliche Stimmung.",
+            "hu": "A reggelt a Mária Mennybemenetele templomban indítjuk, amely tökéletes menedéket nyújt az első esőcseppek elől. A barokk belső tér nyugalma elfeledteti a kinti szürkeséget.\n\nDélben a várfalak mentén az eső áztatta kövek és a morajló Adria különleges, drámai arcát mutatja a városnak. A sós tengeri pára ilyenkor még intenzívebb.\n\nDélután az Umagi Városi Múzeum tárlatai kínálnak fedett programot. A római kori leletek között böngészve észre sem veszi a kinti felhőszakadást.\n\nAz este a sétányon zárul, ahol a vizes aszfalton megcsillanó fények egyedi hangulatot árasztanak. A kikötő környéki árkádok alatt szárazon élvezhetjük a tenger közelségét.",
+            "ro": "Începeți dimineața la Biserica Adormirea Maicii Domnului, un refugiu ideal împotriva primilor stropi de ploaie. Interiorul baroc oferă o liniște primitoare.\n\nLa prânz, plimbarea pe lângă zidurile orașului dezvăluie o latură dramatică a Adriaticii. Pietrele vechi strălucesc sub ploaie, oferind un decor istoric autentic.\n\nDupă-amiaza este dedicată Muzeului Orașului Umag, unde puteți explora istoria romană fără a vă uda. Este locul perfect pentru a aștepta trecerea norilor.\n\nSeara se încheie pe faleză, unde luminile orașului se oglindesc în bălți, creând o atmosferă poetică. Portul este liniștit, iar sunetul ploii pe mare este relaxant.",
+            "en": "Start your morning at the Church of the Assumption, finding shelter from the early drizzle. The baroque interior provides a calm escape from the wet weather.\n\nAt noon, walk along the city walls where the rain-slicked stones and the churning Adriatic create a dramatic atmosphere. The scent of salt is stronger in the humid air.\n\nIn the afternoon, the Umag City Museum offers a dry sanctuary. Explore local Roman artifacts while the rain patters on the museum's historic roof.\n\nFinish the evening with a stroll near the harbor. The city lights reflect beautifully on the wet pavement, offering a quiet and moody end to your rainy day in Umag."
+          },
+          "stops": [
+            {
+              "name": "Church of the Assumption of Mary",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Kircheneingang als Regenschutz; ideal für Innenbesichtigungen.",
+                "hu": "Használja a templomhajót menedékként; a belső tér száraz és csendes.",
+                "ro": "Folosiți nava bisericii ca adăpost; interiorul este uscat și liniștit.",
+                "en": "Use the church interior as a dry refuge; perfect for a longer indoor visit."
+              }
+            },
+            {
+              "name": "Historical City Walls",
+              "tip_5lang": {
+                "de": "Vorsicht, die Steine sind rutschig. Tragen Sie Schuhe mit gutem Profil.",
+                "hu": "Vigyázat, a kövek csúszósak! Viseljen tapadó talpú cipőt a falaknál.",
+                "ro": "Atenție, pietrele sunt alunecoase! Purtați încălțăminte cu aderență bună.",
+                "en": "Caution: stones are slippery when wet. Wear shoes with good grip."
+              }
+            },
+            {
+              "name": "Umag City Museum",
+              "tip_5lang": {
+                "de": "Der beste Ort bei starkem Regen; planen Sie hier mindestens eine Stunde ein.",
+                "hu": "A legjobb hely szakadó esőben; töltsön itt legalább egy órát szárazon.",
+                "ro": "Cel mai bun loc în caz de ploaie torențială; petreceți aici cel puțin o oră.",
+                "en": "Best spot during heavy rain; plan at least an hour for a dry experience."
+              }
+            },
+            {
+              "name": "Church of St. Roch",
+              "tip_5lang": {
+                "de": "Ein kleiner, überdachter Bereich am Eingang bietet kurzzeitig Schutz.",
+                "hu": "A bejáratnál egy kis fedett rész rövid ideig védelmet nyújt az eső elől.",
+                "ro": "O mică zonă acoperită la intrare oferă protecție temporară împotriva ploii.",
+                "en": "A small covered area at the entrance offers brief shelter from the rain."
+              }
+            },
+            {
+              "name": "Umag Promenade",
+              "tip_5lang": {
+                "de": "Suchen Sie unter den Arkaden der Cafés Schutz, wenn der Regen zunimmt.",
+                "hu": "Húzódjon be a kávézók árkádjai alá, ha felerősödik a csapadék.",
+                "ro": "Adăpostiți-vă sub arcadele cafenelelor dacă ploaia devine mai puternică.",
+                "en": "Take cover under cafe arcades along the path if the rain intensifies."
+              }
+            },
+            {
+              "name": "Sepomaia Archaeological Site",
+              "tip_5lang": {
+                "de": "Das Gelände kann schlammig sein; bleiben Sie auf den befestigten Wegen.",
+                "hu": "A terület sáros lehet; maradjon a kijelölt, kövezett útvonalakon.",
+                "ro": "Terenul poate fi noroios; rămâneți pe traseele pavate marcate.",
+                "en": "The site can be muddy; stick to the paved or gravel paths."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Regenschirm ist wegen der Meeresbrise besser als ein leichter Knirps.",
+              "Die Steinpflasterung in der Altstadt wird bei Nässe extrem glatt.",
+              "Das Stadtmuseum ist montags oft geschlossen; prüfen Sie die Öffnungszeiten.",
+              "Nutzen Sie die zahlreichen Cafés mit Markisen für kurze Pausen im Trockenen."
+            ],
+            "hu": [
+              "A tengeri szél miatt egy strapabíró esernyő praktikusabb, mint az eldobható esőkabát.",
+              "Az óváros kőburkolata vizesen nagyon csúszik, figyeljen a lépteire.",
+              "A városi múzeum kiváló menekülőútvonal hirtelen jött zivatar esetén.",
+              "Érdemes vízálló cipőben indulni, mert a sétányon megállhat a víz."
+            ],
+            "ro": [
+              "O umbrelă rezistentă este necesară din cauza brizei marine puternice.",
+              "Pavajul din centrul vechi devine extrem de alunecos când este ud.",
+              "Muzeul orașului este o opțiune excelentă de refugiu în caz de furtună.",
+              "Purtați încălțăminte impermeabilă, deoarece apa se poate acumula pe faleză."
+            ],
+            "en": [
+              "A sturdy umbrella is better than a light poncho due to the sea breeze.",
+              "The old town's stone pavement gets very slippery; watch your step.",
+              "The City Museum is an excellent indoor backup for sudden downpours.",
+              "Waterproof footwear is recommended as the promenade can collect puddles."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie die frische, klare Winterluft bei der Kirche am Morgen. Ohne die Touristenmassen wirkt der Platz vor dem Tempel besonders weit und friedlich.\n\nMittags schützt die historische Stadtmauer vor der kalten Bora. Die Sonne steht tief über der Adria und taucht die Kalksteine in ein warmes, goldenes Licht.\n\nAm Nachmittag wärmen Sie sich im Stadtmuseum auf. Die Geschichte von Umag lässt sich in der beheizten Stille des Gebäudes am besten nachempfinden.\n\nDa die Sonne bereits gegen 16:30 Uhr untergeht, bietet der Abendspaziergang auf der Promenade einen frühen Blick auf den Sternenhimmel über dem dunklen Meer.",
+            "hu": "A reggel friss és tiszta téli levegőt hoz a templom környékén. Turisták nélkül a tér visszanyeri eredeti, áhítatos nyugalmát.\n\nDélben a várfalak vastag kövei mögött keressen menedéket a csípős bóra szél elől. A nap alacsonyan jár, aranyba vonva az Adria víztükrét.\n\nDélután a Városi Múzeum fűtött termeiben melegedhet fel. A helyi történelem felfedezése közben elfelejtheti a kinti hideg fuvallatokat.\n\nMivel a nap korán, fél öt körül nyugszik, az esti sétány már sötétben, de kivilágítva várja, hangulatos lezárást nyújtva a napnak.",
+            "ro": "Dimineața aduce un aer rece și curat în jurul bisericii. Fără aglomerația verii, piața pare mult mai spațioasă și mai liniștită.\n\nLa prânz, zidurile istorice oferă protecție împotriva vântului rece Bura. Soarele coborât spre orizont scaldă pietrele în culori calde.\n\nDupă-amiaza este momentul perfect pentru a vă încălzi în sălile muzeului. Istoria locală se dezvăluie în liniștea primitoare a interiorului.\n\nDeoarece soarele apune devreme, în jurul orei 16:30, plimbarea de seară pe faleză oferă o perspectivă timpurie asupra cerului înstelat.",
+            "en": "Morning brings crisp, clear winter air to the church square. Without the summer crowds, the area feels spacious and authentic.\n\nAt noon, find shelter behind the thick city walls from the biting Bura wind. The low winter sun casts a beautiful golden glow over the limestone.\n\nIn the afternoon, warm up inside the City Museum. Exploring Umag's past is much more comfortable in the heated quiet of the gallery.\n\nSince the sun sets early, around 4:30 PM, the evening walk along the promenade offers an early chance to see the stars over the dark Adriatic."
+          },
+          "stops": [
+            {
+              "name": "Church of the Assumption of Mary",
+              "tip_5lang": {
+                "de": "Innen ist es deutlich wärmer; ein guter Ort, um die Kälte kurz zu vergessen.",
+                "hu": "Bent érezhetően melegebb van; jó hely a kinti hideg elől való behúzódásra.",
+                "ro": "În interior este mult mai cald; un loc bun pentru a scăpa de frig.",
+                "en": "It is notably warmer inside; a good place to escape the winter chill."
+              }
+            },
+            {
+              "name": "Historical City Walls",
+              "tip_5lang": {
+                "de": "Achten Sie auf den Windschatten der Mauern, um der Bora zu entkommen.",
+                "hu": "Használja ki a falak szélárnyékát, hogy elkerülje a metsző bóra szelet.",
+                "ro": "Folosiți adăpostul oferit de ziduri pentru a evita vântul tăios Bura.",
+                "en": "Utilize the windbreak provided by the walls to avoid the sharp Bura wind."
+              }
+            },
+            {
+              "name": "Umag City Museum",
+              "tip_5lang": {
+                "de": "Beheizte Ausstellungsräume bieten Komfort für eine ausgiebige Besichtigung.",
+                "hu": "A fűtött kiállítóterek kényelmes helyszínt adnak a hosszas nézelődéshez.",
+                "ro": "Sălile de expoziție încălzite oferă confort pentru o vizită prelungită.",
+                "en": "Heated exhibition rooms provide comfort for an extended visit."
+              }
+            },
+            {
+              "name": "Church of St. Roch",
+              "tip_5lang": {
+                "de": "Die kleine Kapelle ist im Winter ein ruhiger Ort der Besinnung.",
+                "hu": "A kis kápolna télen a csendes elmélyülés nyugodt szigete.",
+                "ro": "Mica capelă este iarna un loc liniștit pentru reflecție.",
+                "en": "The small chapel is a quiet spot for reflection during the winter months."
+              }
+            },
+            {
+              "name": "Umag Promenade",
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Kleidung; die Brise vom Meer ist im Winter eisig.",
+                "hu": "Viseljen szélálló ruházatot; a tenger felől fújó szél télen jeges lehet.",
+                "ro": "Purtați haine rezistente la vânt; briza mării este geroasă iarna.",
+                "en": "Wear windproof clothing; the sea breeze can be icy in winter."
+              }
+            },
+            {
+              "name": "Sepomaia Archaeological Site",
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Ort vor 16 Uhr, um das Tageslicht optimal zu nutzen.",
+                "hu": "Látogassa meg a helyszínt délután 4 előtt a természetes fény miatt.",
+                "ro": "Vizitați situl înainte de ora 16:00 pentru a profita de lumina zilei.",
+                "en": "Visit before 4 PM to make the most of the remaining daylight."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Winter bereits gegen 16:30 Uhr unter.",
+              "Der Bora-Wind kann die gefühlte Temperatur drastisch senken.",
+              "Einige Cafés an der Promenade haben im Winter geschlossen; suchen Sie im Zentrum.",
+              "Zwiebelprinzip bei der Kleidung ist wegen des wechselnden Winds ratsam."
+            ],
+            "hu": [
+              "Télen a naplemente korán, délután fél öt körül következik be.",
+              "A bóra szél drasztikusan csökkentheti a hőérzetet a nyílt szakaszokon.",
+              "Sok parti kávézó zárva tart télen; a belső utcákban talál nyitott helyeket.",
+              "Réteges öltözködés javasolt a szeles és szélvédett szakaszok váltakozása miatt."
+            ],
+            "ro": [
+              "Soarele apune devreme iarna, în jurul orei 16:30.",
+              "Vântul Bura poate scădea drastic temperatura resimțită.",
+              "Multe cafenele de pe faleză sunt închise iarna; căutați localuri în centru.",
+              "Se recomandă îmbrăcămintea în straturi din cauza vântului schimbător."
+            ],
+            "en": [
+              "Sunset occurs early in winter, around 4:30 PM.",
+              "The Bura wind can drastically lower the perceived temperature.",
+              "Many seaside cafes are closed in winter; look for open spots in the center.",
+              "Layered clothing is advised due to the contrast between windy and sheltered areas."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -445,6 +627,188 @@
           "The bike paths are well developed.",
           "Take sun protection for Savudrija."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Regenfahrt auf der Promenade erfordert Konzentration, bietet aber eine herrlich einsame Küstenlandschaft. Die salzige Luft mischt sich mit dem Regenwasser.\n\nBeim ATP-Stadion Stella Maris finden Sie unter den Tribünen kurzzeitig Schutz, bevor Sie die Fahrt durch die Pinienwälder fortsetzen.\n\nDer Leuchtturm von Savudrija wirkt im Nebel und Regen besonders mystisch. Das Licht schneidet scharf durch das graue Wetter über der Adria.\n\nNach der Rückkehr in die Altstadt bieten das Museum und die Kirche die nötige Trockenheit, um den Tag gemütlich ausklingen zu lassen.",
+            "hu": "Az esőben való kerékpározás a sétányon figyelmet igényel, de cserébe magányos, vadregényes tájat kapunk. A sós pára és az eső illata keveredik a levegőben.\n\nA Stella Maris stadionnál a lelátók alatt találhatunk rövid menedéket, mielőtt továbbtekernénk a fenyvesek irányába.\n\nA Savudrija világítótorony ködben és esőben egészen misztikus látványt nyújt. A fény élesen vág át a szürkeségen a tenger felett.\n\nAz óvárosba visszatérve a múzeum és a templom fedett terei nyújtanak száraz pihenőt a tekerés után.",
+            "ro": "O plimbare cu bicicleta pe faleză în ploaie necesită concentrare, dar oferă un peisaj costier solitar și fascinant. Aerul sărat se amestecă cu stropii de ploaie.\n\nLa stadionul Stella Maris puteți găsi adăpost sub tribune înainte de a continua drumul prin pădurile de pini.\n\nFarul din Savudrija arată deosebit de mistic în ceață și ploaie. Lumina sa taie ascuțit prin vremea gri de deasupra Adriaticii.\n\nDupă revenirea în centrul vechi, muzeul și biserica oferă adăpostul necesar pentru a încheia ziua confortabil.",
+            "en": "Cycling on the promenade in the rain requires focus but offers a wonderfully solitary coastal view. The salty air mingles with the falling rain.\n\nAt the Stella Maris stadium, you can find brief shelter under the stands before continuing your ride through the pine groves.\n\nThe Savudrija Lighthouse looks mystical in the mist and rain. Its beam cuts sharply through the grey weather over the Adriatic.\n\nUpon returning to the old town, the museum and church provide the necessary dryness to end your cycling day comfortably."
+          },
+          "stops": [
+            {
+              "name": "Umag Promenade",
+              "tip_5lang": {
+                "de": "Fahren Sie langsam; die Holzstege und glatten Steine werden sehr rutschig.",
+                "hu": "Hajtson lassan; a fa burkolatok és a sima kövek nagyon csúsznak.",
+                "ro": "Pedalați încet; podețele de lemn și pietrele netede devin alunecoase.",
+                "en": "Ride slowly; wooden decks and smooth stones become very slippery."
+              }
+            },
+            {
+              "name": "Stella Maris ATP Stadium",
+              "tip_5lang": {
+                "de": "Die großen Vordächer der Tennisanlage bieten hervorragenden Regenschutz.",
+                "hu": "A teniszkomplexum nagy előtetői kiváló védelmet nyújtanak az eső ellen.",
+                "ro": "Copertinele mari ale complexului de tenis oferă o protecție excelentă.",
+                "en": "The large overhangs of the tennis complex provide great rain protection."
+              }
+            },
+            {
+              "name": "Savudrija Lighthouse",
+              "tip_5lang": {
+                "de": "Der Weg hierher ist exponiert; wasserfeste Kleidung ist ein Muss.",
+                "hu": "Az idevezető út nyitott; a vízálló ruházat elengedhetetlen a szélben.",
+                "ro": "Drumul până aici este expus; îmbrăcămintea impermeabilă este obligatorie.",
+                "en": "The path here is exposed; waterproof clothing is a must in the rain."
+              }
+            },
+            {
+              "name": "Historical City Walls",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad an einem festen Ständer ab, bevor Sie die Mauern begehen.",
+                "hu": "Kösse ki a kerékpárt egy fix tárolóhoz, mielőtt gyalogosan nézné meg a falat.",
+                "ro": "Parcați bicicleta la un suport fix înainte de a vizita zidurile pe jos.",
+                "en": "Lock your bike to a fixed rack before exploring the walls on foot."
+              }
+            },
+            {
+              "name": "Umag City Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch, um Ihre Kleidung etwas trocknen zu lassen.",
+                "hu": "Használja ki a múzeumi látogatást, hogy a ruházata kicsit megszáradjon.",
+                "ro": "Profitați de vizita la muzeu pentru a vă lăsa hainele să se usuce puțin.",
+                "en": "Use your time in the museum to let your gear dry out a bit."
+              }
+            },
+            {
+              "name": "Church of the Assumption of Mary",
+              "tip_5lang": {
+                "de": "Die Kirche bietet eine trockene Pause vor dem Ende Ihrer Tour.",
+                "hu": "A templom száraz pihenőhelyet kínál a túra befejezése előtt.",
+                "ro": "Biserica oferă un loc de odihnă uscat înainte de finalul turului.",
+                "en": "The church offers a dry resting spot before concluding your tour."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt; nasse Felgen bremsen schlechter.",
+              "Vermeiden Sie Pfützen, da diese tiefe Schlaglöcher verbergen können.",
+              "Ein Schutzblech schützt Ihren Rücken vor aufgewirbeltem Schmutzwasser.",
+              "Tragen Sie eine Brille, um Regenwasser aus den Augen fernzuhalten."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze a fékeket; a vizes felni lassabban fog.",
+              "Kerülje a tócsákat, mert mély kátyúkat rejthetnek az út mentén.",
+              "Sárvédő használata javasolt, hogy elkerülje a felcsapódó vizet.",
+              "Viseljen szemüveget, hogy az esőcseppek ne zavarják a látást tekerés közben."
+            ],
+            "ro": [
+              "Verificați frânele înainte de plecare; jantele ude frânează mai greu.",
+              "Evitați bălțile, deoarece pot ascunde gropi adânci pe marginea drumului.",
+              "Utilizarea apărătorilor este recomandată pentru a evita stropirea cu noroi.",
+              "Purtați ochelari pentru a împiedica stropii de ploaie să vă afecteze vederea."
+            ],
+            "en": [
+              "Check your brakes before starting; wet rims have longer stopping distances.",
+              "Avoid puddles as they can hide deep potholes along the route.",
+              "Fenders are highly recommended to prevent road spray on your back.",
+              "Wear cycling glasses to keep rain out of your eyes while riding."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen auf dem Fahrrad ist belebend. Die Promenade gehört Ihnen fast allein, während die Sonne langsam über dem Meer aufsteigt.\n\nDie Fahrt zum Stella Maris führt durch stille Ferienanlagen. Der kühle Wind in den Pinien erzeugt ein beruhigendes Rauschen.\n\nIn Savudrija bietet der Leuchtturm einen weiten Blick bis zu den verschneiten Gipfeln der Alpen am Horizont, wenn die Luft besonders klar ist.\n\nAm Nachmittag radeln Sie zurück in die Stadt. Die tiefstehende Sonne blendet auf dem Rückweg, also vergessen Sie Ihre Sonnenbrille nicht.",
+            "hu": "A tiszta téli reggel a kerékpáron igazán frissítő. A sétány szinte csak az öné, miközben a nap lassan emelkedik a tenger fölé.\n\nA Stella Maris felé vezető út csendes üdülőtelepeken visz keresztül. A fenyők közötti hűvös szél megnyugtató zúgást kelt.\n\nSavudrijában a világítótoronytól tiszta időben ellátni egészen az Alpok havas csúcsaiig a horizonton.\n\nDélután tekerjen vissza a városba. Az alacsonyan járó nap erősen vakíthat a visszaúton, ne felejtse el a napszemüveget.",
+            "ro": "O dimineață senină de iarnă pe bicicletă este revigorantă. Faleza vă aparține aproape în întregime, în timp ce soarele se ridică lent deasupra mării.\n\nDrumul spre Stella Maris trece prin stațiuni liniștite. Vântul rece prin pini produce un foșnet relaxant.\n\nLa Savudrija, farul oferă o vedere panoramică până la vârfurile înzăpezite ale Alpilor de la orizont, dacă aerul este curat.\n\nDupă-amiaza pedalați înapoi spre oraș. Soarele coborât poate fi orbitor la întoarcere, deci nu uitați ochelarii de soare.",
+            "en": "A clear winter morning on a bike is invigorating. The promenade is almost entirely yours as the sun rises slowly over the sea.\n\nThe ride to Stella Maris passes through quiet holiday resorts. The cool breeze through the pines creates a soothing sound.\n\nIn Savudrija, the lighthouse offers views as far as the snow-capped Alps on the horizon when the air is exceptionally clear.\n\nIn the afternoon, cycle back to town. The low sun can be quite blinding on the return journey, so don't forget your sunglasses."
+          },
+          "stops": [
+            {
+              "name": "Umag Promenade",
+              "tip_5lang": {
+                "de": "Tragen Sie Handschuhe; der Fahrtwind ist am Wasser besonders kalt.",
+                "hu": "Viseljen kesztyűt; a menetszél a vízparton különösen hideg télen.",
+                "ro": "Purtați mănuși; vântul la pedalare este foarte rece lângă apă.",
+                "en": "Wear gloves; the wind chill while cycling is very cold near the water."
+              }
+            },
+            {
+              "name": "Stella Maris ATP Stadium",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort für eine kurze Pause im Schutz der Tribünen.",
+                "hu": "Csendes hely egy rövid pihenőre a lelátók szélvédett oldalán.",
+                "ro": "Un loc liniștit pentru o scurtă pauză la adăpostul tribunelor.",
+                "en": "A quiet spot for a short break in the shelter of the stands."
+              }
+            },
+            {
+              "name": "Savudrija Lighthouse",
+              "tip_5lang": {
+                "de": "Der nördlichste Punkt ist sehr windig; eine warme Mütze ist ratsam.",
+                "hu": "A legészakibb pont nagyon szeles; meleg sapka használata javasolt.",
+                "ro": "Cel mai nordic punct este foarte vântos; se recomandă o căciulă caldă.",
+                "en": "The northernmost point is very windy; a warm hat is recommended."
+              }
+            },
+            {
+              "name": "Historical City Walls",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Mittagssonne, die die Mauern leicht erwärmt.",
+                "hu": "Használja ki a déli napsütést, amely kicsit felmelegíti a falakat.",
+                "ro": "Profitați de soarele de la prânz care încălzește ușor zidurile.",
+                "en": "Take advantage of the midday sun which slightly warms the walls."
+              }
+            },
+            {
+              "name": "Umag City Museum",
+              "tip_5lang": {
+                "de": "Geben Sie Ihren Muskeln eine Pause in der Wärme des Museums.",
+                "hu": "Adjon pihenőt az izmainak a múzeum kellemes melegében.",
+                "ro": "Oferiți mușchilor o pauză în căldura plăcută a muzeului.",
+                "en": "Give your muscles a break in the comfortable warmth of the museum."
+              }
+            },
+            {
+              "name": "Church of the Assumption of Mary",
+              "tip_5lang": {
+                "de": "Schließen Sie Ihre Tour hier ab und suchen Sie ein nahes Café.",
+                "hu": "Fejezze be itt a túrát, és keressen egy közeli fűtött kávézót.",
+                "ro": "Încheiați turul aici și căutați o cafenea încălzită în apropiere.",
+                "en": "Finish your tour here and look for a heated cafe nearby."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie mehrere Schichten Kleidung (Zwiebelprinzip).",
+              "Verwenden Sie Lippenbalsam gegen den kalten Wind.",
+              "Die Lichtverhältnisse ändern sich nach 16 Uhr sehr schnell.",
+              "Achten Sie auf vereiste Stellen auf Brücken oder im Schatten."
+            ],
+            "hu": [
+              "Öltözködjön rétegesen a menetszél elleni védekezés érdekében.",
+              "Használjon ajakírt a hideg szél okozta kiszáradás ellen.",
+              "A fényviszonyok délután 4 után nagyon gyorsan romlanak.",
+              "Ügyeljen a jeges foltokra a hidakon vagy az árnyékos részeken."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi pentru a vă proteja de vântul de pedalare.",
+              "Folosiți balsam de buze împotriva uscării cauzate de vântul rece.",
+              "Condițiile de lumină se schimbă foarte repede după ora 16:00.",
+              "Atenție la porțiunile înghețate de pe poduri sau din zonele umbrite."
+            ],
+            "en": [
+              "Dress in multiple layers to protect against the wind chill.",
+              "Use lip balm to prevent chapping from the cold breeze.",
+              "Lighting conditions change very rapidly after 4 PM.",
+              "Watch out for icy patches on bridges or in shaded areas."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -676,6 +1040,170 @@
           "There are many wineries nearby.",
           "Parking in Umag old town is difficult in summer."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto lässt sich Umag auch bei starkem Regen bequem erkunden. Starten Sie trocken am Stadtmuseum und genießen Sie den Blick auf die Gassen.\n\nDie Fahrt zum Stella Maris Stadion ist kurz. Parken Sie nah am Eingang, um den Regen auf dem Weg zu den Tribünen zu minimieren.\n\nIn Savudrija können Sie den Leuchtturm fast vom Parkplatz aus bewundern. Die Brandung wirkt bei schlechtem Wetter besonders kraftvoll.\n\nNachmittags führt die Fahrt zur archäologischen Stätte Sepomaia. Auch wenn es regnet, bietet der Ort eine beeindruckende historische Kulisse.",
+            "hu": "Autóval kényelmesen felfedezhetjük Umagot szakadó esőben is. Kezdjen a múzeumnál, ahol szárazon juthat be az épületbe.\n\nA Stella Maris stadionhoz vezető út rövid. Parkoljon közel a bejárathoz, hogy minimalizálja az esőben töltött időt.\n\nSavudrijában a világítótorony szinte a parkolóból is megcsodálható. A viharos tenger látványa ilyenkor különösen lenyűgöző.\n\nDélután a Sepomaia régészeti lelőhely felé veheti az irányt. Még esőben is érezhető a hely történelmi súlya.",
+            "ro": "Cu mașina puteți explora Umag confortabil chiar și pe ploaie torențială. Începeți la muzeu, unde puteți intra direct din parcare.\n\nDrumul spre stadionul Stella Maris este scurt. Parcați aproape de intrare pentru a minimiza timpul petrecut în ploaie.\n\nLa Savudrija, farul poate fi admirat aproape direct din parcare. Spectacolul mării agitate este fascinant pe vreme rea.\n\nDupă-amiaza conduceți spre situl arheologic Sepomaia. Chiar și pe ploaie, locul oferă o perspectivă istorică impresionantă.",
+            "en": "By car, you can comfortably explore Umag even during heavy rain. Start dry at the City Museum and enjoy the view of the streets from your window.\n\nThe drive to Stella Maris is short. Park close to the entrance to minimize exposure while heading to the covered stands.\n\nIn Savudrija, the lighthouse can be admired almost from the parking lot. The crashing waves look particularly powerful in bad weather.\n\nIn the afternoon, drive to the Sepomaia archaeological site. Even in the rain, the location offers a striking historical backdrop."
+          },
+          "stops": [
+            {
+              "name": "Umag City Museum",
+              "tip_5lang": {
+                "de": "Parken Sie am Hafen, um den kürzesten Weg zum Museum zu haben.",
+                "hu": "Parkoljon a kikötőnél, hogy a lehető legrövidebb úton jusson a múzeumba.",
+                "ro": "Parcați în port pentru a avea cel mai scurt drum până la muzeu.",
+                "en": "Park near the harbor for the shortest walk to the museum entrance."
+              }
+            },
+            {
+              "name": "Stella Maris ATP Stadium",
+              "tip_5lang": {
+                "de": "Nutzen Sie die asphaltierten Parkplätze direkt am Komplex.",
+                "hu": "Használja az aszfaltozott parkolókat közvetlenül a komplexum mellett.",
+                "ro": "Utilizați parcările asfaltate direct lângă complex.",
+                "en": "Use the paved parking areas located directly next to the complex."
+              }
+            },
+            {
+              "name": "Savudrija Lighthouse",
+              "tip_5lang": {
+                "de": "Der Parkplatz bietet einen guten Blick; ideal, wenn es zu stark regnet.",
+                "hu": "A parkolóból is jó a kilátás; ideális, ha túl erősen esne az eső.",
+                "ro": "Parcarea oferă o vedere bună; ideal dacă plouă prea tare pentru plimbare.",
+                "en": "The parking lot offers a good view; ideal if it's raining too hard to walk."
+              }
+            },
+            {
+              "name": "Sepomaia Archaeological Site",
+              "tip_5lang": {
+                "de": "Die Zufahrt kann bei Regen rutschig sein; fahren Sie vorsichtig.",
+                "hu": "A bekötőút esőben csúszós lehet; hajtson óvatosan a területen.",
+                "ro": "Drumul de acces poate fi alunecos pe ploaie; conduceți cu atenție.",
+                "en": "The access road can be slippery in the rain; drive carefully."
+              }
+            },
+            {
+              "name": "Umag Promenade",
+              "tip_5lang": {
+                "de": "Parken Sie im Parkhaus im Zentrum, um trockenen Fußes zur Promenade zu gelangen.",
+                "hu": "Parkoljon a központi parkolóházban, hogy szárazon érje el a sétányt.",
+                "ro": "Parcați în parcarea centrală pentru a ajunge uscat la faleză.",
+                "en": "Park in the central parking garage to reach the promenade staying dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sicht kann bei starkem Regen an der Küste eingeschränkt sein.",
+              "Vermeiden Sie das Parken unter großen Pinien bei Sturmgefahr.",
+              "Scheinwerfer einschalten, auch am Tag bei Regen.",
+              "In der Nebensaison sind viele Parkplätze direkt im Zentrum verfügbar."
+            ],
+            "hu": [
+              "A látási viszonyok korlátozottak lehetnek a parton szakadó esőben.",
+              "Viharos szél esetén kerülje a nagy fenyők alatti parkolást.",
+              "Kapcsolja be a fényszórókat nappal is az esőben.",
+              "Szezonon kívül sok parkolóhely áll rendelkezésre közvetlenül a központban."
+            ],
+            "ro": [
+              "Vizibilitatea poate fi redusă pe coastă în timpul ploilor torențiale.",
+              "Evitați parcarea sub pinii mari în caz de vânt puternic.",
+              "Aprindeți farurile chiar și pe timpul zilei dacă plouă.",
+              "În afara sezonului, sunt disponibile multe locuri de parcare chiar în centru."
+            ],
+            "en": [
+              "Visibility can be limited on the coast during heavy rain.",
+              "Avoid parking under large pine trees if strong winds are expected.",
+              "Keep your headlights on even during the day in the rain.",
+              "In the off-season, many parking spots are available right in the center."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliche Autofahrten in Umag sind entspannt, da es kaum Verkehr gibt. Starten Sie Ihren Tag im warmen Auto am Stadtmuseum.\n\nBesuchen Sie das Stella Maris Stadion; im Winter wirkt die Anlage riesig und beeindruckend still. Parkplätze sind direkt am Ziel reichlich vorhanden.\n\nDie Fahrt zum Leuchtturm von Savudrija ist im Winter besonders schön. Die klare Luft ermöglicht weite Blicke über das dunkle Wintermeer.\n\nAm Nachmittag erkunden Sie Sepomaia. Da es früher dunkel wird, können Sie die archäologische Stätte in der Dämmerung erleben, was ihr eine besondere Aura verleiht.",
+            "hu": "A téli autózás Umagban stresszmentes, mivel alig van forgalom. Kezdje a napot a fűtött autóban a városi múzeumnál.\n\nLátogasson el a Stella Maris stadionhoz; télen a komplexum hatalmasnak és lenyűgözően csendesnek hat. Parkolóhely bőven akad.\n\nA Savudrija világítótoronyhoz vezető út télen különösen szép. A tiszta levegő messzi kilátást enged a sötét téli tengerre.\n\nDélután fedezze fel Sepomaiát. Mivel korán sötétedik, a régészeti helyszínt szürkületben láthatja, ami különleges aurát ad neki.",
+            "ro": "Condusul iarna în Umag este relaxant, deoarece traficul este minim. Începeți ziua în confortul mașinii încălzite la muzeu.\n\nVizitați stadionul Stella Maris; iarna complexul pare imens și impresionant de liniștit. Locurile de parcare sunt abundente.\n\nDrumul spre farul Savudrija este deosebit de frumos iarna. Aerul curat permite vederi panoramice peste marea întunecată.\n\nDupă-amiaza explorați Sepomaia. Deoarece se întunecă devreme, puteți vedea situl arheologic la amurg, ceea ce îi conferă o aură aparte.",
+            "en": "Winter drives in Umag are relaxed with very little traffic. Start your day in the warmth of your car at the City Museum.\n\nVisit the Stella Maris stadium; in winter, the facility feels vast and impressively quiet. Parking is readily available right at the site.\n\nThe drive to Savudrija Lighthouse is especially scenic in winter. The clear air allows for far-reaching views over the dark winter sea.\n\nIn the afternoon, explore Sepomaia. Since it gets dark early, you can see the archaeological site at dusk, which gives it a special aura."
+          },
+          "stops": [
+            {
+              "name": "Umag City Museum",
+              "tip_5lang": {
+                "de": "Die Parkplätze am Hafen sind im Winter oft kostenlos oder günstiger.",
+                "hu": "A kikötői parkolók télen gyakran ingyenesek vagy olcsóbbak.",
+                "ro": "Parcările din port sunt adesea gratuite sau mai ieftime iarna.",
+                "en": "Harbor parking lots are often free or cheaper during the winter months."
+              }
+            },
+            {
+              "name": "Stella Maris ATP Stadium",
+              "tip_5lang": {
+                "de": "Kein Stress bei der Parkplatzsuche; stellen Sie Ihr Auto direkt vor dem Eingang ab.",
+                "hu": "Nincs stressz a parkolóhely keresésekor; álljon meg közvetlenül a bejárat előtt.",
+                "ro": "Fără stres la căutarea locului de parcare; opriți direct în fața intrării.",
+                "en": "No stress finding parking; park your car directly in front of the entrance."
+              }
+            },
+            {
+              "name": "Savudrija Lighthouse",
+              "tip_5lang": {
+                "de": "Genießen Sie die Wärme im Auto, während Sie den Blick auf den Leuchtturm genießen.",
+                "hu": "Élvezze a fűtést az autóban, miközben a világítótorony látványában gyönyörködik.",
+                "ro": "Bucurați-vă de căldura din mașină în timp ce admirați vederea farului.",
+                "en": "Enjoy the warmth of your car while taking in the view of the lighthouse."
+              }
+            },
+            {
+              "name": "Sepomaia Archaeological Site",
+              "tip_5lang": {
+                "de": "Nutzen Sie das letzte Tageslicht gegen 16 Uhr für Fotos.",
+                "hu": "Használja ki az utolsó nappali fényeket délután 4 körül a fotózáshoz.",
+                "ro": "Profitați de ultima lumină a zilei în jurul orei 16:00 pentru fotografii.",
+                "en": "Make use of the last daylight around 4 PM for the best photos."
+              }
+            },
+            {
+              "name": "Umag Promenade",
+              "tip_5lang": {
+                "de": "Finden Sie einen Parkplatz in der Nähe eines beheizten Restaurants.",
+                "hu": "Keressen parkolót egy fűtött étterem vagy kávézó közvetlen közelében.",
+                "ro": "Căutați un loc de parcare în apropierea unui restaurant încălzit.",
+                "en": "Find a parking spot close to a heated restaurant or cafe."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Reifendruck; Kälte kann diesen beeinflussen.",
+              "Frostschutz in der Scheibenwaschanlage ist auch in Istrien ratsam.",
+              "Viele Küstenstraßen sind im Winter schlechter beleuchtet.",
+              "Nutzen Sie die kurzen Wege, um die Kältephasen draußen zu minimieren."
+            ],
+            "hu": [
+              "Ellenőrizze a guminyomást, mert a hideg hatással lehet rá.",
+              "A szélvédőmosó fagyálló legyen, Isztrián is előfordulhatnak fagyok.",
+              "Sok parti út télen kevésbé van kivilágítva, vezessen óvatosan.",
+              "Használja ki a rövid távolságokat, hogy minimalizálja a kinti tartózkodást."
+            ],
+            "ro": [
+              "Verificați presiunea în anvelope, deoarece frigul o poate influența.",
+              "Lichidul de parbriz trebuie să fie antigel, chiar și în Istria.",
+              "Multe drumuri de coastă sunt mai puțin iluminate iarna.",
+              "Profitați de distanțele scurte pentru a minimiza timpul petrecut afară."
+            ],
+            "en": [
+              "Check your tire pressure as cold temperatures can affect it.",
+              "Ensure your wiper fluid is frost-resistant, even in Istria.",
+              "Many coastal roads are less illuminated during the winter season.",
+              "Take advantage of short driving distances to minimize time spent in the cold."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -907,6 +1435,170 @@
           "The tourist train runs regularly in summer.",
           "Bus tickets are affordable."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Busbahnhof von Umag bietet einen guten Schutz für den Start. Warten Sie im Trockenen auf Ihre Verbindung in die Altstadt.\n\nDie Fahrt zur Kirche der Mariä Himmelfahrt bringt Sie nah ans Zentrum, sodass Sie nur kurze Wege im Regen zurücklegen müssen.\n\nDas Stadtmuseum ist ein idealer Stopp am Mittag. Hier können Sie die Regenpausen abwarten und gleichzeitig in die Geschichte eintauchen.\n\nNachmittags bringt Sie der Bus in Richtung Stella Maris. Die Wartehäuschen sind meist überdacht, was das Warten bei Schauern erleichtert.",
+            "hu": "Az umagi buszpályaudvar jó fedett indítópont. Várja meg a csatlakozást az óváros felé a biztonságos tető alatt.\n\nA Mária Mennybemenetele templomhoz tartó járat közel teszi le a központhoz, így csak keveset kell esőben gyalogolnia.\n\nA Városi Múzeum ideális déli megálló. Itt kivárhatja az eső szüneteit, miközben elmerül a történelemben.\n\nDélután a busz a Stella Maris felé viszi. A megállók többsége fedett, ami megkönnyíti a várakozást a záporok idején.",
+            "ro": "Autogara din Umag oferă un bun punct de plecare protejat. Așteptați legătura spre centrul vechi la adăpost.\n\nCursa spre Biserica Adormirea Maicii Domnului vă lasă aproape de centru, reducând timpul de mers prin ploaie.\n\nMuzeul Orașului este o oprire ideală la prânz. Aici puteți aștepta oprirea ploii în timp ce explorați istoria.\n\nDupă-amiaza autobuzul vă duce spre Stella Maris. Majoritatea stațiilor sunt acoperite, facilitând așteptarea în timpul averselor.",
+            "en": "Umag Bus Station provides a good sheltered starting point. Wait for your connection to the old town under the roof.\n\nThe ride to the Church of the Assumption drops you close to the center, minimizing your walking time in the rain.\n\nThe City Museum is an ideal midday stop. Here you can wait out the rain showers while immersing yourself in history.\n\nIn the afternoon, the bus takes you toward Stella Maris. Most bus stops are covered, making the wait easier during rainy spells."
+          },
+          "stops": [
+            {
+              "name": "Umag Bus Station",
+              "tip_5lang": {
+                "de": "Warten Sie in der Bahnhofshalle, bis Ihr Bus zur Abfahrt bereitsteht.",
+                "hu": "Várjon az állomás várótermében, amíg a busza indulásra kész nem lesz.",
+                "ro": "Așteptați în sala de așteptare până când autobuzul este gata de plecare.",
+                "en": "Wait in the station hall until your bus is ready for departure."
+              }
+            },
+            {
+              "name": "Church of the Assumption of Mary",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle liegt zentral; ein kurzer Sprint bringt Sie ins Trockene.",
+                "hu": "A buszmegálló központi helyen van; egy rövid futással szárazra érhet.",
+                "ro": "Stația de autobuz este centrală; un sprint scurt vă duce la adăpost.",
+                "en": "The bus stop is central; a short dash will get you to a dry spot."
+              }
+            },
+            {
+              "name": "Umag City Museum",
+              "tip_5lang": {
+                "de": "Planen Sie Ihre Rückfahrt so, dass Sie die Wartezeit im Museum verbringen.",
+                "hu": "Úgy tervezze a visszautat, hogy a várakozási időt a múzeumban töltse.",
+                "ro": "Planificați drumul de întoarcere astfel încât să așteptați în muzeu.",
+                "en": "Plan your return trip so that you spend the waiting time inside the museum."
+              }
+            },
+            {
+              "name": "Umag Promenade",
+              "tip_5lang": {
+                "de": "Suchen Sie Haltestellen mit festen Wartehäuschen entlang der Küstenstraße.",
+                "hu": "Keressen stabil váróteremmel rendelkező megállókat a parti út mentén.",
+                "ro": "Căutați stații cu adăposturi fixe de-a lungul drumului de coastă.",
+                "en": "Look for stops with solid shelters along the coastal road."
+              }
+            },
+            {
+              "name": "Stella Maris",
+              "tip_5lang": {
+                "de": "Der Bus hält direkt am Komplex; nutzen Sie die Vordächer beim Aussteigen.",
+                "hu": "A busz közvetlenül a komplexumnál áll meg; használja az előtetőket.",
+                "ro": "Autobuzul oprește chiar la complex; folosiți copertinele la coborâre.",
+                "en": "The bus stops right at the complex; use the overhangs when getting off."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Haben Sie Kleingeld für das Ticket bereit, um Verzögerungen im Regen zu vermeiden.",
+              "Die Busfrequenzen können bei extremem Wetter variieren.",
+              "Nutzen Sie die Echtzeit-Apps der Verkehrsbetriebe für genaue Wartezeiten.",
+              "Einige Busse haben Klimaanlagen, die im Sommer kühlen und im Winter heizen."
+            ],
+            "hu": [
+              "Készítsen elő aprópénzt a jegyhez, hogy elkerülje az esőben való várakozást.",
+              "A buszok menetrendje extrém időjárás esetén kis mértékben változhat.",
+              "Használja a menetrendi alkalmazásokat a pontos várakozási időhöz.",
+              "A buszok többsége fűtött, így kellemes pihenőt nyújtanak két helyszín között."
+            ],
+            "ro": [
+              "Pregătiți mărunțiș pentru bilet pentru a evita întârzierile în ploaie.",
+              "Frecvența autobuzelor poate varia în caz de vreme extremă.",
+              "Utilizați aplicațiile de transport pentru timpii de așteptare exacți.",
+              "Majoritatea autobuzelor sunt încălzite, oferind un respiro plăcut."
+            ],
+            "en": [
+              "Have small change ready for the ticket to avoid delays in the rain.",
+              "Bus frequencies might vary slightly during extreme weather conditions.",
+              "Use transit apps for real-time updates on waiting times.",
+              "Most buses are heated, providing a comfortable break between stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der winterliche Busverkehr in Umag ist pünktlich und nicht überfüllt. Starten Sie gemütlich am Busbahnhof in Ihren Tag.\n\nDie Fahrt zur Altstadt bietet einen Blick auf die ruhigen Winterstraßen. Die Busse sind gut beheizt und bieten einen angenehmen Komfort.\n\nBesuchen Sie das Stadtmuseum am Mittag; es ist nur ein kurzer Fußweg von der Bushaltestelle entfernt.\n\nAm Nachmittag bringt Sie der Transit nach Stella Maris. Genießen Sie die Fahrt entlang der Küste, während es draußen langsam dämmert.",
+            "hu": "A téli buszközlekedés Umagban pontos és nem zsúfolt. Kezdje a napot kényelmesen a buszpályaudvaron.\n\nAz óváros felé tartó út során láthatja a csendes téli utcákat. A buszok fűtöttek, kellemes kényelmet nyújtanak.\n\nLátogasson el a Városi Múzeumba délben; csak egy rövid séta a buszmegállótól az épület.\n\nDélután a busz elviszi a Stella Maris-hoz. Élvezze a tengerparti utat, miközben kint lassan alkonyodni kezd.",
+            "ro": "Transportul cu autobuzul iarna în Umag este punctual și neaglomerat. Începeți ziua confortabil la autogară.\n\nDrumul spre centrul vechi oferă o vedere asupra străzilor liniștite de iarnă. Autobuzele sunt bine încălzite și confortabile.\n\nVizitați Muzeul Orașului la prânz; este la doar o scurtă plimbare de stația de autobuz.\n\nDupă-amiaza, transportul vă duce la Stella Maris. Bucurați-vă de drumul de coastă în timp ce afară începe să se înserreze.",
+            "en": "Winter bus service in Umag is punctual and uncrowded. Start your day comfortably at the main bus station.\n\nThe ride to the old town offers views of the quiet winter streets. Buses are well-heated and provide a welcome warmth.\n\nVisit the City Museum at noon; it's only a short walk from the bus stop to the entrance.\n\nIn the afternoon, the transit takes you to Stella Maris. Enjoy the coastal route as dusk begins to settle outside."
+          },
+          "stops": [
+            {
+              "name": "Umag Bus Station",
+              "tip_5lang": {
+                "de": "Die Wartehalle ist im Winter beheizt oder zumindest windgeschützt.",
+                "hu": "A váróterem télen fűtött vagy legalább szélvédett helyet kínál.",
+                "ro": "Sala de așteptare este încălzită iarna sau cel puțin ferită de vânt.",
+                "en": "The waiting hall is heated or at least wind-sheltered in winter."
+              }
+            },
+            {
+              "name": "Church of the Assumption of Mary",
+              "tip_5lang": {
+                "de": "Warten Sie in der Kirche, wenn Sie auf den nächsten Bus zurück müssen.",
+                "hu": "Várjon a templomban, ha még sokat kell várnia a következő buszra.",
+                "ro": "Așteptați în biserică dacă mai aveți de stat după următorul autobuz.",
+                "en": "Wait inside the church if you have a long gap before the next bus."
+              }
+            },
+            {
+              "name": "Umag City Museum",
+              "tip_5lang": {
+                "de": "Informieren Sie sich über den Winterfahrplan direkt an der Haltestelle.",
+                "hu": "Tájékozódjon a téli menetrendről közvetlenül a buszmegállóban.",
+                "ro": "Informați-vă despre mersul autobuzelor iarna direct în stație.",
+                "en": "Check the winter schedule directly at the bus stop for any changes."
+              }
+            },
+            {
+              "name": "Umag Promenade",
+              "tip_5lang": {
+                "de": "Halten Sie sich im Windschatten der Gebäude an der Haltestelle auf.",
+                "hu": "Maradjon az épületek szélárnyékában a buszra való várakozás közént.",
+                "ro": "Rămâneți la adăpostul clădirilor în timp ce așteptați autobuzul.",
+                "en": "Stay in the lee of the buildings while waiting for the bus."
+              }
+            },
+            {
+              "name": "Stella Maris",
+              "tip_5lang": {
+                "de": "Prüfen Sie die letzte Abfahrtszeit, da Busse im Winter seltener fahren.",
+                "hu": "Ellenőrizze az utolsó járat indulását, mert télen ritkább a közlekedés.",
+                "ro": "Verificați ora ultimei plecări, deoarece autobuzele sunt mai rare iarna.",
+                "en": "Check the last departure time as buses run less frequently in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Im Winter gelten oft reduzierte Fahrpläne; prüfen Sie diese vorab.",
+              "Die Busse sind eine gute Möglichkeit, sich zwischen den Stopps aufzuwärmen.",
+              "Die Haltestellen sind abends gut beleuchtet.",
+              "Tragen Sie warme Kleidung, da das Warten an der Küste kühl sein kann."
+            ],
+            "hu": [
+              "Télen gyakran ritkított menetrend van érvényben; ellenőrizze előre.",
+              "A buszok kiváló alkalmat adnak a felmelegedésre két megálló között.",
+              "A megállók este jól kivilágítottak és biztonságosak.",
+              "Viseljen meleg ruhát, mert a parti szélben a várakozás hűvös lehet."
+            ],
+            "ro": [
+              "Iarna se aplică adesea orare reduse; verificați-le în prealabil.",
+              "Autobuzele sunt o modalitate bună de a vă încălzi între opriri.",
+              "Stațiile sunt bine iluminate și sigure pe timpul serii.",
+              "Purtați haine groase, deoarece așteptarea pe coastă poate fi rece."
+            ],
+            "en": [
+              "Reduced schedules often apply in winter; check them in advance.",
+              "Buses are a great way to warm up between sightseeing stops.",
+              "Bus stops are well-illuminated and safe during the evening hours.",
+              "Wear warm clothing as waiting near the coast can be chilly."
+            ]
+          }
+        }
       }
     }
   }

@@ -386,6 +386,206 @@
           "Many restaurants on the embankment offer special lunch menus at cheaper prices.",
           "Look out for the gargoyle-like downspouts on the buildings of Mariacka Street, they are unique."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag am Goldenen Tor unter dem Regenschirm. Das Hauptrathaus und der Artushof bieten trockenen Unterschlupf und faszinierende Geschichte.\n\nMittags schlendern Sie entlang der Motława; die Krantor-Passagen bieten Schutz vor Schauern. Ein langes Mittagessen am Ufer überbrückt die nasseste Zeit.\n\nDer Nachmittag gehört dem Europäischen Solidaritätszentrum. Dieses moderne Museum ist komplett überdacht und ideal für regnerische Stunden.\n\nBeenden Sie den Tag bei einem gemütlichen Abendessen an der Motława. Die Lichter der Stadt spiegeln sich wunderschön in den Pfützen und im Fluss.",
+            "hu": "Kezdje a napot az Aranykapunál esernyővel. A Városháza és az Artus-udvar belső terei tökéletes menedéket nyújtanak az eső elől.\n\nDélben a Motława partján sétáljon, ahol a Daru alatti árkádok védenek. Egy hosszabb ebéd a vízparton segít kivárni a záporok végét.\n\nA délutánt töltse az Európai Szolidaritás Központban. A modern, fedett épület órákra leköt, miközben kint esik az eső.\n\nZárja az estét egy hangulatos vacsorával a rakparton. Az esti fények különlegesen csillognak a vizes macskakövön és a folyón.",
+            "ro": "Începeți ziua la Poarta de Aur cu o umbrelă. Primăria și Curtea lui Artus oferă adăpost uscat și o istorie fascinantă în interior.\n\nLa prânz, plimbați-vă pe faleza Motława; arcadele de lângă macaraua veche vă feresc de stropi. Un prânz lung pe malul apei este ideal.\n\nDupă-amiaza aparține Centrului European de Solidaritate. Acest muzeu modern este complet acoperit și perfect pentru orele ploioase.\n\nÎncheiați ziua cu o cină caldă pe faleză. Luminile orașului se reflectă superb în bălți și în apele râului Motława.",
+            "en": "Start your day at the Golden Gate under an umbrella. The Main Town Hall and Artus Court provide dry shelter and fascinating indoor history.\n\nAt noon, stroll along the Motława; the Crane's passages offer protection from showers. A long lunch by the water bridges the wettest hours.\n\nSpend the afternoon at the European Solidarity Centre. This modern museum is fully indoor and ideal for rainy weather exploration.\n\nEnd the day with a cozy dinner by the embankment. The city lights reflect beautifully on the wet cobblestones and the river surface."
+          },
+          "stops": [
+            {
+              "name": "Golden Gate",
+              "tip_5lang": {
+                "de": "Halten Sie den Schirm bereit; der Durchgang bietet nur kurz Schutz.",
+                "hu": "Tartsa készenlétben az esernyőt; az átjáró csak rövid ideig véd.",
+                "ro": "Țineți umbrela pregătită; pasajul oferă doar o protecție scurtă.",
+                "en": "Keep your umbrella ready; the gateway provides only brief shelter."
+              }
+            },
+            {
+              "name": "Main Town Hall",
+              "tip_5lang": {
+                "de": "Perfekt bei Regen: Erkunden Sie die prachtvollen Innenräume in Ruhe.",
+                "hu": "Tökéletes esőben: fedezze fel nyugodtan a pompás belső tereket.",
+                "ro": "Perfect pe ploaie: explorați interioarele splendide în liniște.",
+                "en": "Perfect for rain: explore the magnificent interiors at your leisure."
+              }
+            },
+            {
+              "name": "Neptune's Fountain & Artus Court",
+              "tip_5lang": {
+                "de": "Schnelles Foto am Brunnen, dann ab in den trockenen Artushof.",
+                "hu": "Gyors fotó a kútnál, aztán irány a száraz Artus-udvar.",
+                "ro": "O poză rapidă la fântână, apoi intrați în Curtea lui Artus.",
+                "en": "Quick photo at the fountain, then head inside the dry Artus Court."
+              }
+            },
+            {
+              "name": "Motława Embankment & The Crane",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden der Häuser als natürlichen Regenschutz.",
+                "hu": "Használja a házak árkádjait természetes esővédőként.",
+                "ro": "Folosiți arcadele clădirilor ca protecție naturală împotriva ploii.",
+                "en": "Use the building arcades as natural protection from the rain."
+              }
+            },
+            {
+              "name": "St. Mary's Church",
+              "tip_5lang": {
+                "de": "Riesiger Innenraum – ein idealer Ort, um einen Schauer abzuwarten.",
+                "hu": "Hatalmas belső tér – ideális hely egy zápor kivárásához.",
+                "ro": "Interior imens – un loc ideal pentru a aștepta trecerea ploii.",
+                "en": "Huge interior space – an ideal spot to wait out a heavy shower."
+              }
+            },
+            {
+              "name": "European Solidarity Centre",
+              "tip_5lang": {
+                "de": "Trockenes Highlight: Planen Sie hier bei starkem Regen mehr Zeit ein.",
+                "hu": "Száraz fénypont: tartós eső esetén tervezzen ide több időt.",
+                "ro": "Punct culminant uscat: alocați mai mult timp aici dacă plouă tare.",
+                "en": "Dry highlight: plan more time here if the rain is persistent."
+              }
+            },
+            {
+              "name": "Dinner at the Motława Embankment",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit Blick auf den regnerischen Fluss.",
+                "hu": "Válasszon olyan éttermet, ahonnan rálátni az esős folyóra.",
+                "ro": "Alegeți un restaurant cu vedere la râul ploios.",
+                "en": "Choose a restaurant with a view of the rain-dusted river."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da die alten Macshkalköste bei Nässe rutschig werden.",
+              "Nutzen Sie die vielen Cafés in der Mariacka-Straße für kurze Pausen.",
+              "Die Bernsteingeschäfte bieten oft Vordächer zum Unterstellen.",
+              "Ein Taschenschirm ist wegen des oft böigen Windes an der Motława praktischer als ein Stockschirm."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert a régi macskakő vizesen csúszóssá válik.",
+              "Használja ki a Mariacka utca kávézóit rövid pihenőkre az eső elől.",
+              "A borostyánboltok előtetői jó menedéket nyújtanak a futó záporoknál.",
+              "Az összecsukható esernyő praktikusabb a Motława menti szeles időben."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă; pavajul vechi devine alunecos când e ud.",
+              "Profitați de cafenelele de pe strada Mariacka pentru pauze scurte.",
+              "Copertinele magazinelor de chihlimbar sunt bune pentru adăpost rapid.",
+              "O umbrelă compactă este mai practică din cauza vântului de pe faleză."
+            ],
+            "en": [
+              "Wear waterproof shoes as the old cobblestones get slippery when wet.",
+              "Take advantage of the cafes on Mariacka Street for short rain breaks.",
+              "Amber shop awnings offer good temporary shelter from sudden showers.",
+              "A compact umbrella is more practical than a large one due to wind gusts."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Danzig im Winter ist magisch und frisch. Starten Sie am Goldenen Tor; der Frost verleiht den historischen Fassaden einen besonderen Glanz.\n\nMittags wärmt ein Becher heißer Schokolade am Neptunbrunnen. Der Blick auf die gefrorene Motława am Krantor ist im klaren Winterlicht atemberaubend.\n\nDer Nachmittag im Solidaritätszentrum bietet willkommene Wärme. Da es früh dunkel wird (ca. 16:00 Uhr), erleben Sie die Denkmäler danach beleuchtet.\n\nAbendessen an der Motława ist im Winter besonders gemütlich. Die beleuchteten Speicherinseln spiegeln sich im kalten Wasser oder auf dem Eis.",
+            "hu": "Gdańsk télen varázslatos és friss. Kezdje a napot az Aranykapunál; a dér különleges fényt ad a történelmi homlokzatoknak.\n\nDélben egy forró csokoládé a Neptun-kútnál segít a felmelegedésben. A fagyos Motława látványa a Daruval lenyűgöző a tiszta téli fényben.\n\nA délután a Szolidaritás Központban melengető élmény. Mivel korán sötétedik (16:00 körül), az emlékműveket már kivilágítva látja utána.\n\nA vacsora a rakparton télen kifejezetten meghitt. A kivilágított raktárépületek tükröződése a hideg vízen vagy jégen felejthetetlen.",
+            "ro": "Gdańsk iarna este magic și revigorant. Începeți la Poarta de Aur; gerul oferă o strălucire aparte fațadelor istorice.\n\nLa prânz, o ciocolată caldă lângă Fântâna lui Neptun vă va încălzi. Vederea Motławei înghețate lângă Macara este superbă în lumina iernii.\n\nDupă-amiaza la Centrul de Solidaritate oferă căldură binevenită. Deoarece se întunecă devreme (cca. 16:00), veți vedea monumentele iluminate.\n\nCina pe faleză este extrem de primitoare iarna. Depozitele iluminate de pe insulă se oglindesc frumos în apa rece sau pe gheață.",
+            "en": "Gdańsk in winter is magical and crisp. Start at the Golden Gate; the frost adds a unique sparkle to the historic facades.\n\nAt noon, a hot chocolate near Neptune’s Fountain warms you up. The view of the frozen Motława by the Crane is breathtaking in the winter light.\n\nThe afternoon at the Solidarity Centre provides welcome warmth. Since it gets dark early (around 4 PM), you'll see monuments illuminated afterwards.\n\nDinner by the embankment is extra cozy in winter. The lit-up granary islands reflect beautifully in the cold water or on the ice."
+          },
+          "stops": [
+            {
+              "name": "Golden Gate",
+              "tip_5lang": {
+                "de": "Vorsicht bei Glätte auf den Steinstufen unter dem Tor.",
+                "hu": "Vigyázat, a kapu alatti kőlépcsők csúszósak lehetnek.",
+                "ro": "Atenție la gheață pe treptele de piatră de sub poartă.",
+                "en": "Watch out for slippery patches on the stone steps under the gate."
+              }
+            },
+            {
+              "name": "Main Town Hall",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe, um den schweren Mantel abzulegen.",
+                "hu": "Használja a ruhatárat, hogy levehesse a nehéz kabátot.",
+                "ro": "Folosiți garderoba pentru a lăsa haina grea de iarnă.",
+                "en": "Use the cloakroom to take off your heavy winter coat."
+              }
+            },
+            {
+              "name": "Neptune's Fountain & Artus Court",
+              "tip_5lang": {
+                "de": "Oft steht hier ein Weihnachtsbaum – ein tolles Fotomotiv.",
+                "hu": "Gyakran áll itt karácsonyfa – remek fotótéma.",
+                "ro": "Adesea aici se află un brad de Crăciun – un decor foto superb.",
+                "en": "A Christmas tree often stands here – a great photo opportunity."
+              }
+            },
+            {
+              "name": "Motława Embankment & The Crane",
+              "tip_5lang": {
+                "de": "Der Wind vom Fluss ist eisig; Mütze und Schal sind Pflicht.",
+                "hu": "A folyó felől fújó szél jeges; sapka és sál kötelező.",
+                "ro": "Vântul de pe râu este tăios; căciula și fularul sunt obligatorii.",
+                "en": "The wind from the river is icy; a hat and scarf are essential."
+              }
+            },
+            {
+              "name": "St. Mary's Church",
+              "tip_5lang": {
+                "de": "Die Kirche ist recht kühl; behalten Sie die Jacke lieber an.",
+                "hu": "A templom elég hűvös; jobb, ha magán hagyja a kabátot.",
+                "ro": "Biserica este destul de rece; mai bine păstrați jacheta pe dvs.",
+                "en": "The church is quite chilly; better keep your jacket on inside."
+              }
+            },
+            {
+              "name": "European Solidarity Centre",
+              "tip_5lang": {
+                "de": "Perfekter Ort zum Aufwärmen bei einem ausgiebigen Rundgang.",
+                "hu": "Tökéletes hely a felmelegedésre egy alapos körbejárás közben.",
+                "ro": "Locul perfect pentru a vă încălzi în timpul unei vizite lungi.",
+                "en": "Perfect place to warm up during an extensive indoor tour."
+              }
+            },
+            {
+              "name": "Dinner at the Motława Embankment",
+              "tip_5lang": {
+                "de": "Reservieren Sie einen Tisch nahe der Heizung oder am Fenster.",
+                "hu": "Foglaljon asztalt a fűtés közelében vagy az ablak mellett.",
+                "ro": "Rezervați o masă lângă calorifer sau lângă fereastră.",
+                "en": "Book a table near the heater or right by the window."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Dezember bereits gegen 15:45 Uhr unter.",
+              "Tragen Sie Zwiebelschichten, da Museen gut beheizt sind.",
+              "Besuchen Sie den Weihnachtsmarkt auf dem Kohlenmarkt (Targ Węglowy).",
+              "Halten Sie Ausschau nach 'Grzaniec' (Glühwein) in den Cafés."
+            ],
+            "hu": [
+              "A nap decemberben már 15:45 körül lemegy.",
+              "Öltözzön rétegesen, mert a múzeumok jól fűtöttek.",
+              "Látogasson el a karácsonyi vásárba a Szénpiacon (Targ Węglowy).",
+              "Keresse a 'Grzaniec'-et (forralt bor) a helyi kávézókban."
+            ],
+            "ro": [
+              "Soarele apune în decembrie deja în jurul orei 15:45.",
+              "Îmbrăcați-vă în straturi; muzeele sunt bine încălzite.",
+              "Vizitați piața de Crăciun din Piața Cărbunelui (Targ Węglowy).",
+              "Căutați 'Grzaniec' (vin fiert) în cafenelele locale."
+            ],
+            "en": [
+              "The sun sets as early as 3:45 PM in December.",
+              "Dress in layers because museums are well-heated inside.",
+              "Visit the Christmas Market at the Coal Market (Targ Węglowy).",
+              "Look for 'Grzaniec' (mulled wine) in the local cafes."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -742,6 +942,188 @@
           "Some paths are on cobblestones, which can be challenging.",
           "Bring a good lock and always secure your bike, especially in tourist areas."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert gute Kleidung. Starten Sie am Langen Markt; achten Sie auf die nassen Steine.\n\nMittags radeln Sie vorsichtig an der Motława entlang. Die Sicht kann getrübt sein, aber die Krantor-Silhouette bleibt imposant.\n\nDer Nachmittag im Solidaritätszentrum bietet eine lange Pause vom Regen. Die Fahrradständer sind oft nah am Eingang.\n\nNach einem herzhaften Mittagessen in der Werftnähe radeln Sie zurück zur Marienkirche, während der Regen hoffentlich nachlässt.",
+            "hu": "A kerékpározás esőben jó felszerelést igényel. Kezdje a Hosszú piacon; ügyeljen a vizes kövekre.\n\nDélben óvatosan tekerjen a Motława mentén. A kilátás borús lehet, de a Daru sziluettje így is impozáns.\n\nA délután a Szolidaritás Központban hosszú szünetet jelent az esőben. A kerékpártárolók közel vannak a bejárathoz.\n\nEgy kiadós hajógyári ebéd után tekerjen vissza a Marienkirchéhez, remélve, hogy az eső csendesedik.",
+            "ro": "O tură cu bicicleta pe ploaie necesită echipament bun. Începeți în Piața Lungă; atenție la pavajul ud.\n\nLa prânz, pedalați cu grijă de-a lungul Motławei. Vizibilitatea poate fi redusă, dar silueta Macaralei rămâne impunătoare.\n\nDupă-amiaza la Centrul de Solidaritate oferă o pauză lungă de ploaie. Suporturile de biciclete sunt aproape de intrare.\n\nDupă un prânz consistent lângă șantierul naval, pedalați înapoi spre Biserica Sf. Maria, sperând că ploaia se va opri.",
+            "en": "Cycling in the rain requires proper gear. Start at the Long Market; watch out for the wet cobblestones.\n\nAt noon, cycle carefully along the Motława. The view might be misty, but the Crane’s silhouette remains imposing.\n\nThe afternoon at the Solidarity Centre offers a long break from the rain. Bike racks are usually close to the entrance.\n\nAfter a hearty lunch near the shipyards, cycle back to St. Mary's Church, hopefully as the rain subsides."
+          },
+          "stops": [
+            {
+              "name": "Main Town Hall & Long Market",
+              "tip_5lang": {
+                "de": "Vorsicht beim Anfahren: Das nasse Pflaster ist extrem glatt.",
+                "hu": "Vigyázat az indulásnál: a vizes macskakő rendkívül csúszós.",
+                "ro": "Atenție la pornire: pavajul ud este extrem de alunecos.",
+                "en": "Careful when starting: the wet cobblestones are extremely slippery."
+              }
+            },
+            {
+              "name": "Motława Embankment & The Crane",
+              "tip_5lang": {
+                "de": "Halten Sie Abstand zum Uferrand; bei Regen wird es rutschig.",
+                "hu": "Tartson távolságot a part szélétől; esőben csúszós lesz.",
+                "ro": "Păstrați distanța față de marginea falezei; devine alunecos.",
+                "en": "Keep a safe distance from the water's edge; it gets slippery."
+              }
+            },
+            {
+              "name": "European Solidarity Centre",
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Bereiche zum Abstellen des Rades.",
+                "hu": "Használja a fedett részeket a kerékpár tárolására.",
+                "ro": "Folosiți zonele acoperite pentru a lăsa bicicleta.",
+                "en": "Use covered areas to park your bike if available nearby."
+              }
+            },
+            {
+              "name": "Lunch near the shipyards",
+              "tip_5lang": {
+                "de": "Wischen Sie den Sattel trocken, bevor Sie wieder aufsteigen.",
+                "hu": "Törölje szárazra a nyerget, mielőtt újra felpattan.",
+                "ro": "Ștergeți șaua înainte de a pleca din nou la drum.",
+                "en": "Wipe the saddle dry before getting back on your bike."
+              }
+            },
+            {
+              "name": "Westerplatte",
+              "tip_5lang": {
+                "de": "Die Wege hier können bei Regen matschig sein; vorsichtig fahren.",
+                "hu": "Az utak itt sárosak lehetnek esőben; tekerjen óvatosan.",
+                "ro": "Drumurile pot fi noroioase pe ploaie; pedalați cu grijă.",
+                "en": "Paths here can be muddy in the rain; cycle with caution."
+              }
+            },
+            {
+              "name": "Return to St. Mary's Church",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen; der Bremsweg ist auf nassem Stein länger.",
+                "hu": "Ellenőrizze a fékeket; a féktáv hosszabb a vizes kövön.",
+                "ro": "Verificați frânele; distanța de frânare e mai mare pe piatră udă.",
+                "en": "Check your brakes; stopping distance is longer on wet stone."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie einen hellen Regenponcho für bessere Sichtbarkeit.",
+              "Vermeiden Sie Straßenbahnschienen, diese sind bei Nässe tückisch.",
+              "Prüfen Sie den Reifendruck; etwas weniger Druck gibt mehr Grip.",
+              "Schutzbleche sind bei diesem Wetter in Danzig unerlässlich."
+            ],
+            "hu": [
+              "Viseljen világos esőponcsót a jobb láthatóság érdekében.",
+              "Kerülje a villamossíneket, vizesen nagyon veszélyesek.",
+              "Ellenőrizze a guminyomást; a kicsit kisebb nyomás jobb tapadást ad.",
+              "A sárvédő elengedhetetlen ilyenkor Gdańskban."
+            ],
+            "ro": [
+              "Purtați un pelerină de ploaie colorată pentru vizibilitate.",
+              "Evitați șinele de tramvai, sunt foarte periculoase când sunt ude.",
+              "Verificați presiunea; o presiune mai mică oferă aderență mai bună.",
+              "Aripile la bicicletă sunt esențiale pe această vreme."
+            ],
+            "en": [
+              "Wear a bright rain poncho for better visibility to cars.",
+              "Avoid tram tracks; they are treacherous when wet.",
+              "Check tire pressure; slightly lower pressure gives better grip.",
+              "Mudguards are essential for this weather in Gdańsk."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im Danziger Winter ist erfrischend. Starten Sie früh am Langen Markt, um das Tageslicht optimal zu nutzen.\n\nMittags ist die Fahrt an der Motława windig; warme Handschuhe sind wichtig. Der Blick auf den Hafen ist klar und weit.\n\nVerbringen Sie die kältesten Stunden im Solidaritätszentrum. Die Wärme dort ist nach der Radfahrt besonders angenehm.\n\nFahren Sie rechtzeitig zur Westerplatte und zurück, da die Dämmerung im Winter sehr schnell einsetzt.",
+            "hu": "A kerékpározás a gdański télben frissítő. Kezdjen korán a Hosszú piacon, hogy kihasználja a nappali fényt.\n\nDélben a Motława menti út szeles; a meleg kesztyű elengedhetetlen. A kikötői kilátás ilyenkor tiszta és tágas.\n\nA leghidegebb órákat töltse a Szolidaritás Központban. A benti meleg nagyon jólesik a tekerés után.\n\nIdőben induljon a Westerplattéra és vissza, mert a téli szürkület nagyon gyorsan beköszönt.",
+            "ro": "Pedalatul în iarna din Gdańsk este revigorant. Începeți devreme în Piața Lungă pentru a profita de lumină.\n\nLa prânz, drumul pe faleză este vântos; mănușile groase sunt vitale. Vederea spre port este clară și vastă.\n\nPetreceți orele cele mai reci la Centrul de Solidaritate. Căldura de acolo e plăcută după efortul pe bicicletă.\n\nPlecați din timp spre Westerplatte și înapoi, deoarece amurgul vine foarte repede iarna.",
+            "en": "Cycling in Gdańsk's winter is refreshing. Start early at the Long Market to make the most of the daylight.\n\nAt noon, the ride along the Motława is windy; warm gloves are vital. The harbor views are clear and far-reaching.\n\nSpend the coldest hours at the Solidarity Centre. The warmth inside is especially pleasant after cycling.\n\nHead to Westerplatte and back in good time, as winter twilight arrives very quickly."
+          },
+          "stops": [
+            {
+              "name": "Main Town Hall & Long Market",
+              "tip_5lang": {
+                "de": "Achten Sie auf überfrierende Nässe im Schatten der Gebäude.",
+                "hu": "Ügyeljen a lefagyásokra az épületek árnyékában.",
+                "ro": "Atenție la porțiunile înghețate la umbra clădirilor.",
+                "en": "Watch out for black ice in the shadows of the buildings."
+              }
+            },
+            {
+              "name": "Motława Embankment & The Crane",
+              "tip_5lang": {
+                "de": "Starker Wind von der Ostsee – halten Sie den Lenker fest.",
+                "hu": "Erős szél a Balti-tenger felől – fogja erősen a kormányt.",
+                "ro": "Vânt puternic dinspre Baltica – țineți bine de ghidon.",
+                "en": "Strong wind from the Baltic – keep a firm grip on the handlebars."
+              }
+            },
+            {
+              "name": "European Solidarity Centre",
+              "tip_5lang": {
+                "de": "Schließen Sie Ihr Rad gut ab; die Finger können beim Aufschließen steif sein.",
+                "hu": "Zárja le jól a gépet; az ujjak merevek lehetnek a nyitáskor.",
+                "ro": "Încuiați bine bicicleta; degetele pot fi amorțite la descuiat.",
+                "en": "Lock your bike well; fingers might be stiff when unlocking later."
+              }
+            },
+            {
+              "name": "Lunch near the shipyards",
+              "tip_5lang": {
+                "de": "Ein heißer Tee ist jetzt besser als ein kaltes Getränk.",
+                "hu": "Egy forró tea most jobb, mint egy hideg ital.",
+                "ro": "Un ceai fierbinte este mai bun acum decât o băutură rece.",
+                "en": "A hot tea is better now than a cold drink."
+              }
+            },
+            {
+              "name": "Westerplatte",
+              "tip_5lang": {
+                "de": "Sehr exponiertes Gelände; ziehen Sie eine extra Schicht an.",
+                "hu": "Nagyon kitett terep; vegyen fel egy extra réteget.",
+                "ro": "Teren foarte expus; mai puneți un strat de haine pe dvs.",
+                "en": "Very exposed area; put on an extra layer before exploring."
+              }
+            },
+            {
+              "name": "Return to St. Mary's Church",
+              "tip_5lang": {
+                "de": "Schalten Sie das Licht ein; ab 15:30 Uhr wird es dämmrig.",
+                "hu": "Kapcsolja be a lámpát; 15:30-tól már szürkül.",
+                "ro": "Aprindeți luminile; se înserează deja de la 15:30.",
+                "en": "Turn on your lights; it starts getting dark from 3:30 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Fahrradbeleuchtung vor der Abfahrt.",
+              "Verwenden Sie Thermo-Handschuhe und winddichte Kleidung.",
+              "Vermeiden Sie bei Eis die schmalen Gassen der Altstadt.",
+              "Die salzhaltige Luft und das Streusalz greifen die Kette an; nachher reinigen."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze a kerékpár világítását.",
+              "Használjon termokesztyűt és szélálló ruházatot.",
+              "Jeges időben kerülje az óváros szűk sikátorait.",
+              "A sós levegő és az útszóró só marja a láncot; utána tisztítsa le."
+            ],
+            "ro": [
+              "Verificați luminile bicicletei înainte de plecare.",
+              "Folosiți mănuși termice și haine rezistente la vânt.",
+              "Evitați străduțele înguste din centrul vechi dacă e polei.",
+              "Aerul sărat și sarea de pe drum atacă lanțul; curățați-l după tură."
+            ],
+            "en": [
+              "Check your bike lights thoroughly before starting.",
+              "Use thermal gloves and windproof clothing.",
+              "Avoid narrow Old Town alleys if there is ice on the ground.",
+              "Salt air and road salt can corrode the chain; clean it afterwards."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1122,6 +1504,206 @@
           "A GPS is essential for navigating the Tri-City (Gdańsk, Sopot, Gdynia) area.",
           "Check the opening hours and organ concert schedules for Oliwa Cathedral in advance."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Danzig auch bei Regen komfortabel. Starten Sie in Oliwa; der Dom bietet Schutz während der Orgelvorführung.\n\nMittags fahren Sie zur Westerplatte. Sie können im Auto warten, bis der stärkste Regen nachlässt, bevor Sie das Denkmal besichtigen.\n\nParken Sie im Parkhaus in der Altstadt. So erreichen Sie den Langen Markt und die Motława mit nur kurzen Wegen im Freien.\n\nDer späte Nachmittag in der Marienkirche ist ideal, um trocken zu bleiben, bevor Sie zum Abendessen aufbrechen.",
+            "hu": "Autóval Gdańsk esőben is kényelmes. Kezdjen Olivában; a székesegyház védelmet nyújt az orgonajáték alatt.\n\nDélben hajtson a Westerplattéra. Az autóban megvárhatja a hevesebb eső végét, mielőtt megnézné az emlékművet.\n\nParkoljon az óvárosi parkolóházban. Így a Hosszú piac és a Motława csak rövid sétára lesz a szabadban.\n\nA késő délután a Marienkirchében ideális a szárazon maradáshoz, mielőtt vacsorázni indulna.",
+            "ro": "Cu mașina, Gdańsk este confortabil chiar și pe ploaie. Începeți în Oliwa; catedrala oferă adăpost în timpul concertului de orgă.\n\nLa prânz, conduceți spre Westerplatte. Puteți aștepta în mașină să treacă ploaia torențială înainte de a vizita monumentul.\n\nParcați în parcarea etajată din centrul vechi. Astfel ajungeți rapid la Piața Lungă și faleză, stând puțin afară.\n\nDupă-amiaza târzie la Biserica Sf. Maria este ideală pentru a rămâne uscat înainte de cină.",
+            "en": "By car, Gdańsk is comfortable even in the rain. Start in Oliwa; the cathedral offers shelter during the organ recital.\n\nAt noon, drive to Westerplatte. You can wait in the car for heavy rain to pass before visiting the monument.\n\nPark in the multi-story garage in the Old Town. This keeps your walk to Long Market and Motława very short.\n\nLate afternoon at St. Mary's Church is ideal for staying dry before heading out for dinner."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Oliwa Cathedral & Park",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Kircheneingang, um nicht nass zu werden.",
+                "hu": "Parkoljon közel a templombejárathoz, hogy ne ázzon meg.",
+                "ro": "Parcați aproape de intrarea în biserică pentru a evita ploaia.",
+                "en": "Park close to the church entrance to minimize time in the rain."
+              }
+            },
+            {
+              "name": "Stroll in Oliwa Park",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Palmenpavillon als trockenen Rückzugsort.",
+                "hu": "Használja a pálmaházat száraz menedékként.",
+                "ro": "Folosiți pavilionul cu palmieri ca refugiu uscat.",
+                "en": "Use the palm house as a dry retreat during your stroll."
+              }
+            },
+            {
+              "name": "Cluster 2: Westerplatte",
+              "tip_5lang": {
+                "de": "Bei starkem Regen ist die Sicht vom Parkplatz aus begrenzt.",
+                "hu": "Heves esőben a kilátás a parkolóból korlátozott.",
+                "ro": "Pe ploaie torențială, vizibilitatea din parcare este redusă.",
+                "en": "In heavy rain, visibility from the parking lot is limited."
+              }
+            },
+            {
+              "name": "Cluster 3: Main Town (Parking Garage)",
+              "tip_5lang": {
+                "de": "Wählen Sie ein überdachtes Parkhaus für bequemes Aussteigen.",
+                "hu": "Válasszon fedett parkolóházat a kényelmes kiszálláshoz.",
+                "ro": "Alegeți o parcare acoperită pentru a coborî confortabil.",
+                "en": "Choose a covered parking garage for convenient exit."
+              }
+            },
+            {
+              "name": "Lunch and stroll at Motława Embankment",
+              "tip_5lang": {
+                "de": "Lassen Sie den Schirm im Auto, falls das Restaurant nah ist.",
+                "hu": "Hagyja az ernyőt a kocsiban, ha az étterem közel van.",
+                "ro": "Lăsați umbrela în mașină dacă restaurantul e foarte aproape.",
+                "en": "Leave your umbrella in the car if the restaurant is very close."
+              }
+            },
+            {
+              "name": "Neptune's Fountain & Artus Court",
+              "tip_5lang": {
+                "de": "Kurzer Sprint vom Parkplatz zum Artushof einplanen.",
+                "hu": "Tervezzen egy rövid sprintet a parkolótól az Artus-udvarig.",
+                "ro": "Planificați un sprint scurt de la parcare la Curtea lui Artus.",
+                "en": "Plan for a quick sprint from the car to Artus Court."
+              }
+            },
+            {
+              "name": "St. Mary's Church & Amber Shopping",
+              "tip_5lang": {
+                "de": "Die Geschäfte liegen nah beieinander, ideal bei Regen.",
+                "hu": "A boltok közel vannak egymáshoz, ideális esőben.",
+                "ro": "Magazinele sunt aproape unele de altele, ideal pe ploaie.",
+                "en": "Shops are clustered together, making them ideal for rainy visits."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Zustand Ihrer Scheibenwischer vor der Fahrt.",
+              "Nutzen Sie Park-Apps, um das Bezahlen im Regen am Automaten zu vermeiden.",
+              "Die Straßen in der Altstadt können bei Nässe rutschig sein.",
+              "Vermeiden Sie Pfützen am Straßenrand, um Fußgänger nicht zu bespritzen."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze az ablaktörlők állapotát.",
+              "Használjon parkolási appot, hogy ne kelljen az esőben az automatánál állni.",
+              "Az óvárosi utak vizesen csúszósak lehetnek.",
+              "Kerülje az útmenti tócsákat, hogy ne fröcskölje le a gyalogosokat."
+            ],
+            "ro": [
+              "Verificați starea ștergătoarelor înainte de a pleca la drum.",
+              "Folosiți aplicații de parcare pentru a nu sta în ploaie la automat.",
+              "Străzile din centrul vechi pot fi alunecoase când sunt ude.",
+              "Evitați bălțile de la marginea drumului pentru a nu stropi pietonii."
+            ],
+            "en": [
+              "Check the condition of your windshield wipers before driving.",
+              "Use parking apps to avoid standing in the rain at the meter.",
+              "Old Town streets can be slippery when wet.",
+              "Avoid roadside puddles to prevent splashing pedestrians."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Danzig im Winter per Auto bietet Wärme und Flexibilität. Starten Sie im winterlichen Oliwa; der Park ist oft wunderschön verschneit.\n\nMittags ist die Fahrt zur Westerplatte kühl, aber im geheizten Auto angenehm. Genießen Sie den weiten Blick auf die Ostsee.\n\nParken Sie zentral in der Altstadt. Die kurzen Wege zum Neptunbrunnen sind auch bei Frost gut zu bewältigen.\n\nVerbringen Sie den späten Nachmittag beim Bernstein-Shopping. Danach ist das Auto der perfekte Ort, um sich aufzuwärmen.",
+            "hu": "Gdańsk télen autóval meleget és rugalmasságot nyújt. Kezdjen a téli Olivában; a park gyakran gyönyörűen havas.\n\nDélben a Westerplattéra vezető út hűvös, de a fűtött autóban kellemes. Élvezze a tágas kilátást a Balti-tengerre.\n\nParkoljon központilag az óvárosban. A Neptun-kúthoz vezető rövid utak fagyban is jól bírhatók.\n\nA késő délutánt töltse borostyán-vásárlással. Utána az autó a legjobb hely a felmelegedésre.",
+            "ro": "Gdańsk iarna cu mașina oferă căldură și flexibilitate. Începeți în Oliwa; parcul este adesea acoperit de zăpadă.\n\nLa prânz, drumul spre Westerplatte este rece, dar plăcut în mașina încălzită. Bucurați-vă de vederea spre Marea Baltică.\n\nParcați central în orașul vechi. Drumurile scurte spre Fântâna lui Neptun sunt ușor de parcurs chiar și pe ger.\n\nDupă-amiaza târzie este pentru cumpărături de chihlimbar. Apoi, mașina este locul perfect pentru a vă reîncălzi.",
+            "en": "Gdańsk in winter by car offers warmth and flexibility. Start in wintry Oliwa; the park is often beautifully snow-covered.\n\nAt noon, the drive to Westerplatte is cold but pleasant in a heated car. Enjoy the vast views of the Baltic Sea.\n\nPark centrally in the Old Town. Short walks to Neptune's Fountain are manageable even in freezing weather.\n\nSpend the late afternoon amber shopping. Afterwards, the car is the perfect place to warm up and relax."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Oliwa Cathedral & Park",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf dem Parkplatz.",
+                "hu": "Ügyeljen a jegesedésre a parkolóban.",
+                "ro": "Atenție la polei în zona parcării.",
+                "en": "Watch out for icy patches in the parking area."
+              }
+            },
+            {
+              "name": "Stroll in Oliwa Park",
+              "tip_5lang": {
+                "de": "Bei Schnee sind die Wege im Park besonders malerisch.",
+                "hu": "Hóban a park ösvényei különösen festőiek.",
+                "ro": "Când ninge, aleile parcului sunt extrem de pitorești.",
+                "en": "The park paths are especially picturesque in the snow."
+              }
+            },
+            {
+              "name": "Cluster 2: Westerplatte",
+              "tip_5lang": {
+                "de": "Heizung im Auto lassen, während Sie kurz rausgehen.",
+                "hu": "Hagyja menni a fűtést a kocsiban, amíg rövid időre kiszáll.",
+                "ro": "Lăsați căldura pornită în mașină cât timp ieșiți scurt afară.",
+                "en": "Keep the car heater on while you step out for a short walk."
+              }
+            },
+            {
+              "name": "Cluster 3: Main Town (Parking Garage)",
+              "tip_5lang": {
+                "de": "Ein Parkhaus schützt Ihr Auto vor Frost und Schnee.",
+                "hu": "A parkolóház védi az autót a fagytól és a hótól.",
+                "ro": "O parcare acoperită vă protejează mașina de îngheț și zăpadă.",
+                "en": "A parking garage protects your car from frost and snow."
+              }
+            },
+            {
+              "name": "Lunch and stroll at Motława Embankment",
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Restaurant.",
+                "hu": "Parkoljon a lehető legközelebb az étteremhez.",
+                "ro": "Parcați cât mai aproape posibil de restaurant.",
+                "en": "Park as close to the restaurant as possible."
+              }
+            },
+            {
+              "name": "Neptune's Fountain & Artus Court",
+              "tip_5lang": {
+                "de": "Kurzer Aufenthalt im Freien, dann Aufwärmen im Artushof.",
+                "hu": "Rövid kint tartózkodás, majd melegedés az Artus-udvarban.",
+                "ro": "Scurtă ședere afară, apoi încălzire în Curtea lui Artus.",
+                "en": "Short stay outdoors, then warm up inside Artus Court."
+              }
+            },
+            {
+              "name": "St. Mary's Church & Amber Shopping",
+              "tip_5lang": {
+                "de": "Bernstein leuchtet im warmen Licht der Geschäfte besonders schön.",
+                "hu": "A borostyán különösen szépen ragyog a boltok meleg fényében.",
+                "ro": "Chihlimbarul strălucește frumos în lumina caldă a magazinelor.",
+                "en": "Amber glows beautifully in the warm light of the shops."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Führen Sie einen Eiskratzer und Frostschutzmittel mit.",
+              "Achten Sie auf Winterreifen; in Polen herrscht oft strenger Frost.",
+              "Die Parkplatzsuche ist im Winter meist einfacher als im Sommer.",
+              "Vermeiden Sie das Parken unter schneebedeckten Dächern."
+            ],
+            "hu": [
+              "Legyen Önnél jégkaparó és fagyálló folyadék.",
+              "Ügyeljen a téli gumikra; Lengyelországban gyakori a kemény fagy.",
+              "A parkolókeresés télen általában könnyebb, mint nyáron.",
+              "Kerülje a parkolást havas tetők alatt."
+            ],
+            "ro": [
+              "Aveți la voi o răzuitoare de gheață și lichid de parbriz de iarnă.",
+              "Atenție la anvelopele de iarnă; în Polonia gerul este adesea aspru.",
+              "Găsirea unui loc de parcare este mai ușoară iarna decât vara.",
+              "Evitați parcarea sub acoperișurile pline de zăpadă."
+            ],
+            "en": [
+              "Carry an ice scraper and winter windshield fluid.",
+              "Ensure you have winter tires; Polish winters can be severe.",
+              "Finding parking is usually easier in winter than in summer.",
+              "Avoid parking directly under snow-laden roofs."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1502,6 +2084,206 @@
           "Always validate your ticket immediately after boarding to avoid a fine.",
           "The SKM trains to Sopot and Gdynia are very frequent and a great way to explore the Tri-City."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Danzigs Nahverkehr hält Sie im Regen trocken. Starten Sie im Solidaritätszentrum; die Straßenbahnstation ist fast direkt vor der Tür.\n\nMittags bringt Sie die Tram bequem zum Langen Markt. Genießen Sie ein Mittagessen, während Sie dem Regen zusehen.\n\nDie Fahrt mit dem SKM-Zug nach Oliwa ist schnell und wettergeschützt. Besichtigen Sie den Dom, während es draußen schüttet.\n\nZárja a napot vacsorával Olivában, majd induljon vissza a szállására a kivilágított, esős városon át.",
+            "hu": "Gdańsk tömegközlekedése szárazon tartja esőben. Kezdjen a Szolidaritás Központban; a villamosmegálló szinte az ajtó előtt van.\n\nDélben a villamos kényelmesen elviszi a Hosszú piacra. Élvezze az ebédet, miközben az esőt figyeli.\n\nAz SKM vonatút Olivába gyors és védett az időjárástól. Nézze meg a székesegyházat, miközben kint szakad.\n\nZárja a napot vacsorával Olivában, majd induljon vissza a szállására a kivilágított, esős városon át.",
+            "ro": "Transportul public din Gdańsk vă menține uscat pe ploaie. Începeți la Centrul de Solidaritate; stația de tramvai e aproape.\n\nLa prânz, tramvaiul vă duce confortabil la Piața Lungă. Savurați prânzul privind ploaia de la fereastră.\n\nCălătoria cu trenul SKM spre Oliwa este rapidă și ferită de vreme. Vizitați catedrala în timp ce afară plouă torențial.\n\nÎncheiați ziua cu o cină în Oliwa, apoi întoarceți-vă la cazare prin orașul ploios și luminat.",
+            "en": "Gdańsk’s public transport keeps you dry during the rain. Start at the Solidarity Centre; the tram stop is almost at the doorstep.\n\nAt noon, the tram takes you comfortably to the Long Market. Enjoy your lunch while watching the rain fall outside.\n\nThe SKM train ride to Oliwa is fast and weather-protected. Visit the cathedral while it's pouring outside.\n\nEnd the day with dinner in Oliwa, then head back to your accommodation through the lit-up, rainy city."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: European Solidarity Centre",
+              "tip_5lang": {
+                "de": "Die Haltestelle 'Stocznia' ist nur wenige Gehminuten entfernt.",
+                "hu": "A 'Stocznia' megálló mindössze pár perc séta.",
+                "ro": "Stația 'Stocznia' este la doar câteva minute de mers pe jos.",
+                "en": "The 'Stocznia' stop is only a few minutes' walk away."
+              }
+            },
+            {
+              "name": "Monument to the Fallen Shipyard Workers",
+              "tip_5lang": {
+                "de": "Kurzer Aufenthalt, dann schnell zurück unter das Bahnhofsdach.",
+                "hu": "Rövid kint tartózkodás, majd gyorsan vissza az állomás teteje alá.",
+                "ro": "Vizită scurtă, apoi repede înapoi sub acoperișul gării.",
+                "en": "A brief stop, then head back quickly under the station roof."
+              }
+            },
+            {
+              "name": "Cluster 2: Main Town (Brama Wyżynna tram stop)",
+              "tip_5lang": {
+                "de": "Warten Sie im überdachten Wartehäuschen auf die Tram.",
+                "hu": "Várja a villamost a fedett utasváróban.",
+                "ro": "Așteptați tramvaiul în refugiul acoperit din stație.",
+                "en": "Wait for the tram inside the covered shelter."
+              }
+            },
+            {
+              "name": "Lunch at the Long Market",
+              "tip_5lang": {
+                "de": "Die Tramhaltestelle ist nah an den Restaurants.",
+                "hu": "A villamosmegálló közel van az éttermekhez.",
+                "ro": "Stația de tramvai este aproape de zona cu restaurante.",
+                "en": "The tram stop is conveniently close to the restaurants."
+              }
+            },
+            {
+              "name": "St. Mary's Church & Motława Embankment",
+              "tip_5lang": {
+                "de": "Kurzer Spaziergang zwischen den Stationen einplanen.",
+                "hu": "Tervezzen rövid sétát a megállók között.",
+                "ro": "Planificați o scurtă plimbare între stații.",
+                "en": "Plan for a short walk between the transit stops."
+              }
+            },
+            {
+              "name": "Cluster 3: Oliwa Cathedral (SKM train)",
+              "tip_5lang": {
+                "de": "Die SKM-Züge fahren alle 15 Minuten und sind trocken.",
+                "hu": "Az SKM vonatok 15 percenként járnak és szárazak.",
+                "ro": "Trenurile SKM circulă la 15 minute și sunt acoperite.",
+                "en": "SKM trains run every 15 minutes and offer a dry ride."
+              }
+            },
+            {
+              "name": "Stroll and Dinner in Oliwa",
+              "tip_5lang": {
+                "de": "Vom Bahnhof Oliwa ist es ein kurzer, nasser Weg zum Park.",
+                "hu": "Az oliwai állomástól rövid, vizes út vezet a parkig.",
+                "ro": "De la gara Oliwa este un drum scurt și ud până la parc.",
+                "en": "It's a short, wet walk from Oliwa station to the park."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie Tickets online oder per App, um nicht im Regen am Automaten zu stehen.",
+              "Die SKM-Züge sind die schnellste Verbindung zwischen Zentrum und Oliwa.",
+              "Die Straßenbahnen sind bei Regen oft voll; planen Sie Zeit ein.",
+              "Tragen Sie trotzdem eine Regenjacke für die Wege zur Haltestelle."
+            ],
+            "hu": [
+              "Vegyen jegyet online vagy appon, hogy ne kelljen az esőben az automatánál várni.",
+              "Az SKM vonatok a leggyorsabb kapcsolatot jelentik a központ és Oliva között.",
+              "A villamosok esőben gyakran zsúfoltak; számoljon több idővel.",
+              "Viseljen esőkabátot a megállókig vezető rövid sétákhoz is."
+            ],
+            "ro": [
+              "Cumpărați bilete online sau prin aplicație pentru a evita automatele.",
+              "Trenurile SKM sunt cea mai rapidă legătură între centru și Oliwa.",
+              "Tramvaiele sunt adesea aglomerate pe ploaie; alocați timp suplimentar.",
+              "Purtați o pelerină pentru drumurile scurte până la stații."
+            ],
+            "en": [
+              "Buy tickets online or via app to avoid standing in the rain at machines.",
+              "SKM trains are the fastest link between the city center and Oliwa.",
+              "Trams can be crowded during rain; allow extra travel time.",
+              "Wear a raincoat for the short walks to and from the stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Danziger Nahverkehr ist im Winter warm und zuverlässig. Starten Sie im Solidaritätszentrum; die Gebäude sind angenehm geheizt.\n\nMittags bringt Sie die Tram schnell zum beleuchteten Langen Markt. Genießen Sie die winterliche Atmosphäre der Stadt.\n\nDie SKM-Fahrt nach Oliwa bietet einen Moment zum Aufwärmen. Der Dom in Oliwa ist im Winterlicht besonders eindrucksvoll.\n\nZárja az estét Olivában, majd élvezze a fűtött vonatutat vissza a központba a téli éjszakában.",
+            "hu": "Gdańsk tömegközlekedése télen meleg és megbízható. Kezdjen a Szolidaritás Központban; az épületek kellemesen fűtöttek.\n\nDélben a villamos gyorsan elviszi a kivilágított Hosszú piacra. Élvezze a város téli hangulatát.\n\nAz SKM-út Olivába alkalmat ad a felmelegedésre. Az oliwai székesegyház a téli fényekben különösen hatásos.\n\nZárja az estét Olivában, majd élvezze a fűtött vonatutat vissza a központba a téli éjszakában.",
+            "ro": "Transportul din Gdańsk este cald și de încredere iarna. Începeți la Centrul de Solidaritate; clădirile sunt bine încălzite.\n\nLa prânz, tramvaiul vă duce rapid în Piața Lungă iluminată. Bucurați-vă de atmosfera de iarnă a orașului.\n\nCălătoria cu SKM spre Oliwa oferă un moment de încălzire. Catedrala din Oliwa este impresionantă în lumina iernii.\n\nÎncheiați seara în Oliwa, apoi bucurați-vă de drumul cu trenul încălzit înapoi spre centru.",
+            "en": "Gdańsk's public transport is warm and reliable in winter. Start at the Solidarity Centre; the buildings are pleasantly heated.\n\nAt noon, the tram takes you quickly to the illuminated Long Market. Enjoy the city's festive winter atmosphere.\n\nThe SKM ride to Oliwa offers a moment to warm up. The Oliwa Cathedral is particularly striking in the winter light.\n\nEnd your evening in Oliwa, then enjoy the heated train ride back to the center through the winter night."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: European Solidarity Centre",
+              "tip_5lang": {
+                "de": "Die Wartezeit an der Haltestelle 'Stocznia' ist meist kurz.",
+                "hu": "A várakozási idő a 'Stocznia' megállóban általában rövid.",
+                "ro": "Timpul de așteptare în stația 'Stocznia' este de obicei scurt.",
+                "en": "Waiting time at the 'Stocznia' stop is usually short."
+              }
+            },
+            {
+              "name": "Monument to the Fallen Shipyard Workers",
+              "tip_5lang": {
+                "de": "Bei Frost sind die Metalloberflächen hier besonders kalt.",
+                "hu": "Fagyban a fémfelületek itt rendkívül hidegek.",
+                "ro": "Pe ger, suprafețele metalice de aici sunt extrem de reci.",
+                "en": "In freezing weather, the metal surfaces here are extremely cold."
+              }
+            },
+            {
+              "name": "Cluster 2: Main Town (Brama Wyżynna tram stop)",
+              "tip_5lang": {
+                "de": "Die Tramstationen sind oft der Kälte ausgesetzt; warm anziehen.",
+                "hu": "A villamosmegállók gyakran kitettek a hidegnek; öltözzön melegen.",
+                "ro": "Stațiile de tramvai sunt expuse la frig; îmbrăcați-vă bine.",
+                "en": "Tram stops are often exposed to the cold; dress warmly."
+              }
+            },
+            {
+              "name": "Lunch at the Long Market",
+              "tip_5lang": {
+                "de": "Genießen Sie die Wärme im Restaurant nach der Fahrt.",
+                "hu": "Élvezze a benti meleget az étteremben az út után.",
+                "ro": "Bucurați-vă de căldura din restaurant după călătorie.",
+                "en": "Enjoy the warmth of the restaurant after your transit trip."
+              }
+            },
+            {
+              "name": "St. Mary's Church & Motława Embankment",
+              "tip_5lang": {
+                "de": "Der Weg zur Motława ist im Winter oft windig.",
+                "hu": "A Motława felé vezető út télen gyakran szeles.",
+                "ro": "Drumul spre Motława este adesea vântos iarna.",
+                "en": "The path towards Motława is often windy in winter."
+              }
+            },
+            {
+              "name": "Cluster 3: Oliwa Cathedral (SKM train)",
+              "tip_5lang": {
+                "de": "SKM-Stationen können im Winter zugig sein.",
+                "hu": "Az SKM állomások télen huzatosak lehetnek.",
+                "ro": "Stațiile SKM pot fi foarte curentate iarna.",
+                "en": "SKM stations can be quite draughty in the winter."
+              }
+            },
+            {
+              "name": "Stroll and Dinner in Oliwa",
+              "tip_5lang": {
+                "de": "Der beleuchtete Park in Oliwa ist im Winter wunderschön.",
+                "hu": "A kivilágított oliwai park télen gyönyörű.",
+                "ro": "Parcul iluminat din Oliwa este superb iarna.",
+                "en": "The illuminated park in Oliwa is beautiful in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die App 'Jakdojade' für Echtzeit-Fahrpläne im Kalten.",
+              "Die Züge der SKM sind meist gut beheizt.",
+              "Abends sind die Bahnen oft festlich beleuchtet.",
+              "Achten Sie auf gestreute Wege an den Bahnhöfen."
+            ],
+            "hu": [
+              "Használja a 'Jakdojade' appot a valós idejű menetrendekhez a hidegben.",
+              "Az SKM vonatok általában jól fűtöttek.",
+              "Este a járatok gyakran ünnepi díszben világítanak.",
+              "Ügyeljen a felszórt utakra az állomások környékén."
+            ],
+            "ro": [
+              "Folosiți aplicația 'Jakdojade' pentru orare în timp real pe ger.",
+              "Trenurile SKM sunt de obicei bine încălzite.",
+              "Seara, mijloacele de transport sunt adesea iluminate festiv.",
+              "Atenție la aleile date cu sare din jurul gărilor."
+            ],
+            "en": [
+              "Use the 'Jakdojade' app for real-time schedules in the cold.",
+              "SKM trains are usually well-heated during winter.",
+              "In the evenings, transit vehicles are often festively lit.",
+              "Watch for salted paths around the train stations."
+            ]
+          }
+        }
       }
     }
   }

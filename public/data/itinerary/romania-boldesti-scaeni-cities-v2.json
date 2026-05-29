@@ -322,6 +322,188 @@
           "A reusable water bottle is a good idea.",
           "Keep some cash handy for small purchases."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens empfängt der Central Square Sie mit glänzenden Pflastersteinen unter einem grauen Himmel. Ein Regenschirm ist Pflicht für den kurzen Weg zum Heldenmonument. Mittags bietet die Himmelfahrtskirche einen trockenen Rückzugsort voller Stille. Den Nachmittag verbringen Sie geschützt im Kulturhaus, bevor ein langer Lunch die Nässe vergessen lässt. Der Abend endet mit einem kurzen Spaziergang im Park, wo die Bäume nur wenig Schutz bieten.",
+            "hu": "Reggel a központi tér csillogó aszfaltja fogadja az esernyős látogatót. A Hősök emlékművéhez vezető út rövid, de szeles. Délben a Mennybemenetel-templom belső tere kínál száraz menedéket. Délután a Művelődési Ház kiállításai között vészelheti át a záport, majd egy kiadós ebéd után a Central Park párás, friss levegőjén zárul a séta. Az esőben a parki utak néhol tócsásak lehetnek.",
+            "ro": "Dimineața începe în Piața Centrală, unde pavajul lucește sub picăturile de ploaie. O umbrelă este indispensabilă pentru vizita la Monumentul Eroilor. La prânz, Biserica Adormirea Maicii Domnului oferă un refugiu uscat și liniștit. După-amiaza este dedicată Casei de Cultură, ferită de intemperii. Ziua se încheie cu un prânz prelungit și o scurtă plimbare prin parcul central, sub cerul plumburiu.",
+            "en": "Morning finds the Central Square glistening under gray skies; an umbrella is essential for the walk to the Heroes' Monument. At noon, the Church of the Assumption provides a dry, serene sanctuary. Spend the afternoon inside the House of Culture to escape the downpour before enjoying a long lunch. The walk concludes in Central Park, where the damp air brings out the scent of the wet earth."
+          },
+          "stops": [
+            {
+              "name": "Central Square",
+              "tip_5lang": {
+                "de": "Vorsicht vor rutschigen Steinen am Brunnen.",
+                "hu": "Vigyázzon, a díszburkolat csúszós lehet az esőben.",
+                "ro": "Atenție la pavajul alunecos din jurul fântânii.",
+                "en": "Be careful, the pavement can be slippery when wet."
+              }
+            },
+            {
+              "name": "Heroes' Monument",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp unter dem Regenschirm.",
+                "hu": "Gyors fotómegálló az esernyő alatt.",
+                "ro": "Oprire rapidă pentru poze sub umbrelă.",
+                "en": "Quick photo stop under your umbrella."
+              }
+            },
+            {
+              "name": "Church of the Assumption",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um die Kleidung zu trocknen.",
+                "hu": "Tökéletes hely a ruházat megszárítására.",
+                "ro": "Locul ideal pentru a vă usca hainele.",
+                "en": "Perfect spot to dry off and admire the frescoes."
+              }
+            },
+            {
+              "name": "House of Culture",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Foyer als Regenschutz.",
+                "hu": "Használja az előcsarnokot esővédőként.",
+                "ro": "Folosiți foierul ca adăpost împotriva ploii.",
+                "en": "Use the foyer as a reliable rain shelter."
+              }
+            },
+            {
+              "name": "Lunch in town",
+              "tip_5lang": {
+                "de": "Fragen Sie nach einem Platz fern der Tür.",
+                "hu": "Kérjen asztalt távol a huzatos bejárattól.",
+                "ro": "Cereți o masă departe de intrarea curentă.",
+                "en": "Ask for a table away from the drafty entrance."
+              }
+            },
+            {
+              "name": "Central Park",
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den befestigten Wegen.",
+                "hu": "Maradjon a kövezett sétányokon a sár miatt.",
+                "ro": "Rămâneți pe aleile pavate pentru a evita noroiul.",
+                "en": "Stick to the paved paths to avoid the mud."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für die Parkwege.",
+              "Das Kulturhaus ist der beste Indoor-Stopp bei Starkregen.",
+              "Die Kirchen bieten guten Windschutz im Stadtzentrum.",
+              "In lokalen Cafés gibt es oft Schirmständer am Eingang."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a parki sétához.",
+              "A Művelődési Ház a legjobb fedett hely szakadó esőben.",
+              "A templomok jó szélvédettséget biztosítanak a központban.",
+              "A helyi kávézókban általában van esernyőtartó a bejáratnál."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru aleile din parc.",
+              "Casa de Cultură este cel mai bun refugiu în caz de aversă.",
+              "Bisericile oferă protecție bună împotriva vântului în centru.",
+              "Restaurantele locale au de obicei suporturi pentru umbrele."
+            ],
+            "en": [
+              "Wear waterproof shoes for the park sections.",
+              "The House of Culture is your best indoor bet during heavy rain.",
+              "Churches offer good wind protection in the town center.",
+              "Local eateries usually have umbrella stands at the entrance."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen beginnt am Central Square, wo der Raureif die Denkmäler ziert. Die Kälte zieht schnell ein, daher ist das Heldenmonument nur ein kurzer Halt. Mittags wärmt die Stille der Kirche von Scăeni die Seele. Den Nachmittag verbringen Sie bei kulturellen Veranstaltungen im Warmen. Nach einem heißen Mittagessen ist der Central Park im fahlen Winterlicht friedlich, bevor die Dunkelheit gegen 16:30 Uhr einsetzt.",
+            "hu": "Zúzmarás reggel köszönt a központi térre, a hideg szél miatt réteges öltözet szükséges. A Hősök emlékműve után a templom csendje és viszonylagos melege várja. Délben egy forró leves a legjobb választás a városban. Délután a Művelődési Ház falai között töltheti az időt, majd a korai sötétedés előtt még tehet egy rövid kört a kopár, de nyugodt parkban. A nap 16:30 körül nyugszik.",
+            "ro": "O dimineață geroasă începe în Piața Centrală, cu promoroacă pe monumente. Frigul pătrunde repede, deci vizita la Monumentul Eroilor va fi scurtă. La prânz, liniștea bisericii oferă un moment de reculegere la căldură. După-amiaza este ideală pentru Casa de Cultură. După un prânz cald, parcul central oferă un peisaj hibernal auster, înainte ca întunericul să se lase în jurul orei 16:30.",
+            "en": "A frosty morning kicks off at Central Square, where rime covers the monuments. The biting chill makes the visit to the Heroes' Monument brief. At noon, the church provides a quiet, slightly warmer haven. Spend your afternoon inside the House of Culture before a warming lunch. The winter sun sets early, around 16:30, making the final park visit a race against the twilight."
+          },
+          "stops": [
+            {
+              "name": "Central Square",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stellen am Brunnen.",
+                "hu": "Vigyázzon a jeges foltokra a szökőkút körül.",
+                "ro": "Atenție la porțiunile înghețate de lângă fântână.",
+                "en": "Watch out for icy patches near the dry fountain."
+              }
+            },
+            {
+              "name": "Heroes' Monument",
+              "tip_5lang": {
+                "de": "Schneller Stopp, der Wind zieht hier stark.",
+                "hu": "Gyors megálló, a szél itt nagyon felerősödhet.",
+                "ro": "Oprire scurtă, vântul bate cu putere aici.",
+                "en": "Make it quick; the wind can be very biting here."
+              }
+            },
+            {
+              "name": "Church of the Assumption",
+              "tip_5lang": {
+                "de": "Kopfbedeckung im Inneren abnehmen, Kälte beachten.",
+                "hu": "A templomban nincs fűtés, ne vetkőzzön le teljesen.",
+                "ro": "Interiorul bisericii poate fi destul de rece.",
+                "en": "The interior is unheated; keep your coat closed."
+              }
+            },
+            {
+              "name": "House of Culture",
+              "tip_5lang": {
+                "de": "Bester Ort zum Aufwärmen am Nachmittag.",
+                "hu": "A legjobb hely a felmelegedésre délután.",
+                "ro": "Cel mai bun loc pentru a vă încălzi după-amiaza.",
+                "en": "The best place to warm up during the afternoon."
+              }
+            },
+            {
+              "name": "Lunch in town",
+              "tip_5lang": {
+                "de": "Bestellen Sie traditionelle saure Suppe (Ciorbă).",
+                "hu": "Rendeljen egy forró ciorbát az átmelegedéshez.",
+                "ro": "Comandați o ciorbă fierbinte pentru a vă încălzi.",
+                "en": "Order a hot Ciorbă soup to warm your core."
+              }
+            },
+            {
+              "name": "Central Park",
+              "tip_5lang": {
+                "de": "Beenden Sie den Besuch vor 16:30 Uhr.",
+                "hu": "Fejezze be a sétát 16:30-ig a sötétedés miatt.",
+                "ro": "Finalizați plimbarea până la 16:30 din cauza serii.",
+                "en": "Finish your visit by 16:30 before it gets dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schichtenprinzip bei der Kleidung ist lebenswichtig.",
+              "Die Sonne verschwindet im Winter bereits um 16:30 Uhr.",
+              "Einige Wege im Park werden nicht gestreut.",
+              "Trinken Sie heißen Tee in den Cafés am Marktplatz."
+            ],
+            "hu": [
+              "Réteges öltözködés javasolt a kinti szakaszokra.",
+              "A nap télen már 16:30-kor lenyugszik.",
+              "A parki sétányok néhol csúszósak maradhatnak.",
+              "Igyon egy forró teát a főtéri kávézók egyikében."
+            ],
+            "ro": [
+              "Îmbrăcămintea în straturi este esențială.",
+              "Soarele apune devreme, în jur de ora 16:30.",
+              "Unele alei din parc pot rămâne necurățate de gheață.",
+              "Savurați un ceai fierbinte în cafenelele din centru."
+            ],
+            "en": [
+              "Layered clothing is vital for the outdoor sections.",
+              "The sun sets early in winter, around 16:30.",
+              "Some paths in the park may not be salted.",
+              "Grab a hot tea in one of the central cafes."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -666,6 +848,206 @@
           "A helmet is highly recommended.",
           "Always lock your bike when you park it."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour beginnt spritzig am Central Square. Die Fahrt zur Scăeni-Kirche erfordert volle Konzentration auf dem nassen Asphalt. Mittags erkunden Sie das industrielle Erbe, wobei die Pfützen tiefer sein können als gedacht. Nach dem Lunch geht es zur Himmelfahrtskirche und in den Park, bevor das Highlight ansteht: Die Weinberge von Boldești. Hier verwandeln sich die Wege in Schlamm, was die Fahrt abenteuerlich macht.",
+            "hu": "A kerékpártúra frissítően indul a központi téren. A scăeni templom felé vezető úton figyeljen a vizes aszfaltra. Délben az ipari örökség helyszínein a tócsák mélyebbek lehetnek a vártnál. Ebéd után a templom és a park következik, majd a nap fénypontja: a boldesti szőlőhegyek. Itt az utak sárossá válhatnak, ami igazi terep-élményt nyújt az esőben.",
+            "ro": "Turul pe bicicletă începe în forță în Piața Centrală. Drumul spre Biserica Scăeni necesită atenție sporită pe asfaltul ud. La prânz, patrimoniul industrial se dezvăluie printre bălți. După prânz, vizitați biserica și parcul, înainte de marea provocare: podgoriile Boldești. Aici, drumurile devin noroioase, transformând tura într-o aventură off-road.",
+            "en": "The bike tour starts with a splash at Central Square. The ride to Scăeni Church requires focus on the wet asphalt. At noon, explore the industrial heritage, where puddles might be deeper than they look. After lunch, visit the church and park before the highlight: Boldești Vineyards. Here, the trails turn to mud, making for an adventurous, slippery finale."
+          },
+          "stops": [
+            {
+              "name": "Central Square",
+              "tip_5lang": {
+                "de": "Vorsicht beim Bremsen auf nassem Pflaster.",
+                "hu": "Óvatosan fékezzen a vizes díszburkolaton.",
+                "ro": "Frânați cu prudență pe pavajul ud.",
+                "en": "Brake cautiously on the wet pavement."
+              }
+            },
+            {
+              "name": "Scăeni Church",
+              "tip_5lang": {
+                "de": "Sicherer Fahrradständer unter dem Vordach.",
+                "hu": "Biztonságos biciklitároló az előtető alatt.",
+                "ro": "Suport de biciclete protejat sub streașină.",
+                "en": "Secure bike parking under the eaves."
+              }
+            },
+            {
+              "name": "Industrial Heritage",
+              "tip_5lang": {
+                "de": "Meiden Sie tiefe Wasseransammlungen.",
+                "hu": "Kerülje el a mélyebb vízátfolyásokat.",
+                "ro": "Evitați acumulările mari de apă pe carosabil.",
+                "en": "Avoid riding through deep puddles."
+              }
+            },
+            {
+              "name": "Lunch",
+              "tip_5lang": {
+                "de": "Parken Sie das Rad in Sichtweite vom Fenster.",
+                "hu": "Parkolja a bringát az ablakból látható helyre.",
+                "ro": "Parcați bicicleta la vedere de la fereastră.",
+                "en": "Park your bike where you can see it from the window."
+              }
+            },
+            {
+              "name": "Church of the Assumption",
+              "tip_5lang": {
+                "de": "Kurze Pause zum Abtrocknen des Sattels.",
+                "hu": "Rövid pihenő a nyereg letörléséhez.",
+                "ro": "Scurtă pauză pentru a șterge șaua.",
+                "en": "Quick break to wipe down your saddle."
+              }
+            },
+            {
+              "name": "Central Park",
+              "tip_5lang": {
+                "de": "Rutschen Sie nicht auf nassem Laub aus.",
+                "hu": "Vigyázzon a vizes levelekre a sétányon.",
+                "ro": "Atenție la frunzele ude pe alei.",
+                "en": "Watch out for slippery wet leaves on the path."
+              }
+            },
+            {
+              "name": "Boldești Vineyards",
+              "tip_5lang": {
+                "de": "Schlammgefahr! Nur für geübte Fahrer.",
+                "hu": "Sárveszély! Csak gyakorlott bringásoknak.",
+                "ro": "Pericol de noroi! Doar pentru cicliști experimentați.",
+                "en": "Mud alert! Only for experienced riders."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind bei diesem Wetter unverzichtbar.",
+              "Prüfen Sie Ihre Bremsbeläge vor der Abfahrt.",
+              "Die Wege in den Weinbergen können sehr rutschig sein.",
+              "Tragen Sie auffällige Neon-Regenkleidung."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen ilyen időben.",
+              "Indulás előtt ellenőrizze a fékbetéteket.",
+              "A szőlőhegyi utak nagyon csúszósak lehetnek.",
+              "Viseljen feltűnő, neon esőruházatot."
+            ],
+            "ro": [
+              "Apărătorile sunt indispensabile pe ploaie.",
+              "Verificați saboții de frână înainte de plecare.",
+              "Drumurile din podgorii pot fi foarte alunecoase.",
+              "Purtați echipament de ploaie reflectorizant."
+            ],
+            "en": [
+              "Mudguards are indispensable in this weather.",
+              "Check your brake pads before starting.",
+              "The vineyard trails can be extremely slippery.",
+              "Wear high-visibility waterproof gear."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frostige Luft schlägt Ihnen am Central Square entgegen. Die Fahrt zur Scăeni-Kirche hält Sie warm, aber achten Sie auf Glatteis. Mittags ist das Industrieerbe in Nebel gehüllt, was eine mystische Atmosphäre schafft. Nach dem Mittagessen besuchen Sie die Himmelfahrtskirche und rollen kurz durch den Park. Das Finale in den Weinbergen von Boldești bietet weite Ausblicke, doch die Kälte oben ist intensiv. Beenden Sie die Tour vor 16:30 Uhr.",
+            "hu": "Fagyos levegő fogad a központi téren. A tekerni kell a scăeni templom felé, hogy ne fázzunk, de vigyázzunk a jégfoltokra. Délben az ipari emlékek ködbe burkolózhatnak, misztikus hangulatot árasztva. Ebéd után a templom és a park következik, majd a boldesti szőlőhegyek. A dombtetőn a szél metsző lehet, így réteges öltözet kötelező. A nap 16:30-kor nyugszik.",
+            "ro": "Aerul înghețat vă întâmpină în Piața Centrală. Pedalatul spre Biserica Scăeni vă ține cald, dar atenție la polei. La prânz, patrimoniul industrial e învăluit în ceață, creând o atmosferă mistică. După prânz, vizitați biserica și parcul, apoi urcați spre podgoriile Boldești. Vântul de pe deal e tăios, deci hainele groase sunt obligatorii. Finalizați tura până la 16:30.",
+            "en": "Frosty air greets you at Central Square. Cycling to Scăeni Church keeps you warm, but watch for black ice. At noon, the industrial heritage is shrouded in mist, creating a mystical vibe. After lunch, visit the church and park before hitting Boldești Vineyards. The wind on the ridge is biting, so thermal layers are a must. Finish your ride by 16:30 as light fades fast."
+          },
+          "stops": [
+            {
+              "name": "Central Square",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenem Kondenswasser.",
+                "hu": "Vigyázzon a lefagyott pára miatti csúszásveszélyre.",
+                "ro": "Atenție la porțiunile cu polei fin.",
+                "en": "Watch out for slippery patches of black ice."
+              }
+            },
+            {
+              "name": "Scăeni Church",
+              "tip_5lang": {
+                "de": "Metallständer können sehr kalt sein.",
+                "hu": "A fém tárolók nagyon hidegek, használjon kesztyűt.",
+                "ro": "Suporturile metalice sunt foarte reci.",
+                "en": "Metal racks are freezing; wear gloves to lock up."
+              }
+            },
+            {
+              "name": "Industrial Heritage",
+              "tip_5lang": {
+                "de": "Hinter alten Mauern ist es oft windstill.",
+                "hu": "A régi falak mögött gyakran szélcsend van.",
+                "ro": "După zidurile vechi e adesea adăpost de vânt.",
+                "en": "Old walls often provide a break from the wind."
+              }
+            },
+            {
+              "name": "Lunch",
+              "tip_5lang": {
+                "de": "Füllen Sie Ihre Thermoskanne mit Tee auf.",
+                "hu": "Töltse fel a termoszát forró teával.",
+                "ro": "Umpleți termosul cu ceai fierbinte.",
+                "en": "Refill your thermos with hot tea."
+              }
+            },
+            {
+              "name": "Church of the Assumption",
+              "tip_5lang": {
+                "de": "Kurze Aufwärmpause im Windschatten.",
+                "hu": "Rövid melegedő a szélvédett oldalon.",
+                "ro": "Scurtă pauză de încălzire la adăpost.",
+                "en": "Short warm-up break in the lee of the building."
+              }
+            },
+            {
+              "name": "Central Park",
+              "tip_5lang": {
+                "de": "Achten Sie auf gefrorenes Laub.",
+                "hu": "Vigyázzon a megfagyott levelekre az úton.",
+                "ro": "Atenție la frunzele înghețate pe alei.",
+                "en": "Beware of frozen leaves on the pavement."
+              }
+            },
+            {
+              "name": "Boldești Vineyards",
+              "tip_5lang": {
+                "de": "Extremer Windchill auf der Anhöhe.",
+                "hu": "Erős szélhűtés a dombtetőn.",
+                "ro": "Vânt foarte rece pe coama dealului.",
+                "en": "Severe wind chill on the exposed ridge."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie scharfes Bremsen auf Metallplatten.",
+              "Die Sonne geht bereits um 16:30 Uhr unter.",
+              "Tragen Sie winddichte Handschuhe und Überschuhe.",
+              "Prüfen Sie Ihre Fahrradbeleuchtung vorab."
+            ],
+            "hu": [
+              "Kerülje az erős fékezést a fémlemezeken.",
+              "A nap már 16:30-kor lenyugszik.",
+              "Viseljen szélálló kesztyűt és kamáslit.",
+              "Indulás előtt ellenőrizze a világítást."
+            ],
+            "ro": [
+              "Evitați frânarea bruscă pe suprafețe metalice.",
+              "Soarele apune deja la ora 16:30.",
+              "Purtați mănuși rezistente la vânt.",
+              "Verificați funcționarea luminilor bicicletei."
+            ],
+            "en": [
+              "Avoid hard braking on metal surfaces.",
+              "The sun sets as early as 16:30.",
+              "Wear windproof gloves and shoe covers.",
+              "Check your bike lights before you set off."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -954,6 +1336,206 @@
           "Plan your route in advance.",
           "Keep some change for parking fees."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Tour beginnt entspannt im trockenen Auto am Central Square. Die Fahrt zum Heldenmonument und zur Kirche ist kurz, Parkplätze sind nah. Mittags führt die Route nach Scăeni, wo der Regen die Industriekulisse dramatisch wirken lässt. Nach einem gemütlichen Mittagessen geht es zur Himmelfahrtskirche. Das Finale in den Weinbergen bietet tolle Ausblicke aus dem Autofenster, während die Scheibenwischer unermüdlich arbeiten.",
+            "hu": "A túra kényelmesen, száraz autóban indul a központi téren. A Hősök emlékműve és a templom közelében könnyű parkolni. Délben Scăeni felé vesszük az irányt, ahol az eső drámai hangulatot kölcsönöz az ipari tájnak. Egy kellemes ebéd után a Mennybemenetel-templom következik. A nap végén a szőlőhegyek panorámája az autó ablakából is élvezhető, miközben kint szakad az eső.",
+            "ro": "Turul începe relaxat, la adăpostul mașinii, în Piața Centrală. Drumul spre Monumentul Eroilor și biserică e scurt, cu parcări în apropiere. La prânz, ruta duce spre Scăeni, unde ploaia dă un aer dramatic peisajului industrial. După un prânz liniștit, vizitați Biserica Adormirea Maicii Domnului. Finalul în podgorii oferă priveliști superbe chiar și prin parbrizul udat de ploaie.",
+            "en": "The tour starts comfortably in your dry car at Central Square. Visits to the Heroes' Monument and the church are quick, with nearby parking. At noon, head to Scăeni, where the rain adds a dramatic touch to the industrial backdrop. After a cozy lunch, visit the Church of the Assumption. The grand finale in the vineyards offers great views right from your car window as wipers work overtime."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Town Center",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang des Platzes.",
+                "hu": "Parkoljon a tér bejáratához közel.",
+                "ro": "Parcați aproape de intrarea în piață.",
+                "en": "Park as close to the square entrance as possible."
+              }
+            },
+            {
+              "name": "Heroes' Monument",
+              "tip_5lang": {
+                "de": "Kurzer Ausstieg, Parkplatz direkt davor.",
+                "hu": "Gyors kiszállás, parkoló közvetlenül előtte.",
+                "ro": "Coborâre rapidă, parcare chiar în față.",
+                "en": "Quick hop out; parking is right in front."
+              }
+            },
+            {
+              "name": "Church of the Assumption",
+              "tip_5lang": {
+                "de": "Nutzen Sie den befestigten Parkplatz.",
+                "hu": "Használja a kövezett parkolót a sár ellen.",
+                "ro": "Folosiți parcarea amenajată pentru a evita noroiul.",
+                "en": "Use the paved parking area to avoid mud."
+              }
+            },
+            {
+              "name": "Cluster 2: Scăeni",
+              "tip_5lang": {
+                "de": "Vorsicht bei tiefen Pfützen am Straßenrand.",
+                "hu": "Vigyázzon a mély tócsákra az út szélén.",
+                "ro": "Atenție la bălțile mari de pe marginea drumului.",
+                "en": "Watch out for deep puddles on the road shoulders."
+              }
+            },
+            {
+              "name": "Industrial Heritage",
+              "tip_5lang": {
+                "de": "Gute Fotos direkt aus dem Wagen möglich.",
+                "hu": "Jó fotók készíthetők közvetlenül az autóból.",
+                "ro": "Se pot face poze bune direct din mașină.",
+                "en": "Great photos possible directly from the car."
+              }
+            },
+            {
+              "name": "Lunch",
+              "tip_5lang": {
+                "de": "Suchen Sie einen Parkplatz mit festem Untergrund.",
+                "hu": "Keressen aszfaltozott parkolóhelyet.",
+                "ro": "Căutați un loc de parcare pe teren solid.",
+                "en": "Look for a parking spot on solid ground."
+              }
+            },
+            {
+              "name": "Cluster 3: Vineyards",
+              "tip_5lang": {
+                "de": "Unbefestigte Wege meiden, Rutschgefahr.",
+                "hu": "Kerülje a földutakat, elakadásveszély.",
+                "ro": "Evitați drumurile de pământ, risc de împotmolire.",
+                "en": "Avoid unpaved tracks to prevent getting stuck."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Scheibenwischer vor der Fahrt.",
+              "Vermeiden Sie das Parken auf unbefestigten Banketten.",
+              "Die Sicht in den Weinbergen kann durch Nebel eingeschränkt sein.",
+              "Halten Sie einen Schirm griffbereit im Türfach."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze az ablaktörlőket.",
+              "Kerülje a parkolást a laza padkán.",
+              "A szőlőhegyen a látási viszonyok korlátozottak lehetnek.",
+              "Tartson esernyőt az ajtózsebben."
+            ],
+            "ro": [
+              "Verificați ștergătoarele înainte de plecare.",
+              "Evitați parcarea pe acostamente neamenajate.",
+              "Vizibilitatea în podgorii poate fi redusă de ceață.",
+              "Țineți o umbrelă la îndemână în buzunarul portierei."
+            ],
+            "en": [
+              "Check your wipers before you start your trip.",
+              "Avoid parking on unpaved soft shoulders.",
+              "Visibility in the vineyards may be limited by mist.",
+              "Keep an umbrella handy in the door pocket."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kalter Wintermorgen beginnt am Central Square. Dank der Sitzheizung ist die Fahrt zum Heldenmonument angenehm. Mittags führt die Route durch das neblige Scăeni zu den Industrieruinen. Nach einem wärmenden Mittagessen besuchen Sie die Kirchen der Stadt. Das Finale in den Weinbergen von Boldești ist spektakulär, wenn der Raureif die Reben weiß färbt. Achten Sie auf die Straßenverhältnisse und die Dunkelheit ab 16:30 Uhr.",
+            "hu": "Hideg téli reggel a központi téren. Az ülésfűtés jól jön a Hősök emlékműve felé vezető úton. Délben a ködös Scăeni ipari romjai között haladunk át. Egy forró ebéd után a város templomait látogatjuk meg. A nap végén a boldesti szőlőhegyek látványa lenyűgöző, ahogy a zúzmara kifehéríti a tőkéket. Ügyeljen az útviszonyokra és a korai, 16:30-as sötétedésre.",
+            "ro": "O dimineață de iarnă geroasă în Piața Centrală. Încălzirea în scaune e binevenită în drum spre Monumentul Eroilor. La prânz, traversăm zona industrială Scăeni, adesea acoperită de ceață. După un prânz cald, vizităm bisericile orașului. Finalul în podgoriile Boldești e spectaculos, cu promoroaca albă pe vița de vie. Atenție la starea drumurilor și la întunericul de după 16:30.",
+            "en": "A cold winter morning kicks off at Central Square. Heated seats make the drive to the Heroes' Monument pleasant. At noon, navigate through misty Scăeni past the industrial ruins. After a warming lunch, visit the town's historic churches. The finale in Boldești Vineyards is spectacular as rime whitens the vines. Mind the road conditions and the early 16:30 sunset."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Town Center",
+              "tip_5lang": {
+                "de": "Heizung rechtzeitig einschalten.",
+                "hu": "Kapcsolja be időben a fűtést.",
+                "ro": "Porniți încălzirea din timp.",
+                "en": "Turn on the heating well in advance."
+              }
+            },
+            {
+              "name": "Heroes' Monument",
+              "tip_5lang": {
+                "de": "Vorsicht vor Eis auf dem Parkplatz.",
+                "hu": "Vigyázzon a jegesedésre a parkolóban.",
+                "ro": "Atenție la gheață în parcare.",
+                "en": "Watch out for ice in the parking lot."
+              }
+            },
+            {
+              "name": "Church of the Assumption",
+              "tip_5lang": {
+                "de": "Motor nicht unnötig laufen lassen.",
+                "hu": "Ne járassa feleslegesen a motort várakozáskor.",
+                "ro": "Nu lăsați motorul pornit inutil la staționare.",
+                "en": "Don't leave the engine idling while stopped."
+              }
+            },
+            {
+              "name": "Cluster 2: Scăeni",
+              "tip_5lang": {
+                "de": "Hohlwege können vereist sein.",
+                "hu": "A mélyebben fekvő útszakaszok lefagyhatnak.",
+                "ro": "Porțiunile de drum la umbră pot fi înghețate.",
+                "en": "Shaded sections of the road may be icy."
+              }
+            },
+            {
+              "name": "Industrial Heritage",
+              "tip_5lang": {
+                "de": "Achten Sie auf Schlaglöcher unter dem Schnee.",
+                "hu": "Vigyázzon a hó alatti kátyúkra.",
+                "ro": "Atenție la gropile ascunse sub zăpadă.",
+                "en": "Watch out for potholes hidden under snow."
+              }
+            },
+            {
+              "name": "Lunch",
+              "tip_5lang": {
+                "de": "Parken Sie an einem sonnigen Platz.",
+                "hu": "Parkoljon napos helyre, ha teheti.",
+                "ro": "Parcați la soare dacă este posibil.",
+                "en": "Park in a sunny spot if possible."
+              }
+            },
+            {
+              "name": "Cluster 3: Vineyards",
+              "tip_5lang": {
+                "de": "Winterreifen für die Anhöhe zwingend.",
+                "hu": "A dombra menet téli gumi kötelező.",
+                "ro": "Anvelopele de iarnă sunt obligatorii pentru deal.",
+                "en": "Winter tires are mandatory for the ridge climb."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Füllen Sie Frostschutzmittel in die Wischanlage.",
+              "Die Sonne verschwindet um 16:30 Uhr.",
+              "Achten Sie auf Glätte in Waldstücken.",
+              "Ein Eiskratzer sollte griffbereit sein."
+            ],
+            "hu": [
+              "Töltse fel a szélvédőmosót fagyállóval.",
+              "A nap 16:30-kor lenyugszik.",
+              "Ügyeljen a jegesedésre az erdős részeken.",
+              "Legyen kéznél jégkaparó."
+            ],
+            "ro": [
+              "Verificați nivelul lichidului de parbriz antigel.",
+              "Soarele apune la ora 16:30.",
+              "Atenție la polei în zonele împădurite.",
+              "Țineți racleta pentru gheață la îndemână."
+            ],
+            "en": [
+              "Fill your washer fluid with antifreeze.",
+              "The sun sets at 16:30.",
+              "Watch for black ice in forested areas.",
+              "Keep an ice scraper handy in the car."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1222,6 +1804,188 @@
           "Check bus schedules in advance.",
           "Be prepared for potential delays."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt am Central Square, wo Sie im Schutz der Bushaltestellen auf den nächsten Bus warten. Die Fahrt zum Heldenmonument ist kurz, doch der Regen macht den Weg beschwerlich. Mittags bietet das Kulturhaus ein wunderbares Indoor-Programm. Nach dem Mittagessen führt die Route nach Scăeni, wo Sie die Industriegeschichte im Regen erleben. Der Abschluss im Central Park ist kurz, da die Nässe überall eindringt.",
+            "hu": "A nap a központi téren indul, a buszmegállók fedele alatt várva a járatot. A Hősök emlékművéhez tartó út rövid, de az eső miatt kellemetlen lehet. Délben a Művelődési Ház kínál remek beltéri programot. Ebéd után Scăeni felé vesszük az irányt, ahol az ipari múltat az esőben ismerhetjük meg. A napot a Central Parkban zárjuk, de a nagy nedvesség miatt ez a megálló rövidebb lesz.",
+            "ro": "Ziua începe în Piața Centrală, sub adăpostul stațiilor de autobuz. Drumul spre Monumentul Eroilor e scurt, dar ploaia îl face inconfortabil. La prânz, Casa de Cultură oferă un program indoor excelent. După prânz, mergem spre Scăeni pentru a descoperi istoria industrială pe ploaie. Încheiem ziua în Parcul Central, dar umezeala va scurta vizita.",
+            "en": "The day begins at Central Square, where you'll wait for the bus under the shelter of the stops. The trip to the Heroes' Monument is short, but the rain makes the walking bits messy. At noon, the House of Culture offers a great indoor escape. After lunch, head to Scăeni to see the industrial history in the rain. End the day at Central Park, though the dampness will keep this stop brief."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Center",
+              "tip_5lang": {
+                "de": "Warten Sie im Kiosk an der Haltestelle.",
+                "hu": "Várjon a megálló melletti bódéban.",
+                "ro": "Așteptați în interiorul stației acoperite.",
+                "en": "Wait inside the covered bus shelter."
+              }
+            },
+            {
+              "name": "Heroes' Monument",
+              "tip_5lang": {
+                "de": "Kurzer Sprint von der Bushaltestelle.",
+                "hu": "Gyors sprint a buszmegállótól.",
+                "ro": "Sprint scurt de la stația de autobuz.",
+                "en": "Quick sprint from the bus stop."
+              }
+            },
+            {
+              "name": "House of Culture",
+              "tip_5lang": {
+                "de": "Idealer Ort, um Buspläne trocken zu prüfen.",
+                "hu": "Ideális hely a menetrendek ellenőrzéséhez.",
+                "ro": "Loc ideal pentru a verifica orarul la uscat.",
+                "en": "Ideal spot to check schedules while dry."
+              }
+            },
+            {
+              "name": "Lunch",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Lokal nah an der Haltestelle.",
+                "hu": "Válasszon éttermet a megálló közelében.",
+                "ro": "Alegeți un restaurant aproape de stație.",
+                "en": "Choose a restaurant close to the bus stop."
+              }
+            },
+            {
+              "name": "Cluster 2: Scăeni",
+              "tip_5lang": {
+                "de": "Vorsicht beim Aussteigen in Pfützen.",
+                "hu": "Vigyázzon, ne lépjen tócsába kiszálláskor.",
+                "ro": "Atenție la bălți la coborârea din autobuz.",
+                "en": "Be careful not to step in a puddle when exiting."
+              }
+            },
+            {
+              "name": "Central Park",
+              "tip_5lang": {
+                "de": "Die Wege zum Bus können matschig sein.",
+                "hu": "A buszhoz vezető utak sárosak lehetnek.",
+                "ro": "Drumul spre stație poate fi noroios.",
+                "en": "Paths back to the bus stop can be muddy."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Bussen können bei Regen Verspätung haben.",
+              "Halten Sie Ihr Ticket griffbereit unter dem Schirm.",
+              "Nutzen Sie die Wartehallen als Regenschutz.",
+              "Tragen Sie rutschfeste Schuhe für den Ein-/Ausstieg."
+            ],
+            "hu": [
+              "A buszok esőben késhetnek.",
+              "Tartsa a jegyét kéznél az esernyő alatt.",
+              "Használja a várótermeket esővédelemre.",
+              "Viseljen csúszásmentes cipőt a fel- és leszálláshoz."
+            ],
+            "ro": [
+              "Autobuzele pot avea întârzieri pe ploaie.",
+              "Țineți biletul la îndemână sub umbrelă.",
+              "Folosiți refugiile din stații pentru protecție.",
+              "Purtați încălțăminte aderentă pentru urcare/coborâre."
+            ],
+            "en": [
+              "Buses may be delayed due to rainy traffic.",
+              "Keep your ticket ready under your umbrella.",
+              "Use the bus shelters for rain protection.",
+              "Wear non-slip shoes for boarding and exiting."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen erwartet Sie am Central Square. In den beheizten Bussen lässt sich die Kälte gut aushalten. Das Heldenmonument ist nur ein kurzer Stopp im kalten Wind. Mittags bietet das Kulturhaus Wärme und Kultur. Nach einem stärkenden Mittagessen geht es per Transit nach Scăeni, wo die Industriekulisse im Winterlicht silbern glänzt. Der Tag endet im Central Park, kurz bevor die Dunkelheit um 16:30 Uhr einsetzt.",
+            "hu": "Fagyos reggel vár a központi téren. A fűtött buszokon jól bírható a hideg. A Hősök emlékműve csak egy rövid megálló a metsző szélben. Délben a Művelődési Ház nyújt menedéket és kulturális élményt. Egy laktató ebéd után busszal utazunk Scăeni felé, ahol az ipari táj ezüstösen csillog a téri fényben. A nap a Central Parkban zárul, épp mielőtt 16:30-kor teljesen besötétedik.",
+            "ro": "O dimineață geroasă vă așteaptă în Piața Centrală. Autobuzele încălzite sunt un refugiu bun împotriva frigului. Monumentul Eroilor e doar o scurtă oprire în vântul tăios. La prânz, Casa de Cultură oferă căldură și cultură. După un prânz consistent, mergem cu transportul public spre Scăeni. Ziua se încheie în Parcul Central, chiar înainte de întunericul de la 16:30.",
+            "en": "A frosty morning awaits at Central Square. Heated buses provide a welcome break from the chill. The Heroes' Monument is a quick, windy stop. At noon, the House of Culture offers warmth and local culture. After a hearty lunch, take the bus to Scăeni to see the industrial landscape in the winter light. The day ends at Central Park just before the 16:30 sunset."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Center",
+              "tip_5lang": {
+                "de": "Warten Sie im beheizten Kiosk, falls offen.",
+                "hu": "Várjon a fűtött bódéban, ha nyitva van.",
+                "ro": "Așteptați în interiorul chioșcului dacă e deschis.",
+                "en": "Wait inside the heated kiosk if it's open."
+              }
+            },
+            {
+              "name": "Heroes' Monument",
+              "tip_5lang": {
+                "de": "Vorsicht, die Stufen zum Bus können glatt sein.",
+                "hu": "Vigyázzon, a busz lépcsői jegesek lehetnek.",
+                "ro": "Atenție, treptele autobuzului pot fi alunecoase.",
+                "en": "Watch out, bus steps can be icy."
+              }
+            },
+            {
+              "name": "House of Culture",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe für schwere Mäntel.",
+                "hu": "Használja a ruhatárat a nehéz kabátoknak.",
+                "ro": "Folosiți garderoba pentru hainele groase.",
+                "en": "Use the cloakroom for your heavy coats."
+              }
+            },
+            {
+              "name": "Lunch",
+              "tip_5lang": {
+                "de": "Fragen Sie nach dem aktuellen Busfahrplan.",
+                "hu": "Kérdezze meg a friss buszmenetrendet.",
+                "ro": "Întrebați de orarul actualizat al autobuzelor.",
+                "en": "Ask for the updated bus schedule."
+              }
+            },
+            {
+              "name": "Cluster 2: Scăeni",
+              "tip_5lang": {
+                "de": "Die Wartezeiten können sich bei Kälte lang anfühlen.",
+                "hu": "A várakozási idő hosszabbnak tűnhet a hidegben.",
+                "ro": "Timpul de așteptare pare mai lung în frig.",
+                "en": "Waiting times can feel longer in the cold."
+              }
+            },
+            {
+              "name": "Central Park",
+              "tip_5lang": {
+                "de": "Beachten Sie den frühen Sonnenuntergang (16:30).",
+                "hu": "Ügyeljen a korai naplementére (16:30).",
+                "ro": "Atenție la apusul devreme (16:30).",
+                "en": "Be mindful of the early 16:30 sunset."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse sind im Winter oft stark beheizt.",
+              "Die Sonne geht bereits um 16:30 Uhr unter.",
+              "Achten Sie auf Glatteis an den Haltestellen.",
+              "Halten Sie Kleingeld für das Ticket bereit."
+            ],
+            "hu": [
+              "A buszok télen gyakran túl vannak fűtve.",
+              "A nap már 16:30-kor lenyugszik.",
+              "Vigyázzon a jegesedésre a megállókban.",
+              "Készítsen ki aprópénzt a jegyvásárláshoz."
+            ],
+            "ro": [
+              "Autobuzele sunt adesea supraîncălzite iarna.",
+              "Soarele apune deja la ora 16:30.",
+              "Atenție la gheață în zona stațiilor.",
+              "Pregătiți mărunțiș pentru bilet."
+            ],
+            "en": [
+              "Buses are often very warm inside during winter.",
+              "The sun sets as early as 16:30.",
+              "Watch for ice patches at bus stops.",
+              "Have small change ready for your ticket."
+            ]
+          }
+        }
       }
     }
   }

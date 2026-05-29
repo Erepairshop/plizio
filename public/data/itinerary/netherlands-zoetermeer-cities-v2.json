@@ -362,6 +362,188 @@
           "Check the opening hours for the Stadsmuseum in advance.",
           "Some cafes in Stadshart offer free Wi-Fi."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag im Stadshart, das viele überdachte Passagen bietet, um trocken zu bleiben. Der Besuch des Stadsmuseums und der Kirchen am Mittag bietet perfekten Schutz vor den Schauern. Ein kurzer Spaziergang führt Sie durch den Wilhelmina Park zum Woonhart. Den Abend verbringen Sie in den gemütlichen Innenräumen der Einkaufszentren.",
+            "hu": "Kezdje a napot a Stadshart bevásárlóközpont fedett passzázsai alatt, így elkerülheti az esőt. Délben a Városi Múzeum és a templomok vastag falai nyújtanak menedéket a záporok elől. Délután egy rövid séta következik a Wilhelmina parkon át a Woonhart negyedig. Az estét a városközpont fedett üzletei között töltheti el kényelmesen.",
+            "ro": "Începeți ziua în Stadshart, care oferă multe pasaje acoperite pentru a rămâne uscat. Vizita la Muzeul Orașului și la biserici la prânz oferă protecție perfectă împotriva ploii. O scurtă plimbare vă poartă prin Parcul Wilhelmina către Woonhart. Seara poate fi petrecută în interiorul primitor al centrelor comerciale.",
+            "en": "Start your day in Stadshart, which offers many covered passages to stay dry. Visiting the City Museum and the churches at midday provides perfect shelter from the showers. A short walk leads you through Wilhelmina Park to Woonhart. Spend the evening in the cozy indoor areas of the shopping centers."
+          },
+          "stops": [
+            {
+              "name": "Stadshart (City Heart)",
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Gänge zwischen den Geschäften.",
+                "hu": "Használja az üzletek közötti fedett átjárókat.",
+                "ro": "Folosiți pasajele acoperite dintre magazine.",
+                "en": "Use the covered walkways between the shops."
+              }
+            },
+            {
+              "name": "Oude Kerk (Old Church)",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um den stärksten Regen abzuwarten.",
+                "hu": "Csendes hely a legerősebb eső megvárására.",
+                "ro": "Un loc liniștit pentru a aștepta trecerea ploii.",
+                "en": "A quiet place to wait out the heaviest rain."
+              }
+            },
+            {
+              "name": "Stadsmuseum Zoetermeer (City Museum)",
+              "tip_5lang": {
+                "de": "Idealer Ort für eine längere Pause im Trockenen.",
+                "hu": "Ideális helyszín egy hosszabb száraz szünethez.",
+                "ro": "Locație ideală pentru o pauză lungă la uscat.",
+                "en": "Ideal location for a long break in the dry."
+              }
+            },
+            {
+              "name": "St. Nicholas Church",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Fenster, während es draußen regnet.",
+                "hu": "Csodálja meg az ablakokat, miközben kint esik.",
+                "ro": "Admirați ferestrele în timp ce afară plouă.",
+                "en": "Admire the windows while it rains outside."
+              }
+            },
+            {
+              "name": "Wilhelmina Park",
+              "tip_5lang": {
+                "de": "Die asphaltierten Wege vermeiden Matschschuhe.",
+                "hu": "Az aszfaltozott utak megkímélik a cipőt a sártól.",
+                "ro": "Potecile asfaltate evită murdărirea pantofilor.",
+                "en": "The paved paths help avoid muddy shoes."
+              }
+            },
+            {
+              "name": "Woonhart (Residential Heart)",
+              "tip_5lang": {
+                "de": "Perfekter Abschluss unter den Arkaden.",
+                "hu": "Tökéletes befejezés az árkádok alatt.",
+                "ro": "Final perfect sub arcadele comerciale.",
+                "en": "Perfect finish under the shopping arcades."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für die Wege zwischen den Centern.",
+              "Die RandstadRail-Stationen sind meist gut überdacht.",
+              "Nutzen Sie die Tiefgaragenpassagen als Abkürzungen.",
+              "Ein Taschenschirm ist wegen des oft starken Windes unerlässlich."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a központok közötti átkeléshez.",
+              "A RandstadRail állomások többsége jól védett az esőtől.",
+              "Használja a mélygarázsok folyosóit rövidítésként.",
+              "Az erős szél miatt egy stabil összecsukható esernyő kötelező."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru drumul dintre centre.",
+              "Stațiile RandstadRail sunt în mare parte bine acoperite.",
+              "Folosiți pasajele parcărilor subterane ca scurtături.",
+              "O umbrelă rezistentă este esențială din cauza vântului puternic."
+            ],
+            "en": [
+              "Wear waterproof shoes for the sections between the centers.",
+              "Most RandstadRail stations are well-sheltered from rain.",
+              "Use the underground parking passages as shortcuts.",
+              "A sturdy travel umbrella is essential due to frequent strong winds."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Start im Stadshart mit heißem Kaffee. Die Kirchen bieten besinnliche Wärme während der Mittagszeit. Der Wilhelmina Park wirkt im Frost besonders ruhig. Da die Sonne bereits gegen 16:30 Uhr untergeht, ist das beleuchtete Woonhart ein schöner Abschluss des Tages.",
+            "hu": "Hűvös reggel a Stadshartban egy forró kávéval. A templomok meghitt meleget nyújtanak a déli órákban. A Wilhelmina park a fagytól különösen csendesnek tűnik. Mivel a nap már 16:30 körül lemegy, a kivilágított Woonhart méltó befejezése a napnak.",
+            "ro": "Un început răcoros în Stadshart cu o cafea fierbinte. Bisericile oferă căldură și liniște în timpul prânzului. Parcul Wilhelmina pare deosebit de calm sub ger. Deoarece soarele apune în jur de ora 16:30, zona Woonhart iluminată este un final frumos de zi.",
+            "en": "A cool start in Stadshart with a hot coffee. The churches offer contemplative warmth during the midday hours. Wilhelmina Park seems particularly quiet in the frost. Since the sun sets around 4:30 PM, the illuminated Woonhart is a lovely conclusion to the day."
+          },
+          "stops": [
+            {
+              "name": "Stadshart (City Heart)",
+              "tip_5lang": {
+                "de": "Holen Sie sich einen warmen Kakao für den Spaziergang.",
+                "hu": "Vegyél egy forró kakaót a sétához.",
+                "ro": "Luați o ciocolată caldă pentru plimbare.",
+                "en": "Grab a hot cocoa for the walk."
+              }
+            },
+            {
+              "name": "Oude Kerk (Old Church)",
+              "tip_5lang": {
+                "de": "Achten Sie auf eventuelle Glätte auf dem Kirchplatz.",
+                "hu": "Ügyeljen az esetleges jegesedésre a templom téren.",
+                "ro": "Atenție la poleiul din piața bisericii.",
+                "en": "Watch for potential ice in the church square."
+              }
+            },
+            {
+              "name": "Stadsmuseum Zoetermeer (City Museum)",
+              "tip_5lang": {
+                "de": "Die Heizung im Museum ist sehr einladend.",
+                "hu": "A múzeum fűtése nagyon hívogató télen.",
+                "ro": "Încălzirea din muzeu este foarte primitoare.",
+                "en": "The museum's heating is very welcoming in winter."
+              }
+            },
+            {
+              "name": "St. Nicholas Church",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe vor der Kälte draußen.",
+                "hu": "Élvezze a békét a kinti hideg elől.",
+                "ro": "Bucurați-vă de liniște departe de frigul de afară.",
+                "en": "Enjoy the peace away from the cold outside."
+              }
+            },
+            {
+              "name": "Wilhelmina Park",
+              "tip_5lang": {
+                "de": "Der Frost auf den Bäumen ist ein tolles Fotomotiv.",
+                "hu": "A fákon lévő zúzmara remek fotótéma.",
+                "ro": "Chiciura de pe copaci este un motiv foto excelent.",
+                "en": "The frost on the trees makes for great photos."
+              }
+            },
+            {
+              "name": "Woonhart (Residential Heart)",
+              "tip_5lang": {
+                "de": "Die Abendbeleuchtung ist hier besonders stimmungsvoll.",
+                "hu": "Az esti kivilágítás itt különösen hangulatos.",
+                "ro": "Iluminatul de seară este deosebit de atmosferic aici.",
+                "en": "The evening lighting is particularly atmospheric here."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermo-Einlegesohlen für die kalten Pflastersteine.",
+              "Die Sonne verschwindet früh; planen Sie Fotos vor 15:30 Uhr.",
+              "Wärmen Sie sich regelmäßig in den Cafés im Stadshart auf.",
+              "Handschuhe sind bei dem Wind in den offenen Passagen wichtig."
+            ],
+            "hu": [
+              "Használjon termotalpat a hideg térkövek ellen.",
+              "A nap korán lemegy; a fotókat tervezze 15:30 elé.",
+              "Melegedjen fel rendszeresen a Stadshart kávézóiban.",
+              "A kesztyű fontos a nyitott átjárókban fújó szél miatt."
+            ],
+            "ro": [
+              "Folosiți branțuri termice pentru pavajul rece.",
+              "Soarele dispare devreme; planificați fotografiile înainte de 15:30.",
+              "Încălziți-vă regulat în cafenelele din Stadshart.",
+              "Mănușile sunt importante din cauza vântului din pasajele deschise."
+            ],
+            "en": [
+              "Wear thermal insoles for the cold cobblestones.",
+              "The sun disappears early; plan photos before 3:30 PM.",
+              "Warm up regularly in the cafes in Stadshart.",
+              "Gloves are important due to the wind in open passages."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -718,6 +900,188 @@
           "Always lock your bike securely.",
           "Bring a water bottle, especially for the longer stretches."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen ist Zoetermeer eine Fahrradstadt. Starten Sie am Stadshart und nutzen Sie die gut ausgebauten Radwege zum Stadsmuseum. Die Fahrt zum Wasserturm und Buytenpark erfordert wetterfeste Kleidung. Den Abschluss am Noord AA See genießen Sie am besten von einem der Cafés mit Blick auf das Regenwetter über dem Wasser.",
+            "hu": "Az eső ellenére Zoetermeer igazi kerékpáros város. Kezdje a Stadshartnál, és használja a kiépített utakat a Városi Múzeumig. A víztoronyhoz és a Buytenparkhoz vezető út vízálló ruházatot igényel. A napot a Noord AA tónál zárja, egy kávézóból figyelve a víz feletti esőt.",
+            "ro": "În ciuda ploii, Zoetermeer este un oraș al bicicletelor. Începeți la Stadshart și folosiți pistele bine întreținute către Muzeul Orașului. Drumul către Turnul de Apă și Buytenpark necesită haine impermeabile. Încheiați la lacul Noord AA, privind ploaia de la fereastra unei cafenele.",
+            "en": "Despite the rain, Zoetermeer is a true cycling city. Start at Stadshart and use the well-maintained paths to the City Museum. The ride to the Water Tower and Buytenpark requires waterproof gear. End your day at Noord AA Lake, watching the rain over the water from a local cafe."
+          },
+          "stops": [
+            {
+              "name": "Stadshart (City Heart)",
+              "tip_5lang": {
+                "de": "Überdachte Fahrradständer befinden sich am Rand.",
+                "hu": "Fedett biciklitárolók a szélén találhatók.",
+                "ro": "Suporturile acoperite pentru biciclete sunt la margine.",
+                "en": "Covered bike racks are located at the edge."
+              }
+            },
+            {
+              "name": "Oude Kerk & City Museum",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad nah am Eingang ab.",
+                "hu": "Állítsa a biciklit közel a bejárathoz.",
+                "ro": "Parcați bicicleta aproape de intrare.",
+                "en": "Park your bike close to the entrance."
+              }
+            },
+            {
+              "name": "Zoetermeer Water Tower",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp, bevor es weitergeht.",
+                "hu": "Rövid fotómegálló, mielőtt továbbindulna.",
+                "ro": "Scurt popas foto înainte de a continua.",
+                "en": "Quick photo stop before moving on."
+              }
+            },
+            {
+              "name": "Buytenpark",
+              "tip_5lang": {
+                "de": "Vorsicht bei nassen Blättern auf den Wegen.",
+                "hu": "Vigyázat a vizes levelekkel az utakon.",
+                "ro": "Atenție la frunzele ude de pe poteci.",
+                "en": "Watch out for wet leaves on the paths."
+              }
+            },
+            {
+              "name": "Noord AA Lake",
+              "tip_5lang": {
+                "de": "Der Wind am See kann bei Regen stark sein.",
+                "hu": "A tónál esőben erős lehet a szél.",
+                "ro": "Vântul de la lac poate fi puternic pe ploaie.",
+                "en": "The wind at the lake can be strong in the rain."
+              }
+            },
+            {
+              "name": "Wilhelmina Park",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Hauptwege, um Pfützen zu meiden.",
+                "hu": "Használja a főutakat a tócsák elkerüléséhez.",
+                "ro": "Folosiți drumurile principale pentru a evita bălțile.",
+                "en": "Use the main paths to avoid puddles."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Bremsen; nasser Asphalt verlängert den Bremsweg.",
+              "Ein Regenponcho schützt besser als ein Regenschirm auf dem Rad.",
+              "Vermeiden Sie die weißen Fahrbahnmarkierungen, sie sind rutschig.",
+              "Sattelschutz nicht vergessen, wenn das Rad draußen steht."
+            ],
+            "hu": [
+              "Ellenőrizze a fékeket; a vizes aszfalton hosszabb a féktáv.",
+              "A biciklin a poncsó jobban véd, mint az esernyő.",
+              "Kerülje a fehér felfestéseket, mert nagyon csúsznak.",
+              "Ne felejtse el a nyeregvédőt, ha kint hagyja a gépet."
+            ],
+            "ro": [
+              "Verificați frânele; asfaltul ud lungește distanța de frânare.",
+              "O pelerină protejează mai bine decât umbrela pe bicicletă.",
+              "Evitați marcajele rutiere albe, sunt foarte alunecoase.",
+              "Nu uitați protecția pentru șa dacă lăsați bicicleta afară."
+            ],
+            "en": [
+              "Check your brakes; wet asphalt increases braking distance.",
+              "A rain poncho protects better than an umbrella on a bike.",
+              "Avoid white road markings as they become very slippery.",
+              "Don't forget a saddle cover if parking outside."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Winterausflug mit dem Rad durch das frostige Zoetermeer. Vom Stadshart geht es durch die klare Luft zum Stadsmuseum. Der Wasserturm wirkt vor dem grauen Winterhimmel imposant. Die Fahrt durch den Buytenpark und zum Noord AA See bietet weite Ausblicke über die Polderlandschaft, bevor die frühe Dämmerung einsetzt.",
+            "hu": "Téli biciklitúra a fagyos Zoetermeerben. A Stadsharttól tiszta levegőn tekerhetünk a múzeumig. A víztorony impozánsan fest a szürke téli égbolt előtt. A Buytenparkon át a Noord AA tóig tartó út tágas kilátást nyújt a polderekre, mielőtt leszállna a korai szürkület.",
+            "ro": "O excursie de iarnă cu bicicleta prin Zoetermeer-ul înghețat. De la Stadshart mergeți prin aerul curat către muzeu. Turnul de apă arată impunător pe cerul gri de iarnă. Drumul prin Buytenpark către lacul Noord AA oferă vederi largi asupra polderelor înainte de amurg.",
+            "en": "A winter bike trip through frosty Zoetermeer. Ride from Stadshart through the crisp air to the museum. The water tower looks imposing against the grey winter sky. The route through Buytenpark to Noord AA Lake offers wide views of the polders before the early twilight sets in."
+          },
+          "stops": [
+            {
+              "name": "Stadshart (City Heart)",
+              "tip_5lang": {
+                "de": "Handschuhe sind bei diesem Wind unerlässlich.",
+                "hu": "A kesztyű elengedhetetlen ebben a szélben.",
+                "ro": "Mănușile sunt indispensabile pe acest vânt.",
+                "en": "Gloves are essential in this wind."
+              }
+            },
+            {
+              "name": "Oude Kerk & City Museum",
+              "tip_5lang": {
+                "de": "Kurze Aufwärmpause in der Ausstellung.",
+                "hu": "Rövid melegedő szünet a kiállításon.",
+                "ro": "Scurtă pauză de încălzire la expoziție.",
+                "en": "Short warm-up break at the exhibition."
+              }
+            },
+            {
+              "name": "Zoetermeer Water Tower",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf den Brücken.",
+                "hu": "Ügyeljen a jegesedésre a hidakon.",
+                "ro": "Atenție la gheața de pe poduri.",
+                "en": "Watch out for black ice on the bridges."
+              }
+            },
+            {
+              "name": "Buytenpark",
+              "tip_5lang": {
+                "de": "Die Hügel bieten Schutz vor dem Westwind.",
+                "hu": "A dombok védelmet nyújtanak a nyugati széltől.",
+                "ro": "Dealurile oferă protecție împotriva vântului de vest.",
+                "en": "The hills provide shelter from the west wind."
+              }
+            },
+            {
+              "name": "Noord AA Lake",
+              "tip_5lang": {
+                "de": "Bei Frost ist der See oft von Eis bedeckt.",
+                "hu": "Fagy esetén a tavat gyakran jég borítja.",
+                "ro": "În caz de ger, lacul este adesea acoperit de gheață.",
+                "en": "In case of frost, the lake is often covered in ice."
+              }
+            },
+            {
+              "name": "Wilhelmina Park",
+              "tip_5lang": {
+                "de": "Schöner Rückweg durch die kahlen Alleen.",
+                "hu": "Szép út vissza a kopár fasorok között.",
+                "ro": "Drum frumos de întoarcere prin aleile golașe.",
+                "en": "Beautiful return route through the bare avenues."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihr Licht; es wird bereits um 16:30 Uhr dunkel.",
+              "Vermeiden Sie bei Glätte ruckartiges Bremsen.",
+              "Der Windchill-Effekt in den Poldern ist nicht zu unterschätzen.",
+              "Fahrradschlösser können bei extremem Frost einfrieren."
+            ],
+            "hu": [
+              "Ellenőrizze a világítást; már 16:30-kor sötétedik.",
+              "Csúszós úton kerülje a hirtelen fékezést.",
+              "A poldereken a szél hűtő hatása igen erős lehet.",
+              "A biciklizárak extrém fagyban befagyhatnak."
+            ],
+            "ro": [
+              "Verificați luminile; se întunecă deja la ora 16:30.",
+              "Evitați frânarea bruscă pe suprafețe alunecoase.",
+              "Efectul vântului în poldere nu trebuie subestimat.",
+              "Antifurturile bicicletelor pot îngheța la ger extrem."
+            ],
+            "en": [
+              "Check your lights; it gets dark as early as 4:30 PM.",
+              "Avoid sudden braking on slippery surfaces.",
+              "The wind chill effect in the polders can be very strong.",
+              "Bike locks can freeze shut in extreme frost."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1098,6 +1462,206 @@
           "Plan your route in advance to avoid traffic.",
           "The car gives you the flexibility to reach more distant destinations like SnowWorld."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Auto ist bei Regen die komfortabelste Wahl. Nutzen Sie das Parkhaus im Stadtzentrum für den Stadshart. Ein kurzer Hopser bringt Sie zum Stadsmuseum. Das Highlight ist SnowWorld, wo Sie völlig wetterunabhängig aktiv sein können, bevor Sie den Tag am Noord AA See ausklingen lassen.",
+            "hu": "Esőben az autó a legkényelmesebb választás. Használja a belvárosi parkolóházat a Stadshart látogatásához. Egy rövid út után elérhető a Városi Múzeum. A nap fénypontja a SnowWorld, ahol az időjárástól függetlenül sportolhat, mielőtt a Noord AA tónál zárna.",
+            "ro": "Mașina este cea mai confortabilă alegere pe ploaie. Folosiți parcarea din centrul orașului pentru Stadshart. O scurtă deplasare vă duce la Muzeul Orașului. Punctul culminant este SnowWorld, unde puteți fi activ indiferent de vreme, înainte de a merge la lacul Noord AA.",
+            "en": "The car is the most comfortable choice in the rain. Use the city center parking garage for Stadshart. A short drive takes you to the City Museum. The highlight is SnowWorld, where you can be active regardless of the weather, before ending the day at Noord AA Lake."
+          },
+          "stops": [
+            {
+              "name": "Parking City Center",
+              "tip_5lang": {
+                "de": "Trockener Zugang zum Einkaufszentrum direkt vom Parkdeck.",
+                "hu": "Száraz bejutás a központba közvetlenül a parkolóból.",
+                "ro": "Acces uscat la centrul comercial direct din parcare.",
+                "en": "Dry access to the shopping center directly from the parking deck."
+              }
+            },
+            {
+              "name": "Stadshart (City Heart)",
+              "tip_5lang": {
+                "de": "Lassen Sie die Einkäufe einfach im Kofferraum.",
+                "hu": "Hagyja a vásárolt holmikat egyszerűen a csomagtartóban.",
+                "ro": "Lăsați cumpărăturile pur și simplu în portbagaj.",
+                "en": "Simply leave your shopping in the trunk."
+              }
+            },
+            {
+              "name": "Oude Kerk & City Museum",
+              "tip_5lang": {
+                "de": "Parkplätze in der Nähe sind oft schnell belegt.",
+                "hu": "A közeli parkolóhelyek gyakran gyorsan megtelnek.",
+                "ro": "Locurile de parcare din apropiere se ocupă adesea rapid.",
+                "en": "Parking spaces nearby often fill up quickly."
+              }
+            },
+            {
+              "name": "SnowWorld Parking",
+              "tip_5lang": {
+                "de": "Großer Parkplatz direkt am Eingang zur Skihalle.",
+                "hu": "Nagy parkoló közvetlenül a sícsarnok bejáratánál.",
+                "ro": "Parcare mare direct la intrarea în sala de schi.",
+                "en": "Large parking lot directly at the ski hall entrance."
+              }
+            },
+            {
+              "name": "SnowWorld Zoetermeer",
+              "tip_5lang": {
+                "de": "Perfekter Fluchtort vor dem Regenwetter.",
+                "hu": "Tökéletes menekülőhely az esős idő elől.",
+                "ro": "Locul perfect de evadare din calea ploii.",
+                "en": "Perfect escape from the rainy weather."
+              }
+            },
+            {
+              "name": "Buytenpark",
+              "tip_5lang": {
+                "de": "Genießen Sie den Ausblick aus dem warmen Auto.",
+                "hu": "Élvezze a kilátást a meleg autóból.",
+                "ro": "Bucurați-vă de priveliște din mașina caldă.",
+                "en": "Enjoy the view from the warm car."
+              }
+            },
+            {
+              "name": "Noord AA Lake",
+              "tip_5lang": {
+                "de": "Parken Sie mit Blick auf den stürmischen See.",
+                "hu": "Parkoljon a viharos tóra néző helyen.",
+                "ro": "Parcați cu vedere spre lacul furtunos.",
+                "en": "Park with a view of the stormy lake."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf der A12.",
+              "Die Parkhäuser im Stadshart bieten Rabattkarten an.",
+              "Nutzen Sie die Scheibenwischer-Automatik bei wechselhaftem Wetter.",
+              "Halten Sie Abstand, da die Straßenbeläge rutschig sein können."
+            ],
+            "hu": [
+              "Ügyeljen a vízenfutásra (aquaplaning) az A12-es úton.",
+              "A Stadshart parkolóházai kedvezménykártyákat kínálnak.",
+              "Használja az automata ablaktörlőt változékony időben.",
+              "Tartson nagyobb követési távolságot a csúszós utak miatt."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe autostrada A12.",
+              "Parcările din Stadshart oferă carduri de reducere.",
+              "Folosiți ștergătoarele automate pe vreme schimbătoare.",
+              "Păstrați distanța, suprafața drumului poate fi alunecoasă."
+            ],
+            "en": [
+              "Watch out for aquaplaning on the A12 motorway.",
+              "Parking garages in Stadshart offer discount cards.",
+              "Use automatic wipers during changeable weather.",
+              "Keep a safe distance as road surfaces can be slippery."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterlicher Fahrspaß in Zoetermeer. Starten Sie gemütlich im geheizten Stadshart. Nach dem Museumsbesuch ist SnowWorld im Winter ein Muss für echte Ski-Stimmung. Die Polderlandschaft rund um den Buytenpark und den Noord AA See sieht bei Frost zauberhaft aus, bevor Sie die Heimfahrt im Dunkeln antreten.",
+            "hu": "Téli autós kirándulás Zoetermeerben. Kezdje kényelmesen a fűtött Stadshartban. A múzeumlátogatás után a SnowWorld télen kötelező a valódi síhangulathoz. A Buytenpark és a Noord AA tó körüli polderek varázslatosak fagyban, mielőtt sötétben hazaindulna.",
+            "ro": "Distracție de iarnă la volan în Zoetermeer. Începeți confortabil în Stadshart-ul încălzit. După vizita la muzeu, SnowWorld este un 'must' iarna pentru o atmosferă de schi autentică. Peisajul polderelor din jurul Buytenpark arată magic sub ger.",
+            "en": "Winter driving fun in Zoetermeer. Start comfortably in the heated Stadshart. After the museum visit, SnowWorld is a must in winter for a real ski atmosphere. The polder landscape around Buytenpark and Noord AA Lake looks magical in the frost before you drive home in the dark."
+          },
+          "stops": [
+            {
+              "name": "Parking City Center",
+              "tip_5lang": {
+                "de": "Das Auto kühlt im Parkhaus weniger stark aus.",
+                "hu": "Az autó kevésbé hűl le a parkolóházban.",
+                "ro": "Mașina se răcește mai puțin în parcarea subterană.",
+                "en": "The car cools down less in the parking garage."
+              }
+            },
+            {
+              "name": "Stadshart (City Heart)",
+              "tip_5lang": {
+                "de": "Sitzheizung einschalten nach dem Bummel.",
+                "hu": "Kapcsolja be az ülésfűtést a séta után.",
+                "ro": "Porniți încălzirea în scaune după plimbare.",
+                "en": "Turn on the seat heating after the stroll."
+              }
+            },
+            {
+              "name": "Oude Kerk & City Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit für eine warme Mahlzeit.",
+                "hu": "Használja ki az időt egy meleg étkezésre.",
+                "ro": "Folosiți timpul pentru o masă caldă.",
+                "en": "Use the time for a warm meal."
+              }
+            },
+            {
+              "name": "SnowWorld Parking",
+              "tip_5lang": {
+                "de": "Die Zufahrt kann bei Schneefall glatt sein.",
+                "hu": "A behajtó havazáskor csúszós lehet.",
+                "ro": "Accesul poate fi alunecos în caz de ninsoare.",
+                "en": "The access road can be slippery during snowfall."
+              }
+            },
+            {
+              "name": "SnowWorld Zoetermeer",
+              "tip_5lang": {
+                "de": "In der Skihalle ist es oft wärmer als draußen.",
+                "hu": "A sícsarnokban gyakran melegebb van, mint kint.",
+                "ro": "În sala de schi este adesea mai cald decât afară.",
+                "en": "It's often warmer inside the ski hall than outside."
+              }
+            },
+            {
+              "name": "Buytenpark",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp für das Panorama im Frost.",
+                "hu": "Rövid megálló a fagyos panorámáért.",
+                "ro": "O scurtă oprire pentru panorama înghețată.",
+                "en": "A short stop for the frosty panorama."
+              }
+            },
+            {
+              "name": "Noord AA Lake",
+              "tip_5lang": {
+                "de": "Die Abendsonne am See ist im Winter kurz aber intensiv.",
+                "hu": "A téli esti naplemente a tónál rövid, de intenzív.",
+                "ro": "Apusul de iarnă la lac este scurt, dar intens.",
+                "en": "The winter evening sun at the lake is short but intense."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Frostschutz in der Scheibenwaschanlage.",
+              "Halten Sie einen Eiskratzer griffbereit für die Rückfahrt.",
+              "Die Batterieleistung sinkt bei Kälte; Licht nicht unnötig anlassen.",
+              "Vorsicht auf Nebenstrecken, diese werden oft weniger gestreut."
+            ],
+            "hu": [
+              "Ellenőrizze a fagyállót a szélvédőmosóban.",
+              "Legyen kéznél jégkaparó a hazaúthoz.",
+              "Az akkumulátor kapacitása csökken hidegben.",
+              "Vigyázat a mellékutakon, ezeket ritkábban sózzák."
+            ],
+            "ro": [
+              "Verificați antigelul din instalația de spălare a parbrizului.",
+              "Aveți la îndemână o racletă pentru drumul de întoarcere.",
+              "Capacitatea bateriei scade la ger; nu lăsați farurile aprinse inutil.",
+              "Atenție pe drumurile secundare, sunt mai puțin deszăpezite."
+            ],
+            "en": [
+              "Check the antifreeze in your windshield washer system.",
+              "Keep an ice scraper handy for the return journey.",
+              "Battery performance drops in the cold; don't leave lights on.",
+              "Be careful on side roads, as they are often gritted less."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1454,6 +2018,188 @@
           "Be aware that buses can be crowded during peak hours.",
           "Some routes may run less frequently on weekends."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit der RandstadRail kommen Sie trocken durch Zoetermeer. Die Haltestellen am Stadshart sind gut überdacht. Besuchen Sie das Stadsmuseum und die Kirchen, bevor Sie mit der Bahn zum Buytenpark weiterfahren. Den Tag schließen Sie am Noord AA See ab, den Sie bequem per Bus erreichen, während draußen der Regen fällt.",
+            "hu": "A RandstadRail segítségével szárazon utazhat át Zoetermeeren. A Stadshart megállói jól fedettek. Látogassa meg a múzeumot és a templomokat, majd utazzon tovább vonattal a Buytenparkhoz. A napot a Noord AA tónál zárhatja, mely busszal kényelmesen elérhető az esőben is.",
+            "ro": "Cu RandstadRail traversați Zoetermeer-ul la adăpost de ploaie. Stațiile din Stadshart sunt bine acoperite. Vizitați muzeul și bisericile înainte de a continua cu trenul către Buytenpark. Încheiați ziua la lacul Noord AA, accesibil ușor cu autobuzul.",
+            "en": "Use the RandstadRail to stay dry while traveling through Zoetermeer. The stops at Stadshart are well-sheltered. Visit the City Museum and churches before continuing by train to Buytenpark. End your day at Noord AA Lake, easily reached by bus while it rains outside."
+          },
+          "stops": [
+            {
+              "name": "Stadshart Stop",
+              "tip_5lang": {
+                "de": "Die Station bietet guten Schutz vor Wind und Wetter.",
+                "hu": "Az állomás jó védelmet nyújt a szél és az időjárás ellen.",
+                "ro": "Stația oferă protecție bună împotriva vântului și ploii.",
+                "en": "The station offers good protection from wind and weather."
+              }
+            },
+            {
+              "name": "Stadshart & Woonhart",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen den Bahnen und den Geschäften.",
+                "hu": "Rövid utak a vonatok és az üzletek között.",
+                "ro": "Distanțe scurte între trenuri și magazine.",
+                "en": "Short distances between the trains and the shops."
+              }
+            },
+            {
+              "name": "Oude Kerk & City Museum",
+              "tip_5lang": {
+                "de": "Die Haltestelle Dorp liegt direkt beim Museum.",
+                "hu": "A Dorp megálló közvetlenül a múzeumnál van.",
+                "ro": "Stația Dorp este chiar lângă muzeu.",
+                "en": "The Dorp stop is located right by the museum."
+              }
+            },
+            {
+              "name": "Buytenpark Stop",
+              "tip_5lang": {
+                "de": "Schneller Umstieg in die RandstadRail Linie 3.",
+                "hu": "Gyors átszállás a 3-as RandstadRail vonalra.",
+                "ro": "Transfer rapid la linia 3 RandstadRail.",
+                "en": "Quick transfer to RandstadRail line 3."
+              }
+            },
+            {
+              "name": "Buytenpark",
+              "tip_5lang": {
+                "de": "Der Weg vom Halt zum Park ist kurz.",
+                "hu": "Az út a megállótól a parkig rövid.",
+                "ro": "Drumul de la stație la parc este scurt.",
+                "en": "The walk from the stop to the park is short."
+              }
+            },
+            {
+              "name": "Noord AA Stop",
+              "tip_5lang": {
+                "de": "Warten Sie im Unterstand auf den Bus zurück.",
+                "hu": "Várja a visszatérő buszt a fedett váróban.",
+                "ro": "Așteptați autobuzul de întoarcere în adăpost.",
+                "en": "Wait for the bus back in the shelter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die OV-chipkaart für nahtlose Übergänge.",
+              "Die RandstadRail fährt alle 10-15 Minuten.",
+              "Informieren Sie sich über die App '9292' über Verspätungen.",
+              "Die Bahnhöfe sind oft windig, kleiden Sie sich warm."
+            ],
+            "hu": [
+              "Használja az OV-chipkaartot a zökkenőmentes átszálláshoz.",
+              "A RandstadRail 10-15 percenként jár.",
+              "Tájékozódjon a késésekről a '9292' alkalmazásban.",
+              "Az állomások gyakran huzatosak, öltözzön melegen."
+            ],
+            "ro": [
+              "Folosiți cardul OV-chip pentru transferuri line.",
+              "RandstadRail circulă la fiecare 10-15 minute.",
+              "Informați-vă despre întârzieri folosind aplicația '9292'.",
+              "Stațiile sunt adesea expuse vântului, îmbrăcați-vă bine."
+            ],
+            "en": [
+              "Use the OV-chipkaart for seamless transfers.",
+              "RandstadRail runs every 10-15 minutes.",
+              "Check for delays using the '9292' app.",
+              "Stations can be windy, so dress warmly."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterreise mit der Bahn durch Zoetermeer. Starten Sie im belebten Stadshart und genießen Sie die Fahrt durch die frostigen Wohnviertel. Das Stadsmuseum bietet eine warme Pause. Mit der Linie 3 erreichen Sie den Buytenpark, wo die Winterluft erfrischend wirkt, bevor Sie mit dem Bus zum stimmungsvollen Noord AA See fahren.",
+            "hu": "Téli utazás vonattal Zoetermeerben. Kezdje a nyüzsgő Stadshartban, és élvezze az utat a fagyos lakónegyedeken át. A Városi Múzeum meleg szünetet kínál. A 3-as vonallal elérheti a Buytenparkot, ahol a téli levegő frissítő, majd busszal utazhat a hangulatos Noord AA tóhoz.",
+            "ro": "Călătorie de iarnă cu trenul prin Zoetermeer. Începeți în Stadshart-ul plin de viață și bucurați-vă de drumul prin cartierele înghețate. Muzeul oferă o pauză caldă. Cu linia 3 ajungeți la Buytenpark, unde aerul de iarnă este revigorant.",
+            "en": "Winter journey by train through Zoetermeer. Start in the lively Stadshart and enjoy the ride through frosty neighborhoods. The City Museum offers a warm break. Take line 3 to Buytenpark, where the winter air is refreshing, before taking the bus to the atmospheric Noord AA Lake."
+          },
+          "stops": [
+            {
+              "name": "Stadshart Stop",
+              "tip_5lang": {
+                "de": "Die Züge sind im Winter angenehm geheizt.",
+                "hu": "A vonatok télen kellemesen fűtöttek.",
+                "ro": "Trenurile sunt încălzite plăcut iarna.",
+                "en": "The trains are comfortably heated in winter."
+              }
+            },
+            {
+              "name": "Stadshart & Woonhart",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Winterbeleuchtung.",
+                "hu": "Élvezze a téli díszkivilágítás látványát.",
+                "ro": "Bucurați-vă de vederea iluminatului de iarnă.",
+                "en": "Enjoy the view of the winter lights."
+              }
+            },
+            {
+              "name": "Oude Kerk & City Museum",
+              "tip_5lang": {
+                "de": "Planen Sie Zeit für einen heißen Tee im Dorf ein.",
+                "hu": "Tervezzen időt egy forró teára a faluban.",
+                "ro": "Planificați timp pentru un ceai fierbinte în sat.",
+                "en": "Plan time for a hot tea in the village."
+              }
+            },
+            {
+              "name": "Buytenpark Stop",
+              "tip_5lang": {
+                "de": "Achten Sie auf geänderte Fahrpläne bei Schneefall.",
+                "hu": "Ügyeljen a módosult menetrendre havazáskor.",
+                "ro": "Atenție la orarele modificate în caz de ninsoare.",
+                "en": "Watch for altered schedules during snowfall."
+              }
+            },
+            {
+              "name": "Buytenpark",
+              "tip_5lang": {
+                "de": "Ein Spaziergang durch den Frost tut gut.",
+                "hu": "Egy séta a fagyban jót tesz a szervezetnek.",
+                "ro": "O plimbare prin ger este revigorantă.",
+                "en": "A walk through the frost is refreshing."
+              }
+            },
+            {
+              "name": "Noord AA Stop",
+              "tip_5lang": {
+                "de": "Der letzte Bus fährt oft früher als gedacht.",
+                "hu": "Az utolsó busz gyakran korábban indul, mint gondolná.",
+                "ro": "Ultimul autobuz pleacă adesea mai devreme decât credeți.",
+                "en": "The last bus often departs earlier than expected."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Halten Sie Ihre Fahrkarte griffbereit, um Kälte an den Schranken zu vermeiden.",
+              "Die Dämmerung bietet tolle Ausblicke aus dem Zugfenster.",
+              "Achten Sie auf glatte Bahnsteigkanten.",
+              "In den Randstunden kann die Taktfrequenz reduziert sein."
+            ],
+            "hu": [
+              "Legyen kéznél a jegye, hogy elkerülje a hideget a kapuknál.",
+              "A szürkület nagyszerű kilátást nyújt a vonatablakból.",
+              "Ügyeljen a csúszós peron szélekre.",
+              "A peremidőszakokban ritkábban járhatnak a vonatok."
+            ],
+            "ro": [
+              "Aveți biletul la îndemână pentru a evita frigul la bariere.",
+              "Amurgul oferă vederi minunate de la fereastra trenului.",
+              "Atenție la marginile alunecoase ale peroanelor.",
+              "În orele de seară, frecvența trenurilor poate fi redusă."
+            ],
+            "en": [
+              "Keep your ticket ready to avoid standing in the cold at barriers.",
+              "Twilight offers great views from the train window.",
+              "Watch out for slippery platform edges.",
+              "Frequencies may be reduced during off-peak winter hours."
+            ]
+          }
+        }
       }
     }
   }

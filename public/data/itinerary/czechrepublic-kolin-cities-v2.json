@@ -332,6 +332,196 @@
           "Many sights are close to each other, allow enough time for taking photos.",
           "A walk along the Elbe is highly recommended, especially in the late afternoon."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen am Karlsplatz, Schutz unter den Rathausarkaden. Mittags bietet die St.-Bartholomäus-Kathedrale trockene Zuflucht. Der Nachmittag im Regionalmuseum schützt vor dem Guss, während wir in die Geschichte eintauchen. Abends spiegeln sich die Lichter der Masaryk-Brücke in der Elbe, ein kurzer Spaziergang vor der Einkehr in ein warmes Gasthaus.",
+            "hu": "Esős reggel a Károly téren, menedék a városháza árkádjai alatt. Délben a Szent Bertalan-székesegyház nyújt száraz menedéket. A délután a Regionális Múzeumban telik, távol a felhőszakadástól, elmerülve a történelemben. Este a Masaryk-híd fényei tükröződnek az Elbában, egy rövid séta után jól esik a betérés egy meleg vendéglőbe.",
+            "ro": "Dimineață ploioasă în Piața Carol, adăpost sub arcadele primăriei. La prânz, Catedrala Sf. Bartolomeu oferă un refugiu uscat. După-amiaza la Muzeul Regional ne protejează de averse în timp ce explorăm istoria. Seara, luminile podului Masaryk se oglindesc în Elba, o scurtă plimbare înainte de a intra într-un restaurant călduros.",
+            "en": "A rainy morning at Charles Square, finding shelter under the town hall arcades. At noon, St. Bartholomew Cathedral offers dry refuge. Afternoon in the Regional Museum protects from the downpour while diving into history. Evening lights of Masaryk Bridge reflect in the Elbe, a short walk before retreating to a warm local restaurant."
+          },
+          "stops": [
+            {
+              "name": "Karlsplatz",
+              "tip_5lang": {
+                "de": "Die Cafés unter den Arkaden bieten trockene Plätze.",
+                "hu": "Az árkádok alatti kávézók száraz helyet kínálnak.",
+                "ro": "Cafenelele de sub arcade oferă locuri uscate.",
+                "en": "Cafes under the arcades offer dry seating."
+              }
+            },
+            {
+              "name": "Rathaus Kolín",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Fassade geschützt vom Portal aus.",
+                "hu": "Csodálja meg a homlokzatot a kapu védelméből.",
+                "ro": "Admirați fațada protejat de portalul primăriei.",
+                "en": "Admire the facade protected by the portal."
+              }
+            },
+            {
+              "name": "St.-Bartholomäus-Kathedrale",
+              "tip_5lang": {
+                "de": "Idealer Ort, um einen starken Schauer abzuwarten.",
+                "hu": "Ideális hely egy erős zápor átvészelésére.",
+                "ro": "Loc ideal pentru a aștepta trecerea unei averse.",
+                "en": "Ideal place to wait out a heavy downpour."
+              }
+            },
+            {
+              "name": "Regionalmuseum (Veigert-Haus)",
+              "tip_5lang": {
+                "de": "Große Ausstellungsräume sorgen für trockene Stunden.",
+                "hu": "A nagy kiállítótermek száraz kikapcsolódást nyújtanak.",
+                "ro": "Sălile mari de expoziție asigură ore petrecute la uscat.",
+                "en": "Large exhibition rooms provide dry hours."
+              }
+            },
+            {
+              "name": "Masaryk-Brücke",
+              "tip_5lang": {
+                "de": "Vorsicht bei starkem Wind direkt über der Elbe.",
+                "hu": "Vigyázat az erős széllel közvetlenül az Elba felett.",
+                "ro": "Atenție la vântul puternic direct deasupra Elbei.",
+                "en": "Be careful with strong winds directly over the Elbe."
+              }
+            },
+            {
+              "name": "Wasserturm Práchovna",
+              "tip_5lang": {
+                "de": "Der Turmaufstieg ist bei Regen etwas rutschig.",
+                "hu": "A toronyba való feljutás esőben kissé csúszós.",
+                "ro": "Urcarea în turn este puțin alunecoasă pe ploaie.",
+                "en": "The tower climb is slightly slippery in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Arkaden am Karlsplatz als natürlichen Regenschutz.",
+              "Die Museen sind ideal, um längere Schauer trocken zu überbrücken.",
+              "Tragen Sie festes, wasserdichtes Schuhwerk für das Kopfsteinpflaster.",
+              "In den Cafés rund um das Zentrum lässt sich das Wetter gut beobachten.",
+              "Ein Besuch der Kathedrale ist bei Regen besonders atmosphärisch."
+            ],
+            "hu": [
+              "Használja a Károly tér árkádjait természetes esővédelemként.",
+              "A múzeumok ideálisak a hosszabb záporok száraz átvészelésére.",
+              "Viseljen vízálló lábbelit a macskaköves utcákhoz.",
+              "A központ körüli kávézókban jól megfigyelhető az időjárás.",
+              "A székesegyház látogatása esőben különleges hangulatot áraszt."
+            ],
+            "ro": [
+              "Folosiți arcadele din Piața Carol ca protecție naturală contra ploii.",
+              "Muzeele sunt ideale pentru a petrece la uscat perioadele cu averse.",
+              "Purtați încălțăminte impermeabilă pentru străzile cu pavaj.",
+              "Vremea poate fi observată relaxat din cafenelele centrale.",
+              "O vizită la catedrală este deosebit de atmosferică pe ploaie."
+            ],
+            "en": [
+              "Use the arcades at Charles Square as natural rain shelter.",
+              "Museums are ideal for bridging longer showers in the dry.",
+              "Wear sturdy, waterproof footwear for the cobblestone streets.",
+              "Cafes around the center are great for people-watching in the rain.",
+              "A visit to the cathedral is especially atmospheric during rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frost am Karlsplatz, der Tag beginnt mit klarem Winterhimmel. Mittags bietet die massive Kathedrale Schutz vor dem kalten Wind. Nachmittags wärmen wir uns bei den Ausstellungen im Regionalmuseum auf. Wenn die Dunkelheit früh einsetzt, bietet der Wasserturm Práchovna einen funkelnden Blick auf das nächtliche, winterliche Kolín.",
+            "hu": "Fagy a Károly téren, a nap tiszta téli éggel indul. Délben a masszív székesegyház nyújt védelmet a hideg szél ellen. Délután a Regionális Múzeum kiállításai között melegszünk fel. Amikor korán leszáll az éj, a Práchovna víztoronyból szikrázó kilátás nyílik az éjszakai, téli Kolínra.",
+            "ro": "Îngheț în Piața Carol, ziua începe cu un cer senin de iarnă. La prânz, catedrala masivă oferă protecție împotriva vântului rece. După-amiaza ne încălzim la expozițiile Muzeului Regional. Când întunericul se lasă devreme, Turnul de Apă Práchovna oferă o vedere sclipitoare asupra orașului Kolín în straie de iarnă.",
+            "en": "Frost at Charles Square, the day begins with clear winter skies. At noon, the massive cathedral provides protection from the cold wind. In the afternoon, we warm up among the exhibits of the Regional Museum. As darkness falls early, the Práchovna Water Tower offers a sparkling view of Kolín at night in winter."
+          },
+          "stops": [
+            {
+              "name": "Karlsplatz",
+              "tip_5lang": {
+                "de": "Genießen Sie ein Heißgetränk am Marktplatz.",
+                "hu": "Élvezzen egy forró italt a főtéren.",
+                "ro": "Savurați o băutură caldă în piața centrală.",
+                "en": "Enjoy a hot drink at the main square."
+              }
+            },
+            {
+              "name": "Rathaus Kolín",
+              "tip_5lang": {
+                "de": "Die Fassade wirkt im Winterlicht besonders plastisch.",
+                "hu": "A homlokzat a téli fényben különösen látványos.",
+                "ro": "Fațada pare deosebit de plastică în lumina iernii.",
+                "en": "The facade looks particularly vivid in winter light."
+              }
+            },
+            {
+              "name": "St.-Bartholomäus-Kathedrale",
+              "tip_5lang": {
+                "de": "Warme Kleidung für die Besichtigung ist ratsam.",
+                "hu": "Meleg ruházat javasolt a belső látogatáshoz.",
+                "ro": "Se recomandă haine groase pentru vizitarea interiorului.",
+                "en": "Warm clothing is recommended for the interior visit."
+              }
+            },
+            {
+              "name": "Regionalmuseum (Veigert-Haus)",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um sich zwischendurch aufzuwärmen.",
+                "hu": "Tökéletes hely egy kis köztes felmelegedéshez.",
+                "ro": "Locul perfect pentru a vă încălzi între vizite.",
+                "en": "Perfect spot to warm up between sightseeing."
+              }
+            },
+            {
+              "name": "Masaryk-Brücke",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf den Gehwegen der Brücke.",
+                "hu": "Vigyázzon a jegesedésre a híd járdáin.",
+                "ro": "Atenție la polei pe trotuarele podului.",
+                "en": "Watch out for black ice on the bridge sidewalks."
+              }
+            },
+            {
+              "name": "Wasserturm Práchovna",
+              "tip_5lang": {
+                "de": "Bester Platz für Fotos vom frühen Sonnenuntergang.",
+                "hu": "A legjobb hely a korai naplemente fotózásához.",
+                "ro": "Cel mai bun loc pentru poze cu apusul timpuriu.",
+                "en": "Best spot for photos of the early sunset."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Wind von der Elbe kann im Winter sehr schneidend sein.",
+              "Beachten Sie den frühen Sonnenuntergang gegen 16:30 Uhr.",
+              "Die Museen bieten eine willkommene Pause von der Kälte.",
+              "Tragen Sie griffige Schuhe bei möglichem Schneefall im Zentrum.",
+              "Warme Suppen in den lokalen Kneipen stärken für den Rundgang."
+            ],
+            "hu": [
+              "Az Elba felől fújó szél télen nagyon metsző lehet.",
+              "Ügyeljen a korai naplementére, ami 16:30 körül várható.",
+              "A múzeumok kellemes pihenőt nyújtanak a hideg elől.",
+              "Viseljen tapadós talpú cipőt a belvárosi hóesésben.",
+              "A helyi vendéglők meleg levesei erőt adnak a sétához."
+            ],
+            "ro": [
+              "Vântul de pe Elba poate fi foarte tăios în timpul iernii.",
+              "Aveți în vedere apusul timpuriu, în jurul orei 16:30.",
+              "Muzeele oferă o pauză binevenită de la frigul de afară.",
+              "Purtați încălțăminte cu aderență bună în caz de ninsoare.",
+              "Supele calde din tavernele locale vă vor încălzi pentru drum."
+            ],
+            "en": [
+              "The wind from the Elbe can be very piercing in winter.",
+              "Keep in mind the early sunset around 4:30 PM.",
+              "Museums offer a welcome break from the outdoor cold.",
+              "Wear shoes with good grip in case of snow in the center.",
+              "Hot soups in local pubs provide energy for the tour."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -658,6 +848,196 @@
           "Always lock your bike securely when visiting sights.",
           "A bicycle bell is useful for drawing attention."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Vorsicht auf dem nassen Kopfsteinpflaster am Karlsplatz. Mittags bietet die Alte Synagoge ein trockenes Ziel. Der Nachmittag am Wasserturm erfordert gute Regenbekleidung für den Aufstieg. Abends radeln wir vorsichtig über die rutschige Masaryk-Brücke, während der Regen die Elbe aufwühlt.",
+            "hu": "Vigyázat a Károly tér nedves macskakövén. Délben a Régi Zsinagóga száraz úti célt kínál. A délután a víztoronynál jó esőruházatot igényel a felmenetelhez. Este óvatosan tekerünk át a csúszós Masaryk-hídon, miközben az eső felkorbácsolja az Elbát.",
+            "ro": "Atenție pe pavajul umed din Piața Carol. La prânz, Vechea Sinagogă oferă o destinație uscată. După-amiaza la turnul de apă necesită echipament de ploaie bun pentru urcare. Seara pedalăm cu atenție peste podul alunecos Masaryk, în timp ce ploaia agită apele Elbei.",
+            "en": "Caution on the wet cobblestones of Charles Square. At noon, the Old Synagogue offers a dry destination. Afternoon at the water tower requires good rain gear for the climb. In the evening, we cycle carefully across the slippery Masaryk Bridge while rain stirs the Elbe river."
+          },
+          "stops": [
+            {
+              "name": "Karlsplatz",
+              "tip_5lang": {
+                "de": "Vermeiden Sie scharfes Bremsen auf nassem Stein.",
+                "hu": "Kerülje az erős fékezést a nedves köveken.",
+                "ro": "Evitați frânarea bruscă pe piatra umedă.",
+                "en": "Avoid sharp braking on wet stones."
+              }
+            },
+            {
+              "name": "Alte Synagoge",
+              "tip_5lang": {
+                "de": "Sichere Fahrradständer befinden sich in der Nähe.",
+                "hu": "Biztonságos kerékpártárolók találhatók a közelben.",
+                "ro": "Suporturi de biciclete sigure se află în apropiere.",
+                "en": "Secure bike racks are located nearby."
+              }
+            },
+            {
+              "name": "Alter Jüdischer Friedhof",
+              "tip_5lang": {
+                "de": "Vorsicht vor rutschigem Laub auf den Wegen.",
+                "hu": "Vigyázzon a csúszós levelekkel az utakon.",
+                "ro": "Atenție la frunzele alunecoase de pe alei.",
+                "en": "Watch out for slippery leaves on the paths."
+              }
+            },
+            {
+              "name": "Wasserturm Práchovna",
+              "tip_5lang": {
+                "de": "Wasserdichte Taschen für Ausrüstung nutzen.",
+                "hu": "Használjon vízálló táskákat a felszereléshez.",
+                "ro": "Folosiți genți impermeabile pentru echipament.",
+                "en": "Use waterproof bags for your equipment."
+              }
+            },
+            {
+              "name": "Masaryk-Brücke",
+              "tip_5lang": {
+                "de": "Der Radweg auf der Brücke kann Pfützen bilden.",
+                "hu": "A hídon lévő kerékpárúton tócsák alakulhatnak ki.",
+                "ro": "Pista de biciclete de pe pod poate avea bălți.",
+                "en": "The bike path on the bridge can form puddles."
+              }
+            },
+            {
+              "name": "Lapidarium",
+              "tip_5lang": {
+                "de": "Überdachter Eingangsbereich zum Unterstellen.",
+                "hu": "Fedett bejárati rész a behúzódáshoz.",
+                "ro": "Zonă de intrare acoperită pentru adăpost.",
+                "en": "Covered entrance area for sheltering."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Bremswege auf nassem Kopfsteinpflaster sind deutlich länger.",
+              "Tragen Sie Reflektoren, da die Sicht bei Regen abnimmt.",
+              "Sichern Sie Ihr Gepäck mit wasserdichten Überzügen.",
+              "Der Elberadweg kann bei starkem Regen matschig sein.",
+              "Nutzen Sie Brückenunterführungen für kurze Regenpausen."
+            ],
+            "hu": [
+              "A fékút a nedves macskakövön jelentősen meghosszabbodik.",
+              "Viseljen fényvisszaverőt, mert esőben a látótávolság csökken.",
+              "Biztosítsa csomagjait vízálló huzattal.",
+              "Az Elba-menti kerékpárút heves esőzéskor sáros lehet.",
+              "Használja a hidak alatti beállókat rövid esőszünetekhez."
+            ],
+            "ro": [
+              "Distanța de frânare pe pavaj umed este mult mai lungă.",
+              "Purtați elemente reflectorizante, vizibilitatea scade pe ploaie.",
+              "Protejați-vă bagajele cu huse impermeabile.",
+              "Pista de pe malul Elbei poate fi noroioasă pe ploaie torențială.",
+              "Folosiți subsolurile podurilor pentru scurte pauze de ploaie."
+            ],
+            "en": [
+              "Braking distances on wet cobblestones are significantly longer.",
+              "Wear reflectors as visibility decreases during rain.",
+              "Secure your luggage with waterproof covers.",
+              "The Elbe cycle path can be muddy during heavy rain.",
+              "Use bridge underpasses for short rain breaks."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Kalter Start am Karlsplatz, Thermokleidung ist Pflicht. Mittags wärmt die Besichtigung der Alten Synagoge auf. Nachmittags fordern die eisigen Winde am Wasserturm Durchhaltevermögen. Der Tag endet früh bei Sonnenuntergang am Lapidarium, wo wir die Räder sicher abstellen und uns aufwärmen.",
+            "hu": "Hideg kezdés a Károly téren, a thermo-ruházat kötelező. Délben a Régi Zsinagóga megtekintése melegít fel. Délután a víztoronynál a jeges szél kitartást igényel. A nap korán, naplementekor ér véget a Lapidáriumnál, ahol biztonságba helyezzük a bicikliket és felmelegszünk.",
+            "ro": "Start rece în Piața Carol, îmbrăcămintea termică este obligatorie. La prânz, vizitarea Vechii Sinagogi ne încălzește. După-amiaza la turnul de apă, vântul înghețat necesită perseverență. Ziua se încheie devreme, la apus, la Lapidarium, unde parcăm bicicletele și ne încălzim.",
+            "en": "Cold start at Charles Square, thermal clothing is a must. At noon, visiting the Old Synagogue warms us up. In the afternoon, icy winds at the water tower demand endurance. The day ends early at sunset near the Lapidarium, where we safely park our bikes and warm up."
+          },
+          "stops": [
+            {
+              "name": "Karlsplatz",
+              "tip_5lang": {
+                "de": "Handschuhe sind für die Fahrt unerlässlich.",
+                "hu": "A kesztyű elengedhetetlen a tekeréshez.",
+                "ro": "Mănușile sunt indispensabile pentru drum.",
+                "en": "Gloves are essential for the ride."
+              }
+            },
+            {
+              "name": "Alte Synagoge",
+              "tip_5lang": {
+                "de": "Innenräume bieten Schutz vor frostigem Wind.",
+                "hu": "A belső terek védelmet nyújtanak a fagyos szél ellen.",
+                "ro": "Interioarele oferă protecție contra vântului înghețat.",
+                "en": "Interiors provide shelter from the frosty wind."
+              }
+            },
+            {
+              "name": "Alter Jüdischer Friedhof",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorener Nässe auf den Wegen.",
+                "hu": "Vigyázzon a fagyott nedvességgel az utakon.",
+                "ro": "Atenție la umezeala înghețată de pe alei.",
+                "en": "Watch out for frozen patches on the paths."
+              }
+            },
+            {
+              "name": "Wasserturm Práchovna",
+              "tip_5lang": {
+                "de": "Zügiges Treppensteigen regt den Kreislauf an.",
+                "hu": "A gyors lépcsőzés serkenti a keringést.",
+                "ro": "Urcatul rapid al scărilor stimulează circulația.",
+                "en": "Brisk stair climbing stimulates circulation."
+              }
+            },
+            {
+              "name": "Masaryk-Brücke",
+              "tip_5lang": {
+                "de": "Sehr windanfällig, halten Sie den Lenker fest.",
+                "hu": "Nagyon szeles, fogja szorosan a kormányt.",
+                "ro": "Foarte expus vântului, țineți bine ghidonul.",
+                "en": "Very windy, keep a firm grip on the handlebars."
+              }
+            },
+            {
+              "name": "Lapidarium",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ausklang im geschützten Bereich.",
+                "hu": "Csendes befejezés a védett területen.",
+                "ro": "Un final liniștit într-o zonă protejată.",
+                "en": "A quiet end in a protected area."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Glätteis auf den Brücken über die Elbe.",
+              "Die Sonne geht im Winter bereits gegen 16:30 Uhr unter.",
+              "Akkus von E-Bikes entladen sich bei Kälte schneller.",
+              "Tragen Sie Schichten gegen den scharfen Fahrtwind.",
+              "Meiden Sie ungeräumte Nebenwege außerhalb des Zentrums."
+            ],
+            "hu": [
+              "Ügyeljen a jegesedésre az Elba feletti hidakon.",
+              "A nap télen már 16:30 körül lenyugszik.",
+              "Az elektromos kerékpárok akkuja gyorsabban merül hidegben.",
+              "Viseljen réteges ruházatot az éles menetszél ellen.",
+              "Kerülje a letakarítatlan mellékutakat a központon kívül."
+            ],
+            "ro": [
+              "Atenție la polei pe podurile de peste Elba.",
+              "Soarele apune deja în jurul orei 16:30 iarna.",
+              "Bateriile bicicletelor electrice se descarcă mai repede la frig.",
+              "Purtați haine în mai multe straturi contra vântului tăios.",
+              "Evitați drumurile secundare nedezzăpezite din afara centrului."
+            ],
+            "en": [
+              "Watch out for black ice on the bridges over the Elbe.",
+              "The sun sets as early as 4:30 PM in winter.",
+              "E-bike batteries discharge faster in cold weather.",
+              "Wear layers to protect against the sharp biting wind.",
+              "Avoid uncleared side paths outside the center."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -984,6 +1364,196 @@
           "Please observe the speed limits in the residential areas.",
           "A navigation system is useful to find the best parking spots."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein bequemer Start am Karlsplatz, Parken direkt am Zentrum. Mittags besuchen wir die Kathedrale, während der Regen auf das Dach prasselt. Nachmittags bietet das Regionalmuseum im trockenen Veigert-Haus Kultur ohne nasse Füße. Abends genießen wir die Aussicht vom Wasserturm, bevor wir im Auto trocken zum Hotel fahren.",
+            "hu": "Kényelmes kezdés a Károly téren, parkolás közvetlenül a központnál. Délben meglátogatjuk a székesegyházat, miközben az eső a tetőn kopog. Délután a Regionális Múzeum a száraz Veigert-házban kínál kultúrát ázott lábak nélkül. Este élvezzük a kilátást a víztoronyból, mielőtt szárazon az autóval a szálláshoz hajtanánk.",
+            "ro": "Un start confortabil în Piața Carol, parcare direct în centru. La prânz vizităm catedrala în timp ce ploaia bate în acoperiș. După-amiaza, Muzeul Regional din Casa Veigert oferă cultură fără picioare ude. Seara ne bucurăm de vederea din turnul de apă înainte de a merge cu mașina la hotel.",
+            "en": "A comfortable start at Charles Square, parking right by the center. At noon, we visit the cathedral while rain drums on the roof. In the afternoon, the Regional Museum in the dry Veigert House offers culture without wet feet. In the evening, we enjoy the view from the water tower before driving dry to the hotel."
+          },
+          "stops": [
+            {
+              "name": "Karlsplatz",
+              "tip_5lang": {
+                "de": "Zentrales Parken ermöglicht kurze Laufwege.",
+                "hu": "A központi parkolás rövid sétákat tesz lehetővé.",
+                "ro": "Parcarea centrală permite distanțe scurte de mers.",
+                "en": "Central parking allows for short walking distances."
+              }
+            },
+            {
+              "name": "St.-Bartholomäus-Kathedrale",
+              "tip_5lang": {
+                "de": "Ein prächtiger Rückzugsort bei jedem Wetter.",
+                "hu": "Pompás visszavonulási hely minden időben.",
+                "ro": "Un loc de retragere superb pe orice vreme.",
+                "en": "A magnificent retreat in any weather."
+              }
+            },
+            {
+              "name": "Regionalmuseum (Veigert-Haus)",
+              "tip_5lang": {
+                "de": "Parkplätze in den umliegenden Straßen nutzen.",
+                "hu": "Használja a környező utcák parkolóit.",
+                "ro": "Folosiți locurile de parcare de pe străzile adiacente.",
+                "en": "Use parking spaces in the surrounding streets."
+              }
+            },
+            {
+              "name": "Alte Synagoge",
+              "tip_5lang": {
+                "de": "Kurzer Stopp direkt vor dem historischen Eingang.",
+                "hu": "Rövid megálló közvetlenül a történelmi bejárat előtt.",
+                "ro": "Scurtă oprire direct în fața intrării istorice.",
+                "en": "Short stop right in front of the historic entrance."
+              }
+            },
+            {
+              "name": "Alter Jüdischer Friedhof",
+              "tip_5lang": {
+                "de": "Eingeschränkte Parkmöglichkeiten, Plan beachten.",
+                "hu": "Korlátozott parkolási lehetőség, figyelje a tervet.",
+                "ro": "Locuri de parcare limitate, verificați harta.",
+                "en": "Limited parking options, check the map."
+              }
+            },
+            {
+              "name": "Wasserturm Práchovna",
+              "tip_5lang": {
+                "de": "Bequeme Anfahrt bis fast vor den Turm möglich.",
+                "hu": "Kényelmes érkezés majdnem a torony elé lehetséges.",
+                "ro": "Acces auto facil până aproape de turn.",
+                "en": "Easy car access almost to the front of the tower."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie zentrale Parkhäuser für trockene Wege.",
+              "Achten Sie bei Regen auf Aquaplaning entlang der Elbe.",
+              "Die Museen sind ideale Ziele für regnerische Nachmittage.",
+              "Lassen Sie den Regenschirm griffbereit im Fahrgastraum.",
+              "Planen Sie bei starkem Regen mehr Zeit für die Parkplatzsuche ein."
+            ],
+            "hu": [
+              "Használjon központi parkolóházakat a száraz utakért.",
+              "Vigyázzon a vízenfutásra az Elba menti utakon.",
+              "A múzeumok ideális célpontok esős délutánokra.",
+              "Tartsa az esernyőt kéznél az utastérben.",
+              "Heves esőzéskor számoljon több idővel a parkolókeresésre."
+            ],
+            "ro": [
+              "Folosiți parcările etajate centrale pentru acces uscat.",
+              "Atenție la acvaplanare pe drumul de-a lungul Elbei.",
+              "Muzeele sunt destinații ideale pentru după-amiezi ploioase.",
+              "Țineți umbrela la îndemână în interiorul mașinii.",
+              "Prevedeți mai mult timp pentru parcare pe ploaie torențială."
+            ],
+            "en": [
+              "Use central parking garages for dry access paths.",
+              "Watch out for aquaplaning on roads along the Elbe.",
+              "Museums are ideal destinations for rainy afternoons.",
+              "Keep your umbrella handy in the car cabin.",
+              "Allow more time for finding parking during heavy rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterlicher Morgen am Karlsplatz, das Auto ist wohltemperiert. Mittags bestaunen wir die Kathedrale, während draußen der Frost klirrt. Nachmittags wärmen wir uns im Regionalmuseum an lokaler Geschichte. Abends bietet die Fahrt zum Wasserturm einen Panoramablick auf das beleuchtete, verschneite Kolín im warmen Komfort.",
+            "hu": "Téli reggel a Károly téren, az autó kellemes hőmérsékletű. Délben a székesegyházat csodáljuk, miközben kint zord a fagy. Délután a Regionális Múzeumban melegszünk a helyi történelem mellett. Este a víztoronyhoz vezető út panorámás kilátást nyújt a kivilágított, havas Kolínra a meleg kényelméből.",
+            "ro": "Dimineață de iarnă în Piața Carol, mașina este bine încălzită. La prânz admirăm catedrala în timp ce afară înghețul este tăios. După-amiaza ne încălzim la Muzeul Regional cu istoria locală. Seara, drumul spre turnul de apă oferă o panoramă asupra orașului Kolín iluminat și înzăpezit.",
+            "en": "Winter morning at Charles Square, the car is well-tempered. At noon, we marvel at the cathedral while frost bites outside. In the afternoon, we warm up at the Regional Museum with local history. In the evening, the drive to the water tower offers a panoramic view of illuminated, snowy Kolín in warm comfort."
+          },
+          "stops": [
+            {
+              "name": "Karlsplatz",
+              "tip_5lang": {
+                "de": "Vorsicht vor glatten Stellen in den Seitenstraßen.",
+                "hu": "Vigyázzon a jeges foltokkal a mellékutcákban.",
+                "ro": "Atenție la porțiunile înghețate de pe străzile laterale.",
+                "en": "Watch out for icy patches in the side streets."
+              }
+            },
+            {
+              "name": "St.-Bartholomäus-Kathedrale",
+              "tip_5lang": {
+                "de": "Parken Sie nah, um Kältebrücken zu vermeiden.",
+                "hu": "Parkoljon közel a hideg elkerülése érdekében.",
+                "ro": "Parcați aproape pentru a evita expunerea la frig.",
+                "en": "Park close to minimize exposure to the cold."
+              }
+            },
+            {
+              "name": "Regionalmuseum (Veigert-Haus)",
+              "tip_5lang": {
+                "de": "Die Heizung in den Räumen ist sehr angenehm.",
+                "hu": "A termek fűtése nagyon kellemes.",
+                "ro": "Încălzirea din interior este foarte plăcută.",
+                "en": "The heating in the rooms is very comfortable."
+              }
+            },
+            {
+              "name": "Alte Synagoge",
+              "tip_5lang": {
+                "de": "Ein geschichtsträchtiger Halt im warmen Rundgang.",
+                "hu": "Történelmi megálló a meleg körút során.",
+                "ro": "O oprire plină de istorie în turul călduros.",
+                "en": "A history-rich stop during your warm tour."
+              }
+            },
+            {
+              "name": "Alter Jüdischer Friedhof",
+              "tip_5lang": {
+                "de": "Besonders mystisch unter einer Schneedecke.",
+                "hu": "Különösen misztikus hótakaró alatt.",
+                "ro": "Deosebit de mistic sub pătura de zăpadă.",
+                "en": "Particularly mystical under a blanket of snow."
+              }
+            },
+            {
+              "name": "Wasserturm Práchovna",
+              "tip_5lang": {
+                "de": "Gute Winterreifen für die Zufahrt erforderlich.",
+                "hu": "Jó téli gumi szükséges a megközelítéshez.",
+                "ro": "Anvelope de iarnă bune sunt necesare pentru acces.",
+                "en": "Good winter tires required for the access road."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Planen Sie Zeit für das Enteisen der Scheiben ein.",
+              "Die Straßen im historischen Viertel sind oft eng und glatt.",
+              "Nutzen Sie die Sitzheizung für maximale Gemütlichkeit.",
+              "Fahren Sie vorsichtig auf der Brücke über die Elbe.",
+              "Warme Getränke im Auto machen die Pausen angenehmer."
+            ],
+            "hu": [
+              "Számoljon időt a szélvédők jégtelenítésére.",
+              "A történelmi negyed utcái gyakran szűkek és csúszósak.",
+              "Használja az ülésfűtést a maximális kényelemért.",
+              "Vezessen óvatosan az Elba feletti hídon.",
+              "Az autóban lévő meleg italok kellemesebbé teszik a szüneteket."
+            ],
+            "ro": [
+              "Prevedeți timp pentru dezghețarea parbrizului.",
+              "Străzile din cartierul istoric sunt adesea înguste și lucioase.",
+              "Folosiți încălzirea în scaune pentru confort maxim.",
+              "Conduceți cu prudență pe podul de peste Elba.",
+              "Băuturile calde în mașină fac pauzele mai plăcute."
+            ],
+            "en": [
+              "Allow time for defrosting the windows before starting.",
+              "Streets in the historic quarter are often narrow and slick.",
+              "Use seat heating for maximum coziness.",
+              "Drive carefully across the bridge over the Elbe.",
+              "Hot drinks in the car make the breaks more enjoyable."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1310,6 +1880,196 @@
           "The center is very easily accessible on foot, use buses only for longer distances.",
           "Pay attention to departure times, especially in the afternoon."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Start am Karlsplatz, Busse halten direkt im Zentrum. Mittags bietet die Kathedrale trockene Stille zwischen den Fahrten. Nachmittags nutzen wir die Linien zur Alten Synagoge und zum Friedhof, um Regenpausen zu überbrücken. Abends bringt uns der Bus über die Masaryk-Brücke sicher und trocken zurück zum Bahnhof.",
+            "hu": "Esős kezdés a Károly téren, a buszok közvetlenül a központban állnak meg. Délben a székesegyház száraz csendet nyújt az utak között. Délután a buszjáratokat használjuk a Régi Zsinagógához és a temetőhöz, elkerülve az esőt. Este a busz biztonságosan és szárazon visz át a Masaryk-hídon vissza a vasútállomásra.",
+            "ro": "Start ploios în Piața Carol, autobuzele opresc direct în centru. La prânz, catedrala oferă liniște la uscat între călătorii. După-amiaza folosim liniile spre Vechea Sinagogă și cimitir pentru a evita ploaia. Seara, autobuzul ne duce în siguranță și la uscat peste podul Masaryk înapoi la gară.",
+            "en": "A rainy start at Charles Square, buses stop right in the center. At noon, the cathedral offers dry silence between trips. In the afternoon, we use the bus lines to the Old Synagogue and cemetery to bridge the rain. In the evening, the bus takes us safely and dry across the Masaryk Bridge back to the station."
+          },
+          "stops": [
+            {
+              "name": "Karlsplatz",
+              "tip_5lang": {
+                "de": "Zentraler Knotenpunkt mit vielen Unterständen.",
+                "hu": "Központi csomópont sok beállóval.",
+                "ro": "Nod central cu multe adăposturi în stații.",
+                "en": "Central hub with many bus shelters."
+              }
+            },
+            {
+              "name": "Rathaus Kolín",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen Haltestelle und Rathaus.",
+                "hu": "Rövid távolság a megálló és a városháza között.",
+                "ro": "Distanțe scurte între stație și primărie.",
+                "en": "Short distances between the stop and town hall."
+              }
+            },
+            {
+              "name": "St.-Bartholomäus-Kathedrale",
+              "tip_5lang": {
+                "de": "Durch schmale Gassen schnell erreichbar.",
+                "hu": "Szűk utcákon keresztül gyorsan elérhető.",
+                "ro": "Accesibil rapid prin străduțele înguste.",
+                "en": "Quickly accessible through narrow alleys."
+              }
+            },
+            {
+              "name": "Alte Synagoge",
+              "tip_5lang": {
+                "de": "Buslinie hält fast unmittelbar davor.",
+                "hu": "A buszjárat majdnem közvetlenül előtte áll meg.",
+                "ro": "Linia de autobuz oprește aproape în față.",
+                "en": "Bus line stops almost right in front."
+              }
+            },
+            {
+              "name": "Alter Jüdischer Friedhof",
+              "tip_5lang": {
+                "de": "Bei Regen ist die Anfahrt per Bus ratsam.",
+                "hu": "Esőben a buszos megközelítés javasolt.",
+                "ro": "Pe ploaie, accesul cu autobuzul este recomandat.",
+                "en": "During rain, reaching it by bus is advisable."
+              }
+            },
+            {
+              "name": "Masaryk-Brücke",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Elbe im Trockenen.",
+                "hu": "Élvezze az Elba látványát szárazon.",
+                "ro": "Bucurați-vă de vederea spre Elba de la uscat.",
+                "en": "Enjoy the view of the Elbe from the dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Busse in Kolín verkehren auch bei Regen pünktlich.",
+              "Nutzen Sie die Wartehäuschen am Karlsplatz als Schutz.",
+              "Die App 'IDOS' hilft bei der Planung in Echtzeit.",
+              "Kurze Sprints zwischen Bus und Sehenswürdigkeit planen.",
+              "Der Bahnhof Kolín bietet ein trockenes Wartesaal-Erlebnis."
+            ],
+            "hu": [
+              "A kolíni buszok esőben is pontosan közlekednek.",
+              "Használja a Károly téri várókat védelemként.",
+              "Az 'IDOS' alkalmazás segít a valós idejű tervezésben.",
+              "Tervezzen rövid sprinteket a busz és a látnivalók között.",
+              "A kolíni vasútállomás száraz várótermet kínál."
+            ],
+            "ro": [
+              "Autobuzele din Kolín circulă punctual și pe ploaie.",
+              "Folosiți refugiile din Piața Carol pentru protecție.",
+              "Aplicația „IDOS” ajută la planificarea în timp real.",
+              "Plănuiți scurte sprinturi între autobuz și obiective.",
+              "Gara din Kolín oferă o sală de așteptare uscată."
+            ],
+            "en": [
+              "Buses in Kolín run on time even during rain.",
+              "Use the shelters at Charles Square for protection.",
+              "The 'IDOS' app helps with real-time planning.",
+              "Plan short sprints between the bus and the sights.",
+              "Kolin station offers a dry waiting room experience."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen am Karlsplatz, der Bus ist angenehm geheizt. Mittags bietet die Kathedrale spirituelle Wärme, während draußen der Wind weht. Nachmittags besuchen wir die Synagoge und den Friedhof, verbunden durch kurze Busfahrten. Den Tag beenden wir bei Sonnenuntergang auf der Masaryk-Brücke, bevor uns der nächste Bus ins Warme bringt.",
+            "hu": "Fagyos reggel a Károly téren, a busz kellemesen fűtött. Délben a székesegyház spirituális meleget nyújt, miközben kint fúj a szél. Délután meglátogatjuk a zsinagógát és a temetőt, rövid buszutakkal összekötve. A napot a Masaryk-hídon zárjuk naplementekor, mielőtt a következő busz melegre vinne.",
+            "ro": "O dimineață gerosă în Piața Carol, autobuzul este plăcut încălzit. La prânz, catedrala oferă o căldură spirituală în timp ce afară bate vântul. După-amiaza vizităm sinagoga și cimitirul, conectate prin scurte călătorii cu autobuzul. Încheiem ziua la apus pe podul Masaryk înainte de următorul autobuz.",
+            "en": "A frosty morning at Charles Square, the bus is pleasantly heated. At noon, the cathedral offers spiritual warmth while the wind blows outside. In the afternoon, we visit the synagogue and cemetery, connected by short bus rides. We end the day at sunset on the Masaryk Bridge before the next bus takes us to warmth."
+          },
+          "stops": [
+            {
+              "name": "Karlsplatz",
+              "tip_5lang": {
+                "de": "Hinter den Arkaden lässt sich windgeschützt warten.",
+                "hu": "Az árkádok mögött szélvédett helyen lehet várni.",
+                "ro": "Se poate aștepta ferit de vânt în spatele arcadelor.",
+                "en": "You can wait protected from the wind behind the arcades."
+              }
+            },
+            {
+              "name": "Rathaus Kolín",
+              "tip_5lang": {
+                "de": "Warme Kleidung ist für die Umstiege wichtig.",
+                "hu": "Meleg ruházat fontos az átszállásokhoz.",
+                "ro": "Hainele groase sunt importante pentru transferuri.",
+                "en": "Warm clothing is important for transfers."
+              }
+            },
+            {
+              "name": "St.-Bartholomäus-Kathedrale",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um der Kälte kurz zu entfliehen.",
+                "hu": "Csendes hely, hogy elmeneküljön a hideg elől.",
+                "ro": "Un loc liniștit pentru a scăpa scurt de frig.",
+                "en": "A quiet place to briefly escape the cold."
+              }
+            },
+            {
+              "name": "Alte Synagoge",
+              "tip_5lang": {
+                "de": "Gute Busanbindung auch im Winterfahrplan.",
+                "hu": "Jó buszközlekedés a téli menetrendben is.",
+                "ro": "Conexiuni bune de autobuz și în orarul de iarnă.",
+                "en": "Good bus connections even in the winter schedule."
+              }
+            },
+            {
+              "name": "Alter Jüdischer Friedhof",
+              "tip_5lang": {
+                "de": "Der Fußweg von der Haltestelle ist oft geräumt.",
+                "hu": "A megállótól vezető utat gyakran letakarítják.",
+                "ro": "Aleea de la stație este adesea deszăpezită.",
+                "en": "The path from the stop is usually cleared."
+              }
+            },
+            {
+              "name": "Masaryk-Brücke",
+              "tip_5lang": {
+                "de": "Vom Bus aus bietet sich ein toller Eis-Blick.",
+                "hu": "A buszból nagyszerű kilátás nyílik a jégre.",
+                "ro": "Din autobuz se vede superb gheața de pe râu.",
+                "en": "The bus offers a great view of ice on the river."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die geheizten Busse zum Aufwärmen.",
+              "Beachten Sie mögliche winterbedingte Verzögerungen.",
+              "Die Fahrkartenautomaten funktionieren auch bei Frost.",
+              "Der Bus ist im Winter die bequemste Verbindung zum Elbe-Ufer.",
+              "Abends sind die Busse oft weniger frequentiert und ruhig."
+            ],
+            "hu": [
+              "Használja a fűtött buszokat a felmelegedéshez.",
+              "Számoljon a téli időjárás miatti esetleges késésekkel.",
+              "A jegyautomaták fagyban is működnek.",
+              "A busz télen a legkényelmesebb kapcsolat az Elba-parthoz.",
+              "Este a buszok gyakran kevésbé zsúfoltak és csendesek."
+            ],
+            "ro": [
+              "Folosiți autobuzele încălzite pentru a vă dezmorți.",
+              "Aveți în vedere posibile întârzieri din cauza iernii.",
+              "Automatele de bilete funcționează și pe ger.",
+              "Autobuzul este cea mai comodă legătură spre malul Elbei.",
+              "Seara, autobuzele sunt adesea mai libere și liniștite."
+            ],
+            "en": [
+              "Use the heated buses to warm up between stops.",
+              "Be aware of potential winter-related delays.",
+              "Ticket machines remain functional even in frost.",
+              "The bus is the most comfortable way to reach the Elbe bank.",
+              "Buses are often less crowded and quiet in the evening."
+            ]
+          }
+        }
       }
     }
   }

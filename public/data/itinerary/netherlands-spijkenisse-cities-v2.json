@@ -316,6 +316,188 @@
           "Check market days to get the full experience.",
           "Many modern buildings are best admired from the outside."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt am nassen Marktplatz, wo die grauen Wolken in den Pfützen reflektieren. Die Alte Kirche bietet Schutz und Stille. Mittags ist die Boekenberg-Bibliothek der ideale Ort, um im Trockenen zu verweilen und durch das Glas den Regen zu beobachten. Nachmittags führt der Weg zum Theater und durch den Hartelpark. Abends glänzen die Lichter der Elementen-Siedlung auf dem feuchten Asphalt.",
+            "hu": "Reggel a vizes Piactéren kezdünk, ahol a szürke ég tükröződik a tócsákban. Az Ótemplom békés menedéket nyújt a szitáló esőben. Délben a Boekenberg könyvtár üvegpiramisa a legjobb hely: bent meleg van, és lenyűgöző látvány a doboló eső. Délután a színház érintésével a Hartelpark illatos, párás ösvényein sétálunk. Este az Elementen negyed fényei csillognak a nedves aszfalton, a folyóparti szélben.",
+            "ro": "Dimineața începe în Piața Pieței, unde cerul gri se reflectă în bălți. Vechea Biserică oferă un adăpost liniștit împotriva ploii. La prânz, biblioteca Boekenberg este refugiul ideal: este cald în interior și poți privi ploaia prin pereții de sticlă. După-amiaza, trecem pe lângă teatru spre potecile parfumate ale parcului Hartelpark. Seara, luminile cartierului De Elementen sclipesc pe asfaltul umed.",
+            "en": "The morning starts at the wet Market Square, with gray skies reflecting in the puddles. The Old Church provides a peaceful refuge from the drizzle. At noon, the Boekenberg library is the perfect sanctuary: stay warm inside while watching the rain through the glass pyramid. In the afternoon, walk past the theater to the Hartelpark's fresh trails. Evening ends with city lights reflecting on the wet streets."
+          },
+          "stops": [
+            {
+              "name": "Market Square Spijkenisse",
+              "tip_5lang": {
+                "de": "Die Cafés rund um den Platz bieten gemütliche Plätze im Trockenen.",
+                "hu": "A tér körüli kávézók remek menedéket nyújtanak a szitáló eső elől.",
+                "ro": "Cafenelele din jurul pieței oferă locuri confortabile la adăpost de ploaie.",
+                "en": "Cafes around the square offer great indoor seating to escape the drizzle."
+              }
+            },
+            {
+              "name": "Old Church",
+              "tip_5lang": {
+                "de": "Ein wunderbarer Ort, um der Akustik des Regens auf dem Dach zu lauschen.",
+                "hu": "Csodálatos hely a tetőn doboló eső akusztikájának hallgatásához.",
+                "ro": "Un loc minunat pentru a asculta sunetul ploii pe acoperișul vechi.",
+                "en": "A wonderful spot to listen to the acoustics of rain tapping on the roof."
+              }
+            },
+            {
+              "name": "De Boekenberg (The Book Mountain)",
+              "tip_5lang": {
+                "de": "Das ultimative Regenziel – genießen Sie ein Buch bei einem Kaffee.",
+                "hu": "A tökéletes esős úti cél – élvezze a könyveket egy forró kávé mellett.",
+                "ro": "Destinația supremă pe ploaie – savurați o carte și o cafea caldă.",
+                "en": "The ultimate rainy day destination – enjoy a book and a hot coffee."
+              }
+            },
+            {
+              "name": "Theater de Stoep",
+              "tip_5lang": {
+                "de": "Das geschwungene Dach bietet kurzzeitigen Schutz vor dem Schauer.",
+                "hu": "A hullámos tetőszerkezet rövid ideig védelmet nyújt a zápor ellen.",
+                "ro": "Acoperișul ondulat oferă protecție temporară împotriva ploii.",
+                "en": "The wavy roof structure provides temporary shelter from the downpour."
+              }
+            },
+            {
+              "name": "Hartelpark",
+              "tip_5lang": {
+                "de": "Die asphaltierten Wege sind auch bei Regen gut begehbar.",
+                "hu": "Az aszfaltozott utak esőben is jól járhatóak, kevés a sár.",
+                "ro": "Potecile asfaltate sunt ușor de parcurs chiar și pe ploaie.",
+                "en": "The paved paths remain easy to walk even during rainfall."
+              }
+            },
+            {
+              "name": "De Elementen (The Elements)",
+              "tip_5lang": {
+                "de": "Die industrielle Architektur wirkt bei Regen besonders dramatisch.",
+                "hu": "Az ipari építészet esőben különösen drámai és fotogén látvány.",
+                "ro": "Arhitectura industrială arată dramatic și fotogenic pe ploaie.",
+                "en": "The industrial architecture looks particularly dramatic in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine windfeste Regenjacke, da es am Wasser oft zieht.",
+              "Die Boekenberg-Bibliothek ist der beste Knotenpunkt für Pausen.",
+              "Achten Sie auf rutschiges Kopfsteinpflaster am Marktplatz.",
+              "Ein Taschenschirm ist bei den wechselhaften Winden hier unverzichtbar."
+            ],
+            "hu": [
+              "Viseljen szélálló esőkabátot, mert a vízparton erős lehet a huzat.",
+              "A Boekenberg könyvtár a legjobb bázis a hosszabb pihenőkhöz.",
+              "Vigyázzon a csúszós macskakövekre a Piactér környékén.",
+              "Az összecsukható esernyő a változékony holland szélben kötelező."
+            ],
+            "ro": [
+              "Purtați o jachetă impermeabilă, vântul poate fi puternic lângă apă.",
+              "Biblioteca Boekenberg este cel mai bun punct de oprire pentru pauze.",
+              "Atenție la pavajul alunecos din zona Pieței Centrale.",
+              "O umbrelă rezistentă la vânt este esențială în climatul olandez."
+            ],
+            "en": [
+              "Wear a windproof raincoat, as it gets breezy near the water.",
+              "The Boekenberg library is the best hub for longer breaks.",
+              "Watch out for slippery cobblestones around the Market Square.",
+              "A wind-resistant umbrella is a must in the changing Dutch weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen am Marktplatz, wo der Duft von frischem Gebäck die kalte Luft erfüllt. Die Alte Kirche bietet einen besinnlichen Rückzugsort. Mittags wärmen wir uns in der Boekenberg-Bibliothek auf, einem modernen Lichttempel. Nachmittags geht es durch den winterlichen Hartelpark zum Theater. Wenn die Sonne früh untergeht, erleuchten die Lichter der Stadt den Weg zur Elementen-Siedlung.",
+            "hu": "Deres reggel a Piactéren, ahol a friss pékáru illata tölti meg a hideg levegőt. Az Ótemplom meghitt, csendes menedék. Délben a Boekenberg könyvtárban melegszünk fel, amely télen a fény temploma. Délután a deres Hartelparkon át sétálunk a színházhoz. A korai naplemente után a város fényei vezetik utunkat a folyóparti Elementen negyed modern épületei felé.",
+            "ro": "O dimineață geroasă în Piață, unde mirosul de patiserie proaspătă umple aerul rece. Vechea Biserică este un refugiu liniștit. La prânz, ne încălzim în biblioteca Boekenberg, un adevărat templu al luminii iarna. După-amiaza, traversăm parcul înghețat spre teatru. După apusul timpuriu, luminile orașului ne ghidează spre clădirile moderne din zona De Elementen.",
+            "en": "A frosty morning at the Market Square, where the smell of fresh pastry fills the cold air. The Old Church offers a cozy, quiet retreat. At noon, warm up in the Boekenberg library, a temple of light in winter. Afternoon leads through the frosty Hartelpark to the theater. After the early sunset, city lights guide the way to the modern riverfront district of De Elementen."
+          },
+          "stops": [
+            {
+              "name": "Market Square Spijkenisse",
+              "tip_5lang": {
+                "de": "Genießen Sie eine heiße Schokolade in einem der beheizten Cafés.",
+                "hu": "Élvezzen egy forró csokoládét a fűtött kávézók egyikében.",
+                "ro": "Savurați o ciocolată caldă în una dintre cafenelele încălzite.",
+                "en": "Enjoy a hot chocolate in one of the heated cafes nearby."
+              }
+            },
+            {
+              "name": "Old Church",
+              "tip_5lang": {
+                "de": "Die dicken Mauern schützen gut vor dem eisigen Winterwind.",
+                "hu": "A vastag falak jól védenek a jeges téli szél elől.",
+                "ro": "Zidurile groase oferă o protecție excelentă împotriva vântului înghețat.",
+                "en": "The thick walls provide excellent protection from the icy winter wind."
+              }
+            },
+            {
+              "name": "De Boekenberg (The Book Mountain)",
+              "tip_5lang": {
+                "de": "Der wärmste Ort der Stadt mit viel natürlichem Licht im Winter.",
+                "hu": "A város legmelegebb pontja, télen is rengeteg természetes fénnyel.",
+                "ro": "Cel mai cald loc din oraș, cu multă lumină naturală chiar și iarna.",
+                "en": "The warmest spot in town, with plenty of natural light in winter."
+              }
+            },
+            {
+              "name": "Theater de Stoep",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Spielplan für gemütliche Abendvorstellungen im Warmen.",
+                "hu": "Nézze meg a műsort egy hangulatos, benti esti előadáshoz.",
+                "ro": "Verificați programul pentru spectacole de seară confortabile la căldură.",
+                "en": "Check the schedule for cozy evening performances indoors."
+              }
+            },
+            {
+              "name": "Hartelpark",
+              "tip_5lang": {
+                "de": "Bei Frost verwandelt sich der Park in ein glitzerndes Winterwunderland.",
+                "hu": "Fagyos időben a park csillogó téli mesevilággá változik.",
+                "ro": "Pe timp de îngheț, parcul se transformă într-un peisaj de iarnă sclipitor.",
+                "en": "In freezing weather, the park transforms into a sparkling winter land."
+              }
+            },
+            {
+              "name": "De Elementen (The Elements)",
+              "tip_5lang": {
+                "de": "Abends sind die beleuchteten Fassaden besonders stimmungsvoll.",
+                "hu": "Este a kivilágított homlokzatok különösen hangulatos látványt nyújtanak.",
+                "ro": "Seara, fațadele iluminate oferă o atmosferă deosebită.",
+                "en": "In the evening, the illuminated facades offer a special atmosphere."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich in Schichten, um für die warme Bibliothek bereit zu sein.",
+              "Die Sonne geht im Winter bereits gegen 16:30 Uhr unter.",
+              "Einige Wege im Park können bei Frost glatt sein.",
+              "Nutzen Sie die Mittagszeit für Außenaktivitäten, wenn es am hellsten ist."
+            ],
+            "hu": [
+              "Öltözzön rétegesen, mert a könyvtárban és a színházban meleg van.",
+              "A naplemente télen már 16:30 körül bekövetkezik.",
+              "A park ösvényei fagyos időben csúszósak lehetnek.",
+              "A kültéri programokat időzítse délre, amikor a legtöbb a fény."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi pentru a fi pregătiți pentru căldura din interior.",
+              "Apusul soarelui are loc în jurul orei 16:30 pe timpul iernii.",
+              "Unele poteci din parc pot fi alunecoase în caz de îngheț.",
+              "Planificați activitățile în aer liber la prânz, când este cea mai multă lumină."
+            ],
+            "en": [
+              "Dress in layers to be ready for the warm library and theater.",
+              "Sunset occurs around 4:30 PM during the winter months.",
+              "Some park paths may be slippery during freezing conditions.",
+              "Schedule outdoor activities for midday when light is strongest."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -649,6 +831,206 @@
           "Bring a lock to secure your bike at stops.",
           "Bike paths are well-marked, just follow the signs."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen ist Spijkenisse ein Radfahrer-Paradies. Der Morgen führt über nasse Radwege vom Markt zur Bibliothek. Mittags bietet Boekenberg eine trockene Pause. Nachmittags geht es über die Brücke, wo der Wind den Regen peitscht, und zurück durch den Hartelpark. Die Tour endet an der Bernisse, wo die Natur im Regen eine ganz eigene, mystische Ruhe ausstrahlt.",
+            "hu": "Az eső ellenére Spijkenisse bringás paradicsom. Reggel vizes kerékpárutakon gurulunk a piactértől a könyvtárig. Délben a Boekenberg ad száraz pihenőt. Délután a hídon át tekerünk, ahol a szél korbácsolja az esőt, majd vissza a Hartelparkon át. A túra a Bernisse-nél ér véget, ahol a természet az esőben különleges, misztikus nyugalmat áraszt.",
+            "ro": "În ciuda ploii, Spijkenisse este un paradis pentru bicicliști. Dimineața pedalăm pe piste umede de la piață la bibliotecă. La prânz, Boekenberg oferă o pauză uscată. După-amiaza traversăm podul în bătaia vântului și ne întoarcem prin Hartelpark. Turul se încheie la Bernisse, unde natura emană o liniște mistică sub ploaie.",
+            "en": "Despite the rain, Spijkenisse remains a cyclist's haven. Morning leads over wet bike paths from the market to the library. At noon, Boekenberg offers a dry break. In the afternoon, cross the bridge where the wind whips the rain, then head back through Hartelpark. The tour ends at Bernisse, where nature radiates a unique, mystic calm in the rain."
+          },
+          "stops": [
+            {
+              "name": "Market Square Spijkenisse",
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Fahrradständer in der Nähe des Zentrums.",
+                "hu": "Használja a központ közeli fedett kerékpártárolókat.",
+                "ro": "Folosiți rastelele de biciclete acoperite din apropierea centrului.",
+                "en": "Use the covered bike racks located near the city center."
+              }
+            },
+            {
+              "name": "De Boekenberg (The Book Mountain)",
+              "tip_5lang": {
+                "de": "Ideal, um die Kleidung zu trocknen und sich aufzuwärmen.",
+                "hu": "Ideális hely a ruházat megszárítására és a felmelegedésre.",
+                "ro": "Ideal pentru a vă usca hainele și pentru a vă încălzi.",
+                "en": "Ideal spot to dry your gear and warm up before continuing."
+              }
+            },
+            {
+              "name": "Theater de Stoep",
+              "tip_5lang": {
+                "de": "Vorsicht vor rutschigen Bodenmarkierungen vor dem Gebäude.",
+                "hu": "Vigyázzon a csúszós útburkolati jelekre az épület előtt.",
+                "ro": "Atenție la marcajele rutiere alunecoase din fața clădirii.",
+                "en": "Watch out for slippery road markings in front of the building."
+              }
+            },
+            {
+              "name": "Spijkenisse Bridge",
+              "tip_5lang": {
+                "de": "Bei Regen und Wind das Lenkrad fest im Griff behalten.",
+                "hu": "Esőben és szélben fogja erősen a kormányt a hídon.",
+                "ro": "Țineți bine ghidonul pe pod în caz de vânt și ploaie.",
+                "en": "Hold your handlebars firmly on the bridge during wind and rain."
+              }
+            },
+            {
+              "name": "Old Church",
+              "tip_5lang": {
+                "de": "Das Kopfsteinpfaster rund um die Kirche ist bei Nässe extrem glatt.",
+                "hu": "A templom körüli macskakő nedvesen rendkívül csúszós.",
+                "ro": "Pavajul de lângă biserică este extrem de alunecos când este ud.",
+                "en": "The cobblestones around the church are very slippery when wet."
+              }
+            },
+            {
+              "name": "Hartelpark",
+              "tip_5lang": {
+                "de": "Schutzbleche sind auf den Parkwegen bei Regen unerlässlich.",
+                "hu": "A sárvédő elengedhetetlen a parki utakon esős időben.",
+                "ro": "Aripile de protecție sunt esențiale pe potecile din parc pe ploaie.",
+                "en": "Mudguards are essential on the park paths during rainy weather."
+              }
+            },
+            {
+              "name": "Bernisse",
+              "tip_5lang": {
+                "de": "Die unbefestigten Wege können schlammig sein, bleiben Sie auf Asphalt.",
+                "hu": "A burkolatlan utak sarasak lehetnek, maradjon az aszfalton.",
+                "ro": "Potecile neasfaltate pot fi noroioase, rămâneți pe asfalt.",
+                "en": "Unpaved paths can be muddy; stick to the paved cycle routes."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vollständige Regenbekleidung (Hose und Jacke) wird dringend empfohlen.",
+              "Vermeiden Sie scharfes Bremsen auf nassen Fahrbahnmarkierungen.",
+              "Prüfen Sie Ihre Bremsbeläge vor der Fahrt im Regen.",
+              "Die Windgeschwindigkeit auf der Brücke kann bei Regen zunehmen."
+            ],
+            "hu": [
+              "Teljes esőruházat (nadrág és kabát) erősen ajánlott.",
+              "Kerülje az erős fékezést a nedves útburkolati jeleken.",
+              "Ellenőrizze a fékbetéteket az esős túra előtt.",
+              "A szél sebessége a hídon jelentősen megnőhet esőben."
+            ],
+            "ro": [
+              "Echipamentul complet de ploaie este recomandat cu tărie.",
+              "Evitați frânarea bruscă pe marcajele rutiere umede.",
+              "Verificați plăcuțele de frână înainte de a pleca la drum pe ploaie.",
+              "Viteza vântului pe pod poate crește semnificativ în timpul ploii."
+            ],
+            "en": [
+              "Full rain gear (trousers and jacket) is highly recommended.",
+              "Avoid sharp braking on wet road markings and metal surfaces.",
+              "Check your brake pads before starting your rainy ride.",
+              "Wind speeds on the bridge can increase significantly during rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein erfrischender Wintermorgen auf zwei Rädern. Die kalte Luft beißt, während wir vom Markt zum Boekenberg fahren. Mittags ist die Bibliothek ein warmer Zufluchtsort. Nachmittags ist die Überquerung der Brücke eine Herausforderung gegen den eisigen Wind der Oude Maas. Durch den Hartelpark erreichen wir die Bernisse, deren gefrorene Wasserflächen im späten Sonnenlicht glitzern.",
+            "hu": "Frissítő téli reggel két keréken. A hideg levegő csíp, miközben a piactértől a Boekenberg felé tekerünk. Délben a könyvtár meleg menedék. Délután a hídon való átkelés kihívás az Oude Maas jeges szele ellenében. A Hartelparkon át érjük el a Bernisse területét, melynek befagyott vízfelületei csillognak a kései napsütésben.",
+            "ro": "O dimineață răcoritoare de iarnă pe două roți. Aerul rece ciupește obrajii în drum spre Boekenberg. La prânz, biblioteca este un refugiu cald. După-amiaza, traversarea podului este o provocare împotriva vântului înghețat de pe Oude Maas. Prin Hartelpark ajungem la Bernisse, unde apele înghețate sclipesc în lumina soarelui.",
+            "en": "A refreshing winter morning on two wheels. The cold air bites as we cycle from the market towards Boekenberg. At noon, the library is a warm sanctuary. In the afternoon, crossing the bridge is a challenge against the icy Oude Maas wind. Through Hartelpark, we reach Bernisse, where frozen waters glisten in the late sunlight."
+          },
+          "stops": [
+            {
+              "name": "Market Square Spijkenisse",
+              "tip_5lang": {
+                "de": "Vorsicht vor überfrierender Nässe auf den Pflastersteinen.",
+                "hu": "Vigyázzon a fagyott foltokra a macskaköveken.",
+                "ro": "Atenție la porțiunile înghețate de pe pavaj.",
+                "en": "Watch out for black ice on the cobblestones early in the morning."
+              }
+            },
+            {
+              "name": "De Boekenberg (The Book Mountain)",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Innenräume, um Ihre Hände wieder aufzuwärmen.",
+                "hu": "Használja a belső teret a kezei felmelegítésére.",
+                "ro": "Folosiți interiorul pentru a vă încălzi mâinile înghețate.",
+                "en": "Use the indoor facilities to warm up your hands."
+              }
+            },
+            {
+              "name": "Theater de Stoep",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp für ein warmes Getränk im Foyer lohnt sich.",
+                "hu": "Érdemes megállni egy forró italra a színház előcsarnokában.",
+                "ro": "Merită o oprire scurtă pentru o băutură caldă în foaier.",
+                "en": "A short stop for a warm drink in the foyer is well worth it."
+              }
+            },
+            {
+              "name": "Spijkenisse Bridge",
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Handschuhe für die Überquerung.",
+                "hu": "Viseljen szélálló kesztyűt a hídon való átkeléshez.",
+                "ro": "Purtați mănuși rezistente la vânt pentru traversarea podului.",
+                "en": "Wear windproof gloves for the bridge crossing."
+              }
+            },
+            {
+              "name": "Old Church",
+              "tip_5lang": {
+                "de": "Der Wind pfeift oft scharf um die Ecken des Kirchplatzes.",
+                "hu": "A szél gyakran élesen süvít a templomkert sarkainál.",
+                "ro": "Vântul suflă adesea cu putere la colțurile pieței bisericii.",
+                "en": "The wind often whistles sharply around the church square corners."
+              }
+            },
+            {
+              "name": "Hartelpark",
+              "tip_5lang": {
+                "de": "Achten Sie auf Laub, das unter der Schneedecke glatt sein kann.",
+                "hu": "Vigyázzon a levelekre, melyek a hó alatt csúszósak lehetnek.",
+                "ro": "Atenție la frunzele care pot fi alunecoase sub zăpadă.",
+                "en": "Watch out for leaves that may be slippery under a frost layer."
+              }
+            },
+            {
+              "name": "Bernisse",
+              "tip_5lang": {
+                "de": "Ein magischer Ort bei Reif und Frost, ideal für Fotos.",
+                "hu": "Varázslatos hely zúzmara és fagy idején, ideális fotózáshoz.",
+                "ro": "Un loc magic pe timp de brumă și îngheț, ideal pentru fotografii.",
+                "en": "A magical place during frost and rime, ideal for photography."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie mehrere Schichten und winddichte Kleidung.",
+              "Halten Sie Ihre Kette gut geschmiert gegen Streusalz.",
+              "Der Akku von E-Bikes entlädt sich bei Kälte schneller.",
+              "Beenden Sie die Fahrt vor Einbruch der Dunkelheit um 17 Uhr."
+            ],
+            "hu": [
+              "Öltözzön rétegesen, szélálló ruházatot használva.",
+              "Tartsa a láncot jól olajozottan az útszóró só ellen.",
+              "Az e-bike akkumulátorok hidegben gyorsabban merülnek.",
+              "Fejezze be a túrát a sötétedés előtt, délután 5-ig."
+            ],
+            "ro": [
+              "Purtați mai multe straturi de haine rezistente la vânt.",
+              "Mențineți lanțul bine lubrifiat împotriva sării de pe drumuri.",
+              "Bateriile bicicletelor electrice se descarcă mai repede la frig.",
+              "Încheiați călătoria înainte de lăsarea întunericului, la ora 17."
+            ],
+            "en": [
+              "Dress in multiple layers and use windproof outer clothing.",
+              "Keep your chain well-lubricated to protect against road salt.",
+              "E-bike batteries drain faster in cold temperatures.",
+              "Finish your ride before dark, usually by 5:00 PM in winter."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -989,6 +1371,206 @@
           "Plan for extra time for traffic.",
           "A GPS is essential for navigating between the clusters."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein komfortabler Regentag in Spijkenisse beginnt im Parkhaus am Markt. Von dort sind es nur kurze Wege zur Alten Kirche und zum Boekenberg, wo wir den Vormittag verbringen. Mittags fahren wir zum Theater de Stoep. Nachmittags führt die Fahrt zur Bernisse, wo wir die weite Landschaft gemütlich vom Auto aus oder bei kurzen Spaziergängen genießen. Der Tag endet sicher und trocken im Hartelpark.",
+            "hu": "Kényelmes esős nap Spijkenisse-ben, a piaci parkolóházban kezdve. Rövid sétával elérhető az Ótemplom és a Boekenberg, ahol a délelőttöt töltjük. Délben a színházhoz hajtunk. Délután a Bernisse vidékére látogatunk, ahol az autóból vagy rövid sétákkal élvezzük a tájat. A napot a Hartelparknál zárjuk, biztonságban és szárazon az eső elől.",
+            "ro": "O zi confortabilă pe ploaie în Spijkenisse, începând în parcarea centrală. De acolo sunt drumuri scurte spre biserică și biblioteca Boekenberg. La prânz mergem cu mașina spre teatru. După-amiaza vizităm zona Bernisse, bucurându-ne de peisaj din mașină sau prin scurte plimbări. Ziua se încheie la Hartelpark, la adăpost de ploaie.",
+            "en": "A comfortable rainy day in Spijkenisse, starting in the central parking garage. Short walks lead to the church and Boekenberg library for the morning. At noon, drive to Theater de Stoep. Afternoon features a drive to Bernisse, enjoying the scenery from the car or through short walks. The day ends at Hartelpark, staying safe and dry from the weather."
+          },
+          "stops": [
+            {
+              "name": "Central Parking",
+              "tip_5lang": {
+                "de": "Ein trockener Start direkt im Stadtzentrum.",
+                "hu": "Száraz kezdés közvetlenül a városközpontban.",
+                "ro": "Un start uscat chiar în centrul orașului.",
+                "en": "A dry start right in the heart of the city center."
+              }
+            },
+            {
+              "name": "Market Square Spijkenisse",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen den Geschäften minimieren den Regen.",
+                "hu": "Az üzletek közti rövid távok segítenek elkerülni az esőt.",
+                "ro": "Distanțele scurte între magazine minimizează expunerea la ploaie.",
+                "en": "Short distances between shops minimize exposure to the rain."
+              }
+            },
+            {
+              "name": "Old Church",
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe für einen fast trockenen Zugang.",
+                "hu": "Parkoljon a közelben a szinte teljesen száraz bejutáshoz.",
+                "ro": "Parcați în apropiere pentru un acces aproape uscat.",
+                "en": "Park nearby for almost completely dry access to the church."
+              }
+            },
+            {
+              "name": "De Boekenberg",
+              "tip_5lang": {
+                "de": "Das Parkhaus Kolkplein bietet direkten Zugang zur Bibliothek.",
+                "hu": "A Kolkplein parkolóház közvetlen hozzáférést ad a könyvtárhoz.",
+                "ro": "Parcarea Kolkplein oferă acces direct la bibliotecă.",
+                "en": "The Kolkplein parking garage offers direct access to the library."
+              }
+            },
+            {
+              "name": "Theater de Stoep",
+              "tip_5lang": {
+                "de": "Eigene Tiefgarage vorhanden, ideal bei starkem Regen.",
+                "hu": "Saját mélygarázs áll rendelkezésre, ideális szakadó esőben.",
+                "ro": "Parcare subterană disponibilă, ideală în caz de ploaie torențială.",
+                "en": "Underground parking available, ideal during heavy rainfall."
+              }
+            },
+            {
+              "name": "Bernisse Recreational Area",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Seen bequem vom Fahrersitz.",
+                "hu": "Élvezze a tavi kilátást kényelmesen a vezetőülésből.",
+                "ro": "Bucurați-vă de vederea spre lac din confortul mașinii.",
+                "en": "Enjoy the lake views comfortably from your driver's seat."
+              }
+            },
+            {
+              "name": "Hartelpark",
+              "tip_5lang": {
+                "de": "Parkplätze direkt am Parkeingang verkürzen den Gehweg.",
+                "hu": "A park bejáratánál lévő parkolók lerövidítik a gyalogutat.",
+                "ro": "Parcările de la intrarea în parc scurtează drumul pe jos.",
+                "en": "Parking lots at the park entrance shorten the walking distance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Parkhäuser im Zentrum für trockene Übergänge.",
+              "Prüfen Sie Ihre Scheibenwischer vor der Fahrt.",
+              "Vermeiden Sie tiefe Pfützen am Straßenrand.",
+              "Die Sicht kann auf den Landstraßen zur Bernisse eingeschränkt sein."
+            ],
+            "hu": [
+              "Használja a központi parkolóházakat a száraz közlekedéshez.",
+              "Ellenőrizze az ablaktörlők állapotát az indulás előtt.",
+              "Kerülje a mély tócsákat az utak szélén.",
+              "A látási viszonyok korlátozottak lehetnek a Bernisse felé vezető úton."
+            ],
+            "ro": [
+              "Utilizați parcările etajate din centru pentru a rămâne uscați.",
+              "Verificați ștergătoarele de parbriz înainte de a pleca.",
+              "Evitați bălțile adânci de pe marginea carosabilului.",
+              "Vizibilitatea poate fi redusă pe drumurile spre Bernisse."
+            ],
+            "en": [
+              "Use central parking garages for dry transitions between stops.",
+              "Check your windshield wipers before starting your trip.",
+              "Avoid deep puddles on the sides of the road to prevent hydroplaning.",
+              "Visibility may be limited on the rural roads towards Bernisse."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein gemütlicher Wintertag mit dem Auto. Nach dem Eiskratzen geht es zum Parkhaus am Markt. Die Alte Kirche und der Boekenberg bieten warme Rückzugsorte. Mittags fahren wir zum modernen Theater. Nachmittags führt die Tour durch die frostige Landschaft der Bernisse, wo wir den Sonnenuntergang im Warmen erleben. Den Abschluss bildet eine kurze Runde im Hartelpark, bevor wir die Heimreise antreten.",
+            "hu": "Hangulatos téli nap autóval. A jégkaparás után a piaci parkolóházba hajtunk. Az Ótemplom és a Boekenberg meleg menedéket nyújt. Délben a modern színházhoz látogatunk. Délután a Bernisse fagyos vidékén autózunk, ahol a naplementét a fűtött kocsiból csodáljuk. A napot a Hartelparknál zárjuk egy rövid sétával a friss, hideg levegőn.",
+            "ro": "O zi de iarnă confortabilă cu mașina. După curățarea gheții, mergem spre parcarea centrală. Biserica și biblioteca Boekenberg oferă refugii calde. La prânz vizităm teatrul modern. După-amiaza conducem prin peisajul înghețat de la Bernisse, admirând apusul din mașină. Încheiem cu o scurtă plimbare în Hartelpark înainte de plecare.",
+            "en": "A cozy winter day by car. After scraping the ice, head to the central parking garage. The Old Church and Boekenberg offer warm retreats. At noon, visit the modern theater. Afternoon features a drive through the frosty Bernisse landscape, watching the sunset from the warmth of your vehicle. Finish with a short stroll in Hartelpark."
+          },
+          "stops": [
+            {
+              "name": "Central Parking",
+              "tip_5lang": {
+                "de": "Überdachtes Parken schützt das Auto vor erneutem Frost.",
+                "hu": "A fedett parkoló megvédi az autót az újabb lefagyástól.",
+                "ro": "Parcarea acoperită protejează mașina de îngheț.",
+                "en": "Covered parking protects the vehicle from further frosting."
+              }
+            },
+            {
+              "name": "Market Square Spijkenisse",
+              "tip_5lang": {
+                "de": "Genießen Sie den Wintermarkt, falls gerade einer stattfindet.",
+                "hu": "Élvezze a téli vásárt, ha éppen tartanak ilyet.",
+                "ro": "Bucurați-vă de târgul de iarnă, dacă este organizat unul.",
+                "en": "Enjoy the winter market if one is currently being held."
+              }
+            },
+            {
+              "name": "Old Church",
+              "tip_5lang": {
+                "de": "Im Inneren herrscht oft eine angenehme, kühle Stille.",
+                "hu": "Benn kellemes, hűvös csend fogadja a látogatót.",
+                "ro": "În interior veți găsi o liniște plăcută și răcoroasă.",
+                "en": "Inside, you'll find a pleasant, cool stillness away from the wind."
+              }
+            },
+            {
+              "name": "De Boekenberg",
+              "tip_5lang": {
+                "de": "Der ideale Ort, um sich zwischen den Fahrten aufzuwärmen.",
+                "hu": "Ideális hely a felmelegedésre az autózások között.",
+                "ro": "Locul ideal pentru a vă încălzi între etapele de condus.",
+                "en": "The ideal place to warm up between different driving segments."
+              }
+            },
+            {
+              "name": "Theater de Stoep",
+              "tip_5lang": {
+                "de": "Die Glasfassade glänzt im Winterlicht besonders schön.",
+                "hu": "Az üveghomlokzat különösen szépen csillog a téli fényben.",
+                "ro": "Fațada de sticlă strălucește frumos în lumina iernii.",
+                "en": "The glass facade glistens beautifully in the winter light."
+              }
+            },
+            {
+              "name": "Bernisse Recreational Area",
+              "tip_5lang": {
+                "de": "Die Straßen können hier bei Frost glatt sein, Vorsicht.",
+                "hu": "Az utak itt fagyos időben csúszósak lehetnek, óvatosan vezessen.",
+                "ro": "Drumurile pot fi alunecoase aici pe timp de îngheț, atenție.",
+                "en": "Roads here can be slippery during frost; drive carefully."
+              }
+            },
+            {
+              "name": "Hartelpark",
+              "tip_5lang": {
+                "de": "Kurze Wege vom Parkplatz ermöglichen einen schnellen Spaziergang.",
+                "hu": "A parkolóból induló rövid utak gyors sétát tesznek lehetővé.",
+                "ro": "Potecile scurte din parcare permit o plimbare rapidă.",
+                "en": "Short paths from the parking lot allow for a quick brisk walk."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Ihr Frostschutzmittel aufgefüllt ist.",
+              "Winterreifen sind bei Minusgraden dringend empfohlen.",
+              "Führen Sie einen Eiskratzer und Handfeger mit.",
+              "Achten Sie auf Wildwechsel in der Nähe der Bernisse."
+            ],
+            "hu": [
+              "Győződjön meg róla, hogy a fagyálló folyadék szintje megfelelő.",
+              "A téli gumi használata erősen ajánlott fagypont alatt.",
+              "Legyen az autóban jégkaparó és kefe.",
+              "Vigyázzon a vadon élő állatokra a Bernisse környékén."
+            ],
+            "ro": [
+              "Asigurați-vă că nivelul antigelului este corespunzător.",
+              "Anvelopele de iarnă sunt recomandate sub zero grade.",
+              "Păstrați în mașină o racletă și o perie de zăpadă.",
+              "Atenție la animalele sălbatice în zona Bernisse."
+            ],
+            "en": [
+              "Ensure your antifreeze levels are topped up before starting.",
+              "Winter tires are highly recommended in freezing temperatures.",
+              "Keep an ice scraper and a snow brush in your car.",
+              "Watch out for wildlife crossings near the Bernisse area."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1305,6 +1887,188 @@
           "Download the local transport company's app for real-time schedules.",
           "Be mindful of the last bus back."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein entspannter Regentag mit Bus und Bahn. Vom Busstopp geht es zum Markt und zur Boekenberg-Bibliothek, wo man im Trockenen verweilen kann. Mittags fahren wir zum Theater. Die Überquerung der Spijkenisse-Brücke im Bus bietet einen tollen Blick auf die Oude Maas, ohne nass zu werden. Den Nachmittag verbringen wir im Hartelpark, bevor uns der Bus sicher zurück ins Zentrum bringt.",
+            "hu": "Pihentető esős nap busszal és metróval. A buszmegállótól rövid séta a piac és a Boekenberg könyvtár, ahol szárazon maradhatunk. Délben a színházhoz utazunk. A hídon való átkelés a buszból remek kilátást nyújt az Oude Maas folyóra anélkül, hogy megáznánk. A délutánt a Hartelparknál töltjük, majd a busz biztonságban visszavisz minket a központba.",
+            "ro": "O zi relaxantă pe ploaie cu autobuzul. De la stație mergem spre piață și biblioteca Boekenberg, unde stăm la adăpost. La prânz mergem cu autobuzul spre teatru. Traversarea podului oferă o priveliște excelentă asupra râului fără a ne uda. După-amiaza o petrecem în Hartelpark, iar autobuzul ne duce înapoi în centru în siguranță.",
+            "en": "A relaxing rainy day by bus and metro. From the bus stop, it's a short walk to the market and Boekenberg library, staying dry. At noon, take the bus to the theater. Crossing the Spijkenisse bridge by bus offers great views of the Oude Maas river without getting wet. Spend the afternoon at Hartelpark before taking the bus back to the center."
+          },
+          "stops": [
+            {
+              "name": "Central Bus Stop",
+              "tip_5lang": {
+                "de": "Überdachte Wartehäuschen schützen vor dem ersten Regen.",
+                "hu": "A fedett várók megvédenek az első esőcseppektől.",
+                "ro": "Stațiile acoperite oferă protecție împotriva ploii.",
+                "en": "Sheltered bus stops provide protection from the initial rain."
+              }
+            },
+            {
+              "name": "Market Square Spijkenisse",
+              "tip_5lang": {
+                "de": "Der Bus hält nur wenige Gehminuten vom Platz entfernt.",
+                "hu": "A busz csak pár perc sétára áll meg a tértől.",
+                "ro": "Autobuzul oprește la doar câteva minute de mers pe jos.",
+                "en": "The bus stops just a few minutes' walk from the square."
+              }
+            },
+            {
+              "name": "De Boekenberg",
+              "tip_5lang": {
+                "de": "In der Nähe befinden sich mehrere Bushaltestellen im Trockenen.",
+                "hu": "A közelben több buszmegálló is található, fedett részen.",
+                "ro": "În apropiere se află mai multe stații de autobuz acoperite.",
+                "en": "Several sheltered bus stops are located near the library."
+              }
+            },
+            {
+              "name": "Theater de Stoep",
+              "tip_5lang": {
+                "de": "Direkte Busanbindung sorgt für minimale Zeit im Regen.",
+                "hu": "A közvetlen buszjárat minimalizálja az esőben töltött időt.",
+                "ro": "Conexiunea directă cu autobuzul reduce timpul petrecut în ploaie.",
+                "en": "Direct bus connections minimize time spent out in the rain."
+              }
+            },
+            {
+              "name": "Spijkenisse Bridge",
+              "tip_5lang": {
+                "de": "Genießen Sie die Aussicht aus dem Fenster des warmen Busses.",
+                "hu": "Élvezze a kilátást a meleg busz ablakából.",
+                "ro": "Bucurați-vă de priveliște de la geamul autobuzului cald.",
+                "en": "Enjoy the panoramic views from the window of a warm bus."
+              }
+            },
+            {
+              "name": "Hartelpark",
+              "tip_5lang": {
+                "de": "Bushaltestellen direkt am Parkeingang sind sehr praktisch.",
+                "hu": "A park bejáratánál lévő buszmegállók nagyon praktikusak.",
+                "ro": "Stațiile de autobuz de la intrarea în parc sunt foarte practice.",
+                "en": "Bus stops right at the park entrance are very convenient."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die App für Echtzeit-Abfahrtszeiten.",
+              "Tragen Sie Ihre OV-chipkaart griffbereit unter dem Schirm.",
+              "Die Busse sind in der Regel gut beheizt und trocken.",
+              "Planen Sie Umstiege an Stationen mit Überdachung."
+            ],
+            "hu": [
+              "Használja az alkalmazást a valós idejű menetrendhez.",
+              "Tartsa az OV-chipkaartot könnyen elérhető helyen.",
+              "A buszok általában jól fűtöttek és szárazak.",
+              "Tervezze az átszállásokat fedett megállókhoz."
+            ],
+            "ro": [
+              "Folosiți aplicația pentru orele de plecare în timp real.",
+              "Țineți cardul de transport la îndemână sub umbrelă.",
+              "Autobuzele sunt de regulă bine încălzite și uscate.",
+              "Planificați transferurile în stații care au acoperiș."
+            ],
+            "en": [
+              "Use the local transit app for real-time departure updates.",
+              "Keep your transit card easily accessible under your umbrella.",
+              "Buses are generally well-heated and dry during rainy days.",
+              "Plan your transfers at stations that offer overhead shelter."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterreise durch Spijkenisse mit öffentlichen Verkehrsmitteln. Der Tag beginnt am warmen Busstopp. Nach einem Besuch auf dem Markt bietet die Boekenberg-Bibliothek einen hellen Zufluchtsort vor der Kälte. Mittags fahren wir zum Theater. Die Überquerung der Brücke im Bus schützt vor dem eisigen Wind der Oude Maas. Den Nachmittag genießen wir im winterlichen Hartelpark, bevor uns der Bus zurückbringt.",
+            "hu": "Téli utazás Spijkenisse-ben tömegközlekedéssel. A nap a meleg buszmegállóban kezdődik. A piaci látogatás után a Boekenberg könyvtár nyújt világos menedéket a hideg elől. Délben a színházhoz utazunk. A hídon való átkelés a buszból véd az Oude Maas jeges szele ellen. A délutánt a téli Hartelparkban töltjük, majd a busz kényelmesen visszavisz minket.",
+            "ro": "Călătorie de iarnă în Spijkenisse cu transportul public. Ziua începe în stația de autobuz încălzită. După vizita în piață, biblioteca oferă un refugiu luminos. La prânz mergem la teatru. Traversarea podului cu autobuzul ne protejează de vântul înghețat. După-amiaza o petrecem în Hartelpark, iar autobuzul ne aduce înapoi în confort.",
+            "en": "Winter travel through Spijkenisse by public transport. The day starts at a warm bus stop. After visiting the market, the Boekenberg library provides a bright refuge from the cold. At noon, travel to the theater. Crossing the bridge by bus protects you from the icy Oude Maas wind. Enjoy the afternoon in the wintery Hartelpark before the bus takes you back."
+          },
+          "stops": [
+            {
+              "name": "Central Bus Stop",
+              "tip_5lang": {
+                "de": "Einige Busse haben im Winter eine verstärkte Heizung.",
+                "hu": "Néhány buszon télen erősebb fűtés üzemel.",
+                "ro": "Unele autobuze au încălzire suplimentară pe timpul iernii.",
+                "en": "Some buses feature extra heating during the winter months."
+              }
+            },
+            {
+              "name": "Market Square Spijkenisse",
+              "tip_5lang": {
+                "de": "Kurze Gehwege halten die Kälteexposition gering.",
+                "hu": "A rövid gyalogutak csökkentik a hidegben töltött időt.",
+                "ro": "Distanțele scurte pe jos reduc expunerea la frig.",
+                "en": "Short walking distances keep cold exposure to a minimum."
+              }
+            },
+            {
+              "name": "De Boekenberg",
+              "tip_5lang": {
+                "de": "Bushaltestellen sind in Sichtweite des Haupteingangs.",
+                "hu": "A buszmegállók a főbejárat látótávolságán belül vannak.",
+                "ro": "Stațiile de autobuz sunt în raza vizuală a intrării principale.",
+                "en": "Bus stops are located within sight of the main entrance."
+              }
+            },
+            {
+              "name": "Theater de Stoep",
+              "tip_5lang": {
+                "de": "Warten Sie im Foyer, falls der Bus Verspätung hat.",
+                "hu": "Várjon az előcsarnokban, ha késik a busz.",
+                "ro": "Așteptați în foaier dacă autobuzul are întârziere.",
+                "en": "Wait inside the foyer if your bus is running late."
+              }
+            },
+            {
+              "name": "Spijkenisse Bridge",
+              "tip_5lang": {
+                "de": "Im Bus ist man sicher vor dem eisigen Wind auf der Brücke.",
+                "hu": "A buszban védve vagyunk a hídon süvítő jeges szél ellen.",
+                "ro": "În autobuz sunteți protejați de vântul înghețat de pe pod.",
+                "en": "Inside the bus, you're safe from the icy wind on the bridge."
+              }
+            },
+            {
+              "name": "Hartelpark",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Linien 104 oder 105 für den Parkbesuch.",
+                "hu": "Használja a 104-es vagy 105-ös járatot a parkhoz.",
+                "ro": "Folosiți liniile 104 sau 105 pentru a ajunge la parc.",
+                "en": "Use bus lines 104 or 105 for easy access to the park."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Winterfahrplan auf eventuelle Änderungen.",
+              "Die Busse sind ein warmer Zufluchtsort zwischen den Stopps.",
+              "Tragen Sie warme Schuhe für die Wege zu den Haltestellen.",
+              "Nutzen Sie die Abendstunden für Indoor-Aktivitäten im Zentrum."
+            ],
+            "hu": [
+              "Ellenőrizze a téli menetrendet az esetleges változások miatt.",
+              "A buszok meleg menedéket jelentenek a megállók között.",
+              "Viseljen meleg cipőt a megállókhoz vezető utakhoz.",
+              "Az esti órákat töltse beltéri programokkal a központban."
+            ],
+            "ro": [
+              "Verificați orarul de iarnă pentru eventuale modificări.",
+              "Autobuzele sunt un refugiu cald între opriri.",
+              "Purtați încălțăminte călduroasă pentru drumul spre stații.",
+              "Rezervați orele serii pentru activități în interior în centru."
+            ],
+            "en": [
+              "Check the winter schedule for any seasonal changes.",
+              "Buses serve as a warm sanctuary between outdoor stops.",
+              "Wear warm, insulated shoes for the walks to the bus stops.",
+              "Utilize the evening hours for indoor activities in the center."
+            ]
+          }
+        }
       }
     }
   }

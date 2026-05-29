@@ -382,6 +382,206 @@
           "Plan enough time for a leisurely lunch by the Danube.",
           "The best photo opportunities are in the early morning or late afternoon."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt am Rathaus von Apatin, wo die Arkaden Schutz vor dem Regen bieten. Nach einem kurzen Blick auf die Nike-Statue bietet das Innere der Marienkirche einen trockenen Rückzugsort. Mittags ist die Brauerei Apatin das perfekte Ziel, um dem Guss bei einer Führung zu entgehen. Der Nachmittag an der Donaupromenade ist grau, aber stimmungsvoll, bevor der Tag im Anglerzentrum endet.",
+            "hu": "A reggel az apatini városházánál kezdődik, ahol az árkádok védelmet nyújtanak az eső ellen. A Nike-szobor után a Mária-templom csendes belső tere nyújt menedéket. Délben az Apatini Sörfőzde interaktív túrája a legjobb program a zuhé elől. Délután a Duna-parti sétány borús, de hangulatos, a napot pedig a horgászközpont fedett részein zárjuk, figyelve a folyó szürke hullámait.",
+            "ro": "Dimineața începe la Primăria din Apatin, unde arcadele oferă adăpost împotriva ploii. După o privire rapidă la Statuia Nike, interiorul Bisericii Adormirea Maicii Domnului oferă un refugiu uscat. La prânz, Fabrica de Bere Apatin este destinația perfectă pentru a evita ploaia cu un tur ghidat. După-amiaza pe faleza Dunării este gri, dar atmosferică, înainte de a încheia ziua la centrul de pescuit.",
+            "en": "The morning starts at Apatin Town Hall, where the arcades provide shelter from the rain. After a quick look at the Nike statue, the interior of the Church of the Assumption provides a dry sanctuary. At noon, the Apatin Brewery is the perfect indoor destination to escape the downpour. The afternoon on the Danube Promenade is grey but atmospheric, ending the day at the sheltered Angling Center."
+          },
+          "stops": [
+            {
+              "name": "Apatin Town Hall",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden.",
+                "hu": "Használja az árkádokat menedékként.",
+                "ro": "Folosiți arcadele pentru adăpost.",
+                "en": "Use the arcades for shelter."
+              }
+            },
+            {
+              "name": "Statue of Nike",
+              "tip_5lang": {
+                "de": "Nur ein kurzer Fotostopp.",
+                "hu": "Csak egy gyors fotómegálló.",
+                "ro": "Doar o scurtă oprire foto.",
+                "en": "Just a quick photo stop."
+              }
+            },
+            {
+              "name": "Church of the Assumption of Mary",
+              "tip_5lang": {
+                "de": "Perfekter Ort zum Trocknen.",
+                "hu": "Tökéletes hely a száradáshoz.",
+                "ro": "Loc perfect pentru uscare.",
+                "en": "Perfect place to dry off."
+              }
+            },
+            {
+              "name": "House of the Boršoš Family",
+              "tip_5lang": {
+                "de": "Betrachten Sie die Fassade.",
+                "hu": "Csodálja meg a homlokzatot.",
+                "ro": "Admirați fațada rapid.",
+                "en": "Admire the facade quickly."
+              }
+            },
+            {
+              "name": "Apatin Brewery",
+              "tip_5lang": {
+                "de": "Bestes Indoor-Erlebnis.",
+                "hu": "A legjobb fedett program.",
+                "ro": "Cea mai bună activitate indoor.",
+                "en": "Best indoor experience."
+              }
+            },
+            {
+              "name": "Danube Promenade",
+              "tip_5lang": {
+                "de": "Vorsicht, rutschiger Boden.",
+                "hu": "Vigyázat, csúszós burkolat.",
+                "ro": "Atenție la pavajul alunecos.",
+                "en": "Watch out for slippery pavement."
+              }
+            },
+            {
+              "name": "Angling Center",
+              "tip_5lang": {
+                "de": "Suchen Sie das Restaurant auf.",
+                "hu": "Irány a fedett étterem.",
+                "ro": "Mergeți la restaurantul acoperit.",
+                "en": "Head to the indoor restaurant."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Regenschirm ist wegen des Windes von der Donau notwendig.",
+              "Die Brauerei bietet die längste überdachte Aufenthaltsdauer.",
+              "Tragen Sie wasserfeste Schuhe für die Uferpromenade.",
+              "In der Kirche ist es auch bei Regen angenehm ruhig."
+            ],
+            "hu": [
+              "A Duna felől fújó szél miatt erős esernyőre lesz szükség.",
+              "A sörgyár a legjobb választás tartós eső esetén.",
+              "Vízálló cipő ajánlott a parti sétányhoz.",
+              "A templom belső tere kiváló menedék a záporok idején."
+            ],
+            "ro": [
+              "O umbrelă rezistentă este necesară din cauza vântului de pe Dunăre.",
+              "Fabrica de bere oferă cel mai lung timp de ședere la adăpost.",
+              "Purtați încălțăminte impermeabilă pentru faleză.",
+              "Interiorul bisericii este un refugiu liniștit pe timp de ploaie."
+            ],
+            "en": [
+              "A sturdy umbrella is necessary due to the wind from the Danube.",
+              "The brewery offers the longest indoor stay.",
+              "Wear waterproof shoes for the riverside promenade.",
+              "The church interior is a great refuge during heavy showers."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen am Rathaus, wo der Raureif die neorenaissancistischen Details betont. Nach dem Besuch der Marienkirche lockt die Wärme der Brauerei Apatin zum Mittagessen. Am Nachmittag sorgt der kalte Wind an der Donaupromenade für eine erfrischende Wanderung. Da die Sonne bereits gegen 16:30 Uhr untergeht, genießen wir die blaue Stunde am Anglerzentrum bei einem heißen Getränk.",
+            "hu": "Dérlepte reggel a Városházánál, ahol a hideg kiemeli az épület neoreneszánsz részleteit. A Mária-templom meglátogatása után az Apatini Sörgyár melege hívogat ebédre. Délután a Duna-parti sétányon a metsző szélben teszünk egy frissítő sétát. Mivel a nap 16:30 körül nyugszik, a kék órát már a horgászközpontban töltjük egy forró ital mellett.",
+            "ro": "O dimineață geroasă la Primărie, unde chiciura subliniază detaliile neorenascentiste. După vizitarea bisericii, căldura Fabricii de Bere Apatin vă invită la prânz. După-amiaza, vântul rece de pe faleza Dunării face plimbarea revigorantă. Deoarece soarele apune în jurul orei 16:30, ne bucurăm de ora albastră la centrul de pescuit cu o băutură caldă.",
+            "en": "A frosty morning at the Town Hall, where rime frost highlights the neo-renaissance details. After visiting the Church of Mary, the warmth of the Apatin Brewery beckons for lunch. In the afternoon, the biting wind on the Danube Promenade makes for a refreshing stroll. As the sun sets around 4:30 PM, we enjoy the blue hour at the Angling Center with a hot drink."
+          },
+          "stops": [
+            {
+              "name": "Apatin Town Hall",
+              "tip_5lang": {
+                "de": "Kurzer Stopp im Warmen.",
+                "hu": "Gyors látogatás a melegben.",
+                "ro": "Vizită scurtă la căldură.",
+                "en": "Quick visit inside the warmth."
+              }
+            },
+            {
+              "name": "Statue of Nike",
+              "tip_5lang": {
+                "de": "Vorsicht vor Glatteis.",
+                "hu": "Vigyázat, jeges talaj.",
+                "ro": "Atenție la polei.",
+                "en": "Watch out for black ice."
+              }
+            },
+            {
+              "name": "Church of the Assumption of Mary",
+              "tip_5lang": {
+                "de": "Innentemperatur ist kühl.",
+                "hu": "A belső tér hűvös lehet.",
+                "ro": "Interiorul este răcoros.",
+                "en": "The interior is chilly."
+              }
+            },
+            {
+              "name": "House of the Boršoš Family",
+              "tip_5lang": {
+                "de": "Schnell weitergehen.",
+                "hu": "Haladjon tovább gyorsan.",
+                "ro": "Mergeți mai departe rapid.",
+                "en": "Keep moving quickly."
+              }
+            },
+            {
+              "name": "Apatin Brewery",
+              "tip_5lang": {
+                "de": "Heißes Essen genießen.",
+                "hu": "Élvezze a forró ételt.",
+                "ro": "Bucurați-vă de mâncare caldă.",
+                "en": "Enjoy the hot food."
+              }
+            },
+            {
+              "name": "Danube Promenade",
+              "tip_5lang": {
+                "de": "Mütze und Handschuhe!",
+                "hu": "Sapka, sál, kesztyű!",
+                "ro": "Căciulă și mănuși!",
+                "en": "Hat and gloves required!"
+              }
+            },
+            {
+              "name": "Angling Center",
+              "tip_5lang": {
+                "de": "Sonnenuntergang um 16:30.",
+                "hu": "Naplemente 16:30-kor.",
+                "ro": "Apusul la ora 16:30.",
+                "en": "Sunset at 4:30 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Windfeste Kleidung ist wegen der offenen Donau-Lage Pflicht.",
+              "Wärmen Sie sich mittags in der Brauerei gründlich auf.",
+              "Die Wege am Fluss können bei Frost sehr rutschig sein.",
+              "Planen Sie das Ende der Tour vor Einbruch der Dunkelheit ein."
+            ],
+            "hu": [
+              "Szélálló ruházat kötelező a nyitott Duna-part miatt.",
+              "Délben alaposan melegedjen fel a sörgyár éttermében.",
+              "A folyóparti utak fagy esetén nagyon csúszósak lehetnek.",
+              "A túra végét tervezze a korai sötétedés elé."
+            ],
+            "ro": [
+              "Îmbrăcămintea rezistentă la vânt este obligatorie pe malul Dunării.",
+              "Încălziți-vă bine la prânz în restaurantul fabricii.",
+              "Potecile de pe malul râului pot fi foarte alunecoase la îngheț.",
+              "Planificați sfârșitul turului înainte de lăsarea întunericului."
+            ],
+            "en": [
+              "Windproof clothing is mandatory due to the open Danube location.",
+              "Warm up thoroughly at the brewery restaurant during lunch.",
+              "Riverside paths can be very slippery in freezing conditions.",
+              "Plan the end of the tour before darkness falls."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -646,6 +846,188 @@
           "Bring plenty of water, especially on warm days.",
           "Always lock your bike when you park it."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen starten wir am Rathausplatz. Die Fahrt zur Marienkirche ist kurz, gefolgt von einem längeren Aufenthalt in der Brauerei zum Trocknen. Die Donaupromenade befahren wir vorsichtig auf nassen Wegen. Am Nachmittag erreichen wir das Anglerzentrum, bevor wir den Tag an der Pauluskirche abschließen, wo wir unter dem Vordach Schutz suchen.",
+            "hu": "Az eső ellenére a Városháza térről indulunk. Rövid tekerés a Mária-templomig, majd hosszabb pihenő a sörgyárban, hogy megszáradjunk. A Duna-parti sétányon óvatosan haladunk a vizes úton. Délután elérjük a horgászközpontot, majd a napot a Szent Pál-templomnál zárjuk, ahol az előtető alatt keresünk menedéket.",
+            "ro": "În ciuda ploii, pornim din Piața Primăriei. Cursa până la biserică este scurtă, urmată de o pauză mai lungă la fabrica de bere pentru uscare. Parcurgem faleza Dunării cu atenție pe drumurile ude. După-amiaza ajungem la centrul de pescuit, apoi încheiem ziua la Biserica Sfântul Pavel, unde ne adăpostim sub streașină.",
+            "en": "Despite the rain, we start at the Town Hall Square. The ride to St. Mary's is short, followed by a longer stay at the brewery to dry off. We cycle carefully along the wet paths of the Danube Promenade. In the afternoon, we reach the Angling Center and finish the day at St. Paul's Church, seeking shelter under the porch."
+          },
+          "stops": [
+            {
+              "name": "Town Hall and Main Square",
+              "tip_5lang": {
+                "de": "Unter Arkaden parken.",
+                "hu": "Parkoljon az árkádok alatt.",
+                "ro": "Parcați sub arcade.",
+                "en": "Park under the arcades."
+              }
+            },
+            {
+              "name": "Church of the Assumption of Mary",
+              "tip_5lang": {
+                "de": "Fahrrad im Trockenen.",
+                "hu": "Kerékpár a szárazon.",
+                "ro": "Bicicleta la uscat.",
+                "en": "Bike in the dry area."
+              }
+            },
+            {
+              "name": "Apatin Brewery",
+              "tip_5lang": {
+                "de": "Lange Pause zum Trocknen.",
+                "hu": "Hosszú pihenő száradáshoz.",
+                "ro": "Pauză lungă de uscare.",
+                "en": "Long break to dry off."
+              }
+            },
+            {
+              "name": "Danube Promenade (Start)",
+              "tip_5lang": {
+                "de": "Vorsicht in Kurven.",
+                "hu": "Vigyázat a kanyarokban.",
+                "ro": "Atenție în curbe.",
+                "en": "Caution in corners."
+              }
+            },
+            {
+              "name": "Angling Center",
+              "tip_5lang": {
+                "de": "Wasserdichte Taschen!",
+                "hu": "Vízálló táska kötelező!",
+                "ro": "Genți impermeabile!",
+                "en": "Waterproof bags needed!"
+              }
+            },
+            {
+              "name": "Church of Saint Apostle Paul",
+              "tip_5lang": {
+                "de": "Unterstand suchen.",
+                "hu": "Keressen fedett helyet.",
+                "ro": "Căutați un adăpost.",
+                "en": "Seek shelter under porch."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche am Fahrrad sind bei diesem Wetter unerlässlich.",
+              "Vorsicht auf dem Kopfsteinpflaster im Zentrum, es ist rutschig.",
+              "Tragen Sie eine vollflächige Regenjacke und Regenhose.",
+              "Nutzen Sie die Brauereibesichtigung für eine ausgiebige Regenpause."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen ilyen időben.",
+              "Vigyázzon a központ macskakövein, nagyon csúsznak.",
+              "Viseljen teljes esőruházatot és vízálló kesztyűt.",
+              "Használja ki a sörgyári látogatást egy alapos pihenőre."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt esențiale pe această vreme.",
+              "Atenție pe piatra cubică din centru, este alunecoasă.",
+              "Purtați jachetă și pantaloni de ploaie complet impermeabili.",
+              "Folosiți turul fabricii de bere pentru o pauză lungă de ploaie."
+            ],
+            "en": [
+              "Mudguards on your bike are essential in this weather.",
+              "Be careful on the cobblestones in the center, they are slippery.",
+              "Wear full waterproof gear including gloves.",
+              "Use the brewery tour as an extended break from the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein knackig kalter Tag für eine Radtour. Vom Rathausplatz geht es zügig zur Marienkirche. Die Brauerei bietet die nötige Aufwärmpause und ein kräftiges Mittagessen. Nachmittags radeln wir entlang der winterlichen Donaupromenade zum Anglerzentrum. Der krönende Abschluss ist die Pauluskirche im sanften Licht des frühen Winterabends, bevor die Kälte anzieht.",
+            "hu": "Roppanósan hideg nap egy kerékpártúrához. A Városháza térről gyorsan tekerünk a Mária-templomig. A sörgyár biztosítja a szükséges felmelegedést és egy laktató ebédet. Délután a téli Duna-parti sétány mentén haladunk a horgászközpontig. A napot a Szent Pál-templomnál zárjuk a korai téli este lágy fényeiben, mielőtt beállna a fagy.",
+            "ro": "O zi geroasă pentru o tură cu bicicleta. Din Piața Primăriei pedalăm rapid spre biserică. Fabrica de bere oferă pauza necesară de încălzire și un prânz consistent. După-amiaza pedalăm de-a lungul falezei Dunării spre centrul de pescuit. Punctul culminant este Biserica Sfântul Pavel în lumina blândă a serii timpurii de iarnă.",
+            "en": "A crisp, cold day for a bike ride. From Town Hall Square, we cycle briskly to St. Mary's. The brewery provides a much-needed warm-up break and a hearty lunch. In the afternoon, we cycle along the wintry Danube Promenade to the Angling Center. The tour ends at St. Paul's Church in the soft light of the early winter evening before the temperature drops."
+          },
+          "stops": [
+            {
+              "name": "Town Hall and Main Square",
+              "tip_5lang": {
+                "de": "Glatteisgefahr beachten.",
+                "hu": "Figyeljen a jegesedésre.",
+                "ro": "Atenție la gheață.",
+                "en": "Watch for icy patches."
+              }
+            },
+            {
+              "name": "Church of the Assumption of Mary",
+              "tip_5lang": {
+                "de": "Kurze Innenbesichtigung.",
+                "hu": "Gyors belső látogatás.",
+                "ro": "Vizită scurtă la interior.",
+                "en": "Quick indoor visit."
+              }
+            },
+            {
+              "name": "Apatin Brewery",
+              "tip_5lang": {
+                "de": "Heißgetränk bestellen.",
+                "hu": "Rendeljen forró italt.",
+                "ro": "Comandați o băutură caldă.",
+                "en": "Order a hot drink."
+              }
+            },
+            {
+              "name": "Danube Promenade (Start)",
+              "tip_5lang": {
+                "de": "Gegenwind einkalkulieren.",
+                "hu": "Számoljon a szembeszéllel.",
+                "ro": "Calculați vântul din față.",
+                "en": "Expect cold headwinds."
+              }
+            },
+            {
+              "name": "Angling Center",
+              "tip_5lang": {
+                "de": "Warme Handschuhe!",
+                "hu": "Meleg kesztyű kötelező!",
+                "ro": "Mănuși groase!",
+                "en": "Warm gloves essential!"
+              }
+            },
+            {
+              "name": "Church of Saint Apostle Paul",
+              "tip_5lang": {
+                "de": "Licht am Rad prüfen.",
+                "hu": "Ellenőrizze a lámpákat.",
+                "ro": "Verificați luminile.",
+                "en": "Check your bike lights."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf funktionierende Beleuchtung, da es früh dunkel wird.",
+              "Der Wind am Fluss macht die gefühlte Temperatur deutlich niedriger.",
+              "Tragen Sie Thermounterwäsche und winddichte Kleidung.",
+              "Vermeiden Sie lange Stehzeiten im Freien."
+            ],
+            "hu": [
+              "Ellenőrizze a világítást, mert korán sötétedik.",
+              "A folyóparti szél miatt a hőérzet sokkal alacsonyabb.",
+              "Viseljen termaruházatot és szélálló rétegeket.",
+              "Kerülje a hosszú egyhelyben állást a szabadban."
+            ],
+            "ro": [
+              "Verificați luminile, deoarece se întunecă devreme.",
+              "Vântul de pe malul râului face temperatura resimțită mult mai scăzută.",
+              "Purtați lenjerie termică și haine rezistente la vânt.",
+              "Evitați perioadele lungi de staționare în aer liber."
+            ],
+            "en": [
+              "Ensure your bike lights are working as it gets dark early.",
+              "The river wind makes the perceived temperature much lower.",
+              "Wear thermal layers and windproof outer clothing.",
+              "Avoid standing still for long periods outside."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -910,6 +1292,188 @@
           "Plan driving times between clusters generously.",
           "A navigation system is helpful for driving to more remote locations."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden wir Apatin bequem im Trockenen. Wir starten am Rathaus und besuchen die Marienkirche. Mittags parken wir direkt an der Brauerei für eine ausgiebige Tour. Die Donaupromenade genießen wir bei einem kurzen Spaziergang mit Schirm, bevor wir zum Mittagessen einkehren. Den Abschluss bildet die Fahrt zur Pauluskirche, die im Regen besonders mystisch wirkt.",
+            "hu": "Autóval kényelmesen, szárazon fedezzük fel Apatint. A Városházától indulunk, majd a Mária-templomot látogatjuk meg. Délben közvetlenül a sörgyárnál parkolunk egy alapos túrához. A Duna-parti sétányt egy rövid esernyős séta erejéig élvezzük, mielőtt ebédelnénk. A napot a Szent Pál-templomnál zárjuk, amely az esőben különösen misztikus látványt nyújt.",
+            "ro": "Cu mașina explorăm Apatin confortabil și la uscat. Pornim de la Primărie și vizităm biserica. La prânz parcăm direct la fabrica de bere pentru un tur detaliat. Ne bucurăm de faleza Dunării cu o scurtă plimbare cu umbrela înainte de prânz. Încheiem ziua cu drumul spre Biserica Sfântul Pavel, care arată deosebit de mistică în ploaie.",
+            "en": "By car, we explore Apatin comfortably in the dry. We start at the Town Hall and visit St. Mary's. At noon, we park directly at the brewery for an extensive tour. We enjoy the Danube Promenade with a short umbrella walk before lunch. The day concludes with a drive to St. Paul's Church, which looks particularly mystical in the rain."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Apatin Town Hall",
+              "tip_5lang": {
+                "de": "Naher Parkplatz suchen.",
+                "hu": "Keressen közeli parkolót.",
+                "ro": "Căutați parcare aproape.",
+                "en": "Find nearby parking."
+              }
+            },
+            {
+              "name": "Cluster A: Church of the Assumption of Mary",
+              "tip_5lang": {
+                "de": "Direkt vorfahren.",
+                "hu": "Hajtson közvetlenül oda.",
+                "ro": "Conduceți până la intrare.",
+                "en": "Drive right up to it."
+              }
+            },
+            {
+              "name": "Cluster A: Statue of Nike",
+              "tip_5lang": {
+                "de": "Foto aus dem Fenster.",
+                "hu": "Fotó az ablakból.",
+                "ro": "Foto de la fereastră.",
+                "en": "Photo from the window."
+              }
+            },
+            {
+              "name": "Cluster B: Danube Promenade & Lunch",
+              "tip_5lang": {
+                "de": "Parken beim Restaurant.",
+                "hu": "Parkoljon az étteremnél.",
+                "ro": "Parcați lângă restaurant.",
+                "en": "Park near the restaurant."
+              }
+            },
+            {
+              "name": "Cluster B: Apatin Brewery",
+              "tip_5lang": {
+                "de": "Überdachter Zugang.",
+                "hu": "Fedett bejárat.",
+                "ro": "Acces acoperit.",
+                "en": "Covered access available."
+              }
+            },
+            {
+              "name": "Excursion: Church of Saint Apostle Paul",
+              "tip_5lang": {
+                "de": "Gute Sicht trotz Regen.",
+                "hu": "Jó kilátás esőben is.",
+                "ro": "Vizibilitate bună.",
+                "en": "Good view despite rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf beschlagene Scheiben; nutzen Sie die Klimaanlage.",
+              "Die Parkplätze im Zentrum können bei Regen pfützig sein.",
+              "Nutzen Sie den Wagen als Basis für kurze Erkundungsgänge.",
+              "Die Straße zur Pauluskirche ist gut ausgebaut."
+            ],
+            "hu": [
+              "Figyeljen a párásodásra, használja a klímát.",
+              "A központi parkolók esőben tócsásak lehetnek.",
+              "Használja az autót bázisként a rövid sétákhoz.",
+              "A Szent Pál-templomhoz vezető út jól járható esőben is."
+            ],
+            "ro": [
+              "Atenție la aburirea geamurilor; folosiți aerul condiționat.",
+              "Parcările din centru pot avea bălți la ploaie.",
+              "Folosiți mașina ca bază pentru scurte explorări.",
+              "Drumul spre Biserica Sfântul Pavel este bine întreținut."
+            ],
+            "en": [
+              "Watch for fogged windows; use the air conditioning.",
+              "Center parking lots may have puddles during rain.",
+              "Use the car as a base for short walking excursions.",
+              "The road to St. Paul's Church is in good condition."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine gemütliche Wintertour im beheizten Wagen. Wir starten am Rathausplatz und besuchen die festlich wirkende Marienkirche. Die Brauerei Apatin bietet den perfekten Stopp für ein deftiges Winteressen. Nachmittags fahren wir entlang der Promenade, um die Aussicht auf die eisige Donau zu genießen. Den Tag beenden wir an der Pauluskirche, bevor wir im Dunkeln zurückfahren.",
+            "hu": "Hangulatos téli túra a fűtött autóban. A Városháza térről indulunk, és meglátogatjuk az ünnepi hangulatú Mária-templomot. Az Apatini Sörgyár tökéletes megálló egy kiadós téli ebédhez. Délután a sétány mentén autózunk, hogy élvezzük a kilátást a jeges Dunára. A napot a Szent Pál-templomnál zárjuk, mielőtt sötétben visszaindulnánk.",
+            "ro": "O tură de iarnă plăcută în mașina încălzită. Pornim din Piața Primăriei și vizităm biserica ce are o atmosferă festivă. Fabrica de bere oferă oprirea perfectă pentru un prânz de iarnă consistent. După-amiaza conducem de-a lungul falezei pentru a admira Dunărea înghețată. Încheiem ziua la Biserica Sfântul Pavel înainte de a ne întoarce pe întuneric.",
+            "en": "A cozy winter tour in a heated car. We start at Town Hall Square and visit the festive-looking St. Mary's. The Apatin Brewery provides the perfect stop for a hearty winter lunch. In the afternoon, we drive along the promenade to enjoy the view of the icy Danube. We end the day at St. Paul's Church before driving back in the dark."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Apatin Town Hall",
+              "tip_5lang": {
+                "de": "Motor warmlaufen lassen.",
+                "hu": "Hagyja melegedni a motort.",
+                "ro": "Lăsați motorul să se încălzească.",
+                "en": "Let the engine warm up."
+              }
+            },
+            {
+              "name": "Cluster A: Church of the Assumption of Mary",
+              "tip_5lang": {
+                "de": "Parken direkt davor.",
+                "hu": "Parkoljon közvetlenül előtte.",
+                "ro": "Parcați chiar în față.",
+                "en": "Park right in front."
+              }
+            },
+            {
+              "name": "Cluster A: Statue of Nike",
+              "tip_5lang": {
+                "de": "Kurzer Ausstieg.",
+                "hu": "Gyors kiszállás.",
+                "ro": "Coborâre scurtă.",
+                "en": "Quick hop out."
+              }
+            },
+            {
+              "name": "Cluster B: Danube Promenade & Lunch",
+              "tip_5lang": {
+                "de": "Warmer Platz im Café.",
+                "hu": "Meleg hely a kávézóban.",
+                "ro": "Loc cald în cafenea.",
+                "en": "Warm spot in the cafe."
+              }
+            },
+            {
+              "name": "Cluster B: Apatin Brewery",
+              "tip_5lang": {
+                "de": "Wintermenü probieren.",
+                "hu": "Kóstolja meg a téli menüt.",
+                "ro": "Gustați meniul de iarnă.",
+                "en": "Try the winter menu."
+              }
+            },
+            {
+              "name": "Excursion: Church of Saint Apostle Paul",
+              "tip_5lang": {
+                "de": "Licht an beim Fahren.",
+                "hu": "Világítás bekapcsolása.",
+                "ro": "Faruri aprinse la drum.",
+                "en": "Keep headlights on."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind auf den Nebenstraßen unbedingt ratsam.",
+              "Achten Sie auf Glätte in Rheinnähe durch Luftfeuchtigkeit.",
+              "Der Wagen ist der beste Schutz gegen den eisigen Donauwind.",
+              "Planen Sie die Rückfahrt vor 17:00 Uhr wegen der Dunkelheit."
+            ],
+            "hu": [
+              "A téli gumi erősen ajánlott a mellékutakon.",
+              "Vigyázzon a folyóparti pára miatti jegesedésre.",
+              "Az autó a legjobb védelem a jeges dunai szél ellen.",
+              "A sötétedés miatt tervezze a visszautat 17:00 elé."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii pe drumurile secundare.",
+              "Atenție la poleiul format de umiditatea de lângă râu.",
+              "Mașina este cea mai bună protecție împotriva vântului înghețat.",
+              "Planificați întoarcerea înainte de ora 17:00 din cauza întunericului."
+            ],
+            "en": [
+              "Winter tires are strictly recommended on side roads.",
+              "Watch for ice near the river caused by high humidity.",
+              "The car is your best protection against the icy Danube wind.",
+              "Plan your return trip before 5:00 PM due to darkness."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1174,6 +1738,188 @@
           "Have small change ready for tickets.",
           "Pay attention to peak hours to avoid crowded buses."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus erreichen wir das Zentrum von Apatin. Vom Rathaus ist es nur ein kurzer Fußweg zur Marienkirche, die uns trocken hält. Mittags bringt uns der Bus zur Brauerei Apatin für eine Führung und ein Essen. Nachmittags besuchen wir die Promenade, nutzen aber die Buswartehäuschen als Unterstand. Den Tag beenden wir gemütlich am Anglerzentrum.",
+            "hu": "Busszal érkezünk Apatin központjába. A Városházától csak rövid séta a Mária-templom, amely szárazon tart minket. Délben a busz a sörgyárhoz visz egy látogatásra és ebédre. Délután a sétányt keressük fel, de a buszmegállókat használjuk menedékként. A napot kényelmesen zárjuk a horgászközpont fedett részein.",
+            "ro": "Ajungem cu autobuzul în centrul orașului Apatin. De la Primărie este doar o scurtă plimbare până la biserică, unde stăm la uscat. La prânz, autobuzul ne duce la fabrica de bere pentru un tur și masă. După-amiaza vizităm faleza, dar folosim stațiile de autobuz ca adăpost. Încheiem ziua confortabil la centrul de pescuit.",
+            "en": "We arrive in the center of Apatin by bus. From the Town Hall, it's just a short walk to St. Mary's, which keeps us dry. At noon, the bus takes us to the Apatin Brewery for a tour and lunch. In the afternoon, we visit the promenade, using bus shelters as refuge. We end the day comfortably at the Angling Center's indoor facilities."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Apatin Town Hall",
+              "tip_5lang": {
+                "de": "Unterstand am Markt.",
+                "hu": "Várjon a fedett piacon.",
+                "ro": "Adăpost la piață.",
+                "en": "Shelter at the market."
+              }
+            },
+            {
+              "name": "Cluster A: Church of the Assumption of Mary",
+              "tip_5lang": {
+                "de": "Trockener Innenraum.",
+                "hu": "Száraz belső tér.",
+                "ro": "Interior uscat.",
+                "en": "Dry interior space."
+              }
+            },
+            {
+              "name": "Cluster A: House of the Boršoš Family",
+              "tip_5lang": {
+                "de": "Im Vorbeigehen sehen.",
+                "hu": "Csak nézzen be menet közben.",
+                "ro": "Vedeți din mers.",
+                "en": "See it while passing by."
+              }
+            },
+            {
+              "name": "Cluster B: Danube Promenade",
+              "tip_5lang": {
+                "de": "Regenschirm bereithalten.",
+                "hu": "Legyen kéznél az esernyő.",
+                "ro": "Țineți umbrela la îndemână.",
+                "en": "Keep your umbrella ready."
+              }
+            },
+            {
+              "name": "Cluster B: Apatin Brewery",
+              "tip_5lang": {
+                "de": "Perfekt bei Regen.",
+                "hu": "Tökéletes esőben.",
+                "ro": "Perfect pe ploaie.",
+                "en": "Perfect for rainy days."
+              }
+            },
+            {
+              "name": "Cluster C: Angling Center",
+              "tip_5lang": {
+                "de": "Überdachtes Restaurant.",
+                "hu": "Fedett étterem.",
+                "ro": "Restaurant acoperit.",
+                "en": "Covered restaurant area."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Busfahrplan bei Regen auf Verspätungen.",
+              "Nutzen Sie die Wartehäuschen als Regenunterstand.",
+              "Ein kleiner Taschenschirm ist im Bus praktischer.",
+              "Die Brauerei ist gut an das Busnetz angebunden."
+            ],
+            "hu": [
+              "Esőben ellenőrizze a buszmenetrendet az esetleges késések miatt.",
+              "Használja a megállókat esővédőként.",
+              "Egy kis összecsukható esernyő praktikusabb a buszon.",
+              "A sörgyár jól megközelíthető tömegközlekedéssel."
+            ],
+            "ro": [
+              "Verificați programul autobuzelor pentru întârzieri pe ploaie.",
+              "Folosiți stațiile ca adăpost împotriva ploii.",
+              "O umbrelă mică pliabilă este mai practică în autobuz.",
+              "Fabrica de bere este bine conectată la rețeaua de transport."
+            ],
+            "en": [
+              "Check the bus schedule for delays during heavy rain.",
+              "Use bus shelters as rain cover while waiting.",
+              "A small foldable umbrella is more practical on the bus.",
+              "The brewery is well-connected to the local transit network."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintertag in Apatin mit dem Bus. Nach der Ankunft am Rathaus besuchen wir die kühle, aber beeindruckende Marienkirche. Der Bus bringt uns zur Brauerei Apatin, wo wir uns bei einem warmen Mittagessen aufwärmen. Den Nachmittag verbringen wir an der Promenade, bevor wir den letzten Bus vom Anglerzentrum zurück ins Zentrum nehmen, bevor es dunkel wird.",
+            "hu": "Téli nap Apatinban busszal. A Városházához érkezve meglátogatjuk a hűvös, de lenyűgöző Mária-templomot. A busz a sörgyárhoz visz minket, ahol egy meleg ebéd mellett felmelegszünk. A délutánt a sétányon töltjük, majd az utolsó busszal indulunk vissza a horgászközponttól a központba, még sötétedés előtt.",
+            "ro": "O zi de iarnă în Apatin cu autobuzul. După sosirea la Primărie, vizităm biserica răcoroasă, dar impresionantă. Autobuzul ne duce la fabrica de bere, unde ne încălzim cu un prânz cald. Petrecem după-amiaza pe faleză, apoi luăm ultimul autobuz de la centrul de pescuit înapoi spre centru înainte de lăsarea serii.",
+            "en": "A winter day in Apatin by bus. After arriving at the Town Hall, we visit the cool but impressive St. Mary's. The bus takes us to the brewery, where we warm up over a hot lunch. We spend the afternoon on the promenade before taking the last bus from the Angling Center back to the center before dark."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Apatin Town Hall",
+              "tip_5lang": {
+                "de": "Beheizter Bus warten.",
+                "hu": "Várjon a fűtött buszra.",
+                "ro": "Așteptați autobuzul încălzit.",
+                "en": "Wait for the heated bus."
+              }
+            },
+            {
+              "name": "Cluster A: Church of the Assumption of Mary",
+              "tip_5lang": {
+                "de": "Schnell besichtigen.",
+                "hu": "Gyors látogatás.",
+                "ro": "Vizită rapidă.",
+                "en": "Visit quickly."
+              }
+            },
+            {
+              "name": "Cluster A: House of the Boršoš Family",
+              "tip_5lang": {
+                "de": "Kalt im Freien.",
+                "hu": "Hideg van kint.",
+                "ro": "E frig afară.",
+                "en": "Cold outdoors."
+              }
+            },
+            {
+              "name": "Cluster B: Danube Promenade",
+              "tip_5lang": {
+                "de": "Windfeste Mütze!",
+                "hu": "Szélálló sapka!",
+                "ro": "Căciulă anti-vânt!",
+                "en": "Windproof hat required!"
+              }
+            },
+            {
+              "name": "Cluster B: Apatin Brewery",
+              "tip_5lang": {
+                "de": "Bester Aufwärmstopp.",
+                "hu": "A legjobb melegedő.",
+                "ro": "Cea mai bună oprire.",
+                "en": "Best warm-up stop."
+              }
+            },
+            {
+              "name": "Cluster C: Angling Center",
+              "tip_5lang": {
+                "de": "Letzter Bus um 16:45.",
+                "hu": "Utolsó busz 16:45-kor.",
+                "ro": "Ultimul bus la 16:45.",
+                "en": "Last bus at 4:45 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse können bei Schneefall unpünktlich sein.",
+              "Wärmen Sie sich in Geschäften oder Cafés zwischen den Fahrten auf.",
+              "Die Winterfahrpläne können von den Sommerplänen abweichen.",
+              "Planen Sie die Rückreise frühzeitig wegen der Kälte am Abend."
+            ],
+            "hu": [
+              "Hofúvás esetén a buszok késhetnek.",
+              "Melegedjen fel boltokban vagy kávézókban a járatok között.",
+              "A téli menetrend eltérhet a nyáritól.",
+              "Az esti hideg miatt tervezze korábbra a hazautat."
+            ],
+            "ro": [
+              "Autobuzele pot întârzia în caz de ninsoare.",
+              "Încălziți-vă în magazine sau cafenele între călătorii.",
+              "Orarele de iarnă pot diferi de cele de vară.",
+              "Planificați întoarcerea devreme din cauza frigului de seară."
+            ],
+            "en": [
+              "Buses may be unpunctual in case of snowfall.",
+              "Warm up in shops or cafes between transit rides.",
+              "Winter schedules may differ from summer ones.",
+              "Plan your return trip early due to the evening cold."
+            ]
+          }
+        }
       }
     }
   }

@@ -379,6 +379,206 @@
           "Calle Laurel doesn't get really busy until after 8 PM.",
           "A walk along the Ebro river is a great way to escape the crowds."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag unter dem schützenden Blätterdach des Espolón, wo die Statuen im Regen glänzen. Mittags bietet die Calle del Laurel den perfekten Zufluchtsort; hüpfen Sie einfach von einer gemütlichen Tapas-Bar zur nächsten.\n\nAm Nachmittag führt der Weg zur Kathedrale und zur Kirche San Bartolomé, deren massive Mauern Geborgenheit bieten. Der Ebro zeigt sich unter grauem Himmel von seiner dramatischen Seite.\n\nDen späten Nachmittag verbringen Sie im trockenen Museum von La Rioja. Den Abend lassen Sie in den belebten Gassen der Altstadt ausklingen, wo das Kopfsteinpflaster die Lichter der Stadt widerspiegelt.",
+            "hu": "Kezdje a napot az Espolón fái alatt, ahol a szobrok csillognak az esőben. Délben a Calle del Laurel a legjobb menedék; egyik falatozóból a másikba ugorva élvezheti a gasztronómiát anélkül, hogy elázna.\n\nDélután a katedrális és a San Bartolomé-templom vastag falai nyújtanak száraz nyugalmat. A Kőhíd felett az Ebro folyó drámai arcát mutatja a szürke égbolt alatt.\n\nA nap hátralévő részét töltse a Rioja Múzeum fűtött termeiben. Az estét zárja az óvárosban, ahol a vizes macskaköveken megcsillannak a lámpafények.",
+            "ro": "Începeți ziua sub copacii din Espolón, unde statuile strălucesc în ploaie. La prânz, Calle del Laurel este refugiul ideal; săriți dintr-un bar de tapas în altul pentru a rămâne uscat și sătul.\n\nDupă-amiaza, zidurile groase ale Catedralei și ale bisericii San Bartolomé oferă adăpost spiritual și fizic. Podul de Piatră oferă o vedere dramatică asupra râului Ebro sub cerul gri.\n\nPetreceți restul după-amiezii în interiorul Muzeului La Rioja. Seara se încheie în centrul vechi, unde reflexiile luminilor pe pavajul umed creează o atmosferă magică.",
+            "en": "Start your day under the leafy canopy of Espolón, watching the statues glisten in the rain. At noon, Calle del Laurel is the perfect escape; hop from one cozy tapas bar to another to stay dry.\n\nIn the afternoon, the thick walls of the Cathedral and San Bartolomé church offer a dry sanctuary. The Stone Bridge provides a dramatic view of the Ebro under the heavy grey clouds.\n\nSpend the late afternoon exploring the indoor treasures of the Museum of La Rioja. End your evening in the old town, where the wet cobblestones reflect the city lights beautifully."
+          },
+          "stops": [
+            {
+              "name": "Paseo del Espolón",
+              "tip_5lang": {
+                "de": "Die dichten Platanen bieten einen natürlichen Regenschutz für einen kurzen Spaziergang.",
+                "hu": "A sűrű platánfák természetes esernyőként szolgálnak egy rövid sétához.",
+                "ro": "Platanii deși oferă o protecție naturală împotriva ploii ușoare în timpul plimbării.",
+                "en": "The thick plane trees provide a natural umbrella for a short stroll."
+              }
+            },
+            {
+              "name": "Co-Cathedral of Santa María de la Redonda",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Architektur zu bewundern, während man dem Regen draußen lauscht.",
+                "hu": "Ideális hely az építészet csodálatára, miközben kint kopog az eső.",
+                "ro": "Un loc ideal pentru a admira arhitectura în timp ce asculți ploaia de afară.",
+                "en": "An ideal place to admire the architecture while listening to the rain outside."
+              }
+            },
+            {
+              "name": "Calle del Laurel",
+              "tip_5lang": {
+                "de": "Die Bars liegen so nah beieinander, dass Sie kaum nass werden. Probieren Sie 'Champis'.",
+                "hu": "A bárok olyan közel vannak, hogy alig fog elázni. Kóstolja meg a töltött gombát.",
+                "ro": "Barurile sunt atât de aproape încât abia te uzi. Încearcă faimoasele 'Champis'.",
+                "en": "Bars are so close together you'll barely get wet. Try the famous stuffed mushrooms."
+              }
+            },
+            {
+              "name": "Church of San Bartolomé",
+              "tip_5lang": {
+                "de": "Bewundern Sie das prächtige Portal, bevor Sie ins trockene Kirchenschiff flüchten.",
+                "hu": "Csodálja meg a pompás kaput, mielőtt a száraz hajóba menekülne.",
+                "ro": "Admiră portalul magnific înainte de a te refugia în naosul uscat.",
+                "en": "Admire the magnificent portal before escaping into the dry nave."
+              }
+            },
+            {
+              "name": "Stone Bridge (Puente de Piedra)",
+              "tip_5lang": {
+                "de": "Vorsicht vor Windböen vom Fluss; halten Sie Ihren Regenschirm gut fest.",
+                "hu": "Vigyázzon a folyó felőli széllökésekkel; fogja szorosan az esernyőjét.",
+                "ro": "Atenție la rafalele de vânt de pe râu; țineți bine umbrela.",
+                "en": "Watch out for wind gusts from the river; hold your umbrella tightly."
+              }
+            },
+            {
+              "name": "Cubo del Revellín",
+              "tip_5lang": {
+                "de": "Die Befestigungsanlagen bieten einige überdachte Nischen zum Ausruhen.",
+                "hu": "Az erődítmények néhány fedett fülkét kínálnak a pihenéshez.",
+                "ro": "Fortificațiile oferă câteva nișe acoperite pentru odihnă.",
+                "en": "The fortifications offer some covered niches for a quick rest."
+              }
+            },
+            {
+              "name": "Museum of La Rioja",
+              "tip_5lang": {
+                "de": "Das ultimative Ziel bei Regen; stundenlange Kultur im Trockenen.",
+                "hu": "A végső célpont esőben; órákon át tartó kultúra szárazon.",
+                "ro": "Destinația supremă pe ploaie; ore de cultură la adăpost.",
+                "en": "The ultimate rainy day destination; hours of culture in the dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Arkaden rund um den Plaza del Mercado als trockene Verbindungswerge.",
+              "Die Calle del Laurel ist bei Regen besonders gesellig, da sich alle in den Bars drängen.",
+              "Tragen Sie wasserfeste Schuhe, da das Kopfsteinpflaster rutschig werden kann.",
+              "Besuchen Sie das Museum erst am Nachmittag, wenn der Regen meist stärker wird."
+            ],
+            "hu": [
+              "Használja a Plaza del Mercado körüli árkádokat száraz összekötő útként.",
+              "Az esőben a Calle del Laurel még hangulatosabb, ahogy mindenki a bárokba húzódik.",
+              "Viseljen vízálló cipőt, mert a macskakövek csúszóssá válhatnak.",
+              "A múzeumlátogatást időzítse délutánra, amikor az eső gyakran felerősödik."
+            ],
+            "ro": [
+              "Folosiți arcadele din jurul Plaza del Mercado ca trasee de legătură uscate.",
+              "Calle del Laurel este mai sociabilă pe ploaie, toată lumea fiind în baruri.",
+              "Purtați încălțăminte impermeabilă, pavajul poate deveni alunecos.",
+              "Programați vizita la muzeu după-amiaza, când ploaia tindă să se intensifice."
+            ],
+            "en": [
+              "Use the arcades around Plaza del Mercado as dry connecting paths.",
+              "Calle del Laurel is extra social in the rain as everyone crowds into the bars.",
+              "Wear waterproof shoes as the cobblestones can become quite slippery.",
+              "Time your museum visit for the afternoon when rain often intensifies."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Atmen Sie die frische Winterluft am Espolón ein, während die Morgensonne tief steht. Die Stadt wirkt im Winterlicht klar und ruhig. Mittags wärmen Sie sich in der Calle del Laurel mit herzhaften Tapas und einem kräftigen Rioja auf.\n\nNachmittags bieten die Kathedrale und San Bartolomé einen windgeschützten Rückzugsort. Der Spaziergang über die Steinbrücke ist erfrischend, bietet aber einen weiten Blick auf den winterlichen Ebro.\n\nSobald die Sonne gegen 17:30 Uhr untergeht, ziehen Sie sich in das beheizte Museum von La Rioja zurück. Der Abend gehört der beleuchteten Altstadt, in der die festliche Beleuchtung eine warme Atmosphäre schafft.",
+            "hu": "Szippantson a friss téli levegőből az Espolón sétányon, miközben a reggeli nap alacsonyan jár. Délben a Calle del Laurelben melegedjen fel laktató tapasokkal és egy pohár testes vörösborral.\n\nDélután a katedrális és a San Bartolomé-templom nyújt szélvédett menedéket. A Kőhídon tett séta frissítő, pazar kilátást nyújtva a téli Ebro folyóra.\n\nAmint a nap 17:30 körül nyugovóra tér, vonuljon be a Rioja Múzeum fűtött termeibe. Az estét töltse a kivilágított óvárosban, ahol az ünnepi fények meleg hangulatot árasztanak.",
+            "ro": "Respirați aerul proaspăt de iarnă în Espolón, sub soarele palid al dimineții. La prânz, încălziți-vă în Calle del Laurel cu tapas consistente și un vin roșu de Rioja robust.\n\nDupă-amiaza, Catedrala și San Bartolomé oferă un refugiu ferit de vântul rece 'Cierzo'. Plimbarea pe Podul de Piatră este revigorantă, oferind vederi clare asupra râului Ebro în haine de iarnă.\n\nPe măsură ce soarele apune în jurul orei 17:30, retrageți-vă în Muzeul La Rioja bine încălzit. Seara aparține centrului vechi iluminat, unde luminile festive creează o atmosferă primitoare.",
+            "en": "Breathe in the crisp winter air at Espolón as the morning sun stays low. At noon, warm up in Calle del Laurel with hearty tapas and a glass of robust Rioja wine.\n\nIn the afternoon, the Cathedral and San Bartolomé offer a wind-sheltered retreat from the 'Cierzo' wind. A walk across the Stone Bridge is refreshing, offering clear views of the wintry Ebro river.\n\nAs the sun sets around 17:30, retreat to the heated halls of the Museum of La Rioja. The evening belongs to the illuminated old town, where festive lights create a warm and cozy atmosphere."
+          },
+          "stops": [
+            {
+              "name": "Paseo del Espolón",
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick ohne das dichte Sommerlaub der Platanen.",
+                "hu": "Élvezze a tágas kilátást a platánfák sűrű nyári lombkoronája nélkül.",
+                "ro": "Bucurați-vă de priveliștile largi fără frunzișul dens de vară al platanilor.",
+                "en": "Enjoy the wide views without the dense summer foliage of the plane trees."
+              }
+            },
+            {
+              "name": "Co-Cathedral of Santa María de la Redonda",
+              "tip_5lang": {
+                "de": "Die massiven Mauern halten die Kälte draußen; ein ruhiger Ort zum Aufwärmen.",
+                "hu": "A vastag falak kint tartják a hideget; csendes hely a felmelegedéshez.",
+                "ro": "Zidurile masive țin frigul afară; un loc liniștit pentru a te încălzi.",
+                "en": "The massive walls keep the cold out; a quiet place to warm up."
+              }
+            },
+            {
+              "name": "Calle del Laurel",
+              "tip_5lang": {
+                "de": "Suchen Sie Bars mit dampfenden Eintöpfen oder gegrillten Fleischspießen.",
+                "hu": "Keressen gőzölgő egytálételeket vagy frissen sült húsnyársakat kínáló bárokat.",
+                "ro": "Căutați baruri care servesc tocănițe aburinde sau frigărui proaspăt fierte.",
+                "en": "Look for bars serving steaming stews or freshly grilled meat skewers."
+              }
+            },
+            {
+              "name": "Church of San Bartolomé",
+              "tip_5lang": {
+                "de": "Die romanischen Details wirken im klaren Winterlicht besonders plastisch.",
+                "hu": "A román stílusú részletek a tiszta téli fényben különösen plasztikusak.",
+                "ro": "Detaliile romanice par deosebit de clare în lumina rece a iernii.",
+                "en": "The Romanesque details look particularly sharp in the clear winter light."
+              }
+            },
+            {
+              "name": "Stone Bridge (Puente de Piedra)",
+              "tip_5lang": {
+                "de": "Der Wind kann hier beißend sein; Mütze und Schal sind ein Muss.",
+                "hu": "A szél itt metsző lehet; a sapka és sál elengedhetetlen.",
+                "ro": "Vântul poate fi tăios aici; căciula și fularul sunt obligatorii.",
+                "en": "The wind can be biting here; a hat and scarf are essential."
+              }
+            },
+            {
+              "name": "Cubo del Revellín",
+              "tip_5lang": {
+                "de": "Die Steine speichern die Kälte; halten Sie den Besuch kurz und knackig.",
+                "hu": "A kövek tárolják a hideget; tartsa a látogatást röviden és velősen.",
+                "ro": "Pietrele rețin frigul; vizitați rapid și continuați traseul.",
+                "en": "The stones retain the cold; keep the visit short and brisk."
+              }
+            },
+            {
+              "name": "Museum of La Rioja",
+              "tip_5lang": {
+                "de": "Perfekt temperiert, um der Winterkälte für eine Weile zu entfliehen.",
+                "hu": "Tökéletesen temperált hely, hogy egy időre elmeneküljön a téli hideg elől.",
+                "ro": "Temperatură perfectă pentru a scăpa de frigul iernii pentru o vreme.",
+                "en": "Perfectly tempered to escape the winter chill for a while."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der 'Cierzo'-Wind kann die gefühlte Temperatur deutlich senken.",
+              "Die Sonne geht früh unter, also nutzen Sie das Tageslicht für Fotos am Fluss.",
+              "Probieren Sie 'Caldo' (heiße Brühe) in den Bars der Altstadt.",
+              "Die Museen sind im Winter weniger überlaufen und angenehm beheizt."
+            ],
+            "hu": [
+              "A 'Cierzo' szél jelentősen csökkentheti a hőérzetet.",
+              "A nap korán nyugszik, így használja ki a nappali fényt a folyóparti fotókhoz.",
+              "Kóstolja meg a 'Caldo'-t (forró húsleves) az óvárosi bárokban.",
+              "A múzeumok télen kevésbé zsúfoltak és kellemesen fűtöttek."
+            ],
+            "ro": [
+              "Vântul 'Cierzo' poate reduce semnificativ temperatura resimțită.",
+              "Soarele apune devreme, deci folosiți lumina zilei pentru poze la râu.",
+              "Încercați 'Caldo' (supă fierbinte) în barurile din centrul vechi.",
+              "Muzeele sunt mai puțin aglomerate iarna și sunt bine încălzite."
+            ],
+            "en": [
+              "The 'Cierzo' wind can significantly lower the perceived temperature.",
+              "The sun sets early, so prioritize daylight hours for riverfront photos.",
+              "Try 'Caldo' (hot broth) in the bars of the old town to warm up.",
+              "Museums are less crowded in winter and pleasantly heated."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -752,6 +952,206 @@
           "Always lock your bike securely, especially near tourist attractions.",
           "Some one-way streets in the center may be open to cyclists in both directions, pay attention to the signs."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Regenfahrt über die Steinbrücke bietet eine einzigartige Perspektive auf den brausenden Ebro. Achten Sie auf die rutschigen Markierungen. Mittags parken Sie Ihr Rad sicher und wärmen sich in den Bars der Calle del Laurel auf.\n\nNachmittags führt die Route zum Museum von La Rioja, wo Sie eine kulturelle Pause im Trockenen einlegen können. Die Kathedrale bietet ebenfalls einen majestätischen Schutz vor den Schauern.\n\nZum Abschluss radeln Sie vorsichtig durch den Espolón. Der nasse Asphalt reflektiert die Straßenlaternen und verleiht der Fahrt am frühen Abend einen besonderen Glanz.",
+            "hu": "Egy esős tekerés a Kőhídon egyedi rálátást nyújt a megáradt Ebróra. Ügyeljen a csúszós útburkolati jelekre. Délben parkolja le biztonságban a bringát, és melegedjen fel a Calle del Laurel bárjaiban.\n\nDélután az út a Rioja Múzeumba vezet, ahol szárazon pihenhet meg a kulturális kincsek között. A katedrális szintén fenséges menedéket nyújt a záporok elől.\n\nBefejezésül tekerjen óvatosan az Espolón sétányon. A vizes aszfalt visszatükrözi az utcai lámpákat, különleges csillogást adva az kora esti tekerésnek.",
+            "ro": "O plimbare pe ploaie peste Podul de Piatră oferă o perspectivă unică asupra râului Ebro. Atenție la marcajele rutiere alunecoase. La prânz, parcați bicicleta în siguranță și încălziți-vă în barurile de pe Calle del Laurel.\n\nDupă-amiaza, traseul duce la Muzeul La Rioja pentru o pauză culturală la adăpost. Catedrala oferă, de asemenea, un refugiu maiestuos împotriva averselor.\n\nÎn încheiere, pedalați cu atenție prin Espolón. Asfaltul umed reflectă felinarele, dând plimbării de seară o strălucire aparte.",
+            "en": "A rainy ride over the Stone Bridge offers a unique perspective on the rushing Ebro. Watch out for slippery road markings. At noon, park your bike securely and warm up in the bars of Calle del Laurel.\n\nIn the afternoon, the route leads to the Museum of La Rioja for a dry cultural break. The Cathedral also provides a majestic sanctuary from the showers.\n\nTo finish, cycle carefully through Espolón. The wet asphalt reflects the streetlights, adding a special glow to your early evening ride."
+          },
+          "stops": [
+            {
+              "name": "Stone Bridge (Puente de Piedra)",
+              "tip_5lang": {
+                "de": "Der Belag kann bei Nässe sehr rutschig sein; bremsen Sie frühzeitig.",
+                "hu": "A burkolat nedvesen nagyon csúszós lehet; fékezzen időben.",
+                "ro": "Suprafața poate fi foarte alunecoasă pe umiditate; frânați din timp.",
+                "en": "The surface can be very slippery when wet; brake early."
+              }
+            },
+            {
+              "name": "Church of San Bartolomé",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Vorplatz für einen kurzen Stopp unter dem Dachvorsprung.",
+                "hu": "Használja az előteret egy rövid megállóra a tetőpárkány alatt.",
+                "ro": "Folosiți curtea pentru o scurtă oprire sub streașină.",
+                "en": "Use the forecourt for a quick stop under the roof overhang."
+              }
+            },
+            {
+              "name": "Museum of La Rioja",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad in der Nähe ab und genießen Sie die trockene Wärme.",
+                "hu": "Parkolja le a bringát a közelben, és élvezze a száraz meleget.",
+                "ro": "Parcați bicicleta în apropiere și bucurați-vă de căldura uscată.",
+                "en": "Park your bike nearby and enjoy the dry warmth inside."
+              }
+            },
+            {
+              "name": "Co-Cathedral of Santa María de la Redonda",
+              "tip_5lang": {
+                "de": "Parken Sie unter den Arkaden des Platzes, um den Sattel trocken zu halten.",
+                "hu": "Parkoljon a tér árkádjai alatt, hogy az ülés száraz maradjon.",
+                "ro": "Parcați sub arcadele pieței pentru a menține șaua uscată.",
+                "en": "Park under the square's arcades to keep your saddle dry."
+              }
+            },
+            {
+              "name": "Calle del Laurel",
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Radfahren in der schmalen Gasse; schieben ist sicherer.",
+                "hu": "Kerülje a bringázást a szűk utcában; a tolás biztonságosabb.",
+                "ro": "Evitați mersul pe bicicletă în rândul îngust; împinsul e mai sigur.",
+                "en": "Avoid cycling in the narrow alley; pushing is safer."
+              }
+            },
+            {
+              "name": "Paseo del Espolón",
+              "tip_5lang": {
+                "de": "Vorsicht vor tief hängenden nassen Ästen am Rand des Weges.",
+                "hu": "Vigyázzon az út szélén lógó nedves ágakra.",
+                "ro": "Atenție la ramurile umede care atârnă pe marginea drumului.",
+                "en": "Watch out for low-hanging wet branches along the path."
+              }
+            },
+            {
+              "name": "Bike ride along Parque del Ebro",
+              "tip_5lang": {
+                "de": "Die Wege können matschig sein; bleiben Sie auf dem asphaltierten Bereich.",
+                "hu": "Az utak sarasak lehetnek; maradjon az aszfaltozott részen.",
+                "ro": "Potecile pot fi noroioase; rămâneți pe zona asfaltată.",
+                "en": "Paths can be muddy; stick to the paved sections."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Bringen Sie eine wasserfeste Sattelabdeckung mit.",
+              "Vermeiden Sie abrupte Bremsmanöver auf den glatten Kopfsteinpflastersteinen.",
+              "Nutzen Sie die Brücken als kurzfristigen Unterstand bei starken Güssen.",
+              "Überprüfen Sie Ihre Beleuchtung, da die Sicht bei Regen stark eingeschränkt ist."
+            ],
+            "hu": [
+              "Vigyen magával vízálló nyeregvédőt.",
+              "Kerülje a hirtelen fékezést a sima macskaköveken.",
+              "Használja a hidakat rövid idejű menedékként erős záporok esetén.",
+              "Ellenőrizze a világítást, mert esőben a látási viszonyok korlátozottak."
+            ],
+            "ro": [
+              "Aduceți o husă impermeabilă pentru șa.",
+              "Evitați frânarea bruscă pe pavajul neted.",
+              "Folosiți podurile ca adăpost temporar în caz de averse puternice.",
+              "Verificați luminile, vizibilitatea este redusă semnificativ pe ploaie."
+            ],
+            "en": [
+              "Bring a waterproof saddle cover.",
+              "Avoid sudden braking on smooth cobblestones.",
+              "Use bridges as short-term shelter during heavy downpours.",
+              "Check your lights as visibility is significantly reduced in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre Wintertour an der Steinbrücke, wo der Frost die Geländer verzieren kann. Die Luft ist kalt, aber der Himmel oft strahlend blau. Mittags ist die Calle del Laurel der perfekte Ort, um die kalten Finger an einem Glas Rioja zu wärmen.\n\nNachmittags bieten die Kathedrale und das Museum von La Rioja angenehme Pausen von der beißenden Winterbrise. Das Radfahren hält Sie warm, solange Sie in Bewegung bleiben.\n\nDen Tag beenden Sie mit einer Fahrt durch den Parque del Ebro. Das fahle Winterlicht verleiht dem Flussufer eine melancholische Schönheit, bevor Sie rechtzeitig vor Einbruch der Dunkelheit Ihr Ziel erreichen.",
+            "hu": "Kezdje téli túráját a Kőhídnál, ahol a dér díszítheti a korlátokat. A levegő hideg, de az ég gyakran ragyogó kék. Délben a Calle del Laurel a tökéletes hely, hogy egy pohár Rioja mellett felmelegítse elgémberedett ujjait.\n\nDélután a katedrális és a Rioja Múzeum nyújt kellemes pihenőt a metsző téli szél elől. A tekerés melegen tartja, amíg mozgásban van.\n\nA napot az Ebro-parkon át vezető úttal zárja. A bágyadt téli fény melankolikus szépséget kölcsönöz a folyópartnak, mielőtt sötétedés előtt célba érne.",
+            "ro": "Începeți turul de iarnă la Podul de Piatră, unde chiciura poate decora balustradele. Aerul este rece, dar cerul este adesea de un albastru strălucitor. La prânz, Calle del Laurel este locul perfect pentru a vă încălzi degetele pe un pahar de Rioja.\n\nDupă-amiaza, Catedrala și Muzeul La Rioja oferă pauze plăcute de vântul tăios de iarnă. Pedalatul vă va menține cald atât timp cât sunteți în mișcare.\n\nÎncheiați ziua cu o plimbare prin Parque del Ebro. Lumina palidă de iarnă conferă malului râului o frumusețe melancolică înainte de a ajunge la destinație înainte de lăsarea întunericului.",
+            "en": "Start your winter tour at the Stone Bridge, where frost might decorate the railings. The air is cold, but the sky is often a brilliant blue. At noon, Calle del Laurel is the perfect spot to warm your fingers on a glass of Rioja.\n\nIn the afternoon, the Cathedral and the Museum of La Rioja offer pleasant breaks from the biting winter breeze. Cycling keeps you warm as long as you stay in motion.\n\nEnd the day with a ride through Parque del Ebro. The pale winter light lends a melancholic beauty to the riverbank before you reach your destination ahead of nightfall."
+          },
+          "stops": [
+            {
+              "name": "Stone Bridge (Puente de Piedra)",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteisbildung auf dem Brückenkörper am frühen Morgen.",
+                "hu": "Ügyeljen a jegesedésre a hídon kora reggel.",
+                "ro": "Atenție la formarea poleiului pe pod dimineața devreme.",
+                "en": "Watch out for ice formation on the bridge early in the morning."
+              }
+            },
+            {
+              "name": "Church of San Bartolomé",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp im Inneren hilft, die Körpertemperatur zu halten.",
+                "hu": "Egy rövid megálló bent segít megtartani a testhőt.",
+                "ro": "O scurtă oprire în interior ajută la menținerea temperaturii corpului.",
+                "en": "A short stop inside helps maintain body temperature."
+              }
+            },
+            {
+              "name": "Museum of La Rioja",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe, um schwere Winterkleidung kurz abzulegen.",
+                "hu": "Használja a ruhatárat a nehéz téli ruhák rövid letételéhez.",
+                "ro": "Folosiți garderoba pentru a lăsa hainele grele de iarnă pentru o perioadă.",
+                "en": "Use the cloakroom to shed heavy winter gear for a while."
+              }
+            },
+            {
+              "name": "Co-Cathedral of Santa María de la Redonda",
+              "tip_5lang": {
+                "de": "Die Sonne spiegelt sich wunderschön in den Fenstern der Kathedrale.",
+                "hu": "A napfény gyönyörűen tükröződik a katedrális ablakaiban.",
+                "ro": "Soarele se reflectă frumos în ferestrele catedralei.",
+                "en": "The winter sun reflects beautifully in the cathedral windows."
+              }
+            },
+            {
+              "name": "Calle del Laurel",
+              "tip_5lang": {
+                "de": "Die Wärme der Grills in den Bars ist im Winter besonders einladend.",
+                "hu": "A bárokban a grillrácsok melege télen különösen hívogató.",
+                "ro": "Căldura grătarelor din baruri este deosebit de primitoare iarna.",
+                "en": "The warmth of the grills in the bars is extra inviting in winter."
+              }
+            },
+            {
+              "name": "Paseo del Espolón",
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig über am Boden liegendes nasses Laub.",
+                "hu": "Hajtson óvatosan a földön lévő nedves leveleken.",
+                "ro": "Pedalați cu atenție peste frunzele umede de pe jos.",
+                "en": "Cycle carefully over wet leaves on the ground."
+              }
+            },
+            {
+              "name": "Bike ride along Parque del Ebro",
+              "tip_5lang": {
+                "de": "Tragen Sie Handschuhe; der Fahrtwind am Fluss kann sehr kalt sein.",
+                "hu": "Viseljen kesztyűt; a folyóparti menetszél nagyon hideg lehet.",
+                "ro": "Purtați mănuși; vântul de pe râu poate fi foarte rece.",
+                "en": "Wear gloves; the wind chill along the river can be very cold."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie mehrere Schichten Kleidung (Zwiebelprinzip).",
+              "Hals und Ohren sollten besonders gut geschützt sein.",
+              "Die Tage sind kurz; planen Sie Ihre Tour zwischen 10:00 und 17:00 Uhr.",
+              "Warme Getränke zwischendurch erhalten die Moral und die Körperwärme."
+            ],
+            "hu": [
+              "Viseljen több réteg ruhát (réteges öltözködés).",
+              "A nyakát és a fülét különösen jól védje.",
+              "Rövidek a nappalok; tervezze a túrát 10:00 és 17:00 közé.",
+              "A köztes meleg italok javítják a kedélyállapotot és fenntartják a testhőt."
+            ],
+            "ro": [
+              "Purtați mai multe straturi de haine.",
+              "Gâtul și urechile trebuie protejate în mod deosebit.",
+              "Zilele sunt scurte; planificați turul între orele 10:00 și 17:00.",
+              "Băuturile calde între opriri mențin moralul și căldura corpului."
+            ],
+            "en": [
+              "Wear multiple layers of clothing (onion principle).",
+              "Protect your neck and ears especially well from the wind.",
+              "Days are short; plan your cycling between 10:00 and 17:00.",
+              "Warm drinks between stops maintain morale and body heat."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1132,6 +1532,206 @@
           "Plan your drives outside of peak hours (around 8-9 AM, 2-3 PM, 7-8 PM).",
           "A GPS is essential for navigating the maze of one-way streets."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Parken Sie bequem am Espolón und genießen Sie den Tag trotz Regen. Das Auto dient als Ihr mobiles Basislager. Mittags führt die kurze Fahrt zur Calle del Laurel, wo Sie in den umliegenden Parkhäusern trocken aussteigen können.\n\nNachmittags parken Sie am Ebro-Ufer, um die Steinbrücke zu bewundern, bevor Sie zum Museum von La Rioja weiterfahren. Die kurzen Wege zwischen Parkplatz und Sehenswürdigkeit minimieren die Zeit im Regen.\n\nDen Abend verbringen Sie entspannt im Museum oder in einem Restaurant in der Altstadt. Die Rückfahrt im beheizten Auto ist der perfekte Abschluss für einen nassen Tag.",
+            "hu": "Parkoljon kényelmesen az Espolónnál, és élvezze a napot az eső ellenére is. Az autó a mobil bázisa. Délben egy rövid út vezet a Calle del Laurelhez, ahol a közeli parkolóházakban szárazon szállhat ki.\n\nDélután parkoljon az Ebro-parton, hogy megcsodálja a Kőhidat, majd folytassa útját a Rioja Múzeumhoz. A parkoló és a látnivalók közötti rövid távolság minimalizálja az esőben töltött időt.\n\nAz estét töltse pihentetően a múzeumban vagy egy óvárosi étteremben. A hazaút a fűtött autóban tökéletes zárása egy vizes napnak.",
+            "ro": "Parcați confortabil la Espolón și bucurați-vă de zi în ciuda ploii. Mașina servește drept bază mobilă. La prânz, o scurtă cursă vă duce la Calle del Laurel, unde puteți coborî uscat în parcările subterane.\n\nDupă-amiaza, parcați pe malul râului Ebro pentru a admira Podul de Piatră, apoi continuați spre Muzeul La Rioja. Distanțele scurte între parcare și obiective reduc timpul petrecut în ploaie.\n\nSeara poate fi petrecută relaxat la muzeu sau într-un restaurant din centru. Drumul de întoarcere în mașina încălzită este finalul perfect pentru o zi ploioasă.",
+            "en": "Park comfortably at Espolón and enjoy your day despite the rain. Your car serves as a mobile base. At noon, a short drive takes you to Calle del Laurel, where nearby parking garages let you disembark dry.\n\nIn the afternoon, park by the Ebro river to admire the Stone Bridge before heading to the Museum of La Rioja. Short walks between parking and sights minimize your time in the rain.\n\nSpend your evening relaxing at the museum or in an old town restaurant. The drive back in a heated car is the perfect end to a wet day."
+          },
+          "stops": [
+            {
+              "name": "Parking at Paseo del Espolón",
+              "tip_5lang": {
+                "de": "Tiefgaragen sind heute Ihre besten Freunde für einen trockenen Start.",
+                "hu": "A mélygarázsok ma a legjobb barátai a száraz induláshoz.",
+                "ro": "Parcările subterane sunt azi cei mai buni prieteni pentru un start uscat.",
+                "en": "Underground parking is your best friend today for a dry start."
+              }
+            },
+            {
+              "name": "Paseo del Espolón",
+              "tip_5lang": {
+                "de": "Nutzen Sie den kurzen Weg vom Parkhaus zum Zentrum.",
+                "hu": "Használja a parkolóház és a központ közötti rövid sétát.",
+                "ro": "Folosiți distanța scurtă de la parcare până în centru.",
+                "en": "Take advantage of the short walk from the parking to the center."
+              }
+            },
+            {
+              "name": "Co-Cathedral of Santa María de la Redonda",
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Auto reicht aus, um die Kirche trocken zu erreichen.",
+                "hu": "Egy rövid sprint az autótól elég, hogy szárazon elérje a templomot.",
+                "ro": "Un scurt sprint de la mașină e suficient pentru a ajunge uscat la biserică.",
+                "en": "A quick sprint from the car is enough to reach the church dry."
+              }
+            },
+            {
+              "name": "Calle del Laurel",
+              "tip_5lang": {
+                "de": "Wählen Sie ein zentrumsnahes Parkhaus, um Regenzeit zu sparen.",
+                "hu": "Válasszon központi parkolóházat, hogy időt spóroljon az esőben.",
+                "ro": "Alegeți o parcare centrală pentru a economisi timp în ploaie.",
+                "en": "Choose a central parking garage to save time in the rain."
+              }
+            },
+            {
+              "name": "Parking by the Ebro River",
+              "tip_5lang": {
+                "de": "Suchen Sie einen Platz mit gutem Asphalt, um Pfützen zu vermeiden.",
+                "hu": "Keressen aszfaltozott helyet, hogy elkerülje a tócsákat.",
+                "ro": "Căutați un loc cu asfalt bun pentru a evita bălțile.",
+                "en": "Look for a paved spot to avoid getting stuck in puddles."
+              }
+            },
+            {
+              "name": "Stone Bridge & San Bartolomé",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den Fluss kurz aus dem Fenster.",
+                "hu": "Élvezze a folyóra nyíló kilátást egy rövid ideig az ablakból.",
+                "ro": "Bucurați-vă de vederea la râu pentru scurt timp de la fereastră.",
+                "en": "Enjoy the river view briefly from the car window if needed."
+              }
+            },
+            {
+              "name": "Museum of La Rioja",
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang für einen trockenen Übergang.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz a száraz bejutáshoz.",
+                "ro": "Parcați cât mai aproape de intrare pentru un transfer uscat.",
+                "en": "Park as close to the entrance as possible for a dry transition."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die App für Parkplätze, um langes Suchen im Regen zu vermeiden.",
+              "Halten Sie einen Regenschirm im Türfach bereit.",
+              "Die Sicht kann bei starkem Regen eingeschränkt sein; fahren Sie defensiv.",
+              "Parkhäuser in der Nähe von Calle del Laurel füllen sich bei Regen schnell."
+            ],
+            "hu": [
+              "Használjon parkolási appot, hogy elkerülje a keresgélést az esőben.",
+              "Tartson esernyőt az ajtózsebben.",
+              "A látási viszonyok korlátozottak lehetnek; vezessen óvatosan.",
+              "A Calle del Laurel közeli parkolók esőben gyorsan megtelnek."
+            ],
+            "ro": [
+              "Folosiți aplicații de parcare pentru a evita căutarea prin ploaie.",
+              "Țineți o umbrelă la îndemână în portieră.",
+              "Vizibilitatea poate fi redusă; conduceți preventiv.",
+              "Parcările de lângă Calle del Laurel se umplu repede când plouă."
+            ],
+            "en": [
+              "Use a parking app to avoid searching for spots in the rain.",
+              "Keep an umbrella ready in the door pocket.",
+              "Visibility can be poor in heavy rain; drive defensively.",
+              "Parking garages near Calle del Laurel fill up fast when it rains."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Wintertag mit einer frostigen Fahrt zum Espolón. Das Auto bietet angenehme Wärme zwischen den Spaziergängen. Mittags parken Sie nahe der Calle del Laurel, um schnell in die geheizten Bars zu gelangen.\n\nNachmittags führt die Route zum winterlichen Ebro-Ufer. Die Steinbrücke wirkt in der klaren Kälte besonders imposant. Das Museum von La Rioja bietet danach eine willkommene Aufwärmpause.\n\nSobald die Dämmerung einsetzt, genießen Sie die beleuchtete Stadt aus dem Auto, bevor Sie zu einem gemütlichen Abendessen in der Altstadt aufbrechen. Die Sitzheizung ist heute Ihr bester Begleiter.",
+            "hu": "Kezdje a téli napot egy fagyos úttal az Espolónhoz. Az autó kellemes meleget nyújt a séták között. Délben parkoljon a Calle del Laurel közelében, hogy gyorsan bejusson a fűtött bárokba.\n\nDélután az út a téli Ebro-parthoz vezet. A Kőhíd különösen impozáns a tiszta hidegben. A Rioja Múzeum utána üdvözlendő melegedőt kínál.\n\nAmint alkonyodik, élvezze a kivilágított várost az autóból, mielőtt elindulna egy hangulatos óvárosi vacsorára. Az ülésfűtés ma a legjobb barátja.",
+            "ro": "Începeți ziua de iarnă cu o cursă spre Espolón. Mașina oferă o căldură plăcută între plimbări. La prânz, parcați aproape de Calle del Laurel pentru a intra rapid în barurile încălzite.\n\nDupă-amiaza, traseul duce la malul râului Ebro. Podul de Piatră pare deosebit de impunător în frigul clar. Muzeul La Rioja oferă apoi o pauză de încălzire binevenită.\n\nPe măsură ce se lasă amurgul, admirați orașul iluminat din mașină înainte de a merge la o cină în centru. Încălzirea în scaune este azi cel mai bun companion.",
+            "en": "Start your winter day with a frosty drive to Espolón. The car provides cozy warmth between your walks. At noon, park near Calle del Laurel to quickly get into the heated bars.\n\nIn the afternoon, head to the wintry Ebro riverbank. The Stone Bridge looks especially grand in the clear cold. The Museum of La Rioja offers a welcome warming break afterwards.\n\nAs dusk falls, enjoy the illuminated city from your car before heading to a cozy dinner in the old town. Seat heating is your best friend today."
+          },
+          "stops": [
+            {
+              "name": "Parking at Paseo del Espolón",
+              "tip_5lang": {
+                "de": "Überdachte Parkplätze verhindern das Einfrieren der Scheiben.",
+                "hu": "A fedett parkolók megakadályozzák a szélvédő lefagyását.",
+                "ro": "Parcările acoperite previn înghețarea parbrizului.",
+                "en": "Covered parking prevents windshield freezing."
+              }
+            },
+            {
+              "name": "Paseo del Espolón",
+              "tip_5lang": {
+                "de": "Genießen Sie den beleuchteten Park kurz vor der Rückkehr ins warme Auto.",
+                "hu": "Élvezze a kivilágított parkot, mielőtt visszatérne a meleg autóba.",
+                "ro": "Bucurați-vă de parcul iluminat înainte de a reveni în mașina caldă.",
+                "en": "Enjoy the illuminated park before returning to the warm car."
+              }
+            },
+            {
+              "name": "Co-Cathedral of Santa María de la Redonda",
+              "tip_5lang": {
+                "de": "Die Fassade wird im Winter früh beleuchtet, ein toller Anblick.",
+                "hu": "A homlokzatot télen korán kivilágítják, csodás látvány.",
+                "ro": "Fațada este iluminată devreme iarna, o priveliște superbă.",
+                "en": "The facade is illuminated early in winter, a wonderful sight."
+              }
+            },
+            {
+              "name": "Calle del Laurel",
+              "tip_5lang": {
+                "de": "Parkhäuser sind oft wärmer als das Parken an der Straße.",
+                "hu": "A parkolóházak gyakran melegebbek, mint az utcai parkolás.",
+                "ro": "Parcările subterane sunt adesea mai calde decât cele de pe stradă.",
+                "en": "Parking garages are often warmer than street parking."
+              }
+            },
+            {
+              "name": "Parking by the Ebro River",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glätte auf ungestreuten Parkplätzen am Fluss.",
+                "hu": "Ügyeljen a csúszós szakaszokra a folyóparti parkolókban.",
+                "ro": "Atenție la porțiunile alunecoase din parcările de lângă râu.",
+                "en": "Watch out for slippery patches in riverfront parking lots."
+              }
+            },
+            {
+              "name": "Stone Bridge & San Bartolomé",
+              "tip_5lang": {
+                "de": "Die klare Winterluft sorgt für weite Sicht vom Fluss aus.",
+                "hu": "A tiszta téli levegő messzi kilátást biztosít a folyó felől.",
+                "ro": "Aerul curat de iarnă oferă o vizibilitate mare de la râu.",
+                "en": "The clear winter air provides great visibility from the river."
+              }
+            },
+            {
+              "name": "Museum of La Rioja",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Zeit bis zur Dunkelheit im Warmen zu verbringen.",
+                "hu": "Ideális hely a sötétedésig hátralévő idő melegben töltésére.",
+                "ro": "Un loc ideal pentru a petrece timpul până la lăsarea serii la căldură.",
+                "en": "An ideal place to spend the time until dark in the warm."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Frostschutz in der Scheibenwaschanlage.",
+              "Die Parkhäuser in der Innenstadt bieten Schutz vor Kälte.",
+              "Rechnen Sie mit mehr Verkehr bei Dunkelheit und eventueller Glätte.",
+              "Lassen Sie keine Getränke über Nacht im Auto einfrieren."
+            ],
+            "hu": [
+              "Ellenőrizze a fagyállót a szélvédőmosóban.",
+              "A belvárosi parkolóházak védelmet nyújtanak a hideg ellen.",
+              "Számoljon nagyobb forgalommal sötétedés után és esetleges jegesedéssel.",
+              "Ne hagyjon italokat éjszakára az autóban megfagyni."
+            ],
+            "ro": [
+              "Verificați antigelul în lichidul de parbriz.",
+              "Parcările subterane din centru oferă protecție împotriva frigului.",
+              "Anticipați un trafic mai mare după lăsarea serii și posibil polei.",
+              "Nu lăsați băuturi în mașină peste noapte să înghețe."
+            ],
+            "en": [
+              "Check the antifreeze in your windshield washer fluid.",
+              "City center parking garages provide protection from the cold.",
+              "Expect more traffic after dark and watch for potential icy spots.",
+              "Don't leave beverages in the car overnight to freeze."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1488,6 +2088,188 @@
           "Always validate your ticket when you board.",
           "Bus frequencies may be reduced on Sundays and public holidays."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie am Bahnhof und nutzen Sie die Busse, um trocken zum Parlament und zum Cubo del Revellín zu gelangen. Die Busse sind heute Ihr bester Schutz. Mittags steigen Sie in der Nähe der Calle del Laurel aus und genießen Tapas im Trockenen.\n\nNachmittags bringt Sie der Bus zur Kathedrale und später zum Museum von La Rioja. Die Wartezeiten an den Haltestellen lassen sich unter den meist überdachten Unterständen gut überbrücken.\n\nDen Tag beenden Sie mit einer kurzen Fahrt zurück zum Ausgangspunkt. Die beleuchtete Stadt wirkt durch die regennassen Fensterscheiben des Busses besonders malerisch.",
+            "hu": "Induljon a vasútállomástól, és használja a buszokat, hogy szárazon jusson el a Parlamenthez és a Cubo del Revellínhez. A buszok ma a legjobb menedékei. Délben szálljon le a Calle del Laurel közelében, és élvezze a tapasokat szárazon.\n\nDélután a busz elviszi a katedrálishoz, majd később a Rioja Múzeumhoz. A megállókban a várakozási időt a legtöbb helyen fedett várókban töltheti.\n\nA napot egy rövid busszal zárja vissza a kiindulópontra. A kivilágított város a busz esőáztatta ablakain keresztül különösen festői látványt nyújt.",
+            "ro": "Începeți de la gară și folosiți autobuzele pentru a ajunge uscat la Parlament și Cubo del Revellín. Autobuzele sunt azi cel mai bun adăpost. La prânz, coborâți lângă Calle del Laurel și savurați tapas la adăpost.\n\nDupă-amiaza, autobuzul vă duce la Catedrală și apoi la Muzeul La Rioja. Timpul de așteptare în stații poate fi petrecut în siguranță sub adăposturile acoperite.\n\nÎncheiați ziua cu o scurtă cursă înapoi la punctul de plecare. Orașul iluminat pare deosebit de pitoresc prin geamurile umezite de ploaie ale autobuzului.",
+            "en": "Start at the station and use buses to reach the Parliament and Cubo del Revellín dry. Buses are your best shelter today. At noon, get off near Calle del Laurel and enjoy tapas in the dry.\n\nIn the afternoon, the bus takes you to the Cathedral and later to the Museum of La Rioja. Waiting times at stops are manageable under the mostly covered shelters.\n\nEnd your day with a short bus ride back to the starting point. The illuminated city looks particularly picturesque through the rain-streaked windows of the bus."
+          },
+          "stops": [
+            {
+              "name": "Bus stop at the train station",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Wartehalle im Bahnhof für einen trockenen Start.",
+                "hu": "Használja az állomás várócsarnokát a száraz induláshoz.",
+                "ro": "Folosiți sala de așteptare din gară pentru un start uscat.",
+                "en": "Use the station waiting hall for a dry start."
+              }
+            },
+            {
+              "name": "Parliament of La Rioja & Cubo del Revellín",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist nah am Eingang, minimieren Sie Ihre Zeit im Freien.",
+                "hu": "A megálló közel van a bejárathoz, minimalizálja a kint töltött időt.",
+                "ro": "Stația este aproape de intrare, minimizați timpul petrecut afară.",
+                "en": "The stop is close to the entrance; minimize your time outdoors."
+              }
+            },
+            {
+              "name": "Church of San Bartolomé",
+              "tip_5lang": {
+                "de": "Mehrere Buslinien halten in unmittelbarer Nähe dieser historischen Kirche.",
+                "hu": "Számos buszjárat áll meg a történelmi templom közvetlen közelében.",
+                "ro": "Mai multe linii de autobuz opresc în imediata apropiere a bisericii.",
+                "en": "Several bus lines stop in the immediate vicinity of this historic church."
+              }
+            },
+            {
+              "name": "Co-Cathedral and Calle Laurel (Lunch)",
+              "tip_5lang": {
+                "de": "Steigen Sie am 'Muro del Carmen' aus, um den kürzesten Weg zu haben.",
+                "hu": "Szálljon le a 'Muro del Carmen' megállónál a legrövidebb útért.",
+                "ro": "Coborâți la 'Muro del Carmen' pentru cel mai scurt traseu.",
+                "en": "Get off at 'Muro del Carmen' for the shortest walk."
+              }
+            },
+            {
+              "name": "Paseo del Espolón",
+              "tip_5lang": {
+                "de": "Die zentralen Bushaltestellen hier bieten guten Schutz vor Regen.",
+                "hu": "Az itt található központi buszmegállók jó védelmet nyújtanak az eső ellen.",
+                "ro": "Stațiile centrale de autobuz de aici oferă protecție bună contra ploii.",
+                "en": "The central bus stops here offer good protection from the rain."
+              }
+            },
+            {
+              "name": "Museum of La Rioja",
+              "tip_5lang": {
+                "de": "Der Bus hält fast direkt vor der Tür des Museums.",
+                "hu": "A busz szinte közvetlenül a múzeum ajtaja előtt áll meg.",
+                "ro": "Autobuzul oprește aproape direct în fața ușii muzeului.",
+                "en": "The bus stops almost directly in front of the museum door."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Holen Sie sich eine Buskarte, um schnelles Einsteigen zu ermöglichen.",
+              "Die Busse in Logroño sind zuverlässig und beheizt.",
+              "Prüfen Sie die Echtzeit-App, um Wartezeiten im Regen zu vermeiden.",
+              "Die Haltestellen in der Nähe der Calle del Laurel sind oft stark frequentiert."
+            ],
+            "hu": [
+              "Váltson buszkártyát a gyorsabb felszállás érdekében.",
+              "A logroñói buszok megbízhatóak és fűtöttek.",
+              "Ellenőrizze az élő menetrendet, hogy elkerülje az esőben várakozást.",
+              "A Calle del Laurel közeli megállók gyakran zsúfoltak."
+            ],
+            "ro": [
+              "Luați un card de transport pentru a urca mai rapid.",
+              "Autobuzele din Logroño sunt sigure și încălzite.",
+              "Verificați aplicația în timp real pentru a evita așteptarea în ploaie.",
+              "Stațiile de lângă Calle del Laurel sunt adesea aglomerate."
+            ],
+            "en": [
+              "Get a bus card for quicker boarding.",
+              "Logroño's buses are reliable and well-heated.",
+              "Check the real-time app to avoid waiting in the rain.",
+              "Bus stops near Calle del Laurel are often quite busy."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie die Wärme der Stadtbusse für Ihren Winterausflug. Vom Bahnhof geht es zügig zum Parlament. Die Busfahrt bietet eine Panorama-Tour durch die winterliche Stadt. Mittags wärmen Sie sich in der Calle del Laurel auf.\n\nNachmittags führen die Fahrten zur Kathedrale und zum Museum von La Rioja. Die beheizten Fahrzeuge sind eine willkommene Abwechslung zur klaren Außenluft. Die Wege von den Haltestellen sind kurz und effizient.\n\nZum Abendessen in der Altstadt gelangen Sie bequem mit dem Transit, bevor Sie die festlich beleuchteten Straßen auf dem Rückweg zum Bahnhof genießen. Ein warmer Bus ist der ideale Ausklang für einen frostigen Tag.",
+            "hu": "Használja ki a városi buszok melegét a téli kiránduláshoz. Az állomástól gyorsan eljuthat a Parlamenthez. A buszozás panorámaútként is szolgál a téli városban. Délben a Calle del Laurelben melegedhet fel.\n\nDélután a busz elviszi a katedrálishoz és a Rioja Múzeumhoz. A fűtött járművek üdvözlendő váltást jelentenek a kinti hideg levegő után. A megállóktól vezető utak rövidek és hatékonyak.\n\nAz óvárosi vacsorához kényelmesen eljuthat tömegközlekedéssel, mielőtt a vasútállomás felé menet élvezné az ünnepi fényben úszó utcákat.",
+            "ro": "Folosiți căldura autobuzelor urbane pentru excursia de iarnă. De la gară ajungeți rapid la Parlament. Cursa cu autobuzul oferă un tur panoramic prin orașul hibernal. La prânz, încălziți-vă în Calle del Laurel.\n\nDupă-amiaza, cursele vă duc la Catedrală și la Muzeul La Rioja. Vehiculele încălzite sunt o schimbare binevenită față de aerul rece de afară. Traseele de la stații sunt scurte și eficiente.\n\nAjungeți confortabil la cină cu transportul public, înainte de a admira străzile iluminate festiv în drum spre gară. Un autobuz cald este finalul ideal pentru o zi geroasă.",
+            "en": "Utilize the warmth of city buses for your winter excursion. From the station, you'll reach the Parliament quickly. The bus ride doubles as a panoramic tour of the wintry city. At noon, warm up in Calle del Laurel.\n\nIn the afternoon, transit takes you to the Cathedral and the Museum of La Rioja. The heated vehicles are a welcome change from the crisp outside air. Walks from the stops are short and efficient.\n\nReach your old town dinner comfortably by transit before enjoying the festively lit streets on your way back to the station. A warm bus is the ideal way to end a frosty day."
+          },
+          "stops": [
+            {
+              "name": "Bus stop at the train station",
+              "tip_5lang": {
+                "de": "Warten Sie im beheizten Bahnhofsgebäude auf Ihren Bus.",
+                "hu": "Várjon a buszra a fűtött állomásépületben.",
+                "ro": "Așteptați autobuzul în clădirea încălzită a gării.",
+                "en": "Wait for your bus inside the heated station building."
+              }
+            },
+            {
+              "name": "Parliament of La Rioja & Cubo del Revellín",
+              "tip_5lang": {
+                "de": "Die Fahrt hierher bietet einen guten Überblick über die Stadtmauer.",
+                "hu": "Az ide vezető út jó rálátást biztosít a városfalra.",
+                "ro": "Drumul până aici oferă o vedere bună asupra zidurilor cetății.",
+                "en": "The ride here offers a good overview of the city walls."
+              }
+            },
+            {
+              "name": "Church of San Bartolomé",
+              "tip_5lang": {
+                "de": "Eine Haltestelle direkt an der Calle Portales ist im Winter ideal.",
+                "hu": "A közvetlenül a Calle Portalesnél lévő megálló télen ideális.",
+                "ro": "O stație direct pe Calle Portales este ideală iarna.",
+                "en": "A stop directly on Calle Portales is ideal in winter."
+              }
+            },
+            {
+              "name": "Co-Cathedral and Calle Laurel (Lunch)",
+              "tip_5lang": {
+                "de": "Genießen Sie den kurzen Spaziergang durch die belebten Gassen.",
+                "hu": "Élvezze a rövid sétát a nyüzsgő utcákon át.",
+                "ro": "Bucurați-vă de plimbarea scurtă prin străzile pline de viață.",
+                "en": "Enjoy the short walk through the lively alleys."
+              }
+            },
+            {
+              "name": "Paseo del Espolón",
+              "tip_5lang": {
+                "de": "Beobachten Sie das winterliche Treiben im Park bequem von der Haltestelle.",
+                "hu": "Figyelje a park téli nyüzsgését kényelmesen a megállóból.",
+                "ro": "Observați activitatea de iarnă din parc confortabil din stație.",
+                "en": "Watch the wintry bustle of the park comfortably from the stop."
+              }
+            },
+            {
+              "name": "Museum of La Rioja",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle bietet eine gute Verbindung zurück zum Bahnhof.",
+                "hu": "A buszmegálló jó összeköttetést biztosít vissza a vasútállomáshoz.",
+                "ro": "Stația de autobuz oferă o conexiune bună înapoi spre gară.",
+                "en": "The bus stop provides a good connection back to the train station."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse fahren im Winter oft pünktlicher, da weniger Radfahrer unterwegs sind.",
+              "Nutzen Sie die Wartezeit, um sich mit einem Kaffee to-go aufzuwärmen.",
+              "Die Abendbeleuchtung ist vom Oberdeck (falls vorhanden) besonders schön.",
+              "Tragen Sie rutschfeste Sohlen für den Weg zur Haltestelle."
+            ],
+            "hu": [
+              "A buszok télen gyakran pontosabbak, mert kevesebb a kerékpáros az utakon.",
+              "Használja ki a várakozást egy elviteles kávéval való felmelegedésre.",
+              "Az esti kivilágítás különösen szép a busz ablakából.",
+              "Viseljen csúszásmentes talpú cipőt a megállóhoz vezető úton."
+            ],
+            "ro": [
+              "Autobuzele sunt adesea mai punctuale iarna, fiind mai puțini bicicliști.",
+              "Folosiți timpul de așteptare pentru a vă încălzi cu o cafea la pachet.",
+              "Iluminatul de seară este deosebit de frumos de la fereastra autobuzului.",
+              "Purtați tălpi antiderapante pentru drumul spre stație."
+            ],
+            "en": [
+              "Buses often run more punctually in winter with fewer cyclists on the road.",
+              "Use waiting time to warm up with a coffee to-go.",
+              "The evening lighting is particularly beautiful from the bus window.",
+              "Wear non-slip soles for the walk to the bus stop."
+            ]
+          }
+        }
       }
     }
   }

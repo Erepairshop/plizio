@@ -362,6 +362,188 @@
           "A reusable water bottle is useful.",
           "Geneva is a short public transport ride away if you wish to explore more."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen beginnt im Meyrin-Village mit Kopfsteinpflaster-Charme. Mittags bietet die Visitation-Kirche trockene Besinnlichkeit. Am Nachmittag ist das Vivarium der ideale Zufluchtsort vor dem Wetter. Der Abend endet gemütlich im Forum Meyrin.",
+            "hu": "Esős reggel az ófalu macskaköves utcáin, esernyő kötelező. Délben a látogatás-templom nyújt békés menedéket. Délután a Vivárium fedett hüllőháza a legbiztosabb program, este pedig a színház kulturális tereiben pihenhetünk meg.",
+            "ro": "O dimineață ploioasă în satul vechi, cu farmecul pavajului umed. La prânz, biserica oferă un refugiu liniștit. După-amiaza, Vivarium este destinația ideală pentru a scăpa de ploaie, iar seara se încheie confortabil la Forum Meyrin.",
+            "en": "A rainy morning starts in Meyrin-Village with damp cobblestone charm. At noon, the Visitation Church provides a dry sanctuary. In the afternoon, the Vivarium is the perfect indoor escape, and the evening ends cozily at Forum Meyrin."
+          },
+          "stops": [
+            {
+              "name": "Meyrin-Village",
+              "tip_5lang": {
+                "de": "Vorsicht auf rutschigem Kopfsteinpflaster.",
+                "hu": "Vigyázat, a macskakő csúszós lehet az esőben.",
+                "ro": "Atenție la pavajul alunecos pe ploaie.",
+                "en": "Caution: cobblestones can be slippery when wet."
+              }
+            },
+            {
+              "name": "Church of the Visitation",
+              "tip_5lang": {
+                "de": "Idealer Ort, um kurz im Trockenen zu verweilen.",
+                "hu": "Tökéletes hely egy rövid száraz pihenőre.",
+                "ro": "Locul ideal pentru un scurt popas la adăpost.",
+                "en": "Ideal place for a quick break in the dry."
+              }
+            },
+            {
+              "name": "Parc de la Mairie",
+              "tip_5lang": {
+                "de": "Dichte Baumkronen bieten natürlichen Regenschutz.",
+                "hu": "A sűrű lombok természetes védelmet nyújtanak.",
+                "ro": "Copacii deși oferă o protecție naturală.",
+                "en": "Thick foliage provides some natural rain shelter."
+              }
+            },
+            {
+              "name": "Jardin botanique alpin",
+              "tip_5lang": {
+                "de": "Besuchen Sie bei starkem Regen die Felsengärten schnell.",
+                "hu": "Erős esőben érdemes gyorsan bejárni a kerti utakat.",
+                "ro": "Vizitați rapid zonele deschise dacă plouă torențial.",
+                "en": "Visit open areas quickly if it starts pouring."
+              }
+            },
+            {
+              "name": "Vivarium de Meyrin",
+              "tip_5lang": {
+                "de": "Vollständig überdacht und angenehm warm.",
+                "hu": "Teljesen fedett és kellemesen meleg helyszín.",
+                "ro": "Locație complet acoperită și plăcut de caldă.",
+                "en": "Fully indoor and pleasantly warm location."
+              }
+            },
+            {
+              "name": "Théâtre Forum Meyrin",
+              "tip_5lang": {
+                "de": "Das Foyer bietet viel Platz zum Trocknen.",
+                "hu": "A tágas előcsarnok kiváló hely a száradásra.",
+                "ro": "Foaierul oferă mult spațiu pentru a vă usca.",
+                "en": "The foyer offers plenty of space to dry off."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für das Meyrin-Village.",
+              "Das Vivarium ist der beste Ort bei Starkregen.",
+              "Nutzen Sie die Arkaden im Forum Meyrin.",
+              "Die Kirche ist ein wunderbarer, stiller Rückzugsort."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt az ófalu macskakövei miatt.",
+              "A Vivárium a legjobb választás tartós esőben.",
+              "Használja a Forum Meyrin árkádjait menedékként.",
+              "A templom kiváló csendes helyszín a melegedésre."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru satul vechi.",
+              "Vivarium este cea mai bună opțiune pe ploaie persistentă.",
+              "Folosiți arcadele de la Forum Meyrin ca adăpost.",
+              "Biserica este un loc liniștit și uscat excelent."
+            ],
+            "en": [
+              "Wear waterproof shoes for the old village cobblestones.",
+              "The Vivarium is your best bet during steady rain.",
+              "Use the arcades at Forum Meyrin for shelter.",
+              "The church is an excellent quiet spot to stay dry."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frostiger Wintermorgen im verschneiten Meyrin-Village. Mittags wärmt die Stille der Kirche Geist und Körper. Nachmittags ist die tropische Hitze im Vivarium ein purer Genuss. Der frühe Abend wird von den Lichtern des Theaters hell erleuchtet.",
+            "hu": "Zúzmarás téli reggel a fehérbe öltözött ófaluban. Délben a templom csendje melengeti a testet és lelket. Délután a Vivárium trópusi klímája igazi felüdülés a hidegben. Az estét a színház fényeinek melegsége zárja.",
+            "ro": "O dimineață de iarnă geroasă în satul vechi înzăpezit. La prânz, liniștea bisericii încălzește trupul și sufletul. După-amiaza, căldura tropicală din Vivarium este o binecuvântare. Seara este luminată de centrul cultural.",
+            "en": "A frosty winter morning in the snow-dusted old village. At noon, the church's silence warms both body and soul. The afternoon's highlight is the tropical heat in the Vivarium. The early evening is brightened by the theater lights."
+          },
+          "stops": [
+            {
+              "name": "Meyrin-Village",
+              "tip_5lang": {
+                "de": "Morgens kann es auf den Wegen glatt sein.",
+                "hu": "Reggelente az utak jegesek, csúszósak lehetnek.",
+                "ro": "Dimineața, drumurile pot fi înghețate și alunecoase.",
+                "en": "Paths can be icy and slippery in the morning."
+              }
+            },
+            {
+              "name": "Church of the Visitation",
+              "tip_5lang": {
+                "de": "Ein ruhiger, meist gut temperierter Rückzugsort.",
+                "hu": "Csendes és többnyire jól temperált pihenőhely.",
+                "ro": "Un loc de odihnă liniștit și de obicei bine încălzit.",
+                "en": "A quiet and usually well-tempered resting place."
+              }
+            },
+            {
+              "name": "Parc de la Mairie",
+              "tip_5lang": {
+                "de": "Wunderschön, wenn die Statuen verschneit sind.",
+                "hu": "Gyönyörű látvány a havas szobrok és padok közt.",
+                "ro": "Peisaj superb printre statuile înzăpezite.",
+                "en": "Beautiful scenery among the snow-covered statues."
+              }
+            },
+            {
+              "name": "Jardin botanique alpin",
+              "tip_5lang": {
+                "de": "Die Winterflora bietet einen spröden Charme.",
+                "hu": "A téli flóra sajátos, deres bájt áraszt.",
+                "ro": "Flora de iarnă oferă un farmec aparte, înghețat.",
+                "en": "The winter flora offers a unique, brittle charm."
+              }
+            },
+            {
+              "name": "Vivarium de Meyrin",
+              "tip_5lang": {
+                "de": "Die tropischen Temperaturen sind ideal zum Aufwärmen.",
+                "hu": "A trópusi hőmérséklet tökéletes a felmelegedésre.",
+                "ro": "Temperaturile tropicale sunt ideale pentru încălzire.",
+                "en": "The tropical temperatures are ideal for warming up."
+              }
+            },
+            {
+              "name": "Théâtre Forum Meyrin",
+              "tip_5lang": {
+                "de": "Ab 17:00 Uhr sorgt die Beleuchtung für Stimmung.",
+                "hu": "17 óra után a díszkivilágítás adja meg az alaphangot.",
+                "ro": "După ora 17:00, iluminatul creează o atmosferă plăcută.",
+                "en": "From 5 PM, the festive lighting sets the mood."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Planen Sie das Vivarium für die kälteste Tageszeit ein.",
+              "Die Sonne geht im Winter gegen 17:00 Uhr unter.",
+              "Tragen Sie warme Kleidung für die Dorfbesichtigung.",
+              "Genießen Sie die klare Luft im Botanischen Garten."
+            ],
+            "hu": [
+              "A Viváriumot a nap leghidegebb óráira időzítse.",
+              "Télen a nap már 17 óra körül nyugovóra tér.",
+              "Öltözzön rétegesen a falusi séta során.",
+              "Élvezze a friss, tiszta levegőt a botanikus kertben."
+            ],
+            "ro": [
+              "Programați vizita la Vivarium pentru cele mai reci ore.",
+              "Iarna, soarele apune în jurul orei 17:00.",
+              "Îmbrăcați-vă gros pentru plimbarea prin sat.",
+              "Bucurați-vă de aerul proaspăt din grădina botanică."
+            ],
+            "en": [
+              "Schedule the Vivarium for the coldest part of the day.",
+              "The sun sets around 5 PM during the winter months.",
+              "Dress in warm layers for the village exploration.",
+              "Enjoy the crisp, clear air in the botanical garden."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -742,6 +924,206 @@
           "Carry a lock for your bike to secure it at stops.",
           "Geneva's public transport often allows bikes outside of peak hours."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein nasser Start am CERN-Globe, wo die Kuppel silbern im Regen glänzt. Mittags führt die Fahrt durch das Meyrin-Village zu den botanischen Gärten. Nachmittags ist das Vivarium ein willkommenes trockenes Ziel, bevor der Tag am Forum Meyrin endet.",
+            "hu": "Vizes kezdés a CERN Globe-nál, ahol az ezüst kupola csillog az esőben. Délben az út az ófalun át a botanikus kertig vezet. Délután a Vivárium száraz menedéket nyújt, a nap pedig a Forum Meyrin kulturális központjánál zárul.",
+            "ro": "Un început umed la CERN Globe, unde cupola argintie strălucește în ploaie. La prânz, traseul trece prin sat spre grădina botanică. După-amiaza, Vivarium este o destinație uscată binevenită, încheind ziua la Forum Meyrin.",
+            "en": "A wet start at the CERN Globe, where the dome gleams in the rain. At noon, the route leads through the village to the botanical gardens. In the afternoon, the Vivarium is a welcome dry stop, ending the day at Forum Meyrin."
+          },
+          "stops": [
+            {
+              "name": "CERN Globe of Science and Innovation",
+              "tip_5lang": {
+                "de": "Überdachte Fahrradständer direkt am Eingang vorhanden.",
+                "hu": "Fedett biciklitárolók találhatók közvetlenül a bejáratnál.",
+                "ro": "Suporturi de biciclete acoperite chiar la intrare.",
+                "en": "Covered bike racks are available right at the entrance."
+              }
+            },
+            {
+              "name": "Microcosm",
+              "tip_5lang": {
+                "de": "Ideale Zeit für eine längere Indoor-Pause.",
+                "hu": "Ideális időpont egy hosszabb fedett szünetre.",
+                "ro": "Momentul ideal pentru o pauză prelungită la interior.",
+                "en": "Ideal time for an extended indoor break."
+              }
+            },
+            {
+              "name": "Meyrin-Village",
+              "tip_5lang": {
+                "de": "Vorsicht bei den Straßenbahnschienen im Regen.",
+                "hu": "Vigyázat a villamossínekkel az esős aszfalton.",
+                "ro": "Atenție la șinele de tramvai pe carosabilul umed.",
+                "en": "Watch out for tram tracks on wet roads."
+              }
+            },
+            {
+              "name": "Jardin botanique alpin",
+              "tip_5lang": {
+                "de": "Die Wege können bei Nässe etwas schlammig sein.",
+                "hu": "Az ösvények sárgulhatnak vagy csúszhatnak esőben.",
+                "ro": "Potecile pot fi noroioase pe timp de ploaie.",
+                "en": "Paths can be slightly muddy in wet conditions."
+              }
+            },
+            {
+              "name": "Vivarium de Meyrin",
+              "tip_5lang": {
+                "de": "Sicheres Abstellen der Räder in der Nähe möglich.",
+                "hu": "A közelben biztonságosan lezárható a kerékpár.",
+                "ro": "Posibilitate de parcare sigură în apropiere.",
+                "en": "Safe bike parking is possible nearby."
+              }
+            },
+            {
+              "name": "Théâtre Forum Meyrin",
+              "tip_5lang": {
+                "de": "Großzügige Arkaden schützen beim Abschließen.",
+                "hu": "A tágas árkádok védenek a kerékpár lezárásakor.",
+                "ro": "Arcadele generoase oferă protecție la parcare.",
+                "en": "Wide arcades offer shelter while locking up."
+              }
+            },
+            {
+              "name": "Parc de la Mairie",
+              "tip_5lang": {
+                "de": "Asphaltierte Wege sind auch bei Regen gut fahrbar.",
+                "hu": "Az aszfaltozott utak esőben is jól tekerhetők.",
+                "ro": "Alei asfaltate, accesibile ușor chiar și pe ploaie.",
+                "en": "Asphalt paths are easy to ride even in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine komplette Regenmontur inkl. Regenhose.",
+              "Vermeiden Sie das Bremsen direkt auf den Markierungen.",
+              "CERN bietet erstklassige, trockene Ausstellungen.",
+              "Das Forum Meyrin hat trockene Aufenthaltsbereiche."
+            ],
+            "hu": [
+              "Viseljen teljes esőfelszerelést, nadrággal együtt.",
+              "Kerülje a fékezést közvetlenül az útburkolati jeleken.",
+              "A CERN kiváló, fedett kiállításokat kínál.",
+              "A Forum Meyrin tágas belső terei segítenek a száradásban."
+            ],
+            "ro": [
+              "Purtați echipament complet de ploaie, inclusiv pantaloni.",
+              "Evitați frânarea bruscă pe marcajele rutiere.",
+              "CERN oferă expoziții excelente la interior.",
+              "Forum Meyrin are zone de așteptare uscate."
+            ],
+            "en": [
+              "Wear full rain gear including waterproof trousers.",
+              "Avoid braking directly on road markings.",
+              "CERN offers top-tier indoor exhibitions.",
+              "Forum Meyrin has spacious dry common areas."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Start am CERN Globe. Die winterliche Radtour führt durch die klaren Straßen von Meyrin. Mittags wärmen wir uns in den Ausstellungen auf, bevor das Vivarium tropische Hitze bietet. Der Tag endet im Forum Meyrin unter dem Sternenhimmel.",
+            "hu": "Deres kezdés a CERN Globe-nál. A téli biciklitúra Meyrin tiszta utcáin halad át. Délben a kiállításokon melegszünk fel, mielőtt a Vivárium trópusi klímát kínálna. A nap a Forum Meyrin alatt, a csillagos égbolt fényében zárul.",
+            "ro": "Un început geros la CERN Globe. Turul cu bicicleta trece prin străzile curate ale orașului. La prânz ne încălzim în expoziții, înainte de căldura de la Vivarium. Ziua se încheie la Forum Meyrin sub cerul înstelat.",
+            "en": "A frosty start at the CERN Globe. This winter bike tour crosses the crisp streets of Meyrin. At noon, we warm up in the exhibitions before the Vivarium offers tropical heat. The day ends at Forum Meyrin under the starlight."
+          },
+          "stops": [
+            {
+              "name": "CERN Globe of Science and Innovation",
+              "tip_5lang": {
+                "de": "Die Metallbrücken können morgens glatt sein.",
+                "hu": "A fém hidak és rámpák reggelente jegesek lehetnek.",
+                "ro": "Podurile metalice pot fi alunecoase dimineața.",
+                "en": "Metal bridges can be slippery in the morning."
+              }
+            },
+            {
+              "name": "Microcosm",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe für dicke Winterjacken.",
+                "hu": "Használja a ruhatárat a vastag téli kabátokhoz.",
+                "ro": "Folosiți garderoba pentru hainele groase de iarnă.",
+                "en": "Use the cloakroom for heavy winter jackets."
+              }
+            },
+            {
+              "name": "Meyrin-Village",
+              "tip_5lang": {
+                "de": "Die Brunnen im Dorf sind oft kunstvoll vereist.",
+                "hu": "A falu kútjai ilyenkor gyakran művészien befagynak.",
+                "ro": "Fântânile din sat sunt adesea înghețate spectaculos.",
+                "en": "Village fountains are often beautifully frozen."
+              }
+            },
+            {
+              "name": "Jardin botanique alpin",
+              "tip_5lang": {
+                "de": "Kurzer Stopp reicht, um die Winterstimmung zu fassen.",
+                "hu": "Egy rövid megálló elég a téli hangulat átéléséhez.",
+                "ro": "Un popas scurt e suficient pentru atmosfera de iarnă.",
+                "en": "A short stop is enough to catch the winter vibe."
+              }
+            },
+            {
+              "name": "Vivarium de Meyrin",
+              "tip_5lang": {
+                "de": "Ein Highlight, um die Kälte komplett zu vergessen.",
+                "hu": "A legjobb hely a hideg teljes elfelejtésére.",
+                "ro": "Punctul culminant pentru a uita complet de frig.",
+                "en": "The highlight to completely forget the cold."
+              }
+            },
+            {
+              "name": "Théâtre Forum Meyrin",
+              "tip_5lang": {
+                "de": "Warmer Kakao im Café ist jetzt ein Muss.",
+                "hu": "Egy forró kakaó a kávézóban most kötelező.",
+                "ro": "O ciocolată caldă la cafenea este obligatorie.",
+                "en": "A hot cocoa at the cafe is a must now."
+              }
+            },
+            {
+              "name": "Parc de la Mairie",
+              "tip_5lang": {
+                "de": "Die Wege werden bei Eis zuverlässig geräumt.",
+                "hu": "Jegesedés esetén az utakat megbízhatóan takarítják.",
+                "ro": "Aleile sunt curățate prompt în caz de îngheț.",
+                "en": "Paths are reliably cleared even in icy conditions."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Windstopper-Handschuhe und Thermo-Socken.",
+              "Prüfen Sie den Reifendruck; etwas weniger bietet mehr Grip.",
+              "Die Batterien von E-Bikes entladen bei Kälte schneller.",
+              "Nutzen Sie die Mittagssonne für die Außenstrecken."
+            ],
+            "hu": [
+              "Viseljen szélálló kesztyűt és termozoknit.",
+              "Ellenőrizze a guminyomást; a puhább gumi jobban tapad.",
+              "Az elektromos kerékpárok akkuja gyorsabban merül.",
+              "A kinti szakaszokat a déli napsütésre időzítse."
+            ],
+            "ro": [
+              "Purtați mănuși rezistente la vânt și șosete termice.",
+              "Verificați presiunea; puțin mai mică oferă aderență.",
+              "Bateriile bicicletelor electrice se descarcă mai repede.",
+              "Folosiți soarele de la prânz pentru segmentele externe."
+            ],
+            "en": [
+              "Wear windstopper gloves and thermal socks.",
+              "Check tire pressure; slightly lower gives better grip.",
+              "E-bike batteries discharge faster in the cold.",
+              "Use the midday sun for the outdoor segments."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1098,6 +1480,188 @@
           "Be mindful of speed limits, which are strictly enforced.",
           "Plan your route in advance to avoid traffic."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regnerische Fahrt zum CERN, wo das Parken direkt vor den Ausstellungen den Tag erleichtert. Mittags erkunden wir das Meyrin-Village. Nachmittags besuchen wir das Vivarium und den Botanischen Garten, bevor wir den Tag im Forum Meyrin gemütlich ausklingen lassen.",
+            "hu": "Esős autózás a CERN-hez, ahol a közvetlen parkolás megkönnyíti a napot. Délben az ófalut fedezzük fel. Délután a Vivárium és a botanikus kert következik, majd a napot a Forum Meyrin kulturális falai között zárjuk.",
+            "ro": "Drum ploios spre CERN, unde parcarea chiar în față ușurează vizita. La prânz explorăm satul vechi. După-amiaza vizităm Vivarium și grădina botanică, încheind ziua la Forum Meyrin.",
+            "en": "A rainy drive to CERN, where parking right in front of the exhibits makes things easy. At noon, we explore Meyrin-Village. In the afternoon, we visit the Vivarium and Botanical Garden, ending the day at Forum Meyrin."
+          },
+          "stops": [
+            {
+              "name": "CERN Globe & Microcosm (Cluster)",
+              "tip_5lang": {
+                "de": "Kostenlose Parkplätze direkt gegenüber vom Globe.",
+                "hu": "Ingyenes parkolók közvetlenül a Globe-bal szemben.",
+                "ro": "Parcare gratuită chiar vizavi de Globe.",
+                "en": "Free parking available directly across from the Globe."
+              }
+            },
+            {
+              "name": "Microcosm",
+              "tip_5lang": {
+                "de": "Großer Indoor-Bereich, ideal bei starkem Regen.",
+                "hu": "Tágas belső tér, ideális szakadó esőben.",
+                "ro": "Spațiu interior vast, ideal pe ploaie torențială.",
+                "en": "Large indoor area, ideal during heavy rain."
+              }
+            },
+            {
+              "name": "Meyrin-Village (Cluster)",
+              "tip_5lang": {
+                "de": "Blaue Zone Parkplätze im Dorfkern nutzen.",
+                "hu": "Használja a kék zónás parkolókat a faluközpontban.",
+                "ro": "Folosiți locurile din zona albastră din centrul satului.",
+                "en": "Use blue zone parking spots in the village center."
+              }
+            },
+            {
+              "name": "Parc de la Mairie",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Parkplatz Mairie möglich.",
+                "hu": "Rövid séta a Mairie parkolójától.",
+                "ro": "Scurtă plimbare de la parcarea Mairie.",
+                "en": "Short walk possible from the Mairie parking lot."
+              }
+            },
+            {
+              "name": "Jardin botanique alpin (Cluster)",
+              "tip_5lang": {
+                "de": "Parkhaus 'Meyrin Centre' als trockene Alternative.",
+                "hu": "A 'Meyrin Centre' parkolóháza száraz alternatíva.",
+                "ro": "Parcarea 'Meyrin Centre' ca alternativă uscată.",
+                "en": "Parking garage 'Meyrin Centre' is a dry alternative."
+              }
+            },
+            {
+              "name": "Vivarium de Meyrin",
+              "tip_5lang": {
+                "de": "Parkplätze direkt am Vivarium vorhanden.",
+                "hu": "Parkolók közvetlenül a Vivárium mellett.",
+                "ro": "Locuri de parcare disponibile chiar la Vivarium.",
+                "en": "Parking spots available directly at the Vivarium."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Parkhäuser für trockene Übergänge.",
+              "Vermeiden Sie die Rushhour rund um das CERN.",
+              "Lassen Sie den Schirm griffbereit im Fahrgastraum.",
+              "Die Sicht am Globe kann bei Starkregen eingeschränkt sein."
+            ],
+            "hu": [
+              "Használja a parkolóházakat a száraz átjutáshoz.",
+              "Kerülje a csúcsforgalmat a CERN környékén.",
+              "Tartsa az esernyőt kéznél az utastérben.",
+              "Erős esőben a kilátás korlátozott lehet a Globe-nál."
+            ],
+            "ro": [
+              "Folosiți parcările etajate pentru tranzit uscat.",
+              "Evitați orele de vârf în jurul CERN.",
+              "Păstrați umbrela la îndemână în mașină.",
+              "Vizibilitatea la Globe poate fi redusă pe ploaie grea."
+            ],
+            "en": [
+              "Use parking garages for dry transitions between stops.",
+              "Avoid rush hour traffic around the CERN area.",
+              "Keep your umbrella handy inside the car.",
+              "Visibility at the Globe can be limited during heavy rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frostige Fahrt durch das winterliche Meyrin. Der beheizte Wagen macht den Wechsel zwischen CERN und dem Village komfortabel. Mittags besuchen wir die Museen, nachmittags bietet das Vivarium tropische Wärme. Der Tag endet glanzvoll am Forum Meyrin.",
+            "hu": "Deres autózás a téli Meyrinben. A fűtött autó kényelmessé teszi a váltást a CERN és az ófalu között. Délben a múzeumokat látogatjuk, délután a Vivárium trópusi meleget ad. A nap fényesen zárul a Forum Meyrin-nél.",
+            "ro": "Drum geros prin Meyrin-ul de iarnă. Mașina încălzită face tranzitul între CERN și sat foarte confortabil. La prânz vizităm muzeele, iar seara se încheie glorios la Forum Meyrin.",
+            "en": "A frosty drive through wintery Meyrin. The heated car makes moving between CERN and the village comfortable. At noon we visit the museums, and the afternoon brings tropical warmth at the Vivarium. The day ends brilliantly at Forum Meyrin."
+          },
+          "stops": [
+            {
+              "name": "CERN Globe & Microcosm (Cluster)",
+              "tip_5lang": {
+                "de": "Parkplatz kann morgens vereist sein.",
+                "hu": "A parkoló reggelente jeges lehet.",
+                "ro": "Parcarea poate fi înghețată dimineața.",
+                "en": "The parking lot can be icy in the morning."
+              }
+            },
+            {
+              "name": "Microcosm",
+              "tip_5lang": {
+                "de": "Lassen Sie Wintermäntel im Auto für mehr Komfort.",
+                "hu": "Hagyja a télikabátokat az autóban a kényelemért.",
+                "ro": "Lăsați haina în mașină pentru confort în interior.",
+                "en": "Leave heavy coats in the car for better indoor comfort."
+              }
+            },
+            {
+              "name": "Meyrin-Village (Cluster)",
+              "tip_5lang": {
+                "de": "Vorsicht in engen Gassen bei Schneeglätte.",
+                "hu": "Vigyázat a szűk utcákban havas csúszósság esetén.",
+                "ro": "Atenție în străzile înguste pe zăpadă.",
+                "en": "Be careful in narrow streets if it is snowy."
+              }
+            },
+            {
+              "name": "Parc de la Mairie",
+              "tip_5lang": {
+                "de": "Parkplatz wird meist schnell vom Schnee geräumt.",
+                "hu": "A parkolót általában gyorsan megtisztítják a hótól.",
+                "ro": "Parcarea este curățată de obicei rapid de zăpadă.",
+                "en": "The parking lot is usually cleared of snow quickly."
+              }
+            },
+            {
+              "name": "Jardin botanique alpin (Cluster)",
+              "tip_5lang": {
+                "de": "Tiefgarage Meyrin Centre ist frostfrei.",
+                "hu": "A Meyrin Centre mélygarázsa fagymentes.",
+                "ro": "Parcarea subterană Meyrin Centre nu îngheață.",
+                "en": "Meyrin Centre underground parking is frost-free."
+              }
+            },
+            {
+              "name": "Vivarium de Meyrin",
+              "tip_5lang": {
+                "de": "Kurzer Weg von der Tür zum warmen Innenraum.",
+                "hu": "Csak pár lépés az ajtótól a meleg belső térig.",
+                "ro": "Doar câțiva pași de la ușă până la interiorul cald.",
+                "en": "Just a few steps from the door to the warm interior."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Frostschutz in der Waschanlage.",
+              "Vermeiden Sie das Parken unter schneebeladenen Bäumen.",
+              "Nutzen Sie die Sitzheizung für die kurzen Etappen.",
+              "Die Parkhäuser bieten Schutz vor gefrierendem Regen."
+            ],
+            "hu": [
+              "Ellenőrizze a fagyállót a szélvédőmosóban.",
+              "Ne parkoljon hóval terhelt fák alá.",
+              "Használja az ülésfűtést a rövid szakaszokon.",
+              "A parkolóházak védenek az ónos esőtől."
+            ],
+            "ro": [
+              "Verificați lichidul de parbriz antigel.",
+              "Evitați parcarea sub copaci încărcați cu zăpadă.",
+              "Folosiți încălzirea în scaune pentru etapele scurte.",
+              "Parcările etajate oferă protecție contra înghețului."
+            ],
+            "en": [
+              "Check the antifreeze in your windshield washer.",
+              "Avoid parking under snow-laden trees.",
+              "Use seat heating for the short segments.",
+              "Parking garages provide protection from freezing rain."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1454,6 +2018,188 @@
           "Download the TPG app for real-time schedules.",
           "Buses and trams are punctual, so plan accordingly."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit der Tram zum CERN, wo der Globe auch im Regen majestätisch wirkt. Mittags bringt uns der Bus ins Meyrin-Village. Nachmittags besuchen wir das Vivarium und das Forum Meyrin, während wir in den modernen Stationen trocken auf den Anschluss warten.",
+            "hu": "Villamossal a CERN-hez, ahol a Globe esőben is méltóságteljes. Délben busz visz az ófaluba. Délután a Vivárium és a Forum Meyrin következik, miközben a modern megállókban szárazon várhatunk a csatlakozásra.",
+            "ro": "Cu tramvaiul la CERN, unde Globe arată maiestuos și pe ploaie. La prânz bus-ul ne duce în sat. După-amiaza vizităm Vivarium și Forum Meyrin, așteptând conexiunile la adăpost în stațiile moderne.",
+            "en": "By tram to CERN, where the Globe looks majestic even in the rain. At noon, the bus takes us to Meyrin-Village. In the afternoon, we visit the Vivarium and Forum Meyrin, staying dry in modern shelters while waiting for connections."
+          },
+          "stops": [
+            {
+              "name": "CERN (Cluster)",
+              "tip_5lang": {
+                "de": "Tramstation direkt vor dem Globe ist gut überdacht.",
+                "hu": "A villamosmegálló a Globe előtt jól fedett.",
+                "ro": "Stația de tramvai din fața Globe este bine acoperită.",
+                "en": "The tram station in front of the Globe is well-sheltered."
+              }
+            },
+            {
+              "name": "Microcosm",
+              "tip_5lang": {
+                "de": "Kurzer, trockener Fußweg von der Haltestelle.",
+                "hu": "Rövid, száraz gyalogút a megállótól.",
+                "ro": "Drum scurt și uscat de la stația de transport.",
+                "en": "Short, dry walking path from the transit stop."
+              }
+            },
+            {
+              "name": "Meyrin-Village (Cluster)",
+              "tip_5lang": {
+                "de": "Buslinie 57 hält zentral im alten Dorfkern.",
+                "hu": "Az 57-es busz központilag áll meg az ófaluban.",
+                "ro": "Autobuzul 57 oprește central în vatra satului.",
+                "en": "Bus 57 stops centrally in the old village core."
+              }
+            },
+            {
+              "name": "Church of the Visitation",
+              "tip_5lang": {
+                "de": "Nur 2 Minuten Fußweg von der Bushaltestelle.",
+                "hu": "Mindössze 2 perc séta a buszmegállótól.",
+                "ro": "Doar 2 minute de mers pe jos de la autobuz.",
+                "en": "Only a 2-minute walk from the bus stop."
+              }
+            },
+            {
+              "name": "Théâtre Forum Meyrin",
+              "tip_5lang": {
+                "de": "Tram 18 hält fast direkt vor der Tür.",
+                "hu": "A 18-as villamos szinte az ajtó előtt áll meg.",
+                "ro": "Tramvaiul 18 oprește aproape chiar în față.",
+                "en": "Tram 18 stops almost right in front of the door."
+              }
+            },
+            {
+              "name": "Jardin botanique alpin",
+              "tip_5lang": {
+                "de": "Die Station 'Jardin Botanique' bietet Regenschutz.",
+                "hu": "A 'Jardin Botanique' megálló véd az esőtől.",
+                "ro": "Stația 'Jardin Botanique' oferă adăpost contra ploii.",
+                "en": "The 'Jardin Botanique' station provides rain shelter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die TPG-App für Echtzeit-Updates.",
+              "Fast alle Haltestellen in Meyrin sind überdacht.",
+              "Die Tram 18 fährt in kurzen Abständen.",
+              "In der Tram bleibt Ihre Kleidung zuverlässig trocken."
+            ],
+            "hu": [
+              "Használja a TPG appot a valós idejű menetrendhez.",
+              "Meyrinben szinte minden megálló fedett.",
+              "A 18-as villamos gyakran közlekedik.",
+              "A villamoson az öltözete biztosan száraz marad."
+            ],
+            "ro": [
+              "Folosiți aplicația TPG pentru actualizări în timp real.",
+              "Aproape toate stațiile din Meyrin sunt acoperite.",
+              "Tramvaiul 18 circulă la intervale scurte.",
+              "În tramvai, hainele rămân garantat uscate."
+            ],
+            "en": [
+              "Use the TPG app for real-time transit updates.",
+              "Almost all stops in Meyrin are covered.",
+              "Tram 18 runs at very frequent intervals.",
+              "Your clothes will stay reliably dry on the tram."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterlicher Start mit der Tram 18 zum CERN. Der Wechsel zwischen den Stationen ist kurz und effizient. Mittags wärmen wir uns in den Ausstellungen, nachmittags im tropischen Vivarium. Der Abend wird durch die hell beleuchteten Stationen von Meyrin sicher und stimmungsvoll.",
+            "hu": "Téli kezdés a 18-as villamossal a CERN felé. A megállók közötti váltás rövid és hatékony. Délben a kiállításokon, délután a trópusi Viváriumban melegszünk fel. Az estét Meyrin fényesen kivilágított megállói teszik biztonságossá.",
+            "ro": "Început de iarnă cu tramvaiul 18 spre CERN. Tranzitul între stații este scurt și eficient. La prânz ne încălzim în expoziții, iar după-amiaza la Vivarium. Seara este sigură și plăcută în stațiile bine luminate.",
+            "en": "Winter start with tram 18 towards CERN. The transit between stops is short and efficient. At noon we warm up in the exhibits, and in the afternoon at the Vivarium. The evening is safe and atmospheric thanks to well-lit stations."
+          },
+          "stops": [
+            {
+              "name": "CERN (Cluster)",
+              "tip_5lang": {
+                "de": "Die beheizten Trams sind im Winter ein Segen.",
+                "hu": "A fűtött villamosok télen igazi áldást jelentenek.",
+                "ro": "Tramvaiele încălzite sunt o binecuvântare iarna.",
+                "en": "Heated trams are a true blessing in winter."
+              }
+            },
+            {
+              "name": "Microcosm",
+              "tip_5lang": {
+                "de": "Indoor-Fokus schont vor dem kalten Wind.",
+                "hu": "A belső fókusz megvéd a hideg széltől.",
+                "ro": "Focusul pe interior vă protejează de vântul rece.",
+                "en": "Indoor focus protects you from the cold wind."
+              }
+            },
+            {
+              "name": "Meyrin-Village (Cluster)",
+              "tip_5lang": {
+                "de": "Warten Sie im windgeschützten Wartehäuschen.",
+                "hu": "Várjon a szélvédett váróteremben/bódéban.",
+                "ro": "Așteptați în stația protejată de vânt.",
+                "en": "Wait inside the wind-protected bus shelter."
+              }
+            },
+            {
+              "name": "Church of the Visitation",
+              "tip_5lang": {
+                "de": "Kurze Gehdistanz minimiert die Kälte-Exposition.",
+                "hu": "A rövid séta minimalizálja a hidegben töltött időt.",
+                "ro": "Distanța scurtă minimizează expunerea la frig.",
+                "en": "Short walking distance minimizes cold exposure."
+              }
+            },
+            {
+              "name": "Théâtre Forum Meyrin",
+              "tip_5lang": {
+                "de": "Station ist hell erleuchtet und sicher.",
+                "hu": "A megálló jól kivilágított és biztonságos.",
+                "ro": "Stația este bine luminată și sigură.",
+                "en": "The station is brightly lit and safe."
+              }
+            },
+            {
+              "name": "Jardin botanique alpin",
+              "tip_5lang": {
+                "de": "Die Wege sind auch bei Schnee meist gestreut.",
+                "hu": "Hó esetén is általában sózzák/takarítják az utat.",
+                "ro": "Aleile sunt de obicei curățate chiar și pe zăpadă.",
+                "en": "Paths are usually salted/cleared even in snow."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Halten Sie Ihr Ticket (SwissPass/App) griffbereit.",
+              "Die Trams sind meist pünktlicher als Busse im Schnee.",
+              "In den Stationen gibt es oft digitale Anzeigen.",
+              "Nutzen Sie die Tram 18 als warme Verbindungslinie."
+            ],
+            "hu": [
+              "Tartsa jegyét (SwissPass/App) kéznél.",
+              "Hóban a villamosok pontosabbak, mint a buszok.",
+              "A megállókban digitális kijelzők segítik a tájékozódást.",
+              "Használja a 18-as villamost meleg összekötő vonalként."
+            ],
+            "ro": [
+              "Țineți biletul (SwissPass/App) la îndemână.",
+              "Tramvaiele sunt mai punctuale decât autobuzele pe zăpadă.",
+              "Stațiile au adesea afișaje digitale utile.",
+              "Folosiți tramvaiul 18 ca o linie de legătură caldă."
+            ],
+            "en": [
+              "Keep your ticket (SwissPass/App) ready for inspection.",
+              "Trams are usually more punctual than buses in snow.",
+              "Stations often feature helpful digital displays.",
+              "Use tram 18 as a warm connecting line."
+            ]
+          }
+        }
       }
     }
   }

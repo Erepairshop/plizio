@@ -260,6 +260,196 @@
           "Use sun protection, the gardens have sunny sections.",
           "The path to the harbor is steep, plan time for the walk back up."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bieten die riesigen Platanen einen natürlichen Regenschutz, während man die frische, feuchte Luft genießt. Mittags ziehen wir uns in den Schutz des Arboretums und der Villa Gučetić zurück, wo das Prasseln des Regens auf die exotischen Blätter eine beruhigende Atmosphäre schafft. Nachmittags führt der Weg zum Neptunbrunnen, dessen Wasserspiele mit dem Regen verschmelzen. Abends suchen wir Schutz im Pavillon mit Blick auf die aufgewühlte Adria.",
+            "hu": "Reggel a hatalmas platánok lombjai alatt keresünk menedéket a szemerkélő esőben, élvezve a felfrissült levegőt. Délben az arborétum sűrű növényzete és a Gučetić-villa falai nyújtanak fedezetet, miközben az eső kopogása különleges ritmust ad a kertnek. Délután a Neptun-kút környékén sétálunk, ahol a vízcseppek játéka eggyé válik az elemekkel. Estére a pavilon védett részéről csodáljuk a ködös, drámai tengeri kilátást.",
+            "ro": "Dimineața, platanii uriași oferă un adăpost natural împotriva ploii ușoare, în timp ce aerul devine proaspăt și curat. La prânz, ne retragem în arboretum și la Villa Gučetić, unde sunetul ploii pe frunzele exotice creează o ambianță serenă. După-amiaza, fântâna lui Neptun pare și mai spectaculoasă sub cerul înnorat. Seara, pavilionul de observație ne oferă un loc uscat de unde putem privi marea agitată în prag de amurg.",
+            "en": "In the morning, the giant plane trees provide natural shelter as we breathe in the fresh, rain-washed air. By noon, the dense canopy of the Arboretum and the walls of Villa Gučetić offer cover, with the rain's pitter-patter creating a soothing rhythm. In the afternoon, we visit the Neptune Fountain, where the water features blend beautifully with the drizzle. We end the day at the pavilion, watching the dramatic, misty sea from a dry vantage point."
+          },
+          "stops": [
+            {
+              "name": "Giant Plane Trees",
+              "tip_5lang": {
+                "de": "Die dichten Kronen halten leichten Regen gut ab, ideal für einen kurzen Halt.",
+                "hu": "A sűrű lombkorona jól felfogja a gyengébb esőt, tökéletes pihenőhely.",
+                "ro": "Coroanele dese opresc ploaia ușoară, fiind un loc ideal de popas.",
+                "en": "The thick canopy blocks light rain well, making it a perfect short stop."
+              }
+            },
+            {
+              "name": "Trsteno Arboretum",
+              "tip_5lang": {
+                "de": "Tragen Sie rutschfeste Schuhe, da die alten Steinpfade bei Nässe glatt werden.",
+                "hu": "Viseljen csúszásmentes cipőt, mert a kőutak az esőben nagyon csúszóssá válnak.",
+                "ro": "Purtați încălțăminte antiderapantă, potecile de piatră devin alunecoase.",
+                "en": "Wear non-slip shoes as the stone paths become quite slippery in the rain."
+              }
+            },
+            {
+              "name": "Villa Gučetić-Gozze",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Loggia der Villa für eine trockene Pause mit Gartenblick.",
+                "hu": "Használja a villa loggiáját egy száraz pihenőre, kilátással a kertre.",
+                "ro": "Folosiți loggia vilei pentru o pauză uscată cu vedere la grădină.",
+                "en": "Use the villa's loggia for a dry break with a view of the garden."
+              }
+            },
+            {
+              "name": "Neptune Fountain",
+              "tip_5lang": {
+                "de": "Der Brunnen wirkt bei Regen besonders mystisch; perfekt für Fotos ohne Reflexionen.",
+                "hu": "A kút esőben különösen misztikus; tökéletes tükröződésmentes fotókhoz.",
+                "ro": "Fântâna pare mistică pe ploaie; ideală pentru fotografii fără reflexii.",
+                "en": "The fountain looks mystical in the rain; perfect for photos without glare."
+              }
+            },
+            {
+              "name": "Viewing Pavilion",
+              "tip_5lang": {
+                "de": "Der Pavillon ist überdacht und bietet Schutz vor Wind und Wetter.",
+                "hu": "A pavilon fedett, így kiváló védelmet nyújt a szél és az eső ellen.",
+                "ro": "Pavilionul este acoperit, oferind protecție excelentă împotriva ploii.",
+                "en": "The pavilion is covered, providing excellent shelter from the wind and rain."
+              }
+            },
+            {
+              "name": "Trsteno Harbor",
+              "tip_5lang": {
+                "de": "Der Abstieg zum Hafen ist steil; bei Regen ist besondere Vorsicht geboten.",
+                "hu": "A kikötőbe vezető lejtő meredek; esőben fokozott óvatossággal közlekedjen.",
+                "ro": "Coborârea spre port este abruptă; mergeți cu mare atenție pe ploaie.",
+                "en": "The descent to the harbor is steep; proceed with extra caution in the wet."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Bringen Sie einen stabilen Regenschirm mit, da Küstenwinde oft kräftig wehen.",
+              "Wasserdichte Wanderschuhe sind wegen der historischen Pflastersteine unerlässlich.",
+              "Einige Bereiche des Arboretums haben dichte Laubdächer, die als Unterstand dienen.",
+              "Die Luftfeuchtigkeit lässt die mediterranen Düfte im Garten intensiver wirken.",
+              "Prüfen Sie vorher die Öffnungszeiten, da bei Sturm einige Gartenwege gesperrt sein könnten."
+            ],
+            "hu": [
+              "Vigyen erős esernyőt, mert a tengerparti szél könnyen kifordíthatja a gyengébbeket.",
+              "A vízálló túracipő elengedhetetlen a régi, csúszós macskakövek miatt.",
+              "Az arborétum sűrűbb részei természetes esővédőként szolgálnak a séta közben.",
+              "Az eső utáni magas páratartalom felerősíti a kert mediterrán növényeinek illatát.",
+              "Viharos szél esetén ellenőrizze, hogy látogatható-e a park minden szakasza."
+            ],
+            "ro": [
+              "Luați o umbrelă rezistentă, deoarece vântul de coastă poate fi destul de puternic.",
+              "Încălțămintea impermeabilă este esențială din cauza pavajului vechi și alunecos.",
+              "Anumite zone cu vegetație densă din arboretum servesc drept adăpost natural.",
+              "Umiditatea ridicată face ca parfumul plantelor mediteraneene să fie mai intens.",
+              "Verificați programul, deoarece unele poteci pot fi închise în caz de furtună."
+            ],
+            "en": [
+              "Bring a sturdy umbrella, as coastal winds can be quite strong during rain.",
+              "Waterproof hiking shoes are essential due to the old, slippery cobblestones.",
+              "Dense areas of the Arboretum provide natural canopy cover during your walk.",
+              "The high humidity after rain intensifies the scents of the Mediterranean plants.",
+              "Check if all garden paths are open, as heavy storms may restrict access."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen in Trsteno ist mild und ruhig, ideal um die gigantischen Platanen ohne Menschenmassen zu bestaunen. Mittags wärmt die tiefstehende Sonne die Gartenwege des Arboretums, während die Villa in sanftes Licht getaucht wird. Am Nachmittag genießen wir die Stille am Neptunbrunnen und wandern zum Pavillon, um den frühen Sonnenuntergang über dem Meer zu erleben. Den Abend lassen wir im Schutz des Hafens ausklingen, wo das Meer sanft an die Kaimauer schlägt.",
+            "hu": "A téli reggel Trstenóban enyhe és csendes, tökéletes a hatalmas platánok megcsodálására a tömeg nélkül. Délben az alacsonyan járó nap sugarai melengetik az arborétum útjait, miközben a villa lágy fényben úszik. Délután a Neptun-kút környékének nyugalmát élvezzük, majd a pavilonhoz sétálunk a korai naplemente megtekintéséhez. Az estét a kikötőben zárjuk, ahol a tenger halkan mossa a part menti sziklákat.",
+            "ro": "Dimineața de iarnă în Trsteno este blândă și liniștită, perfectă pentru a admira platanii uriași fără aglomerație. La prânz, soarele blând încălzește potecile arboretumului, în timp ce vila este scăldată într-o lumină caldă. După-amiaza, ne bucurăm de liniștea de la fântâna lui Neptun și mergem la pavilion pentru a vedea apusul timpuriu. Seara se încheie în port, ascultând valurile calme care lovesc malul.",
+            "en": "A winter morning in Trsteno is mild and quiet, ideal for admiring the giant plane trees without the crowds. By noon, the low winter sun warms the Arboretum's paths, casting a soft glow on the historic villa. In the afternoon, we enjoy the peace around the Neptune Fountain before heading to the pavilion for an early sunset over the Adriatic. We finish our walk at the harbor, where the sea gently laps against the stone walls."
+          },
+          "stops": [
+            {
+              "name": "Giant Plane Trees",
+              "tip_5lang": {
+                "de": "Die laublosen Kronen lassen im Winter viel Licht auf den Platz.",
+                "hu": "A lombmentes ágak között ilyenkor sokkal több fény jut a térre.",
+                "ro": "Ramurile fără frunze permit luminii să pătrundă mai bine în piațetă.",
+                "en": "The leafless canopies allow much more light into the square in winter."
+              }
+            },
+            {
+              "name": "Trsteno Arboretum",
+              "tip_5lang": {
+                "de": "Dank immergrüner Pflanzen bleibt der Garten auch im Winter prächtig.",
+                "hu": "Az örökzöldeknek köszönhetően a kert télen is lenyűgözően zöld marad.",
+                "ro": "Datorită plantelor perene, grădina rămâne verde și spectaculoasă iarna.",
+                "en": "Thanks to evergreen plants, the garden remains lush even in winter."
+              }
+            },
+            {
+              "name": "Villa Gučetić-Gozze",
+              "tip_5lang": {
+                "de": "Im Winter ist es hier sehr ruhig; ideal für Architekturbegeisterte.",
+                "hu": "Télen nagy itt a csend; ideális az építészet kedvelőinek a nézelődésre.",
+                "ro": "Iarna este foarte liniște aici, ideal pentru amatorii de arhitectură.",
+                "en": "It's very quiet here in winter, perfect for architecture enthusiasts."
+              }
+            },
+            {
+              "name": "Neptune Fountain",
+              "tip_5lang": {
+                "de": "Die Statuen wirken im klaren Winterlicht besonders detailreich.",
+                "hu": "A szobrok a tiszta téli fényben különösen részletgazdagnak tűnnek.",
+                "ro": "Statuile par mai detaliate în lumina clară a zilelor de iarnă.",
+                "en": "The statues look especially detailed in the clear winter light."
+              }
+            },
+            {
+              "name": "Viewing Pavilion",
+              "tip_5lang": {
+                "de": "Seien Sie gegen 16:30 Uhr hier, um den Sonnenuntergang nicht zu verpassen.",
+                "hu": "Érkezzen 16:30 körül, hogy ne maradjon le a korai naplementéről.",
+                "ro": "Fiți aici în jur de ora 16:30 pentru a nu rata apusul soarelui.",
+                "en": "Be here around 4:30 PM to catch the early winter sunset."
+              }
+            },
+            {
+              "name": "Trsteno Harbor",
+              "tip_5lang": {
+                "de": "Warme Kleidung ist nötig, da die Meeresbrise im Winter kühl ist.",
+                "hu": "Meleg ruházat szükséges, mert a tengeri szél télen igen hűvös.",
+                "ro": "Aveți nevoie de haine groase, briza mării este rece în timpul iernii.",
+                "en": "Warm clothing is needed as the sea breeze is quite chilly in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Planen Sie die Wanderung früh ein, da es bereits gegen 17:00 Uhr dunkel wird.",
+              "Zwiebelprinzip bei der Kleidung hilft gegen den oft kühlen Bura-Wind.",
+              "Das Arboretum ist im Winter weniger überlaufen und bietet mehr Fotofreiheit.",
+              "Bringen Sie ein warmes Getränk in einer Thermoskanne für die Pausen mit.",
+              "Die Eintrittspreise für das Arboretum sind in der Nebensaison oft günstiger."
+            ],
+            "hu": [
+              "Tervezze koránra a sétát, mert 17:00 óra körül már sötétedik.",
+              "A réteges öltözködés fontos a gyakran hideg Bura szél miatt.",
+              "Az arborétum télen kevésbé zsúfolt, így nyugodtabban fotózhat.",
+              "Vigyen magával meleg italt termoszban a tengerparti pihenőkhöz.",
+              "A főszezonon kívül az arborétum belépőjegyei gyakran olcsóbbak."
+            ],
+            "ro": [
+              "Planificați plimbarea devreme, deoarece se întunecă în jur de ora 17:00.",
+              "Îmbrăcați-vă în straturi pentru a vă proteja de vântul rece Bura.",
+              "Arboretumul este mai liber iarna, oferind mai multă libertate pentru poze.",
+              "Luați o băutură caldă într-un termos pentru momentele de popas.",
+              "Prețurile biletelor la arboretum pot fi mai mici în afara sezonului."
+            ],
+            "en": [
+              "Plan your walk early in the day as it gets dark around 5:00 PM.",
+              "Layered clothing is best to protect against the chilly Bura wind.",
+              "The Arboretum is less crowded in winter, allowing for better photos.",
+              "Bring a warm drink in a thermos for your breaks along the coast.",
+              "Check for off-season ticket prices, which are often lower at the Arboretum."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -514,6 +704,178 @@
           "The coastal road has traffic, ride carefully.",
           "An e-bike makes the inclines much more pleasant."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour beginnt vorsichtig bei den Platanen, während der Regen die Straßen säubert. Mittags erkunden wir das Aquädukt und das Arboretum, wobei wir auf den befestigten Wegen bleiben, um Schlamm zu vermeiden. Am Nachmittag führt die Fahrt zur Kirche St. Vitus, wo wir kurz unterstellen. Den Tag beenden wir mit einer langsamen Fahrt auf der Küstenstraße nach Brsečine, stets die glatte Fahrbahn im Blick.",
+            "hu": "A kerékpártúra óvatosan indul a platánoknál, miközben az eső lemossa az utakat. Délben az akvaduktot és az arborétumot fedezzük fel, a szilárd burkolatú utakon maradva a sár elkerülése végett. Délután a Szent Vid templom felé tekerünk, ahol rövid menedéket keresünk. A napot a Brsečine felé vezető parti úton zárjuk, ügyelve a csúszós aszfaltra.",
+            "ro": "Turul cu bicicleta începe cu prudență la platani, în timp ce ploaia curăță drumurile. La prânz explorăm apeductul și arboretumul, rămânând pe drumurile pavate pentru a evita noroiul. După-amiaza pedalăm spre Biserica Sf. Vitus, unde ne adăpostim scurt. Încheiem ziua cu o cursă lentă pe drumul de coastă spre Brsečine, atenți la carosabilul umed.",
+            "en": "The bike tour starts cautiously by the plane trees as the rain freshens the air. At noon, we explore the aqueduct and the Arboretum, sticking to paved paths to avoid mud. In the afternoon, we cycle toward the Church of St. Vitus, taking a short break under cover. We finish the day with a slow ride along the coastal road to Brsečine, staying mindful of the slippery surface."
+          },
+          "stops": [
+            {
+              "name": "Giant Plane Trees",
+              "tip_5lang": {
+                "de": "Achten Sie auf nasses Laub auf dem Asphalt, das sehr rutschig sein kann.",
+                "hu": "Ügyeljen az aszfalton lévő nedves levelekre, amelyek nagyon csúszhatnak.",
+                "ro": "Atenție la frunzele ude de pe asfalt, pot fi extrem de alunecoase.",
+                "en": "Watch out for wet leaves on the asphalt; they can be very slippery."
+              }
+            },
+            {
+              "name": "Historical Aqueduct",
+              "tip_5lang": {
+                "de": "Die Steinstrukturen leiten Regenwasser ab; meiden Sie Pfützen daneben.",
+                "hu": "A kőszerkezet elvezeti az esővizet; kerülje a mellette lévő tócsákat.",
+                "ro": "Structura de piatră drenează apa; evitați bălțile formate lângă ea.",
+                "en": "The stone structure drains rainwater; avoid the puddles forming nearby."
+              }
+            },
+            {
+              "name": "Trsteno Arboretum",
+              "tip_5lang": {
+                "de": "Fahrräder müssen am Eingang abgestellt werden; nutzen Sie überdachte Plätze.",
+                "hu": "A bicikliket a bejáratnál kell hagyni; keressen fedett tárolót.",
+                "ro": "Bicicletele trebuie lăsate la intrare; căutați un loc ferit de ploaie.",
+                "en": "Bikes must be left at the entrance; look for a sheltered spot to park."
+              }
+            },
+            {
+              "name": "Church of St. Vitus",
+              "tip_5lang": {
+                "de": "Der Vorplatz bietet wenig Schutz; nutzen Sie das Kirchenportal als Unterstand.",
+                "hu": "Az előtér kevés védelmet ad; használja a templomkaput menedékként.",
+                "ro": "Piațeta oferă puțin adăpost; folosiți portalul bisericii pentru a sta la uscat.",
+                "en": "The forecourt offers little cover; use the church portal as a shelter."
+              }
+            },
+            {
+              "name": "Coastal road to Brsečine",
+              "tip_5lang": {
+                "de": "Fahren Sie defensiv; die Sicht ist bei Regen auf der Küstenstraße eingeschränkt.",
+                "hu": "Vezessen óvatosan; esőben a látótávolság korlátozott a parti úton.",
+                "ro": "Pedalați defensiv; vizibilitatea pe drumul de coastă este redusă pe ploaie.",
+                "en": "Cycle defensively; visibility on the coastal road is reduced in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche am Fahrrad sind bei Regen in dieser hügeligen Region Gold wert.",
+              "Tragen Sie eine neongelbe Regenjacke für bessere Sichtbarkeit auf der Landstraße.",
+              "Prüfen Sie Ihre Bremsen vorab, da die Gefälle zum Meer hin steil sind.",
+              "Vermeiden Sie unbefestigte Seitenwege, da diese schnell aufweichen.",
+              "Wasserdichte Packtaschen schützen Ihre Ausrüstung vor Spritzwasser."
+            ],
+            "hu": [
+              "A sárvédő aranyat ér ezen a dombos vidéken, ha elered az eső.",
+              "Viseljen élénk színű esőkabátot a jobb láthatóságért az országúton.",
+              "Ellenőrizze a fékeket, mert a tenger felé vezető lejtők meredekek.",
+              "Kerülje a földutakat, mert azok gyorsan feláznak és sárossá válnak.",
+              "A vízálló kerékpáros táskák megvédik felszerelését a felcsapódó víztől."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt esențiale în această regiune deluroasă pe ploaie.",
+              "Purtați o pelerină reflectorizantă pentru vizibilitate sporită pe șosea.",
+              "Verificați frânele, pantele spre mare sunt destul de abrupte.",
+              "Evitați drumurile neasfaltate, deoarece devin rapid noroioase.",
+              "Genzile impermeabile vă vor proteja echipamentul de apă."
+            ],
+            "en": [
+              "Mudguards are worth their weight in gold in this hilly region during rain.",
+              "Wear a high-visibility rain jacket to be seen better on the main road.",
+              "Check your brakes before starting; the descents toward the sea are steep.",
+              "Avoid unpaved side paths as they turn into mud very quickly.",
+              "Waterproof panniers will keep your belongings dry from road spray."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Winter-Radtour startet frisch an den Platanen, wobei die kühle Luft belebend wirkt. Mittags besichtigen wir das historische Aquädukt und schlendern durch das Arboretum, während die Wintersonne tief steht. Am Nachmittag radeln wir bergauf zur Kirche St. Vitus, um uns durch die Bewegung aufzuwärmen. Zum Abschluss genießen wir die weite Sicht auf der Küstenstraße nach Brsečine, bevor die Dämmerung einsetzt.",
+            "hu": "A téli bringázás frissen indul a platánoknál, a hűvös levegő élénkítően hat. Délben megtekintjük a történelmi akvaduktot és teszünk egy kört az arborétumban az alacsony téli napsütésben. Délután feltekerünk a Szent Vid templomhoz, a mozgás segít a bemelegedésben. Végezetül élvezzük a tiszta kilátást a Brsečine felé vezető úton, mielőtt beállna a szürkület.",
+            "ro": "Turul de iarnă cu bicicleta începe viguros la platani, aerul rece fiind revigorant. La prânz vizităm apeductul istoric și ne plimbăm prin arboretum sub soarele blând. După-amiaza pedalăm spre Biserica Sf. Vitus, mișcarea ajutându-ne să ne încălzim. La final, admirăm priveliștea largă de pe drumul de coastă spre Brsečine înainte de lăsarea serii.",
+            "en": "The winter bike ride starts briskly at the plane trees, with the cool air feeling invigorating. At noon, we visit the historic aqueduct and stroll through the Arboretum under the low winter sun. In the afternoon, we cycle uphill to the Church of St. Vitus, using the movement to stay warm. We finish by enjoying the clear views on the coastal road to Brsečine before twilight sets in."
+          },
+          "stops": [
+            {
+              "name": "Giant Plane Trees",
+              "tip_5lang": {
+                "de": "Tragen Sie warme Handschuhe, da der Fahrtwind hier empfindlich kühl ist.",
+                "hu": "Viseljen meleg kesztyűt, mert a menetszél itt télen nagyon hideg lehet.",
+                "ro": "Purtați mănuși groase, vântul produs de mișcare este tăios iarna.",
+                "en": "Wear warm gloves as the wind chill while riding is significant in winter."
+              }
+            },
+            {
+              "name": "Historical Aqueduct",
+              "tip_5lang": {
+                "de": "Im Schatten des Aquädukts kann es deutlich kühler sein als in der Sonne.",
+                "hu": "Az akvadukt árnyékában jóval hűvösebb lehet, mint a napos részeken.",
+                "ro": "La umbra apeductului poate fi mult mai frig decât în zonele însorite.",
+                "en": "It can be much cooler in the shadow of the aqueduct than in the sun."
+              }
+            },
+            {
+              "name": "Trsteno Arboretum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Halt für eine kurze Aufwärmpause zu Fuß im Garten.",
+                "hu": "Használja ki a megállót egy rövid gyalogos bemelegítő sétára a kertben.",
+                "ro": "Folosiți oprirea pentru o scurtă plimbare de încălzire prin grădină.",
+                "en": "Use the stop for a short brisk walk in the garden to warm up."
+              }
+            },
+            {
+              "name": "Church of St. Vitus",
+              "tip_5lang": {
+                "de": "Der Anstieg hierher wärmt gut auf, aber oben weht oft ein kalter Wind.",
+                "hu": "Az idevezető emelkedő jól bemelegít, de fent gyakran fúj a hideg szél.",
+                "ro": "Urcarea până aici vă va încălzi, dar sus vântul este adesea rece.",
+                "en": "The climb here warms you up, but it's often windy and cold at the top."
+              }
+            },
+            {
+              "name": "Coastal road to Brsečine",
+              "tip_5lang": {
+                "de": "Beenden Sie die Fahrt vor 16:30 Uhr, um im Hellen anzukommen.",
+                "hu": "Fejezze be a túrát 16:30 előtt, hogy még világosban érjen célba.",
+                "ro": "Încheiați cursa înainte de 16:30 pentru a ajunge pe lumină.",
+                "en": "Finish your ride before 4:30 PM to arrive while it's still light out."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein Stirnband unter dem Helm schützt die Ohren vor dem kalten Winterwind.",
+              "Vermeiden Sie langes Stehenbleiben, um nicht auszukühlen.",
+              "Die Winterluft ist sehr klar, was fantastische Fernsichten auf die Inseln erlaubt.",
+              "Prüfen Sie den Reifendruck; bei Kälte sinkt dieser oft leicht ab.",
+              "Nehmen Sie ein Lichtset mit, falls Sie doch in die frühe Dämmerung geraten."
+            ],
+            "hu": [
+              "A sisak alatti fejpánt megvédi a fülét a hideg téli széltől.",
+              "Kerülje a hosszú megállókat, hogy ne hűljön ki a teste a pihenők alatt.",
+              "A téli levegő nagyon tiszta, így fantasztikus a kilátás a távoli szigetekre.",
+              "Ellenőrizze a guminyomást, mert a hidegben az érték kissé lecsökkenhet.",
+              "Vigyen magával lámpát, ha esetleg rásötétedne a korai alkonyatkor."
+            ],
+            "ro": [
+              "O bentiță sub cască vă va proteja urechile de vântul rece de iarnă.",
+              "Evitați opririle lungi pentru a nu lăsa corpul să se răcească prea tare.",
+              "Aerul de iarnă este foarte clar, oferind vederi superbe spre insule.",
+              "Verificați presiunea în pneuri, aceasta scade adesea la temperaturi joase.",
+              "Luați un set de lumini în caz că vă prinde amurgul timpuriu pe drum."
+            ],
+            "en": [
+              "A headband under your helmet protects your ears from the cold winter wind.",
+              "Avoid long stops to prevent your body from cooling down too much.",
+              "The winter air is very clear, allowing for fantastic views of distant islands.",
+              "Check your tire pressure; it often drops slightly in cold weather.",
+              "Carry a set of bike lights in case you get caught in the early twilight."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -814,6 +1176,160 @@
           "Parking in Trsteno center is very limited.",
           "Visit the oil press in the morning when it's operating."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten entspannt im Auto und parken direkt am Arboretum, während der Regen auf das Dach trommelt. Mittags besichtigen wir die Villa Gučetić und genießen die geschützte Architektur. Am Nachmittag fahren wir zum Hafen hinunter, wo wir das Meer aus dem trockenen Innenraum beobachten. Zum Abschluss fahren wir zum Strand von Brsečine, um die dramatische Regenstimmung an der Küste zu erleben.",
+            "hu": "Kényelmesen indulunk autóval és közvetlenül az arborétumnál parkolunk, miközben az eső kopog a tetőn. Délben a Gučetić-villát látogatjuk meg, élvezve a védett építészeti megoldásokat. Délután legurulunk a kikötőbe, ahol a száraz utastérből figyeljük a hullámzást. Végezetül Brsečine strandjához hajtunk, hogy átéljük a tengerparti eső drámai hangulatát.",
+            "ro": "Pornim relaxați cu mașina și parcăm chiar lângă arboretum, ascultând ploaia pe plafon. La prânz vizităm Villa Gučetić, bucurându-ne de arhitectura protejată. După-amiaza coborâm spre port, observând marea din interiorul uscat al mașinii. La final, conducem spre plaja Brsečine pentru a admira atmosfera dramatică de coastă pe ploaie.",
+            "en": "We start comfortably by car and park right at the Arboretum as rain drums on the roof. At noon, we visit Villa Gučetić, enjoying the sheltered architecture. In the afternoon, we drive down to the harbor, watching the sea from the dry interior of the car. We finish the day at Brsečine Beach, experiencing the dramatic coastal atmosphere in the rain."
+          },
+          "stops": [
+            {
+              "name": "Trsteno Arboretum",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Haupteingang, um den Weg im Regen kurzzuhalten.",
+                "hu": "Parkoljon a főbejárathoz közel, hogy minimalizálja az esőben töltött időt.",
+                "ro": "Parcați aproape de intrarea principală pentru a merge puțin prin ploaie.",
+                "en": "Park near the main entrance to keep your walk in the rain short."
+              }
+            },
+            {
+              "name": "Villa Gučetić-Gozze",
+              "tip_5lang": {
+                "de": "Lassen Sie nasse Regenschirme im Auto oder nutzen Sie die Schirmständer.",
+                "hu": "Hagyja a vizes ernyőket az autóban, vagy használja a benti tartókat.",
+                "ro": "Lăsați umbrelele ude în mașină sau folosiți suporturile de la vilă.",
+                "en": "Leave wet umbrellas in the car or use the stands provided at the villa."
+              }
+            },
+            {
+              "name": "Trsteno Harbor",
+              "tip_5lang": {
+                "de": "Die Straße zum Hafen ist schmal und bei Nässe rutschig; langsam fahren.",
+                "hu": "A kikötőhöz vezető út szűk és nedvesen csúszós; hajtson lassan.",
+                "ro": "Drumul spre port este îngust și alunecos pe ploaie; conduceți prudent.",
+                "en": "The road to the harbor is narrow and slippery when wet; drive slowly."
+              }
+            },
+            {
+              "name": "Brsečine Beach",
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Regen im Auto und genießen Sie die Aussicht.",
+                "hu": "Heves esőben maradjon az autóban és onnan élvezze a kilátást.",
+                "ro": "În caz de ploaie torențială, rămâneți în mașină și admirați peisajul.",
+                "en": "In heavy rain, stay in the car and enjoy the view from inside."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schalten Sie das Abblendlicht ein, da die Sicht auf der Küstenstraße oft schlecht ist.",
+              "Prüfen Sie Ihre Scheibenwischer vor der Abfahrt auf volle Funktion.",
+              "Nutzen Sie die Klimaanlage, um das Beschlagen der Scheiben zu verhindern.",
+              "Vermeiden Sie das Parken unter großen Bäumen bei Sturmgefahr.",
+              "Die schmalen Zufahrtswege können bei Regen kleine Sturzbäche führen."
+            ],
+            "hu": [
+              "Kapcsolja be a tompított fényszórót, mert esőben rosszabb a látótávolság.",
+              "Indulás előtt ellenőrizze az ablaktörlők állapotát a biztonság érdekében.",
+              "Használja a klímát az ablakok párátlanítására a jobb kilátásért.",
+              "Viharos esőben kerülje a nagy fák alatti parkolást az ágak miatt.",
+              "A szűk bekötőutakon esőben kisebb vízátfolyások alakulhatnak ki."
+            ],
+            "ro": [
+              "Aprindeți faza scurtă, vizibilitatea pe drumul de coastă scade pe ploaie.",
+              "Verificați starea ștergătoarelor înainte de a pleca la drum.",
+              "Folosiți aerul condiționat pentru a dezaburi rapid parbrizul.",
+              "Evitați parcarea sub copaci mari dacă vântul suflă cu putere.",
+              "Drumurile înguste pot colecta apă, formând mici șuvoaie pe ploaie."
+            ],
+            "en": [
+              "Turn on your low-beam headlights as visibility on the coast road is poor.",
+              "Check your windshield wipers for full functionality before you start.",
+              "Use the air conditioning to keep the windows from fogging up.",
+              "Avoid parking under large trees if there is a risk of a storm.",
+              "Narrow access roads may experience small water flows during heavy rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An einem klaren Wintermorgen fahren wir nach Trsteno und genießen die freie Parkplatzwahl am Arboretum. Mittags wärmt uns die Sonne im Garten, bevor wir die Villa Gučetić besuchen. Am Nachmittag führt uns die Fahrt zum Hafen hinunter, wo wir die frische Meeresbrise einatmen. Zum Abschluss fahren wir zum Strand von Brsečine, um den Sonnenuntergang bequem vom Auto oder dem nahen Ufer aus zu beobachten.",
+            "hu": "Egy tiszta téli reggelen Trstenóba autózunk, élvezve a bőséges parkolóhelyeket az arborétumnál. Délben a napsütötte kertben sétálunk, majd meglátogatjuk a Gučetić-villát. Délután legurulunk a kikötőbe, hogy beszívjuk a friss tengeri levegőt. A napot Brsečine strandjánál zárjuk, ahonnan kényelmesen nézhetjük végig a naplementét a partról.",
+            "ro": "Într-o dimineață senină de iarnă, conducem spre Trsteno și profităm de parcările libere de la arboretum. La prânz soarele ne încălzește în grădină înainte de a vizita Villa Gučetić. După-amiaza mergem spre port pentru a respira briza proaspătă a mării. Încheiem ziua la plaja Brsečine, admirând apusul de pe mal sau direct din mașină.",
+            "en": "On a clear winter morning, we drive to Trsteno, enjoying the ample parking available at the Arboretum. At noon, the sun warms us in the garden before we visit Villa Gučetić. In the afternoon, the drive takes us down to the harbor to breathe in the fresh sea breeze. We finish at Brsečine Beach, watching the sunset comfortably from the shore or the car."
+          },
+          "stops": [
+            {
+              "name": "Trsteno Arboretum",
+              "tip_5lang": {
+                "de": "Im Winter sind die Parkplätze oft kostenlos oder deutlich günstiger.",
+                "hu": "Télen a parkolás gyakran ingyenes vagy jóval olcsóbb a környéken.",
+                "ro": "Iarna, locurile de parcare sunt adesea gratuite sau mult mai ieftine.",
+                "en": "In winter, parking spaces are often free or significantly cheaper."
+              }
+            },
+            {
+              "name": "Villa Gučetić-Gozze",
+              "tip_5lang": {
+                "de": "Die Villa bietet im Winter einen windgeschützten Ort für Besichtigungen.",
+                "hu": "A villa télen szélvédett helyszínt biztosít a nézelődéshez.",
+                "ro": "Vila oferă un loc ferit de vânt pentru vizitare în timpul iernii.",
+                "en": "The villa provides a wind-sheltered spot for sightseeing in winter."
+              }
+            },
+            {
+              "name": "Trsteno Harbor",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das Meer direkt vom Parkplatz am Hafen.",
+                "hu": "Élvezze a tengerre nyíló kilátást közvetlenül a kikötői parkolóból.",
+                "ro": "Bucurați-vă de vederea spre mare direct din parcarea din port.",
+                "en": "Enjoy the view of the sea directly from the parking area at the harbor."
+              }
+            },
+            {
+              "name": "Brsečine Beach",
+              "tip_5lang": {
+                "de": "Ideal für einen kurzen Stopp, um den Sonnenuntergang warm zu erleben.",
+                "hu": "Ideális egy rövid megállóra, hogy melegen nézze végig a naplementét.",
+                "ro": "Ideal pentru o oprire scurtă, pentru a vedea apusul la căldură.",
+                "en": "Ideal for a short stop to experience the sunset while staying warm."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Glätte in schattigen Kurven der Küstenstraße.",
+              "Prüfen Sie den Frostschutz in Ihrer Scheibenwaschanlage.",
+              "Die Straßen sind im Winter leerer, was die Fahrt entspannter macht.",
+              "Nutzen Sie die tiefstehende Sonne für spektakuläre Fotos während der Fahrt.",
+              "Warme Getränke im Auto machen die Pausen an der Küste gemütlicher."
+            ],
+            "hu": [
+              "Ügyeljen a jegesedésre a parti út árnyékos kanyarjaiban.",
+              "Ellenőrizze a fagyállót a szélvédőmosó tartályában indulás előtt.",
+              "Az utak télen sokkal üresebbek, ami nyugodtabbá teszi a vezetést.",
+              "Használja ki az alacsony napállást látványos fotókhoz vezetés közben.",
+              "Az autóban tartott meleg italok kellemesebbé teszik a parti pihenőket."
+            ],
+            "ro": [
+              "Atenție la polei în curbele umbrite ale drumului de coastă.",
+              "Verificați antigelul din lichidul de parbriz înainte de plecare.",
+              "Drumurile sunt mai libere iarna, ceea ce face condusul relaxant.",
+              "Folosiți soarele jos pentru fotografii spectaculoase în timpul cursei.",
+              "Băuturile calde din mașină fac pauzele de pe coastă mai plăcute."
+            ],
+            "en": [
+              "Watch out for icy patches in shaded curves of the coastal road.",
+              "Check the anti-freeze in your windshield washer fluid before starting.",
+              "The roads are emptier in winter, making the drive much more relaxed.",
+              "Take advantage of the low sun for spectacular photos during the drive.",
+              "Keeping warm drinks in the car makes coastal breaks much cozier."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1091,6 +1607,178 @@
           "Buses stop on request, signal the driver.",
           "Schedules are posted at major stops."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir erreichen Trsteno mit dem Bus und suchen sofort Schutz unter den großen Platanen. Mittags erkunden wir das Arboretum, wobei wir die überdachten Bereiche der Villa und des Pavillons bevorzugt nutzen. Am Nachmittag bewundern wir den Neptunbrunnen im Regen, bevor wir zum Busstop zurückkehren. Den Abend verbringen wir trocken im Bus auf der Rückfahrt, während die Regentropfen gegen die Scheiben schlagen.",
+            "hu": "Busszal érkezünk Trstenóba és azonnal menedéket keresünk a hatalmas platánok alatt. Délben az arborétumot fedezzük fel, előnyben részesítve a villa és a pavilon fedett részeit. Délután az esőben ázó Neptun-kutat csodáljuk meg, majd visszasétálunk a buszmegállóhoz. Az estét már a száraz buszon töltjük a visszaúton, figyelve az üvegen lefolyó cseppeket.",
+            "ro": "Ajungem cu autobuzul în Trsteno și căutăm imediat adăpost sub platanii mari. La prânz explorăm arboretumul, preferând zonele acoperite ale vilei și pavilionului. După-amiaza admirăm fântâna lui Neptun pe ploaie înainte de a reveni la stație. Seara o petrecem la uscat în autobuz, pe drumul de întoarcere, privind ploaia de la fereastră.",
+            "en": "We arrive in Trsteno by bus and immediately seek shelter under the large plane trees. At noon, we explore the Arboretum, favoring the covered areas of the villa and the pavilion. In the afternoon, we admire the Neptune Fountain in the rain before returning to the bus stop. We spend the evening dry on the bus ride back, watching the raindrops on the windows."
+          },
+          "stops": [
+            {
+              "name": "Trsteno Bus Stop",
+              "tip_5lang": {
+                "de": "Der Busstop hat eine kleine Überdachung; bleiben Sie dort bis zur Abfahrt.",
+                "hu": "A buszmegálló kis tetővel rendelkezik; maradjon alatta indulásig.",
+                "ro": "Stația de autobuz are un mic acoperiș; stați acolo până la plecare.",
+                "en": "The bus stop has a small shelter; stay under it until the bus arrives."
+              }
+            },
+            {
+              "name": "Giant Plane Trees",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Weg unter den Bäumen, um trocken zum Arboretum zu kommen.",
+                "hu": "Használja a fák alatti utat, hogy szárazabban érjen el az arborétumig.",
+                "ro": "Folosiți poteca de sub copaci pentru a ajunge mai uscat la arboretum.",
+                "en": "Use the path under the trees to stay drier while heading to the Arboretum."
+              }
+            },
+            {
+              "name": "Trsteno Arboretum",
+              "tip_5lang": {
+                "de": "Bei starkem Regen bietet das Kassenhäuschen am Eingang kurz Schutz.",
+                "hu": "Heves esőben a bejárati jegypénztárnál kereshet rövid menedéket.",
+                "ro": "În caz de ploaie grea, ghereta de la intrare oferă un scurt adăpost.",
+                "en": "In heavy rain, the ticket booth at the entrance offers brief shelter."
+              }
+            },
+            {
+              "name": "Neptune Fountain",
+              "tip_5lang": {
+                "de": "Planen Sie den Rückweg zum Bus rechtzeitig ein, da Wege rutschig sind.",
+                "hu": "Tervezze meg időben a visszautat a buszhoz, mert az utak csúszósak.",
+                "ro": "Planificați din timp revenirea la stație, drumurile sunt alunecoase.",
+                "en": "Plan your walk back to the bus in time, as the paths are slippery."
+              }
+            },
+            {
+              "name": "Viewing Pavilion",
+              "tip_5lang": {
+                "de": "Der ideale Ort, um die Wartezeit auf den Bus trocken zu verbringen.",
+                "hu": "Ideális hely a buszra való várakozási idő száraz eltöltéséhez.",
+                "ro": "Locul ideal pentru a aștepta autobuzul fără a vă uda pe ploaie.",
+                "en": "The ideal place to spend your bus waiting time while staying dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie die App 'Libertas Dubrovnik' für Echtzeit-Busdaten bei Regen.",
+              "Tragen Sie wasserfeste Kleidung, da der Weg zum Busstop ungeschützt ist.",
+              "Bedenken Sie, dass Busse bei starkem Regen Verspätung haben können.",
+              "Halten Sie Kleingeld oder die Buskarte griffbereit, um schnell einzusteigen.",
+              "Ein kleiner Rucksack mit Regenhülle hält Ihre Wertsachen trocken."
+            ],
+            "hu": [
+              "Használja a 'Libertas Dubrovnik' alkalmazást a buszok valós idejű követéséhez.",
+              "Viseljen vízhatlan ruhát, mert a megállóhoz vezető út nyitott.",
+              "Számoljon azzal, hogy heves esőben a buszok késhetnek a forgalom miatt.",
+              "Tartsa készenlétben az aprópénzt vagy a jegyet a gyors felszálláshoz.",
+              "Egy esővédővel ellátott hátizsák szárazon tartja az értékeit a buszúton."
+            ],
+            "ro": [
+              "Verificați aplicația 'Libertas Dubrovnik' pentru orele reale pe ploaie.",
+              "Purtați haine impermeabile, drumul spre stația de autobuz este expus.",
+              "Luați în calcul posibilele întârzieri ale autobuzelor pe timp de ploaie.",
+              "Aveți banii sau cardul de autobuz la îndemână pentru a urca rapid.",
+              "Un rucsac cu husă de ploaie vă va păstra obiectele de valoare uscate."
+            ],
+            "en": [
+              "Check the 'Libertas Dubrovnik' app for real-time bus data during rain.",
+              "Wear waterproof clothing as the path to the bus stop is unsheltered.",
+              "Keep in mind that buses may be delayed during heavy rain storms.",
+              "Have your exact change or bus pass ready to board the bus quickly.",
+              "A small backpack with a rain cover will keep your valuables dry."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus erreichen wir das morgendliche Trsteno und genießen die klare Winterluft bei den Platanen. Mittags wärmt uns die Sonne im Arboretum, während wir die Villa besichtigen. Am Nachmittag besuchen wir den Neptunbrunnen und wandern zum Pavillon, um die Aussicht zu genießen. Da es im Winter früh dunkel wird, kehren wir rechtzeitig zum Busstop zurück und genießen die beleuchtete Küstenstraße auf der Rückfahrt.",
+            "hu": "Busszal érkezünk a reggeli Trstenóba, élvezve a tiszta téli levegőt a platánoknál. Délben a napfényes arborétumban sétálunk, majd meglátogatjuk a villát. Délután a Neptun-kutat és a pavilont keressük fel a kilátásért. Mivel télen korán sötétedik, időben visszatérünk a buszmegállóhoz, és a kivilágított parti úton utazunk vissza.",
+            "ro": "Ajungem cu autobuzul în Trsteno și ne bucurăm de aerul curat de iarnă lângă platani. La prânz soarele ne încălzește în arboretum în timp ce vizităm vila. După-amiaza mergem la fântâna lui Neptun și la pavilion pentru priveliște. Deoarece iarna se întunecă devreme, revenim din timp la stație și admirăm drumul de coastă luminat la întoarcere.",
+            "en": "We reach Trsteno by bus and enjoy the crisp winter air by the plane trees. At noon, the sun warms the Arboretum as we tour the villa. In the afternoon, we visit the Neptune Fountain and the pavilion to take in the views. Since it gets dark early in winter, we return to the bus stop in good time and enjoy the lit-up coastal road on the way back."
+          },
+          "stops": [
+            {
+              "name": "Trsteno Bus Stop",
+              "tip_5lang": {
+                "de": "Beachten Sie den ausgedünnten Winterfahrplan der Linie 12 oder 15.",
+                "hu": "Ügyeljen a 12-es vagy 15-ös busz ritkított téli menetrendjére.",
+                "ro": "Atenție la programul de iarnă redus al liniilor 12 sau 15.",
+                "en": "Note the reduced winter schedule for bus lines 12 or 15."
+              }
+            },
+            {
+              "name": "Giant Plane Trees",
+              "tip_5lang": {
+                "de": "Im Winter ist dies ein sonniger Platz zum Warten auf den Bus.",
+                "hu": "Télen ez egy napos hely a buszra való várakozáshoz.",
+                "ro": "Iarna, acesta este un loc însorit unde puteți aștepta autobuzul.",
+                "en": "In winter, this is a sunny spot to wait for your bus."
+              }
+            },
+            {
+              "name": "Trsteno Arboretum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Mittagsstunden für den Besuch, wenn es am wärmsten ist.",
+                "hu": "A látogatást a déli órákra időzítse, amikor a legmelegebb van.",
+                "ro": "Vizitați arboretumul la orele prânzului, când este cel mai cald.",
+                "en": "Schedule your visit for the midday hours when it is warmest."
+              }
+            },
+            {
+              "name": "Neptune Fountain",
+              "tip_5lang": {
+                "de": "Die Statuen liegen im Winter oft im Schatten; warm anziehen.",
+                "hu": "A szobrok télen gyakran árnyékban vannak; öltözzön fel melegen.",
+                "ro": "Statuile sunt adesea în umbră iarna; îmbrăcați-vă bine.",
+                "en": "The statues are often in the shade in winter; dress warmly."
+              }
+            },
+            {
+              "name": "Viewing Pavilion",
+              "tip_5lang": {
+                "de": "Verlassen Sie den Pavillon rechtzeitig, um den letzten Bus im Hellen zu erreichen.",
+                "hu": "Hagyja el időben a pavilont, hogy még világosban elérje az utolsó buszt.",
+                "ro": "Părăsiți pavilionul la timp pentru a prinde autobuzul pe lumină.",
+                "en": "Leave the pavilion in time to catch the last bus while it's still light."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse fahren im Winter seltener; planen Sie Ihre Rückkehr genau.",
+              "Im Bus ist es angenehm geheizt, perfekt zum Aufwärmen nach dem Spaziergang.",
+              "Tragen Sie eine Mütze, da es an der Haltestelle zugig sein kann.",
+              "Kaufen Sie Tickets vorab in Dubrovnik (Tisak), um Zeit zu sparen.",
+              "Die Wintersonne geht früh unter, was die Rückfahrt sehr malerisch macht."
+            ],
+            "hu": [
+              "A buszok télen ritkábban járnak; pontosan tervezze meg a visszautat.",
+              "A buszokon kellemes fűtés van, ideális a bemelegedésre a séta után.",
+              "Viseljen sapkát, mert a megállóban télen huzatos lehet az idő.",
+              "Vásárolja meg a jegyet előre Dubrovnikban (Tisak), hogy időt spóroljon.",
+              "A téli naplemente korai, ami nagyon festőivé teszi a buszos visszautat."
+            ],
+            "ro": [
+              "Autobuzele circulă mai rar iarna; planificați-vă revenirea cu grijă.",
+              "În autobuz este cald și bine, perfect pentru a vă încălzi după plimbare.",
+              "Purtați o căciulă, în stația de autobuz poate fi curent iarna.",
+              "Cumpărați biletele în avans din Dubrovnik (Tisak) pentru a economisi timp.",
+              "Apusul de iarnă este timpuriu, făcând drumul de întoarcere foarte pitoresc."
+            ],
+            "en": [
+              "Buses run less frequently in winter; plan your return carefully.",
+              "The bus is comfortably heated, perfect for warming up after your walk.",
+              "Wear a hat, as the bus stop can be quite drafty in winter.",
+              "Buy your tickets in advance in Dubrovnik (Tisak) to save time.",
+              "The winter sunset is early, making the bus ride back very scenic."
+            ]
+          }
+        }
       }
     }
   }

@@ -343,6 +343,214 @@
           "Most museums are closed on Mondays, so plan accordingly.",
           "Be sure to try a 'lángos' at one of the beach buffets."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt an der klassizistischen Rundkirche, die perfekten Schutz vor dem ersten Regenschauer bietet. Ein kurzer Spaziergang führt zum Jókai-Gedächtnis-Haus, wo Sie tief in die Literatur des 19. Jahrhunderts eintauchen, während es draußen stürmt.\n\nMittags bietet die Vaszary Villa kulturelle Zuflucht mit ihren Kunstausstellungen und einem eleganten Café. Der Regen verleiht den umliegenden Villen aus der Reformzeit eine besondere, nostalgische Atmosphäre.\n\nAm Nachmittag erkunden Sie das Bodorka-Besucherzentrum und das Vitorlázeum. Da beide Attraktionen überdacht sind, bleibt der Balaton auch bei schlechtem Wetter erlebbar. Die Unterwasserwelt und die Segelgeschichte halten Sie trocken.\n\nDer Abend klingt am Anna-Ball-Platz aus. Die beleuchteten historischen Fassaden spiegeln sich in den Pfützen der Pflastersteine, was dem Viertel einen einzigartigen Glanz verleiht, bevor Sie in ein gemütliches Restaurant einkehren.",
+            "hu": "A napot a klasszicista Kerek-templomban kezdjük, amely tökéletes menedéket nyújt az első záporok elől. Egy rövid séta után a Jókai Mór Emlékházban merülhetünk el a 19. századi irodalom világában, miközben odakint esik.\n\nDélben a Vaszary Villa kínál kulturális feltöltődést művészeti kiállításaival és elegáns kávézójával. Az eső különleges, nosztalgikus hangulatot kölcsönöz a reformkori villanegyed patinás épületeinek.\n\nDélután a Bodorka Látogatóközpont és a Vitorlázeum vár. Mivel mindkét helyszín fedett, a Balaton élővilága és a hajózás története szárazon is felfedezhető. Az akváriumok látványa megnyugtató a borús időben.\n\nAz estét az Anna-bálok helyszínén, a Horváth-ház környékén zárjuk. A kivilágított történelmi homlokzatok tükröződése a vizes díszburkolaton különleges látványt nyújt, mielőtt betérnénk egy hangulatos étterembe.",
+            "ro": "Ziua începe la Biserica Rotundă, care oferă un adăpost perfect împotriva primelor averse. O scurtă plimbare duce la Casa Memorială Jókai Mór, unde puteți explora literatura secolului al XIX-lea în timp ce afară plouă.\n\nLa prânz, Vila Vaszary oferă refugiu cultural cu expozițiile sale de artă și o cafenea elegantă. Ploaia conferă vilelor din epoca reformei o atmosferă nostalgică deosebită.\n\nDupă-amiaza vizitați Centrul Bodorka și Muzeul Vitorlázeum. Ambele fiind atracții interioare, puteți descoperi fauna Balatonului și istoria navigației fără a vă uda. Acvariile sunt fascinante pe vreme închisă.\n\nSeara se încheie în Piața Balului Anna. Fațadele istorice iluminate se reflectă în bălțile de pe pavaj, oferind cartierului o strălucire unică înainte de a intra într-un restaurant primitor.",
+            "en": "The day starts at the Neoclassical Round Church, providing perfect shelter from the initial showers. A short walk leads to the Jókai Mór Memorial House, where you can delve into 19th-century literature while it pours outside.\n\nAt noon, Vaszary Villa offers cultural refuge with its art exhibitions and an elegant café. The rain adds a special, nostalgic atmosphere to the surrounding Reform-era villas.\n\nIn the afternoon, explore the Bodorka Visitor Centre and the Vitorlázeum. Since both are indoor attractions, you can experience Lake Balaton's wildlife and sailing history while staying dry.\n\nThe evening concludes at Anna Ball Square. The illuminated historical facades reflect in the puddles on the pavement, giving the district a unique glow before heading into a cozy restaurant."
+          },
+          "stops": [
+            {
+              "name": "Round Church",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Kuppelgemälde, während Sie den Schauer abwarten.",
+                "hu": "Csodálja meg a kupolafestményeket, amíg kint eláll az eső.",
+                "ro": "Admirați picturile din cupolă în timp ce așteptați să treacă ploaia.",
+                "en": "Admire the dome paintings while waiting for the shower to pass."
+              }
+            },
+            {
+              "name": "Jókai Mór Memorial House",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe für nasse Mäntel und Schirme.",
+                "hu": "Használja a ruhatárat a vizes kabátok és esernyők számára.",
+                "ro": "Folosiți garderoba pentru hainele ude și umbrele.",
+                "en": "Use the cloakroom for wet coats and umbrellas."
+              }
+            },
+            {
+              "name": "Vaszary Villa",
+              "tip_5lang": {
+                "de": "Genießen Sie einen Kaffee auf der überdachten Terrasse.",
+                "hu": "Élvezzen egy kávét a fedett teraszon a kertre nézve.",
+                "ro": "Savurați o cafea pe terasa acoperită cu vedere la grădină.",
+                "en": "Enjoy a coffee on the covered terrace overlooking the garden."
+              }
+            },
+            {
+              "name": "Tagore Promenade",
+              "tip_5lang": {
+                "de": "Nutzen Sie die dichte Platanenallee als natürlichen Regenschutz.",
+                "hu": "Használja a sűrű platánsort természetes esernyőként.",
+                "ro": "Folosiți aleea de platani ca adăpost natural împotriva ploii.",
+                "en": "Use the dense plane tree alley as natural rain protection."
+              }
+            },
+            {
+              "name": "Bodorka Balaton Water World Visitor Centre",
+              "tip_5lang": {
+                "de": "Perfekt für eine Stunde im Trockenen bei den Fischen.",
+                "hu": "Tökéletes helyszín egy száraz órára a halak társaságában.",
+                "ro": "Locul perfect pentru o oră la adăpost, printre pești.",
+                "en": "Perfect spot for a dry hour among the fish."
+              }
+            },
+            {
+              "name": "Vitorlázeum (Sailing Museum)",
+              "tip_5lang": {
+                "de": "Der Segelsimulator macht auch bei echtem Regen Spaß.",
+                "hu": "A vitorlás szimulátor valódi esőben is szórakoztató.",
+                "ro": "Simulatorul de navigație este distractiv chiar și pe ploaie.",
+                "en": "The sailing simulator is fun even during real rain."
+              }
+            },
+            {
+              "name": "Anna Ball Square & Horváth House",
+              "tip_5lang": {
+                "de": "Die Arkaden bieten guten Schutz für Fotos.",
+                "hu": "Az árkádok jó védelmet nyújtanak a fotózáshoz.",
+                "ro": "Arcadele oferă protecție bună pentru fotografii.",
+                "en": "The arcades provide good protection for taking photos."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da das Kopfsteinpflaster rutschig werden kann.",
+              "Die Museen in Füred liegen nah beieinander, ideal für kurze Sprints.",
+              "Kaufen Sie ein Kombiticket für die Museen, um Wartezeiten im Regen zu vermeiden.",
+              "Suchen Sie Schutz unter den weiten Arkaden des Horváth-Hauses.",
+              "Die Bodorka-Ausstellung ist komplett barrierefrei und trocken erreichbar."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert a történelmi kövezet csúszóssá válhat.",
+              "A múzeumok közel vannak egymáshoz, így minimális az ázás veszélye.",
+              "Érdemes kombinált jegyet váltani a látnivalókra a gyorsabb bejutásért.",
+              "A Horváth-ház árkádjai alatt szárazon is nézelődhet.",
+              "A Bodorka és a Vitorlázeum ideális családi program tartós esőben is."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, pavajul istoric poate deveni alunecos.",
+              "Muzeele sunt aproape unul de celălalt, minimizând timpul petrecut în ploaie.",
+              "Cumpărați bilete combinate pentru a evita cozile la intrare.",
+              "Arcadele Casei Horváth oferă un loc bun de observație la adăpost.",
+              "Vitorlázeum și Bodorka sunt excelente pentru familii pe vreme ploioasă."
+            ],
+            "en": [
+              "Wear waterproof shoes as the historic pavement can become slippery.",
+              "The museums are located close to each other, minimizing exposure to rain.",
+              "Consider buying a combined ticket to speed up entry into attractions.",
+              "The arcades of the Horváth House provide good shelter for sightseeing.",
+              "Bodorka and Vitorlázeum are ideal family programs during persistent rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Ruhe beginnt an der Kerek-templom. Die klare, kalte Luft macht den Blick auf die klassizistischen Details schärfer, während im Inneren eine andächtige Stille herrscht.\n\nMittags wärmen Sie sich in den Jókai- und Vaszary-Gedenkstätten auf. Die geheizten Räume der Villen bieten eine wohlige Atmosphäre, um die Geschichte Füreds ohne die sommerlichen Touristenmassen zu erleben.\n\nDer Nachmittag am Seeufer ist erfrischend. Der Wind vom Balaton kann schneidig sein, daher sind das Bodorka und das Vitorlázeum ideale Stopps, um zwischendurch aufzutauen und die maritime Welt zu bestaunen.\n\nDa die Sonne bereits gegen 16:30 Uhr sinkt, wirkt der Anna-Ball-Platz in der frühen Dämmerung besonders festlich. Ein heißer Glühwein oder Tee in einem lokalen Café ist der perfekte Abschluss des Tages.",
+            "hu": "A téli nyugalom a Kerek-templomnál kezdődik. A tiszta, hideg időben a klasszicista részletek még élesebben kirajzolódnak, bent pedig áhítatos csend fogad.\n\nDélben a Jókai Emlékház és a Vaszary Villa fűtött termeiben melegedhetünk fel. A reformkori villák miliője télen is magával ragadó, és ilyenkor tömeg nélkül élvezhetjük a kiállításokat.\n\nA délutáni séta a tóparton frissítő, de a balatoni szél metsző lehet. A Bodorka és a Vitorlázeum ilyenkor tökéletes menedék, hogy kicsit kiolvadjunk a tengerészek és halak között.\n\nMivel korán sötétedik, a Tagore sétány és az Anna-bál tér már délután ünnepi fényekbe öltözik. Egy forró tea vagy forralt bor egy helyi cukrászdában teszi teljessé a napot.",
+            "ro": "Liniștea iernii începe la Biserica Rotundă. Aerul rece și curat face detaliile clasiciste mai clare, în timp ce în interior domnește o tăcere pioasă.\n\nLa prânz, încălziți-vă în sălile primitoare ale Casei Jókai și Vilei Vaszary. Atmosfera vilelor de epocă este captivantă și iarna, permițându-vă să vizitați fără aglomerația de vară.\n\nPlimbarea de după-amiază pe malul lacului este revigorantă, dar vântul poate fi tăios. Centrul Bodorka și Vitorlázeum sunt opriri ideale pentru a vă dezmorți admirând lumea maritimă.\n\nDeoarece soarele apune devreme, Piața Balului Anna capătă un aer festiv încă de la ora 16:30. Un vin fiert sau un ceai fierbinte într-o cafenea locală reprezintă încheierea perfectă a zilei.",
+            "en": "The winter tranquility begins at the Round Church. In the crisp, cold air, the Neoclassical details stand out sharply, while a prayerful silence greets you inside.\n\nAt noon, warm up in the heated rooms of the Jókai Memorial House and Vaszary Villa. The atmosphere of these Reform-era villas is enchanting in winter, allowing you to enjoy the exhibits without the summer crowds.\n\nThe afternoon stroll along the lakeshore is refreshing, but the wind from the Balaton can be biting. Bodorka and Vitorlázeum are ideal stops to thaw out while admiring the maritime world.\n\nSince the sun sets early, Anna Ball Square looks festive by 4:30 PM. A hot mulled wine or tea in a local café is the perfect way to wrap up the day."
+          },
+          "stops": [
+            {
+              "name": "Round Church",
+              "tip_5lang": {
+                "de": "Achten Sie auf die kürzeren Öffnungszeiten im Winter.",
+                "hu": "Ügyeljen a rövidebb téli nyitvatartási időre.",
+                "ro": "Atenție la programul de vizitare redus în timpul iernii.",
+                "en": "Note the shorter opening hours during winter."
+              }
+            },
+            {
+              "name": "Jókai Mór Memorial House",
+              "tip_5lang": {
+                "de": "Die Heizung in den historischen Räumen ist sehr gemütlich.",
+                "hu": "A történelmi termek fűtése kellemes meleget ad a sétához.",
+                "ro": "Încălzirea în camerele istorice oferă o căldură plăcută.",
+                "en": "The heating in the historic rooms provides cozy warmth."
+              }
+            },
+            {
+              "name": "Vaszary Villa",
+              "tip_5lang": {
+                "de": "Besuchen Sie die aktuelle Winterausstellung im Obergeschoss.",
+                "hu": "Nézze meg az aktuális téli időszaki kiállítást az emeleten.",
+                "ro": "Vizitați expoziția temporară de iarnă de la etaj.",
+                "en": "Check out the current temporary winter exhibition upstairs."
+              }
+            },
+            {
+              "name": "Tagore Promenade",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das dampfende oder gefrorene Wasser.",
+                "hu": "Élvezze a párolgó vagy befagyott tó látványát a partról.",
+                "ro": "Admirați vederea lacului care aburește sau este înghețat.",
+                "en": "Enjoy the view of the steaming or frozen lake from the shore."
+              }
+            },
+            {
+              "name": "Bodorka Balaton Water World Visitor Centre",
+              "tip_5lang": {
+                "de": "Die Fische sind im Winter genauso aktiv wie im Sommer.",
+                "hu": "A halak télen is ugyanolyan aktívak az akváriumokban.",
+                "ro": "Peștii sunt la fel de activi în acvarii și în timpul iernii.",
+                "en": "The fish are just as active in the aquariums during winter."
+              }
+            },
+            {
+              "name": "Vitorlázeum (Sailing Museum)",
+              "tip_5lang": {
+                "de": "Planen Sie hier Zeit zum Aufwärmen ein.",
+                "hu": "Itt tervezzen be hosszabb időt a felmelegedésre.",
+                "ro": "Planificați mai mult timp aici pentru a vă încălzi.",
+                "en": "Plan some extra time here to warm up properly."
+              }
+            },
+            {
+              "name": "Anna Ball Square & Horváth House",
+              "tip_5lang": {
+                "de": "Die Weihnachtsbeleuchtung ist in der Dämmerung herrlich.",
+                "hu": "Az ünnepi fények gyönyörűek a kora délutáni szürkületben.",
+                "ro": "Luminile de sărbători sunt superbe în amurgul devreme.",
+                "en": "The festive lights are beautiful in the early dusk."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Kleidung, besonders für das Seeufer.",
+              "Die Museen schließen oft früher, prüfen Sie die Zeiten vorab.",
+              "Genießen Sie die Ruhe; im Winter gehört Füred den Spaziergängern.",
+              "Der Dampf über dem Balaton bietet fantastische Fotomotive.",
+              "Einige Cafés am Hafen bieten kuschelige Decken an."
+            ],
+            "hu": [
+              "Öltözzön szélállóan, a Balaton felől érkező szél nagyon hideg.",
+              "A múzeumok korábban zárhatnak, ellenőrizze az időpontokat.",
+              "Használja ki a tömegmentes időszakot a fotózáshoz a parton.",
+              "A befagyott Balaton látványa különleges élmény a Tagore sétányról.",
+              "Keresse a fűtött teraszos helyeket egy meleg italhoz."
+            ],
+            "ro": [
+              "Purtați haine rezistente la vânt, briza lacului este foarte rece.",
+              "Muzeele se pot închide mai devreme, verificați programul în avans.",
+              "Profitați de lipsa aglomerației pentru fotografii reușite pe mal.",
+              "Vederea Balatonului înghețat este o experiență unică de pe faleză.",
+              "Căutați cafenelele cu terase încălzite pentru o băutură caldă."
+            ],
+            "en": [
+              "Wear windproof clothing as the breeze from the lake is very cold.",
+              "Museums may close earlier in winter, check schedules beforehand.",
+              "Take advantage of the lack of crowds for great photos along the shore.",
+              "The sight of the frozen Balaton is a unique experience from the promenade.",
+              "Look for cafés with heated terraces for a warm drink."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -657,6 +865,196 @@
           "A helmet is strongly recommended.",
           "Check your tire pressure before you start."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen beginnt die Tour am Hafen. Mit guter Ausrüstung ist die Fahrt entlang der Promenade erfrischend, da die Platanen den ersten Guss abfangen.\n\nMittags erkunden Sie das Villenviertel. Die nassen Asphaltstraßen glänzen, und Sie können schnell zwischen den überdachten historischen Stätten hin- und herfahren.\n\nNach dem Mittagessen führt der Weg zur Lóczy-Höhle. Da es eine Naturhöhle ist, bietet sie eine konstante Temperatur und Schutz vor dem Regen, während Sie die Tropfsteine bewundern.\n\nAm späten Nachmittag geben Sie die Räder zurück. Der kurze Rückweg zum Hafen ist bei Regen gut machbar, da die Wege befestigt sind.",
+            "hu": "Az eső ellenére a túra a kikötőben indul. Megfelelő felszereléssel a Tagore sétány frissítő, a platánok felfogják az eső egy részét.\n\nDélben a villanegyedet fedezzük fel. A vizes aszfalt csillog, és gyorsan válthatunk a fedett történelmi helyszínek között kerékpárral.\n\nEbéd után a Lóczy-barlang felé vesszük az irányt. A barlang belsejében védve vagyunk az esőtől, és megcsodálhatjuk a különleges mészkőképződményeket.\n\nKéső délután adjuk le a bringákat. A kikötőbe vezető út esőben is biztonságos a jól kiépített kerékpárutakon.",
+            "ro": "În ciuda ploii, turul începe în port. Cu echipament adecvat, plimbarea pe faleză este revigorantă, platanii oprind o parte din ploaie.\n\nLa prânz explorăm cartierul vilelor. Asfaltul ud strălucește, iar bicicleta vă permite să vă deplasați rapid între siturile istorice acoperite.\n\nDupă prânz, ne îndreptăm spre Peștera Lóczy. În interiorul peșterii sunteți protejați de ploaie și puteți admira formațiunile de calcar.\n\nSpre seară returnăm bicicletele. Drumul spre port este sigur chiar și pe ploaie datorită pistelor de biciclete bine amenajate.",
+            "en": "Despite the rain, the tour starts at the harbor. With proper gear, the ride along the promenade is refreshing as the plane trees catch the first drops.\n\nAt noon, explore the villa district. The wet asphalt glimmers, and you can quickly move between the covered historical sites by bike.\n\nAfter lunch, head towards the Lóczy Cave. Inside the cave, you are protected from the rain while admiring the unique limestone formations.\n\nIn the late afternoon, return the bikes. The ride back to the harbor is safe even in the rain due to the well-maintained bike paths."
+          },
+          "stops": [
+            {
+              "name": "Bike Rental at the Harbor",
+              "tip_5lang": {
+                "de": "Fragen Sie nach einem Modell mit Schutzblechen.",
+                "hu": "Kérjen sárvédővel felszerelt modellt a kölcsönzőben.",
+                "ro": "Cereți un model echipat cu aripi împotriva noroiului.",
+                "en": "Ask for a model equipped with mudguards at the rental."
+              }
+            },
+            {
+              "name": "Tagore Promenade & Bodorka",
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf dem nassen Pflaster.",
+                "hu": "Vezessen óvatosan a nedves díszburkolaton.",
+                "ro": "Conduceți cu prudență pe pavajul umed.",
+                "en": "Ride carefully on the wet decorative pavement."
+              }
+            },
+            {
+              "name": "Reform Era Villa District",
+              "tip_5lang": {
+                "de": "Die Bäume bieten hier guten Schutz bei kurzen Schauern.",
+                "hu": "A fák jó védelmet nyújtanak a rövid záporok idején.",
+                "ro": "Copacii oferă protecție bună în timpul averselor scurte.",
+                "en": "The trees provide good shelter during short showers."
+              }
+            },
+            {
+              "name": "Lunch in the city center",
+              "tip_5lang": {
+                "de": "Suchen Sie einen Platz mit Innenhof-Fahrradparkplätzen.",
+                "hu": "Keressen belső udvaros kerékpárparkolót az ebédhez.",
+                "ro": "Căutați un loc cu parcare interioară pentru biciclete.",
+                "en": "Look for a spot with indoor courtyard bike parking."
+              }
+            },
+            {
+              "name": "Lóczy Cave",
+              "tip_5lang": {
+                "de": "Der Weg zur Höhle ist bergauf und kann rutschig sein.",
+                "hu": "A barlanghoz vezető út emelkedik és csúszós lehet.",
+                "ro": "Drumul spre peșteră este în pantă și poate fi alunecos.",
+                "en": "The path to the cave is uphill and can be slippery."
+              }
+            },
+            {
+              "name": "Return to the Harbor",
+              "tip_5lang": {
+                "de": "Trocknen Sie die Sättel vor der Rückgabe ab.",
+                "hu": "Törölje le a nyerget a leadás előtt.",
+                "ro": "Ștergeți șaua înainte de returnare.",
+                "en": "Wipe down the saddle before returning the bike."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie einen Regenponcho, der auch die Beine bedeckt.",
+              "Vermeiden Sie starkes Bremsen auf den Markierungen der Radwege.",
+              "Die Lóczy-Höhle ist ein perfektes Ziel für eine Regenpause.",
+              "Prüfen Sie, ob der Verleih Schlösser stellt, um schnell in Museen zu springen.",
+              "Der Belag am Hafen kann bei Nässe extrem glatt sein."
+            ],
+            "hu": [
+              "Használjon esőpelerint, ami a lábait is védi tekerés közben.",
+              "Kerülje az erős fékezést a kerékpárút felfestett jelein.",
+              "A Lóczy-barlang kiváló célpont egy hosszabb eső szünetre.",
+              "Ellenőrizze, hogy kap-e lakatot, ha beugrana egy múzeumba.",
+              "A kikötői burkolat vizesen rendkívül csúszós lehet."
+            ],
+            "ro": [
+              "Folosiți o pelerină de ploaie care vă protejează și picioarele.",
+              "Evitați frânarea bruscă pe marcajele pistelor de biciclete.",
+              "Peștera Lóczy este o destinație excelentă pentru o pauză de ploaie.",
+              "Verificați dacă primiți antifurt pentru a putea intra în muzee.",
+              "Pavajul din port poate fi extrem de alunecos când este ud."
+            ],
+            "en": [
+              "Use a rain poncho that also covers your legs while riding.",
+              "Avoid hard braking on the painted markings of the bike paths.",
+              "Lóczy Cave is an excellent destination for a longer rain break.",
+              "Check if you get a lock if you want to pop into a museum.",
+              "The harbor pavement can be extremely slippery when wet."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintertour startet erfrischend am Hafen. Die kalte Brise vom See her weckt die Geister, während man auf den leeren Wegen Tempo machen kann.\n\nMittags erkunden Sie die Villenviertel. Ohne das Laub der Bäume hat man einen besseren Blick auf die Architektur der Reformzeit.\n\nNach dem Aufwärmen beim Mittagessen ist die Fahrt zur Lóczy-Höhle eine sportliche Herausforderung. Die Bewegung hält warm, und die Höhle bietet eine stabile Temperatur.\n\nAm Nachmittag geht es zurück zum Hafen. Die tiefstehende Sonne sorgt für eine wunderschöne Beleuchtung der Uferlandschaft, bevor die Kälte des Abends einsetzt.",
+            "hu": "A téli túra frissítően indul a kikötőben. A tavi szél élénkítő, az üres utakon pedig kényelmesen lehet haladni.\n\nDélben a villanegyed utcáit járjuk be. Lombkoronák nélkül jobban érvényesül a reformkori épületek architektúrája.\n\nAz ebédet követő felmelegedés után a Lóczy-barlanghoz vezető út igazi sportértékkel bír, a mozgás segít melegen tartani a testet.\n\nDélután gurulunk vissza a kikötőbe. Az alacsonyan járó nap csodásan világítja meg a tópartot, mielőtt beállna az esti fagy.",
+            "ro": "Turul de iarnă începe revigorant în port. Briza lacului este trezitoare, iar drumurile libere permit un avans confortabil.\n\nLa prânz parcurgem străzile cartierului de vile. Fără frunziș, arhitectura clădirilor din epoca reformei este mult mai vizibilă.\n\nDupă încălzirea de la prânz, drumul spre Peștera Lóczy este o provocare sportivă, mișcarea ajutând la menținerea căldurii corporale.\n\nDupă-amiaza ne întoarcem spre port. Soarele jos luminează superb malul lacului înainte de instalarea gerului de seară.",
+            "en": "The winter tour starts refreshingly at the harbor. The lake breeze is invigorating, and the empty paths allow for a comfortable pace.\n\nAt noon, explore the streets of the villa district. Without the foliage, the architecture of the Reform-era buildings is more prominent.\n\nAfter warming up at lunch, the ride to Lóczy Cave is a real sporting challenge; movement helps keep the body warm.\n\nIn the afternoon, roll back to the harbor. The low sun illuminates the lakeshore beautifully before the evening frost sets in."
+          },
+          "stops": [
+            {
+              "name": "Bike Rental at the Harbor",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Reifendruck, er sinkt bei Kälte schneller.",
+                "hu": "Ellenőrizze a guminyomást, hidegben gyorsabban csökken.",
+                "ro": "Verificați presiunea în pneuri, scade mai repede la rece.",
+                "en": "Check the tire pressure; it drops faster in the cold."
+              }
+            },
+            {
+              "name": "Tagore Promenade & Bodorka",
+              "tip_5lang": {
+                "de": "Vermeiden Sie schattige Stellen, dort kann es glatt sein.",
+                "hu": "Kerülje az árnyékos foltokat, ott jegesedés lehet.",
+                "ro": "Evitați zonele umbrite, acolo poate fi gheață.",
+                "en": "Avoid shaded spots; there may be ice patches."
+              }
+            },
+            {
+              "name": "Reform Era Villa District",
+              "tip_5lang": {
+                "de": "Gute Handschuhe sind für die Abfahrten essenziell.",
+                "hu": "A lejtőkön elengedhetetlen a jó kesztyű.",
+                "ro": "Mănușile bune sunt esențiale pentru coborâri.",
+                "en": "Good gloves are essential for the descents."
+              }
+            },
+            {
+              "name": "Lunch in the city center",
+              "tip_5lang": {
+                "de": "Suchen Sie einen Platz zum Aufwärmen der Akkus (falls E-Bike).",
+                "hu": "Keressen helyet az akkuk melegítésére (E-bike esetén).",
+                "ro": "Căutați un loc pentru încălzirea bateriilor (dacă e E-bike).",
+                "en": "Find a place to warm up batteries (if using an E-bike)."
+              }
+            },
+            {
+              "name": "Lóczy Cave",
+              "tip_5lang": {
+                "de": "In der Höhle ist es wärmer als draußen (ca. 12°C).",
+                "hu": "A barlangban melegebb van, mint kint (kb. 12°C).",
+                "ro": "În peșteră este mai cald decât afară (aprox. 12°C).",
+                "en": "It is warmer inside the cave than outside (approx. 12°C)."
+              }
+            },
+            {
+              "name": "Return to the Harbor",
+              "tip_5lang": {
+                "de": "Geben Sie das Rad vor Einbruch der Dunkelheit ab.",
+                "hu": "Adja le a kerékpárt még sötétedés előtt.",
+                "ro": "Returnați bicicleta înainte de lăsarea întunericului.",
+                "en": "Return the bike before darkness sets in."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie mehrere Schichten und winddichte Handschuhe.",
+              "Achten Sie auf Raureif auf den Brücken und am Hafen.",
+              "Die Wintersonne steht tief, eine Sonnenbrille hilft beim Fahren.",
+              "E-Bike-Akkus entladen sich bei Frost schneller, planen Sie kürzere Wege.",
+              "Ein Thermosbecher im Flaschenhalter hält Sie warm."
+            ],
+            "hu": [
+              "Öltözzön rétegesen és viseljen szélálló kesztyűt.",
+              "Ügyeljen a zúzmarára a hidakon és a kikötő környékén.",
+              "A téli nap alacsonyan jár, napszemüveg sokat segít a vezetésben.",
+              "Az E-bike akkuk gyorsabban merülnek fagyban, tervezzen rövidebb utat.",
+              "Egy termosz a kulacstartóban sokat javít a komfortérzeten."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi și purtați mănuși rezistente la vânt.",
+              "Atenție la chiciură pe poduri și în zona portului.",
+              "Soarele de iarnă este jos, ochelarii de soare ajută mult la condus.",
+              "Bateriile E-bike se descarcă mai repede la ger, planificați rute scurte.",
+              "Un termos în suportul de bidon vă va menține cald."
+            ],
+            "en": [
+              "Dress in layers and wear windproof gloves.",
+              "Watch out for frost on bridges and around the harbor area.",
+              "The winter sun is low; sunglasses help a lot while riding.",
+              "E-bike batteries drain faster in frost; plan for shorter routes.",
+              "A thermos in the bottle cage significantly improves comfort."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1001,6 +1399,214 @@
           "Watch out for cyclists on the lakeside roads.",
           "A GPS is helpful for navigating the smaller streets."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Autotour beginnt an der Lóczy-Höhle. Parken Sie direkt davor und springen Sie ins Trockene der Höhle. Der Regen draußen stört hier nicht.\n\nMittags fahren Sie zur Rundkirche. Ein kurzer Sprint vom Parkplatz zum Eingang genügt, um die Architektur zu bewundern.\n\nAm Hafen nutzen Sie das Parkhaus. So erreichen Sie das Vitorlázeum und die Restaurants trockenen Fußes. Der Blick aus dem Autofenster auf den verregneten See hat einen melancholischen Charme.\n\nDer Nachmittag endet bei den Villen. Da Sie mit dem Auto flexibel sind, können Sie direkt vor dem Jókai-Haus parken und die Besichtigung ohne lange Wege im Regen genießen.",
+            "hu": "Az autós túra a Lóczy-barlangnál indul. Parkoljon közvetlenül előtte, és ugorjon be a barlang száraz mélyébe. Az eső itt nem zavaró.\n\nDélben a Kerek-templomhoz hajtunk. Egy rövid sprint a parkolóból a bejáratig elég ahhoz, hogy megcsodáljuk az építészetet.\n\nA kikötőnél használja a parkolóházat. Így száraz lábbal érheti el a Vitorlázeumot és az éttermeket. Az autó ablakából nézve az esős Balatonnak sajátos varázsa van.\n\nA délután a villáknál zárul. Mivel autóval rugalmas, közvetlenül a Jókai-ház előtt állhat meg, így elkerülheti a hosszas ázást.",
+            "ro": "Turul auto începe la Peștera Lóczy. Parcați direct în față și intrați în interiorul uscat al peșterii. Ploaia de afară nu contează aici.\n\nLa prânz mergem la Biserica Rotundă. Un scurt sprint din parcare până la intrare este suficient pentru a admira arhitectura.\n\nÎn port folosiți parcarea acoperită. Astfel ajungeți cu picioarele uscate la Vitorlázeum și la restaurante. Vederea lacului ploios din mașină are un farmec aparte.\n\nDupă-amiaza se încheie la vile. Fiind flexibil cu mașina, puteți opri direct în fața Casei Jókai, evitând plimbările lungi prin ploaie.",
+            "en": "The car tour starts at Lóczy Cave. Park directly in front and jump into the dry depths of the cave. The rain outside doesn't matter here.\n\nAt noon, drive to the Round Church. A short sprint from the parking lot to the entrance is enough to admire the architecture.\n\nAt the harbor, use the parking garage. This way, you can reach the Vitorlázeum and restaurants with dry feet. Watching the rainy Balaton from the car window has its own charm.\n\nThe afternoon ends at the villas. Being flexible with a car, you can park right in front of the Jókai House, avoiding long walks in the rain."
+          },
+          "stops": [
+            {
+              "name": "Parking at Lóczy Cave",
+              "tip_5lang": {
+                "de": "Der Parkplatz kann bei starkem Regen matschig sein.",
+                "hu": "A parkoló erős esőben sáros lehet, óvatosan szálljon ki.",
+                "ro": "Parcarea poate fi noroioasă la ploi abundente.",
+                "en": "The parking lot can be muddy during heavy rain."
+              }
+            },
+            {
+              "name": "Lóczy Cave",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Unterstand am Eingang, um Schirme zu schließen.",
+                "hu": "Használja a bejárat melletti előtetőt az esernyők összecsukásához.",
+                "ro": "Folosiți copertina de la intrare pentru a închide umbrelele.",
+                "en": "Use the canopy by the entrance to close your umbrellas."
+              }
+            },
+            {
+              "name": "Round Church",
+              "tip_5lang": {
+                "de": "Parken Sie in der Blaha Lujza utca für den kürzesten Weg.",
+                "hu": "Parkoljon a Blaha Lujza utcában a legrövidebb útért.",
+                "ro": "Parcați pe strada Blaha Lujza pentru cel mai scurt drum.",
+                "en": "Park on Blaha Lujza street for the shortest walk."
+              }
+            },
+            {
+              "name": "Drive to the Harbor Parking Garage",
+              "tip_5lang": {
+                "de": "Das Parkhaus ist die beste Wahl, um trocken zu bleiben.",
+                "hu": "A parkolóház a legjobb választás, hogy száraz maradjon.",
+                "ro": "Parcarea supraetajată este cea mai bună alegere pentru a rămâne uscat.",
+                "en": "The parking garage is the best choice to stay dry."
+              }
+            },
+            {
+              "name": "Vitorlázeum & Lunch",
+              "tip_5lang": {
+                "de": "Direkter Zugang vom Parkhaus zu vielen Restaurants.",
+                "hu": "Közvetlen átjárás a parkolóból számos étteremhez.",
+                "ro": "Acces direct din parcare la multe restaurante.",
+                "en": "Direct access from the parking to many restaurants."
+              }
+            },
+            {
+              "name": "Tagore Promenade & Bodorka",
+              "tip_5lang": {
+                "de": "Fahren Sie nah an das Bodorka-Gebäude heran.",
+                "hu": "Hajtson közelebb a Bodorka épületéhez a kiszálláshoz.",
+                "ro": "Conduceți aproape de clădirea Bodorka pentru debarcare.",
+                "en": "Drive close to the Bodorka building for drop-off."
+              }
+            },
+            {
+              "name": "Vaszary Villa & Jókai House",
+              "tip_5lang": {
+                "de": "Es gibt begrenzte Parkplätze direkt an der Kurie.",
+                "hu": "Közvetlenül a kúria mellett korlátozott számú parkoló van.",
+                "ro": "Există locuri de parcare limitate direct lângă conac.",
+                "en": "There are limited parking spaces right by the manor."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie das Parkhaus am Hafen für maximalen Komfort.",
+              "Die Straßen im Oberdorf sind eng; bei Regen ist Vorsicht geboten.",
+              "Hinterlassen Sie keine feuchten Schirme auf den Polstern.",
+              "Einige Sehenswürdigkeiten bieten 'Drive-by'-Ansichten der Fassaden.",
+              "Prüfen Sie die Wischerblätter vor der Fahrt am See."
+            ],
+            "hu": [
+              "Használja a kikötői parkolóházat a maximális kényelemért.",
+              "A felsővárosi utcák szűkek, esőben fokozott óvatosságot igényelnek.",
+              "Ne hagyjon vizes esernyőt az üléseken a pára miatt.",
+              "Számos látnivaló homlokzata az autóból is jól látható.",
+              "Ellenőrizze az ablaktörlőket a tavi autózás előtt."
+            ],
+            "ro": [
+              "Utilizați parcarea supraetajată din port pentru confort maxim.",
+              "Străzile din orașul de sus sunt înguste, necesită prudență pe ploaie.",
+              "Nu lăsați umbrele ude pe scaune din cauza umidității.",
+              "Multe fațade ale obiectivelor pot fi văzute bine și din mașină.",
+              "Verificați ștergătoarele înainte de a conduce pe lângă lac."
+            ],
+            "en": [
+              "Use the harbor parking garage for maximum comfort.",
+              "The upper town streets are narrow and require extra caution in the rain.",
+              "Don't leave wet umbrellas on the seats to avoid humidity.",
+              "Many attraction facades are well visible from the car window.",
+              "Check your wiper blades before driving around the lake."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintertour beginnt an der Lóczy-Höhle. Die Sitzheizung macht den Weg bergauf angenehm, und Sie können die frostige Landschaft sicher genießen.\n\nMittags besuchen Sie die Rundkirche. Die klare Sicht bietet tolle Fotomöglichkeiten der Architektur gegen den blauen Winterhimmel.\n\nAm Hafen parken Sie nah am Wasser. Der Blick auf den teilweise zugefrorenen Balaton ist vom warmen Autoinnenraum aus besonders spektakulär.\n\nDen Nachmittag verbringen Sie im Villenviertel. Da Sie mit dem Auto schnell zwischen den Standorten wechseln, minimieren Sie die Zeit in der Kälte und maximieren den Genuss der Ausstellungen.",
+            "hu": "A téli autós túra a Lóczy-barlangnál indul. Az ülésfűtés kényelmessé teszi az emelkedőt, és biztonságban élvezheti a zúzmarás tájat.\n\nDélben a Kerek-templomot keressük fel. A tiszta látási viszonyok remek fotótémát kínálnak a kék téli égbolt előtt.\n\nA kikötőnél parkoljon közel a parthoz. A részben befagyott Balaton látványa a meleg autóból nézve különösen látványos.\n\nA délutánt a villanegyedben töltjük. Mivel autóval gyorsan válthat a helyszínek között, minimálisra csökkentheti a hidegben töltött időt.",
+            "ro": "Turul auto de iarnă începe la Peștera Lóczy. Încălzirea în scaune face urcarea plăcută și puteți savura peisajul înghețat în siguranță.\n\nLa prânz vizităm Biserica Rotundă. Vizibilitatea clară oferă oportunități excelente de fotografiere pe fundalul cerului albastru de iarnă.\n\nÎn port parcați aproape de apă. Vederea Balatonului parțial înghețat este spectaculoasă din interiorul cald al mașinii.\n\nDupă-amiaza o petrecem în cartierul de vile. Schimbând rapid locațiile cu mașina, minimizați timpul petrecut în frig.",
+            "en": "The winter car tour starts at Lóczy Cave. Seat heating makes the uphill climb pleasant, and you can safely enjoy the frosty landscape.\n\nAt noon, visit the Round Church. The clear visibility offers great photo opportunities of the architecture against the blue winter sky.\n\nAt the harbor, park close to the shore. The sight of the partially frozen Balaton is particularly spectacular from the warm interior of the car.\n\nThe afternoon is spent in the villa district. Since you move quickly between sites by car, you minimize time spent in the cold."
+          },
+          "stops": [
+            {
+              "name": "Parking at Lóczy Cave",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stellen auf der Zufahrt.",
+                "hu": "Ügyeljen a jeges foltokra a bekötőúton.",
+                "ro": "Atenție la porțiunile înghețate de pe drumul de acces.",
+                "en": "Watch out for icy patches on the access road."
+              }
+            },
+            {
+              "name": "Lóczy Cave",
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor nicht unnötig im Leerlauf laufen.",
+                "hu": "Ne járassa feleslegesen a motort álló helyzetben.",
+                "ro": "Nu lăsați motorul pornit inutil în staționare.",
+                "en": "Do not leave the engine idling unnecessarily."
+              }
+            },
+            {
+              "name": "Round Church",
+              "tip_5lang": {
+                "de": "Parkplätze sind im Winter leichter zu finden.",
+                "hu": "Télen sokkal könnyebb parkolóhelyet találni a környéken.",
+                "ro": "Locurile de parcare sunt mult mai ușor de găsit iarna.",
+                "en": "Parking spaces are much easier to find in winter."
+              }
+            },
+            {
+              "name": "Drive to the Harbor Parking Garage",
+              "tip_5lang": {
+                "de": "Das Parkhaus schützt das Auto vor Frost.",
+                "hu": "A parkolóház megvédi az autót a lefagyástól.",
+                "ro": "Parcarea supraetajată protejează mașina de îngheț.",
+                "en": "The parking garage protects the car from freezing."
+              }
+            },
+            {
+              "name": "Vitorlázeum & Lunch",
+              "tip_5lang": {
+                "de": "Genießen Sie den Hafenblick aus einem beheizten Restaurant.",
+                "hu": "Élvezze a kikötői kilátást egy fűtött étteremből.",
+                "ro": "Savurați vederea portului dintr-un restaurant încălzit.",
+                "en": "Enjoy the harbor view from a heated restaurant."
+              }
+            },
+            {
+              "name": "Tagore Promenade & Bodorka",
+              "tip_5lang": {
+                "de": "Parken Sie für einen kurzen Fotostopp am Straßenrand.",
+                "hu": "Álljon meg az út szélén egy gyors fotóra a partnál.",
+                "ro": "Opriți pe marginea drumului pentru o fotografie rapidă.",
+                "en": "Stop at the roadside for a quick photo by the shore."
+              }
+            },
+            {
+              "name": "Vaszary Villa & Jókai House",
+              "tip_5lang": {
+                "de": "Die Heizung in den Museen ist im Winter sehr effektiv.",
+                "hu": "A múzeumok fűtése télen is kiváló és komfortos.",
+                "ro": "Încălzirea în muzee este excelentă și confortabilă iarna.",
+                "en": "The heating in the museums is excellent and comfortable."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Frostschutz in der Scheibenwaschanlage.",
+              "Vermeiden Sie hastiges Bremsen auf dem Kopfsteinpflaster im Winter.",
+              "Das Parkhaus am Hafen bietet Schutz vor Schnee und Eis.",
+              "Nutzen Sie die gute Parkplatzsituation im Winter für kurze Wege.",
+              "Lassen Sie Winterausrüstung im Kofferraum für Notfälle."
+            ],
+            "hu": [
+              "Ellenőrizze a fagyállót a szélvédőmosóban.",
+              "Kerülje a hirtelen fékezést a téli macskakövön.",
+              "A kikötői parkolóház megvédi az autót a hótól és jégtől.",
+              "Használja ki a bőséges parkolóhelyeket a látnivalók közelében.",
+              "Tartson jégkaparót és meleg takarót az autóban."
+            ],
+            "ro": [
+              "Verificați lichidul de parbriz antigriz.",
+              "Evitați frânarea bruscă pe pavajul de piatră iarna.",
+              "Parcarea supraetajată protejează mașina de zăpadă și gheață.",
+              "Profitați de locurile de parcare numeroase de lângă obiective.",
+              "Țineți o racletă și o pătură caldă în mașină."
+            ],
+            "en": [
+              "Check the antifreeze in your windshield washer fluid.",
+              "Avoid sudden braking on winter cobblestones.",
+              "The harbor parking garage protects the car from snow and ice.",
+              "Take advantage of the abundant parking spaces near attractions.",
+              "Keep an ice scraper and a warm blanket in the car."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1321,6 +1927,196 @@
           "Buses can be crowded in the summer.",
           "Keep an eye on your belongings."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Tour beginnt am Busbahnhof, der guten Schutz bietet. Von hier ist es nur ein kurzer Weg zur Rundkirche, wobei Sie die Buswartehäuschen als Etappenziele nutzen können.\n\nMittags nehmen Sie den lokalen Bus zum Hafen. Das spart den Fußweg im Regen und bringt Sie direkt zum Bodorka und den Museen am See.\n\nNach dem Museumsbesuch erkunden Sie das Villenviertel. Die Buslinien in Füred sind im Regen sehr praktisch, um zwischen Unter- und Oberstadt zu pendeln.\n\nDer Abend endet wieder am Busbahnhof. Die kurzen Umstiegswege sorgen dafür, dass Sie trotz des Wetters mobil bleiben und trocken nach Hause kommen.",
+            "hu": "A túra a buszállomáson indul, amely jó védelmet nyújt. Innen csak rövid táv a Kerek-templom, a buszvárók pedig kiváló pihenőpontok útközben.\n\nDélben helyi járattal megyünk le a kikötőhöz. Ezzel megspóroljuk az esőben való gyaloglást, és közvetlenül a Bodorka mellé érkezünk.\n\nA múzeumlátogatás után a villanegyed következik. A füredi buszjáratok esőben nagyon praktikusak az alsó- és felsőváros közötti közlekedéshez.\n\nAz este a buszállomáson zárul. A gyors csatlakozásoknak köszönhetően az időjárás ellenére is mobilak maradhatunk és szárazon érhetünk haza.",
+            "ro": "Turul începe la autogară, care oferă o protecție bună. De aici este doar o distanță scurtă până la Biserica Rotundă, folosind stațiile de autobuz ca puncte de repaus.\n\nLa prânz luăm autobuzul local până în port. Astfel evităm mersul pe jos prin ploaie și ajungem direct lângă Bodorka.\n\nDupă vizitarea muzeelor, urmează cartierul de vile. Liniile de autobuz din Füred sunt foarte practice pe ploaie pentru legătura dintre orașul de sus și cel de jos.\n\nSeara se încheie la autogară. Datorită conexiunilor rapide, rămâneți mobili în ciuda vremii și ajungeți uscați acasă.",
+            "en": "The tour begins at the bus station, which provides good shelter. From here, it's just a short distance to the Round Church, using the bus shelters as rest points along the way.\n\nAt noon, take a local bus down to the harbor. This saves walking in the rain and drops you off right next to Bodorka.\n\nAfter visiting the museums, the villa district follows. The bus lines in Füred are very practical for traveling between the lower and upper town during rain.\n\nThe evening ends at the bus station. Thanks to quick connections, you can stay mobile despite the weather and get home dry."
+          },
+          "stops": [
+            {
+              "name": "Arrival at the Bus Station",
+              "tip_5lang": {
+                "de": "Warten Sie den stärksten Guss in der Wartehalle ab.",
+                "hu": "Várja meg a legnagyobb záport a váróteremben.",
+                "ro": "Așteptați trecerea celei mai mari averse în sala de așteptare.",
+                "en": "Wait for the heaviest shower in the waiting hall."
+              }
+            },
+            {
+              "name": "Round Church & Upper Town",
+              "tip_5lang": {
+                "de": "Die Kirche bietet Zuflucht bei plötzlichem Regen.",
+                "hu": "A templom jó menedék hirtelen eleredő esőben.",
+                "ro": "Biserica este un adăpost bun în caz de ploaie bruscă.",
+                "en": "The church is a good refuge if it suddenly starts raining."
+              }
+            },
+            {
+              "name": "Bus to the Harbor",
+              "tip_5lang": {
+                "de": "Haben Sie Kleingeld oder eine App für das Ticket bereit.",
+                "hu": "Legyen készpénze vagy applikációja a jegyvásárláshoz.",
+                "ro": "Pregătiți mărunțiș sau o aplicație pentru bilet.",
+                "en": "Have change or a mobile app ready for the ticket."
+              }
+            },
+            {
+              "name": "Stroll on the Tagore Promenade",
+              "tip_5lang": {
+                "de": "Halten Sie sich nah an den Gebäuden für Schutz.",
+                "hu": "Tartózkodjon az épületek közelében a védelem érdekében.",
+                "ro": "Stați aproape de clădiri pentru protecție.",
+                "en": "Stay close to the buildings for extra protection."
+              }
+            },
+            {
+              "name": "Reform Era Villas (Vaszary & Jókai)",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle liegt fast direkt vor der Vaszary Villa.",
+                "hu": "A buszmegálló szinte közvetlenül a Vaszary Villa előtt van.",
+                "ro": "Stația de autobuz este aproape direct în fața Vilei Vaszary.",
+                "en": "The bus stop is almost directly in front of Vaszary Villa."
+              }
+            },
+            {
+              "name": "Return to the Bus Station",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Abfahrtszeiten online bei Regen.",
+                "hu": "Esőben ellenőrizze az indulási időket online.",
+                "ro": "Verificați orele de plecare online pe timp de ploaie.",
+                "en": "Check departure times online during rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die App 'Menetrendek' für Echtzeit-Businfos.",
+              "Die Wartehallen am Hafen sind modern und trocken.",
+              "Planen Sie Pufferzeiten für verkehrsbedingte Verzögerungen ein.",
+              "Kaufen Sie Tageskarten, um flexibel ein- und auszusteigen.",
+              "Die Busse sind gut beheizt und bieten eine Pause vom Regen."
+            ],
+            "hu": [
+              "Használja a Menetrendek alkalmazást a valós idejű infókért.",
+              "A kikötői buszvárók modernek és szárazon tartanak.",
+              "Számoljon némi késéssel a forgalom miatt esős időben.",
+              "Váltson napijegyet a rugalmas közlekedéshez.",
+              "A buszok fűtöttek, így remek helyszínek egy rövid pihenőre."
+            ],
+            "ro": [
+              "Folosiți aplicația de mersul trenurilor/autobuzelor pentru info real-time.",
+              "Stațiile de autobuz din port sunt moderne și vă mențin uscat.",
+              "Luați în calcul posibile întârzieri din cauza traficului pe ploaie.",
+              "Cumpărați un permis de o zi pentru flexibilitate maximă.",
+              "Autobuzele sunt încălzite, oferind o pauză bună de la ploaie."
+            ],
+            "en": [
+              "Use transit apps for real-time bus information.",
+              "The bus shelters at the harbor are modern and keep you dry.",
+              "Allow for some delays due to traffic during rainy weather.",
+              "Buy a day pass for flexible boarding and alighting.",
+              "Buses are well-heated and provide a good break from the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Winterreise beginnt am Busbahnhof. Die geheizte Wartehalle ist ein guter Startpunkt, um sich auf den Tag einzustimmen.\n\nMittags bringt Sie der Bus zur Rundkirche. In der kalten Jahreszeit ist die kurze Fahrt angenehmer als der Weg zu Fuß durch den Wind.\n\nAm Nachmittag erkunden Sie den Hafen und die Tagore-Promenade. Die Busverbindungen sorgen dafür, dass Sie schnell wieder in ein warmes Fahrzeug steigen können, wenn es am Wasser zu kalt wird.\n\nDer Tag endet mit der Rückkehr zum Busbahnhof. Die festliche Beleuchtung entlang der Hauptstraßen macht die Busfahrt am späten Nachmittag zu einem stimmungsvollen Erlebnis.",
+            "hu": "A téli utazás a buszállomáson indul. A fűtött váróterem ideális kiindulópont a nap megtervezéséhez.\n\nDélben busszal megyünk a Kerek-templomhoz. A hideg évszakban a rövid utazás sokkal kellemesebb, mint a gyaloglás a szélben.\n\nDélután a kikötőt és a Tagore sétányt fedezzük fel. A buszjáratok lehetővé teszik, hogy gyorsan meleg helyre kerüljünk, ha a vízparton túl hideg lenne.\n\nA nap a buszállomásra való visszatéréssel zárul. A főutak menti ünnepi kivilágítás hangulatossá teszi a késő délutáni buszozást.",
+            "ro": "Călătoria de iarnă începe la autogară. Sala de așteptare încălzită este punctul ideal de plecare pentru planificarea zilei.\n\nLa prânz mergem cu autobuzul la Biserica Rotundă. În sezonul rece, călătoria scurtă este mult mai plăcută decât mersul pe jos în vânt.\n\nDupă-amiaza explorăm portul și faleza Tagore. Autobuzele vă permit să ajungeți rapid la căldură dacă se face prea frig pe malul lacului.\n\nZiua se încheie cu întoarcerea la autogară. Iluminatul festiv de-a lungul străzilor principale face călătoria cu autobuzul foarte plăcută seara.",
+            "en": "The winter journey starts at the bus station. The heated waiting hall is an ideal starting point for planning the day.\n\nAt noon, take the bus to the Round Church. In the cold season, the short ride is much more pleasant than walking in the wind.\n\nIn the afternoon, explore the harbor and the Tagore Promenade. Bus connections allow you to quickly get back to warmth if it gets too cold by the water.\n\nThe day ends with the return to the bus station. The festive lighting along the main streets makes the late afternoon bus ride a very atmospheric experience."
+          },
+          "stops": [
+            {
+              "name": "Arrival at the Bus Station",
+              "tip_5lang": {
+                "de": "Die Wartehalle ist im Winter gut beheizt.",
+                "hu": "A váróterem télen fűtött és kényelmes.",
+                "ro": "Sala de așteptare este bine încălzită iarna.",
+                "en": "The waiting hall is well-heated during winter."
+              }
+            },
+            {
+              "name": "Round Church & Upper Town",
+              "tip_5lang": {
+                "de": "Die Kirche ist oft kühler, behalten Sie den Mantel an.",
+                "hu": "A templom hűvös lehet, ne vegye le a kabátját.",
+                "ro": "Biserica poate fi răcoroasă, păstrați haina pe dvs.",
+                "en": "The church can be cool; keep your coat on."
+              }
+            },
+            {
+              "name": "Bus to the Harbor",
+              "tip_5lang": {
+                "de": "Im Winter sind die Busse oft weniger überfüllt.",
+                "hu": "Télen a buszok ritkábban zsúfoltak, mint nyáron.",
+                "ro": "Iarna autobuzele sunt adesea mai puțin aglomerate.",
+                "en": "Buses are often less crowded in winter than in summer."
+              }
+            },
+            {
+              "name": "Stroll on the Tagore Promenade",
+              "tip_5lang": {
+                "de": "Gehen Sie zügig, um warm zu bleiben.",
+                "hu": "Sétáljon tempósan, hogy ne fázzon meg a tavi szélben.",
+                "ro": "Mergeți vioi pentru a vă menține cald în briza lacului.",
+                "en": "Walk briskly to stay warm in the lake breeze."
+              }
+            },
+            {
+              "name": "Reform Era Villas (Vaszary & Jókai)",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Bus, um die Steigung im Wind zu vermeiden.",
+                "hu": "Használja a buszt, hogy elkerülje az emelkedőt a hidegben.",
+                "ro": "Folosiți autobuzul pentru a evita urcușul în frig.",
+                "en": "Use the bus to avoid the uphill climb in the cold."
+              }
+            },
+            {
+              "name": "Return to the Bus Station",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Winterfahrplan (geänderte Zeiten).",
+                "hu": "Ellenőrizze a téli menetrendet (módosított időpontok).",
+                "ro": "Verificați mersul autobuzelor de iarnă (ore modificate).",
+                "en": "Check the winter schedule (modified timings)."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie warme Schuhe für das Warten an Haltestellen.",
+              "Die Busse in Füred sind im Winter zuverlässig und warm.",
+              "Die Sonne geht früh unter, planen Sie die Fahrt für 16 Uhr.",
+              "Haben Sie eine Thermoskanne für die Wartezeit dabei.",
+              "Kaufen Sie Fahrkarten vorab, um langes Stehen zu vermeiden."
+            ],
+            "hu": [
+              "Viseljen meleg lábbelit a megállókban való várakozáshoz.",
+              "A füredi buszok télen megbízhatóak és jól fűtöttek.",
+              "A nap korán nyugszik, tervezze a hazautat 16 óra körülre.",
+              "Legyen Önnél termosz meleg itallal a várakozáshoz.",
+              "Vegye meg a jegyet előre, hogy ne kelljen sokat állnia a hidegben."
+            ],
+            "ro": [
+              "Purtați încălțăminte călduroasă pentru așteptarea în stații.",
+              "Autobuzele din Füred sunt fiabile și bine încălzite iarna.",
+              "Soarele apune devreme, planificați întoarcerea în jur de ora 16.",
+              "Țineți la dvs. un termos cu băutură caldă pentru așteptare.",
+              "Cumpărați biletele în avans pentru a nu sta mult în frig."
+            ],
+            "en": [
+              "Wear warm footwear for waiting at bus stops.",
+              "Buses in Füred are reliable and well-heated in winter.",
+              "The sun sets early; plan your return journey around 4 PM.",
+              "Keep a thermos with a warm drink for the wait time.",
+              "Buy your tickets in advance to avoid standing long in the cold."
+            ]
+          }
+        }
       }
     }
   }

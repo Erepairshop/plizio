@@ -379,6 +379,206 @@
           "Bring a reusable water bottle; there are public fountains available.",
           "Allow extra time for spontaneous discoveries in the charming alleyways."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens prasselt der Regen auf den Poesiepark, während wir unter dem Schirm die Skulpturen bewundern.\nMittags bietet die Basilika St. Michael einen majestätischen und trockenen Rückzugsort.\nNachmittags erkunden wir das Kulturzentrum und das historische Bulotų-Haus, ideal bei Schauern.\nAbends endet der Spaziergang am prächtigen Bahnhof, dessen Lichter auf dem nassen Asphalt glänzen.",
+            "hu": "Reggel a Költészet parkjában az eső mossa a szobrokat, érdemes esernyővel indulni.\nDélben a Szent Mihály-bazilika monumentális belső tere nyújt tökéletes menedéket a zápor elől.\nDélután a Kulturális Központ és a Bulotų-ház tárlatai biztosítanak tartalmas beltéri programot.\nEste a vasútállomás patinás épületénél fejezzük be a sétát, ahol a fények szépen tükröződnek a vízen.",
+            "ro": "Dimineața, ploaia cade peste Parcul Poeziei, oferind un decor melancolic monumentelor de pe malul râului.\nLa prânz, Bazilica Sfântul Mihail este refugiul ideal, oferind liniște și protecție împotriva vremii.\nDupă-amiaza vizităm Centrul Cultural și Casa Bulotų, locuri perfecte pentru a evita aversele.\nSeara se încheie la Gara istorică, a cărei arhitectură neobarocă impresionează chiar și pe ploaie.",
+            "en": "Morning rain adds a rhythmic backdrop to Poetry Park as we admire the sculptures under an umbrella.\nAt noon, the Basilica of St. Michael provides a majestic and dry sanctuary from the showers.\nThe afternoon is best spent in the Cultural Centre and the historic Bulotų House to stay dry.\nIn the evening, the walk concludes at the grand Railway Station, with lights reflecting on wet streets."
+          },
+          "stops": [
+            {
+              "name": "Poetry Park",
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Bänke nahe der Šešupė bei starken Güssen.",
+                "hu": "Használja a Šešupė közeli fedett padokat heves zápor esetén.",
+                "ro": "Folosiți băncile acoperite de lângă râul Šešupė în caz de averse.",
+                "en": "Use the covered benches near the Šešupė river during heavy downpours."
+              }
+            },
+            {
+              "name": "Basilica of St. Michael the Archangel",
+              "tip_5lang": {
+                "de": "Trocknen Sie sich im Vorraum ab, bevor Sie das Kirchenschiff betreten.",
+                "hu": "Szárítkozzon meg az előtérben, mielőtt belépne a főhajóba.",
+                "ro": "Uscați-vă în vestibul înainte de a intra în nava bisericii.",
+                "en": "Dry off in the vestibule before entering the main nave."
+              }
+            },
+            {
+              "name": "Marijampolė Cultural Centre",
+              "tip_5lang": {
+                "de": "Ideal, um eine längere Regenfront bei einer Ausstellung abzuwarten.",
+                "hu": "Ideális egy hosszabb esőfront kivárására egy kiállítás mellett.",
+                "ro": "Ideal pentru a aștepta trecerea ploii vizitând o expoziție.",
+                "en": "Ideal for waiting out a long rain front while visiting an exhibition."
+              }
+            },
+            {
+              "name": "Bulotų House",
+              "tip_5lang": {
+                "de": "Besuchen Sie das Museum im Inneren, um dem Wetter ganz zu entfliehen.",
+                "hu": "Látogasson el a belső múzeumba, hogy teljesen elkerülje az időjárást.",
+                "ro": "Vizitați muzeul din interior pentru a scăpa complet de vremea rea.",
+                "en": "Visit the indoor museum to fully escape the weather."
+              }
+            },
+            {
+              "name": "Vytautas the Great Park",
+              "tip_5lang": {
+                "de": "Die befestigten Wege sind auch bei Regen gut begehbar.",
+                "hu": "A burkolt utak esőben is jól járhatóak, kevésbé sárgulnak.",
+                "ro": "Potecile pavate sunt ușor de parcurs chiar și pe ploaie.",
+                "en": "The paved paths remain easily walkable even during rainfall."
+              }
+            },
+            {
+              "name": "Church of St. Vincent de Paul",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort für eine kurze Pause vom Regen.",
+                "hu": "Csendes hely egy rövid pihenőre az eső elől.",
+                "ro": "Un loc liniștit pentru o scurtă pauză de ploaie.",
+                "en": "A quiet spot for a short break from the rain."
+              }
+            },
+            {
+              "name": "Marijampolė Railway Station",
+              "tip_5lang": {
+                "de": "Die Bahnsteigüberdachungen bieten guten Schutz vor Nässe.",
+                "hu": "A perontetők kiváló védelmet nyújtanak a csapadék ellen.",
+                "ro": "Copertinele peronului oferă o protecție excelentă împotriva ploii.",
+                "en": "The platform canopies provide excellent protection from the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für die Parkabschnitte.",
+              "Ein Taschenschirm ist wegen des Windes am Fluss praktischer.",
+              "Nutzen Sie die Cafés in der Nähe der Basilika zum Aufwärmen.",
+              "Prüfen Sie Indoor-Events im Kulturzentrum vorab online."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a parki szakaszokhoz.",
+              "A folyóparti szél miatt a kompakt esernyő praktikusabb.",
+              "Használja a bazilika környéki kávézókat a felmelegedéshez.",
+              "Ellenőrizze előre a Kulturális Központ beltéri programjait."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru secțiunile din parc.",
+              "O umbrelă compactă este mai practică din cauza vântului de pe râu.",
+              "Folosiți cafenelele de lângă Bazilică pentru a vă încălzi.",
+              "Verificați online evenimentele de interior de la Centrul Cultural."
+            ],
+            "en": [
+              "Wear waterproof shoes for the park sections of the walk.",
+              "A compact umbrella is practical due to winds near the river.",
+              "Utilize cafes near the Basilica to dry off and warm up.",
+              "Check for indoor event schedules at the Cultural Centre online."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Am frostigen Morgen glitzert der Poesiepark unter einer feinen Schneeschicht.\nMittags wärmen wir uns in der prächtigen Basilika und genießen die sakrale Stille.\nAm Nachmittag tauchen wir in die Geschichte des Bulotų-Hauses ein, bevor es früh dunkel wird.\nAbends erstrahlt der winterliche Bahnhof in festlicher Beleuchtung unter dem Sternenhimmel.",
+            "hu": "A fagyos reggelen a Költészet parkja zúzmarás csodavilággá változik.\nDélben a bazilika fűtött belső tere és a közeli kávézók nyújtanak menedéket a hideg elől.\nDélután a Bulotų-ház történelmi falai közt kalandozunk, elkerülve a jeges szeleket.\nEste a kivilágított vasútállomás havas tetői igazi karácsonyi hangulatot árasztanak.",
+            "ro": "Într-o dimineață geroasă, Parcul Poeziei strălucește sub un strat fin de zăpadă.\nLa prânz, ne încălzim în interiorul Bazilicii, admirând detaliile arhitecturale.\nDupă-amiaza explorăm istoria locală la Casa Bulotų, înainte ca întunericul să se lase.\nSeara, Gara iluminată festiv oferă un cadru de poveste în peisajul hibernal.",
+            "en": "On a frosty morning, Poetry Park glitters under a fine layer of snow.\nAt noon, we warm up inside the grand Basilica and enjoy the sacred silence.\nIn the afternoon, we dive into the history of Bulotų House before it gets dark early.\nIn the evening, the winter railway station shines with festive lighting under the stars."
+          },
+          "stops": [
+            {
+              "name": "Poetry Park",
+              "tip_5lang": {
+                "de": "Vorsicht vor glatten Stellen auf den Brücken über den Fluss.",
+                "hu": "Vigyázzon a csúszós szakaszokra a folyón átívelő hidakon.",
+                "ro": "Atenție la porțiunile alunecoase de pe podurile peste râu.",
+                "en": "Watch out for slippery patches on the bridges over the river."
+              }
+            },
+            {
+              "name": "Basilica of St. Michael the Archangel",
+              "tip_5lang": {
+                "de": "Genießen Sie die Wärme im Inneren und die besinnliche Ruhe.",
+                "hu": "Élvezze a benti meleget és az áhítatos csendet.",
+                "ro": "Bucurați-vă de căldura din interior și de liniștea deplină.",
+                "en": "Enjoy the warmth inside and the contemplative silence."
+              }
+            },
+            {
+              "name": "Marijampolė Cultural Centre",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe, um schwere Wintermäntel abzulegen.",
+                "hu": "Használja a ruhatárat a nehéz télikabátok leadásához.",
+                "ro": "Folosiți garderoba pentru a lăsa hainele groase de iarnă.",
+                "en": "Use the cloakroom to drop off heavy winter coats."
+              }
+            },
+            {
+              "name": "Bulotų House",
+              "tip_5lang": {
+                "de": "Ein gemütlicher Einblick in die Geschichte, geschützt vor dem Wind.",
+                "hu": "Hangulatos betekintés a történelembe, védve a metsző széltől.",
+                "ro": "O incursiune caldă în istorie, protejată de vântul tăios.",
+                "en": "A cozy glimpse into history, protected from the biting wind."
+              }
+            },
+            {
+              "name": "Vytautas the Great Park",
+              "tip_5lang": {
+                "de": "Die Abendbeleuchtung ist im Schnee besonders zauberhaft.",
+                "hu": "Az esti díszkivilágítás a hóban különösen varázslatos látvány.",
+                "ro": "Iluminatul de seară este deosebit de magic în zăpadă.",
+                "en": "The evening lighting is particularly magical in the snow."
+              }
+            },
+            {
+              "name": "Church of St. Vincent de Paul",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp zum Aufwärmen auf dem Weg zum Bahnhof.",
+                "hu": "Rövid megálló melegedni a vasútállomás felé vezető úton.",
+                "ro": "O scurtă oprire pentru încălzire în drum spre gară.",
+                "en": "A short stop to warm up on the way to the railway station."
+              }
+            },
+            {
+              "name": "Marijampolė Railway Station",
+              "tip_5lang": {
+                "de": "Die Wartehalle bietet einen warmen Platz vor der Abreise.",
+                "hu": "A váróterem meleg helyet biztosít az indulás előtt.",
+                "ro": "Sala de așteptare oferă un loc cald înainte de plecare.",
+                "en": "The waiting hall provides a warm spot before departure."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich in Schichten; litauische Winter sind oft sehr kalt.",
+              "Die Sonne geht früh unter (ca. 16:00 Uhr), planen Sie Parks zuerst.",
+              "Tragen Sie Schuhe mit gutem Profil wegen möglicher Glätte.",
+              "Heißer Tee in lokalen Cafés ist ein Muss nach den Parkbesuchen."
+            ],
+            "hu": [
+              "Öltözzön rétegesen; a litván telek gyakran igen fagyosak.",
+              "A nap korán nyugszik (16:00 körül), a parkokat vegye előre.",
+              "Viseljen jó tapadású talpú cipőt a jeges szakaszok miatt.",
+              "A helyi kávézók forró teája kötelező a parki séták után."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi; iernile lituaniene sunt adesea geroase.",
+              "Soarele apune devreme (aprox. ora 16:00), vizitați parcurile primele.",
+              "Purtați încălțăminte cu talpă aderentă pentru zonele cu gheață.",
+              "Ceaiul fierbinte în cafenelele locale este obligatoriu după parcuri."
+            ],
+            "en": [
+              "Dress in layers; Lithuanian winters can be very cold and biting.",
+              "Sunset is early (around 16:00), so visit the parks first.",
+              "Wear shoes with good grip due to potential icy patches.",
+              "Hot tea in local cafes is a must after visiting the parks."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -732,6 +932,206 @@
           "Use the existing bike paths, especially along the river.",
           "Lock your bike in secure locations when visiting sights."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten am Bahnhof und radeln vorsichtig zur Zuckerfabrik bei leichtem Niesel.\nMittags erreichen wir den Poesiepark und die Basilika, wo wir das Rad kurz abstellen.\nAm Nachmittag geht es durch das Kulturzentrum, während wir die Schauer abwarten.\nAbends endet die Tour an der Kirche St. Vinzenz, die im Regen friedlich wirkt.",
+            "hu": "A vasútállomásról indulunk, óvatosan tekerve a cukorgyár felé a szemerkélő esőben.\nDélben a Költészet parkját és a bazilikát érintjük, ahol rövid pihenőt tartunk fedett helyen.\nDélután a Kulturális Központ kiállításai között várjuk meg a nagyobb záporok végét.\nEste a Szent Vince-templomnál zárjuk a túrát, figyelve a csúszós utakra.",
+            "ro": "Plecăm de la gară, pedalând cu atenție spre Fabrica de Zahăr prin ploaia ușoară.\nLa prânz ajungem la Parcul Poeziei și la Bazilică, unde parcăm bicicleta la adăpost.\nDupă-amiaza explorăm Centrul Cultural în timp ce așteptăm trecerea averselor.\nSeara încheiem turul la Biserica Sf. Vincențiu, care pare liniștită sub ploaie.",
+            "en": "Starting at the station, we cycle carefully to the Sugar Factory in light drizzle.\nAt noon, we reach Poetry Park and the Basilica, parking the bike under cover.\nIn the afternoon, we explore the Cultural Centre while waiting for showers to pass.\nIn the evening, the tour ends at St. Vincent Church, looking peaceful in the rain."
+          },
+          "stops": [
+            {
+              "name": "Marijampolė Railway Station",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor dem Start auf nasser Fahrbahn.",
+                "hu": "Indulás előtt ellenőrizze a fékeket a vizes út miatt.",
+                "ro": "Verificați frânele înainte de pornire din cauza carosabilului umed.",
+                "en": "Check your brakes before starting on the wet road surface."
+              }
+            },
+            {
+              "name": "Marijampolė Sugar Factory",
+              "tip_5lang": {
+                "de": "Die Ziegelwände bieten einen guten Windschutz beim Fotografieren.",
+                "hu": "A téglafalak jó szélvédelmet nyújtanak fotózás közben.",
+                "ro": "Zidurile de cărămidă oferă protecție contra vântului la fotografiere.",
+                "en": "The brick walls provide good wind protection while taking photos."
+              }
+            },
+            {
+              "name": "Poetry Park",
+              "tip_5lang": {
+                "de": "Achtung: Nasses Laub auf den Wegen kann sehr rutschig sein.",
+                "hu": "Vigyázat: a vizes levelek az utakon nagyon csúszósak lehetnek.",
+                "ro": "Atenție: frunzele ude de pe drum pot fi foarte alunecoase.",
+                "en": "Warning: wet leaves on the paths can be very slippery."
+              }
+            },
+            {
+              "name": "Basilica of St. Michael the Archangel",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter den Vorsprüngen in der Nähe ab.",
+                "hu": "Parkolja le a kerékpárt a közeli tetőhajlatok alatt.",
+                "ro": "Parcați bicicleta sub streșinile clădirilor din apropiere.",
+                "en": "Park your bike under the building overhangs nearby."
+              }
+            },
+            {
+              "name": "Marijampolė Cultural Centre",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Regenkleidung kurz zu lüften.",
+                "hu": "Ideális hely az esőruházat rövid szárítására.",
+                "ro": "Un loc ideal pentru a aerisi scurt echipamentul de ploaie.",
+                "en": "An ideal spot to briefly air out your rain gear."
+              }
+            },
+            {
+              "name": "Vytautas the Great Park",
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den Hauptwegen, um Schlamm zu vermeiden.",
+                "hu": "Maradjon a főutakon, hogy elkerülje a sarat.",
+                "ro": "Rămâneți pe aleile principale pentru a evita noroiul.",
+                "en": "Stay on the main paths to avoid the mud."
+              }
+            },
+            {
+              "name": "Church of St. Vincent de Paul",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter dem Kircheneingang bei plötzlichem Guss.",
+                "hu": "Keressen menedéket a templombejáratnál hirtelen zápor esetén.",
+                "ro": "Căutați adăpost la intrarea în biserică în caz de aversă subită.",
+                "en": "Seek shelter at the church entrance during a sudden downpour."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Verringern Sie den Reifendruck leicht für besseren Grip bei Nässe.",
+              "Vermeiden Sie scharfes Bremsen auf bemalten Markierungen.",
+              "Vollständige Regenmontur inklusive Überschuhen ist empfohlen.",
+              "Nutzen Sie helle Lichter, da die Sicht im Regen schlechter ist."
+            ],
+            "hu": [
+              "Csökkentse kissé a guminyomást a jobb tapadásért vizes úton.",
+              "Kerülje az erős fékezést a festett útburkolati jeleken.",
+              "Teljes esőruházat és cipővédő javasolt a túrához.",
+              "Használjon erős lámpákat, mert esőben romlanak a látási viszonyok."
+            ],
+            "ro": [
+              "Reduceți ușor presiunea în pneuri pentru aderență pe ud.",
+              "Evitați frânarea bruscă pe marcajele rutiere vopsite.",
+              "Se recomandă costum de ploaie complet și protecții pentru pantofi.",
+              "Folosiți lumini puternice, vizibilitatea scade pe ploaie."
+            ],
+            "en": [
+              "Lower tire pressure slightly for better grip on wet roads.",
+              "Avoid hard braking on painted road markings.",
+              "Full rain gear including shoe covers is highly recommended.",
+              "Use bright lights as visibility is reduced in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Am klirrend kalten Morgen radeln wir vom Bahnhof zur Zuckerfabrik.\nMittags machen wir längere Pausen in der Basilika und dem Kulturzentrum zum Aufwärmen.\nAm Nachmittag genießen wir die winterliche Stille in den Parks, bevor der Frost anzieht.\nAbends beenden wir die Tour zügig an der Kirche St. Vinzenz und suchen Wärme.",
+            "hu": "A metsző hidegben indulunk a vasútállomástól a cukorgyár felé.\nDélben hosszabb pihenőket tartunk a bazilikában és a Kulturális Központban melegedni.\nDélután a parkok téli csendjét élvezzük, amíg a fagy nem válik túl erőssé.\nEste gyorsan befejezzük a túrát a Szent Vince-templomnál, és meleg helyet keresünk.",
+            "ro": "În dimineața geroasă, pedalăm de la gară spre Fabrica de Zahăr.\nLa prânz facem pauze lungi la Bazilică și Centrul Cultural pentru încălzire.\nDupă-amiaza ne bucurăm de liniștea hibernală din parcuri înainte de îngheț.\nSeara încheiem rapid turul la Biserica Sf. Vincențiu și căutăm căldură.",
+            "en": "On a freezing morning, we cycle from the station to the Sugar Factory.\nAt noon, we take long breaks in the Basilica and Cultural Centre to warm up.\nIn the afternoon, we enjoy the winter silence in the parks before the frost bites.\nIn the evening, we quickly finish the tour at St. Vincent Church and seek warmth."
+          },
+          "stops": [
+            {
+              "name": "Marijampolė Railway Station",
+              "tip_5lang": {
+                "de": "Prüfen Sie, ob die Gangschaltung bei der Kälte nicht eingefroren ist.",
+                "hu": "Ellenőrizze, hogy a váltó nincs-e lefagyva a nagy hidegben.",
+                "ro": "Verificați dacă schimbătorul nu este înghețat din cauza gerului.",
+                "en": "Check if the gear shifter is not frozen due to the cold."
+              }
+            },
+            {
+              "name": "Marijampolė Sugar Factory",
+              "tip_5lang": {
+                "de": "Kurzer Stopp, um die Muskeln durch Bewegung warm zu halten.",
+                "hu": "Rövid megálló, tartsa melegen az izmait folyamatos mozgással.",
+                "ro": "Oprire scurtă, mențineți mușchii calzi prin mișcare continuă.",
+                "en": "Short stop, keep your muscles warm through constant movement."
+              }
+            },
+            {
+              "name": "Poetry Park",
+              "tip_5lang": {
+                "de": "Vorsicht auf den gewölbten Holzbrücken, diese können vereist sein.",
+                "hu": "Vigyázzon az íves fahidakkal, ezek könnyen lejegesedhetnek.",
+                "ro": "Atenție la podurile de lemn curbate, pot fi înghețate.",
+                "en": "Watch out for the arched wooden bridges; they can be icy."
+              }
+            },
+            {
+              "name": "Basilica of St. Michael the Archangel",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Halt für eine warme Teepause in der Nähe.",
+                "hu": "Használja ki a megállót egy forró teaszünetre a közelben.",
+                "ro": "Profitați de oprire pentru o pauză de ceai fierbinte în zonă.",
+                "en": "Take advantage of the stop for a hot tea break nearby."
+              }
+            },
+            {
+              "name": "Marijampolė Cultural Centre",
+              "tip_5lang": {
+                "de": "Ein guter Ort, um die Finger in der Wärme wieder zu spüren.",
+                "hu": "Jó hely, hogy a melegben újra érezni kezdje az ujjait.",
+                "ro": "Un loc bun pentru a vă dezmorți degetele la căldură.",
+                "en": "A good place to regain feeling in your fingers in the warmth."
+              }
+            },
+            {
+              "name": "Vytautas the Great Park",
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf festgetretenem Schnee.",
+                "hu": "Közlekedjen óvatosan a letaposott havas szakaszokon.",
+                "ro": "Circulați cu atenție pe porțiunile cu zăpadă bătătorită.",
+                "en": "Ride carefully on sections with packed snow."
+              }
+            },
+            {
+              "name": "Church of St. Vincent de Paul",
+              "tip_5lang": {
+                "de": "Letzter Check der Lichter vor der Heimfahrt in der Dunkelheit.",
+                "hu": "Utolsó lámpaellenőrzés a sötétben való hazatekerés előtt.",
+                "ro": "Ultima verificare a luminilor înainte de întoarcerea pe întuneric.",
+                "en": "Final light check before cycling home in the dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie Winterreifen oder Reifen mit grobem Profil.",
+              "Halten Sie die Kette gut geölt, um Salzkorrosion vorzubeugen.",
+              "Tragen Sie winddichte Handschuhe und eine Sturmhaube.",
+              "Kürzen Sie die Tour ab, wenn die Temperaturen unter -10°C fallen."
+            ],
+            "hu": [
+              "Használjon téli vagy durva profilú gumiabroncsokat.",
+              "Tartsa jól olajozottan a láncot a sókorrózió ellen.",
+              "Viseljen szélálló kesztyűt és arcmaszkot vagy csősálat.",
+              "Rövidítse le a túrát, ha a hőmérséklet -10°C alá süllyed."
+            ],
+            "ro": [
+              "Folosiți anvelope de iarnă sau cu profil pronunțat.",
+              "Mențineți lanțul bine uns pentru a preveni coroziunea de la sare.",
+              "Purtați mănuși rezistente la vânt și o cagulă sau un fular tip tub.",
+              "Scurtați turul dacă temperatura scade sub -10°C."
+            ],
+            "en": [
+              "Use winter-specific or coarse-tread tires for better grip.",
+              "Keep the chain well-oiled to prevent corrosion from road salt.",
+              "Wear windproof gloves and a face mask or neck gaiter.",
+              "Shorten the tour if temperatures drop below -10°C."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1116,6 +1516,224 @@
           "Plan your route to avoid rush hour traffic.",
           "The cluster-walking philosophy saves time searching for parking and is more environmentally friendly."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Bequem starten wir am Bahnhof und fahren zur Zuckerfabrik, während es draußen gießt.\nMittags parken wir direkt an der Basilika und dem Poesiepark für kurze Wege.\nAm Nachmittag genießen wir die Ausstellungen im Kulturzentrum und Bulotų-Haus im Trockenen.\nAbends führt die Fahrt durch die regnerischen Straßen zurück zum Ausgangspunkt.",
+            "hu": "Kényelmesen indulunk a vasútállomástól a cukorgyár felé, miközben odakint szakad az eső.\nDélben közvetlenül a bazilikánál és a parknál parkolunk, hogy minimalizáljuk a vizes sétát.\nDélután a Kulturális Központ és a Bulotų-ház kiállításait élvezzük szárazon.\nEste az eső áztatta utcákon keresztül autózunk vissza a kiindulópontunkhoz.",
+            "ro": "Pornim confortabil de la gară spre Fabrica de Zahăr în timp ce afară plouă torențial.\nLa prânz parcăm chiar lângă Bazilică și parc pentru a scurta drumul prin ploaie.\nDupă-amiaza ne bucurăm de expozițiile de la Centrul Cultural și Casa Bulotų la uscat.\nSeara conducem prin străzile udate de ploaie înapoi spre punctul de plecare.",
+            "en": "We start comfortably at the station and drive to the Sugar Factory while it pours outside.\nAt noon, we park directly by the Basilica and park to keep walking in the rain to a minimum.\nIn the afternoon, we enjoy the exhibitions at the Cultural Centre and Bulotų House in the dry.\nIn the evening, we drive through the rain-soaked streets back to the starting point."
+          },
+          "stops": [
+            {
+              "name": "Marijampolė Railway Station",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Wischerblätter vor der Fahrt durch starken Regen.",
+                "hu": "Ellenőrizze az ablaktörlőket a heves esőzésben való indulás előtt.",
+                "ro": "Verificați lamelele ștergătoarelor înainte de a pleca pe ploaie torențială.",
+                "en": "Check your wiper blades before driving through heavy rain."
+              }
+            },
+            {
+              "name": "Marijampolė Sugar Factory",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Wagen als Basis für kurze Fotostopps.",
+                "hu": "Használja az autót bázisként a rövid fotómegállókhoz.",
+                "ro": "Folosiți mașina ca bază pentru scurte opriri foto.",
+                "en": "Use the car as a base for quick photo stops."
+              }
+            },
+            {
+              "name": "Poetry Park",
+              "tip_5lang": {
+                "de": "Parkplätze in der Nähe ermöglichen einen schnellen Zugang zum Park.",
+                "hu": "A közeli parkolóhelyek gyors hozzáférést biztosítanak a parkhoz.",
+                "ro": "Locurile de parcare din apropiere permit accesul rapid în parc.",
+                "en": "Parking spots nearby allow for quick access to the park."
+              }
+            },
+            {
+              "name": "Basilica of St. Michael the Archangel",
+              "tip_5lang": {
+                "de": "Der Parkplatz vor der Kirche ist bei Regen oft schnell belegt.",
+                "hu": "A templom előtti parkoló esőben gyakran hamar megtelik.",
+                "ro": "Parcarea din fața bisericii se ocupă rapid pe timp de ploaie.",
+                "en": "The parking lot in front of the church often fills up fast in the rain."
+              }
+            },
+            {
+              "name": "Marijampolė Cultural Centre",
+              "tip_5lang": {
+                "de": "Perfekter Stopp, um das Auto kurz lüften zu lassen.",
+                "hu": "Tökéletes megálló, hogy rövid időre kiszellőztesse az autót.",
+                "ro": "Oprire perfectă pentru a aerisi scurt mașina.",
+                "en": "Perfect stop to briefly air out the car."
+              }
+            },
+            {
+              "name": "Bulotų House",
+              "tip_5lang": {
+                "de": "Parken Sie in der Seitenstraße für den kürzesten Weg zum Eingang.",
+                "hu": "Parkoljon a mellékutcában a legrövidebb útért a bejáratig.",
+                "ro": "Parcați pe strada laterală pentru cel mai scurt drum spre intrare.",
+                "en": "Park on the side street for the shortest path to the entrance."
+              }
+            },
+            {
+              "name": "Church of St. Vincent de Paul",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Bordstein-Parkplätze in der direkten Umgebung.",
+                "hu": "Használja a közvetlen környezetben lévő útmenti parkolókat.",
+                "ro": "Folosiți locurile de parcare de la marginea drumului din zonă.",
+                "en": "Use the curbside parking spots in the immediate vicinity."
+              }
+            },
+            {
+              "name": "Vytautas the Great Park",
+              "tip_5lang": {
+                "de": "Ein kurzer Rundgang reicht, um den Park im Regen zu erleben.",
+                "hu": "Egy rövid körséta is elég, hogy esőben is lássa a parkot.",
+                "ro": "O scurtă plimbare e suficientă pentru a vedea parcul pe ploaie.",
+                "en": "A short walk is enough to experience the park in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie tiefe Pfützen am Straßenrand wegen Aquaplaning-Gefahr.",
+              "Nutzen Sie die Klimaanlage, um das Beschlagen der Scheiben zu verhindern.",
+              "Halten Sie einen Regenschirm im Türfach für die Ausstiege bereit.",
+              "Die Sicht kann bei Dämmerung und Regen stark eingeschränkt sein."
+            ],
+            "hu": [
+              "Kerülje a mély tócsákat az út szélén az aquaplaning veszélye miatt.",
+              "Használja a klímát a szélvédő párátlanításához.",
+              "Tartson esernyőt az ajtózsebben a kiszállásokhoz.",
+              "A látási viszonyok szürkületben és esőben jelentősen romolhatnak."
+            ],
+            "ro": [
+              "Evitați bălțile adânci de la marginea drumului (risc de acvaplanare).",
+              "Folosiți aerul condiționat pentru a dezaburi parbrizul.",
+              "Țineți o umbrelă în buzunarul portierei pentru coborâri.",
+              "Vizibilitatea poate scădea semnificativ la amurg pe timp de ploaie."
+            ],
+            "en": [
+              "Avoid deep puddles at the roadside due to aquaplaning risks.",
+              "Use the air conditioning to prevent the windshield from fogging.",
+              "Keep an umbrella in the door pocket for getting out of the car.",
+              "Visibility can be significantly reduced at dusk during rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Am eisigen Morgen starten wir das vorgewärmte Auto am Bahnhof.\nMittags besuchen wir die Zuckerfabrik und die Basilika, geschützt vor dem kalten Wind.\nAm Nachmittag parken wir nah an den Museen, um die frostigen Wege kurz zu halten.\nAbends genießen wir die beleuchtete Stadt durch die Panoramafenster unseres Wagens.",
+            "hu": "A jeges reggelen az előmelegített autóval indulunk a vasútállomástól.\nDélben a cukorgyárat és a bazilikát látogatjuk meg, védve a metsző hideg széltől.\nDélután a múzeumok közelében parkolunk, hogy lerövidítsük a fagyos sétákat.\nEste a kivilágított várost élvezzük az autónk ablakain keresztül a melegből.",
+            "ro": "În dimineața geroasă, pornim cu mașina preîncălzită de la gară.\nLa prânz vizităm Fabrica de Zahăr și Bazilica, protejați de vântul tăios.\nDupă-amiaza parcăm aproape de muzee pentru a scurta mersul prin ger.\nSeara admirăm orașul iluminat prin geamurile panoramice ale mașinii.",
+            "en": "On an icy morning, we start the preheated car at the station.\nAt noon, we visit the Sugar Factory and the Basilica, protected from the cold wind.\nIn the afternoon, we park close to the museums to keep the frosty walks short.\nIn the evening, we enjoy the illuminated city through the windows of our warm car."
+          },
+          "stops": [
+            {
+              "name": "Marijampolė Railway Station",
+              "tip_5lang": {
+                "de": "Planen Sie Zeit zum Enteisen der Scheiben am Morgen ein.",
+                "hu": "Hagyjon időt a szélvédők jégtelenítésére a reggeli indulásnál.",
+                "ro": "Alocați timp pentru degivrarea parbrizului la pornirea de dimineață.",
+                "en": "Allow time for defrosting the windows during the morning start."
+              }
+            },
+            {
+              "name": "Marijampolė Sugar Factory",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem ungeräumten Gelände nach Schneefall.",
+                "hu": "Vigyázzon a nem letakarított területeken havazás után.",
+                "ro": "Atenție în zonele necurățate după ninsori.",
+                "en": "Be careful in uncleared areas after snowfall."
+              }
+            },
+            {
+              "name": "Poetry Park",
+              "tip_5lang": {
+                "de": "Nutzen Sie den geräumten Parkplatz am Parkeingang.",
+                "hu": "Használja a letakarított parkolót a park bejáratánál.",
+                "ro": "Folosiți parcarea curățată de la intrarea în parc.",
+                "en": "Use the cleared parking lot at the park entrance."
+              }
+            },
+            {
+              "name": "Basilica of St. Michael the Archangel",
+              "tip_5lang": {
+                "de": "Die Zufahrtswege zur Kirche sind meist gut geräumt.",
+                "hu": "A templomhoz vezető utak általában jól le vannak takarítva.",
+                "ro": "Drumurile de acces spre biserică sunt de obicei bine curățate.",
+                "en": "Access roads to the church are usually well-cleared of snow."
+              }
+            },
+            {
+              "name": "Marijampolė Cultural Centre",
+              "tip_5lang": {
+                "de": "Guter Stopp, um die Autobatterie bei einer längeren Fahrt zu laden.",
+                "hu": "Jó megálló, hogy az akkumulátor töltődjön a hosszabb út során.",
+                "ro": "O oprire bună pentru a lăsa bateria să se încarce în timpul drumului.",
+                "en": "A good stop to let the battery charge during the drive."
+              }
+            },
+            {
+              "name": "Bulotų House",
+              "tip_5lang": {
+                "de": "Vorsicht beim Parken in Schneehaufen am Straßenrand.",
+                "hu": "Vigyázzon, ne parkoljon az út menti hóbuckákba.",
+                "ro": "Atenție la parcarea în mormanele de zăpadă de la marginea drumului.",
+                "en": "Be careful not to park in snow piles at the roadside."
+              }
+            },
+            {
+              "name": "Church of St. Vincent de Paul",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis in den kleineren Nebenstraßen.",
+                "hu": "Figyeljen a tükörjégre a kisebb mellékutcákban.",
+                "ro": "Atenție la polei pe străzile secundare mai mici.",
+                "en": "Watch out for black ice in the smaller side streets."
+              }
+            },
+            {
+              "name": "Vytautas the Great Park",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den verschneiten Park vom warmen Auto aus.",
+                "hu": "Élvezze a havas park látványát a meleg autóból.",
+                "ro": "Bucurați-vă de vederea parcului înzăpezit din mașina caldă.",
+                "en": "Enjoy the view of the snowy park from the warm car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Führen Sie immer einen Eiskratzer und Besen im Auto mit.",
+              "Prüfen Sie den Frostschutz in der Scheibenwaschanlage.",
+              "Fahren Sie vorausschauend wegen möglicher Glätte auf Brücken.",
+              "Lassen Sie den Motor nicht unnötig im Stand warmlaufen."
+            ],
+            "hu": [
+              "Mindig tartson jégkaparót és kefét az autóban.",
+              "Ellenőrizze a fagyállót a szélvédőmosó tartályban.",
+              "Vezessen előrelátóan a hidakon előforduló jegesedés miatt.",
+              "Ne járassa feleslegesen a motort álló helyzetben melegítéshez."
+            ],
+            "ro": [
+              "Țineți întotdeauna o racletă și o perie în mașină.",
+              "Verificați antigelul din lichidul de spălare a parbrizului.",
+              "Conduceți preventiv din cauza poleiului de pe poduri.",
+              "Nu lăsați motorul să meargă inutil în staționare pentru încălzire."
+            ],
+            "en": [
+              "Always keep an ice scraper and a brush in the car.",
+              "Check the antifreeze levels in your windshield washer fluid.",
+              "Drive defensively due to potential icing on bridges.",
+              "Do not leave the engine idling unnecessarily to warm up."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1436,6 +2054,188 @@
           "Be aware that buses may run less frequently in the evenings and on weekends.",
           "Combining bus rides and walking is a cost-effective and efficient way to see the city."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus starten wir am Bahnhof und erreichen trocken die Basilika.\nMittags erkunden wir den Poesiepark, nutzen aber schnell den nächsten Bus bei Regen.\nAm Nachmittag bietet das Kulturzentrum Schutz, während draußen der Guss niedergeht.\nAbends kehren wir mit den warmen Stadtbussen zum Bahnhof zurück.",
+            "hu": "Busszal indulunk a vasútállomástól, és szárazon érkezünk a bazilikához.\nDélben a Költészet parkját fedezzük fel, de esőben gyorsan a következő buszra szállunk.\nDélután a Kulturális Központ nyújt védelmet, amíg odakint szakad az eső.\nEste a meleg városi buszokkal térünk vissza a vasútállomáshoz.",
+            "ro": "Plecăm cu autobuzul de la gară și ajungem la uscat la Bazilică.\nLa prânz explorăm Parcul Poeziei, dar ne urcăm rapid în următorul autobuz dacă plouă.\nDupă-amiaza Centrul Cultural ne oferă adăpost în timp ce afară plouă torențial.\nSeara ne întoarcem la gară cu autobuzele urbane primitoare.",
+            "en": "By bus we start at the station and arrive dry at the Basilica.\nAt noon, we explore Poetry Park but quickly hop on the next bus if it rains.\nIn the afternoon, the Cultural Centre offers shelter while it pours outside.\nIn the evening, we return to the station with the warm city buses."
+          },
+          "stops": [
+            {
+              "name": "Marijampolė Railway Station",
+              "tip_5lang": {
+                "de": "Warten Sie in der Bahnhofshalle, bis der Bus einfährt.",
+                "hu": "Várjon az állomás várótermében, amíg a busz beérkezik.",
+                "ro": "Așteptați în sala gării până când sosește autobuzul.",
+                "en": "Wait in the station hall until the bus arrives."
+              }
+            },
+            {
+              "name": "Basilica of St. Michael the Archangel",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist nur wenige Schritte vom Kircheneingang entfernt.",
+                "hu": "A megálló csak pár lépésre van a templom bejáratától.",
+                "ro": "Stația este la doar câțiva pași de intrarea în biserică.",
+                "en": "The stop is just a few steps away from the church entrance."
+              }
+            },
+            {
+              "name": "Poetry Park",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Wartehäuschen an der Hauptstraße bei Regen.",
+                "hu": "Használja a főúton lévő várótermet eső esetén.",
+                "ro": "Folosiți adăpostul din stația de pe strada principală pe ploaie.",
+                "en": "Use the shelter at the main road stop during rain."
+              }
+            },
+            {
+              "name": "Marijampolė Cultural Centre",
+              "tip_5lang": {
+                "de": "Die Busfrequenz ist hier tagsüber sehr gut.",
+                "hu": "A buszok napközben itt nagyon sűrűn járnak.",
+                "ro": "Frecvența autobuzelor este foarte bună aici în timpul zilei.",
+                "en": "Bus frequency is very good here during the day."
+              }
+            },
+            {
+              "name": "Vytautas the Great Park",
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Bus zum Parkeingang hält Sie trocken.",
+                "hu": "Egy rövid futás a busztól a parkig szárazon tartja.",
+                "ro": "Un scurt sprint de la autobuz până la intrarea în parc vă menține uscat.",
+                "en": "A short sprint from the bus to the park entrance keeps you dry."
+              }
+            },
+            {
+              "name": "Church of St. Vincent de Paul",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Fahrplan für die Rückfahrt zum Bahnhof.",
+                "hu": "Ellenőrizze a menetrendet a vasútállomásra való visszatéréshez.",
+                "ro": "Verificați orarul pentru întoarcerea la gară.",
+                "en": "Check the schedule for the return trip to the station."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Echtzeit-App für Busabfahrten im Regen.",
+              "Ein Tagesticket lohnt sich, um flexibel umsteigen zu können.",
+              "Die zentralen Haltestellen sind meist überdacht.",
+              "Tragen Sie bei Nässe rutschfeste Schuhe für den Ein- und Ausstieg."
+            ],
+            "hu": [
+              "Használja a valós idejű menetrendet az esőben való várakozás elkerülésére.",
+              "A napijegy megéri a rugalmas átszállások érdekében.",
+              "A központi megállók általában fedettek.",
+              "Viseljen csúszásmentes talpú cipőt a fel- és leszálláshoz."
+            ],
+            "ro": [
+              "Folosiți aplicația cu orar în timp real pentru a evita așteptarea în ploaie.",
+              "Un bilet de o zi merită pentru transferuri flexibile.",
+              "Stațiile centrale sunt de obicei acoperite.",
+              "Purtați încălțăminte antiderapantă pentru urcare și coborâre."
+            ],
+            "en": [
+              "Use a real-time transit app to minimize waiting in the rain.",
+              "A day pass is worth it for flexible transfers between stops.",
+              "Central bus stops are mostly covered with shelters.",
+              "Wear non-slip shoes for safe boarding and alighting in the wet."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Am froschigen Morgen nutzen wir die geheizten Busse vom Bahnhof zur Basilika.\nMittags wärmen wir uns bei kurzen Fahrten zwischen den Sehenswürdigkeiten auf.\nAm Nachmittag besuchen wir das Kulturzentrum und genießen den Blick auf den Schnee.\nAbends kehren wir im Schutze des Nahverkehrs gemütlich zum Ausgangspunkt zurück.",
+            "hu": "A fagyos reggelen a fűtött buszokat használjuk a vasútállomástól a bazilikáig.\nDélben rövid utazásokkal melegszünk fel a látnivalók között.\nDélután meglátogatjuk a Kulturális Központot, és élvezzük a havas táj látványát.\nEste a tömegközlekedés biztonságában térünk vissza a kiindulópontunkhoz.",
+            "ro": "În dimineața geroasă folosim autobuzele încălzite de la gară spre Bazilică.\nLa prânz ne încălzim în timpul scurtelor călătorii între obiective.\nDupă-amiaza vizităm Centrul Cultural și admirăm peisajul înzăpezit.\nSeara ne întoarcem confortabil cu transportul public la punctul de plecare.",
+            "en": "On a frosty morning, we take the heated buses from the station to the Basilica.\nAt noon, we warm up during short trips between the sights.\nIn the afternoon, we visit the Cultural Centre and enjoy the view of the snow.\nIn the evening, we return comfortably to our starting point in the shelter of transit."
+          },
+          "stops": [
+            {
+              "name": "Marijampolė Railway Station",
+              "tip_5lang": {
+                "de": "Die Wartehalle ist beheizt und ideal für den Start.",
+                "hu": "A váróterem fűtött és ideális az induláshoz.",
+                "ro": "Sala de așteptare este încălzită și ideală pentru pornire.",
+                "en": "The waiting hall is heated and ideal for the start."
+              }
+            },
+            {
+              "name": "Basilica of St. Michael the Archangel",
+              "tip_5lang": {
+                "de": "Steigen Sie direkt vor der Kirche aus, um Kälte zu vermeiden.",
+                "hu": "Szálljon le közvetlenül a templomnál, hogy elkerülje a hideget.",
+                "ro": "Coborâți chiar în fața bisericii pentru a evita frigul.",
+                "en": "Get off directly in front of the church to avoid the cold."
+              }
+            },
+            {
+              "name": "Poetry Park",
+              "tip_5lang": {
+                "de": "Kurzer Winterspaziergang zwischen zwei Busabfahrten.",
+                "hu": "Rövid téli séta két buszindulás között.",
+                "ro": "Scurtă plimbare hibernală între două plecări de autobuz.",
+                "en": "Short winter walk between two bus departures."
+              }
+            },
+            {
+              "name": "Marijampolė Cultural Centre",
+              "tip_5lang": {
+                "de": "Warten Sie im Foyer auf den nächsten Bus zurück.",
+                "hu": "Várjon az előtérben a következő visszatérő buszra.",
+                "ro": "Așteptați în foaier următorul autobuz spre întoarcere.",
+                "en": "Wait in the foyer for the next bus back."
+              }
+            },
+            {
+              "name": "Vytautas the Great Park",
+              "tip_5lang": {
+                "de": "Der Bus hält nah am Haupteingang des verschneiten Parks.",
+                "hu": "A busz közel áll meg a havas park főbejáratához.",
+                "ro": "Autobuzul oprește aproape de intrarea principală în parcul înzăpezit.",
+                "en": "The bus stops near the main entrance of the snowy park."
+              }
+            },
+            {
+              "name": "Church of St. Vincent de Paul",
+              "tip_5lang": {
+                "de": "Nutzen Sie die beleuchtete Haltestelle für den Abendweg.",
+                "hu": "Használja a kivilágított megállót az esti úthoz.",
+                "ro": "Folosiți stația iluminată pentru drumul de seară.",
+                "en": "Use the illuminated stop for the evening journey."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Busse sind im Winter meist sehr gut beheizt.",
+              "Achten Sie auf geänderte Fahrpläne bei extremem Schneefall.",
+              "Vermeiden Sie langes Stehen an Haltestellen ohne Windschutz.",
+              "Die Mitnahme von warmen Getränken in Thermosbechern ist erlaubt."
+            ],
+            "hu": [
+              "A buszok télen általában nagyon jól fűtöttek.",
+              "Figyeljen az esetleges menetrendi változásokra erős havazáskor.",
+              "Kerülje a hosszú várakozást a szélvédő nélküli megállókban.",
+              "A forró italok termoszban való szállítása engedélyezett a buszokon."
+            ],
+            "ro": [
+              "Autobuzele sunt de obicei foarte bine încălzite iarna.",
+              "Atenție la eventualele schimbări de orar în caz de ninsori abundente.",
+              "Evitați așteptarea prelungită în stațiile fără protecție contra vântului.",
+              "Transportul băuturilor fierbinți în termosuri este permis în autobuze."
+            ],
+            "en": [
+              "Buses are usually very well-heated during the winter.",
+              "Watch for potential schedule changes during extreme snowfall.",
+              "Avoid long waits at stops without wind protection.",
+              "Carrying hot drinks in thermos mugs is permitted on the buses."
+            ]
+          }
+        }
       }
     }
   }

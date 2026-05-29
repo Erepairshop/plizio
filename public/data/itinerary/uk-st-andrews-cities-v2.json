@@ -348,6 +348,188 @@
           "Book restaurants well in advance, especially during the golf season.",
           "On Sundays, play is often not allowed on the Old Course, making it perfect for walks."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen beginnt in den geschützten Kreuzgängen der Universität, wo die Geschichte in der feuchten Luft greifbar ist. Mittags trotzen Sie dem Küstenwind an den Ruinen der Kathedrale, die im Regen mystisch wirken. Nachmittags bieten die unterirdischen Gänge des Schlosses und das Golfmuseum trockene Zuflucht. Der Tag endet mit einem stürmischen Blick auf den Old Course, während die Wellen gegen die Küste schlagen.",
+            "hu": "Esős reggel az egyetem ódon falai között, ahol a kerengők nyújtanak menedéket a skót zápor elől. Délben a katedrális romjai között a köd és a szitáló eső teremt kísérteties hangulatot a tengerparton. Délután a vár ostromalagútjai és a golfmúzeum kiállításai kínálnak száraz kikapcsolódást. Az este a szélfútta Old Course látványával zárul, mielőtt egy meleg pubba vonulna.",
+            "ro": "O dimineață ploioasă începe în curțile protejate ale universității, unde istoria se simte în aerul umed. La prânz, înfruntați vântul de coastă la ruinele catedralei, care par mistice sub ploaie. După-amiaza, pasajele subterane ale castelului și muzeul de golf oferă un refugiu uscat. Ziua se încheie cu o vedere furtunoasă asupra Old Course, în timp ce valurile se izbesc de țărm.",
+            "en": "A rainy morning begins in the university's sheltered cloisters, where history feels tangible in the damp air. At midday, brave the coastal wind at the cathedral ruins, looking mystical in the rain. In the afternoon, the castle's underground passages and the golf museum provide dry sanctuary. The day ends with a stormy view of the Old Course as the North Sea waves crash nearby."
+          },
+          "stops": [
+            {
+              "name": "St Andrews University",
+              "tip_5lang": {
+                "de": "Nutzen Sie die steinernen Bogengänge als Schutz vor den heftigen Schauern.",
+                "hu": "Használja a kőíveket és kerengőket menedékként a heves záporok elől.",
+                "ro": "Folosiți arcadele de piatră ca adăpost împotriva averselor bruște.",
+                "en": "Use the stone archways and cloisters as shelter from the sudden showers."
+              }
+            },
+            {
+              "name": "St Andrews Cathedral",
+              "tip_5lang": {
+                "de": "Sehr exponiertes Gelände; Regenbekleidung ist hier wichtiger als ein Schirm.",
+                "hu": "Nagyon nyitott terület; az esőkabát itt hasznosabb, mint az esernyő.",
+                "ro": "Teren foarte expus; pelerina de ploaie este mai utilă decât umbrela aici.",
+                "en": "Very exposed site; waterproof clothing is more useful than an umbrella here."
+              }
+            },
+            {
+              "name": "St Andrews Pier",
+              "tip_5lang": {
+                "de": "Vorsicht bei Wellengang; die Steine können bei Regen extrem rutschig sein.",
+                "hu": "Vigyázat a hullámokkal; a kövek esőben rendkívül csúszósak lehetnek.",
+                "ro": "Atenție la valuri; pietrele pot fi extrem de alunecoase pe timp de ploaie.",
+                "en": "Watch out for waves; the stones can be extremely slippery in the rain."
+              }
+            },
+            {
+              "name": "St Andrews Castle",
+              "tip_5lang": {
+                "de": "Der unterirdische Belagerungstunnel ist ein faszinierender, trockener Ort.",
+                "hu": "A föld alatti ostromalagút lenyűgöző és teljesen száraz helyszín.",
+                "ro": "Tunelul de asediu subteran este un loc fascinant și uscat de explorat.",
+                "en": "The underground siege mine is a fascinating and dry place to explore."
+              }
+            },
+            {
+              "name": "R&A World Golf Museum",
+              "tip_5lang": {
+                "de": "Perfektes Timing für einen längeren Aufenthalt im beheizten Innenbereich.",
+                "hu": "Tökéletes alkalom egy hosszabb látogatásra a fűtött belső térben.",
+                "ro": "Moment perfect pentru o vizită prelungită în interiorul încălzit.",
+                "en": "Perfect timing for an extended visit in the heated indoor galleries."
+              }
+            },
+            {
+              "name": "Old Course",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp an der Swilcan Bridge; der Wind ist hier oft sehr stark.",
+                "hu": "Gyors fotó a Swilcan-hídnál; a szél itt gyakran nagyon erős esőben.",
+                "ro": "Oprire scurtă la podul Swilcan; vântul este adesea foarte puternic aici.",
+                "en": "Quick photo at Swilcan Bridge; the wind is often very strong here."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein sturmfester Regenschirm ist bei skottischem Küstenwind unerlässlich.",
+              "Tragen Sie wasserfeste Schuhe, da sich in den Ruinen Pfützen bilden.",
+              "Die Museen sind ideale Rückzugsorte bei plötzlichen Starkregen.",
+              "Wärmen Sie sich zwischen den Stationen in den vielen gemütlichen Cafés auf."
+            ],
+            "hu": [
+              "A szélálló esernyő elengedhetetlen a skót tengerparti szélben.",
+              "Viseljen vízálló cipőt, mert a romok között könnyen összegyűlik a víz.",
+              "A múzeumok ideális menedéket nyújtanak hirtelen felhőszakadás esetén.",
+              "Melegedjen fel a megállók között a város számos hangulatos kávézójában."
+            ],
+            "ro": [
+              "O umbrelă rezistentă la vânt este esențială pe coasta scoțiană.",
+              "Purtați încălțăminte impermeabilă, deoarece apa se adună în ruine.",
+              "Muzeele sunt refugii ideale în cazul unor averse bruște de ploaie.",
+              "Încălziți-vă între opriri în numeroasele cafenele primitoare din oraș."
+            ],
+            "en": [
+              "A windproof umbrella is essential in the Scottish coastal gusts.",
+              "Wear waterproof shoes as puddles tend to form among the ruins.",
+              "Museums are ideal retreats during sudden heavy downpours.",
+              "Warm up between stops in the city's many cozy independent cafes."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen taucht die Universität in ein klares, kaltes Licht. Mittags bietet die Kathedrale einen dramatischen Anblick gegen den grauen Winterhimmel, während der Nordseewind beißt. Nachmittags ist die Wärme des Golfmuseums willkommen, bevor Sie den Sonnenuntergang über dem Old Course erleben. Der Tag endet früh in der Dämmerung mit dem festlichen Glanz der Stadtbeleuchtung.",
+            "hu": "A dérlepte reggel tiszta, éles fénnyel világítja meg az egyetemet. Délben a katedrális drámai látványt nyújt a szürke téli égbolt előtt, miközben az északi szél metsző. Délután a golfmúzeum melege hívogató, mielőtt megnézné a korai naplementét az Old Course felett. A nap hamar, már szürkületben, a város ünnepi fényeivel zárul.",
+            "ro": "O dimineață geroasă scaldă universitatea într-o lumină clară și rece. La prânz, catedrala oferă o priveliște dramatică pe cerul cenușiu de iarnă. După-amiaza, căldura muzeului de golf este binevenită înainte de a vedea apusul peste Old Course. Ziua se încheie devreme, la amurg, cu strălucirea festivă a luminilor orașului.",
+            "en": "A frosty morning bathes the university in crisp, cold light. At midday, the cathedral offers a dramatic sight against the grey winter sky as the North Sea wind bites. In the afternoon, the warmth of the golf museum is welcome before catching the early sunset over the Old Course. The day ends early at dusk with the festive glow of the town's lights."
+          },
+          "stops": [
+            {
+              "name": "St Andrews University",
+              "tip_5lang": {
+                "de": "Die historischen Steine strahlen im Wintermorgen eine besondere Ruhe aus.",
+                "hu": "A történelmi falak különleges nyugalmat árasztanak a téli reggelen.",
+                "ro": "Pietrele istorice emană o liniște deosebită în dimineața de iarnă.",
+                "en": "The historic stones radiate a special tranquility in the winter morning."
+              }
+            },
+            {
+              "name": "St Andrews Cathedral",
+              "tip_5lang": {
+                "de": "Ziehen Sie sich warm an; die Lage am Meer macht die Kälte hier intensiver.",
+                "hu": "Öltözzön rétegesen; a tenger közelsége miatt itt sokkal hidegebb van.",
+                "ro": "Îmbrăcați-vă gros; proximitatea mării face frigul mult mai intens aici.",
+                "en": "Dress in layers; the seaside location makes the cold much more biting here."
+              }
+            },
+            {
+              "name": "St Andrews Pier",
+              "tip_5lang": {
+                "de": "Wunderschön bei Sonnenuntergang, aber extrem windig und frostig.",
+                "hu": "Gyönyörű naplementekor, de rendkívül szeles és fagyos ilyenkor.",
+                "ro": "Superb la apus, dar extrem de vântos și înghețat în această perioadă.",
+                "en": "Beautiful at sunset, but extremely windy and frosty at this time."
+              }
+            },
+            {
+              "name": "St Andrews Castle",
+              "tip_5lang": {
+                "de": "Besuchen Sie das Schloss früh, da es im Winter eher schließen kann.",
+                "hu": "Látogassa meg korán a várat, mert télen hamarabb zárhatnak.",
+                "ro": "Vizitați castelul devreme, deoarece se poate închide mai repede iarna.",
+                "en": "Visit the castle early, as winter closing times are often earlier."
+              }
+            },
+            {
+              "name": "R&A World Golf Museum",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Kälte für eine Weile zu vergessen.",
+                "hu": "Ideális helyszín, hogy egy időre elfelejtse a kinti hideget.",
+                "ro": "Un loc ideal pentru a uita de frigul de afară pentru o vreme.",
+                "en": "An ideal place to escape the biting cold for a while."
+              }
+            },
+            {
+              "name": "Old Course",
+              "tip_5lang": {
+                "de": "Das Licht der Dämmerung über dem Grün ist im Winter unvergesslich.",
+                "hu": "A szürkületi fények a pályák felett télen felejthetetlenek.",
+                "ro": "Lumina amurgului peste terenul de golf este de neuitat iarna.",
+                "en": "The twilight light over the fairways is unforgettable in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Winter bereits gegen 16:00 Uhr unter.",
+              "Ein Schal und Handschuhe sind wegen des Seewinds absolut notwendig.",
+              "Prüfen Sie die Winteröffnungszeiten der historischen Stätten vorab.",
+              "Genießen Sie einen heißen Whisky oder Kakao in einem lokalen Pub."
+            ],
+            "hu": [
+              "A nap télen már délután 4 óra körül lemegy.",
+              "A sál és kesztyű a tengeri szél miatt feltétlenül szükséges.",
+              "Ellenőrizze előre a történelmi helyszínek téli nyitvatartását.",
+              "Élvezzen egy forró whiskyt vagy kakaót egy helyi pubban."
+            ],
+            "ro": [
+              "Soarele apune deja în jurul orei 16:00 în timpul iernii.",
+              "Fularul și mănușile sunt absolut necesare din cauza vântului marin.",
+              "Verificați din timp programul de iarnă al siturilor istorice.",
+              "Savurați un whisky fierbinte sau o ciocolată caldă într-un pub local."
+            ],
+            "en": [
+              "Sunset occurs as early as 4:00 PM during the winter months.",
+              "A scarf and gloves are essential due to the sharp North Sea wind.",
+              "Check winter opening hours for historic sites in advance.",
+              "Enjoy a hot whisky or cocoa in one of the cozy local pubs."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -690,6 +872,188 @@
           "Stick to the Fife Coastal Path for beautiful surrounding views.",
           "Always secure your bike well when leaving it unattended."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine nasse Fahrt durch die kopfsteingepflasterten Gassen zur Universität. Mittags radeln Sie vorsichtig zur Kathedrale, während der Regen auf den Asphalt trommelt. Die Gewächshäuser des Botanischen Gartens bieten eine warme, trockene Oase. Nachmittags geht es zum Museum, bevor die Fahrt am windgepeitschten Strand endet, wo die salzige Gischt den Regen trifft.",
+            "hu": "Vizes tekerés a macskaköves utcákon az egyetem felé. Délben óvatosan biciklizzen a katedrálishoz a doboló esőben. A botanikus kert üvegházai meleg és száraz oázist nyújtanak. Délután látogatás a múzeumban, majd a túra a szeles tengerparton zárul, ahol a sós permet keveredik az esővel.",
+            "ro": "O plimbare umedă pe străzile pietruite spre universitate. La prânz, pedalați cu atenție spre catedrală în timp ce ploaia bate pe asfalt. Serele grădinii botanice oferă o oază caldă și uscată. După-amiaza vizitați muzeul, iar turul se încheie pe plaja vântoasă, unde vaporii sărați se întâlnesc cu ploaia.",
+            "en": "A wet ride through cobbled streets towards the university. At midday, cycle carefully to the cathedral as rain drums on the pavement. The Botanic Garden's glasshouses provide a warm, dry oasis. In the afternoon, head to the museum before ending at the windswept beach where salt spray meets the rain."
+          },
+          "stops": [
+            {
+              "name": "St Andrews University",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem nassen Kopfsteinpflaster in den Uni-Höfen.",
+                "hu": "Vigyázzon a vizes macskakövön az egyetemi udvarokban.",
+                "ro": "Atenție pe piatra cubică umedă din curțile universității.",
+                "en": "Be careful on the wet cobblestones in the university courtyards."
+              }
+            },
+            {
+              "name": "St Andrews Cathedral",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad an einem festen Punkt ab; der Wind kann es umwehen.",
+                "hu": "Rögzítse stabilan a biciklit; a szél könnyen felboríthatja.",
+                "ro": "Parcați bicicleta într-un loc stabil; vântul o poate răsturna ușor.",
+                "en": "Secure your bike firmly; strong gusts can easily blow it over."
+              }
+            },
+            {
+              "name": "St Andrews Botanic Garden",
+              "tip_5lang": {
+                "de": "Die Gewächshäuser sind der beste Ort, um bei Regen trocken zu bleiben.",
+                "hu": "Az üvegházak a legjobb helyek, hogy szárazon maradjon az esőben.",
+                "ro": "Serele sunt cel mai bun loc pentru a rămâne uscat în timpul ploii.",
+                "en": "The glasshouses are the best place to stay dry during the rain."
+              }
+            },
+            {
+              "name": "R&A World Golf Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Fahrradständer direkt am Eingang für einen schnellen Wechsel.",
+                "hu": "Használja a bejáratnál lévő tárolókat a gyors bejutáshoz.",
+                "ro": "Folosiți suporturile de biciclete de la intrare pentru acces rapid.",
+                "en": "Use the bike racks right by the entrance for quick access."
+              }
+            },
+            {
+              "name": "Old Course",
+              "tip_5lang": {
+                "de": "Kurzer Halt für ein Foto; halten Sie den Lenker bei Seitenwind fest.",
+                "hu": "Gyors fotómegálló; fogja erősen a kormányt az oldalszélben.",
+                "ro": "Oprire scurtă pentru poze; țineți bine ghidonul în vânt lateral.",
+                "en": "Quick photo stop; keep a firm grip on the handlebars in crosswinds."
+              }
+            },
+            {
+              "name": "West Sands Beach",
+              "tip_5lang": {
+                "de": "Der Sandweg kann bei Regen matschig sein; bleiben Sie auf festem Boden.",
+                "hu": "A homokos út saras lehet esőben; maradjon a szilárd talajon.",
+                "ro": "Poteca de nisip poate fi noroioasă; rămâneți pe teren solid.",
+                "en": "The sandy path can be muddy in rain; stick to the firmer ground."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Sicherstellen, dass die Bremsen auf nasser Fahrbahn gut greifen.",
+              "Tragen Sie eine auffällige Regenjacke für bessere Sichtbarkeit.",
+              "Meiden Sie tiefen Sand am Strand, wenn dieser nass und weich ist.",
+              "Schutzbleche am Fahrrad sind bei diesem Wetter unverzichtbar."
+            ],
+            "hu": [
+              "Ellenőrizze, hogy a fékek jól fognak-e a vizes úton.",
+              "Viseljen feltűnő esőkabátot a jobb láthatóság érdekében.",
+              "Kerülje a mély homokot a parton, ha az vizes és puha.",
+              "A sárvédő használata ilyen időben elengedhetetlen."
+            ],
+            "ro": [
+              "Asigurați-vă că frânele funcționează bine pe carosabil umed.",
+              "Purtați o jachetă de ploaie reflectorizantă pentru vizibilitate.",
+              "Evitați nisipul adânc de pe plajă când este ud și moale.",
+              "Apărătorile de noroi sunt indispensabile pe această vreme."
+            ],
+            "en": [
+              "Ensure your brakes are performing well on wet surfaces.",
+              "Wear a high-visibility waterproof jacket for better safety.",
+              "Avoid deep sand on the beach when it is wet and soft.",
+              "Mudguards are essential to stay relatively dry while cycling."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein erfrischender Wintermorgen auf dem Rad zur Universität. Mittags führt die Route zur Kathedrale, wo die Luft eisig vom Meer herüberweht. Der Botanische Garten zeigt im Winter seine klare Struktur. Nachmittags wärmen Sie sich im Museum auf, bevor Sie die letzten Sonnenstrahlen am Old Course einfangen und die Fahrt am dämmrigen West Sands beenden.",
+            "hu": "Frissítő téli reggel a kerékpáron az egyetem felé. Délben az út a katedrálishoz vezet, ahol a tenger felől jeges szél fúj. A botanikus kert télen is tiszta, strukturált látványt nyújt. Délután melegedjen fel a múzeumban, mielőtt elkapná az utolsó napsugarakat az Old Course-nál, és a West Sands-nél zárná a túrát.",
+            "ro": "O dimineață răcoroasă de iarnă pe bicicletă spre universitate. La prânz, ruta duce la catedrală, unde aerul înghețat bate dinspre mare. Grădina botanică are o structură clară iarna. După-amiaza încălziți-vă la muzeu înainte de a prinde ultimele raze la Old Course și de a termina pe West Sands.",
+            "en": "An invigorating winter morning on the bike towards the university. At midday, the route leads to the cathedral where the air blows icy from the sea. The Botanic Garden shows its clear winter structure. In the afternoon, warm up at the museum before catching the last sunbeams at the Old Course and ending at the twilight West Sands."
+          },
+          "stops": [
+            {
+              "name": "St Andrews University",
+              "tip_5lang": {
+                "de": "Vorsicht vor überfrorener Nässe in schattigen Gassen.",
+                "hu": "Vigyázzon a lefagyott foltokra az árnyékos utcákban.",
+                "ro": "Atenție la porțiunile înghețate în zonele umbrite.",
+                "en": "Watch out for black ice in shaded university alleyways."
+              }
+            },
+            {
+              "name": "St Andrews Cathedral",
+              "tip_5lang": {
+                "de": "Der Windchill-Effekt ist hier auf dem Rad besonders stark.",
+                "hu": "A szél hűtő hatása itt a biciklin kifejezetten erős.",
+                "ro": "Efectul vântului este foarte puternic aici când pedalați.",
+                "en": "The wind chill factor is very high here when cycling."
+              }
+            },
+            {
+              "name": "St Andrews Botanic Garden",
+              "tip_5lang": {
+                "de": "Genießen Sie die winterliche Ruhe in den Außenanlagen.",
+                "hu": "Élvezze a téli nyugalmat a külső kertrészekben is.",
+                "ro": "Bucurați-vă de liniștea hibernală din grădinile exterioare.",
+                "en": "Enjoy the peaceful winter atmosphere in the outdoor gardens."
+              }
+            },
+            {
+              "name": "R&A World Golf Museum",
+              "tip_5lang": {
+                "de": "Gute Gelegenheit, um die Hände wieder aufzuwärmen.",
+                "hu": "Kiváló alkalom, hogy újra felmelegítse az átfagyott kezeit.",
+                "ro": "O oportunitate bună de a vă reîncălzi mâinile amorțite.",
+                "en": "A good opportunity to thaw out your hands in the warm interior."
+              }
+            },
+            {
+              "name": "Old Course",
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne bietet fantastische Fotomöglichkeiten.",
+                "hu": "Az alacsonyan járó nap fantasztikus fotólehetőségeket kínál.",
+                "ro": "Soarele jos oferă oportunități fantastice pentru fotografii.",
+                "en": "The low winter sun offers fantastic photo opportunities here."
+              }
+            },
+            {
+              "name": "West Sands Beach",
+              "tip_5lang": {
+                "de": "Fahren Sie vor Einbruch der Dunkelheit zurück zum Zentrum.",
+                "hu": "Térjen vissza a központba még a sötétedés beállta előtt.",
+                "ro": "Reveniți spre centru înainte de lăsarea întunericului.",
+                "en": "Head back to the town center before total darkness sets in."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Handschuhe und eine warme Mütze unterm Helm.",
+              "Die Tage sind kurz; sorgen Sie für voll aufgeladene Fahrradlichter.",
+              "Vermeiden Sie hastiges Bremsen auf möglicherweise glatten Wegen.",
+              "Kürzen Sie die Zeit am Strand ab, wenn der Wind zu stark wird."
+            ],
+            "hu": [
+              "Viseljen szélálló kesztyűt és meleg sapkát a sisak alatt.",
+              "A nappalok rövidek; gondoskodjon feltöltött lámpákról.",
+              "Kerülje a hirtelen fékezést a potenciálisan jeges utakon.",
+              "Rövidítse le a parton töltött időt, ha túl erős a szél."
+            ],
+            "ro": [
+              "Purtați mănuși rezistente la vânt și o căciulă sub cască.",
+              "Zilele sunt scurte; asigurați-vă că luminile sunt încărcate.",
+              "Evitați frânarea bruscă pe suprafețele potențial înghețate.",
+              "Scurtați timpul petrecut pe plajă dacă vântul devine prea tăios."
+            ],
+            "en": [
+              "Wear windproof gloves and a warm liner under your helmet.",
+              "Days are short; ensure your bike lights are fully charged.",
+              "Avoid sudden braking on potentially icy or frosty patches.",
+              "Shorten your time at the beach if the sea breeze becomes too cold."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1032,6 +1396,188 @@
           "A car is ideal to explore nearby Fife and picturesque fishing villages.",
           "Often pay for parking via app (e.g. RingGo)."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine komfortable Fahrt zur Kathedrale trotz des strömenden Regens. Mittags besuchen Sie das Schloss, wobei der Wagen ein trockenes Basislager bietet. Nachmittags geht es weiter zur Universität und dem Botanischen Garten, wo die Pflanzen im Regen leuchten. Der Tag endet beim Golfmuseum und einer Fahrt am West Sands, während die Scheibenwischer den Blick auf die raue See freigeben.",
+            "hu": "Kényelmes autózás a katedrálishoz a szakadó eső ellenére. Délben látogatás a várnál, ahol az autó száraz bázisként szolgál. Délután az egyetem és a botanikus kert következik, ahol a növények szinte ragyognak az esőben. A nap a golfmúzeumnál és a West Sands-i autózással zárul, miközben az ablaktörlők küzdenek a tengeri viharral.",
+            "ro": "O călătorie confortabilă spre catedrală în ciuda ploii torențiale. La prânz vizitați castelul, mașina fiind un punct de sprijin uscat. După-amiaza continuăm spre universitate și grădina botanică, unde plantele strălucesc în ploaie. Ziua se încheie la muzeu și cu o plimbare pe West Sands în timp ce ștergătoarele curăță parbrizul.",
+            "en": "A comfortable drive to the cathedral despite the pouring rain. At midday, visit the castle using the car as a dry base. In the afternoon, continue to the university and the Botanic Garden, where the flora looks vibrant in the wet. The day ends at the golf museum and a drive by West Sands as wipers clear the view of the rough sea."
+          },
+          "stops": [
+            {
+              "name": "St Andrews Cathedral",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um den Weg im Regen abzukürzen.",
+                "hu": "Parkoljon közel a bejárathoz, hogy lerövidítse az utat az esőben.",
+                "ro": "Parcați aproape de intrare pentru a scurta drumul prin ploaie.",
+                "en": "Park as close to the entrance as possible to minimize walking in rain."
+              }
+            },
+            {
+              "name": "St Andrews Castle",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Wagen, um nasse Kleidung zwischen den Stopps zu lagern.",
+                "hu": "Használja az autót a vizes ruhák tárolására a megállók között.",
+                "ro": "Folosiți mașina pentru a depozita hainele ude între opriri.",
+                "en": "Use the car to store wet gear and umbrellas between the stops."
+              }
+            },
+            {
+              "name": "St Andrews University",
+              "tip_5lang": {
+                "de": "Das Parken im Zentrum kann bei Regen schwierig sein; nutzen Sie Parkhäuser.",
+                "hu": "A központi parkolás esőben nehéz lehet; használja a parkolóházakat.",
+                "ro": "Parcarea centrală poate fi dificilă pe ploaie; căutați parcări etajate.",
+                "en": "Central parking can be tricky in the rain; look for designated lots."
+              }
+            },
+            {
+              "name": "St Andrews Botanic Garden",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist direkt am Garten, ideal bei unbeständigem Wetter.",
+                "hu": "A parkoló közvetlenül a kertnél van, ideális bizonytalan időben.",
+                "ro": "Parcarea este chiar lângă grădină, ideală pe vreme instabilă.",
+                "en": "The parking lot is right at the garden, ideal for unsettled weather."
+              }
+            },
+            {
+              "name": "R&A World Golf Museum",
+              "tip_5lang": {
+                "de": "Großer Parkplatz in der Nähe vorhanden; perfekt für den Museumsbesuch.",
+                "hu": "Nagy parkoló található a közelben; tökéletes a múzeumlátogatáshoz.",
+                "ro": "Parcare mare disponibilă în apropiere; perfect pentru vizitarea muzeului.",
+                "en": "Large parking area nearby; perfect for a long museum visit."
+              }
+            },
+            {
+              "name": "West Sands Beach",
+              "tip_5lang": {
+                "de": "Man kann oft direkt am Strand parken und die Aussicht im Trockenen genießen.",
+                "hu": "Gyakran közvetlenül a parton is parkolhat, élvezve a kilátást a szárazból.",
+                "ro": "Puteți parca adesea chiar lângă plajă și admira marea din mașină.",
+                "en": "You can often park right by the beach and enjoy the view from the car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf große Pfützen in den tiefer liegenden Küstenstraßen.",
+              "Halten Sie ein Handtuch im Auto bereit, um sich nach Stopps abzutrocknen.",
+              "Die Sicht kann bei starkem Regen und Meernebel stark eingeschränkt sein.",
+              "Einige Parkplätze können bei Sturm wegen Überflutungsgefahr gesperrt sein."
+            ],
+            "hu": [
+              "Ügyeljen a mély tócsákra az alacsonyabban fekvő parti utakon.",
+              "Tartson törölközőt az autóban, hogy megszárítkozzon a megállók után.",
+              "A látási viszonyok korlátozottak lehetnek erős esőben és ködben.",
+              "Egyes parkolókat vihar idején lezárhatnak a vízátfolyások miatt."
+            ],
+            "ro": [
+              "Atenție la bălțile mari de pe drumurile de coastă mai joase.",
+              "Țineți un prosop în mașină pentru a vă usca după fiecare oprire.",
+              "Vizibilitatea poate fi redusă semnificativ pe ploaie și ceață marină.",
+              "Unele parcări pot fi închise în caz de furtună din cauza inundațiilor."
+            ],
+            "en": [
+              "Watch out for large puddles on the lower coastal roads.",
+              "Keep a towel in the car to dry off after the outdoor stops.",
+              "Visibility can be poor during heavy rain and coastal mist.",
+              "Some beach-side car parks may close during high tides or storms."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen beginnt mit der Fahrt zur Kathedrale. Mittags erkunden Sie das Schloss, während der Wagen angenehm vorgeheizt wartet. Nachmittags besuchen Sie die Universität und den winterlichen Botanischen Garten. Der Tag endet gemütlich am Golfmuseum und einer abendlichen Fahrt entlang des beleuchteten West Sands Strandes.",
+            "hu": "Tiszta téli reggel kezdődik a katedrálishoz vezető úttal. Délben felfedezheti a várat, miközben az autó kellemesen befűtve várja. Délután látogatás az egyetemen és a téli botanikus kertben. A nap kényelmesen zárul a golfmúzeumnál és egy esti autózással a kivilágított West Sands part mentén.",
+            "ro": "O dimineață senină de iarnă începe cu drumul spre catedrală. La prânz explorați castelul, în timp ce mașina vă așteaptă încălzită. După-amiaza vizitați universitatea și grădina botanică hibernală. Ziua se încheie plăcut la muzeu și cu o plimbare de seară pe lângă plaja West Sands iluminată.",
+            "en": "A crisp winter morning starts with a drive to the cathedral. At midday, explore the castle knowing a pre-heated car is waiting. In the afternoon, visit the university and the wintry Botanic Garden. The day ends comfortably at the golf museum and an evening drive along the illuminated West Sands beach."
+          },
+          "stops": [
+            {
+              "name": "St Andrews Cathedral",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Untergrund auf Glatteis beim Aussteigen.",
+                "hu": "Kiszálláskor ellenőrizze, hogy nem jeges-e a talaj.",
+                "ro": "Verificați suprafața pentru gheață când coborâți din mașină.",
+                "en": "Check the ground for black ice when stepping out of the car."
+              }
+            },
+            {
+              "name": "St Andrews Castle",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Sitzheizung nach dem windigen Rundgang auf den Mauern.",
+                "hu": "Használja az ülésfűtést a szeles várlátogatás után.",
+                "ro": "Folosiți încălzirea în scaune după turul vântos pe zidurile castelului.",
+                "en": "Turn on the seat heaters after the windy walk on the castle walls."
+              }
+            },
+            {
+              "name": "St Andrews University",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen Parkplatz und den historischen Gebäuden wählen.",
+                "hu": "Válasszon rövid utat a parkoló és a történelmi épületek között.",
+                "ro": "Alegeți drumuri scurte între parcare și clădirile istorice.",
+                "en": "Choose short walking paths between parking and the historic halls."
+              }
+            },
+            {
+              "name": "St Andrews Botanic Garden",
+              "tip_5lang": {
+                "de": "Im Winter ist es hier ruhiger; Parken ist meist kein Problem.",
+                "hu": "Télen itt nagyobb a nyugalom; a parkolás általában nem okoz gondot.",
+                "ro": "Iarna este mai liniște aici; parcarea nu reprezintă de obicei o problemă.",
+                "en": "It's quieter here in winter; parking is usually very easy."
+              }
+            },
+            {
+              "name": "R&A World Golf Museum",
+              "tip_5lang": {
+                "de": "Der nahegelegene Parkplatz spart lange Wege in der Kälte.",
+                "hu": "A közeli parkoló megkíméli a hosszú sétától a hidegben.",
+                "ro": "Parcarea din apropiere vă scutește de plimbări lungi prin frig.",
+                "en": "The nearby car park saves you from long walks in the freezing air."
+              }
+            },
+            {
+              "name": "West Sands Beach",
+              "tip_5lang": {
+                "de": "Perfekt für eine Sightseeing-Runde im Auto bei Sonnenuntergang.",
+                "hu": "Tökéletes helyszín egy autós nézelődéshez naplementekor.",
+                "ro": "Perfect pentru o tură de vizitare din mașină la apus.",
+                "en": "Perfect for a scenic sightseeing drive at sunset from the warmth of the car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Frostschutzmittel im Wischwasser ist.",
+              "Küstennähe bedeutet oft tückisches Glatteis in den Morgenstunden.",
+              "Die Parkuhren akzeptieren oft nur Kartenzahlung; App-Nutzung ratsam.",
+              "Lassen Sie keine Wertsachen sichtbar im Auto, wenn es früh dunkel wird."
+            ],
+            "hu": [
+              "Gondoskodjon a fagyálló szélvédőmosó folyadékról.",
+              "A tenger közelsége miatt reggelente trükkös jegesedés várható.",
+              "A parkolóautomaták gyakran csak kártyát fogadnak; használjon appot.",
+              "Ne hagyjon értéket látható helyen, ha korán sötétedik."
+            ],
+            "ro": [
+              "Asigurați-vă că aveți lichid de parbriz rezistent la îngheț.",
+              "Proximitatea mării înseamnă polei trădător în orele dimineții.",
+              "Aparatele de parcare acceptă adesea doar cardul; folosiți aplicația.",
+              "Nu lăsați obiecte de valoare la vedere când se întunecă devreme."
+            ],
+            "en": [
+              "Ensure your screen wash has sufficient anti-freeze for local conditions.",
+              "Coastal roads can be surprisingly icy in the early morning hours.",
+              "Parking meters often take card only; consider using a parking app.",
+              "Don't leave valuables visible as it gets dark very early in the afternoon."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1374,6 +1920,188 @@
           "The town has no train station of its own, the nearest is Leuchars (bus connection available).",
           "The center is so small that you almost only need the bus for outer destinations."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus zur Kathedrale, während der Regen gegen die Scheiben peitscht. Mittags geht es weiter zum Schloss, wobei die kurzen Wege zwischen den Haltestellen ideal sind. Nachmittags besuchen Sie die Universität und den Botanischen Garten per Transit. Der Tag endet im trockenen Golfmuseum, bevor Sie die Rückfahrt im warmen Bus genießen.",
+            "hu": "Busszal a katedrálishoz, miközben az eső a szélvédőt mossa. Délben folytassa útját a vár felé; a megállók közötti rövid séta ideális esőben. Délután látogatás az egyetemen és a botanikus kertben tömegközlekedéssel. A nap a száraz golfmúzeumban zárul, majd élvezze a hazautat a meleg buszon.",
+            "ro": "Cu autobuzul spre catedrală în timp ce ploaia bate în geamuri. La prânz continuăm spre castel; distanțele scurte între stații sunt ideale pe ploaie. După-amiaza vizitați universitatea și grădina botanică cu transportul public. Ziua se încheie la muzeu, urmată de un drum relaxant cu autobuzul.",
+            "en": "By bus to the cathedral while rain lashes against the windows. At midday, continue to the castle; short walks between stops are ideal in the wet. In the afternoon, visit the university and the Botanic Garden via transit. The day ends at the dry golf museum before enjoying the return journey on a warm bus."
+          },
+          "stops": [
+            {
+              "name": "St Andrews Cathedral",
+              "tip_5lang": {
+                "de": "Warten Sie in den Bushäuschen, bis der Schauer nachlässt.",
+                "hu": "Várjon a buszmegállók fedele alatt, amíg a zápor alábbhagy.",
+                "ro": "Așteptați în stațiile acoperite până când ploaia se mai domolește.",
+                "en": "Wait in the bus shelters until the heaviest showers pass."
+              }
+            },
+            {
+              "name": "St Andrews Castle",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist nur wenige Gehminuten vom Schlosseingang entfernt.",
+                "hu": "A megálló csak néhány perc sétára van a vár bejáratától.",
+                "ro": "Stația se află la doar câteva minute de mers de intrarea în castel.",
+                "en": "The stop is just a few minutes' walk from the castle entrance."
+              }
+            },
+            {
+              "name": "St Andrews University",
+              "tip_5lang": {
+                "de": "Zentraler Knotenpunkt; viele Busse halten direkt bei den Uni-Gebäuden.",
+                "hu": "Központi csomópont; sok busz közvetlenül az egyetemnél áll meg.",
+                "ro": "Nod central; multe autobuze opresc chiar lângă clădirile universității.",
+                "en": "Central hub; many buses stop directly by the university buildings."
+              }
+            },
+            {
+              "name": "St Andrews Botanic Garden",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Bus, um den Weg zum etwas abgelegenen Garten zu sparen.",
+                "hu": "Használja a buszt, hogy megspórolja a sétát a távolabbi kerthez.",
+                "ro": "Folosiți autobuzul pentru a economisi drumul spre grădina mai retrasă.",
+                "en": "Use the bus to save the walk to the slightly more distant garden."
+              }
+            },
+            {
+              "name": "R&A World Golf Museum",
+              "tip_5lang": {
+                "de": "Die Endstation vieler Linien ist nah am Museum gelegen.",
+                "hu": "Számos járat végállomása a múzeum közelében található.",
+                "ro": "Capătul multor linii este situat aproape de muzeu.",
+                "en": "The terminus for many bus routes is located near the museum."
+              }
+            },
+            {
+              "name": "Old Course",
+              "tip_5lang": {
+                "de": "Holen Sie sich ein Tagesticket, um flexibel zwischen den Stopps zu pendeln.",
+                "hu": "Váltson napijegyet, hogy rugalmasan utazhasson a megállók között.",
+                "ro": "Luați un bilet de o zi pentru a circula flexibil între opriri.",
+                "en": "Get a day ticket to travel flexibly between all the stops."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Laden Sie die lokale Bus-App für Echtzeit-Infos bei Regen herunter.",
+              "Einige Busse können bei starkem Sturm Verspätungen haben.",
+              "Halten Sie Ihr Ticket oder Handy für schnelles Einsteigen bereit.",
+              "Die Busse sind im Winter und bei Regen oft stark klimatisiert/beheizt."
+            ],
+            "hu": [
+              "Töltse le a helyi buszos appot a valós idejű infókért az esőben.",
+              "Néhány járat késhet erős tengerparti viharok idején.",
+              "Tartsa készenlétben a jegyét vagy mobilját a gyors felszálláshoz.",
+              "A buszok télen és esőben általában jól fűtöttek."
+            ],
+            "ro": [
+              "Descărcați aplicația locală de transport pentru info în timp real.",
+              "Unele autobuze pot avea întârzieri în timpul furtunilor puternice.",
+              "Aveți biletul sau telefonul pregătit pentru o urcare rapidă.",
+              "Autobuzele sunt de obicei bine încălzite iarna și pe ploaie."
+            ],
+            "en": [
+              "Download the local bus app for real-time tracking during the rain.",
+              "Some routes may experience delays during severe coastal storms.",
+              "Have your ticket or contactless payment ready for quick boarding.",
+              "Buses are usually well-heated, providing a warm escape from the wet."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Start in den Tag mit dem Transit zur Kathedrale. Mittags erkunden Sie das Schloss, wobei der Bus eine willkommene Aufwärmpause bietet. Nachmittags geht es zur Universität und dem winterlichen Botanischen Garten. Der Tag endet am Golfmuseum und dem Old Course, bevor Sie die Heimreise in der frühen Dunkelheit antreten.",
+            "hu": "Fagyos napindítás tömegközlekedéssel a katedrálishoz. Délben fedezze fel a várat, miközben a busz meleg pihenőt nyújt a megállók között. Délután látogatás az egyetemen és a téli botanikus kertben. A nap a golfmúzeumnál és az Old Course-nál zárul, majd indulás haza a korai sötétségben.",
+            "ro": "Un început de zi geros cu transportul public spre catedrală. La prânz explorați castelul, autobuzul oferind o pauză de încălzire binevenită. După-amiaza vizitați universitatea și grădina botanică hibernală. Ziua se încheie la muzeu și Old Course înainte de drumul spre casă pe întuneric.",
+            "en": "A frosty start to the day using transit to reach the cathedral. At midday, explore the castle, with the bus providing a welcome warming break between sites. In the afternoon, head to the university and the wintry Botanic Garden. The day ends at the golf museum and Old Course before heading home in the early darkness."
+          },
+          "stops": [
+            {
+              "name": "St Andrews Cathedral",
+              "tip_5lang": {
+                "de": "Die Busse fahren im Winter nach einem leicht geänderten Plan.",
+                "hu": "A buszok télen némileg módosított menetrend szerint járhatnak.",
+                "ro": "Autobuzele pot circula după un program ușor modificat iarna.",
+                "en": "Buses may run on a slightly different schedule during winter months."
+              }
+            },
+            {
+              "name": "St Andrews Castle",
+              "tip_5lang": {
+                "de": "Halten Sie sich an der Haltestelle in Bewegung, um warm zu bleiben.",
+                "hu": "Mozogjon a megállóban várakozás közben, hogy ne fázzon meg.",
+                "ro": "Mențineți-vă în mișcare în stație pentru a nu vă fi frig.",
+                "en": "Keep moving while waiting at the stop to stay warm in the wind."
+              }
+            },
+            {
+              "name": "St Andrews University",
+              "tip_5lang": {
+                "de": "Viele Studenten nutzen den Bus; in der Stoßzeit kann es voll sein.",
+                "hu": "Sok diák használja a buszt; csúcsidőben zsúfoltság várható.",
+                "ro": "Mulți studenți folosesc autobuzul; poate fi aglomerat la orele de vârf.",
+                "en": "Many students use the bus; expect some crowds during peak hours."
+              }
+            },
+            {
+              "name": "St Andrews Botanic Garden",
+              "tip_5lang": {
+                "de": "Prüfen Sie die letzte Rückfahrt, da es früh dunkel wird.",
+                "hu": "Ellenőrizze az utolsó visszautat, mert korán sötétedik.",
+                "ro": "Verificați ultima cursă de întoarcere, se întunecă devreme.",
+                "en": "Check the time for the last return bus as it gets dark early."
+              }
+            },
+            {
+              "name": "R&A World Golf Museum",
+              "tip_5lang": {
+                "de": "Die Haltestellen sind gut beleuchtet und sicher für die Abendstunden.",
+                "hu": "A megállók jól kivilágítottak és biztonságosak az esti órákban.",
+                "ro": "Stațiile sunt bine iluminate și sigure pentru orele serii.",
+                "en": "The bus stops are well-lit and safe for travel in the evening."
+              }
+            },
+            {
+              "name": "Old Course",
+              "tip_5lang": {
+                "de": "Ein Tagesticket lohnt sich besonders bei kurzen, kalten Tagen.",
+                "hu": "A napijegy különösen megéri a rövid és hideg téli napokon.",
+                "ro": "Biletul de o zi merită în special în zilele scurte și reci de iarnă.",
+                "en": "A day ticket is great value, especially during short, cold winter days."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse sind die wärmste Art, sich im Winter in der Stadt zu bewegen.",
+              "Planen Sie Pufferzeiten ein, da Frost den Verkehr behindern kann.",
+              "Die zentrale Busstation ist ein guter Ort zum Umsteigen im Trockenen.",
+              "Wickeln Sie sich warm ein, da die Wartezeit am Meer eisig sein kann."
+            ],
+            "hu": [
+              "Télen a busz a legmelegebb módja a városi közlekedésnek.",
+              "Tervezzen ráhagyással, mert a fagy akadályozhatja a forgalmat.",
+              "A központi buszpályaudvar jó hely az átszállásra a szárazban.",
+              "Öltözzön nagyon melegen, a várakozás a tengerparton fagyos lehet."
+            ],
+            "ro": [
+              "Autobuzul este cea mai călduroasă modalitate de deplasare iarna.",
+              "Planificați timp suplimentar, gerul poate îngreuna traficul.",
+              "Stația centrală de autobuz este un loc bun pentru transferuri la uscat.",
+              "Înfofoliți-vă bine, așteptarea lângă mare poate fi înghețată."
+            ],
+            "en": [
+              "Buses are the warmest way to get around the city during winter.",
+              "Allow extra time as frost or icy roads can sometimes slow traffic.",
+              "The central bus station is a good spot for dry and safe transfers.",
+              "Wrap up very warm, as waiting at coastal stops can be freezing."
+            ]
+          }
+        }
       }
     }
   }

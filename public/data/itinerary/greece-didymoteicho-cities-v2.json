@@ -287,6 +287,206 @@
           "Bring plenty of water, especially in summer.",
           "Most sights are located close to each other."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Morgen an der Bayezid-Moschee, deren gewaltiges Äußeres auch bei grauem Himmel beeindruckt. Das nahegelegene Volkskundemuseum bietet danach für über eine Stunde einen idealen, trockenen Zufluchtsort. Mittags erkunden Sie die Burgruinen vorsichtig, da das alte Pflaster bei Nässe rutschig wird. Der Nachmittag gehört den Schätzen im Byzantinischen Museum, bevor Sie den Tag geschützt in Plotinopolis ausklingen lassen.",
+            "hu": "A reggelt a Bayezid-mecsetnél kezdjük, melynek monumentális tömbje esőben is tiszteletet parancsoló. A Néprajzi Múzeum tökéletes menedék a záporok elől, ahol bő másfél órát tölthetünk fedél alatt. Délután a vár sziklái és macskakövei csúszóssá válhatnak, így óvatosan haladjunk a templom felé. A napot a Bizánci Múzeum tárlatai között és Plotinopolisz fedett mozaikjainál zárjuk.",
+            "ro": "Începeți dimineața la Moscheea Bayezid, a cărei prezență masivă este impresionantă chiar și sub ploaie. Muzeul de Folclor oferă un refugiu excelent pentru următoarea oră și jumătate. La prânz, urcați spre castel cu atenție, deoarece pietrele vechi devin alunecoase. După-amiaza este dedicată artefactelor din Muzeul Bizantin, terminând ziua la situl Plotinopolis, unde mozaicurile sunt parțial protejate.",
+            "en": "Start your morning at the Bayezid Mosque, where the massive structure remains imposing even under gray skies. The nearby Folklore Museum provides a perfect dry sanctuary for over an hour. At midday, navigate the castle ruins carefully as the ancient stones become slippery. Spend the afternoon among the exhibits of the Byzantine Museum before heading to the sheltered mosaics of Plotinopolis."
+          },
+          "stops": [
+            {
+              "name": "Bayezid Mosque",
+              "tip_5lang": {
+                "de": "Betrachten Sie die Architektur von den Arkaden aus, um trocken zu bleiben.",
+                "hu": "Figyelje meg az épületet az árkádok alól, hogy elkerülje az esőt.",
+                "ro": "Admirați arhitectura de sub arcade pentru a rămâne uscat.",
+                "en": "Observe the architecture from under the arcades to stay dry."
+              }
+            },
+            {
+              "name": "Folklore Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die lange Aufenthaltszeit, um den heftigsten Regen abzuwarten.",
+                "hu": "Használja ki a hosszú látogatási időt a nagyobb záporok átvészelésére.",
+                "ro": "Folosiți timpul lung de vizită pentru a aștepta trecerea ploii.",
+                "en": "Use the long stay to wait out the heaviest rain indoors."
+              }
+            },
+            {
+              "name": "Byzantine Castle of Didymoteicho",
+              "tip_5lang": {
+                "de": "Vorsicht auf den steilen Wegen; festes Schuhwerk ist bei Nässe Pflicht.",
+                "hu": "Vigyázat a meredek utakon; nedves időben a tapadós talpú cipő kötelező.",
+                "ro": "Atenție pe potecile abrupte; încălțămintea aderentă este obligatorie pe ploaie.",
+                "en": "Careful on the steep paths; grippy shoes are a must in wet conditions."
+              }
+            },
+            {
+              "name": "Church of Agios Athanasios",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort für eine kurze Pause im Trockenen.",
+                "hu": "Csendes helyszín egy rövid, száraz pihenőhöz.",
+                "ro": "Un loc liniștit pentru o scurtă pauză la adăpost.",
+                "en": "A quiet spot for a short, dry break during your walk."
+              }
+            },
+            {
+              "name": "Byzantine Museum",
+              "tip_5lang": {
+                "de": "Hervorragend klimatisiert und absolut regensicher für den Nachmittag.",
+                "hu": "Kiválóan klimatizált és teljesen esőbiztos helyszín délutánra.",
+                "ro": "Excelent climatizat și complet protejat de ploaie pentru după-amiază.",
+                "en": "Excellent climate control and fully rain-proof for the afternoon."
+              }
+            },
+            {
+              "name": "Armenian Church of St. George",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Ikonen, während es draußen regnet.",
+                "hu": "Csodálja meg az ikonokat, amíg kint esik az eső.",
+                "ro": "Admirați icoanele în timp ce afară plouă.",
+                "en": "Admire the icons while the rain falls outside."
+              }
+            },
+            {
+              "name": "Archaeological Site of Plotinopolis",
+              "tip_5lang": {
+                "de": "Die Mosaike sind durch eine Überdachung vor direktem Regen geschützt.",
+                "hu": "A mozaikokat tetőszerkezet védi a közvetlen esőtől.",
+                "ro": "Mozaicurile sunt protejate de ploaia directă de un acoperiș.",
+                "en": "The mosaics are protected from direct rain by a roofing structure."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine wasserfeste Jacke, da der Weg zur Burg ungeschützt ist.",
+              "Die Museen in Didymoteicho sind montags oft geschlossen; prüfen Sie dies vorab.",
+              "Ein Regenschirm kann bei starkem Wind am Burgberg unhandlich sein.",
+              "Nutzen Sie die Cafés am Hauptplatz für trockene Pausen zwischen den Stationen."
+            ],
+            "hu": [
+              "Viseljen vízálló kabátot, mert a várba vezető út teljesen nyitott.",
+              "A múzeumok hétfőnként zárva tarthatnak, ellenőrizze az aktuális nyitvatartást.",
+              "Az esernyő a várdombon feltámadó szélben nehezen kezelhető lehet.",
+              "Használja a főtér kávézóit száraz pihenőhelyként a megállók között."
+            ],
+            "ro": [
+              "Purtați o jachetă impermeabilă, deoarece drumul spre castel este expus.",
+              "Muzeele sunt adesea închise lunea; verificați programul înainte de plecare.",
+              "O umbrelă poate fi greu de manevrat din cauza vântului de pe dealul castelului.",
+              "Folosiți cafenelele din piața centrală pentru pauze uscate între obiective."
+            ],
+            "en": [
+              "Wear a waterproof jacket as the path to the castle is completely exposed.",
+              "Museums are often closed on Mondays; check the schedule before heading out.",
+              "An umbrella might be difficult to handle due to wind on the castle hill.",
+              "Use the cafes in the central square for dry breaks between stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen in Didymoteicho beginnt frisch an der Bayezid-Moschee. Die Kälte des Evros-Flusses ist spürbar, daher ist das warme Volkskundemuseum ein willkommener Halt. Mittags bietet die Burgruine klare Sichtweiten, auch wenn der Wind oben beißt. Nach den byzantinischen Schätzen im Museum nutzen Sie die letzten Sonnenstrahlen in Plotinopolis, bevor es gegen 17:00 Uhr dunkel wird.",
+            "hu": "A téli reggel friss levegővel fogad a Bayezid-mecsetnél. Az Evrosz folyó felől fújó szél hideg, így a Néprajzi Múzeum fűtött terei jól fognak esni. Délben a várból messzire ellátni a tiszta időben, bár a szél odafent metsző lehet. A Bizánci Múzeum után használja ki az utolsó fényeket Plotinopolisznál, mert délután 5-kor már sötétedik.",
+            "ro": "Dimineața de iarnă începe cu aer proaspăt la Moscheea Bayezid. Frigul de la râul Evros este resimțit, așa că Muzeul de Folclor este o oprire călduroasă binevenită. La prânz, castelul oferă vederi clare, deși vântul poate fi tăios sus pe deal. După Muzeul Bizantin, profitați de ultimele raze de soare la Plotinopolis înainte de lăsarea întunericului, în jur de ora 17:00.",
+            "en": "The winter morning starts with crisp air at the Bayezid Mosque. The chill from the Evros river is noticeable, making the warm Folklore Museum a welcome stop. At noon, the castle ruins offer clear views, though the wind can be biting up on the hill. After exploring the Byzantine Museum, catch the final daylight at Plotinopolis before it gets dark around 5:00 PM."
+          },
+          "stops": [
+            {
+              "name": "Bayezid Mosque",
+              "tip_5lang": {
+                "de": "Die Steinmauern strahlen im Winter eine besondere Kälte aus; ziehen Sie sich warm an.",
+                "hu": "A kőfalak télen különösen sugározzák a hideget; öltözzön rétegesen.",
+                "ro": "Zidurile de piatră emană un frig aparte iarna; îmbrăcați-vă gros.",
+                "en": "The stone walls radiate a particular chill in winter; dress warmly."
+              }
+            },
+            {
+              "name": "Folklore Museum",
+              "tip_5lang": {
+                "de": "Genießen Sie die beheizten Ausstellungsräume für eine angenehme Pause.",
+                "hu": "Élvezze a fűtött kiállítótereket egy kellemes pihenőhöz.",
+                "ro": "Bucurați-vă de sălile de expoziție încălzite pentru o pauză plăcută.",
+                "en": "Enjoy the heated exhibition rooms for a comfortable break."
+              }
+            },
+            {
+              "name": "Byzantine Castle of Didymoteicho",
+              "tip_5lang": {
+                "de": "Hervorragendes Licht für Fotos, aber sehr exponiert gegenüber dem Nordwind.",
+                "hu": "Kiváló fények fotózáshoz, de a helyszín nagyon kitett az északi szélnek.",
+                "ro": "Lumină excelentă pentru fotografii, dar locul este foarte expus vântului de nord.",
+                "en": "Excellent light for photography, but very exposed to the north wind."
+              }
+            },
+            {
+              "name": "Church of Agios Athanasios",
+              "tip_5lang": {
+                "de": "Die Kerzen im Inneren sorgen für eine warme und friedliche Atmosphäre.",
+                "hu": "A benti gyertyák meleg és békés hangulatot árasztanak.",
+                "ro": "Lumânările din interior creează o atmosferă caldă și liniștită.",
+                "en": "The candles inside provide a warm and peaceful atmosphere."
+              }
+            },
+            {
+              "name": "Byzantine Museum",
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um sich am Nachmittag gründlich aufzuwärmen.",
+                "hu": "Tökéletes helyszín az alapos felmelegedéshez a délután folyamán.",
+                "ro": "Locul perfect pentru a vă încălzi bine în timpul după-amiezii.",
+                "en": "The perfect place to warm up thoroughly during the afternoon."
+              }
+            },
+            {
+              "name": "Armenian Church of St. George",
+              "tip_5lang": {
+                "de": "Ein kurzer Halt, um die Kälte für einen Moment zu vergessen.",
+                "hu": "Rövid megálló, hogy egy pillanatra elfelejtse a kinti hideget.",
+                "ro": "O scurtă oprire pentru a uita de frig pentru un moment.",
+                "en": "A short stop to forget the cold for a moment."
+              }
+            },
+            {
+              "name": "Archaeological Site of Plotinopolis",
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Ort früh, da das Tageslicht im Winter schnell nachlässt.",
+                "hu": "Látogassa meg korán, mert a téli fények gyorsan fogynak.",
+                "ro": "Vizitați acest loc devreme, deoarece lumina zilei scade repede iarna.",
+                "en": "Visit early as daylight fades quickly in the winter months."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Handschuhe sind für den Aufstieg zur Burg unerlässlich.",
+              "Die Sonne geht früh unter; planen Sie Plotinopolis vor 16:30 Uhr ein.",
+              "Heiße Schokolade in den lokalen Cafés ist ein Muss gegen den Winterblues.",
+              "Achten Sie auf eventuelle Vereisungen auf den antiken Steinpfaden."
+            ],
+            "hu": [
+              "A várba való felkapaszkodáshoz elengedhetetlen a meleg kesztyű.",
+              "A nap korán nyugszik; Plotinopoliszt tervezze 16:30 előttre.",
+              "A helyi kávézók forró csokoládéja kiváló a téli hideg ellen.",
+              "Ügyeljen az esetleges jegesedésre az antik kőösvényeken."
+            ],
+            "ro": [
+              "Mănușile groase sunt esențiale pentru urcarea la castel.",
+              "Soarele apune devreme; planificați vizita la Plotinopolis înainte de 16:30.",
+              "Ciocolata caldă din cafenelele locale este obligatorie împotriva frigului.",
+              "Atenție la eventualele porțiuni înghețate de pe potecile de piatră."
+            ],
+            "en": [
+              "Warm gloves are essential for the climb to the castle ruins.",
+              "Sunset is early; aim to finish Plotinopolis before 4:30 PM.",
+              "Hot chocolate in local cafes is a must to beat the winter chill.",
+              "Watch out for potential icy patches on the ancient stone paths."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -545,6 +745,188 @@
           "The town is small, but some streets can be steep.",
           "A helmet is recommended."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren in Didymoteicho bei Regen erfordert Konzentration. Starten Sie an der Burg, wo das nasse Kopfsteinpflaster rutschig ist. Die Stadtmauer bietet wenig Schutz, also steuern Sie bald die Moschee und das Volkskundemuseum an, um sich unterzustellen. Der Weg nach Plotinopolis kann schlammig sein, planen Sie also etwas mehr Zeit ein, bevor Sie den Tag bei einem Abendessen im Zentrum beenden.",
+            "hu": "Az esős Didimotiho kerékpárral odafigyelést igényel. Kezdjen a várnál, ahol a vizes macskakő csúszós lehet. A várfalak nem adnak menedéket, így hamar vegye az irányt a mecset és a múzeum felé száradni. A Plotinopolisz felé vezető út sáros lehet, számoljon extra idővel, mielőtt a napot egy belvárosi vacsorával zárná.",
+            "ro": "Ciclismul în Didymoteicho pe ploaie necesită concentrare. Începeți la castel, unde piatra cubică umedă este alunecoasă. Zidurile oferă puțin adăpost, așa că îndreptați-vă spre moschee și muzeu pentru a vă usca. Drumul spre Plotinopolis poate fi noroios, deci rezervați-vă timp suplimentar înainte de cina din centru.",
+            "en": "Cycling in Didymoteicho in the rain requires focus. Start at the castle, where wet cobblestones can be slick. The city walls offer little shelter, so head to the mosque and museum soon to dry off. The route to Plotinopolis might be muddy, so allow extra time before finishing the day with dinner in the city center."
+          },
+          "stops": [
+            {
+              "name": "Byzantine Castle of Didymoteicho",
+              "tip_5lang": {
+                "de": "Reduzieren Sie den Reifendruck leicht für besseren Grip auf nassem Fels.",
+                "hu": "Csökkentse kissé a guminyomást a jobb tapadásért a vizes sziklákon.",
+                "ro": "Reduceți ușor presiunea în pneuri pentru o aderență mai bună pe stânca umedă.",
+                "en": "Lower tire pressure slightly for better grip on wet rocks."
+              }
+            },
+            {
+              "name": "Byzantine City Walls",
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig an den Mauern entlang; Pfützen können tief sein.",
+                "hu": "Óvatosan haladjon a falak mentén; a tócsák mélyek lehetnek.",
+                "ro": "Circulați cu atenție pe lângă ziduri; bălțile pot fi adânci.",
+                "en": "Ride carefully along the walls; puddles can be deceptively deep."
+              }
+            },
+            {
+              "name": "Bayezid Mosque",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad unter den Bäumen am Platz für minimalen Regenschutz.",
+                "hu": "Parkolja a kerékpárt a tér fái alá egy kis esővédelemért.",
+                "ro": "Parcați bicicleta sub copacii din piață pentru o minimă protecție.",
+                "en": "Park your bike under the trees in the square for minimal rain cover."
+              }
+            },
+            {
+              "name": "Folklore Museum",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Regenkleidung für eine Weile auszuziehen.",
+                "hu": "Ideális helyszín, hogy egy időre levegye az esőruházatot.",
+                "ro": "Un loc ideal pentru a vă scoate hainele de ploaie pentru o vreme.",
+                "en": "An ideal place to take off your rain gear for a while."
+              }
+            },
+            {
+              "name": "Archaeological Site of Plotinopolis",
+              "tip_5lang": {
+                "de": "Vermeiden Sie unbefestigte Seitenwege, um nicht im Matsch stecken zu bleiben.",
+                "hu": "Kerülje a kiépítetlen mellékutakat, hogy ne ragadjon a sárba.",
+                "ro": "Evitați drumurile secundare neamenajate pentru a nu rămâne în noroi.",
+                "en": "Avoid unpaved side paths to prevent getting stuck in the mud."
+              }
+            },
+            {
+              "name": "City Center for Dinner",
+              "tip_5lang": {
+                "de": "Suchen Sie ein Restaurant mit überdachtem Außenbereich für Ihre Ausrüstung.",
+                "hu": "Keressen fedett terasszal rendelkező éttermet a felszerelésének.",
+                "ro": "Căutați un restaurant cu terasă acoperită pentru echipamentul dvs.",
+                "en": "Find a restaurant with a covered outdoor area for your gear."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vollständige Regenmontur inklusive Überschuhen wird dringend empfohlen.",
+              "Prüfen Sie Ihre Bremsen vorab; nasse Felgen verlängern den Bremsweg.",
+              "Die Route nach Plotinopolis führt über Asphalt, der bei Regen schmierig sein kann.",
+              "Schutzbleche am Fahrrad bewahren Sie vor aufspritzendem Schlamm."
+            ],
+            "hu": [
+              "Teljes esőruházat és kamásli használata erősen ajánlott.",
+              "Ellenőrizze a fékeket; a vizes felniken hosszabb a féktáv.",
+              "A Plotinopolisz felé vezető aszfalt esőben csúszós, nyálkás lehet.",
+              "A sárvédő használata megkíméli Önt a felverődő sártól."
+            ],
+            "ro": [
+              "Se recomandă echipament de ploaie complet, inclusiv huse pentru pantofi.",
+              "Verificați frânele; jantele umede prelungesc distanța de frânare.",
+              "Asfaltul spre Plotinopolis poate fi alunecos când este ud.",
+              "Apărătorile de noroi sunt esențiale pentru a evita murdărirea excesivă."
+            ],
+            "en": [
+              "Full rain gear including shoe covers is highly recommended.",
+              "Check your brakes; wet rims will increase your stopping distance.",
+              "The asphalt leading to Plotinopolis can be greasy when wet.",
+              "Mudguards on your bike will save you from excessive splashing."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine Wintertour per Rad durch Didymoteicho ist belebend, aber kalt. Starten Sie an der Burg für das beste Morgenlicht. Die Fahrt entlang der Stadtmauer bietet einen freien Blick auf das Evros-Tal. Die Bayezid-Moschee und das Volkskundemuseum sind wichtige Punkte zum Aufwärmen. Beenden Sie die Tour nach Plotinopolis rechtzeitig vor Einbruch der Dunkelheit mit einem gemütlichen Abendessen im Stadtzentrum.",
+            "hu": "A téli kerékpározás Didimotihóban élénkítő, de hideg élmény. Kezdjen a várnál a legszebb reggeli fényekért. A várfal mentén tekerve tiszta kilátás nyílik az Evrosz völgyére. A mecset és a Néprajzi Múzeum fontos állomások a felmelegedéshez. A Plotinopolisz felé tartó kört fejezze be sötétedés előtt egy kellemes belvárosi vacsorával.",
+            "ro": "O tură de iarnă cu bicicleta prin Didymoteicho este revigorantă, dar rece. Începeți la castel pentru cea mai bună lumină de dimineață. Drumul pe lângă ziduri oferă vederi libere spre valea Evros. Moscheea și Muzeul de Folclor sunt puncte cheie pentru încălzire. Terminați vizita la Plotinopolis înainte de lăsarea serii cu o cină plăcută în centru.",
+            "en": "A winter bike tour through Didymoteicho is bracing but cold. Start at the castle for the best morning light. Riding along the walls offers clear views of the Evros valley. The mosque and Folklore Museum are key stops for warming up. Finish the trip to Plotinopolis before dusk with a cozy dinner in the city center."
+          },
+          "stops": [
+            {
+              "name": "Byzantine Castle of Didymoteicho",
+              "tip_5lang": {
+                "de": "Der Fahrtwind ist am Burgberg besonders kalt; schützen Sie Ihr Gesicht.",
+                "hu": "A menetszél a várdombon különösen hideg; védje az arcát.",
+                "ro": "Vântul este deosebit de rece pe dealul castelului; protejați-vă fața.",
+                "en": "The wind chill is particularly high on the castle hill; protect your face."
+              }
+            },
+            {
+              "name": "Byzantine City Walls",
+              "tip_5lang": {
+                "de": "Ein schöner Abschnitt, aber achten Sie auf Schattenlöcher mit Eisresten.",
+                "hu": "Szép szakasz, de figyeljen az árnyékos részeken megmaradó jégfoltokra.",
+                "ro": "O secțiune frumoasă, dar atenție la gheața din zonele umbrite.",
+                "en": "A scenic stretch, but watch out for icy patches in shaded areas."
+              }
+            },
+            {
+              "name": "Bayezid Mosque",
+              "tip_5lang": {
+                "de": "Kurzer Stopp; lassen Sie die Muskeln nicht zu sehr auskühlen.",
+                "hu": "Rövid megálló; ne hagyja az izmait túlságosan kihűlni.",
+                "ro": "Oprire scurtă; nu lăsați mușchii să se răcească prea tare.",
+                "en": "Short stop; don't let your muscles cool down too much."
+              }
+            },
+            {
+              "name": "Folklore Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Halt, um Ihre steif gefrorenen Finger zu bewegen.",
+                "hu": "Használja ki a megállót az elgémberedett ujjai átmozgatására.",
+                "ro": "Folosiți oprirea pentru a vă dezmorți degetele înghețate.",
+                "en": "Use the stop to thaw out and move your stiff fingers."
+              }
+            },
+            {
+              "name": "Archaeological Site of Plotinopolis",
+              "tip_5lang": {
+                "de": "Die offene Lage macht es hier am späten Nachmittag sehr zugig.",
+                "hu": "A nyitott fekvés miatt késő délután itt nagyon huzatos az idő.",
+                "ro": "Locația deschisă face ca locul să fie foarte vântos după-amiaza târziu.",
+                "en": "The open location makes it very drafty here in the late afternoon."
+              }
+            },
+            {
+              "name": "City Center for Dinner",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad sicher und genießen Sie eine heiße Mahlzeit.",
+                "hu": "Parkolja le biztonságosan a biciklit, és élvezze a forró ételt.",
+                "ro": "Parcați bicicleta în siguranță și savurați o masă caldă.",
+                "en": "Park your bike securely and enjoy a well-deserved hot meal."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Mehrlagige Kleidung (Zwiebelprinzip) ist beim Radfahren im Winter Pflicht.",
+              "Trinken Sie auch bei Kälte genug; warme Tees in Thermosflaschen helfen.",
+              "Die Lichtverhältnisse ändern sich nach 16:00 Uhr dramatisch.",
+              "Sicherstellen, dass Ihre Fahrradbeleuchtung für den Rückweg funktioniert."
+            ],
+            "hu": [
+              "A réteges öltözködés (hagyma-elv) téli bringázásnál kötelező.",
+              "Hidegben is igyon eleget; a termoszos meleg tea sokat segít.",
+              "A fényviszonyok 16:00 után drasztikusan megváltoznak.",
+              "Ellenőrizze, hogy a kerékpár világítása működik-e a hazaúthoz."
+            ],
+            "ro": [
+              "Îmbrăcămintea în straturi este obligatorie pentru ciclismul de iarnă.",
+              "Beți suficiente lichide; ceaiul cald în termos este de mare ajutor.",
+              "Condițiile de lumină se schimbă dramatic după ora 16:00.",
+              "Asigurați-vă că luminile bicicletei funcționează pentru drumul de întoarcere."
+            ],
+            "en": [
+              "Layered clothing is mandatory for cycling in the winter months.",
+              "Stay hydrated; warm tea in a thermos is very helpful in the cold.",
+              "Light conditions change dramatically after 4:00 PM.",
+              "Ensure your bike lights are functioning for the ride back."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -825,6 +1207,188 @@
           "Plan your drives between clusters to avoid midday traffic.",
           "Some archaeological sites may have unpaved access roads."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Didymoteicho bei Regen bequem zu erkunden. Beginnen Sie in Plotinopolis, wo Sie nah am Eingang parken können. Danach geht es zur Burg, wobei die Auffahrt bei Starkregen Vorsicht erfordert. Die Kirche Agios Athanasios und das Zentrum für das Mittagessen bieten trockene Pausen. Beenden Sie den Tag gemütlich im Volkskundemuseum und an der Bayezid-Moschee.",
+            "hu": "Autóval az esős Didimotiho is kényelmesen felfedezhető. Kezdjen Plotinopolisznál, ahol közel parkolhat a bejárathoz. Ezután hajtson fel a várhoz; a meredek út nagy esőben óvatosságot igényel. Az Ágiosz Atanásziosz-templom és a központi ebéd száraz pihenőt nyújt. Zárja a napot a Néprajzi Múzeumban és a Bayezid-mecsetnél.",
+            "ro": "Cu mașina, Didymoteicho este ușor de explorat pe ploaie. Începeți la Plotinopolis, unde puteți parca aproape de intrare. Urmează castelul, dar urcarea necesită atenție sporită pe ploaie torențială. Biserica Agios Athanasios și prânzul în centru oferă pauze uscate. Încheiați ziua confortabil la Muzeul de Folclor și Moscheea Bayezid.",
+            "en": "By car, Didymoteicho is comfortable to explore even in the rain. Start at Plotinopolis, where you can park near the entrance. Then head to the castle, though the drive up requires caution during heavy rain. The Church of Agios Athanasios and lunch in the center provide dry intervals. End your day comfortably at the Folklore Museum and the Bayezid Mosque."
+          },
+          "stops": [
+            {
+              "name": "Archaeological Site of Plotinopolis",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz direkt am Eingang, um den Weg im Regen zu verkürzen.",
+                "hu": "Használja a közvetlenül a bejáratnál lévő parkolót a gyalogút lerövidítésére.",
+                "ro": "Folosiți parcarea de lângă intrare pentru a scurta drumul prin ploaie.",
+                "en": "Use the parking lot right at the entrance to minimize walking in the rain."
+              }
+            },
+            {
+              "name": "Byzantine Castle & City Walls",
+              "tip_5lang": {
+                "de": "Die schmalen Wege zur Burg können bei Regen rutschig für die Reifen sein.",
+                "hu": "A várba vezető szűk utak esőben csúszósak lehetnek az abroncsoknak.",
+                "ro": "Drumurile înguste spre castel pot fi alunecoase pentru anvelope pe ploaie.",
+                "en": "The narrow paths to the castle can be slippery for tires during rain."
+              }
+            },
+            {
+              "name": "Church of Agios Athanasios",
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe, um schnell ins trockene Innere zu gelangen.",
+                "hu": "Parkoljon a közelben, hogy gyorsan beérjen a száraz belső térbe.",
+                "ro": "Parcați în apropiere pentru a ajunge rapid în interiorul uscat.",
+                "en": "Park nearby to quickly get into the dry interior."
+              }
+            },
+            {
+              "name": "Central Square for Lunch",
+              "tip_5lang": {
+                "de": "Suchen Sie ein Parkhaus oder einen Platz mit direktem Zugang zu den Restaurants.",
+                "hu": "Keressen parkolóhelyet közvetlen eléréssel az éttermekhez.",
+                "ro": "Căutați un loc de parcare cu acces direct la restaurante.",
+                "en": "Look for a parking spot with direct access to the restaurants."
+              }
+            },
+            {
+              "name": "Folklore Museum",
+              "tip_5lang": {
+                "de": "Ein entspannter Nachmittag im Trockenen, während es draußen regnet.",
+                "hu": "Pihentető délután szárazon, amíg odakint esik az eső.",
+                "ro": "O după-amiază relaxantă la uscat în timp ce afară plouă.",
+                "en": "A relaxing afternoon in the dry while it rains outside."
+              }
+            },
+            {
+              "name": "Bayezid Mosque",
+              "tip_5lang": {
+                "de": "Halten Sie kurz an für Fotos, bevor Sie den Wagen wieder besteigen.",
+                "hu": "Álljon meg egy rövid fotóra, mielőtt visszaszállna az autóba.",
+                "ro": "Opriți scurt pentru fotografii înainte de a urca din nou în mașină.",
+                "en": "Stop briefly for photos before getting back into the car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Scheibenwischer; bei starkem Regen ist gute Sicht entscheidend.",
+              "Vermeiden Sie das Parken in tiefen Senken, wo sich Wasser sammeln kann.",
+              "Die Straßen in der Altstadt sind eng; bei Nässe ist doppelte Vorsicht geboten.",
+              "Nutzen Sie die Klimaanlage des Autos, um beschlagene Scheiben zu vermeiden."
+            ],
+            "hu": [
+              "Ellenőrizze az ablaktörlőket; nagy esőben a jó látási viszonyok kulcsfontosságúak.",
+              "Kerülje a mélyebb pontokon való parkolást, ahol összegyűlhet a víz.",
+              "Az óváros utcái szűkek; nedves időben kétszeres óvatosság szükséges.",
+              "Használja az autó klímaberendezését a szélvédő párátlanításához."
+            ],
+            "ro": [
+              "Verificați ștergătoarele; vizibilitatea bună este crucială pe ploaie torențială.",
+              "Evitați parcarea în zonele joase unde se poate acumula apa.",
+              "Străzile din orașul vechi sunt înguste; necesită atenție dublă pe carosabil umed.",
+              "Folosiți aerul condiționat pentru a dezaburi rapid parbrizul."
+            ],
+            "en": [
+              "Check your wipers; good visibility is crucial during heavy rainfall.",
+              "Avoid parking in low-lying areas where water might accumulate.",
+              "The old town streets are narrow; double caution is needed on wet surfaces.",
+              "Use the car's air conditioning to keep the windshield from fogging up."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie das winterliche Didymoteicho gemütlich mit dem Auto. Starten Sie in Plotinopolis, wo der Morgenfrost die antiken Ruinen überzieht. Danach geht es hinauf zur Burg für weite Ausblicke über die frostige Landschaft. Die Kirche und der Marktplatz bieten warme Zwischenstopps. Den Nachmittag verbringen Sie in den geheizten Räumen des Volkskundemuseums und der Bayezid-Moschee.",
+            "hu": "Fedezze fel a téli Didimotihót kényelmesen, autóval. Kezdjen Plotinopolisznál, ahol a reggeli dér befedi az antik romokat. Ezután hajtson fel a várhoz a fagyos tájra nyíló kilátásért. A templom és a piactér meleg megállókat kínál. A délutánt töltse a Néprajzi Múzeum és a Bayezid-mecset fűtött környezetében.",
+            "ro": "Explorați Didymoteicho iarna din confortul mașinii. Începeți la Plotinopolis, unde bruma acoperă ruinele antice. Urcați apoi la castel pentru vederi panoramice peste peisajul înghețat. Biserica și piața oferă opriri călduroase. Petreceți după-amiaza în spațiile încălzite ale Muzeului de Folclor și la Moscheea Bayezid.",
+            "en": "Explore wintery Didymoteicho from the comfort of your car. Start at Plotinopolis, where morning frost coats the ancient ruins. Then drive up to the castle for wide views over the frozen landscape. The church and market square provide warm interludes. Spend the afternoon in the heated spaces of the Folklore Museum and the Bayezid Mosque."
+          },
+          "stops": [
+            {
+              "name": "Archaeological Site of Plotinopolis",
+              "tip_5lang": {
+                "de": "Vorsicht beim Aussteigen; die Parkflächen können am Morgen gefroren sein.",
+                "hu": "Vigyázat a kiszállásnál; a parkolófelületek reggel fagyosak lehetnek.",
+                "ro": "Atenție la coborâre; zonele de parcare pot fi înghețate dimineața.",
+                "en": "Caution when getting out; parking areas can be frozen in the morning."
+              }
+            },
+            {
+              "name": "Byzantine Castle & City Walls",
+              "tip_5lang": {
+                "de": "Die Auffahrt zur Burg ist steil; prüfen Sie den Straßenzustand bei Frost.",
+                "hu": "A várhoz vezető út meredek; fagy esetén ellenőrizze az útviszonyokat.",
+                "ro": "Urcarea spre castel este abruptă; verificați starea drumului în caz de îngheț.",
+                "en": "The drive to the castle is steep; check road conditions in freezing weather."
+              }
+            },
+            {
+              "name": "Church of Agios Athanasios",
+              "tip_5lang": {
+                "de": "Ein warmer Ort für Besinnung abseits der winterlichen Kälte.",
+                "hu": "Meleg hely az elcsendesedéshez a téli hideg elől.",
+                "ro": "Un loc călduros pentru reculegere, departe de frigul iernii.",
+                "en": "A warm place for reflection away from the winter chill."
+              }
+            },
+            {
+              "name": "Central Square for Lunch",
+              "tip_5lang": {
+                "de": "Parken Sie zentral, um die Zeit im kalten Wind zu minimieren.",
+                "hu": "Parkoljon központilag, hogy minimalizálja a hideg szélben töltött időt.",
+                "ro": "Parcați central pentru a minimiza timpul petrecut în vântul rece.",
+                "en": "Park centrally to minimize the time spent in the cold wind."
+              }
+            },
+            {
+              "name": "Folklore Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch als angenehme Aufwärmpause.",
+                "hu": "Használja a múzeumlátogatást kellemes felmelegedési szünetként.",
+                "ro": "Folosiți vizita la muzeu ca o pauză plăcută de încălzire.",
+                "en": "Use the museum visit as a pleasant warm-up break."
+              }
+            },
+            {
+              "name": "Bayezid Mosque",
+              "tip_5lang": {
+                "de": "Bewundern Sie das winterliche Licht auf den alten Steinmauern.",
+                "hu": "Csodálja meg a téli fényeket a régi kőfalakon.",
+                "ro": "Admirați lumina de iarnă pe zidurile vechi de piatră.",
+                "en": "Admire the winter light hitting the old stone walls."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Ihr Frostschutzmittel im Scheibenwasser aufgefüllt ist.",
+              "Winterreifen sind in dieser hügeligen Region bei Frost absolut notwendig.",
+              "Lassen Sie den Wagen nicht zu lange mit feuchten Bremsen stehen.",
+              "Heizen Sie den Innenraum vor, bevor Sie längere Strecken fahren."
+            ],
+            "hu": [
+              "Győződjön meg róla, hogy a szélvédőmosó fagyállóval fel van töltve.",
+              "A téli gumi ezen a dombos vidéken fagy esetén elengedhetetlen.",
+              "Ne hagyja az autót túl sokáig behúzott kézifékkel nagy fagyban.",
+              "Fűtse fel az utasteret, mielőtt hosszabb útra indulna."
+            ],
+            "ro": [
+              "Asigurați-vă că aveți lichid de parbriz rezistent la îngheț.",
+              "Anvelopele de iarnă sunt absolut necesare în această regiune deluroasă.",
+              "Nu lăsați mașina staționată prea mult cu frânele umede în ger.",
+              "Încălziți interiorul mașinii înainte de a porni la drum mai lung."
+            ],
+            "en": [
+              "Make sure your windshield washer fluid is topped up with antifreeze.",
+              "Winter tires are absolutely necessary in this hilly region during frost.",
+              "Don't leave the car sitting too long with wet brakes in freezing weather.",
+              "Pre-heat the car interior before driving longer stretches."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1089,6 +1653,188 @@
           "Ask locals for the correct bus line; signage can be sparse.",
           "Keep an eye on the schedule, especially for the last return trip of the day."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Nutzung öffentlicher Verkehrsmittel in Didymoteicho bei Regen erfordert Planung. Beginnen Sie an der Burg; die Haltestellen bieten oft nur wenig Schutz. Der Halt am Zentralplatz für das Mittagessen ist ein guter Ort, um im Trockenen zu bleiben. Am Nachmittag bieten die Bayezid-Moschee und das Byzantinische Museum ideale Zufluchtsorte, bevor Sie mit dem Bus nach Plotinopolis fahren.",
+            "hu": "A tömegközlekedés Didimotihóban esőben tervezést igényel. Kezdjen a várnál; a megállók gyakran kevés védelmet nyújtanak. A központi buszmegálló az ebédhez jó hely a szárazon maradáshoz. Délután a Bayezid-mecset és a Bizánci Múzeum ideális menedék, mielőtt busszal Plotinopolisz felé venné az irányt.",
+            "ro": "Utilizarea transportului public în Didymoteicho pe ploaie necesită planificare. Începeți la castel; stațiile oferă adesea puțin adăpost. Oprirea din piața centrală pentru prânz este un loc bun pentru a rămâne la uscat. După-amiaza, Moscheea Bayezid și Muzeul Bizantin sunt refugii ideale înainte de a merge spre Plotinopolis.",
+            "en": "Using public transit in Didymoteicho during rain requires some planning. Start at the castle; bus stops often provide limited shelter. The central bus stop for lunch is a good place to stay dry. In the afternoon, the Bayezid Mosque and Byzantine Museum are ideal sanctuaries before taking a bus towards Plotinopolis."
+          },
+          "stops": [
+            {
+              "name": "Byzantine Castle & City Walls",
+              "tip_5lang": {
+                "de": "Warten Sie in der Nähe eines Gebäudes auf den Bus, um nicht nass zu werden.",
+                "hu": "Várja a buszt egy épület közelében, hogy ne ázzon el.",
+                "ro": "Așteptați autobuzul lângă o clădire pentru a nu vă uda.",
+                "en": "Wait for the bus near a building to avoid getting soaked."
+              }
+            },
+            {
+              "name": "Church of Agios Athanasios",
+              "tip_5lang": {
+                "de": "Nutzen Sie den kurzen Fußweg von der Haltestelle zur Kirche.",
+                "hu": "Használja ki a megállótól a templomig tartó rövid gyalogutat.",
+                "ro": "Profitați de drumul scurt pe jos de la stație până la biserică.",
+                "en": "Make the most of the short walk from the stop to the church."
+              }
+            },
+            {
+              "name": "Central Bus Stop for Lunch",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist ein zentraler Knotenpunkt mit vielen Cafés in der Nähe.",
+                "hu": "A megálló központi csomópont, számos kávézóval a közelben.",
+                "ro": "Stația este un nod central, cu multe cafenele în apropiere.",
+                "en": "The stop is a central hub with many cafes nearby for shelter."
+              }
+            },
+            {
+              "name": "Bayezid Mosque",
+              "tip_5lang": {
+                "de": "Ein schneller Sprung vom Bus zum Eingang minimiert den Kontakt mit Regen.",
+                "hu": "Egy gyors ugrás a busztól a bejáratig minimalizálja az esővel való érintkezést.",
+                "ro": "O scurtă fugă de la autobuz la intrare reduce contactul cu ploaia.",
+                "en": "A quick dash from the bus to the entrance minimizes rain exposure."
+              }
+            },
+            {
+              "name": "Byzantine Museum",
+              "tip_5lang": {
+                "de": "Perfekt erreichbar und ein sicherer Ort für verregnete Nachmittage.",
+                "hu": "Könnyen elérhető és biztonságos helyszín az esős délutánokra.",
+                "ro": "Ușor accesibil și un loc sigur pentru după-amiezile ploioase.",
+                "en": "Easily accessible and a safe haven for rainy afternoons."
+              }
+            },
+            {
+              "name": "Archaeological Site of Plotinopolis",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Rückfahrzeiten genau, um nicht im Regen zu warten.",
+                "hu": "Ellenőrizze pontosan a visszautat, hogy ne kelljen az esőben várakoznia.",
+                "ro": "Verificați bine orele de retur pentru a nu aștepta în ploaie.",
+                "en": "Check return times carefully to avoid waiting in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Haben Sie immer einen stabilen Regenschirm für die Wege zwischen den Haltestellen dabei.",
+              "Die Busfrequenzen können bei schlechtem Wetter variieren.",
+              "Nutzen Sie lokale Apps oder Fahrpläne, um Wartezeiten im Freien zu verkürzen.",
+              "Tragen Sie Kleidung, die auch bei hoher Luftfeuchtigkeit schnell trocknet."
+            ],
+            "hu": [
+              "Mindig legyen kéznél egy erős esernyő a megállók közötti utakhoz.",
+              "A buszjáratok sűrűsége rossz időben változhat.",
+              "Használjon helyi menetrendet a szabadtéri várakozási idő csökkentésére.",
+              "Viseljen olyan ruházatot, amely magas páratartalom mellett is gyorsan szárad."
+            ],
+            "ro": [
+              "Aveți mereu o umbrelă rezistentă pentru drumurile dintre stații.",
+              "Frecvența autobuzelor poate varia în funcție de vremea rea.",
+              "Folosiți orarele locale pentru a reduce timpul de așteptare afară.",
+              "Purtați haine care se usucă repede chiar și la umiditate ridicată."
+            ],
+            "en": [
+              "Always have a sturdy umbrella for the walks between stops.",
+              "Bus frequencies may vary during poor weather conditions.",
+              "Use local schedules to minimize time spent waiting outdoors.",
+              "Wear clothing that dries quickly even in high humidity."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine Wintertour mit dem Bus durch Didymoteicho bietet Schutz vor dem kalten Wind. Beginnen Sie an der Burg für das klare Morgenlicht. Die Kirche und die Haltestelle am Zentralplatz sind gute Orte, um kurz innezuhalten. Am Nachmittag locken die Wärme der Bayezid-Moschee und des Byzantinischen Museums. Planen Sie den Besuch in Plotinopolis vor Sonnenuntergang um 17:00 Uhr ein.",
+            "hu": "A téli buszos túra Didimotihóban védelmet nyújt a hideg szél ellen. Kezdjen a várnál a tiszta reggeli fényekért. A templom és a központi megálló jó helyek egy rövid pihenőhöz. Délután a Bayezid-mecset és a Bizánci Múzeum melege hívogat. A Plotinopolisz-látogatást tervezze a 17:00 órai napnyugta előttre.",
+            "ro": "O tură cu autobuzul prin Didymoteicho iarna oferă protecție împotriva vântului rece. Începeți la castel pentru lumina clară a dimineții. Biserica și stația centrală sunt locuri bune pentru o scurtă pauză. După-amiaza, căldura Moscheii Bayezid și a Muzeului Bizantin este binevenită. Planificați vizita la Plotinopolis înainte de apusul de la ora 17:00.",
+            "en": "A winter bus tour through Didymoteicho provides shelter from the biting wind. Start at the castle for the crisp morning light. The church and the central bus stop are good spots for a brief pause. In the afternoon, the warmth of the Bayezid Mosque and Byzantine Museum is inviting. Plan your Plotinopolis visit before the 5:00 PM sunset."
+          },
+          "stops": [
+            {
+              "name": "Byzantine Castle & City Walls",
+              "tip_5lang": {
+                "de": "Die Haltestellen auf dem Hügel können im Winter sehr zugig sein.",
+                "hu": "A dombtetőn lévő megállók télen nagyon huzatosak lehetnek.",
+                "ro": "Stațiile de pe deal pot fi foarte vântoase în timpul iernii.",
+                "en": "The bus stops on the hill can be very drafty in winter."
+              }
+            },
+            {
+              "name": "Church of Agios Athanasios",
+              "tip_5lang": {
+                "de": "Ein friedlicher, warmer Ort, um auf den nächsten Bus zu warten.",
+                "hu": "Békés, meleg hely a következő buszra való várakozáshoz.",
+                "ro": "Un loc liniștit și călduros pentru a aștepta următorul autobuz.",
+                "en": "A peaceful, warm place to wait for your next bus connection."
+              }
+            },
+            {
+              "name": "Central Bus Stop for Lunch",
+              "tip_5lang": {
+                "de": "Nutzen Sie die beheizten Cafés direkt an der Haltestelle.",
+                "hu": "Használja ki a közvetlenül a megálló mellett található fűtött kávézókat.",
+                "ro": "Profitați de cafenelele încălzite aflate chiar lângă stație.",
+                "en": "Take advantage of the heated cafes located right by the stop."
+              }
+            },
+            {
+              "name": "Bayezid Mosque",
+              "tip_5lang": {
+                "de": "Die massiven Mauern halten die Kälte draußen; ein angenehmer Aufenthalt.",
+                "hu": "A masszív falak kint tartják a hideget; kellemes tartózkodási hely.",
+                "ro": "Zidurile masive țin frigul afară; o oprire plăcută.",
+                "en": "The massive walls keep the cold out; a pleasant place to visit."
+              }
+            },
+            {
+              "name": "Byzantine Museum",
+              "tip_5lang": {
+                "de": "Der ideale Ort, um sich vor der Weiterfahrt gründlich aufzuwärmen.",
+                "hu": "Ideális helyszín az alapos felmelegedéshez a továbbút előtt.",
+                "ro": "Locul ideal pentru a vă încălzi bine înainte de a continua drumul.",
+                "en": "The ideal spot to warm up thoroughly before moving on."
+              }
+            },
+            {
+              "name": "Archaeological Site of Plotinopolis",
+              "tip_5lang": {
+                "de": "Achten Sie auf den letzten Bus vor der Dunkelheit.",
+                "hu": "Figyeljen az utolsó buszra a sötétedés beállta előtt.",
+                "ro": "Atenție la ultimul autobuz înainte de lăsarea întunericului.",
+                "en": "Keep an eye on the last bus schedule before darkness falls."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Halten Sie sich in den Haltestellenhäuschen auf, um den Wind zu meiden.",
+              "Busse können im Winter aufgrund von Straßenbedingungen leichte Verspätungen haben.",
+              "Warme Getränke in Thermosbechern sind ideal für die Wartezeit.",
+              "Planen Sie Ihre Route so, dass Sie die kältesten Stunden in Museen verbringen."
+            ],
+            "hu": [
+              "Tartózkodjon a várótermekben vagy bódékban a szél elkerülése érdekében.",
+              "A buszok télen az útviszonyok miatt kisebb késéssel közlekedhetnek.",
+              "A termoszos meleg italok ideálisak a várakozási időhöz.",
+              "Úgy tervezze az útját, hogy a leghidegebb órákat múzeumokban töltse."
+            ],
+            "ro": [
+              "Stați în adăposturile stațiilor pentru a evita vântul tăios.",
+              "Autobuzele pot avea mici întârzieri iarna din cauza condițiilor rutiere.",
+              "Băuturile calde în termos sunt ideale pentru timpul de așteptare.",
+              "Planificați ruta astfel încât să petreceți cele mai reci ore în muzee."
+            ],
+            "en": [
+              "Stay inside bus shelters to avoid the biting winter wind.",
+              "Buses may experience slight delays in winter due to road conditions.",
+              "Warm drinks in travel mugs are ideal for wait times at stops.",
+              "Plan your route to spend the coldest hours inside the museums."
+            ]
+          }
+        }
       }
     }
   }

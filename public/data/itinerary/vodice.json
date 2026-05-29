@@ -256,6 +256,206 @@
           "Visit the aquarium especially on hot afternoons.",
           "Most restaurants accept credit cards."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "en": "Morning: Start your rainy day at the Parish Church of the Holy Cross, where the baroque interior provides a dry and peaceful refuge. The rain adds a mystic atmosphere to the ancient stone walls.\n\nNoon: Pass by the Ćorić Tower and the Roman Cistern. The wet limestone of the old town shines beautifully, but watch your step on the slick surfaces. Take cover in the Old Church of the Holy Cross.\n\nAfternoon: Take a brisk walk along the waterfront promenade. The Adriatic Sea turns a deep grey-blue under the rain, and the salt air is particularly fresh and invigorating.\n\nEvening: Head to the Aquarium & Museum to spend a dry hour exploring marine life. End the day at Plava Plaža, watching the rain dance on the sea surface from a beachside cafe.",
+            "hu": "Reggel: Kezdje az esős napot a Szent Kereszt plébániatemplomban, ahol a barokk belső tér száraz és békés menedéket nyújt. Az eső misztikus hangulatot kölcsönöz az ősi kőfalaknak.\n\nDélben: Haladjon el a Ćorić-torony és a római ciszterna mellett. Az óváros vizes mészkőfalai gyönyörűen csillognak, de vigyázzon a csúszós felületekre. Keressen menedéket a Szent Kereszt régi templomában.\n\nDélután: Tegyen egy frissítő sétát a tengerparti sétányon. Az Adriai-tenger mély szürkéskékké válik az esőben, a sós levegő pedig különösen friss és élénkítő.\n\nEste: Irány az Akvárium és Múzeum, ahol egy száraz órát tölthet el a tengeri élővilág felfedezésével. Zárja a napot a Plava Plažán, egy vízparti kávézóból figyelve a tengerre hulló esőcseppeket.",
+            "de": "Morgens: Beginnen Sie Ihren Regentag in der Pfarrkirche zum Heiligen Kreuz, wo das barocke Interieur einen trockenen und friedlichen Zufluchtsort bietet. Der Regen verleiht den alten Steinmauern eine mystische Atmosphäre.\n\nMittags: Vorbei am Ćorić-Turm und der römischen Zisterne. Der nasse Kalkstein der Altstadt glänzt wunderschön, aber achten Sie auf den rutschigen Untergrund. Suchen Sie Schutz in der alten Kirche zum Heiligen Kreuz.\n\nNachmittags: Ein kurzer Spaziergang entlang der Uferpromenade. Die Adria färbt sich im Regen tiefgrau-blau und die salzige Luft ist besonders frisch und belebend.\n\nAbends: Besuchen Sie das Aquarium & Museum, um eine trockene Stunde mit der Erkundung des Meereslebens zu verbringen. Beenden Sie den Tag am Plava Plaža und beobachten Sie den Regen auf dem Meer von einem Café aus.",
+            "ro": "Dimineața: Începeți ziua ploioasă la Biserica Parohială a Sfintei Cruci, unde interiorul baroc oferă un refugiu uscat și liniștit. Ploaia adaugă o atmosferă mistică zidurilor vechi de piatră.\n\nLa prânz: Treceți pe lângă Turnul Ćorić și Cisterna Romană. Calcarul umed al orașului vechi strălucește frumos, dar aveți grijă la suprafețele alunecoase. Adăpostiți-vă în Vechea Biserică a Sfintei Cruci.\n\nDupă-amiaza: O plimbare revigorantă de-a lungul promenadei de pe malul mării. Marea Adriatică devine un albastru-gri intens sub ploaie, iar aerul sărat este deosebit de proaspăt.\n\nSeara: Mergeți la Acvariu și Muzeu pentru a petrece o oră la adăpost explorând viața marină. Încheiați ziua la Plava Plaža, privind ploaia pe mare de la o cafenea de pe plajă."
+          },
+          "stops": [
+            {
+              "name": "Parish Church of the Holy Cross",
+              "tip_5lang": {
+                "en": "Perfect indoor start.",
+                "hu": "Tökéletes fedett kezdés.",
+                "de": "Idealer trockener Start.",
+                "ro": "Început perfect la interior."
+              }
+            },
+            {
+              "name": "Ćorić Tower",
+              "tip_5lang": {
+                "en": "Watch the slippery steps.",
+                "hu": "Vigyázz a csúszós lépcsőkre.",
+                "de": "Vorsicht auf den Stufen.",
+                "ro": "Atenție la treptele alunecoase."
+              }
+            },
+            {
+              "name": "Roman Cistern",
+              "tip_5lang": {
+                "en": "Use an umbrella here.",
+                "hu": "Itt használj esernyőt.",
+                "de": "Nutzen Sie hier einen Schirm.",
+                "ro": "Folosiți umbrela aici."
+              }
+            },
+            {
+              "name": "Old Church of the Holy Cross",
+              "tip_5lang": {
+                "en": "Quiet refuge from rain.",
+                "hu": "Csendes menedék az eső elől.",
+                "de": "Ruhiger Zufluchtsort.",
+                "ro": "Refugiu liniștit contra ploii."
+              }
+            },
+            {
+              "name": "Vodice Waterfront Promenade",
+              "tip_5lang": {
+                "en": "Sea spray might join rain.",
+                "hu": "A tenger permete is elérhet.",
+                "de": "Meeresgischt möglich.",
+                "ro": "Posibil aerosoli marini."
+              }
+            },
+            {
+              "name": "Aquarium & Museum",
+              "tip_5lang": {
+                "en": "Stay dry while learning.",
+                "hu": "Tanulj szárazon maradva.",
+                "de": "Trocken bleiben und lernen.",
+                "ro": "Rămâneți uscat explorând."
+              }
+            },
+            {
+              "name": "Plava Plaža Beach",
+              "tip_5lang": {
+                "en": "View waves from a cafe.",
+                "hu": "Nézd a hullámokat a büféből.",
+                "de": "Wellen vom Café aus sehen.",
+                "ro": "Priviți valurile din cafenea."
+              }
+            }
+          ],
+          "tips": {
+            "en": [
+              "Use the narrow stone alleys for wind protection.",
+              "The tiles in the old town become very slippery when wet.",
+              "Keep a compact umbrella handy for the promenade section.",
+              "The museum is a great mid-day dry spot."
+            ],
+            "hu": [
+              "Használja a szűk kőutcákat a szél elleni védelemhez.",
+              "Az óváros kövei vizesen nagyon csúszósak.",
+              "Legyen kéznél egy összecsukható esernyő a sétányhoz.",
+              "A múzeum kiváló helyszín a napközbeni szárítkozáshoz."
+            ],
+            "de": [
+              "Nutzen Sie die engen Steingassen als Windschutz.",
+              "Die Fliesen in der Altstadt werden bei Nässe sehr rutschig.",
+              "Halten Sie einen kompakten Regenschirm für die Promenade bereit.",
+              "Das Museum ist ein idealer Ort zum Aufwärmen."
+            ],
+            "ro": [
+              "Folosiți aleile înguste de piatră pentru protecție împotriva vântului.",
+              "Dalele din orașul vechi devin foarte alunecoase când sunt ude.",
+              "Aveți la îndemână o umbrelă compactă pentru promenadă.",
+              "Muzeul este un loc excelent pentru a sta la uscat."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "en": "Morning: The crisp winter air greets you at the Parish Church. The town is quiet and peaceful, away from the summer crowds, allowing for a contemplative visit.\n\nNoon: Explore the Ćorić Tower and the Roman Cistern. The low winter sun casts long, beautiful shadows on the stone walls, creating high-contrast photo opportunities.\n\nAfternoon: Walk the promenade. If the Bura wind blows, the air is incredibly clear, offering views all the way to the distant islands.\n\nEvening: Warm up in the Aquarium & Museum. End the day at Plava Plaža, catching the early winter sunset over the calm horizon around 16:30.",
+            "hu": "Reggel: A friss téli levegő fogadja a plébániatemplomnál. A város csendes és békés, távol a nyári tömegtől, ami lehetővé teszi az elmélyült látogatást.\n\nDélben: Fedezze fel a Ćorić-toronyt és a római ciszternát. Az alacsony téli nap hosszú, gyönyörű árnyékokat vet a kőfalakra, kiváló fotótémát nyújtva.\n\nDélután: Sétáljon a sétányon. Ha fúj a bóra, a levegő hihetetlenül tiszta, és egészen a távoli szigetekig ellátni.\n\nEste: Melegedjen fel az Akvárium és Múzeumban. Zárja a napot a Plava Plažán, elcsípve a korai téli naplementét a nyugodt horizont felett 16:30 körül.",
+            "de": "Morgens: Die frische Winterluft begrüßt Sie an der Pfarrkirche. Die Stadt ist ruhig und friedlich, fernab der Sommermassen, was einen besinnlichen Besuch ermöglicht.\n\nMittags: Erkunden Sie den Ćorić-Turm und die römische Zisterne. Die tiefe Wintersonne wirft lange, schöne Schatten auf die Steinmauern.\n\nNachmittags: Spaziergang auf der Promenade. Wenn der Bura-Wind weht, ist die Luft unglaublich klar und bietet Sicht bis zu den fernen Inseln.\n\nAbends: Aufwärmen im Aquarium & Museum. Beenden Sie den Tag am Plava Plaža und erleben Sie den frühen Wintersonnenuntergang gegen 16:30 Uhr.",
+            "ro": "Dimineața: Aerul proaspăt de iarnă vă întâmpină la Biserica Parohială. Orașul este liniștit și pașnic, departe de mulțimile de vară, permițând o vizită contemplativă.\n\nLa prânz: Explorați Turnul Ćorić și Cisterna Romană. Soarele jos de iarnă aruncă umbre lungi și frumoase pe zidurile de piatră.\n\nDupă-amiaza: Plimbați-vă pe promenadă. Dacă bate vântul Bura, aerul este incredibil de clar, oferind priveliști până la insulele îndepărtate.\n\nSeara: Încălziți-vă la Acvariu și Muzeu. Încheiați ziua la Plava Plaža, prinzând apusul timpuriu de iarnă peste orizontul calm în jurul orei 16:30."
+          },
+          "stops": [
+            {
+              "name": "Parish Church of the Holy Cross",
+              "tip_5lang": {
+                "en": "Interior is peacefully cool.",
+                "hu": "A belső tér kellemesen hűvös.",
+                "de": "Innen angenehm kühl.",
+                "ro": "Interiorul este răcoros."
+              }
+            },
+            {
+              "name": "Ćorić Tower",
+              "tip_5lang": {
+                "en": "Cold stone, great photos.",
+                "hu": "Hideg kövek, jó fotók.",
+                "de": "Kalter Stein, tolle Fotos.",
+                "ro": "Piatră rece, poze reușite."
+              }
+            },
+            {
+              "name": "Roman Cistern",
+              "tip_5lang": {
+                "en": "Quick historical stop.",
+                "hu": "Gyors történelmi megálló.",
+                "de": "Kurzer historischer Stopp.",
+                "ro": "Oprire istorică scurtă."
+              }
+            },
+            {
+              "name": "Old Church of the Holy Cross",
+              "tip_5lang": {
+                "en": "Calm atmosphere.",
+                "hu": "Nyugodt légkör.",
+                "de": "Ruhige Atmosphäre.",
+                "ro": "Atmosferă calmă."
+              }
+            },
+            {
+              "name": "Vodice Waterfront Promenade",
+              "tip_5lang": {
+                "en": "Crisp air, blue horizon.",
+                "hu": "Friss levegő, kék látóhatár.",
+                "de": "Klare Luft, blauer Horizont.",
+                "ro": "Aer curat, orizont albastru."
+              }
+            },
+            {
+              "name": "Aquarium & Museum",
+              "tip_5lang": {
+                "en": "Warm indoor break.",
+                "hu": "Meleg beltéri pihenő.",
+                "de": "Warme Pause im Inneren.",
+                "ro": "Pauză caldă la interior."
+              }
+            },
+            {
+              "name": "Plava Plaža Beach",
+              "tip_5lang": {
+                "en": "Beautiful early sunset.",
+                "hu": "Györnyörű korai naplemente.",
+                "de": "Schöner früher Sonnenuntergang.",
+                "ro": "Apus superb de timpuriu."
+              }
+            }
+          ],
+          "tips": {
+            "en": [
+              "Dress in layers as the Bura wind is very cold.",
+              "Sunset is early, around 16:30.",
+              "Start your walk by 09:00 to maximize daylight.",
+              "Many seaside cafes remain open for a coffee break."
+            ],
+            "hu": [
+              "Öltözzön rétegesen, mert a bóra szél nagyon hideg.",
+              "A nap korán, 16:30 körül nyugszik.",
+              "Induljon 09:00-kor, hogy kihasználja a nappali fényt.",
+              "Sok tengerparti kávézó nyitva tart egy kávészünetre."
+            ],
+            "de": [
+              "Kleiden Sie sich in Schichten, da der Bura-Wind sehr kalt ist.",
+              "Der Sonnenuntergang ist früh, gegen 16:30 Uhr.",
+              "Starten Sie um 09:00 Uhr, um das Tageslicht zu nutzen.",
+              "Viele Cafés am Meer sind für eine Pause geöffnet."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi, deoarece vântul Bura este foarte rece.",
+              "Apusul este devreme, în jur de 16:30.",
+              "Începeți plimbarea la 09:00 pentru a profita de lumină.",
+              "Multe cafenele de pe malul mării rămân deschise."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -488,6 +688,170 @@
           "Okit Hill offers a great view of the Kornati islands.",
           "Check your tire pressure before starting the tour."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "en": "Morning: Start at the Waterfront Promenade, but be extremely careful with the slick stone tiles. The sea air is refreshing despite the drizzle.\n\nNoon: Ride to Plava Plaža Beach. The path is quiet, and the rhythmic sound of rain on the water is meditative.\n\nAfternoon: Challenge yourself with the climb to Okit Hill. The road might be slippery, so maintain a steady pace and watch for runoff.\n\nEvening: Return to the town center for the Ćorić Tower and Parish Church. The lights of Vodice reflect beautifully on the wet pavement.",
+            "hu": "Reggel: Kezdjen a tengerparti sétányon, de legyen rendkívül óvatos a csúszós kőlapokkal. A tengeri levegő frissítő a szemerkélő eső ellenére is.\n\nDélben: Tekerjen el a Plava Plaža strandra. Az út csendes, a vízre hulló eső ritmikus kopogása pedig meditatív.\n\nDélután: Próbálja ki az Okit-hegyi emelkedőt. Az út csúszós lehet, ezért tartson egyenletes tempót és figyeljen a lefolyó vízre.\n\nEste: Térjen vissza a városközpontba a Ćorić-toronyhoz és a plébániatemplomhoz. Vodice fényei gyönyörűen tükröződnek a vizes aszfalton.",
+            "de": "Morgens: Start an der Uferpromenade, aber seien Sie extrem vorsichtig mit den glatten Steinfliesen. Die Seeluft ist trotz des Nieselregens erfrischend.\n\nMittags: Fahrt zum Strand Plava Plaža. Der Weg ist ruhig und das rhythmische Geräusch des Regens auf dem Wasser ist meditativ.\n\nNachmittags: Fordern Sie sich mit dem Aufstieg zum Okit-Hügel heraus. Die Straße könnte rutschig sein, also halten Sie ein gleichmäßiges Tempo.\n\nAbends: Rückkehr ins Stadtzentrum zum Ćorić-Turm und zur Pfarrkirche. Die Lichter von Vodice spiegeln sich wunderschön auf dem nassen Pflaster.",
+            "ro": "Dimineața: Începeți pe Promenada de pe malul mării, dar fiți extrem de atenți la dalele de piatră alunecoase. Aerul mării este revigorant în ciuda burniței.\n\nLa prânz: Mergeți cu bicicleta la Plaja Plava Plaža. Drumul este liniștit, iar sunetul ploii pe apă este meditativ.\n\nDupă-amiaza: Acceptați provocarea urcării pe Dealul Okit. Drumul poate fi alunecos, așa că mențineți un ritm constant.\n\nSeara: Reveniți în centrul orașului pentru Turnul Ćorić și Biserica Parohială. Luminile orașului se reflectă frumos pe pavajul umed."
+          },
+          "stops": [
+            {
+              "name": "Vodice Waterfront Promenade",
+              "tip_5lang": {
+                "en": "Tiles are very slippery.",
+                "hu": "A kövek nagyon csúsznak.",
+                "de": "Fliesen sind sehr rutschig.",
+                "ro": "Dalele sunt foarte alunecoase."
+              }
+            },
+            {
+              "name": "Plava Plaža Beach",
+              "tip_5lang": {
+                "en": "Path may have puddles.",
+                "hu": "Az úton tócsák lehetnek.",
+                "de": "Pfützen auf dem Weg möglich.",
+                "ro": "Posibile bălți pe drum."
+              }
+            },
+            {
+              "name": "Okit Hill",
+              "tip_5lang": {
+                "en": "Watch the wet descent.",
+                "hu": "Vigyázz a vizes lejtőn.",
+                "de": "Vorsicht bei der Abfahrt.",
+                "ro": "Atenție la coborârea umedă."
+              }
+            },
+            {
+              "name": "Ćorić Tower",
+              "tip_5lang": {
+                "en": "Shelter under the arch.",
+                "hu": "Menedék az ív alatt.",
+                "de": "Schutz unter dem Bogen.",
+                "ro": "Adăpost sub boltă."
+              }
+            },
+            {
+              "name": "Parish Church of the Holy Cross",
+              "tip_5lang": {
+                "en": "Bike parking is nearby.",
+                "hu": "Kerékpártároló a közelben.",
+                "de": "Radparkplätze in der Nähe.",
+                "ro": "Parcare biciclete aproape."
+              }
+            }
+          ],
+          "tips": {
+            "en": [
+              "Lower tire pressure slightly for better grip.",
+              "Avoid braking on painted road markings.",
+              "Wear high-visibility waterproof gear.",
+              "Check your brakes before starting."
+            ],
+            "hu": [
+              "Csökkentse kicsit a guminyomást a jobb tapadásért.",
+              "Kerülje a fékezést az útburkolati jeleken.",
+              "Viseljen jól látható esőfelszerelést.",
+              "Indulás előtt ellenőrizze a fékeket."
+            ],
+            "de": [
+              "Reifendruck für besseren Grip leicht senken.",
+              "Vermeiden Sie das Bremsen auf Markierungen.",
+              "Tragen Sie gut sichtbare Regenkleidung.",
+              "Bremsen vor dem Start prüfen."
+            ],
+            "ro": [
+              "Reduceți puțin presiunea în pneuri pentru aderență.",
+              "Evitați frânarea pe marcajele rutiere.",
+              "Purtați echipament reflectorizant impermeabil.",
+              "Verificați frânele înainte de pornire."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "en": "Morning: A cold ride along the Waterfront Promenade. The winter wind is sharp, but the visibility across the Adriatic is spectacular.\n\nNoon: Cycle to Plava Plaža Beach. The area is peaceful and empty, perfect for enjoying the raw beauty of the Dalmatian coast in winter.\n\nAfternoon: The climb to Okit Hill will warm you up. From the top, enjoy panoramic views of the snowy mountains in the distance and the crystal clear sea.\n\nEvening: Visit the Ćorić Tower and Parish Church as the winter dusk settles. The historic center feels cozy with its warm streetlights.",
+            "hu": "Reggel: Hideg tekerés a tengerparti sétányon. A téli szél éles, de a kilátás az Adrián keresztül lenyűgöző.\n\nDélben: Biciklizzen el a Plava Plaža strandra. A környék csendes és üres, tökéletes a dalmát partvidék nyers téli szépségének élvezetéhez.\n\nDélután: Az Okit-hegyi emelkedő felmelegíti. A csúcsról panorámás kilátás nyílik a távoli havas hegyekre és a kristálytiszta tengerre.\n\nEste: Látogasson el a Ćorić-toronyhoz és a plébániatemplomhoz, ahogy leszáll a téli szürkület. A történelmi központ otthonos a meleg utcai fényekkel.",
+            "de": "Morgens: Eine kalte Fahrt entlang der Uferpromenade. Der Winterwind ist scharf, aber die Sicht über die Adria ist spektakulär.\n\nMittags: Radeln Sie zum Strand Plava Plaža. Die Gegend ist friedlich und leer, ideal, um die Schönheit der Küste im Winter zu genießen.\n\nNachmittags: Der Aufstieg zum Okit-Hügel wird Sie aufwärmen. Genießen Sie den Panoramablick auf die fernen Berge und das klare Meer.\n\nAbends: Besuch des Ćorić-Turms und der Pfarrkirche in der Winterdämmerung. Das historische Zentrum wirkt mit dem warmen Licht gemütlich.",
+            "ro": "Dimineața: O tură rece de-a lungul Promenadei. Vântul de iarnă este tăios, dar vizibilitatea peste Adriatică este spectaculoasă.\n\nLa prânz: Mergeți cu bicicleta la Plaja Plava Plaža. Zona este liniștită și goală, perfectă pentru a savura frumusețea coastei dalmate iarna.\n\nDupă-amiaza: Urcarea pe Dealul Okit vă va încălzi. De sus, savurați priveliștea panoramică spre munții înzăpeziți și marea cristalină.\n\nSeara: Vizitați Turnul Ćorić și Biserica Parohială pe măsură ce se lasă amurgul de iarnă. Centrul istoric este primitor cu luminile sale calde."
+          },
+          "stops": [
+            {
+              "name": "Vodice Waterfront Promenade",
+              "tip_5lang": {
+                "en": "Strong headwind likely.",
+                "hu": "Erős szembeszél várható.",
+                "de": "Starker Gegenwind möglich.",
+                "ro": "Probabil vânt puternic din față."
+              }
+            },
+            {
+              "name": "Plava Plaža Beach",
+              "tip_5lang": {
+                "en": "Deserted winter beauty.",
+                "hu": "Eltűnt nyári tömeg.",
+                "de": "Verlassene Winter-Schönheit.",
+                "ro": "Frumusețe pustie de iarnă."
+              }
+            },
+            {
+              "name": "Okit Hill",
+              "tip_5lang": {
+                "en": "Panoramic winter views.",
+                "hu": "Panorámás téli kilátás.",
+                "de": "Panorama-Winterblick.",
+                "ro": "Priveliști panoramice de iarnă."
+              }
+            },
+            {
+              "name": "Ćorić Tower",
+              "tip_5lang": {
+                "en": "Quick photo stop.",
+                "hu": "Gyors fotómegálló.",
+                "de": "Kurzer Fotostopp.",
+                "ro": "Oprire scurtă pentru poze."
+              }
+            },
+            {
+              "name": "Parish Church of the Holy Cross",
+              "tip_5lang": {
+                "en": "Final chilly stretch.",
+                "hu": "Utolsó hideg szakasz.",
+                "de": "Letzte kühle Etappe.",
+                "ro": "Ultima etapă răcoroasă."
+              }
+            }
+          ],
+          "tips": {
+            "en": [
+              "Wear windproof gloves and thermal layers.",
+              "Lights are essential as it gets dark early.",
+              "The Okit climb provides natural warmth.",
+              "Keep your head and ears covered."
+            ],
+            "hu": [
+              "Viseljen szélálló kesztyűt és aláöltözőt.",
+              "A lámpa kötelező, mert korán sötétedik.",
+              "Az Okit emelkedő természetes meleget ad.",
+              "Tartsa fedve a fejét és a füleit."
+            ],
+            "de": [
+              "Winddichte Handschuhe und Thermokleidung tragen.",
+              "Licht ist wichtig, da es früh dunkel wird.",
+              "Der Okit-Aufstieg spendet natürliche Wärme.",
+              "Kopf und Ohren bedeckt halten."
+            ],
+            "ro": [
+              "Purtați mănuși rezistente la vânt și haine termice.",
+              "Luminile sunt esențiale, se întunecă devreme.",
+              "Urcarea pe Okit oferă căldură naturală.",
+              "Țineți capul și urechile acoperite."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -738,6 +1102,170 @@
           "Watch out for the very narrow streets in the old town area.",
           "Book boat tours to Kornati National Park directly at the harbor."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "en": "Morning: Drive up Okit Hill. Chiar și pe ploaie, priveliștea arhipelagului este dramatică, cu nori joși peste insule.\n\nNoon: Return to the center to visit the Parish Church and Ćorić Tower. Park nearby and enjoy the short walks between these historic sites.\n\nAfternoon: Spend a dry afternoon at the Aquarium & Museum. It's the best way to avoid the heaviest rain while still exploring Vodice's culture.\n\nEvening: Finish with a slow drive along the Waterfront Promenade, watching the waves from the comfort of your car.",
+            "hu": "Reggel: Autózzon fel az Okit-hegyre. Az esőben is drámai a kilátás a környező szigetvilágra, a felhők alacsonyan szállnak a szigetek felett.\n\nDélben: Térjen vissza a központba a plébániatemplomhoz és a Ćorić-toronyhoz. Parkoljon a közelben, és élvezze a rövid sétákat a történelmi helyszínek között.\n\nDélután: Töltsön el egy száraz délutánt az Akváriumban és Múzeumban. Ez a legjobb módja a szakadó eső elkerülésének.\n\nEste: Fejezze be a napot egy lassú kocsikázással a tengerparti sétányon, az autó kényelméből figyelve a hullámokat.",
+            "de": "Morgens: Fahrt auf den Okit-Hügel. Auch im Regen ist die Aussicht dramatisch, wenn die Wolken tief über den Inseln hängen.\n\nMittags: Rückkehr ins Zentrum zur Pfarrkirche und zum Ćorić-Turm. Parken Sie in der Nähe für kurze Wege zwischen den Sehenswürdigkeiten.\n\nNachmittags: Verbringen Sie einen trockenen Nachmittag im Aquarium & Museum. Der beste Weg, dem Regen zu entgehen.\n\nAbends: Fahrt entlang der Uferpromenade und Beobachtung der Wellen aus dem komfortablen Auto.",
+            "ro": "Dimineața: Conduceți până pe Dealul Okit. Chiar și pe ploaie, priveliștea arhipelagului este dramatică, cu nori joși peste insule.\n\nLa prânz: Reveniți în centru pentru Biserica Parohială și Turnul Ćorić. Parcați în apropiere pentru plimbări scurte între situri.\n\nDupă-amiaza: Petreceți o după-amiază la adăpost la Acvariu și Muzeu. Este cea mai bună metodă de a evita ploaia torențială.\n\nSeara: Încheiați cu o plimbare lentă cu mașina pe malul mării, privind valurile din confortul vehiculului."
+          },
+          "stops": [
+            {
+              "name": "Okit Hill",
+              "tip_5lang": {
+                "en": "View might be obscured.",
+                "hu": "A kilátás korlátozott lehet.",
+                "de": "Sicht könnte getrübt sein.",
+                "ro": "Vizibilitatea poate fi redusă."
+              }
+            },
+            {
+              "name": "Parish Church of the Holy Cross",
+              "tip_5lang": {
+                "en": "Park in the side street.",
+                "hu": "Parkolj a mellékutcában.",
+                "de": "Parken in der Seitenstraße.",
+                "ro": "Parcați pe strada laterală."
+              }
+            },
+            {
+              "name": "Ćorić Tower",
+              "tip_5lang": {
+                "en": "Quick walk from parking.",
+                "hu": "Rövid séta a parkolótól.",
+                "de": "Kurzer Weg vom Parkplatz.",
+                "ro": "Scurtă plimbare de la parcare."
+              }
+            },
+            {
+              "name": "Aquarium & Museum",
+              "tip_5lang": {
+                "en": "Harbor parking is close.",
+                "hu": "A kikötői parkoló közel van.",
+                "de": "Hafenparkplatz ist nah.",
+                "ro": "Parcarea din port e aproape."
+              }
+            },
+            {
+              "name": "Vodice Waterfront Promenade",
+              "tip_5lang": {
+                "en": "Scenic coastal drive.",
+                "hu": "Látványos parti autózás.",
+                "de": "Panoramafahrt an der Küste.",
+                "ro": "Drum pitoresc de coastă."
+              }
+            }
+          ],
+          "tips": {
+            "en": [
+              "Use the large parking lot by the bus station.",
+              "Headlights on for better visibility in rain.",
+              "The road to Okit is narrow; drive carefully.",
+              "Many central streets are pedestrian-only."
+            ],
+            "hu": [
+              "Használja a buszpályaudvar melletti nagy parkolót.",
+              "Kapcsolja fel a fényszórókat a jobb láthatóságért.",
+              "Az Okit felé vezető út szűk; vezessen óvatosan.",
+              "Sok központi utca csak gyalogosoké."
+            ],
+            "de": [
+              "Großer Parkplatz am Busbahnhof nutzen.",
+              "Scheinwerfer für bessere Sicht einschalten.",
+              "Die Straße nach Okit ist eng; vorsichtig fahren.",
+              "Viele Straßen im Zentrum sind Fußgängerzonen."
+            ],
+            "ro": [
+              "Folosiți parcarea mare de lângă autogară.",
+              "Farurile aprinse pentru vizibilitate sporită.",
+              "Drumul spre Okit este îngust; conduceți prudent.",
+              "Multe străzi centrale sunt pietonale."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "en": "Morning: Start with the drive to Okit Hill. The winter air is exceptionally clear, providing the sharpest views of the islands and the hinterland.\n\nNoon: Visit the Parish Church and Ćorić Tower. With fewer tourists, parking is easier and you can enjoy the historic center at a slower pace.\n\nAfternoon: Enjoy the warmth and fascinating exhibits of the Aquarium & Museum. It's a peaceful indoor highlight of a winter day.\n\nEvening: Park at the harbor for the sunset. The winter sky often turns brilliant shades of pink and orange over the quiet Vodice promenade.",
+            "hu": "Reggel: Kezdjen az Okit-hegyi autózással. A téli levegő kivételesen tiszta, a legélesebb kilátást nyújtva a szigetekre és a hátországra.\n\nDélben: Látogasson el a plébániatemplomhoz és a Ćorić-toronyhoz. Kevesebb a turista, könnyebb a parkolás, és lassabb tempóban élvezheti a központot.\n\nDélután: Élvezze az Akvárium és Múzeum melegét és lenyűgöző kiállításait. Ez egy békés beltéri fénypontja a téli napnak.\n\nEste: Parkoljon le a kikötőben a naplementéhez. A téli égbolt gyakran ragyogó rózsaszín és narancs árnyalatokat ölt a csendes sétány felett.",
+            "de": "Morgens: Start mit der Fahrt zum Okit-Hügel. Die Winterluft ist außergewöhnlich klar und bietet die beste Sicht auf die Inseln.\n\nMittags: Besuch der Pfarrkirche und des Ćorić-Turms. Mit weniger Touristen ist das Parken einfacher.\n\nNachmittags: Genießen Sie die Wärme und die Exponate im Aquarium & Museum. Ein friedliches Indoor-Highlight im Winter.\n\nAbends: Parken Sie am Hafen für den Sonnenuntergang. Der Winterhimmel färbt sich oft leuchtend rosa und orange.",
+            "ro": "Dimineața: Începeți cu drumul spre Dealul Okit. Aerul de iarnă este extrem de clar, oferind cele mai bune priveliști spre insule.\n\nLa prânz: Vizitați Biserica Parohială și Turnul Ćorić. Cu mai puțini turiști, parcarea este mai ușoară și puteți savura centrul istoric.\n\nDupă-amiaza: Bucurați-vă de căldura și exponatele fascinante de la Acvariu și Muzeu. Este un punct culminant la interior.\n\nSeara: Parcați în port pentru apus. Cerul de iarnă capătă adesea nuanțe strălucitoare de roz și portocaliu."
+          },
+          "stops": [
+            {
+              "name": "Okit Hill",
+              "tip_5lang": {
+                "en": "Best clear day views.",
+                "hu": "Legjobb tiszta időben.",
+                "de": "Beste Sicht an klaren Tagen.",
+                "ro": "Cele mai bune priveliști."
+              }
+            },
+            {
+              "name": "Parish Church of the Holy Cross",
+              "tip_5lang": {
+                "en": "Quiet winter visit.",
+                "hu": "Csendes téli látogatás.",
+                "de": "Ruhiger Winterbesuch.",
+                "ro": "Vizită liniștită de iarnă."
+              }
+            },
+            {
+              "name": "Ćorić Tower",
+              "tip_5lang": {
+                "en": "Easy access.",
+                "hu": "Könnyű hozzáférés.",
+                "de": "Leichter Zugang.",
+                "ro": "Acces ușor."
+              }
+            },
+            {
+              "name": "Aquarium & Museum",
+              "tip_5lang": {
+                "en": "Great indoor time.",
+                "hu": "Kiváló beltéri program.",
+                "de": "Tolle Zeit im Inneren.",
+                "ro": "Program excelent la interior."
+              }
+            },
+            {
+              "name": "Vodice Waterfront Promenade",
+              "tip_5lang": {
+                "en": "Perfect sunset spot.",
+                "hu": "Tökéletes naplementés hely.",
+                "de": "Perfekter Ort für Sonnenuntergänge.",
+                "ro": "Loc perfect pentru apus."
+              }
+            }
+          ],
+          "tips": {
+            "en": [
+              "Winter air is clear for photography.",
+              "Most parking is cheaper or free in winter.",
+              "Check for ice on high roads like Okit.",
+              "Start early to catch the 16:30 sunset."
+            ],
+            "hu": [
+              "A téli levegő kiváló a fotózáshoz.",
+              "A legtöbb parkoló olcsóbb vagy ingyenes télen.",
+              "Ellenőrizze a jegesedést a magasabb utakon.",
+              "Induljon korán a 16:30-as naplemente miatt."
+            ],
+            "de": [
+              "Winterluft ist ideal zum Fotografieren.",
+              "Parken ist im Winter oft günstiger.",
+              "Auf Glätte auf höheren Straßen achten.",
+              "Früh starten für den Sonnenuntergang um 16:30."
+            ],
+            "ro": [
+              "Aerul de iarnă este perfect pentru poze.",
+              "Parcarea este mai ieftină sau gratuită iarna.",
+              "Atenție la polei pe drumurile înalte.",
+              "Porniți devreme pentru apusul de la 16:30."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -970,6 +1498,170 @@
           "Boat tours to Kornati often depart in the early morning.",
           "Timetables are posted at the central newsstand."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "en": "Morning: Take the local bus to the Waterfront Promenade. Use the bus stop shelters to stay dry while waiting for your connection.\n\nNoon: Walk to the nearby Aquarium & Museum. It's the perfect central location to wait out a heavy rain shower while staying entertained.\n\nAfternoon: Explore the Ćorić Tower and Parish Church. These sites are close to each other, minimizing your time spent in the rain.\n\nEvening: Take a short bus ride towards Plava Plaža. Enjoy a warm drink in a beachside cafe while watching the rain hit the Adriatic.",
+            "hu": "Reggel: Szálljon fel a helyi buszra a tengerparti sétány felé. Használja a buszmegállók váróit, hogy szárazon maradjon a csatlakozásig.\n\nDélben: Sétáljon át a közeli Akváriumba és Múzeumba. Tökéletes központi helyszín egy nagyobb zápor átvészelésére.\n\nDélután: Fedezze fel a Ćorić-toronyt és a plébániatemplomot. Ezek a helyszínek közel vannak egymáshoz, minimalizálva az esőben töltött időt.\n\nEste: Utazzon egy rövid buszúttal a Plava Plaža felé. Élvezzen egy meleg italt egy vízparti kávézóban, miközben az esőt figyeli.",
+            "de": "Morgens: Mit dem Bus zur Uferpromenade. Nutzen Sie die Wartehäuschen, um trocken zu bleiben.\n\nMittags: Spaziergang zum Aquarium & Museum. Der ideale Ort, um einen starken Regenschauer abzuwarten.\n\nNachmittags: Erkunden Sie den Ćorić-Turm und die Pfarrkirche. Die Standorte liegen nah beieinander, was den Aufenthalt im Regen verkürzt.\n\nAbends: Kurze Busfahrt zum Plava Plaža. Genießen Sie ein warmes Getränk in einem Café am Strand.",
+            "ro": "Dimineața: Luați autobuzul local spre Promenadă. Folosiți adăposturile din stații pentru a rămâne uscat.\n\nLa prânz: Mergeți la Acvariu și Muzeu. Este locația centrală perfectă pentru a aștepta trecerea unei ploi torențiale.\n\nDupă-amiaza: Explorați Turnul Ćorić și Biserica Parohială. Aceste situri sunt aproape unul de altul.\n\nSeara: O scurtă călătorie cu autobuzul spre Plava Plaža. Savurați o băutură caldă la o cafenea privind ploaia pe mare."
+          },
+          "stops": [
+            {
+              "name": "Vodice Waterfront Promenade",
+              "tip_5lang": {
+                "en": "Bus stop is nearby.",
+                "hu": "Buszmegálló a közelben.",
+                "de": "Bushaltestelle ist in der Nähe.",
+                "ro": "Stația de autobuz e aproape."
+              }
+            },
+            {
+              "name": "Aquarium & Museum",
+              "tip_5lang": {
+                "en": "Long indoor activity.",
+                "hu": "Hosszabb beltéri program.",
+                "de": "Lange Indoor-Aktivität.",
+                "ro": "Activitate lungă la interior."
+              }
+            },
+            {
+              "name": "Ćorić Tower",
+              "tip_5lang": {
+                "en": "Short walk from bus.",
+                "hu": "Rövid séta a busztól.",
+                "de": "Kurzer Weg vom Bus.",
+                "ro": "Scurtă plimbare de la autobuz."
+              }
+            },
+            {
+              "name": "Parish Church of the Holy Cross",
+              "tip_5lang": {
+                "en": "Shelter between buses.",
+                "hu": "Menedék buszok között.",
+                "de": "Schutz zwischen Bussen.",
+                "ro": "Adăpost între autobuze."
+              }
+            },
+            {
+              "name": "Plava Plaža Beach",
+              "tip_5lang": {
+                "en": "Check last bus back.",
+                "hu": "Nézd meg az utolsó buszt.",
+                "de": "Letzten Bus prüfen.",
+                "ro": "Verificați ultimul autobuz."
+              }
+            }
+          ],
+          "tips": {
+            "en": [
+              "Bus frequency is lower on rainy days; check the app.",
+              "The main bus station has a covered waiting area.",
+              "Central Vodice is very walkable with an umbrella.",
+              "Many buses have limited space for wet umbrellas."
+            ],
+            "hu": [
+              "Esős napokon a buszok ritkábban járhatnak; nézze a menetrendet.",
+              "A főpályaudvarnak van fedett várója.",
+              "Vodice központja esernyővel is jól bejárható.",
+              "Sok buszon kevés a hely a vizes esernyőknek."
+            ],
+            "de": [
+              "Busse fahren an Regentagen seltener; App prüfen.",
+              "Der Busbahnhof hat einen überdachten Bereich.",
+              "Das Zentrum ist mit Schirm gut zu Fuß erreichbar.",
+              "In Bussen ist wenig Platz für nasse Schirme."
+            ],
+            "ro": [
+              "Frecvența autobuzelor e mai mică pe ploaie; verificați aplicația.",
+              "Autogara are o zonă de așteptare acoperită.",
+              "Centrul orașului este ușor de parcurs cu umbrela.",
+              "Spațiu limitat pentru umbrele ude în autobuz."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "en": "Morning: Start with a bus ride to the Waterfront Promenade. The crisp winter air is invigorating as you walk along the quiet shoreline.\n\nNoon: Head to the Aquarium & Museum. It's a warm and fascinating way to spend the middle of a chilly winter day.\n\nAfternoon: Visit the Ćorić Tower and Parish Church. These historic landmarks are even more impressive in the soft winter light.\n\nEvening: Take the bus to Plava Plaža Beach for a peaceful winter walk before the early sunset around 16:30. Check the winter bus schedule for your return.",
+            "hu": "Reggel: Kezdjen egy buszúttal a tengerparti sétány felé. A friss téli levegő élénkítő, ahogy a csendes parton sétál.\n\nDélben: Irány az Akvárium és Múzeum. Meleg és lenyűgöző módja egy hűvös téli nap eltöltésének.\n\nDélután: Látogasson el a Ćorić-toronyhoz és a plébániatemplomhoz. Ezek a történelmi helyszínek még lenyűgözőbbek a lágy téli fényben.\n\nEste: Utazzon busszal a Plava Plaža strandra egy békés téli sétára a korai, 16:30 körüli naplemente előtt.",
+            "de": "Morgens: Busfahrt zur Uferpromenade. Die frische Winterluft ist belebend bei einem Spaziergang am ruhigen Ufer.\n\nMittags: Besuch des Aquarium & Museum. Eine warme und faszinierende Art, den Mittag zu verbringen.\n\nAfternoon: Besichtigung des Ćorić-Turms und der Pfarrkirche. Diese Wahrzeichen wirken im Winterlicht besonders eindrucksvoll.\n\nAbends: Fahrt zum Strand Plava Plaža für einen Spaziergang vor dem frühen Sonnenuntergang gegen 16:30 Uhr.",
+            "ro": "Dimineața: Începeți cu o călătorie cu autobuzul spre Promenadă. Aerul proaspăt de iarnă este revigorant pe malul liniștit.\n\nLa prânz: Mergeți la Acvariu și Muzeu. Este o metodă caldă și fascinantă de a petrece mijlocul unei zile reci.\n\nDupă-amiaza: Vizitați Turnul Ćorić și Biserica Parohială. Aceste repere sunt impresionante în lumina blândă de iarnă.\n\nSeara: Luați autobuzul spre Plaja Plava Plaža pentru o plimbare liniștită înainte de apusul de la 16:30."
+          },
+          "stops": [
+            {
+              "name": "Vodice Waterfront Promenade",
+              "tip_5lang": {
+                "en": "Windy bus wait.",
+                "hu": "Szeles buszvárakozás.",
+                "de": "Windiges Warten auf den Bus.",
+                "ro": "Așteptare în vânt în stație."
+              }
+            },
+            {
+              "name": "Aquarium & Museum",
+              "tip_5lang": {
+                "en": "Warm and interesting.",
+                "hu": "Meleg és érdekes.",
+                "de": "Warm und interessant.",
+                "ro": "Cald și interesant."
+              }
+            },
+            {
+              "name": "Ćorić Tower",
+              "tip_5lang": {
+                "en": "Quick visit.",
+                "hu": "Gyors látogatás.",
+                "de": "Kurzer Besuch.",
+                "ro": "Vizită rapidă."
+              }
+            },
+            {
+              "name": "Parish Church of the Holy Cross",
+              "tip_5lang": {
+                "en": "Peaceful interior.",
+                "hu": "Békés belső tér.",
+                "de": "Friedliches Innere.",
+                "ro": "Interior liniștit."
+              }
+            },
+            {
+              "name": "Plava Plaža Beach",
+              "tip_5lang": {
+                "en": "Walk the empty shore.",
+                "hu": "Sétálj az üres parton.",
+                "de": "Am leeren Ufer spazieren.",
+                "ro": "Plimbare pe țărmul pustiu."
+              }
+            }
+          ],
+          "tips": {
+            "en": [
+              "Buses follow the winter schedule; check times carefully.",
+              "Use the main station as your transit hub.",
+              "Wear a warm coat for waiting at bus stops.",
+              "Buses are less frequent after 17:00."
+            ],
+            "hu": [
+              "A buszok téli menetrend szerint járnak; ellenőrizze az időpontokat.",
+              "Használja a főpályaudvart központként.",
+              "Viseljen meleg kabátot a buszmegállóban való várakozáshoz.",
+              "17:00 után ritkábbak a járatok."
+            ],
+            "de": [
+              "Busse fahren nach Winterfahrplan; Zeiten prüfen.",
+              "Nutzen Sie den Busbahnhof als zentralen Knotenpunkt.",
+              "Warmer Mantel für das Warten an Haltestellen wichtig.",
+              "Nach 17:00 Uhr fahren weniger Busse."
+            ],
+            "ro": [
+              "Autobuzele urmează orarul de iarnă; verificați orele.",
+              "Folosiți autogara ca nod principal de tranzit.",
+              "Purtați o haină groasă pentru așteptarea în stație.",
+              "Autobuzele sunt mai rare după ora 17:00."
+            ]
+          }
+        }
       }
     }
   }

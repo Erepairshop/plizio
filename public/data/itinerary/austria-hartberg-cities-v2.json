@@ -316,6 +316,188 @@
           "Many sights are very close to each other, but a city map is still helpful.",
           "Take time to explore the small alleys off the main square."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Hauptplatz glänzt im Regen, während Sie unter den Arkaden Schutz suchen. Mittags bewundern Sie die berühmten Fresken im trockenen Karner. Nachmittags bietet das Stadtmuseum im Schloss eine spannende Zeitreise ohne nass zu werden. Abends sorgt die mystische Stimmung im Gmoos für einen atmosphärischen Abschluss Ihres Regentages in Hartberg.",
+            "hu": "Az esőben megcsillanó barokk Fő tér után az árkádok alatt pihenhetünk meg. Délben a Karner 12. századi freskói között találunk menedéket a csapadék elől. Délután a várban berendezett múzeum interaktív kiállításai várnak. Este a ködbe burkolózó Gmoos lápvidéke különleges, melankolikus arcát mutatja a sétálók számára.",
+            "ro": "Piața Mare strălucește în ploaie, oferind un decor baroc dramatic sub umbrelă. La prânz, vizitarea frescelor din Karner vă menține la adăpost de intemperii. După-amiaza este dedicată muzeului din castel, unde istoria locală prinde viață în interior. Seara, o plimbare scurtă prin zona umedă Gmoos oferă o experiență mistică în ciuda vremii.",
+            "en": "Rain adds a glossy sheen to the Baroque Main Square as you walk between cozy cafes. At noon, seek shelter in the Romanesque Charnel House to admire its world-famous frescoes. The afternoon is perfect for the castle's museum, staying dry while exploring Hartberg's past. Finish with a misty walk through the Gmoos nature reserve."
+          },
+          "stops": [
+            {
+              "name": "Hartberg Main Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden der umliegenden Bürgerhäuser als natürlichen Regenschutz.",
+                "hu": "Használja a környező polgárházak árkádjait természetes esővédőként.",
+                "ro": "Folosiți arcadele caselor istorice din jur pentru a vă proteja de ploaie.",
+                "en": "Use the arcades of the surrounding historic buildings for natural rain cover."
+              }
+            },
+            {
+              "name": "Parish Church of St. Martin",
+              "tip_5lang": {
+                "de": "Die prachtvolle Innenausstattung bietet einen idealen Rückzugsort bei Schauern.",
+                "hu": "A pompás belső tér ideális búvóhely egy hirtelen zápor esetén.",
+                "ro": "Interiorul somptuos oferă un refugiu ideal în timpul averselor de ploaie.",
+                "en": "The magnificent interior provides an ideal retreat during sudden showers."
+              }
+            },
+            {
+              "name": "Hartberg Charnel House",
+              "tip_5lang": {
+                "de": "Die romanischen Fresken sind bei diffusem Regenlicht besonders eindrucksvoll.",
+                "hu": "A román kori freskók a szórt esős fényben különösen lenyűgözőek.",
+                "ro": "Frescele romanice sunt deosebit de impresionante în lumina difuză a ploii.",
+                "en": "The Romanesque frescoes are particularly impressive in diffuse rainy light."
+              }
+            },
+            {
+              "name": "Hartberg Castle",
+              "tip_5lang": {
+                "de": "Das Schlossareal bietet viele überdachte Durchgänge zwischen den Gebäuden.",
+                "hu": "A várnegyed épületei között számos fedett átjáró található.",
+                "ro": "Zona castelului oferă multe pasaje acoperite între clădiri.",
+                "en": "The castle area offers many covered passages between the buildings."
+              }
+            },
+            {
+              "name": "Hartberg Museum",
+              "tip_5lang": {
+                "de": "Planen Sie hier mehr Zeit ein, um den stärksten Regen im Trockenen zu überbrücken.",
+                "hu": "Töltsön itt több időt, hogy szárazon vészelje át a hevesebb esőzést.",
+                "ro": "Planificați mai mult timp aici pentru a evita ploaia torențială la interior.",
+                "en": "Plan more time here to bridge the heaviest rain in the dry indoors."
+              }
+            },
+            {
+              "name": "Gmoos",
+              "tip_5lang": {
+                "de": "Festes Schuhwerk ist wichtig, da die Wege im Feuchtgebiet rutschig sein können.",
+                "hu": "Vízálló cipő javasolt, mert a lápvidéki utak sárgossá válhatnak.",
+                "ro": "Încălțămintea impermeabilă este necesară, potecile pot deveni noroioase.",
+                "en": "Waterproof footwear is recommended as paths in the wetlands can get muddy."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nehmen Sie einen stabilen Regenschirm mit, da in der hügeligen Steiermark oft Wind weht.",
+              "Die Museen und Kirchen sind hervorragende Orte, um Schauer abzuwarten.",
+              "In den Cafés am Hauptplatz lässt es sich wunderbar bei einer Tasse Kaffee aufhellen.",
+              "Achten Sie auf Kopfsteinpflaster, das bei Nässe rutschig werden kann."
+            ],
+            "hu": [
+              "Vigyen magával strapabíró esernyőt, mert a dombos Stájerországban gyakori a szél.",
+              "A múzeumok és templomok kiváló helyszínek a nagyobb záporok átvészelésére.",
+              "A Fő tér kávézóiban érdemes megvárni, amíg eláll az eső.",
+              "Vigyázzon a macskakövekre, amelyek nedvesen csúszóssá válhatnak."
+            ],
+            "ro": [
+              "Luați o umbrelă rezistentă, vântul este frecvent în zona deluroasă a Stiriei.",
+              "Muzeele și bisericile sunt locuri excelente pentru a aștepta trecerea ploii.",
+              "Cafenelele din Piața Mare sunt perfecte pentru o pauză caldă în zilele ploioase.",
+              "Atenție la pavajul din piatră cubică, care poate deveni alunecos când este ud."
+            ],
+            "en": [
+              "Bring a sturdy umbrella as wind is common in the hilly Styrian region.",
+              "Museums and churches are excellent spots to wait out heavy showers.",
+              "The cafes on the Main Square are perfect for warming up with a coffee.",
+              "Watch your step on cobblestones, which can become slippery when wet."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens liegt oft Reif auf dem Hauptplatz, was Hartberg eine märchenhafte Aura verleiht. Mittags wärmen Sie sich in der Stadtpfarrkirche auf, während das Winterlicht durch die Fenster fällt. Nachmittags erkunden Sie die Burganlage im sanften Schein der tiefstehenden Sonne. Der Gmoos-Rundweg bietet zum Abschluss eine erfrischende Winterwanderung in klarer Luft.",
+            "hu": "A zúzmarás Fő tér reggelente mesebeli hangulatot áraszt a történelmi falak között. Délben a plébániatemplom csendje és nyugalma nyújt testi-lelki feltöltődést a hidegben. Délután a várkert sétányai a korai naplemente fényeiben tündökölnek. A napot a Gmoos befagyott tavai és a friss téli levegőn tett séta koronázza meg.",
+            "ro": "Diminețile cu chiciură transformă Piața Mare într-un decor de poveste. La prânz, interiorul bisericii parohiale oferă un moment de liniște și căldură. După-amiaza, zidurile castelului sunt luminate de soarele blând de iarnă înainte de apusul timpuriu. Traseul Gmoos este ideal pentru o plimbare revigorantă în aerul curat al serii.",
+            "en": "Morning frost on the Main Square gives Hartberg a fairy-tale atmosphere. At noon, warm up inside the Parish Church while admiring its baroque splendor. Afternoon sun casts long shadows over the castle grounds before an early sunset. End your day with a brisk winter walk through the crystalline landscape of the Gmoos area."
+          },
+          "stops": [
+            {
+              "name": "Hartberg Main Square",
+              "tip_5lang": {
+                "de": "Genießen Sie einen heißen Tee in einem der traditionellen Kaffeehäuser am Platz.",
+                "hu": "Élvezzen egy forró teát a tér egyik hagyományos kávéházában.",
+                "ro": "Savurați un ceai fierbinte într-una dintre cafenelele tradiționale din piață.",
+                "en": "Enjoy a hot tea in one of the traditional coffee houses on the square."
+              }
+            },
+            {
+              "name": "Parish Church of St. Martin",
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten die Kälte ab und bieten einen ruhigen Rückzugsort.",
+                "hu": "A vastag falak távol tartják a hideget, csendes menedéket nyújtva.",
+                "ro": "Zidurile groase țin frigul la distanță și oferă un refugiu liniștit.",
+                "en": "The thick walls keep the cold at bay and provide a quiet retreat."
+              }
+            },
+            {
+              "name": "Hartberg Charnel House",
+              "tip_5lang": {
+                "de": "Besuchen Sie den Karner früh, um das natürliche Licht optimal zu nutzen.",
+                "hu": "Látogassa meg korán a Karnert, hogy kihasználja a természetes fényeket.",
+                "ro": "Vizitați Karner-ul devreme pentru a profita la maximum de lumina naturală.",
+                "en": "Visit the Charnel House early to make the most of the natural light."
+              }
+            },
+            {
+              "name": "Hartberg Castle",
+              "tip_5lang": {
+                "de": "Der Schlosspark wirkt im Winter besonders ruhig und weitläufig.",
+                "hu": "A várpark télen különösen csendes és tágas hangulatot áraszt.",
+                "ro": "Parcul castelului pare deosebit de liniștit și vast în timpul iernii.",
+                "en": "The castle park feels especially peaceful and spacious in winter."
+              }
+            },
+            {
+              "name": "Hartberg Museum",
+              "tip_5lang": {
+                "de": "Die beheizten Räume machen das Museum zum perfekten Winterstopp.",
+                "hu": "A fűtött termek miatt a múzeum tökéletes megálló a hideg napokon.",
+                "ro": "Sălile încălzite fac din muzeu oprirea perfectă în zilele de iarnă.",
+                "en": "The heated rooms make the museum a perfect stop on cold days."
+              }
+            },
+            {
+              "name": "Gmoos",
+              "tip_5lang": {
+                "de": "Bei Frost sind die Holzstege oft rutschig – gehen Sie vorsichtig.",
+                "hu": "Fagy esetén a fapallók csúszósak lehetnek – közlekedjen óvatosan.",
+                "ro": "În caz de îngheț, podurile de lemn sunt alunecoase – mergeți cu grijă.",
+                "en": "In frosty conditions, wooden boardwalks are slippery – walk carefully."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Winter bereits gegen 16:30 Uhr unter, planen Sie Outdoor-Aktivitäten früh.",
+              "Warme Kleidung in Schichten ist ideal für den Wechsel zwischen Drinnen und Draußen.",
+              "Hartberg ist bekannt für seine 'Cittaslow'-Philosophie, genießen Sie die Entschleunigung.",
+              "Überprüfen Sie die Winteröffnungszeiten des Museums vorab."
+            ],
+            "hu": [
+              "A nap már 16:30 körül lenyugszik, a szabadtéri programokat időzítse korábbra.",
+              "A réteges öltözködés javasolt a kinti hideg és a benti fűtött terek váltakozása miatt.",
+              "Élvezze a 'Cittaslow' lassú életmódot a hangulatos kisvárosban.",
+              "Látogatás előtt ellenőrizze a múzeum téli nyitvatartási idejét."
+            ],
+            "ro": [
+              "Soarele apune în jur de ora 16:30, planificați activitățile în aer liber devreme.",
+              "Îmbrăcămintea în straturi este ideală pentru tranzitul între exterior și interior.",
+              "Bucurați-vă de filozofia 'Cittaslow' și de ritmul lent al orașului iarna.",
+              "Verificați programul de iarnă al muzeului înainte de vizită."
+            ],
+            "en": [
+              "Sunset is around 16:30 in winter, so plan your outdoor activities early.",
+              "Layered clothing is ideal for moving between the cold outside and heated interiors.",
+              "Enjoy the 'Cittaslow' philosophy and the slow pace of the town in winter.",
+              "Check the museum's winter opening hours in advance."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -626,6 +808,188 @@
           "Check the opening hours of the Villa Rustica in advance.",
           "Bring enough water, especially on warm days."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie vorsichtig am Hauptplatz, wo das Pflaster bei Regen rutschig sein kann. Der Anstieg zum Ringkogel wird durch die kühle Regenluft fast angenehmer, auch wenn die Fernsicht eingeschränkt ist. Zurück im Tal bieten das Schloss und die Kirchen trockene Kulturpausen. Die Fahrt durch das Gmoos erfordert heute gute Schutzbleche und Vorsicht auf den unbefestigten Wegen.",
+            "hu": "Induljon óvatosan a Fő térről, mert a vizes macskakő csúszós lehet a kerékpárnak. A Ringkogelre vezető emelkedő a hűvös esőben még könnyebb is, bár a kilátás ilyenkor korlátozott. A völgybe érve a vár és a templomok nyújtanak száraz kulturális pihenőt. A Gmoos-on átvezető út ma jó sárvédőt és nagyobb odafigyelést igényel.",
+            "ro": "Porniți cu atenție din Piața Mare, unde pavajul poate fi alunecos pe ploaie. Urcarea spre Ringkogel este facilitată de aerul răcoros, deși vizibilitatea este redusă. Întorși în vale, castelul și bisericile oferă pauze culturale uscate. Traseul prin Gmoos necesită aripi bune la bicicletă și prudență pe drumurile neasfaltate.",
+            "en": "Start carefully from the Main Square as wet cobblestones can be slippery. The climb to Ringkogel is actually refreshed by the rain, though the panoramic view might be misty. Back in town, the castle and churches provide dry cultural breaks. Riding through Gmoos today requires good mudguards and focus on the unpaved paths."
+          },
+          "stops": [
+            {
+              "name": "Hartberg Main Square",
+              "tip_5lang": {
+                "de": "Vorsicht beim Anfahren auf dem nassen Kopfsteinpflaster.",
+                "hu": "Vigyázzon az indulásnál a nedves macskakövön.",
+                "ro": "Atenție la plecarea de pe loc pe pavajul ud.",
+                "en": "Be careful when starting off on the wet cobblestones."
+              }
+            },
+            {
+              "name": "Ringkogel Observation Tower",
+              "tip_5lang": {
+                "de": "Die Auffahrt ist schattig; bei Regen kann es hier deutlich kühler sein.",
+                "hu": "Az út árnyékos, esőben itt jelentősen hűvösebb lehet.",
+                "ro": "Urcarea este umbrită; pe ploaie poate fi mult mai răcoare aici.",
+                "en": "The climb is shaded; it can be significantly cooler here in the rain."
+              }
+            },
+            {
+              "name": "Hartberg Castle",
+              "tip_5lang": {
+                "de": "Es gibt überdachte Fahrradabstellplätze in der Nähe des Schlosseingangs.",
+                "hu": "A vár bejáratának közelében fedett kerékpártárolók találhatók.",
+                "ro": "Există locuri de parcare acoperite pentru biciclete lângă intrarea în castel.",
+                "en": "There are covered bicycle parking spots near the castle entrance."
+              }
+            },
+            {
+              "name": "Parish Church & Charnel House",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Kirchenbesuch für eine längere Trocknungspause.",
+                "hu": "Használja ki a templomlátogatást egy hosszabb száradási szünetre.",
+                "ro": "Folosiți vizita la biserică pentru o pauză mai lungă de uscare.",
+                "en": "Use the church visit for a longer break to dry off."
+              }
+            },
+            {
+              "name": "Gmoos",
+              "tip_5lang": {
+                "de": "Meiden Sie bei Starkregen die tiefgelegenen, schlammigen Pfade.",
+                "hu": "Heves esőzéskor kerülje a mélyebben fekvő, sáros ösvényeket.",
+                "ro": "Evitați potecile noroioase de joasă altitudine în caz de ploaie torențială.",
+                "en": "Avoid the low-lying, muddy paths during heavy rain."
+              }
+            },
+            {
+              "name": "Villa Rustica Löffelbach",
+              "tip_5lang": {
+                "de": "Die Schutzbauten über den Ruinen bieten auch Radfahrern kurzzeitig Schutz.",
+                "hu": "A romok feletti védőtető rövid ideig menedéket nyújt a bringásoknak is.",
+                "ro": "Structurile de protecție ale ruinelor oferă adăpost temporar bicicliștilor.",
+                "en": "The protective structures over the ruins offer temporary shelter for cyclists."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Bremsen, da Felgenbremsen bei Nässe verzögert reagieren.",
+              "Tragen Sie leuchtende Regenkleidung, um im Nebel besser gesehen zu werden.",
+              "Die Radwege rund um Hartberg sind gut beschildert, aber bei Nässe oft rutschig.",
+              "Ein Sattelschutz hält Ihr Rad beim Parken trocken."
+            ],
+            "hu": [
+              "Ellenőrizze a fékeket, a felnifékek nedvesen lassabban fognak.",
+              "Viseljen élénk esőruházatot, hogy a ködben is jól látható maradjon.",
+              "A Hartberg környéki utak jól kitáblázottak, de vizesen csúszósak.",
+              "Használjon nyeregvédőt, hogy száraz maradjon a kerékpár parkoláskor."
+            ],
+            "ro": [
+              "Verificați frânele, cele pe jantă reacționează mai greu pe timp de ploaie.",
+              "Purtați haine de ploaie reflectorizante pentru vizibilitate în ceață.",
+              "Traseele de bicicletă sunt bine marcate, dar pot fi alunecoase când sunt ude.",
+              "O protecție pentru șa vă va menține bicicleta uscată în timpul parcării."
+            ],
+            "en": [
+              "Check your brakes, as rim brakes react slower in wet conditions.",
+              "Wear bright rain gear to stay visible in misty conditions.",
+              "Cycling paths around Hartberg are well-marked but often slippery when wet.",
+              "A saddle cover will keep your bike dry while parked."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Hartberg im Winter mit dem Rad bedeutet klare Luft und einsame Wege. Die Auffahrt zum Ringkogel wärmt den Körper auf, doch bei der Abfahrt ist Windschutz essenziell. Im Stadtzentrum laden Schloss und Kirchen zu Aufwärmstopps ein. Eine Fahrt durch das winterliche Gmoos mit seinen gefrorenen Schilfflächen ist ein optisches Highlight, erfordert aber Vorsicht vor Glatteis.",
+            "hu": "Télen kerékpározni Hartbergben tiszta levegőt és néptelen utakat jelent. A Ringkogelre való felkapaszkodás felmelegíti a testet, de a lejtőn kötelező a szélvédelem. A városközpontban a vár és a templomok kínálnak melegedőt. A téli Gmoos a befagyott nádasokkal látványos, de az esetleges jegesedés miatt óvatosságot igényel.",
+            "ro": "Iarna în Hartberg pe bicicletă înseamnă aer curat și trasee solitare. Urcarea spre Ringkogel vă va încălzi, dar protecția contra vântului este esențială la coborâre. În centru, castelul și bisericile sunt opriri bune pentru încălzire. O plimbare prin Gmoos-ul înghețat este superbă, dar necesită atenție la polei.",
+            "en": "Winter cycling in Hartberg offers crisp air and quiet paths. The climb to Ringkogel warms you up, but wind protection is essential for the descent. In the center, the castle and churches provide welcome warm-up stops. A ride through the wintry Gmoos with its frozen reeds is visually stunning but requires caution regarding icy patches."
+          },
+          "stops": [
+            {
+              "name": "Hartberg Main Square",
+              "tip_5lang": {
+                "de": "Starten Sie erst nach Sonnenaufgang, wenn das Glatteis oft schon abgetaut ist.",
+                "hu": "Csak napfelkelte után induljon, amikor a jég már legtöbbször felengedett.",
+                "ro": "Porniți după răsărit, când gheața de pe pavaj s-a topit de obicei.",
+                "en": "Start after sunrise when icy patches on the pavement have often melted."
+              }
+            },
+            {
+              "name": "Ringkogel Observation Tower",
+              "tip_5lang": {
+                "de": "Vorsicht bei der Abfahrt: Der Fahrtwind ist im Winter extrem kalt.",
+                "hu": "Vigyázzon a lefelé úton: a menetszél télen rendkívül hideg.",
+                "ro": "Atenție la coborâre: vântul generat de viteză este extrem de rece iarna.",
+                "en": "Be careful on the descent: the wind chill is extremely cold in winter."
+              }
+            },
+            {
+              "name": "Hartberg Castle",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Museumscafé, um Ihre Hände aufzuwärmen.",
+                "hu": "Használja a múzeum kávézóját a kezei felmelegítésére.",
+                "ro": "Folosiți cafeneaua muzeului pentru a vă încălzi mâinile.",
+                "en": "Use the museum cafe to warm up your hands."
+              }
+            },
+            {
+              "name": "Parish Church & Charnel House",
+              "tip_5lang": {
+                "de": "Das Innere der Kirche ist meist windgeschützt und etwas milder.",
+                "hu": "A templom belseje szélvédett és általában valamivel enyhébb.",
+                "ro": "Interiorul bisericii este ferit de vânt și ceva mai blând.",
+                "en": "The church interior is sheltered from the wind and usually milder."
+              }
+            },
+            {
+              "name": "Gmoos",
+              "tip_5lang": {
+                "de": "Auf den Holzstegen im Gmoos herrscht bei Frost hohe Rutschgefahr.",
+                "hu": "A Gmoos fapallóin fagy idején fokozott a csúszásveszély.",
+                "ro": "Pe podurile de lemn din Gmoos există un risc ridicat de alunecare.",
+                "en": "High risk of slipping on the wooden boardwalks in Gmoos during frost."
+              }
+            },
+            {
+              "name": "Villa Rustica Löffelbach",
+              "tip_5lang": {
+                "de": "Die exponierte Lage macht diesen Stopp im Winter sehr windanfällig.",
+                "hu": "A kitett fekvés miatt ez a megálló télen nagyon szeles lehet.",
+                "ro": "Locația expusă face ca această oprire să fie foarte ventilată iarna.",
+                "en": "The exposed location makes this stop very windy in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermo-Handschuhe und eine Mütze unter dem Helm.",
+              "Beleuchtung ist wegen des frühen Dunkelwerdens und möglichem Nebel Pflicht.",
+              "Achten Sie auf Streusalz, das die Kette Ihres Rades angreifen kann.",
+              "Die Akkus von E-Bikes entladen sich bei Kälte deutlich schneller."
+            ],
+            "hu": [
+              "Viseljen termokesztyűt és a sisak alá való vékony sapkát.",
+              "A korai sötétedés és a köd miatt a világítás használata kötelező.",
+              "Figyeljen az útszóró sóra, amely károsíthatja a kerékpárláncot.",
+              "Az e-bike akkumulátorok hidegben jelentősen gyorsabban merülnek."
+            ],
+            "ro": [
+              "Purtați mănuși termice și o căciulă subțire sub cască.",
+              "Luminile sunt obligatorii din cauza întunericului timpuriu și a ceții.",
+              "Atenție la sarea de pe drum, care poate coroda lanțul bicicletei.",
+              "Bateriile bicicletelor electrice se descarcă mult mai repede la frig."
+            ],
+            "en": [
+              "Wear thermal gloves and a thin cap under your helmet.",
+              "Lights are mandatory due to early darkness and potential fog.",
+              "Watch out for road salt, which can damage your bike chain.",
+              "E-bike batteries discharge significantly faster in cold weather."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -966,6 +1330,206 @@
           "A navigation device is helpful for finding rural destinations like the Villa Rustica.",
           "Combine the trip with a visit to one of the many winegrowers in the region."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Genießen Sie den Komfort Ihres Autos, während Sie zwischen den Sehenswürdigkeiten Hartbergs pendeln. Parken Sie direkt im Zentrum für einen trockenen Start am Hauptplatz. Die Fahrt zur Villa Rustica und zum Ringkogel bietet wunderbare Ausblicke auf die verregnete Hügellandschaft. Den Tag lassen Sie bei einem gemütlichen Abendessen in der Altstadt ausklingen, ganz ohne nasse Füße.",
+            "hu": "Élvezze autója kényelmét, miközben Hartberg látnivalói között ingázik. Parkoljon közvetlenül a központban a száraz kezdéshez. Az út a Villa Rustica és a Ringkogel felé csodás kilátást nyújt az esőáztatta dombvidékre. A napot egy hangulatos óvárosi vacsorával zárhatja, teljesen száraz lábbal.",
+            "ro": "Bucurați-vă de confortul mașinii în timp ce vă deplasați între atracțiile din Hartberg. Parcați direct în centru pentru un început uscat în Piața Mare. Drumul spre Villa Rustica și Ringkogel oferă vederi superbe asupra dealurilor plouate. Încheiați ziua cu o cină relaxantă în orașul vechi, fără a vă uda picioarele.",
+            "en": "Enjoy the comfort of your car as you move between Hartberg's sights. Park right in the center for a dry start at the Main Square. The drive to Villa Rustica and Ringkogel offers wonderful views of the rainy rolling hills. End your day with a cozy dinner in the old town, staying completely dry."
+          },
+          "stops": [
+            {
+              "name": "City Center Parking & Main Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Tiefgarage im Zentrum für einen absolut trockenen Einstieg.",
+                "hu": "Használja a központi mélygarázst a teljesen száraz induláshoz.",
+                "ro": "Folosiți parcarea subterană centrală pentru un început perfect uscat.",
+                "en": "Use the central underground parking for a completely dry start."
+              }
+            },
+            {
+              "name": "Parish Church & Charnel House",
+              "tip_5lang": {
+                "de": "In der Nähe der Kirche gibt es Kurzzeitparkplätze für einen schnellen Besuch.",
+                "hu": "A templom közelében rövid távú parkolók találhatók a gyors látogatáshoz.",
+                "ro": "Există locuri de parcare pe termen scurt lângă biserică pentru o vizită rapidă.",
+                "en": "There are short-term parking spots near the church for a quick visit."
+              }
+            },
+            {
+              "name": "Hartberg Castle & Museum",
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Schlossgraben, um den Fußweg im Regen zu minimieren.",
+                "hu": "Parkoljon közvetlenül a várároknál, hogy minimalizálja az esőben gyaloglást.",
+                "ro": "Parcați direct lângă șanțul castelului pentru a minimiza mersul prin ploaie.",
+                "en": "Park right by the castle moat to minimize walking in the rain."
+              }
+            },
+            {
+              "name": "Villa Rustica Löffelbach",
+              "tip_5lang": {
+                "de": "Vom Parkplatz sind es nur wenige Meter bis zum überdachten Ruinenbereich.",
+                "hu": "A parkolótól csak pár méter a romok fedett területe.",
+                "ro": "De la parcare sunt doar câțiva metri până la zona acoperită a ruinelor.",
+                "en": "It's only a few meters from the parking lot to the covered ruins area."
+              }
+            },
+            {
+              "name": "Ringkogel Observation Tower",
+              "tip_5lang": {
+                "de": "Die Bergstraße kann bei Starkregen durch Aquaplaning tückisch sein.",
+                "hu": "A hegyi út heves esőzéskor a vízátfolyások miatt veszélyes lehet.",
+                "ro": "Drumul montan poate fi periculos în caz de ploaie torențială din cauza acvaplanării.",
+                "en": "The mountain road can be tricky during heavy rain due to aquaplaning."
+              }
+            },
+            {
+              "name": "Gmoos",
+              "tip_5lang": {
+                "de": "Parken Sie beim Gmoos-Eingang und genießen Sie den Blick aus dem Auto.",
+                "hu": "Parkoljon a Gmoos bejáratánál, és élvezze a kilátást az autóból.",
+                "ro": "Parcați la intrarea Gmoos și bucurați-vă de vedere din mașină.",
+                "en": "Park at the Gmoos entrance and enjoy the view from your car."
+              }
+            },
+            {
+              "name": "Farewell Dinner in the Old Town",
+              "tip_5lang": {
+                "de": "Viele Restaurants bieten Parkplätze im Innenhof oder direkt vor der Tür.",
+                "hu": "Sok étterem kínál parkolót a belső udvarban vagy közvetlenül az ajtó előtt.",
+                "ro": "Multe restaurante oferă parcare în curte sau direct în față.",
+                "en": "Many restaurants offer parking in the courtyard or right in front."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Parkzonen; die Altstadt ist teilweise gebührenpflichtig.",
+              "Die Sicht auf der Ringkogelstraße kann bei Regen durch Nebel stark eingeschränkt sein.",
+              "Ein Regenschirm im Auto ist für die kurzen Wege zu den Eingängen essenziell.",
+              "Nutzen Sie die Regenpause für den Besuch der Villa Rustica."
+            ],
+            "hu": [
+              "Figyeljen a parkolási zónákra; az óváros egyes részei fizetősek.",
+              "A Ringkogelre vezető úton a köd jelentősen korlátozhatja a látást.",
+              "Egy esernyő az autóban alapvető a bejáratokig tartó rövid utakhoz.",
+              "Használja ki az eső szüneteltetését a Villa Rustica meglátogatására."
+            ],
+            "ro": [
+              "Atenție la zonele de parcare; centrul vechi este parțial cu plată.",
+              "Vizibilitatea pe drumul spre Ringkogel poate fi limitată de ceață.",
+              "O umbrelă în mașină este esențială pentru drumurile scurte spre intrări.",
+              "Profitați de pauzele dintre ploi pentru a vizita Villa Rustica."
+            ],
+            "en": [
+              "Pay attention to parking zones; parts of the old town require a fee.",
+              "Visibility on the Ringkogel road can be severely limited by fog during rain.",
+              "Keep an umbrella in the car for short walks to the entrances.",
+              "Take advantage of breaks in the rain to visit Villa Rustica."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie das winterliche Hartberg bequem mit dem Auto. Die Fahrt auf den Ringkogel bietet bei klarer Winterluft ein atemberaubendes Panorama über das verschneite Alpenvorland. In der Stadt dienen das Schlossmuseum und die Kirchen als faszinierende Kulturstopps. Ein herzhaftes Abendessen in einem der warmen Gasthöfe der Altstadt rundet Ihren Wintertag perfekt ab.",
+            "hu": "Fedezze fel a téli Hartberget kényelmesen, autóval. A Ringkogelre vezető út tiszta időben lélegzetelállító panorámát nyújt a havas Alpokaljára. A városban a vármúzeum és a templomok lenyűgöző kulturális megállóként szolgálnak. A napot egy kiadós vacsora zárja az óváros egyik meleg vendéglőjében.",
+            "ro": "Explorați Hartberg-ul de iarnă confortabil cu mașina. Drumul spre Ringkogel oferă o panoramă spectaculoasă asupra dealurilor înzăpezite în aerul curat de iarnă. În oraș, muzeul castelului și bisericile sunt opriri culturale fascinante. O cină copioasă într-unul dintre restaurantele calde din centrul vechi încheie perfect ziua.",
+            "en": "Explore wintry Hartberg in the comfort of your car. The drive up Ringkogel offers a breathtaking panorama of the snowy Alpine foothills in the crisp winter air. In town, the castle museum and churches serve as fascinating cultural stops. A hearty dinner in one of the warm inns of the old town rounds off your winter day perfectly."
+          },
+          "stops": [
+            {
+              "name": "City Center Parking & Main Square",
+              "tip_5lang": {
+                "de": "Tiefgaragen sind im Winter frostfrei und ersparen das Eiskratzen.",
+                "hu": "A mélygarázsok télen fagymentesek, így megúszható a jégkaparás.",
+                "ro": "Parcările subterane sunt ferite de îngheț iarna, scăpându-vă de răzuit gheața.",
+                "en": "Underground parking is frost-free in winter, saving you from scraping ice."
+              }
+            },
+            {
+              "name": "Parish Church & Charnel House",
+              "tip_5lang": {
+                "de": "Die Wege zwischen Parkplatz und Kirche werden meist zügig geräumt.",
+                "hu": "A parkoló és a templom közötti utakat általában gyorsan letakarítják.",
+                "ro": "Drumurile dintre parcare și biserică sunt de obicei deszăpezite rapid.",
+                "en": "Paths between the parking lot and the church are usually cleared quickly."
+              }
+            },
+            {
+              "name": "Hartberg Castle & Museum",
+              "tip_5lang": {
+                "de": "Das Museum ist gut beheizt und bietet eine ideale Flucht vor der Kälte.",
+                "hu": "A múzeum jól fűtött, ideális menekülés a kinti hideg elől.",
+                "ro": "Muzeul este bine încălzit și oferă o evadare ideală din frig.",
+                "en": "The museum is well-heated and offers an ideal escape from the cold."
+              }
+            },
+            {
+              "name": "Villa Rustica Löffelbach",
+              "tip_5lang": {
+                "de": "Die Zufahrt kann bei plötzlichem Schneefall rutschig sein – Winterreifen Pflicht.",
+                "hu": "Hirtelen hóesésben az út csúszós lehet – téli gumi kötelező.",
+                "ro": "Accesul poate fi alunecos în caz de ninsoare – anvelopele de iarnă sunt obligatorii.",
+                "en": "The access road can be slippery during sudden snowfall – winter tires are a must."
+              }
+            },
+            {
+              "name": "Ringkogel Observation Tower",
+              "tip_5lang": {
+                "de": "Prüfen Sie, ob die Straße bei starkem Schneefall befahrbar ist.",
+                "hu": "Ellenőrizze, hogy nagy hóesésben járható-e az út.",
+                "ro": "Verificați dacă drumul este practicabil în caz de ninsoare puternică.",
+                "en": "Check if the road is passable during heavy snowfall."
+              }
+            },
+            {
+              "name": "Gmoos",
+              "tip_5lang": {
+                "de": "Der Parkplatz kann bei Vereisung tückisch sein; parken Sie vorsichtig.",
+                "hu": "A parkoló jegesedéskor veszélyes lehet; parkoljon óvatosan.",
+                "ro": "Parcarea poate fi înșelătoare în caz de îngheț; parcați cu atenție.",
+                "en": "The parking lot can be tricky when icy; park carefully."
+              }
+            },
+            {
+              "name": "Farewell Dinner in the Old Town",
+              "tip_5lang": {
+                "de": "Reservieren Sie einen Tisch nahe der Heizung oder dem Kamin.",
+                "hu": "Foglaljon asztalt a fűtőtest vagy a kandalló közelében.",
+                "ro": "Rezervați o masă lângă calorifer sau șemineu.",
+                "en": "Book a table near the heater or the fireplace."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Ihr Fahrzeug winterfest ist (Frostschutz, Winterreifen).",
+              "Die Ringkogelstraße wird geräumt, kann aber bei Neuschnee gesperrt sein.",
+              "Genießen Sie den Blick auf die Weihnachtsbeleuchtung der Stadt ab 16:00 Uhr.",
+              "Führen Sie einen Eiskratzer und eventuell eine Decke im Auto mit."
+            ],
+            "hu": [
+              "Győződjön meg róla, hogy autója fel van készítve a télre (fagyálló, téli gumi).",
+              "A Ringkogelre vezető utat takarítják, de friss hóban lezárhatják.",
+              "16:00 órától élvezze a város karácsonyi díszkivilágítását.",
+              "Tartson az autóban jégkaparót és esetleg egy takarót."
+            ],
+            "ro": [
+              "Asigurați-vă că vehiculul este pregătit de iarnă (antigel, anvelope de iarnă).",
+              "Drumul spre Ringkogel este curățat, dar poate fi închis în caz de zăpadă proaspătă.",
+              "Bucurați-vă de iluminatul festiv al orașului începând cu ora 16:00.",
+              "Țineți în mașină o răzuitoare de gheață și eventual o pătură."
+            ],
+            "en": [
+              "Ensure your vehicle is winter-ready (antifreeze, winter tires).",
+              "The Ringkogel road is cleared but may be closed during fresh snowfall.",
+              "Enjoy the town's festive Christmas lights starting from 16:00.",
+              "Keep an ice scraper and possibly a blanket in your car."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1258,6 +1822,170 @@
           "Check the bus schedules in advance, especially on weekends.",
           "Most buses are wheelchair accessible."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den Bus, um bequem und trocken ins Zentrum von Hartberg zu gelangen. Die kurzen Wege zwischen den Haltestellen und den Sehenswürdigkeiten wie der Stadtpfarrkirche minimieren die Zeit im Regen. Nachmittags bringt Sie der Bus direkt zum Gmoos, wo Sie das Feuchtgebiet von den überdachten Beobachtungspunkten aus erleben können. Das Stadtmuseum bietet zum Abschluss ein trockenes Kulturprogramm.",
+            "hu": "Használja a buszt, hogy kényelmesen és szárazon jusson Hartberg központjába. A megállók és a látnivalók, például a plébániatemplom közötti rövid távolság minimalizálja az esőben töltött időt. Délután a busz közvetlenül a Gmooshoz viszi, ahol a lápvidéket fedett megfigyelőpontokról csodálhatja meg. A napot a vármúzeum száraz kulturális programja zárja.",
+            "ro": "Folosiți autobuzul pentru a ajunge confortabil și uscat în centrul orașului Hartberg. Distanțele scurte între stații și atracții, precum biserica parohială, minimizează timpul petrecut în ploaie. După-amiaza, autobuzul vă duce direct la Gmoos, unde puteți observa zona umedă din puncte de observație acoperite. Muzeul oferă un final de zi cultural și uscat.",
+            "en": "Use the bus to reach Hartberg's center comfortably and dry. The short distances between stops and sights like the Parish Church minimize your time in the rain. In the afternoon, the bus takes you directly to Gmoos, where you can experience the wetlands from covered observation points. The city museum provides a dry cultural program to finish the day."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Bus Station & Walk to Main Square",
+              "tip_5lang": {
+                "de": "Das Wartehäuschen am Busbahnhof bietet guten Schutz vor Wind und Regen.",
+                "hu": "A buszpályaudvar váróterme jó védelmet nyújt a szél és az eső ellen.",
+                "ro": "Stația de autobuz oferă o protecție bună împotriva vântului și ploii.",
+                "en": "The bus station shelter provides good protection from wind and rain."
+              }
+            },
+            {
+              "name": "Parish Church & Charnel House",
+              "tip_5lang": {
+                "de": "Die Haltestelle 'Hauptplatz' liegt nur zwei Gehminuten von der Kirche entfernt.",
+                "hu": "A 'Hauptplatz' megálló mindössze két perc sétára van a templomtól.",
+                "ro": "Stația 'Hauptplatz' se află la doar două minute de mers pe jos de biserică.",
+                "en": "The 'Hauptplatz' stop is just a two-minute walk from the church."
+              }
+            },
+            {
+              "name": "Hartberg Castle",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Busverbindung, um den steilen Anstieg im Regen zu vermeiden.",
+                "hu": "Használja a buszjáratot, hogy elkerülje a meredek emelkedőt az esőben.",
+                "ro": "Folosiți autobuzul pentru a evita urcarea abruptă prin ploaie.",
+                "en": "Use the bus connection to avoid the steep climb in the rain."
+              }
+            },
+            {
+              "name": "Bus ride to Gmoos",
+              "tip_5lang": {
+                "de": "Achten Sie auf den Fahrplan, da die Busse zum Gmoos seltener verkehren.",
+                "hu": "Figyeljen a menetrendre, mert a Gmooshoz ritkábban járnak buszok.",
+                "ro": "Verificați orarul, deoarece autobuzele spre Gmoos circulă mai rar.",
+                "en": "Check the timetable, as buses to Gmoos run less frequently."
+              }
+            },
+            {
+              "name": "Return to the Center & Museum",
+              "tip_5lang": {
+                "de": "Der Bus hält fast direkt vor dem Museumseingang.",
+                "hu": "A busz szinte közvetlenül a múzeum bejárata előtt áll meg.",
+                "ro": "Autobuzul oprește aproape direct în fața intrării în muzeu.",
+                "en": "The bus stops almost directly in front of the museum entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie Ihre Fahrkarten nach Möglichkeit vorab online oder per App.",
+              "Die meisten Bushaltestellen im Zentrum sind überdacht.",
+              "Informieren Sie sich über die 'ÖBB-Postbus' Verbindungen für das Umland.",
+              "Planen Sie Pufferzeiten ein, da der Verkehr bei Regen stocken kann."
+            ],
+            "hu": [
+              "A jegyeket lehetőleg előre, online vagy applikáción keresztül vegye meg.",
+              "A központi buszmegállók többsége fedett.",
+              "Tájékozódjon az 'ÖBB-Postbus' környékbeli járatairól.",
+              "Számoljon ráhagyással, mert esőben a forgalom lassabb lehet."
+            ],
+            "ro": [
+              "Cumpărați biletele online sau prin aplicație dacă este posibil.",
+              "Majoritatea stațiilor de autobuz din centru sunt acoperite.",
+              "Informați-vă despre conexiunile 'ÖBB-Postbus' pentru împrejurimi.",
+              "Planificați timp suplimentar, traficul poate fi îngreunat de ploaie."
+            ],
+            "en": [
+              "Purchase your tickets online or via app beforehand if possible.",
+              "Most bus stops in the center are covered.",
+              "Inquire about 'ÖBB-Postbus' connections for the surrounding area.",
+              "Allow for extra time as traffic can be slower during rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus erkunden Sie Hartberg im Winter stressfrei und ohne Parkplatzsuche. Die beheizten Fahrzeuge bieten eine willkommene Wärme zwischen den Besuchen der Stadtpfarrkirche und des Schlosses. Der Ausflug zum Gmoos zeigt Ihnen die erstarrte Natur, bevor Sie der Bus zurück in die beleuchtete Altstadt bringt. Das Museum ist der ideale Ort, um den Nachmittag im Warmen zu verbringen.",
+            "hu": "Busszal stresszmentesen, parkolóhely-keresés nélkül fedezheti fel a téli Hartberget. A fűtött járművek kellemes meleget adnak a plébániatemplom és a vár meglátogatása között. A Gmoos-hoz tett kirándulás megmutatja a dermedt természetet, mielőtt a busz visszaviszi a kivilágított óvárosba. A múzeum ideális hely a délután melegben való eltöltéséhez.",
+            "ro": "Cu autobuzul explorați Hartberg-ul de iarnă fără stres și fără grija parcării. Vehiculele încălzite oferă o căldură binevenită între vizitele la biserică și castel. Excursia la Gmoos vă arată natura înghețată, înainte ca autobuzul să vă readucă în centrul vechi luminat. Muzeul este locația ideală pentru a petrece după-amiaza la căldură.",
+            "en": "Explore Hartberg in winter stress-free by bus, without the hassle of finding parking. The heated vehicles provide welcome warmth between visits to the Parish Church and the castle. A trip to Gmoos shows you nature in its frozen state before the bus takes you back to the illuminated old town. The museum is the perfect place to spend the afternoon in the warm."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Bus Station & Walk to Main Square",
+              "tip_5lang": {
+                "de": "Der Busbahnhof verfügt über einen beheizten Wartesaal.",
+                "hu": "A buszpályaudvaron fűtött váróterem áll rendelkezésre.",
+                "ro": "Autogara dispune de o sală de așteptare încălzită.",
+                "en": "The bus station has a heated waiting room available."
+              }
+            },
+            {
+              "name": "Parish Church & Charnel House",
+              "tip_5lang": {
+                "de": "Warten Sie in der Kirche, wenn der Bus erst in einigen Minuten kommt.",
+                "hu": "Várjon a templomban, ha a busz csak pár perc múlva érkezik.",
+                "ro": "Așteptați în biserică dacă autobuzul vine abia peste câteva minute.",
+                "en": "Wait inside the church if the bus is arriving in a few minutes."
+              }
+            },
+            {
+              "name": "Hartberg Castle",
+              "tip_5lang": {
+                "de": "Die Haltestelle 'Schloss' ist auch im Winter gut geräumt.",
+                "hu": "A 'Schloss' megállót télen is jól takarítják.",
+                "ro": "Stația 'Schloss' este bine deszăpezită și iarna.",
+                "en": "The 'Schloss' stop is well-cleared even in winter."
+              }
+            },
+            {
+              "name": "Bus ride to Gmoos",
+              "tip_5lang": {
+                "de": "Der Bus ist die sicherste Wahl, um bei Schnee zum Gmoos zu kommen.",
+                "hu": "Hóban a busz a legbiztonságosabb választás a Gmoos megközelítéséhez.",
+                "ro": "Autobuzul este cea mai sigură alegere pentru a ajunge la Gmoos pe zăpadă.",
+                "en": "The bus is the safest choice to get to Gmoos during snowy weather."
+              }
+            },
+            {
+              "name": "Return to the Center & Museum",
+              "tip_5lang": {
+                "de": "Genießen Sie die Fahrt durch die weihnachtlich geschmückten Gassen.",
+                "hu": "Élvezze az utazást a karácsonyi díszbe öltözött utcákon.",
+                "ro": "Bucurați-vă de drumul prin străzile decorate festiv.",
+                "en": "Enjoy the ride through the festively decorated streets."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie Echtzeit-Apps, um Wartezeiten in der Kälte zu vermeiden.",
+              "Bedenken Sie, dass Busse bei extremem Schneefall Verspätung haben können.",
+              "In Hartberg verkehren auch Citybusse, die die Ortsteile gut verbinden.",
+              "Warme Schuhe sind wichtig für die Wege zu den Haltestellen."
+            ],
+            "hu": [
+              "Használjon valós idejű menetrendi alkalmazást, hogy elkerülje a hidegben várakozást.",
+              "Vegye figyelembe, hogy extrém hóesésben a buszok késhetnek.",
+              "Hartbergben helyi járatok is közlekednek, melyek jól összekötik a városrészeket.",
+              "A megállókhoz vezető utakhoz fontos a meleg lábbeli."
+            ],
+            "ro": [
+              "Folosiți aplicații de transport în timp real pentru a evita așteptarea în frig.",
+              "Rețineți că autobuzele pot avea întârzieri în caz de ninsori abundente.",
+              "În Hartberg circulă și autobuze locale care conectează bine cartierele.",
+              "Încălțămintea călduroasă este esențială pentru drumul spre stații."
+            ],
+            "en": [
+              "Use real-time apps to avoid long waiting times in the cold.",
+              "Keep in mind that buses may have delays during extreme snowfall.",
+              "Hartberg also has city buses that connect the local districts well.",
+              "Warm shoes are important for the walks to the bus stops."
+            ]
+          }
+        }
       }
     }
   }

@@ -379,6 +379,206 @@
           "Book tickets for the Roman Baths online in advance to avoid queues.",
           "Be prepared for hills if you venture away from the main centre."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Morgen am Circus unter dem Regenschirm; die Architektur wirkt im Regen dramatisch. Das Jane Austen Centre bietet danach einen perfekten, trockenen Rückzugsort mit Teestube. Mittags erkunden Sie die weitläufigen, teils überdachten Römischen Bäder. Den Nachmittag verbringen Sie geschützt in der Abtei und beenden den Tag in den warmen Galerien des Holburne Museums.",
+            "hu": "Kezdje a reggelt az esernyője alatt a Circus-nál; az építészet esőben is drámai. A Jane Austen Központ tökéletes száraz menedék egy teázóval. Délben a római fürdők fedett részeit fedezzük fel, majd az Apátság óv meg a záportól. A napot a Holburne Múzeum meleg galériái között zárjuk, távol a szürke az utcáktól.",
+            "ro": "Începeți dimineața la Circus sub umbrelă; arhitectura pare dramatică în ploaie. Centrul Jane Austen oferă un refugiu uscat perfect, cu o ceainărie primitoare. La prânz, explorați băile romane, parțial acoperite. După-amiaza este petrecută în siguranță în Abație, încheind ziua în galeriile calde ale Muzeului Holburne.",
+            "en": "Start the morning at the Circus under an umbrella; the architecture looks dramatic in the rain. The Jane Austen Centre provides a perfect dry retreat with a tea room. At noon, explore the extensive, partly covered Roman Baths. Spend the afternoon sheltered in the Abbey and finish the day in the warm galleries of the Holburne Museum."
+          },
+          "stops": [
+            {
+              "name": "The Circus",
+              "tip_5lang": {
+                "de": "Vorsicht, der nasse Kalkstein kann rutschig sein.",
+                "hu": "Vigyázat, a vizes mészkő csúszós lehet.",
+                "ro": "Atenție, calcarul ud poate fi alunecos.",
+                "en": "Caution, wet limestone can be slippery."
+              }
+            },
+            {
+              "name": "Royal Crescent",
+              "tip_5lang": {
+                "de": "Die Kolonnaden bieten kurzzeitig Schutz vor Schauern.",
+                "hu": "Az oszlopsorok rövid menedéket nyújtanak zápor esetén.",
+                "ro": "Coloanele oferă un scurt refugiu în caz de aversă.",
+                "en": "The colonnades offer brief shelter during showers."
+              }
+            },
+            {
+              "name": "Jane Austen Centre",
+              "tip_5lang": {
+                "de": "Genießen Sie einen warmen Tee im 'Regency Tea Room'.",
+                "hu": "Élvezzen egy meleg teát a Regency teázóban.",
+                "ro": "Savurați un ceai cald în salonul de ceai Regency.",
+                "en": "Enjoy a warm tea in the Regency Tea Room upstairs."
+              }
+            },
+            {
+              "name": "Roman Baths",
+              "tip_5lang": {
+                "de": "Große Teile des Rundgangs sind überdacht und trocken.",
+                "hu": "A túraútvonal nagy része fedett és száraz.",
+                "ro": "Mari părți ale traseului sunt acoperite și uscate.",
+                "en": "Large parts of the tour are covered and dry."
+              }
+            },
+            {
+              "name": "Bath Abbey",
+              "tip_5lang": {
+                "de": "Bewundern Sie das Fächergewölbe, während es draußen regnet.",
+                "hu": "Csodálja meg a legyezőboltozatot az eső elől bújva.",
+                "ro": "Admirați bolta în evantai în timp ce afară plouă.",
+                "en": "Admire the fan vaulting while sheltering from the rain."
+              }
+            },
+            {
+              "name": "Pulteney Bridge",
+              "tip_5lang": {
+                "de": "Die Brücke ist gesäumt von kleinen, trockenen Läden.",
+                "hu": "A hidat kis, száraz üzletek sora szegélyezi.",
+                "ro": "Podul este mărginit de mici magazine uscate.",
+                "en": "The bridge is lined with small, dry shops."
+              }
+            },
+            {
+              "name": "Holburne Museum",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um den späten Nachmittag im Trockenen zu verbringen.",
+                "hu": "Ideális hely a késő délután szárazon töltéséhez.",
+                "ro": "Un loc ideal pentru a petrece după-amiaza la adăpost.",
+                "en": "An ideal place to spend the late afternoon in the dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für die Kalksteinpflaster.",
+              "Nutzen Sie die vielen Teestuben als Zwischenstopps.",
+              "Die Römischen Bäder sind bei Regen besonders atmosphärisch.",
+              "Vermeiden Sie die Uferpfade, wenn diese schlammig sind."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a mészkő burkolatokhoz.",
+              "Használja a teázókat pihenőhelyként az eső elől.",
+              "A római fürdők esőben kifejezetten hangulatosak.",
+              "Kerülje a sárga folyóparti ösvényeket nagy esőben."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru trotuarele de calcar.",
+              "Folosiți numeroasele ceainării ca opriri intermediare.",
+              "Băile romane sunt extrem de atmosferice pe ploaie.",
+              "Evitați potecile de pe malul râului dacă sunt noroioase."
+            ],
+            "en": [
+              "Wear waterproof shoes for the limestone pavements.",
+              "Use the many tea rooms as pit stops from the rain.",
+              "The Roman Baths are especially atmospheric in wet weather.",
+              "Avoid riverside paths if they become muddy."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen am Circus betont die georgianische Symmetrie. Im Jane Austen Centre wärmen Sie sich bei historischem Ambiente auf. Mittags steigen Dampfwolken über den heißen Quellen der Römischen Bäder auf – ein magischer Anblick. Da es früh dunkel wird, leuchten die Lichter der Abtei und des Pulteney Bridge besonders stimmungsvoll am späten Nachmittag.",
+            "hu": "A fagyos reggel a Circus-nál kiemeli a georgián szimmetriát. A Jane Austen Központban történelmi hangulatban melegedhet fel. Délben a római fürdők forró forrásai felett felszálló gőzfelhők mágikus látványt nyújtanak. Mivel korán sötétedik, az Apátság és a Pulteney híd fényei már késő délután ünnepi hangulatot árasztanak.",
+            "ro": "O dimineață geroasă la Circus subliniază simetria georgiană. Încălziți-vă la Centrul Jane Austen într-o ambianță istorică. La prânz, norii de abur de deasupra izvoarelor fierbinți de la Băile Romane oferă o priveliște magică. Deoarece se întunecă devreme, luminile Abației și ale Podului Pulteney creează o atmosferă deosebită.",
+            "en": "A frosty morning at the Circus highlights the Georgian symmetry. Warm up in historical surroundings at the Jane Austen Centre. At noon, steam clouds rising over the hot springs of the Roman Baths offer a magical sight. As dusk falls early, the lights of the Abbey and Pulteney Bridge create a festive atmosphere by late afternoon."
+          },
+          "stops": [
+            {
+              "name": "The Circus",
+              "tip_5lang": {
+                "de": "Das Licht am frühen Morgen ist ideal für Fotos.",
+                "hu": "A kora reggeli fények ideálisak a fotózáshoz.",
+                "ro": "Lumina de dimineață este ideală pentru fotografii.",
+                "en": "Early morning light is ideal for photography here."
+              }
+            },
+            {
+              "name": "Royal Crescent",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stellen auf dem Rasenweg.",
+                "hu": "Ügyeljen a jeges foltokra a pázsit melletti úton.",
+                "ro": "Atenție la porțiunile înghețate de pe alee.",
+                "en": "Watch out for icy patches on the lawn path."
+              }
+            },
+            {
+              "name": "Jane Austen Centre",
+              "tip_5lang": {
+                "de": "Der Shop bietet schöne, warme Souvenirs.",
+                "hu": "A bolt szép, melengető szuveníreket kínál.",
+                "ro": "Magazinul oferă suveniruri frumoase și călduroase.",
+                "en": "The shop offers lovely, warm souvenirs."
+              }
+            },
+            {
+              "name": "Roman Baths",
+              "tip_5lang": {
+                "de": "Der Dampf ist bei kalter Luft besonders beeindruckend.",
+                "hu": "A gőz a hideg levegőben különösen lenyűgöző.",
+                "ro": "Aburul este deosebit de impresionant în aerul rece.",
+                "en": "The steam is especially impressive in the cold air."
+              }
+            },
+            {
+              "name": "Bath Abbey",
+              "tip_5lang": {
+                "de": "Suchen Sie im Inneren Schutz vor dem kalten Wind.",
+                "hu": "Keresse a belső tér nyugalmát a hideg szél elől.",
+                "ro": "Căutați adăpost în interior împotriva vântului rece.",
+                "en": "Seek shelter inside against the cold winter wind."
+              }
+            },
+            {
+              "name": "Pulteney Bridge",
+              "tip_5lang": {
+                "de": "Die Beleuchtung wirkt bei früher Dämmerung wunderbar.",
+                "hu": "A kivilágítás csodás a korai szürkületben.",
+                "ro": "Iluminatul arată minunat în amurgul timpuriu.",
+                "en": "The lighting looks wonderful in the early dusk."
+              }
+            },
+            {
+              "name": "Holburne Museum",
+              "tip_5lang": {
+                "de": "Die beheizten Galerien sind ein perfekter Tagesabschluss.",
+                "hu": "A fűtött galériák tökéletes zárásai a napnak.",
+                "ro": "Galeriile încălzite sunt un final perfect de zi.",
+                "en": "The heated galleries are a perfect end to the day."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich in Schichten für den wechselnden Wind.",
+              "Der Sonnenuntergang ist bereits gegen 16:30 Uhr.",
+              "Genießen Sie eine heiße Schokolade in einem Café.",
+              "Die Straßen können bei Frost glatt sein."
+            ],
+            "hu": [
+              "Öltözzön rétegesen a változékony szél miatt.",
+              "A napnyugta már 16:30 körül bekövetkezik.",
+              "Élvezzen egy forró csokoládét valamelyik kávézóban.",
+              "Az utcák fagy esetén csúszósak lehetnek."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi pentru vântul schimbător.",
+              "Apusul soarelui este deja în jur de ora 16:30.",
+              "Savurați o ciocolată caldă într-o cafenea locală.",
+              "Străzile pot fi alunecoase în caz de îngheț."
+            ],
+            "en": [
+              "Dress in layers for the varying winter wind.",
+              "Sunset occurs early, around 16:30.",
+              "Enjoy a hot chocolate in a local cafe.",
+              "Streets can be slippery during frosty conditions."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -729,6 +929,188 @@
           "Utilise the Two Tunnels Greenway for a longer, traffic-free ride.",
           "Always lock your bike as theft can be an issue."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen ist Bath per Rad erkundbar. Starten Sie an der Pulteney Bridge und fahren Sie zum Holburne Museum. Die Route entlang des Kennet und Avon Kanals kann matschig sein, bietet aber unter Brücken Schutz. Mittags wärmen Sie sich in der Nähe der Abtei auf, bevor Sie die Römischen Bäder besuchen. Beenden Sie die Tour am Royal Crescent, wenn der Regen nachlässt.",
+            "hu": "Eső ellenére Bath felfedezhető kerékpárral. Kezdjen a Pulteney hídnál, majd tekerjen a Holburne Múzeumhoz. A Kennet és Avon csatorna menti út saras lehet, de a hidak alatt menedéket találhat. Délben melegedjen fel az Apátság közelében a római fürdők előtt. Zárja a kört a Royal Crescentnél, remélve a szemerkélés végét.",
+            "ro": "În ciuda ploii, Bath poate fi explorat cu bicicleta. Începeți la Podul Pulteney și pedalați spre Muzeul Holburne. Traseul de-a lungul canalului poate fi noroios, dar oferă adăpost sub poduri. La prânz, încălziți-vă lângă Abație înainte de vizita la băile romane. Încheiați turul la Royal Crescent când ploaia se mai domolește.",
+            "en": "Despite the rain, Bath is bikeable. Start at Pulteney Bridge and cycle to the Holburne Museum. The route along the Kennet and Avon Canal can be muddy but offers shelter under bridges. At noon, warm up near the Abbey before visiting the Roman Baths. Finish the tour at Royal Crescent when the rain subsides."
+          },
+          "stops": [
+            {
+              "name": "Pulteney Bridge",
+              "tip_5lang": {
+                "de": "Vorsicht beim Bremsen auf nassem Kopfsteinpflaster.",
+                "hu": "Vigyázzon a fékezéssel a vizes macskakövön.",
+                "ro": "Atenție la frânare pe pavajul umed.",
+                "en": "Careful when braking on wet cobblestones."
+              }
+            },
+            {
+              "name": "Holburne Museum",
+              "tip_5lang": {
+                "de": "Fahrradständer befinden sich am Eingang.",
+                "hu": "Kerékpártárolók a bejáratnál találhatók.",
+                "ro": "Suporturile pentru biciclete sunt la intrare.",
+                "en": "Bike racks are located near the entrance."
+              }
+            },
+            {
+              "name": "Kennet and Avon Canal",
+              "tip_5lang": {
+                "de": "Der Treidelpfad kann sehr rutschig und schlammig sein.",
+                "hu": "A vontatóút nagyon csúszós és sáros lehet.",
+                "ro": "Calea de pe mal poate fi foarte alunecoasă și noroioasă.",
+                "en": "The towpath can be very slippery and muddy."
+              }
+            },
+            {
+              "name": "Bath Abbey",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad an den öffentlichen Bügeln ab.",
+                "hu": "Hagyja kerékpárját a nyilvános tárolóknál.",
+                "ro": "Lăsați bicicleta la rastelele publice.",
+                "en": "Leave your bike at the public racks provided."
+              }
+            },
+            {
+              "name": "Roman Baths",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit drinnen, um die Kleidung zu trocknen.",
+                "hu": "Használja a benti időt a ruházat szárítására.",
+                "ro": "Folosiți timpul în interior pentru a vă usca hainele.",
+                "en": "Use the time inside to dry off your gear."
+              }
+            },
+            {
+              "name": "Royal Crescent",
+              "tip_5lang": {
+                "de": "Die offene Fläche bietet wenig Schutz vor Wind.",
+                "hu": "A nyitott tér kevés védelmet nyújt a szél ellen.",
+                "ro": "Zona deschisă oferă puțin adăpost contra vântului.",
+                "en": "The open space offers little shelter from wind."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine vollflächige Regenjacke.",
+              "Vermeiden Sie schnelle Kurven auf nassem Pflaster.",
+              "Nutzen Sie Schutzbleche gegen Spritzwasser.",
+              "Halterungen für Schlösser sind oft nass."
+            ],
+            "hu": [
+              "Viseljen teljes esőruházatot.",
+              "Kerülje a hirtelen kanyarodást a vizes kövön.",
+              "Használjon sárvédőt a felcsapódó víz ellen.",
+              "A lakatok és tárolók gyakran vizesek."
+            ],
+            "ro": [
+              "Purtați o jachetă impermeabilă completă.",
+              "Evitați virajele strânse pe pavajul umed.",
+              "Folosiți aripi pentru a evita stropirea.",
+              "Suporturile pentru antifurt sunt adesea ude."
+            ],
+            "en": [
+              "Wear full waterproof cycling gear.",
+              "Avoid sharp turns on wet cobblestones.",
+              "Ensure you have mudguards to prevent splashes.",
+              "Bike locks and racks will be wet to the touch."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine Wintertour per Rad erfordert warme Handschuhe. Beginnen Sie an der Pulteney Bridge im Morgennebel. Die Fahrt am Kanal ist im Winter ruhig und friedlich, aber kalt. Mittags locken die Römischen Bäder mit ihrer natürlichen Wärme. Achten Sie auf die frühe Dämmerung, wenn Sie zum Royal Crescent radeln, um die beleuchtete Stadt zu sehen.",
+            "hu": "A téli kerékpáros túrához meleg kesztyű kell. Kezdjen a Pulteney hídnál a reggeli ködben. A csatorna menti út télen csendes és békés, de hideg. Délben a római fürdők természetes melege csábít. Ügyeljen a korai szürkületre, amikor a Royal Crescent felé teker, hogy lássa a kivilágított várost.",
+            "ro": "Un tur de iarnă cu bicicleta necesită mănuși calde. Începeți la Podul Pulteney în ceața dimineții. Drumul pe canal este liniștit iarna, dar friguros. La prânz, căldura naturală a băilor romane este tentantă. Atenție la amurgul timpuriu când pedalați spre Royal Crescent.",
+            "en": "A winter bike tour requires warm gloves. Start at Pulteney Bridge in the morning mist. The canal path is quiet and peaceful in winter, but cold. At noon, the natural warmth of the Roman Baths is inviting. Watch for the early dusk as you cycle toward the Royal Crescent to see the city illuminated."
+          },
+          "stops": [
+            {
+              "name": "Pulteney Bridge",
+              "tip_5lang": {
+                "de": "Vorsicht vor Frost auf der Fahrbahn.",
+                "hu": "Vigyázzon a faggyal az úttesten.",
+                "ro": "Atenție la gheața de pe carosabil.",
+                "en": "Watch out for frost on the road surface."
+              }
+            },
+            {
+              "name": "Holburne Museum",
+              "tip_5lang": {
+                "de": "Das Café ist ideal zum Aufwärmen.",
+                "hu": "A kávézó ideális a felmelegedéshez.",
+                "ro": "Cafeneaua este ideală pentru încălzire.",
+                "en": "The cafe is ideal for warming up."
+              }
+            },
+            {
+              "name": "Kennet and Avon Canal",
+              "tip_5lang": {
+                "de": "Der Wind am Wasser ist im Winter schneidend.",
+                "hu": "A vízparti szél télen metsző lehet.",
+                "ro": "Vântul de lângă apă este tăios iarna.",
+                "en": "The wind by the water is biting in winter."
+              }
+            },
+            {
+              "name": "Bath Abbey",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Abtei für einen Moment der Ruhe.",
+                "hu": "Látogassa meg az Apátságot egy kis nyugalomért.",
+                "ro": "Vizitați Abația pentru un moment de liniște.",
+                "en": "Visit the Abbey for a moment of quiet warmth."
+              }
+            },
+            {
+              "name": "Roman Baths",
+              "tip_5lang": {
+                "de": "Die Wärme der Quellen ist draußen spürbar.",
+                "hu": "A források melege kint is érezhető.",
+                "ro": "Căldura izvoarelor se simte afară.",
+                "en": "The warmth from the springs is palpable outside."
+              }
+            },
+            {
+              "name": "Royal Crescent",
+              "tip_5lang": {
+                "de": "Das Licht am Nachmittag ist oft sehr klar.",
+                "hu": "A délutáni fények gyakran nagyon tiszták.",
+                "ro": "Lumina de după-amiază este adesea foarte clară.",
+                "en": "The afternoon light is often very crisp and clear."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winddichte Kleidung ist im Winter unerlässlich.",
+              "Stellen Sie sicher, dass Ihre Fahrradlichter funktionieren.",
+              "Trinken Sie zwischendurch warme Getränke.",
+              "Rechnen Sie mit Glätte auf Brücken."
+            ],
+            "hu": [
+              "A szélálló ruházat elengedhetetlen télen.",
+              "Győződjön meg róla, hogy a lámpák működnek.",
+              "Igyon meleg italokat a megállókban.",
+              "Számítson jegesedésre a hidakon."
+            ],
+            "ro": [
+              "Îmbrăcămintea rezistentă la vânt este esențială.",
+              "Asigurați-vă că luminile bicicletei funcționează.",
+              "Beți băuturi calde între opriri.",
+              "Așteptați-vă la polei pe poduri."
+            ],
+            "en": [
+              "Windproof clothing is essential in winter.",
+              "Ensure your bike lights are working for the early dusk.",
+              "Drink warm beverages during your stops.",
+              "Expect icy conditions on bridges."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1108,6 +1490,206 @@
           "Bath has a Clean Air Zone, so check if your vehicle is subject to charges.",
           "A car allows you to easily explore nearby attractions like the Cotswolds."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Bath bei Regen am bequemsten. Parken Sie in der Charlotte Street und erreichen Sie Circus und Crescent schnell. Die Römischen Bäder und die Abtei liegen im Zentrum eng beieinander, ideal für kurze Wege im Freien. Nachmittags fahren Sie zur Pulteney Bridge und zum Holburne Museum, während Prior Park eine nasse, aber grüne Idylle bleibt.",
+            "hu": "Autóval Bath esőben a legkényelmesebb. Parkoljon a Charlotte Streeten, így gyorsan eléri a Circust és a Crescentet. A római fürdők és az Apátság a központban közel vannak egymáshoz, minimálisra csökkentve az esőben töltött időt. Délután látogasson el a Holburne Múzeumhoz, míg a Prior Park nedves, de zöld idill marad.",
+            "ro": "Cu mașina, Bath este cel mai confortabil pe ploaie. Parcați pe Charlotte Street pentru a ajunge rapid la Circus și Crescent. Băile romane și Abația sunt aproape una de alta în centru, ideale pentru distanțe scurte afară. După-amiaza conduceți spre Podul Pulteney, în timp ce Prior Park rămâne o idilă verde, deși udă.",
+            "en": "By car, Bath is most comfortable in the rain. Park at Charlotte Street to reach the Circus and Crescent quickly. The Roman Baths and Abbey are close together in the center, minimizing time spent in the wet. In the afternoon, drive to Pulteney Bridge and Holburne Museum, while Prior Park remains a lush, green, albeit rainy, escape."
+          },
+          "stops": [
+            {
+              "name": "Charlotte Street Car Park",
+              "tip_5lang": {
+                "de": "Zahlen Sie per App, um nicht im Regen zu warten.",
+                "hu": "Fizessen applikációval, hogy ne kelljen az esőben állni.",
+                "ro": "Plătiți prin aplicație pentru a nu sta în ploaie.",
+                "en": "Pay via app to avoid standing at machines in the rain."
+              }
+            },
+            {
+              "name": "The Circus & Royal Crescent",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Parkplatz zum Crescent.",
+                "hu": "Rövid séta a parkolótól a Crescentig.",
+                "ro": "Scurtă plimbare de la parcare la Crescent.",
+                "en": "Short walk from the car park to the Crescent."
+              }
+            },
+            {
+              "name": "Roman Baths & Bath Abbey",
+              "tip_5lang": {
+                "de": "Zentrale Lage, gut erreichbar vom Parkhaus.",
+                "hu": "Központi fekvés, jól elérhető a parkolóházból.",
+                "ro": "Locație centrală, ușor accesibilă din parcare.",
+                "en": "Central location, easily accessible from city parking."
+              }
+            },
+            {
+              "name": "Pulteney Bridge",
+              "tip_5lang": {
+                "de": "Parkplätze in der Nähe sind oft schnell belegt.",
+                "hu": "A közeli parkolóhelyek gyakran hamar betelnek.",
+                "ro": "Locurile de parcare din apropiere se ocupă rapid.",
+                "en": "Nearby parking spots fill up quickly in the rain."
+              }
+            },
+            {
+              "name": "Holburne Museum",
+              "tip_5lang": {
+                "de": "Kostenpflichtiger Parkplatz direkt am Museum.",
+                "hu": "Fizetős parkoló közvetlenül a múzeumnál.",
+                "ro": "Parcare cu plată chiar lângă muzeu.",
+                "en": "Pay and display parking right at the museum."
+              }
+            },
+            {
+              "name": "Prior Park Landscape Garden",
+              "tip_5lang": {
+                "de": "Die Wege können sehr matschig sein.",
+                "hu": "Az ösvények nagyon sarasak lehetnek.",
+                "ro": "Potecile pot fi foarte noroioase.",
+                "en": "Paths can be very muddy in wet weather."
+              }
+            },
+            {
+              "name": "Return to Car Park",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Kleidung auf Nässe im Auto.",
+                "hu": "Ellenőrizze a vizes ruhákat az autóba szálláskor.",
+                "ro": "Verificați hainele ude înainte de a urca în mașină.",
+                "en": "Check for wet umbrellas before getting in the car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie Park-and-Ride-Plätze bei starkem Regen.",
+              "Charlotte Street ist der größte zentrumsnahe Parkplatz.",
+              "Behalten Sie einen Schirm griffbereit im Auto.",
+              "Achten Sie auf Pfützen in den historischen Rinnen."
+            ],
+            "hu": [
+              "Használja a P+R parkolókat heves esőzéskor.",
+              "A Charlotte Street a legnagyobb központközeli parkoló.",
+              "Tartson esernyőt kéznél az autóban.",
+              "Ügyeljen a tócsákra a történelmi csatornák mentén."
+            ],
+            "ro": [
+              "Folosiți parcările Park-and-Ride în caz de ploaie torențială.",
+              "Charlotte Street este cea mai mare parcare de lângă centru.",
+              "Țineți o umbrelă la îndemână în mașină.",
+              "Atenție la bălțile din rigolele istorice."
+            ],
+            "en": [
+              "Use Park and Ride sites if city center traffic is heavy.",
+              "Charlotte Street is the largest central car park.",
+              "Keep an umbrella within easy reach in the car.",
+              "Watch out for puddles in the historic stone gutters."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter bietet das Auto eine warme Basis für Ihre Stadterkundung. Nach dem frostigen Besuch von Circus und Crescent können Sie sich auf der Fahrt zum Zentrum aufwärmen. Die Römischen Bäder dampfen einladend in der Kälte. Am Nachmittag bietet der Prior Park Garden einen klaren Winterblick über die Stadt, bevor Sie im beheizten Auto zurückkehren.",
+            "hu": "Télen az autó meleg bázist nyújt a város felfedezéséhez. A fagyos Circus és Crescent látogatás után felmelegedhet a központ felé menet. A római fürdők hívogatóan gőzölögnek a hidegben. Délután a Prior Park kertje tiszta téli kilátást kínál a városra, mielőtt visszatérne a fűtött autóba.",
+            "ro": "Iarna, mașina oferă o bază caldă pentru explorarea orașului. După vizita geroasă la Circus și Crescent, vă puteți încălzi pe drumul spre centru. Băile Romane scot aburi îmbietori în frig. După-amiaza, Grădina Prior Park oferă o vedere clară de iarnă asupra orașului.",
+            "en": "In winter, your car provides a warm base for exploring the city. After a frosty visit to the Circus and Crescent, warm up on the drive to the center. The Roman Baths steam invitingly in the cold. In the afternoon, Prior Park Garden offers a crisp winter view over the city before you return to your heated vehicle."
+          },
+          "stops": [
+            {
+              "name": "Charlotte Street Car Park",
+              "tip_5lang": {
+                "de": "Vorsicht vor Eis auf dem Parkplatzgelände.",
+                "hu": "Vigyázzon a jéggel a parkoló területén.",
+                "ro": "Atenție la gheața din zona parcării.",
+                "en": "Watch out for ice on the car park surface."
+              }
+            },
+            {
+              "name": "The Circus & Royal Crescent",
+              "tip_5lang": {
+                "de": "Die Fassaden leuchten golden im Winterlicht.",
+                "hu": "A homlokzatok arany színben tündökölnek a téli fényben.",
+                "ro": "Fațadele strălucesc auriu în lumina iernii.",
+                "en": "The facades glow golden in the winter light."
+              }
+            },
+            {
+              "name": "Roman Baths & Bath Abbey",
+              "tip_5lang": {
+                "de": "Der Innenraum der Abtei ist angenehm temperiert.",
+                "hu": "Az Apátság belseje kellemesen temperált.",
+                "ro": "Interiorul Abației este la o temperatură plăcută.",
+                "en": "The interior of the Abbey is kept at a pleasant temperature."
+              }
+            },
+            {
+              "name": "Pulteney Bridge",
+              "tip_5lang": {
+                "de": "Die Geschäfte sind festlich geschmückt.",
+                "hu": "Az üzletek ünnepi díszbe öltöztek.",
+                "ro": "Magazinele sunt decorate festiv.",
+                "en": "The shops are festively decorated in winter."
+              }
+            },
+            {
+              "name": "Holburne Museum",
+              "tip_5lang": {
+                "de": "Die Beleuchtung des Gebäudes ist abends wunderschön.",
+                "hu": "Az épület kivilágítása este gyönyörű.",
+                "ro": "Iluminatul clădirii este superb seara.",
+                "en": "The building's illumination is beautiful in the evening."
+              }
+            },
+            {
+              "name": "Prior Park Landscape Garden",
+              "tip_5lang": {
+                "de": "Tragen Sie feste Schuhe für gefrorenen Boden.",
+                "hu": "Viseljen erős cipőt a fagyott talajhoz.",
+                "ro": "Purtați încălțăminte solidă pentru solul înghețat.",
+                "en": "Wear sturdy shoes for the frozen ground."
+              }
+            },
+            {
+              "name": "Return to Car Park",
+              "tip_5lang": {
+                "de": "Prüfen Sie, ob die Scheiben frei von Frost sind.",
+                "hu": "Ellenőrizze, hogy a szélvédők jégmentesek-e.",
+                "ro": "Verificați dacă geamurile sunt libere de îngheț.",
+                "en": "Ensure windows are clear of frost before driving."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie die Heizung vor der Abfahrt ein.",
+              "Rechnen Sie mit mehr Verkehr in der Vorweihnachtszeit.",
+              "Einige Nebenstraßen können bei Frost glatt sein.",
+              "Nutzen Sie Parkhäuser, um Frost am Auto zu vermeiden."
+            ],
+            "hu": [
+              "Indulás előtt állítsa be a fűtést.",
+              "Számítson nagyobb forgalomra az adventi időszakban.",
+              "Néhány mellékutca fagy esetén csúszós lehet.",
+              "Használjon parkolóházakat a jegesedés elkerülésére."
+            ],
+            "ro": [
+              "Reglați încălzirea înainte de plecare.",
+              "Așteptați-vă la trafic mai intens în perioada sărbătorilor.",
+              "Unele străzi secundare pot fi alunecoase.",
+              "Folosiți parcări acoperite pentru a evita înghețul."
+            ],
+            "en": [
+              "Set the car heater before you set off.",
+              "Expect heavier traffic during the Christmas market season.",
+              "Some side streets can be slippery during frost.",
+              "Use multi-storey car parks to avoid frost on the vehicle."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1464,6 +2046,188 @@
           "Some buses accept contactless payments, but it's good to have some cash.",
           "Bus stops can be confusing, so double-check the route map beforehand."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Bus bringt Sie bei Regen trocken durch Bath. Starten Sie am Busbahnhof und fahren Sie direkt zum Zentrum für Römische Bäder und Abtei. Die Busfahrt zum Circus schützt vor dem Wetter. Nach dem Mittagessen geht es per Transit zum Holburne Museum und zum Prior Park, wo Sie die Aussicht trotz der Wolken genießen können, bevor Sie zum trockenen Bus zurückkehren.",
+            "hu": "A busz szárazon viszi át Bath-on esőben is. Kezdjen a buszpályaudvaron, és menjen egyenesen a római fürdőkhöz és az Apátsághoz. A buszozás a Circus felé megvédi az időjárástól. Ebéd után utazzon a Holburne Múzeumhoz és a Prior Parkhoz, ahol a felhők ellenére is élvezheti a kilátást a száraz buszhoz való visszatérés előtt.",
+            "ro": "Autobuzul vă poartă prin Bath la adăpost de ploaie. Începeți la autogară și mergeți direct spre centru pentru Băile Romane și Abație. Călătoria cu autobuzul spre Circus vă protejează de intemperii. După prânz, folosiți transportul spre Muzeul Holburne și Prior Park, unde vă puteți bucura de priveliște înainte de a reveni la autobuz.",
+            "en": "The bus keeps you dry while moving through Bath in the rain. Start at the Bus Station and head straight to the center for the Roman Baths and Abbey. A bus ride to the Circus protects you from the weather. After lunch, take transit to the Holburne Museum and Prior Park, enjoying the views before returning to the dry bus."
+          },
+          "stops": [
+            {
+              "name": "City Centre Arrival (Bus Station)",
+              "tip_5lang": {
+                "de": "Der Busbahnhof ist überdacht.",
+                "hu": "A buszpályaudvar fedett.",
+                "ro": "Autogara este acoperită.",
+                "en": "The bus station is covered and provides shelter."
+              }
+            },
+            {
+              "name": "Roman Baths & Bath Abbey",
+              "tip_5lang": {
+                "de": "Bushaltestellen befinden sich direkt um die Ecke.",
+                "hu": "Buszmegállók találhatók közvetlenül a sarkon.",
+                "ro": "Stațiile de autobuz sunt chiar după colț.",
+                "en": "Bus stops are located right around the corner."
+              }
+            },
+            {
+              "name": "The Circus & Royal Crescent",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Linienbusse für den Anstieg.",
+                "hu": "Használja a menetrend szerinti buszokat az emelkedőhöz.",
+                "ro": "Folosiți autobuzele de linie pentru urcare.",
+                "en": "Use local buses to avoid the uphill walk in the rain."
+              }
+            },
+            {
+              "name": "Lunch near Jane Austen Centre",
+              "tip_5lang": {
+                "de": "Viele Cafés bieten Wartebereiche im Inneren.",
+                "hu": "Sok kávézó kínál benti várakozási lehetőséget.",
+                "ro": "Multe cafenele oferă zone de așteptare în interior.",
+                "en": "Many cafes offer indoor waiting areas."
+              }
+            },
+            {
+              "name": "Holburne Museum",
+              "tip_5lang": {
+                "de": "Haltestellen befinden sich direkt vor dem Parkeingang.",
+                "hu": "A megállók közvetlenül a park bejárata előtt vannak.",
+                "ro": "Stațiile sunt chiar în fața intrării în parc.",
+                "en": "Stops are located directly in front of the park entrance."
+              }
+            },
+            {
+              "name": "Prior Park Landscape Garden",
+              "tip_5lang": {
+                "de": "Rechnen Sie mit kurzen Wartezeiten an der Haltestelle.",
+                "hu": "Számítson rövid várakozási időre a megállóban.",
+                "ro": "Așteptați-vă la scurte perioade de așteptare în stație.",
+                "en": "Expect short wait times at the bus stop."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die 'First Bus' App für Echtzeit-Infos.",
+              "Kaufen Sie ein Tagesticket für beliebig viele Fahrten.",
+              "Die Busse sind im Winter gut beheizt.",
+              "An den Haltestellen gibt es oft Unterstände."
+            ],
+            "hu": [
+              "Használja a 'First Bus' alkalmazást az infókért.",
+              "Vásároljon napijegyet a korlátlan utazáshoz.",
+              "A buszok télen jól fűtöttek.",
+              "A megállókban gyakran van esővédő tető."
+            ],
+            "ro": [
+              "Folosiți aplicația 'First Bus' pentru info în timp real.",
+              "Cumpărați un bilet de o zi pentru călătorii nelimitate.",
+              "Autobuzele sunt bine încălzite iarna.",
+              "În stații există adesea adăposturi."
+            ],
+            "en": [
+              "Use the 'First Bus' app for real-time tracking.",
+              "Buy a day ticket for unlimited travel within the city.",
+              "Buses are well-heated during the winter months.",
+              "Bus stops often have shelters to keep you dry."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter ist der Transit ideal, um der Kälte zwischen den Sehenswürdigkeiten zu entfliehen. Starten Sie warm am Busbahnhof. Nach dem Besuch der Römischen Bäder bringt Sie der Bus schnell zum Circus. Die weihnachtliche Beleuchtung der Stadt ist aus dem Busfenster am späten Nachmittag besonders schön, wenn Sie vom Holburne Museum zurückfahren.",
+            "hu": "Télen a tömegközlekedés ideális a hideg elöli meneküléshez a látnivalók között. Kezdjen a buszpályaudvaron melegben. A római fürdők után a busz gyorsan elviszi a Circus-hoz. A város karácsonyi kivilágítása a busz ablakából nézve különösen szép késő délután, amikor a Holburne Múzeumtól tér vissza.",
+            "ro": "Iarna, transportul în comun este ideal pentru a scăpa de frig între obiective. Începeți la autogară la căldură. După vizitarea Băilor Romane, autobuzul vă duce rapid la Circus. Iluminatul de Crăciun al orașului este deosebit de frumos văzut de pe geamul autobuzului seara.",
+            "en": "In winter, transit is ideal for escaping the cold between sights. Start warm at the Bus Station. After visiting the Roman Baths, the bus takes you quickly to the Circus. The city's festive lighting is especially beautiful from the bus window in the late afternoon as you return from the Holburne Museum."
+          },
+          "stops": [
+            {
+              "name": "City Centre Arrival (Bus Station)",
+              "tip_5lang": {
+                "de": "Der Bahnhof bietet beheizte Wartehallen.",
+                "hu": "A pályaudvar fűtött váróteremmel rendelkezik.",
+                "ro": "Gara oferă săli de așteptare încălzite.",
+                "en": "The station offers heated waiting areas."
+              }
+            },
+            {
+              "name": "Roman Baths & Bath Abbey",
+              "tip_5lang": {
+                "de": "Kurze Wege zu den zentralen Plätzen.",
+                "hu": "Rövid utak a központi terekhez.",
+                "ro": "Distanțe scurte până la piețele centrale.",
+                "en": "Short distances to the central squares."
+              }
+            },
+            {
+              "name": "The Circus & Royal Crescent",
+              "tip_5lang": {
+                "de": "Warme Busse machen den Hügel angenehm.",
+                "hu": "A meleg buszok kényelmessé teszik a dombmászást.",
+                "ro": "Autobuzele calde fac urcarea pe deal plăcută.",
+                "en": "Warm buses make the uphill trip pleasant."
+              }
+            },
+            {
+              "name": "Lunch near Jane Austen Centre",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in den nahegelegenen Bistros auf.",
+                "hu": "Melegedjen fel a közeli bisztrókban.",
+                "ro": "Încălziți-vă în bistrourile din apropiere.",
+                "en": "Warm up in the nearby bistros."
+              }
+            },
+            {
+              "name": "Holburne Museum",
+              "tip_5lang": {
+                "de": "Der Bus fährt regelmäßig zurück zum Zentrum.",
+                "hu": "A busz rendszeresen jár vissza a központba.",
+                "ro": "Autobuzul circulă regulat înapoi spre centru.",
+                "en": "The bus runs regularly back to the city center."
+              }
+            },
+            {
+              "name": "Prior Park Landscape Garden",
+              "tip_5lang": {
+                "de": "Der Blick auf Bath ist bei klarer Winterluft am besten.",
+                "hu": "A kilátás tiszta téli levegőben a legjobb.",
+                "ro": "Vederea asupra orașului e optimă în aerul clar de iarnă.",
+                "en": "The view over Bath is best in the crisp winter air."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Winterfahrpläne.",
+              "Kontaktloses Bezahlen ist in allen Bussen möglich.",
+              "Die Busse sind eine warme Alternative zum Gehen.",
+              "Die obere Etage bietet die beste Aussicht."
+            ],
+            "hu": [
+              "Ügyeljen a téli menetrendre.",
+              "Érintésmentes fizetés minden buszon lehetséges.",
+              "A buszok meleg alternatívát kínálnak a gyalogláshoz.",
+              "A felső szint kínálja a legjobb kilátást."
+            ],
+            "ro": [
+              "Atenție la orarele de iarnă.",
+              "Plata contactless este posibilă în toate autobuzele.",
+              "Autobuzele sunt o alternativă caldă la mersul pe jos.",
+              "Etajul superior oferă cea mai bună vedere."
+            ],
+            "en": [
+              "Check for any winter schedule adjustments.",
+              "Contactless payment is available on all buses.",
+              "Buses are a warm alternative to walking uphill.",
+              "The top deck offers the best views of festive lights."
+            ]
+          }
+        }
       }
     }
   }

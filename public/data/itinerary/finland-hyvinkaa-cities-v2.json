@@ -293,6 +293,170 @@
           "In winter, the sidewalks can be slippery, spikes are recommended.",
           "Many cafes in the center offer reasonably priced lunch menus."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt im Villatehdas, wo die alten Backsteinmauern Schutz vor dem finnischen Regen bieten. Ein kurzer, schirmbewehrter Spaziergang führt zum Kunstmuseum, ideal für graue Stunden.\r\nMittags suchen wir die moderne Pyramidenkirche auf, deren Architektur auch bei wolkenverhangenem Himmel beeindruckt, bevor es zum Eisenbahnmuseum geht.\r\nNachmittags erkunden wir die Lokomotiven in den Hallen des Eisenbahnmuseums, weitgehend trocken und geschützt vor den Schauern.\r\nDer Abend klingt in der Promenadi-Halle aus, einem kulturellen Zentrum, das gemütliche Zuflucht vor dem nassen Wetter bietet.",
+            "hu": "A reggel a Villatehdas falai között indul, ahol a régi gyárépületek menedéket nyújtanak az eső elől. Egy rövid esernyős séta vezet a Művészeti Múzeumba, amely tökéletes a szürke órákra.\r\nDélben a modern, piramis alakú templomot keressük fel, melynek látványa borús időben is lenyűgöző, majd a Vasúttörténeti Múzeum felé vesszük az irányt.\r\nDélután a vasúti csarnokokban nézzük meg a régi mozdonyokat, ahol fedett helyen maradhatunk az eső elől.\r\nAz estét a Promenadi-csarnokban zárjuk, amely kulturális központként meleg és száraz búvóhelyet kínál a város szívében.",
+            "ro": "Dimineața începe la Villatehdas, unde zidurile vechi de cărămidă oferă adăpost împotriva ploii finlandeze. O scurtă plimbare cu umbrela duce la Muzeul de Artă, ideal pentru orele cenușii.\r\nLa prânz vizităm biserica modernă în formă de piramidă, a cărei arhitectură impresionează chiar și sub cerul noros, înainte de a merge la Muzeul Căilor Ferate.\r\nDupă-amiaza explorăm locomotivele în halele muzeului feroviar, rămânând în mare parte uscați și protejați de averse.\r\nSeara se încheie la Promenadi-sali, un centru cultural care oferă un refugiu confortabil împotriva vremii umede.",
+            "en": "The morning starts at Villatehdas, where the old brick walls provide shelter from the Finnish rain. A short, umbrella-covered walk leads to the Art Museum, perfect for gray hours.\r\nAt noon, we visit the modern pyramid church, whose architecture impresses even under overcast skies, before heading to the Railway Museum.\r\nIn the afternoon, we explore the locomotives in the railway museum's halls, staying largely dry and protected from the showers.\r\nThe evening winds down at Promenadi-sali, a cultural center providing a cozy refuge from the wet weather."
+          },
+          "stops": [
+            {
+              "name": "Villatehdas",
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Passagen zwischen den Fabrikgebäuden.",
+                "hu": "Használja a gyárépületek közötti fedett átjárókat.",
+                "ro": "Folosiți pasajele acoperite dintre clădirile fabricii.",
+                "en": "Use the covered passages between the factory buildings."
+              }
+            },
+            {
+              "name": "Kunstmuseum Hyvinkää",
+              "tip_5lang": {
+                "de": "Garderobe im Eingangsbereich nutzen, um nasse Mäntel abzugeben.",
+                "hu": "Használja a bejáratnál lévő ruhatárat a vizes kabátoknak.",
+                "ro": "Folosiți garderoba de la intrare pentru a lăsa hainele ude.",
+                "en": "Use the cloakroom at the entrance to leave wet coats."
+              }
+            },
+            {
+              "name": "Kirche von Hyvinkää",
+              "tip_5lang": {
+                "de": "Das steile Dach leitet Regenwasser spektakulär ab.",
+                "hu": "A meredek tető látványosan vezeti el az esővizet.",
+                "ro": "Acoperișul abrupt drenează apa de ploaie în mod spectaculos.",
+                "en": "The steep roof drains rainwater spectacularly."
+              }
+            },
+            {
+              "name": "Finnisches Eisenbahnmuseum",
+              "tip_5lang": {
+                "de": "Konzentrieren Sie sich auf die Ausstellungsstücke in den runden Lokschuppen.",
+                "hu": "Összpontosítson a kerek fűtőházban található kiállítási tárgyakra.",
+                "ro": "Concentrați-vă pe exponatele din depourile circulare de locomotive.",
+                "en": "Focus on the exhibits inside the round engine sheds."
+              }
+            },
+            {
+              "name": "Promenadi-sali",
+              "tip_5lang": {
+                "de": "Perfekter Ort für einen heißen Kaffee während es draußen stürmt.",
+                "hu": "Tökéletes hely egy forró kávéra, miközben odakint esik.",
+                "ro": "Locul perfect pentru o cafea fierbinte în timp ce afară plouă.",
+                "en": "Perfect place for a hot coffee while it's storming outside."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Hyvinkää hat ein kompaktes Zentrum, aber gute Schuhe sind bei Nässe Pflicht.",
+              "Die Museen liegen nah beieinander, ideal für 'Museum-Hopping' im Regen.",
+              "Nutzen Sie die Unterführung am Bahnhof, um trocken die Gleise zu queren.",
+              "Die Kirche bietet einen ruhigen, trockenen Rückzugsort zur Meditation."
+            ],
+            "hu": [
+              "Hyvinkää központja kompakt, de a vízálló cipő esőben kötelező.",
+              "A múzeumok közel vannak egymáshoz, ideálisak egy esős napra.",
+              "Használja az állomás alatti aluljárót, hogy szárazon keljen át a síneken.",
+              "A templom csendes, száraz menedéket nyújt az eső elől."
+            ],
+            "ro": [
+              "Centrul orașului Hyvinkää este compact, dar încălțămintea impermeabilă este obligatorie pe ploaie.",
+              "Muzeele sunt aproape unul de celălalt, ideale pentru vizite succesive pe ploaie.",
+              "Folosiți pasajul subteran de la gară pentru a traversa șinele la adăpost.",
+              "Biserica oferă un refugiu liniștit și uscat pentru meditație."
+            ],
+            "en": [
+              "Hyvinkää center is compact, but waterproof shoes are a must in the rain.",
+              "The museums are close to each other, ideal for 'museum-hopping' when wet.",
+              "Use the underpass at the station to cross the tracks dryly.",
+              "The church offers a quiet, dry retreat for meditation."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen beginnt am Villatehdas, wo der Schnee auf dem roten Backstein leuchtet. Die Kälte beißt, doch die Innenräume sind gut beheizt.\r\nMittags bestaunen wir das Kunstmuseum, bevor wir zur Kirche wandern, die wie ein Eisberg aus der verschneiten Landschaft ragt.\r\nNachmittags ist das Eisenbahnmuseum ein Muss; die alten Züge im Schnee bieten eine magische Kulisse vor dem frühen Sonnenuntergang.\r\nDer Abend endet in der warmen Promenadi-Halle, während draußen die finnische Winternacht einsetzt.",
+            "hu": "Fagyos reggel indul a Villatehdasnál, ahol a hó fehéren csillog a vörös téglákon. A hideg csípős, de a belső terek jól fűtöttek.\r\nDélben a Művészeti Múzeumot csodáljuk meg, majd a templomhoz sétálunk, amely jéghegyként emelkedik ki a havas tájból.\r\nDélután a Vasúttörténeti Múzeum kihagyhatatlan; a havas vonatok mágikus látványt nyújtanak a korai naplemente előtt.\r\nAz este a meleg Promenadi-csarnokban ér véget, miközben odakint leszáll a finn téli éjszaka.",
+            "ro": "O dimineață geroasă începe la Villatehdas, unde zăpada strălucește pe cărămida roșie. Frigul este tăios, dar interioarele sunt bine încălzite.\r\nLa prânz admirăm Muzeul de Artă înainte de a merge spre biserică, ce se ridică ca un iceberg din peisajul înzăpezit.\r\nDupă-amiaza, Muzeul Căilor Ferate este obligatoriu; trenurile vechi în zăpadă oferă un cadru magic înainte de apusul timpuriu.\r\nSeara se încheie în căldura de la Promenadi-sali, în timp ce afară se așterne noaptea arctică finlandeză.",
+            "en": "A frosty morning begins at Villatehdas, where snow glows against the red brick. The cold is biting, but the interiors are well-heated.\r\nAt noon, we admire the Art Museum before walking to the church, which rises like an iceberg from the snowy landscape.\r\nIn the afternoon, the Railway Museum is a must; old trains in the snow provide a magical backdrop before the early sunset.\r\nThe evening ends in the warm Promenadi-sali as the Finnish winter night sets in outside."
+          },
+          "stops": [
+            {
+              "name": "Villatehdas",
+              "tip_5lang": {
+                "de": "Vorsicht vor Eiszapfen an den alten Fabrikdächern.",
+                "hu": "Vigyázzon az ereszekről lelógó jégcsapokra.",
+                "ro": "Atenție la țurțurii de pe acoperișurile vechii fabrici.",
+                "en": "Watch out for icicles on the old factory roofs."
+              }
+            },
+            {
+              "name": "Kunstmuseum Hyvinkää",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den verschneiten Kirchplatz aus den Fenstern.",
+                "hu": "Élvezze a kilátást a havas templomkertre az ablakokból.",
+                "ro": "Bucurați-vă de vederea spre piața bisericii înzăpezită de la ferestre.",
+                "en": "Enjoy the view of the snowy church square from the windows."
+              }
+            },
+            {
+              "name": "Kirche von Hyvinkää",
+              "tip_5lang": {
+                "de": "Die weiße Architektur verschmilzt fast mit dem Schnee.",
+                "hu": "A fehér épület szinte teljesen beleolvad a hóba.",
+                "ro": "Arhitectura albă se confundă aproape complet cu zăpada.",
+                "en": "The white architecture almost merges with the snow."
+              }
+            },
+            {
+              "name": "Finnisches Eisenbahnmuseum",
+              "tip_5lang": {
+                "de": "Tragen Sie warme Stiefel, um zwischen den Museumshallen im Schnee zu gehen.",
+                "hu": "Viseljen meleg csizmát a múzeumi csarnokok közötti havas sétához.",
+                "ro": "Purtați cizme călduroase pentru a merge prin zăpadă între halele muzeului.",
+                "en": "Wear warm boots for walking in the snow between museum halls."
+              }
+            },
+            {
+              "name": "Promenadi-sali",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um sich vor dem Heimweg aufzuwärmen.",
+                "hu": "Ideális hely a felmelegedésre a hazaút előtt.",
+                "ro": "Un loc ideal pentru a vă încălzi înainte de drumul spre casă.",
+                "en": "An ideal place to warm up before heading home."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Winter bereits gegen 15:00 Uhr unter.",
+              "Gehwege können sehr glatt sein; Streusand ist üblich, aber Vorsicht ist geboten.",
+              "Zwiebelprinzip bei der Kleidung ist für den Wechsel zwischen Kälte und Heizung wichtig.",
+              "Die Museen schließen oft früher, prüfen Sie die Winteröffnungszeiten."
+            ],
+            "hu": [
+              "A nap télen már délután 3 óra körül lemegy.",
+              "A járdák nagyon csúszósak lehetnek; vigyázzon a jéggel.",
+              "Öltözzön rétegesen a kinti hideg és a benti meleg közötti váltáshoz.",
+              "A múzeumok gyakran korábban zárnak, ellenőrizze a téli nyitvatartást."
+            ],
+            "ro": [
+              "Soarele apune iarna în jurul orei 15:00.",
+              "Trotuarele pot fi foarte alunecoase; aveți grijă la gheață.",
+              "Îmbrăcați-vă în straturi pentru tranziția între gerul de afară și căldura din interior.",
+              "Muzeele se închid adesea mai devreme, verificați programul de iarnă."
+            ],
+            "en": [
+              "The sun sets as early as 3:00 PM in winter.",
+              "Sidewalks can be very slippery; watch out for ice.",
+              "Layering clothes is important for switching between the cold outside and heated interiors.",
+              "Museums often close earlier, check winter opening hours."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -564,6 +728,170 @@
           "Always lock your bike securely at the station.",
           "Don't forget your water bottle, especially in the summer sun."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen starten wir mit dem Rad an der Kirche. Die Straßen sind leerer, aber glatter. Das Eisenbahnmuseum bietet die erste große Pause im Trockenen.\r\nMittags radeln wir durch die Pfützen zum Villatehdas-Viertel, wo die industrielle Atmosphäre bei Regen besonders markant wirkt.\r\nNachmittags besuchen wir das Kunstmuseum, bevor wir den Tag im Sveitsi-Naturpark beenden, wo das Blätterdach des Waldes leichten Schutz bietet.\r\nDer Abend endet mit einer erfrischten, wenn auch nassen Rückfahrt zum Stadtzentrum.",
+            "hu": "Az eső ellenére kerékpárral indulunk a templomtól. Az utak üresebbek, de csúszósabbak. A Vasúttörténeti Múzeum kínálja az első hosszabb száraz pihenőt.\r\nDélben a tócsákon át kerekezünk a Villatehdas negyedbe, ahol az ipari hangulat esőben különösen markáns.\r\nDélután a Művészeti Múzeumba látogatunk, majd a napot a Sveitsi natúrparkban zárjuk, ahol az erdő lombkoronája némi védelmet nyújt.\r\nAz este egy frissítő, bár vizes visszaúttal zárul a városközpontba.",
+            "ro": "În ciuda ploii, pornim cu bicicleta de la biserică. Străzile sunt mai goale, dar mai alunecoase. Muzeul Căilor Ferate oferă prima pauză lungă la adăpost.\r\nLa prânz pedalăm prin bălți spre cartierul Villatehdas, unde atmosfera industrială pare deosebit de marcantă pe ploaie.\r\nDupă-amiaza vizităm Muzeul de Artă înainte de a încheia ziua în Parcul Natural Sveitsi, unde coronamentul pădurii oferă o ușoară protecție.\r\nSeara se încheie cu o întoarcere revigorantă, deși udă, spre centrul orașului.",
+            "en": "Despite the rain, we start by bike at the church. The streets are emptier but more slippery. The Railway Museum offers the first long break in the dry.\r\nAt noon, we cycle through puddles to the Villatehdas district, where the industrial atmosphere is particularly striking in the rain.\r\nIn the afternoon, we visit the Art Museum before ending the day in Sveitsi Nature Park, where the forest canopy offers some protection.\r\nThe evening ends with a refreshing, albeit wet, ride back to the city center."
+          },
+          "stops": [
+            {
+              "name": "Kirche von Hyvinkää",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich zum Parken der Räder.",
+                "hu": "Használja a fedett bejáratot a kerékpárok leparkolásához.",
+                "ro": "Folosiți zona de intrare acoperită pentru a parca bicicletele.",
+                "en": "Use the covered entrance area to park the bikes."
+              }
+            },
+            {
+              "name": "Finnisches Eisenbahnmuseum",
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Fahren auf nassen Schienen im Außenbereich.",
+                "hu": "Kerülje a nedves síneken való tekerést a kültéri területen.",
+                "ro": "Evitați mersul pe șinele ude în zona exterioară.",
+                "en": "Avoid riding on wet rails in the outdoor area."
+              }
+            },
+            {
+              "name": "Villatehdas",
+              "tip_5lang": {
+                "de": "Kopfsteinpflaster kann bei Nässe sehr rutschig sein.",
+                "hu": "A macskaköves út esőben nagyon csúszós lehet.",
+                "ro": "Pavajul cu piatră cubică poate fi foarte alunecos pe ploaie.",
+                "en": "Cobblestones can be very slippery when wet."
+              }
+            },
+            {
+              "name": "Kunstmuseum Hyvinkää",
+              "tip_5lang": {
+                "de": "Fahrradständer befinden sich direkt vor dem Eingang.",
+                "hu": "A kerékpártárolók közvetlenül a bejárat előtt találhatók.",
+                "ro": "Suporturile de biciclete se află chiar în fața intrării.",
+                "en": "Bike racks are located right in front of the entrance."
+              }
+            },
+            {
+              "name": "Sveitsi-Naturpark",
+              "tip_5lang": {
+                "de": "Achten Sie auf Schlamm auf den unbefestigten Waldwegen.",
+                "hu": "Ügyeljen a sárra a ki nem épített erdei utakon.",
+                "ro": "Atenție la noroi pe potecile neasfaltate din pădure.",
+                "en": "Watch out for mud on the unpaved forest paths."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Gute Schutzbleche sind bei Regen in Hyvinkää unerlässlich.",
+              "Vermeiden Sie scharfes Bremsen auf nassen Straßenmarkierungen.",
+              "Der Sveitsi-Park hat asphaltierte Wege, die bei Regen sicherer sind.",
+              "Licht am Fahrrad ist bei trübem Regenwetter auch tagsüber ratsam."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen az esős Hyvinkää-ben.",
+              "Kerülje az erős fékezést a nedves útburkolati jeleken.",
+              "A Sveitsi parknak vannak aszfaltozott útjai, amik esőben biztonságosabbak.",
+              "A lámpa használata esős időben nappal is ajánlott."
+            ],
+            "ro": [
+              "Apărătorile bune sunt esențiale pe ploaie în Hyvinkää.",
+              "Evitați frânarea bruscă pe marcajele rutiere umede.",
+              "Parcul Sveitsi are drumuri asfaltate care sunt mai sigure pe ploaie.",
+              "Lumina la bicicletă este recomandată chiar și ziua pe vreme ploioasă."
+            ],
+            "en": [
+              "Good fenders are essential when it rains in Hyvinkää.",
+              "Avoid sharp braking on wet road markings.",
+              "Sveitsi Park has paved paths that are safer in the rain.",
+              "Bike lights are advisable even during the day in gloomy rainy weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winter-Biking in Finnland ist ein Erlebnis. Mit Spikereifen starten wir an der Kirche und radeln durch den knirschenden Schnee zum Eisenbahnmuseum.\r\nMittags erreichen wir den Villatehdas-Komplex; die Fahrt durch die klare, kalte Luft weckt alle Geister.\r\nNachmittags wärmen wir uns im Kunstmuseum auf, bevor wir die verschneiten Wege des Sveitsi-Naturparks erkunden.\r\nDer Abend endet früh mit der Dämmerung, die die Stadt in ein blaues Licht taucht, während wir zum Startpunkt zurückkehren.",
+            "hu": "A téli kerékpározás Finnországban igazi élmény. Szöges gumikkal indulunk a templomtól, és a ropogós havon át tekerünk a Vasúttörténeti Múzeumhoz.\r\nDélben érjük el a Villatehdas komplexumot; a friss, hideg levegőn való tekerés teljesen felfrissít.\r\nDélután a Művészeti Múzeumban melegszünk fel, majd a Sveitsi natúrpark havas ösvényeit fedezzük fel.\r\nAz este korán érkezik a szürkülettel, amely kék fénybe vonja a várost, miközben visszatérünk a kiindulópontra.",
+            "ro": "Ciclismul de iarnă în Finlanda este o experiență deosebită. Cu anvelope cu ținte, pornim de la biserică și pedalăm prin zăpada scârțâitoare spre Muzeul Căilor Ferate.\r\nLa prânz ajungem la complexul Villatehdas; plimbarea prin aerul rece și curat trezește toate simțurile.\r\nDupă-amiaza ne încălzim în Muzeul de Artă înainte de a explora potecile înzăpezite din Parcul Natural Sveitsi.\r\nSeara se încheie devreme cu amurgul care scaldă orașul într-o lumină albastră, în timp ce ne întoarcem la punctul de plecare.",
+            "en": "Winter biking in Finland is an experience. With studded tires, we start at the church and cycle through the crunching snow to the Railway Museum.\r\nAt noon, we reach the Villatehdas complex; the ride through the crisp, cold air awakens all spirits.\r\nIn the afternoon, we warm up in the Art Museum before exploring the snowy paths of Sveitsi Nature Park.\r\nThe evening ends early with the twilight bathing the city in blue light as we return to the starting point."
+          },
+          "stops": [
+            {
+              "name": "Kirche von Hyvinkää",
+              "tip_5lang": {
+                "de": "Vorsicht vor Schneehaufen auf den Parkplätzen.",
+                "hu": "Vigyázzon a parkolókban felhalmozott hókupacokra.",
+                "ro": "Atenție la mormanele de zăpadă din parcări.",
+                "en": "Watch out for snow piles in the parking lots."
+              }
+            },
+            {
+              "name": "Finnisches Eisenbahnmuseum",
+              "tip_5lang": {
+                "de": "Die Wege zwischen den Gebäuden sind meist geräumt, aber eisig.",
+                "hu": "Az épületek közötti utak többnyire le vannak takarítva, de jegesek.",
+                "ro": "Drumurile dintre clădiri sunt de obicei curățate, dar înghețate.",
+                "en": "The paths between buildings are mostly cleared but icy."
+              }
+            },
+            {
+              "name": "Villatehdas",
+              "tip_5lang": {
+                "de": "Schnee kann die Orientierung auf dem großen Gelände erschweren.",
+                "hu": "A hó megnehezítheti a tájékozódást a nagy területen.",
+                "ro": "Zăpada poate îngreuna orientarea pe terenul vast.",
+                "en": "Snow can make orientation difficult on the large grounds."
+              }
+            },
+            {
+              "name": "Kunstmuseum Hyvinkää",
+              "tip_5lang": {
+                "de": "Nutzen Sie den kurzen Stopp zum Aufwärmen der Finger.",
+                "hu": "Használja ki a rövid megállót az ujjai felmelegítésére.",
+                "ro": "Folosiți oprirea scurtă pentru a vă încălzi degetele.",
+                "en": "Use the short stop to warm up your fingers."
+              }
+            },
+            {
+              "name": "Sveitsi-Naturpark",
+              "tip_5lang": {
+                "de": "Achten Sie auf Langlaufloipen; Radfahren ist dort untersagt.",
+                "hu": "Ügyeljen a sífutó utakra; ott tilos kerékpározni.",
+                "ro": "Atenție la pistele de schi fond; ciclismul este interzis acolo.",
+                "en": "Watch out for cross-country ski tracks; cycling is prohibited there."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Spikereifen sind für Eisflächen auf den Radwegen dringend empfohlen.",
+              "Akku-Lampen entladen sich in der Kälte schneller; nehmen Sie Ersatz mit.",
+              "Warme, winddichte Handschuhe und Gesichtsschutz sind essenziell.",
+              "Die Dämmerung setzt früh ein, gute Beleuchtung ist lebenswichtig."
+            ],
+            "hu": [
+              "A szöges gumi erősen ajánlott a kerékpárutakon lévő jégfoltok miatt.",
+              "Az akkumulátorok gyorsabban lemerülnek a hidegben; vigyen pótalkatrészt.",
+              "A meleg, szélálló kesztyű és arcmaszk alapvető fontosságú.",
+              "A szürkület korán jön, a jó világítás életmentő."
+            ],
+            "ro": [
+              "Anvelopele cu ținte sunt ferm recomandate pentru porțiunile cu gheață.",
+              "Bateriile se descarcă mai repede la frig; luați rezerve.",
+              "Mănușile călduroase, rezistente la vânt, și protecția feței sunt esențiale.",
+              "Amurgul se instalează devreme, iluminarea bună este vitală."
+            ],
+            "en": [
+              "Studded tires are highly recommended for icy patches on bike paths.",
+              "Battery lights drain faster in the cold; bring spares.",
+              "Warm, windproof gloves and face protection are essential.",
+              "Twilight sets in early, good lighting is vital."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -854,6 +1182,188 @@
           "Watch out for wildlife at dusk, especially moose.",
           "Parking at the museums is often free, but a parking disc may be mandatory."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Im bequemen Auto starten wir am Villatehdas, während der Regen gegen die Scheiben trommelt. Die Fahrt zum Kunstmuseum ist kurz und trocken.\r\nMittags besuchen wir die Kirche, deren Silhouette im Regen besonders dramatisch wirkt, bevor wir zum Eisenbahnmuseum weiterfahren.\r\nNachmittags führt uns die Route zum Sveitsi-Naturpark, wo wir vom Parkplatz aus einen kurzen Spaziergang im Wald wagen.\r\nDer Abend endet mit einer Fahrt ins ländliche Kytäjä-Usmi, wo die nebligen Felder im Regen eine mystische Atmosphäre ausstrahlen.",
+            "hu": "Kényelmes autóval indulunk a Villatehdasnál, miközben az eső kopog a szélvédőn. Az út a Művészeti Múzeumhoz rövid és száraz.\r\nDélben a templomot keressük fel, melynek sziluettje esőben különösen drámai, majd továbbhajtunk a Vasúttörténeti Múzeumhoz.\r\nDélután az utunk a Sveitsi natúrparkba vezet, ahol a parkolóból egy rövid erdei sétára indulunk.\r\nAz este a vidéki Kytäjä-Usmi felé zárul, ahol a ködös mezők az esőben misztikus hangulatot árasztanak.",
+            "ro": "Pornim cu mașina confortabilă de la Villatehdas, în timp ce ploaia bate în parbriz. Drumul către Muzeul de Artă este scurt și uscat.\r\nLa prânz vizităm biserica, a cărei siluetă pare deosebit de dramatică pe ploaie, înainte de a continua spre Muzeul Căilor Ferate.\r\nDupă-amiaza, traseul ne duce la Parcul Natural Sveitsi, unde ne aventurăm la o scurtă plimbare în pădure de la parcare.\r\nSeara se încheie cu un drum spre zona rurală Kytäjä-Usmi, unde câmpurile cețoase pe ploaie emană o atmosferă mistică.",
+            "en": "In a comfortable car, we start at Villatehdas while rain drums against the windows. The drive to the Art Museum is short and dry.\r\nAt noon, we visit the church, whose silhouette looks particularly dramatic in the rain, before driving on to the Railway Museum.\r\nIn the afternoon, the route takes us to Sveitsi Nature Park, where we venture a short walk in the forest from the parking lot.\r\nThe evening ends with a drive to rural Kytäjä-Usmi, where the misty fields in the rain radiate a mystical atmosphere."
+          },
+          "stops": [
+            {
+              "name": "Villatehdas",
+              "tip_5lang": {
+                "de": "Kostenlose Parkplätze befinden sich direkt am Fabrikgelände.",
+                "hu": "Ingyenes parkolóhelyek találhatók közvetlenül a gyár területénél.",
+                "ro": "Parcare gratuită disponibilă chiar lângă zona fabricii.",
+                "en": "Free parking is available right by the factory area."
+              }
+            },
+            {
+              "name": "Kunstmuseum Hyvinkää",
+              "tip_5lang": {
+                "de": "Parkhaus in der Nähe nutzen, um trocken ins Gebäude zu gelangen.",
+                "hu": "Használja a közeli parkolóházat, hogy szárazon jusson az épületbe.",
+                "ro": "Folosiți parcarea acoperită din apropiere pentru a ajunge uscat în clădire.",
+                "en": "Use a nearby parking garage to get to the building dryly."
+              }
+            },
+            {
+              "name": "Kirche von Hyvinkää",
+              "tip_5lang": {
+                "de": "Vom Parkplatz sind es nur wenige Schritte bis zum Eingang.",
+                "hu": "A parkolótól csak pár lépés a bejárat.",
+                "ro": "Sunt doar câțiva pași de la parcare până la intrare.",
+                "en": "It's just a few steps from the parking lot to the entrance."
+              }
+            },
+            {
+              "name": "Finnisches Eisenbahnmuseum",
+              "tip_5lang": {
+                "de": "Großer Parkplatz vorhanden; ideal bei Regen.",
+                "hu": "Nagy parkoló áll rendelkezésre; ideális esőben.",
+                "ro": "Parcare mare disponibilă; ideală pe ploaie.",
+                "en": "Large parking lot available; ideal when it rains."
+              }
+            },
+            {
+              "name": "Sveitsi-Naturpark",
+              "tip_5lang": {
+                "de": "Das Hotel Sveitsi bietet Parkmöglichkeiten direkt am Parkeingang.",
+                "hu": "A Hotel Sveitsi parkolási lehetőséget kínál közvetlenül a park bejáratánál.",
+                "ro": "Hotelul Sveitsi oferă locuri de parcare chiar la intrarea în parc.",
+                "en": "Hotel Sveitsi offers parking right at the park entrance."
+              }
+            },
+            {
+              "name": "Kytäjä-Usmi",
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den schmalen, kurvigen Landstraßen bei Nässe.",
+                "hu": "Vezessen óvatosan a szűk, kanyargós országutakon esőben.",
+                "ro": "Conduceți cu prudență pe drumurile rurale înguste și virajate pe ploaie.",
+                "en": "Drive carefully on narrow, winding country roads when wet."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf der Autobahn E12 nach Hyvinkää.",
+              "Die Parkplatzsuche im Zentrum ist auch bei Regen meist unproblematisch.",
+              "Halten Sie die Scheibenheizung bereit, um Beschlag zu vermeiden.",
+              "Kytäjä-Usmi ist am besten mit dem Auto erreichbar, besonders bei schlechtem Wetter."
+            ],
+            "hu": [
+              "Ügyeljen a vízenfutásra (aquaplaning) az E12-es autópályán.",
+              "A központban a parkolás esőben is többnyire problémamentes.",
+              "Használja a szélvédőfűtést a párásodás elkerülésére.",
+              "Kytäjä-Usmi autóval közelíthető meg a legjobban, főleg rossz időben."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe autostrada E12 spre Hyvinkää.",
+              "Găsirea unui loc de parcare în centru este facilă și pe ploaie.",
+              "Folosiți dezaburirea parbrizului pentru a menține vizibilitatea.",
+              "Kytäjä-Usmi este cel mai bine accesibil cu mașina, mai ales pe vreme rea."
+            ],
+            "en": [
+              "Watch out for aquaplaning on the E12 highway to Hyvinkää.",
+              "Parking in the center is usually easy even in the rain.",
+              "Keep the window heater ready to prevent fogging.",
+              "Kytäjä-Usmi is best reached by car, especially in bad weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein winterlicher Roadtrip beginnt am Villatehdas. Die Straßen sind gut geräumt, aber Vorsicht vor Glatteis ist geboten.\r\nMittags besuchen wir das Kunstmuseum und die markante Kirche, die im strahlenden Weiß der Winterlandschaft thront.\r\nNachmittags geht es zum Eisenbahnmuseum, wo die Züge wie aus einem Wintermärchen wirken, bevor wir zum Sveitsi-Naturpark fahren.\r\nDer Abend gipfelt in einer Fahrt durch die verschneiten Wälder von Kytäjä-Usmi, wo die Abgeschiedenheit im Winter besonders spürbar ist.",
+            "hu": "Téli autós kirándulás indul a Villatehdasnál. Az utak jól tisztítottak, de a jegesedésre ügyelni kell.\r\nDélben a Művészeti Múzeumot és a jellegzetes templomot látogatjuk meg, amely fehéren trónol a téli tájban.\r\nDélután a Vasúttörténeti Múzeumba megyünk, ahol a vonatok mintha egy téli meséből léptek volna elő.\r\nAz este a Kytäjä-Usmi havas erdőin át vezető autózással zárul, ahol a téli elszigeteltség különösen érezhető.",
+            "ro": "O excursie auto de iarnă începe la Villatehdas. Drumurile sunt bine curățate, dar atenția la polei este necesară.\r\nLa prânz vizităm Muzeul de Artă și biserica emblematică, ce tronează în albul strălucitor al peisajului hibernal.\r\nDupă-amiaza mergem la Muzeul Căilor Ferate, unde trenurile par desprinse dintr-un basm de iarnă, înainte de a merge spre Sveitsi.\r\nSeara culminează cu un drum prin pădurile înzăpezite din Kytäjä-Usmi, unde izolarea iernii este deosebit de resimțită.",
+            "en": "A winter road trip begins at Villatehdas. The roads are well-cleared, but caution against black ice is advised.\r\nAt noon, we visit the Art Museum and the striking church, reigning in the brilliant white of the winter landscape.\r\nIn the afternoon, we head to the Railway Museum, where the trains look like they're from a winter fairy tale, before driving to Sveitsi.\r\nThe evening culminates in a drive through the snowy forests of Kytäjä-Usmi, where winter's seclusion is particularly palpable."
+          },
+          "stops": [
+            {
+              "name": "Villatehdas",
+              "tip_5lang": {
+                "de": "Achten Sie auf Schneewälle beim Einparken.",
+                "hu": "Ügyeljen a hófalakra parkoláskor.",
+                "ro": "Atenție la dâmburile de zăpadă când parcați.",
+                "en": "Watch out for snow banks when parking."
+              }
+            },
+            {
+              "name": "Kunstmuseum Hyvinkää",
+              "tip_5lang": {
+                "de": "Die Parkplätze in der Nähe werden schnell geräumt.",
+                "hu": "A közeli parkolókat gyorsan letakarítják.",
+                "ro": "Parcările din apropiere sunt curățate rapid.",
+                "en": "Nearby parking lots are cleared quickly."
+              }
+            },
+            {
+              "name": "Kirche von Hyvinkää",
+              "tip_5lang": {
+                "de": "Vorsicht vor herabfallendem Schnee von den Kirchendächern.",
+                "hu": "Vigyázzon a templomtetőről lezúduló hóra.",
+                "ro": "Atenție la zăpada care poate cădea de pe acoperișul bisericii.",
+                "en": "Beware of falling snow from the church roofs."
+              }
+            },
+            {
+              "name": "Finnisches Eisenbahnmuseum",
+              "tip_5lang": {
+                "de": "Der Parkplatz kann bei starkem Schneefall eng werden.",
+                "hu": "A parkoló szűkös lehet erős havazáskor.",
+                "ro": "Parcarea poate deveni strâmtă în caz de ninsoare abundentă.",
+                "en": "The parking lot can get tight during heavy snowfall."
+              }
+            },
+            {
+              "name": "Sveitsi-Naturpark",
+              "tip_5lang": {
+                "de": "Gute Winterreifen sind für die Steigung zum Sveitsi-Hügel nötig.",
+                "hu": "Jó téli gumi szükséges a Sveitsi-dombra való feljutáshoz.",
+                "ro": "Anvelopele de iarnă bune sunt necesare pentru panta spre dealul Sveitsi.",
+                "en": "Good winter tires are necessary for the climb to Sveitsi hill."
+              }
+            },
+            {
+              "name": "Kytäjä-Usmi",
+              "tip_5lang": {
+                "de": "Einige Forstwege sind im Winter eventuell nicht geräumt.",
+                "hu": "Néhány erdei út télen esetleg nincs letakarítva.",
+                "ro": "Unele drumuri forestiere s-ar putea să nu fie curățate iarna.",
+                "en": "Some forest roads may not be cleared in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in Finnland gesetzlich vorgeschrieben und notwendig.",
+              "Füllen Sie Frostschutzmittel in die Scheibenwaschanlage nach.",
+              "Vermeiden Sie das Parken unter Bäumen wegen Schneebruchgefahr.",
+              "Planen Sie mehr Zeit für die Fahrt ein, da die Sicht im Dunkeln schlechter ist."
+            ],
+            "hu": [
+              "A téli gumi Finnországban törvényileg előírt és kötelező.",
+              "Töltse fel a szélvédőmosót fagyállóval.",
+              "Kerülje a fák alatti parkolást a hóteher okozta ágtörések miatt.",
+              "Tervezzen több időt az utazásra a korai sötétedés miatt."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii prin lege în Finlanda.",
+              "Reumpleți lichidul de parbriz cu o variantă rezistentă la îngheț.",
+              "Evitați parcarea sub copaci din cauza riscului de rupere a ramurilor sub zăpadă.",
+              "Alocați mai mult timp pentru deplasare, vizibilitatea fiind redusă pe întuneric."
+            ],
+            "en": [
+              "Winter tires are legally required and necessary in Finland.",
+              "Refill your windshield washer fluid with antifreeze.",
+              "Avoid parking under trees due to the risk of falling branches from snow load.",
+              "Plan more time for driving as visibility is poorer in the dark."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1125,6 +1635,170 @@
           "Many attractions are so close together that you often won't need the bus.",
           "Day tickets are often cheaper if you plan more than 3 trips."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus starten wir trocken an der Kirche. Die Fahrpläne sind verlässlich, und die Haltestellen bieten oft Schutz.\r\nMittags bringt uns der Transit zum Villatehdas, wo wir das historische Ambiente erkunden, ohne uns um das Parken im Regen zu sorgen.\r\nNachmittags besuchen wir das Kunstmuseum und das Eisenbahnmuseum, beide bequem per Bus erreichbar.\r\nDer Abend endet mit der Fahrt zum Sveitsi-Naturpark, wo wir die frische Waldluft nach dem Regen genießen.",
+            "hu": "Busszal szárazon indulunk a templomtól. A menetrend megbízható, és a megállók gyakran fedettek.\r\nDélben a tömegközlekedés a Villatehdashoz visz minket, ahol a történelmi környezetet fedezzük fel, anélkül hogy a parkolás miatt aggódnánk az esőben.\r\nDélután a Művészeti Múzeumot és a Vasúttörténeti Múzeumot látogatjuk meg, mindkettő könnyen elérhető busszal.\r\nAz este a Sveitsi natúrparkba vezető úttal zárul, ahol élvezzük az eső utáni friss erdei levegőt.",
+            "ro": "Pornim cu autobuzul de la biserică, stând la uscat. Orarele sunt de încredere, iar stațiile oferă adesea adăpost.\r\nLa prânz, transportul public ne duce la Villatehdas, unde explorăm ambianța istorică fără să ne facem griji pentru parcare pe ploaie.\r\nDupă-amiaza vizităm Muzeul de Artă și Muzeul Căilor Ferate, ambele accesibile convenabil cu autobuzul.\r\nSeara se încheie cu drumul spre Parcul Natural Sveitsi, unde ne bucurăm de aerul curat al pădurii după ploaie.",
+            "en": "We start dry by bus at the church. The schedules are reliable, and the stops often provide shelter.\r\nAt noon, transit takes us to Villatehdas, where we explore the historical ambience without worrying about parking in the rain.\r\nIn the afternoon, we visit the Art Museum and the Railway Museum, both conveniently accessible by bus.\r\nThe evening ends with a trip to Sveitsi Nature Park, where we enjoy the fresh forest air after the rain."
+          },
+          "stops": [
+            {
+              "name": "Kirche von Hyvinkää",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle befindet sich ganz in der Nähe der Kirche.",
+                "hu": "A buszmegálló egészen közel van a templomhoz.",
+                "ro": "Stația de autobuz este situată foarte aproape de biserică.",
+                "en": "The bus stop is located very close to the church."
+              }
+            },
+            {
+              "name": "Villatehdas",
+              "tip_5lang": {
+                "de": "Vom Bahnhof aus sind es nur wenige Minuten Fußweg zum Villatehdas.",
+                "hu": "Az állomástól csak pár perc séta a Villatehdas.",
+                "ro": "Sunt doar câteva minute de mers pe jos de la gară până la Villatehdas.",
+                "en": "It's just a few minutes' walk from the station to Villatehdas."
+              }
+            },
+            {
+              "name": "Kunstmuseum Hyvinkää",
+              "tip_5lang": {
+                "de": "Die Haltestellen im Zentrum sind meist überdacht.",
+                "hu": "A központban lévő megállók többnyire fedettek.",
+                "ro": "Stațiile din centru sunt de obicei acoperite.",
+                "en": "Stops in the center are mostly covered."
+              }
+            },
+            {
+              "name": "Finnisches Eisenbahnmuseum",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Fußweg von der nächsten Bushaltestelle zum Museumseingang.",
+                "hu": "Ellenőrizze a gyalogutat a legközelebbi buszmegállótól a múzeum bejáratáig.",
+                "ro": "Verificați traseul pietonal de la cea mai apropiată stație de autobuz până la intrarea în muzeu.",
+                "en": "Check the walking route from the nearest bus stop to the museum entrance."
+              }
+            },
+            {
+              "name": "Sveitsi-Naturpark",
+              "tip_5lang": {
+                "de": "Linienbusse fahren regelmäßig in Richtung Sveitsi.",
+                "hu": "A helyi buszok rendszeresen járnak Sveitsi irányába.",
+                "ro": "Autobuzele locale circulă regulat spre Sveitsi.",
+                "en": "Local buses run regularly towards Sveitsi."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die App der lokalen Verkehrsbetriebe hilft bei der Planung im Regen.",
+              "Vermeiden Sie das Warten im Freien; nutzen Sie Cafés in der Nähe der Haltestellen.",
+              "Die Züge von Helsinki nach Hyvinkää sind ideal für eine trockene Anreise.",
+              "Der Hauptbahnhof von Hyvinkää ist ein zentraler Knotenpunkt für alle Ziele."
+            ],
+            "hu": [
+              "A helyi közlekedési alkalmazás segít az esős tervezésben.",
+              "Kerülje a kinti várakozást; használja a megállók közeli kávézókat.",
+              "A Helsinki-Hyvinkää vonatok ideálisak a száraz érkezéshez.",
+              "Hyvinkää főpályaudvara központi csomópont minden célponthoz."
+            ],
+            "ro": [
+              "Aplicația locală de transport ajută la planificare pe ploaie.",
+              "Evitați așteptarea în aer liber; folosiți cafenelele din apropierea stațiilor.",
+              "Trenurile Helsinki-Hyvinkää sunt ideale pentru o sosire confortabilă.",
+              "Gara principală din Hyvinkää este nodul central pentru toate destinațiile."
+            ],
+            "en": [
+              "The local transit app helps with planning in the rain.",
+              "Avoid waiting outside; use cafes near the stops.",
+              "Trains from Helsinki to Hyvinkää are ideal for a dry arrival.",
+              "Hyvinkää main station is a central hub for all destinations."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im warmen Bus gleiten wir durch das verschneite Hyvinkää, startend an der Kirche. Die Fenster sind oft beschlagen, was die Fahrt gemütlich macht.\r\nMittags erreichen wir den Villatehdas-Komplex; der Transit ist die beste Wahl, um nicht im kalten Wind parken zu müssen.\r\nNachmittags besuchen wir das Kunstmuseum und das Eisenbahnmuseum, wobei wir die kurzen Wege zwischen Haltestelle und Museum genießen.\r\nDer Abend endet mit einer Busfahrt zum Sveitsi-Naturpark, wo wir die beleuchteten Loipen im Dunkeln bewundern.",
+            "hu": "A meleg buszban ülve suhanunk át a havas Hyvinkää-n, a templomtól indulva. Az ablakok gyakran párásak, ami barátságossá teszi az utat.\r\nDélben érjük el a Villatehdas komplexumot; a tömegközlekedés a legjobb választás, hogy ne kelljen a hideg szélben parkolni.\r\nDélután a Művészeti Múzeumot és a Vasúttörténeti Múzeumot látogatjuk meg, élvezve a rövid sétákat a megállóktól.\r\nAz este a Sveitsi natúrparkba tartó buszozással zárul, ahol a kivilágított sípályákat csodáljuk a sötétben.",
+            "ro": "În autobuzul călduros, alunecăm prin Hyvinkää înzăpezit, pornind de la biserică. Ferestrele sunt adesea aburite, ceea ce face călătoria primitoare.\r\nLa prânz ajungem la complexul Villatehdas; transportul public este cea mai bună alegere pentru a evita parcarea în vântul rece.\r\nDupă-amiaza vizităm Muzeul de Artă și Muzeul Căilor Ferate, bucurându-ne de drumurile scurte de la stații.\r\nSeara se încheie cu o călătorie spre Sveitsi, unde admirăm pârtiile iluminate în întuneric.",
+            "en": "In a warm bus, we glide through snowy Hyvinkää, starting at the church. The windows are often fogged, making the ride cozy.\r\nAt noon, we reach the Villatehdas complex; transit is the best choice to avoid parking in the cold wind.\r\nIn the afternoon, we visit the Art Museum and the Railway Museum, enjoying the short walks from the stops.\r\nThe evening ends with a bus ride to Sveitsi Nature Park, where we admire the lit ski tracks in the dark."
+          },
+          "stops": [
+            {
+              "name": "Kirche von Hyvinkää",
+              "tip_5lang": {
+                "de": "Warten Sie im Vorraum der Kirche, bis der Bus kommt.",
+                "hu": "Várjon a templom előterében, amíg a busz megérkezik.",
+                "ro": "Așteptați în vestibulul bisericii până vine autobuzul.",
+                "en": "Wait in the church vestibule until the bus arrives."
+              }
+            },
+            {
+              "name": "Villatehdas",
+              "tip_5lang": {
+                "de": "Der Bahnhof bietet einen warmen Wartesaal.",
+                "hu": "Az állomásnak meleg váróterme van.",
+                "ro": "Gara oferă o sală de așteptare încălzită.",
+                "en": "The station offers a warm waiting room."
+              }
+            },
+            {
+              "name": "Kunstmuseum Hyvinkää",
+              "tip_5lang": {
+                "de": "Die Haltestellen sind im Winter gut beleuchtet.",
+                "hu": "A megállók télen jól ki vannak világítva.",
+                "ro": "Stațiile sunt bine iluminate iarna.",
+                "en": "Stops are well-lit in winter."
+              }
+            },
+            {
+              "name": "Finnisches Eisenbahnmuseum",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis an der Bushaltestelle.",
+                "hu": "Ügyeljen a jegesedésre a buszmegállóban.",
+                "ro": "Atenție la polei în stația de autobuz.",
+                "en": "Watch out for ice at the bus stop."
+              }
+            },
+            {
+              "name": "Sveitsi-Naturpark",
+              "tip_5lang": {
+                "de": "Der Bus hält direkt am Fuße des Sveitsi-Hügels.",
+                "hu": "A busz közvetlenül a Sveitsi-domb lábánál áll meg.",
+                "ro": "Autobuzul oprește chiar la baza dealului Sveitsi.",
+                "en": "The bus stops right at the foot of Sveitsi hill."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse können bei extremem Schneefall Verspätung haben.",
+              "Tragen Sie Reflektoren, damit Sie an den Haltestellen im Dunkeln gesehen werden.",
+              "Die Züge nach Helsinki sind eine gute Option für die Rückreise im Warmen.",
+              "Nutzen Sie die Echtzeit-Fahrpläne, um Wartezeiten in der Kälte zu minimieren."
+            ],
+            "hu": [
+              "A buszok extrém havazáskor késhetnek.",
+              "Viseljen fényvisszaverőt, hogy sötétben is észrevegyék a megállókban.",
+              "A Helsinki vonatok jó opciók a melegben történő hazaúthoz.",
+              "Használja a valós idejű menetrendet a hidegben való várakozás elkerülésére."
+            ],
+            "ro": [
+              "Autobuzele pot avea întârzieri în caz de ninsoare extremă.",
+              "Purtați elemente reflectorizante pentru a fi văzuți în stații pe întuneric.",
+              "Trenurile spre Helsinki sunt o opțiune bună pentru întoarcerea la căldură.",
+              "Folosiți orarele în timp real pentru a minimiza așteptarea în frig."
+            ],
+            "en": [
+              "Buses may be delayed during extreme snowfall.",
+              "Wear reflectors so you can be seen at stops in the dark.",
+              "Trains to Helsinki are a good option for a warm return journey.",
+              "Use real-time schedules to minimize waiting in the cold."
+            ]
+          }
+        }
       }
     }
   }

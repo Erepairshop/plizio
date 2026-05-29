@@ -339,6 +339,214 @@
           "Most attractions are close to each other, making this a very pleasant walk.",
           "Check the opening hours for the SnowCastle and Sampo as they can vary seasonally."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet die neugotische Kirche von Kemi und das angrenzende Kulturzentrum idealen Schutz vor dem nordischen Regen. Mittags führt der Weg zum Innenhafen, wo das Edelsteinmuseum als trockene Oase mit Europas größter Sammlung lockt. Nachmittags erkunden Sie das SnowCastle 365, das völlig wetterunabhängig ist. Den Abend lassen Sie bei einem erfrischenden Spaziergang im Sauvosaari Park ausklingen.",
+            "hu": "Reggel a Kemi templom és a Kulturális Központ nyújt menedéket az eső elől. Délben a belső kikötő felé vesszük az irányt, ahol a Drágakőmúzeum fedett kiállítása vár. Délután az egész évben nyitva tartó, jégből épült SnowCastle 365 birodalmát fedezzük fel, amely teljesen védett az elemektől. Az estét egy frissítő esős séta zárja a Sauvosaari parkban, a Botteni-öböl partján.",
+            "ro": "Dimineața, Biserica Kemi și Centrul Cultural oferă adăpost ideal împotriva ploii nordice. La prânz, drumul duce spre Portul Interior, unde Muzeul Pietrelor Prețioase vă așteaptă cu o colecție impresionantă în interior. După-amiaza este dedicată castelului SnowCastle 365, care este complet climatizat și protejat. Seara se încheie cu o plimbare revigorantă prin Parcul Sauvosaari, în ciuda vremii umede.",
+            "en": "In the morning, Kemi Church and the Cultural Centre provide perfect shelter from the Baltic rain. At noon, head to the Inner Harbour where the Gemstone Museum offers a dry oasis with Europe’s largest collection. Afternoon is spent inside SnowCastle 365, which is entirely weather-proof. The evening concludes with a refreshing walk through Sauvosaari Sports Park, enjoying the misty coastal atmosphere."
+          },
+          "stops": [
+            {
+              "name": "Kemi Church",
+              "tip_5lang": {
+                "de": "Bewundern Sie die rote Backsteinarchitektur von innen, während es draußen regnet.",
+                "hu": "Csodálja meg a vörös téglás belsőt, amíg kint esik az eső.",
+                "ro": "Admirați arhitectura din cărămidă roșie la interior în timp ce plouă.",
+                "en": "Admire the red brick interior while staying dry from the rain."
+              }
+            },
+            {
+              "name": "Kemi Cultural Centre",
+              "tip_5lang": {
+                "de": "Die Bibliothek und Museen hier sind perfekte Rückzugsorte bei Schauern.",
+                "hu": "A könyvtár és a múzeumok tökéletes menedéket nyújtanak zápor idején.",
+                "ro": "Biblioteca și muzeele de aici sunt refugii perfecte în timpul ploii.",
+                "en": "The library and museums here are perfect retreats during showers."
+              }
+            },
+            {
+              "name": "Inner Harbour",
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Bereiche der Hafencafés für eine kurze Pause.",
+                "hu": "Használja a kikötői kávézók fedett teraszait egy rövid pihenőre.",
+                "ro": "Folosiți zonele acoperite ale cafenelelor din port pentru o scurtă pauză.",
+                "en": "Use the covered areas of harbor cafes for a quick break."
+              }
+            },
+            {
+              "name": "Gemstone Museum",
+              "tip_5lang": {
+                "de": "Planen Sie hier mehr Zeit ein, um dem Regen komplett zu entkommen.",
+                "hu": "Töltsön itt több időt, hogy teljesen elkerülje az égi áldást.",
+                "ro": "Planificați mai mult timp aici pentru a scăpa complet de ploaie.",
+                "en": "Plan to spend extra time here to fully escape the rain."
+              }
+            },
+            {
+              "name": "Kemi SnowCastle",
+              "tip_5lang": {
+                "de": "Das ganzjährige SnowCastle 365 ist absolut regensicher und beheizt.",
+                "hu": "Az egész éves SnowCastle 365 teljesen esőbiztos és fűtött.",
+                "ro": "Castelul SnowCastle 365 este absolut protejat de ploaie și încălzit.",
+                "en": "The year-round SnowCastle 365 is absolutely rain-proof and heated."
+              }
+            },
+            {
+              "name": "Icebreaker Sampo",
+              "tip_5lang": {
+                "de": "Besichtigen Sie die Maschinenräume im Bauch des Schiffes, wenn es stark regnet.",
+                "hu": "Erős esőben fedezze fel a hajó gyomrában található gépházakat.",
+                "ro": "Vizitați sălile mașinilor din interiorul navei dacă plouă torențial.",
+                "en": "Visit the engine rooms in the belly of the ship if it rains hard."
+              }
+            },
+            {
+              "name": "Sauvosaari Sports Park",
+              "tip_5lang": {
+                "de": "Die asphaltierten Wege sind auch bei Nässe gut begehbar.",
+                "hu": "Az aszfaltozott utak esőben is jól járhatóak maradnak.",
+                "ro": "Potecile asfaltate sunt ușor de parcurs chiar și pe vreme umedă.",
+                "en": "The paved paths remain easily walkable even in wet conditions."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Wanderschuhe für die Küstenwege.",
+              "Das Edelsteinmuseum und SnowCastle 365 sind ideale Indoor-Optionen.",
+              "Ein stabiler Regenschirm ist wegen des Windes am Meer essenziell.",
+              "Die meisten Cafés am Hafen haben gemütliche Innenbereiche.",
+              "Die Wege zwischen den Museen sind kurz, halten Sie Regenbekleidung bereit."
+            ],
+            "hu": [
+              "Viseljen vízálló túracipőt a tengerparti utakhoz.",
+              "A Drágakőmúzeum és a SnowCastle 365 kiváló fedett programok.",
+              "A tengeri szél miatt érdemes masszív esernyőt vagy esőkabátot vinni.",
+              "A kikötő kávézói barátságos belső terekkel várnak.",
+              "A múzeumok közötti távolság kicsi, de a szél hordhatja az esőt."
+            ],
+            "ro": [
+              "Purtați încălțăminte de drumeție impermeabilă pentru potecile de coastă.",
+              "Muzeul Pietrelor Prețioase și SnowCastle 365 sunt opțiuni ideale de interior.",
+              "O umbrelă rezistentă este esențială din cauza vântului de la mare.",
+              "Majoritatea cafenelelor din port au zone interioare primitoare.",
+              "Distanțele dintre muzee sunt scurte, dar fiți pregătiți pentru rafale de ploaie."
+            ],
+            "en": [
+              "Wear waterproof hiking shoes for the coastal paths.",
+              "The Gemstone Museum and SnowCastle 365 are ideal indoor escapes.",
+              "A sturdy umbrella is essential due to the sea breeze.",
+              "Most harbor cafes have cozy indoor seating areas.",
+              "Distances between museums are short, but keep rain gear ready."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie Kemi im magischen Winterlicht. Der Tag beginnt an der frostigen Kirche, gefolgt von der wohligen Wärme des Kulturzentrums. Zur Mittagszeit glitzert das Eis am Hafen, während Sie im Edelsteinmuseum aufwärmen. Nachmittags ist die blaue Stunde perfekt für das SnowCastle, dessen Eisskulpturen in der frühen Dämmerung leuchten. Der Abend endet unter dem weiten Polarhimmel im verschneiten Sauvosaari Park.",
+            "hu": "Fedezze fel Kemit a varázslatos téli fényekben. A nap a zúzmarás templomnál kezdődik, majd a Kulturális Központ melegében folytatódik. Délben a befagyott kikötő látványa kísér minket a Drágakőmúzeumba, ahol átmelegedhetünk. Délután, a kék órában a SnowCastle jégszobrai különleges fényben tündökölnek. Az estét a Sauvosaari park hófödte ösvényein, a sarki fény reményében zárjuk.",
+            "ro": "Experimentați Kemi în lumina magică a iernii. Ziua începe la biserica înghețată, urmată de căldura primitoare a Centrului Cultural. La prânz, gheața strălucește în port în timp ce vă încălziți la Muzeul Pietrelor Prețioase. După-amiaza, 'ora albastră' este perfectă pentru SnowCastle, ale cărui sculpturi de gheață strălucesc în amurgul timpuriu. Seara se încheie sub cerul polar în parcul înzăpezit Sauvosaari.",
+            "en": "Experience Kemi in the magical winter light. The day starts at the frosty church, followed by the cozy warmth of the Cultural Centre. At noon, the frozen harbor glitters as you warm up in the Gemstone Museum. In the afternoon, the 'blue hour' is perfect for visiting the SnowCastle, where ice sculptures glow in the early twilight. The evening ends under the vast polar sky in the snowy Sauvosaari Park."
+          },
+          "stops": [
+            {
+              "name": "Kemi Church",
+              "tip_5lang": {
+                "de": "Achten Sie auf die vereisten Stufen am Kircheneingang.",
+                "hu": "Vigyázzon a templom bejáratánál lévő jeges lépcsőkre.",
+                "ro": "Atenție la treptele înghețate de la intrarea în biserică.",
+                "en": "Watch out for icy steps at the church entrance."
+              }
+            },
+            {
+              "name": "Kemi Cultural Centre",
+              "tip_5lang": {
+                "de": "Perfekt, um die Batterien der Kamera in der Wärme aufzuladen.",
+                "hu": "Tökéletes hely a fényképezőgép akksijának felmelegítésére.",
+                "ro": "Loc perfect pentru a reîncărca bateriile camerei la căldură.",
+                "en": "Perfect place to recharge your camera batteries in the warmth."
+              }
+            },
+            {
+              "name": "Inner Harbour",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die zugefrorene See von einem beheizten Café.",
+                "hu": "Élvezze a befagyott tenger látványát egy fűtött kávézóból.",
+                "ro": "Bucurați-vă de vederea mării înghețate dintr-o cafenea încălzită.",
+                "en": "Enjoy the view of the frozen sea from a heated cafe."
+              }
+            },
+            {
+              "name": "Gemstone Museum",
+              "tip_5lang": {
+                "de": "Lassen Sie Ihre Winterjacke an der Garderobe, um entspannt zu schauen.",
+                "hu": "Hagyja a vastag kabátot a ruhatárban a kényelmes nézelődéshez.",
+                "ro": "Lăsați haina de iarnă la garderobă pentru a vizita relaxat.",
+                "en": "Leave your heavy winter coat at the cloakroom for a relaxed visit."
+              }
+            },
+            {
+              "name": "Kemi SnowCastle",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Eisbar für ein Heißgetränk aus Eisgläsern.",
+                "hu": "Látogasson el a jégbárba egy forró italra, amit jégpohárból ihat.",
+                "ro": "Vizitați barul de gheață pentru o băutură caldă servită în pahare de gheață.",
+                "en": "Visit the ice bar for a hot drink served in ice glasses."
+              }
+            },
+            {
+              "name": "Icebreaker Sampo",
+              "tip_5lang": {
+                "de": "Buchen Sie eine Eis-Schwimm-Tour, falls verfügbar – ein einmaliges Erlebnis.",
+                "hu": "Ha elérhető, próbálja ki a jeges lebegést – életre szóló élmény.",
+                "ro": "Rezervați o sesiune de plutire în gheață, dacă este disponibilă.",
+                "en": "Book an ice-floating tour if available – a once-in-a-lifetime experience."
+              }
+            },
+            {
+              "name": "Sauvosaari Sports Park",
+              "tip_5lang": {
+                "de": "Die Beleuchtung hier macht Abendspaziergänge im Schnee sicher.",
+                "hu": "A park világítása biztonságossá teszi az esti havas sétákat.",
+                "ro": "Iluminatul de aici face plimbările de seară prin zăpadă sigure.",
+                "en": "The lighting here makes evening walks in the snow safe."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermo-Unterwäsche und mehrere Schichten (Zwiebelprinzip).",
+              "Sonnenuntergang ist im Hochwinter bereits gegen 14:00 Uhr.",
+              "Spikes für die Schuhe sind auf den oft glatten Gehwegen ratsam.",
+              "Nutzen Sie jede Gelegenheit zum Aufwärmen in Museen oder Cafés.",
+              "Halten Sie Ausschau nach Nordlichtern, sobald es dunkel wird."
+            ],
+            "hu": [
+              "Viseljen termikus aláöltözetet és több réteg ruhát.",
+              "A napnyugta a tél közepén már délután 2 körül bekövetkezik.",
+              "A cipőre csatolható csúszásgátló ajánlott a jeges járdákon.",
+              "Használjon ki minden lehetőséget az átmelegedésre a múzeumokban.",
+              "Sötétedés után figyelje az eget a sarki fény reményében."
+            ],
+            "ro": [
+              "Purtați lenjerie termică și mai multe straturi de haine.",
+              "Apusul soarelui are loc în jurul orei 14:00 în mijlocul iernii.",
+              "Dispozitivele antiderapante pentru încălțăminte sunt recomandate.",
+              "Profită de orice ocazie pentru a te încălzi în muzee sau cafenele.",
+              "Fiți atenți la aurora boreală imediat ce se întunecă."
+            ],
+            "en": [
+              "Wear thermal underwear and use the layering principle.",
+              "Sunset in mid-winter occurs as early as 2:00 PM.",
+              "Shoe spikes are advisable on the often slippery pavements.",
+              "Take every opportunity to warm up in museums or cafes.",
+              "Keep an eye out for Northern Lights as soon as it gets dark."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -695,6 +903,232 @@
           "The paths are mostly flat, making for easy cycling.",
           "Wear a helmet and bring water, especially for the longer ride to the beach."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour durch Kemi bei Regen erfordert gute Ausrüstung, bietet aber leere Wege. Starten Sie an der Kirche und nutzen Sie die kurzen Wege zum Kulturzentrum. Entlang der Küste zum Hafen spüren Sie die Meeresbrise; das Edelsteinmuseum ist der perfekte Stopp zum Trocknen. Nachmittags erreichen Sie das SnowCastle bequem per Rad. Den Tag beenden Sie mit einer kurzen Fahrt zum Abendessen im Stadtzentrum.",
+            "hu": "Egy esős bringázás Kemi utcáin jó felszerelést igényel, de cserébe üres utakat kínál. Kezdjen a templomnál, majd tekerjen át a közeli Kulturális Központba. A part mentén a kikötő felé haladva érezni fogja a tengeri szelet; a Drágakőmúzeum ideális hely a megszáradáshoz. Délután a SnowCastle könnyen elérhető biciklivel. A napot egy rövid városközponti tekeréssel és vacsorával zárjuk.",
+            "ro": "O plimbare cu bicicleta prin Kemi pe ploaie necesită echipament bun, dar oferă trasee libere. Începeți la biserică și folosiți distanțele scurte până la Centrul Cultural. De-a lungul coastei spre port veți simți briza mării; Muzeul Pietrelor Prețioase este popasul perfect pentru uscare. După-amiaza ajungeți rapid la SnowCastle. Încheiați ziua cu o scurtă cursă spre centrul orașului pentru cină.",
+            "en": "A bike tour through Kemi in the rain requires good gear but offers quiet paths. Start at the church and use the short distances to reach the Cultural Centre. Along the coast to the harbor, you'll feel the sea breeze; the Gemstone Museum is the perfect stop to dry off. In the afternoon, reach the SnowCastle easily by bike. End the day with a short ride to dinner in the city center."
+          },
+          "stops": [
+            {
+              "name": "Kemi Church",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter Bäumen ab, um den Sattel trocken zu halten.",
+                "hu": "Parkoljon fa alá, hogy az ülést szárazon tartsa.",
+                "ro": "Parcați bicicleta sub copaci pentru a menține șaua uscată.",
+                "en": "Park your bike under trees to keep the saddle dry."
+              }
+            },
+            {
+              "name": "Kemi Cultural Centre",
+              "tip_5lang": {
+                "de": "Überdachte Fahrradständer befinden sich in der Nähe des Eingangs.",
+                "hu": "Fedett biciklitárolók találhatók a bejárat közelében.",
+                "ro": "Suporturile de biciclete acoperite se află lângă intrare.",
+                "en": "Covered bike racks are located near the entrance."
+              }
+            },
+            {
+              "name": "Sauvosaari Sports Park",
+              "tip_5lang": {
+                "de": "Vorsicht bei nassen Kurven auf den Parkwegen.",
+                "hu": "Vigyázzon a vizes kanyarokban a parki utakon.",
+                "ro": "Atenție la curbele umede pe aleile parcului.",
+                "en": "Be careful on wet curves on the park paths."
+              }
+            },
+            {
+              "name": "Inner Harbour",
+              "tip_5lang": {
+                "de": "Die Holzstege können bei Regen sehr rutschig sein.",
+                "hu": "A fapallók esőben nagyon csúszósak lehetnek.",
+                "ro": "Podețele de lemn pot fi foarte alunecoase pe ploaie.",
+                "en": "The wooden boardwalks can be very slippery in the rain."
+              }
+            },
+            {
+              "name": "Gemstone Museum",
+              "tip_5lang": {
+                "de": "Ideal, um die Regenjacke kurz abtropfen zu lassen.",
+                "hu": "Ideális hely az esőkabát rövid lecsöpögtetésére.",
+                "ro": "Loc ideal pentru a lăsa pelerina de ploaie să se scurgă puțin.",
+                "en": "Ideal spot to let your raincoat drip dry for a bit."
+              }
+            },
+            {
+              "name": "SnowCastle & Icebreaker Sampo",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit drinnen, während das Rad draußen im Regen steht.",
+                "hu": "Használja ki a benti időt, amíg a gép kint ázik.",
+                "ro": "Profitați de timpul petrecut în interior în timp ce bicicleta stă în ploaie.",
+                "en": "Make the most of the indoor time while the bike is outside."
+              }
+            },
+            {
+              "name": "Mansikkanokka Beach",
+              "tip_5lang": {
+                "de": "Der Sandweg kann bei starkem Regen etwas weich werden.",
+                "hu": "A homokos út erős esőben kissé felázhat.",
+                "ro": "Drumul cu nisip poate deveni moale în caz de ploaie torențială.",
+                "en": "The sandy path can get a bit soft during heavy rain."
+              }
+            },
+            {
+              "name": "Dinner in the Center",
+              "tip_5lang": {
+                "de": "Viele Restaurants bieten Platz für nasse Ausrüstung an der Garderobe.",
+                "hu": "Sok étteremben van hely a vizes cuccoknak a ruhatárnál.",
+                "ro": "Multe restaurante oferă spațiu pentru echipamentul umed la garderobă.",
+                "en": "Many restaurants have space for wet gear at the cloakroom."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein kompletter Regenanzug und Überschuhe sind sehr empfohlen.",
+              "Vermeiden Sie abrupte Bremsmanöver auf markierten Straßenstellen.",
+              "Schutzbleche am Rad sind bei Kemi-Wetter unverzichtbar.",
+              "Wischen Sie den Sattel vor der Weiterfahrt immer trocken.",
+              "Beleuchtung am Rad ist auch tagsüber bei Regen ratsam."
+            ],
+            "hu": [
+              "Teljes esőruha és kamásli használata erősen ajánlott.",
+              "Kerülje a hirtelen fékezést a felfestett útszakaszokon.",
+              "A sárvédő nélkülözhetetlen a kemi esős időben.",
+              "Továbbindulás előtt mindig törölje szárazra az ülést.",
+              "Esőben nappal is érdemes használni a kerékpáros lámpákat."
+            ],
+            "ro": [
+              "Un costum de ploaie complet și protecții pentru pantofi sunt recomandate.",
+              "Evitați frânarea bruscă pe porțiunile marcate ale drumului.",
+              "Apărătorile de noroi sunt indispensabile pe vremea din Kemi.",
+              "Ștergeți întotdeauna șaua înainte de a pleca din nou la drum.",
+              "Luminile bicicletei sunt recomandate și ziua pe timp de ploaie."
+            ],
+            "en": [
+              "A full rain suit and shoe covers are highly recommended.",
+              "Avoid abrupt braking on painted road markings.",
+              "Mudguards on your bike are indispensable in Kemi weather.",
+              "Always wipe the saddle dry before continuing your ride.",
+              "Bike lights are advisable even during the day when it's raining."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winter-Biking in Kemi ist ein echtes Abenteuer. Mit dicken Reifen geht es durch den Pulverschnee von der Kirche zum Kulturzentrum. Die Fahrt am zugefrorenen Hafen bietet spektakuläre Ausblicke, bevor Sie sich im Edelsteinmuseum aufwärmen. Nachmittags ist die Fahrt zum SnowCastle kurz, aber knackig kalt. Den Tag krönen Sie mit einer gemütlichen Fahrt durch das beleuchtete Zentrum zum Abendessen.",
+            "hu": "A téli bringázás Kemiben igazi kaland. Vastag gumikkal vágjon át a porhavon a templomtól a Kulturális Központig. A befagyott kikötő melletti tekerés látványos, de hideg, így jól fog esni a Drágakőmúzeum melege. Délután a SnowCastle-hoz vezető út rövid, de csípős. A napot egy hangulatos, kivilágított belvárosi tekeréssel és vacsorával zárjuk.",
+            "ro": "Ciclismul de iarnă în Kemi este o adevărată aventură. Cu anvelope late, treceți prin zăpadă de la biserică spre Centrul Cultural. Cursa pe lângă portul înghețat oferă priveliști spectaculoase înainte de a vă încălzi la Muzeul Pietrelor Prețioase. După-amiaza, drumul spre SnowCastle este scurt, dar foarte rece. Încheiați ziua cu o cursă plăcută prin centrul iluminat spre cină.",
+            "en": "Winter biking in Kemi is a true adventure. With fat tires, ride through the powder snow from the church to the Cultural Centre. Cycling by the frozen harbor offers spectacular views before warming up in the Gemstone Museum. In the afternoon, the ride to the SnowCastle is short but crisp. Crown the day with a cozy ride through the illuminated center to dinner."
+          },
+          "stops": [
+            {
+              "name": "Kemi Church",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Reifendruck – bei Schnee hilft etwas weniger Druck.",
+                "hu": "Ellenőrizze a guminyomást – hóban a kevesebb jobb tapadást ad.",
+                "ro": "Verificați presiunea anvelopelor – presiunea scăzută ajută în zăpadă.",
+                "en": "Check tire pressure – lower pressure helps with traction in snow."
+              }
+            },
+            {
+              "name": "Kemi Cultural Centre",
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihr Schloss bei Frost nicht einfriert.",
+                "hu": "Győződjön meg róla, hogy a zár nem fagy be a hidegben.",
+                "ro": "Asigurați-vă că antifurtul nu îngheață la temperaturi scăzute.",
+                "en": "Make sure your bike lock doesn't freeze in the cold."
+              }
+            },
+            {
+              "name": "Sauvosaari Sports Park",
+              "tip_5lang": {
+                "de": "Nutzen Sie die geräumten Hauptwege für leichteres Vorankommen.",
+                "hu": "Használja a letakarított főutakat a könnyebb haladásért.",
+                "ro": "Folosiți aleile principale deszăpezite pentru a înainta mai ușor.",
+                "en": "Use the cleared main paths for easier cycling."
+              }
+            },
+            {
+              "name": "Inner Harbour",
+              "tip_5lang": {
+                "de": "Vorsicht vor Verwehungen auf den Radwegen am Wasser.",
+                "hu": "Vigyázzon a hófúvásokkal a vízparti kerékpárutakon.",
+                "ro": "Atenție la troienele de zăpadă pe pistele de biciclete de lângă apă.",
+                "en": "Watch out for snowdrifts on the bike paths near the water."
+              }
+            },
+            {
+              "name": "Gemstone Museum",
+              "tip_5lang": {
+                "de": "Gute Gelegenheit, um eingefrorene Finger wieder aufzuwärmen.",
+                "hu": "Jó alkalom az átfagyott ujjak felmelegítésére.",
+                "ro": "Oportunitate bună de a vă încălzi degetele înghețate.",
+                "en": "Good opportunity to warm up frozen fingers."
+              }
+            },
+            {
+              "name": "SnowCastle & Icebreaker Sampo",
+              "tip_5lang": {
+                "de": "Parken Sie das Rad sicher, bevor Sie die Eiswelten betreten.",
+                "hu": "Parkoljon le biztonságosan, mielőtt belépne a jégbirodalomba.",
+                "ro": "Parcați bicicleta în siguranță înainte de a intra în lumea gheții.",
+                "en": "Park your bike securely before entering the ice worlds."
+              }
+            },
+            {
+              "name": "Mansikkanokka Beach",
+              "tip_5lang": {
+                "de": "Ein Fatbike ist hier auf dem verschneiten Strandweg ideal.",
+                "hu": "A fatbike ideális választás a havas strandúton.",
+                "ro": "Un fatbike este ideal aici pe drumul înzăpezit de la plajă.",
+                "en": "A fatbike is ideal here on the snowy beach path."
+              }
+            },
+            {
+              "name": "Dinner in the Center",
+              "tip_5lang": {
+                "de": "Das Radlicht ist bei der frühen Dunkelheit lebenswichtig.",
+                "hu": "A lámpa elengedhetetlen a korai sötétedés miatt.",
+                "ro": "Luminile bicicletei sunt vitale din cauza întunericului timpuriu.",
+                "en": "Bike lights are vital due to the early darkness."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein Fatbike mit Spikereifen ist für den Kemi-Winter am besten.",
+              "Tragen Sie winddichte Handschuhe und einen Gesichtsschutz.",
+              "Die Kette sollte gut geölt sein, um Streusalz-Korrosion zu vermeiden.",
+              "Planen Sie mehr Zeit ein, da das Treten im Schnee anstrengender ist.",
+              "Akkus von E-Bikes sollten bei Stopps mit nach drinnen genommen werden."
+            ],
+            "hu": [
+              "A szöges gumival ellátott fatbike a legjobb választás télen.",
+              "Viseljen szélálló kesztyűt és arcvédő maszkot.",
+              "A láncot érdemes jól olajozni az útszóró só okozta korrózió ellen.",
+              "Számoljon több idővel, mert a hóban tekerés fárasztóbb.",
+              "Az elektromos kerékpárok akkumulátorát vigye be a fűtött helyre."
+            ],
+            "ro": [
+              "Un fatbike cu anvelope cu ținte este cel mai bun pentru iarna din Kemi.",
+              "Purtați mănuși rezistente la vânt și o protecție pentru față.",
+              "Lanțul trebuie bine gresat pentru a evita coroziunea de la sare.",
+              "Planificați mai mult timp, deoarece pedalatul prin zăpadă e solicitant.",
+              "Bateriile bicicletelor electrice trebuie luate în interior la popasuri."
+            ],
+            "en": [
+              "A fatbike with studded tires is best for the Kemi winter.",
+              "Wear windproof gloves and a face mask.",
+              "The chain should be well-oiled to prevent corrosion from road salt.",
+              "Allow extra time as pedaling through snow is more strenuous.",
+              "E-bike batteries should be taken indoors during stops."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1011,6 +1445,196 @@
           "The cluster strategy saves time and the hassle of finding parking multiple times.",
           "Allow plenty of time for the harbour area as there's a lot to see."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Kemi auch bei starkem Regen komfortabel zu erkunden. Starten Sie im Zentrum und nutzen Sie die kurzen Wege zwischen Kirche und Kulturzentrum. Die Fahrt zum Hafen bietet bei Regen gute Sicht auf das Meer, während das Edelsteinmuseum trockene Unterhaltung bietet. Nachmittags parken Sie direkt am SnowCastle. Die Tour endet flexibel mit einer kurzen Fahrt zurück in die Stadt.",
+            "hu": "Autóval Kemi még erős esőben is kényelmesen bejárható. Kezdjen a központban, ahol a templom és a Kulturális Központ közelében könnyű parkolni. A kikötő felé autózva élvezheti a tengeri kilátást, miközben a Drágakőmúzeumban fedett helyen nézelődhet. Délután közvetlenül a SnowCastle bejáratánál parkolhat. A túra rugalmasan, egy rövid városi visszauttal zárul.",
+            "ro": "Cu mașina, Kemi este ușor de explorat chiar și pe ploaie torențială. Începeți în centru și profitați de parcările din apropierea bisericii și a Centrului Cultural. Drumul spre port oferă o vedere bună spre mare în timp ce sunteți la adăpost. După-amiaza, parcați direct la SnowCastle pentru a evita ploaia. Turul se încheie flexibil cu o scurtă cursă înapoi în oraș.",
+            "en": "By car, Kemi is comfortable to explore even during heavy rain. Start in the center, utilizing parking near the church and Cultural Centre. The drive to the harbor provides good sea views while staying dry, with the Gemstone Museum offering indoor entertainment. In the afternoon, park right at the SnowCastle entrance. The tour ends flexibly with a quick drive back into town."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: City Center (Parking)",
+              "tip_5lang": {
+                "de": "Zentraler Parkplatz, idealer Ausgangspunkt für die Innenstadt-Museen.",
+                "hu": "Központi parkoló, ideális kiindulópont a belvárosi múzeumokhoz.",
+                "ro": "Parcare centrală, punct de plecare ideal pentru muzeele din centru.",
+                "en": "Central parking, ideal starting point for city center museums."
+              }
+            },
+            {
+              "name": "Kemi Church",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Parkplatz zum Kircheneingang bei Regen.",
+                "hu": "Rövid séta a parkolótól a templom bejáratáig esőben.",
+                "ro": "Scurtă plimbare de la parcare la intrarea în biserică pe ploaie.",
+                "en": "Short walk from the parking to the church entrance in the rain."
+              }
+            },
+            {
+              "name": "Cultural Centre & Gemstone Museum",
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang, um trocken zu bleiben.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz, hogy száraz maradjon.",
+                "ro": "Parcați cât mai aproape de intrare pentru a rămâne uscat.",
+                "en": "Park as close to the entrance as possible to stay dry."
+              }
+            },
+            {
+              "name": "Cluster 2: Harbour Area (Drive)",
+              "tip_5lang": {
+                "de": "Genießen Sie die Küstenfahrt mit Scheibenwischern auf höchster Stufe.",
+                "hu": "Élvezze a tengerparti autózást a legmagasabb fokozatra kapcsolt ablaktörlővel.",
+                "ro": "Bucurați-vă de drumul de coastă cu ștergătoarele la maximum.",
+                "en": "Enjoy the coastal drive with wipers on high if needed."
+              }
+            },
+            {
+              "name": "SnowCastle & Icebreaker Sampo",
+              "tip_5lang": {
+                "de": "Großer, befestigter Parkplatz direkt vor dem Experience 365 Gebäude.",
+                "hu": "Nagy, aszfaltozott parkoló közvetlenül az Experience 365 épülete előtt.",
+                "ro": "Parcare mare asfaltată chiar în fața clădirii Experience 365.",
+                "en": "Large paved parking lot directly in front of the Experience 365 building."
+              }
+            },
+            {
+              "name": "Cluster 3: Recreation (Drive)",
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Regen im Auto und genießen Sie den Meerblick.",
+                "hu": "Erős esőben maradjon az autóban és élvezze a kilátást a tengerre.",
+                "ro": "Rămâneți în mașină dacă plouă tare și admirați vederea la mare.",
+                "en": "Stay in the car and enjoy the sea view if the rain is heavy."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf den Küstenstraßen.",
+              "Die Parkplatzsituation in Kemi ist auch bei Regen entspannt.",
+              "Lassen Sie die Klimaanlage laufen, um beschlagene Scheiben zu vermeiden.",
+              "Nutzen Sie das Auto als Basis, um zwischendurch Kleidung zu wechseln.",
+              "Hafengebühren können meist bequem per App bezahlt werden."
+            ],
+            "hu": [
+              "Ügyeljen a vízfelúszásra (aquaplaning) a part menti utakon.",
+              "Kemi parkolási lehetőségei esőben is bőségesek maradnak.",
+              "Használja a klímát a szélvédő párátlanításához.",
+              "Az autó kiváló bázis a vizes ruhák cseréjéhez két állomás között.",
+              "A kikötői parkolást legtöbb helyen applikációval is fizetheti."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumurile de coastă.",
+              "Situația parcărilor în Kemi este relaxată chiar și pe ploaie.",
+              "Folosiți aerul condiționat pentru a dezaburi geamurile.",
+              "Utilizați mașina ca bază pentru a schimba hainele ude între opriri.",
+              "Taxele de parcare în port pot fi plătite de obicei prin aplicație."
+            ],
+            "en": [
+              "Watch out for aquaplaning on coastal roads.",
+              "Parking in Kemi remains easy even during rainy weather.",
+              "Keep the air conditioning on to prevent windows from fogging up.",
+              "Use the car as a base to change wet clothes between stops.",
+              "Harbor parking fees can usually be paid conveniently via app."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter ist das Auto das sicherste Mittel gegen die arktische Kälte in Kemi. Beginnen Sie die Tour im beheizten Wagen an der Kirche. Die Fahrt zum Hafen führt durch eine weiße Winterlandschaft, wobei das Edelsteinmuseum als warme Station dient. Nachmittags erreichen Sie das SnowCastle, dessen Parkplatz oft schneebedeckt ist. Der Abend endet komfortabel mit der Fahrt zu einem gemütlichen Restaurant im Zentrum.",
+            "hu": "Télen az autó a legbiztosabb védelmet nyújtja az arkktikus hideg ellen Kemiben. Kezdje a túrát fűtött kocsival a templomnál. A kikötő felé vezető út hófödte tájakon visz keresztül, a Drágakőmúzeum pedig remek fűtött megálló. Délután könnyen elérheti a SnowCastle-t, ahol a parkoló sokszor havas. A napot egy kényelmes belvárosi autózással és vacsorával zárjuk.",
+            "ro": "Iarna, mașina este cel mai sigur mijloc împotriva gerului arctic din Kemi. Începeți turul în mașina încălzită la biserică. Drumul spre port trece printr-un peisaj alb de iarnă, Muzeul Pietrelor Prețioase fiind o stație caldă. După-amiaza ajungeți la SnowCastle, unde parcarea este adesea înzăpezită. Seara se încheie confortabil cu o cursă spre un restaurant primitor din centru.",
+            "en": "In winter, the car is the safest defense against the Arctic cold in Kemi. Start the tour in a warm car at the church. The drive to the harbor goes through a white winter wonderland, with the Gemstone Museum serving as a warm station. In the afternoon, reach the SnowCastle, where the parking lot is often snow-covered. The evening ends comfortably with a drive to a cozy restaurant in the center."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: City Center (Parking)",
+              "tip_5lang": {
+                "de": "Parkplätze werden regelmäßig geräumt, aber Vorsicht vor Glätte.",
+                "hu": "A parkolókat rendszeresen takarítják, de vigyázzon a csúszós felületekre.",
+                "ro": "Parcările sunt deszăpezite regulat, dar atenție la gheață.",
+                "en": "Parking lots are cleared regularly, but watch out for ice."
+              }
+            },
+            {
+              "name": "Kemi Church",
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor nicht unnötig laufen, nutzen Sie Standheizung.",
+                "hu": "Ne járassa feleslegesen a motort, használja az állófűtést.",
+                "ro": "Nu lăsați motorul pornit inutil, folosiți încălzirea auxiliară.",
+                "en": "Don't leave the engine idling unnecessarily; use a block heater if available."
+              }
+            },
+            {
+              "name": "Cultural Centre & Gemstone Museum",
+              "tip_5lang": {
+                "de": "Ein warmer Innenraum erwartet Sie nach dem kurzen Sprint vom Auto.",
+                "hu": "Meleg belső tér várja az autótól való rövid sprint után.",
+                "ro": "Un interior cald vă așteaptă după un scurt sprint de la mașină.",
+                "en": "A warm interior awaits you after a short sprint from the car."
+              }
+            },
+            {
+              "name": "Cluster 2: Harbour Area (Drive)",
+              "tip_5lang": {
+                "de": "Vorsicht vor Rentieren oder Wild auf den verschneiten Küstenstraßen.",
+                "hu": "Vigyázzon a rénszarvasokra vagy vadakra a havas part menti utakon.",
+                "ro": "Atenție la reni sau animale sălbatice pe drumurile de coastă înzăpezite.",
+                "en": "Watch out for reindeer or wildlife on snowy coastal roads."
+              }
+            },
+            {
+              "name": "SnowCastle & Icebreaker Sampo",
+              "tip_5lang": {
+                "de": "Das Auto kühlt hier am windigen Hafen sehr schnell aus.",
+                "hu": "Az autó a szeles kikötőben nagyon hamar lehűl.",
+                "ro": "Mașina se răcește foarte repede aici, în portul vântos.",
+                "en": "The car cools down very quickly here in the windy harbor."
+              }
+            },
+            {
+              "name": "Cluster 3: Recreation (Drive)",
+              "tip_5lang": {
+                "de": "Halten Sie für Fotos kurz an, aber bleiben Sie auf befestigten Wegen.",
+                "hu": "Fotózáshoz álljon meg röviden, de maradjon a letakarított utakon.",
+                "ro": "Opriți scurt pentru fotografii, dar rămâneți pe drumurile curățate.",
+                "en": "Stop briefly for photos, but stay on the cleared paths."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in Finnland gesetzlich vorgeschrieben.",
+              "Nutzen Sie bei Stopps das Motorvorwärmkabel (Block Heater).",
+              "Halten Sie einen Eiskratzer und eine Schneeschaufel bereit.",
+              "Die Straßen können extrem glatt sein (Black Ice), fahren Sie vorsichtig.",
+              "Achten Sie auf die begrenzte Tageslichtdauer bei der Routenplanung."
+            ],
+            "hu": [
+              "Finnországban a téli gumi használata kötelező.",
+              "Használja a motor-előmelegítő kábelt a hosszabb megállóknál.",
+              "Mindig legyen az autóban jégkaparó és egy kis hólapát.",
+              "Az utak rendkívül csúszósak lehetnek, vezessen óvatosan.",
+              "Vegye figyelembe a korlátozott nappali fényt a tervezésnél."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii prin lege în Finlanda.",
+              "Folosiți cablul de preîncălzire a motorului la opriri prelungite.",
+              "Păstrați în mașină o racletă de gheață și o lopată de zăpadă.",
+              "Drumurile pot fi extrem de alunecoase, conduceți cu prudență.",
+              "Țineți cont de durata scurtă a luminii de zi în planificarea rutei."
+            ],
+            "en": [
+              "Winter tires are mandatory by law in Finland.",
+              "Use the engine block heater cable during longer stops.",
+              "Keep an ice scraper and a small snow shovel in the car.",
+              "Roads can be extremely slippery (black ice); drive carefully.",
+              "Account for limited daylight hours when planning your route."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1303,6 +1927,178 @@
           "Check the bus schedule in advance, especially for the return trip from the harbour.",
           "Buses are an efficient way to cover the slightly longer distances to the main attractions."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit den lokalen Bussen erkunden Sie Kemi bei Regen ganz entspannt. Starten Sie im Zentrum und besuchen Sie die nahegelegene Kirche. Kurze Busfahrten bringen Sie trocken zum Kulturzentrum und zum Edelsteinmuseum am Hafen. Nachmittags ist die Verbindung zum SnowCastle ideal, um dem Wetter zu entfliehen. Die Tour endet mit einer komfortablen Busfahrt zurück zu Ihrem Ausgangspunkt.",
+            "hu": "A helyi buszokkal kényelmesen bejárhatja Kemit esős időben is. Kezdjen a központban, ahol a templom sétatávolságra van. Rövid buszutak visznek szárazon a Kulturális Központhoz és a kikötői Drágakőmúzeumhoz. Délután a SnowCastle felé tartó járatok segítenek elkerülni az esőt. A túra egy kényelmes buszos visszautazással zárul a kiindulópontra.",
+            "ro": "Cu autobuzele locale, puteți explora Kemi pe ploaie fără stres. Începeți în centru și vizitați biserica din apropiere. Cursele scurte de autobuz vă duc la Centrul Cultural și la Muzeul Pietrelor Prețioase din port. După-amiaza, conexiunea spre SnowCastle este ideală pentru a scăpa de vremea rea. Turul se încheie cu o cursă confortabilă înapoi spre punctul de plecare.",
+            "en": "Using local buses, you can explore Kemi in the rain without any stress. Start in the center and visit the nearby church. Short bus rides will take you dryly to the Cultural Centre and the Gemstone Museum at the harbor. In the afternoon, the connection to SnowCastle is ideal for escaping the weather. The tour ends with a comfortable bus ride back to your starting point."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: City Center (Arrival)",
+              "tip_5lang": {
+                "de": "Zentraler Busknotenpunkt mit überdachten Wartebereichen.",
+                "hu": "Központi buszcsomópont fedett várakozókkal.",
+                "ro": "Nod central de transport cu zone de așteptare acoperite.",
+                "en": "Central bus hub with sheltered waiting areas."
+              }
+            },
+            {
+              "name": "Kemi Church & Cultural Centre",
+              "tip_5lang": {
+                "de": "Beide Ziele sind nur einen kurzen Sprint von der Bushaltestelle entfernt.",
+                "hu": "Mindkét célpont csak egy rövid sprintre van a buszmegállótól.",
+                "ro": "Ambele destinații sunt la o scurtă fugă de stația de autobuz.",
+                "en": "Both destinations are just a short sprint from the bus stop."
+              }
+            },
+            {
+              "name": "Gemstone Museum",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Abfahrtszeiten online, um Wartezeiten im Regen zu minimieren.",
+                "hu": "Ellenőrizze a menetrendet online, hogy keveset várjon az esőben.",
+                "ro": "Verificați programul online pentru a minimiza așteptarea în ploaie.",
+                "en": "Check departure times online to minimize waiting in the rain."
+              }
+            },
+            {
+              "name": "Cluster 2: Harbour Area (Bus Ride)",
+              "tip_5lang": {
+                "de": "Genießen Sie die trockene Fahrt, während es draußen stürmt.",
+                "hu": "Élvezze a száraz utazást, amíg kint tombol a szél.",
+                "ro": "Bucurați-vă de călătoria uscată în timp ce afară este furtună.",
+                "en": "Enjoy the dry ride while it's stormy outside."
+              }
+            },
+            {
+              "name": "SnowCastle & Icebreaker Sampo",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist nah am SnowCastle 365 Eingang.",
+                "hu": "A megálló közel van a SnowCastle 365 bejáratához.",
+                "ro": "Stația este aproape de intrarea SnowCastle 365.",
+                "en": "The stop is close to the SnowCastle 365 entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie Tickets vorab per App, um Kontakt mit Regen zu vermeiden.",
+              "Die Busse in Kemi sind pünktlich und gut beheizt.",
+              "Halten Sie an den Haltestellen Ausschau nach Unterständen.",
+              "Nutzen Sie die Echtzeit-Anzeige der Busse auf Ihrem Smartphone.",
+              "Ein kleiner Regenschirm ist für den Weg zur Haltestelle nützlich."
+            ],
+            "hu": [
+              "Vásároljon jegyet előre applikációban, hogy elkerülje az esőt.",
+              "A kemi buszok pontosak és jól fűtöttek.",
+              "Keresse a fedett beállókat a buszmegállókban.",
+              "Használja az okostelefonos valós idejű menetrendet.",
+              "Egy kis esernyő hasznos a megállóig tartó rövid útra."
+            ],
+            "ro": [
+              "Cumpărați bilete în avans prin aplicație pentru a evita ploaia.",
+              "Autobuzele din Kemi sunt punctuale și bine încălzite.",
+              "Căutați stațiile cu adăpost pentru a aștepta autobuzul.",
+              "Utilizați monitorizarea în timp real a curselor pe smartphone.",
+              "O umbrelă mică este utilă pentru drumul până la stație."
+            ],
+            "en": [
+              "Buy tickets in advance via app to avoid fumbling in the rain.",
+              "Buses in Kemi are punctual and well-heated.",
+              "Look for sheltered bus stops while waiting.",
+              "Use real-time bus tracking on your smartphone.",
+              "A small umbrella is useful for the walk to the bus stop."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der öffentliche Nahverkehr ist im Winter eine warme Verbindung zwischen den Sehenswürdigkeiten Kemis. Starten Sie im verschneiten Zentrum. Warme Busse bringen Sie bequem zum Kulturzentrum und zum Hafenbereich. Mittags wärmen Sie im Edelsteinmuseum auf, bevor der Bus Sie zum SnowCastle bringt, wo das Eis im Winterlicht glänzt. Die Tour endet mit einer gemütlichen Fahrt zurück ins Herz der Stadt.",
+            "hu": "A tömegközlekedés télen meleg összeköttetést biztosít Kemi látnivalói között. Kezdjen a havas központban. A fűtött buszok kényelmesen viszik el a Kulturális Központhoz és a kikötőhöz. Délben melegedjen át a Drágakőmúzeumban, majd buszozzon a SnowCastle-hoz, ahol a jég csillog a téli fényben. A túra egy hangulatos visszautazással zárul a város szívébe.",
+            "ro": "Transportul public este o legătură caldă între atracțiile din Kemi pe timp de iarnă. Începeți în centrul înzăpezit. Autobuzele încălzite vă duc confortabil la Centrul Cultural și în zona portului. La prânz, încălziți-vă la Muzeul Pietrelor Prețioase înainte de a lua autobuzul spre SnowCastle. Turul se încheie cu o călătorie plăcută înapoi în inima orașului.",
+            "en": "Public transport serves as a warm link between Kemi's sights in winter. Start in the snowy center. Heated buses take you comfortably to the Cultural Centre and the harbor area. At noon, warm up in the Gemstone Museum before taking the bus to the SnowCastle, where the ice glitters in the winter light. The tour ends with a cozy ride back to the heart of the city."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: City Center (Arrival)",
+              "tip_5lang": {
+                "de": "Vorsicht vor Schneehaufen beim Aussteigen aus dem Bus.",
+                "hu": "Vigyázzon a hóbuckákra a buszról való leszálláskor.",
+                "ro": "Atenție la mormanele de zăpadă la coborârea din autobuz.",
+                "en": "Watch out for snow piles when getting off the bus."
+              }
+            },
+            {
+              "name": "Kemi Church & Cultural Centre",
+              "tip_5lang": {
+                "de": "Die Busse fahren hier im Winter zuverlässig nach Plan.",
+                "hu": "A buszok télen is megbízhatóan közlekednek itt.",
+                "ro": "Autobuzele circulă fiabil conform programului chiar și iarna.",
+                "en": "Buses run reliably according to schedule here even in winter."
+              }
+            },
+            {
+              "name": "Gemstone Museum",
+              "tip_5lang": {
+                "de": "Warten Sie drinnen im Museumsshop, bis der Bus fällig ist.",
+                "hu": "Várjon bent a múzeumi boltban, amíg a busz érkezik.",
+                "ro": "Așteptați în magazinul muzeului până când trebuie să vină autobuzul.",
+                "en": "Wait inside the museum shop until the bus is due."
+              }
+            },
+            {
+              "name": "Cluster 2: Harbour Area (Bus Ride)",
+              "tip_5lang": {
+                "de": "Ein schöner Blick auf die Winterlandschaft vom Fensterplatz.",
+                "hu": "Szép kilátás a téli tájra az ablak melletti ülésről.",
+                "ro": "O vedere frumoasă a peisajului de iarnă de la fereastră.",
+                "en": "Great views of the winter landscape from the window seat."
+              }
+            },
+            {
+              "name": "SnowCastle & Icebreaker Sampo",
+              "tip_5lang": {
+                "de": "Die Haltestelle kann im Winter etwas verschneit sein.",
+                "hu": "A megálló télen kissé havas lehet, figyeljen a lába elé.",
+                "ro": "Stația poate fi înzăpezită iarna, atenție la pași.",
+                "en": "The bus stop might be snowy in winter; watch your step."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Finnische Busse sind extrem zuverlässig, auch bei viel Schnee.",
+              "Nutzen Sie die Heizung im Bus, um Ihre Kleidung zu trocknen.",
+              "Reflektoren an der Kleidung sind wichtig, um vom Busfahrer gesehen zu werden.",
+              "Die Taktfrequenz kann an Wochenenden im Winter reduziert sein.",
+              "Haben Sie die Fahrplan-App immer griffbereit."
+            ],
+            "hu": [
+              "A finn buszok rendkívül megbízhatóak, még nagy hóban is.",
+              "Használja a busz fűtését az átmelegedéshez két állomás között.",
+              "Viseljen fényvisszaverőt, hogy a buszsofőr időben észrevegye.",
+              "Hétvégén a téli menetrend ritkább lehet, ellenőrizze előre.",
+              "Tartsa készenlétben a menetrendi alkalmazást."
+            ],
+            "ro": [
+              "Autobuzele finlandeze sunt extrem de fiabile, chiar și pe ninsoare.",
+              "Folosiți căldura din autobuz pentru a vă încălzi între stații.",
+              "Accesoriile reflectorizante sunt importante pentru a fi văzut de șofer.",
+              "Frecvența curselor poate fi redusă în weekend pe timp de iarnă.",
+              "Aveți aplicația cu programul curselor mereu la îndemână."
+            ],
+            "en": [
+              "Finnish buses are extremely reliable, even in heavy snow.",
+              "Use the bus heating to warm up between stops.",
+              "Wear reflectors so the bus driver can see you in the dark.",
+              "Bus frequency might be reduced on winter weekends.",
+              "Keep the transit app ready on your phone."
+            ]
+          }
+        }
       }
     }
   }

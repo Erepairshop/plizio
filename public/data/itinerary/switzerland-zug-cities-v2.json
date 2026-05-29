@@ -316,6 +316,196 @@
           "Many fountains have drinking water quality.",
           "Public toilets are clean and well-signposted."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Vormittag: Der Regen trommelt auf die Dächer der Altstadt, während Sie den Zytturm erkunden. Mittag: In den schmalen Gassen finden Sie Schutz und Wärme in einem lokalen Bistro. Nachmittag: Das Kunsthaus bietet den perfekten trockenen Rückzugsort vor den Schauern am See. Abend: Ein kurzer Spaziergang unter dem Regenschirm an der Promenade schließt den Tag stimmungsvoll ab.",
+            "hu": "Reggel: Az eső kopog az óváros tetőin, miközben a Zytturm óratorony alatt keresünk menedéket. Délben: A szűk utcák védelmet nyújtanak, egy hangulatos bisztróban melegedünk fel. Délután: A Művészeti Múzeum tökéletes száraz búvóhely a tavi záporok elől. Este: Egy rövid esernyős séta a tóparti sétányon, ahol a fények megcsillannak a vizes aszfalton.",
+            "ro": "Dimineața: Ploaia bate în acoperișurile centrului vechi în timp ce explorați turnul Zytturm. Prânz: Găsiți adăpost și căldură într-un bistro local pe străzile înguste. După-amiaza: Muzeul de Artă oferă refugiul uscat perfect împotriva averselor de pe malul lacului. Seara: O scurtă plimbare cu umbrela pe faleză încheie ziua într-un mod atmosferic.",
+            "en": "Morning: Rain drums on the Old Town roofs as you seek shelter under the Zytturm clock tower. Lunch: The narrow alleys provide cover as you find warmth in a local bistro. Afternoon: The Art Museum offers the perfect dry sanctuary from the lakeside showers. Evening: A short walk with an umbrella along the promenade concludes the day with reflecting lights on the wet pavement."
+          },
+          "stops": [
+            {
+              "name": "Town Hall and Old Town",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden der Altstadt, um trocken zu bleiben.",
+                "hu": "Használja az óvárosi árkádokat, hogy száraz maradjon.",
+                "ro": "Folosiți arcadele din centrul vechi pentru a rămâne uscat.",
+                "en": "Use the Old Town arcades to stay dry while exploring."
+              }
+            },
+            {
+              "name": "Zytturm (Clock Tower)",
+              "tip_5lang": {
+                "de": "Der Turm ist überdacht, ideal bei plötzlichen Schauern.",
+                "hu": "A torony fedett, ideális hirtelen záporok esetén.",
+                "ro": "Turnul este acoperit, ideal în caz de averse bruște.",
+                "en": "The tower is covered, making it ideal during sudden showers."
+              }
+            },
+            {
+              "name": "Church of St. Oswald",
+              "tip_5lang": {
+                "de": "Ein ruhiger, trockener Ort für eine besinnliche Pause.",
+                "hu": "Csendes, száraz hely egy meghitt pihenőhöz.",
+                "ro": "Un loc liniștit și uscat pentru o pauză de meditație.",
+                "en": "A quiet, dry place for a peaceful break from the rain."
+              }
+            },
+            {
+              "name": "Zug Castle",
+              "tip_5lang": {
+                "de": "Das Museum im Inneren ist der beste Ort bei Dauerregen.",
+                "hu": "A belső múzeum a legjobb hely tartós eső esetén.",
+                "ro": "Muzeul din interior este cel mai bun loc în caz de ploaie continuă.",
+                "en": "The interior museum is the best place during persistent rain."
+              }
+            },
+            {
+              "name": "Zug Art Museum",
+              "tip_5lang": {
+                "de": "Planen Sie hier mehr Zeit ein, wenn es draußen schüttet.",
+                "hu": "Tervezzen ide több időt, ha kint szakad az eső.",
+                "ro": "Planificați mai mult timp aici dacă afară plouă torențial.",
+                "en": "Plan more time here if it's pouring outside."
+              }
+            },
+            {
+              "name": "Zug Lake Promenade",
+              "tip_5lang": {
+                "de": "Vorsicht, die Uferwege können bei Nässe rutschig sein.",
+                "hu": "Vigyázat, a parti utak nedvesen csúszósak lehetnek.",
+                "ro": "Atenție, potecile de pe mal pot fi alunecoase când sunt ude.",
+                "en": "Be careful, the lakeside paths can be slippery when wet."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie feste, wasserdichte Schuhe für das Kopfsteinpflaster.",
+              "Die Altstadt-Arkaden bieten guten Schutz vor Wind und Wetter.",
+              "Ein Taschenschirm ist wegen der Seebrise praktischer als ein Stockschirm.",
+              "Nutzen Sie die Cafés am Landsgemeindeplatz für trockene Pausen.",
+              "Das Museum Burg Zug bietet stundenlange Indoor-Unterhaltung."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a macskaköves utcákhoz.",
+              "Az óvárosi árkádok jó védelmet nyújtanak a szél ellen.",
+              "A tavi szél miatt az összecsukható esernyő praktikusabb.",
+              "Használja a Landsgemeindeplatz kávézóit a száraz pihenőkhöz.",
+              "A Burg Zug múzeum órákig tartó beltéri programot kínál."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru străzile pietruite.",
+              "Arcadele din centrul vechi oferă protecție bună împotriva vântului.",
+              "O umbrelă de buzunar e mai practică din cauza brizelor de pe lac.",
+              "Folosiți cafenelele din Landsgemeindeplatz pentru pauze uscate.",
+              "Muzeul Burg Zug oferă ore întregi de divertisment indoor."
+            ],
+            "en": [
+              "Wear waterproof shoes for the cobblestone streets.",
+              "The Old Town arcades provide good shelter from wind and rain.",
+              "A pocket umbrella is more practical due to lake breezes.",
+              "Use the cafes at Landsgemeindeplatz for dry breaks.",
+              "The Zug Castle museum offers hours of indoor entertainment."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Vormittag: Die frische Winterluft am See belebt die Sinne beim Start in der Altstadt. Mittag: Ein heißes Fondue wärmt Sie auf, während die Stadt in festlichem Glanz erstrahlt. Nachmittag: Besuchen Sie die Museen, wenn es draußen früh dämmert. Abend: Die beleuchtete Promenade bietet einen märchenhaften Blick auf die verschneiten Gipfel in der Ferne.",
+            "hu": "Reggel: A friss téli levegő a tónál felfrissíti az érzékeket az óvárosi kezdéskor. Délben: Egy forró fondue felmelegít, miközben a város ünnepi fényben úszik. Délután: Látogasson el a múzeumokba, amikor kint korán sötétedik. Este: A kivilágított sétány mesebeli kilátást nyújt a távoli havas csúcsokra.",
+            "ro": "Dimineața: Aerul proaspăt de iarnă de lângă lac revigorează simțurile la începutul turului. Prânz: Un fondue fierbinte vă încălzește în timp ce orașul strălucește festiv. După-amiaza: Vizitați muzeele când afară se înserează devreme. Seara: Faleza iluminată oferă o priveliște de basm asupra vârfurilor înzăpezite din depărtare.",
+            "en": "Morning: The crisp winter air by the lake invigorates your senses as you start in the Old Town. Lunch: A hot fondue warms you up while the city glows in festive lights. Afternoon: Visit the museums as dusk falls early outside. Evening: The illuminated promenade offers a fairy-tale view of the snowy peaks in the distance."
+          },
+          "stops": [
+            {
+              "name": "Town Hall and Old Town",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stellen auf dem Kopfsteinpflaster.",
+                "hu": "Ügyeljen a jeges foltokra a macskaköveken.",
+                "ro": "Atenție la porțiunile înghețate de pe pietriș.",
+                "en": "Watch out for icy patches on the cobblestones."
+              }
+            },
+            {
+              "name": "Zytturm (Clock Tower)",
+              "tip_5lang": {
+                "de": "Der Aufstieg wärmt auf, oben weht oft ein kalter Wind.",
+                "hu": "A lépcsőzés felmelegít, de fent gyakran fúj a hideg szél.",
+                "ro": "Urcarea vă va încălzi, dar sus bate adesea un vânt rece.",
+                "en": "The climb warms you up, but it's often windy at the top."
+              }
+            },
+            {
+              "name": "Church of St. Oswald",
+              "tip_5lang": {
+                "de": "Ein warmer Ort für eine kurze Pause vom Winterwind.",
+                "hu": "Meleg hely egy rövid szünetre a téli szél elől.",
+                "ro": "Un loc cald pentru o scurtă pauză de vântul de iarnă.",
+                "en": "A warm spot for a brief break from the winter wind."
+              }
+            },
+            {
+              "name": "Zug Castle",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ausstellungen, um sich aufzuwärmen.",
+                "hu": "Látogassa meg a kiállításokat, hogy felmelegedjen.",
+                "ro": "Vizitați expozițiile pentru a vă încălzi.",
+                "en": "Visit the exhibitions to warm up thoroughly."
+              }
+            },
+            {
+              "name": "Zug Art Museum",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe und Wärme in den Galerien.",
+                "hu": "Élvezze a nyugalmat és a meleget a galériákban.",
+                "ro": "Bucurați-vă de liniște și căldură în galerii.",
+                "en": "Enjoy the peace and warmth within the galleries."
+              }
+            },
+            {
+              "name": "Zug Lake Promenade",
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang ist im Winter besonders spektakulär (ca. 16:30).",
+                "hu": "A naplemente télen különösen látványos (kb. 16:30).",
+                "ro": "Apusul este spectaculos iarna (aprox. ora 16:30).",
+                "en": "The winter sunset is spectacular (around 4:30 PM)."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Schichten und Mütze sind für den See-Wind unerlässlich.",
+              "Die Sonne geht im Dezember bereits gegen 16:30 Uhr unter.",
+              "Suchen Sie nach Fondue-Chalets für ein authentisches Winteressen.",
+              "Die Wege am See können bei Frost glatt sein.",
+              "Trinken Sie einen Glühwein am Landsgemeindeplatz."
+            ],
+            "hu": [
+              "A réteges öltözködés és sapka elengedhetetlen a tavi szélben.",
+              "A nap decemberben már 16:30 körül lemegy.",
+              "Keressen fondue-házikókat egy autentikus téli vacsorához.",
+              "A tóparti utak fagy esetén csúszósak lehetnek.",
+              "Igyon egy forralt bort a Landsgemeindeplatzon."
+            ],
+            "ro": [
+              "Straturile calde și căciula sunt esențiale pentru vântul de pe lac.",
+              "Soarele apune deja în jurul orei 16:30 în decembrie.",
+              "Căutați cabane de fondue pentru o cină autentică de iarnă.",
+              "Potecile de lângă lac pot fi alunecoase în caz de îngheț.",
+              "Beți un vin fiert în Landsgemeindeplatz."
+            ],
+            "en": [
+              "Warm layers and a hat are essential for the lake wind.",
+              "The sun sets as early as 4:30 PM in December.",
+              "Look for fondue chalets for an authentic winter dinner.",
+              "Lakeside paths can be slippery during frost.",
+              "Enjoy a mulled wine at Landsgemeindeplatz."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -626,6 +816,196 @@
           "Be mindful of pedestrians in the Old Town.",
           "A bike lock is essential."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Vormittag: Mit Regenkleidung geht es entlang des Sees zum Kunsthaus. Mittag: Eine Pause im Warmen lässt die Kleidung trocknen, bevor es in die Altstadt geht. Nachmittag: Die kurzen Distanzen zwischen den Türmen machen das Radfahren auch bei Schauern machbar. Abend: Ein schneller Ritt zurück zum Ausgangspunkt, gefolgt von einem warmen Getränk.",
+            "hu": "Reggel: Esőruhában tekerünk a tó mentén a Művészeti Múzeum felé. Délben: Egy meleg szünet alatt megszáradhatunk, mielőtt az óvárosba indulnánk. Délután: A tornyok közötti rövid távolságok záporok esetén is vállalhatóvá teszik a biciklizést. Este: Gyors tekerés vissza a kiindulópontra, majd egy forró ital.",
+            "ro": "Dimineața: Cu echipament de ploaie, pedalați pe malul lacului spre Muzeul de Artă. Prânz: O pauză la căldură permite uscarea hainelor înainte de a merge în orașul vechi. După-amiaza: Distanțele scurte între turnuri fac ciclismul fezabil chiar și în timpul averselor. Seara: O cursă rapidă înapoi la punctul de plecare, urmată de o băutură caldă.",
+            "en": "Morning: With rain gear on, cycle along the lake towards the Art Museum. Lunch: A break in the warm allows clothes to dry before heading to the Old Town. Afternoon: Short distances between the towers make cycling feasible even during showers. Evening: A quick ride back to the starting point, followed by a deserved warm drink."
+          },
+          "stops": [
+            {
+              "name": "Lake Promenade and Bike Path",
+              "tip_5lang": {
+                "de": "Vorsicht vor Pfützen und rutschigen Markierungen.",
+                "hu": "Vigyázzon a tócsákra és a csúszós útburkolati jelelekre.",
+                "ro": "Atenție la bălți și la marcajele rutiere alunecoase.",
+                "en": "Watch out for puddles and slippery road markings."
+              }
+            },
+            {
+              "name": "Zug Art Museum",
+              "tip_5lang": {
+                "de": "Überdachte Fahrradständer befinden sich in der Nähe.",
+                "hu": "Fedett biciklitárolók találhatók a közelben.",
+                "ro": "Rastele de biciclete acoperite se află în apropiere.",
+                "en": "Covered bike racks are available nearby."
+              }
+            },
+            {
+              "name": "Town Hall and Old Town",
+              "tip_5lang": {
+                "de": "Auf nassem Kopfsteinpflaster besonders vorsichtig bremsen.",
+                "hu": "Nedves macskakövön különösen óvatosan fékezzen.",
+                "ro": "Frânați cu mare atenție pe piatra cubică umedă.",
+                "en": "Brake very carefully on wet cobblestones."
+              }
+            },
+            {
+              "name": "Zytturm",
+              "tip_5lang": {
+                "de": "Kurzer Stopp, um die Regenjacke zu richten.",
+                "hu": "Rövid megálló az esőkabát megigazításához.",
+                "ro": "Scurtă oprire pentru a vă aranja pelerina de ploaie.",
+                "en": "Short stop to adjust your rain jacket."
+              }
+            },
+            {
+              "name": "Zug Castle",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch als Regenpause.",
+                "hu": "Használja a múzeumlátogatást esőszünetnek.",
+                "ro": "Folosiți vizita la muzeu ca pauză de ploaie.",
+                "en": "Use the museum visit as a break from the rain."
+              }
+            },
+            {
+              "name": "Pulverturm (Gunpowder Tower)",
+              "tip_5lang": {
+                "de": "Der Boden kann hier durch nasses Laub rutschig sein.",
+                "hu": "A talaj itt a nedves levelek miatt csúszós lehet.",
+                "ro": "Solul poate fi alunecos aici din cauza frunzelor ude.",
+                "en": "The ground can be slippery here due to wet leaves."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vollständige Regenbekleidung (Hose + Jacke) ist ratsam.",
+              "Vermeiden Sie hastiges Bremsen auf Schienen oder Pflaster.",
+              "Beleuchtung am Rad ist bei grauem Wetter Pflicht.",
+              "Schutzbleche am Fahrrad sind bei diesem Wetter ein Muss.",
+              "Trocknen Sie Ihre Bremsen durch kurzes Betätigen während der Fahrt."
+            ],
+            "hu": [
+              "Teljes esőruházat (nadrág + kabát) ajánlott.",
+              "Kerülje a hirtelen fékezést síneken vagy kövön.",
+              "Szürke időben kötelező a kerékpár kivilágítása.",
+              "A sárvédő ebben az időben elengedhetetlen.",
+              "Menet közben rövid fékezésekkel szárítsa meg a fékeket."
+            ],
+            "ro": [
+              "Se recomandă echipament de ploaie complet (pantaloni + jachetă).",
+              "Evitați frânarea bruscă pe șine sau piatră cubică.",
+              "Luminile la bicicletă sunt obligatorii pe vreme gri.",
+              "Apărătorile de noroi sunt indispensabile pe acest timp.",
+              "Uscați frânele prin acționări scurte în timpul mersului."
+            ],
+            "en": [
+              "Full rain gear (trousers + jacket) is highly recommended.",
+              "Avoid sudden braking on tram tracks or cobblestones.",
+              "Bike lights are mandatory in grey, rainy weather.",
+              "Mudguards are a must-have for this weather.",
+              "Dry your brakes by applying them lightly while riding."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Vormittag: Eine klare, kalte Fahrt am Seeufer entlang startet den Tag. Mittag: Nach dem Museumsbesuch wärmen Sie sich bei einer Suppe auf. Nachmittag: Die historische Altstadt wirkt im Winterlicht besonders stimmungsvoll vom Sattel aus. Abend: Beenden Sie die Tour, bevor es zu frostig wird, und genießen Sie die Lichter der Stadt.",
+            "hu": "Reggel: Egy tiszta, hideg tekerés a tóparton indítja a napot. Délben: A múzeumlátogatás után egy forró levesnél melegedhetünk fel. Délután: A történelmi óváros a téli fényekben különösen hangulatos a nyeregből nézve. Este: Fejezze be a túrát, mielőtt túl fagyos lenne, és élvezze a város fényeit.",
+            "ro": "Dimineața: O cursă clară și rece pe malul lacului începe ziua. Prânz: După vizita la muzeu, vă încălziți cu o supă fierbinte. După-amiaza: Orașul vechi istoric pare deosebit de atmosferic din șa în lumina iernii. Seara: Încheiați turul înainte să devină prea ger și bucurați-vă de luminile orașului.",
+            "en": "Morning: A clear, cold ride along the lakeshore starts the day. Lunch: Warm up with a soup after your museum visit. Afternoon: The historical Old Town looks especially atmospheric from the saddle in winter light. Evening: Finish the tour before it gets too frosty and enjoy the city lights."
+          },
+          "stops": [
+            {
+              "name": "Lake Promenade and Bike Path",
+              "tip_5lang": {
+                "de": "Achtung bei Brücken, dort bildet sich zuerst Glatteis.",
+                "hu": "Vigyázat a hidakon, ott képződik először jégréteg.",
+                "ro": "Atenție la poduri, acolo se formează prima dată poleiul.",
+                "en": "Be careful on bridges, as ice forms there first."
+              }
+            },
+            {
+              "name": "Zug Art Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp, um die Hände aufzuwärmen.",
+                "hu": "Használja ki a megállót a kezei felmelegítésére.",
+                "ro": "Folosiți oprirea pentru a vă încălzi mâinile.",
+                "en": "Use this stop to warm up your hands."
+              }
+            },
+            {
+              "name": "Town Hall and Old Town",
+              "tip_5lang": {
+                "de": "Abgestreuter Splitt kann in Kurven tückisch sein.",
+                "hu": "A kiszórt murva a kanyarokban csalóka lehet.",
+                "ro": "Pietrișul antiderapant poate fi înșelător în curbe.",
+                "en": "Grit on the road can be tricky in corners."
+              }
+            },
+            {
+              "name": "Zytturm",
+              "tip_5lang": {
+                "de": "Ein schöner Ort für Fotos im goldenen Winterlicht.",
+                "hu": "Szép hely fotózáshoz az aranyló téli fényekben.",
+                "ro": "Un loc frumos pentru poze în lumina aurie de iarnă.",
+                "en": "A beautiful spot for photos in the golden winter light."
+              }
+            },
+            {
+              "name": "Zug Castle",
+              "tip_5lang": {
+                "de": "Im Winter sind die Innenhöfe oft festlich dekoriert.",
+                "hu": "Télen a belső udvarok gyakran ünnepi díszben állnak.",
+                "ro": "Iarna, curțile interioare sunt adesea decorate festiv.",
+                "en": "Courtyards are often festively decorated in winter."
+              }
+            },
+            {
+              "name": "Pulverturm (Gunpowder Tower)",
+              "tip_5lang": {
+                "de": "Gegen 16:30 Uhr wird es dunkel, Licht einschalten.",
+                "hu": "16:30 körül sötétedik, kapcsolja be a lámpákat.",
+                "ro": "Se întunecă în jurul orei 16:30, aprindeți luminile.",
+                "en": "It gets dark around 4:30 PM, turn on your lights."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Gute Handschuhe und Windstopper-Kleidung sind Pflicht.",
+              "Prüfen Sie den Reifendruck; etwas weniger Druck gibt mehr Grip.",
+              "Vermeiden Sie Fahrten bei extremer Glätte oder Schneefall.",
+              "Der Akku von E-Bikes entlädt sich bei Kälte schneller.",
+              "Planen Sie kürzere Etappen ein, um nicht auszukühlen."
+            ],
+            "hu": [
+              "A jó kesztyű és szélálló ruházat kötelező.",
+              "Ellenőrizze a guminyomást; a kisebb nyomás jobb tapadást ad.",
+              "Kerülje a tekerést extrém jegesedés vagy havazás esetén.",
+              "Az e-bike akkumulátora hidegben gyorsabban merül.",
+              "Tervezzen rövidebb szakaszokat, hogy ne hűljön ki."
+            ],
+            "ro": [
+              "Mănușile bune și hainele rezistente la vânt sunt obligatorii.",
+              "Verificați presiunea; o presiune mai mică oferă aderență mai bună.",
+              "Evitați deplasarea pe polei extrem sau ninsoare abundentă.",
+              "Bateria bicicletelor electrice se descarcă mai repede la frig.",
+              "Planificați etape mai scurte pentru a nu îngheța."
+            ],
+            "en": [
+              "Good gloves and windbreaker clothing are mandatory.",
+              "Check tire pressure; slightly lower pressure provides more grip.",
+              "Avoid riding during extreme ice or heavy snowfall.",
+              "E-bike batteries drain faster in the cold.",
+              "Plan shorter segments to avoid getting too cold."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -966,6 +1346,214 @@
           "Pay attention to speed limits, especially in 30 km/h zones.",
           "Plan your route in advance to avoid traffic."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Vormittag: Bequeme Fahrt zum Parkhaus, von wo aus Sie trocken das Seeufer erreichen. Mittag: Kurze Wege zwischen den Parkplätzen minimieren den Kontakt mit dem Regen. Nachmittag: Das Schloss und die Museen bieten ein ideales Indoor-Programm. Abend: Genießen Sie die Heimfahrt durch die glitzernden, nassen Straßen von Zug.",
+            "hu": "Reggel: Kényelmes gurulás a parkolóházba, ahonnan szárazon érjük el a tópartot. Délben: A parkolók közötti rövid utak minimalizálják az esővel való érintkezést. Délután: A kastély és a múzeumok ideális beltéri programot kínálnak. Este: Élvezze a hazautat Zug csillogó, vizes utcáin keresztül.",
+            "ro": "Dimineața: Călătorie confortabilă spre parcare, de unde ajungeți uscat pe malul lacului. Prânz: Distanțele scurte între parcări minimizează contactul cu ploaia. După-amiaza: Castelul și muzeele oferă un program indoor ideal. Seara: Bucurați-vă de drumul spre casă prin străzile strălucitoare și ude ale orașului Zug.",
+            "en": "Morning: A comfortable drive to the parking garage, from where you can reach the lakeshore dryly. Lunch: Short drives between parking spots minimize exposure to the rain. Afternoon: The castle and museums offer a perfect indoor itinerary. Evening: Enjoy the drive home through the glistening, wet streets of Zug."
+          },
+          "stops": [
+            {
+              "name": "Altstadt-Casino Parking Garage",
+              "tip_5lang": {
+                "de": "Idealer Startpunkt, um direkt im Trockenen zu parken.",
+                "hu": "Ideális kiindulópont a száraz parkoláshoz.",
+                "ro": "Punct de plecare ideal pentru a parca direct la adăpost.",
+                "en": "Ideal starting point to park directly under cover."
+              }
+            },
+            {
+              "name": "Zug Lake Promenade",
+              "tip_5lang": {
+                "de": "Nur ein kurzer Sprung vom Auto zum Seeufer.",
+                "hu": "Csak egy ugrás az autótól a tópart.",
+                "ro": "Doar o scurtă fugă de la mașină la malul lacului.",
+                "en": "Just a short dash from the car to the lakeside."
+              }
+            },
+            {
+              "name": "Zug Art Museum",
+              "tip_5lang": {
+                "de": "Parkplätze in der blauen Zone direkt davor verfügbar.",
+                "hu": "Parkolóhelyek a kék zónában közvetlenül előtte.",
+                "ro": "Locuri de parcare în zona albastră disponibile chiar în față.",
+                "en": "Blue zone parking spaces available right in front."
+              }
+            },
+            {
+              "name": "Drive to Postplatz Parking Garage",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus, um nicht nass zu werden.",
+                "hu": "Használja a parkolóházat, hogy ne ázzon el.",
+                "ro": "Folosiți parcarea etajată pentru a nu vă uda.",
+                "en": "Use the multi-story car park to stay dry."
+              }
+            },
+            {
+              "name": "Town Hall and Zytturm",
+              "tip_5lang": {
+                "de": "Lassen Sie den Schirm im Auto, wenn Sie nur kurz schauen.",
+                "hu": "Hagyja az esernyőt a kocsiban, ha csak röviden nézelődik.",
+                "ro": "Lăsați umbrela în mașină dacă vă uitați doar scurt.",
+                "en": "Leave the umbrella in the car if you're only looking briefly."
+              }
+            },
+            {
+              "name": "Zug Castle",
+              "tip_5lang": {
+                "de": "Das Parkhaus am Postplatz ist nur wenige Gehminuten entfernt.",
+                "hu": "A Postplatz parkolóháza csak pár perc séta.",
+                "ro": "Parcarea de la Postplatz este la doar câteva minute de mers.",
+                "en": "The Postplatz car park is only a few minutes' walk away."
+              }
+            },
+            {
+              "name": "Drive to the southern towers",
+              "tip_5lang": {
+                "de": "Gute Sicht auch bei Regen aus dem Fahrzeug heraus.",
+                "hu": "Jó kilátás az autóból esőben is.",
+                "ro": "Vizibilitate bună chiar și pe ploaie din interiorul vehiculului.",
+                "en": "Good views even in the rain from inside the vehicle."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Parkhäuser (Casino, Postplatz) für trockene Übergänge.",
+              "Haben Sie immer einen Regenschirm im Auto griffbereit.",
+              "Achten Sie bei Regen auf Fußgänger in den engen Altstadtgassen.",
+              "Die Sicht kann bei starkem Regen am See eingeschränkt sein.",
+              "Nutzen Sie die Parkleitsysteme, um Zeit im Regen zu sparen."
+            ],
+            "hu": [
+              "Használja a parkolóházakat (Casino, Postplatz) a száraz átmenethez.",
+              "Mindig legyen esernyő kéznél az autóban.",
+              "Esőben figyeljen a gyalogosokra a szűk óvárosi utcákban.",
+              "Heves esőben a kilátás korlátozott lehet a tónál.",
+              "Használja a parkolássegítő rendszert az időnyeréshez."
+            ],
+            "ro": [
+              "Folosiți parcările (Casino, Postplatz) pentru tranziții uscate.",
+              "Aveți întotdeauna o umbrelă la îndemână în mașină.",
+              "Atenție la pietoni pe ploaie în străzile înguste ale centrului vechi.",
+              "Vizibilitatea poate fi redusă la lac în caz de ploaie puternică.",
+              "Folosiți sistemul de ghidare a parcării pentru a economisi timp."
+            ],
+            "en": [
+              "Use parking garages (Casino, Postplatz) for dry transitions.",
+              "Always have an umbrella ready in the car.",
+              "Watch out for pedestrians in narrow streets during rain.",
+              "Visibility at the lake can be limited during heavy rain.",
+              "Use the parking guidance system to save time in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Vormittag: Fahrt durch die winterliche Landschaft zum See. Mittag: Kurzer Fußweg vom warmen Auto in das festlich dekorierte Restaurant. Nachmittag: Die Burg und das Kunsthaus bieten Wärme und Kultur. Abend: Rückfahrt entlang der beleuchteten Promenade mit Blick auf das abendliche Zug.",
+            "hu": "Reggel: Autózás a téli tájon keresztül a tóhoz. Délben: Rövid séta a meleg autóból az ünnepi díszbe öltözött étteremig. Délután: A vár és a Művészeti Múzeum meleget és kultúrát kínál. Este: Hazautazás a kivilágított sétány mentén, kilátással az esti Zugra.",
+            "ro": "Dimineața: Călătorie prin peisajul hibernal spre lac. Prânz: Scurtă plimbare de la mașina caldă la restaurantul decorat festiv. După-amiaza: Castelul și Muzeul de Artă oferă căldură și cultură. Seara: Drumul de întoarcere pe lângă faleza iluminată cu vedere spre Zugul nocturn.",
+            "en": "Morning: Drive through the wintry landscape to the lake. Lunch: A short walk from the warm car to a festively decorated restaurant. Afternoon: The castle and Art Museum provide warmth and culture. Evening: Return drive along the illuminated promenade with views of Zug at night."
+          },
+          "stops": [
+            {
+              "name": "Altstadt-Casino Parking Garage",
+              "tip_5lang": {
+                "de": "Frostfreie Parkplätze direkt am Seeufer.",
+                "hu": "Fagymentes parkolóhelyek közvetlenül a tóparton.",
+                "ro": "Locuri de parcare ferite de îngheț chiar lângă lac.",
+                "en": "Frost-free parking spaces right by the lakeshore."
+              }
+            },
+            {
+              "name": "Zug Lake Promenade",
+              "tip_5lang": {
+                "de": "Genießen Sie die Aussicht kurz und wärmen sich dann im Auto auf.",
+                "hu": "Élvezze a kilátást röviden, majd melegedjen fel a kocsiban.",
+                "ro": "Bucurați-vă de priveliște scurt și apoi încălziți-vă în mașină.",
+                "en": "Enjoy the view briefly, then warm up in the car."
+              }
+            },
+            {
+              "name": "Zug Art Museum",
+              "tip_5lang": {
+                "de": "Vorsicht vor Eis auf den Parkplatzmarkierungen.",
+                "hu": "Vigyázzon a jégre a parkolóhelyek felfestésein.",
+                "ro": "Atenție la gheața de pe marcajele parcării.",
+                "en": "Watch out for ice on the parking space markings."
+              }
+            },
+            {
+              "name": "Drive to Postplatz Parking Garage",
+              "tip_5lang": {
+                "de": "Beheizte Parkhäuser sind im Winter ein Komfort-Plus.",
+                "hu": "A fűtött parkolóházak télen kényelmi pluszt jelentenek.",
+                "ro": "Parcările acoperite sunt un plus de confort iarna.",
+                "en": "Covered parking garages are a comfort plus in winter."
+              }
+            },
+            {
+              "name": "Town Hall and Zytturm",
+              "tip_5lang": {
+                "de": "Die Gassen sind oft gestreut, aber dennoch Vorsicht beim Aussteigen.",
+                "hu": "Az utcák gyakran fel vannak szórva, de kiszálláskor legyen óvatos.",
+                "ro": "Străzile sunt adesea presărate cu sare, dar atenție la coborâre.",
+                "en": "Streets are often gritted, but be careful when getting out."
+              }
+            },
+            {
+              "name": "Zug Castle",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um Kälteperioden kurz zu halten.",
+                "hu": "Parkoljon közel a bejárathoz a hideg elkerülése végett.",
+                "ro": "Parcați aproape de intrare pentru a evita frigul.",
+                "en": "Park close to the entrance to keep cold exposure short."
+              }
+            },
+            {
+              "name": "Drive to the southern towers",
+              "tip_5lang": {
+                "de": "Vorsicht bei steilen oder schattigen Straßenabschnitten.",
+                "hu": "Vigyázat a meredek vagy árnyékos útszakaszokon.",
+                "ro": "Atenție la secțiunile de drum abrupte sau umbrite.",
+                "en": "Be careful on steep or shaded road sections."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen und ein Eiskratzer sind absolut notwendig.",
+              "Achten Sie auf Glätte in Parkhäusern durch eingeschleppten Schnee.",
+              "Die Batteriekapazität kann bei extremer Kälte sinken.",
+              "Halten Sie die Scheibenwaschanlage mit Frostschutz gefüllt.",
+              "Nutzen Sie die Sitzheizung für die kurzen Wege zwischen den POIs."
+            ],
+            "hu": [
+              "A téli gumi és a jégkaparó elengedhetetlen.",
+              "Ügyeljen a csúszós felületekre a parkolóházakban a behordott hó miatt.",
+              "Az akkumulátor kapacitása extrém hidegben csökkenhet.",
+              "Tartsa feltöltve a szélvédőmosót fagyállóval.",
+              "Használja az ülésfűtést a pontok közötti rövid utakon."
+            ],
+            "ro": [
+              "Anvelopele de iarnă și racleta sunt absolut necesare.",
+              "Atenție la polei în parcări din cauza zăpezii aduse de mașini.",
+              "Capacitatea bateriei poate scădea la frig extrem.",
+              "Păstrați lichidul de parbriz umplut cu antigel.",
+              "Folosiți încălzirea în scaune pentru drumurile scurte între obiective."
+            ],
+            "en": [
+              "Winter tires and an ice scraper are absolutely necessary.",
+              "Watch out for slippery floors in garages due to melting snow.",
+              "Battery capacity can drop in extreme cold.",
+              "Keep your windshield washer fluid topped with antifreeze.",
+              "Use seat heating for the short drives between POIs."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1279,6 +1867,196 @@
           "Most buses have USB charging ports.",
           "Note that buses run less frequently in the evening."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Vormittag: Ankunft am Bahnhof, der Bus bringt Sie trocken zum Postplatz. Mittag: Kurze Wartezeiten an überdachten Haltestellen machen den Tag angenehm. Nachmittag: Der Bus zum Casino hält fast direkt vor dem Kunsthaus. Abend: Ein kurzer Spaziergang zum See und zurück zur Haltestelle unter dem Schutz der Arkaden.",
+            "hu": "Reggel: Érkezés a vasútállomásra, a busz szárazon visz a Postplatzhoz. Délben: A fedett megállókban való rövid várakozás kellemessé teszi a napot. Délután: A Casino felé tartó busz szinte közvetlenül a Művészeti Múzeumnál áll meg. Este: Rövid séta a tóhoz és vissza a megállóhoz az árkádok védelmében.",
+            "ro": "Dimineața: Sosire la gară, autobuzul vă duce uscat la Postplatz. Prânz: Timpii scurți de așteptare în stații acoperite fac ziua plăcută. După-amiaza: Autobuzul spre Casino oprește aproape direct în fața Muzeului de Artă. Seara: O scurtă plimbare la lac și înapoi la stație sub protecția arcadelor.",
+            "en": "Morning: Arrival at the station, the bus takes you dryly to Postplatz. Lunch: Short wait times at sheltered bus stops make the day pleasant. Afternoon: The bus to the Casino stops almost directly in front of the Art Museum. Evening: A short walk to the lake and back to the stop under the cover of the arcades."
+          },
+          "stops": [
+            {
+              "name": "Arrival at train station, bus to Postplatz",
+              "tip_5lang": {
+                "de": "Warten Sie in der Bahnhofshalle, bis der Bus einfährt.",
+                "hu": "Várjon a vasúti váróteremben, amíg beérkezik a busz.",
+                "ro": "Așteptați în holul gării până când sosește autobuzul.",
+                "en": "Wait inside the station hall until the bus arrives."
+              }
+            },
+            {
+              "name": "Town Hall and Zytturm",
+              "tip_5lang": {
+                "de": "Die Haltestelle Postplatz ist nur 2 Minuten entfernt.",
+                "hu": "A Postplatz megálló csak 2 percre van.",
+                "ro": "Stația Postplatz este la doar 2 minute distanță.",
+                "en": "The Postplatz stop is only 2 minutes away."
+              }
+            },
+            {
+              "name": "Zug Castle and St. Oswald's Church",
+              "tip_5lang": {
+                "de": "Der Weg vom Postplatz führt durch gedeckte Gassen.",
+                "hu": "A Postplatztól vezető út fedett sikátorokon át visz.",
+                "ro": "Drumul de la Postplatz trece prin străduțe acoperite.",
+                "en": "The route from Postplatz goes through covered alleys."
+              }
+            },
+            {
+              "name": "Bus ride to the Casino",
+              "tip_5lang": {
+                "de": "Häufige Verbindungen minimieren die Zeit im Regen.",
+                "hu": "A gyakori járatok minimalizálják az esőben töltött időt.",
+                "ro": "Conexiunile frecvente reduc timpul petrecut în ploaie.",
+                "en": "Frequent connections minimize time spent in the rain."
+              }
+            },
+            {
+              "name": "Zug Art Museum",
+              "tip_5lang": {
+                "de": "Die Haltestelle 'Casino' ist fast vor dem Eingang.",
+                "hu": "A 'Casino' megálló szinte a bejárat előtt van.",
+                "ro": "Stația 'Casino' este aproape în fața intrării.",
+                "en": "The 'Casino' stop is almost right in front of the entrance."
+              }
+            },
+            {
+              "name": "Lake Promenade",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Kiosk oder Cafés als Regenunterschlupf.",
+                "hu": "Használja a kiskocsmákat vagy kávézókat eső elleni menedékként.",
+                "ro": "Folosiți chioșcurile sau cafenelele ca adăpost împotriva ploii.",
+                "en": "Use kiosks or cafes as shelters from the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Zuger Verkehrsbetriebe sind sehr pünktlich.",
+              "Laden Sie die SBB Mobile App für Echtzeit-Infos herunter.",
+              "Die meisten Haltestellen im Zentrum sind überdacht.",
+              "Ein Tagespass für die Zone 610 ist am praktischsten.",
+              "Nutzen Sie die Busse, um längere Gehstrecken im Regen zu vermeiden."
+            ],
+            "hu": [
+              "A Zugi közlekedési vállalat nagyon pontos.",
+              "Töltse le az SBB Mobile alkalmazást a valós idejű infókért.",
+              "A legtöbb központi megálló fedett.",
+              "A 610-es zónára érvényes napijegy a legpraktikusabb.",
+              "Használja a buszokat a hosszú esőben való gyaloglás elkerülésére."
+            ],
+            "ro": [
+              "Compania de transport din Zug este foarte punctuală.",
+              "Descărcați aplicația SBB Mobile pentru informații în timp real.",
+              "Majoritatea stațiilor din centru sunt acoperite.",
+              "Un abonament de o zi pentru zona 610 este cel mai practic.",
+              "Folosiți autobuzele pentru a evita mersul lung pe jos prin ploaie."
+            ],
+            "en": [
+              "Zug public transport is highly punctual.",
+              "Download the SBB Mobile app for real-time information.",
+              "Most central bus stops are sheltered.",
+              "A day pass for Zone 610 is the most practical option.",
+              "Use buses to avoid long walking distances in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Vormittag: Warme Fahrt vom Bahnhof in die festliche Altstadt. Mittag: Ein heißes Getränk in einem Café nahe der Bushaltestelle. Nachmittag: Der Besuch der Museen ist ideal, da die Busse Sie direkt dorthin bringen. Abend: Die Lichter der Promenade vom Bus aus genießen, bevor es zurück zum Bahnhof geht.",
+            "hu": "Reggel: Meleg utazás a vasútállomástól az ünnepi óvárosba. Délben: Egy forró ital egy kávézóban a buszmegálló közelében. Délután: A múzeumlátogatás ideális, mivel a buszok közvetlenül oda visznek. Este: Élvezze a sétány fényeit a buszból, mielőtt visszatérne az állomásra.",
+            "ro": "Dimineața: Călătorie caldă de la gară spre orașul vechi festiv. Prânz: O băutură fierbinte într-o cafenea de lângă stația de autobuz. După-amiaza: Vizita la muzee este ideală, deoarece autobuzele vă lasă direct acolo. Seara: Admirați luminile falezei din autobuz înainte de a vă întoarce la gară.",
+            "en": "Morning: A warm ride from the station into the festive Old Town. Lunch: A hot drink in a cafe near the bus stop. Afternoon: Visiting museums is ideal as buses take you almost to the entrance. Evening: Enjoy the promenade lights from the bus before heading back to the station."
+          },
+          "stops": [
+            {
+              "name": "Arrival at train station, bus to Postplatz",
+              "tip_5lang": {
+                "de": "Die Busse sind im Winter angenehm beheizt.",
+                "hu": "A buszok télen kellemesen fűtöttek.",
+                "ro": "Autobuzele sunt încălzite plăcut pe timp de iarnă.",
+                "en": "Buses are comfortably heated during winter."
+              }
+            },
+            {
+              "name": "Town Hall and Zytturm",
+              "tip_5lang": {
+                "de": "Ein kurzer, kalter Weg vom Bus in die Altstadt.",
+                "hu": "Rövid, hideg út a busztól az óvárosba.",
+                "ro": "Un drum scurt și rece de la autobuz în centrul vechi.",
+                "en": "A short, cold walk from the bus into the Old Town."
+              }
+            },
+            {
+              "name": "Zug Castle and St. Oswald's Church",
+              "tip_5lang": {
+                "de": "Die Museen bieten eine willkommene Aufwärmpause.",
+                "hu": "A múzeumok szívesen látott felmelegedési szünetet nyújtanak.",
+                "ro": "Muzeele oferă o pauză de încălzire binevenită.",
+                "en": "Museums provide a welcome break to warm up."
+              }
+            },
+            {
+              "name": "Bus ride to the Casino",
+              "tip_5lang": {
+                "de": "Perfekt, um sich zwischen den Besichtigungen aufzuwärmen.",
+                "hu": "Tökéletes a városnézések közötti felmelegedéshez.",
+                "ro": "Perfect pentru a vă încălzi între vizite.",
+                "en": "Perfect for warming up between sightseeing stops."
+              }
+            },
+            {
+              "name": "Zug Art Museum",
+              "tip_5lang": {
+                "de": "Der Eingang ist nur wenige Meter von der Haltestelle entfernt.",
+                "hu": "A bejárat csak pár méterre van a megállótól.",
+                "ro": "Intrarea este la doar câțiva metri de stație.",
+                "en": "The entrance is just a few meters from the bus stop."
+              }
+            },
+            {
+              "name": "Lake Promenade",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Promenade kurz vor Sonnenuntergang.",
+                "hu": "Látogasson el a sétányra közvetlenül naplemente előtt.",
+                "ro": "Vizitați faleza chiar înainte de apusul soarelui.",
+                "en": "Visit the promenade just before sunset."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse fahren im 15-Minuten-Takt, kaum Wartezeit im Freien.",
+              "Nutzen Sie die beheizten Warteräume im Bahnhof Zug.",
+              "Ab 16:30 Uhr ist die Weihnachtsbeleuchtung besonders schön.",
+              "Achten Sie auf Glätte beim Ein- und Aussteigen.",
+              "Die Zuger Abendbusse bringen Sie sicher und warm zurück."
+            ],
+            "hu": [
+              "A buszok 15 percenként járnak, kevés a várakozás a szabadban.",
+              "Használja a fűtött várótermeket a zugi állomáson.",
+              "16:30-tól a karácsonyi kivilágítás különösen szép.",
+              "Ügyeljen a csúszós felületekre le- és felszálláskor.",
+              "A zugi esti buszok biztonságban és melegben viszik vissza."
+            ],
+            "ro": [
+              "Autobuzele circulă la fiecare 15 minute, puțin timp afară.",
+              "Folosiți sălile de așteptare încălzite din gara Zug.",
+              "După ora 16:30, iluminatul de Crăciun este deosebit de frumos.",
+              "Atenție la polei la urcare și coborâre.",
+              "Autobuzele de seară din Zug vă aduc înapoi în siguranță și căldură."
+            ],
+            "en": [
+              "Buses run every 15 minutes, so little time is spent waiting outside.",
+              "Utilize the heated waiting rooms at Zug station.",
+              "Christmas lights are especially beautiful after 4:30 PM.",
+              "Watch out for ice when getting on or off the bus.",
+              "Evening buses in Zug take you back safely and warmly."
+            ]
+          }
+        }
       }
     }
   }

@@ -379,6 +379,206 @@
           "Many cafes offer 'Fika' deals, a Swedish coffee break tradition.",
           "Keep your camera ready, Södertälje has many picturesque water views."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen beginnt am Saltsjötorget, wo Pfützen das Pflaster spiegeln. Die St. Ragnhild Kirche bietet einen trockenen, besinnlichen Rückzugsort. Mittags führt der Weg zum Torekällberget, wo die historischen Gebäude Schutz vor dem Guss bieten.\n\nDer Nachmittag gehört dem Tom Tits Experiment, einem idealen Ziel bei Regen mit weitläufigen Innenräumen. Der Tag endet mit einem kurzen Spaziergang über die Storgatan, vorbei an gemütlichen Cafés, in denen man dem Regen zusehen kann.",
+            "hu": "Az esős reggel a Saltsjötorget téren indul, ahol a macskaköveken megcsillan a víz. A Szent Ragnhild-templom csendes menedéket nyújt a zápor elől. Délben a Torekällberget skanzen felé vesszük az irányt, ahol a régi házak belső tereiben pihenhetünk meg.\n\nA délutánt a Tom Tits Experiment hatalmas belső tereiben töltjük, ami a legjobb választás rossz időben. Az este a Storgatan sétálóutcáján zárul, ahol a kávézók ablakából figyelhetjük az esőcseppeket.",
+            "ro": "O dimineață ploioasă începe în Saltsjötorget, unde bălțile reflectă pavajul. Biserica Sf. Ragnhild oferă un refugiu uscat și liniștit. La prânz, drumul duce spre Torekällberget, unde clădirile istorice oferă protecție împotriva ploii.\n\nDupă-amiaza este dedicată Tom Tits Experiment, o destinație ideală pentru ploaie, cu spații interioare vaste. Ziua se încheie cu o scurtă plimbare pe Storgatan, trecând pe lângă cafenele primitoare unde poți privi ploaia.",
+            "en": "A rainy morning starts at Saltsjötorget, with puddles reflecting the cobblestones. St. Ragnhild's Church provides a dry, peaceful sanctuary. By midday, we head to Torekällberget, where historic buildings offer shelter from the downpour.\n\nThe afternoon is spent at Tom Tits Experiment, an ideal rainy-day destination with vast indoor spaces. The day concludes with a stroll along Storgatan, passing cozy cafes where you can watch the rain fall outside."
+          },
+          "stops": [
+            {
+              "name": "Saltsjötorget Square",
+              "tip_5lang": {
+                "de": "Regenschirm bereithalten, offener Platz.",
+                "hu": "Készítse elő az esernyőt a nyitott téren.",
+                "ro": "Pregătiți umbrela, piața este deschisă.",
+                "en": "Keep your umbrella ready in this open square."
+              }
+            },
+            {
+              "name": "St. Ragnhild's Church",
+              "tip_5lang": {
+                "de": "Idealer Ort zum Aufwärmen und Trocknen.",
+                "hu": "Ideális hely a felmelegedésre és száradásra.",
+                "ro": "Loc ideal pentru a vă încălzi și usca.",
+                "en": "Ideal place to warm up and dry off."
+              }
+            },
+            {
+              "name": "Lake Maren",
+              "tip_5lang": {
+                "de": "Dramatische Aussicht auf das graue Wasser.",
+                "hu": "Drámai kilátás a szürke víztükörre.",
+                "ro": "Vedere dramatică asupra apei cenușii.",
+                "en": "Dramatic views of the grey water surface."
+              }
+            },
+            {
+              "name": "Södertälje Canal",
+              "tip_5lang": {
+                "de": "Die Wege können bei Regen rutschig sein.",
+                "hu": "Az utak esőben csúszósak lehetnek.",
+                "ro": "Potecile pot fi alunecoase pe ploaie.",
+                "en": "Paths can be slippery when wet."
+              }
+            },
+            {
+              "name": "Torekällberget Museum",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Cafés in den alten Häusern.",
+                "hu": "Látogasson el a régi házak kávézóiba.",
+                "ro": "Vizitați cafenelele din casele vechi.",
+                "en": "Visit the cafes inside the old houses."
+              }
+            },
+            {
+              "name": "Tom Tits Experiment",
+              "tip_5lang": {
+                "de": "Bester Zufluchtsort bei starkem Regen.",
+                "hu": "A legjobb menedék heves esőzés idején.",
+                "ro": "Cel mai bun refugiu în caz de ploaie torențială.",
+                "en": "Best sanctuary during heavy rainfall."
+              }
+            },
+            {
+              "name": "Storgatan Street",
+              "tip_5lang": {
+                "de": "Viele Geschäfte zum Unterstellen vorhanden.",
+                "hu": "Számos üzlet kínál fedett helyet a séta alatt.",
+                "ro": "Multe magazine oferă adăpost în timpul plimbării.",
+                "en": "Many shops offer cover during your walk."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für das Kopfsteinpflaster.",
+              "Nutzen Sie die langen Korridore im Tom Tits Experiment.",
+              "Die Storgatan bietet viele Vordächer zum Unterstellen.",
+              "Planen Sie mehr Zeit für die Indoor-Exponate ein."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a macskaköves utcákhoz.",
+              "Használja ki a Tom Tits Experiment hosszú folyosóit.",
+              "A Storgatan számos előtetőt kínál az eső elől.",
+              "Tervezzen több időt a beltéri kiállításokra."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru străzile pietruite.",
+              "Profitați de coridoarele lungi de la Tom Tits Experiment.",
+              "Storgatan oferă multe copertine pentru adăpost.",
+              "Alocați mai mult timp pentru expozițiile interioare."
+            ],
+            "en": [
+              "Wear waterproof shoes for the cobblestone streets.",
+              "Take advantage of the long corridors in Tom Tits Experiment.",
+              "Storgatan offers many awnings for shelter from the rain.",
+              "Plan more time for the indoor exhibits today."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Wintermorgen in Södertälje beginnt am Saltsjötorget, oft von Schnee bedeckt. Die warme St. Ragnhild Kirche bietet einen wunderbaren Kontrast zur Kälte draußen. Mittags bietet der Torekällberget eine märchenhafte Kulisse mit beleuchteten Holzhäusern.\n\nDa es bereits am frühen Nachmittag dämmert, ist das Tom Tits Experiment der perfekte Ort für helle, interaktive Stunden. Der Tag klingt auf der festlich beleuchteten Storgatan aus, wo der Duft von heißem Kaffee in der Luft liegt.",
+            "hu": "A fagyos téli reggel a Saltsjötorget téren indul, amelyet gyakran hó borít. A meleg Szent Ragnhild-templom csodás kontrasztot nyújt a kinti hideggel. Délben a Torekällberget mesebeli látványt nyújt kivilágított faházaival.\n\nMivel kora délután már sötétedik, a Tom Tits Experiment a tökéletes hely a világos, interaktív órákhoz. A nap az ünnepi fényekben úszó Storgatan utcáján zárul, ahol forró kávé illata száll a levegőben.",
+            "ro": "O dimineață geroasă de iarnă în Södertälje începe în Saltsjötorget, adesea acoperit de zăpadă. Biserica caldă Sf. Ragnhild oferă un contrast minunat cu frigul de afară. La prânz, Torekällberget oferă un decor de basm cu case de lemn iluminate.\n\nDeoarece se întunecă devreme, Tom Tits Experiment este locul perfect pentru ore luminoase și interactive. Ziua se încheie pe Storgatan iluminată festiv, unde mirosul de cafea fierbinte plutește în aer.",
+            "en": "A frosty winter morning in Södertälje starts at Saltsjötorget, often dusted with snow. The warm St. Ragnhild's Church offers a wonderful contrast to the cold outside. By midday, Torekällberget provides a fairytale setting with its illuminated wooden houses.\n\nAs darkness falls early, Tom Tits Experiment is the perfect place for bright, interactive hours. The day ends on the festively lit Storgatan, where the aroma of hot coffee fills the crisp air."
+          },
+          "stops": [
+            {
+              "name": "Saltsjötorget Square",
+              "tip_5lang": {
+                "de": "Vorsicht vor glatten Stellen auf dem Platz.",
+                "hu": "Vigyázzon a csúszós foltokra a téren.",
+                "ro": "Atenție la porțiunile alunecoase din piață.",
+                "en": "Watch out for slippery patches on the square."
+              }
+            },
+            {
+              "name": "St. Ragnhild's Church",
+              "tip_5lang": {
+                "de": "Ein herrlich warmer Ort zum Innehalten.",
+                "hu": "Csodálatosan meleg hely az elcsendesedéshez.",
+                "ro": "Un loc minunat de cald pentru un moment de liniște.",
+                "en": "A wonderfully warm place for a quiet moment."
+              }
+            },
+            {
+              "name": "Lake Maren",
+              "tip_5lang": {
+                "de": "Oft gefroren, ein schöner Anblick im Winter.",
+                "hu": "Gyakran befagy, szép látvány télen.",
+                "ro": "Adesea înghețat, o priveliște frumoasă iarna.",
+                "en": "Often frozen, a beautiful sight in winter."
+              }
+            },
+            {
+              "name": "Södertälje Canal",
+              "tip_5lang": {
+                "de": "Genießen Sie die klare, kalte Kanalluft.",
+                "hu": "Élvezze a tiszta, hideg csatornaparti levegőt.",
+                "ro": "Bucurați-vă de aerul curat și rece al canalului.",
+                "en": "Enjoy the crisp, cold air along the canal."
+              }
+            },
+            {
+              "name": "Torekällberget Museum",
+              "tip_5lang": {
+                "de": "Die Bäckerei bietet frisches Wintergebäck.",
+                "hu": "A pékség friss téli süteményeket kínál.",
+                "ro": "Brutăria oferă produse de patiserie proaspete.",
+                "en": "The bakery offers fresh winter pastries."
+              }
+            },
+            {
+              "name": "Tom Tits Experiment",
+              "tip_5lang": {
+                "de": "Ideal, wenn es draußen früh dunkel wird.",
+                "hu": "Ideális, amikor kint korán sötétedik.",
+                "ro": "Ideal când se întunecă devreme afară.",
+                "en": "Ideal when it gets dark early outside."
+              }
+            },
+            {
+              "name": "Storgatan Street",
+              "tip_5lang": {
+                "de": "Schöne Weihnachtsbeleuchtung in der Saison.",
+                "hu": "Szép karácsonyi kivilágítás a szezonban.",
+                "ro": "Iluminat frumos de Crăciun în sezon.",
+                "en": "Beautiful Christmas lights during the season."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Winter bereits gegen 15:00 Uhr unter.",
+              "Tragen Sie warme Schichten und gute Winterstiefel.",
+              "Besuchen Sie das Café im Torekällberget zum Aufwärmen.",
+              "Das Tom Tits bietet viele Aktivitäten zum Bewegen."
+            ],
+            "hu": [
+              "A nap télen már délután 3 óra körül lemegy.",
+              "Viseljen réteges ruházatot és jó téli bakancsot.",
+              "Látogasson el a Torekällberget kávézójába melegedni.",
+              "A Tom Tits rengeteg mozgásos tevékenységet kínál."
+            ],
+            "ro": [
+              "Soarele apune în jurul orei 15:00 iarna.",
+              "Purtați haine groase în straturi și cizme de iarnă.",
+              "Vizitați cafeneaua de la Torekällberget pentru a vă încălzi.",
+              "Tom Tits oferă multe activități dinamice."
+            ],
+            "en": [
+              "The sun sets as early as 3:00 PM in winter.",
+              "Wear warm layers and good winter boots.",
+              "Visit the cafe at Torekällberget to warm up.",
+              "Tom Tits offers many physical activities to stay warm."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -752,6 +952,206 @@
           "Many paths are shared with pedestrians, so ride with consideration.",
           "Bring a reusable water bottle, there are places to refill it."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein Regentag auf dem Rad beginnt am Saltsjötorget, wo Vorsicht auf nassen Fliesen geboten ist. Die Fahrt am Kanal entlang ist atmosphärisch, erfordert aber gute Regenkleidung. Ein Stopp bei den Telge Hus Ruinen zeigt die Geschichte im Nebel.\n\nMittags bietet das Torekällberget Schutz in seinen historischen Räumen. Den Nachmittag verbringen wir trocken im Tom Tits Experiment, während die Räder sicher geparkt sind. Der Tag endet mit einer gemütlichen Fahrt zur St. Ragnhild Kirche.",
+            "hu": "Az esős kerékpáros nap a Saltsjötorget téren indul, ahol óvatosan kell haladni a nedves köveken. A csatorna menti tekerés hangulatos, de jó esőruházatot igényel. A Telge Hus romjai sejtelmesen bújnak meg a ködben.\n\nDélben a Torekällberget történelmi épületei nyújtanak menedéket. A délutánt szárazon töltjük a Tom Tits Experimentben, amíg a biciklik biztonságban pihennek. A nap egy kényelmes tekeréssel zárul a Szent Ragnhild-templom felé.",
+            "ro": "O zi ploioasă pe bicicletă începe în Saltsjötorget, unde este necesară prudență pe pavajul umed. Plimbarea de-a lungul canalului este atmosferică, dar necesită echipament de ploaie bun. O oprire la ruinele Telge Hus dezvăluie istoria în ceață.\n\nLa prânz, Torekällberget oferă adăpost în spațiile sale istorice. După-amiaza o petrecem la adăpost în Tom Tits Experiment, în timp ce bicicletele sunt parcate în siguranță. Ziua se încheie cu o plimbare spre biserica Sf. Ragnhild.",
+            "en": "A rainy bike day starts at Saltsjötorget, where caution is needed on wet tiles. Cycling along the canal is atmospheric but requires good rain gear. A stop at the Telge Hus ruins shows history shrouded in mist.\n\nBy midday, Torekällberget offers shelter in its historic rooms. We spend the afternoon dry at Tom Tits Experiment while the bikes are safely parked. The day ends with a steady ride toward St. Ragnhild's Church."
+          },
+          "stops": [
+            {
+              "name": "Saltsjötorget Square",
+              "tip_5lang": {
+                "de": "Vorsicht, die Fliesen sind bei Nässe glatt.",
+                "hu": "Vigyázat, a kövezet nedvesen csúszik.",
+                "ro": "Atenție, pavajul este alunecos când e ud.",
+                "en": "Be careful, the tiles are slippery when wet."
+              }
+            },
+            {
+              "name": "Södertälje Canal",
+              "tip_5lang": {
+                "de": "Schutzbleche sind heute sehr empfehlenswert.",
+                "hu": "A sárvédő ma kifejezetten ajánlott.",
+                "ro": "Apărătorile de noroi sunt foarte recomandate azi.",
+                "en": "Mudguards are highly recommended today."
+              }
+            },
+            {
+              "name": "Telge Hus Ruins",
+              "tip_5lang": {
+                "de": "Kurzer Stopp, der Boden kann matschig sein.",
+                "hu": "Rövid megálló, a talaj sáros lehet.",
+                "ro": "Oprire scurtă, solul poate fi noroios.",
+                "en": "Short stop, the ground can be muddy."
+              }
+            },
+            {
+              "name": "Torekällberget Museum",
+              "tip_5lang": {
+                "de": "Fahrradständer am Eingang nutzen.",
+                "hu": "Használja a bejáratnál lévő biciklitárolót.",
+                "ro": "Folosiți suporturile de biciclete de la intrare.",
+                "en": "Use the bike racks at the entrance."
+              }
+            },
+            {
+              "name": "Tom Tits Experiment",
+              "tip_5lang": {
+                "de": "Lange Pause zum Trocknen der Kleidung.",
+                "hu": "Hosszú szünet a ruhák megszárításához.",
+                "ro": "Pauză lungă pentru uscarea hainelor.",
+                "en": "Long break to dry your clothes."
+              }
+            },
+            {
+              "name": "St. Ragnhild's Church",
+              "tip_5lang": {
+                "de": "Ruhiger Abschluss im Trockenen.",
+                "hu": "Csendes lezárás száraz helyen.",
+                "ro": "Final liniștit la adăpost.",
+                "en": "Quiet conclusion in a dry place."
+              }
+            },
+            {
+              "name": "Lake Maren",
+              "tip_5lang": {
+                "de": "Blick auf den vom Regen gepeitschten See.",
+                "hu": "Kilátás az eső áztatta tóra.",
+                "ro": "Vedere asupra lacului bătut de ploaie.",
+                "en": "View of the rain-swept lake."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine komplette Regenmontur.",
+              "Prüfen Sie Ihre Bremsen bei Nässe häufiger.",
+              "Vermeiden Sie Pfützen, sie könnten tief sein.",
+              "Nutzen Sie überdachte Fahrradabstellplätze."
+            ],
+            "hu": [
+              "Viseljen teljes esőruházatot.",
+              "Tesztelje gyakrabban a fékeket nedves időben.",
+              "Kerülje a tócsákat, mert mélyek lehetnek.",
+              "Használja a fedett kerékpártárolókat."
+            ],
+            "ro": [
+              "Purtați echipament complet de ploaie.",
+              "Verificați frânele mai des pe carosabil umed.",
+              "Evitați bălțile, pot fi adânci.",
+              "Utilizați parcările acoperite pentru biciclete."
+            ],
+            "en": [
+              "Wear full waterproof gear while cycling.",
+              "Check your brakes more often in wet weather.",
+              "Avoid puddles as they might be deep.",
+              "Look for covered bike parking spots."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen beginnt am Saltsjötorget, die Luft ist eisig. Die Fahrt entlang des Kanals bietet wunderschöne, frostige Panoramen. Ein kurzer Halt bei den Telge Hus Ruinen zeigt die schneebedeckte Geschichte der Stadt.\n\nMittags wärmen wir uns im Torekällberget auf, bevor wir die steile Auffahrt meistern. Das Tom Tits Experiment bietet am Nachmittag den perfekten Kontrast zur Kälte. Der Tag endet an der beleuchteten St. Ragnhild Kirche, bevor die Dunkelheit endgültig einsetzt.",
+            "hu": "A tiszta téli reggel a Saltsjötorget téren indul, a levegő jeges. A csatorna menti tekerés gyönyörű, zúzmarás panorámát kínál. Egy rövid megálló a Telge Hus romjainál megmutatja a város hóval borított múltját.\n\nDélben felmelegedünk a Torekällbergetnél, mielőtt legyőznénk a meredek emelkedőt. A Tom Tits Experiment délután tökéletes kontrasztot nyújt a hideghez. A nap a kivilágított Szent Ragnhild-templomnál zárul, mielőtt végleg leszállna az éj.",
+            "ro": "O dimineață senină de iarnă începe în Saltsjötorget, aerul este înghețat. Plimbarea de-a lungul canalului oferă panorame superbe, înghețate. O scurtă oprire la ruinele Telge Hus arată istoria orașului acoperită de zăpadă.\n\nLa prânz ne încălzim la Torekällberget înainte de a urca panta abruptă. Tom Tits Experiment oferă după-amiaza contrastul perfect cu frigul. Ziua se încheie la biserica Sf. Ragnhild iluminată, înainte de lăsarea întunericului.",
+            "en": "A clear winter morning starts at Saltsjötorget, with freezing air. Cycling along the canal offers beautiful, frosty panoramas. A short stop at the Telge Hus ruins shows the city's snow-covered history.\n\nBy midday, we warm up at Torekällberget before tackling the steep ascent. Tom Tits Experiment provides the perfect afternoon contrast to the cold. The day ends at the lit St. Ragnhild's Church before the darkness fully sets in."
+          },
+          "stops": [
+            {
+              "name": "Saltsjötorget Square",
+              "tip_5lang": {
+                "de": "Achten Sie auf gefrorenes Kopfsteinpflaster.",
+                "hu": "Vigyázzon a fagyott macskakövekre.",
+                "ro": "Atenție la pavajul înghețat.",
+                "en": "Watch out for frozen cobblestones."
+              }
+            },
+            {
+              "name": "Södertälje Canal",
+              "tip_5lang": {
+                "de": "Kalter Wind am Wasser, Schal anlegen.",
+                "hu": "Hideg szél a víznél, viseljen sálat.",
+                "ro": "Vânt rece lângă apă, puneți un fular.",
+                "en": "Cold wind by the water, wear a scarf."
+              }
+            },
+            {
+              "name": "Telge Hus Ruins",
+              "tip_5lang": {
+                "de": "Ruhiger, verschneiter Ort für Fotos.",
+                "hu": "Csendes, havas helyszín fotózáshoz.",
+                "ro": "Loc liniștit, înzăpezit, pentru fotografii.",
+                "en": "Quiet, snowy spot for photos."
+              }
+            },
+            {
+              "name": "Torekällberget Museum",
+              "tip_5lang": {
+                "de": "Auffahrt kann bei Schnee rutschig sein.",
+                "hu": "Hóban az emelkedő csúszós lehet.",
+                "ro": "Urcarea poate fi alunecoasă pe zăpadă.",
+                "en": "The climb can be slippery in the snow."
+              }
+            },
+            {
+              "name": "Tom Tits Experiment",
+              "tip_5lang": {
+                "de": "Garderobe für dicke Winterjacken nutzen.",
+                "hu": "Használja a ruhatárat a vastag kabátoknak.",
+                "ro": "Folosiți garderoba pentru hainele groase.",
+                "en": "Use the cloakroom for heavy winter coats."
+              }
+            },
+            {
+              "name": "St. Ragnhild's Church",
+              "tip_5lang": {
+                "de": "Beleuchtung wirkt im Winter besonders schön.",
+                "hu": "A kivilágítás télen különösen szép.",
+                "ro": "Iluminatul arată deosebit de frumos iarna.",
+                "en": "The lighting looks especially beautiful in winter."
+              }
+            },
+            {
+              "name": "Lake Maren",
+              "tip_5lang": {
+                "de": "Wintersonne spiegelt sich im Eis.",
+                "hu": "A téli napfény megcsillan a jégen.",
+                "ro": "Soarele de iarnă se reflectă în gheață.",
+                "en": "Winter sun reflects off the ice."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Spikes-Reifen sind im Winter sehr hilfreich.",
+              "Vermeiden Sie das Bremsen in Kurven auf Eis.",
+              "Licht ist ab 15:00 Uhr zwingend erforderlich.",
+              "Trinken Sie zwischendurch warme Getränke."
+            ],
+            "hu": [
+              "A szöges gumik télen nagyon hasznosak.",
+              "Kerülje a fékezést a jeges kanyarokban.",
+              "Délután 3 órától kötelező a világítás.",
+              "Igyon meleg italokat a megállók során."
+            ],
+            "ro": [
+              "Anvelopele cu crampoane sunt foarte utile iarna.",
+              "Evitați frânarea în curbe pe gheață.",
+              "Luminile sunt obligatorii după ora 15:00.",
+              "Consumați băuturi calde la opriri."
+            ],
+            "en": [
+              "Studded tires are very helpful in winter.",
+              "Avoid braking while turning on icy patches.",
+              "Lights are mandatory from 3:00 PM onwards.",
+              "Drink warm beverages at your stops."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1125,6 +1525,206 @@
           "Plan your route between clusters to avoid rush hour traffic.",
           "A car allows you to also visit sights slightly outside the city if you have time."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag mit dem Auto beginnt am Central Parking. Die Storgatan lässt sich gut erkunden, wenn man zwischen den Schauern von Laden zu Laden huscht. Die Fahrt zur St. Ragnhild Kirche bietet einen trockenen Transfer zum historischen Zentrum.\n\nMittags fahren wir zum Torekällberget, wo der Parkplatz nah an den überdachten Bereichen liegt. Der Nachmittag im Tom Tits Experiment ist perfekt, da das Auto sicher in der Nähe steht. Der Tag endet mit einer Fahrt zur Marcus Wallenberg Hall und dem Blick auf den Kanal im Regen.",
+            "hu": "Az esős autós nap a központi parkolóban indul. A Storgatant úgy a legjobb felfedezni, ha a záporok között surranunk be az üzletekbe. A Szent Ragnhild-templomhoz vezető út száraz transzfert biztosít a történelmi központba.\n\nDélben a Torekällbergethez hajtunk, ahol a parkoló közel van a fedett részekhez. A délután a Tom Tits Experimentben telik, miközben az autó a közelben pihen. A nap a Marcus Wallenberg Hall látogatásával és az esős csatornaparti kilátással zárul.",
+            "ro": "O zi ploioasă cu mașina începe la parcarea centrală. Storgatan poate fi explorată strecurându-vă între reprizele de ploaie. Drumul spre biserica Sf. Ragnhild oferă un transfer uscat către centrul istoric.\n\nLa prânz conducem spre Torekällberget, unde parcarea este aproape de zonele acoperite. După-amiaza la Tom Tits Experiment este perfectă, mașina fiind parcată în siguranță aproape. Ziua se încheie cu o vizită la Marcus Wallenberg Hall și vederea spre canal pe ploaie.",
+            "en": "A rainy day by car starts at Central Parking. Storgatan can be explored by dashing between shops during showers. The drive to St. Ragnhild's Church provides a dry transfer to the historic center.\n\nBy midday, we drive to Torekällberget, where the parking is close to the sheltered areas. The afternoon at Tom Tits Experiment is perfect, with the car parked safely nearby. The day ends with a visit to Marcus Wallenberg Hall and a rainy view of the canal."
+          },
+          "stops": [
+            {
+              "name": "Central Parking",
+              "tip_5lang": {
+                "de": "Trockener Start in den Tag.",
+                "hu": "Száraz indulás a napnak.",
+                "ro": "Început de zi la adăpost.",
+                "en": "A dry start to the day."
+              }
+            },
+            {
+              "name": "Saltsjötorget & Storgatan",
+              "tip_5lang": {
+                "de": "Parkhaus in der Nähe nutzen.",
+                "hu": "Használja a közeli parkolóházat.",
+                "ro": "Folosiți parcarea supraetajată din apropiere.",
+                "en": "Use the nearby multi-storey car park."
+              }
+            },
+            {
+              "name": "St. Ragnhild's Church",
+              "tip_5lang": {
+                "de": "Kurzer Weg vom Parkplatz zum Eingang.",
+                "hu": "Rövid út a parkolótól a bejáratig.",
+                "ro": "Drum scurt de la parcare la intrare.",
+                "en": "Short walk from the parking lot to the entrance."
+              }
+            },
+            {
+              "name": "Torekällberget Museum",
+              "tip_5lang": {
+                "de": "Bester Parkplatz oben am Berg.",
+                "hu": "A legjobb parkoló fent a hegyen található.",
+                "ro": "Cea mai bună parcare este sus pe deal.",
+                "en": "The best parking lot is at the top of the hill."
+              }
+            },
+            {
+              "name": "Tom Tits Experiment",
+              "tip_5lang": {
+                "de": "Großer Parkplatz direkt am Gebäude.",
+                "hu": "Nagy parkoló közvetlenül az épület mellett.",
+                "ro": "Parcare mare direct lângă clădire.",
+                "en": "Large parking lot directly by the building."
+              }
+            },
+            {
+              "name": "Marcus Wallenberg Hall",
+              "tip_5lang": {
+                "de": "Indoor-Ausstellung, perfekt für Regen.",
+                "hu": "Beltéri kiállítás, tökéletes esőben.",
+                "ro": "Expoziție interioară, perfectă pentru ploaie.",
+                "en": "Indoor exhibition, perfect for the rain."
+              }
+            },
+            {
+              "name": "Södertälje Canal View",
+              "tip_5lang": {
+                "de": "Aussicht bequem aus dem Auto genießen.",
+                "hu": "Élvezze a kilátást kényelmesen az autóból.",
+                "ro": "Bucurați-vă de priveliște din mașină.",
+                "en": "Enjoy the view comfortably from your car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Spritzwasser von anderen Autos.",
+              "Parkhäuser bieten Schutz beim Aussteigen.",
+              "Die Sicht kann bei starkem Regen eingeschränkt sein.",
+              "Halten Sie einen Regenschirm im Auto bereit."
+            ],
+            "hu": [
+              "Vigyázzon a többi autó által felvert vízre.",
+              "A parkolóházak védelmet nyújtanak kiszálláskor.",
+              "Heves esőben a látótávolság korlátozott lehet.",
+              "Tartson egy esernyőt készenlétben az autóban."
+            ],
+            "ro": [
+              "Atenție la apa stropită de celelalte mașini.",
+              "Parcările acoperite oferă protecție la coborâre.",
+              "Vizibilitatea poate fi redusă în caz de ploaie grea.",
+              "Țineți o umbrelă la îndemână în mașină."
+            ],
+            "en": [
+              "Watch out for splash water from other cars.",
+              "Parking garages offer shelter when exiting.",
+              "Visibility can be limited during heavy rain.",
+              "Keep an umbrella ready in the car."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Wintermorgen beginnt am Central Parking, oft müssen die Scheiben enteist werden. Die Fahrt durch das verschneite Södertälje zur Storgatan ist stimmungsvoll. Die St. Ragnhild Kirche bietet einen warmen Stopp im kalten Stadtzentrum.\n\nMittags fahren wir zum Torekällberget, wo die verschneiten Hänge eine wunderbare Winterlandschaft bieten. Der Nachmittag im Tom Tits Experiment bietet Wärme und Licht für die ganze Familie. Der Tag endet an der Marcus Wallenberg Hall und dem Blick auf den beleuchteten Kanal.",
+            "hu": "A fagyos téli reggel a központi parkolóban indul, gyakran jégmentesítéssel kezdve. Az út a havas Södertäljén keresztül a Storgatanig hangulatos. A Szent Ragnhild-templom meleg pihenőt kínál a hideg városközpontban.\n\nDélben a Torekällbergethez hajtunk, ahol a havas lejtők csodás téli tájat alkotnak. A délután a Tom Tits Experimentben telik, melegben és fényben. A nap a Marcus Wallenberg Hallnál és a kivilágított csatorna látványával zárul.",
+            "ro": "O dimineață geroasă de iarnă începe la parcarea centrală, adesea cu dezghețarea parbrizului. Drumul prin Södertälje înzăpezit spre Storgatan este plin de atmosferă. Biserica Sf. Ragnhild oferă o oprire caldă în centrul rece al orașului.\n\nLa prânz conducem spre Torekällberget, unde pantele înzăpezite oferă un peisaj de iarnă superb. După-amiaza la Tom Tits Experiment oferă căldură și lumină pentru întreaga familie. Ziua se încheie la Marcus Wallenberg Hall și vederea spre canalul iluminat.",
+            "en": "A frosty winter morning starts at Central Parking, often requiring de-icing. The drive through snowy Södertälje to Storgatan is atmospheric. St. Ragnhild's Church offers a warm stop in the cold city center.\n\nBy midday, we drive to Torekällberget, where the snowy slopes create a wonderful winter landscape. The afternoon at Tom Tits Experiment provides warmth and light for the whole family. The day concludes at Marcus Wallenberg Hall with a view of the lit canal."
+          },
+          "stops": [
+            {
+              "name": "Central Parking",
+              "tip_5lang": {
+                "de": "Scheiben rechtzeitig enteisen.",
+                "hu": "Időben jégmentesítse a szélvédőt.",
+                "ro": "Dezghețați parbrizul din timp.",
+                "en": "De-ice your windows early."
+              }
+            },
+            {
+              "name": "Saltsjötorget & Storgatan",
+              "tip_5lang": {
+                "de": "Vorsicht vor Schneehaufen beim Parken.",
+                "hu": "Vigyázzon a hókupacokra parkoláskor.",
+                "ro": "Atenție la mormanele de zăpadă când parcați.",
+                "en": "Watch out for snow piles while parking."
+              }
+            },
+            {
+              "name": "St. Ragnhild's Church",
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille im Inneren.",
+                "hu": "Élvezze a benti csendet és meleget.",
+                "ro": "Bucurați-vă de liniștea din interior.",
+                "en": "Enjoy the silence and warmth inside."
+              }
+            },
+            {
+              "name": "Torekällberget Museum",
+              "tip_5lang": {
+                "de": "Winterreifen bei der Auffahrt wichtig.",
+                "hu": "A téli gumi fontos az emelkedőnél.",
+                "ro": "Anvelopele de iarnă sunt esențiale la urcare.",
+                "en": "Winter tires are essential for the climb."
+              }
+            },
+            {
+              "name": "Tom Tits Experiment",
+              "tip_5lang": {
+                "de": "Perfekt beleuchtet, wenn es dunkel wird.",
+                "hu": "Tökéletesen kivilágított, mikor sötétedik.",
+                "ro": "Iluminat perfect când se lasă întunericul.",
+                "en": "Perfectly lit when it gets dark."
+              }
+            },
+            {
+              "name": "Marcus Wallenberg Hall",
+              "tip_5lang": {
+                "de": "Warme Innenräume mit Scania-Geschichte.",
+                "hu": "Meleg belső terek a Scania történetével.",
+                "ro": "Spații interioare calde cu istoria Scania.",
+                "en": "Warm indoor spaces with Scania history."
+              }
+            },
+            {
+              "name": "Södertälje Canal View",
+              "tip_5lang": {
+                "de": "Lichter spiegeln sich im dunklen Wasser.",
+                "hu": "A fények megcsillannak a sötét vízen.",
+                "ro": "Luminile se reflectă în apa întunecată.",
+                "en": "Lights reflect on the dark water."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahren Sie vorsichtig auf schneebedeckten Straßen.",
+              "Prüfen Sie den Frostschutz in der Scheibenwaschanlage.",
+              "Abblendlicht bei Dämmerung ab 14:30 Uhr einschalten.",
+              "Vermeiden Sie hastige Lenkbewegungen bei Glätte."
+            ],
+            "hu": [
+              "Vezessen óvatosan a hóval borított utakon.",
+              "Ellenőrizze a fagyállót a szélvédőmosóban.",
+              "Kapcsolja be a tompított fényt már 14:30-kor.",
+              "Kerülje a hirtelen kormánymozdulatokat csúszós úton."
+            ],
+            "ro": [
+              "Conduceți cu prudență pe drumurile înzăpezite.",
+              "Verificați antigelul în lichidul de parbriz.",
+              "Aprindeți faza scurtă de la ora 14:30.",
+              "Evitați manevrele bruște pe carosabil alunecos."
+            ],
+            "en": [
+              "Drive carefully on snow-covered roads.",
+              "Check the antifreeze in your windshield washer.",
+              "Turn on low-beam lights by 2:30 PM.",
+              "Avoid sudden steering movements on slippery roads."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1475,6 +2075,188 @@
           "Buses are punctual, so be at the stop on time.",
           "Ask the bus driver if you're unsure about a stop; they are usually helpful."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein Regentag mit dem Nahverkehr beginnt am Södertälje Centrum, wo man direkt im Trockenen ankommt. Der kurze Weg zur Storgatan und St. Ragnhild Kirche lässt sich schnell bewältigen. Die Busverbindung zum Torekällberget spart den steilen Aufstieg im Regen.\n\nMittags bietet das Museum einen geschützten Aufenthalt in der Geschichte. Am Nachmittag bringt der Bus uns zum Tom Tits Experiment, dem besten Ziel für regnerische Stunden. Der Tag endet bequem mit dem Transfer zurück zum Bahnhof, geschützt vor dem nassen Wetter.",
+            "hu": "Az esős tömegközlekedős nap Södertälje Centrum állomáson indul, ahol szárazon érkezünk. A rövid séta a Storgatanig és a Szent Ragnhild-templomig gyorsan letudható. A buszjárat a Torekällbergethez megspórolja a meredek emelkedőt az esőben.\n\nDélben a múzeum védett környezetet biztosít. Délután a busz elvisz a Tom Tits Experimenthez, ami a legjobb választás esős órákra. A nap kényelmesen zárul a vasútállomásra való visszautazással, védve a nedves időjárástól.",
+            "ro": "O zi ploioasă cu transportul public începe la Södertälje Centrum, unde ajungeți la adăpost. Scurta plimbare spre Storgatan și biserica Sf. Ragnhild este rapidă. Autobuzul spre Torekällberget vă scutește de urcarea abruptă pe ploaie.\n\nLa prânz, muzeul oferă un mediu protejat. După-amiaza, autobuzul ne duce la Tom Tits Experiment, cea mai bună destinație pentru orele ploioase. Ziua se încheie confortabil cu transferul înapoi la gară, protejați de vremea umedă.",
+            "en": "A rainy transit day starts at Södertälje Centrum, where you arrive undercover. The short walk to Storgatan and St. Ragnhild's Church is manageable. Taking the bus to Torekällberget saves you from the steep climb in the rain.\n\nBy midday, the museum provides a sheltered environment. In the afternoon, the bus takes us to Tom Tits Experiment, the best choice for rainy hours. The day ends comfortably with a transfer back to the station, protected from the wet weather."
+          },
+          "stops": [
+            {
+              "name": "Södertälje Centrum",
+              "tip_5lang": {
+                "de": "Überdachter Bahnhof, idealer Startpunkt.",
+                "hu": "Fedett vasútállomás, ideális indulópont.",
+                "ro": "Gară acoperită, punct de plecare ideal.",
+                "en": "Covered station, ideal starting point."
+              }
+            },
+            {
+              "name": "Saltsjötorget & Storgatan",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen den Bushaltestellen.",
+                "hu": "Rövid távolságok a buszmegállók között.",
+                "ro": "Distanțe scurte între stațiile de autobuz.",
+                "en": "Short distances between bus stops."
+              }
+            },
+            {
+              "name": "St. Ragnhild's Church & Lake Maren",
+              "tip_5lang": {
+                "de": "Kirche bietet Schutz während Wartezeiten.",
+                "hu": "A templom védelmet nyújt várakozás közben.",
+                "ro": "Biserica oferă adăpost în timpul așteptării.",
+                "en": "The church offers shelter while waiting."
+              }
+            },
+            {
+              "name": "Torekällberget Museum",
+              "tip_5lang": {
+                "de": "Bushaltestelle direkt am Museumseingang.",
+                "hu": "Buszmegálló közvetlenül a múzeumnál.",
+                "ro": "Stație de autobuz chiar la intrarea în muzeu.",
+                "en": "Bus stop directly at the museum entrance."
+              }
+            },
+            {
+              "name": "Tom Tits Experiment",
+              "tip_5lang": {
+                "de": "Perfekte Anbindung mit Stadtbussen.",
+                "hu": "Tökéletes összeköttetés városi buszokkal.",
+                "ro": "Conexiune perfectă cu autobuzele urbane.",
+                "en": "Perfect connection with city buses."
+              }
+            },
+            {
+              "name": "Södertälje Canal",
+              "tip_5lang": {
+                "de": "Schneller Blick aus dem Busfenster.",
+                "hu": "Gyors kilátás a busz ablakából.",
+                "ro": "Vedere rapidă de pe geamul autobuzului.",
+                "en": "Quick view from the bus window."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die App für Echtzeit-Abfahrten.",
+              "Die meisten Bushaltestellen sind überdacht.",
+              "Södertälje Centrum hat ein trockenes Wartezentrum.",
+              "Kaufen Sie Tickets vorab digital."
+            ],
+            "hu": [
+              "Használja az alkalmazást a valós idejű induláshoz.",
+              "A legtöbb buszmegálló fedett.",
+              "Södertälje Centrum száraz váróteremmel rendelkezik.",
+              "Vásárolja meg a jegyeket előre digitálisan."
+            ],
+            "ro": [
+              "Utilizați aplicația pentru plecări în timp real.",
+              "Majoritatea stațiilor de autobuz sunt acoperite.",
+              "Södertälje Centrum are o sală de așteptare uscată.",
+              "Cumpărați biletele digital în avans."
+            ],
+            "en": [
+              "Use the app for real-time departures.",
+              "Most bus stops have shelters.",
+              "Södertälje Centrum has a dry waiting area.",
+              "Purchase tickets digitally in advance."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein eisiger Wintermorgen beginnt am Södertälje Centrum, die Züge und Busse sind gut beheizt. Der kurze Weg zur Storgatan zeigt die Stadt im Winterschlaf. Die St. Ragnhild Kirche bietet einen warmen Moment der Stille.\n\nMittags bringt uns der Bus zum Torekällberget, wo die verschneiten Holzgebäude ein tolles Fotomotiv bieten. Der Nachmittag im Tom Tits Experiment ist der ideale Rückzugsort vor der Kälte. Der Tag endet mit einer gemütlichen Busfahrt zurück zum Bahnhof, während draußen die Lichter leuchten.",
+            "hu": "A jeges téli reggel Södertälje Centrum állomáson indul, a vonatok és buszok jól fűtöttek. A rövid séta a Storgatanig megmutatja a téli álmot alvó várost. A Szent Ragnhild-templom meleg pillanatot kínál a csendben.\n\nDélben a busz elvisz a Torekällbergethez, ahol a havas faházak remek fotótémát szolgáltatnak. A délután a Tom Tits Experimentben a legjobb menedék a hideg elől. A nap kényelmes buszozással zárul vissza az állomásra, miközben kint kigyúlnak a fények.",
+            "ro": "O dimineață geroasă de iarnă începe la Södertälje Centrum, trenurile și autobuzele sunt bine încălzite. Scurta plimbare spre Storgatan arată orașul în haina de iarnă. Biserica Sf. Ragnhild oferă un moment cald de liniște.\n\nLa prânz, autobuzul ne duce la Torekällberget, unde clădirile înzăpezite sunt ideale pentru fotografii. După-amiaza la Tom Tits Experiment este refugiul ideal împotriva frigului. Ziua se încheie cu o călătorie plăcută cu autobuzul înapoi la gară.",
+            "en": "A freezing winter morning starts at Södertälje Centrum, with well-heated trains and buses. The short walk to Storgatan reveals the city in its winter slumber. St. Ragnhild's Church offers a warm moment of peace.\n\nBy midday, the bus takes us to Torekällberget, where the snow-covered wooden buildings are perfect for photos. The afternoon at Tom Tits Experiment is the ideal retreat from the cold. The day ends with a cozy bus ride back to the station as the lights shine outside."
+          },
+          "stops": [
+            {
+              "name": "Södertälje Centrum",
+              "tip_5lang": {
+                "de": "Gut beheizte Wartebereiche vorhanden.",
+                "hu": "Jól fűtött váróhelyiségek állnak rendelkezésre.",
+                "ro": "Sunt disponibile zone de așteptare bine încălzite.",
+                "en": "Well-heated waiting areas are available."
+              }
+            },
+            {
+              "name": "Saltsjötorget & Storgatan",
+              "tip_5lang": {
+                "de": "Vorsicht beim Ein- und Aussteigen auf Eis.",
+                "hu": "Vigyázzon a fel- és leszálláskor a jégre.",
+                "ro": "Atenție la gheață când urcați sau coborâți.",
+                "en": "Watch out for ice when boarding or exiting."
+              }
+            },
+            {
+              "name": "St. Ragnhild's Church & Lake Maren",
+              "tip_5lang": {
+                "de": "Kurzer, aber kalter Weg zwischen Haltestellen.",
+                "hu": "Rövid, de hideg séta a megállók között.",
+                "ro": "Drum scurt dar rece între stații.",
+                "en": "Short but cold walk between stops."
+              }
+            },
+            {
+              "name": "Torekällberget Museum",
+              "tip_5lang": {
+                "de": "Busse fahren im Winter zuverlässig.",
+                "hu": "A buszok télen is megbízhatóan járnak.",
+                "ro": "Autobuzele circulă regulat și iarna.",
+                "en": "Buses run reliably during winter."
+              }
+            },
+            {
+              "name": "Tom Tits Experiment",
+              "tip_5lang": {
+                "de": "Nur 10 Minuten Fußweg vom Bahnhof.",
+                "hu": "Mindössze 10 perc séta az állomástól.",
+                "ro": "La doar 10 minute de mers pe jos de gară.",
+                "en": "Only a 10-minute walk from the station."
+              }
+            },
+            {
+              "name": "Södertälje Canal",
+              "tip_5lang": {
+                "de": "Beleuchtete Kanalszene am späten Nachmittag.",
+                "hu": "Kivilágított csatornapart késő délután.",
+                "ro": "Scenă iluminată pe canal după-amiaza târziu.",
+                "en": "Illuminated canal scene in the late afternoon."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Züge können bei starkem Schneefall Verspätung haben.",
+              "Tragen Sie warme Kleidung für die Wartezeit.",
+              "Die SL-App zeigt alle Winterfahrpläne an.",
+              "Nutzen Sie die warmen Busse zum Aufwärmen."
+            ],
+            "hu": [
+              "A vonatok erős havazásban késhetnek.",
+              "Viseljen meleg ruhát a várakozási időre.",
+              "Az SL alkalmazás mutatja a téli menetrendet.",
+              "Használja a fűtött buszokat a felmelegedésre."
+            ],
+            "ro": [
+              "Trenurile pot avea întârzieri la ninsori abundente.",
+              "Purtați haine groase pentru timpul de așteptare.",
+              "Aplicația SL afișează toate orarele de iarnă.",
+              "Folosiți autobuzele calde pentru a vă încălzi."
+            ],
+            "en": [
+              "Trains might be delayed during heavy snowfall.",
+              "Wear warm clothes for the waiting time.",
+              "The SL app shows all winter schedules.",
+              "Use the heated buses to warm up between stops."
+            ]
+          }
+        }
       }
     }
   }

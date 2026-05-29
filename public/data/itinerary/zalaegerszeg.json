@@ -322,6 +322,188 @@
           "Most museums are closed on Mondays, so plan accordingly.",
           "Keep some cash handy for small purchases at the market."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag am Deák-Ferenz-Platz, wo die nassen Pflastersteine die barocken Fassaden widerspiegeln. Mittags bieten die Kirchen und Museen im Zentrum perfekten Schutz vor dem Regen. Am Nachmittag erkunden Sie das Ölmuseum, wobei die Innenräume der Technikgeschichte gewidmet sind. Der Abend klingt gemütlich in einem Café in der Innenstadt bei warmen Getränken aus.",
+            "hu": "A reggelt a Deák Ferenc téren kezdjük, ahol az eső áztatta kövek különös fényt adnak a barokk épületeknek. Délben a belvárosi templom és a Csipkeház nyújt menedéket a zápor elől. Délután az Olajipari Múzeum belső kiállításai felé vesszük az irányt, kerülve a szabadtéri szakaszokat. Az estét egy hangulatos belvárosi étteremben, a kopogó eső mellett zárjuk.",
+            "ro": "Începeți dimineața în Piața Deák Ferenc, unde pavajul ud reflectă fațadele baroce ale orașului. La prânz, biserica și Casa Dantelăriei oferă adăpostul perfect împotriva ploii. După-amiaza este dedicată interiorului Muzeului Petrolului, explorând istoria industriei. Seara se încheie confortabil într-o cafenea din centru, ascultând ploaia de afară.",
+            "en": "Start the morning at Deák Ferenc Square, where wet cobblestones reflect the city's baroque architecture. At noon, the parish church and the Lace House provide perfect shelter from the rain. Spend the afternoon exploring the indoor exhibits of the Oil Museum, focusing on technical history. The evening ends cozily in a downtown cafe with a warm atmosphere."
+          },
+          "stops": [
+            {
+              "name": "Deák Ferenc Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden der umliegenden Gebäude als Regenschutz.",
+                "hu": "Használja a környező épületek árkádjait eső elleni védelemként.",
+                "ro": "Folosiți arcadele clădirilor din jur pentru a vă proteja de ploaie.",
+                "en": "Use the arcades of surrounding buildings as rain shelter."
+              }
+            },
+            {
+              "name": "Mary Magdalene Parish Church",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Deckenfresken im trockenen Kirchenschiff.",
+                "hu": "Csodálja meg a mennyezeti freskókat a száraz templomhajóban.",
+                "ro": "Admirați frescele de pe tavan în interiorul uscat al bisericii.",
+                "en": "Admire the ceiling frescoes inside the dry nave."
+              }
+            },
+            {
+              "name": "Lace House (Csipkeház)",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um das Kunsthandwerk im Warmen zu bestaunen.",
+                "hu": "Ideális helyszín a kézművesség megcsodálására a melegben.",
+                "ro": "Un loc ideal pentru a admira meșteșugurile la căldură.",
+                "en": "An ideal place to admire handicrafts in the warmth."
+              }
+            },
+            {
+              "name": "Hungarian Oil and Gas Museum",
+              "tip_5lang": {
+                "de": "Konzentrieren Sie sich auf die Hallenausstellungen im Hauptgebäude.",
+                "hu": "Koncentráljon a főépületben található fedett kiállításokra.",
+                "ro": "Concentrați-vă pe expozițiile interioare din clădirea principală.",
+                "en": "Focus on the indoor exhibitions in the main building."
+              }
+            },
+            {
+              "name": "Lunch in the city center",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit Garderobe für nasse Mäntel.",
+                "hu": "Válasszon olyan éttermet, ahol van hely a vizes kabátoknak.",
+                "ro": "Alegeți un restaurant cu garderobă pentru haine ude.",
+                "en": "Choose a restaurant with a cloakroom for wet coats."
+              }
+            },
+            {
+              "name": "Zalaegerszeg TV Tower",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick durch die Panoramafenster des Cafés.",
+                "hu": "Élvezze a kilátást a kávézó panorámaablakai mögül.",
+                "ro": "Bucurați-vă de priveliște prin ferestrele panoramice ale cafenelei.",
+                "en": "Enjoy the view through the panoramic windows of the cafe."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nehmen Sie einen stabilen Regenschirm mit, da es in Göcsej oft windig ist.",
+              "Die Museen in Zalaegerszeg sind montags meist geschlossen.",
+              "Nutzen Sie die kurzen Wege zwischen den Sehenswürdigkeiten im Zentrum.",
+              "Das TV-Turm-Café ist der beste Zufluchtsort bei starkem Regen."
+            ],
+            "hu": [
+              "Vigyen magával strapabíró esernyőt, a Göcsejben gyakori a szél.",
+              "A múzeumok hétfőnként általában zárva tartanak.",
+              "Használja ki a központ látnivalói közötti rövid távolságokat.",
+              "A TV-torony kávézója a legjobb menedék heves esőzés esetén."
+            ],
+            "ro": [
+              "Luați o umbrelă rezistentă, vântul este frecvent în regiunea Göcsej.",
+              "Muzeele sunt de obicei închise în zilele de luni.",
+              "Profită de distanțele scurte între atracțiile din centru.",
+              "Cafeneaua turnului TV este cel mai bun refugiu în caz de ploaie torențială."
+            ],
+            "en": [
+              "Carry a sturdy umbrella, as wind is common in the Göcsej region.",
+              "Museums are generally closed on Mondays.",
+              "Take advantage of the short distances between downtown sights.",
+              "The TV Tower cafe is the best refuge during heavy rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens erstrahlt der Deák-Platz in festlicher Winterbeleuchtung, während die Luft klar und frostig ist. Mittags wärmen wir uns in den barocken Hallen der Pfarrei und im gemütlichen Csipkeház auf. Der Nachmittag im Ölmuseum ist kurz gehalten, um vor Einbruch der Dunkelheit zum TV-Turm zu gelangen. Abends bietet der beleuchtete Turm einen magischen Blick über die verschneite Hügellandschaft von Göcsej.",
+            "hu": "Reggel a Deák tér ünnepi fényei fogadják a látogatót a friss, fagyos levegőben. Délben a plébánia barokk falai és a Csipkeház barátságos belső terei nyújtanak meleget. Délután az Olajipari Múzeumot érintve igyekszünk a TV-toronyhoz, még sötétedés előtt. Az este a kivilágított toronyban ér minket, ahonnan csodás kilátás nyílik a havas göcseji dombokra.",
+            "ro": "Dimineața, Piața Deák strălucește în lumini de iarnă sub aerul rece și proaspăt. La prânz, ne încălzim în holurile baroce ale parohiei și în interiorul primitor al Casei Dantelăriei. După-amiaza vizităm Muzeul Petrolului, grăbindu-ne spre turnul TV înainte de apus. Seara ne găsește în turnul iluminat, admirând dealurile înzăpezite ale regiunii Göcsej.",
+            "en": "In the morning, Deák Square shines with festive winter lights in the crisp, frosty air. At noon, the baroque walls of the parish and the cozy Lace House provide warmth. Spend the afternoon at the Oil Museum before heading to the TV Tower before sunset. The evening ends at the illuminated tower, offering a magical view over the snowy Göcsej hills."
+          },
+          "stops": [
+            {
+              "name": "Deák Ferenc Square",
+              "tip_5lang": {
+                "de": "Besuchen Sie den kleinen Weihnachtsmarkt, falls verfügbar.",
+                "hu": "Látogasson el a kis adventi vásárba, ha épp aktuális.",
+                "ro": "Vizitați micul târg de Crăciun, dacă este disponibil.",
+                "en": "Visit the small Christmas market if available."
+              }
+            },
+            {
+              "name": "Mary Magdalene Parish Church",
+              "tip_5lang": {
+                "de": "Beachten Sie die festliche Krippe im Inneren der Kirche.",
+                "hu": "Tekintse meg az ünnepi betlehemet a templom belsejében.",
+                "ro": "Vedeți ieslea festivă de Crăciun din interiorul bisericii.",
+                "en": "View the festive nativity scene inside the church."
+              }
+            },
+            {
+              "name": "Lace House (Csipkeház)",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich hier auf, während Sie die Spitzen bewundern.",
+                "hu": "Itt jól felmelegedhet a csipkék megcsodálása közben.",
+                "ro": "Vă puteți încălzi aici în timp ce admirați dantela.",
+                "en": "You can warm up here while admiring the lace."
+              }
+            },
+            {
+              "name": "Hungarian Oil and Gas Museum",
+              "tip_5lang": {
+                "de": "Achtung, die Außenanlagen können bei Frost glatt sein.",
+                "hu": "Vigyázat, a kültéri gépek környéke fagyban csúszós lehet.",
+                "ro": "Atenție, zonele exterioare pot fi alunecoase în caz de îngheț.",
+                "en": "Caution, outdoor areas may be slippery in frosty weather."
+              }
+            },
+            {
+              "name": "Lunch in the city center",
+              "tip_5lang": {
+                "de": "Probieren Sie eine heiße Gulaschsuppe zum Aufwärmen.",
+                "hu": "Kóstoljon meg egy forró gulyáslevest a felmelegedéshez.",
+                "ro": "Încercați o supă gulas fierbinte pentru a vă încălzi.",
+                "en": "Try a hot goulash soup to warm up."
+              }
+            },
+            {
+              "name": "Zalaegerszeg TV Tower",
+              "tip_5lang": {
+                "de": "Kommen Sie vor 16 Uhr an, um den Sonnenuntergang zu sehen.",
+                "hu": "Érkezzen 16 óra előtt, hogy lássa a naplementét.",
+                "ro": "Sosiți înainte de ora 16:00 pentru a vedea apusul.",
+                "en": "Arrive before 4 PM to catch the sunset."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich nach dem Zwiebelprinzip für den Wechsel von Kalt zu Warm.",
+              "Sonnenuntergang ist im Winter bereits gegen 16:15 Uhr.",
+              "Prüfen Sie die verkürzten Winteröffnungszeiten der Museen.",
+              "Warme Handschuhe sind für den Aufstieg zum TV-Turm unerlässlich."
+            ],
+            "hu": [
+              "Öltözzön rétegesen a kinti hideg és benti meleg váltakozása miatt.",
+              "A naplemente télen már 16:15 körül bekövetkezik.",
+              "Ellenőrizze a múzeumok rövidített téli nyitvatartását.",
+              "Meleg kesztyű nélkülözhetetlen a TV-toronyhoz vezető sétához."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi pentru trecerea de la frig la căldură.",
+              "Apusul soarelui are loc în jurul orei 16:15 iarna.",
+              "Verificați programul scurt de iarnă al muzeelor.",
+              "Mănușile călduroase sunt esențiale pentru plimbarea spre turnul TV."
+            ],
+            "en": [
+              "Dress in layers for the transition between cold air and heated interiors.",
+              "Sunset occurs around 4:15 PM in winter.",
+              "Check the shortened winter opening hours of the museums.",
+              "Warm gloves are essential for the walk to the TV Tower."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -662,6 +844,206 @@
           "Bring plenty of water, especially for the ride to the TV Tower.",
           "Some paths around the lake may be unpaved, ride carefully."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens starten wir am Deák-Platz, wobei wir auf den nassen Straßen vorsichtig radeln. Der Weg zum Gébárti-See führt durch grüne Passagen, die im Regen besonders intensiv duften. Mittags bietet das Dorfmuseum Göcsej Unterschlupf in den historischen Häusern. Nachmittags geht es bergauf zum TV-Turm, wobei die Auffahrt durch den Wald Schutz vor dem stärksten Wind bietet.",
+            "hu": "Reggel a Deák térről indulunk, óvatosan tekerve a vizes aszfalton. A Gébárti-tó felé vezető út esőben is friss, fenyőillatú élményt nyújt. Délben a Falumúzeum régi házai között bújunk el a zápor elől. Délután a TV-torony felé vesszük az irányt, az erdei emelkedő némileg védelmet nyújt a szél ellen a célunk felé.",
+            "ro": "Dimineața pornim din Piața Deák, pedalând cu grijă pe asfaltul ud. Drumul spre Lacul Gébárti oferă o experiență proaspătă chiar și pe ploaie. La prânz, ne adăpostim în casele vechi ale Muzeului Satului. După-amiaza ne îndreptăm spre turnul TV, urcarea prin pădure oferind protecție împotriva vântului puternic.",
+            "en": "Start at Deák Square in the morning, cycling carefully on wet surfaces. The route to Gébárti Lake remains a fresh experience even in the rain. At noon, find shelter among the historic houses of the Village Museum. In the afternoon, head uphill to the TV Tower, where the forest path offers some wind protection on your way."
+          },
+          "stops": [
+            {
+              "name": "Start at Deák Ferenc Square",
+              "tip_5lang": {
+                "de": "Achtung bei Markierungen auf der Straße, sie sind rutschig.",
+                "hu": "Vigyázat az útburkolati jelekkel, esőben csúsznak.",
+                "ro": "Atenție la marcajele rutiere, sunt alunecoase pe ploaie.",
+                "en": "Watch out for road markings; they get slippery when wet."
+              }
+            },
+            {
+              "name": "Mary Magdalene Parish Church",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter dem Vordach eines nahen Gebäudes ab.",
+                "hu": "Parkolja le a bringát egy közeli épület előteteje alatt.",
+                "ro": "Parcați bicicleta sub copertina unei clădiri din apropiere.",
+                "en": "Park your bike under the overhang of a nearby building."
+              }
+            },
+            {
+              "name": "Ride to Gébárti Lake",
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den Uferwegen, es kann matschig sein.",
+                "hu": "Óvatosan a parti utakon, sáros részek előfordulhatnak.",
+                "ro": "Atenție pe potecile de pe mal, pot fi zone noroioase.",
+                "en": "Careful on the lakeside paths; muddy sections may occur."
+              }
+            },
+            {
+              "name": "Göcsej Village Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Vordächer der Bauernhäuser als Schutz.",
+                "hu": "Használja a parasztházak ereszeit eső elleni védelemként.",
+                "ro": "Folosiți streșinile caselor țărănești pentru protecție.",
+                "en": "Use the eaves of the farmhouses as rain protection."
+              }
+            },
+            {
+              "name": "Lunch at the lake",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit Indoor-Fahrradabstellplatz.",
+                "hu": "Keressen fedett biciklitárolóval rendelkező éttermet.",
+                "ro": "Căutați un restaurant cu parcare acoperită pentru biciclete.",
+                "en": "Look for a restaurant with covered bike parking."
+              }
+            },
+            {
+              "name": "Ride to the TV Tower",
+              "tip_5lang": {
+                "de": "Achten Sie bei der Abfahrt auf Laub und rutschige Kurven.",
+                "hu": "Ereszkedéskor figyeljen a levelekre és a csúszós kanyarokra.",
+                "ro": "La coborâre, atenție la frunze și viraje alunecoase.",
+                "en": "On the descent, watch out for leaves and slippery curves."
+              }
+            },
+            {
+              "name": "Azalea Valley",
+              "tip_5lang": {
+                "de": "Die Wege hier können im Regen sehr aufgeweicht sein.",
+                "hu": "Az utak itt esőben nagyon felázhatnak, kerülje a mély sarat.",
+                "ro": "Potecile de aici pot fi foarte moi pe ploaie.",
+                "en": "The paths here can get very soggy in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche am Fahrrad sind bei diesem Wetter ein Muss.",
+              "Tragen Sie wasserfeste Kleidung und Handschuhe.",
+              "Die Bremswege verlängern sich auf nasser Fahrbahn deutlich.",
+              "Beleuchtung am Rad ist auch tagsüber bei Regen ratsam."
+            ],
+            "hu": [
+              "A sárvédő használata ilyen időben elengedhetetlen.",
+              "Viseljen vízálló ruházatot és kesztyűt.",
+              "A fékút vizes aszfalton jelentősen meghosszabbodik.",
+              "A lámpák használata nappal, esőben is ajánlott."
+            ],
+            "ro": [
+              "Apărătoarele de noroi sunt obligatorii pe această vreme.",
+              "Purtați îmbrăcăminte și mănuși impermeabile.",
+              "Distanța de frânare crește semnificativ pe asfalt ud.",
+              "Se recomandă folosirea luminilor și în timpul zilei pe ploaie."
+            ],
+            "en": [
+              "Mudguards are a must-have in this weather.",
+              "Wear waterproof clothing and gloves.",
+              "Braking distances increase significantly on wet asphalt.",
+              "Using lights during the day in the rain is highly recommended."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens erfordert die Fahrt vom Deák-Platz Konzentration auf eventuelles Glatteis. Die Route zum Gébárti-See bietet eine stille, winterliche Atmosphäre. Mittags wärmen wir uns im Dorfmuseum an den (symbolischen) Kaminen der alten Katen. Der Nachmittag führt uns steil hinauf zum TV-Turm, wo wir uns mit heißem Tee belohnen, während wir das Azaleental in seiner Winterruhe überblicken.",
+            "hu": "Reggel a Deák térről indulva fokozott figyelmet igényel az esetleges jegesedés. A Gébárti-tó felé vezető út csendes, téli hangulatot áraszt. Délben a Falumúzeum régi házaiban próbálunk melegedni a látogatás közben. Délután meredek emelkedő visz a TV-toronyhoz, ahol forró teával jutalmazzuk magunkat, rálátva a téli álmát alvó Azálea-völgyre.",
+            "ro": "Dimineața, plecarea din Piața Deák necesită atenție sporită la posibilele porțiuni de gheață. Drumul spre Lacul Gébárti emană o atmosferă liniștită de iarnă. La prânz, vizităm casele vechi ale Muzeului Satului. După-amiaza, urcarea spre turnul TV ne solicită, dar ne recompensăm cu un ceai fierbinte privind spre Valea Azaleelor.",
+            "en": "In the morning, leaving Deák Square requires extra attention to potential icy patches. The route to Gébárti Lake radiates a peaceful winter atmosphere. At noon, explore the old houses of the Village Museum. The afternoon involves a steep climb to the TV Tower, where hot tea rewards your efforts while overlooking the dormant Azalea Valley."
+          },
+          "stops": [
+            {
+              "name": "Start at Deák Ferenc Square",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Reifendruck; etwas weniger bietet mehr Grip.",
+                "hu": "Ellenőrizze a guminyomást; a kevesebb jobb tapadást ad.",
+                "ro": "Verificați presiunea; o presiune mai mică oferă aderență mai bună.",
+                "en": "Check tire pressure; slightly lower pressure offers better grip."
+              }
+            },
+            {
+              "name": "Mary Magdalene Parish Church",
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Abstellen auf vereisten Flächen.",
+                "hu": "Kerülje a bringa leállítását jeges felületeken.",
+                "ro": "Evitați parcarea pe suprafețe înghețate.",
+                "en": "Avoid parking your bike on icy surfaces."
+              }
+            },
+            {
+              "name": "Ride to Gébárti Lake",
+              "tip_5lang": {
+                "de": "Vorsicht vor überfrierender Nässe in schattigen Abschnitten.",
+                "hu": "Vigyázat a lefagyásokkal az árnyékos szakaszokon.",
+                "ro": "Atenție la porțiunile înghețate în zonele umbrite.",
+                "en": "Watch out for black ice in shaded sections."
+              }
+            },
+            {
+              "name": "Göcsej Village Museum",
+              "tip_5lang": {
+                "de": "Das Gehen mit Radschuhen auf Schnee kann schwierig sein.",
+                "hu": "A stoplis cipőben való járás a havon nehézkes lehet.",
+                "ro": "Mersul prin zăpadă cu pantofi de ciclism poate fi dificil.",
+                "en": "Walking in cycling shoes on snow can be tricky."
+              }
+            },
+            {
+              "name": "Lunch at the lake",
+              "tip_5lang": {
+                "de": "Wählen Sie energiereiche, warme Speisen.",
+                "hu": "Válasszon energiadús, meleg ételeket.",
+                "ro": "Alegeți mâncăruri calde și bogate în energie.",
+                "en": "Choose energy-rich, warm meals."
+              }
+            },
+            {
+              "name": "Ride to the TV Tower",
+              "tip_5lang": {
+                "de": "Der Anstieg hält den Körper warm, Vorsicht bei der Abfahrt.",
+                "hu": "Az emelkedő melegen tart, de az ereszkedésnél fázni fog.",
+                "ro": "Urcarea vă ține cald, dar veți îngheța la coborâre.",
+                "en": "The climb keeps you warm, but the descent will be cold."
+              }
+            },
+            {
+              "name": "Azalea Valley",
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille des winterlichen Waldes.",
+                "hu": "Élvezze a téli erdő csendjét és nyugalmát.",
+                "ro": "Bucurați-vă de liniștea pădurii de iarnă.",
+                "en": "Enjoy the silence and peace of the winter forest."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermounterwäsche und winddichte Kleidung.",
+              "Winterreifen oder Reifen mit gutem Profil sind ratsam.",
+              "Kürzen Sie die Tour ab, wenn die Kälte zu stark wird.",
+              "Achten Sie auf die früh einsetzende Dämmerung."
+            ],
+            "hu": [
+              "Viseljen termaruházatot és szélálló rétegeket.",
+              "Téli vagy mély mintázatú gumiabroncs javasolt.",
+              "Rövidítse le a túrát, ha a hideg már zavaróvá válik.",
+              "Figyeljen a korai sötétedésre."
+            ],
+            "ro": [
+              "Purtați lenjerie termică și straturi rezistente la vânt.",
+              "Se recomandă anvelope de iarnă sau cu profil adânc.",
+              "Scurtați turul dacă frigul devine deranjant.",
+              "Fiți atenți la amurgul care se instalează devreme."
+            ],
+            "en": [
+              "Wear thermal underwear and windproof layers.",
+              "Winter tires or those with deep tread are recommended.",
+              "Shorten the tour if the cold becomes uncomfortable.",
+              "Be mindful of the early darkness."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1002,6 +1384,206 @@
           "Check the opening hours of the museums in advance, especially the open-air museum.",
           "Allow enough time for the drives between the clusters."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens parken wir bequem im Zentrum, um die Museen trockenen Fußes zu erreichen. Mittags fahren wir zum Gébárti-See, wobei die Scheibenwischer den Rhythmus angeben. Das Dorfmuseum Göcsej besuchen wir zwischen den Regenschauern. Nachmittags bietet die Fahrt zum TV-Turm eine tolle Aussicht auf das verregnete Tal, während wir im Auto warm und trocken bleiben.",
+            "hu": "Reggel kényelmesen leparkolunk a belvárosban, hogy száraz lábbal érjük el a múzeumokat. Délben a Gébárti-tóhoz autózunk, az ablaktörlők adják a ritmust. A Falumúzeumot két zápor között látogatjuk meg. Délután a TV-toronyhoz vezető út pazar kilátást nyújt a ködös völgyre, miközben az autóban melegben és szárazon maradunk.",
+            "ro": "Dimineața parcăm confortabil în centru pentru a ajunge la muzee fără a ne uda. La prânz conducem spre Lacul Gébárti, cu ștergătoarele marcând ritmul. Vizităm Muzeul Satului între două reprize de ploaie. După-amiaza, drumul spre turnul TV oferă o priveliște superbă asupra văii cețoase, rămânând la căldură în mașină.",
+            "en": "Park comfortably downtown in the morning to reach museums with dry feet. At noon, drive to Gébárti Lake with wipers keeping the pace. Visit the Village Museum between rain showers. In the afternoon, the drive to the TV Tower offers a grand view of the misty valley while staying warm and dry in the car."
+          },
+          "stops": [
+            {
+              "name": "Park and walk in the center",
+              "tip_5lang": {
+                "de": "Nutzen Sie ein Parkhaus für maximalen Komfort.",
+                "hu": "Használjon parkolóházat a maximális kényelemért.",
+                "ro": "Folosiți o parcare etajată pentru confort maxim.",
+                "en": "Use a parking garage for maximum comfort."
+              }
+            },
+            {
+              "name": "Deák Ferenc Square",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen den Sehenswürdigkeiten nutzen.",
+                "hu": "Használja ki a látnivalók közötti rövid távolságokat.",
+                "ro": "Profită de distanțele scurte între obiective.",
+                "en": "Take advantage of the short distances between sights."
+              }
+            },
+            {
+              "name": "Mary Magdalene Parish Church",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort für eine Regenpause.",
+                "hu": "Csendes hely egy esőnapos pihenőhöz.",
+                "ro": "Un loc liniștit pentru o pauză de ploaie.",
+                "en": "A quiet place for a rainy break."
+              }
+            },
+            {
+              "name": "Drive to the lake area",
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig bei Aquaplaning-Gefahr.",
+                "hu": "Vezessen óvatosan az aquaplaning veszélye miatt.",
+                "ro": "Conduceți cu atenție din cauza riscului de acvaplanare.",
+                "en": "Drive carefully due to hydroplaning risks."
+              }
+            },
+            {
+              "name": "Göcsej Village Museum",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang des Museums.",
+                "hu": "Parkoljon a múzeum bejáratához minél közelebb.",
+                "ro": "Parcați cât mai aproape de intrarea muzeului.",
+                "en": "Park as close to the museum entrance as possible."
+              }
+            },
+            {
+              "name": "Walk at Gébárti Lake & Lunch",
+              "tip_5lang": {
+                "de": "Suchen Sie ein Restaurant mit nahem Parkplatz.",
+                "hu": "Keressen közeli parkolóval rendelkező éttermet.",
+                "ro": "Căutați un restaurant cu parcare în apropiere.",
+                "en": "Look for a restaurant with nearby parking."
+              }
+            },
+            {
+              "name": "Drive to the TV Tower & Azalea Valley",
+              "tip_5lang": {
+                "de": "Die Serpentinen erfordern bei Nässe Vorsicht.",
+                "hu": "A szerpentinek nedves úton óvatosságot igényelnek.",
+                "ro": "Serpentinele necesită atenție pe drum ud.",
+                "en": "The serpentines require caution on wet roads."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Ihre Scheibenwischer gut funktionieren.",
+              "Prüfen Sie den Reifendruck für bessere Haftung bei Nässe.",
+              "Nutzen Sie die Heizung, um das Beschlagen der Scheiben zu verhindern.",
+              "Haben Sie immer einen Regenschirm im Auto griffbereit."
+            ],
+            "hu": [
+              "Győződjön meg róla, hogy az ablaktörlők jól működnek.",
+              "Ellenőrizze a guminyomást a jobb tapadásért nedves úton.",
+              "Használja a fűtést a szélvédő párátlanításához.",
+              "Mindig legyen kéznél esernyő az autóban."
+            ],
+            "ro": [
+              "Asigurați-vă că ștergătoarele funcționează bine.",
+              "Verificați presiunea anvelopelor pentru aderență pe ud.",
+              "Folosiți încălzirea pentru a dezaburi parbrizul.",
+              "Aveți întotdeauna o umbrelă la îndemână în mașină."
+            ],
+            "en": [
+              "Make sure your windshield wipers are working well.",
+              "Check tire pressure for better grip on wet roads.",
+              "Use the heater to prevent windshield fogging.",
+              "Always have an umbrella handy in the car."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens genießen wir die beheizte Fahrt zum Deák-Platz durch die winterliche Stadt. Mittags führt uns die Fahrt zum Gébárti-See durch eine hoffentlich verschneite Landschaft. Das Dorfmuseum bietet ein authentisches Wintererlebnis aus alten Zeiten. Nachmittags erklimmt unser Auto mühelos den Hügel zum TV-Turm, von wo aus wir den Sonnenuntergang über dem winterlichen Zala erleben.",
+            "hu": "Reggel élvezzük a fűtött utazást a Deák térig a téli városon át. Délben a Gébárti-tóhoz autózunk a remélhetőleg havas tájon keresztül. A Falumúzeum autentikus téli élményt nyújt a régi idők hangulatával. Délután autónk könnyedén küzdi le a TV-toronyhoz vezető emelkedőt, ahonnan megcsodáljuk a téli Zala feletti naplementét.",
+            "ro": "Dimineața ne bucurăm de călătoria încălzită spre Piața Deák prin orașul de iarnă. La prânz conducem spre Lacul Gébárti prin peisajul, sperăm, înzăpezit. Muzeul Satului oferă o experiență autentică de iarnă cu atmosfera de odinioară. După-amiaza, mașina urcă ușor spre turnul TV, de unde admirăm apusul peste Zala înzăpezită.",
+            "en": "In the morning, enjoy the heated drive to Deák Square through the winter city. At noon, head to Gébárti Lake through a hopefully snowy landscape. The Village Museum offers an authentic winter experience with an old-world feel. In the afternoon, the car easily tackles the climb to the TV Tower for a beautiful sunset over winter Zala."
+          },
+          "stops": [
+            {
+              "name": "Park and walk in the center",
+              "tip_5lang": {
+                "de": "Achtung beim Aussteigen, Parkplätze können glatt sein.",
+                "hu": "Vigyázat kiszálláskor, a parkolók jegesek lehetnek.",
+                "ro": "Atenție la coborâre, parcările pot fi înghețate.",
+                "en": "Be careful when getting out; parking lots can be icy."
+              }
+            },
+            {
+              "name": "Deák Ferenc Square",
+              "tip_5lang": {
+                "de": "Genießen Sie die Winterbeleuchtung vom Auto aus.",
+                "hu": "Élvezze a téli kivilágítást az autóból is.",
+                "ro": "Bucurați-vă de luminile de iarnă și din mașină.",
+                "en": "Enjoy the winter lights from the car as well."
+              }
+            },
+            {
+              "name": "Mary Magdalene Parish Church",
+              "tip_5lang": {
+                "de": "Ein warmer Ort für eine kurze Besinnung.",
+                "hu": "Meleg helyszín egy rövid elcsendesedéshez.",
+                "ro": "Un loc cald pentru un moment de liniște.",
+                "en": "A warm venue for a brief moment of reflection."
+              }
+            },
+            {
+              "name": "Drive to the lake area",
+              "tip_5lang": {
+                "de": "Vorsicht vor Straßenglätte außerhalb der Stadt.",
+                "hu": "Vigyázat az utak jegesedésével a városon kívül.",
+                "ro": "Atenție la polei pe drumurile din afara orașului.",
+                "en": "Watch out for icy roads outside the city."
+              }
+            },
+            {
+              "name": "Göcsej Village Museum",
+              "tip_5lang": {
+                "de": "Prüfen Sie, ob der Parkplatz geräumt ist.",
+                "hu": "Ellenőrizze, hogy a parkoló le van-e takarítva.",
+                "ro": "Verificați dacă parcarea este deszăpezită.",
+                "en": "Check if the parking lot has been cleared of snow."
+              }
+            },
+            {
+              "name": "Walk at Gébárti Lake & Lunch",
+              "tip_5lang": {
+                "de": "Parken Sie so, dass Sie nicht eingeschneit werden.",
+                "hu": "Úgy parkoljon, hogy ne ragadjon a hóba.",
+                "ro": "Parcați astfel încât să nu rămâneți înzăpeziți.",
+                "en": "Park in a way that you won't get stuck in snow."
+              }
+            },
+            {
+              "name": "Drive to the TV Tower & Azalea Valley",
+              "tip_5lang": {
+                "de": "Winterreifen sind für diesen Anstieg zwingend.",
+                "hu": "A téli gumi kötelező ehhez az emelkedőhöz.",
+                "ro": "Anvelopele de iarnă sunt obligatorii pentru această urcare.",
+                "en": "Winter tires are mandatory for this climb."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Haben Sie einen Eiskratzer und Schneebesen im Auto.",
+              "Prüfen Sie den Frostschutz der Scheibenwaschanlage.",
+              "Vermeiden Sie hastige Lenkbewegungen auf Schnee.",
+              "Halten Sie eine Decke für Notfälle im Auto bereit."
+            ],
+            "hu": [
+              "Legyen az autóban jégkaparó és hóseprű.",
+              "Ellenőrizze a szélvédőmosó fagyállóságát.",
+              "Kerülje a hirtelen kormánymozdulatokat havon.",
+              "Tartson egy takarót az autóban vészhelyzetre."
+            ],
+            "ro": [
+              "Aveți în mașină o racletă și o perie de zăpadă.",
+              "Verificați lichidul de parbriz rezistent la îngheț.",
+              "Evitați mișcările bruște de volan pe zăpadă.",
+              "Țineți o pătură în mașină pentru urgențe."
+            ],
+            "en": [
+              "Keep an ice scraper and a snow brush in the car.",
+              "Check that your windshield washer fluid is frost-resistant.",
+              "Avoid sudden steering movements on snow.",
+              "Keep a blanket in the car for emergencies."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1318,6 +1900,188 @@
           "Signal the driver when you want to get off.",
           "Plan for buffer times for potential delays."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens nutzen wir die Wartehallen am Busbahnhof, um trocken in den Tag zu starten. Mittags bringt uns der Bus zum Gébárti-See, während wir draußen den Regen beobachten. Das Dorfmuseum besuchen wir mit festem Schuhwerk für die Wege zwischen den Häusern. Nachmittags geht es zurück ins Zentrum zum Olajmuseum, wo wir die überdachten Bereiche erkunden, bevor der Abend in der Stadt endet.",
+            "hu": "Reggel a buszpályaudvar várótermét használjuk, hogy szárazon induljon a nap. Délben a busz a Gébárti-tóhoz visz, miközben az ablakon át nézzük az esőt. A Falumúzeumot strapabíró cipőben látogatjuk meg a házak közötti sár miatt. Délután vissza a központba az Olajmúzeumhoz, ahol a fedett részeket járjuk be, mielőtt az este a városban zárulna.",
+            "ro": "Dimineața folosim sala de așteptare a autogării pentru a începe ziua la uscat. La prânz, autobuzul ne duce la Lacul Gébárti în timp ce privim ploaia prin fereastră. Vizităm Muzeul Satului cu încălțăminte rezistentă din cauza noroiului. După-amiaza ne întoarcem spre Muzeul Petrolului, explorând zonele acoperite înainte de finalul zilei.",
+            "en": "Use the bus station's waiting room in the morning to start your day dry. At noon, the bus takes you to Gébárti Lake while you watch the rain through the window. Visit the Village Museum with sturdy shoes due to mud between houses. In the afternoon, head back to the Oil Museum to explore covered areas before ending the evening downtown."
+          },
+          "stops": [
+            {
+              "name": "Arrival at the bus station & walk to the center",
+              "tip_5lang": {
+                "de": "Die Wartehalle bietet Schutz bei Verspätungen.",
+                "hu": "A váróterem védelmet nyújt késés esetén.",
+                "ro": "Sala de așteptare oferă protecție în caz de întârzieri.",
+                "en": "The waiting room provides shelter in case of delays."
+              }
+            },
+            {
+              "name": "Deák Ferenc Square & Parish Church",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den Haltestellen-Überdachungen.",
+                "hu": "Keressen menedéket a megállók tetői alatt.",
+                "ro": "Căutați adăpost sub acoperișurile stațiilor.",
+                "en": "Seek shelter under the bus stop coverings."
+              }
+            },
+            {
+              "name": "Bus ride to Gébárti Lake",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit im Bus zum Aufwärmen.",
+                "hu": "Használja ki a buszon töltött időt a melegedésre.",
+                "ro": "Folosiți timpul din autobuz pentru a vă încălzi.",
+                "en": "Use the time on the bus to warm up."
+              }
+            },
+            {
+              "name": "Göcsej Village Museum & Walk at the Lake",
+              "tip_5lang": {
+                "de": "Achten Sie auf den Busfahrplan, um nicht im Regen zu warten.",
+                "hu": "Figyelje a menetrendet, hogy ne kelljen sokat várnia kint.",
+                "ro": "Urmăriți programul pentru a nu aștepta mult în ploaie.",
+                "en": "Monitor the schedule to avoid long waits in the rain."
+              }
+            },
+            {
+              "name": "Lunch and bus back to the center",
+              "tip_5lang": {
+                "de": "Restaurants nahe der Haltestellen bevorzugen.",
+                "hu": "Részesítse előnyben a megállók közeli éttermeket.",
+                "ro": "Preferați restaurantele din apropierea stațiilor.",
+                "en": "Prefer restaurants close to bus stops."
+              }
+            },
+            {
+              "name": "Hungarian Oil and Gas Museum",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist nur wenige Schritte entfernt.",
+                "hu": "A megálló mindössze pár lépésre található.",
+                "ro": "Stația se află la doar câțiva pași distanță.",
+                "en": "The stop is just a few steps away."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die App für Echtzeit-Busabfahrten.",
+              "Haben Sie Kleingeld oder eine Fahrkarte griffbereit.",
+              "Planen Sie Pufferzeiten für verkehrsbedingte Verzögerungen ein.",
+              "Halten Sie sich in überdachten Bereichen der Haltestellen auf."
+            ],
+            "hu": [
+              "Használjon mobilalkalmazást a buszok valós idejű követéséhez.",
+              "Legyen kéznél aprópénz vagy előre váltott jegy.",
+              "Számoljon a forgalom miatti esetleges késésekkel.",
+              "Tartózkodjon a megállók fedett részein."
+            ],
+            "ro": [
+              "Folosiți o aplicație mobilă pentru urmărirea autobuzelor.",
+              "Aveți pregătite monede sau biletul cumpărat în avans.",
+              "Luați în calcul posibile întârzieri din cauza traficului.",
+              "Stați în zonele acoperite ale stațiilor."
+            ],
+            "en": [
+              "Use a mobile app for real-time bus tracking.",
+              "Have change or a pre-purchased ticket ready.",
+              "Allow for potential traffic delays in your planning.",
+              "Stay in the covered areas of the bus stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens bietet der Busbahnhof einen geheizten Startpunkt für unsere Tour. Mittags bringt uns der warme Bus durch die winterliche Landschaft zum Gébárti-See. Das Dorfmuseum Göcsej zeigt sich im Winterkleid von seiner stillsten Seite. Nachmittags kehren wir ins Zentrum zurück, um das Olajmuseum zu besuchen, bevor wir uns in einem Café aufwärmen und den Wintertag ausklingen lassen.",
+            "hu": "Reggel a buszpályaudvar fűtött váróterme ad jó startot a túrának. Délben a meleg busz a téli tájon át visz minket a Gébárti-tóhoz. A Falumúzeum ilyenkor a legcsendesebb arcát mutatja. Délután visszatérünk a központba az Olajmúzeumhoz, majd egy forró kávé mellett melegedünk fel, lezárva ezt a szép téli napot.",
+            "ro": "Dimineața, sala de așteptare încălzită a autogării oferă un start bun turului. La prânz, autobuzul cald ne poartă prin peisajul de iarnă spre Lacul Gébárti. Muzeul Satului își arată cea mai liniștită față în acest sezon. După-amiaza ne întoarcem în centru la Muzeul Petrolului, apoi ne încălzim cu o cafea fierbinte.",
+            "en": "In the morning, the heated bus station waiting room provides a good start to the tour. At noon, the warm bus carries you through the winter landscape to Gébárti Lake. The Village Museum shows its quietest side at this time. In the afternoon, return downtown to the Oil Museum, then warm up with a hot coffee to end the day."
+          },
+          "stops": [
+            {
+              "name": "Arrival at the bus station & walk to the center",
+              "tip_5lang": {
+                "de": "Nutzen Sie den beheizten Innenbereich zum Warten.",
+                "hu": "Használja a fűtött belső teret a várakozáshoz.",
+                "ro": "Folosiți zona interioară încălzită pentru așteptare.",
+                "en": "Use the heated indoor area for waiting."
+              }
+            },
+            {
+              "name": "Deák Ferenc Square & Parish Church",
+              "tip_5lang": {
+                "de": "Vorsicht vor Glätte an den Bordsteinen der Haltestellen.",
+                "hu": "Vigyázat a csúszós padkákkal a megállókban.",
+                "ro": "Atenție la bordurile alunecoase din stații.",
+                "en": "Watch out for slippery curbs at bus stops."
+              }
+            },
+            {
+              "name": "Bus ride to Gébárti Lake",
+              "tip_5lang": {
+                "de": "Die Busse sind im Winter meist gut beheizt.",
+                "hu": "A buszok télen általában jól fűtöttek.",
+                "ro": "Autobuzele sunt de obicei bine încălzite iarna.",
+                "en": "Buses are generally well-heated in winter."
+              }
+            },
+            {
+              "name": "Göcsej Village Museum & Walk at the Lake",
+              "tip_5lang": {
+                "de": "Kommen Sie rechtzeitig zur Haltestelle, Busse fahren selten.",
+                "hu": "Érkezzen időben a megállóba, a buszok ritkán járnak ide.",
+                "ro": "Sosiți la timp în stație, autobuzele circulă rar aici.",
+                "en": "Arrive at the stop on time; buses run infrequently here."
+              }
+            },
+            {
+              "name": "Lunch and bus back to the center",
+              "tip_5lang": {
+                "de": "Suchen Sie ein Lokal in der Nähe der Rückfahrhaltestelle.",
+                "hu": "Keressen helyet a visszairányú megálló közelében.",
+                "ro": "Căutați un local lângă stația de întoarcere.",
+                "en": "Look for a place near the return bus stop."
+              }
+            },
+            {
+              "name": "Hungarian Oil and Gas Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Bus, um das Gehen in der Kälte zu minimieren.",
+                "hu": "Használja a buszt, hogy kevesebbet kelljen a hidegben gyalogolnia.",
+                "ro": "Folosiți autobuzul pentru a merge mai puțin prin frig.",
+                "en": "Use the bus to minimize walking in the cold."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Winterfahrplan, es kann Abweichungen geben.",
+              "Tragen Sie warme Schuhe für das Warten an der Haltestelle.",
+              "Beachten Sie, dass Busse bei Schnee Verspätung haben können.",
+              "Nutzen Sie die Wartezeiten für ein heißes Getränk to-go."
+            ],
+            "hu": [
+              "Ellenőrizze a téli menetrendet az esetleges változások miatt.",
+              "Viseljen meleg cipőt a megállóban való várakozáshoz.",
+              "Számoljon vele, hogy havazáskor a buszok késhetnek.",
+              "Használja ki a várakozási időt egy forró italra."
+            ],
+            "ro": [
+              "Verificați programul de iarnă pentru eventuale modificări.",
+              "Purtați încălțăminte călduroasă pentru așteptarea în stație.",
+              "Luați în calcul că autobuzele pot întârzia când ninge.",
+              "Folosiți timpul de așteptare pentru o băutură fierbinte."
+            ],
+            "en": [
+              "Check the winter schedule for potential changes.",
+              "Wear warm shoes for waiting at the bus stop.",
+              "Be aware that buses may be delayed during snowfall.",
+              "Use waiting times to grab a hot drink to-go."
+            ]
+          }
+        }
       }
     }
   }

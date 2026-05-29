@@ -280,6 +280,188 @@
           "Ask in cafes about the story of Achilles.",
           "Locals are very proud of their halva – it makes a perfect gift."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens im Zentrum bieten Cafés Schutz vor dem Regen. Der Achilles-Platz glänzt nass, aber Vorsicht vor Pfützen. Mittags ist die Archäologische Sammlung der perfekte trockene Rückzugsort. Nachmittags bei der Kirche und den Quellen ist festes Schuhwerk Pflicht, da die Wege aufweichen. Abends endet die Tour im Stadtkern, wo man bei regionalen Speisen den Regen draußen vergisst.",
+            "hu": "Reggel a központ kávézói nyújtanak menedéket a zivatar elől. Akhilleusz szobra vizesen csillog, de vigyázzon a tócsákra. Délben a Régészeti Gyűjtemény tökéletes fedett helyszín. Délután a templom és a források környékén sárra kell készülni, a túrabakancs elengedhetetlen. Estére a városmagba érünk vissza, ahol a helyi fogások mellett a kopogó eső már csak hangulatos háttérzaj.",
+            "ro": "Dimineața, cafenelele din centru oferă adăpost împotriva aversei. Statuia lui Ahile strălucește în ploaie, dar atenție la bălți. La prânz, Colecția Arheologică este refugiul interior perfect. După-amiaza, la biserică și izvoare, noroiul este inevitabil, deci încălțămintea impermeabilă este obligatorie. Seara se încheie în nucleul urban, unde mâncarea caldă vă face să uitați de vremea de afară.",
+            "en": "Morning rain finds you seeking shelter in the town center's cafes. Achilles' statue glimmers when wet, but watch out for puddles. By noon, the Archaeological Collection provides a dry sanctuary. Afternoon visits to the church and springs require waterproof boots as paths get muddy. The evening ends back in the core, where local dishes warm you up while the rain patters on the windows."
+          },
+          "stops": [
+            {
+              "name": "Traditionelles Stadtzentrum",
+              "tip_5lang": {
+                "de": "Unter den Markisen der Cafés bleiben Sie trocken.",
+                "hu": "A kávézók előtetői alatt szárazon maradhat.",
+                "ro": "Rămâneți uscat sub copertinele cafenelelor.",
+                "en": "Stay dry under the cafe awnings."
+              }
+            },
+            {
+              "name": "Statue des Achilles",
+              "tip_5lang": {
+                "de": "Vorsicht, das Pflaster um die Statue ist rutschig.",
+                "hu": "Vigyázat, a szobor körüli kövezet csúszik.",
+                "ro": "Atenție, pavajul din jurul statuii este alunecos.",
+                "en": "Caution, the pavement around the statue is slippery."
+              }
+            },
+            {
+              "name": "Archäologische Sammlung",
+              "tip_5lang": {
+                "de": "Ideale Zeit für eine ausführliche Indoor-Besichtigung.",
+                "hu": "Ideális időpont egy alapos benti nézelődéshez.",
+                "ro": "Moment ideal pentru o vizită detaliată în interior.",
+                "en": "Ideal time for a detailed indoor visit."
+              }
+            },
+            {
+              "name": "Kirche Agios Antonios",
+              "tip_5lang": {
+                "de": "Der Innenraum bietet Stille und Schutz vor dem Guss.",
+                "hu": "A belső tér csendet és védelmet nyújt a zápor elől.",
+                "ro": "Interiorul oferă liniște și protecție împotriva ploii.",
+                "en": "The interior offers silence and shelter from the downpour."
+              }
+            },
+            {
+              "name": "Enipeas-Quellen",
+              "tip_5lang": {
+                "de": "Die Wege zu den Quellen können bei Regen sehr matschig sein.",
+                "hu": "Az utak a forrásokhoz esőben nagyon sárosak lehetnek.",
+                "ro": "Potecile spre izvoare pot fi foarte noroioase pe ploaie.",
+                "en": "The paths to the springs can be very muddy in the rain."
+              }
+            },
+            {
+              "name": "Akropolis des antiken Pharsalos",
+              "tip_5lang": {
+                "de": "Steile Pfade sind rutschig; nutzen Sie Wanderstöcke.",
+                "hu": "A meredek ösvények csúsznak; használjon túrabotot.",
+                "ro": "Potecile abrupte sunt alunecoase; folosiți bețe de trekking.",
+                "en": "Steep paths are slippery; use trekking poles."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Regenschirm ist bei den Windböen am Akropolis-Hügel oft besser als ein leichter Cape.",
+              "Tragen Sie wasserfeste Wanderschuhe für den Aufstieg zur antiken Akropolis.",
+              "Die Archäologische Sammlung ist montags oft geschlossen, prüfen Sie die Zeiten.",
+              "In den Enipeas-Quellen steigt der Wasserspiegel bei Starkregen schnell an."
+            ],
+            "hu": [
+              "A várerőd dombján a szél miatt egy stabil esernyő többet ér, mint egy vékony esőköpeny.",
+              "Vízálló túrabakancs javasolt az ókori akropoliszhoz való feljutáshoz.",
+              "A Régészeti Gyűjtemény hétfőnként zárva lehet, ellenőrizze a nyitvatartást.",
+              "Heves esőzéskor az Enipeasz-források vízszintje gyorsan megemelkedhet."
+            ],
+            "ro": [
+              "O umbrelă stabilă este adesea mai utilă decât o pelerină subțire pe dealul cetății.",
+              "Purtați bocanci de munte impermeabili pentru urcarea la acropola antică.",
+              "Colecția Arheologică poate fi închisă lunea, verificați programul.",
+              "Nivelul apei la izvoarele Enipeas crește rapid în timpul ploilor torențiale."
+            ],
+            "en": [
+              "A sturdy umbrella is often better than a thin poncho due to gusts on the Acropolis hill.",
+              "Wear waterproof hiking boots for the climb to the ancient acropolis.",
+              "The Archaeological Collection is often closed on Mondays; check the hours.",
+              "During heavy rain, the water level at the Enipeas springs can rise quickly."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen beginnt frisch im Zentrum mit einem starken griechischen Kaffee. Achilles steht einsam im kühlen Wind. Mittags wärmen die Exponate im Museum Geist und Körper. Nachmittags ist das Licht bei den Quellen und der Akropolis tiefstehend und klar, ideal für Fotos vor dem frühen Sonnenuntergang um 17:15 Uhr. Der Tag endet gemütlich in einer Taverne am Kamin.",
+            "hu": "A téli reggel frissen indul a központban egy erős görög kávéval. Akhilleusz magányosan áll a hűvös szélben. Délben a múzeum tárlatai melengetik a testet és a lelket. Délután a fények a forrásoknál és az akropolisznál mélyek és tiszták, tökéletesek a fotózáshoz a korai, 17:15-ös naplemente előtt. A nap egy kandallós tavernában ér véget.",
+            "ro": "Dimineața de iarnă începe proaspăt în centru cu o cafea grecească tare. Ahile stă singur în vântul rece. La prânz, exponatele din muzeu încălzesc spiritul și corpul. După-amiaza, lumina la izvoare și acropolă este joasă și clară, ideală pentru fotografii înainte de apusul devreme de la 17:15. Ziua se încheie confortabil într-o tavernă lângă șemineu.",
+            "en": "The winter morning starts crisp in the center with a strong Greek coffee. Achilles stands lonely in the cool wind. By noon, the museum exhibits warm both mind and body. In the afternoon, the light at the springs and acropolis is low and sharp, perfect for photos before the early sunset at 17:15. The day concludes cozily in a tavern by the fireplace."
+          },
+          "stops": [
+            {
+              "name": "Traditionelles Stadtzentrum",
+              "tip_5lang": {
+                "de": "Probieren Sie heiße 'Halvas Farsalon' in den Konditoreien.",
+                "hu": "Kóstolja meg a forró farsalai halvát a cukrászdákban.",
+                "ro": "Gustați halvița fierbinte de Farsala în cofetării.",
+                "en": "Try the hot 'Halvas Farsalon' in the local pastry shops."
+              }
+            },
+            {
+              "name": "Statue des Achilles",
+              "tip_5lang": {
+                "de": "Der Platz ist oft windig, halten Sie Schal und Mütze bereit.",
+                "hu": "A tér gyakran szeles, legyen kéznél sál és sapka.",
+                "ro": "Piața este adesea bântuită de vânt, pregătiți fularul.",
+                "en": "The square is often windy; have a scarf and hat ready."
+              }
+            },
+            {
+              "name": "Archäologische Sammlung",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Mittagszeit, um sich im Gebäude aufzuwärmen.",
+                "hu": "Használja ki a délidőt a benti bemelegedésre.",
+                "ro": "Folosiți timpul prânzului pentru a vă încălzi în interior.",
+                "en": "Use the midday to warm up inside the building."
+              }
+            },
+            {
+              "name": "Kirche Agios Antonios",
+              "tip_5lang": {
+                "de": "Im Inneren ist es deutlich milder als auf den Straßen.",
+                "hu": "Odabent jóval enyhébb az idő, mint az utcákon.",
+                "ro": "În interior este mult mai blând decât pe străzi.",
+                "en": "Inside it is significantly milder than on the streets."
+              }
+            },
+            {
+              "name": "Enipeas-Quellen",
+              "tip_5lang": {
+                "de": "Das Wasser wirkt im Winter dampfend, ein mystischer Anblick.",
+                "hu": "A víz télen gőzölgőnek tűnhet, misztikus látvány.",
+                "ro": "Apa poate părea aburindă iarna, o vedere mistică.",
+                "en": "The water may appear steaming in winter, a mystical sight."
+              }
+            },
+            {
+              "name": "Akropolis des antiken Pharsalos",
+              "tip_5lang": {
+                "de": "Früher Aufbruch nötig, um vor der Dunkelheit abzusteigen.",
+                "hu": "Korán induljon, hogy sötétedés előtt leérjen.",
+                "ro": "Porniți devreme pentru a coborî înainte de întuneric.",
+                "en": "Start early to descend before darkness falls."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Zwiebelprinzip bei der Kleidung: Der Aufstieg wärmt, oben weht oft ein kalter Wind.",
+              "Die Sonne geht im Dezember gegen 17:15 Uhr unter; planen Sie den Abstieg bis 16:45 Uhr.",
+              "Die Konditoreien in Farsala sind berühmt für Halva, die im Winter besonders gut schmeckt.",
+              "Achten Sie auf Raureif auf den antiken Steinen der Akropolis."
+            ],
+            "hu": [
+              "Réteges öltözködés: a felfelé út kimelegít, de fent gyakran metsző szél fúj.",
+              "A nap decemberben 17:15 körül nyugszik; a lejövetelt tervezze 16:45-re.",
+              "A farsalai cukrászdák híresek a halvájukról, ami télen különösen jól esik.",
+              "Ügyeljen a zúzmarára az akropolisz ókori kövein."
+            ],
+            "ro": [
+              "Îmbrăcăminte în straturi: urcarea vă încălzește, dar sus bate adesea un vânt rece.",
+              "Soarele apune în decembrie în jur de 17:15; planificați coborârea până la 16:45.",
+              "Cofetăriile din Farsala sunt faimoase pentru halva, excelentă iarna.",
+              "Atenție la chiciura de pe pietrele antice ale acropolei."
+            ],
+            "en": [
+              "Layered clothing is key: the climb warms you up, but it's often windy at the top.",
+              "Sunset is around 17:15 in December; plan to descend by 16:45.",
+              "Farsala's pastry shops are famous for their halva, which tastes best in winter.",
+              "Watch out for frost on the ancient stones of the Acropolis."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -510,6 +692,188 @@
           "Pay attention to adequate sun protection while cycling in summer.",
           "The road to the battlefield has very little shade."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour beginnt bei Nieselregen an der Achilles-Statue. Das Visier schützt die Augen vor Spritzwasser. Mittags führt der Weg durch das Zentrum zu den Quellen, wobei die Reifen auf nassem Asphalt weniger Grip haben. Nachmittags ist die Auffahrt zur Akropolis anstrengend und rutschig. Der Tag endet mit der Fahrt zum Schlachtdenkmal, wo der Wind den Regen peitscht.",
+            "hu": "A kerékpártúra szemerkélő esőben indul Akhilleusz szobránál. A sisakrostély védi a szemet a felverődő víztől. Délben az út a központon át a forrásokhoz vezet, a gumik tapadása vizes aszfalton kisebb. Délután az akropoliszhoz vezető emelkedő izzasztó és csúszós. A nap a csata emlékművénél ér véget, ahol a szél korbácsolja az esőt.",
+            "ro": "Turul cu bicicleta începe sub o ploaie fină la statuia lui Ahile. Viziera protejează ochii de stropi. La prânz, traseul trece prin centru spre izvoare, anvelopele având aderență scăzută pe asfalt ud. După-amiaza, urcarea spre acropolă este solicitantă și alunecoasă. Ziua se încheie cu drumul spre monumentul bătăliei, unde vântul biciuiește ploaia.",
+            "en": "The bike tour starts under drizzle at the Achilles statue. A visor protects your eyes from spray. By noon, the route leads through the center to the springs; tires have less grip on wet asphalt. The afternoon climb to the acropolis is strenuous and slippery. The day ends with a ride to the battle monument, where the wind whips the rain."
+          },
+          "stops": [
+            {
+              "name": "Statue des Achilles",
+              "tip_5lang": {
+                "de": "Vermeiden Sie beim Bremsen die nassen Markierungen auf der Straße.",
+                "hu": "Fékezéskor kerülje a vizes útburkolati jeleket.",
+                "ro": "Evitați marcajele rutiere umede când frânați.",
+                "en": "Avoid wet road markings when braking."
+              }
+            },
+            {
+              "name": "Traditionelles Stadtzentrum",
+              "tip_5lang": {
+                "de": "Kopfsteinpflaster ist bei Nässe extrem rutschig für schmale Reifen.",
+                "hu": "A macskakő nedvesen rendkívül csúszós a vékony gumiknak.",
+                "ro": "Pavajul este extrem de alunecos pentru anvelope înguste când e ud.",
+                "en": "Cobblestones are extremely slippery for narrow tires when wet."
+              }
+            },
+            {
+              "name": "Kirche Agios Antonios",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad unter das Vordach, falls möglich.",
+                "hu": "Ha lehet, állítsa a biciklit az előtető alá.",
+                "ro": "Parcați bicicleta sub copertină, dacă este posibil.",
+                "en": "Park your bike under the awning if possible."
+              }
+            },
+            {
+              "name": "Enipeas-Quellen",
+              "tip_5lang": {
+                "de": "Schutzbleche verhindern, dass Schlamm auf Ihre Kleidung spritzt.",
+                "hu": "A sárvédő megakadályozza, hogy a sár a ruhájára fröccsenjen.",
+                "ro": "Apărătorile previn stropirea hainelor cu noroi.",
+                "en": "Mudguards will prevent mud from splashing onto your clothes."
+              }
+            },
+            {
+              "name": "Akropolis des antiken Pharsalos",
+              "tip_5lang": {
+                "de": "Bei starkem Regen ist die Auffahrt nur für Mountainbikes ratsam.",
+                "hu": "Heves esőben a feljutás csak hegyi kerékpárral javasolt.",
+                "ro": "Pe ploaie torențială, urcarea e recomandată doar pentru MTB.",
+                "en": "In heavy rain, the climb is only advisable for mountain bikes."
+              }
+            },
+            {
+              "name": "Denkmal der Schlacht von Farsala",
+              "tip_5lang": {
+                "de": "Freie Fläche, der Wind kann hier seitlich stark angreifen.",
+                "hu": "Nyílt terep, a szél itt oldalról erősen befújhat.",
+                "ro": "Zonă deschisă, vântul poate sufla puternic din lateral aici.",
+                "en": "Open area; the wind can be strong from the side here."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie vor Abfahrt die Bremsbeläge; bei Nässe ist der Bremsweg deutlich länger.",
+              "Nutzen Sie wasserdichte Packtaschen für Ihre Ausrüstung.",
+              "Vermeiden Sie tiefe Pfützen, sie könnten Schlaglöcher verbergen.",
+              "Tragen Sie Neon-Regenkleidung, um bei grauem Wetter gesehen zu werden."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze a fékbetéteket; vizes úton a féktáv jóval hosszabb.",
+              "Használjon vízhatlan táskákat a felszereléséhez.",
+              "Kerülje a mély tócsákat, kátyúkat rejthetnek.",
+              "Viseljen feltűnő esőruházatot, hogy szürke időben is látható legyen."
+            ],
+            "ro": [
+              "Verificați plăcuțele de frână înainte de plecare; distanța de frânare e mai mare pe ud.",
+              "Folosiți genți de bicicletă impermeabile pentru echipament.",
+              "Evitați bălțile adânci, pot ascunde gropi.",
+              "Purtați haine de ploaie reflectorizante pentru a fi vizibil pe vreme gri."
+            ],
+            "en": [
+              "Check your brake pads before starting; braking distance is significantly longer when wet.",
+              "Use waterproof panniers for your gear.",
+              "Avoid deep puddles as they might hide potholes.",
+              "Wear high-visibility rain gear to be seen in grey weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Kühle Morgenluft weht beim Start an der Achilles-Statue. Mit Handschuhen und Thermohose geht es durch das Zentrum zur Kirche. Mittags bietet die Auffahrt zu den Enipeas-Quellen natürliche Wärme durch Bewegung. Der Höhepunkt ist die antike Akropolis, wo der Winterwind pfeift. Die Tour endet am Schlachtdenkmal, kurz bevor das Licht in der Dämmerung schwindet.",
+            "hu": "Hűvös reggeli levegő fogad Akhilleusz szobránál. Kesztyűben és nadrágban tekerünk a központon át a templomig. Délben az Enipeasz-forrásokhoz vezető emelkedő természetes meleget ad a mozgás által. A csúcspont az ókori akropolisz, ahol fütyül a téli szél. A túra a csata emlékművénél ér véget, épp mielőtt a fények elhalványulnak a szürkületben.",
+            "ro": "Aerul rece de dimineață suflă la startul de la statuia lui Ahile. Cu mănuși și pantaloni termici trecem prin centru spre biserică. La prânz, urcarea spre izvoarele Enipeas oferă căldură naturală prin mișcare. Punctul culminant este acropola antică, unde șuieră vântul de iarnă. Turul se încheie la monumentul bătăliei, chiar înainte ca lumina să dispară în amurg.",
+            "en": "Crisp morning air greets you at the Achilles statue. Wearing gloves and thermal pants, you ride through the center to the church. At noon, the climb to the Enipeas springs provides natural warmth through movement. The highlight is the ancient acropolis, where the winter wind whistles. The tour ends at the battle monument just before the light fades at dusk."
+          },
+          "stops": [
+            {
+              "name": "Statue des Achilles",
+              "tip_5lang": {
+                "de": "Kaltstart: Wärmen Sie Ihre Gelenke vor dem Aufsteigen auf.",
+                "hu": "Hidegindítás: melegítse be az ízületeit felszállás előtt.",
+                "ro": "Start la rece: încălziți-vă articulațiile înainte de a urca.",
+                "en": "Cold start: warm up your joints before getting on the bike."
+              }
+            },
+            {
+              "name": "Traditionelles Stadtzentrum",
+              "tip_5lang": {
+                "de": "Holen Sie sich einen Tee zum Mitnehmen für die nächste Etappe.",
+                "hu": "Vegyünk egy teát elvitelre a következő szakaszhoz.",
+                "ro": "Luați un ceai la pachet pentru următoarea etapă.",
+                "en": "Grab a tea to go for the next leg of the trip."
+              }
+            },
+            {
+              "name": "Kirche Agios Antonios",
+              "tip_5lang": {
+                "de": "Kurze Pause im Inneren, um die Finger aufzuwärmen.",
+                "hu": "Rövid pihenő odabent, hogy felmelegítse az ujjait.",
+                "ro": "Scurtă pauză în interior pentru a vă încălzi degetele.",
+                "en": "Short break inside to warm up your fingers."
+              }
+            },
+            {
+              "name": "Enipeas-Quellen",
+              "tip_5lang": {
+                "de": "Das Gelände kann gefroren und rutschig sein.",
+                "hu": "A terep fagyos és csúszós lehet.",
+                "ro": "Terenul poate fi înghețat și alunecos.",
+                "en": "The terrain can be frozen and slippery."
+              }
+            },
+            {
+              "name": "Akropolis des antiken Pharsalos",
+              "tip_5lang": {
+                "de": "Extremer Windchill-Effekt bei der Abfahrt, Windstopper tragen.",
+                "hu": "Erős szélhűtés-hatás lejövetkor, viseljen szélfogót.",
+                "ro": "Efect puternic de răcire la coborâre, purtați protecție contra vântului.",
+                "en": "Extreme wind chill effect on the descent; wear a windbreaker."
+              }
+            },
+            {
+              "name": "Denkmal der Schlacht von Farsala",
+              "tip_5lang": {
+                "de": "Schnelles Foto vor dem Sonnenuntergang um 17:15 Uhr.",
+                "hu": "Gyors fotó a 17:15-ös naplemente előtt.",
+                "ro": "Fotografie rapidă înainte de apusul de la 17:15.",
+                "en": "Quick photo before the sunset at 17:15."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Winterschuhe oder Überschuhe gegen die Kälte an den Zehen.",
+              "Achten Sie auf Glatteis in schattigen Kurven der Akropolis-Auffahrt.",
+              "Halten Sie die Kette gut geölt, um sie vor Streusalz zu schützen.",
+              "Nehmen Sie eine Thermoskanne mit warmem Getränk mit."
+            ],
+            "hu": [
+              "Viseljen téli cipőt vagy kamáslit a lábujjak fagyása ellen.",
+              "Ügyeljen a jegesedésre az akropoliszhoz vezető út árnyékos kanyarjaiban.",
+              "Tartsa olajozottan a láncot a téli útszóró só elleni védelem érdekében.",
+              "Vigyen magával termoszban meleg italt."
+            ],
+            "ro": [
+              "Purtați încălțăminte de iarnă sau huse pentru pantofi contra frigului.",
+              "Atenție la porțiunile înghețate în curbele umbrite spre acropolă.",
+              "Păstrați lanțul bine uns pentru a-l proteja de sarea de pe drum.",
+              "Luați un termos cu băutură caldă."
+            ],
+            "en": [
+              "Wear winter shoes or overshoes to protect your toes from the cold.",
+              "Watch out for black ice in shaded turns on the acropolis climb.",
+              "Keep the chain well-oiled to protect it from road salt.",
+              "Carry a thermos with a warm drink."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -759,6 +1123,206 @@
           "Driving between the different clusters saves a lot of time.",
           "The roads to the battlefield monument are well maintained."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Fahrt beginnt trocken im Wagen an der Achilles-Statue. Durch das Zentrum geht es zur Archäologischen Sammlung, wo das Auto nah am Eingang parken kann. Mittags zu den Quellen und der Nymphenhöhle sind die Straßen schmierig. Nachmittags bietet die Auffahrt zur Akropolis tolle Ausblicke auf die verregnete Ebene, bevor man am Schlachtdenkmal die Tour sicher im Fahrzeug sitzend beendet.",
+            "hu": "Az út szárazon indul az autóban Akhilleusz szobránál. A központon át a Régészeti Gyűjteményhez hajtunk, ahol a bejárathoz közel lehet parkolni. Délben a források és a Nimfák barlangja felé az utak csúszósak. Délután az akropoliszhoz vezető út nagyszerű kilátást nyújt az eső áztatta síkságra, mielőtt a csata emlékművénél, az autó biztonságában fejeznénk be a túrát.",
+            "ro": "Călătoria începe la uscat în mașină la statuia lui Ahile. Trecem prin centru spre Colecția Arheologică, unde se poate parca aproape de intrare. La prânz, spre izvoare și peștera nimfelor, drumurile sunt alunecoase. După-amiaza, urcarea spre acropolă oferă vederi superbe asupra câmpiei ploioase, înainte de a încheia turul la monumentul bătăliei, în siguranța vehiculului.",
+            "en": "The drive starts dry inside the car at the Achilles statue. Through the center, you head to the Archaeological Collection, with parking near the entrance. At noon, roads toward the springs and nymphs' cave are greasy. The afternoon climb to the acropolis offers great views of the rainy plain before concluding the tour safely inside the vehicle at the battle monument."
+          },
+          "stops": [
+            {
+              "name": "Statue des Achilles",
+              "tip_5lang": {
+                "de": "Parkplätze sind am Platz begrenzt, nutzen Sie Seitenstraßen.",
+                "hu": "A parkolóhelyek korlátozottak a téren, használja az oldalsó utcákat.",
+                "ro": "Locurile de parcare sunt limitate în piață, folosiți străzile laterale.",
+                "en": "Parking is limited in the square; use side streets."
+              }
+            },
+            {
+              "name": "Traditionelles Stadtzentrum",
+              "tip_5lang": {
+                "de": "Enge Gassen im Zentrum erfordern bei Regen volle Konzentration.",
+                "hu": "A szűk központi utcák esőben teljes koncentrációt igényelnek.",
+                "ro": "Străzile înguste din centru necesită concentrare maximă pe ploaie.",
+                "en": "Narrow center streets require full concentration in the rain."
+              }
+            },
+            {
+              "name": "Archäologische Sammlung",
+              "tip_5lang": {
+                "de": "Perfekter Stopp, um die Kleidung wieder zu trocknen.",
+                "hu": "Tökéletes megálló a ruházat megszárításához.",
+                "ro": "Oprire perfectă pentru a vă usca hainele.",
+                "en": "Perfect stop to dry your clothes."
+              }
+            },
+            {
+              "name": "Enipeas-Quellen",
+              "tip_5lang": {
+                "de": "Der Boden am Parkplatz der Quellen kann weich sein.",
+                "hu": "A források parkolójában a talaj puha lehet.",
+                "ro": "Solul din parcarea izvoarelor poate fi moale.",
+                "en": "The ground at the springs' parking area can be soft."
+              }
+            },
+            {
+              "name": "Höhle der Nymphen",
+              "tip_5lang": {
+                "de": "Die Zufahrt ist schmal; bei Nässe vorsichtig am Rand fahren.",
+                "hu": "A bekötőút szűk; nedves időben óvatosan hajtson a széleken.",
+                "ro": "Drumul de acces este îngust; circulați cu prudență pe margini.",
+                "en": "The access road is narrow; drive carefully on the edges when wet."
+              }
+            },
+            {
+              "name": "Akropolis des antiken Pharsalos",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Wagen als geschützten Aussichtspunkt.",
+                "hu": "Használja az autót védett kilátóhelyként.",
+                "ro": "Folosiți mașina ca punct de observație protejat.",
+                "en": "Use the car as a sheltered viewpoint."
+              }
+            },
+            {
+              "name": "Denkmal der Schlacht von Farsala",
+              "tip_5lang": {
+                "de": "Kurzer Ausstieg für Fotos, dann schnell zurück ins Trockene.",
+                "hu": "Rövid kiszállás fotózni, majd gyorsan vissza a szárazba.",
+                "ro": "Coborâre scurtă pentru poze, apoi rapid înapoi la uscat.",
+                "en": "Short exit for photos, then quickly back to the dry car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schalten Sie das Abblendlicht ein, da die Sicht in der thessalischen Ebene oft stark sinkt.",
+              "Prüfen Sie den Zustand der Wischerblätter vor dem Start.",
+              "Einige Feldwege zu den Außenstandorten können unbefestigt sein.",
+              "Lüftung auf die Scheibe richten, um Beschlagen durch nasse Kleidung zu vermeiden."
+            ],
+            "hu": [
+              "Kapcsolja be a tompított fényszórót, mert a látótávolság a síkságon gyakran lecsökken.",
+              "Indulás előtt ellenőrizze az ablaktörlő lapátokat.",
+              "A külső helyszínekhez vezető dűlőutak egy része burkolatlan lehet.",
+              "Irányítsa a szellőzést a szélvédőre a nedves ruhák okozta párásodás ellen."
+            ],
+            "ro": [
+              "Aprindeți faza scurtă, vizibilitatea în câmpie scade adesea drastic.",
+              "Verificați starea ștergătoarelor înainte de plecare.",
+              "Unele drumuri spre locațiile exterioare pot fi neasfaltate.",
+              "Direcționați ventilația spre parbriz pentru a evita aburirea de la hainele ude."
+            ],
+            "en": [
+              "Turn on low-beam headlights as visibility in the Thessalian plain often drops.",
+              "Check the condition of wiper blades before starting.",
+              "Some field roads to outer locations might be unpaved.",
+              "Point ventilation at the windshield to avoid fogging from wet clothes."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen beginnt mit dem Auto an der Achilles-Statue. Die Heizung läuft, während es durch das Zentrum zur Sammlung geht. Mittags ist die Fahrt zu den Quellen und der Höhle landschaftlich reizvoll, wenn Reif die Natur überzieht. Nachmittags bietet die Akropolis einen klaren Fernblick über Thessalien. Die Tour endet am Schlachtdenkmal bei einsetzender Dunkelheit gegen 17:30 Uhr.",
+            "hu": "Deres reggel indul az autóval Akhilleusz szobránál. A fűtés már megy, miközben a központon át a gyűjteményhez érünk. Délben a források és a barlang felé vezető út festői, ahogy a zúzmara befedi a tájat. Délután az akropoliszról tiszta kilátás nyílik Thesszáliára. A túra a csata emlékművénél ér véget a 17:30 körül beálló sötétségben.",
+            "ro": "O dimineață gerosă începe cu mașina la statuia lui Ahile. Încălzirea funcționează în timp ce mergem prin centru spre colecție. La prânz, drumul spre izvoare și peșteră este pitoresc, cu promoroaca acoperind natura. După-amiaza, acropola oferă o vedere clară asupra Tesaliei. Turul se încheie la monumentul bătăliei odată cu lăsarea întunericului, în jur de 17:30.",
+            "en": "A frosty morning begins with the car at the Achilles statue. The heater is on as you drive through the center to the collection. At noon, the drive to the springs and cave is scenic with frost covering nature. In the afternoon, the acropolis offers a clear vista over Thessaly. The tour concludes at the battle monument as darkness falls around 17:30."
+          },
+          "stops": [
+            {
+              "name": "Statue des Achilles",
+              "tip_5lang": {
+                "de": "Scheiben kratzen nicht vergessen, falls der Wagen draußen stand.",
+                "hu": "Ne felejtsen el jégmentesíteni, ha az autó kint állt.",
+                "ro": "Nu uitați să răzuiți geamurile dacă mașina a stat afară.",
+                "en": "Don't forget to scrape the windows if the car was parked outside."
+              }
+            },
+            {
+              "name": "Traditionelles Stadtzentrum",
+              "tip_5lang": {
+                "de": "Kurzer Stopp für heißen Kaffee, Parken in der Nähe der Cafés.",
+                "hu": "Rövid megálló forró kávéért, parkolás a kávézók közelében.",
+                "ro": "Oprire scurtă pentru cafea caldă, parcare lângă cafenele.",
+                "en": "Short stop for hot coffee; park near the cafes."
+              }
+            },
+            {
+              "name": "Archäologische Sammlung",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe für schwere Wintermäntel.",
+                "hu": "Használja a ruhatárat a nehéz télikabátokhoz.",
+                "ro": "Folosiți garderoba pentru paltoanele grele de iarnă.",
+                "en": "Use the cloakroom for heavy winter coats."
+              }
+            },
+            {
+              "name": "Enipeas-Quellen",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stellen auf dem Parkplatz.",
+                "hu": "Ügyeljen a jeges foltokra a parkolóban.",
+                "ro": "Atenție la porțiunile înghețate din parcare.",
+                "en": "Watch out for icy patches in the parking area."
+              }
+            },
+            {
+              "name": "Höhle der Nymphen",
+              "tip_5lang": {
+                "de": "Im Inneren der Höhle ist die Temperatur stabil und milder.",
+                "hu": "A barlang belsejében a hőmérséklet stabil és enyhébb.",
+                "ro": "În interiorul peșterii temperatura este stabilă și mai blândă.",
+                "en": "Inside the cave, the temperature is stable and milder."
+              }
+            },
+            {
+              "name": "Akropolis des antiken Pharsalos",
+              "tip_5lang": {
+                "de": "Fantastische Fernsicht bei klarer, kalter Winterluft.",
+                "hu": "Fantasztikus kilátás a tiszta, hideg téli levegőben.",
+                "ro": "Vedere fantastică în aerul curat și rece de iarnă.",
+                "en": "Fantastic distant view in the clear, cold winter air."
+              }
+            },
+            {
+              "name": "Denkmal der Schlacht von Farsala",
+              "tip_5lang": {
+                "de": "Vorsicht vor Wildtieren, die in der Dämmerung die Straße kreuzen.",
+                "hu": "Vigyázzon a vadállatokra, amik szürkületben átszaladhatnak az úton.",
+                "ro": "Atenție la animalele sălbatice care pot traversa drumul la amurg.",
+                "en": "Watch out for wildlife crossing the road at dusk."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Frostschutz der Scheibenwaschanlage.",
+              "In höheren Lagen um Farsala kann überraschend Reif oder Eis auftreten.",
+              "Halten Sie eine Taschenlampe bereit, falls Sie die Nymphenhöhle spät besuchen.",
+              "Die Wintersonne steht tief; Sonnenblende oder Sonnenbrille nutzen."
+            ],
+            "hu": [
+              "Ellenőrizze a szélvédőmosó fagyállóságát.",
+              "Farsala környéki magasabb részeken váratlanul deresedés vagy jég jelenhet meg.",
+              "Legyen kéznél zseblámpa, ha későn látogatná a Nimfák barlangját.",
+              "A téli nap alacsonyan jár; használjon napellenzőt vagy napszemüveget."
+            ],
+            "ro": [
+              "Verificați lichidul de parbriz antigel.",
+              "În zonele mai înalte din jurul Farsala poate apărea brumă sau gheață neașteptat.",
+              "Aveți o lanternă la îndemână dacă vizitați peștera nimfelor târziu.",
+              "Soarele de iarnă este jos; folosiți parasolarul sau ochelarii de soare."
+            ],
+            "en": [
+              "Check the antifreeze in the windshield washer fluid.",
+              "In higher elevations around Farsala, frost or ice can appear unexpectedly.",
+              "Have a flashlight ready if you visit the nymphs' cave late.",
+              "The winter sun is low; use the sun visor or sunglasses."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -989,6 +1553,188 @@
           "Buy day tickets for the bus if available.",
           "The Acropolis cannot be reached by bus, expect a walk."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regnerischer Start im Zentrum, die Wartezeiten an den Haltestellen verbringt man am besten unter Vordächern. Achilles empfängt Sie nass am Morgen. Mittags ist die Kirche Agios Antonios ein warmer, trockener Halt. Zur Archäologischen Sammlung kommt man bequem per Bus. Nachmittags bei den Quellen ist mit Regenkleidung alles machbar, bevor die Akropolis im Dunst verschwindet.",
+            "hu": "Esős kezdés a központban, a megállókban a várakozást legjobb az előtetők alatt tölteni. Akhilleusz vizesen fogadja reggel. Délben az Agios Antonios templom meleg, száraz megálló. A Régészeti Gyűjteményhez kényelmesen juthatunk el busszal. Délután a forrásoknál esőruhában minden megoldható, mielőtt az akropolisz eltűnne a ködben.",
+            "ro": "Start ploios în centru, timpii de așteptare în stații sunt mai buni sub copertine. Ahile vă primește ud dimineața. La prânz, biserica Agios Antonios este o oprire caldă și uscată. La Colecția Arheologică se ajunge comod cu autobuzul. După-amiaza la izvoare, totul este realizabil cu haine de ploaie, înainte ca acropola să dispară în ceață.",
+            "en": "A rainy start in the center; wait for the bus under station shelters. Achilles greets you wet in the morning. At noon, Agios Antonios church is a warm, dry stop. You can reach the Archaeological Collection easily by bus. In the afternoon at the springs, everything is doable with rain gear before the acropolis disappears in the mist."
+          },
+          "stops": [
+            {
+              "name": "Traditionelles Stadtzentrum",
+              "tip_5lang": {
+                "de": "Nutzen Sie lokale Apps für Echtzeit-Busabfahrten.",
+                "hu": "Használjon helyi appokat a buszok valós idejű követéséhez.",
+                "ro": "Folosiți aplicații locale pentru plecările autobuzelor în timp real.",
+                "en": "Use local apps for real-time bus departures."
+              }
+            },
+            {
+              "name": "Statue des Achilles",
+              "tip_5lang": {
+                "de": "Die Haltestellen in der Nähe haben oft nur wenig Unterstand.",
+                "hu": "A közeli megállóknak gyakran kevés a fedett része.",
+                "ro": "Stațiile din apropiere au adesea adăpost limitat.",
+                "en": "Nearby stops often have limited shelter."
+              }
+            },
+            {
+              "name": "Kirche Agios Antonios",
+              "tip_5lang": {
+                "de": "Ein kurzer Fußweg von der Haltestelle, Schirm aufspannen.",
+                "hu": "Rövid séta a megállótól, nyissa ki az esernyőt.",
+                "ro": "Scurtă plimbare de la stație, deschideți umbrela.",
+                "en": "Short walk from the stop; open your umbrella."
+              }
+            },
+            {
+              "name": "Archäologische Sammlung",
+              "tip_5lang": {
+                "de": "Der Bus hält fast vor der Tür, kaum Regenbelastung.",
+                "hu": "A busz szinte az ajtó előtt áll meg, alig lesz vizes.",
+                "ro": "Autobuzul oprește aproape în față, expunere minimă la ploaie.",
+                "en": "The bus stops almost at the door; minimal rain exposure."
+              }
+            },
+            {
+              "name": "Enipeas-Quellen",
+              "tip_5lang": {
+                "de": "Planen Sie Pufferzeiten ein, Busse können bei Regen langsamer sein.",
+                "hu": "Tervezzen pufferidőt, a buszok esőben lassabbak lehetnek.",
+                "ro": "Planificați timp suplimentar, autobuzele pot fi mai lente pe ploaie.",
+                "en": "Plan buffer time; buses may be slower in the rain."
+              }
+            },
+            {
+              "name": "Akropolis des antiken Pharsalos",
+              "tip_5lang": {
+                "de": "Nach dem Ausstieg erwartet Sie ein nasser Aufstieg zu Fuß.",
+                "hu": "A leszállás után vizes gyalogos feljutás várja.",
+                "ro": "După coborâre vă așteaptă o urcare pe jos prin ploaie.",
+                "en": "After getting off, a wet climb on foot awaits you."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Halten Sie Kleingeld für Fahrkarten bereit, Automaten sind oft im Freien.",
+              "Busse verkehren in ländlicheren Regionen seltener, Fahrplan genau prüfen.",
+              "Tragen Sie wasserfeste Schuhe für die Wege zwischen Haltestelle und Ziel.",
+              "Im Bus kann es durch nasse Kleidung vieler Fahrgäste schwül werden."
+            ],
+            "hu": [
+              "Legyen kéznél aprópénz a jegyhez, az automaták gyakran a szabadban vannak.",
+              "A buszok ritkábban járnak a vidéki részeken, nézze meg alaposan a menetrendet.",
+              "Viseljen vízálló cipőt a megálló és a cél közötti szakaszokra.",
+              "A buszon a sok vizes ruhás utas miatt párás, fülledt lehet a levegő."
+            ],
+            "ro": [
+              "Aveți mărunt pentru bilete, automatele sunt adesea în aer liber.",
+              "Autobuzele circulă mai rar în zonele rurale, verificați bine orarul.",
+              "Purtați încălțăminte impermeabilă pentru drumul dintre stație și obiective.",
+              "În autobuz poate deveni zăpușeală din cauza multor pasageri cu haine ude."
+            ],
+            "en": [
+              "Have small change ready for tickets; machines are often outdoors.",
+              "Buses run less frequently in rural areas; check the schedule carefully.",
+              "Wear waterproof shoes for the walks between stops and destinations.",
+              "It can get humid on the bus due to many passengers with wet clothes."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frischer Wintermorgen im Zentrum, der Kaffee wärmt vor der ersten Busfahrt. Achilles wirkt im Morgenfrost imposant. Mittags sind die Museumsbesuche perfekt, um die Kälte draußen zu lassen. Nachmittags zu den Quellen und der Akropolis ist gute Planung wichtig, um den letzten Bus im Tageslicht zu erwischen. Abends kehrt man erschöpft aber zufrieden ins beleuchtete Farsala zurück.",
+            "hu": "Friss téli reggel a központban, a kávé felmelegít az első buszút előtt. Akhilleusz tekintélyt parancsoló a reggeli dérben. Délben a múzeumlátogatás tökéletes, hogy kint hagyjuk a hideget. Délután a forrásoknál és az akropolisznál fontos a jó tervezés, hogy elkapjuk az utolsó buszt még világosban. Este fáradtan, de elégedetten térünk vissza a kivilágított Farsalába.",
+            "ro": "Dimineață proaspătă de iarnă în centru, cafeaua vă încălzește înainte de prima cursă. Ahile pare impunător în bruma dimineții. La prânz, vizita la muzeu este perfectă pentru a lăsa frigul afară. După-amiaza, la izvoare și acropolă, planificarea e cheia pentru a prinde ultimul autobuz pe lumină. Seara ne întoarcem obosiți, dar mulțumiți în Farsala luminată.",
+            "en": "Crisp winter morning in the center; coffee warms you up before the first bus ride. Achilles looks imposing in the morning frost. At noon, museum visits are perfect for leaving the cold outside. In the afternoon at the springs and acropolis, careful planning is needed to catch the last bus in daylight. In the evening, return tired but satisfied to lit-up Farsala."
+          },
+          "stops": [
+            {
+              "name": "Traditionelles Stadtzentrum",
+              "tip_5lang": {
+                "de": "Warten Sie in einem Café nahe der Haltestelle auf den Bus.",
+                "hu": "Várja a buszt egy megállóhoz közeli kávézóban.",
+                "ro": "Așteptați autobuzul într-o cafenea din apropierea stației.",
+                "en": "Wait for the bus in a cafe near the stop."
+              }
+            },
+            {
+              "name": "Statue des Achilles",
+              "tip_5lang": {
+                "de": "Morgens kann es an der exponierten Haltestelle sehr kalt sein.",
+                "hu": "Reggel a nyitott megállóban nagyon hideg lehet.",
+                "ro": "Dimineața poate fi foarte frig în stația expusă.",
+                "en": "It can be very cold at the exposed stop in the morning."
+              }
+            },
+            {
+              "name": "Kirche Agios Antonios",
+              "tip_5lang": {
+                "de": "Besichtigung als Aufwärmpause nutzen.",
+                "hu": "Használja a látogatást bemelegítő pihenőnek.",
+                "ro": "Folosiți vizita ca o pauză de încălzire.",
+                "en": "Use the visit as a warm-up break."
+              }
+            },
+            {
+              "name": "Archäologische Sammlung",
+              "tip_5lang": {
+                "de": "Prüfen Sie Winteröffnungszeiten, diese können kürzer sein.",
+                "hu": "Ellenőrizze a téli nyitvatartást, rövidebb lehet.",
+                "ro": "Verificați programul de iarnă, poate fi mai scurt.",
+                "en": "Check winter opening hours; they might be shorter."
+              }
+            },
+            {
+              "name": "Enipeas-Quellen",
+              "tip_5lang": {
+                "de": "Fester Tritt nötig auf gefrorenen Wegen zur Haltestelle.",
+                "hu": "Biztos léptek kellenek a megállóhoz vezető fagyos úton.",
+                "ro": "Pași siguri necesari pe drumul înghețat spre stație.",
+                "en": "Steady footing is needed on frozen paths to the stop."
+              }
+            },
+            {
+              "name": "Akropolis des antiken Pharsalos",
+              "tip_5lang": {
+                "de": "Letzter Bus oft gegen 17:00 Uhr, planen Sie genau.",
+                "hu": "Az utolsó busz gyakran 17:00 körül megy, tervezzen pontosan.",
+                "ro": "Ultimul autobuz pleacă deseori în jur de 17:00, planificați bine.",
+                "en": "The last bus often leaves around 17:00; plan carefully."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterfahrpläne können von Sommerplänen abweichen.",
+              "Warten Sie an windgeschützten Stellen, der Wind in Thessalien ist im Winter schneidend.",
+              "Die Sonne geht früh unter, meiden Sie entlegene Haltestellen nach 17:30 Uhr.",
+              "Haben Sie die Telefonnummer eines lokalen Taxis für den Notfall dabei."
+            ],
+            "hu": [
+              "A téli menetrend eltérhet a nyáritól.",
+              "Várjon szélvédett helyeken, a thesszáliai szél télen metsző lehet.",
+              "A nap korán nyugszik, kerülje a távoli megállókat 17:30 után.",
+              "Legyen meg egy helyi taxi száma vészhelyzet esetére."
+            ],
+            "ro": [
+              "Orarele de iarnă pot diferi de cele de vară.",
+              "Așteptați în locuri ferite de vânt, vântul din Tesalia e tăios iarna.",
+              "Soarele apune devreme, evitați stațiile izolate după 17:30.",
+              "Aveți numărul unui taxi local pentru urgențe."
+            ],
+            "en": [
+              "Winter schedules may differ from summer ones.",
+              "Wait in sheltered spots; the Thessalian wind can be biting in winter.",
+              "The sun sets early; avoid remote stops after 17:30.",
+              "Keep a local taxi number handy for emergencies."
+            ]
+          }
+        }
       }
     }
   }

@@ -375,6 +375,214 @@
           "A light jacket is useful even in summer, as it can be windy by the sea.",
           "Be sure to try the local seafood specialities."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Vormittag beginnt unter den Arkaden am Almada-Platz, bevor wir in der Hauptkirche Schutz suchen. Den Mittag verbringen wir ausführlich im Ethnografischen Museum, um den heftigsten Schauern auszuweichen. Am Nachmittag bietet die Festung teilweise überdachte Gänge mit Blick auf den aufgepeitschten Atlantik. Den Tag beschließen wir im trockenen und warmen Casino oder bei einem kurzen Strandspaziergang.",
+            "hu": "A délelőttöt az Almada tér árkádjai alatt kezdjük, majd a plébániatemplom belső nyugalmában pihenünk. A délidőt a Néprajzi Múzeumban töltjük, amely tökéletes menedék a nagyobb esők idején. Délután a várfalak védelmében figyeljük a drámai atlanti hullámokat. A napot a kaszinó elegáns és száraz termeiben zárjuk, miközben kint az eső veri a parti sétányt.",
+            "ro": "Dimineața începe sub arcadele din Piața Almada, urmată de un refugiu în Biserica Santa Maria. Prânzul este dedicat Muzeului de Etnografie, locul ideal pentru a evita aversele prelungite. După-amiaza, explorăm fortăreața, unde zidurile oferă adăpost parțial și vederi spre oceanul agitat. Încheiem ziua în confortul cazinoului, ascultând ploaia care lovește faleza de pe plaja Póvoa.",
+            "en": "The morning starts under the arcades of Almada Square, followed by a dry visit to the Main Church. We spend mid-day at the Ethnographic Museum, providing a 100-minute escape from the rain. In the afternoon, the fortress walls offer partial shelter while viewing the dramatic Atlantic swells. We conclude the day in the warm Casino or with a brisk, rain-washed walk along the promenade."
+          },
+          "stops": [
+            {
+              "name": "Almada Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkadengänge der umliegenden Gebäude als Regenschutz.",
+                "hu": "Használja a környékbeli épületek árkádos folyosóit eső elleni védelemként.",
+                "ro": "Folosiți arcadele clădirilor din jur pentru a vă proteja de ploaie.",
+                "en": "Use the arched walkways of the surrounding buildings for rain protection."
+              }
+            },
+            {
+              "name": "Main Church of Santa Maria",
+              "tip_5lang": {
+                "de": "Bewundern Sie die vergoldeten Holzschnitzereien, während es draußen regnet.",
+                "hu": "Csodálja meg az aranyozott fafaragásokat, amíg odakint esik az eső.",
+                "ro": "Admirați sculpturile aurite în timp ce vă adăpostiți de ploaie în interior.",
+                "en": "Admire the gilded woodwork while taking refuge from the rain inside."
+              }
+            },
+            {
+              "name": "Municipal Museum of Ethnography",
+              "tip_5lang": {
+                "de": "Die umfangreiche Sammlung bietet über anderthalb Stunden Schutz im Trockenen.",
+                "hu": "A gazdag gyűjtemény több mint másfél órás száraz menedéket nyújt.",
+                "ro": "Colecția bogată oferă peste o oră și jumătate de adăpost în interior.",
+                "en": "The extensive collection provides over 90 minutes of dry shelter."
+              }
+            },
+            {
+              "name": "Fortress of Nossa Senhora da Conceição",
+              "tip_5lang": {
+                "de": "Die Kasematten und Bogengänge bieten Schutz vor dem Wind und Gischt.",
+                "hu": "A kazamaták és boltíves átjárók védenek a szél és a sós permet ellen.",
+                "ro": "Cazematele și arcadele oferă protecție împotriva vântului și a stropilor de mare.",
+                "en": "The casemates and archways provide shelter from the wind and sea spray."
+              }
+            },
+            {
+              "name": "Monument to the Fisherman",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp; die nasse Bronze glänzt bei Regen besonders schön.",
+                "hu": "Gyors fotómegálló; a nedves bronz különösen szépen csillog az esőben.",
+                "ro": "Oprire scurtă; bronzul umed strălucește frumos în lumina ploioasă.",
+                "en": "Quick photo stop; the wet bronze shines beautifully in the rain."
+              }
+            },
+            {
+              "name": "Casino da Póvoa",
+              "tip_5lang": {
+                "de": "Ein erstklassiger Ort für Unterhaltung in einem warmen, trockenen Ambiente.",
+                "hu": "Kiváló helyszín a szórakozásra meleg és száraz környezetben.",
+                "ro": "Un loc excelent pentru divertisment într-un ambient cald și uscat.",
+                "en": "A premier spot for entertainment in a warm, dry environment."
+              }
+            },
+            {
+              "name": "Póvoa Beach",
+              "tip_5lang": {
+                "de": "Genießen Sie die raue Schönheit des grauen Atlantiks vom Uferweg aus.",
+                "hu": "Élvezze a szürke Atlanti-óceán nyers szépségét a parti sétányról.",
+                "ro": "Bucurați-vă de frumusețea oceanului agitat de pe faleza protejată.",
+                "en": "Enjoy the raw beauty of the grey Atlantic from the protected promenade."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine windfeste Regenjacke, da Schirme bei Wind am Ozean oft wegknicken.",
+              "Das Vierteil (Bairro Sul) hat schmale Gassen, die etwas Windschutz bieten.",
+              "Cafés in der Nähe der Rua da Junqueira sind ideal für Pausen im Trockenen.",
+              "Achten Sie auf rutschige Fliesen auf dem Almada-Platz.",
+              "Die Metrostation ist überdacht und ein guter Startpunkt bei Regen."
+            ],
+            "hu": [
+              "Viseljen szélálló esőkabátot, mert az óceánparti szélben az esernyő gyakran tönkremegy.",
+              "A Bairro Sul negyed szűk utcái némi szélvédettséget biztosítanak.",
+              "A Rua da Junqueira környéki kávézók ideálisak egy száraz pihenőre.",
+              "Vigyázzon a csúszós csempékre az Almada téren.",
+              "A metróállomás fedett, így jó kiindulópont szakadó esőben is."
+            ],
+            "ro": [
+              "Purtați o pelerină rezistentă la vânt; umbrelele se pot rupe ușor lângă ocean.",
+              "Străzile înguste din Bairro Sul oferă o oarecare protecție împotriva rafalelor.",
+              "Cafenelele de lângă Rua da Junqueira sunt perfecte pentru o pauză uscată.",
+              "Atenție la pavajul alunecos din Piața Almada când este ud.",
+              "Stația de metrou este acoperită și reprezintă un punct de plecare bun pe ploaie."
+            ],
+            "en": [
+              "Wear a windproof raincoat; umbrellas often fail in the strong Atlantic gusts.",
+              "The narrow streets of the Bairro Sul district offer some shelter from the wind.",
+              "Cafes around Rua da Junqueira are ideal for staying dry during breaks.",
+              "Be careful with slippery tiles in Almada Square when wet.",
+              "The metro station is covered and serves as a good starting point during rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die frische Winterluft am Almada-Platz belebt den Geist am Morgen. Nach der Besichtigung der Granitfassaden der Hauptkirche wärmen wir uns im Ethnografischen Museum auf. Der Nachmittag an der Festung bietet ein klares Licht, das ideal für Fotos der Meeresbrandung ist. Da die Sonne gegen 17:30 Uhr untergeht, genießen wir die Dämmerung im Casino, bevor wir den Tag am windigen Winterstrand ausklingen lassen.",
+            "hu": "A friss téli levegő az Almada téren frissítően hat a reggeli órákban. A főtemplom gránithomlokzatának megtekintése után a Néprajzi Múzeum fűtött termeiben melegedünk fel. A délutáni fények a várnál kiválóak a morajló óceán fotózásához. Mivel a nap 17:30 körül nyugszik, az alkonyt már a kaszinóban töltjük, majd egy rövid sétát teszünk a szeles téli strandon.",
+            "ro": "Aerul proaspăt de iarnă din Piața Almada este revigorant dimineața. După vizitarea fațadei de granit a bisericii, ne încălzim în galeriile Muzeului de Etnografie. Lumina de după-amiază la fortăreață este perfectă pentru fotografii cu valurile oceanului. Soarele apune în jurul orei 17:30, așa că savurăm amurgul la cazinou înainte de o scurtă plimbare pe plaja vântoasă.",
+            "en": "The crisp winter air at Almada Square is invigorating in the morning. After admiring the granite church, we warm up in the heated galleries of the Ethnographic Museum. Afternoon light at the fortress is exceptional for capturing the winter surf. With sunset around 17:30, we enjoy the twilight at the Casino before a final brisk walk on the windy winter beach."
+          },
+          "stops": [
+            {
+              "name": "Almada Square",
+              "tip_5lang": {
+                "de": "Die Morgensonne beleuchtet die Rathausfassade im Winter besonders klar.",
+                "hu": "A reggeli téli napsütés különösen tisztán világítja meg a városháza homlokzatát.",
+                "ro": "Soarele de dimineață luminează fațada primăriei foarte clar iarna.",
+                "en": "The morning sun illuminates the town hall facade with great clarity in winter."
+              }
+            },
+            {
+              "name": "Main Church of Santa Maria",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort für innere Einkehr, abseits der winterlichen Winde.",
+                "hu": "Csendes hely az elcsendesedésre, távol a téli széltől.",
+                "ro": "Un loc liniștit pentru reflecție, departe de vânturile reci de iarnă.",
+                "en": "A peaceful spot for reflection, away from the chilly winter winds."
+              }
+            },
+            {
+              "name": "Municipal Museum of Ethnography",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Mittagszeit, um sich in den Ausstellungsräumen aufzuwärmen.",
+                "hu": "Használja ki a délidőt a kiállítótermekben való felmelegedésre.",
+                "ro": "Profită de timpul prânzului pentru a te încălzi în sălile muzeului.",
+                "en": "Take advantage of mid-day to warm up in the exhibition rooms."
+              }
+            },
+            {
+              "name": "Fortress of Nossa Senhora da Conceição",
+              "tip_5lang": {
+                "de": "Warme Kleidung ist hier wichtig, da der Wind vom Meer im Winter schneidend sein kann.",
+                "hu": "Fontos a réteges öltözködés, mert a tenger felőli szél télen metsző lehet.",
+                "ro": "Îmbrăcămintea groasă e vitală, vântul de pe mare fiind tăios iarna.",
+                "en": "Warm layers are essential as the sea wind can be biting in winter."
+              }
+            },
+            {
+              "name": "Monument to the Fisherman",
+              "tip_5lang": {
+                "de": "Das tiefe Sonnenlicht sorgt für dramatische Schattenwürfe am Denkmal.",
+                "hu": "Az alacsony napállás drámai árnyékokat vet az emlékműnél.",
+                "ro": "Lumina joasă a soarelui creează umbre dramatice la monument.",
+                "en": "Low winter sunlight creates dramatic shadows at the monument."
+              }
+            },
+            {
+              "name": "Casino da Póvoa",
+              "tip_5lang": {
+                "de": "Perfekt, um die frühen dunklen Abendstunden gemütlich zu verbringen.",
+                "hu": "Tökéletes helyszín a korán sötétedő téli esték kellemes eltöltésére.",
+                "ro": "Perfect pentru a petrece confortabil orele serii care vin mai devreme.",
+                "en": "Perfect for spending the early dark evening hours comfortably."
+              }
+            },
+            {
+              "name": "Póvoa Beach",
+              "tip_5lang": {
+                "de": "Die Wintersonnenuntergänge über dem Atlantik sind oft spektakulär.",
+                "hu": "Az Atlanti-óceán feletti téli naplementék gyakran látványosak.",
+                "ro": "Apusurile de iarnă peste Atlantic sunt adesea spectaculoase.",
+                "en": "Winter sunsets over the Atlantic are often spectacular."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Zwiebelprinzip bei der Kleidung: Der Wind kühlt stark ab, in Gebäuden ist es warm.",
+              "Die Sonne geht gegen 17:30 Uhr unter, planen Sie Außenaktivitäten davor.",
+              "Probieren Sie lokale Gebäckspezialitäten in den Konditoreien der Innenstadt.",
+              "Tage können sonnig, aber kühl sein; Sonnenschutz nicht vergessen.",
+              "Die Uferpromenade ist im Winter weniger belebt und ideal für ruhige Spaziergänge."
+            ],
+            "hu": [
+              "Öltözködjön rétegesen: a szél hűt, de az épületekben meleg van.",
+              "A nap 17:30 körül nyugszik, a kinti programokat addigra fejezze be.",
+              "Kóstolja meg a helyi süteményeket a belvárosi cukrászdákban.",
+              "A napos téli napokon is szükség lehet napszemüvegre az erős fény miatt.",
+              "A tengerparti sétány télen kevésbé zsúfolt, ideális a nyugodt sétákhoz."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi: vântul răcește tare, dar în clădiri e cald.",
+              "Soarele apune pe la 17:30, planificați activitățile externe înainte.",
+              "Gustați produsele locale de patiserie în cofetăriile din centru.",
+              "Zilele pot fi însorite, dar răcoroase; nu uitați de ochelarii de soare.",
+              "Faleza este mai liberă iarna, fiind ideală pentru plimbări liniștite."
+            ],
+            "en": [
+              "Dress in layers: the wind is chilling, but indoors it is warm.",
+              "Sunset is around 17:30, so plan outdoor activities accordingly.",
+              "Try local pastry specialties in the downtown bakeries.",
+              "Days can be sunny but cool; sunglasses are often needed due to low light.",
+              "The beach promenade is less crowded in winter, ideal for quiet walks."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -725,6 +933,196 @@
           "Be mindful of pedestrians on the promenade.",
           "Bring water and sunscreen."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen starten wir vorsichtig am Almada-Platz und fahren zur Kirche. Der Weg zur Festung erfordert auf nassem Pflaster Aufmerksamkeit. Den Mittag verbringen wir im geschützten Bereich der Promenade am Kasino. Die Küstenfahrt nach Norden bietet bei Regen eine raue, ursprüngliche Atmosphäre, wobei die Radwege gut ausgebaut, aber bei Nässe rutschig sein können.",
+            "hu": "Az eső ellenére óvatosan indulunk az Almada térről a templom felé. A várig tartó út a nedves kövön figyelmet igényel. A délidőt a kaszinó melletti sétány védettebb részein töltjük. Az északi parti kerékpározás esőben vadregényes hangulatot áraszt; a kerékpárutak jók, de a felfestések és a burkolat csúszós lehet.",
+            "ro": "În ciuda ploii, pornim cu grijă din Piața Almada spre biserică. Drumul către fortăreață necesită atenție sporită pe pavajul ud. Prânzul îl petrecem în zona protejată a falezei de lângă cazinou. Plimbarea spre nord oferă o atmosferă sălbatică pe ploaie; pistele sunt bune, dar pot deveni alunecoase la viraje.",
+            "en": "Despite the rain, we start carefully from Almada Square towards the church. The ride to the fortress requires focus on the wet tiles. We spend mid-day near the sheltered parts of the Casino promenade. The coastal ride north offers a rugged atmosphere in the rain; while bike paths are well-maintained, they can be slippery when wet."
+          },
+          "stops": [
+            {
+              "name": "Almada Square",
+              "tip_5lang": {
+                "de": "Vorsicht beim Anfahren; die glatten Steine sind bei Nässe rutschig.",
+                "hu": "Vigyázzon az indulásnál; a sima kövek nedvesen csúsznak.",
+                "ro": "Atenție la pornire; pietrele netede sunt alunecoase când sunt ude.",
+                "en": "Be careful when starting; the smooth stones are slippery when wet."
+              }
+            },
+            {
+              "name": "Main Church of Santa Maria",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter den Vordächern der nahen Cafés ab.",
+                "hu": "Parkolja le kerékpárját a közeli kávézók előtetői alatt.",
+                "ro": "Parcați bicicleta sub copertinele cafenelelor din apropiere.",
+                "en": "Park your bike under the awnings of nearby cafes."
+              }
+            },
+            {
+              "name": "Fortress of Nossa Senhora da Conceição",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Mauerdurchgänge für eine kurze, trockene Pause.",
+                "hu": "Használja a falak közötti átjárókat egy rövid, száraz pihenőre.",
+                "ro": "Folosiți trecerile prin ziduri pentru o scurtă pauză uscată.",
+                "en": "Use the wall passages for a brief, dry break."
+              }
+            },
+            {
+              "name": "Monument to the Fisherman",
+              "tip_5lang": {
+                "de": "Kurzer Stopp; achten Sie auf Windböen von der Seeseite.",
+                "hu": "Rövid megálló; figyeljen a tenger felől érkező széllökésekre.",
+                "ro": "Oprire scurtă; atenție la rafelele de vânt dinspre mare.",
+                "en": "Short stop; watch out for wind gusts from the sea side."
+              }
+            },
+            {
+              "name": "Casino da Póvoa and Beach Promenade",
+              "tip_5lang": {
+                "de": "Der Bereich bietet viele Möglichkeiten, kurzzeitig unterzustehen.",
+                "hu": "A környéken számos lehetőség van rövid idejű behúzódásra.",
+                "ro": "Zona oferă multe locuri unde vă puteți adăposti temporar.",
+                "en": "The area offers many spots to take temporary cover."
+              }
+            },
+            {
+              "name": "Coastal Bike Ride North",
+              "tip_5lang": {
+                "de": "Reduzieren Sie die Geschwindigkeit auf den Holzstegen bei Nässe.",
+                "hu": "Csökkentse a sebességet a fapallókon, ha nedvesek.",
+                "ro": "Reduceți viteza pe pasarelele de lemn dacă sunt ude.",
+                "en": "Reduce speed on the wooden boardwalks when wet."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vollständige Regenbekleidung und Schutzbleche sind dringend empfohlen.",
+              "Vermeiden Sie abrupte Bremsmanöver auf dem Kopfsteinpflaster der Altstadt.",
+              "Nutzen Sie die Radwege auf der Avenida dos Descobrimentos, sie sind sicherer bei Regen.",
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt, da Nässe die Bremswirkung verzögern kann.",
+              "Beleuchtung einschalten, da die Sicht bei Regen oft eingeschränkt ist."
+            ],
+            "hu": [
+              "Teljes esőruházat és sárvédő használata erősen ajánlott.",
+              "Kerülje a hirtelen fékezést az óváros macskaköves részein.",
+              "Használja az Avenida dos Descobrimentos kerékpárútjait, esőben biztonságosabbak.",
+              "Indulás előtt ellenőrizze a fékeket, a nedvesség miatt hosszabb lehet a fékút.",
+              "Kapcsolja be a világítást, mert esőben jelentősen romlanak a látási viszonyok."
+            ],
+            "ro": [
+              "Se recomandă echipament complet de ploaie și apărători de noroi.",
+              "Evitați frânările bruște pe pavajul din centrul vechi.",
+              "Folosiți pistele de pe Avenida dos Descobrimentos, sunt mai sigure pe ploaie.",
+              "Verificați frânele înainte de plecare, umezeala poate reduce eficiența lor.",
+              "Aprindeți luminile, deoarece vizibilitatea este redusă în timpul ploii."
+            ],
+            "en": [
+              "Full rain gear and mudguards are highly recommended.",
+              "Avoid sudden braking on the cobblestones in the old town.",
+              "Use the bike lanes on Avenida dos Descobrimentos for better safety in the rain.",
+              "Check your brakes before starting, as wetness can delay braking response.",
+              "Turn on your lights, as visibility is often reduced during rainfall."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens ist es auf dem Rad am Almada-Platz noch kühl, aber die klare Luft ist erfrischend. Die Fahrt zur Kirche und Festung zeigt Póvoa in einem ruhigen, winterlichen Licht. Mittags genießen wir die Sonne auf der Promenade. Die Radtour nach Norden führt durch die Dünenlandschaft, die im Winter besonders herb und weit wirkt, bevor uns die frühe Dämmerung zurück in die Stadt leitet.",
+            "hu": "Reggel még hűvös van a nyeregben az Almada téren, de a tiszta levegő frissítő. A templom és a vár felé tartó út Póvoa nyugodt, téli arcát mutatja. Délben a sétányon élvezzük a napsütést. Az északi túra a dűnék között télen különösen tágasnak és érintetlennek hat, mielőtt a korai szürkület visszavezetne a városba.",
+            "ro": "Dimineața e răcoare pe bicicletă în Piața Almada, dar aerul curat este revigorant. Drumul spre biserică și fortăreață dezvăluie o față liniștită a orașului. La prânz, profităm de soare pe faleză. Turul spre nord prin dunele de nisip pare vast și sălbatic iarna, înainte ca amurgul timpuriu să ne ghideze înapoi în oraș.",
+            "en": "It is cool on the bike at Almada Square in the morning, but the clear air is invigorating. The ride to the church and fortress shows Póvoa in a peaceful winter light. At mid-day, we soak up the sun on the promenade. The bike trip north through the dunes feels particularly vast in winter before the early twilight guides us back to town."
+          },
+          "stops": [
+            {
+              "name": "Almada Square",
+              "tip_5lang": {
+                "de": "Tragen Sie Handschuhe; der Fahrtwind ist morgens im Winter beißend.",
+                "hu": "Viseljen kesztyűt; a menetszél reggelente metsző lehet télen.",
+                "ro": "Purtați mănuși; vântul din timpul mersului este tăios dimineața.",
+                "en": "Wear gloves; the wind chill while riding is biting in the winter morning."
+              }
+            },
+            {
+              "name": "Main Church of Santa Maria",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Halt für ein warmes Getränk in der Nähe.",
+                "hu": "Használja ki a megállót egy meleg italra a közelben.",
+                "ro": "Folosiți oprirea pentru o băutură caldă în apropiere.",
+                "en": "Use the stop for a warm drink nearby."
+              }
+            },
+            {
+              "name": "Fortress of Nossa Senhora da Conceição",
+              "tip_5lang": {
+                "de": "Die Aussicht auf den winterlichen Ozean ist bei klarem Wetter weit.",
+                "hu": "Tiszta időben a kilátás a téli óceánra messzire ellátszik.",
+                "ro": "Vederea spre oceanul de iarnă este vastă în zilele senine.",
+                "en": "The view of the winter ocean is expansive during clear weather."
+              }
+            },
+            {
+              "name": "Monument to the Fisherman",
+              "tip_5lang": {
+                "de": "Die Wintersonne steht tief und blendet oft beim Fotografieren.",
+                "hu": "A téli nap alacsonyan jár, gyakran elvakít fotózás közben.",
+                "ro": "Soarele de iarnă este jos și poate fi orbitor la fotografiere.",
+                "en": "The winter sun is low and can be blinding when taking photos."
+              }
+            },
+            {
+              "name": "Casino da Póvoa and Beach Promenade",
+              "tip_5lang": {
+                "de": "Mittags ist es hier am wärmsten; ideal für eine längere Pause.",
+                "hu": "Délben itt a legmelegebb; ideális egy hosszabb pihenőre.",
+                "ro": "La prânz e cel mai cald aici; ideal pentru o pauză lungă.",
+                "en": "It is warmest here at mid-day; ideal for a longer break."
+              }
+            },
+            {
+              "name": "Coastal Bike Ride North",
+              "tip_5lang": {
+                "de": "Kehren Sie vor Sonnenuntergang um, da es schnell abkühlt.",
+                "hu": "Forduljon vissza naplemente előtt, mert hirtelen lehűl az idő.",
+                "ro": "Întoarceți-vă înainte de apus, deoarece temperatura scade rapid.",
+                "en": "Turn back before sunset, as temperatures drop quickly."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Funktionsunterwäsche und winddichte Kleidung.",
+              "Die Sonne geht früh unter (ca. 17:30); sorgen Sie für gute Beleuchtung.",
+              "Vermeiden Sie schattige Abschnitte am späten Nachmittag wegen der Kälte.",
+              "Die Meeresbrise ist im Winter stärker; planen Sie mehr Zeit für Gegenwind ein.",
+              "Sonnenschutz ist auch im Winter bei langen Fahrten an der Küste ratsam."
+            ],
+            "hu": [
+              "Viseljen technikai aláöltözetet és szélálló ruházatot.",
+              "A nap korán nyugszik (17:30 körül); gondoskodjon jó világításról.",
+              "Késő délután kerülje az árnyékos szakaszokat a hideg miatt.",
+              "A tengeri szellő télen erősebb; számoljon több idővel az ellenszélre.",
+              "Hosszabb parti túráknál télen is ajánlott a fényvédő használata."
+            ],
+            "ro": [
+              "Purtați lenjerie termică și haine rezistente la vânt.",
+              "Soarele apune devreme (aprox. 17:30); asigurați-vă că aveți lumini bune.",
+              "Evitați porțiunile umbrite după-amiaza târziu din cauza frigului.",
+              "Briza mării este mai puternică iarna; alocați mai mult timp pentru vânt din față.",
+              "Protecția solară este recomandată și iarna pentru ture lungi pe coastă."
+            ],
+            "en": [
+              "Wear thermal base layers and windproof clothing.",
+              "Sunset is early (around 17:30); ensure your bike has good lights.",
+              "Avoid shaded sections in the late afternoon due to the cold.",
+              "Sea breezes are stronger in winter; allow more time for riding against the wind.",
+              "Sunscreen is advisable even in winter for long coastal rides."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -732,7 +1130,7 @@
       "speed_kmh": 28,
       "start": "09:00",
       "end_estimate": "17:17",
-      "total_km": 4.2,
+      "total_km": 11.2,
       "stop_count": 7,
       "stops": [
         {
@@ -1101,6 +1499,214 @@
           "Be aware of one-way streets in the old town.",
           "Plan to pay for parking, most central areas are metered."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden wir Póvoa bequem trotz Regen. Wir starten am Almada-Platz und besichtigen die Kirche, wobei Parkplätze in der Nähe kurzen Fußweg garantieren. Den Mittag verbringen wir trocken im Ethnografischen Museum. Nachmittags fahren wir zur Festung und genießen den Blick auf die Wellen direkt vom Wagen aus, bevor wir am Strand den Tag gemütlich ausklingen lassen.",
+            "hu": "Autóval kényelmesen felfedezzük Póvoát az eső ellenére is. Az Almada térről indulunk, a templom közeli parkolói rövid sétát tesznek lehetővé. A délidőt a Néprajzi Múzeum száraz termeiben töltjük. Délután a várhoz hajtunk, és akár az autóból is figyelhetjük a hullámokat, mielőtt a parton befejeznénk a napot.",
+            "ro": "Explorăm Póvoa confortabil cu mașina, în ciuda ploii. Pornim din Piața Almada și vizităm biserica, parcările din apropiere asigurând un drum scurt pe jos. Prânzul îl petrecem la Muzeul de Etnografie. După-amiaza mergem la fortăreață, admirând valurile din mașină, apoi încheiem ziua relaxați lângă plajă.",
+            "en": "We explore Póvoa comfortably by car despite the rain. Starting at Almada Square, nearby parking ensures only short walks to the church. We spend mid-day staying dry inside the Ethnographic Museum. In the afternoon, we drive to the fortress and can watch the waves from the comfort of the car before ending the day near the beach."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Historic Center",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus in der Nähe des Almada-Platzes.",
+                "hu": "Használja az Almada tér közelében található parkolóházat.",
+                "ro": "Folosiți parcarea subterană de lângă Piața Almada.",
+                "en": "Use the parking garage near Almada Square."
+              }
+            },
+            {
+              "name": "Almada Square",
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Platz für minimalen Aufenthalt im Regen.",
+                "hu": "Parkoljon közvetlenül a téren, hogy minél kevesebbet legyen az esőben.",
+                "ro": "Parcați chiar în piață pentru un drum minim prin ploaie.",
+                "en": "Park directly at the square for minimal time spent in the rain."
+              }
+            },
+            {
+              "name": "Main Church of Santa Maria",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Parkplatz; halten Sie den Schirm bereit.",
+                "hu": "Rövid séta a parkolótól; tartsa készenlétben az esernyőt.",
+                "ro": "Drum scurt pe jos de la parcare; țineți umbrela la îndemână.",
+                "en": "Short walk from the parking area; keep your umbrella ready."
+              }
+            },
+            {
+              "name": "Municipal Museum of Ethnography",
+              "tip_5lang": {
+                "de": "Ideales Ziel bei starkem Regen; Parkplätze in den Seitenstraßen suchen.",
+                "hu": "Ideális célpont szakadó esőben; keressen parkolót az oldalsó utcákban.",
+                "ro": "Destinație ideală pe ploaie torențială; căutați locuri în străzile laterale.",
+                "en": "Ideal destination during heavy rain; look for parking in the side streets."
+              }
+            },
+            {
+              "name": "Cluster 2: Coast & Fortress",
+              "tip_5lang": {
+                "de": "Parkmöglichkeiten direkt an der Uferstraße verfügbar.",
+                "hu": "Parkolási lehetőség közvetlenül a parti út mentén.",
+                "ro": "Locuri de parcare disponibile chiar pe strada de pe faleză.",
+                "en": "Parking options available directly along the coastal road."
+              }
+            },
+            {
+              "name": "Fortress of Nossa Senhora da Conceição",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den Ozean trocken aus dem Fahrzeug.",
+                "hu": "Élvezze az óceánra nyíló kilátást szárazon, az autóból.",
+                "ro": "Bucurați-vă de vederea spre ocean fără a ieși din mașină.",
+                "en": "Enjoy the ocean view while staying dry inside the vehicle."
+              }
+            },
+            {
+              "name": "Póvoa Beach",
+              "tip_5lang": {
+                "de": "Parken Sie mit Sicht auf das Meer, um die Brandung zu beobachten.",
+                "hu": "Parkoljon tengerre néző helyen, hogy megfigyelhesse a hullámtörést.",
+                "ro": "Parcați cu fața spre mare pentru a observa valurile.",
+                "en": "Park with a sea view to watch the crashing surf."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie die Wischerblätter vorab; Gischt und Regen können die Sicht einschränken.",
+              "Meiden Sie bei Sturmflut Parkplätze direkt an der Kaimauer.",
+              "Nutzen Sie die Tiefgaragen in der Innenstadt für maximalen Komfort.",
+              "Achten Sie auf Fußgänger mit Schirmen, die Sie eventuell schlechter sehen.",
+              "Halten Sie ein Tuch bereit, um beschlagene Scheiben schnell zu reinigen."
+            ],
+            "hu": [
+              "Ellenőrizze az ablaktörlőket; a sós permet és az eső ronthatja a látást.",
+              "Viharos dagály esetén kerülje a közvetlenül a mólónál lévő parkolókat.",
+              "A kényelem érdekében használja a belvárosi mélygarázsokat.",
+              "Figyeljen az esernyős gyalogosokra, akik nehezebben láthatják Önt.",
+              "Tartson kéznél törlőkendőt a bepárásodott szélvédő tisztítására."
+            ],
+            "ro": [
+              "Verificați ștergătoarele; stropii de sare și ploaia pot reduce vizibilitatea.",
+              "Evitați parcările de pe dig în timpul mareelor furtunoase.",
+              "Folosiți parcările subterane din centru pentru confort maxim.",
+              "Fiți atenți la pietonii cu umbrele, care pot avea vizibilitate redusă.",
+              "Aveți la îndemână o cârpă pentru a șterge rapid geamurile aburite."
+            ],
+            "en": [
+              "Check wiper blades beforehand; sea spray and rain can reduce visibility.",
+              "Avoid parking spots directly on the pier during storm surges.",
+              "Use underground parking in the city center for maximum convenience.",
+              "Watch out for pedestrians with umbrellas who may have limited visibility.",
+              "Keep a cloth handy to quickly clear fogged-up windows."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter bietet das Auto eine warme Basis für unsere Tour durch Póvoa. Wir besuchen den Almada-Platz und die Kirche am Vormittag. Das Ethnografische Museum wärmt uns zur Mittagszeit auf. Die Fahrt entlang der Küste zur Festung zeigt den rauen winterlichen Atlantik, während wir im beheizten Wagen bleiben können. Den Sonnenuntergang erleben wir am Strand, bevor es am frühen Abend kühl wird.",
+            "hu": "Télen az autó meleg bázist nyújt a Póvoa-i túránkhoz. Délelőtt meglátogatjuk az Almada teret és a templomot. A Néprajzi Múzeum felfűtött tereiben melegszünk meg délidőben. A parti út a vár felé a nyers téli Atlanti-óceánt mutatja, miközben mi a fűtött kocsiban maradhatunk. A naplementét a strandon várjuk meg, mielőtt este lehűlne az idő.",
+            "ro": "Iarna, mașina oferă o bază caldă pentru turul nostru în Póvoa. Vizităm Piața Almada și biserica dimineața. Muzeul de Etnografie ne încălzește la prânz. Drumul pe coastă spre fortăreață dezvăluie Atlanticul sălbatic de iarnă, în timp ce noi stăm în mașina încălzită. Vedem apusul pe plajă înainte de răceala serii.",
+            "en": "In winter, the car provides a warm base for our tour of Póvoa. We visit Almada Square and the church in the morning. The Ethnographic Museum warms us up at mid-day. The coastal drive to the fortress reveals the raw winter Atlantic while we stay in the heated vehicle. We watch the sunset at the beach before the evening chill sets in."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Historic Center",
+              "tip_5lang": {
+                "de": "Zentrale Parkplätze sind im Winter meist leicht zu finden.",
+                "hu": "Télen általában könnyű központi parkolót találni.",
+                "ro": "Parcările centrale sunt de obicei ușor de găsit iarna.",
+                "en": "Central parking spots are usually easy to find in winter."
+              }
+            },
+            {
+              "name": "Almada Square",
+              "tip_5lang": {
+                "de": "Genießen Sie die Architektur bequem aus dem warmen Auto.",
+                "hu": "Csodálja meg az építészetet kényelmesen, a meleg autóból.",
+                "ro": "Admirați arhitectura confortabil, din mașina încălzită.",
+                "en": "Enjoy the architecture comfortably from the warm car."
+              }
+            },
+            {
+              "name": "Main Church of Santa Maria",
+              "tip_5lang": {
+                "de": "Suchen Sie einen Parkplatz direkt vor dem Haupteingang.",
+                "hu": "Keressen parkolóhelyet közvetlenül a főbejárat előtt.",
+                "ro": "Căutați un loc de parcare chiar în fața intrării principale.",
+                "en": "Look for a parking spot right in front of the main entrance."
+              }
+            },
+            {
+              "name": "Municipal Museum of Ethnography",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um der winterlichen Kälte für 90 Minuten zu entfliehen.",
+                "hu": "Ideális hely, hogy 90 percre elmeneküljön a téli hideg elől.",
+                "ro": "Un loc ideal pentru a scăpa de frigul iernii timp de 90 de minute.",
+                "en": "An ideal place to escape the winter cold for 90 minutes."
+              }
+            },
+            {
+              "name": "Cluster 2: Coast & Fortress",
+              "tip_5lang": {
+                "de": "Die Küstenstraße bietet viele Haltebuchten für Fotos.",
+                "hu": "A parti út mentén számos öböl van fotózáshoz.",
+                "ro": "Șoseaua de pe coastă are multe locuri de oprire pentru poze.",
+                "en": "The coastal road offers many lay-bys for photography."
+              }
+            },
+            {
+              "name": "Fortress of Nossa Senhora da Conceição",
+              "tip_5lang": {
+                "de": "Parken Sie windgeschützt hinter den Festungsmauern.",
+                "hu": "Parkoljon szélvédett helyen a várfalak mögött.",
+                "ro": "Parcați ferit de vânt în spatele zidurilor fortăreței.",
+                "en": "Park in a wind-sheltered spot behind the fortress walls."
+              }
+            },
+            {
+              "name": "Póvoa Beach",
+              "tip_5lang": {
+                "de": "Die frühen Wintersonnenuntergänge sind vom Auto aus gemütlich zu sehen.",
+                "hu": "A korai téli naplementék az autóból is kényelmesen nézhetőek.",
+                "ro": "Apusurile timpurii de iarnă pot fi văzute confortabil din mașină.",
+                "en": "Early winter sunsets can be comfortably viewed from the car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Sitzheizung, wenn verfügbar; die Seeluft ist sehr feucht.",
+              "Die Tage sind kurz; beenden Sie ländliche Fahrten vor 18 Uhr.",
+              "Achten Sie auf starke Seitenwinde auf der Küstenstraße.",
+              "Parkplätze am Strand sind im Winter reichlich vorhanden und oft kostenlos.",
+              "Batterie checken; Kälte und kurze Strecken belasten das Fahrzeug im Winter."
+            ],
+            "hu": [
+              "Használja az ülésfűtést, ha van; a tengeri levegő nagyon nyirkos.",
+              "Rövidek a nappalok; a városon kívüli vezetést fejezze be 18 óráig.",
+              "Figyeljen az erős oldalszélre a parti úton.",
+              "A tengerparti parkolók télen bőségesek és gyakran ingyenesek.",
+              "Ellenőrizze az akkumulátort; a hideg és a rövid utak megterhelik az autót."
+            ],
+            "ro": [
+              "Folosiți încălzirea în scaune dacă aveți; aerul marin este foarte umed.",
+              "Zilele sunt scurte; finalizați condusul extraurban înainte de ora 18.",
+              "Atenție la vântul lateral puternic pe șoseaua de coastă.",
+              "Parcările de pe plajă sunt numeroase iarna și adesea gratuite.",
+              "Verificați bateria; frigul și traseele scurte solicită vehiculul iarna."
+            ],
+            "en": [
+              "Use seat heating if available; the sea air is very damp.",
+              "Days are short; finish any rural driving before 6 PM.",
+              "Watch out for strong crosswinds on the coastal road.",
+              "Beach parking is plentiful in winter and often free of charge.",
+              "Check the battery; cold weather and short trips put stress on the car."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1453,6 +2059,196 @@
           "Check bus schedules in advance, especially on weekends.",
           "Some buses may not accept large bills, so have small change ready."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir erreichen Póvoa mit der Metro im Trockenen. Vom Bahnhof ist es ein kurzer, regnerischer Weg zum Almada-Platz. Die Kirche und das Museum bieten mittags exzellenten Schutz. Mit dem lokalen Bus gelangen wir zur Festung, ohne lange im Regen zu stehen. Den Nachmittag verbringen wir im Kasino, bevor wir mit der Metro durch die verregnete Landschaft zurückfahren.",
+            "hu": "Metróval érkezünk Póvoába, szárazon. Az állomástól rövid, esős út vezet az Almada térre. A templom és a múzeum délidőben kiváló menedéket nyújt. Helyi busszal jutunk el a várhoz, így elkerüljük a hosszas ázást. A délutánt a kaszinóban töltjük, majd metróval utazunk vissza az esős tájon keresztül.",
+            "ro": "Ajungem în Póvoa cu metroul, la adăpost. De la gară e un drum scurt prin ploaie până în Piața Almada. Biserica și muzeul oferă refugiu excelent la prânz. Cu autobuzul local ajungem la fortăreață fără a sta mult în ploaie. Petrecem după-amiaza la cazinou, apoi ne întoarcem cu metroul prin peisajul ploios.",
+            "en": "We arrive in Póvoa by metro, staying dry during the journey. From the station, it's a short, rainy walk to Almada Square. The church and museum provide excellent mid-day shelter. We take a local bus to the fortress to avoid standing in the rain. The afternoon is spent at the Casino before returning via metro through the rainy landscape."
+          },
+          "stops": [
+            {
+              "name": "Arrival: Póvoa de Varzim Station",
+              "tip_5lang": {
+                "de": "Der Bahnhof ist überdacht; ideal zum Vorbereiten des Schirms.",
+                "hu": "Az állomás fedett; ideális hely az esernyő előkészítésére.",
+                "ro": "Stația este acoperită; loc ideal pentru a pregăti umbrela.",
+                "en": "The station is covered; ideal for getting your umbrella ready."
+              }
+            },
+            {
+              "name": "Almada Square",
+              "tip_5lang": {
+                "de": "Warten Sie in den Arkaden auf den nächsten lokalen Bus.",
+                "hu": "Várja meg a következő helyi buszt az árkádok alatt.",
+                "ro": "Așteptați următorul autobuz local sub arcade.",
+                "en": "Wait for the next local bus under the arcades."
+              }
+            },
+            {
+              "name": "Main Church and Museum",
+              "tip_5lang": {
+                "de": "Beide Orte liegen nah beieinander, was den Aufenthalt im Freien minimiert.",
+                "hu": "Mindkét hely közel van egymáshoz, így minimális az esőben töltött idő.",
+                "ro": "Ambele locuri sunt aproape, minimizând timpul petrecut afară.",
+                "en": "Both sites are close together, minimizing time spent outdoors."
+              }
+            },
+            {
+              "name": "Bus to the Fortress",
+              "tip_5lang": {
+                "de": "Nutzen Sie die App, um die Wartezeit an der Haltestelle zu verkürzen.",
+                "hu": "Használja az alkalmazást, hogy lerövidítse a várakozást a megállóban.",
+                "ro": "Folosiți aplicația pentru a reduce timpul de așteptare în stație.",
+                "en": "Use the transit app to minimize waiting time at the bus stop."
+              }
+            },
+            {
+              "name": "Casino da Póvoa",
+              "tip_5lang": {
+                "de": "Nur wenige Schritte von der Bushaltestelle entfernt.",
+                "hu": "Csak néhány lépésre található a buszmegállótól.",
+                "ro": "La doar câțiva pași de stația de autobuz.",
+                "en": "Only a few steps away from the bus stop."
+              }
+            },
+            {
+              "name": "Póvoa Beach",
+              "tip_5lang": {
+                "de": "Bei starkem Regen ist die Sicht von der Uferpromenade begrenzt.",
+                "hu": "Szakadó esőben a kilátás korlátozott a parti sétányról.",
+                "ro": "Pe ploaie torențială, vizibilitatea de pe faleză este limitată.",
+                "en": "During heavy rain, visibility from the promenade is limited."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Metro Linie B (Rot) fährt alle 30 Minuten nach Porto.",
+              "Kaufen Sie die Andante-Karte bereits am Startbahnhof.",
+              "Lokale Busse (Lousado) ergänzen die Wege in der Stadt bei Regen gut.",
+              "Halten Sie die Fahrpläne digital bereit, um Wartezeiten im Freien zu vermeiden.",
+              "Bahnhofsnähe bietet viele kleine Cafés zum Aufwärmen."
+            ],
+            "hu": [
+              "A B (piros) metróvonal 30 percenként közlekedik Porto felé.",
+              "Vásárolja meg az Andante kártyát már a kiindulási állomáson.",
+              "A helyi buszok (Lousado) jól kiegészítik a városi közlekedést esőben.",
+              "Legyenek meg digitálisan a menetrendek, hogy elkerülje a kinti várakozást.",
+              "Az állomás környékén számos kis kávézó található a felmelegedéshez."
+            ],
+            "ro": [
+              "Linia de metrou B (Roșie) circulă la fiecare 30 de minute spre Porto.",
+              "Cumpărați cardul Andante direct de la stația de plecare.",
+              "Autobuzele locale (Lousado) sunt utile pentru a evita ploaia în oraș.",
+              "Aveți orarele salvate digital pentru a evita așteptarea în stații.",
+              "Zona gării oferă multe cafenele mici pentru a vă încălzi."
+            ],
+            "en": [
+              "Metro Line B (Red) runs every 30 minutes to Porto.",
+              "Purchase your Andante card at your starting station.",
+              "Local buses (Lousado) are a great way to get around town in the rain.",
+              "Keep digital schedules handy to avoid waiting at stops in the rain.",
+              "The area near the station has many small cafes for warming up."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Mit der Metro kommen wir bequem im winterlichen Póvoa an. Ein kurzer Spaziergang führt uns zum Almada-Platz und zur Kirche. Mittags nutzen wir den Besuch im Museum, um uns aufzuwärmen. Der lokale Bus bringt uns zur Festung, wo wir das klare Winterlicht am Meer genießen. Den frühen Abend verbringen wir im Kasino, bevor wir rechtzeitig zur Metro zurückkehren.",
+            "hu": "Metróval kényelmesen érkezünk a téli Póvoába. Rövid séta vezet az Almada térre és a templomhoz. Délben a múzeumlátogatást használjuk fel a melegedésre. Helyi busszal megyünk a várhoz, ahol élvezzük a tiszta téli fényeket a tengernél. A korai estét a kaszinóban töltjük, majd időben visszatérünk a metróhoz.",
+            "ro": "Ajungem confortabil cu metroul în Póvoa de iarnă. O scurtă plimbare ne duce în Piața Almada și la biserică. La prânz, profităm de muzeu pentru a ne încălzi. Autobuzul local ne duce la fortăreață, unde admirăm lumina clară de iarnă. Seara devreme o petrecem la cazinou înainte de a ne întoarce la metrou.",
+            "en": "We arrive comfortably by metro in wintery Póvoa. A short walk leads us to Almada Square and the church. At mid-day, we use the museum visit to warm up. The local bus takes us to the fortress, where we enjoy the clear winter light by the sea. We spend the early evening at the Casino before returning to the metro station."
+          },
+          "stops": [
+            {
+              "name": "Arrival: Póvoa de Varzim Station",
+              "tip_5lang": {
+                "de": "Im Winter ist der windgeschützte Wartebereich am Bahnhof sehr angenehm.",
+                "hu": "Télen a szélvédett várakozóhely az állomáson nagyon kellemes.",
+                "ro": "Iarna, zona de așteptare ferită de vânt din gară este foarte plăcută.",
+                "en": "In winter, the wind-sheltered waiting area at the station is very welcome."
+              }
+            },
+            {
+              "name": "Almada Square",
+              "tip_5lang": {
+                "de": "Die Wintersonne steht morgens tief über den Gebäuden.",
+                "hu": "A téli nap reggelente alacsonyan áll az épületek felett.",
+                "ro": "Soarele de iarnă este jos peste clădiri dimineața.",
+                "en": "The winter sun hangs low over the buildings in the morning."
+              }
+            },
+            {
+              "name": "Main Church and Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Weg zwischen den Stopps für zügiges Gehen zum Aufwärmen.",
+                "hu": "Használja a megállók közötti utat tempós sétára a bemelegítéshez.",
+                "ro": "Folosiți drumul dintre opriri pentru un mers alert care să vă încălzească.",
+                "en": "Use the walk between stops for brisk walking to stay warm."
+              }
+            },
+            {
+              "name": "Bus to the Fortress",
+              "tip_5lang": {
+                "de": "Busse sind im Winter gut beheizt; eine willkommene Pause.",
+                "hu": "A buszok télen jól fűtöttek; kellemes pihenő utazás közben.",
+                "ro": "Autobuzele sunt bine încălzite iarna; o pauză binevenită.",
+                "en": "Buses are well-heated in winter; a welcome break while traveling."
+              }
+            },
+            {
+              "name": "Casino da Póvoa",
+              "tip_5lang": {
+                "de": "Idealer Ort, um die Dämmerung im Warmen zu erleben.",
+                "hu": "Ideális hely az alkonyat átélésére meleg környezetben.",
+                "ro": "Loc ideal pentru a vedea amurgul din interiorul călduros.",
+                "en": "Ideal place to experience twilight in a warm setting."
+              }
+            },
+            {
+              "name": "Póvoa Beach",
+              "tip_5lang": {
+                "de": "Die kalte Meeresluft ist erfrischend, erfordert aber gute Kleidung.",
+                "hu": "A hideg tengeri levegő frissítő, de jó ruházatot igényel.",
+                "ro": "Aerul rece al mării este revigorant, dar necesită haine groase.",
+                "en": "The cold sea air is refreshing but requires proper clothing."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Metro verkehrt zuverlässig auch bei winterlichem Wetter.",
+              "Abends wird es in der Metro kühler; Jacke anbehalten.",
+              "Nutzen Sie die App 'Metro do Porto' für Echtzeit-Informationen.",
+              "Winterfahrpläne können an Feiertagen abweichen; vorab prüfen.",
+              "Ein heißer Kaffee am Bahnhof ist der perfekte Start in den Tag."
+            ],
+            "hu": [
+              "A metró téli időjárás esetén is megbízhatóan közlekedik.",
+              "Este a metrókocsikban is hűvösebb lehet; tartsa magán a kabátot.",
+              "Használja a 'Metro do Porto' alkalmazást a valós idejű információkért.",
+              "A téli menetrend ünnepek alatt változhat; ellenőrizze előre.",
+              "Egy forró kávé az állomáson tökéletes kezdete a napnak."
+            ],
+            "ro": [
+              "Metroul circulă constant chiar și pe vreme de iarnă.",
+              "Seara poate fi mai răcoare în metrou; păstrați haina pe dvs.",
+              "Folosiți aplicația 'Metro do Porto' pentru informații în timp real.",
+              "Orarele de iarnă pot varia de sărbători; verificați în avans.",
+              "O cafea fierbinte la gară este începutul perfect pentru zi."
+            ],
+            "en": [
+              "The metro remains reliable even in winter weather.",
+              "It can get cooler on the metro in the evening; keep your jacket on.",
+              "Use the 'Metro do Porto' app for real-time arrival information.",
+              "Winter schedules may vary during holidays; check in advance.",
+              "A hot coffee at the station is the perfect start to the day."
+            ]
+          }
+        }
       }
     }
   }

@@ -308,6 +308,206 @@
           "Always carry some cash for small purchases and restrooms.",
           "Download an offline map to help navigate the winding alleys of the bazaar."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag in Sultanahmet, wo die Blauen Moschee und die Hagia Sophia auch bei Regen Schutz bieten. Die Basilika-Zisterne unter der Erde ist der perfekte Ort, um trocken zu bleiben und die mystische Atmosphäre zu genießen. Der Nachmittag gehört den überdachten Basaren, wo man stundenlang zwischen den Ständen bummeln kann. Den Abschluss bildet die Süleymaniye-Moschee, die majestätisch über der Stadt thront.",
+            "hu": "Kezdje a napot a Sultanahmet téren, ahol a Kék Mecset és az Ayasofya fedett terei menedéket nyújtanak. A Bazilika Ciszterna a föld alatt a legjobb választás esőben, misztikus fényei ilyenkor még hatásosabbak. A délutánt töltse a Fedett Bazár és a Fűszerbazár boltívei alatt, ahol teljesen szárazon maradhat. Az estét a Süleymaniye-mecset csendes békéjében zárhatja.",
+            "ro": "Începeți ziua în Sultanahmet, unde Moscheea Albastră și Sfânta Sofia oferă adăpost generos. Basilica Cisternă este refugiul ideal sub pământ, fiind ferită de intemperii. Petreceți după-amiaza în Marele Bazar și Bazarul Egiptean, ambele fiind complet acoperite și pline de viață. Seara se încheie la Moscheea Süleymaniye, admirând orașul printre picăturile de ploaie.",
+            "en": "Start the day in Sultanahmet, where the Blue Mosque and Hagia Sophia provide grand indoor shelter. The Basilica Cistern is the perfect underground escape from the rain, offering a mystical atmosphere. Spend the afternoon wandering through the completely covered Grand and Spice Bazaars. End your walk at the Süleymaniye Mosque, watching the rainy skyline of Istanbul."
+          },
+          "stops": [
+            {
+              "name": "Blue Mosque",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem nassen Marmor im Innenhof, er wird extrem rutschig.",
+                "hu": "Vigyázat, a belső udvar márványkövei vizesen rendkívül csúszósak.",
+                "ro": "Atenție la marmura umedă din curte, devine extrem de alunecoasă.",
+                "en": "Be careful on the wet marble in the courtyard; it becomes very slippery."
+              }
+            },
+            {
+              "name": "Hagia Sophia",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit drinnen, um die Mosaike ohne Eile zu bewundern.",
+                "hu": "Használja ki a benti időt a mozaikok nyugodt megcsodálására.",
+                "ro": "Profitați de timpul petrecut în interior pentru a admira mozaicurile.",
+                "en": "Take advantage of the indoor time to admire the mosaics without haste."
+              }
+            },
+            {
+              "name": "Basilica Cistern",
+              "tip_5lang": {
+                "de": "Der trockenste Ort der Stadt, aber die Luftfeuchtigkeit ist hier hoch.",
+                "hu": "A város legszárazabb pontja esőben, de a páratartalom magas.",
+                "ro": "Cel mai uscat loc din oraș, deși umiditatea interioară este ridicată.",
+                "en": "The driest spot in the city, though internal humidity is high."
+              }
+            },
+            {
+              "name": "Topkapı Palace",
+              "tip_5lang": {
+                "de": "Besuchen Sie zuerst den Harem und die Schatzkammer, um trocken zu bleiben.",
+                "hu": "Látogassa meg először a Háremet és a kincstárat, hogy fedél alatt maradjon.",
+                "ro": "Vizitați mai întâi Haremul și tezaurul pentru a rămâne la adăpost.",
+                "en": "Visit the Harem and the treasury first to stay under cover."
+              }
+            },
+            {
+              "name": "Grand Bazaar",
+              "tip_5lang": {
+                "de": "Ein riesiges Labyrinth aus 60 Gassen, ideal für regnerische Stunden.",
+                "hu": "60 utca hatalmas útvesztője, ideális a reggeli eső elől menekülve.",
+                "ro": "Un labirint uriaș de 60 de străzi, ideal pentru orele ploioase.",
+                "en": "A massive labyrinth of 60 streets, ideal for rainy hours."
+              }
+            },
+            {
+              "name": "Egyptian Bazaar (Spice Bazaar)",
+              "tip_5lang": {
+                "de": "Kaufen Sie hier wärmenden Lindenblütentee für den Rest des Weges.",
+                "hu": "Vásároljon melengető hársfateát a sétája hátralévő részére.",
+                "ro": "Cumpărați ceai de tei pentru a vă încălzi pe durata drumului.",
+                "en": "Buy some warming linden tea for the rest of your walk."
+              }
+            },
+            {
+              "name": "Süleymaniye Mosque",
+              "tip_5lang": {
+                "de": "Der Blick auf das Goldene Horn ist auch bei Nebel und Regen episch.",
+                "hu": "Az Aranyszarv-öböl látványa ködben és esőben is lenyűgöző.",
+                "ro": "Priveliștea asupra Cornului de Aur este epică chiar și prin ceață.",
+                "en": "The view over the Golden Horn is epic even through mist and rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für die Kopfsteinpflastergassen.",
+              "Der Große Basar hat 22 Tore; merken Sie sich Ihr Eingangstor.",
+              "Regenschirme können billig bei Straßenverkäufern gekauft werden.",
+              "Die Hagia Sophia hat oft lange Warteschlangen im Freien; bringen Sie ein Cape mit."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a macskaköves utcák miatt.",
+              "A Nagy Bazárnak 22 kapuja van, jegyezze meg, melyiken jött be.",
+              "Az utcai árusoktól olcsón vehet esernyőt, ha eleredne.",
+              "Az Ayasofya előtt gyakran hosszú a sor kint; legyen Önnél esővédő."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru străzile pietruite.",
+              "Marele Bazar are 22 de porți; rețineți poarta de intrare.",
+              "Umbrelele pot fi cumpărate ieftin de la vânzătorii ambulanți.",
+              "Sfânta Sofia are cozi lungi afară; aduceți o pelerină de ploaie."
+            ],
+            "en": [
+              "Wear waterproof shoes for the cobblestone streets.",
+              "The Grand Bazaar has 22 gates; remember your entry gate.",
+              "Umbrellas can be bought cheaply from street vendors.",
+              "Hagia Sophia often has long outdoor lines; bring a rain poncho."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Winterspaziergang durch das historische Zentrum beginnt mit der kühlen Brise am Sultanahmet-Platz. Wärmen Sie sich in den prächtigen Gebetsräumen der Moscheen auf, bevor Sie die Palastgärten erkunden. Da es bereits gegen 17:00 Uhr dunkel wird, bietet der späte Nachmittag in den beleuchteten Basaren eine gemütliche Atmosphäre. Der Tag endet mit einem heißen Salep-Getränk nahe der Süleymaniye.",
+            "hu": "A téli séta a történelmi központban a Sultanahmet tér hűvös szellőivel indul. Melegedjen fel a mecsetek pompás belső tereiben, mielőtt a palota kertjeit bejárná. Mivel 17:00 körül sötétedik, a délutánt töltse a kivilágított bazárok hangulatos forgatagában. A napot egy forró szálep itallal zárja a Süleymaniye környékén.",
+            "ro": "O plimbare de iarnă prin centrul istoric începe cu briza rece din Piața Sultanahmet. Încălziți-vă în sălile de rugăciune ale moscheilor înainte de a explora grădinile palatului. Deoarece se întunecă în jurul orei 17:00, după-amiaza oferă o atmosferă primitoare în bazarurile iluminate. Ziua se încheie cu un salep fierbinte lângă Süleymaniye.",
+            "en": "A winter walk through the historic center starts with a cool breeze at Sultanahmet Square. Warm up in the magnificent prayer halls of the mosques before exploring the palace grounds. Since it gets dark around 17:00, the late afternoon in the illuminated bazaars offers a cozy atmosphere. End the day with a hot salep drink near Süleymaniye."
+          },
+          "stops": [
+            {
+              "name": "Blue Mosque",
+              "tip_5lang": {
+                "de": "Dicke Socken sind ratsam, da man die Schuhe ausziehen muss.",
+                "hu": "Vastag zokni ajánlott, mivel a cipőt le kell venni a bejáratnál.",
+                "ro": "Șosetele groase sunt recomandate, deoarece trebuie să vă descălțați.",
+                "en": "Thick socks are advised as you must remove your shoes at the entrance."
+              }
+            },
+            {
+              "name": "Hagia Sophia",
+              "tip_5lang": {
+                "de": "Die massiven Mauern halten die Kälte, ziehen Sie sich warm an.",
+                "hu": "A hatalmas falak tartják a hideget, öltözzön fel rétegesen.",
+                "ro": "Zidurile masive mențin frigul, deci îmbrăcați-vă bine.",
+                "en": "The massive walls retain the cold; make sure to dress warmly."
+              }
+            },
+            {
+              "name": "Basilica Cistern",
+              "tip_5lang": {
+                "de": "Hier ist es im Winter oft wärmer als draußen an der Luft.",
+                "hu": "Télen itt gyakran melegebb van, mint kint az utcán.",
+                "ro": "Aici este adesea mai cald iarna decât afară în aer liber.",
+                "en": "It is often warmer here in winter than outside in the air."
+              }
+            },
+            {
+              "name": "Topkapı Palace",
+              "tip_5lang": {
+                "de": "Meiden Sie die windigen Terrassen am Meer bei starkem Wind.",
+                "hu": "Erős szélben kerülje a tengerre néző, szeles teraszokat.",
+                "ro": "Evitați terasele expuse spre mare în perioadele cu vânt puternic.",
+                "en": "Avoid the windy terraces overlooking the sea during strong winds."
+              }
+            },
+            {
+              "name": "Grand Bazaar",
+              "tip_5lang": {
+                "de": "Genießen Sie den Duft von gerösteten Kastanien vor den Toren.",
+                "hu": "Élvezze a sült gesztenye illatát a kapuk előtt.",
+                "ro": "Bucurați-vă de mirosul de castane coapte de la porțile bazarului.",
+                "en": "Enjoy the scent of roasted chestnuts outside the bazaar gates."
+              }
+            },
+            {
+              "name": "Egyptian Bazaar (Spice Bazaar)",
+              "tip_5lang": {
+                "de": "Probieren Sie türkischen Honig mit Nüssen für schnelle Energie.",
+                "hu": "Kóstolja meg a diós lokumot a gyors energiapótlásért.",
+                "ro": "Gustați rahat turcesc cu nuci pentru un plus de energie.",
+                "en": "Taste some Turkish delight with nuts for a quick energy boost."
+              }
+            },
+            {
+              "name": "Süleymaniye Mosque",
+              "tip_5lang": {
+                "de": "Trinken Sie 'Boza' in der historischen Vefa-Halle in der Nähe.",
+                "hu": "Igyon egy pohár bozát a közeli, történelmi Vefa bozacíbán.",
+                "ro": "Beți o „boza” la istorica hală Vefa situată în apropiere.",
+                "en": "Drink some 'Boza' at the historic Vefa hall located nearby."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Dezember gegen 17:45 Uhr unter.",
+              "Museen sind im Winter deutlich leerer als im Sommer.",
+              "Tragen Sie Schals gegen den kalten Wind vom Bosporus.",
+              "Heiße Kastanienverkäufer stehen an fast jeder Straßenecke."
+            ],
+            "hu": [
+              "A nap decemberben 17:45 körül nyugszik.",
+              "A múzeumok télen lényegesen üresebbek, mint nyáron.",
+              "Hordjon sálat a Boszporusz felől fújó hideg szél ellen.",
+              "Sültgesztenye-árusokat szinte minden sarkon talál."
+            ],
+            "ro": [
+              "Soarele apune în decembrie în jurul orei 17:45.",
+              "Muzeele sunt mult mai libere iarna decât în timpul verii.",
+              "Purtați eșarfe împotriva vântului rece dinspre Bosfor.",
+              "Vânzătorii de castane calde sunt la aproape fiecare colț."
+            ],
+            "en": [
+              "The sun sets around 17:45 in December.",
+              "Museums are significantly less crowded in winter than summer.",
+              "Wear scarves against the cold wind from the Bosphorus.",
+              "Hot chestnut vendors are at almost every street corner."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -592,6 +792,188 @@
           "Be cautious in traffic; stick to less busy roads where possible.",
           "Always lock your bike securely, even for short stops."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Vorsicht auf Istanbuls Hügeln. Nach dem Start an der Hagia Sophia führen die Wege durch die Gärten von Topkapı, wo Bäume etwas Schutz bieten. Die Galata-Brücke kann windig und nass sein, bietet aber einen dynamischen Blick auf die Fähren. Der Tag endet im Stadtteil Fatih bei der Chora-Kirche, wo die Mosaike drinnen leuchten.",
+            "hu": "Az esős bringázás óvatosságot igényel Isztambul dombjain. Az Ayasofya után a Topkapı kertjeiben a fák adnak némi oltalmat. A Galata-híd ilyenkor szeles és vizes lehet, de látványos a komphajók mozgása. A túra a Fatih negyedben, a Chora-templomnál ér véget, ahol a benti mozaikok ragyogása feledteti az időjárást.",
+            "ro": "O tură cu bicicleta pe ploaie necesită prudență pe dealurile Istanbulului. După plecarea de la Sfânta Sofia, drumurile trec prin grădinile Topkapı, unde copacii oferă protecție. Podul Galata poate fi vântos și ud, dar oferă o vedere dinamică asupra feriboturilor. Ziua se încheie în cartierul Fatih, la Biserica Chora, unde mozaicurile strălucesc la interior.",
+            "en": "Cycling in the rain requires caution on Istanbul's hills. After starting at Hagia Sophia, the paths lead through Topkapı gardens, where trees provide some cover. Galata Bridge can be windy and wet, but it offers a dynamic view of the ferries. The day ends in the Fatih district at the Chora Church, where the mosaics shine indoors."
+          },
+          "stops": [
+            {
+              "name": "Hagia Sophia",
+              "tip_5lang": {
+                "de": "Parken Sie das Rad sicher, bevor Sie die langen Gänge erkunden.",
+                "hu": "Parkolja le biztonságosan a biciklit, mielőtt bemegy.",
+                "ro": "Parcați bicicleta în siguranță înainte de a intra în interior.",
+                "en": "Park your bike securely before exploring the long corridors."
+              }
+            },
+            {
+              "name": "Topkapı Palace Gardens",
+              "tip_5lang": {
+                "de": "Die Asphaltwege sind besser als die rutschigen Rasenkanten.",
+                "hu": "Az aszfaltos utak jobbak, mint a csúszós fűszegélyek.",
+                "ro": "Potecile asfaltate sunt de preferat marginilor de iarbă alunecoase.",
+                "en": "Asphalt paths are better than slippery grass edges."
+              }
+            },
+            {
+              "name": "Eminönü Square & Spice Bazaar",
+              "tip_5lang": {
+                "de": "Schieben Sie das Rad durch die überfüllten, nassen Arkaden.",
+                "hu": "Tolja a biciklit a zsúfolt, vizes árkádok alatt.",
+                "ro": "Împingeți bicicleta prin arcadele aglomerate și umede.",
+                "en": "Push your bike through the crowded, wet arcades."
+              }
+            },
+            {
+              "name": "Galata Bridge",
+              "tip_5lang": {
+                "de": "Achten Sie auf die Angler und ihre Schnüre bei Wind.",
+                "hu": "Szeles időben figyeljen a horgászokra és a damilokra.",
+                "ro": "Atenție la pescari și la firele lor în condiții de vânt.",
+                "en": "Watch out for fishermen and their lines during windy weather."
+              }
+            },
+            {
+              "name": "Galata Tower",
+              "tip_5lang": {
+                "de": "Der Aufstieg ist steil und die Steine können glatt sein.",
+                "hu": "A felvezető út meredek, a kövek pedig csúszósak lehetnek.",
+                "ro": "Urcarea este abruptă, iar pietrele pot fi alunecoase.",
+                "en": "The climb is steep, and the stones can be slick."
+              }
+            },
+            {
+              "name": "Chora Church (Kariye Mosque)",
+              "tip_5lang": {
+                "de": "Ein perfektes Ziel, um die Regenkleidung endlich abzulegen.",
+                "hu": "Tökéletes célpont, hogy végre levegye az esőkabátot.",
+                "ro": "O destinație perfectă pentru a renunța în sfârșit la haina de ploaie.",
+                "en": "A perfect destination to finally take off your rain gear."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Bremsen Sie auf Kopfsteinpflaster frühzeitig und vorsichtig.",
+              "Benutzen Sie Schutzbleche, um Schlammspritzer zu vermeiden.",
+              "Die Schienen der Straßenbahn T1 sind bei Nässe extrem gefährlich.",
+              "Tragen Sie eine gut sichtbare Regenjacke im dichten Verkehr."
+            ],
+            "hu": [
+              "Macskakövön fékezzen időben és óvatosan.",
+              "Használjon sárvédőt, hogy elkerülje a sárfelverődést.",
+              "A T1 villamos sínei vizesen rendkívül veszélyesek.",
+              "Viseljen feltűnő esőkabátot a sűrű forgalomban."
+            ],
+            "ro": [
+              "Frânați din timp și cu prudență pe pavaj.",
+              "Folosiți apărători pentru a evita stropirea cu noroi.",
+              "Șinele tramvaiului T1 sunt extrem de periculoase când sunt ude.",
+              "Purtați o jachetă de ploaie vizibilă în traficul intens."
+            ],
+            "en": [
+              "Brake early and cautiously on cobblestones.",
+              "Use mudguards to avoid splashing mud on yourself.",
+              "The T1 tram tracks are extremely dangerous when wet.",
+              "Wear a highly visible rain jacket in heavy traffic."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintersonne über dem Bosporus ist ideal für eine Radtour, solange man sich gegen den Wind schützt. Von Sultanahmet geht es hinunter zum Meer und über die Galata-Brücke. Die Anstiege zum Galata-Turm halten warm, während die Abfahrten kühl sein können. Den Abschluss bildet die Chora-Kirche in den ruhigen Gassen des alten Istanbul, weit weg von den Touristenmassen.",
+            "hu": "A Boszporusz feletti téli napsütés ideális a biciklizéshez, ha védve vagyunk a széltől. Sultanahmetből guruljon le a tengerhez, majd keljen át a Galata-hídon. A Galata-toronyhoz vezető emelkedők melegen tartják, de a lejtőkön hűvös lehet. A túrát a Chora-templom zárja a régi Isztambul csendes utcáin, távol a tömegtől.",
+            "ro": "Soarele de iarnă peste Bosfor este ideal pentru ciclism, cât timp sunteți protejat de vânt. Din Sultanahmet, coborâți spre mare și traversați Podul Galata. Urcările spre Turnul Galata vă mențin cald, dar coborârile pot fi reci. Ziua se încheie la Biserica Chora, pe străzile liniștite ale vechiului Istanbul.",
+            "en": "Winter sun over the Bosphorus is ideal for cycling, as long as you are protected from the wind. From Sultanahmet, head down to the sea and cross the Galata Bridge. The climbs to Galata Tower keep you warm, while descents can be chilly. The trip ends at the Chora Church in the quiet streets of old Istanbul, away from the crowds."
+          },
+          "stops": [
+            {
+              "name": "Hagia Sophia",
+              "tip_5lang": {
+                "de": "Frühmorgens ist es hier im Winter oft sehr frostig.",
+                "hu": "Kora reggel télen gyakran deres itt a föld.",
+                "ro": "Dimineața devreme este adesea foarte geros aici iarna.",
+                "en": "Early mornings here in winter are often very frosty."
+              }
+            },
+            {
+              "name": "Topkapı Palace Gardens",
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Sicht ohne die üppige Sommervegetation.",
+                "hu": "Élvezze a tiszta kilátást a dús nyári növényzet nélkül.",
+                "ro": "Bucurați-vă de vizibilitatea clară fără vegetația de vară.",
+                "en": "Enjoy the clear views without the lush summer vegetation."
+              }
+            },
+            {
+              "name": "Eminönü Square & Spice Bazaar",
+              "tip_5lang": {
+                "de": "Holen Sie sich eine Tüte heiße Maronen beim Parken.",
+                "hu": "Vegyeg egy tasak forró gesztenyét, amíg leparkol.",
+                "ro": "Luați o pungă de castane fierbinți în timp ce parcați.",
+                "en": "Grab a bag of hot chestnuts while parking your bike."
+              }
+            },
+            {
+              "name": "Galata Bridge",
+              "tip_5lang": {
+                "de": "Der Wind vom Meer ist hier im Winter am schneidendsten.",
+                "hu": "A tenger felől fújó szél itt a legélesebb télen.",
+                "ro": "Vântul dinspre mare este cel mai tăios aici în timpul iernii.",
+                "en": "The wind from the sea is at its sharpest here in winter."
+              }
+            },
+            {
+              "name": "Galata Tower",
+              "tip_5lang": {
+                "de": "Die Warteschlangen sind kürzer, aber oben ist es windig.",
+                "hu": "A sorok rövidebbek, de a kilátóban szeles az idő.",
+                "ro": "Cozile sunt mai scurte, dar în vârf este foarte vântos.",
+                "en": "Lines are shorter, but it is very windy at the top."
+              }
+            },
+            {
+              "name": "Chora Church (Kariye Mosque)",
+              "tip_5lang": {
+                "de": "Die goldene Innenbeleuchtung wirkt im Winter besonders warm.",
+                "hu": "Az arany belső világítás télen különösen melegnek hat.",
+                "ro": "Iluminatul interior auriu pare deosebit de cald iarna.",
+                "en": "The golden interior lighting feels especially warm in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Handschuhe für die Abfahrten.",
+              "Das Tageslicht schwindet früh, prüfen Sie Ihre Fahrradbeleuchtung.",
+              "Trinken Sie unterwegs warmen Tee in den kleinen Teegärten.",
+              "Meiden Sie Radwege direkt am Wasser bei Sturmwarnung."
+            ],
+            "hu": [
+              "Viseljen szélálló kesztyűt a lejtőkhöz.",
+              "A nappali fény korán elfogy, ellenőrizze a lámpákat.",
+              "Igyon útközben meleg teát a kis teakertben.",
+              "Viharjelzés esetén kerülje a közvetlen vízparti utakat."
+            ],
+            "ro": [
+              "Purtați mănuși rezistente la vânt pentru coborâri.",
+              "Lumina zilei dispare devreme, verificați luminile bicicletei.",
+              "Beți ceai cald la micile grădini de ceai de pe traseu.",
+              "Evitați pistele de lângă apă în caz de alertă de furtună."
+            ],
+            "en": [
+              "Wear windproof gloves for the descents.",
+              "Daylight fades early; check your bike lights.",
+              "Drink warm tea at small tea gardens along the way.",
+              "Avoid waterfront paths during storm warnings."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -894,6 +1276,206 @@
           "Avoid driving during rush hours (07:00-10:00, 16:00-20:00).",
           "Be aware of tolls on bridges and tunnels; an HGS sticker is required."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Im Auto ist der Regen in Istanbul nur eine Kulisse für eine luxuriöse Tour. Nach den Moscheen in Sultanahmet geht es zum Topkapı- und Dolmabahçe-Palast, wo man fast direkt vor dem Tor aussteigen kann. Die Fahrt entlang des Bosporus zur Rumeli-Festung bietet tolle Ausblicke, während man trocken bleibt. Der Tag endet gemütlich bei einem Abendessen in Ortaköy.",
+            "hu": "Autóval az isztambuli eső csak díszlet a luxusutazáshoz. A Sultanahmet mecsetei után a Topkapı és Dolmabahçe palotákhoz megyünk, ahol szinte a kapu előtt szállhat ki. A Boszporusz menti autózás a Rumeli Hisarı felé csodás kilátást nyújt, miközben Ön száraz marad. A nap egy hangulatos ortaköyi vacsorával zárul.",
+            "ro": "Cu mașina, ploaia din Istanbul este doar un decor pentru un tur luxos. După moscheile din Sultanahmet, mergem la palatele Topkapı și Dolmabahçe, unde puteți coborî aproape de poartă. Drumul de-a lungul Bosforului spre cetatea Rumeli oferă vederi superbe în timp ce rămâneți uscat. Ziua se încheie cu o cină plăcută în Ortaköy.",
+            "en": "In a car, the rain in Istanbul is just a backdrop for a luxurious tour. After the mosques in Sultanahmet, head to Topkapı and Dolmabahçe palaces, where you can be dropped off right at the gates. The drive along the Bosphorus to Rumeli Fortress offers great views while you stay dry. The day ends comfortably with dinner in Ortaköy."
+          },
+          "stops": [
+            {
+              "name": "Hagia Sophia",
+              "tip_5lang": {
+                "de": "Lassen Sie sich am nächsten Punkt zum Eingang absetzen.",
+                "hu": "Kérje meg a sofőrt, hogy a legközelebbi ponton tegye ki.",
+                "ro": "Rugați șoferul să vă lase la cel mai apropiat punct de intrare.",
+                "en": "Ask your driver to drop you off at the closest possible point."
+              }
+            },
+            {
+              "name": "Blue Mosque",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist nah, aber ein Schirm ist für den Weg nötig.",
+                "hu": "A parkoló közel van, de a bejáratig kell egy esernyő.",
+                "ro": "Parcarea este aproape, dar aveți nevoie de umbrelă până la intrare.",
+                "en": "Parking is close, but an umbrella is needed for the short walk."
+              }
+            },
+            {
+              "name": "Topkapı Palace",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Wagen, um zwischen den Toren zu pendeln.",
+                "hu": "Használja az autót a kapuk közötti közlekedésre.",
+                "ro": "Folosiți mașina pentru a vă deplasa între porțile palatului.",
+                "en": "Use the car to commute between the different palace gates."
+              }
+            },
+            {
+              "name": "Dolmabahçe Palace",
+              "tip_5lang": {
+                "de": "Der Haupteingang bietet bei Regen wenig Unterstand im Freien.",
+                "hu": "A főbejáratnál esőben kevés a kinti fedett rész.",
+                "ro": "Intrarea principală oferă puțin adăpost exterior în caz de ploaie.",
+                "en": "The main entrance offers little outdoor shelter during rain."
+              }
+            },
+            {
+              "name": "Rumeli Hisarı",
+              "tip_5lang": {
+                "de": "Die steilen Treppen der Festung sind bei Regen gefährlich.",
+                "hu": "A vár meredek lépcsői esőben veszélyesen csúsznak.",
+                "ro": "Scările abrupte ale cetății sunt periculoase când plouă.",
+                "en": "The steep stairs of the fortress are dangerous during rain."
+              }
+            },
+            {
+              "name": "Bosphorus Bridge Viewpoint (Ortaköy)",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick direkt aus dem Autofenster.",
+                "hu": "Élvezze a kilátást közvetlenül az autó ablakából.",
+                "ro": "Bucurați-vă de priveliște direct de la geamul mașinii.",
+                "en": "Enjoy the view directly from the car window."
+              }
+            },
+            {
+              "name": "Dinner in Ortaköy",
+              "tip_5lang": {
+                "de": "Reservieren Sie einen Tisch am Fenster, um den Regen zu sehen.",
+                "hu": "Foglaljon asztalt az ablaknál, hogy lássa az esőt a vízen.",
+                "ro": "Rezervați o masă la fereastră pentru a vedea ploaia pe apă.",
+                "en": "Book a window table to watch the rain over the water."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Rechnen Sie mit deutlich mehr Stau bei Regenwetter.",
+              "Parkhäuser in Sultanahmet sind teuer, aber halten den Wagen trocken.",
+              "Die Küstenstraße kann bei starkem Regen stellenweise fluten.",
+              "Nutzen Sie Taxi-Apps wie BiTaksi, um nicht im Regen zu warten."
+            ],
+            "hu": [
+              "Esőben számoljon jóval nagyobb forgalmi dugókkal.",
+              "A sultanahmeti parkolóházak drágák, de szárazon tartják a kocsit.",
+              "A part menti út heves esőzéskor helyenként víz alá kerülhet.",
+              "Használjon taxi-appokat, hogy ne kelljen az esőben várakoznia."
+            ],
+            "ro": [
+              "Așteptați-vă la ambuteiaje mult mai mari pe timp de ploaie.",
+              "Parcările din Sultanahmet sunt scumpe, dar mențin mașina uscată.",
+              "Drumul de coastă se poate inunda parțial la ploi torențiale.",
+              "Folosiți aplicații de taxi pentru a nu aștepta în ploaie."
+            ],
+            "en": [
+              "Expect significantly more traffic jams during rainy weather.",
+              "Parking garages in Sultanahmet are pricey but keep the car dry.",
+              "The coastal road can partially flood during heavy rain.",
+              "Use taxi apps like BiTaksi to avoid waiting in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Istanbul im Winter mit dem Auto zu erkunden, bedeutet Wärme und Komfort zwischen den Stopps. Beginnen Sie in Sultanahmet und fahren Sie dann zum prächtigen Dolmabahçe-Palast. Die Fahrt zur Rumeli-Festung zeigt den Bosporus in einem kühlen, klaren Licht. Den Sonnenuntergang erleben Sie am besten am Aussichtspunkt der Brücke, bevor Sie sich zum Abendessen in Ortaköy zurückziehen.",
+            "hu": "Isztambul felfedezése télen autóval meleget és kényelmet jelent a megállók között. Kezdjen Sultanahmetben, majd hajtson a pompás Dolmabahçe palotához. A Rumeli Hisarı felé vezető út hűvös, tiszta fényben mutatja a Boszporuszt. A naplementét legjobb a híd kilátópontjánál megvárni, mielőtt behúzódna vacsorázni Ortaköybe.",
+            "ro": "Explorarea Istanbulului iarna cu mașina înseamnă căldură și confort între opriri. Începeți în Sultanahmet și apoi mergeți la magnificul Palat Dolmabahçe. Drumul spre cetatea Rumeli arată Bosforul într-o lumină rece și clară. Apusul este cel mai bine văzut de la punctul de observație al podului, înainte de cină.",
+            "en": "Exploring Istanbul in winter by car means warmth and comfort between stops. Start in Sultanahmet and then drive to the magnificent Dolmabahçe Palace. The drive to Rumeli Fortress shows the Bosphorus in a cool, clear light. The sunset is best experienced at the bridge viewpoint before retreating for dinner in Ortaköy."
+          },
+          "stops": [
+            {
+              "name": "Hagia Sophia",
+              "tip_5lang": {
+                "de": "Die Heizung im Auto ist nach dem kühlen Besuch ein Segen.",
+                "hu": "Az autó fűtése áldás lesz a hűvös látogatás után.",
+                "ro": "Încălzirea din mașină este o binecuvântare după vizita răcoroasă.",
+                "en": "The car's heater will be a blessing after the cool visit."
+              }
+            },
+            {
+              "name": "Blue Mosque",
+              "tip_5lang": {
+                "de": "Vermeiden Sie die Freitagsgebete, wenn Parkplätze rar sind.",
+                "hu": "Kerülje a pénteki imaidőt, amikor kevés a parkolóhely.",
+                "ro": "Evitați orele de rugăciune de vineri, când parcarea e dificilă.",
+                "en": "Avoid Friday prayer times when parking is very scarce."
+              }
+            },
+            {
+              "name": "Topkapı Palace",
+              "tip_5lang": {
+                "de": "Der Wagen kann am Eingang des Gulhane-Parks warten.",
+                "hu": "Az autó megvárhatja Önt a Gülhane park bejáratánál.",
+                "ro": "Mașina vă poate aștepta la intrarea în Parcul Gülhane.",
+                "en": "The car can wait for you at the entrance of Gülhane Park."
+              }
+            },
+            {
+              "name": "Dolmabahçe Palace",
+              "tip_5lang": {
+                "de": "Der Garten ist im Winter kahl, aber die Innenräume sind warm.",
+                "hu": "A kert télen kopár, de a belső termek fűtöttek.",
+                "ro": "Grădina este golașă iarna, dar interiorul este încălzit.",
+                "en": "The garden is bare in winter, but the interior rooms are warm."
+              }
+            },
+            {
+              "name": "Rumeli Hisarı",
+              "tip_5lang": {
+                "de": "Starker Wind vom Schwarzen Meer ist hier im Winter üblich.",
+                "hu": "A Fekete-tenger felől fújó erős szél télen itt megszokott.",
+                "ro": "Vântul puternic dinspre Marea Neagră este obișnuit aici iarna.",
+                "en": "Strong wind from the Black Sea is common here in winter."
+              }
+            },
+            {
+              "name": "Bosphorus Bridge Viewpoint (Ortaköy)",
+              "tip_5lang": {
+                "de": "Das Licht für Fotos ist kurz vor Sonnenuntergang am besten.",
+                "hu": "A fények közvetlenül naplemente előtt a legjobbak a fotózáshoz.",
+                "ro": "Lumina pentru fotografii este optimă chiar înainte de apus.",
+                "en": "The light for photos is best just before sunset."
+              }
+            },
+            {
+              "name": "Dinner in Ortaköy",
+              "tip_5lang": {
+                "de": "Probieren Sie 'Kumpir' (Ofenkartoffel) als warmen Snack.",
+                "hu": "Próbálja ki a kumpirt (sült burgonya) meleg snackként.",
+                "ro": "Încercați „kumpir” (cartof copt) ca o gustare caldă.",
+                "en": "Try some 'Kumpir' (baked potato) as a warm snack."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schnee ist selten, kann aber den Verkehr völlig lahmlegen.",
+              "Die Sicht über den Bosporus ist an klaren Wintertagen unschlagbar.",
+              "Nutzen Sie Sitzheizungen, falls Ihr Wagen diese hat.",
+              "Parken Sie in Ortaköy in den bewachten Parkhäusern."
+            ],
+            "hu": [
+              "A hó ritka, de teljesen megbéníthatja a forgalmat.",
+              "A kilátás a Boszporuszra tiszta téli napokon verhetetlen.",
+              "Használja az ülésfűtést, ha az autója rendelkezik vele.",
+              "Ortaköyben használja az őrzött parkolóházakat."
+            ],
+            "ro": [
+              "Zăpada este rară, dar poate paraliza complet traficul.",
+              "Vizibilitatea peste Bosfor este imbatabilă în zilele senine.",
+              "Folosiți încălzirea în scaune, dacă mașina este dotată.",
+              "Parcați în Ortaköy în parcările subterane păzite."
+            ],
+            "en": [
+              "Snow is rare but can completely paralyze traffic.",
+              "Visibility over the Bosphorus is unbeatable on clear winter days.",
+              "Use seat heaters if your car is equipped with them.",
+              "Park in Ortaköy using the guarded parking garages."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1196,6 +1778,206 @@
           "Marmaray and Metro lines are faster for covering long distances, especially to avoid traffic.",
           "Ferries are not just transport, but also a scenic experience. Make use of them!"
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Istanbuls öffentlicher Nahverkehr ist bei Regen die beste Wahl. Die Straßenbahn T1 verbindet die Moscheen von Sultanahmet direkt mit dem Großen Basar, sodass man kaum nass wird. Die Fahrt zum Galata-Turm und zur İstiklal-Straße erfolgt mit der historischen Standseilbahn. Den Tag krönt eine Bosporus-Fähre, auf der man drinnen bei einem Tee die vorbeiziehenden Paläste beobachtet.",
+            "hu": "Isztambul tömegközlekedése esőben a legjobb választás. A T1 villamos közvetlenül összeköti Sultanahmet mecsetjeit a Nagy Bazárral, így alig lesz vizes. A Galata-toronyhoz és az Istiklal utcához a történelmi siklóval juthat fel. A napot egy boszporuszi kompút koronázza meg, ahol bentről, egy tea mellett nézheti az elúszó palotákat.",
+            "ro": "Transportul public din Istanbul este cea mai bună alegere pe ploaie. Tramvaiul T1 leagă moscheile din Sultanahmet direct de Marele Bazar. Drumul spre Turnul Galata și strada İstiklal se face cu funicularul istoric. Ziua este încununată de o plimbare cu feribotul pe Bosfor, unde puteți vedea palatele la căldură, cu un ceai.",
+            "en": "Istanbul's public transit is the best choice during rain. The T1 tram connects the Sultanahmet mosques directly to the Grand Bazaar, keeping you mostly dry. The journey to Galata Tower and İstiklal Avenue is made using the historic funicular. The day is crowned by a Bosphorus ferry ride, where you can watch the palaces go by from inside with a tea."
+          },
+          "stops": [
+            {
+              "name": "Blue Mosque",
+              "tip_5lang": {
+                "de": "Die Tramhaltestelle Sultanahmet ist nur 5 Minuten entfernt.",
+                "hu": "A Sultanahmet villamosmegálló mindössze 5 percre van.",
+                "ro": "Stația de tramvai Sultanahmet este la doar 5 minute distanță.",
+                "en": "The Sultanahmet tram stop is only 5 minutes away."
+              }
+            },
+            {
+              "name": "Hagia Sophia",
+              "tip_5lang": {
+                "de": "Vermeiden Sie Stoßzeiten in der Tram bei Regen, da es eng wird.",
+                "hu": "Esőben kerülje a csúcsidőt a villamoson, mert nagy a zsúfoltság.",
+                "ro": "Evitați orele de vârf în tramvai pe ploaie, deoarece e aglomerație.",
+                "en": "Avoid rush hours on the tram during rain as it gets very crowded."
+              }
+            },
+            {
+              "name": "Grand Bazaar",
+              "tip_5lang": {
+                "de": "Steigen Sie an der Haltestelle 'Beyazıt' aus, direkt am Tor.",
+                "hu": "Szálljon le a 'Beyazıt' megállónál, közvetlenül a kapunál.",
+                "ro": "Coborâți la stația „Beyazıt”, chiar lângă poarta bazarului.",
+                "en": "Get off at the 'Beyazıt' stop, right next to the gate."
+              }
+            },
+            {
+              "name": "Galata Tower",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Tünel (F2), um den steilen nassen Hügel zu meiden.",
+                "hu": "Használja a Tünelt (F2), hogy elkerülje a meredek, vizes dombot.",
+                "ro": "Folosiți Tünel (F2) pentru a evita dealul abrupt și ud.",
+                "en": "Use the Tünel (F2) to avoid the steep, wet hill."
+              }
+            },
+            {
+              "name": "İstiklal Avenue",
+              "tip_5lang": {
+                "de": "Die historische Tram bietet eine nostalgische, trockene Fahrt.",
+                "hu": "A nosztalgiavillamos száraz és hangulatos utazást kínál.",
+                "ro": "Tramvaiul istoric oferă o călătorie nostalgică și uscată.",
+                "en": "The nostalgic tram offers a dry and atmospheric ride."
+              }
+            },
+            {
+              "name": "Dolmabahçe Palace",
+              "tip_5lang": {
+                "de": "Vom Ende der Tramlinie T1 (Kabataş) ist es ein kurzer Fußweg.",
+                "hu": "A T1 villamos végétől (Kabataş) csak rövid séta.",
+                "ro": "De la capătul liniei T1 (Kabataş) este o scurtă plimbare.",
+                "en": "It is a short walk from the end of the T1 tram line (Kabataş)."
+              }
+            },
+            {
+              "name": "Bosphorus Ferry from Kabataş",
+              "tip_5lang": {
+                "de": "Setzen Sie sich auf das Unterdeck, um trocken zu bleiben.",
+                "hu": "Üljön az alsó fedélzetre, hogy szárazon maradjon.",
+                "ro": "Stați la puntea inferioară pentru a rămâne uscat.",
+                "en": "Sit on the lower deck to stay completely dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ihre Istanbulkart kann an allen Automaten aufgeladen werden.",
+              "Fähren können bei extremem Sturm ausfallen (Lodos-Wind).",
+              "Die Tram T1 fährt alle 5-7 Minuten durch das Zentrum.",
+              "Bahnhöfe und Metro-Stationen bieten guten Schutz vor Güssen."
+            ],
+            "hu": [
+              "Az Istanbulkart minden automatánál feltölthető.",
+              "A kompjáratokat erős vihar (Lodos szél) esetén törölhetik.",
+              "A T1 villamos 5-7 percenként jár a központban.",
+              "A vasút- és metróállomások jó menedéket nyújtanak zivatar idején."
+            ],
+            "ro": [
+              "Istanbulkart poate fi reîncărcat la toate automatele.",
+              "Feriboturile pot fi anulate în caz de furtună (vânt Lodos).",
+              "Tramvaiul T1 circulă la fiecare 5-7 minute prin centru.",
+              "Gările și stațiile de metrou oferă adăpost bun împotriva ploii."
+            ],
+            "en": [
+              "Your Istanbulkart can be topped up at all vending machines.",
+              "Ferries may be cancelled during extreme storms (Lodos wind).",
+              "The T1 tram runs every 5-7 minutes through the center.",
+              "Train and metro stations provide good shelter from downpours."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Wintertage in Istanbul lassen sich hervorragend mit der Tram und den Fähren bewältigen. Starten Sie in Sultanahmet und nutzen Sie die beheizten Züge der T1. Nach dem Basarbesuch bringt Sie die Standseilbahn hinauf zur İstiklal-Straße, wo die Lichterketten früh leuchten. Das Highlight ist die Überfahrt mit der Fähre bei Sonnenuntergang, während Sie drinnen einen heißen Tee trinken.",
+            "hu": "Isztambul téli napjai remekül bejárhatók villamossal és komppal. Kezdjen Sultanahmetben a T1 fűtött kocsijaival. A bazár után a sikló viszi fel az Istiklal utcára, ahol a fényfüzérek már korán kigyúlnak. A nap fénypontja a naplementés kompút, miközben bent forró teát kortyolgat.",
+            "ro": "Zilele de iarnă din Istanbul pot fi parcurse excelent cu tramvaiul și feribotul. Începeți în Sultanahmet cu vagoanele încălzite ale T1. După bazar, funicularul vă duce pe strada İstiklal, unde luminile se aprind devreme. Punctul culminant este traversarea cu feribotul la apus, în timp ce beți un ceai fierbinte.",
+            "en": "Winter days in Istanbul are easily managed using the tram and ferries. Start in Sultanahmet using the heated T1 trains. After the bazaar, the funicular takes you up to İstiklal Avenue, where the fairy lights turn on early. The highlight is the ferry crossing at sunset while sipping a hot tea inside."
+          },
+          "stops": [
+            {
+              "name": "Blue Mosque",
+              "tip_5lang": {
+                "de": "Die Tramstation ist ein guter Ort, um sich kurz aufzuwärmen.",
+                "hu": "A villamosmegálló jó hely egy rövid bemelegedéshez.",
+                "ro": "Stația de tramvai este un loc bun pentru a vă încălzi puțin.",
+                "en": "The tram station is a good place to warm up briefly."
+              }
+            },
+            {
+              "name": "Hagia Sophia",
+              "tip_5lang": {
+                "de": "Der Wind auf dem Platz zwischen den Moscheen ist im Winter eisig.",
+                "hu": "A két mecset közötti téren télen jeges a szél.",
+                "ro": "Vântul din piața dintre moschei este înghețat iarna.",
+                "en": "The wind in the square between the mosques is icy in winter."
+              }
+            },
+            {
+              "name": "Grand Bazaar",
+              "tip_5lang": {
+                "de": "Drinnen herrscht das ganze Jahr über eine milde Temperatur.",
+                "hu": "Benn egész évben kellemes, enyhe a hőmérséklet.",
+                "ro": "În interior se menține o temperatură blândă tot timpul anului.",
+                "en": "The temperature inside remains mild throughout the year."
+              }
+            },
+            {
+              "name": "Galata Tower",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Aufzug im Turm, um nicht außer Atem zu kommen.",
+                "hu": "Használja a torony liftjét, hogy ne fáradjon el a hidegben.",
+                "ro": "Folosiți liftul din turn pentru a nu obosi în frig.",
+                "en": "Use the tower's elevator to avoid getting out of breath in the cold."
+              }
+            },
+            {
+              "name": "İstiklal Avenue",
+              "tip_5lang": {
+                "de": "Die Cafés entlang der Straße sind im Winter besonders einladend.",
+                "hu": "Az utca menti kávézók télen különösen hívogatóak.",
+                "ro": "Cafenelele de-a lungul străzii sunt deosebit de primitoare iarna.",
+                "en": "The cafes along the street are especially inviting in winter."
+              }
+            },
+            {
+              "name": "Dolmabahçe Palace",
+              "tip_5lang": {
+                "de": "Die letzte Einlasszeit ist im Winter oft früher als im Sommer.",
+                "hu": "Az utolsó belépési idő télen gyakran korábban van.",
+                "ro": "Ultima oră de intrare este adesea mai devreme iarna.",
+                "en": "The last entry time is often earlier in winter than in summer."
+              }
+            },
+            {
+              "name": "Bosphorus Ferry from Kabataş",
+              "tip_5lang": {
+                "de": "Genießen Sie den Sonnenuntergang vom warmen Innenbereich aus.",
+                "hu": "Élvezze a naplementét a fűtött belső térből.",
+                "ro": "Bucurați-vă de apus din spațiul interior încălzit.",
+                "en": "Enjoy the sunset from the warm interior area."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die 'Marmaray' für eine schnelle, warme Bosporus-Querung.",
+              "Verkäufer auf den Fähren bieten im Winter oft frischen Orangensaft an.",
+              "Die T1 ist im Winter oft sehr voll, da alle die Kälte meiden.",
+              "Tragen Sie Mütze und Schal für die Wartezeiten an den Piers."
+            ],
+            "hu": [
+              "Használja a Marmaray-t a Boszporusz alatti gyors, meleg átkeléshez.",
+              "A komp árusai télen gyakran kínálnak friss narancslevet is.",
+              "A T1 télen gyakran tömött, mert mindenki kerüli a hideget.",
+              "Viseljen sapkát és sálat a kikötői várakozáshoz."
+            ],
+            "ro": [
+              "Folosiți Marmaray pentru o traversare rapidă și caldă sub Bosfor.",
+              "Vânzătorii de pe feribot oferă adesea suc proaspăt de portocale iarna.",
+              "Tramvaiul T1 este adesea aglomerat iarna, toți evitând frigul.",
+              "Purtați căciulă și fular pentru perioadele de așteptare la chei."
+            ],
+            "en": [
+              "Use the Marmaray for a fast, warm Bosphorus crossing.",
+              "Vendors on the ferries often offer fresh orange juice in winter.",
+              "The T1 is often very crowded in winter as everyone avoids the cold.",
+              "Wear a hat and scarf for the waiting times at the piers."
+            ]
+          }
+        }
       }
     }
   }

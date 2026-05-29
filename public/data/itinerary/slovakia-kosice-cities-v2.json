@@ -430,6 +430,224 @@
           "Plan for breaks in the many cafes and parks along the main street.",
           "Don't forget your camera, the architecture is stunning."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen in Košice beginnt auf der glänzenden Hauptstraße, wo Pfützen die barocken Fassaden widerspiegeln. Mittags bietet der monumentale Elisabeth-Dom den perfekten trockenen Zufluchtsort, um die gotische Pracht zu bewundern. Am Nachmittag laden die Museen in der Mikluš-Gefängnisgasse und das Ostslowakische Museum zu einer Reise in die Vergangenheit ein, geschützt vor dem Wetter. Der Tag endet an der Singenden Fontäne, deren Wasserspiel im Regen eine fast mystische Atmosphäre erzeugt.",
+            "hu": "Az esős reggel Kassán a csillogó Fő utcán kezdődik, ahol a tócsák tükrözik a barokk homlokzatokat. Délben a monumentális Szent Erzsébet-dóm nyújt tökéletes menedéket, ahol szárazon csodálhatjuk meg a gótikus belsőt. Délután a Mikluš-börtön és a Kelet-szlovákiai Múzeum termeiben kalandozhatunk a múltban, védve az égi áldástól. A napot a Zenélő szökőkútnál zárjuk, amelynek játéka az esőben különleges, misztikus hangulatot áraszt.",
+            "ro": "O dimineață ploioasă în Košice începe pe strada principală strălucitoare, unde bălțile reflectă fațadele baroce. La prânz, monumentala Catedrală Sfânta Elisabeta oferă refugiul perfect pentru a admira splendoarea gotică la adăpost. După-amiaza, închisoarea Mikluš și Muzeul Slovaciei de Est vă invită la o călătorie în trecut, protejați de vreme. Ziua se încheie la Fântâna Cântătoare, al cărei joc de apă capătă o atmosferă mistică sub picăturile de ploaie.",
+            "en": "A rainy morning in Košice begins on the glistening Main Street, where puddles reflect the baroque facades. At noon, the monumental St. Elisabeth Cathedral provides the perfect dry sanctuary to admire Gothic splendor. In the afternoon, Mikluš Prison and the East Slovak Museum invite you on a journey into the past, well-sheltered from the weather. The day ends at the Singing Fountain, where the water display creates a mystical atmosphere in the rain."
+          },
+          "stops": [
+            {
+              "name": "Main Street (Hlavná ulica)",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden der Cafés als Schutz.",
+                "hu": "Használja a kávézók árkádjait menedékként.",
+                "ro": "Folosiți arcadele cafenelelor ca adăpost.",
+                "en": "Use the cafe arcades for shelter."
+              }
+            },
+            {
+              "name": "Plague Column (Immaculata)",
+              "tip_5lang": {
+                "de": "Vorsicht, das Kopfsteinpflaster ist rutschig.",
+                "hu": "Vigyázat, a macskakő csúszós az esőben.",
+                "ro": "Atenție, pavajul este alunecos pe ploaie.",
+                "en": "Careful, the cobblestones are slippery."
+              }
+            },
+            {
+              "name": "St. Elisabeth Cathedral",
+              "tip_5lang": {
+                "de": "Idealer Ort, um eine Stunde im Trockenen zu verbringen.",
+                "hu": "Ideális hely egy száraz óra eltöltéséhez.",
+                "ro": "Loc ideal pentru a petrece o oră la uscat.",
+                "en": "Ideal place to spend a dry hour."
+              }
+            },
+            {
+              "name": "St. Michael's Chapel",
+              "tip_5lang": {
+                "de": "Kurzer Sprint vom Dom, um trocken zu bleiben.",
+                "hu": "Rövid futás a dómtól, hogy száraz maradjon.",
+                "ro": "Sprint scurt de la catedrală pentru a rămâne uscat.",
+                "en": "Short sprint from the cathedral to stay dry."
+              }
+            },
+            {
+              "name": "Urban Tower",
+              "tip_5lang": {
+                "de": "Das kleine Museum im Inneren bietet Schutz.",
+                "hu": "A belső kis múzeum védelmet nyújt az eső elől.",
+                "ro": "Micul muzeu din interior oferă adăpost.",
+                "en": "The small museum inside offers shelter."
+              }
+            },
+            {
+              "name": "Mikluš Prison",
+              "tip_5lang": {
+                "de": "Perfekt für eine ausgiebige Indoor-Besichtigung.",
+                "hu": "Tökéletes egy alapos beltéri látogatáshoz.",
+                "ro": "Perfect pentru o vizită interioară detaliată.",
+                "en": "Perfect for an extensive indoor visit."
+              }
+            },
+            {
+              "name": "East Slovak Museum",
+              "tip_5lang": {
+                "de": "Bewundern Sie den Goldschatz im trockenen Keller.",
+                "hu": "Csodálja meg az aranykincset a száraz pincében.",
+                "ro": "Admirați tezaurul de aur în pivnița uscată.",
+                "en": "Admire the gold treasure in the dry cellar."
+              }
+            },
+            {
+              "name": "Singing Fountain",
+              "tip_5lang": {
+                "de": "Genießen Sie die Musik von einem nahen Fenster aus.",
+                "hu": "Élvezze a zenét egy közeli ablakból.",
+                "ro": "Bucurați-vă de muzică de la o fereastră din apropiere.",
+                "en": "Enjoy the music from a nearby window."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für das Kopfsteinpflaster.",
+              "Der Dom ist ein hervorragender Ort zum Aufwärmen.",
+              "Museen bieten lange Aufenthaltszeiten im Trockenen.",
+              "Cafés in der Hlavná haben oft überdachte Außenbereiche."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a macskakövek miatt.",
+              "A dóm kiváló hely a melegedésre és szárítkozásra.",
+              "A múzeumok hosszú beltéri programot kínálnak.",
+              "A Fő utcai kávézók árkádjai alatt védve maradhat."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru pavaj.",
+              "Catedrala este un loc excelent pentru încălzire.",
+              "Muzeele oferă timpi lungi de vizită la interior.",
+              "Cafenelele de pe strada Principală au zone acoperite."
+            ],
+            "en": [
+              "Wear waterproof shoes for the cobblestones.",
+              "The cathedral is an excellent place to warm up and dry off.",
+              "Museums offer long indoor visiting times.",
+              "Cafes on Main Street often have covered arcade areas."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen beginnt frisch auf der Hauptstraße, wo oft der Duft von heißem Met in der Luft liegt. Der Elisabeth-Dom wirkt in der kühlen Wintersonne besonders erhaben und bietet im Inneren eine andächtige Stille. Nachmittags flüchten wir vor der Kälte in die faszinierende Welt des Mikluš-Gefängnisses und die warmen Hallen des Ostslowakischen Museums. Wenn die Dämmerung früh einsetzt, verwandelt die Weihnachtsbeleuchtung das Stadtzentrum in ein Märchenland rund um die Fontäne.",
+            "hu": "A téli reggel frissen indul a Fő utcán, ahol gyakran forró mézbor illata száll a levegőben. A Szent Erzsébet-dóm a hűvös téli napsütésben különösen fenséges, és csendes menedéket nyújt. Délután a hideg elől a Mikluš-börtön és a Kelet-szlovákiai Múzeum fűtött termeibe húzódunk. Ahogy korán leszáll az alkony, az ünnepi fények mesebeli hellyé varázsolják a belvárost a szökőkút környékén.",
+            "ro": "Dimineața de iarnă începe proaspătă pe strada Principală, unde adesea plutește mirosul de mied fierbinte. Catedrala Sfânta Elisabeta pare deosebit de maiestuoasă în soarele rece de iarnă, oferind liniște în interior. După-amiaza, ne refugiem de frig în lumea fascinantă a închisorii Mikluš și în sălile calde ale Muzeului Slovaciei de Est. Pe măsură ce amurgul coboară devreme, luminile de sărbătoare transformă centrul orașului într-un tărâm de basm.",
+            "en": "A winter morning starts fresh on Main Street, where the scent of hot mead often fills the air. St. Elisabeth Cathedral looks particularly majestic in the cool winter sun, offering peaceful silence inside. In the afternoon, we escape the cold into the fascinating world of Mikluš Prison and the warm halls of the East Slovak Museum. As dusk falls early, festive lights transform the city center into a fairyland around the fountain."
+          },
+          "stops": [
+            {
+              "name": "Main Street (Hlavná ulica)",
+              "tip_5lang": {
+                "de": "Probieren Sie heißen Met an den Ständen.",
+                "hu": "Kóstolja meg a forró mézbort a bódéknál.",
+                "ro": "Gustați miedul fierbinte la tarabe.",
+                "en": "Try some hot mead at the stalls."
+              }
+            },
+            {
+              "name": "Plague Column (Immaculata)",
+              "tip_5lang": {
+                "de": "Oft Zentrum des kleinen Weihnachtsmarktes.",
+                "hu": "Gyakran a kis karácsonyi vásár központja.",
+                "ro": "Adesea centrul micului târg de Crăciun.",
+                "en": "Often the center of the small Christmas market."
+              }
+            },
+            {
+              "name": "St. Elisabeth Cathedral",
+              "tip_5lang": {
+                "de": "Kühl im Inneren, ziehen Sie sich warm an.",
+                "hu": "Hűvös odabent, öltözzön fel melegen.",
+                "ro": "Răcoare în interior, îmbrăcați-vă bine.",
+                "en": "Chilly inside, dress warmly."
+              }
+            },
+            {
+              "name": "St. Michael's Chapel",
+              "tip_5lang": {
+                "de": "Die Beleuchtung wirkt im Schnee wunderschön.",
+                "hu": "A megvilágítás gyönyörű a hóban.",
+                "ro": "Iluminarea arată minunat în zăpadă.",
+                "en": "The lighting looks beautiful in the snow."
+              }
+            },
+            {
+              "name": "Urban Tower",
+              "tip_5lang": {
+                "de": "Im Winter ein tolles Fotomotiv.",
+                "hu": "Télen kiváló fotótéma a torony.",
+                "ro": "Turnul este un subiect foto excelent iarna.",
+                "en": "The tower is a great photo subject in winter."
+              }
+            },
+            {
+              "name": "Mikluš Prison",
+              "tip_5lang": {
+                "de": "Dicke Mauern schützen vor dem Winterwind.",
+                "hu": "A vastag falak védenek a téli széltől.",
+                "ro": "Zidurile groase protejează de vântul de iarnă.",
+                "en": "Thick walls protect from the winter wind."
+              }
+            },
+            {
+              "name": "East Slovak Museum",
+              "tip_5lang": {
+                "de": "Gut beheizte Ausstellungsräume.",
+                "hu": "Jól fűtött kiállítóterek.",
+                "ro": "Spații de expoziție bine încălzite.",
+                "en": "Well-heated exhibition spaces."
+              }
+            },
+            {
+              "name": "Singing Fountain",
+              "tip_5lang": {
+                "de": "Wird im Winter oft durch Licht ersetzt.",
+                "hu": "Télen gyakran fényinstalláció váltja a vizet.",
+                "ro": "Iarna apa este adesea înlocuită de lumini.",
+                "en": "Water is often replaced by light in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Sonnenuntergang ist bereits gegen 16:15 Uhr.",
+              "Besuchen Sie den Weihnachtsmarkt für lokales Essen.",
+              "In den Museen gibt es Garderoben für dicke Jacken.",
+              "Tragen Sie Schichten für den Wechsel zwischen Kälte und Wärme."
+            ],
+            "hu": [
+              "A naplemente már 16:15 körül bekövetkezik.",
+              "Látogasson el a karácsonyi vásárba helyi ételekért.",
+              "A múzeumokban van ruhatár a vastag kabátoknak.",
+              "Öltözzön rétegesen a kinti hideg és benti meleg miatt."
+            ],
+            "ro": [
+              "Apusul soarelui este deja în jurul orei 16:15.",
+              "Vizitați târgul de Crăciun pentru mâncare locală.",
+              "Muzeele au garderobe pentru haine groase.",
+              "Îmbrăcați-vă în straturi pentru diferențele de temperatură."
+            ],
+            "en": [
+              "Sunset is already around 4:15 PM.",
+              "Visit the Christmas market for local food.",
+              "Museums have cloakrooms for heavy coats.",
+              "Dress in layers for the transitions between cold and heat."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -838,6 +1056,224 @@
           "Use the cycle paths along the river for a relaxing tour.",
           "Always lock your bike securely, especially in the city center."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour durch das regnerische Košice erfordert Vorsicht auf dem nassen Kopfsteinpflaster der Hauptstraße. Wir steuern schnell das Staatstheater und den Dom an, um kurze Pausen im Trockenen einzulegen. Jakabs Palast sieht im Regen besonders romantisch aus, bevor wir längere Zeit in den Museen verbringen, wo wir unsere Räder sicher abstellen können. Der Tag endet ruhig am Theaterplatz, während der Regen auf das Dach prasselt.",
+            "hu": "Egy kerékpártúra az esős Kassán óvatosságot igényel a Fő utca vizes macskakövein. Gyorsan a Színház és a Dóm felé vesszük az irányt, rövid száraz szüneteket beiktatva. A Jakab-palota az esőben különösen romantikus látványt nyújt, mielőtt hosszabb időt töltenénk a múzeumokban, ahol biztonságban hagyhatjuk a bringákat. A nap csendesen ér véget a Színház mellett, miközben az eső kopog a tetőkön.",
+            "ro": "O tură cu bicicleta prin Košice pe ploaie necesită prudență pe pavajul umed de pe strada Principală. Ne îndreptăm rapid spre Teatru și Catedrală pentru scurte pauze la uscat. Palatul Jakab arată deosebit de romantic sub ploaie, înainte de a petrece mai mult timp în muzee, unde putem lăsa bicicletele în siguranță. Ziua se încheie liniștit lângă teatru, în timp ce ploaia bate în acoperișuri.",
+            "en": "A bike tour through rainy Košice requires caution on the wet cobblestones of Main Street. We head quickly towards the Theatre and Cathedral for short dry breaks. Jakab's Palace looks particularly romantic in the rain before we spend more time in the museums, where bikes can be parked safely. The day ends quietly by the Theatre as rain patters on the rooftops."
+          },
+          "stops": [
+            {
+              "name": "Main Street (Hlavná ulica)",
+              "tip_5lang": {
+                "de": "Vorsicht bei den Straßenbahnschienen.",
+                "hu": "Vigyázzon a villamossíneken a csúszásveszély miatt.",
+                "ro": "Atenție la șinele de tramvai pe ploaie.",
+                "en": "Watch out for tram tracks when wet."
+              }
+            },
+            {
+              "name": "State Theatre Košice",
+              "tip_5lang": {
+                "de": "Unterstand am Eingang vorhanden.",
+                "hu": "A bejáratnál van fedett rész.",
+                "ro": "Există o zonă acoperită la intrare.",
+                "en": "There is a covered area at the entrance."
+              }
+            },
+            {
+              "name": "St. Elisabeth Cathedral",
+              "tip_5lang": {
+                "de": "Fahrradständer in der Nähe des Nordeingangs.",
+                "hu": "Kerékpártárolók az északi bejárat közelében.",
+                "ro": "Suporturi de biciclete lângă intrarea de nord.",
+                "en": "Bike racks located near the north entrance."
+              }
+            },
+            {
+              "name": "Jakab's Palace",
+              "tip_5lang": {
+                "de": "Stoppen Sie kurz unter den Bäumen gegenüber.",
+                "hu": "Álljon meg rövid időre a szemközti fák alatt.",
+                "ro": "Opriți scurt sub copacii de vizavi.",
+                "en": "Stop briefly under the trees opposite."
+              }
+            },
+            {
+              "name": "Mikluš Prison",
+              "tip_5lang": {
+                "de": "Sicherer Platz zum Anschließen in der Gasse.",
+                "hu": "Biztonságos hely a láncoláshoz a közben.",
+                "ro": "Loc sigur pentru legat bicicleta pe alee.",
+                "en": "Safe place to lock up in the alleyway."
+              }
+            },
+            {
+              "name": "East Slovak Museum",
+              "tip_5lang": {
+                "de": "Hintereingang bietet oft mehr Regenschutz.",
+                "hu": "A hátsó bejárat gyakran több védelmet nyújt.",
+                "ro": "Intrarea din spate oferă adăpost de ploaie.",
+                "en": "The back entrance often offers more rain cover."
+              }
+            },
+            {
+              "name": "Singing Fountain",
+              "tip_5lang": {
+                "de": "Vermeiden Sie Pfützen im Parkbereich.",
+                "hu": "Kerülje el a tócsákat a park területén.",
+                "ro": "Evitați bălțile în zona parcului.",
+                "en": "Avoid puddles in the park area."
+              }
+            },
+            {
+              "name": "Urban Tower",
+              "tip_5lang": {
+                "de": "Schneller Stopp, bevor es wieder regnet.",
+                "hu": "Gyors megálló, mielőtt újra rákezd az eső.",
+                "ro": "Oprire rapidă înainte de a ploua din nou.",
+                "en": "Quick stop before it rains again."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind bei diesem Wetter ein Muss.",
+              "Bremstests auf dem nassen Kopfsteinpflaster machen.",
+              "Wasserfeste Packtaschen für die Kamera verwenden.",
+              "Die Radwege sind bei Regen weniger frequentiert."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen ilyen időben.",
+              "Tesztelje a fékeket a vizes macskakövön.",
+              "Használjon vízálló táskát a felszereléshez.",
+              "A kerékpárutak esőben kevésbé forgalmasak."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt obligatorii pe această vreme.",
+              "Testați frânele pe pavajul umed.",
+              "Folosiți genți impermeabile pentru echipament.",
+              "Pistele de biciclete sunt mai libere pe ploaie."
+            ],
+            "en": [
+              "Mudguards are a must in this weather.",
+              "Test your brakes on the wet cobblestones.",
+              "Use waterproof panniers for your gear.",
+              "Cycle paths are less crowded in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Das winterliche Košice mit dem Rad zu erkunden, bietet eine ganz neue Perspektive auf die verschneite Altstadt. Die Route führt entlang der festlich geschmückten Hauptstraße zum imposanten Dom. Mittags wärmen wir uns in den Museen auf, während die Fahrräder draußen im Frost warten. Jakabs Palast wirkt wie aus Eis gehauen, wenn Raureif die Türme bedeckt. Zum Abschluss genießen wir das Lichtermeer der Urban-Turm-Beleuchtung in der klaren Winternacht.",
+            "hu": "A téli Kassa kerékpáros felfedezése új nézőpontot ad a havas óvárosra. Az útvonal az ünnepi díszbe öltözött Fő utcán vezet az impozáns dómhoz. Délben a múzeumokban melegszünk fel, miközben a biciklik kint várnak a fagyban. A Jakab-palota mintha jégből lenne, amikor zúzmara fedi a tornyait. Végezetül az Orbán-torony fényeiben gyönyörködünk a tiszta téli éjszakában.",
+            "ro": "Explorarea orașului Košice pe bicicletă iarna oferă o perspectivă nouă asupra centrului vechi înzăpezit. Traseul duce pe strada Principală decorată festiv către catedrală. La prânz ne încălzim în muzee, în timp ce bicicletele așteaptă afară în ger. Palatul Jakab pare sculptat în gheață când chiciura acoperă turnurile. La final, admirăm marea de lumini de la Turnul Urban în noaptea senină.",
+            "en": "Exploring winter Košice by bike offers a whole new perspective on the snowy old town. The route leads along the festively decorated Main Street to the imposing cathedral. At noon, we warm up in the museums while the bikes wait outside in the frost. Jakab's Palace looks as if carved from ice when hoarfrost covers its towers. To conclude, we enjoy the sea of lights at Urban Tower in the clear winter night."
+          },
+          "stops": [
+            {
+              "name": "Main Street (Hlavná ulica)",
+              "tip_5lang": {
+                "de": "Vorsicht vor vereisten Stellen auf dem Pflaster.",
+                "hu": "Vigyázzon a jeges foltokkal a macskakövön.",
+                "ro": "Atenție la porțiunile înghețate de pe pavaj.",
+                "en": "Watch out for icy patches on the pavement."
+              }
+            },
+            {
+              "name": "State Theatre Košice",
+              "tip_5lang": {
+                "de": "Die Statuen tragen im Winter oft Schneemützen.",
+                "hu": "A szobrok télen gyakran hósapkát kapnak.",
+                "ro": "Statuile au adesea căciuli de zăpadă iarna.",
+                "en": "The statues often wear snow caps in winter."
+              }
+            },
+            {
+              "name": "St. Elisabeth Cathedral",
+              "tip_5lang": {
+                "de": "Kurzer Halt für Fotos, dann schnell ins Warme.",
+                "hu": "Rövid fotómegálló, aztán irány a meleg.",
+                "ro": "Oprire scurtă pentru poze, apoi rapid la căldură.",
+                "en": "Short photo stop, then head for warmth."
+              }
+            },
+            {
+              "name": "Jakab's Palace",
+              "tip_5lang": {
+                "de": "Besonders fotogen bei blauem Winterhimmel.",
+                "hu": "Különösen fotogén kék téli égbolt mellett.",
+                "ro": "Deosebit de fotogenic sub cerul senin de iarnă.",
+                "en": "Particularly photogenic under a blue winter sky."
+              }
+            },
+            {
+              "name": "Mikluš Prison",
+              "tip_5lang": {
+                "de": "Museumsbesuch ist die beste Kältepause.",
+                "hu": "A múzeumlátogatás a legjobb pihenő a hidegben.",
+                "ro": "Vizita la muzeu este cea mai bună pauză de frig.",
+                "en": "A museum visit is the best break from the cold."
+              }
+            },
+            {
+              "name": "East Slovak Museum",
+              "tip_5lang": {
+                "de": "Fahrradschloss kann bei Frost einfrieren.",
+                "hu": "A kerékpárzár megfagyhat a nagy hidegben.",
+                "ro": "Antifurtul se poate bloca la ger.",
+                "en": "Bike locks can freeze in heavy frost."
+              }
+            },
+            {
+              "name": "Singing Fountain",
+              "tip_5lang": {
+                "de": "Die Parkbänke sind oft mit Schnee bedeckt.",
+                "hu": "A parki padokat gyakran hó borítja.",
+                "ro": "Băncile din parc sunt adesea acoperite de zăpadă.",
+                "en": "Park benches are often covered in snow."
+              }
+            },
+            {
+              "name": "Urban Tower",
+              "tip_5lang": {
+                "de": "Abends herrlich beleuchtet.",
+                "hu": "Este gyönyörűen meg van világítva.",
+                "ro": "Iluminat superb pe timpul serii.",
+                "en": "Wonderfully illuminated in the evening."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Handschuhe beim Fahren.",
+              "Achten Sie auf Räumdienste im Zentrum.",
+              "Der Reifendruck sollte etwas niedriger sein für Grip.",
+              "Nutzen Sie helle Lichter für die frühe Dunkelheit."
+            ],
+            "hu": [
+              "Viseljen szélálló kesztyűt tekerés közben.",
+              "Figyeljen a hókotrókra a belvárosban.",
+              "A keréknyomás legyen kicsit alacsonyabb a tapadásért.",
+              "Használjon erős lámpákat a korai sötétedés miatt."
+            ],
+            "ro": [
+              "Purtați mănuși rezistente la vânt.",
+              "Atenție la utilajele de deszăpezire din centru.",
+              "Presiunea în pneuri trebuie să fie mai mică pentru aderență.",
+              "Folosiți lumini puternice pentru întunericul timpuriu."
+            ],
+            "en": [
+              "Wear windproof gloves while riding.",
+              "Watch out for snow clearing services in the center.",
+              "Tire pressure should be slightly lower for better grip.",
+              "Use bright lights for the early darkness."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1186,6 +1622,206 @@
           "A trip to the surrounding hills is easy and worthwhile by car.",
           "Pay attention to the parking zones and their restrictions."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag in Košice lässt sich bequem mit dem Auto gestalten, indem man strategisch zwischen den Parkplätzen und den großen Museen pendelt. Wir starten am Ostslowakischen Museum und besuchen danach das Mikluš-Gefängnis, wobei das Auto als trockene Basis dient. Mittags parken wir nahe der Hlavná, um den Dom zu besichtigen. Den Abschluss bildet die Fahrt zur Hradová-Aussicht, wo der Nebel über den Wäldern eine mystische Kulisse schafft.",
+            "hu": "Egy esős kassai nap kényelmesen megoldható autóval, stratégiai pontokon parkolva a múzeumok és látnivalók között. A Kelet-szlovákiai Múzeumnál kezdünk, majd a Mikluš-börtön következik, miközben az autó száraz bázisként szolgál. Délben a Fő utca közelében parkolunk a dómhoz. A napot a Hradová-kilátóhoz való felhajtás zárja, ahol a ködös erdő misztikus látványt nyújt.",
+            "ro": "O zi ploioasă în Košice poate fi parcursă confortabil cu mașina, pendulând între parcări și marile muzee. Începem la Muzeul Slovaciei de Est și vizităm apoi închisoarea Mikluš, mașina servind drept bază uscată. La prânz parcăm lângă strada Principală pentru catedrală. Finalul este marcat de drumul spre turnul de observație Hradová, unde ceața peste păduri creează un cadru mistic.",
+            "en": "A rainy day in Košice can be comfortably spent by car, strategically shuttling between parking lots and major museums. We start at the East Slovak Museum and then visit Mikluš Prison, using the car as a dry base. At noon, we park near Main Street to see the cathedral. The day concludes with a drive to the Hradová observation tower, where mist over the forests creates a mystical backdrop."
+          },
+          "stops": [
+            {
+              "name": "Parking at the East Slovak Museum",
+              "tip_5lang": {
+                "de": "Oft Pfützenbildung auf dem Parkplatz.",
+                "hu": "A parkolóban gyakran alakulnak ki tócsák.",
+                "ro": "Adesea se formează bălți în parcare.",
+                "en": "Puddles often form in the parking lot."
+              }
+            },
+            {
+              "name": "East Slovak Museum",
+              "tip_5lang": {
+                "de": "Kurzer Weg vom Auto zum Eingang.",
+                "hu": "Rövid séta az autótól a bejáratig.",
+                "ro": "Drum scurt de la mașină la intrare.",
+                "en": "Short walk from the car to the entrance."
+              }
+            },
+            {
+              "name": "Mikluš Prison",
+              "tip_5lang": {
+                "de": "Parken Sie in der nahen Seitenstraße.",
+                "hu": "Parkoljon a közeli mellékutcában.",
+                "ro": "Parcați pe strada laterală din apropiere.",
+                "en": "Park in the nearby side street."
+              }
+            },
+            {
+              "name": "Parking near Main Street",
+              "tip_5lang": {
+                "de": "Überdachte Parkhäuser in der Nähe bevorzugen.",
+                "hu": "Részesítse előnyben a közeli fedett parkolóházakat.",
+                "ro": "Preferați parcările supraetajate acoperite din zonă.",
+                "en": "Prefer covered parking garages nearby."
+              }
+            },
+            {
+              "name": "St. Elisabeth Cathedral",
+              "tip_5lang": {
+                "de": "Regenschirm für die kurze Fußgängerzone.",
+                "hu": "Esernyő ajánlott a rövid gyalogos szakaszra.",
+                "ro": "Umbrelă recomandată pentru zona pietonală scurtă.",
+                "en": "Umbrella recommended for the short pedestrian zone."
+              }
+            },
+            {
+              "name": "State Theatre Košice & Singing Fountain",
+              "tip_5lang": {
+                "de": "Die Fontäne wirkt im Regen besonders dynamisch.",
+                "hu": "A szökőkút esőben kifejezetten dinamikus látvány.",
+                "ro": "Fântâna pare foarte dinamică pe ploaie.",
+                "en": "The fountain looks particularly dynamic in the rain."
+              }
+            },
+            {
+              "name": "Hradová Observation Tower",
+              "tip_5lang": {
+                "de": "Vorsicht auf der kurvigen Bergstraße.",
+                "hu": "Vigyázzon a kanyargós hegyi úton az esőben.",
+                "ro": "Atenție pe drumul de munte sinuos pe ploaie.",
+                "en": "Be careful on the winding mountain road in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie das Parkhaus Aupark für trockenen Zugang.",
+              "Prüfen Sie die Sichtverhältnisse für Hradová.",
+              "Scheibenwischer vor der Bergfahrt kontrollieren.",
+              "Viele Museen haben Parkplätze direkt vor der Tür."
+            ],
+            "hu": [
+              "Használja az Aupark parkolóházat a száraz bejutáshoz.",
+              "Ellenőrizze a látási viszonyokat a Hradová előtt.",
+              "Ellenőrizze az ablaktörlőket a hegyi út előtt.",
+              "Sok múzeumnak van saját parkolója a bejáratnál."
+            ],
+            "ro": [
+              "Folosiți parcarea Aupark pentru acces la uscat.",
+              "Verificați vizibilitatea înainte de a merge la Hradová.",
+              "Controlați ștergătoarele înainte de drumul la munte.",
+              "Multe muzee au parcări chiar la intrare."
+            ],
+            "en": [
+              "Use the Aupark parking garage for dry access.",
+              "Check visibility conditions before heading to Hradová.",
+              "Check wipers before the mountain drive.",
+              "Many museums have parking lots right at the door."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterkomfort in Košice bedeutet, die beheizten Vorzüge des Autos zu nutzen, während draußen der Schnee die Stadt verzaubert. Die Tour beginnt an den warmen Ausstellungen des Ostslowakischen Museums und führt weiter zum Mikluš-Gefängnis. Mittags bietet das Parken in Zentrumsnähe einen kurzen Weg zum Elisabeth-Dom. Die Krönung ist die Fahrt zur Hradová, wo man oft einen weiten Blick über die schneebedeckten Dächer von Košice und das Umland hat.",
+            "hu": "A téli kényelem Kassán az autó fűtött kényelmét jelenti, miközben kint a hó elvarázsolja a várost. A túra a Kelet-szlovákiai Múzeum meleg kiállításaival indul, majd a Mikluš-börtön következik. Délben a belváros közeli parkolás rövid sétát tesz lehetővé a dómhoz. A nap fénypontja a Hradovára való felhajtás, ahonnan gyakran tiszta kilátás nyílik Kassa havas háztetőire.",
+            "ro": "Confortul de iarnă în Košice înseamnă utilizarea mașinii încălzite, în timp ce afară zăpada vrăjește orașul. Turul începe la expozițiile calde ale Muzeului Slovaciei de Est și continuă spre închisoarea Mikluš. La prânz, parcarea aproape de centru permite un drum scurt spre catedrală. Punctul culminant este drumul spre Hradová, de unde aveți adesea o vedere panoramică peste acoperișurile înzăpezite.",
+            "en": "Winter comfort in Košice means using the heated car while snow enchants the city outside. The tour begins at the warm exhibitions of the East Slovak Museum and continues to Mikluš Prison. At noon, parking near the center allows for a short walk to the cathedral. The highlight is the drive to Hradová, where you often have a clear view over the snow-covered rooftops."
+          },
+          "stops": [
+            {
+              "name": "Parking at the East Slovak Museum",
+              "tip_5lang": {
+                "de": "Parkplatz wird meist schnell geräumt.",
+                "hu": "A parkolót általában gyorsan letakarítják.",
+                "ro": "Parcarea este de obicei deszăpezită rapid.",
+                "en": "The parking lot is usually cleared quickly."
+              }
+            },
+            {
+              "name": "East Slovak Museum",
+              "tip_5lang": {
+                "de": "Lassen Sie die Mäntel an der Garderobe.",
+                "hu": "Hagyja a kabátokat a ruhatárban.",
+                "ro": "Lăsați hainele la garderobă.",
+                "en": "Leave your coats in the cloakroom."
+              }
+            },
+            {
+              "name": "Mikluš Prison",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg durch die historische Gasse.",
+                "hu": "Rövid séta a történelmi közön keresztül.",
+                "ro": "Drum scurt pe jos prin aleea istorică.",
+                "en": "Short walk through the historic alley."
+              }
+            },
+            {
+              "name": "Parking near Main Street",
+              "tip_5lang": {
+                "de": "Vorsicht beim Einparken in Schneehaufen.",
+                "hu": "Vigyázzon a hóbuckák közötti parkolásnál.",
+                "ro": "Atenție la parcarea printre mormane de zăpadă.",
+                "en": "Be careful when parking between snow banks."
+              }
+            },
+            {
+              "name": "St. Elisabeth Cathedral",
+              "tip_5lang": {
+                "de": "Der Platz davor wird festlich beleuchtet.",
+                "hu": "A dóm előtti tér ünnepi megvilágítást kap.",
+                "ro": "Piața din față este iluminată festiv.",
+                "en": "The square in front is festively illuminated."
+              }
+            },
+            {
+              "name": "State Theatre Košice & Singing Fountain",
+              "tip_5lang": {
+                "de": "Eisformationen an der Fontäne möglich.",
+                "hu": "Jégalakzatok képződhetnek a szökőkútnál.",
+                "ro": "Se pot forma formațiuni de gheață la fântână.",
+                "en": "Ice formations may occur at the fountain."
+              }
+            },
+            {
+              "name": "Hradová Observation Tower",
+              "tip_5lang": {
+                "de": "Winterreifen und Vorsicht sind Pflicht.",
+                "hu": "Téli gumi és óvatosság kötelező.",
+                "ro": "Anvelopele de iarnă și prudența sunt obligatorii.",
+                "en": "Winter tires and caution are mandatory."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Parkhäuser sind wärmer für das Auto.",
+              "Achten Sie auf Glatteis in den Nebenstraßen.",
+              "Hradová ist bei Sonnenuntergang spektakulär.",
+              "Halten Sie Enteiser für die Schlösser bereit."
+            ],
+            "hu": [
+              "A parkolóházak melegebbek az autónak.",
+              "Figyeljen a felfagyásokra a mellékutcákban.",
+              "A Hradová naplementekor látványos.",
+              "Legyen kéznél jégoldó a zárakhoz."
+            ],
+            "ro": [
+              "Parcările acoperite sunt mai calde pentru mașină.",
+              "Atenție la polei pe străzile secundare.",
+              "Hradová este spectaculoasă la apus.",
+              "Aveți la îndemână spray de dezghețare pentru încuietori."
+            ],
+            "en": [
+              "Parking garages are warmer for the car.",
+              "Watch out for black ice in side streets.",
+              "Hradová is spectacular at sunset.",
+              "Keep de-icer ready for the locks."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1534,6 +2170,206 @@
           "Most stops in the center are equipped with digital displays.",
           "The `imhd.sk` app is very useful for route planning in Slovakia."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit den öffentlichen Verkehrsmitteln lässt sich Košice auch bei Regen wunderbar erkunden. Wir starten am Knotenpunkt Námestie osloboditeľov und fahren direkt zum Ostslowakischen Museum. Die kurzen Wege zwischen den Haltestellen und den Sehenswürdigkeiten minimieren den Kontakt mit dem Regen. Mittags bringt uns die Tram zum Dom, wo wir im Trockenen verweilen können. Der Tag endet bequem mit einer Busfahrt zurück, während man die nassen Straßen aus dem Fenster beobachtet.",
+            "hu": "Tömegközlekedéssel Kassa esőben is remekül felfedezhető. A Námestie osloboditeľov csomóponttól indulunk, és közvetlenül a Kelet-szlovákiai Múzeumhoz utazunk. A megállók és a látnivalók közötti rövid távolság minimalizálja az esőben töltött időt. Délben a villamos a dómhoz repít, ahol szárazon maradhatunk. A nap kényelmesen ér véget a buszon, miközben az ablakból figyeljük a vizes utcákat.",
+            "ro": "Cu transportul public, Košice poate fi explorat minunat chiar și pe ploaie. Începem de la nodul Námestie osloboditeľov și mergem direct la Muzeul Slovaciei de Est. Distanțele scurte între stații și obiective minimizează contactul cu ploaia. La prânz, tramvaiul ne duce la catedrală, unde putem rămâne la uscat. Ziua se încheie confortabil cu o cursă de autobuz, privind străzile ude de la fereastră.",
+            "en": "With public transport, Košice can be wonderfully explored even in the rain. We start at the Námestie osloboditeľov hub and travel directly to the East Slovak Museum. The short distances between stops and sights minimize contact with the rain. At noon, the tram takes us to the cathedral, where we can stay dry. The day ends comfortably with a bus ride back, watching the wet streets from the window."
+          },
+          "stops": [
+            {
+              "name": "Námestie osloboditeľov stop",
+              "tip_5lang": {
+                "de": "Großer Unterstand am zentralen Knotenpunkt.",
+                "hu": "Nagy fedett várakozó a központi csomópontnál.",
+                "ro": "Adăpost mare la nodul central.",
+                "en": "Large shelter at the central hub."
+              }
+            },
+            {
+              "name": "Jakab's Palace",
+              "tip_5lang": {
+                "de": "Nur 2 Minuten Fußweg von der Haltestelle.",
+                "hu": "Csak 2 perc séta a megállótól.",
+                "ro": "Doar 2 minute de mers pe jos de la stație.",
+                "en": "Only a 2-minute walk from the stop."
+              }
+            },
+            {
+              "name": "East Slovak Museum",
+              "tip_5lang": {
+                "de": "Die Straßenbahn hält fast vor der Tür.",
+                "hu": "A villamos szinte az ajtó előtt áll meg.",
+                "ro": "Tramvaiul oprește aproape în fața ușii.",
+                "en": "The tram stops almost in front of the door."
+              }
+            },
+            {
+              "name": "Dom sv. Alžbety stop",
+              "tip_5lang": {
+                "de": "Zentraler Ausstiegspunkt im Trockenen.",
+                "hu": "Központi leszállóhely a dóm közelében.",
+                "ro": "Punct central de coborâre lângă catedrală.",
+                "en": "Central drop-off point near the cathedral."
+              }
+            },
+            {
+              "name": "St. Elisabeth Cathedral",
+              "tip_5lang": {
+                "de": "Verweilen Sie länger in der Schatzkammer.",
+                "hu": "Időzzön többet a kincstárban.",
+                "ro": "Zăboviți mai mult în trezorerie.",
+                "en": "Spend more time in the treasury."
+              }
+            },
+            {
+              "name": "Main Street & Plague Column",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Durchgänge zwischen den Häusern.",
+                "hu": "Használja a házak közötti átjárókat.",
+                "ro": "Folosiți pasajele dintre clădiri.",
+                "en": "Use the passages between the buildings."
+              }
+            },
+            {
+              "name": "Singing Fountain & State Theatre",
+              "tip_5lang": {
+                "de": "Schneller Weg zur nächsten Tramhaltestelle.",
+                "hu": "Gyors út a következő villamosmegállóhoz.",
+                "ro": "Drum rapid către următoarea stație de tramvai.",
+                "en": "Quick path to the next tram stop."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie Tickets vorab über die App.",
+              "Die Tramlinie 2 verbindet fast alle Ziele.",
+              "Haltestellen im Zentrum sind meist überdacht.",
+              "Fahrpläne sind bei Regen sehr zuverlässig."
+            ],
+            "hu": [
+              "Vásároljon jegyet előre az applikációban.",
+              "A 2-es villamos majdnem minden célt összeköt.",
+              "A belvárosi megállók többnyire fedettek.",
+              "A menetrend esőben is megbízható."
+            ],
+            "ro": [
+              "Cumpărați bilete în avans prin aplicație.",
+              "Tramvaiul 2 leagă aproape toate destinațiile.",
+              "Stațiile din centru sunt majoritatea acoperite.",
+              "Orarele sunt foarte sigure pe ploaie."
+            ],
+            "en": [
+              "Buy tickets in advance via the app.",
+              "Tram line 2 connects almost all destinations.",
+              "Stops in the center are mostly covered.",
+              "Timetables are very reliable in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Das winterliche Košice lässt sich am besten in den warmen Fahrzeugen der Verkehrsbetriebe entdecken. Von Námestie osloboditeľov geht es schnell zum Ostslowakischen Museum, wo die Schätze im Warmen warten. Die kurzen Wege im Zentrum zum Elisabeth-Dom sind auch bei Schnee kein Hindernis. Nachmittags genießen wir die Atmosphäre der beleuchteten Hlavná, bevor wir mit der nächsten Tram direkt zurück ins Warme fahren. Ein gemütlicher Weg, die winterliche Stadt ohne kalte Füße zu sehen.",
+            "hu": "A téli Kassa a legjobban a közlekedési vállalat meleg járművein fedezhető fel. A Námestie osloboditeľovtól gyorsan eljutunk a Kelet-szlovákiai Múzeumba, ahol melegben várnak a kincsek. A belvárosi rövid séták a dómhoz hóban sem jelentenek akadályt. Délután az ünnepi fényekben úszó Fő utca hangulatát élvezzük, mielőtt a következő villamossal visszautaznánk a melegbe. Kényelmes módja a téli városnézésnek.",
+            "ro": "Košice iarna se descoperă cel mai bine în vehiculele calde ale regiei de transport. De la Námestie osloboditeľov ajungem rapid la Muzeul Slovaciei de Est, unde comorile așteaptă la căldură. Drumurile scurte din centru spre catedrală nu sunt un obstacol nici pe zăpadă. După-amiaza ne bucurăm de atmosfera străzii Principală iluminate, înainte de a ne întoarce cu următorul tramvai la căldură. O cale confortabilă de vizitare.",
+            "en": "Winter Košice is best discovered in the warm vehicles of the public transport service. From Námestie osloboditeľov, it is a quick trip to the East Slovak Museum, where treasures await in the warmth. Short walks in the center to the cathedral are no obstacle even in the snow. In the afternoon, we enjoy the atmosphere of illuminated Main Street before heading back in the warmth of the next tram."
+          },
+          "stops": [
+            {
+              "name": "Námestie osloboditeľov stop",
+              "tip_5lang": {
+                "de": "Beheizte Wartebereiche in nahen Einkaufszentren.",
+                "hu": "Fűtött váróhelyek a közeli bevásárlóközpontokban.",
+                "ro": "Zone de așteptare încălzite în mall-urile din apropiere.",
+                "en": "Heated waiting areas in nearby malls."
+              }
+            },
+            {
+              "name": "Jakab's Palace",
+              "tip_5lang": {
+                "de": "Im Schnee wirkt der Palast wie verzaubert.",
+                "hu": "A hóban a palota elvarázsoltnak tűnik.",
+                "ro": "În zăpadă, palatul pare fermecat.",
+                "en": "In the snow, the palace looks enchanted."
+              }
+            },
+            {
+              "name": "East Slovak Museum",
+              "tip_5lang": {
+                "de": "Perfekte Aufwärmpause zwischen den Fahrten.",
+                "hu": "Tökéletes melegedő szünet az utak között.",
+                "ro": "Pauză perfectă de încălzire între drumuri.",
+                "en": "Perfect warm-up break between rides."
+              }
+            },
+            {
+              "name": "Dom sv. Alžbety stop",
+              "tip_5lang": {
+                "de": "Häufige Taktung der Bahnen im Winter.",
+                "hu": "A villamosok télen is sűrűn járnak.",
+                "ro": "Frecvență mare a tramvaielor iarna.",
+                "en": "Frequent tram services in winter."
+              }
+            },
+            {
+              "name": "St. Elisabeth Cathedral",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Krypta für Windschutz.",
+                "hu": "Látogassa meg a kriptát a szélvédelemért.",
+                "ro": "Vizitați cripta pentru protecție la vânt.",
+                "en": "Visit the crypt for wind protection."
+              }
+            },
+            {
+              "name": "Main Street & Plague Column",
+              "tip_5lang": {
+                "de": "Der Wintermarkt ist nur Schritte entfernt.",
+                "hu": "A téli vásár csak pár lépésre van.",
+                "ro": "Târgul de iarnă este la doar câțiva pași.",
+                "en": "The winter market is just steps away."
+              }
+            },
+            {
+              "name": "Singing Fountain & State Theatre",
+              "tip_5lang": {
+                "de": "Tramhaltestelle bietet Schutz vor dem Wind.",
+                "hu": "A villamosmegálló védelmet nyújt a szél ellen.",
+                "ro": "Stația de tramvai oferă protecție contra vântului.",
+                "en": "The tram stop provides protection from the wind."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Trams sind im Winter meist gut geheizt.",
+              "Nutzen Sie die App für Echtzeit-Abfahrten.",
+              "Abends ist die Stadtbahnfahrt sehr stimmungsvoll.",
+              "Vorsicht vor Schneematsch an den Haltestellen."
+            ],
+            "hu": [
+              "A villamosok télen általában jól fűtöttek.",
+              "Használja az appot a valós idejű indulásokhoz.",
+              "Este a villamosozás nagyon hangulatos a fényekben.",
+              "Vigyázzon a hókására a megállóknál."
+            ],
+            "ro": [
+              "Tramvaiele sunt de obicei bine încălzite iarna.",
+              "Folosiți aplicația pentru plecări în timp real.",
+              "Seara, mersul cu tramvaiul este foarte atmosferic.",
+              "Atenție la fleșcăraia de zăpadă din stații."
+            ],
+            "en": [
+              "Trams are usually well-heated in winter.",
+              "Use the app for real-time departures.",
+              "Evening tram rides are very atmospheric with the lights.",
+              "Watch out for slush at the stops."
+            ]
+          }
+        }
       }
     }
   }

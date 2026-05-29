@@ -386,6 +386,206 @@
           "Most shops and cafes accept cards, but it's good to have some cash on hand.",
           "Don't forget sunscreen and a hat."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bieten die Arkaden am Marktplatz Schutz vor dem Regen. Ein kurzer Halt am Denkmal führt uns zum überdachten Hafenterminal, wo man das graue Meer beobachten kann. Mittags wärmt die Atmosphäre in der Agios-Andreas-Kirche, bevor ein regnerischer Spaziergang zur Promenade ansteht. Der Nachmittag gehört dem Kulturzentrum als trockenem Zufluchtsort. Den Tag lassen wir gemütlich in einer Taverne in Dilesi ausklingen, während der Regen gegen die Scheiben peitscht.",
+            "hu": "A reggelt a főtér árkádjai alatt kezdjük, elkerülve a záporokat. Egy gyors megálló után a kikötő fedett várótermében figyeljük az öblöt. Délben az Szent András-templom békéje nyújt menedéket, majd az esőben is hangulatos tengerparti sétány következik. Délután az Oroposzi Kulturális Központ belső tereiben kalandozunk. Az estét egy dilesi tengerparti étteremben zárjuk, ahol a meleg szobából nézhetjük a hullámzó tengert.",
+            "ro": "Dimineața începe sub arcadele pieței centrale, feriți de ploaie. După o scurtă oprire la monument, ne refugiem în terminalul acoperit al portului. La prânz, biserica Agios Andreas oferă un adăpost liniștit, urmată de o plimbare rapidă pe faleză. După-amiaza este dedicată Centrului Cultural, locul perfect pentru a scăpa de vremea rea. Seara se încheie la o tavernă din Dilesi, savurând cina în timp ce privim ploaia peste mare.",
+            "en": "Morning starts under the market awnings to stay dry. After a quick visit to the monument, we head to the sheltered ferry terminal at the port. At noon, the interior of Agios Andreas Church provides a peaceful refuge before a damp stroll along the promenade. The afternoon is spent indoors at the Cultural Center, escaping the downpour. We conclude the day at a seaside restaurant in Dilesi, watching the rainy coastline from a warm table."
+          },
+          "stops": [
+            {
+              "name": "Market Square",
+              "tip_5lang": {
+                "de": "Unter den Markisen der Cafés bleiben Sie trocken.",
+                "hu": "Használja a kávézók előtetőit a várakozáshoz.",
+                "ro": "Stați sub copertinele cafenelelor pentru a rămâne uscat.",
+                "en": "Use the cafe awnings to stay dry while observing the square."
+              }
+            },
+            {
+              "name": "Monument of the Fallen",
+              "tip_5lang": {
+                "de": "Ein sehr kurzer Stopp, da es keinen Unterstand gibt.",
+                "hu": "Rövid megálló, mivel nincs fedett rész a közelben.",
+                "ro": "O oprire scurtă, deoarece nu există adăpost în zonă.",
+                "en": "A very brief stop as there is no cover directly at the monument."
+              }
+            },
+            {
+              "name": "Port of Skala Oropou",
+              "tip_5lang": {
+                "de": "Das Fährterminal bietet guten Schutz vor Wind und Regen.",
+                "hu": "A kompterminál kiváló szélvédett és fedett hely.",
+                "ro": "Terminalul de feribot oferă protecție bună împotriva ploii.",
+                "en": "The ferry terminal provides excellent shelter from the rain."
+              }
+            },
+            {
+              "name": "Agios Andreas Church",
+              "tip_5lang": {
+                "de": "Ein idealer Ort für eine ruhige, trockene Pause.",
+                "hu": "Ideális helyszín egy csendes és száraz pihenőhöz.",
+                "ro": "Un loc ideal pentru o pauză liniștită și uscată.",
+                "en": "An ideal spot for a quiet and dry break indoors."
+              }
+            },
+            {
+              "name": "Beach Promenade",
+              "tip_5lang": {
+                "de": "Achten Sie auf rutschige Fliesen bei Nässe.",
+                "hu": "Vigyázzon a csúszós burkolatra az esőben.",
+                "ro": "Atenție la pavajul alunecos când este umed.",
+                "en": "Be careful on the slippery tiles during wet weather."
+              }
+            },
+            {
+              "name": "Oropos Cultural Center",
+              "tip_5lang": {
+                "de": "Perfekter Zufluchtsort für die regenreichsten Stunden.",
+                "hu": "Tökéletes menedék a leghevesebb esőzés idején.",
+                "ro": "Refugiul perfect pentru orele cu ploaie torențială.",
+                "en": "The perfect indoor escape during the heaviest rain."
+              }
+            },
+            {
+              "name": "Dilesi Beach",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit großen Panoramafenstern.",
+                "hu": "Válasszon egy nagy ablakos, tengerre néző éttermet.",
+                "ro": "Alegeți un restaurant cu ferestre mari spre mare.",
+                "en": "Choose a restaurant with large windows to enjoy the sea view."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Regenschirm ist wegen des Seewinds wichtig.",
+              "Die Fähren bieten im Inneren warme Sitzplätze.",
+              "Nutzen Sie die Cafés am Hafen als Zwischenstopps.",
+              "Wasserdichtes Schuhwerk ist für die Uferpromenade ratsam."
+            ],
+            "hu": [
+              "Az erős tengeri szél miatt stabil esernyőt vigyen.",
+              "A kompok belső terei fűtöttek és szárazak.",
+              "A kikötői kávézók jó megállóhelyek esőben.",
+              "Vízálló cipő ajánlott a parti sétányhoz."
+            ],
+            "ro": [
+              "O umbrelă rezistentă este necesară din cauza vântului.",
+              "Feriboturile oferă locuri calde și uscate în interior.",
+              "Folosiți cafenelele din port ca puncte de oprire.",
+              "Încălțămintea impermeabilă este recomandată pentru faleză."
+            ],
+            "en": [
+              "A sturdy umbrella is essential due to the coastal wind.",
+              "Ferries offer warm, dry seating inside if you need a break.",
+              "Use harbor cafes as convenient stopping points in the rain.",
+              "Waterproof footwear is advised for the promenade walk."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen am Marktplatz ist frisch, ideal für einen heißen Kaffee. Nach dem Besuch des Denkmals bietet der Hafen klare Sicht auf das winterliche Euböa. Mittags spendet die Kirche Wärme, bevor ein belebender Spaziergang an der kühlen Promenade folgt. Das Kulturzentrum bietet nachmittags ein warmes Programm. Da die Sonne früh untergeht, genießen wir das Abendessen in Dilesi bereits in der Dämmerung bei gemütlichem Kaminfeuer.",
+            "hu": "A téli reggel friss levegővel fogad a főtéren, kiváló egy forró kávéhoz. A kikötőben ilyenkor a legtisztább a kilátás Euboiára. Délben a templom csendje és melege vár, majd a hűvös parti sétányon frissülünk fel. Délután a Kulturális Központ programjai kötnek le minket. Mivel korán sötétedik, a dilesi vacsorát már a szürkületben, egy kandallós taverna melegében költjük el.",
+            "ro": "Dimineața de iarnă este revigorantă în piață, perfectă pentru o cafea fierbinte. Portul oferă vederi clare spre Evia în aerul rece. La prânz, biserica oferă căldură sufletească și fizică, urmată de o plimbare pe faleza vântoasă. Centrul Cultural ne primește după-amiaza într-un cadru cald. Deoarece soarele apune devreme, cina în Dilesi începe la amurg, lângă un șemineu primitor.",
+            "en": "Winter mornings are crisp at the market, perfect for a hot Greek coffee. The port offers crystal clear views of Euboea in the cool air. At noon, the church provides warmth before an invigorating walk along the chilly promenade. The Cultural Center hosts indoor activities in the afternoon. With an early sunset, we enjoy dinner in Dilesi as the twilight sets in, cozying up in a warm local taverna."
+          },
+          "stops": [
+            {
+              "name": "Market Square",
+              "tip_5lang": {
+                "de": "Ein heißer griechischer Kaffee wärmt den Start auf.",
+                "hu": "Egy forró görög kávéval jól indul a nap.",
+                "ro": "O cafea grecească fierbinte este perfectă pentru start.",
+                "en": "A hot Greek coffee is perfect to start the cold morning."
+              }
+            },
+            {
+              "name": "Monument of the Fallen",
+              "tip_5lang": {
+                "de": "Kurzer Stopp; die klare Winterluft ist hier sehr frisch.",
+                "hu": "Rövid megálló; a tiszta téli levegő itt igen friss.",
+                "ro": "Oprire scurtă; aerul curat de iarnă este foarte rece aici.",
+                "en": "Brief stop; the clear winter air is very fresh here."
+              }
+            },
+            {
+              "name": "Port of Skala Oropou",
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Fernsicht auf die Berge von Evia.",
+                "hu": "Élvezze a tiszta kilátást Euboia hegyeire.",
+                "ro": "Bucurați-vă de vizibilitatea clară spre munții din Evia.",
+                "en": "Enjoy the crystal clear views of the mountains of Euboea."
+              }
+            },
+            {
+              "name": "Agios Andreas Church",
+              "tip_5lang": {
+                "de": "Ein warmer Ort, um sich kurz aufzuwärmen.",
+                "hu": "Meleg helyszín egy rövid felmelegedéshez.",
+                "ro": "Un loc călduros pentru a vă încălzi puțin.",
+                "en": "A warm place to heat up for a few minutes."
+              }
+            },
+            {
+              "name": "Beach Promenade",
+              "tip_5lang": {
+                "de": "Der Wind vom Meer kann im Winter sehr schneidend sein.",
+                "hu": "A tenger felőli szél télen igen metsző lehet.",
+                "ro": "Vântul dinspre mare poate fi foarte tăios iarna.",
+                "en": "The sea breeze can be very biting in the winter."
+              }
+            },
+            {
+              "name": "Oropos Cultural Center",
+              "tip_5lang": {
+                "de": "Prüfen Sie die lokalen Winterveranstaltungen im Innenraum.",
+                "hu": "Nézze meg a helyi téli beltéri programokat.",
+                "ro": "Verificați evenimentele locale de iarnă desfășurate la interior.",
+                "en": "Check for local indoor winter events and exhibitions."
+              }
+            },
+            {
+              "name": "Dilesi Beach",
+              "tip_5lang": {
+                "de": "Suchen Sie Tavernen mit traditionellen Kaminöfen.",
+                "hu": "Keressen hagyományos kandallóval fűtött tavernákat.",
+                "ro": "Căutați taverne cu șeminee tradiționale.",
+                "en": "Look for tavernas with traditional wood-burning stoves."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich im Zwiebelprinzip gegen den Seewind.",
+              "Der Sonnenuntergang ist bereits gegen 17:15 Uhr.",
+              "Viele Strandbars sind im Winter geschlossen, nutzen Sie die Tavernen.",
+              "Die Luftqualität ist im Winter oft hervorragend für Fotos."
+            ],
+            "hu": [
+              "Öltözzön rétegesen a hideg tengeri szél miatt.",
+              "A napnyugta korán, 17:15 körül várható.",
+              "Sok strandbár zárva van, keresse a belső tavernákat.",
+              "A téli levegő tisztasága kiváló fotózáshoz."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi împotriva vântului marin.",
+              "Apusul soarelui are loc devreme, în jurul orei 17:15.",
+              "Multe baruri de plajă sunt închise; folosiți tavernele.",
+              "Claritatea aerului de iarnă este excelentă pentru fotografii."
+            ],
+            "en": [
+              "Dress in layers to protect against the cold sea wind.",
+              "Sunset is early, around 5:15 PM, plan accordingly.",
+              "Many beach bars are closed; stick to the inland tavernas.",
+              "The winter air clarity is often superb for photography."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -742,6 +942,188 @@
           "Check the opening hours of the Amphiaraion in advance.",
           "A small bike lock is useful."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour beginnt auf der nassen Promenade, wo Vorsicht geboten ist. Am Hafen suchen wir Schutz unter den Dächern, bevor wir zum Marktplatz weiterfahren. Nach einem Besuch in der Kirche radeln wir durch den Regen nach Dilesi. Der krönende, aber anstrengende Abschluss ist die Fahrt zum Amphiaraion, wo die antiken Steine im Regen glänzen. Ein Tag für echte Radsportler, die dem Wetter trotzen.",
+            "hu": "A kerékpározás a vizes sétányon kezdődik, ahol óvatosan kell manőverezni. A kikötőnél fedél alá húzódunk, majd a főtér felé vesszük az irányt. A templomi pihenő után az esőben tekerünk át Dilesi strandjára. A napot az Amphiaraionnál zárjuk, ahol az ókori romok misztikusan csillognak az esőben. Igazi kihívás ez a megszállott bicikliseknek, akik nem félnek az elemektől.",
+            "ro": "Turul cu bicicleta începe pe faleza umedă, unde prudența este esențială. În port căutăm adăpost sub acoperișuri, apoi continuăm spre piață. După o pauză la biserică, pedalăm prin ploaie spre plaja Dilesi. Finalul spectaculos este urcarea spre Amphiaraion, unde pietrele antice strălucesc sub picăturile de ploaie. O zi pentru bicicliștii determinați care înfruntă vremea.",
+            "en": "The bike ride starts on the wet promenade, requiring careful steering. At the port, we seek cover before cycling to the market square. After a church visit, we pedal through the rain towards Dilesi beach. The challenging finale is the ride up to Amphiaraion, where the ancient ruins glisten beautifully in the wet. A day for dedicated cyclists who aren't deterred by the elements."
+          },
+          "stops": [
+            {
+              "name": "Beach Promenade",
+              "tip_5lang": {
+                "de": "Vorsicht vor rutschigen Bodenmarkierungen.",
+                "hu": "Vigyázzon a csúszós útburkolati jelekre.",
+                "ro": "Atenție la marcajele rutiere alunecoase.",
+                "en": "Watch out for slippery road markings and tiles."
+              }
+            },
+            {
+              "name": "Port of Skala Oropou",
+              "tip_5lang": {
+                "de": "Unterstellmöglichkeiten beim Fährkartenschalter.",
+                "hu": "Fedett várakozó a jegypénztáraknál.",
+                "ro": "Locuri de adăpost lângă casele de bilete.",
+                "en": "Shelter available near the ferry ticket booths."
+              }
+            },
+            {
+              "name": "Market Square",
+              "tip_5lang": {
+                "de": "Die Cafés bieten Platz, um das Rad im Blick zu behalten.",
+                "hu": "A kávézókból szemmel tarthatja a lelakatolt bringát.",
+                "ro": "Cafenelele vă permit să supravegheați bicicleta.",
+                "en": "Cafes allow you to keep an eye on your bike from inside."
+              }
+            },
+            {
+              "name": "Agios Andreas Church",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter den Vordächern ab.",
+                "hu": "Parkoljon le a bejárati előtetők alatt.",
+                "ro": "Parcați bicicleta sub streșinile intrării.",
+                "en": "Park your bike under the entrance overhangs."
+              }
+            },
+            {
+              "name": "Dilesi Beach",
+              "tip_5lang": {
+                "de": "Meiden Sie sandige Wege, da diese nun schlammig sind.",
+                "hu": "Kerülje a homokos utakat, mert most sárosak.",
+                "ro": "Evitați drumurile cu nisip, pot fi noroioase acum.",
+                "en": "Avoid sandy paths as they turn muddy in the rain."
+              }
+            },
+            {
+              "name": "Amphiaraion of Oropos",
+              "tip_5lang": {
+                "de": "Die Auffahrt ist bei Nässe rutschig, vorsichtig bremsen.",
+                "hu": "A felfelé vezető út csúszós, óvatosan fékezzen.",
+                "ro": "Urcarea este alunecoasă; frânați cu prudență.",
+                "en": "The climb is slippery when wet; use brakes carefully."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie vollflächige Regenbekleidung und Überschuhe.",
+              "Verwenden Sie Schutzbleche, um Spritzwasser zu vermeiden.",
+              "Der Seewind macht das Treten bei Regen anstrengender.",
+              "Bremsen Sie auf nassem Asphalt deutlich früher."
+            ],
+            "hu": [
+              "Viseljen teljes esőruházatot és kamáslit.",
+              "Használjon sárvédőt a felcsapódó víz ellen.",
+              "A tengeri szél miatt nehezebb az esőben tekerni.",
+              "Nedves aszfalton jóval korábban kezdjen fékezni."
+            ],
+            "ro": [
+              "Purtați costum de ploaie complet și protecții pentru încălțăminte.",
+              "Folosiți aripi la bicicletă pentru a evita stropirea.",
+              "Vântul marin face pedalarea prin ploaie mai grea.",
+              "Frânați mult mai devreme pe asfaltul umed."
+            ],
+            "en": [
+              "Wear full waterproof gear and shoe covers.",
+              "Use mudguards to prevent splashes from the wheels.",
+              "Coastal winds make pedaling harder during rain.",
+              "Start braking much earlier on wet road surfaces."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintertag beginnt auf der windigen Promenade. Wir radeln zum Hafen und weiter zum Marktplatz, wobei uns die Bewegung warm hält. Nach der Ruhe in der Kirche führt der Weg an der Küste entlang nach Dilesi. Die Auffahrt zum Amphiaraion am Nachmittag ist die perfekte körperliche Herausforderung, um der Kälte zu trotzen, belohnt mit einer atemberaubenden Aussicht über das winterliche Tal.",
+            "hu": "Tiszta téli nap indul a szeles sétányon. A kikötő és a főtér felé tekerünk, a mozgás segít melegen tartani minket. A templomi pihenő után a part mentén haladunk Dilesi felé. A délutáni kaptató az Amphiaraionhoz tökéletes fizikai kihívás a hideg ellen, a jutalmunk pedig a lélegzetelállító kilátás a téli tájra és az öbölre.",
+            "ro": "O zi senină de iarnă începe pe faleza vântoasă. Pedalăm spre port și piață, mișcarea menținându-ne temperatura corpului. După liniștea din biserică, drumul ne poartă pe coastă spre Dilesi. Urcarea de după-amiază spre Amphiaraion este provocarea fizică ideală împotriva frigului, răsplătită cu o priveliște uluitoare asupra văii înghețate.",
+            "en": "A bright winter day kicks off on the breezy promenade. We cycle to the port and market square, where the movement keeps us warm. After some quiet time at the church, the route follows the coast to Dilesi. The afternoon climb to Amphiaraion is the perfect physical challenge to beat the cold, rewarded with breathtaking views over the wintry valley and the gulf."
+          },
+          "stops": [
+            {
+              "name": "Beach Promenade",
+              "tip_5lang": {
+                "de": "Handschuhe sind wegen des kalten Fahrtwinds Pflicht.",
+                "hu": "A hideg menetszél miatt a kesztyű kötelező.",
+                "ro": "Mănușile sunt obligatorii din cauza vântului rece.",
+                "en": "Gloves are essential due to the cold wind chill."
+              }
+            },
+            {
+              "name": "Port of Skala Oropou",
+              "tip_5lang": {
+                "de": "Vorsicht vor Böen an der offenen Kaikante.",
+                "hu": "Vigyázzon a széllökésekre a nyitott rakparton.",
+                "ro": "Atenție la rafalele de vânt pe cheiul deschis.",
+                "en": "Be careful of sudden gusts on the open pier."
+              }
+            },
+            {
+              "name": "Market Square",
+              "tip_5lang": {
+                "de": "Ein heißer Tee in einem Café füllt die Reserven auf.",
+                "hu": "Egy forró tea az egyik kávézóban új erőt ad.",
+                "ro": "Un ceai fierbinte la o cafenea vă va reîncărca.",
+                "en": "A hot tea at a cafe will help refill your energy."
+              }
+            },
+            {
+              "name": "Agios Andreas Church",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp, um die steifen Finger zu lockern.",
+                "hu": "Használja ki a megállót elgémberedett ujjai átmozgatására.",
+                "ro": "Folosiți oprirea pentru a vă dezmorți degetele.",
+                "en": "Use this stop to loosen up your stiff fingers."
+              }
+            },
+            {
+              "name": "Dilesi Beach",
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne kann beim Fahren blenden.",
+                "hu": "Az alacsonyan járó nap zavaró lehet tekerés közben.",
+                "ro": "Soarele jos poate fi orbitor în timp ce pedalați.",
+                "en": "The low winter sun can be blinding while cycling."
+              }
+            },
+            {
+              "name": "Amphiaraion of Oropos",
+              "tip_5lang": {
+                "de": "Nach dem Aufstieg oben sofort warm anziehen.",
+                "hu": "A felkapaszkodás után fent azonnal öltözzön fel.",
+                "ro": "După urcare, îmbrăcați-vă imediat cu ceva gros.",
+                "en": "After the climb, put on warm clothes immediately."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine winddichte Stirnlampe für die frühe Dämmerung.",
+              "Schützen Sie Ihre Knie und Gelenke vor der Kälte.",
+              "Die Auffahrt zum Amphiaraion hält Sie warm, aber die Abfahrt ist kalt.",
+              "Beenden Sie die Tour vor 17:00 Uhr wegen der Dunkelheit."
+            ],
+            "hu": [
+              "Használjon lámpát, mert korán kezdődik a szürkület.",
+              "Védje térdeit és ízületeit a hidegtől.",
+              "A kaptató felmelegít, de a lejtőn nagyon le fognak hűlni.",
+              "A sötétedés miatt fejezze be a túrát délután 5 előtt."
+            ],
+            "ro": [
+              "Folosiți lumini, deoarece amurgul începe devreme.",
+              "Protejați-vă genunchii și articulațiile de frig.",
+              "Urcarea vă va încălzi, dar coborârea va fi foarte rece.",
+              "Terminați turul înainte de ora 17:00 din cauza întunericului."
+            ],
+            "en": [
+              "Use bike lights as twilight starts early in winter.",
+              "Protect your knees and joints from the cold air.",
+              "The climb warms you up, but the descent will be very cold.",
+              "Finish your ride before 5 PM to avoid the dark."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1122,6 +1504,206 @@
           "Fill up on gas before heading to more remote areas.",
           "Keep small change ready for any potential tolls or parking fees."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Im Schutz des Autos erkunden wir das neblige Amphiaraion, wo der Regen eine mystische Stimmung erzeugt. Danach fahren wir zum Strand von Dilesi, um die raue See trocken zu beobachten. Mittags steuern wir den Hafen und die Promenade an, wobei das Auto als Basis dient. Nach einem kurzen Besuch am Marktplatz und in der Kirche genießen wir ein ausgiebiges Abendessen in einer warmen Taverne, während draußen der Regen fällt.",
+            "hu": "Az autó kényelméből fedezzük fel a ködös Amphiaraiont, ahol az eső misztikus hangulatot áraszt. Ezután Dilesi strandjára hajtunk, hogy a száraz kocsiból nézzük a haragos tengert. Délben a kikötőt és a sétányt látogatjuk meg. A főtér és a templom után egy bőséges vacsorával zárjuk a napot egy meleg tavernában, miközben odakint kitartóan esik az eső.",
+            "ro": "Din confortul mașinii explorăm Amphiaraionul cețos, unde ploaia creează o atmosferă mistică. Continuăm spre plaja Dilesi pentru a vedea marea agitată de la adăpost. La prânz vizităm portul și faleza, mașina fiind baza noastră. După o scurtă oprire în piață și la biserică, savurăm o cină bogată într-o tavernă călduroasă, în timp ce afară plouă neîncetat.",
+            "en": "From the comfort of the car, we explore the misty Amphiaraion, where rain adds a mystical vibe to the ruins. We then drive to Dilesi beach to watch the rough sea while staying dry. At noon, we visit the port and promenade, using the car as our mobile base. After a quick stop at the square and church, we enjoy a long dinner in a warm taverna as the rain pours outside."
+          },
+          "stops": [
+            {
+              "name": "Amphiaraion of Oropos",
+              "tip_5lang": {
+                "de": "Vorsicht bei der Anfahrt auf schmalen, nassen Straßen.",
+                "hu": "Óvatosan vezessen a keskeny, vizes utakon.",
+                "ro": "Conduceți cu atenție pe drumurile înguste și umede.",
+                "en": "Drive carefully on the narrow and wet access roads."
+              }
+            },
+            {
+              "name": "Dilesi Beach",
+              "tip_5lang": {
+                "de": "Parken Sie mit Blick auf das Meer, um trocken zu bleiben.",
+                "hu": "Parkoljon a tenger felé fordulva, hogy bentről nézelődhessen.",
+                "ro": "Parcați cu fața spre mare pentru a privi din mașină.",
+                "en": "Park facing the sea to enjoy the view from inside the car."
+              }
+            },
+            {
+              "name": "Port of Skala Oropou",
+              "tip_5lang": {
+                "de": "Parkplätze sind direkt am Fähranleger vorhanden.",
+                "hu": "Közvetlenül a komp mellett talál parkolóhelyet.",
+                "ro": "Locuri de parcare disponibile chiar lângă feribot.",
+                "en": "Parking spots are available right by the ferry terminal."
+              }
+            },
+            {
+              "name": "Beach Promenade",
+              "tip_5lang": {
+                "de": "Nutzen Sie Parkplätze in der Nähe der Cafés.",
+                "hu": "Keressen parkolót a kávézók közvetlen közelében.",
+                "ro": "Găsiți parcare în imediata apropiere a cafenelelor.",
+                "en": "Find a parking spot close to the seaside cafes."
+              }
+            },
+            {
+              "name": "Market Square",
+              "tip_5lang": {
+                "de": "Kurze Wege vom Auto zu den überdachten Geschäften.",
+                "hu": "Rövid séta az autótól a fedett üzletekig.",
+                "ro": "Distanță scurtă de la mașină până la magazinele acoperite.",
+                "en": "Short walk from the car to the covered shops and stalls."
+              }
+            },
+            {
+              "name": "Agios Andreas Church",
+              "tip_5lang": {
+                "de": "Parken Sie direkt vor dem Kircheneingang.",
+                "hu": "Parkoljon közvetlenül a templom bejárata előtt.",
+                "ro": "Parcați chiar în fața intrării în biserică.",
+                "en": "You can park very close to the church entrance."
+              }
+            },
+            {
+              "name": "Dinner at a Taverna",
+              "tip_5lang": {
+                "de": "Wählen Sie eine Taverne mit eigenem Parkplatz.",
+                "hu": "Válasszon saját parkolóval rendelkező tavernát.",
+                "ro": "Alegeți o tavernă cu parcare proprie.",
+                "en": "Choose a taverna that offers its own parking space."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Schlaglöcher, die mit Wasser gefüllt sind.",
+              "Nutzen Sie die Klimaanlage gegen beschlagene Scheiben.",
+              "Die Sicht am Amphiaraion kann bei Nebel stark eingeschränkt sein.",
+              "Parken Sie in Dilesi auf festem Untergrund, meiden Sie Sand."
+            ],
+            "hu": [
+              "Vigyázzon a vízzel telt kátyúkra az utakon.",
+              "Használja a klímát a szélvédő párátlanítására.",
+              "A köd miatt az Amphiaraionnál korlátozott lehet a kilátás.",
+              "Dilesiben szilárd talajon parkoljon, kerülje a homokot."
+            ],
+            "ro": [
+              "Atenție la gropile umplute cu apă de pe carosabil.",
+              "Folosiți aerul condiționat pentru a dezaburi geamurile.",
+              "Vizibilitatea la Amphiaraion poate fi redusă din cauza ceții.",
+              "Parcați pe teren solid în Dilesi, evitați zonele cu nisip."
+            ],
+            "en": [
+              "Watch out for water-filled potholes on the local roads.",
+              "Use the AC to keep the windows from fogging up.",
+              "Visibility at Amphiaraion can be limited due to mist.",
+              "Park on solid ground in Dilesi; avoid sandy areas."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen führt uns zum Amphiaraion, das in der tiefstehenden Sonne friedlich leuchtet. Danach genießen wir die Fahrt zur Küste nach Dilesi. Mittags besuchen wir den Hafen und die Promenade, wobei wir jederzeit ins warme Auto zurückkehren können. Nach Stopps am Marktplatz und in der Kirche bildet ein gemütliches Abendessen am Kamin den Abschluss eines entspannten Wintertages in Oropos.",
+            "hu": "A téli reggel az Amphiaraionhoz vezet, mely az alacsony napfényben békésen ragyog. Ezután élvezzük az autózást a tengerpart mentén Dilesi felé. Délben a kikötőt és a sétányt keressük fel, bármikor visszahúzódva a fűtött autóba. A főtér és a templom után egy kandalló melletti vacsora teszi teljessé ezt a nyugodt téli napot Oroposzban.",
+            "ro": "Dimineața de iarnă ne poartă spre Amphiaraion, care strălucește sub soarele palid. Continuăm cu o plimbare cu mașina pe coastă spre Dilesi. La prânz vizităm portul și faleza, retrăgându-ne oricând în mașina încălzită. După piață și biserică, o cină lângă șemineu încheie această zi relaxantă de iarnă în Oropos.",
+            "en": "The winter morning takes us to Amphiaraion, shining peacefully in the low sunlight. We then enjoy the scenic drive along the coast to Dilesi. At noon, we visit the port and promenade, always able to retreat to the warm car. After stops at the square and church, a cozy dinner by the fireplace completes this relaxing winter day in Oropos."
+          },
+          "stops": [
+            {
+              "name": "Amphiaraion of Oropos",
+              "tip_5lang": {
+                "de": "Das Gelände ist im Winter oft menschenleer und ruhig.",
+                "hu": "A terület télen gyakran teljesen üres és csendes.",
+                "ro": "Situl este adesea pustiu și liniștit în timpul iernii.",
+                "en": "The site is often deserted and very peaceful in winter."
+              }
+            },
+            {
+              "name": "Dilesi Beach",
+              "tip_5lang": {
+                "de": "Die Wintersonne spiegelt sich herrlich im Meer.",
+                "hu": "A téli napfény csodásan csillog a tengeren.",
+                "ro": "Soarele de iarnă se reflectă superb în mare.",
+                "en": "The winter sun reflects beautifully on the sea surface."
+              }
+            },
+            {
+              "name": "Port of Skala Oropou",
+              "tip_5lang": {
+                "de": "Warme Cafés direkt gegenüber den Parkplätzen.",
+                "hu": "Meleg kávézók közvetlenül a parkolókkal szemben.",
+                "ro": "Cafenele călduroase chiar vizavi de parcări.",
+                "en": "Warm cafes are located directly across from the parking."
+              }
+            },
+            {
+              "name": "Beach Promenade",
+              "tip_5lang": {
+                "de": "Ideal für einen kurzen, knackigen Winterspaziergang.",
+                "hu": "Ideális egy rövid, frissítő téli sétához.",
+                "ro": "Ideal pentru o plimbare scurtă și revigorantă de iarnă.",
+                "en": "Ideal for a short, crisp winter walk by the sea."
+              }
+            },
+            {
+              "name": "Market Square",
+              "tip_5lang": {
+                "de": "Lokale Produkte für die Wintervorräte kaufen.",
+                "hu": "Vásároljon helyi termékeket a téli készletekhez.",
+                "ro": "Cumpărați produse locale pentru proviziile de iarnă.",
+                "en": "Buy local products to stock up for the winter."
+              }
+            },
+            {
+              "name": "Agios Andreas Church",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe ohne die Touristenmassen.",
+                "hu": "Élvezze a nyugalmat a turisták tömege nélkül.",
+                "ro": "Bucurați-vă de liniște fără mulțimile de turiști.",
+                "en": "Enjoy the tranquility without the typical tourist crowds."
+              }
+            },
+            {
+              "name": "Dinner at a Taverna",
+              "tip_5lang": {
+                "de": "Fragen Sie nach dem Tagesgericht aus dem Ofen.",
+                "hu": "Kérdezze a pincért a napi kemencés sült húsokról.",
+                "ro": "Întrebați despre preparatele la cuptor ale zilei.",
+                "en": "Ask for the daily specials cooked in the traditional oven."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Reifendruck bei fallenden Temperaturen.",
+              "Fahren Sie vorsichtig bei tiefstehender Nachmittagssonne.",
+              "Viele Parkplätze sind im Winter kostenlos verfügbar.",
+              "Amphiaraion schließt im Winter oft bereits um 15:30 Uhr."
+            ],
+            "hu": [
+              "Ellenőrizze a guminyomást a csökkenő hőmérsékletnél.",
+              "Vezessen óvatosan az alacsonyan járó délutáni nap miatt.",
+              "Télen sok parkoló ingyenesen vehető igénybe.",
+              "Az Amphiaraion télen gyakran már 15:30-kor bezár."
+            ],
+            "ro": [
+              "Verificați presiunea pneurilor la temperaturi scăzute.",
+              "Conduceți cu atenție din cauza soarelui de după-amiază.",
+              "Multe parcări sunt disponibile gratuit iarna.",
+              "Amphiaraion se închide adesea la ora 15:30 iarna."
+            ],
+            "en": [
+              "Check tire pressure as temperatures drop in winter.",
+              "Be careful driving when the afternoon sun is low.",
+              "Many parking spots are free to use during the off-season.",
+              "Amphiaraion often closes as early as 3:30 PM in winter."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1478,6 +2060,188 @@
           "Be at the bus stop on time, as rural buses can sometimes be irregular.",
           "Confirm the last bus back to town, especially in the evening."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus erreichen wir das Amphiaraion, wo wir den Regen unter Bäumen abwarten. Zurück im Zentrum bietet der Marktplatz Schutz in Cafés. Nach einem Besuch im Hafen und auf der Promenade führt der Weg zur warmen Agios-Andreas-Kirche. Den Abend verbringen wir bei einem gemütlichen Essen in Dilesi, gut erreichbar mit dem Bus, während wir dem Regen draußen zuhören.",
+            "hu": "Busszal érkezünk az Amphiaraionhoz, ahol a fák alatt húzódunk meg az esőben. A központba visszatérve a főtér kávézóiban várakozunk. A kikötő és a sétány után a Szent András-templom belső melege vár. Az estét Dilesiben zárjuk egy kellemes vacsorával, mely busszal is jól megközelíthető, miközben hallgatjuk a kinti eső kopogását.",
+            "ro": "Ajungem cu autobuzul la Amphiaraion, unde ne adăpostim sub copaci. Reveniți în centru, piața oferă cafenele primitoare. După port și faleză, vizităm biserica Agios Andreas. Seara se încheie cu o cină relaxantă în Dilesi, ușor accesibilă cu transportul public, în timp ce ascultăm ploaia de afară.",
+            "en": "By bus, we reach Amphiaraion, finding shelter under the trees during the rain. Back in the center, the market cafes provide a dry spot. After visiting the port and promenade, we head to the warm Agios Andreas Church. We spend the evening enjoying a cozy meal in Dilesi, easily reachable by bus, while listening to the rain fall outside."
+          },
+          "stops": [
+            {
+              "name": "Amphiaraion of Oropos",
+              "tip_5lang": {
+                "de": "Warten Sie unter dem Vordach des Ticketschalters.",
+                "hu": "Várjon a jegypénztár előteteje alatt az esőben.",
+                "ro": "Așteptați sub streașina casei de bilete.",
+                "en": "Wait under the ticket booth's overhang during rain."
+              }
+            },
+            {
+              "name": "Market Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Bushaltestelle mit dem besten Schutz.",
+                "hu": "Válassza a legjobban védett buszmegállót.",
+                "ro": "Folosiți stația de autobuz cu cel mai bun adăpost.",
+                "en": "Use the bus stop that offers the best shelter."
+              }
+            },
+            {
+              "name": "Port of Skala Oropou",
+              "tip_5lang": {
+                "de": "Das Fährterminal ist der beste Ort zum Warten.",
+                "hu": "A kompterminál a legjobb hely a várakozásra.",
+                "ro": "Terminalul de feribot este cel mai bun loc de așteptare.",
+                "en": "The ferry terminal is the best place to wait for buses."
+              }
+            },
+            {
+              "name": "Beach Promenade",
+              "tip_5lang": {
+                "de": "Warten Sie in einem Café, bis der Bus kommt.",
+                "hu": "Várjon egy kávézóban a busz érkezéséig.",
+                "ro": "Așteptați într-o cafenea până sosește autobuzul.",
+                "en": "Wait inside a cafe until it is time for your bus."
+              }
+            },
+            {
+              "name": "Agios Andreas Church",
+              "tip_5lang": {
+                "de": "Vom Bus zur Kirche ist es nur ein kurzer Sprint.",
+                "hu": "A busztól a templomig csak egy rövid sprint az esőben.",
+                "ro": "De la autobuz la biserică este doar un scurt sprint.",
+                "en": "It is just a short sprint from the bus to the church."
+              }
+            },
+            {
+              "name": "Dinner and Sunset at Dilesi Beach",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Rückfahrzeiten der Busse im Regen.",
+                "hu": "Ellenőrizze az utolsó busz indulását esőben is.",
+                "ro": "Verificați orele de întoarcere ale autobuzelor.",
+                "en": "Check the bus return times carefully in rainy weather."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "KTEL-Busse können bei starkem Regen Verspätung haben.",
+              "Tragen Sie eine wasserfeste Tasche für Ihre Fahrkarten.",
+              "Suchen Sie Haltestellen mit festen Unterständen.",
+              "Haben Sie die Telefonnummer eines lokalen Taxis bereit."
+            ],
+            "hu": [
+              "A KTEL buszok heves esőben késhetnek.",
+              "Tartsa jegyeit vízhatlan tokban vagy táskában.",
+              "Keressen szilárd beállóval rendelkező megállókat.",
+              "Legyen kéznél egy helyi taxi telefonszáma."
+            ],
+            "ro": [
+              "Autobuzele KTEL pot avea întârzieri pe ploaie torențială.",
+              "Țineți biletele într-o geantă impermeabilă.",
+              "Căutați stații care au adăposturi solide.",
+              "Aveți la îndemână numărul de telefon al unui taxi local."
+            ],
+            "en": [
+              "KTEL buses might face delays during heavy rainfall.",
+              "Keep your tickets in a waterproof bag or pouch.",
+              "Look for bus stops with solid weather shelters.",
+              "Have a local taxi number ready just in case."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintertag beginnt mit der Busfahrt zum Amphiaraion, das in der Kälte sehr friedlich wirkt. Zurück in Oropos wärmen wir uns am Marktplatz auf. Nach dem Besuch im Hafen und an der Promenade führt der Weg zur ruhigen Kirche. Der Tag endet mit einem stimmungsvollen Sonnenuntergang und Abendessen in Dilesi, bevor uns der Abendbus zurückbringt.",
+            "hu": "Tiszta téli nap indul a buszozással az Amphiaraionhoz, mely a hidegben rendkívül békés. Oroposzba visszatérve a főtéren melegszünk fel. A kikötő és a sétány után a csendes templomot keressük fel. A nap Dilesiben ér véget egy hangulatos naplementével és vacsorával, mielőtt az esti busz visszavisz minket.",
+            "ro": "O zi senină de iarnă începe cu autobuzul spre Amphiaraion, care pare foarte liniștit în frig. Reveniți în Oropos, ne încălzim în piață. După port și faleză, vizităm biserica tăcută. Ziua se termină cu un apus spectaculos și o cină în Dilesi, înainte de a lua autobuzul de seară înapoi.",
+            "en": "A bright winter day starts with a bus ride to Amphiaraion, which feels incredibly peaceful in the cold. Back in Oropos, we warm up at the market square. After visiting the port and promenade, we head to the quiet church. The day concludes with a scenic sunset and dinner in Dilesi before the evening bus takes us back."
+          },
+          "stops": [
+            {
+              "name": "Amphiaraion of Oropos",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Winterfahrplan für die Linie nach Amphiaraion.",
+                "hu": "Ellenőrizze az Amphiaraion felé tartó téli menetrendet.",
+                "ro": "Verificați orarul de iarnă pentru linia spre Amphiaraion.",
+                "en": "Check the winter schedule for the line to Amphiaraion."
+              }
+            },
+            {
+              "name": "Market Square",
+              "tip_5lang": {
+                "de": "Warten Sie in der Wärme einer Bäckerei auf den Bus.",
+                "hu": "Várjon a buszra egy pékség melegében.",
+                "ro": "Așteptați autobuzul în căldura unei brutării.",
+                "en": "Wait for your bus in the warmth of a local bakery."
+              }
+            },
+            {
+              "name": "Port of Skala Oropou",
+              "tip_5lang": {
+                "de": "Die Meeresbrise ist an der Haltestelle sehr kalt.",
+                "hu": "A tengeri szél a megállóban nagyon hideg lehet.",
+                "ro": "Briza mării este foarte rece în stația de autobuz.",
+                "en": "The sea breeze at the bus stop can be very cold."
+              }
+            },
+            {
+              "name": "Beach Promenade",
+              "tip_5lang": {
+                "de": "Die Nachmittagssonne wärmt an windgeschützten Stellen.",
+                "hu": "A délutáni nap felmelegíti a szélvédett részeket.",
+                "ro": "Soarele de după-amiază încălzește locurile ferite.",
+                "en": "The afternoon sun warms up the wind-sheltered spots."
+              }
+            },
+            {
+              "name": "Agios Andreas Church",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche als kurzen Kälteschutz.",
+                "hu": "Látogassa meg a templomot rövid hideg elleni védelemként.",
+                "ro": "Vizitați biserica pentru o scurtă protecție contra frigului.",
+                "en": "Visit the church as a short break from the cold air."
+              }
+            },
+            {
+              "name": "Dinner and Sunset at Dilesi Beach",
+              "tip_5lang": {
+                "de": "Planen Sie die Rückreise vor Einbruch der Dunkelheit.",
+                "hu": "Tervezze meg a visszautat a sötétség beállta előtt.",
+                "ro": "Planificați întoarcerea înainte de lăsarea întunericului.",
+                "en": "Plan your return trip before total darkness sets in."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterfahrpläne sind oft eingeschränkter als im Sommer.",
+              "Tragen Sie warme Socken, da die Busse fußkalt sein können.",
+              "Die Sonne geht früh unter, beenden Sie Aktivitäten zeitig.",
+              "Nutzen Sie lokale Cafés als warme Wartezonen."
+            ],
+            "hu": [
+              "A téli menetrend korlátozottabb a nyárinál.",
+              "Viseljen meleg zoknit, a buszok padlója hideg lehet.",
+              "A nap korán nyugszik, fejezze be időben a programokat.",
+              "Használja a helyi kávézókat fűtött váróteremként."
+            ],
+            "ro": [
+              "Orarele de iarnă sunt mai reduse decât cele de vară.",
+              "Purtați șosete groase, podeaua autobuzelor poate fi rece.",
+              "Soarele apune devreme; terminați activitățile la timp.",
+              "Folosiți cafenelele locale ca zone de așteptare calde."
+            ],
+            "en": [
+              "Winter bus schedules are more limited than in summer.",
+              "Wear warm socks as bus floors can be quite cold.",
+              "Sunset is early; finish your outdoor activities in time.",
+              "Use local cafes as warm waiting areas for your bus."
+            ]
+          }
+        }
       }
     }
   }

@@ -378,6 +378,192 @@
           "Most city center attractions are within easy walking distance.",
           "Take time to get lost in the small alleys, especially around the Groot Begijnhof."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Löwen im Regen bietet eine melancholische Schönheit. Wir beginnen den Morgen geschützt in den Cafés des Oude Markt. Mittags ziehen wir uns in die prächtige Peterskirche und das M-Museum zurück. Am Nachmittag bietet die Universitätsbibliothek einen warmen Zufluchtsort, bevor wir den Tag unter den Arkaden bei einem lokalen Bier ausklingen lassen.",
+            "hu": "Leuven esőben is bájos, a gótikus homlokzatok sötétebb tónust kapnak. A reggelt az Oude Markt védett teraszain kezdjük, majd a Szent Péter-templom és az M-Múzeum fedett tereiben folytatjuk. Délután az egyetemi könyvtár olvasótermeiben lelünk menedékre, az estét pedig egy hangulatos, eső elől védett sörözőben zárjuk.",
+            "ro": "Leuven în ploaie are un farmec aparte, fațadele gotice devenind mai dramatice. Începem dimineața în cafenelele de pe Oude Markt. La prânz ne adăpostim în Biserica Sf. Petru și în Muzeul M. După-amiaza, Biblioteca Universității oferă un refugiu cald, iar seara ne retragem într-o berărie tradițională, feriți de stropii de ploaie.",
+            "en": "Leuven in the rain offers a cozy, atmospheric experience. We start the morning sheltered in Oude Markt's cafes. Midday is spent exploring the dry interiors of St. Peter's Church and M-Museum. In the afternoon, the University Library provides a grand refuge, ending the day with a local brew in a warm, historic pub away from the damp streets."
+          },
+          "stops": [
+            {
+              "name": "Oude Markt (Old Market)",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den Markisen der Cafés am 'längsten Tresen der Welt'.",
+                "hu": "Keress menedéket a kávézók napernyői alatt a világ 'leghosszabb pultjánál'.",
+                "ro": "Adăpostiți-vă sub copertinele cafenelelor de pe 'cel mai lung bar din lume'.",
+                "en": "Seek shelter under the cafe awnings at the 'longest bar in the world'."
+              }
+            },
+            {
+              "name": "Stadhuis (Town Hall)",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Fassadendetails von einem trockenen Punkt gegenüber aus.",
+                "hu": "Csodáld meg a homlokzat részleteit egy szemközti száraz pontról.",
+                "ro": "Admirați detaliile fațadei dintr-un punct uscat situat vizavi.",
+                "en": "Admire the facade details from a dry spot across the square."
+              }
+            },
+            {
+              "name": "Sint-Pieterskerk (Saint Peter's Church)",
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um den Regen zu überdauern und Kunstwerke zu bewundern.",
+                "hu": "Tökéletes hely az eső kivárására és a műalkotások megcsodálására.",
+                "ro": "Un loc perfect pentru a aștepta oprirea ploii și a admira operele de artă.",
+                "en": "A perfect place to wait out the rain while admiring Flemish Masterpieces."
+              }
+            },
+            {
+              "name": "M-Museum Leuven",
+              "coords": [
+                4.7031,
+                50.8805
+              ],
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe für nasse Regenschirme und Jacken.",
+                "hu": "Használd a ruhatárat a vizes esernyők és kabátok elhelyezésére.",
+                "ro": "Folosiți garderoba pentru umbrelele și hăinuțele ude.",
+                "en": "Use the cloakroom for wet umbrellas and jackets before exploring."
+              }
+            },
+            {
+              "name": "University Library & Tower",
+              "tip_5lang": {
+                "de": "Bei starkem Regen ist die Aussicht vom Turm begrenzt, aber der Lesesaal ist herrlich.",
+                "hu": "Erős esőben a kilátás korlátozott, de a nagy olvasóterem lenyűgöző.",
+                "ro": "În caz de ploaie densă, vizibilitatea din turn e redusă; vizitați sala de lectură.",
+                "en": "View from the tower might be misty, but the Great Reading Room is dry and grand."
+              }
+            },
+            {
+              "name": "Groot Begijnhof (Great Beguinage)",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem Kopfsteinpflaster, es kann bei Nässe sehr rutschig sein.",
+                "hu": "Vigyázz a macskakövön, esőben rendkívül csúszós lehet.",
+                "ro": "Atenție pe pavajul de piatră cubică, poate fi foarte alunecos pe ploaie.",
+                "en": "Be careful on the cobblestones; they become very slippery when wet."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Regenschirm ist bei belgischem Wind unerlässlich.",
+              "Nutzen Sie die vielen Passagen und Arkaden im Stadtzentrum.",
+              "Wasserdichte Schuhe sind für das Kopfsteinpflaster im Begijnhof wichtig.",
+              "Museen und Kirchen bieten die besten kostenlosen Unterstände."
+            ],
+            "hu": [
+              "A belga szélben egy erős esernyő elengedhetetlen kellék.",
+              "Használd ki a belváros fedett átjáróit és árkádjait.",
+              "Vízálló cipő javasolt a Begijnhof csúszós macskakövei miatt.",
+              "A múzeumok és templomok a legjobb ingyenes menedékhelyek."
+            ],
+            "ro": [
+              "O umbrelă rezistentă este esențială din cauza vântului belgian.",
+              "Profitați de numeroasele pasaje și arcade din centrul orașului.",
+              "Încălțămintea impermeabilă este necesară pentru pavajul din Begijnhof.",
+              "Muzeele și bisericile oferă cele mai bune locuri de adăpost gratuite."
+            ],
+            "en": [
+              "A sturdy umbrella is essential to withstand the Belgian wind.",
+              "Make use of the various covered passages and arcades in the center.",
+              "Waterproof shoes are highly recommended for the Begijnhof cobblestones.",
+              "Museums and churches are your best bets for dry, cultural shelter."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Löwen im Winter glänzt mit festlicher Beleuchtung. Der Morgen beginnt frisch am Oude Markt mit heißem Kakao. Wir besichtigen die beheizten Innenräume des Rathauses und des M-Museums. Nach einem Spaziergang durch den frostigen Begijnhof wärmen wir uns in den historischen Bibliotheksräumen auf, während die Sonne früh untergeht.",
+            "hu": "A téli Leuven ünnepi fényekben úszik. A reggelt forró kakaóval indítjuk az Oude Markton, majd a Városháza és az M-Múzeum fűtött termeiben melegszünk fel. A fagyos Begijnhof után az egyetemi könyvtár ódon falai közt pihenünk meg, figyelve a korai naplementét a macskaköves utcákon.",
+            "ro": "Leuven iarna strălucește sub lumini festive. Începem dimineața cu o ciocolată caldă pe Oude Markt. Vizităm interioarele încălzite ale Primăriei și Muzeului M. După o plimbare prin Begijnhof-ul înghețat, ne încălzim în sălile bibliotecii, profitând de apusul timpuriu.",
+            "en": "Winter in Leuven is magical with festive lights. The morning starts with hot cocoa on Oude Markt. We seek warmth in the heated Town Hall and M-Museum. After a crisp walk through the frosty Begijnhof, the University Library provides a cozy retreat as the sun sets early over the historic spires."
+          },
+          "stops": [
+            {
+              "name": "Oude Markt (Old Market)",
+              "tip_5lang": {
+                "de": "Genießen Sie ein warmes Getränk auf den beheizten Terrassen der Cafés.",
+                "hu": "Élvezz egy forró italt a kávézók fűtött teraszainak egyikén.",
+                "ro": "Savurați o băutură caldă pe terasele încălzite ale cafenelelor.",
+                "en": "Enjoy a hot drink on one of the many heated cafe terraces."
+              }
+            },
+            {
+              "name": "Stadhuis (Town Hall)",
+              "tip_5lang": {
+                "de": "Die Abendbeleuchtung im Winter macht die Fassade besonders fotogen.",
+                "hu": "A téli esti kivilágítás különösen fotogénné teszi a homlokzatot.",
+                "ro": "Iluminatul de seară pe timp de iarnă face fațada extrem de fotogenică.",
+                "en": "The winter evening illumination makes the facade exceptionally photogenic."
+              }
+            },
+            {
+              "name": "Sint-Pieterskerk (Saint Peter's Church)",
+              "tip_5lang": {
+                "de": "Kirchen können kühl sein; behalten Sie Ihren Mantel während der Besichtigung an.",
+                "hu": "A templom hűvös lehet, ne vedd le a kabátod a látogatás alatt.",
+                "ro": "Biserica poate fi răcoroasă; păstrați haina pe dvs. în timpul vizitei.",
+                "en": "Churches can be chilly; keep your coat on while viewing the artworks."
+              }
+            },
+            {
+              "name": "M-Museum Leuven",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um sich zwischen den Spaziergängen für zwei Stunden aufzuwärmen.",
+                "hu": "Ideális hely a kétórás felmelegedésre a városi séták között.",
+                "ro": "Un loc ideal pentru a vă încălzi timp de două ore între plimbări.",
+                "en": "An ideal spot to warm up for two hours between outdoor strolls."
+              }
+            },
+            {
+              "name": "University Library & Tower",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Sonnenuntergangszeit für den besten Blick vom Turm.",
+                "hu": "Ellenőrizd a naplemente idejét a legjobb toronykilátás érdekében.",
+                "ro": "Verificați ora apusului pentru cea mai bună vedere din turn.",
+                "en": "Check the sunset time for the best golden hour views from the tower."
+              }
+            },
+            {
+              "name": "Groot Begijnhof (Great Beguinage)",
+              "tip_5lang": {
+                "de": "In der Dämmerung wirken die Backsteinhäuser mit den warmen Lichtern besonders idyllisch.",
+                "hu": "Sötétedéskor a meleg fényekkel megvilágított téglafalak nagyon idylliek.",
+                "ro": "La amurg, casele de cărămidă cu lumini calde par deosebit de idilice.",
+                "en": "At dusk, the brick houses with warm window lights look incredibly cozy."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Schichten; die Innenräume sind warm, die Gassen windig.",
+              "Die Sonne geht im Dezember bereits gegen 16:30 Uhr unter.",
+              "Besuchen Sie den Weihnachtsmarkt auf dem Ladeuzeplein im Dezember.",
+              "Kopfsteinpflaster speichert die Kälte; dicke Socken sind ratsam."
+            ],
+            "hu": [
+              "Öltözz rétegesen; a belső terek fűtöttek, de az utcák szelesek.",
+              "A nap decemberben már délután fél 5 körül lemegy.",
+              "Látogasd meg a karácsonyi vásárt a Ladeuzeplein téren.",
+              "A macskakő sugározza a hideget, viselj vastag zoknit."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi; interioarele sunt calde, dar străzile vântoase.",
+              "Soarele apune în decembrie în jurul orei 16:30.",
+              "Vizitați târgul de Crăciun din Ladeuzeplein dacă veniți în decembrie.",
+              "Pavelele rețin frigul; șosetele groase sunt recomandate."
+            ],
+            "en": [
+              "Dress in layers; interiors are warm but the narrow alleys are windy.",
+              "Sunset occurs as early as 16:30 in December.",
+              "Visit the Christmas market at Ladeuzeplein during the holiday season.",
+              "Cobblestones stay cold; thick socks and insulated boots are best."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -774,6 +960,206 @@
           "Be aware of one-way streets for cars, which are often open for bikes in both directions (indicated by signs).",
           "A bike bell is useful for alerting pedestrians in shared zones."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren in Löwen bei Regen erfordert gute Vorbereitung. Wir nutzen die gut ausgebauten Radwege, achten aber auf rutschige Stellen. Der Vormittag führt uns zum Botanischen Garten, gefolgt von einem Besuch in der Abtei Park. Mittags wärmen wir uns bei Stella Artois auf, bevor wir durch die Vororte zurückradeln.",
+            "hu": "Az esős leuveni biciklizés jó felszerelést igényel. A jól kiépített kerékpárutakat használjuk, ügyelve a csúszós szakaszokra. Délelőtt a Botanikus Kertet és a Park Apátságot érintjük. Délután a Stella Artois főzdében melegszünk fel, majd a külvárosi utakon tekerünk vissza.",
+            "ro": "Ciclismul în Leuven pe ploaie necesită echipament adecvat. Folosim pistele bine amenajate, dar suntem atenți la zonele alunecoase. Dimineața vizităm Grădina Botanică și Abația Park. La prânz ne încălzim la Stella Artois, apoi pedalăm înapoi prin zonele rezidențiale.",
+            "en": "Cycling Leuven in the rain requires good gear. We stick to well-maintained paths but watch for slippery spots. The morning takes us to the Botanical Garden and Park Abbey. In the afternoon, we find warmth at the Stella Artois brewery before cycling back through the city outskirts."
+          },
+          "stops": [
+            {
+              "name": "Oude Markt (Old Market)",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an den überdachten Ständern in der Nähe.",
+                "hu": "Parkold a biciklit a közeli fedett tárolókban.",
+                "ro": "Parcați bicicleta în rastelele acoperite din apropiere.",
+                "en": "Park your bike in the covered stands located nearby."
+              }
+            },
+            {
+              "name": "Town Hall & St. Peter's Church",
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Radfahren direkt auf dem Grote Markt bei Nässe.",
+                "hu": "Esőben kerüld a biciklizést közvetlenül a Grote Markton.",
+                "ro": "Evitați să pedalați direct pe Grote Markt când este ud.",
+                "en": "Avoid cycling directly across the Grote Markt when wet."
+              }
+            },
+            {
+              "name": "Kruidtuin (Botanical Garden)",
+              "tip_5lang": {
+                "de": "Die Gewächshäuser bieten einen trockenen Rückzugsort inmitten von Grün.",
+                "hu": "Az üvegházak száraz menedéket nyújtanak a zöld növények közt.",
+                "ro": "Serele oferă un refugiu uscat în mijlocul verdeții.",
+                "en": "The greenhouses offer a perfect dry escape surrounded by greenery."
+              }
+            },
+            {
+              "name": "Groot Begijnhof",
+              "tip_5lang": {
+                "de": "Besser absteigen und schieben; das nasse Pflaster ist extrem tückisch.",
+                "hu": "Érdemes leszállni és tolni; a vizes kövezet rendkívül csalóka.",
+                "ro": "Mai bine coborâți și împingeți bicicleta; pavajul ud este trădător.",
+                "en": "Best to dismount and walk; the wet stones are treacherous for bikes."
+              }
+            },
+            {
+              "name": "Abdij van Park (Park Abbey)",
+              "tip_5lang": {
+                "de": "Die Wege um die Teiche können bei Regen schlammig sein.",
+                "hu": "A tavak körüli utak esőben sárosak lehetnek.",
+                "ro": "Potecile din jurul iazurilor pot fi noroioase pe ploaie.",
+                "en": "The paths around the ponds can get muddy during heavy rain."
+              }
+            },
+            {
+              "name": "Kasteel van Arenberg (Arenberg Castle)",
+              "tip_5lang": {
+                "de": "Stellen Sie sich bei einem Schauer unter die großen Bäume oder Torbögen.",
+                "hu": "Zápor esetén húzódj a nagy fák vagy a kapualjak alá.",
+                "ro": "În caz de aversă, adăpostiți-vă sub copacii mari sau arcade.",
+                "en": "In case of a sudden downpour, seek shelter under the large trees."
+              }
+            },
+            {
+              "name": "Stella Artois Brouwerij (Brewery)",
+              "tip_5lang": {
+                "de": "Die perfekte Endstation, um sich im Trockenen aufzuwärmen.",
+                "hu": "Tökéletes végállomás, hogy a szárazban felmelegedj.",
+                "ro": "Destinația finală perfectă pentru a vă încălzi la adăpost.",
+                "en": "The perfect final stop to warm up and dry off indoors."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Verwenden Sie Schutzbleche, um Schlamm auf der Kleidung zu vermeiden.",
+              "Vermeiden Sie Straßenbahnschienen; diese sind bei Regen extrem glatt.",
+              "Wasserdichte Packtaschen schützen Ihre Wertsachen.",
+              "Bremsen Sie frühzeitig, da der Bremsweg auf nassem Pflaster länger ist."
+            ],
+            "hu": [
+              "Használj sárvédőt, hogy ne legyél sáros.",
+              "Kerüld a villamossíneket; esőben rendkívül csúszósak.",
+              "A vízálló táskák megvédik az értékeidet.",
+              "Fékezz időben, mert vizes úton hosszabb a féktáv."
+            ],
+            "ro": [
+              "Folosiți apărători de noroi pentru a vă proteja hainele.",
+              "Evitați șinele de tramvai; sunt extrem de alunecoase pe ploaie.",
+              "Genzile de bicicletă impermeabile vă protejează bunurile.",
+              "Frânați din timp, distanța de frânare crește pe pavaj ud."
+            ],
+            "en": [
+              "Ensure your bike has mudguards to prevent splashes.",
+              "Stay clear of tram tracks; they are lethally slippery when wet.",
+              "Waterproof panniers are a must for keeping belongings dry.",
+              "Brake earlier than usual as stopping distance increases on wet stone."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in Löwen ist belebend. Wir starten bei frostigen Temperaturen am Oude Markt. Die Fahrt zur Abtei Park führt durch winterliche Landschaften. Mittags bietet das Schloss Arenberg eine malerische Kulisse im Frost, bevor wir die Tour mit einer Brauereibesichtigung beenden, wenn die Dunkelheit hereinbricht.",
+            "hu": "A téli kerékpározás Leuvenben frissítő élmény. Fagyos reggelen indulunk az Oude Marktról, majd a Park Apátság felé vesszük az irányt a téli tájban. Délután az Arenberg-kastély zúzmarás parkja vár, végül a Stella Artois sörfőzdében zárjuk a napot, mire beáll a sötétség.",
+            "ro": "Ciclismul de iarnă în Leuven este revigorant. Începem dimineața geroasă pe Oude Markt, apoi pedalăm spre Abația Park prin peisajul hibernal. După-amiaza, castelul Arenberg oferă un cadru pitoresc, încheind turul la Stella Artois odată cu lăsarea întunericului.",
+            "en": "Winter cycling in Leuven is crisp and invigorating. We start a frosty morning at Oude Markt, cycling towards Park Abbey through quiet landscapes. Midday brings us to the frost-covered Arenberg Castle park, concluding with a warm brewery tour as night falls early."
+          },
+          "stops": [
+            {
+              "name": "Oude Markt (Old Market)",
+              "tip_5lang": {
+                "de": "Tragen Sie warme Handschuhe; der Fahrtwind ist im Winter eisig.",
+                "hu": "Viselj meleg kesztyűt; a menetszél télen jeges.",
+                "ro": "Purtați mănuși groase; vântul din timpul mersului este tăios.",
+                "en": "Wear warm gloves; the wind chill while cycling is significant in winter."
+              }
+            },
+            {
+              "name": "Town Hall & St. Peter's Church",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stellen auf dem Marktplatz.",
+                "hu": "Ügyelj a jeges foltokra a piactéren.",
+                "ro": "Fiți atenți la porțiunile înghețate de pe piață.",
+                "en": "Watch out for black ice or frosty patches on the main square."
+              }
+            },
+            {
+              "name": "Kruidtuin (Botanical Garden)",
+              "tip_5lang": {
+                "de": "Die Gewächshäuser sind im Winter herrlich warm und grün.",
+                "hu": "Az üvegházak télen kellemesen melegek és zöldek.",
+                "ro": "Serele sunt minunat de calde și verzi pe timpul iernii.",
+                "en": "The greenhouses are wonderfully warm and lush during the cold months."
+              }
+            },
+            {
+              "name": "Groot Begijnhof",
+              "tip_5lang": {
+                "de": "Frost auf Kopfsteinpflaster ist sehr rutschig; fahren Sie vorsichtig.",
+                "hu": "A fagyott macskakő nagyon csúszik; tekerj óvatosan.",
+                "ro": "Chiciura de pe piatra cubică e alunecoasă; pedalați cu prudență.",
+                "en": "Frost on cobblestones is very slippery; ride with extra caution."
+              }
+            },
+            {
+              "name": "Abdij van Park (Park Abbey)",
+              "tip_5lang": {
+                "de": "Die gefrorenen Teiche bieten eine wunderschöne Winterkulisse.",
+                "hu": "A befagyott tavak gyönyörű téli látványt nyújtanak.",
+                "ro": "Iazurile înghețate oferă un decor hibernal superb.",
+                "en": "The frozen ponds offer a beautiful and serene winter backdrop."
+              }
+            },
+            {
+              "name": "Kasteel van Arenberg (Arenberg Castle)",
+              "tip_5lang": {
+                "de": "Der Schlosspark wirkt im Winterlicht besonders märchenhaft.",
+                "hu": "A kastélypark a téli fényekben különösen mesebeli.",
+                "ro": "Parcul castelului pare desprins din basme în lumina iernii.",
+                "en": "The castle park looks like a fairy tale in the low winter sun."
+              }
+            },
+            {
+              "name": "Stella Artois Brouwerij (Brewery)",
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihre Fahrradbeleuchtung für den Rückweg funktioniert.",
+                "hu": "Ellenőrizd, hogy működik-e a lámpád a visszaúthoz.",
+                "ro": "Asigurați-vă că luminile bicicletei funcționează pentru drumul de întoarcere.",
+                "en": "Make sure your bike lights are working for the dark ride back."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Kleidung in mehreren Schichten.",
+              "Prüfen Sie den Reifendruck; etwas weniger Druck gibt mehr Grip auf Eis.",
+              "Die Fahrradbeleuchtung muss bereits ab 16:30 Uhr eingeschaltet sein.",
+              "Vermeiden Sie plötzliches Bremsen auf glattem Untergrund."
+            ],
+            "hu": [
+              "Viselj többrétegű, szélálló ruházatot.",
+              "Ellenőrizd a guminyomást; a kicsit laposabb gumi jobban tapad jégen.",
+              "A biciklilámpákat már délután fél 5-kor be kell kapcsolni.",
+              "Kerüld a hirtelen fékezést csúszós felületen."
+            ],
+            "ro": [
+              "Purtați haine rezistente la vânt, în mai multe straturi.",
+              "Verificați presiunea; o presiune mai mică oferă aderență pe gheață.",
+              "Luminile trebuie aprinse încă de la ora 16:30.",
+              "Evitați frânarea bruscă pe suprafețe alunecoase."
+            ],
+            "en": [
+              "Wear windproof clothing and layer up to trap heat.",
+              "Check tire pressure; slightly lower pressure provides better grip on ice.",
+              "Lights must be on from 16:30 onwards as it gets dark quickly.",
+              "Avoid sudden braking or sharp turns on potentially icy patches."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1170,6 +1556,206 @@
           "Plan your drives between clusters outside of peak traffic hours.",
           "Do not leave valuables visible in the car."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Löwen bei Regen bequem zu erkunden. Wir parken zentral und nutzen die kurzen Wege zu den Sehenswürdigkeiten. Vormittags besuchen wir die Bibliothek und das Rathaus, mittags fahren wir zur Abtei Park. Der Nachmittag gehört dem Schloss Arenberg, bevor wir trocken den Begijnhof erreichen.",
+            "hu": "Autóval az esős Leuven kényelmesen felfedezhető. Központi parkolót választunk, így közel vannak a látnivalók. Délelőtt a könyvtárat és a városházát nézzük meg, délben a Park Apátsághoz hajtunk. A délután az Arenberg-kastélyé, végül szárazon érjük el a Begijnhofot.",
+            "ro": "Cu mașina, Leuven este ușor de explorat pe ploaie. Parcăm central și profităm de distanțele scurte. Dimineața vizităm biblioteca și primăria, la prânz mergem spre Abația Park. După-amiaza aparține castelului Arenberg, încheind ziua la Begijnhof fără a ne uda prea tare.",
+            "en": "Exploring Leuven by car in the rain is convenient. We park centrally to minimize walking in the wet. The morning covers the Library and Town Hall, followed by a drive to Park Abbey. Afternoon is spent at Arenberg Castle, finishing with a quick visit to the Begijnhof."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Park in City Center (e.g., Parking Ladeuze)",
+              "tip_5lang": {
+                "de": "Ein Tiefgaragenplatz hält das Auto und Sie beim Aussteigen trocken.",
+                "hu": "A mélygarázs szárazon tartja az autót és téged is kiszálláskor.",
+                "ro": "Parcarea subterană vă menține mașina și pe dvs. uscați la coborâre.",
+                "en": "Underground parking keeps both the car and you dry when starting."
+              }
+            },
+            {
+              "name": "University Library & Oude Markt",
+              "tip_5lang": {
+                "de": "Nutzen Sie den direkten Aufzug vom Parkhaus zur Bibliotheksebene.",
+                "hu": "Használd a közvetlen liftet a parkolótól a könyvtár szintjéig.",
+                "ro": "Folosiți liftul direct din parcare spre nivelul bibliotecii.",
+                "en": "Use the direct elevator from the parking garage to the library level."
+              }
+            },
+            {
+              "name": "Town Hall & St. Peter's Church",
+              "tip_5lang": {
+                "de": "Kurze Sprints zwischen den Gebäuden minimieren die Regenzeit.",
+                "hu": "Rövid futások az épületek között minimalizálják az esőben töltött időt.",
+                "ro": "Scurte sprinturi între clădiri minimizează timpul petrecut în ploaie.",
+                "en": "Quick sprints between historic buildings will keep you mostly dry."
+              }
+            },
+            {
+              "name": "Cluster 2: Drive to Park Abbey",
+              "tip_5lang": {
+                "de": "Genießen Sie die Fahrt durch die verregnete belgische Landschaft.",
+                "hu": "Élvezd az autózást az esős belga tájon keresztül.",
+                "ro": "Bucurați-vă de drumul prin peisajul belgian ploios.",
+                "en": "Enjoy the short drive through the rainy Belgian countryside."
+              }
+            },
+            {
+              "name": "Walk around the abbey's ponds",
+              "tip_5lang": {
+                "de": "Bei starkem Regen ist die Sicht auf die Teiche vom Auto aus besser.",
+                "hu": "Szakadó esőben a tavakra nyíló kilátás az autóból a legjobb.",
+                "ro": "În caz de ploaie torențială, vederea spre iazuri e mai bună din mașină.",
+                "en": "If it pours, the view of the ponds is best enjoyed from the car."
+              }
+            },
+            {
+              "name": "Cluster 3: Drive to Arenberg Castle",
+              "tip_5lang": {
+                "de": "Kostenlose Parkplätze direkt am Schloss sind bei Regen Gold wert.",
+                "hu": "A kastély melletti ingyenes parkolók aranyat érnek esőben.",
+                "ro": "Parcările gratuite de lângă castel sunt de mare ajutor pe ploaie.",
+                "en": "Free parking spots right by the castle are ideal for rainy days."
+              }
+            },
+            {
+              "name": "Groot Begijnhof",
+              "tip_5lang": {
+                "de": "Lassen Sie den Regenschirm griffbereit im Auto.",
+                "hu": "Tartsd az esernyőt kézközelben az autóban.",
+                "ro": "Păstrați umbrela la îndemână în mașină.",
+                "en": "Keep your umbrella within reach in the car for this stop."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Parkhäuser im Zentrum sind oft eng; fahren Sie vorsichtig.",
+              "Lassen Sie nasse Schirme im Kofferraum, um Beschlagen zu vermeiden.",
+              "Prüfen Sie die Scheibenwischer vor der Fahrt.",
+              "Navigieren Sie direkt zu den Parkhäusern 'Ladeuze' oder 'Minckelers'."
+            ],
+            "hu": [
+              "A belvárosi parkolóházak szűkek; vezess óvatosan.",
+              "A vizes ernyőt tedd a csomagtartóba, hogy ne párásodjon az ablak.",
+              "Ellenőrizd az ablaktörlőket indulás előtt.",
+              "Navigálj közvetlenül a 'Ladeuze' vagy 'Minckelers' parkolóházakhoz."
+            ],
+            "ro": [
+              "Parcările din centru sunt înguste; conduceți cu atenție.",
+              "Puneți umbrelele ude în portbagaj pentru a evita aburirea geamurilor.",
+              "Verificați ștergătoarele înainte de a porni la drum.",
+              "Navigați direct către parcările 'Ladeuze' sau 'Minckelers'."
+            ],
+            "en": [
+              "City center parking garages are tight; navigate with care.",
+              "Store wet umbrellas in the trunk to prevent interior fogging.",
+              "Check your wiper blades before starting your day trip.",
+              "Target 'Ladeuze' or 'Minckelers' parking for the easiest center access."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Löwen per Auto im Winter ist gemütlich und warm. Wir nutzen die Tiefgaragen, um Kaltstarts zu vermeiden. Der Tag beginnt festlich am Ladeuzeplein. Mittags fahren wir zur Abtei Park und genießen die frostige Aussicht, bevor wir das Schloss Arenberg besuchen und uns abends in die Stadt für ein warmes Abendessen zurückziehen.",
+            "hu": "Télen az autó kényelmes és meleg bázis Leuvenben. Mélygarázsokat használunk, hogy elkerüljük a jegesedést. A nap ünnepi hangulatban indul a Ladeuzeplein-en, majd a Park Apátság fagyos látványát élvezzük. Délután az Arenberg-kastély következik, végül egy meleg vacsorára térünk vissza.",
+            "ro": "Leuven cu mașina iarna este o variantă confortabilă. Folosim parcările subterane pentru a evita înghețul. Ziua începe festiv în Ladeuzeplein. La prânz mergem spre Abația Park pentru peisajul înghețat, vizităm castelul Arenberg și revenim seara pentru o cină caldă.",
+            "en": "A winter car trip to Leuven is warm and efficient. We utilize underground parking to stay out of the cold. The day starts with festive vibes at Ladeuzeplein, followed by a drive to see the frost-covered Park Abbey. We visit Arenberg Castle before heading back for a cozy dinner."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Park in City Center (e.g., Parking Ladeuze)",
+              "tip_5lang": {
+                "de": "Ein warmes Parkhaus erspart das Eiskratzen am Abend.",
+                "hu": "A fűtött parkolóház megkímél az esti jégkaparástól.",
+                "ro": "O parcare acoperită vă scutește de curățatul gheții seara.",
+                "en": "A covered parking garage saves you from scraping ice later."
+              }
+            },
+            {
+              "name": "University Library & Oude Markt",
+              "tip_5lang": {
+                "de": "Genießen Sie den Weihnachtsbaum auf dem Platz direkt vor dem Parkhaus.",
+                "hu": "Csodáld meg a karácsonyfát a téren, közvetlenül a parkoló mellett.",
+                "ro": "Admirați bradul de Crăciun din piață, chiar lângă parcare.",
+                "en": "Admire the Christmas tree on the square right outside the garage."
+              }
+            },
+            {
+              "name": "Town Hall & St. Peter's Church",
+              "tip_5lang": {
+                "de": "Das Rathaus ist im Winter abends wunderschön beleuchtet.",
+                "hu": "A városháza téli estéken gyönyörűen ki van világítva.",
+                "ro": "Primăria este superb iluminată în serile de iarnă.",
+                "en": "The Town Hall is beautifully illuminated on winter evenings."
+              }
+            },
+            {
+              "name": "Cluster 2: Drive to Park Abbey",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glätte auf den Nebenstraßen zur Abtei.",
+                "hu": "Ügyelj a csúszós utakra az apátsághoz vezető mellékutcákban.",
+                "ro": "Atenție la polei pe drumurile secundare spre abație.",
+                "en": "Watch out for icy patches on the side roads leading to the abbey."
+              }
+            },
+            {
+              "name": "Walk around the abbey's ponds",
+              "tip_5lang": {
+                "de": "Ein kurzes Aussteigen für Fotos reicht; die Heizung im Auto wartet.",
+                "hu": "Egy rövid fotószünet elég; a fűtés vár az autóban.",
+                "ro": "O scurtă oprire pentru poze e suficientă; căldura vă așteaptă în mașină.",
+                "en": "A quick photo stop is enough; the car's heater will be waiting."
+              }
+            },
+            {
+              "name": "Cluster 3: Drive to Arenberg Castle",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist im Winter oft weniger besucht.",
+                "hu": "A parkoló télen gyakran kevésbé zsúfolt.",
+                "ro": "Parcarea este adesea mai liberă pe timp de iarnă.",
+                "en": "The parking area is often much quieter during the winter months."
+              }
+            },
+            {
+              "name": "Groot Begijnhof",
+              "tip_5lang": {
+                "de": "Parken Sie am Rand und genießen Sie den kurzen winterlichen Spaziergang.",
+                "hu": "Parkolj a szélen, és élvezd a rövid téli sétát.",
+                "ro": "Parcați la margine și bucurați-vă de o scurtă plimbare hibernală.",
+                "en": "Park on the outskirts and enjoy a short, brisk winter walk."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in Belgien bei Frost ratsam.",
+              "Prüfen Sie den Frostschutz in der Scheibenwaschanlage.",
+              "Die Parkgebühren können im Zentrum hoch sein; nutzen Sie 'Park & Ride'.",
+              "Die Dämmerung beginnt früh, prüfen Sie Ihre Scheinwerfer."
+            ],
+            "hu": [
+              "Télen tanácsos téli gumit használni Belgiumban is.",
+              "Ellenőrizd a fagyállót a szélvédőmosóban.",
+              "A belvárosi parkolás drága lehet; fontold meg a 'Park & Ride' opciót.",
+              "A szürkület hamar jön, ellenőrizd a fényszórókat."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt recomandate în Belgia pe ger.",
+              "Verificați antigelul din lichidul de parbriz.",
+              "Parcarea centrală poate fi scumpă; folosiți 'Park & Ride'.",
+              "Amurgul vine devreme, verificați funcționarea farurilor."
+            ],
+            "en": [
+              "Winter tires are recommended for icy Belgian conditions.",
+              "Ensure your screen wash has adequate antifreeze.",
+              "Central parking is pricey; consider 'Park & Ride' for longer stays.",
+              "Dusk falls early, so double-check your headlights before leaving."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1542,6 +2128,188 @@
           "Most buses are cashless; buy your ticket in advance via the app, a machine, or a Lijnwinkel.",
           "Validate your ticket every time you board the bus."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Öffentliche Verkehrsmittel sind perfekt für ein verregnetes Löwen. Wir nutzen die dichten Busverbindungen, um trocken zwischen den Clustern zu pendeln. Der Vormittag gehört dem Zentrum und dem M-Museum. Mittags fahren wir zum Begijnhof und später zur Stella Artois Brauerei, immer mit einem Dach über dem Kopf.",
+            "hu": "A tömegközlekedés ideális az esős Leuven felfedezéséhez. A sűrű buszhálózatot használjuk, hogy szárazon jussunk el a látnivalókhoz. Délelőtt a központ és az M-Múzeum vár, délben a Begijnhofhoz utazunk, majd a Stella Artois sörfőzdét látogatjuk meg, végig fedél alatt maradva.",
+            "ro": "Transportul public este ideal pentru o zi ploioasă în Leuven. Folosim rețeaua densă de autobuze pentru a rămâne uscați. Dimineața vizităm centrul și Muzeul M. La prânz mergem spre Begijnhof, iar mai târziu la berăria Stella Artois, stând mereu la adăpost.",
+            "en": "Public transit is the perfect way to navigate a rainy Leuven. We use the frequent bus services to hop between clusters while staying dry. Morning is spent in the center and M-Museum, followed by a bus to the Begijnhof and Stella Artois Brewery, keeping a roof over our heads."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Arrive in Center (Oude Markt)",
+              "tip_5lang": {
+                "de": "Die Bushaltestellen im Zentrum sind meist überdacht.",
+                "hu": "A belvárosi buszmegállók többnyire fedettek.",
+                "ro": "Stațiile de autobuz din centru sunt majoritatea acoperite.",
+                "en": "Most bus stops in the city center have shelters to keep you dry."
+              }
+            },
+            {
+              "name": "Town Hall & St. Peter's Church",
+              "tip_5lang": {
+                "de": "Die meisten Busse halten nur wenige Schritte von der Kirche entfernt.",
+                "hu": "A legtöbb busz csak pár lépésre áll meg a templomtól.",
+                "ro": "Majoritatea autobuzelor opresc la câțiva pași de biserică.",
+                "en": "Most buses stop just a few steps away from the church entrance."
+              }
+            },
+            {
+              "name": "M-Museum Leuven",
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint von der Bushaltestelle bringt Sie direkt ins Museum.",
+                "hu": "Egy rövid futás a megállótól, és máris a múzeumban vagy.",
+                "ro": "Un scurt sprint de la stație vă duce direct în muzeu.",
+                "en": "A quick dash from the nearest bus stop gets you straight inside."
+              }
+            },
+            {
+              "name": "Cluster 2: Bus to Groot Begijnhof",
+              "tip_5lang": {
+                "de": "Warten Sie unter dem Wartehäuschen, bis der Bus kommt.",
+                "hu": "Várj a fedett váróban, amíg megérkezik a busz.",
+                "ro": "Așteptați sub copertina stației până sosește autobuzul.",
+                "en": "Wait inside the bus shelter until your ride arrives."
+              }
+            },
+            {
+              "name": "Cluster 3: Bus to Stella Artois Brewery",
+              "tip_5lang": {
+                "de": "Die Brauerei ist gut mit Linien aus dem Stadtzentrum verbunden.",
+                "hu": "A sörfőzde jól megközelíthető a belvárosi járatokkal.",
+                "ro": "Berăria este bine conectată prin linii din centrul orașului.",
+                "en": "The brewery is well connected by several bus lines from the center."
+              }
+            },
+            {
+              "name": "Kruidtuin (Botanical Garden)",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Bus, um die Laufwege im Regen zu minimieren.",
+                "hu": "Használd a buszt, hogy minimalizáld a gyaloglást az esőben.",
+                "ro": "Folosiți autobuzul pentru a minimiza mersul pe jos prin ploaie.",
+                "en": "Use the bus to minimize walking distance in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die De Lijn App für Echtzeit-Informationen.",
+              "Ein Tagesticket ist oft günstiger als Einzelfahrten.",
+              "Die Busse sind im Winter und bei Regen meist pünktlich.",
+              "Halten Sie Ihr Ticket beim Einsteigen bereit."
+            ],
+            "hu": [
+              "Használd a De Lijn alkalmazást a valós idejű adatokhoz.",
+              "A napijegy gyakran olcsóbb, mint a vonaljegyek.",
+              "A buszok esőben is többnyire pontosak.",
+              "Készítsd elő a jegyedet felszálláskor."
+            ],
+            "ro": [
+              "Folosiți aplicația De Lijn pentru informații în timp real.",
+              "Un bilet de o zi este adesea mai ieftin decât călătoriile individuale.",
+              "Autobuzele sunt de regulă punctuale chiar și pe ploaie.",
+              "Aveți biletul pregătit la urcarea în autobuz."
+            ],
+            "en": [
+              "Use the De Lijn app for real-time bus tracking and schedules.",
+              "A day pass is usually more cost-effective than single tickets.",
+              "Buses are generally punctual even during typical Belgian rain.",
+              "Have your ticket or contactless payment ready when boarding."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Löwen mit Bus und Bahn im Winter ist warm und entspannt. Wir starten am Oude Markt und nutzen die geheizten Busse für den Weg zum Begijnhof. Mittags besuchen wir das warme M-Museum, bevor wir am späten Nachmittag zur Stella Artois Brauerei fahren. Die Rückfahrt zum Bahnhof bietet einen Blick auf die beleuchtete Stadt.",
+            "hu": "Télen a leuveni tömegközlekedés meleg és pihentető. Az Oude Marktról indulunk, és fűtött buszokkal megyünk a Begijnhofhoz. Délben az M-Múzeumban melegszünk fel, majd késő délután a Stella Artois főzdéhez utazunk. A visszaút a vasútállomáshoz csodás kilátást nyújt a kivilágított városra.",
+            "ro": "Iarna, transportul public în Leuven este cald și relaxant. Începem de la Oude Markt și folosim autobuzele încălzite spre Begijnhof. La prânz ne încălzim în Muzeul M, iar după-amiaza mergem la Stella Artois. Drumul de întoarcere spre gară oferă vederi spre orașul iluminat.",
+            "en": "Navigating winter Leuven by bus is warm and stress-free. We start at Oude Markt and take heated buses to the Begijnhof. Midday is spent in the warm M-Museum, before heading to the Stella Artois Brewery. The bus ride back to the station offers great views of the festive city lights."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Arrive in Center (Oude Markt)",
+              "tip_5lang": {
+                "de": "Busse sind im Winter eine warme Alternative zum Laufen.",
+                "hu": "A busz télen meleg alternatívája a gyaloglásnak.",
+                "ro": "Autobuzele sunt o alternativă caldă la mersul pe jos iarna.",
+                "en": "Buses are a great warm alternative to walking in the freezing air."
+              }
+            },
+            {
+              "name": "Town Hall & St. Peter's Church",
+              "tip_5lang": {
+                "de": "Die Haltestellen sind nahe beieinander, um die Kältezeit draußen kurz zu halten.",
+                "hu": "A megállók közel vannak, így keveset kell a hidegben várni.",
+                "ro": "Stațiile sunt apropiate pentru a limita timpul petrecut în frig.",
+                "en": "Stops are close together, minimizing your time in the cold air."
+              }
+            },
+            {
+              "name": "M-Museum Leuven",
+              "tip_5lang": {
+                "de": "Genießen Sie die Wärme im Bus zwischen den Museumsbesuchen.",
+                "hu": "Élvezd a busz melegét a múzeumlátogatások között.",
+                "ro": "Bucurați-vă de căldura din autobuz între vizitele la muzee.",
+                "en": "Enjoy the warmth of the bus as you travel between warm interiors."
+              }
+            },
+            {
+              "name": "Cluster 2: Bus to Groot Begijnhof",
+              "tip_5lang": {
+                "de": "Achten Sie auf den Fahrplan, um langes Warten in der Kälte zu vermeiden.",
+                "hu": "Figyeld a menetrendet, hogy ne kelljen sokat várnod a hidegben.",
+                "ro": "Verificați programul pentru a nu aștepta mult în frig.",
+                "en": "Check the schedule to avoid long waits in the biting cold."
+              }
+            },
+            {
+              "name": "Cluster 3: Bus to Stella Artois Brewery",
+              "tip_5lang": {
+                "de": "Die Busse fahren bis spät am Abend, ideal für die Rückreise.",
+                "hu": "A buszok késő estig járnak, ideális a hazautazáshoz.",
+                "ro": "Autobuzele circulă până târziu, fiind ideale pentru întoarcere.",
+                "en": "Buses run until late evening, perfect for your return journey."
+              }
+            },
+            {
+              "name": "Kruidtuin (Botanical Garden)",
+              "tip_5lang": {
+                "de": "Ein schöner Ort, der auch im Winter gut mit dem Bus erreichbar ist.",
+                "hu": "Szép hely, ami télen is jól megközelíthető busszal.",
+                "ro": "Un loc frumos, ușor accesibil cu autobuzul și iarna.",
+                "en": "A lovely spot that remains easily accessible by bus in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Busse sind im Winter gut beheizt.",
+              "Abends sind die Busse oft weniger voll als zur Stoßzeit.",
+              "Tragen Sie trotzdem eine Mütze; an den Haltestellen zieht es oft.",
+              "Digitale Anzeigen an den Haltestellen informieren über Verspätungen."
+            ],
+            "hu": [
+              "A buszok télen jól fűtöttek.",
+              "Este a buszok gyakran kevésbé zsúfoltak, mint csúcsidőben.",
+              "Viselj sapkát; a megállókban gyakran huzat van.",
+              "A digitális kijelzők tájékoztatnak az esetleges késésekről."
+            ],
+            "ro": [
+              "Autobuzele sunt bine încălzite pe timp de iarnă.",
+              "Seara autobuzele sunt adesea mai libere decât la orele de vârf.",
+              "Purtați totuși căciulă; în stații este adesea curent.",
+              "Panourile digitale din stații vă informează despre întârzieri."
+            ],
+            "en": [
+              "Buses in Leuven are well-heated during the winter months.",
+              "Evening buses are often less crowded than during the afternoon rush.",
+              "Still wear a hat; bus stops can be quite drafty while waiting.",
+              "Digital displays at stops provide accurate real-time delay info."
+            ]
+          }
+        }
       }
     }
   }

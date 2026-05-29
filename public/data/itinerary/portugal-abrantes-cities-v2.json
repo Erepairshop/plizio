@@ -292,6 +292,188 @@
           "The castle walls are freely accessible, but the museum takes a lunch break.",
           "Free parking spots can be found below the castle hill."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag unter den Arkaden am Jardim da República. Die engen Gassen der Altstadt bieten teilweisen Schutz vor den Schauern auf dem Weg zu den Kirchen São João und São Vicente, wo Sie die Stille und Kunst im Trockenen genießen können. Mittags bietet das Innere der Burg und das Museum in der Kirche Santa Maria einen perfekten Rückzugsort. Den Nachmittag beschließen Sie am Aussichtspunkt, während die Wolken dramatisch über dem Tejo-Tal ziehen.",
+            "hu": "Kezdje a reggelt az esernyők alatt a Jardim da República téren. Az óváros szűk utcái némi védelmet nyújtanak a záporok elől a São João és São Vicente templomok felé, ahol szárazon csodálhatja meg a belső díszítéseket. Délben a vár vastag falai és a Santa Maria templomban működő múzeum kínál menedéket. A délutánt a kilátónál zárja, figyelve a Tejo felett vonuló viharfelhőket.",
+            "ro": "Începeți ziua sub umbrele în Jardim da República. Străzile înguste ale centrului vechi oferă adăpost parțial în drum spre bisericile São João și São Vicente, unde puteți admira arta în interior, la adăpost de ploaie. La prânz, zidurile groase ale castelului și muzeul din biserica Santa Maria oferă refugiul perfect. Încheiați după-amiaza la punctul de belvedere, privind norii dramatici deasupra văii Tejo.",
+            "en": "Start the morning under umbrellas at Jardim da República. The narrow old town streets provide partial shelter as you head to the churches of São João and São Vicente to admire the art indoors. At noon, the castle's thick walls and the museum inside Santa Maria Church offer a perfect dry retreat. End the afternoon at the viewpoint, watching the dramatic clouds roll over the Tagus valley."
+          },
+          "stops": [
+            {
+              "name": "Jardim da República",
+              "tip_5lang": {
+                "de": "Die Cafés rund um den Platz bieten trockene Sitzplätze für den Start.",
+                "hu": "A tér körüli kávézók fedett helyet kínálnak a kezdéshez.",
+                "ro": "Cafenelele din jurul pieței oferă locuri uscate pentru început.",
+                "en": "Cafes around the square offer dry seating for the start."
+              }
+            },
+            {
+              "name": "Igreja de São João Baptista",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Innenraum, um den stärksten Regen abzuwarten.",
+                "hu": "Használja a belső teret a hevesebb eső kivárására.",
+                "ro": "Folosiți interiorul pentru a aștepta trecerea ploii abundente.",
+                "en": "Use the interior to wait out the heaviest rain."
+              }
+            },
+            {
+              "name": "Igreja de São Vicente",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Azulejos, während es draußen regnet.",
+                "hu": "Csodálja meg az azulejo csempéket, amíg kint esik.",
+                "ro": "Admirați plăcile azulejos în timp ce afară plouă.",
+                "en": "Admire the azulejo tiles while it rains outside."
+              }
+            },
+            {
+              "name": "Castelo de Abrantes",
+              "tip_5lang": {
+                "de": "Die massiven Türme bieten Schutz und einen tollen Ausblick.",
+                "hu": "A masszív tornyok menedéket és nagyszerű kilátást nyújtanak.",
+                "ro": "Turnurile masive oferă adăpost și o priveliște excelentă.",
+                "en": "The massive towers provide shelter and a great view."
+              }
+            },
+            {
+              "name": "Igreja de Santa Maria do Castelo",
+              "tip_5lang": {
+                "de": "Das Museum ist komplett überdacht und ideal bei Schauern.",
+                "hu": "A múzeum teljesen fedett, ideális záporok idején.",
+                "ro": "Muzeul este complet acoperit, ideal în timpul averselor.",
+                "en": "The museum is completely indoor, ideal during showers."
+              }
+            },
+            {
+              "name": "Miradouro da Penha de França",
+              "tip_5lang": {
+                "de": "Vorsicht, die Pflastersteine können bei Nässe rutschig sein.",
+                "hu": "Vigyázat, a macskakő nedvesen csúszós lehet.",
+                "ro": "Atenție, pavajul poate fi alunecos când este ud.",
+                "en": "Caution, the cobblestones can be slippery when wet."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Regenschirm ist wegen der Windböen am Hügel wichtig.",
+              "Tragen Sie Schuhe mit gutem Profil für das nasse Kopfsteinpflaster.",
+              "Nutzen Sie die Kirchenbesuche als strategische Pausen im Trockenen.",
+              "Das Burgmuseum ist der beste Ort für eine längere Regenpause."
+            ],
+            "hu": [
+              "A dombon lévő széllökések miatt erős esernyő javasolt.",
+              "Válasszon tapadós talpú cipőt a csúszós macskakövekre.",
+              "Használja a templomlátogatásokat stratégiai pihenőként.",
+              "A vármúzeum a legjobb hely egy hosszabb esőszünetre."
+            ],
+            "ro": [
+              "Se recomandă o umbrelă rezistentă din cauza vântului de pe deal.",
+              "Purtați încălțăminte cu aderență pentru pavajul umed.",
+              "Folosiți vizitele la biserici ca pauze strategice la adăpost.",
+              "Muzeul castelului este cel mai bun loc pentru o pauză lungă de ploaie."
+            ],
+            "en": [
+              "A sturdy umbrella is recommended due to wind gusts on the hill.",
+              "Wear shoes with good grip for the slippery cobblestones.",
+              "Use church visits as strategic dry breaks throughout the day.",
+              "The castle museum is the best spot for a longer rainy break."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die klare Winterluft am Morgen im Jardim da República. Der Aufstieg zu den historischen Kirchen wärmt Sie auf, bevor Sie das kühle Innere besichtigen. Mittags strahlt die Sonne oft mild auf die Mauern des Castelo de Abrantes, was den Rundgang im Freien angenehm macht. Das Licht in der Kirche Santa Maria ist im Winter besonders sanft. Beenden Sie den Tag früh am Miradouro, um den Sonnenuntergang vor der frühen Dämmerung zu erleben.",
+            "hu": "Élvezze a friss téli reggelt a Jardim da República téren. A történelmi templomokhoz vezető emelkedő segít bemelegedni a hűvös belső terek előtt. Délben a nap gyakran lágyan süti a vár falait, kellemessé téve a szabadtéri sétát. A Santa Maria templom fénye télen különösen szép. A napot fejezze be korán a kilátónál, hogy még a korai sötétedés előtt lássa a naplementét.",
+            "ro": "Bucurați-vă de aerul proaspăt de iarnă dimineața în Jardim da República. Urcarea spre bisericile istorice vă va încălzi înainte de a vizita interioarele răcoroase. La prânz, soarele strălucește adesea blând pe zidurile castelului, făcând plimbarea plăcută. Lumina în biserica Santa Maria este deosebit de caldă iarna. Încheiați ziua devreme la Miradouro pentru a prinde apusul înainte de lăsarea serii.",
+            "en": "Enjoy the crisp winter morning air at Jardim da República. The walk up to the historic churches will warm you up before visiting the cool interiors. At noon, the sun often shines mildly on the castle walls, making the outdoor tour pleasant. The light inside Santa Maria Church is particularly soft in winter. End your day early at the viewpoint to catch the sunset before the early dusk."
+          },
+          "stops": [
+            {
+              "name": "Jardim da República",
+              "tip_5lang": {
+                "de": "Ein heißer Galao im Café wärmt Sie vor dem Spaziergang.",
+                "hu": "Egy forró Galao a kávézóban bemelegít a séta előtt.",
+                "ro": "Un Galao fierbinte la cafenea vă va încălzi înainte de plimbare.",
+                "en": "A hot Galao at a cafe will warm you up before the walk."
+              }
+            },
+            {
+              "name": "Igreja de São João Baptista",
+              "tip_5lang": {
+                "de": "Tragen Sie Schichten, da es in den Kirchen kühl sein kann.",
+                "hu": "Öltözzön rétegesen, mert a templomokban hűvös lehet.",
+                "ro": "Îmbrăcați-vă în straturi, deoarece în biserici poate fi răcoare.",
+                "en": "Wear layers as it can be chilly inside the churches."
+              }
+            },
+            {
+              "name": "Igreja de São Vicente",
+              "tip_5lang": {
+                "de": "Die Wintersonne beleuchtet die Fassade am Vormittag schön.",
+                "hu": "A téli nap délelőtt szépen megvilágítja a homlokzatot.",
+                "ro": "Soarele de iarnă luminează frumos fațada dimineața.",
+                "en": "The winter sun illuminates the facade beautifully in the morning."
+              }
+            },
+            {
+              "name": "Castelo de Abrantes",
+              "tip_5lang": {
+                "de": "Die windgeschützten Ecken im Burghof sind ideal für Pausen.",
+                "hu": "A várudvar szélvédett sarkai ideálisak a pihenésre.",
+                "ro": "Colțurile ferite de vânt din curtea castelului sunt ideale.",
+                "en": "The wind-sheltered corners of the courtyard are ideal for breaks."
+              }
+            },
+            {
+              "name": "Igreja de Santa Maria do Castelo",
+              "tip_5lang": {
+                "de": "Im Winter sind weniger Besucher im Museum.",
+                "hu": "Télen kevesebb a látogató a múzeumban.",
+                "ro": "Iarna sunt mai puțini vizitatori în muzeu.",
+                "en": "There are fewer visitors in the museum during winter."
+              }
+            },
+            {
+              "name": "Miradouro da Penha de França",
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang findet hier im Winter gegen 17:30 Uhr statt.",
+                "hu": "A naplemente itt télen 17:30 körül van.",
+                "ro": "Apusul are loc aici iarna în jurul orei 17:30.",
+                "en": "Sunset happens here around 17:30 in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne ist tagsüber mild, aber im Schatten bleibt es kühl.",
+              "Planen Sie das Ende der Tour vor 17:00 Uhr ein.",
+              "Warme Getränke in der Altstadt sind ein Muss.",
+              "Die klare Winterluft bietet die beste Fernsicht über den Tejo."
+            ],
+            "hu": [
+              "Napközben enyhe a nap, de árnyékban hűvös marad.",
+              "Tervezze a túra végét 17:00 óra elé.",
+              "A forró italok az óvárosban elengedhetetlenek.",
+              "A tiszta téli levegő biztosítja a legjobb kilátást a Tejóra."
+            ],
+            "ro": [
+              "Soarele este blând ziua, dar la umbră rămâne răcoare.",
+              "Planificați sfârșitul turului înainte de ora 17:00.",
+              "Băuturile calde în centrul vechi sunt obligatorii.",
+              "Aerul curat de iarnă oferă cea mai bună vizibilitate peste Tejo."
+            ],
+            "en": [
+              "The sun is mild during the day, but it stays cool in the shade.",
+              "Plan to finish your tour before 17:00.",
+              "Hot drinks in the old town are a must to stay warm.",
+              "Clear winter air provides the best long-distance views over the Tagus."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -539,6 +721,170 @@
           "Ensure brakes work well for the descent into the river valley.",
           "There are designated cycle paths in the Parque Tejo."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie vorsichtig am Jardim da República. Die Fahrt bergauf zur Burg erfordert bei Regen Konzentration auf dem Kopfsteinpflaster. Suchen Sie Schutz in den Burganlagen, bevor Sie zum Aussichtspunkt Penha de França weiterfahren. Die Abfahrt zur Ermida de Nossa Senhora da Guia ist steil und bei Nässe rutschig. Beenden Sie den Tag im Parque Tejo, wo die asphaltierten Wege am Fluss auch bei Regen gut befahrbar sind.",
+            "hu": "Kezdje óvatosan a Jardim da República téren. A várba vezető emelkedő esőben odafigyelést igényel a macskaköveken. Keressen menedéket a vár falai között, mielőtt a Penha de França kilátóhoz hajtana. Az Ermida de Nossa Senhora da Guia felé vezető lejtő meredek és nedvesen csúszós. A napot a Parque Tejo parkban zárja, ahol a folyóparti aszfaltozott utak esőben is jól járhatók.",
+            "ro": "Porniți cu prudență din Jardim da República. Urcarea spre castel necesită concentrare pe pavaj în timpul ploii. Căutați adăpost în complexul castelului înainte de a continua spre Penha de França. Coborârea spre Ermida de Nossa Senhora da Guia este abruptă și alunecoasă pe timp umed. Încheiați ziua în Parque Tejo, unde potecile asfaltate de lângă râu sunt accesibile și pe ploaie.",
+            "en": "Start cautiously at Jardim da República. The ride up to the castle requires focus on the cobblestones when raining. Seek shelter within the castle grounds before continuing to the Penha de França viewpoint. The descent to Ermida de Nossa Senhora da Guia is steep and slippery when wet. Finish your day at Parque Tejo, where the paved riverside paths remain rideable even in the rain."
+          },
+          "stops": [
+            {
+              "name": "Jardim da República",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen, bevor Sie auf nasser Straße losfahren.",
+                "hu": "Ellenőrizze a fékeket, mielőtt elindul a nedves úton.",
+                "ro": "Verificați frânele înainte de a porni pe drumul umed.",
+                "en": "Check your brakes before starting on the wet road."
+              }
+            },
+            {
+              "name": "Castelo de Abrantes",
+              "tip_5lang": {
+                "de": "Parken Sie das Rad im geschützten Eingangsbereich.",
+                "hu": "Parkolja a kerékpárt a védett bejárati részen.",
+                "ro": "Parcați bicicleta în zona de intrare protejată.",
+                "en": "Park your bike in the sheltered entrance area."
+              }
+            },
+            {
+              "name": "Miradouro da Penha de França",
+              "tip_5lang": {
+                "de": "Kurzer Stopp für Fotos, dann schnell zurück ins Trockene.",
+                "hu": "Rövid megálló fotózni, aztán gyorsan vissza a szárazra.",
+                "ro": "Oprire scurtă pentru poze, apoi rapid înapoi la uscat.",
+                "en": "Short stop for photos, then quickly back to the dry."
+              }
+            },
+            {
+              "name": "Ermida de Nossa Senhora da Guia",
+              "tip_5lang": {
+                "de": "Die kleine Kapelle bietet kurzzeitigen Schutz vor Schauern.",
+                "hu": "A kis kápolna rövid távú menedéket nyújt a záporok elől.",
+                "ro": "Mica capelă oferă adăpost temporar împotriva averselor.",
+                "en": "The small chapel offers short-term shelter from showers."
+              }
+            },
+            {
+              "name": "Parque Tejo",
+              "tip_5lang": {
+                "de": "Vermeiden Sie Rasenflächen, bleiben Sie auf den Wegen.",
+                "hu": "Kerülje a füves területeket, maradjon az utakon.",
+                "ro": "Evitați zonele cu iarbă, rămâneți pe poteci.",
+                "en": "Avoid grassy areas, stay on the paved paths."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vollständige Regenbekleidung ist für diese Hügeltour nötig.",
+              "Reduzieren Sie den Reifendruck leicht für besseren Grip.",
+              "Vermeiden Sie plötzliches Bremsen auf nassem Kopfsteinpflaster.",
+              "Schutzbleche am Rad verhindern Schlammspritzer im Park."
+            ],
+            "hu": [
+              "Teljes esőruházat szükséges ehhez a dombos túrához.",
+              "Enyhén csökkentse a guminyomást a jobb tapadásért.",
+              "Kerülje a hirtelen fékezést a nedves macskaköveken.",
+              "A sárvédők megakadályozzák a felverődő sarat a parkban."
+            ],
+            "ro": [
+              "Este necesar echipament complet de ploaie pentru acest traseu.",
+              "Reduceți ușor presiunea în anvelope pentru o aderență mai bună.",
+              "Evitați frânarea bruscă pe pavajul umed.",
+              "Aripile la bicicletă previn stropirea cu noroi în parc."
+            ],
+            "en": [
+              "Full rain gear is necessary for this hilly tour.",
+              "Slightly reduce tire pressure for better grip on wet surfaces.",
+              "Avoid sudden braking on the wet cobblestones.",
+              "Fenders on your bike will prevent mud splashes in the park."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den kühlen Morgen für den Anstieg zur Burg, um warm zu werden. Die Wintersonne bietet am Castelo de Abrantes wunderbare Lichtverhältnisse für Fotos. Radeln Sie weiter zum Miradouro, bevor Sie den Abstieg zur Ermida antreten. Die kühle Brise im Gesicht ist erfrischend auf dem Weg zum Tejo-Ufer. Den Nachmittag verbringen Sie entspannt im Parque Tejo, wo Sie die Ruhe der Nebensaison und den Blick auf den Fluss genießen.",
+            "hu": "Használja ki a hűvös reggelt a várba vezető emelkedőre, hogy bemelegedjen. A téli nap a várnál csodálatos fényeket kínál a fotózáshoz. Tekerjen tovább a kilátóhoz, mielőtt megkezdi az ereszkedést a kápolna felé. Az arcába fújó hűvös szellő frissítő a Tejo-part felé vezető úton. A délutánt töltse lazítva a Parque Tejo parkban, élvezve a holtszezon nyugalmát és a folyóra nyíló kilátást.",
+            "ro": "Folosiți dimineața răcoroasă pentru urcarea la castel ca să vă încălziți. Soarele de iarnă oferă condiții de lumină minunate pentru fotografii la castel. Pedalați mai departe spre Miradouro înainte de a începe coborârea spre Ermida. Briza răcoroasă este revigorantă în drum spre malul Tejo. Petreceți după-amiaza relaxat în Parque Tejo, bucurându-vă de liniștea sezonului rece.",
+            "en": "Use the cool morning for the climb to the castle to warm up. The winter sun provides wonderful lighting for photos at the castle. Cycle further to the viewpoint before starting the descent to the chapel. The cool breeze is refreshing on the way to the Tagus banks. Spend a relaxed afternoon at Parque Tejo, enjoying the off-season peace and the river views."
+          },
+          "stops": [
+            {
+              "name": "Jardim da República",
+              "tip_5lang": {
+                "de": "Tragen Sie Handschuhe, da der Fahrtwind im Winter kalt ist.",
+                "hu": "Viseljen kesztyűt, mert a menetszél télen hideg.",
+                "ro": "Purtați mănuși, deoarece vântul este rece iarna.",
+                "en": "Wear gloves as the wind chill is cold in winter."
+              }
+            },
+            {
+              "name": "Castelo de Abrantes",
+              "tip_5lang": {
+                "de": "Das Licht am Vormittag ist ideal für Panoramaaufnahmen.",
+                "hu": "A délelőtti fények ideálisak a panorámaképekhez.",
+                "ro": "Lumina de dimineață este ideală pentru fotografii panoramice.",
+                "en": "The morning light is ideal for panoramic shots."
+              }
+            },
+            {
+              "name": "Miradouro da Penha de França",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp reicht, um nicht auszukühlen.",
+                "hu": "Egy rövid megálló elég, hogy ne hűljön ki.",
+                "ro": "O oprire scurtă este suficientă pentru a nu răci.",
+                "en": "A short stop is enough to avoid getting too cold."
+              }
+            },
+            {
+              "name": "Ermida de Nossa Senhora da Guia",
+              "tip_5lang": {
+                "de": "Die Kapelle liegt im Winter oft im Schatten, es ist kühl.",
+                "hu": "A kápolna télen gyakran árnyékban van, hűvös a levegő.",
+                "ro": "Capela este adesea în umbră iarna, este răcoare.",
+                "en": "The chapel is often in the shade in winter; it is cool."
+              }
+            },
+            {
+              "name": "Parque Tejo",
+              "tip_5lang": {
+                "de": "Genießen Sie die Sonne am Flussufer, solange sie scheint.",
+                "hu": "Élvezze a napsütést a folyóparton, amíg süt.",
+                "ro": "Bucurați-vă de soare pe malul râului cât timp strălucește.",
+                "en": "Enjoy the sun by the river as long as it shines."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Mehrere Kleidungsschichten helfen gegen den Fahrtwind.",
+              "Vorder- und Rücklicht sind wegen der frühen Dämmerung wichtig.",
+              "Die Wege am Fluss können morgens Reif aufweisen.",
+              "Ein Thermosbecher mit Tee ist eine gute Ergänzung."
+            ],
+            "hu": [
+              "Több réteg ruha segít a menetszél ellen.",
+              "Az első és hátsó lámpa fontos a korai sötétedés miatt.",
+              "A folyóparti utak reggel zúzmarásak lehetnek.",
+              "Egy termosz tea jó kiegészítő a túrához."
+            ],
+            "ro": [
+              "Mai multe straturi de haine ajută împotriva vântului.",
+              "Luminile față-spate sunt importante din cauza amurgului timpuriu.",
+              "Potecile de lângă râu pot avea brumă dimineața.",
+              "Un termos cu ceai este un accesoriu util."
+            ],
+            "en": [
+              "Multiple layers of clothing help against the wind chill.",
+              "Front and rear lights are essential due to early dusk.",
+              "Riverside paths may have frost in the early morning.",
+              "A thermos with hot tea is a great addition for the ride."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -769,6 +1115,188 @@
           "Divide the town into the upper town and lower town (river) to save driving time.",
           "Streets in the old town are narrow, so park slightly outside the immediate core."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie das Auto, um trocken zwischen den Highlights von Abrantes zu pendeln. Parken Sie nahe dem Jardim da República für einen kurzen Stadtrundgang. Fahren Sie zur Burg hinauf, wo Sie direkt vor den Mauern parken können, um den Regenweg zu minimieren. Das Museum in der Santa Maria Kirche ist ein ideales Indoor-Ziel. Nach dem Besuch der Ermida fahren Sie zum Parque Tejo, wo Sie den Blick auf den Fluss geschützt aus dem Auto genießen können.",
+            "hu": "Használja az autót, hogy szárazon közlekedjen Abrantes látnivalói között. Parkoljon a Jardim da República közelében egy rövid városi sétához. Hajtson fel a várhoz, ahol közvetlenül a falak előtt parkolhat, minimalizálva az esőben megtett utat. A Santa Maria templom múzeuma ideális fedett úti cél. A kápolna meglátogatása után hajtson a Parque Tejo parkhoz, ahol az autóból is élvezheti a folyóra nyíló kilátást.",
+            "ro": "Folosiți mașina pentru a vă deplasa fără a vă uda între atracțiile din Abrantes. Parcați lângă Jardim da República pentru o scurtă plimbare. Urcați cu mașina la castel, unde puteți parca chiar în fața zidurilor pentru a minimiza mersul prin ploaie. Muzeul din biserica Santa Maria este o destinație ideală de interior. După vizitarea Ermidei, mergeți la Parque Tejo, unde puteți admira râul din confortul mașinii.",
+            "en": "Use your car to stay dry while commuting between Abrantes' highlights. Park near Jardim da República for a quick stroll. Drive up to the castle, where you can park right in front of the walls to minimize walking in the rain. The museum inside Santa Maria Church is an ideal indoor destination. After visiting the chapel, drive to Parque Tejo, where you can enjoy the river views from the comfort of your car."
+          },
+          "stops": [
+            {
+              "name": "Jardim da República",
+              "tip_5lang": {
+                "de": "Nahegelegene Parkplätze ermöglichen schnelles Ein- und Aussteigen.",
+                "hu": "A közeli parkolóhelyek gyors kiszállást tesznek lehetővé.",
+                "ro": "Locurile de parcare din apropiere permit accesul rapid.",
+                "en": "Nearby parking spots allow for quick entry and exit."
+              }
+            },
+            {
+              "name": "Igreja de São João Baptista",
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Parken in engen, überfluteten Gassen.",
+                "hu": "Kerülje a parkolást a szűk, elöntött utcákban.",
+                "ro": "Evitați parcarea în străzile înguste care pot fi inundate.",
+                "en": "Avoid parking in narrow, potentially flooded streets."
+              }
+            },
+            {
+              "name": "Castelo de Abrantes",
+              "tip_5lang": {
+                "de": "Der Parkplatz an der Burgmauer ist bei Regen sehr praktisch.",
+                "hu": "A várfal melletti parkoló esőben nagyon praktikus.",
+                "ro": "Parcarea de lângă zidul castelului este foarte practică pe ploaie.",
+                "en": "The parking lot by the castle wall is very practical in the rain."
+              }
+            },
+            {
+              "name": "Igreja de Santa Maria do Castelo",
+              "tip_5lang": {
+                "de": "Direkter Zugang vom Burgparkplatz aus.",
+                "hu": "Közvetlen hozzáférés a vár parkolójából.",
+                "ro": "Acces direct din parcarea castelului.",
+                "en": "Direct access from the castle parking area."
+              }
+            },
+            {
+              "name": "Ermida de Nossa Senhora da Guia",
+              "tip_5lang": {
+                "de": "Die Zufahrt kann bei Starkregen rutschig sein.",
+                "hu": "A felhajtó heves esőzéskor csúszós lehet.",
+                "ro": "Drumul de acces poate fi alunecos în timpul ploilor torențiale.",
+                "en": "The access road can be slippery during heavy rain."
+              }
+            },
+            {
+              "name": "Parque Tejo",
+              "tip_5lang": {
+                "de": "Parken Sie am Rand für den besten Ausblick auf den Fluss.",
+                "hu": "Parkoljon a szélen a legjobb folyóparti kilátásért.",
+                "ro": "Parcați la margine pentru cea mai bună vedere spre râu.",
+                "en": "Park at the edge for the best view of the river."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Scheibenwischer auf höchster Stufe in den Hügeln.",
+              "Achten Sie auf Pfützen in den tiefer gelegenen Altstadtgassen.",
+              "Der Parkplatz an der Burg spart Ihnen den nassen Aufstieg.",
+              "Lassen Sie nasse Regenschirme im Kofferraum."
+            ],
+            "hu": [
+              "Használja a maximális fokozatú ablaktörlőt a dombok között.",
+              "Vigyázzon a tócsákra az óváros mélyebben fekvő utcáin.",
+              "A vári parkoló megkíméli Önt a vizes felfelé sétálástól.",
+              "A vizes esernyőket hagyja a csomagtartóban."
+            ],
+            "ro": [
+              "Folosiți ștergătoarele la viteză maximă în zona de dealuri.",
+              "Atenție la bălțile din străzile joase ale centrului vechi.",
+              "Parcarea de la castel vă scutește de urcarea prin ploaie.",
+              "Lăsați umbrelele ude în portbagaj."
+            ],
+            "en": [
+              "Use high-speed wipers when navigating the hills.",
+              "Watch out for puddles in the lower old town streets.",
+              "The parking lot at the castle saves you from a wet climb.",
+              "Keep wet umbrellas in the trunk to avoid fogging windows."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Wintertag komfortabel im beheizten Auto am Jardim da República. Die Fahrt zur Burg bietet bereits tolle Ausblicke auf das winterliche Umland. Parken Sie direkt am Castelo de Abrantes und genießen Sie die klare Luft beim Rundgang. Mittags ist das Licht im Museum Santa Maria besonders schön. Besuchen Sie die Ermida am Nachmittag, bevor Sie den Tag im Parque Tejo ausklingen lassen, wo Sie die Winterstimmung am Fluss am besten erleben.",
+            "hu": "Kezdje a téli napot kényelmesen a fűtött autóban a Jardim da República téren. A várba vezető út már szép kilátást nyújt a téli tájra. Parkoljon közvetlenül a várnál, és élvezze a friss levegőt a séta közben. Délben a Santa Maria templom múzeumának fényei különlegesek. Látogassa meg a kápolnát délután, mielőtt a napot a Parque Tejo parkban zárná, élvezve a folyóparti téli hangulatot.",
+            "ro": "Începeți ziua de iarnă confortabil în mașina încălzită la Jardim da República. Drumul spre castel oferă deja vederi frumoase asupra împrejurimilor. Parcați chiar la castel și bucurați-vă de aerul curat în timpul vizitei. La prânz, lumina din muzeul Santa Maria este deosebit de frumoasă. Vizitați Ermida după-amiaza înainte de a încheia ziua la Parque Tejo.",
+            "en": "Start your winter day comfortably in a heated car at Jardim da República. The drive to the castle already offers great views of the winter surroundings. Park right at the castle and enjoy the crisp air during your tour. At noon, the light in the Santa Maria museum is especially beautiful. Visit the chapel in the afternoon before ending your day at Parque Tejo to enjoy the winter atmosphere by the river."
+          },
+          "stops": [
+            {
+              "name": "Jardim da República",
+              "tip_5lang": {
+                "de": "Die Heizung auf volle Stufe vor dem ersten Aussteigen.",
+                "hu": "A fűtést állítsa maximumra az első kiszállás előtt.",
+                "ro": "Setați încălzirea la maxim înainte de prima coborâre.",
+                "en": "Set the heater to full before your first stop."
+              }
+            },
+            {
+              "name": "Igreja de São João Baptista",
+              "tip_5lang": {
+                "de": "Kurze Parkdauer ist im Winter meist unproblematisch.",
+                "hu": "A rövid parkolás télen általában nem probléma.",
+                "ro": "Parcarea pe durată scurtă este de obicei facilă iarna.",
+                "en": "Short-term parking is usually easy in winter."
+              }
+            },
+            {
+              "name": "Castelo de Abrantes",
+              "tip_5lang": {
+                "de": "Genießen Sie die Aussicht aus dem warmen Auto.",
+                "hu": "Élvezze a kilátást a meleg autóból.",
+                "ro": "Bucurați-vă de priveliște din mașina caldă.",
+                "en": "Enjoy the view from your warm car."
+              }
+            },
+            {
+              "name": "Igreja de Santa Maria do Castelo",
+              "tip_5lang": {
+                "de": "Die Parkplätze sind im Winter weniger belegt.",
+                "hu": "A parkolóhelyek télen kevésbé telítettek.",
+                "ro": "Locurile de parcare sunt mai puțin ocupate iarna.",
+                "en": "Parking spaces are less crowded in winter."
+              }
+            },
+            {
+              "name": "Ermida de Nossa Senhora da Guia",
+              "tip_5lang": {
+                "de": "Achten Sie auf tiefe Sonnenstände beim Fahren.",
+                "hu": "Vigyázzon az alacsony napállásra vezetés közben.",
+                "ro": "Atenție la soarele jos în timp ce conduceți.",
+                "en": "Watch out for low sun glare while driving."
+              }
+            },
+            {
+              "name": "Parque Tejo",
+              "tip_5lang": {
+                "de": "Ideal für einen kurzen Stopp vor Einbruch der Dunkelheit.",
+                "hu": "Ideális egy rövid megállóra a sötétedés beállta előtt.",
+                "ro": "Ideal pentru o scurtă oprire înainte de lăsarea întunericului.",
+                "en": "Ideal for a short stop before darkness falls."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Reifendruck bei niedrigen Temperaturen.",
+              "Die Batterieleistung kann im Winter nachlassen.",
+              "Nutzen Sie die Sitzheizung für die kurzen Fahrten.",
+              "Planen Sie die Rückfahrt vor Sonnenuntergang (ca. 17:30)."
+            ],
+            "hu": [
+              "Ellenőrizze a guminyomást alacsony hőmérsékleten.",
+              "Az akkumulátor teljesítménye télen csökkenhet.",
+              "Használja az ülésfűtést a rövid utakra.",
+              "Tervezze meg a visszautat naplemente előtt (kb. 17:30)."
+            ],
+            "ro": [
+              "Verificați presiunea în anvelope la temperaturi scăzute.",
+              "Performanța bateriei poate scădea iarna.",
+              "Folosiți încălzirea în scaune pentru drumurile scurte.",
+              "Planificați întoarcerea înainte de apus (aprox. 17:30)."
+            ],
+            "en": [
+              "Check tire pressure as it drops in lower temperatures.",
+              "Battery performance can decrease in winter.",
+              "Use seat heaters for short drives between stops.",
+              "Plan your return trip before sunset (approx. 17:30)."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -980,6 +1508,170 @@
           "Check the timetables for the urban minibuses in advance.",
           "On Sundays, buses run less frequently to the outskirts."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den lokalen Busdienst, um trockenen Fußes zum Jardim da República zu gelangen. Der Bus bringt Sie nahe an die Kirche São Vicente, was den Weg im Regen verkürzt. Ein weiterer Bus bringt Sie bergauf zur Burg, wo Sie die Zeit im Museum überbrücken können. Nach dem Aussichtspunkt fahren Sie mit dem Transit zum Parque Tejo hinunter. Die Wartezeiten an den Bushaltestellen lassen sich gut unter Vordächern oder in Cafés verbringen.",
+            "hu": "Használja a helyi buszjáratokat, hogy száraz lábbal jusson el a Jardim da República térre. A busz közel viszi a São Vicente templomhoz, lerövidítve az esőben megtett utat. Egy másik busz felviszi a várhoz, ahol a múzeumban töltheti az időt. A kilátó után tömegközlekedéssel menjen le a Parque Tejo parkba. A buszmegállókban a várakozási időt tetők alatt vagy kávézókban töltheti.",
+            "ro": "Folosiți autobuzele locale pentru a ajunge cu picioarele uscate în Jardim da República. Autobuzul vă lasă aproape de biserica São Vicente, scurtând drumul prin ploaie. Un alt autobuz vă duce sus la castel, unde puteți petrece timp în muzeu. După punctul de belvedere, coborâți cu transportul public spre Parque Tejo. Timpul de așteptare în stații poate fi petrecut sub copertine.",
+            "en": "Use the local bus service to reach Jardim da República with dry feet. The bus drops you near São Vicente Church, shortening the walk in the rain. Another bus takes you uphill to the castle, where you can spend time in the museum. After the viewpoint, take transit down to Parque Tejo. Waiting times at bus stops can be managed by staying under shelters or in nearby cafes."
+          },
+          "stops": [
+            {
+              "name": "Jardim da República",
+              "tip_5lang": {
+                "de": "Die Haltestelle verfügt über einen Unterstand.",
+                "hu": "A megálló fedett váróval rendelkezik.",
+                "ro": "Stația are un adăpost acoperit.",
+                "en": "The bus stop has a covered shelter."
+              }
+            },
+            {
+              "name": "Igreja de São Vicente",
+              "tip_5lang": {
+                "de": "Kurzer Sprint von der Bushaltestelle zum Kircheneingang.",
+                "hu": "Rövid sprint a buszmegállótól a templom bejáratáig.",
+                "ro": "Sprint scurt de la stația de autobuz la intrarea în biserică.",
+                "en": "Short sprint from the bus stop to the church entrance."
+              }
+            },
+            {
+              "name": "Castelo de Abrantes",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Busfahrplan genau, um Wartezeiten im Regen zu vermeiden.",
+                "hu": "Ellenőrizze pontosan a menetrendet, hogy ne várjon az esőben.",
+                "ro": "Verificați programul autobuzelor pentru a nu aștepta în ploaie.",
+                "en": "Check the bus schedule carefully to avoid waiting in the rain."
+              }
+            },
+            {
+              "name": "Miradouro da Penha de França",
+              "tip_5lang": {
+                "de": "Die nächste Haltestelle ist etwa 5 Minuten entfernt.",
+                "hu": "A legközelebbi megálló kb. 5 perc sétára van.",
+                "ro": "Cea mai apropiată stație este la aproximativ 5 minute.",
+                "en": "The nearest stop is about a 5-minute walk away."
+              }
+            },
+            {
+              "name": "Parque Tejo",
+              "tip_5lang": {
+                "de": "Der Bus hält direkt am Eingang des Parks.",
+                "hu": "A busz közvetlenül a park bejáratánál áll meg.",
+                "ro": "Autobuzul oprește chiar la intrarea în parc.",
+                "en": "The bus stops right at the park entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Holen Sie sich eine Fahrkarte im Voraus, um Hektik zu vermeiden.",
+              "Die Busse sind im Winter und bei Regen oft voller.",
+              "Tragen Sie eine wasserfeste Jacke für die kurzen Wege zur Haltestelle.",
+              "Prüfen Sie die App auf Echtzeit-Verspätungen."
+            ],
+            "hu": [
+              "Váltson jegyet előre, hogy elkerülje a kapkodást.",
+              "A buszok télen és esőben gyakran zsúfoltabbak.",
+              "Viseljen vízálló kabátot a megállóig tartó rövid utakra.",
+              "Ellenőrizze az alkalmazásban a valós idejű késéseket."
+            ],
+            "ro": [
+              "Cumpărați biletul în avans pentru a evita agitația.",
+              "Autobuzele sunt adesea mai pline iarna și pe ploaie.",
+              "Purtați o jachetă impermeabilă pentru drumurile scurte spre stație.",
+              "Verificați aplicația pentru întârzieri în timp real."
+            ],
+            "en": [
+              "Buy your ticket in advance to avoid any rush.",
+              "Buses are often more crowded during winter and rain.",
+              "Wear a waterproof jacket for the short walks to the stops.",
+              "Check for real-time delays on the transit app."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie am Morgen mit dem Bus zum Jardim da República, um die Kälte zu umgehen. Die Fahrt zur Burg bietet einen warmen Sitzplatz, während Sie den Hügel erklimmen. Mittags können Sie das Castelo besuchen und die Wintersonne im Hof genießen. Der Transit bringt Sie bequem zum Aussichtspunkt und später zum Tejo-Ufer. Achten Sie auf den Fahrplan am Nachmittag, da die Busfrequenz im Winter variieren kann, und beenden Sie die Tour vor Einbruch der Dunkelheit.",
+            "hu": "Kezdje a reggelt busszal a Jardim da República felé, hogy elkerülje a hideget. A várba vezető út meleg ülőhelyet kínál, miközben feljut a dombra. Napközben meglátogathatja a várat, és élvezheti a téli napsütést az udvaron. A tömegközlekedés kényelmesen elviszi a kilátóhoz, majd később a Tejo-partra. Figyeljen a délutáni menetrendre, mert a buszok sűrűsége télen változhat.",
+            "ro": "Începeți dimineața cu autobuzul spre Jardim da República pentru a evita frigul. Drumul spre castel vă oferă un loc cald în timp ce urcați dealul. În timpul zilei puteți vizita castelul și vă puteți bucura de soarele de iarnă în curte. Transportul public vă duce confortabil la punctul de belvedere și apoi la malul râului. Atenție la programul de după-amiază, frecvența poate varia.",
+            "en": "Start your morning with a bus to Jardim da República to avoid the cold. The ride to the castle offers a warm seat as you ascend the hill. During the day, you can visit the castle and enjoy the winter sun in the courtyard. Transit takes you comfortably to the viewpoint and later to the Tagus banks. Watch the afternoon schedule, as bus frequency can vary in winter."
+          },
+          "stops": [
+            {
+              "name": "Jardim da República",
+              "tip_5lang": {
+                "de": "Warten Sie im Inneren des Cafés an der Haltestelle.",
+                "hu": "Várjon a megálló melletti kávézó belsejében.",
+                "ro": "Așteptați în interiorul cafenelei de lângă stație.",
+                "en": "Wait inside the cafe near the bus stop."
+              }
+            },
+            {
+              "name": "Igreja de São Vicente",
+              "tip_5lang": {
+                "de": "Die Busse sind im Winter gut beheizt.",
+                "hu": "A buszok télen jól fűtöttek.",
+                "ro": "Autobuzele sunt bine încălzite iarna.",
+                "en": "Buses are well-heated in winter."
+              }
+            },
+            {
+              "name": "Castelo de Abrantes",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle liegt nahe am Haupteingang.",
+                "hu": "A buszmegálló közel van a főbejárathoz.",
+                "ro": "Stația de autobuz este aproape de intrarea principală.",
+                "en": "The bus stop is located near the main entrance."
+              }
+            },
+            {
+              "name": "Miradouro da Penha de França",
+              "tip_5lang": {
+                "de": "Planen Sie den Bus zurück rechtzeitig vor der Dämmerung.",
+                "hu": "Tervezze meg a visszautat időben, sötétedés előtt.",
+                "ro": "Planificați întoarcerea cu autobuzul înainte de amurg.",
+                "en": "Plan your bus back well before dusk."
+              }
+            },
+            {
+              "name": "Parque Tejo",
+              "tip_5lang": {
+                "de": "Letzte Rückfahrt im Winter meist gegen 19:00 Uhr.",
+                "hu": "Az utolsó járat visszafelé télen 19:00 körül van.",
+                "ro": "Ultima cursă de întoarcere iarna este în jur de ora 19:00.",
+                "en": "The last return trip in winter is usually around 19:00."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Wartezeit für einen warmen Snack.",
+              "Die Fenster in den Bussen können bei Kälte beschlagen.",
+              "Die Busse sind zuverlässig, aber seltener als im Sommer.",
+              "Behalten Sie die Uhr für die letzte Verbindung im Auge."
+            ],
+            "hu": [
+              "Használja ki a várakozási időt egy meleg snackre.",
+              "A buszok ablakai a hidegben bepárásodhatnak.",
+              "A buszok megbízhatóak, de ritkábbak, mint nyáron.",
+              "Tartsa szemmel az órát az utolsó járat miatt."
+            ],
+            "ro": [
+              "Folosiți timpul de așteptare pentru o gustare caldă.",
+              "Geamurile autobuzelor se pot aburi din cauza frigului.",
+              "Autobuzele sunt sigure, dar mai rare decât vara.",
+              "Fiți atenți la oră pentru ultima conexiune."
+            ],
+            "en": [
+              "Use waiting times for a quick warm snack.",
+              "Bus windows may fog up due to the temperature difference.",
+              "Buses are reliable but run less frequently than in summer.",
+              "Keep an eye on the clock for the last connection."
+            ]
+          }
+        }
       }
     }
   }

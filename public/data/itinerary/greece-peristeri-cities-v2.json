@@ -386,6 +386,206 @@
           "Most shops close in the afternoon for a siesta, plan your shopping accordingly.",
           "Embrace the slow pace; Peristeri is a place to relax, not to rush."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens beginnt der Tag am Rathausplatz, wo der Regen auf die Pflastersteine trommelt. Ein starker griechischer Kaffee wärmt in einer der vielen Arkaden.\n\nMittags führt der Weg durch die Fußgängerzone Ethnikis Antistasis, geschützt unter den Markisen der Geschäfte. Der Duft von frischem Gebäck mischt sich mit der kühlen Luft.\n\nNachmittags bietet der Peristeri-Hain eine mystische Atmosphäre im Nebel. Die hohen Eukalyptusbäume bieten zwar Schutz, aber der Boden ist rutschig.\n\nAbends glänzen die Lichter des Stadions in den Pfützen. In einer gemütlichen Taverne lässt man den Tag bei kräftigem Rotwein und Ouzo ausklingen.",
+            "hu": "Reggel a Városháza téren kezdünk, ahol az eső kopogása ritmust ad a kávézók zajának. Egy forró görög kávé segít elindulni az árkádok védelmében.\n\nDélben az Ethnikis Antistasis sétálóutcán haladunk, az üzletek napellenzői alatt bújva az égi áldás elől. A friss pékáru illata betölti a nedves utcákat.\n\nDélután a Peristeri-liget ködös, zöld oázissá válik. Az utak csúszósak lehetnek, de a fák lombjai között különlegesen friss a levevő.\n\nEste a stadion fényei tükröződnek a tócsákban. Egy közeli taverna melegében, a kandalló mellett zárjuk a napot egy tál meleg moussakával.",
+            "ro": "Dimineața începe în Piața Primăriei, unde ploaia răpăie pe pavaj, creând o atmosferă melancolică. O cafea grecească fierbinte sub arcade este startul perfect.\n\nLa prânz, zona pietonală Ethnikis Antistasis oferă adăpost sub copertinele magazinelor. Mirosul de plăcinte calde te îmbie să te oprești în drumul spre biserică.\n\nDupă-amiaza, Dumbrava Peristeri este învăluită în ceață, oferind un peisaj aproape ireal. Aerul este incredibil de proaspăt printre arborii de eucalipt.\n\nSeara, luminile stadionului se reflectă în bălți, transformând asfaltul într-o oglindă. O tavernă locală cu muzică rebetiko este refugiul ideal pentru cină.",
+            "en": "Morning starts at Town Hall Square, where rain taps a rhythm on the pavement. A strong Greek coffee under the cafe's awning provides the perfect warm start.\n\nNoon takes us through the Ethnikis Antistasis pedestrian zone, utilizing shop canopies as natural umbrellas. The scent of fresh pastries fills the humid air.\n\nAfternoon finds the Peristeri Grove mist-covered and exceptionally green. While the paths might be slick, the air is crisp and refreshing under the tall trees.\n\nEvening arrives with stadium lights shimmering in puddles. We retreat to a cozy local taverna, ending the day with hearty dishes and warm hospitality."
+          },
+          "stops": [
+            {
+              "name": "Town Hall Square",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz in den Cafés unter den Arkaden.",
+                "hu": "Használd ki a tér körüli árkádos kávézók védelmét.",
+                "ro": "Căutați adăpost în cafenelele de sub arcadele pieței.",
+                "en": "Take shelter in the cafes under the square's arcades."
+              }
+            },
+            {
+              "name": "Ethnikis Antistasis Pedestrian Zone",
+              "tip_5lang": {
+                "de": "Die Markisen der Geschäfte bieten guten Schutz vor Regen.",
+                "hu": "Az üzletek napellenzői alatt szárazon maradhatsz.",
+                "ro": "Copertinele magazinelor oferă protecție bună împotriva ploii.",
+                "en": "Shop awnings provide excellent cover from the rain."
+              }
+            },
+            {
+              "name": "Church of Agios Antonios",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um einen starken Regenschauer abzuwarten.",
+                "hu": "Csendes menedék egy nagyobb zápor átvészeléséhez.",
+                "ro": "Un loc liniștit pentru a aștepta trecerea unei averse.",
+                "en": "A peaceful place to wait out a heavy downpour."
+              }
+            },
+            {
+              "name": "Lunch at a local Taverna",
+              "tip_5lang": {
+                "de": "Genießen Sie warme Spezialitäten wie Moussaka im Trockenen.",
+                "hu": "Élvezd a forró moussakát a taverna barátságos belső terében.",
+                "ro": "Savurați specialități calde precum moussaka la interior.",
+                "en": "Enjoy warm specialties like moussaka in the cozy interior."
+              }
+            },
+            {
+              "name": "Peristeri Grove",
+              "tip_5lang": {
+                "de": "Achten Sie auf rutschiges Laub auf den Parkwegen.",
+                "hu": "Vigyázz a csúszós levelekre a park sétányain.",
+                "ro": "Atenție la frunzele alunecoase de pe aleile parcului.",
+                "en": "Watch out for slippery leaves on the park paths."
+              }
+            },
+            {
+              "name": "Municipal Stadium of Peristeri",
+              "tip_5lang": {
+                "de": "Der Betonboden um das Stadion kann sehr glatt sein.",
+                "hu": "A stadion körüli betonfelületek esőben csúszósak.",
+                "ro": "Suprafețele de beton din jurul stadionului sunt alunecoase.",
+                "en": "Concrete surfaces around the stadium can be slippery."
+              }
+            },
+            {
+              "name": "Park of Peace and Friendship",
+              "tip_5lang": {
+                "de": "Ein schneller Blick genügt; die U-Bahn ist nah zum Unterstellen.",
+                "hu": "Csak egy gyors séta, a közeli metró jó menedék.",
+                "ro": "O plimbare scurtă; metroul din apropiere este un adăpost bun.",
+                "en": "A quick visit; the nearby metro is a good refuge."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da sich in den Seitenstraßen schnell Pfützen bilden.",
+              "Ein stabiler Schirm ist wichtig wegen der böigen Winde.",
+              "Griechische Zitronensuppe ist das ideale Mittagessen an Regentagen.",
+              "Nutzen Sie die Metro-Unterführungen als trockene Abkürzungen."
+            ],
+            "hu": [
+              "Viselj vízálló cipőt, mert a mellékutcákban gyorsan összegyűlik a víz.",
+              "Erős esernyőt hozz, mert a szél könnyen kifordíthatja.",
+              "A görög Avgolemono leves ilyenkor a legjobb választás ebédre.",
+              "Használd a metróaluljárókat száraz átjáróként a pontok között."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, bălțile se formează rapid pe străzile secundare.",
+              "O umbrelă rezistentă este esențială din cauza vântului.",
+              "Supa grecească Avgolemono este alegerea ideală pentru prânz.",
+              "Folosiți pasajele de la metrou ca scurtături uscate între puncte."
+            ],
+            "en": [
+              "Wear waterproof shoes, as puddles form quickly in side streets.",
+              "A sturdy umbrella is a must due to gusty Athenian winds.",
+              "Greek Avgolemono soup is the perfect warm lunch on rainy days.",
+              "Use metro underpasses as dry shortcuts between stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens liegt eine kühle Brise über dem Rathausplatz. Die Sonne steht tief und taucht die modernen Gebäude in ein klares Winterlicht.\n\nMittags wärmen wir uns in der Fußgängerzone auf. Die Atmosphäre ist lebendig, und der Duft von gerösteten Kastanien liegt in der Luft.\n\nNachmittags sinken die Temperaturen im Peristeri-Hain spürbar. Der frühe Sonnenuntergang färbt den Himmel über Athen in tiefe Orangetöne.\n\nAbends funkeln die Lichter des Stadions in der kalten Luft. Eine Taverne mit Kamin bietet den perfekten Abschluss für den winterlichen Tag.",
+            "hu": "Reggel hűvös szél fúj át a Városháza téren. A téli nap alacsonyan jár, éles fénybe vonva a modern épületeket a tiszta égbolt alatt.\n\nDélben a sétálóutca forgatagában melegszünk fel. A levegőben sült gesztenye illata száll, a kávézók teraszain pedig gőzölögnek a csészék.\n\nDélután a Peristeri-ligetben a hűvös levegő frissítő. Az ötkori naplemente drámai színekkel búcsúztatja a napot az attikai hegyek mögött.\n\nEste a stadion környékén a hideg levegőben messzire látszanak a város fényei. Egy belső fűtött taverna a legjobb hely egy forró vacsorához.",
+            "ro": "Dimineața, o briză rece străbate Piața Primăriei. Soarele de iarnă, jos la orizont, scaldă clădirile moderne într-o lumină clară.\n\nLa prânz, ne încălzim în agitația zonei pietonale. Mirosul de castane coapte plutește în aer, iar cafenelele sunt pline de viață.\n\nDupă-amiaza, temperaturile scad simțitor în Dumbrava Peristeri. Apusul timpuriu pictează cerul Atenei în nuanțe de portocaliu intens.\n\nSeara, luminile stadionului sclipesc în aerul rece. O tavernă cu șemineu este locul perfect pentru a încheia această zi de iarnă.",
+            "en": "Morning brings a crisp breeze to Town Hall Square. The winter sun stays low, casting sharp light over the modern city architecture.\n\nNoon is spent in the lively pedestrian zone. The scent of roasted chestnuts fills the air, and cafes offer a warm respite from the chill.\n\nAfternoon temperatures drop quickly in the Peristeri Grove. The early sunset transforms the Athenian sky into a canvas of deep oranges.\n\nEvening finds the stadium lights sparkling in the cold air. A heated taverna provides the perfect cozy end to a winter exploration."
+          },
+          "stops": [
+            {
+              "name": "Town Hall Square",
+              "tip_5lang": {
+                "de": "Genießen Sie einen Kaffee in der Morgensonne auf einer geschützten Terrasse.",
+                "hu": "Igyál egy kávét a reggeli napsütésben egy szélvédett teraszon.",
+                "ro": "Savurați o cafea în soarele dimineții pe o terasă ferită de vânt.",
+                "en": "Enjoy a coffee in the morning sun on a sheltered terrace."
+              }
+            },
+            {
+              "name": "Ethnikis Antistasis Pedestrian Zone",
+              "tip_5lang": {
+                "de": "Kaufen Sie heiße Kastanien bei den Straßenverkäufern zum Aufwärmen.",
+                "hu": "Vegyél forró sült gesztenyét az utcai árusoktól a sétához.",
+                "ro": "Cumpărați castane coapte de la vânzătorii ambulanți pentru a vă încălzi.",
+                "en": "Buy roasted chestnuts from street vendors to keep your hands warm."
+              }
+            },
+            {
+              "name": "Church of Agios Antonios",
+              "tip_5lang": {
+                "de": "Das Innere bietet eine angenehme, windstille Pause.",
+                "hu": "A templom belső tere szélvédett, nyugodt pihenőhely.",
+                "ro": "Interiorul bisericii oferă o pauză plăcută și ferită de vânt.",
+                "en": "The church interior provides a pleasant, wind-free break."
+              }
+            },
+            {
+              "name": "Lunch at a local Taverna",
+              "tip_5lang": {
+                "de": "Fragen Sie nach Oinomelo, einem warmen Wein mit Honig.",
+                "hu": "Kóstold meg az oinomelót, a forró mézes bort ebéd után.",
+                "ro": "Cereți oinomelo, un vin cald cu miere, după prânz.",
+                "en": "Try oinomelo, a warm honeyed wine, after your lunch."
+              }
+            },
+            {
+              "name": "Peristeri Grove",
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang hier ist im Winter besonders farbenfroh.",
+                "hu": "A téli naplemente innen a legszebb, 17:00 körül kezdődik.",
+                "ro": "Apusul de iarnă este spectaculos aici, începe în jur de ora 17.",
+                "en": "The winter sunset here is very colorful, starting around 5 PM."
+              }
+            },
+            {
+              "name": "Municipal Stadium of Peristeri",
+              "tip_5lang": {
+                "de": "Ziehen Sie sich warm an, der Wind weht hier oft kühl.",
+                "hu": "Öltözz fel jól, a stadion környéke télen szeles lehet.",
+                "ro": "Îmbrăcați-vă bine, zona stadionului este adesea vântoasă iarna.",
+                "en": "Dress warmly, as the area around the stadium is often windy."
+              }
+            },
+            {
+              "name": "Park of Peace and Friendship",
+              "tip_5lang": {
+                "de": "Ein kurzer Aufenthalt reicht aus, bevor es zu kalt wird.",
+                "hu": "Egy rövid séta is elég, mielőtt túl hűvösre fordul az este.",
+                "ro": "O scurtă vizită este suficientă înainte să se facă prea frig.",
+                "en": "A short visit is enough before the evening chill sets in."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich in Schichten, da es in der Sonne warm, im Schatten aber kalt ist.",
+              "Die Sonne geht im Winter gegen 17:15 Uhr unter.",
+              "Griechischer Bergtee (Tsai tou vounou) ist ideal gegen die Winterkälte.",
+              "Meiden Sie windige Ecken an den großen Kreuzungen am Abend."
+            ],
+            "hu": [
+              "Rétegesen öltözz, mert a napon meleg van, de az árnyékban hideg.",
+              "A nap télen korán, már 17:15 körül lemegy.",
+              "Kóstold meg a görög hegyi teát, kiváló a téli hűvös ellen.",
+              "Este kerüld a szeles utcasarkokat a nagy kereszteződéseknél."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi, e cald la soare dar rece la umbră.",
+              "Soarele apune devreme iarna, în jur de ora 17:15.",
+              "Încercați ceaiul grecesc de munte pentru a combate frigul.",
+              "Evitați colțurile vântoase de la intersecțiile mari seara."
+            ],
+            "en": [
+              "Dress in layers, as it's warm in the sun but cold in the shade.",
+              "The sun sets early in winter, around 5:15 PM.",
+              "Try Greek mountain tea to warm up during your walk.",
+              "Avoid windy corners at main intersections in the evening."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -766,6 +966,206 @@
           "Check the bike-friendliness of the roads; some main streets can be busy.",
           "Plan your route in advance to avoid steep hills if you prefer a more leisurely pace."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens fordert die nasse Straße am Stadion volle Konzentration. Der Asphalt glänzt silbern, und die kühle Brise erfrischt beim Treten.\n\nMittags bietet der Peristeri-Hain unter den dichten Baumkronen etwas Schutz vor dem Nieselregen. Der Duft von feuchter Erde begleitet die Fahrt.\n\nNachmittags radeln wir zur Kirche und zum Rathausplatz. Die Bremsen müssen auf den nassen Fliesen der Fußgängerzone vorsichtig betätigt werden.\n\nAbends spiegeln sich die bunten Lichter des Kulturzentrums auf dem nassen Weg. Ein kurzer Endspurt führt zum Park, bevor wir uns aufwärmen.",
+            "hu": "Reggel a stadion melletti vizes aszfalt teljes koncentrációt igényel. Az út ezüstösen csillog, a hűvös szél pedig frissít tekerés közben.\n\nDélben a Peristeri-liget sűrű lombjai némi védelmet nyújtanak a szemerkélő esőben. A nedves föld illata kíséri utunkat.\n\nDélután a templom és a Városháza felé vesszük az irányt. A vizes díszburkolaton óvatosan kell bánni a fékekkel.\n\nEste a kulturális központ színes fényei tükröződnek a vizes úton. Egy utolsó sprint a parkig, mielőtt behúzódunk egy meleg helyre.",
+            "ro": "Dimineața, asfaltul ud de lângă stadion necesită concentrare maximă. Drumul strălucește argintiu, iar briza rece te înviorează la pedalat.\n\nLa prânz, Dumbrava Peristeri oferă puțin adăpost sub coroanele dese în timpul burniței. Mirosul de pământ umed însoțește plimbarea.\n\nDupă-amiaza pedalăm spre biserică și Piața Primăriei. Frânele trebuie acționate cu grijă pe pavajul ud al zonei pietonale.\n\nSeara, luminile colorate ale centrului cultural se oglindesc pe drumul ud. Un ultim sprint spre parc înainte de a ne încălzi.",
+            "en": "Morning on the wet road near the stadium demands full focus. The asphalt shimmers silver, and the cool breeze refreshes as you pedal.\n\nNoon finds the Peristeri Grove offering some shelter under thick canopies during the drizzle. The scent of damp earth accompanies the ride.\n\nAfternoon takes us toward the church and Town Hall. Brakes must be used carefully on the wet tiles of the pedestrian zones.\n\nEvening sees the colorful lights of the cultural center reflecting on the soaked path. A final sprint to the park before warming up indoors."
+          },
+          "stops": [
+            {
+              "name": "Municipal Stadium of Peristeri",
+              "tip_5lang": {
+                "de": "Vorsicht vor rutschigen Markierungen auf der Straße.",
+                "hu": "Vigyázz a csúszós útburkolati jelekkel az aszfalton.",
+                "ro": "Atenție la marcajele rutiere alunecoase de pe asfalt.",
+                "en": "Watch out for slippery road markings on the asphalt."
+              }
+            },
+            {
+              "name": "Peristeri Grove",
+              "tip_5lang": {
+                "de": "Die Bäume bieten etwas Schutz, aber die Wege sind weich.",
+                "hu": "A fák védenek az esőtől, de a sétányok felázhatnak.",
+                "ro": "Copacii oferă protecție, dar aleile pot fi moi.",
+                "en": "Trees offer cover, but paths can be soft and muddy."
+              }
+            },
+            {
+              "name": "Church of Agios Antonios",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter dem Vordach eines nahen Cafés ab.",
+                "hu": "A bringát egy közeli kávézó előtetője alá érdemes tenni.",
+                "ro": "Parcați bicicleta sub copertina unei cafenele din apropiere.",
+                "en": "Park your bike under the awning of a nearby cafe."
+              }
+            },
+            {
+              "name": "Town Hall Square & Lunch",
+              "tip_5lang": {
+                "de": "Ein längerer Stopp hilft, die Ausrüstung zu trocknen.",
+                "hu": "Tarts hosszabb pihenőt, hogy megszáradjon a felszerelésed.",
+                "ro": "Faceți o pauză mai lungă pentru a vă usca echipamentul.",
+                "en": "Take a longer break to let your gear dry out."
+              }
+            },
+            {
+              "name": "Techne Cultural Center",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich zum Parken.",
+                "hu": "Használd a fedett bejárati részt a kerékpár tárolására.",
+                "ro": "Folosiți zona de intrare acoperită pentru parcare.",
+                "en": "Use the covered entrance area for parking."
+              }
+            },
+            {
+              "name": "Exhibition Center of Peristeri",
+              "tip_5lang": {
+                "de": "Meiden Sie Pfützen, die tiefer sein könnten als sie scheinen.",
+                "hu": "Kerüld a mélyebb tócsákat az ipari terület környékén.",
+                "ro": "Evitați bălțile care pot fi mai adânci decât par.",
+                "en": "Avoid puddles that might be deeper than they look."
+              }
+            },
+            {
+              "name": "Park of Peace and Friendship",
+              "tip_5lang": {
+                "de": "Achten Sie auf Fußgänger mit Regenschirmen.",
+                "hu": "Figyelj az esernyős gyalogosokra a park bejáratánál.",
+                "ro": "Fiți atenți la pietonii cu umbrele la intrare.",
+                "en": "Watch out for pedestrians with umbrellas near the entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Überprüfen Sie Ihre Bremsen vor der Fahrt, da sie bei Nässe später greifen.",
+              "Schutzbleche sind essenziell, um trocken zu bleiben.",
+              "Tragen Sie reflektierende Kleidung, da die Sicht schlechter ist.",
+              "Vermeiden Sie plötzliche Lenkbewegungen auf den weißen Fahrbahnstreifen."
+            ],
+            "hu": [
+              "Ellenőrizd a fékeket indulás előtt, vizesen hosszabb a fékút.",
+              "A sárvédő elengedhetetlen, ha nem akarsz csuromvizes lenni.",
+              "Viselj fényvisszaverőt, mert esőben sokkal rosszabb a látótávolság.",
+              "Kerüld a hirtelen kanyarodást a fehér aszfaltfestéseken."
+            ],
+            "ro": [
+              "Verificați frânele înainte de drum, distanța de frânare crește pe ud.",
+              "Apărătorile de noroi sunt esențiale pentru a rămâne uscat.",
+              "Purtați haine reflectorizante, vizibilitatea este redusă pe ploaie.",
+              "Evitați manevrele bruște pe marcajele albe de pe asfalt."
+            ],
+            "en": [
+              "Check your brakes before starting; stopping distance is longer on wet roads.",
+              "Fenders are essential to keep you dry from road spray.",
+              "Wear reflective gear as visibility is significantly reduced.",
+              "Avoid sudden turns on white painted road markings."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens weht ein eisiger Wind am Stadion. Die kühle Luft brennt in den Lungen, aber die klare Sicht auf die Berge entschädigt beim Radeln.\n\nMittags bietet die Sonne im Peristeri-Hain milde Wärme. Die kahlen Bäume lassen viel Licht auf die Radwege fallen.\n\nNachmittags geht es zügig zur Kirche und zum belebten Rathausplatz. Die tiefstehende Sonne kann beim Fahren blenden.\n\nAbends kühlt es schnell ab, während wir am Kulturzentrum vorbeifahren. Das Licht des Sonnenuntergangs begleitet uns bis zum letzten Stopp im Park.",
+            "hu": "Reggel jeges szél fúj a stadionnál. A hideg levegő csípi a tüdőt, de a tiszta kilátás a hegyekre kárpótol tekerés közben.\n\nDélben a Peristeri-ligetben a napsütés enyhe meleget ad. A kopasz ágak között sok fény jut a kerékpárutakra.\n\nDélután tempósan haladunk a templom és a Városháza felé. Az alacsonyan járó nap elvakíthat menet közben.\n\nEste gyorsan hűl a levegő, ahogy elhaladunk a kulturális központ mellett. A naplemente fényei elkísérnek az utolsó megállóig a parkban.",
+            "ro": "Dimineața, un vânt înghețat bate la stadion. Aerul rece îți taie respirația, dar vizibilitatea clară spre munți merită efortul.\n\nLa prânz, soarele oferă o căldură blândă în Dumbrava Peristeri. Ramurile golașe lasă multă lumină pe pistele de biciclete.\n\nDupă-amiaza înaintăm rapid spre biserică și Piața Primăriei. Soarele de iarnă, jos pe cer, poate fi orbitor la condus.\n\nSeara, temperatura scade brusc trecând pe lângă centrul cultural. Lumina apusului ne însoțește până la ultimul stop în parc.",
+            "en": "Morning brings an icy wind at the stadium. The cold air stings your lungs, but the clear view of the mountains is worth the pedal.\n\nNoon finds the sun offering mild warmth in the Peristeri Grove. Bare branches let plenty of light reach the bike paths.\n\nAfternoon is a brisk ride toward the church and Town Hall Square. The low winter sun can be blinding while cycling.\n\nEvening air chills rapidly as we pass the cultural center. The sunset glow accompanies us to the final stop in the park."
+          },
+          "stops": [
+            {
+              "name": "Municipal Stadium of Peristeri",
+              "tip_5lang": {
+                "de": "Wärmen Sie Ihre Muskeln vor der Abfahrt gut auf.",
+                "hu": "Indulás előtt érdemes alaposan bemelegíteni az izmokat.",
+                "ro": "Încălziți-vă bine mușchii înainte de a porni la drum.",
+                "en": "Warm up your muscles properly before starting your ride."
+              }
+            },
+            {
+              "name": "Peristeri Grove",
+              "tip_5lang": {
+                "de": "Genießen Sie die weite Sicht durch die lichten Bäume.",
+                "hu": "Élvezd a tiszta kilátást a ritkásabb lombozat között.",
+                "ro": "Bucurați-vă de vizibilitatea mare printre copacii rari.",
+                "en": "Enjoy the long views through the thinner winter foliage."
+              }
+            },
+            {
+              "name": "Church of Agios Antonios",
+              "tip_5lang": {
+                "de": "Vermeiden Sie langes Stehenbleiben im Wind.",
+                "hu": "Ne állj meg sokáig a szeles nyitott tereken.",
+                "ro": "Nu staționați prea mult în zonele expuse vântului.",
+                "en": "Avoid standing still for too long in windy areas."
+              }
+            },
+            {
+              "name": "Town Hall Square & Lunch",
+              "tip_5lang": {
+                "de": "Parken Sie das Rad an einem sonnigen Platz.",
+                "hu": "Igyekezz napos helyen hagyni a kerékpárt a pihenő alatt.",
+                "ro": "Încercați să parcați bicicleta într-un loc însorit.",
+                "en": "Try to park your bike in a sunny spot during your break."
+              }
+            },
+            {
+              "name": "Techne Cultural Center",
+              "tip_5lang": {
+                "de": "Im Inneren können Sie sich kurz aufwärmen.",
+                "hu": "Az épületbe belépve tarthatsz egy rövid melegedő szünetet.",
+                "ro": "Puteți intra scurt pentru a vă încălzi puțin.",
+                "en": "Step inside for a few minutes to warm up your hands."
+              }
+            },
+            {
+              "name": "Exhibition Center of Peristeri",
+              "tip_5lang": {
+                "de": "Die offene Fläche kann im Winter sehr zugig sein.",
+                "hu": "A nyílt ipari terület télen nagyon huzatos lehet.",
+                "ro": "Zona industrială deschisă poate fi foarte expusă vântului.",
+                "en": "The open industrial area can be very drafty in winter."
+              }
+            },
+            {
+              "name": "Park of Peace and Friendship",
+              "tip_5lang": {
+                "de": "Beeilen Sie sich, bevor das Licht ganz verschwindet.",
+                "hu": "Igyekezz, mielőtt a naplemente után teljesen lehűl az idő.",
+                "ro": "Grăbiți-vă înainte ca lumina să dispară complet.",
+                "en": "Be quick before the light fades and it gets too cold."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Handschuhe, da die Finger durch den Fahrtwind schnell auskühlen.",
+              "Eine Sonnenbrille hilft gegen die tiefstehende Wintersonne.",
+              "Nutzen Sie Radwege, die im Winter oft weniger befahren sind.",
+              "Decken Sie Ihre Trinkflasche ab, damit das Wasser nicht eiskalt wird."
+            ],
+            "hu": [
+              "Viselj kesztyűt, mert a menetszélben gyorsan átfagynak az ujjaid.",
+              "A napszemüveg segít az alacsonyan járó téli nap ellen.",
+              "Használd a kerékpárutakat, télen kevesebb rajtuk a gyalogos.",
+              "A kulacsodat próbáld szigetelni, hogy ne legyen jéghideg a vized."
+            ],
+            "ro": [
+              "Purtați mănuși, degetele îngheață rapid de la vântul de rulare.",
+              "Ochelarii de soare ajută împotriva soarelui de iarnă orbitor.",
+              "Folosiți pistele de biciclete, sunt mai libere iarna.",
+              "Izolați bidonul de apă pentru ca lichidul să nu devină extrem de rece."
+            ],
+            "en": [
+              "Wear gloves, as fingers freeze quickly from the wind chill.",
+              "Sunglasses are essential against the low, blinding winter sun.",
+              "Use bike paths, as they are often less crowded in winter.",
+              "Insulate your water bottle to keep the liquid from getting ice cold."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1102,6 +1502,188 @@
           "A GPS is essential for navigating the winding streets.",
           "The flexibility of a car allows you to discover lesser-known corners as well."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bahnen wir uns den Weg durch den dichten Verkehr am Rathausplatz. Die Scheibenwischer ziehen rhythmisch ihre Kreise durch den Regen.\n\nMittags bietet die Fahrt zum Ausstellungszentrum einen trockenen Rückzugsort. Der Blick aus dem Autofenster auf die nassen Straßen wirkt fast gemütlich.\n\nNachmittags parken wir am Peristeri-Hain. Der kurze Sprint vom Auto unter das dichte Blätterdach ist die einzige Zeit, in der man nass wird.\n\nAbends leuchten die Rücklichter der Autos im Stadionviertel wie rote Perlenketten. Die warme Heizung macht die Fahrt zur Taverne sehr angenehm.",
+            "hu": "Reggel a Városháza környéki sűrű forgalomban haladunk. Az ablaktörlők ritmikus kattogása kíséri az esős utazást.\n\nDélben a kiállítási központ felé tartva az autó száraz menedéket nyújt. A vizes utcák látványa az ablakból nézve szinte megnyugtató.\n\nDélután a Peristeri-ligetnél parkolunk le. Csak az a pár lépés az autó és a fák védelme között jelent némi ázást.\n\nEste a stadion környékén piros gyöngysorként kígyóznak a féklámpák. A fűtött utastérben kényelmesen érkezünk meg a tavernához.",
+            "ro": "Dimineața ne croim drum prin traficul dens de lângă Primărie. Ștergătoarele bat ritmic în timp ce ploaia curge pe parbriz.\n\nLa prânz, drumul spre centrul expozițional oferă un refugiu uscat. Privitul străzilor ude din interiorul mașinii este aproape relaxant.\n\nDupă-amiaza parcăm la Dumbrava Peristeri. Scurtul sprint de la mașină sub coronamentul des al copacilor este singurul moment de umezeală.\n\nSeara, stopurile mașinilor din zona stadionului strălucesc ca niște mărgele roșii. Căldura din mașină face drumul spre tavernă foarte plăcut.",
+            "en": "Morning finds us navigating the heavy traffic near Town Hall Square. Windshield wipers swing rhythmically through the persistent rain.\n\nNoon provides a dry sanctuary as we drive toward the exhibition center. Watching the wet streets through the glass is almost cozy.\n\nAfternoon takes us to the Peristeri Grove parking. The quick dash from the car to the tree canopy is the only time you'll get wet.\n\nEvening arrives with tail lights in the stadium district glowing like red pearls. The car's heater makes the trip to the taverna very comfortable."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Town Hall Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Tiefgaragen, um trocken ins Zentrum zu gelangen.",
+                "hu": "Használd a mélygarázsokat, hogy szárazon juss a központba.",
+                "ro": "Folosiți parcările subterane pentru a ajunge uscat în centru.",
+                "en": "Use underground parking to reach the center while staying dry."
+              }
+            },
+            {
+              "name": "Ethnikis Antistasis Pedestrian Zone",
+              "tip_5lang": {
+                "de": "Parken Sie in den Seitenstraßen mit direktem Zugang zu den Arkaden.",
+                "hu": "Parkolj a mellékutcákban, közel az üzletsorok fedett részeihez.",
+                "ro": "Parcați pe străzile secundare cu acces rapid la arcade.",
+                "en": "Park in side streets with quick access to the shop arcades."
+              }
+            },
+            {
+              "name": "Church of Agios Antonios",
+              "tip_5lang": {
+                "de": "Es gibt begrenzte Parkmöglichkeiten direkt vor dem Eingang.",
+                "hu": "Közvetlenül a bejárat előtt korlátozott számú parkolóhely van.",
+                "ro": "Există locuri de parcare limitate chiar în fața intrării.",
+                "en": "There is limited parking directly in front of the entrance."
+              }
+            },
+            {
+              "name": "Cluster 2: Exhibition Center & Lunch",
+              "tip_5lang": {
+                "de": "Der große Parkplatz ist bei Regen oft matschig; Vorsicht beim Aussteigen.",
+                "hu": "A nagy parkoló esőben sáros lehet; vigyázz kiszálláskor.",
+                "ro": "Parcarea mare poate fi noroioasă; atenție la coborâre.",
+                "en": "The large parking lot can be muddy in the rain; watch your step."
+              }
+            },
+            {
+              "name": "Cluster 3: Peristeri Grove",
+              "tip_5lang": {
+                "de": "Suchen Sie einen Parkplatz unter den hohen Pinien.",
+                "hu": "Keress parkolóhelyet a magas fenyőfák védelmében.",
+                "ro": "Căutați un loc de parcare sub pinii înalți.",
+                "en": "Look for a parking spot under the tall pine trees for extra cover."
+              }
+            },
+            {
+              "name": "Municipal Stadium of Peristeri",
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Regen im Auto, bis der Schauer nachlässt.",
+                "hu": "Heves esőben várd meg az autóban, amíg alábbhagy a zápor.",
+                "ro": "Așteptați în mașină până când aversa se mai potolește.",
+                "en": "Wait in the car until the heavy downpour eases up."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Rechnen Sie mit deutlich mehr Stau, sobald es in Athen regnet.",
+              "Prüfen Sie Ihre Scheibenwischerblätter auf Schlierenbildung.",
+              "Die Sicht kann durch beschlagene Scheiben eingeschränkt sein.",
+              "Parkplätze in der Nähe der Fußgängerzonen sind bei Regen heiß begehrt."
+            ],
+            "hu": [
+              "Számíts jelentős dugókra, amint esni kezd Athénban.",
+              "Ellenőrizd az ablaktörlők állapotát, hogy ne hagyjanak csíkot.",
+              "A párásodó szélvédő miatt sokat romolhat a kilátás.",
+              "Az üzletsorok közeli parkolóhelyek esőben pillanatok alatt betelnek."
+            ],
+            "ro": [
+              "Așteptați-vă la ambuteiaje majore imediat ce începe ploaia în Atena.",
+              "Verificați starea ștergătoarelor pentru a nu lăsa urme pe parbriz.",
+              "Vizibilitatea poate fi redusă din cauza geamurilor aburite.",
+              "Locurile de parcare lângă zonele comerciale sunt foarte căutate pe ploaie."
+            ],
+            "en": [
+              "Expect significant traffic jams as soon as it starts raining in Athens.",
+              "Check your wiper blades to ensure clear visibility.",
+              "Be aware that fogged windows can reduce visibility inside the cabin.",
+              "Parking spots near shopping areas fill up instantly when it rains."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens braucht der Motor am Rathausplatz einen Moment zum Aufwärmen. Die klare Winterluft macht die Sicht durch die Windschutzscheibe kristallklar.\n\nMittags genießen wir die Fahrt durch das belebte Viertel. Die Wintersonne wärmt das Auto angenehm auf, auch wenn es draußen kühl ist.\n\nNachmittags am Peristeri-Hain ist das Parken einfach. Die kahlen Äste der Bäume lassen das tiefe Sonnenlicht bis auf das Autodach fallen.\n\nAbends leuchten die Lichter des Stadions hell gegen den dunklen Winterhimmel. Die Fahrt zur Taverne ist kurz und dank der Heizung sehr behaglich.",
+            "hu": "Reggel a Városházánál a motornak kell egy kis idő a bemelegedéshez. A hideg, tiszta téli levegőben a kilátás a szélvédőn át kristálytiszta.\n\nDélben a nyüzsgő negyeden át autózva élvezzük a napsütést. A téli nap kellemesen felmelegíti az utasteret, hiába van kint hűvös.\n\nDélután a Peristeri-ligetnél könnyű a parkolás. A kopasz ágak között az alacsonyan járó nap fénye egészen az autóig elér.\n\nEste a stadion fényei élesen ragyognak a sötét téli égen. A tavernához vezető út rövid és a fűtésnek köszönhetően nagyon kényelmes.",
+            "ro": "Dimineața, motorul de lângă Primărie are nevoie de un moment pentru a se încălzi. Aerul rece de iarnă face vizibilitatea prin parbriz perfectă.\n\nLa prânz, conducem prin cartierul plin de viață bucurându-ne de soare. Razele de iarnă încălzesc plăcut interiorul mașinii.\n\nDupă-amiaza la Dumbrava Peristeri parcarea este facilă. Ramurile golașe lasă lumina soarelui să cadă direct pe plafonul mașinii.\n\nSeara, luminile stadionului strălucesc puternic pe cerul negru de iarnă. Drumul spre tavernă este scurt și foarte confortabil datorită căldurii.",
+            "en": "Morning near Town Hall requires a moment for the engine to warm up. The crisp winter air makes the view through the windshield crystal clear.\n\nNoon finds us cruising through the lively district. The winter sun warms the car interior nicely despite the outside chill.\n\nAfternoon parking at the Peristeri Grove is easy. The bare tree branches allow the low sun to reach right down to the car roof.\n\nEvening sees the stadium lights glowing brightly against the dark winter sky. The drive to the taverna is short and cozy with the heater on."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Town Hall Square",
+              "tip_5lang": {
+                "de": "Stellen Sie die Lüftung auf die Windschutzscheibe gegen Beschlagen.",
+                "hu": "Állítsd a szellőzést a szélvédőre a páramentesítéshez.",
+                "ro": "Direcționați ventilația spre parbriz pentru a preveni aburirea.",
+                "en": "Set the ventilation to the windshield to prevent fogging."
+              }
+            },
+            {
+              "name": "Ethnikis Antistasis Pedestrian Zone",
+              "tip_5lang": {
+                "de": "Parken Sie an sonnigen Stellen, um das Auto natürlich aufzuwärmen.",
+                "hu": "Parkolj napos helyen, hogy a nap ingyen felmelegítse az utasteret.",
+                "ro": "Parcați la soare pentru a încălzi natural interiorul mașinii.",
+                "en": "Park in sunny spots to let the sun warm up the cabin naturally."
+              }
+            },
+            {
+              "name": "Church of Agios Antonios",
+              "tip_5lang": {
+                "de": "Lassen Sie keine Wertsachen sichtbar im Auto liegen.",
+                "hu": "Ne hagyj értéket látható helyen az autóban a látogatás alatt.",
+                "ro": "Nu lăsați obiecte de valoare la vedere în mașină.",
+                "en": "Do not leave any valuables visible in the car during your visit."
+              }
+            },
+            {
+              "name": "Cluster 2: Exhibition Center & Lunch",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Reifendruck, der bei Kälte leicht sinken kann.",
+                "hu": "Ellenőrizd a guminyomást, mert a hidegben csökkenhet.",
+                "ro": "Verificați presiunea în pneuri, poate scădea din cauza frigului.",
+                "en": "Check your tire pressure, as it can drop in colder weather."
+              }
+            },
+            {
+              "name": "Cluster 3: Peristeri Grove",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Schatten der Bäume nur, wenn es sehr sonnig ist.",
+                "hu": "Csak akkor parkolj az árnyékba, ha zavar a közvetlen napsütés.",
+                "ro": "Parcați la umbră doar dacă soarele este prea puternic.",
+                "en": "Only park in the shade if the direct sun is too strong for you."
+              }
+            },
+            {
+              "name": "Municipal Stadium of Peristeri",
+              "tip_5lang": {
+                "de": "Schalten Sie das Licht frühzeitig ein, wenn die Dämmerung beginnt.",
+                "hu": "Kapcsold fel időben a lámpákat, amint sötétedni kezd.",
+                "ro": "Aprindeți luminile din timp imediat ce începe să se însereze.",
+                "en": "Turn on your lights early as the winter twilight sets in."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Überprüfen Sie den Frostschutz in Ihrer Scheibenwaschanlage.",
+              "Batterien können bei Kälte schwächeln; prüfen Sie den Ladezustand.",
+              "Rechnen Sie mit mehr Fußgängern in den Einkaufsstraßen am Nachmittag.",
+              "Parken Sie in Parkhäusern, um den kalten Wind beim Einsteigen zu vermeiden."
+            ],
+            "hu": [
+              "Ellenőrizd a fagyállót a szélvédőmosó folyadékban.",
+              "Az akkumulátor gyengélkedhet a hidegben, érdemes ránézni.",
+              "Délután számíts több gyalogosra a bevásárlóutcák környékén.",
+              "Használd a parkolóházakat, hogy elkerüld a hideg szelet beszálláskor."
+            ],
+            "ro": [
+              "Verificați lichidul de parbriz să fie rezistent la îngheț.",
+              "Bateria poate fi solicitată de frig; verificați starea de încărcare.",
+              "Așteptați-vă la mulți pietoni în zonele comerciale după-amiaza.",
+              "Folosiți parcările etajate pentru a evita vântul rece la urcare."
+            ],
+            "en": [
+              "Ensure your windshield washer fluid has antifreeze protection.",
+              "Car batteries can struggle in the cold; check the charge level.",
+              "Watch for increased pedestrian activity near shopping zones.",
+              "Use parking garages to avoid the cold wind when getting in and out."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1446,6 +2028,206 @@
           "The Athens Metro also serves Peristeri and is often the fastest way to get around.",
           "Bus schedules can vary, a route planning app is helpful."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens ist die Metrostation am Rathausplatz ein belebter, trockener Knotenpunkt. Der kurze Weg nach draußen führt direkt unter die schützenden Vordächer.\n\nMittags erreichen wir die Kirche Agios Antonios bequem per Bahn. Das Umsteigen klappt reibungslos, und die Stationen bieten Schutz vor dem Nieselregen.\n\nNachmittags am Peristeri-Hain nutzen wir den Bus. Die Fahrt durch die verregneten Straßen von Peristeri bietet tolle Einblicke in das lokale Leben.\n\nAbends leuchten die Lichter der Metrostation am Stadion warm einladend. Eine letzte kurze Fahrt bringt uns zur Taverne, während draußen der Regen fällt.",
+            "hu": "Reggel a Városháza metrómegálló nyüzsgő, száraz csomópont. A felszínre érve egyből a kávézók védelmező előtetői alá érkezünk.\n\nDélben az Agios Antonios templomhoz kényelmesen, vonattal jutunk el. Az átszállás zökkenőmentes, a megállók pedig védenek a szemerkélő esőtől.\n\nDélután a Peristeri-ligetnél buszra szállunk. Az esős utcákon átgurulva bepillantást nyerünk a helyiek hétköznapi életébe.\n\nEste a stadion melletti metróállomás fényei hívogatóan világítanak. Egy utolsó rövid utazás a tavernához, miközben odakint kitartóan esik.",
+            "ro": "Dimineața, stația de metrou de la Primărie este un nod aglomerat și uscat. Ieșirea la suprafață te duce direct sub copertinele protectoare.\n\nLa prânz, ajungem la biserica Agios Antonios confortabil cu metroul. Schimbările sunt rapide, iar stațiile oferă adăpost împotriva burniței.\n\nDupă-amiaza la Dumbrava Peristeri folosim autobuzul. Drumul prin străzile ploioase oferă o privire interesantă asupra vieții locale.\n\nSeara, luminile stației de metrou de lângă stadion strălucesc primitor. O ultimă călătorie scurtă spre tavernă în timp ce afară plouă.",
+            "en": "Morning finds the metro station at Town Hall a busy, dry hub. Stepping outside leads directly under protective shop awnings.\n\nNoon takes us to the Church of Agios Antonios easily by train. Transfers are smooth, and stations provide excellent cover from the drizzle.\n\nAfternoon at Peristeri Grove involves a local bus. Riding through the rainy streets of Peristeri offers a glimpse into authentic local life.\n\nEvening sees the metro station lights near the stadium glowing warmly. A final short ride takes us toward the taverna while rain falls outside."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Arrival at Town Hall Square",
+              "tip_5lang": {
+                "de": "Die Metrostation Peristeri hat mehrere Ausgänge; nutzen Sie den nächsten.",
+                "hu": "A Peristeri metróállomásnak több kijárata van, válaszd a legközelebbit.",
+                "ro": "Stația de metrou Peristeri are mai multe ieșiri; folosiți-o pe cea mai apropiată.",
+                "en": "Peristeri metro station has multiple exits; use the closest one to the square."
+              }
+            },
+            {
+              "name": "Ethnikis Antistasis Pedestrian Zone",
+              "tip_5lang": {
+                "de": "In den Metro-Unterführungen können Sie sich kurz unterstellen.",
+                "hu": "A metróaluljárók kiválóak egy rövid eső elleni védekezésre.",
+                "ro": "Pasajele de la metrou sunt excelente pentru a vă adăposti scurt.",
+                "en": "Metro underpasses are great for a quick shelter from the rain."
+              }
+            },
+            {
+              "name": "Church of Agios Antonios",
+              "tip_5lang": {
+                "de": "Die Station Agios Antonios liegt direkt neben der Kirche.",
+                "hu": "Az Agios Antonios megálló közvetlenül a templom mellett található.",
+                "ro": "Stația Agios Antonios este chiar lângă biserică.",
+                "en": "The Agios Antonios station is located right next to the church."
+              }
+            },
+            {
+              "name": "Lunch",
+              "tip_5lang": {
+                "de": "Warten Sie an der Bushaltestelle unter dem Wetterschutzdach.",
+                "hu": "Várj a buszmegálló fedett része alatt a következő járatra.",
+                "ro": "Așteptați sub copertina stației de autobuz pentru următorul transport.",
+                "en": "Wait under the bus stop shelter for your next connection."
+              }
+            },
+            {
+              "name": "Cluster 2: Peristeri Grove",
+              "tip_5lang": {
+                "de": "Mehrere Buslinien halten direkt am Eingang des Parks.",
+                "hu": "Számos buszjárat áll meg közvetlenül a park bejáratánál.",
+                "ro": "Mai multe linii de autobuz opresc chiar la intrarea în parc.",
+                "en": "Several bus lines stop directly at the park entrance."
+              }
+            },
+            {
+              "name": "Municipal Stadium of Peristeri",
+              "tip_5lang": {
+                "de": "Die Metro-Station ist nur einen kurzen, nassen Fußmarsch entfernt.",
+                "hu": "A metróállomás csak egy rövid, de vizes sétára van innen.",
+                "ro": "Stația de metrou este la doar o scurtă plimbare prin ploaie.",
+                "en": "The metro station is only a short, wet walk from here."
+              }
+            },
+            {
+              "name": "Cluster 3: Park of Peace and Friendship",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Abfahrtszeiten per App, um Wartezeiten im Regen zu vermeiden.",
+                "hu": "Ellenőrizd az indulást appon, hogy ne ázz a megállóban.",
+                "ro": "Verificați orele de plecare în aplicație pentru a nu aștepta în ploaie.",
+                "en": "Check departure times via app to avoid waiting in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Metro Line 2 ist das verlässlichste Verkehrsmittel bei Regen.",
+              "Achten Sie in Bussen auf rutschige Böden durch nasse Schuhe.",
+              "Tragen Sie Ihren Schirm geschlossen und nach unten gerichtet in der Bahn.",
+              "Nutzen Sie die OASA-App für Echtzeit-Informationen bei Verspätungen."
+            ],
+            "hu": [
+              "A 2-es metró a legmegbízhatóbb közlekedési mód esőben.",
+              "A buszokon vigyázz a vizes cipők miatt csúszós padlóra.",
+              "A metrón tartsd az esernyődet lefelé, hogy ne vizezz össze másokat.",
+              "Használd az OASA alkalmazást a valós idejű menetrendekhez."
+            ],
+            "ro": [
+              "Linia 2 de metrou este cel mai fiabil mijloc de transport pe ploaie.",
+              "Atenție la podelele alunecoase din autobuze din cauza pantofilor uzi.",
+              "Țineți umbrela închisă și orientată în jos în metrou.",
+              "Folosiți aplicația OASA pentru informații în timp real despre întârzieri."
+            ],
+            "en": [
+              "Metro Line 2 is the most reliable way to travel when it rains.",
+              "Be careful of slippery floors on buses due to wet footwear.",
+              "Keep your umbrella closed and pointed downward while on the train.",
+              "Use the OASA app for real-time updates if there are weather delays."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens ist die Metrostation am Rathausplatz hell und warm beleuchtet. Die Fahrt in der geheizten Bahn ist ein angenehmer Start in den kühlen Tag.\n\nMittags steigen wir an der Station Agios Antonios aus. Die klare Winterluft ist beim Verlassen des Untergrunds sehr erfrischend.\n\nNachmittags nehmen wir den Bus zum Peristeri-Hain. Die tiefstehende Sonne strahlt durch die Fenster und wärmt die Fahrgäste.\n\nAbends leuchten die Lichter der Stadt durch die Scheiben der Metro. Wir erreichen unser Ziel für das Abendessen schnell und ohne in der Kälte warten zu müssen.",
+            "hu": "Reggel a Városháza metrómegálló világos és kellemesen meleg. A fűtött kocsiban való utazás remek kezdete a hűvös napnak.\n\nDélben az Agios Antonios állomásnál szállunk ki. A tiszta téli levegő felfrissít, ahogy elhagyjuk az aluljárót.\n\nDélután busszal megyünk a Peristeri-ligetig. Az alacsonyan járó nap besüt az ablakokon, melengetve az utasokat.\n\nEste a város fényei ragyognak át a metró szerelvényeinek ablakain. Gyorsan megérkezünk a vacsorahelyszínre, anélkül, hogy sokat állnánk a hidegben.",
+            "ro": "Dimineața, stația de metrou de la Primărie este luminoasă și plăcut încălzită. Călătoria cu metroul este un start excelent pentru o zi rece.\n\nLa prânz, coborâm la stația Agios Antonios. Aerul clar de iarnă este foarte revigorant la ieșirea din subteran.\n\nDupă-amiaza luăm autobuzul spre Dumbrava Peristeri. Soarele de iarnă strălucește prin ferestre, încălzind pasagerii.\n\nSeara, luminile orașului strălucesc prin geamurile metroului. Ajungem rapid la destinația pentru cină fără a sta prea mult în frig.",
+            "en": "Morning finds the metro station at Town Hall bright and pleasantly warm. Riding in a heated carriage is a great start to the chilly day.\n\nNoon takes us to Agios Antonios station. The crisp winter air is very refreshing as we emerge from the underground.\n\nAfternoon involves a bus ride to Peristeri Grove. The low sun streams through the windows, warming the passengers as we go.\n\nEvening sees city lights sparkling through the metro windows. We reach our dinner destination quickly without spending much time in the cold."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Arrival at Town Hall Square",
+              "tip_5lang": {
+                "de": "In der Metrostation ist es deutlich wärmer als draußen.",
+                "hu": "A metróállomáson jóval melegebb van, mint kint a felszínen.",
+                "ro": "În stația de metrou este mult mai cald decât afară.",
+                "en": "The metro station is significantly warmer than the surface level."
+              }
+            },
+            {
+              "name": "Ethnikis Antistasis Pedestrian Zone",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Rolltreppen, um Energie für den Tag zu sparen.",
+                "hu": "Használd a mozgólépcsőket, hogy maradjon energiád a városnézéshez.",
+                "ro": "Folosiți scările rulante pentru a economisi energie pentru plimbare.",
+                "en": "Use the escalators to save your energy for the winter walk."
+              }
+            },
+            {
+              "name": "Church of Agios Antonios",
+              "tip_5lang": {
+                "de": "Die Züge verkehren im Winter oft in kürzeren Abständen.",
+                "hu": "A metrók télen gyakran sűrűbben járnak a nagyobb forgalom miatt.",
+                "ro": "Trenurile de metrou circulă adesea mai des în timpul iernii.",
+                "en": "Metro trains often run frequently during the busy winter season."
+              }
+            },
+            {
+              "name": "Lunch",
+              "tip_5lang": {
+                "de": "Warten Sie in der Nähe der Kioske, die oft windgeschützt sind.",
+                "hu": "Várj a buszmegálló melletti kioszkoknál, ahol kevesebb a szél.",
+                "ro": "Așteptați lângă chioșcurile din stații, sunt mai ferite de vânt.",
+                "en": "Wait near the station kiosks which are often more wind-sheltered."
+              }
+            },
+            {
+              "name": "Cluster 2: Peristeri Grove",
+              "tip_5lang": {
+                "de": "Die Busse sind im Winter meist gut beheizt.",
+                "hu": "A buszok télen általában jól fűtöttek és kényelmesek.",
+                "ro": "Autobuzele sunt de obicei bine încălzite în timpul iernii.",
+                "en": "Buses are usually well-heated during the winter months."
+              }
+            },
+            {
+              "name": "Municipal Stadium of Peristeri",
+              "tip_5lang": {
+                "de": "Die Metrostation ist ein guter Ort, um sich kurz aufzuwärmen.",
+                "hu": "A metróállomás kiváló hely egy rövid melegedő szünetre.",
+                "ro": "Stația de metrou este un loc bun pentru a vă încălzi scurt.",
+                "en": "The metro station is a good place for a quick warm-up break."
+              }
+            },
+            {
+              "name": "Cluster 3: Park of Peace and Friendship",
+              "tip_5lang": {
+                "de": "Planen Sie Ihre Rückfahrt vor 18 Uhr ein, um der Rushhour zu entgehen.",
+                "hu": "Tervezd a visszautat 18 óra elé, hogy elkerüld a délutáni csúcsot.",
+                "ro": "Planificați întoarcerea înainte de ora 18 pentru a evita aglomerația.",
+                "en": "Plan your return before 6 PM to avoid the winter rush hour."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse und Bahnen sind im Winter oft voll; achten Sie auf Ihre Wertsachen.",
+              "Bleiben Sie bei Wind in den Bahnhofsgebäuden bis der Zug einfährt.",
+              "Kaufen Sie Ihre Fahrkarten am Automaten im Warmen.",
+              "Die OASA-Telematics-App zeigt Ihnen, wann der nächste warme Bus kommt."
+            ],
+            "hu": [
+              "A buszok télen zsúfoltak lehetnek, figyelj az értékeidre.",
+              "Szeles időben várj az állomás belső terében, amíg beér a metró.",
+              "Vedd meg a jegyedet előre a meleg aluljárók automatáinál.",
+              "Az OASA Telematics app pontosan jelzi a buszok érkezését."
+            ],
+            "ro": [
+              "Transportul în comun poate fi aglomerat iarna; atenție la buzunare.",
+              "În caz de vânt, așteptați în interiorul stației până vine trenul.",
+              "Cumpărați biletele de la automatele din interiorul stațiilor calde.",
+              "Aplicația OASA Telematics vă spune exact când vine următorul autobuz."
+            ],
+            "en": [
+              "Buses and trains can be crowded in winter; watch your belongings.",
+              "Stay inside the station buildings during windy weather until your train arrives.",
+              "Purchase your tickets at the indoor machines where it's warmer.",
+              "The OASA Telematics app shows exactly when the next heated bus will arrive."
+            ]
+          }
+        }
       }
     }
   }

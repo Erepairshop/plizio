@@ -358,6 +358,196 @@
           "Bring water and snacks, especially for the walk to the viewpoint.",
           "Check the museum's opening hours in advance."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag im Gemeindepark, wo der Regen die Bäume in sattes Grün taucht. Das Heldenmonument wirkt bei grauem Himmel besonders feierlich. Mittags bietet die Kirche Johannes der Täufer einen trockenen Zufluchtsort. Den Nachmittag verbringen Sie geschützt im Dorfmuseum, bevor Sie zum Kloster Cornu wandern, wo die regennasse Architektur eine mystische Ruhe ausstrahlt.",
+            "hu": "Kezdje a napot a közösségi parkban, ahol az eső friss illatot áraszt. A Hősök emlékműve méltóságteljes a borús ég alatt. Délben a Keresztelő Szent János-templom nyújt menedéket a csapadék elől. A délutánt a Falumúzeum fedett kiállításai között töltheti, majd a Cornu-kolostor csendjében zárhatja a napot, élvezve a ködös dombok látványát a kilátópontról.",
+            "ro": "Începeți ziua în Parcul Comunal, unde ploaia scoate în evidență verdele crud al vegetației. Monumentul Eroilor are o aură solemnă sub cerul plumburiu. La prânz, Biserica Sf. Ioan Botezătorul oferă un refugiu liniștit. Petreceți după-amiaza la Muzeul Satului, feriți de picăturile de ploaie, iar finalul zilei vă găsește la Mănăstirea Cornu, admirând peisajul cețos de la punctul de belvedere.",
+            "en": "Start your day in the Community Park, where the rain refreshes the lush scenery. The Heroes' Monument stands solemn under the grey sky. At noon, Saint John the Baptist Church provides a dry sanctuary. Spend the afternoon inside the Village Museum, protected from the elements, and finish at the Cornu Monastery, where the damp stone and misty viewpoint offer a unique, moody atmosphere."
+          },
+          "stops": [
+            {
+              "name": "Community Park",
+              "tip_5lang": {
+                "de": "Nutzen Sie die asphaltierten Wege, um Pfützen zu vermeiden.",
+                "hu": "Használja az aszfaltozott utakat a pocsolyák elkerülésére.",
+                "ro": "Folosiți aleile asfaltate pentru a evita bălțile.",
+                "en": "Stick to the paved paths to avoid large puddles."
+              }
+            },
+            {
+              "name": "Cornu Heroes' Monument",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp reicht aus; der Bereich ist ungeschützt.",
+                "hu": "Egy rövid megálló elég; a terület nem fedett.",
+                "ro": "O oprire scurtă e suficientă; zona nu este acoperită.",
+                "en": "A quick stop is enough as the area is unsheltered."
+              }
+            },
+            {
+              "name": "Saint John the Baptist Church",
+              "tip_5lang": {
+                "de": "Ideal, um den heftigsten Regen im Inneren abzuwarten.",
+                "hu": "Ideális hely a benti várakozásra a heves esőzés alatt.",
+                "ro": "Loc ideal pentru a aștepta trecerea ploii în interior.",
+                "en": "Ideal place to wait out heavy rain indoors."
+              }
+            },
+            {
+              "name": "Village Museum",
+              "tip_5lang": {
+                "de": "Perfekt für regnerische Stunden; viele Innenexponate.",
+                "hu": "Tökéletes esős órákra; sok a beltéri látnivaló.",
+                "ro": "Perfect pentru orele ploioase; multe exponate la interior.",
+                "en": "Perfect for rainy hours; many indoor exhibits."
+              }
+            },
+            {
+              "name": "Cornu Monastery",
+              "tip_5lang": {
+                "de": "Die Veranda bietet Schutz beim Betrachten des Gartens.",
+                "hu": "A tornác védelmet nyújt a kert nézegetése közben.",
+                "ro": "Ceridacul oferă protecție în timp ce admirați grădina.",
+                "en": "The porch offers shelter while viewing the garden."
+              }
+            },
+            {
+              "name": "Cornu Viewpoint",
+              "tip_5lang": {
+                "de": "Vorsicht, der Boden kann hier bei Regen sehr rutschig sein.",
+                "hu": "Vigyázat, a talaj itt esőben nagyon csúszós lehet.",
+                "ro": "Atenție, solul poate fi foarte alunecos pe ploaie.",
+                "en": "Caution, the ground can be very slippery when wet."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da einige Nebenwege in Cornu unbefestigt sind.",
+              "Ein stabiler Regenschirm ist bei Wind auf den Hügeln unerlässlich.",
+              "Planen Sie mehr Zeit im Dorfmuseum ein, um trocken zu bleiben.",
+              "Die Aussicht vom Viewpoint ist bei Nebel besonders mystisch.",
+              "Die Kirche ist ein guter Ort für eine kurze, trockene Pause."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert Cornu néhány mellékútja nincs leaszfaltozva.",
+              "A dombokon fújó szél miatt egy erős esernyő elengedhetetlen.",
+              "Töltsön több időt a Falumúzeumban, hogy száraz maradjon.",
+              "A kilátópontról nyíló panoráma ködben különösen misztikus.",
+              "A templom kiváló hely egy rövid, száraz pihenőre."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, unele drumuri secundare pot fi noroioase.",
+              "O umbrelă rezistentă la vânt este necesară pe dealurile din Cornu.",
+              "Alocați mai mult timp Muzeului Satului pentru a rămâne la adăpost.",
+              "Punctul de belvedere oferă o perspectivă mistică atunci când e ceață.",
+              "Biserica este un loc bun pentru un scurt popas la uscat."
+            ],
+            "en": [
+              "Wear waterproof shoes as some secondary roads in Cornu can get muddy.",
+              "A wind-resistant umbrella is essential on the breezy hills.",
+              "Allocate more time to the Village Museum to stay dry.",
+              "The viewpoint offers a mystical perspective when foggy.",
+              "The church is a great spot for a short, dry break."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie Cornu im Wintergewand, wenn der Gemeindepark unter einer Schneedecke schläft. Die kühle Morgenluft macht den Spaziergang zum Heldenmonument erfrischend. Mittags wärmt die spirituelle Atmosphäre der Johanneskirche Geist und Körper. Besuchen Sie das Dorfmuseum, um traditionelles Leben im Winter zu verstehen, und genießen Sie die klare Sicht vom Kloster und dem Viewpoint auf die schneebedeckten Prahova-Berge.",
+            "hu": "Tapasztalja meg Cornu téli arcát, amikor a park hólepel alatt pihen. A friss reggeli levegő élénkítővé teszi a sétát az emlékműig. Délben a templom belső békéje melengeti a lelket. A Falumúzeumban megismerheti a régi telek hangulatát, majd a nap végén a kolostortól és a kilátópontról gyönyörködhet a Prahova-völgy hófödte csúcsaiban a korai naplementében.",
+            "ro": "Descoperiți Cornu sub haina iernii, cu parcul dormind sub zăpadă. Aerul rece de dimineață face plimbarea spre monument revigorantă. La prânz, atmosfera caldă din biserică vă va încălzi spiritul. Vizitați Muzeul Satului pentru a înțelege iernile de altădată, apoi bucurați-vă de priveliștea clară de la mănăstire și de la punctul de belvedere asupra munților înzăpeziți.",
+            "en": "Experience Cornu in its winter coat, with the park sleeping under the snow. The crisp morning air makes the walk to the monument refreshing. At noon, the warm spiritual atmosphere of the church comforts the soul. Visit the Village Museum to learn about traditional winter life, and enjoy the clear views from the monastery and viewpoint of the snow-capped Prahova mountains."
+          },
+          "stops": [
+            {
+              "name": "Community Park",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stellen auf den Gehwegen.",
+                "hu": "Ügyeljen a járdákon előforduló jeges foltokra.",
+                "ro": "Atenție la porțiunile de gheață de pe alei.",
+                "en": "Watch out for icy patches on the walkways."
+              }
+            },
+            {
+              "name": "Cornu Heroes' Monument",
+              "tip_5lang": {
+                "de": "Im Winter oft schneeverweht; feste Stiefel sind ratsam.",
+                "hu": "Télen gyakran hófúvásos; hótaposó ajánlott.",
+                "ro": "Adesea înzăpezit iarna; bocancii sunt recomandați.",
+                "en": "Often snow-covered in winter; sturdy boots recommended."
+              }
+            },
+            {
+              "name": "Saint John the Baptist Church",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um sich kurz aufzuwärmen.",
+                "hu": "Csendes hely egy rövid felmelegedésre.",
+                "ro": "Un loc liniștit unde vă puteți încălzi puțin.",
+                "en": "A quiet place to warm up for a few minutes."
+              }
+            },
+            {
+              "name": "Village Museum",
+              "tip_5lang": {
+                "de": "Die Innenräume sind beheizt und sehr gemütlich.",
+                "hu": "A belső terek fűtöttek és nagyon barátságosak.",
+                "ro": "Spațiile interioare sunt încălzite și primitoare.",
+                "en": "The indoor spaces are heated and very cozy."
+              }
+            },
+            {
+              "name": "Cornu Monastery",
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille des verschneiten Klostergartens.",
+                "hu": "Élvezze a havas kolostorkert különleges csendjét.",
+                "ro": "Bucurați-vă de liniștea grădinii înzăpezite a mănăstirii.",
+                "en": "Enjoy the unique silence of the snowy monastery garden."
+              }
+            },
+            {
+              "name": "Cornu Viewpoint",
+              "tip_5lang": {
+                "de": "Seien Sie vor 16:30 Uhr hier, um die Dämmerung zu sehen.",
+                "hu": "Érkezzen 16:30 előtt, hogy lássa a szürkületet.",
+                "ro": "Ajungeți înainte de 16:30 pentru a vedea apusul.",
+                "en": "Arrive before 4:30 PM to catch the winter sunset."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Winter bereits gegen 16:30 Uhr unter.",
+              "Kleiden Sie sich in Schichten; die Hügel von Cornu sind windanfällig.",
+              "Einige Wege zum Viewpoint können bei Tiefschnee schwer passierbar sein.",
+              "Das Museum bietet eine warme Pause zwischen den Spaziergängen.",
+              "Trinken Sie einen heißen Tee in einem der lokalen Cafés im Zentrum."
+            ],
+            "hu": [
+              "A nap télen már 16:30 körül lenyugszik.",
+              "Öltözzön rétegesen, mert a Cornu körüli dombokon fúj a szél.",
+              "A kilátóhoz vezető utak mély hóban nehezen járhatóak lehetnek.",
+              "A múzeum meleg pihenőt kínál a séták között.",
+              "Igyon egy forró teát a központ egyik helyi kávézójában."
+            ],
+            "ro": [
+              "Soarele apune devreme iarna, în jurul orei 16:30.",
+              "Îmbrăcați-vă în straturi, dealurile din Cornu sunt expuse vântului.",
+              "Unele poteci spre punctul de belvedere pot fi greu accesibile prin zăpadă.",
+              "Muzeul oferă un popas călduros între plimbările în aer liber.",
+              "Savurați un ceai fierbinte la o cafenea din centrul comunei."
+            ],
+            "en": [
+              "The sun sets early in winter, around 4:30 PM.",
+              "Dress in layers; the hills of Cornu are prone to cold winds.",
+              "Some paths to the viewpoint might be hard to navigate in deep snow.",
+              "The museum provides a warm break between outdoor walks.",
+              "Enjoy a hot tea at a local cafe in the village center."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -734,6 +924,214 @@
           "Wear a helmet and be careful on the country roads.",
           "A small backpack for water, snacks, and a rain jacket is recommended."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour durch Cornu im Regen erfordert Vorsicht, bietet aber leere Straßen. Starten Sie am Park und fahren Sie zügig zur Kirche. Das Dorfmuseum ist ein langer, trockener Stopp für Ihr Mittagsprogramm. Radeln Sie vorbei an den traditionellen Häusern zum Kloster. Die Fahrt bergauf zum Viewpoint ist anstrengend, wird aber durch die dramatische Regenlandschaft der Prahova-Region belohnt.",
+            "hu": "Az esős bringázás Cornuban óvatosságot igényel, de üres utakat kínál. Kezdje a parknál, majd tekerjen a templomig. A Falumúzeum hosszú, száraz megálló lesz a déli programban. Guruljon el a hagyományos házak mellett a kolostorig. A felfelé vezető út a kilátóhoz combos lesz, de a Prahova-vidék drámai esős látványa kárpótolja majd.",
+            "ro": "O tură cu bicicleta prin Cornu pe ploaie necesită atenție, dar oferă drumuri libere. Începeți la parc și pedalați spre biserică. Muzeul Satului este un popas lung și uscat pentru prânz. Treceți pe lângă casele tradiționale spre mănăstire. Urcarea spre punctul de belvedere este solicitantă, dar răsplătită de peisajul dramatic al regiunii Prahova sub ploaie.",
+            "en": "Cycling through Cornu in the rain requires caution but offers empty roads. Start at the park and ride to the church. The Village Museum is a long, dry stop for your midday break. Pedal past the traditional houses to the monastery. The uphill ride to the viewpoint is tough, but rewarded by the dramatic rainy landscape of the Prahova region."
+          },
+          "stops": [
+            {
+              "name": "Community Park",
+              "tip_5lang": {
+                "de": "Vorsicht beim Bremsen auf nassem Asphalt.",
+                "hu": "Óvatosan fékezzen a nedves aszfalton.",
+                "ro": "Frânați cu prudență pe asfaltul ud.",
+                "en": "Brake cautiously on wet asphalt."
+              }
+            },
+            {
+              "name": "Saint John the Baptist Church",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter einen Baum oder Dachvorsprung.",
+                "hu": "Támassza le a bringát egy fa vagy eresz alá.",
+                "ro": "Lăsați bicicleta sub un copac sau o streașină.",
+                "en": "Park your bike under a tree or an eave."
+              }
+            },
+            {
+              "name": "Village Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit hier, um Ihre Kleidung zu trocknen.",
+                "hu": "Használja ki az időt a ruhái szárítására.",
+                "ro": "Folosiți timpul aici pentru a vă usca hainele.",
+                "en": "Use the time here to dry your clothes."
+              }
+            },
+            {
+              "name": "Traditional Rural Houses",
+              "tip_5lang": {
+                "de": "Nur ein kurzer Fotostopp; meiden Sie matschige Ränder.",
+                "hu": "Csak rövid fotómegálló; kerülje a saras padkát.",
+                "ro": "Doar un scurt popas foto; evitați marginile noroioase.",
+                "en": "Only a short photo stop; avoid muddy road edges."
+              }
+            },
+            {
+              "name": "Cornu Monastery",
+              "tip_5lang": {
+                "de": "Der Anstieg hierher ist bei Regen rutschig.",
+                "hu": "Az idevezető emelkedő esőben csúszós lehet.",
+                "ro": "Urcarea spre mănăstire este alunecoasă pe ploaie.",
+                "en": "The climb up here is slippery in the rain."
+              }
+            },
+            {
+              "name": "Cornu Hills Hiking Trail",
+              "tip_5lang": {
+                "de": "Bei Regen für Räder nicht empfohlen; bleiben Sie auf Asphalt.",
+                "hu": "Esőben bringával nem ajánlott; maradjon az aszfalton.",
+                "ro": "Nerecomandat bicicletelor pe ploaie; rămâneți pe asfalt.",
+                "en": "Not recommended for bikes in rain; stick to asphalt."
+              }
+            },
+            {
+              "name": "Cornu Viewpoint",
+              "tip_5lang": {
+                "de": "Achten Sie bei der Abfahrt auf Aquaplaning.",
+                "hu": "Lefelé menet ügyeljen a vízenfutásra.",
+                "ro": "Atenție la acvaplanare pe coborâre.",
+                "en": "Watch out for aquaplaning on the descent."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie unbefestigte Wege; der Schlamm in Cornu klebt stark.",
+              "Vollständige Regenbekleidung ist für diese Tour zwingend.",
+              "Überprüfen Sie Ihre Bremsbeläge vor dem Start.",
+              "Bleiben Sie auf den Hauptstraßen, um sicher zu sein.",
+              "Ein Schutzblech schützt Sie vor Spritzwasser auf den Hügeln."
+            ],
+            "hu": [
+              "Kerülje a földutakat; a sár Cornuban nagyon ragadós.",
+              "A teljes esőruházat kötelező ehhez a túrához.",
+              "Indulás előtt ellenőrizze a fékbetéteket.",
+              "A biztonság érdekében maradjon a főutakon.",
+              "A sárvédő megvédi Önt a felverődő víztől a dombokon."
+            ],
+            "ro": [
+              "Evitați drumurile neasfaltate; noroiul din Cornu este lipicios.",
+              "Echipamentul complet de ploaie este obligatoriu pentru această tură.",
+              "Verificați saboții de frână înainte de plecare.",
+              "Rămâneți pe drumurile principale pentru siguranță.",
+              "O apărătoare vă va proteja de noroiul aruncat de roți."
+            ],
+            "en": [
+              "Avoid unpaved roads; the mud in Cornu is very sticky.",
+              "Full rain gear is mandatory for this tour.",
+              "Check your brake pads before starting.",
+              "Stick to the main roads for safety.",
+              "Mudguards will protect you from splashes on the hills."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren in Cornu im Winter ist ein Abenteuer für Mutige. Starten Sie vorsichtig am Park und nutzen Sie die geräumten Hauptstraßen zur Kirche. Das Dorfmuseum bietet eine wohlverdiente Aufwärmpause. Die Fahrt zum Kloster führt durch eine stille, weiße Welt. Wenn die Wege nicht zu vereist sind, bietet der Viewpoint einen spektakulären Blick auf das verschneite Tal, bevor die Kälte Sie zurück ins Dorf treibt.",
+            "hu": "A téli bringázás Cornuban igazi kaland a bátraknak. Kezdje óvatosan a parknál, és használja a letakarított főutakat a templomig. A Falumúzeum jól megérdemelt meleg pihenőt nyújt. A kolostorhoz vezető út egy csendes, fehér világon visz keresztül. Ha az utak nem túl jegesek, a kilátópontról látványos panoráma nyílik a havas völgyre, mielőtt a hideg visszakergetné a faluba.",
+            "ro": "Biciclitul în Cornu iarna este o aventură pentru cei curajoși. Începeți cu grijă la parc și folosiți drumurile principale deszăpezite spre biserică. Muzeul Satului oferă o pauză binemeritată la căldură. Drumul spre mănăstire trece printr-o lume albă și liniștită. Dacă drumurile nu sunt prea înghețate, punctul de belvedere oferă o panoramă spectaculoasă asupra văii înzăpezite.",
+            "en": "Cycling in Cornu during winter is an adventure for the brave. Start cautiously at the park and use the cleared main roads to the church. The Village Museum offers a well-deserved warm break. The ride to the monastery takes you through a quiet, white world. If the roads aren't too icy, the viewpoint provides a spectacular vista of the snowy valley before the cold drives you back."
+          },
+          "stops": [
+            {
+              "name": "Community Park",
+              "tip_5lang": {
+                "de": "Achten Sie auf gefrorenes Laub auf dem Boden.",
+                "hu": "Ügyeljen a földön lévő fagyott levelekre.",
+                "ro": "Atenție la frunzele înghețate de pe sol.",
+                "en": "Watch out for frozen leaves on the ground."
+              }
+            },
+            {
+              "name": "Saint John the Baptist Church",
+              "tip_5lang": {
+                "de": "Vermeiden Sie abrupte Lenkbewegungen bei Schnee.",
+                "hu": "Kerülje a hirtelen kormánymozdulatokat hóban.",
+                "ro": "Evitați mișcările bruște de ghidon pe zăpadă.",
+                "en": "Avoid abrupt steering movements in snow."
+              }
+            },
+            {
+              "name": "Village Museum",
+              "tip_5lang": {
+                "de": "Wärmen Sie Ihre Hände auf, bevor Sie weiterfahren.",
+                "hu": "Melegítse fel a kezeit, mielőtt tovább indulna.",
+                "ro": "Încălziți-vă mâinile înainte de a pleca mai departe.",
+                "en": "Warm up your hands before riding further."
+              }
+            },
+            {
+              "name": "Traditional Rural Houses",
+              "tip_5lang": {
+                "de": "Vorsicht vor Schneematsch am Straßenrand.",
+                "hu": "Vigyázzon az út szélén lévő hókásával.",
+                "ro": "Atenție la moshirița de pe marginea drumului.",
+                "en": "Watch out for slush at the edge of the road."
+              }
+            },
+            {
+              "name": "Cornu Monastery",
+              "tip_5lang": {
+                "de": "Der Boden kann hier sehr glatt sein; schieben Sie evtl.",
+                "hu": "Itt nagyon síkos lehet a talaj; érdemes tolni a gépet.",
+                "ro": "Solul poate fi foarte alunecos; e mai sigur să împingeți.",
+                "en": "Ground can be very slick; walking the bike is safer."
+              }
+            },
+            {
+              "name": "Cornu Hills Hiking Trail",
+              "tip_5lang": {
+                "de": "Im Winter für Räder unpassierbar; meiden Sie diesen Weg.",
+                "hu": "Télen bringával járhatatlan; kerülje ezt az utat.",
+                "ro": "Inaccesibil bicicletelor iarna; evitați această rută.",
+                "en": "Impassable for bikes in winter; avoid this path."
+              }
+            },
+            {
+              "name": "Cornu Viewpoint",
+              "tip_5lang": {
+                "de": "Der kalte Wind ist hier oben besonders stark.",
+                "hu": "A hideg szél itt fent különösen erős.",
+                "ro": "Vântul rece este extrem de puternic aici sus.",
+                "en": "The cold wind is especially strong up here."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie Reifen mit gutem Profil oder Spikes.",
+              "Die Dämmerung beginnt früh; Licht ist lebenswichtig.",
+              "Schützen Sie Ihre Extremitäten (Hände/Füße) vor Frost.",
+              "Bleiben Sie auf den geräumten Straßen im Dorfzentrum.",
+              "Fahren Sie defensiv, da Autofahrer Sie im Schnee schlechter sehen."
+            ],
+            "hu": [
+              "Használjon jó profilú vagy szöges gumikat.",
+              "A szürkület korán kezdődik; a világítás létfontosságú.",
+              "Védje a végtagjait (kezek/lábak) a fagyástól.",
+              "Maradjon a falu központjában a letakarított utakon.",
+              "Vezessen defenzíven, mert az autósok nehezebben látják Önt hóban."
+            ],
+            "ro": [
+              "Folosiți anvelope cu profil bun sau cu ținte.",
+              "Amurgul vine repede; luminile sunt vitale.",
+              "Protejați-vă extremitățile (mâinile și picioarele) de ger.",
+              "Rămâneți pe drumurile deszăpezite din centrul comunei.",
+              "Conduceți defensiv, vizibilitatea e redusă iarna."
+            ],
+            "en": [
+              "Use tires with good tread or studs.",
+              "Dusk comes early; lights are vital for safety.",
+              "Protect your extremities (hands/feet) from frostbite.",
+              "Stick to the cleared roads in the village center.",
+              "Ride defensively as drivers have lower visibility in snow."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1110,6 +1508,214 @@
           "The roads in the hills can be narrow, drive carefully.",
           "Refuel before heading into the mountain regions."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Genießen Sie Cornu bequem vom Auto aus. Parken Sie direkt am Dorfmuseum für einen ausgiebigen Besuch im Trockenen. Kurze Fahrten bringen Sie zur Kirche und zum Kloster, wo Sie den Regen von drinnen oder unter einem Regenschirm beobachten können. Die Auffahrt zum Viewpoint ist auch bei Nässe gut machbar, und Sie können das Panorama der Prahova-Region aus der Wärme Ihres Wagens genießen.",
+            "hu": "Élvezze Cornut kényelmesen az autójából. Parkoljon közvetlenül a Falumúzeumnál a hosszú, száraz látogatáshoz. Rövid autózással elérheti a templomot és a kolostort, ahol az esőt bentről vagy az esernyő alól figyelheti. A kilátóhoz vezető út esőben is jól járható autóval, így a kocsiból is gyönyörködhet a Prahova-vidék panorámájában.",
+            "ro": "Bucurați-vă de Cornu din confortul mașinii. Parcați direct la Muzeul Satului pentru o vizită lungă la adăpost. Scurte deplasări vă vor duce la biserică și mănăstire, unde puteți urmări ploaia din interior sau de sub umbrelă. Urcarea spre punctul de belvedere este accesibilă auto și pe ploaie, permițându-vă să vedeți panorama din căldura mașinii.",
+            "en": "Enjoy Cornu comfortably from your car. Park directly at the Village Museum for an extended dry visit. Short drives will take you to the church and monastery, where you can watch the rain from inside or under an umbrella. The drive to the viewpoint is manageable by car even in wet weather, allowing you to enjoy the Prahova panorama from the warmth of your vehicle."
+          },
+          "stops": [
+            {
+              "name": "Parking at the Village Museum",
+              "tip_5lang": {
+                "de": "Asphaltierter Parkplatz, keine Matschgefahr.",
+                "hu": "Aszfaltozott parkoló, nincs sárveszély.",
+                "ro": "Parcare asfaltată, nu există risc de noroi.",
+                "en": "Paved parking, no risk of mud."
+              }
+            },
+            {
+              "name": "Village Museum",
+              "tip_5lang": {
+                "de": "Ideal, um dem Regen für längere Zeit zu entfliehen.",
+                "hu": "Ideális hely, hogy hosszabb időre elmeneküljön az eső elől.",
+                "ro": "Loc ideal pentru a scăpa de ploaie mai mult timp.",
+                "en": "Ideal place to escape the rain for a longer period."
+              }
+            },
+            {
+              "name": "Saint John the Baptist Church",
+              "tip_5lang": {
+                "de": "Parkmöglichkeiten direkt vor dem Eingang.",
+                "hu": "Parkolási lehetőség közvetlenül a bejárat előtt.",
+                "ro": "Posibilitate de parcare chiar în fața intrării.",
+                "en": "Parking available right in front of the entrance."
+              }
+            },
+            {
+              "name": "Parking at Cornu Monastery",
+              "tip_5lang": {
+                "de": "Guter Untergrund; kurzer Weg zum Kloster.",
+                "hu": "Jó aljzat; rövid út a kolostorig.",
+                "ro": "Suprafață bună; drum scurt până la mănăstire.",
+                "en": "Good surface; short walk to the monastery."
+              }
+            },
+            {
+              "name": "Cornu Monastery",
+              "tip_5lang": {
+                "de": "Besuchen Sie den Shop für lokale Produkte im Trockenen.",
+                "hu": "Látogasson el a boltba helyi termékekért fedett helyen.",
+                "ro": "Vizitați magazinul cu produse locale, la adăpost.",
+                "en": "Visit the shop for local products indoors."
+              }
+            },
+            {
+              "name": "Cornu Viewpoint",
+              "tip_5lang": {
+                "de": "Genießen Sie die Aussicht direkt aus dem Auto.",
+                "hu": "Élvezze a kilátást közvetlenül az autóból.",
+                "ro": "Bucurați-vă de priveliște direct din mașină.",
+                "en": "Enjoy the view directly from your car."
+              }
+            },
+            {
+              "name": "Community Park & Center",
+              "tip_5lang": {
+                "de": "Zentrale Parkplätze in der Nähe von Cafés.",
+                "hu": "Központi parkolók kávézók közelében.",
+                "ro": "Parcări centrale în apropierea cafenelelor.",
+                "en": "Central parking spots near local cafes."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Parkplätze nah an den Sehenswürdigkeiten.",
+              "Vorsicht bei starkem Regen auf den kurvigen Bergstraßen.",
+              "Halten Sie einen Regenschirm im Auto für kurze Wege bereit.",
+              "Das Auto dient als perfekter Rückzugsort zwischen den Stopps.",
+              "Achten Sie auf tiefere Pfützen am Straßenrand."
+            ],
+            "hu": [
+              "Használja a látnivalókhoz közeli parkolókat.",
+              "Heves esőzéskor legyen óvatos a kanyargós hegyi utakon.",
+              "Tartson esernyőt az autóban a rövid szakaszokra.",
+              "Az autó tökéletes menedék a megállók között.",
+              "Ügyeljen a mélyebb pocsolyákra az út szélén."
+            ],
+            "ro": [
+              "Folosiți parcările cele mai apropiate de obiective.",
+              "Atenție pe ploaie torențială pe drumurile cu serpentine.",
+              "Păstrați o umbrelă în mașină pentru drumurile scurte.",
+              "Mașina este refugiul perfect între obiective.",
+              "Atenție la bălțile adânci de pe marginea drumului."
+            ],
+            "en": [
+              "Use the parking spots closest to the sights.",
+              "Be careful on winding hill roads during heavy rain.",
+              "Keep an umbrella in the car for short walks.",
+              "The car serves as a perfect shelter between stops.",
+              "Watch out for deep puddles at the side of the road."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Cornu im Winter per Auto ist sicher und behaglich. Starten Sie am beheizten Dorfmuseum und erkunden Sie die lokale Geschichte. Die Fahrt zur Kirche und zum Kloster führt durch malerische, verschneite Gassen. Dank des Autos erreichen Sie mühelos den Viewpoint, wo Sie die winterliche Prahova-Landschaft bewundern können, bevor Sie den Tag in einem warmen Café im Dorfzentrum bei einem lokalen Snack ausklingen lassen.",
+            "hu": "A téli Cornu autóval biztonságos és barátságos. Kezdje a fűtött Falumúzeumban a helyi történelem felfedezését. Az út a templomhoz és a kolostorhoz festői, havas utcákon vezet. Az autónak köszönhetően könnyen feljuthat a kilátóhoz, ahonnan megcsodálhatja a téli Prahova-vidéket, majd a napot egy meleg kávézóban zárhatja a falu központjában.",
+            "ro": "Descoperirea comunei Cornu iarna cu mașina este sigură și plăcută. Începeți la Muzeul Satului pentru o doză de istorie locală la căldură. Drumul spre biserică și mănăstire trece prin ulițe înzăpezite pitorești. Mașina vă ajută să ajungeți ușor la punctul de belvedere pentru a vedea peisajul hibernal, apoi încheiați ziua la o cafenea caldă din centru.",
+            "en": "Exploring Cornu by car in winter is safe and cozy. Start at the heated Village Museum to discover local history. The drive to the church and monastery takes you through picturesque, snowy lanes. Thanks to the car, you'll easily reach the viewpoint to admire the winter landscape, then finish the day at a warm cafe in the village center."
+          },
+          "stops": [
+            {
+              "name": "Parking at the Village Museum",
+              "tip_5lang": {
+                "de": "Wird meist schnell geräumt; ebenerdig.",
+                "hu": "Általában gyorsan letakarítják; sík terület.",
+                "ro": "De obicei deszăpezită rapid; teren plan.",
+                "en": "Usually cleared quickly; level ground."
+              }
+            },
+            {
+              "name": "Village Museum",
+              "tip_5lang": {
+                "de": "Genießen Sie die Wärme der historischen Räume.",
+                "hu": "Élvezze a történelmi szobák melegét.",
+                "ro": "Bucurați-vă de căldura camerelor istorice.",
+                "en": "Enjoy the warmth of the historical rooms."
+              }
+            },
+            {
+              "name": "Saint John the Baptist Church",
+              "tip_5lang": {
+                "de": "Achten Sie beim Aussteigen auf Glatteis.",
+                "hu": "Kiszálláskor ügyeljen a jegesedésre.",
+                "ro": "Atenție la polei când coborâți din mașină.",
+                "en": "Watch out for black ice when stepping out."
+              }
+            },
+            {
+              "name": "Parking at Cornu Monastery",
+              "tip_5lang": {
+                "de": "Vorsicht, bei Frost kann die Auffahrt glatt sein.",
+                "hu": "Vigyázat, fagyban az idevezető út síkos lehet.",
+                "ro": "Atenție, urcarea poate fi alunecoasă pe ger.",
+                "en": "Caution, the drive up can be slick in freezing temps."
+              }
+            },
+            {
+              "name": "Cornu Monastery",
+              "tip_5lang": {
+                "de": "Die Anlage wirkt im Schnee besonders friedlich.",
+                "hu": "A helyszín hóban különösen békésnek tűnik.",
+                "ro": "Ansamblul pare extrem de liniștit sub zăpadă.",
+                "en": "The complex looks especially peaceful in the snow."
+              }
+            },
+            {
+              "name": "Cornu Viewpoint",
+              "tip_5lang": {
+                "de": "Beste Sicht bei klarem Frostwetter.",
+                "hu": "A legjobb kilátás tiszta fagyos időben van.",
+                "ro": "Cea mai bună vizibilitate pe timp de ger senin.",
+                "en": "Best visibility during clear freezing weather."
+              }
+            },
+            {
+              "name": "Community Park & Center",
+              "tip_5lang": {
+                "de": "Suchen Sie Parkplätze in der Nähe beleuchteter Cafés.",
+                "hu": "Keressen parkolót a kivilágított kávézók közelében.",
+                "ro": "Căutați locuri de parcare lângă cafenelele luminate.",
+                "en": "Look for parking near brightly lit cafes."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in Rumänien gesetzlich vorgeschrieben.",
+              "Führen Sie einen Eiskratzer und Frostschutzmittel mit.",
+              "Die Bergstraßen in Cornu werden geräumt, können aber glatt sein.",
+              "Nutzen Sie die Sitzheizung für maximalen Komfort.",
+              "Vermeiden Sie das Parken unter schneebeladenen Bäumen."
+            ],
+            "hu": [
+              "A téli gumi Romániában törvényileg kötelező.",
+              "Legyen Önnél jégkaparó és fagyálló folyadék.",
+              "Cornu hegyi útjait takarítják, de síkosak lehetnek.",
+              "Használja az ülésfűtést a maximális kényelemért.",
+              "Kerülje a parkolást hóval terhelt fák alatt."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii prin lege în România.",
+              "Aveți la îndemână o racletă și lichid de parbriz de iarnă.",
+              "Drumurile în pantă din Cornu sunt curățate, dar pot fi lucioase.",
+              "Folosiți încălzirea în scaune pentru confort maxim.",
+              "Evitați parcarea sub copacii încărcați cu zăpadă."
+            ],
+            "en": [
+              "Winter tires are legally mandatory in Romania.",
+              "Keep an ice scraper and winter windshield fluid ready.",
+              "Hilly roads in Cornu are cleared but can be slippery.",
+              "Use seat heating for maximum comfort.",
+              "Avoid parking under snow-laden trees."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1438,6 +2044,178 @@
           "Have small change ready for bus tickets.",
           "Plan buffer times between bus journeys."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den Bus in Cornu, um dem Regen zu trotzen. Starten Sie an der zentralen Haltestelle und erreichen Sie schnell das Dorfmuseum, wo Sie die Mittagszeit geschützt verbringen können. Die Wege zwischen den Haltestellen und der Kirche oder dem Kloster sind kurz, aber ein Regenschirm ist Pflicht. Das Ende des Tages verbringen Sie in der Nähe der Bushaltestelle im Zentrum, wo lokale Cafés Trockenheit bieten.",
+            "hu": "Használja a buszt Cornuban az eső elleni védekezéshez. Kezdje a központi megállónál, és érjen gyorsan a Falumúzeumba, ahol a délutánt fedett helyen töltheti. A megállók és a templom vagy kolostor közötti utak rövidek, de az esernyő kötelező. A nap végét töltse a központi buszmegálló környékén, ahol a helyi kávézók száraz menedéket nyújtanak.",
+            "ro": "Folosiți autobuzul în Cornu pentru a evita ploaia. Începeți la stația centrală și ajungeți rapid la Muzeul Satului, unde puteți sta la adăpost. Drumurile dintre stații și biserică sau mănăstire sunt scurte, dar umbrela este obligatorie. Încheiați ziua aproape de stația de autobuz din centru, unde cafenelele locale oferă confort și căldură.",
+            "en": "Use the bus in Cornu to brave the rain. Start at the central stop and quickly reach the Village Museum, where you can spend the midday protected. The walks between the bus stops and the church or monastery are short, but an umbrella is a must. End the day near the central bus stop, where local cafes offer a dry and welcoming atmosphere."
+          },
+          "stops": [
+            {
+              "name": "Central Bus Stop",
+              "tip_5lang": {
+                "de": "Überdachte Haltestelle vorhanden.",
+                "hu": "Fedett buszmegálló áll rendelkezésre.",
+                "ro": "Există o stație de autobuz acoperită.",
+                "en": "Covered bus stop available."
+              }
+            },
+            {
+              "name": "Community Park & Heroes' Monument",
+              "tip_5lang": {
+                "de": "Nahe der Haltestelle; nutzen Sie die kurzen Wege.",
+                "hu": "Közel van a megállóhoz; használja a rövid utakat.",
+                "ro": "Aproape de stație; folosiți potecile scurte.",
+                "en": "Close to the stop; use the short paths."
+              }
+            },
+            {
+              "name": "Saint John the Baptist Church",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist nur wenige Gehminuten entfernt.",
+                "hu": "A megálló csak néhány perc sétára van.",
+                "ro": "Stația este la doar câteva minute de mers pe jos.",
+                "en": "The stop is only a few minutes' walk away."
+              }
+            },
+            {
+              "name": "Village Museum",
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um auf den nächsten Bus zu warten.",
+                "hu": "Tökéletes hely a következő busz megvárására.",
+                "ro": "Locul perfect pentru a aștepta următorul autobuz.",
+                "en": "The perfect place to wait for the next bus."
+              }
+            },
+            {
+              "name": "Cornu Monastery & Viewpoint",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Fahrplan für die Rückfahrt genau.",
+                "hu": "Pontosan ellenőrizze a visszautat a menetrendben.",
+                "ro": "Verificați cu atenție orarul pentru întoarcere.",
+                "en": "Check the return schedule carefully."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie die Busfrequenz; bei Regen sind Wartezeiten unschön.",
+              "Halten Sie Kleingeld oder eine Karte für das Ticket bereit.",
+              "Die Haltestellen bieten oft nur begrenzten Schutz vor Wind.",
+              "Nutzen Sie die Echtzeit-Apps, falls für Prahova verfügbar.",
+              "Tragen Sie wasserfeste Kleidung für die Wege zur Haltestelle."
+            ],
+            "hu": [
+              "Ellenőrizze a buszok gyakoriságát; esőben nem jó sokat várni.",
+              "Készítsen elő aprópénzt vagy kártyát a jegyvásárláshoz.",
+              "A megállók gyakran csak korlátozott védelmet nyújtanak a szél ellen.",
+              "Használja a valós idejű alkalmazásokat, ha elérhetőek Prahovában.",
+              "Viseljen vízálló ruhát a megállókhoz vezető utakhoz."
+            ],
+            "ro": [
+              "Verificați frecvența autobuzelor; așteptarea pe ploaie e neplăcută.",
+              "Pregătiți mărunțiș sau cardul pentru bilet.",
+              "Stațiile oferă adesea protecție limitată împotriva vântului.",
+              "Folosiți aplicațiile de transport dacă sunt disponibile în Prahova.",
+              "Purtați haine impermeabile pentru drumul spre stație."
+            ],
+            "en": [
+              "Check bus frequency; waiting in the rain is unpleasant.",
+              "Have small change or a card ready for the ticket.",
+              "Stops often offer limited protection from the wind.",
+              "Use real-time apps if available for the Prahova region.",
+              "Wear waterproof clothing for the walks to the bus stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie das winterliche Cornu mit dem Bus, um Kälte und glatte Straßen zu meiden. Starten Sie an der belebten Zentralhaltestelle und fahren Sie zum Dorfmuseum, das im Winter besonders gemütlich wirkt. Die spirituelle Ruhe der Kirche und des Klosters ist auch im Winter per Transit erreichbar. Genießen Sie die verschneite Aussicht, während Sie im beheizten Bus sitzen, und kehren Sie zum Abschluss in das warme Dorfzentrum zurück.",
+            "hu": "Fedezze fel a téli Cornut busszal, hogy elkerülje a hideget és a csúszós utakat. Kezdje a forgalmas központi megállónál, és utazzon a Falumúzeumig, amely télen különösen hangulatos. A templom és a kolostor spirituális nyugalma télen is elérhető tömegközlekedéssel. Élvezze a havas tájat a fűtött buszból, majd a nap végén térjen vissza a falu meleg központjába.",
+            "ro": "Explorați Cornu hibernal cu autobuzul pentru a evita frigul și drumurile alunecoase. Începeți la stația centrală animată și mergeți la Muzeul Satului, care e foarte primitor iarna. Liniștea bisericii și a mănăstirii este accesibilă cu transportul în comun și în sezonul rece. Admirați zăpada din autobuzul încălzit și reveniți la final în centrul cald al comunei.",
+            "en": "Explore wintery Cornu by bus to avoid the cold and slippery roads. Start at the busy central stop and ride to the Village Museum, which feels especially cozy in winter. The spiritual peace of the church and monastery is accessible by transit even in the cold season. Enjoy the snowy views from the heated bus and return to the warm village center at the end of the day."
+          },
+          "stops": [
+            {
+              "name": "Central Bus Stop",
+              "tip_5lang": {
+                "de": "Ein guter Ort, um sich kurz unterzustellen.",
+                "hu": "Jó hely egy rövid behúzódásra.",
+                "ro": "Un loc bun pentru a vă adăposti scurt timp.",
+                "en": "A good place to take shelter briefly."
+              }
+            },
+            {
+              "name": "Community Park & Heroes' Monument",
+              "tip_5lang": {
+                "de": "Die Wege können vereist sein; gehen Sie vorsichtig.",
+                "hu": "Az utak jegesek lehetnek; járjon óvatosan.",
+                "ro": "Potecile pot fi înghețate; mergeți cu prudență.",
+                "en": "Paths can be icy; walk carefully."
+              }
+            },
+            {
+              "name": "Saint John the Baptist Church",
+              "tip_5lang": {
+                "de": "In der Nähe gibt es kleine Läden zum Aufwärmen.",
+                "hu": "A közelben kisboltok várják a felmelegedni vágyókat.",
+                "ro": "În apropiere sunt magazine mici unde vă puteți încălzi.",
+                "en": "Nearby small shops are good for warming up."
+              }
+            },
+            {
+              "name": "Village Museum",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Winteröffnungszeiten vorab.",
+                "hu": "Előre ellenőrizze a téli nyitvatartást.",
+                "ro": "Verificați programul de iarnă în prealabil.",
+                "en": "Check the winter opening hours in advance."
+              }
+            },
+            {
+              "name": "Cornu Monastery & Viewpoint",
+              "tip_5lang": {
+                "de": "Planen Sie den letzten Bus vor Einbruch der Dunkelheit.",
+                "hu": "Tervezze meg az utolsó buszt sötétedés előtt.",
+                "ro": "Planificați ultimul autobuz înainte de lăsarea serii.",
+                "en": "Plan for the last bus before it gets dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse können bei starkem Schneefall Verspätungen haben.",
+              "Warten Sie im Inneren von Cafés, falls die Haltestelle zu kalt ist.",
+              "Tragen Sie warme Winterschuhe für die Wege zur Haltestelle.",
+              "Die Dämmerung beginnt früh; planen Sie Ihre Rückfahrt rechtzeitig.",
+              "Halten Sie sich an die Hauptverkehrszeiten für bessere Taktung."
+            ],
+            "hu": [
+              "Erős havazáskor a buszok késhetnek.",
+              "Várjon a kávézókban, ha a megálló túl hideg.",
+              "Viseljen meleg téli cipőt a megállókhoz vezető sétákhoz.",
+              "A szürkület korán kezdődik; tervezze meg időben a visszautat.",
+              "A sűrűbb menetrend érdekében utazzon csúcsidőben."
+            ],
+            "ro": [
+              "Autobuzele pot avea întârzieri în caz de ninsoare abundentă.",
+              "Așteptați în interiorul cafenelelor dacă stația e prea rece.",
+              "Purtați încălțăminte călduroasă pentru drumul spre stație.",
+              "Amurgul vine devreme; planificați din timp întoarcerea.",
+              "Călătoriți la orele de vârf pentru o frecvență mai bună."
+            ],
+            "en": [
+              "Buses may experience delays during heavy snowfall.",
+              "Wait inside cafes if the bus stop is too cold.",
+              "Wear warm winter boots for the walks to the stops.",
+              "Dusk comes early; plan your return trip in good time.",
+              "Stick to peak hours for better bus frequency."
+            ]
+          }
+        }
       }
     }
   }

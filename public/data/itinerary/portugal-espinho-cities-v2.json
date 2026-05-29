@@ -356,6 +356,196 @@
           "Be sure to try the fresh fish at one of the many restaurants.",
           "Keep an eye on your belongings, especially in crowded beach areas."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag in der schützenden Stille der Matrix-Kirche, bevor Sie das FACE-Museum für einen ausgiebigen, trockenen Vormittag ansteuern. Mittags genießen Sie den Blick auf das stürmische Meer von einem Restaurant an der Baía-Promenade aus. Der Nachmittag gehört dem glamourösen Casino, während Sie den Tag mit einem kurzen, erfrischenden Gang durch den regennassen Stadtpark abschließen.",
+            "hu": "Kezdje a napot az anyatemplom csendes menedékében, majd vonuljon be a FACE Múzeumba egy hosszú, tartalmas délelőttre. Ebéd közben figyelje a viharos óceánt egy parti étterem ablakából. A délutánt töltse a kaszinó elegáns termeiben, végül tegyen egy rövid, frissítő sétát az esőillatú városi parkban, mielőtt visszatérne a szállására.",
+            "ro": "Începeți ziua în liniștea bisericii principale, apoi mergeți la muzeul FACE pentru o dimineață lungă și uscată. La prânz, admirați oceanul învolburat de la fereastra unui restaurant de pe faleză. Petreceți după-amiaza în interiorul elegant al cazinoului, iar la final faceți o scurtă plimbare revigorantă prin parcul orașului, bucurându-vă de aerul curat de după ploaie.",
+            "en": "Start your day in the quiet shelter of the Matrix Church before heading to the FACE Museum for a long, dry morning of culture. At lunch, watch the stormy Atlantic from a cozy seaside restaurant. Spend the afternoon in the glamour of the Casino, and conclude with a brief, refreshing walk through the rain-scented City Park as the weather clears."
+          },
+          "stops": [
+            {
+              "name": "Matrix Church of Espinho",
+              "tip_5lang": {
+                "de": "Idealer Ort, um den ersten Regenschauer trocken abzuwarten.",
+                "hu": "Tökéletes helyszín az első esőfelhők elkerülésére.",
+                "ro": "Locul ideal pentru a aștepta trecerea primei averse.",
+                "en": "Perfect spot to wait out the first rain showers in peace."
+              }
+            },
+            {
+              "name": "Municipal Museum of Espinho (FACE)",
+              "tip_5lang": {
+                "de": "Große Innenausstellung, perfekt für lange Regentage.",
+                "hu": "Tágas belső terek, ideális menedék tartós esőben.",
+                "ro": "Expoziții interioare vaste, refugiu ideal pe ploaie.",
+                "en": "Extensive indoor exhibits, an ideal refuge on rainy days."
+              }
+            },
+            {
+              "name": "Seafront Promenade",
+              "tip_5lang": {
+                "de": "Vorsicht vor starkem Wind, der Regenschirme beschädigen kann.",
+                "hu": "Vigyázat, az erős szél kifordíthatja az esernyőt.",
+                "ro": "Atenție la vântul puternic care poate distruge umbrelele.",
+                "en": "Be careful with strong winds that can break umbrellas."
+              }
+            },
+            {
+              "name": "Baía Beach",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Wellen von einem Café aus.",
+                "hu": "Élvezze a hullámok látványát egy fűtött parti kávézóból.",
+                "ro": "Admirați valurile de la adăpostul unei cafenele de pe plajă.",
+                "en": "Enjoy the view of the waves from a sheltered beach café."
+              }
+            },
+            {
+              "name": "Casino Espinho",
+              "tip_5lang": {
+                "de": "Kulturelle Unterhaltung pur, völlig unabhängig vom Wetter.",
+                "hu": "Kulturális kikapcsolódás, az időjárástól teljesen védve.",
+                "ro": "Divertisment cultural complet, protejat de intemperii.",
+                "en": "Pure cultural entertainment, completely weather-independent."
+              }
+            },
+            {
+              "name": "City Park",
+              "tip_5lang": {
+                "de": "Die dichten Bäume bieten einen natürlichen Regenschutz.",
+                "hu": "A sűrű lombozat természetes védelmet nyújt az eső elől.",
+                "ro": "Copacii deși oferă o protecție naturală împotriva ploii.",
+                "en": "The dense trees provide a natural canopy against light rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine windfeste Regenjacke, da Schirme am Meer oft knicken.",
+              "Das FACE-Museum bietet Schließfächer für nasse Mäntel.",
+              "Die Fußgängerzone kann bei Nässe stellenweise rutschig sein.",
+              "Nutzen Sie die Arkaden im Stadtzentrum als trockene Laufwege.",
+              "Wärmen Sie sich zwischen den Stationen mit einer heißen Schokolade auf."
+            ],
+            "hu": [
+              "Viseljen szélálló esőkabátot, az ernyők gyakran tönkremennek a parton.",
+              "A FACE Múzeumban vannak értékmegőrzők a vizes kabátoknak.",
+              "A sétálóutca kövezete vizesen csúszós lehet, figyeljen a lépteire.",
+              "Használja a városközpont árkádjait a száraz közlekedéshez.",
+              "Melegedjen fel egy forró csokoládéval a parti kávézók egyikében."
+            ],
+            "ro": [
+              "Purtați o pelerină rezistentă la vânt, umbrelele se rup des pe mal.",
+              "Muzeul FACE are vestiare pentru hainele ude.",
+              "Pavajul din zona pietonală poate deveni alunecos când este ud.",
+              "Folosiți arcadele din centrul orașului ca pasaje uscate.",
+              "Încălziți-vă cu o ciocolată caldă între vizitele la obiective."
+            ],
+            "en": [
+              "Wear a windproof raincoat, as umbrellas often fail near the ocean.",
+              "The FACE Museum has lockers where you can leave wet coats.",
+              "The pedestrian streets can be slippery when wet, watch your step.",
+              "Use the city center arcades as dry walkways between spots.",
+              "Warm up with a thick Portuguese hot chocolate in a local café."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie die frische Winterbrise an der Matrix-Kirche und tauchen Sie danach in die Wärme des Museums ein. Ein zügiger Spaziergang am Strand bietet dramatische Lichtverhältnisse vor dem frühen Sonnenuntergang. Genießen Sie den späten Nachmittag im Casino, bevor die winterliche Dunkelheit den Stadtpark in eine stimmungsvolle Kulisse für den Abend verwandelt.",
+            "hu": "Érezze a friss téli szellőt az anyatemplomnál, majd merüljön el a múzeum fűtött termeiben. A parti séta ilyenkor drámai fényeket kínál a korai naplemente előtt. Töltse a késő délutánt a kaszinóban, végül csodálja meg a téli sötétségbe burkolózó városi park hangulatos fényeit az esti órákban.",
+            "ro": "Simțiți briza proaspătă de iarnă la biserică, apoi refugiați-vă în căldura muzeului. O plimbare pe plajă oferă lumini dramatice înainte de apusul timpuriu. Bucurați-vă de după-amiază la cazinou, înainte ca întunericul iernii să transforme parcul orașului într-un cadru atmosferic pentru seară.",
+            "en": "Experience the crisp winter breeze at the Church before diving into the museum's warmth. A brisk walk along the shore offers dramatic lighting before the early Atlantic sunset. Spend the late afternoon at the Casino, then watch as the winter darkness turns the City Park into an atmospheric setting for the evening."
+          },
+          "stops": [
+            {
+              "name": "Matrix Church of Espinho",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche früh, um das sanfte Winterlicht zu sehen.",
+                "hu": "Látogasson el korán, hogy elkapja a lágy téli fényeket.",
+                "ro": "Vizitați biserica devreme pentru a vedea lumina blândă de iarnă.",
+                "en": "Visit early to catch the soft winter light filtering through."
+              }
+            },
+            {
+              "name": "Municipal Museum of Espinho (FACE)",
+              "tip_5lang": {
+                "de": "Perfekt beheizt, ein idealer Ort zum Aufwärmen am Vormittag.",
+                "hu": "Kellemesen fűtött, tökéletes hely a délelőtti felmelegedéshez.",
+                "ro": "Bine încălzit, un loc ideal pentru a vă încălzi dimineața.",
+                "en": "Well-heated, an ideal place to warm up during the morning."
+              }
+            },
+            {
+              "name": "Seafront Promenade",
+              "tip_5lang": {
+                "de": "Ziehen Sie sich warm an, der Wind vom Atlantik ist eisig.",
+                "hu": "Öltözzön rétegesen, az óceáni szél ilyenkor metsző lehet.",
+                "ro": "Îmbrăcați-vă bine, vântul dinspre Atlantic este tăios.",
+                "en": "Dress warmly; the Atlantic wind can be very biting in winter."
+              }
+            },
+            {
+              "name": "Baía Beach",
+              "tip_5lang": {
+                "de": "Bester Spot für den frühen Sonnenuntergang gegen 17:30 Uhr.",
+                "hu": "A legjobb helyszín a korai, 17:30 körüli naplementéhez.",
+                "ro": "Cel mai bun loc pentru apusul timpuriu în jurul orei 17:30.",
+                "en": "The best spot for the early sunset around 5:30 PM."
+              }
+            },
+            {
+              "name": "Casino Espinho",
+              "tip_5lang": {
+                "de": "Abends herrscht hier eine besonders gemütliche Atmosphäre.",
+                "hu": "Este különösen barátságos és elegáns itt a hangulat.",
+                "ro": "Seara, aici este o atmosferă deosebit de primitoare.",
+                "en": "A particularly cozy and elegant atmosphere in the evenings."
+              }
+            },
+            {
+              "name": "City Park",
+              "tip_5lang": {
+                "de": "Genießen Sie die klare, kalte Winterluft unter den Pinien.",
+                "hu": "Élvezze a tiszta, hideg téli levegőt a fenyők alatt.",
+                "ro": "Bucurați-vă de aerul curat și rece sub pinii din parc.",
+                "en": "Enjoy the crisp, cold winter air under the pine trees."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Winter früh unter, planen Sie Outdoor-Aktivitäten vor 17 Uhr.",
+              "Zwiebelprinzip bei Kleidung hilft gegen den kalten Küstenwind.",
+              "Probieren Sie geröstete Kastanien von den Straßenverkäufern.",
+              "Innenräume sind oft kühl, behalten Sie einen leichten Pullover an.",
+              "Die Meeresbrandung ist im Winter oft spektakulär anzusehen."
+            ],
+            "hu": [
+              "A nap korán nyugszik, a szabadtéri programokat tervezze 17 óra elé.",
+              "A réteges öltözködés elengedhetetlen a hideg parti szélben.",
+              "Kóstolja meg a sült gesztenyét az utcai árusoknál.",
+              "A belső terek hűvösek lehetnek, érdemes egy vékony pulóvert bent is hordani.",
+              "A téli óceáni hullámverés gyakran látványosabb, mint nyáron."
+            ],
+            "ro": [
+              "Soarele apune devreme, planificați activitățile în aer liber înainte de ora 17.",
+              "Îmbrăcămintea stratificată este esențială împotriva vântului rece de coastă.",
+              "Încercați castanele coapte de la vânzătorii ambulanți.",
+              "Interioarele pot fi răcoroase, păstrați un hanorac pe umeri.",
+              "Valurile oceanului sunt adesea mult mai spectaculoase iarna."
+            ],
+            "en": [
+              "Sunset is early in winter; plan your outdoor activities before 5 PM.",
+              "Layered clothing is a must to fight the biting coastal wind.",
+              "Try the roasted chestnuts from local street vendors.",
+              "Indoor venues can be drafty; keep a light sweater handy.",
+              "The winter Atlantic swells are often more spectacular to watch."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -729,6 +919,214 @@
           "Bring plenty of water, especially for the ride to Castro de Ovil.",
           "Use a good lock to secure your bike while you're visiting attractions."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie vorsichtig im Stadtpark und nutzen Sie die asphaltierten Wege der Nord-Promenade. Ein langer Aufenthalt im FACE-Museum gibt Ihnen Zeit zum Trocknen. Trotz Regen ist die Fahrt zum Castro de Ovil auf befestigten Straßen machbar, erfordert aber gute Schutzkleidung und erhöhte Aufmerksamkeit auf rutschigen Untergründen.",
+            "hu": "Induljon óvatosan a városi parkból, használja az északi sétány aszfaltozott útjait. A FACE Múzeumban töltött idő alatt megszárítkozhat. Az eső ellenére a Castro de Ovil meglátogatása lehetséges műúton, de jó esőfelszerelést és fokozott figyelmet igényel a csúszós útfelületek miatt.",
+            "ro": "Porniți cu atenție din parcul orașului și folosiți pistele asfaltate de pe faleza de nord. Oprirea la muzeul FACE vă oferă timp să vă uscați. În ciuda ploii, drumul spre Castro de Ovil este practicabil pe șosea, dar necesită echipament de protecție bun și atenție sporită la suprafețele alunecoase.",
+            "en": "Start cautiously in the City Park and stick to the paved paths of the North Promenade. A long break at the FACE Museum allows you to dry off. Despite the rain, the ride to Castro de Ovil is manageable on paved roads, but requires quality waterproof gear and extra focus on potentially slippery surfaces."
+          },
+          "stops": [
+            {
+              "name": "City Park",
+              "tip_5lang": {
+                "de": "Vorsicht vor nassem Laub auf den Radwegen.",
+                "hu": "Vigyázzon a vizes falevelekre a kerékpárúton.",
+                "ro": "Atenție la frunzele ude de pe pistele de biciclete.",
+                "en": "Watch out for wet leaves on the cycling paths."
+              }
+            },
+            {
+              "name": "Seafront Promenade (North End)",
+              "tip_5lang": {
+                "de": "Asphaltierte Abschnitte wählen, um Schlamm zu vermeiden.",
+                "hu": "Válassza az aszfaltozott részeket a sár elkerüléséhez.",
+                "ro": "Alegeți secțiunile asfaltate pentru a evita noroiul.",
+                "en": "Stick to paved sections to avoid getting muddy."
+              }
+            },
+            {
+              "name": "Baía Beach",
+              "tip_5lang": {
+                "de": "Fahrradständer unter Dach suchen, falls verfügbar.",
+                "hu": "Keressen fedett biciklitárolót, ha lehetséges.",
+                "ro": "Căutați un suport de biciclete acoperit, dacă găsiți.",
+                "en": "Look for covered bike racks if available."
+              }
+            },
+            {
+              "name": "Casino Espinho",
+              "tip_5lang": {
+                "de": "Kurze Pause, um sich kurz aufzuwärmen.",
+                "hu": "Rövid megálló a gyors felmelegedéshez.",
+                "ro": "O scurtă pauză pentru a vă încălzi puțin.",
+                "en": "A quick stop to get out of the rain for a moment."
+              }
+            },
+            {
+              "name": "Matrix Church of Espinho",
+              "tip_5lang": {
+                "de": "Vorsicht beim Absteigen auf nassen Pflastersteinen.",
+                "hu": "Vigyázzon a vizes macskakőre a leszálláskor.",
+                "ro": "Atenție la pavajul ud când coborâți de pe bicicletă.",
+                "en": "Be careful on wet cobblestones when dismounting."
+              }
+            },
+            {
+              "name": "Municipal Museum of Espinho (FACE)",
+              "tip_5lang": {
+                "de": "Sicherer Ort, um das Rad für eine Weile zu parken.",
+                "hu": "Biztonságos hely a bicikli hosszabb leállításához.",
+                "ro": "Loc sigur pentru a parca bicicleta pentru o perioadă.",
+                "en": "Secure place to park your bike for a longer break."
+              }
+            },
+            {
+              "name": "Castro de Ovil",
+              "tip_5lang": {
+                "de": "Die Wege können bei Regen sehr rutschig sein.",
+                "hu": "Az ösvények esőben nagyon csúszóssá válhatnak.",
+                "ro": "Potecile pot deveni foarte alunecoase pe ploaie.",
+                "en": "The paths can become very slippery during rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt, sie brauchen bei Nässe länger.",
+              "Vermeiden Sie weiß markierte Linien auf der Straße, sie sind spiegelglatt.",
+              "Nutzen Sie Schutzbleche, um sich vor Spritzwasser zu schützen.",
+              "Tragen Sie Kleidung mit hoher Sichtbarkeit im Regen.",
+              "Wischen Sie den Sattel vor der Weiterfahrt immer trocken."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze a fékeket, vizesen hosszabb a fékút.",
+              "Kerülje az útburkolati jeleket, esőben rendkívül csúsznak.",
+              "Használjon sárvédőt a felcsapódó víz ellen.",
+              "Viseljen jól látható, fényvisszaverő ruházatot esőben.",
+              "Mindig törölje szárazra a nyerget mielőtt továbbindul."
+            ],
+            "ro": [
+              "Verificați frânele înainte de plecare, distanța de frânare crește.",
+              "Evitați marcajele rutiere albe, sunt extrem de alunecoase pe ploaie.",
+              "Folosiți aripi la bicicletă pentru a vă proteja de stropi.",
+              "Purtați haine reflectorizante pentru vizibilitate sporită pe ploaie.",
+              "Ștergeți întotdeauna șaua înainte de a pleca din nou la drum."
+            ],
+            "en": [
+              "Check your brakes before starting; stopping distances increase when wet.",
+              "Avoid riding on white road markings; they are treacherous in the rain.",
+              "Use mudguards to protect yourself from road spray.",
+              "Wear high-visibility clothing to stay safe in grey, rainy conditions.",
+              "Always wipe your saddle dry before resuming your ride."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie eine kühle Fahrt durch den Stadtpark und entlang der Küste, wo die Wintersonne glitzert. Nach einem wärmenden Stopp im FACE-Museum führt Sie der Weg landeinwärts zum Castro de Ovil. Die klare Winterluft sorgt für weite Sicht, erfordert aber winddichte Kleidung, besonders auf den offenen Abschnitten am Meer.",
+            "hu": "Élvezze a hűvös tekerést a városi parkon át a part mentén, ahol a téli nap csillog a vízen. A FACE Múzeumban tett melegítő pihenő után induljon a szárazföld belseje felé a Castro de Ovilhoz. A tiszta téli levegő nagy látótávolságot biztosít, de szélálló ruházatot igényel a nyitott parti szakaszokon.",
+            "ro": "Bucurați-vă de o tură răcoroasă prin parcul orașului și de-a lungul coastei însorite. După o pauză de încălzire la muzeul FACE, pedalați spre interiorul țării către Castro de Ovil. Aerul curat de iarnă oferă o vizibilitate excelentă, dar necesită haine rezistente la vânt pe faleză.",
+            "en": "Enjoy a cool ride through the City Park and along the coast where the winter sun glitters on the water. After a warming break at the FACE Museum, head inland to Castro de Ovil. The crisp winter air ensures great visibility, but windproof clothing is essential for the exposed seaside sections."
+          },
+          "stops": [
+            {
+              "name": "City Park",
+              "tip_5lang": {
+                "de": "Frische Morgenluft, ideal für einen wachen Start.",
+                "hu": "Friss reggeli levegő, tökéletes az ébredéshez.",
+                "ro": "Aer curat de dimineață, ideal pentru un start plin de energie.",
+                "en": "Crisp morning air, perfect for an invigorating start."
+              }
+            },
+            {
+              "name": "Seafront Promenade (North End)",
+              "tip_5lang": {
+                "de": "Gegenwind kann die Fahrt hier anstrengend machen.",
+                "hu": "Az ellenszél itt jelentősen lelassíthatja a haladást.",
+                "ro": "Vântul din față poate face pedalarea dificilă aici.",
+                "en": "Strong headwinds can make cycling tough along this stretch."
+              }
+            },
+            {
+              "name": "Baía Beach",
+              "tip_5lang": {
+                "de": "Kurzer Stopp für Fotos im klaren Winterlicht.",
+                "hu": "Rövid megálló fotózni a tiszta téli fényben.",
+                "ro": "O scurtă oprire pentru fotografii în lumina clară de iarnă.",
+                "en": "Quick stop for photos in the clear winter sunlight."
+              }
+            },
+            {
+              "name": "Casino Espinho",
+              "tip_5lang": {
+                "de": "Parken Sie windgeschützt hinter dem Gebäude.",
+                "hu": "Parkoljon szélvédett helyen az épület mögött.",
+                "ro": "Parcați într-un loc ferit de vânt în spatele clădirii.",
+                "en": "Park in a wind-sheltered spot behind the building."
+              }
+            },
+            {
+              "name": "Matrix Church of Espinho",
+              "tip_5lang": {
+                "de": "Im Inneren ist es oft wärmer als draußen.",
+                "hu": "Bent gyakran jóval melegebb van, mint a parton.",
+                "ro": "În interior este adesea mai cald decât afară.",
+                "en": "The interior is often significantly warmer than the shore."
+              }
+            },
+            {
+              "name": "Municipal Museum of Espinho (FACE)",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe für Ihre schwere Winterjacke.",
+                "hu": "Használja a ruhatárat a nehéz téli kabáthoz.",
+                "ro": "Folosiți garderoba pentru haina groasă de iarnă.",
+                "en": "Use the cloakroom to leave your heavy winter jacket."
+              }
+            },
+            {
+              "name": "Castro de Ovil",
+              "tip_5lang": {
+                "de": "Frühe Rückreise planen, bevor es im Wald dunkel wird.",
+                "hu": "Tervezze korábbra a visszautat, mielőtt az erdőben besötétedik.",
+                "ro": "Planificați întoarcerea devreme, înainte de a se întuneca în pădure.",
+                "en": "Plan your return early before it gets dark in the wooded areas."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Handschuhe, um klamme Finger am Lenker zu vermeiden.",
+              "Überprüfen Sie den Reifendruck; Kälte kann ihn leicht senken.",
+              "Die Sonne blendet im Winter tief, nehmen Sie eine Sonnenbrille mit.",
+              "Ein heißer Tee in der Thermoskanne wirkt Wunder.",
+              "Licht am Fahrrad ist Pflicht, da die Dämmerung früh einsetzt."
+            ],
+            "hu": [
+              "Viseljen kesztyűt, hogy elkerülje az ujjak elgémberedését.",
+              "Ellenőrizze a guminyomást, a hidegben kissé lecsökkenhet.",
+              "A téli nap alacsonyan jár és vakíthat, legyen önnél napszemüveg.",
+              "Egy termosznyi forró tea csodákat tesz a pihenők alatt.",
+              "A világítás kötelező, mert a szürkület hirtelen és korán érkezik."
+            ],
+            "ro": [
+              "Purtați mănuși pentru a evita amorțirea degetelor pe ghidon.",
+              "Verificați presiunea în pneuri, frigul o poate scădea ușor.",
+              "Soarele de iarnă este jos și poate fi orbitor, luați ochelari de soare.",
+              "Un termos cu ceai cald face minuni în timpul pauzelor.",
+              "Luminile la bicicletă sunt obligatorii, deoarece amurgul vine devreme."
+            ],
+            "en": [
+              "Wear gloves to prevent your fingers from numbing on the handlebars.",
+              "Check your tire pressure; cold temperatures can cause it to drop.",
+              "The low winter sun can be blinding; bring sunglasses for safety.",
+              "A thermos of hot tea works wonders during your breaks.",
+              "Bike lights are essential as dusk falls very early in winter."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1085,6 +1483,196 @@
           "Check the opening hours of Castro de Ovil before you go.",
           "Allow extra time for traffic, especially in the summer."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Genießen Sie den Komfort Ihres Autos bei der Fahrt zum Castro de Ovil, während der Regen prasselt. In Espinho parken Sie zentral und erreichen das FACE-Museum und die Kirche mit nur wenigen Schritten im Freien. Das Mittagessen am Strand bietet eine dramatische Kulisse, bevor Sie den Tag entspannt im Stadtpark ausklingen lassen, geschützt durch das Fahrzeug.",
+            "hu": "Élvezze autója kényelmét a Castro de Ovil felé vezető úton, miközben kint kopog az eső. Espinho központjában parkolva a múzeum és a templom is pár lépéssel elérhető. A tengerparti ebéd drámai látványt nyújt az esőben, a napot pedig a városi parknál zárhatja, szükség esetén a kocsiba húzódva.",
+            "ro": "Bucurați-vă de confortul mașinii în drum spre Castro de Ovil, în timp ce ploaia bate în geam. Parcând central în Espinho, muzeul și biserica sunt la doar câțiva pași distanță. Prânzul la plajă oferă un decor dramatic, iar finalul zilei în parcul orașului rămâne relaxant sub protecția vehiculului.",
+            "en": "Enjoy the comfort of your car on the drive to Castro de Ovil while the rain falls outside. Parking centrally in Espinho puts the museum and church just steps away. Lunch by the beach offers a dramatic rainy backdrop, and you can end the day at the City Park, retreating to your car if the weather turns heavy."
+          },
+          "stops": [
+            {
+              "name": "Castro de Ovil",
+              "tip_5lang": {
+                "de": "Zufahrtsstraße bei Starkregen vorsichtig befahren.",
+                "hu": "Heves esőben vezessen óvatosan a bekötőúton.",
+                "ro": "Conduceți cu atenție pe drumul de acces în caz de ploaie torențială.",
+                "en": "Drive carefully on the access road during heavy rain."
+              }
+            },
+            {
+              "name": "Parking in City Center (Cluster A)",
+              "tip_5lang": {
+                "de": "Parkhaus bevorzugen, um trocken auszusteigen.",
+                "hu": "Válassza a fedett parkolót a száraz kiszálláshoz.",
+                "ro": "Preferați o parcare acoperită pentru a coborî la uscat.",
+                "en": "Choose a covered parking garage to stay dry when exiting."
+              }
+            },
+            {
+              "name": "Municipal Museum of Espinho (FACE)",
+              "tip_5lang": {
+                "de": "Nur 2 Minuten Fußweg vom Parkplatz entfernt.",
+                "hu": "Mindössze 2 perc séta a parkolótól.",
+                "ro": "La doar 2 minute de mers pe jos de parcare.",
+                "en": "Just a 2-minute walk from the parking cluster."
+              }
+            },
+            {
+              "name": "Matrix Church of Espinho",
+              "tip_5lang": {
+                "de": "Kurzer Sprint über die Straße reicht aus.",
+                "hu": "Egy rövid sprint az utcán és már bent is van.",
+                "ro": "Un scurt sprint peste stradă este suficient.",
+                "en": "A short dash across the street is all it takes."
+              }
+            },
+            {
+              "name": "Baía Beach & Lunch",
+              "tip_5lang": {
+                "de": "Parkplätze direkt an der Uferpromenade nutzen.",
+                "hu": "Használja a közvetlenül a sétány melletti parkolókat.",
+                "ro": "Folosiți parcările situate direct pe faleză.",
+                "en": "Use the parking spots located directly on the promenade."
+              }
+            },
+            {
+              "name": "City Park (Cluster B)",
+              "tip_5lang": {
+                "de": "Vom Auto aus hat man einen schönen Blick ins Grüne.",
+                "hu": "Az autóból is szép kilátás nyílik a zöldbe.",
+                "ro": "Din mașină aveți o priveliște frumoasă spre verdeață.",
+                "en": "You can enjoy the view of the greenery from inside the car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf der Küstenstraße.",
+              "Halten Sie ein Handtuch im Auto bereit, um Sitze trocken zu halten.",
+              "Nutzen Sie die Klimaanlage gegen beschlagene Scheiben.",
+              "Zentrale Parkplätze sind bei Regen sehr begehrt, planen Sie Zeit ein.",
+              "Ein Regenschirm im Kofferraum ist bei diesem Plan Pflicht."
+            ],
+            "hu": [
+              "Vigyázzon a vízátfolyásokra a tengerparti úton.",
+              "Legyen egy törölköző az autóban az ülések szárazon tartásához.",
+              "Használja a klímát a szélvédő páramentesítésére.",
+              "A központi parkolók esőben hamar megtelnek, induljon időben.",
+              "Egy esernyő a csomagtartóban elengedhetetlen ehhez a naphoz."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumul de coastă.",
+              "Țineți un prosop în mașină pentru a menține scaunele uscate.",
+              "Folosiți aerul condiționat pentru a dezaburi parbrizul.",
+              "Parcările centrale sunt foarte solicitate pe ploaie, veniți devreme.",
+              "O umbrelă în portbagaj este obligatorie pentru acest traseu."
+            ],
+            "en": [
+              "Watch out for aquaplaning on the coastal roads.",
+              "Keep a towel in the car to wipe down and keep seats dry.",
+              "Use the air conditioning to quickly defog the windows.",
+              "Central parking spots fill up fast when it rains; arrive early.",
+              "Having an umbrella in the trunk is essential for this itinerary."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Wintertag mit einer Fahrt zum Castro de Ovil und genießen Sie die klare Luft. In Espinho bietet das Auto perfekten Schutz vor dem kalten Wind zwischen den Museen und der Kirche. Der Sonnenuntergang am Baía-Strand lässt sich wunderbar vom warmen Fahrzeug aus beobachten, bevor Sie den Tag im Stadtpark beenden.",
+            "hu": "Kezdje a téli napot a Castro de Ovil meglátogatásával, élvezve a friss levegőt. Espinhóban az autó tökéletes menedéket nyújt a hideg szél elől a múzeum és a templom között. A Baía-parti naplementét akár a meleg kocsiból is megcsodálhatja, mielőtt a napot a városi parkban zárná.",
+            "ro": "Începeți ziua de iarnă cu o vizită la Castro de Ovil, profitând de aerul curat. În Espinho, mașina oferă protecția perfectă împotriva vântului rece între muzeu și biserică. Apusul de pe plaja Baía poate fi admirat chiar din căldura vehiculului, înainte de a încheia ziua în parcul orașului.",
+            "en": "Start your winter day with a drive to Castro de Ovil, enjoying the crisp air. In Espinho, your car provides the perfect shield against the cold wind between visits to the museum and the church. Watch the Baía beach sunset from the warmth of your vehicle before concluding your trip at the City Park."
+          },
+          "stops": [
+            {
+              "name": "Castro de Ovil",
+              "tip_5lang": {
+                "de": "Morgens kann es hier im Schatten recht frostig sein.",
+                "hu": "Reggelente itt az árnyékos részeken fagyos lehet a levegő.",
+                "ro": "Dimineața poate fi destul de frig aici în zonele umbrite.",
+                "en": "It can be quite frosty here in the shaded areas during morning."
+              }
+            },
+            {
+              "name": "Parking in City Center (Cluster A)",
+              "tip_5lang": {
+                "de": "Sonnige Parkplätze wählen, um das Auto natürlich zu wärmen.",
+                "hu": "Keressen napos helyet, hogy a nap felmelegítse az autót.",
+                "ro": "Alegeți locuri însorite pentru a încălzi natural mașina.",
+                "en": "Choose sunny parking spots to naturally warm the car interior."
+              }
+            },
+            {
+              "name": "Municipal Museum of Espinho (FACE)",
+              "tip_5lang": {
+                "de": "Genießen Sie die Heizung im Gebäude nach dem Aussteigen.",
+                "hu": "Élvezze az épület fűtését a hideg kinti séta után.",
+                "ro": "Bucurați-vă de căldura din clădire după ce coborâți.",
+                "en": "Enjoy the building's heating immediately after getting out."
+              }
+            },
+            {
+              "name": "Matrix Church of Espinho",
+              "tip_5lang": {
+                "de": "Die Kirche bietet einen guten Windschutz.",
+                "hu": "A templom vastag falai jól védenek a szél ellen.",
+                "ro": "Biserica oferă o protecție bună împotriva vântului.",
+                "en": "The church walls provide excellent shelter from the wind."
+              }
+            },
+            {
+              "name": "Baía Beach & Lunch",
+              "tip_5lang": {
+                "de": "Parken Sie mit Blick auf den Ozean für das Panorama.",
+                "hu": "Parkoljon az óceán felé fordulva a panoráma miatt.",
+                "ro": "Parcați cu fața spre ocean pentru a vedea panorama.",
+                "en": "Park facing the ocean for the best panoramic view."
+              }
+            },
+            {
+              "name": "City Park (Cluster B)",
+              "tip_5lang": {
+                "de": "Abends sind die Wege hier oft leerer und ruhiger.",
+                "hu": "Este az utak itt gyakran üresebbek és csendesebbek.",
+                "ro": "Seara, aleile de aici sunt adesea mai libere și liniștite.",
+                "en": "The paths here are often emptier and quieter in the evening."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Frostschutz in der Scheibenwaschanlage.",
+              "Die Batterieleistung kann bei Kälte sinken, Licht nicht anlassen.",
+              "Die Atlantik-Gischt kann einen Salzfilm auf der Scheibe hinterlassen.",
+              "Nutzen Sie die Sitzheizung für kurze Fahrten in der Stadt.",
+              "Planen Sie die Rückfahrt vor Einsetzen des Berufsverkehrs."
+            ],
+            "hu": [
+              "Ellenőrizze a fagyállót a szélvédőmosóban.",
+              "A hidegben az akkumulátor gyengülhet, ne hagyja égve a lámpát.",
+              "Az óceáni pára sós réteget hagyhat a szélvédőn, mossa le gyakran.",
+              "Használja az ülésfűtést a rövid városi szakaszokon.",
+              "Tervezze a visszautat a délutáni csúcsforgalom kezdete elé."
+            ],
+            "ro": [
+              "Verificați lichidul de parbriz să fie rezistent la îngheț.",
+              "Bateria poate slăbi la frig, nu lăsați luminile aprinse inutil.",
+              "Vaporii oceanului pot lăsa o peliculă de sare pe parbriz.",
+              "Folosiți încălzirea în scaune pentru drumurile scurte prin oraș.",
+              "Planificați întoarcerea înainte de începerea orei de vârf."
+            ],
+            "en": [
+              "Check that your windshield washer fluid is frost-resistant.",
+              "Battery performance drops in the cold; don't leave lights on.",
+              "Sea spray can leave a salty film on your windshield; wash it often.",
+              "Make use of heated seats for the short hops between city spots.",
+              "Plan your drive back before the evening rush hour begins."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1441,6 +2029,196 @@
           "Validate your ticket every time you board to avoid fines.",
           "Allow buffer time for potential bus delays."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nach Ihrer Ankunft am Bahnhof Espinho erreichen Sie die Kirche und das FACE-Museum fast trockenen Fußes. Den Mittag verbringen Sie am Strand, wobei die kurzen Wege zwischen den Gebäuden den Regen erträglich machen. Das Casino bietet einen perfekten Nachmittag im Trockenen, bevor Sie mit dem Zug durch die regnerische Landschaft bequem nach Hause fahren.",
+            "hu": "Az espinhói állomásra érkezve a templom és a FACE Múzeum is szinte száraz lábbal elérhető. A délt töltse a parton, ahol az épületek közti rövid távok elviselhetővé teszik az esőt. A kaszinó tökéletes délutáni program a szárazban, majd élvezze a vonatozást a borús tájon át hazafelé.",
+            "ro": "După sosirea în gara Espinho, ajungeți la biserică și la muzeul FACE aproape fără să vă udați. Petreceți prânzul la plajă, unde distanțele scurte dintre clădiri fac ploaia suportabilă. Cazinoul oferă o după-amiază perfectă la uscat, înainte de a pleca spre casă cu trenul prin peisajul ploios.",
+            "en": "After arriving at Espinho Station, you can reach the church and FACE Museum with minimal exposure to the rain. Spend midday at the beach, where the short distances between venues keep you mostly dry. The Casino is perfect for a rainy afternoon before catching your train home through the misty landscape."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Espinho Station (Cluster A)",
+              "tip_5lang": {
+                "de": "Moderner, überdachter Bahnhof, ideal bei Regen.",
+                "hu": "Modern, fedett vasútállomás, kiváló esős időben.",
+                "ro": "Gară modernă și acoperită, ideală pe timp de ploaie.",
+                "en": "Modern, covered train station, ideal for rainy arrivals."
+              }
+            },
+            {
+              "name": "Matrix Church of Espinho",
+              "tip_5lang": {
+                "de": "Nur ein kurzer Weg vom Bahnhofsausgang.",
+                "hu": "Csak egy rövid séta az állomás kijáratától.",
+                "ro": "La doar o scurtă plimbare de ieșirea din gară.",
+                "en": "Just a very short walk from the station exit."
+              }
+            },
+            {
+              "name": "Municipal Museum of Espinho (FACE)",
+              "tip_5lang": {
+                "de": "Zentral gelegen und schnell erreichbar.",
+                "hu": "Központi elhelyezkedés, gyorsan odaérhet.",
+                "ro": "Locație centrală, se ajunge rapid de la gară.",
+                "en": "Centrally located and very quick to reach on foot."
+              }
+            },
+            {
+              "name": "Baía Beach (Cluster B)",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit direktem Meerblick.",
+                "hu": "Válasszon éttermet közvetlen tengeri kilátással.",
+                "ro": "Alegeți un restaurant cu vedere directă la mare.",
+                "en": "Pick a restaurant with a direct, indoor sea view."
+              }
+            },
+            {
+              "name": "Casino Espinho",
+              "tip_5lang": {
+                "de": "Idealer Ort, um auf den nächsten Zug zu warten.",
+                "hu": "Tökéletes helyszín a következő vonatig várakozni.",
+                "ro": "Locul ideal pentru a aștepta următorul tren.",
+                "en": "Perfect place to spend time while waiting for your train."
+              }
+            },
+            {
+              "name": "City Park (Cluster C)",
+              "tip_5lang": {
+                "de": "Die Wege sind gut befestigt und matschfrei.",
+                "hu": "Az utak jól kiépítettek és sármentesek.",
+                "ro": "Aleile sunt bine amenajate și fără noroi.",
+                "en": "The paths are well-paved and remain mud-free."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Bahnhof ist unterirdisch, was Sie vor Wind schützt.",
+              "Prüfen Sie die App auf eventuelle Verspätungen bei Sturm.",
+              "Tragen Sie wasserfeste Schuhe für die kurzen Sprints.",
+              "Die Züge sind gut beheizt und bieten einen tollen Blick aufs Meer.",
+              "Nutzen Sie die Schließfächer am Bahnhof für schweres Gepäck."
+            ],
+            "hu": [
+              "Az állomás a föld alatt van, így véd a széltől és esőtől.",
+              "Ellenőrizze az alkalmazást az esetleges vihar miatti késésekért.",
+              "Viseljen vízálló cipőt a rövid kinti szakaszokhoz.",
+              "A vonatok jól fűtöttek és nagyszerű kilátást nyújtanak a tengerre.",
+              "Használja az állomási csomagmegőrzőt a nehéz táskákhoz."
+            ],
+            "ro": [
+              "Gara este subterană, oferind protecție împotriva vântului.",
+              "Verificați aplicația pentru eventuale întârzieri cauzate de furtună.",
+              "Purtați încălțăminte impermeabilă pentru segmentele scurte de mers.",
+              "Trenurile sunt bine încălzite și oferă o vedere frumoasă la mare.",
+              "Folosiți dulapurile de bagaje din gară pentru gențile grele."
+            ],
+            "en": [
+              "The station is underground, protecting you from wind and rain.",
+              "Check the transit app for any storm-related delays.",
+              "Wear waterproof shoes for the short sprints between stops.",
+              "Trains are well-heated and offer great coastal views even in rain.",
+              "Use the station lockers to store heavy bags and keep them dry."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Kommen Sie entspannt am Bahnhof Espinho an und genießen Sie den kurzen Gang zur Matrix-Kirche im klaren Winterlicht. Das FACE-Museum bietet einen warmen Vormittag, bevor Sie den Mittag am sonnigen, aber kühlen Strand verbringen. Der späte Nachmittag im Casino ist besonders gemütlich, bevor Sie die beleuchtete Stadt auf dem Weg zurück zum Zug durchqueren.",
+            "hu": "Érkezzen kényelmesen az espinhói állomásra, és élvezze a templomhoz vezető sétát a tiszta téli fényben. A FACE Múzeum meleg délelőttöt kínál, mielőtt a delet a napos, de hűvös parton töltené. A kaszinóban töltött délután különösen hívogató, majd csodálja meg a kivilágított várost a vonat felé menet.",
+            "ro": "Sosiți relaxat în gara Espinho și bucurați-vă de drumul spre biserică în lumina clară de iarnă. Muzeul FACE oferă o dimineață călduroasă, urmată de un prânz pe plaja însorită, dar răcoroasă. După-amiaza la cazinou este foarte primitoare, înainte de a vedea orașul luminat în drum spre tren.",
+            "en": "Arrive relaxed at Espinho Station and enjoy the short walk to the church in the clear winter light. The FACE Museum offers a warm refuge for the morning before you head to the sunny but cool beach for lunch. The late afternoon at the Casino is especially cozy before you walk through the illuminated city back to the station."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Espinho Station (Cluster A)",
+              "tip_5lang": {
+                "de": "Zentrale Lage, alle Ziele sind schnell erreichbar.",
+                "hu": "Központi elhelyezkedés, minden célpont gyorsan elérhető.",
+                "ro": "Locație centrală, toate obiectivele sunt ușor accesibile.",
+                "en": "Central location; all main stops are within easy reach."
+              }
+            },
+            {
+              "name": "Matrix Church of Espinho",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort für Besinnung im Winter.",
+                "hu": "Csendes hely az elmélyüléshez téli napokon.",
+                "ro": "Un loc liniștit pentru reflecție în timpul iernii.",
+                "en": "A peaceful place for quiet reflection in winter."
+              }
+            },
+            {
+              "name": "Municipal Museum of Espinho (FACE)",
+              "tip_5lang": {
+                "de": "Die Ausstellungsräume sind angenehm temperiert.",
+                "hu": "A kiállítótermek hőmérséklete kellemesen meleg.",
+                "ro": "Sălile de expoziție au o temperatură plăcută.",
+                "en": "The exhibition halls are kept at a very comfortable temperature."
+              }
+            },
+            {
+              "name": "Baía Beach (Cluster B)",
+              "tip_5lang": {
+                "de": "Frische Meeresluft genießen, bevor es dunkel wird.",
+                "hu": "Élvezze a friss tengeri levegőt a sötétedés előtt.",
+                "ro": "Bucurați-vă de aerul mării înainte de lăsarea serii.",
+                "en": "Enjoy the fresh sea air before the early sunset."
+              }
+            },
+            {
+              "name": "Casino Espinho",
+              "tip_5lang": {
+                "de": "Ein Hauch von Luxus an einem kühlen Wintertag.",
+                "hu": "Egy csipetnyi luxus a hűvös téli napon.",
+                "ro": "O notă de lux într-o zi răcoroasă de iarnă.",
+                "en": "A touch of luxury on a cool winter day."
+              }
+            },
+            {
+              "name": "City Park (Cluster C)",
+              "tip_5lang": {
+                "de": "Schöne Abendbeleuchtung in der Nähe des Parks.",
+                "hu": "Szép esti fények a park környékén.",
+                "ro": "Iluminat de seară frumos în apropierea parcului.",
+                "en": "Beautiful evening illumination near the park area."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Züge fahren im Winter oft seltener, Fahrplan vorher prüfen.",
+              "Nutzen Sie die Wartebereiche im Bahnhof zum Aufwärmen.",
+              "Kaufen Sie Fahrkarten online, um Kälte am Automaten zu vermeiden.",
+              "Die Fahrt entlang der Küste ist auch im Winter wunderschön.",
+              "Nehmen Sie einen Schal mit, der Wind im Bahnhofsschacht zieht."
+            ],
+            "hu": [
+              "Télen a vonatok ritkábban járhatnak, ellenőrizze a menetrendet.",
+              "Használja az állomás belső várótermeit a felmelegedéshez.",
+              "Vegye meg a jegyet online, ne fagyoskodjon az automatánál.",
+              "A part menti vasúti szakasz télen is lenyűgöző látvány.",
+              "Legyen önnél sál, az állomás huzatos lehet a téli szélben."
+            ],
+            "ro": [
+              "Trenurile pot circula mai rar iarna, verificați orarul în avans.",
+              "Folosiți sălile de așteptare din gară pentru a vă încălzi.",
+              "Cumpărați biletele online pentru a evita frigul la automate.",
+              "Traseul feroviar de-a lungul coastei este superb și iarna.",
+              "Luați un fular, poate fi curent în zona peronului iarna."
+            ],
+            "en": [
+              "Trains may run less frequently in winter; check the schedule early.",
+              "Make use of the indoor waiting areas at the station to stay warm.",
+              "Buy your tickets online to avoid standing in the cold at machines.",
+              "The train ride along the coast is spectacular even in winter.",
+              "Bring a scarf; the station shafts can be quite drafty in winter."
+            ]
+          }
+        }
       }
     }
   }

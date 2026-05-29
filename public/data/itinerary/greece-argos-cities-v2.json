@@ -379,6 +379,206 @@
           "Most archaeological sites have little shade.",
           "Some smaller sites may have limited hours, check in advance."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Argos bei Regen beginnt im Museum, das perfekten Schutz bietet. Die antiken Stätten draußen erfordern einen Regenschirm, da der Boden rutschig sein kann. Mittags wärmen wir uns in der Kirche auf, bevor wir den nebligen Burgberg erklimmen. Der Tag endet gemütlich in einer Taverne im Stadtzentrum.",
+            "hu": "Argos esőben a múzeumban indul, ahol fedett helyen ismerkedhetünk a történelemmel. Az Agora és a Színház kövei csúszósak lehetnek, így óvatosan sétáljunk. A Larissa-vár ködös sziluettje misztikus látványt nyújt, a napot pedig egy belvárosi étterem melegében zárjuk.",
+            "ro": "Argos pe ploaie începe la muzeu, oferind un adăpost cultural ideal. Siturile antice exterioare necesită umbrelă, iar pietrele pot fi alunecoase. După-amiaza urcăm spre Castelul Larissa printre nori, terminând ziua într-o atmosferă caldă la o tavernă centrală.",
+            "en": "Argos in the rain starts at the museum, providing perfect indoor shelter. The ancient sites outdoors require an umbrella as the stones can be slippery. In the afternoon, the misty view from Larissa Castle is mystical, and we finish the day in the comfort of a city center restaurant."
+          },
+          "stops": [
+            {
+              "name": "Archaeological Museum of Argos",
+              "tip_5lang": {
+                "de": "Idealer Zufluchtsort bei starkem Regen.",
+                "hu": "Tökéletes menedék heves esőzés esetén.",
+                "ro": "Refugiu ideal în caz de ploaie torențială.",
+                "en": "Ideal shelter in case of heavy rain."
+              }
+            },
+            {
+              "name": "Ancient Agora",
+              "tip_5lang": {
+                "de": "Vorsicht, die antiken Steine sind bei Nässe sehr glatt.",
+                "hu": "Vigyázat, a sár és a vizes kövek csúszósak.",
+                "ro": "Atenție, pietrele antice sunt foarte alunecoase pe ploaie.",
+                "en": "Careful, the ancient stones are very slippery when wet."
+              }
+            },
+            {
+              "name": "Roman Thermals",
+              "tip_5lang": {
+                "de": "Einige Bereiche sind leicht überdacht.",
+                "hu": "Néhány rész részben fedett, keressen ott menedéket.",
+                "ro": "Unele zone sunt parțial acoperite, căutați adăpost acolo.",
+                "en": "Some areas are partially covered, seek shelter there."
+              }
+            },
+            {
+              "name": "Ancient Theatre of Argos",
+              "tip_5lang": {
+                "de": "Gehen Sie die Stufen langsam hoch, Rutschgefahr.",
+                "hu": "Lassan haladjon a lépcsőkön a csúszásveszély miatt.",
+                "ro": "Urcați treptele încet din cauza riscului de alunecare.",
+                "en": "Move slowly on the steps due to slipping hazards."
+              }
+            },
+            {
+              "name": "Church of Agios Petros",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit für eine trockene Pause.",
+                "hu": "Használja ki az időt egy száraz pihenőre.",
+                "ro": "Folosiți timpul pentru o pauză uscată în interior.",
+                "en": "Use the time for a dry break inside."
+              }
+            },
+            {
+              "name": "Larissa Castle",
+              "tip_5lang": {
+                "de": "Der Weg nach oben kann bei Regen schlammig sein.",
+                "hu": "A felfelé vezető út esőben sáros lehet.",
+                "ro": "Drumul spre vârf poate fi noroios pe ploaie.",
+                "en": "The path to the top can be muddy in the rain."
+              }
+            },
+            {
+              "name": "Dinner in the Center",
+              "tip_5lang": {
+                "de": "Genießen Sie lokale Spezialitäten im Trockenen.",
+                "hu": "Élvezze a helyi specialitásokat a szárazban.",
+                "ro": "Savurați specialități locale la adăpost.",
+                "en": "Enjoy local specialties in the dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Wanderschuhe für die antiken Stätten.",
+              "Das Museum ist der beste Ort, um Schauer abzuwarten.",
+              "Kirchen bieten oft kurzzeitigen Schutz vor Wind und Wetter.",
+              "Vorsicht auf den Marmorstufen des antiken Theaters."
+            ],
+            "hu": [
+              "Viseljen vízálló túracipőt az antik romok látogatásához.",
+              "A múzeum a legjobb hely a nagyobb záporok kivárására.",
+              "A templomok gyakran kínálnak rövid menedéket a szél elől.",
+              "Legyen óvatos a színház márványlépcsőin."
+            ],
+            "ro": [
+              "Purtați încălțăminte de drumeție impermeabilă pentru ruine.",
+              "Muzeul este cel mai bun loc pentru a aștepta trecerea ploii.",
+              "Bisericile oferă adesea un scurt adăpost împotriva vântului.",
+              "Atenție sporită pe treptele de marmură ale teatrului."
+            ],
+            "en": [
+              "Wear waterproof hiking shoes for the ancient ruins.",
+              "The museum is the best place to wait out heavy showers.",
+              "Churches often provide short-term shelter from the wind.",
+              "Be extra careful on the marble steps of the ancient theatre."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Winter in Argos ist mild, aber die Tage sind kurz. Wir besuchen morgens das Museum und die Agora bei kühler, frischer Luft. Der Aufstieg zur Burg Larissa ist bei niedrigeren Temperaturen angenehmer als im Sommer. Wir erreichen den Gipfel vor dem frühen Sonnenuntergang gegen 17:30 Uhr.",
+            "hu": "Az argoszi tél enyhe, de a nappalok rövidek. Reggel a múzeumot és az Agorát látogatjuk meg a friss levegőn. A várba vezető emelkedő ilyenkor sokkal kellemesebb, mint a nyári hőségben. Igyekezzünk a csúcsra az 17:30-as naplemente előtt.",
+            "ro": "Iarna în Argos este blândă, dar zilele sunt scurte. Vizităm muzeul și Agora dimineața, bucurându-ne de aerul curat. Urcarea la castel este mult mai plăcută acum decât în arșița verii. Ajungem în vârf înainte de apusul de la ora 17:30.",
+            "en": "Winter in Argos is mild but days are short. We visit the museum and Agora in the morning, enjoying the crisp air. The climb to the castle is much more pleasant now than in the summer heat. We aim to reach the top before the early sunset at 17:30."
+          },
+          "stops": [
+            {
+              "name": "Archaeological Museum of Argos",
+              "tip_5lang": {
+                "de": "Beheizte Räume machen den Besuch sehr angenehm.",
+                "hu": "A fűtött termek kellemessé teszik a látogatást.",
+                "ro": "Sălile încălzite fac vizita foarte plăcută.",
+                "en": "Heated halls make the visit very pleasant."
+              }
+            },
+            {
+              "name": "Ancient Agora",
+              "tip_5lang": {
+                "de": "Nutzen Sie das klare Winterlicht für Fotos.",
+                "hu": "Használja ki a tiszta téli fényeket a fotózáshoz.",
+                "ro": "Profită de lumina clară de iarnă pentru fotografii.",
+                "en": "Take advantage of the clear winter light for photos."
+              }
+            },
+            {
+              "name": "Roman Thermals",
+              "tip_5lang": {
+                "de": "Der Wind kann hier zwischen den Mauern ziehen.",
+                "hu": "A szél felerősödhet a falak között, öltözzön rétegesen.",
+                "ro": "Vântul se poate intensifica între ziduri, îmbrăcați-vă gros.",
+                "en": "The wind can pick up between the walls, dress in layers."
+              }
+            },
+            {
+              "name": "Ancient Theatre of Argos",
+              "tip_5lang": {
+                "de": "Die Steine speichern keine Wärme, Sitzunterlage empfohlen.",
+                "hu": "A kövek hidegek, vigyen magával ülőpárnát.",
+                "ro": "Pietrele sunt reci, se recomandă un suport pentru șezut.",
+                "en": "The stones are cold, a seating pad is recommended."
+              }
+            },
+            {
+              "name": "Church of Agios Petros",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort für Besinnung im Winter.",
+                "hu": "Csendes hely az elmélyüléshez a téli időszakban.",
+                "ro": "Un loc liniștit pentru reflecție în timpul iernii.",
+                "en": "A quiet place for reflection during the winter."
+              }
+            },
+            {
+              "name": "Larissa Castle",
+              "tip_5lang": {
+                "de": "Achtung, die Sonne geht hier früh unter.",
+                "hu": "Vigyázat, a nap korán nyugszik a vár mögött.",
+                "ro": "Atenție, soarele apune devreme după castel.",
+                "en": "Caution, the sun sets early behind the castle."
+              }
+            },
+            {
+              "name": "Dinner in the Center",
+              "tip_5lang": {
+                "de": "Fragen Sie nach deftigen Wintergerichten.",
+                "hu": "Kóstolja meg a laktató téli ételeket.",
+                "ro": "Încercați mâncărurile consistente de iarnă.",
+                "en": "Try the hearty winter dishes available."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schichten Sie Ihre Kleidung für den windigen Burgaufstieg.",
+              "Die Sonne geht gegen 17:30 Uhr unter, planen Sie entsprechend.",
+              "Viele Cafés haben im Winter gemütliche Innenräume.",
+              "Besuchen Sie Außenstellen lieber in der Mittagsmitte."
+            ],
+            "hu": [
+              "Öltözzön rétegesen a szeles várhegyi túrához.",
+              "A nap 17:30 körül nyugszik, tervezze ehhez a programot.",
+              "Sok kávézó kínál hangulatos belső teret télen.",
+              "A szabadtéri helyszíneket inkább dél körül látogassa."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi pentru urcarea vântoasă la castel.",
+              "Soarele apune în jur de 17:30, planificați corespunzător.",
+              "Multe cafenele au interioare primitoare iarna.",
+              "Vizitați siturile exterioare preferabil în jurul prânzului."
+            ],
+            "en": [
+              "Dress in layers for the windy climb to the castle.",
+              "The sun sets around 17:30, plan your schedule accordingly.",
+              "Many cafes offer cozy indoor spaces in winter.",
+              "Visit outdoor sites preferably around midday for warmth."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -729,6 +929,188 @@
           "The climb to the castle is very steep; be prepared for a strenuous ride or walk.",
           "Argos is very hot in summer, bring plenty of water."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Rad durch Argos bei Regen ist eine Herausforderung, aber machbar. Wir starten bei den Kasernen und flüchten schnell ins Museum. Die Fahrt zur Burg Larissa erfordert gute Bremsen auf dem nassen Asphalt. Nachmittags wärmen wir uns bei einem Kaffee am Agios-Petros-Platz auf.",
+            "hu": "Biciklivel az esős Argoszban kihívás, de lehetséges. A laktanyáktól indulunk, és gyorsan a múzeumba menekülünk. A várba vezető út jó fékeket igényel a vizes aszfalton. Délután egy forró kávéval melegszünk fel az Agiosz Petrosz téren.",
+            "ro": "Cu bicicleta prin Argos pe ploaie este o provocare, dar realizabil. Pornim de la cazărmi și ne adăpostim rapid la muzeu. Drumul spre castel necesită frâne bune pe asfaltul ud. După-amiaza ne încălzim cu o cafea în Piața Agios Petros.",
+            "en": "Cycling through Argos in the rain is a challenge but doable. We start at the barracks and quickly head to the museum for cover. The ride to the castle requires good brakes on wet asphalt. In the afternoon, we warm up with coffee at Agios Petros Square."
+          },
+          "stops": [
+            {
+              "name": "Kapodistrias Barracks",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter den Arkaden unter.",
+                "hu": "Állítsa le a biciklit az árkádok alá az eső elől.",
+                "ro": "Parcați bicicleta sub arcade pentru a o feri de ploaie.",
+                "en": "Park your bike under the arches to keep it dry."
+              }
+            },
+            {
+              "name": "Archaeological Museum of Argos",
+              "tip_5lang": {
+                "de": "Sicheres Abstellen der Räder am Eingang möglich.",
+                "hu": "A kerékpárok biztonságosan lezárhatók a bejáratnál.",
+                "ro": "Parcare sigură pentru biciclete la intrare.",
+                "en": "Secure bike parking available at the entrance."
+              }
+            },
+            {
+              "name": "Ancient Agora & Roman Thermals",
+              "tip_5lang": {
+                "de": "Vorsicht vor tiefen Pfützen auf den Wegen.",
+                "hu": "Vigyázzon a mély tócsákra az utakon.",
+                "ro": "Atenție la bălțile adânci de pe traseu.",
+                "en": "Watch out for deep puddles on the paths."
+              }
+            },
+            {
+              "name": "Ancient Theatre of Argos",
+              "tip_5lang": {
+                "de": "Schließen Sie das Rad unten an, bevor Sie hochgehen.",
+                "hu": "Zárja le a biciklit lent, mielőtt felgyalogolna.",
+                "ro": "Încuiați bicicleta jos înainte de a urca pe jos.",
+                "en": "Lock your bike at the bottom before walking up."
+              }
+            },
+            {
+              "name": "Trip to Larissa Castle",
+              "tip_5lang": {
+                "de": "Steile Abfahrt bei Nässe nur für erfahrene Fahrer.",
+                "hu": "A meredek lejtő esőben csak tapasztaltaknak ajánlott.",
+                "ro": "Coborâre abruptă pe ud doar pentru cicliști experimentați.",
+                "en": "Steep descent in the wet only for experienced riders."
+              }
+            },
+            {
+              "name": "Relaxation at Agios Petros Square",
+              "tip_5lang": {
+                "de": "Viele Cafés haben Schirmständer für Radler.",
+                "hu": "Sok kávézóban van esernyőtartó és hely a vizes ruháknak.",
+                "ro": "Multe cafenele au suporturi pentru umbrele.",
+                "en": "Many cafes have umbrella stands for cyclists."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Verwenden Sie Schutzbleche, um Spritzwasser zu vermeiden.",
+              "Bremsen Sie auf nassem Asphalt früher als gewohnt.",
+              "Vermeiden Sie Fahrten über glatte Marmorplatten.",
+              "Wasserdichte Packtaschen halten Ihre Ausrüstung trocken."
+            ],
+            "hu": [
+              "Használjon sárvédőt a felcsapódó víz ellen.",
+              "Vizes aszfalton a szokásosnál korábban kezdjen fékezni.",
+              "Kerülje a sima márványlapokon való áthajtást.",
+              "A vízálló táskák szárazon tartják a felszerelését."
+            ],
+            "ro": [
+              "Folosiți apărători pentru a evita stropirea.",
+              "Frânați mai devreme decât de obicei pe asfalt ud.",
+              "Evitați deplasarea pe plăcile de marmură netede.",
+              "Geantele impermeabile vă vor păstra echipamentul uscat."
+            ],
+            "en": [
+              "Use mudguards to avoid water spray.",
+              "Start braking earlier than usual on wet asphalt.",
+              "Avoid riding over smooth marble slabs.",
+              "Waterproof panniers will keep your gear dry."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintertour per Rad ist ideal, um Argos schnell zu erkunden. Morgens ist es frisch, perfekt für die Fahrt zu den Kasernen. Der Anstieg zur Burg ist anstrengend, aber die kühle Brise verhindert Überhitzung. Wir beenden die Tour bei Sonnenuntergang und genießen die warme Atmosphäre am Hauptplatz.",
+            "hu": "A téli kerékpáros túra ideális Argosz gyors felfedezéséhez. A reggeli hűvös idő tökéletes a laktanyákhoz való tekeréshez. A várba vezető emelkedő izzasztó, de a friss szél segít a lehűlésben. A túrát naplementekor fejezzük be a főtéren.",
+            "ro": "Turul cu bicicleta iarna este ideal pentru a explora rapid Argosul. Dimineața e răcoare, perfect pentru drumul spre cazărmi. Urcarea la castel e solicitantă, dar briza rece previne supraîncălzirea. Încheiem turul la apus în piața centrală.",
+            "en": "A winter bike tour is ideal for exploring Argos quickly. The morning chill is perfect for the ride to the barracks. The climb to the castle is strenuous, but the cool breeze prevents overheating. We finish the tour at sunset in the main square."
+          },
+          "stops": [
+            {
+              "name": "Kapodistrias Barracks",
+              "tip_5lang": {
+                "de": "Tragen Sie Handschuhe für die kalte Morgenfahrt.",
+                "hu": "Viseljen kesztyűt a hideg reggeli tekeréshez.",
+                "ro": "Purtați mănuși pentru plimbarea rece de dimineață.",
+                "en": "Wear gloves for the cold morning ride."
+              }
+            },
+            {
+              "name": "Archaeological Museum of Argos",
+              "tip_5lang": {
+                "de": "Ein guter Stopp, um die Hände aufzuwärmen.",
+                "hu": "Jó megálló a kezek felmelegítéséhez.",
+                "ro": "O oprire bună pentru a vă încălzi mâinile.",
+                "en": "A good stop to warm up your hands."
+              }
+            },
+            {
+              "name": "Ancient Agora & Roman Thermals",
+              "tip_5lang": {
+                "de": "Das Gelände ist weitläufig, Radfahren verboten.",
+                "hu": "A terület tágas, a kerékpározás bent tilos.",
+                "ro": "Zona este vastă, ciclismul este interzis în interior.",
+                "en": "The area is vast, cycling is forbidden inside."
+              }
+            },
+            {
+              "name": "Ancient Theatre of Argos",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad sicher im Schatten ab.",
+                "hu": "Állítsa le a biciklit biztonságos helyre.",
+                "ro": "Parcați bicicleta într-un loc sigur.",
+                "en": "Park your bike in a safe spot."
+              }
+            },
+            {
+              "name": "Trip to Larissa Castle",
+              "tip_5lang": {
+                "de": "Unterschätzen Sie nicht den Wind am Gipfel.",
+                "hu": "Ne becsülje alá a szelet a vár tetején.",
+                "ro": "Nu subestimați vântul din vârful castelului.",
+                "en": "Do not underestimate the wind at the top."
+              }
+            },
+            {
+              "name": "Relaxation at Agios Petros Square",
+              "tip_5lang": {
+                "de": "Heiße Schokolade ist hier im Winter ein Muss.",
+                "hu": "A forró csokoládé télen kötelező itt.",
+                "ro": "Ciocolata caldă este obligatorie aici iarna.",
+                "en": "Hot chocolate is a must here in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Mittagssonne für den Burgaufstieg.",
+              "Tragen Sie winddichte Kleidung.",
+              "Prüfen Sie den Reifendruck bei niedrigen Temperaturen.",
+              "Die Dämmerung setzt im Winter bereits früh ein."
+            ],
+            "hu": [
+              "A déli napsütést használja ki a várba való feljutáshoz.",
+              "Viseljen szélálló ruházatot.",
+              "Ellenőrizze a guminyomást a hidegben.",
+              "A szürkület télen már korán beköszönt."
+            ],
+            "ro": [
+              "Profită de soarele de la prânz pentru urcarea la castel.",
+              "Purtați îmbrăcăminte rezistentă la vânt.",
+              "Verificați presiunea pneurilor la temperaturi scăzute.",
+              "Amurgul se instalează deja devreme iarna."
+            ],
+            "en": [
+              "Take advantage of the midday sun for the castle climb.",
+              "Wear windproof clothing.",
+              "Check tire pressure in low temperatures.",
+              "Dusk sets in early during the winter months."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1108,6 +1490,206 @@
           "A car allows you to visit more remote but equally important sites.",
           "Check the opening hours for the Heraion as they can be seasonal."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Argos mit dem Auto ist bei Regen die komfortabelste Wahl. Wir pendeln zwischen Museum und Heraion, ohne nass zu werden. Das Mittagessen mit Aussicht bietet Schutz vor dem Wetter, während wir das Heraion am Nachmittag bei abziehenden Wolken besuchen. Ein entspannter Tag trotz Regen.",
+            "hu": "Autóval az esős Argosz a legkényelmesebb választás. A múzeum és a Heraion között ingázunk anélkül, hogy eláznánk. Az ebédet fedett helyen, kilátással élvezzük, délután pedig a felhők közül felbukkanó Heraiont látogatjuk meg. Nyugodt nap az eső ellenére is.",
+            "ro": "Argos cu mașina este cea mai confortabilă alegere pe ploaie. Navetăm între muzeu și Heraion fără a ne uda. Prânzul cu vedere oferă protecție, în timp ce vizităm Heraionul după-amiaza printre nori. O zi relaxată în ciuda ploii.",
+            "en": "Argos by car is the most comfortable choice in the rain. We commute between the museum and the Heraion without getting wet. Lunch with a view provides shelter, while we visit the Heraion in the afternoon as clouds disperse. A relaxed day despite the rain."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Archaeological Museum of Argos",
+              "tip_5lang": {
+                "de": "Naher Parkplatz für schnellen Zugang im Regen.",
+                "hu": "Közeli parkoló a gyors bejutáshoz esőben.",
+                "ro": "Parcare apropiată pentru acces rapid pe ploaie.",
+                "en": "Nearby parking for quick access in the rain."
+              }
+            },
+            {
+              "name": "Ancient Agora & Roman Thermals",
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starken Güssen kurz im Auto.",
+                "hu": "Nagyobb felhőszakadáskor várjon kicsit az autóban.",
+                "ro": "Așteptați puțin în mașină în caz de averse mari.",
+                "en": "Wait in the car for a bit during heavy downpours."
+              }
+            },
+            {
+              "name": "Cluster 2: Ancient Theatre of Argos",
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Eingang des Theaters.",
+                "hu": "Parkoljon közvetlenül a színház bejáratánál.",
+                "ro": "Parcați chiar la intrarea teatrului.",
+                "en": "Park right at the entrance of the theatre."
+              }
+            },
+            {
+              "name": "Larissa Castle",
+              "tip_5lang": {
+                "de": "Die Straße nach oben ist kurvig und rutschig.",
+                "hu": "A felfelé vezető út kanyargós és csúszós lehet.",
+                "ro": "Drumul spre vârf este sinuos și alunecos.",
+                "en": "The road to the top is winding and slippery."
+              }
+            },
+            {
+              "name": "Lunch with a View",
+              "tip_5lang": {
+                "de": "Fensterplätze sind bei Regen sehr begehrt.",
+                "hu": "Az ablak melletti asztalok esőben nagyon népszerűek.",
+                "ro": "Mesele de la fereastră sunt foarte căutate pe ploaie.",
+                "en": "Window seats are very popular when it rains."
+              }
+            },
+            {
+              "name": "Cluster 3: Heraion of Argos",
+              "tip_5lang": {
+                "de": "Heraion ist exponiert, Regenschutz einpacken.",
+                "hu": "A Heraion nyitott terület, vigyen esernyőt.",
+                "ro": "Heraion este expus, luați protecție de ploaie.",
+                "en": "Heraion is exposed, bring rain protection."
+              }
+            },
+            {
+              "name": "Return to Center",
+              "tip_5lang": {
+                "de": "Zentrale Parkhäuser nutzen, um trocken zu bleiben.",
+                "hu": "Használja a központi parkolókat a szárazon maradáshoz.",
+                "ro": "Folosiți parcări centrale pentru a rămâne uscați.",
+                "en": "Use central parking garages to stay dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie das Parken in tiefgelegenen, flutgefährdeten Zonen.",
+              "Die Sicht kann auf der Bergstraße zur Burg eingeschränkt sein.",
+              "Nutzen Sie die Klimaanlage gegen beschlagene Scheiben.",
+              "Das Heraion liegt etwa 15 Min. Fahrt außerhalb."
+            ],
+            "hu": [
+              "Kerülje a mélyebben fekvő parkolóhelyeket az áradásveszély miatt.",
+              "A kilátás korlátozott lehet a vár felé vezető úton.",
+              "Használja a légkondicionálót a szélvédő párátlanítására.",
+              "A Heraion kb. 15 perc autóútra van a városon kívül."
+            ],
+            "ro": [
+              "Evitați parcarea în zone joase predispuse la inundații.",
+              "Vizibilitatea poate fi redusă pe drumul spre castel.",
+              "Folosiți aerul condiționat pentru dezaburirea parbrizului.",
+              "Heraion se află la aproximativ 15 minute de mers cu mașina."
+            ],
+            "en": [
+              "Avoid parking in low-lying areas prone to flooding.",
+              "Visibility might be reduced on the road to the castle.",
+              "Use the air conditioning to defog the windows.",
+              "The Heraion is about a 15-minute drive outside the city."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter ermöglicht das Auto eine stressfreie Tour zu allen Highlights. Morgens besuchen wir das Museum, danach geht es zur Burg Larissa, wo die kühle Luft die Aussicht klärt. Das Heraion am Nachmittag ist im Winterlicht besonders fotogen, bevor wir für ein warmes Abendessen ins Zentrum zurückkehren.",
+            "hu": "Télen az autó stresszmentes túrát tesz lehetővé az összes látnivalóhoz. Reggel a múzeumot nézzük meg, majd a Larissa-vár következik, ahol a hűvös levegő kitisztítja a kilátást. A Heraion a téli fényekben különösen fotogén, mielőtt visszatérnénk a városba.",
+            "ro": "Iarna, mașina permite un tur fără stres al tuturor punctelor de atracție. Dimineața vizităm muzeul, apoi mergem la Castelul Larissa. Heraionul este deosebit de fotogenic în lumina iernii, înainte de a ne întoarce în centru pentru cină.",
+            "en": "In winter, the car allows for a stress-free tour of all the highlights. In the morning, we visit the museum, then head to Larissa Castle where the crisp air clears the view. The Heraion is especially photogenic in winter light before we return for dinner."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Archaeological Museum of Argos",
+              "tip_5lang": {
+                "de": "Kurze Wege vom Auto zum warmen Museum.",
+                "hu": "Rövid séta az autótól a fűtött múzeumig.",
+                "ro": "Drum scurt de la mașină la muzeul încălzit.",
+                "en": "Short walk from the car to the warm museum."
+              }
+            },
+            {
+              "name": "Ancient Agora & Roman Thermals",
+              "tip_5lang": {
+                "de": "Warme Kleidung für den Rundgang nötig.",
+                "hu": "Meleg ruházat szükséges a szabadtéri sétához.",
+                "ro": "Îmbrăcăminte groasă necesară pentru plimbare.",
+                "en": "Warm clothing needed for the outdoor walk."
+              }
+            },
+            {
+              "name": "Cluster 2: Ancient Theatre of Argos",
+              "tip_5lang": {
+                "de": "Sonnige Abschnitte am Vormittag nutzen.",
+                "hu": "Használja ki a délelőtti napos időszakokat.",
+                "ro": "Profită de secțiunile însorite de dimineață.",
+                "en": "Take advantage of sunny periods in the morning."
+              }
+            },
+            {
+              "name": "Larissa Castle",
+              "tip_5lang": {
+                "de": "Oben ist es deutlich kühler und windiger.",
+                "hu": "A várban jóval hűvösebb és szelesebb az idő.",
+                "ro": "La castel este mult mai răcoare și bate vântul.",
+                "en": "It is significantly cooler and windier at the castle."
+              }
+            },
+            {
+              "name": "Lunch with a View",
+              "tip_5lang": {
+                "de": "Im Winter gibt es oft schneller freie Tische.",
+                "hu": "Télen gyakran könnyebb szabad asztalt találni.",
+                "ro": "Iarna este adesea mai ușor să găsești o masă liberă.",
+                "en": "It is often easier to find a free table in winter."
+              }
+            },
+            {
+              "name": "Cluster 3: Heraion of Argos",
+              "tip_5lang": {
+                "de": "Besuch vor 16:00 Uhr wegen Schließzeiten.",
+                "hu": "Látogassa meg 16:00 előtt a téli nyitvatartás miatt.",
+                "ro": "Vizitați înainte de 16:00 din cauza programului de iarnă.",
+                "en": "Visit before 16:00 due to winter closing hours."
+              }
+            },
+            {
+              "name": "Return to Center",
+              "tip_5lang": {
+                "de": "Zentrum ist am frühen Abend belebt.",
+                "hu": "A belváros kora este is életteli.",
+                "ro": "Centrul este animat devreme în seară.",
+                "en": "The center is lively in the early evening."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie die Winter-Öffnungszeiten der Ausgrabungen.",
+              "Die Bergstraße kann bei Reif glatt sein.",
+              "Nehmen Sie eine Decke für Pausen im Freien mit.",
+              "Das Heraion schließt im Winter oft früher."
+            ],
+            "hu": [
+              "Ellenőrizze az ásatások téli nyitvatartását.",
+              "A várút zúzmarás időben csúszós lehet.",
+              "Vigyen takarót a szabadtéri pihenőkhöz.",
+              "A Heraion télen gyakran korábban bezár."
+            ],
+            "ro": [
+              "Verificați programul de iarnă al siturilor arheologice.",
+              "Drumul spre castel poate fi alunecos în caz de brumă.",
+              "Luați o pătură pentru pauzele în aer liber.",
+              "Heraion se închide adesea mai devreme iarna."
+            ],
+            "en": [
+              "Check winter opening hours for archaeological sites.",
+              "The mountain road can be slippery with frost.",
+              "Take a blanket for breaks outdoors.",
+              "The Heraion often closes earlier in the winter."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1465,6 +2047,188 @@
           "Some parts of the tour, especially the castle climb, must be done on foot.",
           "Buy tickets at kiosks (periptera) or from the driver directly."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus durch das regnerische Argos zu navigieren, erfordert etwas Planung. Wir nutzen das Museum und die Kasernen als trockene Ankerpunkte. Der Weg zur Burg Larissa ist bei Regen mühsam, daher verbringen wir mehr Zeit in der Agora. Abends bringt uns der Bus zurück ins gemütliche Zentrum.",
+            "hu": "A buszos közlekedés az esős Argoszban némi tervezést igényel. A múzeumot és a laktanyákat használjuk száraz bázisnak. A várba való feljutás esőben nehézkes, így több időt töltünk az Agoránál. Este a busz visszavisz minket a barátságos belvárosba.",
+            "ro": "Navigarea cu autobuzul prin Argos pe ploaie necesită planificare. Folosim muzeul și cazărmile ca puncte de ancorare uscate. Drumul spre castel este anevoios pe ploaie, așa că stăm mai mult la Agora. Seara, autobuzul ne duce înapoi în centrul primitor.",
+            "en": "Navigating rainy Argos by bus requires some planning. We use the museum and barracks as dry anchor points. The climb to the castle is difficult in the rain, so we spend more time at the Agora. In the evening, the bus takes us back to the cozy city center."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Arrival at the Main Square",
+              "tip_5lang": {
+                "de": "Überdachte Bushaltestellen im Zentrum suchen.",
+                "hu": "Keressen fedett buszmegállókat a központban.",
+                "ro": "Căutați stații de autobuz acoperite în centru.",
+                "en": "Look for covered bus stops in the center."
+              }
+            },
+            {
+              "name": "Archaeological Museum of Argos",
+              "tip_5lang": {
+                "de": "Der Bus hält nur wenige Gehminuten entfernt.",
+                "hu": "A busz csak pár perc sétára áll meg.",
+                "ro": "Autobuzul oprește la doar câteva minute de mers pe jos.",
+                "en": "The bus stops just a few minutes' walk away."
+              }
+            },
+            {
+              "name": "Kapodistrias Barracks",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Gebäudefronten als Schutz.",
+                "hu": "Használja az épület homlokzatát eső elleni védelemnek.",
+                "ro": "Folosiți fațadele clădirilor pentru protecție.",
+                "en": "Use the building facades for protection from rain."
+              }
+            },
+            {
+              "name": "Cluster 2: Ancient Agora",
+              "tip_5lang": {
+                "de": "Vom Bus zur Agora ist der Weg bei Regen nass.",
+                "hu": "A busztól az Agoráig vezető út vizes lehet.",
+                "ro": "Drumul de la autobuz la Agora este ud pe ploaie.",
+                "en": "The path from the bus to the Agora is wet in the rain."
+              }
+            },
+            {
+              "name": "Ancient Theatre & Roman Thermals",
+              "tip_5lang": {
+                "de": "Warten Sie unter den Bäumen auf den Bus.",
+                "hu": "Várja a buszt a fák védelmében.",
+                "ro": "Așteptați autobuzul sub protecția copacilor.",
+                "en": "Wait for the bus under the shelter of trees."
+              }
+            },
+            {
+              "name": "Walk to Larissa Castle",
+              "tip_5lang": {
+                "de": "Langer Fußmarsch bei Regen sehr anstrengend.",
+                "hu": "A hosszú gyaloglás esőben nagyon fárasztó lehet.",
+                "ro": "Plimbarea lungă pe ploaie este foarte obositoare.",
+                "en": "The long walk in the rain is very tiring."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Busplan vorab, um Wartezeiten im Regen zu vermeiden.",
+              "Halten Sie Kleingeld für das Busticket bereit.",
+              "Die Busse verkehren im Winter seltener.",
+              "Wasserdichte Kleidung ist für die Umstiege wichtig."
+            ],
+            "hu": [
+              "Ellenőrizze a buszmenetrendet, hogy ne várjon sokat az esőben.",
+              "Legyen Önnél aprópénz a buszjegyhez.",
+              "A buszok télen ritkábban közlekedhetnek.",
+              "Vízálló ruházat fontos az átszállásoknál."
+            ],
+            "ro": [
+              "Verificați programul autobuzelor pentru a nu aștepta în ploaie.",
+              "Pregătiți mărunțiș pentru biletul de autobuz.",
+              "Autobuzele circulă mai rar pe timp de iarnă.",
+              "Îmbrăcămintea impermeabilă este importantă pentru transferuri."
+            ],
+            "en": [
+              "Check the bus schedule to avoid waiting in the rain.",
+              "Have small change ready for the bus ticket.",
+              "Buses may run less frequently in the winter.",
+              "Waterproof clothing is essential for transfers."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintertour mit öffentlichen Verkehrsmitteln führt uns effizient durch Argos. Wir starten am Hauptplatz und besuchen die kulturellen Highlights. Der Aufstieg zur Burg ist sportlich, aber die kühle Luft ist ideal für die Anstrengung. Den Rückweg planen wir passend zum frühen Sonnenuntergang ein.",
+            "hu": "A téli túra tömegközlekedéssel hatékonyan vezet végig Argoszon. A főtérről indulva látogatjuk meg a kulturális helyszíneket. A várba való feljutás sportos feladat, de a hűvös levegő ideális a mozgáshoz. A visszautat a korai naplementéhez igazítjuk.",
+            "ro": "Turul de iarnă cu transportul public ne poartă eficient prin Argos. Pornim din piața centrală și vizităm punctele culturale. Urcarea la castel este o activitate sportivă, iar aerul rece este ideal. Planificăm întoarcerea înainte de apus.",
+            "en": "A winter tour by public transport takes us efficiently through Argos. Starting from the main square, we visit the cultural highlights. The climb to the castle is a workout, but the cool air is ideal for the effort. We plan the return trip to coincide with the early sunset."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Arrival at the Main Square",
+              "tip_5lang": {
+                "de": "Zentraler Knotenpunkt für alle Busverbindungen.",
+                "hu": "Központi csomópont minden buszjárat számára.",
+                "ro": "Nod central pentru toate conexiunile de autobuz.",
+                "en": "Central hub for all bus connections."
+              }
+            },
+            {
+              "name": "Archaeological Museum of Argos",
+              "tip_5lang": {
+                "de": "Museumsbesuch bietet gute Aufwärmpause.",
+                "hu": "A múzeumlátogatás jó alkalom a felmelegedésre.",
+                "ro": "Vizita la muzeu oferă o bună pauză de încălzire.",
+                "en": "The museum visit provides a good warming break."
+              }
+            },
+            {
+              "name": "Kapodistrias Barracks",
+              "tip_5lang": {
+                "de": "Die Anlage ist im Winter oft weniger besucht.",
+                "hu": "A helyszín télen gyakran kevésbé zsúfolt.",
+                "ro": "Locația este adesea mai puțin vizitată iarna.",
+                "en": "The site is often less crowded in the winter."
+              }
+            },
+            {
+              "name": "Cluster 2: Ancient Agora",
+              "tip_5lang": {
+                "de": "Vom Bus zur Agora ist es ein kurzer, frischer Walk.",
+                "hu": "A busztól az Agoráig rövid, frissítő séta vezet.",
+                "ro": "De la autobuz la Agora este o plimbare scurtă și revigorantă.",
+                "en": "From the bus to the Agora is a short, crisp walk."
+              }
+            },
+            {
+              "name": "Ancient Theatre & Roman Thermals",
+              "tip_5lang": {
+                "de": "Warme Kleidung für das Warten auf den Bus.",
+                "hu": "Meleg ruházat ajánlott a buszra való várakozáshoz.",
+                "ro": "Îmbrăcăminte groasă recomandată pentru așteptarea autobuzului.",
+                "en": "Warm clothing recommended for waiting for the bus."
+              }
+            },
+            {
+              "name": "Walk to Larissa Castle",
+              "tip_5lang": {
+                "de": "Planen Sie den Abstieg vor Einbruch der Dunkelheit.",
+                "hu": "Tervezze meg a lejövetelt sötétedés előtt.",
+                "ro": "Planificați coborârea înainte de lăsarea întunericului.",
+                "en": "Plan your descent before it gets dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie lokale Apps für Echtzeit-Buszeiten.",
+              "Tragen Sie feste Schuhe für den Weg zur Burg.",
+              "Abends kann es an den Haltestellen zugig sein.",
+              "Verlassen Sie die Burg spätestens um 16:30 Uhr."
+            ],
+            "hu": [
+              "Használjon helyi appokat a valós idejű buszmenetrendhez.",
+              "Viseljen stabil cipőt a várhoz vezető úton.",
+              "Este a buszmegállókban huzatos lehet az idő.",
+              "Legkésőbb 16:30-kor induljon el a várból lefelé."
+            ],
+            "ro": [
+              "Folosiți aplicații locale pentru orele autobuzelor în timp real.",
+              "Purtați încălțăminte stabilă pentru drumul spre castel.",
+              "Seara poate fi curent în stațiile de autobuz.",
+              "Părăsiți castelul cel târziu la ora 16:30."
+            ],
+            "en": [
+              "Use local apps for real-time bus tracking.",
+              "Wear sturdy shoes for the path to the castle.",
+              "It can be drafty at the bus stops in the evening.",
+              "Leave the castle by 16:30 at the latest."
+            ]
+          }
+        }
       }
     }
   }

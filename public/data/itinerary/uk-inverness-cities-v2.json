@@ -378,6 +378,188 @@
           "Book restaurants in advance, especially on weekends.",
           "Look out for dolphins in the Moray Firth if you're near the harbour."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens schützt die Burgruine nur bedingt, aber das Museum ist der perfekte trockene Zufluchtsort. Mittags bietet der Victorian Market ein trockenes Dach für den Imbiss. Nachmittags besuchen Sie die Kathedrale und wagen bei Regenpausen einen kurzen Abstecher zu den Ness Islands. Abends glänzt der Asphalt am Flussufer im Schein der Straßenlaternen.",
+            "hu": "Reggel a vár dombjáról gyorsan húzódjon be a múzeumba az eső elől. Délben a Victorian Market fedett passzázsa nyújt menedéket a sétálóknak. Délután a katedrális békéje után az esőben is hangulatos Ness-szigeteket érdemes megnézni, ha van vízálló cipője. Este a folyóparti lámpák fénye tükröződik a vizes kövezeten.",
+            "ro": "Dimineața, refugiul perfect împotriva ploii este muzeul de lângă castel. La prânz, Victorian Market oferă adăpost sub acoperișul său istoric. După-amiaza, vizitați catedrala și profitați de pauzele de ploaie pentru o plimbare pe insulele râului Ness. Seara, malurile râului capătă un farmec aparte sub umbrelă.",
+            "en": "In the morning, find shelter in the museum after a quick look at the castle. At noon, the Victorian Market is the ideal dry spot for a break. In the afternoon, explore the cathedral and the Ness Islands, which remain atmospheric even in the mist. By evening, the city lights reflect beautifully on the damp River Ness walkways."
+          },
+          "stops": [
+            {
+              "name": "Inverness Castle",
+              "tip_5lang": {
+                "de": "Schneller Fotostopp, dann ins nahegelegene Museum flüchten.",
+                "hu": "Gyors fotó a dombon, aztán irány a közeli múzeum száraz belső tere.",
+                "ro": "Oprire rapidă pentru fotografii, apoi refugiați-vă în muzeul apropiat.",
+                "en": "Quick photo stop, then head to the nearby museum's dry interior."
+              }
+            },
+            {
+              "name": "Inverness Museum and Art Gallery",
+              "tip_5lang": {
+                "de": "Idealer Ort, um einen starken Regenschauer trocken zu überstehen.",
+                "hu": "Tökéletes helyszín egy nagyobb zápor száraz átvészeléséhez.",
+                "ro": "Locul ideal pentru a aștepta trecerea unei averse puternice.",
+                "en": "The perfect place to wait out a heavy downpour in comfort."
+              }
+            },
+            {
+              "name": "Victorian Market",
+              "tip_5lang": {
+                "de": "Vollständig überdacht; ideal zum Bummeln ohne Regenschirm.",
+                "hu": "Teljesen fedett vásárcsarnok; ernyő nélkül is kényelmesen nézelődhet.",
+                "ro": "Piață complet acoperită; ideală pentru plimbări fără umbrelă.",
+                "en": "Fully covered historic market; ideal for browsing without an umbrella."
+              }
+            },
+            {
+              "name": "Inverness Cathedral",
+              "tip_5lang": {
+                "de": "Die dicken Mauern bieten Schutz; bewundern Sie die Holzschnitzereien.",
+                "hu": "A vastag falak menedéket nyújtanak; nézze meg a fafaragásokat.",
+                "ro": "Zidurile groase oferă protecție; admirați sculpturile în lemn.",
+                "en": "Solid stone walls provide shelter; admire the intricate woodwork inside."
+              }
+            },
+            {
+              "name": "Ness Islands",
+              "tip_5lang": {
+                "de": "Die Bäume bieten etwas Schutz, aber die Wege können matschig sein.",
+                "hu": "A fák adnak némi takarást, de az ösvények sárosak lehetnek.",
+                "ro": "Copacii oferă puțină protecție, dar potecile pot fi noroioase.",
+                "en": "Trees provide some canopy, but paths can be muddy after rain."
+              }
+            },
+            {
+              "name": "River Ness Walk",
+              "tip_5lang": {
+                "de": "Vorsicht auf den glatten Gehwegen direkt am Wasser.",
+                "hu": "Vigyázzon a csúszós burkolatra közvetlenül a vízpart mentén.",
+                "ro": "Atenție la pavajul alunecos direct de pe malul apei.",
+                "en": "Be careful of slippery surfaces on the walkways right by the water."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie Baumwollkleidung, nutzen Sie Gore-Tex.",
+              "Der Victorian Market ist der beste Ort für eine trockene Kaffeepause.",
+              "Die Ness-Inseln können bei starkem Regen überschwemmungsgefährdet sein.",
+              "Inverness hat oft 'Misty Rain', ein feiner Nebelregen, der alles durchnässt."
+            ],
+            "hu": [
+              "Kerülje a pamutot, használjon vízlepergető réteget.",
+              "A Victorian Market a legjobb hely egy száraz kávészünetre.",
+              "A Ness-szigetek hídjai csúszósak lehetnek az esőben.",
+              "Invernessben gyakori a szitáló ködös eső, ami alattomosan áztat."
+            ],
+            "ro": [
+              "Evitați bumbacul, folosiți haine impermeabile.",
+              "Victorian Market este cel mai bun loc pentru o pauză de cafea uscată.",
+              "Podurile de pe insulele Ness pot fi alunecoase pe ploaie.",
+              "Inverness are adesea o ploaie fină care pătrunde peste tot."
+            ],
+            "en": [
+              "Avoid cotton, use waterproof outer layers.",
+              "Victorian Market is the best spot for a dry coffee break.",
+              "The bridges at Ness Islands can be slippery when wet.",
+              "Inverness often has 'Scotch mist' that soaks through quickly."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens weht ein eisiger Wind vom Moray Firth, wärmen Sie sich im Museum auf. Mittags ist der Victorian Market eine gemütliche, windgeschützte Station. Nachmittags sinkt die Sonne früh; das Licht in der Kathedrale ist dann besonders golden. Abends sind die Ness Islands oft frostig, aber die beleuchteten Brücken wirken wie im Märchen.",
+            "hu": "Reggel jeges szél fújhat a tenger felől, kezdje a napot a fűtött múzeumban. Délben a Victorian Market barátságos, szélvédett menedék. Délután a nap korán, 16:00 körül nyugszik, ekkor a legszebbek a katedrális fényei. Este a Ness-szigetek zúzmarásak lehetnek, de a kivilágított hidak mesések.",
+            "ro": "Dimineața, vântul înghețat bate dinspre mare, deci încălziți-vă în muzeu. La prânz, Victorian Market este o oprire primitoare și ferită de vânt. După-amiaza, soarele apune devreme, oferind o lumină aurie catedralei. Seara, insulele Ness sunt adesea acoperite de chiciură, dar podurile luminate sunt magice.",
+            "en": "Morning brings a biting wind from the Firth; warm up in the museum first. At noon, the Victorian Market offers a cozy escape from the chill. In the afternoon, enjoy the early golden hour at the cathedral before the 4 PM sunset. By evening, the Ness Islands may be frosty, but the lit bridges look enchanting."
+          },
+          "stops": [
+            {
+              "name": "Inverness Castle",
+              "tip_5lang": {
+                "de": "Kurzer Aufenthalt wegen starkem Wind auf dem Burghügel.",
+                "hu": "Csak rövid megálló a várdombon a metsző szél miatt.",
+                "ro": "Oprire scurtă din cauza vântului tăios de pe dealul castelului.",
+                "en": "Keep it brief due to the biting wind on the castle hill."
+              }
+            },
+            {
+              "name": "Inverness Museum and Art Gallery",
+              "tip_5lang": {
+                "de": "Perfekt zum Aufwärmen zwischen den Außenstationen.",
+                "hu": "Tökéletes hely a felmelegedésre a kinti megállók között.",
+                "ro": "Perfect pentru încălzire între opririle exterioare.",
+                "en": "The perfect place to warm up between outdoor stops."
+              }
+            },
+            {
+              "name": "Victorian Market",
+              "tip_5lang": {
+                "de": "Holen Sie sich hier einen heißen Kakao zum Mitnehmen.",
+                "hu": "Igyon itt egy forró kakaót vagy teát az út folytatásához.",
+                "ro": "Luați de aici o ciocolată caldă pentru a vă încălzi.",
+                "en": "Grab a hot chocolate or tea here to keep you warm."
+              }
+            },
+            {
+              "name": "Inverness Cathedral",
+              "tip_5lang": {
+                "de": "Besuchen Sie sie vor 15:30 Uhr für das beste Winterlicht.",
+                "hu": "Látogasson el 15:30 előtt a legszebb téli fényekért.",
+                "ro": "Vizitați-o înainte de 15:30 pentru cea mai bună lumină de iarnă.",
+                "en": "Visit before 3:30 PM to catch the best winter afternoon light."
+              }
+            },
+            {
+              "name": "Ness Islands",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stellen auf den Hängebrücken.",
+                "hu": "Ügyeljen a jeges foltokra a függőhidakon.",
+                "ro": "Atenție la porțiunile înghețate de pe podurile suspendate.",
+                "en": "Watch out for icy patches on the suspension bridges."
+              }
+            },
+            {
+              "name": "River Ness Walk",
+              "tip_5lang": {
+                "de": "Genießen Sie die winterliche Beleuchtung nach Sonnenuntergang.",
+                "hu": "Élvezze a városi fényeket a korai naplemente után.",
+                "ro": "Admirați luminile orașului după apusul devreme al soarelui.",
+                "en": "Enjoy the city lights after the early winter sunset."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Sonnenuntergang ist im Dezember bereits gegen 15:45 Uhr.",
+              "Tragen Sie Thermounterwäsche, der Wind vom Wasser ist tückisch.",
+              "Das Museum schließt im Winter oft etwas früher.",
+              "Viele Cafés schließen bereits um 17:00 Uhr."
+            ],
+            "hu": [
+              "A nap már 15:45 körül lemegy decemberben.",
+              "Viseljen hőtartó aláöltözetet a folyóparti szél miatt.",
+              "A múzeum télen gyakran korábban zár.",
+              "Sok kávézó már délután 5-kor bezár a téli szezonban."
+            ],
+            "ro": [
+              "Apusul soarelui este în jurul orei 15:45 în decembrie.",
+              "Purtați haine termice, vântul de pe apă este trădător.",
+              "Muzeul se închide adesea mai devreme în timpul iernii.",
+              "Multe cafenele se închid deja la ora 17:00."
+            ],
+            "en": [
+              "Sunset is as early as 3:45 PM in December.",
+              "Wear thermal layers; the wind off the river is sharp.",
+              "The museum may have shorter opening hours in winter.",
+              "Many local cafes close early, around 5 PM, in winter."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -698,6 +880,188 @@
           "Always lock your bike securely.",
           "Make use of the cycle paths along the river and canal."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens ist die Fahrt am Fluss Ness erfrischend, erfordert aber gute Regenkleidung. Mittags sind die Ness Islands unter den Bäumen geschützt, aber die Wege sind rutschig. Nachmittags bietet Whin Park wenig Schutz, also planen Sie die Kathedrale als trockene Pause ein. Abends endet die Tour am überdachten Victorian Market.",
+            "hu": "Reggel a Ness-parti tekerés frissítő, de komoly esőruhát igényel. Délben a szigetek fái adnak némi védelmet, de az utak csúszósak. Délután a Whin Park nyitott, így a katedrálist használja száraz pihenőnek. Este a túrát a fedett Victorian Marketnél fejezze be.",
+            "ro": "Dimineața, pedalatul pe malul râului Ness necesită echipament de ploaie bun. La prânz, copacii de pe insule oferă protecție, dar căile sunt alunecoase. După-amiaza, Whin Park este expus, deci folosiți catedrala ca pauză uscată. Seara se încheie la Victorian Market.",
+            "en": "Morning cycling along the Ness is refreshing but requires full waterproofs. At noon, the islands offer some shelter under the canopy, but watch for slick paths. In the afternoon, Whin Park is exposed, so use the cathedral as your dry sanctuary. Finish at the covered Victorian Market."
+          },
+          "stops": [
+            {
+              "name": "Cycle along the River Ness",
+              "tip_5lang": {
+                "de": "Vorsicht vor Pfützen und rutschigem Asphalt am Ufer.",
+                "hu": "Vigyázzon a tócsákra és a csúszós aszfaltra a parton.",
+                "ro": "Atenție la bălți și la asfaltul alunecos de pe mal.",
+                "en": "Watch out for puddles and slippery asphalt along the bank."
+              }
+            },
+            {
+              "name": "Ness Islands",
+              "tip_5lang": {
+                "de": "Fahren Sie langsam über die nassen Holzbohlen der Brücken.",
+                "hu": "Lassan haladjon át a hidak nedves fapadlózatán.",
+                "ro": "Pedalați încet pe scândurile umede de lemn ale podurilor.",
+                "en": "Ride slowly across the wet wooden slats of the bridges."
+              }
+            },
+            {
+              "name": "Whin Park",
+              "tip_5lang": {
+                "de": "Offenes Gelände; bei starkem Regen nur kurz verweilen.",
+                "hu": "Nyitott terep; erős esőben csak rövid ideig maradjon.",
+                "ro": "Teren deschis; în caz de ploaie torențială, stați puțin.",
+                "en": "Open terrain; don't linger long if the rain is heavy."
+              }
+            },
+            {
+              "name": "Inverness Cathedral",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Vorraum, um die Brille oder den Helm zu trocknen.",
+                "hu": "Használja az előteret a szemüveg vagy a sisak megszárításához.",
+                "ro": "Folosiți vestibulul pentru a vă usca ochelarii sau casca.",
+                "en": "Use the vestibule to dry off your glasses or helmet."
+              }
+            },
+            {
+              "name": "Inverness Castle",
+              "tip_5lang": {
+                "de": "Steiler Anstieg; auf nassem Kopfsteinpflaster besonders vorsichtig.",
+                "hu": "Meredek emelkedő; vizes macskakövön legyen nagyon óvatos.",
+                "ro": "Urcare abruptă; fiți foarte atenți pe piatra cubică umedă.",
+                "en": "Steep climb; be extra careful on wet cobblestones."
+              }
+            },
+            {
+              "name": "Victorian Market",
+              "tip_5lang": {
+                "de": "Sichere Fahrradständer befinden sich meist außerhalb des Marktes.",
+                "hu": "A biztonságos biciklitárolók a piacon kívül találhatók.",
+                "ro": "Rastelurile sigure pentru biciclete sunt în afara pieței.",
+                "en": "Secure bike racks are located just outside the market area."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie Schutzbleche, um den Rücken trocken zu halten.",
+              "Die Bremsen brauchen auf nassem Untergrund mehr Vorlauf.",
+              "Tragen Sie wasserdichte Handschuhe gegen die Kälte.",
+              "Bunte Kleidung erhöht die Sichtbarkeit im grauen Regenwetter."
+            ],
+            "hu": [
+              "Használjon sárvédőt, hogy a háta száraz maradjon.",
+              "A fékek lassabban fognak a nedves úton.",
+              "Viseljen vízálló kesztyűt a hideg szél ellen.",
+              "A színes ruházat javítja a láthatóságot a szürke esőben."
+            ],
+            "ro": [
+              "Folosiți apărători de noroi pentru a vă menține spatele uscat.",
+              "Frânele au nevoie de o distanță mai mare pe carosabil umed.",
+              "Purtați mănuși impermeabile împotriva frigului.",
+              "Hainele colorate sporesc vizibilitatea pe vreme gri."
+            ],
+            "en": [
+              "Use mudguards to keep your back dry from spray.",
+              "Allow extra braking distance on wet surfaces.",
+              "Wear waterproof gloves to combat the wind chill.",
+              "Bright clothing helps visibility in grey, rainy weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens ist die Luft am Fluss kristallklar und beißend kalt, tragen Sie Schichten. Mittags glänzt der Frost auf den Ness Islands, eine wunderschöne aber rutschige Fahrt. Nachmittags ist Whin Park oft menschenleer und friedlich. Abends wärmen Sie sich nach der Tour im Victorian Market mit einem heißen Getränk auf.",
+            "hu": "Reggel a folyóparti levegő kristálytiszta és metszően hideg, rétegesen öltözzön. Délben a zúzmara csillog a szigeteken, gyönyörű de csúszós az út. Délután a Whin Park békés és néptelen. Este a túra után a Victorian Marketben melegedjen fel egy forró itallal.",
+            "ro": "Dimineața, aerul de pe malul râului este extrem de curat și rece, îmbrăcați-vă în straturi. La prânz, chiciura strălucește pe insule, oferind un drum frumos dar alunecos. După-amiaza, Whin Park este liniștit. Seara, încălziți-vă cu o băutură caldă la Victorian Market.",
+            "en": "Morning air by the river is crisp and biting; dress in warm layers. At noon, frost glitters on the Ness Islands, making for a beautiful but slick ride. In the afternoon, Whin Park is peaceful and quiet. By evening, warm up with a hot drink at the Victorian Market after your ride."
+          },
+          "stops": [
+            {
+              "name": "Cycle along the River Ness",
+              "tip_5lang": {
+                "de": "Vorsicht vor schwarzem Eis in schattigen Bereichen.",
+                "hu": "Vigyázzon a fekete jégre az árnyékos szakaszokon.",
+                "ro": "Atenție la gheața neagră în zonele umbrite.",
+                "en": "Watch out for black ice in shaded sections of the path."
+              }
+            },
+            {
+              "name": "Ness Islands",
+              "tip_5lang": {
+                "de": "Die schmalen Pfade können gefroren und sehr glatt sein.",
+                "hu": "A keskeny ösvények fagyottak és nagyon csúszósak lehetnek.",
+                "ro": "Potecile înguste pot fi înghețate și foarte alunecoase.",
+                "en": "The narrow paths can be frozen and extremely slippery."
+              }
+            },
+            {
+              "name": "Whin Park",
+              "tip_5lang": {
+                "de": "Bei Minusgraden können die Wege im Park vereist sein.",
+                "hu": "Fagypont alatt a park útjai jegesek lehetnek.",
+                "ro": "La temperaturi negative, căile din parc pot fi înghețate.",
+                "en": "Paths in the park may be icy if temperatures are sub-zero."
+              }
+            },
+            {
+              "name": "Inverness Cathedral",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad sicher ab; Metallschlösser können festfrieren.",
+                "hu": "Zárja le a biciklit; a fém lakatok odafagyhatnak.",
+                "ro": "Asigurați bicicleta; antifurturile metalice pot îngheța.",
+                "en": "Lock your bike; metal locks can sometimes freeze up."
+              }
+            },
+            {
+              "name": "Inverness Castle",
+              "tip_5lang": {
+                "de": "Der Wind auf dem Hügel ist im Winter besonders schneidend.",
+                "hu": "A dombtetőn a szél télen különösen metsző.",
+                "ro": "Vântul de pe deal este deosebit de tăios iarna.",
+                "en": "The wind at the top of the hill is particularly sharp in winter."
+              }
+            },
+            {
+              "name": "Victorian Market",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Tour im Warmen zu beenden.",
+                "hu": "Ideális hely a túra befejezéséhez a melegben.",
+                "ro": "Un loc ideal pentru a încheia turul la căldură.",
+                "en": "An ideal place to conclude your ride in the warmth."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Reifendruck; etwas weniger bietet mehr Grip.",
+              "Schützen Sie Ihre Ohren und Finger vor Erfrierungen.",
+              "Die Straßen werden in Inverness meist gut gestreut.",
+              "Radfahren ist im Winter bis ca. 16:00 Uhr sicher."
+            ],
+            "hu": [
+              "Ellenőrizze a guminyomást; a puhább gumi jobban tapad.",
+              "Védje fülét és ujjait a fagyástól.",
+              "Inverness útjait általában jól sózzák és szórják.",
+              "A kerékpározás télen kb. délután 4-ig biztonságos."
+            ],
+            "ro": [
+              "Verificați presiunea anvelopelor; una mai mică oferă aderență.",
+              "Protejați-vă urechile și degetele de degerături.",
+              "Străzile din Inverness sunt de obicei bine curățate.",
+              "Ciclismul este sigur iarna până în jurul orei 16:00."
+            ],
+            "en": [
+              "Check tire pressure; slightly lower pressure offers better grip.",
+              "Protect your ears and fingers from the biting cold.",
+              "Main roads in Inverness are usually well-gritted.",
+              "Cycling is safest before the early 4 PM sunset."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1016,6 +1380,188 @@
           "Allow extra time for traffic in the city.",
           "Driving on the left requires concentration."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens ist das Schlachtfeld von Culloden sehr windanfällig, nutzen Sie das Besucherzentrum. Mittags sind die Clava Cairns bei Regen mystisch, aber der Boden ist aufgeweicht. Nachmittags parken Sie im Zentrum und genießen ein langes Mittagessen. Abends ist die Fahrt am Fluss Ness im Auto am gemütlichsten.",
+            "hu": "Reggel a Culloden-i csatamezőn nagy a szél, töltse az időt a látogatóközpontban. Délben a Clava Cairns esőben misztikus, de a talaj felázik. Délután parkoljon le a központban és élvezzen egy hosszú ebédet. Este a Ness-parti szakasz az autóból a legkényelmesebb.",
+            "ro": "Dimineața, câmpul de luptă Culloden este expus vântului, folosiți centrul pentru vizitatori. La prânz, Clava Cairns este mistic pe ploaie, dar solul este moale. După-amiaza, parcați în centru pentru un prânz lung. Seara, malul râului se vede cel mai bine din mașină.",
+            "en": "Morning at Culloden Battlefield is very windy; spend time in the visitor centre. At noon, Clava Cairns feels mystical in the rain, but the ground is soft. In the afternoon, park in the centre for a long lunch. By evening, the drive along the River Ness is most comfortable in the car."
+          },
+          "stops": [
+            {
+              "name": "Culloden Battlefield",
+              "tip_5lang": {
+                "de": "Das Besucherzentrum ist modern und absolut regensicher.",
+                "hu": "A látogatóközpont modern és teljesen esőbiztos.",
+                "ro": "Centrul pentru vizitatori este modern și ferit de ploaie.",
+                "en": "The visitor centre is modern and completely rain-proof."
+              }
+            },
+            {
+              "name": "Clava Cairns",
+              "tip_5lang": {
+                "de": "Der Zugangsweg kann bei Regen sehr schlammig werden.",
+                "hu": "A bevezető út esőben nagyon sárossá válhat.",
+                "ro": "Calea de acces poate deveni foarte noroioasă pe ploaie.",
+                "en": "The access path can become very muddy during rain."
+              }
+            },
+            {
+              "name": "Park in Centre & Lunch",
+              "tip_5lang": {
+                "de": "Nutzen Sie Parkhäuser, um trocken ins Restaurant zu kommen.",
+                "hu": "Használjon parkolóházakat, hogy szárazon jusson az étterembe.",
+                "ro": "Folosiți parcările etajate pentru a ajunge uscați la restaurant.",
+                "en": "Use multi-storey car parks to stay dry on your way to lunch."
+              }
+            },
+            {
+              "name": "Inverness Castle",
+              "tip_5lang": {
+                "de": "Parken Sie direkt unterhalb, um den Fußweg kurz zu halten.",
+                "hu": "Parkoljon közvetlenül a vár alatt, hogy rövid legyen a séta.",
+                "ro": "Parcați chiar sub castel pentru a scurta mersul pe jos.",
+                "en": "Park directly below the castle to keep the walk short."
+              }
+            },
+            {
+              "name": "Inverness Cathedral",
+              "tip_5lang": {
+                "de": "Es gibt begrenzte Parkplätze direkt an der Kathedrale.",
+                "hu": "Közvetlenül a katedrálisnál korlátozott számú parkoló van.",
+                "ro": "Există locuri de parcare limitate chiar lângă catedrală.",
+                "en": "There is limited parking available directly by the cathedral."
+              }
+            },
+            {
+              "name": "River Ness Walk",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den Fluss aus dem warmen Auto.",
+                "hu": "Élvezze a folyóra nyíló kilátást a meleg autóból.",
+                "ro": "Admirați vederea spre râu din mașina caldă.",
+                "en": "Enjoy the river views from the comfort of your car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie das Parken auf unbefestigten Flächen.",
+              "Die Sicht kann bei schottischem Regen stark eingeschränkt sein.",
+              "Das Rose Street Parkhaus ist zentral und überdacht.",
+              "Scheinwerfer auch tagsüber bei starkem Regen einschalten."
+            ],
+            "hu": [
+              "Kerülje a parkolást nem aszfaltozott felületeken.",
+              "A látási viszonyok korlátozottak lehetnek az esőben.",
+              "A Rose Street parkolóház központi és fedett.",
+              "Erős esőben nappal is kapcsolja be a fényszórókat."
+            ],
+            "ro": [
+              "Evitați parcarea pe suprafețe neamenajate.",
+              "Vizibilitatea poate fi redusă pe ploaia scoțiană.",
+              "Parcarea Rose Street este centrală și acoperită.",
+              "Aprindeți farurile și în timpul zilei pe ploaie torențială."
+            ],
+            "en": [
+              "Avoid parking on unpaved or grassy surfaces.",
+              "Visibility can be poor during heavy Scottish rain.",
+              "The Rose Street multi-storey car park is central and dry.",
+              "Keep your headlights on during the day in heavy rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens ist Culloden oft frostig und beeindruckend still. Mittags sind die Clava Cairns bei tiefstehender Wintersonne fotogen. Nachmittags ist das Parken im Zentrum praktisch, um die kurzen Wege im Hellen zu nutzen. Abends leuchtet Inverness winterlich, was man bei einer Stadtrundfahrt genießen kann.",
+            "hu": "Reggel Culloden gyakran zúzmarás és lenyűgözően csendes. Délben a Clava Cairns a laposan tűző téli napon nagyon fotogén. Délután a központi parkolás praktikus, hogy kihasználja a maradék világosságot. Este a kivilágított várost egy autós körúttal érdemes megnézni.",
+            "ro": "Dimineața, Culloden este adesea înghețat și impresionant de liniștit. La prânz, Clava Cairns este fotogenic în lumina iernii. După-amiaza, parcarea centrală este practică pentru a profita de lumină. Seara, admirați orașul luminat dintr-un tur cu mașina.",
+            "en": "Morning at Culloden is often frosty and impressively silent. At noon, Clava Cairns is very photogenic in the low winter sun. In the afternoon, central parking is practical for making the most of the daylight. By evening, enjoy the winter city lights with a drive through town."
+          },
+          "stops": [
+            {
+              "name": "Culloden Battlefield",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf den Moorpfaden.",
+                "hu": "Ügyeljen a jegesedésre a lápos terület ösvényein.",
+                "ro": "Atenție la polei pe potecile din mlaștină.",
+                "en": "Watch out for ice on the moorland paths."
+              }
+            },
+            {
+              "name": "Clava Cairns",
+              "tip_5lang": {
+                "de": "Wunderschön bei Sonnenaufgang oder spätem Nachmittagslicht.",
+                "hu": "Gyönyörű napfelkeltekor vagy késő délutáni fényben.",
+                "ro": "Superb la răsărit sau în lumina de după-amiază târzie.",
+                "en": "Beautiful at sunrise or in the late afternoon light."
+              }
+            },
+            {
+              "name": "Park in Centre & Lunch",
+              "tip_5lang": {
+                "de": "Warme Restaurants sind im Winter sehr gefragt; reservieren Sie.",
+                "hu": "A fűtött éttermek télen népszerűek; érdemes foglalni.",
+                "ro": "Restaurantele încălzite sunt căutate iarna; rezervați.",
+                "en": "Warm restaurants are popular in winter; book in advance."
+              }
+            },
+            {
+              "name": "Inverness Castle",
+              "tip_5lang": {
+                "de": "Der Boden auf dem Burghügel kann gefroren sein.",
+                "hu": "A várdombon a talaj fagyott és csúszós lehet.",
+                "ro": "Solul de pe dealul castelului poate fi înghețat.",
+                "en": "The ground on the castle hill can be frozen and slick."
+              }
+            },
+            {
+              "name": "Inverness Cathedral",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Parkplatz; ziehen Sie sich warm an.",
+                "hu": "Rövid séta a parkolótól; öltözzön fel melegen.",
+                "ro": "Mers scurt pe jos din parcare; îmbrăcați-vă gros.",
+                "en": "Short walk from the car; dress warmly for the wind."
+              }
+            },
+            {
+              "name": "River Ness Walk",
+              "tip_5lang": {
+                "de": "Die Straßen am Fluss sind im Winter oft festlich beleuchtet.",
+                "hu": "A folyóparti utak télen gyakran ünnepi díszkivilágítást kapnak.",
+                "ro": "Străzile de lângă râu sunt adesea iluminate festiv iarna.",
+                "en": "The riverfront roads often feature festive lighting in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Frostschutzmittel für die Scheibenwischanlage ist essenziell.",
+              "Vorsicht vor Wildwechsel auf den Landstraßen zu Culloden.",
+              "Die Parkhäuser sind im Winter oft weniger voll.",
+              "Planen Sie mehr Zeit für das Enteisen des Autos ein."
+            ],
+            "hu": [
+              "A szélvédőmosó fagyállója elengedhetetlen.",
+              "Vigyázzon a vadakra a Culloden felé vezető utakon.",
+              "A parkolóházak télen gyakran kevésbé zsúfoltak.",
+              "Számoljon több időt az autó jégmentesítésére reggel."
+            ],
+            "ro": [
+              "Antigelul pentru parbriz este esențial.",
+              "Atenție la animalele sălbatice pe drumurile spre Culloden.",
+              "Parcările etajate sunt adesea mai libere iarna.",
+              "Alocați mai mult timp pentru dezghețarea mașinii."
+            ],
+            "en": [
+              "Screen wash with antifreeze is essential.",
+              "Watch for deer on the rural roads towards Culloden.",
+              "Multi-storey car parks are often less busy in winter.",
+              "Allow extra time for de-icing your car in the morning."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1312,6 +1858,170 @@
           "Buses accept contactless payments.",
           "At rural stops, make sure you signal clearly for the bus to stop."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bringt Sie der Bus trocken ins Zentrum. Mittags bietet das Museum eine lange, wetterfeste Pause. Nachmittags ist die Burg ein kurzer Stopp, bevor Sie mit dem Bus zu den Ness Islands fahren. Abends endet die Tour an der Kathedrale, gut angebunden an das Busnetz.",
+            "hu": "Reggel a busz szárazon viszi be a központba. Délben a múzeum hosszú, időjárásálló megálló. Délután a vár után busszal menjen a Ness-szigetekhez. Este a túra a katedrálisnál ér véget, ahonnan jó a buszközlekedés.",
+            "ro": "Dimineața, autobuzul vă duce uscați în centru. La prânz, muzeul oferă o pauză lungă și ferită de vreme. După-amiaza, mergeți cu autobuzul spre insulele Ness. Seara se încheie la catedrală, bine conectată la rețea.",
+            "en": "Morning bus rides keep you dry on the way to the centre. At noon, the museum provides a long, weather-proof break. In the afternoon, take the bus to the Ness Islands after visiting the castle. Finish at the cathedral, which is well-connected by bus routes."
+          },
+          "stops": [
+            {
+              "name": "Bus to City Centre",
+              "tip_5lang": {
+                "de": "Nutzen Sie die App, um nicht im Regen auf den Bus zu warten.",
+                "hu": "Használja az alkalmazást, hogy ne az esőben várja a buszt.",
+                "ro": "Folosiți aplicația pentru a nu aștepta autobuzul în ploaie.",
+                "en": "Use the transit app to avoid waiting in the rain at the stop."
+              }
+            },
+            {
+              "name": "Inverness Museum and Art Gallery",
+              "tip_5lang": {
+                "de": "Nur wenige Schritte von der Bushaltestelle entfernt.",
+                "hu": "Csak pár lépésre található a buszmegállótól.",
+                "ro": "La doar câțiva pași de stația de autobuz.",
+                "en": "Located just a few steps away from the bus stop."
+              }
+            },
+            {
+              "name": "Inverness Castle",
+              "tip_5lang": {
+                "de": "Der Weg nach oben ist kurz, aber ungeschützt vor Regen.",
+                "hu": "Az út felfelé rövid, de az eső ellen nincs védelem.",
+                "ro": "Drumul spre deal este scurt, dar neprotejat de ploaie.",
+                "en": "The walk up is short but offers no protection from rain."
+              }
+            },
+            {
+              "name": "Bus to Ness Islands",
+              "tip_5lang": {
+                "de": "Die Haltestelle liegt direkt am Eingang zu den Inseln.",
+                "hu": "A megálló közvetlenül a szigetek bejáratánál van.",
+                "ro": "Stația este chiar la intrarea pe insule.",
+                "en": "The stop is located right at the entrance to the islands."
+              }
+            },
+            {
+              "name": "Inverness Cathedral",
+              "tip_5lang": {
+                "de": "Mehrere Buslinien halten in unmittelbarer Nähe.",
+                "hu": "Számos buszjárat megáll a közvetlen közelben.",
+                "ro": "Mai multe linii de autobuz opresc în imediata apropiere.",
+                "en": "Several bus lines stop in the immediate vicinity."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie ein Tagesticket direkt beim Fahrer.",
+              "Die Busse in Inverness sind meist pünktlich.",
+              "Hatten Sie einen nassen Schirm dabei? Halten Sie ihn im Bus geschlossen.",
+              "Die Busbahnhöfe bieten meist gute Unterstände."
+            ],
+            "hu": [
+              "Vegyen napijegyet közvetlenül a sofőrnél.",
+              "Az invernessi buszok általában pontosak.",
+              "A vizes ernyőt tartsa összecsukva a buszon.",
+              "A buszvárók általában jó fedezéket nyújtanak."
+            ],
+            "ro": [
+              "Cumpărați un bilet de o zi direct de la șofer.",
+              "Autobuzele din Inverness sunt de obicei punctuale.",
+              "Țineți umbrela udă închisă în autobuz.",
+              "Stațiile de autobuz oferă de obicei adăpost bun."
+            ],
+            "en": [
+              "Buy a day ticket directly from the driver.",
+              "Buses in Inverness are generally punctual.",
+              "Keep your wet umbrella closed while on the bus.",
+              "Bus shelters in the city provide good cover from rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens ist die Fahrt im beheizten Bus der beste Start. Mittags bietet das Museum wohlige Wärme. Nachmittags ist die Kathedrale in der Dämmerung besonders stimmungsvoll. Abends ist die Rückfahrt ins Zentrum mit dem Bus sicher und bequem, wenn es draußen friert.",
+            "hu": "Reggel a fűtött busz a legjobb kezdés a hidegben. Délben a múzeum nyújt kellemes meleget. Délután a katedrális a szürkületben különösen hangulatos. Este a visszautat a központba tegye busszal, kényelmesen és biztonságosan.",
+            "ro": "Dimineața, autobuzul încălzit este cel mai bun început. La prânz, muzeul oferă o căldură plăcută. După-amiaza, catedrala este foarte atmosferică la amurg. Seara, întoarcerea cu autobuzul este sigură și confortabilă.",
+            "en": "Morning in a heated bus is the best way to start a cold day. At noon, the museum offers welcoming warmth. In the afternoon, the cathedral is very atmospheric in the winter twilight. By evening, a bus ride back to the centre is safe and comfortable when it's freezing out."
+          },
+          "stops": [
+            {
+              "name": "Bus to City Centre",
+              "tip_5lang": {
+                "de": "Busse sind im Winter oft die wärmste Reiseoption.",
+                "hu": "Télen a busz gyakran a legmelegebb utazási mód.",
+                "ro": "Autobuzele sunt adesea cea mai caldă opțiune iarna.",
+                "en": "Buses are often the warmest way to travel in winter."
+              }
+            },
+            {
+              "name": "Inverness Museum and Art Gallery",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ausstellungen im gut beheizten Gebäude.",
+                "hu": "Élvezze a kiállításokat a jól fűtött épületben.",
+                "ro": "Admirați expozițiile în clădirea bine încălzită.",
+                "en": "Enjoy the exhibits inside the well-heated building."
+              }
+            },
+            {
+              "name": "Inverness Castle",
+              "tip_5lang": {
+                "de": "Vom Busstopp ist es nur ein kurzer, windiger Anstieg.",
+                "hu": "A buszmegállótól csak egy rövid, szeles emelkedő.",
+                "ro": "De la stație este doar o urcare scurtă și vântoasă.",
+                "en": "It's just a short, windy walk up from the bus stop."
+              }
+            },
+            {
+              "name": "Bus to Ness Islands",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Winterfahrplan; manche Linien fahren seltener.",
+                "hu": "Ellenőrizze a téli menetrendet; egyes járatok ritkábbak.",
+                "ro": "Verificați mersul trenurilor de iarnă; unele linii sunt rare.",
+                "en": "Check the winter schedule; some lines may run less often."
+              }
+            },
+            {
+              "name": "Inverness Cathedral",
+              "tip_5lang": {
+                "de": "Die Haltestellen sind abends gut beleuchtet.",
+                "hu": "A buszmegállók este jól kivilágítottak.",
+                "ro": "Stațiile de autobuz sunt bine luminate seara.",
+                "en": "The bus stops are well-lit for safety in the evenings."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Busse fahren im Winter nach dem regulären Fahrplan.",
+              "Achten Sie auf rutschige Stufen beim Ein- und Aussteigen.",
+              "Heizungen in den Bussen laufen im Winter auf Hochtouren.",
+              "Kontaktloses Bezahlen wird in fast allen Bussen akzeptiert."
+            ],
+            "hu": [
+              "A buszok télen is a rendes menetrend szerint járnak.",
+              "Vigyázzon a csúszós lépcsőkre le- és felszálláskor.",
+              "A buszokon a fűtés télen teljes gőzzel üzemel.",
+              "A legtöbb buszon elfogadják a bankkártyás fizetést."
+            ],
+            "ro": [
+              "Autobuzele circulă după programul normal iarna.",
+              "Atenție la treptele alunecoase la urcare și coborâre.",
+              "Încălzirea din autobuze funcționează la maximum iarna.",
+              "Plata contactless este acceptată în aproape toate autobuzele."
+            ],
+            "en": [
+              "Buses generally follow their regular schedule in winter.",
+              "Be careful on slippery steps when boarding or exiting.",
+              "Buses are usually well-heated during the winter months.",
+              "Contactless payment is accepted on almost all city buses."
+            ]
+          }
+        }
       }
     }
   }

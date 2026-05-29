@@ -338,6 +338,196 @@
           "Bring plenty of water, especially during the summer months.",
           "A power bank for your phone is useful for photos and navigation."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt geschützt im Kulturzentrum, wo Ausstellungen die lokale Geschichte lebendig halten. Mittags bieten die Kirchen Agios Nikolaos und Panagia Evangelistria trockene Zufluchtsorte mit beeindruckender Ikonographie. Ein ausgedehntes Mittagessen lässt den Regen vorüberziehen. Nachmittags zeigt sich der Nationalpark in sattem Grün, bevor der Stausee eine mystische, neblige Kulisse bietet. Den Abend lassen wir in einer gemütlichen Taverne ausklingen.",
+            "hu": "A reggel fedett helyen, a Kulturális Központ kiállításai között indul. Délben az Agios Nikolaos és a Panagia Evangelistria templomok nyújtanak menedéket az eső elől, gyönyörű ikonjaikkal. Egy hosszú ebéd alatt megvárjuk a zápor végét. Délután a nemzeti park harsány zöld színeiben gyönyörködünk, majd a víztározó ködös, misztikus látványa zárja a napot. Az estét egy közeli, barátságos tavernában töltjük.",
+            "ro": "Dimineața începe la adăpost în Centrul Cultural, explorând istoria locală prin expoziții. La prânz, bisericile Sf. Nicolae și Panagia Evangelistria oferă refugiu uscat și liniște spirituală. După un prânz prelungit, parcul național se dezvăluie într-un verde vibrant sub ploaie. După-amiaza, rezervorul Polemidia capătă un aspect mistic în ceață. Seara se încheie perfect într-o tavernă călduroasă cu preparate locale.",
+            "en": "The morning starts indoors at the Cultural Centre, exploring local heritage. At noon, the churches of Agios Nikolaos and Panagia Evangelistria provide dry sanctuary with stunning icons. After a leisurely lunch, the National Park reveals vibrant green hues refreshed by the rain. In the afternoon, the reservoir offers a mystical, misty atmosphere. The evening concludes in a cozy local tavern, perfect for reflecting on the day."
+          },
+          "stops": [
+            {
+              "name": "Kato Polemidia Cultural Centre",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um den ersten Regenschauer bei Ausstellungen zu überbrücken.",
+                "hu": "Kiváló hely az első zápor átvészelésére a kiállítások között.",
+                "ro": "Locul perfect pentru a aștepta trecerea primei averse printre exponate.",
+                "en": "Perfect place to wait out the first rain shower while enjoying the exhibits."
+              }
+            },
+            {
+              "name": "Agios Nikolaos Church",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Ikonen im Trockenen; der Boden kann am Eingang rutschig sein.",
+                "hu": "Csodálja meg az ikonokat a szárazban; a bejáratnál a padló csúszós lehet.",
+                "ro": "Admirați icoanele la adăpost; podeaua de la intrare poate fi alunecoasă.",
+                "en": "Admire the icons while staying dry; the floor near the entrance might be slippery."
+              }
+            },
+            {
+              "name": "Panagia Evangelistria Church",
+              "tip_5lang": {
+                "de": "Ein weiterer ruhiger, überdachter Ort mit spiritueller Atmosphäre.",
+                "hu": "Egy újabb nyugodt, fedett helyszín spirituális hangulattal.",
+                "ro": "Un alt loc liniștit și acoperit, cu o atmosferă spirituală deosebită.",
+                "en": "Another peaceful, covered location with a deep spiritual atmosphere."
+              }
+            },
+            {
+              "name": "Lunch at a local tavern",
+              "tip_5lang": {
+                "de": "Wählen Sie einen Platz am Kamin, um sich aufzuwärmen und zu trocknen.",
+                "hu": "Válasszon egy asztalt a kandalló közelében, hogy megszáradjon és felmelegedjen.",
+                "ro": "Alegeți o masă lângă șemineu pentru a vă usca și încălzi.",
+                "en": "Choose a table near the fireplace to dry off and warm up."
+              }
+            },
+            {
+              "name": "Polemidia National Park",
+              "tip_5lang": {
+                "de": "Feste Wanderschuhe sind wichtig, da die Wege schlammig sein können.",
+                "hu": "A sár miatt fontos a vízhatlan túrabakancs használata.",
+                "ro": "Ghetele de munte sunt esențiale, deoarece potecile pot fi noroioase.",
+                "en": "Sturdy hiking boots are essential as the trails can get muddy."
+              }
+            },
+            {
+              "name": "Polemidia Reservoir",
+              "tip_5lang": {
+                "de": "Der Blick auf das Wasser im Regen ist besonders dramatisch und fotogen.",
+                "hu": "A víztükör látványa az esőben különösen drámai és fotogén.",
+                "ro": "Vederea rezervorului sub ploaie este deosebit de dramatică și fotogenică.",
+                "en": "The view of the water in the rain is particularly dramatic and photogenic."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nehmen Sie einen stabilen Regenschirm und wasserfeste Kleidung mit.",
+              "Die Kirchen bieten gute Unterstellmöglichkeiten während starker Güsse.",
+              "Einige Wanderwege im Park können bei Nässe rutschig sein.",
+              "Tavernen sind in Kato Polemidia oft auch an Regentagen belebt.",
+              "Nutzen Sie die Regenpausen für Fotos am Stausee."
+            ],
+            "hu": [
+              "Vigyen magával strapabíró esernyőt és vízálló ruházatot.",
+              "A templomok kiváló menedéket nyújtanak a hevesebb záporok idején.",
+              "A park ösvényei esőben csúszóssá válhatnak, vigyázzon a lépteire.",
+              "A tavernák esős időben is barátságosak és élettel teliek.",
+              "Használja ki az esőszüneteket a víztározó melletti fotózáshoz."
+            ],
+            "ro": [
+              "Luați o umbrelă rezistentă și haine impermeabile.",
+              "Bisericile oferă un adăpost excelent în timpul averselor puternice.",
+              "Potecile din parc pot deveni alunecoase, aveți grijă unde călcați.",
+              "Tavernele sunt primitoare și pline de viață chiar și în zilele ploioase.",
+              "Profitați de pauzele dintre ploi pentru fotografii la rezervor."
+            ],
+            "en": [
+              "Carry a sturdy umbrella and wear waterproof outer layers.",
+              "Churches provide excellent shelter during heavy downpours.",
+              "Park trails can become slippery when wet, watch your step.",
+              "Taverns in Kato Polemidia remain lively and cozy on rainy days.",
+              "Use intervals between rain for photos at the reservoir."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die milde Wintersonne Zyperns begleitet uns zum Kulturzentrum. Die kühle Morgenluft macht den Spaziergang zu den Kirchen Agios Nikolaos und Panagia Evangelistria besonders angenehm. Mittags wärmt ein herzhaftes Kleftiko in der Taverne Körper und Seele. Der Nachmittag gehört dem Nationalpark, wo die Flora im Winter erwacht. Vor Sonnenuntergang erreichen wir den Stausee, wenn das Licht die Landschaft in goldene Töne taucht.",
+            "hu": "A ciprusi tél enyhe napsütése kísér minket a Kulturális Központhoz. A hűvös reggeli levegőben kifejezetten kellemes a séta az Agios Nikolaos és a Panagia Evangelistria templomok felé. Délben egy tál forró kleftiko melengeti meg lelkünket a tavernánál. Délután a nemzeti parké a főszerep, ahol télen kezd virágzani a természet. Naplemente előtt érjük el a víztározót, amikor az aranyló fények elárasztják a tájat.",
+            "ro": "Soarele blând de iarnă din Cipru ne însoțește spre Centrul Cultural. Aerul răcoros de dimineață face plimbarea spre bisericile Sf. Nicolae și Panagia Evangelistria foarte plăcută. La prânz, un kleftiko fierbinte la tavernă ne reîncarcă bateriile. După-amiaza explorăm parcul național, unde natura prinde viață iarna. Ajungem la rezervor înainte de apus, când lumina caldă îmbracă peisajul în nuanțe aurii.",
+            "en": "The mild Cypriot winter sun accompanies our start at the Cultural Centre. Crisp morning air makes the walk to Agios Nikolaos and Panagia Evangelistria churches truly refreshing. For lunch, a steaming plate of local Kleftiko warms both body and soul. The afternoon is dedicated to the National Park, where the flora awakens in winter. We reach the reservoir before sunset, capturing the landscape in beautiful golden light."
+          },
+          "stops": [
+            {
+              "name": "Kato Polemidia Cultural Centre",
+              "tip_5lang": {
+                "de": "Im Winter ist es hier angenehm temperiert und weniger überlaufen.",
+                "hu": "Télen kellemes a hőmérséklet bent, és kevesebb a látogató.",
+                "ro": "Iarna temperatura interioară este plăcută și sunt mai puțini turiști.",
+                "en": "In winter, the indoor temperature is pleasant and it's less crowded."
+              }
+            },
+            {
+              "name": "Agios Nikolaos Church",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe der Nebensaison in diesem historischen Sakralbau.",
+                "hu": "Élvezze a holtszezon nyugalmát ebben a történelmi templomban.",
+                "ro": "Bucurați-vă de liniștea din afara sezonului în acest lăcaș istoric.",
+                "en": "Enjoy the off-season tranquility in this historic sacred building."
+              }
+            },
+            {
+              "name": "Panagia Evangelistria Church",
+              "tip_5lang": {
+                "de": "Das sanfte Winterlicht bringt die Details der Fassade toll zur Geltung.",
+                "hu": "A lágy téli fények gyönyörűen kiemelik a homlokzat részleteit.",
+                "ro": "Lumina blândă de iarnă scoate în evidență detaliile fațadei.",
+                "en": "The soft winter light highlights the facade details beautifully."
+              }
+            },
+            {
+              "name": "Lunch at a local tavern",
+              "tip_5lang": {
+                "de": "Probieren Sie saisonale Winterspezialitäten wie Suppen oder Eintöpfe.",
+                "hu": "Kóstolja meg a szezonális téli ételeket, például a sűrű leveseket.",
+                "ro": "Gustați specialitățile sezoniere de iarnă, cum ar fi supele calde.",
+                "en": "Try seasonal winter specialties like hearty soups or stews."
+              }
+            },
+            {
+              "name": "Polemidia National Park",
+              "tip_5lang": {
+                "de": "Die ideale Zeit für lange Wanderungen ohne die extreme Sommerhitze.",
+                "hu": "Ideális időpont hosszú túrákhoz a nyári hőség elkerülésével.",
+                "ro": "Momentul ideal pentru drumeții lungi fără canicula verii.",
+                "en": "Ideal time for long hikes without the extreme summer heat."
+              }
+            },
+            {
+              "name": "Polemidia Reservoir",
+              "tip_5lang": {
+                "de": "Seien Sie gegen 16:30 Uhr hier, um den Sonnenuntergang nicht zu verpassen.",
+                "hu": "Érkezzen 16:30 körül, hogy ne maradjon le a korai naplementéről.",
+                "ro": "Fiți aici în jur de ora 16:30 pentru a nu rata apusul devreme.",
+                "en": "Be here around 4:30 PM to catch the early winter sunset."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich nach dem Zwiebelprinzip für wechselnde Temperaturen.",
+              "Die Sonne ist im Winter weniger intensiv, aber Sonnenschutz ist ratsam.",
+              "Planen Sie Outdoor-Aktivitäten für die Mittagsstunden ein.",
+              "Die Cafés bieten im Winter oft gemütliche Sitzplätze im Inneren an.",
+              "Achten Sie auf den frühen Sonnenuntergang gegen 17:00 Uhr."
+            ],
+            "hu": [
+              "Öltözködjön rétegesen a változó napközbeni hőmérséklet miatt.",
+              "A téli nap is erős lehet, érdemes fényvédőt használni.",
+              "A kültéri programokat a nap legmelegebb, déli óráira időzítse.",
+              "A kávézók télen barátságos belső terekkel várják a vendégeket.",
+              "Ügyeljen a korai, délután 5 óra körüli naplementére."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi pentru temperaturile variabile de peste zi.",
+              "Soarele de iarnă poate fi înșelător, folosiți protecție solară.",
+              "Planificați activitățile în aer liber pentru orele amiezii.",
+              "Cafenelele oferă iarna spații interioare foarte primitoare.",
+              "Aveți în vedere apusul devreme, în jurul orei 17:00."
+            ],
+            "en": [
+              "Wear layers to adjust to changing temperatures during the day.",
+              "Winter sun can still be strong, so sunscreen is recommended.",
+              "Schedule outdoor activities for the warmest midday hours.",
+              "Cafes often have cozy indoor seating areas during the winter months.",
+              "Keep in mind that the sun sets early, around 5:00 PM."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -694,6 +884,214 @@
           "Wear a helmet and bright clothing to be visible.",
           "The route to the reservoir has some inclines, be prepared."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour beginnt am mittelalterlichen Turm, wobei die glatten Straßen Vorsicht erfordern. Nach einem kurzen Stopp am Stadion bietet die Kirche des Erzengels Michael eine trockene Atempause. Mittags wärmen wir uns im Kulturzentrum auf, bevor wir nach dem Essen die Natur erkunden. Der Nationalpark und der Stausee glänzen im Regen, erfordern aber gute Bremsen auf den nassen Abfahrten. Ein Tag für echte Abenteurer auf zwei Rädern.",
+            "hu": "A biciklitúra a középkori toronynál indul, ahol a síkos utak óvatosságra intenek. A stadion után az Arkangyal Mihály templom nyújt száraz pihenőt. Délben a Kulturális Központban melegszünk fel, majd ebéd után irány a természet. A nemzeti park és a víztározó csillog az esőben, de a lejtőkön figyelni kell a fékekre a vizes aszfalton. Ez a nap az igazi kétkerekű kalandoroké.",
+            "ro": "Turul pe bicicletă începe la turnul medieval, unde drumurile alunecoase cer prudență. După stadion, biserica Arhanghelul Mihail oferă un moment de răgaz uscat. La prânz ne încălzim în Centrul Cultural, apoi explorăm natura după masă. Parcul național și rezervorul strălucesc sub ploaie, dar coborârile necesită frâne bune pe asfaltul ud. O zi pentru adevărații aventurieri pe două roți.",
+            "en": "The bike tour starts at the Medieval Tower, requiring caution on slick roads. After the stadium, Archangel Michael Church offers a dry breather. At noon, we warm up at the Cultural Centre before exploring nature after lunch. The National Park and reservoir glisten in the rain, but the descents demand good brakes on wet surfaces. A day for true two-wheeled adventurers."
+          },
+          "stops": [
+            {
+              "name": "Medieval Tower of Polemidia",
+              "tip_5lang": {
+                "de": "Vorsicht beim Absteigen; die Steine können bei Regen sehr glatt sein.",
+                "hu": "Vigyázzon a leszálláskor; az útszéli kövek esőben nagyon csúszhatnak.",
+                "ro": "Atenție la coborârea de pe bicicletă; pietrele pot fi foarte alunecoase.",
+                "en": "Be careful when dismounting; the stones can be very slippery when wet."
+              }
+            },
+            {
+              "name": "Kato Polemidia Municipal Stadium",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp; suchen Sie Schutz unter den Tribünen bei starkem Regen.",
+                "hu": "Gyors fotómegálló; heves esőben keressen menedéket a lelátók alatt.",
+                "ro": "Oprire scurtă; căutați adăpost sub tribune în caz de ploaie torențială.",
+                "en": "Quick photo stop; seek shelter under the stands during heavy rain."
+              }
+            },
+            {
+              "name": "Archangel Michael Church",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Vorbau, um die Fahrräder kurz trocken abzustellen.",
+                "hu": "Használja az előtetőt a kerékpárok szárazon tartásához a megálló alatt.",
+                "ro": "Folosiți copertina pentru a lăsa bicicletele la adăpost de ploaie.",
+                "en": "Use the porch area to keep your bikes dry during the stop."
+              }
+            },
+            {
+              "name": "Kato Polemidia Cultural Centre",
+              "tip_5lang": {
+                "de": "Perfekt für eine längere Pause, um die Regenkleidung auszuschütteln.",
+                "hu": "Ideális egy hosszabb pihenőre, hogy lerázza a vizet az esőkabátról.",
+                "ro": "Perfect pentru o pauză lungă și pentru a scutura hainele de ploaie.",
+                "en": "Perfect for a longer break to dry off your rain gear."
+              }
+            },
+            {
+              "name": "Lunch Break",
+              "tip_5lang": {
+                "de": "Fragen Sie nach einem sicheren, überdachten Platz für Ihr Rad.",
+                "hu": "Kérdezzen rá, hol tudja biztonságos, fedett helyen hagyni a biciklit.",
+                "ro": "Întrebați unde puteți lăsa bicicleta într-un loc sigur și acoperit.",
+                "en": "Ask for a safe, covered spot to park your bike while you eat."
+              }
+            },
+            {
+              "name": "Polemidia National Park",
+              "tip_5lang": {
+                "de": "Achten Sie auf Pfützen; die unbefestigten Wege können weich sein.",
+                "hu": "Vigyázzon a tócsákkal; a burkolatlan utak felázhatnak.",
+                "ro": "Atenție la bălți; drumurile neasfaltate pot deveni moi.",
+                "en": "Watch out for puddles; unpaved paths can become soft and muddy."
+              }
+            },
+            {
+              "name": "Polemidia Reservoir",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor der Abfahrt vom Stausee.",
+                "hu": "A víztározótól való indulás előtt mindenképpen ellenőrizze a fékeket.",
+                "ro": "Verificați frânele înainte de a pleca de la rezervor pe drumul ud.",
+                "en": "Check your brakes before heading back down from the reservoir."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche am Fahrrad sind bei Regen in Kato Polemidia unerlässlich.",
+              "Vermeiden Sie abrupte Bremsmanöver auf den asphaltierten Straßen.",
+              "Tragen Sie leuchtende Regenkleidung für bessere Sichtbarkeit.",
+              "Die Wege im Nationalpark können bei Nässe technisch anspruchsvoll sein.",
+              "Ein wasserdichter Rucksack schützt Ihre Wertsachen zuverlässig."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen a biciklin az esős ciprusi utakon.",
+              "Kerülje a hirtelen fékezést a vizes aszfalton a csúszásveszély miatt.",
+              "Viseljen élénk színű esőkabátot a jobb láthatóság érdekében.",
+              "A nemzeti park ösvényei esőben technikásabbá válhatnak.",
+              "A vízálló hátizsák megvédi az értékeit az ázástól."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt esențiale pe bicicletă pe drumurile ude.",
+              "Evitați frânările bruște pe asfaltul umed pentru a nu derapa.",
+              "Purtați haine de ploaie în culori stridente pentru vizibilitate.",
+              "Potecile din parcul național pot deveni dificile când sunt ude.",
+              "Un rucsac impermeabil vă va proteja eficient obiectele de valoare."
+            ],
+            "en": [
+              "Mudguards are essential on your bike for rainy conditions.",
+              "Avoid sudden braking on wet asphalt to prevent skidding.",
+              "Wear bright waterproof clothing for better visibility to drivers.",
+              "National Park trails can become more technically challenging when wet.",
+              "A waterproof backpack will reliably protect your belongings."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radeln in Kato Polemidia ist dank der milden Temperaturen ein Genuss. Wir starten am mittelalterlichen Turm und genießen die freie Sicht auf das Stadion. Die kühle Luft an der Erzengel-Michael-Kirche erfrischt, bevor wir im Kulturzentrum eine kulturelle Pause einlegen. Nach einem stärkenden Mittagessen geht es bergauf zum Nationalpark, wo man im Winter nicht so schnell ins Schwitzen kommt. Der Tag endet am Stausee mit glitzerndem Wasser unter der tiefstehenden Sonne.",
+            "hu": "A téli biciklizés Kato Polemidiában igazi élvezet az enyhe időnek köszönhetően. A középkori toronytól indulunk, és élvezzük a tiszta kilátást a stadionnál. Az Arkangyal Mihály templom hűvös levegője felfrissít a Kulturális Központ előtti szünetben. Egy tápláló ebéd után irány a nemzeti park; télen a felfelé tekerés sem olyan izzasztó. A nap a víztározónál zárul, ahol a lemenő nap fénye csillog a vízen.",
+            "ro": "Ciclismul de iarnă în Kato Polemidia este o plăcere datorită vremii blânde. Pornim de la turnul medieval și admirăm stadionul sub cerul senin. Aerul rece de la biserica Arhanghelul Mihail ne înviorează înainte de pauza de la Centrul Cultural. După un prânz consistent, pedalăm spre parcul național; iarna urcările sunt mult mai ușor de suportat. Ziua se încheie la rezervor, cu soarele reflectându-se în apă.",
+            "en": "Winter cycling in Kato Polemidia is a joy thanks to the mild climate. We start at the Medieval Tower, enjoying clear views of the stadium. The crisp air at Archangel Michael Church refreshes us before a cultural stop at the Cultural Centre. After a hearty lunch, we climb towards the National Park; the winter cool makes the ascent much easier. The day ends at the reservoir with the water glistening under the low winter sun."
+          },
+          "stops": [
+            {
+              "name": "Medieval Tower of Polemidia",
+              "tip_5lang": {
+                "de": "Die klare Winterluft bietet hier eine tolle Fernsicht auf die Stadt.",
+                "hu": "A tiszta téli levegőben remek innen a kilátás a városra.",
+                "ro": "Aerul curat de iarnă oferă o vizibilitate excelentă asupra orașului.",
+                "en": "The clear winter air provides great distant views of the city."
+              }
+            },
+            {
+              "name": "Kato Polemidia Municipal Stadium",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp zum Aufwärmen durch Bewegung reicht völlig aus.",
+                "hu": "Egy rövid megálló, a mozgás melegen tartja az embert.",
+                "ro": "O oprire scurtă; mișcarea vă va ajuta să vă mențineți calzi.",
+                "en": "A quick stop; keeping on the move helps you stay warm."
+              }
+            },
+            {
+              "name": "Archangel Michael Church",
+              "tip_5lang": {
+                "de": "Die schattigen Bereiche um die Kirche können morgens kühl sein.",
+                "hu": "A templom körüli árnyékos részek reggelente hűvösek lehetnek.",
+                "ro": "Zonele umbrite din jurul bisericii pot fi destul de reci dimineața.",
+                "en": "The shaded areas around the church can be chilly in the morning."
+              }
+            },
+            {
+              "name": "Kato Polemidia Cultural Centre",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Innenräume, um kurz die Finger aufzuwärmen.",
+                "hu": "Használja ki a belső tereket, hogy átmelegedjenek az ujjai.",
+                "ro": "Folosiți spațiile interioare pentru a vă încălzi puțin mâinile.",
+                "en": "Use the indoor spaces to quickly warm up your fingers."
+              }
+            },
+            {
+              "name": "Lunch Break",
+              "tip_5lang": {
+                "de": "Ein Platz in der Sonne ist jetzt begehrter als im Sommer.",
+                "hu": "Télen a napsütötte asztalok sokkal keresettebbek, mint nyáron.",
+                "ro": "O masă la soare este mult mai căutată acum decât în timpul verii.",
+                "en": "A table in the sun is much more desirable now than in summer."
+              }
+            },
+            {
+              "name": "Polemidia National Park",
+              "tip_5lang": {
+                "de": "Perfekte Bedingungen für anspruchsvolle Radwege ohne Hitzestau.",
+                "hu": "Tökéletes körülmények a nehezebb szakaszokhoz a hőség nélkül.",
+                "ro": "Condiții perfecte pentru trasee dificile, fără disconfortul termic.",
+                "en": "Perfect conditions for challenging trails without the heat exhaustion."
+              }
+            },
+            {
+              "name": "Polemidia Reservoir",
+              "tip_5lang": {
+                "de": "Nehmen Sie für die Rückfahrt nach Sonnenuntergang eine Jacke mit.",
+                "hu": "A naplemente utáni visszaútra mindenképpen legyen kéznél kabát.",
+                "ro": "Aveți o jachetă la îndemână pentru drumul de întoarcere după apus.",
+                "en": "Have a jacket ready for the ride back after the sun goes down."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winddichte Handschuhe sind bei Abfahrten im Winter sehr angenehm.",
+              "Stellen Sie sicher, dass Ihre Fahrradbeleuchtung für den frühen Abend funktioniert.",
+              "Die Wintersonne steht tief – eine Sonnenbrille hilft gegen Blendung.",
+              "Trinken Sie trotz kühlerer Temperaturen ausreichend Wasser.",
+              "Nutzen Sie die weniger befahrenen Straßen der Nebensaison."
+            ],
+            "hu": [
+              "A szélálló kesztyű nagyon hasznos a téli lejtőkön lefelé menet.",
+              "Ellenőrizze, hogy a lámpák jól működnek-e a korai sötétedés miatt.",
+              "A téli nap alacsonyan jár, a napszemüveg segít a vakítás ellen.",
+              "A hűvösebb idő ellenére se felejtsen el elegendő vizet inni.",
+              "Élvezze a holtszezonban kevésbé forgalmas mellékutakat."
+            ],
+            "ro": [
+              "Mănușile rezistente la vânt sunt foarte utile la coborâri iarna.",
+              "Verificați luminile bicicletei pentru înserarea care vine devreme.",
+              "Soarele de iarnă este jos, ochelarii de soare vă vor proteja ochii.",
+              "Nu uitați să beți suficientă apă, chiar dacă temperaturile sunt scăzute.",
+              "Profitați de drumurile mai puțin circulate în afara sezonului."
+            ],
+            "en": [
+              "Windproof gloves are very helpful during winter descents.",
+              "Ensure your bike lights are working for the early evening darkness.",
+              "The winter sun is low – sunglasses will help with the glare.",
+              "Don't forget to stay hydrated even in cooler temperatures.",
+              "Enjoy the less crowded roads during the off-season."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1050,6 +1448,214 @@
           "Plan for extra time for traffic, especially in the late afternoon.",
           "Parking can be challenging in the centres of the clusters, be patient."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regnerische Tage in Kato Polemidia lassen sich am besten mit dem Auto erkunden. Wir starten trocken im historischen Zentrum und besuchen das Kulturzentrum. Die kurzen Wege zu den Kirchen Agios Nikolaos und Panagia Evangelistria minimieren die Zeit im Regen. Ein gemütliches Mittagessen in einer Taverne mit nahem Parkplatz ist ideal. Am Nachmittag bietet die Fahrt zum Nationalpark und Stausee tolle Ausblicke aus dem warmen Fahrzeug, ergänzt durch kurze, erfrischende Stopps.",
+            "hu": "Az esős napokat Kato Polemidiában a legkényelmesebben autóval fedezhetjük fel. Szárazon indulunk a történelmi központból és a Kulturális Központból. A templomok közeli parkolói miatt alig kell esőben lennünk az Agios Nikolaos és a Panagia Evangelistria látogatásakor. Egy közeli parkolóval rendelkező tavernában elköltött ebéd tökéletes. Délután az autó melegéből csodálhatjuk a nemzeti park és a víztározó látványát.",
+            "ro": "Zilele ploioase în Kato Polemidia sunt cel mai bine explorate cu mașina. Începem confortabil în centrul istoric și la Centrul Cultural. Distanțele scurte de la parcare la bisericile Sf. Nicolae și Panagia Evangelistria ne feresc de ploaie. Un prânz la o tavernă cu parcare în apropiere este ideal. După-amiaza, drumul spre parcul național și rezervor oferă priveliști superbe din interiorul cald al vehiculului.",
+            "en": "Rainy days in Kato Polemidia are best explored by car. We start dry in the historic centre and visit the Cultural Centre. Short walks from the car to Agios Nikolaos and Panagia Evangelistria churches minimize our time in the rain. A cozy lunch at a tavern with nearby parking is perfect. In the afternoon, the drive to the National Park and reservoir offers great views from the warmth of the car."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Historical Centre",
+              "tip_5lang": {
+                "de": "Parken Sie zentral, um die historischen Gebäude schnell zu erreichen.",
+                "hu": "Parkoljon a központban, hogy gyorsan elérje a történelmi épületeket.",
+                "ro": "Parcați central pentru a ajunge rapid la clădirile istorice.",
+                "en": "Park centrally to reach the historical buildings quickly."
+              }
+            },
+            {
+              "name": "Kato Polemidia Cultural Centre",
+              "tip_5lang": {
+                "de": "Es gibt Parkmöglichkeiten direkt vor dem Eingang für Regentage.",
+                "hu": "Közvetlenül a bejáratnál is van parkoló, ami esőben nagy előny.",
+                "ro": "Există locuri de parcare chiar în fața intrării, ideale pentru ploaie.",
+                "en": "There are parking spots right in front of the entrance for rainy days."
+              }
+            },
+            {
+              "name": "Agios Nikolaos Church",
+              "tip_5lang": {
+                "de": "Nutzen Sie den befestigten Parkplatz, um Schlamm zu vermeiden.",
+                "hu": "Használja a szilárd burkolatú parkolót, hogy elkerülje a sarat.",
+                "ro": "Folosiți parcarea asfaltată pentru a evita noroiul.",
+                "en": "Use the paved parking area to avoid getting muddy."
+              }
+            },
+            {
+              "name": "Cluster 2: Spiritual Heritage & Lunch",
+              "tip_5lang": {
+                "de": "Wählen Sie eine Taverne mit überdachtem Zugang vom Parkplatz.",
+                "hu": "Válasszon olyan tavernát, amelynek fedett bejárata van a parkolótól.",
+                "ro": "Alegeți o tavernă cu acces acoperit de la parcare.",
+                "en": "Choose a tavern with covered access from the parking area."
+              }
+            },
+            {
+              "name": "Panagia Evangelistria Church",
+              "tip_5lang": {
+                "de": "Kurzer Sprint vom Auto zum Kircheneingang bei starkem Guss.",
+                "hu": "Heves esőben csak egy rövid sprint az autó és a templomkapu.",
+                "ro": "Un sprint scurt de la mașină până la intrarea în biserică pe ploaie.",
+                "en": "A short sprint from the car to the church entrance during heavy rain."
+              }
+            },
+            {
+              "name": "Lunch at a Tavern",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den Regen durch die großen Fenster.",
+                "hu": "Élvezze az eső látványát a taverna nagy ablakain keresztül.",
+                "ro": "Bucurați-vă de priveliștea ploii prin ferestrele mari ale tavernei.",
+                "en": "Enjoy the view of the rain through the tavern's large windows."
+              }
+            },
+            {
+              "name": "Cluster 3: Nature & Recreation",
+              "tip_5lang": {
+                "de": "Die Fahrt am Stausee entlang ist auch bei Regen sehr beeindruckend.",
+                "hu": "A víztározó menti autózás esőben is lenyűgöző látványt nyújt.",
+                "ro": "Plimbarea cu mașina pe lângă rezervor este impresionantă și pe ploaie.",
+                "en": "Driving along the reservoir is very impressive even in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf den tiefer gelegenen Straßen.",
+              "Halten Sie einen Regenschirm im Auto für die Wege zwischen Parkplatz und Ziel bereit.",
+              "Die Scheiben können bei Feuchtigkeit schnell beschlagen – nutzen Sie die Klimaanlage.",
+              "Parken Sie im Nationalpark auf festem Untergrund.",
+              "Informieren Sie sich über eventuelle Straßensperrungen bei starkem Regen."
+            ],
+            "hu": [
+              "Vigyázzon a vízenfutásra az alacsonyabban fekvő útszakaszokon.",
+              "Tartson esernyőt az autóban a parkoló és a bejárat közötti szakaszokra.",
+              "A szélvédő esőben párásodhat, használja a légkondicionálót.",
+              "A nemzeti parkban csak szilárd talajon parkoljon.",
+              "Tájékozódjon az esetleges útlezárásokról heves esőzés esetén."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe porțiunile de drum mai joase.",
+              "Țineți o umbrelă în mașină pentru distanțele dintre parcare și obiective.",
+              "Geamurile se pot aburi rapid, folosiți aerul condiționat.",
+              "Parcați doar pe suprafețe dure în parcul național.",
+              "Informați-vă despre eventualele drumuri închise în caz de ploaie torențială."
+            ],
+            "en": [
+              "Watch out for aquaplaning on lower-lying road sections.",
+              "Keep an umbrella in the car for the walk between the parking and stops.",
+              "Windows can fog up quickly in the rain; use the air conditioning.",
+              "Park only on firm ground within the National Park.",
+              "Check for any road closures during or after heavy rainfall."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter bietet die Autotour durch Kato Polemidia maximale Flexibilität bei mildem Wetter. Wir erkunden das historische Zentrum und das Kulturzentrum ohne die Sommerhitze. Die Kirchenbesuche bei Agios Nikolaos und Panagia Evangelistria sind entspannt, da Parkplätze leicht zu finden sind. Ein Mittagessen in der Sonne auf einer Tavernenterasse ist im zyprischen Winter oft möglich. Der Nachmittag führt uns bequem zum Nationalpark und zum Stausee, wo wir den Sonnenuntergang im Warmen abwarten können.",
+            "hu": "Télen az autós túra Kato Polemidiában maximális rugalmasságot biztosít az enyhe időben. A történelmi központot és a Kulturális Központot a nyári hőség nélkül fedezhetjük fel. Az Agios Nikolaos és a Panagia Evangelistria templomoknál ilyenkor könnyű parkolót találni. Ebédnél gyakran még a teraszon is süttethetjük magunkat a nappal. Délután kényelmesen autózhatunk a nemzeti parkhoz és a víztározóhoz a naplementét várva.",
+            "ro": "Iarna, turul cu mașina prin Kato Polemidia oferă flexibilitate maximă pe o vreme blândă. Explorăm centrul istoric și Centrul Cultural fără disconfortul termic al verii. Vizitele la biserici sunt relaxate, parcările fiind ușor de găsit. Un prânz la soare pe terasa unei taverne este adesea posibil iarna în Cipru. După-amiaza ne duce confortabil spre parcul național și rezervor pentru un apus superb.",
+            "en": "In winter, a car tour through Kato Polemidia offers maximum flexibility in mild weather. We explore the historic centre and Cultural Centre without the summer heat. Visits to Agios Nikolaos and Panagia Evangelistria are relaxed, as parking is easy to find. Lunch in the sun on a tavern terrace is often possible in the Cypriot winter. The afternoon leads us comfortably to the National Park and reservoir to catch the sunset."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Historical Centre",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Nebensaison für stressfreies Parken im Zentrum.",
+                "hu": "Használja ki a holtszezont a stresszmentes parkoláshoz a központban.",
+                "ro": "Profitați de extrasezon pentru o parcare fără stres în centru.",
+                "en": "Take advantage of the off-season for stress-free parking in the centre."
+              }
+            },
+            {
+              "name": "Kato Polemidia Cultural Centre",
+              "tip_5lang": {
+                "de": "Das Auto bleibt in der Wintersonne angenehm kühl.",
+                "hu": "Az autó a téli napsütésben is kellemes hőmérsékletű marad.",
+                "ro": "Mașina rămâne la o temperatură plăcută în soarele de iarnă.",
+                "en": "The car stays at a comfortable temperature in the winter sun."
+              }
+            },
+            {
+              "name": "Agios Nikolaos Church",
+              "tip_5lang": {
+                "de": "Ein idealer Stopp, um die Winterlandschaft kurz zu genießen.",
+                "hu": "Ideális megálló a téli táj rövid megcsodálására.",
+                "ro": "O oprire ideală pentru a admira scurt peisajul de iarnă.",
+                "en": "An ideal stop to briefly enjoy the winter scenery."
+              }
+            },
+            {
+              "name": "Cluster 2: Spiritual Heritage & Lunch",
+              "tip_5lang": {
+                "de": "Tavernen mit Außenheizung sind im Winter besonders gemütlich.",
+                "hu": "A kültéri fűtéssel rendelkező tavernák télen nagyon hangulatosak.",
+                "ro": "Tavernele cu încălzire exterioară sunt foarte primitoare iarna.",
+                "en": "Taverns with outdoor heating are extra cozy in the winter."
+              }
+            },
+            {
+              "name": "Panagia Evangelistria Church",
+              "tip_5lang": {
+                "de": "Die Parkplätze sind im Winter oft direkt vor der Tür frei.",
+                "hu": "Télen a parkolók gyakran közvetlenül a kapu előtt is szabadok.",
+                "ro": "Parcările sunt adesea libere chiar în fața porții în timpul iernii.",
+                "en": "Parking spots are often available right in front of the door in winter."
+              }
+            },
+            {
+              "name": "Lunch at a Tavern",
+              "tip_5lang": {
+                "de": "Suchen Sie sich einen Platz an einem sonnigen Fenster.",
+                "hu": "Keressen egy asztalt az egyik napsütötte ablak mellett.",
+                "ro": "Căutați o masă lângă o fereastră însorită.",
+                "en": "Find a table by a sunny window for a bright lunch experience."
+              }
+            },
+            {
+              "name": "Cluster 3: Nature & Recreation",
+              "tip_5lang": {
+                "de": "Die Zufahrtswege zum Nationalpark sind im Winter gut befahrbar.",
+                "hu": "A nemzeti parkhoz vezető utak télen is jól járhatóak.",
+                "ro": "Drumurile de acces spre parcul național sunt bune și iarna.",
+                "en": "The access roads to the National Park are in good condition in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Reifendruck, da dieser bei Kälte sinken kann.",
+              "Die Wintersonne kann beim Fahren tief stehen und blenden.",
+              "Nutzen Sie die Sitzheizung für zusätzlichen Komfort am Morgen.",
+              "Parken Sie so, dass Sie den Sonnenuntergang vom Auto aus sehen können.",
+              "Lassen Sie keine Wertsachen sichtbar im Auto liegen."
+            ],
+            "hu": [
+              "Ellenőrizze a guminyomást, mert hidegben lecsökkenhet.",
+              "A téli nap alacsonyan jár, vezetés közben vakíthat.",
+              "Használja az ülésfűtést a reggeli hűvösben a nagyobb kényelemért.",
+              "Úgy parkoljon, hogy az autóból is láthassa a naplementét.",
+              "Ne hagyjon értéktárgyat látható helyen az autóban."
+            ],
+            "ro": [
+              "Verificați presiunea în pneuri, deoarece poate scădea la frig.",
+              "Soarele de iarnă este jos și poate fi orbitor la volan.",
+              "Folosiți încălzirea în scaune pentru un plus de confort dimineața.",
+              "Parcați astfel încât să puteți vedea apusul din mașină.",
+              "Nu lăsați obiecte de valoare la vedere în interiorul mașinii."
+            ],
+            "en": [
+              "Check tire pressure, as it can drop in colder temperatures.",
+              "The winter sun is low and can be dazzling while driving.",
+              "Use seat heating for extra comfort during chilly mornings.",
+              "Park in a way that allows you to watch the sunset from the car.",
+              "Do not leave any valuables visible inside the vehicle."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1382,6 +1988,196 @@
           "Check the bus schedule in advance, especially for the last return trip.",
           "Have small change ready for tickets bought on the bus."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus durch Kato Polemidia zu reisen, schont Nerven und Kleidung bei Regen. Wir starten im Stadtzentrum und erreichen bequem das Kulturzentrum. Die Busfahrt zur Panagia Evangelistria Kirche bietet Ausblicke auf die regennassen Straßen. Ein langes Mittagessen lässt die stärksten Schauer vorüberziehen. Der Nachmittag im Nationalpark und am Stausee erfordert zwar kurze Fußwege von den Haltestellen, belohnt aber mit frischer Luft und dramatischen Wolkenbildern.",
+            "hu": "Busszal utazni Kato Polemidiában esőben a legpraktikusabb választás. A városközpontból indulva kényelmesen elérjük a Kulturális Központot. A Panagia Evangelistria templom felé tartó buszút során rálátunk a vizes utcákra. Egy hosszú ebéd alatt kivárjuk a nagyobb záporokat. A nemzeti park és a víztározó felé tett délutáni kirándulás némi sétát igényel a megállótól, de a friss levegő és a drámai felhők kárpótolnak.",
+            "ro": "Călătoria cu autobuzul prin Kato Polemidia ne ferește de ploaie și efort. Pornim din centrul orașului și ajungem confortabil la Centrul Cultural. Drumul spre biserica Panagia Evangelistria oferă o perspectivă asupra străzilor ude. Un prânz lung ne ajută să evităm averselor puternice. După-amiaza la parcul național și rezervor implică scurte plimbări de la stație, dar aerul proaspăt și norii dramatici merită efortul.",
+            "en": "Traveling by bus through Kato Polemidia keeps you dry and relaxed during the rain. We start in the city centre and easily reach the Cultural Centre. The bus ride to Panagia Evangelistria Church offers views of the rain-slicked streets. A long lunch helps us wait out the heaviest showers. The afternoon at the National Park and reservoir requires short walks from the stops, but the fresh air and dramatic clouds are rewarding."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: City Centre",
+              "tip_5lang": {
+                "de": "Zentraler Umsteigepunkt mit vielen überdachten Haltestellen.",
+                "hu": "Központi csomópont számos fedett buszmegállóval.",
+                "ro": "Punct central de transfer cu multe stații de autobuz acoperite.",
+                "en": "Central transfer point with many covered bus shelters."
+              }
+            },
+            {
+              "name": "Kato Polemidia Cultural Centre",
+              "tip_5lang": {
+                "de": "Die Haltestelle befindet sich in unmittelbarer Nähe zum Eingang.",
+                "hu": "A buszmegálló közvetlenül a bejárat közelében található.",
+                "ro": "Stația de autobuz se află în imediata apropiere a intrării.",
+                "en": "The bus stop is located very close to the main entrance."
+              }
+            },
+            {
+              "name": "Panagia Evangelistria Church",
+              "tip_5lang": {
+                "de": "Nutzen Sie die App, um die Wartezeit im Regen zu minimieren.",
+                "hu": "Használja az alkalmazást, hogy minél kevesebbet kelljen várnia az esőben.",
+                "ro": "Folosiți aplicația pentru a minimiza timpul de așteptare în ploaie.",
+                "en": "Use the transit app to minimize waiting time in the rain."
+              }
+            },
+            {
+              "name": "Lunch",
+              "tip_5lang": {
+                "de": "Viele Restaurants liegen direkt an den Hauptbuslinien.",
+                "hu": "Számos étterem közvetlenül a fő buszvonalak mentén található.",
+                "ro": "Multe restaurante sunt situate direct pe liniile principale de autobuz.",
+                "en": "Many restaurants are located directly along the main bus lines."
+              }
+            },
+            {
+              "name": "Cluster 2: Nature Park",
+              "tip_5lang": {
+                "de": "Ein kleiner Regenschirm ist für den Weg von der Haltestelle wichtig.",
+                "hu": "Egy kisméretű esernyő elengedhetetlen a megállótól való sétához.",
+                "ro": "O umbrelă mică este esențială pentru drumul de la stație.",
+                "en": "A small umbrella is essential for the walk from the bus stop."
+              }
+            },
+            {
+              "name": "Polemidia Reservoir",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Rückfahrzeiten, da Busse im Regen seltener fahren können.",
+                "hu": "Ellenőrizze a visszautat, esőben ritkulhatnak a járatok.",
+                "ro": "Verificați orarul de întoarcere; autobuzele pot avea întârzieri pe ploaie.",
+                "en": "Check return times as buses might be less frequent during heavy rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie Ihr Ticket vorab online oder halten Sie Kleingeld bereit.",
+              "Busse können bei starkem Regen aufgrund des Verkehrs Verspätung haben.",
+              "Tragen Sie wasserfeste Schuhe für die Wege zwischen den Haltestellen.",
+              "Die vorderen Plätze im Bus bieten die beste Sicht bei Regen.",
+              "Nutzen Sie die Google Maps Integration für Echtzeit-Busdaten."
+            ],
+            "hu": [
+              "Váltsa meg jegyét előre online, vagy készítsen ki aprópénzt.",
+              "Heves esőben a buszok a forgalom miatt késhetnek.",
+              "Viseljen vízálló cipőt a megállók közötti gyalogláshoz.",
+              "A busz első ülései kínálják a legjobb kilátást esős időben.",
+              "Használja a Google Maps-et a buszok valós idejű követéséhez."
+            ],
+            "ro": [
+              "Cumpărați biletul online sau aveți bani mărunti pregătiți.",
+              "Autobuzele pot avea întârzieri pe ploaie din cauza traficului intens.",
+              "Purtați încălțăminte impermeabilă pentru distanțele dintre stații.",
+              "Locurile din față ale autobuzului oferă cea mai bună vizibilitate pe ploaie.",
+              "Folosiți integrarea Google Maps pentru date în timp real despre autobuze."
+            ],
+            "en": [
+              "Buy your ticket online in advance or have exact change ready.",
+              "Buses may be delayed during heavy rain due to increased traffic.",
+              "Wear waterproof shoes for the walking sections between stops.",
+              "Front seats on the bus offer the best views during rainy weather.",
+              "Use Google Maps integration for real-time bus tracking data."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Busreise durch Kato Polemidia ist entspannt und bietet authentische Einblicke in das lokale Leben. Vom Stadtzentrum geht es zum Kulturzentrum, wo wir die zyprische Geschichte entdecken. Die Fahrt zur Panagia Evangelistria Kirche ist kurz und angenehm temperiert. Nach einem wärmenden Mittagessen führt uns der Bus zum Nationalpark. Die milden Wintertemperaturen laden zu einem Spaziergang zum Stausee ein, bevor wir den letzten Bus vor der frühen Dunkelheit nehmen.",
+            "hu": "A téli buszos utazás Kato Polemidiában nyugodt, és hiteles betekintést nyújt a helyi életbe. A városközpontból indulunk a Kulturális Központba, hogy felfedezzük a ciprusi történelmet. Az út a Panagia Evangelistria templomhoz rövid és kellemes hőmérsékletű. Egy melengető ebéd után a busz a nemzeti parkhoz visz minket. Az enyhe téli idő ideális egy sétára a víztározóig, mielőtt elérnénk az utolsó buszt a sötétedés előtt.",
+            "ro": "Călătoria cu autobuzul iarna prin Kato Polemidia este relaxată și oferă o imagine autentică a vieții locale. Din centru mergem la Centrul Cultural pentru a descoperi istoria cipriotă. Drumul spre biserica Panagia Evangelistria este scurt și plăcut. După un prânz cald, autobuzul ne duce spre parcul național. Temperaturile blânde de iarnă sunt ideale pentru o plimbare spre rezervor înainte de ultimul autobuz.",
+            "en": "A winter bus trip through Kato Polemidia is relaxed and offers authentic insights into local life. From the city centre, we head to the Cultural Centre to discover Cypriot history. The ride to Panagia Evangelistria Church is short and comfortable. After a warming lunch, the bus takes us to the National Park. Mild winter temperatures are perfect for a walk to the reservoir before catching the last bus before dark."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: City Centre",
+              "tip_5lang": {
+                "de": "Im Winter sind die Busse weniger voll als in der Hochsaison.",
+                "hu": "Télen a buszok kevésbé zsúfoltak, mint a főszezonban.",
+                "ro": "Iarna autobuzele sunt mai puțin aglomerate decât în plin sezon.",
+                "en": "Buses are generally less crowded in winter than during peak season."
+              }
+            },
+            {
+              "name": "Kato Polemidia Cultural Centre",
+              "tip_5lang": {
+                "de": "Ein gut geheizter Ort, um zwischen den Busfahrten zu verweilen.",
+                "hu": "Jól fűtött helyszín, ahol kellemes várakozni a buszok között.",
+                "ro": "Un loc bine încălzit unde puteți petrece timpul între autobuze.",
+                "en": "A well-heated location to spend time between bus rides."
+              }
+            },
+            {
+              "name": "Panagia Evangelistria Church",
+              "tip_5lang": {
+                "de": "Die Haltestelle bietet im Winter oft Schutz vor kühlem Wind.",
+                "hu": "A megálló télen gyakran nyújt szélvédett helyet a várakozáshoz.",
+                "ro": "Stația oferă adesea protecție împotriva vântului rece de iarnă.",
+                "en": "The bus stop often provides shelter from chilly winter winds."
+              }
+            },
+            {
+              "name": "Lunch",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant in der Nähe einer beleuchteten Haltestelle.",
+                "hu": "Válasszon éttermet egy jól kivilágított buszmegálló közelében.",
+                "ro": "Alegeți un restaurant aproape de o stație de autobuz bine luminată.",
+                "en": "Choose a restaurant near a well-lit bus stop for the evening."
+              }
+            },
+            {
+              "name": "Cluster 2: Nature Park",
+              "tip_5lang": {
+                "de": "Die Busse fahren im Winter nach einem leicht geänderten Fahrplan.",
+                "hu": "A buszok télen némileg módosított menetrend szerint közlekedhetnek.",
+                "ro": "Autobuzele pot circula după un orar ușor modificat în timpul iernii.",
+                "en": "Buses may operate on a slightly different schedule during winter."
+              }
+            },
+            {
+              "name": "Polemidia Reservoir",
+              "tip_5lang": {
+                "de": "Planen Sie die Rückfahrt vor 17:00 Uhr, um im Hellen anzukommen.",
+                "hu": "Tervezze a visszautat délután 5 előtt, hogy még világosban érkezzen.",
+                "ro": "Planificați întoarcerea înainte de ora 17:00 pentru a ajunge pe lumină.",
+                "en": "Plan your return before 5:00 PM to arrive while it's still light."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Winterfahrplan der Cyprus by Bus App.",
+              "In den Bussen ist es im Winter meist angenehm warm klimatisiert.",
+              "Halten Sie Ausschau nach Kombitickets für Touristen.",
+              "Die Haltestellen in der Nähe der Naturparks sind im Winter ruhiger.",
+              "Nehmen Sie für die Wartezeiten am Abend eine Jacke mit."
+            ],
+            "hu": [
+              "Ellenőrizze a téli menetrendet a Cyprus by Bus alkalmazásban.",
+              "A buszokon télen általában kellemes meleg van.",
+              "Keressen turisták számára kínált gyűjtőjegyeket vagy bérleteket.",
+              "A természetközeli megállók télen sokkal csendesebbek.",
+              "Az esti várakozáshoz mindenképpen legyen önnél meleg kabát."
+            ],
+            "ro": [
+              "Verificați orarul de iarnă în aplicația Cyprus by Bus.",
+              "În autobuze este de obicei o temperatură plăcută în timpul iernii.",
+              "Căutați bilete de tip abonament pentru turiști.",
+              "Stațiile de lângă parcurile naturale sunt mult mai liniștite iarna.",
+              "Aveți o jachetă la îndemână pentru timpul de așteptare seara."
+            ],
+            "en": [
+              "Check the winter schedule using the Cyprus by Bus app.",
+              "Buses are usually comfortably climate-controlled in winter.",
+              "Look for multi-trip or tourist passes for better value.",
+              "Stops near the nature parks are much quieter during the winter.",
+              "Carry a jacket for the potentially chilly wait times in the evening."
+            ]
+          }
+        }
       }
     }
   }

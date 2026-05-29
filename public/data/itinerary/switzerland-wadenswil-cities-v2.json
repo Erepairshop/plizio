@@ -356,6 +356,188 @@
           "Binoculars are useful for bird watching on the lake shore.",
           "Bring swimwear on sunny days."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt unter dem schützenden Dach der reformierten Kirche, wo die barocke Pracht den Regen vergessen lässt. Mittags suchen wir Zuflucht im historischen Gessnerhaus und dem Schlossareal, während die Wolken tief über dem Zürichsee hängen. Der Nachmittag am Seeufer ist mystisch und ruhig, perfekt für einen windgeschützten Spaziergang. Wir beenden den Tag gemütlich im Weinbauzentrum bei einem Glas lokalem Wein.",
+            "hu": "A napot a református templom védelmében kezdjük, ahol a barokk belső tér elfeledteti a kinti esőt. Délben a Gessner-ház és a kastély nyújt menedéket, miközben a felhők mélyen a Zürichi-tó fölé ereszkednek. A délutáni séta a tóparton misztikus és csendes, a szürke víztükör különleges látvány. A napot a Borászati Központban zárjuk, egy pohár helyi bor társaságában, fedett helyen.",
+            "ro": "Ziua începe sub protecția bisericii reformate, unde interiorul baroc ne face să uităm de ploaie. La prânz, căutăm adăpost în Casa Gessner și la castel, în timp ce norii plutesc jos peste Lacul Zürich. După-amiaza pe malul lacului este mistică și liniștită, oferind un peisaj gri spectaculos. Încheiem ziua confortabil la Centrul de Viticultură, savurând un pahar de vin local într-un cadru protejat.",
+            "en": "The day begins under the shelter of the Reformed Church, where the baroque interior helps forget the rain. At noon, we find refuge in the Gessner House and the castle area as clouds hang low over Lake Zurich. The afternoon walk along the shore is mystical and quiet, offering a unique atmosphere. We conclude the day warmly at the Winegrowing Center with a glass of local wine in a cozy indoor setting."
+          },
+          "stops": [
+            {
+              "name": "Wädenswil Reformed Church",
+              "tip_5lang": {
+                "de": "Perfekter trockener Start; bewundern Sie die Akustik.",
+                "hu": "Tökéletes száraz kezdés; csodálja meg az akusztikát.",
+                "ro": "Un început perfect uscat; admirați acustica.",
+                "en": "Perfect dry start; admire the acoustics."
+              }
+            },
+            {
+              "name": "Gessner House",
+              "tip_5lang": {
+                "de": "Die historischen Mauern bieten Schutz vor dem Wind.",
+                "hu": "A történelmi falak védelmet nyújtanak a szél ellen.",
+                "ro": "Zidurile istorice oferă protecție împotriva vântului.",
+                "en": "The historical walls provide protection from the wind."
+              }
+            },
+            {
+              "name": "Wädenswil Castle",
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Bereiche im Schlosshof.",
+                "hu": "Használja a kastélyudvar fedett részeit.",
+                "ro": "Folosiți zonele acoperite din curtea castelului.",
+                "en": "Use the covered areas in the castle courtyard."
+              }
+            },
+            {
+              "name": "Lunch by the Lake",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit direktem Seeblick.",
+                "hu": "Válasszon éttermet közvetlen tóparti kilátással.",
+                "ro": "Alegeți un restaurant cu vedere directă la lac.",
+                "en": "Choose a restaurant with a direct lake view."
+              }
+            },
+            {
+              "name": "Lake Zurich Shore",
+              "tip_5lang": {
+                "de": "Ein fester Regenschirm ist bei Seebrisen unerlässlich.",
+                "hu": "A tavi szélben egy erős esernyő elengedhetetlen.",
+                "ro": "O umbrelă rezistentă este esențială pentru briza lacului.",
+                "en": "A sturdy umbrella is essential for lake breezes."
+              }
+            },
+            {
+              "name": "Wädenswil Winegrowing Center",
+              "tip_5lang": {
+                "de": "Idealer Ort, um die Wanderung im Trockenen zu beenden.",
+                "hu": "Ideális hely a túra szárazon történő befejezéséhez.",
+                "ro": "Locul ideal pentru a termina drumeția la adăpost.",
+                "en": "Ideal place to end the hike in the dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Unterführungen am Bahnhof als Regenschutz.",
+              "Wasserdichte Schuhe sind für die Uferwege wichtig.",
+              "Die Museen in der Nähe bieten gute Indoor-Alternativen.",
+              "Lokale Cafés sind ideal für kurze Aufwärmpausen."
+            ],
+            "hu": [
+              "Használja az aluljárókat a vasútállomásnál eső ellen.",
+              "A vízálló cipő fontos a parti sétányokon.",
+              "A közeli múzeumok jó beltéri alternatívát kínálnak.",
+              "A helyi kávézók ideálisak rövid melegedő szünetekre."
+            ],
+            "ro": [
+              "Folosiți pasajele subterane de la gară împotriva ploii.",
+              "Încălțămintea impermeabilă este importantă pentru faleză.",
+              "Muzeele din apropiere oferă alternative bune de interior.",
+              "Cafenelele locale sunt ideale pentru scurte pauze de încălzire."
+            ],
+            "en": [
+              "Use the underpasses at the station as rain cover.",
+              "Waterproof shoes are important for the shore paths.",
+              "Nearby museums offer good indoor alternatives.",
+              "Local cafes are ideal for short warming breaks."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die klare Winterluft am Morgen macht den Besuch der reformierten Kirche besonders besinnlich. Mittags spazieren wir durch das verschneite Wädenswil zum Schloss, wo die Aussicht auf die Alpen grandios ist. Der Nachmittag am Seeufer bietet eine kühle Brise und oft mystischen Nebel über dem Wasser. Wir wärmen uns zum Abschluss im Weinbauzentrum mit regionalen Spezialitäten auf, bevor die frühe Dunkelheit einsetzt.",
+            "hu": "A friss téli reggeli levegő különösen áhítatossá teszi a református templom látogatását. Délben a havas Wädenswilen át sétálunk a kastélyhoz, ahonnan fenséges kilátás nyílik az Alpokra. A délutáni tóparti séta hűvös szellőt és gyakran misztikus ködöt hoz a víz fölé. A nap végén a Borászati Központban melegszünk fel helyi különlegességekkel, még a korai sötétedés előtt.",
+            "ro": "Aerul proaspăt de iarnă face vizita la biserica reformată deosebit de liniștită. La prânz, ne plimbăm prin Wädenswilul înzăpezit spre castel, de unde panorama Alpilor este grandioasă. După-amiaza pe malul lacului aduce o briză rece și adesea o ceață mistică peste apă. Ne încălzim la final la Centrul de Viticultură cu specialități regionale, înainte de lăsarea serii timpurii.",
+            "en": "The crisp winter air in the morning makes the visit to the Reformed Church particularly peaceful. At noon, we walk through snowy Wädenswil to the castle, where the view of the Alps is grand. The afternoon shore walk offers a cool breeze and often mystical fog over the water. We warm up at the end at the Winegrowing Center with regional specialties before the early darkness sets in."
+          },
+          "stops": [
+            {
+              "name": "Wädenswil Reformed Church",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe im beheizten Innenraum.",
+                "hu": "Élvezze a csendet a fűtött belső térben.",
+                "ro": "Bucurați-vă de liniște în interiorul încălzit.",
+                "en": "Enjoy the silence in the heated interior."
+              }
+            },
+            {
+              "name": "Gessner House",
+              "tip_5lang": {
+                "de": "Die Fassade wirkt im Winterlicht besonders edel.",
+                "hu": "A homlokzat téli fényben különösen elegáns.",
+                "ro": "Fațada arată deosebit de elegant în lumina iernii.",
+                "en": "The facade looks particularly elegant in winter light."
+              }
+            },
+            {
+              "name": "Wädenswil Castle",
+              "tip_5lang": {
+                "de": "Achtung, die gepflasterten Wege können glatt sein.",
+                "hu": "Vigyázat, a kövezett utak csúszósak lehetnek.",
+                "ro": "Atenție, potecile pietruite pot fi alunecoase.",
+                "en": "Caution, the paved paths can be slippery."
+              }
+            },
+            {
+              "name": "Lunch by the Lake",
+              "tip_5lang": {
+                "de": "Fragen Sie nach saisonalen Wintersuppen.",
+                "hu": "Kérdezzen rá a szezonális téli levesekre.",
+                "ro": "Întrebați de supele sezoniere de iarnă.",
+                "en": "Ask for seasonal winter soups."
+              }
+            },
+            {
+              "name": "Lake Zurich Shore",
+              "tip_5lang": {
+                "de": "Warme Handschuhe für das Fotografieren einpacken.",
+                "hu": "Csomagoljon meleg kesztyűt a fotózáshoz.",
+                "ro": "Pregătiți mănuși groase pentru fotografiere.",
+                "en": "Pack warm gloves for taking photos."
+              }
+            },
+            {
+              "name": "Wädenswil Winegrowing Center",
+              "tip_5lang": {
+                "de": "Ein Glas Rotwein wärmt nach dem Strandgang auf.",
+                "hu": "Egy pohár vörösbor átmelegít a parti séta után.",
+                "ro": "Un pahar de vin roșu vă va încălzi după faleză.",
+                "en": "A glass of red wine warms you up after the shore walk."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Sonnenuntergang ist im Winter bereits gegen 16:30 Uhr.",
+              "Zwiebelprinzip bei der Kleidung schützt vor dem Wind.",
+              "Heißer Tee in der Thermoskanne hält unterwegs warm.",
+              "Der Boden am Seeufer kann gefroren und rutschig sein."
+            ],
+            "hu": [
+              "Télen a naplemente már 16:30 körül bekövetkezik.",
+              "A réteges öltözködés véd a tavi szél ellen.",
+              "A termoszos forró tea melegen tart útközben.",
+              "A tóparti talaj fagyott és csúszós lehet."
+            ],
+            "ro": [
+              "Apusul de soare în iarnă este deja în jurul orei 16:30.",
+              "Îmbrăcămintea în straturi protejează împotriva vântului.",
+              "Ceaiul fierbinte la termos vă ține de cald pe drum.",
+              "Solul de pe malul lacului poate fi înghețat și alunecos."
+            ],
+            "en": [
+              "Sunset in winter is already around 4:30 PM.",
+              "Layered clothing protects against the lake wind.",
+              "Hot tea in a thermos keeps you warm on the go.",
+              "The ground by the lake can be frozen and slippery."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -706,6 +888,188 @@
           "A helmet is highly recommended.",
           "Respect the paths and nature, especially on the Au Peninsula."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen bietet die Radtour entlang des Zürichsees eine dynamische Atmosphäre. Wir starten am Bahnhof und radeln zügig zum Schloss, wobei der Asphalt griffig bleibt. Mittags führt die Route zur Halbinsel Au, wo der Wald zusätzlichen Schutz bietet. Die Rückfahrt führt uns durch das Weinbauzentrum, wo wir uns vor der letzten Etappe kurz unterstellen können. Ein Tag für echte Radsportler, die das Element Wasser lieben.",
+            "hu": "Az eső ellenére a Zürichi-tó menti kerékpártúra dinamikus élményt nyújt. A vasútállomástól indulunk, és tempósan tekerünk a kastélyig a jól tapadó aszfalton. Délben az Au-félsziget felé vesszük az irányt, ahol az erdő extra védelmet nyújt. Visszafelé a Borászati Központon haladunk át, ahol az utolsó szakasz előtt megpihenhetünk. Ez a nap az igazi bringásoknak szól, akik szeretik a vizet.",
+            "ro": "În ciuda ploii, turul cu bicicleta de-a lungul Lacului Zürich oferă o atmosferă dinamică. Pornim de la gară și pedalăm rapid spre castel, asfaltul rămânând aderent. La prânz, ruta duce spre Peninsula Au, unde pădurea oferă protecție suplimentară. La întoarcere trecem prin Centrul de Viticultură, unde ne putem adăposti scurt. O zi pentru bicicliștii adevărați care iubesc elementul apă.",
+            "en": "Despite the rain, the bike tour along Lake Zurich offers a dynamic atmosphere. We start at the station and cycle briskly to the castle, with the asphalt remaining grippy. At noon, the route leads to the Au Peninsula, where the forest provides extra shelter. The return trip takes us through the Winegrowing Center, where we can briefly take cover. A day for true cyclists who love the water element."
+          },
+          "stops": [
+            {
+              "name": "Start: Wädenswil Train Station",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor der Abfahrt im Regen.",
+                "hu": "Ellenőrizze a fékeit az esőben való indulás előtt.",
+                "ro": "Verificați frânele înainte de plecarea prin ploaie.",
+                "en": "Check your brakes before departing in the rain."
+              }
+            },
+            {
+              "name": "Wädenswil Castle",
+              "tip_5lang": {
+                "de": "Kurzer Stopp unter den Arkaden zum Verschnaufen.",
+                "hu": "Rövid megálló az árkádok alatt pihenésképpen.",
+                "ro": "Scurtă oprire sub arcade pentru odihnă.",
+                "en": "Short stop under the arches for a breather."
+              }
+            },
+            {
+              "name": "Ride along the Lake Zurich Shore",
+              "tip_5lang": {
+                "de": "Schutzbleche sind heute Ihr bester Freund.",
+                "hu": "A sárvédő ma a legjobb barátja lesz.",
+                "ro": "Aripile de protecție sunt astăzi cel mai bun prieten.",
+                "en": "Mudguards are your best friend today."
+              }
+            },
+            {
+              "name": "Au Peninsula",
+              "tip_5lang": {
+                "de": "Die Bäume fangen den schlimmsten Regen ab.",
+                "hu": "A fák felfogják az eső nagy részét.",
+                "ro": "Copacii opresc cea mai mare parte a ploii.",
+                "en": "The trees catch the worst of the rain."
+              }
+            },
+            {
+              "name": "Wädenswil Winegrowing Center",
+              "tip_5lang": {
+                "de": "Überdachte Fahrradständer sind hier vorhanden.",
+                "hu": "Itt fedett kerékpártárolók állnak rendelkezésre.",
+                "ro": "Aici sunt disponibile rastele de biciclete acoperite.",
+                "en": "Covered bike racks are available here."
+              }
+            },
+            {
+              "name": "Return and Wind Down",
+              "tip_5lang": {
+                "de": "Ein heißes Getränk im Bahnhofscafé belohnt Sie.",
+                "hu": "Egy forró ital a vasúti kávézóban a jutalma.",
+                "ro": "O băutură caldă la cafeneaua gării este recompensa.",
+                "en": "A hot drink at the station cafe is your reward."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine vollflächige Regenjacke und Regenhose.",
+              "Vermeiden Sie metallische Oberflächen bei Nässe.",
+              "Die Sicht kann durch Gischt und Regen eingeschränkt sein.",
+              "Fahren Sie in Kurven besonders vorsichtig."
+            ],
+            "hu": [
+              "Viseljen teljes esődzsekit és esőnadrágot.",
+              "Kerülje a fémfelületeket vizes időben.",
+              "A látási viszonyok korlátozottak lehetnek a permet miatt.",
+              "Kanyarodáskor legyen különösen óvatos."
+            ],
+            "ro": [
+              "Purtați o jachetă și pantaloni de ploaie complet impermeabili.",
+              "Evitați suprafețele metalice pe timp de ploaie.",
+              "Vizibilitatea poate fi redusă din cauza stropilor.",
+              "Luați curbele cu prudență sporită."
+            ],
+            "en": [
+              "Wear a full rain jacket and rain pants.",
+              "Avoid metallic surfaces when wet.",
+              "Visibility can be limited by spray and rain.",
+              "Be extra careful when cornering."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Radtour führt durch eine glitzernde Landschaft. Von Wädenswil aus geht es am kalten Seeufer entlang, wobei die Bewegung warm hält. Mittags erreichen wir die Halbinsel Au, die im Winter eine besondere Stille ausstrahlt. Nach einem Besuch im Weinbauzentrum kehren wir rechtzeitig zurück, bevor die Temperaturen am späten Nachmittag stark sinken. Ein erfrischendes Erlebnis für konditionsstarke Fahrer.",
+            "hu": "A téli kerékpártúra csillogó tájakon vezet keresztül. Wädenswiltől a hideg tópart mentén haladunk, ahol a mozgás tart melegen. Délben érjük el az Au-félszigetet, amely télen különleges csendet áraszt. A Borászati Központ meglátogatása után időben visszatérünk, még mielőtt a hőmérséklet késő délután hirtelen leesne. Frissítő élmény edzett bringásoknak.",
+            "ro": "Turul cu bicicleta de iarnă trece printr-un peisaj sclipitor. De la Wädenswil mergem pe malul rece al lacului, mișcarea menținându-ne calzi. La prânz ajungem în Peninsula Au, care iarna emană o liniște aparte. După o vizită la Centrul de Viticultură, ne întoarcem la timp, înainte ca temperaturile să scadă brusc după-amiaza. O experiență revigorantă pentru bicicliștii antrenați.",
+            "en": "The winter bike tour leads through a sparkling landscape. From Wädenswil, we ride along the cold lake shore, where the movement keeps us warm. At noon, we reach the Au Peninsula, which exudes a special silence in winter. After a visit to the Winegrowing Center, we return in time before temperatures drop sharply in the late afternoon. A refreshing experience for fit riders."
+          },
+          "stops": [
+            {
+              "name": "Start: Wädenswil Train Station",
+              "tip_5lang": {
+                "de": "Warmes Aufwärmen vor dem Start ist wichtig.",
+                "hu": "Fontos a bemelegítés az indulás előtt.",
+                "ro": "Încălzirea înainte de start este importantă.",
+                "en": "Warming up before starting is important."
+              }
+            },
+            {
+              "name": "Wädenswil Castle",
+              "tip_5lang": {
+                "de": "Der Blick auf die verschneiten Berge lohnt sich.",
+                "hu": "Megéri a kilátás a havas hegyekre.",
+                "ro": "Vederea spre munții înzăpeziți merită efortul.",
+                "en": "The view of the snowy mountains is worth it."
+              }
+            },
+            {
+              "name": "Ride along the Lake Zurich Shore",
+              "tip_5lang": {
+                "de": "Tragen Sie ein Tuch vor Mund und Nase.",
+                "hu": "Viseljen sálat a szája és orra előtt.",
+                "ro": "Purtați un fular peste gură și nas.",
+                "en": "Wear a buff over your mouth and nose."
+              }
+            },
+            {
+              "name": "Au Peninsula",
+              "tip_5lang": {
+                "de": "Wanderwege können eisig sein; auf Asphalt bleiben.",
+                "hu": "Az utak jegesek lehetnek; maradjon az aszfalton.",
+                "ro": "Potecile pot fi înghețate; rămâneți pe asfalt.",
+                "en": "Paths can be icy; stay on the asphalt."
+              }
+            },
+            {
+              "name": "Wädenswil Winegrowing Center",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp zum Hände aufwärmen.",
+                "hu": "Rövid megálló a kezek felmelegítésére.",
+                "ro": "O scurtă oprire pentru a vă încălzi mâinile.",
+                "en": "A short stop to warm up your hands."
+              }
+            },
+            {
+              "name": "Return and Wind Down",
+              "tip_5lang": {
+                "de": "Achten Sie auf das Licht; es wird früh dunkel.",
+                "hu": "Ügyeljen a lámpákra; korán sötétedik.",
+                "ro": "Atenție la lumini; se întunecă devreme.",
+                "en": "Watch the lights; it gets dark early."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Thermo-Radbekleidung ist absolut notwendig.",
+              "Reifendruck leicht senken für mehr Grip auf Eis.",
+              "Lichtanlage vor der Fahrt auf Funktion prüfen.",
+              "Die Akkulaufzeit von E-Bikes ist im Winter geringer."
+            ],
+            "hu": [
+              "A termo-kerékpáros ruházat elengedhetetlen.",
+              "Kissé csökkentse a guminyomást a jobb tapadásért.",
+              "Indulás előtt ellenőrizze a világítást.",
+              "Az e-bike-ok akkumulátora télen gyorsabban merül."
+            ],
+            "ro": [
+              "Echipamentul termic de ciclism este absolut necesar.",
+              "Reduceți ușor presiunea în pneuri pentru aderență.",
+              "Verificați funcționarea luminilor înainte de drum.",
+              "Autonomia bateriei la e-bike este mai mică iarna."
+            ],
+            "en": [
+              "Thermal cycling gear is absolutely necessary.",
+              "Slightly lower tire pressure for better grip on ice.",
+              "Check lighting system before the ride.",
+              "E-bike battery life is shorter in winter."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1086,6 +1450,206 @@
           "Always have some cash with you for small purchases at farms.",
           "Download offline maps, as reception can be weak in rural areas."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regnerische Tage sind ideal, um Wädenswil und die Umgebung bequem mit dem Auto zu erkunden. Wir starten im Stadtzentrum und besuchen die Sehenswürdigkeiten fast trocken. Die Fahrt zur Halbinsel Au bietet tolle Ausblicke durch die Scheibe, während wir für den Lunch nur kurz ins Freie müssen. Den Nachmittag verbringen wir auf dem Wädenswiler Berg, wo wir bei Regenschauern im Auto den Blick über den vernebelten See genießen.",
+            "hu": "Az esős napok ideálisak Wädenswil és környéke kényelmes, autós felfedezéséhez. A városközpontból indulunk, és szinte szárazon látogatjuk meg a látnivalókat. Az Au-félszigetre vezető út nagyszerű kilátást nyújt az ablakon keresztül, az ebédhez pedig csak rövid ideig kell a szabadban lennünk. A délutánt a Wädenswiler Berg-en töltjük, ahol az autóban ülve élvezzük a ködös tó látványát.",
+            "ro": "Zilele ploioase sunt ideale pentru a explora Wädenswil și împrejurimile confortabil cu mașina. Pornim din centrul orașului și vizităm obiectivele aproape uscați. Drumul spre Peninsula Au oferă priveliști superbe prin parbriz, iar pentru prânz trebuie să ieșim doar scurt afară. După-amiaza o petrecem pe Wädenswiler Berg, bucurându-ne de vederea lacului cețos din mașină.",
+            "en": "Rainy days are ideal for exploring Wädenswil and the surroundings comfortably by car. We start in the city center and visit the sights almost dry. The drive to the Au Peninsula offers great views through the window, and we only need to step outside briefly for lunch. We spend the afternoon on Wädenswiler Berg, enjoying the view of the misty lake from the car during rain showers."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Park in the City Center",
+              "tip_5lang": {
+                "de": "Nutzen Sie Parkhäuser, um trocken auszusteigen.",
+                "hu": "Használja a parkolóházakat a száraz kiszálláshoz.",
+                "ro": "Folosiți parcările etajate pentru a coborî uscați.",
+                "en": "Use parking garages to get out dry."
+              }
+            },
+            {
+              "name": "Reformed Church & Gessner House",
+              "tip_5lang": {
+                "de": "Nur wenige Schritte vom Parkplatz entfernt.",
+                "hu": "Csak pár lépésre található a parkolótól.",
+                "ro": "La doar câțiva pași de parcare.",
+                "en": "Only a few steps away from the parking lot."
+              }
+            },
+            {
+              "name": "Wädenswil Castle",
+              "tip_5lang": {
+                "de": "Vom Parkplatz hat man einen guten Blick.",
+                "hu": "A parkolóból jó kilátás nyílik a kastélyra.",
+                "ro": "Din parcare aveți o vedere bună.",
+                "en": "There is a good view from the parking lot."
+              }
+            },
+            {
+              "name": "Cluster B: Drive to the Au Peninsula",
+              "tip_5lang": {
+                "de": "Genießen Sie die Fahrt am Ufer entlang.",
+                "hu": "Élvezze az autózást a tópart mentén.",
+                "ro": "Bucurați-vă de drumul de-a lungul malului.",
+                "en": "Enjoy the drive along the shore."
+              }
+            },
+            {
+              "name": "Walk & Lunch on the Au Peninsula",
+              "tip_5lang": {
+                "de": "Das Restaurant ist direkt vom Parkplatz erreichbar.",
+                "hu": "Az étterem közvetlenül a parkolóból elérhető.",
+                "ro": "Restaurantul este accesibil direct din parcare.",
+                "en": "The restaurant is directly accessible from the parking lot."
+              }
+            },
+            {
+              "name": "Cluster C: Drive to Wädenswiler Berg",
+              "tip_5lang": {
+                "de": "Aussichtspunkte sind oft direkt an der Straße.",
+                "hu": "A kilátópontok gyakran közvetlenül az út mellett vannak.",
+                "ro": "Punctele de belvedere sunt adesea chiar lângă drum.",
+                "en": "Viewpoints are often right by the road."
+              }
+            },
+            {
+              "name": "Viewpoint and short walk",
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Regen im Fahrzeug.",
+                "hu": "Heves esőben maradjon a járműben.",
+                "ro": "Rămâneți în vehicul în caz de ploaie torențială.",
+                "en": "Stay in the vehicle during heavy rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf der Seestraße.",
+              "Die Scheibenwischer sollten in gutem Zustand sein.",
+              "Parken Sie nah an den Eingängen der Restaurants.",
+              "Ein Regenschirm im Kofferraum ist Pflicht."
+            ],
+            "hu": [
+              "Ügyeljen a vízre az úttesten a Seestraße-n.",
+              "Az ablaktörlők legyenek jó állapotban.",
+              "Parkoljon közel az éttermek bejáratához.",
+              "Egy esernyő a csomagtartóban kötelező."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe Seestraße.",
+              "Ștergătoarele trebuie să fie în stare bună.",
+              "Parcați aproape de intrările restaurantelor.",
+              "O umbrelă în portbagaj este obligatorie."
+            ],
+            "en": [
+              "Watch out for aquaplaning on Seestraße.",
+              "Windshield wipers should be in good condition.",
+              "Park close to the restaurant entrances.",
+              "An umbrella in the trunk is a must."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist die Wintertour durch Wädenswil besonders gemütlich. Wir besichtigen die Kirche und das Gessnerhaus im warmen Fahrzeug-Umfeld. Die Fahrt zur Halbinsel Au offenbart eine winterliche See-Idylle, die man am besten bei einem kurzen Stopp genießt. Später führt uns die Route auf den Wädenswiler Berg, wo wir die verschneite Landschaft und das Alpenglühen bei Sonnenuntergang bewundern können, bevor wir im Warmen zurückkehren.",
+            "hu": "Autóval a téli túra Wädenswilben különösen hangulatos. A templomot és a Gessner-házat a jármű meleg környezetéből indulva látogatjuk meg. Az út az Au-félszigetre téli tavi idillt tár elénk, amelyet a legjobb egy rövid megállóval élvezni. Később utunk a Wädenswiler Berg-re vezet, ahol megcsodálhatjuk a havas tájat és az Alpenglühen-t naplementekor, mielőtt visszatérnénk a melegbe.",
+            "ro": "Cu mașina, turul de iarnă prin Wädenswil este deosebit de plăcut. Vizităm biserica și Casa Gessner pornind din mediul cald al vehiculului. Drumul spre Peninsula Au dezvăluie o idilă hibernală a lacului, savurată cel mai bine la o scurtă oprire. Ulterior, ruta ne duce pe Wädenswiler Berg, unde putem admira peisajul înzăpezit și crestele luminate la apus.",
+            "en": "By car, the winter tour through Wädenswil is especially cozy. We visit the church and Gessner House starting from the warm vehicle environment. The drive to the Au Peninsula reveals a winter lake idyll, best enjoyed during a brief stop. Later, the route takes us to Wädenswiler Berg, where we can admire the snowy landscape and the alpine glow at sunset before returning to the warmth."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Park in the City Center",
+              "tip_5lang": {
+                "de": "Die Parkplätze im Zentrum werden geräumt.",
+                "hu": "A központi parkolókat takarítják.",
+                "ro": "Parcările din centru sunt deszăpezite.",
+                "en": "The central parking lots are cleared."
+              }
+            },
+            {
+              "name": "Reformed Church & Gessner House",
+              "tip_5lang": {
+                "de": "Kurze Wege verhindern das Auskühlen.",
+                "hu": "A rövid távolságok megakadályozzák a kihűlést.",
+                "ro": "Distanțele scurte previn răceala.",
+                "en": "Short distances prevent getting chilled."
+              }
+            },
+            {
+              "name": "Wädenswil Castle",
+              "tip_5lang": {
+                "de": "Die Auffahrt zum Schloss kann glatt sein.",
+                "hu": "A kastélyhoz vezető út csúszós lehet.",
+                "ro": "Urcarea spre castel poate fi alunecoasă.",
+                "en": "The drive up to the castle can be slippery."
+              }
+            },
+            {
+              "name": "Cluster B: Drive to the Au Peninsula",
+              "tip_5lang": {
+                "de": "Winterreifen sind auf dieser Strecke Pflicht.",
+                "hu": "Ezen a szakaszon a téli gumi kötelező.",
+                "ro": "Anvelopele de iarnă sunt obligatorii pe acest traseu.",
+                "en": "Winter tires are mandatory on this route."
+              }
+            },
+            {
+              "name": "Walk & Lunch on the Au Peninsula",
+              "tip_5lang": {
+                "de": "Genießen Sie das Fondue im warmen Gasthaus.",
+                "hu": "Élvezze a fonduét a meleg vendéglőben.",
+                "ro": "Bucurați-vă de fondue în hanul călduros.",
+                "en": "Enjoy the fondue in the warm inn."
+              }
+            },
+            {
+              "name": "Cluster C: Drive to Wädenswiler Berg",
+              "tip_5lang": {
+                "de": "Hier liegt oft deutlich mehr Schnee.",
+                "hu": "Itt gyakran lényegesen több hó esik.",
+                "ro": "Aici este adesea mult mai multă zăpadă.",
+                "en": "There is often significantly more snow here."
+              }
+            },
+            {
+              "name": "Viewpoint and short walk",
+              "tip_5lang": {
+                "de": "Traumhafter Sonnenuntergang gegen 16:30 Uhr.",
+                "hu": "Csodás naplemente 16:30 körül.",
+                "ro": "Apus de soare de vis în jurul orei 16:30.",
+                "en": "Dreamy sunset around 4:30 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Eiskratzer und Schneebesen griffbereit halten.",
+              "Frostschutzmittel in der Scheibenwaschanlage prüfen.",
+              "Vorsicht beim Bremsen auf Nebenstraßen am Berg.",
+              "Warme Decken im Auto erhöhen die Sicherheit."
+            ],
+            "hu": [
+              "Tartsa kéznél a jégkaparót és a kefét.",
+              "Ellenőrizze a fagyállót a szélvédőmosóban.",
+              "Vigyázzon a fékezéssel a hegyi mellékutakon.",
+              "Meleg takarók az autóban növelik a biztonságot."
+            ],
+            "ro": [
+              "Țineți la îndemână racleta și peria de zăpadă.",
+              "Verificați antigelul în lichidul de parbriz.",
+              "Atenție la frânare pe drumurile secundare de munte.",
+              "Păturile calde în mașină sporesc siguranța."
+            ],
+            "en": [
+              "Keep an ice scraper and brush handy.",
+              "Check the antifreeze in the windshield washer.",
+              "Be careful when braking on side roads on the hill.",
+              "Warm blankets in the car increase safety."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1442,6 +2006,188 @@
           "Most buses are wheelchair accessible.",
           "Public transport apps can be very helpful for planning."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die öffentlichen Verkehrsmittel in Wädenswil sind perfekt auf regnerisches Wetter eingestellt. Wir starten am Bahnhof und nutzen die kurzen Busverbindungen zum Schloss und zur Halbinsel Au. Die Wartezeiten verbringen wir in den überdachten Bahnhöfen oder Cafés. Ein Besuch im Weinbauzentrum lässt sich gut mit dem Bus kombinieren, sodass wir fast den ganzen Tag trocken bleiben und die Aussicht aus dem Fenster genießen.",
+            "hu": "Wädenswil tömegközlekedése tökéletesen felkészült az esős időre. A vasútállomástól indulunk, és rövid buszjáratokat veszünk igénybe a kastélyhoz és az Au-félszigethez. A várakozási időt a fedett állomásokon vagy kávézókban töltjük. A Borászati Központ látogatása jól kombinálható a busszal, így szinte egész nap szárazon maradhatunk, miközben az ablakból csodáljuk a tájat.",
+            "ro": "Transportul public din Wädenswil este perfect adaptat pentru vreme ploioasă. Pornim de la gară și folosim conexiunile scurte de autobuz către castel și Peninsula Au. Petrecem timpii de așteptare în gări acoperite sau cafenele. O vizită la Centrul de Viticultură se combină bine cu autobuzul, astfel încât rămânem uscați aproape toată ziua, bucurându-ne de vedere.",
+            "en": "Public transport in Wädenswil is perfectly adjusted to rainy weather. We start at the station and use the short bus connections to the castle and the Au Peninsula. We spend waiting times in covered stations or cafes. A visit to the Winegrowing Center combines well with the bus, so we stay dry almost all day while enjoying the view from the window."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Arrival at Wädenswil Train Station",
+              "tip_5lang": {
+                "de": "Das Bahnhofsgebäude bietet guten Schutz.",
+                "hu": "A vasútállomás épülete jó védelmet nyújt.",
+                "ro": "Clădirea gării oferă o protecție bună.",
+                "en": "The station building offers good protection."
+              }
+            },
+            {
+              "name": "Reformed Church & Wädenswil Castle",
+              "tip_5lang": {
+                "de": "Busse halten oft sehr nah an den Zielen.",
+                "hu": "A buszok gyakran a célpontok közelében állnak meg.",
+                "ro": "Autobuzele opresc adesea foarte aproape de destinații.",
+                "en": "Buses often stop very close to the destinations."
+              }
+            },
+            {
+              "name": "Cluster B: Bus to the Au Peninsula",
+              "tip_5lang": {
+                "de": "Trockener Transfer direkt zur Halbinsel.",
+                "hu": "Száraz transzfer közvetlenül a félszigetre.",
+                "ro": "Transfer uscat direct către peninsulă.",
+                "en": "Dry transfer directly to the peninsula."
+              }
+            },
+            {
+              "name": "Walk on the shore of the Au Peninsula",
+              "tip_5lang": {
+                "de": "Kurze Gehdistanz vom Busstopp zum See.",
+                "hu": "Rövid gyalogtávolság a buszmegállótól a tóig.",
+                "ro": "Distanță scurtă de mers de la stație până la lac.",
+                "en": "Short walking distance from the bus stop to the lake."
+              }
+            },
+            {
+              "name": "Cluster C: Bus to the Winegrowing Center",
+              "tip_5lang": {
+                "de": "Die Linie 121 bringt Sie bequem dorthin.",
+                "hu": "A 121-es járat kényelmesen elviszi oda.",
+                "ro": "Linia 121 vă duce confortabil acolo.",
+                "en": "Line 121 takes you there comfortably."
+              }
+            },
+            {
+              "name": "Walk along the Lake Zurich Shore",
+              "tip_5lang": {
+                "de": "Der Rückweg zum Bahnhof ist kurz und beleuchtet.",
+                "hu": "A vasútállomásra vezető út rövid és kivilágított.",
+                "ro": "Drumul de întoarcere la gară este scurt și luminat.",
+                "en": "The way back to the station is short and illuminated."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die SBB-App für Echtzeit-Infos.",
+              "ZVV-Tickets gelten für Bus und Bahn.",
+              "Bahnhofcafés sind gute Orte zum Warten.",
+              "Tragen Sie rutschfeste Schuhe für den Ein-/Ausstieg."
+            ],
+            "hu": [
+              "Használja az SBB alkalmazást a valós idejű infókért.",
+              "A ZVV jegyek érvényesek buszra és vonatra is.",
+              "Az állomási kávézók jó helyek a várakozáshoz.",
+              "Viseljen csúszásmentes cipőt a fel- és leszálláshoz."
+            ],
+            "ro": [
+              "Utilizați aplicația SBB pentru informații în timp real.",
+              "Biletele ZVV sunt valabile pentru autobuz și tren.",
+              "Cafenelele din gară sunt locuri bune pentru așteptat.",
+              "Purtați încălțăminte aderentă pentru urcare/coborâre."
+            ],
+            "en": [
+              "Use the SBB app for real-time info.",
+              "ZVV tickets are valid for both bus and train.",
+              "Station cafes are good places to wait.",
+              "Wear non-slip shoes for boarding and exiting."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Wädenswil im Winter lässt sich hervorragend mit Bus und Bahn entdecken. Wir starten gemütlich am Bahnhof und lassen uns von den geheizten Bussen zu den historischen Highlights bringen. Die Aussicht auf den winterlichen Zürichsee aus der S-Bahn oder dem Bus ist magisch. Ein Besuch im Weinbauzentrum rundet den Tag ab, bevor wir entspannt mit dem Zug die Heimreise antreten, während draußen der Frost die Landschaft überzieht.",
+            "hu": "A téli Wädenswil kiválóan felfedezhető busszal és vonattal. Kényelmesen indulunk a vasútállomástól, és fűtött buszokkal jutunk el a történelmi látnivalókhoz. A téli Zürichi-tóra nyíló kilátás az S-Bahnról vagy a buszról varázslatos. A Borászati Központ meglátogatása teszi teljessé a napot, mielőtt nyugodtan vonatra szállnánk, miközben kint a dér belepi a tájat.",
+            "ro": "Wädenswilul iarna poate fi descoperit excelent cu autobuzul și trenul. Pornim relaxați de la gară și lăsăm autobuzele încălzite să ne ducă la obiectivele istorice. Vederea asupra Lacului Zürich înghețat din tren sau autobuz este magică. O vizită la Centrul de Viticultură completează ziua, înainte de a pleca spre casă cu trenul, în timp ce afară bruma acoperă peisajul.",
+            "en": "Wädenswil in winter can be excellently discovered by bus and train. We start comfortably at the station and let heated buses take us to the historical highlights. The view of wintery Lake Zurich from the S-Bahn or bus is magical. A visit to the Winegrowing Center rounds off the day before we relaxedly take the train home while outside frost covers the landscape."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Arrival at Wädenswil Train Station",
+              "tip_5lang": {
+                "de": "Das Bahnhofsareal ist im Winter gut geräumt.",
+                "hu": "Az állomás környékét télen jól takarítják.",
+                "ro": "Zona gării este bine curățată iarna.",
+                "en": "The station area is well cleared in winter."
+              }
+            },
+            {
+              "name": "Reformed Church & Wädenswil Castle",
+              "tip_5lang": {
+                "de": "Die Heizung in den Bussen ist sehr angenehm.",
+                "hu": "A buszok fűtése nagyon kellemes.",
+                "ro": "Încălzirea în autobuze este foarte plăcută.",
+                "en": "The heating in the buses is very pleasant."
+              }
+            },
+            {
+              "name": "Cluster B: Bus to the Au Peninsula",
+              "tip_5lang": {
+                "de": "Die Haltestelle 'Au ZH, Schloss' ist ideal.",
+                "hu": "Az 'Au ZH, Schloss' megálló ideális.",
+                "ro": "Stația 'Au ZH, Schloss' este ideală.",
+                "en": "The 'Au ZH, Schloss' stop is ideal."
+              }
+            },
+            {
+              "name": "Walk on the shore of the Au Peninsula",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem Weg zur Haltestelle.",
+                "hu": "Vigyázzon a megálló felé vezető úton.",
+                "ro": "Atenție pe drumul spre stație.",
+                "en": "Be careful on the way to the stop."
+              }
+            },
+            {
+              "name": "Cluster C: Bus to the Winegrowing Center",
+              "tip_5lang": {
+                "de": "Busfrequenzen sind auch im Winter hoch.",
+                "hu": "A buszjáratok télen is gyakoriak.",
+                "ro": "Frecvența autobuzelor este mare și iarna.",
+                "en": "Bus frequencies are high even in winter."
+              }
+            },
+            {
+              "name": "Walk along the Lake Zurich Shore",
+              "tip_5lang": {
+                "de": "Die S-Bahn bietet tolle Panoramafenster.",
+                "hu": "Az S-Bahn nagyszerű panorámaablakokkal bír.",
+                "ro": "Trenul S-Bahn are ferestre panoramice superbe.",
+                "en": "The S-Bahn offers great panoramic windows."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf eventuelle witterungsbedingte Verzögerungen.",
+              "Die S-Bahnen fahren im Halbstundentakt.",
+              "Warme Kleidung für das Warten an Haltestellen.",
+              "Die Halbinsel Au hat einen eigenen S-Bahn-Bahnhof."
+            ],
+            "hu": [
+              "Ügyeljen az időjárás okozta esetleges késésekre.",
+              "Az S-Bahn vonatok félóránként közlekednek.",
+              "Meleg ruha szükséges a megállókban való várakozáshoz.",
+              "Az Au-félszigetnek saját S-Bahn megállója van."
+            ],
+            "ro": [
+              "Atenție la eventualele întârzieri cauzate de vreme.",
+              "Trenurile S-Bahn circulă la fiecare jumătate de oră.",
+              "Îmbrăcăminte groasă pentru așteptarea în stații.",
+              "Peninsula Au are propria stație de S-Bahn."
+            ],
+            "en": [
+              "Watch out for any weather-related delays.",
+              "S-Bahn trains run every half hour.",
+              "Warm clothing for waiting at stops.",
+              "Au Peninsula has its own S-Bahn station."
+            ]
+          }
+        }
       }
     }
   }

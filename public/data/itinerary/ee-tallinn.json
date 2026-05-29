@@ -1,0 +1,1016 @@
+{
+  "city_id": "ee-tallinn",
+  "anchor": {
+    "name": "Tallinn",
+    "coords": [
+      24.7536,
+      59.437
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:38",
+      "total_km": 2.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Viru-Tor",
+          "coords": [
+            24.751,
+            59.436
+          ],
+          "category": "monument",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Perfekter Ort für das erste Foto.",
+            "hu": "Tökéletes hely az első fotóhoz.",
+            "ro": "Loc perfect pentru prima fotografie.",
+            "en": "Perfect spot for the first photo."
+          }
+        },
+        {
+          "name": "Tallinner Rathausplatz",
+          "coords": [
+            24.745,
+            59.437
+          ],
+          "category": "square",
+          "arrive_at": "09:35",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die mittelalterliche Architektur.",
+            "hu": "Csodálja meg a középkori építészetet.",
+            "ro": "Admirați arhitectura medievală.",
+            "en": "Admire the medieval architecture."
+          }
+        },
+        {
+          "name": "Niguliste Museum",
+          "coords": [
+            24.742,
+            59.435
+          ],
+          "category": "museum",
+          "arrive_at": "10:06",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht den Totentanz.",
+            "hu": "Ne hagyja ki a Haláltánc festményt.",
+            "ro": "Nu ratați pictura Dansul Morții.",
+            "en": "Do not miss the Danse Macabre painting."
+          }
+        },
+        {
+          "name": "Alexander-Newski-Kathedrale",
+          "coords": [
+            24.739,
+            59.435
+          ],
+          "category": "cathedral",
+          "arrive_at": "11:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Achten Sie auf die Mosaike.",
+            "hu": "Figyelje meg a gyönyörű mozaikokat.",
+            "ro": "Acordați atenție mozaicurilor frumoase.",
+            "en": "Pay attention to the beautiful mosaics."
+          }
+        },
+        {
+          "name": "Toompea-Schloss",
+          "coords": [
+            24.737,
+            59.435
+          ],
+          "category": "historical",
+          "arrive_at": "13:13",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Hier tagt das estnische Parlament.",
+            "hu": "Itt ülésezik az észt parlament.",
+            "ro": "Aici se întrunește parlamentul eston.",
+            "en": "The Estonian parliament meets here."
+          }
+        },
+        {
+          "name": "St. Olafs Kirche",
+          "coords": [
+            24.747,
+            59.441
+          ],
+          "category": "cathedral",
+          "arrive_at": "14:53",
+          "stay_min": 105,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erklimmen Sie den Turm für eine tolle Aussicht.",
+            "hu": "Mássza meg a tornyot a remek kilátásért.",
+            "ro": "Urcați în turn pentru o priveliște excelentă.",
+            "en": "Climb the tower for a great view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie am historischen Viru-Tor. Schlendern Sie über den mittelalterlichen Rathausplatz. Entdecken Sie die Museen und Kirchen der Altstadt. Genießen Sie den Nachmittag auf dem Domberg.",
+        "hu": "Kezdje a sétát a történelmi Viru-kapunál. Barangoljon a középkori Városháza téren. Fedezze fel az óváros múzeumait és templomait. Élvezze a délutánt a Toompea-hegyen.",
+        "ro": "Începeți la poarta istorică Viru. Plimbați-vă prin piața medievală a primăriei. Descoperiți muzeele și bisericile din centrul vechi. Bucurați-vă de după-amiază pe dealul Toompea.",
+        "en": "Start at the historic Viru Gate. Stroll through the medieval Town Hall Square. Discover the museums and churches of the Old Town. Enjoy the afternoon on Toompea Hill."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Vana Tallinn",
+            "tip": "Probieren Sie den lokalen Likör."
+          },
+          {
+            "name": "Kohuke",
+            "tip": "Süßer Quark-Snack für zwischendurch."
+          },
+          {
+            "name": "Kilu",
+            "tip": "Sprotten auf dunklem Roggenbrot."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vana Tallinn",
+            "tip": "Kóstolja meg a helyi likőrt."
+          },
+          {
+            "name": "Kohuke",
+            "tip": "Édes túrós falat napközben."
+          },
+          {
+            "name": "Kilu",
+            "tip": "Füstölt sprotni sötét rozskenyéren."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vana Tallinn",
+            "tip": "Gustați lichiorul local."
+          },
+          {
+            "name": "Kohuke",
+            "tip": "Gustare dulce din brânză de vaci."
+          },
+          {
+            "name": "Kilu",
+            "tip": "Șprot pe pâine neagră de secară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vana Tallinn",
+            "tip": "Taste the local liqueur."
+          },
+          {
+            "name": "Kohuke",
+            "tip": "Sweet curd snack for in-between."
+          },
+          {
+            "name": "Kilu",
+            "tip": "Sprats on dark rye bread."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Patkuli Aussichtsplattform",
+            "tip": "Ruhiger Blick über die Dächer.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Dänische Königsgärten",
+            "tip": "Historischer Ort abseits der Massen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Patkuli kilátó",
+            "tip": "Csendes kilátás a háztetőkre.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Dán királyi kertek",
+            "tip": "Történelmi hely a tömegtől távol.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Platforma de observare Patkuli",
+            "tip": "Vedere liniștită peste acoperișuri.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădinile Regelui Danez",
+            "tip": "Loc istoric departe de aglomerație.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Patkuli viewing platform",
+            "tip": "Quiet view over the rooftops.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Danish King's Garden",
+            "tip": "Historical place away from the crowds.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Balti Jaama Turg",
+            "tip": "Moderner Markt für lokale Produkte."
+          },
+          {
+            "name": "Meistrite Hoov",
+            "tip": "Handgefertigte Kunstwerke und Schmuck."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Balti Jaama Turg",
+            "tip": "Modern piac helyi termékekkel."
+          },
+          {
+            "name": "Meistrite Hoov",
+            "tip": "Kézműves művészeti alkotások és ékszerek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Balti Jaama Turg",
+            "tip": "Piață modernă pentru produse locale."
+          },
+          {
+            "name": "Meistrite Hoov",
+            "tip": "Opere de artă și bijuterii lucrate manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Balti Jaama Turg",
+            "tip": "Modern market for local products."
+          },
+          {
+            "name": "Meistrite Hoov",
+            "tip": "Handmade artwork and jewelry."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+          "Die Altstadt ist sehr fußgängerfreundlich.",
+          "Viele Cafés haben versteckte Innenhöfe.",
+          "Achten Sie auf Taschendiebe an vollen Plätzen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a macskaköveken.",
+          "Az óváros nagyon gyalogosbarát.",
+          "Sok kávézónak van rejtett belső udvara.",
+          "Vigyázzon a zsebtolvajokra a zsúfolt tereken."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili pentru piatra cubică.",
+          "Centrul vechi este foarte prietenos cu pietonii.",
+          "Multe cafenele au curți interioare ascunse.",
+          "Atenție la hoții de buzunare în locurile aglomerate."
+        ],
+        "en": [
+          "Wear comfortable shoes for the cobblestones.",
+          "The Old Town is very pedestrian-friendly.",
+          "Many cafes have hidden courtyards.",
+          "Beware of pickpockets in crowded places."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:02",
+      "total_km": 17.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Tallinner Rathausplatz",
+          "coords": [
+            24.745,
+            59.437
+          ],
+          "category": "square",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie hier mit einem Kaffee.",
+            "hu": "Kezdje a napot itt egy kávéval.",
+            "ro": "Începeți ziua aici cu o cafea.",
+            "en": "Start the day here with a coffee."
+          }
+        },
+        {
+          "name": "Lennusadam Wasserflugzeughafen",
+          "coords": [
+            24.738,
+            59.451
+          ],
+          "category": "museum",
+          "arrive_at": "09:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Fahrradparkplätze direkt vor dem Eingang.",
+            "hu": "Kerékpártárolók közvetlenül a bejárat előtt.",
+            "ro": "Parcare de biciclete direct la intrare.",
+            "en": "Bicycle parking right at the entrance."
+          }
+        },
+        {
+          "name": "Telliskivi Kreativstadt",
+          "coords": [
+            24.728,
+            59.439
+          ],
+          "category": "market",
+          "arrive_at": "11:42",
+          "stay_min": 50,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Perfekt für ein schnelles Mittagessen.",
+            "hu": "Tökéletes egy gyors ebédhez.",
+            "ro": "Perfect pentru un prânz rapid.",
+            "en": "Perfect for a quick lunch."
+          }
+        },
+        {
+          "name": "Schloss Kadriorg",
+          "coords": [
+            24.791,
+            59.438
+          ],
+          "category": "historical",
+          "arrive_at": "12:59",
+          "stay_min": 80,
+          "hop_from_prev_min": 27,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Radfahren in den Gärten ist toll.",
+            "hu": "Remek élmény a kertekben biciklizni.",
+            "ro": "Mersul cu bicicleta în grădini este grozav.",
+            "en": "Cycling in the gardens is great."
+          }
+        },
+        {
+          "name": "Tallinner Fernsehturm",
+          "coords": [
+            24.887,
+            59.471
+          ],
+          "category": "viewpoint",
+          "arrive_at": "15:07",
+          "stay_min": 55,
+          "hop_from_prev_min": 48,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Genießen Sie den weiten Blick.",
+            "hu": "Élvezze a messzire nyúló kilátást.",
+            "ro": "Bucurați-vă de vederea îndepărtată.",
+            "en": "Enjoy the distant view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie im Herzen der Altstadt. Radeln Sie zur Küste und besuchen Sie den Wasserflugzeughafen. Erkunden Sie das hippe Telliskivi-Viertel. Beenden Sie die Tour an den kaiserlichen Gärten und dem Fernsehturm.",
+        "hu": "Induljon az óváros szívéből. Kerekezzen a partra és látogassa meg a repülőgép-kikötőt. Fedezze fel a divatos Telliskivi negyedet. Zárja a túrát a császári kerteknél és a tévétoronynál.",
+        "ro": "Începeți în inima centrului vechi. Pedalați spre coastă și vizitați portul de hidroavioane. Explorați cartierul modern Telliskivi. Încheiați turul la grădinile imperiale și turnul de televiziune.",
+        "en": "Start in the heart of the Old Town. Cycle to the coast and visit the seaplane harbour. Explore the trendy Telliskivi district. End the tour at the imperial gardens and the TV tower."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kalamaja Cafés",
+            "tip": "Probieren Sie frisches Gebäck."
+          },
+          {
+            "name": "Schwarzes Brot",
+            "tip": "Traditionell und herzhaft."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kalamaja kávézók",
+            "tip": "Kóstolja meg a friss péksüteményeket."
+          },
+          {
+            "name": "Fekete kenyér",
+            "tip": "Hagyományos és laktató."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cafenele Kalamaja",
+            "tip": "Gustați produse de patiserie proaspete."
+          },
+          {
+            "name": "Pâine neagră",
+            "tip": "Tradițională și consistentă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kalamaja cafes",
+            "tip": "Taste fresh pastries."
+          },
+          {
+            "name": "Black bread",
+            "tip": "Traditional and hearty."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Pirita Strand",
+            "tip": "Ideal für eine kleine Pause am Wasser.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kadriorg Park",
+            "tip": "Spazieren Sie durch die grünen Alleen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pirita strand",
+            "tip": "Ideális egy kis pihenésre a víznél.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kadriorg park",
+            "tip": "Sétáljon a zöld fasorokban.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plaja Pirita",
+            "tip": "Ideală pentru o scurtă pauză la malul apei.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Kadriorg",
+            "tip": "Plimbați-vă pe aleile verzi.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Pirita beach",
+            "tip": "Ideal for a short break by the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kadriorg Park",
+            "tip": "Stroll through the green avenues.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Telliskivi Shops",
+            "tip": "Lokales estnisches Design."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Telliskivi üzletek",
+            "tip": "Helyi észt dizájn."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinele Telliskivi",
+            "tip": "Design local estonian."
+          }
+        ],
+        "en": [
+          {
+            "name": "Telliskivi shops",
+            "tip": "Local Estonian design."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Es gibt gute Radwege entlang der Küste.",
+          "Die Altstadt hat viel Kopfsteinpflaster, meiden Sie kleine Gassen.",
+          "Schließen Sie Ihr Rad gut ab.",
+          "Achten Sie auf Straßenbahnschienen."
+        ],
+        "hu": [
+          "Jó kerékpárutak vannak a part mentén.",
+          "Az óváros sok macskaköves, kerülje a kis utcákat.",
+          "Jól zárja le a kerékpárját.",
+          "Figyeljen a villamos sínekre."
+        ],
+        "ro": [
+          "Există piste bune de biciclete de-a lungul coastei.",
+          "Centrul vechi are multă piatră cubică, evitați străduțele mici.",
+          "Încuiați bine bicicleta.",
+          "Atenție la șinele de tramvai."
+        ],
+        "en": [
+          "There are good bike paths along the coast.",
+          "The Old Town has a lot of cobblestones, avoid small alleys.",
+          "Lock your bike securely.",
+          "Watch out for tram tracks."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:10",
+      "total_km": 5.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Viru-Tor",
+          "coords": [
+            24.751,
+            59.436
+          ],
+          "category": "monument",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parkhaus nahe des Tores.",
+            "hu": "Parkolóház a kapu közelében.",
+            "ro": "Parcare auto lângă poartă.",
+            "en": "Parking garage near the gate."
+          }
+        },
+        {
+          "name": "Tallinner Rathausplatz",
+          "coords": [
+            24.745,
+            59.437
+          ],
+          "category": "square",
+          "arrive_at": "09:35",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang ins Zentrum.",
+            "hu": "Rövid séta a központba.",
+            "ro": "Scurtă plimbare spre centru.",
+            "en": "Short walk to the center."
+          }
+        },
+        {
+          "name": "Alexander-Newski-Kathedrale",
+          "coords": [
+            24.739,
+            59.435
+          ],
+          "category": "cathedral",
+          "arrive_at": "10:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Wunderschöne russisch-orthodoxe Kirche.",
+            "hu": "Gyönyörű orosz ortodox templom.",
+            "ro": "O frumoasă biserică ortodoxă rusă.",
+            "en": "Beautiful Russian Orthodox church."
+          }
+        },
+        {
+          "name": "Telliskivi Kreativstadt",
+          "coords": [
+            24.728,
+            59.439
+          ],
+          "category": "market",
+          "arrive_at": "11:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier für den zweiten Cluster.",
+            "hu": "Parkoljon le itt a második részhez.",
+            "ro": "Parcați aici pentru al doilea cluster.",
+            "en": "Park here for the second cluster."
+          }
+        },
+        {
+          "name": "Lennusadam Wasserflugzeughafen",
+          "coords": [
+            24.738,
+            59.451
+          ],
+          "category": "museum",
+          "arrive_at": "13:00",
+          "stay_min": 130,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Faszinierendes maritimes Museum.",
+            "hu": "Lenyűgöző tengerészeti múzeum.",
+            "ro": "Fascinant muzeu maritim.",
+            "en": "Fascinating maritime museum."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Parken Sie nahe der Altstadt und erkunden Sie die Gassen zu Fuß. Fahren Sie am Mittag in das hippe Hafenviertel Kalamaja. Genießen Sie maritime Museen und kreative Kunstszene kompakt an einem Tag.",
+        "hu": "Parkoljon le az óváros közelében, és fedezze fel a sikátorokat gyalog. Délben vezessen a divatos Kalamaja kikötőnegyedbe. Élvezze a tengerészeti múzeumokat és a kreatív művészeti szcénát egy nap alatt.",
+        "ro": "Parcați lângă centrul vechi și explorați străduțele pe jos. La prânz, conduceți spre modernul cartier portuar Kalamaja. Bucurați-vă de muzeele maritime și de scena de artă creativă într-o singură zi.",
+        "en": "Park near the Old Town and explore the alleys on foot. At noon, drive to the trendy Kalamaja harbour district. Enjoy maritime museums and the creative art scene compactly in one day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kalamaja Cafés",
+            "tip": "Leckerer Snack vor dem Museum."
+          },
+          {
+            "name": "F-Hoone",
+            "tip": "Beliebtes Restaurant in Telliskivi."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kalamaja kávézók",
+            "tip": "Finom falat a múzeum előtt."
+          },
+          {
+            "name": "F-Hoone",
+            "tip": "Népszerű étterem Telliskiviben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cafenele Kalamaja",
+            "tip": "O gustare delicioasă înainte de muzeu."
+          },
+          {
+            "name": "F-Hoone",
+            "tip": "Restaurant popular în Telliskivi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kalamaja cafes",
+            "tip": "Tasty snack before the museum."
+          },
+          {
+            "name": "F-Hoone",
+            "tip": "Popular restaurant in Telliskivi."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hafenpromenade",
+            "tip": "Frische Brise am Meer.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kikötői sétány",
+            "tip": "Friss szellő a tengerparton.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Promenada portului",
+            "tip": "Briza proaspătă la malul mării.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Harbour promenade",
+            "tip": "Fresh breeze by the sea.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Balti Jaama Turg",
+            "tip": "Großer Markt für alle Bedürfnisse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Balti Jaama Turg",
+            "tip": "Nagy piac minden igényre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Balti Jaama Turg",
+            "tip": "Piață mare pentru toate nevoile."
+          }
+        ],
+        "en": [
+          {
+            "name": "Balti Jaama Turg",
+            "tip": "Large market for all needs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie offizielle Parkplätze.",
+          "Parken in der Altstadt ist sehr teuer.",
+          "Laden Sie eine lokale Park-App herunter.",
+          "Achten Sie auf Einbahnstraßen im Zentrum."
+        ],
+        "hu": [
+          "Használja a hivatalos parkolókat.",
+          "Az óvárosban a parkolás nagyon drága.",
+          "Töltsön le egy helyi parkoló alkalmazást.",
+          "Figyeljen az egyirányú utcákra a központban."
+        ],
+        "ro": [
+          "Folosiți parcările oficiale.",
+          "Parcarea în centrul vechi este foarte scumpă.",
+          "Descărcați o aplicație locală de parcare.",
+          "Atenție la străzile cu sens unic din centru."
+        ],
+        "en": [
+          "Use official parking lots.",
+          "Parking in the Old Town is very expensive.",
+          "Download a local parking app.",
+          "Pay attention to one-way streets in the center."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "15:38",
+      "total_km": 3.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "St. Olafs Kirche",
+          "coords": [
+            24.747,
+            59.441
+          ],
+          "category": "cathedral",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Guter Startpunkt mit ÖPNV-Anbindung.",
+            "hu": "Jó kiindulópont tömegközlekedési kapcsolattal.",
+            "ro": "Punct de plecare bun cu legături de transport public.",
+            "en": "Good starting point with public transport links."
+          }
+        },
+        {
+          "name": "Tallinner Rathausplatz",
+          "coords": [
+            24.745,
+            59.437
+          ],
+          "category": "square",
+          "arrive_at": "09:45",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Herz der Altstadt.",
+            "hu": "Az óváros szíve.",
+            "ro": "Inima centrului vechi.",
+            "en": "Heart of the Old Town."
+          }
+        },
+        {
+          "name": "Niguliste Museum",
+          "coords": [
+            24.742,
+            59.435
+          ],
+          "category": "museum",
+          "arrive_at": "10:18",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beeindruckende sakrale Kunst.",
+            "hu": "Lenyűgöző egyházi művészet.",
+            "ro": "Artă religioasă impresionantă.",
+            "en": "Impressive sacred art."
+          }
+        },
+        {
+          "name": "Telliskivi Kreativstadt",
+          "coords": [
+            24.728,
+            59.439
+          ],
+          "category": "market",
+          "arrive_at": "12:13",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Fahren Sie mit der Straßenbahn hierher.",
+            "hu": "Villamossal jöjjön ide.",
+            "ro": "Luați tramvaiul până aici.",
+            "en": "Take the tram here."
+          }
+        },
+        {
+          "name": "Lennusadam Wasserflugzeughafen",
+          "coords": [
+            24.738,
+            59.451
+          ],
+          "category": "museum",
+          "arrive_at": "13:28",
+          "stay_min": 130,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schöner Spaziergang Richtung Küste.",
+            "hu": "Szép séta a part felé.",
+            "ro": "O plimbare plăcută spre coastă.",
+            "en": "A nice walk towards the coast."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie Bus und Bahn für die Altstadt-Highlights. Schlendern Sie durch die historischen Gassen. Fahren Sie am Nachmittag zum Küstenbezirk. Erleben Sie Tallinns maritimen Charme ohne Parkplatzsuche.",
+        "hu": "Használja a tömegközlekedést az óváros látnivalóihoz. Sétáljon végig a történelmi utcákon. Délután utazzon a parti negyedbe. Élvezze Tallinn tengeri varázsát parkolási gondok nélkül.",
+        "ro": "Folosiți transportul public pentru atracțiile din centrul vechi. Plimbați-vă pe străduțele istorice. După-amiaza, călătoriți spre cartierul de coastă. Experimentați farmecul maritim al Tallinnului fără grija parcării.",
+        "en": "Use public transport for the Old Town highlights. Stroll through the historic alleys. In the afternoon, travel to the coastal district. Experience Tallinn's maritime charm without parking worries."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Marzipan",
+            "tip": "Probieren Sie diese süße Tradition."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Marcipán",
+            "tip": "Kóstolja meg ezt az édes hagyományt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Marțipan",
+            "tip": "Gustați această tradiție dulce."
+          }
+        ],
+        "en": [
+          {
+            "name": "Marzipan",
+            "tip": "Taste this sweet tradition."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Toompark",
+            "tip": "Grüne Oase neben der Burg.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Toompark",
+            "tip": "Zöld oázis a vár mellett.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Toompark",
+            "tip": "Oază verde lângă castel.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Toompark",
+            "tip": "Green oasis next to the castle.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Viru Keskus",
+            "tip": "Zentrales Einkaufszentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Viru Keskus",
+            "tip": "Központi bevásárlóközpont."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Viru Keskus",
+            "tip": "Centru comercial central."
+          }
+        ],
+        "en": [
+          {
+            "name": "Viru Keskus",
+            "tip": "Central shopping mall."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie ein Tagesticket für den Nahverkehr.",
+          "Die Straßenbahnen sind sehr zuverlässig.",
+          "Mit der Tallinn Card ist der ÖPNV kostenlos.",
+          "Achten Sie auf die Fahrpläne am Wochenende."
+        ],
+        "hu": [
+          "Vegyen napijegyet a tömegközlekedésre.",
+          "A villamosok nagyon megbízhatóak.",
+          "A Tallinn Card kártyával a tömegközlekedés ingyenes.",
+          "Figyelje a hétvégi menetrendeket."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru transportul public.",
+          "Tramvaiele sunt foarte fiabile.",
+          "Cu Tallinn Card, transportul public este gratuit.",
+          "Atenție la orarul de weekend."
+        ],
+        "en": [
+          "Buy a day ticket for public transport.",
+          "The trams are very reliable.",
+          "With the Tallinn Card, public transport is free.",
+          "Pay attention to the weekend schedules."
+        ]
+      }
+    }
+  }
+}

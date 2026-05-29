@@ -402,6 +402,206 @@
           "Take time for a break in one of the many cafés.",
           "The path to Frauenstein is a beautiful but uphill walk."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regnerische Tage in St. Veit beginnen am besten unter den Arkaden des Hauptplatzes. Mittags bietet das Rathaus Schutz, bevor Sie das Museum in der Herzogsburg besuchen. Der Nachmittag gehört der Geschichte hinter dicken Mauern, während das Prasseln des Regens an die Fenster schlägt. Abends finden Sie in den gemütlichen Gassen der Altstadt Unterschlupf in einem der traditionellen Gasthäuser.",
+            "hu": "Az esős nap Szent Vitus városában a főtér árkádjai alatt indul, ahol védve maradunk az elemektől. Délben a városháza belső terei nyújtanak menedéket, majd a hercegi vár múzeuma következik. Délután a várfalak mentén sétálunk az esőben, de a Frauenstein-kastély látványa megéri a fáradtságot. Este a belváros egyik patinás éttermében, a kandalló mellett melegedhetünk fel.",
+            "ro": "Zilele ploioase în St. Veit încep cel mai bine sub arcadele pieței centrale. La prânz, primăria oferă adăpost înainte de a vizita muzeul din Castelul Ducal. După-amiaza este dedicată istoriei între ziduri groase, în timp ce ploaia bate în ferestre. Seara, veți găsi refugiu în tavernele tradiționale de pe străduțele înguste ale orașului vechi, savurând atmosfera locală.",
+            "en": "Rainy days in St. Veit are best started under the arcades of the main square. At noon, the town hall provides shelter before you head to the Museum of City History. Spend the afternoon exploring medieval secrets while the rain patters against the windows. By evening, retreat into one of the cozy traditional guesthouses in the old town to dry off and enjoy Carinthian hospitality."
+          },
+          "stops": [
+            {
+              "name": "Main Square & Schüsselbrunnen Fountain",
+              "tip_4lang": {
+                "de": "Nutzen Sie die Arkadengänge, um trocken zu bleiben.",
+                "hu": "Használja az árkádokat, hogy szárazon maradjon a séta alatt.",
+                "ro": "Folosiți arcadele pentru a rămâne uscat în timpul plimbării.",
+                "en": "Utilize the arcades around the square to stay dry."
+              }
+            },
+            {
+              "name": "Town Hall",
+              "tip_4lang": {
+                "de": "Der Innenhof bietet begrenzten Schutz vor dem Regen.",
+                "hu": "A belső udvar korlátozott védelmet nyújt az eső elől.",
+                "ro": "Curtea interioară oferă un adăpost limitat împotriva ploii.",
+                "en": "The inner courtyard offers some protection from the rain."
+              }
+            },
+            {
+              "name": "Plague Column",
+              "tip_4lang": {
+                "de": "Ein kurzer Fotostopp unter dem Regenschirm genügt hier.",
+                "hu": "Egy gyors fotó az esernyő alatt itt bőven elegendő.",
+                "ro": "O scurtă oprire pentru poze sub umbrelă este suficientă.",
+                "en": "A quick photo stop under your umbrella is enough here."
+              }
+            },
+            {
+              "name": "Parish Church of St. Vitus",
+              "tip_4lang": {
+                "de": "Ein idealer Ort für eine trockene, besinnliche Pause.",
+                "hu": "Ideális helyszín egy száraz, elcsendesedett pihenőre.",
+                "ro": "Un loc ideal pentru o pauză uscată și contemplativă.",
+                "en": "An ideal spot for a dry and peaceful break from the rain."
+              }
+            },
+            {
+              "name": "Ducal Castle & Museum of City History",
+              "tip_4lang": {
+                "de": "Perfektes Ziel für Regentage; planen Sie mehr Zeit ein.",
+                "hu": "Tökéletes célpont esős napokra; szánjon rá több időt.",
+                "ro": "Destinație perfectă pentru zilele ploioase; acordați-i timp.",
+                "en": "Perfect destination for rainy days; plan for extra time here."
+              }
+            },
+            {
+              "name": "Medieval City Wall",
+              "tip_4lang": {
+                "de": "Vorsicht bei den Treppenaufgängen, die Steine sind glatt.",
+                "hu": "Vigyázzon a lépcsőkön, a kövek csúszósak lehetnek.",
+                "ro": "Atenție la scări, pietrele pot fi alunecoase când sunt ude.",
+                "en": "Be careful on the stairs; the stones can be slippery when wet."
+              }
+            },
+            {
+              "name": "Frauenstein Castle",
+              "tip_4lang": {
+                "de": "Der Weg kann matschig sein; festes Schuhwerk ist nötig.",
+                "hu": "Az út sáros lehet; vízálló túrabakancs ajánlott.",
+                "ro": "Drumul poate fi noroios; aveți nevoie de încălțăminte solidă.",
+                "en": "The path might be muddy; sturdy waterproof shoes are needed."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine hochwertige Regenjacke, da der Wind in den Gassen kühl sein kann.",
+              "Die Arkaden am Hauptplatz sind der beste Ort für eine trockene Kaffeepause.",
+              "Besuchen Sie das Museum der Herzogsburg, wenn der Regen am stärksten ist.",
+              "Achten Sie auf das Kopfsteinpflaster, es wird bei Nässe sehr rutschig."
+            ],
+            "hu": [
+              "Viseljen jó minőségű esőkabátot, mert a szél hűvös lehet a sikátorokban.",
+              "A főtéri árkádok a legjobb helyek egy száraz kávészünethez.",
+              "A hercegi vár múzeumát akkor látogassa meg, amikor a leghevesebb az eső.",
+              "Vigyázzon a macskaköveken, mert vizesen rendkívül csúszósak."
+            ],
+            "ro": [
+              "Purtați o jachetă impermeabilă de calitate, vântul poate fi rece pe străduțe.",
+              "Arcadele din piața centrală sunt cel mai bun loc pentru o pauză de cafea.",
+              "Vizitați muzeul din Herzogsburg când ploaia este cea mai densă.",
+              "Atenție la pavajul cu piatră cubică, devine foarte alunecos când e ud."
+            ],
+            "en": [
+              "Wear a high-quality raincoat, as the wind in the alleys can be chilly.",
+              "The arcades at the main square are the best spot for a dry coffee break.",
+              "Visit the Ducal Castle museum when the rain is at its heaviest.",
+              "Watch your step on the cobblestones; they become very slippery when wet."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Winter hüllt St. Veit in eine besinnliche Atmosphäre, oft mit Raureif an der Stadtmauer. Morgens wärmt ein Kaffee am Hauptplatz, bevor es in die beheizten Hallen des Rathauses geht. Mittags bietet die Stadtpfarrkirche Stille und Schutz vor der Kälte. Der Nachmittag am Schloss Frauenstein wirkt wie aus einem Märchen, bevor Sie den Tag bei Kerzenschein in der Altstadt ausklingen lassen.",
+            "hu": "A tél Szent Vitus városát békés hangulatba öltözteti, gyakran zúzmarás városfalakkal. Reggel a főtéren egy forró kávé ad energiát a városháza megtekintése előtt. Délben a plébániatemplom csendje és viszonylagos melege várja. Délután a Frauenstein-kastély havas tája mesebeli látványt nyújt, majd az este gyertyafényes vacsorával zárul az óvárosban.",
+            "ro": "Iarna îmbracă St. Veit într-o atmosferă contemplativă, adesea cu chiciură pe zidurile orașului. Dimineața, o cafea în piața centrală vă încălzește înainte de a intra în primărie. La prânz, biserica parohială oferă liniște și protecție împotriva gerului. După-amiaza la castelul Frauenstein pare desprinsă din basme, înainte de a încheia ziua la lumina lumânărilor în centrul vechi.",
+            "en": "Winter wraps St. Veit in a contemplative atmosphere, often with frost dusting the city walls. Start with a hot coffee at the main square before exploring the historic Town Hall. At noon, the St. Vitus church offers a quiet refuge from the cold. The afternoon trip to Frauenstein Castle feels like a fairy tale in the snow, ending with a candlelit dinner in the cozy old town."
+          },
+          "stops": [
+            {
+              "name": "Main Square & Schüsselbrunnen Fountain",
+              "tip_4lang": {
+                "de": "Genießen Sie die Winterbeleuchtung und die heißen Getränke.",
+                "hu": "Élvezze a téli kivilágítást és a forró italokat a kávézókban.",
+                "ro": "Bucurați-vă de iluminatul de iarnă și de băuturile fierbinți.",
+                "en": "Enjoy the festive winter lighting and warm up with a hot drink."
+              }
+            },
+            {
+              "name": "Town Hall",
+              "tip_4lang": {
+                "de": "Die prunkvollen Innenräume sind meist angenehm temperiert.",
+                "hu": "A díszes belső terek általában kellemes hőmérsékletűek.",
+                "ro": "Interioarele somptuoase au de obicei o temperatură plăcută.",
+                "en": "The magnificent interiors are usually kept at a comfortable temperature."
+              }
+            },
+            {
+              "name": "Plague Column",
+              "tip_4lang": {
+                "de": "Im Winter oft von einer dünnen Schneeschicht bedeckt.",
+                "hu": "Télen gyakran vékony hóréteg borítja, fotogén látvány.",
+                "ro": "Iarna este adesea acoperită de un strat subțire de zăpadă.",
+                "en": "In winter, it is often covered by a photogenic layer of snow."
+              }
+            },
+            {
+              "name": "Parish Church of St. Vitus",
+              "tip_4lang": {
+                "de": "Nutzen Sie die Kirchenbänke für eine kurze Aufwärmpause.",
+                "hu": "Használja ki a padokat egy rövid felmelegedési szünetre.",
+                "ro": "Folosiți băncile din biserică pentru o scurtă pauză de încălzire.",
+                "en": "Use the pews for a quick break to warm up from the frost."
+              }
+            },
+            {
+              "name": "Ducal Castle & Museum of City History",
+              "tip_4lang": {
+                "de": "Die dicken Mauern halten die Kälte gut ab.",
+                "hu": "A vastag falak jól felfogják a kinti hideget.",
+                "ro": "Zidurile groase izolează bine împotriva frigului de afară.",
+                "en": "The thick castle walls provide good insulation against the cold."
+              }
+            },
+            {
+              "name": "Medieval City Wall",
+              "tip_4lang": {
+                "de": "Achten Sie auf Glatteis auf den schattigen Abschnitten.",
+                "hu": "Ügyeljen a jegesedésre az árnyékosabb szakaszokon.",
+                "ro": "Atenție la porțiunile cu gheață în zonele umbrite.",
+                "en": "Watch out for black ice on the shaded sections of the wall."
+              }
+            },
+            {
+              "name": "Frauenstein Castle",
+              "tip_4lang": {
+                "de": "Planen Sie die Rückkehr vor Einbruch der Dunkelheit (ca. 16:30).",
+                "hu": "Tervezze a visszatérést sötétedés előtt (kb. 16:30).",
+                "ro": "Planificați întoarcerea înainte de lăsarea întunericului (cca. 16:30).",
+                "en": "Plan to return before sunset, which occurs around 4:30 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schichten Sie Ihre Kleidung (Zwiebelprinzip) für Innen- und Außentouren.",
+              "Die Sonne verschwindet früh hinter den Bergen, starten Sie zeitig.",
+              "Wärmen Sie sich zwischendurch in den Cafés am Unteren Platz auf.",
+              "Tragen Sie Schuhe mit gutem Profil wegen möglicher Eisglätte."
+            ],
+            "hu": [
+              "Öltözzön rétegesen a kinti és benti helyszínek közötti váltáshoz.",
+              "A nap korán eltűnik a hegyek mögött, kezdje korán a napot.",
+              "Melegedjen fel időnként az alsó tér (Unterer Platz) kávézóiban.",
+              "Viseljen jó tapadású talpú cipőt az esetleges jegesedés miatt."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi pentru tranziția între interior și exterior.",
+              "Soarele apune devreme după munți, începeți vizita cât mai devreme.",
+              "Încălziți-vă periodic în cafenelele din piața de jos (Unterer Platz).",
+              "Purtați încălțăminte cu talpă aderentă din cauza posibilei gheți."
+            ],
+            "en": [
+              "Dress in layers (onion principle) for indoor and outdoor activities.",
+              "The sun sets early behind the mountains; start your day early.",
+              "Warm up periodically in the cozy cafes at the Lower Square.",
+              "Wear shoes with good grip to handle potential icy patches on the ground."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -749,6 +949,188 @@
           "Watch out for pedestrians in the city center.",
           "A water bottle and small snacks are recommended for the longer tour."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert in St. Veit eine gute Ausrüstung, belohnt aber mit leeren Wegen. Morgens geht es durch die Altstadt zum Rathaus, mittags zur Herzogsburg, wo das Rad sicher untergestellt werden kann. Die Fahrt zum Schloss Frauenstein führt über nassen Asphalt, der den Duft der Kärntner Wiesen intensiviert. Abends kehren Sie mit frischem Kopf und nassen Reifen zum Hauptplatz zurück.",
+            "hu": "Az esős kerékpározás Szent Vitusban jó felszerelést igényel, de cserébe üres utakat kínál. Reggel az óvároson át a városházához tekerünk, délben a hercegi várnál hagyjuk a gépet fedett helyen. A Frauenstein-kastély felé vezető vizes aszfalton intenzívebb a karintiai rétek illata. Este friss fejjel és vizes gumiabroncsokkal térünk vissza a főtérre.",
+            "ro": "Ciclismul pe ploaie în St. Veit necesită echipament bun, dar vă răsplătește cu trasee libere. Dimineața traversați orașul spre primărie, la prânz spre Herzogsburg, unde bicicleta poate fi lăsată la adăpost. Drumul spre castelul Frauenstein pe asfalt ud intensifică parfumul pajiștilor carintiene. Seara vă întoarceți în piața centrală cu mintea limpede și anvelopele ude.",
+            "en": "Cycling in the rain through St. Veit requires proper gear but rewards you with quiet paths. Start in the old town at the Town Hall, then head to the Ducal Castle where bikes can be parked under cover. The ride to Frauenstein Castle on wet asphalt intensifies the scent of the Carinthian meadows. By evening, you'll return to the main square with a fresh perspective and wet tires."
+          },
+          "stops": [
+            {
+              "name": "Main Square & Town Hall",
+              "tip_4lang": {
+                "de": "Vorsicht auf dem glatten Kopfsteinpflaster im Zentrum.",
+                "hu": "Vigyázzon a csúszós macskaköveken a központban.",
+                "ro": "Atenție pe piatra cubică alunecoasă din centru.",
+                "en": "Be extra careful on the slippery cobblestones in the center."
+              }
+            },
+            {
+              "name": "Parish Church & Plague Column",
+              "tip_4lang": {
+                "de": "Fahrradständer sind in der Nähe vorhanden.",
+                "hu": "A közelben kerékpártárolók találhatók.",
+                "ro": "Există suporturi pentru biciclete în apropiere.",
+                "en": "Bicycle racks are available nearby for your convenience."
+              }
+            },
+            {
+              "name": "Ducal Castle & Museum of City History",
+              "tip_4lang": {
+                "de": "Stellen Sie das Rad im geschützten Eingangsbereich ab.",
+                "hu": "Hagyja a kerékpárt a védett bejárati részen.",
+                "ro": "Lăsați bicicleta în zona de intrare protejată.",
+                "en": "Park your bike in the sheltered entrance area if possible."
+              }
+            },
+            {
+              "name": "Along the City Wall",
+              "tip_4lang": {
+                "de": "Meiden Sie bei starkem Regen unbefestigte Randwege.",
+                "hu": "Heves esőben kerülje a burkolatlan szegélyutakat.",
+                "ro": "Evitați drumurile de margine neasfaltate pe ploaie torențială.",
+                "en": "Avoid unpaved shoulder paths during heavy rainfall."
+              }
+            },
+            {
+              "name": "Frauenstein Castle",
+              "tip_4lang": {
+                "de": "Der Anstieg kann bei Nässe rutschig sein; vorsichtig bremsen.",
+                "hu": "Az emelkedő csúszós lehet; óvatosan fékezzen lefelé.",
+                "ro": "Urcarea poate fi alunecoasă; frânați cu grijă la coborâre.",
+                "en": "The climb can be slick; use caution when braking on the descent."
+              }
+            },
+            {
+              "name": "Back to the Main Square",
+              "tip_4lang": {
+                "de": "Suchen Sie sich einen Platz unter den Arkaden.",
+                "hu": "Keressen egy védett helyet az árkádok alatt.",
+                "ro": "Căutați un loc ferit sub arcadele pieței.",
+                "en": "Find a sheltered spot under the arcades to finish your trip."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie abrupte Bremsmanöver auf nassem Kopfsteinpflaster.",
+              "Vollständige Regenmontur inklusive Überschuhen ist dringend empfohlen.",
+              "Prüfen Sie Ihre Bremsbeläge vor der Abfahrt nach Frauenstein.",
+              "Nutzen Sie die Radwege entlang der Glan, die oft weniger Pfützen haben."
+            ],
+            "hu": [
+              "Kerülje a hirtelen fékezést a vizes macskaköveken.",
+              "Teljes esőruházat, beleértve a cipővédőt is, erősen ajánlott.",
+              "Ellenőrizze a fékbetéteket a Frauenstein felé tartó lejtő előtt.",
+              "Használja a Glan menti kerékpárutakat, ott kevesebb a pocsolya."
+            ],
+            "ro": [
+              "Evitați frânarea bruscă pe piatra cubică umedă.",
+              "Echipamentul complet de ploaie, inclusiv protecțiile pentru pantofi, este recomandat.",
+              "Verificați plăcuțele de frână înainte de plecarea spre Frauenstein.",
+              "Folosiți pistele de biciclete de-a lungul râului Glan, au mai puține bălți."
+            ],
+            "en": [
+              "Avoid sudden braking maneuvers on wet cobblestones.",
+              "Full rain gear, including shoe covers, is highly recommended.",
+              "Check your brake pads before heading out towards Frauenstein.",
+              "Use the bike paths along the Glan river; they often have fewer puddles."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in St. Veit ist erfrischend und bietet klare Fernsichten auf die Karawanken. Morgens führt der Weg durch die festlich beleuchtete Altstadt. Mittags wärmen Sie sich im Museum auf, bevor Sie die winterliche Etappe nach Frauenstein antreten. Die kalte Luft sorgt für klare Lungen, während die tiefstehende Sonne die Burgruinen in goldenes Licht taucht. Abends ist eine heiße Suppe am Hauptplatz Pflicht.",
+            "hu": "A téli kerékpározás Szent Vitusban frissítő, és tiszta kilátást nyújt a Karavankákra. Reggel az ünnepi díszben úszó óvároson át vezet az út. Délben a múzeumban melegedhetünk fel a Frauenstein felé tartó szakasz előtt. A hideg levegő kitisztítja a tüdőt, miközben az alacsonyan járó nap arany fénybe vonja a várromokat. Este egy forró leves kötelező a főtéren.",
+            "ro": "Ciclismul de iarnă în St. Veit este revigorant și oferă vederi clare spre munții Karawanken. Dimineața, traseul trece prin orașul vechi iluminat festiv. La prânz vă încălziți în muzeu înainte de etapa hibernală spre Frauenstein. Aerul rece vă împrospătează, în timp ce soarele jos scaldă ruinele în lumină aurie. Seara, o supă fierbinte în piața centrală este obligatorie.",
+            "en": "Winter cycling in St. Veit is refreshing and offers crisp views of the Karawanken mountains. Your morning route passes through the festively lit old town. Warm up at the museum during midday before the winter ride to Frauenstein. The cold air is invigorating, and the low sun casts a golden glow on the castle ruins. Finish with a hearty hot soup at the main square."
+          },
+          "stops": [
+            {
+              "name": "Main Square & Town Hall",
+              "tip_4lang": {
+                "de": "Vorsicht vor gefrorenem Tauwasser am frühen Morgen.",
+                "hu": "Vigyázzon a kora reggeli lefagyott pára miatt.",
+                "ro": "Atenție la condensul înghețat la primele ore ale dimineții.",
+                "en": "Watch out for frozen dew on the ground early in the morning."
+              }
+            },
+            {
+              "name": "Parish Church & Plague Column",
+              "tip_4lang": {
+                "de": "Stellen Sie das Rad an einem trockenen Ort ab.",
+                "hu": "Hagyja a kerékpárt száraz, védett helyen.",
+                "ro": "Lăsați bicicleta într-un loc cât mai uscat.",
+                "en": "Park your bike in a dry spot to avoid ice buildup."
+              }
+            },
+            {
+              "name": "Ducal Castle & Museum of City History",
+              "tip_4lang": {
+                "de": "Perfekter Ort, um die Finger wieder aufzuwärmen.",
+                "hu": "Tökéletes hely az ujjak felmelegítésére.",
+                "ro": "Locul perfect pentru a vă reîncălzi degetele.",
+                "en": "The perfect place to warm up your fingers inside the museum."
+              }
+            },
+            {
+              "name": "Along the City Wall",
+              "tip_4lang": {
+                "de": "Schattige Wege können länger vereist bleiben.",
+                "hu": "Az árnyékos utak hosszabb ideig jegesek maradhatnak.",
+                "ro": "Drumurile umbrite pot rămâne înghețate mai mult timp.",
+                "en": "Shaded paths may remain icy longer than sunlit ones."
+              }
+            },
+            {
+              "name": "Frauenstein Castle",
+              "tip_4lang": {
+                "de": "Nehmen Sie einen Tee in der Thermoskanne für die Pause mit.",
+                "hu": "Vigyen magával teát termoszban a pihenőhöz.",
+                "ro": "Luați un ceai în termos pentru pauza de la castel.",
+                "en": "Bring a thermos with hot tea for your break at the castle."
+              }
+            },
+            {
+              "name": "Back to the Main Square",
+              "tip_4lang": {
+                "de": "Beleuchtung prüfen; es wird schon früh dunkel.",
+                "hu": "Ellenőrizze a világítást; korán sötétedik.",
+                "ro": "Verificați luminile; se întunecă foarte devreme.",
+                "en": "Check your lights; it gets dark quite early in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Gute Handschuhe und Wintersocken sind für Radfahrer essenziell.",
+              "Achten Sie auf Streusalz, es kann die Fahrradkette korrodieren.",
+              "Der Akku von E-Bikes entlädt sich bei Kälte deutlich schneller.",
+              "Nutzen Sie die Mittagsstunden für die Fahrt nach Frauenstein."
+            ],
+            "hu": [
+              "A jó kesztyű és a téli zokni elengedhetetlen a kerékpárosoknak.",
+              "Vigyázzon az útszóró sóval, korrodálhatja a kerékpárláncot.",
+              "Az elektromos kerékpárok akkumulátora sokkal gyorsabban merül hidegben.",
+              "A déli órákat használja ki a Frauenstein felé tartó útra."
+            ],
+            "ro": [
+              "Mănușile bune și șosetele de iarnă sunt esențiale pentru bicicliști.",
+              "Atenție la sarea de pe drum, poate coroda lanțul bicicletei.",
+              "Bateria bicicletelor electrice se descarcă mult mai repede la ger.",
+              "Folosiți orele amiezii pentru drumul spre Frauenstein."
+            ],
+            "en": [
+              "Good gloves and winter socks are essential for cyclists.",
+              "Be aware of road salt, as it can corrode your bicycle chain.",
+              "E-bike batteries drain significantly faster in cold temperatures.",
+              "Make use of the midday hours for your ride to Frauenstein Castle."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1107,6 +1489,188 @@
           "Pay attention to speed limits in the towns.",
           "A navigation device or map app is helpful."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist St. Veit auch im Regen komfortabel zu erkunden. Parken Sie nahe dem Hauptplatz und genießen Sie die Architektur unter dem Regenschirm. Die Fahrt nach Frauenstein bietet Ausblicke auf die nebelverhangenen Hügel Mittelkärntens. Mittags und nachmittags bieten die Museen und Burgen ein trockenes Programm, während draußen der Regen die Landschaft erfrischt. Abends ist die Rückfahrt ins Stadtzentrum kurz und bequem.",
+            "hu": "Autóval Szent Vitus esőben is kényelmesen felfedezhető. Parkoljon a főtér közelében, és élvezze az építészetet az esernyő alól. A Frauenstein felé vezető út kilátást nyújt Közép-Karintia ködbe burkolózó dombjaira. Délben és délután a múzeumok és várak száraz programot kínálnak, miközben odakint az eső felfrissíti a tájat. Este a visszaút a városközpontba rövid és kényelmes.",
+            "ro": "Cu mașina, St. Veit poate fi explorat confortabil chiar și pe ploaie. Parcați lângă piața centrală și admirați arhitectura sub umbrelă. Drumul spre Frauenstein oferă vederi spre dealurile cețoase ale Carintiei Centrale. La prânz și după-amiaza, muzeele și castelele oferă un program uscat, în timp ce ploaia împrospătează peisajul. Seara, drumul de întoarcere este scurt și comod.",
+            "en": "Exploring St. Veit by car is comfortable even in the rain. Park near the main square and enjoy the architecture from under your umbrella. The drive to Frauenstein offers views of misty hills in Central Carinthia. Spend your midday and afternoon in museums and castles to stay dry while the rain refreshes the landscape outside. Your evening return to the center will be quick and easy."
+          },
+          "stops": [
+            {
+              "name": "Parking & Main Square",
+              "tip_4lang": {
+                "de": "Parkhäuser im Zentrum nutzen, um kurze Wege zu haben.",
+                "hu": "Használja a központi parkolóházakat a rövid gyalogút érdekében.",
+                "ro": "Folosiți parcările etajate din centru pentru acces rapid.",
+                "en": "Use central parking garages to minimize walking in the rain."
+              }
+            },
+            {
+              "name": "Town Hall & Schüsselbrunnen Fountain",
+              "tip_4lang": {
+                "de": "Kurzer Sprint vom Parkplatz zum Rathauseingang.",
+                "hu": "Rövid sprint a parkolótól a városháza bejáratáig.",
+                "ro": "Sprint scurt de la parcare până la intrarea primăriei.",
+                "en": "A short sprint from the car to the town hall entrance."
+              }
+            },
+            {
+              "name": "Parish Church of St. Vitus",
+              "tip_4lang": {
+                "de": "Parkplätze direkt vor der Kirche sind oft verfügbar.",
+                "hu": "A templom előtt közvetlenül gyakran van szabad parkoló.",
+                "ro": "Locurile de parcare chiar în fața bisericii sunt adesea libere.",
+                "en": "Parking spots directly in front of the church are often available."
+              }
+            },
+            {
+              "name": "Drive to Frauenstein Castle",
+              "tip_4lang": {
+                "de": "Vorsicht bei Aquaplaning auf der Landstraße.",
+                "hu": "Vigyázzon az aquaplaning veszélyére az országúton.",
+                "ro": "Atenție la acvaplanare pe drumul național.",
+                "en": "Watch out for aquaplaning on the rural roads."
+              }
+            },
+            {
+              "name": "Ducal Castle & Museum",
+              "tip_4lang": {
+                "de": "Der Parkplatz ist nur wenige Schritte vom Museum entfernt.",
+                "hu": "A parkoló csak néhány lépésre van a múzeumtól.",
+                "ro": "Parcarea este la doar câțiva pași de muzeu.",
+                "en": "The parking area is just a few steps away from the museum."
+              }
+            },
+            {
+              "name": "Walk at the City Wall",
+              "tip_4lang": {
+                "de": "Nutzen Sie den Wagen als Basis, falls der Regen stärker wird.",
+                "hu": "Használja az autót bázisként, ha elered az eső.",
+                "ro": "Folosiți mașina ca bază dacă ploaia se intensifică.",
+                "en": "Use your car as a base to retreat if the rain gets heavier."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Parkgarage am Hauptplatz für maximalen Komfort.",
+              "Halten Sie einen Regenschirm im Auto griffbereit.",
+              "Die Landstraßen um St. Veit können bei Regen rutschig sein.",
+              "Besuchen Sie das Museum der Herzogsburg als längeren Indoor-Stopp."
+            ],
+            "hu": [
+              "Használja a főtéri parkolóházat a maximális kényelemért.",
+              "Tartson egy esernyőt az autóban kézközelben.",
+              "A Szent Vitus környéki utak esőben csúszósak lehetnek.",
+              "A hercegi vár múzeuma legyen a hosszabb beltéri program."
+            ],
+            "ro": [
+              "Folosiți parcarea subterană din piața centrală pentru confort.",
+              "Păstrați o umbrelă la îndemână în mașină.",
+              "Drumurile județene din jurul orașului pot fi alunecoase pe ploaie.",
+              "Vizitați muzeul din Herzogsburg pentru o pauză lungă la interior."
+            ],
+            "en": [
+              "Use the parking garage at the main square for maximum comfort.",
+              "Keep an umbrella handy in the car at all times.",
+              "Rural roads around St. Veit can be slick during rainfall.",
+              "Visit the Ducal Castle museum for an extended indoor stay."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Fahrt durch St. Veit ist sicher und bietet wunderschöne verschneite Landschaften. Morgens starten Sie im beheizten Wagen zur Altstadt, wo die Weihnachtsbeleuchtung noch glimmt. Mittags und nachmittags wechseln Sie zwischen den historischen Innenräumen der Burgen und dem Komfort Ihres Autos. Der Ausblick auf das verschneite Schloss Frauenstein ist ein Highlight jeder Winterreise. Abends parken Sie bequem nahe der besten Gasthäuser.",
+            "hu": "A téli autózás Szent Vitusban biztonságos, és gyönyörű havas tájakat kínál. Reggel fűtött autóval indul az óvárosba, ahol még pislákol az ünnepi világítás. Délben és délután a várak történelmi belső terei és az autó kényelme között váltogathat. A havas Frauenstein-kastély látványa minden téli út fénypontja. Este kényelmesen parkolhat a legjobb éttermek közelében.",
+            "ro": "Drumul de iarnă prin St. Veit este sigur și oferă peisaje înzăpezite superbe. Dimineața porniți cu mașina încălzită spre centrul vechi, unde luminile de sărbători încă strălucesc. La prânz și după-amiaza alternați între interioarele castelelor și confortul mașinii. Vederea spre castelul Frauenstein înzăpezit este punctul culminant al călătoriei. Seara parcați comod lângă cele mai bune restaurante.",
+            "en": "A winter drive through St. Veit is safe and reveals beautiful snowy landscapes. Start in your heated car and head to the old town to see the festive decorations. Spend your midday and afternoon alternating between historic castle interiors and the comfort of your vehicle. The view of Frauenstein Castle in the snow is a winter highlight. Park conveniently near the town's best eateries for dinner."
+          },
+          "stops": [
+            {
+              "name": "Parking & Main Square",
+              "tip_4lang": {
+                "de": "Achten Sie auf vereiste Flächen auf den Parkplätzen.",
+                "hu": "Ügyeljen a jeges foltokra a parkolóhelyeken.",
+                "ro": "Atenție la porțiunile înghețate din parcări.",
+                "en": "Watch out for icy patches in the parking areas."
+              }
+            },
+            {
+              "name": "Town Hall & Schüsselbrunnen Fountain",
+              "tip_4lang": {
+                "de": "Der Brunnen ist im Winter oft kunstvoll eingehaust.",
+                "hu": "A kutat télen gyakran díszes burkolattal védik.",
+                "ro": "Fântâna este adesea protejată iarna cu o structură decorativă.",
+                "en": "The fountain is often covered with a protective winter shell."
+              }
+            },
+            {
+              "name": "Parish Church of St. Vitus",
+              "tip_4lang": {
+                "de": "Heizung im Auto aufdrehen, bevor Sie aussteigen.",
+                "hu": "Fűtse fel az autót, mielőtt kiszáll a hidegbe.",
+                "ro": "Porniți încălzirea în mașină înainte de a coborî.",
+                "en": "Turn up the car heater before stepping out into the cold."
+              }
+            },
+            {
+              "name": "Drive to Frauenstein Castle",
+              "tip_4lang": {
+                "de": "Winterreifen sind auf dieser Strecke absolut Pflicht.",
+                "hu": "A téli gumi ezen a szakaszon kötelező.",
+                "ro": "Anvelopele de iarnă sunt obligatorii pe acest traseu.",
+                "en": "Winter tires are strictly mandatory for this route."
+              }
+            },
+            {
+              "name": "Ducal Castle & Museum",
+              "tip_4lang": {
+                "de": "Ein warmer Ort für den kältesten Teil des Tages.",
+                "hu": "Meleg menedék a nap leghidegebb részében.",
+                "ro": "Un loc călduros pentru cea mai rece parte a zilei.",
+                "en": "A warm sanctuary for the coldest part of the day."
+              }
+            },
+            {
+              "name": "Walk at the City Wall",
+              "tip_4lang": {
+                "de": "Kurzer Spaziergang reicht bei eisigem Wind.",
+                "hu": "Jeges szélben egy rövid séta is elegendő itt.",
+                "ro": "O scurtă plimbare este suficientă dacă bate vântul înghețat.",
+                "en": "A short walk is enough if the winter wind is biting."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Führen Sie einen Eiskratzer und Frostschutzmittel mit.",
+              "Die Parkplatzsuche ist im Winter einfacher als im Sommer.",
+              "Vermeiden Sie späte Fahrten nach Frauenstein bei Schneefall.",
+              "Nutzen Sie die Sitzheizung für die kurzen Fahrten zwischen den Spots."
+            ],
+            "hu": [
+              "Legyen Önnél jégkaparó és fagyálló folyadék.",
+              "Télen általában könnyebb parkolót találni, mint nyáron.",
+              "Hóesésben kerülje a késői autózást Frauenstein felé.",
+              "Használja az ülésfűtést a helyszínek közötti rövid utakon."
+            ],
+            "ro": [
+              "Aveți la voi o răzuitoare de gheață și lichid de parbriz de iarnă.",
+              "Găsirea unui loc de parcare este mai ușoară iarna decât vara.",
+              "Evitați drumurile târzii spre Frauenstein dacă ninge.",
+              "Folosiți încălzirea în scaune pentru drumurile scurte între obiective."
+            ],
+            "en": [
+              "Keep an ice scraper and antifreeze fluid in your car.",
+              "Finding a parking spot is generally easier in winter than in summer.",
+              "Avoid late-day drives to Frauenstein if snow is falling.",
+              "Utilize seat heaters for the short drives between the sights."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1463,6 +2027,188 @@
           "Be at the bus stop on time, especially for less frequent lines.",
           "Not all buses are barrier-free, check this if necessary."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Öffentliche Verkehrsmittel in St. Veit bieten an Regentagen trockenen Komfort. Morgens bringt Sie der Bus direkt zum Hauptplatz, wo die Arkaden Schutz bieten. Mittags nutzen Sie die Verbindungen zur Herzogsburg, während Sie den Regen durch die Busfenster beobachten. Die Fahrt nach Frauenstein ist auch bei Nässe zuverlässig. Abends kehren Sie bequem und trocken ins Stadtzentrum zurück, ohne sich um die Parkplatzsuche sorgen zu müssen.",
+            "hu": "A tömegközlekedés Szent Vitusban esős napokon is száraz kényelmet nyújt. Reggel a busz közvetlenül a főtérre viszi, ahol az árkádok védenek. Délben használja a járatokat a hercegi várhoz, miközben az ablakon át figyeli az esőt. A Frauenstein felé tartó busz esőben is megbízható. Este kényelmesen és szárazon térhet vissza a városközpontba, parkolási gondok nélkül.",
+            "ro": "Transportul public în St. Veit oferă confort uscat în zilele ploioase. Dimineața, autobuzul vă lasă direct în piața centrală, unde arcadele vă protejează. La prânz folosiți conexiunile spre Herzogsburg, admirând ploaia prin fereastră. Cursa spre Frauenstein este sigură și pe ploaie. Seara vă întoarceți comod în centru, fără grija parcării sau a drumurilor ude.",
+            "en": "Public transit in St. Veit offers dry comfort on rainy days. Start your morning with a bus ride directly to the main square. During midday, use local connections to reach the Ducal Castle while watching the rain from the bus window. The transit route to Frauenstein remains reliable in wet weather. Return to the center comfortably in the evening without worrying about parking."
+          },
+          "stops": [
+            {
+              "name": "Arrival & Main Square Cluster",
+              "tip_4lang": {
+                "de": "Bushaltestellen im Zentrum sind oft überdacht.",
+                "hu": "A belvárosi buszmegállók gyakran fedettek.",
+                "ro": "Stațiile de autobuz din centru sunt adesea acoperite.",
+                "en": "Many bus stops in the center are sheltered from the rain."
+              }
+            },
+            {
+              "name": "Town Hall & Parish Church",
+              "tip_4lang": {
+                "de": "Kurze Gehwege zwischen den Haltestellen und Sehenswürdigkeiten.",
+                "hu": "Rövid gyalogutak a megállók és a látnivalók között.",
+                "ro": "Distanțe scurte de mers între stații și obiective.",
+                "en": "Short walking distances between stops and attractions."
+              }
+            },
+            {
+              "name": "Ducal Castle & Museum",
+              "tip_4lang": {
+                "de": "Die Bushaltestelle liegt fast direkt vor dem Museum.",
+                "hu": "A buszmegálló szinte közvetlenül a múzeum előtt van.",
+                "ro": "Stația de autobuz este aproape direct în fața muzeului.",
+                "en": "The bus stop is located almost directly in front of the museum."
+              }
+            },
+            {
+              "name": "Bus ride towards Frauenstein",
+              "tip_4lang": {
+                "de": "Genießen Sie die trockene Fahrt durch die Landschaft.",
+                "hu": "Élvezze a száraz utazást a tájon keresztül.",
+                "ro": "Bucurați-vă de drumul uscat prin peisaj.",
+                "en": "Enjoy the dry ride through the countryside scenery."
+              }
+            },
+            {
+              "name": "Frauenstein Castle",
+              "tip_4lang": {
+                "de": "Prüfen Sie die Rückfahrzeiten; Unterstände sind rar.",
+                "hu": "Ellenőrizze a visszaindulást; kevés a fedett várakozóhely.",
+                "ro": "Verificați orele de retur; adăposturile sunt rare aici.",
+                "en": "Check return times; there are few shelters near the castle."
+              }
+            },
+            {
+              "name": "Return to the center",
+              "tip_4lang": {
+                "de": "Wärmen Sie sich im Bus auf dem Rückweg auf.",
+                "hu": "Melegedjen fel a buszon a visszaúton.",
+                "ro": "Încălziți-vă în autobuz pe drumul de întoarcere.",
+                "en": "Use the bus ride back to the center to warm up."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die 'Kärnten Linien' App für Echtzeit-Infos.",
+              "Ein Tagesticket ist bei Regen oft die günstigste Wahl.",
+              "Die Busse sind gut klimatisiert und meist sehr trocken.",
+              "Planen Sie bei starkem Regen Pufferzeiten für Umstiege ein."
+            ],
+            "hu": [
+              "Használja a 'Kärnten Linien' alkalmazást a valós idejű infókért.",
+              "Az esős napokon a napijegy a leggazdaságosabb választás.",
+              "A buszok jól szellőznek és általában teljesen szárazak.",
+              "Heves esőben számoljon némi pufferidővel az átszállásoknál."
+            ],
+            "ro": [
+              "Folosiți aplicația 'Kärnten Linien' pentru informații în timp real.",
+              "Un bilet de o zi este cea mai economică opțiune pe ploaie.",
+              "Autobuzele sunt bine ventilate și de obicei foarte uscate.",
+              "Planificați o marjă de timp pentru conexiuni în caz de ploaie torențială."
+            ],
+            "en": [
+              "Use the 'Kärnten Linien' app for real-time transit information.",
+              "A day ticket is often the most economical choice on rainy days.",
+              "The buses are well-ventilated and usually perfectly dry inside.",
+              "Allow for a small time buffer for transfers during heavy rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterreisen mit dem Bus durch St. Veit sind entspannt und sicher vor Schnee und Eis. Morgens bringt Sie der gut geheizte Bus in die festliche Altstadt. Mittags erreichen Sie die Herzogsburg bequem, während Sie draußen die Winterlandschaft vorbeiziehen sehen. Die Fahrt nach Frauenstein bietet eine sichere Alternative zur eigenen Autofahrt auf verschneiten Straßen. Abends bringt Sie der Nahverkehr zuverlässig zurück, während in der Stadt die Lichter funkeln.",
+            "hu": "A téli buszozás Szent Vitusban pihentető és biztonságos a hó és jég ellenére. Reggel a jól fűtött busz viszi az ünnepi óvárosba. Délben kényelmesen eléri a hercegi várat, miközben figyeli a kinti téli tájat. A Frauenstein felé tartó járat biztonságos alternatíva a havas utakon való autózáshoz. Este a helyi járatok megbízhatóan visszaszállítják, miközben a város fényei csillognak.",
+            "ro": "Călătoriile de iarnă cu autobuzul în St. Veit sunt relaxate și sigure împotriva zăpezii. Dimineața, autobuzul bine încălzit vă duce în centrul festiv. La prânz ajungeți comod la Herzogsburg, admirând peisajul de iarnă de afară. Cursa spre Frauenstein este o alternativă sigură la condusul pe drumuri înzăpezite. Seara, transportul local vă aduce înapoi în timp ce luminile orașului scânteiază.",
+            "en": "Winter travel by bus through St. Veit is relaxed and safe from snow and ice. Start your morning in a well-heated bus to reach the festive old town. Midday transit to the Ducal Castle is comfortable, letting you watch the winter scenery glide by. The bus to Frauenstein is a safe alternative to driving yourself on snowy roads. In the evening, local transit reliably brings you back as the city lights sparkle."
+          },
+          "stops": [
+            {
+              "name": "Arrival & Main Square Cluster",
+              "tip_4lang": {
+                "de": "Busse sind im Winter meist sehr pünktlich.",
+                "hu": "A buszok télen is általában nagyon pontosak.",
+                "ro": "Autobuzele sunt de obicei foarte punctuale și iarna.",
+                "en": "Buses are usually very punctual, even in winter conditions."
+              }
+            },
+            {
+              "name": "Town Hall & Parish Church",
+              "tip_4lang": {
+                "de": "Warten Sie in den Arkaden, falls der Bus Verspätung hat.",
+                "hu": "Várjon az árkádok alatt, ha késne a busz.",
+                "ro": "Așteptați sub arcade dacă autobuzul are întârziere.",
+                "en": "Wait under the arcades if the bus happens to be delayed."
+              }
+            },
+            {
+              "name": "Ducal Castle & Museum",
+              "tip_4lang": {
+                "de": "Ein kurzer Weg von der Haltestelle in die Wärme.",
+                "hu": "Rövid séta a megállótól a meleg belső térbe.",
+                "ro": "Distanță scurtă de la stație până la căldura din interior.",
+                "en": "Only a very short walk from the stop to the warm interior."
+              }
+            },
+            {
+              "name": "Bus ride towards Frauenstein",
+              "tip_4lang": {
+                "de": "Die Busse haben meist eine sehr gute Heizung.",
+                "hu": "A buszok általában kiváló fűtéssel rendelkeznek.",
+                "ro": "Autobuzele au de obicei o încălzire foarte bună.",
+                "en": "The buses are generally very well-heated in winter."
+              }
+            },
+            {
+              "name": "Frauenstein Castle",
+              "tip_4lang": {
+                "de": "Prüfen Sie den Winterfahrplan; manche Linien fahren seltener.",
+                "hu": "Ellenőrizze a téli menetrendet; egyes járatok ritkábbak.",
+                "ro": "Verificați mersul autobuzelor; unele linii sunt mai rare iarna.",
+                "en": "Check the winter schedule; some lines may run less frequently."
+              }
+            },
+            {
+              "name": "Return to the center",
+              "tip_4lang": {
+                "de": "Letzte Busse fahren oft gegen 18:00; planen Sie voraus.",
+                "hu": "Az utolsó buszok 18:00 körül indulnak; tervezzen előre.",
+                "ro": "Ultimele autobuze pleacă cam la 18:00; planificați din timp.",
+                "en": "The last buses often run around 6:00 PM; plan ahead."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie warme Schuhe für die Zeit an den Haltestellen.",
+              "Die Hauptlinien verkehren auch bei starkem Schneefall.",
+              "Im Winter ist der Bus entspannter als die Parkplatzsuche.",
+              "Nutzen Sie die Wärme der öffentlichen Verkehrsmittel zum Auftauen."
+            ],
+            "hu": [
+              "Viseljen meleg cipőt a megállókban való várakozáshoz.",
+              "A fővonalak erős hóesésben is közlekednek.",
+              "Télen a buszozás pihentetőbb, mint a parkolóhely-keresés.",
+              "Használja ki a tömegközlekedés melegét a felengedéshez."
+            ],
+            "ro": [
+              "Purtați încălțăminte călduroasă pentru timpul petrecut în stații.",
+              "Liniile principale circulă chiar și în caz de ninsori abundente.",
+              "Iarna, autobuzul este mai relaxant decât căutarea parcării.",
+              "Folosiți căldura din mijloacele de transport pentru a vă încălzi."
+            ],
+            "en": [
+              "Wear warm shoes for the time spent waiting at stops.",
+              "Main transit lines continue to operate even during heavy snow.",
+              "In winter, the bus is more relaxing than searching for parking.",
+              "Take advantage of the warmth on public transit to thaw out."
+            ]
+          }
+        }
       }
     }
   }

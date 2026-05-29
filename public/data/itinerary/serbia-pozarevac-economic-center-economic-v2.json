@@ -358,6 +358,188 @@
           "Check the opening hours of the museums in advance.",
           "Keep some cash handy for small purchases at the market."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt am Denkmal von Miloš Obrenović, wo der Regen die Tabačka čaršija in ein glänzendes Licht taucht. Ein kurzer Sprint führt zur Kathedrale, deren Stille einen perfekten Zufluchtsort bietet.\n\nMittags suchen wir Schutz im Nationalmuseum. Die archäologischen Schätze aus Viminacium lassen das graue Wetter draußen schnell vergessen. Ein gemütliches Mittagessen in der Nähe wärmt auf.\n\nDer Nachmittag ist der Kunst von Milena Pavlović-Barili gewidmet. Ihre Galerie bietet eine intime Atmosphäre. Danach geht es per kurzem Marsch zum Tulba-Hügel, wo das Zelt des Friedens von Požarevac überdacht ist.\n\nAm Abend lockt der Čačalica-Park trotz Nässe. Die asphaltierten Wege sind gut begehbar, und der Duft des nassen Waldes ist erfrischend. Den Tag lassen wir in einem warmen Café im Zentrum ausklingen.",
+            "hu": "A nap az Obrenović-emlékműnél indul, ahol az eső csillogóvá teszi a Tabačka čaršija kövezetét. Egy gyors séta a közeli székesegyházba máris menedéket nyújt a kopogó eső elől.\n\nDélben a Nemzeti Múzeum termeiben bújunk el. A viminaciumi régészeti leletek között repül az idő, miközben kint elered az eső. Egy forró leves a belvárosban visszaadja az életkedvet.\n\nDélután Milena Pavlović-Barili művészetével ismerkedünk a galéria biztonságos falai között. Innen a Tulba-dombra megyünk, ahol a pozsareváci béke emléksátra tető alatt várja a látogatókat.\n\nEste a Čačalica-park aszfaltozott útjain sétálunk egyet. Az eső utáni friss földillat kárpótol a nedvességért. A napot egy barátságos, fűtött belvárosi étteremben zárjuk, helyi borok társaságában.",
+            "ro": "Ziua începe la monumentul lui Miloš Obrenović, unde ploaia face pavajul din Tabačka čaršija să strălucească. O fugă rapidă spre catedrală oferă un refugiu liniștit și uscat.\n\nLa prânz, ne adăpostim în Muzeul Național. Comorile arheologice de la Viminacium ne fac să uităm de vremea mohorâtă de afară. Un prânz cald în centru ne pregătește pentru restul zilei.\n\nDupă-amiaza este dedicată artei Milenei Pavlović-Barili în galeria sa intimă. Continuăm spre dealul Tulba, unde Cortul Păcii de la Požarevac oferă un spațiu expozițional acoperit și fascinant.\n\nSeara explorăm parcul Čačalica pe aleile asfaltate, evitând noroiul. Aerul curat de după ploaie este revigorant. Încheiem ziua într-o cafenea călduroasă din centrul orașului.",
+            "en": "The day starts at the Miloš Obrenović monument, with rain making the Tabačka čaršija pavement glisten. A quick walk to the nearby Cathedral provides a peaceful, dry sanctuary.\n\nAt noon, we take cover in the National Museum. The archaeological treasures from Viminacium make the gray weather outside disappear. A warm lunch in the center restores our energy.\n\nIn the afternoon, we explore the art of Milena Pavlović-Barili inside her gallery. We then head to Tulba Hill, where the Tent of the Požarevac Peace offers a sheltered historical experience.\n\nIn the evening, we visit Čačalica Park, sticking to the paved paths to stay dry. The fresh scent of the wet forest is invigorating. We finish the day in a cozy, heated café in the city center."
+          },
+          "stops": [
+            {
+              "name": "Miloš Obrenović Monument",
+              "tip_4lang": {
+                "de": "Regenschirm fest halten; Windböen in der Tabačka čaršija sind häufig.",
+                "hu": "Tartsuk szorosan az esernyőt; a Tabačka čaršija szeles lehet.",
+                "ro": "Țineți umbrela strâns; rafalele de vânt sunt frecvente în zonă.",
+                "en": "Hold your umbrella tight; wind gusts are common in Tabačka čaršija."
+              }
+            },
+            {
+              "name": "Saborna crkva",
+              "tip_4lang": {
+                "de": "Perfekter Ort, um einen schweren Schauer trocken abzuwarten.",
+                "hu": "Tökéletes hely egy nagyobb zápor szárazon való megvárásához.",
+                "ro": "Locul ideal pentru a aștepta trecerea unei ploi torențiale.",
+                "en": "Perfect place to wait out a heavy downpour in silence."
+              }
+            },
+            {
+              "name": "National Museum Požarevac",
+              "tip_4lang": {
+                "de": "Nutzen Sie die Garderobe für nasse Mäntel vor dem Rundgang.",
+                "hu": "Használjuk a ruhatárat a vizes kabátoknak a körút előtt.",
+                "ro": "Folosiți garderoba pentru haine ude înainte de vizitare.",
+                "en": "Use the cloakroom for wet coats before starting the tour."
+              }
+            },
+            {
+              "name": "Gallery of Milena Pavlović-Barili",
+              "tip_4lang": {
+                "de": "Der überdachte Innenhof bietet Schutz beim Warten auf Einlass.",
+                "hu": "A fedett udvar védelmet nyújt, amíg a bejutásra várunk.",
+                "ro": "Curtea interioară acoperită oferă protecție în timp ce așteptați.",
+                "en": "The covered courtyard provides shelter while waiting for entry."
+              }
+            },
+            {
+              "name": "Tulba - Tent of Požarevac Peace",
+              "tip_4lang": {
+                "de": "Die Ausstellung befindet sich unter einer festen Zeltkonstruktion.",
+                "hu": "A kiállítás egy tartós sátorkonstrukció alatt található.",
+                "ro": "Expoziția se află sub o structură de cort permanentă.",
+                "en": "The exhibition is located under a solid permanent tent structure."
+              }
+            },
+            {
+              "name": "Čačalica Park",
+              "tip_4lang": {
+                "de": "Bleiben Sie auf den Hauptwegen; die Waldpfade können rutschig sein.",
+                "hu": "Maradjunk a főutakon; az erdei ösvények csúszósak lehetnek.",
+                "ro": "Rămâneți pe aleile principale; potecile din pădure pot fi alunecoase.",
+                "en": "Stick to the main paths; forest trails can be slippery."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Tabačka čaršija ist bei Regen rutschig; festes Schuhwerk ist ratsam.",
+              "Das Nationalmuseum bietet stundenlange Beschäftigung im Trockenen.",
+              "Taxis sind im Zentrum günstig, falls der Regen zu stark wird.",
+              "Die Barili-Galerie ist klein, aber bietet exzellenten Schutz vor Wind."
+            ],
+            "hu": [
+              "A Tabačka čaršija kövezete esőben csúszik; válasszunk tapadós talpú cipőt.",
+              "A Nemzeti Múzeum órákig tartó elfoglaltságot kínál fedett helyen.",
+              "A taxik olcsók a központban, ha túl erősen kezdene esni.",
+              "A Barili-galéria kicsi, de kiváló menedéket nyújt a szél elől."
+            ],
+            "ro": [
+              "Pavajul din Tabačka čaršija este alunecos pe ploaie; purtați încălțăminte adecvată.",
+              "Muzeul Național oferă ore de explorare la adăpost de intemperii.",
+              "Taxiurile sunt ieftine în centru dacă ploaia devine prea puternică.",
+              "Galeria Barili este mică, dar oferă un refugiu excelent împotriva vântului."
+            ],
+            "en": [
+              "Tabačka čaršija pavement is slippery when wet; wear shoes with good grip.",
+              "The National Museum offers hours of dry indoor exploration.",
+              "Taxis are affordable in the center if the rain becomes too heavy.",
+              "The Barili Gallery is compact but provides excellent wind protection."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen beginnt am Obrenović-Denkmal. Die klare Winterluft macht die Farben der Stadt intensiver. In der Saborna-Kirche wärmen wir uns kurz auf, bevor es weitergeht.\n\nMittags tauchen wir in die römische Geschichte im Nationalmuseum ein. Die gut geheizten Räume machen den Aufenthalt angenehm. Ein schweres serbisches Mittagessen gibt Kraft für die Kälte.\n\nNachmittags besuchen wir die beheizte Galerie von Milena Pavlović-Barili. Danach geht es zum Tulba-Hügel. Der Blick auf das verschneite Požarevac von hier oben ist bei Sonnenuntergang gegen 16:30 Uhr magisch.\n\nDen Abend verbringen wir im Čačalica-Park. Die beleuchteten Wege wirken im Winter besonders feierlich. Danach zieht es uns schnell zurück in die warmen Gassen des Zentrums für einen Glühwein.",
+            "hu": "Fagyos reggel indul az Obrenović-emlékműnél. A tiszta téli levegőben élesebbek a város fényei. A székesegyházban egy pillanatra felmelegszünk, mielőtt folytatjuk az utat.\n\nDélben a Nemzeti Múzeum fűtött termeiben barangolunk a római emlékek között. A hideg ellen a legjobb gyógyír egy bőséges szerb ebéd egy közeli étteremben.\n\nDélután a Barili-galéria melegében csodáljuk a festményeket. Majd a Tulba-dombra látogatunk, ahonnan a havas Pozsarevác látványa a korai, fél öt körüli naplementében lenyűgöző.\n\nAz estét a Čačalica-parkban kezdjük, ahol a kivilágított utak ünnepi hangulatot árasztanak. A napot a belváros egyik fűtött teraszán zárjuk egy forró itallal.",
+            "ro": "O dimineață geroasă începe la monumentul Obrenović. Aerul rece de iarnă face culorile orașului mai intense. Ne încălzim scurt în catedrală înainte de a porni mai departe.\n\nLa prânz, explorăm istoria romană în Muzeul Național, unde sălile sunt bine încălzite. Un prânz sârbesc consistent este esențial pentru a rezista frigului de afară.\n\nDupă-amiaza vizităm galeria încălzită a Milenei Pavlović-Barili. Apoi urcăm pe dealul Tulba; priveliștea peste Požarevacul înzăpezit la apusul de la ora 16:30 este magică.\n\nSeara ne plimbăm prin parcul Čačalica, unde aleile luminate au un aer festiv iarna. Ne retragem rapid spre străzile calde ale centrului pentru o băutură fierbinte.",
+            "en": "A frosty morning begins at the Obrenović monument. The crisp winter air makes the city's colors feel more intense. We warm up briefly in the Cathedral before moving on.\n\nAt noon, we dive into Roman history at the National Museum, where the heated rooms are very welcome. A hearty Serbian lunch provides the energy needed for the cold.\n\nIn the afternoon, we visit the heated Barili Gallery. Then we head to Tulba Hill; the view of snowy Požarevac at sunset around 16:30 is truly magical.\n\nWe spend the evening in Čačalica Park, where the illuminated paths have a festive winter feel. Afterward, we quickly head back to the warm city center for a hot drink."
+          },
+          "stops": [
+            {
+              "name": "Miloš Obrenović Monument",
+              "tip_4lang": {
+                "de": "Ziehen Sie sich warm an; die Tabačka čaršija liegt oft im Schatten.",
+                "hu": "Öltözzünk rétegesen; a Tabačka čaršija gyakran árnyékos és hideg.",
+                "ro": "Îmbrăcați-vă gros; zona Tabačka čaršija este adesea în umbră.",
+                "en": "Dress warmly; Tabačka čaršija is often in the shade and quite cold."
+              }
+            },
+            {
+              "name": "Saborna crkva",
+              "tip_4lang": {
+                "de": "Ein ruhiger Ort, um sich zwischen den Spaziergängen aufzuwärmen.",
+                "hu": "Csendes hely, ahol felmelegedhetünk a séták között.",
+                "ro": "Un loc liniștit pentru a vă încălzi între plimbările prin oraș.",
+                "en": "A quiet place to warm up between outdoor walks."
+              }
+            },
+            {
+              "name": "National Museum Požarevac",
+              "tip_4lang": {
+                "de": "Die Ausstellungsräume sind gut beheizt und bieten Komfort.",
+                "hu": "A kiállítótermek jól fűtöttek és kényelmesek.",
+                "ro": "Sălile de expoziție sunt bine încălzite și oferă confort termic.",
+                "en": "The exhibition rooms are well-heated and offer great comfort."
+              }
+            },
+            {
+              "name": "Gallery of Milena Pavlović-Barili",
+              "tip_4lang": {
+                "de": "Genießen Sie die Kunst in der gemütlichen Wärme des Hauses.",
+                "hu": "Élvezzük a művészetet a ház barátságos melegében.",
+                "ro": "Bucurați-vă de artă în căldura primitoare a casei memoriale.",
+                "en": "Enjoy the art in the cozy warmth of the memorial house."
+              }
+            },
+            {
+              "name": "Tulba - Tent of Požarevac Peace",
+              "tip_4lang": {
+                "de": "Achtung bei Glätte auf dem Hügel; der Aufstieg kann vereist sein.",
+                "hu": "Vigyázzunk a dombon; a felfelé vezető út jeges lehet.",
+                "ro": "Atenție la polei pe deal; urcarea poate fi înghețată.",
+                "en": "Be careful on the hill; the path up can be icy in winter."
+              }
+            },
+            {
+              "name": "Čačalica Park",
+              "tip_4lang": {
+                "de": "Frühzeitiger Sonnenuntergang; planen Sie den Besuch vor 16:30 Uhr.",
+                "hu": "Korai naplemente; tervezzük a látogatást 16:30 előttre.",
+                "ro": "Apus timpuriu; planificați vizita înainte de ora 16:30.",
+                "en": "Early sunset; plan your visit before 16:30 for better visibility."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Museen sind montags oft geschlossen; prüfen Sie die Öffnungszeiten.",
+              "Tragen Sie Schuhe mit Profil für die Wege im Čačalica-Park.",
+              "Sonnenuntergang ist im Dezember bereits gegen 16:15 Uhr.",
+              "Heiße Schokolade in den Cafés der Innenstadt ist ein Muss."
+            ],
+            "hu": [
+              "A múzeumok hétfőn gyakran zárva vannak; ellenőrizzük a nyitvatartást.",
+              "Viseljünk bordázott talpú cipőt a Čačalica-park útjaihoz.",
+              "A naplemente decemberben már 16:15 körül bekövetkezik.",
+              "A belvárosi kávézók forró csokoládéja kihagyhatatlan télen."
+            ],
+            "ro": [
+              "Muzeele sunt adesea închise lunea; verificați programul în prealabil.",
+              "Purtați încălțăminte cu talpă aderentă pentru parcul Čačalica.",
+              "Apusul soarelui are loc în jurul orei 16:15 în luna decembrie.",
+              "Ciocolata caldă în cafenelele din centru este obligatorie iarna."
+            ],
+            "en": [
+              "Museums are often closed on Mondays; check the winter schedule.",
+              "Wear shoes with good tread for the paths in Čačalica Park.",
+              "Sunset in December occurs as early as 16:15.",
+              "Hot chocolate in the downtown cafés is a winter must-try."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -710,6 +892,188 @@
           "The paths in Čačalica Park can be steep.",
           "Plan enough time for the ride to and from the stud farm."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten am Miloš-Denkmal. Der Regen macht die Straßen glatt, also fahren wir vorsichtig Richtung Nationalmuseum. Das Fahrrad parken wir unter dem Vordach.\n\nMittags radeln wir zum Čačalica-Park. Die nassen Bäume bieten etwas Schutz, aber die asphaltierten Wege sind die sicherste Wahl.\n\nDer Nachmittag führt uns zur Morava. Der Weg ist windanfällig, aber die Aussicht auf den angeschwollenen Fluss ist beeindruckend. Regenkleidung ist hier unverzichtbar.\n\nZurück im Zentrum geht es zur Tulba und zur Barili-Galerie. Wir beenden die Tour frühzeitig, um uns in einer warmen Unterkunft zu trocknen.",
+            "hu": "Az Obrenović-emlékműnél kezdünk. Az eső csúszóssá teszi az utakat, így óvatosan tekerünk a Nemzeti Múzeum felé, ahol az eresz alá parkolunk.\n\nDélben a Čačalica-park felé vesszük az irányt. A vizes lombok adnak némi védelmet, de az aszfaltozott utak a legbiztonságosabbak.\n\nDélután a Morava folyóhoz tekerünk. Az út szeles, de az áradó folyó látványa impozáns. Az esőruha itt elengedhetetlen.\n\nVisszatérve a központba, érintjük a Tulbát és a Barili-galériát. A túrát korán zárjuk, hogy megszárítkozzunk egy fűtött helyen.",
+            "ro": "Pornim de la monumentul Miloš. Ploaia face drumurile alunecoase, așa că pedalăm cu grijă spre Muzeul Național, unde parcăm bicicleta sub streașină.\n\nLa prânz mergem spre parcul Čačalica. Copacii uzi oferă puțină protecție, dar aleile asfaltate sunt cea mai sigură alegere.\n\nDupă-amiaza ne îndreptăm spre râul Morava. Drumul este expus vântului, dar priveliștea râului umflat de ploi este impresionantă. Echipamentul impermeabil este esențial.\n\nReveniți în centru, vizităm Tulba și Galeria Barili. Încheiem turul mai devreme pentru a ne usca într-un loc călduros.",
+            "en": "We start at the Miloš monument. The rain makes the roads slick, so we cycle carefully towards the National Museum, parking under the eaves.\n\nAt noon, we head to Čačalica Park. The wet canopy provides some shelter, but the paved paths are the safest choice for cycling.\n\nIn the afternoon, we ride to the Morava river. The path is windy, but the view of the swollen river is impressive. Rain gear is indispensable here.\n\nBack in the center, we visit Tulba and the Barili Gallery. We end the tour early to dry off in a warm indoor spot."
+          },
+          "stops": [
+            {
+              "name": "Miloš Obrenović Monument",
+              "tip_4lang": {
+                "de": "Vorsicht beim Anfahren auf dem nassen Kopfsteinpflaster.",
+                "hu": "Vigyázzunk az indulásnál a vizes macskakövön.",
+                "ro": "Atenție la pornirea de pe loc pe pavajul ud.",
+                "en": "Be careful when starting off on the wet cobblestones."
+              }
+            },
+            {
+              "name": "National Museum Požarevac",
+              "tip_4lang": {
+                "de": "Fahrradständer sind vorhanden, aber unüberdacht.",
+                "hu": "Vannak kerékpártámaszok, de nem fedettek.",
+                "ro": "Există rastele pentru biciclete, dar nu sunt acoperite.",
+                "en": "Bike racks are available but not covered from the rain."
+              }
+            },
+            {
+              "name": "Čačalica Park",
+              "tip_4lang": {
+                "de": "Vermeiden Sie das Laub auf dem Boden; Rutschgefahr!",
+                "hu": "Kerüljük a vizes leveleket a földön; csúszásveszély!",
+                "ro": "Evitați frunzele ude de pe jos; pericol de alunecare!",
+                "en": "Avoid wet leaves on the ground; high risk of slipping."
+              }
+            },
+            {
+              "name": "Morava River Bank",
+              "tip_4lang": {
+                "de": "Starker Seitenwind auf den offenen Feldern zum Fluss.",
+                "hu": "Erős oldalszél a folyóhoz vezető nyílt terepen.",
+                "ro": "Vânt lateral puternic pe drumul spre râu.",
+                "en": "Strong crosswinds on the open fields leading to the river."
+              }
+            },
+            {
+              "name": "Tulba - Etno Park",
+              "tip_4lang": {
+                "de": "Kurzer, steiler Anstieg, der bei Nässe rutschig ist.",
+                "hu": "Rövid, meredek emelkedő, ami vizesen csúszós.",
+                "ro": "Urcare scurtă și abruptă, alunecoasă pe ploaie.",
+                "en": "Short, steep climb that is slippery when wet."
+              }
+            },
+            {
+              "name": "Gallery of Milena Pavlović-Barili",
+              "tip_4lang": {
+                "de": "Zentraler Standort, ideal für eine Regenpause.",
+                "hu": "Központi helyszín, ideális egy esőszünetre.",
+                "ro": "Locație centrală, ideală pentru o pauză de ploaie.",
+                "en": "Central location, ideal for taking a break from the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche am Fahrrad sind bei diesem Wetter ein Muss.",
+              "Bremsen Sie auf nassem Asphalt deutlich früher ab.",
+              "Die Route zum Fluss Morava kann bei Regen schlammig sein.",
+              "Nutzen Sie die Museen als Etappenziele zum Aufwärmen."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen a kerékpáron ilyen időben.",
+              "Vizes aszfalton fékezzünk jóval korábban.",
+              "A Morava folyóhoz vezető út esőben sáros lehet.",
+              "Használjuk a múzeumokat állomásként a felmelegedéshez."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt obligatorii pe această vreme.",
+              "Frânați mult mai devreme pe asfaltul ud.",
+              "Traseul spre râul Morava poate fi noroios pe ploaie.",
+              "Folosiți muzeele ca puncte de oprire pentru a vă încălzi."
+            ],
+            "en": [
+              "Mudguards are a must-have on your bike in this weather.",
+              "Brake much earlier on wet asphalt to avoid skidding.",
+              "The route to the Morava river can be muddy during rain.",
+              "Use the museums as strategic stops to dry off and warm up."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kalter Wintermorgen in Požarevac. Wir radeln gut eingepackt vom Zentrum zum Nationalmuseum. Die Straßen sind meist geräumt, aber Vorsicht vor Raureif.\n\nMittags geht es zum Čačalica-Park. Die kahlen Bäume geben den Blick auf die Denkmäler frei, und die Fahrt auf den frostigen Wegen ist erfrischend.\n\nDer Nachmittag führt uns weit raus zum Fluss Morava. Die Winterlandschaft am Wasser ist still und weit. Wir müssen uns beeilen, um vor der Dunkelheit zurück zu sein.\n\nNach einem Abstecher zur Tulba und zur Barili-Galerie beenden wir die Tour bei einsetzender Dämmerung. Ein heißer Tee im Zentrum ist die verdiente Belohnung.",
+            "hu": "Hideg téli reggel Pozsarevácon. Jól felöltözve tekerünk a központból a Nemzeti Múzeum felé. Az utak többnyire tiszták, de vigyázzunk a zúzmarára.\n\nDélben a Čačalica-parkba hajtunk. A kopasz fák között messzebbre ellátni az emlékművekig, a fagyos utakon való tekerés frissítő.\n\nDélután messzire merészkedünk a Morava folyóhoz. A téli táj a víznél csendes és tágas. Sietnünk kell, hogy sötétedés előtt visszaérjünk.\n\nEgy rövid kitérő után a Tulba és a Barili-galéria felé, a túrát alkonyatkor zárjuk. Egy forró tea a belvárosban a megérdemelt jutalmunk.",
+            "ro": "O dimineață rece de iarnă în Požarevac. Pedalăm bine înfofoliți din centru spre Muzeul Național. Drumurile sunt în general curățate, dar atenție la chiciură.\n\nLa prânz mergem în parcul Čačalica. Copacii desfrunziți permit o vizibilitate mai bună asupra monumentelor, iar tura pe aleile înghețate este revigorantă.\n\nDupă-amiaza ne duce departe, până la râul Morava. Peisajul de iarnă de lângă apă este liniștit. Trebuie să ne grăbim să ne întoarcem înainte de lăsarea întunericului.\n\nDupă o oprire la Tulba și Galeria Barili, încheiem turul la amurg. Un ceai fierbinte în centru este recompensa binemeritată.",
+            "en": "A cold winter morning in Požarevac. We cycle well-bundled from the center to the National Museum. Roads are mostly clear, but watch out for frost patches.\n\nAt noon, we ride to Čačalica Park. The bare trees offer a clear view of the monuments, and the ride on the frosty paths is quite refreshing.\n\nThe afternoon takes us out to the Morava river. The winter landscape by the water is quiet and vast. We must hurry back to avoid cycling in the dark.\n\nAfter a quick visit to Tulba and the Barili Gallery, we finish the tour at dusk. A hot tea in the city center is our well-deserved reward."
+          },
+          "stops": [
+            {
+              "name": "Miloš Obrenović Monument",
+              "tip_4lang": {
+                "de": "Vorsicht vor überfrierender Nässe in den Morgenstunden.",
+                "hu": "Vigyázzunk a lefagyott részekre a reggeli órákban.",
+                "ro": "Atenție la porțiunile înghețate în orele dimineții.",
+                "en": "Watch out for black ice in the early morning hours."
+              }
+            },
+            {
+              "name": "National Museum Požarevac",
+              "tip_4lang": {
+                "de": "Schließen Sie das Fahrrad gut ab; die Kälte kann Schlösser erschweren.",
+                "hu": "Zárjuk le jól a gépet; a hideg nehezítheti a lakat működését.",
+                "ro": "Încuiați bine bicicleta; frigul poate bloca mecanismul antifurtului.",
+                "en": "Lock your bike securely; extreme cold can affect some locks."
+              }
+            },
+            {
+              "name": "Čačalica Park",
+              "tip_4lang": {
+                "de": "Die Wege sind oft gestreut, aber Vorsicht in Kurven.",
+                "hu": "Az utak gyakran szórtak, de vigyázzunk a kanyarokban.",
+                "ro": "Aleile sunt adesea presărate cu nisip, dar atenție în curbe.",
+                "en": "Paths are often gritted, but be careful on sharp turns."
+              }
+            },
+            {
+              "name": "Morava River Bank",
+              "tip_4lang": {
+                "de": "Sehr kalt durch den Wind am Wasser; Thermokleidung wichtig.",
+                "hu": "A víz melletti szél miatt nagyon hideg van; termoruha fontos.",
+                "ro": "Foarte frig din cauza vântului de pe apă; haine termice necesare.",
+                "en": "Very cold due to wind near the water; thermal gear is vital."
+              }
+            },
+            {
+              "name": "Tulba - Etno Park",
+              "tip_4lang": {
+                "de": "Der Boden kann gefroren und holprig sein.",
+                "hu": "A talaj fagyott és rázós lehet a dombon.",
+                "ro": "Solul poate fi înghețat și denivelat pe deal.",
+                "en": "The ground can be frozen and bumpy on the hill."
+              }
+            },
+            {
+              "name": "Gallery of Milena Pavlović-Barili",
+              "tip_4lang": {
+                "de": "Kurzer Stopp zum Aufwärmen der Hände und Füße.",
+                "hu": "Rövid megálló a kezek és lábak felmelegítésére.",
+                "ro": "Oprire scurtă pentru a vă încălzi mâinile și picioarele.",
+                "en": "Short stop to warm up your hands and feet indoors."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Handschuhe für die Fahrt zum Fluss.",
+              "Prüfen Sie den Reifendruck; Kälte lässt ihn leicht sinken.",
+              "Planen Sie die Rückkehr spätestens für 16:30 Uhr ein.",
+              "Helle Kleidung oder Reflektoren sind in der Winterdämmerung wichtig."
+            ],
+            "hu": [
+              "Viseljünk szélálló kesztyűt a folyóhoz vezető úton.",
+              "Ellenőrizzük a guminyomást; a hidegben csökkenhet.",
+              "Tervezzük a visszatérést legkésőbb 16:30-ra.",
+              "A világos ruházat vagy fényvisszaverő fontos a téli szürkületben."
+            ],
+            "ro": [
+              "Purtați mănuși rezistente la vânt pentru drumul spre râu.",
+              "Verificați presiunea în pneuri; frigul o poate scădea.",
+              "Planificați întoarcerea cel târziu la ora 16:30.",
+              "Hainele deschise la culoare sau reflectorizante sunt esențiale."
+            ],
+            "en": [
+              "Wear windproof gloves for the ride to the river.",
+              "Check tire pressure; cold temperatures can cause it to drop.",
+              "Plan to be back in the center by 16:30 at the latest.",
+              "Bright clothing or reflectors are crucial in the winter twilight."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1086,6 +1450,206 @@
           "Check if the stud farm requires a reservation.",
           "Fuel up before heading to Viminacium."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten bequem mit dem Auto am Miloš-Denkmal. Der Regen stört uns nicht, während wir zum Nationalmuseum fahren. Parkplätze im Zentrum sind bei diesem Wetter gefragt.\n\nMittags verlassen wir die Stadt und fahren zur Morava. Die Scheibenwischer arbeiten ununterbrochen, während wir die Flusslandschaft genießen. Danach geht es weiter nach Viminacium.\n\nIn Viminacium verbringen wir den Nachmittag unter den Schutzdächern der Ausgrabungen. Die riesigen Zelte halten uns trocken, während wir römische Geschichte erleben. Ein Highlight für Regentage.\n\nZum Abend fahren wir zurück nach Požarevac und beenden den Tag im Čačalica-Park, bevor wir uns in ein gemütliches Restaurant zurückziehen.",
+            "hu": "Kényelmesen, autóval indulunk az Obrenović-emlékműtől. Az eső nem zavar minket, miközben a Nemzeti Múzeum felé hajtunk. A parkolóhelyek ilyenkor keresettek a központban.\n\nDélben elhagyjuk a várost és a Morava folyóhoz autózunk. Az ablaktörlők folyamatosan járnak, miközben a folyóparti tájat nézzük. Innen Viminacium felé folytatjuk.\n\nDélutánunkat Viminaciumban, az ásatások védőtetői alatt töltjük. Az óriási sátrak szárazon tartanak minket a római emlékek között. Tökéletes program esőben.\n\nEste visszatérünk Pozsarevácra, teszünk egy rövid kört a Čačalica-parknál, majd behúzódunk egy hangulatos étterembe.",
+            "ro": "Pornim confortabil cu mașina de la monumentul Miloš. Ploaia nu ne deranjează în timp ce mergem spre Muzeul Național. Locurile de parcare din centru sunt la mare căutare pe o astfel de vreme.\n\nLa prânz părăsim orașul și conducem spre Morava. Ștergătoarele lucrează continuu în timp ce admirăm peisajul de lângă râu. Apoi ne îndreptăm spre Viminacium.\n\nPetrecem după-amiaza la Viminacium, sub acoperișurile protectoare ale sitului arheologic. Corturile uriașe ne țin la uscat în timp ce descoperim istoria romană.\n\nSeara revenim în Požarevac și încheiem ziua în parcul Čačalica, înainte de a ne retrage într-un restaurant primitor.",
+            "en": "We start comfortably by car at the Miloš monument. The rain doesn't bother us as we drive to the National Museum. Parking spots in the center are popular in this weather.\n\nAt noon, we leave the city and drive to the Morava river. The wipers work non-stop as we enjoy the riverside landscape. Then we continue to Viminacium.\n\nIn the afternoon, we explore Viminacium under the protective roofs of the excavations. Huge tents keep us dry while we experience Roman history. A highlight for rainy days.\n\nIn the evening, we return to Požarevac and end the day with a quick visit to Čačalica Park before retreating to a cozy restaurant."
+          },
+          "stops": [
+            {
+              "name": "Travel Start",
+              "tip_4lang": {
+                "de": "Gute Sichtverhältnisse trotz Regen dank beheizter Scheiben.",
+                "hu": "Jó látási viszonyok az eső ellenére a fűtött szélvédővel.",
+                "ro": "Vizibilitate bună în ciuda ploii datorită dezaburirii.",
+                "en": "Good visibility despite the rain thanks to heated windshields."
+              }
+            },
+            {
+              "name": "Miloš Obrenović Monument",
+              "tip_4lang": {
+                "de": "Kurzer Fußweg vom Parkplatz; Regenschirm mitnehmen.",
+                "hu": "Rövid séta a parkolótól; vigyünk esernyőt.",
+                "ro": "Scurtă plimbare de la parcare; luați umbrela.",
+                "en": "Short walk from the parking lot; bring an umbrella."
+              }
+            },
+            {
+              "name": "National Museum Požarevac",
+              "tip_4lang": {
+                "de": "Parkhaus im Zentrum nutzen, um im Trockenen auszusteigen.",
+                "hu": "Használjuk a központi parkolót, hogy szárazon szálljunk ki.",
+                "ro": "Folosiți parcarea centrală pentru a coborî la adăpost.",
+                "en": "Use a central parking garage to stay dry when exiting the car."
+              }
+            },
+            {
+              "name": "Morava River Bank",
+              "tip_4lang": {
+                "de": "Achtung vor Aquaplaning auf der Landstraße zum Fluss.",
+                "hu": "Vigyázzunk a vízenfutásra a folyóhoz vezető országúton.",
+                "ro": "Atenție la acvaplanare pe drumul spre râu.",
+                "en": "Watch out for aquaplaning on the rural road to the river."
+              }
+            },
+            {
+              "name": "Viminacium Archeological Park",
+              "tip_4lang": {
+                "de": "Ideal bei Regen; die wichtigsten Ausgrabungen sind überdacht.",
+                "hu": "Ideális esőben; a főbb ásatások fedettek.",
+                "ro": "Ideal pe ploaie; principalele excavații sunt acoperite.",
+                "en": "Ideal for rainy days; the main excavations are covered by tents."
+              }
+            },
+            {
+              "name": "Mammoth Park (Viminacium)",
+              "tip_4lang": {
+                "de": "Vika, das Mammut, ist in einer trockenen Halle zu bewundern.",
+                "hu": "Vika, a mamut, egy száraz csarnokban tekinthető meg.",
+                "ro": "Vika, mamutul, poate fi admirat într-o hală uscată.",
+                "en": "Vika the mammoth is located inside a dry underground hall."
+              }
+            },
+            {
+              "name": "Čačalica Park",
+              "tip_4lang": {
+                "de": "Vom Auto aus hat man einen guten Blick auf das Grün.",
+                "hu": "Az autóból is jó kilátás nyílik a zöldövezetre.",
+                "ro": "Din mașină aveți o vedere bună asupra parcului.",
+                "en": "The car provides a good view of the greenery even in rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie die Profiltiefe der Reifen für nasse Landstraßen.",
+              "In Viminacium gibt es einen großen, befestigten Parkplatz.",
+              "Vermeiden Sie bei Starkregen unbefestigte Seitenwege an der Morava.",
+              "Die Innenstadt von Požarevac kann bei Regen sehr verkehrsreich sein."
+            ],
+            "hu": [
+              "Ellenőrizzük a gumiabroncsok profilmélységét a vizes utakra.",
+              "Viminaciumnál nagy, szilárd burkolatú parkoló található.",
+              "Heves esőzéskor kerüljük a Morava menti földutakat.",
+              "Pozsarevác belvárosa esőben nagyon forgalmas lehet."
+            ],
+            "ro": [
+              "Verificați adâncimea profilului anvelopelor pentru drumuri ude.",
+              "Viminacium are o parcare mare și pavată.",
+              "Evitați drumurile laterale neasfaltate de lângă Morava pe ploaie.",
+              "Centrul orașului Požarevac poate fi foarte aglomerat pe ploaie."
+            ],
+            "en": [
+              "Check your tire tread depth for wet rural roads.",
+              "Viminacium has a large, paved parking area.",
+              "Avoid unpaved side roads near the Morava during heavy rain.",
+              "Požarevac city center can get very congested when it rains."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Start in den Tag. Wir nutzen die Sitzheizung, während wir durch das winterliche Požarevac fahren. Das Nationalmuseum bietet eine warme Zuflucht vor der Kälte.\n\nMittags machen wir einen Ausflug zur Morava. Die winterliche Flusslandschaft sieht vom warmen Auto aus wunderschön aus. Danach geht die Fahrt weiter zum UNESCO-Kandidaten Viminacium.\n\nDen Nachmittag verbringen wir in den unterirdischen Hallen von Viminacium. Dort herrschen konstante Temperaturen, was den Besuch im Winter sehr angenehm macht. Die Mammut-Halle ist beeindruckend.\n\nZurück in Požarevac besuchen wir den Čačalica-Park. Die verschneiten Monumente wirken im Licht der Scheinwerfer besonders imposant. Wir beenden den Tag bei einem wärmenden Abendessen.",
+            "hu": "Fagyos kezdés. Kihasználjuk az ülésfűtést, miközben a téli Pozsarevácon autózunk. A Nemzeti Múzeum meleg menedéket nyújt a kinti hideg elől.\n\nDélben kirándulást teszünk a Morava folyóhoz. A téli folyóparti táj gyönyörű a meleg autóból nézve. Innen Viminacium felé folytatjuk az utat.\n\nDélutánunkat Viminacium földalatti csarnokaiban töltjük. Ott állandó a hőmérséklet, ami télen nagyon kellemessé teszi a látogatást. A mamutcsarnok lenyűgöző.\n\nVisszatérve Pozsarevácra, a Čačalica-parkot érintjük. A havas emlékművek a fényszórók fényében különösen impozánsak. A napot egy melengető vacsorával zárjuk.",
+            "ro": "Un început de zi geros. Folosim încălzirea în scaune în timp ce conducem prin Požarevacul hibernal. Muzeul Național oferă un refugiu cald în fața frigului de afară.\n\nLa prânz facem o excursie la râul Morava. Peisajul de iarnă de lângă râu arată superb din mașina încălzită. Apoi ne continuăm drumul spre Viminacium.\n\nPetrecem după-amiaza în halele subterane de la Viminacium. Acolo temperaturile sunt constante, ceea ce face vizita foarte plăcută iarna. Sala mamutului este impresionantă.\n\nReveniți în Požarevac, vizităm parcul Čačalica. Monumentele înzăpezite par deosebit de impunătoare în lumina farurilor. Încheiem ziua cu o cină reconfortantă.",
+            "en": "A frosty start to the day. We enjoy the seat heaters while driving through wintery Požarevac. The National Museum offers a warm refuge from the cold outside.\n\nAt noon, we take a trip to the Morava river. The winter riverside landscape looks beautiful from the warmth of the car. Then we drive on to Viminacium.\n\nIn the afternoon, we spend time in the underground halls of Viminacium. The constant temperatures there make a winter visit very pleasant. The mammoth hall is impressive.\n\nBack in Požarevac, we visit Čačalica Park. The snowy monuments look especially imposing in the car's headlights. We finish the day with a warming dinner."
+          },
+          "stops": [
+            {
+              "name": "Travel Start",
+              "tip_4lang": {
+                "de": "Fahrzeug vor Abfahrt gründlich von Eis und Schnee befreien.",
+                "hu": "Indulás előtt alaposan tisztítsuk meg az autót a jégtől.",
+                "ro": "Curățați bine mașina de gheață și zăpadă înainte de plecare.",
+                "en": "Thoroughly clear ice and snow from the car before starting."
+              }
+            },
+            {
+              "name": "Miloš Obrenović Monument",
+              "tip_4lang": {
+                "de": "Vorsicht vor glatten Stellen beim Parken im Zentrum.",
+                "hu": "Vigyázzunk a jeges foltokra a központi parkolásnál.",
+                "ro": "Atenție la porțiunile alunecoase când parcați în centru.",
+                "en": "Watch out for icy patches when parking in the city center."
+              }
+            },
+            {
+              "name": "National Museum Požarevac",
+              "tip_4lang": {
+                "de": "Kurze Wege zwischen Parkplatz und Museumseingang wählen.",
+                "hu": "Válasszunk rövid utat a parkoló és a múzeumbemenet között.",
+                "ro": "Alegeți un drum scurt între parcare și intrarea în muzeu.",
+                "en": "Choose a short route between the parking and the museum entrance."
+              }
+            },
+            {
+              "name": "Morava River Bank",
+              "tip_4lang": {
+                "de": "Landstraßen können bei Raureif tückisch glatt sein.",
+                "hu": "Az országutak zúzmara esetén csalókán csúszósak lehetnek.",
+                "ro": "Drumurile județene pot fi înșelător de alunecoase iarna.",
+                "en": "Rural roads can be treacherously slippery with frost."
+              }
+            },
+            {
+              "name": "Viminacium Archeological Park",
+              "tip_4lang": {
+                "de": "Unterirdische Hallen bieten Schutz vor Wind und Kälte.",
+                "hu": "A földalatti csarnokok védelmet nyújtanak a szél és hideg elől.",
+                "ro": "Halele subterane oferă protecție împotriva vântului și frigului.",
+                "en": "Underground halls provide excellent shelter from wind and cold."
+              }
+            },
+            {
+              "name": "Mammoth Park (Viminacium)",
+              "tip_4lang": {
+                "de": "Konstante Temperaturen machen den Aufenthalt sehr angenehm.",
+                "hu": "Az állandó hőmérséklet nagyon kellemessé teszi a látogatást.",
+                "ro": "Temperaturile constante fac vizita foarte plăcută.",
+                "en": "Constant temperatures inside make this visit very pleasant."
+              }
+            },
+            {
+              "name": "Čačalica Park",
+              "tip_4lang": {
+                "de": "Planen Sie den Besuch vor Einbruch der frühen Dunkelheit.",
+                "hu": "Tervezzük a látogatást a korai sötétedés beállta előtt.",
+                "ro": "Planificați vizita înainte de lăsarea întunericului.",
+                "en": "Plan your visit before the early winter darkness sets in."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in Serbien bei Schnee und Eis gesetzlich vorgeschrieben.",
+              "Füllen Sie Frostschutzmittel in die Scheibenwaschanlage.",
+              "Die Strecke nach Viminacium wird meist gut geräumt.",
+              "Beachten Sie die kürzeren Öffnungszeiten der Museen im Winter."
+            ],
+            "hu": [
+              "Téli gumi kötelező Szerbiában hó és jég esetén.",
+              "Töltsünk fagyállót a szélvédőmosó tartályba.",
+              "A Viminaciumba vezető utat általában jól takarítják.",
+              "Vegyük figyelembe a múzeumok téli, rövidebb nyitvatartását."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii în Serbia pe zăpadă și polei.",
+              "Adăugați lichid de parbriz rezistent la îngheț.",
+              "Drumul spre Viminacium este de obicei bine curățat.",
+              "Țineți cont de programul mai scurt al muzeelor pe timp de iarnă."
+            ],
+            "en": [
+              "Winter tires are legally required in Serbia during snow and ice.",
+              "Fill your windshield washer reservoir with antifreeze fluid.",
+              "The road to Viminacium is usually well-maintained and cleared.",
+              "Be aware of the shorter museum opening hours during winter."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1438,6 +2002,188 @@
           "Check bus schedules in advance.",
           "Be prepared for some walking between bus stops and the sights."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag beginnt an der Bushaltestelle im Zentrum. Kurze Wege führen uns zum Obrenović-Denkmal und zur Saborna-Kirche. Der ÖPNV bietet trockene Pausen zwischen den Stationen.\n\nMittags nehmen wir den Bus zum Nationalmuseum. Drinnen verbringen wir viel Zeit im Trockenen, während draußen der Regen fällt. Ein Mittagessen im Zentrum ist gut erreichbar.\n\nAm Nachmittag fahren wir mit dem Bus zur Tulba. Die kurze Fahrt spart uns den Fußweg im Regen. Danach geht es weiter zur Barili-Galerie, die wir bequem erreichen.\n\nDer Abend endet mit einer Busfahrt zum Čačalica-Park. Trotz Regen ist die Atmosphäre im beleuchteten Park ruhig. Mit dem letzten Bus geht es zurück in die Innenstadt.",
+            "hu": "Esős nap indul a központi buszmegállóban. Rövid séták vezetnek az Obrenović-emlékműhöz és a székesegyházhoz. A tömegközlekedés száraz szüneteket biztosít az állomások között.\n\nDélben busszal megyünk a Nemzeti Múzeumhoz. Odabent sok időt töltünk szárazon, miközben kint esik. A központi éttermek könnyen elérhetőek busszal.\n\nDélután a Tulba-domb felé vesszük az irányt buszozva. A rövid utazás megkímél az esőben való gyaloglástól. Innen a Barili-galériához megyünk tovább.\n\nEste busszal utazunk a Čačalica-parkhoz. Az eső ellenére a kivilágított park hangulata nyugodt. Az utolsó buszok egyikével térünk vissza a belvárosba.",
+            "ro": "O zi ploioasă începe în stația de autobuz din centru. Drumuri scurte ne duc la monumentul Obrenović și la catedrală. Transportul public oferă pauze uscate între obiective.\n\nLa prânz luăm autobuzul spre Muzeul Național. Petrecem mult timp la interior, feriți de ploaie. Restaurantele din centru sunt ușor accesibile cu transportul public.\n\nDupă-amiaza mergem cu autobuzul spre Tulba. Călătoria scurtă ne scutește de mersul pe jos prin ploaie. Apoi continuăm spre Galeria Barili, aflată la mică distanță de stație.\n\nSeara se încheie cu o călătorie spre parcul Čačalica. În ciuda ploii, atmosfera parcului luminat este liniștită. Ne întoarcem în centru cu unul dintre ultimele autobuze.",
+            "en": "A rainy day starts at the central bus stop. Short walks lead us to the Obrenović monument and the Cathedral. Public transit provides dry breaks between stops.\n\nAt noon, we take the bus to the National Museum. We spend plenty of time indoors while the rain falls outside. Lunch in the center is easily reached by bus.\n\nIn the afternoon, we head to Tulba by bus. The short ride saves us from walking in the rain. Then we continue to the Barili Gallery, conveniently located near transit.\n\nThe evening ends with a bus ride to Čačalica Park. Despite the rain, the illuminated park has a calm atmosphere. We return to the city center on one of the last buses."
+          },
+          "stops": [
+            {
+              "name": "Transit Start",
+              "tip_4lang": {
+                "de": "Zentrale Haltestellen bieten oft gute Überdachungen.",
+                "hu": "A központi megállók gyakran jól fedettek.",
+                "ro": "Stațiile centrale au adesea copertine bune.",
+                "en": "Central bus stops often have good overhead shelter from rain."
+              }
+            },
+            {
+              "name": "Saborna crkva",
+              "tip_4lang": {
+                "de": "Nur wenige Schritte von der Bushaltestelle entfernt.",
+                "hu": "Csak néhány lépésre a buszmegállótól.",
+                "ro": "La doar câțiva pași de stația de autobuz.",
+                "en": "Only a few steps away from the nearest bus stop."
+              }
+            },
+            {
+              "name": "National Museum Požarevac",
+              "tip_4lang": {
+                "de": "Busse verkehren regelmäßig; nutzen Sie die Wartehäuschen.",
+                "hu": "A buszok rendszeresen járnak; használjuk a várókat.",
+                "ro": "Autobuzele circulă regulat; folosiți adăposturile din stații.",
+                "en": "Buses run regularly; make use of the covered bus shelters."
+              }
+            },
+            {
+              "name": "Tulba - Etno Park",
+              "tip_4lang": {
+                "de": "Die Bushaltestelle liegt am Fuße des Hügels.",
+                "hu": "A buszmegálló a domb lábánál található.",
+                "ro": "Stația de autobuz se află la baza dealului.",
+                "en": "The bus stop is located at the foot of the hill."
+              }
+            },
+            {
+              "name": "Gallery of Milena Pavlović-Barili",
+              "tip_4lang": {
+                "de": "Zentral gelegen; viele Buslinien halten in der Nähe.",
+                "hu": "Központi fekvésű; sok buszjárat megáll a közelben.",
+                "ro": "Locație centrală; multe linii de autobuz opresc în apropiere.",
+                "en": "Centrally located; many bus lines stop nearby."
+              }
+            },
+            {
+              "name": "Čačalica Park",
+              "tip_4lang": {
+                "de": "Planen Sie den Rückweg mit dem Fahrplan in der Hand.",
+                "hu": "Tervezzük a visszautat a menetrendet figyelve.",
+                "ro": "Planificați întoarcerea verificând orarul autobuzelor.",
+                "en": "Plan your return trip keeping the bus schedule in mind."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrkarten können meist beim Fahrer oder an Kiosken gekauft werden.",
+              "Vermeiden Sie Pfützen an den Haltestellen beim Einsteigen.",
+              "Die Busse sind in der Regel gut beheizt und trocken.",
+              "Häufigere Verbindungen gibt es während der Hauptverkehrszeiten."
+            ],
+            "hu": [
+              "Jegyeket általában a vezetőnél vagy újságosnál vehetünk.",
+              "Kerüljük a tócsákat a megállókban felszálláskor.",
+              "A buszok általában jól fűtöttek és szárazak.",
+              "Gyakoribb járatok a csúcsidőszakokban állnak rendelkezésre."
+            ],
+            "ro": [
+              "Biletele pot fi cumpărate de la șofer sau de la chioșcuri.",
+              "Evitați bălțile din stații la urcarea în autobuz.",
+              "Autobuzele sunt de regulă bine încălzite și uscate.",
+              "Există conexiuni mai frecvente în timpul orelor de vârf."
+            ],
+            "en": [
+              "Tickets can usually be bought from the driver or at kiosks.",
+              "Avoid puddles at bus stops when boarding the vehicle.",
+              "Buses are generally well-heated and dry inside.",
+              "More frequent connections are available during peak hours."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Tag beginnt an der Busstation. Der ÖPNV ist im Winter die bequemste Wahl, um die Stadt zu erkunden. Das Nationalmuseum empfängt uns mit angenehmer Wärme.\n\nMittags nehmen wir den Bus zum Zentrum für ein stärkendes Essen. Die kurzen Intervalle der Busse minimieren die Wartezeit in der Kälte. Danach geht es weiter zu den archäologischen Schätzen.\n\nNachmittags fahren wir zur Tulba. Der Blick auf den verschneiten Hügel vom Busfenster aus ist malerisch. Danach wärmen wir uns in der Barili-Galerie auf.\n\nDer Abend führt uns zum Čačalica-Park. Die lichten Winterbäume lassen die Monumente imposant erscheinen. Den Rückweg ins Zentrum treten wir rechtzeitig an, um nicht in der eisigen Dunkelheit zu warten.",
+            "hu": "Fagyos nap indul a buszállomáson. A tömegközlekedés télen a legkényelmesebb módja a város felfedezésének. A Nemzeti Múzeum kellemes meleggel fogad minket.\n\nDélben busszal megyünk a központba egy tápláló ebédre. A rövid követési idők minimalizálják a hidegben való várakozást. Ezután a régészeti kincsek felé folytatjuk.\n\nDélután a Tulbához buszozunk. A havas domb látványa a buszablakból festői. Ezután a Barili-galériában melegszünk fel.\n\nEste a Čačalica-park felé vesszük az irányt. A ritkás téli fák között az emlékművek impozánsak. Időben indulunk vissza a központba, hogy ne kelljen sokat várni a jeges sötétségben.",
+            "ro": "O zi geroasă începe la autogară. Transportul public este cea mai confortabilă alegere iarna pentru a explora orașul. Muzeul Național ne primește cu o căldură plăcută.\n\nLa prânz luăm autobuzul spre centru pentru o masă consistentă. Intervalele scurte între autobuze reduc timpul de așteptare în frig. Apoi continuăm spre comorile arheologice.\n\nDupă-amiaza mergem spre Tulba. Priveliștea dealului înzăpezit de la fereastra autobuzului este pitorească. Apoi ne încălzim în Galeria Barili.\n\nSeara ne îndreptăm spre parcul Čačalica. Copacii desfrunziți fac ca monumentele să pară și mai impunătoare. Ne întoarcem în centru la timp pentru a evita așteptarea lungă în frigul nopții.",
+            "en": "A frosty day starts at the bus station. Public transit is the most comfortable way to explore the city in winter. The National Museum welcomes us with pleasant warmth.\n\nAt noon, we take the bus to the center for a hearty meal. Frequent bus intervals minimize waiting time in the cold. Then we continue to the archaeological treasures.\n\nIn the afternoon, we head to Tulba by bus. The view of the snowy hill from the bus window is picturesque. Afterward, we warm up in the Barili Gallery.\n\nThe evening takes us to Čačalica Park. The bare winter trees make the monuments look very imposing. We start our return to the center early to avoid waiting in the freezing darkness."
+          },
+          "stops": [
+            {
+              "name": "Transit Start",
+              "tip_4lang": {
+                "de": "Beheizte Wartebereiche an größeren Stationen nutzen.",
+                "hu": "Használjuk a fűtött váróhelyiségeket a nagyobb állomásokon.",
+                "ro": "Folosiți zonele de așteptare încălzite din stațiile mari.",
+                "en": "Use heated waiting areas at larger transit stations if available."
+              }
+            },
+            {
+              "name": "Saborna crkva",
+              "tip_4lang": {
+                "de": "Kurzer Aufenthalt im Freien zwischen Haltestelle und Kirche.",
+                "hu": "Rövid kinti tartózkodás a megálló és a templom között.",
+                "ro": "Timp scurt petrecut afară între stație și biserică.",
+                "en": "Only a brief time spent outdoors between the stop and the church."
+              }
+            },
+            {
+              "name": "National Museum Požarevac",
+              "tip_4lang": {
+                "de": "Busse sind im Winter meist gut beheizt.",
+                "hu": "A buszok télen általában jól fűtöttek.",
+                "ro": "Autobuzele sunt de obicei bine încălzite iarna.",
+                "en": "Buses are usually well-heated during the winter months."
+              }
+            },
+            {
+              "name": "Tulba - Etno Park",
+              "tip_4lang": {
+                "de": "Rutschfeste Schuhe für den Weg von der Haltestelle zum Park.",
+                "hu": "Csúszásmentes cipő a megállótól a parkig tartó útra.",
+                "ro": "Încălțăminte antiderapantă pentru drumul de la stație la parc.",
+                "en": "Non-slip shoes are needed for the walk from the bus stop."
+              }
+            },
+            {
+              "name": "Gallery of Milena Pavlović-Barili",
+              "tip_4lang": {
+                "de": "Zentraler Knotenpunkt; viele Linien führen zurück zum Bahnhof.",
+                "hu": "Központi csomópont; sok járat visz vissza az állomásra.",
+                "ro": "Nod central; multe linii duc înapoi spre autogară.",
+                "en": "Central hub; many lines lead back to the main station."
+              }
+            },
+            {
+              "name": "Čačalica Park",
+              "tip_4lang": {
+                "de": "Beachten Sie den ausgedünnten Fahrplan am späten Abend.",
+                "hu": "Figyeljünk a ritkább menetrendre késő este.",
+                "ro": "Țineți cont de frecvența redusă a autobuzelor seara târziu.",
+                "en": "Be aware of reduced bus frequency late in the evening."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie warme Socken; die Kälte zieht oft durch den Boden der Busse.",
+              "Prüfen Sie Online-Fahrpläne auf winterbedingte Verspätungen.",
+              "Kauf von Fahrkarten im Vorfeld spart Zeit in der Kälte.",
+              "Busfahren ist im Winter sicherer als Radfahren auf glatten Straßen."
+            ],
+            "hu": [
+              "Viseljünk meleg zoknit; a hideg gyakran átjárja a buszok padlóját.",
+              "Ellenőrizzük az online menetrendeket a téli késések miatt.",
+              "Az előre megváltott jegyekkel időt spórolunk a hidegben.",
+              "A buszozás télen biztonságosabb, mint a biciklizés a jeges utakon."
+            ],
+            "ro": [
+              "Purtați șosete groase; frigul pătrunde adesea prin podeaua autobuzului.",
+              "Verificați orarele online pentru eventuale întârzieri de iarnă.",
+              "Cumpărarea biletelor în avans economisește timp în frig.",
+              "Mersul cu autobuzul este mai sigur iarna decât mersul pe bicicletă."
+            ],
+            "en": [
+              "Wear warm socks; the cold often seeps through the bus floors.",
+              "Check online schedules for potential winter delays.",
+              "Buying tickets in advance saves time waiting in the cold.",
+              "Taking the bus is safer than cycling on icy winter roads."
+            ]
+          }
+        }
       }
     }
   }

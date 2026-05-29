@@ -379,6 +379,206 @@
           "Many shops close for a siesta in the afternoon, plan your shopping accordingly.",
           "Try the local pastry called 'Suspiros de Amante' (Lover's Sighs)."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bieten die Arkaden der Plaza del Torico perfekten Schutz vor dem Regen. Mittags verbringen wir viel Zeit im trockenen Inneren der Kathedrale und im Mausoleum der Liebenden. Nachmittags erklimmen wir die überdachten Treppen der Mudéjar-Türme. Der Abend endet mit einem kurzen Blick auf den Los Arcos Aquädukt, bevor wir uns in eine warme Tapas-Bar flüchten.",
+            "hu": "Reggel a Plaza del Torico árkádjai alatt kezdünk, védve az esőtől. Délben a katedrális és a Szerelmesek Mauzóleuma nyújt hosszú, fedett programot. Délután az El Salvador torony belső lépcsőin jutunk fel a kilátópontra. Az estét az esőtől csillogó Escalinata megtekintésével zárjuk, majd egy hangulatos óvárosi étteremben vacsorázunk.",
+            "ro": "Dimineața începe sub arcadele din Plaza del Torico, feriți de ploaie. La prânz, interiorul Catedralei și al Mausoleului Iubiților oferă un refugiu cultural uscat. După-amiaza urcăm în Turnul El Salvador, fiind protejați de scările interioare. Seara se încheie cu o vedere rapidă asupra Apeductului Los Arcos înainte de a intra într-un restaurant local.",
+            "en": "Morning starts under the protective arcades of Plaza del Torico. At noon, the Cathedral and the Mausoleum of the Lovers provide a long, dry indoor experience. Afternoon is spent climbing the sheltered stairs of the Mudéjar towers. The day ends with a atmospheric view of the wet Los Arcos Aqueduct before heading to a cozy tavern."
+          },
+          "stops": [
+            {
+              "name": "Plaza del Torico",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden rund um den Platz als Regenschutz.",
+                "hu": "Használja a tér körüli árkádokat eső elleni menedékként.",
+                "ro": "Folosiți arcadele din jurul pieței pentru a vă adăposti de ploaie.",
+                "en": "Use the arcades around the square for shelter from the rain."
+              }
+            },
+            {
+              "name": "Cathedral of Santa María de Mediavilla",
+              "tip_5lang": {
+                "de": "Ideale Zeit für eine ausführliche Innenbesichtigung der Decke.",
+                "hu": "Ideális időpont a mennyezet részletes belső megtekintéséhez.",
+                "ro": "Moment ideal pentru o vizită detaliată a tavanului interior.",
+                "en": "Ideal time for an extensive indoor visit of the ceiling."
+              }
+            },
+            {
+              "name": "Mausoleum of the Lovers of Teruel",
+              "tip_5lang": {
+                "de": "Ein langes Indoor-Erlebnis, perfekt bei starkem Regen.",
+                "hu": "Hosszú beltéri élmény, tökéletes heves esőzés esetén.",
+                "ro": "O experiență lungă în interior, perfectă în caz de ploaie torențială.",
+                "en": "A long indoor experience, perfect during heavy rain."
+              }
+            },
+            {
+              "name": "El Salvador Tower",
+              "tip_5lang": {
+                "de": "Der Aufstieg im Turm ist trocken und windgeschützt.",
+                "hu": "A toronyba vezető feljáró száraz és szélvédett.",
+                "ro": "Urcarea în turn este uscată și ferită de vânt.",
+                "en": "The climb inside the tower is dry and sheltered from wind."
+              }
+            },
+            {
+              "name": "Escalinata del Óvalo",
+              "tip_5lang": {
+                "de": "Vorsicht, die dekorativen Fliesen können rutschig sein.",
+                "hu": "Vigyázat, a díszes csempék csúszósak lehetnek.",
+                "ro": "Atenție, plăcile decorative pot fi alunecoase.",
+                "en": "Caution, the decorative tiles can be slippery."
+              }
+            },
+            {
+              "name": "San Martín Tower",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp von der gegenüberliegenden Straßenseite.",
+                "hu": "Rövid fotómegálló az út túloldaláról.",
+                "ro": "Scurt popas pentru fotografii de pe partea opusă a străzii.",
+                "en": "Short photo stop from the opposite side of the street."
+              }
+            },
+            {
+              "name": "Los Arcos Aqueduct",
+              "tip_5lang": {
+                "de": "Schnell besichtigen, da hier kaum Unterstand vorhanden ist.",
+                "hu": "Gyors látogatás, mert itt alig van fedett rész.",
+                "ro": "Vizită rapidă, deoarece există puțin adăpost aici.",
+                "en": "Visit quickly as there is very little shelter here."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für das Kopfsteinpflaster.",
+              "Die mittelalterlichen Arkaden sind Ihr bester Freund bei Schauern.",
+              "Planen Sie längere Aufenthalte in der Kathedrale ein.",
+              "Ein stabiler Regenschirm ist wegen des Windes an den Türmen wichtig."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt az óvárosi macskakövek miatt.",
+              "A középkori árkádok a legjobb barátai zápor esetén.",
+              "Tervezzen hosszabb benttartózkodást a katedrálisban.",
+              "A tornyoknál fújó szél miatt erős esernyőre lesz szüksége."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru pavajul cu piatră cubică.",
+              "Arcadele medievale sunt cel mai bun prieten în caz de aversă.",
+              "Planificați șederi mai lungi în interiorul catedralei.",
+              "Aveți nevoie de o umbrelă rezistentă din cauza vântului de lângă turnuri."
+            ],
+            "en": [
+              "Wear waterproof shoes for the old town cobblestones.",
+              "The medieval arcades are your best friend during showers.",
+              "Plan for longer indoor stays inside the cathedral.",
+              "A sturdy umbrella is essential due to winds near the towers."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die klare Winterluft am Morgen lässt die Ziegel der Mudéjar-Bauten leuchten. Mittags wärmen wir uns in der Kathedrale und genießen die Stille. Am Nachmittag bietet der El Salvador Turm eine weite Fernsicht über die schneebedeckten Berge in der Ferne. Der Abend endet zeitig bei Sonnenuntergang an der prachtvollen Escalinata, gefolgt von einem heißen Eintopf.",
+            "hu": "A tiszta téli reggeli levegőben ragyognak a Mudéjar épületek téglái. Délben a katedrális nyugalmában melegedünk fel. Délután az El Salvador toronyból messzire ellátni a távoli havas hegyekig. Az este korán, naplementekor érkezik az Escalinata lépcsőinél, majd egy tál forró helyi levessel zárjuk a napot.",
+            "ro": "Aerul rece și clar al dimineții face ca cărămizile Mudéjar să strălucească. La prânz ne încălzim în liniștea catedralei. După-amiaza, Turnul El Salvador oferă o vedere clară până la munții înzăpeziți din depărtare. Seara se încheie devreme la apus, lângă Escalinata, urmată de o porție de tocană fierbinte.",
+            "en": "The crisp winter air highlights the intricate brickwork of the Mudéjar buildings. At noon, we find warmth and silence inside the Cathedral. Afternoon offers clear views from El Salvador Tower toward the distant snowy peaks. The day ends early at sunset by the grand Escalinata, followed by a hot local stew in the city center."
+          },
+          "stops": [
+            {
+              "name": "Plaza del Torico",
+              "tip_5lang": {
+                "de": "Morgens kann das Pflaster durch Reif glatt sein.",
+                "hu": "Reggel a macskakő a zúzmarától csúszós lehet.",
+                "ro": "Dimineața, pavajul poate fi alunecos din cauza chiciurei.",
+                "en": "The cobblestones can be slippery due to frost in the morning."
+              }
+            },
+            {
+              "name": "Cathedral of Santa María de Mediavilla",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um sich zwischen den Spaziergängen aufzuwärmen.",
+                "hu": "Csendes hely a séták közötti felmelegedéshez.",
+                "ro": "Un loc liniștit pentru a vă încălzi între plimbări.",
+                "en": "A quiet place to warm up between your walks."
+              }
+            },
+            {
+              "name": "Mausoleum of the Lovers of Teruel",
+              "tip_5lang": {
+                "de": "Drinnen ist es angenehm temperiert und windgeschützt.",
+                "hu": "Bent kellemes a hőmérséklet és szélvédett a helyszín.",
+                "ro": "În interior este o temperatură plăcută și adăpost de vânt.",
+                "en": "Inside is pleasantly tempered and sheltered from the wind."
+              }
+            },
+            {
+              "name": "El Salvador Tower",
+              "tip_5lang": {
+                "de": "Oben weht oft ein kalter Wind, Mütze einpacken.",
+                "hu": "Fent gyakran fúj a hideg szél, vigyen sapkát.",
+                "ro": "Sus bate adesea un vânt rece, luați un fes.",
+                "en": "Cold wind often blows at the top, bring a beanie."
+              }
+            },
+            {
+              "name": "Escalinata del Óvalo",
+              "tip_5lang": {
+                "de": "Genießen Sie die Beleuchtung, die im Winter früh angeht.",
+                "hu": "Élvezze a világítást, ami télen korán felgyullad.",
+                "ro": "Bucurați-vă de iluminat, care se aprinde devreme iarna.",
+                "en": "Enjoy the lighting, which comes on early in winter."
+              }
+            },
+            {
+              "name": "San Martín Tower",
+              "tip_5lang": {
+                "de": "Das Winterlicht betont die Mudéjar-Details besonders scharf.",
+                "hu": "A téli fény kiemeli a Mudéjar részletek élességét.",
+                "ro": "Lumina de iarnă subliniază clar detaliile Mudéjar.",
+                "en": "The winter light emphasizes the Mudéjar details sharply."
+              }
+            },
+            {
+              "name": "Los Arcos Aqueduct",
+              "tip_5lang": {
+                "de": "Die Brücke ist im Winter sehr zugig, zügig weitergehen.",
+                "hu": "A híd télen nagyon huzatos, haladjon tempósan.",
+                "ro": "Podul este foarte expus vântului iarna, mergeți rapid.",
+                "en": "The bridge is very drafty in winter, move along briskly."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Teruel liegt hoch (900m) und ist im Winter sehr kalt.",
+              "Die Sonne geht im Dezember bereits gegen 17:45 Uhr unter.",
+              "Nutzen Sie die Mittagszeit für Museumsbesuche im Warmen.",
+              "Vorsicht auf den Treppen der Escalinata bei Frostgefahr."
+            ],
+            "hu": [
+              "Teruel magasan fekszik (900m), télen nagyon hideg tud lenni.",
+              "A nap decemberben már 17:45 körül lemegy.",
+              "A déli órákat használja múzeumlátogatásra a melegben.",
+              "Fagy esetén óvatosan közlekedjen az Escalinata lépcsőin."
+            ],
+            "ro": [
+              "Teruel se află la altitudine (900m) și este foarte frig iarna.",
+              "Soarele apune în decembrie deja în jurul orei 17:45.",
+              "Folosiți orele amiezii pentru vizite la muzee, la căldură.",
+              "Atenție pe scările de la Escalinata când există risc de îngheț."
+            ],
+            "en": [
+              "Teruel is high up (900m) and gets very cold in winter.",
+              "The sun sets as early as 5:45 PM in December.",
+              "Use the midday hours for museum visits in the warmth.",
+              "Watch your step on the Escalinata stairs if there is frost."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -752,6 +952,206 @@
           "Some streets can be steep, so be prepared for a few climbs.",
           "Use the bike paths along the river for a relaxing ride."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Vorsicht auf dem nassen Pflaster der Plaza del Torico. Wir radeln zügig zum Aquädukt und suchen dann Schutz in der Kathedrale und im Mausoleum. Am Nachmittag lassen wir das Rad stehen, um die Türme zu besichtigen. Der Tag endet trotz Regen mit einer stimmungsvollen Fahrt durch die glänzenden Gassen.",
+            "hu": "Vigyázat a Plaza del Torico nedves kövein. Gyorsan kitekerünk az akvadukthoz, majd a katedrálisban és a mauzóleumban keresünk menedéket. Délután lelakatoljuk a bringát a torony látogatáshoz. A nap az eső ellenére is hangulatos tekeréssel zárul a csillogó utcákon.",
+            "ro": "Atenție pe pavajul umed din Plaza del Torico. Pedalăm rapid până la apeduct, apoi căutăm adăpost în catedrală și la mauzoleu. După-amiaza lăsăm bicicleta pentru a vizita turnurile. Ziua se încheie cu o plimbare atmosferică prin străzile lucioase, în ciuda ploii.",
+            "en": "Be careful on the wet stones of Plaza del Torico. We cycle quickly to the aqueduct and then seek shelter in the Cathedral and Mausoleum. In the afternoon, we lock the bikes to visit the towers. The day ends with an atmospheric ride through the shiny streets despite the rain."
+          },
+          "stops": [
+            {
+              "name": "Plaza del Torico",
+              "tip_5lang": {
+                "de": "Vorsicht beim Bremsen auf dem glatten Steinboden.",
+                "hu": "Vigyázzon a fékezéssel a csúszós kőburkolaton.",
+                "ro": "Atenție la frânare pe pavajul de piatră alunecos.",
+                "en": "Careful when braking on the slippery stone floor."
+              }
+            },
+            {
+              "name": "Los Arcos Aqueduct",
+              "tip_5lang": {
+                "de": "Guter Fotostopp, aber der Boden kann matschig sein.",
+                "hu": "Jó fotómegálló, de a talaj saras lehet.",
+                "ro": "Popas bun pentru poze, dar solul poate fi noroios.",
+                "en": "Good photo stop, but the ground can be muddy."
+              }
+            },
+            {
+              "name": "San Martín Tower",
+              "tip_5lang": {
+                "de": "Fahrradständer in der Nähe suchen und kurz unterstellen.",
+                "hu": "Keressen kerékpártámaszt a közelben és húzódjon be.",
+                "ro": "Căutați un suport de biciclete în apropiere și adăpostiți-vă.",
+                "en": "Find a bike rack nearby and take short cover."
+              }
+            },
+            {
+              "name": "Cathedral of Santa María de Mediavilla",
+              "tip_5lang": {
+                "de": "Lange Pause, um die Ausrüstung zu trocknen.",
+                "hu": "Hosszú szünet a felszerelés megszárításához.",
+                "ro": "Pauză lungă pentru a vă usca echipamentul.",
+                "en": "Long break to dry off your gear."
+              }
+            },
+            {
+              "name": "Mausoleum of the Lovers of Teruel",
+              "tip_5lang": {
+                "de": "Sicherer Abstellplatz für Fahrräder am Eingang.",
+                "hu": "Biztonságos kerékpárparkoló a bejáratnál.",
+                "ro": "Loc de parcare sigur pentru biciclete la intrare.",
+                "en": "Secure bike parking available at the entrance."
+              }
+            },
+            {
+              "name": "El Salvador Tower",
+              "tip_5lang": {
+                "de": "Kurze Gehminute vom Fahrradparkplatz entfernt.",
+                "hu": "Rövid sétatávolságra a kerékpárparkolótól.",
+                "ro": "La scurtă distanță de mers pe jos de parcare.",
+                "en": "A short walk from the bike parking spot."
+              }
+            },
+            {
+              "name": "Escalinata del Óvalo",
+              "tip_5lang": {
+                "de": "Mit dem Rad die Straße außen herum nehmen.",
+                "hu": "Kerékpárral kerülje meg a lépcsőt az úton.",
+                "ro": "Cu bicicleta, ocoliți scările pe drum.",
+                "en": "Take the road around the stairs with your bike."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Verlängerter Bremsweg auf nassem Kopfsteinpflaster.",
+              "Vermeiden Sie die weißen Markierungen auf dem Torico-Platz.",
+              "Vollständig wasserdichte Packtaschen sind empfohlen.",
+              "Schutzbleche sind bei Teruels Pfützen Gold wert."
+            ],
+            "hu": [
+              "Hosszabb féktáv a nedves macskaköveken.",
+              "Kerülje el a fehér útburkolati jeleket a Torico téren.",
+              "Teljesen vízálló táskák használata ajánlott.",
+              "A sárvédő aranyat ér Teruel tócsáinál."
+            ],
+            "ro": [
+              "Distanță de frânare prelungită pe piatra cubică umedă.",
+              "Evitați marcajele albe din Plaza del Torico.",
+              "Se recomandă genți de bicicletă complet impermeabile.",
+              "Apărătorile de noroi sunt esențiale pentru bălțile din Teruel."
+            ],
+            "en": [
+              "Increased braking distance on wet cobblestones.",
+              "Avoid the white markings on Torico Square.",
+              "Fully waterproof panniers are highly recommended.",
+              "Mudguards are worth their weight in gold for Teruel's puddles."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine erfrischende Fahrt durch die kalte Morgenluft der Altstadt. Wir radeln zum Aquädukt und genießen das klare Licht auf den Mudéjar-Türmen. Mittags wärmen wir uns bei den Indoor-Besichtigungen auf. Die Tour endet bei Sonnenuntergang an der Escalinata, bevor die Temperaturen stark sinken.",
+            "hu": "Frissítő tekerés az óváros hideg reggeli levegőjében. Eltekerünk az akvadukthoz, és élvezzük a tiszta fényt a Mudéjar tornyokon. Délben a beltéri látnivalóknál melegszünk fel. A túra naplementekor ér véget az Escalinata-nál, mielőtt a hőmérséklet hirtelen leesne.",
+            "ro": "O plimbare revigorantă prin aerul rece al dimineții din orașul vechi. Pedalăm spre apeduct și ne bucurăm de lumina clară de pe turnurile Mudéjar. La prânz ne încălzim în timpul vizitelor interioare. Turul se încheie la apus lângă Escalinata, înainte ca temperaturile să scadă drastic.",
+            "en": "A refreshing ride through the cold morning air of the old town. We cycle to the aqueduct and enjoy the clear light on the Mudéjar towers. At noon, we warm up during the indoor visits. The tour ends at sunset near the Escalinata before temperatures drop significantly."
+          },
+          "stops": [
+            {
+              "name": "Plaza del Torico",
+              "tip_5lang": {
+                "de": "Vorsicht vor überfrierender Nässe im Schatten.",
+                "hu": "Vigyázzon a lefagyásokkal az árnyékos részeken.",
+                "ro": "Atenție la porțiunile înghețate de la umbră.",
+                "en": "Watch out for black ice in shaded areas."
+              }
+            },
+            {
+              "name": "Los Arcos Aqueduct",
+              "tip_5lang": {
+                "de": "Der Wind auf der Brücke kann sehr eisig sein.",
+                "hu": "A szél a hídon nagyon jeges lehet.",
+                "ro": "Vântul de pe pod poate fi foarte tăios.",
+                "en": "The wind on the bridge can be very icy."
+              }
+            },
+            {
+              "name": "San Martín Tower",
+              "tip_5lang": {
+                "de": "Kurzer Stopp, um die steifen Finger aufzuwärmen.",
+                "hu": "Rövid megálló az elgémberedett ujjak felmelegítésére.",
+                "ro": "Scurt popas pentru a vă încălzi degetele amorțite.",
+                "en": "Short stop to warm up your stiff fingers."
+              }
+            },
+            {
+              "name": "Cathedral of Santa María de Mediavilla",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad sicher ab und genießen Sie die Wärme.",
+                "hu": "Parkolja le biztonságosan a bringát és élvezze a meleget.",
+                "ro": "Parcați bicicleta în siguranță și bucurați-vă de căldură.",
+                "en": "Park the bike safely and enjoy the warmth inside."
+              }
+            },
+            {
+              "name": "Mausoleum of the Lovers of Teruel",
+              "tip_5lang": {
+                "de": "Perfekter Ort für eine längere Aufwärmpause.",
+                "hu": "Tökéletes hely egy hosszabb melegedő szünetre.",
+                "ro": "Loc perfect pentru o pauză lungă de încălzire.",
+                "en": "Perfect place for a longer warming break."
+              }
+            },
+            {
+              "name": "El Salvador Tower",
+              "tip_5lang": {
+                "de": "Der Aufstieg hält den Kreislauf in Schwung.",
+                "hu": "A toronyba lépcsőzés mozgásban tartja a keringést.",
+                "ro": "Urcatul scărilor menține circulația activă.",
+                "en": "Climbing the tower keeps your circulation going."
+              }
+            },
+            {
+              "name": "Escalinata del Óvalo",
+              "tip_5lang": {
+                "de": "Vorsicht beim Absteigen, der Boden kann glatt sein.",
+                "hu": "Vigyázzon a leszálláskor, a talaj csúszós lehet.",
+                "ro": "Atenție la coborârea de pe bicicletă, solul poate fi alunecos.",
+                "en": "Be careful when dismounting, the ground might be slick."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Handschuhe und eine Mütze.",
+              "Der Akku von E-Bikes entlädt sich bei Kälte schneller.",
+              "Vermeiden Sie Fahrten nach Sonnenuntergang (Glatteisgefahr).",
+              "Die klare Winterluft bietet die beste Sicht vom Turm."
+            ],
+            "hu": [
+              "Viseljen szélálló kesztyűt és sapkát.",
+              "Az e-bike akkumulátora gyorsabban merül hidegben.",
+              "Kerülje a naplemente utáni tekerést a fagyveszély miatt.",
+              "A tiszta téli levegő biztosítja a legjobb kilátást a toronyból."
+            ],
+            "ro": [
+              "Purtați mănuși rezistente la vânt și un fes.",
+              "Bateria bicicletelor electrice se descarcă mai repede la frig.",
+              "Evitați plimbările după apus (risc de polei).",
+              "Aerul clar de iarnă oferă cea mai bună vizibilitate din turn."
+            ],
+            "en": [
+              "Wear windproof gloves and a warm hat.",
+              "E-bike batteries drain faster in cold temperatures.",
+              "Avoid cycling after sunset due to ice risks.",
+              "The clear winter air offers the best views from the tower."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1084,6 +1484,170 @@
           "Traffic in the city center can be heavy during peak hours.",
           "Check the opening hours for Dinópolis in advance as they can be seasonal."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir parken bequem im Zentrum und erkunden die Plaza del Torico unter den Arkaden. Der Vormittag gehört der Kathedrale und dem Mausoleum. Nachmittags ist Dinópolis die perfekte Indoor-Alternative für Familien. Der Tag endet mit einem kurzen Blick auf den Aquädukt direkt aus dem Autofenster.",
+            "hu": "Kényelmesen leparkolunk a központban, és az árkádok alatt fedezzük fel a Torico teret. A délelőtt a katedrálisé és a mauzóleumé. Délután a Dinópolis a tökéletes beltéri program az egész családnak. A napot az akvadukt megtekintésével zárjuk, akár az autó ablakából is.",
+            "ro": "Parcăm confortabil în centru și explorăm Plaza del Torico sub arcade. Dimineața aparține catedralei și mauzoleului. După-amiaza, Dinópolis este alternativa perfectă de interior pentru familii. Ziua se încheie cu o vedere rapidă asupra apeductului, chiar de la fereastra mașinii.",
+            "en": "We park conveniently in the center and explore Plaza del Torico under the arcades. The morning is dedicated to the Cathedral and the Mausoleum. In the afternoon, Dinópolis is the perfect indoor alternative for families. The day ends with a quick view of the aqueduct directly from the car window."
+          },
+          "stops": [
+            {
+              "name": "Parking at the Center & Plaza del Torico",
+              "tip_5lang": {
+                "de": "Nutzen Sie Tiefgaragen, um trocken ins Zentrum zu kommen.",
+                "hu": "Használja a mélygarázsokat, hogy szárazon jusson a központba.",
+                "ro": "Folosiți parcările subterane pentru a ajunge uscat în centru.",
+                "en": "Use underground parking to reach the center while staying dry."
+              }
+            },
+            {
+              "name": "Cathedral and Mausoleum of the Lovers",
+              "tip_5lang": {
+                "de": "Perfekt kombiniert für einen langen regensicheren Vormittag.",
+                "hu": "Tökéletes párosítás egy hosszú, esőbiztos délelőtthöz.",
+                "ro": "Combinație perfectă pentru o dimineață lungă ferită de ploaie.",
+                "en": "Perfectly combined for a long rain-proof morning."
+              }
+            },
+            {
+              "name": "Mudéjar Towers (El Salvador & San Martín)",
+              "tip_5lang": {
+                "de": "Parkplätze in der Nähe ermöglichen kurze Wege im Regen.",
+                "hu": "A közeli parkolók rövid sétát tesznek lehetővé az esőben.",
+                "ro": "Parcările din apropiere permit distanțe scurte prin ploaie.",
+                "en": "Nearby parking allows for short walks in the rain."
+              }
+            },
+            {
+              "name": "Dinópolis",
+              "tip_5lang": {
+                "de": "Größtenteils überdacht, ideal bei schlechtem Wetter.",
+                "hu": "Nagyrészt fedett, ideális rossz idő esetén.",
+                "ro": "În mare parte acoperit, ideal în caz de vreme rea.",
+                "en": "Mostly indoors, ideal during bad weather."
+              }
+            },
+            {
+              "name": "View of Los Arcos Aqueduct",
+              "tip_5lang": {
+                "de": "Gute Sicht auch direkt vom Parkplatz aus.",
+                "hu": "Jó kilátás közvetlenül a parkolóból is.",
+                "ro": "Vedere bună chiar și direct din parcare.",
+                "en": "Good view even directly from the parking area."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tiefgaragen im Zentrum bieten direkten Zugang zur Altstadt.",
+              "Dinópolis ist die beste Option bei Dauerregen.",
+              "Die Straßen in Teruel können bei Nässe rutschig sein.",
+              "Nutzen Sie die Fahrt zum Aquädukt als kurze Regenpause."
+            ],
+            "hu": [
+              "A központi mélygarázsok közvetlen utat kínálnak az óvárosba.",
+              "A Dinópolis a legjobb opció tartós eső esetén.",
+              "Teruel utcái nedvesen csúszósak lehetnek.",
+              "Használja az akvadukthoz vezető utat rövid esőszünetként."
+            ],
+            "ro": [
+              "Parcările subterane centrale oferă acces direct în orașul vechi.",
+              "Dinópolis este cea mai bună opțiune în caz de ploaie continuă.",
+              "Străzile din Teruel pot fi alunecoase când sunt ude.",
+              "Folosiți drumul spre apeduct ca o scurtă pauză de ploaie."
+            ],
+            "en": [
+              "Underground parking in the center offers direct access to the old town.",
+              "Dinópolis is the best option for continuous rain.",
+              "Teruel's streets can be slippery when wet.",
+              "Use the drive to the aqueduct as a short break from the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Dank der Heizung im Auto erreichen wir alle Mudéjar-Highlights komfortabel. Der Vormittag in der Kathedrale und im Mausoleum ist angenehm warm. Nachmittags bietet Dinópolis beheizte Hallen für die ganze Familie. Zum Sonnenuntergang fahren wir zum Aquädukt, bevor die Kälte draußen zu stark wird.",
+            "hu": "Az autó fűtésének köszönhetően kényelmesen érjük el a Mudéjar látnivalókat. A délelőtt a katedrálisban és a mauzóleumban kellemesen meleg. Délután a Dinópolis fűtött csarnokai várják a családot. Naplementekor elautózunk az akvadukthoz, mielőtt kint túl hideg lenne.",
+            "ro": "Datorită căldurii din mașină, ajungem confortabil la toate atracțiile Mudéjar. Dimineața în catedrală și la mauzoleu este plăcut de cald. După-amiaza, Dinópolis oferă hale încălzite pentru întreaga familie. La apus mergem cu mașina la apeduct, înainte ca frigul de afară să fie prea mare.",
+            "en": "Thanks to the car's heating, we reach all Mudéjar highlights comfortably. The morning in the Cathedral and Mausoleum is pleasantly warm. In the afternoon, Dinópolis offers heated halls for the whole family. At sunset, we drive to the aqueduct before the outside cold becomes too intense."
+          },
+          "stops": [
+            {
+              "name": "Parking at the Center & Plaza del Torico",
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Eiskratzen durch Parken im Parkhaus.",
+                "hu": "Kerülje el a jégkaparást parkolóház használatával.",
+                "ro": "Evitați curățarea gheții parcând într-o parcare acoperită.",
+                "en": "Avoid ice scraping by using a parking garage."
+              }
+            },
+            {
+              "name": "Cathedral and Mausoleum of the Lovers",
+              "tip_5lang": {
+                "de": "Genießen Sie den kurzen Fußweg vom warmen Auto.",
+                "hu": "Élvezze a rövid sétát a meleg autótól.",
+                "ro": "Bucurați-vă de plimbarea scurtă de la mașina caldă.",
+                "en": "Enjoy the short walk from your warm car."
+              }
+            },
+            {
+              "name": "Mudéjar Towers (El Salvador & San Martín)",
+              "tip_5lang": {
+                "de": "Die Türme sind im Winter wunderschön beleuchtet.",
+                "hu": "A tornyok télen gyönyörűen ki vannak világítva.",
+                "ro": "Turnurile sunt iluminate superb în timpul iernii.",
+                "en": "The towers are beautifully illuminated in winter."
+              }
+            },
+            {
+              "name": "Dinópolis",
+              "tip_5lang": {
+                "de": "Gut beheizte Ausstellungsräume, ideal zum Aufwärmen.",
+                "hu": "Jól fűtött kiállítóterek, ideális felmelegedéshez.",
+                "ro": "Spații de expoziție bine încălzite, ideale pentru încălzire.",
+                "en": "Well-heated exhibition areas, ideal for warming up."
+              }
+            },
+            {
+              "name": "View of Los Arcos Aqueduct",
+              "tip_5lang": {
+                "de": "Direkt anfahrbar, um die Kälte draußen zu meiden.",
+                "hu": "Közvetlenül megközelíthető, így elkerülhető a kinti hideg.",
+                "ro": "Accesibil direct cu mașina pentru a evita frigul de afară.",
+                "en": "Directly accessible by car to avoid the outside cold."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Glatteisgefahr in den engen Gassen.",
+              "Dinópolis bietet im Winter eine tolle Indoor-Zuflucht.",
+              "Die Parkhäuser im Zentrum sind im Winter oft wärmer.",
+              "Füllen Sie Frostschutzmittel in die Scheibenwischanlage."
+            ],
+            "hu": [
+              "Ügyeljen a fagyveszélyre a szűk utcákban.",
+              "A Dinópolis télen remek beltéri menedéket nyújt.",
+              "A központi parkolóházak télen gyakran melegebbek.",
+              "Töltsön fagyállót a szélvédőmosóba."
+            ],
+            "ro": [
+              "Atenție la riscul de polei pe străzile înguste.",
+              "Dinópolis oferă un refugiu excelent în interior iarna.",
+              "Parcările acoperite centrale sunt adesea mai calde iarna.",
+              "Puneți lichid de parbriz rezistent la îngheț."
+            ],
+            "en": [
+              "Watch out for ice risks in narrow alleys.",
+              "Dinópolis provides a great indoor refuge in winter.",
+              "Central parking garages are often warmer in winter.",
+              "Refill your windshield washer fluid with antifreeze."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1416,6 +1980,170 @@
           "Download a local public transport app to track real-time schedules.",
           "Bus stops are well-marked, but pay attention to the correct direction."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir nutzen den Bus, um trocken zwischen den Highlights zu pendeln. Der Vormittag in der Kathedrale ist sicher vor dem Regen. Mittags bringt uns der Stadtbus direkt zu Dinópolis, wo wir den Nachmittag im Trockenen verbringen. Der Tag endet mit einer kurzen Fahrt zurück in die gemütliche Altstadt.",
+            "hu": "Busszal közlekedünk, hogy szárazon jussunk a látnivalók közé. A délelőtt a katedrálisban védett az esőtől. Délben a helyi járat közvetlenül a Dinópolisba visz, ahol a délutánt fedett helyen töltjük. A napot egy rövid buszozással zárjuk vissza a hangulatos óvárosba.",
+            "ro": "Folosim autobuzul pentru a face naveta între atracții fără a ne uda. Dimineața la catedrală este ferită de ploaie. La prânz, autobuzul local ne duce direct la Dinópolis, unde petrecem după-amiaza la adăpost. Ziua se încheie cu o scurtă călătorie înapoi în orașul vechi.",
+            "en": "We use the bus to commute between highlights while staying dry. The morning at the Cathedral is safe from the rain. At noon, the local bus takes us directly to Dinópolis, where we spend the afternoon indoors. The day ends with a short bus ride back to the cozy old town."
+          },
+          "stops": [
+            {
+              "name": "Arrival at the Center & Plaza del Torico",
+              "tip_5lang": {
+                "de": "Bushaltestellen bieten oft guten Regenschutz.",
+                "hu": "A buszmegállók gyakran jó védelmet nyújtanak az eső ellen.",
+                "ro": "Stațiile de autobuz oferă adesea o bună protecție împotriva ploii.",
+                "en": "Bus stops often provide good shelter from the rain."
+              }
+            },
+            {
+              "name": "Cathedral and Mausoleum of the Lovers",
+              "tip_5lang": {
+                "de": "Kurze Fußwege von den zentralen Haltestellen.",
+                "hu": "Rövid sétatávolság a központi megállóktól.",
+                "ro": "Distanțe scurte de mers pe jos de la stațiile centrale.",
+                "en": "Short walking distances from the central bus stops."
+              }
+            },
+            {
+              "name": "Mudéjar Towers (El Salvador & San Martín)",
+              "tip_5lang": {
+                "de": "Warten Sie in einem Café an der Haltestelle auf den Bus.",
+                "hu": "Várja a buszt egy kávézóban a megálló közelében.",
+                "ro": "Așteptați autobuzul într-o cafenea de lângă stație.",
+                "en": "Wait for the bus in a café near the stop."
+              }
+            },
+            {
+              "name": "Dinópolis",
+              "tip_5lang": {
+                "de": "Die Buslinie P fährt Sie fast bis vor den Eingang.",
+                "hu": "A P jelzésű buszjárat majdnem a bejáratig visz.",
+                "ro": "Linia de autobuz P vă duce aproape până la intrare.",
+                "en": "The P bus line takes you almost to the entrance."
+              }
+            },
+            {
+              "name": "View of Los Arcos Aqueduct",
+              "tip_5lang": {
+                "de": "Vom Bus aus bei der Vorbeifahrt gut zu sehen.",
+                "hu": "A buszról elhaladva is jól látható.",
+                "ro": "Se vede bine din autobuz în timp ce treceți pe lângă.",
+                "en": "Clearly visible from the bus as you pass by."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die App des Stadtverkehrs für Echtzeitdaten.",
+              "Die Linie P verbindet das Zentrum direkt mit Dinópolis.",
+              "Zentrale Bushaltestellen haben meist digitale Anzeigen.",
+              "Ein Tagesticket lohnt sich bei mehreren Regenfahrten."
+            ],
+            "hu": [
+              "Használja a helyi közlekedési appot a valós idejű adatokért.",
+              "A P vonal közvetlenül összeköti a központot a Dinópolisszal.",
+              "A központi megállókban többnyire digitális kijelzők vannak.",
+              "Többszöri buszozás esetén érdemes napijegyet váltani."
+            ],
+            "ro": [
+              "Folosiți aplicația de transport local pentru date în timp real.",
+              "Linia P leagă centrul direct de Dinópolis.",
+              "Stațiile centrale de autobuz au de obicei afișaje digitale.",
+              "Un bilet de o zi merită dacă faceți mai multe călătorii pe ploaie."
+            ],
+            "en": [
+              "Use the local transit app for real-time data.",
+              "Line P connects the center directly with Dinópolis.",
+              "Central bus stops usually have digital displays.",
+              "A day pass is worth it for multiple rides in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "In den beheizten Bussen entfliehen wir der Winterkälte zwischen den Stopps. Der Vormittag in der Kathedrale ist eine warme Zuflucht. Der Bus bringt uns bequem zu Dinópolis für einen beheizten Nachmittag. Pünktlich zum Sonnenuntergang erreichen wir den Aquädukt, bevor wir die Wärme der Altstadt-Lokale suchen.",
+            "hu": "A fűtött buszokon menekülünk meg a téli hidegtől a megállók között. A délelőtt a katedrálisban meleg menedéket nyújt. A busz kényelmesen visz a Dinópolisba a fűtött délutáni programhoz. Pontosan naplementére érünk az akvadukthoz, majd az óvárosi meleg helyek felé vesszük az irányt.",
+            "ro": "În autobuzele încălzite scăpăm de frigul iernii între opriri. Dimineața la catedrală oferă un refugiu cald. Autobuzul ne duce confortabil la Dinópolis pentru o după-amiază încălzită. Ajungem la apeduct exact la timp, înainte de a căuta căldura localurilor din centrul vechi.",
+            "en": "Inside the heated buses, we escape the winter cold between stops. The morning at the Cathedral is a warm sanctuary. The bus takes us comfortably to Dinópolis for a heated afternoon. We reach the aqueduct just in time for sunset before seeking out the warmth of the old town pubs."
+          },
+          "stops": [
+            {
+              "name": "Arrival at the Center & Plaza del Torico",
+              "tip_5lang": {
+                "de": "Haltestellen im Zentrum liegen oft windgeschützt.",
+                "hu": "A központi megállók gyakran szélvédett helyen vannak.",
+                "ro": "Stațiile din centru sunt adesea ferite de vânt.",
+                "en": "Central bus stops are often sheltered from the wind."
+              }
+            },
+            {
+              "name": "Cathedral and Mausoleum of the Lovers",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Wärme im Bus zur Erholung.",
+                "hu": "Használja ki a busz melegét a pihenésre.",
+                "ro": "Folosiți căldura din autobuz pentru a vă recupera.",
+                "en": "Make use of the warmth on the bus to recover."
+              }
+            },
+            {
+              "name": "Mudéjar Towers (El Salvador & San Martín)",
+              "tip_5lang": {
+                "de": "Der Bus fährt regelmäßig auch im Winter.",
+                "hu": "A buszok télen is rendszeresen közlekednek.",
+                "ro": "Autobuzele circulă regulat și pe timpul iernii.",
+                "en": "Buses run regularly even during the winter months."
+              }
+            },
+            {
+              "name": "Dinópolis",
+              "tip_5lang": {
+                "de": "Holen Sie sich ein Ticket direkt im Bus oder am Automaten.",
+                "hu": "Váltson jegyet közvetlenül a buszon vagy automatánál.",
+                "ro": "Cumpărați bilet direct din autobuz sau de la automat.",
+                "en": "Buy a ticket directly on the bus or at a vending machine."
+              }
+            },
+            {
+              "name": "View of Los Arcos Aqueduct",
+              "tip_5lang": {
+                "de": "Ein schöner Anblick bei klarer Winterluft vom Busfenster.",
+                "hu": "Szép látvány a tiszta téli levegőben a busz ablakából.",
+                "ro": "O priveliște frumoasă prin aerul clar de iarnă de la geam.",
+                "en": "A beautiful sight in the clear winter air from the bus window."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrpläne können an Feiertagen im Winter variieren.",
+              "Die Busse sind gut beheizt, ideal für kurze Aufwärmpausen.",
+              "Nutzen Sie die zentrale Haltestelle am Ovalo.",
+              "Abends sind die Busse oft weniger überfüllt."
+            ],
+            "hu": [
+              "A menetrendek téli ünnepek idején változhatnak.",
+              "A buszok jól fűtöttek, ideálisak rövid melegedésre.",
+              "Használja az Ovalo melletti központi megállót.",
+              "Esténként a buszok gyakran kevésbé zsúfoltak."
+            ],
+            "ro": [
+              "Orarele pot varia în timpul sărbătorilor de iarnă.",
+              "Autobuzele sunt bine încălzite, ideale pentru încălzire.",
+              "Folosiți stația centrală de lângă Ovalo.",
+              "Seara, autobuzele sunt adesea mai puțin aglomerate."
+            ],
+            "en": [
+              "Schedules may vary during winter holidays.",
+              "Buses are well-heated, ideal for short warm-up breaks.",
+              "Use the central bus stop near Ovalo.",
+              "Buses are often less crowded in the evenings."
+            ]
+          }
+        }
       }
     }
   }

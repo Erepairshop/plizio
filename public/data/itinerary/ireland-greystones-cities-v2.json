@@ -356,6 +356,188 @@
           "Many cafes offer free Wi-Fi if you need to check a map.",
           "Walking along the beach is easiest at low tide."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens empfängt Sie der Hafen von Greystones in mystischem Grau; die Wellen brechen sich dramatisch an der Kaimauer. Mittags bietet das Whale Theatre einen willkommenen Rückzugsort vor den Schauern. Nachmittags erkunden Sie die viktorianischen Villen des Burnaby Estate unter dem Schutz Ihres Regenschirms. Den Abend lassen Sie vor der historischen Fassade des La Touche Hotels ausklingen, während die Straßenlichter auf dem nassen Asphalt glänzen.",
+            "hu": "Reggel a ködös kikötő misztikus hangulata fogadja, ahol a hullámok az esőben verődnek a gáthoz. Délben a Whale Theatre nyújt menedéket a záporok elől, kulturális feltöltődést kínálva. Délután az esernyője alatt sétálva fedezheti fel a Burnaby Estate patinás épületeit. Az estét a La Touche Hotel történelmi homlokzata előtt zárja, figyelve a vizes aszfalton megcsillanó városi fényeket.",
+            "ro": "Dimineața, portul Greystones vă întâmpină într-o atmosferă mistică, cu valuri care se sparg de dig în ploaie. La prânz, Whale Theatre oferă un refugiu excelent împotriva averselor. După-amiaza este dedicată explorării vilelor victoriene din Burnaby Estate sub protecția umbrelei. Seara se încheie în fața fațadei istorice a hotelului La Touche, în timp ce luminile orașului se reflectă pe asfaltul ud.",
+            "en": "In the morning, Greystones Harbour welcomes you with a misty atmosphere as waves crash against the pier in the rain. At noon, the Whale Theatre provides a perfect sanctuary from the showers. Your afternoon walk through the Burnaby Estate remains charming under an umbrella. The evening concludes by the historic La Touche Hotel facade, with city lights shimmering on the wet pavement."
+          },
+          "stops": [
+            {
+              "name": "Greystones Harbour",
+              "tip_5lang": {
+                "de": "Tragen Sie wasserfeste Schuhe, da die Kaimauer bei Regen rutschig sein kann.",
+                "hu": "Viseljen vízálló cipőt, mert a móló csúszós lehet az esőben.",
+                "ro": "Purtați încălțăminte impermeabilă, digul poate fi alunecos pe ploaie.",
+                "en": "Wear waterproof shoes, as the pier can be slippery in the rain."
+              }
+            },
+            {
+              "name": "South Beach",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die tosende See vom gepflasterten Promenadenweg aus.",
+                "hu": "Élvezze a háborgó tenger látványát a kikövezett sétány biztonságából.",
+                "ro": "Bucurați-vă de vederea mării agitate de pe faleza pavată.",
+                "en": "Enjoy the view of the rough sea from the safety of the paved promenade."
+              }
+            },
+            {
+              "name": "Greystones Cliff Walk (Start)",
+              "tip_5lang": {
+                "de": "Der Pfad kann schlammig sein; bleiben Sie bei starkem Regen am Anfangsbereich.",
+                "hu": "Az ösvény sáros lehet; heves esőben maradjon a kezdő szakaszon.",
+                "ro": "Poteca poate fi noroioasă; în caz de ploaie torențială, rămâneți la început.",
+                "en": "The path can be muddy; stay near the entrance during heavy rain."
+              }
+            },
+            {
+              "name": "The Whale Theatre",
+              "tip_5lang": {
+                "de": "Der ideale Ort, um sich aufzuwärmen und das lokale Programm zu studieren.",
+                "hu": "Ideális hely a felmelegedésre és a helyi programok böngészésére.",
+                "ro": "Locul ideal pentru a vă încălzi și a studia programul local.",
+                "en": "The ideal place to warm up and check out the local schedule."
+              }
+            },
+            {
+              "name": "Burnaby Estate",
+              "tip_5lang": {
+                "de": "Die dichte Bepflanzung der Gärten bietet etwas Schutz vor leichtem Nieselregen.",
+                "hu": "A kertek sűrű növényzete némi védelmet nyújt a szemerkélő esőben.",
+                "ro": "Vegetația densă a grădinilor oferă protecție împotriva burniței.",
+                "en": "The dense garden vegetation offers some shelter from light drizzle."
+              }
+            },
+            {
+              "name": "La Touche Hotel (Facade)",
+              "tip_5lang": {
+                "de": "Die Beleuchtung der Fassade wirkt bei Regen besonders atmosphärisch.",
+                "hu": "A homlokzat kivilágítása esőben különösen hangulatos látványt nyújt.",
+                "ro": "Iluminarea fațadei este deosebit de atmosferică pe timp de ploaie.",
+                "en": "The facade lighting looks especially atmospheric in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein windfester Regenschirm ist an der Küste besser als ein billiges Modell.",
+              "Wanderschuhe mit gutem Profil helfen auf den teils rutschigen Gehwegen.",
+              "Nutzen Sie die vielen Cafés in der Church Road für kurze Trockenpausen.",
+              "Die Cliff Walk Bedingungen verschlechtern sich bei Regen schnell; Vorsicht ist geboten."
+            ],
+            "hu": [
+              "A tengerparton egy szélálló esernyő többet ér, mint az olcsó darabok.",
+              "A jó profilú túracipő segít a helyenként csúszós járdákon.",
+              "Használja ki a Church Road kávézóit rövid szárítkozó szünetekre.",
+              "A Cliff Walk állapota esőben gyorsan romlik; legyen óvatos."
+            ],
+            "ro": [
+              "O umbrelă rezistentă la vânt este esențială pe coastă.",
+              "Încălțămintea de trekking ajută pe trotuarele care pot deveni alunecoase.",
+              "Folosiți cafenelele de pe Church Road pentru scurte pauze de uscare.",
+              "Condițiile pe Cliff Walk se pot degrada rapid pe ploaie; fiți prudenți."
+            ],
+            "en": [
+              "A wind-resistant umbrella is better than a cheap one on the coast.",
+              "Hiking boots with good grip help on the occasionally slippery pavements.",
+              "Take advantage of the many cafes on Church Road for short drying breaks.",
+              "Cliff Walk conditions can deteriorate quickly in the rain; exercise caution."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An einem klaren Wintermorgen glitzert der Frost auf den Booten im Hafen. Mittags wärmen Sie sich im gemütlichen Whale Theatre auf, während die tiefstehende Sonne lange Schatten wirft. Nachmittags zeigt das Burnaby Estate seine winterliche Architektur ohne das Laub der Bäume. Bevor die frühe Dunkelheit einsetzt, bewundern Sie das La Touche Hotel, dessen historische Mauern in der kalten Seeluft besonders stolz wirken.",
+            "hu": "A tiszta téli reggelen dér csillog a kikötőben pihenő hajókon. Délben a barátságos Whale Theatre-ben melegedhet fel, miközben az alacsonyan járó nap hosszú árnyékokat vet. Délután a Burnaby Estate téli arcát mutatja, a lombok nélkül jól látszanak az építészeti részletek. Mielőtt beállna a korai sötétség, a La Touche Hotel falai büszkén dacolnak a hideg tengeri széllel.",
+            "ro": "Într-o dimineață senină de iarnă, promoroaca sclipește pe bărcile din port. La prânz, vă încălziți în primitorul Whale Theatre, în timp ce soarele jos proiectează umbre lungi. După-amiaza, Burnaby Estate își dezvăluie arhitectura hibernală, fără frunzișul copacilor. Înainte de lăsarea întunericului, admirați hotelul La Touche, ale cărui ziduri par impunătoare în aerul rece.",
+            "en": "On a crisp winter morning, frost glistens on the boats in the harbour. At noon, warm up in the cozy Whale Theatre while the low sun casts long shadows. Afternoon reveals the architectural details of Burnaby Estate through the leafless trees. Before early darkness sets in, admire the La Touche Hotel, its historic walls standing proud in the cold sea air."
+          },
+          "stops": [
+            {
+              "name": "Greystones Harbour",
+              "tip_5lang": {
+                "de": "Die Seeluft ist eisig; Mütze und Handschuhe sind hier unverzichtbar.",
+                "hu": "A tengeri szél metsző; a sapka és kesztyű itt elengedhetetlen.",
+                "ro": "Aerul mării este înghețat; căciula și mănușile sunt indispensabile.",
+                "en": "The sea air is icy; a hat and gloves are essential here."
+              }
+            },
+            {
+              "name": "South Beach",
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Sicht bis nach Howth Head an frostigen Tagen.",
+                "hu": "Fagyos napokon élvezze a tiszta kilátást egészen Howth Head-ig.",
+                "ro": "Bucurați-vă de vizibilitatea clară până la Howth Head în zilele geroase.",
+                "en": "Enjoy the clear views all the way to Howth Head on frosty days."
+              }
+            },
+            {
+              "name": "Greystones Cliff Walk (Start)",
+              "tip_5lang": {
+                "de": "Achten Sie auf überfrierende Nässe auf den schattigen Abschnitten des Pfades.",
+                "hu": "Ügyeljen a lefagyásokra az ösvény árnyékosabb szakaszain.",
+                "ro": "Atenție la porțiunile înghețate de pe segmentele umbrite ale potecii.",
+                "en": "Watch out for icy patches on the shaded sections of the path."
+              }
+            },
+            {
+              "name": "The Whale Theatre",
+              "tip_5lang": {
+                "de": "Perfekter Ort für eine Pause mit heißem Getränk im Herzen der Stadt.",
+                "hu": "Tökéletes hely egy forró italra a város szívében.",
+                "ro": "Locul perfect pentru o pauză cu o băutură caldă în inima orașului.",
+                "en": "Perfect spot for a hot drink break in the heart of town."
+              }
+            },
+            {
+              "name": "Burnaby Estate",
+              "tip_5lang": {
+                "de": "Die historischen Häuser sind im Winter oft festlich beleuchtet.",
+                "hu": "A történelmi házak télen gyakran ünnepi kivilágítást kapnak.",
+                "ro": "Casele istorice sunt adesea iluminate festiv în timpul iernii.",
+                "en": "The historic houses often feature festive lighting during winter."
+              }
+            },
+            {
+              "name": "La Touche Hotel (Facade)",
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Stopp vor 16:30 Uhr, um die Fassade im Tageslicht zu sehen.",
+                "hu": "Látogasson ide 16:30 előtt, ha még nappali fényben látná a homlokzatot.",
+                "ro": "Vizitați acest punct înainte de 16:30 pentru a vedea fațada la lumina zilei.",
+                "en": "Visit this stop before 4:30 PM to see the facade in daylight."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Dezember bereits gegen 16:15 Uhr unter.",
+              "Zwiebelprinzip bei der Kleidung schützt vor dem wechselhaften Küstenwind.",
+              "Einige Wege können bei Frost extrem glatt sein; nutzen Sie Streifenwege.",
+              "Heißer irischer Tee in den lokalen Pubs ist das beste Mittel gegen Kälte."
+            ],
+            "hu": [
+              "A nap decemberben már 16:15 körül lemegy.",
+              "A réteges öltözködés véd a változékony tengerparti széltől.",
+              "A fagyott utak rendkívül csúszósak lehetnek; használja a kijelölt utakat.",
+              "Egy forró ír tea a helyi pubokban a legjobb ellenszer a hideg ellen."
+            ],
+            "ro": [
+              "Soarele apune în decembrie în jurul orei 16:15.",
+              "Îmbrăcămintea în straturi protejează împotriva vântului schimbător de pe coastă.",
+              "Unele poteci pot fi extrem de alunecoase din cauza înghețului.",
+              "Un ceai irlandez fierbinte în pub-urile locale este cel mai bun remediu contra frigului."
+            ],
+            "en": [
+              "The sun sets as early as 4:15 PM in December.",
+              "Layered clothing protects against the variable coastal wind.",
+              "Some paths can be extremely slippery when frozen; use main walkways.",
+              "A hot Irish tea in the local pubs is the best remedy for the cold."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -706,6 +888,188 @@
           "Always lock your bike, even if stopping for just a few minutes.",
           "Bring water and snacks for your ride."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt mit einer Fahrt durch den Regen zum Kindlestown Castle, wo die alten Steine im Nassen glänzen. Mittags radeln Sie vorsichtig durch das Burnaby Estate zum Hafen, während die Gischt der See sich mit dem Regen vermischt. Nachmittags fordern die Küstenwege Ihre Geschicklichkeit auf nassem Untergrund heraus. Der Tag endet mit der Rückgabe des Rades, während Sie sich auf eine trockene Unterkunft freuen.",
+            "hu": "A nap esős tekeréssel indul a Kindlestown Castle felé, ahol a vizes kövek sötétebb tónust kapnak. Délben óvatosan gurul át a Burnaby Estate-en a kikötő felé, ahol a tenger permete keveredik az esővel. Délután a parti utak próbára teszik ügyességét a csúszós talajon. A nap a bicikli leadásával zárul, miközben már a száraz menedékről álmodozik.",
+            "ro": "Ziua începe cu o plimbare prin ploaie spre Castelul Kindlestown, unde pietrele vechi strălucesc în umezeală. La prânz, pedalați cu atenție prin Burnaby Estate spre port, unde spray-ul mării se amestecă cu ploaia. După-amiaza, traseele de coastă vă provoacă abilitățile pe teren umed. Ziua se încheie cu returnarea bicicletei și dorința de un loc uscat.",
+            "en": "The day starts with a rainy ride to Kindlestown Castle, where the ancient stones glisten in the wet. At noon, cycle carefully through Burnaby Estate towards the harbour, where sea spray meets the rain. Afternoon coastal paths challenge your skills on wet terrain. The day ends with returning the bike, looking forward to a dry indoor space."
+          },
+          "stops": [
+            {
+              "name": "Bike Rental & Start",
+              "tip_5lang": {
+                "de": "Fragen Sie nach einer wasserdichten Sattelabdeckung und prüfen Sie die Bremsen.",
+                "hu": "Kérjen vízálló nyereghuzatot és ellenőrizze a fékeket indulás előtt.",
+                "ro": "Cereți o protecție impermeabilă pentru șa și verificați frânele.",
+                "en": "Ask for a waterproof saddle cover and check the brakes before starting."
+              }
+            },
+            {
+              "name": "Kindlestown Castle",
+              "tip_5lang": {
+                "de": "Der Anstieg kann rutschig sein; treten Sie gleichmäßig in die Pedale.",
+                "hu": "Az emelkedő csúszós lehet; tekerjen egyenletesen.",
+                "ro": "Urcarea poate fi alunecoasă; pedalați constant.",
+                "en": "The climb can be slippery; maintain steady pedaling."
+              }
+            },
+            {
+              "name": "Burnaby Estate",
+              "tip_5lang": {
+                "de": "Achten Sie auf nasses Laub auf der Fahrbahn, das sehr rutschig sein kann.",
+                "hu": "Ügyeljen az úttesten lévő vizes levelekre, amelyek rendkívül csúszósak.",
+                "ro": "Atenție la frunzele ude de pe carosabil, care pot fi foarte alunecoase.",
+                "en": "Watch out for wet leaves on the road, which can be very slippery."
+              }
+            },
+            {
+              "name": "Greystones Harbour",
+              "tip_5lang": {
+                "de": "Meiden Sie bei starkem Wind und Regen die vorderste Kante der Hafenmauer.",
+                "hu": "Erős szélben és esőben kerülje a kikötői gát szélét biciklivel.",
+                "ro": "Evitați marginea digului pe vânt puternic și ploaie.",
+                "en": "Avoid the edge of the pier during strong winds and rain."
+              }
+            },
+            {
+              "name": "South Beach",
+              "tip_5lang": {
+                "de": "Der Sand auf dem Radweg kann bei Nässe die Bremswirkung verringern.",
+                "hu": "A kerékpárútra került vizes homok csökkentheti a fékhatást.",
+                "ro": "Nisipul ud de pe pistă poate reduce eficiența frânării.",
+                "en": "Wet sand on the cycle path can reduce braking efficiency."
+              }
+            },
+            {
+              "name": "Greystones Cliff Walk (Coastal Cycle)",
+              "tip_5lang": {
+                "de": "Fahren Sie hier besonders langsam; der Weg ist schmal und oft schlammig.",
+                "hu": "Itt tekerjen különösen lassan; az út szűk és gyakran sáros.",
+                "ro": "Pedalați foarte încet; poteca este îngustă și adesea noroioasă.",
+                "en": "Cycle extra slowly here; the path is narrow and often muddy."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vollständige Regenbekleidung (Hose und Jacke) ist bei dieser Tour Pflicht.",
+              "Bedenken Sie den längeren Bremsweg auf nassen Straßen und Wegen.",
+              "Vermeiden Sie Pfützen, da diese tiefe Schlaglöcher verbergen können.",
+              "Ein Schutzblech am Rad verhindert, dass Schmutzwasser Ihren Rücken durchnässt."
+            ],
+            "hu": [
+              "A teljes esőruházat (nadrág és kabát) kötelező ehhez a túrához.",
+              "Számoljon hosszabb féktávval a vizes utakon.",
+              "Kerülje a tócsákat, mert mély kátyúkat rejthetnek.",
+              "A sárvédő megakadályozza, hogy a felcsapódó víz eláztassa a hátát."
+            ],
+            "ro": [
+              "Echipamentul complet de ploaie este obligatoriu pentru acest tur.",
+              "Luați în calcul o distanță de frânare mai mare pe drumuri ude.",
+              "Evitați bălțile, deoarece pot ascunde gropi adânci.",
+              "Apărătorile la bicicletă sunt esențiale pentru a vă menține spatele uscat."
+            ],
+            "en": [
+              "Full rain gear (trousers and jacket) is mandatory for this tour.",
+              "Allow for longer braking distances on wet roads and paths.",
+              "Avoid puddles as they can hide deep potholes.",
+              "Mudguards are essential to prevent road spray from soaking your back."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Start führt Sie zum Kindlestown Castle, wo der Raureif die Ruinen verzaubert. Mittags genießen Sie die Wintersonne auf den Alleen des Burnaby Estate. Die Fahrt zum Hafen ist erfrischend kalt, doch der weite Blick über die Irische See belohnt die Anstrengung. Bevor die Dämmerung einsetzt, nutzen Sie das letzte Licht für eine schnelle Runde entlang der Küste.",
+            "hu": "A fagyos reggel a Kindlestown Castle-höz vezet, ahol zúzmara borítja a romokat. Délben a Burnaby Estate fasorai között élvezheti a téli napsütést. A kikötő felé tartó tekerés frissítően hideg, de az Ír-tenger látványa kárpótolja. Mielőtt beállna a szürkület, használja ki az utolsó fényeket egy gyors parti körre.",
+            "ro": "Un început geros vă poartă spre Castelul Kindlestown, unde chiciura acoperă ruinele. La prânz, profitați de soarele de iarnă pe aleile din Burnaby Estate. Drumul spre port este revigorant de rece, dar vederea spre Marea Irlandei merită efortul. Înainte de amurg, folosiți ultima lumină pentru o tură rapidă pe coastă.",
+            "en": "A frosty start leads you to Kindlestown Castle, where rime covers the ruins. At noon, enjoy the winter sun along the avenues of Burnaby Estate. The ride to the harbour is refreshingly cold, but the wide view over the Irish Sea rewards your effort. Before twilight, use the remaining light for a quick coastal loop."
+          },
+          "stops": [
+            {
+              "name": "Bike Rental & Start",
+              "tip_5lang": {
+                "de": "Tragen Sie warme Handschuhe, um das Gefühl in den Fingern beim Bremsen zu behalten.",
+                "hu": "Viseljen meleg kesztyűt, hogy fékezéskor érezze az ujjait a hidegben.",
+                "ro": "Purtați mănuși groase pentru a nu vă pierde dexteritatea la frânare.",
+                "en": "Wear warm gloves to maintain feeling in your fingers while braking."
+              }
+            },
+            {
+              "name": "Kindlestown Castle",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis im Schatten der alten Mauern.",
+                "hu": "Ügyeljen a jegesedésre az öreg falak árnyékos oldalán.",
+                "ro": "Fiți atenți la gheață în zonele umbrite de zidurile vechi.",
+                "en": "Watch for black ice in the shadows of the ancient walls."
+              }
+            },
+            {
+              "name": "Burnaby Estate",
+              "tip_5lang": {
+                "de": "Die Straßen hier können bei Frost besonders rutschig sein.",
+                "hu": "Az utak itt fagyos időben különösen csúszósak lehetnek.",
+                "ro": "Drumurile de aici pot fi extrem de alunecoase în caz de îngheț.",
+                "en": "The roads here can be especially slippery during frosty weather."
+              }
+            },
+            {
+              "name": "Greystones Harbour",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad sicher; der Wind kann im Winter sehr stark böen.",
+                "hu": "Biztonságosan támassza le a biciklit; télen erős széllökések várhatóak.",
+                "ro": "Parcați bicicleta în siguranță; vântul poate fi foarte puternic iarna.",
+                "en": "Park your bike securely; winter winds can bring strong gusts."
+              }
+            },
+            {
+              "name": "South Beach",
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne kann blenden; eine Sonnenbrille ist hilfreich.",
+                "hu": "Az alacsonyan járó nap elvakíthat; napszemüveg használata javasolt.",
+                "ro": "Soarele jos vă poate orbi; ochelarii de soare sunt utili.",
+                "en": "The low winter sun can be blinding; sunglasses are helpful."
+              }
+            },
+            {
+              "name": "Greystones Cliff Walk (Coastal Cycle)",
+              "tip_5lang": {
+                "de": "Planen Sie diesen Stopp unbedingt vor dem frühen Sonnenuntergang ein.",
+                "hu": "Ezt a megállót mindenképpen a korai naplemente előtt tervezze be.",
+                "ro": "Planificați această oprire neapărat înainte de apusul timpuriu.",
+                "en": "Be sure to schedule this stop before the early sunset."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie mehrere Schichten und winddichte Oberkleidung.",
+              "Stellen Sie sicher, dass Ihr Rad über funktionierende Vorder- und Rücklichter verfügt.",
+              "Die Temperaturen fallen drastisch, sobald die Sonne weg ist.",
+              "Vermeiden Sie bei Frost scharfe Kurvenfahrten und plötzliches Bremsen."
+            ],
+            "hu": [
+              "Öltözzön rétegesen, és viseljen szélálló felsőruházatot.",
+              "Győződjön meg róla, hogy a kerékpár lámpái megfelelően működnek.",
+              "A hőmérséklet drasztikusan esik, amint a nap lemegy.",
+              "Fagyos időben kerülje az éles kanyarokat és a hirtelen fékezést."
+            ],
+            "ro": [
+              "Purtați mai multe straturi de haine și o jachetă rezistentă la vânt.",
+              "Asigurați-vă că bicicleta are lumini funcționale față și spate.",
+              "Temperaturile scad drastic imediat ce soarele apune.",
+              "Evitați virajele strânse și frânarea bruscă pe timp de îngheț."
+            ],
+            "en": [
+              "Dress in multiple layers and wear windproof outer gear.",
+              "Ensure your bike has functioning front and rear lights for the twilight.",
+              "Temperatures drop drastically as soon as the sun goes down.",
+              "Avoid sharp turns and sudden braking in freezing conditions."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1062,6 +1426,188 @@
           "Traffic can get busy during summer and weekends, so plan for extra time.",
           "Use a navigation app to find the best parking spots near the clusters."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Vormittag am Kindlestown Castle beginnt im Schutz Ihres Autos. Die Fahrt geht weiter zu St. Crispin's Cell, wo die Wischblätter im Rhythmus des Regens tanzen. Mittags parken Sie direkt am Hafen und genießen den Blick auf die raue See. Nach dem Besuch im Whale Theatre fahren Sie zum South Beach und beobachten das Wetterspiel gemütlich vom Fahrersitz aus.",
+            "hu": "Az esős délelőtt a Kindlestown Castle-nél indul, az autó kényelméből. Az út a St. Crispin's Cell felé folytatódik, miközben az ablaktörlők az eső ritmusára járnak. Délben közvetlenül a kikötőben parkolhat, élvezve a vad tenger látványát. A Whale Theatre után a South Beach következik, ahol az autóból figyelheti a viharos hullámokat.",
+            "ro": "O dimineață ploioasă la Castelul Kindlestown începe în confortul mașinii. Drumul continuă spre St. Crispin's Cell, cu ștergătoarele dansând în ritmul ploii. La prânz, parcați direct în port și admirați marea agitată. După vizita la Whale Theatre, mergeți la South Beach și observați vremea de pe scaunul șoferului.",
+            "en": "A rainy morning at Kindlestown Castle starts in the comfort of your car. Continue to St. Crispin's Cell as wipers dance to the rhythm of the rain. At noon, park right at the harbour to enjoy views of the rough sea. After the Whale Theatre, head to South Beach to watch the weather from your seat."
+          },
+          "stops": [
+            {
+              "name": "Parking at Kindlestown Castle",
+              "tip_5lang": {
+                "de": "Der Parkplatz kann nach Regen matschig sein; parken Sie auf festem Grund.",
+                "hu": "A parkoló sáros lehet eső után; keressen szilárdabb talajt.",
+                "ro": "Parcarea poate fi noroioasă; încercați să opriți pe teren solid.",
+                "en": "The parking area can be muddy after rain; try to park on firm ground."
+              }
+            },
+            {
+              "name": "St. Crispin's Cell",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Auto; ein Regenschirm ist für die Besichtigung ratsam.",
+                "hu": "Rövid séta az autótól; a rom megtekintéséhez vigyen esernyőt.",
+                "ro": "Scurtă plimbare de la mașină; umbrela este recomandată.",
+                "en": "Short walk from the car; an umbrella is advised for the visit."
+              }
+            },
+            {
+              "name": "Drive and Park at the Harbour",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkplätze mit direktem Meerblick, um trocken zu bleiben.",
+                "hu": "Használja a közvetlen tengeri kilátással rendelkező parkolókat.",
+                "ro": "Folosiți locurile de parcare cu vedere la mare pentru a rămâne uscat.",
+                "en": "Use the parking spots with a sea view to stay dry while watching the waves."
+              }
+            },
+            {
+              "name": "The Whale Theatre",
+              "tip_5lang": {
+                "de": "In der Nähe gibt es gute Parkmöglichkeiten; ideal bei Regen.",
+                "hu": "A közelben jó parkolási lehetőségek vannak, ideális esős időben.",
+                "ro": "Există opțiuni bune de parcare în apropiere; ideal pe ploaie.",
+                "en": "Good parking options nearby make this an ideal rainy day stop."
+              }
+            },
+            {
+              "name": "South Beach",
+              "tip_5lang": {
+                "de": "Bei starkem Regen bietet das Auto den besten Aussichtspunkt auf den Strand.",
+                "hu": "Heves esőben az autó nyújtja a legjobb kilátást a tengerpartra.",
+                "ro": "Pe ploaie torențială, mașina oferă cel mai bun punct de observație.",
+                "en": "In heavy rain, the car provides the best vantage point for the beach."
+              }
+            },
+            {
+              "name": "Greystones Cliff Walk (Viewpoint)",
+              "tip_5lang": {
+                "de": "Bleiben Sie auf dem Parkplatz und genießen Sie das Panorama vom Auto aus.",
+                "hu": "Maradjon a parkolóban, és élvezze a panorámát az autóból.",
+                "ro": "Rămâneți în parcare și admirați panorama din mașină.",
+                "en": "Stay in the parking area and enjoy the panoramic view from your car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf schlechte Sicht durch beschlagene Scheiben.",
+              "Vermeiden Sie unbefestigte Seitenstreifen, die durch Regen weich werden.",
+              "Die Church Road ist das Zentrum für Besorgungen im Trockenen.",
+              "Nutzen Sie die Park-Apps, um das Bezahlen im Regen zu beschleunigen."
+            ],
+            "hu": [
+              "Ügyeljen a párásodó szélvédő miatti rosszabb látási viszonyokra.",
+              "Kerülje a nem aszfaltozott útpadkákat, mert az esőben felpuhulhatnak.",
+              "A Church Road a legjobb hely a szárazon elintézhető ügyekhez.",
+              "Használjon parkolási alkalmazást, hogy ne kelljen az esőben jegyet venni."
+            ],
+            "ro": [
+              "Atenție la vizibilitatea redusă cauzată de aburirea geamurilor.",
+              "Evitați acostamentele neasfaltate care se înmoaie din cauza ploii.",
+              "Church Road este centrul pentru comisioane făcute la adăpost.",
+              "Folosiți aplicațiile de parcare pentru a plăti rapid fără a ieși în ploaie."
+            ],
+            "en": [
+              "Watch out for reduced visibility due to fogged-up windows.",
+              "Avoid unpaved road shoulders that soften in the rain.",
+              "Church Road is the best hub for dry errands and shopping.",
+              "Use parking apps to speed up payment without standing in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintertag beginnt mit einer Fahrt zum Kindlestown Castle, während die Heizung für Komfort sorgt. Bei St. Crispin's Cell bewundern Sie die kahlen Bäume vor den alten Ruinen. Mittags bietet der Hafenparkplatz einen Logenplatz für das winterliche Treiben. Den Nachmittag verbringen Sie gemütlich am Whale Theatre und South Beach, bevor Sie zum Aussichtspunkt fahren, um das letzte Licht des Tages einzufangen.",
+            "hu": "A tiszta téli nap a Kindlestown Castle felé tartó autózással indul, a fűtés kellemes melegében. A St. Crispin's Cellnél a romok és a kopár fák látványa fogadja. Délben a kikötői parkoló páholyi helyet biztosít a téli forgatag megfigyeléséhez. A délutánt a Whale Theatre és a South Beach környékén tölti, majd a kilátóhoz hajt az utolsó fényekért.",
+            "ro": "O zi senină de iarnă începe cu drumul spre Castelul Kindlestown, în căldura mașinii. La St. Crispin's Cell admirați copacii golași în fața ruinelor vechi. La prânz, parcarea din port oferă un loc privilegiat pentru a observa agitația hibernală. După-amiaza trece plăcut pe lângă Whale Theatre, terminând la punctul de observație.",
+            "en": "A clear winter day starts with a drive to Kindlestown Castle in the warmth of your car. At St. Crispin's Cell, admire the stark ruins against leafless trees. At noon, the harbour parking provides a front-row seat to the winter activity. Spend the afternoon near Whale Theatre and South Beach before driving to the viewpoint for the last light."
+          },
+          "stops": [
+            {
+              "name": "Parking at Kindlestown Castle",
+              "tip_5lang": {
+                "de": "Der Parkplatz kann bei Frost sehr glatt sein; steigen Sie vorsichtig aus.",
+                "hu": "A parkoló fagyos időben nagyon csúszós lehet; óvatosan szálljon ki.",
+                "ro": "Parcarea poate fi foarte alunecoasă pe timp de îngheț; atenție la coborâre.",
+                "en": "The parking area can be very icy; step out carefully from the car."
+              }
+            },
+            {
+              "name": "St. Crispin's Cell",
+              "tip_5lang": {
+                "de": "Genießen Sie den Anblick der Ruine im weichen Winterlicht.",
+                "hu": "Élvezze a rom látványát a lágy téli fényekben.",
+                "ro": "Bucurați-vă de vederea ruinelor în lumina blândă a iernii.",
+                "en": "Enjoy the sight of the ruins in the soft winter light."
+              }
+            },
+            {
+              "name": "Drive and Park at the Harbour",
+              "tip_5lang": {
+                "de": "Achten Sie auf gefrorene Pfützen auf dem Parkplatzgelände.",
+                "hu": "Ügyeljen a fagyott tócsákra a parkoló területén.",
+                "ro": "Atenție la bălțile înghețate din zona parcării.",
+                "en": "Watch out for frozen puddles in the parking area."
+              }
+            },
+            {
+              "name": "The Whale Theatre",
+              "tip_5lang": {
+                "de": "Idealer Stopp, um sich zwischen den Besichtigungen aufzuwärmen.",
+                "hu": "Ideális megálló, hogy felmelegedjen a két látnivaló között.",
+                "ro": "Oprire ideală pentru a vă încălzi între vizitarea obiectivelor.",
+                "en": "Ideal stop to warm up between sightseeing points."
+              }
+            },
+            {
+              "name": "South Beach",
+              "tip_5lang": {
+                "de": "Im Winter ist es hier ruhiger; genießen Sie die Einsamkeit am Meer.",
+                "hu": "Télen itt sokkal nagyobb a nyugalom; élvezze a tengerparti magányt.",
+                "ro": "Iarna este mai liniște aici; bucurați-vă de solitudinea de la malul mării.",
+                "en": "It is much quieter here in winter; enjoy the seaside solitude."
+              }
+            },
+            {
+              "name": "Greystones Cliff Walk (Viewpoint)",
+              "tip_5lang": {
+                "de": "Kommen Sie vor 16:00 Uhr hierher, um den Sonnenuntergang zu erleben.",
+                "hu": "Érkezzen 16:00 előtt, ha látni szeretné a naplementét.",
+                "ro": "Veniți aici înainte de ora 16:00 pentru a surprinde apusul soarelui.",
+                "en": "Arrive here before 4:00 PM to catch the winter sunset."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie vor der Abfahrt den Reifendruck und Frostschutz.",
+              "Küstennebel kann im Winter die Sicht plötzlich einschränken.",
+              "Nutzen Sie die Sitzheizung für maximale Gemütlichkeit zwischen den Stopps.",
+              "Die Parkgebühren gelten auch im Winter; achten Sie auf die Beschilderung."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze a guminyomást és a fagyállót.",
+              "A tengerparti köd télen hirtelen lecsökkentheti a látótávolságot.",
+              "Használja az ülésfűtést a maximális kényelemért a megállók között.",
+              "A parkolási díjak télen is érvényesek; figyelje a táblákat."
+            ],
+            "ro": [
+              "Verificați presiunea în anvelope și nivelul antigelului înainte de plecare.",
+              "Ceața de coastă poate reduce brusc vizibilitatea în timpul iernii.",
+              "Folosiți încălzirea în scaune pentru confort maxim între opriri.",
+              "Taxele de parcare se aplică și iarna; verificați indicatoarele."
+            ],
+            "en": [
+              "Check tire pressure and antifreeze levels before starting your day.",
+              "Coastal fog can suddenly reduce visibility during winter.",
+              "Use seat heaters for maximum comfort between sightseeing stops.",
+              "Parking fees apply in winter too; keep an eye on the signs."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1418,6 +1964,188 @@
           "Bus schedules can be less frequent, so plan your transfers carefully.",
           "Most town centre attractions are within easy walking distance of the station."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Ankunft mit dem DART-Zug in Greystones ist auch im Regen komfortabel. Ein kurzer Sprint bringt Sie zum Hafen, bevor Sie den Bus zum South Beach nehmen. Mittags schützt Sie das Whale Theatre vor den schwersten Güssen. Den Nachmittag verbringen Sie auf dem Burnaby Estate, wobei die nahen Bushaltestellen lange Wege im Regen ersparen, bevor Sie wieder den warmen Zug besteigen.",
+            "hu": "A DART vonattal való érkezés esőben is kényelmes kezdés. Egy rövid futás a kikötőig, majd buszra szállva juthat el a South Beach-re. Délben a Whale Theatre nyújt menedéket a zuhé elől. A délutánt a Burnaby Estate környékén tölti, ahol a közeli buszmegállók megkímélik a hosszú ázástól a visszaindulás előtt.",
+            "ro": "Sosirea cu trenul DART în Greystones este confortabilă chiar și pe ploaie. Un scurt sprint vă duce la port, înainte de a lua autobuzul spre South Beach. La prânz, Whale Theatre vă protejează de cele mai grele averse. După-amiaza trece prin Burnaby Estate, unde stațiile de autobuz apropiate vă scutesc de ploaie.",
+            "en": "Arriving by DART train in Greystones is comfortable even in the rain. A quick dash to the harbour precedes a bus ride to South Beach. At noon, the Whale Theatre protects you from the heaviest downpours. Afternoon in Burnaby Estate is manageable thanks to nearby bus stops before you board the warm train back."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Greystones Station",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Wartebereich auf dem Bahnsteig.",
+                "hu": "Használja a peronon található fedett várakozóhelyet.",
+                "ro": "Folosiți zona de așteptare acoperită de pe peron.",
+                "en": "Make use of the sheltered waiting area on the train platform."
+              }
+            },
+            {
+              "name": "Greystones Harbour",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle am Hafen bietet nur begrenzten Schutz vor Wind.",
+                "hu": "A kikötői buszmegálló csak korlátozott védelmet nyújt a szél ellen.",
+                "ro": "Stația de autobuz din port oferă protecție limitată împotriva vântului.",
+                "en": "The bus stop at the harbour offers limited shelter from the wind."
+              }
+            },
+            {
+              "name": "South Beach",
+              "tip_5lang": {
+                "de": "Vom Bus aus haben Sie einen guten Blick auf den regnerischen Strand.",
+                "hu": "A buszból jó kilátás nyílik az esős tengerpartra.",
+                "ro": "Din autobuz aveți o vedere bună asupra plajei ploioase.",
+                "en": "You get a good view of the rainy beach from the bus windows."
+              }
+            },
+            {
+              "name": "Bus to Burnaby Estate",
+              "tip_5lang": {
+                "de": "Der Bus hält direkt am Rand des Viertels; ideal bei Nässe.",
+                "hu": "A busz közvetlenül a negyed szélén áll meg, ideális esőben.",
+                "ro": "Autobuzul oprește chiar la marginea cartierului; ideal pe ploaie.",
+                "en": "The bus stops right at the edge of the estate; ideal for wet weather."
+              }
+            },
+            {
+              "name": "The Whale Theatre",
+              "tip_5lang": {
+                "de": "Nur wenige Gehminuten von der Station entfernt – ein kurzer Weg im Regen.",
+                "hu": "Csak pár perc séta az állomástól – rövid szakasz az esőben.",
+                "ro": "La doar câteva minute de mers pe jos de gară – drum scurt prin ploaie.",
+                "en": "Only a few minutes' walk from the station – a short dash in the rain."
+              }
+            },
+            {
+              "name": "Departure from Greystones Station",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Echtzeit-App, um die Wartezeit im Freien zu minimieren.",
+                "hu": "Ellenőrizze az élő menetrendet, hogy minimálisra csökkentse a kinti várakozást.",
+                "ro": "Verificați aplicația în timp real pentru a minimiza așteptarea afară.",
+                "en": "Check the real-time app to minimize waiting outside on the platform."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Eine Leap Card macht das Umsteigen zwischen Zug und Bus bargeldlos einfach.",
+              "Die DART-Züge sind gut beheizt und bieten Schutz vor dem Wetter.",
+              "Laden Sie die 'TFI Live' App für aktuelle Bus-Abfahrtszeiten herunter.",
+              "Die Church Road ist von der Station aus fast vollständig unter Vordächern begehbar."
+            ],
+            "hu": [
+              "A Leap Card segítségével a vonat és busz közötti váltás készpénzmentes.",
+              "A DART vonatok jól fűtöttek és védelmet nyújtanak az időjárás elől.",
+              "Töltse le a 'TFI Live' alkalmazást a buszok valós idejű menetrendjéhez.",
+              "A Church Road üzletei feletti előtetők alatt szinte szárazon sétálhat."
+            ],
+            "ro": [
+              "Un Leap Card face transferul între tren și autobuz simplu și fără numerar.",
+              "Trenurile DART sunt bine încălzite și oferă adăpost contra vremii.",
+              "Descărcați aplicația 'TFI Live' pentru orele de plecare ale autobuzelor.",
+              "Church Road are multe copertine care vă pot proteja de ploaie în timp ce mergeți."
+            ],
+            "en": [
+              "A Leap Card makes switching between train and bus easy and cashless.",
+              "DART trains are well-heated and provide excellent shelter from the rain.",
+              "Download the 'TFI Live' app for real-time bus departure information.",
+              "Many storefronts on Church Road have awnings to keep you dry while walking."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Anreise mit dem Zug bietet tolle Ausblicke auf die frostige Küste. Vom Bahnhof aus erreichen Sie schnell den Hafen und den South Beach mit dem lokalen Bus. Mittags ist das Whale Theatre der perfekte Ort, um sich aufzuwärmen. Den Nachmittag verbringen Sie im Burnaby Estate, bevor Sie in der einsetzenden Dämmerung zum gemütlich beleuchteten Bahnhof zurückkehren.",
+            "hu": "A téli vonatozás közben gyönyörű kilátás nyílik a fagyos tengerpartra. Az állomástól helyi busszal gyorsan elérheti a kikötőt és a South Beach-et. Délben a Whale Theatre a tökéletes hely a felmelegedésre. A délutánt a Burnaby Estate környékén tölti, majd a szürkületben tér vissza a hangulatosan kivilágított állomásra.",
+            "ro": "Călătoria cu trenul iarna oferă vederi superbe asupra coastei înghețate. Din gară, ajungeți rapid la port și la South Beach cu autobuzul local. La prânz, Whale Theatre este locul perfect pentru încălzire. După-amiaza trece prin Burnaby Estate, revenind la gară odată cu lăsarea serii.",
+            "en": "Taking the train in winter offers great views of the frosty coastline. From the station, reach the harbour and South Beach quickly by local bus. At noon, the Whale Theatre is the perfect warm-up spot. Spend the afternoon in Burnaby Estate before returning to the cozily lit station as twilight falls."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Greystones Station",
+              "tip_5lang": {
+                "de": "Der Bahnhofsbereich kann bei Frost auf den Gehwegen glatt sein.",
+                "hu": "Az állomás környékén a járdák fagyos időben csúszósak lehetnek.",
+                "ro": "Zona gării poate avea trotuare alunecoase în caz de îngheț.",
+                "en": "The station area can have slippery pavements during frosty weather."
+              }
+            },
+            {
+              "name": "Greystones Harbour",
+              "tip_5lang": {
+                "de": "Warten Sie auf den Bus im Windschatten des nahen Gebäudes.",
+                "hu": "Várja a buszt a közeli épület szélárnyékos oldalán.",
+                "ro": "Așteptați autobuzul la adăpostul clădirii din apropiere.",
+                "en": "Wait for the bus in the lee of the nearby building to avoid the wind."
+              }
+            },
+            {
+              "name": "South Beach",
+              "tip_5lang": {
+                "de": "Im Winter sind die Busse oft weniger voll und angenehm warm.",
+                "hu": "Télen a buszok gyakran kevésbé zsúfoltak és kellemesen melegek.",
+                "ro": "Iarna autobuzele sunt adesea mai puțin aglomerate și bine încălzite.",
+                "en": "In winter, buses are often less crowded and comfortably warm."
+              }
+            },
+            {
+              "name": "Bus to Burnaby Estate",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Bus, um die kühle Strecke bergauf zu überbrücken.",
+                "hu": "Használja a buszt, hogy megspórolja a hidegben való hegymenetet.",
+                "ro": "Folosiți autobuzul pentru a evita urcarea dealului prin aerul rece.",
+                "en": "Use the bus to bridge the cold uphill section to the estate."
+              }
+            },
+            {
+              "name": "The Whale Theatre",
+              "tip_5lang": {
+                "de": "Zentraler, warmer Rückzugsort in der Nähe aller Transportmittel.",
+                "hu": "Központi, meleg menedék az összes közlekedési eszköz közelében.",
+                "ro": "Refugiu central și cald, aproape de toate mijloacele de transport.",
+                "en": "Central, warm sanctuary close to all transport links."
+              }
+            },
+            {
+              "name": "Departure from Greystones Station",
+              "tip_5lang": {
+                "de": "Die Züge verkehren im Winter zuverlässig nach Fahrplan.",
+                "hu": "A vonatok télen is megbízhatóan közlekednek a menetrend szerint.",
+                "ro": "Trenurile circulă regulat conform orarului și în timpul iernii.",
+                "en": "Trains run reliably according to the schedule even in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die DART-Strecke zwischen Greystones und Bray gilt als eine der schönsten Irlands.",
+              "Achten Sie auf die verkürzten Fahrpläne an Feiertagen im Winter.",
+              "Warme Getränke sind am Bahnhofskiosk erhältlich.",
+              "Der Bahnhof Greystones ist barrierefrei und bietet guten Windschutz."
+            ],
+            "hu": [
+              "A Greystones és Bray közötti DART szakasz Írország egyik legszebb vasútvonala.",
+              "Ügyeljen a téli ünnepnapokon érvényes módosított menetrendekre.",
+              "Forró italok kaphatók az állomáson található kioszkban.",
+              "A Greystones állomás akadálymentesített és jól véd a szél ellen."
+            ],
+            "ro": [
+              "Traseul DART între Greystones și Bray este unul dintre cele mai frumoase din Irlanda.",
+              "Atenție la orarele reduse în timpul sărbătorilor de iarnă.",
+              "Băuturi calde sunt disponibile la chioșcul din gară.",
+              "Gara Greystones este accesibilă și oferă o protecție bună contra vântului."
+            ],
+            "en": [
+              "The DART route between Greystones and Bray is one of Ireland's most scenic.",
+              "Watch out for reduced holiday schedules during the winter season.",
+              "Hot drinks are available at the kiosk located inside the station.",
+              "Greystones station is fully accessible and provides decent wind shelter."
+            ]
+          }
+        }
       }
     }
   }

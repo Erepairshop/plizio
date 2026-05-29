@@ -395,6 +395,214 @@
           "Allow extra time to explore the small alleys around the main square.",
           "Some paths, especially to the castle, can be steep."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein verregneter Vormittag am Stadtplatz beginnt unter den schützenden Arkaden der Enge Gasse, wo man trocken das Bummerlhaus bewundern kann. Mittags bietet die Stadtpfarrkirche einen stillen, trockenen Rückzugsort voller Geschichte.\n\nNachmittags ist die Zeit perfekt für das Museum der Arbeitswelt; die Ausstellungen in den alten Fabrikshallen lassen den Regen draußen vergessen. Ein kurzer Spaziergang über die Brücken zeigt die dramatischen, angeschwollenen Flüsse Enns und Steyr.\n\nDer Abend klingt in einem der gemütlichen Wirtshäuser der Altstadt aus. Das Prasseln des Regens auf den historischen Pflastersteinen verleiht der beleuchteten Kulisse eine ganz besondere, fast mystische Atmosphäre.\n\nObwohl die Wege nass sind, machen die kurzen Distanzen zwischen den Sehenswürdigkeiten Steyr auch bei Schlechtwetter zu einem lohnenswerten Ziel für Entdecker.",
+            "hu": "A borús délelőtt a Főtér árkádjai alatt kezdődik, ahol az Enge Gasse boltívei védenek az esőtől a Bummerlhaus megcsodálása közben. Délben a Városi Plébániatemplom falai között találunk csendes és száraz menedéket.\n\nDélután az időjárás a Munkásvilág Múzeumába terel minket; a régi gyárépületekben berendezett kiállítások alatt teljesen megfeledkezünk a kinti zivatarrol. A folyók összefolyása ilyenkor különösen látványos és vad.\n\nAz este egy hangulatos óvárosi vendéglőben ér véget. Az eső kopogása a macskaköveken és a kivilágított történelmi homlokzatok misztikus hangulatot kölcsönöznek a városnak.\n\nA vizes utak ellenére a látnivalók közötti rövid távolságok miatt Steyr rossz időben is kiváló gyalogos célpont marad, hiszen mindig van egy közeli kapualj vagy kávézó.",
+            "ro": "O dimineață ploioasă în Piața Mare începe sub arcadele protectoare din Enge Gasse, unde puteți admira Bummerlhaus fără a vă uda. La prânz, biserica parohială oferă un refugiu liniștit și uscat, plin de istorie locală.\n\nDupă-amiaza este momentul perfect pentru Muzeul Lumii Muncii; expozițiile din vechile hale industriale vă fac să uitați de vremea de afară. O scurtă plimbare pe poduri dezvăluie spectacolul râurilor Enns și Steyr umflate de ploaie.\n\nSeara se încheie într-una dintre tavernele primitoare din orașul vechi. Sunetul ploii pe caldarâmul istoric și luminile orașului creează o atmosferă aproape mistică și foarte relaxantă.\n\nDeși drumurile sunt umede, distanțele scurte dintre obiective fac din Steyr o destinație viabilă chiar și pe timp de ploaie, oferind numeroase locuri unde vă puteți adăposti rapid.",
+            "en": "A rainy morning at the Main Square begins under the protective arcades of Enge Gasse, where you can admire the Bummerlhaus while staying dry. At noon, the Parish Church provides a quiet, sheltered retreat steeped in local history.\n\nAfternoon is the perfect time for the Museum of the Working World; the indoor exhibits in the old factory halls let you forget the downpour outside. A short walk across the bridges shows the dramatic, rain-swollen confluence of the Enns and Steyr.\n\nThe evening winds down in one of the cozy old town taverns. The sound of rain on the historic cobblestones and the glowing facades create a unique, almost mystical atmosphere in the city center.\n\nDespite the wet paths, the short distances between sights make Steyr a rewarding walking destination even in bad weather, with plenty of covered spots to duck into."
+          },
+          "stops": [
+            {
+              "name": "Steyr Main Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkadengänge der Enge Gasse, um trocken zu bleiben.",
+                "hu": "Használja az Enge Gasse árkádjait, hogy szárazon maradjon a séta alatt.",
+                "ro": "Folosiți arcadele din Enge Gasse pentru a rămâne la adăpost de ploaie.",
+                "en": "Use the arcade walkways of Enge Gasse to stay dry while exploring."
+              }
+            },
+            {
+              "name": "City Hall",
+              "tip_5lang": {
+                "de": "Der Eingangsbereich bietet kurzzeitigen Schutz vor Regengüssen.",
+                "hu": "A bejárati rész rövid ideig védelmet nyújt a záporok elől.",
+                "ro": "Zona de la intrare oferă protecție temporară împotriva rafalelor de ploaie.",
+                "en": "The entrance area provides brief shelter from passing rain showers."
+              }
+            },
+            {
+              "name": "Parish Church",
+              "tip_5lang": {
+                "de": "Ein idealer Ort für eine längere, trockene Besichtigungspause.",
+                "hu": "Ideális helyszín egy hosszabb, száraz városnézési szünethez.",
+                "ro": "Un loc ideal pentru o pauză lungă și uscată de vizitare.",
+                "en": "An ideal spot for a longer, dry break during your sightseeing tour."
+              }
+            },
+            {
+              "name": "Zwischenbrücken (Between the Bridges)",
+              "tip_5lang": {
+                "de": "Vorsicht, die Metall- und Holzteile der Brücke können rutschig sein.",
+                "hu": "Vigyázat, a híd fém- és faelemei csúszósak lehetnek az esőben.",
+                "ro": "Atenție, elementele de metal și lemn ale podului pot fi alunecoase.",
+                "en": "Caution, the metal and wooden parts of the bridge can be slippery."
+              }
+            },
+            {
+              "name": "Lamberg Castle",
+              "tip_5lang": {
+                "de": "Der Innenhof ist teilweise überdacht, perfekt für Fotos im Regen.",
+                "hu": "A belső udvar részben fedett, tökéletes esőben is fotózáshoz.",
+                "ro": "Curtea interioară este parțial acoperită, fiind ideală pentru fotografii.",
+                "en": "The inner courtyard is partially covered, perfect for photos in the rain."
+              }
+            },
+            {
+              "name": "Museum of the Working World",
+              "tip_5lang": {
+                "de": "Geben Sie Ihren nassen Schirm am Eingang im Schirmständer ab.",
+                "hu": "A vizes esernyőt hagyja a bejáratnál lévő tartóban.",
+                "ro": "Lăsați umbrela udă în suportul special de la intrare.",
+                "en": "Leave your wet umbrella in the stand provided at the entrance."
+              }
+            },
+            {
+              "name": "Schnallentor Gate",
+              "tip_5lang": {
+                "de": "Der Torbogen dient als schneller Unterstand bei plötzlichem Regen.",
+                "hu": "A kapualj gyors menedékként szolgál hirtelen eső esetén.",
+                "ro": "Arcul porții servește ca adăpost rapid în caz de ploaie bruscă.",
+                "en": "The gateway arch serves as a quick shelter during sudden rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da das Kopfsteinpflaster Pfützen bildet.",
+              "Die Enge Gasse bietet fast durchgehenden Schutz durch ihre Arkaden.",
+              "Planen Sie Museumsbesuche für die intensivsten Regenstunden ein.",
+              "Achten Sie auf rutschige Stufen bei den Abgängen zu den Flüssen.",
+              "Viele Cafés am Stadtplatz haben gemütliche Innenräume für Regenpausen."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert a macskaköveken tócsák alakulhatnak ki.",
+              "Az Enge Gasse árkádjai szinte folyamatos védelmet nyújtanak az eső ellen.",
+              "A múzeumlátogatást a legintenzívebb eső óráira időzítse.",
+              "Vigyázzon a csúszós lépcsőkre a folyóparti lejáróknál.",
+              "A főtéri kávézók többsége hangulatos belső térrel vár az eső elől."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, deoarece se pot forma bălți pe caldarâm.",
+              "Enge Gasse oferă protecție aproape continuă prin arcadele sale.",
+              "Planificați vizitele la muzee pentru orele cu ploaie intensă.",
+              "Atenție la treptele alunecoase de la coborârile spre râu.",
+              "Multe cafenele din piață au interioare primitoare pentru pauze."
+            ],
+            "en": [
+              "Wear waterproof shoes as puddles tend to form on the cobblestones.",
+              "Enge Gasse provides almost continuous cover thanks to its arcades.",
+              "Schedule your museum visits for the hours with the heaviest rain.",
+              "Watch out for slippery steps when descending towards the river banks.",
+              "Many cafes on the Main Square offer cozy indoor seating for rain breaks."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Steyr verwandelt sich im Winter in die offizielle Christkindlstadt, beginnend am festlich beleuchteten Stadtplatz. Der Duft von Punsch und Maroni liegt in der kalten Morgenluft, während der Raureif die barocken Fassaden ziert.\n\nMittags bietet die Stadtpfarrkirche einen besinnlichen Ort der Wärme. Der Weg über die Zwischenbrücken ist bei Schnee besonders malerisch, wenn die Flüsse Steyr und Enns zwischen vereisten Ufern dahinfließen.\n\nAm Nachmittag lockt das Museum der Arbeitswelt mit spannender Industriegeschichte im Warmen. Schloss Lamberg wirkt im Winterkleid wie aus einem Märchen, besonders wenn die Dämmerung bereits gegen 16:30 Uhr einsetzt.\n\nDer Tag endet ideal bei einem heißen Getränk am Weihnachtsmarkt oder in einem der urigen Gasthäuser. Die festliche Beleuchtung spiegelt sich im Schnee und macht den Winterspaziergang zu einem unvergesslichen Erlebnis.",
+            "hu": "Steyr télen hivatalos Karácsonyváró várossá (Christkindlstadt) alakul, a díszesen kivilágított főtérrel a középpontban. A hideg reggeli levegőben puncs és sült gesztenye illata száll a dérmarta barokk homlokzatok között.\n\nDélben a Városi Plébániatemplom nyújt meghitt, meleg pihenőt. A Zwischenbrücken feletti átkelés havazásban különösen festői, ahogy a Steyr és az Enns a jeges partok között hömpölyög.\n\nDélután a Munkásvilág Múzeuma kínál izgalmas ipartörténeti kalandozást a fűtött termekben. A Lamberg-kastély ilyenkor mesebeli látványt nyújt, főleg a korai, fél öt körüli sötétedésben.\n\nA nap forró itallal zárul a karácsonyi vásáron vagy egy ódon vendéglőben. Az ünnepi fények megcsillannak a havon, felejthetetlenné téve a téli sétát a történelmi belvárosban.",
+            "ro": "Steyr se transformă iarna în orașul oficial al lui Moș Crăciun, începând cu Piața Mare luminată festiv. Aroma de punch și castane coapte plutește în aerul rece de dimineață, printre fațadele baroce chiciurate.\n\nLa prânz, biserica parohială oferă un loc de liniște și căldură. Drumul peste Zwischenbrücken este deosebit de pitoresc când ninge, iar râurile Steyr și Enns curg printre maluri înghețate.\n\nDupă-amiaza, Muzeul Lumii Muncii vă atrage cu istoria industrială în săli încălzite. Castelul Lamberg arată ca dintr-un basm sub mantia de zăpadă, mai ales că amurgul se lasă deja în jurul orei 16:30.\n\nZiua se încheie perfect cu o băutură fierbinte la târgul de Crăciun sau într-un han tradițional. Luminile festive reflectate în zăpadă fac din plimbarea de iarnă o experienție de neuitat.",
+            "en": "In winter, Steyr transforms into the official Christmas City, centered around the festively illuminated Main Square. The scent of punch and roasted chestnuts fills the cold morning air among the frost-covered baroque facades.\n\nAt noon, the Parish Church offers a contemplative place of warmth. Crossing the Zwischenbrücken in the snow is especially picturesque, with the Steyr and Enns rivers flowing between icy banks.\n\nIn the afternoon, the Museum of the Working World provides engaging industrial history in a heated environment. Lamberg Castle looks like something out of a fairy tale in its winter coat, especially as dusk falls around 4:30 PM.\n\nThe day ends ideally with a hot drink at the Christmas market or in a traditional tavern. The festive lights reflecting on the snow make this winter walk a truly unforgettable experience."
+          },
+          "stops": [
+            {
+              "name": "Steyr Main Square",
+              "tip_5lang": {
+                "de": "Besuchen Sie den Weihnachtsmarkt für regionalen Punsch und Handwerk.",
+                "hu": "Látogassa meg a karácsonyi vásárt a helyi puncsért és kézműves termékekért.",
+                "ro": "Vizitați târgul de Crăciun pentru punch regional și artizanat local.",
+                "en": "Visit the Christmas market for regional punch and local handicrafts."
+              }
+            },
+            {
+              "name": "City Hall",
+              "tip_5lang": {
+                "de": "Die Fassade ist im Advent besonders prachtvoll beleuchtet.",
+                "hu": "A homlokzat advent idején különösen pompás kivilágítást kap.",
+                "ro": "Fațada este iluminată deosebit de spectaculos în timpul Adventului.",
+                "en": "The facade is especially magnificently illuminated during Advent."
+              }
+            },
+            {
+              "name": "Parish Church",
+              "tip_5lang": {
+                "de": "Ein ruhiger Rückzugsort, um sich vor dem nächsten Spaziergang aufzuwärmen.",
+                "hu": "Csendes menedék, ahol felmelegedhet a következő séta előtt.",
+                "ro": "Un refugiu liniștit pentru a vă încălzi înainte de următoarea plimbare.",
+                "en": "A quiet retreat to warm up before continuing your winter walk."
+              }
+            },
+            {
+              "name": "Zwischenbrücken (Between the Bridges)",
+              "tip_5lang": {
+                "de": "Vorsicht vor Glatteis auf den Brückenwegen über den Flüssen.",
+                "hu": "Vigyázzon a jegesedésre a folyók feletti hídjárdákon.",
+                "ro": "Atenție la polei pe căile pietonale de pe podurile peste râu.",
+                "en": "Watch out for black ice on the bridge walkways over the rivers."
+              }
+            },
+            {
+              "name": "Lamberg Castle",
+              "tip_5lang": {
+                "de": "Der Schlossgarten ist im Schnee ein beliebtes Fotomotiv.",
+                "hu": "A kastélykert hóban a fotósok egyik kedvenc helyszíne.",
+                "ro": "Grădina castelului este un loc preferat pentru fotografii în zăpadă.",
+                "en": "The castle garden is a popular photo spot when covered in snow."
+              }
+            },
+            {
+              "name": "Museum of the Working World",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe, um schwere Wintermäntel abzugeben.",
+                "hu": "Használja a ruhatárat a nehéz télikabátok leadásához.",
+                "ro": "Folosiți garderoba pentru a lăsa hainele groase de iarnă.",
+                "en": "Use the cloakroom to store your heavy winter coats while visiting."
+              }
+            },
+            {
+              "name": "Schnallentor Gate",
+              "tip_5lang": {
+                "de": "Der steile Aufstieg kann bei Schnee und Eis rutschig sein.",
+                "hu": "A meredek feljáró hóban és jégben csúszós lehet.",
+                "ro": "Urcarea abruptă poate fi alunecoasă în condiții de zăpadă și gheață.",
+                "en": "The steep ascent can be slippery in snow and icy conditions."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Kleidung und feste Sohlen sind für das Kopfsteinpflaster essenziell.",
+              "Die Dämmerung beginnt früh, nutzen Sie das Tageslicht bis 16:00 Uhr.",
+              "Besuchen Sie das nahegelegene Christkindl-Postamt für Weihnachtsgrüße.",
+              "Vorsicht vor Eiszapfen an historischen Dachrinnen in der Altstadt.",
+              "Wärmen Sie sich zwischendurch in den traditionellen Konditoreien auf."
+            ],
+            "hu": [
+              "A meleg ruházat és a tapadós talpú cipő elengedhetetlen a macskaköveken.",
+              "A sötétedés korán kezdődik, használja ki a nappali fényt délután 4-ig.",
+              "Látogasson el a közeli Christkindl postára karácsonyi üdvözletekért.",
+              "Vigyázzon az ódon ereszekről lelógó jégcsapokra az óvárosban.",
+              "Melegedjen fel időnként a hagyományos cukrászdák egyikében."
+            ],
+            "ro": [
+              "Hainele groase și tălpile aderente sunt esențiale pentru caldarâm.",
+              "Amurgul începe devreme, profitați de lumina zilei până la ora 16:00.",
+              "Vizitați oficiul poștal Christkindl din apropiere pentru urări de Crăciun.",
+              "Atenție la țurțurii de la jgheaburile istorice din orașul vechi.",
+              "Încălziți-vă periodic în cofetăriile tradiționale din centru."
+            ],
+            "en": [
+              "Warm layers and non-slip soles are essential for the cobblestone streets.",
+              "Dusk starts early, make the most of the daylight until 4:00 PM.",
+              "Visit the nearby Christkindl post office for special Christmas greetings.",
+              "Watch out for icicles hanging from historic gutters in the old town.",
+              "Warm up periodically in one of the traditional pastry shops."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -745,6 +953,196 @@
           "Lock your bike securely at the main attractions.",
           "Many streets in the old town are narrow and cobbled."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert in Steyr gute Ausrüstung, belohnt aber mit leeren Wegen am Ennskai. Der Start am Stadtplatz führt über nasses Kopfsteinpflaster, das volle Konzentration verlangt.\n\nAm Mittag bietet das Museum der Arbeitswelt eine willkommene trockene Pause für Radler. Die Fahrt entlang der Steyr zeigt den Fluss in seiner ungestümen, regenreichen Kraft.\n\nNachmittags führt die Route zum Schloss Lamberg, wo man das Rad kurz unterstellen kann. Die Zwischenbrücken bieten trotz Regen einen tollen Ausblick auf das Zusammenfließen der Wassermassen.\n\nDer Tag endet mit der Fahrt zum Steyrtal-Bahnhof. Die kühle, feuchte Luft macht die Anstrengung wett, und ein heißer Tee im Ziel ist die beste Belohnung für wetterfeste Biker.",
+            "hu": "Egy esős bringázás Steyrben jó felszerelést igényel, de cserébe üres utakat kínál az Ennskai mentén. A főtérről indulva a vizes macskakő teljes koncentrációt igényel.\n\nDélben a Munkásvilág Múzeuma kiváló száraz pihenőhely a kerékpárosoknak. A Steyr folyó menti tekerés közben láthatjuk a víz zabolátlan erejét az esőben.\n\nDélután az út a Lamberg-kastélyhoz vezet, ahol rövid időre fedett helyre tehetjük a gépet. A Zwischenbrücken esőben is pazar kilátást nyújt a víztömegek találkozására.\n\nA nap a Steyrtal vasútállomásnál zárul. A hűvös, párás levegő felfrissít, a célban elfogyasztott forró tea pedig a legjobb jutalom az edzett bringásoknak.",
+            "ro": "O tură cu bicicleta pe ploaie în Steyr necesită echipament bun, dar oferă poteci libere pe Ennskai. Startul din Piața Mare pe caldarâmul ud cere concentrare maximă.\n\nLa prânz, Muzeul Lumii Muncii oferă o pauză uscată binevenită pentru bicicliști. Plimbarea de-a lungul râului Steyr arată forța impetuoasă a apei în timpul ploii.\n\nDupă-amiaza, ruta duce la Castelul Lamberg, unde puteți parca bicicleta la adăpost pentru scurt timp. Zwischenbrücken oferă o vedere excelentă asupra confluenței, chiar și pe ploaie.\n\nZiua se încheie cu drumul spre gara Steyrtal. Aerul răcoros și umed compensează efortul, iar un ceai fierbinte la destinație este cea mai bună răsplată.",
+            "en": "A bike tour in the rain requires good gear in Steyr but rewards you with empty paths along the Ennskai. Starting at the Main Square, the wet cobblestones demand full concentration.\n\nAt noon, the Museum of the Working World provides a welcome dry break for cyclists. Riding along the Steyr river shows the water in its wild, rain-fed power.\n\nIn the afternoon, the route leads to Lamberg Castle, where you can briefly park your bike under cover. The Zwischenbrücken offer a great view of the merging waters despite the rain.\n\nThe day ends with a ride to the Steyrtal Railway station. The cool, damp air makes up for the exertion, and a hot tea at the finish is the best reward for weatherproof bikers."
+          },
+          "stops": [
+            {
+              "name": "Steyr Main Square",
+              "tip_5lang": {
+                "de": "Vorsicht beim Anfahren auf nassem Kopfsteinpflaster.",
+                "hu": "Vigyázzon az elindulásnál a vizes macskakövön.",
+                "ro": "Atenție la pornirea de pe loc pe caldarâmul ud.",
+                "en": "Be careful when starting off on wet cobblestones."
+              }
+            },
+            {
+              "name": "Schnallentor Gate",
+              "tip_5lang": {
+                "de": "Achten Sie auf Pfützen in den tieferen Rillen des Torwegs.",
+                "hu": "Ügyeljen a tócsákra a kapualj mélyebb vájataiban.",
+                "ro": "Atenție la bălțile din șanțurile mai adânci ale porții.",
+                "en": "Watch out for puddles in the deeper grooves of the gateway."
+              }
+            },
+            {
+              "name": "Lamberg Castle",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Torbogen zum Schloss für eine kurze Regenpause.",
+                "hu": "Használja a kastély kapualját egy rövid esőszünetre.",
+                "ro": "Folosiți arcada castelului pentru o scurtă pauză de ploaie.",
+                "en": "Use the castle archway for a quick break from the rain."
+              }
+            },
+            {
+              "name": "Museum of the Working World",
+              "tip_5lang": {
+                "de": "Es gibt überdachte Fahrradständer in der Nähe des Eingangs.",
+                "hu": "A bejárat közelében fedett kerékpártárolók találhatók.",
+                "ro": "Există suporturi de biciclete acoperite lângă intrare.",
+                "en": "There are covered bike racks located near the entrance."
+              }
+            },
+            {
+              "name": "Steyrtal Railway",
+              "tip_5lang": {
+                "de": "Wischen Sie den Sattel vor der Rückfahrt trocken.",
+                "hu": "Törölje szárazra a nyerget a visszaindulás előtt.",
+                "ro": "Ștergeți șaua înainte de drumul de întoarcere.",
+                "en": "Wipe your saddle dry before the return journey."
+              }
+            },
+            {
+              "name": "Zwischenbrücken",
+              "tip_5lang": {
+                "de": "Befahren Sie die Schienen auf der Brücke im rechten Winkel.",
+                "hu": "A hídon lévő síneket derékszögben keresztezze.",
+                "ro": "Traversați șinele de pe pod în unghi drept.",
+                "en": "Cross any rails on the bridge at a right angle."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie hastiges Bremsen auf nassem Untergrund.",
+              "Tragen Sie eine auffällige Regenjacke für bessere Sichtbarkeit.",
+              "Schutzbleche sind bei den Wegen entlang der Flüsse unerlässlich.",
+              "Prüfen Sie Ihre Bremsen regelmäßig auf ihre Wirkung bei Nässe.",
+              "Die Uferwege können durch herabgefallenes Laub rutschig sein."
+            ],
+            "hu": [
+              "Kerülje a hirtelen fékezést vizes útfelületen.",
+              "Viseljen feltűnő esőkabátot a jobb láthatóság érdekében.",
+              "A sárvédő elengedhetetlen a folyóparti utakon.",
+              "Rendszeresen ellenőrizze a fékek hatékonyságát nedves időben.",
+              "A parti utak a lehullott levelek miatt csúszósak lehetnek."
+            ],
+            "ro": [
+              "Evitați frânarea bruscă pe suprafețe umede.",
+              "Purtați o jachetă de ploaie reflectorizantă pentru vizibilitate.",
+              "Apărătorile de noroi sunt esențiale pe potecile de-a lungul râului.",
+              "Verificați eficiența frânelor în condiții de umiditate.",
+              "Potecile de pe mal pot fi alunecoase din cauza frunzelor căzute."
+            ],
+            "en": [
+              "Avoid sudden braking on wet road surfaces.",
+              "Wear a bright raincoat for better visibility to others.",
+              "Mudguards are essential for the paths along the rivers.",
+              "Regularly check your brakes for their effectiveness in the wet.",
+              "Riverside paths can be slippery due to fallen wet leaves."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im winterlichen Steyr erfordert Vorsicht, bietet aber eine glitzernde Kulisse entlang der Enns. Der Start am Stadtplatz bei Frost zeigt die Barockstadt in einer klaren, kalten Stille.\n\nAm Mittag dient das Museum der Arbeitswelt als idealer Ort zum Aufwärmen der Hände und Füße. Die Route führt weiter zum Steyrtal-Bahnhof, wobei man auf geräumte Wege achten sollte.\n\nNachmittags ist der Anstieg zum Schloss Lamberg eine sportliche Herausforderung, die warm hält. Die Aussicht von den Zwischenbrücken auf die eisschollentreibenden Flüsse ist im Winter einzigartig.\n\nDie Tour endet in der Dämmerung, wenn die Lichter der Stadt den Schnee zum Leuchten bringen. Eine gut geölte Kette und Schichten aus Wolle machen diese Winterrunde zu einem erfrischenden Abenteuer.",
+            "hu": "A téli Steyrben a bringázás óvatosságot igényel, de csillogó díszletet kínál az Enns mentén. A fagyos főtérről indulva a barokk város tiszta, hideg csendben mutatkozik meg.\n\nDélben a Munkásvilág Múzeuma ideális hely a kezek és lábak felmelegítésére. Az út a Steyrtal vasútállomás felé folytatódik, figyelve a letakarított szakaszokra.\n\nDélután a Lamberg-kastélyhoz vezető emelkedő sportos kihívás, ami jól melegen tart. A Zwischenbrückenről nyíló kilátás a jeges folyókra télen megismételhetetlen.\n\nA túra szürkületben ér véget, amikor a város fényei megvilágítják a havat. Egy jól megolajozott lánc és a réteges öltözködés teszi ezt a téli kört frissítő kalanddá.",
+            "ro": "Mersul cu bicicleta iarna în Steyr necesită prudență, dar oferă un decor sclipitor de-a lungul Enns. Startul în Piața Mare pe timp de ger arată orașul baroc într-o liniște rece.\n\nLa prânz, Muzeul Lumii Muncii servește ca loc ideal pentru a vă încălzi mâinile și picioarele. Ruta continuă spre gara Steyrtal, fiind atenți la porțiunile deszăpezite.\n\nDupă-amiaza, urcarea spre Castelul Lamberg este o provocare sportivă care vă ține de cald. Vederea de pe Zwischenbrücken spre râurile cu sloiuri este unică iarna.\n\nTurul se încheie la amurg, când luminile orașului fac zăpada să strălucească. O lanț bine uns și straturi de lână fac din această rundă de iarnă o aventură revigorantă.",
+            "en": "Cycling in wintry Steyr requires caution but offers a sparkling backdrop along the Enns. Starting at the Main Square in the frost reveals the baroque city in a clear, cold silence.\n\nAt noon, the Museum of the Working World serves as an ideal place to warm up hands and feet. The route continues to the Steyrtal Railway, keeping an eye out for cleared paths.\n\nIn the afternoon, the climb to Lamberg Castle is a physical challenge that keeps you warm. The view from the Zwischenbrücken of the ice floes in the rivers is unique in winter.\n\nThe tour ends at dusk as the city lights make the snow glow. A well-oiled chain and woolen layers make this winter ride a refreshing adventure."
+          },
+          "stops": [
+            {
+              "name": "Steyr Main Square",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenem Kopfsteinpflaster im Schatten.",
+                "hu": "Vigyázzon a fagyott macskakövekre az árnyékos részeken.",
+                "ro": "Atenție la caldarâmul înghețat în zonele cu umbră.",
+                "en": "Watch out for frozen cobblestones in shaded areas."
+              }
+            },
+            {
+              "name": "Schnallentor Gate",
+              "tip_5lang": {
+                "de": "Der Boden unter dem Torbogen kann besonders glatt sein.",
+                "hu": "A kapualj alatti talaj különösen csúszós lehet.",
+                "ro": "Solul de sub arcada porții poate fi deosebit de alunecos.",
+                "en": "The ground under the archway can be particularly slick."
+              }
+            },
+            {
+              "name": "Lamberg Castle",
+              "tip_5lang": {
+                "de": "Schieben Sie das Rad bei Eis auf den steilen Auffahrten.",
+                "hu": "Jegesedés esetén tolja a bringát a meredek feljárókon.",
+                "ro": "Împingeți bicicleta pe urcările abrupte dacă e gheață.",
+                "en": "Walk your bike on the steep ramps if they are icy."
+              }
+            },
+            {
+              "name": "Museum of the Working World",
+              "tip_5lang": {
+                "de": "Ein heißes Getränk im Museumscafé taut kalte Finger auf.",
+                "hu": "Egy forró ital a múzeum kávézójában felolvasztja a hideg ujjakat.",
+                "ro": "O băutură fierbinte la cafeneaua muzeului vă va dezgheța degetele.",
+                "en": "A hot drink at the museum cafe will thaw out cold fingers."
+              }
+            },
+            {
+              "name": "Steyrtal Railway",
+              "tip_5lang": {
+                "de": "Achten Sie auf eingefrorene Bremszüge bei Minusgraden.",
+                "hu": "Mínuszokban figyeljen a befagyott fékbowdenekre.",
+                "ro": "Atenție la cablurile de frână înghețate la temperaturi negative.",
+                "en": "Check for frozen brake cables in sub-zero temperatures."
+              }
+            },
+            {
+              "name": "Zwischenbrücken",
+              "tip_5lang": {
+                "de": "Metallplatten auf der Brücke sind bei Frost extrem rutschig.",
+                "hu": "A hídon lévő fémlapok fagyban rendkívül csúszósak.",
+                "ro": "Plăcile de metal de pe pod sunt extrem de alunecoase pe ger.",
+                "en": "Metal plates on the bridge are extremely slippery in frost."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Verringern Sie den Reifendruck leicht für besseren Grip auf Schnee.",
+              "Vermeiden Sie Schräglagen in Kurven bei unklaren Straßenverhältnissen.",
+              "Nutzen Sie Funktionsunterwäsche, um den Körper warm und trocken zu halten.",
+              "Reinigen Sie das Rad nach der Tour von Streusalzrückständen.",
+              "Sorgen Sie für eine funktionierende Beleuchtung bei früher Dunkelheit."
+            ],
+            "hu": [
+              "Csökkentse kissé a guminyomást a jobb tapadásért a havon.",
+              "Kerülje a kanyarokban való bedőlést bizonytalan útviszonyoknál.",
+              "Használjon technikai aláöltözetet, hogy testét melegen tartsa.",
+              "A túra után tisztítsa le a bringáról az útszórósó-maradványokat.",
+              "Gondoskodjon a világításról a korai sötétedés miatt."
+            ],
+            "ro": [
+              "Reduceți ușor presiunea în pneuri pentru o aderență mai bună.",
+              "Evitați înclinarea în curbe când condițiile drumului sunt incerte.",
+              "Folosiți lenjerie termică pentru a vă menține corpul cald.",
+              "Curățați bicicleta de resturile de sare după fiecare tură.",
+              "Asigurați-vă că aveți lumini funcționale pentru amurgul timpuriu."
+            ],
+            "en": [
+              "Lower your tire pressure slightly for better grip on snow.",
+              "Avoid leaning into corners if road conditions are uncertain.",
+              "Wear thermal underwear to keep your body warm and dry.",
+              "Clean the salt residues off your bike after the tour.",
+              "Ensure your lights are working properly for the early darkness."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1088,6 +1486,214 @@
           "Be aware of one-way streets in the old town.",
           "Use Park and Ride facilities on the outskirts for a stress-free visit."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto lässt sich Steyr auch bei Dauerregen komfortabel erkunden. Das Parkhaus in der Altstadt bietet einen trockenen Startpunkt direkt im Zentrum.\n\nMittags ist die Stadtpfarrkirche nur einen kurzen Sprung entfernt, sodass man kaum nass wird. Die Fahrt zum Museumsparkplatz ermöglicht einen direkten Zugang zu den Ausstellungen.\n\nDer Nachmittag im Museum der Arbeitswelt ist die beste Wahl für Regentage. Danach führt die kurze Fahrt zum Schloss Lamberg, wo man in der Nähe parken kann, um den historischen Hof zu besichtigen.\n\nDer Tag endet entspannt beim Steyrtal-Bahnhof. Die Heizung im Auto sorgt für Gemütlichkeit, während draußen der Regen die Flüsse füllt. Ein idealer Ausflug für alle, die das Trockene bevorzugen.",
+            "hu": "Autóval Steyr még tartós esőben is kényelmesen felfedezhető. Az óvárosi parkolóház száraz kiindulópontot biztosít közvetlenül a központban.\n\nDélben a Városi Plébániatemplom csak egy rövid ugrás, így alig ér minket az eső. A múzeumi parkoló közvetlen hozzáférést biztosít a kiállításokhoz.\n\nA délután a Munkásvilág Múzeumában a legjobb választás esős napokon. Ezután rövid autóút vezet a Lamberg-kastélyhoz, ahol a közelben parkolva nézhetjük meg a történelmi udvart.\n\nA nap pihentetően zárul a Steyrtal vasútállomásnál. Az autó fűtése gondoskodik a kényelemről, miközben kint az eső duzzasztja a folyókat. Ideális kirándulás azoknak, akik szárazon szeretnének maradni.",
+            "ro": "Cu mașina, Steyr poate fi explorat confortabil chiar și în timpul unei ploi de durată. Parcarea din orașul vechi oferă un punct de plecare uscat chiar în centru.\n\nLa prânz, biserica parohială este la doar o aruncătură de băț, astfel încât abia dacă vă veți uda. Parcarea muzeului permite accesul direct la expoziții.\n\nDupă-amiaza la Muzeul Lumii Muncii este cea mai bună alegere pentru zilele ploioase. Apoi, un drum scurt duce la Castelul Lamberg, unde puteți parca în apropiere.\n\nZiua se încheie relaxat la gara Steyrtal. Încălzirea din mașină oferă confort, în timp ce afară ploaia umple râurile. O excursie ideală pentru cei care preferă să rămână uscați.",
+            "en": "By car, Steyr can be explored comfortably even during persistent rain. The old town parking garage provides a dry starting point right in the center.\n\nAt noon, the Parish Church is just a short hop away, so you'll hardly get wet. Driving to the museum parking lot allows direct access to the exhibits.\n\nThe afternoon at the Museum of the Working World is the best choice for rainy days. Afterward, a short drive leads to Lamberg Castle, where you can park nearby to visit the historic courtyard.\n\nThe day ends relaxingly at the Steyrtal Railway station. The car's heater ensures coziness while the rain swells the rivers outside. An ideal trip for those who prefer to stay dry."
+          },
+          "stops": [
+            {
+              "name": "Old Town Car Park",
+              "tip_5lang": {
+                "de": "Idealer, überdachter Ausgangspunkt für den Stadtplatz.",
+                "hu": "Ideális, fedett kiindulópont a főtér meglátogatásához.",
+                "ro": "Punct de plecare ideal, acoperit, pentru Piața Mare.",
+                "en": "Ideal covered starting point for visiting the Main Square."
+              }
+            },
+            {
+              "name": "Main Square & Bummerlhaus",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen den historischen Häusern minimieren Regenzeit.",
+                "hu": "A történelmi házak közötti rövid távolságok minimalizálják az esőben töltött időt.",
+                "ro": "Distanțele scurte între casele istorice minimizează timpul în ploaie.",
+                "en": "Short distances between historic houses minimize time spent in the rain."
+              }
+            },
+            {
+              "name": "Parish Church",
+              "tip_5lang": {
+                "de": "Parken Sie kurzzeitig in der Nähe für einen schnellen Zugang.",
+                "hu": "Parkoljon rövid időre a közelben a gyors bejutáshoz.",
+                "ro": "Parcați pentru scurt timp în apropiere pentru acces rapid.",
+                "en": "Park nearby for a short time for quick access to the church."
+              }
+            },
+            {
+              "name": "Car Park Museum of the Working World",
+              "tip_5lang": {
+                "de": "Direkter Zugang zum Museum ohne weite Fußwege im Regen.",
+                "hu": "Közvetlen bejutás a múzeumba hosszú esős gyaloglás nélkül.",
+                "ro": "Acces direct la muzeu fără plimbări lungi prin ploaie.",
+                "en": "Direct access to the museum without long walks in the rain."
+              }
+            },
+            {
+              "name": "Museum of the Working World",
+              "tip_5lang": {
+                "de": "Verbringen Sie hier die Zeit während des stärksten Regens.",
+                "hu": "Itt töltse el az időt a leghevesebb esőzés alatt.",
+                "ro": "Petreceți timpul aici în timpul celei mai intense ploi.",
+                "en": "Spend your time here during the heaviest rainfall."
+              }
+            },
+            {
+              "name": "Lamberg Castle",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Kurzparkzone direkt beim Schlosseingang.",
+                "hu": "Használja a rövidtávú parkolózónát közvetlenül a kastélybejáratnál.",
+                "ro": "Folosiți zona de parcare scurtă chiar lângă intrarea castelului.",
+                "en": "Use the short-term parking zone right by the castle entrance."
+              }
+            },
+            {
+              "name": "Steyrtalbahn Station",
+              "tip_5lang": {
+                "de": "Der Bahnhofsbereich bietet einige Unterstände für Besucher.",
+                "hu": "Az állomás környékén több fedett beálló is található.",
+                "ro": "Zona gării oferă câteva adăposturi pentru vizitatori.",
+                "en": "The station area offers several shelters for visitors."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Parkgaragen, um das Auto trocken abzustellen.",
+              "Achten Sie auf Fußgänger, die bei Regen oft unachtsamer sind.",
+              "Halten Sie ausreichend Abstand auf nassen Straßenbelägen.",
+              "Prüfen Sie die Wischerblätter vor der Fahrt durch die Stadt.",
+              "Die Sicht kann durch beschlagene Scheiben eingeschränkt sein."
+            ],
+            "hu": [
+              "Használja a parkolóházakat, hogy az autót száraz helyen hagyja.",
+              "Figyeljen a gyalogosokra, akik esőben gyakran figyelmetlenebbek.",
+              "Tartson megfelelő követési távolságot a vizes úton.",
+              "Indulás előtt ellenőrizze az ablaktörlő lapátokat.",
+              "A párásodó szélvédő korlátozhatja a kilátást."
+            ],
+            "ro": [
+              "Folosiți parcările etajate pentru a lăsa mașina la uscat.",
+              "Atenție la pietoni, care sunt adesea mai neatenți pe ploaie.",
+              "Păstrați o distanță suficientă pe carosabilul umed.",
+              "Verificați lamelele ștergătoarelor înainte de drum.",
+              "Vizibilitatea poate fi limitată de parbrizul aburit."
+            ],
+            "en": [
+              "Use parking garages to keep your car in a dry place.",
+              "Watch out for pedestrians, who are often less attentive in the rain.",
+              "Keep a safe following distance on wet road surfaces.",
+              "Check your wiper blades before driving through the city.",
+              "Visibility may be limited due to fogged-up windows."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter ist das Auto das sicherste Mittel, um Steyr warm zu erkunden. Die schneebedeckten Straßen verleihen der Fahrt einen idyllischen, aber anspruchsvollen Charakter.\n\nDer Vormittag am Stadtplatz beginnt mit der Suche nach einem geräumten Parkplatz. Die barocken Häuser im Winterlicht sind vom warmen Fahrzeuginneren aus herrlich zu betrachten.\n\nMittags bietet die Fahrt zum Museum der Arbeitswelt eine Pause von der Kälte. Schloss Lamberg thront prachtvoll über der verschneiten Stadt, ein kurzer Stopp für ein Foto lohnt sich immer.\n\nDer Tag endet beim Steyrtal-Bahnhof, wo man die historische Atmosphäre genießen kann, bevor man die Sitzheizung für den Heimweg aktiviert. Winterreifen und Vorsicht machen diesen Ausflug sicher und gemütlich.",
+            "hu": "Télen az autó a legbiztosabb módja Steyr melegben történő felfedezésének. A hófödte utcák idilli, de kihívásokkal teli karaktert adnak az utazásnak.\n\nA délelőtt a főtéren egy letakarított parkolóhely keresésével kezdődik. A téli fényben úszó barokk házak a meleg autóból nézve is csodásak.\n\nDélben a Munkásvilág Múzeumához vezető út pihenőt ad a hideg elől. A Lamberg-kastély pompásan trónol a havas város felett, egy rövid fotómegállót mindenképp megér.\n\nA nap a Steyrtal vasútállomásnál zárul, ahol élvezhetjük a történelmi hangulatot, mielőtt bekapcsolnánk az ülésfűtést a hazaútra. A téli gumi és az óvatosság biztonságossá teszi az utat.",
+            "ro": "Iarna, mașina este cel mai sigur mijloc de a explora Steyr la căldură. Străzile acoperite de zăpadă oferă drumului un caracter idilic, dar solicitant.\n\nDimineața în Piața Mare începe cu căutarea unui loc de parcare deszăpezit. Casele baroce în lumina iernii sunt superbe de privit din interiorul cald al vehiculului.\n\nLa prânz, drumul spre Muzeul Lumii Muncii oferă o pauză de la frig. Castelul Lamberg tronează peste orașul înzăpezit, meritând o scurtă oprire pentru o fotografie.\n\nZiua se încheie la gara Steyrtal, unde puteți savura atmosfera istorică înainte de a activa încălzirea în scaune. Anvelopele de iarnă și prudența fac această excursie sigură.",
+            "en": "In winter, the car is the safest way to explore Steyr while staying warm. The snow-covered streets give the drive an idyllic but challenging character.\n\nThe morning at the Main Square begins with searching for a cleared parking space. The baroque houses in the winter light are wonderful to look at from the warm interior of the vehicle.\n\nAt noon, the drive to the Museum of the Working World provides a break from the cold. Lamberg Castle stands magnificently over the snowy city; a quick photo stop is always worth it.\n\nThe day ends at the Steyrtal Railway station, where you can enjoy the historic atmosphere before turning on the seat heaters for the ride home. Winter tires and caution make this trip safe and cozy."
+          },
+          "stops": [
+            {
+              "name": "Old Town Car Park",
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Parken im Freien, um das Auto eisfrei zu halten.",
+                "hu": "Kerülje a szabadtéri parkolást, hogy az autó jégmentes maradjon.",
+                "ro": "Evitați parcarea în aer liber pentru a menține mașina fără gheață.",
+                "en": "Avoid parking outdoors to keep your car free from ice."
+              }
+            },
+            {
+              "name": "Main Square & Bummerlhaus",
+              "tip_5lang": {
+                "de": "Achten Sie auf Schneehaufen am Fahrbahnrand beim Parken.",
+                "hu": "Parkoláskor ügyeljen az út szélén lévő hókupacokra.",
+                "ro": "Atenție la mormanele de zăpadă de pe marginea drumului la parcare.",
+                "en": "Watch out for snow piles at the edge of the road when parking."
+              }
+            },
+            {
+              "name": "Parish Church",
+              "tip_5lang": {
+                "de": "Die Zufahrtswege können bei Neuschnee rutschig sein.",
+                "hu": "A bekötőutak friss hó esetén csúszósak lehetnek.",
+                "ro": "Căile de acces pot fi alunecoase în caz de zăpadă proaspătă.",
+                "en": "Access roads can be slippery with fresh snow."
+              }
+            },
+            {
+              "name": "Car Park Museum of the Working World",
+              "tip_5lang": {
+                "de": "Achten Sie auf Streusalzreste an den Schuhen beim Einsteigen.",
+                "hu": "Beszálláskor ügyeljen a cipőjén lévő útszórósó-maradványokra.",
+                "ro": "Atenție la resturile de sare de pe pantofi la urcarea în mașină.",
+                "en": "Watch out for road salt residues on your shoes when getting in."
+              }
+            },
+            {
+              "name": "Museum of the Working World",
+              "tip_5lang": {
+                "de": "Ideal, um sich nach dem Aussteigen schnell ins Warme zu retten.",
+                "hu": "Ideális, hogy kiszállás után gyorsan meleg helyre érjünk.",
+                "ro": "Ideal pentru a ajunge rapid la căldură după ce coborâți din mașină.",
+                "en": "Ideal for quickly getting into the warmth after getting out of the car."
+              }
+            },
+            {
+              "name": "Lamberg Castle",
+              "tip_5lang": {
+                "de": "Der Parkplatz bietet eine tolle Aussicht auf das verschneite Steyr.",
+                "hu": "A parkolóból nagyszerű kilátás nyílik a havas Steyrre.",
+                "ro": "Parcarea oferă o vedere excelentă asupra orașului Steyr înzăpezit.",
+                "en": "The parking area offers a great view of snowy Steyr."
+              }
+            },
+            {
+              "name": "Steyrtalbahn Station",
+              "tip_5lang": {
+                "de": "Prüfen Sie vor der Rückfahrt, ob die Wischerblätter eingefroren sind.",
+                "hu": "Visszaindulás előtt ellenőrizze, nem fagytak-e le az ablaktörlők.",
+                "ro": "Verificați dacă ștergătoarele sunt înghețate înainte de plecare.",
+                "en": "Check if the wiper blades are frozen before the return journey."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in Österreich bei winterlichen Bedingungen Pflicht.",
+              "Führen Sie einen Eiskratzer und einen kleinen Besen im Auto mit.",
+              "Vermeiden Sie ruckartige Lenkbewegungen auf glatten Straßen.",
+              "Die Batterie kann bei extremer Kälte schneller schwächeln.",
+              "Achten Sie auf Räumfahrzeuge im engen Stadtgebiet."
+            ],
+            "hu": [
+              "Ausztriában téli útviszonyok között kötelező a téli gumi.",
+              "Tartson az autóban jégkaparót és egy kis seprűt.",
+              "Kerülje a hirtelen kormánymozdulatokat a csúszós utakon.",
+              "Az akkumulátor extrém hidegben hamarabb lemerülhet.",
+              "Ügyeljen a hókotrókra a szűk városi területeken."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii în Austria în condiții de iarnă.",
+              "Țineți în mașină o racletă de gheață și o perie mică.",
+              "Evitați mișcările bruște de volan pe drumurile alunecoase.",
+              "Bateria se poate descărca mai repede la temperaturi extreme.",
+              "Atenție la utilajele de deszăpezire în zonele înguste ale orașului."
+            ],
+            "en": [
+              "Winter tires are mandatory in Austria during wintry conditions.",
+              "Carry an ice scraper and a small brush in your car.",
+              "Avoid sudden steering movements on slippery roads.",
+              "The car battery may weaken faster in extreme cold.",
+              "Watch out for snow removal vehicles in narrow city areas."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1408,6 +2014,196 @@
           "Most buses are accessible.",
           "Have small change ready for tickets if buying on the bus."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Öffentliche Verkehrsmittel machen den Regentag in Steyr stressfrei. Die Ankunft am Stadtplatz erfolgt meist im Trockenen, da viele Haltestellen überdacht sind.\n\nMittags führt der Weg bequem zum Museumsquartier, wobei man die Busse als rollende Unterstände nutzen kann. Die Aussicht aus dem Fenster zeigt das verregnete, glänzende Steyr.\n\nNachmittags ist das Museum der Arbeitswelt das Highlight im Warmen. Danach bringt der Bus die Besucher zum Schloss Lamberg, ohne dass man lange Strecken im Regen laufen muss.\n\nDer Tag endet mit einer gemütlichen Busfahrt zurück. Die beschlagenen Scheiben und die Wärme im Bus schaffen eine behagliche Stimmung nach einem Tag voller Kultur.",
+            "hu": "A tömegközlekedés stresszmentessé teszi az esős napot Steyrben. A főtérre érkezés általában szárazon történik, mivel sok megálló fedett.\n\nDélben kényelmesen eljuthatunk a múzeumi negyedbe, a buszokat „guruló menedékként” használva. Az ablakból nézve az esőtől csillogó Steyr látványa tárul elénk.\n\nDélután a Munkásvilág Múzeuma a fűtött belső tereivel a fő attrakció. Ezután a busz a Lamberg-kastélyhoz viszi a látogatókat, elkerülve a hosszú esős sétákat.\n\nA nap hangulatos buszozással zárul. A bepárásodott ablakok és a busz melege kellemes hangulatot áraszt egy kultúrával teli nap után.",
+            "ro": "Transportul public face ca ziua ploioasă în Steyr să fie fără stres. Sosirea în Piața Mare se face de obicei la uscat, deoarece multe stații sunt acoperite.\n\nLa prânz, drumul duce confortabil spre cartierul muzeelor, folosind autobuzele ca adăposturi mobile. Vederea pe fereastră arată orașul Steyr strălucind sub ploaie.\n\nDupă-amiaza, Muzeul Lumii Muncii este punctul culminant la căldură. Apoi, autobuzul îi duce pe vizitatori la Castelul Lamberg, evitând plimbările lungi prin ploaie.\n\nZiua se încheie cu o călătorie relaxantă cu autobuzul. Geamurile aburite și căldura din interior creează o stare de bine după o zi plină de cultură.",
+            "en": "Public transit makes a rainy day in Steyr stress-free. Arriving at the Main Square usually happens under cover, as many bus stops are sheltered.\n\nAt noon, the journey comfortably leads to the museum quarter, using buses as rolling shelters. The view from the window shows Steyr glistening in the rain.\n\nIn the afternoon, the Museum of the Working World is the indoor highlight. Afterward, the bus takes visitors to Lamberg Castle, avoiding the need for long walks in the rain.\n\nThe day ends with a cozy bus ride back. The fogged-up windows and the warmth inside create a pleasant mood after a day full of culture."
+          },
+          "stops": [
+            {
+              "name": "Arrival at the Main Square",
+              "tip_5lang": {
+                "de": "Warten Sie unter dem Haltestellendach auf den nächsten Anschluss.",
+                "hu": "Várjon a megálló fedele alatt a következő csatlakozásra.",
+                "ro": "Așteptați sub copertina stației pentru următoarea legătură.",
+                "en": "Wait under the station roof for your next connection."
+              }
+            },
+            {
+              "name": "Main Square & City Hall",
+              "tip_5lang": {
+                "de": "Die Haltestellen sind strategisch nah an den Hauptattraktionen.",
+                "hu": "A megállók stratégiailag közel vannak a fő látnivalókhoz.",
+                "ro": "Stațiile sunt amplasate strategic aproape de principalele atracții.",
+                "en": "The bus stops are strategically located near the main attractions."
+              }
+            },
+            {
+              "name": "Zwischenbrücken",
+              "tip_5lang": {
+                "de": "Nutzen Sie den kurzen Fußweg von der Bushaltestelle zur Brücke.",
+                "hu": "Használja a rövid gyalogutat a buszmegállótól a hídig.",
+                "ro": "Folosiți drumul scurt pe jos de la stația de autobuz la pod.",
+                "en": "Take the short walk from the bus stop to the bridge."
+              }
+            },
+            {
+              "name": "Trip to the Museum Quarter",
+              "tip_5lang": {
+                "de": "Im Bus bleiben Sie während der Fahrt zwischen den Zielen trocken.",
+                "hu": "A buszon szárazon maradhat a célpontok közötti utazás alatt.",
+                "ro": "Rămâneți la uscat în autobuz în timp ce vă deplasați între obiective.",
+                "en": "Stay dry on the bus while traveling between destinations."
+              }
+            },
+            {
+              "name": "Museum of the Working World",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Fahrplan bequem per App im Museumsfoyer.",
+                "hu": "Ellenőrizze a menetrendet kényelmesen az appban a múzeum előterében.",
+                "ro": "Verificați programul autobuzelor în aplicație din holul muzeului.",
+                "en": "Check the bus schedule conveniently via app in the museum foyer."
+              }
+            },
+            {
+              "name": "Lamberg Castle",
+              "tip_5lang": {
+                "de": "Der Bus hält fast direkt vor dem Schlossparkeingang.",
+                "hu": "A busz szinte közvetlenül a kastélypark bejáratánál áll meg.",
+                "ro": "Autobuzul oprește aproape direct în fața intrării în parcul castelului.",
+                "en": "The bus stops almost directly in front of the castle park entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Holen Sie sich eine Tageskarte für unbegrenzte Fahrten im Regen.",
+              "Die Busse in Steyr sind pünktlich und gut vernetzt.",
+              "Achten Sie beim Einsteigen auf nasse Böden im Bus.",
+              "Nutzen Sie die Wartezeiten für einen Blick in den digitalen Stadtführer.",
+              "Viele Haltestellen im Zentrum bieten Regenschutz."
+            ],
+            "hu": [
+              "Váltson napijegyet a korlátlan utazáshoz az esőben.",
+              "Steyr buszai pontosak és jól szervezettek.",
+              "Beszálláskor ügyeljen a busz vizes, csúszós padlójára.",
+              "Használja ki a várakozási időt a digitális útikalauz böngészésére.",
+              "A központi megállók többsége védelmet nyújt az eső elől."
+            ],
+            "ro": [
+              "Luați un bilet de o zi pentru călătorii nelimitate pe ploaie.",
+              "Autobuzele din Steyr sunt punctuale și bine conectate.",
+              "Atenție la podeaua umedă din autobuz la urcare.",
+              "Folosiți timpul de așteptare pentru a consulta ghidul digital.",
+              "Multe stații din centru oferă protecție împotriva ploii."
+            ],
+            "en": [
+              "Get a day ticket for unlimited rides during the rain.",
+              "Buses in Steyr are punctual and well-connected.",
+              "Watch out for wet floors inside the bus when boarding.",
+              "Use waiting times to browse the digital city guide.",
+              "Many stops in the center provide shelter from the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Öffentliche Verkehrsmittel sind im Winter die gemütlichste Art, Steyr zu erleben. Die gut geheizten Busse bieten einen Rückzugsort vor dem eisigen Wind.\n\nDer Vormittag beginnt mit der Ankunft am festlich geschmückten Stadtplatz. Die Fahrt durch die verschneiten Gassen bietet tolle Ausblicke auf die winterliche Barockarchitektur.\n\nMittags ist der Trip zum Museumsquartier kurz und komfortabel. Das Museum der Arbeitswelt lädt dazu ein, den Nachmittag in den warmen Hallen zu verbringen.\n\nDer Tag endet mit der Fahrt zum Schloss Lamberg, das in der winterlichen Dämmerung besonders eindrucksvoll beleuchtet ist. Die Rückfahrt im warmen Bus rundet das winterliche Stadterlebnis perfekt ab.",
+            "hu": "A tömegközlekedés télen a legkényelmesebb módja Steyr megismerésének. A jól fűtött buszok menedéket nyújtanak a jeges szél elől.\n\nA délelőtt az ünnepi díszbe öltözött főtérre érkezéssel kezdődik. A havas utcákon átvezető út nagyszerű kilátást nyújt a téli barokk építészetre.\n\nDélben a múzeumi negyedbe tett utazás rövid és komfortos. A Munkásvilág Múzeuma hívogat, hogy a délutánt a meleg csarnokokban töltsük.\n\nA nap a Lamberg-kastélyhoz tett látogatással zárul, amely a téli szürkületben különösen hatásosan van kivilágítva. A hazaút a meleg buszon tökéletesen zárja a téli városi élményt.",
+            "ro": "Transportul public este cea mai confortabilă modalitate de a experimenta Steyr iarna. Autobuzele bine încălzite oferă un refugiu în fața vântului înghețat.\n\nDimineața începe cu sosirea în Piața Mare decorată festiv. Drumul prin străzile înzăpezite oferă priveliști minunate asupra arhitecturii baroce de iarnă.\n\nLa prânz, călătoria spre cartierul muzeelor este scurtă și confortabilă. Muzeul Lumii Muncii vă invită să petreceți după-amiaza în halele sale încălzite.\n\nZiua se încheie cu drumul spre Castelul Lamberg, care este luminat deosebit de impresionant în amurgul iernii. Întoarcerea în autobuzul cald completează perfect experiența.",
+            "en": "Public transit is the coziest way to experience Steyr in winter. The well-heated buses offer a retreat from the icy wind.\n\nThe morning begins with arrival at the festively decorated Main Square. The ride through the snowy streets provides great views of the wintry baroque architecture.\n\nAt noon, the trip to the museum quarter is short and comfortable. The Museum of the Working World invites you to spend the afternoon in its warm halls.\n\nThe day ends with a visit to Lamberg Castle, which is particularly impressively lit in the winter twilight. The return journey in a warm bus rounds off the winter city experience perfectly."
+          },
+          "stops": [
+            {
+              "name": "Arrival at the Main Square",
+              "tip_5lang": {
+                "de": "Genießen Sie die Wärme im Bus, bevor Sie ins Kalte aussteigen.",
+                "hu": "Élvezze a busz melegét, mielőtt kiszállna a hidegbe.",
+                "ro": "Bucurați-vă de căldura din autobuz înainte de a coborî în frig.",
+                "en": "Enjoy the warmth on the bus before stepping out into the cold."
+              }
+            },
+            {
+              "name": "Main Square & City Hall",
+              "tip_5lang": {
+                "de": "Im Advent sind die Haltestellen oft festlich dekoriert.",
+                "hu": "Advent idején a megállókat gyakran ünnepi díszbe öltöztetik.",
+                "ro": "În timpul Adventului, stațiile sunt adesea decorate festiv.",
+                "en": "During Advent, the stops are often festively decorated."
+              }
+            },
+            {
+              "name": "Zwischenbrücken",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenem Matsch beim Verlassen des Busses.",
+                "hu": "Vigyázzon a fagyott kásás hóra a buszról való leszálláskor.",
+                "ro": "Atenție la noroiul înghețat când coborâți din autobuz.",
+                "en": "Watch out for frozen slush when getting off the bus."
+              }
+            },
+            {
+              "name": "Trip to the Museum Quarter",
+              "tip_5lang": {
+                "de": "Nutzen Sie die kurzen Intervalle der Citybusse im Winter.",
+                "hu": "Használja ki a városi buszok sűrű téli menetrendjét.",
+                "ro": "Profitați de intervalele scurte ale autobuzelor urbane iarna.",
+                "en": "Take advantage of the frequent intervals of city buses in winter."
+              }
+            },
+            {
+              "name": "Museum of the Working World",
+              "tip_5lang": {
+                "de": "Die Haltestelle befindet sich fast unmittelbar am Eingang.",
+                "hu": "A megálló szinte közvetlenül a bejáratnál található.",
+                "ro": "Stația se află aproape imediat lângă intrare.",
+                "en": "The bus stop is located almost right at the entrance."
+              }
+            },
+            {
+              "name": "Lamberg Castle",
+              "tip_5lang": {
+                "de": "Der Aufstieg zum Schloss ist vom Bus aus nur ein kurzer Weg.",
+                "hu": "A kastélyhoz vezető emelkedő a busztól csak egy rövid séta.",
+                "ro": "Urcarea spre castel este doar un drum scurt de la autobuz.",
+                "en": "The climb to the castle is just a short walk from the bus."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrpläne können bei extremem Schneefall leicht variieren.",
+              "Nutzen Sie die beheizten Warteräume am Hauptbahnhof, falls nötig.",
+              "Tragen Sie Schuhe mit gutem Grip für den Weg zur Haltestelle.",
+              "Die Citybusse verbinden die wichtigsten Weihnachtsmärkte.",
+              "Planen Sie etwas Pufferzeit für den Umstieg ein."
+            ],
+            "hu": [
+              "Extrém havazás esetén a menetrendek kissé módosulhatnak.",
+              "Szükség esetén használja a főpályaudvar fűtött várótermeit.",
+              "Viseljen jó tapadású cipőt a megállóig vezető úton.",
+              "A városi buszok összekötik a legfontosabb karácsonyi vásárokat.",
+              "Tervezzen némi tartalékidőt az átszállásokhoz."
+            ],
+            "ro": [
+              "Orarele pot varia ușor în caz de ninsori extreme.",
+              "Folosiți sălile de așteptare încălzite de la gară dacă este necesar.",
+              "Purtați încălțăminte cu aderență bună pentru drumul spre stație.",
+              "Autobuzele urbane fac legătura între principalele târguri de Crăciun.",
+              "Planificați puțin timp suplimentar pentru conexiuni."
+            ],
+            "en": [
+              "Schedules may vary slightly during extreme snowfall.",
+              "Use the heated waiting rooms at the main station if needed.",
+              "Wear shoes with good grip for the walk to the bus stop.",
+              "The city buses connect the most important Christmas markets.",
+              "Allow for some buffer time when changing buses."
+            ]
+          }
+        }
       }
     }
   }

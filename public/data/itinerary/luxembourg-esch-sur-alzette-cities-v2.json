@@ -302,6 +302,170 @@
           "Some paths in the park can be uneven.",
           "The walk to Belval is long, so bring water."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen in der Rue de l'Alzette lädt zum Schaufensterbummel unter Markisen ein. Mittags bietet die St.-Josefs-Kirche einen trockenen Rückzugsort der Stille. Am Nachmittag vertiefen wir uns im Nationalen Widerstandsmuseum in die Geschichte, geschützt vor dem Wetter. Den Tag beschließen wir zwischen den imposanten Hochöfen von Belval, deren nasser Stahl im fahlen Licht glänzt.",
+            "hu": "Az esős reggel az Alzette utcán a boltok előtetői alatt is hangulatos. Délben a Szent József-templom nyújt menedéket a zápor elől. Délután az Ellenállási Múzeum belső tárlatai kínálnak tartalmas kikapcsolódást, miközben kint dobol az eső. Az estét Belval hatalmas kohói között zárjuk, ahol a vizes acélszerkezetek monumentális látványt nyújtanak a szürkületben.",
+            "ro": "O dimineață ploioasă pe Rue de l'Alzette ne îndeamnă să explorăm vitrinele sub protecția copertinelor. La prânz, Biserica Sfântul Iosif oferă un refugiu uscat și liniștit. După-amiaza este dedicată Muzeului Național al Rezistenței, feriți de intemperii. Încheiem ziua printre furnalele din Belval, unde oțelul ud strălucește spectaculos sub cerul plumburiu.",
+            "en": "A rainy morning on Rue de l'Alzette is perfect for window shopping under shop awnings. At noon, Saint Joseph's Church provides a dry and peaceful sanctuary. In the afternoon, we dive into history at the Resistance Museum, safely sheltered from the rain. We conclude the day at the Belval Blast Furnaces, where the wet industrial steel creates a dramatic atmosphere."
+          },
+          "stops": [
+            {
+              "name": "Rue de l'Alzette",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Vordächer der Geschäfte als Regenschutz.",
+                "hu": "Használja az üzletek előtetőit esernyő helyett.",
+                "ro": "Folosiți copertinele magazinelor pentru a vă adăposti.",
+                "en": "Use the shop awnings as natural shelter from the rain."
+              }
+            },
+            {
+              "name": "Saint Joseph's Church",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um einen starken Schauer abzuwarten.",
+                "hu": "Tökéletes hely egy nagyobb zápor átvészelésére.",
+                "ro": "Un loc ideal pentru a aștepta trecerea unei averse.",
+                "en": "A perfect spot to wait out a heavy downpour."
+              }
+            },
+            {
+              "name": "National Museum of the Resistance",
+              "tip_5lang": {
+                "de": "Planen Sie hier mehr Zeit ein, wenn es draußen regnet.",
+                "hu": "Töltsön itt több időt, amíg odakint esik az eső.",
+                "ro": "Petreceți mai mult timp aici dacă afară plouă.",
+                "en": "Plan to spend more time here if it's raining outside."
+              }
+            },
+            {
+              "name": "Gaalgebierg Park",
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den asphaltierten Wegen, um Matsch zu vermeiden.",
+                "hu": "Maradjon az aszfaltozott utakon a sár elkerülése érdekében.",
+                "ro": "Rămâneți pe potecile asfaltate pentru a evita noroiul.",
+                "en": "Stick to the paved paths to avoid the mud."
+              }
+            },
+            {
+              "name": "Belval Blast Furnaces",
+              "tip_5lang": {
+                "de": "Vorsicht, die Metalltreppen können bei Nässe rutschig sein.",
+                "hu": "Vigyázat, a fém lépcsők nedvesen csúszósak lehetnek.",
+                "ro": "Atenție, scările metalice pot fi alunecoase când sunt ude.",
+                "en": "Be careful, the metal stairs can be slippery when wet."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nehmen Sie einen stabilen Regenschirm mit, da es in Belval windig sein kann.",
+              "Die Einkaufsstraße bietet viele Cafés für kurze Aufwärmpausen.",
+              "Tragen Sie wasserfeste Schuhe für den Parkbesuch.",
+              "Nutzen Sie die kostenlosen öffentlichen Verkehrsmittel, falls der Regen zu stark wird."
+            ],
+            "hu": [
+              "Vigyen erős esernyőt, mert Belval környékén szeles lehet az idő.",
+              "A sétálóutca számos kávézót kínál egy rövid pihenőhöz.",
+              "Viseljen vízálló cipőt a parki sétához.",
+              "Használja az ingyenes tömegközlekedést, ha eleredne az intenzív eső."
+            ],
+            "ro": [
+              "Luați o umbrelă rezistentă, deoarece în Belval poate fi vânt.",
+              "Strada comercială are multe cafenele pentru scurte pauze.",
+              "Purtați încălțăminte impermeabilă pentru vizita în parc.",
+              "Folosiți transportul public gratuit dacă ploaia devine prea densă."
+            ],
+            "en": [
+              "Bring a sturdy umbrella as it can get windy around Belval.",
+              "The shopping street offers many cafes for short dry breaks.",
+              "Wear waterproof shoes for the park section of the walk.",
+              "Utilize the free public transport if the rain becomes too heavy."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An einem klaren Wintermorgen belebt die kalte Luft den Spaziergang durch die Rue de l'Alzette. Mittags wärmen wir uns in der St.-Josefs-Kirche auf und genießen die Stille. Der Nachmittag im Widerstandsmuseum bietet eine gemütliche Pause von der Kälte. Zum Sonnenuntergang erreichen wir Belval, wo die Industriekulisse im frühen Abendlicht besonders imposant wirkt.",
+            "hu": "A friss téli reggelen a hideg levegő élénkítően hat az Alzette utcai sétára. Délben a Szent József-templom falai között melegedhetünk fel egy kicsit. A délutáni múzeumlátogatás tökéletes beltéri program a fagyos időben. Sötétedéskor érünk Belvalba, ahol az ipari műemlékek díszkivilágítása már korán felgyúl.",
+            "ro": "Într-o dimineață geroasă de iarnă, aerul rece ne înviorează plimbarea pe Rue de l'Alzette. La prânz ne încălzim în interiorul Bisericii Sfântul Iosif. După-amiaza la muzeu oferă o pauză binemeritată de la frigul de afară. La apus ajungem în Belval, unde siluetele industriale sunt spectaculoase în lumina serii timpurii.",
+            "en": "On a crisp winter morning, the cold air invigorates our stroll through Rue de l'Alzette. At noon, we warm up inside the peaceful Saint Joseph's Church. The afternoon visit to the Resistance Museum is a cozy escape from the freezing temperatures. By sunset, we reach Belval, where the industrial structures look stunning in the early evening light."
+          },
+          "stops": [
+            {
+              "name": "Rue de l'Alzette",
+              "tip_5lang": {
+                "de": "Genießen Sie ein Heißgetränk in einem der vielen Cafés.",
+                "hu": "Igyon egy forró italt a számos kávézó egyikében.",
+                "ro": "Savurați o băutură caldă la una dintre numeroasele cafenele.",
+                "en": "Enjoy a hot drink at one of the many cafes along the street."
+              }
+            },
+            {
+              "name": "Saint Joseph's Church",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um sich kurz aufzuwärmen.",
+                "hu": "Csendes hely egy rövid átmelegedéshez.",
+                "ro": "Un loc liniștit pentru o scurtă încălzire.",
+                "en": "A quiet place to warm up for a few minutes."
+              }
+            },
+            {
+              "name": "National Museum of the Resistance",
+              "tip_5lang": {
+                "de": "Die Garderobe ist ideal, um schwere Wintermäntel abzugeben.",
+                "hu": "Használja a ruhatárat a nehéz téli kabátok letételéhez.",
+                "ro": "Folosiți garderoba pentru a lăsa hainele groase de iarnă.",
+                "en": "Use the cloakroom to leave your heavy winter coats."
+              }
+            },
+            {
+              "name": "Gaalgebierg Park",
+              "tip_5lang": {
+                "de": "Die kahlen Bäume bieten weite Ausblicke über die Stadt.",
+                "hu": "A kopasz fák közül szép kilátás nyílik a városra.",
+                "ro": "Copacii desfrunziți oferă vederi largi asupra orașului.",
+                "en": "The bare trees allow for wide views over the city."
+              }
+            },
+            {
+              "name": "Belval Blast Furnaces",
+              "tip_5lang": {
+                "de": "Achtung bei Eisglätte auf den Aussichtsplattformen.",
+                "hu": "Vigyázzon a jegesedésre a kilátóplatformokon.",
+                "ro": "Atenție la porțiunile înghețate de pe platformele de observație.",
+                "en": "Watch out for icy patches on the observation platforms."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Winter bereits gegen 16:30 Uhr unter.",
+              "Tragen Sie mehrere Schichten Kleidung für den Wechsel zwischen Drinnen und Draußen.",
+              "Besuchen Sie den kleinen Weihnachtsmarkt, falls Sie im Dezember dort sind.",
+              "Der Aufstieg nach Belval kann bei Wind sehr kühl sein."
+            ],
+            "hu": [
+              "Télen a nap már 16:30 körül lenyugszik.",
+              "Öltözzön rétegesen a kinti hideg és a benti fűtés miatt.",
+              "Látogassa meg a karácsonyi vásárt, ha decemberben jár erre.",
+              "A belvali nyitott részeken a szél felerősítheti a hidegérzetet."
+            ],
+            "ro": [
+              "Iarna, soarele apune deja în jurul orei 16:30.",
+              "Îmbrăcați-vă în straturi pentru tranziția între interior și exterior.",
+              "Vizitați târgul de Crăciun dacă sunteți aici în decembrie.",
+              "Urcarea la Belval poate fi foarte răcoroasă din cauza vântului."
+            ],
+            "en": [
+              "The sun sets as early as 4:30 PM during winter.",
+              "Dress in layers to adjust between cold outdoors and heated indoors.",
+              "Check out the local Christmas market if visiting in December.",
+              "The open areas in Belval can feel much colder due to the wind."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -622,6 +786,188 @@
           "Check your tire pressure before you leave.",
           "The bike path to Belval is well-developed."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen bietet die Radtour durch Esch eine dynamische Perspektive auf die Stadt. Wir starten in der Rue de l'Alzette und finden Schutz in der St.-Josefs-Kirche. Eine Waldrunde im Gaalgebierg-Park erfordert Vorsicht auf nassem Laub, bevor wir uns im Museum aufwärmen. Die Fahrt endet im modernen Belval, wo Architektur und Industrie aufeinandertreffen.",
+            "hu": "Az eső ellenére a biciklitúra dinamikus élményt nyújt Esch városában. Az Alzette utcától indulva a Szent József-templomnál tartunk pihenőt. A Gaalgebierg parkerdei útjai csúszósak lehetnek a vizes levelektől, mielőtt a múzeumba érnénk. A túra a modern Belval negyedben zárul, ahol az acél és az üveg dominál.",
+            "ro": "În ciuda ploii, turul cu bicicleta prin Esch oferă o perspectivă dinamică. Pornim de pe Rue de l'Alzette și facem un popas la Biserica Sfântul Iosif. Traseul prin parcul Gaalgebierg necesită prudență pe frunzele ude, înainte de a ne încălzi la muzeu. Călătoria se încheie în Belval, unde arhitectura modernă întâlnește industria.",
+            "en": "Despite the rain, cycling through Esch offers a dynamic perspective of the city. We start at Rue de l'Alzette and find shelter at Saint Joseph's Church. A loop through Gaalgebierg Park requires caution on wet leaves before warming up at the museum. The ride ends in the modern Belval district, where architecture meets industry."
+          },
+          "stops": [
+            {
+              "name": "Rue de l'Alzette",
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf dem nassen Kopfsteinpflaster.",
+                "hu": "Vigyázzon a vizes macskakövön való tekeréssel.",
+                "ro": "Circulați cu atenție pe pavajul ud.",
+                "en": "Be careful when cycling on the wet cobblestones."
+              }
+            },
+            {
+              "name": "Saint Joseph's Church",
+              "tip_5lang": {
+                "de": "Fahrradständer befinden sich in der Nähe des Eingangs.",
+                "hu": "Biciklitárolókat a bejárat közelében talál.",
+                "ro": "Găsiți rastele pentru biciclete lângă intrare.",
+                "en": "Bike racks are located near the entrance."
+              }
+            },
+            {
+              "name": "Gaalgebierg Park",
+              "tip_5lang": {
+                "de": "Vorsicht in Kurven, nasses Laub kann sehr rutschig sein.",
+                "hu": "Vigyázzon a kanyarokban, a vizes levelek csúszhatnak.",
+                "ro": "Atenție în curbe, frunzele ude pot fi foarte alunecoase.",
+                "en": "Watch out in the turns, wet leaves can be very slippery."
+              }
+            },
+            {
+              "name": "National Museum of the Resistance",
+              "tip_5lang": {
+                "de": "Schließen Sie Ihr Rad sicher vor dem Museum ab.",
+                "hu": "Zárja le biztonságosan a kerékpárját a múzeum előtt.",
+                "ro": "Încuiați bine bicicleta în fața muzeului.",
+                "en": "Securely lock your bike in front of the museum."
+              }
+            },
+            {
+              "name": "Belval Blast Furnaces",
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Wege zwischen den Gebäuden.",
+                "hu": "Használja az épületek közötti fedett átjárókat.",
+                "ro": "Folosiți pasajele acoperite dintre clădiri.",
+                "en": "Utilize the covered walkways between the buildings."
+              }
+            },
+            {
+              "name": "Rockhal",
+              "tip_5lang": {
+                "de": "Ein guter Ort, um die Tour trocken zu beenden.",
+                "hu": "Jó hely a túra szárazon való befejezéséhez.",
+                "ro": "Un loc bun pentru a încheia turul la adăpost.",
+                "en": "A good place to end your tour in the dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine vollständige Regenmontur inklusive Überschuhen.",
+              "Bremsen Sie frühzeitig, da Bremswege auf nasser Fahrbahn länger sind.",
+              "In Esch gibt es mehrere Fahrradgeschäfte für schnelle Reparaturen.",
+              "Prüfen Sie Ihre Beleuchtung, da die Sicht bei Regen eingeschränkt ist."
+            ],
+            "hu": [
+              "Viseljen teljes esőfelszerelést, beleértve a cipővédőt is.",
+              "Fékezzen időben, mert a fékút vizes úton hosszabb.",
+              "Eschben több kerékpárbolt is van gyors javításokhoz.",
+              "Ellenőrizze a világítást, mert esőben rosszabbak a látási viszonyok."
+            ],
+            "ro": [
+              "Purtați echipament complet de ploaie, inclusiv protecții pentru pantofi.",
+              "Frânați din timp, deoarece distanța de frânare este mai mare pe ud.",
+              "În Esch există mai multe magazine de biciclete pentru reparații rapide.",
+              "Verificați luminile, deoarece vizibilitatea este redusă pe ploaie."
+            ],
+            "en": [
+              "Wear full rain gear, including shoe covers.",
+              "Brake early as stopping distances are longer on wet roads.",
+              "There are several bike shops in Esch for quick repairs if needed.",
+              "Check your lights as visibility is significantly reduced in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Radtour führt uns durch die frostige Landschaft von Esch. Der Morgen in der Rue de l'Alzette ist ruhig, gefolgt von einem wärmenden Stopp an der Kirche. Die Auffahrt zum Gaalgebierg bringt den Kreislauf in Schwung, während das Museum eine kulturelle Pause bietet. Den Abschluss bildet das futuristische Belval, das in der Winterdämmerung hell erleuchtet ist.",
+            "hu": "A téli biciklitúra Esch zúzmarás tájain vezet keresztül. Az Alzette utca csendes reggelét a templomi melegítő pihenő követi. A Gaalgebierg emelkedője segít a felmelegedésben, a múzeum pedig kulturális feltöltődést kínál. A túrát a futurisztikus Belval zárja, amely fényárban úszik a téli szürkületben.",
+            "ro": "Turul cu bicicleta pe timp de iarnă ne poartă prin peisajul înghețat al orașului Esch. Dimineața liniștită de pe Rue de l'Alzette este urmată de un popas cald la biserică. Urcarea spre Gaalgebierg ne pune sângele în mișcare, în timp ce muzeul oferă o pauză culturală. Încheiem în futuristul Belval, puternic iluminat în amurgul de iarnă.",
+            "en": "The winter bike tour takes us through the frosty scenery of Esch. A quiet morning on Rue de l'Alzette is followed by a warming stop at the church. The climb to Gaalgebierg gets the circulation going, while the museum offers a cultural break. We finish in futuristic Belval, brightly lit up in the winter twilight."
+          },
+          "stops": [
+            {
+              "name": "Rue de l'Alzette",
+              "tip_5lang": {
+                "de": "Achten Sie auf überfrierende Nässe im Schatten.",
+                "hu": "Vigyázzon a lefagyásokra az árnyékos részeken.",
+                "ro": "Atenție la polei în zonele umbrite.",
+                "en": "Watch out for black ice in shaded areas."
+              }
+            },
+            {
+              "name": "Saint Joseph's Church",
+              "tip_5lang": {
+                "de": "Wärmen Sie Ihre Hände kurz im Vorraum auf.",
+                "hu": "Melegítse fel a kezeit az előtérben.",
+                "ro": "Încălziți-vă mâinile în holul de la intrare.",
+                "en": "Warm your hands for a moment in the vestibule."
+              }
+            },
+            {
+              "name": "Gaalgebierg Park",
+              "tip_5lang": {
+                "de": "Der Anstieg hilft gegen die Kälte, oben weht oft Wind.",
+                "hu": "Az emelkedő segít a hideg ellen, de fent fújhat a szél.",
+                "ro": "Urcarea ajută împotriva frigului, dar sus bate vântul.",
+                "en": "The climb helps against the cold, but it's often windy at the top."
+              }
+            },
+            {
+              "name": "National Museum of the Resistance",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Pause für ein warmes Getränk.",
+                "hu": "Használja ki a szünetet egy meleg italra.",
+                "ro": "Folosiți pauza pentru o băutură caldă.",
+                "en": "Use the break to enjoy a warm beverage."
+              }
+            },
+            {
+              "name": "Belval Blast Furnaces",
+              "tip_5lang": {
+                "de": "Die Beleuchtung der Hochöfen beginnt im Winter früh.",
+                "hu": "A kohók díszkivilágítása télen már korán elkezdődik.",
+                "ro": "Iluminatul furnalelor începe devreme iarna.",
+                "en": "The illumination of the blast furnaces starts early in winter."
+              }
+            },
+            {
+              "name": "Rockhal",
+              "tip_5lang": {
+                "de": "Gute Anbindung an den beheizten Bahnhof Belval-Université.",
+                "hu": "Jó összeköttetés a fűtött Belval-Université vasútállomással.",
+                "ro": "Conexiune bună cu gara încălzită Belval-Université.",
+                "en": "Good connection to the heated Belval-Université train station."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Handschuhe und eine Mütze unter dem Helm.",
+              "Halten Sie die Fahrt kurz, um Unterkühlung zu vermeiden.",
+              "Prüfen Sie den Reifendruck, etwas weniger Druck gibt mehr Grip auf Schnee.",
+              "Trinken Sie ausreichend, auch wenn Sie bei Kälte weniger Durst verspüren."
+            ],
+            "hu": [
+              "Viseljen szélálló kesztyűt és sisak alá való sapkát.",
+              "Tartsa rövidebben a megállókat a kihűlés elkerülésére.",
+              "Ellenőrizze a guminyomást, a kicsit laposabb gumi jobban tapad havon.",
+              "Igyon eleget, akkor is, ha hidegben kevésbé érzi magát szomjasnak."
+            ],
+            "ro": [
+              "Purtați mănuși rezistente la vânt și o căciulă sub cască.",
+              "Păstrați opririle scurte pentru a evita hipotermia.",
+              "Verificați presiunea în pneuri; o presiune mai mică oferă aderență mai bună pe zăpadă.",
+              "Beți suficiente lichide, chiar dacă senzația de sete este redusă la frig."
+            ],
+            "en": [
+              "Wear windproof gloves and a thermal cap under your helmet.",
+              "Keep the stops brief to avoid getting too cold.",
+              "Check tire pressure; slightly lower pressure provides better grip on snow.",
+              "Stay hydrated, even if you feel less thirsty in the cold."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -966,6 +1312,206 @@
           "Pay attention to parking restrictions and zones.",
           "The car gives you the freedom to easily reach places outside the center."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Bequem im Auto erkunden wir Esch auch bei starkem Regen. Nach dem Parken im Stadtzentrum schlendern wir kurz durch die Rue de l'Alzette und besuchen die Kirche. Das Widerstandsmuseum bietet ein langes Indoor-Programm. Eine Fahrt durch den nebligen Park führt uns schließlich nach Belval, wo wir die Industriegeschichte trocken vom Auto aus oder in den Gebäuden erleben.",
+            "hu": "Autóval kényelmesen felfedezhetjük Eschet heves esőben is. A központi parkolás után rövid sétát teszünk az Alzette utcán és a templomnál. Az Ellenállási Múzeum hosszú beltéri programot kínál. A ködös parkon át vezető autózás után Belvalba érünk, ahol az ipari múltat az autóból vagy a fedett épületekből csodálhatjuk meg.",
+            "ro": "Explorăm orașul Esch confortabil cu mașina, chiar și pe ploaie torențială. După parcare, facem o scurtă plimbare pe Rue de l'Alzette și la biserică. Muzeul Rezistenței oferă un program indoor prelungit. O tură prin parcul cețos ne conduce la Belval, unde admirăm istoria industrială din mașină sau din clădiri.",
+            "en": "We explore Esch comfortably by car, even in heavy rain. After parking in the center, we take a quick stroll on Rue de l'Alzette and visit the church. The Resistance Museum offers a long indoor program. A drive through the misty park leads us to Belval, where we can experience industrial history from the car or inside the buildings."
+          },
+          "stops": [
+            {
+              "name": "City Center Parking",
+              "tip_5lang": {
+                "de": "Nutzen Sie ein Parkhaus, um trocken auszusteigen.",
+                "hu": "Használjon parkolóházat, hogy szárazon szállhasson ki.",
+                "ro": "Folosiți o parcare acoperită pentru a coborî la uscat.",
+                "en": "Use a multi-story car park to stay dry when getting out."
+              }
+            },
+            {
+              "name": "Rue de l'Alzette",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen den Läden minimieren den Regenkontakt.",
+                "hu": "A boltok közötti rövid távok csökkentik az esővel való érintkezést.",
+                "ro": "Distanțele scurte între magazine minimizează contactul cu ploaia.",
+                "en": "Short distances between shops minimize rain exposure."
+              }
+            },
+            {
+              "name": "Saint Joseph's Church",
+              "tip_5lang": {
+                "de": "Parkplätze finden sich oft direkt in den Seitenstraßen.",
+                "hu": "A környező mellékutcákban gyakran találni parkolót.",
+                "ro": "Se găsesc adesea locuri de parcare în străzile laterale.",
+                "en": "Parking is often available in the nearby side streets."
+              }
+            },
+            {
+              "name": "National Museum of the Resistance",
+              "tip_5lang": {
+                "de": "Idealer Stopp für den heftigsten Teil des Tagesregens.",
+                "hu": "Ideális megálló a nap legesősebb időszakára.",
+                "ro": "Popas ideal pentru cea mai ploioasă parte a zilei.",
+                "en": "Ideal stop during the rainiest part of the day."
+              }
+            },
+            {
+              "name": "Gaalgebierg Park",
+              "tip_5lang": {
+                "de": "Genießen Sie den Ausblick direkt aus dem warmen Auto.",
+                "hu": "Élvezze a kilátást közvetlenül a meleg autóból.",
+                "ro": "Bucurați-vă de priveliște direct din mașina caldă.",
+                "en": "Enjoy the views directly from the warmth of your car."
+              }
+            },
+            {
+              "name": "Belval Blast Furnaces",
+              "tip_5lang": {
+                "de": "Parken Sie im Einkaufszentrum Belval Plaza (überdacht).",
+                "hu": "Parkoljon a Belval Plaza bevásárlóközpontban (fedett).",
+                "ro": "Parcați în centrul comercial Belval Plaza (acoperit).",
+                "en": "Park at the Belval Plaza shopping center (covered)."
+              }
+            },
+            {
+              "name": "Rockhal",
+              "tip_5lang": {
+                "de": "Direkter Zugang vom Parkhaus möglich.",
+                "hu": "Közvetlen bejutás lehetséges a parkolóházból.",
+                "ro": "Acces direct posibil din parcarea acoperită.",
+                "en": "Direct access is possible from the car park."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf der Autobahn Richtung Belval.",
+              "Die Parkgebühren in Esch sind moderat, nutzen Sie zentrale Parkhäuser.",
+              "Halten Sie einen Schirm für den Weg vom Parkplatz zum Ziel bereit.",
+              "Bei Nebel im Gaalgebierg das Abblendlicht einschalten."
+            ],
+            "hu": [
+              "Vigyázzon a vízenfutásra (aquaplaning) a Belval felé vezető úton.",
+              "A parkolási díjak mérsékeltek, használja a központi parkolóházakat.",
+              "Legyen kéznél esernyő a parkoló és az úti cél közötti szakaszra.",
+              "Köd esetén a Gaalgebiergen kapcsolja be a tompított fényszórót."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe autostrada spre Belval.",
+              "Taxele de parcare în Esch sunt moderate; folosiți parcările etajate.",
+              "Aveți o umbrelă la îndemână pentru drumul de la parcare la destinație.",
+              "În caz de ceață pe Gaalgebierg, folosiți faza scurtă."
+            ],
+            "en": [
+              "Watch out for aquaplaning on the highway towards Belval.",
+              "Parking fees in Esch are moderate; use central multi-story car parks.",
+              "Keep an umbrella ready for the walk from the car to your destination.",
+              "Turn on dipped headlights if it's misty in the Gaalgebierg area."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Spritztour durch Esch zeigt die Stadt von ihrer ruhigen Seite. Vom warmen Auto aus erreichen wir schnell die Rue de l'Alzette und die Kirche. Das Museum bietet Schutz vor dem Frost, während die Fahrt auf den Gaalgebierg Panoramablicke über das schneebedeckte Tal ermöglicht. In Belval angekommen, faszinieren die beleuchteten Hochöfen in der klaren Winternacht.",
+            "hu": "A téli autózás Eschben a város nyugodt arcát mutatja meg. A fűtött autóból gyorsan elérjük az Alzette utcát és a templomot. A múzeumban megpihenhetünk a fagy elől, míg a Gaalgebiergre vezető út panorámát kínál a havas völgyre. Belvalba érve a kivilágított kohók látványa lenyűgöző a tiszta téli éjszakában.",
+            "ro": "O plimbare de iarnă cu mașina prin Esch ne arată latura liniștită a orașului. Din mașina încălzită ajungem rapid la Rue de l'Alzette și la biserică. Muzeul oferă protecție împotriva gerului, în timp ce drumul spre Gaalgebierg oferă panorame asupra văii înzăpezite. În Belval, furnalele iluminate sunt fascinante în noaptea senină de iarnă.",
+            "en": "A winter drive through Esch reveals the city's quiet side. From the warm car, we quickly reach Rue de l'Alzette and the church. The museum provides shelter from the frost, while the drive up Gaalgebierg offers panoramic views of the snowy valley. In Belval, the illuminated blast furnaces are fascinating in the clear winter night."
+          },
+          "stops": [
+            {
+              "name": "City Center Parking",
+              "tip_5lang": {
+                "de": "Parkhäuser sind im Winter oft wärmer als Außenplätze.",
+                "hu": "A parkolóházak télen gyakran melegebbek a kültéri helyeknél.",
+                "ro": "Parcările etajate sunt adesea mai calde decât cele exterioare.",
+                "en": "Multi-story car parks are often warmer than outdoor spots in winter."
+              }
+            },
+            {
+              "name": "Rue de l'Alzette",
+              "tip_5lang": {
+                "de": "Kurze Wege zu den Geschäften mit Weihnachtsdeko.",
+                "hu": "Rövid séta a karácsonyi díszbe öltözött boltokhoz.",
+                "ro": "Distanțe scurte până la magazinele cu decorațiuni de Crăciun.",
+                "en": "Short walks to the shops with Christmas decorations."
+              }
+            },
+            {
+              "name": "Saint Joseph's Church",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort für eine besinnliche Winterpause.",
+                "hu": "Csendes hely egy meghitt téli pihenőhöz.",
+                "ro": "Un loc liniștit pentru o pauză de iarnă meditativă.",
+                "en": "A quiet place for a peaceful winter break."
+              }
+            },
+            {
+              "name": "National Museum of the Resistance",
+              "tip_5lang": {
+                "de": "Perfekt temperierte Ausstellungsräume.",
+                "hu": "Tökéletesen fűtött kiállítótermek.",
+                "ro": "Săli de expoziție cu temperatură perfectă.",
+                "en": "Perfectly heated exhibition rooms."
+              }
+            },
+            {
+              "name": "Gaalgebierg Park",
+              "tip_5lang": {
+                "de": "Achten Sie auf Straßenglätte bei der Auffahrt.",
+                "hu": "Vigyázzon az úttest jegesedésére a felfelé vezető úton.",
+                "ro": "Atenție la polei pe drumul de urcare.",
+                "en": "Watch out for icy roads during the climb."
+              }
+            },
+            {
+              "name": "Belval Blast Furnaces",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Ziel, um die Kälte zu minimieren.",
+                "hu": "Parkoljon közel az úti célhoz a hideg elkerülésére.",
+                "ro": "Parcați aproape de destinație pentru a minimiza expunerea la frig.",
+                "en": "Park close to your destination to minimize time in the cold."
+              }
+            },
+            {
+              "name": "Rockhal",
+              "tip_5lang": {
+                "de": "Die Umgebung ist im Winter oft festlich beleuchtet.",
+                "hu": "A környék télen gyakran ünnepi kivilágítást kap.",
+                "ro": "Zona este adesea iluminată festiv iarna.",
+                "en": "The area is often festively lit up during winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Ihr Auto winterfest ist (Frostschutz, Reifen).",
+              "Planen Sie mehr Zeit für die Parkplatzsuche an Adventswochenenden ein.",
+              "Lassen Sie keine Wertsachen sichtbar im Auto liegen.",
+              "In Luxemburg sind Winterreifen bei winterlichen Bedingungen Pflicht."
+            ],
+            "hu": [
+              "Győződjön meg róla, hogy autója téliesítve van (fagyálló, gumik).",
+              "Adventi hétvégéken számoljon több idővel a parkolókereséshez.",
+              "Ne hagyjon értéktárgyat látható helyen az autóban.",
+              "Luxemburgban téli útviszonyok között kötelező a téli gumi."
+            ],
+            "ro": [
+              "Asigurați-vă că mașina este pregătită de iarnă (antigel, anvelope).",
+              "Alocați mai mult timp pentru căutarea parcării în weekendurile de Advent.",
+              "Nu lăsați obiecte de valoare la vedere în mașină.",
+              "În Luxemburg, anvelopele de iarnă sunt obligatorii în condiții de iarnă."
+            ],
+            "en": [
+              "Ensure your car is winter-ready (antifreeze, tires).",
+              "Allow extra time for parking during Advent weekends.",
+              "Do not leave valuables visible in the car.",
+              "In Luxembourg, winter tires are mandatory during wintry road conditions."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1286,6 +1832,188 @@
           "Pay attention to the train and bus numbers to find the right connection.",
           "The trains to Belval run regularly."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem kostenlosen öffentlichen Nahverkehr bleiben wir in Esch weitgehend trocken. Vom Bahnhof gelangen wir schnell in die Rue de l'Alzette. Ein kurzer Sprint bringt uns ins Widerstandsmuseum. Mit dem Zug geht es weiter nach Belval-Université, wo uns moderne Bahnhöfe und überdachte Wege erwarten. Der Tag endet im Gaalgebierg, den wir per Bus erreichen.",
+            "hu": "Az ingyenes tömegközlekedéssel Eschben nagyobbrészt szárazon maradhatunk. A vasútállomástól gyorsan elérjük az Alzette utcát. Egy rövid sprinttel az Ellenállási Múzeumba jutunk. Vonattal utazunk tovább Belval-Université-be, ahol modern állomás és fedett utak várnak. A napot a Gaalgebiergen zárjuk, ahová busszal jutunk fel.",
+            "ro": "Cu transportul public gratuit rămânem în mare parte uscați în Esch. De la gară ajungem rapid pe Rue de l'Alzette. Un scurt sprint ne duce la Muzeul Rezistenței. Continuăm cu trenul spre Belval-Université, unde ne așteaptă gări moderne și pasaje acoperite. Ziua se încheie la Gaalgebierg, unde ajungem cu autobuzul.",
+            "en": "With free public transport, we stay mostly dry in Esch. From the train station, we quickly reach Rue de l'Alzette. A short dash takes us to the Resistance Museum. We then take the train to Belval-Université, featuring modern stations and covered paths. The day ends at Gaalgebierg, reached by bus."
+          },
+          "stops": [
+            {
+              "name": "Esch-sur-Alzette train station",
+              "tip_5lang": {
+                "de": "Der Bahnhof bietet gute Unterstellmöglichkeiten.",
+                "hu": "Az állomás jó várakozóhelyet kínál az eső elől.",
+                "ro": "Gara oferă bune posibilități de adăpost.",
+                "en": "The station provides good shelter from the rain."
+              }
+            },
+            {
+              "name": "Rue de l'Alzette",
+              "tip_5lang": {
+                "de": "Nur 5 Minuten Fußweg vom Bahnhof entfernt.",
+                "hu": "Mindössze 5 perc séta a vasútállomástól.",
+                "ro": "La doar 5 minute de mers pe jos de gară.",
+                "en": "Only a 5-minute walk from the train station."
+              }
+            },
+            {
+              "name": "National Museum of the Resistance",
+              "tip_5lang": {
+                "de": "Bushaltestellen befinden sich direkt in der Nähe.",
+                "hu": "A buszmegállók közvetlenül a közelben vannak.",
+                "ro": "Stațiile de autobuz sunt chiar în apropiere.",
+                "en": "Bus stops are located directly nearby."
+              }
+            },
+            {
+              "name": "Belval-Université train station",
+              "tip_5lang": {
+                "de": "Moderner Bahnhof mit komplett überdachten Bahnsteigen.",
+                "hu": "Modern állomás teljesen fedett peronokkal.",
+                "ro": "Gară modernă cu peroane complet acoperite.",
+                "en": "Modern station with fully covered platforms."
+              }
+            },
+            {
+              "name": "Belval Blast Furnaces",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg durch das Belval Plaza Einkaufszentrum.",
+                "hu": "Rövid séta a Belval Plaza bevásárlóközponton át.",
+                "ro": "Scurtă plimbare prin centrul comercial Belval Plaza.",
+                "en": "Short walk through the Belval Plaza shopping center."
+              }
+            },
+            {
+              "name": "Gaalgebierg Park",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Aufzug am Bahnhof für den Weg nach oben.",
+                "hu": "Használja az állomási liftet a felfelé vezető úthoz.",
+                "ro": "Folosiți liftul de la gară pentru a urca.",
+                "en": "Use the station elevator for the way up."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Alle öffentlichen Verkehrsmittel in Luxemburg sind kostenlos.",
+              "Nutzen Sie die App 'Mobiliteit.lu' für Echtzeit-Infos bei Verspätungen.",
+              "Bahnhöfe und Busse sind im Winter gut beheizt.",
+              "An Regentagen sind die Busse oft voller, planen Sie Pufferzeit ein."
+            ],
+            "hu": [
+              "Minden tömegközlekedési eszköz ingyenes Luxemburgban.",
+              "Használja a 'Mobiliteit.lu' appot a valós idejű menetrendekhez.",
+              "Az állomások és buszok télen jól fűtöttek.",
+              "Esős napokon a buszok zsúfoltabbak lehetnek, számoljon rá több időt."
+            ],
+            "ro": [
+              "Toate mijloacele de transport public din Luxemburg sunt gratuite.",
+              "Folosiți aplicația 'Mobiliteit.lu' pentru info în timp real.",
+              "Gările și autobuzele sunt bine încălzite iarna.",
+              "În zilele ploioase autobuzele sunt mai aglomerate; alocați timp suplimentar."
+            ],
+            "en": [
+              "All public transport in Luxembourg is free of charge.",
+              "Use the 'Mobiliteit.lu' app for real-time schedule updates.",
+              "Stations and buses are well-heated during winter.",
+              "Buses tend to be more crowded on rainy days; allow extra travel time."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Tour mit Bahn und Bus ist die entspannteste Art, Esch zu erleben. Nach der Ankunft am Bahnhof Esch schlendern wir kurz durch die festliche Rue de l'Alzette. Das Museum bietet eine warme Kulturpause. Mit dem Zug gleiten wir durch die Winterlandschaft nach Belval-Université, wo die beleuchtete Industriekultur wartet. Zum Abschluss bringt uns der Bus auf den Gaalgebierg.",
+            "hu": "A téli túra vonattal és busszal a legpihentetőbb módja Esch felfedezésének. Az eschi állomásra érkezve az ünnepi Alzette utcán sétálunk. A múzeum meleg kulturális feltöltődést kínál. Vonattal suhanunk a téli tájon át Belval-Université-be, ahol a kivilágított ipari emlékek várnak. Végül busszal jutunk fel a Gaalgebiergre.",
+            "ro": "Turul de iarnă cu trenul și autobuzul este cel mai relaxant mod de a experimenta orașul Esch. După sosirea în gara Esch, ne plimbăm pe strada festivă Rue de l'Alzette. Muzeul oferă o pauză culturală caldă. Cu trenul alunecăm prin peisajul de iarnă spre Belval-Université. La final, autobuzul ne duce pe Gaalgebierg.",
+            "en": "A winter tour by train and bus is the most relaxing way to experience Esch. After arriving at Esch station, we stroll through the festive Rue de l'Alzette. The museum offers a warm cultural break. We glide through the winter landscape by train to Belval-Université, where illuminated industrial culture awaits. Finally, a bus takes us up to Gaalgebierg."
+          },
+          "stops": [
+            {
+              "name": "Esch-sur-Alzette train station",
+              "tip_5lang": {
+                "de": "Der Wartesaal ist im Winter angenehm beheizt.",
+                "hu": "A váróterem télen kellemesen fűtött.",
+                "ro": "Sala de așteptare este încălzită plăcut iarna.",
+                "en": "The waiting room is comfortably heated in winter."
+              }
+            },
+            {
+              "name": "Rue de l'Alzette",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Cafés für eine heiße Schokolade.",
+                "hu": "Látogasson el a kávézókba egy forró csokoládéra.",
+                "ro": "Vizitați cafenelele pentru o ciocolată caldă.",
+                "en": "Visit the cafes for a hot chocolate."
+              }
+            },
+            {
+              "name": "National Museum of the Resistance",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um der Kälte für zwei Stunden zu entfliehen.",
+                "hu": "Ideális hely a hideg elől való kétórás menekülésre.",
+                "ro": "Un loc ideal pentru a scăpa de frig timp de două ore.",
+                "en": "An ideal place to escape the cold for a couple of hours."
+              }
+            },
+            {
+              "name": "Belval-Université train station",
+              "tip_5lang": {
+                "de": "Die Architektur wirkt im Winterlicht besonders kühl und modern.",
+                "hu": "Az építészet a téli fényben különösen hűvös és modern.",
+                "ro": "Arhitectura pare deosebit de rece și modernă în lumina iernii.",
+                "en": "The architecture looks particularly cool and modern in winter light."
+              }
+            },
+            {
+              "name": "Belval Blast Furnaces",
+              "tip_5lang": {
+                "de": "Der Weg vom Bahnhof ist kurz und windgeschützt.",
+                "hu": "Az út az állomástól rövid és szélvédett.",
+                "ro": "Drumul de la gară este scurt și ferit de vânt.",
+                "en": "The walk from the station is short and sheltered from the wind."
+              }
+            },
+            {
+              "name": "Gaalgebierg Park",
+              "tip_5lang": {
+                "de": "Buslinien 4 und 12 fahren regelmäßig nach oben.",
+                "hu": "A 4-es és 12-es buszjáratok rendszeresen járnak fel.",
+                "ro": "Liniile de autobuz 4 și 12 urcă regulat.",
+                "en": "Bus lines 4 and 12 run regularly to the top."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Öffentliche Verkehrsmittel sind in ganz Luxemburg kostenlos.",
+              "Züge verkehren zwischen Esch und Belval alle 15 Minuten.",
+              "Busse sind die beste Option für den steilen Weg zum Gaalgebierg.",
+              "Die Bahnhöfe sind oft windig, kleiden Sie sich warm für das Warten."
+            ],
+            "hu": [
+              "A tömegközlekedés egész Luxemburgban ingyenes.",
+              "A vonatok Esch és Belval között 15 percenként járnak.",
+              "A busz a legjobb opció a meredek Gaalgebiergre való feljutáshoz.",
+              "Az állomások szelesek lehetnek, öltözzön melegen a várakozáshoz."
+            ],
+            "ro": [
+              "Transportul public este gratuit în tot Luxemburgul.",
+              "Trenurile între Esch și Belval circulă la fiecare 15 minute.",
+              "Autobuzul este cea mai bună opțiune pentru drumul abrupt spre Gaalgebierg.",
+              "Gările sunt adesea expuse vântului; îmbrăcați-vă gros pentru așteptare."
+            ],
+            "en": [
+              "Public transport is free throughout all of Luxembourg.",
+              "Trains between Esch and Belval run every 15 minutes.",
+              "Buses are the best option for the steep climb to Gaalgebierg.",
+              "Stations can be windy, so dress warmly for the wait."
+            ]
+          }
+        }
       }
     }
   }

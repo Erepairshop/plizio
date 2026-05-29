@@ -386,6 +386,214 @@
           "Some smaller museums or shops might close during lunchtime.",
           "Bring water, especially on warm days, as there are few shops between the main sights."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt am Borjúpást unter dem Regenschirm, während die Wassertropfen auf das Kopfsteinpflaster trommeln. Im historischen Zentrum bietet der schiefe Feuerwachturm einen kurzen Unterstand, bevor es zum Mittagessen geht. Der Nachmittag gehört dem Forgách-Schloss, wo die Ausstellungen des Kubinyi-Ferenc-Museums trockene Kulturmomente bieten. Den Tag beschließen wir bei den Robinson-Inseln, deren Nebel eine mystische Atmosphäre schafft.",
+            "hu": "Az esernyős séta a Borjúpástnál indul, ahol a friss eső illata lengi be a teret. A belvárosban a ferde Tűztorony tövében keresünk menedéket, majd egy bőséges ebéd után a Forgách-kastély falai között bújunk el a zápor elől. A Kubinyi Ferenc Múzeum tárlatai tökéletes esőnapi programot kínálnak. A napot a Robinson-szigeteknél zárjuk, ahol a víztükör feletti pára különleges látványt nyújt.",
+            "ro": "Plimbarea cu umbrela începe la Borjúpást, unde mirosul ploii proaspete umple aerul. În centrul vechi, ne adăpostim la baza Turnului de Foc înclinat, iar după un prânz copios, ne retragem între zidurile Castelului Forgách. Expozițiile Muzeului Kubinyi Ferenc oferă programul perfect pentru o zi ploioasă. Încheiem ziua la Insulele Robinson, unde ceața de deasupra apei creează o priveliște mistică.",
+            "en": "The umbrella walk starts at Borjúpást, where the scent of fresh rain fills the air. In the old town, we seek shelter at the base of the leaning Fire Tower, and after a hearty lunch, we retreat within the walls of Forgách Castle. The exhibitions of the Kubinyi Ferenc Museum offer the perfect rainy-day program. We end the day at the Robinson Islands, where the mist over the water creates a mystical view."
+          },
+          "stops": [
+            {
+              "name": "Borjúpást (Calf Meadow)",
+              "tip_5lang": {
+                "de": "Wasserdichtes Schuhwerk ist für die Wiese heute unerlässlich.",
+                "hu": "A gyep ma vizes lehet, válasszunk vízálló lábbelit.",
+                "ro": "Încălțămintea impermeabilă este esențială pentru pajiște astăzi.",
+                "en": "Waterproof footwear is essential for the meadow today."
+              }
+            },
+            {
+              "name": "Fire Tower",
+              "tip_5lang": {
+                "de": "Vorsicht auf den engen Stufen, das Holz kann bei Feuchtigkeit rutschig sein.",
+                "hu": "Vigyázzunk a szűk lépcsőkön, a fa nedvesen csúszós lehet.",
+                "ro": "Atenție pe treptele înguste, lemnul poate fi alunecos la umezeală.",
+                "en": "Be careful on the narrow steps; the wood can be slippery when damp."
+              }
+            },
+            {
+              "name": "Franciscan Monastery and Church",
+              "tip_5lang": {
+                "de": "Ein ruhiger, trockener Ort für eine kurze besinnliche Pause.",
+                "hu": "Csendes és száraz helyszín egy rövid, elmélyült pihenőhöz.",
+                "ro": "Un loc liniștit și uscat pentru o scurtă pauză de meditație.",
+                "en": "A quiet and dry location for a short, meditative break."
+              }
+            },
+            {
+              "name": "Forgách Castle",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe, um nasse Mäntel vor dem Museumsbesuch abzugeben.",
+                "hu": "Használjuk a ruhatárat a vizes kabátok leadásához a múzeumlátogatás előtt.",
+                "ro": "Folosiți garderoba pentru a lăsa haina udă înainte de vizitarea muzeului.",
+                "en": "Use the cloakroom to drop off wet coats before the museum visit."
+              }
+            },
+            {
+              "name": "Lunch in the city center",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich mit einer heißen Suppe auf, während die Kleidung trocknet.",
+                "hu": "Melegedjünk fel egy forró levessel, amíg a ruházatunk szárad.",
+                "ro": "Încălziți-vă cu o supă fierbinte în timp ce hainele se usucă.",
+                "en": "Warm up with a hot soup while your clothing dries."
+              }
+            },
+            {
+              "name": "Remains of the Town Wall",
+              "tip_5lang": {
+                "de": "Die historischen Steine sind bei Regen glatt, achten Sie auf Ihren Tritt.",
+                "hu": "A történelmi kövek esőben csúsznak, figyeljünk a lépteinkre.",
+                "ro": "Pietrele istorice sunt alunecoase pe ploaie, atenție la pași.",
+                "en": "The historical stones are slippery in the rain; watch your step."
+              }
+            },
+            {
+              "name": "Robinson Islands",
+              "tip_5lang": {
+                "de": "Die Wege können schlammig sein, bleiben Sie auf den befestigten Pfaden.",
+                "hu": "Az utak sarasak lehetnek, maradjunk a kijelölt ösvényeken.",
+                "ro": "Drumurile pot fi noroioase, rămâneți pe potecile marcate.",
+                "en": "The paths can be muddy; stay on the designated trails."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine hochwertige Regenjacke, da der Wind in den Gassen kühl sein kann.",
+              "Das Kubinyi-Ferenc-Museum ist ein idealer Rückzugsort bei starkem Regen.",
+              "Nutzen Sie die Arkaden in der Nähe des Schlosses als natürlichen Unterstand.",
+              "Die Robinson-Inseln sind bei leichtem Regen wegen der Spiegelungen besonders fotogen.",
+              "Achten Sie auf Pfützen in der Nähe der Stadtmauer-Überreste."
+            ],
+            "hu": [
+              "Viseljünk minőségi esőkabátot, mert a szél a sikátorokban hűvös lehet.",
+              "A Kubinyi Ferenc Múzeum ideális menedék heves esőzés idején.",
+              "Használjuk a kastély közeli árkádokat természetes esővédőként.",
+              "A Robinson-szigetek szemerkélő esőben a tükröződések miatt nagyon fotogének.",
+              "Vigyázzunk a tócsákra a városfal maradványai környékén."
+            ],
+            "ro": [
+              "Purtați o pelerină de ploaie de calitate, deoarece vântul poate fi rece pe alei.",
+              "Muzeul Kubinyi Ferenc este un adăpost ideal în timpul ploilor abundente.",
+              "Folosiți arcadele din apropierea castelului ca protecție naturală împotriva ploii.",
+              "Insulele Robinson sunt foarte fotogenice în ploaie ușoară datorită reflexiilor.",
+              "Atenție la bălți în apropierea rămășițelor zidului orașului."
+            ],
+            "en": [
+              "Wear a quality raincoat, as the wind in the alleys can be chilly.",
+              "The Kubinyi Ferenc Museum is an ideal shelter during heavy rainfall.",
+              "Use the arcades near the castle as natural rain protection.",
+              "The Robinson Islands are very photogenic in light rain due to reflections.",
+              "Watch out for puddles near the remains of the town wall."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen am Borjúpást beginnt den Tag mit weißem Raureif auf den Wiesen. Nach dem Aufstieg auf den Feuerwachturm, der einen weiten Blick über das verschneite Nógrád bietet, wärmen wir uns in der Franziskanerkirche auf. Ein langes Mittagessen bereitet uns auf den Besuch im Forgách-Schloss vor. Da die Sonne bereits gegen 16:15 Uhr untergeht, erreichen wir die Robinson-Inseln zur blauen Stunde.",
+            "hu": "A déres Borjúpástnál kezdjük a fagyos reggelt, ahol a zúzmara fehéren csillog a füvön. A Tűztoronyból nyíló havas nógrádi panoráma után a ferences templom csendjében melegedünk fel. A kiadós ebéd erőt ad a Forgách-kastély felfedezéséhez. Mivel a nap már 16:15 körül nyugszik, a Robinson-szigeteket a kora esti kék órában érjük el.",
+            "ro": "Începem dimineața geroasă la Borjúpást, unde chiciura strălucește albă pe iarbă. După panorama înzăpezită din Turnul de Foc, ne încălzim în liniștea bisericii franciscane. Un prânz copios ne dă putere pentru explorarea Castelului Forgách. Deoarece soarele apune deja în jurul orei 16:15, ajungem la Insulele Robinson în ora albastră a serii.",
+            "en": "We begin the frosty morning at Borjúpást, where the hoarfrost shines white on the grass. After the snowy panorama from the Fire Tower, we warm up in the silence of the Franciscan church. A hearty lunch gives us strength to explore Forgách Castle. Since the sun sets around 16:15, we reach the Robinson Islands during the early evening blue hour."
+          },
+          "stops": [
+            {
+              "name": "Borjúpást (Calf Meadow)",
+              "tip_5lang": {
+                "de": "Die offene Fläche ist dem Wind ausgesetzt, ziehen Sie sich warm an.",
+                "hu": "A nyitott terület szeles lehet, öltözzünk rétegesen.",
+                "ro": "Zona deschisă poate fi vântoasă, îmbrăcați-vă în straturi.",
+                "en": "The open area can be windy; dress in layers."
+              }
+            },
+            {
+              "name": "Fire Tower",
+              "tip_5lang": {
+                "de": "Oben zieht es oft, Mütze und Handschuhe sind beim Ausblick wichtig.",
+                "hu": "Fent gyakori a huzat, a kilátáshoz sapka és kesztyű javasolt.",
+                "ro": "Sus este curent des, căciula și mănușile sunt recomandate pentru panoramă.",
+                "en": "It's often drafty at the top; a hat and gloves are recommended for the view."
+              }
+            },
+            {
+              "name": "Franciscan Monastery and Church",
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten die Kälte, bleiben Sie in Bewegung.",
+                "hu": "A vastag falak tartják a hideget, ne álldogáljunk sokat egy helyben.",
+                "ro": "Zidurile groase rețin frigul, nu stați prea mult timp pe loc.",
+                "en": "The thick walls hold the cold; don't stand still for too long."
+              }
+            },
+            {
+              "name": "Forgách Castle",
+              "tip_5lang": {
+                "de": "Das Museum ist angenehm beheizt, ideal für eine längere Pause.",
+                "hu": "A múzeum kellemesen fűtött, ideális egy hosszabb benti tartózkodásra.",
+                "ro": "Muzeul este încălzit plăcut, ideal pentru o ședere mai lungă în interior.",
+                "en": "The museum is pleasantly heated, ideal for a longer indoor stay."
+              }
+            },
+            {
+              "name": "Lunch in the city center",
+              "tip_5lang": {
+                "de": "Probieren Sie lokale Winterspezialitäten zur Stärkung.",
+                "hu": "Kóstoljuk meg a helyi téli különlegességeket a feltöltődéshez.",
+                "ro": "Gustați specialitățile locale de iarnă pentru reîncărcare.",
+                "en": "Taste local winter specialties to recharge."
+              }
+            },
+            {
+              "name": "Remains of the Town Wall",
+              "tip_5lang": {
+                "de": "Vorsicht vor vereisten Stellen auf dem historischen Pflaster.",
+                "hu": "Vigyázzunk a jeges foltokra a történelmi kövezeten.",
+                "ro": "Atenție la porțiunile înghețate de pe pavajul istoric.",
+                "en": "Watch out for icy patches on the historical pavement."
+              }
+            },
+            {
+              "name": "Robinson Islands",
+              "tip_5lang": {
+                "de": "Die Wege können glatt sein, festes Profil an den Sohlen ist nötig.",
+                "hu": "Az utak csúszósak lehetnek, bordázott talpú bakancs ajánlott.",
+                "ro": "Drumurile pot fi alunecoase, se recomandă ghete cu talpă aderentă.",
+                "en": "The paths can be slippery; boots with good tread are recommended."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht früh unter (16:15), planen Sie die Außenbesichtigungen für den Vormittag.",
+              "Tragen Sie Thermosocken, da die historischen Gebäude oft kühle Böden haben.",
+              "Kombinieren Sie den Stadtmauer-Besuch mit einem heißen Kaffee in der Nähe.",
+              "Die Robinson-Inseln wirken im Winter bei Frost besonders verzaubert.",
+              "Der Feuerwachturm bietet bei klarer Winterluft die beste Fernsicht."
+            ],
+            "hu": [
+              "A nap korán nyugszik (16:15), a szabadtéri látnivalókat délelőttre tervezzük.",
+              "Viseljünk termozoknit, mert a történelmi épületek padlója gyakran hideg.",
+              "A városfal megtekintését kössük össze egy közeli forró kávézással.",
+              "A Robinson-szigetek télen, fagyos időben különösen varázslatosak.",
+              "A Tűztorony tiszta téli levegőben kínálja a legszebb távoli kilátást."
+            ],
+            "ro": [
+              "Soarele apune devreme (16:15), planificați atracțiile în aer liber pentru dimineață.",
+              "Purtați șosete termice, deoarece podeaua clădirilor istorice este adesea rece.",
+              "Combinați vizitarea zidului orașului cu o cafea fierbinte în apropiere.",
+              "Insulele Robinson sunt deosebit de magice iarna, pe vreme geroasă.",
+              "Turnul de Foc oferă cea mai frumoasă vedere la distanță în aerul curat de iarnă."
+            ],
+            "en": [
+              "The sun sets early (16:15); plan outdoor attractions for the morning.",
+              "Wear thermal socks, as the floors of historical buildings are often cold.",
+              "Combine the town wall visit with a hot coffee nearby.",
+              "The Robinson Islands are particularly magical in winter, in frosty weather.",
+              "The Fire Tower offers the best long-distance view in clear winter air."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -766,6 +974,214 @@
           "The path to the Robinson Islands is a pleasant, easy ride.",
           "Check your tire pressure before you set off."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regenfeste Kleidung ist heute der wichtigste Begleiter auf zwei Rädern. Wir starten zügig am Borjúpást und sichern die Räder am Feuerwachturm. Die kurze Fahrt zum Schloss wird durch den Wind erschwert, doch die lange Pause im Museum lässt die Ausrüstung trocknen. Am Nachmittag radeln wir vorsichtig zu den Robinson-Inseln, wo die Wege bei Nässe Aufmerksamkeit erfordern.",
+            "hu": "Ma a vízhatlan öltözet a legfontosabb társunk két keréken. Gyorsan kezdünk a Borjúpástnál, majd a Tűztoronynál lezárjuk a bringákat. A kastélyhoz vezető rövid utat nehezíti a szél, de a hosszú múzeumi pihenő alatt megszáradhat a felszerelésünk. Délután óvatosan tekerünk a Robinson-szigetekhez, ahol a nedves utak figyelmet igényelnek.",
+            "ro": "Astăzi, îmbrăcămintea impermeabilă este cel mai important companion pe două roți. Începem rapid la Borjúpást, apoi încuiem bicicletele la Turnul de Foc. Drumul scurt spre castel este îngreunat de vânt, dar pauza lungă de la muzeu permite uscarea echipamentului. După-amiaza pedalăm cu atenție spre Insulele Robinson, unde drumurile umede necesită prudență.",
+            "en": "Today, waterproof clothing is our most important companion on two wheels. We start quickly at Borjúpást, then lock the bikes at the Fire Tower. The short ride to the castle is made harder by the wind, but the long museum break allows our gear to dry. In the afternoon, we cycle carefully to the Robinson Islands, where the wet paths require attention."
+          },
+          "stops": [
+            {
+              "name": "Borjúpást (Calf Meadow)",
+              "tip_5lang": {
+                "de": "Die Wiese kann für schmale Reifen zu weich sein.",
+                "hu": "A gyep túl puha lehet a vékonyabb gumiabroncsoknak.",
+                "ro": "Pajiștea poate fi prea moale pentru anvelopele subțiri.",
+                "en": "The meadow can be too soft for narrower tires."
+              }
+            },
+            {
+              "name": "Fire Tower",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Bereich am Eingang für die Räder.",
+                "hu": "Használjuk a bejárat melletti fedettebb részt a bringák tárolására.",
+                "ro": "Folosiți zona mai protejată de lângă intrare pentru depozitarea bicicletelor.",
+                "en": "Use the more sheltered area near the entrance for bike storage."
+              }
+            },
+            {
+              "name": "Forgách Castle",
+              "tip_5lang": {
+                "de": "Stellen Sie die Räder unter die Bäume im Schlosspark.",
+                "hu": "Állítsuk a kerékpárokat a kastélypark fái alá.",
+                "ro": "Așezați bicicletele sub copacii din parcul castelului.",
+                "en": "Place the bikes under the trees in the castle park."
+              }
+            },
+            {
+              "name": "Franciscan Monastery and Church",
+              "tip_5lang": {
+                "de": "Vorsicht beim Absteigen auf nassem Kopfsteinpflaster.",
+                "hu": "Vigyázzunk a leszállásnál a vizes macskakövön.",
+                "ro": "Atenție la coborârea de pe bicicletă pe pavajul umed.",
+                "en": "Be careful when dismounting on wet cobblestones."
+              }
+            },
+            {
+              "name": "Lunch",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit Sicht auf den Fahrradständer.",
+                "hu": "Válasszunk olyan éttermet, ahonnan rálátni a kerékpártárolóra.",
+                "ro": "Alegeți un restaurant de unde puteți vedea suportul de biciclete.",
+                "en": "Choose a restaurant from where you can see the bike rack."
+              }
+            },
+            {
+              "name": "Remains of the Town Wall",
+              "tip_5lang": {
+                "de": "Fahren Sie hier langsam, die Steine sind sehr rutschig.",
+                "hu": "Itt hajtsunk lassan, a kövek nagyon csúszósak.",
+                "ro": "Conduceți încet aici, pietrele sunt foarte alunecoase.",
+                "en": "Ride slowly here; the stones are very slippery."
+              }
+            },
+            {
+              "name": "Robinson Islands",
+              "tip_5lang": {
+                "de": "Schutzbleche sind bei den unbefestigten Wegen heute Gold wert.",
+                "hu": "A sárvédők ma aranyat érnek a nem aszfaltozott utakon.",
+                "ro": "Aripile de protecție valorează aur astăzi pe drumurile neasfaltate.",
+                "en": "Mudguards are worth their weight in gold on the unpaved paths today."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Bremsen, da der Bremsweg bei Nässe deutlich länger ist.",
+              "Tragen Sie eine Warnweste, um bei grauem Regenwetter besser gesehen zu werden.",
+              "Vermeiden Sie abrupte Lenkmanöver auf dem nassen Kopfsteinpflaster im Zentrum.",
+              "Ein Sattelschutz hält Ihren Sitz während der Besichtigungen trocken.",
+              "Die Robinson-Inseln haben bei Regen teils tiefere Pfützen."
+            ],
+            "hu": [
+              "Ellenőrizzük a fékeket, mert a fékút esőben jelentősen megnő.",
+              "Viseljünk láthatósági mellényt, hogy a szürke esőben jobban észrevegyenek.",
+              "Kerüljük a hirtelen kormánymozdulatokat a vizes belvárosi macskakövön.",
+              "A nyeregvédő szárazon tartja az ülést a látogatások ideje alatt.",
+              "A Robinson-szigeteknél esőben mélyebb tócsák alakulhatnak ki."
+            ],
+            "ro": [
+              "Verificați frânele, deoarece distanța de frânare crește semnificativ pe ploaie.",
+              "Purtați o vestă reflectorizantă pentru a fi mai vizibili pe vremea gri de ploaie.",
+              "Evitați manevrele bruște de virare pe pavajul umed din centru.",
+              "O protecție pentru șa vă menține scaunul uscat în timpul vizitelor.",
+              "La Insulele Robinson se pot forma bălți mai adânci în timpul ploii."
+            ],
+            "en": [
+              "Check your brakes, as the braking distance increases significantly in the rain.",
+              "Wear a high-visibility vest to be more easily seen in the gray rainy weather.",
+              "Avoid abrupt steering maneuvers on the wet cobblestones in the center.",
+              "A saddle cover keeps your seat dry during the visits.",
+              "Deeper puddles can form at the Robinson Islands during rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Bei klirrender Kälte führt uns die Radtour durch das historische Szécsény. Die kurzen Distanzen zwischen Feuerwachturm und Schloss helfen, nicht auszukühlen. Nach dem aufwärmenden Museumsbesuch radeln wir zur Stadtmauer, wo der Wind besonders beißend sein kann. Der Tag endet an den Robinson-Inseln, bevor die frühe Dunkelheit eine gute Beleuchtung erfordert.",
+            "hu": "Didergető hidegben tekerünk végig a történelmi Szécsényen. A Tűztorony és a kastély közötti rövid távok segítenek, hogy ne hűljünk ki teljesen. A melegítő múzeumlátogatás után a városfal felé vesszük az irányt, ahol a szél különösen metsző lehet. A nap a Robinson-szigeteknél zárul, még mielőtt a korai sötétség miatt szükség lenne a lámpákra.",
+            "ro": "Pedalăm prin Szécsényul istoric pe un frig pătrunzător. Distanțele scurte între Turnul de Foc și castel ajută să nu ne răcim complet. După vizita încălzitoare la muzeu, ne îndreptăm spre zidul orașului, unde vântul poate fi deosebit de tăios. Ziua se încheie la Insulele Robinson, înainte ca întunericul timpuriu să necesite folosirea luminilor.",
+            "en": "We cycle through historic Szécsény in biting cold. The short distances between the Fire Tower and the castle help prevent us from getting too cold. After the warming museum visit, we head towards the town wall, where the wind can be particularly sharp. The day ends at the Robinson Islands, before the early darkness necessitates the use of lights."
+          },
+          "stops": [
+            {
+              "name": "Borjúpást (Calf Meadow)",
+              "tip_5lang": {
+                "de": "Achten Sie auf gefrorene Grasnarben, die wegrutschen können.",
+                "hu": "Vigyázzunk a fagyott fűcsomókra, amik megcsúszhatnak.",
+                "ro": "Atenție la smocurile de iarbă înghețată care pot aluneca.",
+                "en": "Watch out for frozen tufts of grass that can slip away."
+              }
+            },
+            {
+              "name": "Fire Tower",
+              "tip_5lang": {
+                "de": "Tragen Sie warme Handschuhe, das Metallgeländer ist eiskalt.",
+                "hu": "Viseljünk meleg kesztyűt, a fém korlát jéghideg.",
+                "ro": "Purtați mănuși calde, balustrada metalică este extrem de rece.",
+                "en": "Wear warm gloves; the metal railing is ice cold."
+              }
+            },
+            {
+              "name": "Forgách Castle",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Finger beim Museumsrundgang aufzuwärmen.",
+                "hu": "Ideális helyszín az ujjak felmelegítésére a múzeumi körút alatt.",
+                "ro": "Un loc ideal pentru încălzirea degetelor în timpul turului muzeului.",
+                "en": "An ideal place to warm up your fingers during the museum tour."
+              }
+            },
+            {
+              "name": "Franciscan Monastery and Church",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad windgeschützt an der Kirchenmauer ab.",
+                "hu": "Állítsuk a bringát szélvédett helyre a templomfal mellé.",
+                "ro": "Așezați bicicleta într-un loc ferit de vânt, lângă zidul bisericii.",
+                "en": "Park the bike in a spot sheltered from the wind by the church wall."
+              }
+            },
+            {
+              "name": "Lunch",
+              "tip_5lang": {
+                "de": "Bestellen Sie ein Heißgetränk, um die Körpertemperatur zu halten.",
+                "hu": "Rendeljünk forró italt a testhőmérséklet megőrzéséhez.",
+                "ro": "Comandați o băutură fierbinte pentru a menține temperatura corpului.",
+                "en": "Order a hot drink to maintain body temperature."
+              }
+            },
+            {
+              "name": "Remains of the Town Wall",
+              "tip_5lang": {
+                "de": "Schwarzeis ist auf den alten Steinen schwer zu sehen.",
+                "hu": "A felfagyást nehéz észrevenni a régi köveken.",
+                "ro": "Gheața neagră este greu de observat pe pietrele vechi.",
+                "en": "Black ice is hard to see on the old stones."
+              }
+            },
+            {
+              "name": "Robinson Islands",
+              "tip_5lang": {
+                "de": "Die Uferwege können komplett vereist sein, fahren Sie vorsichtig.",
+                "hu": "A vízparti utak teljesen lefagyhatnak, tekerjünk óvatosan.",
+                "ro": "Drumurile de pe mal pot fi complet înghețate, pedalați cu prudență.",
+                "en": "The waterfront paths can be completely frozen; cycle carefully."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie mehrere Schichten Kleidung und winddichte Frontpartien.",
+              "Überprüfen Sie den Reifendruck, da dieser bei Kälte sinken kann.",
+              "Stellen Sie sicher, dass Ihre Fahrradbeleuchtung für den frühen Sonnenuntergang (16:15) funktioniert.",
+              "Vermeiden Sie das Fahren durch tiefen Schnee, um versteckte Kanten zu meiden.",
+              "Kürzen Sie die Standzeiten im Freien und nutzen Sie die beheizten Museen."
+            ],
+            "hu": [
+              "Viseljünk több réteg ruhát és szélálló felsőréteget.",
+              "Ellenőrizzük a guminyomást, mert a hidegben csökkenhet.",
+              "Győződjünk meg róla, hogy a lámpák működnek a korai naplemente (16:15) miatt.",
+              "Kerüljük a mély hóban tekerést a rejtett úthibák miatt.",
+              "Rövidítsük le a kinti várakozást, használjuk ki a fűtött múzeumokat."
+            ],
+            "ro": [
+              "Purtați mai multe straturi de haine și o parte frontală rezistentă la vânt.",
+              "Verificați presiunea în anvelope, deoarece aceasta poate scădea la frig.",
+              "Asigurați-vă că luminile bicicletei funcționează pentru apusul timpuriu (16:15).",
+              "Evitați să conduceți prin zăpadă adâncă pentru a evita marginile ascunse.",
+              "Scurtați timpii de staționare în aer liber și folosiți muzeele încălzite."
+            ],
+            "en": [
+              "Wear multiple layers of clothing and windproof front panels.",
+              "Check the tire pressure, as it can drop in the cold.",
+              "Ensure your bike lights are working for the early sunset (16:15).",
+              "Avoid riding through deep snow to stay clear of hidden edges.",
+              "Shorten outdoor standing times and make use of the heated museums."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1146,6 +1562,214 @@
           "The drive to the Robinson Islands is short and straightforward.",
           "Check parking regulations to avoid fines."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Bei Regen ist das Auto die komfortabelste Wahl für Szécsény. Nach dem Parken im Zentrum erreichen wir Borjúpást mit nur kurzem Schirmgang. Die Fahrt zwischen den historischen Monumenten schützt uns vor den Güssen. Der Nachmittag im Forgách-Schloss ist gemütlich, und die Fahrt zu den Robinson-Inseln erfolgt trocken im warmen Innenraum.",
+            "hu": "Esőben az autó a legkényelmesebb választás Szécsényben. A központi parkolás után csak rövid esernyős séta vár ránk a Borjúpástig. A történelmi emlékek közötti autózás megvéd a záporoktól. A Forgách-kastélyban töltött délután barátságos, a Robinson-szigetekhez pedig szárazon, a meleg utastérben érkezünk.",
+            "ro": "Pe ploaie, mașina este cea mai confortabilă alegere în Szécsény. După parcarea centrală, ne așteaptă doar o scurtă plimbare cu umbrela până la Borjúpást. Deplasările între monumentele istorice ne protejează de averse. După-amiaza petrecută la Castelul Forgách este plăcută, iar la Insulele Robinson ajungem uscați, în interiorul cald al mașinii.",
+            "en": "In the rain, the car is the most comfortable choice in Szécsény. After central parking, only a short umbrella walk awaits us to Borjúpást. Driving between the historical monuments protects us from the showers. The afternoon spent at Forgách Castle is pleasant, and we reach the Robinson Islands dry, in the warm interior of the car."
+          },
+          "stops": [
+            {
+              "name": "Parking in the city center",
+              "tip_5lang": {
+                "de": "Suchen Sie einen Platz in der Nähe von Bäumen für etwas Regenschutz beim Aussteigen.",
+                "hu": "Keressünk parkolót fák közelében, hogy kiszálláskor védjen az esőtől.",
+                "ro": "Căutați un loc lângă copaci pentru protecție la ploaie când coborâți.",
+                "en": "Look for a spot near trees for some rain protection when getting out."
+              }
+            },
+            {
+              "name": "Borjúpást and Fire Tower",
+              "tip_5lang": {
+                "de": "Lassen Sie den nassen Schirm im Auto, wenn Sie nur kurz zum Turm sprinten.",
+                "hu": "Hagyjuk a vizes ernyőt az autóban, ha csak gyorsan átfutunk a toronyhoz.",
+                "ro": "Lăsați umbrela udă în mașină dacă fugiți doar rapid până la turn.",
+                "en": "Leave the wet umbrella in the car if you're just sprinting to the tower."
+              }
+            },
+            {
+              "name": "Franciscan Monastery and Church",
+              "tip_5lang": {
+                "de": "Der Eingangsbereich bietet Platz zum Abtropfen der Kleidung.",
+                "hu": "A bejárati résznél van hely a ruházat lecsöpögtetésére.",
+                "ro": "Zona de intrare oferă spațiu pentru scurgerea hainelor.",
+                "en": "The entrance area provides space for dripping off your clothes."
+              }
+            },
+            {
+              "name": "Forgách Castle",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Schloss-Parkplatz, um den Fußweg im Regen zu minimieren.",
+                "hu": "Használjuk a kastély parkolóját a gyalogút minimalizálására az esőben.",
+                "ro": "Folosiți parcarea castelului pentru a minimiza mersul pe jos în ploaie.",
+                "en": "Use the castle parking lot to minimize walking in the rain."
+              }
+            },
+            {
+              "name": "Lunch in the center",
+              "tip_5lang": {
+                "de": "Prüfen Sie, ob das Restaurant einen überdachten Eingang hat.",
+                "hu": "Ellenőrizzük, hogy az étteremnek van-e fedett bejárata.",
+                "ro": "Verificați dacă restaurantul are o intrare acoperită.",
+                "en": "Check if the restaurant has a covered entrance."
+              }
+            },
+            {
+              "name": "Remains of the Town Wall",
+              "tip_5lang": {
+                "de": "Man kann die Mauer teilweise direkt vom Auto aus sehen.",
+                "hu": "A fal egy része közvetlenül az autóból is látható.",
+                "ro": "O parte a zidului poate fi văzută direct din mașină.",
+                "en": "Part of the wall can be seen directly from the car."
+              }
+            },
+            {
+              "name": "Robinson Islands",
+              "tip_5lang": {
+                "de": "Parken Sie auf befestigtem Grund, um nicht im Schlamm steckenzubleiben.",
+                "hu": "Parkoljunk szilárd talajon, hogy ne akadjunk el a sárban.",
+                "ro": "Parcați pe teren solid pentru a nu rămâne blocați în noroi.",
+                "en": "Park on solid ground to avoid getting stuck in the mud."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schalten Sie die Klimaanlage ein, um das Beschlagen der Scheiben zu verhindern.",
+              "Halten Sie einen großen Regenschirm im Kofferraum für die kurzen Wege bereit.",
+              "Achten Sie auf tiefere Pfützen an den Straßenrändern beim Einparken.",
+              "Besuchen Sie das Schloss am Nachmittag, wenn der Regen meist stärker ist.",
+              "Die Sicht kann bei starkem Regen in den engen Gassen eingeschränkt sein."
+            ],
+            "hu": [
+              "Kapcsoljuk be a klímát a szélvédők párátlanítása érdekében.",
+              "Tartsunk nagy esernyőt a csomagtartóban a rövid gyalogutakhoz.",
+              "Figyeljünk a mélyebb tócsákra az út szélén parkoláskor.",
+              "Látogassuk meg a kastélyt délután, amikor az eső gyakran intenzívebb.",
+              "A látási viszonyok korlátozottak lehetnek a szűk utcákban heves esőben."
+            ],
+            "ro": [
+              "Porniți aerul condiționat pentru a preveni aburirea parbrizului.",
+              "Păstrați o umbrelă mare în portbagaj pentru traseele scurte pe jos.",
+              "Atenție la bălțile mai adânci de pe marginea drumului când parcați.",
+              "Vizitați castelul după-amiaza, când ploaia este adesea mai intensă.",
+              "Vizibilitatea poate fi limitată pe străzile înguste în timpul ploii abundente."
+            ],
+            "en": [
+              "Turn on the air conditioning to prevent window fogging.",
+              "Keep a large umbrella in the trunk for the short walking paths.",
+              "Watch out for deeper puddles at the roadside when parking.",
+              "Visit the castle in the afternoon when the rain is often more intense.",
+              "Visibility may be limited in narrow streets during heavy rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintertour durch Szécsény beginnt entspannt im vorgeheizten Auto. Vom Parkplatz am Borjúpást bewundern wir die Frostlandschaft, bevor wir den Tűztorony besteigen. Die kurzen Fahrten halten uns zwischen den Stopps warm. Das Forgách-Schloss bietet ein wunderbares Indoor-Programm, und der tag endet bei den Robinson-Inseln, wo wir die Winterdämmerung bequem aus dem Wagen beobachten können.",
+            "hu": "A téli szécsényi túra kényelmesen indul az előmelegített autóban. A Borjúpást melletti parkolóból csodáljuk a zúzmarás tájat, mielőtt megmásznánk a Tűztorony lépcsőit. A rövid autózások melegen tartanak a megállók között. A Forgách-kastély remek benti program, a nap pedig a Robinson-szigeteknél zárul, ahol a kocsiból is figyelhetjük a téli alkonyt.",
+            "ro": "Turul de iarnă în Szécsény începe relaxat în mașina preîncălzită. Din parcarea de la Borjúpást admirăm peisajul înghețat înainte de a urca scările Turnului de Foc. Deplasările scurte ne mențin calzi între opriri. Castelul Forgách este un program excelent de interior, iar ziua se încheie la Insulele Robinson, unde putem observa amurgul de iarnă din mașină.",
+            "en": "The winter tour through Szécsény begins relaxed in the preheated car. From the parking lot at Borjúpást, we admire the frosty landscape before climbing the stairs of the Fire Tower. The short drives keep us warm between stops. Forgách Castle is a great indoor program, and the day ends at the Robinson Islands, where we can watch the winter dusk from the comfort of the car."
+          },
+          "stops": [
+            {
+              "name": "Parking in the city center",
+              "tip_5lang": {
+                "de": "Achten Sie auf Schneehaufen, die Parklücken verengen können.",
+                "hu": "Figyeljünk a hókupacokra, amik szűkíthetik a parkolóhelyeket.",
+                "ro": "Atenție la mormanele de zăpadă care pot îngusta locurile de parcare.",
+                "en": "Watch out for snow piles that can narrow parking spaces."
+              }
+            },
+            {
+              "name": "Borjúpást and Fire Tower",
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor nicht unnötig im Stand laufen.",
+                "hu": "Ne járassuk feleslegesen a motort várakozás közben.",
+                "ro": "Nu lăsați motorul să meargă inutil în timp ce staționați.",
+                "en": "Don't let the engine run unnecessarily while idling."
+              }
+            },
+            {
+              "name": "Franciscan Monastery and Church",
+              "tip_5lang": {
+                "de": "Parken Sie nicht zu nah an den Dächern (Eiszapfengefahr).",
+                "hu": "Ne parkoljunk túl közel a tetőkhöz a jégcsapveszély miatt.",
+                "ro": "Nu parcați prea aproape de acoperișuri din cauza pericolului de țurțuri.",
+                "en": "Don't park too close to roofs due to the danger of icicles."
+              }
+            },
+            {
+              "name": "Forgách Castle",
+              "tip_5lang": {
+                "de": "Nutzen Sie den geräumigen Schlossparkplatz, er wird meist gut geräumt.",
+                "hu": "Használjuk a tágas kastélyparkolót, általában jól takarítják.",
+                "ro": "Folosiți parcarea spațioasă a castelului, de obicei este bine curățată.",
+                "en": "Use the spacious castle parking lot; it's usually well-cleared."
+              }
+            },
+            {
+              "name": "Lunch in the center",
+              "tip_5lang": {
+                "de": "Wählen Sie einen Parkplatz mit guter Beleuchtung für den Rückweg.",
+                "hu": "Válasszunk jól megvilágított parkolóhelyet a visszatéréshez.",
+                "ro": "Alegeți un loc de parcare bine iluminat pentru întoarcere.",
+                "en": "Choose a well-lit parking spot for your return."
+              }
+            },
+            {
+              "name": "Remains of the Town Wall",
+              "tip_5lang": {
+                "de": "Kurzer Stopp möglich, um die vereisten Mauern zu fotografieren.",
+                "hu": "Rövid megálló javasolt a jeges falak lefényképezéséhez.",
+                "ro": "Se recomandă o scurtă oprire pentru a fotografia zidurile înghețate.",
+                "en": "A short stop is recommended to photograph the icy walls."
+              }
+            },
+            {
+              "name": "Robinson Islands",
+              "tip_5lang": {
+                "de": "Die Zufahrt kann glatt sein, Winterreifen sind hier Pflicht.",
+                "hu": "A behajtó út csúszós lehet, a téli gumi itt alapkövetelmény.",
+                "ro": "Drumul de acces poate fi alunecos, anvelopele de iarnă sunt obligatorii aici.",
+                "en": "The access road can be slippery; winter tires are a basic requirement here."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Ihr Frostschutzmittel für tiefe Temperaturen bereit ist.",
+              "Führen Sie einen Eiskratzer und Handbesen für plötzlichen Schneefall mit.",
+              "Parken Sie im historischen Zentrum bevorzugt auf geräumten Flächen.",
+              "Die Sonne verschwindet gegen 16:15 Uhr hinter den Hügeln.",
+              "Nutzen Sie die Sitzheizung, um nach den Außenbesichtigungen schnell warm zu werden."
+            ],
+            "hu": [
+              "Győződjünk meg róla, hogy a fagyálló folyadék szintje megfelelő.",
+              "Tartsunk jégkaparót és kézi seprűt az autóban hirtelen havazás esetére.",
+              "A történelmi belvárosban lehetőleg letakarított felületen parkoljunk.",
+              "A nap 16:15 körül tűnik el a dombok mögött.",
+              "Használjuk az ülésfűtést a kinti látogatások utáni gyors bemelegedéshez."
+            ],
+            "ro": [
+              "Asigurați-vă că nivelul lichidului antigel este corespunzător.",
+              "Păstrați o racletă și o măturică în mașină pentru ninsori bruște.",
+              "În centrul istoric, parcați pe cât posibil pe suprafețe curățate.",
+              "Soarele dispare în spatele dealurilor în jurul orei 16:15.",
+              "Folosiți încălzirea în scaune pentru o încălzire rapidă după vizitele externe."
+            ],
+            "en": [
+              "Ensure the antifreeze fluid level is appropriate.",
+              "Keep an ice scraper and a hand broom in the car for sudden snowfall.",
+              "In the historical center, park on cleared surfaces if possible.",
+              "The sun disappears behind the hills around 16:15.",
+              "Use the seat heating for quick warming after outdoor visits."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1502,6 +2126,196 @@
           "This is a very pedestrian-friendly town, so no additional transport is needed.",
           "Buy return tickets in advance if possible."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Bus bringt uns trocken nach Szécsény, wo wir die Wartehalle als ersten Unterstand nutzen. Der kurze Weg zum Borjúpást und Feuerwachturm erfordert festen Schritt bei Nässe. Das Mittagessen im Zentrum ist die perfekte Pause, bevor wir den Nachmittag im wetterfesten Forgách-Schloss verbringen. Zurück zum Busbahnhof geht es durch die erfrischte, regennasse Altstadt.",
+            "hu": "A busz szárazon repít Szécsénybe, ahol a várótermet használjuk első menedékként. A Borjúpásthoz és a Tűztoronyhoz vezető rövid út esőben is teljesíthető. A belvárosi ebéd tökéletes pihenő, mielőtt a délutánt az időjárásálló Forgách-kastélyban töltenénk. A buszállomásra a friss, esőáztatta óvároson keresztül térünk vissza.",
+            "ro": "Autobuzul ne duce uscați la Szécsény, unde folosim sala de așteptare ca prim adăpost. Drumul scurt spre Borjúpást și Turnul de Foc poate fi parcurs și pe ploaie. Prânzul din centru este o pauză perfectă înainte de a petrece după-amiaza la Castelul Forgách, rezistent la intemperii. Ne întoarcem la autogară prin centrul vechi proaspăt spălat de ploaie.",
+            "en": "The bus takes us dry to Szécsény, where we use the waiting room as our first shelter. The short walk to Borjúpást and the Fire Tower can be completed even in the rain. Lunch in the center is a perfect break before spending the afternoon in the weather-proof Forgách Castle. We return to the bus station through the fresh, rain-soaked old town."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Szécsény Bus Station",
+              "tip_5lang": {
+                "de": "Die Wartehalle bietet Schutz bei der Ankunft.",
+                "hu": "A váróterem védelmet nyújt érkezéskor.",
+                "ro": "Sala de așteptare oferă protecție la sosire.",
+                "en": "The waiting hall offers protection upon arrival."
+              }
+            },
+            {
+              "name": "Borjúpást and Fire Tower",
+              "tip_5lang": {
+                "de": "Der Turm ist ein guter Ort, um einen Schauer abzuwarten.",
+                "hu": "A torony jó helyszín egy zápor átvészelésére.",
+                "ro": "Turnul este un loc bun pentru a aștepta trecerea unei averse.",
+                "en": "The tower is a good spot to wait out a shower."
+              }
+            },
+            {
+              "name": "Franciscan Monastery and Church",
+              "tip_5lang": {
+                "de": "Nutzen Sie den trockenen Innenraum für die Routenplanung.",
+                "hu": "Használjuk a száraz belső teret az útvonaltervezéshez.",
+                "ro": "Folosiți spațiul interior uscat pentru planificarea traseului.",
+                "en": "Use the dry interior for route planning."
+              }
+            },
+            {
+              "name": "Forgách Castle",
+              "tip_5lang": {
+                "de": "Planen Sie hier mindestens 90 Minuten ein, wenn es draußen regnet.",
+                "hu": "Tervezzünk ide legalább 90 percet, ha kint esik.",
+                "ro": "Planificați cel puțin 90 de minute aici dacă afară plouă.",
+                "en": "Plan at least 90 minutes here if it's raining outside."
+              }
+            },
+            {
+              "name": "Lunch",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Lokal in der Nähe der Bushaltestelle.",
+                "hu": "Válasszunk a buszmegállóhoz közeli vendéglátóhelyet.",
+                "ro": "Alegeți un local din apropierea stației de autobuz.",
+                "en": "Choose an establishment near the bus stop."
+              }
+            },
+            {
+              "name": "Town Hall and Town Wall",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen den Gebäuden minimieren die Nässe.",
+                "hu": "Az épületek közötti rövid távok minimalizálják az ázást.",
+                "ro": "Distanțele scurte între clădiri minimizează udarea.",
+                "en": "Short distances between buildings minimize getting wet."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie die Abfahrtszeiten vorab, da Regen den Verkehr verzögern kann.",
+              "Nutzen Sie die Cafés im Zentrum als Zwischenstopps bei starkem Regen.",
+              "Tragen Sie wasserfeste Taschen für Ihre Wertsachen.",
+              "Die Busstation liegt etwa 10 Gehminuten vom Schlosspark entfernt.",
+              "Ein kleiner Taschenschirm ist handlicher für die engen Gassen."
+            ],
+            "hu": [
+              "Ellenőrizzük előre az indulási időket, mert az eső lassíthatja a közlekedést.",
+              "Használjuk a belvárosi kávézókat köztes megállóként heves esőben.",
+              "Viseljünk vízhatlan táskát az értéktárgyaink védelmében.",
+              "A buszállomás kb. 10 perc sétára van a kastélyparktól.",
+              "Egy kis összecsukható ernyő praktikusabb a szűk utcákban."
+            ],
+            "ro": [
+              "Verificați din timp orele de plecare, deoarece ploaia poate încetini traficul.",
+              "Folosiți cafenelele din centru ca opriri intermediare în caz de ploaie abundentă.",
+              "Purtați genți impermeabile pentru protejarea obiectelor de valoare.",
+              "Autogara este la aproximativ 10 minute de mers pe jos de parcul castelului.",
+              "O umbrelă mică pliantă este mai practică pe străzile înguste."
+            ],
+            "en": [
+              "Check departure times in advance, as rain can slow down traffic.",
+              "Use downtown cafes as intermediate stops during heavy rain.",
+              "Wear waterproof bags to protect your valuables.",
+              "The bus station is about a 10-minute walk from the castle park.",
+              "A small folding umbrella is more practical in narrow streets."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Ankunft am winterlichen Busbahnhof Szécsény ist der Startpunkt für einen frostigen Kulturtag. Nach dem Borjúpást bietet der Feuerwachturm einen klaren Blick auf die Schneelandschaft. Die Besuche in Kirche und Schloss sind willkommene Aufwärmpausen. Das Mittagessen gibt Energie für den späten Nachmittag, bevor wir die Stadtmauer bei Sonnenuntergang (16:15) erreichen und zum Bus zurückkehren.",
+            "hu": "A télies szécsényi buszállomásra érkezve fagyos kulturális nap veszi kezdetét. A Borjúpást után a Tűztorony tiszta kilátást nyújt a havas tájra. A templomi és kastélylátogatások szívesen látott melegedő szünetek. Az ebéd energiát ad a késő délutánhoz, mielőtt a naplementében (16:15) elérnénk a városfalat, majd visszatérnénk a buszhoz.",
+            "ro": "Sosirea la autogara de iarnă din Szécsény marchează începutul unei zile culturale geroase. După Borjúpást, Turnul de Foc oferă o vedere clară asupra peisajului înzăpezit. Vizitele la biserică și castel sunt pauze binevenite pentru încălzire. Prânzul oferă energie pentru după-amiaza târzie, înainte de a ajunge la zidul orașului la apus (16:15), apoi ne întoarcem la autobuz.",
+            "en": "Arriving at the wintry Szécsény bus station starts a frosty cultural day. After Borjúpást, the Fire Tower offers a clear view of the snowy landscape. Visits to the church and castle are welcome warming breaks. Lunch gives energy for the late afternoon, before we reach the town wall at sunset (16:15) and return to the bus."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Szécsény Bus Station",
+              "tip_5lang": {
+                "de": "Die Wartehalle ist im Winter beheizt.",
+                "hu": "A váróterem télen fűtött.",
+                "ro": "Sala de așteptare este încălzită iarna.",
+                "en": "The waiting hall is heated in winter."
+              }
+            },
+            {
+              "name": "Borjúpást and Fire Tower",
+              "tip_5lang": {
+                "de": "Zügiges Gehen hilft gegen die Kälte auf der Freifläche.",
+                "hu": "A tempós gyaloglás segít a hideg ellen a nyílt téren.",
+                "ro": "Mersul vioi ajută împotriva frigului în spațiul deschis.",
+                "en": "Brisk walking helps against the cold in the open area."
+              }
+            },
+            {
+              "name": "Franciscan Monastery and Church",
+              "tip_5lang": {
+                "de": "Ein Ort der Stille, an dem man kurz die Kälte vergisst.",
+                "hu": "A csend helyszíne, ahol rövid időre elfelejthetjük a hideget.",
+                "ro": "Un loc al liniștii unde putem uita pentru scurt timp de frig.",
+                "en": "A place of silence where we can briefly forget the cold."
+              }
+            },
+            {
+              "name": "Forgách Castle",
+              "tip_5lang": {
+                "de": "Ideale Aufwärmpause zwischen den Außenterminen.",
+                "hu": "Ideális melegedő szünet a kültéri látnivalók között.",
+                "ro": "Pauză ideală de încălzire între obiectivele externe.",
+                "en": "An ideal warming break between outdoor attractions."
+              }
+            },
+            {
+              "name": "Lunch",
+              "tip_5lang": {
+                "de": "Genießen Sie die gemütliche Atmosphäre im geheizten Lokal.",
+                "hu": "Élvezzük a fűtött étterem barátságos hangulatát.",
+                "ro": "Bucurați-vă de atmosfera primitoare a restaurantului încălzit.",
+                "en": "Enjoy the friendly atmosphere of the heated restaurant."
+              }
+            },
+            {
+              "name": "Town Hall and Town Wall",
+              "tip_5lang": {
+                "de": "Achten Sie auf Räumdienste in den schmalen Bürgersteigen.",
+                "hu": "Figyeljünk a hókotrókra a szűk járdákon.",
+                "ro": "Atenție la utilajele de deszăpezire pe trotuarele înguste.",
+                "en": "Watch out for snow removal services on the narrow sidewalks."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Planen Sie Pufferzeiten ein, da Busse bei Schnee Verspätung haben können.",
+              "Tragen Sie warme Winterschuhe für die Wege zwischen den Stopps.",
+              "Die Sonne geht um 16:15 Uhr unter, danach wird es deutlich kühler.",
+              "Die Busstation bietet Toiletten und Sitzmöglichkeiten zum Warten.",
+              "Kombinieren Sie Ihren Aufenthalt mit einem heißen Tee to-go."
+            ],
+            "hu": [
+              "Tervezzünk extra időt, mert a buszok havazáskor késhetnek.",
+              "Viseljünk meleg téli lábbelit a megállók közötti sétákhoz.",
+              "A nap 16:15-kor nyugszik, utána jelentősen hűvösebb lesz.",
+              "A buszállomáson van mosdó és ülőhely a várakozáshoz.",
+              "Kössük össze a programot egy forró teával útközben."
+            ],
+            "ro": [
+              "Planificați timp suplimentar, deoarece autobuzele pot întârzia pe ninsoare.",
+              "Purtați încălțăminte caldă de iarnă pentru plimbările între opriri.",
+              "Soarele apune la 16:15, după care se va răci semnificativ.",
+              "Autogara are toaletă și locuri de șezut pentru așteptare.",
+              "Combinați programul cu un ceai fierbinte pe drum."
+            ],
+            "en": [
+              "Plan extra time, as buses can be delayed during snowfall.",
+              "Wear warm winter footwear for the walks between stops.",
+              "The sun sets at 16:15, after which it will get significantly cooler.",
+              "The bus station has a restroom and seating for waiting.",
+              "Combine the program with a hot tea on the way."
+            ]
+          }
+        }
       }
     }
   }

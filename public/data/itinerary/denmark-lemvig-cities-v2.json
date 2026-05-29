@@ -356,6 +356,188 @@
           "Most shops close early, so plan any shopping for the afternoon.",
           "Check museum opening hours as they can vary seasonally."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens besuchen wir die Kirche von Lemvig, die bei Regen eine besonders andächtige Atmosphäre bietet. Danach verbringen wir die Mittagszeit im Stadtmuseum, wo wir trocken die Lokalgeschichte erkunden können. Am Nachmittag schlendern wir unter dem Schutz der Hafengebäude zum Kunstmuseum. Der Abend klingt gemütlich in einem Restaurant am Hafen aus, während der Regen gegen die Scheiben prasselt.",
+            "hu": "Reggel a Lemvig-templom belső terében kezdünk, ami tökéletes menedék az eső elől. Délben a városi múzeumban merülünk el a történelemben, teljesen szárazon. Délután a kikötő mentén, esernyővel sétálunk a Vallásművészeti Múzeumba, élvezve a borongós tengerparti hangulatot. Az estét egy meleg kikötői étteremben zárjuk, nézve a vízen táncoló esőcseppeket.",
+            "ro": "Dimineața vizităm Biserica Lemvig, oferind un refugiu liniștit împotriva ploii. La prânz, explorăm istoria locală la muzeul orașului, rămânând la adăpost. După-amiaza, ne plimbăm cu umbrela spre Muzeul de Artă Religioasă, admirând portul în culori pastelate de ploaie. Seara se încheie confortabil într-un restaurant din port, ascultând sunetul ploii pe acoperiș.",
+            "en": "Morning starts at Lemvig Church, providing a peaceful indoor sanctuary from the rain. At noon, we explore local history at the museum, staying completely dry. Afternoon involves an umbrella walk along the harbor to the Museum of Religious Art. The evening concludes cozily in a harbor restaurant, watching the raindrops dance on the Limfjord water."
+          },
+          "stops": [
+            {
+              "name": "Lemvig Church",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Rokoko-Kanzel, während es draußen regnet.",
+                "hu": "Csodálja meg a rokokó szószéket, amíg kint esik az eső.",
+                "ro": "Admirați amvonul rococo în timp ce afară plouă.",
+                "en": "Admire the rococo pulpit while seeking shelter from the rain."
+              }
+            },
+            {
+              "name": "Lemvig Museum",
+              "tip_5lang": {
+                "de": "Ideal für regnerische Stunden mit vielen Indoor-Exponaten.",
+                "hu": "Ideális esős órákra a sok beltéri kiállítási tárggyal.",
+                "ro": "Ideal pentru orele ploioase, cu multe exponate interioare.",
+                "en": "Perfect for rainy hours with plenty of indoor exhibits."
+              }
+            },
+            {
+              "name": "The Sculpture Path",
+              "tip_5lang": {
+                "de": "Gute Schuhe sind wichtig, da die Wege rutschig sein können.",
+                "hu": "A jó cipő fontos, mivel az utak csúszósak lehetnek.",
+                "ro": "Încălțămintea bună este esențială, deoarece potecile pot fi alunecoase.",
+                "en": "Good shoes are essential as paths can be slippery when wet."
+              }
+            },
+            {
+              "name": "Lunch Break at the Harbour",
+              "tip_5lang": {
+                "de": "Wählen Sie einen Platz am Fenster für den Blick auf den Fjord.",
+                "hu": "Válasszon ablak melletti asztalt a fjordra nyíló kilátáshoz.",
+                "ro": "Alegeți o masă la fereastră pentru vederea spre fjord.",
+                "en": "Pick a window seat for a great view of the rainy fjord."
+              }
+            },
+            {
+              "name": "Museum of Religious Art",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe für Ihre nassen Regenjacken.",
+                "hu": "Használja a ruhatárat a nedves esőkabátok számára.",
+                "ro": "Folosiți garderoba pentru jachetele de ploaie ude.",
+                "en": "Use the cloakroom to dry off your wet raincoats."
+              }
+            },
+            {
+              "name": "The Planet Path (Start)",
+              "tip_5lang": {
+                "de": "Ein kurzer Spaziergang reicht bei starkem Regen völlig aus.",
+                "hu": "Erős esőben egy rövid séta is bőven elegendő itt.",
+                "ro": "O plimbare scurtă este suficientă dacă plouă torențial.",
+                "en": "A short walk is enough if the rain is heavy."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Wanderschuhe für die Hafenpromenade.",
+              "Viele Geschäfte in der Fußgängerzone bieten Unterstand.",
+              "Die Museen sind die besten Rückzugsorte bei Schauern.",
+              "Ein stabiler Windschirm ist bei Küstenwind ratsam."
+            ],
+            "hu": [
+              "Viseljen vízálló túracipőt a kikötői sétányhoz.",
+              "A sétálóutca boltjai jó menedéket nyújtanak.",
+              "A múzeumok a legjobb helyek záporok idején.",
+              "A tengerparti szél miatt egy stabil esernyő ajánlott."
+            ],
+            "ro": [
+              "Purtați pantofi de drumeție impermeabili pentru faleză.",
+              "Magazinele din zona pietonală oferă adăpost bun.",
+              "Muzeele sunt cele mai bune refugii în timpul averselor.",
+              "O umbrelă rezistentă este recomandată din cauza vântului."
+            ],
+            "en": [
+              "Wear waterproof hiking shoes for the harbor promenade.",
+              "Pedestrian zone shops provide good shelter from bursts.",
+              "The museums are your best bet during heavy downpours.",
+              "A sturdy umbrella is recommended due to coastal winds."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen in Lemvig beginnt in der beheizten Kirche. Mittags wärmen wir uns im Lemvig Museum bei den Geschichten über die Westküste auf. Da es früh dunkel wird, besuchen wir das Kunstmuseum am frühen Nachmittag, um das Tageslicht zu nutzen. Den Abend verbringen wir bei dänischer 'Hygge' und warmen Getränken in einem Café am Hafen.",
+            "hu": "A téli reggel Lemvigben a fűtött templomban kezdődik. Délben a városi múzeumban melegszünk fel a nyugati part történeteit hallgatva. Mivel korán sötétedik, a Vallásművészeti Múzeumot kora délután látogatjuk meg, hogy kihasználjuk a fényt. Az estét dán 'hygge' hangulatban és meleg italokkal zárjuk egy kikötői kávézóban.",
+            "ro": "Dimineața de iarnă în Lemvig începe în biserica încălzită. La prânz, ne încălzim la Muzeul Lemvig cu povești despre coasta de vest. Deoarece se întunecă devreme, vizităm muzeul de artă la începutul după-amiezii. Seara se încheie în stil 'hygge' danez, cu băuturi calde într-o cafenea din port.",
+            "en": "Winter morning in Lemvig begins in the heated church. At noon, we warm up at Lemvig Museum while learning about West Coast history. Since it gets dark early, we visit the Art Museum in the early afternoon to catch the light. The evening is spent enjoying Danish 'hygge' with warm drinks in a cozy harbor cafe."
+          },
+          "stops": [
+            {
+              "name": "Lemvig Church",
+              "tip_5lang": {
+                "de": "Genießen Sie die Wärme im Inneren des historischen Baus.",
+                "hu": "Élvezze a történelmi épület belső melegét.",
+                "ro": "Bucurați-vă de căldura din interiorul clădirii istorice.",
+                "en": "Enjoy the warmth inside this historic building."
+              }
+            },
+            {
+              "name": "Lemvig Museum",
+              "tip_5lang": {
+                "de": "Ein gemütlicher Ort, um der Winterkälte zu entfliehen.",
+                "hu": "Hangulatos hely a téli hideg elől való meneküléshez.",
+                "ro": "Un loc primitor pentru a scăpa de frigul iernii.",
+                "en": "A cozy place to escape the biting winter cold."
+              }
+            },
+            {
+              "name": "The Sculpture Path",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stellen auf den Kunstwegen.",
+                "hu": "Ügyeljen a jeges szakaszokra a művészeti útvonalon.",
+                "ro": "Atenție la porțiunile înghețate de pe traseul artistic.",
+                "en": "Watch out for icy patches along the art path."
+              }
+            },
+            {
+              "name": "Lunch Break at the Harbour",
+              "tip_5lang": {
+                "de": "Probieren Sie eine warme Suppe oder dänischen Kakao.",
+                "hu": "Kóstoljon meg egy forró levest vagy dán kakaót.",
+                "ro": "Încercați o supă caldă sau cacao daneză.",
+                "en": "Try a hot soup or traditional Danish cocoa."
+              }
+            },
+            {
+              "name": "Museum of Religious Art",
+              "tip_5lang": {
+                "de": "Das Museumscafé bietet einen tollen Blick auf den Winterfjord.",
+                "hu": "A múzeumi kávézó remek kilátást nyújt a téli fjordra.",
+                "ro": "Cafeneaua muzeului oferă o vedere superbă spre fjordul înghețat.",
+                "en": "The museum cafe offers great views of the winter fjord."
+              }
+            },
+            {
+              "name": "The Planet Path (Start)",
+              "tip_5lang": {
+                "de": "Die Sonne geht gegen 16:00 Uhr unter, ideal für Fotos.",
+                "hu": "A nap 16:00 körül nyugszik, ideális fotózáshoz.",
+                "ro": "Soarele apune în jur de ora 16:00, ideal pentru fotografii.",
+                "en": "Sunset is around 16:00, perfect for golden hour photos."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich nach dem Zwiebelprinzip für Wind und Kälte.",
+              "Die Sonne verschwindet im Dezember bereits vor 16 Uhr.",
+              "Museen sind montags im Winter oft geschlossen, vorher prüfen.",
+              "Heiße Getränke am Hafen sind ein Muss für das Wintererlebnis."
+            ],
+            "hu": [
+              "Öltözzön rétegesen a szél és a hideg ellen.",
+              "A nap decemberben már délután 4 előtt lemegy.",
+              "Télen a múzeumok hétfőnként zárva lehetnek, ellenőrizze.",
+              "A kikötői forró italok kötelezőek a téli élményhez."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi pentru vânt și frig.",
+              "Soarele apune înainte de ora 16:00 în decembrie.",
+              "Muzeele pot fi închise lunea iarna, verificați programul.",
+              "Băuturile calde în port sunt obligatorii pentru experiența de iarnă."
+            ],
+            "en": [
+              "Dress in layers to combat the coastal wind and cold.",
+              "The sun sets before 4 PM in December; plan accordingly.",
+              "Museums often have shorter winter hours or Monday closures.",
+              "Hot drinks at the harbor are a must for the winter vibe."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -706,6 +888,188 @@
           "A helmet is recommended but not legally required for adults in Denmark.",
           "Always lock your bike, even for short stops."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen starten wir die Radtour am Hafen und nutzen die kurzen Wege. Vormittags bietet das Museum für religiöse Kunst Schutz und Kultur. Die Fahrt zum Gjellerodde Strand ist nass, aber die frische Brise belebt. Nachmittags kehren wir ins Zentrum zurück, besuchen die Kirche und belohnen uns mit Kaffee und Kuchen in einem warmen Café.",
+            "hu": "Az eső ellenére a kikötőben kezdjük a bringázást, rövid távokat tervezve. Délelőtt a Vallásművészeti Múzeum nyújt menedéket. A Gjellerodde strandhoz vezető út vizes lesz, de a friss szellő élénkítő. Délután visszatérünk a központba, megnézzük a templomot, majd kávéval és süteménnyel jutalmazzuk magunkat egy meleg helyen.",
+            "ro": "În ciuda ploii, începem turul cu bicicleta în port, folosind trasee scurte. Dimineața, Muzeul de Artă Religioasă oferă adăpost și cultură. Drumul spre plaja Gjellerodde va fi ud, dar briza este revigorantă. După-amiaza revenim în centru, vizităm biserica și ne răsplătim cu cafea și prăjituri.",
+            "en": "Despite the rain, we start our bike tour at the harbor, focusing on short stretches. Morning is spent at the Museum of Religious Art to stay dry. The ride to Gjellerodde Beach is wet but invigorating with the sea breeze. Afternoon sees us back in the center for the church and a well-deserved coffee and cake in a cozy cafe."
+          },
+          "stops": [
+            {
+              "name": "Start at the Harbour",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen, nasse Felgen brauchen längeren Bremsweg.",
+                "hu": "Ellenőrizze a fékeket, a vizes felnik hosszabb fékutat igényelnek.",
+                "ro": "Verificați frânele, jantele ude necesită o distanță de frânare mai mare.",
+                "en": "Check your brakes; wet rims need a longer braking distance."
+              }
+            },
+            {
+              "name": "Museum of Religious Art",
+              "tip_5lang": {
+                "de": "Überdachte Fahrradständer befinden sich in der Nähe.",
+                "hu": "Fedett kerékpártárolók találhatók a közelben.",
+                "ro": "Suporturi de biciclete acoperite se află în apropiere.",
+                "en": "Covered bike racks are available nearby."
+              }
+            },
+            {
+              "name": "Gjellerodde Beach",
+              "tip_5lang": {
+                "de": "Der Radweg kann Pfützen haben, Schutzbleche sind ratsam.",
+                "hu": "A kerékpárúton tócsák lehetnek, a sárvédő ajánlott.",
+                "ro": "Pista de biciclete poate avea bălți, aripile sunt recomandate.",
+                "en": "The bike path may have puddles; fenders are highly recommended."
+              }
+            },
+            {
+              "name": "The Planet Path (along the coast)",
+              "tip_5lang": {
+                "de": "Bei starkem Wind ist die Küstenstrecke anstrengend.",
+                "hu": "Erős szélben a part menti szakasz megerőltető.",
+                "ro": "Pe vânt puternic, porțiunea de coastă este obositoare.",
+                "en": "The coastal stretch is challenging during strong winds."
+              }
+            },
+            {
+              "name": "Lemvig Church",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp zum Aufwärmen und Trocknen.",
+                "hu": "Egy rövid megálló a felmelegedéshez és száradáshoz.",
+                "ro": "O oprire scurtă pentru încălzire și uscare.",
+                "en": "A short stop to warm up and dry off."
+              }
+            },
+            {
+              "name": "Coffee and Cake",
+              "tip_5lang": {
+                "de": "Ein Muss nach einer nassen Tour durch Lemvig.",
+                "hu": "Kötelező egy vizes Lemvig-túra után.",
+                "ro": "O necesitate după un tur ud prin Lemvig.",
+                "en": "A must-have after a wet tour through Lemvig."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vollständige Regenbekleidung inklusive Regenhose ist nötig.",
+              "Vermeiden Sie Markierungen auf der Straße, diese sind rutschig.",
+              "Nutzen Sie Taschen mit Rollverschluss, um Gepäck trocken zu halten.",
+              "Die Küstenwege sind bei Regen oft einsam und friedlich."
+            ],
+            "hu": [
+              "Teljes esőruházat, beleértve az esőnadrágot is, szükséges.",
+              "Kerülje az útburkolati jeleket, mert csúszósak.",
+              "Használjon vízhatlan táskákat a csomagok szárazon tartásához.",
+              "A parti utak esőben gyakran magányosak és békések."
+            ],
+            "ro": [
+              "Este necesar echipament de ploaie complet, inclusiv pantaloni.",
+              "Evitați marcajele rutiere, acestea sunt alunecoase.",
+              "Folosiți genți impermeabile pentru a păstra bagajele uscate.",
+              "Potecile de coastă sunt adesea pustii și liniștite pe ploaie."
+            ],
+            "en": [
+              "Full rain gear including rain pants is absolutely necessary.",
+              "Avoid riding on road markings as they become very slippery.",
+              "Use waterproof panniers to keep your belongings dry.",
+              "Coastal paths are often quiet and peaceful during rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Radtour führt uns durch die klare Luft von Lemvig. Vormittags wärmen wir uns im Kunstmuseum auf, bevor wir zum Gjellerodde Strand radeln, wo der Fjord oft im Nebel liegt. Die Rückfahrt auf dem Planetenweg bietet kühle Panoramen. Den Nachmittag verbringen wir in der Kirche und schließlich bei heißem Kaffee im Zentrum.",
+            "hu": "A téli kerékpártúra Lemvig tiszta levegőjén vezet keresztül. Délelőtt a művészeti múzeumban melegszünk fel, majd a Gjellerodde strandhoz tekerünk, ahol a fjord gyakran ködös. A visszaút a Planetáris úton hűvös panorámákat kínál. A délutánt a templomban, majd forró kávé mellett töltjük a központban.",
+            "ro": "Turul cu bicicleta de iarnă ne poartă prin aerul curat din Lemvig. Dimineața ne încălzim la muzeu înainte de a pedala spre plaja Gjellerodde. Drumul de întoarcere pe Calea Planetelor oferă panorame reci. După-amiaza o petrecem la biserică și, în final, la o cafea fierbinte.",
+            "en": "The winter bike tour takes us through Lemvig's crisp, clear air. Morning starts with warmth at the Art Museum before cycling to Gjellerodde Beach, where the fjord is often misty. Returning via the Planet Path offers chilly but beautiful panoramas. Afternoon is spent at the church and finally with hot coffee downtown."
+          },
+          "stops": [
+            {
+              "name": "Start at the Harbour",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis am frühen Morgen.",
+                "hu": "Ügyeljen a hajnali jegesedésre.",
+                "ro": "Atenție la polei la primele ore ale dimineții.",
+                "en": "Watch out for black ice in the early morning."
+              }
+            },
+            {
+              "name": "Museum of Religious Art",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ausstellung, während die Sonne tief steht.",
+                "hu": "Nézze meg a kiállítást, amíg alacsonyan jár a nap.",
+                "ro": "Vizitați expoziția în timp ce soarele este jos pe cer.",
+                "en": "Visit the exhibit while the winter sun is low."
+              }
+            },
+            {
+              "name": "Gjellerodde Beach",
+              "tip_5lang": {
+                "de": "Ein heißer Tee aus der Thermoskanne wirkt hier Wunder.",
+                "hu": "Egy forró tea a termoszból csodákra képes itt.",
+                "ro": "Un ceai fierbinte din termos face minuni aici.",
+                "en": "A hot tea from a thermos works wonders here."
+              }
+            },
+            {
+              "name": "The Planet Path (along the coast)",
+              "tip_5lang": {
+                "de": "Die gefrorene Landschaft bietet tolle Fotomotive.",
+                "hu": "A fagyott táj remek fotótémákat kínál.",
+                "ro": "Peisajul înghețat oferă motive fotografice deosebite.",
+                "en": "The frozen landscape offers great photo opportunities."
+              }
+            },
+            {
+              "name": "Lemvig Church",
+              "tip_5lang": {
+                "de": "Lassen Sie das Rad sicher draußen, die Kirche ist beheizt.",
+                "hu": "Hagyja kint biztonságban a bringát, a templom fűtött.",
+                "ro": "Lăsați bicicleta afară în siguranță, biserica este încălzită.",
+                "en": "Park your bike securely outside; the church is heated."
+              }
+            },
+            {
+              "name": "Coffee and Cake",
+              "tip_5lang": {
+                "de": "Wärmen Sie Ihre Hände an einer heißen Tasse auf.",
+                "hu": "Melegítse fel a kezeit egy forró csészén.",
+                "ro": "Încălziți-vă mâinile cu o ceașcă fierbinte.",
+                "en": "Warm your hands on a hot mug of coffee."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Handschuhe und Windstopper-Jacken sind essenziell.",
+              "Achten Sie auf Streusalz, das die Kette angreifen kann.",
+              "Die Wege können im Schatten den ganzen Tag gefroren bleiben.",
+              "Planen Sie die Rückkehr vor Einbruch der Dunkelheit (ca. 16:00)."
+            ],
+            "hu": [
+              "Meleg kesztyű és szélálló dzseki elengedhetetlen.",
+              "Ügyeljen az útszóró sóra, ami károsíthatja a láncot.",
+              "Az árnyékos utak egész nap fagyottak maradhatnak.",
+              "Tervezze meg a visszatérést sötétedés előtt (kb. 16:00)."
+            ],
+            "ro": [
+              "Mănușile groase și jachetele windstopper sunt esențiale.",
+              "Atenție la sarea de pe drum, care poate ataca lanțul.",
+              "Potecile la umbră pot rămâne înghețate toată ziua.",
+              "Planificați întoarcerea înainte de lăsarea întunericului (ora 16:00)."
+            ],
+            "en": [
+              "Warm gloves and windstopper jackets are essential.",
+              "Watch out for road salt which can damage your bike chain.",
+              "Shaded paths may remain frozen throughout the day.",
+              "Plan to be back before it gets dark (around 4 PM)."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1079,6 +1443,206 @@
           "Allow extra time for unplanned stops at scenic viewpoints.",
           "Be mindful of cyclists on the country roads."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Autotour führt uns zum Leuchtturm Bovbjerg, wo wir das raue Wetter von drinnen beobachten. Mittags besuchen wir Gjellerodde, bleiben aber bei Schauern im Wagen. Nachmittags erkunden wir das Zentrum von Lemvig mit der Kirche und dem Museum, wobei das Auto als trockene Basis dient. Den Abend genießen wir bei einem Abendessen am Hafen.",
+            "hu": "Az autós túra a Bovbjerg világítótoronyhoz vezet, ahol bentről figyeljük a zord időt. Délben Gjellerodde felé vesszük az irányt, de záporok esetén a kocsiban maradunk. Délután Lemvig központját fedezzük fel, az autó pedig száraz bázisként szolgál a templom és a múzeum meglátogatásához. Az estét a kikötőben vacsorázva töltjük.",
+            "ro": "Turul cu mașina ne duce la farul Bovbjerg, unde observăm vremea aspră de la adăpost. La prânz vizităm Gjellerodde, dar stăm în mașină în timpul averselor. După-amiaza explorăm centrul Lemvig, mașina servind drept bază uscată pentru vizitarea bisericii și a muzeului. Seara ne bucurăm de o cină în port.",
+            "en": "The car tour takes us to Bovbjerg Lighthouse, where we watch the wild weather from inside. At noon, we visit Gjellerodde, staying in the car during heavy showers. Afternoon is for exploring Lemvig center, using the car as a dry base while visiting the church and museum. The evening is spent dining at the harbor."
+          },
+          "stops": [
+            {
+              "name": "Bovbjerg Lighthouse",
+              "tip_5lang": {
+                "de": "Das Café im Leuchtturm ist perfekt für Regentage.",
+                "hu": "A világítótorony kávézója tökéletes az esős napokra.",
+                "ro": "Cafeneaua farului este perfectă pentru zilele ploioase.",
+                "en": "The lighthouse cafe is perfect for rainy days."
+              }
+            },
+            {
+              "name": "Cliff Edge Walk near Tørringhuse",
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Wind sicherheitshalber im Auto.",
+                "hu": "Erős szélben a biztonság kedvéért maradjon az autóban.",
+                "ro": "Rămâneți în mașină pentru siguranță în caz de vânt puternic.",
+                "en": "Stay in the car for safety if the winds are too strong."
+              }
+            },
+            {
+              "name": "Gjellerodde Beach",
+              "tip_5lang": {
+                "de": "Genießen Sie die Aussicht auf den Fjord durch die Windschutzscheibe.",
+                "hu": "Élvezze a fjord látványát a szélvédőn keresztül.",
+                "ro": "Bucurați-vă de vederea spre fjord prin parbriz.",
+                "en": "Enjoy the fjord views through your windshield."
+              }
+            },
+            {
+              "name": "Arrive in Lemvig Center",
+              "tip_5lang": {
+                "de": "Nutzen Sie Parkhäuser oder zentrumsnahe Parkplätze.",
+                "hu": "Használja a parkolóházakat vagy központi parkolókat.",
+                "ro": "Folosiți parcările etajate sau locurile de parcare centrale.",
+                "en": "Use parking garages or spots close to the center."
+              }
+            },
+            {
+              "name": "Lemvig Church",
+              "tip_5lang": {
+                "de": "Nur ein kurzer Sprint vom Parkplatz zur Kirche.",
+                "hu": "Csak egy rövid sprint a parkolótól a templomig.",
+                "ro": "Doar un sprint scurt de la parcare până la biserică.",
+                "en": "Just a quick sprint from the car park to the church."
+              }
+            },
+            {
+              "name": "Lemvig Museum",
+              "tip_5lang": {
+                "de": "Parken Sie direkt davor, um trocken zu bleiben.",
+                "hu": "Parkoljon közvetlenül előtte, hogy száraz maradjon.",
+                "ro": "Parcați direct în față pentru a rămâne uscat.",
+                "en": "Park directly in front to stay dry."
+              }
+            },
+            {
+              "name": "Dinner at the Harbour",
+              "tip_5lang": {
+                "de": "Der Hafenparkplatz ist bei Regen meist weniger belegt.",
+                "hu": "A kikötői parkoló esőben általában kevésbé zsúfolt.",
+                "ro": "Parcarea din port este de obicei mai goală pe ploaie.",
+                "en": "The harbor car park is usually less crowded during rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Zustand der Scheibenwischer vor der Fahrt.",
+              "An der Küste kann der Wind das Öffnen der Autotüren erschweren.",
+              "Halten Sie Handtücher im Auto bereit, um sich abzutrocknen.",
+              "Küstenstraßen können bei starkem Regen rutschig sein."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze az ablaktörlők állapotát.",
+              "A parton a szél megnehezítheti az ajtónyitást.",
+              "Tartson törölközőket az autóban a száradáshoz.",
+              "A parti utak heves esőben csúszósak lehetnek."
+            ],
+            "ro": [
+              "Verificați starea ștergătoarelor înainte de plecare.",
+              "Pe coastă, vântul poate îngreuna deschiderea portierelor.",
+              "Țineți prosoape în mașină pentru a vă usca.",
+              "Drumurile de coastă pot fi alunecoase la ploaie torențială."
+            ],
+            "en": [
+              "Check the condition of your wipers before starting.",
+              "Coastal winds can make opening car doors difficult.",
+              "Keep towels in the car to dry off after stops.",
+              "Coastal roads can be slippery during heavy rainfall."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Winterfahrt führt uns durch die frostige dänische Landschaft zum Leuchtturm Bovbjerg. Wir genießen den Blick auf die Nordsee und besuchen mittags den Strand von Gjellerodde, der winterlich still ist. Nachmittags erkunden wir Lemvig, besuchen die warme Kirche und das Museum. Der Tag endet gemütlich bei einem Abendessen am winterlichen Hafen.",
+            "hu": "A téli autózás a fagyos dán tájon át vezet a Bovbjerg világítótoronyhoz. Élvezzük az Északi-tenger látványát, majd délben meglátogatjuk a téli csendbe burkolózott Gjellerodde strandot. Délután felfedezzük Lemviget, meglátogatjuk a meleg templomot és a múzeumot. A napot vacsorával zárjuk a téli kikötőben.",
+            "ro": "Drumul de iarnă ne poartă prin peisajul danez înghețat spre farul Bovbjerg. Admirăm Marea Nordului, iar la prânz vizităm plaja Gjellerodde, liniștită iarna. După-amiaza explorăm Lemvig, vizităm biserica caldă și muzeul. Ziua se încheie cu o cină în portul hibernal.",
+            "en": "The winter drive takes us through frosty Danish landscapes to Bovbjerg Lighthouse. We enjoy North Sea views and visit Gjellerodde Beach, which is peacefully quiet in winter. Afternoon is for exploring Lemvig, the warm church, and the museum. The day ends cozily with dinner at the winter harbor."
+          },
+          "stops": [
+            {
+              "name": "Bovbjerg Lighthouse",
+              "tip_5lang": {
+                "de": "Der Wind am Leuchtturm ist im Winter extrem schneidend.",
+                "hu": "A szél a világítótoronynál télen rendkívül metsző.",
+                "ro": "Vântul la far este extrem de tăios pe timpul iernii.",
+                "en": "The wind at the lighthouse is extremely biting in winter."
+              }
+            },
+            {
+              "name": "Cliff Edge Walk near Tørringhuse",
+              "tip_5lang": {
+                "de": "Die Wege an den Klippen können vereist sein.",
+                "hu": "A sziklák menti utak jegesek lehetnek.",
+                "ro": "Potecile de pe marginea faleză pot fi înghețate.",
+                "en": "Cliffside paths can be very icy and dangerous."
+              }
+            },
+            {
+              "name": "Gjellerodde Beach",
+              "tip_5lang": {
+                "de": "Genießen Sie die Einsamkeit des winterlichen Fjords.",
+                "hu": "Élvezze a téli fjord magányos nyugalmát.",
+                "ro": "Bucurați-vă de singurătatea fjordului hibernal.",
+                "en": "Enjoy the peaceful solitude of the winter fjord."
+              }
+            },
+            {
+              "name": "Arrive in Lemvig Center",
+              "tip_5lang": {
+                "de": "Die Standheizung ist nach den Fotostopps ein Segen.",
+                "hu": "Az állófűtés áldás a fotómegállók után.",
+                "ro": "Încălzirea auxiliară este o binecuvântare după opriri.",
+                "en": "Parking heaters are a blessing after outdoor photo stops."
+              }
+            },
+            {
+              "name": "Lemvig Church",
+              "tip_5lang": {
+                "de": "Besuchen Sie den Innenraum für einen Moment der Stille.",
+                "hu": "Látogasson el a belső térbe egy pillanatnyi csendért.",
+                "ro": "Vizitați interiorul pentru un moment de liniște.",
+                "en": "Step inside for a warm moment of silence."
+              }
+            },
+            {
+              "name": "Lemvig Museum",
+              "tip_5lang": {
+                "de": "Die Ausstellungen sind gut beheizt und informativ.",
+                "hu": "A kiállítások jól fűtöttek és informatívak.",
+                "ro": "Expozițiile sunt bine încălzite și informative.",
+                "en": "The exhibits are well-heated and very informative."
+              }
+            },
+            {
+              "name": "Dinner at the Harbour",
+              "tip_5lang": {
+                "de": "Ein warmer Platz am Fenster bietet 'Hygge' pur.",
+                "hu": "Egy meleg hely az ablaknál tiszta 'hygge' élmény.",
+                "ro": "Un loc cald la fereastră oferă pur 'hygge'.",
+                "en": "A warm window seat offers pure Danish 'hygge'."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in Dänemark bei Eis und Schnee Pflicht.",
+              "Führen Sie einen Eiskratzer und Frostschutzmittel mit.",
+              "Die Straßen können bei Sonnenuntergang schnell glatt werden.",
+              "Küstennebel kann die Sicht am Nachmittag stark einschränken."
+            ],
+            "hu": [
+              "Téli gumi kötelező Dániában jég és hó esetén.",
+              "Tartson a kocsiban jégkaparót és fagyállót.",
+              "Az utak napnyugtakor gyorsan lefagyhatnak.",
+              "A parti köd délután erősen korlátozhatja a látást."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii în Danemarca pe gheață.",
+              "Aveți la îndemână o răzuitoare de gheață și antigel.",
+              "Drumurile pot deveni rapid alunecoase la apus.",
+              "Ceața de coastă poate reduce vizibilitatea după-amiaza."
+            ],
+            "en": [
+              "Winter tires are mandatory in Denmark on icy roads.",
+              "Keep an ice scraper and anti-freeze in the car.",
+              "Roads can freeze over quickly after the sun sets.",
+              "Coastal fog can severely limit visibility in the afternoon."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1429,6 +1993,188 @@
           "Download a local public transport app for real-time schedules.",
           "Wave at the bus driver to let them know you want to board."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir kommen am Bahnhof Lemvig an und nutzen den Bus zum Hafen, um trocken zu bleiben. Vormittags besuchen wir das Kunstmuseum. Mittags genießen wir die Gastronomie am Hafen, während wir auf die nächste Verbindung warten. Nachmittags besichtigen wir die Kirche und das Museum im Zentrum, bevor uns der Bus zurück zum Bahnhof bringt.",
+            "hu": "A Lemvig vasútállomásra érkezünk, és busszal megyünk a kikötőbe, hogy szárazak maradjunk. Délelőtt a Vallásművészeti Múzeumot látogatjuk meg. Délben a kikötői gasztronómiát élvezzük, miközben a következő járatra várunk. Délután a templomot és a múzeumot nézzük meg, mielőtt a busz visszavisz az állomásra.",
+            "ro": "Sosim la gara Lemvig și luăm autobuzul spre port pentru a rămâne uscați. Dimineața vizităm muzeul de artă. La prânz ne bucurăm de gastronomia din port în timp ce așteptăm legătura. După-amiaza vizităm biserica și muzeul central înainte de a lua autobuzul înapoi.",
+            "en": "We arrive at Lemvig Station and take the bus to the harbor to stay dry. Morning is spent at the Museum of Religious Art. At noon, we enjoy harbor dining while waiting for connections. Afternoon includes the church and museum in the center before the bus takes us back to the station."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Lemvig Station",
+              "tip_5lang": {
+                "de": "Der Wartesaal bietet Schutz vor dem ersten Regenschauer.",
+                "hu": "A váróterem védelmet nyújt az első záporok elől.",
+                "ro": "Sala de așteptare oferă protecție împotriva ploii.",
+                "en": "The waiting room provides shelter from the first rain showers."
+              }
+            },
+            {
+              "name": "Bus ride to the Harbour",
+              "tip_5lang": {
+                "de": "Die Busse sind pünktlich und bringen Sie trocken ans Ziel.",
+                "hu": "A buszok pontosak és szárazon viszik a célhoz.",
+                "ro": "Autobuzele sunt punctuale și vă duc la destinație uscați.",
+                "en": "Buses are punctual and will get you there dry."
+              }
+            },
+            {
+              "name": "Museum of Religious Art",
+              "tip_5lang": {
+                "de": "Nur ein kurzer Fußweg von der Bushaltestelle.",
+                "hu": "Csak rövid gyalogút a buszmegállótól.",
+                "ro": "Doar o scurtă plimbare de la stația de autobuz.",
+                "en": "Just a short walk from the bus stop."
+              }
+            },
+            {
+              "name": "Lunch and Walk at the Harbour",
+              "tip_5lang": {
+                "de": "Die Restaurants sind in Busnähe für eine schnelle Flucht vor Regen.",
+                "hu": "Az éttermek buszközelben vannak az eső elöli gyors meneküléshez.",
+                "ro": "Restaurantele sunt aproape de bus pentru a scăpa rapid de ploaie.",
+                "en": "Restaurants are close to bus stops for a quick escape from rain."
+              }
+            },
+            {
+              "name": "Lemvig Church & Lemvig Museum",
+              "tip_5lang": {
+                "de": "Beide Ziele liegen nah beieinander, ideal für kurze Regenpausen.",
+                "hu": "Mindkét célpont közel van egymáshoz, ideális esőszünetekhez.",
+                "ro": "Ambele obiective sunt aproape, ideale pentru pauzele de ploaie.",
+                "en": "Both sites are close together, ideal for short rain breaks."
+              }
+            },
+            {
+              "name": "Bus ride back to the station",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Abfahrtszeiten per App, um Wartezeit im Regen zu meiden.",
+                "hu": "Ellenőrizze az indulást appon, hogy ne várjon az esőben.",
+                "ro": "Verificați orele în aplicație pentru a nu aștepta în ploaie.",
+                "en": "Check times via app to avoid waiting in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die 'Rejseplanen' App für Echtzeit-Infos.",
+              "Kaufen Sie Tickets vorab digital, um Hektik zu vermeiden.",
+              "Die Busbahnhöfe haben meist überdachte Wartebereiche.",
+              "Ein kleiner Taschenschirm passt in jedes Handgepäck."
+            ],
+            "hu": [
+              "Használja a 'Rejseplanen' alkalmazást valós idejű infókért.",
+              "Vigyen jegyet előre digitálisan a kapkodás elkerülésére.",
+              "A buszállomásokon általában van fedett váró.",
+              "Egy kis összecsukható esernyő minden táskában elfér."
+            ],
+            "ro": [
+              "Folosiți aplicația 'Rejseplanen' pentru info în timp real.",
+              "Cumpărați bilete digital în avans pentru a evita graba.",
+              "Stațiile de autobuz au de obicei zone de așteptare acoperite.",
+              "O umbrelă mică pliabilă încape în orice bagaj."
+            ],
+            "en": [
+              "Use the 'Rejseplanen' app for real-time transit info.",
+              "Buy digital tickets in advance to avoid any rush.",
+              "Most bus stations have covered waiting areas.",
+              "A small travel umbrella fits perfectly in your carry-on."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Vom Bahnhof Lemvig bringt uns der Bus ins winterliche Zentrum. Vormittags besuchen wir das Kunstmuseum und genießen den Blick auf den frostigen Fjord. Mittags wärmen wir uns in den Restaurants am Hafen auf. Nachmittags nutzen wir die Zeit für Kirche und Museum, bevor wir bei Einbruch der Dunkelheit den Bus zurück zum Bahnhof nehmen.",
+            "hu": "A Lemvig vasútállomástól busz visz be a téli központba. Délelőtt a művészeti múzeumban gyönyörködünk a fagyos fjordban. Délben a kikötői éttermekben melegszünk fel. Délután a templomot és a múzeumot látogatjuk meg, majd sötétedéskor busszal megyünk vissza az állomásra.",
+            "ro": "De la gara Lemvig luăm autobuzul spre centrul hibernal. Dimineața vizităm muzeul de artă și admirăm fjordul înghețat. La prânz ne încălzim în restaurantele din port. După-amiaza vizităm biserica și muzeul, iar la lăsarea serii luăm autobuzul înapoi.",
+            "en": "From Lemvig Station, the bus takes us to the wintery center. Morning is spent at the Art Museum enjoying frosty fjord views. At noon, we warm up in harbor restaurants. Afternoon is for the church and museum before taking the bus back to the station as darkness falls."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Lemvig Station",
+              "tip_5lang": {
+                "de": "Der Bahnhof ist beheizt und bietet Schutz vor Kälte.",
+                "hu": "Az állomás fűtött és védelmet nyújt a hideg ellen.",
+                "ro": "Gara este încălzită și oferă protecție împotriva frigului.",
+                "en": "The station is heated and provides shelter from the cold."
+              }
+            },
+            {
+              "name": "Bus ride to the Harbour",
+              "tip_5lang": {
+                "de": "Genießen Sie die warme Fahrt durch die Stadt.",
+                "hu": "Élvezze a meleg utazást a városon keresztül.",
+                "ro": "Bucurați-vă de călătoria călduroasă prin oraș.",
+                "en": "Enjoy the warm ride through the town."
+              }
+            },
+            {
+              "name": "Museum of Religious Art",
+              "tip_5lang": {
+                "de": "Die Garderobe ist ideal für schwere Wintermäntel.",
+                "hu": "A ruhatár ideális a nehéz télikabátoknak.",
+                "ro": "Garderoba este ideală pentru hainele groase de iarnă.",
+                "en": "The cloakroom is perfect for heavy winter coats."
+              }
+            },
+            {
+              "name": "Lunch and Walk at the Harbour",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit gemütlicher 'Hygge'-Einrichtung.",
+                "hu": "Válasszon hangulatos, 'hygge' berendezésű éttermet.",
+                "ro": "Alegeți un restaurant cu decor 'hygge' primitor.",
+                "en": "Pick a restaurant with a cozy 'hygge' interior."
+              }
+            },
+            {
+              "name": "Lemvig Church & Lemvig Museum",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich zwischen den Besichtigungen auf.",
+                "hu": "Melegedjen fel a két látnivaló között.",
+                "ro": "Încălziți-vă între cele două vizite.",
+                "en": "Warm up between the two sightseeing stops."
+              }
+            },
+            {
+              "name": "Bus ride back to the station",
+              "tip_5lang": {
+                "de": "Abends sind die Busse oft gut geheizt.",
+                "hu": "Este a buszok gyakran jól fűtöttek.",
+                "ro": "Seara, autobuzele sunt de obicei bine încălzite.",
+                "en": "Buses are usually well-heated in the evening."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Beachten Sie den Winterfahrplan, einige Linien fahren seltener.",
+              "Die Bahnhöfe sind die besten Orte, um auf Anschlüsse zu warten.",
+              "Tragen Sie warme Schuhe für die Wege zwischen den Haltestellen.",
+              "Digitale Tickets sparen Zeit bei kalten Fingern."
+            ],
+            "hu": [
+              "Ügyeljen a téli menetrendre, néhány járat ritkábban jár.",
+              "Az állomások a legjobb helyek a csatlakozásra váráshoz.",
+              "Viseljen meleg cipőt a megállók közötti gyalogláshoz.",
+              "A digitális jegy időt spórol, ha fázik a keze."
+            ],
+            "ro": [
+              "Atenție la orarul de iarnă, unele linii circulă mai rar.",
+              "Gările sunt cele mai bune locuri pentru a aștepta legăturile.",
+              "Purtați încălțăminte groasă pentru drumul dintre stații.",
+              "Biletele digitale economisesc timp când aveți mâinile reci."
+            ],
+            "en": [
+              "Check the winter schedule; some lines may run less often.",
+              "Stations are the best places to wait for your connections.",
+              "Wear warm boots for the walks between transit stops.",
+              "Digital tickets save time and hassle when your hands are cold."
+            ]
+          }
+        }
       }
     }
   }

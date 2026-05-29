@@ -386,6 +386,214 @@
           "Keep an eye out for the small alleys branching off the main square.",
           "Check the opening hours for the Mercator Museum in advance."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt auf dem Grote Markt, dem größten Platz Belgiens, wo die neugotische Fassade des Rathauses bei Regen besonders dramatisch wirkt. Mittags bietet das Mercator-Museum einen idealen, trockenen Zufluchtsort in die Welt der Kartographie. Am Nachmittag erkunden wir das Schloss Walburg; die Wassergräben verschmelzen mit dem Regen. Der Abend endet gemütlich in den beleuchteten Gassen nahe der Liebfrauenkirche.",
+            "hu": "Reggel a Grote Markt eső áztatta kövein kezdünk, ahol a Városháza neogótikus homlokzata alatt keresünk menedéket. Délben a Mercator Múzeum térképei között vészeljük át a felhőszakadást. Délután a Walburg-kastély vizes árka és a park párás ösvényei következnek. Estére a kivilágított templomtornyok látványa és a belváros esernyős sétája zárja a napot, mielőtt visszatérünk a szállásra.",
+            "ro": "Dimineața începe în Grote Markt, cea mai mare piață din Belgia, unde fațada primăriei arată dramatic sub ploaie. La prânz, Muzeul Mercator oferă un refugiu uscat perfect în lumea cartografiei. După-amiaza explorăm Castelul Walburg, ale cărui șanțuri cu apă se contopesc cu ploaia. Seara se încheie confortabil pe străzile luminate de lângă Biserica Maicii Domnului, sub protecția umbrelei.",
+            "en": "The morning starts on the Grote Markt, Belgium's largest square, where the Town Hall's facade looks striking under the rain. At noon, the Mercator Museum provides a perfect dry sanctuary into the world of maps. In the afternoon, we visit Walburg Castle, its moats blending with the rainfall. The evening concludes with a cozy walk near the illuminated Church of Our Lady, enjoying the rainy atmosphere."
+          },
+          "stops": [
+            {
+              "name": "Grote Markt (Main Square)",
+              "tip_4lang": {
+                "de": "Nutzen Sie die Arkaden der umliegenden Cafés als Regenschutz auf diesem riesigen Platz.",
+                "hu": "Használja a környező kávézók árkádjait menedékként ezen a hatalmas, nyílt téren.",
+                "ro": "Folosiți arcadele cafenelelor din jur pentru a vă adăposti de ploaie în această piață uriașă.",
+                "en": "Use the arcades of surrounding cafes as shelter from the rain on this massive, open square."
+              }
+            },
+            {
+              "name": "Sint-Niklaas Town Hall",
+              "tip_4lang": {
+                "de": "Der überdachte Eingangsbereich bietet einen guten Blick auf den regnerischen Markt.",
+                "hu": "A fedett bejárati rész kiváló kilátást nyújt az eső áztatta főtérre.",
+                "ro": "Zona de intrare acoperită oferă o vedere excelentă asupra pieței principale pluvioase.",
+                "en": "The covered entrance area provides a great vantage point over the rainy main square."
+              }
+            },
+            {
+              "name": "St. Nicholas' Church",
+              "tip_4lang": {
+                "de": "Ein ruhiger, trockener Ort, um die beeindruckenden Altäre und die Stille zu genießen.",
+                "hu": "Csendes és száraz helyszín a lenyűgöző oltárok és a belső nyugalom élvezetéhez.",
+                "ro": "Un loc liniștit și uscat pentru a admira altarele impresionante și liniștea interioară.",
+                "en": "A quiet, dry spot to enjoy the impressive altars and the inner tranquility."
+              }
+            },
+            {
+              "name": "Gerardus Mercator Museum",
+              "tip_4lang": {
+                "de": "Idealer Stopp bei starkem Regen; planen Sie hier mehr Zeit für die Globen-Sammlung ein.",
+                "hu": "Ideális megálló szakadó esőben; szánjon több időt a híres földgömbgyűjteményre.",
+                "ro": "Oprire ideală pe ploaie torențială; alocați mai mult timp pentru colecția de globuri.",
+                "en": "Ideal stop during heavy rain; plan extra time for the famous globe collection."
+              }
+            },
+            {
+              "name": "Church of Our Lady",
+              "tip_4lang": {
+                "de": "Die vergoldete Kuppel leuchtet auch bei grauem Regenwetter von weitem.",
+                "hu": "Az aranyozott kupola még szürke, esős időben is messziről ragyog.",
+                "ro": "Cupola aurită strălucește de la distanță chiar și pe vreme gri și ploioasă.",
+                "en": "The gilded dome shines from afar even in grey, rainy weather."
+              }
+            },
+            {
+              "name": "Walburg Castle",
+              "tip_4lang": {
+                "de": "Die Innenräume sind trocken, aber der Weg über die Brücke kann windig und nass sein.",
+                "hu": "A belső terek szárazak, de a hídon átvezető út szeles és vizes lehet.",
+                "ro": "Interioarele sunt uscate, dar drumul peste pod poate fi vântos și umed.",
+                "en": "The interiors are dry, but the walk across the bridge can be windy and wet."
+              }
+            },
+            {
+              "name": "Romain De Vidts Park",
+              "tip_4lang": {
+                "de": "Feste Schuhe sind wichtig, da die Parkwege bei Regen schlammig werden können.",
+                "hu": "Vízálló cipő ajánlott, mivel a park ösvényei esőben sárossá válhatnak.",
+                "ro": "Pantofii impermeabili sunt esențiali, deoarece potecile pot deveni noroioase.",
+                "en": "Waterproof shoes are essential as the park paths can get muddy in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine windfeste Jacke, da der Grote Markt sehr zugig sein kann.",
+              "Das Mercator-Museum ist der beste Ort, um eine längere Regenfront abzuwarten.",
+              "Das Einkaufszentrum Waasland ist eine gute überdachte Alternative für Pausen.",
+              "Achten Sie auf rutschige Pflastersteine in der Altstadt bei Nässe.",
+              "Ein Taschenschirm ist wegen der weiten, offenen Flächen unverzichtbar."
+            ],
+            "hu": [
+              "Viseljen szélálló kabátot, mert a Grote Markt nagyon huzatos lehet esőben.",
+              "A Mercator Múzeum a legjobb hely egy hosszabb esőfront kivárására.",
+              "A közeli Waasland bevásárlóközpont jó fedett alternatíva pihenéshez.",
+              "Vigyázzon a csúszós macskakövekre az óvárosban, ha nedvesek.",
+              "Az összecsukható esernyő elengedhetetlen a tágas, nyílt terek miatt."
+            ],
+            "ro": [
+              "Purtați o jachetă rezistentă la vânt, deoarece Grote Markt este foarte expusă.",
+              "Muzeul Mercator este cel mai bun loc pentru a aștepta trecerea unei ploi lungi.",
+              "Centrul comercial Waasland este o alternativă acoperită bună pentru pauze.",
+              "Atenție la pavajul alunecos din orașul vechi când este ud.",
+              "O umbrelă de buzunar este indispensabilă din cauza spațiilor largi deschise."
+            ],
+            "en": [
+              "Wear a windproof jacket, as Grote Markt can be very draughty in the rain.",
+              "The Mercator Museum is the best place to wait out a long rain front.",
+              "The Waasland Shopping Center is a good indoor alternative for breaks.",
+              "Watch out for slippery cobblestones in the old town when wet.",
+              "A pocket umbrella is essential due to the wide, open public spaces."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der frostige Morgen am Grote Markt wird durch die festliche Beleuchtung und den Duft von Waffeln erwärmt. Mittags suchen wir Schutz vor der Kälte in der Wärme der Museen und Kirchen. Am frühen Nachmittag taucht das tiefstehende Winterlicht das Schloss Walburg in eine märchenhafte Atmosphäre. Da es früh dunkel wird, genießen wir den beleuchteten Park, bevor wir den Tag in einer warmen Brasserie ausklingen lassen.",
+            "hu": "A fagyos reggelt a Grote Markton a díszkivilágítás és a gofri illata teszi barátságossá. Délben a múzeumok és templomok fűtött tereiben keresünk enyhülést a hideg elől. Kora délután a téli fények mesebeli hangulatba öltöztetik a Walburg-kastélyt. Mivel korán sötétedik, a kivilágított parkban teszünk egy sétát, majd egy meleg brasserie-ben zárjuk a napot.",
+            "ro": "Dimineața geroasă în Grote Markt este încălzită de iluminatul festiv și mirosul de vafe. La prânz, căutăm refugiu de frig în căldura muzeelor și bisericilor. După-amiaza devreme, lumina joasă de iarnă scaldă Castelul Walburg într-o atmosferă de basm. Deoarece se întunecă devreme, ne bucurăm de parcul iluminat înainte de a încheia ziua într-o braserie caldă.",
+            "en": "The frosty morning on Grote Markt is warmed by festive lights and the scent of waffles. At noon, we find refuge from the cold in the heated museums and churches. In the early afternoon, the low winter sun casts a fairy-tale glow over Walburg Castle. Since it gets dark early, we enjoy the illuminated park before ending the day in a cozy, warm brasserie."
+          },
+          "stops": [
+            {
+              "name": "Grote Markt (Main Square)",
+              "tip_4lang": {
+                "de": "Besuchen Sie im Dezember den Weihnachtsmarkt und genießen Sie einen Glühwein.",
+                "hu": "Decemberben látogassa meg a karácsonyi vásárt és igyon egy forró italt.",
+                "ro": "În decembrie, vizitați târgul de Crăciun și savurați o băutură caldă.",
+                "en": "In December, visit the Christmas market and enjoy a warm drink here."
+              }
+            },
+            {
+              "name": "Sint-Niklaas Town Hall",
+              "tip_4lang": {
+                "de": "Die Fassade ist im Winter oft festlich beleuchtet; ideal für Fotos in der Dämmerung.",
+                "hu": "A homlokzat télen gyakran díszkivilágítást kap; ideális fotótéma szürkületkor.",
+                "ro": "Fațada este adesea iluminată festiv iarna; ideală pentru poze la amurg.",
+                "en": "The facade is often festively lit in winter; ideal for photos at twilight."
+              }
+            },
+            {
+              "name": "St. Nicholas' Church",
+              "tip_4lang": {
+                "de": "Ein guter Ort, um sich kurz aufzuwärmen und die Krippenausstellung zu sehen.",
+                "hu": "Jó hely egy rövid felmelegedésre és a betlehemi jászol megtekintésére.",
+                "ro": "Un loc bun pentru a vă încălzi puțin și pentru a vedea ieslea de Crăciun.",
+                "en": "A good spot to warm up briefly and see the nativity scene display."
+              }
+            },
+            {
+              "name": "Gerardus Mercator Museum",
+              "tip_4lang": {
+                "de": "Die Garderobe bietet Platz für schwere Wintermäntel während Ihres Besuchs.",
+                "hu": "A ruhatárban kényelmesen leteheti nehéz téli kabátját a látogatás idejére.",
+                "ro": "Garderoba oferă spațiu pentru hainele groase de iarnă în timpul vizitei.",
+                "en": "The cloakroom offers space for heavy winter coats during your visit."
+              }
+            },
+            {
+              "name": "Church of Our Lady",
+              "tip_4lang": {
+                "de": "Die vergoldete Statue glänzt besonders schön im klaren Winterlicht.",
+                "hu": "Az aranyozott szobor különösen szépen csillog a tiszta téli fényben.",
+                "ro": "Statuia aurită strălucește deosebit de frumos în lumina clară de iarnă.",
+                "en": "The gilded statue shines beautifully in the clear winter light."
+              }
+            },
+            {
+              "name": "Walburg Castle",
+              "tip_4lang": {
+                "de": "Der gefrorene Wassergraben verleiht dem Wasserschloss eine besondere Magie.",
+                "hu": "A befagyott vizesárok különleges varázst kölcsönöz a vízi kastélynak.",
+                "ro": "Șanțul cu apă înghețat conferă castelului o magie aparte.",
+                "en": "The frozen moat gives the water castle a special, magical atmosphere."
+              }
+            },
+            {
+              "name": "Romain De Vidts Park",
+              "tip_4lang": {
+                "de": "Da es um 17:00 Uhr dunkel wird, genießen Sie die abendliche Parkbeleuchtung.",
+                "hu": "Mivel 17:00-kor sötétedik, élvezze a park esti díszkivilágítását.",
+                "ro": "Deoarece se întunecă la ora 17:00, bucurați-vă de iluminatul de seară al parcului.",
+                "en": "As it gets dark by 17:00, enjoy the evening park illumination."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Kleidung ist ein Muss; die weiten Flächen bieten wenig Schutz vor Kaltwind.",
+              "Sonnenuntergang ist im Dezember gegen 16:30 Uhr; planen Sie Fotos früh ein.",
+              "Probieren Sie lokale belgische Pralinen als Energiespender für zwischendurch.",
+              "Viele Cafés rund um den Markt haben im Winter Heizstrahler im Außenbereich.",
+              "Achten Sie auf Glatteis auf den Brücken rund um das Schloss Walburg."
+            ],
+            "hu": [
+              "Réteges öltözködés kötelező; a nagy terek nem védenek a hideg széltől.",
+              "A naplemente decemberben 16:30 körül van; a fotózást tervezze korábbra.",
+              "Kóstolja meg a helyi belga pralinékat, kiváló energiaforrás a hidegben.",
+              "A főtér körüli kávézók többsége fűtött terasszal várja a vendégeket.",
+              "Vigyázzon a jegesedésre a Walburg-kastély körüli hidakon."
+            ],
+            "ro": [
+              "Îmbrăcămintea groasă este obligatorie; spațiile largi nu protejează de vânt.",
+              "Apusul este în jur de 16:30 în decembrie; planificați fotografiile devreme.",
+              "Gustați pralinele belgiene locale pentru energie în timpul plimbării.",
+              "Multe cafenele din jurul pieței au încălzitoare exterioare iarna.",
+              "Atenție la polei pe podurile din jurul Castelului Walburg."
+            ],
+            "en": [
+              "Layered warm clothing is a must; the wide squares offer little wind protection.",
+              "Sunset is around 16:30 in December; plan your photography early.",
+              "Try local Belgian pralines as a perfect energy boost during your walk.",
+              "Many cafes around the market square have outdoor heaters in winter.",
+              "Watch out for ice on the bridges around Walburg Castle."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -730,6 +938,214 @@
           "Don't forget to lock your bike when leaving it unattended.",
           "Some areas of the Grote Markt may be restricted for cyclists, so dismount and walk."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine regnerische Radtour durch Sint-Niklaas erfordert gute Ausrüstung. Morgens flitzen wir über den Grote Markt zu den Kirchen im Zentrum. Mittags lassen wir die Räder sicher stehen, während wir das Mercator-Museum erkunden. Nachmittags führt die Route zum Schloss Walburg, wobei die nassen Wege Vorsicht erfordern. Der Tag endet mit einer kurzen Fahrt durch die glänzenden Straßen zum Bahnhof.",
+            "hu": "Egy esős bringatúra Sint-Niklaasban jó felszerelést igényel. Reggel gyorsan áttekerünk a Grote Markton a központi templomokhoz. Délben biztonságban lelakatoljuk a gépeket, amíg a Mercator Múzeumban időzünk. Délután a Walburg-kastély felé vesszük az irányt, a vizes utakon óvatosan haladva. A napot a csillogó aszfalton tett rövid tekeréssel zárjuk a vasútállomás felé.",
+            "ro": "O tură cu bicicleta prin Sint-Niklaas pe ploaie necesită echipament bun. Dimineața pedalăm rapid prin Grote Markt spre bisericile centrale. La prânz, lăsăm bicicletele în siguranță cât timp explorăm Muzeul Mercator. După-amiaza, ruta ne duce spre Castelul Walburg, cu atenție sporită pe drumurile ude. Ziua se încheie cu o scurtă plimbare spre gară pe străzile lucioase.",
+            "en": "A rainy bike tour through Sint-Niklaas requires proper gear. In the morning, we zip across Grote Markt to the central churches. At noon, we park the bikes securely while exploring the Mercator Museum. Afternoon takes us toward Walburg Castle, riding carefully on wet paths. The day ends with a short ride through glistening streets back towards the station area."
+          },
+          "stops": [
+            {
+              "name": "Grote Markt & Town Hall",
+              "tip_4lang": {
+                "de": "Vorsicht beim Bremsen auf dem Kopfsteinpflaster; es wird bei Regen sehr rutschig.",
+                "hu": "Óvatosan fékezzen a macskaköveken; esőben rendkívül csúszóssá válnak.",
+                "ro": "Atenție la frânare pe pavaj; devine foarte alunecos pe timp de ploaie.",
+                "en": "Be careful when braking on the cobblestones; they become very slippery when wet."
+              }
+            },
+            {
+              "name": "St. Nicholas' Church",
+              "tip_4lang": {
+                "de": "Nutzen Sie die Fahrradständer in der Nähe des Eingangs für einen schnellen Stopp.",
+                "hu": "Használja a bejárat közeli kerékpártárolókat a gyors és száraz megálláshoz.",
+                "ro": "Folosiți suporturile de biciclete de lângă intrare pentru o oprire rapidă.",
+                "en": "Use the bike racks near the entrance for a quick and dry stop."
+              }
+            },
+            {
+              "name": "Church of Our Lady",
+              "tip_4lang": {
+                "de": "Achten Sie auf die Straßenbahnschienen in der Umgebung, wenn der Boden nass ist.",
+                "hu": "Ügyeljen a környező villamospályákra, ha nedves az úttest.",
+                "ro": "Atenție la șinele de tramvai din zonă când carosabilul este umed.",
+                "en": "Watch out for tram tracks in the vicinity when the ground is wet."
+              }
+            },
+            {
+              "name": "Gerardus Mercator Museum",
+              "tip_4lang": {
+                "de": "Sichern Sie Ihr Gepäck mit wasserdichten Taschen; der Parkplatz ist nicht überdacht.",
+                "hu": "Használjon vízálló táskát; a múzeumi kerékpárparkoló nem fedett.",
+                "ro": "Asigurați bagajele cu genți impermeabile; parcarea nu este acoperită.",
+                "en": "Secure your luggage with waterproof bags; the bike parking is not covered."
+              }
+            },
+            {
+              "name": "Castrohof",
+              "tip_4lang": {
+                "de": "Ein kurzer Fotostopp; die Backsteinfassade wirkt im Regen besonders farbintensiv.",
+                "hu": "Rövid fotómegálló; a téglafalak színe esőben még intenzívebbnek tűnik.",
+                "ro": "O scurtă oprire foto; fațada de cărămidă pare mai intensă pe ploaie.",
+                "en": "A brief photo stop; the brick facade looks particularly vibrant in the rain."
+              }
+            },
+            {
+              "name": "Walburg Castle",
+              "tip_4lang": {
+                "de": "Fahren Sie im Park langsam; nasses Laub auf den Wegen ist eine Rutschgefahr.",
+                "hu": "Lassan haladjon a parkban; a vizes levelek az úton csúszásveszélyesek.",
+                "ro": "Pedalați încet în parc; frunzele ude de pe poteci pot fi alunecoase.",
+                "en": "Ride slowly in the park; wet leaves on the paths are a slipping hazard."
+              }
+            },
+            {
+              "name": "Romain De Vidts Park",
+              "tip_4lang": {
+                "de": "Stellen Sie das Rad unter Bäumen ab, um den Sattel beim Erkunden trocken zu halten.",
+                "hu": "Parkoljon fák alatt, hogy az ülés száraz maradjon, amíg sétál egyet.",
+                "ro": "Parcați sub copaci pentru a păstra șaua uscată în timp ce explorați pe jos.",
+                "en": "Park under trees to keep the saddle dry while you explore on foot."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vollständige Regenkleidung inklusive Gamaschen wird dringend empfohlen.",
+              "Prüfen Sie Ihre Bremsbeläge vor der Fahrt; Nässe verlängert den Bremsweg.",
+              "Vermeiden Sie Pfützen, da diese tiefe Schlaglöcher verbergen können.",
+              "Ein Sattelüberzug aus Plastik hält Ihren Sitz bei den Stopps trocken.",
+              "Wischen Sie die Felgen nach der Fahrt ab, um Korrosion zu vermeiden."
+            ],
+            "hu": [
+              "Teljes esőruházat és kamásli használata erősen ajánlott a túrához.",
+              "Ellenőrizze a fékeket indulás előtt; a nedvesség növeli a féktávot.",
+              "Kerülje a tócsákat, mert mély kátyúkat rejthetnek az útburkolaton.",
+              "Egy műanyag nyereghuzat szárazon tartja az ülést a megállók alatt.",
+              "A túra után érdemes áttörölni a felniket a korrózió megelőzése érdekében."
+            ],
+            "ro": [
+              "Se recomandă echipament complet de ploaie, inclusiv protecții pentru pantofi.",
+              "Verificați frânele înainte de plecare; umezeala mărește distanța de frânare.",
+              "Evitați bălțile, deoarece pot ascunde gropi adânci în carosabil.",
+              "O husă de plastic pentru șa vă va menține locul uscat în timpul opririlor.",
+              "Ștergeți jantele după tură pentru a preveni coroziunea."
+            ],
+            "en": [
+              "Full rain gear including shoe covers is highly recommended for this tour.",
+              "Check your brakes before starting; wetness increases the braking distance.",
+              "Avoid puddles as they can hide deep potholes in the road surface.",
+              "A plastic saddle cover will keep your seat dry during stops.",
+              "Wipe down your rims after the ride to prevent corrosion."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radeln in Sint-Niklaas bietet klare Luft und leere Wege. Morgens radeln wir dick eingepackt zum Grote Markt, wo uns die Weihnachtsbeleuchtung begrüßt. Mittags wärmen wir uns im Mercator-Museum auf, während die Räder draußen in der Kälte warten. Die Nachmittagstour zum Schloss Walburg führt durch den frostigen Park. Bei Einbruch der Dunkelheit kehren wir mit eingeschaltetem Licht sicher zurück.",
+            "hu": "A téli bringázás Sint-Niklaasban friss levegőt és üres utakat kínál. Reggel jól felöltözve tekerünk a Grote Marktra, ahol az ünnepi fények fogadnak. Délben a Mercator Múzeumban melegszünk fel, amíg a gépek a hidegben várakoznak. A délutáni túra a Walburg-kastélyhoz a fagyos parkon át vezet. Sötétedéskor, bekapcsolt lámpákkal, biztonságban térünk vissza a központba.",
+            "ro": "Pedalatul pe timp de iarnă în Sint-Niklaas oferă aer curat și drumuri libere. Dimineața, bine înfofoliți, mergem spre Grote Markt sub luminile festive. La prânz, ne încălzim în Muzeul Mercator în timp ce bicicletele așteaptă în frig. Turul de după-amiază spre Castelul Walburg trece prin parcul înghețat. La lăsarea serii, revenim în siguranță cu luminile aprinse.",
+            "en": "Winter cycling in Sint-Niklaas offers crisp air and quiet paths. In the morning, wrapped up warm, we ride to Grote Markt greeted by festive lights. At noon, we warm up in the Mercator Museum while the bikes wait in the cold. The afternoon tour to Walburg Castle leads through the frosty park. As darkness falls, we return safely with lights switched on."
+          },
+          "stops": [
+            {
+              "name": "Grote Markt & Town Hall",
+              "tip_4lang": {
+                "de": "Achten Sie auf vereiste Stellen, besonders im Schatten des Rathauses.",
+                "hu": "Vigyázzon a jeges foltokra, különösen a Városháza árnyékos oldalán.",
+                "ro": "Atenție la porțiunile înghețate, mai ales la umbra primăriei.",
+                "en": "Watch out for icy patches, especially in the shadows of the Town Hall."
+              }
+            },
+            {
+              "name": "St. Nicholas' Church",
+              "tip_4lang": {
+                "de": "Die Fahrradständer können bei Frost klemmen; sprühen Sie ggf. Schloßspray auf.",
+                "hu": "A kerékpárzárak fagyban beragadhatnak; érdemes jégoldót használni.",
+                "ro": "Încuietorile pot îngheța; ar putea fi util un spray de dezghețare.",
+                "en": "Bike locks can freeze up; consider using some de-icer spray if needed."
+              }
+            },
+            {
+              "name": "Church of Our Lady",
+              "tip_4lang": {
+                "de": "Ein kurzer Stopp zum Aufwärmen im Inneren ist im Winter sehr willkommen.",
+                "hu": "Télen egy rövid benti megálló a felmelegedéshez nagyon jól tud esni.",
+                "ro": "O scurtă oprire pentru încălzire în interior este binevenită iarna.",
+                "en": "A short indoor stop to warm up is very welcome during winter."
+              }
+            },
+            {
+              "name": "Gerardus Mercator Museum",
+              "tip_4lang": {
+                "de": "Parken Sie Ihr Rad sicher; Metallteile werden bei Frost extrem kalt.",
+                "hu": "Parkoljon biztonságosan; a fém alkatrészek extrém módon lehűlnek fagyban.",
+                "ro": "Parcați în siguranță; părțile metalice devin extrem de reci la ger.",
+                "en": "Park safely; metal parts of the bike become extremely cold in freezing weather."
+              }
+            },
+            {
+              "name": "Castrohof",
+              "tip_4lang": {
+                "de": "Ein schneller Halt; genießen Sie die winterliche Ruhe in diesem historischen Viertel.",
+                "hu": "Gyors megálló; élvezze a téli nyugalmat ebben a történelmi negyedben.",
+                "ro": "O oprire rapidă; bucurați-vă de liniștea iernii în acest cartier istoric.",
+                "en": "A quick halt; enjoy the winter silence in this historic neighborhood."
+              }
+            },
+            {
+              "name": "Walburg Castle",
+              "tip_4lang": {
+                "de": "Vorsicht auf den Brücken; sie frieren oft zuerst ein und sind glatt.",
+                "hu": "Vigyázzon a hidakon; gyakran ezek fagynak le először és nagyon csúsznak.",
+                "ro": "Atenție pe poduri; adesea acestea îngheață primele și sunt alunecoase.",
+                "en": "Be careful on the bridges; they often freeze first and become very slippery."
+              }
+            },
+            {
+              "name": "Romain De Vidts Park",
+              "tip_4lang": {
+                "de": "Schalten Sie ab 16:30 Uhr das Licht ein, um für Fußgänger sichtbar zu sein.",
+                "hu": "16:30 után kapcsolja be a lámpákat, hogy látható maradjon a gyalogosoknak.",
+                "ro": "Aprindeți luminile după ora 16:30 pentru a fi vizibili pentru pietoni.",
+                "en": "Turn on your lights after 16:30 to stay visible to pedestrians."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie warme Handschuhe, da die Hände am Lenker schnell auskühlen.",
+              "Prüfen Sie den Reifendruck; etwas weniger Druck bietet mehr Grip auf Eis.",
+              "Die Batterien von E-Bikes und Lichtern entladen sich bei Kälte schneller.",
+              "Tragen Sie eine Mütze unter dem Helm, um den Wärmeverlust zu stoppen.",
+              "Vermeiden Sie hastige Lenkbewegungen auf möglicherweise glatten Wegen."
+            ],
+            "hu": [
+              "Viseljen meleg kesztyűt, mert a kezek a kormányon gyorsan áthűlnek.",
+              "Ellenőrizze a guminyomást; a kicsit kisebb nyomás jobb tapadást ad jégen.",
+              "Az e-bike-ok és lámpák akkumulátorai hidegben gyorsabban merülnek.",
+              "Viseljen vékony sapkát a sisak alatt a hőveszteség csökkentésére.",
+              "Kerülje a hirtelen kormánymozdulatokat az esetlegesen jeges utakon."
+            ],
+            "ro": [
+              "Purtați mănuși groase, deoarece mâinile pe ghidon se răcesc rapid.",
+              "Verificați presiunea; o presiune puțin mai mică oferă aderență mai bună pe gheață.",
+              "Bateriile bicicletelor electrice și ale luminilor se descarcă mai repede la ger.",
+              "Purtați o căciulă sub cască pentru a preveni pierderea căldurii.",
+              "Evitați manevrele bruște de direcție pe drumurile potențial alunecoase."
+            ],
+            "en": [
+              "Wear warm gloves, as hands on the handlebar cool down very quickly.",
+              "Check tire pressure; slightly lower pressure offers better grip on ice.",
+              "E-bike and light batteries discharge faster in cold temperatures.",
+              "Wear a thin thermal cap under your helmet to stop heat loss.",
+              "Avoid sudden steering movements on potentially icy paths."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1047,6 +1463,196 @@
           "Traffic can be busy during peak hours.",
           "Plan your route between clusters to minimize driving time."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Sint-Niklaas bei Regen komfortabel zu erkunden. Wir parken nahe dem Grote Markt und nutzen die kurzen Wege zum Rathaus. Mittags fahren wir zum Mercator-Museum, wo das Auto im Trockenen wartet. Die Nachmittagstour zum Schloss Walburg führt uns durch die regenverhangene Stadtlandschaft. Der Tag endet entspannt mit einer Fahrt durch die beleuchteten, nassen Straßen der Innenstadt.",
+            "hu": "Autóval Sint-Niklaas esőben is kényelmesen felfedezhető. A Grote Markt közelében parkolunk, kihasználva a rövid sétát a Városházáig. Délben a Mercator Múzeumhoz hajtunk, ahol az autó védelmet nyújt a záporok között. A délutáni túra a Walburg-kastélyhoz a város eső áztatta utcáin át vezet. A napot az óváros kivilágított, vizes aszfaltján tett autózással zárjuk.",
+            "ro": "Cu mașina, Sint-Niklaas este confortabil de explorat pe ploaie. Parcăm lângă Grote Markt și profităm de distanța scurtă până la primărie. La prânz, conducem spre Muzeul Mercator, unde mașina oferă protecție între reprizele de ploaie. Turul de după-amiază spre Castelul Walburg ne poartă prin peisajul urban pluvial. Ziua se încheie relaxat cu o plimbare prin centrul luminat.",
+            "en": "Exploring Sint-Niklaas by car is comfortable even in the rain. We park near Grote Markt, taking advantage of short walks to the Town Hall. At noon, we drive to the Mercator Museum, where the car provides shelter between showers. The afternoon trip to Walburg Castle takes us through the rain-veiled cityscape. The day ends with a relaxed drive through the illuminated, wet streets of the center."
+          },
+          "stops": [
+            {
+              "name": "City Center Parking & Grote Markt",
+              "tip_4lang": {
+                "de": "Nutzen Sie Tiefgaragen, um direkt im Trockenen auszusteigen.",
+                "hu": "Használja a mélygarázsokat, hogy száraz helyen szállhasson ki az autóból.",
+                "ro": "Folosiți parcările subterane pentru a coborî direct la adăpost.",
+                "en": "Use underground parking garages to exit the car directly in the dry."
+              }
+            },
+            {
+              "name": "Town Hall & St. Nicholas' Church",
+              "tip_4lang": {
+                "de": "Parken Sie auf dem Grote Markt (sofern erlaubt), um die Wege zu minimieren.",
+                "hu": "Parkoljon a Grote Markton (ha engedélyezett), hogy minimalizálja a gyaloglást.",
+                "ro": "Parcați în Grote Markt (unde este permis) pentru a minimiza mersul pe jos.",
+                "en": "Park on Grote Markt (where permitted) to minimize walking distances."
+              }
+            },
+            {
+              "name": "Gerardus Mercator Museum",
+              "tip_4lang": {
+                "de": "Es gibt Parkplätze direkt vor dem Museum; halten Sie Kleingeld bereit.",
+                "hu": "Közvetlenül a múzeum előtt van parkoló; legyen kéznél aprópénz.",
+                "ro": "Există locuri de parcare chiar în fața muzeului; aveți mărunt la îndemână.",
+                "en": "There are parking spaces directly in front of the museum; keep change ready."
+              }
+            },
+            {
+              "name": "Walburg Parking & Castle",
+              "tip_4lang": {
+                "de": "Der Parkplatz ist nah am Schloss, aber der Weg im Park kann pfützig sein.",
+                "hu": "A parkoló közel van a kastélyhoz, de a parki út tócsás lehet.",
+                "ro": "Parcarea este aproape de castel, dar aleea din parc poate avea bălți.",
+                "en": "The parking is close to the castle, but the park path can be puddled."
+              }
+            },
+            {
+              "name": "Romain De Vidts Park",
+              "tip_4lang": {
+                "de": "Lassen Sie Regenschirme im Auto griffbereit für den Spaziergang.",
+                "hu": "Tartsa az esernyőket az autóban, könnyen elérhető helyen a sétához.",
+                "ro": "Lăsați umbrelele la îndemână în mașină pentru plimbarea în parc.",
+                "en": "Keep umbrellas within reach in the car for your park walk."
+              }
+            },
+            {
+              "name": "Church of Our Lady",
+              "tip_4lang": {
+                "de": "Kurzparkzonen in der Nähe ermöglichen einen schnellen, trockenen Besuch.",
+                "hu": "A közeli rövid távú parkolózónák gyors és száraz látogatást tesznek lehetővé.",
+                "ro": "Zonele de parcare pe termen scurt permit o vizită rapidă și uscată.",
+                "en": "Short-term parking zones nearby allow for a quick and dry visit."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf schlechte Sicht bei starkem Regen in den engen Gassen.",
+              "Nutzen Sie die Park-App '4411', um im Auto bezahlen zu können.",
+              "Die Grote Markt Tiefgarage ist der zentralste und trockenste Punkt.",
+              "Vermeiden Sie das Fahren durch tiefe Pfützen am Straßenrand.",
+              "Halten Sie ein Mikrofasertuch bereit, um beschlagene Scheiben zu reinigen."
+            ],
+            "hu": [
+              "Vigyázzon a rossz látási viszonyokra szakadó esőben a szűk utcákban.",
+              "Használja a '4411' parkolási appot, így az autóból is fizethet.",
+              "A Grote Markt mélygarázs a legközpontibb és legszárazabb kiindulópont.",
+              "Kerülje a mély tócsákon való áthajtást az út szélén.",
+              "Tartson mikroszálas kendőt az autóban a bepárásodott szélvédőhöz."
+            ],
+            "ro": [
+              "Atenție la vizibilitatea redusă pe ploaie torențială în zonele înguste.",
+              "Folosiți aplicația '4411' pentru parcare pentru a plăti din mașină.",
+              "Parcarea subterană Grote Markt este cel mai central și uscat punct.",
+              "Evitați conducerea prin bălți adânci la marginea carosabilului.",
+              "Aveți la îndemână o lavetă de microfibră pentru geamurile aburite."
+            ],
+            "en": [
+              "Watch out for poor visibility during heavy rain in narrow streets.",
+              "Use the parking app '4411' to pay for parking from inside the car.",
+              "The Grote Markt underground parking is the most central and dry spot.",
+              "Avoid driving through deep puddles at the edge of the road.",
+              "Keep a microfiber cloth ready to clean fogged-up windows."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Autofahrt durch Sint-Niklaas ist sicher und warm. Wir starten am Grote Markt, wo wir das festliche Treiben aus dem beheizten Wagen beobachten können. Mittags bietet die Fahrt zum Mercator-Museum eine kurze Aufwärmphase. Der Besuch des Schlosses Walburg im Winterlicht ist ein Highlight, bevor wir bei einsetzender Dunkelheit die stimmungsvoll beleuchtete Liebfrauenkirche ansteuern.",
+            "hu": "A téli autózás Sint-Niklaasban biztonságos és meleg élmény. A Grote Markton kezdünk, ahol a fűtött utastérből is megcsodálhatjuk az ünnepi forgatagot. Délben a Mercator Múzeumhoz vezető út rövid felmelegedést kínál. A Walburg-kastély látogatása a téli fényekben igazi fénypont, mielőtt a sötétedéskor kivilágított Liebfrauenkirche felé vesszük az irányt.",
+            "ro": "O călătorie cu mașina iarna prin Sint-Niklaas este sigură și caldă. Începem în Grote Markt, unde putem observa atmosfera festivă din mașina încălzită. La prânz, drumul spre Muzeul Mercator oferă o scurtă fază de încălzire. Vizitarea Castelului Walburg în lumina iernii este un punct culminant înainte de a merge spre biserica iluminată.",
+            "en": "A winter drive through Sint-Niklaas is safe and warm. We start at Grote Markt, where we can observe the festive activities from the heated car. At noon, the drive to the Mercator Museum offers a short warming phase. Visiting Walburg Castle in the winter light is a highlight before heading to the atmospherically lit Church of Our Lady at dusk."
+          },
+          "stops": [
+            {
+              "name": "City Center Parking & Grote Markt",
+              "tip_4lang": {
+                "de": "Prüfen Sie, ob Ihr Parkplatz schneefrei ist, um beim Aussteigen nicht auszurutschen.",
+                "hu": "Ellenőrizze, hogy a parkolóhely hómentes-e, nehogy kiszálláskor elcsússzon.",
+                "ro": "Verificați dacă locul de parcare este curățat de zăpadă pentru a nu aluneca.",
+                "en": "Check if your parking spot is clear of snow to avoid slipping when exiting."
+              }
+            },
+            {
+              "name": "Town Hall & St. Nicholas' Church",
+              "tip_4lang": {
+                "de": "Die Parkhäuser sind im Winter oft voll; planen Sie Zeit für die Suche ein.",
+                "hu": "A parkolóházak télen gyakran tele vannak; szánjon időt a keresgélésre.",
+                "ro": "Parcările sunt adesea pline iarna; alocați timp pentru căutare.",
+                "en": "Parking garages are often full in winter; allow extra time for searching."
+              }
+            },
+            {
+              "name": "Gerardus Mercator Museum",
+              "tip_4lang": {
+                "de": "Nutzen Sie die Sitzheizung auf dem Weg zum nächsten Ziel zum Aufwärmen.",
+                "hu": "Használja az ülésfűtést a következő célpont felé útközben a felmelegedéshez.",
+                "ro": "Folosiți încălzirea în scaune pe drumul spre următoarea destinație.",
+                "en": "Use the seat heating on the way to your next destination to warm up."
+              }
+            },
+            {
+              "name": "Walburg Parking & Castle",
+              "tip_4lang": {
+                "de": "Vorsicht vor gefrorenem Tau auf den Parkplatzmarkierungen.",
+                "hu": "Vigyázzon a parkoló felfestésein lévő fagyott pára miatt, mert csúszhat.",
+                "ro": "Atenție la bruma înghețată de pe marcajele locurilor de parcare.",
+                "en": "Watch out for frozen dew on the parking lot markings as it can be slippery."
+              }
+            },
+            {
+              "name": "Romain De Vidts Park",
+              "tip_4lang": {
+                "de": "Schalten Sie das Licht beim Parken ein, um im winterlichen Grau gesehen zu werden.",
+                "hu": "Parkoláskor hagyja bekapcsolva a lámpákat a téli szürkeségben a láthatóságért.",
+                "ro": "Porniți luminile în timpul parcării pentru a fi văzuți în griul iernii.",
+                "en": "Keep lights on during parking to stay visible in the winter gloom."
+              }
+            },
+            {
+              "name": "Church of Our Lady",
+              "tip_4lang": {
+                "de": "Ein kurzer Fußweg vom Auto zur Kirche ist bei Frost gut machbar.",
+                "hu": "Egy rövid séta az autótól a templomig fagyos időben is jól bírható.",
+                "ro": "O scurtă plimbare de la mașină la biserică este ușor de făcut pe ger.",
+                "en": "A short walk from the car to the church is manageable even in freezing weather."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind bei Temperaturen unter 7 Grad in Belgien ratsam.",
+              "Füllen Sie Frostschutzmittel in die Scheibenwaschanlage.",
+              "Achten Sie auf Glatteiswarnungen im Radio (VRT NWS).",
+              "Halten Sie eine Decke und einen Eiskratzer im Kofferraum bereit.",
+              "Planen Sie mehr Zeit für die Parkplatzsuche am Grote Markt ein."
+            ],
+            "hu": [
+              "7 fok alatti hőmérsékletnél már javasolt a téli gumi használata Belgiumban.",
+              "Töltse fel a szélvédőmosót fagyálló folyadékkal indulás előtt.",
+              "Figyelje az útinform jégre vonatkozó figyelmeztetéseit a rádióban.",
+              "Tartson takarót és jégkaparót a csomagtartóban vészhelyzetre.",
+              "Szánjon több időt a parkolásra a Grote Markt környékén."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt recomandate în Belgia sub 7 grade Celsius.",
+              "Umpleți rezervorul de lichid de parbriz cu soluție anti-îngheț.",
+              "Urmăriți avertizările de polei la radio sau pe aplicațiile meteo.",
+              "Păstrați o pătură și o răzuitoare de gheață în portbagaj.",
+              "Alocați mai mult timp pentru căutarea unui loc de parcare lângă Grote Markt."
+            ],
+            "en": [
+              "Winter tires are advisable in Belgium when temperatures drop below 7°C.",
+              "Refill your windshield washer fluid with anti-freeze before starting.",
+              "Listen for black ice warnings on the radio (VRT NWS).",
+              "Keep a blanket and an ice scraper in the trunk for emergencies.",
+              "Plan extra time for parking near the busy Grote Markt."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1367,6 +1973,196 @@
           "Most buses are wheelchair accessible.",
           "Keep change handy for tickets if buying on board."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem öffentlichen Nahverkehr erreichen wir Sint-Niklaas auch bei Regen trocken. Vom Bahnhof bringen uns Busse direkt zum Grote Markt. Mittags schützt uns der Bus auf dem Weg zum Mercator-Museum vor Güssen. Der Besuch des Schlosses Walburg ist durch nahegelegene Haltestellen auch bei Nässe angenehm. Den Abend lassen wir in der beleuchteten Innenstadt ausklingen, bevor wir den Zug zurück nehmen.",
+            "hu": "Tömegközlekedéssel Sint-Niklaas esőben is kényelmesen elérhető. A vasútállomástól buszok visznek közvetlenül a Grote Marktra. Délben a busz véd meg minket a záporoktól a Mercator Múzeum felé útközben. A Walburg-kastély látogatása a közeli megállóknak köszönhetően nedves időben is kellemes. Az estét a kivilágított belvárosban zárjuk, mielőtt felszállunk a hazatartó vonatra.",
+            "ro": "Cu transportul public, ajungem la Sint-Niklaas uscați chiar și pe ploaie. De la gară, autobuzele ne duc direct în Grote Markt. La prânz, autobuzul ne protejează de averse în drum spre Muzeul Mercator. Vizitarea Castelului Walburg este plăcută chiar și pe umezeală datorită stațiilor din apropiere. Încheiem seara în centrul iluminat înainte de a lua trenul înapoi.",
+            "en": "Public transit makes reaching Sint-Niklaas easy and dry, even in the rain. From the station, buses take us directly to Grote Markt. At noon, the bus protects us from showers on the way to the Mercator Museum. Visiting Walburg Castle is comfortable despite the wet weather thanks to nearby stops. We end the evening in the lit center before catching the train back."
+          },
+          "stops": [
+            {
+              "name": "Central Station & Grote Markt",
+              "tip_4lang": {
+                "de": "Die Bahnhofshalle bietet perfekten Schutz beim Warten auf den Anschluss.",
+                "hu": "A vasútállomás csarnoka tökéletes menedék a csatlakozásra várva.",
+                "ro": "Hala gării oferă adăpost perfect în timp ce așteptați conexiunea.",
+                "en": "The station hall provides perfect shelter while waiting for your connection."
+              }
+            },
+            {
+              "name": "Town Hall & St. Nicholas' Church",
+              "tip_4lang": {
+                "de": "Nutzen Sie die überdachten Bushaltestellen direkt am Markt.",
+                "hu": "Használja a közvetlenül a főtéren található fedett buszmegállókat.",
+                "ro": "Folosiți stațiile de autobuz acoperite direct din piața principală.",
+                "en": "Use the covered bus stops located directly on the main square."
+              }
+            },
+            {
+              "name": "Gerardus Mercator Museum",
+              "tip_4lang": {
+                "de": "Der Bus hält fast vor der Tür; so bleiben Sie auf dem Weg ins Museum trocken.",
+                "hu": "A busz szinte az ajtó előtt áll meg; így szárazon juthat be a múzeumba.",
+                "ro": "Autobuzul oprește aproape în față; astfel rămâneți uscați până la muzeu.",
+                "en": "The bus stops almost at the door; keeping you dry on your way into the museum."
+              }
+            },
+            {
+              "name": "Park Stop & Walburg Castle",
+              "tip_4lang": {
+                "de": "Warten Sie unter dem Unterstand der Haltestelle 'Park', bis der Regen nachlässt.",
+                "hu": "Várjon a 'Park' megálló fedett beállója alatt, amíg alábbhagy az eső.",
+                "ro": "Așteptați sub copertina stației 'Park' până se mai potolește ploaia.",
+                "en": "Wait under the shelter of the 'Park' stop until the rain eases off."
+              }
+            },
+            {
+              "name": "Romain De Vidts Park",
+              "tip_4lang": {
+                "de": "Ein kurzer, nasser Spaziergang ist unvermeidlich; Schirm bereithalten.",
+                "hu": "Egy rövid esős séta elkerülhetetlen; tartsa készenlétben az esernyőjét.",
+                "ro": "O scurtă plimbare prin ploaie este inevitabilă; aveți umbrela pregătită.",
+                "en": "A short rainy walk is inevitable here; keep your umbrella ready."
+              }
+            },
+            {
+              "name": "Church of Our Lady",
+              "tip_4lang": {
+                "de": "Die Linie zum Bahnhof fährt regelmäßig von hier ab; ideal bei Regen.",
+                "hu": "A pályaudvar felé tartó vonal rendszeresen indul innen; ideális esőben.",
+                "ro": "Linia spre gară pleacă regulat de aici; ideal pe timp de ploaie.",
+                "en": "The line back to the station leaves regularly from here; ideal in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die De Lijn App für Echtzeit-Infos bei wetterbedingten Verspätungen.",
+              "Fahrkarten können kontaktlos im Bus oder am Automaten gekauft werden.",
+              "Die Züge zwischen Antwerpen und Gent halten hier alle 30 Minuten.",
+              "Halten Sie Ihren Schirm beim Einsteigen in den Bus geschlossen und gesichert.",
+              "Bahnhöfe in Belgien sind oft zugig; kleiden Sie sich warm gegen Zugluft."
+            ],
+            "hu": [
+              "Használja a De Lijn alkalmazást a valós idejű menetrendi infókért.",
+              "A jegyeket érintésmentesen a buszon vagy automatából is megveheti.",
+              "Az Antwerpen és Gent közötti vonatok 30 percenként állnak meg itt.",
+              "A buszra szálláskor rázza le és csukja össze az esernyőjét.",
+              "A belga állomások gyakran huzatosak; öltözzön rétegesen ellenük."
+            ],
+            "ro": [
+              "Folosiți aplicația De Lijn pentru informații în timp real despre întârzieri.",
+              "Biletele pot fi cumpărate contactless în autobuz sau de la automate.",
+              "Trenurile între Antwerpen și Gent opresc aici la fiecare 30 de minute.",
+              "Țineți umbrela închisă și asigurată când urcați în autobuz.",
+              "Gările din Belgia sunt adesea expuse curentului; îmbrăcați-vă gros."
+            ],
+            "en": [
+              "Use the De Lijn app for real-time info on weather-related delays.",
+              "Tickets can be bought contactless on the bus or at vending machines.",
+              "Trains between Antwerp and Ghent stop here every 30 minutes.",
+              "Keep your umbrella closed and secured when boarding the bus.",
+              "Stations in Belgium are often draughty; dress warmly against the wind."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterreisen mit der Bahn nach Sint-Niklaas sind entspannt und warm. Vom modernen Bahnhof bringen uns geheizte Busse zum winterlichen Grote Markt. Mittags genießen wir die Fahrt zum Mercator-Museum als Pause von der Kälte. Der Besuch des Schlosses Walburg im frühen Abendlicht ist besonders stimmungsvoll, bevor wir mit dem Bus zurück zum gut beleuchteten Bahnhof fahren.",
+            "hu": "A téli vonatozás Sint-Niklaasba pihentető és meleg élmény. A modern állomásról fűtött buszok visznek a téli díszbe öltözött Grote Marktra. Délben a Mercator Múzeum felé tartó utat a hideg elleni rövid pihenőként élvezzük. A Walburg-kastély kora esti fényekben különösen hangulatos, mielőtt busszal visszatérünk a jól kivilágított pályaudvarra.",
+            "ro": "Călătoriile de iarnă cu trenul spre Sint-Niklaas sunt relaxante și calde. De la gara modernă, autobuzele încălzite ne duc în Grote Markt. La prânz, ne bucurăm de drumul spre Muzeul Mercator ca o pauză de la frig. Vizitarea Castelului Walburg în lumina serii este deosebit de atmosferică înainte de a reveni cu autobuzul la gară.",
+            "en": "Winter trips by train to Sint-Niklaas are relaxing and warm. From the modern station, heated buses take us to the wintry Grote Markt. At noon, we enjoy the ride to the Mercator Museum as a welcome break from the cold. Visiting Walburg Castle in the early evening light is particularly atmospheric before taking the bus back to the station."
+          },
+          "stops": [
+            {
+              "name": "Central Station & Grote Markt",
+              "tip_4lang": {
+                "de": "Im Bahnhof gibt es beheizte Warteräume und warme Getränke.",
+                "hu": "Az állomáson fűtött várótermek és meleg italok várják az utazókat.",
+                "ro": "În gară există săli de așteptare încălzite și băuturi calde.",
+                "en": "The station features heated waiting rooms and warm drinks for travelers."
+              }
+            },
+            {
+              "name": "Town Hall & St. Nicholas' Church",
+              "tip_4lang": {
+                "de": "Die Busse fahren im Winter oft im 15-Minuten-Takt; nutzen Sie die Wartehäuschen.",
+                "hu": "A buszok télen is gyakran járnak; használja a fedett megállókat.",
+                "ro": "Autobuzele circulă des și iarna; folosiți adăposturile din stații.",
+                "en": "Buses run frequently even in winter; use the sheltered bus stops."
+              }
+            },
+            {
+              "name": "Gerardus Mercator Museum",
+              "tip_4lang": {
+                "de": "Genießen Sie die Wärme im Museum, bevor Sie wieder zum Bus gehen.",
+                "hu": "Élvezze a múzeum melegét, mielőtt újra a buszmegállóba indulna.",
+                "ro": "Bucurați-vă de căldura din muzeu înainte de a merge înapoi la stație.",
+                "en": "Enjoy the warmth inside the museum before heading back to the bus stop."
+              }
+            },
+            {
+              "name": "Park Stop & Walburg Castle",
+              "tip_4lang": {
+                "de": "Vorsicht vor gefrorenem Matsch am Bordstein beim Ein- und Aussteigen.",
+                "hu": "Vigyázzon a lefagyott latyakra a padkánál le- és felszálláskor.",
+                "ro": "Atenție la noroiul înghețat de lângă bordură la urcare și coborâre.",
+                "en": "Watch out for frozen slush at the curb when boarding or exiting."
+              }
+            },
+            {
+              "name": "Romain De Vidts Park",
+              "tip_4lang": {
+                "de": "Wählen Sie die Haltestelle, die am nächsten zum Parkeingang liegt.",
+                "hu": "Válassza azt a megállót, amelyik a legközelebb esik a park bejáratához.",
+                "ro": "Alegeți stația care este cea mai apropiată de intrarea în parc.",
+                "en": "Choose the bus stop that is closest to the park entrance to save walking."
+              }
+            },
+            {
+              "name": "Church of Our Lady",
+              "tip_4lang": {
+                "de": "Die digitale Anzeige zeigt genau an, wann der nächste warme Bus kommt.",
+                "hu": "A digitális kijelző pontosan mutatja, mikor jön a következő fűtött busz.",
+                "ro": "Afișajul digital indică exact când vine următorul autobuz încălzit.",
+                "en": "The digital display shows exactly when the next warm bus will arrive."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Züge können bei extremem Winterwetter Verspätungen haben; Check NMBS App.",
+              "In den Bussen ist es meist sehr warm; kleiden Sie sich im Zwiebelprinzip.",
+              "Die Gehwege rund um die Haltestellen werden oft zuerst gestreut.",
+              "Nutzen Sie die Bahnhöfe als Wärmestützpunkte während Ihrer Tour.",
+              "Achten Sie auf die kürzeren Tageslichtzeiten bei der Planung der Rückfahrt."
+            ],
+            "hu": [
+              "Extrém téli időjárás esetén a vonatok késhetnek; nézze az NMBS appot.",
+              "A buszokon általában nagyon meleg van; öltözzön rétegesen.",
+              "A megállók környékén a járdákat általában hamar letakarítják/sózzák.",
+              "Használja a vasútállomásokat melegedőpontként a túra során.",
+              "A visszautat a rövidebb nappali világossághoz igazodva tervezze meg."
+            ],
+            "ro": [
+              "Trenurile pot avea întârzieri pe vreme extremă; verificați aplicația NMBS.",
+              "În autobuze este de obicei foarte cald; îmbrăcați-vă în straturi.",
+              "Trotuarele din jurul stațiilor sunt de obicei curățate primele.",
+              "Folosiți gările ca puncte de încălzire pe parcursul turului.",
+              "Planificați călătoria de întoarcere ținând cont de ziua scurtă."
+            ],
+            "en": [
+              "Trains may have delays during extreme winter weather; check the NMBS app.",
+              "Buses are usually very warm; dress in layers for comfort.",
+              "Sidewalks around transit stops are usually cleared or salted first.",
+              "Use train stations as warming hubs throughout your tour.",
+              "Plan your return trip considering the shorter daylight hours."
+            ]
+          }
+        }
       }
     }
   }

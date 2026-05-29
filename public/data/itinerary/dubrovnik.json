@@ -306,6 +306,224 @@
           "Wear non-slip shoes for the polished Stradun limestone.",
           "Visit the walls in the late afternoon for better lighting."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag am Onofrio-Brunnen, während der Regen die alten Steine glänzen lässt. Besuchen Sie das Franziskanerkloster, um trocken zu bleiben, und wandern Sie dann über die Stadtmauern, wo die Aussicht auf die Adria bei Sturm dramatisch ist. Am Mittag bietet der Stradun in den Arkaden Schutz. Nachmittags erkunden Sie die prächtigen Paläste Sponza und Rektorenpalast, bevor Sie den Tag in der Kathedrale und auf der Festung Lovrijenac unter dem Regenschutz beenden.",
+            "hu": "Kezdje a napot az Onofrio-kútnál, miközben az eső csillogóvá teszi az ódon köveket. Menjen be a Ferences kolostorba a csapadék elől, majd járja be a városfalat, ahol a viharos Adria látványa lenyűgöző. Délben a Stradun árkádjai nyújtanak menedéket. Délután fedezze fel a Sponza-palota és a Rektori palota belső termeit, végül zárja a napot a székesegyházban és a Lovrijenac-erődben, ahol a falak védenek a széltől.",
+            "ro": "Începeți ziua la Fântâna lui Onofrio, în timp ce ploaia face pietrele vechi să strălucească. Vizitați Mănăstirea Franciscană pentru a rămâne la adăpost, apoi urcați pe zidurile orașului, unde marea Adriatică oferă un spectacol dramatic pe timp de furtună. La prânz, arcadele de pe Stradun oferă protecție. După-amiaza, explorați interioarele Palatului Sponza și ale Palatului Rectorului, finalizând ziua la Catedrală și la Cetatea Lovrijenac.",
+            "en": "Start your day at Onofrio's Fountain as the rain makes the ancient stones glisten. Visit the Franciscan Monastery to stay dry, then walk the City Walls where the stormy Adriatic views are dramatic. At noon, the Stradun arcades provide shelter. In the afternoon, explore the interiors of Sponza Palace and the Rector's Palace, ending the day at the Cathedral and Lovrijenac Fortress under cover."
+          },
+          "stops": [
+            {
+              "name": "Onofrio-Brunnen",
+              "tip_5lang": {
+                "de": "Die großen Steinmasken dienen bei Regen als Wasserspeier.",
+                "hu": "Az esőben a nagy kőmaszkok vízköpőként funkcionálnak.",
+                "ro": "Măștile de piatră funcționează ca gargui în timpul ploii.",
+                "en": "The large stone masks act as waterspouts during rain."
+              }
+            },
+            {
+              "name": "Franziskanerkloster",
+              "tip_5lang": {
+                "de": "Der Kreuzgang bietet einen perfekten, trockenen Rückzugsort.",
+                "hu": "A kerengő tökéletes, száraz menedéket nyújt az udvaron.",
+                "ro": "Claustrul oferă un refugiu perfect și uscat în curte.",
+                "en": "The cloister provides a perfect, dry retreat in the courtyard."
+              }
+            },
+            {
+              "name": "Stadtmauern von Dubrovnik",
+              "tip_5lang": {
+                "de": "Vorsicht, die Steinstufen können bei Nässe sehr rutschig sein.",
+                "hu": "Vigyázat, a kőlépcsők nedvesen nagyon csúszósak lehetnek.",
+                "ro": "Atenție, treptele de piatră pot fi foarte alunecoase când sunt ude.",
+                "en": "Be careful, the stone steps can be very slippery when wet."
+              }
+            },
+            {
+              "name": "Stradun",
+              "tip_5lang": {
+                "de": "Nutzen Sie die tiefen Hauseingänge der Geschäfte als Unterstand.",
+                "hu": "Használja az üzletek mély bejáratait ideiglenes esővédőként.",
+                "ro": "Folosiți intrările adânci ale magazinelor ca adăpost temporar.",
+                "en": "Use the deep shop entrances as temporary rain shelters."
+              }
+            },
+            {
+              "name": "Sponza-Palast",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur im geschützten Innenhof.",
+                "hu": "Csodálja meg az építészetet a védett belső udvarról.",
+                "ro": "Admirați arhitectura din curtea interioară protejată.",
+                "en": "Admire the architecture from the protected inner courtyard."
+              }
+            },
+            {
+              "name": "Rektorenpalast",
+              "tip_5lang": {
+                "de": "Ein ideales Museum, um eine Stunde im Trockenen zu verbringen.",
+                "hu": "Ideális múzeum egy óra szárazon töltött felfedezéshez.",
+                "ro": "Un muzeu ideal pentru a petrece o oră explorând la uscat.",
+                "en": "An ideal museum to spend an hour exploring in the dry."
+              }
+            },
+            {
+              "name": "Kathedrale von Dubrovnik",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Schatzkammer während eines starken Schauers.",
+                "hu": "Látogassa meg a kincstárat egy erős zápor ideje alatt.",
+                "ro": "Vizitați tezaurul în timpul unei aversa puternice.",
+                "en": "Visit the treasury during a heavy downpour."
+              }
+            },
+            {
+              "name": "Festung Lovrijenac",
+              "tip_5lang": {
+                "de": "Die Kasematten bieten Schutz vor Wind und peitschendem Regen.",
+                "hu": "A kazamaták védelmet nyújtanak a szél és a csapkodó eső ellen.",
+                "ro": "Cazematele oferă adăpost împotriva vântului și ploii bătute.",
+                "en": "The casemates offer shelter from wind and driving rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Schuhe mit gutem Profil wegen der glatten Kalksteine.",
+              "Ein stabiler Regenschirm ist bei Seewind besser als ein leichter Poncho.",
+              "Viele Cafés am Stradun haben Markisen, unter denen man trocken sitzen kann.",
+              "Die Stadtmauern haben wenig Unterstand, planen Sie dies bei Gewittern ein."
+            ],
+            "hu": [
+              "Viseljen jó tapadású cipőt a sima mészkő burkolat miatt.",
+              "A tengeri szélben egy stabil esernyő jobb, mint egy könnyű poncsó.",
+              "Sok kávézó a Stradun mentén rendelkezik ponyvával a száraz pihenéshez.",
+              "A városfalon kevés a fedett rész, tervezze ezt vihar esetén."
+            ],
+            "ro": [
+              "Purtați pantofi cu aderență bună din cauza pavajului neted de calcar.",
+              "O umbrelă stabilă este mai bună decât un pelerină ușoară în vântul mării.",
+              "Multe cafenele de pe Stradun au copertine sub care puteți sta uscat.",
+              "Zidurile orașului au puține adăposturi, planificați în caz de furtună."
+            ],
+            "en": [
+              "Wear shoes with good grip due to the smooth limestone paving.",
+              "A sturdy umbrella is better than a light poncho in the sea wind.",
+              "Many cafes along the Stradun have awnings to sit under and stay dry.",
+              "The city walls have few shelters, plan accordingly during storms."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Dubrovnik im Winter ist ruhig und magisch. Beginnen Sie am Onofrio-Brunnen und genießen Sie die Stille im Franziskanerkloster. Die Stadtmauern bieten bei milder Wintersonne klare Fernsichten ohne die Hitze des Sommers. Mittags lockt der Stradun mit festlicher Dekoration. Besuchen Sie die Paläste Sponza und Rektor, um die Geschichte ohne Menschenmassen zu erleben. Beenden Sie den Tag an der Kathedrale und Lovrijenac, bevor die frühe Dämmerung die Stadt in warmes Licht taucht.",
+            "hu": "A téli Dubrovnik csendes és varázslatos. Kezdjen az Onofrio-kútnál, majd élvezze a Ferences kolostor nyugalmát. A városfalakon a lágy téli napsütés tiszta kilátást kínál a nyári hőség nélkül. Délben a Stradun ünnepi díszben pompázik. Látogassa meg a Sponza és Rektori palotákat a tömeg nélkül. Zárja a napot a székesegyháznál és a Lovrijenac-erődnél, mielőtt a korai sötétedés meleg fénybe vonja a várost.",
+            "ro": "Dubrovnik iarna este liniștit și magic. Începeți la Fântâna lui Onofrio și bucurați-vă de liniștea Mănăstirii Franciscane. Zidurile orașului oferă vederi clare sub soarele blând de iarnă, fără căldura verii. La prânz, Stradun atrage cu decorațiuni festive. Vizitați palatele Sponza și Rectorului fără mulțimi. Încheiați ziua la Catedrală și Lovrijenac, înainte ca amurgul timpuriu să scalde orașul în lumină caldă.",
+            "en": "Dubrovnik in winter is quiet and magical. Start at Onofrio's Fountain and enjoy the stillness of the Franciscan Monastery. The City Walls offer clear views in the mild winter sun without summer's heat. At noon, the Stradun shines with festive decorations. Visit Sponza and Rector's Palaces without the crowds. End the day at the Cathedral and Lovrijenac before the early dusk bathes the city in warm light."
+          },
+          "stops": [
+            {
+              "name": "Onofrio-Brunnen",
+              "tip_5lang": {
+                "de": "Im Winter ist der Platz ideal für Fotos ohne Touristenmassen.",
+                "hu": "Télen a tér ideális a turistaáradat nélküli fotózáshoz.",
+                "ro": "Iarna, piața este ideală pentru fotografii fără mulțimi de turiști.",
+                "en": "In winter, the square is ideal for photos without tourist crowds."
+              }
+            },
+            {
+              "name": "Franziskanerkloster",
+              "tip_5lang": {
+                "de": "Die alte Apotheke wirkt im Winterlicht besonders authentisch.",
+                "hu": "A régi gyógyszertár a téli fényben különösen hitelesnek hat.",
+                "ro": "Vechea farmacie pare deosebit de autentică în lumina iernii.",
+                "en": "The old pharmacy feels particularly authentic in the winter light."
+              }
+            },
+            {
+              "name": "Stadtmauern von Dubrovnik",
+              "tip_5lang": {
+                "de": "Genießen Sie den Sonnenuntergang über der Adria gegen 16:30 Uhr.",
+                "hu": "Élvezze a naplementét az Adria felett 16:30 körül.",
+                "ro": "Bucurați-vă de apusul de soare peste Adriatică în jurul orei 16:30.",
+                "en": "Enjoy the sunset over the Adriatic around 4:30 PM."
+              }
+            },
+            {
+              "name": "Stradun",
+              "tip_5lang": {
+                "de": "Probieren Sie heiße 'Fritule' an den kleinen Wintermarkt-Buden.",
+                "hu": "Kóstolja meg a forró 'fritule'-t a kis téli piaci bódéknál.",
+                "ro": "Gustați 'fritule' fierbinți la tarabele micului târg de iarnă.",
+                "en": "Try hot 'fritule' at the small winter market stalls."
+              }
+            },
+            {
+              "name": "Sponza-Palast",
+              "tip_5lang": {
+                "de": "Die kühlen Steinmauern machen eine Jacke im Inneren nötig.",
+                "hu": "A hűvös kőfalak miatt bent is szükség lesz a kabátra.",
+                "ro": "Zidurile de piatră reci fac necesară o jachetă în interior.",
+                "en": "The cool stone walls make a jacket necessary inside."
+              }
+            },
+            {
+              "name": "Rektorenpalast",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ausstellungen in aller Ruhe ohne Wartezeit.",
+                "hu": "Látogassa meg a kiállításokat nyugodtan, várakozás nélkül.",
+                "ro": "Vizitați expozițiile în liniște, fără timp de așteptare.",
+                "en": "Visit the exhibitions in peace without waiting times."
+              }
+            },
+            {
+              "name": "Kathedrale von Dubrovnik",
+              "tip_5lang": {
+                "de": "Im Winter ist es im Inneren oft wärmer als draußen.",
+                "hu": "Télen a templom belseje gyakran melegebb, mint a külső levegő.",
+                "ro": "Iarna, interiorul este adesea mai cald decât afară.",
+                "en": "In winter, the interior is often warmer than outside."
+              }
+            },
+            {
+              "name": "Festung Lovrijenac",
+              "tip_5lang": {
+                "de": "Der Wind kann hier oben im Winter sehr beißen, warm anziehen.",
+                "hu": "A szél itt fent télen metsző lehet, öltözzön melegen.",
+                "ro": "Vântul poate fi tăios aici iarna, îmbrăcați-vă bine.",
+                "en": "The wind can be biting up here in winter, dress warmly."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Viele Restaurants haben im Winter geschlossen, suchen Sie lokale Tavernen.",
+              "Die Sonne geht früh unter, starten Sie Ihren Rundgang vor 10 Uhr.",
+              "Zwiebelprinzip bei der Kleidung hilft gegen den wechselnden Seewind.",
+              "Kaufen Sie den Dubrovnik Pass für kostenlosen Eintritt zu Museen."
+            ],
+            "hu": [
+              "Sok étterem zárva tart télen, keressen helyi tavernákat.",
+              "A nap korán nyugszik, kezdje a sétát délelőtt 10 óra előtt.",
+              "A réteges öltözködés segít a változékony tengeri szél ellen.",
+              "Vásároljon Dubrovnik Pass-t az ingyenes múzeumi belépéshez."
+            ],
+            "ro": [
+              "Multe restaurante sunt închise iarna, căutați taverne locale.",
+              "Soarele apune devreme, începeți turul înainte de ora 10 dimineața.",
+              "Îmbrăcămintea în straturi ajută împotriva vântului schimbător al mării.",
+              "Cumpărați Dubrovnik Pass pentru intrare gratuită la muzee."
+            ],
+            "en": [
+              "Many restaurants are closed in winter, look for local taverns.",
+              "The sun sets early, start your walk before 10 AM.",
+              "Layered clothing helps against the changing sea wind.",
+              "Buy a Dubrovnik Pass for free entry to museums."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -537,6 +755,188 @@
           "Use the dedicated bike paths in Babin Kuk.",
           "Rent an e-bike for the hilly sections."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour durch Dubrovnik im Regen erfordert Vorsicht auf dem Stradun. Starten Sie vorsichtig am Onofrio-Brunnen und besuchen Sie das Franziskanerkloster für eine Pause. Die Fahrt zur Festung Lovrijenac bietet trotz Nässe tolle Ausblicke. Der Aufstieg zum Berg Srđ ist bei Regen anstrengend, aber die Wolkenstimmung über der Stadt ist einzigartig. Beenden Sie die Tour an den Stadtmauern, wo Sie Ihr Rad sicher abstellen und den Blick genießen können.",
+            "hu": "Egy esős biciklis túra Dubrovnikban óvatosságot igényel a Stradunon. Kezdjen figyelmesen az Onofrio-kútnál, majd pihenjen meg a Ferences kolostorban. A Lovrijenac-erődhöz vezető út a nedvesség ellenére szép kilátást nyújt. A Srđ-hegyre való feljutás esőben fárasztó, de a felhők játéka a város felett egyedülálló. Zárja a túrát a városfalaknál, ahol biztonságban leparkolhatja a kerékpárt.",
+            "ro": "O tură cu bicicleta prin Dubrovnik pe ploaie necesită prudență pe Stradun. Începeți cu atenție la Fântâna lui Onofrio și vizitați Mănăstirea Franciscană pentru o pauză. Drumul către Cetatea Lovrijenac oferă priveliști frumoase în ciuda umezelii. Urcarea pe Muntele Srđ este obositoare pe ploaie, dar atmosfera norilor peste oraș este unică. Încheiați turul la zidurile orașului.",
+            "en": "A bike tour through Dubrovnik in the rain requires caution on the Stradun. Start carefully at Onofrio's Fountain and visit the Franciscan Monastery for a break. The ride to Lovrijenac Fortress offers great views despite the wet. Climbing Mount Srđ in the rain is tiring, but the cloud atmosphere over the city is unique. End the tour at the City Walls where you can park safely."
+          },
+          "stops": [
+            {
+              "name": "Stradun",
+              "tip_5lang": {
+                "de": "Extrem rutschig bei Regen, schieben Sie Ihr Rad lieber hier.",
+                "hu": "Esőben rendkívül csúszós, inkább tolja itt a kerékpárt.",
+                "ro": "Extrem de alunecos pe ploaie, mai bine mergeți pe lângă bicicletă.",
+                "en": "Extremely slippery in the rain, better to push your bike here."
+              }
+            },
+            {
+              "name": "Onofrio-Brunnen",
+              "tip_5lang": {
+                "de": "Ein guter Treffpunkt mit etwas Schutz unter den Vorsprüngen.",
+                "hu": "Jó találkozási pont, némi védelemmel a párkányok alatt.",
+                "ro": "Un punct de întâlnire bun, cu puțin adăpost sub cornișe.",
+                "en": "A good meeting point with some shelter under the ledges."
+              }
+            },
+            {
+              "name": "Franziskanerkloster",
+              "tip_5lang": {
+                "de": "Parken Sie das Rad draußen und nutzen Sie die Innenruhe.",
+                "hu": "Parkolja le kint a biciklit, és élvezze a benti nyugalmat.",
+                "ro": "Parcați bicicleta afară și bucurați-vă de liniștea din interior.",
+                "en": "Park your bike outside and enjoy the peace inside."
+              }
+            },
+            {
+              "name": "Festung Lovrijenac",
+              "tip_5lang": {
+                "de": "Der Anstieg ist steil, bei Nässe auf die Bremsen achten.",
+                "hu": "Az emelkedő meredek, nedves úton figyeljen a fékekre.",
+                "ro": "Urcarea este abruptă, atenție la frâne pe carosabil umed.",
+                "en": "The climb is steep, pay attention to brakes on wet roads."
+              }
+            },
+            {
+              "name": "Berg Srđ",
+              "tip_5lang": {
+                "de": "Die Seilbahn ist bei starkem Regen oft die bessere Wahl.",
+                "hu": "Heves esőben a felvonó gyakran jobb választás.",
+                "ro": "Telecabina este adesea o alegere mai bună în caz de ploaie torențială.",
+                "en": "The cable car is often a better choice during heavy rain."
+              }
+            },
+            {
+              "name": "Stadtmauern von Dubrovnik",
+              "tip_5lang": {
+                "de": "Räder sind auf den Mauern verboten, unten sicher anschließen.",
+                "hu": "A falakon tilos biciklizni, lent láncolja le biztonságosan.",
+                "ro": "Bicicletele sunt interzise pe ziduri, legați-le sigur jos.",
+                "en": "Bikes are forbidden on the walls, lock them securely below."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie wasserfeste Packtaschen für Ihre Ausrüstung.",
+              "Vermeiden Sie abrupte Bremsmanöver auf dem polierten Stein.",
+              "Prüfen Sie vor dem Berg Srđ die Windgeschwindigkeit oben.",
+              "Ein Schutzblech ist bei den Pfützen in der Altstadt essenziell."
+            ],
+            "hu": [
+              "Használjon vízálló táskákat a felszereléséhez.",
+              "Kerülje a hirtelen fékezést a polírozott köveken.",
+              "A Srđ-hegy előtt ellenőrizze a szélsebességet fent.",
+              "A sárvédő elengedhetetlen az óvárosi tócsák miatt."
+            ],
+            "ro": [
+              "Folosiți genți impermeabile pentru echipament.",
+              "Evitați frânările bruște pe pietrele lustruite.",
+              "Verificați viteza vântului sus înainte de Muntele Srđ.",
+              "O apărătoare este esențială pentru bălțile din orașul vechi."
+            ],
+            "en": [
+              "Use waterproof panniers for your gear.",
+              "Avoid abrupt braking maneuvers on the polished stone.",
+              "Check the wind speed at the top before Mount Srđ.",
+              "A mudguard is essential for the puddles in the Old Town."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im winterlichen Dubrovnik ist erfrischend. Starten Sie auf dem fast leeren Stradun und bewundern Sie den Onofrio-Brunnen. Nach einem Besuch im Franziskanerkloster radeln Sie zur Festung Lovrijenac. Der Berg Srđ bietet im Winter die klarste Sicht des Jahres auf die Elaphiten-Inseln. Nutzen Sie die kühle Luft für den sportlichen Aufstieg, bevor Sie Ihre Tour an den imposanten Stadtmauern abschließen, die im tiefen Sonnenstand dramatische Schatten werfen.",
+            "hu": "A kerékpározás a téli Dubrovnikban frissítő élmény. Kezdjen a szinte üres Stradunon, és csodálja meg az Onofrio-kutat. A Ferences kolostor után tekerjen el a Lovrijenac-erődhöz. A Srđ-hegy télen kínálja az év legtisztább kilátását az Elaphiti-szigetekre. Használja ki a hűvös levegőt a sportos emelkedőhöz, mielőtt a túrát a várfalaknál zárná, melyek a lapos napszögben drámai árnyékokat vetnek.",
+            "ro": "Mersul pe bicicletă în Dubrovnik iarna este revigorant. Începeți pe Stradunul aproape gol și admirați Fântâna lui Onofrio. După o vizită la Mănăstirea Franciscană, pedalați spre Cetatea Lovrijenac. Muntele Srđ oferă cea mai clară vedere din an asupra insulelor Elafiti. Profitați de aerul rece pentru urcarea sportivă, înainte de a încheia la zidurile orașului.",
+            "en": "Cycling in wintry Dubrovnik is refreshing. Start on the nearly empty Stradun and admire Onofrio's Fountain. After a visit to the Franciscan Monastery, cycle to Lovrijenac Fortress. Mount Srđ offers the clearest view of the year over the Elaphiti Islands in winter. Use the cool air for the sporty climb before finishing at the imposing City Walls."
+          },
+          "stops": [
+            {
+              "name": "Stradun",
+              "tip_5lang": {
+                "de": "Genießen Sie die freie Fahrt ohne Fußgängermassen am Morgen.",
+                "hu": "Élvezze a szabad utat gyalogosforgalom nélkül reggel.",
+                "ro": "Bucurați-vă de drumul liber fără mulțimi de pietoni dimineața.",
+                "en": "Enjoy the free ride without pedestrian crowds in the morning."
+              }
+            },
+            {
+              "name": "Onofrio-Brunnen",
+              "tip_5lang": {
+                "de": "Das Wasser ist im Winter eiskalt, Vorsicht beim Händewaschen.",
+                "hu": "A víz télen jéghideg, vigyázzon a kézmosásnál.",
+                "ro": "Apa este înghețată iarna, atenție când vă spălați pe mâini.",
+                "en": "The water is ice cold in winter, be careful washing hands."
+              }
+            },
+            {
+              "name": "Franziskanerkloster",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um die Handschuhe kurz auszuziehen.",
+                "hu": "Csendes hely, ahol rövid időre leveheti a kesztyűt.",
+                "ro": "Un loc liniștit pentru a vă scoate mănușile pentru scurt timp.",
+                "en": "A quiet place to take off your gloves for a moment."
+              }
+            },
+            {
+              "name": "Festung Lovrijenac",
+              "tip_5lang": {
+                "de": "Parken Sie windgeschützt hinter den massiven Mauern.",
+                "hu": "Parkoljon szélvédett helyen a masszív falak mögött.",
+                "ro": "Parcați ferit de vânt în spatele zidurilor masive.",
+                "en": "Park sheltered from the wind behind the massive walls."
+              }
+            },
+            {
+              "name": "Berg Srđ",
+              "tip_5lang": {
+                "de": "Ziehen Sie für die Abfahrt eine winddichte Jacke an.",
+                "hu": "A lejtmenethez vegyen fel szélálló kabátot.",
+                "ro": "Puneți-vă o jachetă rezistentă la vânt pentru coborâre.",
+                "en": "Put on a windproof jacket for the descent."
+              }
+            },
+            {
+              "name": "Stadtmauern von Dubrovnik",
+              "tip_5lang": {
+                "de": "Die Mauern schließen im Winter früher, meist um 15:00 Uhr.",
+                "hu": "A falak télen korábban zárnak, általában 15:00-kor.",
+                "ro": "Zidurile se închid mai devreme iarna, de obicei la ora 15:00.",
+                "en": "The walls close earlier in winter, usually at 3:00 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie warme Handschuhe, der Fahrtwind ist im Winter kalt.",
+              "Beleuchtung am Rad ist wichtig, da es ab 16:30 Uhr dunkel wird.",
+              "Die Bergstraße zum Srđ kann im Schatten Reifglätte aufweisen.",
+              "Suchen Sie Cafés mit Heizstrahlern für die Pause."
+            ],
+            "hu": [
+              "Viseljen meleg kesztyűt, a menetszél télen hideg.",
+              "A világítás fontos, mivel 16:30 után sötétedik.",
+              "A Srđ-re vezető hegyi úton az árnyékos részeken zúzmara lehet.",
+              "Keressen hősugárzóval felszerelt kávézókat a pihenéshez."
+            ],
+            "ro": [
+              "Purtați mănuși calde, curentul de aer este rece iarna.",
+              "Iluminarea bicicletei este importantă, se întunecă după ora 16:30.",
+              "Drumul montan spre Srđ poate avea polei în zonele umbrite.",
+              "Căutați cafenele cu radiatoare pentru pauză."
+            ],
+            "en": [
+              "Wear warm gloves, the wind chill is cold in winter.",
+              "Bike lighting is important as it gets dark after 4:30 PM.",
+              "The mountain road to Srđ can have frost in shaded areas.",
+              "Look for cafes with patio heaters for your break."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -820,6 +1220,188 @@
           "Park at the entrance of Cavtat town.",
           "The drive up Mount Srđ requires patience due to oncoming traffic."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden Sie Dubrovnik bei Regen komfortabel. Starten Sie an den Stadtmauern und nutzen Sie die Parkhäuser nahe der Altstadt. Besuchen Sie den Rektorenpalast und die Blaise-Kirche, um dem Guss zu entkommen. Die Kathedrale bietet einen prachtvollen Rückzugsort. Eine Fahrt zum Berg Srđ ist auch bei Regen möglich, die Aussicht aus dem Auto oben ist spektakulär. Beenden Sie den Tag im Sponza-Palast, während der Regen auf das historische Dach prasselt.",
+            "hu": "Autóval kényelmesen fedezheti fel Dubrovnikot esőben is. Kezdjen a városfalaknál, és használja az óvároshoz közeli parkolóházakat. Látogassa meg a Rektori palotát és a Szent Balázs-templomot, hogy elkerülje az égi áldást. A székesegyház pompás menedéket nyújt. A Srđ-hegyre való felhajtás esőben is lehetséges, az autóból a kilátás fentről lenyűgöző. Zárja a napot a Sponza-palotában.",
+            "ro": "Cu mașina, explorați Dubrovnik confortabil pe ploaie. Începeți la zidurile orașului și folosiți parcările supraetajate de lângă orașul vechi. Vizitați Palatul Rectorului și Biserica Sf. Blasiu pentru a scăpa de ploaie. Catedrala oferă un refugiu magnific. O călătorie pe Muntele Srđ este posibilă și pe ploaie. Încheiați ziua la Palatul Sponza.",
+            "en": "Explore Dubrovnik comfortably by car in the rain. Start at the City Walls and use the parking garages near the Old Town. Visit the Rector's Palace and St. Blaise Church to escape the downpour. The Cathedral offers a magnificent retreat. A drive to Mount Srđ is possible even in the rain; the view from the car at the top is spectacular. End the day at Sponza Palace."
+          },
+          "stops": [
+            {
+              "name": "Stadtmauern von Dubrovnik",
+              "tip_5lang": {
+                "de": "Parken Sie im 'Pila'-Parkhaus für den kürzesten Weg im Regen.",
+                "hu": "Parkoljon a 'Pila' parkolóházban a legrövidebb esős sétához.",
+                "ro": "Parcați în parcarea 'Pila' pentru cel mai scurt drum prin ploaie.",
+                "en": "Park in the 'Pila' garage for the shortest walk in the rain."
+              }
+            },
+            {
+              "name": "Rektorenpalast",
+              "tip_5lang": {
+                "de": "Direkt am Eingang gibt es Schirmständer für Besucher.",
+                "hu": "Közvetlenül a bejáratnál esernyőtartók várják a látogatókat.",
+                "ro": "Există suporturi pentru umbrele chiar la intrare pentru vizitatori.",
+                "en": "There are umbrella stands right at the entrance for visitors."
+              }
+            },
+            {
+              "name": "St.-Blaise-Kirche",
+              "tip_5lang": {
+                "de": "Die Kirche ist ein ruhiger Ort, um den Regen abzuwarten.",
+                "hu": "A templom csendes hely az eső kivárásához.",
+                "ro": "Biserica este un loc liniștit pentru a aștepta trecerea ploii.",
+                "en": "The church is a quiet place to wait out the rain."
+              }
+            },
+            {
+              "name": "Kathedrale von Dubrovnik",
+              "tip_5lang": {
+                "de": "Die Architektur wirkt bei grauem Himmel besonders massiv.",
+                "hu": "Az építészet szürke égbolt alatt különösen monumentális.",
+                "ro": "Arhitectura pare deosebit de masivă sub cerul cenușiu.",
+                "en": "The architecture looks particularly massive under gray skies."
+              }
+            },
+            {
+              "name": "Berg Srđ",
+              "tip_5lang": {
+                "de": "Die Straße ist eng, fahren Sie bei Nässe besonders vorsichtig.",
+                "hu": "Az út szűk, nedves időben vezessen különösen óvatosan.",
+                "ro": "Drumul este îngust, conduceți cu mare atenție pe carosabil umed.",
+                "en": "The road is narrow, drive extra carefully in wet conditions."
+              }
+            },
+            {
+              "name": "Sponza-Palast",
+              "tip_5lang": {
+                "de": "Das Archiv im Inneren ist ein faszinierendes Trockenprojekt.",
+                "hu": "A benti archívum lenyűgöző program fedett helyen.",
+                "ro": "Arhiva din interior este un proiect fascinant la adăpost.",
+                "en": "The archive inside is a fascinating dry-weather activity."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Parken in Dubrovnik ist teuer, nutzen Sie den 'Dubrovnik Pass'.",
+              "Vermeiden Sie die Fahrt in die reine Fußgängerzone der Altstadt.",
+              "Bei starkem Regen kann es in den Küstenstraßen Aquaplaning geben.",
+              "Nutzen Sie Park-Apps, um nicht im Regen am Automaten zu stehen."
+            ],
+            "hu": [
+              "A parkolás Dubrovnikban drága, használja a 'Dubrovnik Pass'-t.",
+              "Kerülje az autóval való behajtást az óvárosi gyalogos zónába.",
+              "Heves esőben a parti utakon vízátfolyások alakulhatnak ki.",
+              "Használjon parkolási appot, hogy ne kelljen az esőben automatánál állni."
+            ],
+            "ro": [
+              "Parcarea în Dubrovnik este scumpă, folosiți 'Dubrovnik Pass'.",
+              "Evitați să conduceți în zona pietonală a orașului vechi.",
+              "În caz de ploaie torențială, poate apărea acvaplanarea pe drumurile de coastă.",
+              "Folosiți aplicații de parcare pentru a nu sta în ploaie la automat."
+            ],
+            "en": [
+              "Parking in Dubrovnik is expensive, use the 'Dubrovnik Pass'.",
+              "Avoid driving into the pedestrian-only Old Town zone.",
+              "In heavy rain, aquaplaning can occur on coastal roads.",
+              "Use parking apps to avoid standing in the rain at payment machines."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Dubrovnik mit dem Auto im Winter bedeutet entspanntes Parken und freie Straßen. Beginnen Sie an den Stadtmauern und erkunden Sie die Altstadt ohne Hitze. Der Rektorenpalast und die Blaise-Kirche sind im Winterorte der Stille. Nach dem Besuch der Kathedrale fahren Sie zum Berg Srđ, um den spektakulären Wintersonnenuntergang über der Adria zu erleben. Der Sponza-Palast bildet den perfekten Abschluss Ihrer Tour, bevor Sie bequem im beheizten Auto zurückfahren.",
+            "hu": "Dubrovnik autóval télen nyugodt parkolást és üres utakat jelent. Kezdjen a városfalaknál, és fedezze fel az óvárost hőség nélkül. A Rektori palota és a Szent Balázs-templom a csend szigetei télen. A székesegyház után hajtson fel a Srđ-hegyre a lenyűgöző téli naplemente kedvéért. A Sponza-palota tökéletes zárása a túrának, mielőtt kényelmesen, a fűtött autóban indulna vissza.",
+            "ro": "Dubrovnik cu mașina iarna înseamnă parcare relaxată și drumuri libere. Începeți la zidurile orașului și explorați orașul vechi fără căldură. Palatul Rectorului și Biserica Sf. Blasiu sunt locuri ale liniștii iarna. După catedrală, conduceți spre Muntele Srđ pentru apusul spectaculos. Palatul Sponza încheie perfect turul.",
+            "en": "Dubrovnik by car in winter means relaxed parking and clear roads. Start at the City Walls and explore the Old Town without the heat. The Rector's Palace and St. Blaise Church are places of silence in winter. After the Cathedral, drive to Mount Srđ for a spectacular winter sunset. Sponza Palace is the perfect end to your tour."
+          },
+          "stops": [
+            {
+              "name": "Stadtmauern von Dubrovnik",
+              "tip_5lang": {
+                "de": "Parkplätze sind im Winter deutlich leichter zu finden.",
+                "hu": "Télen lényegesen könnyebb parkolóhelyet találni.",
+                "ro": "Locurile de parcare sunt mult mai ușor de găsit iarna.",
+                "en": "Parking spaces are much easier to find in winter."
+              }
+            },
+            {
+              "name": "Rektorenpalast",
+              "tip_5lang": {
+                "de": "Besuchen Sie das Museum am Vormittag für die beste Beleuchtung.",
+                "hu": "Látogassa meg a múzeumot délelőtt a legjobb fényviszonyokért.",
+                "ro": "Vizitați muzeul dimineața pentru cea mai bună iluminare.",
+                "en": "Visit the museum in the morning for the best lighting."
+              }
+            },
+            {
+              "name": "St.-Blaise-Kirche",
+              "tip_5lang": {
+                "de": "Im Winter finden hier oft lokale Gottesdienste ohne Touristen statt.",
+                "hu": "Télen gyakran tartanak itt helyi miséket turisták nélkül.",
+                "ro": "Iarna, aici au loc adesea slujbe locale fără turiști.",
+                "en": "In winter, local services often take place here without tourists."
+              }
+            },
+            {
+              "name": "Kathedrale von Dubrovnik",
+              "tip_5lang": {
+                "de": "Die Schatzkammer hat im Winter eingeschränkte Öffnungszeiten.",
+                "hu": "A kincstár télen korlátozott nyitvatartással üzemel.",
+                "ro": "Tezaurul are program redus de funcționare iarna.",
+                "en": "The treasury has limited opening hours in winter."
+              }
+            },
+            {
+              "name": "Berg Srđ",
+              "tip_5lang": {
+                "de": "Oben ist es deutlich kühler als in der Stadt, Heizung prüfen.",
+                "hu": "Fent lényegesen hűvösebb van, mint a városban.",
+                "ro": "Sus este mult mai răcoare decât în oraș, verificați căldura.",
+                "en": "It's significantly cooler up there than in the city."
+              }
+            },
+            {
+              "name": "Sponza-Palast",
+              "tip_5lang": {
+                "de": "Die Gedenkhalle für die Verteidiger ist im Winter sehr bewegend.",
+                "hu": "A védők emlékszobája télen különösen megható.",
+                "ro": "Sala memorială pentru apărători este foarte emoționantă iarna.",
+                "en": "The memorial room for the defenders is very moving in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Parkgebühren sind in der Nebensaison oft niedriger.",
+              "Frost ist selten, aber Vorsicht bei Brücken am frühen Morgen.",
+              "Die Küstenstraße bietet im Winter eine fantastische Fernsicht.",
+              "Achten Sie auf die Winter-Öffnungszeiten der Sehenswürdigkeiten."
+            ],
+            "hu": [
+              "A parkolási díjak előszezonban gyakran alacsonyabbak.",
+              "A fagy ritka, de kora reggel a hidakon legyen óvatos.",
+              "A parti út télen fantasztikus távlatokat kínál.",
+              "Ügyeljen a látnivalók téli nyitvatartási idejére."
+            ],
+            "ro": [
+              "Taxele de parcare sunt adesea mai mici în extrasezon.",
+              "Înghețul este rar, dar atenție la poduri dimineața devreme.",
+              "Drumul de coastă oferă o vizibilitate fantastică iarna.",
+              "Fiți atenți la programul de iarnă al obiectivelor turistice."
+            ],
+            "en": [
+              "Parking fees are often lower in the low season.",
+              "Frost is rare, but be careful on bridges early in the morning.",
+              "The coastal road offers fantastic long-distance views in winter.",
+              "Watch out for the winter opening hours of the sights."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1079,6 +1661,206 @@
           "Download the Libertas app for live bus tracking.",
           "Single tickets are more expensive when bought from the driver."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie die orangefarbenen Libertas-Busse, um Dubrovnik bei Regen trocken zu erkunden. Starten Sie am Stradun und besichtigen Sie den Onofrio-Brunnen. Das Franziskanerkloster und der Sponza-Palast bieten hervorragenden Schutz vor dem Wetter. Nach der Blaise-Kirche und dem Rektorenpalast bringt Sie der Bus bequem zur Seilbahn-Station für den Berg Srđ, wo Sie die Wolken über dem Meer beobachten können.",
+            "hu": "Használja a narancssárga Libertas buszokat Dubrovnik esős felfedezéséhez. Kezdjen a Stradunon, és nézze meg az Onofrio-kutat. A Ferences kolostor és a Sponza-palota kiváló védelmet nyújt az időjárás ellen. A Szent Balázs-templom és a Rektori palota után a busz kényelmesen elviszi a Srđ-hegy felvonójához, ahonnan figyelheti a tenger feletti felhőket.",
+            "ro": "Folosiți autobuzele portocalii Libertas pentru a explora Dubrovnik pe ploaie. Începeți pe Stradun și vedeți Fântâna lui Onofrio. Mănăstirea Franciscană și Palatul Sponza oferă protecție excelentă. După Biserica Sf. Blasiu și Palatul Rectorului, autobuzul vă duce confortabil la telecabina pentru Muntele Srđ.",
+            "en": "Use the orange Libertas buses to explore Dubrovnik dry in the rain. Start at Stradun and see Onofrio's Fountain. The Franciscan Monastery and Sponza Palace offer excellent shelter. After St. Blaise Church and the Rector's Palace, the bus takes you comfortably to the cable car station for Mount Srđ."
+          },
+          "stops": [
+            {
+              "name": "Stradun",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle 'Pile' ist der zentrale Knotenpunkt.",
+                "hu": "A 'Pile' buszmegálló a központi csomópont.",
+                "ro": "Stația de autobuz 'Pile' este nodul central.",
+                "en": "The 'Pile' bus stop is the central hub."
+              }
+            },
+            {
+              "name": "Onofrio-Brunnen",
+              "tip_5lang": {
+                "de": "Kurzer Sprint vom Bus zum Brunnen, um trocken zu bleiben.",
+                "hu": "Rövid futás a busztól a kútig, hogy száraz maradjon.",
+                "ro": "Sprint scurt de la autobuz la fântână pentru a rămâne uscat.",
+                "en": "Short sprint from the bus to the fountain to stay dry."
+              }
+            },
+            {
+              "name": "Franziskanerkloster",
+              "tip_5lang": {
+                "de": "Direkt am Pile-Tor gelegen, ideal bei plötzlichem Schauer.",
+                "hu": "Közvetlenül a Pile-kapunál, ideális hirtelen zápor esetén.",
+                "ro": "Situat chiar lângă Poarta Pile, ideal în caz de aversa subită.",
+                "en": "Located right by Pile Gate, ideal during a sudden shower."
+              }
+            },
+            {
+              "name": "Sponza-Palast",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle 'Ploče' ist ein alternativer Ausstieg.",
+                "hu": "A 'Ploče' buszmegálló alternatív leszállási pont.",
+                "ro": "Stația de autobuz 'Ploče' este o debarcare alternativă.",
+                "en": "The 'Ploče' bus stop is an alternative drop-off point."
+              }
+            },
+            {
+              "name": "St.-Blaise-Kirche",
+              "tip_5lang": {
+                "de": "Der Platz davor kann bei Regen sehr windig sein.",
+                "hu": "A templom előtti tér esőben nagyon szeles lehet.",
+                "ro": "Piața din față poate fi foarte vântoasă pe ploaie.",
+                "en": "The square in front can be very windy in the rain."
+              }
+            },
+            {
+              "name": "Rektorenpalast",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit im Museum, während es draußen regnet.",
+                "hu": "Használja ki a múzeumi időt, amíg kint esik.",
+                "ro": "Folosiți timpul în muzeu în timp ce afară plouă.",
+                "en": "Utilize museum time while it rains outside."
+              }
+            },
+            {
+              "name": "Berg Srđ",
+              "tip_5lang": {
+                "de": "Die Seilbahn fährt bei sehr starkem Wind nicht.",
+                "hu": "Erős szél esetén a felvonó nem közlekedik.",
+                "ro": "Telecabina nu funcționează în caz de vânt foarte puternic.",
+                "en": "The cable car does not operate during very strong winds."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie Busfahrkarten im Voraus am Kiosk (Tisak).",
+              "Die Busse können bei Regen sehr voll sein, planen Sie Zeit ein.",
+              "Laden Sie die Libertas-App für Echtzeit-Abfahrten herunter.",
+              "Das 'Pile'-Tor hat einen überdachten Bereich zum Warten."
+            ],
+            "hu": [
+              "Vegye meg a buszjegyet előre az újságárusnál (Tisak).",
+              "A buszok esőben nagyon zsúfoltak lehetnek, számoljon rá időt.",
+              "Töltse le a Libertas appot a valós idejű indulásokhoz.",
+              "A Pile-kapunál van egy fedett rész a várakozáshoz."
+            ],
+            "ro": [
+              "Cumpărați biletele de autobuz în avans de la chioșcuri (Tisak).",
+              "Autobuzele pot fi foarte aglomerate pe ploaie, alocați timp.",
+              "Descărcați aplicația Libertas pentru plecări în timp real.",
+              "Poarta Pile are o zonă acoperită pentru așteptare."
+            ],
+            "en": [
+              "Buy bus tickets in advance at kiosks (Tisak).",
+              "Buses can be very crowded in the rain, allow extra time.",
+              "Download the Libertas app for real-time departures.",
+              "Pile Gate has a covered area for waiting."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter ist der öffentliche Nahverkehr in Dubrovnik entspannt. Beginnen Sie Ihre Tour am Stradun und dem Onofrio-Brunnen. Besuchen Sie das Franziskanerkloster und den Sponza-Palast, die im Winter eine ruhige Atmosphäre bieten. Die Busse bringen Sie schnell zwischen den Toren Pile und Ploče hin und her. Nach der Blaise-Kirche und dem Rektorenpalast fahren Sie zum Berg Srđ, um die klare Winterluft und den Ausblick zu genießen, bevor Sie den Tag in der beheizten Altstadt-Gastronomie beenden.",
+            "hu": "Télen a tömegközlekedés Dubrovnikban nyugodt és kényelmes. Kezdje a túrát a Stradunon és az Onofrio-kútnál. Látogassa meg a Ferences kolostort és a Sponza-palotát, melyek télen csendes hangulatot árasztanak. A buszok gyorsan közlekednek a Pile és Ploče kapuk között. A Szent Balázs-templom és a Rektori palota után irány a Srđ-hegy a tiszta téli levegőért, majd zárja a napot az óvárosban.",
+            "ro": "Iarna, transportul public în Dubrovnik este relaxat. Începeți turul pe Stradun și la Fântâna lui Onofrio. Vizitați Mănăstirea Franciscană și Palatul Sponza, care oferă o atmosferă liniștită iarna. Autobuzele circulă rapid între porțile Pile și Ploče. După Biserica Sf. Blasiu și Palatul Rectorului, mergeți spre Muntele Srđ pentru aerul curat de iarnă.",
+            "en": "In winter, public transport in Dubrovnik is relaxed. Start your tour at Stradun and Onofrio's Fountain. Visit the Franciscan Monastery and Sponza Palace, which offer a quiet atmosphere in winter. Buses run quickly between Pile and Ploče gates. After St. Blaise Church and the Rector's Palace, head to Mount Srđ for the clear winter air and views."
+          },
+          "stops": [
+            {
+              "name": "Stradun",
+              "tip_5lang": {
+                "de": "Der Winterfahrplan hat oft weniger Verbindungen als im Sommer.",
+                "hu": "A téli menetrend gyakran ritkább járatokat tartalmaz.",
+                "ro": "Orarele de iarnă au adesea mai puține conexiuni decât vara.",
+                "en": "The winter schedule often has fewer connections than in summer."
+              }
+            },
+            {
+              "name": "Onofrio-Brunnen",
+              "tip_5lang": {
+                "de": "Setzen Sie sich im Bus auf die linke Seite für Meerblick.",
+                "hu": "Üljön a busz bal oldalára a tengeri kilátáshoz.",
+                "ro": "Așezați-vă pe partea stângă a autobuzului pentru vederea la mare.",
+                "en": "Sit on the left side of the bus for sea views."
+              }
+            },
+            {
+              "name": "Franziskanerkloster",
+              "tip_5lang": {
+                "de": "Der Bus hält direkt am Eingang zur Altstadt.",
+                "hu": "A busz közvetlenül az óvárosi bejáratnál áll meg.",
+                "ro": "Autobuzul oprește chiar la intrarea în orașul vechi.",
+                "en": "The bus stops right at the entrance to the Old Town."
+              }
+            },
+            {
+              "name": "Sponza-Palast",
+              "tip_5lang": {
+                "de": "Weniger Wartezeit an den Haltestellen in der Nebensaison.",
+                "hu": "Kevesebb várakozási idő a megállókban az előszezonban.",
+                "ro": "Mai puțin timp de așteptare în stații în extrasezon.",
+                "en": "Less waiting time at stops during the low season."
+              }
+            },
+            {
+              "name": "St.-Blaise-Kirche",
+              "tip_5lang": {
+                "de": "Im Winter ist der Platz Schauplatz des Festes des Hl. Blasius.",
+                "hu": "Télen ez a tér a Szent Balázs-ünnepség helyszíne.",
+                "ro": "Iarna, piața găzduiește festivalul Sfântului Blasiu.",
+                "en": "In winter, the square hosts the festival of St. Blaise."
+              }
+            },
+            {
+              "name": "Rektorenpalast",
+              "tip_5lang": {
+                "de": "Die Busfahrt von hier zum Hafen Gruž dauert etwa 15 Minuten.",
+                "hu": "A buszút innen a Gruž kikötőig kb. 15 perc.",
+                "ro": "Călătoria cu autobuzul de aici până în portul Gruž durează 15 min.",
+                "en": "The bus ride from here to Gruž harbor takes about 15 minutes."
+              }
+            },
+            {
+              "name": "Berg Srđ",
+              "tip_5lang": {
+                "de": "Die Seilbahn ist im Winter oft wegen Revision geschlossen.",
+                "hu": "A felvonó télen gyakran zárva tart karbantartás miatt.",
+                "ro": "Telecabina este adesea închisă iarna pentru revizie.",
+                "en": "The cable car is often closed in winter for maintenance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein 24-Stunden-Busticket lohnt sich bei mehreren Fahrten.",
+              "Die Busse sind gut beheizt, ideal zum Aufwärmen.",
+              "Abends fahren die Busse seltener, prüfen Sie den Nachtplan.",
+              "Die Seilbahn-Station ist etwa 10 Gehminuten vom Pile-Tor."
+            ],
+            "hu": [
+              "A 24 órás buszjegy megéri több utazás esetén.",
+              "A buszok jól fűtöttek, ideálisak a felmelegedéshez.",
+              "Este a buszok ritkábban járnak, ellenőrizze az éjszakai tervet.",
+              "A felvonó állomása kb. 10 perc séta a Pile-kaputól."
+            ],
+            "ro": [
+              "Un bilet de autobuz de 24 de ore merită pentru mai multe călătorii.",
+              "Autobuzele sunt bine încălzite, ideale pentru a vă încălzi.",
+              "Seara, autobuzele circulă mai rar, verificați programul de noapte.",
+              "Stația de telecabină este la aproximativ 10 minute de mers de Pile."
+            ],
+            "en": [
+              "A 24-hour bus ticket is worth it for multiple trips.",
+              "Buses are well-heated, ideal for warming up.",
+              "Buses run less frequently in the evening, check the night schedule.",
+              "The cable car station is about a 10-minute walk from Pile Gate."
+            ]
+          }
+        }
       }
     }
   }

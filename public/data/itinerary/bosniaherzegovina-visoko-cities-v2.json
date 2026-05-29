@@ -342,6 +342,188 @@
           "Be respectful when visiting mosques; dress modestly.",
           "The climb to the fortress is strenuous, so plan your time and energy accordingly."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt an der Fojnica-Brücke unter dem Regenschirm. Vormittags bieten die Tabhana-Moschee und das Heimatmuseum perfekten Schutz vor den Güssen. Mittags bewundern wir die moderne Architektur der Weißen Moschee im Trockenen. Nachmittags führt der Weg zum Franziskanerkloster. Den Abschluss bildet der Aufstieg zur Altstadt Visoki, wobei die Hügel mystisch im Nebel versinken.",
+            "hu": "Az esős reggel a Fojnica-hídnál indul, ahol a folyó vize megduzzad. Délelőtt a Tabhana-mecset és a Helytörténeti Múzeum kínál menedéket a záporok elől. Délben a Fehér-mecset modern belső tereit csodáljuk meg. Délután a ferences kolostor gyűjteménye vár. A napot a várhegyen zárjuk, ahol a ködbe burkolózó bosnyák piramisok látványa egészen misztikus hangulatot áraszt.",
+            "ro": "Ziua începe la podul peste râul Fojnica, sub umbrelă. Dimineața, Moscheea Tabhana și Muzeul Native oferă adăpostul perfect împotriva ploii. La prânz, admirăm arhitectura modernă a Moscheii Albe la interior. După-amiaza vizităm mănăstirea franciscană. Încheiem ziua la cetatea veche Visoki, unde dealurile învăluite în ceață creează o atmosferă mistică și relaxantă.",
+            "en": "The day starts at the Fojnica bridge under an umbrella. In the morning, the Tabhana Mosque and the Native Museum provide perfect shelter from the rain. At noon, we admire the modern interior of the White Mosque. The afternoon is spent exploring the Franciscan monastery. We end the day at the Old Town Visoki, where the misty hills create a mystical atmosphere over the valley."
+          },
+          "stops": [
+            {
+              "name": "Bridge over the Fojnica River",
+              "tip_4lang": {
+                "de": "Vorsicht, die Holz- und Steinflächen können bei Nässe rutschig sein.",
+                "hu": "Vigyázat, a nedves burkolat csúszós lehet a hídon.",
+                "ro": "Atenție, suprafața podului poate fi alunecoasă pe ploaie.",
+                "en": "Careful, the bridge surfaces can be slippery when wet."
+              }
+            },
+            {
+              "name": "Tabhana Mosque",
+              "tip_4lang": {
+                "de": "Ein ruhiger Ort, um den ersten starken Regen abzuwarten.",
+                "hu": "Csendes hely az első nagyobb zápor átvészelésére.",
+                "ro": "Un loc liniștit pentru a aștepta trecerea primei ploi.",
+                "en": "A peaceful place to wait out the first heavy shower."
+              }
+            },
+            {
+              "name": "Visoko Native Museum",
+              "tip_4lang": {
+                "de": "Nutzen Sie die Zeit für die detaillierten archäologischen Exponate.",
+                "hu": "Használja ki az időt a részletes régészeti kiállítás megtekintésére.",
+                "ro": "Profitați de timp pentru a vedea expozițiile arheologice detaliate.",
+                "en": "Take your time exploring the detailed archaeological exhibits indoors."
+              }
+            },
+            {
+              "name": "White Mosque (Šerefudin)",
+              "tip_4lang": {
+                "de": "Die Lichtspiele im Inneren wirken bei grauem Himmel besonders dramatisch.",
+                "hu": "A belső fények szürke égbolt mellett is lenyűgözőek.",
+                "ro": "Jocul de lumini din interior este dramatic chiar și sub cer gri.",
+                "en": "The interior light play is striking even under gray skies."
+              }
+            },
+            {
+              "name": "Franciscan Monastery of St. Bonaventure",
+              "tip_4lang": {
+                "de": "Die Bibliothek ist ein wunderbarer Rückzugsort bei Regen.",
+                "hu": "A könyvtár kiváló menedék a délutáni eső elől.",
+                "ro": "Biblioteca este un refugiu excelent împotriva ploii de după-amiază.",
+                "en": "The library is a wonderful sanctuary from the afternoon rain."
+              }
+            },
+            {
+              "name": "Old Town Visoki",
+              "tip_4lang": {
+                "de": "Gutes Schuhwerk ist für den matschigen Pfad zur Festung unerlässlich.",
+                "hu": "A várba vezető sáros úthoz vízálló bakancs ajánlott.",
+                "ro": "Încălțămintea impermeabilă este esențială pentru poteca noroioasă.",
+                "en": "Waterproof boots are essential for the muddy path to the fortress."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für den Aufstieg zur Altstadt.",
+              "Die Museen in Visoko sind ideale Orte für längere Regenschauer.",
+              "Nutzen Sie die Moscheen als respektvolle Unterstände.",
+              "Ein stabiler Regenschirm hält dem Wind im Tal besser stand."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a várba vezető emelkedőhöz.",
+              "A múzeumok ideális helyszínek a hosszabb záporok alatt.",
+              "Használja a mecseteket csendes és száraz pihenőpontként.",
+              "A völgyben fújó szél miatt egy stabil esernyő elengedhetetlen."
+            ],
+            "ro": [
+              "Purtați pantofi impermeabili pentru urcarea spre cetate.",
+              "Muzeele din Visoko sunt locuri ideale în timpul ploilor lungi.",
+              "Folosiți moscheile ca puncte de odihnă uscate și respectuoase.",
+              "O umbrelă rezistentă este necesară din cauza vântului de pe vale."
+            ],
+            "en": [
+              "Wear waterproof shoes for the climb to the old town.",
+              "Visoko's museums are ideal spots during long rain showers.",
+              "Use the local mosques as respectful and dry rest points.",
+              "A sturdy umbrella is necessary due to the valley winds."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An einem klaren Wintermorgen glitzert der Frost auf der Fojnica-Brücke. Vormittags wärmen wir uns in der Tabhana-Moschee und dem gut beheizten Heimatmuseum auf. Mittags bietet die Weiße Moschee spirituelle Wärme. Nachmittags besuchen wir das Kloster St. Bonaventura. Der Tag endet früh bei Sonnenuntergang auf der Festung Visoki mit einem Panoramablick über das verschneite Tal.",
+            "hu": "A fagyos téli reggelen zúzmara csillog a Fojnica-hídon. Délelőtt a Tabhana-mecsetben és a fűtött Helytörténeti Múzeumban melegszünk fel. Délben a Fehér-mecset modern minimalizmusa vár. Délután a ferences kolostor csendjét élvezzük. A nap korán zárul a várhegyen, ahonnan csodás kilátás nyílik a lemenő nap fényében úszó havas völgyre.",
+            "ro": "Într-o dimineață geroasă de iarnă, bruma strălucește pe podul Fojnica. Dimineața ne încălzim în Moscheea Tabhana și în muzeul bine încălzit. La prânz, Moscheea Albă oferă o atmosferă caldă. După-amiaza vizităm mănăstirea Sf. Bonaventura. Ziua se încheie devreme, la apus, pe cetatea Visoki, cu o panoramă superbă asupra văii înzăpezite.",
+            "en": "On a frosty winter morning, rime glitters on the Fojnica bridge. In the morning, we warm up in the Tabhana Mosque and the heated Native Museum. At noon, the White Mosque provides a serene escape. The afternoon is spent at St. Bonaventure Monastery. The day ends early at sunset on Visoki fortress with a panoramic view of the snow-covered valley."
+          },
+          "stops": [
+            {
+              "name": "Bridge over the Fojnica River",
+              "tip_4lang": {
+                "de": "Vorsicht vor Glatteis auf den Steinplatten am frühen Morgen.",
+                "hu": "Vigyázat, a kora reggeli fagy miatt a kövezet csúszós lehet.",
+                "ro": "Atenție la polei pe dalele de piatră dis-de-dimineață.",
+                "en": "Watch out for black ice on the stone slabs early in the morning."
+              }
+            },
+            {
+              "name": "Tabhana Mosque",
+              "tip_4lang": {
+                "de": "Die dicken Mauern halten die Kälte draußen.",
+                "hu": "A vastag falak jól kint tartják a téli hideget.",
+                "ro": "Zidurile groase mențin frigul afară.",
+                "en": "The thick walls keep the winter chill at bay."
+              }
+            },
+            {
+              "name": "Visoko Native Museum",
+              "tip_4lang": {
+                "de": "Genießen Sie die wohlige Wärme in den Ausstellungsräumen.",
+                "hu": "Élvezze a kellemes meleget a kiállítótermekben.",
+                "ro": "Bucurați-vă de căldura plăcută din sălile de expoziție.",
+                "en": "Enjoy the cozy warmth in the exhibition rooms."
+              }
+            },
+            {
+              "name": "White Mosque (Šerefudin)",
+              "tip_4lang": {
+                "de": "Ein heller, warmer Ort für eine kurze Winterrast.",
+                "hu": "Világos és meleg hely egy rövid téli pihenőhöz.",
+                "ro": "Un loc luminos și cald pentru un scurt popas de iarnă.",
+                "en": "A bright and warm place for a short winter rest."
+              }
+            },
+            {
+              "name": "Franciscan Monastery of St. Bonaventure",
+              "tip_4lang": {
+                "de": "Besuchen Sie das Klostermuseum, bevor es draußen dunkel wird.",
+                "hu": "Látogassa meg a kolostori múzeumot, mielőtt odakint besötétedik.",
+                "ro": "Vizitați muzeul mănăstirii înainte de a se întuneca afară.",
+                "en": "Visit the monastery museum before it gets dark outside."
+              }
+            },
+            {
+              "name": "Old Town Visoki",
+              "tip_4lang": {
+                "de": "Der Sonnenuntergang ist hier im Winter bereits gegen 16:15 Uhr.",
+                "hu": "A naplemente télen már 16:15 körül bekövetkezik.",
+                "ro": "Apusul are loc deja în jurul orei 16:15 iarna.",
+                "en": "Sunset occurs as early as 4:15 PM here during winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich in Schichten, da es im Tal windig sein kann.",
+              "Die Sonne verschwindet im Winter früh hinter den Bergen.",
+              "Suchen Sie Cafés im Zentrum auf, um sich zwischendurch aufzuwärmen.",
+              "Feste Wanderschuhe sind für den gefrorenen Boden zur Festung wichtig."
+            ],
+            "hu": [
+              "Öltözködjön rétegesen, mert a völgyben metsző szél fújhat.",
+              "A nap télen korán eltűnik a környező hegyek mögött.",
+              "Útközben térjen be egy központi kávézóba felmelegedni.",
+              "A várba vezető fagyott talajhoz stabil túrabakancs szükséges."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi, vântul poate fi tăios pe vale.",
+              "Soarele dispare devreme după munți în timpul iernii.",
+              "Opriți-vă la cafenelele din centru pentru a vă încălzi.",
+              "Bocancii de munte sunt necesari pentru solul înghețat spre cetate."
+            ],
+            "en": [
+              "Dress in layers as the valley winds can be biting.",
+              "The sun disappears early behind the mountains in winter.",
+              "Stop at central cafes to warm up between visits.",
+              "Sturdy hiking boots are needed for the frozen ground to the fortress."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -678,6 +860,188 @@
           "Always lock your bike in a secure location.",
           "Bring water and snacks, especially for the ride to the lake."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen starten wir die Radtour zum Zbilje-See, wobei wir auf die rutschigen Wege achten. Vormittags besuchen wir das Franziskanerkloster und das Heimatmuseum, um trocken zu bleiben. Mittags machen wir kurze Halts an der Weißen Moschee und der Tabhana-Moschee. Den Nachmittag verbringen wir am Fuße der Altstadt Visoki, bevor wir die Tour vorsichtig beenden.",
+            "hu": "Az eső ellenére a Zbilje-tó felé vesszük az irányt, ügyelve a csúszós utakra. Délelőtt a ferences kolostorban és a múzeumban pihenünk, elkerülve a nagyobb égi áldást. Délben a Fehér-mecset és a Tabhana-mecset érintésével haladunk. A délutánt a várhegy lábánál töltjük, majd óvatosan fejezzük be a kerékpáros kört.",
+            "ro": "În ciuda ploii, începem tura spre Lacul Zbilje, atenți la drumurile alunecoase. Dimineața vizităm mănăstirea și muzeul pentru a rămâne uscați. La prânz facem scurte opriri la Moscheea Albă și Tabhana. După-amiaza o petrecem la baza cetății Visoki, înainte de a încheia tura cu precauție.",
+            "en": "Despite the rain, we start our bike ride toward Zbilje Lake, staying cautious of slippery paths. In the morning, we retreat to the monastery and the museum to stay dry. At noon, we make quick stops at the White and Tabhana mosques. The afternoon is spent near the base of the Old Town before carefully concluding our ride."
+          },
+          "stops": [
+            {
+              "name": "Zbilje Lake",
+              "tip_4lang": {
+                "de": "Die Uferwege können sehr schlammig sein. Vorsicht in Kurven.",
+                "hu": "A tóparti utak sárosak lehetnek. Vigyázzon a kanyarokban.",
+                "ro": "Potecile de pe malul lacului pot fi noroioase. Atenție în curbe.",
+                "en": "Lakeside paths can be very muddy. Be careful in turns."
+              }
+            },
+            {
+              "name": "Franciscan Monastery of St. Bonaventure",
+              "tip_4lang": {
+                "de": "Stellen Sie Ihr Rad unter dem Dachvorsprung ab.",
+                "hu": "Parkolja le a kerékpárt az ereszhajlás védelmében.",
+                "ro": "Parcați bicicleta sub streașina clădirii.",
+                "en": "Park your bike under the roof overhang to keep it dry."
+              }
+            },
+            {
+              "name": "Visoko Native Museum",
+              "tip_4lang": {
+                "de": "Ideale Pause, um die Regenbekleidung kurz zu lüften.",
+                "hu": "Ideális szünet az esőruházat rövid átszellőztetésére.",
+                "ro": "O pauză ideală pentru a vă aerisi echipamentul de ploaie.",
+                "en": "An ideal break to briefly air out your rain gear."
+              }
+            },
+            {
+              "name": "White Mosque (Šerefudin)",
+              "tip_4lang": {
+                "de": "Achten Sie auf das glatte Kopfsteinpflaster in der Umgebung.",
+                "hu": "Ügyeljen a csúszós macskakőre a mecset környékén.",
+                "ro": "Atenție la pavajul alunecos din jurul moscheii.",
+                "en": "Watch out for slippery cobblestones around the mosque."
+              }
+            },
+            {
+              "name": "Tabhana Mosque",
+              "tip_4lang": {
+                "de": "Kurzer Stopp im Trockenen, bevor es weitergeht.",
+                "hu": "Rövid pihenő fedett helyen a folytatás előtt.",
+                "ro": "Scurt popas la adăpost înainte de a continua drumul.",
+                "en": "A short stop in the dry before continuing the ride."
+              }
+            },
+            {
+              "name": "Base of Old Town Visoki",
+              "tip_4lang": {
+                "de": "Der Boden ist hier oft rutschig durch herabfallendes Laub.",
+                "hu": "A nedves levelek miatt a talaj itt gyakran csúszós.",
+                "ro": "Solul este adesea alunecos din cauza frunzelor ude.",
+                "en": "The ground is often slippery here due to wet leaves."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie starkes Bremsen auf nassem Kopfsteinpflaster.",
+              "Vergewissern Sie sich, dass Ihre Schutzbleche fest sitzen.",
+              "Tragen Sie helle, reflektierende Regenbekleidung.",
+              "Der Weg zum See kann bei Regen anstrengender sein."
+            ],
+            "hu": [
+              "Kerülje az erős fékezést a nedves macskakövön.",
+              "Ellenőrizze, hogy a sárvédők stabilan állnak-e.",
+              "Viseljen világos, fényvisszaverő esőruházatot.",
+              "Az út a tóhoz esőben jóval megerőltetőbb lehet."
+            ],
+            "ro": [
+              "Evitați frânarea bruscă pe pavajul ud.",
+              "Asigurați-vă că aripile bicicletei sunt bine fixate.",
+              "Purtați echipament de ploaie reflectorizant.",
+              "Drumul spre lac poate fi mai solicitant pe ploaie."
+            ],
+            "en": [
+              "Avoid hard braking on wet cobblestones.",
+              "Make sure your mudguards are securely attached.",
+              "Wear bright, reflective rain gear for visibility.",
+              "The path to the lake can be more strenuous in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "In der Winterkälte führt die Tour zum Zbilje-See, der oft von Reif überzogen ist. Vormittags suchen wir Wärme im Franziskanerkloster und dem Heimatmuseum. Mittags besuchen wir die Weiße Moschee und die Tabhana-Moschee, wobei wir auf vereiste Stellen achten. Nachmittags erreichen wir den Fuß der Altstadt Visoki, bevor wir vor der Dämmerung zurückkehren.",
+            "hu": "A téli hidegben a zúzmarás Zbilje-tó felé tekerünk. Délelőtt a ferences kolostorban és a múzeumban keresünk enyhülést a fagy ellen. Délben a Fehér-mecsetet és a Tabhana-mecsetet érintjük, ügyelve a jeges foltokra. Délután a várhegy lábához érünk, majd még a szürkület beállta előtt visszafordulunk a városba.",
+            "ro": "În frigul iernii, tura duce spre Lacul Zbilje, adesea acoperit de brumă. Dimineața căutăm căldură la mănăstire și la muzeul de istorie. La prânz vizităm Moscheea Albă și Tabhana, atenți la zonele înghețate. După-amiaza ajungem la baza cetății Visoki, întorcându-ne înainte de lăsarea întunericului.",
+            "en": "In the winter chill, we ride toward the frosty Zbilje Lake. In the morning, we find warmth in the monastery and the Native Museum. At noon, we visit the White and Tabhana mosques, staying alert for icy patches. The afternoon takes us to the base of the Old Town before we head back before dusk."
+          },
+          "stops": [
+            {
+              "name": "Zbilje Lake",
+              "tip_4lang": {
+                "de": "Der Wind am See ist im Winter besonders schneidend.",
+                "hu": "A tóparti szél télen különösen metsző lehet.",
+                "ro": "Vântul de lângă lac este tăios în timpul iernii.",
+                "en": "The wind by the lake is particularly biting in winter."
+              }
+            },
+            {
+              "name": "Franciscan Monastery of St. Bonaventure",
+              "tip_4lang": {
+                "de": "Eine gute Gelegenheit, die kalten Hände aufzuwärmen.",
+                "hu": "Kiváló alkalom a kihűlt kezek felmelegítésére.",
+                "ro": "O ocazie bună pentru a vă încălzi mâinile înghețate.",
+                "en": "A good opportunity to warm up your cold hands."
+              }
+            },
+            {
+              "name": "Visoko Native Museum",
+              "tip_4lang": {
+                "de": "Längere Pause einplanen, um die Körpertemperatur zu halten.",
+                "hu": "Tervezzen hosszabb pihenőt a testhőmérséklet megőrzéséhez.",
+                "ro": "Planificați o pauză mai lungă pentru a vă recupera temperatura.",
+                "en": "Plan a longer break to maintain your body temperature."
+              }
+            },
+            {
+              "name": "White Mosque (Šerefudin)",
+              "tip_4lang": {
+                "de": "Vorsicht vor gefrorenem Kondenswasser auf dem Boden.",
+                "hu": "Vigyázzon a kövezeten lévő fagyott páralecsapódásra.",
+                "ro": "Atenție la condensul înghețat de pe sol.",
+                "en": "Watch out for frozen condensation on the ground."
+              }
+            },
+            {
+              "name": "Tabhana Mosque",
+              "tip_4lang": {
+                "de": "Ruhiger Halt vor der letzten Etappe im Kalten.",
+                "hu": "Csendes pihenő a hidegben való utolsó etap előtt.",
+                "ro": "Popas liniștit înainte de ultima etapă în frig.",
+                "en": "A quiet stop before the final cold stretch."
+              }
+            },
+            {
+              "name": "Base of Old Town Visoki",
+              "tip_4lang": {
+                "de": "Im Schatten des Berges ist es deutlich kälter.",
+                "hu": "A hegy árnyékában érezhetően hidegebb van.",
+                "ro": "La umbra muntelui este considerabil mai frig.",
+                "en": "It is significantly colder in the shadow of the mountain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Handschuhe und eine warme Mütze.",
+              "Achten Sie auf schwarzes Eis in schattigen Waldabschnitten.",
+              "Trinken Sie ausreichend warmen Tee vor der Abfahrt.",
+              "Der Reifendruck sollte bei Kälte regelmäßig geprüft werden."
+            ],
+            "hu": [
+              "Viseljen szélálló kesztyűt és meleg sapkát.",
+              "Ügyeljen a fekete jégre az árnyékos erdős szakaszokon.",
+              "Indulás előtt igyon elegendő meleg teát.",
+              "A guminyomást hidegben érdemes gyakrabban ellenőrizni."
+            ],
+            "ro": [
+              "Purtați mănuși rezistente la vânt și o căciulă caldă.",
+              "Atenție la gheața neagră în secțiunile umbrite de pădure.",
+              "Beți suficient ceai cald înainte de plecare.",
+              "Presiunea din pneuri trebuie verificată regulat pe frig."
+            ],
+            "en": [
+              "Wear windproof gloves and a warm hat.",
+              "Watch out for black ice in shaded forest sections.",
+              "Drink plenty of warm tea before setting off.",
+              "Check tire pressure regularly in cold temperatures."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1058,6 +1422,206 @@
           "A GPS or navigation app is essential for navigating between sites.",
           "Check the opening hours for the Ravne Tunnel in advance as they can vary."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "An einem regnerischen Tag ist der Ravne-Tunnel das perfekte Ziel, da er völlig trocken ist. Vormittags erkunden wir das unterirdische Labyrinth. Mittags fahren wir ins Stadtzentrum zum Heimatmuseum und zur Weißen Moschee. Nachmittags geht es hinauf zur Altstadt Visoki, wobei die Straße bei Nässe Vorsicht erfordert. Der Tag endet ruhig am Zbilje-See.",
+            "hu": "Esős napon a Ravne-alagút a legtökéletesebb célpont, hiszen teljesen fedett. Délelőtt a földalatti labirintust fedezzük fel. Délben a városközpontba autózunk a múzeumhoz és a Fehér-mecsethez. Délután a várhegyre hajtunk fel, ahol a nedves aszfalton óvatosan kell vezetni. A napot a Zbilje-tónál zárjuk, a szélvédő mögül figyelve a vizet.",
+            "ro": "Într-o zi ploioasă, Tunelul Ravne este destinația perfectă, fiind complet uscat. Dimineața explorăm labirintul subteran. La prânz conducem spre centrul orașului pentru muzeu și Moscheea Albă. După-amiaza urcăm spre cetatea Visoki, unde drumul necesită prudență pe ploaie. Ziua se încheie liniștit la Lacul Zbilje.",
+            "en": "On a rainy day, Ravne Tunnel is the perfect destination as it's completely dry. In the morning, we explore the underground labyrinth. At noon, we drive to the city center for the museum and the White Mosque. The afternoon takes us up to Old Town Visoki, where the wet road requires caution. The day ends peacefully at Zbilje Lake."
+          },
+          "stops": [
+            {
+              "name": "Ravne Tunnel Parking",
+              "tip_4lang": {
+                "de": "Der Parkplatz kann bei starkem Regen Pfützen bilden.",
+                "hu": "A parkolóban erős esőben nagy tócsák alakulhatnak ki.",
+                "ro": "Parcarea poate avea bălți mari în timpul ploilor torențiale.",
+                "en": "The parking lot may have large puddles during heavy rain."
+              }
+            },
+            {
+              "name": "Ravne Tunnel",
+              "tip_4lang": {
+                "de": "Hier ist es garantiert trocken – ideal bei jedem Wetter.",
+                "hu": "Itt garantáltan száraz az idő – bármilyen időben ideális.",
+                "ro": "Aici este garantat uscat – ideal pe orice vreme.",
+                "en": "Guaranteed dry inside – ideal regardless of the weather."
+              }
+            },
+            {
+              "name": "City Center Parking",
+              "tip_4lang": {
+                "de": "Zentraler Parkplatz, ideal um schnell ins Museum zu kommen.",
+                "hu": "Központi parkoló, ideális a gyors múzeumba jutáshoz.",
+                "ro": "Parcare centrală, ideală pentru a ajunge rapid la muzeu.",
+                "en": "Central parking, ideal for quick access to the museum."
+              }
+            },
+            {
+              "name": "Visoko Native Museum",
+              "tip_4lang": {
+                "de": "Parken Sie direkt davor, um trocken ins Gebäude zu gelangen.",
+                "hu": "Parkoljon közvetlenül előtte, hogy szárazon jusson be.",
+                "ro": "Parcați chiar în față pentru a intra uscat în clădire.",
+                "en": "Park right in front to get inside without getting wet."
+              }
+            },
+            {
+              "name": "White Mosque (Šerefudin)",
+              "tip_4lang": {
+                "de": "Ein kurzer Sprint vom Auto zum Eingang genügt.",
+                "hu": "Egy rövid sprint az autótól a bejáratig és már bent is van.",
+                "ro": "Un sprint scurt de la mașină la intrare este suficient.",
+                "en": "A short sprint from the car to the entrance is all it takes."
+              }
+            },
+            {
+              "name": "Old Town Visoki",
+              "tip_4lang": {
+                "de": "Die schmale Straße nach oben kann bei Regen rutschig sein.",
+                "hu": "A felfelé vezető keskeny út esőben csúszós lehet.",
+                "ro": "Drumul îngust spre vârf poate fi alunecos pe ploaie.",
+                "en": "The narrow road to the top can be slippery in the rain."
+              }
+            },
+            {
+              "name": "Zbilje Lake",
+              "tip_4lang": {
+                "de": "Genießen Sie den Blick auf den See gemütlich aus dem Auto.",
+                "hu": "Élvezze a tóra nyíló kilátást kényelmesen az autóból.",
+                "ro": "Bucurați-vă de priveliștea lacului din confortul mașinii.",
+                "en": "Enjoy the lake view comfortably from inside your car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Ravne-Tunnel ist der beste Ort bei Dauerregen.",
+              "Nutzen Sie die Parkplätze nah an den Sehenswürdigkeiten.",
+              "Achten Sie auf Aquaplaning auf der Hauptstraße nach Sarajevo.",
+              "Die Sicht kann im nebligen Tal stark eingeschränkt sein."
+            ],
+            "hu": [
+              "A Ravne-alagút a legjobb hely tartós eső esetén.",
+              "Használja a látnivalókhoz közeli parkolókat.",
+              "Ügyeljen a vízátfolyásokra a Szarajevó felé vezető úton.",
+              "A ködös völgyben a látótávolság jelentősen lecsökkenhet."
+            ],
+            "ro": [
+              "Tunelul Ravne este cel mai bun loc în caz de ploaie continuă.",
+              "Folosiți parcările apropiate de obiectivele turistice.",
+              "Atenție la acvaplanare pe drumul principal spre Sarajevo.",
+              "Vizibilitatea poate fi redusă în valea cețoasă."
+            ],
+            "en": [
+              "Ravne Tunnel is the best place during continuous rain.",
+              "Use parking spots close to the attractions to stay dry.",
+              "Watch out for aquaplaning on the main road to Sarajevo.",
+              "Visibility can be significantly reduced in the misty valley."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter bietet der Ravne-Tunnel mit konstanten 12 Grad eine angenehme Wärme. Vormittags erkunden wir die Tunnel. Mittags fahren wir ins Zentrum zum beheizten Museum und zur Weißen Moschee. Nachmittags wagen wir die Fahrt zur Altstadt Visoki, wobei wir auf Schnee und Eis achten. Den Tag lassen wir am winterlichen Zbilje-See ausklingen, bevor es dunkel wird.",
+            "hu": "Télen a Ravne-alagút állandó 12 fokos hőmérséklete kellemes felüdülés. Délelőtt az alagutakat járjuk be. Délben a központba hajtunk a fűtött múzeumhoz és a Fehér-mecsethez. Délután óvatosan felvezetünk a várhegyre, figyelve a hóra és jégre. A napot a téli Zbilje-tónál zárjuk, még a sötétség beállta előtt.",
+            "ro": "Iarna, Tunelul Ravne oferă o temperatură constantă de 12 grade. Dimineața explorăm tunelurile. La prânz mergem în centru la muzeul încălzit și la Moscheea Albă. După-amiaza urcăm spre cetatea Visoki, atenți la zăpadă și gheață. Încheiem ziua la Lacul Zbilje, înainte de lăsarea întunericului.",
+            "en": "In winter, Ravne Tunnel's constant 12°C temperature offers pleasant warmth. In the morning, we explore the tunnels. At noon, we drive to the center for the heated museum and the White Mosque. The afternoon includes a cautious drive to the Old Town, watching for ice. We finish the day at Zbilje Lake before nightfall."
+          },
+          "stops": [
+            {
+              "name": "Ravne Tunnel Parking",
+              "tip_4lang": {
+                "de": "Der Parkplatz wird im Winter oft nicht sofort geräumt.",
+                "hu": "A parkolót télen gyakran nem takarítják le azonnal.",
+                "ro": "Parcarea s-ar putea să nu fie deszăpezită imediat iarna.",
+                "en": "The parking lot may not be cleared of snow immediately in winter."
+              }
+            },
+            {
+              "name": "Ravne Tunnel",
+              "tip_4lang": {
+                "de": "Mit 12 Grad ist es hier wärmer als draußen.",
+                "hu": "12 fokos hőmérsékletével itt melegebb van, mint kint.",
+                "ro": "Cu 12 grade, aici este mai cald decât afară.",
+                "en": "At 12°C, it's warmer inside here than outside."
+              }
+            },
+            {
+              "name": "City Center Parking",
+              "tip_4lang": {
+                "de": "Achten Sie auf vereiste Stellen beim Einparken.",
+                "hu": "Parkoláskor ügyeljen a jeges szakaszokra.",
+                "ro": "Atenție la zonele înghețate când parcați.",
+                "en": "Watch out for icy patches when parking your car."
+              }
+            },
+            {
+              "name": "Visoko Native Museum",
+              "tip_4lang": {
+                "de": "Perfekt beheizt für eine längere Kulturpause.",
+                "hu": "Kiválóan fűtött helyszín egy hosszabb kulturális pihenőhöz.",
+                "ro": "Perfect încălzit pentru o pauză culturală prelungită.",
+                "en": "Perfectly heated for a longer cultural break."
+              }
+            },
+            {
+              "name": "White Mosque (Šerefudin)",
+              "tip_4lang": {
+                "de": "Kurzer Fußweg vom Parkplatz, um nicht auszukühlen.",
+                "hu": "Rövid séta a parkolótól, hogy ne hűljön ki.",
+                "ro": "Drum scurt de la parcare pentru a nu îngheța.",
+                "en": "Short walk from the parking lot to avoid catching a chill."
+              }
+            },
+            {
+              "name": "Old Town Visoki",
+              "tip_4lang": {
+                "de": "Winterreifen und Vorsicht bei der steilen Auffahrt nötig.",
+                "hu": "Téli gumi és óvatosság szükséges a meredek felhajtónál.",
+                "ro": "Anvelope de iarnă și prudență necesară pe urcarea abruptă.",
+                "en": "Winter tires and caution are needed for the steep ascent."
+              }
+            },
+            {
+              "name": "Zbilje Lake",
+              "tip_4lang": {
+                "de": "Der See ist bei Frost oft teilweise zugefroren.",
+                "hu": "Fagyos időben a tó gyakran részben befagy.",
+                "ro": "Lacul este adesea parțial înghețat în timpul gerului.",
+                "en": "The lake is often partially frozen during hard frosts."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Ihr Fahrzeug winterfest ist.",
+              "Der Ravne-Tunnel bietet eine konstante Temperatur von 12°C.",
+              "Planen Sie die Rückreise vor Einbruch der Dunkelheit.",
+              "Bergstraßen können bei plötzlichem Schneefall schwierig sein."
+            ],
+            "hu": [
+              "Győződjön meg róla, hogy autója fel van készítve a télre.",
+              "A Ravne-alagút állandó 12 fokos hőmérsékletet biztosít.",
+              "Tervezze meg a visszautat a sötétedés beállta előtt.",
+              "A hegyi utak hirtelen hóesésben nehezen járhatóak lehetnek."
+            ],
+            "ro": [
+              "Asigurați-vă că vehiculul este pregătit pentru iarnă.",
+              "Tunelul Ravne oferă o temperatură constantă de 12°C.",
+              "Planificați întoarcerea înainte de lăsarea întunericului.",
+              "Drumurile montane pot fi dificile în caz de ninsoare bruscă."
+            ],
+            "en": [
+              "Ensure your vehicle is winter-ready before heading out.",
+              "Ravne Tunnel provides a constant temperature of 12°C.",
+              "Plan your return trip before darkness falls.",
+              "Mountain roads can be tricky during sudden snowfall."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1394,6 +1958,188 @@
           "Ask locals or the bus driver if you're unsure about a stop.",
           "Bus frequency may be reduced in the evenings and on weekends."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regen bestimmt den Tag, den wir mit dem Bus an der Zentralstation beginnen. Vormittags besuchen wir die Weiße Moschee und das Heimatmuseum. Mittags geht es weiter zum Franziskanerkloster. Nachmittags nehmen wir den Bus in Richtung Ravne, um im trockenen Tunnel Schutz zu finden und die unterirdische Welt zu erkunden, während es draußen weiter regnet.",
+            "hu": "Az esős napot a központi buszmegállóban indítjuk. Délelőtt a Fehér-mecsetet és a Helytörténeti Múzeumot keressük fel. Délben a ferences kolostorhoz utazunk tovább. Délután busszal megyünk Ravne felé, hogy a száraz alagútban leljünk menedéket és fedezzük fel a földalatti világot, miközben kint szakad az eső.",
+            "ro": "Ziua ploioasă începe la stația centrală de autobuz. Dimineața vizităm Moscheea Albă și Muzeul Native. La prânz continuăm spre mănăstirea franciscană. După-amiaza luăm autobuzul spre Ravne pentru a găsi adăpost în tunelul uscat și a explora lumea subterană în timp ce afară plouă.",
+            "en": "The rainy day starts at the central bus stop. In the morning, we visit the White Mosque and the Native Museum. At noon, we continue to the Franciscan monastery. In the afternoon, we take the bus toward Ravne to find shelter in the dry tunnel and explore the underground world while it pours outside."
+          },
+          "stops": [
+            {
+              "name": "Visoko Central Bus Stop",
+              "tip_4lang": {
+                "de": "Überdachter Wartebereich vorhanden, um trocken zu bleiben.",
+                "hu": "Fedett váróterem áll rendelkezésre az eső ellen.",
+                "ro": "Există o zonă de așteptare acoperită pentru a rămâne uscat.",
+                "en": "A covered waiting area is available to keep you dry."
+              }
+            },
+            {
+              "name": "White Mosque (Šerefudin)",
+              "tip_4lang": {
+                "de": "Nur ein kurzer Fußweg von der nächsten Haltestelle.",
+                "hu": "Csak egy rövid séta a legközelebbi buszmegállótól.",
+                "ro": "Doar o scurtă plimbare de la cea mai apropiată stație.",
+                "en": "Just a short walk from the nearest bus stop."
+              }
+            },
+            {
+              "name": "Visoko Native Museum",
+              "tip_4lang": {
+                "de": "Idealer Ort, um die Wartezeit auf den nächsten Bus zu überbrücken.",
+                "hu": "Ideális hely a következő buszra való várakozáshoz.",
+                "ro": "Locul ideal pentru a aștepta următorul autobuz.",
+                "en": "Ideal place to wait comfortably for the next bus."
+              }
+            },
+            {
+              "name": "Franciscan Monastery of St. Bonaventure",
+              "tip_4lang": {
+                "de": "Die Haltestelle ist nah am Klostereingang.",
+                "hu": "A buszmegálló közel van a kolostor bejáratához.",
+                "ro": "Stația de autobuz este aproape de intrarea în mănăstire.",
+                "en": "The bus stop is located conveniently close to the monastery."
+              }
+            },
+            {
+              "name": "Ravne Bus Stop",
+              "tip_4lang": {
+                "de": "Von hier aus schnell zum Tunneleingang sprinten.",
+                "hu": "Innentől gyors sprint a busztól az alagút bejáratáig.",
+                "ro": "De aici, fugiți repede spre intrarea în tunel.",
+                "en": "From here, it's a quick dash to the tunnel entrance."
+              }
+            },
+            {
+              "name": "Ravne Tunnel",
+              "tip_4lang": {
+                "de": "Der beste Ort, um den Regentag entspannt zu beenden.",
+                "hu": "A legjobb hely az esős nap nyugodt befejezéséhez.",
+                "ro": "Cel mai bun loc pentru a încheia relaxat o zi ploioasă.",
+                "en": "The best place to end a rainy day in a relaxed way."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Busfahrplan bei Regen vorab online.",
+              "Der Bus nach Ravne ist bei schlechtem Wetter sehr praktisch.",
+              "Tragen Sie Kleidung, die auch im Bus schnell trocknet.",
+              "Haben Sie Kleingeld für die Fahrkarten bereit."
+            ],
+            "hu": [
+              "Esőben érdemes előre ellenőrizni a buszmenetrendet online.",
+              "A Ravne felé közlekedő busz rossz időben nagyon praktikus.",
+              "Viseljen olyan ruházatot, amely a buszon is gyorsan szárad.",
+              "Készítsen össze aprópénzt a jegyvásárláshoz."
+            ],
+            "ro": [
+              "Verificați programul autobuzelor online înainte de plecare.",
+              "Autobuzul spre Ravne este foarte practic pe vreme rea.",
+              "Purtați haine care se usucă repede și în autobuz.",
+              "Pregătiți mărunțiș pentru achiziționarea biletelor."
+            ],
+            "en": [
+              "Check the bus schedule online ahead of time during rain.",
+              "The bus to Ravne is very practical during bad weather.",
+              "Wear clothing that dries quickly even while on the bus.",
+              "Have small change ready for buying bus tickets."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter starten wir an der Busstation und nutzen die Wärme der öffentlichen Verkehrsmittel. Vormittags besuchen wir die Weiße Moschee und das Museum. Mittags geht es zum Kloster St. Bonaventura. Nachmittags nehmen wir den Bus nach Ravne, wo die Tunnel mit 12 Grad deutlich wärmer sind als die Außenluft, was den Besuch besonders angenehm macht.",
+            "hu": "Télen a buszállomásról indulunk, kihasználva a tömegközlekedés melegét. Délelőtt a Fehér-mecsetet és a múzeumot látogatjuk meg. Délben a ferences kolostorhoz utazunk. Délután busszal megyünk Ravne felé, ahol az alagutak 12 fokos levegője jóval melegebb a kinti fagyos levegőnél.",
+            "ro": "Iarna începem de la autogară și profităm de căldura mijloacelor de transport. Dimineața vizităm Moscheea Albă și muzeul. La prânz mergem la mănăstirea Sf. Bonaventura. După-amiaza luăm autobuzul spre Ravne, unde cele 12 grade din tunel sunt mult mai plăcute decât gerul de afară.",
+            "en": "In winter, we start at the bus station and take advantage of the warmth of public transit. In the morning, we visit the White Mosque and the museum. At noon, we head to the monastery. In the afternoon, we take the bus to Ravne, where the 12°C tunnel temperature is much warmer than the freezing air outside."
+          },
+          "stops": [
+            {
+              "name": "Visoko Central Bus Stop",
+              "tip_4lang": {
+                "de": "Warten Sie im beheizten Bereich, falls verfügbar.",
+                "hu": "Várjon a fűtött váróteremben, ha rendelkezésre áll.",
+                "ro": "Așteptați în zona încălzită, dacă este disponibilă.",
+                "en": "Wait in the heated area if one is available."
+              }
+            },
+            {
+              "name": "White Mosque (Šerefudin)",
+              "tip_4lang": {
+                "de": "Die Bushaltestellen sind im Winter oft windig.",
+                "hu": "A buszmegállók télen gyakran huzatosak.",
+                "ro": "Stațiile de autobuz sunt adesea bântuite de vânt iarna.",
+                "en": "The bus stops can be quite windy during winter."
+              }
+            },
+            {
+              "name": "Visoko Native Museum",
+              "tip_4lang": {
+                "de": "Nutzen Sie den Museumsbesuch zum vollständigen Aufwärmen.",
+                "hu": "Használja ki a múzeumlátogatást a teljes felmelegedésre.",
+                "ro": "Folosiți vizita la muzeu pentru a vă încălzi complet.",
+                "en": "Use the museum visit to fully warm up your body."
+              }
+            },
+            {
+              "name": "Franciscan Monastery of St. Bonaventure",
+              "tip_4lang": {
+                "de": "Der Busverkehr kann bei Schnee leicht verzögert sein.",
+                "hu": "Hóesésben a buszközlekedésben kisebb késések lehetnek.",
+                "ro": "Circulația autobuzelor poate avea întârzieri pe ninsoare.",
+                "en": "Bus services may experience slight delays during snowfall."
+              }
+            },
+            {
+              "name": "Ravne Bus Stop",
+              "tip_4lang": {
+                "de": "Bewegen Sie sich, um beim Warten nicht auszukühlen.",
+                "hu": "Várakozás közben mozogjon, hogy ne hűljön ki.",
+                "ro": "Muntați-vă pentru a nu îngheța în timp ce așteptați.",
+                "en": "Keep moving while waiting to avoid catching a chill."
+              }
+            },
+            {
+              "name": "Ravne Tunnel",
+              "tip_4lang": {
+                "de": "Ein idealer Rückzugsort vor der winterlichen Kälte.",
+                "hu": "Ideális búvóhely a téli fagy elől.",
+                "ro": "Un refugiu ideal împotriva gerului de iarnă.",
+                "en": "An ideal sanctuary from the biting winter frost."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse sind im Winter meist gut beheizt.",
+              "Planen Sie Pufferzeiten für mögliche Verspätungen ein.",
+              "Tragen Sie warme Socken für das Warten an Haltestellen.",
+              "Die letzte Rückfahrt ist im Winter oft früher."
+            ],
+            "hu": [
+              "A buszok télen általában jól fűtöttek.",
+              "Tervezzen be tartalékidőt az esetleges késések miatt.",
+              "Viseljen meleg zoknit a megállókban való várakozáshoz.",
+              "Télen az utolsó járatok gyakran korábban indulnak."
+            ],
+            "ro": [
+              "Autobuzele sunt de obicei bine încălzite iarna.",
+              "Planificați timp suplimentar pentru eventuale întârzieri.",
+              "Purtați șosete groase pentru așteptarea în stații.",
+              "Ultimul autobuz pleacă adesea mai devreme iarna."
+            ],
+            "en": [
+              "Buses are usually well-heated during the winter months.",
+              "Plan for extra time in case of weather-related delays.",
+              "Wear warm socks for waiting at outdoor bus stops.",
+              "The last return trip often departs earlier in winter."
+            ]
+          }
+        }
       }
     }
   }

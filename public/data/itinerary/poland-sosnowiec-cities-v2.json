@@ -362,6 +362,188 @@
           "Always keep some cash on hand for smaller purchases or tips.",
           "A small city map is helpful, although the center is quite compact."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag in Sosnowiec beginnt im Sielecki-Schloss, dessen dicke Mauern Schutz bieten. Der Spaziergang zum Dietel-Palais erfordert einen guten Regenschirm, aber die prachtvollen Innenräume entschädigen für die Nässe. Nach einem ausgiebigen Mittagessen im Zentrum verbringen Sie den Nachmittag im Zagłębie-Museum. Der Tag endet im Schön-Palast, wo das Klopfen des Regens an den Fenstern für eine melancholische Atmosphäre sorgt.",
+            "hu": "Az esős nap Sosnowiecben a Sielecki-kastélynál indul, ahol a falak között szárazon maradhatunk. Az út a Dietel-palotáig esernyőt igényel, de a belső terek pompája megéri a fáradtságot. Egy kiadós belvárosi ebéd után a Zagłębie Múzeum termeiben bújhatunk el a zápor elől. A napot a Schön-palotában zárjuk, ahol az ablakokon kopogó eső különleges, nosztalgikus hangulatot áraszt.",
+            "ro": "O zi ploioasă în Sosnowiec începe la Castelul Sielecki, unde zidurile groase oferă adăpost. Plimbarea către Palatul Dietel necesită o umbrelă bună, dar interioarele magnifice compensează umezeala. După un prânz prelungit în centru, vă veți adăposti de ploaie în sălile Muzeului Zagłębie. Ziua se încheie la Palatul Schön, unde sunetul ploii pe ferestre creează o atmosferă melancolică.",
+            "en": "A rainy day in Sosnowiec begins at Sielecki Castle, where the thick walls provide perfect shelter. The walk to Dietel Palace requires a sturdy umbrella, but the magnificent interiors make up for the dampness. After a long lunch in the center, you can hide from the downpour in the Zagłębie Museum. The day concludes at Schön Palace, where the rain tapping on the windows adds a touch of melancholic charm."
+          },
+          "stops": [
+            {
+              "name": "Sielecki Castle & Park",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Schlossführungen, um trocken zu bleiben.",
+                "hu": "Használja ki a kastélytúrákat, hogy szárazon maradjon.",
+                "ro": "Profită de tururile castelului pentru a rămâne uscat.",
+                "en": "Take advantage of the castle tours to stay dry indoors."
+              }
+            },
+            {
+              "name": "Dietel Palace",
+              "tip_5lang": {
+                "de": "Bewundern Sie das Badezimmer im Pompeji-Stil bei Regen.",
+                "hu": "Csodálja meg a pompei stílusú fürdőszobát az eső elől bújva.",
+                "ro": "Admirați baia în stil pompeian în timp ce vă adăpostiți.",
+                "en": "Admire the Pompeian-style bathroom while sheltering from the rain."
+              }
+            },
+            {
+              "name": "Cathedral of the Assumption of the Blessed Virgin Mary",
+              "tip_5lang": {
+                "de": "Die Fresken im Inneren bieten einen farbenfrohen Fluchtpunkt.",
+                "hu": "A belső freskók színes menedéket nyújtanak a szürkeségben.",
+                "ro": "Frescele din interior oferă un refugiu colorat.",
+                "en": "The interior frescoes offer a colorful escape from the grey weather."
+              }
+            },
+            {
+              "name": "Lunch in the city center",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit Garderobe für nasse Mäntel.",
+                "hu": "Válasszon ruhatáras éttermet a vizes kabátok miatt.",
+                "ro": "Alegeți un restaurant cu garderobă pentru haine ude.",
+                "en": "Choose a restaurant with a cloakroom for wet coats."
+              }
+            },
+            {
+              "name": "Zagłębie Museum",
+              "tip_5lang": {
+                "de": "Perfekter Ort für eine lange, trockene Besichtigung.",
+                "hu": "Tökéletes helyszín egy hosszú, száraz városnézéshez.",
+                "ro": "Locul perfect pentru o vizită lungă și uscată.",
+                "en": "The perfect place for a long, dry sightseeing session."
+              }
+            },
+            {
+              "name": "Schön Palace",
+              "tip_5lang": {
+                "de": "Das Glasmuseum im Inneren ist ein Highlight bei Schlechtwetter.",
+                "hu": "A belső üvegmúzeum igazi fénypont rossz időben.",
+                "ro": "Muzeul sticlei din interior este o atracție de top pe ploaie.",
+                "en": "The glass museum inside is a highlight during bad weather."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da sich im Sielecki-Park Pfützen bilden können.",
+              "Die meisten Paläste in Sosnowiec haben große Eingangsbereiche zum Unterstellen.",
+              "Ein Taschenschirm ist bei den kurzen Distanzen zwischen den Museen ideal.",
+              "Nutzen Sie die Zeit in den Cafés im Zentrum, um die stärksten Schauer abzuwarten."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert a Sielecki-parkban könnyen megáll a víz.",
+              "A legtöbb sosnowieci palota tágas előtérrel rendelkezik a várakozáshoz.",
+              "Egy összecsukható esernyő ideális a múzeumok közötti rövid távokra.",
+              "Használja a belvárosi kávézókat a nagyobb záporok átvészelésére."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, deoarece se pot forma bălți în Parcul Sielecki.",
+              "Majoritatea palatelor din Sosnowiec au zone de intrare spațioase pentru adăpost.",
+              "O umbrelă pliabilă este ideală pentru distanțele scurte dintre muzee.",
+              "Folosiți cafenelele din centru pentru a aștepta trecerea ploilor torențiale."
+            ],
+            "en": [
+              "Wear waterproof shoes as puddles tend to form in Sielecki Park.",
+              "Most palaces in Sosnowiec have spacious entrance areas for sheltering.",
+              "A compact umbrella is ideal for the short distances between museums.",
+              "Utilize the city center cafes to wait out the heaviest showers."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Sosnowiec im Winter zeigt sich von seiner kühlen, industriellen Seite. Der Sielecki-Park ist oft in Raureif gehüllt, was dem Schloss eine märchenhafte Note verleiht. Nach dem Besuch der Kathedrale wärmen Sie sich bei einem heißen Mittagessen auf. Der Nachmittag gehört den Museen, wo die Heizung für Wohlbefinden sorgt. Da es früh dunkel wird, erstrahlen die Paläste am späten Nachmittag in stimmungsvoller Beleuchtung.",
+            "hu": "A téli Sosnowiec hűvös, ipari bájjal fogadja a látogatókat. A Sielecki-parkot gyakran zúzmara fedi, ami mesebeli keretet ad a kastélynak. A székesegyház megtekintése után egy forró ebéd ad új erőt a folytatáshoz. A délutánt a múzeumokban töltjük, ahol a fűtött termek kényelmet nyújtanak. Mivel korán sötétedik, a paloták már késő délután díszkivilágításban pompáznak.",
+            "ro": "Sosnowiec în timpul iernii își arată latura răcoroasă și industrială. Parcul Sielecki este adesea acoperit de chiciură, oferind castelului o notă de poveste. După vizitarea catedralei, vă veți încălzi cu un prânz fierbinte. După-amiaza aparține muzeelor, unde căldura din interior oferă confort. Deoarece se întunecă devreme, palatele sunt iluminate spectaculos încă de la sfârșitul după-amiezii.",
+            "en": "Sosnowiec in winter reveals its cool, industrial side. Sielecki Park is often covered in hoarfrost, giving the castle a fairytale touch. After visiting the cathedral, warm up with a hot lunch. The afternoon is dedicated to museums, where the heating provides much-needed comfort. As darkness falls early, the palaces are beautifully illuminated by late afternoon."
+          },
+          "stops": [
+            {
+              "name": "Sielecki Castle & Park",
+              "tip_5lang": {
+                "de": "Der frostige Park bietet tolle Fotomotive des Schlosses.",
+                "hu": "A fagyos park kiváló fotótémát kínál a kastélyhoz.",
+                "ro": "Parcul înghețat oferă oportunități foto grozave cu castelul.",
+                "en": "The frosty park offers great photo opportunities of the castle."
+              }
+            },
+            {
+              "name": "Dietel Palace",
+              "tip_5lang": {
+                "de": "Drinnen ist es gemütlich warm, ideal zum Aufwärmen.",
+                "hu": "Odabent kellemes meleg van, ideális a felmelegedéshez.",
+                "ro": "În interior este cald și plăcut, ideal pentru încălzire.",
+                "en": "It's comfortably warm inside, ideal for a quick warm-up."
+              }
+            },
+            {
+              "name": "Cathedral of the Assumption of the Blessed Virgin Mary",
+              "tip_5lang": {
+                "de": "Achten Sie auf die glatten Stufen am Eingang.",
+                "hu": "Vigyázzon a bejáratnál a csúszós lépcsőkre.",
+                "ro": "Atenție la treptele alunecoase de la intrare.",
+                "en": "Watch out for slippery steps at the entrance."
+              }
+            },
+            {
+              "name": "Lunch in the city center",
+              "tip_5lang": {
+                "de": "Probieren Sie eine heiße polnische Suppe (Żurek).",
+                "hu": "Kóstoljon meg egy forró lengyel levest (Żurek).",
+                "ro": "Încercați o supă poloneză fierbinte (Żurek).",
+                "en": "Try a hot Polish soup (Żurek) to boost your energy."
+              }
+            },
+            {
+              "name": "Zagłębie Museum",
+              "tip_5lang": {
+                "de": "Die Ausstellungen lassen die Kälte draußen vergessen.",
+                "hu": "A kiállítások feledtetik a kinti hideget.",
+                "ro": "Expozițiile vă vor face să uitați de frigul de afară.",
+                "en": "The exhibitions will make you forget the cold outside."
+              }
+            },
+            {
+              "name": "Schön Palace",
+              "tip_5lang": {
+                "de": "Genießen Sie die Außenbeleuchtung in der frühen Dämmerung.",
+                "hu": "Élvezze a külső világítást a korai szürkületben.",
+                "ro": "Bucurați-vă de iluminatul exterior la amurgul timpuriu.",
+                "en": "Enjoy the exterior lighting in the early twilight."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "In Polen wird es im Dezember bereits gegen 16:00 Uhr dunkel.",
+              "Tragen Sie Handschuhe, da der Wind in den offenen Parkanlagen beißen kann.",
+              "Die Gehwege können bei Frost sehr glatt sein, wählen Sie Profilsohlen.",
+              "Warme Getränke wie 'Herbata z prądem' sind in lokalen Cafés beliebt."
+            ],
+            "hu": [
+              "Lengyelországban decemberben már délután 4 körül sötétedik.",
+              "Viseljen kesztyűt, mert a szél metsző lehet a nyitott parkokban.",
+              "A járdák fagy esetén nagyon csúszósak lehetnek, hordjon tapadós talpú cipőt.",
+              "A meleg italok, mint a teák, nagyon népszerűek a helyi kávézókban."
+            ],
+            "ro": [
+              "În Polonia, în decembrie se întunecă deja în jurul orei 16:00.",
+              "Purtați mănuși, deoarece vântul poate fi tăios în parcurile deschise.",
+              "Trotuarele pot fi foarte alunecoase în caz de îngheț, alegeți tălpi aderente.",
+              "Băuturile calde precum ceaiul sunt foarte populare în cafenelele locale."
+            ],
+            "en": [
+              "In Poland, it gets dark as early as 4:00 PM in December.",
+              "Wear gloves, as the wind can be biting in the open park areas.",
+              "Sidewalks can be very slippery during frost; choose shoes with good grip.",
+              "Hot drinks like tea with lemon are popular in local cafes during winter."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -706,6 +888,206 @@
           "Bring a reusable water bottle to stay hydrated.",
           "A helmet is strongly recommended for safety."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren in Sosnowiec bei Regen erfordert Konzentration. Vom Sielecki-Schloss geht es über befestigte Wege zum Schön-Palast. Die St.-Joachims-Kirche bietet eine trockene Pause, bevor Sie das Stadtzentrum für ein warmes Mittagessen erreichen. Der Nachmittag im Zagłębie-Museum ist die perfekte Gelegenheit, die Kleidung zu trocknen. Die letzte Etappe zum Exotarium führt durch die erfrischte, nasse Natur.",
+            "hu": "Az esőben való biciklizés Sosnowiecben odafigyelést igényel. A Sielecki-kastélytól aszfaltozott utakon jutunk el a Schön-palotához. A Szent Joakim-templom száraz pihenőt kínál, mielőtt elérjük a belvárost egy meleg ebédre. A délután a Zagłębie Múzeumban tökéletes alkalom a ruhák megszárítására. Az utolsó szakasz az Exotariumhoz a friss, esőáztatta természeten keresztül vezet.",
+            "ro": "Mersul pe bicicletă în Sosnowiec pe ploaie necesită concentrare. De la Castelul Sielecki, traseul urmează drumuri asfaltate către Palatul Schön. Biserica Sf. Ioachim oferă o pauză uscată înainte de a ajunge în centru pentru un prânz cald. După-amiaza la Muzeul Zagłębie este ocazia perfectă pentru a vă usca hainele. Ultima etapă către Exotarium trece prin natura împrospătată de ploaie.",
+            "en": "Cycling in Sosnowiec in the rain requires focus. From Sielecki Castle, the route follows paved paths to Schön Palace. St. Joachim's Church offers a dry break before you reach the city center for a warm lunch. An afternoon at the Zagłębie Museum is the perfect opportunity to dry your gear. The final leg to the Exotarium leads through the refreshed, wet landscape."
+          },
+          "stops": [
+            {
+              "name": "Sielecki Castle & Park",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem nassen Kopfsteinpflaster am Schlosshof.",
+                "hu": "Vigyázzon a vizes macskaköveken a kastélyudvaron.",
+                "ro": "Atenție pe piatra cubică umedă din curtea castelului.",
+                "en": "Be careful on the wet cobblestones in the castle courtyard."
+              }
+            },
+            {
+              "name": "Schön Palace",
+              "tip_5lang": {
+                "de": "Fahrradständer befinden sich in der Nähe des Eingangs.",
+                "hu": "A kerékpártárolók a bejárat közelében találhatók.",
+                "ro": "Suporturile de biciclete sunt situate lângă intrare.",
+                "en": "Bike racks are located near the main entrance."
+              }
+            },
+            {
+              "name": "St. Joachim's Church",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Portal als Unterstand bei kurzen Schauern.",
+                "hu": "Használja a templomkaput menedékként rövid záporoknál.",
+                "ro": "Folosiți portalul ca adăpost în timpul averselor scurte.",
+                "en": "Use the church portal as shelter during short showers."
+              }
+            },
+            {
+              "name": "Dietel Palace & Cathedral",
+              "tip_5lang": {
+                "de": "Sichern Sie Ihr Rad unter dem Vordach, falls möglich.",
+                "hu": "Zárja le a biciklit az előtető alatt, ha lehetséges.",
+                "ro": "Asigurați bicicleta sub copertină, dacă este posibil.",
+                "en": "Lock your bike under a canopy if possible to keep it dry."
+              }
+            },
+            {
+              "name": "Lunch",
+              "tip_5lang": {
+                "de": "Suchen Sie Plätze mit Sichtkontakt zum Rad im Regen.",
+                "hu": "Keressen olyan helyet, ahonnan rálát a biciklire az esőben.",
+                "ro": "Căutați locuri cu vizibilitate către bicicletă pe ploaie.",
+                "en": "Find a spot with a view of your bike in the rain."
+              }
+            },
+            {
+              "name": "Zagłębie Museum",
+              "tip_5lang": {
+                "de": "Ideale Pause, um die Regenjacke auszuschütteln.",
+                "hu": "Ideális szünet az esőkabát lerázására.",
+                "ro": "O pauză ideală pentru a vă scutura pelerina de ploaie.",
+                "en": "An ideal break to shake off your raincoat."
+              }
+            },
+            {
+              "name": "Exotarium",
+              "tip_5lang": {
+                "de": "Das feuchte Klima drinnen passt zum Wetter draußen.",
+                "hu": "A benti párás klíma passzol a kinti időjáráshoz.",
+                "ro": "Climatul umed din interior se potrivește cu vremea de afară.",
+                "en": "The humid climate inside matches the weather outside."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Verwenden Sie Schutzbleche, um Schlammspritzer zu vermeiden.",
+              "Bremsscheiben können bei Nässe länger zum Greifen brauchen.",
+              "Vermeiden Sie glatte Fahrbahnmarkierungen und nasse Blätter.",
+              "Wasserdichte Packtaschen sind für Kameras und Handys ein Muss."
+            ],
+            "hu": [
+              "Használjon sárvédőt a felcsapódó sár elkerülése érdekében.",
+              "A fékek nedves időben hosszabb fékutat igényelhetnek.",
+              "Kerülje a csúszós útburkolati jeleket és a vizes leveleket.",
+              "A vízálló táska elengedhetetlen a telefonok és kamerák számára."
+            ],
+            "ro": [
+              "Folosiți apărători pentru a evita stropii de noroi.",
+              "Frânele pot necesita o distanță mai mare de oprire pe umiditate.",
+              "Evitați marcajele rutiere alunecoase și frunzele ude.",
+              "Genzile impermeabile sunt obligatorii pentru telefoane și camere."
+            ],
+            "en": [
+              "Use mudguards to avoid getting splashed with mud.",
+              "Brakes may take longer to respond in wet conditions.",
+              "Avoid slippery road markings and wet leaves on the paths.",
+              "Waterproof panniers are a must for cameras and phones."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in Sosnowiec ist erfrischend. Die Route verbindet historische Paläste über oft geräumte Hauptstraßen. Im Sielecki-Park ist Vorsicht geboten, wenn der Schnee die Wege bedeckt. Ein Besuch in der St.-Joachims-Kirche bietet spirituelle Ruhe und Schutz vor dem kalten Wind. Der absolute Höhepunkt ist das Exotarium am Ende der Tour: Der Übergang von der polnischen Winterkälte in die tropische Wärme ist unvergesslich.",
+            "hu": "A téli biciklizés Sosnowiecben frissítő élmény. Az útvonal a történelmi palotákat köti össze a gyakran tisztított főutakon. A Sielecki-parkban óvatosság szükséges, ha hó fedi az utakat. A Szent Joakim-templom spirituális békét és védelmet nyújt a hideg szél ellen. A túra csúcspontja az Exotarium: az átmenet a lengyel télből a trópusi melegbe felejthetetlen élmény.",
+            "ro": "Mersul pe bicicletă iarna în Sosnowiec este revigorant. Traseul conectează palatele istorice prin drumuri principale adesea curățate. În Parcul Sielecki este necesară prudență dacă zăpada acoperă potecile. O vizită la Biserica Sf. Ioachim oferă liniște spirituală și protecție împotriva vântului rece. Punctul culminant este Exotarium la final: tranziția de la gerul polonez la căldura tropicală este de neuitat.",
+            "en": "Winter cycling in Sosnowiec is refreshing. The route connects historic palaces via main roads that are usually cleared of snow. Caution is needed in Sielecki Park if snow covers the paths. A visit to St. Joachim's Church offers spiritual peace and protection from the biting wind. The ultimate highlight is the Exotarium at the end: the transition from Polish winter to tropical warmth is unforgettable."
+          },
+          "stops": [
+            {
+              "name": "Sielecki Castle & Park",
+              "tip_5lang": {
+                "de": "Vorsicht vor vereisten Stellen auf den Parkwegen.",
+                "hu": "Vigyázzon a jeges foltokra a parki utakon.",
+                "ro": "Atenție la porțiunile înghețate de pe aleile parcului.",
+                "en": "Beware of icy patches on the park paths."
+              }
+            },
+            {
+              "name": "Schön Palace",
+              "tip_5lang": {
+                "de": "Kürzen Sie die Pause draußen ab und gehen Sie direkt ins Museum.",
+                "hu": "Rövidítse le a kinti nézelődést, és menjen egyenesen a múzeumba.",
+                "ro": "Scurtați pauza de afară și mergeți direct în muzeu.",
+                "en": "Shorten your outdoor break and head straight into the museum."
+              }
+            },
+            {
+              "name": "St. Joachim's Church",
+              "tip_5lang": {
+                "de": "Ein ruhiger, windgeschützter Ort für eine kurze Rast.",
+                "hu": "Csendes, szélvédett hely egy rövid pihenőhöz.",
+                "ro": "Un loc liniștit și ferit de vânt pentru un scurt popas.",
+                "en": "A quiet, wind-sheltered spot for a short rest."
+              }
+            },
+            {
+              "name": "Dietel Palace & Cathedral",
+              "tip_5lang": {
+                "de": "Genießen Sie die Architektur im weichen Winterlicht.",
+                "hu": "Élvezze az építészetet a lágy téli fényben.",
+                "ro": "Bucurați-vă de arhitectură în lumina blândă a iernii.",
+                "en": "Enjoy the architecture in the soft winter light."
+              }
+            },
+            {
+              "name": "Lunch",
+              "tip_5lang": {
+                "de": "Bestellen Sie Tee mit Honig zum Aufwärmen der Hände.",
+                "hu": "Rendeljen mézes teát a kezei felmelegítéséhez.",
+                "ro": "Comandați ceai cu miere pentru a vă încălzi mâinile.",
+                "en": "Order tea with honey to warm up your hands."
+              }
+            },
+            {
+              "name": "Zagłębie Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe für Ihre schwere Winterausrüstung.",
+                "hu": "Használja a ruhatárat a nehéz téli felszereléshez.",
+                "ro": "Folosiți garderoba pentru echipamentul greu de iarnă.",
+                "en": "Use the cloakroom for your heavy winter gear."
+              }
+            },
+            {
+              "name": "Exotarium",
+              "tip_5lang": {
+                "de": "Der beste Ort in Sosnowiec, um den Winter kurz zu vergessen.",
+                "hu": "A legjobb hely Sosnowiecben, hogy kicsit elfeledjük a telet.",
+                "ro": "Cel mai bun loc din Sosnowiec pentru a uita puțin de iarnă.",
+                "en": "The best place in Sosnowiec to briefly forget about winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Reduzieren Sie den Reifendruck leicht für mehr Grip auf Schnee.",
+              "Tragen Sie Thermounterwäsche und winddichte Kleidung.",
+              "Das Exotarium bietet eine drastische Temperaturänderung – Zwiebelprinzip!",
+              "Batterien von E-Bikes und Lichtern entladen sich bei Kälte schneller."
+            ],
+            "hu": [
+              "Csökkentse kissé a guminyomást a jobb tapadásért a havon.",
+              "Viseljen termő aláöltözetet és szélálló ruházatot.",
+              "Az Exotariumban drasztikus a hőmérséklet-változás – öltözzön rétegesen!",
+              "Az elektromos kerékpárok és lámpák akkumulátora gyorsabban merül hidegben."
+            ],
+            "ro": [
+              "Reduceți ușor presiunea în anvelope pentru aderență pe zăpadă.",
+              "Purtați lenjerie termică și haine rezistente la vânt.",
+              "Exotarium oferă o schimbare drastică de temperatură – folosiți straturi!",
+              "Bateriile bicicletelor electrice și ale luminilor se descarcă mai repede la ger."
+            ],
+            "en": [
+              "Slightly reduce tire pressure for better grip on snow.",
+              "Wear thermal underwear and windproof clothing.",
+              "The Exotarium offers a drastic temperature change – dress in layers!",
+              "E-bike batteries and lights discharge faster in cold weather."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1034,6 +1416,206 @@
           "Be aware of parking fees and restrictions in the city center.",
           "Plan for extra time for traffic during peak hours."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Sosnowiec auch bei starkem Regen komfortabel. Starten Sie beim Exotarium, wo Sie die exotische Pflanzenwelt im Trockenen genießen. Die Fahrt zum Sielecki-Schloss und zum Schön-Palast ermöglicht es Ihnen, direkt vor den Toren zu parken. Ein Besuch im Zagłębie-Museum füllt den regnerischen Nachmittag mit Kultur. Den Tag lassen Sie bei einem Kaffee im Zentrum ausklingen, während draußen die Pfützen wachsen.",
+            "hu": "Autóval Sosnowiec még heves esőzésben is kényelmes. Kezdjen az Exotariumban, ahol szárazon élvezheti az egzotikus növényvilágot. A Sielecki-kastélyhoz és a Schön-palotához vezető út lehetővé teszi, hogy közvetlenül a bejáratnál parkoljon. A Zagłębie Múzeum látogatása kultúrával tölti meg az esős délutánt. A napot egy belvárosi kávéval zárhatja, miközben kint egyre nőnek a tócsák.",
+            "ro": "Cu mașina, Sosnowiec este confortabil chiar și pe ploaie torențială. Începeți la Exotarium, unde vă bucurați de flora exotică la adăpost. Drumul către Castelul Sielecki și Palatul Schön vă permite să parcați chiar lângă porți. O vizită la Muzeul Zagłębie umple după-amiaza ploioasă cu cultură. Încheiați ziua cu o cafea în centru, în timp ce afară bălțile cresc.",
+            "en": "By car, Sosnowiec remains comfortable even during heavy rain. Start at the Exotarium, where you can enjoy exotic flora while staying dry. Driving to Sielecki Castle and Schön Palace allows you to park right by the gates. A visit to the Zagłębie Museum fills the rainy afternoon with culture. End the day with a coffee in the center while watching the rain fall outside."
+          },
+          "stops": [
+            {
+              "name": "Exotarium & Botanical Garden",
+              "tip_5lang": {
+                "de": "Parken Sie auf dem offiziellen Parkplatz direkt davor.",
+                "hu": "Parkoljon a közvetlenül előtte lévő hivatalos parkolóban.",
+                "ro": "Parcați în parcarea oficială direct în față.",
+                "en": "Park in the official parking lot directly in front of the entrance."
+              }
+            },
+            {
+              "name": "Walk in the Exotarium Park",
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint zum Auto reicht bei Schauern aus.",
+                "hu": "Egy rövid sprint az autóhoz elég záporok esetén.",
+                "ro": "Un scurt sprint către mașină este suficient în caz de aversă.",
+                "en": "A short sprint back to the car is enough during showers."
+              }
+            },
+            {
+              "name": "Sielecki Castle & Park",
+              "tip_5lang": {
+                "de": "Die Zufahrt zum Schloss ist gut befestigt.",
+                "hu": "A kastélyhoz vezető út jól kiépített.",
+                "ro": "Accesul către castel este bine amenajat.",
+                "en": "The access road to the castle is well-paved."
+              }
+            },
+            {
+              "name": "Schön Palace",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz an der ul. Chemiczna.",
+                "hu": "Használja a Chemiczna utcai parkolót.",
+                "ro": "Folosiți parcarea de pe strada Chemiczna.",
+                "en": "Use the parking lot located on Chemiczna Street."
+              }
+            },
+            {
+              "name": "Center: Cathedral & Dietel Palace",
+              "tip_5lang": {
+                "de": "Suchen Sie ein Parkhaus, um trocken auszusteigen.",
+                "hu": "Keressen parkolóházat a száraz kiszálláshoz.",
+                "ro": "Căutați o parcare acoperită pentru a coborî la uscat.",
+                "en": "Look for a parking garage for a dry exit from the car."
+              }
+            },
+            {
+              "name": "Zagłębie Museum",
+              "tip_5lang": {
+                "de": "Idealer Ort, um die Zeit bis zur Parkplatzreservierung zu nutzen.",
+                "hu": "Ideális hely az időtöltésre a parkolási idő alatt.",
+                "ro": "Locul ideal pentru a petrece timpul în siguranță.",
+                "en": "Ideal place to spend time while waiting for the rain to stop."
+              }
+            },
+            {
+              "name": "Farewell coffee in the center",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Café mit Parkplätzen in der blauen Zone.",
+                "hu": "Válasszon kávézót a kék zónás parkolók közelében.",
+                "ro": "Alegeți o cafenea cu locuri de parcare în zona albastră.",
+                "en": "Choose a cafe with parking spots in the blue zone."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Straßen im Zentrum können bei Regen rutschig sein.",
+              "Achten Sie auf große Pfützen am Straßenrand (Aquaplaning-Gefahr).",
+              "Ein Regenschirm im Auto ist für die Wege vom Parkplatz unverzichtbar.",
+              "Die Sicht kann bei starkem Regen durch beschlagene Scheiben eingeschränkt sein."
+            ],
+            "hu": [
+              "A belvárosi utak esőben csúszósak lehetnek.",
+              "Ügyeljen a nagy tócsákra az út szélén (vízfelúszás veszélye).",
+              "Az autóban tartott esernyő nélkülözhetetlen a parkolótól való úthoz.",
+              "A látási viszonyok korlátozottak lehetnek a párásodó szélvédő miatt."
+            ],
+            "ro": [
+              "Străzile din centru pot fi alunecoase pe ploaie.",
+              "Atenție la bălțile mari de la marginea drumului (risc de acvaplanare).",
+              "O umbrelă în mașină este indispensabilă pentru drumul de la parcare.",
+              "Vizibilitatea poate fi redusă din cauza geamurilor aburite pe ploaie."
+            ],
+            "en": [
+              "City center roads can be slippery when wet.",
+              "Watch out for large puddles at the roadside (aquaplaning risk).",
+              "An umbrella kept in the car is essential for the walk from the parking lot.",
+              "Visibility can be limited by fogged windows during heavy rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter ist das Auto die wärmste Basis für Ihre Sosnowiec-Tour. Beginnen Sie im Exotarium, das als tropische Oase einen perfekten Kontrast zum Frost draußen bildet. Die Fahrt führt Sie weiter zu den verschneiten Palästen, wo Sie die winterliche Architektur bewundern können. Ein langer Stopp im Zagłębie-Museum bietet Schutz vor der Kälte. Zum Abschluss genießen Sie einen heißen Kaffee, während die Stadt in der frühen Dunkelheit hell erleuchtet ist.",
+            "hu": "Télen az autó a legmelegebb bázis a sosnowieci túrához. Kezdjen az Exotariumban, amely trópusi oázisként tökéletes kontrasztot nyújt a kinti fagyhoz. Az út továbbvezet a havas palotákhoz, ahol megcsodálhatja a téli építészetet. A Zagłębie Múzeumban tett hosszú látogatás védelmet nyújt a hideg ellen. Végül élvezzen egy forró kávét, miközben a város a korai sötétségben fényárban úszik.",
+            "ro": "Iarna, mașina este cea mai caldă bază pentru turul în Sosnowiec. Începeți la Exotarium, care, ca o oază tropicală, oferă un contrast perfect cu gerul de afară. Drumul vă duce mai departe către palatele înzăpezite, unde puteți admira arhitectura de iarnă. O oprire lungă la Muzeul Zagłębie oferă protecție împotriva frigului. La final, savurați o cafea fierbinte în timp ce orașul este luminat festiv în întunericul timpuriu.",
+            "en": "In winter, the car is the warmest base for your Sosnowiec tour. Start at the Exotarium, which serves as a tropical oasis providing a perfect contrast to the frost outside. The drive continues to the snow-covered palaces, where you can admire the winter architecture. A long stop at the Zagłębie Museum offers protection from the cold. Finally, enjoy a hot coffee as the city glows under early evening lights."
+          },
+          "stops": [
+            {
+              "name": "Exotarium & Botanical Garden",
+              "tip_5lang": {
+                "de": "Die Wärme drinnen ist eine Wohltat nach dem kalten Auto.",
+                "hu": "A benti meleg igazi áldás a hideg autó után.",
+                "ro": "Căldura din interior este o binecuvântare după mașina rece.",
+                "en": "The warmth inside is a blessing after the cold car ride."
+              }
+            },
+            {
+              "name": "Walk in the Exotarium Park",
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor nicht unnötig im Stand laufen.",
+                "hu": "Ne járassa feleslegesen a motort álló helyzetben.",
+                "ro": "Nu lăsați motorul pornit inutil în staționare.",
+                "en": "Do not leave the engine idling unnecessarily while parked."
+              }
+            },
+            {
+              "name": "Sielecki Castle & Park",
+              "tip_5lang": {
+                "de": "Prüfen Sie, ob der Parkplatz vom Schnee geräumt ist.",
+                "hu": "Ellenőrizze, hogy a parkolót letakarították-e a hótól.",
+                "ro": "Verificați dacă parcarea a fost deszăpezită.",
+                "en": "Check if the parking lot has been cleared of snow."
+              }
+            },
+            {
+              "name": "Schön Palace",
+              "tip_5lang": {
+                "de": "Die Schlossfassade sieht im Schnee besonders edel aus.",
+                "hu": "A kastély homlokzata különösen elegáns a hóban.",
+                "ro": "Fațada castelului arată deosebit de nobil în zăpadă.",
+                "en": "The palace facade looks particularly elegant in the snow."
+              }
+            },
+            {
+              "name": "Center: Cathedral & Dietel Palace",
+              "tip_5lang": {
+                "de": "In der Innenstadt kann die Parkplatzsuche bei Schnee länger dauern.",
+                "hu": "A belvárosban a parkolókeresés hóban tovább tarthat.",
+                "ro": "În centrul orașului, căutarea unui loc de parcare poate dura mai mult pe zăpadă.",
+                "en": "Parking in the city center might take longer during snowy weather."
+              }
+            },
+            {
+              "name": "Zagłębie Museum",
+              "tip_5lang": {
+                "de": "Ein hervorragender Ort, um die kälteste Zeit des Tages zu überbrücken.",
+                "hu": "Kiváló hely a nap leghidegebb óráinak áthidalására.",
+                "ro": "Un loc excelent pentru a trece peste cele mai reci ore ale zilei.",
+                "en": "An excellent place to bridge the coldest hours of the day."
+              }
+            },
+            {
+              "name": "Farewell coffee in the center",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Weihnachtsbeleuchtung.",
+                "hu": "Élvezze a kilátást a karácsonyi díszkivilágításra.",
+                "ro": "Bucurați-vă de vederea luminilor de Crăciun.",
+                "en": "Enjoy the view of the Christmas lights from the cafe window."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Führen Sie einen Eiskratzer und einen kleinen Besen im Auto mit.",
+              "Die Straßen können durch Streusalz schmutzig und rutschig sein.",
+              "Planen Sie mehr Zeit für die Fahrt ein, da der Verkehr bei Schnee stockt.",
+              "Achten Sie darauf, dass Ihr Wischwasser frostsicher ist."
+            ],
+            "hu": [
+              "Tartson jégkaparót és kisseprűt az autóban.",
+              "Az utak a sózástól piszkosak és csúszósak lehetnek.",
+              "Tervezzen több időt az utazásra, mert a forgalom lelassul hóban.",
+              "Ügyeljen rá, hogy a szélvédőmosó folyadék fagyálló legyen."
+            ],
+            "ro": [
+              "Aveți întotdeauna în mașină o răzuitoare de gheață și o perie.",
+              "Drumurile pot fi murdare și alunecoase din cauza sării.",
+              "Alocați mai mult timp călătoriei, traficul încetinește pe zăpadă.",
+              "Asigurați-vă că lichidul de parbriz este rezistent la îngheț."
+            ],
+            "en": [
+              "Keep an ice scraper and a small brush in the car.",
+              "Roads can be dirty and slippery due to road salt.",
+              "Plan more time for driving as traffic slows down in the snow.",
+              "Ensure your windshield washer fluid is frost-resistant."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1338,6 +1920,188 @@
           "Validate your ticket immediately upon boarding to avoid a fine.",
           "Be aware that buses and trams can be very crowded during peak hours."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Öffentliche Verkehrsmittel sind bei Regen in Sosnowiec eine kluge Wahl. Starten Sie beim Dietel-Palais im Stadtzentrum. Die kurzen Wege zwischen den Haltestellen und Sehenswürdigkeiten wie der Kathedrale und dem Zagłębie-Museum minimieren den Kontakt mit der Nässe. Mit der Straßenbahn erreichen Sie bequem den Sielecki-Park und das Schön-Palais. Der Tag endet an der St.-Joachims-Kirche, gut geschützt durch das dichte Verkehrsnetz.",
+            "hu": "A tömegközlekedés Sosnowiecben esőben bölcs választás. Kezdjen a belvárosi Dietel-palotánál. A megállók és a látnivalók – mint a székesegyház vagy a Zagłębie Múzeum – közötti rövid távok minimalizálják az esővel való érintkezést. Villamossal kényelmesen elérheti a Sielecki-parkot és a Schön-palotát. A nap a Szent Joakim-templomnál zárul, védve a sűrű közlekedési hálózat által.",
+            "ro": "Transportul public este o alegere înțeleaptă în Sosnowiec pe ploaie. Începeți la Palatul Dietel din centrul orașului. Distanțele scurte între stații și obiective precum catedrala sau Muzeul Zagłębie minimizează contactul cu umezeala. Cu tramvaiul ajungeți confortabil la Parcul Sielecki și Palatul Schön. Ziua se încheie la Biserica Sf. Ioachim, fiind bine protejat de rețeaua densă de transport.",
+            "en": "Public transit is a smart choice in Sosnowiec during rainy weather. Start at the Dietel Palace in the city center. Short distances between stops and landmarks like the Cathedral and Zagłębie Museum minimize your time in the rain. Trams provide a comfortable way to reach Sielecki Park and Schön Palace. The day ends at St. Joachim's Church, well-connected by the transit network."
+          },
+          "stops": [
+            {
+              "name": "Center: Dietel Palace",
+              "tip_5lang": {
+                "de": "Die Haltestelle 'Sosnowiec Dworzec PKP' ist nah und überdacht.",
+                "hu": "A 'Sosnowiec Dworzec PKP' megálló közel van és fedett.",
+                "ro": "Stația 'Sosnowiec Dworzec PKP' este aproape și acoperită.",
+                "en": "The 'Sosnowiec Dworzec PKP' stop is nearby and covered."
+              }
+            },
+            {
+              "name": "Cathedral & Zagłębie Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Wartehallen an den Straßenbahnhaltestellen.",
+                "hu": "Használja a villamosmegállók váróhelyiségeit.",
+                "ro": "Folosiți refugiile din stațiile de tramvai.",
+                "en": "Take advantage of the shelters at the tram stops."
+              }
+            },
+            {
+              "name": "Lunch in the city center",
+              "tip_5lang": {
+                "de": "Zentraler Knotenpunkt, viele Busse halten in der Nähe.",
+                "hu": "Központi csomópont, sok busz áll meg a közelben.",
+                "ro": "Nod central, multe autobuze opresc în apropiere.",
+                "en": "Central hub, many buses stop in the vicinity."
+              }
+            },
+            {
+              "name": "Sielecki Castle & Park",
+              "tip_5lang": {
+                "de": "Die Straßenbahnlinie 15 bringt Sie fast bis zum Schlosspark.",
+                "hu": "A 15-ös villamos majdnem a kastélyparkig viszi.",
+                "ro": "Tramvaiul 15 vă duce aproape până la parcul castelului.",
+                "en": "Tram line 15 takes you almost directly to the castle park."
+              }
+            },
+            {
+              "name": "Schön Palace",
+              "tip_5lang": {
+                "de": "Von der Haltestelle ist es nur ein kurzer Sprint zum Palast.",
+                "hu": "A megállótól csak egy rövid futás a palota.",
+                "ro": "De la stație este doar un scurt sprint până la palat.",
+                "en": "It's only a short dash from the stop to the palace entrance."
+              }
+            },
+            {
+              "name": "St. Joachim's Church",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Abfahrtszeiten online, um nicht im Regen zu stehen.",
+                "hu": "Ellenőrizze az indulást online, hogy ne álljon az esőben.",
+                "ro": "Verificați orele de plecare online pentru a nu sta în ploaie.",
+                "en": "Check departure times online to avoid waiting in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie Fahrkarten über Apps wie Jakdojade, um Automaten im Regen zu vermeiden.",
+              "Straßenbahnen sind bei Regen oft zuverlässiger als Busse im Stau.",
+              "Halten Sie Ihren Regenschirm beim Einsteigen in volle Bahnen geschlossen.",
+              "Die Haltestellenansagen helfen, bei beschlagenen Fenstern den Ausstieg zu finden."
+            ],
+            "hu": [
+              "Vásároljon jegyet mobilalkalmazással, hogy elkerülje az automatákat az esőben.",
+              "A villamosok esőben gyakran megbízhatóbbak, mint a buszok a dugóban.",
+              "Tartsa zárva az esernyőt, amikor zsúfolt járműre száll fel.",
+              "A megállóbemondások segítenek a tájékozódásban, ha párás az ablak."
+            ],
+            "ro": [
+              "Cumpărați bilete prin aplicații mobile pentru a evita automatele pe ploaie.",
+              "Tramvaiele sunt adesea mai fiabile decât autobuzele blocate în trafic pe ploaie.",
+              "Țineți umbrela închisă când urcați în vehicule aglomerate.",
+              "Anunțurile stațiilor vă ajută să vă orientați dacă geamurile sunt aburite."
+            ],
+            "en": [
+              "Buy tickets via mobile apps to avoid using ticket machines in the rain.",
+              "Trams are often more reliable than buses stuck in traffic during rain.",
+              "Keep your umbrella closed and pointed down when boarding crowded vehicles.",
+              "Station announcements are helpful when windows are fogged up."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie das winterliche Sosnowiec mit den beheizten Bussen und Bahnen der Stadt. Starten Sie im Zentrum beim Dietel-Palais. Die Fahrt bietet Ihnen die Möglichkeit, die schneebedeckte Stadtlandschaft gemütlich vom Fenster aus zu betrachten. Die Museen und Paläste liegen oft nur wenige Gehminuten von den Haltestellen entfernt, was die Zeit in der Kälte minimiert. Der Tag endet an der St.-Joachims-Kirche, von wo aus Sie schnell zurück in die Wärme finden.",
+            "hu": "Fedezze fel a téli Sosnowiecet a város fűtött buszaival és villamosaival. Kezdjen a belvárosi Dietel-palotánál. Az utazás során kényelmesen, az ablakból csodálhatja a havas városképet. A múzeumok és paloták gyakran csak pár perc sétára vannak a megállóktól, így minimális időt kell a hidegben töltenie. A nap a Szent Joakim-templomnál zárul, ahonnan gyorsan visszatalál a melegbe.",
+            "ro": "Explorați Sosnowiec-ul de iarnă cu autobuzele și tramvaiele încălzite ale orașului. Începeți în centru, la Palatul Dietel. Călătoria vă oferă ocazia de a admira peisajul urban înzăpezit confortabil, de la fereastră. Muzeele și palatele sunt adesea la doar câteva minute de mers pe jos de stații, minimizând timpul petrecut în frig. Ziua se încheie la Biserica Sf. Ioachim, de unde veți găsi rapid drumul înapoi la căldură.",
+            "en": "Explore wintery Sosnowiec using the city's heated buses and trams. Begin in the center at Dietel Palace. The ride offers a cozy vantage point to admire the snow-covered urban landscape from the window. Museums and palaces are often just a short walk from the stops, minimizing your exposure to the cold. The day ends at St. Joachim's Church, with easy connections back to warmth."
+          },
+          "stops": [
+            {
+              "name": "Center: Dietel Palace",
+              "tip_5lang": {
+                "de": "Die nahen Bahnhöfe bieten beheizte Wartebereiche.",
+                "hu": "A közeli pályaudvarok fűtött váróteremmel rendelkeznek.",
+                "ro": "Gările din apropiere oferă zone de așteptare încălzite.",
+                "en": "Nearby train stations offer heated waiting areas."
+              }
+            },
+            {
+              "name": "Cathedral & Zagłębie Museum",
+              "tip_5lang": {
+                "de": "Planen Sie Umstiege im Zentrum, wo die Wartezeiten kurz sind.",
+                "hu": "Tervezze az átszállást a központban, ahol rövid a várakozás.",
+                "ro": "Planificați legăturile în centru, unde timpii de așteptare sunt scurți.",
+                "en": "Plan your transfers in the city center where wait times are minimal."
+              }
+            },
+            {
+              "name": "Lunch in the city center",
+              "tip_5lang": {
+                "de": "Viele Cafés liegen direkt an den Hauptverkehrsknotenpunkten.",
+                "hu": "Sok kávézó közvetlenül a fő közlekedési csomópontoknál található.",
+                "ro": "Multe cafenele sunt situate direct lângă nodurile de transport.",
+                "en": "Many cafes are located directly at the main transit hubs."
+              }
+            },
+            {
+              "name": "Sielecki Castle & Park",
+              "tip_5lang": {
+                "de": "Die Wege von der Haltestelle zum Schloss werden meist geräumt.",
+                "hu": "A megállótól a kastélyig vezető utakat általában letakarítják.",
+                "ro": "Drumurile de la stație la castel sunt de obicei deszăpezite.",
+                "en": "Paths from the stop to the castle are usually cleared of snow."
+              }
+            },
+            {
+              "name": "Schön Palace",
+              "tip_5lang": {
+                "de": "Die Haltestelle 'Sosnowiec Pogoń' bietet gute Verbindungen.",
+                "hu": "A 'Sosnowiec Pogoń' megálló jó összeköttetést biztosít.",
+                "ro": "Stația 'Sosnowiec Pogoń' oferă conexiuni bune.",
+                "en": "The 'Sosnowiec Pogoń' stop provides excellent connections."
+              }
+            },
+            {
+              "name": "St. Joachim's Church",
+              "tip_5lang": {
+                "de": "Die letzte Fahrt des Tages in einer warmen Straßenbahn genießen.",
+                "hu": "Élvezze a nap utolsó útját egy meleg villamoson.",
+                "ro": "Bucurați-vă de ultima călătorie a zilei într-un tramvai cald.",
+                "en": "Enjoy the last ride of the day in a warm tram."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrzeuge sind im Winter meist gut beheizt, ziehen Sie sich im Zwiebelprinzip an.",
+              "Bei starkem Schneefall können Fahrplanabweichungen auftreten.",
+              "Achten Sie auf Glatteis an den Ein- und Ausstiegen der Busse.",
+              "Nutzen Sie die App Jakdojade für Echtzeit-Infos zu Verspätungen."
+            ],
+            "hu": [
+              "A járművek télen jól fűtöttek, öltözzön rétegesen.",
+              "Erős havazás esetén előfordulhatnak menetrendi eltérések.",
+              "Vigyázzon a jegesedésre a buszok le- és felszállásánál.",
+              "Használja a Jakdojade alkalmazást a valós idejű késésekhez."
+            ],
+            "ro": [
+              "Vehiculele sunt de obicei bine încălzite iarna, îmbrăcați-vă în straturi.",
+              "În caz de ninsori abundente, pot apărea abateri de la program.",
+              "Atenție la gheață la urcarea și coborârea din autobuze.",
+              "Folosiți aplicația Jakdojade pentru informații în timp real despre întârzieri."
+            ],
+            "en": [
+              "Vehicles are usually well-heated in winter; dress in layers.",
+              "Expect potential schedule changes during heavy snowfall.",
+              "Watch out for icy patches when boarding or exiting buses.",
+              "Use the Jakdojade app for real-time updates on delays."
+            ]
+          }
+        }
       }
     }
   }

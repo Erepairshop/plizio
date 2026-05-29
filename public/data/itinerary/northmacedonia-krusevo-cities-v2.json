@@ -386,6 +386,214 @@
           "Bring water, especially for the climb up to the monuments.",
           "The locals are friendly; don't hesitate to ask for directions."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen beginnt in der Nikolauskirche, wo die Ikonostase Schutz vor dem Nebel bietet. Mittags führt der Weg durch die engen Gassen zur Martinoski-Galerie, ideal um dem Regen zu entkommen. Am Nachmittag steigen wir zum Makedonium hinauf, das in den Wolken besonders mystisch wirkt. Der Tag endet gemütlich in einer Taverne im Basar bei traditionellem Kruševo-Fleischeintopf.",
+            "hu": "Az esős reggel a Szent Miklós-templomban indul, ahol a dúsan faragott ikonosztáz mellett várhatjuk ki a zápor végét. Délben a Martinoski Galéria belső terei nyújtanak menedéket a macskaköves utcák zivatara elől. Délután a Makedónium futurisztikus tömbje a ködben úszva egészen különleges látványt nyújt. Este a bazár egyik tavernàjában, egy tál meleg krusevói húsétel mellett pihenhetünk meg.",
+            "ro": "O dimineață ploioasă începe la Biserica Sfântul Nicolae, unde iconostasul oferă un refugiu artistic în fața ceții. La prânz, explorăm Galeria Martinoski pentru a evita ploaia de pe străzile înguste. După-amiaza, urcăm la Makedonium, care arată mistic printre nori. Seara se încheie confortabil într-o tavernă din bazar, savurând preparate tradiționale calde în sunetul ploii de munte.",
+            "en": "A rainy morning starts at Saint Nicholas Church, where the ornate iconostasis provides shelter from the mountain mist. At noon, we head to the Martinoski Gallery, perfect for staying dry while admiring local art. In the afternoon, the Makedonium monument appears mystical as it peeks through the low clouds. The evening ends cozily in a bazaar tavern with a warm plate of traditional Kruševo meat stew."
+          },
+          "stops": [
+            {
+              "name": "Saint Nicholas Church",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich zum Zusammenfalten der Regenschirme.",
+                "hu": "Használd a fedett bejáratot az esernyők összecsukásához.",
+                "ro": "Folosiți intrarea acoperită pentru a vă scutura umbrelele.",
+                "en": "Use the covered entrance area to fold your umbrellas."
+              }
+            },
+            {
+              "name": "Nikola Martinoski Gallery",
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um eine längere Regenpause einzulegen.",
+                "hu": "Tökéletes helyszín egy hosszabb kényszerpihenőre az eső alatt.",
+                "ro": "Locul perfect pentru o pauză prelungită în timpul ploii.",
+                "en": "The perfect place for a longer break during heavy rain."
+              }
+            },
+            {
+              "name": "Kruševo Clock Tower",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem nassen Kopfsteinpflaster rund um den Turm.",
+                "hu": "Vigyázz a vizes, csúszós macskakövekre a torony körül.",
+                "ro": "Atenție la pavajul umed și alunecos din jurul turnului.",
+                "en": "Watch out for the slippery wet cobblestones around the tower."
+              }
+            },
+            {
+              "name": "Museum of the Ilinden Uprising",
+              "tip_5lang": {
+                "de": "Ein geräumiges Museum, ideal für die nasseste Zeit des Tages.",
+                "hu": "Tágas múzeum, ideális a nap legesősebb óráira.",
+                "ro": "Muzeu spațios, ideal pentru cele mai ploioase ore ale zilei.",
+                "en": "Spacious museum, ideal for the wettest hours of the day."
+              }
+            },
+            {
+              "name": "Makedonium (Ilinden Monument)",
+              "tip_5lang": {
+                "de": "Der Weg zum Hügel kann bei Wind und Regen ungemütlich sein.",
+                "hu": "A dombra vezető út szeles és barátságtalan lehet esőben.",
+                "ro": "Drumul spre deal poate fi expus la vânt și ploaie.",
+                "en": "The path up the hill can be exposed to wind and rain."
+              }
+            },
+            {
+              "name": "Toše Proeski Memorial House",
+              "tip_5lang": {
+                "de": "Modernes Interieur bietet exzellenten Schutz vor dem Wetter.",
+                "hu": "A modern belső tér kiváló menedéket nyújt az időjárás elől.",
+                "ro": "Interiorul modern oferă un adăpost excelent împotriva intemperiilor.",
+                "en": "The modern interior provides excellent shelter from the weather."
+              }
+            },
+            {
+              "name": "Mečkin Kamen",
+              "tip_5lang": {
+                "de": "Sehr exponiert; Windjacke und fester Halt sind hier Pflicht.",
+                "hu": "Erősen kitett hely; széldzseki és stabil lábbeli kötelező.",
+                "ro": "Zonă foarte expusă; jacheta de vânt și încălțămintea stabilă sunt obligatorii.",
+                "en": "Very exposed area; a windbreaker and sturdy footwear are mandatory."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kruševo liegt auf 1350m, Wolken ziehen hier sehr schnell durch.",
+              "Die steilen Steinstraßen werden bei Nässe extrem rutschig.",
+              "Tragen Sie wasserfeste Schuhe mit gutem Profil für das Kopfsteinpflaster.",
+              "Nutzen Sie die vielen Cafés im alten Basar als trockene Zwischenstopps.",
+              "Die Sicht am Makedonium ist bei Nebel oft eingeschränkt, aber sehr stimmungsvoll."
+            ],
+            "hu": [
+              "Krusevó 1350 méteren fekszik, a felhők itt nagyon gyorsan mozognak.",
+              "A meredek kőutcák esőben rendkívül csúszóssá válnak.",
+              "Viselj vízálló, jól tapadó talpú cipőt a macskakövek miatt.",
+              "Használd ki a bazár számos kávézóját száraz pihenőpontként.",
+              "A Makedóniumnál a kilátás ködben korlátozott, de a hangulat egyedi."
+            ],
+            "ro": [
+              "Kruševo se află la 1350m, norii se mișcă foarte repede aici.",
+              "Străzile abrupte din piatră devin extrem de alunecoase când sunt ude.",
+              "Purtați încălțăminte impermeabilă cu talpă aderentă pentru pavaj.",
+              "Folosiți cafenelele din vechiul bazar ca puncte de oprire uscate.",
+              "Vizibilitatea la Makedonium este adesea redusă de ceață, dar atmosfera e unică."
+            ],
+            "en": [
+              "Kruševo is at 1350m altitude, so clouds move through very quickly.",
+              "The steep stone streets become extremely slippery when wet.",
+              "Wear waterproof shoes with good grip for the cobblestones.",
+              "Take advantage of the many cafes in the old bazaar as dry stopovers.",
+              "Visibility at the Makedonium is often limited by fog, but very atmospheric."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen hüllt die Stadt in tiefen Schnee, während wir zur Nikolauskirche stapfen. Mittags wärmen wir uns in der Martinoski-Galerie auf, umgeben von historischem Ambiente. Am Nachmittag bietet der verschneite Weg zum Makedonium ein märchenhaftes Panorama über die Dächer. Der Abend gehört dem Kaminfeuer in einem lokalen Restaurant, wo heißer Schnaps (Rakija) serviert wird.",
+            "hu": "A téli reggel mély hóba öltözteti a várost, miközben a Szent Miklós-templom felé tartunk. Délben a Martinoski Galéria történelmi falaiban melegedhetünk fel a sétánk után. Délután a havas út a Makedóniumhoz meseszerű panorámát nyújt a piros tetős házakra. Az estét egy helyi étterem kandallója mellett tölthetjük, ahol a forró rakija elengedhetetlen kellék.",
+            "ro": "Dimineața de iarnă îmbracă orașul în zăpadă adâncă în timp ce mergem spre Biserica Sfântul Nicolae. La prânz ne încălzim în Galeria Martinoski, înconjurați de atmosfera istorică. După-amiaza, drumul înzăpezit spre Makedonium oferă o panoramă de basm peste acoperișurile roșii. Seara aparține șemineului dintr-un restaurant local, unde se servește rachiu cald.",
+            "en": "A winter morning wraps the town in deep snow as we crunch our way to Saint Nicholas Church. At noon, we warm up inside the Martinoski Gallery, surrounded by its historic ambiance. In the afternoon, the snowy path to the Makedonium offers a fairytale panorama over the red roofs. The evening is best spent by a fireplace in a local restaurant, where hot brandy (Rakija) is served."
+          },
+          "stops": [
+            {
+              "name": "Saint Nicholas Church",
+              "tip_5lang": {
+                "de": "Achten Sie auf Eiszapfen, die von den Dächern hängen könnten.",
+                "hu": "Vigyázz a tetőkről lógó jégcsapokra a bejáratnál.",
+                "ro": "Atenție la țurțurii care pot cădea de pe acoperiș.",
+                "en": "Watch out for icicles hanging from the roof near the entrance."
+              }
+            },
+            {
+              "name": "Nikola Martinoski Gallery",
+              "tip_5lang": {
+                "de": "Ziehen Sie die nassen Winterschuhe am Eingang gründlich ab.",
+                "hu": "Alaposan dörzsöld le a havat a cipődről a bejáratnál.",
+                "ro": "Scuturați bine zăpada de pe încălțăminte la intrare.",
+                "en": "Shake off the snow from your boots thoroughly at the entrance."
+              }
+            },
+            {
+              "name": "Kruševo Clock Tower",
+              "tip_5lang": {
+                "de": "Der Platz kann bei Frost sehr glatt sein; Vorsicht beim Fotografieren.",
+                "hu": "A tér fagyban nagyon csúszós; óvatosan fotózz.",
+                "ro": "Piața poate fi foarte alunecoasă la îngheț; atenție la fotografiat.",
+                "en": "The square can be very icy during frost; be careful while taking photos."
+              }
+            },
+            {
+              "name": "Museum of the Ilinden Uprising",
+              "tip_5lang": {
+                "de": "Genießen Sie die wohlige Wärme im Inneren nach dem Marsch durch den Schnee.",
+                "hu": "Élvezd a benti meleget a havas hegyi menet után.",
+                "ro": "Bucurați-vă de căldura din interior după marșul prin zăpadă.",
+                "en": "Enjoy the cozy warmth inside after the march through the snow."
+              }
+            },
+            {
+              "name": "Makedonium (Ilinden Monument)",
+              "tip_5lang": {
+                "de": "Schneeverwehungen am Hügel möglich; bleiben Sie auf den geräumten Pfaden.",
+                "hu": "Hófúvások lehetnek a dombon; maradj a letakarított ösvényen.",
+                "ro": "Posibile troiene pe deal; rămâneți pe potecile curățate.",
+                "en": "Snowdrifts possible on the hill; stay on the cleared paths."
+              }
+            },
+            {
+              "name": "Toše Proeski Memorial House",
+              "tip_5lang": {
+                "de": "Ein moderner, gut beheizter Ort für eine längere Pause.",
+                "hu": "Modern, jól fűtött épület egy hosszabb téli pihenőhöz.",
+                "ro": "Un loc modern și bine încălzit pentru o pauză lungă.",
+                "en": "A modern, well-heated place for a longer winter break."
+              }
+            },
+            {
+              "name": "Mečkin Kamen",
+              "tip_5lang": {
+                "de": "Wunderschön verschneit, aber oft sehr windig und eisig kalt.",
+                "hu": "Gyönyörű havas táj, de gyakran jegesen hideg és szeles.",
+                "ro": "Peisaj superb înzăpezit, dar adesea vânt înghețat.",
+                "en": "Beautiful snowy scenery, but often icy cold and windy."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Winter bereits gegen 16:30 Uhr hinter den Bergen unter.",
+              "Kruševo ist ein Skigebiet; warme Kleidung (Zwiebelprinzip) ist essenziell.",
+              "Pfade zum Makedonium werden oft geräumt, sind aber teils vereist.",
+              "Probieren Sie 'Greeana Rakija' (gebackenen Schnaps) zum Aufwärmen.",
+              "Achten Sie auf die steilen Straßen, die im Winter spiegelglatt sein können."
+            ],
+            "hu": [
+              "Télen a nap már 16:30 körül eltűnik a hegyek mögött.",
+              "Krusevó síközpont, a réteges, meleg öltözet elengedhetetlen.",
+              "A Makedóniumhoz vezető utat takarítják, de foltokban jeges maradhat.",
+              "Kóstold meg a 'Greeana Rakiját' (sült pálinka) a felmelegedéshez.",
+              "Vigyázz a meredek utcákon, télen tükörjéggé fagyhatnak."
+            ],
+            "ro": [
+              "Iarna, soarele apune în spatele munților deja în jurul orei 16:30.",
+              "Kruševo este stațiune de schi; îmbrăcămintea stratificată e esențială.",
+              "Calea spre Makedonium este adesea curățată, dar poate fi înghețată.",
+              "Încercați 'Greeana Rakija' (rachiu fiert) pentru a vă încălzi.",
+              "Atenție la străzile abrupte care iarna pot deveni patinoar."
+            ],
+            "en": [
+              "In winter, the sun sets behind the mountains as early as 16:30.",
+              "Kruševo is a ski resort; warm, layered clothing is essential.",
+              "Paths to the Makedonium are usually cleared but can be icy in patches.",
+              "Try 'Greeana Rakija' (hot baked brandy) to warm up after your walk.",
+              "Be careful on the steep streets, which can turn into mirrors of ice in winter."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -766,6 +974,214 @@
           "Carry a repair kit and a pump.",
           "Roads can be narrow; be aware of traffic, especially in the town."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Start am Uhrturm erfordert volle Konzentration auf dem nassen Pflaster. Auf dem Weg zur Nikolauskirche spritzt der Regen von den Reifen, während wir die steilen Gassen meistern. Die Fahrt zum Makedonium führt durch dichten Nebel, der die Sicht behindert, aber die Atmosphäre verstärkt. Zum Abschluss wärmen wir uns bei einer kurzen Abfahrt zum See auf, bevor wir in den trockenen Basar zurückkehren.",
+            "hu": "Az óratoronynál tett indulás nagy koncentrációt igényel a vizes kövön. A Szent Miklós-templom felé haladva az eső felcsap a kerekekről a meredek sikátorokban. A Makedónium felé tartó tekerés sűrű ködben zajlik, ami korlátozza a kilátást, de fokozza az élményt. A napot egy tóparti gurulással zárjuk, mielőtt visszatérnénk a bazár fedett részeihez.",
+            "ro": "Pornirea de la Turnul cu Ceas necesită concentrare maximă pe pavajul ud. Spre Biserica Sfântul Nicolae, ploaia sare de pe roți în timp ce urcăm pantele abrupte. Drumul spre Makedonium se face prin ceață densă, limitând vizibilitatea, dar sporind misterul. Încheiem cu o coborâre scurtă spre lac înainte de a reveni în zonele uscate ale bazarului.",
+            "en": "Starting at the Clock Tower requires full focus on the wet stone surface. Riding toward Saint Nicholas Church, rain splashes from the wheels as we navigate steep alleys. The ride to the Makedonium is through thick mist, limiting visibility but enhancing the mood. We end with a quick descent to the lake before returning to the drier parts of the bazaar."
+          },
+          "stops": [
+            {
+              "name": "Town Center & Clock Tower",
+              "tip_5lang": {
+                "de": "Vorsicht beim Anfahren auf dem glatten Steinpflaster.",
+                "hu": "Óvatosan indulj el a csúszós kőburkolaton.",
+                "ro": "Atenție la pornirea pe pavajul de piatră alunecos.",
+                "en": "Be careful when starting on the slippery stone pavement."
+              }
+            },
+            {
+              "name": "Saint Nicholas Church",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad unter einen Dachvorsprung, um den Sattel trocken zu halten.",
+                "hu": "Tàmaszd a biciklit az eresz alá, hogy az ülés száraz maradjon.",
+                "ro": "Parcați bicicleta sub o streașină pentru a păstra șaua uscată.",
+                "en": "Park your bike under an eave to keep the saddle dry."
+              }
+            },
+            {
+              "name": "Makedonium (Ilinden Monument)",
+              "tip_5lang": {
+                "de": "Bremsen Sie frühzeitig bei der Abfahrt vom Monumental-Hügel.",
+                "hu": "Fékezz időben, amikor lefelé gurulsz az emlékmű dombjáról.",
+                "ro": "Frânați din timp la coborârea de pe dealul monumentului.",
+                "en": "Brake early when descending from the monument hill."
+              }
+            },
+            {
+              "name": "Toše Proeski Memorial House",
+              "tip_5lang": {
+                "de": "Ein guter Ort für eine Pause, um die Regenkleidung zu richten.",
+                "hu": "Megfelelő helyszín egy pihenőre és az esőruházat igazítására.",
+                "ro": "Un loc bun pentru o pauză și pentru ajustarea pelerinei de ploaie.",
+                "en": "A good place for a break to adjust your rain gear."
+              }
+            },
+            {
+              "name": "Mečkin Kamen",
+              "tip_5lang": {
+                "de": "Starker Wind am Gipfel kann das Radfahren instabil machen.",
+                "hu": "A tetőn fújó erős szél bizonytalanná teheti a biciklizést.",
+                "ro": "Vântul puternic de pe culme poate destabiliza bicicleta.",
+                "en": "Strong wind at the summit can make cycling unstable."
+              }
+            },
+            {
+              "name": "Kruševo Lake",
+              "tip_5lang": {
+                "de": "Die Uferwege können schlammig sein; bleiben Sie auf dem Asphalt.",
+                "hu": "A tóparti utak sarasak lehetnek; maradj az aszfalton.",
+                "ro": "Potecile de pe mal pot fi noroioase; rămâneți pe asfalt.",
+                "en": "Lakeside paths can be muddy; stick to the asphalt."
+              }
+            },
+            {
+              "name": "Vlach Church (St. John)",
+              "tip_5lang": {
+                "de": "Vermeiden Sie hastige Lenkbewegungen vor der Kirche.",
+                "hu": "Kerüld a hirtelen kormánymozdulatokat a templom előtti kövön.",
+                "ro": "Evitați mișcările bruște de direcție în fața bisericii.",
+                "en": "Avoid sudden steering movements on the stones in front of the church."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Felgenbremsen wirken bei Nässe verzögert; nutzen Sie Scheibenbremsen, falls möglich.",
+              "Vermeiden Sie das weiße Kopfsteinpflaster, es ist rutschiger als der Asphalt.",
+              "Ein Schutzblech ist bei dem vielen Spritzwasser in Kruševo ein Muss.",
+              "Planen Sie kürzere Etappen ein, da das Bergauffahren im Regen anstrengender ist.",
+              "Achten Sie auf Schlaglöcher, die durch Pfützen verdeckt sein könnten."
+            ],
+            "hu": [
+              "A felnifékek vizesen lassabban fognak; ha lehet, használj tárcsaféket.",
+              "Kerüld a fehér macskaköveket, mert csúszósabbak az aszfaltnál.",
+              "A sárvédő kötelező a felcsapó víz miatt Krusevó meredek utcáin.",
+              "Tervezz rövidebb szakaszokat, az esőben tekerés kimerítőbb.",
+              "Vigyázz a tócsák által eltakart kátyúkra."
+            ],
+            "ro": [
+              "Frânele pe jantă reacționează mai lent pe ud; folosiți frâne pe disc dacă se poate.",
+              "Evitați pavajul alb, este mult mai alunecos decât asfaltul.",
+              "Aripile la bicicletă sunt obligatorii din cauza apei aruncate de roți.",
+              "Planificați etape mai scurte, pedalatul la deal pe ploaie este mai obositor.",
+              "Atenție la gropile care ar putea fi ascunse de bălți."
+            ],
+            "en": [
+              "Rim brakes are less effective when wet; use disc brakes if possible.",
+              "Avoid the white cobblestones; they are slipperier than the asphalt.",
+              "Mudguards are a must due to the water spray in Kruševo's steep streets.",
+              "Plan for shorter sections, as uphill riding in the rain is more exhausting.",
+              "Watch out for potholes that might be hidden by puddles."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winter-Biking in Kruševo erfordert breite Reifen für den gefrorenen Basar. Wir starten am Uhrturm und genießen die klare, kalte Luft auf dem Weg zur Kirche. Die Auffahrt zum Makedonium ist anstrengend, wird aber durch den Blick auf die verschneite Skipiste belohnt. Nach einem Stopp bei Mečkin Kamen kehren wir durch den Wald zum gefrorenen See zurück, wo die Stille des Winters herrscht.",
+            "hu": "A téli biciklizés Krusevóban széles gumikat igényel a fagyott bazárban. Az óratoronytól indulunk, élvezve a tiszta, hideg levegőt a templom felé vezető úton. A Makedóniumhoz vezető kaptató kemény, de a havas sípályák látványa kárpótol. A Mečkin Kamen után az erdőn át térünk vissza a befagyott tóhoz, ahol néma téli csend fogad.",
+            "ro": "Ciclismul de iarnă în Kruševo necesită anvelope late pentru bazarul înghețat. Pornim de la Turnul cu Ceas, savurând aerul rece și curat spre biserică. Urcarea spre Makedonium este grea, dar răsplătită de vederea pârtiilor înzăpezite. După o oprire la Mečkin Kamen, revenim prin pădure la lacul înghețat, unde domnește liniștea iernii.",
+            "en": "Winter biking in Kruševo requires wide tires for the frozen bazaar. We start at the Clock Tower, enjoying the crisp, cold air on the way to the church. The climb to the Makedonium is tough but rewarded by views of the snowy ski slopes. After a stop at Mečkin Kamen, we return through the forest to the frozen lake, where winter silence prevails."
+          },
+          "stops": [
+            {
+              "name": "Town Center & Clock Tower",
+              "tip_5lang": {
+                "de": "Schwarzeis-Gefahr auf dem Kopfsteinpflaster; extrem langsam fahren.",
+                "hu": "Fekete jég veszély a macskaköveken; haladj rendkívül lassan.",
+                "ro": "Pericol de gheață neagră pe pavaj; pedalați extrem de încet.",
+                "en": "Black ice hazard on the cobblestones; ride extremely slowly."
+              }
+            },
+            {
+              "name": "Saint Nicholas Church",
+              "tip_5lang": {
+                "de": "Vorsicht beim Absteigen; der Boden kann vereist sein.",
+                "hu": "Vigyázz a leszálláskor; a talaj jeges lehet.",
+                "ro": "Atenție la descălecare; solul poate fi înghețat.",
+                "en": "Be careful when dismounting; the ground can be icy."
+              }
+            },
+            {
+              "name": "Makedonium (Ilinden Monument)",
+              "tip_5lang": {
+                "de": "Halten Sie die Fahrtzeit kurz, um Unterkühlung zu vermeiden.",
+                "hu": "Tartsd röviden a látogatást, hogy elkerüld a kihűlést.",
+                "ro": "Limitați durata vizitei pentru a evita hipotermia.",
+                "en": "Keep the visit short to avoid hypothermia from the cold wind."
+              }
+            },
+            {
+              "name": "Toše Proeski Memorial House",
+              "tip_5lang": {
+                "de": "Idealer Ort, um die Hände wieder aufzuwärmen.",
+                "hu": "Ideális helyszín az elgémberedett kezek felmelegítésére.",
+                "ro": "Locul ideal pentru a vă reîncălzi mâinile amorțite.",
+                "en": "Ideal place to warm up your numb hands."
+              }
+            },
+            {
+              "name": "Mečkin Kamen",
+              "tip_5lang": {
+                "de": "Windchill-Effekt beachten; bei Abfahrten wird es extrem kalt.",
+                "hu": "Számolj a szélhűtéssel; a lejtőkön extrém hideg lesz.",
+                "ro": "Atenție la factorul de răcire al vântului; la coborâre va fi foarte frig.",
+                "en": "Consider the wind-chill effect; it gets extremely cold on descents."
+              }
+            },
+            {
+              "name": "Kruševo Lake",
+              "tip_5lang": {
+                "de": "Fahren Sie nicht auf die Eisfläche des Sees.",
+                "hu": "Soha ne hajts rá a tó jegére.",
+                "ro": "Nu intrați cu bicicleta pe gheața lacului.",
+                "en": "Never ride your bike onto the ice surface of the lake."
+              }
+            },
+            {
+              "name": "Vlach Church (St. John)",
+              "tip_5lang": {
+                "de": "Der Boden ist hier oft verschneit und uneben.",
+                "hu": "A talaj itt gyakran havas és egyenetlen.",
+                "ro": "Solul este adesea înzăpezit și denivelat aici.",
+                "en": "The ground here is often snowy and uneven."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie im Winter Reifen mit Spikes oder sehr geringem Luftdruck.",
+              "Tragen Sie winddichte Handschuhe und eine Sturmhaube unter dem Helm.",
+              "Die Kälte entlädt E-Bike-Akkus deutlich schneller.",
+              "Bleiben Sie auf den geräumten Hauptstraßen; Waldwege sind tief verschneit.",
+              "Nehmen Sie eine Thermoskanne mit warmem Tee im Flaschenhalter mit."
+            ],
+            "hu": [
+              "Télen használj szöges gumit vagy nagyon alacsony guminyomást.",
+              "Viselj szélálló kesztyűt és maszkot a sisak alatt.",
+              "A hideg sokkal gyorsabban meríti az e-bike akkumulátorát.",
+              "Maradj a letakarított főutakon; az erdei utak mélyen havasak.",
+              "Vigyél magaddal meleg teát a kulacstartóban."
+            ],
+            "ro": [
+              "Iarna folosiți anvelope cu ținte sau presiune foarte scăzută.",
+              "Purtați mănuși rezistente la vânt și o cagulă sub cască.",
+              "Frigul descarcă bateriile bicicletelor electrice mult mai repede.",
+              "Rămâneți pe drumurile principale curățate; căile forestiere sunt înzăpezite.",
+              "Luați un termos cu ceai cald în suportul de bidon."
+            ],
+            "en": [
+              "Use studded tires or very low tire pressure in winter.",
+              "Wear windproof gloves and a balaclava under your helmet.",
+              "The cold drains e-bike batteries significantly faster.",
+              "Stay on the cleared main roads; forest paths are buried in snow.",
+              "Carry a thermos with warm tea in your bottle cage."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1146,6 +1562,214 @@
           "Fill up on gas before heading into the mountainous regions.",
           "Combine driving and walking to get the most out of your visit."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag im Auto ermöglicht es uns, Kruševo ohne nasse Füße zu erkunden. Wir fahren zuerst zum Mečkin Kamen und genießen die neblige Fahrt durch die Bergwälder. Mittags parken wir am Gumenje-Hügel, um das Makedonium und das Toše-Gedenkhaus trockenen Fußes zu erreichen. Der Nachmittag endet mit einer Fahrt in das historische Zentrum, wo wir nahe der Nikolauskirche parken und die Stadtatmosphäre genießen.",
+            "hu": "Az esős nap az autóban ülve lehetővé teszi, hogy vizes lábak nélkül fedezzük fel Krusevót. Először a Mečkin Kamenhez hajtunk, élvezve a ködös utat a fenyvesek között. Délben a Gumenje-dombon parkolunk, így könnyen elérjük a Makedóniumot és a Toše emlékházat. A délután a történelmi központban zárul, ahol a Szent Miklós-templom közelében találunk parkolót.",
+            "ro": "O zi ploioasă în mașină ne permite să explorăm Kruševo fără a ne uda la picioare. Conducem mai întâi la Mečkin Kamen, savurând drumul cețos prin pădurile de munte. La prânz parcăm pe dealul Gumenje pentru a ajunge ușor la Makedonium și Casa Memorială Toše. După-amiaza se încheie în centrul istoric, unde parcăm aproape de Biserica Sfântul Nicolae.",
+            "en": "A rainy day in the car allows us to explore Kruševo without getting wet feet. We first drive to Mečkin Kamen, enjoying the misty route through the mountain forests. At noon, we park at Gumenje Hill for easy access to the Makedonium and Toše Memorial House. The afternoon ends in the historic center, where we find parking near Saint Nicholas Church to enjoy the town's atmosphere."
+          },
+          "stops": [
+            {
+              "name": "Cluster: Mečkin Kamen & Kruševo Lake",
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig bei Nebel; die Kurven sind eng.",
+                "hu": "Vezess óvatosan a ködben; a kanyarok élesek.",
+                "ro": "Conduceți cu atenție pe ceață; curbele sunt strânse.",
+                "en": "Drive carefully in the fog; the turns are sharp."
+              }
+            },
+            {
+              "name": "Kruševo Lake",
+              "tip_5lang": {
+                "de": "Parkplatz direkt am Seeufer ist asphaltiert.",
+                "hu": "A tóparti parkoló aszfaltozott, nem kell sárban járnod.",
+                "ro": "Parcarea de pe malul lacului este asfaltată.",
+                "en": "The parking area by the lake shore is paved."
+              }
+            },
+            {
+              "name": "Cluster: Gumenje Hill (Parking)",
+              "tip_5lang": {
+                "de": "Zentraler Parkplatz, idealer Ausgangspunkt bei Regen.",
+                "hu": "Központi parkoló, ideális kiindulópont esőben.",
+                "ro": "Parcare centrală, punct de plecare ideal pe ploaie.",
+                "en": "Central parking lot, an ideal starting point in the rain."
+              }
+            },
+            {
+              "name": "Makedonium (Ilinden Monument)",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Parkplatz; Schirm bereithalten.",
+                "hu": "Rövid séta a parkolóból; tartsd készenlétben az esernyőt.",
+                "ro": "Drum scurt pe jos din parcare; pregătiți umbrela.",
+                "en": "Short walk from the parking lot; keep your umbrella ready."
+              }
+            },
+            {
+              "name": "Toše Proeski Memorial House",
+              "tip_5lang": {
+                "de": "Parken direkt vor dem Eingang oft möglich.",
+                "hu": "Gyakran lehet közvetlenül a bejárat előtt parkolni.",
+                "ro": "Parcarea direct în fața intrării este adesea posibilă.",
+                "en": "Parking directly in front of the entrance is often possible."
+              }
+            },
+            {
+              "name": "Cluster: Old Town (Parking)",
+              "tip_5lang": {
+                "de": "In den engen Gassen sind Parkplätze rar; nutzen Sie markierte Flächen.",
+                "hu": "A szűk utcákban kevés a hely; használd a kijelölt parkolókat.",
+                "ro": "Locurile de parcare sunt rare în străzile strânse; folosiți zonele marcate.",
+                "en": "Parking is scarce in narrow streets; use designated areas."
+              }
+            },
+            {
+              "name": "St. Nicholas Church & Historic Center",
+              "tip_5lang": {
+                "de": "Idealer Stopp, um das Zentrum während einer Regenpause zu erkunden.",
+                "hu": "Ideális megálló a központ felfedezéséhez egy esőszünetben.",
+                "ro": "Oprire ideală pentru a explora centrul în timpul unei pauze de ploaie.",
+                "en": "Ideal stop for exploring the center during a break in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Straßen in Kruševo sind steil; nutzen Sie die Motorbremse.",
+              "Achten Sie auf Fußgänger, die bei Regen oft unachtsam die Straße queren.",
+              "Vermeiden Sie das Parken unter instabilen Bäumen bei Sturmgefahr.",
+              "Halten Sie die Scheinwerfer bei Nebel immer eingeschaltet.",
+              "Der Basar-Bereich ist oft für Autos gesperrt oder sehr schwer befahrbar."
+            ],
+            "hu": [
+              "Az utak meredekek; használd a motorféket lefelé menet.",
+              "Figyelj a gyalogosokra, akik esőben figyelmetlenebbül kelnek át.",
+              "Viharos szélben ne parkolj instabil fák alá.",
+              "Köd esetén mindig kapcsold be a fényszórókat.",
+              "A bazár területe gyakran lezárt vagy nehezen járható autóval."
+            ],
+            "ro": [
+              "Străzile sunt abrupte; folosiți frâna de motor la coborâre.",
+              "Atenție la pietoni, care pe ploaie traversează adesea neatent.",
+              "Evitați parcarea sub copaci instabili dacă este risc de furtună.",
+              "Țineți farurile aprinse întotdeauna pe timp de ceață.",
+              "Zona bazarului este adesea închisă sau foarte greu accesibilă cu mașina."
+            ],
+            "en": [
+              "The roads are steep; use engine braking when descending.",
+              "Watch out for pedestrians, who often cross carelessly in the rain.",
+              "Avoid parking under unstable trees if there is a risk of windstorms.",
+              "Always keep your headlights on in foggy conditions.",
+              "The bazaar area is often closed to cars or very difficult to navigate."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterfahrten in Kruševo bieten spektakuläre Ausblicke auf die verschneite Bergstadt. Wir fahren vorsichtig hinauf zum Mečkin Kamen, wobei Winterreifen hier ein absolutes Muss sind. Mittags erreichen wir den Gumenje-Hügel, von wo aus die Denkmäler im tiefen Schnee erstrahlen. Den Nachmittag verbringen wir im Zentrum, wo wir das Auto abstellen und die winterliche Ruhe in der Nikolauskirche genießen.",
+            "hu": "A téli autózás Krusevóban látványos kilátást nyújt a havas hegyi városra. Óvatosan hajtunk fel a Mečkin Kamenhez; a téli gumi itt kötelező. Délben érjük el a Gumenje-dombot, ahonnan az emlékművek ragyognak a mély hóban. A délutánt a központban töltjük, ahol leparkolunk, és élvezzük a Szent Miklós-templom téli nyugalmát.",
+            "ro": "Condusul iarna în Kruševo oferă vederi spectaculoase asupra orașului montan înzăpezit. Urcăm cu atenție spre Mečkin Kamen; anvelopele de iarnă sunt obligatorii aici. La prânz ajungem pe dealul Gumenje, de unde monumentele strălucesc în zăpada adâncă. Petrecem după-amiaza în centru, unde parcăm și savurăm liniștea de iarnă din Biserica Sfântul Nicolae.",
+            "en": "Winter driving in Kruševo offers spectacular views of the snowy mountain town. We carefully drive up to Mečkin Kamen; winter tires are an absolute must here. At noon, we reach Gumenje Hill, where the monuments shine in the deep snow. We spend the afternoon in the center, parking the car and enjoying the winter tranquility of Saint Nicholas Church."
+          },
+          "stops": [
+            {
+              "name": "Cluster: Mečkin Kamen & Kruševo Lake",
+              "tip_5lang": {
+                "de": "Hinterradantrieb kann auf diesen Steigungen problematisch sein.",
+                "hu": "A hátsókerék-hajtás problémás lehet ezeken az emelkedőkön.",
+                "ro": "Tracțiunea spate poate fi problematică pe aceste pante.",
+                "en": "Rear-wheel drive can be problematic on these steep slopes."
+              }
+            },
+            {
+              "name": "Kruševo Lake",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stellen auf der Zufahrtsstraße.",
+                "hu": "Vigyázz a jeges szakaszokra a bekötőúton.",
+                "ro": "Atenție la porțiunile înghețate de pe drumul de acces.",
+                "en": "Watch out for icy patches on the access road."
+              }
+            },
+            {
+              "name": "Cluster: Gumenje Hill (Parking)",
+              "tip_5lang": {
+                "de": "Der Parkplatz wird geräumt, kann aber schneebedeckt sein.",
+                "hu": "A parkolót takarítják, de maradhat rajta hó.",
+                "ro": "Parcarea este curățată, dar poate fi acoperită cu zăpadă.",
+                "en": "The parking lot is cleared but may still be snow-covered."
+              }
+            },
+            {
+              "name": "Makedonium (Ilinden Monument)",
+              "tip_5lang": {
+                "de": "Der monumentale Blick ist im Winter bei klarem Himmel am besten.",
+                "hu": "Az emlékmű látványa télen, tiszta időben a legszebb.",
+                "ro": "Vederea monumentului este cea mai frumoasă iarna pe cer senin.",
+                "en": "The monumental view is best in winter under clear skies."
+              }
+            },
+            {
+              "name": "Toše Proeski Memorial House",
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor nicht unnötig im Stand laufen.",
+                "hu": "Ne járasd feleslegesen a motort álló helyzetben.",
+                "ro": "Nu lăsați motorul să meargă inutil în staționare.",
+                "en": "Do not leave the engine idling unnecessarily while parked."
+              }
+            },
+            {
+              "name": "Cluster: Old Town (Parking)",
+              "tip_5lang": {
+                "de": "Schneeanhäufungen am Straßenrand schränken die Parkplätze ein.",
+                "hu": "A hórakások az út szélén beszűkítik a parkolóhelyeket.",
+                "ro": "Grămezile de zăpadă de la marginea drumului limitează locurile de parcare.",
+                "en": "Snow piles on the roadside restrict available parking spaces."
+              }
+            },
+            {
+              "name": "St. Nicholas Church & Historic Center",
+              "tip_5lang": {
+                "de": "Ziehen Sie die Handbremse bei Frost nicht zu fest an.",
+                "hu": "Fagyban ne húzd be túl szorosan a kéziféket.",
+                "ro": "Nu trageți frâna de mână prea tare în caz de îngheț.",
+                "en": "Do not pull the handbrake too tight during freezing temperatures."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Führen Sie immer Schneeketten mit, Kruševo ist sehr steil.",
+              "Frostschutzmittel für die Scheibenwaschanlage ist hier überlebenswichtig.",
+              "Viele Parkplätze sind im Winter durch Schneehaufen blockiert.",
+              "Prüfen Sie vor der Abfahrt den Straßenzustand (Eisregen-Gefahr).",
+              "Planen Sie mehr Zeit für das Freikratzen und Aufwärmen des Autos ein."
+            ],
+            "hu": [
+              "Mindig tarts magadnál hóláncot, Krusevó nagyon meredek.",
+              "A fagyálló ablakmosó folyadék itt alapvető fontosságú.",
+              "Sok parkolóhelyet elzárhatnak a hórakások télen.",
+              "Indulás előtt ellenőrizd az útviszonyokat (ónos eső veszély).",
+              "Számolj több idővel a jégtelenítésre és az autó bemelegítésére."
+            ],
+            "ro": [
+              "Purtați întotdeauna lanțuri antiderapante, Kruševo este foarte abrupt.",
+              "Lichidul de parbriz antigriz este vital aici.",
+              "Multe locuri de parcare sunt blocate de grămezi de zăpadă iarna.",
+              "Verificați starea drumurilor înainte de plecare (pericol de polei).",
+              "Alocați mai mult timp pentru dezghețarea și încălzirea mașinii."
+            ],
+            "en": [
+              "Always carry snow chains; Kruševo's streets are very steep.",
+              "Anti-freeze windshield washer fluid is vital here.",
+              "Many parking spots may be blocked by snow piles in winter.",
+              "Check road conditions before starting (risk of freezing rain).",
+              "Allow extra time for de-icing and warming up the car."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1502,6 +2126,196 @@
           "Ask locals for the correct bus stops; they are often helpful.",
           "Some sites like Mečkin Kamen may require a longer walk from the nearest bus stop."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Transit in Kruševo bei Regen nutzt die lokalen Minibusse, um die steilen Anstiege trocken zu überwinden. Wir starten im Zentrum und fahren zur Nikolauskirche, während draußen der Regen peitscht. Mittags bringt uns ein Sammeltaxi (Kombi) zum Gumenje-Hügel, wo wir Makedonium und Museen im Inneren erkunden. Der Tag endet mit einer gemütlichen Rückfahrt ins Dorfzentrum, direkt vor eine warme Teestube.",
+            "hu": "A tömegközlekedés esőben a helyi kisbuszokra támaszkodik, hogy szárazon jussunk fel a meredek részekre. A központból indulunk a Szent Miklós-templomhoz, miközben kint szakad az eső. Délben egy iránytaxi (kombi) visz fel a Gumenje-dombra, ahol a Makedóniumot és a múzeumokat fedezzük fel. A napot egy kényelmes visszautazás zárja a falu központjába, egy meleg teázó elé.",
+            "ro": "Transportul în comun pe ploaie folosește microbuzele locale pentru a urca pantele fără a ne uda. Pornim din centru spre Biserica Sfântul Nicolae în timp ce afară plouă torențial. La prânz, un taxi colectiv (kombi) ne duce pe dealul Gumenje pentru a explora Makedonium și muzeele. Ziua se încheie cu o cursă confortabilă înapoi în centrul satului, chiar în fața unei ceainării calde.",
+            "en": "Transit in Kruševo during rain relies on local minibuses to beat the steep climbs while staying dry. We start in the center and head to Saint Nicholas Church while the rain pours outside. At noon, a shared taxi (kombi) takes us up to Gumenje Hill to explore the Makedonium and indoor museums. The day ends with a comfortable ride back to the village center, dropping us right in front of a warm tea house."
+          },
+          "stops": [
+            {
+              "name": "Cluster: Town Center (Arrival)",
+              "tip_5lang": {
+                "de": "Warten Sie unter den Vordächern der Geschäfte auf den Bus.",
+                "hu": "Várj a buszra az üzletek előtetői alatt.",
+                "ro": "Așteptați autobuzul sub streșinile magazinelor.",
+                "en": "Wait for the bus under the shop awnings to stay dry."
+              }
+            },
+            {
+              "name": "Saint Nicholas Church",
+              "tip_5lang": {
+                "de": "Kurze Sprintdistanz vom Busstopp zur Kirche einplanen.",
+                "hu": "Számolj egy rövid futással a megállótól a templomig.",
+                "ro": "Pregătiți-vă pentru un sprint scurt de la stație la biserică.",
+                "en": "Be ready for a short sprint from the bus stop to the church."
+              }
+            },
+            {
+              "name": "Nikola Martinoski Gallery",
+              "tip_5lang": {
+                "de": "Informieren Sie sich über die unregelmäßigen Fahrzeiten bei Regen.",
+                "hu": "Tájékozódj az eső miatti esetleges késésekről.",
+                "ro": "Informați-vă despre orarul neregulat în caz de ploaie.",
+                "en": "Check for irregular schedules due to heavy rain."
+              }
+            },
+            {
+              "name": "Cluster: Gumenje Hill (Bus Ride)",
+              "tip_5lang": {
+                "de": "Die Minibusse fahren bei Bedarf oft direkt bis zum Hügel.",
+                "hu": "A kisbuszok igény esetén gyakran közvetlenül a dombig visznek.",
+                "ro": "Microbuzele urcă adesea direct până pe deal la cerere.",
+                "en": "Minibuses often drive directly up the hill on request."
+              }
+            },
+            {
+              "name": "Makedonium & Museum of the Ilinden Uprising",
+              "tip_5lang": {
+                "de": "Perfekte Indoor-Kombination für regnerische Nachmittage.",
+                "hu": "Tökéletes beltéri program esős délutánokra.",
+                "ro": "Combinație perfectă de interior pentru după-amiezi ploioase.",
+                "en": "Perfect indoor combination for rainy afternoons."
+              }
+            },
+            {
+              "name": "Cluster: Mečkin Kamen (Bus Ride)",
+              "tip_5lang": {
+                "de": "Sammeltaxis sind bei schlechtem Wetter die sicherste Wahl.",
+                "hu": "Az iránytaxik a legbiztosabb választás rossz időben.",
+                "ro": "Taxiurile colective sunt cea mai sigură alegere pe vreme rea.",
+                "en": "Shared taxis are the most reliable choice in bad weather."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "In Kruševo gibt es keinen festen Busfahrplan; fragen Sie Einheimische nach dem nächsten 'Kombi'.",
+              "Minibusse halten oft auf Handzeichen überall an der Strecke.",
+              "Halten Sie Kleingeld in Denar bereit, Kartenzahlung ist selten.",
+              "Die Busse können bei starkem Regen beschlagene Scheiben haben.",
+              "Suchen Sie Schutz in den Hauseingängen nahe der Haltestellen."
+            ],
+            "hu": [
+              "Krusevóban nincs fix buszmenetrend; kérdezd a helyieket a következő 'kombiról'.",
+              "A kisbuszok bárhol megállnak az útvonalon, ha leinted őket.",
+              "Készíts be aprópénzt (denár), a kártyás fizetés ritka.",
+              "Nagy esőben a buszok ablakai gyakran bepárásodnak.",
+              "Keress menedéket a kapualjakban a megállók közelében."
+            ],
+            "ro": [
+              "În Kruševo nu există un orar fix; întrebați localnicii despre următorul 'kombi'.",
+              "Microbuzele opresc oriunde pe traseu dacă le faceți semn cu mâna.",
+              "Aveți pregătit mărunțiș în denari, plata cu cardul este rară.",
+              "Geamurile microbuzelor se pot aburi în timpul ploii abundente.",
+              "Căutați adăpost în intrările caselor de lângă stații."
+            ],
+            "en": [
+              "Kruševo has no fixed bus schedule; ask locals about the next 'kombi'.",
+              "Minibuses often stop anywhere along the route if you hail them.",
+              "Have small Denar change ready; card payment is rare in transit.",
+              "Bus windows often fog up during heavy rain.",
+              "Look for shelter in doorways near the unofficial bus stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Transit im Winter ist in Kruševo ein Erlebnis für sich, wenn Minibusse durch die Schneemassen navigieren. Wir starten im Zentrum und erreichen die Nikolauskirche, während draußen eine weiße Wunderwelt vorbeizieht. Mittags bringt uns das Sammeltaxi zum Gumenje-Hügel, wo wir im gut beheizten Makedonium Schutz finden. Der Tag endet mit einer Fahrt zum Mečkin Kamen, wo wir den Sonnenuntergang über den verschneiten Gipfeln beobachten.",
+            "hu": "A téli tömegközlekedés külön élmény Krusevóban, ahogy a kisbuszok a hófalak között lavíroznak. A központból indulva érjük el a Szent Miklós-templomot, miközben kint elsuhan a fehér téli világ. Délben az iránytaxi a Gumenje-dombra visz, ahol a fűtött Makedónium nyújt menedéket. A napot a Mečkin Kamenhez tett utazás zárja, ahol megnézzük a naplementét a havas csúcsok felett.",
+            "ro": "Transportul iarna este o experiență în sine, cu microbuze navigând printre troiene. Pornim din centru spre Biserica Sfântul Nicolae în timp ce pe geam trece o lume albă de basm. La prânz, taxiul colectiv ne duce pe dealul Gumenje pentru a ne adăposti în Makedoniumul încălzit. Ziua se încheie cu o cursă spre Mečkin Kamen pentru apusul peste culmile înzăpezite.",
+            "en": "Winter transit is an experience itself as minibuses navigate through snow walls. Starting from the center, we reach Saint Nicholas Church while a white wonderland passes by outside. At noon, a shared taxi takes us to Gumenje Hill, where the heated Makedonium provides shelter. The day ends with a trip to Mečkin Kamen to watch the sunset over the snowy peaks."
+          },
+          "stops": [
+            {
+              "name": "Cluster: Town Center (Arrival)",
+              "tip_5lang": {
+                "de": "Warten Sie im Inneren eines Cafés, bis der Minibus kommt.",
+                "hu": "Várj egy kávézó melegében a kisbusz érkezéséig.",
+                "ro": "Așteptați în interiorul unei cafenele până vine microbuzul.",
+                "en": "Wait inside a cafe until the minibus arrives."
+              }
+            },
+            {
+              "name": "Saint Nicholas Church",
+              "tip_5lang": {
+                "de": "Die Stufen zum Bus können vereist und rutschig sein.",
+                "hu": "A busz lépcsői jegesek és csúszósak lehetnek.",
+                "ro": "Treptele microbuzului pot fi înghețate și alunecoase.",
+                "en": "The bus steps can be icy and slippery."
+              }
+            },
+            {
+              "name": "Nikola Martinoski Gallery",
+              "tip_5lang": {
+                "de": "Winterfahrpläne hängen stark von der Schneeräumung ab.",
+                "hu": "A téli menetrend nagyban függ a hóeltakarítástól.",
+                "ro": "Orarele de iarnă depind mult de curățarea zăpezii.",
+                "en": "Winter schedules depend heavily on snow clearing progress."
+              }
+            },
+            {
+              "name": "Cluster: Gumenje Hill (Bus Ride)",
+              "tip_5lang": {
+                "de": "Die Fahrt bergauf bietet tolle Ausblicke auf die verschneite Stadt.",
+                "hu": "A felfelé vezető út remek kilátást nyújt a havas városra.",
+                "ro": "Cursa la deal oferă vederi superbe asupra orașului înzăpezit.",
+                "en": "The uphill ride offers great views of the snowy town."
+              }
+            },
+            {
+              "name": "Makedonium & Museum of the Ilinden Uprising",
+              "tip_5lang": {
+                "de": "Ein warmer Ort, um auf den Rückbus zu warten.",
+                "hu": "Meleg helyszín a visszatérő buszra való várakozáshoz.",
+                "ro": "Un loc cald unde puteți aștepta microbuzul de întoarcere.",
+                "en": "A warm place to wait for the return bus."
+              }
+            },
+            {
+              "name": "Cluster: Mečkin Kamen (Bus Ride)",
+              "tip_5lang": {
+                "de": "Letzte Busse fahren im Winter oft früher zurück.",
+                "hu": "Télen az utolsó buszok gyakran korábban indulnak vissza.",
+                "ro": "Iarna, ultimele curse pleacă adesea mai devreme.",
+                "en": "The last buses often head back earlier in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrzeuge mit Allradantrieb werden als 'Transit' bevorzugt eingesetzt.",
+              "Die Heizung in den Minibussen ist im Winter oft auf Maximum eingestellt.",
+              "Rechnen Sie mit Verspätungen bei starkem Schneefall.",
+              "Haltestellen sind oft schneebedeckt; warten Sie an geräumten Stellen.",
+              "Fragen Sie den Fahrer immer nach der Zeit der letzten Rückfahrt."
+            ],
+            "hu": [
+              "Télen az összkerekes járműveket részesítik előnyben a közlekedésben.",
+              "A kisbuszok fűtése télen gyakran maximumon üzemel.",
+              "Számolj késésekkel intenzív havazás esetén.",
+              "A megállókat belepheti a hó; várj a letakarított részeken.",
+              "Mindig kérdezd meg a sofőrt az utolsó visszajárat idejéről."
+            ],
+            "ro": [
+              "Iarna, vehiculele cu tracțiune integrală sunt preferate pentru transport.",
+              "Încălzirea în microbuze este adesea dată la maximum iarna.",
+              "Așteptați-vă la întârzieri în caz de ninsoare abundentă.",
+              "Stațiile pot fi acoperite de zăpadă; așteptați în locurile curățate.",
+              "Întrebați întotdeauna șoferul despre ora ultimei curse de întoarcere."
+            ],
+            "en": [
+              "Four-wheel drive vehicles are preferred for transit during winter.",
+              "The heating in minibuses is often set to maximum in winter.",
+              "Expect delays during periods of heavy snowfall.",
+              "Bus stops might be buried in snow; wait at cleared spots nearby.",
+              "Always ask the driver about the time of the last return trip."
+            ]
+          }
+        }
       }
     }
   }

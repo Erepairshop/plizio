@@ -379,6 +379,206 @@
           "Book tickets online in advance for major attractions like the Cathedral and Abbey to save time.",
           "Check opening times, as some historic sites, especially the churches, can have limited hours."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bieten die Westgate Towers Schutz vor dem Regen. Mittags erkunden wir die beeindruckende Kathedrale im Trockenen. Nachmittags spazieren wir unter dem Regenschirm zur Abtei. Abends lassen wir den Tag trotz Nässe in den Dane John Gardens ausklingen.",
+            "hu": "Reggel a Westgate Towers falai között bújunk el az eső elől. Délben a katedrális belső tereit csodáljuk meg szárazon. Délután esernyővel sétálunk az apátság romjaihoz. Este a Dane John kertekben zárjuk a napot a friss, eső utáni levegőn.",
+            "ro": "Dimineața ne adăpostim de ploaie în Turnurile Westgate. La prânz explorăm interiorul catedralei, feriți de umezeală. După-amiază mergem cu umbrela spre abația istorică. Seara încheiem ziua în Grădinile Dane John, bucurându-ne de aerul curat.",
+            "en": "In the morning, Westgate Towers provide a sturdy shelter from the rain. At noon, we explore the magnificent Cathedral while staying dry. In the afternoon, we walk with umbrellas to the historic abbey. In the evening, we finish the tour at Dane John Gardens."
+          },
+          "stops": [
+            {
+              "name": "Westgate Towers",
+              "tip_5lang": {
+                "de": "Schutz im Torbogen suchen.",
+                "hu": "Keressen menedéket a kapualjban.",
+                "ro": "Căutați adăpost sub poartă.",
+                "en": "Seek shelter under the gateway."
+              }
+            },
+            {
+              "name": "Old Weaver's House",
+              "tip_5lang": {
+                "de": "Das Ufer ist bei Regen rutschig.",
+                "hu": "A folyópart esőben csúszós lehet.",
+                "ro": "Malul este alunecos pe ploaie.",
+                "en": "The riverside can be slippery."
+              }
+            },
+            {
+              "name": "Beaney House of Art & Knowledge",
+              "tip_5lang": {
+                "de": "Perfekter Ort zum Aufwärmen.",
+                "hu": "Tökéletes hely a melegedésre.",
+                "ro": "Loc perfect pentru încălzire.",
+                "en": "Perfect place to warm up."
+              }
+            },
+            {
+              "name": "Canterbury Cathedral",
+              "tip_5lang": {
+                "de": "Viel Zeit im Inneren verbringen.",
+                "hu": "Töltsön sok időt bent.",
+                "ro": "Petreceți mult timp în interior.",
+                "en": "Spend plenty of time inside."
+              }
+            },
+            {
+              "name": "St. Augustine's Abbey",
+              "tip_5lang": {
+                "de": "Feste Schuhe für nasses Gras.",
+                "hu": "Vízálló cipő kell a fűre.",
+                "ro": "Pantofi impermeabili pentru iarbă.",
+                "en": "Waterproof shoes for the grass."
+              }
+            },
+            {
+              "name": "St. Martin's Church",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem Friedhofspfad.",
+                "hu": "Vigyázat a temetői ösvényen.",
+                "ro": "Atenție pe poteca din cimitir.",
+                "en": "Careful on the graveyard path."
+              }
+            },
+            {
+              "name": "Dane John Gardens",
+              "tip_5lang": {
+                "de": "Blick auf die nassen Dächer.",
+                "hu": "Kilátás a vizes háztetőkre.",
+                "ro": "Vedere peste acoperișurile ude.",
+                "en": "View over the wet rooftops."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nehmen Sie einen stabilen Regenschirm mit.",
+              "Die mittelalterlichen Gassen haben oft Pfützen.",
+              "Nutzen Sie die Museen als Regenpausen.",
+              "Tragen Sie wasserfeste Wanderschuhe."
+            ],
+            "hu": [
+              "Vigyen magával strapabíró esernyőt.",
+              "A középkori utcákon sok a pocsolya.",
+              "Használja a múzeumokat esőszünetnek.",
+              "Viseljen vízálló gyaloglócipőt."
+            ],
+            "ro": [
+              "Luați o umbrelă rezistentă.",
+              "Străzile medievale au multe bălți.",
+              "Folosiți muzeele ca pauze de ploaie.",
+              "Purtați încălțăminte impermeabilă."
+            ],
+            "en": [
+              "Bring a sturdy umbrella with you.",
+              "Medieval streets often have puddles.",
+              "Use museums as rainy-day shelters.",
+              "Wear waterproof walking shoes."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens weht ein kalter Wind an den Westgate Towers. Mittags wärmen wir uns in der prächtigen Kathedrale auf. Nachmittags besuchen wir die Ruinen der Abtei im sanften Winterlicht. Abends genießen wir die beleuchteten Gassen vor dem frühen Sonnenuntergang.",
+            "hu": "Reggel hideg szél fúj a Westgate Towersnél. Délben a pompás katedrálisban melegedünk fel. Délután az apátság romjait nézzük meg a téli fényben. Este a kivilágított utcákat élvezzük a korai naplemente előtt.",
+            "ro": "Dimineața suflă un vânt rece la Turnurile Westgate. La prânz ne încălzim în catedrala splendidă. După-amiază vizităm ruinele abației în lumina iernii. Seara admirăm străzile iluminate înainte de apusul timpuriu.",
+            "en": "In the morning, a cold wind blows at Westgate Towers. At noon, we warm up inside the grand Cathedral. In the afternoon, we visit the abbey ruins in the soft winter light. In the evening, we enjoy the lit-up streets before the early sunset."
+          },
+          "stops": [
+            {
+              "name": "Westgate Towers",
+              "tip_5lang": {
+                "de": "Warm anziehen für die Aussicht.",
+                "hu": "Öltözzön melegen a kilátáshoz.",
+                "ro": "Îmbrăcați-vă gros pentru vedere.",
+                "en": "Dress warmly for the view."
+              }
+            },
+            {
+              "name": "Old Weaver's House",
+              "tip_5lang": {
+                "de": "Schöner Fotospot im Frost.",
+                "hu": "Szép fotópont dér idején.",
+                "ro": "Loc bun de poze pe ger.",
+                "en": "Great photo spot in the frost."
+              }
+            },
+            {
+              "name": "Beaney House of Art & Knowledge",
+              "tip_5lang": {
+                "de": "Ideal für eine heiße Pause.",
+                "hu": "Ideális egy forró szünetre.",
+                "ro": "Ideal pentru o pauză caldă.",
+                "en": "Ideal for a warm break."
+              }
+            },
+            {
+              "name": "Canterbury Cathedral",
+              "tip_5lang": {
+                "de": "Die Krypta ist oft wärmer.",
+                "hu": "A kripta gyakran melegebb.",
+                "ro": "Cripta este adesea mai caldă.",
+                "en": "The crypt is often warmer."
+              }
+            },
+            {
+              "name": "St. Augustine's Abbey",
+              "tip_5lang": {
+                "de": "Besuch vor 16 Uhr planen.",
+                "hu": "Tervezze a látogatást 16 óra elé.",
+                "ro": "Vizitați înainte de ora 16:00.",
+                "en": "Plan visit before 4 PM."
+              }
+            },
+            {
+              "name": "St. Martin's Church",
+              "tip_5lang": {
+                "de": "Früher Sonnenuntergang beachten.",
+                "hu": "Figyeljen a korai naplementére.",
+                "ro": "Atenție la apusul devreme.",
+                "en": "Watch out for early sunset."
+              }
+            },
+            {
+              "name": "Dane John Gardens",
+              "tip_5lang": {
+                "de": "Vorsicht auf vereisten Wegen.",
+                "hu": "Vigyázat a jeges utakon.",
+                "ro": "Atenție la aleile înghețate.",
+                "en": "Beware of icy paths."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Kleidung in Schichten tragen.",
+              "Die Sonne geht gegen 16 Uhr unter.",
+              "Viele Cafés bieten heißen Tee an.",
+              "Kopfsteinpflaster kann glatt sein."
+            ],
+            "hu": [
+              "Réteges, meleg öltözet javasolt.",
+              "A nap délután 4 körül lemegy.",
+              "Sok kávézó kínál forró teát.",
+              "A macskakő csúszós lehet."
+            ],
+            "ro": [
+              "Purtați haine groase în straturi.",
+              "Soarele apune în jur de ora 16.",
+              "Multe cafenele oferă ceai cald.",
+              "Pavelele pot fi alunecoase."
+            ],
+            "en": [
+              "Wear warm clothes in layers.",
+              "The sun sets around 4 PM.",
+              "Many cafes offer hot tea.",
+              "Cobblestones can be slippery."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -752,6 +952,206 @@
           "Follow National Cycle Routes 1 and 18 which pass through the city and surrounding area.",
           "The terrain is mostly flat, but there are some gentle hills outside the centre."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens radeln wir vorsichtig durch den Regen zu den Westgate Towers. Mittags machen wir eine Pause im trockenen Römermuseum. Nachmittags geht es weiter zur Kathedrale und zur Abtei. Abends beenden wir die Tour auf dem Great Stour Way trotz feuchter Wege.",
+            "hu": "Reggel óvatosan kerekezünk az esőben a Westgate Towers felé. Délben szünetet tartunk a száraz Római Múzeumban. Délután folytatjuk az utat a katedrálishoz és az apátsághoz. Este a Great Stour Way-en fejezzük be a túrát a nedves utakon.",
+            "ro": "Dimineața pedalăm cu grijă prin ploaie spre Turnurile Westgate. La prânz facem o pauză în Muzeul Roman, la uscat. După-amiază continuăm spre catedrală și abație. Seara încheiem turul pe Great Stour Way, pe poteci umede.",
+            "en": "In the morning, we cycle carefully through the rain to Westgate Towers. At noon, we take a break in the dry Roman Museum. In the afternoon, we continue to the Cathedral and Abbey. In the evening, we finish the tour on the Great Stour Way despite the wet paths."
+          },
+          "stops": [
+            {
+              "name": "Westgate Towers",
+              "tip_5lang": {
+                "de": "Vorsicht beim Bremsen im Regen.",
+                "hu": "Vigyázzon a fékezéssel esőben.",
+                "ro": "Atenție la frânare pe ploaie.",
+                "en": "Careful when braking in rain."
+              }
+            },
+            {
+              "name": "Greyfriars Chapel",
+              "tip_5lang": {
+                "de": "Kurzer Stopp unter Bäumen.",
+                "hu": "Rövid megálló a fák alatt.",
+                "ro": "Scurtă oprire sub copaci.",
+                "en": "Short stop under the trees."
+              }
+            },
+            {
+              "name": "Canterbury Roman Museum",
+              "tip_5lang": {
+                "de": "Sicherer Platz für das Rad.",
+                "hu": "Biztonságos hely a biciklinek.",
+                "ro": "Loc sigur pentru bicicletă.",
+                "en": "Secure spot for the bike."
+              }
+            },
+            {
+              "name": "Canterbury Cathedral",
+              "tip_5lang": {
+                "de": "Regenschutz für den Sattel.",
+                "hu": "Húzzon esővédőt a nyeregre.",
+                "ro": "Huză de ploaie pentru șa.",
+                "en": "Rain cover for the saddle."
+              }
+            },
+            {
+              "name": "St. Augustine's Abbey",
+              "tip_5lang": {
+                "de": "Nasse Reifen auf dem Rasen.",
+                "hu": "Vizes gumi a füvön csúszhat.",
+                "ro": "Cauciucuri ude pe iarbă.",
+                "en": "Wet tires may slip on grass."
+              }
+            },
+            {
+              "name": "St. Martin's Church",
+              "tip_5lang": {
+                "de": "Vorsicht auf schmalen Wegen.",
+                "hu": "Vigyázat a szűk utakon.",
+                "ro": "Atenție pe drumurile înguste.",
+                "en": "Careful on narrow paths."
+              }
+            },
+            {
+              "name": "Great Stour Way",
+              "tip_5lang": {
+                "de": "Viele Pfützen auf dem Radweg.",
+                "hu": "Sok pocsolya a kerékpárúton.",
+                "ro": "Multe bălți pe pista de biciclete.",
+                "en": "Many puddles on the cycle path."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Komplette Regenbekleidung tragen.",
+              "Vorsicht auf nassen Schienen.",
+              "Beleuchtung auch tagsüber nutzen.",
+              "Schutzbleche am Rad sind wichtig."
+            ],
+            "hu": [
+              "Viseljen teljes esőruházatot.",
+              "Vigyázat a vizes síneken.",
+              "Nappal is használjon világítást.",
+              "A sárvédő elengedhetetlen."
+            ],
+            "ro": [
+              "Purtați costum de ploaie complet.",
+              "Atenție la șinele umede.",
+              "Folosiți lumini și ziua.",
+              "Apărătorile sunt esențiale."
+            ],
+            "en": [
+              "Wear full rain gear for the ride.",
+              "Watch out for wet tracks.",
+              "Use bike lights even in daytime.",
+              "Mudguards are very important."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens radeln wir dick eingepackt durch das winterliche Canterbury. Mittags wärmen wir uns im Römermuseum auf. Nachmittags besuchen wir die Abtei im tiefstehenden Sonnenlicht. Abends fahren wir beleuchtet durch die historische Altstadt zurück.",
+            "hu": "Reggel vastagon felöltözve tekerünk a téli Canterbury-ben. Délben a Római Múzeumban melegedünk fel. Délután az apátságot látogatjuk meg az alacsony napállásnál. Este kivilágított biciklivel térünk vissza az óvároson át.",
+            "ro": "Dimineața pedalăm bine îmbrăcați prin Canterbury-ul de iarnă. La prânz ne încălzim în Muzeul Roman. După-amiază vizităm abația în lumina slabă a soarelui. Seara ne întoarcem prin centrul istoric, cu luminile aprinse.",
+            "en": "In the morning, we cycle bundled up through wintry Canterbury. At noon, we warm up at the Roman Museum. In the afternoon, we visit the abbey in the low sunlight. In the evening, we ride back through the historic old town with lights on."
+          },
+          "stops": [
+            {
+              "name": "Westgate Towers",
+              "tip_5lang": {
+                "de": "Winddichte Handschuhe tragen.",
+                "hu": "Viseljen szélálló kesztyűt.",
+                "ro": "Purtați mănuși rezistente la vânt.",
+                "en": "Wear windproof gloves."
+              }
+            },
+            {
+              "name": "Greyfriars Chapel",
+              "tip_5lang": {
+                "de": "Ruhiger, frostiger Ort.",
+                "hu": "Csendes, deres helyszín.",
+                "ro": "Loc liniștit și înghețat.",
+                "en": "Quiet, frosty location."
+              }
+            },
+            {
+              "name": "Canterbury Roman Museum",
+              "tip_5lang": {
+                "de": "Perfekte Aufwärmpause.",
+                "hu": "Tökéletes melegedő szünet.",
+                "ro": "Pauză perfectă de încălzire.",
+                "en": "Perfect warm-up break."
+              }
+            },
+            {
+              "name": "Canterbury Cathedral",
+              "tip_5lang": {
+                "de": "Sicher abstellen bei Kälte.",
+                "hu": "Zárja le biztonságosan a hidegben.",
+                "ro": "Parcați sigur pe timp de frig.",
+                "en": "Lock safely in the cold."
+              }
+            },
+            {
+              "name": "St. Augustine's Abbey",
+              "tip_5lang": {
+                "de": "Frühe Schließzeiten beachten.",
+                "hu": "Figyeljen a korai zárásra.",
+                "ro": "Atenție la închiderea devreme.",
+                "en": "Note the early closing times."
+              }
+            },
+            {
+              "name": "St. Martin's Church",
+              "tip_5lang": {
+                "de": "Weg kann vereist sein.",
+                "hu": "Az út jeges lehet.",
+                "ro": "Drumul poate fi înghețat.",
+                "en": "The path may be icy."
+              }
+            },
+            {
+              "name": "Great Stour Way",
+              "tip_5lang": {
+                "de": "Gute Beleuchtung erforderlich.",
+                "hu": "Jó világítás szükséges.",
+                "ro": "Lumină bună necesară.",
+                "en": "Good lighting required."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Handschuhe sind Pflicht.",
+              "Vorsicht vor überfrierender Nässe.",
+              "Akkus entladen sich schneller.",
+              "Frühzeitig zurückfahren."
+            ],
+            "hu": [
+              "A meleg kesztyű kötelező.",
+              "Vigyázzon a lefagyott utakra.",
+              "Az akkuk gyorsabban merülnek.",
+              "Induljon vissza időben."
+            ],
+            "ro": [
+              "Mănușile groase sunt obligatorii.",
+              "Atenție la porțiunile înghețate.",
+              "Bateriile se descarcă rapid.",
+              "Întoarceți-vă din timp."
+            ],
+            "en": [
+              "Warm gloves are mandatory.",
+              "Watch out for black ice.",
+              "Batteries drain faster in cold.",
+              "Head back before it gets dark."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1107,6 +1507,188 @@
           "Be aware of 'Clean Air Zone' signage, although private cars are not currently charged.",
           "Traffic can be heavy on the ring roads at peak times. Allow extra time for driving between clusters."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens parken wir am Dane John Car Park im Regen. Mittags besuchen wir das Römermuseum und die Kathedrale. Nachmittags fahren wir zum Longport Parkplatz für die Abtei. Abends genießen wir die Stadtbesichtigung ohne viel nass zu werden.",
+            "hu": "Reggel az esőben parkolunk a Dane John parkolóban. Délben meglátogatjuk a Római Múzeumot és a katedrálist. Délután a Longport parkolóba hajtunk az apátsághoz. Este vizesedés nélkül élvezzük a városnézést.",
+            "ro": "Dimineața parcăm la Dane John sub ploaie. La prânz vizităm Muzeul Roman și catedrala. După-amiază mergem la parcarea Longport pentru abație. Seara ne bucurăm de oraș fără să ne udăm prea tare.",
+            "en": "In the morning, we park at Dane John Car Park in the rain. At noon, we visit the Roman Museum and the Cathedral. In the afternoon, we drive to Longport Car Park for the Abbey. In the evening, we enjoy the city tour while staying mostly dry."
+          },
+          "stops": [
+            {
+              "name": "Dane John Car Park",
+              "tip_5lang": {
+                "de": "Regenschirm griffbereit halten.",
+                "hu": "Legyen kéznél az esernyő.",
+                "ro": "Țineți umbrela la îndemână.",
+                "en": "Keep umbrella within reach."
+              }
+            },
+            {
+              "name": "Dane John Gardens",
+              "tip_5lang": {
+                "de": "Kurzer Spaziergang im Regen.",
+                "hu": "Rövid séta az esőben.",
+                "ro": "Scurtă plimbare pe ploaie.",
+                "en": "Short walk in the rain."
+              }
+            },
+            {
+              "name": "Canterbury Roman Museum",
+              "tip_5lang": {
+                "de": "Ganz in der Nähe parken.",
+                "hu": "Parkoljon a közelben.",
+                "ro": "Parcați chiar în apropiere.",
+                "en": "Park very close by."
+              }
+            },
+            {
+              "name": "Canterbury Cathedral",
+              "tip_5lang": {
+                "de": "Eingang ist gut erreichbar.",
+                "hu": "A bejárat könnyen elérhető.",
+                "ro": "Intrarea este ușor accesibilă.",
+                "en": "The entrance is easy to reach."
+              }
+            },
+            {
+              "name": "Longport Car Park",
+              "tip_5lang": {
+                "de": "Nächster Halt zur Abtei.",
+                "hu": "Legközelebbi megálló az apátsághoz.",
+                "ro": "Cea mai apropiată oprire pt abație.",
+                "en": "Closest stop for the Abbey."
+              }
+            },
+            {
+              "name": "St. Augustine's Abbey & St. Martin's Church",
+              "tip_5lang": {
+                "de": "Wetterfeste Kleidung nutzen.",
+                "hu": "Használjon vízálló ruhát.",
+                "ro": "Folosiți haine impermeabile.",
+                "en": "Use weatherproof clothing."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie Park-and-Ride-Plätze.",
+              "Parkhäuser bieten Regenschutz.",
+              "Vorsicht bei Aquaplaning.",
+              "Vorausplanen bei starkem Regen."
+            ],
+            "hu": [
+              "Használja a P+R parkolókat.",
+              "A parkolóházak védenek az esőtől.",
+              "Vigyázzon a vízenfutásra.",
+              "Tervezzen előre nagy esőnél."
+            ],
+            "ro": [
+              "Folosiți parcările Park-and-Ride.",
+              "Parcările acoperite oferă protecție.",
+              "Atenție la acvaplanare.",
+              "Planificați în caz de ploaie grea."
+            ],
+            "en": [
+              "Use Park-and-Ride locations.",
+              "Multi-storey car parks stay dry.",
+              "Watch out for aquaplaning.",
+              "Plan ahead for heavy rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens erreichen wir das winterliche Canterbury mit dem Auto. Mittags erkunden wir die historischen Stätten und wärmen uns auf. Nachmittags besuchen wir die Abtei, bevor es dunkel wird. Abends fahren wir entspannt durch die beleuchteten Straßen ab.",
+            "hu": "Reggel autóval érkezünk a téli Canterbury-be. Délben felfedezzük a történelmi helyszíneket és felmelegedünk. Délután meglátogatjuk az apátságot, mielőtt besötétedik. Este a kivilágított utcákon át távozunk.",
+            "ro": "Dimineața ajungem cu mașina în Canterbury-ul hibernal. La prânz explorăm siturile istorice și ne încălzim. După-amiază vizităm abația înainte de lăsarea întunericului. Seara plecăm pe străzile luminate.",
+            "en": "In the morning, we arrive in wintry Canterbury by car. At noon, we explore the historic sites and warm up. In the afternoon, we visit the abbey before it gets dark. In the evening, we drive off through the illuminated streets."
+          },
+          "stops": [
+            {
+              "name": "Dane John Car Park",
+              "tip_5lang": {
+                "de": "Scheiben kratzen nicht vergessen.",
+                "hu": "Ne felejtsen el jégteleníteni.",
+                "ro": "Nu uitați să curățați geamurile.",
+                "en": "Don't forget to de-ice."
+              }
+            },
+            {
+              "name": "Dane John Gardens",
+              "tip_5lang": {
+                "de": "Frostige Aussicht vom Hügel.",
+                "hu": "Deres kilátás a dombról.",
+                "ro": "Vedere înghețată de pe deal.",
+                "en": "Frosty view from the mound."
+              }
+            },
+            {
+              "name": "Canterbury Roman Museum",
+              "tip_5lang": {
+                "de": "Angenehm beheiztes Museum.",
+                "hu": "Kellemesen fűtött múzeum.",
+                "ro": "Muzeu încălzit plăcut.",
+                "en": "Pleasantly heated museum."
+              }
+            },
+            {
+              "name": "Canterbury Cathedral",
+              "tip_5lang": {
+                "de": "Warmer Rückzugsort.",
+                "hu": "Meleg menedékhely.",
+                "ro": "Refugiu călduros.",
+                "en": "Warm sanctuary."
+              }
+            },
+            {
+              "name": "Longport Car Park",
+              "tip_5lang": {
+                "de": "Kurze Wege zur Abtei.",
+                "hu": "Rövid út az apátságig.",
+                "ro": "Drum scurt până la abație.",
+                "en": "Short walk to the Abbey."
+              }
+            },
+            {
+              "name": "St. Augustine's Abbey & St. Martin's Church",
+              "tip_5lang": {
+                "de": "Frühzeitiger Besuch ratsam.",
+                "hu": "Korai látogatás javasolt.",
+                "ro": "Vizită devreme recomandată.",
+                "en": "Early visit recommended."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind notwendig.",
+              "Frostschutzmittel im Wischwasser.",
+              "Lichter frühzeitig einschalten.",
+              "Parkplätze können glatt sein."
+            ],
+            "hu": [
+              "A téli gumi szükséges.",
+              "Legyen fagyálló a mosóban.",
+              "Kapcsolja fel hamar a lámpát.",
+              "A parkolók jegesek lehetnek."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt necesare.",
+              "Antigel în lichidul de parbriz.",
+              "Aprindeți luminile devreme.",
+              "Parcările pot fi alunecoase."
+            ],
+            "en": [
+              "Winter tires are necessary.",
+              "Anti-freeze in screen wash.",
+              "Turn on lights early.",
+              "Car parks can be icy."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1462,6 +2044,188 @@
           "Most buses are contactless, so you can just tap on with your card or phone.",
           "Buses can get very busy at peak times, especially during the school run."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens kommen wir am Busbahnhof im Regen an. Mittags verbringen wir viel Zeit in den Museen und der Kathedrale. Nachmittags nutzen wir den Bus für den Weg zur Abtei. Abends beenden wir die Tour an den Westgate Towers, gut geschützt im Transit.",
+            "hu": "Reggel az esőben érkezünk a buszpályaudvarra. Délben sok időt töltünk a múzeumokban és a katedrálisban. Délután busszal megyünk az apátsághoz. Este a Westgate Towersnél fejezzük be a túrát, védve a közlekedésben.",
+            "ro": "Dimineața sosim la autogară pe ploaie. La prânz petrecem timp în muzee și în catedrală. După-amiază luăm autobuzul spre abație. Seara terminăm turul la Turnurile Westgate, protejați de transport.",
+            "en": "In the morning, we arrive at the bus station in the rain. At noon, we spend plenty of time in museums and the Cathedral. In the afternoon, we take the bus to the Abbey. In the evening, we finish the tour at Westgate Towers, well sheltered in transit."
+          },
+          "stops": [
+            {
+              "name": "Canterbury Bus Station",
+              "tip_5lang": {
+                "de": "Überdachter Wartebereich.",
+                "hu": "Fedett várakozóhely.",
+                "ro": "Zonă de așteptare acoperită.",
+                "en": "Covered waiting area."
+              }
+            },
+            {
+              "name": "Beaney House & Roman Museum",
+              "tip_5lang": {
+                "de": "Bus hält direkt davor.",
+                "hu": "A busz közvetlen előtte áll meg.",
+                "ro": "Autobuzul oprește chiar în față.",
+                "en": "Bus stops right in front."
+              }
+            },
+            {
+              "name": "Canterbury Cathedral",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Halt.",
+                "hu": "Rövid séta a megállótól.",
+                "ro": "Scurtă plimbare de la stație.",
+                "en": "Short walk from the stop."
+              }
+            },
+            {
+              "name": "St. Augustine's Abbey",
+              "tip_5lang": {
+                "de": "Haltestelle in der Nähe suchen.",
+                "hu": "Keressen közeli megállót.",
+                "ro": "Căutați o stație în apropiere.",
+                "en": "Look for a nearby stop."
+              }
+            },
+            {
+              "name": "St. Martin's Church",
+              "tip_5lang": {
+                "de": "Schirm für den Weg nutzen.",
+                "hu": "Használjon ernyőt az úton.",
+                "ro": "Folosiți umbrela pe drum.",
+                "en": "Use umbrella for the walk."
+              }
+            },
+            {
+              "name": "Westgate Towers and Gardens",
+              "tip_5lang": {
+                "de": "Gute busverbindung zurück.",
+                "hu": "Jó buszkapcsolat visszafelé.",
+                "ro": "Conexiune bună de bus înapoi.",
+                "en": "Good bus connection back."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Bustickets online kaufen.",
+              "Busse sind im Regen oft voll.",
+              "Fahrpläne per App checken.",
+              "Die Stationen sind meist trocken."
+            ],
+            "hu": [
+              "Vegye meg a jegyet online.",
+              "Esőben a buszok tömöttek lehetnek.",
+              "Ellenőrizze a menetrendet appon.",
+              "A várók többnyire szárazak."
+            ],
+            "ro": [
+              "Cumpărați bilete online.",
+              "Autobuzele pot fi pline pe ploaie.",
+              "Verificați orarul pe aplicație.",
+              "Stațiile sunt de obicei uscate."
+            ],
+            "en": [
+              "Buy bus tickets online.",
+              "Buses can be crowded in rain.",
+              "Check timetables via app.",
+              "Bus stops are mostly dry."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens erreichen wir das kalte Canterbury mit dem Bus. Mittags wärmen wir uns in den Museen und der Kathedrale auf. Nachmittags besuchen wir die Abtei im winterlichen Licht. Abends fahren wir mit dem beleuchteten Bus sicher durch die frostige Stadt zurück.",
+            "hu": "Reggel busszal érkezünk a hideg Canterbury-be. Délben felmelegedünk a múzeumokban és a katedrálisban. Délután az apátságot látogatjuk meg téli fényben. Este a kivilágított busszal térünk vissza biztonságban a fagyos városon át.",
+            "ro": "Dimineața ajungem cu autobuzul în Canterbury-ul rece. La prânz ne încălzim în muzee și în catedrală. După-amiază vizităm abația în lumina iernii. Seara ne întoarcem în siguranță cu autobuzul prin orașul înghețat.",
+            "en": "In the morning, we arrive in cold Canterbury by bus. At noon, we warm up in museums and the Cathedral. In the afternoon, we visit the abbey in winter light. In the evening, we safely return by illuminated bus through the frosty city."
+          },
+          "stops": [
+            {
+              "name": "Canterbury Bus Station",
+              "tip_5lang": {
+                "de": "Windgeschützt warten.",
+                "hu": "Várjon szélvédett helyen.",
+                "ro": "Așteptați la ferit de vânt.",
+                "en": "Wait in a sheltered spot."
+              }
+            },
+            {
+              "name": "Beaney House & Roman Museum",
+              "tip_5lang": {
+                "de": "Warmes Interieur genießen.",
+                "hu": "Élvezze a meleg belsőt.",
+                "ro": "Bucurați-vă de interiorul cald.",
+                "en": "Enjoy the warm interior."
+              }
+            },
+            {
+              "name": "Canterbury Cathedral",
+              "tip_5lang": {
+                "de": "Viel Zeit drinnen einplanen.",
+                "hu": "Tervezzen sok benti időt.",
+                "ro": "Planificați mult timp înăuntru.",
+                "en": "Plan plenty of time inside."
+              }
+            },
+            {
+              "name": "St. Augustine's Abbey",
+              "tip_5lang": {
+                "de": "Buszeiten genau prüfen.",
+                "hu": "Ellenőrizze pontosan a buszt.",
+                "ro": "Verificați bine orarul busului.",
+                "en": "Check bus times carefully."
+              }
+            },
+            {
+              "name": "St. Martin's Church",
+              "tip_5lang": {
+                "de": "Weg kann rutschig sein.",
+                "hu": "Az út csúszós lehet.",
+                "ro": "Drumul poate fi alunecos.",
+                "en": "The path can be slippery."
+              }
+            },
+            {
+              "name": "Westgate Towers and Gardens",
+              "tip_5lang": {
+                "de": "Beleuchtung am Abend sehen.",
+                "hu": "Nézze meg az esti fényeket.",
+                "ro": "Vedeți luminile de seară.",
+                "en": "See the evening lights."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "In den Bussen ist es warm.",
+              "Verspätungen im Winter möglich.",
+              "Kontaktloses Zahlen bevorzugt.",
+              "App für Echtzeit-Infos nutzen."
+            ],
+            "hu": [
+              "A buszokon meleg van.",
+              "Télen előfordulhatnak késések.",
+              "A kártyás fizetés javasolt.",
+              "Használja az appot infókért."
+            ],
+            "ro": [
+              "În autobuze este cald.",
+              "Iarna pot apărea întârzieri.",
+              "Plata contactless este preferată.",
+              "Folosiți aplicația pt info."
+            ],
+            "en": [
+              "It is warm inside the buses.",
+              "Delays are possible in winter.",
+              "Contactless payment is preferred.",
+              "Use the app for real-time info."
+            ]
+          }
+        }
       }
     }
   }

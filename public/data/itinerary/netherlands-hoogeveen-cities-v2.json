@@ -352,6 +352,188 @@
           "Most shops close around 6 PM, so plan accordingly.",
           "An umbrella is always a good idea in the Netherlands, even on sunny days."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag in der Grote Kerk, die bei Regen einen idealen Unterschlupf bietet. Am Vormittag bietet das Museum De 5000 Roeden Schutz vor dem nasskalten Wetter Drenthes. Nach einem ausgiebigen Mittagessen im trockenen Stadtzentrum führt der Weg zur historischen Mühle, bevor Sie den Tag mit einem kurzen, wetterfesten Spaziergang im Zuiderpark ausklingen lassen.",
+            "hu": "Kezdje a napot a Grote Kerk falai között, amely tökéletes menedéket nyújt az eső elől. Délelőtt a Museum De 5000 Roeden belső kiállításai feledtetik a kinti szürkeséget. Egy hosszú, kényelmes ebéd után látogassa meg a malmot, majd fejezze be a napot egy frissítő, esernyős sétával a Zuiderpark ázott ösvényein.",
+            "ro": "Începeți ziua la Grote Kerk, care oferă un adăpost ideal împotriva ploii. Dimineața, interiorul Muzeului De 5000 Roeden vă protejează de vremea umedă din Drenthe. După un prânz prelungit în centrul orașului, vizitați moara istorică, iar la finalul zilei bucurați-vă de o scurtă plimbare cu umbrela prin Zuiderpark.",
+            "en": "Start your day inside the Grote Kerk, providing ideal shelter from the rain. In the morning, the Museum De 5000 Roeden keeps you dry while exploring local history. After a long lunch in the city center, head to the historical mill and finish your day with a brisk, rain-proof walk through the lush Zuiderpark."
+          },
+          "stops": [
+            {
+              "name": "Grote Kerk",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Kircheneingang als Regenschutz.",
+                "hu": "Használja a templom bejáratát eső elleni menedékként.",
+                "ro": "Folosiți intrarea bisericii ca adăpost împotriva ploii.",
+                "en": "Use the church entrance as a shelter from the rain."
+              }
+            },
+            {
+              "name": "Cascade",
+              "tip_5lang": {
+                "de": "Ein kurzes Foto genügt, der Platz ist bei Regen rutschig.",
+                "hu": "Csak egy gyors fotó; a tér esőben csúszós lehet.",
+                "ro": "O fotografie rapidă e de ajuns; piața e alunecoasă pe ploaie.",
+                "en": "A quick photo is enough; the square can be slippery in the rain."
+              }
+            },
+            {
+              "name": "Museum De 5000 Roeden",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um einen heftigen Schauer auszusitzen.",
+                "hu": "Tökéletes hely egy kiadós zápor átvészelésére.",
+                "ro": "Locul perfect pentru a aștepta trecerea unei averse.",
+                "en": "Perfect place to wait out a heavy downpour."
+              }
+            },
+            {
+              "name": "Lunch Break in the Center",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit Garderobe für nasse Mäntel.",
+                "hu": "Válasszon olyan helyet, ahol van ruhatár a vizes kabátoknak.",
+                "ro": "Alegeți un restaurant cu garderobă pentru hainele ude.",
+                "en": "Choose a spot with a cloakroom for wet coats."
+              }
+            },
+            {
+              "name": "Korenmolen de Zwaluw",
+              "tip_5lang": {
+                "de": "Vorsicht auf den nassen Holzstufen im Außenbereich.",
+                "hu": "Vigyázat a külső fanyeregeken, esőben csúsznak.",
+                "ro": "Atenție pe treptele de lemn exterioare, sunt alunecoase.",
+                "en": "Be careful on the exterior wooden steps; they get slippery."
+              }
+            },
+            {
+              "name": "Zuiderpark",
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den asphaltierten Hauptwegen.",
+                "hu": "Maradjon az aszfaltozott főutakon a sár elkerülése végett.",
+                "ro": "Rămâneți pe aleile principale asfaltate pentru a evita noroiul.",
+                "en": "Stick to the paved main paths to avoid the mud."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Regenschirm ist wegen des Windes in Drenthe Pflicht.",
+              "Die Grote Kerk ist ein guter Treffpunkt bei plötzlichen Schauern.",
+              "Tragen Sie wasserfeste Schuhe für den Parkbesuch.",
+              "Nutzen Sie die langen Museumszeiten bei starkem Niederschlag."
+            ],
+            "hu": [
+              "A drenthei szél miatt egy erős esernyő elengedhetetlen.",
+              "A Grote Kerk jó találkozási pont hirtelen zápor esetén.",
+              "Viseljen vízálló cipőt a parklátogatáshoz.",
+              "Használja ki a múzeumi időt heves esőzéskor."
+            ],
+            "ro": [
+              "O umbrelă rezistentă este obligatorie din cauza vântului din Drenthe.",
+              "Grote Kerk este un punct bun de întâlnire în caz de averse.",
+              "Purtați încălțăminte impermeabilă pentru vizita în parc.",
+              "Profitați de timpul petrecut în muzeu în timpul ploilor abundente."
+            ],
+            "en": [
+              "A sturdy umbrella is essential due to the Drenthe winds.",
+              "The Grote Kerk is a good meeting point during sudden showers.",
+              "Wear waterproof shoes for the park visit.",
+              "Make the most of museum time during heavy rainfall."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen beginnt im historischen Kern von Hoogeveen. Nach der Besichtigung der Kirche wärmen Sie sich im Museum auf, während draußen der Winterwind weht. Ein heißes Mittagessen gibt Kraft für den Besuch der Mühle im Nachmittagslicht. Da es früh dunkel wird, bietet der Zuiderpark in der Dämmerung eine ruhige, winterliche Atmosphäre.",
+            "hu": "Deres reggel fogadja Hoogeveen történelmi központjában. A templomlátogatás után melegedjen fel a múzeumban, miközben kint fúj a téli szél. Egy forró ebéd energiát ad a malom megtekintéséhez a délutáni fényekben. Mivel korán sötétedik, a Zuiderpark a szürkületben csendes, téli hangulatot áraszt.",
+            "ro": "O dimineață geroasă începe în centrul istoric din Hoogeveen. După vizitarea bisericii, încălziți-vă în muzeu în timp ce afară bate vântul de iarnă. Un prânz fierbinte vă dă energie pentru vizita la moară. Deoarece se întunecă devreme, Zuiderpark oferă o atmosferă de iarnă liniștită la amurg.",
+            "en": "A frosty morning begins in the historical heart of Hoogeveen. After visiting the church, warm up in the museum while the winter wind blows outside. A hot lunch provides energy for visiting the mill in the afternoon light. As it gets dark early, Zuiderpark offers a quiet, wintry atmosphere in the twilight."
+          },
+          "stops": [
+            {
+              "name": "Grote Kerk",
+              "tip_5lang": {
+                "de": "Die Kirche kann im Winter sehr kühl sein, behalten Sie den Mantel an.",
+                "hu": "A templom télen hűvös lehet, ne vegye le a kabátját.",
+                "ro": "Biserica poate fi răcoroasă iarna, păstrați haina pe dvs.",
+                "en": "The church can be chilly in winter; keep your coat on."
+              }
+            },
+            {
+              "name": "Cascade",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf dem Pflaster bei Frost.",
+                "hu": "Vigyázzon a jegesedésre a burkolaton fagy idején.",
+                "ro": "Atenție la poleiul de pe pavaj în timpul înghețului.",
+                "en": "Watch out for black ice on the pavement during frost."
+              }
+            },
+            {
+              "name": "Museum De 5000 Roeden",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe und genießen Sie die Wärme der Galerien.",
+                "hu": "Vegye igénybe a ruhatárat, és élvezze a galériák melegét.",
+                "ro": "Folosiți garderoba și bucurați-vă de căldura galeriilor.",
+                "en": "Use the cloakroom and enjoy the warmth of the galleries."
+              }
+            },
+            {
+              "name": "Lunch Break in the Center",
+              "tip_5lang": {
+                "de": "Fragen Sie nach einer heißen Tagessuppe zum Aufwärmen.",
+                "hu": "Kérjen egy forró napi levest a felmelegedéshez.",
+                "ro": "Cereți o supă caldă a zilei pentru a vă încălzi.",
+                "en": "Ask for a hot soup of the day to warm up."
+              }
+            },
+            {
+              "name": "Korenmolen de Zwaluw",
+              "tip_5lang": {
+                "de": "Die Mühle ist im Winter ungelüftet und kalt, planen Sie kurz.",
+                "hu": "A malom télen huzatos és hideg, tervezzen rövid látogatást.",
+                "ro": "Moara este rece și bate vântul iarna, planificați o vizită scurtă.",
+                "en": "The mill is drafty and cold in winter; plan a short stay."
+              }
+            },
+            {
+              "name": "Zuiderpark",
+              "tip_5lang": {
+                "de": "Der Park schließt bei Dunkelheit; verlassen Sie ihn bis 16:30 Uhr.",
+                "hu": "A park sötétedéskor kiürül; 16:30-ig hagyja el a területet.",
+                "ro": "Parcul se golește la lăsarea întunericului; plecați până la 16:30.",
+                "en": "The park empties at dark; aim to leave by 4:30 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermounterwäsche für die Außenstopps.",
+              "Heiße Schokolade ist in den Cafés am De Hoofdstraat ein Muss.",
+              "Die Sonne geht gegen 16:30 Uhr unter, planen Sie Ihr Licht.",
+              "Achten Sie auf die kürzeren Öffnungszeiten einiger Denkmäler."
+            ],
+            "hu": [
+              "Viseljen termo alsóneműt a szabadtéri megállókhoz.",
+              "A forró csokoládé kötelező a De Hoofdstraat kávézóiban.",
+              "A nap 16:30 körül nyugszik, figyeljen a fényviszonyokra.",
+              "Ügyeljen egyes műemlékek rövidebb téli nyitvatartására."
+            ],
+            "ro": [
+              "Purtați lenjerie termică pentru opririle în aer liber.",
+              "Ciocolata caldă este obligatorie în cafenelele de pe De Hoofdstraat.",
+              "Soarele apune în jur de 16:30, planificați-vă lumina.",
+              "Atenție la programul de iarnă mai scurt al unor monumente."
+            ],
+            "en": [
+              "Wear thermal layers for the outdoor stops.",
+              "Hot chocolate is a must in the cafes on De Hoofdstraat.",
+              "Sunset is around 4:30 PM; plan your daylight accordingly.",
+              "Check for shorter winter opening hours at some monuments."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -721,6 +903,206 @@
           "Use the well-developed cycle paths, but be mindful of pedestrians.",
           "Always lock your bike, even for short stops."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Rüsten Sie sich am Verleih mit Regenponchos aus. Die Fahrt zur Grote Kerk ist kurz, aber auf nassem Kopfsteinpflaster ist Vorsicht geboten. Mittags radeln Sie zum Van Gogh Huis, wo Sie sich im Trockenen aufwärmen können. Den Nachmittag verbringen Sie im Spaarbankbos, wo die Bäume natürlichen Schutz bieten, bevor Sie den Tag im Zuiderpark abschließen.",
+            "hu": "Szerelkezzen fel esőponchóval a kölcsönzőnél. Az út a Grote Kerkhez rövid, de a vizes macskakövön legyen óvatos. Délben tekerjen el a Van Gogh Huis-hoz, ahol fedett helyen melegedhet. A délutánt a Spaarbankbosban töltse, ahol a fák természetes védelmet nyújtanak, majd zárja a napot a Zuiderparkban.",
+            "ro": "Echipati-vă cu pelerine la centrul de închirieri. Drumul spre Grote Kerk este scurt, dar aveți grijă pe pavajul ud. La prânz mergeți spre Van Gogh Huis, unde vă puteți încălzi. Petreceți după-amiaza în Spaarbankbos, unde copacii oferă protecție naturală, înainte de a încheia ziua în Zuiderpark.",
+            "en": "Equip yourself with rain ponchos at the rental. The ride to Grote Kerk is short, but be careful on wet cobblestones. At noon, cycle to the Van Gogh Huis for an indoor break. Spend the afternoon in Spaarbankbos, where trees provide natural cover, before finishing your trip at Zuiderpark."
+          },
+          "stops": [
+            {
+              "name": "Bike Rental & Start",
+              "tip_5lang": {
+                "de": "Fragen Sie nach einer wasserdichten Sattelabdeckung.",
+                "hu": "Kérjen vízhatlan nyeregvédőt a kölcsönzőben.",
+                "ro": "Cereți o protecție impermeabilă pentru șa.",
+                "en": "Ask for a waterproof saddle cover at the rental."
+              }
+            },
+            {
+              "name": "Grote Kerk & Cascade",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad nah am Eingang, um schnell ins Trockene zu kommen.",
+                "hu": "Parkoljon közel a bejárathoz, hogy gyorsan fedett helyre érjen.",
+                "ro": "Parcați bicicleta aproape de intrare pentru a ajunge rapid la adăpost.",
+                "en": "Park your bike close to the entrance to get inside quickly."
+              }
+            },
+            {
+              "name": "Korenmolen de Zwaluw",
+              "tip_5lang": {
+                "de": "Vorsicht beim Absteigen, die Metallständer sind bei Nässe rutschig.",
+                "hu": "Vigyázzon a leszálláskor, a fém kerékpártámaszok csúsznak.",
+                "ro": "Atenție la descălecare, suporturile metalice sunt alunecoase.",
+                "en": "Be careful when dismounting; metal bike stands are slippery when wet."
+              }
+            },
+            {
+              "name": "Vincent van Gogh Huis",
+              "tip_5lang": {
+                "de": "Guter Ort, um Kleidung und Schuhe etwas zu trocknen.",
+                "hu": "Jó hely a ruhák és cipők némiképp kiszárítására.",
+                "ro": "Loc bun pentru a vă usca puțin hainele și încălțămintea.",
+                "en": "Good place to dry off your clothes and shoes a bit."
+              }
+            },
+            {
+              "name": "Lunch & De Tamboer",
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihr Radlicht für die trübe Sicht funktioniert.",
+                "hu": "Ellenőrizze, hogy működik-e a lámpa a szürke látási viszonyok közt.",
+                "ro": "Verificați dacă luminile bicicletei funcționează pentru vizibilitate redusă.",
+                "en": "Ensure your bike lights are working for the gloomy visibility."
+              }
+            },
+            {
+              "name": "Spaarbankbos",
+              "tip_5lang": {
+                "de": "Die Waldwege können schlammig sein, fahren Sie vorsichtig.",
+                "hu": "Az erdei utak sárosak lehetnek, tekerjen óvatosan.",
+                "ro": "Potecile din pădure pot fi noroioase, pedalați cu atenție.",
+                "en": "Forest paths can be muddy; cycle carefully."
+              }
+            },
+            {
+              "name": "Zuiderpark",
+              "tip_5lang": {
+                "de": "Nutzen Sie den befestigten Radweg quer durch den Park.",
+                "hu": "Használja a parkon átvezető burkolt kerékpárutat.",
+                "ro": "Folosiți pista de biciclete pavată care traversează parcul.",
+                "en": "Use the paved cycle path through the park."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie abruptes Bremsen auf nassem Laub.",
+              "Wasserdichte Handschuhe halten Ihre Hände beim Lenken warm.",
+              "Ein helles Regenponcho erhöht Ihre Sichtbarkeit im Verkehr.",
+              "Prüfen Sie vor dem Start den Reifendruck für besseren Grip."
+            ],
+            "hu": [
+              "Kerülje a hirtelen fékezést a vizes leveleken.",
+              "A vízálló kesztyű melegen tartja a kezét kormányzás közben.",
+              "Egy élénk színű esőponchó növeli a láthatóságát.",
+              "Indulás előtt ellenőrizze a guminyomást a jobb tapadásért."
+            ],
+            "ro": [
+              "Evitați frânarea bruscă pe frunzele ude.",
+              "Mănușile impermeabile vă țin mâinile calde în timp ce conduceți.",
+              "O pelerină de ploaie strălucitoare vă sporește vizibilitatea.",
+              "Verificați presiunea pneurilor înainte de plecare pentru aderență."
+            ],
+            "en": [
+              "Avoid sudden braking on wet leaves.",
+              "Waterproof gloves keep your hands warm while steering.",
+              "A bright rain poncho increases your visibility in traffic.",
+              "Check tire pressure before starting for better grip."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre Wintertour warm eingepackt. Die kalte Luft in Hoogeveen ist erfrischend auf dem Weg zum Van Gogh Huis. Mittags bietet De Tamboer eine gemütliche Pause. Da die Wege im Spaarbankbos bei Frost glatt sein können, radeln Sie vorsichtig im Nachmittagslicht, bevor Sie pünktlich zum Sonnenuntergang den Zuiderpark erreichen.",
+            "hu": "Indítsa téli túráját melegen felöltözve. A hideg levegő frissítő a Van Gogh Huis felé vezető úton. Délben a De Tamboer kínál barátságos pihenőt. Mivel a Spaarbankbos útjai fagyban csúszósak lehetnek, óvatosan tekerjen a délutáni fényben, mielőtt naplementére elérné a Zuiderparkot.",
+            "ro": "Începeți turul de iarnă bine îmbrăcați. Aerul rece este revigorant în drum spre Van Gogh Huis. La prânz, De Tamboer oferă o pauză primitoare. Deoarece potecile din Spaarbankbos pot fi alunecoase pe îngheț, pedalați cu grijă înainte de a ajunge la Zuiderpark la apus.",
+            "en": "Start your winter tour well-wrapped. The cold air is refreshing on the way to the Van Gogh Huis. At noon, De Tamboer offers a cozy break. As the paths in Spaarbankbos can be slippery in frost, cycle carefully in the afternoon light before reaching Zuiderpark by sunset."
+          },
+          "stops": [
+            {
+              "name": "Bike Rental & Start",
+              "tip_5lang": {
+                "de": "Fragen Sie nach einem Rad mit gutem Profil für winterliche Straßen.",
+                "hu": "Kérjen jó profilú gumikkal szerelt gépet a téli utakra.",
+                "ro": "Cereți o bicicletă cu pneuri bune pentru drumuri de iarnă.",
+                "en": "Ask for a bike with good tread for winter roads."
+              }
+            },
+            {
+              "name": "Grote Kerk & Cascade",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenem Wasser in der Nähe des Cascade-Denkmals.",
+                "hu": "Vigyázzon a megfagyott vízre a Cascade emlékmű közelében.",
+                "ro": "Atenție la apa înghețată în apropierea monumentului Cascade.",
+                "en": "Watch out for frozen water near the Cascade monument."
+              }
+            },
+            {
+              "name": "Korenmolen de Zwaluw",
+              "tip_5lang": {
+                "de": "Bewegen Sie Ihre Finger, um die Durchblutung beim Halten zu fördern.",
+                "hu": "Mozgassa az ujjait a keringés javítására megálláskor.",
+                "ro": "Mișcați-vă degetele pentru a stimula circulația în timpul opririi.",
+                "en": "Move your fingers to stimulate circulation during the stop."
+              }
+            },
+            {
+              "name": "Vincent van Gogh Huis",
+              "tip_5lang": {
+                "de": "Genießen Sie die Heizung im Innenraum, bevor Sie weiterfahren.",
+                "hu": "Élvezze a belső fűtést, mielőtt továbbtekerne.",
+                "ro": "Bucurați-vă de încălzirea interioară înainte de a pleca mai departe.",
+                "en": "Enjoy the indoor heating before cycling further."
+              }
+            },
+            {
+              "name": "Lunch & De Tamboer",
+              "tip_5lang": {
+                "de": "Suchen Sie einen Platz am Fenster, um die Wintersonne zu genießen.",
+                "hu": "Keressen ablak melletti helyet a téli napsütéshez.",
+                "ro": "Căutați un loc la fereastră pentru a vă bucura de soarele de iarnă.",
+                "en": "Look for a window seat to enjoy the winter sun."
+              }
+            },
+            {
+              "name": "Spaarbankbos",
+              "tip_5lang": {
+                "de": "Bei Glättegefahr lieber absteigen und kurze Strecken schieben.",
+                "hu": "Csúszásveszély esetén inkább szálljon le és tolja a gépet.",
+                "ro": "În caz de pericol de alunecare, mai bine coborâți și împingeți bicicleta.",
+                "en": "If there's a risk of slipping, it's better to dismount and push."
+              }
+            },
+            {
+              "name": "Zuiderpark",
+              "tip_5lang": {
+                "de": "Achten Sie auf tiefstehende Sonne, die blenden kann.",
+                "hu": "Vigyázzon az alacsonyan járó napra, ami elvakíthat.",
+                "ro": "Atenție la soarele jos care vă poate orbi.",
+                "en": "Watch out for the low sun which can be blinding."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stirnband oder dünne Mütze unter dem Helm tragen.",
+              "Radlichter müssen ab 16:00 Uhr einsatzbereit sein.",
+              "Vermeiden Sie Fahrten durch tiefen Schnee auf den Nebenwegen.",
+              "Trinken Sie auch bei Kälte genug, am besten warmen Tee."
+            ],
+            "hu": [
+              "Viseljen fejpántot vagy vékony sapkát a sisak alatt.",
+              "A lámpáknak 16:00-tól készenlétben kell lenniük.",
+              "Kerülje a mély havat a mellékutakon.",
+              "Igyon eleget hidegben is, lehetőleg meleg teát."
+            ],
+            "ro": [
+              "Purtați o bentiță sau o căciulă subțire sub cască.",
+              "Luminile trebuie să fie gata de utilizare de la ora 16:00.",
+              "Evitați să pedalați prin zăpadă adâncă pe drumurile secundare.",
+              "Beți suficiente lichide și la frig, de preferat ceai cald."
+            ],
+            "en": [
+              "Wear a headband or thin hat under your helmet.",
+              "Bike lights must be ready for use from 4:00 PM.",
+              "Avoid cycling through deep snow on side paths.",
+              "Drink enough even in the cold, preferably warm tea."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1097,6 +1479,206 @@
           "Plan your drives between clusters outside of peak hours to avoid traffic.",
           "A GPS is helpful for finding the best parking spots."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden Sie Hoogeveen bequem und trocken. Starten Sie im Spaarbankbos, wo Sie direkt am Waldrand parken können. Das Van Gogh Huis und die Mühle bieten gute Parkmöglichkeiten in der Nähe. Den Nachmittag verbringen Sie im Stadtzentrum und im Museum, wobei Sie die kurzen Wege zwischen Parkplatz und Eingang bei Regen schätzen werden.",
+            "hu": "Autóval kényelmesen és szárazon fedezheti fel Hoogeveent. Kezdje a Spaarbankbosnál, ahol közvetlenül az erdő szélén parkolhat. A Van Gogh Huis és a malom jó parkolási lehetőséget kínál a közelben. A délutánt a városközpontban és a múzeumban töltse; értékelni fogja a rövid távokat a parkoló és a bejárat között.",
+            "ro": "Cu mașina explorați Hoogeveen confortabil și uscați. Începeți la Spaarbankbos, unde puteți parca direct la marginea pădurii. Van Gogh Huis și moara oferă locuri de parcare bune în apropiere. Petreceți după-amiaza în centru și la muzeu, profitând de distanțele scurte până la intrări.",
+            "en": "Explore Hoogeveen comfortably and dry by car. Start at Spaarbankbos, parking right by the forest edge. The Van Gogh Huis and the mill offer good nearby parking. Spend the afternoon in the city center and the museum, appreciating the short walks between your car and the entrances in the rain."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Spaarbankbos",
+              "tip_5lang": {
+                "de": "Nutzen Sie den befestigten Parkplatz am P-Spaarbankbos.",
+                "hu": "Használja a P-Spaarbankbos burkolt parkolóját.",
+                "ro": "Folosiți parcarea pavată de la P-Spaarbankbos.",
+                "en": "Use the paved parking lot at P-Spaarbankbos."
+              }
+            },
+            {
+              "name": "Cluster 2: Mill & Art Quarter",
+              "tip_5lang": {
+                "de": "Parken Sie direkt an der Mühle, um den Regenweg zu minimieren.",
+                "hu": "Parkoljon közvetlenül a malomnál a gyalogút minimalizálásához.",
+                "ro": "Parcați direct la moară pentru a minimiza drumul prin ploaie.",
+                "en": "Park directly at the mill to minimize walking in the rain."
+              }
+            },
+            {
+              "name": "Vincent van Gogh Huis",
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Parken unter Bäumen bei Sturmgefahr.",
+                "hu": "Kerülje a fák alatti parkolást viharveszély esetén.",
+                "ro": "Evitați parcarea sub copaci în caz de pericol de furtună.",
+                "en": "Avoid parking under trees if there's a storm risk."
+              }
+            },
+            {
+              "name": "Cluster 3: City Center",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus am Tamboer für einen trockenen Ausstieg.",
+                "hu": "Használja a Tamboer parkolóházat a száraz kiszálláshoz.",
+                "ro": "Folosiți parcarea etajată de la Tamboer pentru a coborî la adăpost.",
+                "en": "Use the Tamboer parking garage for a dry exit from the car."
+              }
+            },
+            {
+              "name": "Grote Kerk & Cascade",
+              "tip_5lang": {
+                "de": "Kurzparkzone direkt vor der Kirche nutzen.",
+                "hu": "Használja a templom előtti rövid idejű parkolózónát.",
+                "ro": "Folosiți zona de parcare pe termen scurt din fața bisericii.",
+                "en": "Use the short-term parking zone right in front of the church."
+              }
+            },
+            {
+              "name": "Museum De 5000 Roeden",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist bei Regen oft matschig, festen Untergrund suchen.",
+                "hu": "A parkoló esőben sáros lehet, keressen szilárd talajt.",
+                "ro": "Parcarea poate fi noroioasă, căutați un teren solid.",
+                "en": "The parking lot can be muddy; look for firm ground."
+              }
+            },
+            {
+              "name": "Final Stop: Zuiderpark",
+              "tip_5lang": {
+                "de": "Parken Sie am Haupteingang, um bei Schauern schnell im Auto zu sein.",
+                "hu": "Parkoljon a főbejáratnál, hogy zápor esetén gyorsan beérjen.",
+                "ro": "Parcați la intrarea principală pentru a ajunge rapid la mașină.",
+                "en": "Park at the main entrance to reach your car quickly during showers."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Scheibenwischer vor der Abfahrt.",
+              "Halten Sie Kleingeld oder eine Park-App bereit.",
+              "Vermeiden Sie tiefe Pfützen in ländlichen Gebieten.",
+              "Lassen Sie keine Wertsachen sichtbar im Auto liegen."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze az ablaktörlőket.",
+              "Készítsen be aprópénzt vagy parkolási appot.",
+              "Kerülje a mély tócsákat a vidéki utakon.",
+              "Ne hagyjon értéket látható helyen az autóban."
+            ],
+            "ro": [
+              "Verificați ștergătoarele înainte de plecare.",
+              "Pregătiți mărunțiș sau o aplicație de parcare.",
+              "Evitați bălțile adânci pe drumurile rurale.",
+              "Nu lăsați obiecte de valoare la vedere în mașină."
+            ],
+            "en": [
+              "Check your windshield wipers before departing.",
+              "Have change or a parking app ready.",
+              "Avoid deep puddles in rural areas.",
+              "Don't leave valuables visible in the car."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die winterliche Landschaft Drenthes aus dem warmen Auto. Nach einem morgendlichen Stopp im Spaarbankbos führt die Fahrt durch die verschneiten Straßen zum Van Gogh Huis. Mittags kehren Sie im Zentrum ein, wo Sie bequem in der Nähe parken können. Die kurzen Tage stören weniger, da Sie schnell zwischen den Sehenswürdigkeiten wechseln können.",
+            "hu": "Élvezze Drenthe téli tájait a meleg autóból. A Spaarbankbosnál tett reggeli megálló után az út havas utcákon át vezet a Van Gogh Huis-hoz. Délben térjen be a központba, ahol kényelmesen parkolhat a közelben. A rövid nappalok kevésbé zavaróak, mivel gyorsan válthat a látnivalók között.",
+            "ro": "Bucurați-vă de peisajul de iarnă din Drenthe din mașina încălzită. După oprirea de dimineață la Spaarbankbos, drumul continuă pe străzi înzăpezite spre Van Gogh Huis. La prânz mergeți în centru, unde puteți parca aproape. Zilele scurte sunt mai puțin deranjante, deoarece vă deplasați rapid.",
+            "en": "Enjoy the wintry Drenthe landscape from your warm car. After a morning stop at Spaarbankbos, the drive leads through snowy streets to the Van Gogh Huis. At noon, head to the center where you can park nearby. Shorter days are less of an issue as you can quickly move between sites."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Spaarbankbos",
+              "tip_5lang": {
+                "de": "Vorsicht vor nicht geräumten Parkplätzen bei Neuschnee.",
+                "hu": "Vigyázzon a le nem takarított parkolókra friss hóban.",
+                "ro": "Atenție la parcările necurățate în caz de zăpadă proaspătă.",
+                "en": "Watch out for unplowed parking spaces in case of fresh snow."
+              }
+            },
+            {
+              "name": "Cluster 2: Mill & Art Quarter",
+              "tip_5lang": {
+                "de": "Die Zufahrt zur Mühle kann bei Frost glatt sein.",
+                "hu": "A malomhoz vezető út fagyban csúszós lehet.",
+                "ro": "Accesul la moară poate fi alunecos în caz de îngheț.",
+                "en": "The access road to the mill can be slippery in frost."
+              }
+            },
+            {
+              "name": "Vincent van Gogh Huis",
+              "tip_5lang": {
+                "de": "Motor nicht unnötig im Stand laufen lassen.",
+                "hu": "Ne járassa feleslegesen a motort álló helyzetben.",
+                "ro": "Nu lăsați motorul pornit inutil în staționare.",
+                "en": "Don't leave the engine idling unnecessarily."
+              }
+            },
+            {
+              "name": "Cluster 3: City Center",
+              "tip_5lang": {
+                "de": "Parkhäuser sind im Winter frostfrei und angenehmer.",
+                "hu": "A parkolóházak télen fagymentesek és kellemesebbek.",
+                "ro": "Parcările etajate sunt ferite de îngheț și mai plăcute iarna.",
+                "en": "Parking garages are frost-free and more pleasant in winter."
+              }
+            },
+            {
+              "name": "Grote Kerk & Cascade",
+              "tip_5lang": {
+                "de": "Achten Sie auf Fußgänger auf den oft glatten Gehwegen.",
+                "hu": "Ügyeljen a gyalogosokra a gyakran csúszós járdákon.",
+                "ro": "Atenție la pietoni pe trotuarele care sunt adesea alunecoase.",
+                "en": "Watch out for pedestrians on the often slippery sidewalks."
+              }
+            },
+            {
+              "name": "Museum De 5000 Roeden",
+              "tip_5lang": {
+                "de": "Parken Sie so, dass Sie bei Glätte leicht wieder ausfahren können.",
+                "hu": "Úgy parkoljon, hogy csúszós úton is könnyen ki tudjon állni.",
+                "ro": "Parcați astfel încât să puteți ieși ușor în caz de polei.",
+                "en": "Park so you can easily pull out even if it's slippery."
+              }
+            },
+            {
+              "name": "Final Stop: Zuiderpark",
+              "tip_5lang": {
+                "de": "Schalten Sie das Licht beim Verlassen des Wagens ein.",
+                "hu": "Kapcsolja fel a világítást az autó elhagyásakor.",
+                "ro": "Aprindeți luminile la părăsirea mașinii.",
+                "en": "Turn on your lights when leaving the car if it's dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Frostschutz in der Scheibenwaschanlage.",
+              "Ein Eiskratzer sollte griffbereit sein.",
+              "Fahren Sie defensiv auf den schmalen Landstraßen.",
+              "Planen Sie mehr Zeit für das Ein- und Ausparken ein."
+            ],
+            "hu": [
+              "Ellenőrizze a fagyállót a szélvédőmosóban.",
+              "A jégkaparó legyen kéznél.",
+              "Vezessen defenzíven a szűk vidéki utakon.",
+              "Tervezzen több időt a parkolási manőverekre."
+            ],
+            "ro": [
+              "Verificați antigelul din lichidul de parbriz.",
+              "Răzuitoarea de gheață trebuie să fie la îndemână.",
+              "Conduceți defensiv pe drumurile rurale înguste.",
+              "Planificați mai mult timp pentru manevrele de parcare."
+            ],
+            "en": [
+              "Check the antifreeze in your washer fluid.",
+              "Keep an ice scraper handy.",
+              "Drive defensively on narrow rural roads.",
+              "Allow more time for parking maneuvers."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1449,6 +2031,188 @@
           "Check the bus schedule in advance, especially for late afternoon trips.",
           "Have some cash on hand, as not all buses may accept card payments."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie das dichte Busnetz von Hoogeveen, um trocken durch die Stadt zu kommen. Starten Sie im Zentrum und nutzen Sie die Bushaltestellen als Wartebereiche. Das Museum und das Stadtzentrum sind gut angebunden. Am Nachmittag bringt Sie der Bus zur Mühle und zum Zuiderpark, wobei Sie die Regenschauer bequem aus dem Fenster beobachten können.",
+            "hu": "Használja Hoogeveen sűrű buszhálózatát, hogy szárazon járja be a várost. Kezdjen a központban, és használja a buszvárókat menedékként. A múzeum és a városközpont jól megközelíthető. Délután a busz elviszi a malomhoz és a Zuiderparkhoz; kényelmesen figyelheti az esőt az ablakból.",
+            "ro": "Folosiți rețeaua de autobuze din Hoogeveen pentru a rămâne uscați. Începeți în centru și folosiți stațiile ca adăpost. Muzeul și centrul sunt bine conectate. După-amiaza, autobuzul vă duce la moară și în Zuiderpark; puteți privi ploaia de la fereastră.",
+            "en": "Use Hoogeveen's bus network to stay dry while moving through town. Start in the center and use bus shelters as waiting areas. The museum and city center are well-connected. In the afternoon, the bus takes you to the mill and Zuiderpark; watch the rain comfortably from the window."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Center",
+              "tip_5lang": {
+                "de": "Die Haltestelle am Zentrum ist überdacht.",
+                "hu": "A központi megálló fedett.",
+                "ro": "Stația centrală este acoperită.",
+                "en": "The central stop is covered."
+              }
+            },
+            {
+              "name": "Cascade & De Tamboer",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen den Bushaltestellen und Sehenswürdigkeiten.",
+                "hu": "Rövid sétatávok a buszmegállók és a látnivalók közt.",
+                "ro": "Distanțe scurte între stațiile de autobuz și obiective.",
+                "en": "Short walks between bus stops and sights."
+              }
+            },
+            {
+              "name": "Cluster 2: Museum & History",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Echtzeit-App, um Wartezeiten im Freien zu minimieren.",
+                "hu": "Ellenőrizze az appot, hogy minimalizálja a kinti várakozást.",
+                "ro": "Verificați aplicația în timp real pentru a minimiza așteptarea afară.",
+                "en": "Check the real-time app to minimize waiting outdoors."
+              }
+            },
+            {
+              "name": "Lunch near the Museum",
+              "tip_5lang": {
+                "de": "Guter Zeitpunkt, um den Busfahrplan für den Nachmittag zu checken.",
+                "hu": "Jó alkalom a délutáni buszmenetrend ellenőrzésére.",
+                "ro": "Moment bun pentru a verifica programul autobuzelor de după-amiază.",
+                "en": "Good time to check the afternoon bus schedule."
+              }
+            },
+            {
+              "name": "Cluster 3: Mill & Park",
+              "tip_5lang": {
+                "de": "Die Haltestelle an der Mühle bietet wenig Schutz, Schirm bereithalten.",
+                "hu": "A malom megállója alig védett, legyen kéznél esernyő.",
+                "ro": "Stația de la moară oferă puțin adăpost, țineți umbrela la îndemână.",
+                "en": "The stop at the mill offers little cover; keep your umbrella ready."
+              }
+            },
+            {
+              "name": "Zuiderpark",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Bus für die Rückfahrt direkt vom Parkrand.",
+                "hu": "Használja a buszt a visszautazáshoz közvetlenül a park széléről.",
+                "ro": "Folosiți autobuzul pentru întoarcere direct de la marginea parcului.",
+                "en": "Use the bus for the return trip directly from the park edge."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die '9292' App ist ideal für Echtzeit-Infos.",
+              "Kaufen Sie ein Tagesticket direkt beim Fahrer oder per App.",
+              "Achten Sie auf nasse Böden in den Bussen (Rutschgefahr).",
+              "Busse fahren im Regen oft pünktlicher als Züge."
+            ],
+            "hu": [
+              "A '9292' app ideális a valós idejű infókhoz.",
+              "Vegyen napijegyet a sofőrnél vagy az appban.",
+              "Vigyázzon a buszok vizes padlójára (csúszásveszély).",
+              "Az autóbuszok esőben gyakran pontosabbak a vonatnál."
+            ],
+            "ro": [
+              "Aplicația '9292' este ideală pentru info în timp real.",
+              "Cumpărați un bilet de o zi de la șofer sau prin aplicație.",
+              "Atenție la podelele ude din autobuze (pericol de alunecare).",
+              "Autobuzele sunt adesea mai punctuale decât trenurile pe ploaie."
+            ],
+            "en": [
+              "The '9292' app is ideal for real-time info.",
+              "Buy a day ticket from the driver or via the app.",
+              "Watch out for wet floors in buses (slipping hazard).",
+              "Buses are often more punctual than trains during rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Reisen Sie warm und sicher mit dem Bus durch das winterliche Hoogeveen. Die beheizten Fahrzeuge bieten eine willkommene Pause von der Kälte draußen. Starten Sie im Zentrum und genießen Sie die Aussicht auf die geschmückten Straßen. Am Nachmittag bringt Sie der Transit bequem zum Museum und zum Park, bevor die Dunkelheit hereinbricht.",
+            "hu": "Utazzon melegen és biztonságban busszal a téli Hoogeveenben. A fűtött járművek kellemes pihenőt nyújtanak a kinti hideg után. Kezdjen a központban, és élvezze a díszített utcák látványát. Délután a tömegközlekedés kényelmesen elviszi a múzeumba és a parkba, mielőtt leszállna az éj.",
+            "ro": "Călătoriți cald și sigur cu autobuzul prin Hoogeveen-ul de iarnă. Vehiculele încălzite oferă o pauză binevenită de la frig. Începeți în centru și bucurați-vă de străzile decorate. După-amiaza, transportul în comun vă duce la muzeu și în parc înainte de lăsarea întunericului.",
+            "en": "Travel warmly and safely by bus through wintry Hoogeveen. Heated vehicles offer a welcome break from the cold outside. Start in the center and enjoy the views of the decorated streets. In the afternoon, transit takes you comfortably to the museum and the park before darkness falls."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Center",
+              "tip_5lang": {
+                "de": "Warten Sie in den Geschäften in der Nähe, wenn der Bus Verspätung hat.",
+                "hu": "Várjon a közeli üzletekben, ha késik a busz.",
+                "ro": "Așteptați în magazinele din apropiere dacă autobuzul întârzie.",
+                "en": "Wait in nearby shops if the bus is delayed."
+              }
+            },
+            {
+              "name": "Cascade & De Tamboer",
+              "tip_5lang": {
+                "de": "Behalten Sie Ihre Handschuhe an den Haltestellen an.",
+                "hu": "Tartsa magán a kesztyűt a megállókban is.",
+                "ro": "Păstrați-vă mănușile în stații.",
+                "en": "Keep your gloves on at the bus stops."
+              }
+            },
+            {
+              "name": "Cluster 2: Museum & History",
+              "tip_5lang": {
+                "de": "Busse sind im Winter oft die zuverlässigste Wahl bei Schnee.",
+                "hu": "A busz télen gyakran a legmegbízhatóbb választás hóban.",
+                "ro": "Autobuzul este adesea cea mai sigură alegere pe timp de zăpadă.",
+                "en": "Buses are often the most reliable choice in winter snow."
+              }
+            },
+            {
+              "name": "Lunch near the Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Wärme des Restaurants bis kurz vor Abfahrt.",
+                "hu": "Élvezze az étterem melegét az indulás előtti percekig.",
+                "ro": "Bucurați-vă de căldura restaurantului până înainte de plecare.",
+                "en": "Enjoy the restaurant's warmth until just before departure."
+              }
+            },
+            {
+              "name": "Cluster 3: Mill & Park",
+              "tip_5lang": {
+                "de": "Achten Sie auf gestrichene Fahrten bei extremem Glatteis.",
+                "hu": "Figyelje az esetleges járatkimaradásokat extrém jegesedéskor.",
+                "ro": "Urmăriți eventualele anulări în caz de polei extrem.",
+                "en": "Watch for potential cancellations in case of extreme ice."
+              }
+            },
+            {
+              "name": "Zuiderpark",
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihr Handy-Akku für das E-Ticket reicht.",
+                "hu": "Ügyeljen, hogy az akku bírja az e-jegyet a hidegben is.",
+                "ro": "Asigurați-vă că bateria telefonului rezistă pentru biletul electronic.",
+                "en": "Ensure your phone battery lasts for the e-ticket in the cold."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse sind im Winter angenehm geheizt.",
+              "Prüfen Sie den Winterfahrplan (geänderte Zeiten möglich).",
+              "Tragen Sie Reflektoren, wenn Sie im Dunkeln zur Haltestelle gehen.",
+              "Haben Sie immer eine Powerbank für Ihr Smartphone dabei."
+            ],
+            "hu": [
+              "A buszok télen kellemesen fűtöttek.",
+              "Ellenőrizze a téli menetrendet (módosulhat).",
+              "Viseljen fényvisszaverőt, ha sötétben megy a megállóba.",
+              "Mindig legyen önnél powerbank a telefonhoz."
+            ],
+            "ro": [
+              "Autobuzele sunt încălzite plăcut iarna.",
+              "Verificați programul de iarnă (pot apărea modificări).",
+              "Purtați elemente reflectorizante dacă mergeți la stație pe întuneric.",
+              "Aveți întotdeauna un powerbank pentru telefon."
+            ],
+            "en": [
+              "Buses are pleasantly heated in winter.",
+              "Check the winter schedule (changes possible).",
+              "Wear reflectors when walking to the stop in the dark.",
+              "Always carry a powerbank for your smartphone."
+            ]
+          }
+        }
       }
     }
   }

@@ -343,6 +343,206 @@
           "Bring a reusable water bottle, especially for the walk in the park.",
           "A camera is a must to capture the beauty of the palace and the surrounding nature."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt am historischen Bahnhof, wo das Vordach Schutz vor dem baltischen Regen bietet. Die alte Brennerei wirkt im Nebel besonders atmosphärisch.\n\nMittags verbringen wir viel Zeit im prächtigen Schloss Cesvaine, das bei Regen eine mystische Aura ausstrahlt. Das Museum bietet trockene Zuflucht.\n\nNachmittags besichtigen wir die Kirche und schlendern kurz durch den Park. Das Teehaus im Park ist der ideale Ort für eine Pause im Trockenen.\n\nAbends reflektiert das nasse Pflaster am Kriegerdenkmal die spärlichen Lichter der Stadt, bevor wir die Tour gemütlich beenden.",
+            "hu": "A nap a történelmi vasútállomáson indul, ahol az előtető védelmet nyújt a balti eső ellen. A régi lepárló az esőben különösen hangulatos.\n\nDélben sok időt töltünk a pompás cesvaini kastélyban, amely borús időben misztikus aurát áraszt. A múzeum tökéletes menedéket nyújt a víz elől.\n\nDélután megtekintjük a templomot és teszünk egy rövid sétát a parkban. A parki teaház ideális hely egy száraz pihenőre.\n\nEste a vizes aszfalton megcsillannak a város fényei a háborús emlékműnél, mielőtt kényelmesen befejeznénk a sétát.",
+            "ro": "Ziua începe la gara istorică, unde copertina oferă adăpost împotriva ploii baltice. Vechea distilerie pare deosebit de atmosferică în ceață.\n\nLa prânz petrecem mult timp în magnificul Castel Cesvaine, care emană o aură mistică pe ploaie. Muzeul oferă un refugiu uscat ideal.\n\nDupă-amiaza vizităm biserica și facem o scurtă plimbare prin parc. Casa de ceai din parc este locul perfect pentru o pauză ferită de umezeală.\n\nSeara, pavajul umed de la monumentul eroilor reflectă luminile orașului, oferind un final melancolic și liniștit turului nostru.",
+            "en": "The day starts at the historic railway station, where the canopy provides shelter from the Baltic rain. The old distillery looks atmospheric in the mist.\n\nAt noon, we spend plenty of time in the magnificent Cesvaine Palace, which radiates a mystic aura in the rain. The museum is a perfect dry refuge.\n\nIn the afternoon, we visit the church and take a short stroll through the park. The tea house in the park is the ideal spot for a dry break.\n\nIn the evening, the wet pavement at the war memorial reflects the city lights before we comfortably conclude our walking tour."
+          },
+          "stops": [
+            {
+              "name": "Cesvaine Railway Station",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Wartehalle als Unterstand.",
+                "hu": "Használja az állomás várótermét menedékként.",
+                "ro": "Folosiți sala de așteptare ca adăpost.",
+                "en": "Use the station waiting hall as a shelter."
+              }
+            },
+            {
+              "name": "Old Distillery",
+              "tip_5lang": {
+                "de": "Die Backsteinwände bieten guten Windschutz.",
+                "hu": "A téglafalak jó szélfogót biztosítanak.",
+                "ro": "Zidurile de cărămidă oferă protecție contra vântului.",
+                "en": "The brick walls provide good wind protection."
+              }
+            },
+            {
+              "name": "Cesvaine Palace",
+              "tip_5lang": {
+                "de": "Idealer Ort für ausgiebige Innenbesichtigungen.",
+                "hu": "Ideális helyszín a hosszú benti nézelődéshez.",
+                "ro": "Loc ideal pentru vizite interioare prelungite.",
+                "en": "Ideal location for extensive indoor sightseeing."
+              }
+            },
+            {
+              "name": "Local History Museum",
+              "tip_5lang": {
+                "de": "Trockener Ort, um die lokale Kultur kennenzulernen.",
+                "hu": "Száraz hely a helyi kultúra megismeréséhez.",
+                "ro": "Loc uscat pentru a descoperi cultura locală.",
+                "en": "A dry place to learn about local culture."
+              }
+            },
+            {
+              "name": "Cesvaine Lutheran Church",
+              "tip_5lang": {
+                "de": "Vorsicht auf den nassen Außentreppen.",
+                "hu": "Vigyázat a vizes külső lépcsőkkel.",
+                "ro": "Atenție la scările exterioare umede.",
+                "en": "Be careful on the wet outdoor steps."
+              }
+            },
+            {
+              "name": "Palace Park & Tea House",
+              "tip_5lang": {
+                "de": "Das Teehaus ist bei Regen ein Muss.",
+                "hu": "A teaház kötelező megálló esőben.",
+                "ro": "Casa de ceai este obligatorie pe timp de ploaie.",
+                "en": "The tea house is a must-visit during rain."
+              }
+            },
+            {
+              "name": "War Memorial",
+              "tip_5lang": {
+                "de": "Kurzer Stopp unter dem Schirm reicht aus.",
+                "hu": "Egy rövid megálló az ernyő alatt elég.",
+                "ro": "O oprire scurtă sub umbrelă este suficientă.",
+                "en": "A short stop under the umbrella is enough."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Regenschirm ist wegen des Windes wichtig.",
+              "Wasserdichtes Schuhwerk für die Parkwege empfohlen.",
+              "Das Schloss bietet das beste Indoor-Programm.",
+              "Das Teehaus ist der einzige überdachte Punkt im Park."
+            ],
+            "hu": [
+              "A szél miatt erős esernyő javasolt.",
+              "Vízálló cipő szükséges a parki utakhoz.",
+              "A kastély kínálja a legjobb fedett programot.",
+              "A teaház az egyetlen fedett pont a parkban."
+            ],
+            "ro": [
+              "O umbrelă rezistentă este necesară din cauza vântului.",
+              "Încălțăminte impermeabilă recomandată pentru poteci.",
+              "Castelul oferă cel mai bun program de interior.",
+              "Casa de ceai este singurul punct acoperit din parc."
+            ],
+            "en": [
+              "A sturdy umbrella is important due to the wind.",
+              "Waterproof footwear recommended for park paths.",
+              "The palace offers the best indoor program.",
+              "The tea house is the only covered point in the park."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Tour beginnt am frostigen Bahnhof. Die schneebedeckten Gleise und die historische Architektur versprühen einen besonderen winterlichen Charme.\n\nMittags wärmen wir uns im Inneren des Schlosses Cesvaine auf. Die massiven Mauern und die historischen Exponate lassen die Kälte draußen vergessen.\n\nNachmittags genießen wir die Stille in der lutherischen Kirche und den Anblick des verschneiten Schlossparks. Das Licht wird bereits gegen 15:30 Uhr weich.\n\nAm Abend, wenn es früh dunkel wird, wirkt das Kriegerdenkmal im Schnee besonders andächtig. Ein kurzer, aber erfrischender Winterspaziergang.",
+            "hu": "A túra a fagyos vasútállomáson kezdődik. A hóval borított sínek és a történelmi építészet különleges téli bájt áraszt.\n\nDélben a cesvaini kastély belsejében melegszünk fel. A vaskos falak és a történelmi kiállítási tárgyak feledtetik a kinti hideget.\n\nDélután élvezzük a csendet az evangélikus templomban és a havas kastélypark látványát. A fények már 15:30 körül kezdenek elhalványulni.\n\nEste, a korai sötétedéskor, a hóval fedett emlékmű különösen áhítatosnak tűnik. Rövid, de frissítő téli séta.",
+            "ro": "Turul începe la gara înghețată. Șinele acoperite de zăpadă și arhitectura istorică emană un farmec hibernal deosebit.\n\nLa prânz ne încălzim în interiorul Castelului Cesvaine. Zidurile masive și exponatele istorice ne fac să uităm de frigul de afară.\n\nDupă-amiaza ne bucurăm de liniștea din biserica luterană și de vederea parcului înzăpezit. Lumina devine difuză încă de la ora 15:30.\n\nSeara, când se întunecă devreme, monumentul eroilor în zăpadă pare deosebit de solemn. O plimbare de iarnă scurtă, dar revigorantă.",
+            "en": "The tour begins at the frosty railway station. The snow-covered tracks and historic architecture exude a special winter charm.\n\nAt noon, we warm up inside Cesvaine Palace. The massive walls and historical exhibits make you forget the cold outside.\n\nIn the afternoon, we enjoy the silence in the Lutheran church and the view of the snow-covered palace park. The light starts to fade by 3:30 PM.\n\nIn the evening, as darkness falls early, the war memorial in the snow appears particularly solemn. A short but refreshing winter walk."
+          },
+          "stops": [
+            {
+              "name": "Cesvaine Railway Station",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Bahnsteige.",
+                "hu": "Vigyázzon a jeges peronokon.",
+                "ro": "Atenție la peroanele înghețate.",
+                "en": "Watch out for icy platforms."
+              }
+            },
+            {
+              "name": "Old Distillery",
+              "tip_5lang": {
+                "de": "Schönes Fotomotiv mit Eiszapfen.",
+                "hu": "Szép fotótéma a jégcsapokkal.",
+                "ro": "Subiect foto frumos cu țurțuri.",
+                "en": "Nice photo subject with icicles."
+              }
+            },
+            {
+              "name": "Cesvaine Palace",
+              "tip_5lang": {
+                "de": "Innen ist es angenehm temperiert.",
+                "hu": "Bent kellemes a hőmérséklet.",
+                "ro": "În interior este o temperatură plăcută.",
+                "en": "It is pleasantly warm inside."
+              }
+            },
+            {
+              "name": "Local History Museum",
+              "tip_5lang": {
+                "de": "Perfekter Ort zum Aufwärmen.",
+                "hu": "Tökéletes hely a felmelegedéshez.",
+                "ro": "Loc perfect pentru a vă încălzi.",
+                "en": "Perfect place to warm up."
+              }
+            },
+            {
+              "name": "Cesvaine Lutheran Church",
+              "tip_5lang": {
+                "de": "Prüfen Sie die winterlichen Öffnungszeiten.",
+                "hu": "Ellenőrizze a téli nyitvatartást.",
+                "ro": "Verificați programul de iarnă.",
+                "en": "Check the winter opening hours."
+              }
+            },
+            {
+              "name": "Palace Park & Tea House",
+              "tip_5lang": {
+                "de": "Warmer Tee ist hier überlebenswichtig.",
+                "hu": "A forró tea itt életmentő lehet.",
+                "ro": "Ceaiul cald este esențial aici.",
+                "en": "Warm tea is essential here."
+              }
+            },
+            {
+              "name": "War Memorial",
+              "tip_5lang": {
+                "de": "Warme Kleidung für den freien Platz nötig.",
+                "hu": "Meleg ruha kell a nyitott térre.",
+                "ro": "Haine groase necesare pentru spațiul deschis.",
+                "en": "Warm clothing needed for the open space."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Dezember gegen 15:45 Uhr unter.",
+              "Wollsocken und Handschuhe sind unverzichtbar.",
+              "Die Wege im Park können rutschig sein.",
+              "Planen Sie mehr Zeit für die Innenräume ein."
+            ],
+            "hu": [
+              "A nap decemberben 15:45 körül nyugszik.",
+              "A gyapjúzokni és a kesztyű elengedhetetlen.",
+              "A parki utak csúszósak lehetnek.",
+              "Több időt szánjon a belső terekre."
+            ],
+            "ro": [
+              "Soarele apune în decembrie în jurul orei 15:45.",
+              "Șosetele de lână și mănușile sunt indispensabile.",
+              "Potecile din parc pot fi alunecoase.",
+              "Planificați mai mult timp pentru interioare."
+            ],
+            "en": [
+              "The sun sets around 3:45 PM in December.",
+              "Woolen socks and gloves are indispensable.",
+              "The park paths can be slippery.",
+              "Plan more time for the indoor sections."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -664,6 +864,206 @@
           "Bring a good lock to secure your bike during sightseeing.",
           "Plan extra time for photo stops, the scenery is worth it."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein nasser Start am Bahnhof. Das Radfahren durch Cesvaine erfordert heute Vorsicht, aber die leeren Straßen haben ihren eigenen Reiz.\n\nMittags stellen wir die Räder am Schloss ab. Die lange Pause im Inneren ist perfekt, um die Kleidung etwas zu trocknen.\n\nNachmittags radeln wir vorsichtig durch den Park. Die nassen Blätter auf den Wegen können tückisch sein. Das Teehaus bietet eine willkommene Pause.\n\nAm Abend beenden wir die Tour zügig. Der Regen hat nachgelassen, aber die Kühle des Baltikums ist deutlich spürbar.",
+            "hu": "Vizes kezdés az állomáson. A kerékpározás ma óvatosságot igényel, de az üres utcáknak megvan a maga varázsa.\n\nDélben a kastélynál hagyjuk a bringákat. A hosszú benti pihenő tökéletes arra, hogy a ruházatunk kicsit megszáradjon.\n\nDélután óvatosan tekerünk át a parkon. A vizes levelek az utakon csalókák lehetnek. A teaház örömteli pihenőt nyújt.\n\nEste gyorsan befejezzük a túrát. Az eső alábbhagyott, de a Baltikum hűvöse tisztán érezhető.",
+            "ro": "Un început umed la gară. Mersul cu bicicleta prin Cesvaine necesită prudență astăzi, dar străzile goale au farmecul lor.\n\nLa prânz lăsăm bicicletele la castel. Pauza lungă în interior este perfectă pentru a ne usca puțin hainele.\n\nDupă-amiaza pedalăm cu grijă prin parc. Frunzele ude de pe poteci pot fi înșelătoare. Casa de ceai oferă o pauză binevenită.\n\nSeara încheiem turul rapid. Ploaia s-a domolit, dar răcoarea Balticii este resimțită din plin.",
+            "en": "A wet start at the station. Cycling through Cesvaine requires caution today, but the empty streets have their own charm.\n\nAt noon, we park the bikes at the palace. The long break inside is perfect for drying our clothes a bit.\n\nIn the afternoon, we cycle carefully through the park. The wet leaves on the paths can be tricky. The tea house provides a welcome break.\n\nIn the evening, we finish the tour quickly. The rain has eased, but the Baltic chill is clearly felt."
+          },
+          "stops": [
+            {
+              "name": "Cesvaine Railway Station",
+              "tip_5lang": {
+                "de": "Suchen Sie einen überdachten Fahrradabstellplatz.",
+                "hu": "Keressen fedett biciklitárolót.",
+                "ro": "Căutați un rastel de biciclete acoperit.",
+                "en": "Look for a covered bike parking spot."
+              }
+            },
+            {
+              "name": "Old Distillery",
+              "tip_5lang": {
+                "de": "Vorsicht beim Bremsen auf nassem Kopfsteinpflaster.",
+                "hu": "Vigyázat a fékezéssel a vizes macskakövön.",
+                "ro": "Atenție la frânare pe pavajul umed.",
+                "en": "Be careful when braking on wet cobblestones."
+              }
+            },
+            {
+              "name": "War Memorial",
+              "tip_5lang": {
+                "de": "Kurzer Stopp, halten Sie die Griffe trocken.",
+                "hu": "Rövid megálló, tartsa szárazon a markolatot.",
+                "ro": "Oprire scurtă, păstrați mânerele uscate.",
+                "en": "Short stop, keep the grips dry."
+              }
+            },
+            {
+              "name": "Cesvaine Palace",
+              "tip_5lang": {
+                "de": "Sicherer Abstellplatz in Schlossnähe suchen.",
+                "hu": "Keressen biztonságos tárolót a kastély közelében.",
+                "ro": "Căutați un loc sigur de parcare lângă castel.",
+                "en": "Find a secure parking spot near the palace."
+              }
+            },
+            {
+              "name": "Local History Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp zum Aufwärmen.",
+                "hu": "Használja ki a megállót a melegedésre.",
+                "ro": "Folosiți oprirea pentru a vă încălzi.",
+                "en": "Use the stop to warm up."
+              }
+            },
+            {
+              "name": "Cesvaine Lutheran Church",
+              "tip_5lang": {
+                "de": "Vermeiden Sie Pfützen beim Parken.",
+                "hu": "Kerülje a tócsákat parkoláskor.",
+                "ro": "Evitați bălțile la parcare.",
+                "en": "Avoid puddles when parking."
+              }
+            },
+            {
+              "name": "Bike Ride through the Palace Park",
+              "tip_5lang": {
+                "de": "Vorsicht: Rutschgefahr durch nasses Laub.",
+                "hu": "Vigyázat: csúszásveszély a vizes levelek miatt.",
+                "ro": "Atenție: pericol de derapare pe frunze ude.",
+                "en": "Caution: risk of slipping due to wet leaves."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind bei diesem Wetter ein Muss.",
+              "Vermeiden Sie scharfes Bremsen auf dem Pflaster.",
+              "Wasserdichte Handschuhe halten die Hände warm.",
+              "Beleuchtung auch tagsüber einschalten."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen ilyen időben.",
+              "Kerülje az erős fékezést a kövezett úton.",
+              "A vízálló kesztyű melegen tartja a kezet.",
+              "Nappal is kapcsolja be a világítást."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt obligatorii pe această vreme.",
+              "Evitați frânarea bruscă pe pavaj.",
+              "Mănușile impermeabile mențin mâinile calde.",
+              "Aprindeți luminile și în timpul zilei."
+            ],
+            "en": [
+              "Mudguards are a must in this weather.",
+              "Avoid sharp braking on the pavement.",
+              "Waterproof gloves keep your hands warm.",
+              "Keep lights on even during the day."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radeln in Lettland. Wir starten am Bahnhof, die Luft ist klirrend kalt, aber die Sicht ist klar.\n\nMittags freuen wir uns auf die Wärme im Schloss. Die Fahrräder lassen sich im Schnee gut sichern, solange die Schlösser nicht einfrieren.\n\nNachmittags führt der Weg durch den stillen, weißen Schlosspark. Es ist eine magische Fahrt, solange man in Bewegung bleibt.\n\nAbends erreichen wir das Ziel bei Dämmerung. Die Lichter des Schlosses leuchten hinter uns im Schnee.",
+            "hu": "Téli bringázás Lettországban. Az állomásról indulunk, a levegő metszően hideg, de a kilátás tiszta.\n\nDélben örülünk a kastély melegének. A bicikliket jól lehet rögzíteni a hóban, amíg a zárak meg nem fagynak.\n\nDélután az utunk a csendes, fehér kastélyparkon át vezet. Varázslatos tekerés, amíg mozgásban maradunk.\n\nEste szürkületben érjük el a célt. A kastély fényei mögöttünk ragyognak a hóban.",
+            "ro": "Mersul cu bicicleta iarna în Letonia. Pornim de la gară, aerul este tăios de rece, dar vizibilitatea este clară.\n\nLa prânz ne bucurăm de căldura din castel. Bicicletele pot fi asigurate bine în zăpadă, cât timp nu îngheață antifurturile.\n\nDupă-amiaza, drumul trece prin parcul castelului, alb și tăcut. Este o plimbare magică, atât timp cât ești în mișcare.\n\nSeara ajungem la destinație la amurg. Luminile castelului strălucesc în spatele nostru în zăpadă.",
+            "en": "Winter cycling in Latvia. We start at the station; the air is crisp and cold, but the visibility is clear.\n\nAt noon, we look forward to the warmth of the palace. The bikes can be secured in the snow as long as the locks don't freeze.\n\nIn the afternoon, our path leads through the silent, white palace park. It's a magical ride as long as you keep moving.\n\nIn the evening, we reach the destination at dusk. The lights of the palace shine behind us in the snow."
+          },
+          "stops": [
+            {
+              "name": "Cesvaine Railway Station",
+              "tip_5lang": {
+                "de": "Kette vor der Fahrt gut ölen.",
+                "hu": "Olajozza meg jól a láncot indulás előtt.",
+                "ro": "Ungeți bine lanțul înainte de drum.",
+                "en": "Oil the chain well before the ride."
+              }
+            },
+            {
+              "name": "Old Distillery",
+              "tip_5lang": {
+                "de": "Vorsicht vor verstecktem Glatteis.",
+                "hu": "Vigyázzon a rejtett jégfoltokkal.",
+                "ro": "Atenție la gheața ascunsă.",
+                "en": "Watch out for black ice."
+              }
+            },
+            {
+              "name": "War Memorial",
+              "tip_5lang": {
+                "de": "Metallteile können extrem kalt sein.",
+                "hu": "A fém részek rendkívül hidegek lehetnek.",
+                "ro": "Părțile metalice pot fi extrem de reci.",
+                "en": "Metal parts can be extremely cold."
+              }
+            },
+            {
+              "name": "Cesvaine Palace",
+              "tip_5lang": {
+                "de": "Fahrradschloss vor Einfrieren schützen.",
+                "hu": "Védje a biciklizárat a fagyástól.",
+                "ro": "Protejați antifurtul împotriva înghețului.",
+                "en": "Protect the bike lock from freezing."
+              }
+            },
+            {
+              "name": "Local History Museum",
+              "tip_5lang": {
+                "de": "Kurze Aufwärmpause einlegen.",
+                "hu": "Tartson egy rövid melegedő szünetet.",
+                "ro": "Faceți o scurtă pauză de încălzire.",
+                "en": "Take a short warm-up break."
+              }
+            },
+            {
+              "name": "Cesvaine Lutheran Church",
+              "tip_5lang": {
+                "de": "Beleuchtung prüfen, es wird früh dunkel.",
+                "hu": "Ellenőrizze a lámpákat, korán sötétedik.",
+                "ro": "Verificați luminile, se întunecă devreme.",
+                "en": "Check the lights; it gets dark early."
+              }
+            },
+            {
+              "name": "Bike Ride through the Palace Park",
+              "tip_5lang": {
+                "de": "Nur auf geräumten Wegen fahren.",
+                "hu": "Csak a letakarított utakon haladjon.",
+                "ro": "Circulați doar pe potecile deszăpezite.",
+                "en": "Only ride on cleared paths."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Spikereifen sind in Lettland im Winter ideal.",
+              "Tragen Sie mehrere Schichten Kleidung (Zwiebelprinzip).",
+              "Akku-Lampen bei Kälte schneller leer.",
+              "Warme Getränke in der Thermoskanne mitnehmen."
+            ],
+            "hu": [
+              "A szöges gumi ideális télen Lettországban.",
+              "Öltözzön rétegesen (hagyma-elv).",
+              "Az akkus lámpák gyorsabban merülnek hidegben.",
+              "Vigyen magával meleg italt termoszházban."
+            ],
+            "ro": [
+              "Anvelopele cu ținte sunt ideale iarna în Letonia.",
+              "Purtați mai multe straturi de haine (principiul cepei).",
+              "Bateriile luminilor se descarcă mai repede la frig.",
+              "Luați băuturi calde într-un termos."
+            ],
+            "en": [
+              "Studded tires are ideal for winter in Latvia.",
+              "Wear multiple layers of clothing (onion principle).",
+              "Battery lights drain faster in the cold.",
+              "Carry warm drinks in a thermos flask."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -991,6 +1391,206 @@
           "Do not leave valuables visible in the car.",
           "The cluster-walking method saves time and the hassle of finding parking at each individual sight."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Bequemer Start am Bahnhofsparkplatz. Die Scheibenwischer arbeiten im Takt, während wir die industrielle Architektur bewundern.\n\nMittags parken wir direkt am Schloss. Der kurze Weg zum Eingang minimiert den Kontakt mit dem lettischen Regen.\n\nNachmittags besuchen wir die Kirche und werfen einen Blick in den Park. Das Auto bietet einen warmen und trockenen Rückzugsort zwischen den Stopps.\n\nAbends genießen wir die beleuchtete Stadt durch die regennassen Scheiben, bevor wir die Rückreise antreten.",
+            "hu": "Kényelmes kezdés az állomás parkolójában. Az ablaktörlők ütemesen járnak, miközben az ipari építészetet csodáljuk.\n\nDélben közvetlenül a kastélynál parkolunk. A rövid út a bejáratig minimálisra csökkenti az érintkezést a balti esővel.\n\nDélután meglátogatjuk a templomot és vetünk egy pillantást a parkra. Az autó meleg és száraz menedéket nyújt a megállók között.\n\nEste a kivilágított várost az esőtől ázott ablakokon keresztül csodáljuk meg, mielőtt elindulnánk haza.",
+            "ro": "Început confortabil în parcarea gării. Ștergătoarele lucrează în ritm în timp ce admirăm arhitectura industrială.\n\nLa prânz parcăm chiar lângă castel. Drumul scurt până la intrare minimizează contactul cu ploaia letonă.\n\nDupă-amiaza vizităm biserica și aruncăm o privire în parc. Mașina oferă un refugiu cald și uscat între opriri.\n\nSeara admirăm orașul iluminat prin geamurile udate de ploaie, înainte de a porni pe drumul de întoarcere.",
+            "en": "A comfortable start at the station parking lot. The wipers work in rhythm while we admire the industrial architecture.\n\nAt noon, we park right by the palace. The short walk to the entrance minimizes contact with the Latvian rain.\n\nIn the afternoon, we visit the church and take a look at the park. The car provides a warm and dry retreat between stops.\n\nIn the evening, we enjoy the illuminated city through the rain-streaked windows before starting our journey back."
+          },
+          "stops": [
+            {
+              "name": "Parking at the Railway Station",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Bahnhofsgebäude.",
+                "hu": "Parkoljon közel az állomás épületéhez.",
+                "ro": "Parcați aproape de clădirea gării.",
+                "en": "Park close to the station building."
+              }
+            },
+            {
+              "name": "Cesvaine Railway Station",
+              "tip_5lang": {
+                "de": "Schirm griffbereit halten für den Ausstieg.",
+                "hu": "Legyen kéznél az esernyő kiszálláskor.",
+                "ro": "Țineți umbrela la îndemână pentru coborâre.",
+                "en": "Keep an umbrella handy for getting out."
+              }
+            },
+            {
+              "name": "Old Distillery",
+              "tip_5lang": {
+                "de": "Parkmöglichkeit direkt an der Straße.",
+                "hu": "Parkolási lehetőség közvetlenül az út mentén.",
+                "ro": "Posibilitate de parcare chiar lângă drum.",
+                "en": "Parking available right by the road."
+              }
+            },
+            {
+              "name": "Parking at the Palace",
+              "tip_5lang": {
+                "de": "Oft Pfützenbildung auf dem Parkplatz.",
+                "hu": "Gyakoriak a tócsák a parkolóban.",
+                "ro": "Adesea se formează bălți în parcare.",
+                "en": "Puddles often form in the parking lot."
+              }
+            },
+            {
+              "name": "Cesvaine Palace & Local History Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Haupteingang für kurzen Weg.",
+                "hu": "Használja a főbejáratot a rövid útért.",
+                "ro": "Folosiți intrarea principală pentru un drum scurt.",
+                "en": "Use the main entrance for a short walk."
+              }
+            },
+            {
+              "name": "Cesvaine Lutheran Church",
+              "tip_5lang": {
+                "de": "Parkplatz direkt vor der Kirche.",
+                "hu": "Parkoló közvetlenül a templom előtt.",
+                "ro": "Parcare chiar în fața bisericii.",
+                "en": "Parking lot right in front of the church."
+              }
+            },
+            {
+              "name": "Palace Park & Tea House",
+              "tip_5lang": {
+                "de": "Nur kurzer Spaziergang zum Teehaus.",
+                "hu": "Csak rövid séta a teaházig.",
+                "ro": "Doar o scurtă plimbare până la casa de ceai.",
+                "en": "Only a short walk to the tea house."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf den Landstraßen.",
+              "Lassen Sie nasse Schirme im Kofferraum.",
+              "Die Heizung hilft gegen beschlagene Scheiben.",
+              "Prüfen Sie den Reifendruck bei Wetterumschwung."
+            ],
+            "hu": [
+              "Vigyázzon a felfutó vízre az országutakon.",
+              "A vizes ernyőket hagyja a csomagtartóban.",
+              "A fűtés segít a párásodó ablakok ellen.",
+              "Időjárás-változáskor ellenőrizze a guminyomást."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumurile județene.",
+              "Lăsați umbrelele ude în portbagaj.",
+              "Încălzirea ajută contra aburirii geamurilor.",
+              "Verificați presiunea pneurilor la schimbarea vremii."
+            ],
+            "en": [
+              "Watch out for aquaplaning on country roads.",
+              "Leave wet umbrellas in the trunk.",
+              "Use the heater to prevent fogged windows.",
+              "Check tire pressure during weather changes."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Start in Cesvaine. Das Auto muss eventuell erst freigekratzt werden, aber dann beginnt die gemütliche Fahrt durch die Winterlandschaft.\n\nMittags erreichen wir das Schloss. Der Schnee glitzert in der Mittagssonne und das Schloss wirkt wie aus einem Märchen.\n\nNachmittags besuchen wir die Kirche. Die Straßen in Lettland sind meist gut geräumt, erfordern aber dennoch volle Konzentration.\n\nAbends machen wir uns auf den Rückweg. Die Sitzheizung ist nach dem Spaziergang im Schlosspark ein wahrer Segen.",
+            "hu": "Fagyos kezdés Cesvainéban. Lehet, hogy előbb le kell kaparni a jeget, de aztán indulhat a kényelmes utazás a téli tájban.\n\nDélben érjük el a kastélyt. A hó csillog a déli napsütésben, és az épület úgy fest, mint egy mesében.\n\nDélután meglátogatjuk a templomot. A lett utak általában jól takarítottak, de teljes koncentrációt igényelnek.\n\nEste elindulunk vissza. Az ülésfűtés igazi áldás a kastélyparkban tett séta után.",
+            "ro": "Un început înghețat în Cesvaine. S-ar putea să fie nevoie de răzuit gheața, dar apoi începe drumul confortabil prin peisajul de iarnă.\n\nLa prânz ajungem la castel. Zăpada sclipeste în soarele amiezii, iar castelul pare desprins dintr-un basm.\n\nDupă-amiaza vizităm biserica. Drumurile din Letonia sunt de obicei bine deszăpezite, dar necesită concentrare maximă.\n\nSeara pornim la drumul de întoarcere. Încălzirea în scaune este o adevărată binecuvântare după plimbarea prin parc.",
+            "en": "A frosty start in Cesvaine. You might need to scrape the ice first, but then the cozy drive through the winter landscape begins.\n\nAt noon, we reach the palace. The snow glistens in the midday sun, and the building looks like something from a fairy tale.\n\nIn the afternoon, we visit the church. Latvian roads are usually well-cleared but still require full concentration.\n\nIn the evening, we head back. The seat heating is a true blessing after the walk in the palace park."
+          },
+          "stops": [
+            {
+              "name": "Parking at the Railway Station",
+              "tip_5lang": {
+                "de": "Vorsicht vor Schneehaufen beim Parken.",
+                "hu": "Vigyázzon a hóbuckákkal parkoláskor.",
+                "ro": "Atenție la mormanele de zăpadă la parcare.",
+                "en": "Watch out for snow piles when parking."
+              }
+            },
+            {
+              "name": "Cesvaine Railway Station",
+              "tip_5lang": {
+                "de": "Motor nicht unnötig lange laufen lassen.",
+                "hu": "Ne járassa feleslegesen hosszan a motort.",
+                "ro": "Nu lăsați motorul pornit inutil de mult.",
+                "en": "Do not let the engine idle unnecessarily long."
+              }
+            },
+            {
+              "name": "Old Distillery",
+              "tip_5lang": {
+                "de": "Kurzer Stopp, Scheiben sauber halten.",
+                "hu": "Rövid megálló, tartsa tisztán az ablakokat.",
+                "ro": "Oprire scurtă, păstrați geamurile curate.",
+                "en": "Short stop, keep windows clean."
+              }
+            },
+            {
+              "name": "Parking at the Palace",
+              "tip_5lang": {
+                "de": "Parkplatz kann glatt sein.",
+                "hu": "A parkoló csúszós lehet.",
+                "ro": "Parcarea poate fi alunecoasă.",
+                "en": "The parking lot can be slippery."
+              }
+            },
+            {
+              "name": "Cesvaine Palace & Local History Museum",
+              "tip_5lang": {
+                "de": "Besuch im warmen Museum genießen.",
+                "hu": "Élvezze a látogatást a meleg múzeumban.",
+                "ro": "Bucurați-vă de vizita în muzeul călduros.",
+                "en": "Enjoy the visit in the warm museum."
+              }
+            },
+            {
+              "name": "Cesvaine Lutheran Church",
+              "tip_5lang": {
+                "de": "Vorsicht beim Ein- und Aussteigen auf Eis.",
+                "hu": "Vigyázat a ki- és beszálláskor a jégen.",
+                "ro": "Atenție la urcare și coborâre pe gheață.",
+                "en": "Be careful when getting in and out on ice."
+              }
+            },
+            {
+              "name": "Palace Park & Tea House",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Parkeingang.",
+                "hu": "Parkoljon közel a park bejáratához.",
+                "ro": "Parcați aproape de intrarea în parc.",
+                "en": "Park close to the park entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in Lettland gesetzlich vorgeschrieben.",
+              "Führen Sie einen Eiskratzer und Besen mit.",
+              "Vermeiden Sie hastige Lenkbewegungen.",
+              "Achten Sie auf Wildwechsel in der Dämmerung."
+            ],
+            "hu": [
+              "A téli gumi Lettországban törvényileg kötelező.",
+              "Legyen Önnél jégkaparó és kefe.",
+              "Kerülje a hirtelen kormánymozdulatokat.",
+              "Figyeljen a vadakra a szürkületben."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii prin lege în Letonia.",
+              "Aveți la rând o racletă și o perie.",
+              "Evitați mișcările bruște de volan.",
+              "Atenție la animalele sălbatice în amurg."
+            ],
+            "en": [
+              "Winter tires are legally required in Latvia.",
+              "Carry an ice scraper and a snow brush.",
+              "Avoid sudden steering movements.",
+              "Watch out for wildlife during dusk."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1294,6 +1894,188 @@
           "Most sights in the center are very easily accessible on foot.",
           "Plan for buffer times for potential bus delays."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt am Busstopp beim Bahnhof. Das Warten im Regen ist dank des Unterstands erträglich, während wir auf den lokalen Bus warten.\n\nMittags erreichen wir das Zentrum. Der Bus bringt uns fast bis vor die Tür des Schlosses, was uns trocken durch den Tag bringt.\n\nNachmittags besichtigen wir die Kirche und kehren zum Busstopp im Zentrum zurück. Das öffentliche Verkehrsnetz ist in dieser Region verlässlich.\n\nAbends bringt uns der Bus zurück zum Ausgangspunkt. Die beschlagenen Scheiben lassen die Stadtlichter draußen verschwimmen.",
+            "hu": "A nap az állomás melletti buszmegállóban indul. Az esőben való várakozás elviselhető a fedett várónak köszönhetően.\n\nDélben elérjük a központot. A busz majdnem a kastély kapujáig visz, így szárazon megússzuk a napot.\n\nDélután megnézzük a templomot, majd visszatérünk a központi megállóba. A tömegközlekedés megbízható ebben a régióban.\n\nEste a busz visszavisz a kiindulópontra. A párás ablakok mögött elmosódnak a város fényei.",
+            "ro": "Ziua începe la stația de autobuz de lângă gară. Așteptarea în ploaie este suportabilă datorită copertinei stației.\n\nLa prânz ajungem în centru. Autobuzul ne lasă aproape de ușa castelului, ajutându-ne să rămânem uscați.\n\nDupă-amiaza vizităm biserica și revenim la stația din centru. Rețeaua de transport public este fiabilă în această regiune.\n\nSeara, autobuzul ne duce înapoi la punctul de plecare. Geamurile aburite fac luminile orașului să pară difuze.",
+            "en": "The day begins at the bus stop by the station. Waiting in the rain is bearable thanks to the shelter while we wait for the local bus.\n\nAt noon, we reach the center. The bus brings us almost to the palace door, keeping us dry through the day.\n\nIn the afternoon, we visit the church and return to the central bus stop. The public transport network is reliable in this region.\n\nIn the evening, the bus takes us back to the starting point. The fogged windows blur the city lights outside."
+          },
+          "stops": [
+            {
+              "name": "Bus stop at the Railway Station",
+              "tip_5lang": {
+                "de": "Unterstand schützt vor Wind und Regen.",
+                "hu": "A váró véd a széltől és az esőtől.",
+                "ro": "Adăpostul protejează de vânt și ploaie.",
+                "en": "The shelter protects from wind and rain."
+              }
+            },
+            {
+              "name": "Old Distillery",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Bus, Schirm nutzen.",
+                "hu": "Rövid séta a busztól, használjon ernyőt.",
+                "ro": "Drum scurt de la autobuz, folosiți umbrela.",
+                "en": "Short walk from the bus, use an umbrella."
+              }
+            },
+            {
+              "name": "Bus stop Center/Palace",
+              "tip_5lang": {
+                "de": "Zentraler Punkt, oft frequentiert.",
+                "hu": "Központi pont, gyakran érintik a járatok.",
+                "ro": "Punct central, frecventat des de autobuze.",
+                "en": "Central point, frequently served by buses."
+              }
+            },
+            {
+              "name": "Cesvaine Palace & Local History Museum",
+              "tip_5lang": {
+                "de": "Lange Aufenthaltszeit im Trockenen genießen.",
+                "hu": "Élvezze a hosszú benti tartózkodást.",
+                "ro": "Bucurați-vă de șederea lungă la interior.",
+                "en": "Enjoy the long stay in the dry interior."
+              }
+            },
+            {
+              "name": "Cesvaine Lutheran Church",
+              "tip_5lang": {
+                "de": "Wartezeit in der Kirche überbrücken.",
+                "hu": "A várakozási időt töltse a templomban.",
+                "ro": "Petreceți timpul de așteptare în biserică.",
+                "en": "Spend waiting time inside the church."
+              }
+            },
+            {
+              "name": "Palace Park",
+              "tip_5lang": {
+                "de": "Kurzer Abstecher, dann zurück zum Bus.",
+                "hu": "Rövid kitérő, majd vissza a buszhoz.",
+                "ro": "Scurtă abatere, apoi înapoi la autobuz.",
+                "en": "Short detour, then back to the bus."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Fahrplan bei starkem Regen vorab.",
+              "Halten Sie das Ticket griffbereit und trocken.",
+              "Einige Busse haben Heizung, was sehr angenehm ist.",
+              "Achten Sie auf Pfützen beim Einsteigen."
+            ],
+            "hu": [
+              "Erős esőben előre ellenőrizze a menetrendet.",
+              "Tartsa szárazon és kéznél a jegyét.",
+              "Néhány busz fűtött, ami nagyon kellemes.",
+              "Vigyázzon a tócsákra felszálláskor."
+            ],
+            "ro": [
+              "Verificați orarul în prealabil pe ploaie torențială.",
+              "Păstrați biletul la îndemână și uscat.",
+              "Unele autobuze au încălzire, ceea ce este plăcut.",
+              "Atenție la bălți la urcarea în autobuz."
+            ],
+            "en": [
+              "Check the schedule in advance during heavy rain.",
+              "Keep your ticket handy and dry.",
+              "Some buses are heated, which is very pleasant.",
+              "Watch out for puddles when boarding."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterlicher Start am Bahnhof. Der Bus ist eine warme Zuflucht vor der lettischen Kälte, während wir durch die verschneiten Straßen gleiten.\n\nMittags erreichen wir das Schloss. Die Fahrt im beheizten Bus ist der perfekte Kontrast zum frostigen Spaziergang zum Museum.\n\nNachmittags besichtigen wir die Kirche und kehren zur Haltestelle zurück. Die Fahrpläne sind auch im Winter meist stabil.\n\nAbends beenden wir die Tour. Die Dämmerung hüllt Cesvaine in ein blaues Licht, das wir vom warmen Fensterplatz des Busses aus bewundern.",
+            "hu": "Téli kezdés az állomáson. A busz meleg menedék a lett hideg elől, miközben a havas utcákon haladunk.\n\nDélben érjük el a kastélyt. A fűtött buszozás tökéletes ellentéte a múzeumhoz tett fagyos sétának.\n\nDélután megnézzük a templomot, majd visszatérünk a megállóba. A menetrendek télen is többnyire tarthatók.\n\nEste befejezzük a túrát. A szürkület kék fénybe öltözteti Cesvainét, amit a busz meleg ablakából csodálunk meg.",
+            "ro": "Început hibernal la gară. Autobuzul este un refugiu cald contra frigului leton, în timp ce alunecăm pe străzile înzăpezite.\n\nLa prânz ajungem la castel. Călătoria cu autobuzul încălzit este contrastul perfect pentru plimbarea geroasă spre muzeu.\n\nDupă-amiaza vizităm biserica și revenim în stație. Orarele sunt de obicei stabile și pe timp de iarnă.\n\nSeara încheiem turul. Amurgul îmbracă Cesvaine într-o lumină albastră, pe care o admirăm de la fereastra caldă a autobuzului.",
+            "en": "Winter start at the station. The bus is a warm refuge from the Latvian cold as we glide through the snow-covered streets.\n\nAt noon, we reach the palace. The ride in the heated bus is the perfect contrast to the frosty walk to the museum.\n\nIn the afternoon, we visit the church and return to the stop. Schedules are mostly stable even in winter.\n\nIn the evening, we conclude the tour. Dusk wraps Cesvaine in a blue light, which we admire from the warm window seat of the bus."
+          },
+          "stops": [
+            {
+              "name": "Bus stop at the Railway Station",
+              "tip_5lang": {
+                "de": "Haltestelle kann glatt sein, Vorsicht.",
+                "hu": "A megálló csúszós lehet, vigyázat.",
+                "ro": "Stația poate fi alunecoasă, atenție.",
+                "en": "The bus stop can be slippery, be careful."
+              }
+            },
+            {
+              "name": "Old Distillery",
+              "tip_5lang": {
+                "de": "Dick anziehen für den Weg vom Bus.",
+                "hu": "Öltözzön fel jól a busztól vezető úthoz.",
+                "ro": "Îmbrăcați-vă gros pentru drumul de la autobuz.",
+                "en": "Dress warmly for the walk from the bus."
+              }
+            },
+            {
+              "name": "Bus stop Center/Palace",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich im nahen Café auf.",
+                "hu": "Melegedjen fel a közeli kávézóban.",
+                "ro": "Încălziți-vă în cafeneaua din apropiere.",
+                "en": "Warm up in a nearby café."
+              }
+            },
+            {
+              "name": "Cesvaine Palace & Local History Museum",
+              "tip_5lang": {
+                "de": "Ideale Winteraktivität im Warmen.",
+                "hu": "Ideális téli elfoglaltság a melegben.",
+                "ro": "Activitate ideală de iarnă la căldură.",
+                "en": "Ideal winter activity in the warm interior."
+              }
+            },
+            {
+              "name": "Cesvaine Lutheran Church",
+              "tip_5lang": {
+                "de": "Kurzer Aufenthalt wegen Kälte empfohlen.",
+                "hu": "Rövid látogatás javasolt a hideg miatt.",
+                "ro": "Se recomandă o vizită scurtă din cauza frigului.",
+                "en": "Short visit recommended due to the cold."
+              }
+            },
+            {
+              "name": "Palace Park",
+              "tip_5lang": {
+                "de": "Schnee auf den Bänken, nicht hinsetzen.",
+                "hu": "Hó van a padokon, ne üljön le.",
+                "ro": "Zăpadă pe bănci, nu vă așezați.",
+                "en": "Snow on the benches; avoid sitting down."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie Apps für Live-Abfahrtszeiten.",
+              "Tragen Sie rutschfeste Schuhe zum Einsteigen.",
+              "Planen Sie Puffer für eventuelle Verspätungen ein.",
+              "Handwärmer sind beim Warten sehr nützlich."
+            ],
+            "hu": [
+              "Használjon appot az élő indulási időkhöz.",
+              "Viseljen csúszásmentes cipőt a felszálláshoz.",
+              "Számoljon rá időt az esetleges késésekre.",
+              "A kézmelegítő hasznos a várakozáskor."
+            ],
+            "ro": [
+              "Folosiți aplicații pentru orele de plecare live.",
+              "Purtați pantofi antiderapanți pentru urcare.",
+              "Luați în calcul o marjă pentru eventuale întârzieri.",
+              "Încălzitoarele de mâini sunt utile la așteptare."
+            ],
+            "en": [
+              "Use apps for live departure times.",
+              "Wear non-slip shoes for boarding.",
+              "Plan extra time for potential delays.",
+              "Hand warmers are very useful while waiting."
+            ]
+          }
+        }
       }
     }
   }

@@ -333,6 +333,170 @@
           "Plan for a visit to a Heuriger in the afternoon – it's an authentic experience.",
           "Check the opening hours for the Defence Tower as they can vary seasonally."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Marktplatz glänzt im Regen, die Dreifaltigkeitssäule wirkt unter grauem Himmel mystisch. In der Augustinerkirche finden wir trockenen Unterschlupf und bewundern die Stille. Den Mittag verbringen wir ausgiebig in den Innenräumen der Burg Perchtoldsdorf. Ein langer Besuch beim Heurigen lässt die Kleidung trocknen, bevor wir den Tag gemütlich bei der Spitalskirche ausklingen lassen.",
+            "hu": "A főtér macskakövei csillognak az esőben, a Szentháromság-oszlop méltóságteljes a szürke ég alatt. Az Ágoston-rendi templom falai között lelünk száraz menedéket. A délutánt a vár belső kiállításain töltjük, távol a záportól. Egy hosszabb Heuriger-ebéd során megszárítkozhatunk, majd egy rövid, ernyős sétával zárjuk a napot a Spitalskirchénél.",
+            "ro": "Piața centrală strălucește sub ploaie, iar Coloana Treimii pare mistică sub cerul gri. Găsim refugiu în biserica Sf. Augustin, admirând liniștea interioară. Prânzul prelungit la un Heuriger ne permite să ne uscăm hainele în confort. Vizităm interiorul castelului pentru a evita precipitațiile, încheind ziua cu o scurtă plimbare spre Spitalskirche.",
+            "en": "The market square glistens in the rain, with the Trinity Column standing tall against the grey sky. We find dry refuge inside St. Augustin Church. The afternoon is spent exploring the indoor galleries of the castle. A long lunch at a cozy Heuriger is the perfect way to dry off before a final, brief walk to the Spitalskirche to end the rainy day."
+          },
+          "stops": [
+            {
+              "name": "Historic Market Square & Trinity Column",
+              "tip_5lang": {
+                "de": "Die glatten Pflastersteine können bei Regen rutschig sein; vorsichtig gehen.",
+                "hu": "A vizes macskakő csúszós lehet, érdemes óvatosan lépkedni a főtéren.",
+                "ro": "Pavelele pot fi alunecoase când plouă; mergeți cu atenție prin piață.",
+                "en": "The cobblestones can be slippery when wet; watch your step around the square."
+              }
+            },
+            {
+              "name": "Parish Church of St. Augustin",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um einen heftigen Regenschauer im Trockenen abzuwarten.",
+                "hu": "Tökéletes helyszín egy hirtelen zápor átvészelésére szárazon.",
+                "ro": "Un loc ideal pentru a aștepta trecerea unei plume de ploaie la adăpost.",
+                "en": "A perfect spot to wait out a heavy downpour while staying dry."
+              }
+            },
+            {
+              "name": "Perchtoldsdorf Castle & Defence Tower",
+              "tip_5lang": {
+                "de": "Die Innenräume und das Museum bieten vollen Schutz vor dem Wetter.",
+                "hu": "A belső terek és a múzeum teljes védelmet nyújtanak az eső elől.",
+                "ro": "Interioarele și muzeul oferă protecție completă împotriva vremii rele.",
+                "en": "The interior rooms and museum provide full protection from the rain."
+              }
+            },
+            {
+              "name": "Lunch at a Heuriger",
+              "tip_5lang": {
+                "de": "Nutzen Sie die gemütliche Atmosphäre, um Ihre Regenjacke zu trocknen.",
+                "hu": "Használja ki a hangulatos belső teret az esőkabát megszárítására.",
+                "ro": "Profitați de atmosfera primitoare pentru a vă usca pelerina de ploaie.",
+                "en": "Take advantage of the cozy indoor seating to dry off your rain gear."
+              }
+            },
+            {
+              "name": "Spitalskirche and Knappenhof",
+              "tip_5lang": {
+                "de": "Ein kurzer Fußweg, ideal zwischen zwei Regengüssen zu bewältigen.",
+                "hu": "Rövid sétatáv, amely két zápor között is kényelmesen teljesíthető.",
+                "ro": "O distanță scurtă de mers, ideală de parcurs între două reprize de ploaie.",
+                "en": "A short walking distance, easy to cover between rain showers."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für die historischen Pflastersteine.",
+              "Die Burg bietet gute Indoor-Alternativen bei starkem Niederschlag.",
+              "Heurige haben oft große Innenräume, ideal zum Aufwärmen und Trocknen.",
+              "Regenschirme können in den engen Gassen etwas unhandlich sein."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a történelmi macskaköves utcákhoz.",
+              "A vár belső kiállításai remek esőnapi alternatívát kínálnak.",
+              "A Heuriger borozók tágas belső terei ideálisak a száradáshoz.",
+              "Az esernyő a szűkebb utcákban néha nehézkes lehet, az esőkabát praktikusabb."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru străzile cu piatră cubică.",
+              "Castelul oferă alternative excelente de interior în caz de ploaie torențială.",
+              "Tavernele Heuriger au spații interioare mari, ideale pentru uscare.",
+              "Umbrelele pot fi incomode pe străzile înguste; preferați o pelerină."
+            ],
+            "en": [
+              "Wear waterproof shoes for the historic cobblestone streets.",
+              "The castle provides great indoor alternatives during heavy rain.",
+              "Heuriger taverns often have large indoor areas, perfect for drying off.",
+              "Umbrellas can be cumbersome in narrow alleys; a raincoat might be better."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die klare Winterluft am Marktplatz belebt, während der Wehrturm stolz in den blauen Himmel ragt. In der Augustinerkirche finden wir besinnliche Wärme. Die Burgmauern wirken im Winterfrost besonders imposant. Zum Mittag lockt der Heurige mit heißem Most und deftiger Küche. Die frühe Dämmerung verleiht der Spitalskirche eine zauberhafte Beleuchtung zum Tagesabschluss.",
+            "hu": "A friss téli levegő felfrissít a főtéren, miközben az őrtorony büszkén tör a kék ég felé. Az Ágoston-rendi templomban csendes melegség fogad. A várfalak a zúzmarás időben különösen impozánsak. Ebédre a Heuriger forró musttal és laktató ételekkel vár. A korai sötétedés varázslatos fénybe öltözteti a Spitalskirchét a nap végén.",
+            "ro": "Aerul curat de iarnă din piață revigorează, în timp ce turnul de apărare domină cerul senin. Găsim căldură spirituală în biserica Sf. Augustin. Zidurile castelului par deosebit de impunătoare în gerul iernii. La prânz, taverna Heuriger ne îmbie cu must cald și mâncare consistentă. Amurgul timpuriu oferă o iluminare magică bisericii Spitalskirche.",
+            "en": "The crisp winter air at the market square is invigorating as the tower reaches into the clear sky. We find warmth and peace inside the St. Augustin Church. The castle walls look especially imposing covered in winter frost. For lunch, a Heuriger welcomes us with hot cider and hearty food. Early dusk provides magical lighting for our final stop at the Spitalskirche."
+          },
+          "stops": [
+            {
+              "name": "Historic Market Square & Trinity Column",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stellen auf dem historischen Pflaster.",
+                "hu": "Ügyeljen a jeges foltokra a történelmi macskaköveken.",
+                "ro": "Atenție la porțiunile înghețate de pe pavajul istoric.",
+                "en": "Watch out for icy patches on the historic cobblestones."
+              }
+            },
+            {
+              "name": "Parish Church of St. Augustin",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um sich kurz vor der Kälte draußen aufzuwärmen.",
+                "hu": "Csendes helyszín egy rövid átmelegedéshez a kinti hideg után.",
+                "ro": "Un loc liniștit pentru a vă încălzi puțin după frigul de afară.",
+                "en": "A quiet place to warm up briefly after the cold outside."
+              }
+            },
+            {
+              "name": "Perchtoldsdorf Castle & Defence Tower",
+              "tip_5lang": {
+                "de": "Der Wehrturm kann im Winter zugig sein; Schal und Mütze festziehen.",
+                "hu": "A védművek között huzatos lehet az idő; sálat, sapkát vegyen fel.",
+                "ro": "Turnul poate fi expus vântului iarna; strângeți bine fularul și căciula.",
+                "en": "The tower can be drafty in winter; wrap your scarf and hat tightly."
+              }
+            },
+            {
+              "name": "Lunch at a Heuriger",
+              "tip_5lang": {
+                "de": "Probieren Sie saisonale Winterspezialitäten wie heißen Traubensaft.",
+                "hu": "Kóstolja meg a szezonális téli különlegességeket, például a forró mustot.",
+                "ro": "Încercați specialitățile de iarnă, cum ar fi sucul de struguri cald.",
+                "en": "Try seasonal winter specialties like hot grape juice or mulled must."
+              }
+            },
+            {
+              "name": "Spitalskirche and Knappenhof",
+              "tip_5lang": {
+                "de": "Genießen Sie die festliche Beleuchtung in der frühen Abenddämmerung.",
+                "hu": "Élvezze az ünnepi kivilágítást a korai esti szürkületben.",
+                "ro": "Bucurați-vă de iluminatul festiv în amurgul timpuriu al serii.",
+                "en": "Enjoy the festive lighting during the early evening dusk."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Handschuhe sind wichtig, da die Kälte von den Steinen aufsteigt.",
+              "Die Sonne geht im Winter gegen 16:30 Uhr unter; planen Sie früh.",
+              "Suchen Sie Heurige mit offenem Kamin für maximale Gemütlichkeit.",
+              "Die Heide-Gegend kann im Winter sehr windig sein."
+            ],
+            "hu": [
+              "Meleg kesztyű ajánlott, mert a kőfalak ontják a hideget.",
+              "A nap télen 16:30 körül nyugszik, érdemes korán indulni.",
+              "Keressen olyan Heurigert, ahol van kandalló a maximális hangulatért.",
+              "A puszta (Heide) felől érkező szél télen nagyon metsző lehet."
+            ],
+            "ro": [
+              "Mănușile groase sunt esențiale, frigul urcă rapid de la pavaj.",
+              "Soarele apune în jur de ora 16:30 iarna; planificați din timp.",
+              "Căutați o tavernă Heuriger cu șemineu pentru un confort maxim.",
+              "Zona Heide poate fi foarte vântoasă în lunile de iarnă."
+            ],
+            "en": [
+              "Warm gloves are essential as the cold rises from the stone pavement.",
+              "The sun sets around 4:30 PM in winter; plan your visits early.",
+              "Look for a Heuriger with an open fireplace for maximum coziness.",
+              "The Heide area can be very windy during the winter months."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -660,6 +824,170 @@
           "Pay attention to traffic in the narrow streets of the town center.",
           "Many wine cycling trails run through the region – ideal for a more extensive tour."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen starten wir am Marktplatz, die Reifen surren auf dem nassen Asphalt. Die Kirche bietet eine kurze Pause im Trockenen. Wir erreichen die Burg zügig und nutzen die Zeit für eine Innenbesichtigung. Ein langer Heurigen-Stopp wärmt uns auf, bevor wir vorsichtig zur Heide radeln, wo die Natur im Regen besonders intensiv duftet.",
+            "hu": "Az eső ellenére a főtérről indulunk, a gumik halkan zümmögnek a vizes aszfalton. A templomnál tartunk egy rövid száraz pihenőt. Gyorsan elérjük a várat, és a belső tárlatot választjuk. Egy hosszú borozós ebéd után óvatosan kitekerünk a Heidére, ahol az ázott természet illata különösen intenzív.",
+            "ro": "În ciuda ploii, pornim din piață, anvelopele zumzăind pe asfaltul ud. Biserica oferă o scurtă pauză uscată. Ajungem rapid la castel și optăm pentru vizitarea interiorului. O oprire lungă la Heuriger ne încălzește înainte de a pedala cu atenție spre Heide, unde natura miroase intens.",
+            "en": "Despite the rain, we start at the market square, tires humming on wet asphalt. The church offers a quick dry break. We reach the castle swiftly and enjoy the indoor exhibits. After a long warming lunch at a Heuriger, we cycle carefully to the Heide, where the nature smells especially fresh in the rain."
+          },
+          "stops": [
+            {
+              "name": "Historic Market Square & Trinity Column",
+              "tip_5lang": {
+                "de": "Bremsen Sie auf nassem Kopfsteinpflaster frühzeitig und sanft.",
+                "hu": "Vizes macskakövön fékezzen korán és nagyon óvatosan.",
+                "ro": "Frânați din timp și ușor pe piatra cubică umedă.",
+                "en": "Brake early and gently on the wet cobblestones."
+              }
+            },
+            {
+              "name": "Parish Church of St. Augustin",
+              "tip_5lang": {
+                "de": "Sicherer Abstellplatz für Fahrräder oft direkt vor dem Kircheneingang.",
+                "hu": "Biztonságos kerékpártároló gyakran közvetlenül a bejáratnál található.",
+                "ro": "Loc sigur de parcare pentru biciclete adesea chiar în fața intrării.",
+                "en": "Secure bicycle parking is often available right in front of the entrance."
+              }
+            },
+            {
+              "name": "Perchtoldsdorf Castle & Defence Tower",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit drinnen, während ein Regenschauer abzieht.",
+                "hu": "Töltse az időt bent, amíg elvonul egy nagyobb esőfelhő.",
+                "ro": "Petreceți timpul în interior până trece o repriză de ploaie.",
+                "en": "Use the time inside while a rain shower passes by."
+              }
+            },
+            {
+              "name": "Lunch at a Heuriger",
+              "tip_5lang": {
+                "de": "Fragen Sie nach einem Platz, an dem Sie Ihre nasse Jacke aufhängen können.",
+                "hu": "Kérjen olyan helyet, ahol felakaszthatja a vizes kerékpáros dzsekijét.",
+                "ro": "Căutați un loc unde vă puteți agăța jacheta de ciclism umedă.",
+                "en": "Ask for a spot where you can hang up your wet cycling jacket."
+              }
+            },
+            {
+              "name": "Bike trip to Perchtoldsdorfer Heide",
+              "tip_5lang": {
+                "de": "Achtung: Die unbefestigten Wege auf der Heide können schlammig sein.",
+                "hu": "Figyelem: a Heide kiépítetlen útjai sárosak lehetnek eső után.",
+                "ro": "Atenție: potecile neamenajate din Heide pot fi noroioase.",
+                "en": "Caution: the unpaved paths on the Heide can be muddy."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie schnelle Kurven auf nassem Kopfsteinpflaster.",
+              "Schutzbleche am Fahrrad sind bei diesem Wetter unverzichtbar.",
+              "Wasserdichte Packtaschen halten Ihre Sachen trocken.",
+              "Die Heide-Wege sind bei Regen rutschiger als gewohnt."
+            ],
+            "hu": [
+              "Kerülje a hirtelen kanyarodást a vizes macskakövön.",
+              "A sárvédő elengedhetetlen ilyenkor a kerékpáron.",
+              "A vízálló táskák segítenek szárazon tartani az értékeit.",
+              "A puszta ösvényei esőben sokkal csúszósabbak a megszokottnál."
+            ],
+            "ro": [
+              "Evitați virajele strânse pe piatra cubică umedă.",
+              "Aripile la bicicletă sunt indispensabile pe acest tip de vreme.",
+              "Gențile impermeabile vă vor păstra lucrurile uscate.",
+              "Potecile din Heide sunt mai alunecoase decât de obicei pe ploaie."
+            ],
+            "en": [
+              "Avoid sharp turns on wet cobblestone surfaces.",
+              "Mudguards on your bike are essential in this weather.",
+              "Waterproof panniers will keep your belongings dry.",
+              "The Heide paths are much more slippery than usual in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Mit dicken Handschuhen radeln wir durch das winterliche Perchtoldsdorf. Der Marktplatz wirkt in der Kälte klar und weit. Nach einem kurzen Stopp an der Kirche bringt uns die Burgführung ins Warme. Ein kräftiges Mittagessen beim Heurigen gibt Energie für die Fahrt zur frostigen Heide, wo wir den Blick über das neblige Wiener Becken genießen.",
+            "hu": "Vastag kesztyűben tekerünk át a téli Perchtoldsdorfon. A főtér a hidegben tisztának és tágasnak tűnik. A templomi megálló után a várnézés alatt felmelegszünk. Egy kiadós borozós ebéd ad erőt a fagyos Heidére való feltekeréshez, ahonnan csodás kilátás nyílik a ködös Bécsi-medencére.",
+            "ro": "Pedalăm prin Perchtoldsdorful de iarnă cu mănuși groase. Piața pare clară și vastă în ger. După o scurtă oprire la biserică, turul castelului ne aduce la căldură. Un prânz consistent la Heuriger ne oferă energie pentru drumul spre Heide cel înghețat, de unde admirăm bazinul Vienei.",
+            "en": "We cycle through wintry Perchtoldsdorf wearing thick gloves. The market square feels crisp and vast in the cold. After a brief church visit, the castle tour offers a warm break. A hearty lunch at a Heuriger gives us energy for the ride to the frosty Heide, where we enjoy views over the misty Vienna basin."
+          },
+          "stops": [
+            {
+              "name": "Historic Market Square & Trinity Column",
+              "tip_5lang": {
+                "de": "Vorsicht vor Reifglätte auf dem Steinboden am frühen Morgen.",
+                "hu": "Vigyázat: kora reggel zúzmarás, csúszós lehet a kőburkolat.",
+                "ro": "Atenție la polei pe suprafața de piatră în orele dimineții.",
+                "en": "Beware of frost on the stone pavement in the early morning."
+              }
+            },
+            {
+              "name": "Parish Church of St. Augustin",
+              "tip_5lang": {
+                "de": "Ein kurzer Moment der Stille und Wärme, bevor es weitergeht.",
+                "hu": "Egy rövid pillanatnyi csend és melegség a folytatás előtt.",
+                "ro": "Un moment scurt de liniște și căldură înainte de a continua.",
+                "en": "A brief moment of silence and warmth before moving on."
+              }
+            },
+            {
+              "name": "Perchtoldsdorf Castle & Defence Tower",
+              "tip_5lang": {
+                "de": "Parken Sie das Rad windgeschützt hinter den dicken Mauern.",
+                "hu": "Parkolja a kerékpárt szélvédett helyen a vastag falak mögött.",
+                "ro": "Parcați bicicleta într-un loc ferit de vânt în spatele zidurilor.",
+                "en": "Park your bike in a wind-sheltered spot behind the thick walls."
+              }
+            },
+            {
+              "name": "Lunch at a Heuriger",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um kalte Finger bei einem warmen Getränk aufzuwärmen.",
+                "hu": "Tökéletes hely a kihűlt ujjak felmelegítésére egy forró ital mellett.",
+                "ro": "Locul perfect pentru a vă încălzi degetele cu o băutură caldă.",
+                "en": "Perfect place to warm up cold fingers with a hot drink."
+              }
+            },
+            {
+              "name": "Bike trip to Perchtoldsdorfer Heide",
+              "tip_5lang": {
+                "de": "Der Boden kann gefroren sein; fahren Sie vorausschauend.",
+                "hu": "A talaj fagyott lehet; tekerjen előrelátóan és óvatosan.",
+                "ro": "Solul poate fi înghețat; pedalați cu prudență sporită.",
+                "en": "The ground may be frozen; cycle with foresight and caution."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme, winddichte Handschuhe sind bei Frost unverzichtbar.",
+              "Prüfen Sie den Reifendruck; etwas weniger Grip hilft bei Glätte.",
+              "Tragen Sie Kleidung nach dem Zwiebelprinzip für Bergauf-Fahrten.",
+              "Das Licht am Fahrrad muss aufgrund der frühen Dunkelheit geprüft sein."
+            ],
+            "hu": [
+              "A szélálló, meleg kesztyű fagyban elengedhetetlen.",
+              "Ellenőrizze a guminyomást; a kicsit puhább gumi jobban tapad a fagyon.",
+              "Öltözzön rétegesen, mert a hegyre menet kimelegszik.",
+              "A kerékpáros világítás legyen rendben a korai sötétedés miatt."
+            ],
+            "ro": [
+              "Mănușile călduroase și rezistente la vânt sunt obligatorii pe ger.",
+              "Verificați presiunea; o aderență mai mare ajută pe porțiuni înghețate.",
+              "Îmbrăcați-vă în straturi pentru efortul urcării spre Heide.",
+              "Luminile bicicletei trebuie să fie funcționale pentru amurgul timpuriu."
+            ],
+            "en": [
+              "Warm, windproof gloves are essential in freezing temperatures.",
+              "Check tire pressure; slightly lower pressure helps with grip on frost.",
+              "Use layers of clothing to stay comfortable during the uphill ride.",
+              "Ensure your bike lights are working perfectly for the early sunset."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -987,6 +1315,170 @@
           "A car gives you the freedom to visit more remote Heurigers and wineries.",
           "Combine your visit with other destinations in the southern Vienna Woods."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Bequem parken wir im Zentrum und erreichen den Marktplatz fast trocken. Die Kirche bietet eine wunderbare Atmosphäre während eines Schauers. Wir fahren zur Burg und genießen das Museum im Inneren. Ein kurzer Abstecher zum Aussichtspunkt bietet einen dramatischen Blick auf das verregnete Wiener Becken, bevor wir beim Heurigen einkehren.",
+            "hu": "Kényelmesen leparkolunk a központban, így majdnem szárazon érjük el a főteret. A templom csodás hangulatot áraszt a zápor alatt. Kocsival megyünk a várig, ahol a belső múzeumot nézzük meg. A kilátópontnál a felhős Bécsi-medence látványa drámai, végül egy Heurigerben pihenünk meg.",
+            "ro": "Parcăm confortabil în centru și ajungem în piață aproape uscați. Biserica oferă o atmosferă deosebită în timpul ploii. Mergem cu mașina la castel pentru a vizita muzeul interior. O scurtă oprire la punctul de belvedere oferă o vedere dramatică asupra Vienei ploiase, înainte de popasul la Heuriger.",
+            "en": "We park conveniently in the center, reaching the market square almost dry. The church offers a wonderful atmosphere during a rain shower. We drive to the castle to explore the indoor museum. A quick detour to the viewpoint provides dramatic views of the rainy Vienna basin before stopping at a Heuriger."
+          },
+          "stops": [
+            {
+              "name": "Central Car Park & Walk to the Market Square",
+              "tip_5lang": {
+                "de": "Hinterlegen Sie einen Regenschirm im Auto für den kurzen Fußweg.",
+                "hu": "Tartson egy esernyőt az autóban a rövid sétához.",
+                "ro": "Lăsați o umbrelă la îndemână în mașină pentru scurta plimbare.",
+                "en": "Keep an umbrella handy in the car for the short walk."
+              }
+            },
+            {
+              "name": "Perchtoldsdorf Castle & Parish Church",
+              "tip_5lang": {
+                "de": "Nahegelegene Parkplätze ermöglichen einen fast regenfreien Zugang.",
+                "hu": "A közeli parkolók lehetővé teszik a szinte száraz bejutást.",
+                "ro": "Parcările din apropiere permit accesul aproape fără a vă uda.",
+                "en": "Nearby parking spots allow for an almost dry entrance."
+              }
+            },
+            {
+              "name": "Drive to the Vienna Woods Viewpoint",
+              "tip_5lang": {
+                "de": "Vorsicht bei Nebel auf den schmalen Straßen zum Aussichtspunkt.",
+                "hu": "Vigyázat: a kilátóhoz vezető szűk utak ködösek lehetnek.",
+                "ro": "Atenție la ceață pe drumurile înguste spre punctul de belvedere.",
+                "en": "Be careful of fog on the narrow roads leading to the viewpoint."
+              }
+            },
+            {
+              "name": "Lunch at a Heuriger on the outskirts",
+              "tip_5lang": {
+                "de": "Eigene Parkplätze direkt beim Heurigen sind bei Regen sehr praktisch.",
+                "hu": "A borozó saját parkolója nagyon praktikus esős időben.",
+                "ro": "Parcarea proprie a tavernei este foarte utilă pe ploaie.",
+                "en": "The tavern's private parking is very convenient in rainy weather."
+              }
+            },
+            {
+              "name": "Visit to the Perchtoldsdorfer Heide",
+              "tip_5lang": {
+                "de": "Vom Parkplatz aus hat man auch bei Regen einen guten Blick auf die Heide.",
+                "hu": "A parkolóból esőben is jó rálátás nyílik a pusztára.",
+                "ro": "Din parcare aveți o priveliște bună asupra Heide chiar și pe ploaie.",
+                "en": "The parking area offers a good view of the Heide even in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Parkgaragen im Zentrum, um trocken zu bleiben.",
+              "Fahren Sie bei schlechter Sicht vorsichtig auf den kurvigen Bergstraßen.",
+              "Ein Regenschirm im Kofferraum ist für die Stopps unerlässlich.",
+              "Die Aussichtspunkte können bei tief hängenden Wolken verhangen sein."
+            ],
+            "hu": [
+              "Használja a központi parkolóházakat, hogy szárazon maradjon.",
+              "Rossz látási viszonyok között vezessen óvatosan a kanyargós utakon.",
+              "Az esernyő a csomagtartóban elengedhetetlen a megállókhoz.",
+              "A kilátópontoknál alacsony felhőzet esetén korlátozott lehet a látótávolság."
+            ],
+            "ro": [
+              "Folosiți parcările acoperite din centru pentru a rămâne uscați.",
+              "Conduceți cu prudență pe drumurile de munte sinuoase dacă vizibilitatea e scăzută.",
+              "O umbrelă în portbagaj este esențială pentru opriri.",
+              "Punctele de belvedere pot fi acoperite de nori în zilele foarte ploioase."
+            ],
+            "en": [
+              "Use the parking garages in the center to stay dry.",
+              "Drive carefully on winding mountain roads if visibility is poor.",
+              "Keep an umbrella in the trunk for the various stops.",
+              "Viewpoints might be obscured by low-hanging clouds on very rainy days."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im beheizten Auto erkunden wir das winterliche Umland von Perchtoldsdorf. Der Marktplatz wirkt unter einer Schneedecke besonders friedlich. Wir besuchen die Burg und wärmen uns in der Kirche auf. Die Fahrt zum Aussichtspunkt belohnt mit einem weiten Blick über das glitzernde Wiener Becken. Zum Abschluss genießen wir die wohlige Wärme beim Heurigen am Stadtrand.",
+            "hu": "A fűtött autó kényelméből fedezzük fel a téli Perchtoldsdorf környékét. A főtér a hólepel alatt különösen békés. Meglátogatjuk a várat, és a templomban melegszünk át. A kilátóhoz vezető út végén a csillogó Bécsi-medence látványa a jutalom. Végül a város széli Heuriger barátságos melegében pihenünk meg.",
+            "ro": "Explorăm împrejurimile de iarnă ale Perchtoldsdorfului în confortul mașinii încălzite. Piața pare liniștită sub zăpadă. Vizităm castelul și ne încălzim în biserică. Drumul spre punctul de belvedere ne răsplătește cu o vedere amplă asupra Vienei sclipitoare. Încheiem ziua la căldura unei taverne Heuriger.",
+            "en": "We explore the wintry surroundings of Perchtoldsdorf from the comfort of a heated car. The market square looks especially peaceful under a blanket of snow. We visit the castle and warm up inside the church. The drive to the viewpoint rewards us with vast views over the sparkling Vienna basin before cozying up at a Heuriger."
+          },
+          "stops": [
+            {
+              "name": "Central Car Park & Walk to the Market Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie Parkhäuser, um das Auto schnee- und eisfrei zu halten.",
+                "hu": "Használja a parkolóházakat, hogy elkerülje az autó jegesedését.",
+                "ro": "Folosiți parcările acoperite pentru a evita înghețarea mașinii.",
+                "en": "Use parking garages to keep your car free from snow and ice."
+              }
+            },
+            {
+              "name": "Perchtoldsdorf Castle & Parish Church",
+              "tip_5lang": {
+                "de": "Kurze Gehwege vom Parkplatz minimieren die Zeit in der Kälte.",
+                "hu": "A parkolótól mért rövid távolság minimalizálja a kinti hideget.",
+                "ro": "Distanțele scurte de la parcare minimizează expunerea la frig.",
+                "en": "Short walking distances from the car minimize time spent in the cold."
+              }
+            },
+            {
+              "name": "Drive to the Vienna Woods Viewpoint",
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihr Fahrzeug über gute Winterreifen verfügt.",
+                "hu": "Győződjön meg róla, hogy az autón jó téli gumik vannak.",
+                "ro": "Asigurați-vă că vehiculul este echipat cu anvelope de iarnă bune.",
+                "en": "Ensure your vehicle is equipped with good winter tires."
+              }
+            },
+            {
+              "name": "Lunch at a Heuriger on the outskirts",
+              "tip_5lang": {
+                "de": "Heurige am Stadtrand haben im Winter oft ausreichend Parkraum.",
+                "hu": "A város széli borozóknál télen is bőven van parkolóhely.",
+                "ro": "Tavernele de la periferie au adesea locuri de parcare suficiente iarna.",
+                "en": "Heuriger taverns on the outskirts usually have ample parking in winter."
+              }
+            },
+            {
+              "name": "Visit to the Perchtoldsdorfer Heide",
+              "tip_5lang": {
+                "de": "Genießen Sie den Sonnenuntergang direkt aus dem warmen Auto.",
+                "hu": "Élvezze a naplementét közvetlenül a meleg autóból.",
+                "ro": "Bucurați-vă de apusul soarelui direct din mașina caldă.",
+                "en": "Enjoy the sunset directly from the warmth of your car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind auf den Bergstraßen absolut zwingend.",
+              "Führen Sie einen Eiskratzer und Handfeger im Auto mit.",
+              "Die Straßen zur Heide können bei Schneefall rutschig sein.",
+              "Planen Sie die Rückfahrt vor Einbruch der frühen Dunkelheit."
+            ],
+            "hu": [
+              "A téli gumi kötelező és elengedhetetlen a hegyi utakon.",
+              "Tartson jégkaparót és kisseprűt az autóban.",
+              "A puszta felé vezető utak hóesésben csúszósak lehetnek.",
+              "Tervezze meg a visszautat a korai sötétedés előtt."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt absolut obligatorii pe drumurile de deal.",
+              "Aveți întotdeauna în mașină o racletă pentru gheață și o perie.",
+              "Drumurile spre Heide pot fi alunecoase în caz de ninsoare.",
+              "Planificați drumul de întoarcere înainte de lăsarea întunericului."
+            ],
+            "en": [
+              "Winter tires are absolutely mandatory on the hilly roads.",
+              "Keep an ice scraper and a snow brush in your car.",
+              "The roads leading to the Heide can be slippery during snowfall.",
+              "Plan your return trip before the early onset of darkness."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1313,6 +1805,170 @@
           "The walking path from the train station to the center is well signposted.",
           "Check the schedule for your return journey in advance to avoid waiting times."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit der Bahn erreichen wir Perchtoldsdorf und nutzen den kurzen Busweg ins Zentrum. Der Marktplatz glänzt im Regen, doch wir finden schnell Zuflucht in der Kirche. Die Burg bietet Schutz für den Nachmittag. Ein gemütliches Mittagessen beim Heurigen lässt uns den Regen vergessen, bevor wir am Abend entspannt mit dem Zug zurückfahren.",
+            "hu": "Vonattal érkezünk Perchtoldsdorfba, majd busszal megyünk be a központba. A főtér vizes, de a templomban gyorsan menedéket találunk. A várnézés ideális délutáni program esőben. Egy hangulatos ebéd a Heurigerben elfeledteti a kinti záport, este pedig kényelmesen utazunk haza vonattal.",
+            "ro": "Ajungem cu trenul și folosim autobuzul pentru a ajunge rapid în centru. Piața strălucește sub ploaie, dar găsim imediat adăpost în biserică. Castelul oferă protecție pentru după-amiază. Un prânz plăcut la Heuriger ne face să uităm de vremea de afară înainte de întoarcerea cu trenul.",
+            "en": "We arrive by train and take a short bus ride to the center. The market square glistens in the rain, but we quickly find shelter in the church. The castle is perfect for a rainy afternoon. A cozy lunch at a Heuriger makes us forget the weather before we relax on the train ride home in the evening."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Perchtoldsdorf train station",
+              "tip_5lang": {
+                "de": "Der Bahnhof bietet überdachte Wartebereiche gegen den Regen.",
+                "hu": "A vasútállomás fedett váróterme védelmet nyújt az eső elől.",
+                "ro": "Gara are zone de așteptare acoperite împotriva ploii.",
+                "en": "The train station has covered waiting areas to stay dry."
+              }
+            },
+            {
+              "name": "Historic Market Square",
+              "tip_5lang": {
+                "de": "Vom Busstopp sind es nur wenige Schritte bis zum Marktplatz.",
+                "hu": "A buszmegállótól csak pár lépés a főtér.",
+                "ro": "De la stația de autobuz sunt doar câțiva pași până în piață.",
+                "en": "It's only a few steps from the bus stop to the market square."
+              }
+            },
+            {
+              "name": "Perchtoldsdorf Castle & Parish Church",
+              "tip_5lang": {
+                "de": "Diese Sehenswürdigkeiten liegen nah beieinander, ideal bei Regen.",
+                "hu": "Ezek a látnivalók közel vannak egymáshoz, ami esőben előny.",
+                "ro": "Aceste atracții sunt aproape una de alta, ideal pe timp de ploaie.",
+                "en": "These sights are close to each other, ideal for rainy weather."
+              }
+            },
+            {
+              "name": "Lunch at a Heuriger",
+              "tip_5lang": {
+                "de": "Viele Heurige sind vom Zentrum aus gut zu Fuß erreichbar.",
+                "hu": "Sok borozó gyalog is könnyen elérhető a központból.",
+                "ro": "Multe taverne Heuriger sunt ușor accesibile pe jos din centru.",
+                "en": "Many Heuriger taverns are easily accessible on foot from the center."
+              }
+            },
+            {
+              "name": "Walk back to the train station",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Bus für den Rückweg, um trocken zu bleiben.",
+                "hu": "Használja a buszt a visszaúthoz, hogy ne ázzon meg.",
+                "ro": "Folosiți autobuzul pentru întoarcere pentru a rămâne uscați.",
+                "en": "Take the bus back to the station to stay dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie die Busverbindungen vom Bahnhof ins Zentrum.",
+              "Die VOR-App hilft bei der Planung in Echtzeit.",
+              "Ein Regenschirm ist für die Wege zwischen den Haltestellen nötig.",
+              "Bahnhöfe sind oft gute Orte, um trockenen Fußes umzusteigen."
+            ],
+            "hu": [
+              "Ellenőrizze a buszjáratokat az állomástól a központig.",
+              "A VOR alkalmazás segít a valós idejű tervezésben.",
+              "Az esernyő szükséges a megállók közötti rövid szakaszokon.",
+              "Az állomásokon szárazon várakozhat az átszállásra."
+            ],
+            "ro": [
+              "Verificați conexiunile de autobuz de la gară spre centru.",
+              "Aplicația VOR vă ajută cu planificarea în timp real.",
+              "O umbrelă este necesară pentru segmentele dintre stații.",
+              "Gările sunt locuri bune pentru a aștepta conexiunile la adăpost."
+            ],
+            "en": [
+              "Check bus connections from the station to the center.",
+              "The VOR app helps with real-time transit planning.",
+              "An umbrella is necessary for the short walks between stops.",
+              "Train stations offer good shelter while waiting for connections."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Zug bringt uns durch die winterliche Landschaft nach Perchtoldsdorf. Wir schätzen die Wärme im Bus zum Marktplatz. Die Burgführung bietet eine willkommene Pause von der Kälte. Nach einem wärmenden Mittagessen beim Heurigen genießen wir die winterliche Ruhe des Ortes, bevor wir uns auf den gemütlichen Rückweg zum Bahnhof machen.",
+            "hu": "A vonat téli tájon át visz minket Perchtoldsdorfba. Nagyra értékeljük a busz melegét a központig. A várnézés kellemes pihenőt nyújt a kinti hideg után. Egy átmelegítő borozós ebéd után élvezzük a település téli nyugalmát, majd kényelmesen visszasétálunk a vasútállomásra.",
+            "ro": "Trenul ne poartă prin peisajul de iarnă până la Perchtoldsdorf. Apreciem căldura autobuzului până în centru. Turul castelului oferă o pauză binevenită de la frig. După un prânz cald la Heuriger, savurăm liniștea hibernală a localității înainte de a ne întoarce la gară.",
+            "en": "The train carries us through wintry landscapes to Perchtoldsdorf. We appreciate the warmth of the bus to the center. The castle tour offers a welcome break from the cold. After a warming lunch at a Heuriger, we enjoy the quiet winter atmosphere before heading back to the train station."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Perchtoldsdorf train station",
+              "tip_5lang": {
+                "de": "Warten Sie im beheizten Bahnhofsbereich auf den Anschlussbus.",
+                "hu": "Várjon a fűtött állomási váróban a csatlakozó buszra.",
+                "ro": "Așteptați autobuzul în zona încălzită a gării.",
+                "en": "Wait for your connecting bus in the heated area of the station."
+              }
+            },
+            {
+              "name": "Historic Market Square",
+              "tip_5lang": {
+                "de": "Die Busse sind im Winter gut beheizt und sehr komfortabel.",
+                "hu": "A buszok télen jól fűtöttek és kényelmesek.",
+                "ro": "Autobuzele sunt bine încălzite și confortabile iarna.",
+                "en": "Buses are well-heated and comfortable during winter."
+              }
+            },
+            {
+              "name": "Perchtoldsdorf Castle & Parish Church",
+              "tip_5lang": {
+                "de": "Im Winter sind die Innenbesichtigungen besonders angenehm.",
+                "hu": "Télen a belső látogatások különösen kellemesek.",
+                "ro": "Vizitele la interior sunt deosebit de plăcute în timpul iernii.",
+                "en": "Indoor visits are particularly pleasant during the winter months."
+              }
+            },
+            {
+              "name": "Lunch at a Heuriger",
+              "tip_5lang": {
+                "de": "Genießen Sie die gemütliche Winterstimmung in den Gaststuben.",
+                "hu": "Élvezze a barátságos téli hangulatot a borozók belső termeiben.",
+                "ro": "Bucurați-vă de atmosfera primitoare de iarnă în interior.",
+                "en": "Enjoy the cozy winter atmosphere inside the dining rooms."
+              }
+            },
+            {
+              "name": "Walk back to the train station",
+              "tip_5lang": {
+                "de": "Achten Sie auf die Fahrpläne, um Wartezeiten in der Kälte zu vermeiden.",
+                "hu": "Figyelje a menetrendet, hogy elkerülje a hidegben való várakozást.",
+                "ro": "Verificați orarul pentru a evita așteptarea în frig.",
+                "en": "Check the schedules to avoid waiting in the cold."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die beheizten Warteräume an größeren Bahnhöfen.",
+              "Die Taktung der Busse kann an Wochenenden im Winter variieren.",
+              "Tragen Sie warme Kleidung für die Wartezeiten an Haltestellen.",
+              "Die Bahnfahrt bietet tolle Ausblicke auf die verschneiten Weinberge."
+            ],
+            "hu": [
+              "Használja a fűtött várótermeket a nagyobb állomásokon.",
+              "A buszok menetrendje hétvégén eltérhet a téli időszakban.",
+              "Öltözzön melegen a megállókban való várakozáshoz.",
+              "A vonatút során szép kilátás nyílik a havas szőlőültetvényekre."
+            ],
+            "ro": [
+              "Folosiți sălile de așteptare încălzite din gările mari.",
+              "Frecvența autobuzelor poate varia în weekend pe timpul iernii.",
+              "Îmbrăcați-vă gros pentru perioadele de așteptare în stații.",
+              "Călătoria cu trenul oferă vederi frumoase asupra podgoriilor înzăpezite."
+            ],
+            "en": [
+              "Make use of heated waiting rooms at larger train stations.",
+              "Bus frequencies might vary on winter weekends.",
+              "Dress warmly for the time spent waiting at outdoor stops.",
+              "The train ride offers great views of the snowy vineyards."
+            ]
+          }
+        }
       }
     }
   }

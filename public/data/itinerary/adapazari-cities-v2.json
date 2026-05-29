@@ -326,6 +326,200 @@
           "Most central locations are easily reachable on foot.",
           "Plan for breaks in cafes to enjoy the local atmosphere."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag in der Çark-Straße, wo die Markisen der Geschäfte Schutz bieten, bevor Sie die Orhan-Gazi-Moschee besuchen. Mittags bieten das Sakarya-Museum und das Erdbebenmuseum trockene und informative Zufluchtsorte vor dem Regen. Am Nachmittag genießen Sie ein gemütliches Mittagessen im Zentrum und beenden den Tag mit einem Spaziergang unter dem Regenschirm im Kent Park.",
+            "hu": "Kezdje a napot a Çark utcán, ahol a boltok előtetői védenek az esőtől, majd látogasson el az Orhan Gazi mecsetbe. Délben a Sakarya Múzeum és a Földrengés Múzeum nyújt száraz és tanulságos menedéket. Délután fogyasszon el egy bőséges ebédet a belvárosban, végül egy esernyős séta várja a Kent Parkban, ahol a vizes fák látványa megnyugtató.",
+            "ro": "Începeți ziua pe strada Çark, unde copertinele magazinelor oferă adăpost, înainte de a vizita Moscheea Orhan Gazi. La prânz, Muzeul Sakarya și Muzeul Cutremurului oferă refugii uscate și informative. După-amiaza, savurați un prânz cald în centru și încheiați ziua cu o plimbare cu umbrela în Kent Park, admirând reflexiile ploii pe alei.",
+            "en": "Start your day on Çark Street, where shop awnings provide cover, before visiting the Orhan Gazi Mosque. At midday, the Sakarya Museum and Earthquake Museum offer dry and informative retreats from the rain. In the afternoon, enjoy a cozy lunch in the center and finish the day with an umbrella walk in Kent Park, enjoying the fresh scent of the rain."
+          },
+          "stops": [
+            {
+              "name": "Çark Street",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Ladenpassagen als Regenschutz.",
+                "hu": "Használja a boltok előtetőit eső elleni védelemként.",
+                "ro": "Folosiți arcadele magazinelor pentru a evita ploaia.",
+                "en": "Use the shop awnings as shelter from the drizzle."
+              }
+            },
+            {
+              "name": "Orhan Gazi Mosque",
+              "tip_5lang": {
+                "de": "Ein ruhiger, trockener Ort für eine kurze Pause.",
+                "hu": "Csendes, száraz hely egy rövid pihenőhöz.",
+                "ro": "Un loc liniștit și uscat pentru o scurtă pauză.",
+                "en": "A quiet, dry place for a short break from the wet."
+              }
+            },
+            {
+              "name": "Sakarya Museum",
+              "tip_5lang": {
+                "de": "Perfekt, um den stärksten Regen im Haus zu verbringen.",
+                "hu": "Tökéletes hely a legnagyobb eső átvészelésére.",
+                "ro": "Perfect pentru a petrece cea mai mare ploaie în interior.",
+                "en": "Perfect for spending the heaviest rain indoors."
+              }
+            },
+            {
+              "name": "Earthquake Museum",
+              "tip_5lang": {
+                "de": "Innenbereich bietet Schutz und tiefe Einblicke.",
+                "hu": "A belső terek védelmet és mély betekintést nyújtanak.",
+                "ro": "Interiorul oferă protecție și perspective profunde.",
+                "en": "The indoor exhibits provide shelter and deep insights."
+              }
+            },
+            {
+              "name": "Lunch in the Center",
+              "coords": [
+                30.4,
+                40.78
+              ],
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit gemütlichem Innenraum.",
+                "hu": "Válasszon egy hangulatos belső térrel rendelkező éttermet.",
+                "ro": "Alegeți un restaurant cu un interior primitor.",
+                "en": "Choose a restaurant with a cozy indoor seating area."
+              }
+            },
+            {
+              "name": "Kent Park",
+              "tip_5lang": {
+                "de": "Die asphaltierten Wege sind auch bei Regen gut begehbar.",
+                "hu": "Az aszfaltozott utak esőben is jól járhatóak.",
+                "ro": "Aleile asfaltate sunt ușor de parcurs chiar și pe ploaie.",
+                "en": "The paved paths remain walkable even in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da sich auf der Çark-Straße Pfützen bilden können.",
+              "Die Museen sind ideal für längere Regenschauer.",
+              "Nehmen Sie einen stabilen Regenschirm mit, da es windig sein kann.",
+              "Die Cafés im Kent Park haben beheizte Glasanbauten.",
+              "Planen Sie mehr Zeit für den Wechsel zwischen den Museen ein."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert a Çark utcán tócsák alakulhatnak ki.",
+              "A múzeumok ideálisak a hosszabb záporok idejére.",
+              "Vigyen magával stabil esernyőt, mert a szél felerősödhet.",
+              "A Kent Park kávézói fűtött üvegterasszal várják.",
+              "Hagyjon több időt a múzeumok közötti közlekedésre."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, pot apărea bălți pe strada Çark.",
+              "Muzeele sunt ideale pentru perioadele cu ploaie torențială.",
+              "Luați o umbrelă rezistentă, vântul poate fi puternic.",
+              "Cafenelele din Kent Park au terase de sticlă încălzite.",
+              "Alocați mai mult timp pentru deplasarea între muzee."
+            ],
+            "en": [
+              "Wear waterproof shoes as puddles can form on Çark Street.",
+              "The museums are ideal for shelter during heavy showers.",
+              "Carry a sturdy umbrella as it can get windy.",
+              "The cafes in Kent Park have heated glass enclosures.",
+              "Allow extra time for moving between museum stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie das winterliche Adapazarı mit einem Spaziergang durch die Çark-Straße, wo heiße Kastanien verkauft werden. Die Orhan-Gazi-Moschee und die Museen bieten wohlige Wärme und faszinierende Geschichte. Nach einem wärmenden Mittagessen im Zentrum genießen Sie die klare Winterluft im Kent Park, bevor die Dunkelheit gegen 17:00 Uhr die Stadt in Lichter taucht.",
+            "hu": "Fedezze fel a téli Adapazarit a Çark utcán sétálva, ahol sült gesztenye illata száll. Az Orhan Gazi mecset és a múzeumok kellemes meleget és lenyűgöző történelmet kínálnak. Egy melegítő ebéd után élvezze a friss téli levegőt a Kent Parkban, mielőtt a korai sötétedés, délután 5 körül fénybe öltözteti a várost.",
+            "ro": "Descoperiți Adapazarı iarna cu o plimbare pe strada Çark, unde se vinde castane coapte. Moscheea Orhan Gazi și muzeele oferă căldură și istorie fascinantă. După un prânz cald în centru, bucurați-vă de aerul curat de iarnă în Kent Park, înainte ca întunericul de la ora 17:00 să aprindă luminile orașului.",
+            "en": "Experience wintry Adapazarı with a stroll through Çark Street, where roasted chestnuts are sold. The Orhan Gazi Mosque and the museums provide cozy warmth and fascinating history. After a warming lunch in the center, enjoy the crisp winter air in Kent Park before darkness falls around 17:00, lighting up the city."
+          },
+          "stops": [
+            {
+              "name": "Çark Street",
+              "tip_5lang": {
+                "de": "Probieren Sie heiße Kastanien von den Straßenverkäufern.",
+                "hu": "Kóstolja meg a sült gesztenyét az utcai árusoknál.",
+                "ro": "Încercați castanele coapte de la vânzătorii ambulanți.",
+                "en": "Try some roasted chestnuts from the street vendors."
+              }
+            },
+            {
+              "name": "Orhan Gazi Mosque",
+              "tip_5lang": {
+                "de": "Der Innenraum ist im Winter angenehm temperiert.",
+                "hu": "A belső tér télen is kellemes hőmérsékletű.",
+                "ro": "Interiorul are o temperatură plăcută în timpul iernii.",
+                "en": "The interior is kept at a pleasant temperature in winter."
+              }
+            },
+            {
+              "name": "Sakarya Museum",
+              "tip_5lang": {
+                "de": "Ein warmer Ort, um in die lokale Geschichte einzutauchen.",
+                "hu": "Meleg hely a helyi történelem megismeréséhez.",
+                "ro": "Un loc călduros pentru a explora istoria locală.",
+                "en": "A warm place to dive into local history."
+              }
+            },
+            {
+              "name": "Earthquake Museum",
+              "tip_5lang": {
+                "de": "Gute Heizung macht den Museumsbesuch komfortabel.",
+                "hu": "A jó fűtés kényelmessé teszi a múzeumlátogatást.",
+                "ro": "Încălzirea bună face vizita la muzeu confortabilă.",
+                "en": "Good heating makes the museum visit comfortable."
+              }
+            },
+            {
+              "name": "Lunch in the Center",
+              "tip_5lang": {
+                "de": "Gönnen Sie sich eine heiße türkische Suppe (Çorba).",
+                "hu": "Kóstoljon meg egy forró török levest (Çorba).",
+                "ro": "Savurați o supă turcească fierbinte (Çorba).",
+                "en": "Indulge in a hot Turkish soup (Çorba)."
+              }
+            },
+            {
+              "name": "Kent Park",
+              "tip_5lang": {
+                "de": "Genießen Sie den Park vor dem Sonnenuntergang um 17 Uhr.",
+                "hu": "Élvezze a parkot a 17 órai naplemente előtt.",
+                "ro": "Bucurați-vă de parc înainte de apusul de la ora 17:00.",
+                "en": "Enjoy the park before the early sunset at 17:00."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich in Schichten, da es im Wind sehr kalt sein kann.",
+              "Die Sonne geht im Winter bereits gegen 17:00 Uhr unter.",
+              "Suchen Sie regelmäßig Cafés auf, um sich bei einem Tee aufzuwärmen.",
+              "Vorsicht vor glatten Stellen auf dem Kopfsteinpflaster.",
+              "Die Museen sind perfekte Zufluchtsorte bei eisigen Temperaturen."
+            ],
+            "hu": [
+              "Öltözzön rétegesen, mert a szélben nagyon hideg lehet.",
+              "A nap télen már 17:00 körül lemegy.",
+              "Térjen be gyakran kávézókba egy meleg teára.",
+              "Vigyázzon a csúszós foltokra a macskaköveken.",
+              "A múzeumok tökéletes menedékek a fagyos hőmérséklet elől."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi, poate fi foarte frig când bate vântul.",
+              "Soarele apune devreme, în jurul orei 17:00.",
+              "Vizitați cafenelele des pentru a vă încălzi cu un ceai.",
+              "Atenție la porțiunile alunecoase de pe pavaj.",
+              "Muzeele sunt refugii perfecte împotriva temperaturilor scăzute."
+            ],
+            "en": [
+              "Dress in layers as it can get very cold in the wind.",
+              "The sun sets early in winter, around 17:00.",
+              "Visit cafes regularly to warm up with a Turkish tea.",
+              "Watch out for slippery patches on cobblestone surfaces.",
+              "Museums are perfect escapes from freezing temperatures."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -630,6 +824,196 @@
           "Adapazarı is mostly flat, making it great for cycling.",
           "Be aware of traffic, especially in the city center."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour durch Adapazarı bei Regen erfordert Vorsicht, bietet aber eine besondere Atmosphäre im Kent Park. Besuchen Sie das Erdbebenmuseum für eine trockene Pause, bevor Sie zur Çark-Straße fahren. Mittags bieten die Moschee und das Sakarya-Museum Schutz, während die Fahrt am Flussufer bei leichtem Nieselregen fast mystisch wirkt.",
+            "hu": "Az esős Adapazarı kerékpáron óvatosságot igényel, de a Kent Park ilyenkor különleges hangulatot áraszt. Látogasson el a Földrengés Múzeumba egy száraz szünetre, mielőtt a Çark utca felé venné az irányt. Délben a mecset és a Sakarya Múzeum nyújt menedéket, a folyóparti tekerés pedig szinte misztikus a könnyű szitálásban.",
+            "ro": "O plimbare cu bicicleta prin Adapazarı pe ploaie necesită prudență, dar oferă o atmosferă specială în Kent Park. Vizitați Muzeul Cutremurului pentru o pauză uscată înainte de a merge spre strada Çark. La prânz, moscheea și Muzeul Sakarya oferă adăpost, iar plimbarea pe malul râului este aproape mistică prin burniță.",
+            "en": "A bike ride through Adapazarı in the rain requires caution but offers a special atmosphere in Kent Park. Visit the Earthquake Museum for a dry break before heading to Çark Street. At midday, the mosque and Sakarya Museum provide shelter, while the ride along the river feels almost mystical in the light drizzle."
+          },
+          "stops": [
+            {
+              "name": "Kent Park",
+              "tip_5lang": {
+                "de": "Vorsicht auf nassen Blättern und Kurven.",
+                "hu": "Vigyázzon a vizes levelekre és a kanyarokra.",
+                "ro": "Atenție la frunzele ude și la curbe.",
+                "en": "Watch out for wet leaves and slippery turns."
+              }
+            },
+            {
+              "name": "Earthquake Museum",
+              "tip_5lang": {
+                "de": "Sicherer Fahrradabstellplatz am Eingang vorhanden.",
+                "hu": "Biztonságos biciklitároló található a bejáratnál.",
+                "ro": "Rastel de biciclete securizat disponibil la intrare.",
+                "en": "Secure bike parking is available at the entrance."
+              }
+            },
+            {
+              "name": "Çark Street",
+              "tip_5lang": {
+                "de": "Fahren Sie langsam wegen Fußgängern mit Regenschirmen.",
+                "hu": "Tekerjen lassan az esernyős gyalogosok miatt.",
+                "ro": "Circulați cu viteză redusă din cauza pietonilor cu umbrele.",
+                "en": "Ride slowly due to pedestrians with umbrellas."
+              }
+            },
+            {
+              "name": "Orhan Gazi Mosque",
+              "tip_5lang": {
+                "de": "Parken Sie das Rad unter einem Vordach in der Nähe.",
+                "hu": "Parkolja a biciklit egy közeli előtető alá.",
+                "ro": "Parcați bicicleta sub o copertină din apropiere.",
+                "en": "Park your bike under a nearby awning if possible."
+              }
+            },
+            {
+              "name": "Sakarya Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch zum Trocknen der Kleidung.",
+                "hu": "Használja ki a múzeumlátogatást a ruházat szárítására.",
+                "ro": "Folosiți vizita la muzeu pentru a vă usca hainele.",
+                "en": "Use the museum visit to dry off your gear."
+              }
+            },
+            {
+              "name": "Ride along the river",
+              "tip_5lang": {
+                "de": "Schutzbleche sind bei Pfützen am Fluss unerlässlich.",
+                "hu": "A sárvédő elengedhetetlen a folyóparti tócsáknál.",
+                "ro": "Apărătorile sunt esențiale pentru bălțile de lângă râu.",
+                "en": "Mudguards are essential for the puddles along the river."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie unbedingt Schutzbleche gegen aufspritzendes Wasser.",
+              "Die Bremswege verlängern sich auf nasser Fahrbahn erheblich.",
+              "Vermeiden Sie metallene Schachtdeckel, diese sind extrem rutschig.",
+              "Wasserdichte Packtaschen schützen Ihre Habseligkeiten.",
+              "Ein Fahrrad-Regenponcho ist bei diesem Wetter Gold wert."
+            ],
+            "hu": [
+              "Használjon sárvédőt a felcsapódó víz ellen.",
+              "A fékút vizes úton jelentősen meghosszabbodik.",
+              "Kerülje a fém csatornafedeleket, mert rendkívül csúszósak.",
+              "A vízálló táskák megvédik értékeit.",
+              "Egy kerékpáros esőponcsó aranyat ér ilyenkor."
+            ],
+            "ro": [
+              "Folosiți apărători de noroi împotriva apei împroșcate.",
+              "Distanța de frânare crește considerabil pe carosabil ud.",
+              "Evitați capacele de canal metalice, sunt extrem de alunecoase.",
+              "Genzile impermeabile vă vor proteja bunurile.",
+              "O pelerină de ploaie pentru bicicletă este esențială."
+            ],
+            "en": [
+              "Make sure to use mudguards against splashing water.",
+              "Braking distances increase significantly on wet roads.",
+              "Avoid metal manhole covers; they are extremely slippery.",
+              "Waterproof panniers will protect your belongings.",
+              "A cycling rain poncho is invaluable in this weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frostige Morgenstunden im Kent Park bieten eine erfrischende Kulisse für Radfahrer. Das Erdbebenmuseum bietet eine willkommene Aufwärmpause, bevor es durch die winterliche Çark-Straße geht. Nach einem Besuch der historischen Moschee und des Sakarya-Museums endet die Tour mit einer Fahrt entlang des Flusses, bei der Sie die klare Winterluft genießen können.",
+            "hu": "A fagyos reggelek a Kent Parkban frissítő környezetet kínálnak a kerékpárosoknak. A Földrengés Múzeum szívesen látott melegedő szünetet biztosít, mielőtt a téli Çark utcán tekernénk át. A történelmi mecset és a Sakarya Múzeum meglátogatása után a túra a folyóparton ér véget, ahol élvezheti a tiszta téli levegőt.",
+            "ro": "Diminețile geroase în Kent Park oferă un cadru revigorant pentru bicicliști. Muzeul Cutremurului oferă o pauză de încălzire binevenită înainte de a traversa strada Çark. După o vizită la moscheea istorică și la Muzeul Sakarya, turul se încheie cu o plimbare pe malul râului, unde puteți savura aerul curat.",
+            "en": "Frosty mornings in Kent Park provide a refreshing backdrop for cyclists. The Earthquake Museum offers a welcome warming break before cycling through wintry Çark Street. After visiting the historical mosque and Sakarya Museum, the tour ends with a ride along the river, enjoying the crisp winter air."
+          },
+          "stops": [
+            {
+              "name": "Kent Park",
+              "tip_5lang": {
+                "de": "Vorsicht vor überfrorenen Stellen am frühen Morgen.",
+                "hu": "Vigyázzon a lefagyott foltokra kora reggel.",
+                "ro": "Atenție la porțiunile înghețate dimineața devreme.",
+                "en": "Watch out for icy patches early in the morning."
+              }
+            },
+            {
+              "name": "Earthquake Museum",
+              "tip_5lang": {
+                "de": "Wärmen Sie Ihre Hände im beheizten Foyer auf.",
+                "hu": "Melegítse fel a kezeit a fűtött előtérben.",
+                "ro": "Încălziți-vă mâinile în holul încălzit.",
+                "en": "Warm up your hands in the heated foyer."
+              }
+            },
+            {
+              "name": "Çark Street",
+              "tip_5lang": {
+                "de": "Achten Sie auf Rutschgefahr auf dem Kopfsteinpflaster.",
+                "hu": "Ügyeljen a csúszásveszélyre a macskaköveken.",
+                "ro": "Atenție la riscul de alunecare pe pavaj.",
+                "en": "Be careful of slippery cobblestones in freezing weather."
+              }
+            },
+            {
+              "name": "Orhan Gazi Mosque",
+              "tip_5lang": {
+                "de": "Kurze Rast, um die Kälte abzuschütteln.",
+                "hu": "Rövid pihenő a hideg lerázására.",
+                "ro": "Scurt popas pentru a scăpa de frig.",
+                "en": "A short stop to shake off the cold."
+              }
+            },
+            {
+              "name": "Sakarya Museum",
+              "tip_5lang": {
+                "de": "Drinnen ist es gemütlich, ideal für eine Pause.",
+                "hu": "Bent barátságos az idő, ideális egy szünethez.",
+                "ro": "În interior este plăcut, ideal pentru o pauză.",
+                "en": "It's cozy inside, ideal for a longer break."
+              }
+            },
+            {
+              "name": "Ride along the river",
+              "tip_5lang": {
+                "de": "Schalten Sie Ihre Lichter vor 17:00 Uhr ein.",
+                "hu": "Kapcsolja be a lámpákat 17:00 előtt.",
+                "ro": "Aprindeți luminile înainte de ora 17:00.",
+                "en": "Turn on your lights before the 17:00 sunset."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Handschuhe und eine Mütze unter dem Helm.",
+              "Achten Sie auf Raureif, der Kurven sehr glatt machen kann.",
+              "Halten Sie die Kette gut geschmiert gegen winterliche Feuchtigkeit.",
+              "Die Sonne verschwindet früh, gute Beleuchtung ist Pflicht.",
+              "Trinken Sie zwischendurch heißen Tee aus einer Thermoskanne."
+            ],
+            "hu": [
+              "Viseljen szélálló kesztyűt és sapkát a sisak alatt.",
+              "Ügyeljen a zúzmarára, ami csúszóssá teheti a kanyarokat.",
+              "Tartsa a láncot jól olajozottan a téli nedvesség ellen.",
+              "A nap korán lemegy, a jó világítás kötelező.",
+              "Igyon forró teát termoszból a megállók alatt."
+            ],
+            "ro": [
+              "Purtați mănuși rezistente la vânt și o căciulă sub cască.",
+              "Atenție la chiciură, care poate face curbele foarte alunecoase.",
+              "Păstrați lanțul bine lubrifiat împotriva umezelii de iarnă.",
+              "Soarele apune devreme, iluminarea bună este obligatorie.",
+              "Beți ceai fierbinte dintr-un termos în timpul pauzelor."
+            ],
+            "en": [
+              "Wear windproof gloves and a cap under your helmet.",
+              "Watch out for frost, which can make turns very slippery.",
+              "Keep your chain well-lubricated against winter moisture.",
+              "The sun disappears early; good lighting is mandatory.",
+              "Drink hot tea from a thermos during your breaks."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -958,6 +1342,214 @@
           "Check the opening hours for the museums and the bridge.",
           "A car gives you the flexibility to explore the rural surroundings."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Genießen Sie Adapazarı bequem vom Auto aus, während der Regen gegen die Scheiben prasselt. Besuchen Sie die Orhan-Gazi-Moschee und das Sakarya-Museum mit kurzen Wegen vom Parkplatz. Die Fahrt zur Justinian-Brücke wirkt bei Regen besonders dramatisch, und ein Mittagessen am Fluss bietet einen gemütlichen Ausblick auf das Wasser, bevor Sie den Poyrazlar-See im Nebel erleben.",
+            "hu": "Élvezze Adapazarit az autó kényelméből, miközben az eső kopog a szélvédőn. Látogasson el az Orhan Gazi mecsetbe és a Sakarya Múzeumba, rövid sétával a parkolótól. A Justinianus-hídhoz vezető út esőben különösen drámai, a folyóparti ebéd pedig hangulatos kilátást nyújt a vízre, mielőtt a ködös Poyrazlar-tavat felfedezné.",
+            "ro": "Bucurați-vă de Adapazarı din confortul mașinii, în timp ce ploaia bate în parbriz. Vizitați Moscheea Orhan Gazi și Muzeul Sakarya cu plimbări scurte de la parcare. Drumul către Podul lui Justinian pare dramatic pe ploaie, iar un prânz lângă râu oferă o priveliște relaxantă, înainte de a vedea Lacul Poyrazlar în ceață.",
+            "en": "Enjoy Adapazarı from the comfort of your car while the rain drums on the windshield. Visit the Orhan Gazi Mosque and Sakarya Museum with short walks from the parking. The drive to Justinian's Bridge looks particularly dramatic in the rain, and a riverside lunch offers a cozy view of the water before experiencing Poyrazlar Lake in the fog."
+          },
+          "stops": [
+            {
+              "name": "Çark Street & Center",
+              "tip_5lang": {
+                "de": "Nutzen Sie Parkhäuser im Zentrum für trockenen Zugang.",
+                "hu": "Használja a belvárosi parkolóházakat a száraz bejutáshoz.",
+                "ro": "Folosiți parcările etajate din centru pentru acces uscat.",
+                "en": "Use multi-story car parks in the center for dry access."
+              }
+            },
+            {
+              "name": "Orhan Gazi Mosque",
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Platz für minimale Regenzeit.",
+                "hu": "Parkoljon közvetlenül a téren, hogy keveset ázzon.",
+                "ro": "Parcați direct în piață pentru a minimiza timpul în ploaie.",
+                "en": "Park directly in the square to minimize time in the rain."
+              }
+            },
+            {
+              "name": "Sakarya Museum",
+              "tip_5lang": {
+                "de": "Kostenlose Parkplätze oft in den Nebenstraßen verfügbar.",
+                "hu": "Ingyenes parkolás gyakran elérhető a mellékutcákban.",
+                "ro": "Parcare gratuită disponibilă adesea pe străzile laterale.",
+                "en": "Free parking is often available in the side streets."
+              }
+            },
+            {
+              "name": "Justinian's Bridge",
+              "tip_5lang": {
+                "de": "Vorsicht bei der Zufahrt auf unbefestigten Wegen.",
+                "hu": "Vigyázzon a megközelítésnél a földutakon.",
+                "ro": "Atenție la accesul pe drumurile neasfaltate.",
+                "en": "Be careful when approaching via unpaved paths."
+              }
+            },
+            {
+              "name": "Lunch by the river",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit Panoramofenstern.",
+                "hu": "Válasszon panorámaablakos éttermet.",
+                "ro": "Alegeți un restaurant cu ferestre panoramice.",
+                "en": "Choose a restaurant with large panoramic windows."
+              }
+            },
+            {
+              "name": "Poyrazlar Lake",
+              "tip_5lang": {
+                "de": "Die asphaltierte Ringstraße bietet gute Sicht bei Regen.",
+                "hu": "Az aszfaltozott körút jó rálátást biztosít esőben is.",
+                "ro": "Drumul asfaltat oferă o vedere bună chiar și pe ploaie.",
+                "en": "The paved ring road offers good views even in the rain."
+              }
+            },
+            {
+              "name": "Return to Center",
+              "tip_5lang": {
+                "de": "Rechnen Sie mit mehr Verkehr bei starkem Regen.",
+                "hu": "Számoljon sűrűbb forgalommal erős esőben.",
+                "ro": "Așteptați-vă la trafic mai intens pe ploaie torențială.",
+                "en": "Expect heavier traffic during heavy rainfall."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie die Wischerblätter vor der Abfahrt.",
+              "Vermeiden Sie tiefe Pfützen, um Aquaplaning zu verhindern.",
+              "Die Sicht am Poyrazlar-See kann durch Nebel eingeschränkt sein.",
+              "Nutzen Sie die Parkhäuser in der Nähe der Çark-Straße.",
+              "Fahren Sie auf den Zufahrtswegen zum Fluss besonders vorsichtig."
+            ],
+            "hu": [
+              "Ellenőrizze az ablaktörlőket indulás előtt.",
+              "Kerülje a mély tócsákat az aquaplaning elkerülése érdekében.",
+              "A látási viszonyok a Poyrazlar-tónál ködösek lehetnek.",
+              "Használja a Çark utca közeli parkolóházakat.",
+              "Vezessen különösen óvatosan a folyóhoz vezető utakon."
+            ],
+            "ro": [
+              "Verificați ștergătoarele înainte de plecare.",
+              "Evitați bălțile adânci pentru a preveni acvaplanarea.",
+              "Vizibilitatea la Lacul Poyrazlar poate fi redusă de ceață.",
+              "Folosiți parcările etajate de lângă strada Çark.",
+              "Conduceți cu prudență sporită pe drumurile spre râu."
+            ],
+            "en": [
+              "Check your wiper blades before setting off.",
+              "Avoid deep puddles to prevent aquaplaning.",
+              "Visibility at Poyrazlar Lake can be limited by fog.",
+              "Use the parking garages near Çark Street.",
+              "Drive extra carefully on the access roads to the river."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Winterausflug mit dem Auto führt Sie durch die stimmungsvoll beleuchtete Innenstadt von Adapazarı. Die historische Moschee und das Sakarya-Museum bieten warme Pausen, während die Justinian-Brücke in der klaren Winterluft majestätisch wirkt. Genießen Sie ein warmes Mittagessen am Fluss und beobachten Sie die winterliche Ruhe am Poyrazlar-See, bevor Sie im Dunkeln ins Zentrum zurückkehren.",
+            "hu": "A téli autós kirándulás Adapazarı hangulatosan kivilágított belvárosán vezet keresztül. A történelmi mecset és a Sakarya Múzeum meleg szüneteket kínálnak, míg a Justinianus-híd fenségesen fest a tiszta téli levegőben. Élvezzen egy meleg ebédet a folyóparton, és figyelje meg a téli nyugalmat a Poyrazlar-tónál, mielőtt sötétben visszatérne a központba.",
+            "ro": "O excursie de iarnă cu mașina vă poartă prin centrul orașului Adapazarı, luminat ambiental. Moscheea istorică și Muzeul Sakarya oferă pauze călduroase, în timp ce Podul lui Justinian arată maiestuos în aerul curat. Savurați un prânz cald lângă râu și admirați liniștea iernii la Lacul Poyrazlar, înainte de a reveni în centru pe întuneric.",
+            "en": "A winter car trip takes you through the atmospherically lit city center of Adapazarı. The historical mosque and Sakarya Museum offer warm breaks, while Justinian's Bridge looks majestic in the crisp winter air. Enjoy a warm riverside lunch and observe the winter tranquility at Poyrazlar Lake before returning to the center in the dark."
+          },
+          "stops": [
+            {
+              "name": "Çark Street & Center",
+              "tip_5lang": {
+                "de": "Heizung an und die Lichter der Stadt genießen.",
+                "hu": "Fűtést fel, és élvezze a város fényeit.",
+                "ro": "Porniți căldura și bucurați-vă de luminile orașului.",
+                "en": "Turn up the heat and enjoy the city lights."
+              }
+            },
+            {
+              "name": "Orhan Gazi Mosque",
+              "tip_5lang": {
+                "de": "Kurzer Stopp, der Motor bleibt warm.",
+                "hu": "Rövid megálló, a motor meleg marad.",
+                "ro": "Oprire scurtă, motorul rămâne cald.",
+                "en": "Short stop, the engine stays warm."
+              }
+            },
+            {
+              "name": "Sakarya Museum",
+              "tip_5lang": {
+                "de": "Warme Innenräume laden zum Verweilen ein.",
+                "hu": "A meleg belső terek hívogatnak a maradásra.",
+                "ro": "Interioarele calde vă invită să zăboviți.",
+                "en": "Warm interiors invite you to stay a while."
+              }
+            },
+            {
+              "name": "Justinian's Bridge",
+              "tip_5lang": {
+                "de": "Vorsicht vor Straßenglätte auf der Brückenzufahrt.",
+                "hu": "Vigyázzon az út jegesedésére a hídhoz vezető úton.",
+                "ro": "Atenție la polei pe drumul de acces spre pod.",
+                "en": "Watch out for icy roads on the bridge approach."
+              }
+            },
+            {
+              "name": "Lunch by the river",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das kalte Wasser vom Warmen aus.",
+                "hu": "Élvezze a kilátást a hideg vízre a melegből.",
+                "ro": "Admirați apa rece din interiorul călduros.",
+                "en": "Enjoy the view of the cold water from the warmth."
+              }
+            },
+            {
+              "name": "Poyrazlar Lake",
+              "tip_5lang": {
+                "de": "Die Sonne sinkt früh hinter den See, gegen 17 Uhr.",
+                "hu": "A nap korán, 17 óra körül bukik a tó mögé.",
+                "ro": "Soarele apune devreme peste lac, în jur de ora 17:00.",
+                "en": "The sun sets early behind the lake, around 17:00."
+              }
+            },
+            {
+              "name": "Return to Center",
+              "tip_5lang": {
+                "de": "Stadtverkehr kann bei Dunkelheit zäher sein.",
+                "hu": "A városi forgalom sötétben lassabb lehet.",
+                "ro": "Traficul urban poate fi mai lent după lăsarea întunericului.",
+                "en": "City traffic can be slower after dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Ihr Frostschutzmittel aufgefüllt ist.",
+              "Achten Sie auf Brücken auf mögliche Glätte.",
+              "Die Parkplatzsuche im Zentrum ist im Winter einfacher.",
+              "Besuchen Sie den Poyrazlar-See vor 16:30 Uhr für Tageslicht.",
+              "Lassen Sie die Heizung im Stand nicht zu lange laufen."
+            ],
+            "hu": [
+              "Győződjön meg róla, hogy a fagyálló fel van töltve.",
+              "A hidakon figyeljen az esetleges jegesedésre.",
+              "Télen a belvárosi parkolás gyakran egyszerűbb.",
+              "Látogasson el a Poyrazlar-tóhoz 16:30 előtt a napfényért.",
+              "Ne járassa túl sokáig a motort álló helyzetben."
+            ],
+            "ro": [
+              "Asigurați-vă că nivelul antigelului este optim.",
+              "Atenție la polei pe poduri.",
+              "Găsirea unui loc de parcare în centru e mai ușoară iarna.",
+              "Vizitați Lacul Poyrazlar înainte de 16:30 pentru lumină.",
+              "Nu lăsați motorul pornit prea mult timp în staționare."
+            ],
+            "en": [
+              "Ensure your antifreeze levels are topped up.",
+              "Watch out for potential ice on bridges.",
+              "Parking in the center is often easier in winter.",
+              "Visit Poyrazlar Lake before 16:30 for daylight.",
+              "Avoid idling the engine for too long while parked."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1262,6 +1854,196 @@
           "Dolmuş (shared taxis) are a flexible alternative to buses.",
           "Be aware that buses may run less frequently in the evening."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie das gut ausgebaute Busnetz von Adapazarı, um trocken durch den Tag zu kommen. Nach Ihrer Ankunft im Zentrum bieten die Museen ideale Ziele für Regenstunden. Der Transit zum Kent Park ermöglicht eine bequeme Fahrt, und ein Mittagessen im Parkpavillon lässt Sie den Regen aus der Ferne genießen, bevor Sie das Erdbebenmuseum besuchen.",
+            "hu": "Használja ki Adapazarı kiterjedt buszhálózatát, hogy szárazon ússza meg a napot. A belvárosba érkezés után a múzeumok ideális célpontok az esős órákra. A Kent Parkba tartó busz kényelmes utazást biztosít, a park pavilonjában elfogyasztott ebéd közben pedig távolról szemlélheti az esőt a Földrengés Múzeum előtt.",
+            "ro": "Folosiți rețeaua de autobuze din Adapazarı pentru a rămâne uscați. După sosirea în centru, muzeele sunt destinații ideale pentru orele ploioase. Tranzitul spre Kent Park oferă o călătorie confortabilă, iar un prânz în pavilionul parcului vă permite să priviți ploaia de la distanță înainte de vizita la Muzeul Cutremurului.",
+            "en": "Use Adapazarı's extensive bus network to stay dry throughout the day. After arriving in the center, the museums are ideal destinations for rainy hours. Transit to Kent Park provides a comfortable ride, and lunch in the park pavilion lets you enjoy the rain from afar before visiting the Earthquake Museum."
+          },
+          "stops": [
+            {
+              "name": "Arrival in the Center",
+              "tip_5lang": {
+                "de": "Zentrale Bushaltestellen sind meist überdacht.",
+                "hu": "A központi buszmegállók többnyire fedettek.",
+                "ro": "Stațiile centrale de autobuz sunt de obicei acoperite.",
+                "en": "Central bus stops are mostly sheltered."
+              }
+            },
+            {
+              "name": "Çark Street & Orhan Gazi Mosque",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen den Haltestellen und Sehenswürdigkeiten.",
+                "hu": "Rövid távolságok a megállók és a látnivalók között.",
+                "ro": "Distanțe scurte între stații și obiective.",
+                "en": "Short walks between bus stops and sights."
+              }
+            },
+            {
+              "name": "Sakarya Museum",
+              "tip_5lang": {
+                "de": "Haltestellen befinden sich in unmittelbarer Nähe.",
+                "hu": "A buszmegállók a közvetlen közelben vannak.",
+                "ro": "Stațiile de autobuz sunt în imediata apropiere.",
+                "en": "Bus stops are located in the immediate vicinity."
+              }
+            },
+            {
+              "name": "Transit to the Park Cluster",
+              "tip_5lang": {
+                "de": "Bussen bieten eine warme und trockene Umgebung.",
+                "hu": "A buszok meleg és száraz környezetet biztosítanak.",
+                "ro": "Autobuzele oferă un mediu cald și uscat.",
+                "en": "Buses provide a warm and dry environment."
+              }
+            },
+            {
+              "name": "Kent Park & Lunch",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Café nahe der Bushaltestelle.",
+                "hu": "Válasszon kávézót a buszmegálló közelében.",
+                "ro": "Alegeți o cafenea aproape de stația de autobuz.",
+                "en": "Choose a cafe near the bus stop."
+              }
+            },
+            {
+              "name": "Earthquake Museum",
+              "tip_5lang": {
+                "de": "Der Bus zurück ins Zentrum fährt regelmäßig.",
+                "hu": "A központba tartó buszok rendszeresen járnak.",
+                "ro": "Autobuzul spre centru circulă la intervale regulate.",
+                "en": "The bus back to the center runs regularly."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Kart 54 für einfaches Bezahlen im Bus.",
+              "Die Busse sind bei Regen oft voller, planen Sie Zeit ein.",
+              "Halten Sie Ausschau nach digitalen Anzeigen an den Haltestellen.",
+              "Ein kleiner Taschenregenschirm ist für die Umstiege ideal.",
+              "Zentrale Knotenpunkte wie 'Donatım' bieten viele Umstiege."
+            ],
+            "hu": [
+              "Használja a Kart 54 kártyát az egyszerű fizetéshez.",
+              "Esőben a buszok zsúfoltabbak lehetnek, számoljon több idővel.",
+              "Figyelje a digitális kijelzőket a megállókban.",
+              "Egy kis összecsukható esernyő ideális az átszállásokhoz.",
+              "A központi csomópontok, mint a 'Donatım', sok átszállást kínálnak."
+            ],
+            "ro": [
+              "Folosiți Kart 54 pentru plata facilă în autobuz.",
+              "Autobuzele pot fi mai aglomerate pe ploaie, alocați timp extra.",
+              "Urmăriți panourile digitale din stații.",
+              "O umbrelă compactă este ideală pentru transferuri.",
+              "Nodurile centrale precum 'Donatım' oferă multe conexiuni."
+            ],
+            "en": [
+              "Use the Kart 54 for easy payment on the bus.",
+              "Buses are often more crowded in the rain; plan extra time.",
+              "Look out for digital displays at the bus stops.",
+              "A small folding umbrella is ideal for transfers.",
+              "Central hubs like 'Donatım' offer many connections."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Reisen Sie im warmen Bus durch das winterliche Adapazarı und erkunden Sie das Zentrum bequem. Die Museen bieten faszinierende Einblicke und wohlige Wärme, während die Transitfahrten Ihnen einen Blick auf das verschneite Stadtbild ermöglichen. Genießen Sie den Kent Park in der Wintersonne, bevor Sie mit dem Bus rechtzeitig vor Einbruch der Dunkelheit zum Erdbebenmuseum fahren.",
+            "hu": "Utazzon meleg buszokon a téli Adapazariban, és fedezze fel kényelmesen a központot. A múzeumok lenyűgöző betekintést és kellemes meleget kínálnak, míg a buszos utazások során megcsodálhatja a téli városképet. Élvezze a Kent Parkot a téli napsütésben, mielőtt busszal, még sötétedés előtt a Földrengés Múzeumhoz érne.",
+            "ro": "Călătoriți cu autobuzul călduros prin Adapazarı iarna și explorați centrul confortabil. Muzeele oferă perspective fascinante și căldură, în timp ce călătoriile cu autobuzul vă permit să vedeți orașul iarna. Bucurați-vă de Kent Park sub soarele de iarnă, înainte de a lua autobuzul spre Muzeul Cutremurului înainte de lăsarea serii.",
+            "en": "Travel in warm buses through wintry Adapazarı and explore the center comfortably. The museums offer fascinating insights and cozy warmth, while bus rides give you a view of the wintry cityscape. Enjoy Kent Park in the winter sun before taking the bus to the Earthquake Museum in time before dark."
+          },
+          "stops": [
+            {
+              "name": "Arrival in the Center",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz in den beheizten Wartebereichen.",
+                "hu": "Keressen menedéket a fűtött várakozóhelyeken.",
+                "ro": "Căutați adăpost în zonele de așteptare încălzite.",
+                "en": "Seek shelter in heated waiting areas if available."
+              }
+            },
+            {
+              "name": "Çark Street & Orhan Gazi Mosque",
+              "tip_5lang": {
+                "de": "Zentrale Haltestellen sind gut beleuchtet.",
+                "hu": "A központi megállók jól megvilágítottak.",
+                "ro": "Stațiile centrale sunt bine iluminate.",
+                "en": "Central bus stops are well-lit."
+              }
+            },
+            {
+              "name": "Sakarya Museum",
+              "tip_5lang": {
+                "de": "Ein warmer Stopp auf Ihrer Route.",
+                "hu": "Egy meleg állomás az útvonalán.",
+                "ro": "O oprire călduroasă pe ruta dumneavoastră.",
+                "en": "A warm stop on your route."
+              }
+            },
+            {
+              "name": "Transit to the Park Cluster",
+              "tip_5lang": {
+                "de": "Genießen Sie die Fahrt im beheizten Bus.",
+                "hu": "Élvezze az utazást a fűtött buszon.",
+                "ro": "Bucurați-vă de călătoria în autobuzul încălzit.",
+                "en": "Enjoy the ride in the heated bus."
+              }
+            },
+            {
+              "name": "Kent Park & Lunch",
+              "tip_5lang": {
+                "de": "Die Cafés im Park sind im Winter sehr gemütlich.",
+                "hu": "A park kávézói télen nagyon hangulatosak.",
+                "ro": "Cafenelele din parc sunt foarte primitoare iarna.",
+                "en": "The park cafes are very cozy in winter."
+              }
+            },
+            {
+              "name": "Earthquake Museum",
+              "tip_5lang": {
+                "de": "Beachten Sie den Winterfahrplan der Busse.",
+                "hu": "Ügyeljen a buszok téli menetrendjére.",
+                "ro": "Verificați mersul autobuzelor pentru programul de iarnă.",
+                "en": "Check the winter schedule for the buses."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse fahren im Winter oft pünktlicher als bei Regen.",
+              "Die Heizung in den Bussen ist meist sehr effektiv.",
+              "Nutzen Sie Apps zur Echtzeit-Verfolgung der Busse.",
+              "Tragen Sie warme Kleidung für die Wartezeiten an Haltestellen.",
+              "Die Sonne geht um 17:00 Uhr unter, planen Sie Ihre Rückfahrt."
+            ],
+            "hu": [
+              "Télen a buszok gyakran pontosabbak, mint esőben.",
+              "A buszok fűtése általában nagyon hatékony.",
+              "Használjon alkalmazásokat a buszok valós idejű követéséhez.",
+              "Öltözzön melegen a megállókban való várakozáshoz.",
+              "A nap 17:00-kor lemegy, tervezze meg a visszautat."
+            ],
+            "ro": [
+              "Autobuzele sunt adesea mai punctuale iarna decât pe ploaie.",
+              "Încălzirea în autobuze este de obicei foarte eficientă.",
+              "Folosiți aplicații pentru urmărirea în timp real a autobuzelor.",
+              "Purtați haine groase pentru timpul de așteptare în stații.",
+              "Soarele apune la ora 17:00, planificați-vă întoarcerea."
+            ],
+            "en": [
+              "Buses are often more punctual in winter than in the rain.",
+              "Heating on the buses is usually very effective.",
+              "Use apps for real-time tracking of the buses.",
+              "Wear warm clothes for waiting times at bus stops.",
+              "The sun sets at 17:00; plan your return journey accordingly."
+            ]
+          }
+        }
       }
     }
   }

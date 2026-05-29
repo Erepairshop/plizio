@@ -379,6 +379,206 @@
           "Be mindful of appropriate dress code when entering mosques.",
           "The city is compact, so everything is within easy walking distance."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie an der Plava Voda, wo der Regen das Rauschen des Baches verstärkt. Suchen Sie Schutz im Ivo-Andrić-Museum und bewundern Sie die Bunte Moschee unterm Schirm. Der Aufstieg zur Festung bietet dramatische Ausblicke, ist aber rutschig. Beenden Sie den Tag in einer warmen Kafana bei traditionellem Kaffee und beobachten Sie den Regen über der Altstadt.",
+            "hu": "Kezdje a Plava Vodánál, ahol az eső még inkább felerősíti a patak zúgását. Keressen menedéket az Ivo Andrić Múzeumban, és csodálja meg a Tarka mecsetet esernyő alól. A várba vezető út csúszós, de a látvány megéri. Zárja a napot egy meleg kafanában egy hagyományos bosnyák kávéval, miközben az ablakon túli esős óvárost figyeli.",
+            "ro": "Începeți la Plava Voda, unde ploaia intensifică susurul pârâului. Adăpostiți-vă în Muzeul Ivo Andrić și admirați Moscheea Pictată sub umbrelă. Urcarea la cetate oferă vederi dramatice, dar este alunecoasă. Încheiați ziua într-o kafana caldă cu o cafea tradițională bosniacă, privind ploaia peste centrul vechi.",
+            "en": "Start at Plava Voda where the rain amplifies the stream's rush. Take refuge in the Ivo Andrić Museum and admire the Painted Mosque under your umbrella. The climb to the Fortress offers dramatic views but is slippery, so tread carefully. End your day in a warm kafana with traditional Bosnian coffee, watching the rain over the Old Town windows."
+          },
+          "stops": [
+            {
+              "name": "Plava Voda (Blue Water)",
+              "tip_5lang": {
+                "de": "Uferwege können bei Regen sehr rutschig sein.",
+                "hu": "A patakparti utak esőben nagyon csúszósak lehetnek.",
+                "ro": "Potecile de pe mal pot fi foarte alunecoase pe ploaie.",
+                "en": "Riverside paths can be very slippery in the rain."
+              }
+            },
+            {
+              "name": "Birthplace of Ivo Andrić",
+              "tip_5lang": {
+                "de": "Idealer Zufluchtsort für eine trockene Kulturstunde.",
+                "hu": "Ideális menedék egy száraz, kulturális órához.",
+                "ro": "Refugiu ideal pentru o oră de cultură la adăpost.",
+                "en": "Ideal shelter for a dry hour of culture indoors."
+              }
+            },
+            {
+              "name": "Sulejmanija Mosque (Painted Mosque)",
+              "tip_5lang": {
+                "de": "Der überdachte Portikus bietet Schutz vor Güssen.",
+                "hu": "A fedett árkádsor védelmet nyújt a záporok elől.",
+                "ro": "Porticul acoperit oferă protecție împotriva ploii.",
+                "en": "The covered portico offers protection from showers."
+              }
+            },
+            {
+              "name": "Elči Ibrahim-paša Madrasah",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur vom trockenen Eingang.",
+                "hu": "Csodálja az építészetet a száraz bejárat felől.",
+                "ro": "Admirați arhitectura din zona uscată a intrării.",
+                "en": "Admire the architecture from the dry entrance area."
+              }
+            },
+            {
+              "name": "Travnik Fortress",
+              "tip_5lang": {
+                "de": "Vorsicht auf den nassen Steinstufen der Festung.",
+                "hu": "Vigyázzon a vár vizes, csúszós kőlépcsőin.",
+                "ro": "Atenție pe treptele de piatră ude ale cetății.",
+                "en": "Be careful on the wet stone steps of the fortress."
+              }
+            },
+            {
+              "name": "Gornja Čaršija Clock Tower",
+              "tip_5lang": {
+                "de": "Schnelles Foto, dann Deckung im nahen Café suchen.",
+                "hu": "Gyors fotó, majd keressen fedezéket a közeli kávézóban.",
+                "ro": "O poză rapidă, apoi căutați adăpost la cafenea.",
+                "en": "Quick photo, then seek cover in a nearby cafe."
+              }
+            },
+            {
+              "name": "Jeni Mosque",
+              "tip_5lang": {
+                "de": "Ein ruhiger, trockener Ort zur Besinnung.",
+                "hu": "Csendes, száraz hely az elmélyüléshez.",
+                "ro": "Un loc liniștit și uscat pentru reflecție.",
+                "en": "A quiet, dry place for reflection away from rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nehmen Sie einen stabilen Regenschirm mit, da Windböen in Travnik häufig sind.",
+              "Die Kopfsteinpflastergassen der Altstadt werden bei Nässe sehr rutschig.",
+              "Nutzen Sie die vielen Cafés (Kafanas) für kurze Trockenpausen.",
+              "Besuchen Sie Museen und Moscheen während der stärksten Regenschauer."
+            ],
+            "hu": [
+              "Vigyen magával erős esernyőt, mert Travnikban gyakoriak a széllökések.",
+              "Az óváros macskaköves utcái nedvesen nagyon csúszóssá válnak.",
+              "Használja ki a sok kávézót (kafana) rövid száradási szünetekre.",
+              "A legerősebb záporok idejére időzítse a múzeum- és mecsetlátogatást."
+            ],
+            "ro": [
+              "Luați o umbrelă rezistentă, deoarece rafalele de vânt sunt frecvente.",
+              "Străzile pietruite din centrul vechi dețin foarte alunecoase.",
+              "Folosiți numeroasele cafenele (kafanas) pentru scurte pauze de uscare.",
+              "Vizitați muzeele și moșcheile în timpul celor mai puternice averse."
+            ],
+            "en": [
+              "Take a sturdy umbrella as wind gusts are common in Travnik.",
+              "The cobblestone streets of the Old Town become very slippery when wet.",
+              "Use the many cafes (kafanas) for short drying breaks.",
+              "Schedule museum and mosque visits during the heaviest showers."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die kalte Luft vom Vlašić-Berg lässt die Plava Voda im Frost nebeln. Suchen Sie Wärme in der Welt von Ivo Andrić und der spirituellen Stille der Moscheen. Die Festung bietet ein herrliches weißes Panorama der Stadt, auch wenn die Sonne früh sinkt. Beenden Sie den Wintergang mit einem heißen 'Salep' in der gemütlichen Gornja Čaršija, wenn die Lichter angehen.",
+            "hu": "A Vlašić-hegy felől érkező hideg levegő ködbe borítja a jeges Plava Vodát. Keressen meleget Ivo Andrić irodalmi világában és a mecsetek csendjében. A vár lenyűgöző fehér panorámát nyújt a városra, bár a nap korán nyugszik. Zárja a téli sétát egy forró 'salep' itallal a hangulatos Gornja Čaršijában, ahogy kigyúlnak a fények.",
+            "ro": "Aerul rece de pe muntele Vlašić face ca izvorul Plava Voda să scoată aburi în ger. Căutați căldura în lumea lui Ivo Andrić și în liniștea moșcheilor. Cetatea oferă o panoramă albă superbă asupra orașului, deși soarele apune devreme. Încheiați plimbarea cu un 'salep' fierbinte în Gornja Čaršija, pe măsură ce se aprind luminile.",
+            "en": "The cold air from Vlašić mountain makes the Plava Voda spring mist beautifully in the frost. Seek warmth in the literary world of Ivo Andrić and the spiritual silence of the mosques. The Fortress offers a stunning white panorama of the city, though the sun sets early. Conclude your winter walk with a hot 'salep' in cozy Gornja Čaršija as the lights twinkle on."
+          },
+          "stops": [
+            {
+              "name": "Plava Voda (Blue Water)",
+              "tip_5lang": {
+                "de": "Das Wasser dampft mystisch bei Minusgraden.",
+                "hu": "A víz misztikusan gőzölög a mínuszokban.",
+                "ro": "Apa scoate aburi mistici la temperaturi negative.",
+                "en": "The water mists mystically in freezing temperatures."
+              }
+            },
+            {
+              "name": "Birthplace of Ivo Andrić",
+              "tip_5lang": {
+                "de": "Beheizte Räume bieten einen gemütlichen Rückzugsort.",
+                "hu": "A fűtött szobák kellemes kulturális menedéket nyújtanak.",
+                "ro": "Încăperile încălzite oferă un refugiu cultural primitor.",
+                "en": "Heated rooms offer a cozy cultural retreat from the cold."
+              }
+            },
+            {
+              "name": "Sulejmanija Mosque (Painted Mosque)",
+              "tip_5lang": {
+                "de": "Die Farben wirken im grauen Winterlicht besonders kräftig.",
+                "hu": "A színek különösen élénkek a szürke téli fényben.",
+                "ro": "Culorile par deosebit de vii în lumina gri de iarnă.",
+                "en": "The colors appear especially vivid in the grey winter light."
+              }
+            },
+            {
+              "name": "Elči Ibrahim-paša Madrasah",
+              "tip_5lang": {
+                "de": "Achten Sie auf den Dampf aus den nahen Schornsteinen.",
+                "hu": "Figyelje a közeli kéményekből felszálló füstöt.",
+                "ro": "Observați aburul ce iese din coșurile din apropiere.",
+                "en": "Notice the steam rising from nearby chimneys."
+              }
+            },
+            {
+              "name": "Travnik Fortress",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das verschneite Travnik.",
+                "hu": "Élvezze a kilátást a havas Travnikra.",
+                "ro": "Bucurați-vă de vederea asupra orașului Travnik înzăpezit.",
+                "en": "Enjoy the panoramic view of snowy Travnik from above."
+              }
+            },
+            {
+              "name": "Gornja Čaršija Clock Tower",
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang ist im Winter bereits gegen 16:30 Uhr.",
+                "hu": "A naplemente télen már 16:30 körül bekövetkezik.",
+                "ro": "Apusul de soare este deja în jur de ora 16:30 iarna.",
+                "en": "Sunset occurs as early as 4:30 PM in winter."
+              }
+            },
+            {
+              "name": "Jeni Mosque",
+              "tip_5lang": {
+                "de": "Ein Moment stiller Wärme im Inneren.",
+                "hu": "Egy pillanatnyi csendes melegség odabent.",
+                "ro": "Un moment de liniște și căldură în interior.",
+                "en": "Step inside for a moment of quiet warmth."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich nach dem Zwiebelprinzip wegen des kalten Windes.",
+              "Tageslicht ist begrenzt; starten Sie früh, um die Festung zu sehen.",
+              "Probieren Sie 'Salep', ein heißes Wintergetränk, in den Cafés.",
+              "Vorsicht vor vereisten Stellen auf dem Weg zur Festung."
+            ],
+            "hu": [
+              "Öltözzön rétegesen a Vlašić felől fújó hideg szél miatt.",
+              "A nappali fény kevés; kezdjen korán a vár látogatásához.",
+              "Kóstolja meg a 'salep'-et, a forró téli italt a kávézókban.",
+              "Vigyázzon a jeges szakaszokra a vár felé vezető úton."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi din cauza vântului rece de pe munte.",
+              "Lumina zilei este limitată; începeți devreme pentru cetate.",
+              "Încercați 'salep', o băutură caldă de iarnă, în cafenele.",
+              "Atenție la porțiunile înghețate în drum spre cetate."
+            ],
+            "en": [
+              "Dress in layers because of the cold wind from the mountain.",
+              "Daylight is limited; start early to see the fortress.",
+              "Try 'salep', a hot winter drink, in the local cafes.",
+              "Watch out for icy patches on the way to the fortress."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -752,6 +952,206 @@
           "Some streets can be challenging for cyclists; be careful in traffic.",
           "A bike lock is essential for when you visit the sights."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radeln Sie vorsichtig entlang der nassen Plava Voda. Nutzen Sie die Museen für längere Pausen, während der Regen auf die Dächer trommelt. Die Fahrt zur Bunten Moschee erfordert gute Bremsen auf dem glatten Asphalt. Trotz Nässe bleibt die Atmosphäre in Travniks Gassen einzigartig, wenn man wasserfest ausgerüstet ist.",
+            "hu": "Tekerjen óvatosan a vizes Plava Voda mentén. Használja a múzeumokat hosszabb pihenőkre, miközben az eső a tetőkön kopog. A Tarka mecsethez vezető út jó fékeket igényel a síkos aszfalton. A vizesedés ellenére Travnik sikátorainak hangulata egyedi marad, ha vízálló felszereléssel indul útnak.",
+            "ro": "Pedalați cu atenție pe lângă apa udă de la Plava Voda. Folosiți muzeele pentru pauze lungi în timp ce ploaia bate în acoperișuri. Drumul spre Moscheea Pictată necesită frâne bune pe asfaltul ud. În ciuda umezelii, atmosfera rămâne unică dacă sunteți echipat impermeabil.",
+            "en": "Cycle carefully along the wet Plava Voda. Use museums for longer breaks while the rain drums on the roofs. The ride to the Painted Mosque requires good brakes on the slick asphalt. Despite the wetness, the atmosphere of Travnik's alleys remains unique if you are equipped with waterproof gear."
+          },
+          "stops": [
+            {
+              "name": "Plava Voda (Blue Water)",
+              "tip_5lang": {
+                "de": "Vorsicht vor Aquaplaning auf den Uferwegen.",
+                "hu": "Vigyázzon a vízenúszásra a patakparti utakon.",
+                "ro": "Atenție la acvaplanare pe potecile de pe mal.",
+                "en": "Watch out for aquaplaning on the riverside paths."
+              }
+            },
+            {
+              "name": "Birthplace of Ivo Andrić",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad unter einem Vordach.",
+                "hu": "Parkolja le kerékpárját egy előtető alatt.",
+                "ro": "Parcați bicicleta sub un baldachin sau streșină.",
+                "en": "Park your bike under a canopy or overhang nearby."
+              }
+            },
+            {
+              "name": "Sulejmanija Mosque (Painted Mosque)",
+              "tip_5lang": {
+                "de": "Der Boden auf dem Vorplatz ist bei Regen sehr rutschig.",
+                "hu": "A mecset előtti tér esőben nagyon csúszós.",
+                "ro": "Podeaua din fața moșcheii este foarte alunecoasă.",
+                "en": "The ground in front of the mosque is very slippery when wet."
+              }
+            },
+            {
+              "name": "Elči Ibrahim-paša Madrasah",
+              "tip_5lang": {
+                "de": "Kurzer Stopp, um die Fassade im Regen zu bewundern.",
+                "hu": "Rövid megálló a homlokzat megcsodálására az esőben.",
+                "ro": "Oprire scurtă pentru a admira fațada prin ploaie.",
+                "en": "Short stop to admire the facade through the rain."
+              }
+            },
+            {
+              "name": "Travnik Fortress",
+              "tip_5lang": {
+                "de": "Der steile Anstieg ist bei Nässe eine Herausforderung.",
+                "hu": "A meredek emelkedő nedvesen komoly kihívás.",
+                "ro": "Urcarea abruptă este o provocare pe timp de ploaie.",
+                "en": "The steep climb is a challenge when the road is wet."
+              }
+            },
+            {
+              "name": "Gornja Čaršija Clock Tower",
+              "tip_5lang": {
+                "de": "Achten Sie auf Pfützen in den engen Gassen.",
+                "hu": "Ügyeljen a tócsákra a szűk utcákban.",
+                "ro": "Fiți atenți la bălți în străzile înguste.",
+                "en": "Watch out for puddles in the narrow streets."
+              }
+            },
+            {
+              "name": "Musala Clock Tower",
+              "tip_5lang": {
+                "de": "Suchen Sie danach Schutz in einer nahen Bäckerei.",
+                "hu": "Ez után keressen menedéket egy közeli pékségben.",
+                "ro": "După aceasta, căutați adăpost la o brutărie apropiată.",
+                "en": "Seek shelter in a nearby bakery after this stop."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind bei Travniks Bergwasser sehr zu empfehlen.",
+              "Prüfen Sie Ihre Bremsen vor dem steilen Abstieg von der Festung.",
+              "Vermeiden Sie das Befahren von nassem Kopfsteinpflaster, wenn möglich.",
+              "Tragen Sie helle, wasserfeste Kleidung für bessere Sichtbarkeit."
+            ],
+            "hu": [
+              "A sárvédő erősen ajánlott Travnik hegyi vizei miatt.",
+              "Ellenőrizze a fékeket a várból való meredek ereszkedés előtt.",
+              "Lehetőleg kerülje a vizes macskaköveket.",
+              "Viseljen világos, vízálló ruházatot a jobb láthatóságért."
+            ],
+            "ro": [
+              "Aripile de protecție sunt recomandate pentru apele de munte.",
+              "Verificați frânele înainte de coborârea abruptă de la cetate.",
+              "Evitați pedalatul pe piatră cubică udă dacă este posibil.",
+              "Purtați haine impermeabile deschise la culoare pentru vizibilitate."
+            ],
+            "en": [
+              "Mudguards are highly recommended for Travnik's mountain runoff.",
+              "Check your brakes before the steep descent from the fortress.",
+              "Avoid riding on wet cobblestones if possible.",
+              "Wear bright, waterproof clothing for better visibility."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Spüren Sie den eisigen Wind im Gesicht, während Sie durch das winterliche Travnik fahren. Die kahlen Bäume geben den Blick auf die Festung frei. Sichern Sie sich Aufwärmpausen in den Museen und genießen Sie den Kontrast zwischen dem kalten Metall Ihres Rades und dem warmen bosnischen Tee. Die Tage sind kurz, planen Sie Ihre Rückkehr vor der Dämmerung.",
+            "hu": "Érezze a jeges szelet az arcán, miközben a téli Travnikban teker. A kopár fák szabad kilátást engednek a várra. Biztosítson magának melegedő szüneteket a múzeumokban, és élvezze a kontrasztot a bicikli hideg fémje és a forró bosnyák tea között. A nappalok rövidek, tervezze a visszatérést még sötétedés előtt.",
+            "ro": "Simțiți vântul înghețat pe față în timp ce pedalați prin Travnik iarna. Copacii goliți lasă la vedere cetatea. Rezervați pauze de încălzire în muzee și bucurați-vă de contrastul dintre metalul rece al bicicletei și ceaiul cald. Zilele sunt scurte, planificați întoarcerea înainte de amurg.",
+            "en": "Feel the icy wind on your face as you cycle through winter Travnik. The bare trees open up views of the fortress. Secure warming breaks in museums and enjoy the contrast between the cold metal of your bike and warm Bosnian tea. Days are short, plan your return before dusk falls."
+          },
+          "stops": [
+            {
+              "name": "Plava Voda (Blue Water)",
+              "tip_5lang": {
+                "de": "Vorsicht vor Glatteis in der Nähe der Gischt.",
+                "hu": "Vigyázzon a jegesedésre a vízpermet közelében.",
+                "ro": "Atenție la gheață în apropierea zonei cu vapori.",
+                "en": "Watch out for black ice near the water spray."
+              }
+            },
+            {
+              "name": "Birthplace of Ivo Andrić",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp zum Aufwärmen Ihrer Finger.",
+                "hu": "Használja ki a megállót az ujjai felmelegítésére.",
+                "ro": "Folosiți oprirea pentru a vă încălzi degetele.",
+                "en": "Use this stop to warm up your fingers inside."
+              }
+            },
+            {
+              "name": "Sulejmanija Mosque (Painted Mosque)",
+              "tip_5lang": {
+                "de": "Wintersonne lässt die Wandmalereien glänzen.",
+                "hu": "A téli napfény megcsillantja a falfestményeket.",
+                "ro": "Soarele de iarnă face picturile murale să strălucească.",
+                "en": "Winter sun makes the wall paintings shine beautifully."
+              }
+            },
+            {
+              "name": "Elči Ibrahim-paša Madrasah",
+              "tip_5lang": {
+                "de": "Kaltes Licht betont die gelben Fassadentöne.",
+                "hu": "A hideg fény kiemeli a homlokzat sárga tónusait.",
+                "ro": "Lumina rece accentuează tonurile galbene ale fațadei.",
+                "en": "Cold light emphasizes the yellow tones of the facade."
+              }
+            },
+            {
+              "name": "Travnik Fortress",
+              "tip_5lang": {
+                "de": "Der Wind oben kann sehr schneidend sein.",
+                "hu": "A fenti szél nagyon metsző lehet.",
+                "ro": "Vântul de sus poate fi foarte tăios.",
+                "en": "The wind at the top can be very biting."
+              }
+            },
+            {
+              "name": "Gornja Čaršija Clock Tower",
+              "tip_5lang": {
+                "de": "Die Zeit scheint im Winterfrost stillzustehen.",
+                "hu": "Az idő megállni látszik a téli fagyban.",
+                "ro": "Timpul pare să stea pe loc în gerul iernii.",
+                "en": "Time seems to stand still in the winter frost."
+              }
+            },
+            {
+              "name": "Musala Clock Tower",
+              "tip_5lang": {
+                "de": "Schnelle Umrundung, bevor die Kälte einzieht.",
+                "hu": "Gyors megtekintés, mielőtt beáll a nagy hideg.",
+                "ro": "Ocolire rapidă înainte ca frigul să se instaleze.",
+                "en": "Quick look before the deep cold sets in."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Handschuhe, um Erfrierungen zu vermeiden.",
+              "Der Reifendruck sollte bei Schnee etwas niedriger sein.",
+              "Lichter sind wegen des frühen Sonnenuntergangs obligatorisch.",
+              "Trinken Sie ausreichend warme Flüssigkeiten während der Tour."
+            ],
+            "hu": [
+              "Viseljen szélálló kesztyűt a fagyás elkerülése érdekében.",
+              "Hó esetén a guminyomás legyen kicsit alacsonyabb.",
+              "A lámpák kötelezőek a korai naplemente miatt.",
+              "Igyon elegendő meleg folyadékot a túra során."
+            ],
+            "ro": [
+              "Purtați mănuși rezistente la vânt pentru a evita degerăturile.",
+              "Presiunea pneurilor ar trebui să fie mai mică pe zăpadă.",
+              "Luminile sunt obligatorii din cauza apusului devreme.",
+              "Beți suficiente lichide calde în timpul turului."
+            ],
+            "en": [
+              "Wear windproof gloves to prevent frostbite.",
+              "Tire pressure should be slightly lower if there is snow.",
+              "Lights are mandatory due to the early sunset.",
+              "Drink enough warm fluids during the tour."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1108,6 +1508,188 @@
           "The cluster-walking strategy saves time and the stress of finding parking.",
           "A car also allows you to easily visit nearby attractions outside the city if you have time."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie bequem durch den Regen von der Festung hinunter ins Tal. Genießen Sie die Aussicht auf die nasse Madrasa aus dem trockenen Innenraum Ihres Wagens. Die Plava Voda wirkt im Regen besonders kraftvoll. Schließen Sie den Tag mit Kultur im Andrić-Museum ab und parken Sie in der Nähe der Bunten Moschee für einen kurzen, trockenen Weg.",
+            "hu": "Autózzon kényelmesen az esőben a várból leereszkedve a völgybe. Élvezze a kilátást a vizes medreszére autója száraz belsejéből. A Plava Voda esőben különösen erőteljesnek tűnik. Zárja a napot kultúrával az Andrić-múzeumban, és parkoljon a Tarka mecset közelében a rövid, száraz út érdekében.",
+            "ro": "Conduceți confortabil prin ploaie, coborând de la cetate în vale. Admirați madrasa udă din interiorul uscat al mașinii. Plava Voda pare deosebit de puternică pe timp de ploaie. Încheiați ziua cu cultură la Muzeul Andrić și parcați aproape de Moscheea Pictată pentru un drum scurt.",
+            "en": "Drive comfortably through the rain, descending from the fortress into the valley. Enjoy the view of the wet Madrasah from the dry interior of your car. Plava Voda looks particularly powerful in the rain. End the day with culture at the Andrić Museum and park near the Painted Mosque for a short, dry walk."
+          },
+          "stops": [
+            {
+              "name": "Travnik Fortress",
+              "tip_5lang": {
+                "de": "Parken Sie oben, um den nassen Fußweg zu minimieren.",
+                "hu": "Parkoljon fent, hogy minimalizálja a vizes gyalogutat.",
+                "ro": "Parcați sus pentru a minimiza mersul pe jos prin ploaie.",
+                "en": "Park at the top to minimize walking in the rain."
+              }
+            },
+            {
+              "name": "Gornja Čaršija Clock Tower",
+              "tip_5lang": {
+                "de": "Gute Sichtbarkeit der Türme vom Wagen aus.",
+                "hu": "A tornyok jól láthatóak az autóból is.",
+                "ro": "Turnurile sunt bine vizibile din mașină.",
+                "en": "The towers are clearly visible from the car."
+              }
+            },
+            {
+              "name": "Elči Ibrahim-paša Madrasah",
+              "tip_5lang": {
+                "de": "Kurz anhalten für ein Foto der Fassade.",
+                "hu": "Álljon meg rövid időre egy fotóra a homlokzatnál.",
+                "ro": "Opriți scurt pentru o fotografie a fațadei.",
+                "en": "Stop briefly for a photo of the facade."
+              }
+            },
+            {
+              "name": "Plava Voda (Blue Water)",
+              "tip_5lang": {
+                "de": "Parkplatzsuche kann bei Regen schwierig sein.",
+                "hu": "A parkolókeresés esőben nehézkes lehet.",
+                "ro": "Căutarea unui loc de parcare poate fi dificilă.",
+                "en": "Finding a parking spot can be tricky in the rain."
+              }
+            },
+            {
+              "name": "Sulejmanija Mosque (Painted Mosque)",
+              "tip_5lang": {
+                "de": "Zentrale Lage, kurze Wege zu den Geschäften.",
+                "hu": "Központi elhelyezkedés, rövid út az üzletekhez.",
+                "ro": "Locație centrală, drum scurt către magazine.",
+                "en": "Central location, short walks to nearby shops."
+              }
+            },
+            {
+              "name": "Birthplace of Ivo Andrić",
+              "tip_5lang": {
+                "de": "Entspanntes Parken in der Nähe des Museums.",
+                "hu": "Kényelmes parkolás a múzeum közelében.",
+                "ro": "Parcare relaxată în apropierea muzeului.",
+                "en": "Relaxed parking available near the museum."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf beschlagene Scheiben bei hoher Luftfeuchtigkeit.",
+              "Die Bergstraßen um Travnik können bei Regen rutschig sein.",
+              "Nutzen Sie Parkhäuser oder überdachte Plätze, wenn verfügbar.",
+              "Halten Sie die Scheinwerfer bei starkem Regen eingeschaltet."
+            ],
+            "hu": [
+              "Ügyeljen a bepárásodott ablakokra a magas páratartalom miatt.",
+              "A Travnik környéki hegyi utak esőben csúszósak lehetnek.",
+              "Használjon parkolóházakat vagy fedett helyeket, ha elérhetőek.",
+              "Erős esőben tartsa bekapcsolva a fényszórókat."
+            ],
+            "ro": [
+              "Atenție la geamurile aburite din cauza umidității ridicate.",
+              "Drumurile montane din jurul orașului pot fi alunecoase.",
+              "Folosiți parcări acoperite dacă sunt disponibile.",
+              "Păstrați farurile aprinse în caz de ploaie puternică."
+            ],
+            "en": [
+              "Watch out for fogged windows due to high humidity.",
+              "Mountain roads around Travnik can be slippery in the rain.",
+              "Use parking garages or covered spots if available.",
+              "Keep your headlights on during heavy rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie das verschneite Travnik ganz warm von Ihrem Autositz aus. Die Fahrt zur Festung bietet ein Wintermärchen-Panorama. Wärmen Sie sich zwischen den kulturellen Stopps bei Ivo Andrić und den Moscheen im Auto auf. Genießen Sie den Anblick der Gornja Čaršija, während der Schnee die historischen Dächer bedeckt, und beenden Sie den Tag stressfrei.",
+            "hu": "Tapasztalja meg a havas Travnikot az autója melegéből. A várba vezető út téli mesebeli panorámát kínál. Melegedjen fel az autóban az Ivo Andrićnál és a mecseteknél tett kulturális megállók között. Élvezze a Gornja Čaršija látványát, ahogy a hó befedi a történelmi tetőket, és zárja a napot stresszmentesen.",
+            "ro": "Experimentați Travnik-ul înzăpezit din căldura mașinii. Drumul spre cetate oferă o panoramă de poveste. Încălziți-vă în mașină între opririle culturale la Ivo Andrić și moșchei. Admirați Gornja Čaršija în timp ce zăpada acoperă acoperișurile istorice și încheiați ziua fără stres.",
+            "en": "Experience snowy Travnik from the warmth of your car seat. The drive to the fortress offers a winter fairy-tale panorama. Warm up in the car between cultural stops at Ivo Andrić's house and the mosques. Enjoy the sight of Gornja Čaršija as snow covers the historical roofs, and end the day stress-free."
+          },
+          "stops": [
+            {
+              "name": "Travnik Fortress",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Straßenbedingungen vor der Auffahrt.",
+                "hu": "Ellenőrizze az útviszonyokat a felhajtás előtt.",
+                "ro": "Verificați condițiile drumului înainte de urcare.",
+                "en": "Check road conditions before driving up to the fortress."
+              }
+            },
+            {
+              "name": "Gornja Čaršija Clock Tower",
+              "tip_5lang": {
+                "de": "Kurzer Halt für Fotos im warmen Wagen.",
+                "hu": "Rövid megálló fotózáshoz a meleg autóból.",
+                "ro": "Oprire scurtă pentru poze din mașina caldă.",
+                "en": "Short stop for photos from the warm car."
+              }
+            },
+            {
+              "name": "Elči Ibrahim-paša Madrasah",
+              "tip_5lang": {
+                "de": "Die Architektur ist auch im Frost beeindruckend.",
+                "hu": "Az építészet fagyban is lenyűgöző.",
+                "ro": "Arhitectura este impresionantă chiar și în ger.",
+                "en": "The architecture is impressive even in the frost."
+              }
+            },
+            {
+              "name": "Plava Voda (Blue Water)",
+              "tip_5lang": {
+                "de": "Heißer Kaffee in den nahen Cafés ist ein Muss.",
+                "hu": "Egy forró kávé a közeli kávézókban kötelező.",
+                "ro": "O cafea fierbinte la cafenelele din jur este obligatorie.",
+                "en": "A hot coffee in the nearby cafes is a must."
+              }
+            },
+            {
+              "name": "Sulejmanija Mosque (Painted Mosque)",
+              "tip_5lang": {
+                "de": "Parken Sie zentral für kurze Wege in der Kälte.",
+                "hu": "Parkoljon központilag a rövid hideg sétákért.",
+                "ro": "Parcați central pentru drumuri scurte prin frig.",
+                "en": "Park centrally for short walks in the cold."
+              }
+            },
+            {
+              "name": "Birthplace of Ivo Andrić",
+              "tip_5lang": {
+                "de": "Genießen Sie die literarische Wärme im Inneren.",
+                "hu": "Élvezze a benti irodalmi melegséget.",
+                "ro": "Bucurați-vă de căldura literară din interior.",
+                "en": "Enjoy the literary warmth inside the museum."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen und Schneeketten sind im Gebirge ratsam.",
+              "Frostschutzmittel für die Scheibenwaschanlage nicht vergessen.",
+              "Planen Sie mehr Zeit für das Parken im Schnee ein.",
+              "Lassen Sie den Motor bei kurzen Stopps nicht unnötig laufen."
+            ],
+            "hu": [
+              "A téli gumi és hólánc ajánlott a hegyekben.",
+              "Ne felejtse el a fagyállót az ablakmosóba.",
+              "Hagyjon több időt a parkolásra hó esetén.",
+              "Rövid megállóknál ne járassa feleslegesen a motort."
+            ],
+            "ro": [
+              "Anvelopele de iarnă și lanțurile sunt recomandate la munte.",
+              "Nu uitați antigelul pentru spălarea parbrizului.",
+              "Alocați mai mult timp pentru parcare pe zăpadă.",
+              "Nu lăsați motorul pornit inutil la opririle scurte."
+            ],
+            "en": [
+              "Winter tires and snow chains are advisable in the mountains.",
+              "Don't forget antifreeze for the windshield washer.",
+              "Allow more time for parking when there is snow.",
+              "Don't leave the engine running unnecessarily during short stops."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1464,6 +2046,188 @@
           "Most sights in the center are walkable, use the bus strategically for longer distances.",
           "Plan for some buffer time for waiting at bus stops."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie die Busverbindungen, um trocken zwischen der Plava Voda und der Bunten Moschee zu pendeln. Das Ivo-Andrić-Museum bietet einen perfekten kulturellen Stopp während eines Regengusses. Die Festung erfordert einen kurzen Fußmarsch, belohnt aber mit dramatischer Atmosphäre. Beenden Sie die Tour an der Jeni-Moschee und genießen Sie den Schutz der öffentlichen Verkehrsmittel.",
+            "hu": "Használja a buszjáratokat, hogy szárazon ingázzon a Plava Voda és a Tarka mecset között. Az Ivo Andrić Múzeum tökéletes kulturális megálló egy zápor idején. A vár rövid gyaloglást igényel, de drámai hangulattal jutalmazza meg. Zárja a túrát a Jeni mecsetnél, élvezve a tömegközlekedés nyújtotta védelmet.",
+            "ro": "Folosiți autobuzele pentru a pendula uscat între Plava Voda și Moscheea Pictată. Muzeul Ivo Andrić oferă o oprire culturală perfectă în timpul ploii. Cetatea necesită o scurtă plimbare, dar răsplătește cu o atmosferă dramatică. Încheiați turul la Moscheea Jeni, profitând de protecția transportului public.",
+            "en": "Use bus connections to commute dryly between Plava Voda and the Painted Mosque. The Ivo Andrić Museum offers a perfect cultural stop during a downpour. The fortress requires a short walk but rewards with a dramatic atmosphere. End the tour at the Jeni Mosque, enjoying the protection of public transport."
+          },
+          "stops": [
+            {
+              "name": "Plava Voda (Blue Water)",
+              "tip_5lang": {
+                "de": "Bushaltestelle ist nur wenige Gehminuten entfernt.",
+                "hu": "A buszmegálló csak pár perc sétára van.",
+                "ro": "Stația de autobuz este la doar câteva minute de mers.",
+                "en": "The bus stop is only a few minutes' walk away."
+              }
+            },
+            {
+              "name": "Sulejmanija Mosque (Painted Mosque)",
+              "tip_5lang": {
+                "de": "Zentrale Haltestelle bietet Schutz bei der Ankunft.",
+                "hu": "A központi megálló védelmet nyújt érkezéskor.",
+                "ro": "Stația centrală oferă protecție la sosire.",
+                "en": "The central stop offers protection upon arrival."
+              }
+            },
+            {
+              "name": "Birthplace of Ivo Andrić",
+              "tip_5lang": {
+                "de": "Kurzer, meist überdachter Weg vom Bus zum Museum.",
+                "hu": "Rövid, többnyire fedett út a busztól a múzeumig.",
+                "ro": "Drum scurt, parțial acoperit, de la autobuz la muzeu.",
+                "en": "Short, mostly covered path from the bus to the museum."
+              }
+            },
+            {
+              "name": "Travnik Fortress",
+              "tip_5lang": {
+                "de": "Planen Sie den Fußweg bergauf trotz Regen ein.",
+                "hu": "Tervezze be a felfelé gyaloglást az eső ellenére is.",
+                "ro": "Planificați urcarea pe jos în ciuda ploii.",
+                "en": "Plan for the uphill walk despite the rain."
+              }
+            },
+            {
+              "name": "Elči Ibrahim-paša Madrasah",
+              "tip_5lang": {
+                "de": "Haltestelle in der Nähe für schnellen Wechsel.",
+                "hu": "Közeli megálló a gyors átszálláshoz.",
+                "ro": "Stație în apropiere pentru o schimbare rapidă.",
+                "en": "Stop nearby for a quick transition between sites."
+              }
+            },
+            {
+              "name": "Jeni Mosque",
+              "tip_5lang": {
+                "de": "Idealer Endpunkt mit guter Busanbindung.",
+                "hu": "Ideális végpont jó buszkapcsolattal.",
+                "ro": "Punct final ideal cu conexiuni bune de autobuz.",
+                "en": "Ideal end point with good bus connections."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Busfahrplan vorab, um Wartezeiten im Regen zu vermeiden.",
+              "Tragen Sie wasserfeste Schuhe für die Wege zwischen den Haltestellen.",
+              "Busse können bei starkem Regen Verspätung haben.",
+              "Halten Sie Kleingeld für die Fahrkarten bereit."
+            ],
+            "hu": [
+              "Ellenőrizze a menetrendet, hogy elkerülje az esőben való várakozást.",
+              "Viseljen vízálló cipőt a megállók közötti utakhoz.",
+              "Erős esőben a buszok késhetnek.",
+              "Legyen nálad aprópénz a jegyvásárláshoz."
+            ],
+            "ro": [
+              "Verificați orarul autobuzelor pentru a evita așteptarea în ploaie.",
+              "Purtați pantofi impermeabili pentru drumurile între stații.",
+              "Autobuzele pot avea întârzieri în caz de ploaie puternică.",
+              "Aveți pregătit mărunțiș pentru bilete."
+            ],
+            "en": [
+              "Check the bus schedule in advance to avoid waiting in the rain.",
+              "Wear waterproof shoes for the walks between stops.",
+              "Buses may be delayed during heavy rain.",
+              "Keep small change ready for buying tickets."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie das winterliche Travnik, während Sie in beheizten Bussen von Sehenswürdigkeit zu Sehenswürdigkeit fahren. Die Plava Voda dampft in der Kälte, ein Anblick, den Sie nach einer kurzen Busfahrt erleben. Finden Sie Wärme im Ivo-Andrić-Museum und in den Moscheen. Die Festung im Schnee ist ein Highlight, das Sie nach einem kurzen Winterspaziergang von der Haltestelle aus erreichen.",
+            "hu": "Élvezze a téli Travnikot, miközben fűtött buszokkal utazik látnivalótól látnivalóig. A Plava Voda gőzölög a hidegben, amit egy rövid buszozás után láthat. Keressen meleget az Ivo Andrić Múzeumban és a mecsetekben. A havas vár fénypontja a túrának, amit a megállótól tett rövid téli séta után ér el.",
+            "ro": "Bucurați-vă de Travnik iarna, călătorind cu autobuze încălzite între atracții. Plava Voda scoate aburi în frig, o priveliște ce merită după o scurtă cursă. Găsiți căldură la Muzeul Ivo Andrić și în moșchei. Cetatea înzăpezită este punctul culminant, accesibil după o scurtă plimbare de la stație.",
+            "en": "Enjoy winter Travnik while traveling in heated buses from sight to sight. Plava Voda mists in the cold, a sight to behold after a short bus ride. Find warmth in the Ivo Andrić Museum and the mosques. The snowy fortress is a highlight, reached after a short winter walk from the bus stop."
+          },
+          "stops": [
+            {
+              "name": "Plava Voda (Blue Water)",
+              "tip_5lang": {
+                "de": "Warme Kleidung für das Warten an der Haltestelle.",
+                "hu": "Meleg ruha a megállóban való várakozáshoz.",
+                "ro": "Haine groase pentru așteptarea în stație.",
+                "en": "Warm clothes needed for waiting at the stop."
+              }
+            },
+            {
+              "name": "Sulejmanija Mosque (Painted Mosque)",
+              "tip_5lang": {
+                "de": "Zentraler Knotenpunkt, oft beheizte Busse.",
+                "hu": "Központi csomópont, gyakran fűtött buszok.",
+                "ro": "Nod central, adesea autobuze încălzite.",
+                "en": "Central hub, often with heated buses."
+              }
+            },
+            {
+              "name": "Birthplace of Ivo Andrić",
+              "tip_5lang": {
+                "de": "Ein gemütlicher, warmer Stopp im Herzen der Stadt.",
+                "hu": "Kellemes, meleg megálló a város szívében.",
+                "ro": "O oprire plăcută și caldă în inima orașului.",
+                "en": "A cozy, warm stop in the heart of the city."
+              }
+            },
+            {
+              "name": "Travnik Fortress",
+              "tip_5lang": {
+                "de": "Der Fußweg zur Festung kann vereist sein.",
+                "hu": "A vár felé vezető gyalogút jeges lehet.",
+                "ro": "Drumul pe jos spre cetate poate fi înghețat.",
+                "en": "The walk to the fortress can be icy in winter."
+              }
+            },
+            {
+              "name": "Elči Ibrahim-paša Madrasah",
+              "tip_5lang": {
+                "de": "Die gelbe Fassade leuchtet im Winterschnee.",
+                "hu": "A sárga homlokzat ragyog a téli hóban.",
+                "ro": "Fațada galbenă strălucește în zăpada de iarnă.",
+                "en": "The yellow facade shines against the winter snow."
+              }
+            },
+            {
+              "name": "Jeni Mosque",
+              "tip_5lang": {
+                "de": "Gute Busfrequenz auch an kalten Wintertagen.",
+                "hu": "Jó buszgyakoriság hideg téli napokon is.",
+                "ro": "Frecvență bună a autobuzelor chiar și iarna.",
+                "en": "Good bus frequency even on cold winter days."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse sind im Winter meist gut beheizt und komfortabel.",
+              "Achten Sie auf geänderte Fahrpläne an Feiertagen.",
+              "Starten Sie früh, da es im Winter zeitig dunkel wird.",
+              "Halten Sie sich an belebten Haltestellen auf, um warm zu bleiben."
+            ],
+            "hu": [
+              "A buszok télen általában jól fűtöttek és kényelmesek.",
+              "Ügyeljen az ünnepnapi menetrendváltozásokra.",
+              "Kezdjen korán, mert télen hamar sötétedik.",
+              "Várjon forgalmasabb megállókban, hogy ne fázzon."
+            ],
+            "ro": [
+              "Autobuzele sunt de obicei bine încălzite și confortabile.",
+              "Atenție la orarul modificat în zilele de sărbătoare.",
+              "Începeți devreme, deoarece se întunecă repede.",
+              "Așteptați în stații mai populate pentru a rămâne la căldură."
+            ],
+            "en": [
+              "Buses are usually well-heated and comfortable in winter.",
+              "Watch out for holiday schedule changes.",
+              "Start early as it gets dark quickly in winter.",
+              "Wait at busier stops to stay warm."
+            ]
+          }
+        }
       }
     }
   }

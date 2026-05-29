@@ -379,6 +379,214 @@
           "Respect local customs, especially when visiting mosques; women should cover their hair.",
           "Bargaining is common in the bazaars, but do it with a smile."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt geschützt unter dem prächtigen Dach des Hasan Pasha Han, wo der Duft von Kaffee den Regen vergessen lässt. In der Ulu Cami bieten die Arkaden trockenen Unterschlupf. Mittags vertiefen Sie sich im Cahit Sıtkı Tarancı Museum in die Literatur, während die Basaltmauern fast schwarz glänzen. Ein kurzer Gang auf die Stadtmauer erfordert Trittsicherheit, da der Stein glatt wird. Der Tag endet an der mystischen, im Nebel liegenden Dicle-Brücke.",
+            "hu": "A nap a Hasan Pasha Han fedett udvarán indul, ahol a forró tea gőze mellett figyelheti az esőcseppeket. Az Ulu Cami árkádjai alatt szárazon maradva csodálhatja meg az építészetet. Délben a Cahit Sıtkı Tarancı Múzeum bazaltfalai között talál menedéket a zord idő elől. Délután a városfalakon fokozott óvatosság kell, mert a vizes bazalt rendkívül csúszós. Az estét a párás ködbe burkolózó Tízszemű híd látványa zárja a Tigris partján.",
+            "ro": "Ziua începe sub acoperișul primitor al Hanului Hasan Pasha, unde cafeaua fierbinte alungă răceala ploii. La Marea Moschee, arcadele oferă un adăpost perfect pentru observație. La prânz, explorăm interiorul Muzeului Cahit Sıtkı Tarancı, admirând arhitectura locală la adăpost. După-amiaza, o plimbare pe zidurile orașului necesită atenție sporită din cauza bazaltului alunecos. Seara se încheie la Podul Dicle, care capătă un aer mistic sub cerul înnorat.",
+            "en": "Start your day under the grand roof of Hasan Pasha Han, where the aroma of coffee masks the sound of rain. The Great Mosque's arcades provide a dry sanctuary for quiet reflection. At noon, retreat into the Cahit Sıtkı Tarancı Museum to admire basalt architecture from the inside. A brief walk on the city walls requires careful footing as the black stones become slippery when wet. The day concludes at the Dicle Bridge, looking dramatic amidst the riverside mist."
+          },
+          "stops": [
+            {
+              "name": "Hasan Pasha Han",
+              "tip_5lang": {
+                "de": "Genießen Sie den Tee im überdachten Innenhof, während es draußen regnet.",
+                "hu": "Élvezze a teát a fedett belső udvaron, amíg odakint esik az eső.",
+                "ro": "Savurați un ceai în curtea interioară acoperită în timp ce afară plouă.",
+                "en": "Enjoy your tea in the covered inner courtyard while it rains outside."
+              }
+            },
+            {
+              "name": "Great Mosque (Ulu Cami)",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkadengänge, um die Architektur im Trockenen zu bewundern.",
+                "hu": "Használja az árkádokat az építészet megcsodálására, így szárazon maradhat.",
+                "ro": "Folosiți arcadele pentru a admira arhitectura fără a vă uda.",
+                "en": "Use the arcades to admire the architecture while staying dry."
+              }
+            },
+            {
+              "name": "Cahit Sıtkı Tarancı Museum",
+              "tip_5lang": {
+                "de": "Idealer Ort, um die traditionelle Bauweise ohne Regenschirm zu erkunden.",
+                "hu": "Ideális hely a hagyományos építészet felfedezésére esernyő nélkül.",
+                "ro": "Locul ideal pentru a explora arhitectura tradițională fără umbrelă.",
+                "en": "Ideal place to explore traditional architecture without an umbrella."
+              }
+            },
+            {
+              "name": "City Walls of Diyarbakır",
+              "tip_5lang": {
+                "de": "Achtung: Der schwarze Basalt wird bei Nässe spiegelglatt. Vorsichtig gehen.",
+                "hu": "Vigyázat: a fekete bazalt vizesen tükörsima lesz. Óvatosan lépkedjen.",
+                "ro": "Atenție: bazaltul negru devine extrem de alunecos la umezeală. Mergeți cu grijă.",
+                "en": "Caution: The black basalt becomes mirror-smooth when wet. Walk carefully."
+              }
+            },
+            {
+              "name": "St. George Church",
+              "tip_5lang": {
+                "de": "Das Museum im Inneren bietet Schutz und kulturelle Tiefe bei jedem Wetter.",
+                "hu": "A belső múzeum védelmet és kulturális mélységet nyújt bármilyen időben.",
+                "ro": "Muzeul din interior oferă adăpost și profunzime culturală pe orice vreme.",
+                "en": "The museum inside offers shelter and cultural depth in any weather."
+              }
+            },
+            {
+              "name": "Assyrian Church of Virgin Mary",
+              "tip_5lang": {
+                "de": "Ein besinnlicher, trockener Rückzugsort im Herzen der Altstadt.",
+                "hu": "Békés, száraz menedékhely az óváros szívében.",
+                "ro": "Un refugiu liniștit și uscat în inima centrului vechi.",
+                "en": "A contemplative, dry retreat in the heart of the old city."
+              }
+            },
+            {
+              "name": "Dicle Bridge (Ten-Eyed Bridge)",
+              "tip_5lang": {
+                "de": "Die Brücke wirkt im Regen besonders geschichtsträchtig und einsam.",
+                "hu": "A híd esőben különösen történelminek és magányosnak tűnik.",
+                "ro": "Podul pare deosebit de istoric și solitar pe timp de ploaie.",
+                "en": "The bridge looks especially historical and solitary in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Schuhe mit gutem Profil, da der Basaltboden der Altstadt bei Nässe sehr rutschig ist.",
+              "Nutzen Sie die zahlreichen Hans als natürliche Regenschirme für Pausen.",
+              "Ein Taschenregenschirm ist in den engen Gassen praktischer als ein großer Stockschirm.",
+              "Die Museen sind perfekt getaktet, um längere Regenschauer im Trockenen zu überbrücken.",
+              "Planen Sie für den Rückweg von der Brücke ein Taxi ein, falls der Regen stärker wird."
+            ],
+            "hu": [
+              "Viseljen jó tapadású cipőt, mert az óváros bazaltkövei vizesen nagyon csúsznak.",
+              "Használja ki a hanokat természetes esernyőként a pihenőkhöz.",
+              "A szűk utcákban egy összecsukható esernyő praktikusabb, mint a hosszú boternyő.",
+              "A múzeumlátogatásokat időzítse a nagyobb záporok idejére.",
+              "A hídtól való visszatéréshez érdemes taxit hívni, ha eleredne az eső."
+            ],
+            "ro": [
+              "Purtați încălțăminte cu talpă aderentă, deoarece bazaltul din centrul vechi alunecă tare.",
+              "Folosiți numeroasele hanuri ca umbrele naturale pentru pauze.",
+              "O umbrelă pliabilă este mai practică în străduțele înguste decât una mare.",
+              "Muzeele sunt perfecte pentru a evita perioadele de ploaie intensă la adăpost.",
+              "Luați în considerare un taxi pentru întoarcerea de la pod dacă plouă torențial."
+            ],
+            "en": [
+              "Wear shoes with good grip as the old city's basalt floors are very slippery when wet.",
+              "Use the numerous caravanserais (hans) as natural umbrellas for breaks.",
+              "A compact umbrella is more practical in the narrow alleys than a large one.",
+              "Time your museum visits to bridge longer rain showers in the dry.",
+              "Consider a taxi for the return trip from the bridge if the rain intensifies."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die kalte Morgenluft wird im Hasan Pasha Han durch heißen Menengiç-Kaffee vertrieben. In der Ulu Cami spürt man die jahrhundertealte Stille in der frostigen Klarheit. Mittags bieten die dicken Basaltmauern des Tarancı Museums eine erstaunliche Isolation gegen den winterlichen Wind. Ein Spaziergang auf der Stadtmauer belohnt mit dem Blick auf die kahlen, aber weiten Hevsel-Gärten. Da die Sonne früh untergeht, bildet die beleuchtete Dicle-Brücke den kühlen, atmosphärischen Abschluss.",
+            "hu": "A csípős reggeli levegőt a Hasan Pasha Han forró Menengiç kávéja ellensúlyozza. Az Ulu Cami udvarán a fagyos csendben még jobban érezhető a történelem súlya. Délben a Tarancı Múzeum vastag bazaltfalai remek hőszigetelést nyújtanak a téli szél ellen. A városfalakról ilyenkor nyílik a legtisztább kilátás a kopár, de hatalmas Hevsel-kertekre. Mivel korán sötétedik, a kivilágított Tízszemű híd zárja a napot a hideg esti szélben.",
+            "ro": "Aerul rece al dimineții este îmblânzit de o cafea fierbinte în Hanul Hasan Pasha. La Marea Moschee, liniștea secolelor se simte în claritatea înghețată a zilei. La prânz, zidurile groase de bazalt ale Muzeului Tarancı oferă o izolație excelentă împotriva vântului de iarnă. O plimbare pe ziduri dezvăluie panorama Grădinilor Hevsel, acum golașe dar impunătoare. Deoarece soarele apune devreme, podul Dicle iluminat oferă un final atmosferic și răcoros.",
+            "en": "The crisp morning air is softened by hot Menengiç coffee at Hasan Pasha Han. At the Great Mosque, the ancient silence feels even deeper in the winter frost. By noon, the thick basalt walls of the Tarancı Museum provide a surprising shield against the biting wind. Walking the city walls offers a stark but clear view of the vast Hevsel Gardens below. With an early sunset, the illuminated Dicle Bridge marks a chilly yet atmospheric end to your journey."
+          },
+          "stops": [
+            {
+              "name": "Hasan Pasha Han",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich am traditionellen Ofen im Han bei einem kräftigen Kaffee auf.",
+                "hu": "Melegedjen fel a han hagyományos kályhája mellett egy erős kávéval.",
+                "ro": "Încălziți-vă lângă soba tradițională din han cu o cafea tare.",
+                "en": "Warm up by the traditional stove in the han with a strong coffee."
+              }
+            },
+            {
+              "name": "Great Mosque (Ulu Cami)",
+              "tip_5lang": {
+                "de": "Achten Sie auf eventuelle Eisbildung auf den Steinplatten im Innenhof.",
+                "hu": "Ügyeljen az esetleges jegesedésre az udvar kőlapjain.",
+                "ro": "Atenție la eventuala gheață formată pe dalele de piatră din curte.",
+                "en": "Watch out for potential ice formation on the stone slabs in the courtyard."
+              }
+            },
+            {
+              "name": "Cahit Sıtkı Tarancı Museum",
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten die Kälte draußen; ein angenehmer Ort zum Verweilen.",
+                "hu": "A vastag falak kint tartják a hideget; kellemes hely az időtöltésre.",
+                "ro": "Zidurile groase țin frigul afară; un loc plăcut pentru a petrece timpul.",
+                "en": "The thick walls keep the cold out; a pleasant place to linger."
+              }
+            },
+            {
+              "name": "City Walls of Diyarbakır",
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Kleidung, da es auf den Mauern sehr ziehen kann.",
+                "hu": "Viseljen szélálló ruházatot, mert a falakon nagyon erős lehet a huzat.",
+                "ro": "Purtați haine rezistente la vânt, deoarece pe ziduri curentul este puternic.",
+                "en": "Wear windproof clothing as it can be very draughty on the walls."
+              }
+            },
+            {
+              "name": "St. George Church",
+              "tip_5lang": {
+                "de": "Das beheizte Museum bietet eine willkommene Pause von der Außenkälte.",
+                "hu": "A fűtött múzeum szívesen látott pihenőt nyújt a kinti hideg elől.",
+                "ro": "Muzeul încălzit oferă o pauză binevenită de la frigul de afară.",
+                "en": "The heated museum offers a welcome break from the outside cold."
+              }
+            },
+            {
+              "name": "Assyrian Church of Virgin Mary",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um die winterliche Stille der Altstadt zu genießen.",
+                "hu": "Csendes hely az óváros téli nyugalmának élvezetéhez.",
+                "ro": "Un loc liniștit pentru a savura liniștea de iarnă a centrului vechi.",
+                "en": "A quiet spot to enjoy the winter stillness of the old city."
+              }
+            },
+            {
+              "name": "Dicle Bridge (Ten-Eyed Bridge)",
+              "tip_5lang": {
+                "de": "Der Blick auf den Tigris bei Sonnenuntergang (ca. 17 Uhr) ist magisch.",
+                "hu": "A Tigris látványa naplementekor (kb. 17 óra) varázslatos.",
+                "ro": "Priveliștea asupra Tigrului la apus (aprox. ora 17) este magică.",
+                "en": "The view of the Tigris at sunset (around 5 PM) is magical."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Winter gegen 17:00 Uhr unter; planen Sie Ihre Highlights davor.",
+              "Zwiebelprinzip bei der Kleidung ist wichtig, da Museen oft beheizt, Gassen aber eisig sind.",
+              "Probieren Sie 'Menengiç' Kaffee, er wärmt besser als normaler Espresso.",
+              "Vorsicht auf den Stadtmauern bei Frost, der Basalt speichert die Kälte extrem.",
+              "Die meisten Hans haben beheizte Innenbereiche für gemütliche Pausen."
+            ],
+            "hu": [
+              "Télen a nap 17:00 körül nyugszik, a fontos látnivalókat tervezze addigra.",
+              "Öltözzön rétegesen, mert a múzeumok fűtöttek, de az utcák nagyon hidegek.",
+              "Kóstolja meg a 'Menengiç' kávét, jobban felmelegít, mint egy sima eszpresszó.",
+              "Fagy esetén legyen óvatos a falakon, a bazalt rendkívül hideg tud lenni.",
+              "A legtöbb han rendelkezik fűtött belső résszel a kényelmes pihenéshez."
+            ],
+            "ro": [
+              "Soarele apune în jur de ora 17:00 iarna; planificați vizitele importante înainte.",
+              "Îmbrăcați-vă în straturi, deoarece muzeele sunt încălzite, dar străzile sunt înghețate.",
+              "Încercați cafeaua 'Menengiç', vă va încălzi mai bine decât un espresso obișnuit.",
+              "Atenție pe zidurile orașului în caz de îngheț, bazaltul reține frigul extrem de tare.",
+              "Majoritatea hanurilor au zone interioare încălzite pentru pauze confortabile."
+            ],
+            "en": [
+              "The sun sets around 5 PM in winter; plan your main highlights before then.",
+              "Dress in layers as museums are often heated while the alleys remain icy.",
+              "Try 'Menengiç' coffee; it warms you up better than a standard espresso.",
+              "Be careful on the city walls during frost, as basalt retains the cold intensely.",
+              "Most hans have heated indoor sections for cozy breaks."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -729,6 +937,196 @@
           "Bring plenty of water, especially during the summer months.",
           "A lock is essential for securing your bike when you leave it to sightsee."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Fahrt beginnt an der Dicle-Brücke, wo der aufgewirbelte Regen den Tigris fast einsam wirken lässt. Durch die Hevsel-Gärten geht es auf befestigten Wegen, um Schlamm zu vermeiden. Mittags erreichen Sie das schützende Mardin-Tor der Stadtmauer. Im Hasan Pasha Han können Sie Kleidung und Räder kurz abstellen, während Sie sich aufwärmen. Die Ulu Cami und das Tarancı Museum bieten am Nachmittag ideale, trockene Kulturpausen, bevor die Tour im Regen endet.",
+            "hu": "A túra a Tízszemű hídnál indul, ahol a felcsapódó eső miatt a Tigris partja különösen magányosnak tűnik. A Hevsel-kerteken át kövesse a szilárd burkolatú utakat a sár elkerülése végett. Délben eléri a városfal védelmező Mardin-kapuját. A Hasan Pasha Hanban rövid időre leteheti a kerékpárt és megszárítkozhat. Délután az Ulu Cami és a Tarancı Múzeum nyújt száraz kulturális menedéket, mielőtt az esős túra véget érne.",
+            "ro": "Călătoria începe la Podul Dicle, unde stropii de ploaie fac malurile Tigrului să pară pustii. Prin Grădinile Hevsel, urmați potecile pavate pentru a evita noroiul. La prânz ajungeți la Poarta Mardin, sub protecția zidurilor orașului. În Hanul Hasan Pasha puteți lăsa bicicleta scurt timp pentru a vă încălzi. Marea Moschee și Muzeul Tarancı oferă pauze culturale uscate după-amiaza, înainte ca turul să se încheie sub ploaie.",
+            "en": "The ride starts at Dicle Bridge, where the splashing rain makes the Tigris feel solitary. Pedal through Hevsel Gardens, sticking to paved paths to avoid the mud. By noon, reach the sheltering Mardin Gate of the city walls. At Hasan Pasha Han, take a break to dry off while your bike is parked securely. The Great Mosque and Tarancı Museum provide perfect dry cultural stops in the afternoon before concluding your rainy cycling tour."
+          },
+          "stops": [
+            {
+              "name": "Dicle Bridge (Ten-Eyed Bridge)",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem Brückenpflaster, es kann bei Regen rutschig sein.",
+                "hu": "Vigyázzon a híd burkolatán, esőben csúszós lehet.",
+                "ro": "Atenție la pavajul podului, poate fi alunecos pe ploaie.",
+                "en": "Watch out on the bridge pavement; it can be slippery in the rain."
+              }
+            },
+            {
+              "name": "Hevsel Gardens",
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den Hauptwegen, um tiefem Matsch auszuweichen.",
+                "hu": "Maradjon a főutakon, hogy elkerülje a mély sarat.",
+                "ro": "Rămâneți pe drumurile principale pentru a evita noroiul adânc.",
+                "en": "Stick to the main paths to avoid deep mud."
+              }
+            },
+            {
+              "name": "City Walls of Diyarbakır (Mardin Gate)",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Torbogen als kurzen Unterstand bei starken Güssen.",
+                "hu": "Használja a boltíves kaput rövid menedékként nagy zápor esetén.",
+                "ro": "Folosiți arcada porții ca adăpost scurt în caz de ploaie torențială.",
+                "en": "Use the gate archway as a brief shelter during heavy downpours."
+              }
+            },
+            {
+              "name": "Hasan Pasha Han",
+              "tip_5lang": {
+                "de": "Sichere Fahrradabstellplätze im Hof ermöglichen eine entspannte Pause.",
+                "hu": "A biztonságos kerékpártárolók az udvaron nyugodt pihenést tesznek lehetővé.",
+                "ro": "Locurile sigure de parcare a bicicletelor permit o pauză relaxată.",
+                "en": "Secure bike parking in the courtyard allows for a relaxed break."
+              }
+            },
+            {
+              "name": "Great Mosque (Ulu Cami)",
+              "tip_5lang": {
+                "de": "Kurzer Stopp unter den Arkaden; achten Sie auf Fußgänger mit Schirmen.",
+                "hu": "Rövid megálló az árkádok alatt; figyeljen az esernyős gyalogosokra.",
+                "ro": "Oprire scurtă sub arcade; atenție la pietonii cu umbrele.",
+                "en": "Short stop under the arcades; watch out for pedestrians with umbrellas."
+              }
+            },
+            {
+              "name": "Cahit Sıtkı Tarancı Museum",
+              "tip_5lang": {
+                "de": "Das Ende der Tour bietet Zeit für einen ausgiebigen, trockenen Besuch.",
+                "hu": "A túra vége időt ad egy alapos, száraz múzeumlátogatásra.",
+                "ro": "Finalul turului oferă timp pentru o vizită prelungită la adăpost.",
+                "en": "The end of the tour allows time for an extensive, dry visit."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind bei den Basaltstraßen Diyarbakır unerlässlich.",
+              "Vermeiden Sie das Bremsen auf den glatten schwarzen Steinen der Altstadt.",
+              "Wasserdichte Packtaschen schützen Ihre Kamera und Ausrüstung perfekt.",
+              "Nutzen Sie die Hans als strategische Stopps, um die Kette zu prüfen.",
+              "Sichtbarkeit ist wichtig: Schalten Sie bei Regen das Licht auch tagsüber ein."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen Diyarbakır bazaltos utcáin.",
+              "Kerülje az erős fékezést az óváros csúszós fekete kövein.",
+              "A vízálló táskák tökéletesen megvédik a fényképezőt és a felszerelést.",
+              "Használja a hanokat stratégiai pontként a lánc ellenőrzésére.",
+              "A láthatóság fontos: esőben nappal is kapcsolja be a világítást."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt esențiale pe străzile cu bazalt din Diyarbakır.",
+              "Evitați frânarea bruscă pe pietrele negre lucioase din centrul vechi.",
+              "Gențile impermeabile vă protejează perfect camera și echipamentul.",
+              "Folosiți hanurile ca opriri strategice pentru a verifica lanțul.",
+              "Vizibilitatea e importantă: aprindeți luminile și în timpul zilei dacă plouă."
+            ],
+            "en": [
+              "Mudguards are essential on Diyarbakır's basalt streets.",
+              "Avoid sudden braking on the slippery black stones of the old city.",
+              "Waterproof panniers will protect your camera and gear perfectly.",
+              "Use the hans as strategic stops to check your bike chain.",
+              "Visibility is key: turn on your lights even during the day when it rains."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Start an der Dicle-Brücke, wo der Wind vom Fluss her weht. Die Hevsel-Gärten wirken im Winterlicht weitläufig und karg, die Wege sind fest gefroren. Mittags wärmt der Anstieg zum Mardin-Tor den Körper auf. Im Hasan Pasha Han wartet der heiße Tee als Belohnung für die frostige Fahrt. Nachmittags erkunden Sie die Ulu Cami und das Tarancı Museum, bevor die Kälte bei Einbruch der frühen Dunkelheit zur Rückkehr zwingt.",
+            "hu": "Hűvös kezdés a Tízszemű hídnál, ahol a folyó felől fúj a szél. A Hevsel-kertek a téli fényben tágasnak és kopárnak tűnnek, az utak keményre fagytak. Délben a Mardin-kapuhoz vezető emelkedő segít bemelegedni. A Hasan Pasha Hanban forró tea vár jutalomként a fagyos tekerés után. Délután az Ulu Cami és a Tarancı Múzeum felfedezése következik, mielőtt a korai sötétség és a hideg visszatérésre kényszerítene.",
+            "ro": "Un început răcoros la Podul Dicle, unde vântul bate dinspre râu. Grădinile Hevsel par vaste și golașe în lumina iernii, potecile fiind înghețate. La prânz, urcușul spre Poarta Mardin vă va încălzi corpul. În Hanul Hasan Pasha, un ceai fierbinte este recompensa pentru drumul înghețat. După-amiaza explorați Marea Moschee și Muzeul Tarancı, înainte ca gerul și întunericul timpuriu să vă oblige să vă întoarceți.",
+            "en": "A chilly start at Dicle Bridge with a brisk breeze coming off the river. The Hevsel Gardens look vast and stark in the winter light, with paths frozen solid. By noon, the climb to Mardin Gate warms you up. At Hasan Pasha Han, hot tea awaits as a reward for your frosty ride. Spend the afternoon exploring the Great Mosque and Tarancı Museum before the early darkness and cold signal it's time to head back."
+          },
+          "stops": [
+            {
+              "name": "Dicle Bridge (Ten-Eyed Bridge)",
+              "tip_5lang": {
+                "de": "Tragen Sie warme Handschuhe, der Wind am Fluss ist im Winter beißend.",
+                "hu": "Viseljen meleg kesztyűt, a folyóparti szél télen metsző lehet.",
+                "ro": "Purtați mănuși groase, vântul de pe râu este tăios iarna.",
+                "en": "Wear warm gloves; the river breeze is biting in winter."
+              }
+            },
+            {
+              "name": "Hevsel Gardens",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Pfützen in den tiefer gelegenen Gartenbereichen.",
+                "hu": "Ügyeljen a jeges tócsákra a kertek alacsonyabban fekvő részein.",
+                "ro": "Atenție la bălțile înghețate în zonele mai joase ale grădinilor.",
+                "en": "Watch out for frozen puddles in the lower sections of the gardens."
+              }
+            },
+            {
+              "name": "City Walls of Diyarbakır (Mardin Gate)",
+              "tip_5lang": {
+                "de": "Der Aufstieg zum Tor ist kurz, aber intensiv – ideal zum Aufwärmen.",
+                "hu": "A kapuhoz vezető emelkedő rövid, de intenzív – ideális bemelegítésnek.",
+                "ro": "Urcarea spre poartă este scurtă dar intensă – ideală pentru încălzire.",
+                "en": "The climb to the gate is short but intense—ideal for warming up."
+              }
+            },
+            {
+              "name": "Hasan Pasha Han",
+              "tip_5lang": {
+                "de": "Die Wärme im Inneren ist nach der Radtour besonders wohltuend.",
+                "hu": "A belső meleg a kerékpározás után különösen jól esik.",
+                "ro": "Căldura din interior este deosebit de plăcută după tura cu bicicleta.",
+                "en": "The warmth inside is especially soothing after the bike ride."
+              }
+            },
+            {
+              "name": "Great Mosque (Ulu Cami)",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad sicher ab; der Innenhof kann glatt sein.",
+                "hu": "Parkoljon le biztonságosan; az udvar csúszós lehet.",
+                "ro": "Parcați bicicleta în siguranță; curtea poate fi alunecoasă.",
+                "en": "Park your bike securely; the courtyard can be slick."
+              }
+            },
+            {
+              "name": "Cahit Sıtkı Tarancı Museum",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ausklang im Warmen, bevor es in die kalte Nacht geht.",
+                "hu": "Csendes befejezés a melegben, mielőtt kilépne a hideg éjszakába.",
+                "ro": "Un final liniștit la căldură, înainte de a ieși în noaptea rece.",
+                "en": "A quiet end in the warm before heading out into the cold night."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Thermounterwäsche ist für Winterradtouren in Diyarbakır ein Muss.",
+              "Die Bremsleistung kann bei extremer Kälte nachlassen, prüfen Sie die Beläge.",
+              "Fahren Sie vorsichtig über die Basaltplatten, die Frost halten.",
+              "Ein heißes Getränk alle 60 Minuten hält die Körperkerntemperatur stabil.",
+              "Planen Sie die Rückkehr vor 16:30 Uhr, wenn die Temperaturen rapide sinken."
+            ],
+            "hu": [
+              "A hőtartó aláöltözet kötelező a téli diyarbakıri biciklizéshez.",
+              "A fékhatás csökkenhet extrém hidegben, ellenőrizze a fékbetéteket.",
+              "Óvatosan hajtson át a bazaltlapokon, amelyek tartják a fagyot.",
+              "Egy forró ital 60 percenként segít stabilan tartani a testhőt.",
+              "Tervezze meg a visszatérést 16:30 előtt, amikor a hőmérséklet hirtelen leesik."
+            ],
+            "ro": [
+              "Lenjeria termică este obligatorie pentru turele de iarnă în Diyarbakır.",
+              "Eficiența frânării poate scădea la ger, verificați plăcuțele.",
+              "Conduceți cu grijă peste plăcile de bazalt care rețin înghețul.",
+              "O băutură fierbinte la fiecare 60 de minute menține temperatura corpului.",
+              "Planificați întoarcerea înainte de 16:30, când temperaturile scad brusc."
+            ],
+            "en": [
+              "Thermal underwear is a must for winter cycling in Diyarbakır.",
+              "Braking performance can decrease in extreme cold; check your pads.",
+              "Ride carefully over basalt slabs that hold onto frost.",
+              "A hot drink every 60 minutes helps keep your core temperature stable.",
+              "Plan to return before 4:30 PM, when temperatures drop rapidly."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1109,6 +1507,214 @@
           "A GPS is highly recommended.",
           "Be aware of the one-way street systems around the historic center."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie gemütlich im Auto zur Dicle-Brücke, während der Regen gegen die Scheiben prasselt. Vom Hevsel-Aussichtspunkt genießen Sie den Blick auf den Tigris, ohne nass zu werden. Mittags parken Sie nahe Dağ Kapı und erkunden die Stadtmauer bei kurzen Regenpausen. Im Hasan Pasha Han finden Sie einen trockenen Parkplatz in der Nähe für eine lange Kaffeepause. Die Ulu Cami und das Museum runden den Nachmittag kulturell und wettergeschützt ab.",
+            "hu": "Induljon kényelmesen autóval a Tízszemű hídhoz, miközben az eső kopog a szélvédőn. A Hevsel kilátópontról anélkül élvezheti a Tigris látványát, hogy megázna. Délben parkoljon le a Dağ-kapu közelében, és a rövidebb esőszünetekben fedezze fel a városfalat. A Hasan Pasha Han környékén találhat száraz parkolót egy hosszú kávészünethez. Az Ulu Cami és a múzeum kulturális és esővédett programot kínál délutánra.",
+            "ro": "Începeți confortabil cu mașina spre Podul Dicle, în timp ce ploaia bate în geamuri. De la punctul de observație Hevsel vă bucurați de priveliștea Tigrului fără a vă uda. La prânz parcați lângă Dağ Kapı și explorați zidurile în timpul scurtelor pauze de ploaie. În apropiere de Hanul Hasan Pasha veți găsi parcare pentru o pauză lungă de cafea. Marea Moschee și muzeul completează după-amiaza într-un mod cultural și protejat.",
+            "en": "Start comfortably by car to Dicle Bridge as rain pitter-patters against the windshield. From the Hevsel viewpoint, enjoy the Tigris vista without getting soaked. By noon, park near Dağ Kapı to explore the walls during breaks in the clouds. Find a nearby parking spot for Hasan Pasha Han to enjoy a long coffee break in the dry. The Great Mosque and museum round off your afternoon with culture and weather protection."
+          },
+          "stops": [
+            {
+              "name": "Dicle Bridge & Hevsel Gardens (Cluster 1)",
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Brückenzugang für minimale Wege im Regen.",
+                "hu": "Parkoljon közvetlenül a hídnál, hogy keveset kelljen gyalogolnia az esőben.",
+                "ro": "Parcați chiar lângă accesul pe pod pentru a merge puțin prin ploaie.",
+                "en": "Park right by the bridge entrance for minimal walking in the rain."
+              }
+            },
+            {
+              "name": "Hevsel Gardens Viewpoint",
+              "tip_5lang": {
+                "de": "Der Blick aus dem Auto ist bei starkem Regen eine gute Alternative.",
+                "hu": "A kocsiból való kilátás jó alternatíva erős esőzés esetén.",
+                "ro": "Priveliștea din mașină este o alternativă bună în caz de ploaie torențială.",
+                "en": "The view from the car is a great alternative during heavy rain."
+              }
+            },
+            {
+              "name": "City Walls of Diyarbakır (Cluster 2 - Dağ Kapı)",
+              "tip_5lang": {
+                "de": "Nutzen Sie bewachte Parkplätze, um entspannt die Mauern zu besichtigen.",
+                "hu": "Használja az őrzött parkolókat, hogy nyugodtan megnézhesse a falakat.",
+                "ro": "Folosiți parcările păzite pentru a vizita zidurile fără griji.",
+                "en": "Use guarded parking lots to visit the walls stress-free."
+              }
+            },
+            {
+              "name": "St. George Church",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Parkplatz; der Innenraum ist absolut trocken.",
+                "hu": "Rövid séta a parkolótól; a belső tér teljesen száraz.",
+                "ro": "Drum scurt pe jos din parcare; interiorul este perfect uscat.",
+                "en": "Short walk from the parking lot; the interior is completely dry."
+              }
+            },
+            {
+              "name": "Hasan Pasha Han (Cluster 3)",
+              "tip_5lang": {
+                "de": "Zentraler Stopp; ideal, um das Auto während des stärksten Regens stehen zu lassen.",
+                "hu": "Központi megálló; ideális, hogy ott hagyja az autót a legnagyobb esőben.",
+                "ro": "Oprire centrală; ideal pentru a lăsa mașina în timpul ploii celei mai mari.",
+                "en": "Central stop; ideal for leaving the car during the heaviest rain."
+              }
+            },
+            {
+              "name": "Great Mosque (Ulu Cami)",
+              "tip_5lang": {
+                "de": "Die Arkaden sind nur einen Steinwurf vom Parkplatz entfernt.",
+                "hu": "Az árkádok csak egy kőhajításnyira vannak a parkolótól.",
+                "ro": "Arcadele sunt la doar o aruncătură de băț de parcare.",
+                "en": "The arcades are just a stone's throw from the parking lot."
+              }
+            },
+            {
+              "name": "Cahit Sıtkı Tarancı Museum",
+              "tip_5lang": {
+                "de": "Perfekter Abschluss; das Museum bietet Schutz bis zur Abfahrt.",
+                "hu": "Tökéletes befejezés; a múzeum védelmet nyújt az indulásig.",
+                "ro": "Final perfect; muzeul oferă adăpost până la plecare.",
+                "en": "Perfect conclusion; the museum offers shelter until departure."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie das Parken in sehr engen Gassen der Altstadt bei Regen (Rutschgefahr).",
+              "Die Hauptstraßen um die Stadtmauer sind gut ausgebaut und sicher befahrbar.",
+              "Ein Regenschirm im Auto ist für die kurzen Wege zwischen Parkplatz und Ziel nötig.",
+              "Nutzen Sie die Parkhäuser nahe den Toren für maximale Trockenheit.",
+              "Achten Sie auf tiefere Pfützen an den tiefer gelegenen Straßenabschnitten am Fluss."
+            ],
+            "hu": [
+              "Kerülje a parkolást az óváros nagyon szűk utcáiban esőben (csúszásveszély).",
+              "A városfal körüli főutak jól kiépítettek és biztonságosan járhatók.",
+              "Egy esernyő az autóban szükséges a parkoló és a célpont közötti rövid utakhoz.",
+              "Használja a kapuk közeli parkolóházakat a maximális szárazság érdekében.",
+              "Ügyeljen a mélyebb tócsákra a folyóparti alacsonyabb útszakaszokon."
+            ],
+            "ro": [
+              "Evitați parcarea pe străduțele foarte înguste din centrul vechi pe ploaie.",
+              "Drumurile principale din jurul zidurilor sunt bine întreținute și sigure.",
+              "O umbrelă în mașină este necesară pentru distanțele scurte până la obiective.",
+              "Folosiți parcările etajate de lângă porți pentru a rămâne cât mai uscat.",
+              "Atenție la bălțile adânci pe secțiunile de drum mai joase de lângă râu."
+            ],
+            "en": [
+              "Avoid parking in very narrow old city alleys when it rains (slippery).",
+              "Main roads around the city walls are well-developed and safe to drive.",
+              "Keep an umbrella in the car for short walks between parking and destinations.",
+              "Use parking garages near the gates for maximum dryness.",
+              "Watch out for deep puddles on lower road sections near the river."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Fahrt beginnt mit einer warmen Heizung im Auto auf dem Weg zur Dicle-Brücke. Genießen Sie den Panoramablick auf die gefrorenen Hevsel-Gärten vom Aussichtspunkt aus. Mittags parken Sie zentral an der Dağ Kapı, um die Mauern im scharfen Winterlicht zu fotografieren. Die Hans der Altstadt bieten warme Stopps für Menengiç-Kaffee. Nachmittags besuchen Sie die Ulu Cami und das beheizte Tarancı Museum, bevor die Winterkälte draußen zunimmt.",
+            "hu": "A napot a fűtött autó kényelmében indítja a Tízszemű híd felé vezető úton. Élvezze a jeges Hevsel-kertek panorámáját a kilátópontról. Délben parkoljon le központilag a Dağ-kapunál, hogy megörökítse a falakat az éles téli fényben. Az óváros hanjai meleg pihenőt kínálnak egy Menengiç kávéra. Délután az Ulu Cami és a fűtött Tarancı Múzeum meglátogatása következik, mielőtt kint tovább fokozódna a téli hideg.",
+            "ro": "Călătoria începe cu căldura din mașină în drum spre Podul Dicle. Savurați panorama Grădinilor Hevsel înghețate din punctul de observație. La prânz parcați central la Dağ Kapı pentru a fotografia zidurile în lumina tăioasă a iernii. Hanurile din centrul vechi oferă opriri calde pentru o cafea Menengiç. După-amiaza vizitați Marea Moschee și muzeul Tarancı încălzit, înainte ca gerul de afară să se intensifice.",
+            "en": "Start with the car heater on high as you drive towards Dicle Bridge. Enjoy the panoramic view of the frozen Hevsel Gardens from the viewpoint. By noon, park centrally at Dağ Kapı to photograph the walls in the sharp winter light. The old city's caravanserais offer warm stops for Menengiç coffee. Spend your afternoon at the Great Mosque and the heated Tarancı Museum before the winter chill deepens outside."
+          },
+          "stops": [
+            {
+              "name": "Dicle Bridge & Hevsel Gardens (Cluster 1)",
+              "tip_5lang": {
+                "de": "Heizung anlassen, bis Sie direkt an der Brücke aussteigen.",
+                "hu": "Hagyja menni a fűtést, amíg közvetlenül a hídnál ki nem száll.",
+                "ro": "Lăsați căldura pornită până când coborâți chiar lângă pod.",
+                "en": "Keep the heater running until you step out right at the bridge."
+              }
+            },
+            {
+              "name": "Hevsel Gardens Viewpoint",
+              "tip_5lang": {
+                "de": "Ein klarer Wintertag bietet hier die beste Fernsicht auf die Gärten.",
+                "hu": "Egy tiszta téli napon innen nyílik a legjobb távolsági kilátás a kertekre.",
+                "ro": "O zi senină de iarnă oferă cea mai bună vizibilitate asupra grădinilor.",
+                "en": "A clear winter day offers the best long-distance view of the gardens here."
+              }
+            },
+            {
+              "name": "City Walls of Diyarbakır (Cluster 2 - Dağ Kapı)",
+              "tip_5lang": {
+                "de": "Parken Sie windgeschützt; die Mauern können im Winter sehr zugig sein.",
+                "hu": "Parkoljon szélvédett helyen; a falak télen nagyon huzatosak lehetnek.",
+                "ro": "Parcați la adăpost de vânt; zidurile pot fi foarte geroase iarna.",
+                "en": "Park in a sheltered spot; the walls can be very drafty in winter."
+              }
+            },
+            {
+              "name": "St. George Church",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Museum als Aufwärmstopp zwischen den Außenbesichtigungen.",
+                "hu": "Használja a múzeumot bemelegedésre a külső helyszínek között.",
+                "ro": "Folosiți muzeul pentru a vă încălzi între vizitele exterioare.",
+                "en": "Use the museum as a warming stop between outdoor visits."
+              }
+            },
+            {
+              "name": "Hasan Pasha Han (Cluster 3)",
+              "tip_5lang": {
+                "de": "In der Nähe parken; der Han ist der wärmste Ort der Altstadt.",
+                "hu": "Parkoljon a közelben; a han az óváros legmelegebb pontja.",
+                "ro": "Parcați în apropiere; hanul este cel mai cald loc din centrul vechi.",
+                "en": "Park nearby; the han is the warmest spot in the old city."
+              }
+            },
+            {
+              "name": "Great Mosque (Ulu Cami)",
+              "tip_5lang": {
+                "de": "Vorsicht beim Aussteigen auf eventuell glatten Parkplatzflächen.",
+                "hu": "Vigyázzon kiszálláskor az esetlegesen csúszós parkolófelületekre.",
+                "ro": "Atenție la coborâre pe suprafețele de parcare eventual alunecoase.",
+                "en": "Be careful when stepping out on potentially slippery parking surfaces."
+              }
+            },
+            {
+              "name": "Cahit Sıtkı Tarancı Museum",
+              "tip_5lang": {
+                "de": "Ein gemütlicher Ort, um die Tour im Warmen zu beenden.",
+                "hu": "Hangulatos hely a túra melegben való befejezéséhez.",
+                "ro": "Un loc primitor pentru a încheia turul la căldură.",
+                "en": "A cozy place to finish your tour in the warm."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Frostschutz in Ihrem Fahrzeug vor der Fahrt.",
+              "Winterreifen sind in dieser Region wegen plötzlicher Glätte ratsam.",
+              "Die Parkplatzsuche in der Altstadt ist im Winter oft entspannter.",
+              "Nutzen Sie die Sitzheizung für die Fahrten zwischen den Clustern.",
+              "Planen Sie die Rückreise vor Einbruch der Dunkelheit (ca. 17 Uhr) ein."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze a fagyállót a gépjárműben.",
+              "A téli gumi javasolt ebben a régióban a hirtelen jegesedés miatt.",
+              "A parkolóhely-keresés az óvárosban télen gyakran egyszerűbb.",
+              "Használja az ülésfűtést a megállók közötti utazás során.",
+              "Tervezze meg a visszautat a sötétség beállta (kb. 17 óra) előtt."
+            ],
+            "ro": [
+              "Verificați antigelul vehiculului înainte de a porni la drum.",
+              "Anvelopele de iarnă sunt recomandate în această regiune din cauza poleiului.",
+              "Căutarea locului de parcare în centrul vechi este mai relaxată iarna.",
+              "Folosiți încălzirea în scaune pentru drumurile între obiective.",
+              "Planificați întoarcerea înainte de lăsarea întunericului (aprox. ora 17)."
+            ],
+            "en": [
+              "Check your vehicle's antifreeze levels before starting your trip.",
+              "Winter tires are recommended in this region due to sudden icing.",
+              "Finding parking in the old city is often easier during the winter.",
+              "Use your seat heaters for the drives between the clusters.",
+              "Plan your return journey before darkness falls (around 5 PM)."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1465,6 +2071,196 @@
           "Ask locals for help, they are happy to guide you to the correct bus line.",
           "Buses can be crowded during peak hours, watch your belongings."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie am Dağ Kapı, wo die Busse Sie direkt zu den mächtigen Mauern bringen. Das Tarancı Museum erreichen Sie mit einem kurzen Spaziergang im Regen. Mittags locken die Ulu Cami und der Hasan Pasha Han als trockene, geschichtsträchtige Stationen. Die Syrische Kirche bietet am Nachmittag besinnliche Stille. Mit dem Kleinbus geht es weiter zur Dicle-Brücke, wo Sie in den Teehäusern am Flussufer den Regentag gemütlich ausklingen lassen können.",
+            "hu": "Kezdje a Dağ-kapunál, ahová a buszok közvetlenül a hatalmas falakhoz repítik. A Tarancı Múzeum egy rövid esős sétával elérhető. Délben az Ulu Cami és a Hasan Pasha Han hívogat száraz, történelmi állomásként. A Szír templom délutáni békés menedéket nyújt. Mikrobusszal utazzon tovább a Tízszemű hídhoz, ahol a folyóparti teaházakban kényelmesen zárhatja az esős napot.",
+            "ro": "Începeți la Dağ Kapı, unde autobuzele vă lasă chiar lângă zidurile impunătoare. Muzeul Tarancı este la o scurtă plimbare prin ploaie. La prânz, Marea Moschee și Hanul Hasan Pasha vă atrag ca stații uscate pline de istorie. Biserica Siriacă oferă liniște după-amiaza. Cu un microbuz continuați spre Podul Dicle, unde vă puteți încheia ziua ploioasă relaxându-vă în cafenelele de pe malul râului.",
+            "en": "Start at Dağ Kapı, where buses drop you right by the massive walls. Reach the Tarancı Museum with a brief walk through the rain. By noon, the Great Mosque and Hasan Pasha Han beckon as dry, historical stops. The Syrian Church offers contemplative silence in the afternoon. Take a minibus further to Dicle Bridge, where you can cozily wrap up your rainy day in the riverside tea houses."
+          },
+          "stops": [
+            {
+              "name": "City Walls (Cluster 1 - Dağ Kapı)",
+              "tip_5lang": {
+                "de": "Warten Sie in den Torbögen auf den nächsten Anschlussbus.",
+                "hu": "Várjon a kapualjakban a következő csatlakozó buszra.",
+                "ro": "Așteptați sub arcadele porții următorul autobuz de legătură.",
+                "en": "Wait inside the gate archways for your next connecting bus."
+              }
+            },
+            {
+              "name": "Cahit Sıtkı Tarancı Museum",
+              "tip_5lang": {
+                "de": "Kurze Laufwege von der Bushaltestelle minimieren die Nässe.",
+                "hu": "A buszmegállótól való rövid séta segít szárazon maradni.",
+                "ro": "Distanțele scurte de la stația de autobuz reduc timpul petrecut în ploaie.",
+                "en": "Short walking distances from the bus stop minimize getting wet."
+              }
+            },
+            {
+              "name": "Great Mosque & Hasan Pasha Han",
+              "tip_5lang": {
+                "de": "Ein zentraler Knotenpunkt, perfekt um Regenpausen abzuwarten.",
+                "hu": "Központi csomópont, tökéletes az esőszünetek kivárására.",
+                "ro": "Un nod central, perfect pentru a aștepta oprirea ploii.",
+                "en": "A central hub, perfect for waiting out rain showers."
+              }
+            },
+            {
+              "name": "Assyrian Church of Virgin Mary",
+              "tip_5lang": {
+                "de": "Die Ruhe im Inneren lässt den prasselnden Regen draußen vergessen.",
+                "hu": "A belső nyugalom segít elfelejteni a kinti doboló esőt.",
+                "ro": "Liniștea din interior vă face să uitați de ploaia de afară.",
+                "en": "The tranquility inside makes you forget the drumming rain outside."
+              }
+            },
+            {
+              "name": "Dicle Bridge (Cluster 2)",
+              "tip_5lang": {
+                "de": "Nutzen Sie 'Dolmuş'-Minibusse für die Fahrt direkt bis zur Brücke.",
+                "hu": "Használja a 'Dolmuş' mikrobuszokat a hídhoz való közvetlen utazáshoz.",
+                "ro": "Folosiți microbuzele 'Dolmuş' pentru a ajunge direct la pod.",
+                "en": "Use 'Dolmuş' minibuses to travel directly to the bridge."
+              }
+            },
+            {
+              "name": "Riverside Tea Gardens",
+              "tip_5lang": {
+                "de": "Suchen Sie sich einen Platz direkt am Fenster mit Blick auf den Tigris.",
+                "hu": "Keressen egy helyet közvetlenül az ablaknál, kilátással a Tigrisre.",
+                "ro": "Căutați un loc chiar lângă fereastră cu vedere la Tigru.",
+                "en": "Find a spot right by the window with a view of the Tigris."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Dolmuş (Minibusse) fahren auch bei starkem Regen sehr regelmäßig.",
+              "Halten Sie Kleingeld für die Fahrpreise bereit, um Wartezeiten zu verkürzen.",
+              "Bushaltestellen in der Altstadt haben oft kleine Unterstände.",
+              "Nutzen Sie die Transit-Apps, um die Ankunftszeiten im Trockenen zu prüfen.",
+              "Bei starkem Regen sind Taxis eine günstige Ergänzung zum Busnetz."
+            ],
+            "hu": [
+              "A Dolmuşok (mikrobuszok) heves esőben is nagyon rendszeresen járnak.",
+              "Készítsen be aprópénzt a jegyhez, hogy elkerülje a várakozást.",
+              "Az óvárosi buszmegállók gyakran rendelkeznek kis védőtetővel.",
+              "Használja a közlekedési alkalmazásokat az érkezési idők ellenőrzéséhez.",
+              "Nagy esőben a taxi kedvező kiegészítője lehet a buszhálózatnak."
+            ],
+            "ro": [
+              "Microbuzele Dolmuş circulă foarte regulat chiar și pe ploaie torențială.",
+              "Pregătiți mărunțiș pentru bilete pentru a scurta timpul de așteptare.",
+              "Stațiile de autobuz din centrul vechi au adesea mici copertine.",
+              "Folosiți aplicațiile de transport pentru a verifica sosirile stând la adăpost.",
+              "Pe ploaie puternică, taxiurile sunt o completare ieftină la rețeaua de autobuze."
+            ],
+            "en": [
+              "Dolmuş minibuses run very regularly even during heavy rain.",
+              "Keep small change ready for fares to speed up boarding.",
+              "Bus stops in the old city often have small shelters.",
+              "Use transit apps to check arrival times while staying dry.",
+              "During heavy rain, taxis are an affordable supplement to the bus network."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie im beheizten Bus zur Dağ Kapı, wo die Mauern im kalten Winterlicht erstrahlen. Das Tarancı Museum bietet einen warmen Einblick in die Geschichte der Stadt. Mittags sind die Ulu Cami und der Hasan Pasha Han die perfekten Orte, um sich bei einem Tee aufzuwärmen. Nachmittags geht es mit dem Transit weiter zur Syrischen Kirche. Den Abschluss bildet die Dicle-Brücke, die Sie bequem mit dem Dolmuş erreichen, bevor es im Winterabend zurückgeht.",
+            "hu": "Kezdje a napot fűtött busszal a Dağ-kapu felé, ahol a falak ragyognak a hideg téli fényben. A Tarancı Múzeum meleg betekintést nyújt a város történelmébe. Délben az Ulu Cami és a Hasan Pasha Han a tökéletes hely a felmelegedésre egy tea mellett. Délután folytassa útját a Szír templomhoz. A napot a Tízszemű híd zárja, amelyet kényelmesen elérhet Dolmuşsal, mielőtt beköszönt a téli este.",
+            "ro": "Începeți ziua într-un autobuz încălzit spre Dağ Kapı, unde zidurile strălucesc în lumina rece de iarnă. Muzeul Tarancı oferă o incursiune caldă în istoria orașului. La prânz, Marea Moschee și Hanul Hasan Pasha sunt locurile perfecte pentru a vă încălzi cu un ceai. După-amiaza continuați cu transportul public spre Biserica Siriacă. Finalul este la Podul Dicle, unde ajungeți ușor cu Dolmuş înainte de seara de iarnă.",
+            "en": "Start in a heated bus to Dağ Kapı, where the walls shine in the cold winter light. The Tarancı Museum offers a warm insight into the city's history. By noon, the Great Mosque and Hasan Pasha Han are perfect spots to warm up with a tea. Continue your afternoon transit to the Syrian Church. Finish at the Dicle Bridge, easily reached by Dolmuş before the winter evening sets in."
+          },
+          "stops": [
+            {
+              "name": "City Walls (Cluster 1 - Dağ Kapı)",
+              "tip_5lang": {
+                "de": "Die Wartezeit an der Haltestelle ist kurz, da die Busfrequenz hoch ist.",
+                "hu": "A várakozási idő a megállóban rövid, mivel a buszok gyakran járnak.",
+                "ro": "Timpul de așteptare în stație este scurt datorită frecvenței mari a autobuzelor.",
+                "en": "Waiting time at the stop is short due to high bus frequency."
+              }
+            },
+            {
+              "name": "Cahit Sıtkı Tarancı Museum",
+              "tip_5lang": {
+                "de": "Ein angenehm temperierter Ort für den Vormittag.",
+                "hu": "Kellemes hőmérsékletű hely a délelőtti órákra.",
+                "ro": "Un loc cu o temperatură plăcută pentru prima parte a zilei.",
+                "en": "A pleasantly tempered place for the morning hours."
+              }
+            },
+            {
+              "name": "Great Mosque & Hasan Pasha Han",
+              "tip_5lang": {
+                "de": "In der Nähe der Haltestelle gibt es viele Cafés zum Aufwärmen.",
+                "hu": "A megálló közelében sok kávézó található a felmelegedéshez.",
+                "ro": "În apropierea stației sunt multe cafenele unde vă puteți încălzi.",
+                "en": "There are many cafes near the stop to warm up."
+              }
+            },
+            {
+              "name": "Assyrian Church of Virgin Mary",
+              "tip_5lang": {
+                "de": "Die dicken Mauern schützen gut vor dem winterlichen Wind.",
+                "hu": "A vastag falak jól védenek a téli szél ellen.",
+                "ro": "Zidurile groase protejează bine de vântul de iarnă.",
+                "en": "The thick walls provide good protection against the winter wind."
+              }
+            },
+            {
+              "name": "Dicle Bridge (Cluster 2)",
+              "tip_5lang": {
+                "de": "Steigen Sie direkt an der Brücke aus, um der Kälte kurz zu entgehen.",
+                "hu": "Szálljon le közvetlenül a hídnál, hogy elkerülje a hosszú kinti tartózkodást.",
+                "ro": "Coborâți chiar la pod pentru a evita expunerea prelungită la frig.",
+                "en": "Get off right at the bridge to minimize time in the cold."
+              }
+            },
+            {
+              "name": "Riverside Tea Gardens",
+              "tip_5lang": {
+                "de": "Genießen Sie den heißen Tee in der beheizten Glasveranda.",
+                "hu": "Élvezze a forró teát a fűtött üveges teraszon.",
+                "ro": "Savurați ceaiul fierbinte în veranda de sticlă încălzită.",
+                "en": "Enjoy hot tea in the heated glass veranda."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse und Dolmuş sind im Winter oft stark beheizt; ziehen Sie sich schichtweise an.",
+              "Die Fahrpläne bleiben im Winter stabil, es gibt kaum witterungsbedingte Ausfälle.",
+              "Nutzen Sie die Wartehäuschen, um dem Wind zu entgehen.",
+              "Halten Sie die 'Diyarkart' (Fahrkarte) griffbereit, um nicht lange im Kalten zu suchen.",
+              "Ab 17 Uhr wird es merklich kälter, planen Sie den Heimweg zeitnah ein."
+            ],
+            "hu": [
+              "A buszok és Dolmuşok télen gyakran túl vannak fűtve, öltözzön rétegesen.",
+              "A menetrendek télen is stabilak, ritkák az időjárás miatti járatkimaradások.",
+              "Használja a várótermeket, hogy elkerülje a hideg szelet.",
+              "Tartsa a 'Diyarkart' kártyáját kéznél, hogy ne a hidegben kelljen keresgélni.",
+              "17 óra után érezhetően hidegebb lesz, tervezze meg időben a hazautat."
+            ],
+            "ro": [
+              "Autobuzele și Dolmuş sunt adesea foarte încălzite iarna; îmbrăcați-vă în straturi.",
+              "Orarele rămân stabile iarna, fiind puține anulări din cauza vremii.",
+              "Folosiți adăposturile din stații pentru a evita vântul tăios.",
+              "Aveți cardul de transport 'Diyarkart' la îndemână pentru a nu căuta prin buzunare la ger.",
+              "După ora 17 se face mult mai frig, planificați drumul spre casă din timp."
+            ],
+            "en": [
+              "Buses and Dolmuş are often very well-heated in winter; dress in layers.",
+              "Schedules remain stable in winter with few weather-related cancellations.",
+              "Use the bus shelters to escape the biting wind.",
+              "Keep your 'Diyarkart' ready so you don't have to search in the cold.",
+              "It gets noticeably colder after 5 PM; plan your journey home accordingly."
+            ]
+          }
+        }
       }
     }
   }

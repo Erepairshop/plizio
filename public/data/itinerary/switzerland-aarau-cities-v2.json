@@ -386,6 +386,214 @@
           "Bring a water bottle; there are several public fountains.",
           "Allow enough time for the museums; they are surprisingly extensive."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag unter den berühmten Dachhimmeln der Altstadt, die auch bei Regen Schutz bieten. Die bemalten Giebel sind ein architektonisches Highlight.\nMittags finden Sie in der Stadtkirche einen Ort der Stille und Trockenheit, bevor Sie zu den Museen weiterziehen.\nDer Nachmittag gehört ganz der Kultur im Aargauer Kunsthaus und dem Naturama, wo Sie das Wetter draußen vergessen können.\nAm Abend bietet ein kurzer Spaziergang an der Aare eine mystische Stimmung, idealerweise mit einem stabilen Regenschirm.",
+            "hu": "Kezdje a napot az óváros híres festett ereszei alatt, amelyek esőben is védelmet nyújtanak. A tetőfestmények Aarau építészeti különlegességei.\nDélben a városi templom nyújt csendes és száraz menedéket, mielőtt továbbindulna a múzeumi negyed felé.\nA délutánt töltse az Aargauer Kunsthaus és a Naturama falai között, ahol teljesen elfelejtheti a kinti borús időt.\nEste egy rövid séta az Aare partján misztikus hangulatot áraszt a lámpafényben; egy strapabíró esernyő ajánlott.",
+            "ro": "Începeți ziua sub faimoasele streșini pictate din orașul vechi, care oferă protecție chiar și pe ploaie. Acestea sunt punctul culminant arhitectural al orașului.\nLa prânz, biserica orașului oferă un loc de liniște și uscăciune înainte de a porni spre zona muzeelor.\nDupă-amiaza este dedicată culturii la Muzeul de Artă și Naturama, unde puteți uita complet de vremea de afară.\nSeara, o scurtă plimbare de-a lungul râului Aare oferă o atmosferă mistică, ideal cu o umbrelă solidă la îndemână.",
+            "en": "Start your day under the famous painted eaves of the old town, which provide shelter even in the rain. These 'Dachhimmel' are Aarau's unique architectural gem.\nAt noon, the City Church offers a peaceful and dry refuge before you head towards the museum district.\nSpend the afternoon immersed in culture at the Aargau Art Museum and Naturama, where you can escape the damp weather.\nIn the evening, a short walk along the Aare river offers a misty, mystical atmosphere; a sturdy umbrella is highly recommended."
+          },
+          "stops": [
+            {
+              "name": "Aarau Town Hall & Old Town",
+              "tip_5lang": {
+                "de": "Nutzen Sie die tiefen Dachüberstände der Giebelhäuser als natürlichen Regenschutz.",
+                "hu": "Használja a házak mély ereszeit természetes esővédőként az utcákon.",
+                "ro": "Folosiți streșinile adânci ale caselor ca protecție naturală împotriva ploii.",
+                "en": "Use the deep eaves of the gabled houses as natural rain protection."
+              }
+            },
+            {
+              "name": "Obertorturm (Upper Gate Tower)",
+              "tip_5lang": {
+                "de": "Der Boden kann rutschig sein; betrachten Sie den Turm sicher von den Arkaden aus.",
+                "hu": "A burkolat csúszós lehet; csodálja meg a tornyot az árkádok biztonságából.",
+                "ro": "Pavejul poate fi alunecos; admirați turnul în siguranță de sub arcade.",
+                "en": "The ground can be slippery; admire the tower safely from under the arcades."
+              }
+            },
+            {
+              "name": "Aarau City Church",
+              "tip_5lang": {
+                "de": "Perfekter Ort für eine trockene Pause und um die Glasmalereien zu bewundern.",
+                "hu": "Tökéletes hely egy száraz pihenőre és az üvegablakok megcsodálására.",
+                "ro": "Locul perfect pentru o pauză uscată și pentru a admira vitraliile.",
+                "en": "Perfect place for a dry break and to admire the stained glass windows."
+              }
+            },
+            {
+              "name": "Schlössli Aarau (Little Castle)",
+              "tip_5lang": {
+                "de": "Das Stadtmuseum im Inneren bietet spannende Geschichte im Trockenen.",
+                "hu": "A belső városi múzeum izgalmas történelmet kínál száraz környezetben.",
+                "ro": "Muzeul orașului din interior oferă o istorie fascinantă la adăpost.",
+                "en": "The city museum inside offers fascinating history in a dry environment."
+              }
+            },
+            {
+              "name": "Aargau Art Museum",
+              "tip_5lang": {
+                "de": "Die Garderobe ist ideal, um nasse Mäntel und Schirme sicher abzugeben.",
+                "hu": "A ruhatár ideális a vizes kabátok és esernyők biztonságos elhelyezésére.",
+                "ro": "Garderoba este ideală pentru a lăsa hainele ude și umbrelele în siguranță.",
+                "en": "The cloakroom is ideal for leaving wet coats and umbrellas safely."
+              }
+            },
+            {
+              "name": "Naturama Aargau",
+              "tip_5lang": {
+                "de": "Ein erstklassiges Ziel für Familien, um Regentage interaktiv zu verbringen.",
+                "hu": "Elsőrangú célpont családoknak az esős napok interaktív eltöltéséhez.",
+                "ro": "O destinație de top pentru familii pentru a petrece zilele ploioase interactiv.",
+                "en": "A top-tier destination for families to spend rainy days interactively."
+              }
+            },
+            {
+              "name": "Walk along the Aare River",
+              "tip_5lang": {
+                "de": "Die Wege sind gut befestigt, aber wasserfeste Schuhe sind ratsam.",
+                "hu": "Az utak jól kiépítettek, de a vízálló cipő használata tanácsos.",
+                "ro": "Potecile sunt bine amenajate, dar se recomandă încălțăminte impermeabilă.",
+                "en": "Paths are well-paved, but waterproof shoes are highly recommended."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Aarau ist bekannt als Stadt der schönen Giebel; die Dachüberstände bieten viel Schutz.",
+              "Nutzen Sie die Museen (Naturama/Kunsthaus) als Ankerpunkte für die nassesten Stunden.",
+              "Die Altstadtgassen haben viele kleine Cafés unter Arkaden.",
+              "Ein Besuch im Schlössli verbindet Geschichte mit einer trockenen Umgebung.",
+              "Die Aare-Uferwege können bei starkem Regen etwas neblig, aber sehr fotogen sein."
+            ],
+            "hu": [
+              "Aarau a szép ereszek városa; a tetőnyúlványok kiváló védelmet nyújtanak.",
+              "Idzítse a múzeumlátogatásokat (Naturama/Kunsthaus) a legesősebb órákra.",
+              "Az óvárosi utcák számos kis kávézót rejtenek az árkádok alatt.",
+              "A Schlössli meglátogatása ötvözi a történelmet a száraz menedékkel.",
+              "Az Aare-parti utak erős esőben ködösek, de nagyon fotogének lehetnek."
+            ],
+            "ro": [
+              "Aarau este cunoscut ca orașul streșinilor frumoase; acestea oferă multă protecție.",
+              "Folosiți muzeele (Naturama/Kunsthaus) ca puncte de ancorare pentru orele cele mai ploioase.",
+              "Străduțele din orașul vechi au multe cafenele mici sub arcade.",
+              "O vizită la Schlössli îmbină istoria cu un mediu uscat.",
+              "Traseele de pe malul râului Aare pot fi cețoase pe ploaie, dar foarte fotogenice."
+            ],
+            "en": [
+              "Aarau is known as the city of beautiful eaves; the overhangs provide significant shelter.",
+              "Use the museums (Naturama/Art Museum) as anchor points during the wettest hours.",
+              "Old town alleys feature many small cafes tucked under protective arcades.",
+              "A visit to the Schlössli combines local history with a dry indoor environment.",
+              "The Aare riverside paths can be misty during rain but remain very photogenic."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie den winterlichen Charme von Aarau, wenn der Frost die mittelalterlichen Giebel ziert. Die klare Luft macht die Farben der Dachmalereien besonders intensiv.\nMittags wärmen Sie sich in der Stadtkirche auf, bevor Sie das Schlössli erkunden, das wie ein Märchenschloss im Winterlicht wirkt.\nDer Nachmittag ist perfekt für die beheizten Galerien des Kunsthauses, wo moderne Kunst auf winterliche Ruhe trifft.\nMit dem frühen Sonnenuntergang gegen 17:00 Uhr verwandelt sich die Aare in eine glitzernde Kulisse, ideal für einen kurzen, erfrischenden Spaziergang.",
+            "hu": "Élje át Aarau téli báját, amikor a dér díszíti a középkori ereszeket. A tiszta levegőben a tetőfestmények színei különösen intenzívek.\nDélben melegedjen fel a városi templomban, mielőtt felfedezné a Schlösslit, amely téli fényben mesebeli kastélynak tűnik.\nA délután tökéletes a Kunsthaus fűtött galériáira, ahol a modern művészet találkozik a téli nyugalommal.\nA korai, 17:00 óra körüli naplementével az Aare csillogó díszletté válik, ideális egy rövid, frissítő sétához.",
+            "ro": "Experimentați farmecul hibernal al orașului Aarau, când bruma împodobește streșinile medievale. Aerul curat face culorile picturilor de pe acoperișuri deosebit de intense.\nLa prânz, încălziți-vă în biserica orașului înainte de a explora Schlössli, care arată ca un castel de basm în lumina iernii.\nDupă-amiaza este perfectă pentru galeriile încălzite de la Kunsthaus, unde arta modernă întâlnește liniștea iernii.\nOdată cu apusul timpuriu în jur de ora 17:00, râul Aare se transformă într-un decor sclipitor, ideal pentru o plimbare scurtă și revigorantă.",
+            "en": "Experience Aarau's winter charm as frost clings to the medieval eaves. The crisp air makes the colors of the famous roof paintings appear even more vivid.\nWarm up at noon in the City Church before exploring the Schlössli, which looks like a fairytale castle in the winter light.\nThe afternoon is perfect for the heated galleries of the Art Museum, where modern art meets seasonal tranquility.\nWith the early sunset around 17:00, the Aare river becomes a glittering backdrop, ideal for a brief, refreshing walk before the evening chill."
+          },
+          "stops": [
+            {
+              "name": "Aarau Town Hall & Old Town",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Dachhimmel im klaren Winterlicht; Handschuhe nicht vergessen.",
+                "hu": "Csodálja meg a tetőfestményeket a tiszta téli fényben; ne felejtse el a kesztyűt.",
+                "ro": "Admirați picturile de sub streșini în lumina clară a iernii; nu uitați mănușile.",
+                "en": "Admire the painted eaves in the clear winter light; don't forget your gloves."
+              }
+            },
+            {
+              "name": "Obertorturm (Upper Gate Tower)",
+              "tip_5lang": {
+                "de": "Vorsicht vor Eis auf dem Kopfsteinpflaster rund um den historischen Turm.",
+                "hu": "Vigyázzon a jégre a történelmi torony körüli macskaköveken.",
+                "ro": "Atenție la gheața de pe pietrele cubice din jurul turnului istoric.",
+                "en": "Watch out for ice on the cobblestones around the historic tower."
+              }
+            },
+            {
+              "name": "Aarau City Church",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um der Kälte für einen Moment zu entfliehen.",
+                "hu": "Csendes hely, ahol egy pillanatra elmenekülhet a hideg elől.",
+                "ro": "Un loc liniștit pentru a scăpa de frig pentru un moment.",
+                "en": "A quiet place to escape the cold for a moment."
+              }
+            },
+            {
+              "name": "Schlössli Aarau (Little Castle)",
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten die Kälte draußen; ideal für Kultur im Winter.",
+                "hu": "A vastag falak kint tartják a hideget; ideális téli kulturális program.",
+                "ro": "Zidurile groase țin frigul afară; ideal pentru cultură pe timp de iarnă.",
+                "en": "The thick walls keep the cold out; ideal for winter culture."
+              }
+            },
+            {
+              "name": "Aargau Art Museum",
+              "tip_5lang": {
+                "de": "Genießen Sie die helle Architektur als Kontrast zum grauen Wintertag.",
+                "hu": "Élvezze a világos építészetet a szürke téli nap ellensúlyozására.",
+                "ro": "Bucurați-vă de arhitectura luminoasă ca contrast cu ziua cenușie de iarnă.",
+                "en": "Enjoy the bright architecture as a contrast to a grey winter day."
+              }
+            },
+            {
+              "name": "Naturama Aargau",
+              "tip_5lang": {
+                "de": "Die Ausstellungen sind gut beheizt und bieten Wärme für den ganzen Nachmittag.",
+                "hu": "A kiállítások jól fűtöttek, és egész délutánra meleget biztosítanak.",
+                "ro": "Expozițiile sunt bine încălzite și oferă căldură pentru întreaga după-amiază.",
+                "en": "The exhibitions are well-heated and provide warmth for the entire afternoon."
+              }
+            },
+            {
+              "name": "Walk along the Aare River",
+              "tip_5lang": {
+                "de": "Planen Sie diesen Stopp vor 16:30 Uhr ein, um das letzte Tageslicht zu nutzen.",
+                "hu": "Tervezze ezt a megállót 16:30 elé, hogy kihasználja az utolsó nappali fényt.",
+                "ro": "Planificați această oprire înainte de 16:30 pentru a profita de ultima lumină.",
+                "en": "Plan this stop before 16:30 to make the most of the last daylight."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie warme Schichten; die Temperaturen in den Gassen können sinken.",
+              "Sonnenuntergang ist bereits gegen 17:00 Uhr; starten Sie früh in den Tag.",
+              "Viele Cafés in der Altstadt bieten Schweizer heiße Schokolade an.",
+              "Die Museen bieten eine willkommene Aufwärmpause am Nachmittag.",
+              "Achten Sie auf Glatteis an den Uferwegen der Aare."
+            ],
+            "hu": [
+              "Öltözzön rétegesen; a sikátorokban a hőmérséklet gyorsan süllyedhet.",
+              "A naplemente már 17:00 körül bekövetkezik; kezdje korán a napot.",
+              "Az óváros kávézói kiváló svájci forró csokoládét kínálnak.",
+              "A múzeumok szívesen látott felmelegedési lehetőséget nyújtanak délután.",
+              "Ügyeljen a jegesedésre az Aare-parti sétányokon."
+            ],
+            "ro": [
+              "Purtați haine în straturi; temperaturile pe străduțe pot scădea rapid.",
+              "Apusul este deja în jur de ora 17:00; începeți ziua devreme.",
+              "Multe cafenele din orașul vechi oferă ciocolată caldă elvețiană.",
+              "Muzeele oferă o pauză de încălzire binevenită după-amiaza.",
+              "Fiți atenți la gheață pe potecile de pe malul râului Aare."
+            ],
+            "en": [
+              "Wear warm layers; temperatures in the narrow alleys can drop significantly.",
+              "Sunset is as early as 17:00; start your explorations early in the day.",
+              "Many old town cafes serve excellent authentic Swiss hot chocolate.",
+              "The museums serve as a perfect warming break during the afternoon.",
+              "Watch out for black ice on the paths along the Aare river."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -742,6 +950,196 @@
           "Use the well-developed cycle paths along the Aare.",
           "A helmet is strongly recommended."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Velotour im Regen erfordert gute Ausrüstung, aber Aarau bietet viele Etappenziele im Trockenen. Starten Sie am Bahnhof und steuern Sie direkt die Altstadt an.\nMittags bieten die Aare-Uferwege eine erfrischende Fahrt, sofern Sie Schutzbleche montiert haben. Das Schlössli ist ein guter Stopp für eine Pause.\nDer Nachmittag ist ideal, um das Fahrrad sicher am Kunsthaus zu parken und die Ausstellungen ausgiebig zu besuchen.\nBeenden Sie die Tour mit einer Fahrt durch die Laurenzenvorstadt, wo Sie in den Geschäften noch Besorgungen im Trockenen machen können.",
+            "hu": "Egy esős kerékpártúra jó felszerelést igényel, de Aarau sok száraz megállót kínál. Kezdjen az állomáson, és vegye az irányt az óváros felé.\nDélben az Aare-parti utak frissítő tekerést kínálnak, feltéve, ha van sárvédője. A Schlössli kiváló hely egy pihenőre.\nA délután ideális arra, hogy a biciklit a Kunsthausnál hagyja, és alaposan bejárja a kiállításokat.\nA túrát a Laurenzenvorstadt üzletei között fejezze be, ahol szárazon intézheti a vásárlást.",
+            "ro": "O tură cu bicicleta pe ploaie necesită echipament bun, dar Aarau oferă multe opriri la adăpost. Începeți de la gară și mergeți direct spre orașul vechi.\nLa prânz, pistele de pe malul râului Aare oferă o cursă revigorantă, cu condiția să aveți apărători de noroi. Schlössli este un punct bun de oprire.\nDupă-amiaza este ideală pentru a parca bicicleta în siguranță la Kunsthaus și a vizita expozițiile pe îndelete.\nÎncheiați turul cu o plimbare prin Laurenzenvorstadt, unde puteți face cumpărături la adăpost în magazine.",
+            "en": "A bike tour in the rain requires proper gear, but Aarau offers plenty of dry stops along the way. Start at the station and head straight for the old town shelter.\nAt noon, the Aare riverside paths offer a refreshing ride, provided you have mudguards installed. The Schlössli is a great spot for a break.\nThe afternoon is perfect for parking your bike securely at the Art Museum and spending time exploring the indoor galleries.\nEnd the tour with a ride through Laurenzenvorstadt, where you can do some shopping while staying relatively dry under the buildings."
+          },
+          "stops": [
+            {
+              "name": "Start at Aarau Station",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen bei Nässe; der Bahnhof bietet überdachte Fahrradständer.",
+                "hu": "Ellenőrizze a fékeket nedves időben; az állomás fedett kerékpártárolót kínál.",
+                "ro": "Verificați frânele pe carosabil umed; gara oferă rastele acoperite.",
+                "en": "Check your brakes in wet conditions; the station offers covered bike racks."
+              }
+            },
+            {
+              "name": "Old Town & Town Hall",
+              "tip_5lang": {
+                "de": "Das Kopfsteinpflaster kann sehr rutschig sein; fahren Sie vorsichtig.",
+                "hu": "A macskakő nagyon csúszós lehet; tekerjen óvatosan.",
+                "ro": "Pietrele cubice pot fi foarte alunecoase; conduceți cu prudență.",
+                "en": "Cobblestones can be very slippery when wet; ride with extra caution."
+              }
+            },
+            {
+              "name": "Aare riverside path & Castle",
+              "tip_5lang": {
+                "de": "Schutzbleche sind hier ein Muss, um Spritzwasser zu vermeiden.",
+                "hu": "A sárvédő itt kötelező, hogy elkerülje a felverődő vizet.",
+                "ro": "Apărătorile de noroi sunt obligatorii aici pentru a evita stropirea.",
+                "en": "Mudguards are a must here to avoid water spray from the path."
+              }
+            },
+            {
+              "name": "Aargau Art Museum",
+              "tip_5lang": {
+                "de": "Überdachte Abstellplätze vorhanden; nutzen Sie die Zeit für die Galerie.",
+                "hu": "Fedett tárolók állnak rendelkezésre; használja ki az időt a galériára.",
+                "ro": "Sunt disponibile locuri de parcare acoperite; profitați de timp pentru galerie.",
+                "en": "Covered parking spaces available; take your time in the gallery."
+              }
+            },
+            {
+              "name": "Roggenhausen Wildlife Park",
+              "tip_5lang": {
+                "de": "Die Waldwege können matschig sein; bleiben Sie auf den befestigten Pfaden.",
+                "hu": "Az erdei utak sarasak lehetnek; maradjon a kiépített ösvényeken.",
+                "ro": "Potecile din pădure pot fi noroioase; rămâneți pe traseele amenajate.",
+                "en": "Forest paths may be muddy; stick to the paved or well-maintained routes."
+              }
+            },
+            {
+              "name": "Return to the center via Laurenzenvorstadt",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden der Geschäfte für kurze Stopps im Trockenen.",
+                "hu": "Használja az üzletek árkádjait a rövid, száraz megállókhoz.",
+                "ro": "Folosiți arcadele magazinelor pentru scurte opriri la adăpost.",
+                "en": "Use the shop arcades for brief stops in the dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Kleidung und nutzen Sie Helmüberzüge.",
+              "Vorsicht auf Kopfsteinpflaster in der Altstadt; es wird bei Regen spiegelglatt.",
+              "Nutzen Sie die vielen überdachten Velo-Parkplätze der Stadt.",
+              "Die Uferwege an der Aare sind auch bei Regen gut befahrbar.",
+              "Halten Sie ein Tuch bereit, um den Sattel vor der Weiterfahrt zu trocknen."
+            ],
+            "hu": [
+              "Viseljen vízálló ruházatot és használjon sisakhuzatot.",
+              "Vigyázzon az óvárosi macskaköveken; esőben tükörsimává válnak.",
+              "Használja ki a város számos fedett kerékpártárolóját.",
+              "Az Aare-parti utak esőben is jól járhatók biciklivel.",
+              "Legyen Önnél egy rongy, amivel indulás előtt letörölheti a nyerget."
+            ],
+            "ro": [
+              "Purtați haine impermeabile și folosiți huse pentru cască.",
+              "Atenție la pietrele cubice din orașul vechi; devin foarte alunecoase pe ploaie.",
+              "Folosiți numeroasele parcări acoperite pentru biciclete din oraș.",
+              "Traseele de pe malul râului Aare sunt practicabile chiar și pe ploaie.",
+              "Aveți la îndemână o cârpă pentru a șterge șaua înainte de a pleca."
+            ],
+            "en": [
+              "Wear full waterproof gear and consider a helmet cover.",
+              "Be extremely careful on old town cobblestones; they become slippery like ice.",
+              "Take advantage of the many covered bike parking spots throughout the city.",
+              "The Aare riverside paths remain in good condition even during rainfall.",
+              "Keep a small towel handy to dry your saddle before each leg of the trip."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterradeln in Aarau bietet klare Sicht auf die Aarelandschaft. Starten Sie dick eingepackt am Bahnhof und radeln Sie vorsichtig durch die Altstadt.\nMittags führt die Tour am Fluss entlang, wo der Reif die Bäume verzaubert. Ein Aufwärmstopp im Schlössli ist jetzt genau das Richtige.\nDer Nachmittag eignet sich für den Besuch des Kunsthauses, während Ihr Fahrrad draußen in der Kälte wartet.\nKehren Sie vor Einbruch der Dunkelheit über die Laurenzenvorstadt zurück, wenn die Schaufenster festlich beleuchtet sind.",
+            "hu": "A téli kerékpározás Aarau-ban tiszta rálátást nyújt az Aare tájára. Kezdjen rétegesen öltözve az állomáson, és óvatosan tekerjen át az óvároson.\nDélben a túra a folyó mentén halad, ahol a zúzmara varázsolja el a fákat. Egy melegedő pihenő a Schlössliben most pont jókor jön.\nA délután alkalmas a Kunsthaus meglátogatására, miközben a bicikli kint vár a hidegben.\nSötétedés előtt térjen vissza a Laurenzenvorstadton keresztül, amikor a kirakatok már ünnepi fényben úsznak.",
+            "ro": "Ciclismul de iarnă în Aarau oferă vederi clare asupra peisajului râului Aare. Începeți bine înfofoliți de la gară și pedalați cu atenție prin orașul vechi.\nLa prânz, turul continuă de-a lungul râului, unde chiciura transformă copacii. O pauză de încălzire la Schlössli este exact ce trebuie.\nDupă-amiaza este potrivită pentru vizitarea Kunsthaus, în timp ce bicicleta așteaptă afară în frig.\nÎntoarceți-vă înainte de lăsarea întunericului prin Laurenzenvorstadt, când vitrinele sunt iluminate festiv.",
+            "en": "Winter cycling in Aarau offers clear views of the frosty Aare landscape. Start well-layered at the station and ride carefully through the old town alleys.\nAt noon, the route takes you along the river, where hoarfrost creates a magical scene on the trees. A warming stop at the Schlössli is perfect now.\nThe afternoon is best spent in the heated Art Museum galleries while your bike stays outside in the crisp air.\nReturn via Laurenzenvorstadt before dark to enjoy the festive lights in the shop windows."
+          },
+          "stops": [
+            {
+              "name": "Start at Aarau Station",
+              "tip_5lang": {
+                "de": "Achten Sie auf gefrorene Stellen am Boden der Unterführungen.",
+                "hu": "Ügyeljen a fagyott foltokra az aluljárók aljzatán.",
+                "ro": "Atenție la porțiunile înghețate de pe solul pasajelor subterane.",
+                "en": "Watch out for frozen patches on the ground in the underpasses."
+              }
+            },
+            {
+              "name": "Old Town & Town Hall",
+              "tip_5lang": {
+                "de": "Das historische Pflaster kann bei Frost tückisch glatt sein.",
+                "hu": "A történelmi burkolat fagyban csalókán csúszós lehet.",
+                "ro": "Pavajul istoric poate fi înșelător de alunecos pe timp de îngheț.",
+                "en": "The historic pavement can be treacherously slippery during frost."
+              }
+            },
+            {
+              "name": "Aare riverside path & Castle",
+              "tip_5lang": {
+                "de": "Meiden Sie bei Glatteis die unbefestigten Abschnitte direkt am Wasser.",
+                "hu": "Jegesedés esetén kerülje a közvetlenül a víz melletti kiépítetlen szakaszokat.",
+                "ro": "Evitați porțiunile neamenajate direct de lângă apă dacă este polei.",
+                "en": "Avoid unpaved sections directly by the water if there is ice."
+              }
+            },
+            {
+              "name": "Aargau Art Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die warme Garderobe für Helm und Winterausrüstung.",
+                "hu": "Használja a meleg ruhatárat a sisak és a téli felszerelés elhelyezésére.",
+                "ro": "Folosiți garderoba încălzită pentru cască și echipamentul de iarnă.",
+                "en": "Use the warm cloakroom for your helmet and winter gear."
+              }
+            },
+            {
+              "name": "Roggenhausen Wildlife Park",
+              "tip_5lang": {
+                "de": "Kurze Tage beachten; der Park ist im Winter besonders ruhig.",
+                "hu": "Ügyeljen a rövid nappalokra; a park télen különösen csendes.",
+                "ro": "Atenție la zilele scurte; parcul este deosebit de liniștit iarna.",
+                "en": "Note the short daylight hours; the park is exceptionally quiet in winter."
+              }
+            },
+            {
+              "name": "Return to the center via Laurenzenvorstadt",
+              "tip_5lang": {
+                "de": "Die Beleuchtung ab 16:30 Uhr sorgt für eine schöne Atmosphäre.",
+                "hu": "A 16:30-kor kezdődő világítás szép hangulatot áraszt.",
+                "ro": "Iluminatul de la ora 16:30 creează o atmosferă plăcută.",
+                "en": "The lighting from 16:30 onwards provides a lovely atmosphere."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Thermo-Handschuhe und winddichte Kleidung sind bei Abfahrten wichtig.",
+              "Prüfen Sie den Reifendruck; etwas weniger Druck bietet mehr Grip auf Schnee.",
+              "Die Sonne geht früh unter; stellen Sie sicher, dass Ihr Licht funktioniert.",
+              "Vermeiden Sie scharfes Bremsen auf Metall-Schachtdeckeln.",
+              "Ein heißer Tee in einer Thermoskanne ist der ideale Begleiter."
+            ],
+            "hu": [
+              "A termokesztyű és a szélálló ruházat elengedhetetlen a lejtőkön.",
+              "Ellenőrizze a guminyomást; a kisebb nyomás jobb tapadást ad havon.",
+              "A nap korán nyugszik; győződjön meg róla, hogy a lámpák működnek.",
+              "Kerülje az erős fékezést a fém csatornafedeleken.",
+              "Egy termoszban lévő forró tea ideális kísérő a túrához."
+            ],
+            "ro": [
+              "Mănușile termice și hainele rezistente la vânt sunt esențiale la coborâri.",
+              "Verificați presiunea în anvelope; o presiune mai mică oferă aderență pe zăpadă.",
+              "Soarele apune devreme; asigurați-vă că luminile funcționează corect.",
+              "Evitați frânarea bruscă pe capacele metalice de canalizare.",
+              "Un ceai fierbinte într-un termos este tovarășul ideal de drum."
+            ],
+            "en": [
+              "Thermal gloves and windproof clothing are essential for descents.",
+              "Check tire pressure; slightly lower pressure provides better grip on snow.",
+              "Sunset is early; ensure your bike lights are fully functional before starting.",
+              "Avoid sudden braking on metal manhole covers or utility plates.",
+              "A hot tea in a thermos is the perfect companion for a winter ride."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1126,6 +1524,214 @@
           "Allow some buffer time for traffic, especially in the afternoon.",
           "Many parking spaces are time-limited (blue zone)."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden Sie Aarau bequem und bleiben zwischen den Stopps trocken. Parken Sie zentral im Parkhaus Flösserplatz für die Altstadt.\nMittags ist die kurze Fahrt zur Stadtkirche unkompliziert. Genießen Sie die Aussicht auf die verregnete Stadt aus dem trockenen Fahrzeug.\nDer Nachmittag am Kultur-Cluster ist ideal, da Parkplätze in unmittelbarer Nähe zum Kunsthaus und Naturama vorhanden sind.\nZum Abschluss führt eine Fahrt zum Wildpark Roggenhausen, wo Sie auch bei Regen vom Auto aus Natur beobachten können, bevor Sie zum Aare-Ufer fahren.",
+            "hu": "Autóval kényelmesen fedezheti fel Aarau-t, és szárazon maradhat a megállók között. Parkoljon központilag a Flösserplatz parkolóházban az óvároshoz.\nDélben a rövid út a városi templomhoz egyszerű. Élvezze az esős város látványát a száraz gépjárműből.\nA délután a kulturális negyedben ideális, mivel a parkolók közvetlenül a Kunsthaus és a Naturama mellett találhatók.\nZárásként vezessen el a Roggenhausen vadasparkhoz, ahol esőben is megfigyelheti a természetet az autóból, mielőtt az Aare-parthoz hajtana.",
+            "ro": "Cu mașina, explorați Aarau confortabil și rămâneți uscați între opriri. Parcați central în parcarea Flösserplatz pentru orașul vechi.\nLa prânz, drumul scurt către biserica orașului este simplu. Bucurați-vă de vederea orașului ploios din interiorul vehiculului uscat.\nDupă-amiaza la clusterul cultural este ideală, deoarece există locuri de parcare în imediata apropiere a Kunsthaus și Naturama.\nLa final, o unitate la parcul de animale Roggenhausen vă permite să observați natura din mașină, chiar și pe ploaie.",
+            "en": "By car, you can explore Aarau comfortably while staying dry between stops. Park centrally at the Flösserplatz garage for easy access to the old town.\nAt noon, the short drive to the City Church is straightforward. Enjoy the view of the rainy city from the comfort of your dry vehicle.\nThe afternoon at the Culture Cluster is ideal, with parking available in the immediate vicinity of both the Art Museum and Naturama.\nConclude with a drive to Roggenhausen Wildlife Park, where you can observe nature from your car even in the rain before heading to the Aare bank."
+          },
+          "stops": [
+            {
+              "name": "Old Town Car Park & Start",
+              "tip_5lang": {
+                "de": "Überdachtes Parken schützt Sie beim Ein- und Aussteigen vor Regen.",
+                "hu": "A fedett parkolás megvédi Önt az esőtől a be- és kiszálláskor.",
+                "ro": "Parcarea acoperită vă protejează de ploaie la urcare și coborâre.",
+                "en": "Covered parking protects you from the rain when entering and exiting."
+              }
+            },
+            {
+              "name": "Town Hall & Obertorturm",
+              "tip_5lang": {
+                "de": "Kurze Wege zur Altstadt minimieren die Zeit im Freien.",
+                "hu": "Az óvároshoz vezető rövid utak minimalizálják a szabadban töltött időt.",
+                "ro": "Distanțele scurte până în orașul vechi minimizează timpul petrecut afară.",
+                "en": "Short walking distances to the old town minimize time spent in the rain."
+              }
+            },
+            {
+              "name": "Aarau City Church",
+              "tip_5lang": {
+                "de": "Nutzen Sie nahegelegene Parkbuchten für einen schnellen Zugang.",
+                "hu": "Használja a közeli parkolóhelyeket a gyors bejutáshoz.",
+                "ro": "Folosiți locurile de parcare din apropiere pentru acces rapid.",
+                "en": "Use nearby street parking spots for quick and easy access."
+              }
+            },
+            {
+              "name": "Drive to the Culture Cluster",
+              "tip_5lang": {
+                "de": "Lassen Sie die Schirme im Auto, wenn Sie in der Garage parken.",
+                "hu": "Hagyja az esernyőket az autóban, ha a garázsban parkol.",
+                "ro": "Lăsați umbrelele în mașină dacă parcați în garajul subteran.",
+                "en": "Leave umbrellas in the car if you are parking in a connected garage."
+              }
+            },
+            {
+              "name": "Aargau Art Museum",
+              "tip_5lang": {
+                "de": "Direkter Zugang vom Parkplatz zum Museumseingang möglich.",
+                "hu": "Közvetlen bejutás lehetséges a parkolótól a múzeum bejáratához.",
+                "ro": "Acces direct posibil de la parcare la intrarea muzeului.",
+                "en": "Direct access is possible from the parking area to the museum entrance."
+              }
+            },
+            {
+              "name": "Drive to Roggenhausen Wildlife Park",
+              "tip_5lang": {
+                "de": "Der Parkplatz bietet einen guten Blick auf die ersten Gehege.",
+                "hu": "A parkolóból jó rálátás nyílik az első kifutókra.",
+                "ro": "Parcarea oferă o vedere bună asupra primelor țarcuri de animale.",
+                "en": "The parking lot offers a good view of the first animal enclosures."
+              }
+            },
+            {
+              "name": "Return journey and walk along the Aare",
+              "tip_5lang": {
+                "de": "Parken Sie am Schachen für einen kurzen, regengeschützten Blick.",
+                "hu": "Parkoljon a Schachennél egy rövid, esőtől védett kilátáshoz.",
+                "ro": "Parcați la Schachen pentru o vedere scurtă, protejată de ploaie.",
+                "en": "Park at Schachen for a quick, rain-protected view of the river."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Parkhäuser Kasino oder Flösserplatz für die Altstadt.",
+              "Vermeiden Sie bei starkem Regen Parkplätze direkt am Aare-Ufer (Hochwassergefahr).",
+              "Die Sicht kann auf den schmalen Brücken eingeschränkt sein.",
+              "Zahlreiche Parkmöglichkeiten direkt bei den Museen vorhanden.",
+              "Halten Sie Kleingeld oder eine Park-App bereit."
+            ],
+            "hu": [
+              "Használja a Kasino vagy Flösserplatz parkolóházakat az óvároshoz.",
+              "Erős esőben kerülje az Aare-parti parkolókat (árvízveszély).",
+              "A látási viszonyok korlátozottak lehetnek a keskeny hidakon.",
+              "Számos parkolási lehetőség van közvetlenül a múzeumoknál.",
+              "Készítsen elő aprópénzt vagy használjon parkolóalkalmazást."
+            ],
+            "ro": [
+              "Folosiți parcările Kasino sau Flösserplatz pentru orașul vechi.",
+              "Evitați parcările direct pe malul râului Aare pe ploaie torențială (risc de inundații).",
+              "Vizibilitatea poate fi redusă pe podurile înguste.",
+              "Numeroase posibilități de parcare direct lângă muzee.",
+              "Aveți la îndemână mărunțiș sau o aplicație de parcare."
+            ],
+            "en": [
+              "Use the Kasino or Flösserplatz parking garages for old town access.",
+              "Avoid parking directly at the Aare bank during heavy rain (flood risk).",
+              "Visibility can be limited on the narrow bridges when it pours.",
+              "Numerous parking options are available right next to the major museums.",
+              "Keep small change or a parking app ready for the meters."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine Wintertour mit dem Auto zeigt Aarau von seiner gemütlichsten Seite. Starten Sie mit einem beheizten Wagen und parken Sie in der Nähe der Altstadt.\nMittags ist die Fahrt durch die verschneite Vorstadt besonders reizvoll. Besuchen Sie die Stadtkirche und das Schlössli ohne langes Frieren.\nDer Nachmittag im Kunsthaus bietet einen warmen Rückzugsort, während das Auto in der Tiefgarage sicher vor Frost steht.\nBeenden Sie den Tag mit einer Panoramafahrt entlang der Aare, bevor die Dunkelheit einsetzt und die Stadtlichter sich im Eis spiegeln.",
+            "hu": "A téli autós túra Aarau legotthonosabb oldalát mutatja meg. Kezdjen fűtött autóval, és parkoljon az óváros közelében.\nDélben a havas elővároson keresztüli autózás különösen vonzó. Látogassa meg a városi templomot és a Schlösslit fázás nélkül.\nA délután a Kunsthausban meleg menedéket nyújt, miközben az autó a mélygarázsban védve van a fagytól.\nZárja a napot egy panorámás autózással az Aare mentén, mielőtt beáll a sötétség és a város fényei tükröződnek a jégen.",
+            "ro": "Un tur de iarnă cu mașina arată orașul Aarau din cea mai primitoare perspectivă. Începeți cu o mașină încălzită și parcați aproape de orașul vechi.\nLa prânz, drumul prin suburbiile înzăpezite este deosebit de atractiv. Vizitați biserica și Schlössli fără a îngheța afară prea mult timp.\nDupă-amiaza la Kunsthaus oferă un refugiu cald, în timp ce mașina este protejată de îngheț în parcarea subterană.\nÎncheiați ziua cu o plimbare panoramică de-a lungul râului Aare înainte de lăsarea întunericului.",
+            "en": "A winter tour by car reveals Aarau at its most cozy. Start with a pre-heated vehicle and find a parking spot close to the old town center.\nAt noon, the drive through the snow-dusted suburbs is particularly charming. Visit the City Church and Schlössli without enduring the cold for too long.\nThe afternoon at the Art Museum provides a warm sanctuary while your car remains frost-free in an underground garage.\nEnd the day with a scenic drive along the Aare river before darkness sets in and the city lights reflect in the icy water."
+          },
+          "stops": [
+            {
+              "name": "Old Town Car Park & Start",
+              "tip_5lang": {
+                "de": "Tiefgaragen verhindern das Einfrieren der Scheiben während des Besuchs.",
+                "hu": "A mélygarázsok megakadályozzák az ablakok befagyását a látogatás alatt.",
+                "ro": "Parcările subterane previn înghețarea parbrizului în timpul vizitei.",
+                "en": "Underground garages prevent your windows from icing over during the visit."
+              }
+            },
+            {
+              "name": "Town Hall & Obertorturm",
+              "tip_5lang": {
+                "de": "Planen Sie Zeit für das Einparken ein, da Wintertouristen oft die Garagen nutzen.",
+                "hu": "Számoljon időt a parkolásra, mivel a téli turisták gyakran használják a garázsokat.",
+                "ro": "Alocați timp pentru parcare, deoarece turiștii de iarnă folosesc des garajele.",
+                "en": "Allow extra time for parking, as winter visitors often prefer indoor garages."
+              }
+            },
+            {
+              "name": "Aarau City Church",
+              "tip_5lang": {
+                "de": "Die Straßen zum Kirchhügel können bei Frost rutschig sein.",
+                "hu": "A templomdombra vezető utcák fagyban csúszósak lehetnek.",
+                "ro": "Străzile spre dealul bisericii pot fi alunecoase pe timp de îngheț.",
+                "en": "The streets leading up to the church hill can be slippery during frost."
+              }
+            },
+            {
+              "name": "Drive to the Culture Cluster",
+              "tip_5lang": {
+                "de": "Kurze Fahrzeit bedeutet, dass der Motor kaum warm wird; achten Sie auf die Heizung.",
+                "hu": "A rövid menetidő miatt a motor alig melegszik fel; ügyeljen a fűtésre.",
+                "ro": "Timpul scurt de condus înseamnă că motorul abia se încălzește; atenție la căldură.",
+                "en": "Short driving times mean the engine barely warms up; check your heater settings."
+              }
+            },
+            {
+              "name": "Aargau Art Museum",
+              "tip_5lang": {
+                "de": "Parken Sie im 'Bahnhof'-Parkhaus für einen kurzen Fußweg im Warmen.",
+                "hu": "Parkoljon a 'Bahnhof' parkolóházban a rövid, meleg gyalogút érdekében.",
+                "ro": "Parcați în parcarea 'Bahnhof' pentru o plimbare scurtă la căldură.",
+                "en": "Park in the 'Bahnhof' garage for a short walk in a mostly indoor area."
+              }
+            },
+            {
+              "name": "Drive to Roggenhausen Wildlife Park",
+              "tip_5lang": {
+                "de": "Die Zufahrt kann bei Schnee steil wirken; Winterreifen sind Pflicht.",
+                "hu": "A felvezető út hóban meredeknek tűnhet; a téli gumi kötelező.",
+                "ro": "Accesul poate părea abrupt pe zăpadă; anvelopele de iarnă sunt obligatorii.",
+                "en": "The access road can feel steep in snow; winter tires are mandatory."
+              }
+            },
+            {
+              "name": "Return journey and walk along the Aare",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick aus dem Fenster, wenn es draußen zu kalt wird.",
+                "hu": "Élvezze a kilátást az ablakból, ha kint túl hideg lesz.",
+                "ro": "Bucurați-vă de vedere de la geam dacă afară devine prea frig.",
+                "en": "Enjoy the view from the window if it gets too cold outside."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Ihr Frostschutzmittel aufgefüllt ist.",
+              "Parkhäuser sind im Winter oft voll; nutzen Sie Park-Leitsysteme.",
+              "Vorsicht vor Blitzeis auf den Aare-Brücken.",
+              "Die Bergstraße nach Roggenhausen wird gut geräumt, kann aber glatt sein.",
+              "Halten Sie einen Eiskratzer griffbereit, falls Sie draußen parken."
+            ],
+            "hu": [
+              "Győződjön meg róla, hogy a fagyálló folyadék fel van töltve.",
+              "A parkolóházak télen gyakran teltek; használja a parkolásirányító rendszert.",
+              "Vigyázzon a tükörjégre az Aare-hidakon.",
+              "A Roggenhausenbe vezető hegyi utat jól takarítják, de csúszós lehet.",
+              "Tartson jégkaparót kéznél, ha kint parkolna."
+            ],
+            "ro": [
+              "Asigurați-vă că nivelul lichidului antigel este corespunzător.",
+              "Parcările sunt deseori pline iarna; folosiți sistemele de ghidare.",
+              "Atenție la polei pe podurile peste râul Aare.",
+              "Drumul spre Roggenhausen este bine deszăpezit, dar poate fi alunecos.",
+              "Aveți o racletă la îndemână dacă parcați afară."
+            ],
+            "en": [
+              "Ensure your anti-freeze and washer fluid levels are topped up.",
+              "Parking garages fill up quickly in winter; follow the guidance systems.",
+              "Beware of black ice, especially on the bridges crossing the Aare.",
+              "The mountain road to Roggenhausen is well-maintained but can be slick.",
+              "Keep an ice scraper handy in case you need to park outdoors."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1482,6 +2088,196 @@
           "Pay attention to the bus numbers and final destinations.",
           "Buses usually run on time, so be at the stop in good time."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der öffentliche Verkehr in Aarau ist perfekt auf Regentage abgestimmt. Starten Sie trocken am Bahnhof und nutzen Sie die kurzen Busintervalle zur Altstadt.\nMittags bringt Sie der Bus direkt vor die Tore der Stadtkirche, sodass Sie kaum nass werden. Das Schlössli ist ebenfalls gut angebunden.\nDer Nachmittag am Museumscluster lässt sich ideal mit dem Transit kombinieren; die Haltestellen liegen fast direkt vor den Eingängen.\nBeenden Sie den Tag entspannt mit einer Busfahrt zurück zum Bahnhof, während Sie den Regen an den Fensterscheiben beobachten.",
+            "hu": "Aarau tömegközlekedése tökéletesen alkalmazkodik az esős napokhoz. Kezdjen szárazon az állomáson, és használja a rövid buszjáratokat az óvároshoz.\nDélben a busz közvetlenül a városi templom kapuja elé viszi, így alig lesz vizes. A Schlössli is jól megközelíthető.\nA délután a múzeumi negyedben ideálisan kombinálható a tömegközlekedéssel; a megállók szinte a bejáratok előtt vannak.\nZárja a napot pihentetően egy buszúttal vissza az állomásra, miközben az ablakon lecsorgó esőt nézi.",
+            "ro": "Transportul public din Aarau este perfect adaptat pentru zilele ploioase. Începeți uscați la gară și folosiți intervalele scurte ale autobuzelor spre orașul vechi.\nLa prânz, autobuzul vă lasă chiar în fața porților bisericii, așa că abia dacă vă veți uda. Schlössli este de asemenea bine conectat.\nDupă-amiaza la clusterul de muzee este ideal de combinat cu tranzitul; stațiile sunt aproape direct în fața intrărilor.\nÎncheiați ziua relaxați cu o cursă de autobuz înapoi la gară, privind ploaia pe geam.",
+            "en": "Aarau's public transport is perfectly suited for rainy days. Start your journey dry at the station and take advantage of frequent bus links to the old town.\nAt noon, the bus drops you right in front of the City Church, minimizing your exposure to the rain. The Schlössli is also easily accessible.\nThe afternoon at the museum cluster is a perfect transit destination; stops are located almost directly in front of the entrances.\nEnd your day comfortably with a bus ride back to the station, watching the raindrops race down the windows."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Aarau Station",
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachte Bahnhofshalle für den Umstieg.",
+                "hu": "Használja a fedett pályaudvart az átszálláshoz.",
+                "ro": "Folosiți holul gării acoperit pentru transfer.",
+                "en": "Use the covered station hall for a dry transfer between lines."
+              }
+            },
+            {
+              "name": "Bus ride to the Old Town (Cluster 1)",
+              "tip_5lang": {
+                "de": "Die Busse fahren alle paar Minuten und halten nah an den Giebelhäusern.",
+                "hu": "A buszok pár percenként járnak, és közel állnak meg az ereszes házakhoz.",
+                "ro": "Autobuzele circulă la câteva minute și opresc aproape de casele cu streșini.",
+                "en": "Buses run every few minutes and stop close to the historic gabled houses."
+              }
+            },
+            {
+              "name": "Town Hall & City Church",
+              "tip_5lang": {
+                "de": "Überdachte Bushaltestellen in der Nähe bieten Schutz beim Warten.",
+                "hu": "A közeli fedett buszmegállók védelmet nyújtanak várakozás közben.",
+                "ro": "Stațiile de autobuz acoperite din apropiere oferă protecție în timp ce așteptați.",
+                "en": "Covered bus stops nearby provide shelter while waiting for your connection."
+              }
+            },
+            {
+              "name": "Schlössli Aarau (Little Castle)",
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint von der Haltestelle zum Eingang genügt.",
+                "hu": "Egy rövid sprint a megállótól a bejáratig elegendő.",
+                "ro": "Un scurt sprint de la stație până la intrare este suficient.",
+                "en": "A quick dash from the bus stop to the entrance is all you need."
+              }
+            },
+            {
+              "name": "Bus ride to the Museum Cluster (Cluster 2)",
+              "tip_5lang": {
+                "de": "Bleiben Sie trocken im Bus, während Sie zwischen den Stadtteilen wechseln.",
+                "hu": "Maradjon szárazon a buszon a városrészek közötti váltáskor.",
+                "ro": "Rămâneți uscați în autobuz în timp ce vă deplasați între cartiere.",
+                "en": "Stay dry inside the bus as you travel between different parts of the city."
+              }
+            },
+            {
+              "name": "Aargau Art Museum & Naturama",
+              "tip_5lang": {
+                "de": "Die Haltestelle 'Kunsthaus' liegt direkt am Museumsplatz.",
+                "hu": "A 'Kunsthaus' megálló közvetlenül a múzeum téren található.",
+                "ro": "Stația 'Kunsthaus' este situată direct în piața muzeului.",
+                "en": "The 'Kunsthaus' stop is located directly at the museum square."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie ein Tages-Ticket für unbegrenzte Fahrten im Trockenen.",
+              "Die Busse sind im Winter und bei Regen sehr zuverlässig und warm.",
+              "Nutzen Sie die SBB Mobile App für Echtzeit-Verbindungen.",
+              "Haltestellen in der Altstadt sind oft unter Arkaden oder überdacht.",
+              "Der Bahnhof Aarau bietet viele Einkaufsmöglichkeiten im Trockenen."
+            ],
+            "hu": [
+              "Vásároljon napijegyet a korlátlan, száraz utazáshoz.",
+              "A buszok télen és esőben is nagyon megbízhatóak és fűtöttek.",
+              "Használja az SBB Mobile alkalmazást a valós idejű csatlakozásokhoz.",
+              "Az óvárosi megállók gyakran árkádok alatt vagy fedett helyen vannak.",
+              "Az aaraui pályaudvar számos száraz vásárlási lehetőséget kínál."
+            ],
+            "ro": [
+              "Cumpărați un bilet de o zi pentru călătorii nelimitate la adăpost.",
+              "Autobuzele sunt foarte fiabile și încălzite iarna și pe ploaie.",
+              "Folosiți aplicația SBB Mobile pentru conexiuni în timp real.",
+              "Stațiile din orașul vechi sunt deseori sub arcade sau acoperite.",
+              "Gara Aarau oferă multe posibilități de cumpărături la adăpost."
+            ],
+            "en": [
+              "Purchase a day pass for unlimited, dry travel throughout the city zones.",
+              "Buses are highly reliable and well-heated during winter and rain.",
+              "Use the SBB Mobile app to track connections in real-time.",
+              "Many bus stops in the old town are located under arcades or shelters.",
+              "Aarau station features extensive indoor shopping and dining options."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Mit Bus und Bahn lässt sich Aarau im Winter am gemütlichsten erkunden. Starten Sie am warmen Bahnhof und nutzen Sie den dichten Fahrplan in die Altstadt.\nMittags sind die geheizten Busse ein Segen, um zwischen den historischen Stopps zu wechseln. Die Stadtkirche ist nur einen kurzen Sprung entfernt.\nDer Nachmittag im Museumsviertel ist perfekt mit dem Transit erreichbar, was Ihnen lange Wege in der Kälte erspart.\nBeobachten Sie am Abend die festlich beleuchtete Stadt aus dem Panoramafenster des Busses, bevor Sie zurück zum Bahnhof fahren.",
+            "hu": "Busszal és vonattal a legkényelmesebb Aarau felfedezése télen. Kezdjen a meleg pályaudvaron, és használja a sűrű menetrendet az óvárosba.\nDélben a fűtött buszok áldást jelentenek a történelmi megállók közötti közlekedéshez. A városi templom csak egy ugrásra van.\nA délután a múzeumi negyedben tökéletesen elérhető tömegközlekedéssel, így megspórolhatja a hidegben való gyaloglást.\nEste csodálja meg az ünnepi díszbe öltözött várost a busz panorámaablakából, mielőtt visszatérne az állomásra.",
+            "ro": "Cu autobuzul și trenul, explorarea orașului Aarau iarna este cea mai confortabilă. Începeți în gara încălzită și folosiți orarul dens spre orașul vechi.\nLa prânz, autobuzele încălzite sunt o binecuvântare pentru a trece de la o oprire istorică la alta. Biserica este la doar câțiva pași.\nDupă-amiaza în cartierul muzeelor este perfect accesibilă cu tranzitul, scutindu-vă de drumuri lungi prin frig.\nSeara, admirați orașul iluminat festiv de la fereastra autobuzului înainte de a reveni la gară.",
+            "en": "Exploring Aarau by bus and train is the coziest way to see the city in winter. Start at the warm station and use the frequent connections to reach the old town center.\nAt noon, the heated buses are a blessing for traveling between historic landmarks like the City Church and the towers.\nThe afternoon in the museum district is perfectly served by transit, saving you from long walks in the freezing cold.\nIn the evening, watch the festively lit city from the bus windows before heading back to the main station."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Aarau Station",
+              "tip_5lang": {
+                "de": "Der Bahnhof ist ein guter Ort, um sich mit einem Heißgetränk aufzuwärmen.",
+                "hu": "A pályaudvar jó hely, hogy felmelegedjen egy forró itallal.",
+                "ro": "Gara este un loc bun pentru a vă încălzi cu o băutură fierbinte.",
+                "en": "The station is a great place to warm up with a hot beverage."
+              }
+            },
+            {
+              "name": "Bus ride to the Old Town (Cluster 1)",
+              "tip_5lang": {
+                "de": "Genießen Sie die Fahrt durch die winterlich geschmückten Straßen.",
+                "hu": "Élvezze az utazást a téliesen díszített utcákon keresztül.",
+                "ro": "Bucurați-vă de drumul prin străzile decorate de iarnă.",
+                "en": "Enjoy the ride through the beautifully winter-decorated streets."
+              }
+            },
+            {
+              "name": "Town Hall & City Church",
+              "tip_5lang": {
+                "de": "Warten Sie in den beheizten Wartezonen der größeren Haltestellen.",
+                "hu": "Várjon a nagyobb megállók fűtött várakozási zónáiban.",
+                "ro": "Așteptați în zonele de așteptare încălzite din stațiile mai mari.",
+                "en": "Wait in the heated waiting areas available at major bus stops."
+              }
+            },
+            {
+              "name": "Schlössli Aarau (Little Castle)",
+              "tip_5lang": {
+                "de": "Die Haltestellen 'Zelgli' oder 'Kaserne' bieten kurze Wege.",
+                "hu": "A 'Zelgli' vagy 'Kaserne' megállók rövid gyalogutat biztosítanak.",
+                "ro": "Stațiile 'Zelgli' sau 'Kaserne' oferă distanțe scurte de mers pe jos.",
+                "en": "The stops 'Zelgli' or 'Kaserne' offer the shortest walking distances."
+              }
+            },
+            {
+              "name": "Bus ride to the Museum Cluster (Cluster 2)",
+              "tip_5lang": {
+                "de": "Die Heizung in den Bussen sorgt für eine angenehme Zwischenpause.",
+                "hu": "A buszok fűtése kellemes pihenőt biztosít az út alatt.",
+                "ro": "Căldura din autobuze oferă o pauză plăcută în timpul drumului.",
+                "en": "The bus heaters provide a welcome respite from the outdoor cold."
+              }
+            },
+            {
+              "name": "Aargau Art Museum & Naturama",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Hintereingang des Bahnhofs für einen schnellen Zugang zum Naturama.",
+                "hu": "Használja az állomás hátsó kijáratát a Naturama gyors eléréséhez.",
+                "ro": "Folosiți ieșirea din spate a gării pentru acces rapid la Naturama.",
+                "en": "Use the rear station exit for quick and easy access to Naturama."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrpläne werden im Winter strikt eingehalten, aber kalkulieren Sie Puffer ein.",
+              "Die Busse sind gut klimatisiert und bieten Schutz vor der Winterkälte.",
+              "In der SBB App sehen Sie auch die Belegung der Busse.",
+              "Der Bahnhofplatz ist im Winter oft festlich beleuchtet.",
+              "Viele Busse haben tiefe Einstiege, was bei Schnee und Eis sicherer ist."
+            ],
+            "hu": [
+              "A menetrendeket télen is szigorúan betartják, de hagyjon tartalékidőt.",
+              "A buszok jól klimatizáltak és védelmet nyújtanak a téli hideg ellen.",
+              "Az SBB alkalmazásban a buszok telítettségét is láthatja.",
+              "A pályaudvar tér télen gyakran ünnepi kivilágítást kap.",
+              "Sok busz alacsony padlós, ami hóban és jégben biztonságosabb."
+            ],
+            "ro": [
+              "Orarele sunt respectate strict iarna, dar planificați o rezervă de timp.",
+              "Autobuzele sunt bine climatizate și oferă protecție împotriva frigului.",
+              "În aplicația SBB puteți vedea și gradul de ocupare al autobuzelor.",
+              "Piața gării este deseori iluminată festiv pe timp de iarnă.",
+              "Multe autobuze au podea joasă, fiind mai sigure pe zăpadă și gheață."
+            ],
+            "en": [
+              "Schedules are strictly followed in winter, but allow for small buffers.",
+              "Buses are well-heated and offer reliable shelter from the winter chill.",
+              "The SBB app also shows real-time occupancy for each bus line.",
+              "The station square often features beautiful festive lighting in winter.",
+              "Low-floor buses are standard, making boarding safer in icy conditions."
+            ]
+          }
+        }
       }
     }
   }

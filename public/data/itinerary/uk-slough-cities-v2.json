@@ -277,6 +277,170 @@
           "Check the opening times for the Slough Museum in advance.",
           "A light raincoat is always a good idea in England."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie im trockenen Einkaufszentrum und nutzen Sie die moderne Curve als Zufluchtsort. Mittags bietet die St. Mary's Church Stille vor dem Regen. Der Nachmittag im Museum ist ideal, um trocken zu bleiben. Ein kurzer, regnerischer Spaziergang im Herschel Park beschließt den Tag.",
+            "hu": "Kezdjen a fedett bevásárlóközpontban, majd húzódjon be a modern Curve épületébe az eső elől. Délben a St Mary templom nyújt menedéket. A délutánt töltse a múzeum tárlatai között, szárazon. A napot egy frissítő, esernyős séta zárja a Herschel Parkban.",
+            "ro": "Începeți în centrul comercial acoperit și folosiți clădirea Curve ca refugiu împotriva ploii. La prânz, biserica St Mary oferă liniște și adăpost. Petreceți după-amiaza la muzeu pentru a rămâne uscați. Încheiați ziua cu o plimbare scurtă cu umbrela prin parcul Herschel.",
+            "en": "Start in the sheltered shopping centre and head to The Curve to escape the drizzle. Midday offers quiet refuge at St Mary's Church. Spend the afternoon exploring the museum while staying dry. Finish with a brisk, rainy walk through Herschel Park."
+          },
+          "stops": [
+            {
+              "name": "The Observatory Shopping Centre",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um den ersten Regenschauer trocken abzuwarten.",
+                "hu": "Tökéletes hely az első záporok átvészelésére, fedett folyosókkal.",
+                "ro": "Locul perfect pentru a aștepta trecerea primei averse la adăpost.",
+                "en": "Perfect place to wait out the first rain showers in comfort."
+              }
+            },
+            {
+              "name": "The Curve",
+              "tip_5lang": {
+                "de": "Das Café im Inneren bietet einen warmen Platz mit Blick auf den Regen.",
+                "hu": "A belső kávézó meleg menedéket nyújt kilátással az esős utcára.",
+                "ro": "Cafeneaua din interior oferă un loc cald cu vedere spre ploaie.",
+                "en": "The indoor cafe offers a warm spot with views of the rainy streets."
+              }
+            },
+            {
+              "name": "St Mary's Church",
+              "tip_5lang": {
+                "de": "Respektieren Sie die Stille, während Sie sich kurz aufwärmen.",
+                "hu": "Tisztelje a csendet, miközben bent kicsit felmelegszik.",
+                "ro": "Respectați liniștea în timp ce vă încălziți puțin în interior.",
+                "en": "Respect the silence while taking a moment to dry off inside."
+              }
+            },
+            {
+              "name": "Slough Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe für nasse Mäntel und Schirme.",
+                "hu": "Használja a ruhatárat a vizes kabátok és esernyők számára.",
+                "ro": "Folosiți garderoba pentru haine și umbrele umede.",
+                "en": "Use the cloakroom for wet coats and umbrellas during your visit."
+              }
+            },
+            {
+              "name": "Herschel Park",
+              "tip_5lang": {
+                "de": "Die befestigten Wege minimieren Schlamm bei nassem Wetter.",
+                "hu": "A kiépített ösvények minimalizálják a sarat esős időben is.",
+                "ro": "Potecile pavate minimizează noroiul chiar și pe vreme umedă.",
+                "en": "The paved paths minimize mud even during persistent rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für die Wege zwischen den Gebäuden.",
+              "The Curve ist das beste kostenlose Versteck bei starkem Guss.",
+              "Achten Sie auf rutschige Gehwege in der Nähe der Parks.",
+              "Die Busse in Slough sind eine gute Alternative bei Platzregen."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt az épületek közötti szakaszokon.",
+              "A Curve a legjobb ingyenes búvóhely nagy felhőszakadás idején.",
+              "Vigyázzon a csúszós járdákra a parkok környékén.",
+              "A helyi buszok jó alternatívát jelentenek hirtelen esőben."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru segmentele dintre clădiri.",
+              "The Curve este cel mai bun refugiu gratuit în timpul averselor.",
+              "Atenție la trotuarele alunecoase din apropierea parcurilor.",
+              "Autobuzele locale sunt o alternativă bună în caz de ploaie torențială."
+            ],
+            "en": [
+              "Wear waterproof shoes for the segments between buildings.",
+              "The Curve is the best free hideout during heavy downpours.",
+              "Watch out for slippery pavements near the park areas.",
+              "Local buses are a great alternative if the rain gets too heavy."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie im hellen Einkaufszentrum, bevor Sie sich in die Curve zurückziehen. Die St. Mary's Church bietet mittags eine besinnliche Pause. Nachmittags wärmt die lokale Geschichte im Museum. Der Tag endet früh bei Sonnenuntergang im frostigen, aber schönen Herschel Park.",
+            "hu": "Kezdjen a világos plázában, majd vonuljon vissza a fűtött Curve-be. A St Mary templom délben meghitt pihenőt nyújt. Délután a helyi történelem melegíti fel a múzeumban. A nap korán, naplementekor ér véget a fagyos, de szép Herschel Parkban.",
+            "ro": "Începeți în centrul comercial luminat înainte de a vă retrage în Curve. Biserica St Mary oferă o pauză liniștită la prânz. După-amiaza, istoria locală vă încălzește la muzeu. Ziua se încheie devreme, la apus, în parcul Herschel înghețat.",
+            "en": "Start in the bright mall before retreating to the heated Curve. St Mary's Church provides a peaceful midday break. In the afternoon, warm up with local history at the museum. The day ends early at sunset in the frosty but scenic Herschel Park."
+          },
+          "stops": [
+            {
+              "name": "The Observatory Shopping Centre",
+              "tip_5lang": {
+                "de": "Genießen Sie die festliche Dekoration und die warme Luft.",
+                "hu": "Élvezze az ünnepi dekorációt és a kellemes benti meleget.",
+                "ro": "Bucurați-vă de decorațiunile festive și de aerul cald din interior.",
+                "en": "Enjoy the festive decorations and the warm indoor air."
+              }
+            },
+            {
+              "name": "The Curve",
+              "tip_5lang": {
+                "de": "Ein idealer Ort zum Lesen, wenn es draußen zu kalt wird.",
+                "hu": "Ideális hely az olvasáshoz, ha odakint túl hideg lesz.",
+                "ro": "Un loc ideal pentru lectură dacă afară devine prea frig.",
+                "en": "An ideal place for reading if it gets too cold outside."
+              }
+            },
+            {
+              "name": "St Mary's Church",
+              "tip_5lang": {
+                "de": "Besuchen Sie den Gottesdienst oder bewundern Sie die Stille.",
+                "hu": "Látogasson el egy szertartásra, vagy csodálja a téli csendet.",
+                "ro": "Vizitați o slujbă sau admirați liniștea rece a bisericii.",
+                "en": "Visit for a service or simply admire the winter stillness."
+              }
+            },
+            {
+              "name": "Slough Museum",
+              "tip_5lang": {
+                "de": "Die Exponate lassen Sie die Kälte draußen schnell vergessen.",
+                "hu": "A kiállítások mellett gyorsan elfelejti a kinti hideget.",
+                "ro": "Expozițiile vă vor face să uitați rapid de frigul de afară.",
+                "en": "The exhibits will make you quickly forget the chill outside."
+              }
+            },
+            {
+              "name": "Herschel Park",
+              "tip_5lang": {
+                "de": "Kommen Sie vor 16 Uhr an, um den Sonnenuntergang zu sehen.",
+                "hu": "Érkezzen 16 óra előtt, hogy lássa a téli naplementét.",
+                "ro": "Sosiți înainte de ora 16:00 pentru a vedea apusul de iarnă.",
+                "en": "Arrive before 4 PM to catch the winter sunset over the lake."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich in Schichten, da Gebäude oft stark geheizt sind.",
+              "Der Sonnenuntergang ist im Winter bereits gegen 16:00 Uhr.",
+              "Prüfen Sie die Öffnungszeiten, da diese im Winter variieren können.",
+              "Heiße Getränke sind in der Curve und im Einkaufszentrum erhältlich."
+            ],
+            "hu": [
+              "Öltözzön rétegesen, mert az épületek gyakran túl vannak fűtve.",
+              "A naplemente télen már délután 4 óra körül bekövetkezik.",
+              "Ellenőrizze a nyitvatartást, mert télen változhatnak az időpontok.",
+              "Forró italok kaphatók a Curve-ben és a bevásárlóközpontban."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi, deoarece clădirile sunt adesea supraîncălzite.",
+              "Apusul soarelui are loc în jur de ora 16:00 pe timpul iernii.",
+              "Verificați programul, deoarece orele pot varia în sezonul rece.",
+              "Băuturi calde sunt disponibile la Curve și în centrul comercial."
+            ],
+            "en": [
+              "Dress in layers as buildings are often heavily heated.",
+              "Sunset occurs as early as 4 PM during the winter months.",
+              "Check opening hours as they may vary during the winter season.",
+              "Hot drinks are available at The Curve and the shopping centre."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -548,6 +712,170 @@
           "Carry plenty of water and some snacks.",
           "Always lock your bike securely at stops."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radeln Sie vorsichtig zum Upton Court Park. Baylis House bietet einen kurzen Blick im Regen, bevor es zum Salt Hill Park geht. Der Langley Park wirkt im Nebel mystisch. Beenden Sie die Tour trocken im Observatory Centre.",
+            "hu": "Tekerjen óvatosan az Upton Court Park felé. A Baylis House rövid megállót kínál az esőben, mielőtt a Salt Hill Parkba menne. A Langley Park ködös időben misztikus. Zárja a túrát szárazon az Observatory központban.",
+            "ro": "Pedalați cu atenție spre Upton Court Park. Baylis House oferă o oprire scurtă în ploaie înainte de Salt Hill Park. Langley Park pare mistic în ceață. Încheiați turul la uscat în centrul Observatory.",
+            "en": "Cycle carefully towards Upton Court Park. Baylis House offers a brief look in the rain before heading to Salt Hill Park. Langley Park looks mystical in the mist. Finish your tour dry at the Observatory Centre."
+          },
+          "stops": [
+            {
+              "name": "Upton Court Park",
+              "tip_5lang": {
+                "de": "Vorsicht auf nassen Grasflächen; bleiben Sie auf den Wegen.",
+                "hu": "Vigyázzon a vizes füvön; maradjon a kiépített utakon.",
+                "ro": "Atenție pe zonele cu iarbă umedă; rămâneți pe poteci.",
+                "en": "Careful on wet grass; stick to the hard-surface paths."
+              }
+            },
+            {
+              "name": "Baylis House",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Bäume als natürlichen Schutz bei kurzen Schauern.",
+                "hu": "Használja a fákat természetes oltalmazóként rövid záporoknál.",
+                "ro": "Folosiți copacii ca adăpost natural în timpul averselor scurte.",
+                "en": "Use the trees as natural shelter during brief rain showers."
+              }
+            },
+            {
+              "name": "Salt Hill Park",
+              "tip_5lang": {
+                "de": "Die Skate-Anlage kann bei Regen extrem rutschig sein.",
+                "hu": "A skate-pálya esőben rendkívül csúszós lehet.",
+                "ro": "Zona de skate poate fi extrem de alunecoasă pe ploaie.",
+                "en": "The skate park area can be extremely slippery when wet."
+              }
+            },
+            {
+              "name": "Langley Park",
+              "tip_5lang": {
+                "de": "Schutzhütten bieten im Park Platz für eine trockene Pause.",
+                "hu": "A parkban található esőbeállók helyet adnak egy száraz pihenőre.",
+                "ro": "Adăposturile din parc oferă spațiu pentru o pauză uscată.",
+                "en": "Park shelters provide space for a dry break during your ride."
+              }
+            },
+            {
+              "name": "The Observatory Shopping Centre",
+              "tip_5lang": {
+                "de": "Sichere Fahrradständer befinden sich nahe den Eingängen.",
+                "hu": "Biztonságos biciklitárolók találhatók a bejáratok közelében.",
+                "ro": "Suporturi sigure pentru biciclete se află lângă intrări.",
+                "en": "Secure bike racks are located near the main entrances."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Verwenden Sie Schutzbleche, um Schlammspritzer zu vermeiden.",
+              "Vermeiden Sie scharfe Bremsmanöver auf nassem Asphalt.",
+              "Tragen Sie eine neongelbe Regenjacke für bessere Sichtbarkeit.",
+              "Wischen Sie den Sattel vor der Weiterfahrt immer trocken."
+            ],
+            "hu": [
+              "Használjon sárvédőt a sárfelcsapódás elkerülése érdekében.",
+              "Kerülje az éles fékezést a vizes aszfalton.",
+              "Viseljen fényvisszaverő esőkabátot a jobb láthatóságért.",
+              "Mindig törölje szárazra a nyerget indulás előtt."
+            ],
+            "ro": [
+              "Folosiți apărători de noroi pentru a evita stropirea.",
+              "Evitați frânarea bruscă pe asfaltul umed.",
+              "Purtați o jachetă de ploaie reflectorizantă pentru vizibilitate.",
+              "Ștergeți întotdeauna șaua înainte de a pleca din nou."
+            ],
+            "en": [
+              "Use mudguards to avoid getting splashed by road grime.",
+              "Avoid sharp braking on wet and slippery asphalt surfaces.",
+              "Wear a high-visibility raincoat for better safety in traffic.",
+              "Always wipe your saddle dry before resuming your ride."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine erfrischende Winterfahrt beginnt im Upton Court Park. Bewundern Sie Baylis House in der klaren Winterluft. Der Salt Hill Park bietet weite Ausblicke. Der Langley Park ist ideal für eine frostige Runde. Enden Sie im warmen Observatory Centre.",
+            "hu": "Frissítő téli tekerés indul az Upton Court Parkban. Csodálja meg a Baylis House-t a tiszta téli levegőn. A Salt Hill Park tágas kilátást nyújt. A Langley Park ideális egy fagyos körre. Végezzen a meleg Observatory központban.",
+            "ro": "O plimbare revigorantă de iarnă începe în Upton Court Park. Admirați Baylis House în aerul rece. Salt Hill Park oferă vederi largi. Langley Park este ideal pentru o tură înghețată. Terminați în centrul cald Observatory.",
+            "en": "A refreshing winter ride starts in Upton Court Park. Admire Baylis House in the crisp winter air. Salt Hill Park offers wide views. Langley Park is ideal for a frosty loop. End your journey at the warm Observatory Centre."
+          },
+          "stops": [
+            {
+              "name": "Upton Court Park",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stellen auf den Schattenwegen.",
+                "hu": "Ügyeljen a jeges foltokra az árnyékosabb ösvényeken.",
+                "ro": "Atenție la porțiunile înghețate de pe potecile umbrite.",
+                "en": "Watch out for icy patches on the shaded park paths."
+              }
+            },
+            {
+              "name": "Baylis House",
+              "tip_5lang": {
+                "de": "Das Herrenhaus sieht bei Raureif besonders majestätisch aus.",
+                "hu": "A kúria különösen fenségesen mutat zúzmarás időben.",
+                "ro": "Conacul arată deosebit de maiestuos când este brumă.",
+                "en": "The manor house looks especially majestic when covered in frost."
+              }
+            },
+            {
+              "name": "Salt Hill Park",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp reicht, um nicht zu stark auszukühlen.",
+                "hu": "Egy rövid megálló elég, hogy ne hűljön ki túlságosan.",
+                "ro": "O oprire scurtă este suficientă pentru a nu îngheța prea tare.",
+                "en": "Keep stops brief to avoid getting too chilled while cycling."
+              }
+            },
+            {
+              "name": "Langley Park",
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick über die kahlen Baumwipfel.",
+                "hu": "Élvezze a tágas kilátást a kopár faágak között.",
+                "ro": "Bucurați-vă de priveliștea largă printre ramurile golașe.",
+                "en": "Enjoy the expansive views through the bare winter trees."
+              }
+            },
+            {
+              "name": "The Observatory Shopping Centre",
+              "tip_5lang": {
+                "de": "Wärmen Sie Ihre Hände bei einem Kaffee nach der Fahrt auf.",
+                "hu": "Melegítse fel kezeit egy kávé mellett a túra után.",
+                "ro": "Încălziți-vă mâinile cu o cafea după terminarea cursei.",
+                "en": "Warm up your hands with a hot coffee after your ride."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermo-Handschuhe gegen den kalten Fahrtwind.",
+              "Halten Sie die Kette gut geölt gegen Streusalz-Korrosion.",
+              "Nutzen Sie helles Licht, da die Dämmerung früh einsetzt.",
+              "Prüfen Sie den Reifendruck; Kälte lässt ihn sinken."
+            ],
+            "hu": [
+              "Viseljen hőtartó kesztyűt a hideg menetszél ellen.",
+              "Tartsa olajozottan a láncot az útszóró só okozta korrózió ellen.",
+              "Használjon erős lámpákat, mert korán sötétedik.",
+              "Ellenőrizze a guminyomást; a hidegben csökkenhet."
+            ],
+            "ro": [
+              "Purtați mănuși termice împotriva vântului rece de la rulare.",
+              "Mențineți lanțul bine uns împotriva coroziunii cauzate de sare.",
+              "Folosiți lumini puternice, deoarece se întunecă devreme.",
+              "Verificați presiunea în anvelope; frigul o poate reduce."
+            ],
+            "en": [
+              "Wear thermal gloves to protect against the cold wind chill.",
+              "Keep your chain well-oiled to prevent salt corrosion.",
+              "Use bright lights as twilight begins very early in winter.",
+              "Check your tyre pressure regularly; cold air reduces it."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -812,6 +1140,188 @@
           "Allow extra time for traffic during peak hours.",
           "A GPS is essential for navigating between locations."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie zum Black Park und genießen Sie die Waldszenerie aus dem Auto. Im Langley Park bietet das Café Schutz. Die Curve und das Museum sind perfekte Indoor-Ziele. Beenden Sie den Tag bequem am Upton Court Park trotz des Regens.",
+            "hu": "Autózzon a Black Parkhoz, és élvezze az erdei látványt a kocsiból. A Langley Park kávézója védelmet nyújt. A Curve és a múzeum tökéletes benti célpontok. Zárja a napot kényelmesen az Upton Court Parknál az eső ellenére is.",
+            "ro": "Conduceți spre Black Park și admirați peisajul forestier din mașină. Cafeneaua din Langley Park oferă protecție. Curve și muzeul sunt destinații ideale de interior. Încheiați ziua confortabil la Upton Court Park.",
+            "en": "Drive to Black Park and enjoy the forest scenery from your car. Langley Park's cafe offers shelter. The Curve and the museum are perfect indoor destinations. End the day comfortably at Upton Court Park despite the rain."
+          },
+          "stops": [
+            {
+              "name": "Black Park",
+              "tip_5lang": {
+                "de": "Die Parkplätze sind nah an den Hauptwegen gelegen.",
+                "hu": "A parkolók közel vannak a főbb sétautakhoz.",
+                "ro": "Parcările sunt situate aproape de potecile principale.",
+                "en": "Parking areas are located close to the main walking trails."
+              }
+            },
+            {
+              "name": "Langley Park",
+              "tip_5lang": {
+                "de": "Parken Sie nahe dem Teehaus für minimalen Regenweg.",
+                "hu": "Parkoljon a teázó közelében, hogy keveset kelljen áznia.",
+                "ro": "Parcați lângă ceainărie pentru a merge cât mai puțin prin ploaie.",
+                "en": "Park near the tea room for minimal exposure to the rain."
+              }
+            },
+            {
+              "name": "The Curve",
+              "tip_5lang": {
+                "de": "Nutzen Sie das nahegelegene Parkhaus im Stadtzentrum.",
+                "hu": "Használja a közeli városközponti parkolóházat.",
+                "ro": "Folosiți parcarea etajată din apropiere, în centrul orașului.",
+                "en": "Use the nearby multi-storey car park in the town centre."
+              }
+            },
+            {
+              "name": "St Mary's Church",
+              "tip_5lang": {
+                "de": "Begrenzte Parkplätze direkt an der Kirche vorhanden.",
+                "hu": "Közvetlenül a templomnál korlátozott számú parkolóhely van.",
+                "ro": "Locuri de parcare limitate disponibile chiar lângă biserică.",
+                "en": "Limited parking spaces are available directly by the church."
+              }
+            },
+            {
+              "name": "Slough Museum",
+              "tip_5lang": {
+                "de": "Zentrales Parken ermöglicht schnellen Zugang zum Museum.",
+                "hu": "A központi parkolás gyors bejutást tesz lehetővé a múzeumba.",
+                "ro": "Parcarea centrală permite accesul rapid la muzeu.",
+                "en": "Central parking allows for quick access to the museum entrance."
+              }
+            },
+            {
+              "name": "Upton Court Park",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das Schloss Windsor im Regen.",
+                "hu": "Élvezze a kilátást a windsori kastélyra az esőben is.",
+                "ro": "Admirați vederea spre castelul Windsor chiar și pe ploaie.",
+                "en": "Enjoy the distant view of Windsor Castle from your car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf der A4 bei starkem Regen.",
+              "Halten Sie einen Regenschirm griffbereit im Auto.",
+              "Die Parkplatzgebühren können oft per App bezahlt werden.",
+              "Nutzen Sie die Scheibenheizung gegen Beschlagen bei Feuchtigkeit."
+            ],
+            "hu": [
+              "Ügyeljen a vízenfutásra az A4-es úton nagy esőben.",
+              "Tartson kéznél egy esernyőt az autóban.",
+              "A parkolási díjak gyakran mobilalkalmazással is fizethetők.",
+              "Használja a szélvédőfűtést a párásodás ellen."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumul A4 în timpul ploii abundente.",
+              "Țineți o umbrelă la îndemână în mașină.",
+              "Taxele de parcare pot fi plătite adesea prin aplicație.",
+              "Folosiți dezaburirea parbrizului în caz de umiditate ridicată."
+            ],
+            "en": [
+              "Watch out for aquaplaning on the A4 during heavy rain.",
+              "Keep a sturdy umbrella easily accessible in the car.",
+              "Parking fees can often be paid via mobile apps like RingGo.",
+              "Use the window demister to maintain clear visibility."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie im frostigen Black Park. Langley Park zeigt sich winterlich still. Die Curve und das Museum bieten willkommene Wärme im Stadtzentrum. Beenden Sie den Tag bei Sonnenuntergang am Upton Court Park mit Blick auf Windsor.",
+            "hu": "Kezdjen a fagyos Black Parkban. A Langley Park téli csendet áraszt. A Curve és a múzeum üdvözlendő meleget kínál a városközpontban. Zárja a napot naplementekor az Upton Court Parknál, kilátással Windsorra.",
+            "ro": "Începeți în Black Park-ul înghețat. Langley Park este liniștit în straie de iarnă. Curve și muzeul oferă căldură în centrul orașului. Încheiați ziua la apus în Upton Court Park, cu vedere spre Windsor.",
+            "en": "Start in the frosty Black Park. Langley Park is peacefully quiet in winter. The Curve and the museum offer welcome warmth in the town centre. End the day at sunset at Upton Court Park with views of Windsor."
+          },
+          "stops": [
+            {
+              "name": "Black Park",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Parkplatzflächen am Morgen.",
+                "hu": "Ügyeljen a jeges parkolófelületekre a reggeli órákban.",
+                "ro": "Atenție la suprafețele înghețate din parcare dimineața.",
+                "en": "Watch out for icy patches in the car park early in the morning."
+              }
+            },
+            {
+              "name": "Langley Park",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich nach dem Spaziergang im Auto auf.",
+                "hu": "Melegedjen fel az autóban a rövid séta után.",
+                "ro": "Încălziți-vă în mașină după plimbarea scurtă.",
+                "en": "Warm up in the car after a brief stroll through the park."
+              }
+            },
+            {
+              "name": "The Curve",
+              "tip_5lang": {
+                "de": "Das Parkhaus schützt Ihr Auto vor Frost während des Besuchs.",
+                "hu": "A parkolóház megvédi az autót a fagytól a látogatás alatt.",
+                "ro": "Parcarea etajată protejează mașina de îngheț în timpul vizitei.",
+                "en": "The multi-storey car park keeps your car frost-free during your visit."
+              }
+            },
+            {
+              "name": "St Mary's Church",
+              "tip_5lang": {
+                "de": "Kurze Wege von den Parkplätzen minimieren die Kälte.",
+                "hu": "A közeli parkolás minimalizálja a hidegben töltött időt.",
+                "ro": "Distanța scurtă de la parcare minimizează expunerea la frig.",
+                "en": "Short distances from the parking spots minimize cold exposure."
+              }
+            },
+            {
+              "name": "Slough Museum",
+              "tip_5lang": {
+                "de": "Ein gemütlicher Stopp im beheizten Stadtzentrum.",
+                "hu": "Hangulatos állomás a fűtött városközpontban.",
+                "ro": "O oprire primitoare în centrul încălzit al orașului.",
+                "en": "A cozy stop in the well-heated town centre environment."
+              }
+            },
+            {
+              "name": "Upton Court Park",
+              "tip_5lang": {
+                "de": "Der Blick auf Windsor ist bei klarer Winterluft am besten.",
+                "hu": "A windsori kilátás tiszta téli levegőben a legszebb.",
+                "ro": "Vederea spre Windsor este optimă în aerul clar de iarnă.",
+                "en": "The Windsor view is best during clear, crisp winter air."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Führen Sie einen Eiskratzer und Enteiser-Spray mit.",
+              "Prüfen Sie den Frostschutzgehalt Ihres Scheibenwischwassers.",
+              "Die Straßen im Zentrum werden meist gut gestreut.",
+              "Parken Sie nach Möglichkeit in überdachten Parkhäusern."
+            ],
+            "hu": [
+              "Vigyen magával jégkaparót és jégoldó spray-t.",
+              "Ellenőrizze a fagyálló szintjét a szélvédőmosóban.",
+              "A központi utakat általában jól sózzák.",
+              "Lehetőség szerint parkoljon fedett parkolóházakban."
+            ],
+            "ro": [
+              "Aveți la voi o racletă și spray pentru dezghețare.",
+              "Verificați nivelul de antigel din lichidul de parbriz.",
+              "Drumurile centrale sunt de obicei bine curățate de zăpadă.",
+              "Parcați în parcări acoperite ori de câte ori este posibil."
+            ],
+            "en": [
+              "Carry an ice scraper and de-icer spray in your vehicle.",
+              "Check the antifreeze level in your screenwash reservoir.",
+              "Town centre roads are usually well-treated for frost.",
+              "Prefer covered car parks to avoid frost build-up while visiting."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1052,6 +1562,170 @@
           "Download a local bus app for real-time tracking.",
           "Keep some change handy in case you need to buy tickets on the bus."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie im Observatory Centre und nutzen Sie die kurzen Wege zur St. Mary's Church und zur Curve. Busse bieten Schutz vor dem Regen auf dem Weg zum Herschel Park. Beenden Sie den Tag bequem im Upton Court Park, gut angebunden an das Busnetz.",
+            "hu": "Kezdjen az Observatory központban, használja ki a rövid távokat a templom és a Curve felé. A buszok védelmet nyújtanak az eső ellen a Herschel Park felé vezető úton. Zárja a napot kényelmesen az Upton Court Parknál, jó buszos csatlakozással.",
+            "ro": "Începeți la centrul Observatory și profitați de distanțele scurte spre biserică și Curve. Autobuzele oferă protecție spre parcul Herschel. Încheiați ziua confortabil la Upton Court Park, cu acces bun la rețeaua de transport.",
+            "en": "Start at the Observatory Centre and take advantage of short walks to the church and The Curve. Buses provide shelter from the rain on the way to Herschel Park. End the day comfortably at Upton Court Park, well-connected by bus."
+          },
+          "stops": [
+            {
+              "name": "The Observatory Shopping Centre",
+              "tip_5lang": {
+                "de": "Der Busbahnhof Slough ist nur wenige Gehminuten entfernt.",
+                "hu": "A slough-i buszpályaudvar csak pár perc séta innen.",
+                "ro": "Autogara Slough se află la doar câteva minute de mers pe jos.",
+                "en": "Slough bus station is just a few minutes' walk away."
+              }
+            },
+            {
+              "name": "St Mary's Church",
+              "tip_5lang": {
+                "de": "Bushaltestellen befinden sich direkt an der High Street.",
+                "hu": "A buszmegállók közvetlenül a High Streeten találhatók.",
+                "ro": "Stațiile de autobuz sunt situate direct pe High Street.",
+                "en": "Bus stops are conveniently located directly on the High Street."
+              }
+            },
+            {
+              "name": "The Curve",
+              "tip_5lang": {
+                "de": "Ein kurzer, regnerischer Sprint zum nächsten Busstopp.",
+                "hu": "Egy rövid, esős sprint a következő buszmegállóig.",
+                "ro": "Un sprint scurt prin ploaie până la următoarea stație.",
+                "en": "A short, rainy dash to the nearest bus stop connection."
+              }
+            },
+            {
+              "name": "Herschel Park",
+              "tip_5lang": {
+                "de": "Busse halten in der Nähe der Parkeingänge an der Datchet Road.",
+                "hu": "A buszok a park Datchet Road-i bejáratának közelében állnak meg.",
+                "ro": "Autobuzele opresc lângă intrările parcului pe Datchet Road.",
+                "en": "Buses stop near the park entrances on Datchet Road."
+              }
+            },
+            {
+              "name": "Upton Court Park",
+              "tip_5lang": {
+                "de": "Die Busverbindung zurück ins Zentrum ist auch bei Regen stabil.",
+                "hu": "A buszjárat vissza a központba esőben is megbízható.",
+                "ro": "Legătura de autobuz spre centru este stabilă și pe ploaie.",
+                "en": "The bus connection back to the centre remains reliable in rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die 'Slough Bus Station' als zentralen Umsteigepunkt.",
+              "Tragen Sie Ihre Fahrkarte digital auf dem Handy bei sich.",
+              "Vermeiden Sie das Warten an unüberdachten Haltestellen.",
+              "Die Busfrequenz kann bei starkem Regen leicht variieren."
+            ],
+            "hu": [
+              "Használja a Slough buszpályaudvart központi átszállási pontként.",
+              "Tartsa a jegyét digitálisan a telefonján.",
+              "Kerülje a várakozást a fedetlen megállókban.",
+              "A buszok gyakorisága nagy esőben kissé változhat."
+            ],
+            "ro": [
+              "Folosiți autogara Slough ca punct central de transfer.",
+              "Păstrați biletul în format digital pe telefon.",
+              "Evitați să așteptați în stațiile care nu sunt acoperite.",
+              "Frecvența autobuzelor poate varia ușor în caz de ploaie grea."
+            ],
+            "en": [
+              "Use Slough Bus Station as your central transfer hub.",
+              "Keep your bus ticket digitally on your phone for ease.",
+              "Avoid waiting at bus stops that lack shelters.",
+              "Bus frequency may be slightly affected by heavy rain traffic."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine gemütliche Winterreise beginnt im Observatory Centre. Nutzen Sie warme Busse zwischen der Curve und den Parkanlagen. Die St. Mary's Church bietet mittags Ruhe. Beenden Sie den Tag bei frostiger Luft im Upton Court Park, bevor Sie den Bus zurück nehmen.",
+            "hu": "Hangulatos téli utazás indul az Observatory központban. Használja a fűtött buszokat a Curve és a parkok között. A St Mary templom délben nyugalmat áraszt. Zárja a napot a fagyos Upton Court Parkban, majd buszozzon vissza.",
+            "ro": "O călătorie primitoare de iarnă începe la centrul Observatory. Folosiți autobuzele calde între Curve și parcuri. Biserica St Mary oferă liniște la prânz. Încheiați ziua în parcul Upton Court.",
+            "en": "A cozy winter journey starts at the Observatory Centre. Use warm buses between The Curve and the parks. St Mary's Church offers peacefulness at midday. End the day in the frosty Upton Court Park before heading back."
+          },
+          "stops": [
+            {
+              "name": "The Observatory Shopping Centre",
+              "tip_5lang": {
+                "de": "Warten Sie im Inneren des Zentrums, bis Ihr Bus fällig ist.",
+                "hu": "Várjon a központ belsejében, amíg a busza indul.",
+                "ro": "Așteptați în interiorul centrului până când sosește autobuzul.",
+                "en": "Wait inside the warm centre until your bus is due."
+              }
+            },
+            {
+              "name": "St Mary's Church",
+              "tip_5lang": {
+                "de": "Die beleuchtete High Street wirkt im Winter sehr einladend.",
+                "hu": "A kivilágított High Street télen nagyon hívogató.",
+                "ro": "High Street iluminată arată foarte primitor pe timpul iernii.",
+                "en": "The lit-up High Street feels very welcoming in winter evenings."
+              }
+            },
+            {
+              "name": "The Curve",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Echtzeit-Anzeigen an den Bushaltestellen.",
+                "hu": "Használja a valós idejű kijelzőket a buszmegállókban.",
+                "ro": "Folosiți afișajele în timp real din stațiile de autobuz.",
+                "en": "Check the real-time arrival displays at the bus stops."
+              }
+            },
+            {
+              "name": "Herschel Park",
+              "tip_5lang": {
+                "de": "Die Wege zum Bus sind im Winter oft früh beleuchtet.",
+                "hu": "A buszhoz vezető utak télen gyakran korán ki vannak világítva.",
+                "ro": "Drumurile spre autobuz sunt adesea iluminate devreme iarna.",
+                "en": "Paths to the bus stop are often well-lit in winter evenings."
+              }
+            },
+            {
+              "name": "Upton Court Park",
+              "tip_5lang": {
+                "de": "Der Busbahnhof ist eine warme Endstation für Ihre Reise.",
+                "hu": "A buszpályaudvar meleg végállomása lesz az utazásnak.",
+                "ro": "Autogara este un punct final călduros pentru călătoria voastră.",
+                "en": "The bus station provides a warm end point for your trip."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Planen Sie Pufferzeiten ein, da Winterverkehr langsamer sein kann.",
+              "Wärmen Sie sich in den Wartehallen der Busstation auf.",
+              "Achten Sie auf vereiste Stufen beim Ein- und Aussteigen.",
+              "Nutzen Sie Kontaktloses Bezahlen für schnelles Einsteigen."
+            ],
+            "hu": [
+              "Tervezzen ráhagyással, mert a téli közlekedés lassabb lehet.",
+              "Melegedjen fel a buszpályaudvar várótermében.",
+              "Ügyeljen a jeges lépcsőkre a le- és felszálláskor.",
+              "Használjon érintésmentes fizetést a gyorsabb felszállásért."
+            ],
+            "ro": [
+              "Planificați timp suplimentar, traficul de iarnă poate fi lent.",
+              "Încălziți-vă în sălile de așteptare din autogară.",
+              "Atenție la treptele înghețate la urcare și coborâre.",
+              "Folosiți plata contactless pentru o îmbarcare rapidă."
+            ],
+            "en": [
+              "Allow extra travel time as winter traffic can be slower.",
+              "Warm up in the waiting areas at Slough Bus Station.",
+              "Watch out for icy steps when boarding or alighting buses.",
+              "Use contactless payment for faster boarding in the cold."
+            ]
+          }
+        }
       }
     }
   }

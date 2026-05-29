@@ -362,6 +362,188 @@
           "The funicular to Kamienna Góra is a worthwhile shortcut.",
           "Check museum opening times in advance, especially outside of the main season."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgen am Platz, Regenschirm bereit. Vormittag auf dem Museumsschiff Dar Pomorza, dann Schutz im Aquarium suchen. Mittagessen am Hafen im Trockenen. Nachmittag mit der Seilbahn auf den Kamienna Góra, um Nässe zu vermeiden. Abschluss im großen Auswanderungsmuseum.",
+            "hu": "Reggel a téren kezdünk, ernyő legyen kéznél. Délelőtt a Dar Pomorza hajón, majd az Akváriumban lelünk menedékre. Ebéd a kikötő egyik fedett éttermében. Délután siklóval megyünk fel a Kamienna Góra dombra a csúszós utak helyett. A napot a tágas Emigrációs Múzeumban zárjuk.",
+            "ro": "Dimineața în piață cu umbrela pregătită. Vizităm nava-muzeu Dar Pomorza, apoi ne adăpostim la Acvariu. Prânz la port într-un loc acoperit. După-amiaza folosim funicularul spre Kamienna Góra pentru a evita potecile ude. Încheiem ziua la Muzeul Emigrației, un spațiu interior generos.",
+            "en": "Morning at the square with an umbrella. Visit the Dar Pomorza ship, then seek shelter in the Aquarium. Lunch by the harbor in a dry spot. Afternoon take the funicular to Kamienna Góra to avoid wet paths. End the day at the spacious Emigration Museum indoors."
+          },
+          "stops": [
+            {
+              "name": "Kościuszko Square",
+              "tip_5lang": {
+                "de": "Schnelles Foto am Brunnen, dann direkt zum Schiff flüchten.",
+                "hu": "Gyors fotó a szökőkútnál, aztán irány a közeli hajó menedéke.",
+                "ro": "Poză rapidă la fântână, apoi refugiați-vă pe nava apropiată.",
+                "en": "Quick photo at the fountain, then head straight for the ship shelter."
+              }
+            },
+            {
+              "name": "Dar Pomorza Museum Ship",
+              "tip_5lang": {
+                "de": "Die Ausstellungen unter Deck sind perfekt trocken und windstill.",
+                "hu": "A fedélzet alatti kiállítások szárazak és szélvédettek.",
+                "ro": "Expozițiile de sub punte sunt perfect uscate și ferite de vânt.",
+                "en": "The exhibitions below deck are perfectly dry and shielded from wind."
+              }
+            },
+            {
+              "name": "Gdynia Aquarium",
+              "tip_5lang": {
+                "de": "Idealer Ort, um einen starken Regenschauer auszusitzen.",
+                "hu": "Ideális hely egy komolyabb zápor átvészelésére.",
+                "ro": "Locul ideal pentru a aștepta trecerea unei averse puternice.",
+                "en": "Ideal place to wait out a heavy rain shower."
+              }
+            },
+            {
+              "name": "Lunch at the Harbor",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit Blick auf das stürmische Meer.",
+                "hu": "Válasszon egy éttermet, ahonnan látszik a viharos tenger.",
+                "ro": "Alegeți un restaurant cu vedere la marea învolburată.",
+                "en": "Choose a restaurant with a view of the stormy sea."
+              }
+            },
+            {
+              "name": "Kamienna Góra (Stone Hill)",
+              "tip_5lang": {
+                "de": "Nutzen Sie die kostenlose Seilbahn, um nicht auszurutschen.",
+                "hu": "Használja az ingyenes siklót, hogy elkerülje a csúszós lépcsőket.",
+                "ro": "Folosiți funicularul gratuit pentru a evita treptele alunecoase.",
+                "en": "Use the free funicular to avoid slippery stairs."
+              }
+            },
+            {
+              "name": "Emigration Museum",
+              "tip_5lang": {
+                "de": "Großes, modernes Gebäude mit Café für den späten Nachmittag.",
+                "hu": "Tágas, modern épület kávézóval a késő délutáni pihenéshez.",
+                "ro": "Clădire mare și modernă cu cafenea pentru relaxarea de după-amiază.",
+                "en": "Spacious, modern building with a cafe for late afternoon rest."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Regenschirm ist wegen des Ostseewindes wichtig.",
+              "Die Seilbahn auf den Kamienna Góra ist bei Regen kostenlos.",
+              "Die Museen am Hafen bieten perfekten Schutz vor Schauern.",
+              "Tragen Sie wasserfeste Schuhe für die Hafenkais."
+            ],
+            "hu": [
+              "Az erős tengeri szél miatt stabil esernyőt vigyen.",
+              "A Kamienna Góra siklója esőben is remek, kíméli a lábat.",
+              "A kikötői múzeumok tökéletes menedéket nyújtanak a záporok elől.",
+              "Vízálló cipő ajánlott a kikötői sétányokhoz."
+            ],
+            "ro": [
+              "O umbrelă rezistentă e necesară din cauza vântului de la Baltică.",
+              "Funicularul spre Kamienna Góra e gratuit și util pe ploaie.",
+              "Muzeele din port oferă adăpostul perfect împotriva averselor.",
+              "Purtați încălțăminte impermeabilă pentru cheiurile portului."
+            ],
+            "en": [
+              "A sturdy umbrella is essential due to Baltic winds.",
+              "The funicular to Kamienna Góra is free and keeps you dry.",
+              "Port museums provide perfect shelter from passing showers.",
+              "Wear waterproof shoes for the harbor quays."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frostiger Morgen am Hafen. Vormittag auf der Dar Pomorza (warm anziehen!), dann Aufwärmen im tropischen Aquarium. Mittagessen mit heißer Suppe. Nachmittag kurze Aussicht vom Kamienna Góra vor dem frühen Sonnenuntergang. Abendlicher Ausklang im gemütlichen Auswanderungsmuseum.",
+            "hu": "Fagyos reggel a kikötőben. Délelőtt a Dar Pomorza (öltözzön melegen!), majd melegedés a trópusi Akváriumban. Ebéd forró levessel. Délután rövid kilátás a Kamienna Góráról a korai naplemente előtt. Este a hangulatos Emigrációs Múzeumban fejezzük be a napot.",
+            "ro": "Dimineață geroasă în port. Vizităm Dar Pomorza (îmbrăcați-vă gros!), apoi ne încălzim la Acvariul tropical. Prânz cu supă fierbinte. După-amiază o scurtă privire de pe Kamienna Góra înainte de apusul timpuriu. Seara se încheie la Muzeul Emigrației.",
+            "en": "Frosty morning at the harbor. Visit Dar Pomorza (dress warmly!), then warm up in the tropical Aquarium. Lunch with hot soup. Afternoon brief view from Kamienna Góra before the early sunset. Evening ends at the cozy Emigration Museum."
+          },
+          "stops": [
+            {
+              "name": "Kościuszko Square",
+              "tip_5lang": {
+                "de": "Die Gischt kann an der Kaimauer gefrieren, Vorsicht beim Gehen.",
+                "hu": "A vízpermet ráfagyhat a mólóra, óvatosan sétáljon.",
+                "ro": "Stropii de apă pot îngheța pe dig, mergeți cu mare atenție.",
+                "en": "Water spray can freeze on the pier, walk carefully."
+              }
+            },
+            {
+              "name": "Dar Pomorza Museum Ship",
+              "tip_5lang": {
+                "de": "Unter Deck ist es etwas wärmer als draußen im Wind.",
+                "hu": "A fedélzet alatt valamivel melegebb van, mint kint a szélben.",
+                "ro": "Sub punte este ceva mai cald decât afară în vânt.",
+                "en": "It is slightly warmer below deck than out in the wind."
+              }
+            },
+            {
+              "name": "Gdynia Aquarium",
+              "tip_5lang": {
+                "de": "Genießen Sie die tropische Hitze im Amazonas-Bereich.",
+                "hu": "Élvezze a trópusi hőséget az Amazonas-részlegben.",
+                "ro": "Bucurați-vă de căldura tropicală din secțiunea Amazonului.",
+                "en": "Enjoy the tropical heat in the Amazon section."
+              }
+            },
+            {
+              "name": "Lunch at the Harbor",
+              "tip_5lang": {
+                "de": "Probieren Sie eine traditionelle polnische saure Mehlsuppe (Żurek).",
+                "hu": "Próbálja ki a hagyományos lengyel savanyú levest (Żurek).",
+                "ro": "Încercați supa tradițională poloneză de secară (Żurek).",
+                "en": "Try the traditional Polish sour rye soup (Żurek)."
+              }
+            },
+            {
+              "name": "Kamienna Góra (Stone Hill)",
+              "tip_5lang": {
+                "de": "Das Kreuz auf dem Gipfel ist im Winter abends oft beleuchtet.",
+                "hu": "A dombtetőn lévő keresztet téli estéken gyakran kivilágítják.",
+                "ro": "Crucea de pe deal este adesea iluminată în serile de iarnă.",
+                "en": "The cross on the hill is often illuminated on winter evenings."
+              }
+            },
+            {
+              "name": "Emigration Museum",
+              "tip_5lang": {
+                "de": "Perfekt für den frühen Sonnenuntergang gegen 16:00 Uhr.",
+                "hu": "Tökéletes helyszín a korai, 16 óra körüli naplementéhez.",
+                "ro": "Locație perfectă pentru apusul timpuriu de pe la ora 16:00.",
+                "en": "Perfect location for the early sunset around 4 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Wind von der Ostsee macht es kälter, als das Thermometer zeigt.",
+              "Die Sonne geht in Polen im Winter bereits gegen 15:45 Uhr unter.",
+              "Warme Handschuhe sind für den Hafenbesuch unverzichtbar.",
+              "Das Aquarium ist der beste Ort zum Aufwärmen zwischendurch."
+            ],
+            "hu": [
+              "A tengeri szél miatt hidegebbnek érződik az idő, mint amit a mérő mutat.",
+              "Lengyelországban télen már 15:45 körül lemegy a nap.",
+              "A meleg kesztyű elengedhetetlen a kikötői sétához.",
+              "Az Akvárium a legjobb hely a köztes átmelegedéshez."
+            ],
+            "ro": [
+              "Vântul de pe mare face ca temperatura resimțită să fie mult mai mică.",
+              "În Polonia, soarele apune deja în jur de ora 15:45 iarna.",
+              "Mănușile călduroase sunt indispensabile pentru vizita în port.",
+              "Acvariul este cel mai bun loc pentru a vă încălzi pe parcurs."
+            ],
+            "en": [
+              "The Baltic wind makes it feel colder than the thermometer shows.",
+              "In Poland, the sun sets as early as 3:45 PM in winter.",
+              "Warm gloves are essential for the harbor visit.",
+              "The Aquarium is the best place to warm up in between stops."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -742,6 +924,206 @@
           "The coastal cycle path can be crowded on weekends.",
           "Take water and snacks for the longer ride to Orłowo."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regnerische Radtour ab dem Auswanderungsmuseum. Vormittag am Kościuszko-Platz (Vorsicht, glatt!). Mittagessen an der Strandpromenade unter einem Vordach. Nachmittag Fahrt zum Orłowo-Pier durch den windgeschützten Waldweg. Rückfahrt ins Zentrum im Regenponcho.",
+            "hu": "Esős biciklitúra az Emigrációs Múzeumtól. Délelőtt a Kościuszko téren (vigyázat, csúszik!). Ebéd a tengerparti sétányon fedett teraszon. Délután tekerés az orłowói mólóhoz a szélvédettebb erdei úton. Visszatérés a központba esőponchóban.",
+            "ro": "Tură cu bicicleta pe ploaie de la Muzeul Emigrației. Dimineața în Piața Kościuszko (atenție, alunecă!). Prânz pe faleză sub o copertină. După-amiaza pedalăm spre digul Orłowo pe poteca protejată din pădure. Retur în centru în pelerină.",
+            "en": "Rainy bike tour starting from the Emigration Museum. Morning at Kościuszko Square (caution, slippery!). Lunch on the beach promenade under a canopy. Afternoon ride to Orłowo Pier via the sheltered forest path. Return to the center in a rain poncho."
+          },
+          "stops": [
+            {
+              "name": "Emigration Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingang zum Umziehen der Regenkleidung.",
+                "hu": "Használja a fedett bejáratot az esőruházat átvételéhez.",
+                "ro": "Folosiți intrarea acoperită pentru a vă schimba hainele de ploaie.",
+                "en": "Use the covered entrance to change into your rain gear."
+              }
+            },
+            {
+              "name": "Kościuszko Square & ORP Błyskawica",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem Kopfsteinpflaster, es ist bei Nässe tückisch.",
+                "hu": "Vigyázzon a macskaköveken, nedvesen nagyon csalókák.",
+                "ro": "Atenție pe piatra cubică, este înșelătoare când e udă.",
+                "en": "Be careful on the cobblestones; they are treacherous when wet."
+              }
+            },
+            {
+              "name": "Lunch on the beach promenade",
+              "tip_5lang": {
+                "de": "Suchen Sie Cafés mit Fahrradstellplätzen direkt am Fenster.",
+                "hu": "Keressen olyan kávézót, ahol az ablakból látja a bringáját.",
+                "ro": "Căutați cafenele unde vă puteți vedea bicicleta de la fereastră.",
+                "en": "Look for cafes where you can see your bike from the window."
+              }
+            },
+            {
+              "name": "Kamienna Góra",
+              "tip_5lang": {
+                "de": "Die steile Abfahrt zum Strand ist bei Regen rutschig.",
+                "hu": "A strand felé vezető meredek lejtő esőben csúszós.",
+                "ro": "Coborârea abruptă spre plajă este alunecoasă pe ploaie.",
+                "en": "The steep descent towards the beach is slippery in the rain."
+              }
+            },
+            {
+              "name": "Ride to Orłowo",
+              "tip_5lang": {
+                "de": "Der Radweg R10 durch den Park bietet etwas Schutz vor Wind.",
+                "hu": "Az R10-es bringaút a parkon át némi védelmet nyújt a szél ellen.",
+                "ro": "Pista R10 prin parc oferă puțină protecție împotriva vântului.",
+                "en": "The R10 bike path through the park offers some wind protection."
+              }
+            },
+            {
+              "name": "Orłowo Pier",
+              "tip_5lang": {
+                "de": "Holzplanken sind extrem glatt, schieben Sie das Rad lieber.",
+                "hu": "A fapadlók rendkívül csúszósak, inkább tolja a kerékpárt.",
+                "ro": "Scândurile sunt extrem de alunecoase, mai bine împingeți bicicleta.",
+                "en": "Wooden planks are extremely slippery; better to push your bike."
+              }
+            },
+            {
+              "name": "Ride back to the center",
+              "tip_5lang": {
+                "de": "Wählen Sie die Straße statt der Küste, um Wellengischt zu meiden.",
+                "hu": "Válassza az utcákat a part helyett, hogy elkerülje a sós permetet.",
+                "ro": "Alegeți străzile în locul falezei pentru a evita vaporii sărați.",
+                "en": "Choose the streets instead of the coast to avoid salt spray."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achtung, die Holzplanken an den Kais sind bei Nässe extrem rutschig.",
+              "Nutzen Sie den Radweg durch den Park statt der Promenade.",
+              "Regenkleidung ist wegen des Windes besser als ein Schirm.",
+              "In Orłowo gibt es überdachte Fahrradständer."
+            ],
+            "hu": [
+              "Vigyázat, a kikötői fapadlók esőben rendkívül csúszósak.",
+              "Használja a parkon átvezető bicikliutat a sétány helyett.",
+              "A szél miatt az esőkabát praktikusabb, mint az esernyő.",
+              "Orłowóban vannak fedett kerékpártárolók."
+            ],
+            "ro": [
+              "Atenție, scândurile de lemn din port sunt extrem de alunecoase pe ploaie.",
+              "Folosiți pista de biciclete prin parc în locul falezii.",
+              "Pelerina de ploaie e mai practică decât umbrela din cauza vântului.",
+              "În Orłowo există rastele de biciclete acoperite."
+            ],
+            "en": [
+              "Caution: wooden planks at the harbor are very slippery when wet.",
+              "Use the bike path through the park instead of the promenade.",
+              "A raincoat is more practical than an umbrella due to wind.",
+              "There are covered bike racks available in Orłowo."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eisige Tour entlang der Danziger Bucht. Vormittag im Auswanderungsmuseum aufwärmen. Mittags radeln wir zum Hafenplatz. Mittagessen mit Blick auf das Packeis. Nachmittag Fahrt nach Orłowo, solange es noch hell ist. Rückfahrt bei Dämmerung mit guter Beleuchtung.",
+            "hu": "Jeges túra a Gdanski-öböl mentén. Délelőtt melegedés az Emigrációs Múzeumban. Délben kitekerünk a kikötői térre. Ebéd kilátással a zajló jégre. Délután tekerés Orłowóba, amíg még világos van. Visszatérés szürkületben, jó világítással.",
+            "ro": "Tură înghețată de-a lungul Golfului Gdansk. Încălzire la Muzeul Emigrației. La prânz pedalăm spre piața portului. Prânz cu vedere la gheața de pe mare. După-amiaza drum spre Orłowo cât încă e lumină. Retur pe amurg cu lumini bune.",
+            "en": "Icy tour along the Gdańsk Bay. Warm up at the Emigration Museum. At noon, cycle to the harbor square. Lunch with a view of the sea ice. Afternoon ride to Orłowo while it's still light. Return at dusk with good lights."
+          },
+          "stops": [
+            {
+              "name": "Emigration Museum",
+              "tip_5lang": {
+                "de": "Starten Sie hier, um die erste Kälte im Inneren zu vermeiden.",
+                "hu": "Kezdjen itt, hogy elkerülje az első reggeli fagyokat.",
+                "ro": "Începeți aici pentru a evita primul ger al dimineții.",
+                "en": "Start here to avoid the first morning frost."
+              }
+            },
+            {
+              "name": "Kościuszko Square & ORP Błyskawica",
+              "tip_5lang": {
+                "de": "Metallteile am Rad können sehr kalt werden, Handschuhe tragen.",
+                "hu": "A fém alkatrészek nagyon lehűlhetnek, viseljen kesztyűt.",
+                "ro": "Părțile metalice pot deveni foarte reci, purtați mănuși.",
+                "en": "Metal bike parts can get very cold; wear gloves."
+              }
+            },
+            {
+              "name": "Lunch on the beach promenade",
+              "tip_5lang": {
+                "de": "Im Winter sind viele Strandbars geschlossen, suchen Sie feste Lokale.",
+                "hu": "Télen sok strandbár zárva van, keressen állandó éttermet.",
+                "ro": "Multe baruri de plajă sunt închise iarna, căutați restaurante fixe.",
+                "en": "Many beach bars are closed in winter; look for permanent restaurants."
+              }
+            },
+            {
+              "name": "Kamienna Góra",
+              "tip_5lang": {
+                "de": "Der Anstieg hält warm, aber oben zieht der Wind stark.",
+                "hu": "A kapaszkodó melegen tart, de fent erősen fúj a szél.",
+                "ro": "Urcarea vă menține cald, dar sus vântul bate cu putere.",
+                "en": "The climb keeps you warm, but the wind bites at the top."
+              }
+            },
+            {
+              "name": "Ride to Orłowo",
+              "tip_5lang": {
+                "de": "Achten Sie auf gefrorene Pfützen auf den Waldwegen.",
+                "hu": "Ügyeljen a befagyott tócsákra az erdei utakon.",
+                "ro": "Atenție la bălțile înghețate de pe potecile din pădure.",
+                "en": "Watch out for frozen puddles on the forest paths."
+              }
+            },
+            {
+              "name": "Orłowo Pier",
+              "tip_5lang": {
+                "de": "Der Wind auf dem Pier ist im Winter extrem schneidend.",
+                "hu": "A mólón a szél télen rendkívül metsző tud lenni.",
+                "ro": "Vântul de pe dig poate fi extrem de tăios iarna.",
+                "en": "The wind on the pier can be extremely piercing in winter."
+              }
+            },
+            {
+              "name": "Ride back to the center",
+              "tip_5lang": {
+                "de": "Gute Reflektoren sind wichtig, da es früh dunkel wird.",
+                "hu": "A jó prizmák fontosak, mert korán sötétedik.",
+                "ro": "Reflectorizantele bune sunt importante, se întunecă devreme.",
+                "en": "Good reflectors are important as it gets dark early."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie mehrere Schichten und winddichte Kleidung.",
+              "Prüfen Sie den Reifendruck, er sinkt bei Kälte leicht.",
+              "Die Fahrradwege können stellenweise vereist sein.",
+              "Planen Sie die Rückkehr spätestens für 16:00 Uhr ein."
+            ],
+            "hu": [
+              "Viseljen több rétegű, szélálló ruházatot.",
+              "Ellenőrizze a guminyomást, hidegben könnyen lecsökken.",
+              "A kerékpárutak helyenként jegesek lehetnek.",
+              "A visszatérést legkésőbb 16 órára tervezze be."
+            ],
+            "ro": [
+              "Purtați mai multe straturi de haine rezistente la vânt.",
+              "Verificați presiunea în pneuri, scade ușor la frig.",
+              "Pistele de biciclete pot fi înghețate pe alocuri.",
+              "Planificați întoarcerea cel târziu pentru ora 16:00."
+            ],
+            "en": [
+              "Wear multiple layers and windproof clothing.",
+              "Check tire pressure; it drops slightly in the cold.",
+              "Bike paths can be icy in some places.",
+              "Plan your return by 4 PM at the latest."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1098,6 +1480,188 @@
           "Allow extra time for traffic during the high season.",
           "The car gives you the flexibility to visit more remote places like the Babie Doły cliffs."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Komfortable Regentour mit dem Auto. Fahrt nach Orłowo zum stürmischen Pier. Vormittag zurück ins Zentrum, Parken im Parkhaus am Kamienna Góra. Mittagessen und Aquarium-Besuch im Trockenen. Nachmittag zum Auswanderungsmuseum, direkt vor dem Eingang parken.",
+            "hu": "Kényelmes esős túra autóval. Autózás Orłowóba a viharos mólóhoz. Délelőtt vissza a központba, parkolás a Kamienna Góra melletti parkolóházban. Ebéd és Akvárium látogatás szárazon. Délután az Emigrációs Múzeumba megyünk, parkolás közvetlen a bejárat előtt.",
+            "ro": "Tură confortabilă cu mașina pe ploaie. Drum spre Orłowo pentru digul învolburat. Revenire în centru, parcare în garajul de lângă Kamienna Góra. Prânz și vizită la Acvariu la adăpost. După-amiaza la Muzeul Emigrației, parcare chiar la intrare.",
+            "en": "Comfortable rainy tour by car. Drive to Orłowo for the stormy pier. Morning back to the center, parking in the garage near Kamienna Góra. Lunch and Aquarium visit in the dry. Afternoon to the Emigration Museum, parking right in front of the entrance."
+          },
+          "stops": [
+            {
+              "name": "Drive to Orłowo & Park",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Strand, um den Fußweg im Regen kurz zu halten.",
+                "hu": "Parkoljon közel a strandhoz, hogy rövid legyen a séta az esőben.",
+                "ro": "Parcați aproape de plajă pentru a scurta mersul prin ploaie.",
+                "en": "Park close to the beach to keep the walk in the rain short."
+              }
+            },
+            {
+              "name": "Orłowo Pier",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Wellen, bevor es zu nass wird.",
+                "hu": "Élvezze a hullámok látványát, mielőtt túl vizes lenne.",
+                "ro": "Bucurați-vă de valuri înainte de a vă uda prea tare.",
+                "en": "Enjoy the view of the waves before getting too wet."
+              }
+            },
+            {
+              "name": "Drive to Center & Park near Kamienna Góra",
+              "tip_5lang": {
+                "de": "Nutzen Sie das überdachte Parkhaus im Waterfront-Zentrum.",
+                "hu": "Használja a Waterfront központ fedett parkolóházát.",
+                "ro": "Folosiți parcarea acoperită din centrul Waterfront.",
+                "en": "Use the covered parking garage in the Waterfront center."
+              }
+            },
+            {
+              "name": "Kościuszko Square & Museum Ships",
+              "tip_5lang": {
+                "de": "Vom Parkplatz sind es nur wenige Schritte bis zum Aquarium.",
+                "hu": "A parkolótól csak pár lépés az Akvárium bejárata.",
+                "ro": "De la parcare sunt doar câțiva pași până la intrarea Acvariului.",
+                "en": "It is only a few steps from the parking to the Aquarium entrance."
+              }
+            },
+            {
+              "name": "Gdynia Aquarium & Lunch",
+              "tip_5lang": {
+                "de": "Das Auto bleibt trocken, während Sie die Meereswelt erkunden.",
+                "hu": "Az autó száraz marad, amíg Ön a tenger világát fedezi fel.",
+                "ro": "Mașina rămâne uscată în timp ce explorați lumea marină.",
+                "en": "The car stays dry while you explore the marine world."
+              }
+            },
+            {
+              "name": "Drive to the Emigration Museum",
+              "tip_5lang": {
+                "de": "Es gibt ausreichend Parkplätze direkt am Hafenkai.",
+                "hu": "Közvetlenül a kikötői mólónál rengeteg parkolóhely van.",
+                "ro": "Există multe locuri de parcare chiar lângă cheiul portului.",
+                "en": "There are plenty of parking spaces right by the harbor quay."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie das Parken unter Bäumen bei starkem Wind.",
+              "Die Parkhäuser im Zentrum bieten den besten Regenschutz.",
+              "Halten Sie Kleingeld für die Parkautomaten bereit.",
+              "Fahren Sie bei Aquaplaning-Gefahr auf der Küstenstraße vorsichtig."
+            ],
+            "hu": [
+              "Erős szélben kerülje a fák alatti parkolást.",
+              "A belvárosi parkolóházak nyújtják a legjobb védelmet az eső ellen.",
+              "Legyen kéznél aprópénz a parkolóautomatákhoz.",
+              "Vigyázzon a parti úton a vízenfutás (aquaplaning) veszélye miatt."
+            ],
+            "ro": [
+              "Evitați parcarea sub copaci pe vânt puternic.",
+              "Parcările etajate din centru oferă cea mai bună protecție.",
+              "Aveți mărunțiș pregătit pentru automatele de parcare.",
+              "Conduceți cu prudență pe drumul de coastă din cauza acvaplanării."
+            ],
+            "en": [
+              "Avoid parking under trees during strong winds.",
+              "City center parking garages offer the best rain protection.",
+              "Keep some coins ready for the parking meters.",
+              "Drive carefully on the coastal road due to aquaplaning risks."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliche Autotour durch Gdingen. Vormittags zum frostigen Orłowo-Kliff. Danach Fahrt ins warme Zentrum. Mittagessen in Hafennähe und Besuch des Aquariums. Nachmittags Fahrt zum Auswanderungsmuseum, um den Sonnenuntergang über dem Hafenbecken bequem vom Auto oder Museum aus zu sehen.",
+            "hu": "Téli autós túra Gdyniában. Délelőtt a fagyos orłowói sziklákhoz. Utána autózás a meleg belvárosba. Ebéd a kikötő közelében és az Akvárium megtekintése. Délután az Emigrációs Múzeumba megyünk, a naplementét kényelmesen az autóból vagy a múzeumból nézzük.",
+            "ro": "Tură de iarnă cu mașina prin Gdynia. Dimineața la faleza înghețată din Orłowo. Apoi drum spre centrul călduros. Prânz lângă port și vizită la Acvariu. După-amiaza la Muzeul Emigrației pentru apusul de soare peste port.",
+            "en": "Winter car tour through Gdynia. Morning to the frosty Orłowo cliffs. Then drive to the warm city center. Lunch near the harbor and visit the Aquarium. Afternoon to the Emigration Museum to watch the sunset over the harbor."
+          },
+          "stops": [
+            {
+              "name": "Drive to Orłowo & Park",
+              "tip_5lang": {
+                "de": "Die Straßen in Strandnähe können morgens glatt sein.",
+                "hu": "A tengerparthoz közeli utcák reggelente jegesek lehetnek.",
+                "ro": "Străzile de lângă plajă pot fi înghețate dimineața.",
+                "en": "Streets near the beach can be icy in the mornings."
+              }
+            },
+            {
+              "name": "Orłowo Pier",
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor nicht zu lange im Stehen laufen.",
+                "hu": "Ne járassa túl sokáig álló helyzetben a motort.",
+                "ro": "Nu lăsați motorul pornit prea mult timp în staționare.",
+                "en": "Do not leave the engine idling for too long."
+              }
+            },
+            {
+              "name": "Drive to Center & Park near Kamienna Góra",
+              "tip_5lang": {
+                "de": "Vorgewärmte Parkhäuser schonen die Autobatterie.",
+                "hu": "A temperált parkolóházak kímélik az autó akkumulátorát.",
+                "ro": "Parcările acoperite protejează bateria mașinii.",
+                "en": "Climate-controlled parking garages are easier on the car battery."
+              }
+            },
+            {
+              "name": "Kościuszko Square & Museum Ships",
+              "tip_5lang": {
+                "de": "Kurzer Spaziergang zu den Schiffen, dann zurück ins warme Auto.",
+                "hu": "Rövid séta a hajókhoz, majd vissza a meleg autóba.",
+                "ro": "Scurtă plimbare la nave, apoi înapoi în mașina caldă.",
+                "en": "Short walk to the ships, then back to the warm car."
+              }
+            },
+            {
+              "name": "Gdynia Aquarium & Lunch",
+              "tip_5lang": {
+                "de": "Parken Sie so, dass Sie nach dem Essen direkt losfahren können.",
+                "hu": "Úgy parkoljon, hogy ebéd után rögtön indulni tudjon.",
+                "ro": "Parcați astfel încât să puteți pleca imediat după masă.",
+                "en": "Park so that you can leave immediately after lunch."
+              }
+            },
+            {
+              "name": "Drive to the Emigration Museum",
+              "tip_5lang": {
+                "de": "Die Hafenstraßen werden im Winter meist gut geräumt.",
+                "hu": "A kikötői utakat télen általában jól takarítják.",
+                "ro": "Drumurile din port sunt de obicei bine deszăpezite iarna.",
+                "en": "Harbor roads are usually well-cleared in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in Polen bei Schnee und Eis Pflicht.",
+              "Achten Sie auf gefrierende Nässe in Meeresnähe.",
+              "Nehmen Sie einen Eiskratzer und Frostschutzmittel mit.",
+              "Die Parkgebühren gelten auch im Winter."
+            ],
+            "hu": [
+              "Lengyelországban hóban és jégben kötelező a téli gumi.",
+              "Ügyeljen a tenger közelsége miatti lefagyásokra.",
+              "Vigyen magával jégkaparót és fagyállót.",
+              "A parkolási díjak télen is érvényesek."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii în Polonia pe zăpadă.",
+              "Atenție la poleiul care se formează lângă mare.",
+              "Luați o racletă și lichid de parbriz rezistent la îngheț.",
+              "Taxele de parcare se aplică și pe timp de iarnă."
+            ],
+            "en": [
+              "Winter tires are mandatory in Poland during snow and ice.",
+              "Watch out for black ice forming near the sea.",
+              "Bring an ice scraper and antifreeze fluid.",
+              "Parking fees apply in winter as well."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1454,6 +2018,188 @@
           "SKM trains and trolleybuses are the main modes of transport.",
           "Validate your ticket immediately after boarding to avoid a fine."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit Bus und Bahn durch das regnerische Gdingen. Vormittag Fahrt zum Auswanderungsmuseum. Danach mit dem Bus zum Kościuszko-Platz. Besuch der Museumsschiffe und des Aquariums im Trockenen. Nachmittag mit dem Bus zum Kamienna Góra und schließlich mit dem SKM-Zug nach Orłowo.",
+            "hu": "Busszal és vonattal az esős Gdyniában. Délelőtt utazás az Emigrációs Múzeumba. Utána busszal a Kościuszko térre. A hajók és az Akvárium megtekintése fedett helyen. Délután buszozás a Kamienna Górárához, végül SKM vonattal Orłowóba.",
+            "ro": "Cu autobuzul și trenul prin Gdynia ploioasă. Dimineața drum la Muzeul Emigrației. Apoi cu autobuzul în Piața Kościuszko. Vizităm navele și Acvariul la adăpost. După-amiaza cu autobuzul la Kamienna Góra și cu trenul SKM la Orłowo.",
+            "en": "By bus and train through rainy Gdynia. Morning trip to the Emigration Museum. Then by bus to Kościuszko Square. Visit the museum ships and Aquarium in the dry. Afternoon bus to Kamienna Góra and finally an SKM train to Orłowo."
+          },
+          "stops": [
+            {
+              "name": "Trip to the Emigration Museum",
+              "tip_5lang": {
+                "de": "Die Buslinie 119 hält fast direkt vor dem Museumseingang.",
+                "hu": "A 119-es busz szinte közvetlenül a múzeum bejárata előtt áll meg.",
+                "ro": "Autobuzul 119 oprește aproape chiar în fața intrării muzeului.",
+                "en": "Bus line 119 stops almost directly in front of the museum entrance."
+              }
+            },
+            {
+              "name": "Trip to Kościuszko Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Wartehäuschen an den Bushaltestellen.",
+                "hu": "Használja a buszmegállók fedett váróit.",
+                "ro": "Folosiți adăposturile din stațiile de autobuz.",
+                "en": "Use the shelters at the bus stops."
+              }
+            },
+            {
+              "name": "Dar Pomorza Museum Ship & Aquarium",
+              "tip_5lang": {
+                "de": "Vom Aquarium ist es nur ein kurzer Sprint zur nächsten Haltestelle.",
+                "hu": "Az Akváriumtól csak egy rövid futás a következő megálló.",
+                "ro": "De la Acvariu e doar un sprint scurt până la următoarea stație.",
+                "en": "It is just a short sprint from the Aquarium to the next stop."
+              }
+            },
+            {
+              "name": "Lunch & walk to Kamienna Góra",
+              "tip_5lang": {
+                "de": "Viele Busse fahren vom Hafen direkt ins Zentrum.",
+                "hu": "Sok busz jár a kikötőtől közvetlenül a központba.",
+                "ro": "Multe autobuze merg din port direct spre centru.",
+                "en": "Many buses run from the harbor directly to the center."
+              }
+            },
+            {
+              "name": "Trip to Orłowo (SKM train)",
+              "tip_5lang": {
+                "de": "Die SKM-Züge sind warm, trocken und fahren alle 15 Minuten.",
+                "hu": "Az SKM vonatok melegek, szárazak és 15 percenként járnak.",
+                "ro": "Trenurile SKM sunt calde, uscate și circulă la fiecare 15 minute.",
+                "en": "SKM trains are warm, dry, and run every 15 minutes."
+              }
+            },
+            {
+              "name": "Orłowo Pier & Cliffs",
+              "tip_5lang": {
+                "de": "Vom Bahnhof Orłowo ist es ein ca. 10-minütiger Fußweg zum Meer.",
+                "hu": "Az orłowói állomástól kb. 10 perc séta a tengerpart.",
+                "ro": "De la gara Orłowo sunt cam 10 minute de mers pe jos până la mare.",
+                "en": "From Orłowo station, it is about a 10-minute walk to the sea."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie Fahrkarten bequem per App (pl. Jakdojade).",
+              "Die Busse in Gdingen sind modern und meist pünktlich.",
+              "An Regentagen sind die Züge oft voller als sonst.",
+              "Die Haltestellenansagen helfen bei schlechter Sicht."
+            ],
+            "hu": [
+              "Vásároljon jegyet kényelmesen applikációval (pl. Jakdojade).",
+              "Gdynia buszai modernek és általában pontosak.",
+              "Esős napokon a vonatok gyakran zsúfoltabbak a szokásosnál.",
+              "A megállóbemondások segítenek rossz látási viszonyok között."
+            ],
+            "ro": [
+              "Cumpărați bilete convenabil prin aplicație (ex. Jakdojade).",
+              "Autobuzele din Gdynia sunt moderne și de obicei punctuale.",
+              "În zilele ploioase, trenurile sunt adesea mai aglomerate.",
+              "Anunțurile din stații ajută când vizibilitatea e redusă."
+            ],
+            "en": [
+              "Buy tickets conveniently via app (e.g., Jakdojade).",
+              "Gdynia buses are modern and usually on time.",
+              "On rainy days, trains are often more crowded than usual.",
+              "Stop announcements help when visibility is poor."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winter-Tagestrip mit öffentlichen Verkehrsmitteln. Vormittags zum Auswanderungsmuseum. Mittags mit dem Bus zum Kościuszko-Platz, um Schiffe und Aquarium zu sehen. Nachmittag Fahrt zum Kamienna Góra. Zum Abschluss mit dem warmen SKM-Zug nach Orłowo für einen frostigen Strandspaziergang.",
+            "hu": "Téli nap Gdyniában tömegközlekedéssel. Délelőtt az Emigrációs Múzeumban kezdünk. Délben busszal a Kościuszko térre a hajókhoz és az Akváriumhoz. Délután buszozás a Kamienna Górárához. Végül a meleg SKM vonattal Orłowóba egy fagyos parti sétára.",
+            "ro": "O zi de iarnă în Gdynia cu transportul public. Dimineața la Muzeul Emigrației. La prânz cu autobuzul în Piața Kościuszko. După-amiaza la Kamienna Góra. La final, cu trenul cald SKM la Orłowo pentru o plimbare pe plaja înghețată.",
+            "en": "Winter day in Gdynia by public transport. Start at the Emigration Museum in the morning. At noon, bus to Kościuszko Square for the ships and Aquarium. Afternoon bus to Kamienna Góra. Finally, take the warm SKM train to Orłowo for a frosty beach walk."
+          },
+          "stops": [
+            {
+              "name": "Trip to the Emigration Museum",
+              "tip_5lang": {
+                "de": "Warten Sie im Museumscafé, wenn der Bus Verspätung hat.",
+                "hu": "Várjon a múzeum kávézójában, ha késik a busz.",
+                "ro": "Așteptați în cafeneaua muzeului dacă autobuzul întârzie.",
+                "en": "Wait in the museum cafe if the bus is delayed."
+              }
+            },
+            {
+              "name": "Trip to Kościuszko Square",
+              "tip_5lang": {
+                "de": "Im Winter fahren die Busse im Standardtakt, achten Sie auf die Kälte.",
+                "hu": "Télen a buszok alapmenetrend szerint járnak, ügyeljen a hidegre.",
+                "ro": "Iarna autobuzele au program normal, atenție la ger.",
+                "en": "Buses run on a standard schedule in winter; mind the cold."
+              }
+            },
+            {
+              "name": "Dar Pomorza Museum Ship & Aquarium",
+              "tip_5lang": {
+                "de": "Die Schiffe haben im Winter oft verkürzte Öffnungszeiten.",
+                "hu": "A hajók télen gyakran rövidített nyitvatartással üzemelnek.",
+                "ro": "Navele au adesea program scurtat pe timp de iarnă.",
+                "en": "The ships often have shortened opening hours in winter."
+              }
+            },
+            {
+              "name": "Lunch & walk to Kamienna Góra",
+              "tip_5lang": {
+                "de": "Der Weg zur nächsten Haltestelle kann windig sein.",
+                "hu": "A következő megállóig vezető út szeles lehet.",
+                "ro": "Drumul până la următoarea stație poate fi foarte vântos.",
+                "en": "The walk to the next stop can be very windy."
+              }
+            },
+            {
+              "name": "Trip to Orłowo (SKM train)",
+              "tip_5lang": {
+                "de": "Die Bahnhöfe sind zugig, kommen Sie kurz vor der Abfahrt.",
+                "hu": "Az állomások huzatosak, érkezzen röviddel indulás előtt.",
+                "ro": "Gările sunt expuse curentului, veniți cu puțin timp înainte de plecare.",
+                "en": "Stations are drafty; arrive shortly before departure."
+              }
+            },
+            {
+              "name": "Orłowo Pier & Cliffs",
+              "tip_5lang": {
+                "de": "Der Rückweg zum Bahnhof wärmt nach dem Strandbesuch auf.",
+                "hu": "A tengerpart után a visszaút az állomásra jól átmelegíti.",
+                "ro": "Drumul înapoi spre gară vă va încălzi după vizita pe plajă.",
+                "en": "The walk back to the station will warm you up after the beach."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die SKM-Züge sind die zuverlässigste Verbindung im Winter.",
+              "Trolleybusse in Gdingen sind beheizt und sehr komfortabel.",
+              "Beachten Sie den Winterfahrplan an Feiertagen.",
+              "Fahrkartenautomaten an Haltestellen können bei Frost klemmen."
+            ],
+            "hu": [
+              "Az SKM vonatok a legmegbízhatóbbak télen.",
+              "Gdynia trolibuszai fűtöttek és nagyon kényelmesek.",
+              "Ügyeljen a téli menetrendre az ünnepek alatt.",
+              "A megállók jegyautomatái fagyban néha meghibásodhatnak."
+            ],
+            "ro": [
+              "Trenurile SKM sunt cea mai sigură conexiune iarna.",
+              "Troleibuzele din Gdynia sunt încălzite și foarte confortabile.",
+              "Verificați orarul de iarnă în timpul sărbătorilor.",
+              "Automatele de bilete din stații se pot bloca la ger."
+            ],
+            "en": [
+              "SKM trains are the most reliable connection in winter.",
+              "Gdynia's trolleybuses are heated and very comfortable.",
+              "Check the winter schedule during holidays.",
+              "Ticket machines at stops can sometimes malfunction in the frost."
+            ]
+          }
+        }
       }
     }
   }

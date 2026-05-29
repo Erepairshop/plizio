@@ -342,6 +342,188 @@
           "Most sights in the city center are within easy walking distance.",
           "Check museum opening hours in advance."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag unter dem Regenschirm am Denkmal von Hajduk Veljko. Die Kathedrale bietet einen prachtvollen, trockenen Rückzugsort am Vormittag. Mittags erkunden Sie die Innenräume des Mokranjac-Hauses, während es draußen prasselt. Den Nachmittag verbringen Sie ausgiebig im Krajina-Museum, bevor Sie den Abend bei einem gemütlichen Essen im warmen Stadtzentrum ausklingen lassen.",
+            "hu": "Kezdje a napot esernyővel Hajduk Veljkó emlékművénél, majd keressen menedéket a Szentháromság-székesegyház hűvös, de száraz falaiban. A déli órákban a Mokranjac-ház belső terei nyújtanak kulturális kikapcsolódást az eső elől. A délutánt töltse a Krajina Múzeum gazdag tárlatai között, az estét pedig egy barátságos, belvárosi étterem melegében zárja.",
+            "ro": "Începeți ziua cu o umbrelă la Monumentul lui Hajduk Veljko, apoi refugiați-vă în interiorul spectaculos al Catedralei Sfânta Treime. La prânz, vizitați Casa Mokranjac pentru a evita ploaia, explorând istoria muzicală locală. Petreceți după-amiaza la Muzeul Krajinei, un loc perfect pentru a rămâne la adăpost, și încheiați seara cu o masă caldă în centrul orașului.",
+            "en": "Start your day with an umbrella at the Hajduk Veljko Monument, then seek shelter inside the magnificent Holy Trinity Cathedral. Midday is best spent indoors at the Mokranjac House, learning about local heritage. Spend a long afternoon at the Museum of Krajina to stay dry, and wrap up the rainy day with a cozy dinner in the city center."
+          },
+          "stops": [
+            {
+              "name": "Hajduk Veljko Monument",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp; die Statue glänzt im Regen besonders eindrucksvoll.",
+                "hu": "Gyors fotómegálló; a szobor vizes felülete látványosan csillog az esőben.",
+                "ro": "Oprire scurtă pentru poze; statuia strălucește spectaculos în ploaie.",
+                "en": "Quick photo stop; the statue has a dramatic gleam in the rain."
+              }
+            },
+            {
+              "name": "Cathedral of the Holy Trinity",
+              "tip_5lang": {
+                "de": "Idealer Ort, um die Kleidung zu trocknen und die Akustik zu genießen.",
+                "hu": "Tökéletes hely a száradásra és a belső akusztika élvezetére.",
+                "ro": "Loc ideal pentru a vă usca hainele și a vă bucura de acustică.",
+                "en": "Ideal place to dry off and enjoy the interior acoustics."
+              }
+            },
+            {
+              "name": "Old Church of the Nativity",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem alten Kopfsteinpflaster, es wird bei Nässe sehr rutschig.",
+                "hu": "Vigyázat a régi macskaköveken, vizesen nagyon csúsznak.",
+                "ro": "Atenție pe pavajul vechi, devine foarte alunecos când este ud.",
+                "en": "Watch your step on the old cobblestones; they get slippery when wet."
+              }
+            },
+            {
+              "name": "Mokranjac House",
+              "tip_5lang": {
+                "de": "Genießen Sie die Musikaufnahmen drinnen, während es draußen regnet.",
+                "hu": "Hallgasson archív felvételeket bent, miközben kint dobol az eső.",
+                "ro": "Ascultați înregistrările audio la interior în timp ce plouă afară.",
+                "en": "Enjoy the indoor musical recordings while it rains outside."
+              }
+            },
+            {
+              "name": "Museum of Krajina",
+              "tip_5lang": {
+                "de": "Verlängern Sie den Besuch, um den stärksten Schauern zu entgehen.",
+                "hu": "Hosszabbítsa meg a látogatást, hogy elkerülje a legnagyobb záporokat.",
+                "ro": "Prelungiți vizita pentru a evita cele mai puternice averse.",
+                "en": "Extend your visit here to avoid the heaviest showers."
+              }
+            },
+            {
+              "name": "Lunch in the city center",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit überdachtem Eingangsbereich.",
+                "hu": "Válasszon olyan éttermet, amelynek fedett a bejárata.",
+                "ro": "Alegeți un restaurant care are o zonă de intrare acoperită.",
+                "en": "Choose a restaurant with a covered entrance or porch."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für die Kopfsteinpflastergassen.",
+              "Die Kathedrale und Museen sind perfekte Regenunterkünfte.",
+              "In der Fußgängerzone gibt es viele Arkaden zum Unterstellen.",
+              "Ein Taschenschirm ist bei den kurzen Wegen zwischen den Stops ideal."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a macskaköves utcákhoz.",
+              "A székesegyház és a múzeumok kiváló menedéket nyújtanak.",
+              "A sétálóutcában sok helyen találhat ereszt az eső elől.",
+              "Egy összecsukható esernyő tökéletes a rövid sétákhoz."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru străzile cu piatră cubică.",
+              "Catedrala și muzeele sunt refugii perfecte împotriva ploii.",
+              "Zona pietonală oferă multe arcade unde vă puteți adăposti.",
+              "O umbrelă pliabilă este ideală pentru distanțele scurte între opriri."
+            ],
+            "en": [
+              "Wear waterproof shoes for the cobblestone alleys.",
+              "The cathedral and museums are excellent shelters from the rain.",
+              "Many buildings in the pedestrian zone have overhanging eaves.",
+              "A compact umbrella is perfect for the short walks between stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen beginnt am Denkmal, bevor Sie die stille Wärme der Kathedrale suchen. Mittags wärmen Sie sich im Mokranjac-Haus auf und tauchen in die serbische Geschichte ein. Der Nachmittag im Krajina-Museum bietet Schutz vor dem kalten Wind. Da es früh dunkel wird, genießen Sie ein herzhaftes Abendessen bei Kerzenschein in einem geheizten Lokal im Zentrum.",
+            "hu": "A fagyos reggel az emlékműnél indul, de hamar a székesegyház csendes melegébe invitáljuk. Délben a Mokranjac-ház fűtött szobáiban ismerkedhet a szerb kultúrával. A délutánt a Krajina Múzeumban töltve elkerülheti a metsző szelet. Mivel korán sötétedik, az estét már egy barátságos, fűtött belvárosi vendéglőben töltse.",
+            "ro": "O dimineață geroasă începe la monument, urmată de liniștea primitoare a catedralei. La prânz, încălziți-vă în Casa Mokranjac explorând istoria locală. După-amiaza la Muzeul Krajinei oferă protecție împotriva vântului rece de iarnă. Deoarece se întunecă devreme, savurați o cină copioasă într-un local încălzit din centru.",
+            "en": "Start a frosty morning at the monument before seeking the quiet warmth of the cathedral. At midday, warm up inside the Mokranjac House while diving into Serbian history. The afternoon at the Museum of Krajina provides shelter from the cold wind. Since it gets dark early, enjoy a hearty dinner in a heated restaurant in the center."
+          },
+          "stops": [
+            {
+              "name": "Hajduk Veljko Monument",
+              "tip_5lang": {
+                "de": "Mütze und Handschuhe sind hier ein Muss; der Platz ist oft windig.",
+                "hu": "Sapka és kesztyű kötelező; a tér gyakran szeles télen.",
+                "ro": "Căciula și mănușile sunt obligatorii; piața este adesea vântoasă.",
+                "en": "Hat and gloves are a must; the square is often windy in winter."
+              }
+            },
+            {
+              "name": "Cathedral of the Holy Trinity",
+              "tip_5lang": {
+                "de": "Genießen Sie die feierliche Atmosphäre und die relative Wärme.",
+                "hu": "Élvezze az ünnepi hangulatot és a benti viszonylagos meleget.",
+                "ro": "Bucurați-vă de atmosfera solemnă și de căldura relativă.",
+                "en": "Enjoy the solemn atmosphere and the relative warmth inside."
+              }
+            },
+            {
+              "name": "Old Church of the Nativity",
+              "tip_5lang": {
+                "de": "Vorsicht vor Vereisungen auf den Treppenstufen zum Eingang.",
+                "hu": "Vigyázzon a jegesedésre a bejárathoz vezető lépcsőfokokon.",
+                "ro": "Atenție la gheața de pe treptele de la intrare.",
+                "en": "Be careful of ice patches on the steps leading to the entrance."
+              }
+            },
+            {
+              "name": "Mokranjac House",
+              "tip_5lang": {
+                "de": "Ein wunderbarer Ort, um sich zwischen den Spaziergängen aufzuwärmen.",
+                "hu": "Remek hely a felmelegedésre két séta között.",
+                "ro": "Un loc minunat pentru a vă încălzi între plimbări.",
+                "en": "A wonderful spot to warm up between outdoor walks."
+              }
+            },
+            {
+              "name": "Museum of Krajina",
+              "tip_5lang": {
+                "de": "Planen Sie den Besuch so, dass Sie vor dem Sonnenuntergang fertig sind.",
+                "hu": "Tervezze úgy a látogatást, hogy naplemente előtt végezzen.",
+                "ro": "Planificați vizita astfel încât să terminați înainte de apus.",
+                "en": "Plan your visit to finish before the early winter sunset."
+              }
+            },
+            {
+              "name": "Lunch in the city center",
+              "tip_5lang": {
+                "de": "Bestellen Sie eine heiße Suppe (Čorba), um sich aufzuwärmen.",
+                "hu": "Rendeljen egy forró csorbát, hogy átmelegedjen a nap végén.",
+                "ro": "Comandați o ciorbă fierbinte pentru a vă încălzi corpul.",
+                "en": "Order a hot soup (Čorba) to warm up your body at the end of the day."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Winter bereits gegen 16:30 Uhr unter.",
+              "Tragen Sie Schichten, da die Museen gut geheizt sein können.",
+              "Achten Sie auf Glatteis auf den historischen Gehwegen.",
+              "Ein heißer Tee in den Cafés am Platz ist eine willkommene Pause."
+            ],
+            "hu": [
+              "A nap télen már 16:30 körül nyugovóra tér.",
+              "Öltözzön rétegesen, mert a múzeumok jól fűtöttek.",
+              "Figyeljen a jeges foltokra a történelmi járdákon.",
+              "Egy forró tea a főtéri kávézókban segít a felfrissülésben."
+            ],
+            "ro": [
+              "Soarele apune în jurul orei 16:30 pe timpul iernii.",
+              "Îmbrăcați-vă în straturi, deoarece muzeele pot fi bine încălzite.",
+              "Atenție la porțiunile cu gheață de pe trotuarele istorice.",
+              "Un ceai fierbinte la cafenelele din piață este o pauză binevenită."
+            ],
+            "en": [
+              "The sun sets as early as 4:30 PM during the winter months.",
+              "Dress in layers as the museums can be quite warm inside.",
+              "Watch out for black ice on the historic pavements.",
+              "A hot tea in the square's cafes is a welcome break."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -678,6 +860,188 @@
           "The roads can be hilly; be prepared for some climbing.",
           "A helmet is strongly recommended."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen ist Negotin mit dem Rad machbar. Beginnen Sie kurz am Denkmal und fahren Sie schnell zur schützenden Kathedrale. Mittags bietet das Krajina-Museum eine lange Pause im Trockenen. Die Fahrt zum Bukovo-Kloster erfordert Vorsicht auf nassen Straßen. Belohnen Sie sich nachmittags mit einer Weinprobe in einer der Kellereien, während das Wetter draußen tobt.",
+            "hu": "Az eső ellenére a kerékpárral is bejárható Negotin. Rövid megálló az emlékműnél, majd irány a székesegyház oltalma. Délben a Krajina Múzeum nyújt hosszú, száraz pihenőt. A Bukovo-kolostorhoz vezető út óvatosságot igényel a vizes aszfalton. Délután jutalmazza meg magát egy borkóstolóval az egyik pincében, amíg odakint szakad az eső.",
+            "ro": "În ciuda ploii, Negotin este abordabil cu bicicleta. Oprire scurtă la monument, apoi fugiți spre catedrală. La prânz, Muzeul Krajinei oferă un popas lung și uscat. Drumul spre Mănăstirea Bukovo necesită atenție pe asfaltul ud. După-amiază, răsplătiți-vă cu o degustare de vinuri într-o cramă, în timp ce afară plouă.",
+            "en": "Despite the rain, Negotin is bikeable with the right gear. Start at the monument and head quickly to the cathedral. Midday at the Museum of Krajina offers a long dry break. The ride to Bukovo Monastery requires care on wet roads. Reward yourself in the afternoon with a wine tasting in a cellar while the weather rages outside."
+          },
+          "stops": [
+            {
+              "name": "Hajduk Veljko Monument",
+              "tip_5lang": {
+                "de": "Vorsicht beim Auf- und Absteigen auf nassem Untergrund.",
+                "hu": "Vigyázzon a fel- és leszállásnál a vizes talajon.",
+                "ro": "Atenție la urcare și coborâre pe suprafața udă.",
+                "en": "Be careful when mounting and dismounting on wet ground."
+              }
+            },
+            {
+              "name": "Cathedral of the Holy Trinity",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter dem Vordach eines nahen Gebäudes ab.",
+                "hu": "Parkolja le a bringát egy közeli épület eresze alá.",
+                "ro": "Parcați bicicleta sub streașina unei clădiri din apropiere.",
+                "en": "Park your bike under the eaves of a nearby building."
+              }
+            },
+            {
+              "name": "Museum of Krajina",
+              "tip_5lang": {
+                "de": "Guter Ort, um die Regenkleidung kurz auszuschütteln.",
+                "hu": "Jó hely az esőruházat rövid lerázására és szárítására.",
+                "ro": "Loc bun pentru a scutura puțin pelerina de ploaie.",
+                "en": "Good place to briefly shake off your rain gear."
+              }
+            },
+            {
+              "name": "Mokranjac House",
+              "tip_5lang": {
+                "de": "Die kurzen Wege in der Stadt minimieren die Zeit im Regen.",
+                "hu": "A rövid városi távok minimalizálják az esőben töltött időt.",
+                "ro": "Distanțele scurte din oraș minimizează timpul petrecut în ploaie.",
+                "en": "Short distances in town minimize your time in the rain."
+              }
+            },
+            {
+              "name": "Bukovo Monastery",
+              "tip_5lang": {
+                "de": "Nutzen Sie Schutzbleche, der Weg zum Kloster kann spritzig sein.",
+                "hu": "Használjon sárvédőt, a kolostorhoz vezető út felverődhet.",
+                "ro": "Folosiți aripi la bicicletă, drumul spre mănăstire poate fi murdar.",
+                "en": "Use fenders; the road to the monastery can be splashy."
+              }
+            },
+            {
+              "name": "Late Lunch & Wine Tasting",
+              "tip_5lang": {
+                "de": "Die Weinkeller sind der trockenste und gemütlichste Ort der Region.",
+                "hu": "A borospincék a régió legszárazabb és leghangulatosabb helyei.",
+                "ro": "Cramele sunt cele mai uscate și primitoare locuri din regiune.",
+                "en": "The wine cellars are the driest and coziest places in the region."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie abrupte Bremsmanöver auf nassem Asphalt.",
+              "Vollflächige Regenbekleidung ist für die Fahrt nach Bukovo ratsam.",
+              "Nutzen Sie die Innenstadtstopps als Trockenphasen.",
+              "Achten Sie auf Pfützen, die Schlaglöcher verbergen könnten."
+            ],
+            "hu": [
+              "Kerülje a hirtelen fékezést a vizes aszfalton.",
+              "A Bukovóba tartó úthoz javasolt a teljes esőruházat.",
+              "Használja ki a belvárosi megállókat a száradásra.",
+              "Figyeljen a pocsolyákra, amelyek kátyúkat rejthetnek."
+            ],
+            "ro": [
+              "Evitați frânările bruște pe asfaltul ud.",
+              "Se recomandă costum complet de ploaie pentru drumul spre Bukovo.",
+              "Folosiți opririle din centrul orașului pentru a vă usca.",
+              "Atenție la bălțile care pot ascunde gropi în asfalt."
+            ],
+            "en": [
+              "Avoid sudden braking on wet asphalt.",
+              "Full rain gear is advised for the ride out to Bukovo.",
+              "Use the indoor stops in the city center to dry off.",
+              "Watch out for puddles that might hide potholes."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Radtag in Negotin beginnt frisch am zentralen Platz. Die Kathedrale bietet eine spirituelle Aufwärmpause am Vormittag. Mittags erkunden Sie die Museen zu Fuß, während die Räder sicher parken. Die Radtour zum Bukovo-Kloster führt durch die klare Winterluft und bietet tolle Ausblicke. Den Tag beenden Sie bei einer herzhaften Weinprobe, die Sie von innen heraus wärmt.",
+            "hu": "Friss, téli biciklis nap indul a főtéren. A székesegyház spirituális és fizikai felmelegedést kínál délelőtt. Délben hagyja a bringát a parkolóban, és járja be a múzeumokat. A Bukovo-kolostorhoz vezető tekerés a tiszta téli levegőben igazi felfrissülés. A napot egy kiadós borkóstolóval zárja, amely belülről melegíti át.",
+            "ro": "O zi răcoroasă cu bicicleta în Negotin începe în piața centrală. Catedrala oferă un popas spiritual și cald dimineața. La prânz, vizitați muzeele în timp ce bicicletele sunt parcate în siguranță. Drumul spre Mănăstirea Bukovo prin aerul curat de iarnă oferă priveliști superbe. Încheiați ziua cu o degustare de vinuri care vă va încălzi.",
+            "en": "A crisp winter cycling day starts fresh at the central square. The cathedral offers a spiritual and warm break in the morning. At midday, explore the museums on foot while the bikes are safely parked. The ride to Bukovo Monastery through the clear winter air offers great views. End the day with a hearty wine tasting that warms you from the inside."
+          },
+          "stops": [
+            {
+              "name": "Hajduk Veljko Monument",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Reifendruck; kalte Luft lässt ihn sinken.",
+                "hu": "Ellenőrizze a keréknyomást; a hideg levegőben csökkenhet.",
+                "ro": "Verificați presiunea în pneuri; aerul rece o poate scădea.",
+                "en": "Check tire pressure; cold air can cause it to drop."
+              }
+            },
+            {
+              "name": "Cathedral of the Holy Trinity",
+              "tip_5lang": {
+                "de": "Lassen Sie das Rad nicht zu lange im Frost stehen.",
+                "hu": "Ne hagyja kint a bringát túl sokáig a fagyban.",
+                "ro": "Nu lăsați bicicleta prea mult timp afară în ger.",
+                "en": "Don't leave your bike out in the frost for too long."
+              }
+            },
+            {
+              "name": "Museum of Krajina",
+              "tip_5lang": {
+                "de": "Wärmen Sie Ihre Hände auf, bevor Sie weiterfahren.",
+                "hu": "Melegítse fel a kezeit, mielőtt továbbtekerne.",
+                "ro": "Încălziți-vă mâinile bine înainte de a pleca mai departe.",
+                "en": "Warm up your hands thoroughly before riding again."
+              }
+            },
+            {
+              "name": "Mokranjac House",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp, um die steifen Glieder zu lockern.",
+                "hu": "Rövid megálló az elgémberedett tagok átmozgatására.",
+                "ro": "O oprire scurtă pentru a vă dezmorți membrele înghețate.",
+                "en": "A short stop to loosen up stiff limbs."
+              }
+            },
+            {
+              "name": "Bukovo Monastery",
+              "tip_5lang": {
+                "de": "Die Auffahrt hält Sie warm; oben angekommen, Jacke schließen.",
+                "hu": "A felfelé menet felmelegíti, de a tetőn gombolja be a kabátot.",
+                "ro": "Urcarea vă va încălzi; odată ajunși sus, închideți jacheta.",
+                "en": "The climb will keep you warm; zip up your jacket at the top."
+              }
+            },
+            {
+              "name": "Late Lunch & Wine Tasting",
+              "tip_5lang": {
+                "de": "Fragen Sie nach lokalem 'Kuhano Vino' (Glühwein).",
+                "hu": "Kérdezzen rá a helyi forralt borra (Kuhano Vino).",
+                "ro": "Întrebați de vinul fiert local (Kuhano Vino).",
+                "en": "Ask for the local 'Kuhano Vino' (mulled wine)."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Handschuhe für die Abfahrten.",
+              "Achten Sie auf Schattenstellen, dort kann es glatt sein.",
+              "Trinken Sie auch bei Kälte genug Wasser.",
+              "Planen Sie die Rückkehr vor Einbruch der Dunkelheit (ca. 16:30)."
+            ],
+            "hu": [
+              "Viseljen szélálló kesztyűt a lejtőkhöz.",
+              "Figyeljen az árnyékos szakaszokra, ott jegesedés lehet.",
+              "Igyon elég vizet a hideg ellenére is.",
+              "Tervezze a visszaérkezést sötétedés előtt (kb. 16:30)."
+            ],
+            "ro": [
+              "Purtați mănuși rezistente la vânt pentru coborâri.",
+              "Atenție la zonele cu umbră, unde poate fi polei.",
+              "Beți suficientă apă chiar dacă este frig afară.",
+              "Planificați întoarcerea înainte de lăsarea întunericului (cca. 16:30)."
+            ],
+            "en": [
+              "Wear windproof gloves for the descents.",
+              "Watch out for shaded areas where ice might linger.",
+              "Stay hydrated even though it's cold outside.",
+              "Plan to be back before dark, around 4:30 PM."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1038,6 +1402,206 @@
           "Wear good footwear for the hike to the Vratna Gates.",
           "The driver should be cautious with wine tasting."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein verregneter Tag in Negotin wird im Auto zum entspannten Erlebnis. Nach dem Stadtzentrum fahren Sie zu den berühmten Rajačke Pimnice, die im Nebel mystisch wirken. Mittags genießen Sie Wein und lokale Kost in den steinernen Kellern, wo Sie sicher vor dem Regen sind. Der Nachmittag führt zu den Vratna-Toren, deren Anblick auch bei Wolken imposant bleibt, bevor das Kloster Stille bietet.",
+            "hu": "Az esős Negotin az autó kényelméből is élvezhető. A városközpont után irány a misztikus ködbe burkolózó Rajačke Pimnice. Délben a kőpincék védelmében kóstolhat bort és helyi ételeket. Délután a Vratna-kapuk monumentális látványa várja, ami felhős időben is lenyűgöző, majd a kolostor békéje zárja a napot.",
+            "ro": "O zi ploioasă în Negotin devine o experiență relaxantă cu mașina. După centru, vizitați Rajačke Pimnice, care par mistice în ceață. La prânz, savurați vin și mâncare locală în cramele de piatră, la adăpost de ploaie. După-amiaza vă duce la Porțile Vratnei, spectaculoase chiar și sub nori, urmată de liniștea mănăstirii.",
+            "en": "A rainy day in Negotin is best enjoyed by car. After the center, drive to the famous Rajačke Pimnice, which look mystical in the mist. At midday, enjoy wine and local food inside the stone cellars, safe from the rain. The afternoon leads to the Vratna Gates, imposing even under clouds, followed by the peace of the monastery."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Negotin City Center",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Platz, um Laufwege im Regen zu kürzen.",
+                "hu": "Parkoljon közel a térhez, hogy lerövidítse az esőben gyaloglást.",
+                "ro": "Parcați aproape de piață pentru a scurta mersul prin ploaie.",
+                "en": "Park close to the square to minimize walking in the rain."
+              }
+            },
+            {
+              "name": "Hajduk Veljko Monument & Cathedral",
+              "tip_5lang": {
+                "de": "Kurzer Sprint zur Kathedrale, drinnen ist es trocken.",
+                "hu": "Gyors sprint a székesegyházig, bent száraz idő várja.",
+                "ro": "Un sprint scurt până la catedrală, interiorul este uscat.",
+                "en": "A short sprint to the cathedral; it's perfectly dry inside."
+              }
+            },
+            {
+              "name": "Museum of Krajina",
+              "tip_5lang": {
+                "de": "Direkt vor dem Eingang gibt es oft Parkmöglichkeiten.",
+                "hu": "Közvetlenül a bejáratnál gyakran van parkolóhely.",
+                "ro": "Există adesea locuri de parcare chiar în fața intrării.",
+                "en": "Parking is often available right in front of the entrance."
+              }
+            },
+            {
+              "name": "Cluster 2: Rajačke Pimnice",
+              "tip_5lang": {
+                "de": "Vorsicht auf den schlammigen Wegen zwischen den Weinhäusern.",
+                "hu": "Vigyázzon a sáros utakra a borházak között.",
+                "ro": "Atenție la drumurile noroioase dintre casele de vinuri.",
+                "en": "Be careful on the muddy paths between the wine houses."
+              }
+            },
+            {
+              "name": "Lunch and Wine Tasting at Pimnice",
+              "tip_5lang": {
+                "de": "In den Kellern merkt man vom Wetter draußen gar nichts.",
+                "hu": "A pincék mélyén semmit nem érezni a kinti ítéletidőből.",
+                "ro": "În crame nu veți simți deloc vremea rea de afară.",
+                "en": "Inside the cellars, you won't notice the bad weather at all."
+              }
+            },
+            {
+              "name": "Cluster 3: Vratna Gates",
+              "tip_5lang": {
+                "de": "Der Wanderweg kann bei Regen rutschig und schlammig sein.",
+                "hu": "A túraösvény esőben csúszós és sáros lehet.",
+                "ro": "Traseul de drumeție poate fi alunecos și noroios pe ploaie.",
+                "en": "The hiking trail can be slippery and muddy in the rain."
+              }
+            },
+            {
+              "name": "Vratna Monastery",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um den Regen gegen die Fenster trommeln zu hören.",
+                "hu": "Békés hely, ahol hallgathatja az ablakon kopogó esőt.",
+                "ro": "Un loc liniștit unde puteți auzi ploaia bătând în geam.",
+                "en": "A peaceful place to listen to the rain drumming on the windows."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Zustand der Landstraßen bei starkem Regen.",
+              "Die Pimnice bieten exzellenten Schutz für längere Pausen.",
+              "Vermeiden Sie unbefestigte Wege nahe der Vratna-Tore.",
+              "Halten Sie Decken im Auto bereit, falls die Kleidung nass wird."
+            ],
+            "hu": [
+              "Ellenőrizze az országutak állapotát heves esőzéskor.",
+              "A Pimnice kiváló menedéket nyújt a hosszabb pihenőkhöz.",
+              "Kerülje a kiépítetlen utakat a Vratna-kapuk közelében.",
+              "Tartson takarót az autóban, ha átázna a ruházata."
+            ],
+            "ro": [
+              "Verificați starea drumurilor județene în caz de ploaie torențială.",
+              "Pimnice oferă un adăpost excelent pentru pauze lungi.",
+              "Evitați drumurile neasfaltate lângă Porțile Vratnei.",
+              "Țineți pături în mașină în cazul în care vă udați hainele."
+            ],
+            "en": [
+              "Check the condition of rural roads during heavy rain.",
+              "The Pimnice offer excellent shelter for longer breaks.",
+              "Avoid unpaved paths near the Vratna Gates.",
+              "Keep blankets in the car in case your clothes get wet."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterzauber in Ostserbien: Starten Sie im verschneiten Negotin, bevor Sie zu den historischen Rajačke Pimnice aufbrechen. Die Steinarchitektur wirkt im Frost besonders beeindruckend. Mittags wärmen Sie sich am Kamin in einem der Weinkeller bei deftigem Essen auf. Der Nachmittag bei den Vratna-Toren zeigt die Natur in ihrer kahlen, monumentalen Pracht. Den Tag schließen Sie friedlich im Kloster ab.",
+            "hu": "Téli varázslat Kelet-Szerbiában: indulás a havas Negotinból a történelmi Rajačke Pimnice felé. A kőépítészet a zúzmarás fagyban különösen látványos. Délben melegedjen fel a kandalló mellett egy borpincében, egy tál gőzölgő étel társaságában. A délutáni Vratna-kapuk a természet kopár, monumentális erejét mutatják. A napot a kolostor csendjében zárhatja.",
+            "ro": "Magia iernii în Serbia de Est: porniți din Negotinul înzăpezit spre istoricele Rajačke Pimnice. Arhitectura de piatră este impresionantă în ger. La prânz, încălziți-vă lângă șemineu într-o cramă cu mâncare tradițională. După-amiaza la Porțile Vratnei dezvăluie natura în splendoarea ei monumentală. Încheiați ziua în liniștea mănăstirii.",
+            "en": "Winter magic in Eastern Serbia: start in snowy Negotin before heading to the historic Rajačke Pimnice. The stone architecture is especially impressive in the frost. At midday, warm up by the fireplace in a wine cellar with hearty food. The afternoon at the Vratna Gates shows nature in its bare, monumental glory. End the day peacefully at the monastery."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Negotin City Center",
+              "tip_5lang": {
+                "de": "Achten Sie auf Schneeräumfahrzeuge in den engen Gassen.",
+                "hu": "Figyeljen a hókotrókra a szűk utcákban.",
+                "ro": "Atenție la utilajele de deszăpezire pe străzile înguste.",
+                "en": "Watch out for snow removal vehicles in the narrow streets."
+              }
+            },
+            {
+              "name": "Hajduk Veljko Monument & Cathedral",
+              "tip_5lang": {
+                "de": "Die Kathedrale ist im Winter oft wunderschön beleuchtet.",
+                "hu": "A székesegyház télen gyakran csodálatos kivilágítást kap.",
+                "ro": "Catedrala este adesea iluminată superb pe timp de iarnă.",
+                "en": "The cathedral is often beautifully lit up during winter."
+              }
+            },
+            {
+              "name": "Museum of Krajina",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp, um die Autobehizung kurz zu schonen.",
+                "hu": "Használja ki a megállót, hogy pihentesse az autó fűtését.",
+                "ro": "Folosiți oprirea pentru a lăsa încălzirea mașinii să se odihnească.",
+                "en": "Use this stop to take a break from the dry car heater air."
+              }
+            },
+            {
+              "name": "Cluster 2: Rajačke Pimnice",
+              "tip_5lang": {
+                "de": "Die Anfahrt kann bei Schnee steil und glatt sein; Winterreifen nötig.",
+                "hu": "A felvezető út havasan meredek és csúszós; téli gumi kötelező.",
+                "ro": "Urcarea poate fi abruptă și alunecoasă pe zăpadă; anvelope de iarnă necesare.",
+                "en": "The drive up can be steep and slick in snow; winter tires are a must."
+              }
+            },
+            {
+              "name": "Lunch and Wine Tasting at Pimnice",
+              "tip_5lang": {
+                "de": "Genießen Sie die Wärme der dicken Steinmauern.",
+                "hu": "Élvezze a vastag kőfalak természetes melegét.",
+                "ro": "Bucurați-vă de căldura oferită de zidurile groase de piatră.",
+                "en": "Enjoy the warmth provided by the thick stone walls."
+              }
+            },
+            {
+              "name": "Cluster 3: Vratna Gates",
+              "tip_5lang": {
+                "de": "Prüfen Sie, ob der Pfad begehbar ist (Eisgefahr an den Felsen).",
+                "hu": "Ellenőrizze, hogy járható-e az ösvény (jégveszély a szikláknál).",
+                "ro": "Verificați dacă poteca este accesibilă (pericol de gheață la stânci).",
+                "en": "Check if the path is accessible (ice hazard near the rocks)."
+              }
+            },
+            {
+              "name": "Vratna Monastery",
+              "tip_5lang": {
+                "de": "Ein magischer Anblick, wenn das Kloster unter Schnee liegt.",
+                "hu": "Varázslatos látvány, amikor a kolostort hó fedi.",
+                "ro": "O priveliște magică atunci când mănăstirea este acoperită de zăpadă.",
+                "en": "A magical sight when the monastery is blanketed in snow."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterausrüstung und Schneeketten sind in dieser Region ratsam.",
+              "Die Straßen nach Rajac werden nicht immer sofort geräumt.",
+              "Füllen Sie Frostschutzmittel in die Scheibenwaschanlage.",
+              "Starten Sie früh, um das Tageslicht optimal zu nutzen."
+            ],
+            "hu": [
+              "Téli felszerelés és hólánc javasolt ebben a régióban.",
+              "A Rajac felé vezető utakat nem mindig takarítják azonnal.",
+              "Töltsön fagyállót a szélvédőmosóba.",
+              "Induljon korán, hogy kihasználja a kevés nappali fényt."
+            ],
+            "ro": [
+              "Echipamentul de iarnă și lanțurile sunt recomandate în această regiune.",
+              "Drumurile spre Rajac nu sunt întotdeauna curățate imediat.",
+              "Puneți lichid de parbriz rezistent la îngheț.",
+              "Porniți devreme pentru a profita la maximum de lumina zilei."
+            ],
+            "en": [
+              "Winter gear and snow chains are advised in this region.",
+              "Roads to Rajac may not be cleared immediately after snowfall.",
+              "Fill your windshield washer with anti-freeze fluid.",
+              "Start early to make the most of the limited daylight."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1374,6 +1938,188 @@
           "Plan buffer time for any potential bus delays.",
           "Ask locals or the bus driver for the correct stop for the monastery."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie Busse und Taxis, um Negotin im Regen zu erleben. Beginnen Sie im Zentrum und besuchen Sie die Kathedrale. Das Krajina-Museum bietet mittags eine trockene Kulturpause. Mit dem Bus geht es zum Bukovo-Kloster, wo Sie die Stille im Regen genießen können. Zurück in der Stadt erwartet Sie ein warmes Abendessen, während Sie auf die nächste Verbindung warten.",
+            "hu": "Használja a buszokat és taxikat Negotin felfedezéséhez esőben. Kezdjen a központban a székesegyháznál, majd délben vonuljon a Krajina Múzeum száraz termeibe. Busszal látogasson el a Bukovo-kolostorhoz, ahol az esőben is különleges a hangulat. Visszatérve a városba, egy meleg vacsora mellett várhatja a következő csatlakozást.",
+            "ro": "Folosiți autobuzele și taxiurile pentru a explora Negotin pe ploaie. Începeți în centru cu catedrala, iar la prânz retrageți-vă în sălile uscate ale Muzeului Krajinei. Mergeți cu autobuzul la Mănăstirea Bukovo pentru o experiență specială. La întoarcerea în oraș, vă așteaptă o cină caldă în timp ce așteptați legătura.",
+            "en": "Use buses and taxis to experience Negotin in the rain. Start in the center with the cathedral, then head to the Museum of Krajina for a dry cultural break at midday. Take a bus to Bukovo Monastery, where the rainy atmosphere is unique. Back in town, enjoy a warm dinner while waiting for your next transit connection."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Negotin Center (on foot)",
+              "tip_5lang": {
+                "de": "Warten Sie an überdachten Bushaltestellen auf Taxis.",
+                "hu": "Várjon a fedett buszmegállókban a taxikra.",
+                "ro": "Așteptați taxiurile în stațiile de autobuz acoperite.",
+                "en": "Wait for taxis at covered bus stops to stay dry."
+              }
+            },
+            {
+              "name": "Cathedral of the Holy Trinity",
+              "tip_5lang": {
+                "de": "Nur ein kurzer Fußweg von der zentralen Haltestelle.",
+                "hu": "Csak egy rövid séta a központi buszmegállótól.",
+                "ro": "Doar o scurtă plimbare de la stația centrală de autobuz.",
+                "en": "Just a short walk from the central bus stop."
+              }
+            },
+            {
+              "name": "Museum of Krajina",
+              "tip_5lang": {
+                "de": "Informieren Sie sich drinnen über die Abfahrtszeiten.",
+                "hu": "Tájékozódjon bent a buszok indulási idejéről.",
+                "ro": "Informați-vă în interior despre orele de plecare ale autobuzelor.",
+                "en": "Check bus departure times while staying inside the museum."
+              }
+            },
+            {
+              "name": "Lunch in the city center",
+              "tip_5lang": {
+                "de": "Viele Restaurants liegen nah an den Transitknotenpunkten.",
+                "hu": "Sok étterem közel fekszik a közlekedési csomópontokhoz.",
+                "ro": "Multe restaurante sunt situate aproape de nodurile de tranzit.",
+                "en": "Many restaurants are located close to transit hubs."
+              }
+            },
+            {
+              "name": "Cluster 2: Bukovo Monastery",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Busfahrplan, da Fahrten bei Regen seltener sein können.",
+                "hu": "Ellenőrizze a menetrendet, esőben ritkábbak lehetnek a járatok.",
+                "ro": "Verificați orarul, cursele pot fi mai rare pe timp de ploaie.",
+                "en": "Check the schedule; bus services might be less frequent in heavy rain."
+              }
+            },
+            {
+              "name": "Return to Negotin",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Wartezeit für einen heißen Kaffee am Busbahnhof.",
+                "hu": "Használja ki a várakozást egy forró kávéra a buszállomáson.",
+                "ro": "Folosiți timpul de așteptare pentru o cafea caldă la autogară.",
+                "en": "Use the waiting time for a hot coffee at the bus station."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Laden Sie eine lokale Taxi-App oder speichern Sie Nummern.",
+              "Haltestellen bieten oft nur wenig Schutz vor Schlagregen.",
+              "Planen Sie Pufferzeiten für wetterbedingte Verspätungen ein.",
+              "Tragen Sie Kleidung, die auch im feuchten Bus schnell trocknet."
+            ],
+            "hu": [
+              "Töltse le a helyi taxi alkalmazást vagy mentse el a számokat.",
+              "A megállók gyakran kevés védelmet nyújtanak a szakadó eső ellen.",
+              "Számoljon extra idővel az időjárás miatti késésekre.",
+              "Viseljen olyan ruhát, ami a párás buszon is gyorsan szárad."
+            ],
+            "ro": [
+              "Descărcați o aplicație locală de taxi sau salvați numerele.",
+              "Stațiile oferă adesea puțină protecție împotriva ploii torențiale.",
+              "Planificați timp suplimentar pentru întârzierile cauzate de vreme.",
+              "Purtați haine care se usucă repede chiar și în autobuzul umed."
+            ],
+            "en": [
+              "Download a local taxi app or save dispatch numbers.",
+              "Bus stops often provide limited protection from driving rain.",
+              "Allow extra time for weather-related transit delays.",
+              "Wear clothing that dries quickly even in a humid bus environment."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterlicher Transit in Negotin: Starten Sie im Zentrum und nutzen Sie die Wärme der öffentlichen Räume. Die Kathedrale und Museen sind ideale Aufwärmstopps am Vormittag. Mittags stärken Sie sich im Zentrum, bevor Sie den Bus zum Bukovo-Kloster nehmen. Die verschneite Landschaft zieht am Fenster vorbei. Beenden Sie den Tag rechtzeitig im warmen Busbahnhof, bevor die Temperaturen sinken.",
+            "hu": "Téli közlekedés Negotinban: indulás a központból, kihasználva a közösségi terek melegét. A székesegyház és a múzeumok ideális melegedőhelyek délelőtt. Ebédeljen a belvárosban, majd szálljon buszra Bukovo felé. A havas táj látványa az ablakból is gyönyörű. Zárja a napot időben a fűtött buszállomáson, mielőtt túl hideg lenne.",
+            "ro": "Tranzit de iarnă în Negotin: porniți din centru și profitați de căldura spațiilor publice. Catedrala și muzeele sunt locuri ideale de încălzire. Luați prânzul în centru, apoi urcați în autobuzul spre Bukovo. Peisajul înzăpezit este superb de la fereastră. Încheiați ziua devreme în autogara încălzită, înainte de lăsarea gerului.",
+            "en": "Winter transit in Negotin: start in the center and make use of warm public spaces. The cathedral and museums are ideal warming stops in the morning. Have lunch in the center before taking the bus to Bukovo. The snowy landscape is beautiful from the window. Finish your day early at the heated bus station before the temperatures drop."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Negotin Center (on foot)",
+              "tip_5lang": {
+                "de": "Bewegen Sie sich viel beim Warten, um warm zu bleiben.",
+                "hu": "Mozogjon várakozás közben, hogy ne fázzon meg.",
+                "ro": "Muntați-vă în timp ce așteptați pentru a vă menține căldura.",
+                "en": "Keep moving while waiting at the stop to stay warm."
+              }
+            },
+            {
+              "name": "Cathedral of the Holy Trinity",
+              "tip_5lang": {
+                "de": "Ein schöner Ort, um die Kälte draußen kurz zu vergessen.",
+                "hu": "Szép hely, ahol rövid időre elfelejtheti a kinti hideget.",
+                "ro": "Un loc frumos unde puteți uita pentru scurt timp de frigul de afară.",
+                "en": "A beautiful place to briefly forget the cold outside."
+              }
+            },
+            {
+              "name": "Museum of Krajina",
+              "tip_5lang": {
+                "de": "Die Garderobe ist ideal, um schwere Wintermäntel abzugeben.",
+                "hu": "A ruhatár ideális a nehéz télikabátok leadására.",
+                "ro": "Garderoba este ideală pentru a lăsa paltoanele grele de iarnă.",
+                "en": "The cloakroom is ideal for dropping off heavy winter coats."
+              }
+            },
+            {
+              "name": "Lunch in the city center",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich gut auf, bevor Sie zur Bushaltestelle gehen.",
+                "hu": "Melegedjen fel alaposan, mielőtt kimenne a buszmegállóba.",
+                "ro": "Încălziți-vă bine înainte de a merge în stația de autobuz.",
+                "en": "Warm up thoroughly before heading back to the bus stop."
+              }
+            },
+            {
+              "name": "Cluster 2: Bukovo Monastery",
+              "tip_5lang": {
+                "de": "Prüfen Sie, ob die Busse bei starkem Schneefall fahren.",
+                "hu": "Ellenőrizze, hogy járnak-e a buszok erős havazásban.",
+                "ro": "Verificați dacă autobuzele circulă în caz de ninsoare abundentă.",
+                "en": "Check if buses are running during heavy snowfall."
+              }
+            },
+            {
+              "name": "Return to Negotin",
+              "tip_5lang": {
+                "de": "Beachten Sie die eingeschränkten Fahrpläne an Feiertagen.",
+                "hu": "Ügyeljen az ünnepnapi korlátozott menetrendekre.",
+                "ro": "Atenție la orarul redus în timpul sărbătorilor.",
+                "en": "Be aware of limited holiday transit schedules in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrzeuge können bei Schnee Verspätung haben; App nutzen.",
+              "Tragen Sie warme Schuhe, da die Busböden oft kalt sind.",
+              "Die Heizung in älteren Bussen ist nicht immer zuverlässig.",
+              "Nutzen Sie die Bahnhofswartesäle als Kälteschutz."
+            ],
+            "hu": [
+              "A járatok késhetnek a hóban; használja a menetrendi appot.",
+              "Viseljen meleg cipőt, a buszok padlója gyakran hideg.",
+              "A fűtés a régebbi buszokon nem mindig megbízható.",
+              "Használja az állomások várótermeit a hideg ellen."
+            ],
+            "ro": [
+              "Vehiculele pot întârzia din cauza zăpezii; folosiți aplicația.",
+              "Purtați încălțăminte groasă, podeaua autobuzelor este rece.",
+              "Încălzirea în autobuzele mai vechi nu este mereu fiabilă.",
+              "Folosiți sălile de așteptare din gări pentru protecție."
+            ],
+            "en": [
+              "Transit may be delayed in snow; check for real-time updates.",
+              "Wear warm boots as bus floors can be quite cold.",
+              "Heating in older buses might not always be reliable.",
+              "Use station waiting rooms to escape the freezing wind."
+            ]
+          }
+        }
       }
     }
   }

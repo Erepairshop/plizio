@@ -362,6 +362,188 @@
           "Check the museum's opening hours in advance.",
           "A light raincoat is always a good idea in Latvia, even in summer."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie am Saieta-Platz, wo die Pfützen das Rathaus widerspiegeln. Der Vormittag gehört dem Museum für Heimatkunde, einem idealen Rückzugsort vor dem Regen. Mittags bietet das Stadtzentrum Gastronomie zum Aufwärmen. Der Nachmittag im Liebesgraben (Mīlestības grava) erfordert festes Schuhwerk, da die Wege rutschig sind. Den Abend lassen Sie gemütlich in der Nähe des Zentrums ausklingen.",
+            "hu": "A Saieta téren kezdünk, az esőben megcsillanó városháza mellett. A délelőtt nagy részét a helytörténeti múzeumban töltjük, amely kiváló menedék a csapadék elől. Ebéd után a Szerelem-szakadék következik; a fák némi védelmet nyújtanak, de a terep sárga lehet. A napot a Smeceres sils park fenyvesei között zárjuk, ahol az eső illata különösen intenzív. Estére keressen egy közeli kávézót.",
+            "ro": "Începeți în Piața Saieta, admirând primăria sub cerul gri. Dimineața este dedicată Muzeului de Istorie Locală, oferind un adăpost perfect împotriva ploii. După prânz, explorați Râpa Iubirii; potecile pot fi noroioase, deci purtați încălțăminte adecvată. După-amiaza continuă spre parcul Smeceres sils, unde pinii oferă o protecție naturală parțială. Încheiați ziua cu o băutură caldă în centru.",
+            "en": "Start at Saieta Square with the Town Hall reflecting in the rain. Spend the morning at the Museum of Local History, an ideal shelter from the elements. After lunch, the Love Ravine awaits; paths can be slippery, so waterproof boots are essential. The afternoon concludes at Smeceres sils Park, where the forest scent is enhanced by the damp air. End your walk with a cozy evening in the town center."
+          },
+          "stops": [
+            {
+              "name": "Saieta Square",
+              "tip_5lang": {
+                "de": "Kurzer Aufenthalt, das Rathaus bietet Vordächer zum Unterstellen.",
+                "hu": "Gyors fotó a városházáról, használja az épület ereszeit menedékként.",
+                "ro": "Oprire scurtă; primăria oferă streșini pentru a vă feri de ploaie.",
+                "en": "Brief stop; use the Town Hall eaves for cover while taking photos."
+              }
+            },
+            {
+              "name": "Madona Town Hall",
+              "tip_5lang": {
+                "de": "Innenräume besichtigen oder die Architektur unter dem Schirm bewundern.",
+                "hu": "Nézze meg az épületet kívülről, vagy húzódjon be a bejárat alá.",
+                "ro": "Admirați arhitectura sub umbrelă sau verificați interiorul dacă e deschis.",
+                "en": "Admire the facade under your umbrella or check for indoor exhibits."
+              }
+            },
+            {
+              "name": "Lūsis Fountain",
+              "tip_5lang": {
+                "de": "Der Luchs wirkt im Regen besonders atmosphärisch. Kameraschutz nutzen.",
+                "hu": "A hiúz szobra esőben is impozáns. Vigyázzon a technikai eszközökre.",
+                "ro": "Statuia râsului este sugestivă pe ploaie. Protejați camera foto.",
+                "en": "The lynx fountain looks atmospheric in the rain. Protect your camera."
+              }
+            },
+            {
+              "name": "Madona Museum of Local History",
+              "tip_5lang": {
+                "de": "Perfekter Ort für regnerische Stunden. Garderobe für nasse Mäntel nutzen.",
+                "hu": "Ideális esős időben. Van ruhatár a vizes kabátoknak és ernyőknek.",
+                "ro": "Loc perfect pentru orele ploioase. Folosiți garderoba pentru haine ude.",
+                "en": "Perfect refuge for rainy hours. Use the cloakroom for wet coats."
+              }
+            },
+            {
+              "name": "Love Ravine",
+              "tip_5lang": {
+                "de": "Vorsicht auf den Holztreppen, diese können bei Nässe sehr glatt sein.",
+                "hu": "Vigyázat a falépcsőkön, nedvesen rendkívül csúszósak lehetnek.",
+                "ro": "Atenție pe scările de lemn; pot fi foarte alunecoase când sunt ude.",
+                "en": "Careful on the wooden stairs; they become very slippery when wet."
+              }
+            },
+            {
+              "name": "Smeceres sils Park",
+              "tip_5lang": {
+                "de": "Feste Sohlen nötig. Die bewaldeten Wege bieten etwas Schutz vor Wind.",
+                "hu": "Sárálló cipő kell. Az erdős részek védenek a széltől és a szemerkéléstől.",
+                "ro": "Pantofi rezistenți la noroi. Pădurea oferă adăpost contra vântului.",
+                "en": "Mud-resistant shoes needed. Forested paths provide some wind cover."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Madona ist hügelig; Regenwasser fließt schnell ab, kann aber Wege ausspülen.",
+              "Das Einkaufszentrum im Zentrum ist ein guter Ort für eine trockene Pause.",
+              "Die Steinpflaster am Saieta-Platz sind bei Nässe rutschig.",
+              "Wasserfeste Kleidung ist in den lettischen Hochebenen ein Muss."
+            ],
+            "hu": [
+              "Madona dombos vidék, az esővíz gyorsan lefolyik, de sár maradhat utána.",
+              "A belvárosi üzletház jó megállóhely, ha elállna az eső elől.",
+              "A Saieta tér kövezete vizesen csúszik, figyeljen a lépteire.",
+              "A lett felföldön az eső mellé gyakran erős szél is társul."
+            ],
+            "ro": [
+              "Madona este deluroasă; apa se scurge rapid, dar poate lăsa noroi.",
+              "Centrul comercial local este o opțiune bună pentru o pauză uscată.",
+              "Pavajul din Piața Saieta devine alunecos când este ud.",
+              "Hainele impermeabile sunt esențiale în zonele înalte ale Letoniei."
+            ],
+            "en": [
+              "Madona is hilly; rainwater drains fast but can leave muddy patches.",
+              "The local shopping center is a good spot for a dry break during heavy rain.",
+              "Stone pavements at Saieta Square are slippery when wet; watch your step.",
+              "Waterproof gear is a must-have in the Latvian highlands."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Madona ist die Winterhauptstadt Lettlands. Der Saieta-Platz glänzt unter Schnee, oft mit festlicher Beleuchtung. Vormittags wärmen Sie sich im Museum auf, während draußen der Frost klirrt. Mittags ist eine heiße Suppe im Zentrum Pflicht. Der Nachmittag im Smeceres sils bietet Wintersportmöglichkeiten oder verschneite Waldspaziergänge. Da es bereits gegen 16:00 Uhr dunkel wird, genießen Sie die beleuchtete Stadt am frühen Abend.",
+            "hu": "Madona Lettország téli fővárosa. A Saieta tér hó alatt ragyog, ünnepi fényekkel. Délelőtt a helytörténeti múzeumban ismerkedhet a helyi kultúrával, védve a metsző hidegtől. Ebédre keressen egy meleg levest kínáló helyet. Délután a Smeceres sils parkban síelőkkel találkozhat, vagy sétálhat a mély hóban. A nap korán, 16 óra körül nyugszik, így az este hamar elkezdődik a kivilágított főutcán.",
+            "ro": "Madona este capitala iernii în Letonia. Piața Saieta strălucește sub zăpadă, adesea cu lumini festive. Dimineața, Muzeul de Istorie oferă căldură și cultură. După prânz, parcul Smeceres sils devine un regat al zăpezii, ideal pentru plimbări sau schi fond. Soarele apune devreme, în jur de ora 16:00, transformând orașul într-un loc pitoresc iluminat pentru restul serii.",
+            "en": "Madona is Latvia's winter capital. Saieta Square shines under a blanket of snow, often with festive lights. Warm up in the Museum of Local History during the frosty morning. Enjoy a hot Latvian soup for lunch in the center. Spend the afternoon at Smeceres sils, a hub for winter sports and snowy forest trails. As sunset occurs around 16:00, the early evening is best spent enjoying the illuminated town streets."
+          },
+          "stops": [
+            {
+              "name": "Saieta Square",
+              "tip_5lang": {
+                "de": "Oft steht hier der große Weihnachtsbaum. Vorsicht vor Glatteis.",
+                "hu": "Itt áll a város karácsonyfája. Vigyázzon a jégpáncélra az utakon.",
+                "ro": "Aici se află bradul de Crăciun. Atenție la gheața de pe pavaj.",
+                "en": "Home to the town's Christmas tree. Watch out for black ice on the stones."
+              }
+            },
+            {
+              "name": "Madona Town Hall",
+              "tip_5lang": {
+                "de": "Das gelbe Gebäude bildet einen schönen Kontrast zum weißen Schnee.",
+                "hu": "A sárga falak remekül mutatnak a fehér hóesésben. Fotópont.",
+                "ro": "Clădirea galbenă contrastează frumos cu zăpada albă. Punct foto.",
+                "en": "The yellow building contrasts beautifully with the white snow."
+              }
+            },
+            {
+              "name": "Lūsis Fountain",
+              "tip_5lang": {
+                "de": "Der Brunnen ist im Winter meist abgestellt, der Luchs trägt eine Schneemütze.",
+                "hu": "A szökőkút télen nem üzemel, a hiúz szobra gyakran hósapkát kap.",
+                "ro": "Fântâna este oprită iarna; statuia râsului are adesea o căciulă de zăpadă.",
+                "en": "The fountain is off in winter; the lynx statue often wears a snow cap."
+              }
+            },
+            {
+              "name": "Madona Museum of Local History",
+              "tip_5lang": {
+                "de": "Bester Aufwärmpunkt. Besuchen Sie die wechselnden Kunstausstellungen.",
+                "hu": "A legjobb hely a felmelegedésre. Nézze meg az időszaki tárlatokat.",
+                "ro": "Cel mai bun punct de încălzire. Vizitați expozițiile de artă temporare.",
+                "en": "Best warm-up spot. Check out the rotating art exhibitions inside."
+              }
+            },
+            {
+              "name": "Love Ravine",
+              "tip_5lang": {
+                "de": "Märchenhaft verschneit, aber die Pfade können tief verschneit sein.",
+                "hu": "Mesebeli látvány hóban, de az ösvények nehezen járhatóak lehetnek.",
+                "ro": "Peisaj de poveste, dar potecile pot fi acoperite de zăpadă adâncă.",
+                "en": "Fairytale scenery, but paths may be buried under deep snow."
+              }
+            },
+            {
+              "name": "Smeceres sils Park",
+              "tip_5lang": {
+                "de": "Zentrum für Langlauf. Man kann hier Skier mieten oder wandern.",
+                "hu": "Sífutó központ. Lehet felszerelést bérelni vagy túrázni a hóban.",
+                "ro": "Centru pentru schi fond. Puteți închiria schiuri sau face drumeții.",
+                "en": "Cross-country skiing hub. You can rent skis or hike the snowy trails."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "In Madona liegt oft mehr Schnee als in Riga. Warme Stiefel sind Pflicht.",
+              "Die Sonne geht im Dezember bereits vor 16:00 Uhr unter.",
+              "Smeceres sils bietet beleuchtete Loipen für den späten Nachmittag.",
+              "Achten Sie auf Schneeräumfahrzeuge in den engen Seitenstraßen."
+            ],
+            "hu": [
+              "Madonán gyakran több a hó, mint Rigában. Meleg bakancs kötelező.",
+              "A nap decemberben már 16:00 előtt lemegy, tervezzen korai indulást.",
+              "A Smeceres sils kivilágított pályákat kínál a késő délutáni síeléshez.",
+              "Vigyázzon a hókotrókkal a szűkebb mellékutcákban."
+            ],
+            "ro": [
+              "În Madona este adesea mai multă zăpadă decât în Riga. Cizmele calde sunt obligatorii.",
+              "Soarele apune înainte de ora 16:00 în luna decembrie.",
+              "Smeceres sils oferă pârtii iluminate pentru schi după-amiaza târziu.",
+              "Fiți atenți la utilajele de deszăpezire pe străzile înguste."
+            ],
+            "en": [
+              "Madona often gets more snow than Riga. Warm, waterproof boots are vital.",
+              "Sunset is before 16:00 in December; plan outdoor activities early.",
+              "Smeceres sils features illuminated tracks for late afternoon skiing.",
+              "Watch out for snowplows operating on narrower side streets."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -718,6 +900,188 @@
           "Bring enough water and some snacks for the longer stretches.",
           "Download an offline map to your phone, as coverage can be patchy in the countryside."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen um Madona ist eine Herausforderung für Abenteurer. Starten Sie im Zentrum und nutzen Sie das Museum als trockenen Stopp. Die Fahrt zum Lazdona-Gut führt über nasse Asphaltstraßen, die Vorsicht erfordern. Das Birži-Gut bietet historische Gebäude zum Unterstellen. Am Nachmittag führt der Weg zurück durch das hügelige Gelände, wo die Abfahrten bei Nässe tückisch sein können. Beenden Sie die Tour im Liebesgraben.",
+            "hu": "A madonai biciklizés esőben igazi kihívás. A központból indulva a múzeum az első száraz menedék. A Lazdona-kastély felé vezető út aszfaltja csúszós lehet, óvatosan kanyarodjon. A Birži-udvarház épületei között találhat fedelet a záporok elől. Délután a dombos terepen a lejtők veszélyesek lehetnek vizes úton. A túrát a Szerelem-szakadéknál zárjuk, ahol a fák alatt védettebb a terep.",
+            "ro": "Ciclismul pe ploaie în jurul Madonei este pentru cei curajoși. Plecați din centru și folosiți muzeul ca punct de oprire uscat. Drumul spre Conacul Lazdona necesită prudență pe asfaltul ud. Conacul Birži oferă clădiri istorice unde vă puteți adăposti de averse. După-amiaza, terenul deluros face coborârile dificile pe carosabil umed. Încheiați traseul la Râpa Iubirii.",
+            "en": "Cycling in the rain around Madona is an adventure. Start in the center and use the museum as your first dry stop. The ride to Lazdona Manor follows wet asphalt roads that require caution in turns. Birži Manor offers historic structures to take cover from showers. In the afternoon, the hilly terrain makes descents tricky on wet roads. End your tour at Love Ravine, where the canopy provides some shelter."
+          },
+          "stops": [
+            {
+              "name": "Saieta Square",
+              "tip_5lang": {
+                "de": "Vorsicht beim Anfahren auf dem nassen Kopfsteinpflaster.",
+                "hu": "Induláskor vigyázzon a vizes macskakövekre a téren.",
+                "ro": "Atenție la plecare pe pavajul umed din piață.",
+                "en": "Be careful when starting off on the wet cobblestones."
+              }
+            },
+            {
+              "name": "Madona Museum of Local History",
+              "tip_5lang": {
+                "de": "Fahrradständer vorhanden. Guter Ort, um die Regenkleidung zu richten.",
+                "hu": "Van kerékpártároló. Jó hely az esőruha igazítására.",
+                "ro": "Există suporturi de biciclete. Loc bun pentru a ajusta pelerina.",
+                "en": "Bike racks available. Good spot to adjust your rain gear."
+              }
+            },
+            {
+              "name": "Smeceres sils Park",
+              "tip_5lang": {
+                "de": "Die befestigten Wege sind befahrbar, meiden Sie weiche Waldränder.",
+                "hu": "A burkolt utak járhatóak, kerülje a felázott erdőszéleket.",
+                "ro": "Drumurile pavate sunt practicabile; evitați marginile moi de pădure.",
+                "en": "Paved paths are rideable; avoid soft, muddy forest edges."
+              }
+            },
+            {
+              "name": "Lazdona Manor",
+              "tip_5lang": {
+                "de": "Kurze Pause unter den Bäumen oder am Portal bei starkem Guss.",
+                "hu": "Rövid pihenő a fák alatt vagy a kapualjban nagy eső esetén.",
+                "ro": "Pauză scurtă sub copaci sau la poartă în caz de aversă puternică.",
+                "en": "Quick break under trees or at the portal during heavy downpours."
+              }
+            },
+            {
+              "name": "Birži Manor",
+              "tip_5lang": {
+                "de": "Die Gebäude bieten Windschutz. Kettenpflege nach der Fahrt empfohlen.",
+                "hu": "Az épületek védenek a széltől. Út után ajánlott a lánctisztítás.",
+                "ro": "Clădirile oferă protecție contra vântului. Curățați lanțul după cursă.",
+                "en": "Buildings provide wind cover. Chain maintenance recommended after ride."
+              }
+            },
+            {
+              "name": "Love Ravine",
+              "tip_5lang": {
+                "de": "Fahrrad oben stehen lassen und die Treppen zu Fuß erkunden.",
+                "hu": "Hagyja fent a biciklit, a lépcsőket gyalog fedezze fel.",
+                "ro": "Lăsați bicicleta sus și explorați scările pe jos.",
+                "en": "Leave your bike at the top and explore the stairs on foot."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind bei den lettischen Landstraßen unerlässlich.",
+              "Bremsweg auf nassem Asphalt in den Hügeln von Madona verdoppeln.",
+              "Vermeiden Sie unbefestigte Wege, da diese schnell zu Schlamm werden.",
+              "Nutzen Sie helle Lichter, da die Sicht im Regen stark eingeschränkt ist."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen a lett vidéki utakon.",
+              "A fékút vizes aszfalton a madonai dombok között megduplázódik.",
+              "Kerülje a földutakat, mert azok gyorsan feláznak és mély sár lesz.",
+              "Használjon erős lámpákat, mert esőben a látótávolság jelentősen csökken."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt indispensabile pe drumurile rurale letone.",
+              "Distanța de frânare pe asfalt ud în dealurile Madonei se dublează.",
+              "Evitați drumurile neasfaltate; se transformă rapid în noroi adânc.",
+              "Folosiți lumini puternice, vizibilitatea scade mult pe ploaie."
+            ],
+            "en": [
+              "Mudguards are essential on Latvian country roads in the rain.",
+              "Double your braking distance on wet asphalt in the Madona hills.",
+              "Avoid unpaved trails as they quickly turn into deep mud.",
+              "Use bright lights, as visibility drops significantly during rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winter-Biking in Madona erfordert Spikereifen und Mut. Die Stadt ist oft tief verschneit. Starten Sie am Saieta-Platz und wärmen Sie sich im Museum auf. Die Fahrt zum Smeceres sils ist kurz, aber anstrengend durch den Schnee. Weiter geht es zu den Gütern Lazdona und Birži, wo die verschneite Landschaft atemberaubend ist. Da die Akkus bei Kälte schneller entladen (bei E-Bikes), planen Sie eine kürzere Route ein. Rückkehr vor Einbruch der Dunkelheit.",
+            "hu": "A téli biciklizés Madonán szöges gumit és bátorságot igényel. A város gyakran mély hó alatt áll. Kezdjen a Saieta téren, majd melegedjen a múzeumban. A Smeceres sils felé vezető út rövid, de a hóban fárasztó. Lazdona és Birži felé a havas táj gyönyörű, de a hideg szél metsző. Mivel az akkumulátorok (e-bike esetén) gyorsabban merülnek, tervezzen rövidebb távot. Sötétedés előtt érjen vissza.",
+            "ro": "Ciclismul de iarnă în Madona necesită anvelope cu ținte și curaj. Orașul este adesea acoperit de zăpadă adâncă. Începeți în Piața Saieta și încălziți-vă la muzeu. Drumul spre Smeceres sils este scurt, dar solicitant prin zăpadă. Spre conacele Lazdona și Birži, peisajul înghețat este superb. Deoarece bateriile se descarcă rapid la frig, planificați o rută mai scurtă. Reveniți înainte de întuneric.",
+            "en": "Winter biking in Madona requires studded tires and courage. The town is often under deep snow. Start at Saieta Square and warm up at the museum. The ride to Smeceres sils is short but physically demanding through the snow. Heading towards Lazdona and Birži manors, the frozen landscape is stunning. Since batteries drain faster in the cold (for e-bikes), plan a shorter route and return before dark."
+          },
+          "stops": [
+            {
+              "name": "Saieta Square",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenem Schneematsch unter den Reifen.",
+                "hu": "Vigyázzon a kerekek alatt lévő megfagyott kásás hóra.",
+                "ro": "Atenție la lapovița înghețată de sub roți.",
+                "en": "Watch out for frozen slush under your tires."
+              }
+            },
+            {
+              "name": "Madona Museum of Local History",
+              "tip_5lang": {
+                "de": "Guter Stopp, um die eingefrorenen Schaltungen zu prüfen.",
+                "hu": "Jó megálló a befagyott váltók ellenőrzésére.",
+                "ro": "Punct bun pentru a verifica dacă schimbătoarele au înghețat.",
+                "en": "Good stop to check if your derailleurs have frozen."
+              }
+            },
+            {
+              "name": "Smeceres sils Park",
+              "tip_5lang": {
+                "de": "Vorsicht, Radfahren auf Loipen ist meist untersagt. Wege nutzen.",
+                "hu": "Vigyázat, a sífutópályákon tilos biciklizni. Maradjon az utakon.",
+                "ro": "Atenție, ciclismul pe pistele de schi este interzis. Stați pe drumuri.",
+                "en": "Careful, cycling on ski tracks is usually forbidden. Use roads."
+              }
+            },
+            {
+              "name": "Lazdona Manor",
+              "tip_5lang": {
+                "de": "Windgeschützte Stellen für eine kurze Trinkpause suchen.",
+                "hu": "Keressen szélvédett helyet egy rövid ivószünetre.",
+                "ro": "Căutați locuri ferite de vânt pentru o scurtă pauză de hidratare.",
+                "en": "Look for wind-sheltered spots for a quick hydration break."
+              }
+            },
+            {
+              "name": "Birži Manor",
+              "tip_5lang": {
+                "de": "Die Entfernung bei Kälte nicht unterschätzen. Energieriegel einpacken.",
+                "hu": "Ne becsülje alá a távolságot hidegben. Vigyen energiaszeletet.",
+                "ro": "Nu subestimați distanța pe ger. Luați batoane energizante.",
+                "en": "Don't underestimate the distance in the cold. Pack energy bars."
+              }
+            },
+            {
+              "name": "Love Ravine",
+              "tip_5lang": {
+                "de": "Treppen können vereist sein. Fahrrad fest abschließen.",
+                "hu": "A lépcsők jegesek lehetnek. Zárja le biztonságosan a biciklit.",
+                "ro": "Scările pot fi înghețate. Încuiați bicicleta în siguranță.",
+                "en": "Stairs may be icy. Lock your bike securely at the top."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fetten Sie die Kette mit Winteröl ein, um Einfrieren zu verhindern.",
+              "Tragen Sie Neopren-Überschuhe gegen den kalten Fahrtwind.",
+              "Bremsen können bei Minusgraden einfrieren; regelmäßig kurz betätigen.",
+              "Planen Sie das Ende der Tour spätestens für 15:30 Uhr ein."
+            ],
+            "hu": [
+              "Használjon téli láncolajat a fagyás megelőzésére.",
+              "Viseljen neoprén kamáslit a hideg menetszél ellen.",
+              "A fékek mínuszokban befagyhatnak; rendszeresen húzza meg őket kicsit.",
+              "A túrát legkésőbb 15:30-ra fejezze be a sötétedés miatt."
+            ],
+            "ro": [
+              "Folosiți ulei de lanț pentru iarnă pentru a preveni înghețul.",
+              "Purtați protecții de neopren pentru încălțăminte contra vântului.",
+              "Frânele pot îngheța la temperaturi negative; acționați-le periodic.",
+              "Planificați finalul traseului cel târziu pentru ora 15:30."
+            ],
+            "en": [
+              "Use winter-specific chain oil to prevent freezing.",
+              "Wear neoprene overshoes to protect against the cold windchill.",
+              "Brakes can freeze in sub-zero temps; tap them periodically to clear ice.",
+              "Finish your tour by 15:30 at the latest due to early darkness."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1122,6 +1486,224 @@
           "Use GPS navigation, but have a map as a backup as well.",
           "Plan for extra time for unplanned photo stops."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Madona auch bei Regen komfortabel zu erkunden. Starten Sie mit den entfernteren Gütern Birži und Lazdona, da Sie dort geschützt parken können. Mittags führt die Fahrt zum Smeceres sils Park, wo Sie kurze Wege vom Parkplatz zum Aussichtspunkt haben. Den Nachmittag verbringen Sie im Stadtzentrum mit Besuch des Museums für Heimatkunde, dem besten Ort für schlechtes Wetter. Zum Abschluss bietet der Saieta-Platz kurze Wege zwischen den Sehenswürdigkeiten.",
+            "hu": "Autóval Madona kényelmesen felfedezhető esőben is. Kezdjen a távolabbi Birži- és Lazdona-kastélyoknál, ahol a parkoló közel van az épületekhez. Délben irány a Smeceres sils park, itt a parkolótól csak pár lépés a kilátópont. A délutánt a városközpontban töltjük a helytörténeti múzeumban, ami a legjobb menedék esőben. A napot a Saieta téren zárjuk, ahol minden látnivaló karnyújtásnyira van egymástól.",
+            "ro": "Cu mașina, Madona este confortabil de explorat chiar și pe ploaie. Începeți cu conacele Birži și Lazdona, unde parcarea este aproape de clădiri. La prânz, mergeți spre parcul Smeceres sils; sunt distanțe scurte de la parcare la punctele de interes. După-amiaza este dedicată centrului și Muzeului de Istorie Locală, cel mai bun adăpost. Încheiați în Piața Saieta, unde obiectivele sunt grupate strâns.",
+            "en": "By car, Madona is comfortable to explore even in heavy rain. Start with the further Birži and Lazdona manors, where parking is close to the buildings. At noon, head to Smeceres sils Park; it's just a short walk from the car to the main viewpoints. Spend the afternoon in the town center at the Museum of Local History, the best indoor refuge. Finish at Saieta Square, where sights are conveniently close together."
+          },
+          "stops": [
+            {
+              "name": "Birži Manor",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Haupteingang. Regenschirm bereitthalten.",
+                "hu": "Parkoljon a főbejárat közelében. Legyen kéznél az esernyő.",
+                "ro": "Parcați aproape de intrarea principală. Aveți umbrela pregătită.",
+                "en": "Park near the main entrance. Keep your umbrella handy."
+              }
+            },
+            {
+              "name": "Lazdona Manor",
+              "tip_5lang": {
+                "de": "Vorsicht bei der Zufahrt, die unbefestigten Ränder können weich sein.",
+                "hu": "Vigyázzon a behajtónál, a padka felázhat az esőtől.",
+                "ro": "Atenție la drumul de acces; marginile neasfaltate pot fi moi.",
+                "en": "Careful on the access road; unpaved shoulders may be soft."
+              }
+            },
+            {
+              "name": "Smeceres sils Park",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist asphaltiert. Kurzer Weg zum Café/Infozentrum.",
+                "hu": "A parkoló aszfaltozott. Csak pár lépés a kávézó és az infópont.",
+                "ro": "Parcarea este asfaltată. Drum scurt până la cafenea/centrul info.",
+                "en": "The parking lot is paved. Short walk to the cafe/info center."
+              }
+            },
+            {
+              "name": "Madona Center (Parking)",
+              "tip_5lang": {
+                "de": "Zentraler Parkplatz, idealer Ausgangspunkt für das Museum.",
+                "hu": "Központi parkoló, ideális kiindulópont a múzeumhoz.",
+                "ro": "Parcare centrală, punct ideal pentru a merge la muzeu.",
+                "en": "Central parking, ideal starting point for the museum."
+              }
+            },
+            {
+              "name": "Madona Museum of Local History",
+              "tip_5lang": {
+                "de": "Bestes Ziel bei Dauerregen. Warme und trockene Räume.",
+                "hu": "A legjobb célpont tartós esőben. Meleg és száraz belső terek.",
+                "ro": "Cea mai bună destinație pe ploaie continuă. Spații calde și uscate.",
+                "en": "Best destination during steady rain. Warm and dry interiors."
+              }
+            },
+            {
+              "name": "Saieta Square",
+              "tip_5lang": {
+                "de": "Kurzer Stopp für Fotos. Das Auto bietet schnellen Schutz.",
+                "hu": "Gyors fotómegálló. Az autó gyors menedéket nyújt.",
+                "ro": "Oprire scurtă pentru poze. Mașina oferă adăpost rapid.",
+                "en": "Quick photo stop. The car provides fast shelter from rain."
+              }
+            },
+            {
+              "name": "Lūsis Fountain",
+              "tip_5lang": {
+                "de": "Direkt vom Straßenrand aus zu sehen, falls es zu stark regnet.",
+                "hu": "Az út széléről is látható, ha túl erősen esne az eső.",
+                "ro": "Vizibilă de pe marginea drumului dacă plouă prea tare.",
+                "en": "Visible from the roadside if it's raining too hard to exit."
+              }
+            },
+            {
+              "name": "Love Ravine",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem nassen Holzsteg unterhalb des Parkplatzes.",
+                "hu": "Vigyázzon a vizes fapadlón a parkoló alatti részen.",
+                "ro": "Atenție pe pasarela de lemn udă de sub parcare.",
+                "en": "Careful on the wet wooden boardwalk below the parking area."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Hügelige Straßen in Madona können bei Starkregen kleine Bäche bilden.",
+              "Nutzen Sie die Parkplätze an den Einkaufszentren für trockene Pausen.",
+              "Prüfen Sie Ihre Scheibenwischer; die Sicht in den Wäldern ist oft diffus.",
+              "Einige Zufahrten zu Gütern können Schotterwege sein, Vorsicht vor Pfützen."
+            ],
+            "hu": [
+              "A madonai dombos utakon nagy esőben vízátfolyások alakulhatnak ki.",
+              "Használja az üzletközpontok parkolóit egy száraz pihenőhöz.",
+              "Ellenőrizze az ablaktörlőket; az erdős utakon gyakran rossz a látási viszony.",
+              "A kastélyokhoz vezető utak néhol murvásak, kerülje a mély tócsákat."
+            ],
+            "ro": [
+              "Pe drumurile deluroase din Madona se pot forma șuvoaie la ploi mari.",
+              "Folosiți parcările centrelor comerciale pentru o pauză uscată.",
+              "Verificați ștergătoarele; vizibilitatea în pădure este adesea slabă.",
+              "Drumurile spre conace pot fi cu pietriș; atenție la bălțile adânci."
+            ],
+            "en": [
+              "Hilly roads in Madona can develop water runoff during heavy rain.",
+              "Use shopping center parking lots for a dry break and local snacks.",
+              "Check your wipers; visibility on forested roads is often poor in rain.",
+              "Some manor access roads are gravel; watch out for deep puddles."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Auto ist im Winter in Madona fast unverzichtbar, da es als Rückzugsort vor der Kälte dient. Besuchen Sie morgens die Güter Birži und Lazdona, die tief verschneit wie im Märchen wirken. Die Straßen sind meist gut geräumt, aber Winterreifen sind Pflicht. Mittags bietet Smeceres sils eine tolle Atmosphäre, beobachten Sie die Skifahrer vom warmen Auto aus. Nachmittags ist das Museum der perfekte Ort zum Aufwärmen. Beenden Sie die Tour im beleuchteten Stadtzentrum am Saieta-Platz.",
+            "hu": "Az autó télen szinte nélkülözhetetlen Madonán, fűtött menedékként szolgál a hideg ellen. Reggel látogasson el a Birži- és Lazdona-kastélyokhoz, amelyek hóban mesebeliek. Az utak többnyire takarítottak, de a téli gumi kötelező. Délben a Smeceres sils parkban figyelheti a síelőket a meleg autóból. Délután a múzeum tökéletes hely a felmelegedésre. A napot a kivilágított városközpontban, a Saieta téren zárjuk.",
+            "ro": "Mașina este aproape indispensabilă iarna în Madona, fiind un refugiu contra gerului. Dimineața, vizitați conacele Birži și Lazdona, care par desprinse din povești sub zăpadă. Drumurile sunt de obicei deszăpezite, dar anvelopele de iarnă sunt obligatorii. La prânz, urmăriți schiorii de la Smeceres sils din căldura mașinii. După-amiaza, muzeul este locul perfect de încălzire. Încheiați în Piața Saieta iluminată.",
+            "en": "A car is almost essential in Madona during winter, serving as a heated refuge from the frost. In the morning, visit Birži and Lazdona manors, which look like fairytales under deep snow. Roads are usually cleared, but winter tires are mandatory. At noon, Smeceres sils offers a great vibe; watch the skiers from your warm vehicle. Spend the afternoon warming up at the museum. Finish at the festive Saieta Square in the town center."
+          },
+          "stops": [
+            {
+              "name": "Birži Manor",
+              "tip_5lang": {
+                "de": "Vorsicht beim Parken auf ungeräumten Schneeflächen.",
+                "hu": "Vigyázzon a parkolással a nem letakarított havas részeken.",
+                "ro": "Atenție la parcare pe suprafețele cu zăpadă necurățată.",
+                "en": "Be careful when parking on uncleared snowy patches."
+              }
+            },
+            {
+              "name": "Lazdona Manor",
+              "tip_5lang": {
+                "de": "Die schmale Zufahrt kann bei Schnee tückisch sein. Gegenverkehr achten.",
+                "hu": "A szűk behajtó havasan csalóka lehet. Figyeljen a szembejövőkre.",
+                "ro": "Accesul îngust poate fi înșelător pe zăpadă. Atenție la trafic.",
+                "en": "The narrow access road can be tricky in snow. Watch for traffic."
+              }
+            },
+            {
+              "name": "Smeceres sils Park",
+              "tip_5lang": {
+                "de": "Parkplatz ist meist geräumt. Guter Ort für den Ausblick.",
+                "hu": "A parkoló rendszeresen takarított. Remek kilátópont.",
+                "ro": "Parcarea este curățată regulat. Punct bun pentru panoramă.",
+                "en": "Parking is usually cleared. Excellent spot for the winter view."
+              }
+            },
+            {
+              "name": "Madona Center (Parking)",
+              "tip_5lang": {
+                "de": "Zentral parken, um kurze Wege in die Wärme zu haben.",
+                "hu": "Parkoljon központilag, hogy közel legyen a meleg belső terekhez.",
+                "ro": "Parcați central pentru a ajunge rapid la căldură.",
+                "en": "Park centrally to minimize walking distance in the cold."
+              }
+            },
+            {
+              "name": "Madona Museum of Local History",
+              "tip_5lang": {
+                "de": "Idealer Stopp, wenn die Außentemperatur stark sinkt.",
+                "hu": "Ideális megálló, ha a kinti hőmérséklet hirtelen leesne.",
+                "ro": "Oprire ideală dacă temperatura de afară scade brusc.",
+                "en": "Ideal stop if the outside temperature drops significantly."
+              }
+            },
+            {
+              "name": "Saieta Square",
+              "tip_5lang": {
+                "de": "Abends herrlich beleuchtet. Kurzer Fotostopp.",
+                "hu": "Este gyönyörűen kivilágított. Rövid fotómegálló.",
+                "ro": "Iluminat superb seara. Oprire scurtă pentru fotografii.",
+                "en": "Beautifully lit in the evening. Quick photo opportunity."
+              }
+            },
+            {
+              "name": "Lūsis Fountain",
+              "tip_5lang": {
+                "de": "Oft von Schneewällen umgeben. Vorsicht beim Aussteigen.",
+                "hu": "Gyakran hófalak veszik körül. Vigyázzon a kiszállásnál.",
+                "ro": "Adesea înconjurată de mormane de zăpadă. Atenție la coborâre.",
+                "en": "Often surrounded by snow banks. Be careful when exiting."
+              }
+            },
+            {
+              "name": "Love Ravine",
+              "tip_5lang": {
+                "de": "Parken Sie oben und genießen Sie den Blick ins weiße Tal.",
+                "hu": "Parkoljon fent, és élvezze a kilátást a fehér völgybe.",
+                "ro": "Parcați sus și bucurați-vă de privelistea spre vale.",
+                "en": "Park at the top and enjoy the view into the white ravine."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Führen Sie immer eine Schneeschaufel und Enteiser im Auto mit.",
+              "Die Straßen um Madona können morgens extrem glatt sein.",
+              "Tanken Sie rechtzeitig; bei Kälte verbraucht das Auto mehr Energie.",
+              "Parken Sie nicht unter steilen Dächern (Gefahr von Dachlawinen)."
+            ],
+            "hu": [
+              "Mindig legyen az autóban hólapát és jégoldó spray.",
+              "A Madona környéki utak reggelente rendkívül jegesek lehetnek.",
+              "Tankoljon időben; a hidegben az autó több üzemanyagot fogyaszt.",
+              "Ne parkoljon meredek tetők alá a hóomlás veszélye miatt."
+            ],
+            "ro": [
+              "Aveți întotdeauna în mașină o lopată de zăpadă și spray degivrant.",
+              "Drumurile din jurul Madonei pot fi extrem de alunecoase dimineața.",
+              "Alimentați la timp; la ger mașina consumă mai mult combustibil.",
+              "Nu parcați sub acoperișuri înclinate (pericol de avalanșă de pe acoperiș)."
+            ],
+            "en": [
+              "Always carry a snow shovel and de-icer spray in your car.",
+              "Roads around Madona can be extremely icy in the early mornings.",
+              "Keep your fuel tank full; the car uses more energy in extreme cold.",
+              "Avoid parking under steep roofs due to the risk of falling snow."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1478,6 +2060,188 @@
           "Give a clear signal to the driver when you want to get off at a stop.",
           "Be aware of the last bus back to town to avoid getting stranded."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Öffentliche Verkehrsmittel in Madona sind bei Regen eine gute Wahl, um trocken zu bleiben. Starten Sie im Zentrum am Saieta-Platz und nutzen Sie das Museum als Vormittagsziel. Die Busfahrt nach Lazdona bietet Ausblicke auf die regnerische Landschaft von Vidzeme. Das Lazdona-Gut ist vom Busstopp aus schnell erreichbar. Mittags geht es zurück ins Zentrum für ein warmes Essen. Am Nachmittag bringt Sie der Bus zum Smeceres sils, wo Sie das Infozentrum als Basis nutzen können.",
+            "hu": "A közösségi közlekedés Madonán jó választás esőben, hogy szárazon maradjon. Kezdjen a központban, a Saieta téren, majd látogasson el a múzeumba. A buszút Lazdonába remek kilátást nyújt a vidzemei tájra az ablakból. A kastély a megállótól rövid sétával elérhető. Ebédre térjen vissza a központba. Délután buszozzon ki a Smeceres sils parkhoz, ahol az információs központban pihenhet meg.",
+            "ro": "Transportul public în Madona este o alegere bună pe ploaie pentru a rămâne uscat. Începeți în centru la Piața Saieta, apoi vizitați muzeul dimineața. Călătoria cu autobuzul spre Lazdona oferă vederi spre peisajul ud din Vidzeme. Conacul Lazdona este aproape de stație. Reveniți în centru pentru prânz. După-amiaza, luați autobuzul spre Smeceres sils, unde centrul info vă poate servi drept bază.",
+            "en": "Public transit in Madona is a solid choice during rain to stay dry. Start at Saieta Square and use the museum as your morning destination. The bus ride to Lazdona offers views of the rainy Vidzeme landscape from the window. Lazdona Manor is just a short walk from the stop. Return to the center for a warm lunch. In the afternoon, take a bus to Smeceres sils, using the info center as a dry base."
+          },
+          "stops": [
+            {
+              "name": "Saieta Square",
+              "tip_5lang": {
+                "de": "Der Busbahnhof ist nah, nutzen Sie die Wartehalle bei starkem Regen.",
+                "hu": "A buszpályaudvar közel van, használja a várótermet nagy esőben.",
+                "ro": "Autogara este aproape; folosiți sala de așteptare la ploaie mare.",
+                "en": "The bus station is nearby; use the waiting hall during heavy rain."
+              }
+            },
+            {
+              "name": "Madona Museum of Local History",
+              "tip_5lang": {
+                "de": "Nur wenige Gehminuten von den zentralen Haltestellen entfernt.",
+                "hu": "Csak pár perc séta a központi buszmegállóktól.",
+                "ro": "La doar câteva minute de mers pe jos de stațiile centrale.",
+                "en": "Just a few minutes' walk from the central bus stops."
+              }
+            },
+            {
+              "name": "Bus to Lazdona",
+              "tip_5lang": {
+                "de": "Haltestelle hat ein Dach. Fahrplan vorab online prüfen.",
+                "hu": "A megálló fedett. Ellenőrizze a menetrendet előre online.",
+                "ro": "Stația are acoperiș. Verificați programul online în prealabil.",
+                "en": "The stop is sheltered. Check the schedule online beforehand."
+              }
+            },
+            {
+              "name": "Lazdona Manor",
+              "tip_5lang": {
+                "de": "Kurzer, aber unbefestigter Weg von der Haltestelle. Pfützengefahr.",
+                "hu": "Rövid, de kiépítetlen út a megállótól. Pocsolyákra számítson.",
+                "ro": "Drum scurt, dar neamenajat de la stație. Atenție la bălți.",
+                "en": "Short but unpaved path from the stop. Expect some puddles."
+              }
+            },
+            {
+              "name": "Bus back to center",
+              "tip_5lang": {
+                "de": "Pünktlich sein, da Busse auf dem Land seltener verkehren.",
+                "hu": "Legyen pontos, vidéken ritkábban járnak a buszok.",
+                "ro": "Fiți punctuali; autobuzele rurale circulă mai rar.",
+                "en": "Be on time; rural buses run less frequently than city ones."
+              }
+            },
+            {
+              "name": "Smeceres sils Park",
+              "tip_5lang": {
+                "de": "Die Haltestelle liegt an der Hauptstraße, Fußweg zum Park einplanen.",
+                "hu": "A megálló a főúton van, számoljon némi sétával a parkig.",
+                "ro": "Stația este pe drumul principal; planificați o plimbare până la parc.",
+                "en": "The stop is on the main road; plan for a walk to reach the park."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrkarten können meist beim Fahrer gekauft werden (Bargeld bereitthalten).",
+              "Die App '1188' ist hilfreich für die aktuellen Busverbindungen.",
+              "Zentrale Bushaltestellen in Madona bieten guten Wetterschutz.",
+              "Vermeiden Sie das Warten an abgelegenen Stopps ohne Unterstand."
+            ],
+            "hu": [
+              "A jegyeket általában a sofőrnél lehet megvenni (készpénz legyen önnél).",
+              "A '1188' applikáció hasznos a friss buszjáratok ellenőrzéséhez.",
+              "Madona központi megállói jól védenek az esőtől.",
+              "Kerülje a várakozást a külterületi, fedél nélküli megállókban."
+            ],
+            "ro": [
+              "Biletele pot fi cumpărate de obicei de la șofer (aveți numerar).",
+              "Aplicația '1188' este utilă pentru orarele actualizate ale autobuzelor.",
+              "Stațiile centrale din Madona oferă protecție bună contra ploii.",
+              "Evitați așteptarea în stații izolate fără adăpost."
+            ],
+            "en": [
+              "Tickets can usually be bought from the driver (keep cash ready).",
+              "The '1188' app is very helpful for checking current bus connections.",
+              "Central bus stops in Madona offer good protection from the rain.",
+              "Avoid waiting at remote stops that lack a shelter or bench."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus durch das verschneite Madona zu fahren, ist sicher und entspannt. Starten Sie am Saieta-Platz, wo die Winterstimmung am stärksten ist. Das Museum bietet am Vormittag die nötige Wärme. Die Busfahrt nach Lazdona führt durch weiße Wälder, ein tolles Erlebnis ohne Stress am Steuer. Achten Sie auf warme Kleidung für die Wartezeiten an den Haltestellen. Mittags wärmen Sie sich in einem Café im Zentrum auf. Der Nachmittag im Smeceres sils ist perfekt für Wintersportbegeisterte.",
+            "hu": "Busszal közlekedni a havas Madonán biztonságos és pihentető. Kezdjen a Saieta téren, ahol a legjobb a téli hangulat. A múzeum délelőtt biztosítja a szükséges meleget. A lazdonai buszút fehér erdőkön vezet át, remek élmény vezetés közbeni stressz nélkül. Figyeljen a réteges öltözködésre a megállókban való várakozáskor. Ebédre keressen egy meleg helyet a központban. Délután a Smeceres sils ideális a téli sportok kedvelőinek.",
+            "ro": "Călătoria cu autobuzul prin Madona înzăpezită este sigură și relaxantă. Începeți în Piața Saieta pentru cea mai frumoasă atmosferă de iarnă. Muzeul oferă căldura necesară dimineața. Drumul spre Lazdona trece prin păduri albe, o experiență superbă fără stresul condusului. Purtați haine groase pentru perioadele de așteptare în stații. După-amiaza la Smeceres sils este ideală pentru fanii sporturilor de iarnă.",
+            "en": "Taking the bus through snowy Madona is safe and relaxing. Start at Saieta Square, where the winter atmosphere is best. The museum provides the necessary warmth in the morning. The bus ride to Lazdona passes through white forests, a great experience without the stress of driving on ice. Dress in warm layers for the wait times at stops. Warm up at a center cafe for lunch. The afternoon at Smeceres sils is perfect for winter sports fans."
+          },
+          "stops": [
+            {
+              "name": "Saieta Square",
+              "tip_5lang": {
+                "de": "Kurze Wege zum Busbahnhof. Vorsicht vor Glätte am Einstieg.",
+                "hu": "Rövid séta a buszpályaudvarig. Vigyázzon a csúszós lépcsőkre.",
+                "ro": "Drum scurt până la autogară. Atenție la gheață la urcare.",
+                "en": "Short walk to the bus station. Watch for ice when boarding."
+              }
+            },
+            {
+              "name": "Madona Museum of Local History",
+              "tip_5lang": {
+                "de": "Perfekt, um auf den nächsten Bus in der Wärme zu warten.",
+                "hu": "Tökéletes hely a következő buszra való várakozáshoz a melegben.",
+                "ro": "Perfect pentru a aștepta următorul autobuz la căldură.",
+                "en": "Perfect for waiting for the next bus in a warm environment."
+              }
+            },
+            {
+              "name": "Bus to Lazdona",
+              "tip_5lang": {
+                "de": "Busse sind meist gut geheizt. Genießen Sie den Ausblick.",
+                "hu": "A buszok általában jól fűtöttek. Élvezze a kilátást.",
+                "ro": "Autobuzele sunt de obicei bine încălzite. Admirați peisajul.",
+                "en": "Buses are usually well-heated. Enjoy the winter view."
+              }
+            },
+            {
+              "name": "Lazdona Manor",
+              "tip_5lang": {
+                "de": "Weg von der Haltestelle kann tief verschneit sein. Stiefel nötig.",
+                "hu": "A megállótól vezető út havas lehet. Bakancs kötelező.",
+                "ro": "Drumul de la stație poate fi înzăpezit. Cizme necesare.",
+                "en": "The path from the stop may be snowy. Boots are essential."
+              }
+            },
+            {
+              "name": "Bus back to center",
+              "tip_5lang": {
+                "de": "Fahrplanänderungen bei extremem Schneefall möglich.",
+                "hu": "Extrém havazás esetén menetrendi változások fordulhatnak elő.",
+                "ro": "Posibile modificări de program în caz de ninsori extreme.",
+                "en": "Schedule changes possible during extreme snowfall."
+              }
+            },
+            {
+              "name": "Smeceres sils Park",
+              "tip_5lang": {
+                "de": "Vom Stopp zum Park ist es ein kleiner Fußmarsch durch den Schnee.",
+                "hu": "A megállótól a parkig egy kis séta vár önre a hóban.",
+                "ro": "De la stație la parc este o scurtă plimbare prin zăpadă.",
+                "en": "Expect a short hike through the snow from the stop to the park."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse in Lettland sind im Winter sehr zuverlässig geräumt.",
+              "Halten Sie die Fahrplan-App bereit, um Wartezeiten im Freien zu minimieren.",
+              "Zentrale Wartehallen sind im Winter oft beheizt.",
+              "Tragen Sie Reflektoren, da es nachmittags sehr früh dunkel wird."
+            ],
+            "hu": [
+              "A lett buszközlekedés télen is nagyon megbízható.",
+              "Figyelje a menetrendet appon, hogy minimalizálja a kinti várakozást.",
+              "A központi várótermek télen gyakran fűtöttek.",
+              "Viseljen fényvisszaverőt, mert délután nagyon korán sötétedik."
+            ],
+            "ro": [
+              "Autobuzele letonă sunt foarte fiabile chiar și iarna.",
+              "Verificați aplicația de orar pentru a minimiza așteptarea afară.",
+              "Sălile de așteptare centrale sunt adesea încălzite iarna.",
+              "Purtați elemente reflectorizante; se întunecă foarte devreme."
+            ],
+            "en": [
+              "Latvian bus services remain very reliable during winter months.",
+              "Use transit apps to minimize time spent waiting in the cold.",
+              "Central waiting halls are often heated during the winter season.",
+              "Wear reflectors, as it gets dark very early in the afternoon."
+            ]
+          }
+        }
       }
     }
   }

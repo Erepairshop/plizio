@@ -378,6 +378,224 @@
           "Check the opening hours for the museum and villa in advance, as they can be seasonal.",
           "Most sights are clustered together, making Banya ideal for exploring on foot."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag trotz Regen am Denkmal und flüchten Sie schnell ins Historische Museum. Mittags bieten die Thermalbäder den perfekten Schutz vor dem Wetter. Der Nachmittag führt zur Kirche und durch den nebligen Park zur königlichen Villa. Den Abend verbringen Sie gemütlich bei einer Weinverkostung, während es draußen stürmt.",
+            "hu": "A napot az alapítók emlékművénél kezdjük, majd gyorsan behúzódunk a Történeti Múzeumba az eső elől. A délidő a fedett ásványvizes fürdőben a legkellemesebb. Délután egy rövid esernyős séta következik a templomhoz és a parkon át a királyi villához. A napot a borászat melegében zárjuk, ahol a helyi nedűk feledtetik a borús időt.",
+            "ro": "Începeți ziua la monument, apoi refugiați-vă rapid în Muzeul de Istorie pentru a evita ploaia. Prânzul este ideal în băile minerale acoperite, unde apa caldă relaxează corpul. După-amiaza include o vizită la biserică și o plimbare cu umbrela prin parc spre vila regală. Seara se încheie călduros la vinărie, degustând soiuri locale în timp ce afară plouă.",
+            "en": "Start your day at the monument and quickly duck into the Historical Museum to escape the rain. Midday is perfect for the indoor mineral baths. The afternoon features a brief umbrella walk to the church and through the misty park to the Royal Villa. End your rainy day warmly at the winery, enjoying local vintages while staying dry inside."
+          },
+          "stops": [
+            {
+              "name": "Monument to the Founders",
+              "tip_5lang": {
+                "de": "Kurzer Stopp für ein Foto; halten Sie den Regenschirm fest.",
+                "hu": "Gyors fotómegálló, tartsa szorosan az esernyőt.",
+                "ro": "Oprire scurtă pentru poze; țineți bine umbrela.",
+                "en": "Quick photo stop; keep a firm grip on your umbrella."
+              }
+            },
+            {
+              "name": "Historical Museum",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um die erste Regenfront trocken zu überstehen.",
+                "hu": "Tökéletes hely az első esőhullám száraz átvészeléséhez.",
+                "ro": "Locul perfect pentru a aștepta trecerea primului val de ploaie.",
+                "en": "Perfect place to stay dry during the first wave of rain."
+              }
+            },
+            {
+              "name": "Municipal Mineral Bath",
+              "tip_5lang": {
+                "de": "Genießen Sie das heiße Wasser, während der Regen gegen die Fenster trommelt.",
+                "hu": "Élvezze a forró vizet, miközben az eső az ablakon kopog.",
+                "ro": "Bucurați-vă de apa fierbinte în timp ce ploaia bate în geamuri.",
+                "en": "Enjoy the hot water while the rain drums against the windows."
+              }
+            },
+            {
+              "name": "Mineral Springs of Banya",
+              "tip_5lang": {
+                "de": "Der Dampf der Quellen wirkt im Regen besonders mystisch.",
+                "hu": "A források gőze az esőben különösen misztikus látvány.",
+                "ro": "Aburul izvoarelor pare deosebit de mistic în ploaie.",
+                "en": "The steam from the springs looks especially mystical in the rain."
+              }
+            },
+            {
+              "name": "Church of St. Constantine and Helena",
+              "tip_5lang": {
+                "de": "Ein ruhiger, trockener Rückzugsort für Besinnung.",
+                "hu": "Csendes, száraz menedék az elmélyüléshez.",
+                "ro": "Un refugiu liniștit și uscat pentru reflecție.",
+                "en": "A quiet, dry retreat for reflection."
+              }
+            },
+            {
+              "name": "Tsar Boris III Park",
+              "tip_5lang": {
+                "de": "Die Wege können matschig sein; bleiben Sie auf den befestigten Pfaden.",
+                "hu": "Az utak sárosak lehetnek; maradjon a kövezett ösvényeken.",
+                "ro": "Potecile pot fi noroioase; rămâneți pe drumurile pavate.",
+                "en": "Paths can be muddy; stick to the paved walkways."
+              }
+            },
+            {
+              "name": "Royal Villa of Tsar Boris III",
+              "tip_5lang": {
+                "de": "Besichtigen Sie die Innenräume, um dem Wetter zu entkommen.",
+                "hu": "Tekintse meg a belső tereket, hogy elkerülje az időjárást.",
+                "ro": "Vizitați interioarele pentru a scăpa de intemperii.",
+                "en": "Tour the interiors to escape the elements."
+              }
+            },
+            {
+              "name": "Banya Winery",
+              "tip_5lang": {
+                "de": "Der ideale Abschluss für einen nassen Tag im warmen Keller.",
+                "hu": "Ideális zárás egy esős napra a meleg pincében.",
+                "ro": "Finalul ideal pentru o zi ploioasă, în pivnița caldă.",
+                "en": "The ideal end to a wet day in the warm cellar."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Wanderschuhe für die Parkwege.",
+              "Ein stabiler Regenschirm ist wegen des Windes in der Ebene wichtig.",
+              "Die Mineralbäder sind der beste Rückzugsort bei starkem Regen.",
+              "Nutzen Sie die Museumsbesuche für die intensivsten Regenschauer."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a parki sétákhoz.",
+              "A szeles síkság miatt egy erős esernyő elengedhetetlen.",
+              "Az ásványvizes fürdő a legjobb menedék heves esőzés idején.",
+              "A múzeumlátogatást időzítse a legintenzívebb záporok idejére."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru aleile din parc.",
+              "O umbrelă rezistentă este necesară din cauza vântului din câmpie.",
+              "Băile minerale sunt cel mai bun refugiu în caz de ploaie torențială.",
+              "Planificați vizita la muzeu în timpul celor mai intense averse."
+            ],
+            "en": [
+              "Wear waterproof walking shoes for the park paths.",
+              "A sturdy umbrella is essential due to the winds on the plain.",
+              "The mineral baths are the best retreat during heavy rain.",
+              "Time your museum visits for the most intense downpours."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie das winterliche Banya mit einem frostigen Start am Denkmal. Das Museum bietet notwendige Wärme, bevor das Highlight folgt: das Baden im heißen Mineralwasser unter freiem Winterhimmel. Nachmittags besuchen wir die Kirche und die königliche Villa. Da es früh dunkel wird, endet die Tour gemütlich bei schwerem Rotwein in der örtlichen Kellerei.",
+            "hu": "Tapasztalja meg a téli Banyát egy fagyos reggelen az emlékműnél. A múzeum melegében felmelegedhetünk, mielőtt a nap fénypontja következne: fürdőzés a forró ásványvízben a téli égbolt alatt. Délután a templom és a királyi villa vár, majd a korai sötétedés miatt a borászat vörösborai mellett zárjuk a napot a kandalló közelében.",
+            "ro": "Experimentați Banya iarna, cu un început geros la monument. Muzeul oferă căldura necesară înainte de punctul culminant: baia în apă minerală fierbinte sub cerul liber de iarnă. După-amiaza vizităm biserica și vila regală. Deoarece se întunecă devreme, turul se încheie confortabil cu un vin roșu tare la vinăria locală.",
+            "en": "Experience winter in Banya with a frosty start at the monument. The museum provides much-needed warmth before the highlight: soaking in hot mineral water under the winter sky. Visit the church and Royal Villa in the afternoon light. As darkness falls early, the tour ends cozily with bold red wines at the local winery."
+          },
+          "stops": [
+            {
+              "name": "Monument to the Founders",
+              "tip_5lang": {
+                "de": "Kurzer Stopp; die Metalloberflächen können sehr kalt sein.",
+                "hu": "Gyors megálló; a fémfelületek nagyon hidegek lehetnek.",
+                "ro": "Oprire scurtă; suprafețele metalice pot fi foarte reci.",
+                "en": "Quick stop; metal surfaces can be very cold."
+              }
+            },
+            {
+              "name": "Historical Museum",
+              "tip_5lang": {
+                "de": "Genießen Sie die Heizung und die lokale Geschichte.",
+                "hu": "Élvezze a fűtést és a helyi történelmet.",
+                "ro": "Bucurați-vă de căldură și de istoria locală.",
+                "en": "Enjoy the heating and the local history."
+              }
+            },
+            {
+              "name": "Municipal Mineral Bath",
+              "tip_5lang": {
+                "de": "Der Kontrast zwischen heißem Wasser und kalter Luft ist herrlich.",
+                "hu": "A forró víz és a hideg levegő kontrasztja csodálatos.",
+                "ro": "Contrastul dintre apa fierbinte și aerul rece este sublim.",
+                "en": "The contrast between hot water and cold air is wonderful."
+              }
+            },
+            {
+              "name": "Mineral Springs of Banya",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrierendem Spritzwasser auf den Steinen.",
+                "hu": "Vigyázzon a kövekre fagyó vízpermettel.",
+                "ro": "Atenție la vaporii de apă care pot îngheța pe pietre.",
+                "en": "Watch out for freezing mist on the stones."
+              }
+            },
+            {
+              "name": "Church of St. Constantine and Helena",
+              "tip_5lang": {
+                "de": "Oft beheizt, ein guter Ort zum Aufwärmen.",
+                "hu": "Gyakran fűtött, jó hely a felmelegedéshez.",
+                "ro": "Aeseori încălzită, un loc bun pentru a vă încălzi.",
+                "en": "Often heated, a good place to warm up."
+              }
+            },
+            {
+              "name": "Tsar Boris III Park",
+              "tip_5lang": {
+                "de": "Früher Sonnenuntergang gegen 16:30 Uhr beachten.",
+                "hu": "Figyeljen a korai, 16:30 körüli naplementére.",
+                "ro": "Atenție la apusul devreme, în jurul orei 16:30.",
+                "en": "Note the early sunset around 4:30 PM."
+              }
+            },
+            {
+              "name": "Royal Villa of Tsar Boris III",
+              "tip_5lang": {
+                "de": "Die Gärten wirken im Frost besonders edel.",
+                "hu": "A kertek a zúzmarában különösen elegánsak.",
+                "ro": "Grădinile arată deosebit de elegant în îngheț.",
+                "en": "The gardens look especially elegant in the frost."
+              }
+            },
+            {
+              "name": "Banya Winery",
+              "tip_5lang": {
+                "de": "Vörösbor und Kaminwärme sind der perfekte Abschluss.",
+                "hu": "A vörösbor és a kandalló melege a tökéletes zárás.",
+                "ro": "Vinul roșu și căldura șemineului sunt finalul perfect.",
+                "en": "Red wine and fireplace warmth are the perfect finale."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermo-Unterwäsche für den Spaziergang.",
+              "Ein Bademantel ist für den Weg zum Mineralbecken wichtig.",
+              "Die Sonne geht im Winter bereits gegen 16:30 Uhr unter.",
+              "Achten Sie auf vereiste Stellen auf den Gehwegen."
+            ],
+            "hu": [
+              "Viseljen termikus fehérneműt a sétához.",
+              "A fürdőköpeny elengedhetetlen a medencéhez vezető úton.",
+              "A nap télen már 16:30 körül lenyugszik.",
+              "Ügyeljen a járdák jeges szakaszaira."
+            ],
+            "ro": [
+              "Purtați lenjerie termică pentru plimbare.",
+              "Un halat de baie este esențial pentru drumul spre bazin.",
+              "Soarele apune deja în jur de ora 16:30 iarna.",
+              "Atenție la porțiunile înghețate de pe trotuare."
+            ],
+            "en": [
+              "Wear thermal underwear for the walk.",
+              "A bathrobe is essential for the walk to the pool.",
+              "The sun sets as early as 4:30 PM in winter.",
+              "Watch out for icy patches on the sidewalks."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -716,6 +934,206 @@
           "Bring a lock to secure your bike at the sights.",
           "Plan your route in advance to avoid steep hills unless you're looking for a challenge."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine nasse Radtour durch Banya erfordert Vorsicht. Wir starten im Park und radeln zur Villa, wobei wir Pfützen meiden. Das Highlight ist das lange Aufwärmen im Thermalbad und Museum. Die Tour endet nach einem Besuch des Denkmals und der Kirche bei der Weinkellerei, wo wir unsere Ausrüstung trocknen können.",
+            "hu": "Egy esős kerékpártúra Banyában óvatosságot igényel. A parkban kezdünk, majd a villához tekerünk, kerülgetve a tócsákat. A nap fénypontja a hosszú felmelegedés a fürdőben és a múzeumban. A túra az emlékmű és a templom érintése után a borászatnál ér véget, ahol megszáríthatjuk felszerelésünket.",
+            "ro": "O tură cu bicicleta prin Banya pe ploaie necesită prudență. Începem în parc și pedalăm spre vilă, evitând bălțile. Punctul culminant este încălzirea prelungită la băi și muzeu. Turul se încheie după vizitarea monumentului și a bisericii la vinărie, unde ne putem usca echipamentul.",
+            "en": "A rainy bike ride through Banya requires caution. We start in the park and cycle to the villa, avoiding puddles. The highlight is a long warm-up at the bath and museum. The tour ends at the winery after visiting the monument and church, where you can dry your gear."
+          },
+          "stops": [
+            {
+              "name": "Tsar Boris III Park",
+              "tip_5lang": {
+                "de": "Vorsicht, nasses Laub auf den Wegen ist rutschig.",
+                "hu": "Vigyázat, a vizes levelek az úton csúszósak.",
+                "ro": "Atenție, frunzele ude de pe alei sunt alunecoase.",
+                "en": "Caution, wet leaves on the paths are slippery."
+              }
+            },
+            {
+              "name": "Royal Villa of Tsar Boris III",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter einen Baum oder ein Vordach.",
+                "hu": "Parkolja a biciklit fa vagy előtető alá.",
+                "ro": "Parcați bicicleta sub un copac sau un copertină.",
+                "en": "Park your bike under a tree or an overhang."
+              }
+            },
+            {
+              "name": "Municipal Mineral Bath",
+              "tip_5lang": {
+                "de": "Sicherer Abstellplatz vorhanden; ideal zum Aufwärmen.",
+                "hu": "Biztonságos tároló elérhető; ideális a felmelegedéshez.",
+                "ro": "Parcare sigură disponibilă; ideal pentru încălzire.",
+                "en": "Safe storage available; ideal for warming up."
+              }
+            },
+            {
+              "name": "Historical Museum",
+              "tip_5lang": {
+                "de": "Geben Sie Ihre nasse Kleidung an der Garderobe ab.",
+                "hu": "Adja le vizes ruháit a ruhatárban.",
+                "ro": "Lăsați hainele ude la garderobă.",
+                "en": "Leave your wet clothes at the cloakroom."
+              }
+            },
+            {
+              "name": "Monument to the Founders",
+              "tip_5lang": {
+                "de": "Kurzer Stopp; Bremsweg auf nassem Asphalt ist länger.",
+                "hu": "Gyors megálló; a fékút vizes aszfalton hosszabb.",
+                "ro": "Oprire scurtă; distanța de frânare pe asfalt ud este mai mare.",
+                "en": "Quick stop; braking distance on wet asphalt is longer."
+              }
+            },
+            {
+              "name": "Church of St. Constantine and Helena",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich kurz.",
+                "hu": "Használja rövid ideig a fedett bejárati részt.",
+                "ro": "Folosiți pentru scurt timp zona de intrare acoperită.",
+                "en": "Use the covered entrance area briefly."
+              }
+            },
+            {
+              "name": "Banya Winery",
+              "tip_5lang": {
+                "de": "Belohnung für die tapfere Fahrt im Regen.",
+                "hu": "Jutalom a bátor esős tekerésért.",
+                "ro": "Răsplată pentru curajul de a pedala prin ploaie.",
+                "en": "Reward for the brave rainy ride."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie wasserdichte Packtaschen für Ihre Wertsachen.",
+              "Vermeiden Sie abrupte Bremsmanöver auf nassem Asphalt.",
+              "Helle Kleidung erhöht die Sichtbarkeit im Regen.",
+              "Die Thermalbäder sind ideal, um steife Glieder aufzuwärmen."
+            ],
+            "hu": [
+              "Használjon vízálló táskákat az értékeihez.",
+              "Kerülje a hirtelen fékezést vizes aszfalton.",
+              "A világos ruházat növeli a láthatóságot az esőben.",
+              "A fürdő ideális az elgémberedett tagok felmelegítésére."
+            ],
+            "ro": [
+              "Folosiți genți impermeabile pentru obiectele de valoare.",
+              "Evitați frânările bruște pe asfaltul ud.",
+              "Hainele deschise la culoare sporesc vizibilitatea pe ploaie.",
+              "Băile sunt ideale pentru a vă încălzi membrele amorțite."
+            ],
+            "en": [
+              "Use waterproof panniers for your valuables.",
+              "Avoid abrupt braking on wet asphalt.",
+              "Bright clothing increases visibility in the rain.",
+              "The baths are ideal for warming up stiff limbs."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Banya mit dem Rad im Winter ist eine sportliche Herausforderung. Der Park und die Villa wirken unter dem Frost verzaubert. Die Route ist darauf ausgelegt, zwischen den Fahrten maximale Aufwärmzeit im Thermalbad und Museum zu ermöglichen. Die Tour endet bei Einbruch der Dunkelheit in der warmen Atmosphäre der Weinkellerei.",
+            "hu": "Télen kerékpározni Banyában sportos kihívás. A park és a villa varázslatos a zúzmarában. Az útvonalat úgy terveztük, hogy a tekerések között maximális felmelegedési időt tölthessen a fürdőben és a múzeumban. A túra sötétedéskor ér véget a borászat meleg hangulatában.",
+            "ro": "Biciclitul în Banya iarna este o provocare sportivă. Parcul și vila par fermecate sub ger. Traseul este conceput pentru a permite timp maxim de încălzire la băi și muzeu între segmentele de pedalat. Turul se încheie la lăsarea întunericului în atmosfera caldă a vinăriei.",
+            "en": "Cycling Banya in winter is a sporting challenge. The park and villa look enchanted under the frost. The route is designed to allow maximum warm-up time at the bath and museum between rides. The tour ends at nightfall in the warm atmosphere of the winery."
+          },
+          "stops": [
+            {
+              "name": "Tsar Boris III Park",
+              "tip_5lang": {
+                "de": "Vorsicht vor überfrierender Nässe in Schattenbereichen.",
+                "hu": "Vigyázzon a lefagyásokra az árnyékos részeken.",
+                "ro": "Atenție la porțiunile de gheață din zonele umbrite.",
+                "en": "Watch out for black ice in shaded areas."
+              }
+            },
+            {
+              "name": "Royal Villa of Tsar Boris III",
+              "tip_5lang": {
+                "de": "Handschuhe beim Fotografieren nicht vergessen.",
+                "hu": "Ne felejtse el a kesztyűt fotózáskor.",
+                "ro": "Nu uitați mănușile când faceți poze.",
+                "en": "Don't forget gloves when taking photos."
+              }
+            },
+            {
+              "name": "Municipal Mineral Bath",
+              "tip_5lang": {
+                "de": "Der wichtigste Stopp, um die Körpertemperatur zu halten.",
+                "hu": "A legfontosabb megálló a testhőmérséklet megtartásához.",
+                "ro": "Cea mai importantă oprire pentru menținerea temperaturii corpului.",
+                "en": "The most important stop to maintain body temperature."
+              }
+            },
+            {
+              "name": "Historical Museum",
+              "tip_5lang": {
+                "de": "Gute Gelegenheit, die Finger wieder zu spüren.",
+                "hu": "Jó alkalom, hogy újra érezze az ujjait.",
+                "ro": "Oportunitate bună de a vă simți din nou degetele.",
+                "en": "Good opportunity to get feeling back in your fingers."
+              }
+            },
+            {
+              "name": "Monument to the Founders",
+              "tip_5lang": {
+                "de": "Kurz anhalten, Kälte zieht beim Stehen schnell ein.",
+                "hu": "Csak rövid megálló, állás közben gyorsan átfázik az ember.",
+                "ro": "Oprire scurtă, frigul pătrunde repede când staționați.",
+                "en": "Short stop, the cold sets in quickly when standing still."
+              }
+            },
+            {
+              "name": "Church of St. Constantine and Helena",
+              "tip_5lang": {
+                "de": "Innere Ruhe und Wärme finden.",
+                "hu": "Belső béke és melegség lelőhelye.",
+                "ro": "Găsiți liniștea interioară și căldura.",
+                "en": "Find inner peace and warmth."
+              }
+            },
+            {
+              "name": "Banya Winery",
+              "tip_5lang": {
+                "de": "Ein heißer Tee oder Wein zum Abschluss.",
+                "hu": "Egy forró tea vagy bor a záráshoz.",
+                "ro": "Un ceai fierbinte sau un vin la final.",
+                "en": "A hot tea or wine to finish."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie mehrere Schichten Kleidung (Zwiebelprinzip).",
+              "Winddichte Handschuhe und Ohrenschutz sind Pflicht.",
+              "Achten Sie auf verkürzte Tageslichtstunden.",
+              "Halten Sie die Fahrzeiten kurz und die Pausen im Warmen lang."
+            ],
+            "hu": [
+              "Réteges öltözködés javasolt (hagyma-elv).",
+              "Szélálló kesztyű és fülvédő kötelező.",
+              "Ügyeljen a rövidebb nappali órákra.",
+              "A tekerési idő legyen rövid, a melegben töltött szünet hosszú."
+            ],
+            "ro": [
+              "Se recomandă îmbrăcămintea în straturi.",
+              "Mănușile rezistente la vânt și protecția pentru urechi sunt obligatorii.",
+              "Atenție la orele reduse de lumină naturală.",
+              "Păstrați timpii de pedalat scurți și pauzele la căldură lungi."
+            ],
+            "en": [
+              "Wear multiple layers of clothing (onion principle).",
+              "Windproof gloves and ear protection are mandatory.",
+              "Be mindful of the shortened daylight hours.",
+              "Keep riding times short and warm breaks long."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1072,6 +1490,224 @@
           "A car gives you the flexibility to also visit nearby Thracian tombs in the Rose Valley if time permits.",
           "Be aware of road signs, which are sometimes only in Cyrillic."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Genießen Sie Banya bequem vom Auto aus, während es draußen regnet. Wir parken zentral für das Museum und das Denkmal. Das Thermalbad bietet eine perfekte Indoor-Aktivität. Später fahren wir zum Park und zur Villa, wobei wir die kurzen Wege zwischen Auto und Sehenswürdigkeit schätzen. Der Tag endet sicher und trocken bei der Weinkellerei.",
+            "hu": "Élvezze Banyát kényelmesen az autóból, miközben kint esik. Központilag parkolunk a múzeumhoz és az emlékműhöz. Az ásványvizes fürdő tökéletes benti program. Később a parkhoz és a villához hajtunk, értékelve a rövid távokat az autó és a látnivalók között. A nap biztonságban és szárazon ér véget a borászatnál.",
+            "ro": "Bucurați-vă de Banya confortabil din mașină în timp ce afară plouă. Parcăm central pentru muzeu și monument. Băile minerale oferă o activitate indoor perfectă. Mai târziu conducem spre parc și vilă, apreciind distanțele scurte între mașină și obiective. Ziua se încheie în siguranță și uscat la vinărie.",
+            "en": "Enjoy Banya comfortably from your car while it rains outside. We park centrally for the museum and monument. The mineral bath offers a perfect indoor activity. Later, drive to the park and villa, appreciating the short distances between the car and the sights. The day ends safely and dry at the winery."
+          },
+          "stops": [
+            {
+              "name": "Central Parking",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um nicht nass zu werden.",
+                "hu": "Parkoljon közel a bejárathoz, hogy ne ázzon meg.",
+                "ro": "Parcați aproape de intrare pentru a nu vă uda.",
+                "en": "Park close to the entrance to stay dry."
+              }
+            },
+            {
+              "name": "Monument to the Founders",
+              "tip_5lang": {
+                "de": "Schneller Fotostopp direkt vom Parkplatz aus.",
+                "hu": "Gyors fotómegálló közvetlenül a parkolóból.",
+                "ro": "Oprire rapidă pentru poze direct din parcare.",
+                "en": "Quick photo stop directly from the parking lot."
+              }
+            },
+            {
+              "name": "Historical Museum",
+              "tip_5lang": {
+                "de": "Ein schöner trockener Ort für Kultur.",
+                "hu": "Szép száraz hely a kultúrához.",
+                "ro": "Un loc uscat și frumos pentru cultură.",
+                "en": "A nice dry place for culture."
+              }
+            },
+            {
+              "name": "Municipal Mineral Bath",
+              "tip_5lang": {
+                "de": "Großer Parkplatz direkt vor der Tür.",
+                "hu": "Nagy parkoló közvetlenül az ajtó előtt.",
+                "ro": "Parcare mare chiar în fața ușii.",
+                "en": "Large parking lot right in front of the door."
+              }
+            },
+            {
+              "name": "Parking by the Park",
+              "tip_5lang": {
+                "de": "Idealer Ausgangspunkt für den Villenbesuch.",
+                "hu": "Ideális kiindulópont a villalátogatáshoz.",
+                "ro": "Punct de plecare ideal pentru vizitarea vilei.",
+                "en": "Ideal starting point for the villa visit."
+              }
+            },
+            {
+              "name": "Tsar Boris III Park",
+              "tip_5lang": {
+                "de": "Vom Auto aus die Aussicht auf die nassen Gärten genießen.",
+                "hu": "Az autóból élvezze a kilátást a vizes kertekre.",
+                "ro": "Bucurați-vă de vederea spre grădinile ude din mașină.",
+                "en": "Enjoy the view of the wet gardens from the car."
+              }
+            },
+            {
+              "name": "Royal Villa of Tsar Boris III",
+              "tip_5lang": {
+                "de": "Besichtigung im Trockenen möglich.",
+                "hu": "Szárazon megtekinthető.",
+                "ro": "Vizitarea este posibilă la adăpost.",
+                "en": "Viewing possible in the dry."
+              }
+            },
+            {
+              "name": "Banya Winery",
+              "tip_5lang": {
+                "de": "Einfaches Parken, entspannter Weinkauf.",
+                "hu": "Egyszerű parkolás, nyugodt borvásárlás.",
+                "ro": "Parcare ușoară, cumpărare relaxată de vin.",
+                "en": "Easy parking, relaxed wine shopping."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf den Landstraßen.",
+              "Lassen Sie keine nassen Regenschirme auf den Polstern liegen.",
+              "Nutzen Sie die Scheibenheizung gegen Beschlagen.",
+              "Parken Sie an gut beleuchteten Stellen."
+            ],
+            "hu": [
+              "Ügyeljen a vízre való felfutásra (aquaplaning) az utakon.",
+              "Ne hagyja a vizes esernyőket az üléseken.",
+              "Használja a szélvédőfűtést a párásodás ellen.",
+              "Parkoljon jól megvilágított helyeken."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumurile județene.",
+              "nu lăsați umbrelele ude pe scaunele mașinii.",
+              "Folosiți degivrarea pentru a evita aburirea geamurilor.",
+              "Parcați în locuri bine iluminate."
+            ],
+            "en": [
+              "Watch out for aquaplaning on the country roads.",
+              "Don't leave wet umbrellas on the upholstery.",
+              "Use the defroster to prevent window fogging.",
+              "Park in well-lit areas."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winter-Sightseeing in Banya ist mit dem Auto am angenehmsten. Wir steuern die beheizten Museen und Kirchen direkt an. Das absolute Highlight ist das Baden im heißen Quellwasser, während draußen der Frost klirrt. Dank des Autos sind wir flexibel und können vor der frühen Dunkelheit noch die königliche Villa besuchen, bevor wir uns in die Weinkellerei zurückziehen.",
+            "hu": "A téli városnézés Banyában autóval a legkellemesebb. Közvetlenül a fűtött múzeumokhoz és templomokhoz hajtunk. A fő attrakció a forró forrásvízben való fürdőzés, miközben kint repkednek a mínuszok. Az autónak köszönhetően rugalmasak vagyunk, a korai sötétedés előtt még meglátogatjuk a királyi villát, majd visszavonulunk a borászatba.",
+            "ro": "Vizitarea orașului Banya iarna este cea mai plăcută cu mașina. Mergem direct la muzeele și bisericile încălzite. Atractia principală este baia în apa termală fierbinte, în timp ce afară e ger. Datorită mașinii, suntem flexibili și putem vizita vila regală înainte de întunericul timpuriu, apoi ne retragem la vinărie.",
+            "en": "Winter sightseeing in Banya is most pleasant by car. We drive directly to the heated museums and churches. The absolute highlight is bathing in hot spring water while the frost bites outside. Thanks to the car, we are flexible and can visit the Royal Villa before the early darkness sets in, then retreat to the winery."
+          },
+          "stops": [
+            {
+              "name": "Central Parking",
+              "tip_5lang": {
+                "de": "Vorsicht vor glatten Stellen auf dem Parkplatz.",
+                "hu": "Vigyázzon a csúszós részekre a parkolóban.",
+                "ro": "Atenție la porțiunile alunecoase din parcare.",
+                "en": "Watch out for slippery patches in the parking lot."
+              }
+            },
+            {
+              "name": "Monument to the Founders",
+              "tip_5lang": {
+                "de": "Kurzer Ausstieg für ein schnelles Foto.",
+                "hu": "Gyors kiszállás egy fotó erejéig.",
+                "ro": "Ieșire scurtă pentru o poză rapidă.",
+                "en": "Short exit for a quick photo."
+              }
+            },
+            {
+              "name": "Historical Museum",
+              "tip_5lang": {
+                "de": "Gute Heizung, informative Ausstellung.",
+                "hu": "Jó fűtés, informatív kiállítás.",
+                "ro": "Încălzire bună, expoziție informativă.",
+                "en": "Good heating, informative exhibition."
+              }
+            },
+            {
+              "name": "Municipal Mineral Bath",
+              "tip_5lang": {
+                "de": "Lassen Sie das Auto vorheizen, während Sie baden.",
+                "hu": "Hagyja az autót bemelegedni, amíg fürdik.",
+                "ro": "Lăsați mașina să se încălzească în timp ce sunteți la baie.",
+                "en": "Let the car warm up while you bathe."
+              }
+            },
+            {
+              "name": "Parking by the Park",
+              "tip_5lang": {
+                "de": "Kann bei Schnee schwer befahrbar sein.",
+                "hu": "Hóban nehezebben járható lehet.",
+                "ro": "Poate fi greu accesibil în caz de zăpadă.",
+                "en": "Can be difficult to access in snow."
+              }
+            },
+            {
+              "name": "Tsar Boris III Park",
+              "tip_5lang": {
+                "de": "Winterliche Stille genießen.",
+                "hu": "Élvezze a téli csendet.",
+                "ro": "Bucurați-vă de liniștea iernii.",
+                "en": "Enjoy the winter silence."
+              }
+            },
+            {
+              "name": "Royal Villa of Tsar Boris III",
+              "tip_5lang": {
+                "de": "Wunderschöne Architektur im Winterlicht.",
+                "hu": "Gyönyörű építészet a téli fényben.",
+                "ro": "Arhitectură superbă în lumina iernii.",
+                "en": "Beautiful architecture in the winter light."
+              }
+            },
+            {
+              "name": "Banya Winery",
+              "tip_5lang": {
+                "de": "Genügend Platz für Weinkartons im Kofferraum.",
+                "hu": "Elegendő hely a boros dobozoknak a csomagtartóban.",
+                "ro": "Suficient loc pentru cutiile de vin în portbagaj.",
+                "en": "Plenty of room for wine boxes in the trunk."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen und Frostschutzmittel sind unerlässlich.",
+              "Fahren Sie vorsichtig bei Nebel oder Schneefall.",
+              "Ein Eiskratzer sollte griffbereit sein.",
+              "Die Batterieleistung sinkt bei extremer Kälte."
+            ],
+            "hu": [
+              "Téli gumi és fagyálló folyadék elengedhetetlen.",
+              "Vezessen óvatosan ködben vagy hóesésben.",
+              "A jégkaparó legyen kéznél.",
+              "Az akkumulátor teljesítménye csökken extrém hidegben."
+            ],
+            "ro": [
+              "Anvelopele de iarnă și antigelul sunt esențiale.",
+              "Conduceți cu atenție pe ceață sau ninsoare.",
+              "Răzuitoarea de gheață trebuie să fie la îndemână.",
+              "Performanța bateriei scade la frig extrem."
+            ],
+            "en": [
+              "Winter tires and antifreeze are essential.",
+              "Drive carefully in fog or snowfall.",
+              "An ice scraper should be handy.",
+              "Battery performance drops in extreme cold."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1392,6 +2028,188 @@
           "Keep an eye on your belongings on the bus and at busy stops.",
           "Ask locals or the bus driver if you're unsure about the right stop; most are happy to help."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den lokalen Bus, um Banya im Regen zu erkunden. Der Start erfolgt an der Zentralhaltestelle. Wir konzentrieren uns auf Indoor-Ziele wie das Museum und die Kirche. Mittags entspannen wir lange im Mineralbad, um dem Wetter zu entfliehen. Der Nachmittag im Park und an der Villa wird kurz gehalten, bevor wir den Tag gemütlich ausklingen lassen.",
+            "hu": "Használja a helyi buszt Banya felfedezéséhez esőben. A központi megállóból indulunk. A benti célpontokra koncentrálunk, mint a múzeum és a templom. Délben hosszan pihenünk az ásványvizes fürdőben, elmenekülve az időjárás elől. A délutáni parki és villalátogatást rövidre fogjuk, mielőtt kényelmesen lezárjuk a napot.",
+            "ro": "Folosiți autobuzul local pentru a explora Banya pe ploaie. Pornirea este de la stația centrală. Ne concentrăm pe destinații indoor, cum ar fi muzeul și biserica. La prânz ne relaxăm mult timp la băile minerale pentru a scăpa de vremea rea. Vizita de după-amiază la parc și vilă va fi scurtă, înainte de a încheia ziua confortabil.",
+            "en": "Use the local bus to explore Banya in the rain. Starting from the central stop, we focus on indoor targets like the museum and church. Midday is spent relaxing in the mineral bath to escape the weather. The afternoon park and villa visit is kept brief before a cozy end to the day."
+          },
+          "stops": [
+            {
+              "name": "Central Bus Stop",
+              "tip_5lang": {
+                "de": "Überdachtes Wartehäuschen vorhanden.",
+                "hu": "Fedett váróterem elérhető.",
+                "ro": "Adăpost acoperit disponibil.",
+                "en": "Covered waiting area available."
+              }
+            },
+            {
+              "name": "Historical Museum",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg von der Haltestelle.",
+                "hu": "Rövid séta a megállótól.",
+                "ro": "Drum scurt pe jos de la stație.",
+                "en": "Short walk from the stop."
+              }
+            },
+            {
+              "name": "Church of St. Constantine and Helena",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um den Regen abzuwarten.",
+                "hu": "Csendes hely az eső kivárásához.",
+                "ro": "Un loc liniștit pentru a aștepta oprirea ploii.",
+                "en": "A quiet place to wait out the rain."
+              }
+            },
+            {
+              "name": "Municipal Mineral Bath",
+              "tip_5lang": {
+                "de": "Warme Atmosphäre, während es draußen nass ist.",
+                "hu": "Meleg hangulat, miközben kint vizes minden.",
+                "ro": "Atmosferă caldă în timp ce afară e ud.",
+                "en": "Warm atmosphere while it's wet outside."
+              }
+            },
+            {
+              "name": "Tsar Boris III Park",
+              "tip_5lang": {
+                "de": "Wege bei Regen eventuell rutschig.",
+                "hu": "Esőben az utak csúszósak lehetnek.",
+                "ro": "Aleile pot fi alunecoase pe ploaie.",
+                "en": "Paths may be slippery in the rain."
+              }
+            },
+            {
+              "name": "Royal Villa of Tsar Boris III",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Rückfahrtzeiten im Voraus.",
+                "hu": "Ellenőrizze előre a visszautazási időket.",
+                "ro": "Verificați din timp orele de întoarcere.",
+                "en": "Check return times in advance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Halten Sie Kleingeld für das Ticket bereit.",
+              "Busse können bei Regen Verspätung haben.",
+              "Tragen Sie wasserfeste Kleidung für die Wege zwischen den Haltestellen.",
+              "Die Haltestellen sind meist in der Nähe der Hauptattraktionen."
+            ],
+            "hu": [
+              "Készítsen elő aprópénzt a jegyhez.",
+              "Esőben a buszok késhetnek.",
+              "Viseljen vízálló ruházatot a megállók közötti szakaszokra.",
+              "A megállók többnyire a fő látnivalók közelében vannak."
+            ],
+            "ro": [
+              "Pregătiți mărunțiș pentru bilet.",
+              "Autobuzele pot avea întârzieri pe ploaie.",
+              "Purtați haine impermeabile pentru drumul între stații.",
+              "Stațiile sunt în mare parte aproape de atracțiile principale."
+            ],
+            "en": [
+              "Have small change ready for the ticket.",
+              "Buses may be delayed in the rain.",
+              "Wear waterproof clothing for the walks between stops.",
+              "Stops are mostly near the main attractions."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterreise durch Banya mit öffentlichen Verkehrsmitteln. Wir starten frostig an der Zentralhaltestelle und wärmen uns schnell im Museum auf. Die Kirche bietet einen weiteren besinnlichen Stopp. Das absolute Highlight ist das lange Verweilen im heißen Thermalbad. Nachmittags besuchen wir den Park und die Villa, bevor uns der Bus rechtzeitig vor der Dunkelheit zurückbringt.",
+            "hu": "Téli utazás Banyában tömegközlekedéssel. Fagyosan indulunk a központi megállótól, és gyorsan felmelegedünk a múzeumban. A templom egy újabb meghitt megállót kínál. A nap fénypontja a hosszú időzés a forró ásványvizes fürdőben. Délután ellátogatunk a parkba és a villába, mielőtt a busz még sötétedés előtt visszavinne minket.",
+            "ro": "Călătorie de iarnă prin Banya cu transportul public. Începem cu frig la stația centrală și ne încălzim repede la muzeu. Biserica oferă o altă oprire liniștită. Punctul culminant este șederea prelungită la băile termale fierbinți. După-amiaza vizităm parcul și vila, înainte ca autobuzul să ne aducă înapoi înainte de lăsarea întunericului.",
+            "en": "Winter journey through Banya by public transport. We start frosty at the central stop and warm up quickly in the museum. The church offers another reflective stop. The absolute highlight is the long stay in the hot mineral bath. Visit the park and villa in the afternoon before the bus takes you back before dark."
+          },
+          "stops": [
+            {
+              "name": "Central Bus Stop",
+              "tip_5lang": {
+                "de": "Ziehen Sie sich warm an, das Warten kann kalt sein.",
+                "hu": "Öltözzön melegen, a várakozás hideg lehet.",
+                "ro": "Îmbrăcați-vă gros, așteptarea poate fi friguroasă.",
+                "en": "Dress warmly, waiting can be cold."
+              }
+            },
+            {
+              "name": "Historical Museum",
+              "tip_5lang": {
+                "de": "Ein schöner Ort, um die Kälte zu vergessen.",
+                "hu": "Szép hely, hogy elfelejtse a hideget.",
+                "ro": "Un loc frumos pentru a uita de frig.",
+                "en": "A nice place to forget the cold."
+              }
+            },
+            {
+              "name": "Church of St. Constantine and Helena",
+              "tip_5lang": {
+                "de": "Friedliche winterliche Atmosphäre.",
+                "hu": "Békés téli hangulat.",
+                "ro": "Atmosferă pașnică de iarnă.",
+                "en": "Peaceful winter atmosphere."
+              }
+            },
+            {
+              "name": "Municipal Mineral Bath",
+              "tip_5lang": {
+                "de": "Bester Stopp, um die Kälte aus den Knochen zu vertreiben.",
+                "hu": "A legjobb megálló, hogy kikergesse a hideget a csontjaiból.",
+                "ro": "Cea mai bună oprire pentru a scoate frigul din oase.",
+                "en": "Best stop to get the cold out of your bones."
+              }
+            },
+            {
+              "name": "Tsar Boris III Park",
+              "tip_5lang": {
+                "de": "Frühe Dämmerung verleiht dem Park einen besonderen Charme.",
+                "hu": "A korai szürkület különleges bájt ad a parknak.",
+                "ro": "Amurgul timpuriu oferă parcului un farmec deosebit.",
+                "en": "Early twilight gives the park a special charm."
+              }
+            },
+            {
+              "name": "Royal Villa of Tsar Boris III",
+              "tip_5lang": {
+                "de": "Prüfen Sie die letzten Busverbindungen.",
+                "hu": "Ellenőrizze az utolsó buszjáratokat.",
+                "ro": "Verificați ultimele curse de autobuz.",
+                "en": "Check the last bus connections."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Bedenken Sie eventuelle Fahrplanänderungen im Winter.",
+              "Halten Sie sich während der Wartezeit in Bewegung.",
+              "Die Busse sind in der Regel gut beheizt.",
+              "Planen Sie den Tag so, dass Sie vor 17 Uhr fertig sind."
+            ],
+            "hu": [
+              "Számoljon a téli menetrendi változásokkal.",
+              "Várakozás közben mozogjon, hogy ne fázzon meg.",
+              "A buszok általában jól fűtöttek.",
+              "Tervezze úgy a napot, hogy 17 óra előtt végezzen."
+            ],
+            "ro": [
+              "Luați în considerare eventualele modificări de program iarna.",
+              "Rămâneți în mișcare în timp ce așteptați.",
+              "Autobuzele sunt de regulă bine încălzite.",
+              "Planificați ziua astfel încât să terminați înainte de ora 17:00."
+            ],
+            "en": [
+              "Consider possible schedule changes in winter.",
+              "Keep moving while waiting to stay warm.",
+              "Buses are usually well-heated.",
+              "Plan the day to finish before 5 PM."
+            ]
+          }
+        }
       }
     }
   }

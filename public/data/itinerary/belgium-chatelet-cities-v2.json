@@ -402,6 +402,232 @@
           "Most sights are within easy walking distance of each other.",
           "Check museum opening times in advance."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt regnerisch am Perron-Platz, wo Regenschirme das Bild prägen. Das Rathaus und die Kirche bieten guten Schutz vor den Schauern.\nMittags erkunden wir das Haus der Töpferei im Trockenen. Magrittes Wohnhaus ist ein inspirierender Rückzugsort für den verregneten Nachmittag.\nAm Nachmittag wirkt der Stadtpark nach dem Regen frisch, doch die Wege sind oft rutschig. Ein kurzer Gang an der Sambre beendet den Tag.\nAbends spiegeln sich die Lichter in den Pfützen der Altstadt, während wir in einer gemütlichen Ecke einkehren.",
+            "hu": "Reggel az esernyők alatt kezdünk a Perron téren, ahol a nedves macskakő csillog. A Városháza és a közeli templom kiváló menedéket nyújt délelőtt.\nDélben a fazekasság házában merülünk el a helyi iparművészetben, távol az esőtől. Magritte szülőháza meghitt állomás a délutáni órákban.\nDélután a városi park zöldje friss az eső után, de a sétányok sárosak lehetnek. Rövid sétát teszünk a Sambre partján a szürkületben.\nEste a város fényei tükröződnek a folyón, a túra a belváros egyik meleg kávézójában ér véget.",
+            "ro": "Dimineața începe sub umbrele în Piața Perron, unde pavajul umed strălucește. Primăria și biserica oferă un adăpost excelent împotriva rafalelor.\nLa prânz vizităm Casa Olăritului, explorând tradiția locală la adăpost. Casa lui Magritte este o oprire perfectă pentru o după-amiază ploioasă.\nDupă-amiaza parcul municipal este proaspăt după ploaie, deși aleile pot fi noroioase. O scurtă plimbare pe malul râului Sambre încheie ziua.\nSeara luminile orașului se oglindesc în râu, încheind turul într-o atmosferă liniștită și umedă.",
+            "en": "Morning starts under umbrellas at Perron Square, with the wet cobblestones glistening. The Town Hall and church provide great shelter from showers.\nAt midday, we dive into local craft at the House of Pottery, staying dry indoors. Magritte's house is an intimate stop for a rainy afternoon.\nIn the afternoon, the park feels fresh after the rain, though paths might be muddy. A quick walk by the Sambre finishes the daylight hours.\nIn the evening, the city lights reflect on the river, and the tour ends near a cozy local spot."
+          },
+          "stops": [
+            {
+              "name": "Perron Square",
+              "tip_5lang": {
+                "de": "Regenschirm bereithalten, das Kopfsteinpflaster ist rutschig.",
+                "hu": "Esernyő javasolt, a macskakő esőben csúszós.",
+                "ro": "Umbrela recomandată, pavajul este alunecos.",
+                "en": "Umbrella recommended, the cobblestones are slippery."
+              }
+            },
+            {
+              "name": "Town Hall",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Eingangsbereich als trockenen Unterstand.",
+                "hu": "Használja a bejáratot száraz menedékként.",
+                "ro": "Folosiți intrarea ca adăpost uscat.",
+                "en": "Use the entrance area as a dry shelter."
+              }
+            },
+            {
+              "name": "Saints-Pierre-et-Paul Church",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um einen starken Schauer abzuwarten.",
+                "hu": "Tökéletes hely egy nagyobb zápor átvészelésére.",
+                "ro": "Locul perfect pentru a aștepta trecerea unei ploi.",
+                "en": "Perfect place to wait out a heavy shower."
+              }
+            },
+            {
+              "name": "Saint-Roch Chapel",
+              "tip_5lang": {
+                "de": "Kleiner Innenraum, bietet Schutz für wenige Personen.",
+                "hu": "Kicsi belső tér, csak pár embernek ad menedéket.",
+                "ro": "Spațiu mic, oferă adăpost pentru puține persoane.",
+                "en": "Small interior, provides shelter for a few people."
+              }
+            },
+            {
+              "name": "House of Pottery",
+              "tip_5lang": {
+                "de": "Ideales Ziel für regnerische Mittagsstunden.",
+                "hu": "Ideális célpont az esős déli órákban.",
+                "ro": "Destinație ideală pentru orele ploioase de prânz.",
+                "en": "Ideal destination for rainy midday hours."
+              }
+            },
+            {
+              "name": "René Magritte House",
+              "tip_5lang": {
+                "de": "Genießen Sie die Kunst, während es draußen regnet.",
+                "hu": "Élvezze a művészetet, amíg kint esik.",
+                "ro": "Bucurați-vă de artă în timp ce afară plouă.",
+                "en": "Enjoy the art while it rains outside."
+              }
+            },
+            {
+              "name": "Communal Park",
+              "tip_5lang": {
+                "de": "Wiesen meiden, auf befestigten Wegen bleiben.",
+                "hu": "Kerülje a füvet, maradjon a burkolt utakon.",
+                "ro": "Evitați iarba, rămâneți pe aleile pavate.",
+                "en": "Avoid grass, stay on the paved paths."
+              }
+            },
+            {
+              "name": "The Sambre River",
+              "tip_5lang": {
+                "de": "Vorsicht an der Kaimauer, sie kann glatt sein.",
+                "hu": "Vigyázat a rakparton, csúszós lehet.",
+                "ro": "Atenție pe chei, poate fi alunecos.",
+                "en": "Caution on the quay, it can be slick."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für das Kopfsteinpflaster.",
+              "Die Museen sind perfekte Rückzugsorte bei Dauerregen.",
+              "Regenschirme können in windigen Gassen hinderlich sein.",
+              "Warme Cafés in der Nähe der Sambre bieten Erholung.",
+              "Prüfen Sie Regenradare für kurze trockene Fenster."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a macskaköves utcákhoz.",
+              "A múzeumok tökéletes menedékek tartós esőben.",
+              "Az esernyő a szeles utcákban nehézkes lehet.",
+              "A Sambre közeli kávézók jó pihenőhelyek.",
+              "Nézze az esőradart a szárazabb időszakokért."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru străzile cu pavaj.",
+              "Muzeele sunt adăposturi perfecte în caz de ploaie continuă.",
+              "Umbrelele pot fi greu de manevrat pe străzile vântoase.",
+              "Cafenelele calde de lângă Sambre oferă relaxare.",
+              "Verificați radarul de ploaie pentru intervale uscate."
+            ],
+            "en": [
+              "Wear waterproof shoes for the cobblestone streets.",
+              "Museums are perfect sanctuaries during steady rain.",
+              "Umbrellas can be tricky in the windy alleys.",
+              "Warm cafes near the Sambre offer good respite.",
+              "Check rain radars for short dry windows."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen am Perron-Platz eröffnet den Tag. Die Kälte zieht durch die Gassen, doch das Rathaus strahlt Beständigkeit aus.\nDie Kirche bietet mittags eine stille, andächtige Wärme. Später tauchen wir in die Geschichte der Töpferei ein, um uns aufzuwärmen.\nAm Nachmittag besuchen wir das Magritte-Haus, bevor die Sonne früh hinter dem Horizont verschwindet.\nDer Winterabend an der Sambre ist kurz und klar, die Lichter der Stadt leuchten hell in der kalten Luft.",
+            "hu": "Deres reggel fogad a Perron téren. A hideg szél átjárja az utcákat, de a Városháza látványa kárpótol a fagyért.\nA templom délben csendes és viszonylag meleg menedéket nyújt. Később a fazekasok történetébe menekülünk a hideg elől.\nDélután Magritte házát keressük fel, mielőtt a nap korán eltűnik a horizont mögött.\nA téli este a Sambre partján rövid és tiszta, a város fényei élesen világítanak a fagyos levegőben.",
+            "ro": "O dimineață geroasă în Piața Perron deschide ziua. Frigul pătrunde pe străzi, dar Primăria oferă o imagine statornică.\nBiserica oferă la prânz o căldură liniștită și primitoare. Mai târziu, ne încălzim explorând istoria olăritului.\nDupă-amiaza vizităm casa lui Magritte înainte ca soarele să apună devreme la orizont.\nSeara de iarnă pe malul Sambre este scurtă și senină, luminile orașului strălucind în aerul rece.",
+            "en": "A frosty morning at Perron Square opens the day. The cold wind blows through the alleys, but the Town Hall stands firm.\nThe church offers a quiet, warm refuge at midday. Later, we retreat into the House of Pottery to escape the chill.\nIn the afternoon, we visit the Magritte House before the sun disappears early behind the horizon.\nThe winter evening by the Sambre is short and clear, with city lights shining brightly in the cold air."
+          },
+          "stops": [
+            {
+              "name": "Perron Square",
+              "tip_5lang": {
+                "de": "Warme Handschuhe sind bei Frost unverzichtbar.",
+                "hu": "A meleg kesztyű elengedhetetlen a fagyban.",
+                "ro": "Mănușile calde sunt indispensabile pe ger.",
+                "en": "Warm gloves are indispensable in the frost."
+              }
+            },
+            {
+              "name": "Town Hall",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Fassade kurz, dann weiter ins Warme.",
+                "hu": "Csodálja meg a homlokzatot, majd irány a meleg.",
+                "ro": "Admirați fațada scurt, apoi mergeți la căldură.",
+                "en": "Admire the facade briefly, then move to the warmth."
+              }
+            },
+            {
+              "name": "Saints-Pierre-et-Paul Church",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um sich kurz aufzuwärmen.",
+                "hu": "Csendes hely egy rövid melegedéshez.",
+                "ro": "Un loc liniștit pentru a vă încălzi puțin.",
+                "en": "A quiet place to warm up briefly."
+              }
+            },
+            {
+              "name": "Saint-Roch Chapel",
+              "tip_5lang": {
+                "de": "Oft zugig, halten Sie den Besuch kurz.",
+                "hu": "Gyakran huzatos, tartsa röviden a látogatást.",
+                "ro": "Adesea e curent, țineți vizita scurtă.",
+                "en": "Often drafty, keep the visit short."
+              }
+            },
+            {
+              "name": "House of Pottery",
+              "tip_5lang": {
+                "de": "Die Ausstellungsräume sind angenehm beheizt.",
+                "hu": "A kiállítóterek kellemesen fűtöttek.",
+                "ro": "Sălile de expoziție sunt încălzite plăcut.",
+                "en": "The exhibition rooms are pleasantly heated."
+              }
+            },
+            {
+              "name": "René Magritte House",
+              "tip_5lang": {
+                "de": "Besuch am frühen Nachmittag wegen des Lichts planen.",
+                "hu": "A fényviszonyok miatt kora délutánra tervezze.",
+                "ro": "Planificați vizita devreme pentru lumină mai bună.",
+                "en": "Plan your visit for early afternoon for the light."
+              }
+            },
+            {
+              "name": "Communal Park",
+              "tip_5lang": {
+                "de": "Vorsicht vor vereisten Stellen auf den Wegen.",
+                "hu": "Vigyázzon a jeges foltokkal az utakon.",
+                "ro": "Atenție la porțiunile înghețate de pe alei.",
+                "en": "Watch out for icy patches on the paths."
+              }
+            },
+            {
+              "name": "The Sambre River",
+              "tip_5lang": {
+                "de": "Der Wind am Wasser verstärkt die Kälte deutlich.",
+                "hu": "A vízparti szél jelentősen növeli a hideget.",
+                "ro": "Vântul de lângă apă accentuează mult frigul.",
+                "en": "The wind by the water significantly increases the cold."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Winter bereits gegen 17:00 Uhr unter.",
+              "Kopfsteinpflaster kann bei Frost extrem glatt sein.",
+              "Planen Sie regelmäßige Pausen in beheizten Museen ein.",
+              "Ein heißes Getränk am Perron-Platz hilft gegen die Kälte.",
+              "Tragen Sie mehrere Schichten Kleidung für die Gehstrecken."
+            ],
+            "hu": [
+              "A nap télen már 17:00 körül lenyugszik.",
+              "A macskakő fagyban rendkívül csúszós lehet.",
+              "Tervezzen rendszeres pihenőket a fűtött múzeumokban.",
+              "Egy forró ital a Perron téren segít a hideg ellen.",
+              "Réteges öltözködés javasolt a gyalogláshoz."
+            ],
+            "ro": [
+              "Soarele apune iarna deja în jurul orei 17:00.",
+              "Pavajul poate fi extrem de alunecos pe ger.",
+              "Planificați pauze regulate în muzeele încălzite.",
+              "O băutură fierbinte în Piața Perron ajută contra frigului.",
+              "Purtați mai multe straturi de haine pentru mersul pe jos."
+            ],
+            "en": [
+              "The sun sets as early as 5:00 PM in winter.",
+              "Cobblestones can be extremely slippery when frozen.",
+              "Plan regular breaks in heated museums.",
+              "A hot drink at Perron Square helps against the cold.",
+              "Wear multiple layers of clothing for the walking sections."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -775,6 +1001,214 @@
           "A small bike bag is useful for water and souvenirs.",
           "Plan your route, but be open to spontaneous detours."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein feuchter Start am Perron-Platz erfordert volle Konzentration auf dem Rad. Das Rathaus dient als kurzer Stopp.\nMittags erreichen wir die Kirche, während die Reifen auf dem nassen Asphalt singen. Das Haus der Töpferei bietet trockene Erholung.\nAm Nachmittag führt die Route am Magritte-Haus vorbei zum Park, wo die Wege weich und schlammig sind.\nDie Fahrt entlang der Sambre ist im Regen atmosphärisch, erfordert aber Vorsicht bei Kurven und Bremsmanövern.",
+            "hu": "Nedves kezdés a Perron téren, ami teljes figyelmet követel a kerékpáron. A Városháza csak rövid pihenő.\nDélben érjük el a templomot, miközben a gumik suhognak a vizes aszfalton. A fazekasok háza száraz pihenőt ad.\nDélután az út Magritte háza mellett vezet a parkba, ahol az utak felázottak és sárosak lehetnek.\nA Sambre menti tekerés esőben hangulatos, de óvatosságot igényel a kanyarokban és fékezéskor.",
+            "ro": "Un început umed în Piața Perron necesită concentrare maximă pe bicicletă. Primăria servește ca oprire scurtă.\nLa prânz ajungem la biserică, în timp ce pneurile foșnesc pe asfaltul ud. Casa Olăritului oferă un răgaz uscat.\nDupă-amiaza traseul trece pe lângă casa lui Magritte spre parc, unde aleile sunt moi și noroioase.\nPlimbarea pe malul Sambre e atmosferică pe ploaie, dar cere prudență în curbe și la frânare.",
+            "en": "A damp start at Perron Square requires full concentration on the bike. The Town Hall serves as a brief stop.\nAt midday, we reach the church while tires hum on the wet asphalt. The House of Pottery offers dry respite.\nIn the afternoon, the route passes Magritte's house toward the park, where paths are soft and muddy.\nThe ride along the Sambre is atmospheric in the rain but requires caution during turns and braking."
+          },
+          "stops": [
+            {
+              "name": "Perron Square",
+              "tip_5lang": {
+                "de": "Vorsicht beim Anfahren auf dem nassen Pflaster.",
+                "hu": "Vigyázzon az elindulásnál a vizes köveken.",
+                "ro": "Atenție la plecarea de pe loc pe pavajul ud.",
+                "en": "Be careful when starting on the wet pavement."
+              }
+            },
+            {
+              "name": "Town Hall",
+              "tip_5lang": {
+                "de": "Kurzer Halt unter dem Dach möglich.",
+                "hu": "Rövid megálló az eresz alatt lehetséges.",
+                "ro": "Scurtă oprire posibilă sub streașină.",
+                "en": "Short stop possible under the eaves."
+              }
+            },
+            {
+              "name": "Saints-Pierre-et-Paul Church",
+              "tip_5lang": {
+                "de": "Fahrrad sicher und trocken abstellen.",
+                "hu": "Parkoljon le biztonságos és száraz helyen.",
+                "ro": "Parcați bicicleta într-un loc sigur și uscat.",
+                "en": "Park your bike in a safe and dry spot."
+              }
+            },
+            {
+              "name": "House of Pottery",
+              "tip_5lang": {
+                "de": "Längere Pause einplanen, um Kleidung zu trocknen.",
+                "hu": "Tervezzen hosszabb pihenőt a ruhák szárításához.",
+                "ro": "Planificați o pauză lungă pentru uscarea hainelor.",
+                "en": "Plan a longer break to dry your clothes."
+              }
+            },
+            {
+              "name": "René Magritte House",
+              "tip_5lang": {
+                "de": "Gute Abstellmöglichkeiten direkt vor dem Haus.",
+                "hu": "Jó parkolási lehetőség közvetlenül a ház előtt.",
+                "ro": "Posibilități bune de parcare chiar în fața casei.",
+                "en": "Good parking options right in front of the house."
+              }
+            },
+            {
+              "name": "Communal Park",
+              "tip_5lang": {
+                "de": "Vorsicht vor tiefen Pfützen auf den Parkwegen.",
+                "hu": "Vigyázzon a mély tócsákkal a parkban.",
+                "ro": "Atenție la bălțile adânci de pe aleile parcului.",
+                "en": "Watch out for deep puddles on the park paths."
+              }
+            },
+            {
+              "name": "Bike ride along the Sambre",
+              "tip_5lang": {
+                "de": "Schutzbleche sind hier absolut notwendig.",
+                "hu": "A sárvédő itt elengedhetetlen.",
+                "ro": "Aripile la roți sunt absolut necesare aici.",
+                "en": "Mudguards are absolutely necessary here."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie scharfe Bremsmanöver auf nassem Metall.",
+              "Wasserfeste Packtaschen schützen Ihre Wertsachen.",
+              "Die Uferwege können durch Laub besonders rutschig sein.",
+              "Prüfen Sie vorab die Funktion Ihrer Bremsbeläge.",
+              "Tragen Sie auffällige Regenkleidung für bessere Sicht."
+            ],
+            "hu": [
+              "Kerülje az erős fékezést a vizes fémtárgyakon.",
+              "Vízálló táskák védik az értékeit.",
+              "A parti utak a levelek miatt nagyon csúszhatnak.",
+              "Ellenőrizze a fékbetéteket indulás előtt.",
+              "Viseljen feltűnő esőruhát a láthatóságért."
+            ],
+            "ro": [
+              "Evitați frânările bruște pe suprafețele metalice ude.",
+              "Gențile impermeabile vă protejează obiectele de valoare.",
+              "Drumurile de mal pot fi alunecoase din cauza frunzelor.",
+              "Verificați saboții de frână înainte de plecare.",
+              "Purtați haine de ploaie stridente pentru vizibilitate."
+            ],
+            "en": [
+              "Avoid sharp braking on wet metal surfaces.",
+              "Waterproof panniers protect your valuables.",
+              "River paths can be extra slippery due to leaves.",
+              "Check your brake pads before starting.",
+              "Wear bright rain gear for better visibility."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die frostige Luft am Morgen macht die Fahrt zum Perron-Platz wachrüttelnd. Das Rathaus wirkt im Winterlicht besonders streng.\nMittags suchen wir die Wärme der Kirche, bevor wir weiter zum Haus der Töpferei radeln. Die Finger werden trotz Handschuhen kalt.\nAm Nachmittag besuchen wir das Magritte-Haus, während die Schatten der Bäume im Park länger werden.\nDie Rückfahrt entlang der Sambre findet in der blauen Stunde statt, der eiskalte Wind weht direkt vom Wasser herüber.",
+            "hu": "A fagyos reggeli levegő frissítővé teszi a tekerést a Perron térig. A Városháza szigorúnak tűnik a téli fényben.\nDélben a templom melegét keressük, mielőtt a fazekasok házához hajtanánk. Az ujjak a kesztyű ellenére is kihűlnek.\nDélután Magritte házát látogatjuk meg, miközben a park fáinak árnyéka egyre hosszabb lesz.\nA visszaút a Sambre mentén a kék órában történik, a jéghideg szél közvetlenül a víz felől fúj.",
+            "ro": "Aerul înghețat de dimineață face plimbarea spre Piața Perron revigorantă. Primăria pare severă în lumina iernii.\nLa prânz căutăm căldura bisericii înainte de a pedala spre Casa Olăritului. Degetele îngheață în ciuda mănușilor.\nDupă-amiaza vizităm casa lui Magritte, în timp ce umbrele copacilor din parc devin tot mai lungi.\nÎntoarcerea pe malul Sambre are loc în ora albastră, vântul înghețat suflând direct de peste apă.",
+            "en": "The frosty morning air makes the ride to Perron Square wakeful. The Town Hall looks particularly stern in the winter light.\nAt midday, we seek the warmth of the church before cycling to the House of Pottery. Fingers get cold despite gloves.\nIn the afternoon, we visit the Magritte House as the shadows of the trees in the park grow longer.\nThe return ride along the Sambre happens in the blue hour, with the icy wind blowing directly from the water."
+          },
+          "stops": [
+            {
+              "name": "Perron Square",
+              "tip_5lang": {
+                "de": "Vorsicht vor überfrierender Nässe in den Fugen.",
+                "hu": "Vigyázzon a fugákban megfagyott nedvességgel.",
+                "ro": "Atenție la umezeala înghețată dintre rosturi.",
+                "en": "Beware of frozen moisture in the joints."
+              }
+            },
+            {
+              "name": "Town Hall",
+              "tip_5lang": {
+                "de": "Die Fahrt hierher ist kurz, aber windig.",
+                "hu": "Az ideút rövid, de szeles.",
+                "ro": "Drumul până aici este scurt, dar vântos.",
+                "en": "The ride here is short but windy."
+              }
+            },
+            {
+              "name": "Saints-Pierre-et-Paul Church",
+              "tip_5lang": {
+                "de": "Kurze Aufwärmpause ohne Fahrradhelm möglich.",
+                "hu": "Rövid melegedés sisak nélkül lehetséges.",
+                "ro": "Scurtă pauză de încălzire posibilă fără cască.",
+                "en": "Short warm-up break possible without a helmet."
+              }
+            },
+            {
+              "name": "House of Pottery",
+              "tip_5lang": {
+                "de": "Sichere Fahrradständer sind vorhanden.",
+                "hu": "Biztonságos kerékpártárolók állnak rendelkezésre.",
+                "ro": "Sunt disponibile rastele sigure pentru biciclete.",
+                "en": "Secure bike racks are available."
+              }
+            },
+            {
+              "name": "René Magritte House",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis beim Absteigen.",
+                "hu": "Ügyeljen a jegesedésre a leszálláskor.",
+                "ro": "Atenție la gheață când descălecați.",
+                "en": "Watch out for ice when dismounting."
+              }
+            },
+            {
+              "name": "Communal Park",
+              "tip_5lang": {
+                "de": "Manche Parkwege werden im Winter nicht geräumt.",
+                "hu": "Néhány parki utat nem takarítanak télen.",
+                "ro": "Unele alei din parc nu sunt deszăpezite iarna.",
+                "en": "Some park paths are not cleared in winter."
+              }
+            },
+            {
+              "name": "Bike ride along the Sambre",
+              "tip_5lang": {
+                "de": "Tragen Sie ein Thermo-Stirnband unter dem Helm.",
+                "hu": "Viseljen termo-pántot a sisak alatt.",
+                "ro": "Purtați o bentiță termică sub cască.",
+                "en": "Wear a thermal headband under your helmet."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Akku von E-Bikes entlädt sich bei Kälte schneller.",
+              "Vermeiden Sie bei Frost das Waschen des Rades.",
+              "Warme Schuhüberzieher schützen vor dem kalten Fahrtwind.",
+              "Das Tageslicht endet im Winter bereits um 17:00 Uhr.",
+              "Die Uferwege können durch Reif glatt sein."
+            ],
+            "hu": [
+              "Az e-bike akkumulátora gyorsabban merül hidegben.",
+              "Kerülje a kerékpár mosását fagyos időben.",
+              "A meleg kamásli véd a hideg menetszéltől.",
+              "A nappali fény télen már 17:00-kor véget ér.",
+              "A parti utak a dértől csúszósak lehetnek."
+            ],
+            "ro": [
+              "Acumulatorul bicicletelor electrice se descarcă mai repede.",
+              "Evitați spălarea bicicletei pe timp de ger.",
+              "Husele calde pentru pantofi protejează de vântul rece.",
+              "Lumina zilei se termină iarna deja la ora 17:00.",
+              "Drumurile de mal pot fi lunecoase din cauza chiciurei."
+            ],
+            "en": [
+              "E-bike batteries drain faster in the cold.",
+              "Avoid washing your bike in freezing temperatures.",
+              "Warm shoe covers protect against cold wind.",
+              "Daylight ends as early as 5:00 PM in winter.",
+              "River paths can be slick with frost."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1154,6 +1588,214 @@
           "Do not leave valuables visible in the car.",
           "Plan for extra time to find parking."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten am zentralen Parkplatz, während der Regen gegen die Scheiben trommelt. Der Perron-Platz wird nur kurz besucht.\nMittags fahren wir zum Rathaus und zur Kirche, wobei wir immer nah an den Zielen parken. Das Haus der Töpferei ist ein trockener Hort.\nAm Nachmittag geht es zum Magritte-Haus, danach blicken wir aus dem warmen Auto auf den Stadtpark.\nDer Tag endet mit einer Fahrt entlang der Sambre, wobei die Wischer im Rhythmus des Regens arbeiten.",
+            "hu": "A központi parkolóban kezdünk, miközben az eső a szélvédőn kopog. A Perron teret csak röviden keressük fel.\nDélben a Városháza és a templom felé hajtunk, mindig a célpontok közelében parkolva. A fazekasok háza száraz menedék.\nDélután Magritte házához megyünk, majd a meleg autóból nézzük a városi parkot.\nA nap a Sambre menti autózással zárul, az ablaktörlők az eső ritmusára járnak.",
+            "ro": "Începem în parcarea centrală, în timp ce ploaia bate în parbriz. Piața Perron este vizitată doar scurt.\nLa prânz conducem spre Primărie și biserică, parcând mereu aproape de obiective. Casa Olăritului este un refugiu uscat.\nDupă-amiaza mergem la casa lui Magritte, apoi privim parcul orașului din mașina caldă.\nZiua se încheie cu o plimbare cu mașina pe lângă Sambre, ștergătoarele lucrând în ritmul ploii.",
+            "en": "We start at the central parking as rain drums against the windshield. Perron Square is visited only briefly.\nAt midday, we drive toward the Town Hall and church, always parking close to the targets. The House of Pottery is a dry haven.\nIn the afternoon, we head to the Magritte House, then look at the park from the warmth of the car.\nThe day ends with a drive along the Sambre, with wipers working in the rhythm of the rain."
+          },
+          "stops": [
+            {
+              "name": "Central Parking (Cluster A)",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Ausgang, um trocken zu bleiben.",
+                "hu": "Parkoljon a kijárathoz közel, hogy száraz maradjon.",
+                "ro": "Parcați aproape de ieșire pentru a rămâne uscat.",
+                "en": "Park close to the exit to stay dry."
+              }
+            },
+            {
+              "name": "Perron Square",
+              "tip_5lang": {
+                "de": "Kurzer Ausstieg mit Schirm für Fotos.",
+                "hu": "Rövid kiszállás ernyővel a fotókhoz.",
+                "ro": "Coborâre scurtă cu umbrela pentru poze.",
+                "en": "Short exit with an umbrella for photos."
+              }
+            },
+            {
+              "name": "Town Hall",
+              "tip_5lang": {
+                "de": "Begrenzte Parkplätze direkt vor dem Gebäude.",
+                "hu": "Korlátozott parkolás közvetlenül az épület előtt.",
+                "ro": "Parcare limitată chiar în fața clădirii.",
+                "en": "Limited parking right in front of the building."
+              }
+            },
+            {
+              "name": "Saints-Pierre-et-Paul Church",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkbuchten in den Seitenstraßen.",
+                "hu": "Használja az oldalsó utcák parkolóit.",
+                "ro": "Folosiți locurile de parcare de pe străzile laterale.",
+                "en": "Use the parking bays in the side streets."
+              }
+            },
+            {
+              "name": "House of Pottery (Cluster B)",
+              "tip_5lang": {
+                "de": "Großer, oft freier Parkplatz direkt am Museum.",
+                "hu": "Nagy, gyakran szabad parkoló a múzeumnál.",
+                "ro": "Parcare mare, adesea liberă, chiar la muzeu.",
+                "en": "Large, often vacant parking lot right at the museum."
+              }
+            },
+            {
+              "name": "René Magritte House",
+              "tip_5lang": {
+                "de": "Parken in der blauen Zone, Parkscheibe nicht vergessen.",
+                "hu": "Kék zónás parkolás, ne felejtse el a tárcsát.",
+                "ro": "Parcare în zona albastră, nu uitați discul.",
+                "en": "Blue zone parking, don't forget the parking disc."
+              }
+            },
+            {
+              "name": "Communal Park & The Sambre River",
+              "tip_5lang": {
+                "de": "Fahrt am Flussufer bietet schöne Ausblicke im Regen.",
+                "hu": "A folyóparti autózás szép kilátást nyújt esőben.",
+                "ro": "Plimbarea cu mașina pe mal oferă vederi frumoase.",
+                "en": "Driving along the river offers nice views in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass die Wischerblätter in gutem Zustand sind.",
+              "Vermeiden Sie das Parken unter Bäumen bei Sturmgefahr.",
+              "Die Sicht kann in engen Einbahnstraßen eingeschränkt sein.",
+              "Nutzen Sie die Parkhäuser für längere Trockenphasen.",
+              "Achten Sie auf Fußgänger mit Regenschirmen."
+            ],
+            "hu": [
+              "Győződjön meg az ablaktörlők jó állapotáról.",
+              "Kerülje a fák alatti parkolást viharveszélyben.",
+              "A kilátás korlátozott lehet a szűk utcákban.",
+              "Használja a parkolóházakat a szárazabb szakaszokhoz.",
+              "Ügyeljen az esernyős gyalogosokra."
+            ],
+            "ro": [
+              "Asigurați-vă că lamelele ștergătoarelor sunt bune.",
+              "Evitați parcarea sub copaci dacă e risc de furtună.",
+              "Vizibilitatea poate fi redusă pe străzile înguste.",
+              "Folosiți parcările supraetajate pentru a rămâne uscați.",
+              "Atenție la pietonii cu umbrele."
+            ],
+            "en": [
+              "Ensure windshield wipers are in good condition.",
+              "Avoid parking under trees during storm warnings.",
+              "Visibility can be limited in narrow one-way streets.",
+              "Use parking garages for longer dry periods.",
+              "Watch out for pedestrians with umbrellas."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kalter Morgen beginnt am vorgeheizten Auto. Der Perron-Platz liegt unter einer feinen Reifschicht.\nMittags steuern wir das Rathaus und die Kirche an, die Heizung sorgt für behagliche Pausen zwischen den Stopps.\nIm Haus der Töpferei und im Magritte-Haus verbringen wir mehr Zeit, um der klirrenden Kälte draußen zu entgehen.\nZum Sonnenuntergang fahren wir an den Stadtpark und die Sambre, wobei die tiefstehende Sonne die Eiskristalle glitzern lässt.",
+            "hu": "Hideg reggel indul az előmelegített autóban. A Perron teret finom dérréteg borítja.\nDélben a Városháza és a templom felé vesszük az irányt, a fűtés kellemes pihenőt ad a megállók között.\nA fazekasok házában és Magritte otthonában több időt töltünk, hogy elkerüljük a kinti csípős hideget.\nNaplementekor a városi parkhoz és a Sambre-hoz hajtunk, a lemenő nap megcsillantja a jégkristályokat.",
+            "ro": "O dimineață rece începe în mașina preîncălzită. Piața Perron este acoperită de un strat fin de chiciură.\nLa prânz ne îndreptăm spre Primărie și biserică, încălzirea oferind pauze confortabile între opriri.\nPetrecem mai mult timp în Casa Olăritului și în casa lui Magritte pentru a evita frigul tăios de afară.\nLa apus conducem spre parcul orașului și Sambre, soarele jos făcând cristalele de gheață să sclipească.",
+            "en": "A cold morning begins in the preheated car. Perron Square is covered in a fine layer of frost.\nAt midday, we head to the Town Hall and church, with the heater providing cozy breaks between stops.\nWe spend more time in the House of Pottery and the Magritte House to escape the biting cold outside.\nAt sunset, we drive to the park and the Sambre, as the low sun makes the ice crystals sparkle."
+          },
+          "stops": [
+            {
+              "name": "Central Parking (Cluster A)",
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Anziehen der Handbremse bei starkem Frost.",
+                "hu": "Erős fagyban kerülje a kézifék behúzását.",
+                "ro": "Evitați tragerea frânei de mână pe ger puternic.",
+                "en": "Avoid engaging the handbrake in severe frost."
+              }
+            },
+            {
+              "name": "Perron Square",
+              "tip_5lang": {
+                "de": "Achten Sie auf glatte Stellen beim Aussteigen.",
+                "hu": "Ügyeljen a csúszós részekre a kiszálláskor.",
+                "ro": "Atenție la zonele alunecoase când coborâți.",
+                "en": "Watch out for slippery spots when exiting."
+              }
+            },
+            {
+              "name": "Town Hall",
+              "tip_5lang": {
+                "de": "Fenster kurz lüften, um Beschlagen zu vermeiden.",
+                "hu": "Szellőztessen röviden a párásodás ellen.",
+                "ro": "Aerisiți scurt pentru a evita aburirea geamurilor.",
+                "en": "Ventilate briefly to prevent fogging."
+              }
+            },
+            {
+              "name": "Saints-Pierre-et-Paul Church",
+              "tip_5lang": {
+                "de": "Motor nicht unnötig im Stand laufen lassen.",
+                "hu": "Ne járassa feleslegesen a motort álló helyzetben.",
+                "ro": "Nu lăsați motorul pornit inutil pe loc.",
+                "en": "Don't leave the engine idling unnecessarily."
+              }
+            },
+            {
+              "name": "House of Pottery (Cluster B)",
+              "tip_5lang": {
+                "de": "Parkplatz wird im Winter meist gut geräumt.",
+                "hu": "A parkolót télen általában jól takarítják.",
+                "ro": "Parcarea este de obicei bine deszăpezită iarna.",
+                "en": "The parking lot is usually well-cleared in winter."
+              }
+            },
+            {
+              "name": "René Magritte House",
+              "tip_5lang": {
+                "de": "Parkscheibe bereitlegen, Zeitlimits gelten auch im Winter.",
+                "hu": "Készítse ki a tárcsát, az időlimit télen is él.",
+                "ro": "Pregătiți discul, limitele de timp se aplică și iarna.",
+                "en": "Get the disc ready, time limits apply in winter too."
+              }
+            },
+            {
+              "name": "Communal Park & The Sambre River",
+              "tip_5lang": {
+                "de": "Vorsicht vor Blitzeis auf der Uferstraße.",
+                "hu": "Vigyázzon az ónos esővel a parti úton.",
+                "ro": "Atenție la polei pe drumul de pe mal.",
+                "en": "Beware of black ice on the river road."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Führen Sie einen Eiskratzer und Frostschutzmittel mit.",
+              "Die Batteriekapazität sinkt bei extremer Kälte.",
+              "Prüfen Sie den Reifendruck bei Temperaturabfall.",
+              "Das Licht für Fotos ist gegen 15:00 Uhr am besten.",
+              "Winterreifen sind in Belgien bei Frost ratsam."
+            ],
+            "hu": [
+              "Tartson jégkaparót és fagyállót az autóban.",
+              "Az akkumulátor kapacitása csökken a hidegben.",
+              "Ellenőrizze a guminyomást a lehűléskor.",
+              "A fotózáshoz a fény 15:00 körül a legjobb.",
+              "A téli gumi javasolt a belga fagyokban."
+            ],
+            "ro": [
+              "Aveți la îndemână o răzuitoare și antigel.",
+              "Capacitatea bateriei scade pe ger extrem.",
+              "Verificați presiunea roților la scăderea temperaturii.",
+              "Lumina pentru poze este optimă în jurul orei 15:00.",
+              "Anvelopele de iarnă sunt recomandate pe ger în Belgia."
+            ],
+            "en": [
+              "Keep an ice scraper and antifreeze in the car.",
+              "Battery capacity decreases in extreme cold.",
+              "Check tire pressure when temperatures drop.",
+              "Light for photos is best around 3:00 PM.",
+              "Winter tires are advisable during Belgian frosts."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1509,6 +2151,196 @@
           "Keep small change handy for tickets if buying from the driver.",
           "Signal the driver when you want to get off at your stop."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir nutzen den Bus zur zentralen Haltestelle, während der Regen draußen herabströmt. Der Perron-Platz ist nur einen kurzen Sprint entfernt.\nDank der guten Anbindung erreichen wir die Kirche trocken. Mittags steuern wir das Poterie-Viertel an, wo wir im Museum Schutz suchen.\nAm Nachmittag erkunden wir das Magritte-Haus ausgiebig. Der Stadtpark wird zwischen zwei Regenschauern kurz besucht.\nDer Abend endet mit der Rückfahrt im beleuchteten Bus, während die Regentropfen an den Fenstern herablaufen.",
+            "hu": "A buszt használjuk a központi megállóig, miközben kint szakad az eső. A Perron tér csak egy rövid sprintre van.\nA jó összeköttetésnek hála szárazon érjük el a templomot. Délben a fazekas negyedbe utazunk, ahol a múzeumban pihenünk.\nDélután alaposan felfedezzük Magritte házát. A városi parkot két zápor között látogatjuk meg röviden.\nA nap a kivilágított buszon tett hazaúttal zárul, miközben az esőcseppek lefolynak az ablakon.",
+            "ro": "Folosim autobuzul până la stația centrală, în timp ce afară plouă torențial. Piața Perron este la doar un scurt sprint distanță.\nDatorită conexiunilor bune, ajungem uscați la biserică. La prânz mergem în cartierul olăritului, unde ne adăpostim în muzeu.\nDupă-amiaza explorăm pe îndelete casa lui Magritte. Parcul orașului este vizitat scurt între două averse.\nSeara se încheie cu drumul de întoarcere în autobuzul luminat, în timp ce picăturile de ploaie se scurg pe geamuri.",
+            "en": "We use the bus to reach the central stop while rain pours outside. Perron Square is just a short sprint away.\nThanks to good connections, we reach the church dry. At midday, we travel to the pottery district, finding shelter in the museum.\nIn the afternoon, we explore the Magritte House thoroughly. The park is visited briefly between two showers.\nThe evening ends with the ride back in the lit bus, as raindrops run down the windows."
+          },
+          "stops": [
+            {
+              "name": "Central Stop (Cluster A)",
+              "tip_5lang": {
+                "de": "Warten Sie im Wartehäuschen, bis der Bus kommt.",
+                "hu": "Várjon a buszmegálló fedett részén.",
+                "ro": "Așteptați în stația acoperită până vine autobuzul.",
+                "en": "Wait in the shelter until the bus arrives."
+              }
+            },
+            {
+              "name": "Perron Square & Town Hall",
+              "tip_5lang": {
+                "de": "Weg zur Haltestelle bei Regen einplanen.",
+                "hu": "Számoljon a megállóig tartó úttal az esőben.",
+                "ro": "Calculați drumul până la stație prin ploaie.",
+                "en": "Factor in the walk to the stop during rain."
+              }
+            },
+            {
+              "name": "Saints-Pierre-et-Paul Church",
+              "tip_5lang": {
+                "de": "Haltestelle liegt direkt gegenüber, kaum Fußweg.",
+                "hu": "A megálló közvetlenül szemben van, alig kell gyalogolni.",
+                "ro": "Stația este chiar vizavi, drum scurt pe jos.",
+                "en": "The stop is right opposite, minimal walking needed."
+              }
+            },
+            {
+              "name": "Poterie Stop (Cluster B)",
+              "tip_5lang": {
+                "de": "Überdachter Bereich schützt beim Umsteigen.",
+                "hu": "Fedett rész véd az átszállásnál.",
+                "ro": "Zona acoperită protejează la transbordare.",
+                "en": "Covered area protects during transfers."
+              }
+            },
+            {
+              "name": "House of Pottery & René Magritte House",
+              "tip_5lang": {
+                "de": "Perfekte Kombi für regnerische Stunden.",
+                "hu": "Tökéletes kombináció az esős órákra.",
+                "ro": "Combinație perfectă pentru orele ploioase.",
+                "en": "Perfect combination for rainy hours."
+              }
+            },
+            {
+              "name": "Communal Park",
+              "tip_5lang": {
+                "de": "Bushaltestelle bietet Schutz bei plötzlichem Regen.",
+                "hu": "A buszmegálló védelmet ad hirtelen esőben.",
+                "ro": "Stația de autobuz oferă adăpost în caz de ploaie bruscă.",
+                "en": "The bus stop provides shelter during sudden rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Böden in Bussen können bei Regen extrem rutschig sein.",
+              "Prüfen Sie Verspätungen über die App des Betreibers (TEC).",
+              "Halten Sie Ihr Ticket griffbereit, um im Regen nicht zu suchen.",
+              "Die Busse sind meist gut beheizt und trocken.",
+              "Tragen Sie bei schlechter Sicht reflektierende Elemente."
+            ],
+            "hu": [
+              "A buszok padlója esőben nagyon csúszós lehet.",
+              "Ellenőrizze a késéseket a szolgáltató (TEC) alkalmazásában.",
+              "Tartsa készenlétben a jegyét, hogy ne az esőben keresse.",
+              "A buszok általában jól fűtöttek és szárazak.",
+              "Rossz látási viszonyoknál viseljen fényvisszaverőt."
+            ],
+            "ro": [
+              "Podeaua autobuzelor poate fi foarte alunecoasă pe ploaie.",
+              "Verificați întârzierile în aplicația operatorului (TEC).",
+              "Țineți biletul la îndemână pentru a nu-l căuta în ploaie.",
+              "Autobuzele sunt de obicei bine încălzite și uscate.",
+              "Purtați elemente reflectorizante pentru vizibilitate."
+            ],
+            "en": [
+              "Bus floors can be extremely slippery in the rain.",
+              "Check for delays via the operator's app (TEC).",
+              "Keep your ticket handy to avoid searching in the rain.",
+              "Buses are usually well-heated and dry.",
+              "Wear reflective elements for better visibility."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Wir starten am frostigen Morgen mit dem Bus zur Stadtmitte. Der Perron-Platz ist im Winterlicht ein schönes Fotomotiv.\nMittags bietet die Fahrt zum Poterie-Viertel eine willkommene Aufwärmpause. Die Museen sind die Highlights an diesem kalten Tag.\nAm Nachmittag besuchen wir das Magritte-Haus, bevor wir den Park im frühen Zwielicht erreichen.\nDer Abend endet mit der Fahrt durch die beleuchteten Straßen von Châtelet, während es draußen immer kälter wird.",
+            "hu": "Fagyos reggelen indulunk busszal a városközpontba. A Perron tér szép fotótéma a téli fényben.\nDélben a fazekas negyedbe tartó buszút kellemes melegedést kínál. A múzeumok a hideg nap fénypontjai.\nDélután Magritte házát keressük fel, mielőtt a parkot elérnénk a korai szürkületben.\nA nap a kivilágított Châtelet utcáin át tett buszúttal zárul, miközben kint egyre hidegebb lesz.",
+            "ro": "Începem dimineața geroasă cu autobuzul spre centrul orașului. Piața Perron e un motiv foto frumos în lumina iernii.\nLa prânz, drumul cu autobuzul spre cartierul olăritului oferă o pauză de încălzire. Muzeele sunt atracțiile zilei.\nDupă-amiaza vizităm casa lui Magritte înainte de a ajunge în parc în amurgul timpuriu.\nSeara se încheie cu drumul prin străzile iluminate din Châtelet, în timp ce afară se face tot mai frig.",
+            "en": "We start the frosty morning by bus to the city center. Perron Square is a beautiful photo motif in the winter light.\nAt midday, the bus ride to the pottery district offers a welcome warm-up break. Museums are the highlights of this cold day.\nIn the afternoon, we visit the Magritte House before reaching the park in the early twilight.\nThe evening ends with the bus ride through the lit streets of Châtelet, as it gets colder outside."
+          },
+          "stops": [
+            {
+              "name": "Central Stop (Cluster A)",
+              "tip_5lang": {
+                "de": "Fahrpläne können bei extremem Schneefall abweichen.",
+                "hu": "A menetrend erős havazásnál eltérhet.",
+                "ro": "Orarele pot varia în caz de ninsoare abundentă.",
+                "en": "Schedules may vary during heavy snowfall."
+              }
+            },
+            {
+              "name": "Perron Square & Town Hall",
+              "tip_5lang": {
+                "de": "Gehwege zur Haltestelle können vereist sein.",
+                "hu": "A megállóhoz vezető utak jegesek lehetnek.",
+                "ro": "Aleile spre stație pot fi înghețate.",
+                "en": "Walkways to the stop can be icy."
+              }
+            },
+            {
+              "name": "Saints-Pierre-et-Paul Church",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Wartezeit für einen Blick in die Kirche.",
+                "hu": "Használja a várakozási időt a templom megtekintésére.",
+                "ro": "Folosiți timpul de așteptare pentru a vedea biserica.",
+                "en": "Use the waiting time for a look into the church."
+              }
+            },
+            {
+              "name": "Poterie Stop (Cluster B)",
+              "tip_5lang": {
+                "de": "Zentraler Umsteigepunkt, gut beleuchtet.",
+                "hu": "Központi átszállópont, jól kivilágított.",
+                "ro": "Punct central de transbordare, bine iluminat.",
+                "en": "Central transfer point, well-lit."
+              }
+            },
+            {
+              "name": "House of Pottery & René Magritte House",
+              "tip_5lang": {
+                "de": "Zwischen den Museen nur kurzer Fußweg nötig.",
+                "hu": "A múzeumok között csak rövid séta szükséges.",
+                "ro": "Între muzee este necesar doar un drum scurt pe jos.",
+                "en": "Only a short walk needed between the museums."
+              }
+            },
+            {
+              "name": "Communal Park",
+              "tip_5lang": {
+                "de": "Letzter Bus vor der Dunkelheit nehmen.",
+                "hu": "Vegye igénybe az utolsó buszt sötétedés előtt.",
+                "ro": "Luați ultimul autobuz înainte de lăsarea întunericului.",
+                "en": "Take the last bus before darkness falls."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Busse sind im Winter angenehm geheizt.",
+              "Prüfen Sie den Winterfahrplan der TEC-Linien.",
+              "Tragen Sie warme Schuhe für die Wartezeiten an Haltestellen.",
+              "Die Sonne geht im Winter bereits gegen 17:00 Uhr unter.",
+              "Nutzen Sie Kontaktloses Bezahlen, um Kälte zu vermeiden."
+            ],
+            "hu": [
+              "A buszok télen kellemesen fűtöttek.",
+              "Ellenőrizze a TEC járatok téli menetrendjét.",
+              "Viseljen meleg cipőt a megállókban való várakozáshoz.",
+              "A nap télen már 17:00 körül lenyugszik.",
+              "Használjon érintésmentes fizetést a hidegben való kotorászás helyett."
+            ],
+            "ro": [
+              "Autobuzele sunt încălzite plăcut iarna.",
+              "Verificați orarul de iarnă al liniilor TEC.",
+              "Purtați încălțăminte caldă pentru așteptarea în stații.",
+              "Soarele apune iarna deja în jurul orei 17:00.",
+              "Folosiți plata contactless pentru a evita căutarea banilor pe ger."
+            ],
+            "en": [
+              "Buses are pleasantly heated in winter.",
+              "Check the winter schedule for TEC lines.",
+              "Wear warm shoes for waiting at bus stops.",
+              "The sun sets as early as 5:00 PM in winter.",
+              "Use contactless payment to avoid fumbling with cash in the cold."
+            ]
+          }
+        }
       }
     }
   }

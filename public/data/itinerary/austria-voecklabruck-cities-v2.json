@@ -322,6 +322,188 @@
           "Most sights are located close to each other.",
           "Look out for the information boards on historic buildings."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Vormittags bieten die Torbögen am Stadtplatz guten Schutz vor dem Regen. Mittags verweilen wir länger in der Stadtpfarrkirche und den Türmen, um trocken zu bleiben. Der Nachmittag gehört dem Museum, das ein ideales Indoor-Programm bietet. Zum Abschluss spazieren wir durch den feuchten Schlosspark Wagrain, wo die alten Bäume natürlichen Schutz bieten.",
+            "hu": "Délelőtt a főtér árkádjai alatt hűsölhetünk az eső elől. Délben a plébániatemplom és a városkapuk nyújtanak fedett menedéket. A délutáni program a helytörténeti múzeumban ideális választás, hiszen két órát is eltölthetünk bent szárazon. A napot a Wagrain-kastély parkjában zárjuk, ahol az esőben is különleges a hangulat.",
+            "ro": "Dimineața, arcadele din piața centrală oferă un adăpost excelent împotriva ploii. La prânz, vizităm biserica parohială și turnurile pentru a rămâne la uscat. După-amiaza este dedicată muzeului, o opțiune indoor perfectă pentru 100 de minute. Încheiem ziua în parcul Castelului Wagrain, unde atmosfera ploioasă oferă un farmec melancolic.",
+            "en": "Morning starts under the protective arches of the main square. At noon, the church and towers provide dry havens from the drizzle. The afternoon museum visit is a perfect indoor retreat for nearly two hours. We conclude at Wagrain Castle, where the park's dense trees offer some shelter from the raindrops."
+          },
+          "stops": [
+            {
+              "name": "Lower City Tower & Main Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden am Stadtplatz als trockenen Unterstand.",
+                "hu": "Használja a főtér árkádjait száraz menedékként.",
+                "ro": "Folosiți arcadele din piața centrală ca adăpost uscat.",
+                "en": "Use the main square's arches as a dry shelter."
+              }
+            },
+            {
+              "name": "Parish Church of St. Ulrich",
+              "tip_5lang": {
+                "de": "Ein ruhiger, warmer Ort, um den stärksten Regen abzuwarten.",
+                "hu": "Csendes, meleg hely a legnagyobb eső kivárására.",
+                "ro": "Un loc liniștit și cald pentru a aștepta trecerea ploii.",
+                "en": "A quiet, warm place to wait out the heaviest rain."
+              }
+            },
+            {
+              "name": "City Towers (Wolfgang and Water Tower)",
+              "tip_5lang": {
+                "de": "Die massiven Mauern bieten Schutz vor Wind und Nässe.",
+                "hu": "A masszív falak védelmet nyújtanak a szél és az eső ellen.",
+                "ro": "Zidurile masive oferă protecție împotriva vântului și ploii.",
+                "en": "The massive walls offer protection from wind and rain."
+              }
+            },
+            {
+              "name": "Vöcklabruck Local History Museum",
+              "tip_5lang": {
+                "de": "Das perfekte 100-minütige Indoor-Programm bei Dauerregen.",
+                "hu": "Tökéletes 100 perces beltéri program tartós eső esetén.",
+                "ro": "Programul indoor perfect de 100 de minute în caz de ploaie.",
+                "en": "The perfect 100-minute indoor activity during steady rain."
+              }
+            },
+            {
+              "name": "Lunch in the City Center",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit Garderobe für nasse Mäntel.",
+                "hu": "Válasszon ruhatárral rendelkező éttermet a vizes kabátoknak.",
+                "ro": "Alegeți un restaurant cu garderobă pentru hainele ude.",
+                "en": "Choose a restaurant with a cloakroom for wet coats."
+              }
+            },
+            {
+              "name": "Wagrain Castle & Park",
+              "tip_5lang": {
+                "de": "Vorsicht auf den Parkwegen, diese können rutschig sein.",
+                "hu": "Vigyázat a parki utakon, esőben csúszósak lehetnek.",
+                "ro": "Atenție pe aleile parcului, pot fi alunecoase pe ploaie.",
+                "en": "Careful on the park paths, they can be slippery in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Regenschirm ist am Stadtplatz wegen Windböen wichtig.",
+              "Die Passage zum Museum ist teilweise überdacht.",
+              "Tragen Sie wasserfeste Schuhe für den Schlosspark.",
+              "Die Stadtpfarrkirche bietet eine gute Pause im Trockenen."
+            ],
+            "hu": [
+              "A főtéren a szél miatt érdemes erős esernyőt használni.",
+              "A múzeumhoz vezető út részben fedett.",
+              "Vízálló cipő ajánlott a kastélypark sárga útjaihoz.",
+              "A plébániatemplom kiváló hely egy száraz pihenőhöz."
+            ],
+            "ro": [
+              "O umbrelă rezistentă este necesară din cauza vântului din piață.",
+              "Pasajul către muzeu este parțial acoperit.",
+              "Purtați încălțăminte impermeabilă pentru parcul castelului.",
+              "Biserica parohială oferă un popas bun la uscat."
+            ],
+            "en": [
+              "A sturdy umbrella is essential due to wind gusts in the square.",
+              "The passage to the museum is partially covered.",
+              "Wear waterproof shoes for the castle park paths.",
+              "The parish church provides a great dry resting spot."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen am Stadtplatz ist oft frostig, aber die Türme wirken im Rauhreif märchenhaft. Mittags wärmen wir uns in der Stadtpfarrkirche auf, bevor wir zum Museum weiterziehen. Dort verbringen wir die kälteste Zeit des Tages in beheizten Räumen. Da es früh dunkel wird, besuchen wir das Schloss Wagrain bei stimmungsvoller Dämmerung.",
+            "hu": "A téli reggel a főtéren gyakran deres, de a tornyok látványa ilyenkor mesés. Délben a plébániatemplomban melegszünk fel, mielőtt a múzeumba indulnánk. Ott a nap leghidegebb óráit fűtött termekben töltjük. Mivel korán sötétedik, a Wagrain-kastélyt már a hangulatos szürkületben fedezzük fel.",
+            "ro": "Dimineața de iarnă în piața centrală este adesea geroasă, dar turnurile arată de basm sub promoroacă. La prânz ne încălzim în biserica parohială înainte de a merge la muzeu. Acolo petrecem cele mai reci ore ale zilei în săli încălzite. Deoarece se întunecă devreme, vizităm Castelul Wagrain în amurgul atmosferic.",
+            "en": "The winter morning on the main square is often frosty, making the towers look like something from a fairy tale. At noon, we warm up in the parish church before heading to the museum. There, we spend the coldest hours in heated galleries. As darkness falls early, we visit Wagrain Castle in the atmospheric twilight."
+          },
+          "stops": [
+            {
+              "name": "Lower City Tower & Main Square",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die verschneiten Fassaden.",
+                "hu": "Élvezze a kilátást a havas homlokzatokra.",
+                "ro": "Bucurați-vă de vederea fațadelor înzăpezite.",
+                "en": "Enjoy the view of the snow-covered facades."
+              }
+            },
+            {
+              "name": "Parish Church of St. Ulrich",
+              "tip_5lang": {
+                "de": "Ein windgeschützter Ort für eine kurze Aufwärmpause.",
+                "hu": "Szélvédett hely egy rövid felmelegedéshez.",
+                "ro": "Un loc ferit de vânt pentru o scurtă pauză de încălzire.",
+                "en": "A wind-sheltered spot for a short warm-up break."
+              }
+            },
+            {
+              "name": "City Towers (Wolfgang and Water Tower)",
+              "tip_5lang": {
+                "de": "Vorsicht bei Glätte auf dem Kopfsteinpflaster.",
+                "hu": "Vigyázat, a macskakő télen csúszós lehet.",
+                "ro": "Atenție la polei pe pavajul de piatră cubică.",
+                "en": "Watch out for ice on the cobblestone pavement."
+              }
+            },
+            {
+              "name": "Vöcklabruck Local History Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe für schwere Wintermäntel.",
+                "hu": "Használja a ruhatárat a nehéz téli kabátokhoz.",
+                "ro": "Folosiți garderoba pentru hainele groase de iarnă.",
+                "en": "Use the cloakroom for heavy winter coats."
+              }
+            },
+            {
+              "name": "Lunch in the City Center",
+              "tip_5lang": {
+                "de": "Probieren Sie eine heiße Frittatensuppe zum Aufwärmen.",
+                "hu": "Kóstoljon meg egy forró húslevest a felmelegedéshez.",
+                "ro": "Încercați o supă fierbinte pentru a vă încălzi.",
+                "en": "Try a hot pancake soup (Frittatensuppe) to warm up."
+              }
+            },
+            {
+              "name": "Wagrain Castle & Park",
+              "tip_5lang": {
+                "de": "Der Park schließt bei Dunkelheit oft früher.",
+                "hu": "A park sötétedéskor gyakran korábban bezár.",
+                "ro": "Parcul se închide adesea mai devreme după lăsarea întunericului.",
+                "en": "The park often closes earlier after sunset."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Dezember bereits gegen 16:15 Uhr unter.",
+              "Tragen Sie warme Winterschuhe für das Kopfsteinpflaster.",
+              "Kaffeehäuser am Stadtplatz sind ideal für Zwischenstopps.",
+              "Das Museum ist gut beheizt und bietet Schutz vor Kälte."
+            ],
+            "hu": [
+              "Decemberben a nap már 16:15 körül lemegy.",
+              "Viseljen meleg téli cipőt a macskaköves utcákhoz.",
+              "A főtéri kávézók ideálisak egy-egy köztes pihenőre.",
+              "A múzeum jól fűtött, kiváló menedék a hideg elől."
+            ],
+            "ro": [
+              "În decembrie, soarele apune deja în jurul orei 16:15.",
+              "Purtați încălțăminte călduroasă pentru străzile pavate.",
+              "Cafenelele din piață sunt ideale pentru scurte pauze.",
+              "Muzeul este bine încălzit și oferă protecție contra frigului."
+            ],
+            "en": [
+              "In December, the sun sets as early as 16:15.",
+              "Wear warm winter shoes for the cobblestone streets.",
+              "Coffee houses on the main square are ideal for pit stops.",
+              "The museum is well-heated and offers shelter from the cold."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -622,6 +804,188 @@
           "Lock your bike securely at the main sights.",
           "Some alleys in the old town are narrow, ride carefully."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour beginnt am Stadtplatz, wo wir die Räder unter den Arkaden parken können. Mittags radeln wir vorsichtig zur Dörflkirche, da das Kopfsteinpflaster rutschig ist. Nach dem Museumsbesuch, bei dem die Räder im Innenhof sicher stehen, führt der Weg am Vöcklaufer entlang. Die Tour endet am Schloss Wagrain, bevor der Regen stärker wird.",
+            "hu": "A kerékpártúra a főtéren indul, ahol az árkádok alatt parkolhatunk. Délben óvatosan tekerünk a Dörflkirche felé, mert a macskakő csúszik. A múzeumlátogatás után, ahol a bringák az udvaron biztonságban vannak, a Vöckla partján haladunk tovább. A túrát a Wagrain-kastélynál zárjuk, mielőtt eleredne az eső.",
+            "ro": "Turul cu bicicleta începe în piață, unde putem parca sub arcade. La prânz pedalăm cu atenție spre biserica Dörflkirche, deoarece pavajul este alunecos. După vizita la muzeu, unde bicicletele stau în siguranță în curte, drumul continuă pe malul râului Vöckla. Încheiem la Castelul Wagrain înainte ca ploaia să se intensifice.",
+            "en": "The bike tour starts at the main square, where we can park under the arches. At noon, we cycle carefully to Dörflkirche as the cobblestones get slippery. After the museum visit, with bikes safely parked in the courtyard, the route follows the Vöckla riverbank. We finish at Wagrain Castle before the rain picks up."
+          },
+          "stops": [
+            {
+              "name": "Start at the Main Square",
+              "tip_5lang": {
+                "de": "Parken Sie unter den Arkaden, um den Sattel trocken zu halten.",
+                "hu": "Parkoljon az árkádok alatt, hogy száraz maradjon a nyereg.",
+                "ro": "Parcați sub arcade pentru a păstra șaua uscată.",
+                "en": "Park under the arches to keep your saddle dry."
+              }
+            },
+            {
+              "name": "City Towers",
+              "tip_5lang": {
+                "de": "Vorsicht beim Abbiegen auf nassem Kopfsteinpflaster.",
+                "hu": "Vigyázat a kanyarodáskor a nedves macskakövön.",
+                "ro": "Atenție la viraje pe pavajul umed.",
+                "en": "Be careful when turning on wet cobblestones."
+              }
+            },
+            {
+              "name": "Dörflkirche Church",
+              "tip_5lang": {
+                "de": "Der Vorplatz bietet wenig Schutz, halten Sie sich kurz.",
+                "hu": "Az előtér kevés védelmet nyújt, ne időzzön sokat kint.",
+                "ro": "Piațeta oferă puțin adăpost, nu staționați mult afară.",
+                "en": "The forecourt offers little shelter, keep your stay brief."
+              }
+            },
+            {
+              "name": "Local Museum & Parish Church",
+              "tip_5lang": {
+                "de": "Überdachte Fahrradständer im Museumshof nutzen.",
+                "hu": "Használja a fedett biciklitárolót a múzeum udvarán.",
+                "ro": "Folosiți rastelele acoperite din curtea muzeului.",
+                "en": "Use the covered bike racks in the museum courtyard."
+              }
+            },
+            {
+              "name": "Lunch break on the Vöckla riverbank",
+              "tip_5lang": {
+                "de": "Der Uferweg kann bei Regen matschig sein.",
+                "hu": "A folyóparti út esőben sáros lehet.",
+                "ro": "Drumul de pe malul râului poate fi noroios pe ploaie.",
+                "en": "The riverbank path can be muddy in the rain."
+              }
+            },
+            {
+              "name": "Wagrain Castle",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den großen Bäumen am Parkeingang.",
+                "hu": "Keressen menedéket a parkbejárat nagy fái alatt.",
+                "ro": "Căutați adăpost sub copacii mari de la intrarea în parc.",
+                "en": "Seek shelter under the large trees at the park entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine wasserfeste Regenjacke und Regenhose.",
+              "Prüfen Sie Ihre Bremsen, da sie bei Nässe später greifen.",
+              "Das Kopfsteinpflaster im Zentrum ist bei Regen extrem glatt.",
+              "Nutzen Sie Schutzbleche, um Schlammspritzer zu vermeiden."
+            ],
+            "hu": [
+              "Viseljen vízálló esőkabátot és esőnadrágot.",
+              "Ellenőrizze a fékeket, mert nedvesen lassabban fognak.",
+              "A belvárosi macskakő esőben rendkívül csúszós.",
+              "Használjon sárvédőt a felverődő sár ellen."
+            ],
+            "ro": [
+              "Purtați o jachetă și pantaloni de ploaie impermeabili.",
+              "Verificați frânele, deoarece acționează mai greu pe ud.",
+              "Pavajul din centru este extrem de alunecos pe ploaie.",
+              "Folosiți apărători de noroi pentru a evita stropirea."
+            ],
+            "en": [
+              "Wear a waterproof rain jacket and rain pants.",
+              "Check your brakes, as they respond slower when wet.",
+              "The central cobblestones are extremely slippery in the rain.",
+              "Use mudguards to avoid splashes."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens am Stadtplatz sind die Temperaturen oft unter dem Gefrierpunkt, warme Handschuhe sind Pflicht. Mittags führt die kurze Fahrt zur Dörflkirche durch die klare Winterluft. Den Nachmittag verbringen wir größtenteils im beheizten Museum, um die Kälte zu meiden. Die Tour endet bei Sonnenuntergang am Schloss Wagrain, wenn die Lichter der Stadt angehen.",
+            "hu": "Reggel a főtéren a hőmérséklet gyakran fagypont alatt van, a meleg kesztyű kötelező. Délben a rövid út a Dörflkirchéhez a tiszta téli levegőn vezet. A délután nagy részét a fűtött múzeumban töltjük, kerülve a hideget. A túra naplementekor ér véget a Wagrain-kastélynál, amikor kigyúlnak a város fényei.",
+            "ro": "Dimineața în piață, temperaturile sunt adesea sub îngheț, mănușile groase sunt obligatorii. La prânz, scurta plimbare spre Dörflkirche se face prin aerul curat de iarnă. Petrecem după-amiaza mai ales în muzeul încălzit pentru a evita frigul. Turul se încheie la apus la Castelul Wagrain, când se aprind luminile orașului.",
+            "en": "In the morning at the square, temperatures are often below freezing; warm gloves are a must. At noon, the short ride to Dörflkirche takes us through crisp winter air. We spend most of the afternoon in the heated museum to escape the cold. The tour ends at sunset at Wagrain Castle, as the city lights begin to flicker on."
+          },
+          "stops": [
+            {
+              "name": "Start at the Main Square",
+              "tip_5lang": {
+                "de": "Achten Sie auf Reifglätte am frühen Morgen.",
+                "hu": "Ügyeljen a hajnali zúzmarás csúszós utakra.",
+                "ro": "Atenție la polei la primele ore ale dimineții.",
+                "en": "Watch out for frost and slippery spots in the early morning."
+              }
+            },
+            {
+              "name": "City Towers",
+              "tip_5lang": {
+                "de": "Brisk radeln, um warm zu bleiben.",
+                "hu": "Tekerjen tempósan, hogy melegen tartsa magát.",
+                "ro": "Pedalați vioi pentru a vă menține căldura.",
+                "en": "Cycle briskly to stay warm."
+              }
+            },
+            {
+              "name": "Dörflkirche Church",
+              "tip_5lang": {
+                "de": "Kurzer Stopp, um die Finger nicht auszukühlen.",
+                "hu": "Rövid megálló, hogy ne hűljenek ki az ujjai.",
+                "ro": "Oprire scurtă pentru a nu vă îngheța degetele.",
+                "en": "Short stop to keep your fingers from getting too cold."
+              }
+            },
+            {
+              "name": "Local Museum & Parish Church",
+              "tip_5lang": {
+                "de": "Lange Aufwärmpause im Inneren einplanen.",
+                "hu": "Tervezzen hosszú melegedő szünetet odabent.",
+                "ro": "Planificați o pauză lungă de încălzire în interior.",
+                "en": "Plan a long warm-up break inside."
+              }
+            },
+            {
+              "name": "Lunch break on the Vöckla riverbank",
+              "tip_5lang": {
+                "de": "Suchen Sie einen Platz mit direkter Sonneneinstrahlung.",
+                "hu": "Keressen közvetlen napsütötte helyet a pihenőhöz.",
+                "ro": "Căutați un loc cu expunere directă la soare.",
+                "en": "Look for a spot with direct sunlight for your break."
+              }
+            },
+            {
+              "name": "Wagrain Castle",
+              "tip_5lang": {
+                "de": "Licht am Fahrrad für den Rückweg kontrollieren.",
+                "hu": "Ellenőrizze a világítást a hazaúthoz.",
+                "ro": "Verificați luminile bicicletei pentru drumul de întoarcere.",
+                "en": "Check your bike lights for the ride back."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Zwiebelprinzip bei der Kleidung schützt vor Fahrtwind.",
+              "Akku von E-Bikes hält bei Kälte deutlich kürzer.",
+              "Vorsicht vor gefrierender Nässe auf Brücken über die Vöckla.",
+              "Licht bereits ab 16:00 Uhr einschalten."
+            ],
+            "hu": [
+              "A réteges öltözködés véd a menetszél ellen.",
+              "Az e-bike akkumulátora hidegben sokkal gyorsabban merül.",
+              "Vigyázat a lefagyott utakkal a Vöckla hídjain.",
+              "A világítást már 16:00 órától kapcsolja be."
+            ],
+            "ro": [
+              "Îmbrăcămintea în straturi protejează împotriva vântului.",
+              "Bateria bicicletelor electrice se descarcă mult mai repede la frig.",
+              "Atenție la polei pe podurile peste râul Vöckla.",
+              "Aprindeți luminile încă de la ora 16:00."
+            ],
+            "en": [
+              "Layered clothing protects against the wind chill.",
+              "E-bike batteries drain much faster in the cold.",
+              "Watch out for black ice on the bridges over the Vöckla.",
+              "Turn on your lights as early as 16:00."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -898,6 +1262,170 @@
           "Almost everything is within walking distance in the center.",
           "Pay attention to parking fees and times."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Dank der Tiefgarage am Stadtplatz erreichen wir das Zentrum trockenen Fußes. Vormittags besichtigen wir die Highlights am Platz, bevor wir zum Museumsviertel fahren, wo wir direkt vor der Tür parken können. Das Mittagessen genießen wir gemütlich im warmen Zentrum. Den Tag lassen wir mit einer kurzen Fahrt zum Schloss Wagrain ausklingen, wobei das Auto als trockener Rückzugsort dient.",
+            "hu": "A főtéri mélygarázsnak köszönhetően száraz lábbal érjük el a központot. Délelőtt a tér látnivalóit nézzük meg, majd átgurulunk a múzeumi negyedbe, ahol az ajtó előtt parkolhatunk. Az ebédet kényelmesen a meleg belvárosban költjük el. A napot egy rövid autózással zárjuk a Wagrain-kastélyhoz, ahol az autó biztos menedék az eső elől.",
+            "ro": "Datorită parcării subterane din piață, ajungem în centru fără să ne udăm. Dimineața vizităm atracțiile din piață, apoi mergem spre cartierul muzeelor, unde putem parca chiar în față. Prânzul îl savurăm în centrul cald. Încheiem ziua cu o scurtă cursă spre Castelul Wagrain, mașina fiind un refugiu uscat între obiective.",
+            "en": "Thanks to the underground parking at the main square, we reach the center dry. In the morning, we see the square's highlights before driving to the museum quarter, where we can park right out front. We enjoy a cozy lunch in the warm center. The day ends with a short drive to Wagrain Castle, using the car as a dry retreat between stops."
+          },
+          "stops": [
+            {
+              "name": "Arrival & Parking at the Stadtplatz Underground Car Park",
+              "tip_5lang": {
+                "de": "Bester Schutz vor Regen direkt im Stadtzentrum.",
+                "hu": "A legjobb védelem eső ellen közvetlenül a belvárosban.",
+                "ro": "Cea mai bună protecție împotriva ploii direct în centru.",
+                "en": "Best rain protection right in the city center."
+              }
+            },
+            {
+              "name": "Main Square, City Towers & St. Ulrich's Church",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen den Sehenswürdigkeiten am Platz.",
+                "hu": "Rövid séták a tér látnivalói között.",
+                "ro": "Distanțe scurte între obiectivele din piață.",
+                "en": "Short walking distances between sights on the square."
+              }
+            },
+            {
+              "name": "Museum Quarter: Local Museum & Museum of Displaced Persons",
+              "tip_5lang": {
+                "de": "Nahegelegene Parkplätze reduzieren die Zeit im Regen.",
+                "hu": "A közeli parkolók csökkentik az esőben töltött időt.",
+                "ro": "Parcările din apropiere reduc timpul petrecut în ploaie.",
+                "en": "Nearby parking reduces your time out in the rain."
+              }
+            },
+            {
+              "name": "Lunch and Break",
+              "tip_5lang": {
+                "de": "Nutzen Sie Parkhäuser mit direktem Zugang zu Restaurants.",
+                "hu": "Használjon éttermekhez közvetlen hozzáférést adó parkolót.",
+                "ro": "Folosiți parcări cu acces direct la restaurante.",
+                "en": "Use parking garages with direct access to restaurants."
+              }
+            },
+            {
+              "name": "Walk to Wagrain Castle",
+              "tip_5lang": {
+                "de": "Direkt am Schlosspark parken, um nass werden zu vermeiden.",
+                "hu": "Parkoljon közvetlenül a kastélyparknál a megázás ellen.",
+                "ro": "Parcați direct lângă parcul castelului pentru a nu vă uda.",
+                "en": "Park directly at the castle park to avoid getting wet."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Tiefgarage am Stadtplatz ist bei Regen die beste Wahl.",
+              "Nutzen Sie Kurzparkzonen für schnelle Stopps.",
+              "Vorsicht bei schlechter Sicht durch starken Regen.",
+              "Legen Sie einen Regenschirm griffbereit ins Auto."
+            ],
+            "hu": [
+              "A főtéri mélygarázs a legjobb választás esőben.",
+              "Használja a rövid távú parkoló zónákat a gyors megálláshoz.",
+              "Vigyázat a rossz látási viszonyokkal erős esőben.",
+              "Tartson kéznél esernyőt az autóban."
+            ],
+            "ro": [
+              "Parcarea subterană din piață este cea mai bună alegere pe ploaie.",
+              "Folosiți zonele de parcare scurtă pentru opriri rapide.",
+              "Atenție la vizibilitatea redusă în caz de ploaie torențială.",
+              "Țineți o umbrelă la îndemână în mașină."
+            ],
+            "en": [
+              "The underground car park at the square is the best choice in rain.",
+              "Use short-term parking zones for quick stops.",
+              "Watch out for poor visibility during heavy rain.",
+              "Keep an umbrella handy in your car."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintermorgen beginnt bequem in der beheizten Tiefgarage. Die Highlights am Stadtplatz sind schnell zu Fuß erreichbar. Mittags fahren wir zum warmen Museumsviertel, wo wir uns lange aufhalten können. Nach einem kräftigen Mittagessen führt die Fahrt zum Schloss Wagrain, das in der Wintersonne glänzt. Die Sitzheizung macht die kurzen Wege zwischen den POIs besonders angenehm.",
+            "hu": "A téli reggel kényelmesen, a fűtött mélygarázsban indul. A főtér látnivalói gyalog is gyorsan elérhetőek. Délben a meleg múzeumi negyedbe hajtunk, ahol hosszabb időt tölthetünk. Egy bőséges ebéd után a téli napsütésben csillogó Wagrain-kastélyhoz autózunk. Az ülésfűtés különösen kellemessé teszi a pontok közötti rövid utakat.",
+            "ro": "O dimineață de iarnă începe confortabil în parcarea subterană încălzită. Atracțiile din piață sunt ușor accesibile pe jos. La prânz mergem spre cartierul muzeelor călduros, unde putem zăbovi. După un prânz consistent, conducem spre Castelul Wagrain, care strălucește în soarele de iarnă. Încălzirea în scaune face drumurile scurte foarte plăcute.",
+            "en": "A winter morning begins comfortably in the heated underground garage. The main square's highlights are within quick walking distance. At noon, we drive to the warm museum quarter for a long stay. After a hearty lunch, we drive to Wagrain Castle, gleaming in the winter sun. Seat heating makes the short drives between POIs especially pleasant."
+          },
+          "stops": [
+            {
+              "name": "Arrival & Parking at the Stadtplatz Underground Car Park",
+              "tip_5lang": {
+                "de": "Eisfreies Parken und warmer Start in den Tag.",
+                "hu": "Jégmentes parkolás és meleg indítás a napnak.",
+                "ro": "Parcare fără gheață și un început de zi călduros.",
+                "en": "Ice-free parking and a warm start to the day."
+              }
+            },
+            {
+              "name": "Main Square, City Towers & St. Ulrich's Church",
+              "tip_5lang": {
+                "de": "Kurze Spaziergänge, um nicht auszukühlen.",
+                "hu": "Rövid séták, hogy ne hűljön ki.",
+                "ro": "Plimbări scurte pentru a nu vă răci.",
+                "en": "Keep walks short to avoid getting too cold."
+              }
+            },
+            {
+              "name": "Museum Quarter: Local Museum & Museum of Displaced Persons",
+              "tip_5lang": {
+                "de": "Das Auto kann während des Besuchs aufwärmen.",
+                "hu": "Az autó felmelegedhet a látogatás alatt.",
+                "ro": "Mașina se poate încălzi în timpul vizitei.",
+                "en": "The car can warm up during your museum visit."
+              }
+            },
+            {
+              "name": "Lunch and Break",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit nahem Parkplatz.",
+                "hu": "Válasszon közeli parkolóval rendelkező éttermet.",
+                "ro": "Alegeți un restaurant cu parcare în apropiere.",
+                "en": "Choose a restaurant with nearby parking."
+              }
+            },
+            {
+              "name": "Walk to Wagrain Castle",
+              "tip_5lang": {
+                "de": "Vorsicht bei Schnee auf den Parkplätzen am Schloss.",
+                "hu": "Vigyázat a hóval a kastély parkolóiban.",
+                "ro": "Atenție la zăpadă în parcările de la castel.",
+                "en": "Be careful with snow in the castle parking lots."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Winterreifen und Eiskratzer.",
+              "Die Tiefgarage schützt das Auto vor Schneefall.",
+              "Brücken können im Winter tückisch glatt sein.",
+              "Planen Sie Zeit für das Enteisen ein, falls Sie draußen parken."
+            ],
+            "hu": [
+              "Ügyeljen a téli gumikra és a jégkaparóra.",
+              "A mélygarázs védi az autót a havazástól.",
+              "A hidak télen csalókán csúszósak lehetnek.",
+              "Szánjon időt a jégtelenítésre, ha kint parkol."
+            ],
+            "ro": [
+              "Asigurați-vă că aveți anvelope de iarnă și racletă.",
+              "Parcarea subterană protejează mașina de ninsoare.",
+              "Podurile pot fi înșelător de alunecoase iarna.",
+              "Alocați timp pentru dezghețare dacă parcați afară."
+            ],
+            "en": [
+              "Ensure you have winter tires and an ice scraper.",
+              "The underground garage protects the car from snowfall.",
+              "Bridges can be treacherously slippery in winter.",
+              "Allow time for de-icing if you park outdoors."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1174,6 +1702,170 @@
           "The central bus station is well signposted.",
           "Check the bus schedule for your return journey in advance."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Vom ZOB erreichen wir das Zentrum schnell mit dem Stadtbus oder zu Fuß unter Arkaden. Mittags nutzen wir die Zeit für die Stadtpfarrkirche und die Türme, die guten Schutz bieten. Der Nachmittag im Museum ist ideal, um dem Regen zu entfliehen. Zum Abschluss bringt uns der Bus direkt zum Schloss Wagrain, sodass wir kaum nass werden.",
+            "hu": "A buszpályaudvartól (ZOB) városi busszal vagy az árkádok alatt gyalog is gyorsan elérjük a központot. Délben a templomot és a tornyokat nézzük meg, ahol védve vagyunk. A délutáni múzeumlátogatás ideális az eső elkerülésére. Végül a busz közvetlenül a Wagrain-kastélyhoz visz, így alig ázunk meg.",
+            "ro": "De la autogara centrală (ZOB) ajungem rapid în centru cu autobuzul sau pe jos sub arcade. La prânz vizităm biserica și turnurile, care oferă adăpost bun. După-amiaza la muzeu este ideală pentru a scăpa de ploaie. La final, autobuzul ne lasă direct la Castelul Wagrain, evitând expunerea la apă.",
+            "en": "From the central bus station (ZOB), we reach the center quickly by city bus or walking under arches. At noon, we visit the church and towers for good shelter. The afternoon in the museum is ideal for escaping the rain. Finally, the bus takes us directly to Wagrain Castle, so we hardly get wet at all."
+          },
+          "stops": [
+            {
+              "name": "Arrival at the Central Bus Station (ZOB)",
+              "tip_5lang": {
+                "de": "Die Wartebereiche am ZOB sind überdacht.",
+                "hu": "A buszpályaudvar várótermei fedettek.",
+                "ro": "Zonele de așteptare de la autogară sunt acoperite.",
+                "en": "The waiting areas at the bus station are covered."
+              }
+            },
+            {
+              "name": "City Towers & Main Square",
+              "tip_5lang": {
+                "de": "Bushaltestellen befinden sich direkt am Stadtplatz.",
+                "hu": "A buszmegállók közvetlenül a főtéren vannak.",
+                "ro": "Stațiile de autobuz sunt chiar în piața centrală.",
+                "en": "Bus stops are located directly on the main square."
+              }
+            },
+            {
+              "name": "Parish Church of St. Ulrich",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg von der Haltestelle Stadtplatz.",
+                "hu": "Rövid séta a főtéri buszmegállótól.",
+                "ro": "Scurtă plimbare de la stația din piață.",
+                "en": "Short walk from the main square bus stop."
+              }
+            },
+            {
+              "name": "Local Museum & Lunch",
+              "tip_5lang": {
+                "de": "Verlängern Sie den Aufenthalt bei starkem Regen.",
+                "hu": "Hosszabbítsa meg a látogatást erős esőben.",
+                "ro": "Prelungiți vizita în caz de ploaie torențială.",
+                "en": "Extend your stay during heavy rain."
+              }
+            },
+            {
+              "name": "Wagrain Castle",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Buslinie Richtung Schloss für trockene Anreise.",
+                "hu": "Használja a kastély felé tartó buszt a száraz érkezéshez.",
+                "ro": "Folosiți linia de autobuz spre castel pentru a ajunge la uscat.",
+                "en": "Use the bus line towards the castle for a dry arrival."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Vöcklabrucker Stadtbusse fahren regelmäßig und pünktlich.",
+              "Holen Sie sich eine Tageskarte für unbegrenzte Fahrten.",
+              "Wartezeiten am ZOB können im trockenen Café überbrückt werden.",
+              "Die App 'OÖVV' zeigt Echtzeit-Abfahrten bei Verspätungen."
+            ],
+            "hu": [
+              "A vöcklabrucki városi buszok rendszeresen és pontosan járnak.",
+              "Váltson napijegyet a korlátlan utazáshoz.",
+              "A várakozási időt a ZOB száraz kávézójában töltheti el.",
+              "Az 'OÖVV' app valós időben mutatja az indulásokat."
+            ],
+            "ro": [
+              "Autobuzele urbane din Vöcklabruck circulă regulat și punctual.",
+              "Luați un bilet de o zi pentru călătorii nelimitate.",
+              "Timpii de așteptare pot fi petrecuți la cafeneaua din autogară.",
+              "Aplicația 'OÖVV' arată plecările în timp real în caz de întârzieri."
+            ],
+            "en": [
+              "Vöcklabruck city buses are regular and punctual.",
+              "Get a day ticket for unlimited travel.",
+              "Waiting times at the ZOB can be spent in a dry cafe.",
+              "The 'OÖVV' app shows real-time departures during delays."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Am frostigen Morgen bietet der beheizte Warteraum am ZOB einen guten Start. Mit dem Bus geht es zum Stadtplatz, wo wir die winterliche Atmosphäre genießen. Mittags wärmen wir uns in der Kirche auf, bevor der Nachmittag im behaglichen Museum verbracht wird. Zum Schloss Wagrain nehmen wir den Bus, um die Kälte auf dem Weg dorthin zu vermeiden.",
+            "hu": "A fagyos reggelen a ZOB fűtött váróterme jó kezdést biztosít. Busszal megyünk a főtérre, ahol élvezzük a téli hangulatot. Délben a templomban melegszünk fel, majd a délutánt a barátságos múzeumban töltjük. A Wagrain-kastélyhoz busszal megyünk, elkerülve az út közbeni hideget.",
+            "ro": "În dimineața geroasă, sala de așteptare încălzită de la autogară oferă un start bun. Mergem cu autobuzul în piață, unde ne bucurăm de atmosfera de iarnă. La prânz ne încălzim în biserică, iar după-amiaza o petrecem în muzeul primitor. Spre Castelul Wagrain luăm autobuzul pentru a evita frigul de pe drum.",
+            "en": "On a frosty morning, the heated waiting room at the ZOB offers a good start. We take the bus to the main square to enjoy the winter atmosphere. At noon, we warm up in the church before spending the afternoon in the cozy museum. We take the bus to Wagrain Castle to avoid the cold on the way."
+          },
+          "stops": [
+            {
+              "name": "Arrival at the Central Bus Station (ZOB)",
+              "tip_5lang": {
+                "de": "Nutzen Sie den beheizten Warteraum.",
+                "hu": "Használja a fűtött várótermet.",
+                "ro": "Folosiți sala de așteptare încălzită.",
+                "en": "Use the heated waiting room."
+              }
+            },
+            {
+              "name": "City Towers & Main Square",
+              "tip_5lang": {
+                "de": "Busse sind im Winter angenehm beheizt.",
+                "hu": "A buszok télen kellemesen fűtöttek.",
+                "ro": "Autobuzele sunt încălzite plăcut iarna.",
+                "en": "Buses are comfortably heated in winter."
+              }
+            },
+            {
+              "name": "Parish Church of St. Ulrich",
+              "tip_5lang": {
+                "de": "Holen Sie sich einen heißen Tee am Stadtplatz.",
+                "hu": "Igyon egy forró teát a főtéren.",
+                "ro": "Luați un ceai fierbinte în piața centrală.",
+                "en": "Get a hot tea at the main square."
+              }
+            },
+            {
+              "name": "Local Museum & Lunch",
+              "tip_5lang": {
+                "de": "Planen Sie mehr Zeit im beheizten Museum ein.",
+                "hu": "Tervezzen több időt a fűtött múzeumban.",
+                "ro": "Planificați mai mult timp în muzeul încălzit.",
+                "en": "Plan more time in the heated museum."
+              }
+            },
+            {
+              "name": "Wagrain Castle",
+              "tip_5lang": {
+                "de": "Abfahrtzeiten prüfen, um langes Warten in der Kälte zu vermeiden.",
+                "hu": "Ellenőrizze az indulást, hogy ne várjon sokat a hidegben.",
+                "ro": "Verificați plecările pentru a nu aștepta mult în frig.",
+                "en": "Check departure times to avoid long waits in the cold."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse fahren im Winter oft verlässlicher als Fahrräder.",
+              "Wärmen Sie sich in den Bussen zwischen den POIs auf.",
+              "Die Gehwege zum Schloss können bei Frost rutschig sein.",
+              "Letzte Rückfahrten ab Schloss Wagrain gegen 17:30 Uhr prüfen."
+            ],
+            "hu": [
+              "A buszok télen gyakran megbízhatóbbak, mint a bringák.",
+              "Melegedjen fel a buszokon az egyes állomások között.",
+              "A kastélyhoz vezető gyalogutak fagyban csúszósak lehetnek.",
+              "Ellenőrizze az utolsó buszokat a kastélytól 17:30 körül."
+            ],
+            "ro": [
+              "Autobuzele sunt adesea mai de încredere decât bicicletele iarna.",
+              "Încălziți-vă în autobuze între punctele de interes.",
+              "Aleile spre castel pot fi alunecoase pe timp de îngheț.",
+              "Verificați ultimele curse de la castel în jurul orei 17:30."
+            ],
+            "en": [
+              "Buses are often more reliable than bikes in winter.",
+              "Warm up on the buses between the POIs.",
+              "The footpaths to the castle can be slippery when frozen.",
+              "Check the last return trips from the castle around 17:30."
+            ]
+          }
+        }
       }
     }
   }

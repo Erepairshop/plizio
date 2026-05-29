@@ -362,6 +362,196 @@
           "Check museum opening times in advance.",
           "Many cafes offer free Wi-Fi."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens schützt Dudoks Rathaus mit seinen markanten Formen vor dem ersten Guss. Mittags bietet das Museum Hilversum trockene Zuflucht inmitten von Kunst. Nachmittags wärmt die Mout-Markthalle Körper und Seele. Abends glänzt der Zonnestraal-Komplex im Regenlicht wie ein gläsernes Schiff.",
+            "hu": "Reggel a városháza modernista téglafala nyújt védelmet az eső elől. Délben a Hilversum Múzeum belső tereiben kalandozhatunk. Délután a Mout ételcsarnok fedett asztalainál pihenhetünk meg. Este a Zonnestraal szanatórium üvegfelületei különleges fényben verik vissza a hulló esőcseppeket.",
+            "ro": "Dimineața, Primăria lui Dudok oferă adăpost vizual sub streșinile sale geometrice. La prânz, Muzeul Hilversum este refugiul perfect împotriva ploii. După-amiaza, piața Mout vă așteaptă cu arome calde. Seara, complexul Zonnestraal strălucește melancolic în reflexiile ploii pe sticlă.",
+            "en": "Morning starts under the protective geometry of Dudok's Town Hall. At noon, Museum Hilversum offers a dry sanctuary for art lovers. Afternoon is spent cozying up in the Mout food hall. By evening, the Zonnestraal complex's glass and steel shimmer beautifully in the rhythmic Dutch rain."
+          },
+          "stops": [
+            {
+              "name": "Hilversum Town Hall",
+              "tip_5lang": {
+                "de": "Nutzen Sie die tiefen Mauervorsprünge als Regenschutz.",
+                "hu": "Használja a mély falmélyedéseket eső elleni védelemként.",
+                "ro": "Folosiți proeminențele adânci ale zidurilor ca adăpost.",
+                "en": "Use the deep wall recesses as temporary rain cover."
+              }
+            },
+            {
+              "name": "Saint Vitus Church",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Neugotik, während es draußen prasselt.",
+                "hu": "Csodálja meg a neogotikus belsőt, amíg kint dobol az eső.",
+                "ro": "Admirați interiorul neogotic în timp ce plouă afară.",
+                "en": "Admire the neo-gothic interior while the rain drums outside."
+              }
+            },
+            {
+              "name": "Museum Hilversum",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um den stärksten Schauer abzuwarten.",
+                "hu": "Tökéletes hely a legnagyobb felhőszakadás kivárására.",
+                "ro": "Locul perfect pentru a aștepta trecerea celei mai mari ploi.",
+                "en": "The perfect spot to wait out the heaviest downpour."
+              }
+            },
+            {
+              "name": "Mout Hilversum",
+              "tip_5lang": {
+                "de": "Die überdachte Markthalle ist ideal für regnerische Pausen.",
+                "hu": "A fedett vásárcsarnok ideális egy esős pihenőhöz.",
+                "ro": "Hala acoperită este ideală pentru o pauză pe timp de ploaie.",
+                "en": "The covered food hall is ideal for a rainy break."
+              }
+            },
+            {
+              "name": "Pinetum Blijdenstein",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Gewächshäuser, um trocken zu bleiben.",
+                "hu": "Látogasson el az üvegházakba, hogy száraz maradjon.",
+                "ro": "Vizitați serele pentru a rămâne uscat.",
+                "en": "Visit the greenhouses to stay dry while enjoying the plants."
+              }
+            },
+            {
+              "name": "Zonnestraal",
+              "tip_5lang": {
+                "de": "Die weißen Fassaden wirken im Regen besonders dramatisch.",
+                "hu": "A fehér homlokzatok esőben különösen drámaian mutatnak.",
+                "ro": "Fațadele albe arată deosebit de dramatic în ploaie.",
+                "en": "The white facades look particularly dramatic in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für die nassen Parkwege.",
+              "Die Passage am Hilversum Museum bietet guten Schutz.",
+              "In der Mout-Halle gibt es Schirmständer an den Eingängen.",
+              "Nutzen Sie die Innenräume der Museen für längere Schauer.",
+              "Regenponchos sind praktischer als Schirme bei Wind."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a vizes parki ösvényekhez.",
+              "A Hilversum Múzeum melletti átjárók jó menedéket nyújtanak.",
+              "A Mout csarnok bejáratainál vannak esernyőtartók.",
+              "A múzeumok belső tereit használja a nagyobb záporok idején.",
+              "A szeles időben az esőpáncél praktikusabb az ernyőnél."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru aleile umede.",
+              "Pasajele de lângă Muzeul Hilversum oferă adăpost bun.",
+              "Hala Mout are suporturi de umbrele la intrări.",
+              "Folosiți interioarele muzeelor în timpul averselor prelungite.",
+              "Pelerinele sunt mai practice decât umbrelele pe vânt."
+            ],
+            "en": [
+              "Wear waterproof shoes for the damp park paths.",
+              "The passages near Museum Hilversum provide good shelter.",
+              "Mout food hall has umbrella stands at the entrances.",
+              "Utilize museum interiors during heavy downpours.",
+              "Rain ponchos are more practical than umbrellas in wind."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen lässt Dudoks Ziegelbau in warmem Rot erstrahlen. Mittags lockt die wohlige Wärme des Museums mit regionaler Geschichte. Nachmittags duftet es in der Mout-Halle nach Wintergewürzen. Der frühe Abend am Zonnestraal-Gelände wird vom kühlen Licht der blauen Stunde verzaubert.",
+            "hu": "A téli reggelen Dudok városházájának téglái meleg vörösben izzanak. Délben a múzeum fűtött terei mesélnek a régió múltjáról. Délután a Mout csarnok téli fűszerek illatával várja az utazót. Az este korán érkezik, kék órába öltöztetve a Zonnestraal modernista vonalait.",
+            "ro": "Dimineața de iarnă face ca cărămida Primăriei să strălucească în roșu cald. La prânz, căldura muzeului vă invită să descoperiți istoria locală. După-amiaza, hala Mout miroase a mirodenii de iarnă. Seara timpurie transformă complexul Zonnestraal într-o bijuterie sub lumina albastră.",
+            "en": "A winter morning makes Dudok's brickwork glow in a deep, warm red. By noon, the cozy museum heat welcomes you to explore local history. In the afternoon, Mout hall is filled with the scent of winter spices. The early sunset casts a magical 'blue hour' light over the Zonnestraal estate."
+          },
+          "stops": [
+            {
+              "name": "Hilversum Town Hall",
+              "tip_5lang": {
+                "de": "Das rote Backstein-Ensemble wirkt im Frost besonders klar.",
+                "hu": "A vörös téglaegyüttes fagyos időben különösen tisztának hat.",
+                "ro": "Ansamblul de cărămidă roșie pare foarte clar pe ger.",
+                "en": "The red brick ensemble looks sharp and clear in the frost."
+              }
+            },
+            {
+              "name": "Saint Vitus Church",
+              "tip_5lang": {
+                "de": "Ein Ort der Stille und Wärme an kalten Wintertagen.",
+                "hu": "A csend és a meleg szigete a hideg téli napokon.",
+                "ro": "Un loc de liniște și căldură în zilele reci de iarnă.",
+                "en": "A place of silence and warmth on cold winter days."
+              }
+            },
+            {
+              "name": "Museum Hilversum",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich bei den interaktiven Ausstellungen auf.",
+                "hu": "Melegedjen fel az interaktív kiállítások nézegetése közben.",
+                "ro": "Încălziți-vă în timp ce vizitați expozițiile interactive.",
+                "en": "Warm up while exploring the interactive exhibitions."
+              }
+            },
+            {
+              "name": "Mout Hilversum",
+              "tip_5lang": {
+                "de": "Probieren Sie lokale Winterspezialitäten in geselliger Runde.",
+                "hu": "Kóstolja meg a helyi téli különlegességeket baráti körben.",
+                "ro": "Gustați specialitățile locale de iarnă într-un cadru cald.",
+                "en": "Try local winter specialties in a lively, warm atmosphere."
+              }
+            },
+            {
+              "name": "Pinetum Blijdenstein",
+              "tip_5lang": {
+                "de": "Die Nadelbäume tragen bei Frost ein silbernes Kleid.",
+                "hu": "A fenyőfélék fagyos időben ezüstös ruhát öltenek.",
+                "ro": "Coniferele poartă haine argintii în zilele cu ger.",
+                "en": "The conifers wear a silver coat during frosty winter days."
+              }
+            },
+            {
+              "name": "Zonnestraal",
+              "tip_5lang": {
+                "de": "Besuch vor 16:30 Uhr planen, um das Tageslicht zu nutzen.",
+                "hu": "Tervezze látogatását 16:30 elé a természetes fény miatt.",
+                "ro": "Plănuiți vizita înainte de 16:30 pentru lumina zilei.",
+                "en": "Plan your visit before 16:30 to utilize the daylight."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Schichten sind für den Wind in Hilversum wichtig.",
+              "Die Sonne geht bereits gegen 16:30 Uhr unter.",
+              "Ein heißer Kakao in der Mout-Halle hilft gegen die Kälte.",
+              "Vorsicht vor glatten Stellen auf den Gartenwegen.",
+              "Nutzen Sie die kurzen Wege im Stadtzentrum zum Aufwärmen."
+            ],
+            "hu": [
+              "A réteges öltözködés fontos a hilversumi szélben.",
+              "A nap már délután fél öt körül lenyugszik.",
+              "Egy forró kakaó a Mout csarnokban segít a hideg ellen.",
+              "Vigyázzon a csúszós foltokra a kerti ösvényeken.",
+              "Használja ki a városközpont rövid távolságait a bemelegedésre."
+            ],
+            "ro": [
+              "Îmbrăcămintea în straturi este esențială pentru vânt.",
+              "Soarele apune deja în jurul orei 16:30.",
+              "O ciocolată caldă în hala Mout ajută împotriva frigului.",
+              "Atenție la porțiunile alunecoase de pe aleile grădinii.",
+              "Folosiți distanțele scurte din centru pentru a vă încălzi."
+            ],
+            "en": [
+              "Layered clothing is essential for the Hilversum wind.",
+              "The sun sets early, around 16:30 in mid-winter.",
+              "A hot cocoa in Mout hall is the best remedy for the cold.",
+              "Watch out for icy spots on the garden paths.",
+              "Take advantage of short distances in the center to warm up."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -742,6 +932,214 @@
           "Pay attention to the dedicated bike paths and traffic rules.",
           "Bring a rain jacket, the weather can change quickly."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren gehört in Hilversum auch bei Regen dazu. Das Rathaus begrüßt Sie im feuchten Glanz. Im Museum Hilversum machen Sie die erste trockene Pause. Nach dem Media Park bietet das Institut für Bild und Ton ein langes Indoor-Erlebnis. Mout wärmt Sie auf, bevor es zum nebligen Pinetum geht.",
+            "hu": "Hilversumban az eső sem állítja meg a bringásokat. A városháza vizes csillogással fogadja. A Hilversum Múzeumban tarthatja az első száraz pihenőt. A Media Park után a Hang és Kép Intézet hosszú beltéri programot kínál. A Mout felmelegíti, mielőtt a ködös Pinetum felé indulna.",
+            "ro": "Ciclismul face parte din viața în Hilversum, chiar și pe ploaie. Primăria vă întâmpină cu o strălucire umedă. La Muzeul Hilversum faceți prima pauză uscată. După Media Park, Institutul de Sunet și Imagine oferă o experiență lungă la interior. Mout vă încălzește înainte de Pinetumul cețos.",
+            "en": "Cycling is part of life in Hilversum, even in the rain. The Town Hall greets you with a damp glow. At Museum Hilversum, take your first dry break. After Media Park, the Sound and Vision Institute offers a lengthy indoor escape. Mout warms you up before heading to the misty Pinetum."
+          },
+          "stops": [
+            {
+              "name": "Hilversum Town Hall",
+              "tip_5lang": {
+                "de": "Fahrradständer direkt vor dem Haupteingang vorhanden.",
+                "hu": "Kerékpártárolók közvetlenül a főbejárat előtt találhatók.",
+                "ro": "Suporturi de biciclete disponibile chiar în fața intrării.",
+                "en": "Bicycle racks are available right in front of the entrance."
+              }
+            },
+            {
+              "name": "Museum Hilversum",
+              "tip_5lang": {
+                "de": "Zentraler Stopp, um die Regenkleidung kurz zu lüften.",
+                "hu": "Központi megálló az esőruházat rövid szellőztetésére.",
+                "ro": "Oprește-te aici pentru a-ți scutura pelerina de ploaie.",
+                "en": "Central stop to briefly air out your rain gear."
+              }
+            },
+            {
+              "name": "Media Park",
+              "tip_5lang": {
+                "de": "Vorsicht bei nassen Markierungen auf den Radwegen.",
+                "hu": "Vigyázzon a vizes felfestésekre a kerékpárutakon.",
+                "ro": "Atenție la marcajele umede de pe pistele de biciclete.",
+                "en": "Be careful with wet road markings on the cycle paths."
+              }
+            },
+            {
+              "name": "Netherlands Institute for Sound and Vision",
+              "tip_5lang": {
+                "de": "Großer Fahrradkeller unter dem Gebäude vorhanden.",
+                "hu": "Nagy kerékpártároló található az épület alatt.",
+                "ro": "Parcare mare pentru biciclete disponibilă sub clădire.",
+                "en": "Large bicycle parking available under the building."
+              }
+            },
+            {
+              "name": "Mout Hilversum",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um die Batterien im Trockenen aufzuladen.",
+                "hu": "Tökéletes hely az energiák szárazon való pótlására.",
+                "ro": "Locul perfect pentru a-ți reîncărca bateriile la uscat.",
+                "en": "Perfect place to recharge your batteries while staying dry."
+              }
+            },
+            {
+              "name": "Pinetum Blijdenstein",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad unter den großen Bäumen ab.",
+                "hu": "A kerékpárt a nagy fák alatt hagyhatja.",
+                "ro": "Lăsați bicicleta sub copacii mari pentru protecție.",
+                "en": "Park your bike under the large trees for some cover."
+              }
+            },
+            {
+              "name": "Zonnestraal",
+              "tip_5lang": {
+                "de": "Wunderschöne Waldwege, aber Vorsicht vor Matsch.",
+                "hu": "Gyönyörű erdei utak, de vigyázzon a sárral.",
+                "ro": "Poteci forestiere frumoase, dar atenție la noroi.",
+                "en": "Beautiful forest paths, but watch out for mud."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vollständige Regenbekleidung ist ein Muss für diese Tour.",
+              "Vorsicht bei nassem Laub auf den Waldwegen zum Zonnestraal.",
+              "Das Sound and Vision Institut bietet Schließfächer für Helme.",
+              "Bremsen Sie frühzeitig bei nassen Straßenverhältnissen.",
+              "Nutzen Sie den überdachten Fahrradständer am Bahnhof."
+            ],
+            "hu": [
+              "A teljes esőruházat kötelező ehhez a túrához.",
+              "Vigyázzon a vizes levelekre a Zonnestraal felé vezető úton.",
+              "A Hang és Kép Intézetben vannak sisaktároló szekrények.",
+              "Vizes úton fékezzen időben a biztonság érdekében.",
+              "Használja a vasútállomás fedett kerékpártárolóját."
+            ],
+            "ro": [
+              "Echipamentul de ploaie complet este obligatoriu.",
+              "Atenție la frunzele umede pe drumul spre Zonnestraal.",
+              "Institutul Sound and Vision are dulapuri pentru căști.",
+              "Frânați din timp pe carosabilul umed.",
+              "Folosiți parcarea de biciclete acoperită de la gară."
+            ],
+            "en": [
+              "Full rain gear is a must for this cycling tour.",
+              "Watch out for wet leaves on the forest paths to Zonnestraal.",
+              "Sound and Vision Institute provides lockers for helmets.",
+              "Brake early on wet roads for maximum safety.",
+              "Use the covered bicycle parking at the station."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Start am Rathaus weckt die Geister. Im Museum Hilversum tauchen Sie in die Wärme ein. Die Fahrt zum Media Park ist kurz, gefolgt von Stunden voller Medienmagie im geschützten Institut. Mout serviert heiße Getränke zur Stärkung. Das Pinetum zeigt sich im Winterkleid, bevor die Tour am Zonnestraal endet.",
+            "hu": "A fagyos reggel a városházánál felébreszti az érzékeket. A Hilversum Múzeumban merüljön el a melegben. Rövid tekerés a Media Park, majd órákig tartó médiamágia következik a védett intézetben. A Mout forró italokat kínál. A Pinetum téli díszben pompázik, mielőtt a túra a Zonnestraalnál zárulna.",
+            "ro": "Un început geros la Primărie vă va trezi simțurile. La Muzeul Hilversum, scufundați-vă în căldură. Drumul spre Media Park este scurt, urmat de ore de magie media în institutul protejat. Mout servește băuturi calde. Pinetum se arată în haine de iarnă, înainte de finalul la Zonnestraal.",
+            "en": "A frosty start at the Town Hall wakes up the senses. At Museum Hilversum, dive into the warmth. A short ride to Media Park is followed by hours of media magic in the sheltered institute. Mout serves hot drinks for strength. Pinetum shows off its winter attire before the tour ends at Zonnestraal."
+          },
+          "stops": [
+            {
+              "name": "Hilversum Town Hall",
+              "tip_5lang": {
+                "de": "Die Architektur wirkt bei klarem Frostlicht fast unwirklich.",
+                "hu": "Az építészet tiszta fagyos fényben szinte irrealisztikus.",
+                "ro": "Arhitectura pare aproape ireală în lumina clară a gerului.",
+                "en": "The architecture looks almost surreal in clear frost light."
+              }
+            },
+            {
+              "name": "Museum Hilversum",
+              "tip_5lang": {
+                "de": "Gute Gelegenheit, um die kalten Finger aufzuwärmen.",
+                "hu": "Jó alkalom a hideg ujjak felmelegítésére.",
+                "ro": "O bună ocazie pentru a vă încălzi degetele înghețate.",
+                "en": "A good opportunity to warm up cold fingers."
+              }
+            },
+            {
+              "name": "Media Park",
+              "tip_5lang": {
+                "de": "Achten Sie auf mögliche Eisstellen auf den Brücken.",
+                "hu": "Ügyeljen az esetleges jegesedésre a hidakon.",
+                "ro": "Atenție la posibilele porțiuni înghețate de pe poduri.",
+                "en": "Watch out for potential icy spots on the bridges."
+              }
+            },
+            {
+              "name": "Netherlands Institute for Sound and Vision",
+              "tip_5lang": {
+                "de": "Das farbenfrohe Glas leuchtet im grauen Winterlicht.",
+                "hu": "A színes üveg ragyog a szürke téli fényben.",
+                "ro": "Sticla colorată strălucește în lumina gri de iarnă.",
+                "en": "The colorful glass glows brightly in the grey winter light."
+              }
+            },
+            {
+              "name": "Mout Hilversum",
+              "tip_5lang": {
+                "de": "Genießen Sie den Trubel bei einem warmen Snack.",
+                "hu": "Élvezze a nyüzsgést egy meleg snack mellett.",
+                "ro": "Bucurați-vă de agitație cu o gustare caldă.",
+                "en": "Enjoy the lively atmosphere with a warm snack."
+              }
+            },
+            {
+              "name": "Pinetum Blijdenstein",
+              "tip_5lang": {
+                "de": "Winterhärte Pflanzen aus aller Welt entdecken.",
+                "hu": "Fedezze fel a télálló növényeket a világ minden tájáról.",
+                "ro": "Descoperiți plante rezistente la ger din toată lumea.",
+                "en": "Discover winter-hardy plants from all over the world."
+              }
+            },
+            {
+              "name": "Zonnestraal",
+              "tip_5lang": {
+                "de": "Im Winter wirkt das Sanatorium besonders ruhig.",
+                "hu": "Télen a szanatórium különösen csendesnek hat.",
+                "ro": "Iarna, sanatoriul pare deosebit de liniștit.",
+                "en": "In winter, the sanatorium feels exceptionally peaceful."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Überprüfen Sie Ihre Fahrradbeleuchtung für den frühen Abend.",
+              "Handschuhe und eine Mütze unter dem Helm sind Pflicht.",
+              "Planen Sie mehr Zeit für die waldigen Wege ein (Glättegefahr).",
+              "Trinken Sie ausreichend Tee in den Pausen.",
+              "Nutzen Sie die beheizten Räume in den Museen zur Erholung."
+            ],
+            "hu": [
+              "Ellenőrizze a kerékpárvilágítást a korai sötétedés miatt.",
+              "A kesztyű és a sisak alatti sapka kötelező.",
+              "Tervezzen több időt az erdei utakra a csúszásveszély miatt.",
+              "Igyon elegendő teát a szünetekben.",
+              "Használja ki a múzeumok fűtött termeit a pihenésre."
+            ],
+            "ro": [
+              "Verificați luminile bicicletei pentru seara timpurie.",
+              "Mănușile și o căciulă sub cască sunt obligatorii.",
+              "Planificați mai mult timp pentru drumurile prin pădure.",
+              "Beți suficient ceai în timpul pauzelor.",
+              "Folosiți spațiile încălzite din muzee pentru recuperare."
+            ],
+            "en": [
+              "Check your bike lights for the early winter sunset.",
+              "Gloves and a thin hat under the helmet are mandatory.",
+              "Allow extra time for forest paths due to potential ice.",
+              "Drink plenty of tea during your breaks to stay warm.",
+              "Utilize the heated museum rooms for short rests."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1122,6 +1520,214 @@
           "Use a navigation app to avoid traffic jams.",
           "Don't leave valuables visible in the car."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regnerische Fahrt durch die grünen Viertel von Hilversum. Start am Zonnestraal, wo die Parkplätze nah am Geschehen sind. Das Pinetum bietet einen schnellen Check im Freien, bevor es zum trockenen Media Park geht. Das Sound and Vision Institut ist das Highlight im Trockenen. Abends lockt die Mout-Halle mit einfacher Parkmöglichkeit.",
+            "hu": "Esős autózás Hilversum zöld negyedeiben. Kezdés a Zonnestraalnál, ahol a parkolók közel vannak. A Pinetum gyors kinti kör után a száraz Media Park várja. A Hang és Kép Intézet a legjobb menedék. Este a Mout csarnok csábít, könnyű parkolási lehetőséggel a közelben.",
+            "ro": "O plimbare cu mașina prin cartierele verzi din Hilversum. Start la Zonnestraal, unde parcările sunt aproape. Pinetum oferă o vizită scurtă afară, înainte de Media Park. Institutul Sound and Vision este punctul culminant la uscat. Seara, hala Mout vă atrage cu parcare ușoară.",
+            "en": "A rainy drive through Hilversum's leafy neighborhoods. Start at Zonnestraal, where parking is conveniently close. Pinetum offers a quick outdoor loop before heading to the dry Media Park. Sound and Vision is the indoor highlight. In the evening, Mout hall beckons with easy nearby parking."
+          },
+          "stops": [
+            {
+              "name": "Zonnestraal",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Haupteingang des Ensembles.",
+                "hu": "Parkoljon közel az együttes főbejáratához.",
+                "ro": "Parcați aproape de intrarea principală a ansamblului.",
+                "en": "Park close to the main entrance of the complex."
+              }
+            },
+            {
+              "name": "Pinetum Blijdenstein",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Parkplatz zu den Gewächshäusern.",
+                "hu": "Rövid séta a parkolótól az üvegházakig.",
+                "ro": "Drum scurt pe jos de la parcare la sere.",
+                "en": "Short walk from the parking lot to the greenhouses."
+              }
+            },
+            {
+              "name": "Media Park",
+              "tip_5lang": {
+                "de": "Parkhaus direkt am Gelände bietet trockenen Zugang.",
+                "hu": "A közvetlen parkolóház száraz bejutást biztosít.",
+                "ro": "Parcarea supraetajată oferă acces uscat la zonă.",
+                "en": "The multi-story car park offers dry access to the site."
+              }
+            },
+            {
+              "name": "Netherlands Institute for Sound and Vision",
+              "tip_5lang": {
+                "de": "Ideal bei Regen: alles unter einem Dach.",
+                "hu": "Ideális esőben: minden egy fedél alatt.",
+                "ro": "Ideal pe ploaie: totul sub un singur acoperiș.",
+                "en": "Ideal during rain: everything is under one roof."
+              }
+            },
+            {
+              "name": "Hilversum Town Hall",
+              "tip_5lang": {
+                "de": "Kurzzeitparkplätze rund um das Rathaus nutzen.",
+                "hu": "Használja a városháza körüli rövidtávú parkolókat.",
+                "ro": "Folosiți parcările de scurtă durată din jurul Primăriei.",
+                "en": "Use the short-term parking spots around the Town Hall."
+              }
+            },
+            {
+              "name": "Mout Hilversum",
+              "tip_5lang": {
+                "de": "Parkhaus 'Silverpoint' ist nur wenige Schritte entfernt.",
+                "hu": "A 'Silverpoint' parkolóház csak pár lépésre van.",
+                "ro": "Parcarea 'Silverpoint' este la doar câțiva pași.",
+                "en": "Parking garage 'Silverpoint' is just a few steps away."
+              }
+            },
+            {
+              "name": "Saint Vitus Church",
+              "tip_5lang": {
+                "de": "Halten Sie kurz an der Straße für ein schnelles Foto.",
+                "hu": "Álljon meg rövid időre az utcán egy gyors fotóhoz.",
+                "ro": "Opriți scurt pe stradă pentru o fotografie rapidă.",
+                "en": "Stop briefly on the street for a quick photo."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie das Parkhaus 'Gooische Brink' für das Stadtzentrum.",
+              "Vermeiden Sie bei starkem Regen die engen Waldwege.",
+              "Haben Sie immer Kleingeld oder eine Park-App bereit.",
+              "Regenschirme im Auto griffbereit halten.",
+              "Die Hauptstraßen in Hilversum sind bei Regen gut befahrbar."
+            ],
+            "hu": [
+              "Használja a 'Gooische Brink' parkolót a belvároshoz.",
+              "Heves esőben kerülje a szűk erdei utakat.",
+              "Mindig legyen kéznél aprópénz vagy parkolóalkalmazás.",
+              "Az esernyőt tartsa az autóban elérhető helyen.",
+              "Hilversum főútjai esőben is jól járhatók."
+            ],
+            "ro": [
+              "Folosiți parcarea 'Gooische Brink' pentru centrul orașului.",
+              "Evitați drumurile forestiere înguste pe ploaie torențială.",
+              "Aveți mereu mărunt sau o aplicație de parcare la îndemână.",
+              "Țineți umbrelele la îndemână în mașină.",
+              "Drumurile principale din Hilversum sunt bune pe ploaie."
+            ],
+            "en": [
+              "Use 'Gooische Brink' parking for the city center.",
+              "Avoid narrow forest roads during heavy downpours.",
+              "Always have change or a parking app ready to use.",
+              "Keep umbrellas easily accessible inside the car.",
+              "Main roads in Hilversum are well-maintained for rainy drives."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Gemütliche Wintertour im geheizten Wagen. Der Zonnestraal-Komplex wirkt im Reif besonders magisch. Im Pinetum genießen Sie die klare Winterluft, bevor Sie in die Medienwelt des Instituts eintauchen. Das Rathaus von Dudok zeigt sich im tiefen Winterlicht. Den Tag lassen Sie bei gutem Essen in der warmen Mout-Halle ausklingen.",
+            "hu": "Kényelmes téli túra a fűtött autóban. A Zonnestraal komplexum a dértől különösen varázslatos. A Pinetumban élvezze a tiszta téli levegőt, mielőtt elmerülne az intézet médiavilágában. Dudok városházája mély téli fényben tündököl. A napot jó ételek mellett zárja a meleg Mout csarnokban.",
+            "ro": "Tur de iarnă confortabil în mașina încălzită. Complexul Zonnestraal pare magic sub promoroacă. În Pinetum bucurați-vă de aerul curat, înainte de lumea media a institutului. Primăria lui Dudok se arată în lumina iernii. Încheiați ziua cu mâncare bună în hala caldă Mout.",
+            "en": "A cozy winter tour in a heated car. The Zonnestraal complex looks magical under the frost. At Pinetum, enjoy the crisp winter air before diving into the institute's media world. Dudok's Town Hall reveals its details in the low winter light. End the day with great food in the warm Mout hall."
+          },
+          "stops": [
+            {
+              "name": "Zonnestraal",
+              "tip_5lang": {
+                "de": "Die weißen Gebäude strahlen im Winter besonders hell.",
+                "hu": "A fehér épületek télen különösen fehéren világítanak.",
+                "ro": "Clădirile albe strălucesc foarte puternic iarna.",
+                "en": "The white buildings shine especially bright in winter."
+              }
+            },
+            {
+              "name": "Pinetum Blijdenstein",
+              "tip_5lang": {
+                "de": "Klare Sicht auf die Nadelgehölze ohne störendes Laub.",
+                "hu": "Tiszta rálátás a fenyőkre, zavaró lombok nélkül.",
+                "ro": "Vedere clară asupra coniferelor fără frunziș dens.",
+                "en": "Clear views of the conifers without dense foliage."
+              }
+            },
+            {
+              "name": "Media Park",
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Parken unter Bäumen (Eisbruchgefahr).",
+                "hu": "Kerülje a fák alatti parkolást a jégtörés veszélye miatt.",
+                "ro": "Evitați parcarea sub copaci din cauza riscului de gheață.",
+                "en": "Avoid parking under trees due to potential falling ice."
+              }
+            },
+            {
+              "name": "Netherlands Institute for Sound and Vision",
+              "tip_5lang": {
+                "de": "Ein bunter Farbtupfer an einem grauen Wintertag.",
+                "hu": "Színes folt egy szürke téli napon.",
+                "ro": "O pată de culoare într-o zi gri de iarnă.",
+                "en": "A vibrant splash of color on a grey winter day."
+              }
+            },
+            {
+              "name": "Hilversum Town Hall",
+              "tip_5lang": {
+                "de": "Die Ziegel wirken im Abendlicht besonders warm.",
+                "hu": "A téglák az esti fényben különösen melegnek hatnak.",
+                "ro": "Cărămizile par foarte calde în lumina serii.",
+                "en": "The bricks look especially warm in the evening light."
+              }
+            },
+            {
+              "name": "Mout Hilversum",
+              "tip_5lang": {
+                "de": "Perfekter Abschluss in beheizter Atmosphäre.",
+                "hu": "Tökéletes befejezés fűtött környezetben.",
+                "ro": "Final perfect într-o atmosferă încălzită.",
+                "en": "The perfect end in a cozy, heated atmosphere."
+              }
+            },
+            {
+              "name": "Saint Vitus Church",
+              "tip_5lang": {
+                "de": "Beleuchtung am Abend ist besonders stimmungsvoll.",
+                "hu": "Az esti kivilágítás különösen hangulatos.",
+                "ro": "Iluminatul de seară este deosebit de atmosferic.",
+                "en": "The evening lighting is particularly atmospheric."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Glätte in den schattigen Waldgebieten.",
+              "Stellen Sie sicher, dass Ihr Eiskratzer griffbereit ist.",
+              "Die Parkgebühren können bequem per App bezahlt werden.",
+              "Planen Sie die Route so, dass Sie vor 17 Uhr am Ziel sind.",
+              "Winterreifen sind für die Hügel im Gooi empfehlenswert."
+            ],
+            "hu": [
+              "Ügyeljen a csúszós utakra az árnyékos erdős részeken.",
+              "Győződjön meg róla, hogy a jégkaparó kéznél van.",
+              "A parkolási díjat kényelmesen fizetheti applikációval.",
+              "Úgy tervezze az utat, hogy 17 óra előtt célba érjen.",
+              "A téli gumi ajánlott a Gooi környéki dombokon."
+            ],
+            "ro": [
+              "Atenție la polei în zonele forestiere umbrite.",
+              "Asigurați-vă că aveți racleta de gheață la îndemână.",
+              "Taxele de parcare pot fi plătite ușor prin aplicație.",
+              "Plănuiți ruta astfel încât să ajungeți înainte de ora 17.",
+              "Anvelopele de iarnă sunt recomandate pentru dealurile Gooi."
+            ],
+            "en": [
+              "Watch out for black ice in shaded forest areas.",
+              "Make sure your ice scraper is easily accessible.",
+              "Parking fees can be conveniently paid via mobile app.",
+              "Plan your route to reach the final destination by 17:00.",
+              "Winter tires are recommended for the hills in the Gooi."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1478,6 +2084,196 @@
           "Buses are punctual, so be at the stop on time.",
           "Note that buses run less frequently at night."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit Bus und Bahn durch das regnerische Hilversum. Vom Rathaus zum Museum Hilversum ist es nur ein kurzer Sprung. Der Bus bringt Sie direkt zum Media Park, wo das Sound and Vision Institut stundenlangen trockenen Spaß bietet. Zum Zonnestraal geht es mit einer kurzen Busfahrt durch den Wald. Abschluss in der Mout-Halle.",
+            "hu": "Busszal és vonattal az esős Hilversumban. A városházától a múzeumig csak egy ugrás. A busz közvetlenül a Media Parkba visz, ahol a Hang és Kép Intézet órákig tartó száraz szórakozást nyújt. A Zonnestraalhoz rövid buszút vezet az erdőn át. Zárás a Mout csarnokban.",
+            "ro": "Cu autobuzul și trenul prin Hilversumul ploios. De la Primărie la Muzeu este doar o aruncătură de băț. Autobuzul vă duce la Media Park, unde Institutul Sound and Vision oferă distracție la uscat. Spre Zonnestraal mergeți cu autobuzul prin pădure. Final în hala Mout.",
+            "en": "By bus and train through rainy Hilversum. It's just a short hop from the Town Hall to the museum. The bus takes you directly to Media Park, where Sound and Vision offers hours of indoor fun. A short bus ride through the woods leads to Zonnestraal. Finish at Mout hall."
+          },
+          "stops": [
+            {
+              "name": "Hilversum Town Hall",
+              "tip_5lang": {
+                "de": "Bushaltestelle 'Raadhuis' befindet sich ganz in der Nähe.",
+                "hu": "A 'Raadhuis' buszmegálló a közvetlen közelben található.",
+                "ro": "Stația de autobuz 'Raadhuis' este situată foarte aproape.",
+                "en": "The 'Raadhuis' bus stop is located very nearby."
+              }
+            },
+            {
+              "name": "Museum Hilversum",
+              "tip_5lang": {
+                "de": "Vom Bahnhof aus in 5 Minuten trocken erreichbar.",
+                "hu": "A vasútállomástól 5 perc alatt szárazon elérhető.",
+                "ro": "Accesibil de la gară în 5 minute, rămânând uscat.",
+                "en": "Accessible from the station in 5 minutes, staying dry."
+              }
+            },
+            {
+              "name": "Media Park",
+              "tip_5lang": {
+                "de": "Eigener Bahnhof 'Hilversum Media Park' vorhanden.",
+                "hu": "Saját 'Hilversum Media Park' vasúti megállója van.",
+                "ro": "Are propria stație de tren 'Hilversum Media Park'.",
+                "en": "Has its own 'Hilversum Media Park' railway station."
+              }
+            },
+            {
+              "name": "Netherlands Institute for Sound and Vision",
+              "tip_5lang": {
+                "de": "Direkter Zugang vom Media Park Bahnhof möglich.",
+                "hu": "Közvetlen bejutás a Media Park megállótól.",
+                "ro": "Acces direct posibil de la stația Media Park.",
+                "en": "Direct access is possible from the Media Park station."
+              }
+            },
+            {
+              "name": "Zonnestraal",
+              "tip_5lang": {
+                "de": "Buslinie 121 hält direkt am Gelände.",
+                "hu": "A 121-es busz közvetlenül a területnél áll meg.",
+                "ro": "Linia de autobuz 121 oprește direct la complex.",
+                "en": "Bus line 121 stops directly at the estate."
+              }
+            },
+            {
+              "name": "Mout Hilversum",
+              "tip_5lang": {
+                "de": "Zentral am Bahnhof gelegen, ideal für die Rückreise.",
+                "hu": "Központban, a vasútállomásnál, ideális a hazatéréshez.",
+                "ro": "Central, lângă gară, ideal pentru drumul de întoarcere.",
+                "en": "Centrally located by the station, ideal for the return trip."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die '9292' App für Echtzeit-Verbindungen.",
+              "Bahnhöfe bieten guten Schutz während der Wartezeiten.",
+              "Die Busse sind modern und klimatisiert.",
+              "Ein Regenschirm ist für den Weg zur Haltestelle wichtig.",
+              "Die Tageskarte für den Bus lohnt sich bei dieser Tour."
+            ],
+            "hu": [
+              "Használja a '9292' alkalmazást a valós idejű menetrendhez.",
+              "A vasútállomások jó védelmet nyújtanak várakozás közben.",
+              "A buszok modernek és légkondicionáltak.",
+              "Egy esernyő fontos a megállóig vezető úton.",
+              "A napijegy megéri ehhez a túrához."
+            ],
+            "ro": [
+              "Folosiți aplicația '9292' pentru conexiuni în timp real.",
+              "Gările oferă adăpost bun în timpul așteptării.",
+              "Autobuzele sunt moderne și climatizate.",
+              "O umbrelă este necesară pentru drumul spre stație.",
+              "Abonamentul de o zi merită pentru acest tur."
+            ],
+            "en": [
+              "Use the '9292' app for real-time transit connections.",
+              "Train stations provide good shelter while waiting.",
+              "Buses are modern, clean, and well-heated.",
+              "An umbrella is essential for the walk to the bus stop.",
+              "A day pass is worth it for this specific itinerary."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterreise mit den öffentlichen Verkehrsmitteln. Das beheizte Rathaus bietet einen warmen Start. Mit dem Zug geht es schnell zum Media Park und ins gemütliche Institut. Der Bus nach Zonnestraal führt durch die winterliche Heidelandschaft. Den Abend verbringen Sie gesellig in der Mout-Halle, bevor der Zug Sie heimbringt.",
+            "hu": "Téli utazás tömegközlekedéssel. A fűtött városháza meleg kezdést biztosít. Vonattal gyorsan elérhető a Media Park és a hangulatos intézet. A busz a Zonnestraalhoz a téli fenyveseken át vezet. Az estét a Mout csarnokban töltheti, mielőtt a vonat hazavinné.",
+            "ro": "Călătorie de iarnă cu transportul public. Primăria încălzită oferă un început cald. Cu trenul ajungeți rapid la Media Park și la institut. Autobuzul spre Zonnestraal trece prin peisajul de iarnă. Petreceți seara în hala Mout înainte de trenul spre casă.",
+            "en": "Winter journey using public transport. The heated Town Hall offers a warm start. Take the train quickly to Media Park and the cozy institute. The bus to Zonnestraal travels through the winter heathland. Spend the evening socializing in Mout hall before the train takes you home."
+          },
+          "stops": [
+            {
+              "name": "Hilversum Town Hall",
+              "tip_5lang": {
+                "de": "Im Inneren des Rathauses ist es angenehm warm.",
+                "hu": "A városháza belsejében kellemes meleg van.",
+                "ro": "În interiorul Primăriei este plăcut și cald.",
+                "en": "It is pleasantly warm inside the Town Hall."
+              }
+            },
+            {
+              "name": "Museum Hilversum",
+              "tip_5lang": {
+                "de": "Kurzer, beleuchteter Weg vom Bahnhof aus.",
+                "hu": "Rövid, kivilágított út a vasútállomástól.",
+                "ro": "Drum scurt și iluminat de la gară.",
+                "en": "Short, well-lit path from the railway station."
+              }
+            },
+            {
+              "name": "Media Park",
+              "tip_5lang": {
+                "de": "Der Bahnhof ist oft windig, ziehen Sie sich warm an.",
+                "hu": "A vasútállomás gyakran szeles, öltözzön melegen.",
+                "ro": "Gara este adesea vântoasă, îmbrăcați-vă bine.",
+                "en": "The station can be windy, so dress warmly."
+              }
+            },
+            {
+              "name": "Netherlands Institute for Sound and Vision",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um den ganzen Nachmittag im Warmen zu verbringen.",
+                "hu": "Tökéletes hely az egész délután melegben töltésére.",
+                "ro": "Locul perfect pentru a petrece după-amiaza la căldură.",
+                "en": "Perfect place to spend the entire afternoon in the warmth."
+              }
+            },
+            {
+              "name": "Zonnestraal",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Winterfahrplan der Linie 121.",
+                "hu": "Ellenőrizze a 121-es busz téli menetrendjét.",
+                "ro": "Verificați orarul de iarnă al liniei 121.",
+                "en": "Check the winter schedule for bus line 121."
+              }
+            },
+            {
+              "name": "Mout Hilversum",
+              "tip_5lang": {
+                "de": "Nur 2 Minuten Fußweg zum warmen Bahnhofsgebäude.",
+                "hu": "Csak 2 perc séta a meleg vasúti váróteremig.",
+                "ro": "Doar 2 minute de mers pe jos până la gară.",
+                "en": "Only a 2-minute walk to the warm station building."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Züge und Busse sind im Winter gut beheizt.",
+              "Nutzen Sie die Wartehallen an den größeren Bahnhöfen.",
+              "Planen Sie Pufferzeiten für eventuelle Winterverzögerungen ein.",
+              "Die OV-Chipkaart sollte ausreichend Guthaben haben.",
+              "Genießen Sie den Blick auf die verschneite Landschaft aus dem Fenster."
+            ],
+            "hu": [
+              "A vonatok és buszok télen jól fűtöttek.",
+              "Használja a várótermeket a nagyobb állomásokon.",
+              "Tervezzen be ráhagyást az esetleges téli késések miatt.",
+              "Az OV-Chipkaart-on legyen elegendő egyenleg.",
+              "Élvezze a havas táj látványát az ablakból."
+            ],
+            "ro": [
+              "Trenurile și autobuzele sunt bine încălzite iarna.",
+              "Folosiți sălile de așteptare din gările mari.",
+              "Planificați timp suplimentar pentru eventuale întârzieri.",
+              "Cardul OV-Chipkaart trebuie să aibă credit suficient.",
+              "Bucurați-vă de peisajul de iarnă de la fereastră."
+            ],
+            "en": [
+              "Trains and buses are well-heated during the winter.",
+              "Make use of the waiting rooms at larger stations.",
+              "Allow for extra travel time in case of winter delays.",
+              "Ensure your OV-Chipkaart has sufficient balance.",
+              "Enjoy the view of the snowy landscape from the window."
+            ]
+          }
+        }
       }
     }
   }

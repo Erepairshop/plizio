@@ -410,6 +410,232 @@
           "Many restaurants offer affordable 'Zestaw Obiadowy' (lunch sets) at noon.",
           "Look out for the many small sculptures scattered throughout the city."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgen: Der Marktplatz glänzt im Regen; die Arkaden des Rathauses bieten ersten Schutz. Mittag: Die unterirdische Tour ist die perfekte Flucht ins Trockene, während es draußen gießt. Nachmittag: Ein kurzer, nasser Spaziergang zum Schloss, gefolgt vom Sommerpalais. Abend: Gemütlicher Ausklang nahe dem Theater, wo die Lichter der Stadt in den Pfützen tanzen.",
+            "hu": "Reggel: A főtér macskakövei csillognak az esőben, a Városháza árkádjai alatt kezdjük a napot. Délben: A föld alatti túra tökéletes menedék, itt garantáltan száraz marad mindenki. Délután: Gyors séta az esernyők alatt a várig és a Monumentumig. Este: A színház környéki meleg kávézókban pihenünk meg, figyelve az ablakon kopogó esőt.",
+            "ro": "Dimineața: Piața Centrală strălucește sub ploaie; arcadele primăriei oferă un prim adăpost. La prânz: Traseul subteran este evadarea perfectă la uscat în timp ce afară plouă torențial. După-amiaza: O scurtă plimbare umedă spre Castel și Palatul de vară. Seara: Un final confortabil lângă teatru, unde luminile orașului dansează în bălți.",
+            "en": "Morning: The Market Square glistens in the rain; the Town Hall's arches provide early shelter. Midday: The Underground Route is the perfect dry escape while it pours outside. Afternoon: A brisk, wet walk to the Castle followed by the Summer Palace. Evening: A cozy conclusion near the theatre, watching the city lights reflect in the puddles."
+          },
+          "stops": [
+            {
+              "name": "Market Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden.",
+                "hu": "Használja az árkádokat.",
+                "ro": "Folosiți arcadele.",
+                "en": "Use the arcades for shelter."
+              }
+            },
+            {
+              "name": "Town Hall",
+              "tip_5lang": {
+                "de": "Kaffee im Keller genießen.",
+                "hu": "Kávézzon a pincében.",
+                "ro": "Savurați o cafea la subsol.",
+                "en": "Enjoy coffee in the cellar."
+              }
+            },
+            {
+              "name": "Underground Tourist Route",
+              "tip_5lang": {
+                "de": "Bestes Regenversteck.",
+                "hu": "Legjobb búvóhely esőben.",
+                "ro": "Cel mai bun adăpost.",
+                "en": "Best rainy day hideout."
+              }
+            },
+            {
+              "name": "Parish Church of St. Stanislaus",
+              "tip_5lang": {
+                "de": "Kurze Pause im Trockenen.",
+                "hu": "Rövid száraz pihenő.",
+                "ro": "Scurtă pauză la uscat.",
+                "en": "Brief dry break inside."
+              }
+            },
+            {
+              "name": "Rzeszów Castle",
+              "tip_5lang": {
+                "de": "Vorsicht, rutschige Wege.",
+                "hu": "Vigyázat, csúszós utak.",
+                "ro": "Atenție la potecile ude.",
+                "en": "Careful, slippery paths."
+              }
+            },
+            {
+              "name": "Lubomirski Summer Palace",
+              "tip_5lang": {
+                "de": "Blick von den Bäumen.",
+                "hu": "Kilátás a fák alól.",
+                "ro": "Vedere de sub copaci.",
+                "en": "View from under the trees."
+              }
+            },
+            {
+              "name": "Monument to the Revolutionary Act",
+              "tip_5lang": {
+                "de": "Schnelles Foto im Regen.",
+                "hu": "Gyors fotó az esőben.",
+                "ro": "Poză rapidă prin ploaie.",
+                "en": "Quick photo in the rain."
+              }
+            },
+            {
+              "name": "Wanda Siemaszkowa Theatre",
+              "tip_5lang": {
+                "de": "Säulengang nutzen.",
+                "hu": "Használja az oszlopsort.",
+                "ro": "Folosiți porticul.",
+                "en": "Utilize the portico."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für das Kopfsteinpflaster.",
+              "Die Untergrundroute hält Sie 100 Minuten lang trocken.",
+              "Nutzen Sie die vielen Cafés rund um den Rynek als Stopps.",
+              "Ein Taschenschirm ist bei Wind am Schloss essenziell.",
+              "Die Arkaden am Marktplatz sind ideale Fotospots bei Regen."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a macskaköves utcákhoz.",
+              "A föld alatti útvonal 100 percig szárazon tart.",
+              "Használja a főtér kávézóit pihenőhelyként.",
+              "A várnál a szél miatt erős esernyőre lesz szükség.",
+              "A városháza árkádjai alatt várakozhat a zápor végéig."
+            ],
+            "ro": [
+              "Purtați pantofi impermeabili pentru pavajul cu piatră.",
+              "Traseul subteran vă menține uscat timp de 100 de minute.",
+              "Folosiți cafenelele din jurul pieței pentru pauze.",
+              "O umbrelă rezistentă e vitală lângă castel din cauza vântului.",
+              "Arcadele din piață sunt locuri ideale de refugiu."
+            ],
+            "en": [
+              "Wear waterproof boots for the cobblestone streets.",
+              "The Underground Route keeps you dry for 100 minutes.",
+              "Use the cafes around Rynek as strategic dry stops.",
+              "A sturdy umbrella is essential near the windy castle area.",
+              "The Town Hall arcades are perfect for rain-free photos."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgen: Frostiger Start am Marktplatz, wo der Duft von heißem Tee in der Luft liegt. Mittag: Die Untergrundroute ist mit konstanten 12 Grad angenehm warm im Vergleich zum Frost draußen. Nachmittag: Das Schloss wirkt im Winterlicht majestätisch, während die Dämmerung früh einsetzt. Abend: Ein warmer Platz im Theaterviertel beendet den kalten Tag.",
+            "hu": "Reggel: Dermesztő kezdés a főtéren, a forró tea gőze száll a hideg levegőben. Délben: A föld alatti folyosók 12 fokos állandó hőmérséklete felüdülés a kinti fagy után. Délután: A vár és a palota méltóságteljes a téli fényekben, a nap korán nyugszik. Este: A színház melletti meleg étteremben engedünk fel a nap végén.",
+            "ro": "Dimineața: Start geros în Piața Centrală, unde aburul ceaiului cald plutește în aer. La prânz: Traseul subteran, cu cele 12 grade constante, este cald față de gerul de afară. După-amiaza: Castelul pare maiestuos în lumina iernii, în timp ce amurgul vine devreme. Seara: Un loc călduros lângă teatru încheie ziua friguroasă.",
+            "en": "Morning: A frosty start at the Market Square, with the scent of hot tea in the crisp air. Midday: The Underground Route's constant 12 degrees feels warm compared to the freeze outside. Afternoon: The Castle looks majestic in winter light as dusk arrives early. Evening: Finding a warm spot in the theatre district to thaw out after a cold day."
+          },
+          "stops": [
+            {
+              "name": "Market Square",
+              "tip_5lang": {
+                "de": "Heißgetränk kaufen.",
+                "hu": "Vegyél forró italt.",
+                "ro": "Luați o băutură caldă.",
+                "en": "Buy a hot drink here."
+              }
+            },
+            {
+              "name": "Town Hall",
+              "tip_5lang": {
+                "de": "Innenarchitektur bewundern.",
+                "hu": "Csodáld meg belülről.",
+                "ro": "Admirați interiorul.",
+                "en": "Admire the interior."
+              }
+            },
+            {
+              "name": "Underground Tourist Route",
+              "tip_5lang": {
+                "de": "Aufwärmen bei 12 Grad.",
+                "hu": "Melegedj fel (12 fok).",
+                "ro": "Încălziți-vă la 12 grade.",
+                "en": "Warm up at 12°C inside."
+              }
+            },
+            {
+              "name": "Parish Church of St. Stanislaus",
+              "tip_5lang": {
+                "de": "Stille und Wärme.",
+                "hu": "Csend és melegség.",
+                "ro": "Liniște și căldură.",
+                "en": "Quiet and warmth."
+              }
+            },
+            {
+              "name": "Rzeszów Castle",
+              "tip_5lang": {
+                "de": "Früher Sonnenuntergang.",
+                "hu": "Korai naplemente.",
+                "ro": "Apus de soare timpuriu.",
+                "en": "Early sunset views."
+              }
+            },
+            {
+              "name": "Lubomirski Summer Palace",
+              "tip_5lang": {
+                "de": "Schnee auf den Statuen.",
+                "hu": "Hó a szobrokon.",
+                "ro": "Zăpadă pe statui.",
+                "en": "Snow on the statues."
+              }
+            },
+            {
+              "name": "Monument to the Revolutionary Act",
+              "tip_5lang": {
+                "de": "Windig, Mütze auf!",
+                "hu": "Szeles, sapka kell!",
+                "ro": "Vânt rece, puneți căciula.",
+                "en": "Windy, wear a hat!"
+              }
+            },
+            {
+              "name": "Wanda Siemaszkowa Theatre",
+              "tip_5lang": {
+                "de": "Warmer Ausklang.",
+                "hu": "Meleg befejezés.",
+                "ro": "Final călduros.",
+                "en": "Warm indoor ending."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schichten Sie Ihre Kleidung, der Wind am Denkmal beißt.",
+              "Die Untergrundroute ist im Winter wärmer als draußen.",
+              "Sonnenuntergang ist oft schon gegen 16:00 Uhr.",
+              "Suchen Sie Cafés mit 'Grzaniec' (Glühwein) am Rynek.",
+              "Handschuhe sind für Fotos am Schloss unverzichtbar."
+            ],
+            "hu": [
+              "Öltözz rétegesen, a Monumentumnál harap a szél.",
+              "A föld alatti út télen melegebb, mint a felszín.",
+              "A napnyugta már 16:00 körül bekövetkezik.",
+              "Keresse a forralt bort (Grzaniec) a főtéren.",
+              "A kastélynál fotózáshoz vigyen érintőképernyős kesztyűt."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi, vântul la monument e tăios.",
+              "Traseul subteran e mai cald iarna decât afară.",
+              "Apusul soarelui are loc în jur de ora 16:00.",
+              "Căutați vin fiert (Grzaniec) în Piața Centrală.",
+              "Mănușile sunt indispensabile pentru poze la castel."
+            ],
+            "en": [
+              "Dress in layers; the wind at the Monument is biting.",
+              "The Underground Route is warmer than the surface in winter.",
+              "Sunset occurs as early as 4:00 PM in December.",
+              "Look for 'Grzaniec' (mulled wine) at the Market Square.",
+              "Gloves are essential for taking photos at the Castle."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -814,6 +1040,232 @@
           "Be cautious in squares and pedestrian areas; you might need to dismount.",
           "Some smaller streets may have cobblestones, which makes riding more difficult."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgen: Vorsichtige Fahrt über den nassen Rynek, Schutz unter dem Rathausturm suchen. Mittag: Das Rad sicher parken und die Zeit in der trockenen Untergrundroute verbringen. Nachmittag: Schnelle Fahrt durch die Pfützen zum Schloss und dem monumentalen Denkmal. Abend: Durchnässt, aber zufrieden das Rad am Theater abstellen.",
+            "hu": "Reggel: Óvatos tekerés a vizes főtéren, a Városháza tornya alatt pihenünk meg. Délben: A biciklit biztonságba helyezzük, amíg a föld alatti járatokban bujkálunk az eső elől. Délután: Gyors suhanás a tócsák között a vár és a palota érintésével. Este: Ázottan, de élményekkel teli zárjuk a napot a színháznál.",
+            "ro": "Dimineața: Plimbare prudentă prin piața umedă, adăpost sub turnul primăriei. La prânz: Parcați bicicleta în siguranță și petreceți timp în traseul subteran uscat. După-amiaza: Pedalare rapidă prin bălți spre castel și monumentul impunător. Seara: Ud, dar mulțumit, lăsați bicicleta lângă teatru.",
+            "en": "Morning: Cautious ride across the wet Rynek, seeking cover under the Town Hall tower. Midday: Park the bike securely and spend time in the dry Underground Route. Afternoon: Fast pedaling through puddles toward the Castle and the massive Monument. Evening: Soaked but satisfied, ending the ride near the theatre district."
+          },
+          "stops": [
+            {
+              "name": "Market Square",
+              "tip_5lang": {
+                "de": "Rutschiges Pflaster!",
+                "hu": "Csúszós macskakő!",
+                "ro": "Pavaj alunecos!",
+                "en": "Slippery stones!"
+              }
+            },
+            {
+              "name": "Town Hall",
+              "tip_5lang": {
+                "de": "Überdachter Halt.",
+                "hu": "Fedett megálló.",
+                "ro": "Oprire acoperită.",
+                "en": "Covered stop."
+              }
+            },
+            {
+              "name": "Underground Tourist Route",
+              "tip_5lang": {
+                "de": "Rad gut abschließen.",
+                "hu": "Zárd le jól a gépet.",
+                "ro": "Încuiați bine bicicleta.",
+                "en": "Lock bike securely."
+              }
+            },
+            {
+              "name": "Wanda Siemaszkowa Theatre",
+              "tip_5lang": {
+                "de": "Endstation im Regen.",
+                "hu": "Végállomás az esőben.",
+                "ro": "Final în ploaie.",
+                "en": "Finish in the rain."
+              }
+            },
+            {
+              "name": "Monument to the Revolutionary Act",
+              "tip_5lang": {
+                "de": "Pfützengefahr.",
+                "hu": "Tócsaveszély.",
+                "ro": "Atenție la bălți.",
+                "en": "Puddle alert."
+              }
+            },
+            {
+              "name": "Rzeszów Castle",
+              "tip_5lang": {
+                "de": "Steile, nasse Kurven.",
+                "hu": "Meredek, vizes kanyar.",
+                "ro": "Curbe ude și pante.",
+                "en": "Steep, wet turns."
+              }
+            },
+            {
+              "name": "Lubomirski Summer Palace",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp.",
+                "hu": "Gyors fotómegálló.",
+                "ro": "Oprire foto scurtă.",
+                "en": "Short photo stop."
+              }
+            },
+            {
+              "name": "Parish Church of St. Stanislaus",
+              "tip_5lang": {
+                "de": "Schutz im Portal.",
+                "hu": "Menedék a kapunál.",
+                "ro": "Adăpost la portal.",
+                "en": "Shelter at portal."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Bremsen Sie frühzeitig auf dem nassen Kopfsteinpflaster.",
+              "Tragen Sie eine auffällige Regenjacke für bessere Sicht.",
+              "Die Untergrundroute bietet eine lange Pause vom Regen.",
+              "Vermeiden Sie tiefe Pfützen, sie verbergen Schlaglöcher.",
+              "Ein Sattelschutz hält Ihren Sitz beim Parken trocken."
+            ],
+            "hu": [
+              "Fékezz időben a vizes macskakövön.",
+              "Viselj feltűnő esőkabátot a láthatóságért.",
+              "A föld alatti túra hosszú pihenőt ad az eső elől.",
+              "Kerüld a mély tócsákat, kátyúkat rejthetnek.",
+              "Használj nyeregvédőt, hogy száraz maradjon az ülés."
+            ],
+            "ro": [
+              "Frânați din timp pe pavajul umed.",
+              "Purtați o jachetă de ploaie reflectorizantă.",
+              "Traseul subteran oferă o pauză lungă de la ploaie.",
+              "Evitați bălțile adânci, pot ascunde gropi.",
+              "O husă de șa vă menține scaunul uscat la parcare."
+            ],
+            "en": [
+              "Brake early on the wet cobblestones of the Rynek.",
+              "Wear high-visibility rain gear for safety in gray light.",
+              "The Underground Route gives a long respite from the rain.",
+              "Avoid deep puddles as they may hide potholes.",
+              "Use a saddle cover to keep your seat dry while parked."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgen: Knackige Kälte auf dem Rad, der Rynek liegt unter einer dünnen Eisschicht. Mittag: Die Untergrundroute ist die Rettung vor den abgefrorenen Fingern. Nachmittag: Fahrt durch den Schlosspark, wo die Äste schwer vom Reif hängen. Abend: Ein schnelles Ende der Tour, bevor die Temperaturen bei Einbruch der Dunkelheit stürzen.",
+            "hu": "Reggel: Csípős hideg a bringán, a főteret vékony jégréteg borítja. Délben: A föld alatti járatok megmentenek az elfagyott ujjaktól. Délután: Tekerés a várparkban, ahol az ágak zúzmarásan csüngenek. Este: Gyors befejezés, mielőtt a sötétséggel együtt a hőmérséklet is zuhanni kezdene.",
+            "ro": "Dimineața: Frig pătrunzător pe bicicletă, piața e sub un strat subțire de gheață. La prânz: Traseul subteran este salvarea pentru degetele înghețate. După-amiaza: Plimbare prin parcul castelului, unde ramurile sunt pline de chiciură. Seara: Final rapid înainte ca temperaturile să scadă brusc la lăsarea întuneriku.",
+            "en": "Morning: Crisp cold on the bike, the Rynek covered in a thin layer of frost. Midday: The Underground Route is a lifesaver for frozen fingers. Afternoon: Riding through the castle park where branches hang heavy with rime. Evening: A quick finish to the tour before temperatures plunge at nightfall."
+          },
+          "stops": [
+            {
+              "name": "Market Square",
+              "tip_5lang": {
+                "de": "Eisgefahr in Ecken.",
+                "hu": "Jegesedés a sarkokban.",
+                "ro": "Gheață la colțuri.",
+                "en": "Watch for black ice."
+              }
+            },
+            {
+              "name": "Town Hall",
+              "tip_5lang": {
+                "de": "Kurz Hände wärmen.",
+                "hu": "Melegítsd fel a kezed.",
+                "ro": "Încălziți mâinile.",
+                "en": "Briefly warm hands."
+              }
+            },
+            {
+              "name": "Underground Tourist Route",
+              "tip_5lang": {
+                "de": "12°C genießen.",
+                "hu": "Élvezd a 12 fokot.",
+                "ro": "Bucurați-vă de 12°C.",
+                "en": "Enjoy the 12°C."
+              }
+            },
+            {
+              "name": "Wanda Siemaszkowa Theatre",
+              "tip_5lang": {
+                "de": "Schnell ins Warme.",
+                "hu": "Irány a meleg.",
+                "ro": "Fuga la căldură.",
+                "en": "Dash inside for heat."
+              }
+            },
+            {
+              "name": "Monument to the Revolutionary Act",
+              "tip_5lang": {
+                "de": "Eisiger Gegenwind.",
+                "hu": "Jeges szembe-szél.",
+                "ro": "Vânt înghețat.",
+                "en": "Icy headwind."
+              }
+            },
+            {
+              "name": "Rzeszów Castle",
+              "tip_5lang": {
+                "de": "Vorsicht bei Abfahrt.",
+                "hu": "Óvatosan a lejtőn.",
+                "ro": "Atenție la coborâre.",
+                "en": "Careful on descents."
+              }
+            },
+            {
+              "name": "Lubomirski Summer Palace",
+              "tip_5lang": {
+                "de": "Schneemotive.",
+                "hu": "Havas témák.",
+                "ro": "Motive de iarnă.",
+                "en": "Snowy photo ops."
+              }
+            },
+            {
+              "name": "Parish Church of St. Stanislaus",
+              "tip_5lang": {
+                "de": "Ruhiger Halt.",
+                "hu": "Csendes megálló.",
+                "ro": "Oprire liniștită.",
+                "en": "Quiet winter stop."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie Winterreifen oder reduzieren Sie den Luftdruck.",
+              "Warme Handschuhe und Windstopper sind Pflicht.",
+              "Achten Sie auf Streusalz, es greift die Fahrradkette an.",
+              "Die Tour endet besser vor 16 Uhr wegen der Kälte.",
+              "Beleuchtung ist wegen des grauen Himmels auch tagsüber ratsam."
+            ],
+            "hu": [
+              "Használj téli gumit vagy csökkentsd a keréknyomást.",
+              "A meleg kesztyű és szélfogó kötelező.",
+              "Vigyázz az útszóró sóval, korrodálja a láncot.",
+              "A hideg miatt fejezd be a túrát 16:00 előtt.",
+              "A szürke égbolt miatt nappal is kapcsold be a lámpát."
+            ],
+            "ro": [
+              "Folosiți anvelope de iarnă sau reduceți presiunea.",
+              "Mănușile groase și protecția de vânt sunt obligatorii.",
+              "Atenție la sarea de pe drum, atacă lanțul.",
+              "Încheiați turul înainte de ora 16 din cauza frigului.",
+              "Luminile sunt recomandate și ziua pe cer gri."
+            ],
+            "en": [
+              "Use winter tires or lower your tire pressure for grip.",
+              "Thermal gloves and windstoppers are absolute musts.",
+              "Watch out for road salt; it corrodes bike chains quickly.",
+              "Aim to finish by 4 PM as the chill intensifies after dark.",
+              "Keep your lights on even during the day in winter fog."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1194,6 +1646,214 @@
           "Pay attention to the paid parking zones (Strefa Płatnego Parkowania) and pay the required fees.",
           "The cluster strategy saves time and nerves when looking for parking."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgen: Fahrt durch den Regen zum Altstadtparkplatz. Ein kurzer Sprint zum Rynek genügt. Mittag: Während die Scheiben beschlagen, erkunden Sie entspannt den Untergrund. Nachmittag: Bequemer Wechsel zum Schlossparkplatz, ohne nass zu werden. Abend: Ein kurzer Weg vom Auto zum Monument und dann ins Warme.",
+            "hu": "Reggel: Autózás az esőben az óvárosi parkolóig, egy rövid sprint a főtérig. Délben: Míg az ablakok párásodnak, te a föld alatti járatokban kalandozol. Délután: Kényelmes átállás a vár melletti parkolóba, megúszva az ázást. Este: Csak pár lépés a kocsitól a Monumentum, aztán irány a vacsora.",
+            "ro": "Dimineața: Conducere prin ploaie spre parcarea din centrul vechi. Un sprint scurt spre piață. La prânz: În timp ce geamurile se aburesc, explorați relaxat subteranul. După-amiaza: Schimbare confortabilă spre parcarea castelului, fără a vă uda. Seara: Drum scurt de la mașină la monument și apoi la căldură.",
+            "en": "Morning: Driving through the rain to the Old Town parking; a short dash to Rynek is all it takes. Midday: While windows fog up, you’ll be exploring the dry Underground Route. Afternoon: A comfortable drive to the Castle parking, avoiding the wet. Evening: A quick step from the car to the Monument, then off to dinner."
+          },
+          "stops": [
+            {
+              "name": "Old Town Parking (Cluster A)",
+              "tip_5lang": {
+                "de": "Nah am Ausgang parken.",
+                "hu": "Parkolj a kijárathoz.",
+                "ro": "Parcați lângă ieșire.",
+                "en": "Park near the exit."
+              }
+            },
+            {
+              "name": "Market Square",
+              "tip_5lang": {
+                "de": "Regenschirm im Auto.",
+                "hu": "Esernyő a kocsiban.",
+                "ro": "Umbrela în mașină.",
+                "en": "Keep umbrella in car."
+              }
+            },
+            {
+              "name": "Underground Tourist Route",
+              "tip_5lang": {
+                "de": "Lange Trockenphase.",
+                "hu": "Hosszú száraz etap.",
+                "ro": "Etapă lungă uscată.",
+                "en": "Long dry period."
+              }
+            },
+            {
+              "name": "Parish Church of St. Stanislaus",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg.",
+                "hu": "Rövid gyalogút.",
+                "ro": "Drum scurt pe jos.",
+                "en": "Short walk from car."
+              }
+            },
+            {
+              "name": "Castle Parking (Cluster B)",
+              "tip_5lang": {
+                "de": "Gute Sicht prüfen.",
+                "hu": "Ellenőrizd a látást.",
+                "ro": "Verificați vizibilitatea.",
+                "en": "Check visibility."
+              }
+            },
+            {
+              "name": "Rzeszów Castle",
+              "tip_5lang": {
+                "de": "Direkte Zufahrt.",
+                "hu": "Közvetlen behajtás.",
+                "ro": "Acces direct.",
+                "en": "Direct access."
+              }
+            },
+            {
+              "name": "Monument to the Revolutionary Act (Cluster C)",
+              "tip_5lang": {
+                "de": "Im Auto warten.",
+                "hu": "Várj a kocsiban.",
+                "ro": "Așteptați în mașină.",
+                "en": "Wait in car if pouring."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Parkcluster, um Wege im Regen zu minimieren.",
+              "Prüfen Sie Ihre Scheibenwischer vor der Abfahrt.",
+              "Lassen Sie nasse Schirme im Kofferraum.",
+              "Die Parkgebühren können per App bezahlt werden.",
+              "Vermeiden Sie tiefere Senken auf Parkplätzen wegen Aquaplaning."
+            ],
+            "hu": [
+              "Használd a parkolókat a gyaloglás minimalizálásához.",
+              "Indulás előtt ellenőrizd az ablaktörlőket.",
+              "A vizes esernyőt tartsd a csomagtartóban.",
+              "A parkolást mobilalkalmazással is fizetheted.",
+              "Kerüld a mélyebb részeket a parkolókban a vízátfolyás miatt."
+            ],
+            "ro": [
+              "Folosiți parcările pentru a minimiza mersul prin ploaie.",
+              "Verificați ștergătoarele înainte de plecare.",
+              "Păstrați umbrela udă în portbagaj.",
+              "Parcarea poate fi plătită prin aplicație mobilă.",
+              "Evitați zonele joase din parcări din cauza acumulării apei."
+            ],
+            "en": [
+              "Use the parking clusters to minimize walking in heavy rain.",
+              "Check your wipers before starting the city tour.",
+              "Keep wet umbrellas in the trunk to avoid fogging windows.",
+              "Parking fees can be paid via mobile apps for convenience.",
+              "Avoid deep puddles in parking lots to prevent hydroplaning."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgen: Das Auto vorheizen, bevor es zum frostigen Rynek geht. Mittag: Ein warmer Stopp im Auto zwischen der Untergrundroute und der Kirche. Nachmittag: Kurze Fahrten von Parkplatz zu Parkplatz schützen vor dem eisigen Wind am Schloss. Abend: Sicherer Rückzug ins beheizte Fahrzeug nach einem kalten Tag.",
+            "hu": "Reggel: Melegítsd elő az autót a fagyos főtér előtt. Délben: Egy meleg pihenő a kocsiban a föld alatti túra és a templom között. Délután: Rövid utak parkolótól parkolóig, védve a vár környéki jeges széltől. Este: Biztonságos visszavonulás a fűtött utastérbe a hideg nap után.",
+            "ro": "Dimineața: Preîncălziți mașina înainte de a pleca spre piața geroasă. La prânz: O pauză caldă în mașină între traseul subteran și biserică. După-amiaza: Drumuri scurte între parcări, protejați de vântul înghețat de la castel. Seara: Retragere sigură în vehiculul încălzit după o zi rece.",
+            "en": "Morning: Preheat the car before heading to the frosty Rynek. Midday: A warm break in the car between the Underground Route and the church. Afternoon: Short drives from lot to lot protect you from the icy wind near the Castle. Evening: A safe retreat into the heated vehicle after a freezing day."
+          },
+          "stops": [
+            {
+              "name": "Old Town Parking (Cluster A)",
+              "tip_5lang": {
+                "de": "Scheiben enteisen.",
+                "hu": "Jégmentesíts.",
+                "ro": "Dezghețați geamurile.",
+                "en": "De-ice the windows."
+              }
+            },
+            {
+              "name": "Market Square",
+              "tip_5lang": {
+                "de": "Sitzheizung nutzen.",
+                "hu": "Ülésfűtés be!",
+                "ro": "Folosiți încălzirea.",
+                "en": "Use seat heating."
+              }
+            },
+            {
+              "name": "Underground Tourist Route",
+              "tip_5lang": {
+                "de": "Entspannt aufwärmen.",
+                "hu": "Melegedj fel.",
+                "ro": "Încălzire relaxată.",
+                "en": "Relax and warm up."
+              }
+            },
+            {
+              "name": "Parish Church of St. Stanislaus",
+              "tip_5lang": {
+                "de": "Motor kurz laufen lassen.",
+                "hu": "Járasd a motort.",
+                "ro": "Lăsați motorul pornit.",
+                "en": "Keep engine warm."
+              }
+            },
+            {
+              "name": "Castle Parking (Cluster B)",
+              "tip_5lang": {
+                "de": "Schnee am Reifen.",
+                "hu": "Hó a guminál.",
+                "ro": "Zăpadă pe roți.",
+                "en": "Snow near tires."
+              }
+            },
+            {
+              "name": "Rzeszów Castle",
+              "tip_5lang": {
+                "de": "Beheizte Anfahrt.",
+                "hu": "Fűtött érkezés.",
+                "ro": "Sosire cu căldură.",
+                "en": "Heated arrival."
+              }
+            },
+            {
+              "name": "Monument to the Revolutionary Act (Cluster C)",
+              "tip_5lang": {
+                "de": "Windgeschützt parken.",
+                "hu": "Szélvédett parkolás.",
+                "ro": "Parcare protejată.",
+                "en": "Park sheltered from wind."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Glatteis auf den Parkplatzflächen.",
+              "Halten Sie Enteiser-Spray im Auto bereit.",
+              "Winterreifen sind in Polen bei Schnee absolut notwendig.",
+              "Die Batterie wird bei Kurzstrecken im Winter stark belastet.",
+              "Planen Sie mehr Zeit für die Parkplatzsuche bei Schneeräumung ein."
+            ],
+            "hu": [
+              "Vigyázz a jegesedésre a parkolók területén.",
+              "Legyen nálad jégoldó spray az autóban.",
+              "Lengyelországban a téli gumi kötelező hó esetén.",
+              "A rövid utak télen megterhelik az akkumulátort.",
+              "Hókotrás idején számolj több idővel a parkoláshoz."
+            ],
+            "ro": [
+              "Atenție la polei în zonele de parcare.",
+              "Păstrați un spray de dezghețare în mașină.",
+              "Anvelopele de iarnă sunt obligatorii în Polonia pe zăpadă.",
+              "Bateria este solicitată la drumuri scurte iarna.",
+              "Alocați mai mult timp parcării în timpul deszăpezirii."
+            ],
+            "en": [
+              "Watch out for black ice in open parking areas.",
+              "Keep de-icing spray handy inside the vehicle.",
+              "Winter tires are essential in Poland during snowy periods.",
+              "Frequent short drives in winter can drain your battery.",
+              "Allow extra time for parking if snow removal is active."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1574,6 +2234,214 @@
           "Buses can be crowded during peak hours, so plan for a little extra time.",
           "Check the schedules in advance, especially in the evening and on weekends."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgen: Ankunft am Rynek, die Buswartehäuschen bieten Schutz vor dem ersten Guss. Mittag: Die Untergrundroute ist das Highlight ohne Regenrisiko. Nachmittag: Kurze Fahrt mit dem Bus zum Schloss, um lange Wege im Regen zu vermeiden. Abend: Bequeme Rückfahrt mit dem Bus, während die Regentropfen gegen die Scheiben trommeln.",
+            "hu": "Reggel: Érkezés a főtérre, a buszmegállók védenek az első záportól. Délben: A föld alatti túra a nap fénypontja, ahol nincs eső. Délután: Rövid buszozás a várig, hogy elkerüljük a hosszas ázást a szabadban. Este: Kényelmes hazautazás, miközben az esőcseppek dobolnak a busz ablakán.",
+            "ro": "Dimineața: Sosire în Piața Centrală, stațiile de autobuz oferă protecție. La prânz: Traseul subteran este punctul culminant fără risc de ploaie. După-amiaza: Călătorie scurtă cu autobuzul spre castel pentru a evita ploaia. Seara: Întoarcere confortabilă cu autobuzul în timp ce ploaia bate în geam.",
+            "en": "Morning: Arrival at Rynek; the bus shelters offer protection from the first downpour. Midday: The Underground Route is the highlight, with zero rain risk. Afternoon: A short bus ride to the Castle to avoid long walks in the wet. Evening: A comfortable transit ride back while raindrops drum against the windows."
+          },
+          "stops": [
+            {
+              "name": "Market Square (Cluster A)",
+              "tip_5lang": {
+                "de": "Unterstand nutzen.",
+                "hu": "Használd a várót.",
+                "ro": "Folosiți stația.",
+                "en": "Use the shelter."
+              }
+            },
+            {
+              "name": "Town Hall",
+              "tip_5lang": {
+                "de": "Arkadennaher Halt.",
+                "hu": "Árkád közeli megálló.",
+                "ro": "Oprire lângă arcade.",
+                "en": "Stop near arcades."
+              }
+            },
+            {
+              "name": "Underground Tourist Route",
+              "tip_5lang": {
+                "de": "Trockenes Erlebnis.",
+                "hu": "Száraz élmény.",
+                "ro": "Experiență uscată.",
+                "en": "Dry experience."
+              }
+            },
+            {
+              "name": "Rzeszów Castle (Cluster B)",
+              "tip_5lang": {
+                "de": "Bus hält nah am Tor.",
+                "hu": "Busz a kapunál áll meg.",
+                "ro": "Autobuzul oprește aproape.",
+                "en": "Bus stops near gate."
+              }
+            },
+            {
+              "name": "Lubomirski Summer Palace",
+              "tip_5lang": {
+                "de": "Weg unter Bäumen.",
+                "hu": "Út a fák alatt.",
+                "ro": "Drum pe sub copaci.",
+                "en": "Walk under trees."
+              }
+            },
+            {
+              "name": "Monument to the Revolutionary Act (Cluster C)",
+              "tip_5lang": {
+                "de": "Schneller Umstieg.",
+                "hu": "Gyors átszállás.",
+                "ro": "Transfer rapid.",
+                "en": "Quick transfer."
+              }
+            },
+            {
+              "name": "Parish Church of St. Stanislaus",
+              "tip_5lang": {
+                "de": "Zentraler Busknoten.",
+                "hu": "Központi csomópont.",
+                "ro": "Nod central de bus.",
+                "en": "Central bus hub."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die App 'Jakdojade' für Echtzeit-Infos bei Regen.",
+              "Die Busse in Rzeszów sind meist modern und trocken.",
+              "Halten Sie Ihr Ticket griffbereit, um nicht im Regen zu suchen.",
+              "Buswartehäuschen am Rynek sind oft überfüllt.",
+              "Einige Buslinien fahren direkt zwischen den Sehenswürdigkeiten."
+            ],
+            "hu": [
+              "Használd a 'Jakdojade' appot a valós idejű infókért.",
+              "Rzeszów buszai modernek és szárazak.",
+              "Tartsd kéznél a jegyed, ne az esőben keresgélj.",
+              "A főtéri buszmegállók esőben hamar megtelnek.",
+              "Egyes vonalak közvetlenül a látnivalók között közlekednek."
+            ],
+            "ro": [
+              "Folosiți aplicația 'Jakdojade' pentru info în timp real.",
+              "Autobuzele din Rzeszów sunt moderne și uscate.",
+              "Țineți biletul la îndemână, nu căutați prin ploaie.",
+              "Stațiile de autobuz din piață pot fi aglomerate.",
+              "Anumite linii de autobuz fac legătura directă între obiective."
+            ],
+            "en": [
+              "Use the 'Jakdojade' app for real-time updates during rain.",
+              "Rzeszów buses are mostly modern and keep you dry.",
+              "Have your ticket ready to avoid fumbling in the rain.",
+              "Bus shelters near the Rynek can get crowded during storms.",
+              "Some bus lines connect major sights directly, reducing walking."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgen: Im beheizten Bus zum frostigen Marktplatz fahren. Mittag: Ein warmer Kontrast zwischen der Untergrundroute und der kurzen Busfahrt. Nachmittag: Der Bus bringt Sie direkt zum Schloss, ohne durch den kalten Wind laufen zu müssen. Abend: Bequemer Abschluss im warmen Transit zurück zum Hotel.",
+            "hu": "Reggel: Fűtött busszal érkezés a fagyos főtérre. Délben: Kellemes kontraszt a föld alatti túra és a buszozás között. Délután: A busz közvetlenül a várhoz visz, megkímélve a hideg széltől. Este: Kényelmes befejezés, meleg utastérben zötykölődve a hotelig.",
+            "ro": "Dimineața: Călătorie cu autobuzul încălzit spre piața geroasă. La prânz: Contrast plăcut între traseul subteran și călătoria scurtă. După-amiaza: Autobuzul vă lasă direct la castel, evitând vântul rece. Seara: Final confortabil în tranzitul călduros spre hotel.",
+            "en": "Morning: Riding a heated bus to the frosty Market Square. Midday: A warm contrast between the Underground Route and a quick bus hop. Afternoon: The bus drops you near the Castle, saving you from the biting wind. Evening: A cozy finish, riding the warm transit back to your stay."
+          },
+          "stops": [
+            {
+              "name": "Market Square (Cluster A)",
+              "tip_5lang": {
+                "de": "Beheizte Busse.",
+                "hu": "Fűtött buszok.",
+                "ro": "Autobuze încălzite.",
+                "en": "Heated buses."
+              }
+            },
+            {
+              "name": "Town Hall",
+              "tip_5lang": {
+                "de": "Kurzer Kälteschock.",
+                "hu": "Rövid hidegsokk.",
+                "ro": "Șoc scurt de frig.",
+                "en": "Brief cold shock."
+              }
+            },
+            {
+              "name": "Underground Tourist Route",
+              "tip_5lang": {
+                "de": "Angenehme 12 Grad.",
+                "hu": "Kellemes 12 fok.",
+                "ro": "12 grade plăcute.",
+                "en": "Pleasant 12°C."
+              }
+            },
+            {
+              "name": "Rzeszów Castle (Cluster B)",
+              "tip_5lang": {
+                "de": "Windgeschützter Halt.",
+                "hu": "Szélvédett megálló.",
+                "ro": "Oprire protejată.",
+                "en": "Sheltered stop."
+              }
+            },
+            {
+              "name": "Lubomirski Summer Palace",
+              "tip_5lang": {
+                "de": "Winterfotos.",
+                "hu": "Téli fotók.",
+                "ro": "Poze de iarnă.",
+                "en": "Winter photos."
+              }
+            },
+            {
+              "name": "Monument to the Revolutionary Act (Cluster C)",
+              "tip_5lang": {
+                "de": "Schnell zum Bus.",
+                "hu": "Irány a busz.",
+                "ro": "Fuga la autobuz.",
+                "en": "Quickly back to bus."
+              }
+            },
+            {
+              "name": "Parish Church of St. Stanislaus",
+              "tip_5lang": {
+                "de": "Warmer Knotenpunkt.",
+                "hu": "Meleg csomópont.",
+                "ro": "Nod călduros.",
+                "en": "Warm transit hub."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Busse sind im Winter gut beheizt, ideal zum Aufwärmen.",
+              "Warten Sie in Geschäften nahe der Haltestelle auf den Bus.",
+              "Fahrpläne können sich bei starkem Schneefall verzögern.",
+              "Berührungslose Kartenzahlung im Bus ist am einfachsten.",
+              "Tragen Sie feste Schuhe für den Weg von der Haltestelle."
+            ],
+            "hu": [
+              "A buszok télen jól fűtöttek, ideálisak melegedni.",
+              "A buszra várva húzódj be egy közeli boltba.",
+              "Erős havazáskor a menetrendben csúszások lehetnek.",
+              "A buszon a bankkártyás fizetés a legegyszerűbb.",
+              "Viselj stabil cipőt a megállótól vezető útra."
+            ],
+            "ro": [
+              "Autobuzele sunt bine încălzite, ideale pentru încălzire.",
+              "Așteptați autobuzul în magazinele din apropiere.",
+              "Orarele pot avea întârzieri la ninsori abundente.",
+              "Plata cu cardul în autobuz este cea mai simplă metodă.",
+              "Purtați încălțăminte solidă pentru drumul de la stație."
+            ],
+            "en": [
+              "Buses are well-heated in winter, ideal for warming up between sights.",
+              "Wait inside nearby shops rather than at the curb to stay warm.",
+              "Schedules may be delayed during heavy snowfall; use the app.",
+              "Contactless card payment on board is the easiest way to buy tickets.",
+              "Wear sturdy boots for the short walks from the bus stops."
+            ]
+          }
+        }
       }
     }
   }

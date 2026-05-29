@@ -358,6 +358,188 @@
           "Check the school museum's opening hours in advance.",
           "Bring a water bottle for the walk in the forest and the climb up the Gurten."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet das Gurtendorf im Regen eine mystische Atmosphäre. Mittags verbringen wir viel Zeit im trockenen Schloss Köniz und der Kirche. Nachmittags besuchen wir das Schulmuseum Haberhuus, das ideal für regnerische Stunden ist. Abends bietet der Gurten trotz Wolken einen weiten Blick über das nasse Bern.",
+            "hu": "Reggel a Gurtendorf misztikus hangulatot áraszt az esőben. Délben a Könizi-kastély és a templom belső tereiben húzódunk meg. Délután a Haberhuus Iskolamúzeum tökéletes menedék a csapadék elől. Este a Gurten kilátója a felhők ellenére is látványos panorámát nyújt a vizes Bernre.",
+            "ro": "Dimineața, Gurtendorf oferă o atmosferă mistică în ploaie. La prânz, petrecem timp în interiorul Castelului Köniz și al bisericii. După-amiaza vizităm Muzeul Școlar Haberhuus, ideal pentru orele ploioase. Seara, Gurten oferă o vedere largă asupra Bernei umede, în ciuda norilor.",
+            "en": "In the morning, Gurtendorf offers a mystical atmosphere in the rain. At noon, we spend plenty of time inside Köniz Castle and the church. In the afternoon, we visit the Haberhuus School Museum, ideal for rainy hours. In the evening, the Gurten provides a wide view over wet Bern despite the clouds."
+          },
+          "stops": [
+            {
+              "name": "Gurtendorf village center",
+              "tip_5lang": {
+                "de": "Regenschirm mitnehmen, das Kopfsteinpflaster kann bei Nässe etwas rutschig sein.",
+                "hu": "Vigyél esernyőt, a macskaköves út nedvesen csúszós lehet.",
+                "ro": "Luați o umbrelă, pavajul poate fi alunecos când este ud.",
+                "en": "Take an umbrella, the cobblestones can be a bit slippery when wet."
+              }
+            },
+            {
+              "name": "Köniz Castle",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Innenhof und die Ausstellungsräume als Regenschutz.",
+                "hu": "Használja a fedett belső udvart és a kiállítótereket eső elleni védelemként.",
+                "ro": "Folosiți curtea interioară acoperită și sălile de expoziție ca adăpost.",
+                "en": "Use the covered courtyard and exhibition rooms as rain shelter."
+              }
+            },
+            {
+              "name": "St. Peter and Paul Church",
+              "tip_5lang": {
+                "de": "Ein ruhiger, trockener Ort für eine kurze Pause während eines Schauers.",
+                "hu": "Csendes, száraz hely egy rövid pihenőhöz egy zápor alatt.",
+                "ro": "Un loc liniștit și uscat pentru o scurtă pauză în timpul unei averse.",
+                "en": "A quiet, dry place for a short break during a shower."
+              }
+            },
+            {
+              "name": "Haberhuus School Museum",
+              "tip_5lang": {
+                "de": "Perfektes Indoor-Ziel; planen Sie hier bei starkem Regen mehr Zeit ein.",
+                "hu": "Tökéletes fedett célpont; heves eső esetén tervezzen ide több időt.",
+                "ro": "Destinație interioară perfectă; planificați mai mult timp aici în caz de ploaie abundentă.",
+                "en": "Perfect indoor destination; plan more time here if it rains heavily."
+              }
+            },
+            {
+              "name": "Könizbergwald Forest",
+              "tip_5lang": {
+                "de": "Die dichten Bäume bieten etwas Schutz, aber die Wege können matschig sein.",
+                "hu": "A sűrű fák adnak némi védelmet, de az utak sárosak lehetnek.",
+                "ro": "Copacii deși oferă o oarecare protecție, dar potecile pot fi noroioase.",
+                "en": "Dense trees offer some shelter, but paths can be muddy."
+              }
+            },
+            {
+              "name": "Viewpoint on the Gurten",
+              "tip_5lang": {
+                "de": "Der Nebel über der Stadt erzeugt oft eine sehr fotogene Stimmung.",
+                "hu": "A város feletti köd gyakran nagyon fotogén hangulatot áraszt.",
+                "ro": "Ceața de deasupra orașului creează adesea o atmosferă foarte fotogenică.",
+                "en": "The mist over the city often creates a very photogenic mood."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Wasserdichte Schuhe sind für die Waldwege im Könizbergwald unerlässlich.",
+              "Das Haberhuus bietet den besten Schutz bei lang anhaltendem Regen.",
+              "Die Gurtenbahn ist überdacht und bringt Sie trocken auf den Gipfel.",
+              "Nutzen Sie die Arkaden in der Nähe des Schlosses für kurze Pausen."
+            ],
+            "hu": [
+              "A vízálló cipő elengedhetetlen a Könizbergwald erdei útjaihoz.",
+              "A Haberhuus nyújtja a legjobb védelmet tartós eső esetén.",
+              "A Gurtenbahn fedett, így szárazon juthat fel a csúcsra.",
+              "Használja a kastély közeli árkádokat rövid pihenőkhöz."
+            ],
+            "ro": [
+              "Încălțămintea impermeabilă este esențială pentru potecile din Könizbergwald.",
+              "Haberhuus oferă cea mai bună protecție în caz de ploaie persistentă.",
+              "Gurtenbahn este acoperit și vă duce uscat până în vârf.",
+              "Folosiți arcadele din apropierea castelului pentru pauze scurte."
+            ],
+            "en": [
+              "Waterproof shoes are essential for the forest paths in Könizbergwald.",
+              "The Haberhuus offers the best protection during persistent rain.",
+              "The Gurtenbahn is covered and takes you to the summit dry.",
+              "Use the arcades near the castle for short breaks."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens glitzert der Reif auf den Dächern des Gurtendorfs. Mittags wärmen wir uns in den historischen Mauern von Schloss Köniz auf. Nachmittags bietet das Schulmuseum wohlige Wärme vor dem Spaziergang im Winterwald. Abends erleben wir einen frühen, klaren Sonnenuntergang auf dem Gurten bei klirrender Kälte.",
+            "hu": "Reggel dér csillog a Gurtendorf tetőin. Délben a Könizi-kastély történelmi falai között melegszünk fel. Délután az iskolamúzeum nyújt otthonos meleget a téli erdei séta előtt. Este korai, tiszta naplementét élhetünk át a Gurtenen a csípős hidegben.",
+            "ro": "Dimineața, promoroaca strălucește pe acoperișurile din Gurtendorf. La prânz, ne încălzim între zidurile istorice ale Castelului Köniz. După-amiaza, muzeul școlar oferă căldură primitoare înainte de plimbarea prin pădurea de iarnă. Seara, trăim un apus clar și timpuriu pe Gurten, în frigul pătrunzător.",
+            "en": "In the morning, frost glistens on the roofs of Gurtendorf. At noon, we warm up within the historic walls of Köniz Castle. In the afternoon, the school museum provides cozy warmth before a walk in the winter forest. In the evening, we experience an early, clear sunset on the Gurten in the biting cold."
+          },
+          "stops": [
+            {
+              "name": "Gurtendorf village center",
+              "tip_5lang": {
+                "de": "Vorsicht vor Glatteis auf den schattigen Gassen am Morgen.",
+                "hu": "Reggelente vigyázzon a jegesedésre az árnyékos utcákon.",
+                "ro": "Atenție la polei pe străzile umbrite dimineața.",
+                "en": "Watch out for black ice on shaded alleys in the morning."
+              }
+            },
+            {
+              "name": "Köniz Castle",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ausstellungen im Inneren, um sich aufzuwärmen.",
+                "hu": "Látogassa meg a belső kiállításokat, hogy felmelegedjen.",
+                "ro": "Vizitați expozițiile din interior pentru a vă încălzi.",
+                "en": "Visit the indoor exhibitions to warm up."
+              }
+            },
+            {
+              "name": "St. Peter and Paul Church",
+              "tip_5lang": {
+                "de": "Die Kirche bietet eine friedliche Atmosphäre und Schutz vor Wind.",
+                "hu": "A templom békés hangulatot és szélvédelmet nyújt.",
+                "ro": "Biserica oferă o atmosferă liniștită și protecție împotriva vântului.",
+                "en": "The church offers a peaceful atmosphere and protection from the wind."
+              }
+            },
+            {
+              "name": "Haberhuus School Museum",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Kälte draußen für eine Weile zu vergessen.",
+                "hu": "Ideális hely, hogy egy időre elfelejtse a kinti hideget.",
+                "ro": "Un loc ideal pentru a uita de frigul de afară pentru o vreme.",
+                "en": "An ideal place to forget the cold outside for a while."
+              }
+            },
+            {
+              "name": "Könizbergwald Forest",
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille des verschneiten Waldes; festes Schuhwerk wichtig.",
+                "hu": "Élvezze a havas erdő csendjét; a stabil lábbeli fontos.",
+                "ro": "Bucurați-vă de liniștea pădurii înzăpezite; încălțămintea solidă este importantă.",
+                "en": "Enjoy the silence of the snowy forest; sturdy footwear is important."
+              }
+            },
+            {
+              "name": "Viewpoint on the Gurten",
+              "tip_5lang": {
+                "de": "Warme Kleidung einplanen, da der Wind hier oben im Winter kräftig weht.",
+                "hu": "Tervezzen meleg ruházatot, mert itt fent télen erősen fúj a szél.",
+                "ro": "Planificați haine groase, deoarece vântul suflă puternic aici sus iarna.",
+                "en": "Plan for warm clothing, as the wind blows strongly up here in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Winter bereits gegen 16:45 Uhr unter.",
+              "Zwiebelprinzip bei der Kleidung schützt am besten vor der Kälte.",
+              "Auf dem Gurten gibt es oft Möglichkeiten für Schlittenfahrten bei Schnee.",
+              "Warme Getränke in Thermoskanne für die Waldetappe mitnehmen."
+            ],
+            "hu": [
+              "Télen a nap már 16:45 körül lemegy.",
+              "A réteges öltözködés véd a legjobban a hideg ellen.",
+              "Hó esetén a Gurtenen gyakran van lehetőség szánkózásra.",
+              "Vigyél meleg italt termoszhordozóban az erdei szakaszhoz."
+            ],
+            "ro": [
+              "Iarna, soarele apune deja în jurul orei 16:45.",
+              "Îmbrăcămintea în straturi protejează cel mai bine împotriva frigului.",
+              "Pe Gurten există adesea posibilități de săniuș în caz de zăpadă.",
+              "Luați băuturi calde într-un termos pentru etapa prin pădure."
+            ],
+            "en": [
+              "In winter, the sun sets as early as 4:45 PM.",
+              "Layering your clothes is the best protection against the cold.",
+              "On the Gurten, there are often opportunities for sledding when it snows.",
+              "Take warm drinks in a thermos for the forest section."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -714,6 +896,188 @@
           "A helmet is highly recommended.",
           "The Gurtenbahn has special fares for bikers."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens radeln wir durch das neblige Köniz zum Schloss. Mittags suchen wir Schutz in den historischen Gebäuden. Nachmittags geht es vorsichtig durch den nassen Könizbergwald zum Ofenhaus. Abends lassen wir die Tour im Park im Grünen auf dem Gurten ausklingen, während der Regen hoffentlich nachlässt.",
+            "hu": "Reggel a ködös Könizen át kerekezünk a kastélyhoz. Délben a történelmi épületekben keresünk menedéket. Délután óvatosan haladunk a vizes Könizbergwaldon át az Ofenhaus felé. Este a túrát a Gurtenen, a Park im Grünenben zárjuk, miközben az eső remélhetőleg alábbhagy.",
+            "ro": "Dimineața pedalăm prin Köniz-ul cețos către castel. La prânz căutăm adăpost în clădirile istorice. După-amiaza mergem cu atenție prin Könizbergwald-ul umed spre Ofenhaus. Seara încheiem turul în Park im Grünen de pe Gurten, în timp ce ploaia sperăm că se va opri.",
+            "en": "In the morning, we cycle through misty Köniz to the castle. At noon, we seek shelter in the historic buildings. In the afternoon, we ride carefully through the wet Könizbergwald to the Ofenhaus. In the evening, we finish the tour at the Park im Grünen on the Gurten, while the rain hopefully subsides."
+          },
+          "stops": [
+            {
+              "name": "Gurtendorf village center",
+              "tip_5lang": {
+                "de": "Vorsicht beim Bremsen auf nassen Pflastersteinen im Dorf.",
+                "hu": "Vigyázzon a fékezéssel a falu vizes macskakövein.",
+                "ro": "Atenție la frânare pe pavajul ud din sat.",
+                "en": "Be careful when braking on wet cobblestones in the village."
+              }
+            },
+            {
+              "name": "Köniz Castle",
+              "tip_5lang": {
+                "de": "Sichere Fahrradständer befinden sich in der Nähe der Schlosseingänge.",
+                "hu": "Biztonságos kerékpártárolók találhatók a kastély bejáratánál.",
+                "ro": "Suporturi sigure pentru biciclete se află lângă intrările castelului.",
+                "en": "Secure bike racks are located near the castle entrances."
+              }
+            },
+            {
+              "name": "Könizbergwald Forest",
+              "tip_5lang": {
+                "de": "Die Wege können rutschig sein; Mountainbike-Reifen sind von Vorteil.",
+                "hu": "Az utak csúszósak lehetnek; a terepgumi előnyt jelent.",
+                "ro": "Potecile pot fi alunecoase; anvelopele de mountain bike sunt un avantaj.",
+                "en": "Paths can be slippery; mountain bike tires are an advantage."
+              }
+            },
+            {
+              "name": "Ofenhaus (Kiln House)",
+              "tip_5lang": {
+                "de": "Ein interessanter Stopp, um kurz im Trockenen zu verweilen.",
+                "hu": "Érdekes megálló, hogy egy rövid időt szárazon töltsön.",
+                "ro": "O oprire interesantă pentru a zăbovi puțin la uscat.",
+                "en": "An interesting stop to linger in the dry for a short while."
+              }
+            },
+            {
+              "name": "Reformed Church Wabern",
+              "tip_5lang": {
+                "de": "Unterstand am Kircheneingang bei plötzlichen Schauern nutzen.",
+                "hu": "Hirtelen zápor esetén használja a templombejárat alatti védelmet.",
+                "ro": "Folosiți adăpostul de la intrarea în biserică în caz de averse bruște.",
+                "en": "Use the shelter at the church entrance during sudden showers."
+              }
+            },
+            {
+              "name": "Gurten - Park in the Green",
+              "tip_5lang": {
+                "de": "Die Gurtenbahn transportiert auch Fahrräder bei schlechtem Wetter.",
+                "hu": "A Gurtenbahn rossz idő esetén kerékpárokat is szállít.",
+                "ro": "Gurtenbahn transportă și biciclete în caz de vreme rea.",
+                "en": "The Gurtenbahn also transports bicycles in bad weather."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie auffällige Regenkleidung, da die Sicht oft eingeschränkt ist.",
+              "Vermeiden Sie tiefere Pfützen im Wald, da deren Tiefe oft täuscht.",
+              "Schutzbleche am Fahrrad halten den Schlamm von der Kleidung fern.",
+              "Prüfen Sie Ihre Bremsbeläge vor der Abfahrt vom Gurten."
+            ],
+            "hu": [
+              "Viseljen feltűnő esőruházatot, mert a látótávolság gyakran korlátozott.",
+              "Kerülje a mélyebb tócsákat az erdőben, mert a mélységük csalóka lehet.",
+              "A sárvédő segít távol tartani a sarat a ruházatától.",
+              "Ellenőrizze a fékbetéteket a Gurtenről való leereszkedés előtt."
+            ],
+            "ro": [
+              "Purtați haine de ploaie vizibile, deoarece vizibilitatea este adesea limitată.",
+              "Evitați bălțile adânci din pădure, deoarece adâncimea lor poate fi înșelătoare.",
+              "Apărătorile de noroi vor ține noroiul departe de haine.",
+              "Verificați plăcuțele de frână înainte de coborârea de pe Gurten."
+            ],
+            "en": [
+              "Wear high-visibility rain gear as visibility is often limited.",
+              "Avoid deeper puddles in the forest as their depth is often deceptive.",
+              "Mudguards on your bike keep the mud off your clothes.",
+              "Check your brake pads before descending from the Gurten."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens fordert die frische Winterluft auf dem Weg zum Schloss Köniz. Mittags genießen wir die Ruhe in den Gassen von Wabern. Nachmittags erleben wir den winterlichen Könizbergwald auf zwei Rädern. Abends krönen wir den Tag mit dem Blick vom Gurten, während die Lichter von Bern in der Kälte funkeln.",
+            "hu": "Reggel a friss téli levegő kísér a Könizi-kastély felé. Délben élvezzük a csendet Wabern utcáin. Délután két keréken fedezzük fel a téli Könizbergwaldot. Este a napot a gurteni kilátással koronázzuk meg, miközben Bern fényei csillognak a hidegben.",
+            "ro": "Dimineața, aerul proaspăt de iarnă ne însoțește pe drumul spre Castelul Köniz. La prânz ne bucurăm de liniștea de pe străzile din Wabern. După-amiaza experimentăm Könizbergwald-ul hibernal pe două roți. Seara încoronăm ziua cu vederea de pe Gurten, în timp ce luminile Bernei sclipesc în frig.",
+            "en": "In the morning, the fresh winter air challenges us on the way to Köniz Castle. At noon, we enjoy the quiet in the alleys of Wabern. In the afternoon, we experience the wintery Könizbergwald on two wheels. In the evening, we crown the day with the view from the Gurten as the lights of Bern twinkle in the cold."
+          },
+          "stops": [
+            {
+              "name": "Gurtendorf village center",
+              "tip_5lang": {
+                "de": "Achten Sie auf gefrorene Stellen zwischen den Häusern.",
+                "hu": "Ügyeljen a fagyott foltokra a házak között.",
+                "ro": "Atenție la zonele înghețate dintre case.",
+                "en": "Watch out for frozen patches between the houses."
+              }
+            },
+            {
+              "name": "Köniz Castle",
+              "tip_5lang": {
+                "de": "Kurze Pause einlegen und sich in den Innenräumen aufwärmen.",
+                "hu": "Tartson egy rövid szünetet és melegedjen fel a belső terekben.",
+                "ro": "Faceți o scurtă pauză și încălziți-vă în interior.",
+                "en": "Take a short break and warm up in the indoor areas."
+              }
+            },
+            {
+              "name": "Könizbergwald Forest",
+              "tip_5lang": {
+                "de": "Die Wege können bei Frost sehr hart und uneben sein.",
+                "hu": "Fagy esetén az utak nagyon kemények és egyenetlenek lehetnek.",
+                "ro": "Potecile pot fi foarte dure și denivelate în caz de îngheț.",
+                "en": "Paths can be very hard and uneven during frost."
+              }
+            },
+            {
+              "name": "Ofenhaus (Kiln House)",
+              "tip_5lang": {
+                "de": "Interessanter Stopp für Industriekultur auch im Winter.",
+                "hu": "Érdekes ipartörténeti megálló télen is.",
+                "ro": "Oprire interesantă pentru cultura industrială chiar și iarna.",
+                "en": "Interesting industrial heritage stop even in winter."
+              }
+            },
+            {
+              "name": "Reformed Church Wabern",
+              "tip_5lang": {
+                "de": "Ein Ort der Stille vor dem finalen Anstieg zum Gurten.",
+                "hu": "A csend helye a Gurtenre való utolsó emelkedő előtt.",
+                "ro": "Un loc de liniște înaintea urcării finale spre Gurten.",
+                "en": "A place of silence before the final ascent to the Gurten."
+              }
+            },
+            {
+              "name": "Gurten - Park in the Green",
+              "tip_5lang": {
+                "de": "Denken Sie an die schnelle Abkühlung nach dem Schwitzen beim Aufstieg.",
+                "hu": "Gondoljon a gyors lehűlésre az emelkedő közbeni izzadás után.",
+                "ro": "Aveți în vedere răcirea rapidă după transpirația din timpul urcării.",
+                "en": "Mind the rapid cooling after sweating during the climb."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Handschuhe und eine Mütze unter dem Helm sind Pflicht.",
+              "Verringern Sie den Reifendruck leicht für mehr Grip auf Schnee.",
+              "Die Dämmerung beginnt früh; funktionierende Lichter sind essenziell.",
+              "Trinken Sie auch bei Kälte genug Wasser während der Tour."
+            ],
+            "hu": [
+              "A meleg kesztyű és a sisak alatti sapka kötelező.",
+              "Csökkentse kissé a guminyomást a jobb tapadásért hóban.",
+              "A szürkület korán kezdődik; a működő lámpák elengedhetetlenek.",
+              "Hidegben is igyon elég vizet a túra során."
+            ],
+            "ro": [
+              "Mănușile groase și o căciulă sub cască sunt obligatorii.",
+              "Reduceți ușor presiunea în anvelope pentru mai multă aderență pe zăpadă.",
+              "Amurgul începe devreme; luminile funcționale sunt esențiale.",
+              "Beți suficientă apă în timpul turului, chiar și în frig."
+            ],
+            "en": [
+              "Warm gloves and a hat under the helmet are mandatory.",
+              "Reduce tire pressure slightly for better grip on snow.",
+              "Dusk begins early; functioning lights are essential.",
+              "Drink enough water during the tour, even in the cold."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1094,6 +1458,206 @@
           "A navigation system is helpful to find the different clusters.",
           "Check the operating hours of the Gurtenbahn."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens parken wir bequem im Zentrum und erkunden das Schloss Köniz. Mittags bietet die Fahrt zum Könizbergwald schöne Ausblicke auf die regnerische Landschaft. Nachmittags nutzen wir die Gurtenbahn für den trockenen Aufstieg. Abends genießen wir den Ausblick vom Gurten, bevor wir zurück zum Parkhaus fahren.",
+            "hu": "Reggel kényelmesen parkolunk a központban, és felfedezzük a Könizi-kastélyt. Délben a Könizbergwald felé autózva szép kilátás nyílik az esős tájra. Délután a Gurtenbahnt használjuk a száraz feljutáshoz. Este élvezzük a gurteni panorámát, mielőtt visszatérnénk a parkolóházhoz.",
+            "ro": "Dimineața parcăm confortabil în centru și explorăm Castelul Köniz. La prânz, drumul spre Könizbergwald oferă vederi frumoase asupra peisajului ploios. După-amiaza folosim Gurtenbahn pentru urcarea la uscat. Seara ne bucurăm de priveliștea de pe Gurten înainte de a ne întoarce la parcare.",
+            "en": "In the morning, we park conveniently in the center and explore Köniz Castle. At noon, the drive to Könizbergwald offers beautiful views of the rainy landscape. In the afternoon, we use the Gurtenbahn for a dry ascent. In the evening, we enjoy the view from the Gurten before heading back to the car park."
+          },
+          "stops": [
+            {
+              "name": "Köniz Center Car Park",
+              "tip_5lang": {
+                "de": "Überdachtes Parkhaus wählen, um beim Aussteigen trocken zu bleiben.",
+                "hu": "Válasszon fedett parkolóházat, hogy kiszálláskor száraz maradjon.",
+                "ro": "Alegeți o parcare acoperită pentru a rămâne uscat la coborâre.",
+                "en": "Choose a covered car park to stay dry when getting out."
+              }
+            },
+            {
+              "name": "Gurtendorf village center & Köniz Castle",
+              "tip_5lang": {
+                "de": "Das Schlossareal bietet viele Arkaden zum Unterstellen.",
+                "hu": "A kastély területe sok árkádot kínál a behúzódáshoz.",
+                "ro": "Zona castelului oferă multe arcade pentru adăpostire.",
+                "en": "The castle area offers many arcades for shelter."
+              }
+            },
+            {
+              "name": "St. Peter and Paul Church",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Parkplatz; Regenschirm bereit halten.",
+                "hu": "Rövid séta a parkolótól; tartsa készenlétben az esernyőt.",
+                "ro": "Scurtă plimbare de la parcare; țineți umbrela la îndemână.",
+                "en": "Short walk from the parking lot; keep your umbrella ready."
+              }
+            },
+            {
+              "name": "Könizbergwald Forest Car Park",
+              "tip_5lang": {
+                "de": "Achten Sie auf Schlaglöcher, die bei Regen mit Wasser gefüllt sind.",
+                "hu": "Ügyeljen a kátyúkra, amelyek esőben megtelnek vízzel.",
+                "ro": "Atenție la gropile care se umplu cu apă în timpul ploii.",
+                "en": "Watch out for potholes filled with water during the rain."
+              }
+            },
+            {
+              "name": "Gurtenbahn Car Park",
+              "tip_5lang": {
+                "de": "Großes Parkhaus direkt an der Talstation der Bahn.",
+                "hu": "Nagy parkolóház közvetlenül a vasút völgyállomásánál.",
+                "ro": "Parcare mare direct la stația de bază a funicularului.",
+                "en": "Large car park directly at the valley station of the funicular."
+              }
+            },
+            {
+              "name": "Gurten - Observation Deck",
+              "tip_5lang": {
+                "de": "Bei starkem Regen ist das Restaurant auf dem Gurten ein guter Rückzugsort.",
+                "hu": "Heves esőben a Gurtenen lévő étterem jó búvóhely.",
+                "ro": "În caz de ploaie abundentă, restaurantul de pe Gurten este un refugiu bun.",
+                "en": "In heavy rain, the restaurant on the Gurten is a good retreat."
+              }
+            },
+            {
+              "name": "Walk on the Gurten",
+              "tip_5lang": {
+                "de": "Befestigte Wege nutzen, um nasse Füße zu vermeiden.",
+                "hu": "Használja a kiépített utakat, hogy elkerülje a vizes lábakat.",
+                "ro": "Folosiți potecile amenajate pentru a evita umezirea picioarelor.",
+                "en": "Use paved paths to avoid wet feet."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Zustand der Scheibenwischer vor der Fahrt.",
+              "Planen Sie bei Regen etwas mehr Zeit für die Parkplatzsuche ein.",
+              "Halten Sie Abstände auf nassen Straßen großzügig ein.",
+              "Nutzen Sie die Parkhäuser als Ausgangspunkte für kurze Erkundungen."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze az ablaktörlők állapotát.",
+              "Esőben tervezzen kicsit több időt a parkolóhely keresésére.",
+              "Tartson nagyobb követési távolságot a vizes utakon.",
+              "Használja a parkolóházakat kiindulópontként a rövid felfedezésekhez."
+            ],
+            "ro": [
+              "Verificați starea ștergătoarelor înainte de plecare.",
+              "Planificați ceva mai mult timp pentru căutarea locului de parcare pe ploaie.",
+              "Mențineți o distanță generoasă între vehicule pe drumurile ude.",
+              "Folosiți parcările ca puncte de plecare pentru scurte explorări."
+            ],
+            "en": [
+              "Check the condition of your windshield wipers before driving.",
+              "Plan a bit more time for finding a parking spot in the rain.",
+              "Maintain generous following distances on wet roads.",
+              "Use car parks as starting points for short explorations."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens befreien wir das Auto vom Eis und fahren zum winterlichen Köniz. Mittags genießen wir die gemütliche Atmosphäre im Schloss. Nachmittags bietet die Fahrt durch den verschneiten Wald zum Gurtenparkplatz ein tolles Panorama. Abends erleben wir die Winterromantik auf dem Gipfel, bevor wir die Heizung im Auto wieder aufdrehen.",
+            "hu": "Reggel jégtelenítjük az autót, és a téli Könizbe hajtunk. Délben élvezzük a kastély meghitt hangulatát. Délután a havas erdőn át a gurteni parkolóhoz vezető út csodás panorámát kínál. Este átéljük a téli romantikát a csúcson, mielőtt újra feltekernénk a fűtést az autóban.",
+            "ro": "Dimineața curățăm mașina de gheață și conducem spre Köniz-ul hibernal. La prânz ne bucurăm de atmosfera primitoare a castelului. După-amiaza, drumul prin pădurea înzăpezită spre parcarea Gurten oferă o panoramă superbă. Seara trăim romantismul iernii pe vârf, înainte de a porni din nou căldura în mașină.",
+            "en": "In the morning, we de-ice the car and drive to wintery Köniz. At noon, we enjoy the cozy atmosphere at the castle. In the afternoon, the drive through the snowy forest to the Gurten car park offers a great panorama. In the evening, we experience winter romance at the summit before turning up the car heater again."
+          },
+          "stops": [
+            {
+              "name": "Köniz Center Car Park",
+              "tip_5lang": {
+                "de": "Achten Sie auf Schneematsch an der Ein- und Ausfahrt.",
+                "hu": "Ügyeljen a hókására a be- és kijáratnál.",
+                "ro": "Atenție la lapoviță la intrare și ieșire.",
+                "en": "Watch out for slush at the entrance and exit."
+              }
+            },
+            {
+              "name": "Gurtendorf village center & Köniz Castle",
+              "tip_5lang": {
+                "de": "In der Kälte wirken die historischen Mauern besonders imposant.",
+                "hu": "A hidegben a történelmi falak különösen impozánsak.",
+                "ro": "În frig, zidurile istorice par deosebit de impunătoare.",
+                "en": "In the cold, the historic walls look particularly imposing."
+              }
+            },
+            {
+              "name": "St. Peter and Paul Church",
+              "tip_5lang": {
+                "de": "Der Innenraum ist meist moderat beheizt und bietet Stille.",
+                "hu": "A belső tér általában mérsékelten fűtött és csendet kínál.",
+                "ro": "Interiorul este de obicei încălzit moderat și oferă liniște.",
+                "en": "The interior is usually moderately heated and offers silence."
+              }
+            },
+            {
+              "name": "Könizbergwald Forest Car Park",
+              "tip_5lang": {
+                "de": "Winterreifen und evtl. Schneeketten bei starkem Schneefall nötig.",
+                "hu": "Téli gumi és erős havazásnál hólánc is szükséges lehet.",
+                "ro": "Anvelope de iarnă și eventual lanțuri în caz de ninsoare abundentă.",
+                "en": "Winter tires and possibly snow chains are needed in heavy snowfall."
+              }
+            },
+            {
+              "name": "Gurtenbahn Car Park",
+              "tip_5lang": {
+                "de": "Parkplätze können bei Winterevents schnell voll sein.",
+                "hu": "Téli rendezvények idején a parkolók gyorsan megtelhetnek.",
+                "ro": "Locurile de parcare se pot umple rapid în timpul evenimentelor de iarnă.",
+                "en": "Parking spots can fill up quickly during winter events."
+              }
+            },
+            {
+              "name": "Gurten - Observation Deck",
+              "tip_5lang": {
+                "de": "Der Blick auf die Berner Alpen ist bei klarer Winterluft am besten.",
+                "hu": "A berni Alpokra nyíló kilátás tiszta téli levegőnél a legszebb.",
+                "ro": "Vederea spre Alpii Bernezi este cea mai bună în aerul clar de iarnă.",
+                "en": "The view of the Bernese Alps is best in clear winter air."
+              }
+            },
+            {
+              "name": "Walk on the Gurten",
+              "tip_5lang": {
+                "de": "Handschuhe nicht vergessen, wenn Sie das Fernglas benutzen.",
+                "hu": "Ne felejtse el a kesztyűt, ha távcsövet használ.",
+                "ro": "Nu uitați mănușile dacă folosiți binoclul.",
+                "en": "Don't forget gloves if you use the binoculars."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Führen Sie immer einen Eiskratzer und Handfeger im Auto mit.",
+              "Vermeiden Sie hastiges Bremsen auf möglicherweise vereisten Brücken.",
+              "Tanken Sie rechtzeitig, um bei Staus die Heizung laufen zu lassen.",
+              "Nutzen Sie die Standheizung, falls vorhanden, zur Vorwärmung."
+            ],
+            "hu": [
+              "Mindig tartson jégkaparót és kiskefét az autóban.",
+              "Kerülje a hirtelen fékezést a jegesnek tűnő hidakon.",
+              "Tankoljon időben, hogy dugó esetén is működhessen a fűtés.",
+              "Használja az állófűtést az előmelegítéshez, ha van."
+            ],
+            "ro": [
+              "Aveți întotdeauna în mașină o racletă și o perie de zăpadă.",
+              "Evitați frânarea bruscă pe podurile care pot fi înghețate.",
+              "Alimentați la timp pentru a putea lăsa căldura pornită în caz de ambuteiaj.",
+              "Folosiți încălzirea auxiliară, dacă este disponibilă, pentru preîncălzire."
+            ],
+            "en": [
+              "Always carry an ice scraper and a small brush in the car.",
+              "Avoid sudden braking on bridges that might be icy.",
+              "Refuel in time to keep the heater running during traffic jams.",
+              "Use the auxiliary heater for pre-warming, if available."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1450,6 +2014,188 @@
           "Pay attention to connection times to avoid long waits.",
           "The buses and trains are very punctual."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bringt uns der Bus trocken direkt vors Schloss Köniz. Mittags besuchen wir das Schulmuseum, während draußen der Regen prasselt. Nachmittags nutzen wir die Gurtenbahn für eine komfortable Fahrt nach oben. Abends kehren wir mit öffentlichen Verkehrsmitteln entspannt ins Zentrum zurück.",
+            "hu": "Reggel a busz szárazon visz minket közvetlenül a Könizi-kastély elé. Délben meglátogatjuk az iskolamúzeumot, miközben odakint kopog az eső. Délután a Gurtenbahnt választjuk a kényelmes feljutáshoz. Este tömegközlekedéssel, pihenten térünk vissza a központba.",
+            "ro": "Dimineața, autobuzul ne duce uscați direct în fața Castelului Köniz. La prânz vizităm muzeul școlar în timp ce afară plouă torențial. După-amiaza folosim Gurtenbahn pentru o călătorie confortabilă sus. Seara ne întoarcem relaxați în centru cu transportul public.",
+            "en": "In the morning, the bus brings us dry directly to Köniz Castle. At noon, we visit the school museum while the rain drums outside. In the afternoon, we use the Gurtenbahn for a comfortable ride to the top. In the evening, we return relaxed to the center by public transport."
+          },
+          "stops": [
+            {
+              "name": "Köniz, Schloss bus stop",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist überdacht und bietet Schutz vor Regen.",
+                "hu": "A megálló fedett, védelmet nyújt az eső elől.",
+                "ro": "Stația este acoperită și oferă protecție împotriva ploii.",
+                "en": "The bus stop is covered and offers protection from the rain."
+              }
+            },
+            {
+              "name": "Köniz Castle and Gurtendorf",
+              "tip_5lang": {
+                "de": "Das Schloss ist nur wenige Schritte von der Bushaltestelle entfernt.",
+                "hu": "A kastély csak néhány lépésre van a buszmegállótól.",
+                "ro": "Castelul este la doar câțiva pași de stația de autobuz.",
+                "en": "The castle is only a few steps away from the bus stop."
+              }
+            },
+            {
+              "name": "Haberhuus School Museum",
+              "tip_5lang": {
+                "de": "Ideales Ziel, um im Trockenen Interessantes zu lernen.",
+                "hu": "Ideális célpont, hogy szárazon tanuljunk valami érdekeset.",
+                "ro": "Destinație ideală pentru a învăța lucruri interesante la uscat.",
+                "en": "Ideal destination to learn interesting things while staying dry."
+              }
+            },
+            {
+              "name": "Wabern, Gurtenbahn stop",
+              "tip_5lang": {
+                "de": "Direkter Umstieg zwischen Tram/Bus und der Gurtenbahn möglich.",
+                "hu": "Közvetlen átszállási lehetőség a villamos/busz és a Gurtenbahn között.",
+                "ro": "Transfer direct posibil între tramvai/autobuz și Gurtenbahn.",
+                "en": "Direct transfer possible between tram/bus and the Gurtenbahn."
+              }
+            },
+            {
+              "name": "Reformed Church Wabern",
+              "tip_5lang": {
+                "de": "In der Nähe der Haltestelle gelegen, gut erreichbar bei Regen.",
+                "hu": "A megálló közelében található, esőben is könnyen elérhető.",
+                "ro": "Situată în apropierea stației, ușor accesibilă pe ploaie.",
+                "en": "Located near the stop, easily accessible in the rain."
+              }
+            },
+            {
+              "name": "Gurten - Park in the Green",
+              "tip_5lang": {
+                "de": "Die Panoramafenster der Gurtenbahn bieten tolle Aussicht ohne nass zu werden.",
+                "hu": "A Gurtenbahn panorámaablakai nagyszerű kilátást nyújtanak anélkül, hogy megáznánk.",
+                "ro": "Ferestrele panoramice ale Gurtenbahn oferă o priveliște superbă fără a vă uda.",
+                "en": "The panoramic windows of the Gurtenbahn offer great views without getting wet."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die SBB App für Echtzeit-Infos bei wetterbedingten Verspätungen.",
+              "In Bussen und Trams ist es bei Regen oft sehr voll; planen Sie Zeit ein.",
+              "Die Gurtenbahn fährt alle 15 Minuten und ist komplett überdacht.",
+              "Ein Tagespass für die Zone 101/100 lohnt sich für diese Tour."
+            ],
+            "hu": [
+              "Használja az SBB alkalmazást az időjárás miatti késések valós idejű infóihoz.",
+              "Esőben a buszok és villamosok gyakran zsúfoltak; tervezzen több időt.",
+              "A Gurtenbahn 15 percenként jár és teljesen fedett.",
+              "A 101/100-as zónára érvényes napijegy megéri ehhez a túrához."
+            ],
+            "ro": [
+              "Folosiți aplicația SBB pentru informații în timp real despre întârzierile meteo.",
+              "În autobuze și tramvaie este adesea foarte aglomerat pe ploaie; planificați timp.",
+              "Gurtenbahn circulă la fiecare 15 minute și este complet acoperit.",
+              "Un permis de o zi pentru zona 101/100 merită pentru acest tur."
+            ],
+            "en": [
+              "Use the SBB app for real-time info on weather-related delays.",
+              "Buses and trams are often very crowded in the rain; plan extra time.",
+              "The Gurtenbahn runs every 15 minutes and is completely covered.",
+              "A day pass for zones 101/100 is worth it for this tour."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens genießen wir die beheizten Busse auf dem Weg zum Schloss Köniz. Mittags tauchen wir in die Geschichte des Schulmuseums ein. Nachmittags bringt uns die Tram bequem nach Wabern zur Talstation der Gurtenbahn. Abends bewundern wir den verschneiten Gurten, bevor uns der Transit sicher zurückbringt.",
+            "hu": "Reggel élvezzük a fűtött buszokat a Könizi-kastély felé vezető úton. Délben elmerülünk az iskolamúzeum történetében. Délután a villamos kényelmesen visz minket Wabernba, a Gurtenbahn völgyállomásához. Este megcsodáljuk a havas Gurtent, mielőtt a tömegközlekedés biztonságban hazavisz.",
+            "ro": "Dimineața ne bucurăm de autobuzele încălzite pe drumul spre Castelul Köniz. La prânz ne cufundăm în istoria muzeului școlar. După-amiaza, tramvaiul ne duce confortabil la Wabern, la stația de bază Gurtenbahn. Seara admirăm Gurten-ul înzăpezit înainte ca transportul public să ne aducă înapoi în siguranță.",
+            "en": "In the morning, we enjoy the heated buses on the way to Köniz Castle. At noon, we immerse ourselves in the history of the school museum. In the afternoon, the tram brings us comfortably to Wabern to the Gurtenbahn valley station. In the evening, we admire the snowy Gurten before transit safely brings us back."
+          },
+          "stops": [
+            {
+              "name": "Köniz, Schloss bus stop",
+              "tip_5lang": {
+                "de": "Warm anziehen, da das Warten an der Haltestelle bei Wind kalt sein kann.",
+                "hu": "Öltözzön melegen, mert a megállóban való várakozás szélben hideg lehet.",
+                "ro": "Îmbrăcați-vă gros, deoarece așteptarea în stație poate fi rece când bate vântul.",
+                "en": "Dress warmly as waiting at the stop can be cold in the wind."
+              }
+            },
+            {
+              "name": "Köniz Castle and Gurtendorf",
+              "tip_5lang": {
+                "de": "Der Spaziergang durch das Dorf ist bei Frost besonders malerisch.",
+                "hu": "A falun keresztüli séta fagyban különösen festői.",
+                "ro": "Plimbarea prin sat este deosebit de pitorească pe timp de îngheț.",
+                "en": "The walk through the village is particularly picturesque during frost."
+              }
+            },
+            {
+              "name": "Haberhuus School Museum",
+              "tip_5lang": {
+                "de": "Ein wohliger Rückzugsort während der kältesten Tageszeit.",
+                "hu": "Otthonos búvóhely a nap leghidegebb szakaszában.",
+                "ro": "Un refugiu primitor în timpul celei mai reci perioade a zilei.",
+                "en": "A cozy retreat during the coldest part of the day."
+              }
+            },
+            {
+              "name": "Wabern, Gurtenbahn stop",
+              "tip_5lang": {
+                "de": "Achten Sie auf geräumte Wege beim Umsteigen.",
+                "hu": "Átszálláskor ügyeljen az eltakarított utakra.",
+                "ro": "Atenție la potecile deszăpezite în timpul transferului.",
+                "en": "Watch out for cleared paths when transferring."
+              }
+            },
+            {
+              "name": "Reformed Church Wabern",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp in der Wärme der Kirche ist empfehlenswert.",
+                "hu": "Egy rövid megálló a templom melegében ajánlott.",
+                "ro": "O scurtă oprire în căldura bisericii este recomandată.",
+                "en": "A short stop in the warmth of the church is recommended."
+              }
+            },
+            {
+              "name": "Gurten - Park in the Green",
+              "tip_5lang": {
+                "de": "Die Gurtenbahn fährt auch bei starkem Schneefall meist zuverlässig.",
+                "hu": "A Gurtenbahn általában erős havazásban is megbízhatóan jár.",
+                "ro": "Gurtenbahn circulă de obicei fiabil chiar și în caz de ninsoare abundentă.",
+                "en": "The Gurtenbahn usually runs reliably even in heavy snowfall."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Beachten Sie eventuelle Fahrplanänderungen während der Feiertage.",
+              "Die Haltestellenanzeigen im Bus helfen bei beschlagenen Fenstern.",
+              "Die Heizung im Transit sorgt für eine angenehme Fahrt.",
+              "Tragen Sie Schuhe mit gutem Profil für die Wege zwischen den Stationen."
+            ],
+            "hu": [
+              "Ügyeljen az ünnepek alatti esetleges menetrendváltozásokra.",
+              "A buszon belüli kijelzők segítenek, ha bepárásodnak az ablakok.",
+              "A tömegközlekedési eszközök fűtése kellemessé teszi az utazást.",
+              "Viseljen jó tapadású cipőt az állomások közötti szakaszokon."
+            ],
+            "ro": [
+              "Aveți în vedere eventualele modificări de orar în timpul sărbătorilor.",
+              "Afișajele din interiorul autobuzului ajută dacă ferestrele sunt aburite.",
+              "Căldura din transportul public asigură o călătorie plăcută.",
+              "Purtați încălțăminte cu profil bun pentru drumurile dintre stații."
+            ],
+            "en": [
+              "Note any potential schedule changes during the holidays.",
+              "In-bus displays help if the windows get fogged up.",
+              "The heating in transit ensures a pleasant journey.",
+              "Wear shoes with good tread for the paths between stations."
+            ]
+          }
+        }
       }
     }
   }

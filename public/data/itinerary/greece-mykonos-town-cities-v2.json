@@ -426,6 +426,232 @@
           "Drink plenty of water, especially during the summer months.",
           "Respect the privacy of residents and do not photograph into private courtyards."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mykonos im Regen hat einen eigenen Charme. Morgens am Manto-Platz unter Arkaden, mittags Shopping in der Matoyianni-Gasse. Nachmittags bieten Museen Schutz vor den Güssen. Abends gemütlich in einer Bar in Little Venice, während die Wellen gegen die Fenster schlagen.",
+            "hu": "Mykonos esőben is varázslatos. Reggel a Manto téren kezdünk, délben a szűk Matoyianni utcák boltjai nyújtanak menedéket. Délután a tengerészeti és régészeti múzeumok fedett tárlatai várnak. Az estét egy Little Venice-i bárban zárjuk, figyelve a hullámok játékát.",
+            "ro": "Mykonos în ploaie are un farmec aparte. Dimineața în Piața Manto, la prânz cumpărături pe strada Matoyianni sub streșini. După-amiaza, muzeele oferă adăpost perfect. Seara se încheie confortabil într-un bar din Mica Veneție, privind marea agitată prin fereastră.",
+            "en": "Mykonos in the rain has a unique vibe. Morning at Manto Square, midday shopping in Matoyianni's narrow alleys. Afternoon is perfect for the indoor maritime and archaeological museums. Evening ends cozily in a Little Venice bar, watching the waves crash outside."
+          },
+          "stops": [
+            {
+              "name": "Manto Mavrogenous Square",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den Arkaden der Cafés am Rand.",
+                "hu": "Keressen menedéket a tér szélén lévő kávézók árkádjai alatt.",
+                "ro": "Căutați adăpost sub arcadele cafenelelor de pe margine.",
+                "en": "Seek shelter under the café arcades along the square's edge."
+              }
+            },
+            {
+              "name": "Matoyianni Street",
+              "tip_5lang": {
+                "de": "Die engen Gassen bieten teils Schutz, nutzen Sie die Boutiquen.",
+                "hu": "A szűk utcák részben védenek, térjen be a butikokba.",
+                "ro": "Străzile înguste oferă parțial adăpost; vizitați buticurile.",
+                "en": "Narrow alleys offer some cover; hop between the boutiques."
+              }
+            },
+            {
+              "name": "Aegean Maritime Museum",
+              "tip_5lang": {
+                "de": "Idealer Ort, um den Regenschauer im Trockenen zu verbringen.",
+                "hu": "Ideális hely az eső elöli menekülésre a fedett tárlatok között.",
+                "ro": "Locul ideal pentru a petrece ploaia printre exponate la interior.",
+                "en": "Ideal place to stay dry while exploring the indoor exhibits."
+              }
+            },
+            {
+              "name": "Kato Mili Windmills",
+              "tip_5lang": {
+                "de": "Vorsicht, der Boden kann bei Nässe sehr rutschig sein.",
+                "hu": "Vigyázat, a talaj esőben nagyon csúszós lehet a malmoknál.",
+                "ro": "Atenție, solul poate fi foarte alunecos pe ploaie.",
+                "en": "Be careful, the ground can be very slippery when wet here."
+              }
+            },
+            {
+              "name": "Lunch in Little Venice",
+              "tip_5lang": {
+                "de": "Wählen Sie einen Tisch im Inneren, weit weg vom spritzenden Meer.",
+                "hu": "Válasszon benti asztalt, távol a felcsapó hullámoktól.",
+                "ro": "Alegeți o masă în interior, departe de stropii mării.",
+                "en": "Choose an indoor table away from the sea spray."
+              }
+            },
+            {
+              "name": "Church of Panagia Paraportiani",
+              "tip_5lang": {
+                "de": "Die weiße Kalkoberfläche kann spiegelglatt werden.",
+                "hu": "A fehér mészfelület tükörsima és csúszós lehet.",
+                "ro": "Suprafața albă de var poate deveni extrem de alunecoasă.",
+                "en": "The white lime surface can become mirror-smooth and slippery."
+              }
+            },
+            {
+              "name": "Archaeological Museum of Mykonos",
+              "tip_5lang": {
+                "de": "Ein hervorragender Unterschlupf mit faszinierender Geschichte.",
+                "hu": "Kiváló menedék faszináló történelmi emlékekkel.",
+                "ro": "Un adăpost excelent cu o istorie fascinantă.",
+                "en": "An excellent shelter with fascinating history to explore."
+              }
+            },
+            {
+              "name": "Sunset in Little Venice",
+              "tip_5lang": {
+                "de": "Genießen Sie das Wetter-Spektakel sicher hinter Glas.",
+                "hu": "Élvezze az időjárás látványát biztonságban az üveg mögül.",
+                "ro": "Bucurați-vă de spectacolul vremii în siguranță, din spatele geamului.",
+                "en": "Enjoy the weather spectacle safely from behind the glass."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Schuhe mit gutem Grip, da die Marmorpflaster extrem rutschig werden.",
+              "Die Matoyianni-Straße ist eng, Regenschirme können behindern, ein Regenponcho ist besser.",
+              "Nutzen Sie die Museumszeiten aus, um die stärksten Regengüsse zu überbrücken.",
+              "Viele Cafés in Little Venice haben verglaste Fronten für die Aussicht.",
+              "Öffentliche Toiletten sind rar, nutzen Sie die Gelegenheiten in Museen und Cafés."
+            ],
+            "hu": [
+              "Viseljen tapadós talpú cipőt, mert a márványkövek tükörsimára csúsznak az esőtől.",
+              "A Matoyianni utca szűk, az esernyő akadályozhat, egy esőponcsó praktikusabb.",
+              "Használja ki a múzeumi látogatásokat a hevesebb záporok idején.",
+              "A Kis Velence kávézói közül sok rendelkezik üvegezett terasszal a kilátáshoz.",
+              "A nyilvános WC ritka, használja ki a múzeumi és éttermi lehetőségeket."
+            ],
+            "ro": [
+              "Purtați încălțăminte cu aderență bună, pavajul de marmură devine extrem de alunecos.",
+              "Strada Matoyianni e îngustă; o pelerină e mai practică decât o umbrelă.",
+              "Planificați vizitele la muzee în timpul celor mai puternice averse.",
+              "Multe cafenele din Mica Veneție au zone vitrate pentru a vedea marea.",
+              "Toaletele publice sunt rare, profitați de opririle la cafenele și muzee."
+            ],
+            "en": [
+              "Wear shoes with good grip as the marble pavements become incredibly slippery.",
+              "Matoyianni Street is narrow; a rain poncho is more practical than an umbrella.",
+              "Schedule your museum visits during the heaviest downpours of the day.",
+              "Many cafes in Little Venice have glass-enclosed areas to enjoy the view safely.",
+              "Public toilets are scarce; use the facilities at museums and restaurants."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterruhe in Mykonos-Stadt. Morgens leere Gassen am Manto-Platz, mittags authentisches Leben in der Matoyianni-Straße. Nachmittags die kühle Brise an den Windmühlen spüren. Da die Sonne gegen 17 Uhr untergeht, genießen wir den frühen Sonnenuntergang in Little Venice.",
+            "hu": "Téli nyugalom Mykonoson. Reggel a Manto tér csendes, délben a Matoyianni utcán a helyiekkel találkozunk. Délután a szélmalmoknál érezzük az Égei-tenger hűvös erejét. Mivel a nap korán, 17 óra körül nyugszik, a naplementét már kora este élvezhetjük a Kis Velencében.",
+            "ro": "Liniștea iernii în Mykonos. Dimineața în Piața Manto e pustie, la prânz strada Matoyianni aparține localnicilor. După-amiaza simțim briza rece la morile de vânt. Deoarece soarele apune devreme, pe la ora 17, savurăm apusul dramatic din Mica Veneție.",
+            "en": "Winter serenity in Mykonos Town. Morning at a quiet Manto Square, midday seeing authentic life on Matoyianni Street. Afternoon feel the cool Aegean breeze at the windmills. Since the sun sets early around 5 PM, we enjoy a dramatic sunset in Little Venice."
+          },
+          "stops": [
+            {
+              "name": "Manto Mavrogenous Square",
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille ohne die üblichen Touristenmassen.",
+                "hu": "Élvezze a csendet a szokásos turistaáradat nélkül.",
+                "ro": "Bucurați-vă de liniște fără masele obișnuite de turiști.",
+                "en": "Enjoy the rare silence without the usual tourist crowds."
+              }
+            },
+            {
+              "name": "Matoyianni Street",
+              "tip_5lang": {
+                "de": "Einige Läden sind zu, aber die lokale Atmosphäre ist spürbar.",
+                "hu": "Néhány üzlet zárva van, de a helyi hangulat hitelesebb.",
+                "ro": "Unele magazine sunt închise, dar atmosfera locală e autentică.",
+                "en": "Some shops are closed, but the local atmosphere is more authentic."
+              }
+            },
+            {
+              "name": "Aegean Maritime Museum",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Winteröffnungszeiten vorab (oft verkürzt).",
+                "hu": "Ellenőrizze a téli nyitvatartást, gyakran rövidített.",
+                "ro": "Verificați programul de iarnă, adesea este redus.",
+                "en": "Check winter opening hours beforehand, as they are often reduced."
+              }
+            },
+            {
+              "name": "Kato Mili Windmills",
+              "tip_5lang": {
+                "de": "Ziehen Sie sich warm an, der Wind ist hier oben im Winter stark.",
+                "hu": "Öltözzön rétegesen, a szél itt nagyon erős lehet télen.",
+                "ro": "Îmbrăcați-vă bine, vântul este foarte puternic aici iarna.",
+                "en": "Dress warmly; the wind can be very strong up here in winter."
+              }
+            },
+            {
+              "name": "Lunch in Little Venice",
+              "tip_5lang": {
+                "de": "Suchen Sie eine Taverne mit Heizstrahlern oder Kamin.",
+                "hu": "Keressen fűtött teraszú vagy belső terű tavernát.",
+                "ro": "Căutați o tavernă cu încălzitoare sau spațiu interior.",
+                "en": "Look for a tavern with space heaters or indoor seating."
+              }
+            },
+            {
+              "name": "Church of Panagia Paraportiani",
+              "tip_5lang": {
+                "de": "Das Licht im Winter ist ideal für klare Architekturfotos.",
+                "hu": "A téli fények tökéletesek a tiszta építészeti fotókhoz.",
+                "ro": "Lumina de iarnă este ideală pentru fotografii de arhitectură.",
+                "en": "The winter light is perfect for crisp architectural photography."
+              }
+            },
+            {
+              "name": "Archaeological Museum of Mykonos",
+              "tip_5lang": {
+                "de": "Oft menschenleer – genießen Sie die Exponate in aller Ruhe.",
+                "hu": "Gyakran üres, így zavartalanul nézheti meg a kiállítást.",
+                "ro": "Adesea pustiu – savurați exponatele în deplină liniște.",
+                "en": "Often empty – enjoy the exhibits in complete peace."
+              }
+            },
+            {
+              "name": "Sunset in Little Venice",
+              "tip_5lang": {
+                "de": "Sonnenuntergang ist früh (ca. 17:00). Seien Sie rechtzeitig da.",
+                "hu": "A naplemente korán van (17:00 körül). Érkezzen időben.",
+                "ro": "Apusul este devreme (cca. 17:00). Sosiți la timp.",
+                "en": "Sunset is early (around 5 PM). Make sure to arrive on time."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine windfeste Jacke, da der Nordwind (Meltemi) auch im Winter bläst.",
+              "Viele Restaurants machen Winterpause, orientieren Sie sich an denen der Einheimischen.",
+              "Die Sonne geht gegen 17:00 Uhr unter; planen Sie Ihren Tag entsprechend.",
+              "Fähren fahren seltener, behalten Sie den Wetterbericht für die Rückreise im Auge.",
+              "Die Museen schließen im Winter oft bereits um 15:00 oder 16:00 Uhr."
+            ],
+            "hu": [
+              "Viseljen szélálló kabátot, mert az északi szél télen is metsző lehet.",
+              "Sok étterem zárva tart, keresse a helyiek által látogatott helyeket.",
+              "A nap 17:00 körül nyugszik, tervezze ehhez a napi programot.",
+              "A kompok ritkábban járnak, figyelje az időjárást az utazáshoz.",
+              "A múzeumok télen gyakran már 15:00 vagy 16:00 órakor bezárnak."
+            ],
+            "ro": [
+              "Purtați o jachetă rezistentă la vânt, briza poate fi tăioasă iarna.",
+              "Multe restaurante sunt închise; mergeți unde mănâncă localnicii.",
+              "Soarele apune în jur de ora 17:00; planificați ziua corespunzător.",
+              "Feriboturile circulă mai rar; verificați prognoza pentru călătorie.",
+              "Muzeele se închid adesea la ora 15:00 sau 16:00 în timpul iernii."
+            ],
+            "en": [
+              "Wear a windproof jacket, as the northern wind can be biting even in winter.",
+              "Many tourist restaurants are closed; look for spots where locals eat.",
+              "Sunset is around 5 PM; plan your outdoor activities for earlier in the day.",
+              "Ferries run less frequently; keep an eye on the weather for your travel plans.",
+              "Museums often close as early as 3 PM or 4 PM during the winter season."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -806,6 +1032,214 @@
           "Take enough water with you for your tour.",
           "Always lock your bike securely when you park it."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen auf Mykonos erfordert Vorsicht. Morgens Ausleihe am Hafen, dann zum Leuchtturm (Vorsicht Wind!). Mittags Museen und Shopping in der Altstadt für Pausen nutzen. Abends Rückgabe und ein warmer Drink am Hafen.",
+            "hu": "Bringázás esőben Mykonoson óvatosságot igényel. Reggeli bérlés után irány a világítótorony (szeles!). Délben múzeumok és boltok adják a pihenőt. Este bringaleadás és egy meleg ital a kikötőben.",
+            "ro": "Ciclismul pe ploaie în Mykonos necesită prudență. Închiriere dimineața, apoi spre far (atenție la vânt!). La prânz, muzeele și magazinele oferă pauze. Seara, returnarea bazei și o băutură caldă în port.",
+            "en": "Cycling in the rain on Mykonos requires caution. Morning rental at the port, then to the lighthouse (watch the wind!). Midday use museums and shopping for breaks. Evening return and a warm drink at the port."
+          },
+          "stops": [
+            {
+              "name": "Bike Rental at the Port",
+              "tip_5lang": {
+                "de": "Fragen Sie nach Regenponchos und Schutzblechen.",
+                "hu": "Kérjen esőponcsót és ellenőrizze a sárvédőket.",
+                "ro": "Cereți pelerine de ploaie și verificați apărătorile.",
+                "en": "Ask for rain ponchos and ensure the bike has mudguards."
+              }
+            },
+            {
+              "name": "Ride to Armenistis Lighthouse",
+              "tip_5lang": {
+                "de": "Die Straße kann bei Nässe rutschig sein. Fahren Sie langsam.",
+                "hu": "Az út nedvesen csúszós lehet. Hajtson lassan.",
+                "ro": "Drumul poate fi alunecos pe ploaie. Conduceți încet.",
+                "en": "The road can be slippery when wet. Ride slowly and carefully."
+              }
+            },
+            {
+              "name": "Archaeological Museum of Mykonos",
+              "tip_5lang": {
+                "de": "Parken Sie das Rad sicher und wärmen Sie sich auf.",
+                "hu": "Parkoljon le biztonságosan és melegedjen fel bent.",
+                "ro": "Parcați bicicleta în siguranță și încălziți-vă în interior.",
+                "en": "Park your bike securely and take time to warm up inside."
+              }
+            },
+            {
+              "name": "Stroll down Matoyianni Street",
+              "tip_5lang": {
+                "de": "Schieben Sie das Rad in den engen Gassen (Rutschgefahr).",
+                "hu": "Tolja a biciklit a szűk utcákban a csúszásveszély miatt.",
+                "ro": "Împingeți bicicleta pe străzile înguste (pericol de alunecare).",
+                "en": "Push your bike in the narrow alleys due to slippery stones."
+              }
+            },
+            {
+              "name": "Lunch in the Old Town",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit überdachtem Abstellplatz.",
+                "hu": "Válasszon éttermet, ahol fedett helyen hagyhatja a gépet.",
+                "ro": "Alegeți un restaurant cu loc de parcare acoperit.",
+                "en": "Look for a restaurant where you can leave the bike under cover."
+              }
+            },
+            {
+              "name": "Little Venice & Windmills",
+              "tip_5lang": {
+                "de": "Meiden Sie die direkte Uferkante bei Wellengang.",
+                "hu": "Kerülje a közvetlen partpartot az erős hullámzásnál.",
+                "ro": "Evitați marginea țărmului dacă marea este agitată.",
+                "en": "Avoid the immediate waterfront if the sea is rough."
+              }
+            },
+            {
+              "name": "Bike Return & Sunset",
+              "tip_5lang": {
+                "de": "Geben Sie das Rad ab, bevor es dunkel und kälter wird.",
+                "hu": "Adja le a biciklit, mielőtt sötét és hidegebb lesz.",
+                "ro": "Returnați bicicleta înainte să se întunece și să se răcească.",
+                "en": "Return the bike before it gets dark and the temperature drops."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die weißen Straßensteine werden bei Regen extrem glatt.",
+              "Vermeiden Sie Pfützen, da sie tiefe Schlaglöcher verbergen können.",
+              "Bremsen Sie frühzeitig und sanft, um Wegrutschen zu vermeiden.",
+              "Ein Helm mit Visier schützt die Augen vor prasselndem Regen.",
+              "Halten Sie Wechselkleidung im wasserdichten Rucksack bereit."
+            ],
+            "hu": [
+              "A fehér útburkoló kövek esőben rendkívül csúszósak.",
+              "Kerülje a tócsákat, mert mély kátyúkat rejthetnek.",
+              "Fékezzen korán és finoman, hogy elkerülje a megcsúszást.",
+              "A sildes sisak védi a szemet a verő esőtől.",
+              "Tartson váltóruhát vízhatlan hátizsákban."
+            ],
+            "ro": [
+              "Pietrele albe de pe drum devin extrem de glisante la ploaie.",
+              "Evitați bălțile, deoarece pot ascunde gropi adânci.",
+              "Frânați din timp și ușor pentru a nu derapa.",
+              "O cască cu vizieră vă protejează ochii de ploaia deasă.",
+              "Păstrați haine de schimb într-un rucsac impermeabil."
+            ],
+            "en": [
+              "The white paving stones become extremely slick when wet.",
+              "Avoid puddles as they can hide deep and dangerous potholes.",
+              "Brake early and gently to prevent the wheels from sliding.",
+              "A helmet with a visor helps protect your eyes from driving rain.",
+              "Keep a change of dry clothes in a waterproof backpack."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im Winter bietet leere Straßen. Morgens Start am Hafen, Fahrt zum Leuchtturm gegen den Wind. Mittags Museen zur Aufwärmpause. Nachmittags durch die Altstadt und Little Venice. Der Tag endet früh mit dem Sonnenuntergang am Hafen.",
+            "hu": "Téli bringázás üres utakon. Reggel indulás a kikötőből, küzdelem a széllel a torony felé. Délben múzeumi melegedés. Délután óvárosi tekerés és Kis Velence. A nap korán zárul a kikötői naplementével.",
+            "ro": "Ciclismul de iarnă oferă drumuri pustii. Dimineața pornire din port, drum spre far contra vântului. La prânz, pauză de încălzire la muzeu. După-amiaza prin orașul vechi. Ziua se termină devreme cu apusul din port.",
+            "en": "Winter cycling offers empty roads. Morning start at the port, ride to the lighthouse against the wind. Midday warm-up break at the museum. Afternoon through the Old Town and Little Venice. The day ends early with the sunset at the port."
+          },
+          "stops": [
+            {
+              "name": "Bike Rental at the Port",
+              "tip_5lang": {
+                "de": "Fragen Sie nach Handschuhen, falls Sie keine dabei haben.",
+                "hu": "Kérjen kesztyűt, ha nem hozott magával.",
+                "ro": "Întrebați de mănuși dacă nu aveți la voi.",
+                "en": "Ask if they have gloves available if you didn't bring any."
+              }
+            },
+            {
+              "name": "Ride to Armenistis Lighthouse",
+              "tip_5lang": {
+                "de": "Der Wind kann hier oben im Winter sehr böig sein.",
+                "hu": "A szél itt nagyon lökéses lehet a téli hónapokban.",
+                "ro": "Vântul poate fi foarte în rafale aici iarna.",
+                "en": "The wind can be very gusty up here during winter months."
+              }
+            },
+            {
+              "name": "Archaeological Museum of Mykonos",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Besuch, um die steifen Finger aufzuwärmen.",
+                "hu": "Használja ki a látogatást az elgémberedett ujjak felmelegítésére.",
+                "ro": "Profită de vizită pentru a-ți încălzi degetele amorțite.",
+                "en": "Use the visit to warm up your cold fingers and rest."
+              }
+            },
+            {
+              "name": "Stroll down Matoyianni Street",
+              "tip_5lang": {
+                "de": "Genießen Sie das Radfahren in den fast leeren Gassen.",
+                "hu": "Élvezze a bringázást a szinte üres szűk utcákban.",
+                "ro": "Bucurați-vă de mersul cu bicicleta pe străzile aproape goale.",
+                "en": "Enjoy riding through the almost empty narrow streets."
+              }
+            },
+            {
+              "name": "Lunch in the Old Town",
+              "tip_5lang": {
+                "de": "Ein heißer Eintopf ist jetzt genau das Richtige.",
+                "hu": "Egy forró egytálétel most a legjobb választás.",
+                "ro": "O tocană fierbinte este exact ce aveți nevoie acum.",
+                "en": "A hot Greek stew is exactly what you need right now."
+              }
+            },
+            {
+              "name": "Little Venice & Windmills",
+              "tip_5lang": {
+                "de": "Der Boden ist oft feucht und kühl, Vorsicht in Kurven.",
+                "hu": "A talaj gyakran nedves és hűvös, vigyázzon a kanyarokban.",
+                "ro": "Solul e adesea umed și rece, atenție în curbe.",
+                "en": "The ground is often damp and cool; be careful in turns."
+              }
+            },
+            {
+              "name": "Bike Return & Sunset",
+              "tip_5lang": {
+                "de": "Achtung: Die Sonne sinkt im Winter bereits vor 17:30 Uhr.",
+                "hu": "Figyelem: télen a nap már 17:30 előtt lenyugszik.",
+                "ro": "Atenție: iarna soarele apune deja înainte de 17:30.",
+                "en": "Note: In winter, the sun sets well before 5:30 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Zwiebelprinzip bei der Kleidung schützt vor dem kalten Fahrtwind.",
+              "Tage sind kurz; starten Sie pünktlich um 09:00 Uhr.",
+              "Beleuchtung am Rad ist im Winter wegen früher Dämmerung Pflicht.",
+              "Trinken Sie auch bei Kälte genug, am besten Tee aus der Thermoskanne.",
+              "Prüfen Sie den Reifendruck, kalte Luft verringert ihn."
+            ],
+            "hu": [
+              "A réteges öltözködés véd a hideg menetszéltől.",
+              "A nappalok rövidek, kezdje a túrát pontosan 09:00-kor.",
+              "A világítás kötelező a korai szürkület miatt.",
+              "Hidegben is igyon eleget, legjobb a termoszban lévő tea.",
+              "Ellenőrizze a guminyomást, a hideg levegő miatt csökkenhet."
+            ],
+            "ro": [
+              "Îmbrăcămintea în straturi vă protejează de vântul rece.",
+              "Zilele sunt scurte; începeți turul exact la ora 09:00.",
+              "Luminile sunt obligatorii din cauza amurgului timpuriu.",
+              "Beți suficiente lichide; ceaiul la termos este ideal.",
+              "Verificați presiunea pneurilor, aerul rece o poate scădea."
+            ],
+            "en": [
+              "Layered clothing is essential to protect against the cold wind.",
+              "Days are short; make sure to start your tour promptly at 9 AM.",
+              "Bicycle lights are mandatory due to the early onset of twilight.",
+              "Stay hydrated even in the cold; a thermos with tea is perfect.",
+              "Check your tire pressure, as cold air can cause it to drop."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1210,6 +1644,232 @@
           "A small car is more suitable for the island than a large one.",
           "Watch out for scooters and ATVs, which often drive fast."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Auto ist die beste Wahl bei Regen. Morgens Parken am Hafen, Shopping in Matoyianni. Mittags Little Venice (Vorsicht Gischt!). Nachmittags Fahrt nach Ano Mera zum Kloster. Abends Museumsbesuch und Dinner im trockenen Hafenbereich.",
+            "hu": "Az autó a legjobb választás esőben. Reggel parkolás a kikötőben, Matoyianni boltok. Délben Kis Velence (vigyázz a tajtékkal!). Délután autózás Ano Merába a kolostorhoz. Este múzeum és vacsora a száraz kikötőben.",
+            "ro": "Mașina este cea mai bună alegere pe ploaie. Dimineața parcare în port, shopping în Matoyianni. La prânz Mica Veneție. După-amiaza drum spre Ano Mera la mănăstire. Seara vizită la muzeu și cină în port.",
+            "en": "A car is your best bet in the rain. Morning parking at the port, shopping in Matoyianni. Midday Little Venice (watch out for sea spray!). Afternoon drive to Ano Mera monastery. Evening museum visit and dinner at the port."
+          },
+          "stops": [
+            {
+              "name": "Parking at the Old Port & Manto Mavrogenous Square",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Ausgang, um lange Gehwege im Regen zu vermeiden.",
+                "hu": "Parkoljon a kijárathoz közel, hogy elkerülje az esőben gyaloglást.",
+                "ro": "Parcați aproape de ieșire pentru a evita mersul prin ploaie.",
+                "en": "Park close to the exit to minimize walking in the rain."
+              }
+            },
+            {
+              "name": "Matoyianni Street",
+              "tip_5lang": {
+                "de": "Perfekt für Schaufensterbummel bei leichtem Nieselregen.",
+                "hu": "Tökéletes kirakatnézegetésre enyhe szemerkélésben.",
+                "ro": "Perfect pentru privit vitrinele în timpul unei ploi ușoare.",
+                "en": "Perfect for window shopping during a light drizzle."
+              }
+            },
+            {
+              "name": "Panagia Paraportiani & Little Venice",
+              "tip_5lang": {
+                "de": "Vorsicht beim Aussteigen: Die Gischt kann bis zum Parkplatz spritzen.",
+                "hu": "Vigyázat kiszálláskor: a tajték a parkolóig is felcsaphat.",
+                "ro": "Atenție la coborâre: apa mării poate ajunge până la parcare.",
+                "en": "Careful when getting out; sea spray can reach the parking area."
+              }
+            },
+            {
+              "name": "Kato Mili Windmills",
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Regen für Fotos kurz im Auto.",
+                "hu": "Heves esőben maradjon a kocsiban a fotózáshoz.",
+                "ro": "Dacă plouă tare, rămâneți în mașină pentru fotografii.",
+                "en": "If it rains heavily, stay in the car to take your photos."
+              }
+            },
+            {
+              "name": "Drive to Ornos Beach & Lunch",
+              "tip_5lang": {
+                "de": "Die Strandrestaurants haben oft gemütliche, überdachte Terrassen.",
+                "hu": "A tengerparti éttermeknek gyakran van fedett teraszuk.",
+                "ro": "Restaurantele de pe plajă au adesea terase acoperite.",
+                "en": "Beachfront restaurants often have cozy, covered terraces."
+              }
+            },
+            {
+              "name": "Drive to Ano Mera & Panagia Tourliani Monastery",
+              "tip_5lang": {
+                "de": "Ein tolles Ziel im Inselinneren, weit weg von der stürmischen Küste.",
+                "hu": "Remek célpont a sziget belsejében, távol a viharos parttól.",
+                "ro": "O destinație excelentă în interior, departe de coasta furtunoasă.",
+                "en": "A great inland destination away from the stormy coast."
+              }
+            },
+            {
+              "name": "Archaeological Museum of Mykonos",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museums-Parkplatz direkt am Eingang.",
+                "hu": "Használja a múzeum parkolóját közvetlenül a bejáratnál.",
+                "ro": "Folosiți parcarea muzeului chiar de lângă intrare.",
+                "en": "Use the museum's parking lot right by the entrance."
+              }
+            },
+            {
+              "name": "Dinner at the Port",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit Tiefgarage in der Nähe.",
+                "hu": "Válasszon éttermet, amely közelében van fedett parkoló.",
+                "ro": "Alegeți un restaurant cu parcare acoperită în apropiere.",
+                "en": "Pick a restaurant with a covered parking option nearby."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Straßen auf Mykonos können bei Regen sehr rutschig werden (Ölfilm).",
+              "Vermeiden Sie tiefgelegene Straßen, da es zu Sturzfluten kommen kann.",
+              "Prüfen Sie die Scheibenwischer Ihres Mietwagens vor der Abfahrt.",
+              "Parkplätze sind bei Regen begehrter; planen Sie Pufferzeit ein.",
+              "Lassen Sie keine Wertsachen sichtbar im Auto, auch nicht bei Regen."
+            ],
+            "hu": [
+              "Az utak esőben nagyon csúszósak lehetnek az olajfilm miatt.",
+              "Kerülje a mélyebben fekvő utakat a hirtelen vízátfolyások miatt.",
+              "Indulás előtt ellenőrizze a bérautó ablaktörlőit.",
+              "Esőben a parkolóhelyek kelendőbbek, számoljon rá időt.",
+              "Ne hagyjon értéket látható helyen az autóban esőben sem."
+            ],
+            "ro": [
+              "Drumurile pot fi foarte alunecoase la primele picături de ploaie.",
+              "Evitați zonele joase ale drumurilor din cauza riscului de inundații.",
+              "Verificați ștergătoarele mașinii închiriate înainte de a pleca.",
+              "Locurile de parcare sunt mai greu de găsit pe ploaie.",
+              "Nu lăsați obiecte de valoare la vedere în mașină."
+            ],
+            "en": [
+              "Roads can become very slippery during rain due to oil buildup.",
+              "Avoid low-lying roads as flash flooding can occur quickly.",
+              "Check the windshield wipers of your rental car before starting.",
+              "Parking spots are in high demand when it rains; allow extra time.",
+              "Never leave valuables visible in the car, even in rainy weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winter-Roadtrip auf Mykonos. Morgens leere Straßen am Hafen, dann Shopping. Mittags Little Venice und Windmühlen ohne Trubel. Nachmittags Fahrt nach Ornos und Ano Mera ins Inselinnere. Der Tag endet mit einem authentischen Dinner am Hafen.",
+            "hu": "Téli autós túra Mykonoson. Reggel üres utak a kikötőnél, majd vásárlás. Délben Kis Velence és szélmalmok tömeg nélkül. Délután Ornos és Ano Mera a sziget belsejében. A nap autentikus vacsorával zárul.",
+            "ro": "Roadtrip de iarnă în Mykonos. Dimineața drumuri goale în port, apoi shopping. La prânz Mica Veneție și morile de vânt fără aglomerație. După-amiaza Ornos și Ano Mera. Ziua se încheie cu o cină autentică.",
+            "en": "Winter road trip on Mykonos. Morning empty roads at the port, then shopping. Midday Little Venice and windmills without the crowds. Afternoon drive to Ornos and Ano Mera. The day ends with an authentic dinner at the port."
+          },
+          "stops": [
+            {
+              "name": "Parking at the Old Port & Manto Mavrogenous Square",
+              "tip_5lang": {
+                "de": "Parkplätze sind im Winter im Überfluss vorhanden.",
+                "hu": "Télen bőségesen talál parkolóhelyet a kikötőben.",
+                "ro": "Locurile de parcare sunt din abundență în timpul iernii.",
+                "en": "Parking spaces are plentiful during the winter months."
+              }
+            },
+            {
+              "name": "Matoyianni Street",
+              "tip_5lang": {
+                "de": "Nur lokale Geschäfte sind offen, sehr authentisch.",
+                "hu": "Csak a helyi boltok vannak nyitva, nagyon hiteles élmény.",
+                "ro": "Doar magazinele locale sunt deschise, o experiență autentică.",
+                "en": "Only local shops are open, providing a very authentic experience."
+              }
+            },
+            {
+              "name": "Panagia Paraportiani & Little Venice",
+              "tip_5lang": {
+                "de": "Perfekte Zeit für Fotos ohne fremde Personen im Bild.",
+                "hu": "Tökéletes időszak fotózáshoz idegenek nélkül a háttérben.",
+                "ro": "Momentul perfect pentru poze fără turiști în cadru.",
+                "en": "The perfect time for photos without strangers in the frame."
+              }
+            },
+            {
+              "name": "Kato Mili Windmills",
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick über das winterliche Meer.",
+                "hu": "Élvezze a tágas kilátást a téli tengerre.",
+                "ro": "Bucurați-vă de priveliștea largă asupra mării iarna.",
+                "en": "Enjoy the expansive views over the wintry Aegean sea."
+              }
+            },
+            {
+              "name": "Drive to Ornos Beach & Lunch",
+              "tip_5lang": {
+                "de": "Der Strand ist fast leer, ideal für einen kurzen Spaziergang.",
+                "hu": "A strand szinte üres, ideális egy rövid sétához.",
+                "ro": "Plaja e aproape pustie, ideală pentru o scurtă plimbare.",
+                "en": "The beach is nearly empty, ideal for a peaceful short stroll."
+              }
+            },
+            {
+              "name": "Drive to Ano Mera & Panagia Tourliani Monastery",
+              "tip_5lang": {
+                "de": "Besuchen Sie die lokale Bäckerei am Dorfplatz für Gebäck.",
+                "hu": "Látogasson el a falu főterén lévő pékségbe süteményért.",
+                "ro": "Vizitați brutăria locală din piața satului pentru patiserie.",
+                "en": "Visit the local bakery in the village square for treats."
+              }
+            },
+            {
+              "name": "Archaeological Museum of Mykonos",
+              "tip_5lang": {
+                "de": "Die Ruhe im Museum lässt die Geschichte lebendig werden.",
+                "hu": "A múzeumi csendben szinte életre kel a történelem.",
+                "ro": "Liniștea din muzeu face istoria să prindă viață.",
+                "en": "The silence in the museum makes history come alive."
+              }
+            },
+            {
+              "name": "Dinner at the Port",
+              "tip_5lang": {
+                "de": "Viele Restaurants schließen früh, reservieren Sie ggf. vorab.",
+                "hu": "Sok hely korán bezár, érdemes előre tájékozódni.",
+                "ro": "Multe restaurante se închid devreme; verificați din timp.",
+                "en": "Many places close early; it's wise to check ahead."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Mietwagen sind im Winter deutlich günstiger.",
+              "Tankstellen außerhalb der Stadt können eingeschränkte Zeiten haben.",
+              "Genießen Sie die freie Fahrt ohne den sommerlichen Verkehrsstau.",
+              "Einige Sehenswürdigkeiten könnten wegen Renovierung geschlossen sein.",
+              "Die Heizung im Auto sorgt für angenehme Pausen zwischen den Stopps."
+            ],
+            "hu": [
+              "A bérautók télen lényegesen olcsóbbak.",
+              "A városon kívüli benzinkutak nyitvatartása korlátozott lehet.",
+              "Élvezze a szabad utat a nyári forgalmi dugók nélkül.",
+              "Néhány látnivaló felújítás miatt zárva tarthat.",
+              "Az autó fűtése kellemes pihenőt nyújt a megállók között."
+            ],
+            "ro": [
+              "Mașinile de închiriat sunt mult mai ieftine iarna.",
+              "Benzinăriile din afara orașului pot avea program redus.",
+              "Bucurați-vă de drumul liber fără ambuteiajele de vară.",
+              "Unele obiective pot fi închise pentru renovare.",
+              "Încălzirea din mașină oferă pauze plăcute între opriri."
+            ],
+            "en": [
+              "Rental cars are significantly cheaper during the winter season.",
+              "Gas stations outside the town may have restricted hours.",
+              "Enjoy the open roads without the summer traffic jams.",
+              "Some sites might be closed for seasonal maintenance or renovation.",
+              "The car's heater provides a cozy break between your stops."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1590,6 +2250,214 @@
           "The bus schedule can change, check the current times online or at the stops.",
           "The two main bus stations (Fabrika and Old Port) serve different routes."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Busfahren im Regen schont die Nerven. Morgens Start an der Fabrika-Station, kurzer Sprint zu den Windmühlen. Mittags Little Venice und Shopping. Nachmittags Bus zum alten Hafen für die Museen. Abends ein Drink am Hafen vor der Rückfahrt.",
+            "hu": "Buszozás esőben kényelmes megoldás. Reggel indulás a Fabrikától, rövid futás a malmokhoz. Délben Kis Velence és vásárlás. Délután busz a régi kikötőbe a múzeumokhoz. Este egy ital a kikötőben hazatérés előtt.",
+            "ro": "Mersul cu autobuzul pe ploaie este relaxant. Pornire de la stația Fabrika, scurt sprint spre mori. La prânz Mica Veneție. După-amiaza autobuz spre portul vechi pentru muzee. Seara o băutură în port înainte de plecare.",
+            "en": "Taking the bus in the rain is a stress-free choice. Morning start at Fabrika station, short dash to the windmills. Midday Little Venice and shopping. Afternoon bus to the Old Port for museums. Evening drink at the port before heading back."
+          },
+          "stops": [
+            {
+              "name": "Start at Fabrika Bus Station",
+              "tip_5lang": {
+                "de": "Warten Sie im überdachten Bereich der Busstation.",
+                "hu": "Várjon a buszpályaudvar fedett részén.",
+                "ro": "Așteptați în zona acoperită a autogării.",
+                "en": "Wait in the sheltered area of the bus station."
+              }
+            },
+            {
+              "name": "Kato Mili Windmills",
+              "tip_5lang": {
+                "de": "Kurzer, windiger Weg vom Bus; halten Sie den Schirm fest.",
+                "hu": "Rövid, szeles út a busztól; fogja erősen az ernyőt.",
+                "ro": "Drum scurt și vântos de la autobuz; țineți bine umbrela.",
+                "en": "Short, windy walk from the bus; hold your umbrella tightly."
+              }
+            },
+            {
+              "name": "Little Venice & Panagia Paraportiani",
+              "tip_5lang": {
+                "de": "Die Cafés hier sind gute Etappenziele im Regen.",
+                "hu": "Az itteni kávézók jó megállók az eső elől.",
+                "ro": "Cafenelele de aici sunt bune puncte de refugiu.",
+                "en": "The cafes here are good shelters during the rain."
+              }
+            },
+            {
+              "name": "Lunch and Shopping on Matoyianni Street",
+              "tip_5lang": {
+                "de": "Die schmalen Dächer bieten minimalen Schutz.",
+                "hu": "A keskeny tetők minimális védelmet nyújtanak.",
+                "ro": "Streșinile înguste oferă o protecție minimă.",
+                "en": "The narrow eaves offer a small amount of protection."
+              }
+            },
+            {
+              "name": "Bus to the Old Port (Archaeological Museum)",
+              "tip_5lang": {
+                "de": "Der Bus hält direkt in der Nähe des Museums.",
+                "hu": "A busz közvetlenül a múzeum közelében áll meg.",
+                "ro": "Autobuzul oprește chiar lângă muzeu.",
+                "en": "The bus stops conveniently close to the museum."
+              }
+            },
+            {
+              "name": "Manto Mavrogenous Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Taxistand in der Nähe.",
+                "hu": "Használja a közeli fedett taxiállomást váróhelynek.",
+                "ro": "Folosiți stația de taxi acoperită din apropiere.",
+                "en": "Use the nearby covered taxi stand as a waiting area."
+              }
+            },
+            {
+              "name": "Sunset Cocktail at the Port",
+              "tip_5lang": {
+                "de": "Beobachten Sie die ankommenden Busse durch das Fenster.",
+                "hu": "Figyelje az érkező buszokat az ablakon keresztül.",
+                "ro": "Urmăriți autobuzele care sosesc prin fereastră.",
+                "en": "Watch the arriving buses from the window of the bar."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Buskarten im Voraus an den Kiosken kaufen, um Regen-Wartezeiten zu minimieren.",
+              "Die Busse können bei Regen leicht verspätet sein.",
+              "Tragen Sie wasserfeste Schuhe für die Wege zwischen den Haltestellen.",
+              "Die KTEL-Busse sind modern und im Inneren trocken und warm.",
+              "Haben Sie den Fahrplan digital auf dem Handy parat."
+            ],
+            "hu": [
+              "Vegye meg a jegyet előre az automatánál vagy trafikban.",
+              "A buszok esőben némi késéssel közlekedhetnek.",
+              "Viseljen vízálló cipőt a megállók közötti szakaszokra.",
+              "A KTEL buszok modernek, belül szárazak és fűtöttek.",
+              "Legyen meg a menetrend digitálisan a telefonján."
+            ],
+            "ro": [
+              "Cumpărați biletele în avans de la chioșcuri.",
+              "Autobuzele pot avea mici întârzieri când plouă.",
+              "Purtați încălțăminte impermeabilă pentru segmentele pe jos.",
+              "Autobuzele KTEL sunt moderne, uscate și calde în interior.",
+              "Aveți orarul salvat digital pe telefon."
+            ],
+            "en": [
+              "Buy tickets in advance at kiosks to minimize waiting in the rain.",
+              "Buses may experience slight delays during rainy weather.",
+              "Wear waterproof footwear for the walks between stops.",
+              "KTEL buses are modern, dry, and heated inside.",
+              "Keep a digital copy of the bus schedule on your phone."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winter-Transit auf Mykonos. Morgens Start an der Fabrika, fast allein im Bus. Mittags Windmühlen und Little Venice in herrlicher Ruhe. Nachmittags Fahrt zum alten Hafen und Museumsbesuch. Der Tag endet früh mit einem Cocktail am Hafen.",
+            "hu": "Téli tömegközlekedés Mykonoson. Reggel indulás a Fabrikától, szinte egyedül a buszon. Délben malmok és Kis Velence nyugalma. Délután utazás a régi kikötőbe és múzeumlátogatás. A nap korán zárul a kikötőben.",
+            "ro": "Tranzit de iarnă în Mykonos. Dimineața pornire de la Fabrika, aproape singur în autobuz. La prânz liniștea de la mori și Mica Veneție. După-amiaza drum spre portul vechi și muzeu. Ziua se încheie devreme în port.",
+            "en": "Winter transit on Mykonos. Morning start at Fabrika, almost alone on the bus. Midday windmills and Little Venice in wonderful peace. Afternoon trip to the Old Port and museum visit. The day ends early with a cocktail at the port."
+          },
+          "stops": [
+            {
+              "name": "Start at Fabrika Bus Station",
+              "tip_5lang": {
+                "de": "Achtung: Der Winterfahrplan ist stark reduziert.",
+                "hu": "Figyelem: a téli menetrend jelentősen ritkább.",
+                "ro": "Atenție: orarul de iarnă este mult redus.",
+                "en": "Note: The winter bus schedule is significantly reduced."
+              }
+            },
+            {
+              "name": "Kato Mili Windmills",
+              "tip_5lang": {
+                "de": "Genießen Sie den Ort ohne die Selfie-Sticks der Massen.",
+                "hu": "Élvezze a helyet a tömeg szelfibotjai nélkül.",
+                "ro": "Bucurați-vă de loc fără bețele de selfie ale mulțimii.",
+                "en": "Enjoy the site without the crowds and selfie sticks."
+              }
+            },
+            {
+              "name": "Little Venice & Panagia Paraportiani",
+              "tip_5lang": {
+                "de": "Einige Wege können im Winter wegen Wartung gesperrt sein.",
+                "hu": "Néhány útvonal télen karbantartás miatt lezárva lehet.",
+                "ro": "Unele poteci pot fi închise iarna pentru întreținere.",
+                "en": "Some paths might be closed for maintenance during winter."
+              }
+            },
+            {
+              "name": "Lunch and Shopping on Matoyianni Street",
+              "tip_5lang": {
+                "de": "Treffen Sie Einheimische beim Kaffee in den offenen Bars.",
+                "hu": "Találkozzon a helyiekkel a nyitva tartó kávézókban.",
+                "ro": "Întâlniți localnicii la o cafea în barurile deschise.",
+                "en": "Meet the locals having coffee in the few open bars."
+              }
+            },
+            {
+              "name": "Bus to the Old Port (Archaeological Museum)",
+              "tip_5lang": {
+                "de": "Prüfen Sie, ob der Bus im Winter überhaupt fährt.",
+                "hu": "Ellenőrizze, hogy a busz télen egyáltalán közlekedik-e.",
+                "ro": "Verificați dacă autobuzul circulă pe acest traseu iarna.",
+                "en": "Verify if this bus route is operational during winter."
+              }
+            },
+            {
+              "name": "Manto Mavrogenous Square",
+              "tip_5lang": {
+                "de": "Die Statue der Manto wirkt im leeren Quadrat majestätisch.",
+                "hu": "Manto szobra méltóságteljes az üres téren.",
+                "ro": "Statuia lui Manto pare maiestuoasă în piața goală.",
+                "en": "The statue of Manto looks majestic in the empty square."
+              }
+            },
+            {
+              "name": "Sunset Cocktail at the Port",
+              "tip_5lang": {
+                "de": "Achtung, die letzte Busverbindung ist oft sehr früh.",
+                "hu": "Vigyázat, az utolsó buszjárat gyakran korán indul.",
+                "ro": "Atenție, ultima conexiune de autobuz e adesea devreme.",
+                "en": "Note: The last bus connection is often quite early."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Einige Buslinien werden im Winter komplett eingestellt.",
+              "Die Wartezeiten an den Stationen können länger sein (Windjacke!).",
+              "Nutzen Sie die Gelegenheit, um mit den Busfahrern ins Gespräch zu kommen.",
+              "Taxis sind im Winter eine gute Alternative, wenn kein Bus kommt.",
+              "Die zentrale KTEL-Station ist der beste Ort für aktuelle Infos."
+            ],
+            "hu": [
+              "Néhány buszvonal télen teljesen szünetel.",
+              "A várakozási idő hosszabb lehet, viseljen szélvédő ruhát.",
+              "Használja ki az alkalmat a buszsofőrökkel való beszélgetésre.",
+              "A taxi jó alternatíva télen, ha épp nem jön busz.",
+              "A központi KTEL állomáson kaphatja a legfrissebb infókat."
+            ],
+            "ro": [
+              "Unele linii de autobuz sunt suspendate total iarna.",
+              "Timpul de așteptare poate fi mai lung; purtați haine groase.",
+              "Profitați de ocazie pentru a discuta cu șoferii de autobuz.",
+              "Taxiurile sunt o alternativă bună iarna dacă nu vine autobuzul.",
+              "Stația centrală KTEL este cel mai bun loc pentru info la zi."
+            ],
+            "en": [
+              "Some bus routes are completely suspended during the winter.",
+              "Waiting times at stops can be longer; wear a windproof jacket.",
+              "Take the opportunity to chat with the local bus drivers.",
+              "Taxis are a reliable alternative in winter when buses are sparse.",
+              "The central KTEL station is the best source for current info."
+            ]
+          }
+        }
       }
     }
   }

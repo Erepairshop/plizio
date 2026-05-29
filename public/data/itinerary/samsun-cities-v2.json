@@ -306,6 +306,196 @@
           "Keep water handy, especially during summer months.",
           "The route is mostly flat, except for the ascent to Amisos Hill."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag am Saathane-Platz und nutzen Sie die historischen Arkaden als Regenschutz. Den Mittag verbringen Sie im trockenen Stadtmuseum, einem idealen Rückzugsort. Am Nachmittag bietet das Bandırma-Schiff Schutz im Inneren der Kabinen. Zum Abschluss fahren Sie mit der geschlossenen Seilbahn zum Amisos-Hügel und genießen den Blick auf das neblige Meer bei einem heißen Tee.",
+            "hu": "Kezdje a napot a Saathane téren, az oszmán épületek árkádjai alatt védve az esőtől. A délutánt töltse a Városi Múzeum meleg kiállítótereiben, ahol szárazon ismerkedhet a múlttal. Később a Bandırma hajó belső terei nyújtanak menedéket a záporok elől. A napot a zárt libegővel zárja az Amisos-dombon, ahol a ködbe burkolózott Fekete-tenger látványa mellett egy forró teával melegedhet fel.",
+            "ro": "Începeți ziua în Piața Saathane, folosind arcadele istorice ca adăpost împotriva ploii. Petreceți prânzul în interiorul călduros al Muzeului Orașului, un refugiu ideal. După-amiaza, cabinele feribotului Bandırma vă oferă protecție în timp ce explorați istoria. Încheiați ziua cu o urcare cu telefericul închis spre Dealul Amisos, admirând marea cețoasă cu un ceai turcesc fierbinte în mână.",
+            "en": "Start your day at Saathane Square, using the historic arcades for shelter from the drizzle. Spend mid-day inside the warm City Museum, a perfect rainy-day escape. In the afternoon, the interior cabins of the Bandırma Ferry provide a dry spot to explore history. End the day by taking the enclosed cable car to Amisos Hill, enjoying the misty sea views with a hot cup of tea."
+          },
+          "stops": [
+            {
+              "name": "Saathane Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Passagen der umliegenden Basare.",
+                "hu": "Használja a környező bazárok fedett átjáróit menedékként.",
+                "ro": "Folosiți pasajele acoperite ale bazarului din apropiere.",
+                "en": "Use the covered passages of the nearby bazaars for shelter."
+              }
+            },
+            {
+              "name": "Samsun City Museum",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um den stärksten Regen im Trockenen abzuwarten.",
+                "hu": "Tökéletes hely a legerősebb eső szárazon való megvárásához.",
+                "ro": "Locul perfect pentru a aștepta trecerea ploii la adăpost.",
+                "en": "Perfect place to wait out the heaviest rain in the dry."
+              }
+            },
+            {
+              "name": "Monument of Honor (Onur Anıtı)",
+              "tip_5lang": {
+                "de": "Die großen Bäume im Park bieten einen natürlichen Regenschutz.",
+                "hu": "A park nagy fái természetes esővédelmet nyújtanak.",
+                "ro": "Copacii mari din parc oferă o protecție naturală contra ploii.",
+                "en": "The large trees in the park offer natural rain protection."
+              }
+            },
+            {
+              "name": "Batı Park",
+              "tip_5lang": {
+                "de": "Ein Regenponcho ist hier besser als ein windanfälliger Schirm.",
+                "hu": "Egy esőponcsó itt praktikusabb, mint a szélérzékeny esernyő.",
+                "ro": "O pelerină este mai utilă aici decât o umbrelă din cauza vântului.",
+                "en": "A rain poncho is better here than a wind-sensitive umbrella."
+              }
+            },
+            {
+              "name": "Bandırma Ferry Museum",
+              "tip_5lang": {
+                "de": "Erkunden Sie zuerst die Innenräume des historischen Schiffes.",
+                "hu": "Először a történelmi hajó belső tereit fedezze fel.",
+                "ro": "Explorați mai întâi spațiile interioare ale navei istorice.",
+                "en": "Explore the interior spaces of the historic ship first."
+              }
+            },
+            {
+              "name": "Amisos Hill",
+              "tip_5lang": {
+                "de": "Die Seilbahn ist komplett geschlossen und bietet trockene Fahrt.",
+                "hu": "A libegő teljesen zárt, így szárazon juthat fel a tetőre.",
+                "ro": "Telefericul este complet închis și oferă o cursă uscată.",
+                "en": "The cable car is fully enclosed and offers a dry ride up."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für die Küstenwege.",
+              "Das Stadtmuseum hat Schließfächer für nasse Schirme.",
+              "Die Seilbahn zum Amisos-Hügel bleibt bei Regen in Betrieb.",
+              "Samsun ist windig; bevorzugen Sie feste Regenbekleidung.",
+              "Nutzen Sie die Cafés am Saathane-Platz für Pausen."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a parti sétányokhoz.",
+              "A Városi Múzeumban vannak zárható szekrények az esernyőknek.",
+              "A libegő esőben is üzemel az Amisos-dombra.",
+              "Samsun szeles; az esőkabát praktikusabb az esernyőnél.",
+              "Használja a Saathane tér kávézóit a pihenőkhöz."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru drumurile de coastă.",
+              "Muzeul Orașului are dulapuri pentru umbrelele ude.",
+              "Telefericul spre Dealul Amisos funcționează și pe ploaie.",
+              "Samsun e vântos; preferați pelerinele rezistente umbrelelor.",
+              "Folosiți cafenelele din Piața Saathane pentru pauze."
+            ],
+            "en": [
+              "Wear waterproof shoes for the coastal walkways.",
+              "The City Museum has lockers for wet umbrellas.",
+              "The cable car to Amisos Hill remains operational in rain.",
+              "Samsun is windy; prefer sturdy raincoats over umbrellas.",
+              "Use the cafes around Saathane Square for dry breaks."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Morgen am Saathane-Platz beginnt am besten mit einem heißen Tee. Mittags bietet das Stadtmuseum wohlige Wärme und faszinierende Geschichte. Der Spaziergang zum Denkmal ist erfrischend, erfordert aber warme Kleidung gegen den Seewind. Da es früh dunkel wird, sollten Sie den Amisos-Hügel rechtzeitig erreichen, um das Lichtermeer der Stadt in der klaren Winterluft zu sehen.",
+            "hu": "A hűvös reggelt a Saathane téren kezdje egy forró teával. Délben a Városi Múzeum nyújt menedéket és meleget a történelem kedvelőinek. A parti séta a szoborig frissítő, de a tengeri szél miatt réteges öltözet szükséges. Mivel korán sötétedik, az Amisos-dombra érjen fel időben, hogy a tiszta téli levegőben csodálhassa meg a város fényeit.",
+            "ro": "O dimineață răcoroasă în Piața Saathane începe cel mai bine cu un ceai fierbinte. La prânz, Muzeul Orașului oferă căldură și o istorie fascinantă. Plimbarea spre monument este revigorantă, dar necesită haine groase contra vântului marin. Deoarece se întunecă devreme, ajungeți pe Dealul Amisos la timp pentru a vedea luminile orașului în aerul rece.",
+            "en": "A chilly morning at Saathane Square starts best with a hot Turkish tea. At noon, the City Museum offers warmth and fascinating history. The walk to the monument is refreshing but requires warm clothing against the sea breeze. As it gets dark early, reach Amisos Hill in time to see the city lights sparkling in the clear winter air."
+          },
+          "stops": [
+            {
+              "name": "Saathane Square",
+              "tip_5lang": {
+                "de": "Trinken Sie einen 'Salep' in den Cafés, um sich aufzuwärmen.",
+                "hu": "Igyon egy forró szalepet a kávézókban a bemelegítéshez.",
+                "ro": "Beți un 'salep' fierbinte la cafenele pentru a vă încălzi.",
+                "en": "Drink a hot 'salep' in the cafes to warm up."
+              }
+            },
+            {
+              "name": "Samsun City Museum",
+              "tip_5lang": {
+                "de": "Gut beheizte Ausstellungsräume bieten Komfort im Winter.",
+                "hu": "A jól fűtött kiállítótermek kényelmet nyújtanak télen.",
+                "ro": "Sălile de expoziție bine încălzite oferă confort iarna.",
+                "en": "Well-heated exhibition halls offer comfort in winter."
+              }
+            },
+            {
+              "name": "Monument of Honor (Onur Anıtı)",
+              "tip_5lang": {
+                "de": "Der Wind im Park kann im Winter sehr schneidend sein.",
+                "hu": "A parkban a szél télen nagyon metsző lehet.",
+                "ro": "Vântul din parc poate fi foarte tăios în timpul iernii.",
+                "en": "The wind in the park can be very biting in winter."
+              }
+            },
+            {
+              "name": "Batı Park",
+              "tip_5lang": {
+                "de": "Handschuhe sind für den Weg entlang der Küste unverzichtbar.",
+                "hu": "A kesztyű elengedhetetlen a parti sétány mentén.",
+                "ro": "Mănușile sunt indispensabile pentru drumul de-a lungul coastei.",
+                "en": "Gloves are essential for the walk along the coast."
+              }
+            },
+            {
+              "name": "Bandırma Ferry Museum",
+              "tip_5lang": {
+                "de": "Die Innenräume bieten Schutz vor dem kalten Meereswind.",
+                "hu": "A belső terek védelmet nyújtanak a hideg tengeri szél ellen.",
+                "ro": "Spațiile interioare oferă protecție contra vântului rece.",
+                "en": "The interior spaces offer protection from the cold sea wind."
+              }
+            },
+            {
+              "name": "Amisos Hill",
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang ist im Winter bereits gegen 16:45 Uhr.",
+                "hu": "A naplemente télen már 16:45 körül bekövetkezik.",
+                "ro": "Apusul de soare are loc în jur de ora 16:45 iarna.",
+                "en": "Sunset occurs as early as 16:45 during winter months."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich in Schichten gegen den kalten Wind.",
+              "Die Sonne geht früh unter; planen Sie Outdoor-Stopps vor 16 Uhr.",
+              "Heiße geröstete Kastanien sind ein toller Wintersnack.",
+              "Die Seilbahn ist die wärmste Art, den Hügel zu erklimmen.",
+              "Küstencafés bieten oft beheizte Außenterrassen an."
+            ],
+            "hu": [
+              "Öltözzön rétegesen a hideg tengeri szél ellen.",
+              "A nap korán nyugszik; a kinti programokat tervezze 16 óra elé.",
+              "A sült gesztenye kiváló téli csemege a városban.",
+              "A libegő a legmelegebb módja a dombra való feljutásnak.",
+              "A parti kávézók gyakran fűtött teraszokkal várják."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi contra vântului rece de coastă.",
+              "Soarele apune devreme; planificați opririle externe înainte de ora 16.",
+              "Castanele coapte sunt o gustare excelentă de iarnă în oraș.",
+              "Telefericul este cea mai călduroasă cale de a urca dealul.",
+              "Cafenelele de pe coastă au adesea terase încălzite."
+            ],
+            "en": [
+              "Dress in layers against the cold Black Sea wind.",
+              "The sun sets early; plan outdoor stops before 4 PM.",
+              "Hot roasted chestnuts are a great winter snack in town.",
+              "The cable car is the warmest way to reach the hilltop.",
+              "Coastal cafes often offer heated outdoor seating areas."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -606,6 +796,196 @@
           "Traffic in the city center can be hectic, ride carefully.",
           "A helmet is highly recommended."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Vorsicht auf den Küstenwegen. Starten Sie am Saathane-Platz und fahren Sie zügig zum trockenen Stadtmuseum. Am Nachmittag führt die Route zum Amisos-Hügel, wobei die Seilbahn eine willkommene Pause vom Wetter bietet. Den Abschluss bildet das Bandırma-Museum, wo Sie die Fahrräder im geschützten Bereich abstellen und die Geschichte im Trockenen erkunden können.",
+            "hu": "Az esős biciklitúra óvatosságot igényel a parti utakon. Kezdjen a Saathane téren, majd tekerjen a Városi Múzeum fedett épületéhez. Délután az Amisos-domb felé vegye az irányt, ahol a libegő segít szárazon maradni. A napot a Bandırma múzeumnál zárja, ahol a kerékpárokat védett helyen hagyva, fedélzet alatt merülhet el a történelmi részletekben.",
+            "ro": "O tură cu bicicleta pe ploaie necesită prudență pe pistele de coastă. Începeți în Piața Saathane și pedalați spre Muzeul Orașului. După-amiaza, ruta duce spre Dealul Amisos, unde telefericul oferă o pauză binemeritată de la ploaie. Încheiați la Muzeul Bandırma, lăsând bicicleta într-un loc ferit pentru a explora interiorul navei.",
+            "en": "A bike tour in the rain requires caution on the coastal paths. Start at Saathane Square and cycle to the dry City Museum. In the afternoon, head towards Amisos Hill, where the cable car offers a welcome break from the weather. Conclude at the Bandırma Museum, leaving your bike in a sheltered spot while exploring the history indoors."
+          },
+          "stops": [
+            {
+              "name": "Saathane Square",
+              "tip_5lang": {
+                "de": "Vorsicht bei Kopfsteinpflaster; es wird bei Regen sehr glatt.",
+                "hu": "Vigyázat a macskaköveken; esőben nagyon csúszóssá válnak.",
+                "ro": "Atenție la pavajul cu piatră cubică; devine alunecos pe ploaie.",
+                "en": "Watch out for cobblestones; they get very slippery in the rain."
+              }
+            },
+            {
+              "name": "Monument of Honor (Onur Anıtı)",
+              "tip_5lang": {
+                "de": "Die Wege im Atatür-Park können Pfützen bilden.",
+                "hu": "Az Atatürk-park útjain tócsák alakulhatnak ki.",
+                "ro": "Pe aleile din parcul Atatürk se pot forma bălți.",
+                "en": "The paths in Atatürk Park can develop deep puddles."
+              }
+            },
+            {
+              "name": "Batı Park",
+              "tip_5lang": {
+                "de": "Nutzen Sie den speziellen blauen Radweg für besseren Halt.",
+                "hu": "Használja a kék kerékpárutat a jobb tapadás érdekében.",
+                "ro": "Folosiți pista de biciclete albastră pentru o aderență mai bună.",
+                "en": "Use the blue cycling path for better grip in the wet."
+              }
+            },
+            {
+              "name": "Amisos Hill",
+              "tip_5lang": {
+                "de": "Fahrräder können oft in der Seilbahn mitgenommen werden.",
+                "hu": "A kerékpárok gyakran felvihetők a libegő kabinjaiba.",
+                "ro": "Bicicletele pot fi adesea luate în teleferic.",
+                "en": "Bicycles can often be taken inside the cable car cabins."
+              }
+            },
+            {
+              "name": "Fener Beach",
+              "tip_5lang": {
+                "de": "Meiden Sie bei starkem Wind und Regen die vorderste Uferlinie.",
+                "hu": "Erős szélben és esőben kerülje a közvetlen vízparti sávot.",
+                "ro": "Evitați linia țărmului în caz de vânt puternic și ploaie.",
+                "en": "Avoid the immediate shoreline during heavy wind and rain."
+              }
+            },
+            {
+              "name": "Bandırma Ferry Museum",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad unter den Bäumen beim Parkplatz ab.",
+                "hu": "Parkoljon le a fák alatt a parkolónál a védelemért.",
+                "ro": "Parcați bicicleta sub copacii de lângă parcare.",
+                "en": "Park your bike under the trees near the parking for cover."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Bremsen vor der Fahrt auf nassen Wegen.",
+              "Tragen Sie eine gut sichtbare Regenjacke.",
+              "Vermeiden Sie abrupte Kurven auf bemalten Radwegen.",
+              "Nutzen Sie die Teleferik-Pause zum Trocknen.",
+              "Schutzbleche am Fahrrad sind bei diesem Wetter ein Muss."
+            ],
+            "hu": [
+              "Ellenőrizze a fékeket a vizes utakon való indulás előtt.",
+              "Viseljen jól látható, fényvisszaverős esőkabátot.",
+              "Kerülje a hirtelen kanyarodást a festett kerékpárutakon.",
+              "Használja ki a libegő alatti szünetet a száradásra.",
+              "A sárvédő elengedhetetlen ilyen időjárási körülmények között."
+            ],
+            "ro": [
+              "Verificați frânele înainte de a pleca pe drumuri ude.",
+              "Purtați o jachetă de ploaie cu vizibilitate ridicată.",
+              "Evitați virajele bruște pe pistele de biciclete vopsite.",
+              "Folosiți pauza de teleferic pentru a vă usca puțin.",
+              "Aripile la bicicletă sunt obligatorii pe acest tip de vreme."
+            ],
+            "en": [
+              "Check your brakes before starting on wet roads.",
+              "Wear a high-visibility raincoat for safety.",
+              "Avoid sharp turns on painted cycling paths when wet.",
+              "Use the cable car break to dry off slightly.",
+              "Mudguards on your bike are essential in this weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren in Samsun im Winter bietet klare Sichten und frische Luft. Starten Sie warm eingepackt am Saathane-Platz. Die Route führt entlang der Küste, wo der Wind eine Herausforderung sein kann. Wärmen Sie sich mittags im Stadtmuseum auf. Beenden Sie die Tour am Bandırma-Museum rechtzeitig vor Sonnenuntergang, um sicher und trocken durch den Winterabend zu kommen.",
+            "hu": "A téli biciklizés Samsunban tiszta kilátást és friss levegőt kínál. Melegen felöltözve induljon a Saathane térről. Az útvonal a part mentén halad, ahol a szél komoly kihívás lehet. Délben melegedjen fel a Városi Múzeumban. A túrát fejezze be a Bandırma múzeumnál még naplemente előtt, hogy biztonságban érjen vissza a téli estében.",
+            "ro": "Ciclismul în Samsun iarna oferă priveliști clare și aer proaspăt. Începeți bine îmbrăcați în Piața Saathane. Ruta urmează coasta, unde vântul poate fi o provocare. Încălziți-vă la prânz în Muzeul Orașului. Încheiați turul la Muzeul Bandırma înainte de apus, pentru a fi în siguranță în seara de iarnă.",
+            "en": "Winter cycling in Samsun offers clear views and fresh air. Start warmly dressed at Saathane Square. The route follows the coast, where the wind can be a challenge. Warm up at noon in the City Museum. Finish the tour at the Bandırma Museum well before sunset to stay safe and warm during the winter evening."
+          },
+          "stops": [
+            {
+              "name": "Saathane Square",
+              "tip_5lang": {
+                "de": "Trinken Sie einen heißen Tee, bevor Sie in den Wind fahren.",
+                "hu": "Igyon egy forró teát, mielőtt kihajtana a szélbe.",
+                "ro": "Beți un ceai fierbinte înainte de a porni în vânt.",
+                "en": "Have a hot tea before cycling into the wind."
+              }
+            },
+            {
+              "name": "Monument of Honor (Onur Anıtı)",
+              "tip_5lang": {
+                "de": "Kurzer Stopp für Fotos, um nicht zu sehr auszukühlen.",
+                "hu": "Csak rövid megálló a fotókhoz, hogy ne hűljön ki.",
+                "ro": "Oprire scurtă pentru poze, pentru a nu vă răci prea tare.",
+                "en": "Short stop for photos to avoid getting too cold."
+              }
+            },
+            {
+              "name": "Batı Park",
+              "tip_5lang": {
+                "de": "Der Seewind ist hier im Winter besonders kräftig.",
+                "hu": "A tengeri szél itt télen különösen erős lehet.",
+                "ro": "Vântul marin este deosebit de puternic aici iarna.",
+                "en": "The sea breeze is particularly strong here in winter."
+              }
+            },
+            {
+              "name": "Amisos Hill",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Seilbahn, um Schweißbildung bei Kälte zu vermeiden.",
+                "hu": "Használja a libegőt, hogy elkerülje az izzadást a hidegben.",
+                "ro": "Folosiți telefericul pentru a evita transpirația în frig.",
+                "en": "Use the cable car to avoid sweating in the cold air."
+              }
+            },
+            {
+              "name": "Fener Beach",
+              "tip_5lang": {
+                "de": "Die Cafés hier sind gute Orte für eine warme Pause.",
+                "hu": "Az itteni kávézók jó helyszínek egy meleg pihenőre.",
+                "ro": "Cafenelele de aici sunt locuri bune pentru o pauză caldă.",
+                "en": "The cafes here are good spots for a warm break."
+              }
+            },
+            {
+              "name": "Bandırma Ferry Museum",
+              "tip_5lang": {
+                "de": "Planen Sie die Rückfahrt vor Einbruch der Dunkelheit.",
+                "hu": "Tervezze meg a visszautat még sötétedés előtt.",
+                "ro": "Planificați drumul de întoarcere înainte de lăsarea serii.",
+                "en": "Plan your return trip before it gets dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Kleidung und Handschuhe.",
+              "Achten Sie auf Glatteis auf den Brückenwegen.",
+              "Sorgen Sie für funktionierendes Licht am Fahrrad.",
+              "Warme Getränke in Thermosflaschen sind ideal.",
+              "Kürzen Sie die Fahrt bei extremer Kälte ab."
+            ],
+            "hu": [
+              "Viseljen szélálló ruházatot és kesztyűt.",
+              "Ügyeljen a jegesedésre a hidakon és felüljárókon.",
+              "Gondoskodjon a kerékpár megfelelő világításáról.",
+              "A termoszban vitt meleg ital ideális kísérő.",
+              "Extrém hideg esetén rövidítse le az útvonalat."
+            ],
+            "ro": [
+              "Purtați haine rezistente la vânt și mănuși.",
+              "Atenție la porțiunile înghețate de pe poduri.",
+              "Asigurați-vă că aveți lumini funcționale la bicicletă.",
+              "Băuturile calde în termos sunt ideale.",
+              "Scurtați traseul în caz de frig extrem."
+            ],
+            "en": [
+              "Wear windproof clothing and gloves.",
+              "Watch out for icy patches on bridge paths.",
+              "Ensure your bike lights are working properly.",
+              "Warm drinks in a thermos are ideal companions.",
+              "Shorten the ride if the cold becomes extreme."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -930,6 +1310,214 @@
           "Plan extra time for traffic, especially during peak hours.",
           "The car gives you the flexibility to visit more distant places like the Amazon Village."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Samsun auch bei starkem Regen bequem zu erkunden. Starten Sie im Amazon-Dorf und fahren Sie dann zum Amisos-Hügel, wo Parkplätze direkt am Aussichtspunkt zur Verfügung stehen. Mittags erreichen Sie das Stadtmuseum und den Saathane-Platz ohne nass zu werden. Beenden Sie den Tag entspannt am Fener-Strand und beobachten Sie den Regen über dem Meer aus dem warmen Auto.",
+            "hu": "Autóval Samsun még heves esőzésben is kényelmesen felfedezhető. Kezdjen az Amazon falunál, majd hajtson az Amisos-dombra, ahol közvetlenül a kilátónál parkolhat. Délben a Városi Múzeumot és a Saathane teret érheti el anélkül, hogy bőrig ázna. A napot a Fener-strandon zárja, ahol a meleg autóból figyelheti a tenger feletti esőfüggönyt.",
+            "ro": "Cu mașina, Samsun este ușor de explorat chiar și pe ploaie torențială. Începeți la Satul Amazon, apoi mergeți spre Dealul Amisos, unde există parcări chiar lângă punctul de belvedere. La prânz, ajungeți la Muzeul Orașului și Piața Saathane fără a vă uda. Încheiați ziua relaxat la plaja Fener, privind ploaia peste mare din mașina caldă.",
+            "en": "By car, Samsun is easy to explore even in heavy rain. Start at the Amazon Village, then drive to Amisos Hill, where parking is available right by the viewpoint. At noon, reach the City Museum and Saathane Square without getting soaked. End the day relaxed at Fener Beach, watching the rain over the sea from the warmth of your car."
+          },
+          "stops": [
+            {
+              "name": "Amazon Village",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um Laufwege im Regen zu verkürzen.",
+                "hu": "Parkoljon közel a bejárathoz, hogy rövidítse a gyaloglást.",
+                "ro": "Parcați aproape de intrare pentru a scurta drumul prin ploaie.",
+                "en": "Park close to the entrance to shorten the walk in the rain."
+              }
+            },
+            {
+              "name": "Amisos Hill",
+              "tip_5lang": {
+                "de": "Die Zufahrtsstraße kann bei starkem Regen rutschig sein.",
+                "hu": "A felvezető út heves esőzésben csúszós lehet.",
+                "ro": "Drumul de acces poate fi alunecos pe ploaie torențială.",
+                "en": "The access road can be slippery during heavy rainfall."
+              }
+            },
+            {
+              "name": "Batı Park & Bandırma Ferry",
+              "tip_5lang": {
+                "de": "Großer befestigter Parkplatz direkt vor dem Museumsschiff.",
+                "hu": "Nagy, szilárd burkolatú parkoló közvetlenül a múzeumhajónál.",
+                "ro": "Parcare mare asfaltată chiar în fața navei muzeu.",
+                "en": "Large paved parking lot directly in front of the museum ship."
+              }
+            },
+            {
+              "name": "Saathane Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus in der Nähe für trockenes Aussteigen.",
+                "hu": "Használja a közeli parkolóházat a száraz kiszálláshoz.",
+                "ro": "Folosiți parcarea supraetajată din apropiere pentru a nu vă uda.",
+                "en": "Use the nearby parking garage for a dry exit from the car."
+              }
+            },
+            {
+              "name": "Samsun City Museum",
+              "tip_5lang": {
+                "de": "Parkplätze sind oft direkt an der Straßenseite verfügbar.",
+                "hu": "Parkolóhelyek gyakran közvetlenül az út mentén elérhetők.",
+                "ro": "Locurile de parcare sunt adesea disponibile chiar la stradă.",
+                "en": "Parking spots are often available right on the street side."
+              }
+            },
+            {
+              "name": "Monument of Honor (Onur Anıtı)",
+              "tip_5lang": {
+                "de": "Halten Sie kurz in der Nähe, um das Denkmal zu sehen.",
+                "hu": "Álljon meg rövid időre a közelben a szobor megtekintéséhez.",
+                "ro": "Opriți scurt în apropiere pentru a vedea monumentul.",
+                "en": "Stop briefly nearby to see the monument from the car."
+              }
+            },
+            {
+              "name": "Fener Beach",
+              "tip_5lang": {
+                "de": "Genießen Sie den Meerblick aus dem Auto bei Regen.",
+                "hu": "Élvezze a tengeri kilátást az autóból esőben.",
+                "ro": "Bucurați-vă de vederea la mare din mașină pe timp de ploaie.",
+                "en": "Enjoy the sea view from your car during the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Scheibenwischer vor der Fahrt.",
+              "Vermeiden Sie tiefe Pfützen an der Küstenstraße.",
+              "Nutzen Sie Indoor-Parkhäuser im Zentrum.",
+              "Halten Sie einen Regenschirm im Auto griffbereit.",
+              "Die Sicht auf die Küste ist bei Regen oft eingeschränkt."
+            ],
+            "hu": [
+              "Ellenőrizze az ablaktörlőket az indulás előtt.",
+              "Kerülje a mély tócsákat a parti úton.",
+              "Használja a belvárosi fedett parkolóházakat.",
+              "Tartson egy esernyőt az autóban kézközelben.",
+              "A kilátás a partra esőben gyakran korlátozott."
+            ],
+            "ro": [
+              "Verificați ștergătoarele înainte de a pleca la drum.",
+              "Evitați bălțile adânci de pe drumul de coastă.",
+              "Folosiți parcările acoperite din centru.",
+              "Țineți o umbrelă la îndemână în mașină.",
+              "Vizibilitatea spre coastă este adesea redusă pe ploaie."
+            ],
+            "en": [
+              "Check your windshield wipers before starting.",
+              "Avoid deep puddles on the coastal road.",
+              "Use indoor parking garages in the city center.",
+              "Keep an umbrella handy inside the car.",
+              "Visibility of the coast is often limited during rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Wintertage in Samsun sind ideal für eine Erkundung mit dem Auto. Starten Sie im Amazon-Dorf und genießen Sie die klare Luft am Amisos-Hügel. Mittags bieten der Saathane-Platz und das Stadtmuseum kulturelle Highlights im Warmen. Dank der Heizung im Auto können Sie den Monument-Stopp und den Fener-Strand ohne Frieren erleben und den Tag gemütlich ausklingen lassen.",
+            "hu": "A téli napok Samsunban ideálisak az autós felfedezéshez. Kezdjen az Amazon falunál, majd élvezze a tiszta levegőt az Amisos-dombon. Délben a Saathane tér és a Városi Múzeum kínál kulturális élményeket a melegben. Az autó fűtésének köszönhetően fázás nélkül nézheti meg a szobrot és a Fener-strandot, majd kényelmesen zárhatja a napot.",
+            "ro": "Zilele de iarnă în Samsun sunt ideale pentru explorarea cu mașina. Începeți la Satul Amazon și bucurați-vă de aerul curat de pe Dealul Amisos. La prânz, Piața Saathane și Muzeul Orașului oferă repere culturale la căldură. Datorită încălzirii din mașină, puteți vizita monumentul și plaja Fener fără a îngheța.",
+            "en": "Winter days in Samsun are ideal for car exploration. Start at the Amazon Village and enjoy the crisp air at Amisos Hill. At noon, Saathane Square and the City Museum provide cultural highlights in the warmth. Thanks to the car's heater, you can experience the monument and Fener Beach without freezing before ending your day comfortably."
+          },
+          "stops": [
+            {
+              "name": "Amazon Village",
+              "tip_5lang": {
+                "de": "Warme Kleidung für den kurzen Rundgang im Freien nötig.",
+                "hu": "Meleg ruházat szükséges a rövid kinti körsétához.",
+                "ro": "Haine groase necesare pentru scurta plimbare în aer liber.",
+                "en": "Warm clothing needed for the short outdoor circuit."
+              }
+            },
+            {
+              "name": "Amisos Hill",
+              "tip_5lang": {
+                "de": "Beste Sicht auf das Schwarze Meer bei klarer Winterluft.",
+                "hu": "A legjobb kilátás a Fekete-tengerre tiszta téli levegőben.",
+                "ro": "Cea mai bună vedere spre Marea Neagră în aerul curat de iarnă.",
+                "en": "Best view of the Black Sea in the clear winter air."
+              }
+            },
+            {
+              "name": "Batı Park & Bandırma Ferry",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist im Winter oft weniger ausgelastet.",
+                "hu": "A parkoló télen gyakran kevésbé zsúfolt.",
+                "ro": "Parcarea este adesea mai liberă în timpul iernii.",
+                "en": "The parking lot is often less crowded during winter."
+              }
+            },
+            {
+              "name": "Saathane Square",
+              "tip_5lang": {
+                "de": "Parken Sie zentrumsnah, um schnell in die Cafés zu kommen.",
+                "hu": "Parkoljon a központban, hogy gyorsan beérjen a kávézókba.",
+                "ro": "Parcați aproape de centru pentru a ajunge rapid la cafenele.",
+                "en": "Park near the center for quick access to warm cafes."
+              }
+            },
+            {
+              "name": "Samsun City Museum",
+              "tip_5lang": {
+                "de": "Idealer Stopp, um sich während der Tour aufzuwärmen.",
+                "hu": "Ideális megálló a túra közbeni felmelegedéshez.",
+                "ro": "Oprire ideală pentru a vă încălzi în timpul turului.",
+                "en": "Ideal stop to warm up during your city tour."
+              }
+            },
+            {
+              "name": "Monument of Honor (Onur Anıtı)",
+              "tip_5lang": {
+                "de": "Vom Auto aus ist die Statue auch im Winter gut zu sehen.",
+                "hu": "A szobor az autóból is jól látható a téli napokon.",
+                "ro": "Statuia este bine vizibilă din mașină și iarna.",
+                "en": "The statue is clearly visible from the car even in winter."
+              }
+            },
+            {
+              "name": "Fener Beach",
+              "tip_5lang": {
+                "de": "Kalt am Ufer; bleiben Sie für die Aussicht im Fahrzeug.",
+                "hu": "Hideg van a parton; maradjon a járműben a kilátásért.",
+                "ro": "E frig la mal; rămâneți în vehicul pentru priveliște.",
+                "en": "Cold at the shore; stay inside the vehicle for the view."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Frost auf den Küstenstraßen am Morgen.",
+              "Prüfen Sie den Reifendruck bei fallenden Temperaturen.",
+              "Nutzen Sie die Sitzheizung für zusätzlichen Komfort.",
+              "Samsun kann im Winter plötzlich neblig werden.",
+              "Planen Sie die Route so, dass Sie vor 17 Uhr fertig sind."
+            ],
+            "hu": [
+              "Ügyeljen a reggeli fagyokra a parti utakon.",
+              "Ellenőrizze a guminyomást a csökkenő hőmérsékletben.",
+              "Használja az ülésfűtést a plusz kényelemért.",
+              "Samsun télen hirtelen ködössé válhat.",
+              "Tervezze úgy az utat, hogy 17 óra előtt végezzen."
+            ],
+            "ro": [
+              "Atenție la înghețul de pe drumurile de coastă dimineața.",
+              "Verificați presiunea în anvelope la temperaturi scăzute.",
+              "Folosiți încălzirea în scaune pentru confort sporit.",
+              "Samsun poate deveni brusc cețos iarna.",
+              "Planificați ruta astfel încât să terminați înainte de ora 17."
+            ],
+            "en": [
+              "Watch out for frost on coastal roads in the morning.",
+              "Check tire pressure as temperatures drop.",
+              "Use seat heaters for extra comfort during the tour.",
+              "Samsun can become suddenly foggy in winter.",
+              "Plan your route to finish before 5 PM."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1230,6 +1818,196 @@
           "Check schedules in advance, especially for buses.",
           "The tram is the fastest way to travel along the coast."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Samsuns Straßenbahn ist ideal für Regentage. Starten Sie am Saathane-Platz und nutzen Sie die kurzen Wege zur Bahn. Mittags erreichen Sie das Stadtmuseum bequem im Trockenen. Am Nachmittag führt die Route entlang der Küste zum Bandırma-Museum. Beenden Sie den Tag am Amisos-Hügel, wobei die Seilbahn den perfekten, wettergeschützten Abschluss über der Stadt bietet.",
+            "hu": "Samsun villamoshálózata ideális az esős napokra. Kezdjen a Saathane téren, kihasználva a rövid utat a megállóig. Délben kényelmesen, szárazon érheti el a Városi Múzeumot. Délután az útvonal a part mentén halad a Bandırma múzeum felé. Zárja a napot az Amisos-dombon, ahol a libegő tökéletes, időjárástól védett befejezést kínál a város felett.",
+            "ro": "Tramvaiul din Samsun este ideal pentru zilele ploioase. Începeți în Piața Saathane, folosind drumurile scurte spre stație. La prânz, ajungeți la Muzeul Orașului confortabil și uscat. După-amiaza, ruta urmează coasta spre Muzeul Bandırma. Încheiați ziua pe Dealul Amisos, unde telefericul oferă finalul perfect protejat de vreme deasupra orașului.",
+            "en": "Samsun's tram system is ideal for rainy days. Start at Saathane Square, taking advantage of the short walks to the stations. At noon, reach the City Museum comfortably and dry. In the afternoon, the route follows the coast to the Bandırma Museum. End the day at Amisos Hill, where the cable car provides the perfect weather-protected finish over the city."
+          },
+          "stops": [
+            {
+              "name": "Saathane Square",
+              "tip_5lang": {
+                "de": "Die Tramstation 'Cumhuriyet' ist nur wenige Minuten entfernt.",
+                "hu": "A 'Cumhuriyet' villamosmegálló csak pár perc sétára van.",
+                "ro": "Stația de tramvai 'Cumhuriyet' este la doar câteva minute.",
+                "en": "The 'Cumhuriyet' tram station is just a few minutes away."
+              }
+            },
+            {
+              "name": "Samsun City Museum",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg von der Haltestelle zum Museumseingang.",
+                "hu": "Rövid séta a villamosmegállótól a múzeum bejáratáig.",
+                "ro": "Drum scurt pe jos de la stație până la intrarea în muzeu.",
+                "en": "Short walk from the tram stop to the museum entrance."
+              }
+            },
+            {
+              "name": "Monument of Honor (Onur Anıtı)",
+              "tip_5lang": {
+                "de": "Die zentrale Lage erlaubt schnellen Wechsel in den Bus.",
+                "hu": "A központi elhelyezkedés gyors buszra szállást tesz lehetővé.",
+                "ro": "Locația centrală permite schimbarea rapidă cu autobuzul.",
+                "en": "The central location allows for a quick transfer to a bus."
+              }
+            },
+            {
+              "name": "Batı Park",
+              "tip_5lang": {
+                "de": "Nutzen Sie bei Regen die überdachten Wartebereiche.",
+                "hu": "Esőben használja a fedett váróhelyiségeket.",
+                "ro": "Folosiți zonele de așteptare acoperite în caz de ploaie.",
+                "en": "Use the covered waiting areas at the stops during rain."
+              }
+            },
+            {
+              "name": "Bandırma Ferry Museum",
+              "tip_5lang": {
+                "de": "Busse halten oft in direkter Nähe des Museumsparks.",
+                "hu": "A buszok gyakran közvetlenül a múzeumparknál állnak meg.",
+                "ro": "Autobuzele opresc adesea chiar lângă parcul muzeului.",
+                "en": "Buses often stop right next to the museum park."
+              }
+            },
+            {
+              "name": "Amisos Hill",
+              "tip_5lang": {
+                "de": "Die Seilbahnstation ist gut an das Busnetz angebunden.",
+                "hu": "A libegő állomása jól kapcsolódik a buszhálózathoz.",
+                "ro": "Stația de teleferic este bine conectată la rețeaua de autobuz.",
+                "en": "The cable car station is well connected to the bus network."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Samkart ist für alle öffentlichen Verkehrsmittel nötig.",
+              "Straßenbahnen sind im Regen oft voll; planen Sie Zeit ein.",
+              "Nutzen Sie die 'Samsun Ulaşım' App für Echtzeitdaten.",
+              "Die Tram fährt parallel zur Küste und ist sehr trocken.",
+              "Halten Sie Kleingeld für private Dolmuş-Busse bereit."
+            ],
+            "hu": [
+              "A Samkart szükséges minden tömegközlekedési eszközhöz.",
+              "A villamosok esőben gyakran zsúfoltak; számoljon több idővel.",
+              "Használja a 'Samsun Ulaşım' appot a valós idejű adatokhoz.",
+              "A villamos a parttal párhuzamosan halad és teljesen száraz.",
+              "Tartson aprópénzt a privát Dolmuş buszokhoz."
+            ],
+            "ro": [
+              "Samkart este necesar pentru toate mijloacele de transport.",
+              "Tramvaiele sunt adesea pline pe ploaie; alocați timp suplimentar.",
+              "Folosiți aplicația 'Samsun Ulaşım' pentru date în timp real.",
+              "Tramvaiul merge paralel cu coasta și este foarte uscat.",
+              "Aveți mărunțiș pregătit pentru microbuzele Dolmuş."
+            ],
+            "en": [
+              "Samkart is required for all public transport usage.",
+              "Trams can be crowded during rain; allow extra time.",
+              "Use the 'Samsun Ulaşım' app for real-time transit data.",
+              "The tram runs parallel to the coast and is very dry.",
+              "Keep small change ready for private Dolmuş buses."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Samsun mit Bus und Bahn im Winter ist komfortabel und warm. Starten Sie am Saathane-Platz und wärmen Sie sich in der Straßenbahn auf dem Weg zum Stadtmuseum auf. Die winterliche Küstenlandschaft lässt sich bestens aus dem Fenster der Bahn betrachten. Zum Abschluss bietet die Seilbahn zum Amisos-Hügel einen windgeschützten Blick auf das winterliche Schwarze Meer.",
+            "hu": "Samsun felfedezése télen busszal és villamossal kényelmes és meleg. Kezdjen a Saathane téren, majd melegedjen fel a villamoson a Városi Múzeum felé menet. A téli parti táj a villamos ablakából nézve a legszebb. Végezetül az Amisos-dombra induló libegő szélvédett kilátást nyújt a téli Fekete-tengerre.",
+            "ro": "Explorarea orașului Samsun iarna cu autobuzul și tramvaiul este confortabilă. Începeți în Piața Saathane și încălziți-vă în tramvai în drum spre Muzeul Orașului. Peisajul de coastă de iarnă poate fi admirat cel mai bine de pe fereastra tramvaiului. În final, telefericul spre Dealul Amisos oferă o vedere ferită de vânt spre Marea Neagră.",
+            "en": "Exploring Samsun by bus and tram in winter is comfortable and warm. Start at Saathane Square and warm up on the tram on your way to the City Museum. The winter coastal landscape is best viewed from the tram window. Finally, the cable car to Amisos Hill offers a wind-protected view of the wintery Black Sea."
+          },
+          "stops": [
+            {
+              "name": "Saathane Square",
+              "tip_5lang": {
+                "de": "Warten Sie in den beheizten Innenbereichen der nahen Cafés.",
+                "hu": "Várjon a közeli kávézók fűtött belső tereiben.",
+                "ro": "Așteptați în zonele interioare încălzite ale cafenelelor.",
+                "en": "Wait inside the heated areas of nearby cafes."
+              }
+            },
+            {
+              "name": "Samsun City Museum",
+              "tip_5lang": {
+                "de": "Ein warmer Zwischenstopp zwischen den Fahrten.",
+                "hu": "Meleg köztes megálló a közlekedési eszközök között.",
+                "ro": "O oprire caldă între călătoriile cu transportul public.",
+                "en": "A warm stopover between your transit rides."
+              }
+            },
+            {
+              "name": "Monument of Honor (Onur Anıtı)",
+              "tip_5lang": {
+                "de": "Zentrale Knotenpunkte bieten schnellen Schutz vor der Kälte.",
+                "hu": "A központi csomópontok gyors védelmet nyújtanak a hideg ellen.",
+                "ro": "Nodurile centrale oferă adăpost rapid împotriva frigului.",
+                "en": "Central hubs offer quick shelter from the cold air."
+              }
+            },
+            {
+              "name": "Batı Park",
+              "tip_5lang": {
+                "de": "Die Bahnen sind im Winter gut beheizt.",
+                "hu": "A villamosok télen jól fűtöttek.",
+                "ro": "Tramvaiele sunt bine încălzite în timpul iernii.",
+                "en": "Trams are well-heated during the winter months."
+              }
+            },
+            {
+              "name": "Bandırma Ferry Museum",
+              "tip_5lang": {
+                "de": "Achten Sie auf die kürzeren Fahrpläne an Winterwochenenden.",
+                "hu": "Ügyeljen a téli hétvégék rövidebb menetrendjére.",
+                "ro": "Atenție la orarul redus în weekendurile de iarnă.",
+                "en": "Watch out for shorter schedules on winter weekends."
+              }
+            },
+            {
+              "name": "Amisos Hill",
+              "tip_5lang": {
+                "de": "Die Seilbahnfahrt ist im Winter besonders ruhig.",
+                "hu": "A libegőzés télen különösen nyugodt élmény.",
+                "ro": "Cursa cu telefericul este deosebit de liniștită iarna.",
+                "en": "The cable car ride is particularly peaceful in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie warme Kleidung für die Wartezeiten an Haltestellen.",
+              "Straßenbahnen fahren bis spät in die Nacht.",
+              "Nutzen Sie die Sitzplätze, um den Seewind zu vermeiden.",
+              "Die Samkart kann an fast allen Kiosken aufgeladen werden.",
+              "Planen Sie Pufferzeiten für wetterbedingte Verzögerungen ein."
+            ],
+            "hu": [
+              "Viseljen meleg ruhát a megállókban való várakozáshoz.",
+              "A villamosok késő éjszakáig közlekednek.",
+              "Használja az ülőhelyeket, hogy elkerülje a huzatot.",
+              "A Samkart szinte minden kioszknál feltölthető.",
+              "Számoljon pufferidővel az időjárás miatti késésekre."
+            ],
+            "ro": [
+              "Purtați haine groase pentru așteptarea în stații.",
+              "Tramvaiele circulă până târziu în noapte.",
+              "Ocupați locurile pe scaun pentru a evita curentul.",
+              "Samkart poate fi reîncărcat la aproape orice chioșc.",
+              "Alocați timp suplimentar pentru eventuale întârzieri."
+            ],
+            "en": [
+              "Wear warm clothes for waiting times at outdoor stops.",
+              "Trams operate until late at night in the city.",
+              "Take a seat inside to avoid the draft from open doors.",
+              "Samkart can be topped up at almost any kiosk.",
+              "Allow extra time for potential weather-related delays."
+            ]
+          }
+        }
       }
     }
   }

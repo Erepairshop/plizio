@@ -333,6 +333,178 @@
           "Always keep a bottle of water with you, especially during summer months.",
           "Don't hesitate to ask locals for directions or recommendations; they are known for their hospitality."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag am Zentralplatz unter den schützenden Markisen der Cafés, während der Regen die kopfsteingepflasterten Gassen glänzen lässt. Das Markos-Botsaris-Denkmal wirkt im grauen Licht besonders würdevoll.\n\nMittags bietet die Kathedrale der Heiligen Dreifaltigkeit einen trockenen und spirituellen Rückzugsort, bevor Sie das Volkskundemuseum besuchen, wo Sie ausführlich in die lokale Geschichte eintauchen können, ohne nass zu werden.\n\nAm Nachmittag führt der Weg zum Saloon Park; die bewaldete Umgebung bietet natürlichen Schutz, und die Innenräume des Parks laden zum Verweilen ein.\n\nDer Abend klingt in einer der traditionellen Tavernen in der Nähe des Platzes aus, wo das Prasseln des Regens an den Fenstern für eine gemütliche Atmosphäre sorgt.",
+            "hu": "Kezdje a reggelt a központi téren a kávézók védelmező árnyékolói alatt, miközben az eső csillogóvá teszi a macskaköves utcákat. A Markos Botsaris emlékmű a szürke fényben különösen méltóságteljesnek tűnik.\n\nDélben a Szentháromság-székesegyház nyújt száraz és spirituális menedéket, mielőtt a Néprajzi Múzeumba látogatna, ahol alaposan elmerülhet a helyi történelemben anélkül, hogy megázna.\n\nDélután az út a Saloon Parkba vezet; az erdős környezet természetes védelmet nyújt, a park beltéri helyiségei pedig hívogatóak a pihenésre.\n\nAz este a főtér közeli hagyományos tavernák egyikében zárul, ahol az ablakokon kopogó eső hangja mellett élvezheti a meleg helyi ételeket.",
+            "ro": "Începeți ziua în Piața Centrală sub copertinele protectoare ale cafenelelor, în timp ce ploaia face ca străzile pietruite să strălucească. Monumentul Markos Botsaris pare deosebit de demn în lumina gri.\n\nLa prânz, Catedrala Sfânta Treime oferă un refugiu uscat și spiritual înainte de a vizita Muzeul de Folclor, unde puteți explora istoria locală în detaliu fără a vă uda.\n\nDupă-amiaza, drumul duce la Saloon Park; împrejurimile împădurite oferă protecție naturală, iar spațiile interioare ale parcului sunt primitoare pentru relaxare.\n\nSeara se încheie într-una dintre tavernele tradiționale de lângă piață, unde sunetul ploii lovind ferestrele creează o atmosferă caldă și primitoare.",
+            "en": "Start the morning at the Central Square under the protective awnings of the cafes, as the rain makes the cobblestone streets glisten. The Markos Botsaris Monument looks particularly dignified in the grey light.\n\nAt noon, the Cathedral of the Holy Trinity provides a dry and spiritual retreat before visiting the Folklore Museum, where you can dive deep into local history without getting wet.\n\nIn the afternoon, the route leads to Saloon Park; the wooded surroundings offer natural shelter, and the park's indoor facilities are inviting for a rest.\n\nThe evening concludes in one of the traditional taverns near the square, where the sound of rain tapping on the windows adds to the cozy atmosphere."
+          },
+          "stops": [
+            {
+              "name": "Central Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden der Cafés als Schutz vor dem Regen.",
+                "hu": "Használja a kávézók árkádjait menedékként az eső elől.",
+                "ro": "Folosiți arcadele cafenelelor ca adăpost împotriva ploii.",
+                "en": "Use the café arcades as shelter from the rain."
+              }
+            },
+            {
+              "name": "Markos Botsaris Monument",
+              "tip_5lang": {
+                "de": "Kurzer Halt für ein Foto; die Steinstatue wirkt im Regen sehr kontrastreich.",
+                "hu": "Rövid megálló egy fotóra; a kőszobor az esőben nagyon kontrasztos.",
+                "ro": "Oprire scurtă pentru o fotografie; statuia de piatră este foarte contrastantă în ploaie.",
+                "en": "Short stop for a photo; the stone statue looks high-contrast in the rain."
+              }
+            },
+            {
+              "name": "Cathedral of the Holy Trinity",
+              "tip_5lang": {
+                "de": "Ideal, um die Kleidung zu trocknen und die Ikonen in Ruhe zu betrachten.",
+                "hu": "Ideális a ruhák szárítására és az ikonok nyugodt megtekintésére.",
+                "ro": "Ideal pentru a usca hainele și a privi icoanele în liniște.",
+                "en": "Ideal for drying off and viewing the icons in peace."
+              }
+            },
+            {
+              "name": "Folklore Museum of Karpenisi",
+              "tip_5lang": {
+                "de": "Verlängern Sie den Aufenthalt hier, wenn der Regen draußen stärker wird.",
+                "hu": "Hosszabbítsa meg az itt tartózkodást, ha kint erősödik az eső.",
+                "ro": "Prelungiți șederea aici dacă ploaia de afară se intensifică.",
+                "en": "Extend your stay here if the rain outside intensifies."
+              }
+            },
+            {
+              "name": "Saloon Park",
+              "tip_5lang": {
+                "de": "Das Holzhaus bietet einen gemütlichen, trockenen Platz für einen Kaffee.",
+                "hu": "A faház hangulatos, száraz helyet kínál egy kávéhoz.",
+                "ro": "Căsuța de lemn oferă un loc primitor și uscat pentru o cafea.",
+                "en": "The wooden cabin offers a cozy, dry spot for a coffee."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Regenschirm ist in den engen Gassen von Karpenisi Pflicht.",
+              "Die Steinpflaster können bei Nässe sehr rutschig sein, tragen Sie griffige Schuhe.",
+              "Nutzen Sie die Zeit im Museum für ausführliche Studien der evrytanischen Trachten.",
+              "In Karpenisi regnet es oft heftig, aber kurz; Cafés sind ideale Wartepunkte.",
+              "Wasserdichte Kleidung ist bei den Wanderungen im Waldpark Saloon unerlässlich."
+            ],
+            "hu": [
+              "Karpenisi szűk utcáin elengedhetetlen egy erős esernyő.",
+              "A kőburkolatok nedvesen nagyon csúszósak lehetnek, viseljen tapadós talpú cipőt.",
+              "Használja ki a múzeumban töltött időt az evritániai népviseletek alapos tanulmányozására.",
+              "Karpenisiben gyakran esik hevesen, de röviden; a kávézók ideális várakozóhelyek.",
+              "A vízálló ruházat elengedhetetlen a Saloon erdei parkban tett sétákhoz."
+            ],
+            "ro": [
+              "O umbrelă rezistentă este obligatorie pe străzile înguste din Karpenisi.",
+              "Pavajul de piatră poate fi foarte alunecos când este ud, purtați pantofi cu aderență.",
+              "Folosiți timpul petrecut în muzeu pentru studiul detaliat al costumelor populare evritane.",
+              "În Karpenisi plouă adesea torențial, dar scurt; cafenelele sunt puncte de așteptare ideale.",
+              "Îmbrăcămintea impermeabilă este esențială pentru plimbările în parcul forestier Saloon."
+            ],
+            "en": [
+              "A sturdy umbrella is essential in the narrow streets of Karpenisi.",
+              "Stone pavements can be very slippery when wet; wear shoes with good grip.",
+              "Use the time in the museum for detailed study of Evrytania folk costumes.",
+              "In Karpenisi, it often rains heavily but briefly; cafes are ideal waiting points.",
+              "Waterproof clothing is indispensable for walks in the Saloon forest park."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie Karpenisi als Wintermärchen. Der Morgen am Zentralplatz ist frostig, oft liegt eine dünne Schneeschicht auf den Denkmälern. Der Dampf heißer Getränke aus den Cafés erfüllt die kalte Luft.\n\nMittags bietet die beheizte Kathedrale wohlige Wärme. Im Volkskundemuseum erfahren Sie, wie die Bergbewohner die harten Winter früher überstanden haben.\n\nDer Nachmittag im Saloon Park ist besonders stimmungsvoll; die verschneiten Tannen bieten eine malerische Kulisse für einen kurzen Winterspaziergang, gefolgt von einem heißen Tee im Kaminzimmer.\n\nSobald die Sonne gegen 17:00 Uhr hinter den Bergen verschwindet, ziehen Sie sich in eine warme Taverne zurück, um lokale Fleischspezialitäten und Wein zu genießen.",
+            "hu": "Tapasztalja meg Karpenisit téli mesevilágként. A reggel a központi téren fagyos, az emlékműveket gyakran vékony hóréteg fedi. A kávézók felől érkező forró italok gőze megtölti a hideg levegőt.\n\nDélben a fűtött székesegyház nyújt melengető pihenőt. A Néprajzi Múzeumban megtudhatja, hogyan vészelték át a hegyi lakók régen a kemény teleket.\n\nA délután a Saloon Parkban különösen hangulatos; a havas fenyők festői hátteret nyújtanak egy rövid téli sétához, amit egy forró tea követ a kandallós szobában.\n\nAmint a nap 17:00 körül eltűnik a hegyek mögött, vonuljon be egy meleg tavernába, hogy helyi húsételeket és bort fogyasszon.",
+            "ro": "Experimentați Karpenisi ca într-un basm de iarnă. Dimineața în Piața Centrală este geroasă, adesea cu un strat subțire de zăpadă pe monumente. Aburul băuturilor fierbinți din cafenele umple aerul rece.\n\nLa prânz, catedrala încălzită oferă o căldură binevenită. În Muzeul de Folclor aflați cum supraviețuiau locuitorii munților iernilor grele în trecut.\n\nDupă-amiaza în Saloon Park este deosebit de sugestivă; brăduții înzăpeziți oferă un decor pitoresc pentru o scurtă plimbare de iarnă, urmată de un ceai fierbinte lângă șemineu.\n\nImediat ce soarele dispare după munți în jurul orei 17:00, retrageți-vă într-o tavernă caldă pentru a savura specialități locale din carne și vin.",
+            "en": "Experience Karpenisi as a winter wonderland. The morning at the Central Square is frosty, often with a thin layer of snow on the monuments. The steam from hot drinks at the cafes fills the cold air.\n\nAt noon, the heated cathedral provides welcome warmth. In the Folklore Museum, you'll learn how the mountain residents survived harsh winters in the past.\n\nIn the afternoon at Saloon Park, the atmosphere is particularly charming; the snow-covered fir trees offer a picturesque backdrop for a short winter walk, followed by hot tea in the fireplace room.\n\nAs soon as the sun disappears behind the mountains around 17:00, retreat to a warm tavern to enjoy local meat specialties and wine."
+          },
+          "stops": [
+            {
+              "name": "Central Square",
+              "tip_5lang": {
+                "de": "Genießen Sie einen 'Ellinikos' Kaffee am Kamin eines Cafés.",
+                "hu": "Élvezzen egy 'Ellinikos' kávét egy kávézó kandallója mellett.",
+                "ro": "Savurați o cafea 'Ellinikos' lângă șemineul unei cafenele.",
+                "en": "Enjoy an 'Ellinikos' coffee by the fireplace of a cafe."
+              }
+            },
+            {
+              "name": "Markos Botsaris Monument",
+              "tip_5lang": {
+                "de": "Vorsicht vor Vereisungen auf den Treppen rund um das Denkmal.",
+                "hu": "Vigyázat az eljegesedésekkel az emlékmű körüli lépcsőkön.",
+                "ro": "Atenție la gheața de pe scările din jurul monumentului.",
+                "en": "Watch out for ice on the steps around the monument."
+              }
+            },
+            {
+              "name": "Cathedral of the Holy Trinity",
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten die Kälte ab; ein Ort der Stille und Wärme.",
+                "hu": "A vastag falak kint tartják a hideget; a nyugalom és meleg helye.",
+                "ro": "Zidurile groase țin frigul la distanță; un loc de liniște și căldură.",
+                "en": "The thick walls keep the cold out; a place of silence and warmth."
+              }
+            },
+            {
+              "name": "Folklore Museum of Karpenisi",
+              "tip_5lang": {
+                "de": "Die Ausstellungen über traditionelle Webkunst sind im Winter besonders passend.",
+                "hu": "A hagyományos szövőművészetről szóló kiállítások télen különösen találóak.",
+                "ro": "Expozițiile despre arta țesutului tradițional sunt foarte potrivite iarna.",
+                "en": "Exhibitions on traditional weaving are especially fitting in winter."
+              }
+            },
+            {
+              "name": "Saloon Park",
+              "tip_5lang": {
+                "de": "Pferdereiten im Schnee ist hier ein unvergessliches Wintererlebnis.",
+                "hu": "A havas lovaglás itt felejthetetlen téli élmény.",
+                "ro": "Călăria prin zăpadă este o experiență de iarnă de neuitat aici.",
+                "en": "Horseback riding in the snow is an unforgettable winter experience here."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermounterwäsche; die Temperaturen fallen oft unter den Gefrierpunkt.",
+              "Die Sonne geht früh unter; planen Sie Outdoor-Aktivitäten vor 16:30 Uhr.",
+              "Probieren Sie 'Tsipouro' oder heißen Wein zur Aufwärmung in den Tavernen.",
+              "Feste Winterschuhe mit Profil sind wegen möglichem Schnee und Eis nötig.",
+              "Die Luft ist in dieser Höhe trocken und kalt; Lippenpflege nicht vergessen."
+            ],
+            "hu": [
+              "Viseljen termo alsóneműt; a hőmérséklet gyakran fagypont alá süllyed.",
+              "A nap korán nyugszik; a szabadtéri programokat tervezze 16:30 elé.",
+              "Kóstolja meg a 'Tsipouro'-t vagy a forralt bort a tavernákban a felmelegedéshez.",
+              "Havas és jeges útviszonyok miatt profilozott talpú téli bakancs szükséges.",
+              "A levegő ezen a magasságon száraz és hideg; ne felejtse el az ajakápolót."
+            ],
+            "ro": [
+              "Purtați lenjerie termică; temperaturile scad adesea sub pragul de îngheț.",
+              "Soarele apune devreme; planificați activitățile în aer liber înainte de 16:30.",
+              "Încercați 'Tsipouro' sau vin fiert pentru încălzire în taverne.",
+              "Sunt necesare ghete de iarnă cu talpă aderentă din cauza posibilei zăpezi și gheață.",
+              "Aerul la această altitudine este uscat și rece; nu uitați balsamul de buze."
+            ],
+            "en": [
+              "Wear thermal underwear; temperatures often drop below freezing.",
+              "The sun sets early; plan outdoor activities before 16:30.",
+              "Try 'Tsipouro' or mulled wine for warming up in the taverns.",
+              "Sturdy winter boots with tread are necessary due to possible snow and ice.",
+              "The air at this altitude is dry and cold; don't forget lip balm."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -660,6 +832,178 @@
           "Roads can be narrow; be cautious with traffic.",
           "Take snacks and water with you, especially for the ride out of town."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Vorsicht auf den steilen Straßen von Karpenisi. Der Vormittag am Zentralplatz dient der Vorbereitung mit wasserdichter Ausrüstung.\n\nDas Volkskundemuseum am Mittag bietet eine willkommene Pause vom Pedalieren im Regen. Die Route zur Kathedrale führt über nasse Asphaltwege, die erhöhte Aufmerksamkeit erfordern.\n\nNachmittags geht es zum Saloon Park; die Waldwege können schlammig sein, was das Mountainbiken abenteuerlich macht. Unter den Vordächern des Parks findet man Schutz.\n\nDer Tag endet mit der Abfahrt zum Aussichtspunkt Koryschades, wo die Wolken tief in den Tälern hängen und eine mystische Stimmung erzeugen.",
+            "hu": "Egy kerékpártúra esőben óvatosságot igényel Karpenisi meredek utcáin. A reggel a központi téren a vízálló felszerelés előkészítésével telik.\n\nA Néprajzi Múzeum délben szívesen látott szünetet nyújt az esőben való tekerés után. A székesegyházhoz vezető út nedves aszfalton halad, ami fokozott figyelmet igényel.\n\nDélután a Saloon Park felé vesszük az irányt; az erdei utak sárosak lehetnek, ami kalandossá teszi a hegyi kerékpározást. A park előtetői alatt védelmet találunk.\n\nA nap a Koryschades felé vezető kilátópontnál ér véget, ahol a felhők mélyen ülnek a völgyekben, misztikus hangulatot árasztva.",
+            "ro": "O tură cu bicicleta pe ploaie necesită prudență pe străzile abrupte din Karpenisi. Dimineața în Piața Centrală servește pregătirii cu echipament impermeabil.\n\nMuzeul de Folclor la prânz oferă o pauză binevenită de la pedalatul prin ploaie. Traseul spre catedrală trece pe drumuri asfaltate ude, care necesită atenție sporită.\n\nDupă-amiaza se merge spre Saloon Park; potecile forestiere pot fi noroioase, ceea ce face mountain biking-ul aventuros. Sub streșinile parcului se găsește adăpost.\n\nZiua se încheie cu coborârea spre punctul de belvedere Koryschades, unde norii atârnă jos în văi, creând o atmosferă mistică.",
+            "en": "A bike tour in the rain requires caution on the steep streets of Karpenisi. The morning at the Central Square is for preparing with waterproof gear.\n\nThe Folklore Museum at noon offers a welcome break from pedaling in the rain. The route to the cathedral follows wet asphalt roads that require increased attention.\n\nIn the afternoon, head to Saloon Park; the forest trails can be muddy, making mountain biking adventurous. Under the park's overhangs, you'll find shelter.\n\nThe day ends with the ride to the Koryschades viewpoint, where clouds hang low in the valleys, creating a mystical atmosphere."
+          },
+          "stops": [
+            {
+              "name": "Central Square",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen gründlich, bevor Sie auf nasse Straßen fahren.",
+                "hu": "Alaposan ellenőrizze a fékeket, mielőtt nedves utakra hajtana.",
+                "ro": "Verificați frânele temeinic înainte de a porni pe drumuri ude.",
+                "en": "Check your brakes thoroughly before heading onto wet roads."
+              }
+            },
+            {
+              "name": "Folklore Museum of Karpenisi",
+              "tip_5lang": {
+                "de": "Sicherer Abstellplatz für Fahrräder im Eingangsbereich vorhanden.",
+                "hu": "Biztonságos kerékpártároló található a bejáratnál.",
+                "ro": "Loc sigur de parcare pentru biciclete disponibil la intrare.",
+                "en": "Safe bike parking available near the entrance."
+              }
+            },
+            {
+              "name": "Cathedral of the Holy Trinity",
+              "tip_5lang": {
+                "de": "Kurze Rast im Trockenen, um die Route auf der Karte zu prüfen.",
+                "hu": "Rövid pihenő a szárazon, az útvonal ellenőrzéséhez a térképen.",
+                "ro": "Scurt popas la adăpost pentru a verifica traseul pe hartă.",
+                "en": "Short rest in the dry to check the route on the map."
+              }
+            },
+            {
+              "name": "Saloon Park",
+              "tip_5lang": {
+                "de": "Die Waldwege sind rutschig; reduzieren Sie den Reifendruck leicht.",
+                "hu": "Az erdei utak csúszósak; csökkentse kissé a guminyomást.",
+                "ro": "Potecile forestiere sunt alunecoase; reduceți ușor presiunea în pneuri.",
+                "en": "The forest trails are slippery; reduce tire pressure slightly."
+              }
+            },
+            {
+              "name": "Viewpoint towards Koryschades",
+              "tip_5lang": {
+                "de": "Tragen Sie eine helle Warnweste, da die Sicht durch Nebel eingeschränkt sein kann.",
+                "hu": "Viseljen fényvisszaverő mellényt, mivel a köd miatt korlátozott lehet a látótávolság.",
+                "ro": "Purtați o vestă reflectorizantă, deoarece vizibilitatea poate fi redusă de ceață.",
+                "en": "Wear a high-visibility vest as visibility may be limited by fog."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche am Fahrrad verhindern, dass Schlamm Ihre Kleidung ruiniert.",
+              "Vermeiden Sie abrupte Bremsmanöver auf dem nassen Kopfsteinpflaster.",
+              "Wasserdichte Packtaschen schützen Ihre Wechselkleidung und Kamera.",
+              "Die Abfahrten können durch den Windchill bei Regen sehr kalt werden.",
+              "Achten Sie auf Schlaglöcher, die durch Pfützen getarnt sein könnten."
+            ],
+            "hu": [
+              "A sárvédők megakadályozzák, hogy a sár tönkretegye a ruházatát.",
+              "Kerülje a hirtelen fékezést a nedves macskakövön.",
+              "A vízálló táskák megvédik a váltóruhát és a fényképezőgépet.",
+              "A lejtők az esőben a szélhűtés miatt nagyon hidegek lehetnek.",
+              "Ügyeljen a kátyúkra, amelyeket a tócsák elrejthetnek."
+            ],
+            "ro": [
+              "Apărătorile de noroi la bicicletă previn murdărirea hainelor.",
+              "Evitați frânarea bruscă pe pavajul de piatră ud.",
+              "Genzile impermeabile vă protejează hainele de schimb și camera.",
+              "Coborârile pot deveni foarte reci din cauza vântului când plouă.",
+              "Atenție la gropile care ar putea fi mascate de bălți."
+            ],
+            "en": [
+              "Mudguards on the bike prevent mud from ruining your clothes.",
+              "Avoid abrupt braking maneuvers on wet cobblestones.",
+              "Waterproof panniers protect your change of clothes and camera.",
+              "Descents can become very cold due to wind chill in the rain.",
+              "Watch out for potholes that might be disguised by puddles."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren in Karpenisi im Winter ist eine Herausforderung für Hartgesottene. Der Morgen beginnt am frostigen Zentralplatz; die kühle Luft belebt die Sinne beim ersten Anstieg.\n\nMittags bietet das Volkskundemuseum eine wichtige Aufwärmpause. Die Straßen zur Kathedrale sind oft geräumt, aber Vorsicht vor Glatteis in schattigen Kurven.\n\nDer Nachmittag im Saloon Park führt durch eine stille, weiße Landschaft. Die dicken Reifen greifen gut im festen Schnee. Ein heißes Getränk im Parkzentrum ist die verdiente Belohnung.\n\nZum Abschluss bietet der Aussichtspunkt Koryschades einen Blick auf die schneebedeckten Gipfel der Evrytania, bevor es vor Einbruch der Dunkelheit zurück in die Stadt geht.",
+            "hu": "A téli kerékpározás Karpenisiben a kitartóaknak való kihívás. A reggel a fagyos központi téren kezdődik; a hűvös levegő élénkíti az érzékeket az első emelkedőnél.\n\nDélben a Néprajzi Múzeum fontos melegedő szünetet kínál. A székesegyházhoz vezető utak gyakran takarítottak, de vigyázat a jegesedéssel az árnyékos kanyarokban.\n\nA délután a Saloon Parkban csendes, fehér tájon át vezet. A vastag gumik jól tapadnak a tömör hóban. Egy forró ital a park központjában a megérdemelt jutalom.\n\nBefejezésül a Koryschades kilátópontról rálátni Evritánia hófödte csúcsaira, mielőtt a sötétedés beállta előtt visszatérne a városba.",
+            "ro": "Ciclismul în Karpenisi iarna este o provocare pentru cei rezistenți. Dimineața începe în Piața Centrală înghețată; aerul rece revigorează simțurile la prima urcare.\n\nLa prânz, Muzeul de Folclor oferă o pauză importantă de încălzire. Drumurile spre catedrală sunt adesea curățate, dar atenție la polei în curbele umbrite.\n\nDupă-amiaza în Saloon Park trece printr-un peisaj alb și liniștit. Anvelopele late aderă bine pe zăpada tasată. O băutură fierbinte în centrul parcului este recompensa meritată.\n\nLa final, punctul de belvedere Koryschades oferă o privire asupra vârfurilor înzăpezite din Evrytania, înainte de a reveni în oraș înainte de lăsarea întunericului.",
+            "en": "Cycling in Karpenisi in winter is a challenge for the hardy. The morning begins at the frosty Central Square; the cool air invigorates the senses on the first climb.\n\nAt noon, the Folklore Museum offers an important warming break. The roads to the cathedral are often cleared, but watch out for black ice in shaded curves.\n\nIn the afternoon at Saloon Park, the ride leads through a quiet, white landscape. Wide tires grip well in packed snow. A hot drink at the park center is the earned reward.\n\nFinally, the Koryschades viewpoint offers a view of the snow-capped peaks of Evrytania before returning to the city before nightfall."
+          },
+          "stops": [
+            {
+              "name": "Central Square",
+              "tip_5lang": {
+                "de": "Starten Sie langsam, um die Muskulatur bei der Kälte aufzuwärmen.",
+                "hu": "Kezdje lassan, hogy az izomzat a hidegben bemelegedjen.",
+                "ro": "Începeți încet pentru a încălzi musculatura pe frig.",
+                "en": "Start slowly to warm up your muscles in the cold."
+              }
+            },
+            {
+              "name": "Folklore Museum of Karpenisi",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe, um schwere Winterjacken während des Besuchs abzulegen.",
+                "hu": "Használja a ruhatárat, hogy a látogatás alatt letegye a nehéz télikabátot.",
+                "ro": "Folosiți garderoba pentru a lăsa jachetele grele de iarnă în timpul vizitei.",
+                "en": "Use the cloakroom to drop off heavy winter jackets during the visit."
+              }
+            },
+            {
+              "name": "Cathedral of the Holy Trinity",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad so ab, dass es den Schneeräumdienst nicht behindert.",
+                "hu": "Úgy állítsa le a kerékpárt, hogy ne akadályozza a hóeltakarítást.",
+                "ro": "Parcați bicicleta astfel încât să nu incomodeze deszăpezirea.",
+                "en": "Park the bike so it doesn't obstruct snow removal services."
+              }
+            },
+            {
+              "name": "Saloon Park",
+              "tip_5lang": {
+                "de": "Fatbikes sind hier im Winter die beste Wahl für den Schnee.",
+                "hu": "A Fatbike-ok télen a legjobb választás itt a hóban.",
+                "ro": "Bicicletele de tip 'fatbike' sunt cea mai bună alegere aici iarna pe zăpadă.",
+                "en": "Fatbikes are the best choice here for the snow in winter."
+              }
+            },
+            {
+              "name": "Viewpoint towards Koryschades",
+              "tip_5lang": {
+                "de": "Kurzer Stopp für das Panorama; langes Stehenbleiben kühlt den Körper schnell aus.",
+                "hu": "Rövid megálló a panorámáért; a hosszú állás gyorsan lehűti a testet.",
+                "ro": "Oprire scurtă pentru panoramă; staționarea lungă răcește rapid corpul.",
+                "en": "Short stop for the panorama; standing still for too long cools the body quickly."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Mehrlagiges Anziehen nach dem Zwiebelprinzip ist überlebenswichtig.",
+              "Vermeiden Sie das Fahren bei aktuellem Schneefall wegen der schlechten Sicht.",
+              "Batterien von E-Bikes und Lampen entladen sich bei Kälte deutlich schneller.",
+              "Tragen Sie winddichte Handschuhe und eine Mütze unter dem Helm.",
+              "Streusalz kann das Fahrrad angreifen; reinigen Sie es nach der Tour."
+            ],
+            "hu": [
+              "A réteges öltözködés (hagyma-elv) életfontosságú.",
+              "Kerülje a kerékpározást aktív hóesésben a rossz látási viszonyok miatt.",
+              "Az e-bike-ok és lámpák akkumulátorai hidegben lényegesen gyorsabban merülnek.",
+              "Viseljen szélálló kesztyűt és sapkát a sisak alatt.",
+              "Az útszóró só károsíthatja a kerékpárt; tisztítsa meg a túra után."
+            ],
+            "ro": [
+              "Îmbrăcarea în straturi (principiul cepei) este vitală.",
+              "Evitați ciclismul în timpul ninsorii active din cauza vizibilității reduse.",
+              "Bateriile bicicletelor electrice și ale lămpilor se descarcă mult mai repede la frig.",
+              "Purtați mănuși rezistente la vânt și o căciulă sub cască.",
+              "Sarea de pe drum poate ataca bicicleta; curățați-o după tură."
+            ],
+            "en": [
+              "Layering up (onion principle) is vital for survival.",
+              "Avoid cycling during active snowfall due to poor visibility.",
+              "Batteries for e-bikes and lights drain significantly faster in the cold.",
+              "Wear windproof gloves and a hat under your helmet.",
+              "Road salt can damage the bike; clean it after the tour."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1016,6 +1360,196 @@
           "Fill up your car's fuel tank in Karpenisi before heading to more remote areas.",
           "Ensure you have appropriate attire when visiting monasteries."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Karpenisi auch im Regen komfortabel zu erkunden. Der Morgen beginnt am Zentralplatz, wobei man die Parkplätze nah an den Cafés nutzt.\n\nMittags führt die Fahrt zum Volkskundemuseum und weiter in das historische Dorf Koryschades. Die Scheibenwischer arbeiten ununterbrochen, während man die nebligen Bergwälder passiert.\n\nDer Nachmittag ist dem Kloster Prousos gewidmet. Die kurvenreiche Strecke entlang der Schlucht ist bei Regen dramatisch, mit Wasserfällen, die direkt neben der Straße herabstürzen.\n\nZum Abschluss geht es zum Skizentrum Velouchi; auch wenn die Sicht eingeschränkt ist, bietet die Fahrt durch die Wolken ein einzigartiges Erlebnis, bevor man zum Abendessen nach Karpenisi zurückkehrt.",
+            "hu": "Autóval Karpenisi esőben is kényelmesen felfedezhető. A reggel a központi téren kezdődik, a kávézókhoz közeli parkolókat kihasználva.\n\nDélben az út a Néprajzi Múzeumhoz, majd tovább Koryschades történelmi falujába vezet. Az ablaktörlők folyamatosan dolgoznak, miközben elhalad a ködös hegyi erdők mellett.\n\nA délután a Prousos-kolostornak van szentelve. A szurdok menti kanyargós út esőben drámai, a vízesések közvetlenül az út mellett zúdulnak le.\n\nBefejezésül a Velouchi Síközpont felé vesszük az irányt; még ha a látótávolság korlátozott is, a felhők közötti autózás egyedülálló élményt nyújt, mielőtt visszatérne vacsorázni Karpenisibe.",
+            "ro": "Cu mașina, Karpenisi poate fi explorat confortabil chiar și pe ploaie. Dimineața începe în Piața Centrală, folosind locurile de parcare aproape de cafenele.\n\nLa prânz, drumul duce la Muzeul de Folclor și mai departe în satul istoric Koryschades. Ștergătoarele lucrează neîncetat în timp ce treceți prin pădurile de munte cețoase.\n\nDupă-amiaza este dedicată Mănăstirii Prousos. Traseul sinuos de-a lungul cheilor este dramatic pe ploaie, cu cascade care curg direct lângă drum.\n\nLa final se merge spre Centrul de Schi Velouchi; chiar dacă vizibilitatea este limitată, condusul prin nori oferă o experiență unică înainte de a reveni pentru cină în Karpenisi.",
+            "en": "By car, Karpenisi is comfortable to explore even in the rain. The morning begins at the Central Square, using parking spots close to the cafes.\n\nAt noon, the drive leads to the Folklore Museum and further to the historical village of Koryschades. The wipers work continuously as you pass through foggy mountain forests.\n\nThe afternoon is dedicated to Prousos Monastery. The winding route along the gorge is dramatic in the rain, with waterfalls cascading right next to the road.\n\nFinally, head to Velouchi Ski Center; even if visibility is limited, driving through the clouds offers a unique experience before returning to Karpenisi for dinner."
+          },
+          "stops": [
+            {
+              "name": "Karpenisi Central Square",
+              "tip_5lang": {
+                "de": "Parken Sie auf den markierten Flächen; sie sind bei Regen oft schnell belegt.",
+                "hu": "Parkoljon a kijelölt helyeken; esőben ezek gyakran gyorsan betelnek.",
+                "ro": "Parcați în zonele marcate; acestea se ocupă rapid pe ploaie.",
+                "en": "Park in marked areas; they often fill up quickly in the rain."
+              }
+            },
+            {
+              "name": "Folklore Museum of Karpenisi",
+              "tip_5lang": {
+                "de": "Direkte Zufahrt zum Eingang möglich, um trocken ins Gebäude zu gelangen.",
+                "hu": "Közvetlen behajtás a bejárathoz lehetséges, így szárazon juthat az épületbe.",
+                "ro": "Acces direct la intrare posibil pentru a ajunge uscat în clădire.",
+                "en": "Direct access to the entrance possible to get into the building dry."
+              }
+            },
+            {
+              "name": "Koryschades Village",
+              "tip_5lang": {
+                "de": "Die engen Steinstraßen im Dorf sind bei Nässe extrem rutschig.",
+                "hu": "A falu szűk kőútjai nedvesen rendkívül csúszósak.",
+                "ro": "Străzile înguste de piatră din sat sunt extrem de alunecoase când sunt ude.",
+                "en": "The narrow stone streets in the village are extremely slippery when wet."
+              }
+            },
+            {
+              "name": "Prousos Monastery",
+              "tip_5lang": {
+                "de": "Achten Sie auf Steinschlag auf der Strecke durch die Schlucht.",
+                "hu": "Ügyeljen a kőomlásokra a szurdokon átvezető szakaszon.",
+                "ro": "Atenție la căderile de pietre pe porțiunea prin chei.",
+                "en": "Watch out for rockfalls on the stretch through the gorge."
+              }
+            },
+            {
+              "name": "Velouchi Ski Center (Viewpoint)",
+              "tip_5lang": {
+                "de": "Nebelscheinwerfer einschalten; die Sicht kann oben unter 20 Meter fallen.",
+                "hu": "Kapcsolja be a ködlámpát; fent a látótávolság 20 méter alá csökkenhet.",
+                "ro": "Porniți luminile de ceață; vizibilitatea sus poate scădea sub 20 de metri.",
+                "en": "Turn on fog lights; visibility at the top can drop below 20 meters."
+              }
+            },
+            {
+              "name": "Dinner in Karpenisi",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit hauseigenem Parkplatz für mehr Komfort.",
+                "hu": "A nagyobb kényelem érdekében válasszon saját parkolóval rendelkező éttermet.",
+                "ro": "Alegeți un restaurant cu parcare proprie pentru mai mult confort.",
+                "en": "Choose a restaurant with its own parking for more comfort."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Zustand Ihrer Scheibenwischer vor der Abfahrt.",
+              "Bergstraßen in Evrytania können bei Regen durch Schlamm rutschig werden.",
+              "Halten Sie immer genügend Abstand zum vorausfahrenden Fahrzeug.",
+              "Vermeiden Sie das Parken unter steilen Felswänden wegen Steinschlaggefahr.",
+              "Die Tankstellen in der Stadt sind gute Orte, um die Route bei Regen zu planen."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze az ablaktörlők állapotát.",
+              "Evritánia hegyi útjai esőben a sár miatt csúszóssá válhatnak.",
+              "Mindig tartson elegendő követési távolságot az ön előtt haladó járműtől.",
+              "Kerülje a parkolást meredek sziklafalak alatt a kőomlásveszély miatt.",
+              "A városi benzinkutak jó helyszínek az útvonal tervezéséhez esőben."
+            ],
+            "ro": [
+              "Verificați starea ștergătoarelor înainte de plecare.",
+              "Drumurile de munte din Evrytania pot deveni alunecoase din cauza noroiului pe ploaie.",
+              "Păstrați întotdeauna o distanță suficientă față de vehiculul din față.",
+              "Evitați parcarea sub pereți de stâncă abrupți din cauza riscului de căderi de pietre.",
+              "Benzinăriile din oraș sunt locuri bune pentru a planifica traseul pe ploaie."
+            ],
+            "en": [
+              "Check the condition of your windshield wipers before departure.",
+              "Mountain roads in Evrytania can become slippery due to mud in the rain.",
+              "Always maintain sufficient following distance from the vehicle in front.",
+              "Avoid parking under steep rock walls due to rockfall risk.",
+              "City gas stations are good places to plan the route in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterfahrten in der Evrytania bieten spektakuläre Ausblicke auf schneebedeckte Gipfel. Der Morgen am Zentralplatz ist oft frostig, was ein Eiskratzen erforderlich macht.\n\nMittags führt die Route durch tief verschneite Tannenwälder nach Koryschades und zum Volkskundemuseum. Die Straßen sind meist geräumt, aber Winterreifen sind zwingend.\n\nDer Nachmittag ist für die Fahrt zum Kloster Prousos reserviert; die schneebedeckte Schlucht ist ein grandioser Anblick. Achten Sie auf vereiste Stellen in den Tunneln.\n\nDas Highlight ist die Fahrt zum Velouchi Skizentrum am späten Nachmittag, wo man das Treiben auf den Pisten beobachten kann, bevor man rechtzeitig zur Dämmerung nach Karpenisi zurückfährt.",
+            "hu": "A téli autózás Evritániában látványos kilátást nyújt a hófödte csúcsokra. A reggel a központi téren gyakran fagyos, ami jégkaparást tesz szükségessé.\n\nDélben az út mélyen havas fenyőerdőkön keresztül vezet Koryschadesbe és a Néprajzi Múzeumba. Az utak többnyire takarítottak, de a téli gumi kötelező.\n\nA délután a Prousos-kolostorhoz vezető útra van fenntartva; a havas szurdok lenyűgöző látvány. Ügyeljen a jeges foltokra az alagutakban.\n\nA csúcspont a késő délutáni út a Velouchi Síközpontba, ahol megfigyelheti a pályák forgatagát, mielőtt időben, még sötétedés előtt visszatérne Karpenisibe.",
+            "ro": "Condusul pe timp de iarnă în Evrytania oferă priveliști spectaculoase asupra vârfurilor înzăpezite. Dimineața în Piața Centrală este adesea geroasă, necesitând răzuirea gheții.\n\nLa prânz, traseul trece prin păduri de brazi troienite spre Koryschades și Muzeul de Folclor. Drumurile sunt în mare parte curățate, dar anvelopele de iarnă sunt obligatorii.\n\nDupă-amiaza este rezervată drumului spre Mănăstirea Prousos; cheile înzăpezite sunt o priveliște grandioasă. Atenție la porțiunile înghețate din tuneluri.\n\nPunctul culminant este drumul spre centrul de schi Velouchi după-amiaza târziu, unde puteți observa activitatea de pe pârtii înainte de a reveni în Karpenisi la timp pentru amurg.",
+            "en": "Winter driving in Evrytania offers spectacular views of snow-capped peaks. The morning at the Central Square is often frosty, requiring ice scraping.\n\nAt noon, the route leads through deeply snow-covered fir forests to Koryschades and the Folklore Museum. Roads are mostly cleared, but winter tires are mandatory.\n\nThe afternoon is reserved for the drive to Prousos Monastery; the snow-covered gorge is a magnificent sight. Watch out for icy spots in the tunnels.\n\nThe highlight is the late afternoon drive to Velouchi Ski Center, where you can watch the action on the slopes before returning to Karpenisi in time for dusk."
+          },
+          "stops": [
+            {
+              "name": "Karpenisi Central Square",
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor kurz warmlaufen, bevor Sie die Steigungen befahren.",
+                "hu": "Hagyja a motort rövid ideig melegedni, mielőtt az emelkedőkre hajtana.",
+                "ro": "Lăsați motorul să se încălzească puțin înainte de a urca pantele.",
+                "en": "Let the engine warm up briefly before driving on inclines."
+              }
+            },
+            {
+              "name": "Folklore Museum of Karpenisi",
+              "tip_5lang": {
+                "de": "Parkplatz ist meist schnee- und eisfrei gehalten.",
+                "hu": "A parkolót többnyire hó- és jégmentesen tartják.",
+                "ro": "Parcarea este de obicei menținută fără zăpadă și gheață.",
+                "en": "The parking lot is usually kept clear of snow and ice."
+              }
+            },
+            {
+              "name": "Koryschades Village",
+              "tip_5lang": {
+                "de": "Fahren Sie im Dorf besonders vorsichtig; Bremswege auf Schnee sind lang.",
+                "hu": "A faluban vezessen különösen óvatosan; a féktávolság havon hosszú.",
+                "ro": "Conduceți cu mare prudență în sat; distanțele de frânare pe zăpadă sunt mari.",
+                "en": "Drive extra carefully in the village; braking distances on snow are long."
+              }
+            },
+            {
+              "name": "Prousos Monastery",
+              "tip_5lang": {
+                "de": "Überprüfen Sie den Wetterbericht; die Straße kann bei starkem Schneefall gesperrt sein.",
+                "hu": "Ellenőrizze az időjárás-jelentést; erős hóesésben az utat lezárhatják.",
+                "ro": "Verificați prognoza meteo; drumul poate fi închis în caz de ninsoare puternică.",
+                "en": "Check the weather forecast; the road may be closed during heavy snowfall."
+              }
+            },
+            {
+              "name": "Velouchi Ski Center (Viewpoint)",
+              "tip_5lang": {
+                "de": "Schneeketten im Kofferraum sind gesetzlich vorgeschrieben und oft nötig.",
+                "hu": "A hólánc a csomagtartóban törvényileg előírt és gyakran szükséges.",
+                "ro": "Lanțurile de zăpadă în portbagaj sunt obligatorii prin lege și adesea necesare.",
+                "en": "Snow chains in the trunk are legally required and often necessary."
+              }
+            },
+            {
+              "name": "Dinner in Karpenisi",
+              "tip_5lang": {
+                "de": "Stellen Sie die Scheibenwischer hoch, um ein Festfrieren über Nacht zu verhindern.",
+                "hu": "Állítsa fel az ablaktörlőket, hogy megakadályozza az éjszakai ráfagyást.",
+                "ro": "Ridicări ștergătoarele pentru a preveni înghețarea lor pe parbriz peste noapte.",
+                "en": "Lift the wipers to prevent them from freezing to the windshield overnight."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Führen Sie immer eine Eiskratzer und Handfeger im Auto mit.",
+              "Vermeiden Sie das Fahren mit fast leerem Tank in den Bergen.",
+              "Frostschutzmittel in der Scheibenwaschanlage ist unerlässlich.",
+              "Nutzen Sie die Motorbremse bei den steilen Abfahrten auf Schnee.",
+              "Informieren Sie sich über den Status der Bergstraßen (velouchi-ski.gr)."
+            ],
+            "hu": [
+              "Mindig tartson jégkaparót és kézi seprűt az autóban.",
+              "Kerülje az autózást majdnem üres tankkal a hegyekben.",
+              "A szélvédőmosó fagyállója elengedhetetlen.",
+              "Használja a motorféket a meredek lejtőkön havon.",
+              "Tájékozódjon a hegyi utak állapotáról (velouchi-ski.gr)."
+            ],
+            "ro": [
+              "Aveți întotdeauna o racletă și o perie în mașină.",
+              "Evitați să conduceți cu rezervorul aproape gol la munte.",
+              "Lichidul de parbriz antigel este indispensabil.",
+              "Folosiți frâna de motor pe coborârile abrupte pe zăpadă.",
+              "Informați-vă despre starea drumurilor montane (velouchi-ski.gr)."
+            ],
+            "en": [
+              "Always carry an ice scraper and a small brush in the car.",
+              "Avoid driving with an almost empty tank in the mountains.",
+              "Antifreeze in the windshield washer fluid is indispensable.",
+              "Use engine braking on steep descents on snow.",
+              "Check the status of mountain roads (velouchi-ski.gr)."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1348,6 +1882,178 @@
           "Buses to villages may not be frequent, so plan your return trip carefully.",
           "Be flexible; public transport in rural areas can be unpredictable."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem öffentlichen Bus (KTEL) lässt sich Karpenisi auch bei Regen erkunden. Der Morgen beginnt am Zentralplatz, wo man die Wartezeiten in den angrenzenden Cafés überbrückt.\n\nMittags bietet die Kathedrale einen trockenen Zwischenstopp, bevor der Bus nach Koryschades ablegt. Das historische Dorf ist auch bei grauem Himmel sehr fotogen.\n\nNachmittags führt die Route zurück zum Volkskundemuseum, wo man im Trockenen viel Zeit verbringen kann. Der Regen prasselt gegen die Fenster der Busse, während man die Landschaft genießt.\n\nDer Tag endet im Saloon Park; nutzen Sie die kurzen Regenpausen für den Weg vom Busstopp zum überdachten Parkzentrum.",
+            "hu": "A helyi buszokkal (KTEL) Karpenisi esőben is felfedezhető. A reggel a központi téren kezdődik, ahol a várakozási időt a szomszédos kávézókban töltheti.\n\nDélben a székesegyház nyújt száraz pihenőt, mielőtt a busz Koryschades felé indulna. A történelmi falu szürke égbolt mellett is nagyon fotogén.\n\nDélután az út visszavezet a Néprajzi Múzeumba, ahol szárazon töltheti el az időt. Az eső kopog a busz ablakán, miközben élvezi a tájat.\n\nA nap a Saloon Parkban ér véget; használja ki a rövid esőszüneteket a buszmegállótól a fedett parkközpontig tartó úton.",
+            "ro": "Cu autobuzele publice (KTEL), Karpenisi poate fi explorat și pe ploaie. Dimineața începe în Piața Centrală, unde puteți petrece timpul de așteptare în cafenelele adiacente.\n\nLa prânz, catedrala oferă un popas uscat înainte ca autobuzul să plece spre Koryschades. Satul istoric este foarte fotogen chiar și sub cerul gri.\n\nDupă-amiaza, traseul revine la Muzeul de Folclor, unde puteți petrece mult timp la adăpost. Ploaia bate în geamurile autobuzului în timp ce admirați peisajul.\n\nZiua se încheie în Saloon Park; folosiți scurte pauze de ploaie pentru drumul de la stația de autobuz până la centrul acoperit al parcului.",
+            "en": "With public buses (KTEL), Karpenisi can be explored even in the rain. The morning begins at the Central Square, where you can bridge waiting times in adjacent cafes.\n\nAt noon, the cathedral offers a dry stopover before the bus leaves for Koryschades. The historical village is very photogenic even under grey skies.\n\nIn the afternoon, the route leads back to the Folklore Museum, where you can spend plenty of time in the dry. Rain drum against the bus windows as you enjoy the landscape.\n\nThe day ends at Saloon Park; use short rain breaks for the walk from the bus stop to the covered park center."
+          },
+          "stops": [
+            {
+              "name": "Karpenisi Central Square",
+              "tip_5lang": {
+                "de": "Holen Sie sich den Busfahrplan am KTEL-Schalter im Trockenen.",
+                "hu": "Szerezze be a buszmenetrendet a KTEL pultnál, fedett helyen.",
+                "ro": "Luați orarul autobuzelor de la ghișeul KTEL, la adăpost.",
+                "en": "Get the bus schedule at the KTEL counter in the dry."
+              }
+            },
+            {
+              "name": "Cathedral of the Holy Trinity",
+              "tip_5lang": {
+                "de": "Warten Sie in der Nähe des Eingangs, um rechtzeitig zur Haltestelle zu kommen.",
+                "hu": "Várjon a bejárat közelében, hogy időben a megállóhoz érjen.",
+                "ro": "Așteptați lângă intrare pentru a ajunge la timp în stație.",
+                "en": "Wait near the entrance to reach the stop on time."
+              }
+            },
+            {
+              "name": "Koryschades Village",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Rückfahrzeiten genau, um langes Warten im Regen zu vermeiden.",
+                "hu": "Pontosan ellenőrizze a visszaindulást, hogy elkerülje a hosszú várakozást az esőben.",
+                "ro": "Verificați exact orele de retur pentru a evita așteptarea lungă în ploaie.",
+                "en": "Check return times carefully to avoid long waits in the rain."
+              }
+            },
+            {
+              "name": "Folklore Museum of Karpenisi",
+              "tip_5lang": {
+                "de": "Das Museum ist ein idealer Ort, um auf den nächsten Busanschluss zu warten.",
+                "hu": "A múzeum ideális hely a következő buszcsatlakozás megvárására.",
+                "ro": "Muzeul este un loc ideal pentru a aștepta următoarea legătură de autobuz.",
+                "en": "The museum is an ideal place to wait for the next bus connection."
+              }
+            },
+            {
+              "name": "Saloon Park",
+              "tip_5lang": {
+                "de": "Der Fußweg von der Bushaltestelle zum Park ist kurz, aber ungeschützt.",
+                "hu": "A gyalogút a buszmegállótól a parkig rövid, de nincs fedve.",
+                "ro": "Drumul pe jos de la stația de autobuz la parc este scurt, dar neprotejat.",
+                "en": "The walk from the bus stop to the park is short but unsheltered."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse in Bergregionen können bei starkem Regen Verspätung haben.",
+              "Tragen Sie wasserfeste Schuhe für die Wege zwischen Haltestelle und Ziel.",
+              "Halten Sie Kleingeld für das Busticket bereit, um den Einstieg zu beschleunigen.",
+              "Die KTEL-Station in Karpenisi hat einen überdachten Wartebereich.",
+              "Nutzen Sie lokale Taxi-Apps als Backup, falls der Regen zu stark wird."
+            ],
+            "hu": [
+              "A hegyi buszok heves esőzéskor késhetnek.",
+              "Viseljen vízálló cipőt a megálló és a célpont közötti szakaszokra.",
+              "Készítsen elő aprópénzt a buszjegyre a gyorsabb felszállás érdekében.",
+              "A karpenisii KTEL állomás fedett váróteremmel rendelkezik.",
+              "Használjon helyi taxi alkalmazásokat tartalékként, ha túl heves az eső."
+            ],
+            "ro": [
+              "Autobuzele montane pot avea întârzieri în caz de ploaie torențială.",
+              "Purtați pantofi impermeabili pentru drumurile între stație și obiective.",
+              "Aveți pregătit mărunțiș pentru bilet pentru a accelera urcarea.",
+              "Stația KTEL din Karpenisi are o zonă de așteptare acoperită.",
+              "Folosiți aplicații locale de taxi ca rezervă dacă ploaia devine prea puternică."
+            ],
+            "en": [
+              "Mountain buses may have delays during heavy rain.",
+              "Wear waterproof shoes for the walks between stops and destinations.",
+              "Have small change ready for the bus ticket to speed up boarding.",
+              "The KTEL station in Karpenisi has a covered waiting area.",
+              "Use local taxi apps as a backup if the rain becomes too heavy."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Karpenisi mit dem Bus im Winter ist eine gemütliche Art zu reisen. Der Morgen am Zentralplatz beginnt frostig; die Busse sind gut beheizt und bieten eine warme Zuflucht.\n\nMittags führt die Fahrt nach Koryschades. Die Aussicht aus dem Busfenster auf die verschneiten Bergdörfer ist spektakulär. Die Kathedrale bietet einen ruhigen Moment der Wärme.\n\nNachmittags ist der Besuch im Volkskundemuseum ein Highlight, bevor man den Bus zurück ins Zentrum nimmt. Die Winterdämmerung setzt früh ein und hüllt die Stadt in ein sanftes Licht.\n\nDer Tag endet im Saloon Park, wo man die winterliche Ruhe genießt, bevor der letzte Bus zurück zum Zentralplatz fährt.",
+            "hu": "Karpenisi felfedezése busszal télen kényelmes utazási mód. A reggel a központi téren fagyos; a buszok jól fűtöttek, meleg menedéket nyújtanak.\n\nDélben az út Koryschadesbe vezet. A busz ablakából nyíló kilátás a havas hegyi falvakra látványos. A székesegyház csendes, meleg pillanatot kínál.\n\nDélután a Néprajzi Múzeum látogatása a csúcspont, mielőtt busszal visszatérne a központba. A téli szürkület korán beáll, lágy fénybe öltöztetve a várost.\n\nA nap a Saloon Parkban zárul, ahol élvezheti a téli nyugalmat, mielőtt az utolsó busz visszaindulna a központi térre.",
+            "ro": "Explorarea Karpenisi-ului cu autobuzul iarna este un mod confortabil de a călători. Dimineața în Piața Centrală începe geroasă; autobuzele sunt bine încălzite și oferă un refugiu cald.\n\nLa prânz, traseul duce spre Koryschades. Priveliștea de la fereastra autobuzului asupra satelor de munte înzăpezite este spectaculoasă. Catedrala oferă un moment de liniște și căldură.\n\nDupă-amiaza, vizita la Muzeul de Folclor este un punct culminant înainte de a lua autobuzul înapoi spre centru. Amurgul de iarnă se instalează devreme, îmbrăcând orașul într-o lumină blândă.\n\nZiua se încheie în Saloon Park, unde vă puteți bucura de liniștea iernatică înainte ca ultimul autobuz să plece spre Piața Centrală.",
+            "en": "Exploring Karpenisi by bus in winter is a cozy way to travel. The morning at the Central Square begins frostily; the buses are well-heated and offer a warm refuge.\n\nAt noon, the ride leads to Koryschades. The view from the bus window of the snow-covered mountain villages is spectacular. The cathedral offers a quiet moment of warmth.\n\nIn the afternoon, a visit to the Folklore Museum is a highlight before taking the bus back to the center. Winter twilight sets in early, wrapping the city in soft light.\n\nThe day ends at Saloon Park, where you can enjoy the winter peace before the last bus departs for the Central Square."
+          },
+          "stops": [
+            {
+              "name": "Karpenisi Central Square",
+              "tip_5lang": {
+                "de": "Warten Sie im Innenraum der KTEL-Station, um nicht in der Kälte zu stehen.",
+                "hu": "Várjon a KTEL állomás belső terében, hogy ne kelljen a hidegben állnia.",
+                "ro": "Așteptați în interiorul stației KTEL pentru a nu sta în frig.",
+                "en": "Wait inside the KTEL station to avoid standing in the cold."
+              }
+            },
+            {
+              "name": "Cathedral of the Holy Trinity",
+              "tip_5lang": {
+                "de": "Die Haltestelle befindet sich oft an einer windigen Ecke; warm anziehen.",
+                "hu": "A megálló gyakran szeles sarkon van; öltözzön melegen.",
+                "ro": "Stația se află adesea într-un colț vântos; îmbrăcați-vă gros.",
+                "en": "The stop is often on a windy corner; dress warmly."
+              }
+            },
+            {
+              "name": "Koryschades Village",
+              "tip_5lang": {
+                "de": "Bei starkem Schneefall können Busse Verspätung haben oder ausfallen.",
+                "hu": "Erős hóesésben a buszok késhetnek vagy kimaradhatnak.",
+                "ro": "În caz de ninsoare puternică, autobuzele pot avea întârzieri sau pot fi anulate.",
+                "en": "Buses may be delayed or cancelled during heavy snowfall."
+              }
+            },
+            {
+              "name": "Folklore Museum of Karpenisi",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Bus, achten Sie auf geräumte Gehwege.",
+                "hu": "Rövid gyalogút a busztól, ügyeljen a takarított járdákra.",
+                "ro": "Drum scurt pe jos de la autobuz; atenție la trotuarele deszăpezite.",
+                "en": "Short walk from the bus; watch for cleared sidewalks."
+              }
+            },
+            {
+              "name": "Saloon Park",
+              "tip_5lang": {
+                "de": "Prüfen Sie, ob der letzte Bus im Winter früher fährt.",
+                "hu": "Ellenőrizze, hogy télen korábban indul-e az utolsó busz.",
+                "ro": "Verificați dacă ultimul autobuz pleacă mai devreme iarna.",
+                "en": "Check if the last bus departs earlier in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrpläne können sich saisonal ändern; immer aktuell prüfen.",
+              "Die Busse sind im Winter meistens nicht überfüllt.",
+              "Tragen Sie warme Socken, da es an den Haltestellen schnell kalt wird.",
+              "Fragen Sie den Busfahrer nach den Straßenbedingungen nach Prousos.",
+              "Planen Sie Pufferzeiten ein, da Schneeräumfahrzeuge den Verkehr bremsen."
+            ],
+            "hu": [
+              "A menetrendek szezonálisan változhatnak; mindig ellenőrizze az aktuálisat.",
+              "A buszok télen többnyire nem zsúfoltak.",
+              "Viseljen meleg zoknit, mivel a megállókban gyorsan lehűl a lába.",
+              "Kérdezze a buszsofőrt a Prousos felé vezető útviszonyokról.",
+              "Tervezzen be tartalékidőt, mivel a hókotrók lassíthatják a forgalmat."
+            ],
+            "ro": [
+              "Orarele se pot modifica sezonier; verificați întotdeauna versiunea actuală.",
+              "Autobuzele nu sunt de obicei supraaglomerate iarna.",
+              "Purtați șosete groase, deoarece în stații picioarele se răcesc repede.",
+              "Întrebați șoferul despre condițiile drumului spre Prousos.",
+              "Planificați timp suplimentar, deoarece utilajele de deszăpezire pot încetini traficul."
+            ],
+            "en": [
+              "Schedules may change seasonally; always check the current version.",
+              "Buses are usually not overcrowded in winter.",
+              "Wear warm socks as it gets cold quickly while waiting at stops.",
+              "Ask the bus driver about the road conditions towards Prousos.",
+              "Plan for extra time as snowplows can slow down traffic."
+            ]
+          }
+        }
       }
     }
   }

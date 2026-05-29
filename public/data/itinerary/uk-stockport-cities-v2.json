@@ -339,6 +339,206 @@
           "Check museum opening times in advance as they can vary.",
           "The Marketplace is a great spot for a lunch break with plenty of cafes."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag am Marktplatz, wo die St. Mary's Church Schutz bietet. Der angrenzende Market Hall ist ideal, um trocken zu bleiben. Mittags erkunden Sie das Staircase House, ein verwinkeltes Gebäude aus dem 15. Jahrhundert, das perfekt für Regentage ist. Am Nachmittag bietet das Hat Works Museum eine faszinierende Indoor-Tour durch die Industriegeschichte. Beenden Sie den Tag im prachtvollen Plaza Cinema, während draußen der Regen gegen die Art-Déco-Fassade peitscht.",
+            "hu": "Kezdje a reggelt a piactéren, ahol a Szent Mária-templom vastag falai között menedéket talál az eső elől. Délben a Staircase House zegzugos szobái kínálnak fedett programot. Délután látogasson el a Hat Works kalapmúzeumba, amely az ország egyik legkülönlegesebb ipari műemléke és teljesen beltéri. Az estét töltse a Stockport Plaza art deco épületében, ahol egy mozi vagy előadás alatt garantáltan szárazon marad.",
+            "ro": "Începeți dimineața în piață, unde Biserica Sf. Maria oferă un refugiu primitor. La prânz, explorați Staircase House, o clădire istorică unde interiorul vă protejează de intemperii. După-amiaza este dedicată Muzeului Hat Works, o incursiune fascinantă în industria locală, ferită de ploaie. Seara, relaxați-vă la Stockport Plaza, admirând interiorul art deco în timp ce ascultați ploaia de afară.",
+            "en": "Start your morning at the Market Place, using the covered Market Hall as a refuge. Spend midday inside Staircase House, a 15th-century gem perfect for escaping the wet weather. In the afternoon, the Hat Works Museum provides an extensive indoor experience of Stockport's industrial past. Conclude your day at the Stockport Plaza, an atmospheric art deco theatre where you can stay dry while enjoying a classic film or show."
+          },
+          "stops": [
+            {
+              "name": "St Mary's Church in the Marketplace",
+              "tip_5lang": {
+                "de": "Die Kirche bietet einen ruhigen, trockenen Rückzugsort direkt am Markt.",
+                "hu": "A templom csendes és száraz menedék közvetlenül a piac mellett.",
+                "ro": "Biserica oferă un refugiu liniștit și uscat chiar lângă piață.",
+                "en": "The church offers a quiet, dry sanctuary right next to the market."
+              }
+            },
+            {
+              "name": "Staircase House",
+              "tip_5lang": {
+                "de": "Vollständig überdachtes Erlebnis mit Audioguide durch die Jahrhunderte.",
+                "hu": "Teljesen fedett élmény audioguide-dal a középkori szobákon át.",
+                "ro": "Experiență complet acoperită cu ghid audio prin camere medievale.",
+                "en": "Fully indoor experience with an audio guide through medieval rooms."
+              }
+            },
+            {
+              "name": "Underbank Hall",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Fassade von den überdachten Gehwegen der Underbanks.",
+                "hu": "Csodálja meg a homlokzatot az Underbanks fedett árkádjai alól.",
+                "ro": "Admirați fațada de sub arcadele acoperite de la Underbanks.",
+                "en": "Admire the timber facade from the sheltered walkways of the Underbanks."
+              }
+            },
+            {
+              "name": "Hat Works Museum",
+              "tip_5lang": {
+                "de": "Idealer Ort für regnerische Nachmittage, komplett im Innenraum.",
+                "hu": "Ideális helyszín esős délutánokra, a tárlat teljesen beltéri.",
+                "ro": "Locație ideală pentru după-amiezi ploioase, complet în interior.",
+                "en": "Ideal location for rainy afternoons, completely indoors."
+              }
+            },
+            {
+              "name": "Stockport Viaduct",
+              "tip_5lang": {
+                "de": "Die riesigen Bögen bieten überraschend viel Schutz vor Schauern.",
+                "hu": "A hatalmas boltívek meglepően jó védelmet nyújtanak a záporok ellen.",
+                "ro": "Arcadele uriașe oferă un adăpost surprinzător împotriva ploii.",
+                "en": "The massive arches provide surprisingly good shelter from downpours."
+              }
+            },
+            {
+              "name": "Stockport Town Hall",
+              "tip_5lang": {
+                "de": "Die kunstvolle Eingangshalle ist ein kurzer, trockener Stopp wert.",
+                "hu": "A díszes bejárati csarnok megér egy rövid, száraz megállót.",
+                "ro": "Holul de intrare decorat merită o oprire scurtă și uscată.",
+                "en": "The ornate entrance hall is worth a short, dry stop."
+              }
+            },
+            {
+              "name": "Stockport Plaza",
+              "tip_5lang": {
+                "de": "Genießen Sie den Tee im Café, während Sie auf die Vorstellung warten.",
+                "hu": "Élvezze a teát a kávézóban, amíg az előadásra vár.",
+                "ro": "Savurați un ceai în cafenea în timp ce așteptați spectacolul.",
+                "en": "Enjoy tea in the cafe while waiting for the performance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie das Merseyway Shopping Centre als trockene Abkürzung durch die Stadt.",
+              "Die Underbanks können bei Nässe rutschig sein, tragen Sie griffige Schuhe.",
+              "Der Market Hall bietet lokale Speisen in einem historischen, regenfesten Ambiente.",
+              "Regenschirme sind im Hat Works Museum im Eingangsbereich abzugeben."
+            ],
+            "hu": [
+              "Használja a Merseyway bevásárlóközpontot száraz rövidítésként a városon át.",
+              "Az Underbanks macskakövei esőben csúszósak lehetnek, viseljen tapadó talpú cipőt.",
+              "A fedett Market Hall helyi ételeket kínál történelmi, esővédett környezetben.",
+              "A Hat Works múzeumban van esernyőtartó a bejáratnál."
+            ],
+            "ro": [
+              "Folosiți centrul comercial Merseyway ca o scurtătură uscată prin oraș.",
+              "Pavajul de la Underbanks poate fi alunecos, purtați încălțăminte aderentă.",
+              "Market Hall oferă preparate locale într-un cadru istoric ferit de ploaie.",
+              "Umbrelele pot fi lăsate la intrarea în muzeul Hat Works."
+            ],
+            "en": [
+              "Use Merseyway Shopping Centre as a dry shortcut through the town centre.",
+              "The cobbles in the Underbanks can be slippery when wet; wear grippy shoes.",
+              "The indoor Market Hall offers local food in a historic, rain-proof setting.",
+              "Umbrellas can be left in the designated stands at the Hat Works entrance."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen beginnt an der St. Mary's Church, deren mittelalterlicher Charme im Winterlicht besonders zur Geltung kommt. Mittags wärmen Sie sich im Staircase House auf, während Sie das Leben vergangener Jahrhunderte erkunden. Der kurze Fußweg zum Hat Works Museum führt vorbei an festlich beleuchteten Schaufenstern. Wenn die Dämmerung gegen 16 Uhr einsetzt, bietet der beleuchtete Viadukt einen majestätischen Anblick, bevor Sie sich im Plaza Theater aufwärmen.",
+            "hu": "A fagyos reggel a Szent Mária-templomnál indul, melynek középkori bája téli fényekben érvényesül legjobban. Délben melegedjen fel a Staircase House fűtött szobáiban, miközben a múltat idézi. A Hat Works felé vezető rövid séta során gyönyörködjön az ünnepi kirakatokban. Amikor délután 4 körül leszáll az éj, a kivilágított viadukt fenséges látványt nyújt, mielőtt behúzódna a Plaza színház melegébe.",
+            "ro": "O dimineață geroasă începe la Biserica Sf. Maria, al cărei farmec medieval strălucește în lumina iernii. La prânz, încălziți-vă în camerele de la Staircase House în timp ce explorați istoria. Scurta plimbare spre Hat Works vă poartă pe lângă vitrine luminate festiv. Când amurgul coboară în jur de ora 16:00, viaductul iluminat oferă o priveliște maiestuoasă înainte de a intra la căldură în Plaza.",
+            "en": "A frosty morning starts at St Mary's Church, where medieval charm is enhanced by the winter light. Warm up at midday inside the heated rooms of Staircase House while exploring local history. The short walk to Hat Works takes you past festively decorated shop windows. As dusk falls around 4 PM, the illuminated viaduct offers a majestic sight before you seek warmth inside the grand Plaza Theatre."
+          },
+          "stops": [
+            {
+              "name": "St Mary's Church in the Marketplace",
+              "tip_5lang": {
+                "de": "Ziehen Sie sich warm an, die Steinmauern halten die Kälte fest.",
+                "hu": "Öltözzön rétegesen, a kőfalak télen tartják a hideget.",
+                "ro": "Îmbrăcați-vă bine, zidurile de piatră păstrează frigul iarna.",
+                "en": "Dress warmly; the stone walls hold the winter chill."
+              }
+            },
+            {
+              "name": "Staircase House",
+              "tip_5lang": {
+                "de": "Gemütliche, gut beheizte Räume laden zum Verweilen ein.",
+                "hu": "Barátságos, jól fűtött szobák várják a látogatókat.",
+                "ro": "Camere primitoare și bine încălzite vă așteaptă să le vizitați.",
+                "en": "Cosy, well-heated rooms invite you to linger longer."
+              }
+            },
+            {
+              "name": "Underbank Hall",
+              "tip_5lang": {
+                "de": "Das Fachwerkhaus sieht bei Reif oder leichtem Schnee wunderschön aus.",
+                "hu": "A favázas épület gyönyörű zúzmarás vagy enyhén havas időben.",
+                "ro": "Clădirea arată superb când este acoperită de chiciură sau zăpadă.",
+                "en": "The half-timbered hall looks beautiful in frosty or light snowy weather."
+              }
+            },
+            {
+              "name": "Hat Works Museum",
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um der klirrenden Kälte für zwei Stunden zu entfliehen.",
+                "hu": "Tökéletes hely, hogy két órára elmeneküljön a metsző hideg elől.",
+                "ro": "Un loc perfect pentru a scăpa de gerul de afară timp de două ore.",
+                "en": "A perfect place to escape the biting cold for two hours."
+              }
+            },
+            {
+              "name": "Stockport Viaduct",
+              "tip_5lang": {
+                "de": "Sehenswert bei Sonnenuntergang gegen 16:00 Uhr, wenn die Lichter angehen.",
+                "hu": "Látványos naplementekor 16:00 körül, amikor felgyúlnak a fények.",
+                "ro": "Spectaculos la apus, în jur de ora 16:00, când se aprind luminile.",
+                "en": "Best viewed at sunset around 4:00 PM as the lights come on."
+              }
+            },
+            {
+              "name": "Stockport Town Hall",
+              "tip_5lang": {
+                "de": "Oft festlich beleuchtet in den dunklen Wintermonaten.",
+                "hu": "A sötét téli hónapokban gyakran ünnepi díszkivilágítást kap.",
+                "ro": "Adesea iluminată festiv în lunile întunecate de iarnă.",
+                "en": "Often festively lit up during the dark winter months."
+              }
+            },
+            {
+              "name": "Stockport Plaza",
+              "tip_5lang": {
+                "de": "Besuchen Sie die traditionelle Weihnachtspantomime im Dezember.",
+                "hu": "Nézze meg a hagyományos karácsonyi pantomimot decemberben.",
+                "ro": "Urmăriți spectacolele tradiționale de Crăciun în luna decembrie.",
+                "en": "Check out the traditional Christmas pantomime during December."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Sonnenuntergang ist im Dezember bereits gegen 16:00 Uhr.",
+              "Wärmen Sie sich mit einem heißen Getränk im historischen Market Hall auf.",
+              "Handschuhe sind für den Weg zwischen den Underbanks und dem Viadukt ratsam.",
+              "Die Pflastersteine können bei Frost sehr glatt sein."
+            ],
+            "hu": [
+              "A naplemente decemberben már délután 4 óra körül bekövetkezik.",
+              "Melegedjen fel egy forró itallal a történelmi Market Hallban.",
+              "Kesztyű ajánlott az Underbanks és a viadukt közötti szeles szakaszon.",
+              "A macskakövek fagy esetén rendkívül csúszósak lehetnek."
+            ],
+            "ro": [
+              "Apusul soarelui are loc deja în jurul orei 16:00 în decembrie.",
+              "Încălziți-vă cu o băutură fierbinte în istoricul Market Hall.",
+              "Mănușile sunt recomandate pentru porțiunea vântoasă dintre Underbanks și viaduct.",
+              "Pavajul poate fi foarte alunecos în caz de îngheț."
+            ],
+            "en": [
+              "Sunset occurs as early as 4:00 PM in December.",
+              "Warm up with a hot drink inside the historic indoor Market Hall.",
+              "Gloves are advisable for the windy stretch between Underbanks and the Viaduct.",
+              "Cobbled streets can be very slippery during frosty conditions."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -653,6 +853,188 @@
           "Always lock your bike in secure locations.",
           "Bring a water bottle, especially for the ride out to Reddish Vale."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine regnerische Tour beginnt am Rathaus. Fahren Sie vorsichtig zum Viadukt, der unter grauen Wolken noch massiver wirkt. Das Hat Works Museum bietet die erste längere Trockenpause. Mittags führt die Route zur St. Mary's Church im historischen Kern. Trotz Regen lohnt sich die Fahrt zum Reddish Vale, sofern Sie auf den befestigten Wegen bleiben. Den Abschluss bildet die Robinson's Brewery, wo Sie sich bei einer Tour im Trockenen aufwärmen können.",
+            "hu": "Az esős túra a városházánál indul. Tekerjen óvatosan a viadukthoz, amely a szürke felhők alatt még monumentálisabb. A Hat Works múzeum kínálja az első hosszabb száraz pihenőt. Délben az út a történelmi központban lévő Szent Mária-templomhoz vezet. Az eső ellenére a Reddish Vale megér egy kört, ha a kiépített utakon marad. A napot a Robinson's Brewery zárja, ahol egy fedett túrán melegedhet fel.",
+            "ro": "Turul ploios începe la primărie. Pedalați cu atenție spre viaduct, care pare și mai masiv sub norii gri. Muzeul Hat Works oferă prima pauză lungă la uscat. La prânz, traseul duce la Biserica Sf. Maria din centrul istoric. În ciuda ploii, Reddish Vale merită o vizită dacă rămâneți pe pistele pavate. Finalul este la Robinson's Brewery, unde vă puteți încălzi în cadrul unui tur acoperit.",
+            "en": "A rainy cycle starts at the Town Hall. Ride carefully to the Viaduct, which looks even more massive under grey skies. Hat Works Museum offers the first long dry break. At midday, the route leads to St Mary's Church in the historic core. Despite the rain, Reddish Vale is worth a visit if you stick to the paved paths. End your day at Robinson's Brewery, where you can warm up during an indoor tour."
+          },
+          "stops": [
+            {
+              "name": "Stockport Town Hall",
+              "tip_5lang": {
+                "de": "Suchen Sie kurz unter dem Portikus Schutz vor einem plötzlichen Schauer.",
+                "hu": "Keressen rövid menedéket a portikusz alatt egy hirtelen zápor elől.",
+                "ro": "Căutați un scurt adăpost sub portic în cazul unei ploi bruște.",
+                "en": "Seek brief shelter under the portico from a sudden downpour."
+              }
+            },
+            {
+              "name": "Stockport Viaduct",
+              "tip_5lang": {
+                "de": "Vorsicht vor Pfützen unter den Brückenbögen.",
+                "hu": "Vigyázzon a tócsákra a híd boltívei alatt.",
+                "ro": "Atenție la bălțile formate sub arcadele podului.",
+                "en": "Be careful of puddles under the bridge arches."
+              }
+            },
+            {
+              "name": "Hat Works Museum",
+              "tip_5lang": {
+                "de": "Sichere Fahrradabstellplätze in der Nähe vorhanden.",
+                "hu": "Biztonságos kerékpártárolók találhatók a közelben.",
+                "ro": "Sunt disponibile locuri sigure pentru parcarea bicicletelor în apropiere.",
+                "en": "Secure cycle parking is available nearby."
+              }
+            },
+            {
+              "name": "St Mary's Church in the Marketplace",
+              "tip_5lang": {
+                "de": "Der gepflasterte Marktplatz ist bei Nässe sehr rutschig.",
+                "hu": "A kövezett piactér nedvesen nagyon csúszós.",
+                "ro": "Piața pavată este foarte alunecoasă pe timp de ploaie.",
+                "en": "The cobbled marketplace is very slippery when wet."
+              }
+            },
+            {
+              "name": "Reddish Vale Country Park",
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den asphaltierten Wegen, um Schlamm zu vermeiden.",
+                "hu": "Maradjon az aszfaltozott utakon, hogy elkerülje a sarat.",
+                "ro": "Rămâneți pe pistele asfaltate pentru a evita noroiul.",
+                "en": "Stick to the paved paths to avoid the mud."
+              }
+            },
+            {
+              "name": "Robinson's Brewery",
+              "tip_5lang": {
+                "de": "Ein perfekter, trockener Ort zum Abschluss der Tour.",
+                "hu": "Tökéletes, száraz helyszín a túra befejezéséhez.",
+                "ro": "Un loc perfect și uscat pentru a încheia turul.",
+                "en": "A perfect, dry indoor location to conclude your ride."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Kleidung; Stockport ist für plötzliche Schauer bekannt.",
+              "Prüfen Sie Ihre Bremsen, bevor Sie die steilen Underbanks befahren.",
+              "Schutzbleche sind heute unerlässlich, um sauber zu bleiben.",
+              "Nutzen Sie die überdachten Fahrradständer am Bahnhof für Pausen."
+            ],
+            "hu": [
+              "Viseljen vízálló ruházatot; Stockport híres a hirtelen záporokról.",
+              "Ellenőrizze a fékeket, mielőtt lehajtana a meredek Underbanks utcáin.",
+              "A sárvédő ma elengedhetetlen a tisztaság megőrzéséhez.",
+              "Használja a vasútállomás fedett kerékpártárolóit pihenéshez."
+            ],
+            "ro": [
+              "Purtați echipament impermeabil; Stockport este cunoscut pentru ploi bruște.",
+              "Verificați frânele înainte de a coborî străzile abrupte de la Underbanks.",
+              "Apărătorile de noroi sunt esențiale astăzi pentru a rămâne curat.",
+              "Folosiți rastelele acoperite de la gară pentru pauze."
+            ],
+            "en": [
+              "Wear waterproof gear; Stockport is known for sudden rain showers.",
+              "Check your brakes before navigating the steep Underbanks area.",
+              "Mudguards are essential today to stay clean while riding.",
+              "Utilize the covered bike stands at the railway station for breaks."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen am Rathaus bietet gute Sicht auf die viktorianische Architektur. Radeln Sie zügig zum Viadukt, wo der Frost die 11 Millionen Ziegel glitzern lässt. Nach einem Besuch im Hat Works Museum wärmt die Fahrt bergauf zum Markt den Körper auf. Der Nachmittag im Reddish Vale ist kurz, da die Sonne früh untergeht – planen Sie, vor 16 Uhr zurück zu sein. Die Robinson's Brewery bietet danach die nötige Wärme und Gemütlichkeit.",
+            "hu": "A tiszta téli reggel a városházánál jó kilátást nyújt a viktoriánus építészetre. Tekerjen frissen a viadukthoz, ahol a zúzmara megcsillan a 11 millió téglán. A Hat Works látogatása után a piaci emelkedő segít felmelegedni. A délután a Reddish Vale-ben rövid, mert a nap korán nyugszik – tervezze úgy, hogy 4 előtt visszaérjen. A Robinson's Brewery ezután megadja a kellő meleget és kényelmet.",
+            "ro": "O dimineață senină de iarnă la primărie oferă o vizibilitate bună asupra arhitecturii victoriene. Pedalați spre viaduct, unde chiciura face cele 11 milioane de cărămizi să sclipească. După vizita la Hat Works, urcarea spre piață vă va încălzi. După-amiaza la Reddish Vale este scurtă deoarece soarele apune devreme – reveniți înainte de ora 16:00. Robinson's Brewery oferă apoi căldura și confortul necesar.",
+            "en": "A crisp winter morning at the Town Hall offers clear views of the Victorian architecture. Cycle to the Viaduct, where frost makes the 11 million bricks glisten. After visiting Hat Works, the uphill ride to the Market will warm you up. The afternoon in Reddish Vale is short as the sun sets early—plan to be back before 4 PM. Robinson's Brewery then provides the necessary warmth and coziness."
+          },
+          "stops": [
+            {
+              "name": "Stockport Town Hall",
+              "tip_5lang": {
+                "de": "Vorsicht bei Glätte auf den Marmorstufen im Außenbereich.",
+                "hu": "Vigyázzon a jegesedésre a külső márványlépcsőkön.",
+                "ro": "Atenție la gheața de pe treptele de marmură de la exterior.",
+                "en": "Watch out for ice on the outdoor marble steps."
+              }
+            },
+            {
+              "name": "Stockport Viaduct",
+              "tip_5lang": {
+                "de": "Der Wind kann hier zwischen den Bögen besonders beißend sein.",
+                "hu": "A szél a boltívek között ilyenkor metszően hideg lehet.",
+                "ro": "Vântul poate fi deosebit de tăios printre arcade iarna.",
+                "en": "The wind can be particularly biting between the arches in winter."
+              }
+            },
+            {
+              "name": "Hat Works Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp, um die eingefrorenen Finger aufzuwärmen.",
+                "hu": "Használja ki a megállót az átfagyott ujjak felmelegítésére.",
+                "ro": "Folosiți oprirea pentru a vă încălzi degetele înghețate.",
+                "en": "Use this stop to thaw out frozen fingers."
+              }
+            },
+            {
+              "name": "St Mary's Church in the Marketplace",
+              "tip_5lang": {
+                "de": "Der Markt ist im Winter oft Schauplatz für gemütliche Events.",
+                "hu": "A piac télen gyakran ad otthont barátságos eseményeknek.",
+                "ro": "Piața găzduiește adesea evenimente primitoare în timpul iernii.",
+                "en": "The market often hosts cozy events during the winter months."
+              }
+            },
+            {
+              "name": "Reddish Vale Country Park",
+              "tip_5lang": {
+                "de": "Fahren Sie vor 15:30 Uhr los, um vor der Dunkelheit im Zentrum zu sein.",
+                "hu": "Induljon el 15:30 előtt, hogy sötétedés előtt a központba érjen.",
+                "ro": "Plecați înainte de 15:30 pentru a ajunge în centru înainte de întuneric.",
+                "en": "Leave by 3:30 PM to reach the centre before dark."
+              }
+            },
+            {
+              "name": "Robinson's Brewery",
+              "tip_5lang": {
+                "de": "Ein warmes Getränk oder ein lokales Ale wärmt nach der Fahrt.",
+                "hu": "Egy forró ital vagy helyi sör jól esik a tekerés után.",
+                "ro": "O băutură caldă sau o bere locală vă va încălzi după drum.",
+                "en": "A warm drink or a local ale is perfect after the ride."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Gute Fahrradbeleuchtung ist ab 15:30 Uhr zwingend erforderlich.",
+              "Tragen Sie Thermokleidung, besonders für die Abfahrten in Richtung Mersey.",
+              "Vorsicht vor „schwarzem Eis“ auf den Nebenstraßen zum Reddish Vale.",
+              "Die Robinson's Brewery hat im Winter begrenzte Öffnungszeiten für Touren."
+            ],
+            "hu": [
+              "Jó kerékpáros világítás kötelező délután fél 4 után.",
+              "Viseljen termaruházatot, különösen a Mersey felé tartó lejtőkön.",
+              "Vigyázzon a „fekete jégre” a Reddish Vale felé vezető mellékutakon.",
+              "A Robinson's Brewery télen korlátozott időpontokban indít túrákat."
+            ],
+            "ro": [
+              "Luminile bune pentru bicicletă sunt obligatorii după ora 15:30.",
+              "Purtați haine termice, mai ales pentru coborârile spre râul Mersey.",
+              "Atenție la gheața neagră pe străzile secundare spre Reddish Vale.",
+              "Robinson's Brewery are program limitat pentru tururi în timpul iernii."
+            ],
+            "en": [
+              "High-quality cycle lights are mandatory after 3:30 PM.",
+              "Wear thermal layers, especially for the descents towards the Mersey.",
+              "Watch out for 'black ice' on the side roads leading to Reddish Vale.",
+              "Robinson's Brewery may have limited tour slots during the winter season."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -969,6 +1351,188 @@
           "Plan your drives outside of peak hours to avoid traffic.",
           "A GPS or map app is essential for navigating between clusters."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie regensicher am Bramall Hall, wo das Tudor-Fachwerk im Regen dramatisch wirkt. Genießen Sie ein langes Mittagessen im gemütlichen Bramhall, bevor Sie ins Stadtzentrum fahren. Das Hat Works Museum bietet den perfekten Indoor-Stopp für den Nachmittag. Werfen Sie einen Blick aus dem Autofenster auf den Viadukt, bevor Sie kurz die St. Mary's Church besuchen. Ein kurzer Drive-by am Reddish Vale beendet die Tour, ohne nass zu werden.",
+            "hu": "Induljon esőbiztosan a Bramall Hallnál, ahol a Tudor-stílusú falak drámaian mutatnak az esőben. Élvezze a hosszú ebédet a barátságos Bramhallban, mielőtt a központba hajtana. A Hat Works tökéletes fedett megálló délutánra. Vessen egy pillantást az autóból a viaduktra, majd látogassa meg a Szent Mária-templomot. Egy rövid autós kör a Reddish Vale-nél zárja a napot, anélkül, hogy elázna.",
+            "ro": "Începeți ziua la Bramall Hall, unde fațada Tudor arată dramatic în ploaie. Bucurați-vă de un prânz lung în Bramhall înainte de a merge spre centru. Hat Works este oprirea perfectă la interior pentru după-amiază. Admirați viaductul din mașină înainte de a vizita scurt Biserica Sf. Maria. O scurtă trecere cu mașina pe lângă Reddish Vale încheie turul fără să vă udați.",
+            "en": "Start your day rain-proof at Bramall Hall, where the Tudor timber-framing looks dramatic in the wet. Enjoy a long lunch in cozy Bramhall before heading to the town centre. Hat Works is the perfect indoor stop for the afternoon. Catch a view of the Viaduct from your car before a quick visit to St Mary's Church. A brief drive-by of Reddish Vale concludes the day without getting soaked."
+          },
+          "stops": [
+            {
+              "name": "Bramall Hall",
+              "tip_5lang": {
+                "de": "Parkplätze direkt am Haus ermöglichen einen trockenen Zugang.",
+                "hu": "A közvetlen parkoló száraz bejutást tesz lehetővé.",
+                "ro": "Parcarea directă permite accesul uscat în clădire.",
+                "en": "On-site parking allows for dry access to the hall."
+              }
+            },
+            {
+              "name": "Lunch in Bramhall",
+              "tip_5lang": {
+                "de": "Viele Cafés haben gemütliche Innenbereiche zum Aufwärmen.",
+                "hu": "Sok kávézó rendelkezik barátságos belső térrel a melegedéshez.",
+                "ro": "Multe cafenele au interioare primitoare pentru a vă încălzi.",
+                "en": "Many cafes have cozy indoor seating to escape the rain."
+              }
+            },
+            {
+              "name": "Town Centre Cluster: Hat Works Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus am Bahnhof für kurzen Fußweg zum Museum.",
+                "hu": "Használja a vasútállomás parkolóházát a rövid sétához.",
+                "ro": "Folosiți parcarea supraetajată de la gară pentru acces rapid.",
+                "en": "Use the station multi-storey car park for a short walk to the museum."
+              }
+            },
+            {
+              "name": "Stockport Viaduct",
+              "tip_5lang": {
+                "de": "Bester Blick bei Regen direkt von der A5145 unter den Bögen.",
+                "hu": "Legjobb kilátás esőben közvetlenül az A5145-ös útról a boltívek alatt.",
+                "ro": "Cea mai bună vedere pe ploaie este direct de pe A5145, sub arcade.",
+                "en": "Best view in the rain is directly from the A5145 under the arches."
+              }
+            },
+            {
+              "name": "St Mary's Church & Marketplace",
+              "tip_5lang": {
+                "de": "Begrenzte Parkplätze direkt am Markt, nutzen Sie die Nebenstraßen.",
+                "hu": "Korlátozott parkolás a piacon, használja a mellékutcákat.",
+                "ro": "Parcare limitată în piață, folosiți străzile adiacente.",
+                "en": "Limited parking at the market; use nearby side streets."
+              }
+            },
+            {
+              "name": "Reddish Vale Cluster",
+              "tip_5lang": {
+                "de": "Der Parkplatz am Besucherzentrum bietet gute Sicht auf den Park.",
+                "hu": "A látogatóközpont parkolója jó kilátást nyújt a parkra.",
+                "ro": "Parcarea centrului pentru vizitatori oferă o vedere bună asupra parcului.",
+                "en": "The visitor centre car park offers a good vantage point over the park."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie die A6 während der Hauptverkehrszeit bei Regen (Stau Gefahr).",
+              "Parkhäuser im Zentrum (z.B. Redrock) bieten trockenen Zugang zu Kinos.",
+              "Prüfen Sie die Scheibenwischer; Sichtverhältnisse am Viadukt können schlecht sein.",
+              "Bramall Hall ist montags oft geschlossen, prüfen Sie die Zeiten."
+            ],
+            "hu": [
+              "Esőben kerülje az A6-os utat csúcsidőben a gyakori dugók miatt.",
+              "A központi parkolóházak (pl. Redrock) száraz utat biztosítanak a mozihoz.",
+              "Ellenőrizze az ablaktörlőket; a látási viszonyok a viaduktnál rosszak lehetnek.",
+              "A Bramall Hall hétfőnként gyakran zárva tart, ellenőrizze az időpontokat."
+            ],
+            "ro": [
+              "Evitați drumul A6 la orele de vârf când plouă din cauza ambuteiajelor.",
+              "Parcările etajate din centru (ex. Redrock) oferă acces uscat spre cinema.",
+              "Verificați ștergătoarele; vizibilitatea la viaduct poate fi redusă.",
+              "Bramall Hall este adesea închisă lunea, verificați programul."
+            ],
+            "en": [
+              "Avoid the A6 during peak times in the rain as traffic often grinds to a halt.",
+              "Central multi-storey car parks (like Redrock) provide dry access to venues.",
+              "Check your wipers; visibility around the Viaduct can be poor in heavy rain.",
+              "Bramall Hall is often closed on Mondays; check before you travel."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Bramall Hall wirkt an frostigen Wintermorgenden wie aus einem Märchen. Nach dem Besuch wärmt das Auto auf dem Weg zum Mittagessen in Bramhall schnell auf. Im Stadtzentrum bietet das Hat Works Museum Schutz vor der Kälte. Fahren Sie rechtzeitig zum Viadukt, um das imposante Bauwerk im goldenen Licht der frühen Wintersonne gegen 15:30 Uhr zu sehen. Der Tag endet am Marktplatz, der im Dezember festlich geschmückt ist.",
+            "hu": "A fagyos téli reggeleken a Bramall Hall olyan, mint egy tündérmese. A látogatás után az autó gyorsan felmelegszik a bramhalli ebéd felé vezető úton. A központban a Hat Works nyújt menedéket a hideg elől. Hajtson időben a viadukthoz, hogy fél 4 körül a korai téli nap arany fényeiben láthassa az építményt. A nap a piactéren zárul, amely decemberben ünnepi díszbe öltözik.",
+            "ro": "Bramall Hall arată ca dintr-un basm în diminețile geroase de iarnă. După vizită, mașina se încălzește rapid în drum spre prânzul din Bramhall. În centrul orașului, Hat Works oferă protecție împotriva frigului. Mergeți din timp la viaduct pentru a vedea structura în lumina aurie a soarelui de iarnă, în jur de 15:30. Ziua se încheie în piață, care este decorată festiv în decembrie.",
+            "en": "Bramall Hall looks like a fairy tale on frosty winter mornings. After your visit, the car warms up quickly on the drive to lunch in Bramhall. In the town centre, Hat Works provides a sanctuary from the cold. Drive to the Viaduct in time to see the imposing structure in the golden light of the early winter sun around 3:30 PM. The day ends at the Market Place, which is festively decorated in December."
+          },
+          "stops": [
+            {
+              "name": "Bramall Hall",
+              "tip_5lang": {
+                "de": "Die Gärten sind bei Raureif besonders fotogen.",
+                "hu": "A kertek különösen fotogének zúzmarás időben.",
+                "ro": "Grădinile sunt deosebit de fotogenice când e chiciură.",
+                "en": "The gardens are particularly photogenic when covered in frost."
+              }
+            },
+            {
+              "name": "Lunch in Bramhall",
+              "tip_5lang": {
+                "de": "Reservieren Sie im Winter einen Tisch in der Nähe der Heizung.",
+                "hu": "Télen foglaljon asztalt a fűtés közelében.",
+                "ro": "Rezervați o masă lângă calorifer în timpul iernii.",
+                "en": "In winter, book a table near the radiator or fireplace."
+              }
+            },
+            {
+              "name": "Town Centre Cluster: Hat Works Museum",
+              "tip_5lang": {
+                "de": "Das Museum ist gut geheizt und bietet eine Garderobe für Mäntel.",
+                "hu": "A múzeum jól fűtött, és van ruhatár a kabátoknak.",
+                "ro": "Muzeul este bine încălzit și are garderobă pentru haine.",
+                "en": "The museum is well-heated and offers a cloakroom for heavy coats."
+              }
+            },
+            {
+              "name": "Stockport Viaduct",
+              "tip_5lang": {
+                "de": "Halten Sie kurz auf dem Parkplatz an der Heaton Lane für Fotos.",
+                "hu": "Álljon meg rövid időre a Heaton Lane parkolójában fotózni.",
+                "ro": "Opriți scurt în parcarea de pe Heaton Lane pentru fotografii.",
+                "en": "Stop briefly at the Heaton Lane car park for photos."
+              }
+            },
+            {
+              "name": "St Mary's Church & Marketplace",
+              "tip_5lang": {
+                "de": "Der Markt bietet im Winter oft heißen Glühwein oder Kakao.",
+                "hu": "A piacon télen gyakran kapható forró forralt bor vagy kakaó.",
+                "ro": "În piață se găsește adesea vin fiert sau cacao caldă iarna.",
+                "en": "The market often serves hot mulled wine or cocoa in winter."
+              }
+            },
+            {
+              "name": "Reddish Vale Cluster",
+              "tip_5lang": {
+                "de": "Vorsicht vor vereisten Wegen vom Parkplatz zum Aussichtspunkt.",
+                "hu": "Vigyázzon a jeges utakra a parkolótól a kilátópontig.",
+                "ro": "Atenție la drumurile înghețate de la parcare la punctul de observație.",
+                "en": "Watch out for icy paths from the car park to the viewpoint."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Glättegefahr auf den steilen Hügeln um den Marktplatz.",
+              "Die Parkplatzsuche am Marktplatz ist im Dezember schwieriger (Weihnachtsmarkt).",
+              "Stellen Sie sicher, dass Ihr Frostschutzmittel aufgefüllt ist.",
+              "Bramall Hall Park schließt im Winter bereits bei Einbruch der Dunkelheit."
+            ],
+            "hu": [
+              "Vigyázzon a jegesedésre a piactér körüli meredek dombokon.",
+              "A piactéren decemberben nehezebb parkolót találni (karácsonyi vásár).",
+              "Győződjön meg róla, hogy a fagyálló folyadék fel van töltve.",
+              "A Bramall Hall parkja télen már sötétedéskor bezár."
+            ],
+            "ro": [
+              "Atenție la pericolul de polei pe dealurile abrupte din jurul pieței.",
+              "Găsirea unui loc de parcare în piață este mai dificilă în decembrie.",
+              "Asigurați-vă că lichidul de parbriz pentru iarnă este completat.",
+              "Parcul Bramall Hall se închide iarna odată cu lăsarea întunerikuilui."
+            ],
+            "en": [
+              "Be wary of ice on the steep hills surrounding the Market Place.",
+              "Parking near the Market Place is harder in December due to events.",
+              "Ensure your car's anti-freeze and screenwash are topped up.",
+              "Bramall Hall Park closes at dusk during the winter months."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1288,6 +1852,188 @@
           "Be aware that some services can be less frequent in the evening.",
           "Most buses are equipped for contactless payments."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie am Bahnhof Stockport, von wo aus Sie einen trockenen Blick auf den Viadukt haben. Mit dem Bus erreichen Sie schnell das Hat Works Museum. Mittags geht es weiter zum Markt, wo die historische Markthalle Schutz bietet. Das Staircase House ist der perfekte Ort für den frühen Nachmittag im Trockenen. Beenden Sie die Tour im prächtigen Plaza Theater, das nur wenige Schritte von den Bushaltestellen entfernt liegt.",
+            "hu": "Kezdje a Stockport vasútállomáson, ahonnan szárazon láthatja a viaduktot. Busszal gyorsan elérheti a Hat Works múzeumot. Délben irány a piac, ahol a történelmi vásárcsarnok nyújt fedett menedéket. A Staircase House tökéletes helyszín a kora délutáni eső elől. Zárja a túrát a pompás Plaza színházban, amely csak pár lépésre van a buszmegállóktól.",
+            "ro": "Începeți la gara Stockport, de unde aveți o vedere uscată asupra viaductului. Cu autobuzul ajungeți rapid la muzeul Hat Works. La prânz mergeți spre piață, unde hala istorică oferă adăpost. Staircase House este locul perfect pentru a sta la uscat după-amiaza. Încheiați turul la superbul teatru Plaza, aflat la doar câțiva pași de stațiile de autobuz.",
+            "en": "Begin at Stockport Railway Station, offering a dry view of the Viaduct. A quick bus ride takes you to the Hat Works Museum. At midday, head to the Market Place, where the historic Market Hall provides indoor shelter. Staircase House is the perfect spot to stay dry in the early afternoon. End your tour at the magnificent Plaza Theatre, just steps away from major bus stops."
+          },
+          "stops": [
+            {
+              "name": "Train Station Cluster: Stockport Viaduct",
+              "tip_5lang": {
+                "de": "Hervorragende Sicht vom überdachten Bahnsteig 0.",
+                "hu": "Kiváló kilátás a fedett 0. vágányról.",
+                "ro": "Vedere excelentă de pe peronul acoperit numărul 0.",
+                "en": "Excellent view from the sheltered Platform 0."
+              }
+            },
+            {
+              "name": "Hat Works Museum",
+              "tip_5lang": {
+                "de": "Nur 5 Minuten Fußweg vom Bahnhof entfernt, meist unter Vordächern.",
+                "hu": "Csak 5 perc séta az állomástól, jórészt előtetők alatt.",
+                "ro": "La doar 5 minute de mers de la gară, mare parte sub copertine.",
+                "en": "Only a 5-minute walk from the station, mostly under shop canopies."
+              }
+            },
+            {
+              "name": "Marketplace Cluster: St Mary's Church",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Buslinie 192 für den Weg vom Bahnhof bergauf.",
+                "hu": "Használja a 192-es buszt az állomástól felfelé vezető úton.",
+                "ro": "Folosiți linia de autobuz 192 pentru drumul la deal de la gară.",
+                "en": "Use the 192 bus service for the uphill journey from the station."
+              }
+            },
+            {
+              "name": "Staircase House",
+              "tip_5lang": {
+                "de": "Der Eingang liegt direkt gegenüber dem Marktplatz-Dach.",
+                "hu": "A bejárat közvetlenül a piactér fedett része mellett van.",
+                "ro": "Intrarea este direct vizavi de partea acoperită a pieței.",
+                "en": "The entrance is located directly opposite the covered market area."
+              }
+            },
+            {
+              "name": "Town Hall Cluster: Stockport Town Hall",
+              "tip_5lang": {
+                "de": "Zahlreiche Buslinien halten direkt vor dem Haupteingang.",
+                "hu": "Számos buszjárat megáll közvetlenül a főbejárat előtt.",
+                "ro": "Numeroase linii de autobuz opresc chiar în fața intrării principale.",
+                "en": "Numerous bus routes stop right outside the main entrance."
+              }
+            },
+            {
+              "name": "Stockport Plaza",
+              "tip_5lang": {
+                "de": "Direkt neben dem Busbahnhof gelegen – ideal bei Regen.",
+                "hu": "Közvetlenül a buszpályaudvar mellett – ideális esőben.",
+                "ro": "Situat chiar lângă autogară – ideal pe timp de ploaie.",
+                "en": "Located right next to the bus station—ideal for rainy weather."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der neue Stockport Interchange bietet einen voll überdachten Wartebereich.",
+              "Nutzen Sie die App der 'Bee Network' für Echtzeit-Infos bei Regen.",
+              "Die 192 ist die am häufigsten verkehrende Buslinie zum Zentrum.",
+              "Der Bahnhof Stockport hat ein beheiztes Wartezimmer auf den Bahnsteigen."
+            ],
+            "hu": [
+              "Az új Stockport Interchange teljesen fedett várakozóhelyet kínál.",
+              "Használja a 'Bee Network' alkalmazást a valós idejű infókért esőben.",
+              "A 192-es a leggyakrabban közlekedő buszjárat a központ felé.",
+              "A Stockport vasútállomás peronjain fűtött várótermek találhatók."
+            ],
+            "ro": [
+              "Noul Stockport Interchange oferă o zonă de așteptare complet acoperită.",
+              "Folosiți aplicația 'Bee Network' pentru informații în timp real pe ploaie.",
+              "Linia 192 este cel mai frecvent serviciu de autobuz spre centru.",
+              "Gara Stockport are săli de așteptare încălzite pe peroane."
+            ],
+            "en": [
+              "The new Stockport Interchange offers a fully covered waiting area.",
+              "Use the 'Bee Network' app for real-time updates during rainy weather.",
+              "The 192 is the most frequent bus service connecting to the town centre.",
+              "Stockport railway station features heated waiting rooms on the platforms."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Start am Bahnhof bietet beeindruckende Blicke auf den dampfenden Viadukt. Nehmen Sie den Bus zum Hat Works Museum, um der Kälte zu entfliehen. Mittags lockt der Marktplatz mit seinem historischen Flair und warmen Speisen in der Markthalle. Im Staircase House erfahren Sie mehr über die lokale Geschichte im Warmen. Der kurze Weg zum Rathaus führt vorbei an winterlicher Beleuchtung, bevor der Tag im Plaza Theater endet.",
+            "hu": "A fagyos kezdés az állomáson lenyűgöző kilátást nyújt a párás viaduktra. Szálljon buszra a Hat Works múzeum felé, hogy elmeneküljön a hideg elől. Délben a piactér hívogat történelmi hangulatával és meleg ételeivel a vásárcsarnokban. A Staircase House-ban melegben ismerheti meg a helyi történelmet. A városháza felé vezető út téli fények mellett halad el, mielőtt a nap a Plaza színházban zárulna.",
+            "ro": "Un început gerost la gară oferă vederi impresionante asupra viaductului aburit. Luați autobuzul spre Hat Works pentru a scăpa de frig. La prânz, piața vă atrage cu atmosfera istorică și mâncarea caldă din hală. La Staircase House puteți învăța despre istoria locală la căldură. Drumul scurt spre primărie trece pe lângă lumini de iarnă înainte de a încheia ziua la Plaza.",
+            "en": "A frosty start at the station offers impressive views of the misty Viaduct. Catch a bus to the Hat Works Museum to escape the winter chill. At midday, the Market Place invites you with its historic atmosphere and warm food in the Market Hall. Inside Staircase House, you can explore local history in the warm. The short trip to the Town Hall passes winter illuminations before the day ends at the Plaza Theatre."
+          },
+          "stops": [
+            {
+              "name": "Train Station Cluster: Stockport Viaduct",
+              "tip_5lang": {
+                "de": "Das beheizte Café am Bahnhof bietet den besten Ausblick bei Kälte.",
+                "hu": "Az állomás fűtött kávézója kínálja a legjobb kilátást hidegben.",
+                "ro": "Cafeneaua încălzită din gară oferă cea mai bună vedere pe ger.",
+                "en": "The heated station cafe offers the best vantage point in cold weather."
+              }
+            },
+            {
+              "name": "Hat Works Museum",
+              "tip_5lang": {
+                "de": "Kurzer, knackiger Fußweg – ideal, um schnell wieder ins Warme zu kommen.",
+                "hu": "Rövid, frissítő séta – ideális, hogy gyorsan újra melegbe érjen.",
+                "ro": "Plimbare scurtă și vioaie – ideală pentru a reveni rapid la căldură.",
+                "en": "Short, brisk walk—ideal for getting back into the warmth quickly."
+              }
+            },
+            {
+              "name": "Marketplace Cluster: St Mary's Church",
+              "tip_5lang": {
+                "de": "Die Busse sind im Winter meist gut beheizt.",
+                "hu": "A buszok télen általában jól fűtöttek.",
+                "ro": "Autobuzele sunt de obicei bine încălzite în timpul iernii.",
+                "en": "Buses are generally well-heated during the winter months."
+              }
+            },
+            {
+              "name": "Staircase House",
+              "tip_5lang": {
+                "de": "Ein atmosphärischer Stopp, besonders in der dunklen Jahreszeit.",
+                "hu": "Hangulatos megálló, különösen a sötét téli időszakban.",
+                "ro": "O oprire plină de atmosferă, mai ales în sezonul rece.",
+                "en": "An atmospheric stop, especially during the dark winter season."
+              }
+            },
+            {
+              "name": "Town Hall Cluster: Stockport Town Hall",
+              "tip_5lang": {
+                "de": "Abends oft prächtig beleuchtet.",
+                "hu": "Este gyakran pompás díszkivilágítást kap.",
+                "ro": "Adesea iluminată superb în timpul serii.",
+                "en": "Often splendidly illuminated during the evenings."
+              }
+            },
+            {
+              "name": "Stockport Plaza",
+              "tip_5lang": {
+                "de": "Buchen Sie Tickets im Voraus für die beliebten Winter-Shows.",
+                "hu": "Foglaljon jegyet előre a népszerű téli előadásokra.",
+                "ro": "Rezervați bilete în avans pentru spectacolele populare de iarnă.",
+                "en": "Book tickets in advance for the popular winter performances."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrpläne können bei extremem Winterwetter kurzfristig ändern.",
+              "Der Stockport Interchange bietet Schutz vor Wind und Kälte.",
+              "Tragen Sie feste Schuhe für die oft glatten Stufen am Bahnhof.",
+              "Die Sonne geht im Winter bereits gegen 16:00 Uhr unter."
+            ],
+            "hu": [
+              "A menetrendek szélsőséges téli időjárás esetén változhatnak.",
+              "A Stockport Interchange védelmet nyújt a szél és a hideg ellen.",
+              "Viseljen stabil cipőt az állomás gyakran csúszós lépcsőin.",
+              "A nap télen már délután 4 óra körül lemegy."
+            ],
+            "ro": [
+              "Orarele se pot modifica în caz de vreme de iarnă extremă.",
+              "Stockport Interchange oferă protecție împotriva vântului și frigului.",
+              "Purtați încălțăminte stabilă pentru treptele alunecoase din gară.",
+              "Soarele apune în jurul orei 16:00 în timpul iernii."
+            ],
+            "en": [
+              "Schedules may change at short notice during extreme winter weather.",
+              "Stockport Interchange provides excellent shelter from wind and cold.",
+              "Wear sturdy footwear for the often slippery station steps.",
+              "The sun sets as early as 4:00 PM during the winter months."
+            ]
+          }
+        }
       }
     }
   }

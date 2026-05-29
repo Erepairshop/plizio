@@ -379,6 +379,214 @@
           "Plan for some time to relax at the beach in the afternoon.",
           "The best photos of the aqueduct are taken in the late afternoon."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt geschützt in der Hauptkirche und im Spitzenmuseum, wo das Klopfen des Regens eine gemütliche Atmosphäre schafft. Mittags erkunden wir das maritime Erbe im Zollhaus und auf der Nau-Replik, während die Gischt mit dem Regen verschmilzt. Am Nachmittag bietet das Kloster Santa Clara einen majestätischen Anblick im grauen Licht. Der Tag endet mit einem kurzen, erfrischenden Blick auf den stürmischen Atlantik am Forno-Strand.",
+            "hu": "A reggelt a főtemplom és a Csipkemúzeum fedett falai között kezdjük, távol az esőtől. Délben a hajóépítési múltat fedezzük fel a vámháznál és a Nau másolatánál, ahol az esőcseppek az óceáni párával keverednek. Délután a Santa Clara kolostor monumentális sziluettje nyújt látványt a borongós időben. Az estét a Forno-parton zárjuk, ahol a viharos tenger morajlása és a friss, nedves levegő fogad minket.",
+            "ro": "Dimineața începe la adăpost în biserica principală și la Muzeul Dantelei, unde sunetul ploii creează o ambianță liniștită. La prânz explorăm istoria navală la vechea vamă și pe replica navei Nau, în timp ce ploaia se împletește cu briza sărată. După-amiaza, Mănăstirea Santa Clara oferă o priveliște dramatică sub cerul înnorat. Ziua se încheie cu o scurtă vizită pe plaja Forno, admirând puterea oceanului pe timp de ploaie.",
+            "en": "The morning starts sheltered inside the Main Church and the Lace Museum, where the rain adds a cozy rhythm to the visit. At midday, we explore maritime history at the Customshouse and the Nau replica, feeling the Atlantic mist. In the afternoon, the Monastery of Santa Clara stands majestic against the grey sky. The day concludes with a bracing view of the stormy ocean at Forno Beach, where the elements meet in a powerful display."
+          },
+          "stops": [
+            {
+              "name": "Church of São João Baptista (Main Church)",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um den ersten Regenschauer trocken abzuwarten.",
+                "hu": "Tökéletes helyszín az első eső elkerülésére és az építészet megcsodálására.",
+                "ro": "Locul ideal pentru a aștepta trecerea primei averse în siguranță.",
+                "en": "Perfect place to stay dry while admiring the Manueline architecture."
+              }
+            },
+            {
+              "name": "Bobbin Lace Museum (Museu das Rendas de Bilros)",
+              "tip_5lang": {
+                "de": "Genießen Sie die filigrane Kunst im warmen, trockenen Innenraum.",
+                "hu": "Élvezze a finom művészetet a meleg és száraz belső térben.",
+                "ro": "Bucurați-vă de arta delicată într-un spațiu interior cald și primitor.",
+                "en": "Enjoy the delicate lace art in a warm, dry indoor environment."
+              }
+            },
+            {
+              "name": "Royal Customshouse - Shipbuilding Museum",
+              "tip_5lang": {
+                "de": "Große Ausstellungsflächen bieten guten Schutz vor dem Wetter.",
+                "hu": "A tágas kiállítóterek remek védelmet nyújtanak az eső ellen.",
+                "ro": "Spațiile largi de expoziție oferă o protecție excelentă împotriva ploii.",
+                "en": "Spacious exhibition halls provide great shelter from the rain."
+              }
+            },
+            {
+              "name": "16th Century Ship Replica (Nau Quinhentista)",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem Holzdeck, es kann bei Nässe rutschig sein.",
+                "hu": "Vigyázzon a fafedélzeten, esőben csúszóssá válhat.",
+                "ro": "Atenție pe puntea de lemn, poate deveni alunecoasă când este udă.",
+                "en": "Watch your step on the wooden deck; it gets slippery when wet."
+              }
+            },
+            {
+              "name": "Monastery of Santa Clara",
+              "tip_5lang": {
+                "de": "Der Kreuzgang bietet Schutz, während man den Regen draußen sieht.",
+                "hu": "A kerengő oltalmat nyújt, miközben nézhetjük a kinti esőt.",
+                "ro": "Cloastrul oferă adăpost, permițându-vă să admirați ploaia de la distanță.",
+                "en": "The cloister area provides shelter while you watch the rain fall outside."
+              }
+            },
+            {
+              "name": "Aqueduct of Vila do Conde",
+              "tip_5lang": {
+                "de": "Ein schneller Fotostopp reicht bei starkem Regen völlig aus.",
+                "hu": "Egy gyors fotómegálló is elég, ha szakad az eső.",
+                "ro": "O scurtă oprire pentru fotografii este suficientă dacă plouă tare.",
+                "en": "A quick photo stop is enough if the rain is heavy."
+              }
+            },
+            {
+              "name": "Forno Beach",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz in einem der Strandcafés mit Meerblick.",
+                "hu": "Keressen menedéket a tengerparti kávézók egyikében.",
+                "ro": "Căutați adăpost într-una dintre cafenelele de pe plajă cu vedere la mare.",
+                "en": "Seek shelter in one of the beachfront cafes with a sea view."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da das Kopfsteinpflaster rutschig wird.",
+              "Nutzen Sie die vielen Cafés im Zentrum für kleine Pausen.",
+              "Ein stabiler Regenschirm ist wegen des Windes besser als ein Knirps.",
+              "Die Museen sind montags oft geschlossen, prüfen Sie das vorher.",
+              "Die Hafenmauer bietet bei Regen eine dramatische Fotokulisse."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert a macskaköves utcák csúszóssá válnak.",
+              "Használja ki a központ kávézóit a rövidebb pihenőkre.",
+              "A szél miatt egy stabil esernyő jobb választás, mint az összecsukható.",
+              "Hétfőnként a múzeumok zárva tarthatnak, ellenőrizze előre.",
+              "A kikötői gát esőben is drámai hátteret ad a fotókhoz."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, pavajul devine foarte alunecos.",
+              "Profitați de cafenelele din centru pentru scurte pauze la uscat.",
+              "O umbrelă robustă este de preferat din cauza vântului de pe coastă.",
+              "Muzeele pot fi închise lunea, verificați programul în avans.",
+              "Digul portului oferă un fundal dramatic pentru poze chiar și pe ploaie."
+            ],
+            "en": [
+              "Wear waterproof shoes as the cobblestones become very slippery.",
+              "Use the many cafes in the center for short dry-off breaks.",
+              "A sturdy umbrella is better than a small one due to coastal winds.",
+              "Museums are often closed on Mondays; check the schedule beforehand.",
+              "The harbor wall provides a dramatic photo backdrop even in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An einem klaren Wintermorgen leuchtet der Granit der Hauptkirche besonders hell. Mittags wärmt uns die Geschichte im Schiffbaumuseum, während wir die Nau erkunden. Am Nachmittag erreichen wir das Kloster und den Aquädukt genau rechtzeitig, um das goldene Licht der tiefstehenden Wintersonne einzufangen. Der Abend am Forno-Strand ist kühl und friedlich, geprägt von den langen Schatten und der weiten Sicht über den Atlantik.",
+            "hu": "Egy tiszta téli reggelen a főtemplom gránitfalai ragyognak a napfényben. Délben a hajóépítési múzeum és a hajómásolat belső terei adnak otthont a kutatásnak. Délután a kolostort és az akveduktot pont a téli naplemente arany órájában érjük el. Az este a Forno-parton hűvös és nyugodt, a hosszú árnyékok és a tiszta tengeri látóhatár felejthetetlen élményt nyújtanak.",
+            "ro": "Într-o dimineață senină de iarnă, granitul bisericii principale strălucește sub soarele palid. La prânz explorăm muzeul naval, bucurându-ne de istoria locală. După-amiaza ajungem la mănăstire și apeduct exact la timp pentru a surprinde lumina aurie a apusului de iarnă. Seara pe plaja Forno este răcoroasă și liniștită, definită de umbre lungi și o vizibilitate clară asupra orizontului atlantic.",
+            "en": "On a crisp winter morning, the granite of the Main Church shines brightly. At midday, we dive into history at the shipbuilding museum and the Nau replica. By afternoon, we reach the monastery and aqueduct just in time for the golden winter light. The evening at Forno Beach is cool and peaceful, characterized by long shadows and a clear view across the vast Atlantic horizon."
+          },
+          "stops": [
+            {
+              "name": "Church of São João Baptista (Main Church)",
+              "tip_5lang": {
+                "de": "Die kühle Morgenluft macht den Besuch der Kirche besonders erfrischend.",
+                "hu": "A hűvös reggeli levegő frissítővé teszi a templomlátogatást.",
+                "ro": "Aerul rece de dimineață face vizita la biserică foarte revigorantă.",
+                "en": "The crisp morning air makes the visit to the church very refreshing."
+              }
+            },
+            {
+              "name": "Bobbin Lace Museum (Museu das Rendas de Bilros)",
+              "tip_5lang": {
+                "de": "Ein gemütlicher Rückzugsort, um sich zwischendurch aufzuwärmen.",
+                "hu": "Hangulatos helyszín, ahol kicsit átmelegedhetünk séta közben.",
+                "ro": "Un refugiu primitor unde vă puteți încălzi în timpul plimbării.",
+                "en": "A cozy retreat to warm up during your walk."
+              }
+            },
+            {
+              "name": "Royal Customshouse - Shipbuilding Museum",
+              "tip_5lang": {
+                "de": "Im Winter ist es hier ruhiger, perfekt für eine ausführliche Besichtigung.",
+                "hu": "Télen csendesebb a múzeum, ideális az elmélyült nézelődéshez.",
+                "ro": "Iarna este mai liniște aici, perfect pentru o vizită detaliată.",
+                "en": "It's quieter here in winter, perfect for a detailed visit."
+              }
+            },
+            {
+              "name": "16th Century Ship Replica (Nau Quinhentista)",
+              "tip_5lang": {
+                "de": "Die Wintersonne sorgt für fantastische Lichtverhältnisse auf dem Schiff.",
+                "hu": "A téli napsütés fantasztikus fényeket teremt a hajó fedélzetén.",
+                "ro": "Soarele de iarnă creează condiții de lumină fantastice pe navă.",
+                "en": "The winter sun creates fantastic lighting conditions on the ship."
+              }
+            },
+            {
+              "name": "Monastery of Santa Clara",
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Ort vor 17:00 Uhr, um das Tageslicht zu nutzen.",
+                "hu": "Látogasson el ide 17:00 előtt, hogy kihasználja a nappali fényt.",
+                "ro": "Vizitați acest loc înainte de ora 17:00 pentru a profita de lumină.",
+                "en": "Visit before 5 PM to make the most of the remaining daylight."
+              }
+            },
+            {
+              "name": "Aqueduct of Vila do Conde",
+              "tip_5lang": {
+                "de": "Das Abendlicht am Aquädukt ist im Winter besonders spektakulär.",
+                "hu": "Az akvedukt esti fényei télen különösen látványosak.",
+                "ro": "Lumina serii pe apeduct este deosebit de spectaculoasă iarna.",
+                "en": "The evening light on the aqueduct is particularly spectacular in winter."
+              }
+            },
+            {
+              "name": "Forno Beach",
+              "tip_5lang": {
+                "de": "Warme Kleidung ist für den winterlichen Strandspaziergang unerlässlich.",
+                "hu": "A téli parti sétához elengedhetetlen a meleg öltözet.",
+                "ro": "Hainele groase sunt esențiale pentru plimbarea pe plajă iarna.",
+                "en": "Warm clothing is essential for a wintry beach walk."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht gegen 17:30 Uhr unter, planen Sie die Außenstopps davor.",
+              "Zwiebelprinzip bei der Kleidung hilft gegen den kalten Seewind.",
+              "Probieren Sie lokale Gebäckspezialitäten in den warmen Konditoreien.",
+              "Der Atlantikwind kann im Winter sehr schneidend sein.",
+              "Viele Außenbereiche sind im Winter angenehm leer."
+            ],
+            "hu": [
+              "A nap 17:30 körül nyugszik, a kinti programokat tervezze korábbra.",
+              "A réteges öltözködés segít védekezni a hideg tengeri szél ellen.",
+              "Kóstolja meg a helyi süteményeket a meleg cukrászdákban.",
+              "Az atlanti szél télen elég metsző lehet a parton.",
+              "A legtöbb szabadtéri helyszín télen kellemesen tömegmentes."
+            ],
+            "ro": [
+              "Soarele apune în jur de 17:30, planificați opririle exterioare înainte.",
+              "Îmbrăcați-vă în straturi pentru a vă proteja de vântul rece marin.",
+              "Gustați produsele de patiserie locale în cofetăriile călduroase.",
+              "Vântul atlantic poate fi destul de tăios pe timp de iarnă.",
+              "Multe zone exterioare sunt plăcut de goale în timpul iernii."
+            ],
+            "en": [
+              "Sunset is around 5:30 PM; plan outdoor stops accordingly.",
+              "Layering your clothes helps protect against the cold sea breeze.",
+              "Try local pastries in the warm pastry shops in the center.",
+              "The Atlantic wind can be quite sharp during winter months.",
+              "Many outdoor areas are pleasantly empty in winter."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -386,7 +594,7 @@
       "speed_kmh": 10,
       "start": "09:00",
       "end_estimate": "17:54",
-      "total_km": 2.9,
+      "total_km": 8.5,
       "stop_count": 7,
       "stops": [
         {
@@ -752,6 +960,214 @@
           "Some sections can have inclines, especially the climb to the monastery.",
           "Use the designated bike paths along the coast for a safe ride."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir radeln vorsichtig durch den Regen, beginnend beim Aquädukt und dem Kloster, wo der Asphalt griffig bleibt. Mittags suchen wir Schutz in der Hauptkirche und im Spitzenmuseum, um uns kurz zu trocknen. Die Fahrt zum Hafen und zur Nau-Replik erfordert Vorsicht auf den nassen Wegen. Den Tag beenden wir trotz Regen an der Küste, wobei wir die frische, salzige Luft und das Rauschen des Meeres genießen.",
+            "hu": "Óvatosan tekerünk az esőben, az akvedukttól indulva a kolostorig, ahol az aszfalt jól tapad. Délben a főtemplom és a Csipkemúzeum falai között keresünk menedéket és száradási lehetőséget. A kikötő és a hajómásolat felé vezető út figyelmet igényel a vizes burkolaton. A napot a parton zárjuk, élvezve a friss, sós levegőt az eső ellenére is.",
+            "ro": "Pedalăm cu atenție prin ploaie, începând de la apeduct spre mănăstire, unde asfaltul oferă aderență. La prânz căutăm adăpost în biserică și la muzeul dantelei pentru a ne usca puțin. Drumul spre port și replica navei necesită prudență pe suprafețele umede. Încheiem ziua pe coastă, bucurându-ne de aerul sărat și sunetul mării în ciuda ploii.",
+            "en": "We cycle carefully through the rain, starting from the aqueduct and monastery. At midday, we seek shelter in the Main Church and the Lace Museum to dry off. The ride to the harbor and the Nau replica requires focus on the wet paths. We end the day by the coast, enjoying the fresh salty air and the sound of the ocean despite the rainy weather."
+          },
+          "stops": [
+            {
+              "name": "Aqueduct of Vila do Conde",
+              "tip_5lang": {
+                "de": "Achten Sie auf Pfützen entlang des Radwegs am Aquädukt.",
+                "hu": "Ügyeljen a tócsákra az akvedukt melletti kerékpárúton.",
+                "ro": "Atenție la bălți de-a lungul pistei de biciclete de lângă apeduct.",
+                "en": "Watch out for puddles along the bike path by the aqueduct."
+              }
+            },
+            {
+              "name": "Monastery of Santa Clara",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich zum Abstellen der Räder.",
+                "hu": "Használja a fedett bejárati részt a kerékpárok leállításához.",
+                "ro": "Folosiți zona acoperită de la intrare pentru a parca bicicletele.",
+                "en": "Use the covered entrance area to park your bikes briefly."
+              }
+            },
+            {
+              "name": "Church of São João Baptista (Main Church)",
+              "tip_5lang": {
+                "de": "Sicherer Halt für die Räder in der Nähe des Kircheneingangs.",
+                "hu": "Biztonságos támasztóhelyek a bringáknak a templom közelében.",
+                "ro": "Locuri sigure pentru biciclete în apropierea intrării în biserică.",
+                "en": "Secure spots for bikes near the church entrance."
+              }
+            },
+            {
+              "name": "Bobbin Lace Museum (Museu das Rendas de Bilros)",
+              "tip_5lang": {
+                "de": "Guter Ort für eine längere Regenpause im Trockenen.",
+                "hu": "Kiváló helyszín egy hosszabb esőszünethez szárazon.",
+                "ro": "Un loc excelent pentru o pauză mai lungă la uscat.",
+                "en": "A great spot for a longer dry break from the rain."
+              }
+            },
+            {
+              "name": "16th Century Ship Replica (Nau Quinhentista)",
+              "tip_5lang": {
+                "de": "Fahren Sie langsam auf dem Hafengelände, da es rutschig sein kann.",
+                "hu": "Hajtson lassan a kikötő területén, mert csúszós lehet.",
+                "ro": "Mergeți încet în zona portului, poate fi alunecos.",
+                "en": "Ride slowly in the harbor area as it can be slippery."
+              }
+            },
+            {
+              "name": "Chapel of Our Lady of the Guide",
+              "tip_5lang": {
+                "de": "Kleiner Schutzraum bei plötzlichen Schauern direkt am Meer.",
+                "hu": "Kis menedékhely hirtelen zápor esetén közvetlenül a parton.",
+                "ro": "Mic adăpost în caz de ploaie bruscă chiar lângă mare.",
+                "en": "Small shelter in case of sudden showers right by the sea."
+              }
+            },
+            {
+              "name": "Forno Beach",
+              "tip_5lang": {
+                "de": "Stellen Sie die Räder an einem windgeschützten Ort ab.",
+                "hu": "Állítsa le a bringákat szélvédett helyen.",
+                "ro": "Parcați bicicletele într-un loc ferit de vânt.",
+                "en": "Park your bikes in a wind-sheltered spot."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie schnelles Bremsen auf nassem Kopfsteinpflaster.",
+              "Vollständige Regenbekleidung inklusive Überschuhen wird empfohlen.",
+              "Die Uferpromenade kann bei Wind sehr ungemütlich werden.",
+              "Überprüfen Sie Ihre Bremsen vor der Abfahrt.",
+              "Nutzen Sie die Brückenübergänge als kurzzeitigen Regenschutz."
+            ],
+            "hu": [
+              "Kerülje a hirtelen fékezést a vizes macskakövön.",
+              "Teljes esőruházat és kamásli használata ajánlott.",
+              "A parti sétány szeles időben elég barátságtalan lehet.",
+              "Indulás előtt ellenőrizze a fékeket.",
+              "Használja a hidak alatti részeket rövid eső elleni védelemre."
+            ],
+            "ro": [
+              "Evitați frânarea bruscă pe pavajul umed.",
+              "Se recomandă echipament complet de ploaie, inclusiv protecții pantofi.",
+              "Promenada poate fi neplăcută în condiții de vânt puternic.",
+              "Verificați frânele înainte de a porni la drum.",
+              "Folosiți pasajele de sub poduri ca adăpost temporar contra ploii."
+            ],
+            "en": [
+              "Avoid sudden braking on wet cobblestones.",
+              "Full rain gear including shoe covers is highly recommended.",
+              "The waterfront promenade can be very uncomfortable in high winds.",
+              "Check your brakes before starting your trip.",
+              "Use bridge underpasses as temporary shelters from the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die kühle Winterluft macht das Radeln entlang des Aquädukts und zum Kloster Santa Clara besonders belebend. Mittags erkunden wir das Stadtzentrum und die maritimen Museen, wobei wir die mildere Wintersonne genießen. Am Nachmittag führt uns der Weg zur Kapelle am Meer und zum Forno-Strand, wo die tiefstehende Sonne lange Schatten wirft. Die Tour endet erfrischt durch die klare, kalte Atlantikbrise.",
+            "hu": "A hűvös téli levegő élénkítővé teszi a bringázást az akvedukt mentén a kolostorig. Délben a városközpontot és a tengerészeti múzeumokat fedezzük fel, élvezve a szelíd téli napsütést. Délután az út a parti kápolnához és a Forno-strandhoz vezet, ahol az alacsonyan járó nap hosszú árnyékokat vet. A túrát a tiszta és hideg atlanti szellő teszi teljessé.",
+            "ro": "Aerul rece de iarnă face pedalarea de-a lungul apeductului spre mănăstire foarte energizantă. La prânz explorăm centrul orașului și muzeele maritime, profitând de soarele blând de iarnă. După-amiaza, drumul ne poartă spre capela de pe coastă și plaja Forno, unde soarele jos creează umbre lungi. Turul se încheie revigorat de briza clară și rece a Atlanticului.",
+            "en": "The cool winter air makes cycling along the aqueduct and to the monastery very invigorating. At midday, we explore the town center and maritime museums, enjoying the mild winter sun. In the afternoon, the route leads to the seaside chapel and Forno Beach, where the low sun casts long shadows. The tour ends refreshed by the clear and cold Atlantic breeze."
+          },
+          "stops": [
+            {
+              "name": "Aqueduct of Vila do Conde",
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Fernsicht entlang der alten Struktur.",
+                "hu": "Élvezze a tiszta kilátást a régi építmény mentén.",
+                "ro": "Bucurați-vă de vizibilitatea clară de-a lungul structurii vechi.",
+                "en": "Enjoy the clear views along the ancient structure."
+              }
+            },
+            {
+              "name": "Monastery of Santa Clara",
+              "tip_5lang": {
+                "de": "Der Anstieg zum Kloster hält Sie bei kühlen Temperaturen warm.",
+                "hu": "A kolostorhoz vezető emelkedő segít melegen tartani a testet.",
+                "ro": "Urcarea spre mănăstire vă va ține de cald pe temperaturi scăzute.",
+                "en": "The climb to the monastery will keep you warm in the cool air."
+              }
+            },
+            {
+              "name": "Church of São João Baptista (Main Church)",
+              "tip_5lang": {
+                "de": "Machen Sie eine kurze Pause und genießen Sie die Stille im Winter.",
+                "hu": "Tartson egy rövid szünetet és élvezze a téli csendet.",
+                "ro": "Faceți o scurtă pauză și bucurați-vă de liniștea iernii.",
+                "en": "Take a short break and enjoy the winter silence."
+              }
+            },
+            {
+              "name": "Bobbin Lace Museum (Museu das Rendas de Bilros)",
+              "tip_5lang": {
+                "de": "Perfekt für einen Aufwärmstopp im Herzen der Stadt.",
+                "hu": "Tökéletes melegedőhely a város szívében.",
+                "ro": "Locul perfect pentru a vă încălzi în inima orașului.",
+                "en": "Perfect warming-up stop in the heart of the city."
+              }
+            },
+            {
+              "name": "16th Century Ship Replica (Nau Quinhentista)",
+              "tip_5lang": {
+                "de": "Nutzen Sie das klare Winterlicht für Fotos ohne Touristenmassen.",
+                "hu": "Használja ki a tiszta téli fényt a tömegmentes fotózáshoz.",
+                "ro": "Folosiți lumina clară de iarnă pentru poze fără mulțimi de turiști.",
+                "en": "Use the clear winter light for photos without the tourist crowds."
+              }
+            },
+            {
+              "name": "Chapel of Our Lady of the Guide",
+              "tip_5lang": {
+                "de": "Ein exponierter Ort, an dem der Wind im Winter kräftig wehen kann.",
+                "hu": "Exponált hely, ahol télen erősen fújhat a szél.",
+                "ro": "Un loc expus unde vântul poate bate cu putere iarna.",
+                "en": "An exposed spot where the wind can be quite strong in winter."
+              }
+            },
+            {
+              "name": "Forno Beach",
+              "tip_5lang": {
+                "de": "Der ideale Ort für den Sonnenuntergang vor der Rückfahrt.",
+                "hu": "Ideális hely a naplemente megtekintéséhez a visszaindulás előtt.",
+                "ro": "Locul ideal pentru a vedea apusul înainte de drumul de întoarcere.",
+                "en": "The ideal spot for sunset before the ride back."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Handschuhe sind für die Abfahrten im Winter unverzichtbar.",
+              "Die Tage sind kürzer, stellen Sie sicher, dass Ihre Lichter funktionieren.",
+              "Trinken Sie auch bei Kälte genug Wasser während der Tour.",
+              "Der Wind vom Meer kühlt den Körper beim Radfahren schnell aus.",
+              "Planen Sie das Ende der Tour spätestens für 17:45 Uhr ein."
+            ],
+            "hu": [
+              "A téli lejtmenetekhez elengedhetetlen a kesztyű.",
+              "A nappalok rövidebbek, ellenőrizze a világítást.",
+              "Hidegben is igyon elegendő vizet a túra alatt.",
+              "A tenger felől fújó szél gyorsan lehűti a testet bringázás közben.",
+              "A túra végét legkésőbb 17:45-re tervezze be."
+            ],
+            "ro": [
+              "Mănușile sunt indispensabile pentru coborârile pe timp de iarnă.",
+              "Zilele sunt mai scurte, asigurați-vă că luminile funcționează.",
+              "Beți destulă apă în timpul turului, chiar dacă este frig.",
+              "Vântul dinspre mare răcește corpul rapid în timp ce pedalați.",
+              "Planificați finalul turului cel târziu pentru ora 17:45."
+            ],
+            "en": [
+              "Gloves are essential for cycling downhill in winter.",
+              "Days are shorter; make sure your bike lights are working.",
+              "Drink enough water during the tour, even if it's cold.",
+              "Sea winds cool down the body quickly while cycling.",
+              "Aim to finish your tour by 5:45 PM at the latest."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1092,6 +1508,196 @@
           "Pay attention to one-way streets in the historic center.",
           "Combine your visit with the nearby town of Póvoa de Varzim."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erreichen wir bequem und trocken den Aquädukt und das Kloster. Mittags parken wir im Zentrum, um das Spitzenmuseum und die historische Nau zu besuchen, wobei das Auto als perfekter Rückzugsort vor den Schauern dient. Den Nachmittag verbringen wir an der Küste am Forno-Strand, wo wir den Regen bequem aus dem Wagen beobachten können, bevor wir den Tag gemütlich ausklingen lassen.",
+            "hu": "Autóval kényelmesen és szárazon érjük el az akveduktot és a kolostort. Délben a központban parkolunk, hogy meglátogassuk a Csipkemúzeumot és a történelmi hajót, miközben az autó menedéket nyújt a záporok között. A délutánt a Forno-parton töltjük, ahol az autóból figyelve is élvezhetjük az esős tengerpart látványát, mielőtt befejeznénk a napot.",
+            "ro": "Cu mașina ajungem confortabil și la adăpost la apeduct și mănăstire. La prânz parcăm în centru pentru a vizita muzeul dantelei și nava istorică, mașina fiind refugiul perfect între averse. După-amiaza o petrecem pe coastă la plaja Forno, unde putem observa ploaia confortabil din mașină înainte de a încheia ziua relaxați.",
+            "en": "By car, we reach the aqueduct and monastery comfortably and dry. At midday, we park in the center to visit the lace museum and the historic ship, using the car as a perfect shelter between showers. We spend the afternoon at Forno Beach, where we can enjoy the view of the rainy coast from the comfort of the car before ending the day."
+          },
+          "stops": [
+            {
+              "name": "Aqueduct of Vila do Conde (Cluster A)",
+              "tip_5lang": {
+                "de": "Parken Sie direkt neben dem Aquädukt für einen schnellen Fotostopp.",
+                "hu": "Parkoljon közvetlenül az akvedukt mellett egy gyors fotóért.",
+                "ro": "Parcați chiar lângă apeduct pentru o oprire foto rapidă.",
+                "en": "Park right next to the aqueduct for a quick photo stop."
+              }
+            },
+            {
+              "name": "Monastery of Santa Clara (Cluster A)",
+              "tip_5lang": {
+                "de": "Der Parkplatz am Kloster bietet einen trockenen Weg zum Eingang.",
+                "hu": "A kolostori parkolóból szárazon elérhető a bejárat.",
+                "ro": "Parcarea de la mănăstire oferă un drum scurt și ferit spre intrare.",
+                "en": "The monastery parking allows for a quick, dry walk to the entrance."
+              }
+            },
+            {
+              "name": "Historic Center (Cluster B)",
+              "tip_5lang": {
+                "de": "Nutzen Sie Parkhäuser im Zentrum, um trockenen Fußes loszugehen.",
+                "hu": "Használjon belvárosi parkolóházakat a száraz induláshoz.",
+                "ro": "Folosiți parcările subterane din centru pentru a pleca la uscat.",
+                "en": "Use central parking garages to start your walk dry."
+              }
+            },
+            {
+              "name": "Bobbin Lace Museum (Cluster B)",
+              "tip_5lang": {
+                "de": "In der Nähe gibt es Parkmöglichkeiten, ideal bei Regen.",
+                "hu": "A közelben vannak parkolóhelyek, ideális esős időben.",
+                "ro": "Există locuri de parcare în apropiere, ideal pe timp de ploaie.",
+                "en": "Parking is available nearby, ideal during rainy weather."
+              }
+            },
+            {
+              "name": "16th Century Ship Replica (Cluster B)",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Hafenparkplatz zur Nau-Replik.",
+                "hu": "Rövid séta a kikötői parkolótól a hajómásolatig.",
+                "ro": "Scurtă plimbare de la parcarea din port până la navă.",
+                "en": "Short walk from the harbor parking to the ship replica."
+              }
+            },
+            {
+              "name": "Forno Beach (Cluster C)",
+              "tip_5lang": {
+                "de": "Parkplätze mit Meerblick erlauben Sightseeing aus dem Auto.",
+                "hu": "A tengerre néző parkolókból az autóból is nézelődhetünk.",
+                "ro": "Parcările cu vedere la mare permit vizitarea din mașină.",
+                "en": "Parking spots with sea views allow for car-based sightseeing."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahren Sie bei starkem Regen vorsichtig auf den glatten Straßen.",
+              "Zentrales Parken spart lange Wege im Regen.",
+              "Halten Sie einen Schirm griffbereit im Auto.",
+              "Die Sicht kann durch beschlagene Scheiben eingeschränkt sein.",
+              "Nutzen Sie das Auto als Basis für Kleidungwechsel."
+            ],
+            "hu": [
+              "Erős esőben vezessen óvatosan a csúszós utakon.",
+              "A központi parkolás megkíméli a hosszú ázástól.",
+              "Tartson kéznél esernyőt az autóban.",
+              "A látási viszonyokat korlátozhatja a párás szélvédő.",
+              "Használja az autót bázisként az átöltözéshez."
+            ],
+            "ro": [
+              "Conduceți cu atenție pe drumurile alunecoase în caz de ploaie.",
+              "Parcarea centrală vă scutește de drumuri lungi prin ploaie.",
+              "Păstrați o umbrelă la îndemână în mașină.",
+              "Vizibilitatea poate fi redusă din cauza geamurilor aburite.",
+              "Folosiți mașina ca bază pentru schimbarea hainelor ude."
+            ],
+            "en": [
+              "Drive carefully on slippery roads during heavy rain.",
+              "Central parking saves you from long walks in the rain.",
+              "Keep an umbrella handy inside the car.",
+              "Visibility might be limited due to fogged-up windows.",
+              "Use the car as a base for changing out of wet clothes."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An einem klaren Wintertag bietet die Autofahrt zum Aquädukt und Kloster herrliche Ausblicke. Mittags erkunden wir das Zentrum und die Museen, wobei wir die angenehme Wärme im Wagen zwischen den Stopps genießen. Am Nachmittag fahren wir zur Küste, um den Sonnenuntergang am Forno-Strand zu erleben, bevor wir uns auf den Rückweg machen, während die Temperaturen draußen sinken.",
+            "hu": "Egy tiszta téli napon az autóút az akvedukthoz és a kolostorhoz gyönyörű kilátást nyújt. Délben a központot és a múzeumokat fedezzük fel, élvezve az autó melegét a megállók között. Délután a partra hajtunk, hogy megnézzük a naplementét a Forno-strandon, majd visszaindulunk, ahogy kint hűlni kezd a levegő.",
+            "ro": "Într-o zi senină de iarnă, drumul cu mașina spre apeduct și mănăstire oferă priveliști superbe. La prânz explorăm centrul și muzeele, bucurându-ne de căldura mașinii între opriri. După-amiaza mergem spre coastă pentru a vedea apusul pe plaja Forno, înainte de a porni spre casă pe măsură ce temperatura scade.",
+            "en": "On a clear winter day, the drive to the aqueduct and monastery offers wonderful views. At midday, we explore the center and museums, enjoying the warmth of the car between stops. In the afternoon, we head to the coast for the sunset at Forno Beach before starting our return journey as temperatures drop outside."
+          },
+          "stops": [
+            {
+              "name": "Aqueduct of Vila do Conde (Cluster A)",
+              "tip_5lang": {
+                "de": "Im Winter ist es einfacher, einen Parkplatz direkt am Aquädukt zu finden.",
+                "hu": "Télen könnyebb közvetlenül az akveduktnál parkolóhelyet találni.",
+                "ro": "Iarna este mai ușor să găsiți parcare chiar lângă apeduct.",
+                "en": "In winter, it's easier to find a parking spot right by the aqueduct."
+              }
+            },
+            {
+              "name": "Monastery of Santa Clara (Cluster A)",
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick vom Parkplatz über die winterliche Stadt.",
+                "hu": "Élvezze a tágas kilátást a parkolóból a téli városra.",
+                "ro": "Bucurați-vă de vederea largă din parcare asupra orașului iarna.",
+                "en": "Enjoy the expansive view from the parking lot over the winter city."
+              }
+            },
+            {
+              "name": "Historic Center (Cluster B)",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen den Parkplätzen und den Sehenswürdigkeiten.",
+                "hu": "Rövid séta a parkolóhelyek és a látnivalók között.",
+                "ro": "Distanțe scurte între locurile de parcare și obiective.",
+                "en": "Short distances between parking spots and attractions."
+              }
+            },
+            {
+              "name": "Bobbin Lace Museum (Cluster B)",
+              "tip_5lang": {
+                "de": "Im Winter sind die Parkplätze im Zentrum weniger ausgelastet.",
+                "hu": "Télen a belvárosi parkolók kevésbé telítettek.",
+                "ro": "Parcările din centru sunt mai puțin aglomerate iarna.",
+                "en": "Central parking is less crowded during the winter season."
+              }
+            },
+            {
+              "name": "16th Century Ship Replica (Cluster B)",
+              "tip_5lang": {
+                "de": "Der Hafenparkplatz bietet einen tollen Blick auf das beleuchtete Schiff.",
+                "hu": "A kikötői parkolóból remek kilátás nyílik a kivilágított hajóra.",
+                "ro": "Parcarea din port oferă o vedere excelentă asupra navei iluminate.",
+                "en": "The harbor parking offers a great view of the illuminated ship."
+              }
+            },
+            {
+              "name": "Forno Beach (Cluster C)",
+              "tip_5lang": {
+                "de": "Bester Platz für den Sonnenuntergang bequem vom Fahrersitz aus.",
+                "hu": "A legjobb hely a naplemente megtekintéséhez a vezetőülésből.",
+                "ro": "Cel mai bun loc pentru apus, văzut comod din scaunul șoferului.",
+                "en": "Best spot for sunset, seen comfortably from the driver's seat."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Parkplatzsuche ist im Winter deutlich entspannter.",
+              "Achten Sie auf tiefstehende Sonne beim Fahren am Nachmittag.",
+              "Die Heizung im Auto macht die Pausen zwischen den Stopps angenehm.",
+              "Die Küstenstraße kann im Winter windanfällig sein.",
+              "Planen Sie die Rückfahrt vor Einbruch der Dunkelheit (ca. 18:00 Uhr)."
+            ],
+            "hu": [
+              "A parkolóhely-keresés télen sokkal nyugodtabb.",
+              "Vezetéskor figyeljen az alacsonyan járó napra délután.",
+              "Az autó fűtése kellemessé teszi a megállók közötti szüneteket.",
+              "A parti út télen elég szeles lehet.",
+              "A visszautat tervezze a sötétedés beállta (kb. 18:00) elé."
+            ],
+            "ro": [
+              "Găsirea unui loc de parcare este mult mai relaxantă iarna.",
+              "Atenție la soarele jos când conduceți după-amiaza.",
+              "Încălzirea din mașină face pauzele între opriri plăcute.",
+              "Drumul de coastă poate fi expus vântului iarna.",
+              "Planificați drumul de întoarcere înainte de lăsarea întunericului (cca. 18:00)."
+            ],
+            "en": [
+              "Finding a parking spot is much more relaxed in winter.",
+              "Watch out for the low sun while driving in the afternoon.",
+              "The car's heating makes breaks between stops very pleasant.",
+              "The coastal road can be quite windy during winter months.",
+              "Plan your drive back before it gets dark (around 6 PM)."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1432,6 +2038,196 @@
           "Metro line B connects Vila do Conde directly to Porto's city center.",
           "Keep small change handy for bus tickets bought from the driver."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem öffentlichen Nahverkehr erkunden wir Vila do Conde trocken und effizient. Den Morgen verbringen wir im historischen Zentrum, geschützt in Museen und Kirchen. Mittags nutzen wir kurze Wege zur Nau-Replik und dem Hafenmuseum. Am Nachmittag bringen uns die Busse zum Kloster und Aquädukt, wo wir die Architektur trotz Regen bewundern. Der Tag endet an der Küste, gut geschützt in den verglasten Wartebereichen oder Cafés.",
+            "hu": "Tömegközlekedéssel szárazon és hatékonyan fedezzük fel Vila do Condét. A reggelt a történelmi központban töltjük, múzeumokba és templomokba húzódva. Délben rövid sétákkal érjük el a hajómásolatot és a kikötői múzeumot. Délután buszokkal megyünk a kolostorhoz és az akvedukthoz. A nap a parton ér véget, jól védve az üvegezett várókban vagy parti kávézókban.",
+            "ro": "Cu transportul public explorăm Vila do Conde la uscat și eficient. Dimineața o petrecem în centrul istoric, protejați de muzee și biserici. La prânz parcurgem distanțe scurte spre nava istorică și muzeul portului. După-amiaza autobuzele ne duc spre mănăstire și apeduct. Ziua se încheie pe coastă, protejați de stațiile vitrate sau de cafenelele de pe plajă.",
+            "en": "Using public transport, we explore Vila do Conde dry and efficiently. We spend the morning in the historic center, sheltered in museums and churches. At midday, we take short walks to the ship replica and harbor museum. In the afternoon, buses take us to the monastery and aqueduct. The day ends on the coast, well-protected in glass shelters or beachfront cafes."
+          },
+          "stops": [
+            {
+              "name": "Historic Center (Cluster A)",
+              "tip_5lang": {
+                "de": "Zentrale Haltestelle mit gutem Regenschutz in der Nähe.",
+                "hu": "Központi megálló, közelben jó esővédett helyekkel.",
+                "ro": "Stație centrală cu adăpost bun contra ploii în apropiere.",
+                "en": "Central stop with good rain shelter nearby."
+              }
+            },
+            {
+              "name": "Bobbin Lace Museum (Cluster A)",
+              "tip_5lang": {
+                "de": "Wenige Meter von der Bushaltestelle entfernt.",
+                "hu": "Csak pár méterre a buszmegállótól.",
+                "ro": "La doar câțiva metri distanță de stația de autobuz.",
+                "en": "Only a few meters away from the bus stop."
+              }
+            },
+            {
+              "name": "16th Century Ship Replica (Cluster A)",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Bereich am Hafen beim Warten.",
+                "hu": "Használja a kikötő fedett részeit várakozás közben.",
+                "ro": "Folosiți zonele acoperite din port în timp ce așteptați.",
+                "en": "Use the covered areas at the harbor while waiting."
+              }
+            },
+            {
+              "name": "Monastery of Santa Clara (Cluster B)",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle liegt fast direkt vor dem Eingang.",
+                "hu": "A buszmegálló szinte közvetlenül a bejáratnál van.",
+                "ro": "Stația de autobuz este aproape direct în fața intrării.",
+                "en": "The bus stop is located almost directly in front of the entrance."
+              }
+            },
+            {
+              "name": "Aqueduct of Vila do Conde (Cluster B)",
+              "tip_5lang": {
+                "de": "Vom Bus aus hat man bereits einen tollen Blick auf den Aquädukt.",
+                "hu": "A buszról is remek kilátás nyílik az akveduktra.",
+                "ro": "Din autobuz aveți deja o vedere excelentă asupra apeductului.",
+                "en": "You can already get a great view of the aqueduct from the bus."
+              }
+            },
+            {
+              "name": "Forno Beach (Cluster C)",
+              "tip_5lang": {
+                "de": "Die Endstation am Strand hat oft wetterfeste Unterstände.",
+                "hu": "A strandnál lévő végállomásnak gyakran van esővédett várója.",
+                "ro": "Capătul de linie de la plajă are adesea adăposturi rezistente.",
+                "en": "The beach terminal often has weather-proof shelters."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie die Fahrpläne online, um Wartezeiten im Regen zu vermeiden.",
+              "Die U-Bahn (Metro do Porto) verbindet wichtige Punkte im Stadtgebiet.",
+              "Haben Sie Kleingeld oder eine Karte für den Ticketkauf bereit.",
+              "Busse sind im Winter oft angenehm beheizt.",
+              "Zentrale Knotenpunkte bieten die besten Umsteigemöglichkeiten im Trockenen."
+            ],
+            "hu": [
+              "Ellenőrizze a menetrendet online, hogy ne kelljen sokat ázni várakozáskor.",
+              "A portói metró fontos pontokat köt össze a város területén.",
+              "Készítsen elő aprópénzt vagy kártyát a jegyvásárláshoz.",
+              "A buszok télen gyakran kellemesen fűtöttek.",
+              "A központi csomópontok kínálják a legjobb fedett átszállási lehetőségeket."
+            ],
+            "ro": [
+              "Verificați orarul online pentru a evita așteptarea lungă în ploaie.",
+              "Metroul din Porto conectează puncte importante din oraș.",
+              "Pregătiți mărunțiș sau un card pentru achiziționarea biletelor.",
+              "Autobuzele sunt adesea încălzite plăcut pe timp de iarnă.",
+              "Nodurile centrale oferă cele mai bune opțiuni de transfer la adăpost."
+            ],
+            "en": [
+              "Check schedules online to minimize waiting time in the rain.",
+              "Metro do Porto connects key points within the city area.",
+              "Have change or a card ready for ticket purchases.",
+              "Buses are often pleasantly heated during winter.",
+              "Central hubs offer the best sheltered transfer options."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Winterausflug mit Bus und Bahn zeigt Vila do Conde von seiner ruhigen Seite. Morgens besuchen wir die historischen Gebäude im Zentrum. Mittags erkunden wir die maritimen Schätze, bevor uns der Nahverkehr zu den höhergelegenen Zielen wie dem Kloster bringt. Den Nachmittag genießen wir am Strand bei klarer Winterluft, wobei die Rückfahrt mit der Bahn einen warmen Abschluss bietet, während es draußen dunkel wird.",
+            "hu": "A téli kirándulás busszal és metróval Vila do Conde nyugodt arcát mutatja. Reggel a központ történelmi épületeit látogatjuk meg. Délben a tengerészeti kincseket fedezzük fel, mielőtt a közlekedés felvisz minket a kolostorhoz. A délutánt a parton töltjük a friss téli levegőn, majd a meleg vagonokban utazunk haza, ahogy odakint besötétedik.",
+            "ro": "O excursie de iarnă cu autobuzul și metroul arată latura liniștită a orașului Vila do Conde. Dimineața vizităm clădirile istorice din centru. La prânz explorăm comorile maritime înainte ca transportul să ne ducă spre mănăstire. După-amiaza o petrecem pe plajă în aerul curat de iarnă, iar drumul de întoarcere oferă un final călduros în timp ce afară se întunecă.",
+            "en": "A winter trip by bus and metro shows the quiet side of Vila do Conde. In the morning, we visit the historic buildings in the center. At midday, we explore maritime treasures before transit takes us to higher spots like the monastery. We enjoy the afternoon at the beach in the crisp winter air, and the ride back provides a warm finish as it gets dark outside."
+          },
+          "stops": [
+            {
+              "name": "Historic Center (Cluster A)",
+              "tip_5lang": {
+                "de": "Genießen Sie den kurzen Spaziergang in der klaren Wintermorgenluft.",
+                "hu": "Élvezze a rövid sétát a tiszta téli reggeli levegőben.",
+                "ro": "Bucurați-vă de plimbarea scurtă în aerul curat de dimineață.",
+                "en": "Enjoy the short walk in the crisp winter morning air."
+              }
+            },
+            {
+              "name": "Bobbin Lace Museum (Cluster A)",
+              "tip_5lang": {
+                "de": "Ein warmer Zwischenstopp zwischen den Busfahrten.",
+                "hu": "Egy meleg köztes megálló a buszutak között.",
+                "ro": "O oprire călduroasă între călătoriile cu autobuzul.",
+                "en": "A warm stopover between bus rides."
+              }
+            },
+            {
+              "name": "16th Century Ship Replica (Cluster A)",
+              "tip_5lang": {
+                "de": "Gute Anbindung an das Verkehrsnetz direkt am Hafen.",
+                "hu": "Jó tömegközlekedési kapcsolatok közvetlenül a kikötőnél.",
+                "ro": "Conexiuni bune la rețeaua de transport chiar în port.",
+                "en": "Good transit connections right by the harbor."
+              }
+            },
+            {
+              "name": "Monastery of Santa Clara (Cluster B)",
+              "tip_5lang": {
+                "de": "Sparen Sie sich den steilen Aufstieg im Winter durch die Busfahrt.",
+                "hu": "Spórolja meg a meredek téli emelkedőt a busz használatával.",
+                "ro": "Evitați urcușul abrupt iarna folosind autobuzul.",
+                "en": "Save yourself the steep winter climb by taking the bus."
+              }
+            },
+            {
+              "name": "Aqueduct of Vila do Conde (Cluster B)",
+              "tip_5lang": {
+                "de": "Die Haltestellen sind gut beleuchtet, falls es früh dunkel wird.",
+                "hu": "A megállók jól kivilágítottak, ha korán sötétedne.",
+                "ro": "Stațiile sunt bine iluminate în caz că se întunecă devreme.",
+                "en": "Stops are well-lit in case it gets dark early."
+              }
+            },
+            {
+              "name": "Forno Beach (Cluster C)",
+              "tip_5lang": {
+                "de": "Nutzen Sie den letzten Bus vor 18:00 Uhr für die Rückfahrt.",
+                "hu": "Használja az utolsó buszt 18:00 előtt a visszainduláshoz.",
+                "ro": "Folosiți ultimul autobuz înainte de ora 18:00 pentru întoarcere.",
+                "en": "Take the last bus before 6 PM for your return journey."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Im Winter verkehren manche Linien seltener, Fahrplan prüfen.",
+              "Die Metro do Porto ist eine warme und schnelle Alternative.",
+              "Tragen Sie warme Kleidung für die Wartezeiten an den Haltestellen.",
+              "Abends ist die Beleuchtung im Stadtzentrum besonders stimmungsvoll.",
+              "Kombinieren Sie Bus und Metro für maximale Flexibilität."
+            ],
+            "hu": [
+              "Télen egyes járatok ritkábban járhatnak, ellenőrizze a menetrendet.",
+              "A portói metró meleg és gyors alternatíva a városon belül.",
+              "Viseljen meleg ruhát a megállókban való várakozáshoz.",
+              "Este a belváros kivilágítása különleges hangulatot áraszt.",
+              "Kombinálja a buszt és a metrót a maximális rugalmasságért."
+            ],
+            "ro": [
+              "Iarna unele linii pot circula mai rar, verificați orarul.",
+              "Metroul din Porto este o alternativă caldă și rapidă.",
+              "Purtați haine groase pentru perioadele de așteptare în stații.",
+              "Seara iluminatul din centrul orașului este foarte atmosferic.",
+              "Combinați autobuzul și metroul pentru flexibilitate maximă."
+            ],
+            "en": [
+              "Some lines may run less frequently in winter; check the timetable.",
+              "The Porto Metro is a warm and fast alternative within the city.",
+              "Wear warm clothing for waiting times at the stops.",
+              "Evening lighting in the city center is very atmospheric.",
+              "Combine bus and metro for maximum flexibility."
+            ]
+          }
+        }
       }
     }
   }

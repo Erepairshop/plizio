@@ -386,6 +386,206 @@
           "Most sights are within easy walking distance of each other.",
           "Plan for a siesta break in the afternoon, as some smaller shops and sights might close."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag im Colegio de Santo Domingo, dessen Renaissance-Kreuzgänge auch bei Regen Schutz und eine beeindruckende Atmosphäre bieten. Mittags führt der Weg durch die engen Gassen zur Kathedrale und zum Reconquista-Museum, wo Sie die Geschichte der Stadt im Trockenen vertiefen. Nachmittags besuchen Sie das Haus von Miguel Hernández. Der Tag endet mit einem kurzen, erfrischenden Spaziergang durch den regenfeuchten Palmenhain, bevor Sie in einem lokalen Café einkehren.",
+            "hu": "A napot a Santo Domingo kollégiumban kezdjük, ahol a reneszánsz kerengők kiváló menedéket nyújtanak az eső elől. Délben a katedrális és a Reconquista múzeum belső tereiben merülünk el a város történelmében. Délután Miguel Hernández egykori lakóháza vár, amely meghitt hangulatot áraszt a kopogó esőben. A napot a pálmaliget friss, eső illatú levegőjén zárjuk, majd egy közeli kávézóban melegszünk fel.",
+            "ro": "Începeți ziua la Colegiul Santo Domingo, unde arcadele renascentiste oferă adăpost împotriva ploii. La prânz, vizitați Catedrala și Muzeul Reconquista, explorând istoria locală în spații interioare protejate. După-amiaza este dedicată casei-muzeu Miguel Hernández, un spațiu intim și plin de poezie. Încheiați ziua cu o scurtă plimbare prin livada de palmieri, unde mirosul pământului reavăn completează atmosfera, înainte de a vă retrage la un ceai cald.",
+            "en": "Start your day at Santo Domingo College, using its Renaissance cloisters as a beautiful refuge from the rain. At midday, head to the Cathedral and the Reconquista Museum to explore Orihuela's heritage in dry, indoor comfort. Spend the afternoon at the Miguel Hernández House-Museum, feeling the poetic atmosphere of the rain. Finish with a quick walk through the refreshed Palm Grove before finding a cozy spot for dinner in the historic center."
+          },
+          "stops": [
+            {
+              "name": "Santo Domingo College",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden des Kreuzgangs als Regenschutz.",
+                "hu": "A kerengő árkádjai alatt szárazon maradhat a nézelődés közben.",
+                "ro": "Folosiți arcadele claustrului pentru a vă adăposti de ploaie.",
+                "en": "Use the cloister arcades to stay dry while admiring the architecture."
+              }
+            },
+            {
+              "name": "Miguel Hernández House-Museum",
+              "tip_5lang": {
+                "de": "Der kleine Garten ist bei leichtem Regen besonders stimmungsvoll.",
+                "hu": "A kis kert az esőben különlegesen melankolikus hangulatot áraszt.",
+                "ro": "Grădina mică este foarte sugestivă sub o ploaie ușoară.",
+                "en": "The small garden is particularly atmospheric under light rain."
+              }
+            },
+            {
+              "name": "Church of Saints Justa and Rufina",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Innendetails, während es draußen regnet.",
+                "hu": "Csodálja meg a belső részleteket, amíg kint esik az eső.",
+                "ro": "Admirați detaliile interioare în timp ce afară plouă.",
+                "en": "Focus on the interior details while waiting out a shower."
+              }
+            },
+            {
+              "name": "Museum of the Reconquista",
+              "tip_5lang": {
+                "de": "Planen Sie hier mehr Zeit ein, da es komplett überdacht ist.",
+                "hu": "Töltsön itt több időt, mivel az egész kiállítás fedett.",
+                "ro": "Acordați mai mult timp aici, fiind un spațiu complet acoperit.",
+                "en": "Spend more time here as the entire exhibition is indoors."
+              }
+            },
+            {
+              "name": "Orihuela Cathedral",
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um die gotische Architektur im Trockenen zu sehen.",
+                "hu": "Tökéletes hely a gótikus építészet felfedezésére szárazon.",
+                "ro": "Un loc perfect pentru a explora arhitectura gotică la adăpost.",
+                "en": "A perfect spot to explore Gothic architecture away from the rain."
+              }
+            },
+            {
+              "name": "Rubalcava Palace",
+              "tip_5lang": {
+                "de": "Die prunkvollen Säle bieten Schutz und Eleganz zugleich.",
+                "hu": "A díszes termek egyszerre nyújtanak védelmet és eleganciát.",
+                "ro": "Sălile fastuoase oferă protecție și eleganță în același timp.",
+                "en": "The opulent rooms provide both shelter and elegance."
+              }
+            },
+            {
+              "name": "Palm Grove of Orihuela",
+              "tip_5lang": {
+                "de": "Vorsicht vor rutschigen Wegen unter den Palmen.",
+                "hu": "Vigyázzon a csúszós ösvényekkel a pálmák alatt.",
+                "ro": "Atenție la potecile alunecoase de sub palmieri.",
+                "en": "Watch out for slippery paths under the palm trees."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für die Kopfsteinpflastergassen.",
+              "Nutzen Sie die Museen für längere Regenpausen.",
+              "Ein stabiler Regenschirm ist wegen möglicher Windböen ratsam.",
+              "Kombinieren Sie die Besuche der Kirchen, da diese nah beieinander liegen."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a macskaköves utcák miatt.",
+              "Használja ki a múzeumi látogatásokat a hosszabb esőszünetekre.",
+              "Erős esernyő ajánlott a szél miatt.",
+              "A templomok közelsége segít, hogy keveset kelljen az esőben gyalogolni."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru străzile pietruite.",
+              "Profitate de vizitele la muzee în timpul averselor prelungite.",
+              "O umbrelă rezistentă este recomandată din cauza vântului.",
+              "Bisericile sunt aproape una de alta, minimizând timpul petrecut în ploaie."
+            ],
+            "en": [
+              "Wear waterproof shoes for the cobblestone streets.",
+              "Use museum visits to wait out the heavier rain showers.",
+              "A sturdy umbrella is recommended due to potential wind gusts.",
+              "The proximity of churches allows for quick dashes between stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die milde Wintersonne am Colegio de Santo Domingo. Mittags ist das Licht in der Kathedrale besonders klar und hebt die gotischen Details hervor. Nachmittags bietet das Museum der Reconquista eine warme Pause, bevor Sie das Haus von Miguel Hernández besuchen. Da die Sonne gegen 17:45 Uhr untergeht, sollten Sie den Palmenhain rechtzeitig erreichen, um das goldene Licht zwischen den Dattelpalmen zu erleben, bevor die kühle Abendluft einsetzt.",
+            "hu": "Élvezze a lágy téli napsütést a Santo Domingo kollégiumnál. Délben a katedrális fényei különösen tiszták, kiemelve a gótikus részleteket. Délután a Reconquista múzeum nyújt kellemes pihenőt a hűvösebb szél elől, mielőtt felkeresi Miguel Hernández házát. Mivel a nap 17:45 körül nyugszik, érdemes időben a pálmaligetbe érni, hogy elcsípje az aranyló fényeket a fák között, mielőtt lehűl az este.",
+            "ro": "Bucurați-vă de soarele blând de iarnă la Colegiul Santo Domingo. La prânz, lumina din Catedrală este deosebit de clară, evidențiind detaliile gotice. După-amiaza, Muzeul Reconquista oferă o pauză caldă înainte de a vizita casa lui Miguel Hernández. Deoarece soarele apune în jur de 17:45, ajungeți la livada de palmieri la timp pentru a surprinde lumina aurie printre copaci înainte de răcoarea serii.",
+            "en": "Enjoy the mild winter sun starting at Santo Domingo College. At midday, the winter light in the Cathedral is exceptionally clear, highlighting the Gothic stonework. Afternoon is perfect for the Reconquista Museum and Miguel Hernández's home. Since the sun sets around 17:45, make sure to reach the Palm Grove in time to witness the golden hour through the fronds before the evening air turns crisp."
+          },
+          "stops": [
+            {
+              "name": "Santo Domingo College",
+              "tip_5lang": {
+                "de": "Das Licht im Kreuzgang ist im Winter ideal für Fotos.",
+                "hu": "A kerengő fényei télen ideálisak a fotózáshoz.",
+                "ro": "Lumina din claustru este ideală pentru fotografii pe timp de iarnă.",
+                "en": "The winter light in the cloister is perfect for photography."
+              }
+            },
+            {
+              "name": "Miguel Hernández House-Museum",
+              "tip_5lang": {
+                "de": "Die niedrige Sonne beleuchtet den Innenhof sehr schön.",
+                "hu": "Az alacsonyan járó nap szépen világítja meg a belső udvart.",
+                "ro": "Soarele de iarnă luminează foarte frumos curtea interioară.",
+                "en": "The low winter sun illuminates the courtyard beautifully."
+              }
+            },
+            {
+              "name": "Church of Saints Justa and Rufina",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche mittags, wenn es draußen am wärmsten ist.",
+                "hu": "Délben látogassa meg, amikor kint a legmelegebb az idő.",
+                "ro": "Vizitați biserica la prânz, când este cel mai cald afară.",
+                "en": "Visit at midday when the outdoor temperature is at its peak."
+              }
+            },
+            {
+              "name": "Museum of the Reconquista",
+              "tip_5lang": {
+                "de": "Ein guter Ort, um sich zwischen den Spaziergängen aufzuwärmen.",
+                "hu": "Jó hely a felmelegedésre a séták között.",
+                "ro": "Un loc bun pentru a vă încălzi între plimbări.",
+                "en": "A good place to warm up between outdoor walks."
+              }
+            },
+            {
+              "name": "Orihuela Cathedral",
+              "tip_5lang": {
+                "de": "Achten Sie auf die kühleren Temperaturen im Inneren der Kathedrale.",
+                "hu": "Figyeljen oda, a katedrális belseje télen hűvös lehet.",
+                "ro": "Interiorul catedralei poate fi răcoros iarna; îmbrăcați-vă corespunzător.",
+                "en": "The cathedral interior can be quite chilly in winter."
+              }
+            },
+            {
+              "name": "Rubalcava Palace",
+              "tip_5lang": {
+                "de": "Die Innenbesichtigung ist perfekt für den kühleren Nachmittag.",
+                "hu": "A belső látogatás tökéletes a hűvösebb délutánra.",
+                "ro": "Vizitarea interiorului este perfectă pentru după-amiaza răcoroasă.",
+                "en": "Indoor visiting is ideal for the cooler afternoon hours."
+              }
+            },
+            {
+              "name": "Palm Grove of Orihuela",
+              "tip_5lang": {
+                "de": "Besuch vor 17:30 Uhr planen, um das Tageslicht zu nutzen.",
+                "hu": "Tervezze a látogatást 17:30 előtt, hogy lásson is valamit.",
+                "ro": "Planificați vizita înainte de 17:30 pentru a profita de lumină.",
+                "en": "Plan your visit before 17:30 to make use of the daylight."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich im Zwiebelprinzip für warme Sonne und kühlen Schatten.",
+              "Die Sonne verschwindet früh hinter den Bergen.",
+              "Nutzen Sie die Mittagsstunden für Außenaktivitäten.",
+              "Kirchen können im Winter sehr kalt sein."
+            ],
+            "hu": [
+              "Öltözködjön rétegesen a napos és árnyékos helyek váltakozása miatt.",
+              "A nap korán eltűnik a hegyek mögött.",
+              "A déli órákat használja a szabadtéri programokra.",
+              "A templomok belseje télen nagyon hideg lehet."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi pentru alternanța dintre soare și umbră.",
+              "Soarele dispare devreme în spatele munților.",
+              "Folosiți orele amiezii pentru activități în aer liber.",
+              "Bisericile pot fi foarte reci în interior pe timp de iarnă."
+            ],
+            "en": [
+              "Dress in layers to adjust between warm sun and cool shade.",
+              "The sun sets early behind the nearby mountains.",
+              "Utilize the midday hours for your outdoor strolls.",
+              "Church interiors can be significantly colder than the outside air."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -790,6 +990,224 @@
           "The old town has narrow streets; be considerate of pedestrians.",
           "Some areas, like the path up to the castle, may require you to get off and push your bike."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen beginnt am Palmenhain, wo die Bäume teilweisen Schutz bieten. Über Miguel Hernández' Haus radeln Sie zur Kathedrale und zum Reconquista-Museum, um längere Pausen im Trockenen einzulegen. Das Rubalcava-Palais und das Colegio de Santo Domingo sind ideale Ziele, um die Räder sicher abzustellen und die Pracht im Inneren zu bewundern. Trotz des Regens bleibt die Route flach und gut befahrbar, wobei der Tag am Schloss endet, falls die Wolken aufreißen.",
+            "hu": "Az esős kerékpártúra a pálmaligetben indul, ahol a lombok némi védelmet nyújtanak. Miguel Hernández háza után a katedrális és a Reconquista múzeum felé vesszük az irányt, hosszabb fedett megállókat tartva. A Rubalcava palota és a Santo Domingo kollégium ideális helyek a biciklik leállítására és a belső terek felfedezésére. Az eső ellenére az útvonal sík és jól járható, a napot pedig a várnál zárjuk, ha az égbolt is engedi.",
+            "ro": "Turul cu bicicleta pe ploaie începe în livada de palmieri, unde frunzișul oferă o protecție parțială. După casa lui Miguel Hernández, pedalați spre Catedrală și Muzeul Reconquista pentru pauze lungi la adăpost. Palatul Rubalcava și Colegiul Santo Domingo sunt puncte ideale pentru a lăsa bicicletele și a admira interiorul. În ciuda ploii, traseul este plat și accesibil, încheind ziua la castel dacă vremea permite.",
+            "en": "A rainy bike tour starts in the Palm Grove, where the canopy offers some natural cover. Cycle past Miguel Hernández's house to the Cathedral and Reconquista Museum for extended indoor breaks. Rubalcava Palace and Santo Domingo College are perfect stops to park the bikes and enjoy the interior splendor. Despite the rain, the flat route remains easy to navigate, finishing at the Castle if the clouds break in the late afternoon."
+          },
+          "stops": [
+            {
+              "name": "Palm Grove of Orihuela",
+              "tip_5lang": {
+                "de": "Achten Sie auf nasse Blätter auf dem Radweg.",
+                "hu": "Vigyázzon a vizes levelekre a kerékpárúton.",
+                "ro": "Atenție la frunzele ude de pe pista de biciclete.",
+                "en": "Watch out for wet leaves on the bike path."
+              }
+            },
+            {
+              "name": "Miguel Hernández House-Museum",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad unter einem Vordach in der Nähe ab.",
+                "hu": "Parkoljon a biciklivel egy közeli előtető alatt.",
+                "ro": "Parcați bicicleta sub o copertină din apropiere.",
+                "en": "Park your bike under a nearby overhang."
+              }
+            },
+            {
+              "name": "Orihuela Cathedral",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Halt für eine Trockenpause.",
+                "hu": "Használja ki a megállót egy kis száradásra.",
+                "ro": "Folosiți oprirea pentru a vă usca puțin.",
+                "en": "Use this stop to dry off and enjoy the art."
+              }
+            },
+            {
+              "name": "Church of Saints Justa and Rufina",
+              "tip_5lang": {
+                "de": "Vorsicht beim Absteigen auf nassem Pflaster.",
+                "hu": "Vigyázzon a leszállásnál a vizes kövezeten.",
+                "ro": "Atenție la coborârea de pe bicicletă pe pavajul ud.",
+                "en": "Be careful when dismounting on wet pavement."
+              }
+            },
+            {
+              "name": "Museum of the Reconquista",
+              "tip_5lang": {
+                "de": "Sicherer Abstellplatz für Fahrräder in der Umgebung.",
+                "hu": "Biztonságos kerékpártárolók a közelben.",
+                "ro": "Locuri sigure de parcare pentru biciclete în zonă.",
+                "en": "Look for secure bike parking in the vicinity."
+              }
+            },
+            {
+              "name": "Rubalcava Palace",
+              "tip_5lang": {
+                "de": "Die Besichtigung dauert ca. 60 Min., ideal bei Regen.",
+                "hu": "A látogatás kb. 60 perc, ideális esőben.",
+                "ro": "Vizita durează aproximativ 60 de minute, ideal pe ploaie.",
+                "en": "The visit takes about 60 mins, ideal during a downpour."
+              }
+            },
+            {
+              "name": "Santo Domingo College",
+              "tip_5lang": {
+                "de": "Schutz im Eingangsbereich des Kollegs suchen.",
+                "hu": "Keressen menedéket a kollégium bejáratánál.",
+                "ro": "Căutați adăpost la intrarea colegiului.",
+                "en": "Seek shelter at the entrance of the college."
+              }
+            },
+            {
+              "name": "Castle of Orihuela",
+              "tip_5lang": {
+                "de": "Der Aufstieg kann bei starkem Regen rutschig sein.",
+                "hu": "Az emelkedő erős esőben csúszós lehet.",
+                "ro": "Urcarea poate fi alunecoasă pe ploaie puternică.",
+                "en": "The uphill path can be slippery during heavy rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine gute Regenjacke und wasserfeste Hosen.",
+              "Vermeiden Sie schnelle Kurven auf nassem Kopfsteinpflaster.",
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt vom Schloss.",
+              "Nutzen Sie Fahrradständer in der Nähe von Museen."
+            ],
+            "hu": [
+              "Viseljen jó esőkabátot és vízálló nadrágot.",
+              "Kerülje a hirtelen kanyarodást a vizes macskakövön.",
+              "Ellenőrizze a fékeket a várból való leereszkedés előtt.",
+              "Használja a múzeumok közeli kerékpártárolóit."
+            ],
+            "ro": [
+              "Purtați o jachetă de ploaie bună și pantaloni impermeabili.",
+              "Evitați virajele bruște pe pavajul ud.",
+              "Verificați frânele înainte de a coborî de la castel.",
+              "Folosiți suporturile de biciclete de lângă muzee."
+            ],
+            "en": [
+              "Wear a high-quality raincoat and waterproof trousers.",
+              "Avoid sharp turns on wet cobblestones.",
+              "Check your brakes before descending from the castle area.",
+              "Utilize bike racks located near the major museums."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen ist ideal für eine Radtour zum Palmenhain, solange die Luft frisch ist. Nach dem Besuch von Miguel Hernández' Haus geht es weiter zur Kathedrale und zur Kirche Justa y Rufina. Mittags bietet das Reconquista-Museum eine willkommene Aufwärmpause. Nach dem Rubalcava-Palais und dem Colegio de Santo Domingo folgt der sportliche Aufstieg zum Schloss. Oben angekommen belohnt die klare Winterfernicht über das Segura-Tal für die Mühen, bevor es vor der Dämmerung zurückgeht.",
+            "hu": "A téli reggel ideális a pálmaligeti tekeréshez, amíg friss a levegő. Miguel Hernández háza után a katedrális és a Justa y Rufina templom felé vesszük az irányt. Délben a Reconquista múzeum kínál kellemes pihenőt. A Rubalcava palota és a Santo Domingo kollégium után következik a várhoz vezető emelkedő. Felérve a tiszta téli kilátás a Segura-völgyre kárpótol a fáradtságért, még a szürkület beállta előtt.",
+            "ro": "Dimineața de iarnă este ideală pentru o plimbare cu bicicleta spre livada de palmieri. După casa lui Miguel Hernández, continuați spre Catedrală și biserica Justa y Rufina. La prânz, Muzeul Reconquista oferă o pauză binemeritată. După Palatul Rubalcava și Colegiul Santo Domingo, urmează urcarea spre castel. Odată ajunși sus, vederea clară de iarnă asupra văii Segura merită tot efortul înainte de lăsarea serii.",
+            "en": "The winter morning is perfect for cycling to the Palm Grove while the air is crisp. After Miguel Hernández’s house, continue to the Cathedral and Justa y Rufina church. Midday at the Reconquista Museum provides a warm break. Following the Rubalcava Palace and Santo Domingo College, take on the climb to the Castle. The clear winter views over the Segura Valley are your reward before heading back as the early dusk approaches."
+          },
+          "stops": [
+            {
+              "name": "Palm Grove of Orihuela",
+              "tip_5lang": {
+                "de": "Die Morgenluft im Hain kann im Winter sehr kühl sein.",
+                "hu": "A liget reggeli levegője télen nagyon hűvös lehet.",
+                "ro": "Aerul dimineții în livadă poate fi foarte rece iarna.",
+                "en": "The morning air in the grove can be quite chilly in winter."
+              }
+            },
+            {
+              "name": "Miguel Hernández House-Museum",
+              "tip_5lang": {
+                "de": "Handschuhe beim Radfahren zwischen den Stopps tragen.",
+                "hu": "Viseljen kesztyűt a megállók közötti tekeréshez.",
+                "ro": "Purtați mănuși când pedalați între obiective.",
+                "en": "Wear gloves while cycling between the stops."
+              }
+            },
+            {
+              "name": "Orihuela Cathedral",
+              "tip_5lang": {
+                "de": "Klares Winterlicht durch die Fenster bewundern.",
+                "hu": "Csodálja meg a tiszta téli fényt az ablakokon át.",
+                "ro": "Admirați lumina clară de iarnă prin ferestre.",
+                "en": "Admire the clear winter light through the windows."
+              }
+            },
+            {
+              "name": "Church of Saints Justa and Rufina",
+              "tip_5lang": {
+                "de": "Kurzer Stopp, um die Fassade im Sonnenlicht zu sehen.",
+                "hu": "Rövid megálló a homlokzat napsütötte részleteiért.",
+                "ro": "Oprire scurtă pentru a vedea fațada în lumina soarelui.",
+                "en": "Short stop to see the facade in the bright sunlight."
+              }
+            },
+            {
+              "name": "Museum of the Reconquista",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich hier während der Mittagspause auf.",
+                "hu": "Melegedjen fel itt az ebédszünet alatt.",
+                "ro": "Încălziți-vă aici în timpul pauzei de prânz.",
+                "en": "Warm up here during your midday break."
+              }
+            },
+            {
+              "name": "Rubalcava Palace",
+              "tip_5lang": {
+                "de": "Gute Fahrradständer direkt am Platz vorhanden.",
+                "hu": "Jó kerékpártárolók találhatók közvetlenül a téren.",
+                "ro": "Suporturi bune de biciclete chiar în piață.",
+                "en": "Good bike racks available directly in the square."
+              }
+            },
+            {
+              "name": "Santo Domingo College",
+              "tip_5lang": {
+                "de": "Planen Sie Zeit für den Innenhof ein.",
+                "hu": "Szánjon időt a belső udvarra.",
+                "ro": "Alocați timp pentru curtea interioară.",
+                "en": "Make sure to allow time for the inner courtyard."
+              }
+            },
+            {
+              "name": "Castle of Orihuela",
+              "tip_5lang": {
+                "de": "Nehmen Sie eine Jacke für die Abfahrt mit.",
+                "hu": "Vigyen magával kabátot a leereszkedéshez.",
+                "ro": "Luați o jachetă pentru coborâre.",
+                "en": "Bring a jacket for the downhill ride as it gets cold."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Handschuhe und Ohrenschutz sind für die Abfahrt vom Schloss wichtig.",
+              "Das Tageslicht endet gegen 18:00 Uhr.",
+              "Fahren Sie vorsichtig in schattigen Bereichen (Reifglätte möglich).",
+              "Trinken Sie ausreichend, auch wenn es kühler ist."
+            ],
+            "hu": [
+              "Kesztyű és fülvédő fontos a várból való leereszkedéshez.",
+              "A nappali fény 18:00 körül véget ér.",
+              "Vezessen óvatosan az árnyékos részeken (lehet zúzmara).",
+              "Igyon eleget akkor is, ha hűvösebb az idő."
+            ],
+            "ro": [
+              "Mănușile și protecția pentru urechi sunt importante la coborâre.",
+              "Lumina zilei se termină în jur de ora 18:00.",
+              "Conduceți cu prudență în zonele umbrite.",
+              "Hidratați-vă suficient, chiar dacă este mai răcoare."
+            ],
+            "en": [
+              "Gloves and ear protection are essential for the descent from the castle.",
+              "Daylight ends around 18:00, ensure your lights work.",
+              "Ride carefully in shaded areas where frost might linger.",
+              "Stay hydrated even if you don't feel thirsty in the cold."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1194,6 +1612,224 @@
           "Do not leave valuables visible in the car.",
           "The cluster strategy saves time and parking fees."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden Sie Orihuela bei Regen bequem und trocken. Starten Sie am Schloss, um den Ausblick aus dem Fahrzeug zu genießen, bevor Sie zum Colegio de Santo Domingo fahren. Die Kathedrale und die Kirche Justa y Rufina liegen nah beieinander, ideal für kurze Wege im Freien. Mittags bietet das Reconquista-Museum eine ausgiebige Innenbesichtigung. Nach dem Rubalcava-Palais und Miguel Hernández' Haus beenden Sie den Tag im Palmenhain, den Sie auch vom Auto aus bewundern können.",
+            "hu": "Autóval kényelmesen és szárazon fedezheti fel Orihuelát esőben is. Kezdje a várnál, élvezze a kilátást a kocsiból, majd hajtson a Santo Domingo kollégiumhoz. A katedrális és a Justa y Rufina templom közel vannak egymáshoz, így keveset kell az esőben gyalogolni. Délben a Reconquista múzeum kínál bőséges látnivalót fedett helyen. A Rubalcava palota és Miguel Hernández háza után a napot a pálmaligetnél zárhatja, amit akár az autóból is megcsodálhat.",
+            "ro": "Cu mașina, explorați Orihuela confortabil și uscat chiar și pe ploaie. Începeți la castel pentru a vă bucura de priveliște din vehicul, apoi mergeți la Colegiul Santo Domingo. Catedrala și biserica Justa y Rufina sunt aproape una de alta, reducând timpul petrecut afară. La prânz, Muzeul Reconquista oferă o vizită interioară bogată. După Palatul Rubalcava și casa lui Miguel Hernández, încheiați ziua la livada de palmieri, admirabilă și din mașină.",
+            "en": "Exploring Orihuela by car keeps you dry and comfortable during the rain. Start at the Castle for views from the vehicle before heading to Santo Domingo College. The Cathedral and Justa y Rufina church are close together, minimizing outdoor exposure. Midday is perfect for an extensive indoor visit to the Reconquista Museum. After Rubalcava Palace and Miguel Hernández’s home, finish the day at the Palm Grove, which can also be appreciated from your car."
+          },
+          "stops": [
+            {
+              "name": "Castle of Orihuela",
+              "tip_5lang": {
+                "de": "Gute Sicht vom Parkplatz aus, auch wenn es regnet.",
+                "hu": "Jó kilátás a parkolóból esőben is.",
+                "ro": "Priveliște bună din parcare, chiar dacă plouă.",
+                "en": "Good views from the parking area even if it rains."
+              }
+            },
+            {
+              "name": "Santo Domingo College",
+              "tip_5lang": {
+                "de": "Parkhaus 'Ocarasa' ist ca. 5 Min. Fußweg entfernt.",
+                "hu": "Az 'Ocarasa' parkolóház kb. 5 perc sétára van.",
+                "ro": "Parcarea 'Ocarasa' este la aproximativ 5 minute de mers pe jos.",
+                "en": "The 'Ocarasa' parking garage is a 5-min walk away."
+              }
+            },
+            {
+              "name": "Orihuela Cathedral",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parken in der blauen Zone direkt davor.",
+                "hu": "Használja a kék zónás parkolókat közvetlenül előtte.",
+                "ro": "Folosiți locurile de parcare din zona albastră de vizavi.",
+                "en": "Look for blue zone parking spots directly in front."
+              }
+            },
+            {
+              "name": "Church of Saints Justa and Rufina",
+              "tip_5lang": {
+                "de": "Kurzer Sprint vom Auto zum Kircheneingang.",
+                "hu": "Rövid sprint az autótól a templom bejáratáig.",
+                "ro": "Sprint scurt de la mașină până la intrarea în biserică.",
+                "en": "Quick dash from the car to the church entrance."
+              }
+            },
+            {
+              "name": "Museum of the Reconquista",
+              "tip_5lang": {
+                "de": "Zentrale Lage, gut erreichbar bei Regen.",
+                "hu": "Központi elhelyezkedés, esőben is jól megközelíthető.",
+                "ro": "Locație centrală, ușor accesibilă pe ploaie.",
+                "en": "Central location, easily accessible during a downpour."
+              }
+            },
+            {
+              "name": "Rubalcava Palace",
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe der Plaza de Santiago.",
+                "hu": "Parkoljon a Plaza de Santiago közelében.",
+                "ro": "Parcați în apropierea Plaza de Santiago.",
+                "en": "Park near Plaza de Santiago for easy access."
+              }
+            },
+            {
+              "name": "Miguel Hernández House-Museum",
+              "tip_5lang": {
+                "de": "Eingeschränkte Parkmöglichkeiten direkt am Haus.",
+                "hu": "Korlátozott parkolási lehetőség közvetlenül a háznál.",
+                "ro": "Locuri de parcare limitate direct lângă casă.",
+                "en": "Limited parking spots directly at the house."
+              }
+            },
+            {
+              "name": "Palm Grove of Orihuela",
+              "tip_5lang": {
+                "de": "Befahren Sie die Straßen rund um den Hain bei Regen.",
+                "hu": "Hajtson körbe a liget körüli utakon az esőben.",
+                "ro": "Conduceți pe străzile din jurul livezii pe ploaie.",
+                "en": "Drive along the perimeter roads to see the grove."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Pfützen in den tiefer gelegenen Straßen.",
+              "Parkhäuser bieten den besten Schutz beim Aussteigen.",
+              "Die Sicht kann bei starkem Regen am Schloss eingeschränkt sein.",
+              "Halten Sie Kleingeld für die Parkautomaten bereit."
+            ],
+            "hu": [
+              "Vigyázzon a tócsákra az alacsonyabban fekvő utcákban.",
+              "A parkolóházak nyújtják a legjobb védelmet kiszálláskor.",
+              "Erős esőben a kilátás korlátozott lehet a várnál.",
+              "Legyen Önnél aprópénz a parkolóautomatákhoz."
+            ],
+            "ro": [
+              "Atenție la bălțile de pe străzile joase.",
+              "Parcările etajate oferă cea mai bună protecție la coborâre.",
+              "Vizibilitatea poate fi limitată la castel pe ploaie puternică.",
+              "Aveți pregătite monede pentru aparatele de parcare."
+            ],
+            "en": [
+              "Be cautious of large puddles on low-lying streets.",
+              "Indoor parking garages offer the best shelter when exiting.",
+              "Visibility from the castle may be limited during heavy rain.",
+              "Keep loose change ready for the parking meters."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Autotour beginnt am Schloss, um das klare Panorama zu genießen. Weiter geht es zum Colegio de Santo Domingo und zur Kathedrale. Mittags bietet das Reconquista-Museum eine warme Atmosphäre. Nachmittags besuchen Sie den Rubalcava-Palais und das Haus von Miguel Hernández. Den Tag beenden Sie im Palmenhain. Im Winter ist das Parken oft einfacher als im Sommer, was die Besichtigung der historischen Altstadt sehr entspannt macht, besonders wenn die Abendkühle einsetzt.",
+            "hu": "A téli autós túra a várnál kezdődik, élvezve a tiszta panorámát. Ezután a Santo Domingo kollégium és a katedrális következik. Délben a Reconquista múzeum meleg hangulata várja. Délután a Rubalcava palotát és Miguel Hernández házát keressük fel. A napot a pálmaligetben zárjuk. Télen a parkolás gyakran egyszerűbb, mint nyáron, így az óváros felfedezése nagyon kényelmes, főleg amikor beáll az esti hűvös idő.",
+            "ro": "Turul auto de iarnă începe la castel pentru a admira panorama clară. Continuați spre Colegiul Santo Domingo și Catedrală. La prânz, Muzeul Reconquista vă întâmpină cu o atmosferă caldă. După-amiaza, vizitați Palatul Rubalcava și casa lui Miguel Hernández. Încheiați ziua în livada de palmieri. Iarna, parcarea este adesea mai ușoară decât vara, făcând explorarea centrului istoric foarte relaxantă.",
+            "en": "A winter car tour starts at the Castle to enjoy the clear panoramic views. Continue to Santo Domingo College and the Cathedral. Midday brings a warm atmosphere at the Reconquista Museum. In the afternoon, visit Rubalcava Palace and Miguel Hernández’s home. Finish your day at the Palm Grove. Parking is often easier in winter than summer, making your exploration of the historic center very relaxed as the evening chill sets in."
+          },
+          "stops": [
+            {
+              "name": "Castle of Orihuela",
+              "tip_5lang": {
+                "de": "Klares Licht für weite Fernsicht im Winter.",
+                "hu": "Tiszta fények a messzi kilátáshoz télen.",
+                "ro": "Lumină clară pentru o vizibilitate excelentă iarna.",
+                "en": "Clear light for long-distance visibility in winter."
+              }
+            },
+            {
+              "name": "Santo Domingo College",
+              "tip_5lang": {
+                "de": "Angenehme Temperaturen im Auto zwischen den Stopps.",
+                "hu": "Kellemes hőmérséklet a kocsiban a megállók között.",
+                "ro": "Temperatură plăcută în mașină între obiective.",
+                "en": "Enjoy the climate-controlled car between stops."
+              }
+            },
+            {
+              "name": "Orihuela Cathedral",
+              "tip_5lang": {
+                "de": "Parken Sie auf den markierten Flächen am Fluss.",
+                "hu": "Parkoljon a folyó menti kijelölt helyeken.",
+                "ro": "Parcați în locurile marcate de-a lungul râului.",
+                "en": "Park in the designated spaces along the river."
+              }
+            },
+            {
+              "name": "Church of Saints Justa and Rufina",
+              "tip_5lang": {
+                "de": "Die Fassade leuchtet in der tiefstehenden Wintersonne.",
+                "hu": "A homlokzat ragyog az alacsonyan járó téli napban.",
+                "ro": "Fațada strălucește în soarele jos de iarnă.",
+                "en": "The facade glows in the low-hanging winter sun."
+              }
+            },
+            {
+              "name": "Museum of the Reconquista",
+              "tip_5lang": {
+                "de": "Guter Stopp, um die Mittagssonne zu vermeiden.",
+                "hu": "Jó megálló a déli nap elkerülésére (ha túl erős).",
+                "ro": "Oprire bună pentru a evita soarele de la amiază.",
+                "en": "A good stop to enjoy some indoor warmth at midday."
+              }
+            },
+            {
+              "name": "Rubalcava Palace",
+              "tip_5lang": {
+                "de": "Zentrale Parkplätze sind im Winter leichter zu finden.",
+                "hu": "Központi parkolókat télen könnyebb találni.",
+                "ro": "Locurile de parcare centrale se găsesc mai ușor iarna.",
+                "en": "Central parking spots are easier to find in winter."
+              }
+            },
+            {
+              "name": "Miguel Hernández House-Museum",
+              "tip_5lang": {
+                "de": "Genießen Sie den kleinen Garten in der Winterruhe.",
+                "hu": "Élvezze a kis kert téli nyugalmát.",
+                "ro": "Bucurați-vă de liniștea de iarnă a grădinii mici.",
+                "en": "Enjoy the winter tranquility of the small garden."
+              }
+            },
+            {
+              "name": "Palm Grove of Orihuela",
+              "tip_5lang": {
+                "de": "Parken am Eingang des Hains ist problemlos.",
+                "hu": "A parkolás a liget bejáratánál problémamentes.",
+                "ro": "Parcarea la intrarea în livadă este fără probleme.",
+                "en": "Parking at the grove entrance is usually hassle-free."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Sitzheizung für die kurzen Fahrten.",
+              "Die Straßen in der Altstadt sind eng, fahren Sie vorsichtig.",
+              "Prüfen Sie die Öffnungszeiten, da einige Orte früher schließen.",
+              "Wintersonne kann beim Fahren zum Schloss blenden."
+            ],
+            "hu": [
+              "Használja az ülésfűtést a rövid utakra.",
+              "Az óváros utcái szűkek, vezessen óvatosan.",
+              "Ellenőrizze a nyitvatartást, néhány hely korábban zárhat.",
+              "A téli nap elvakíthat a vár felé menet."
+            ],
+            "ro": [
+              "Folosiți încălzirea în scaune pentru drumurile scurte.",
+              "Străzile din centrul vechi sunt înguste, conduceți cu atenție.",
+              "Verificați programul, unele locuri se închid mai devreme.",
+              "Soarele de iarnă poate fi orbitor în drum spre castel."
+            ],
+            "en": [
+              "Use the seat heaters for the short drives between sights.",
+              "Old town streets are narrow, navigate with extra care.",
+              "Check opening hours as some sites close earlier in winter.",
+              "Winter sun can be blinding when driving uphill to the castle."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1550,6 +2186,188 @@
           "Most sights in the center are walkable once you're there.",
           "Be prepared for a steep walk to the castle."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie die Buslinien von Orihuela, um im Regen trocken zu bleiben. Beginnen Sie am Colegio de Santo Domingo, das gut angebunden ist. Fahren Sie zum Schloss für einen kurzen Blick und kehren Sie dann ins Zentrum zur Kathedrale und zum Reconquista-Museum zurück. Das Haus von Miguel Hernández und der Palmenhain bilden den Abschluss. Die Wartezeiten an den Haltestellen sind moderat, und die Busse bieten eine warme Zuflucht vor den Regenschauern des Mittelmeers.",
+            "hu": "Használja Orihuela buszjáratait, hogy szárazon maradjon az esőben. Kezdjen a Santo Domingo kollégiumnál, amely jól megközelíthető. Utazzon fel a várhoz egy rövid nézelődésre, majd térjen vissza a központba a katedrálishoz és a Reconquista múzeumhoz. A napot Miguel Hernández háza és a pálmaliget zárja. A várakozási idő a megállókban mérsékelt, a buszok pedig meleg menedéket nyújtanak az eső elől.",
+            "ro": "Folosiți liniile de autobuz din Orihuela pentru a rămâne uscat pe ploaie. Începeți la Colegiul Santo Domingo, bine conectat la rețea. Mergeți la castel pentru o privire scurtă, apoi reveniți în centru la Catedrală și Muzeul Reconquista. Casa lui Miguel Hernández și livada de palmieri încheie vizita. Timpul de așteptare în stații este moderat, iar autobuzele oferă un refugiu cald în fața ploii.",
+            "en": "Use Orihuela’s bus lines to stay dry during the rainy day. Start at Santo Domingo College, which is well-connected. Take a bus up to the Castle for a brief look, then return to the center for the Cathedral and Reconquista Museum. Finish at Miguel Hernández's home and the Palm Grove. Waiting times at stops are reasonable, and the buses provide a warm escape from the Mediterranean showers."
+          },
+          "stops": [
+            {
+              "name": "Santo Domingo College",
+              "tip_5lang": {
+                "de": "Bushaltestelle befindet sich fast direkt vor dem Eingang.",
+                "hu": "A buszmegálló szinte közvetlenül a bejárat előtt van.",
+                "ro": "Stația de autobuz este aproape direct în fața intrării.",
+                "en": "The bus stop is located almost directly in front of the entrance."
+              }
+            },
+            {
+              "name": "Castle of Orihuela",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Fahrplan für die Linie zum Schloss.",
+                "hu": "Ellenőrizze a várba menő járat menetrendjét.",
+                "ro": "Verificați orarul pentru linia care urcă la castel.",
+                "en": "Check the schedule for the line serving the castle area."
+              }
+            },
+            {
+              "name": "Orihuela Cathedral",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg von der zentralen Haltestelle.",
+                "hu": "Rövid séta a központi megállótól.",
+                "ro": "Scurtă plimbare de la stația centrală.",
+                "en": "Short walk from the central bus stop."
+              }
+            },
+            {
+              "name": "Museum of the Reconquista",
+              "tip_5lang": {
+                "de": "Idealer Ort, um auf den nächsten Bus zu warten.",
+                "hu": "Ideális hely a következő busz megvárására.",
+                "ro": "Loc ideal pentru a aștepta următorul autobuz.",
+                "en": "Ideal place to wait for your next bus connection."
+              }
+            },
+            {
+              "name": "Miguel Hernández House-Museum",
+              "tip_5lang": {
+                "de": "Haltestelle 'Palmero' nutzen.",
+                "hu": "Használja a 'Palmero' megállót.",
+                "ro": "Folosiți stația 'Palmero'.",
+                "en": "Use the 'Palmero' stop for the easiest access."
+              }
+            },
+            {
+              "name": "Palm Grove of Orihuela",
+              "tip_5lang": {
+                "de": "Vom Bus aus sieht man den Hain sehr gut.",
+                "hu": "A buszból nagyon jól látszik a liget.",
+                "ro": "Livada se vede foarte bine din autobuz.",
+                "en": "The grove is clearly visible from the bus window."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Laden Sie die lokale Transport-App für Echtzeit-Infos herunter.",
+              "Haltestellen bieten oft nur begrenzten Schutz vor Regen.",
+              "Haben Sie passendes Kleingeld für den Fahrpreis dabei.",
+              "Busse können bei Regen voller sein als gewöhnlich."
+            ],
+            "hu": [
+              "Töltse le a helyi közlekedési appot a valós idejű infókért.",
+              "A megállók gyakran csak korlátozott védelmet nyújtanak az eső ellen.",
+              "Legyen Önnél aprópénz a jegyhez.",
+              "Esőben a buszok a szokásosnál zsúfoltabbak lehetnek."
+            ],
+            "ro": [
+              "Descărcați aplicația locală de transport pentru info în timp real.",
+              "Stațiile oferă adesea protecție limitată împotriva ploii.",
+              "Aveți pregătite monede pentru bilet.",
+              "Autobuzele pot fi mai aglomerate decât de obicei pe ploaie."
+            ],
+            "en": [
+              "Download the local transit app for real-time updates.",
+              "Bus stops often provide limited cover from heavy rain.",
+              "Ensure you have small change for the bus fare.",
+              "Buses might be more crowded than usual during rainy spells."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter ist der öffentliche Nahverkehr in Orihuela eine entspannte Art, die Stadt zu sehen. Starten Sie am Colegio de Santo Domingo. Ein Bus bringt Sie zum Schloss für die Panorama-Aussicht, bevor es zurück zur Kathedrale geht. Mittags ist das Reconquista-Museum ein idealer Halt. Besuchen Sie nachmittags das Haus von Miguel Hernández und den Palmenhain. Die Busse sind im Winter angenehm temperiert und sparen Ihnen den Aufstieg zum Schloss in der kühlen Luft.",
+            "hu": "Télen a tömegközlekedés pihentető módja a városnézésnek. Kezdjen a Santo Domingo kollégiumnál. Egy busz felviszi a várhoz a panorámáért, majd vissza a katedrálishoz. Délben a Reconquista múzeum ideális megálló. Délután látogassa meg Miguel Hernández házát és a pálmaligetet. A buszok télen kellemes hőmérsékletűek, és megkímélik Önt a várba való gyaloglástól a hűvös időben.",
+            "ro": "Iarna, transportul public este o modalitate relaxantă de a vedea orașul. Începeți la Colegiul Santo Domingo. Un autobuz vă duce la castel pentru panoramă, apoi înapoi la Catedrală. La prânz, Muzeul Reconquista este o oprire ideală. După-amiaza, vizitați casa lui Miguel Hernández și livada de palmieri. Autobuzele sunt bine încălzite iarna și vă scutesc de urcarea pe jos spre castel.",
+            "en": "In winter, Orihuela’s public transit is a relaxing way to see the city. Start at Santo Domingo College. A bus will take you up to the Castle for the panorama, then back to the Cathedral. Midday is best spent at the Reconquista Museum. Afternoon visits include Miguel Hernández's home and the Palm Grove. The buses are comfortably warm in winter and save you the uphill trek to the castle in the cool air."
+          },
+          "stops": [
+            {
+              "name": "Santo Domingo College",
+              "tip_5lang": {
+                "de": "Linie 1 hält in der Nähe des Kollegs.",
+                "hu": "Az 1-es vonal a kollégium közelében áll meg.",
+                "ro": "Linia 1 oprește în apropierea colegiului.",
+                "en": "Line 1 stops conveniently close to the college."
+              }
+            },
+            {
+              "name": "Castle of Orihuela",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Bus, um den kühlen Aufstieg zu vermeiden.",
+                "hu": "Használja a buszt, hogy elkerülje a hűvös gyaloglást felfelé.",
+                "ro": "Folosiți autobuzul pentru a evita urcarea pe jos în frig.",
+                "en": "Use the bus to avoid the chilly uphill climb on foot."
+              }
+            },
+            {
+              "name": "Orihuela Cathedral",
+              "tip_5lang": {
+                "de": "Zentraler Umsteigepunkt in der Nähe.",
+                "hu": "Központi átszállási pont a közelben.",
+                "ro": "Punct central de transfer în apropiere.",
+                "en": "Central transfer point is located nearby."
+              }
+            },
+            {
+              "name": "Museum of the Reconquista",
+              "tip_5lang": {
+                "de": "Kurze Wartezeiten an den Haltestellen im Winter.",
+                "hu": "Rövid várakozási idő a megállókban télen.",
+                "ro": "Timpi scurți de așteptare în stații pe timp de iarnă.",
+                "en": "Short waiting times at bus stops during the winter."
+              }
+            },
+            {
+              "name": "Miguel Hernández House-Museum",
+              "tip_5lang": {
+                "de": "Letzter Bus zurück ins Zentrum gegen 20:00 Uhr.",
+                "hu": "Az utolsó busz a központba 20:00 körül indul.",
+                "ro": "Ultimul autobuz spre centru este în jur de ora 20:00.",
+                "en": "Last bus back to the center is around 20:00."
+              }
+            },
+            {
+              "name": "Palm Grove of Orihuela",
+              "tip_5lang": {
+                "de": "Die Haltestelle bietet einen schönen Blick auf die Palmen.",
+                "hu": "A megállóból szép kilátás nyílik a pálmákra.",
+                "ro": "Stația oferă o vedere frumoasă asupra palmierilor.",
+                "en": "The stop offers a great introductory view of the palms."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Beachten Sie die reduzierten Fahrpläne an Feiertagen.",
+              "Tragen Sie warme Kleidung für das Warten an Haltestellen.",
+              "Sitzplätze sind im Winter meist reichlich vorhanden.",
+              "Kombinieren Sie Bus und kurze Fußwege im flachen Zentrum."
+            ],
+            "hu": [
+              "Ügyeljen az ünnepekkori ritkább menetrendre.",
+              "Viseljen meleg ruhát a megállókban való várakozáshoz.",
+              "Télen általában bőségesen van ülőhely.",
+              "Kombinálja a buszt rövid sétákkal a sík központban."
+            ],
+            "ro": [
+              "Atenție la orarul redus în zilele de sărbătoare.",
+              "Purtați haine groase pentru așteptarea în stații.",
+              "Locurile pe scaune sunt de obicei suficiente iarna.",
+              "Combinați autobuzul cu scurte plimbări în centrul plat."
+            ],
+            "en": [
+              "Note the reduced transit schedules during public holidays.",
+              "Dress warmly for the time spent waiting at bus stops.",
+              "Seating is usually plentiful on buses during the winter months.",
+              "Combine bus rides with short walks in the flat city center."
+            ]
+          }
+        }
       }
     }
   }

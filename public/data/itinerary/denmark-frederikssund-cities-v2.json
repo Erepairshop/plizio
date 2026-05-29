@@ -270,6 +270,188 @@
           "A reusable water bottle is a good idea.",
           "Most places accept credit cards, but some cash is useful for small purchases."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt in der Stille der Frederikssund-Kirche, geschützt vor dem Nieselregen. Mittags bietet das Willumsen-Museum mit seinen lebendigen Farben eine perfekte Flucht vor dem grauen Himmel über dem Fjord. Am Nachmittag erkunden wir die Wikingersiedlung unter einem Regenschirm, bevor wir den Tag im gemütlichen Færgegården-Museum ausklingen lassen, während der Wind über die Brücke fegt.",
+            "hu": "A reggel a Frederikssund templom csendjében indul, védve a fjord felől érkező szemerkélő esőtől. Délben a Willumsen Múzeum vibráló színei nyújtanak menedéket a szürkeség elől. Délután esernyő alatt fedezzük fel a viking települést, majd a napot a barátságos Færgegården Múzeumban zárjuk, miközben a szél a koronaherceg hídja felől korbácsolja a vizet.",
+            "ro": "Dimineața începe în liniștea bisericii Frederikssund, la adăpost de burnița de pe fiord. La prânz, culorile vibrante ale Muzeului Willumsen oferă refugiul perfect împotriva cerului gri. După-amiaza explorăm așezarea vikingă sub umbrelă, înainte de a încheia ziua în confortabilul Muzeu Færgegården, în timp ce vântul suflă cu putere peste pod.",
+            "en": "The morning starts in the quiet of Frederikssund Church, sheltered from the drizzle. At noon, the vibrant colors of the Willumsen Museum offer a perfect escape from the grey skies. In the afternoon, we explore the Viking settlement under an umbrella, then end the day at the cozy Færgegården Museum while the wind whips across the Roskilde Fjord bridge."
+          },
+          "stops": [
+            {
+              "name": "Frederikssund Church",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Innendetails, während Sie auf das Nachlassen des Regens warten.",
+                "hu": "Csodálja meg a belső részleteket, miközben várja, hogy alábbhagyjon az eső.",
+                "ro": "Admirați detaliile interioare în timp ce așteptați să se domolească ploaia.",
+                "en": "Admire the interior details while waiting for the rain to subside."
+              }
+            },
+            {
+              "name": "J.F. Willumsen's Museum",
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um ein paar Stunden trocken im Warmen zu verbringen.",
+                "hu": "Tökéletes helyszín néhány száraz óra eltöltéséhez a melegben.",
+                "ro": "Locul perfect pentru a petrece câteva ore la uscat și căldură.",
+                "en": "The perfect place to spend a few dry hours in the warmth."
+              }
+            },
+            {
+              "name": "Frederikssund Harbour",
+              "tip_5lang": {
+                "de": "Vorsicht vor rutschigen Holzstegen im Hafenbereich bei Nässe.",
+                "hu": "Vigyázat, a kikötő fa stégjei nedvesen nagyon csúszósak lehetnek.",
+                "ro": "Atenție la pontoanele de lemn alunecoase din port când este ud.",
+                "en": "Watch out for slippery wooden piers in the harbour area when wet."
+              }
+            },
+            {
+              "name": "Viking Settlement",
+              "tip_5lang": {
+                "de": "Die Strohdächer bieten einen rustikalen Schutz vor plötzlichen Schauern.",
+                "hu": "A nádtetők rusztikus védelmet nyújtanak a hirtelen záporok elől.",
+                "ro": "Acoperișurile din stuf oferă un adăpost rustic împotriva averselor.",
+                "en": "The thatched roofs provide rustic shelter from sudden showers."
+              }
+            },
+            {
+              "name": "Færgegården Museum",
+              "tip_5lang": {
+                "de": "Genießen Sie die lokale Geschichte in den gut geheizten Ausstellungsräumen.",
+                "hu": "Élvezze a helyi történelmet a jól fűtött kiállítóterekben.",
+                "ro": "Bucurați-vă de istoria locală în spațiile de expoziție bine încălzite.",
+                "en": "Enjoy local history in the well-heated exhibition spaces."
+              }
+            },
+            {
+              "name": "Crown Prince Frederik's Bridge",
+              "tip_5lang": {
+                "de": "Halten Sie Ihren Schirm bei den starken Böen auf der Brücke gut fest.",
+                "hu": "Tartsa erősen az esernyőjét a hídon tapasztalható erős széllökésekben.",
+                "ro": "Țineți bine umbrela din cauza rafalelor puternice de pe pod.",
+                "en": "Hold onto your umbrella tightly due to strong gusts on the bridge."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da die Wege am Fjord matschig werden können.",
+              "Nutzen Sie die ausgedehnten Museumsbesuche als natürliche Regenpausen.",
+              "Die Cafés in der Nähe des Hafens sind ideal zum Aufwärmen.",
+              "Ein windfester Regenschirm ist am offenen Wasser unverzichtbar."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert a fjord menti utak sárosak lehetnek.",
+              "Használja ki a múzeumi látogatásokat az esőszünetekhez.",
+              "A kikötő közeli kávézók ideálisak egy kis melegedéshez.",
+              "A nyílt vízparton egy szélálló esernyő elengedhetetlen kellék."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, deoarece potecile de lângă fiord pot fi noroioase.",
+              "Folosiți vizitele prelungite la muzeu ca pauze naturale de ploaie.",
+              "Cafenelele de lângă port sunt ideale pentru a vă încălzi.",
+              "O umbrelă rezistentă la vânt este indispensabilă lângă apa deschisă."
+            ],
+            "en": [
+              "Wear waterproof shoes as the paths along the fjord can get muddy.",
+              "Use extended museum visits as natural rain breaks.",
+              "Cafes near the harbour are ideal for warming up.",
+              "A windproof umbrella is essential near the open water."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen beginnt an der Frederikssund-Kirche, während der Raureif den Fjord glitzern lässt. Das Willumsen-Museum bietet mittags eine farbenfrohe und warme Oase. Nachmittags wirkt die Wikingersiedlung in der frühen Dämmerung fast mystisch. Wir beenden die Tour bei Sonnenuntergang an der Brücke, bevor die Dunkelheit Frederikssund in winterliches Licht taucht.",
+            "hu": "A fagyos reggel a Frederikssund templomnál indul, miközben a dér megcsillan a fjordon. A Willumsen Múzeum délben színes és meleg oázist kínál. Délután a viking település szinte misztikusnak tűnik a korai szürkületben. A túrát naplementekor zárjuk a hídnál, mielőtt a sötétség téli fénybe öltözteti a várost.",
+            "ro": "O dimineață geroasă începe la biserica Frederikssund, în timp ce chiciura strălucește pe fiord. Muzeul Willumsen oferă o oază colorată și caldă la prânz. După-amiaza, așezarea vikingă pare aproape mistică în amurgul timpuriu. Încheiem turul la apus pe pod, înainte ca întunericul să îmbrace orașul în lumini de iarnă.",
+            "en": "A frosty morning starts at Frederikssund Church as hoarfrost glistens on the fjord. The Willumsen Museum provides a colorful and warm oasis at noon. In the afternoon, the Viking settlement looks almost mystical in the early dusk. We end the tour at sunset by the bridge before darkness wraps the town in winter light."
+          },
+          "stops": [
+            {
+              "name": "Frederikssund Church",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stufen am Kircheneingang.",
+                "hu": "Ügyeljen a jeges lépcsőkre a templom bejáratánál.",
+                "ro": "Atenție la treptele înghețate de la intrarea în biserică.",
+                "en": "Watch out for icy steps at the church entrance."
+              }
+            },
+            {
+              "name": "J.F. Willumsen's Museum",
+              "tip_5lang": {
+                "de": "Geben Sie Ihre schweren Wintermäntel an der Garderobe ab.",
+                "hu": "Adja le nehéz télikabátját a ruhatárban a kényelmes nézelődéshez.",
+                "ro": "Lăsați hainele groase de iarnă la garderobă.",
+                "en": "Leave your heavy winter coats at the cloakroom for comfort."
+              }
+            },
+            {
+              "name": "Frederikssund Harbour",
+              "tip_5lang": {
+                "de": "Der Blick auf das gefrorene Wasser des Fjords ist im Winter magisch.",
+                "hu": "A befagyott fjord látványa télen egészen varázslatos.",
+                "ro": "Priveliștea fiordului înghețat este magică în timpul iernii.",
+                "en": "The view of the frozen fjord is magical during winter."
+              }
+            },
+            {
+              "name": "Viking Settlement",
+              "tip_5lang": {
+                "de": "Die Dämmerung beginnt hier im Winter bereits gegen 15:30 Uhr.",
+                "hu": "A szürkület télen már 15:30 körül elkezdődik ezen a részen.",
+                "ro": "Amurgul începe aici în jurul orei 15:30 în timpul iernii.",
+                "en": "Dusk starts around 15:30 here during the winter months."
+              }
+            },
+            {
+              "name": "Færgegården Museum",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich auf, während Sie mehr über die Geschichte der Region erfahren.",
+                "hu": "Melegedjen át, miközben a régió történelméről tanul.",
+                "ro": "Încălziți-vă în timp ce aflați mai multe despre istoria regiunii.",
+                "en": "Warm up while learning more about the history of the region."
+              }
+            },
+            {
+              "name": "Crown Prince Frederik's Bridge",
+              "tip_5lang": {
+                "de": "Der Wind auf der Brücke lässt die Temperaturen viel kälter erscheinen.",
+                "hu": "A hídon fújó szél miatt a hőmérsékletet sokkal hidegebbnek fogja érezni.",
+                "ro": "Vântul de pe pod face ca temperaturile să pară mult mai scăzute.",
+                "en": "The wind on the bridge makes temperatures feel much colder."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Planen Sie das Ende der Tour vor 16 Uhr, um das Tageslicht zu nutzen.",
+              "Thermokleidung ist wegen der feuchten Kälte am Fjord ratsam.",
+              "Viele Cafés schließen im Winter etwas früher als gewohnt.",
+              "Achten Sie auf Glatteis auf den Gehwegen in Küstennähe."
+            ],
+            "hu": [
+              "Tervezze a túra végét 16 óra elé, hogy kihasználja a nappali fényt.",
+              "A fjord menti nedves hideg miatt a termoalsó ajánlott.",
+              "Sok kávézó a téli szezonban a megszokottnál korábban zár.",
+              "Ügyeljen a jegesedésre a parthoz közeli járdákon."
+            ],
+            "ro": [
+              "Planificați sfârșitul turului înainte de ora 16:00 pentru a profita de lumină.",
+              "Îmbrăcămintea termică este recomandată din cauza frigului umed de pe fiord.",
+              "Multe cafenele se închid puțin mai devreme iarna.",
+              "Atenție la poleiul de pe trotuarele din apropierea coastei."
+            ],
+            "en": [
+              "Plan to end the tour before 16:00 to make use of daylight.",
+              "Thermal clothing is advised due to the damp cold by the fjord.",
+              "Many cafes close slightly earlier than usual during winter.",
+              "Watch for black ice on the pavements near the shoreline."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -534,6 +716,188 @@
           "The wind by the fjord can be strong, a wind jacket is recommended.",
           "Always lock your bike when leaving it unattended."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein erfrischender, wenn auch nasser Start am Willumsen-Museum, wo die Farben auch im Regen leuchten. Die Fahrt zur Wikingersiedlung führt durch eine neblige Fjordlandschaft. Wir radeln vorsichtig entlang des Hafens und über die Brücke, wobei die Gischt uns begleitet. Den Tag beenden wir auf der Insel Kalvø, wo die Natur im Regen eine ganz eigene Ruhe ausstrahlt.",
+            "hu": "Frissítő, bár vizes kezdés a Willumsen Múzeumnál, ahol a színek esőben is ragyognak. A viking településhez vezető út ködös fjordmenti tájon át visz. Óvatosan tekerünk a kikötő mentén és a hídon, miközben a vízpermet kísér minket. A napot a Kalvø-szigeten zárjuk, ahol a természetnek esőben sajátos nyugalma van.",
+            "ro": "Un început revigorant, deși umed, la Muzeul Willumsen, unde culorile strălucesc chiar și în ploaie. Drumul spre așezarea vikingă trece printr-un peisaj cețos de fiord. Pedalam cu atenție de-a lungul portului și peste pod. Încheiem ziua pe insula Kalvø, unde natura emană o liniște aparte în ploaie.",
+            "en": "A refreshing if wet start at the Willumsen Museum, where colors shine even in the rain. The ride to the Viking settlement goes through a misty fjord landscape. We cycle carefully along the harbour and across the bridge with the sea spray accompanying us. We end the day on Kalvø Island, where nature has its own peace in the rain."
+          },
+          "stops": [
+            {
+              "name": "J.F. Willumsen's Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Fahrradständer direkt am Eingang für einen kurzen Weg.",
+                "hu": "Használja a bejáratnál lévő biciklitárolókat a rövid séta érdekében.",
+                "ro": "Folosiți suporturile de biciclete de la intrare pentru acces rapid.",
+                "en": "Use the bike racks right by the entrance for a short walk."
+              }
+            },
+            {
+              "name": "Viking Settlement",
+              "tip_5lang": {
+                "de": "Der Boden kann hier bei Regen sehr weich und schlammig sein.",
+                "hu": "A talaj itt esőben nagyon puha és sáros lehet.",
+                "ro": "Terenul poate fi foarte moale și noroios aici când plouă.",
+                "en": "The ground here can be very soft and muddy when it rains."
+              }
+            },
+            {
+              "name": "Frederikssund Harbour",
+              "tip_5lang": {
+                "de": "Fahren Sie langsam auf dem nassen Kopfsteinpflaster im Hafen.",
+                "hu": "Hajtson lassan a kikötő nedves macskaköves részein.",
+                "ro": "Conduceți încet pe piatra cubică umedă din port.",
+                "en": "Ride slowly on the wet cobblestones in the harbour area."
+              }
+            },
+            {
+              "name": "Crown Prince Frederik's Bridge",
+              "tip_5lang": {
+                "de": "Seitenwinde können das Radfahren auf der Brücke erschweren.",
+                "hu": "Az oldalszél megnehezítheti a biciklizést a hídon.",
+                "ro": "Vântul lateral poate îngreuna mersul pe bicicletă pe pod.",
+                "en": "Side winds can make cycling across the bridge challenging."
+              }
+            },
+            {
+              "name": "Kalvø Island",
+              "tip_5lang": {
+                "de": "Achten Sie auf Pfützen auf den unbefestigten Wegen der Insel.",
+                "hu": "Ügyeljen a tócsákra a sziget burkolatlan útjain.",
+                "ro": "Atenție la bălți pe potecile neasfaltate de pe insulă.",
+                "en": "Watch out for puddles on the island's unpaved paths."
+              }
+            },
+            {
+              "name": "Frederikssund Church",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um die Regenjacke kurz auszuschütteln.",
+                "hu": "Csendes hely, ahol lerázhatja a vizet az esőkabátjáról.",
+                "ro": "Un loc liniștit pentru a scutura puțin pelerina de ploaie.",
+                "en": "A quiet spot to shake off your raincoat for a moment."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche am Fahrrad sind bei diesem Wetter ein Muss.",
+              "Vermeiden Sie scharfe Bremsmanöver auf markierten Radwegen.",
+              "Tragen Sie auffällige Regenkleidung für bessere Sichtbarkeit.",
+              "Wischen Sie den Sattel nach jedem Stopp trocken."
+            ],
+            "hu": [
+              "A sárvédő a kerékpáron elengedhetetlen ilyen időben.",
+              "Kerülje az éles fékezést a felfestett kerékpárutakon.",
+              "Viseljen feltűnő esőruházatot a jobb láthatóságért.",
+              "Minden megálló után törölje szárazra a nyerget."
+            ],
+            "ro": [
+              "Apărătorile de noroi la bicicletă sunt obligatorii pe această vreme.",
+              "Evitați frânarea bruscă pe pistele de biciclete marcate.",
+              "Purtați haine de ploaie colorate pentru o mai bună vizibilitate.",
+              "Ștergeți șaua după fiecare oprire."
+            ],
+            "en": [
+              "Mudguards on your bike are a must in this weather.",
+              "Avoid sharp braking on painted bike lane markings.",
+              "Wear high-visibility rain gear for better safety.",
+              "Wipe your saddle dry after every stop."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Start am Willumsen-Museum, das wie ein warmer Leuchtturm wirkt. Die Fahrt zur Wikingersiedlung erfordert wegen des Frosts Konzentration. Der Hafen liegt still und winterlich da, während wir zur Brücke strampeln. Der Höhepunkt ist die Insel Kalvø, wo die frostige Natur eine karge Schönheit zeigt, bevor wir den Tag an der Kirche beenden.",
+            "hu": "Hűvös kezdés a Willumsen Múzeumnál, amely meleg világítótoronyként várja. A viking településhez vezető út a fagy miatt koncentrációt igényel. A kikötő csendesen és téliesen fekszik, miközben a híd felé tekerünk. A csúcspont Kalvø szigete, ahol a fagyos természet zord szépséget mutat, mielőtt a templomnál zárjuk a napot.",
+            "ro": "Un început răcoros la Muzeul Willumsen, care pare un far cald. Drumul spre așezarea vikingă necesită concentrare din cauza înghețului. Portul este liniștit și iernatic în timp ce pedalăm spre pod. Punctul culminant este insula Kalvø, unde natura înghețată arată o frumusețe austeră.",
+            "en": "A chilly start at the Willumsen Museum, which feels like a warm lighthouse. The ride to the Viking settlement requires focus due to the frost. The harbour lies quiet and wintry as we pedal toward the bridge. The highlight is Kalvø Island, where the frosty nature shows a stark beauty before we end at the church."
+          },
+          "stops": [
+            {
+              "name": "J.F. Willumsen's Museum",
+              "tip_5lang": {
+                "de": "Wärmen Sie Ihre Hände im Museum auf, bevor Sie weiterfahren.",
+                "hu": "Melegítse fel a kezeit a múzeumban, mielőtt továbbtekerne.",
+                "ro": "Încălziți-vă mâinile în muzeu înainte de a pleca mai departe.",
+                "en": "Warm up your hands in the museum before riding further."
+              }
+            },
+            {
+              "name": "Viking Settlement",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenem Boden auf den unbefestigten Wegen.",
+                "hu": "Vigyázat a fagyott talajjal a burkolatlan utakon.",
+                "ro": "Atenție la solul înghețat de pe potecile neasfaltate.",
+                "en": "Be careful of frozen ground on the unpaved paths."
+              }
+            },
+            {
+              "name": "Frederikssund Harbour",
+              "tip_5lang": {
+                "de": "Genießen Sie die klare, kalte Luft, aber bleiben Sie in Bewegung.",
+                "hu": "Élvezze a tiszta, hideg levegőt, de maradjon mozgásban.",
+                "ro": "Bucurați-vă de aerul curat și rece, dar rămâneți în mișcare.",
+                "en": "Enjoy the crisp, cold air but keep moving to stay warm."
+              }
+            },
+            {
+              "name": "Crown Prince Frederik's Bridge",
+              "tip_5lang": {
+                "de": "Die Brücke kann bei Frost extrem rutschig sein.",
+                "hu": "A híd fagyos időben rendkívül csúszós lehet.",
+                "ro": "Podul poate fi extrem de alunecos în condiții de îngheț.",
+                "en": "The bridge can be extremely slippery in freezing conditions."
+              }
+            },
+            {
+              "name": "Kalvø Island",
+              "tip_5lang": {
+                "de": "Ein einsamer, wunderschöner Ort für Winterfotos vom Fjord.",
+                "hu": "Magányos, gyönyörű hely téli fotókhoz a fjordról.",
+                "ro": "Un loc solitar și frumos pentru fotografii de iarnă cu fiordul.",
+                "en": "A lonely, beautiful spot for winter photos of the fjord."
+              }
+            },
+            {
+              "name": "Frederikssund Church",
+              "tip_5lang": {
+                "de": "Das Licht der tiefstehenden Sonne wirkt hier besonders schön.",
+                "hu": "Az alacsonyan járó nap fénye itt különösen szépen hat.",
+                "ro": "Lumina soarelui la apus arată deosebit de frumos aici.",
+                "en": "The low winter sun creates beautiful light effects here."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie vorab, ob die Wege gestreut oder geräumt sind.",
+              "Tragen Sie winddichte Handschuhe und eine Mütze unter dem Helm.",
+              "Stellen Sie sicher, dass Ihre Fahrradbeleuchtung einwandfrei funktioniert.",
+              "Kürzen Sie die Route ab, wenn die Kälte zu intensiv wird."
+            ],
+            "hu": [
+              "Előre ellenőrizze, hogy az utak le vannak-e szórva vagy takarítva.",
+              "Viseljen szélálló kesztyűt és sapkát a sisak alatt.",
+              "Győződjön meg róla, hogy a kerékpár világítása hibátlanul működik.",
+              "Rövidítse le az útvonalat, ha a hideg túl intenzívvé válik."
+            ],
+            "ro": [
+              "Verificați dacă drumurile sunt curățate sau date cu sare.",
+              "Purtați mănuși rezistente la vânt și o căciulă sub cască.",
+              "Asigurați-vă că luminile bicicletei funcționează perfect.",
+              "Scurtați traseul dacă frigul devine prea intens."
+            ],
+            "en": [
+              "Check in advance if paths are gritted or cleared of snow.",
+              "Wear windproof gloves and a thin hat under your helmet.",
+              "Ensure your bike lights are in perfect working order.",
+              "Shorten the route if the cold becomes too intense."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -774,6 +1138,170 @@
           "Parking in the center of Frederikssund may require a parking disc.",
           "Allow extra time for traffic, especially on summer weekends."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Vom trockenen Auto aus genießen wir die Fahrt zum Schloss Selsø, während die Regentropfen auf das Dach trommeln. Nach einem Halt an der Frederikssund-Kirche bietet das Willumsen-Museum eine farbenfrohe Abwechslung zum grauen Wetter. Die Fahrt über die Brücke bietet trotz des Regens eine dramatische Aussicht auf den aufgewühlten Fjord, bevor wir im Warmen den Tag beenden.",
+            "hu": "A száraz autóból élvezzük a Selső kastélyhoz vezető utat, miközben az esőcseppek kopognak a tetőn. A Frederikssund templom után a Willumsen Múzeum kínál színes változatosságot a szürke időben. A hídon átvezető út az eső ellenére is drámai kilátást nyújt a felkavart fjorda, mielőtt a melegben befejeznénk a napot.",
+            "ro": "Din mașina uscată ne bucurăm de drumul spre Castelul Selsø, în timp ce picăturile de ploaie bat în plafon. După o oprire la biserica Frederikssund, Muzeul Willumsen oferă o diversitate colorată. Drumul peste pod oferă o priveliște dramatică asupra fiordului agitat, în ciuda ploii.",
+            "en": "From the dry car, we enjoy the drive to Selsø Castle while raindrops drum on the roof. After a stop at Frederikssund Church, the Willumsen Museum offers a colorful contrast to the grey weather. The drive across the bridge provides a dramatic view of the choppy fjord despite the rain."
+          },
+          "stops": [
+            {
+              "name": "Selsø Castle",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um den Weg im Regen zu verkürzen.",
+                "hu": "Parkoljon közel a bejárathoz, hogy lerövidítse az utat az esőben.",
+                "ro": "Parcați aproape de intrare pentru a scurta drumul prin ploaie.",
+                "en": "Park close to the entrance to shorten your walk in the rain."
+              }
+            },
+            {
+              "name": "Frederikssund Church",
+              "tip_5lang": {
+                "de": "Ein kurzer, lohnenswerter Sprint vom Parkplatz zum Portal.",
+                "hu": "Rövid, megérős sprint a parkolótól a bejáratig.",
+                "ro": "Un sprint scurt și util de la parcare până la poartă.",
+                "en": "A short, worthwhile sprint from the parking lot to the portal."
+              }
+            },
+            {
+              "name": "J.F. Willumsen's Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den großen Parkplatz für einen stressfreien Besuch.",
+                "hu": "Használja a nagy parkolót a stresszmentes látogatáshoz.",
+                "ro": "Folosiți parcarea mare pentru o vizită fără stres.",
+                "en": "Use the large parking area for a stress-free visit."
+              }
+            },
+            {
+              "name": "Frederikssund Harbour & Viking Settlement",
+              "tip_5lang": {
+                "de": "Beobachten Sie das Wetter vom Auto aus, bevor Sie aussteigen.",
+                "hu": "Figyelje az időjárást az autóból, mielőtt kiszállna.",
+                "ro": "Urmăriți vremea din mașină înainte de a coborî.",
+                "en": "Watch the weather from the car before stepping out."
+              }
+            },
+            {
+              "name": "View from Crown Prince Frederik's Bridge",
+              "tip_5lang": {
+                "de": "Genießen Sie den Panorama-Blick aus dem trockenen Fahrzeug.",
+                "hu": "Élvezze a panorámát a száraz gépjárműből.",
+                "ro": "Bucurați-vă de panorama din interiorul vehiculului uscat.",
+                "en": "Enjoy the panoramic view from the dry vehicle."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf den Landstraßen nach Selsø.",
+              "Halten Sie einen Schirm griffbereit im Türfach.",
+              "Nutzen Sie die Sitzheizung für zusätzlichen Komfort bei Nässe.",
+              "Parkplätze in der Nähe der Museen sind gut ausgeschildert."
+            ],
+            "hu": [
+              "Ügyeljen a vízenfutásra (aquaplaning) a Selső felé vezető utakon.",
+              "Tartson egy esernyőt kéznél az ajtózsebben.",
+              "Használja az ülésfűtést a plusz komfortért a nedves időben.",
+              "A múzeumok közeli parkolói jól ki vannak táblázva."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumurile spre Selsø.",
+              "Țineți o umbrelă la îndemână în portiera mașinii.",
+              "Folosiți încălzirea în scaune pentru un plus de confort.",
+              "Parcările din apropierea muzeelor sunt bine semnalizate."
+            ],
+            "en": [
+              "Watch out for aquaplaning on the rural roads to Selsø.",
+              "Keep an umbrella handy in the door pocket.",
+              "Use seat heating for extra comfort in the wet weather.",
+              "Parking lots near museums are well-signposted."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Fahrt zum Schloss Selsø führt durch eine verschneite dänische Landschaft. Die Wärme des Autos macht den Besuch der Frederikssund-Kirche und des Willumsen-Museums besonders behaglich. Bei Einbruch der Dunkelheit bietet die beleuchtete Brücke einen stimmungsvollen Anblick über den Fjord, während wir sicher und warm den Tag ausklingen lassen.",
+            "hu": "A téli út a Selső kastélyhoz a havas dán tájon át vezet. Az autó melege különösen kényelmessé teszi a Frederikssund templom és a Willumsen Múzeum meglátogatását. A sötétség beálltakor a kivilágított híd hangulatos látványt nyújt a fjord felett, miközben biztonságban és melegben zárjuk a napot.",
+            "ro": "Drumul de iarnă spre Castelul Selsø trece prin peisajul danez înzăpezit. Căldura mașinii face vizita la biserica Frederikssund și Muzeul Willumsen foarte confortabilă. La lăsarea întunericului, podul iluminat oferă o priveliște atmosferică.",
+            "en": "The winter drive to Selsø Castle goes through a snowy Danish landscape. The car's warmth makes visiting Frederikssund Church and the Willumsen Museum especially cozy. At nightfall, the illuminated bridge offers an atmospheric sight over the fjord while we end the day safe and warm."
+          },
+          "stops": [
+            {
+              "name": "Selsø Castle",
+              "tip_5lang": {
+                "de": "Achten Sie auf den ungeräumten Parkplatz bei Neuschnee.",
+                "hu": "Ügyeljen a le nem takarított parkolóra friss hó esetén.",
+                "ro": "Atenție la parcarea necurățată în caz de zăpadă proaspătă.",
+                "en": "Be careful in the parking lot if there is fresh snow."
+              }
+            },
+            {
+              "name": "Frederikssund Church",
+              "tip_5lang": {
+                "de": "Die Kirche ist im Winter oft wunderschön beleuchtet.",
+                "hu": "A templom télen gyakran gyönyörűen ki van világítva.",
+                "ro": "Biserica este adesea luminată superb în timpul iernii.",
+                "en": "The church is often beautifully lit during winter."
+              }
+            },
+            {
+              "name": "J.F. Willumsen's Museum",
+              "tip_5lang": {
+                "de": "Planen Sie Zeit für das Enteisen der Scheiben nach dem Besuch ein.",
+                "hu": "Számoljon időt a szélvédő jégtelenítésére a látogatás után.",
+                "ro": "Alocați timp pentru dezghețarea parbrizului după vizită.",
+                "en": "Allow time for de-icing the windows after your visit."
+              }
+            },
+            {
+              "name": "Frederikssund Harbour & Viking Settlement",
+              "tip_5lang": {
+                "de": "Die Parkplätze am Hafen können im Winter glatt sein.",
+                "hu": "A kikötői parkolók télen csúszósak lehetnek.",
+                "ro": "Parcările din port pot fi alunecoase iarna.",
+                "en": "Harbour parking areas can be slippery in winter."
+              }
+            },
+            {
+              "name": "View from Crown Prince Frederik's Bridge",
+              "tip_5lang": {
+                "de": "Ein warmer Ort, um das blaue Licht der Dämmerung zu bewundern.",
+                "hu": "Meleg hely a szürkület kék fényeinek megcsodálásához.",
+                "ro": "Un loc cald pentru a admira lumina albastră a amurgului.",
+                "en": "A warm spot to admire the blue light of dusk."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind für die Landstraßen absolut notwendig.",
+              "Füllen Sie Frostschutzmittel in die Scheibenwaschanlage.",
+              "Vermeiden Sie späte Fahrten auf unbeleuchteten Nebenstraßen.",
+              "Prüfen Sie den Batteriestand Ihres Wagens bei starkem Frost."
+            ],
+            "hu": [
+              "A téli gumi abszolút szükséges a vidéki utakon.",
+              "Töltsön fagyállót a szélvédőmosó tartályba.",
+              "Kerülje a késői vezetést a kivilágítatlan mellékutakon.",
+              "Ellenőrizze az autó akkumulátorát erős fagy esetén."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt absolut necesare pentru drumurile rurale.",
+              "Puneți lichid de parbriz rezistent la îngheț.",
+              "Evitați condusul târziu pe drumurile secundare neiluminate.",
+              "Verificați bateria mașinii în caz de ger puternic."
+            ],
+            "en": [
+              "Winter tires are absolutely necessary for the rural roads.",
+              "Fill your windshield washer tank with anti-freeze.",
+              "Avoid late drives on unlit side roads.",
+              "Check your car battery status during heavy frost."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1014,6 +1542,170 @@
           "Buses may run less frequently on weekends, so plan accordingly.",
           "Check the bus number and direction before you board."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Ankunft am Bahnhof Frederikssund ist durch das Dach geschützt. Kurze Busfahrten bringen uns zur Kirche und zum Willumsen-Museum, wo wir dem Regen entgehen. Die Wikingersiedlung und der Hafen erfordern trotz Busnähe einen Schirm, aber die Aussicht auf den verregneten Fjord bleibt beeindruckend. Wir beenden den Tag entspannt in der Bahn zurück.",
+            "hu": "A Frederikssund állomásra való érkezés fedett. Rövid buszutak visznek a templomhoz és a Willumsen Múzeumhoz, ahol elkerülhetjük az esőt. A viking település és a kikötő a buszmegálló közelsége ellenére esernyőt igényel, de az esős fjord látványa így is lenyűgöző. A napot pihentető vonatozással zárjuk.",
+            "ro": "Sosirea la gara Frederikssund este protejată de acoperiș. Călătoriile scurte cu autobuzul ne duc la biserică și la Muzeul Willumsen. Așezarea vikingă și portul necesită umbrelă, dar priveliștea fiordului plouat rămâne impresionantă.",
+            "en": "Arrival at Frederikssund Station is sheltered. Short bus rides take us to the church and Willumsen Museum, avoiding the rain. The Viking settlement and harbour require an umbrella despite the nearby bus stops, but the rainy fjord view remains impressive."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Frederikssund Station",
+              "tip_5lang": {
+                "de": "Warten Sie in der Bahnhofshalle auf Ihren Anschlussbus.",
+                "hu": "Várjon az állomás csarnokában a csatlakozó buszra.",
+                "ro": "Așteptați în holul gării autobuzul de legătură.",
+                "en": "Wait in the station hall for your connecting bus."
+              }
+            },
+            {
+              "name": "Frederikssund Church",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle befindet sich ganz in der Nähe des Eingangs.",
+                "hu": "A buszmegálló egészen közel található a bejárathoz.",
+                "ro": "Stația de autobuz este situată foarte aproape de intrare.",
+                "en": "The bus stop is located very close to the entrance."
+              }
+            },
+            {
+              "name": "J.F. Willumsen's Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit im Bus, um Ihre Kleidung zu trocknen.",
+                "hu": "Használja ki a buszon töltött időt a ruhái szárítására.",
+                "ro": "Folosiți timpul din autobuz pentru a vă usca hainele.",
+                "en": "Use the time on the bus to dry off your gear a bit."
+              }
+            },
+            {
+              "name": "Viking Settlement",
+              "tip_5lang": {
+                "de": "Ein kleiner Fußweg von der Haltestelle ist bei Regen nötig.",
+                "hu": "Egy kis séta a megállótól szükséges esőben is.",
+                "ro": "Este necesară o scurtă plimbare de la stație prin ploaie.",
+                "en": "A short walk from the stop is necessary even in rain."
+              }
+            },
+            {
+              "name": "Frederikssund Harbour",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz in den überdachten Wartebereichen.",
+                "hu": "Keressen menedéket a fedett várakozóhelyeken.",
+                "ro": "Căutați adăpost în zonele de așteptare acoperite.",
+                "en": "Seek shelter in the covered waiting areas."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie die Rejseplanen-App für aktuelle Verspätungen.",
+              "Halten Sie Ihr Ticket griffbereit, um nicht im Regen suchen zu müssen.",
+              "Busse fahren im Stadtgebiet regelmäßig zu den Hauptsehenswürdigkeiten.",
+              "Tragen Sie Kleidung, die auch im Sitzen schnell trocknet."
+            ],
+            "hu": [
+              "Ellenőrizze a Rejseplanen alkalmazást az aktuális késésekért.",
+              "Tartsa a jegyét kéznél, hogy ne az esőben kelljen keresgélni.",
+              "A buszok a városban rendszeresen járnak a fő látnivalókhoz.",
+              "Viseljen olyan ruhát, amely ülve is gyorsan szárad."
+            ],
+            "ro": [
+              "Verificați aplicația Rejseplanen pentru eventuale întârzieri.",
+              "Țineți biletul la îndemână pentru a nu-l căuta prin ploaie.",
+              "Autobuzele circulă regulat către principalele atracții.",
+              "Purtați haine care se usucă rapid chiar și stând jos."
+            ],
+            "en": [
+              "Check the Rejseplanen app for any real-time delays.",
+              "Keep your ticket handy so you don't have to search for it in the rain.",
+              "Buses run regularly to the main sights within the town area.",
+              "Wear clothing that dries quickly even while sitting down."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der frostige Morgen am Bahnhof Frederikssund wird durch die Wärme im Zug gemildert. Die Busse sind im Winter gut geheizt und bringen uns bequem zur Kirche und zum Museum. Die Wikingersiedlung wirkt in der klaren Winterluft fast surreal. Wir genießen den Ausblick auf den Hafen, bevor wir uns in der S-Bahn auf dem Weg zurück aufwärmen.",
+            "hu": "A fagyos reggel a Frederikssund állomáson a vonat melegében enyhül. A buszok télen jól fűtöttek, kényelmesen visznek a templomhoz és a múzeumhoz. A viking település szinte szürreális a tiszta téli levegőben. Élvezzük a kikötő látványát, mielőtt az S-vonaton felmelegednénk hazafelé.",
+            "ro": "Dimineața geroasă la gara Frederikssund este îndulcită de căldura din tren. Autobuzele sunt bine încălzite iarna. Așezarea vikingă pare aproape ireală în aerul curat de iarnă. Ne bucurăm de priveliștea portului înainte de a ne încălzi în tren.",
+            "en": "The frosty morning at Frederikssund Station is softened by the warmth of the train. Buses are well-heated in winter and take us comfortably to the church and museum. The Viking settlement looks almost surreal in the crisp winter air. We enjoy the harbour view before warming up on the S-train back."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Frederikssund Station",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Kiosk im Bahnhof für ein heißes Getränk.",
+                "hu": "Használja az állomáson lévő kioszkot egy forró italhoz.",
+                "ro": "Folosiți chioșcul din gară pentru o băutură caldă.",
+                "en": "Use the station kiosk for a hot drink."
+              }
+            },
+            {
+              "name": "Frederikssund Church",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glätte an den Bushaltestellen.",
+                "hu": "Ügyeljen a csúszós felületekre a buszmegállókban.",
+                "ro": "Atenție la polei în stațiile de autobuz.",
+                "en": "Watch out for ice at the bus stops."
+              }
+            },
+            {
+              "name": "J.F. Willumsen's Museum",
+              "tip_5lang": {
+                "de": "Das Museum ist ein idealer Ort zum Aufwärmen zwischen den Fahrten.",
+                "hu": "A múzeum ideális hely a felmelegedéshez az utazások között.",
+                "ro": "Muzeul este un loc ideal pentru a vă încălzi între călătorii.",
+                "en": "The museum is an ideal place to warm up between bus rides."
+              }
+            },
+            {
+              "name": "Viking Settlement",
+              "tip_5lang": {
+                "de": "Planen Sie Ihre Rückfahrt zum Bahnhof vor Einbruch der Dunkelheit.",
+                "hu": "Tervezze meg a visszautat az állomásra sötétedés előtt.",
+                "ro": "Planificați întoarcerea la gară înainte de lăsarea întunericului.",
+                "en": "Plan your return to the station before darkness falls."
+              }
+            },
+            {
+              "name": "Frederikssund Harbour",
+              "tip_5lang": {
+                "de": "Warten Sie im beleuchteten Wartebereich auf den nächsten Bus.",
+                "hu": "Várjon a kivilágított várakozóhelyen a következő buszra.",
+                "ro": "Așteptați următorul autobuz în zona de așteptare iluminată.",
+                "en": "Wait for the next bus in the illuminated waiting area."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrpläne können bei extremem Winterwetter variieren.",
+              "Tragen Sie warme Socken, da das Warten an Haltestellen kalt sein kann.",
+              "Die Züge der S-Bahn-Linie C sind meist sehr zuverlässig.",
+              "Nutzen Sie die beheizten Warteräume, wo vorhanden."
+            ],
+            "hu": [
+              "A menetrendek extrém téli időjárás esetén változhatnak.",
+              "Viseljen meleg zoknit, mert a megállókban várakozva fázhat a lába.",
+              "A C jelű S-vonat vonala általában nagyon megbízható.",
+              "Használja a fűtött várótermeket, ahol rendelkezésre állnak."
+            ],
+            "ro": [
+              "Orarele pot varia în caz de vreme de iarnă extremă.",
+              "Purtați șosete groase, deoarece așteptarea în stații poate fi rece.",
+              "Trenurile liniei S-tog C sunt de obicei foarte fiabile.",
+              "Folosiți sălile de așteptare încălzite acolo unde există."
+            ],
+            "en": [
+              "Schedules may vary during extreme winter weather.",
+              "Wear warm socks as waiting at stops can be cold.",
+              "The S-train line C is usually very reliable.",
+              "Make use of heated waiting rooms where available."
+            ]
+          }
+        }
       }
     }
   }

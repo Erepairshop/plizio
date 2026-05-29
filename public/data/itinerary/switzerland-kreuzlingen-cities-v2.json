@@ -386,6 +386,206 @@
           "A small backpack is ideal for snacks, water, and any souvenirs.",
           "Check the opening hours of the museums as they can vary."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Spaziergang beginnt an der Basilika St. Ulrich, die einen trockenen Zufluchtsort bietet. Der Vormittag steht im Zeichen der Kultur im Rosenegg Museum, wo man dem Regen entfliehen kann.\n\nMittags führt der Weg durch den Seeburgpark. Die nassen Alleen wirken melancholisch, aber die Aussicht auf den See bleibt auch bei grauem Himmel reizvoll.\n\nAm Nachmittag erkunden wir das Schloss Seeburg und den Hafen. Der Wind vom Bodensee kann kräftig sein, daher ist wetterfeste Kleidung hier unerlässlich.\n\nDer Abend endet im Planetarium Kreuzlingen. Unter der Kuppel spielt das Wetter keine Rolle mehr, während wir die Sterne beobachten.",
+            "hu": "A séta a Szent Ulrik-bazilikánál indul, amely száraz menedéket nyújt a reggeli esőben. A délelőtt a Rosenegg Múzeum kulturális kincseié, ahol fedett helyen maradhatunk.\n\nDélben a Seeburgparkon vágunk át. A vizes sétányok melankolikusak, de a tó látványa szürke égbolt alatt is lenyűgöző.\n\nDélután a Seeburg-kastélyt és a kikötőt érintjük. A Bodeni-tó felől fújó szél ilyenkor felerősödhet, a vízhatlan öltözet elengedhetetlen.\n\nAz estét a Kreuzlingeni Planetáriumban zárjuk. A kupola alatt már nem számít az időjárás, miközben a csillagokat csodáljuk.",
+            "ro": "Plimbarea începe la Bazilica Sf. Ulrich, care oferă un refugiu uscat în ploaia de dimineață. Dimineața este dedicată culturii la Muzeul Rosenegg, unde putem rămâne la adăpost.\n\nLa prânz, traseul traversează Seeburgpark. Aleile umede au un farmec melancolic, iar priveliștea lacului rămâne captivantă chiar și sub cerul gri.\n\nDupă-amiaza vizităm Castelul Seeburg și portul. Vântul de pe Lacul Constanța poate fi puternic, așa că echipamentul impermeabil este esențial.\n\nSeara se încheie la Planetariul Kreuzlingen. Sub cupolă, vremea nu mai contează în timp ce admirăm stelele.",
+            "en": "The walk begins at St. Ulrich Basilica, providing a dry sanctuary from the morning rain. The forenoon is dedicated to culture at the Rosenegg Museum, a perfect indoor escape.\n\nAt noon, we traverse Seeburg Park. The wet promenades feel melancholic, yet the lake views remain charming even under grey skies.\n\nIn the afternoon, we explore Seeburg Castle and the harbour. The wind from Lake Constance can be biting, making waterproof gear essential here.\n\nThe evening concludes at the Kreuzlingen Planetarium. Under the dome, the weather no longer matters as we gaze at the stars."
+          },
+          "stops": [
+            {
+              "name": "St. Ulrich Basilica",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Stuckatur, während Sie draußen den Regen abwarten.",
+                "hu": "Csodálja meg a stukkókat, amíg kint eláll az eső.",
+                "ro": "Admirați stucaturile în timp ce așteptați să treacă ploaia.",
+                "en": "Admire the stucco work while waiting for the rain to subside."
+              }
+            },
+            {
+              "name": "Rosenegg Museum",
+              "tip_5lang": {
+                "de": "Idealer Ort, um zwei Stunden im Trockenen zu verbringen.",
+                "hu": "Ideális helyszín két óra eltöltéséhez szárazon.",
+                "ro": "Locul ideal pentru a petrece două ore la adăpost.",
+                "en": "Ideal spot to spend two hours in the dry."
+              }
+            },
+            {
+              "name": "Seeburg Park",
+              "tip_5lang": {
+                "de": "Die Wege können pfützig sein, festes Schuhwerk empfohlen.",
+                "hu": "Az utak tócsásak lehetnek, vízálló cipő javasolt.",
+                "ro": "Aleile pot avea bălți, se recomandă încălțăminte solidă.",
+                "en": "Paths can be puddly; sturdy footwear is recommended."
+              }
+            },
+            {
+              "name": "Seeburg Castle",
+              "tip_5lang": {
+                "de": "Das Restaurant im Schloss bietet eine gemütliche Pause bei Regen.",
+                "hu": "A kastély étterme hangulatos pihenőt kínál esőben.",
+                "ro": "Restaurantul din castel oferă o pauză primitoare pe ploaie.",
+                "en": "The castle restaurant offers a cozy break during the rain."
+              }
+            },
+            {
+              "name": "Kreuzlingen Harbour",
+              "tip_5lang": {
+                "de": "Kurzer Aufenthalt wegen des starken Winds am Pier ratsam.",
+                "hu": "A mólón lévő erős szél miatt csak rövid megálló javasolt.",
+                "ro": "Se recomandă o oprire scurtă din cauza vântului puternic de pe dig.",
+                "en": "Short stay advised due to strong winds on the pier."
+              }
+            },
+            {
+              "name": "Lake Constance Promenade",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den großen Bäumen oder im Café.",
+                "hu": "Keressen menedéket a nagy fák alatt vagy egy kávézóban.",
+                "ro": "Căutați adăpost sub copacii mari sau la o cafenea.",
+                "en": "Seek shelter under large trees or in a nearby café."
+              }
+            },
+            {
+              "name": "Kreuzlingen Planetarium",
+              "tip_5lang": {
+                "de": "Perfekter Abschluss: Die Sternenshow ist wetterunabhängig.",
+                "hu": "Tökéletes zárás: a csillagshow időjárástól független.",
+                "ro": "Final perfect: spectacolul de stele nu depinde de vreme.",
+                "en": "Perfect finish: the star show is weather-independent."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Regenschirme können bei der Tourist-Info oder in größeren Hotels geliehen werden.",
+              "Die Wege im Seeburgpark sind gut befestigt, aber Pfützen bilden sich schnell.",
+              "Nutzen Sie die Unterführungen am Bahnhof, um trocken die Straßenseite zu wechseln.",
+              "Planen Sie längere Aufenthalte im Museum und Planetarium ein."
+            ],
+            "hu": [
+              "Esernyőt a turista-információnál vagy nagyobb hotelekben lehet kölcsönözni.",
+              "A Seeburgpark útjai stabilak, de a tócsák gyorsan kialakulnak.",
+              "Használja az állomási aluljárókat, hogy szárazon keljen át az utak alatt.",
+              "Tervezzen hosszabb időt a múzeumban és a planetáriumban."
+            ],
+            "ro": [
+              "Umbrelele pot fi închiriate de la info-turist sau de la hotelurile mari.",
+              "Aleile din Seeburgpark sunt pavate, dar bălțile se formează rapid.",
+              "Folosiți pasajele subterane de la gară pentru a traversa strada pe uscat.",
+              "Alocați mai mult timp vizitelor la muzeu și planetariu."
+            ],
+            "en": [
+              "Umbrellas can be borrowed at the tourist info or larger hotels.",
+              "Paths in Seeburg Park are paved but puddles form quickly.",
+              "Use the station underpasses to cross streets while staying dry.",
+              "Plan for longer stays at the museum and planetarium."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen beginnt an der Basilika. Der Dunst über dem Bodensee verleiht der Stadt eine mystische Atmosphäre.\n\nMittags wärmen wir uns im Rosenegg Museum auf, während wir in die Regionalgeschichte eintauchen.\n\nAm Nachmittag führt der Weg zum See. Der Seeburgpark ist oft menschenleer und friedlich, aber der Wind ist eisig. Der Sonnenuntergang findet bereits gegen 16:30 Uhr statt.\n\nDer Abend gehört dem Planetarium. Hier entfliehen wir der Kälte und genießen den künstlichen Sternenhimmel in wohliger Wärme.",
+            "hu": "Deres reggel kezdődik a bazilikánál. A Bodeni-tó feletti pára misztikus hangulatot áraszt a városra.\n\nDélben a Rosenegg Múzeumban melegszünk fel, miközben elmerülünk a régió történelmében.\n\nDélután a tópartra indulunk. A Seeburgpark ilyenkor békés és néptelen, de a szél metsző. A nap már 16:30 körül nyugovóra tér.\n\nAz este a planetáriumé. Itt elmenekülünk a hideg elől, és kellemes melegben élvezzük a mesterséges csillagos eget.",
+            "ro": "O dimineață gerosă începe la bazilică. Ceața de deasupra Lacului Constanța oferă orașului o atmosferă mistică.\n\nLa prânz ne încălzim în Muzeul Rosenegg, în timp ce explorăm istoria regională.\n\nDupă-amiaza traseul duce spre lac. Seeburgpark este adesea pustiu și liniștit, dar vântul este tăios. Apusul are loc deja în jurul orei 16:30.\n\nSeara aparține planetariului. Aici evadăm de frig și ne bucurăm de cerul înstelat artificial într-o căldură plăcută.",
+            "en": "A frosty morning begins at the Basilica. The mist over Lake Constance lends a mystical atmosphere to the town.\n\nAt noon, we warm up in the Rosenegg Museum while diving into regional history.\n\nIn the afternoon, the path leads to the lake. Seeburg Park is often deserted and peaceful, but the wind is icy. Sunset occurs as early as 4:30 PM.\n\nThe evening belongs to the planetarium. Here we escape the cold and enjoy the artificial starry sky in cozy warmth."
+          },
+          "stops": [
+            {
+              "name": "St. Ulrich Basilica",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stufen am Kircheneingang.",
+                "hu": "Vigyázzon a templom bejáratánál lévő jeges lépcsőkre.",
+                "ro": "Atenție la treptele înghețate de la intrarea în biserică.",
+                "en": "Watch out for icy steps at the church entrance."
+              }
+            },
+            {
+              "name": "Rosenegg Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe, um schwere Wintermäntel abzulegen.",
+                "hu": "Használja a ruhatárat a nehéz télikabátok letételéhez.",
+                "ro": "Folosiți garderoba pentru a lăsa hainele groase de iarnă.",
+                "en": "Use the cloakroom to drop off heavy winter coats."
+              }
+            },
+            {
+              "name": "Seeburg Park",
+              "tip_5lang": {
+                "de": "Eisiger Wind vom See möglich, Mütze und Handschuhe einpacken.",
+                "hu": "Jeges szél fújhat a tóról, sapka és kesztyű kötelező.",
+                "ro": "Vânt înghețat de pe lac, nu uitați căciula și mănușile.",
+                "en": "Icy wind from the lake possible; pack a hat and gloves."
+              }
+            },
+            {
+              "name": "Seeburg Castle",
+              "tip_5lang": {
+                "de": "Der Blick auf den winterlichen See ist vom Schlossfenster toll.",
+                "hu": "A téli tó látványa csodás a kastély ablakából.",
+                "ro": "Priveliștea lacului înghețat este superbă de la fereastra castelului.",
+                "en": "The view of the wintry lake is great from the castle window."
+              }
+            },
+            {
+              "name": "Kreuzlingen Harbour",
+              "tip_5lang": {
+                "de": "Vorsicht vor Glätte auf den Metallstegen am Hafen.",
+                "hu": "Vigyázzon a csúszós fémjárdákon a kikötőben.",
+                "ro": "Atenție la suprafețele metalice alunecoase din port.",
+                "en": "Beware of slipperiness on the metal walkways at the harbour."
+              }
+            },
+            {
+              "name": "Lake Constance Promenade",
+              "tip_5lang": {
+                "de": "Die Sonne verschwindet früh hinter den Bergen/Gebäuden.",
+                "hu": "A nap korán eltűnik a hegyek/épületek mögött.",
+                "ro": "Soarele dispare devreme în spatele munților/clădirilor.",
+                "en": "The sun disappears early behind the mountains/buildings."
+              }
+            },
+            {
+              "name": "Kreuzlingen Planetarium",
+              "tip_5lang": {
+                "de": "Der beheizte Saal ist die beste Flucht vor der Winternacht.",
+                "hu": "A fűtött terem a legjobb menekülés a téli éjszaka elől.",
+                "ro": "Sala încălzită este cea mai bună evadare din noaptea de iarnă.",
+                "en": "The heated hall is the best escape from the winter night."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Sonnenuntergang ist im Winter bereits gegen 16:30-17:00 Uhr.",
+              "Kleiden Sie sich nach dem Zwiebelprinzip für den Wechsel zwischen Drinnen und Draußen.",
+              "Die Bise (Kaltwind) kann die gefühlte Temperatur deutlich senken.",
+              "Öffentliche Toiletten im Park sind im Winter teilweise geschlossen."
+            ],
+            "hu": [
+              "A naplemente télen már 16:30-17:00 körül bekövetkezik.",
+              "Öltözzön rétegesen a kinti hideg és benti meleg közötti váltáshoz.",
+              "A Bise (hideg szél) jelentősen csökkentheti a hőérzetet.",
+              "A parki nyilvános illemhelyek télen részben zárva tarthatnak."
+            ],
+            "ro": [
+              "Apusul de soare iarna este deja în jurul orei 16:30-17:00.",
+              "Îmbrăcați-vă în straturi pentru tranziția între interior și exterior.",
+              "Bise (vântul rece) poate reduce semnificativ temperatura resimțită.",
+              "Toaletele publice din parc pot fi parțial închise iarna."
+            ],
+            "en": [
+              "Sunset in winter is as early as 4:30-5:00 PM.",
+              "Dress in layers for the transition between inside and outside.",
+              "The Bise (cold wind) can significantly lower the perceived temperature.",
+              "Public toilets in the park may be partially closed in winter."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -790,6 +990,224 @@
           "Bring plenty of water, especially on warm days.",
           "A helmet is strongly recommended."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt am Dreispitz. Der Regen macht die Radwege am See etwas rutschig, aber die Strecke bleibt gut befahrbar.\n\nMittags suchen wir Schutz in der Basilika und später im Rosenegg Museum, wo das Fahrrad sicher geparkt werden kann.\n\nDer Nachmittag führt uns durch den Seeburgpark zum Hafen. Die Pfützen spritzen, aber die frische, feuchte Luft ist belebend.\n\nZum Abend stellen wir die Räder am Planetarium ab. Nach der Show ist die Fahrt durch das nächtliche, nasse Kreuzlingen stimmungsvoll.",
+            "hu": "A nap a Dreispitznél indul. Az eső kicsit csúszóssá teszi a tóparti kerékpárutakat, de az útvonal jól járható marad.\n\nDélben a bazilikában, majd a Rosenegg Múzeumban keresünk menedéket, ahol a bicikli biztonságosan leállítható.\n\nDélután a Seeburgparkon át a kikötőbe tekerünk. A tócsák fröccsennek, de a friss, párás levegő élénkítő.\n\nEstére a planetáriumnál tesszük le a bringákat. Az előadás utáni tekerés a vizes Kreuzlingenen át hangulatos.",
+            "ro": "Ziua începe la Dreispitz. Ploaia face pistele de biciclete de lângă lac puțin alunecoase, dar traseul rămâne practicabil.\n\nLa prânz căutăm adăpost în bazilică și mai târziu la Muzeul Rosenegg, unde bicicleta poate fi parcată în siguranță.\n\nDupă-amiaza pedalăm prin Seeburgpark spre port. Bălțile stropesc, dar aerul proaspăt și umed este revigorant.\n\nSeara lăsăm bicicletele la planetariu. După spectacol, plimbarea prin Kreuzlingen-ul ud și nocturn este plină de atmosferă.",
+            "en": "The day starts at Dreispitz. Rain makes the lakeside bike paths a bit slippery, but the route remains easily navigable.\n\nAt noon, we seek shelter in the Basilica and later the Rosenegg Museum, where bikes can be parked safely.\n\nIn the afternoon, we cycle through Seeburg Park to the harbour. Puddles splash, but the fresh, damp air is invigorating.\n\nFor the evening, we park the bikes at the Planetarium. The ride through the night-time, wet Kreuzlingen after the show is atmospheric."
+          },
+          "stops": [
+            {
+              "name": "Dreispitz",
+              "tip_5lang": {
+                "de": "Vorsicht beim Losfahren auf nassem Asphalt.",
+                "hu": "Vigyázzon az indulásnál a vizes aszfalton.",
+                "ro": "Atenție la plecare pe asfaltul umed.",
+                "en": "Be careful when starting off on wet asphalt."
+              }
+            },
+            {
+              "name": "St. Ulrich Basilica",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich zum Abstellen.",
+                "hu": "Használja a fedett bejáratot a várakozáshoz.",
+                "ro": "Folosiți zona de intrare acoperită pentru a parca.",
+                "en": "Use the covered entrance area for parking."
+              }
+            },
+            {
+              "name": "Rosenegg Museum",
+              "tip_5lang": {
+                "de": "Guter Stopp, um die Regenkleidung kurz zu lüften.",
+                "hu": "Jó megálló az esőruházat rövid szellőztetésére.",
+                "ro": "O oprire bună pentru a aerisi puțin hainele de ploaie.",
+                "en": "Good stop to briefly air out your rain gear."
+              }
+            },
+            {
+              "name": "Seeburg Park",
+              "tip_5lang": {
+                "de": "Meiden Sie unbefestigte Abkürzungen bei Regen.",
+                "hu": "Kerülje a burkolatlan levágásokat esőben.",
+                "ro": "Evitați scurtăturile neasfaltate pe ploaie.",
+                "en": "Avoid unpaved shortcuts during rain."
+              }
+            },
+            {
+              "name": "Seeburg Castle",
+              "tip_5lang": {
+                "de": "Fahrradständer befinden sich nahe dem Schlosseingang.",
+                "hu": "A kerékpártárolók a kastélybejárat közelében vannak.",
+                "ro": "Suporturile de biciclete sunt aproape de intrarea în castel.",
+                "en": "Bike racks are located near the castle entrance."
+              }
+            },
+            {
+              "name": "Kreuzlingen Harbour",
+              "tip_5lang": {
+                "de": "Vorsicht vor rutschigen Markierungen auf dem Boden.",
+                "hu": "Vigyázzon a csúszós útburkolati jelekkel.",
+                "ro": "Atenție la marcajele rutiere alunecoase de pe sol.",
+                "en": "Beware of slippery ground markings."
+              }
+            },
+            {
+              "name": "Lake Constance Promenade",
+              "tip_5lang": {
+                "de": "Passen Sie auf Fußgänger mit Regenschirmen auf.",
+                "hu": "Figyeljen az esernyős gyalogosokra.",
+                "ro": "Atenție la pietonii cu umbrele.",
+                "en": "Watch out for pedestrians with umbrellas."
+              }
+            },
+            {
+              "name": "Kreuzlingen Planetarium",
+              "tip_5lang": {
+                "de": "Beleuchtung am Fahrrad für die Rückfahrt prüfen.",
+                "hu": "Ellenőrizze a világítást a hazaúthoz.",
+                "ro": "Verificați luminile bicicletei pentru drumul de întoarcere.",
+                "en": "Check your bike lights for the return journey."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine wasserdichte Regenhose, da der Sattel nass sein wird.",
+              "Die Bremswege auf nassem Laub im Park sind deutlich länger.",
+              "Nutzen Sie die Radwege fernab der Hauptstraße, um Spritzwasser von Autos zu vermeiden.",
+              "Ein Sattelschutz hält Ihre Kleidung beim Parken trocken."
+            ],
+            "hu": [
+              "Viseljen vízálló nadrágot, mivel a nyereg vizes lesz.",
+              "A fékút a vizes leveleken a parkban lényegesen hosszabb.",
+              "Használja a főúttól távolabbi utakat, hogy elkerülje az autók felverődő vizét.",
+              "A nyeregvédő szárazon tartja ruháját parkolás közben."
+            ],
+            "ro": [
+              "Purtați pantaloni impermeabili, deoarece șaua va fi umedă.",
+              "Distanțele de frânare pe frunzele umede din parc sunt mult mai lungi.",
+              "Folosiți pistele de biciclete departe de drumul principal pentru a evita stropii de la mașini.",
+              "O protecție pentru șa vă menține hainele uscate în timpul parcării."
+            ],
+            "en": [
+              "Wear waterproof trousers as the saddle will be wet.",
+              "Braking distances on wet leaves in the park are much longer.",
+              "Use cycle paths away from main roads to avoid spray from cars.",
+              "A saddle cover keeps your clothes dry while parked."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Start bei frostigen Temperaturen am Dreispitz. Die kalte Luft am See weckt die Geister schnell auf.\n\nMittags suchen wir die Wärme der Basilika und die historische Tiefe des Museums Rosenegg auf.\n\nDer Nachmittag am See bietet klare Sichten bis zu den Alpen, wenn es nicht neblig ist. Die Radwege im Park sind meist geräumt, aber Vorsicht vor Raureif.\n\nAbends bietet das Planetarium die perfekte Erholung von der Kälte, bevor die kurze Fahrt zurück ansteht.",
+            "hu": "Indulás fagyos hőmérsékletben a Dreispitznél. A tavi hideg levegő gyorsan felébreszti az embert.\n\nDélben a bazilika melegét és a Rosenegg Múzeum történelmi mélységeit keressük fel.\n\nDélután a tóparton tiszta időben akár az Alpokig is ellátni. A parki kerékpárutakat többnyire takarítják, de vigyázzon a dérrel.\n\nEste a planetárium nyújt tökéletes pihenést a hideg után, mielőtt visszaindulnánk.",
+            "ro": "Start la temperaturi de îngheț la Dreispitz. Aerul rece de lângă lac vă trezește rapid simțurile.\n\nLa prânz căutăm căldura bazilicii și profunzimea istorică a Muzeului Rosenegg.\n\nDupă-amiaza la lac oferă vederi clare până la Alpi, dacă nu este ceață. Pistele de biciclete din parc sunt de obicei curățate, dar atenție la chiciură.\n\nSeara, planetariul oferă relaxarea perfectă după frig, înainte de drumul scurt de întoarcere.",
+            "en": "Start in freezing temperatures at Dreispitz. The cold lakeside air wakes you up quickly.\n\nAt noon, we seek the warmth of the Basilica and the historical depth of the Rosenegg Museum.\n\nIn the afternoon at the lake, enjoy clear views all the way to the Alps if it's not misty. Bike paths in the park are usually cleared, but watch out for hoarfrost.\n\nIn the evening, the Planetarium offers the perfect respite from the cold before the short ride back."
+          },
+          "stops": [
+            {
+              "name": "Dreispitz",
+              "tip_5lang": {
+                "de": "Warme Handschuhe sind bei diesem Fahrtwind Pflicht.",
+                "hu": "Meleg kesztyű kötelező a menetszél miatt.",
+                "ro": "Mănușile groase sunt obligatorii din cauza vântului.",
+                "en": "Warm gloves are mandatory given the wind chill."
+              }
+            },
+            {
+              "name": "St. Ulrich Basilica",
+              "tip_5lang": {
+                "de": "Vorsicht bei gefrorenem Kondenswasser auf dem Vorplatz.",
+                "hu": "Vigyázzon a megfagyott párával az előtéren.",
+                "ro": "Atenție la condensul înghețat de pe esplanadă.",
+                "en": "Watch out for frozen condensation on the forecourt."
+              }
+            },
+            {
+              "name": "Rosenegg Museum",
+              "tip_5lang": {
+                "de": "Nehmen Sie sich Zeit zum Aufwärmen der Finger.",
+                "hu": "Szánjon időt az ujjai felmelegítésére.",
+                "ro": "Alocați timp pentru a vă încălzi degetele.",
+                "en": "Take time to warm up your fingers inside."
+              }
+            },
+            {
+              "name": "Seeburg Park",
+              "tip_5lang": {
+                "de": "Dunkle Stellen im Schatten können glatt sein.",
+                "hu": "Az árnyékos részek csúszósak lehetnek.",
+                "ro": "Zonele întunecate din umbră pot fi alunecoase.",
+                "en": "Dark spots in the shade can be slippery."
+              }
+            },
+            {
+              "name": "Seeburg Castle",
+              "tip_5lang": {
+                "de": "Ein heißer Tee im Schloss wirkt Wunder.",
+                "hu": "Egy forró tea a kastélyban csodákra képes.",
+                "ro": "Un ceai fierbinte la castel face minuni.",
+                "en": "A hot tea at the castle works wonders."
+              }
+            },
+            {
+              "name": "Kreuzlingen Harbour",
+              "tip_5lang": {
+                "de": "Metallgitter am Boden können tückisch glatt sein.",
+                "hu": "A fémrácsok a földön csalóka módon csúszhatnak.",
+                "ro": "Grătarele metalice de pe sol pot fi înșelător de alunecoase.",
+                "en": "Metal grates on the ground can be treacherously slippery."
+              }
+            },
+            {
+              "name": "Lake Constance Promenade",
+              "tip_5lang": {
+                "de": "Das Licht am See ist im Winter besonders klar.",
+                "hu": "A tavi fények télen különösen tiszták.",
+                "ro": "Lumina de pe lac este deosebit de clară iarna.",
+                "en": "The light by the lake is particularly clear in winter."
+              }
+            },
+            {
+              "name": "Kreuzlingen Planetarium",
+              "tip_5lang": {
+                "de": "Sicherstellen, dass die Fahrradbeleuchtung funktioniert.",
+                "hu": "Győződjön meg róla, hogy a világítás működik.",
+                "ro": "Asigurați-vă că luminile bicicletei funcționează.",
+                "en": "Ensure your bike lights are working properly."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Glatteisbildung, besonders in Brückennähe und am See.",
+              "Die Wintersonne steht tief und kann beim Fahren blenden.",
+              "Akku-Lichter entladen sich bei Kälte schneller – Reserve einplanen.",
+              "Trinken Sie auch bei Kälte genug, die trockene Luft dehydriert."
+            ],
+            "hu": [
+              "Ügyeljen a jegesedésre, különösen hidak közelében és a tónál.",
+              "A téli nap alacsonyan jár és elvakíthat tekerés közben.",
+              "Az akkumulátoros lámpák hidegben gyorsabban merülnek.",
+              "Hidegben is igyon eleget, a száraz levegő dehidratál."
+            ],
+            "ro": [
+              "Atenție la formarea poleiului, mai ales lângă poduri și lac.",
+              "Soarele de iarnă este jos și vă poate orbi în timpul mersului.",
+              "Luminile cu acumulator se descarcă mai repede la frig.",
+              "Beți destule lichide și la frig, aerul uscat deshidratează."
+            ],
+            "en": [
+              "Watch out for black ice, especially near bridges and the lake.",
+              "The winter sun is low and can be blinding while riding.",
+              "Battery lights discharge faster in the cold – plan for reserves.",
+              "Drink enough even in the cold; dry air dehydrates."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1194,6 +1612,224 @@
           "The cluster strategy saves time and nerves when looking for a parking space.",
           "Plan some buffer time for traffic, especially in summer."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir parken bequem am Seeburg-Parkplatz. Das Auto schützt uns vor dem ersten Regenschauer des Morgens.\n\nMittags erkunden wir das Schloss Seeburg und den Park mit dem Schirm in der Hand, bevor wir zum zentralen Parkplatz fahren.\n\nDer Nachmittag wird kulturell in der Basilika und im Museum Rosenegg. Das Umparken spart uns lange Wege durch den Regen.\n\nZum Abschluss geht es zum Planetarium. Die kurze Fahrt durch das verregnete Kreuzlingen ist im warmen Auto angenehm.",
+            "hu": "Kényelmesen parkolunk a Seeburg parkolóban. Az autó megvéd minket a reggeli első záportól.\n\nDélben a Seeburg-kastélyt és a parkot fedezzük fel esernyővel a kézben, mielőtt a központi parkolóba hajtanánk.\n\nA délután kulturálisan telik a bazilikánál és a Rosenegg Múzeumnál. Az átparkolás megkímél minket a hosszú esős sétáktól.\n\nZárásként a planetáriumhoz megyünk. A rövid utazás az esős Kreuzlingenen át a meleg autóban kellemes.",
+            "ro": "Parcăm confortabil la parcarea Seeburg. Mașina ne protejează de prima aversă de ploaie a dimineții.\n\nLa prânz explorăm Castelul Seeburg și parcul cu umbrela în mână, înainte de a conduce spre parcarea centrală.\n\nDupă-amiaza devine culturală la bazilică și Muzeul Rosenegg. Mutarea mașinii ne scutește de drumurile lungi prin ploaie.\n\nLa final mergem la planetariu. Drumul scurt prin Kreuzlingen-ul ploios este plăcut în mașina caldă.",
+            "en": "We park conveniently at the Seeburg car park. The car shields us from the first morning rain shower.\n\nAt noon, we explore Seeburg Castle and the park with umbrellas in hand before driving to the central car park.\n\nThe afternoon turns cultural at the Basilica and Rosenegg Museum. Re-parking saves us long walks through the rain.\n\nTo finish, we head to the Planetarium. The short drive through rainy Kreuzlingen is pleasant in a warm car."
+          },
+          "stops": [
+            {
+              "name": "Seeburg Car Park",
+              "tip_5lang": {
+                "de": "Zahlen Sie die Parkgebühr am Automaten (überdacht).",
+                "hu": "Fizessen a parkolóautomatánál (fedett).",
+                "ro": "Plătiți taxa de parcare la automat (este acoperit).",
+                "en": "Pay the parking fee at the machine (it's covered)."
+              }
+            },
+            {
+              "name": "Seeburg Castle",
+              "tip_5lang": {
+                "de": "Kurzer Sprint vom Auto zum Schlosseingang möglich.",
+                "hu": "Rövid sprint az autótól a kastélybejáratig.",
+                "ro": "Sprint scurt de la mașină la intrarea în castel.",
+                "en": "Short sprint possible from the car to the castle entrance."
+              }
+            },
+            {
+              "name": "Seeburg Park & Lake Constance Promenade",
+              "tip_5lang": {
+                "de": "Regenschirm im Auto bereitlegen.",
+                "hu": "Készítse elő az esernyőt az autóban.",
+                "ro": "Pregătiți umbrela în mașină.",
+                "en": "Keep your umbrella ready in the car."
+              }
+            },
+            {
+              "name": "Kreuzlingen Harbour",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Restaurant/Hafenmeisterhaus.",
+                "hu": "Parkoljon közel az étteremhez/kikötőmesterhez.",
+                "ro": "Parcați aproape de restaurant/căpitănie.",
+                "en": "Park close to the restaurant/harbour master's office."
+              }
+            },
+            {
+              "name": "Central Car Park",
+              "tip_5lang": {
+                "de": "Zentraler Ausgangspunkt für die Innenstadt-Stopps.",
+                "hu": "Központi kiindulópont a belvárosi megállókhoz.",
+                "ro": "Punct central de plecare pentru opririle din centru.",
+                "en": "Central starting point for the downtown stops."
+              }
+            },
+            {
+              "name": "St. Ulrich Basilica",
+              "tip_5lang": {
+                "de": "Wenige Meter Fußweg vom Parkplatz.",
+                "hu": "Pár méter gyalogút a parkolótól.",
+                "ro": "Câțiva metri de mers pe jos de la parcare.",
+                "en": "Just a few meters walk from the car park."
+              }
+            },
+            {
+              "name": "Rosenegg Museum",
+              "tip_5lang": {
+                "de": "Parkplätze direkt vor dem Haus vorhanden.",
+                "hu": "Parkolóhelyek közvetlenül az épület előtt.",
+                "ro": "Locuri de parcare disponibile direct în fața clădirii.",
+                "en": "Parking spaces available directly in front of the building."
+              }
+            },
+            {
+              "name": "Kreuzlingen Planetarium",
+              "tip_5lang": {
+                "de": "Eigener Parkplatz direkt am Planetarium.",
+                "hu": "Saját parkoló közvetlenül a planetáriumnál.",
+                "ro": "Parcare proprie direct la planetariu.",
+                "en": "Private parking lot right at the planetarium."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Park-Apps, um das Bezahlen im Regen am Automaten zu vermeiden.",
+              "Die Sicht kann bei starkem Regen auf der Seestraße eingeschränkt sein.",
+              "Legen Sie eine Matte in den Kofferraum für nasse Regenschirme.",
+              "Die Parkhäuser in der Nähe des Zentrums sind oft trockenere Alternativen."
+            ],
+            "hu": [
+              "Használjon parkolási appot, hogy elkerülje az esőben való fizetést.",
+              "Heves esőben a látási viszonyok korlátozottak lehetnek a Seestraße-n.",
+              "Tegyen egy tálcát a csomagtartóba a vizes esernyőknek.",
+              "A központ közeli parkolóházak szárazabb alternatívát jelentenek."
+            ],
+            "ro": [
+              "Folosiți aplicațiile de parcare pentru a evita plata la automat în ploaie.",
+              "Vizibilitatea poate fi redusă pe Seestraße în timpul ploilor abundente.",
+              "Puneți o tăviță în portbagaj pentru umbrelele ude.",
+              "Parcările etajate din apropierea centrului sunt alternative mai uscate."
+            ],
+            "en": [
+              "Use parking apps to avoid paying at the machine in the rain.",
+              "Visibility can be limited on Seestraße during heavy rain.",
+              "Place a mat in the boot for wet umbrellas.",
+              "Multi-storey car parks near the centre are drier alternatives."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen beginnt entspannt mit der Fahrt zum See. Das Auto ist vorgeheizt und bietet Schutz vor der Bise.\n\nMittags genießen wir die verschneite Aussicht im Park, bevor wir uns in die warme Basilika zurückziehen.\n\nNachmittags steht das Museum Rosenegg an. Dank kurzer Wege vom Parkplatz bleibt man nicht lange in der Kälte.\n\nDer Abend endet im Planetarium. Die kurze Heimfahrt bei Dunkelheit ist im Auto sicher und komfortabel.",
+            "hu": "A téli reggel nyugodtan indul a tóhoz való autózással. Az autó előmelegített, és védelmet nyújt a metsző szél ellen.\n\nDélben élvezzük a havas kilátást a parkban, mielőtt visszahúzódnánk a meleg bazilikába.\n\nDélután a Rosenegg Múzeum következik. A parkolótól való rövid távolság miatt nem kell sokáig a hidegben lenni.\n\nAz este a planetáriumban zárul. A sötétben való rövid hazautazás az autóban biztonságos és kényelmes.",
+            "ro": "Dimineața de iarnă începe relaxat cu drumul spre lac. Mașina este preîncălzită și oferă protecție împotriva vântului rece.\n\nLa prânz ne bucurăm de priveliștea înzăpezită din parc, înainte de a ne retrage în bazilica caldă.\n\nDupă-amiaza vizităm Muzeul Rosenegg. Datorită distanței scurte de la parcare, nu stăm mult în frig.\n\nSeara se încheie la planetariu. Drumul scurt spre casă pe întuneric este sigur și confortabil în mașină.",
+            "en": "The winter morning starts relaxed with a drive to the lake. The car is pre-heated, providing shelter from the biting wind.\n\nAt noon, we enjoy the snowy views in the park before retreating into the warm Basilica.\n\nIn the afternoon, the Rosenegg Museum is on the agenda. Thanks to short walks from the car park, you don't stay in the cold for long.\n\nThe evening ends at the Planetarium. The short drive home in the dark is safe and comfortable in the car."
+          },
+          "stops": [
+            {
+              "name": "Seeburg Car Park",
+              "tip_5lang": {
+                "de": "Vorsicht vor Eisplatten auf dem ungesalzenen Teil des Platzes.",
+                "hu": "Vigyázzon a jégfoltokkal a parkoló nem sózott részein.",
+                "ro": "Atenție la porțiunile de gheață din zonele netratate ale parcării.",
+                "en": "Watch out for patches of ice on unsalted parts of the lot."
+              }
+            },
+            {
+              "name": "Seeburg Castle",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg, Schal und Mütze trotzdem nötig.",
+                "hu": "Rövid séta, de a sál és sapka így is kell.",
+                "ro": "Drum scurt, dar fularul și căciula sunt totuși necesare.",
+                "en": "Short walk, but scarf and hat are still needed."
+              }
+            },
+            {
+              "name": "Seeburg Park & Lake Constance Promenade",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick, bevor es zu kalt wird.",
+                "hu": "Élvezze a kilátást, mielőtt túlságosan lehűl.",
+                "ro": "Bucurați-vă de priveliște înainte să se facă prea frig.",
+                "en": "Enjoy the view before it gets too cold."
+              }
+            },
+            {
+              "name": "Kreuzlingen Harbour",
+              "tip_5lang": {
+                "de": "Parken Sie so, dass Sie nicht gegen den Wind aussteigen.",
+                "hu": "Úgy parkoljon, hogy ne széllel szemben kelljen kiszállnia.",
+                "ro": "Parcați astfel încât să nu coborâți direct în vânt.",
+                "en": "Park so you don't step out directly into the wind."
+              }
+            },
+            {
+              "name": "Central Car Park",
+              "tip_5lang": {
+                "de": "Zentral und oft schnell geräumt.",
+                "hu": "Központi és gyakran hamar letakarítják.",
+                "ro": "Central și adesea deszăpezit rapid.",
+                "en": "Central and often cleared of snow quickly."
+              }
+            },
+            {
+              "name": "St. Ulrich Basilica",
+              "tip_5lang": {
+                "de": "Innen ist es deutlich wärmer als draußen.",
+                "hu": "Bent lényegesen melegebb van, mint kint.",
+                "ro": "Interiorul este mult mai cald decât exteriorul.",
+                "en": "It's significantly warmer inside than outside."
+              }
+            },
+            {
+              "name": "Rosenegg Museum",
+              "tip_5lang": {
+                "de": "Parkplatz ist meist schneefrei.",
+                "hu": "A parkoló többnyire hómentes.",
+                "ro": "Parcarea este de obicei deszăpezită.",
+                "en": "The car park is usually snow-free."
+              }
+            },
+            {
+              "name": "Kreuzlingen Planetarium",
+              "tip_5lang": {
+                "de": "Vorsicht bei der Abfahrt, es könnte bereits frieren.",
+                "hu": "Vigyázzon az indulásnál, már fagyhat.",
+                "ro": "Atenție la plecare, s-ar putea să fi înghețat deja.",
+                "en": "Be careful when leaving; it might already be freezing."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Reifendruck, der bei Kälte sinken kann.",
+              "Eiskratzer und Besen sollten griffbereit im Auto liegen.",
+              "Die Parkplatzmarkierungen sind bei Schnee oft nicht sichtbar.",
+              "Vermeiden Sie die Handbremse bei extremem Frost (Festfrieren)."
+            ],
+            "hu": [
+              "Ellenőrizze a guminyomást, ami hidegben csökkenhet.",
+              "A jégkaparó és a kefe legyen kéznél az autóban.",
+              "A parkolóhelyek felfestése hóban gyakran nem látható.",
+              "Kerülje a kézifék használatát extrém fagyban."
+            ],
+            "ro": [
+              "Verificați presiunea în anvelope, care poate scădea la frig.",
+              "Răzuitoarea de gheață și peria ar trebui să fie la îndemână în mașină.",
+              "Marcajele parcării sunt adesea invizibile sub zăpadă.",
+              "Evitați frâna de mână în caz de ger extrem (poate îngheța)."
+            ],
+            "en": [
+              "Check tyre pressure, as it can drop in the cold.",
+              "Ice scraper and brush should be handy in the car.",
+              "Parking space markings are often not visible in snow.",
+              "Avoid using the handbrake in extreme frost (to prevent freezing)."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1574,6 +2210,206 @@
           "Be at the stop 5 minutes before departure.",
           "Signal the driver if you want to get off at a request stop."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten an der Bushaltestelle Seeburg. Die kurzen Wege zwischen Bus und Zielen minimieren die Zeit im Regen.\n\nMittags erkunden wir den Park und das Schloss, bevor wir mit dem Bus zum Bärenplatz fahren, um das Zentrum zu erreichen.\n\nDer Nachmittag ist der Kultur gewidmet. Basilika und Museum liegen nah beieinander, ideal für regnerische Stunden.\n\nZum Abend bringt uns der Bus direkt zum Planetarium. Die Fahrt durch die Stadt bietet trockene Aussichten auf das nasse Kreuzlingen.",
+            "hu": "A Seeburg buszmegállónál kezdünk. A busz és a célpontok közötti rövid távolság minimalizálja az esőben töltött időt.\n\nDélben a parkot és a kastélyt fedezzük fel, majd busszal a Bärenplatzra megyünk a központ eléréséhez.\n\nA délután a kultúráé. A bazilika és a múzeum közel vannak egymáshoz, ideálisak az esős órákra.\n\nEste a busz közvetlenül a planetáriumhoz visz minket. A városi utazás száraz kilátást nyújt a vizes Kreuzlingenre.",
+            "ro": "Începem la stația de autobuz Seeburg. Distanțele scurte între autobuz și obiective minimizează timpul petrecut în ploaie.\n\nLa prânz explorăm parcul și castelul, apoi luăm autobuzul spre Bärenplatz pentru a ajunge în centru.\n\nDupă-amiaza este dedicată culturii. Bazilica și muzeul sunt aproape una de alta, ideale pentru orele ploioase.\n\nSeara, autobuzul ne duce direct la planetariu. Drumul prin oraș oferă priveliști uscate asupra Kreuzlingen-ului ud.",
+            "en": "We start at the Seeburg bus stop. Short walks between the bus and destinations minimize time spent in the rain.\n\nAt noon, we explore the park and castle before taking the bus to Bärenplatz to reach the city centre.\n\nThe afternoon is dedicated to culture. The Basilica and Museum are close to each other, ideal for rainy hours.\n\nIn the evening, the bus takes us directly to the Planetarium. The ride through town offers dry views of rainy Kreuzlingen."
+          },
+          "stops": [
+            {
+              "name": "Seeburg Bus Stop",
+              "tip_5lang": {
+                "de": "Das Wartehäuschen bietet guten Schutz vor dem Regen.",
+                "hu": "A váróterem jó védelmet nyújt az eső elől.",
+                "ro": "Adăpostul stației oferă o protecție bună împotriva ploii.",
+                "en": "The bus shelter provides good protection from the rain."
+              }
+            },
+            {
+              "name": "Seeburg Castle",
+              "tip_5lang": {
+                "de": "Folgen Sie dem befestigten Weg vom Bus zum Schloss.",
+                "hu": "Kövesse a burkolt utat a busztól a kastélyig.",
+                "ro": "Urmați poteca pavată de la autobuz la castel.",
+                "en": "Follow the paved path from the bus to the castle."
+              }
+            },
+            {
+              "name": "Kreuzlingen Harbour & Seeburg Park",
+              "tip_5lang": {
+                "de": "Bei starkem Regen Aufenthalt im Hafenrestaurant.",
+                "hu": "Heves esőben maradjon a kikötői étteremben.",
+                "ro": "În caz de ploaie abundentă, stați la restaurantul din port.",
+                "en": "Stay at the harbour restaurant during heavy rain."
+              }
+            },
+            {
+              "name": "Bärenplatz Bus Stop",
+              "tip_5lang": {
+                "de": "Zentraler Umsteigepunkt, meist überdacht.",
+                "hu": "Központi átszállóhely, többnyire fedett.",
+                "ro": "Punct central de transfer, în mare parte acoperit.",
+                "en": "Central transfer point, mostly covered."
+              }
+            },
+            {
+              "name": "St. Ulrich Basilica",
+              "tip_5lang": {
+                "de": "Nur 2 Minuten Fußweg von der Haltestelle.",
+                "hu": "Csak 2 perc séta a megállótól.",
+                "ro": "Doar 2 minute de mers pe jos de la stație.",
+                "en": "Only a 2-minute walk from the stop."
+              }
+            },
+            {
+              "name": "Rosenegg Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die App, um die Wartezeit im Regen zu verkürzen.",
+                "hu": "Használjon appot a várakozási idő csökkentésére.",
+                "ro": "Folosiți aplicația pentru a reduce timpul de așteptare în ploaie.",
+                "en": "Use the app to minimize waiting time in the rain."
+              }
+            },
+            {
+              "name": "Kreuzlingen Planetarium",
+              "tip_5lang": {
+                "de": "Bushaltestelle 'Planetarium' direkt vor dem Eingang.",
+                "hu": "A 'Planetarium' buszmegálló közvetlenül a bejáratnál van.",
+                "ro": "Stația de autobuz 'Planetarium' este chiar în fața intrării.",
+                "en": "The 'Planetarium' bus stop is right in front of the entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Stadtbus Kreuzlingen verkehrt regelmäßig und ist pünktlich.",
+              "Lösen Sie Ihr Ticket bequem per App (SBB Mobile vagy Fairtiq).",
+              "Achten Sie beim Einsteigen auf nasse Böden im Bus (Rutschgefahr).",
+              "Halten Sie Ihren Regenschirm beim Einsteigen geschlossen."
+            ],
+            "hu": [
+              "A kreuzlingeni városi busz rendszeresen és pontosan közlekedik.",
+              "Váltsa meg jegyét kényelmesen appon keresztül.",
+              "Vigyázzon felszálláskor a vizes padlóra a buszon.",
+              "Tartsa csukva az esernyőjét felszállás közben."
+            ],
+            "ro": [
+              "Autobuzul urban din Kreuzlingen circulă regulat și este punctual.",
+              "Cumpărați biletul comod prin aplicație.",
+              "Atenție la podeaua umedă din autobuz la urcare (pericol de alunecare).",
+              "Țineți umbrela închisă la urcarea în autobuz."
+            ],
+            "en": [
+              "The Kreuzlingen city bus runs regularly and on time.",
+              "Buy your ticket conveniently via app.",
+              "Watch out for wet floors in the bus when boarding (slipping hazard).",
+              "Keep your umbrella closed while boarding the bus."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Wir starten am winterlichen See. Der Bus ist angenehm geheizt und bietet eine Pause von der Kälte.\n\nMittags erkunden wir den Park und das Schloss, bevor wir uns in der Basilika und im Museum Rosenegg aufwärmen.\n\nDer Nachmittag am See ist kurz, da die Sonne früh untergeht. Die Fahrt im Stadtbus ermöglicht es, die Landschaft ohne kalten Wind zu sehen.\n\nZum Abend erreichen wir das Planetarium. Die warme Atmosphäre im Bus bereitet uns auf die gemütliche Show vor.",
+            "hu": "A téli tónál kezdünk. A busz kellemesen fűtött, és pihenőt nyújt a hideg elől.\n\nDélben a parkot és a kastélyt fedezzük fel, majd a bazilikában és a Rosenegg Múzeumban melegszünk fel.\n\nA tóparti délután rövid, mivel a nap korán lebukik. A városi buszos utazás lehetővé teszi a táj megtekintését hideg szél nélkül.\n\nEste érjük el a planetáriumot. A busz meleg légköre felkészít minket a hangulatos előadásra.",
+            "ro": "Începem la lacul de iarnă. Autobuzul este încălzit plăcut și oferă o pauză de la frig.\n\nLa prânz explorăm parcul și castelul, apoi ne încălzim în bazilică și la Muzeul Rosenegg.\n\nDupă-amiaza la lac este scurtă, deoarece soarele apune devreme. Drumul cu autobuzul urban permite vizionarea peisajului fără vântul rece.\n\nSeara ajungem la planetariu. Atmosfera caldă din autobuz ne pregătește pentru spectacolul primitor.",
+            "en": "We start by the wintry lake. The bus is pleasantly heated, offering a break from the cold.\n\nAt noon, we explore the park and castle before warming up in the Basilica and Rosenegg Museum.\n\nLakeside afternoons are short as the sun sets early. Riding the city bus allows you to see the landscape without the cold wind.\n\nIn the evening, we reach the Planetarium. The warm atmosphere on the bus prepares us for the cozy show."
+          },
+          "stops": [
+            {
+              "name": "Seeburg Bus Stop",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenem Matsch an der Haltestelle.",
+                "hu": "Vigyázzon a fagyott latyakkal a megállóban.",
+                "ro": "Atenție la noroiul înghețat din stație.",
+                "en": "Watch out for frozen slush at the bus stop."
+              }
+            },
+            {
+              "name": "Seeburg Castle",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg durch den verschneiten Park.",
+                "hu": "Rövid séta a havas parkon keresztül.",
+                "ro": "Drum scurt prin parcul înzăpezit.",
+                "en": "Short walk through the snowy park."
+              }
+            },
+            {
+              "name": "Kreuzlingen Harbour & Seeburg Park",
+              "tip_5lang": {
+                "de": "Der Hafen wirkt im Winter oft wie aus Eis erstarrt.",
+                "hu": "A kikötő télen gyakran jégbe fagyottnak tűnik.",
+                "ro": "Portul pare adesea înghețat iarna.",
+                "en": "The harbour often appears frozen in winter."
+              }
+            },
+            {
+              "name": "Bärenplatz Bus Stop",
+              "tip_5lang": {
+                "de": "Guter Ort, um kurz im warmen Kiosk zu warten.",
+                "hu": "Jó hely egy rövid várakozásra a meleg kioszknál.",
+                "ro": "Loc bun pentru a aștepta scurt la chioșcul cald.",
+                "en": "Good place for a short wait at the warm kiosk."
+              }
+            },
+            {
+              "name": "St. Ulrich Basilica",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich innen auf, während Sie auf den Bus warten.",
+                "hu": "Melegedjen fel bent, amíg a buszra vár.",
+                "ro": "Încălziți-vă în interior în timp ce așteptați autobuzul.",
+                "en": "Warm up inside while waiting for the bus."
+              }
+            },
+            {
+              "name": "Rosenegg Museum",
+              "tip_5lang": {
+                "de": "Der Bus hält fast direkt vor der Tür.",
+                "hu": "A busz szinte közvetlenül az ajtó előtt áll meg.",
+                "ro": "Autobuzul oprește aproape direct în fața ușii.",
+                "en": "The bus stops almost right in front of the door."
+              }
+            },
+            {
+              "name": "Kreuzlingen Planetarium",
+              "tip_5lang": {
+                "de": "Beleuchtete Haltestelle für die abendliche Rückfahrt.",
+                "hu": "Kivilágított megálló az esti visszautazáshoz.",
+                "ro": "Stație iluminată pentru drumul de întoarcere de seară.",
+                "en": "Lit bus stop for the evening return journey."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrpläne können sich bei starkem Schneefall leicht verzögern.",
+              "Die Busse sind gut klimatisiert, ziehen Sie die Jacke im Bus aus.",
+              "Der Fußweg zur Haltestelle kann glatt sein, Vorsicht geboten.",
+              "Nutzen Sie die Echtzeit-Info in der SBB-App."
+            ],
+            "hu": [
+              "A menetrend erős havazás esetén kissé módosulhat.",
+              "A buszok jól fűtöttek, vegye le a kabátját utazás közben.",
+              "A megállóhoz vezető út csúszós lehet, legyen óvatos.",
+              "Használja a valós idejű információkat az SBB appban."
+            ],
+            "ro": [
+              "Orarele pot avea mici întârzieri în caz de ninsoare abundentă.",
+              "Autobuzele sunt bine încălzite, dați-vă jos haina înăuntru.",
+              "Drumul spre stație poate fi alunecos, se recomandă prudență.",
+              "Folosiți informațiile în timp real din aplicația SBB."
+            ],
+            "en": [
+              "Schedules may be slightly delayed during heavy snowfall.",
+              "Buses are well heated; take off your coat while inside.",
+              "The walk to the stop can be slippery; exercise caution.",
+              "Use real-time info in the SBB app."
+            ]
+          }
+        }
       }
     }
   }

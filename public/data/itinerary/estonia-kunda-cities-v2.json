@@ -356,6 +356,188 @@
           "Check the opening hours for the Cement Museum in advance.",
           "A light rain jacket is always a good idea on the Estonian coast."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Spaziergang beginnt an den melancholischen Ruinen des Herrenhauses Kunda, die im Regen besonders dramatisch wirken. Mittags finden Sie im Zementmuseum einen warmen und trockenen Rückzugsort, um die Industriegeschichte seit 1870 zu erkunden. Der Nachmittag am Hafen ist windig, während der Lammasmägi zum Abschluss durch aufgeweichte Pfade Trittsicherheit und gute Regenkleidung erfordert.",
+            "hu": "A séta a kundai kastélyromok ködös, esős látványával indul, ahol az ódon falak drámai hangulatot árasztanak. Délben a Cementmúzeum fűtött kiállítóterei nyújtanak menedéket és betekintést az 1870-ben indult iparágba. Délután a kikötőben a Balti-tenger felőli szél erős, a nap végén pedig a Lammasmägi dombján sárra és csúszós ösvényekre kell készülni.",
+            "ro": "Plimbarea începe la ruinele conacului Kunda, care par dramatice sub cerul cenușiu. La prânz, Muzeul Cimentului oferă un adăpost uscat pentru a învăța despre industria începută în 1870. După-amiaza în port este marcată de vântul umed de pe Baltica, iar ziua se încheie la Lammasmägi, unde potecile pot fi noroioase și necesită încălțăminte aderentă.",
+            "en": "The walk starts at the evocative ruins of Kunda Manor, looking particularly somber in the rain. Midday is best spent inside the warm Cement Museum, exploring industrial history dating back to 1870. In the afternoon, the port area is exposed to wet Baltic winds, and the final stop at Lammasmägi requires sturdy boots for the potentially muddy ancient settlement site."
+          },
+          "stops": [
+            {
+              "name": "Kunda Manor",
+              "tip_5lang": {
+                "de": "Die Ruinen bieten keinen Schutz vor Regen; ein Schirm ist hier Pflicht.",
+                "hu": "A romok között nincs fedett rész, esernyő vagy esőkabát feltétlen szükséges.",
+                "ro": "Ruinele nu oferă adăpost împotriva ploii; o umbrelă este obligatorie aici.",
+                "en": "The ruins offer no shelter from the rain; an umbrella is a must-have here."
+              }
+            },
+            {
+              "name": "Kunda Church",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Innenraum für eine kurze trockene Pause und Besinnung.",
+                "hu": "Használja ki a templom belső terét egy rövid, száraz pihenőre és elmélkedésre.",
+                "ro": "Folosiți interiorul bisericii pentru o scurtă pauză uscată și reflecție.",
+                "en": "Use the church interior for a short dry break and quiet reflection."
+              }
+            },
+            {
+              "name": "Kunda Hydroelectric Power Plant",
+              "tip_5lang": {
+                "de": "Vorsicht auf den nassen Metallstegen; bei Regen können sie rutschig sein.",
+                "hu": "Vigyázat a nedves fémjárdákon; esőben rendkívül csúszósak lehetnek.",
+                "ro": "Atenție pe pasarelele metalice umede; pot fi alunecoase când plouă.",
+                "en": "Watch your step on the wet metal walkways; they can be slippery in the rain."
+              }
+            },
+            {
+              "name": "Kunda Cement Museum",
+              "tip_5lang": {
+                "de": "Idealer Ort, um den stärksten Regen im Trockenen abzuwarten.",
+                "hu": "Ideális helyszín a nagyobb eső kivárására a száraz és fűtött épületben.",
+                "ro": "Locul ideal pentru a aștepta trecerea ploii într-un mediu uscat și cald.",
+                "en": "Ideal place to wait out the heaviest rain in a dry and warm indoor setting."
+              }
+            },
+            {
+              "name": "Port of Kunda",
+              "tip_5lang": {
+                "de": "Starker Wind am Kai; halten Sie Ihre Kapuze gut fest.",
+                "hu": "Erős szél a mólónál; rögzítse jól az esőkabát kapucniját.",
+                "ro": "Vânt puternic pe chei; asigurați-vă bine gluga pelerinei de ploaie.",
+                "en": "Strong winds on the pier; make sure to secure your raincoat hood tightly."
+              }
+            },
+            {
+              "name": "Kunda Lammasmägi",
+              "tip_5lang": {
+                "de": "Der Hügelpfad ist lehmig; meiden Sie die steilen, unbefestigten Abschnitte.",
+                "hu": "A dombra vezető út agyagos; kerülje a meredek, kiépítetlen szakaszokat.",
+                "ro": "Poteca de pe deal este lutoasă; evitați secțiunile abrupte și neamenajate.",
+                "en": "The hill path is clayey; avoid the steep, unpaved sections in heavy rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Wanderschuhe für die unbefestigten Wege am Lammasmägi.",
+              "Das Zementmuseum bietet die beste Möglichkeit zum Aufwärmen und Trocknen.",
+              "Am Hafen peitscht der Regen oft horizontal; Windjacke über den Pulli ziehen.",
+              "Die Steinruinen des Herrenhauses werden bei Nässe sehr rutschig."
+            ],
+            "hu": [
+              "Viseljen vízálló túrabakancsot a Lammasmägi kiépítetlen ösvényeihez.",
+              "A Cementmúzeum a legjobb hely a felmelegedésre és a száradásra.",
+              "A kikötőnél az eső gyakran vízszintesen esik; húzzon szélkabátot a pulóverre.",
+              "A kastély kőromjai nedvesen rendkívül csúszóssá válnak."
+            ],
+            "ro": [
+              "Purtați bocanci de trekking impermeabili pentru potecile de la Lammasmägi.",
+              "Muzeul Cimentului oferă cea mai bună ocazie pentru a vă încălzi și usca.",
+              "În port, ploaia cade adesea orizontal; purtați o jachetă de vânt peste pulover.",
+              "Ruinele de piatră ale conacului devin foarte alunecoase când sunt ude."
+            ],
+            "en": [
+              "Wear waterproof hiking boots for the unpaved paths at Lammasmägi.",
+              "The Cement Museum offers the best opportunity to warm up and dry off.",
+              "At the port, rain often blows horizontally; wear a windbreaker over your sweater.",
+              "The stone ruins of the manor become extremely slippery when wet."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Kunda im Winter bietet eine stille, frostige Industriekultur. Die Ruinen des Herrenhauses sind oft schneebedeckt und wirken wie aus der Zeit gefallen. Mittags wärmen Sie sich im Zementmuseum auf, bevor Sie am zugefrorenen Hafen die eisige Brise der Ostsee spüren. Da die Sonne bereits gegen 15:30 Uhr untergeht, erreichen Sie den Lammasmägi in der blauen Stunde des nordischen Winters.",
+            "hu": "Kunda télen a csendes, fagyos ipari táj képét mutatja. A kastélyromokat gyakran hó fedi, ami időtlen hangulatot áraszt. Napközben a Cementmúzeumban melegedhet fel, majd a befagyott kikötőnél érezheti a Balti-tenger jeges fuvallatát. Mivel a nap már 15:30 körül nyugszik, a Lammasmägi dombját már az északi tél kék órájában éri el.",
+            "ro": "Kunda iarna oferă un peisaj industrial liniștit și înghețat. Ruinele conacului sunt adesea acoperite de zăpadă, oferind o atmosferă atemporală. La prânz vă puteți încălzi în Muzeul Cimentului, înainte de a simți briza înghețată a Balticii în portul înghețat. Deoarece soarele apune în jurul orei 15:30, veți ajunge la Lammasmägi în ora albastră a iernii nordice.",
+            "en": "Kunda in winter presents a quiet, frosty industrial landscape. The manor ruins are often blanketed in snow, creating a timeless atmosphere. Warm up at midday in the Cement Museum before feeling the icy Baltic breeze at the frozen port. As the sun sets around 15:30, you will reach the Lammasmägi hill during the blue hour of the Nordic winter."
+          },
+          "stops": [
+            {
+              "name": "Kunda Manor",
+              "tip_5lang": {
+                "de": "Vorsicht vor herabfallenden Eiszapfen an den alten Mauern.",
+                "hu": "Vigyázzon az öreg falakról lelógó jégcsapokra a romok területén.",
+                "ro": "Atenție la țurțurii care pot cădea de pe zidurile vechi ale ruinelor.",
+                "en": "Watch out for falling icicles from the old walls of the manor ruins."
+              }
+            },
+            {
+              "name": "Kunda Church",
+              "tip_5lang": {
+                "de": "Im Inneren ist es oft kühler als erwartet; behalten Sie den Mantel an.",
+                "hu": "Odabent gyakran hűvösebb van a vártnál; ne vegye le a kabátját.",
+                "ro": "În interior este adesea mai frig decât vă așteptați; păstrați haina pe dvs.",
+                "en": "It is often colder inside than expected; keep your coat on during the visit."
+              }
+            },
+            {
+              "name": "Kunda Hydroelectric Power Plant",
+              "tip_5lang": {
+                "de": "Das fließende Wasser erzeugt oft spektakuläre Eisformationen am Wehr.",
+                "hu": "A sebes víz gyakran látványos jégalakzatokat hoz létre a gátnál.",
+                "ro": "Apa curgătoare creează adesea formațiuni de gheață spectaculoase la baraj.",
+                "en": "The flowing water often creates spectacular ice formations at the weir."
+              }
+            },
+            {
+              "name": "Kunda Cement Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Heizung im Museum, um Ihre Glieder wieder aufzuwärmen.",
+                "hu": "Használja ki a múzeum fűtését a megfagyott végtagok felmelegítésére.",
+                "ro": "Folosiți încălzirea din muzeu pentru a vă dezmorți membrele înghețate.",
+                "en": "Take advantage of the museum heating to warm up your chilled limbs."
+              }
+            },
+            {
+              "name": "Port of Kunda",
+              "tip_5lang": {
+                "de": "Die Gischt am Hafen gefriert sofort; die Wege sind spiegelglatt.",
+                "hu": "A kikötői permet azonnal ráfagy a burkolatra; az utak tükörsima jégpályák.",
+                "ro": "Stropii de apă îngheață instantaneu în port; drumurile sunt ca oglinda.",
+                "en": "Sea spray freezes instantly at the port; the paths are extremely slippery."
+              }
+            },
+            {
+              "name": "Kunda Lammasmägi",
+              "tip_5lang": {
+                "de": "Bringen Sie eine Taschenlampe mit, da es hier früh dunkel wird.",
+                "hu": "Vigyen magával zseblámpát, mert itt nagyon korán sötétedik.",
+                "ro": "Aduceți o lanternă, deoarece aici se întunecă foarte devreme.",
+                "en": "Bring a flashlight, as it gets dark very early at this location."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermounterwäsche; der Wind vom Meer senkt die gefühlte Temperatur.",
+              "Planen Sie das Ende der Tour vor 16:00 Uhr ein, um Tageslicht zu nutzen.",
+              "Feste Winterschuhe mit Profil sind wegen Eisglätte unerlässlich.",
+              "Warme Getränke in einer Thermoskanne sind bei dieser Tour sehr hilfreich."
+            ],
+            "hu": [
+              "Viseljen hőtartó aláöltözetet; a tengeri szél jelentősen rontja a hőérzetet.",
+              "A túra végét tervezze 16:00 előttre a természetes fény kihasználása miatt.",
+              "A jegesedés miatt elengedhetetlen a bordázott talpú téli lábbeli.",
+              "Egy termosz meleg ital sokat segít a kinti szakaszok teljesítésében."
+            ],
+            "ro": [
+              "Purtați lenjerie termică; vântul de pe mare scade mult temperatura resimțită.",
+              "Planificați sfârșitul turului înainte de ora 16:00 pentru a profita de lumină.",
+              "Încălțămintea de iarnă cu profil aderent este esențială din cauza gheții.",
+              "Băuturile calde într-un termos sunt de mare ajutor în timpul acestui tur."
+            ],
+            "en": [
+              "Wear thermal underwear; the sea wind significantly lowers the perceived temperature.",
+              "Plan to end the tour before 16:00 to make the most of the daylight.",
+              "Winter boots with good grip are essential due to icy conditions.",
+              "Hot drinks in a thermos are very helpful during this outdoor tour."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -693,6 +875,206 @@
           "Pack snacks and water, especially for the trip to Lammasmägi.",
           "Check the weather forecast before you set off."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Diese Radtour durch Kunda verlangt gute Schutzbleche und Regenkleidung. Vom historischen Lammasmägi geht es über nasse Straßen zum Herrenhaus und der Kirche. Das Zementmuseum bietet eine ideale Pause, bevor Sie die Küste erreichen. Die Abfahrt zum Aussichtspunkt Kronkskallas erfordert bei Nässe besondere Vorsicht auf den Bremsen.",
+            "hu": "Ez a kundai kerékpártúra sárvédőt és vízálló ruházatot igényel. A történelmi Lammasmägitől vizes utakon haladunk a kastély és a templom felé. A Cementmúzeum tökéletes pihenőhely a part elérése előtt. A Kronkskallas kilátóhoz vezető lejtőn esőben fokozott óvatossággal használja a fékeket.",
+            "ro": "Acest tur cu bicicleta prin Kunda necesită apărători de noroi și haine impermeabile. De la istoricul Lammasmägi parcurgem drumuri ude spre conac și biserică. Muzeul Cimentului este o oprire ideală înainte de coastă. Coborârea spre punctul de belvedere Kronkskallas necesită prudență maximă la frânare pe ploaie.",
+            "en": "This bike tour through Kunda requires mudguards and waterproof gear. From the historical Lammasmägi, cycle over wet roads towards the manor and church. The Cement Museum offers an ideal break before reaching the coast. The descent to the Kronkskallas viewpoint requires extra caution with your brakes in the wet."
+          },
+          "stops": [
+            {
+              "name": "Kunda Lammasmägi",
+              "tip_5lang": {
+                "de": "Vermeiden Sie die schlammigen Graswege; bleiben Sie auf dem Schotter.",
+                "hu": "Kerülje a sáros, füves utakat; maradjon a kavicsos részeken.",
+                "ro": "Evitați potecile de iarbă noroioase; rămâneți pe porțiunile cu pietriș.",
+                "en": "Avoid the muddy grass paths; stick to the gravel sections."
+              }
+            },
+            {
+              "name": "Kunda Manor",
+              "tip_5lang": {
+                "de": "Die Einfahrt zum Herrenhaus hat bei Regen tückische Schlaglöcher.",
+                "hu": "A kastélyhoz vezető bejárón esőben csalóka kátyúk bújnak meg.",
+                "ro": "Intrarea spre conac are gropi înșelătoare când plouă.",
+                "en": "The entrance to the manor has deceptive potholes when it rains."
+              }
+            },
+            {
+              "name": "Kunda Church",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter dem Vordach ab, falls Platz ist.",
+                "hu": "Állítsa le a biciklit az előtető alá, ha van elég hely.",
+                "ro": "Parcați bicicleta sub streașină, dacă există suficient loc.",
+                "en": "Park your bike under the overhang if there is enough space."
+              }
+            },
+            {
+              "name": "Kunda River Valley",
+              "tip_5lang": {
+                "de": "Der Weg am Flussufer kann nach Regenfällen teilweise überflutet sein.",
+                "hu": "A folyóparti út heves esőzések után helyenként víz alá kerülhet.",
+                "ro": "Poteca de pe malul râului poate fi parțial inundată după ploi.",
+                "en": "The riverside path may be partially flooded after heavy rainfall."
+              }
+            },
+            {
+              "name": "Kunda Cement Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch, um Ihre Kleidung etwas zu trocknen.",
+                "hu": "Használja ki a múzeumlátogatást a ruházat szárítására.",
+                "ro": "Folosiți vizita la muzeu pentru a vă usca puțin hainele.",
+                "en": "Use the museum visit to dry your clothes a bit."
+              }
+            },
+            {
+              "name": "Port of Kunda",
+              "tip_5lang": {
+                "de": "Vorsicht bei Seitenwind auf den offenen Straßen zum Hafen.",
+                "hu": "Vigyázzon az oldalszélre a kikötőhöz vezető nyílt utakon.",
+                "ro": "Atenție la vântul lateral pe drumurile deschise spre port.",
+                "en": "Beware of crosswinds on the open roads leading to the port."
+              }
+            },
+            {
+              "name": "Kronkskallas Viewpoint",
+              "tip_5lang": {
+                "de": "Sperren Sie Ihr Rad gut ab; die Aussicht ist auch bei Regen weitläufig.",
+                "hu": "Zárja le jól a gépet; a kilátás esőben is messzire nyúlik.",
+                "ro": "Încuiați bine bicicleta; vederea este vastă chiar și pe ploaie.",
+                "en": "Lock your bike securely; the view is expansive even in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Bremsen; nasse Felgen verlängern den Bremsweg.",
+              "Vermeiden Sie Pfützen; sie könnten tiefe Schlaglöcher verbergen.",
+              "Tragen Sie eine auffällige Regenjacke für bessere Sichtbarkeit.",
+              "Ein Sattelschutz hält Ihren Sitz während der Stopps trocken."
+            ],
+            "hu": [
+              "Ellenőrizze a fékeket; a nedves felnik növelik a fékutat.",
+              "Kerülje a tócsákat; mély kátyúkat rejthetnek.",
+              "Viseljen feltűnő esőkabátot a jobb láthatóság érdekében.",
+              "A nyeregkılıf szárazon tartja az ülést a megállók ideje alatt."
+            ],
+            "ro": [
+              "Verificați frânele; jantele umede măresc distanța de frânare.",
+              "Evitați bălțile; acestea pot ascunde gropi adânci.",
+              "Purtați o jachetă de ploaie stridentă pentru o mai bună vizibilitate.",
+              "O protecție de șa vă menține scaunul uscat în timpul opririlor."
+            ],
+            "en": [
+              "Check your brakes; wet rims increase the braking distance.",
+              "Avoid puddles; they could hide deep potholes.",
+              "Wear a high-visibility raincoat for better visibility to drivers.",
+              "A saddle cover will keep your seat dry during the stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im winterlichen Kunda ist ein Abenteuer für Hartgesottene. Die Route führt durch eine weiße Industrielandschaft, vorbei an den vereisten Ruinen des Herrenhauses. Das Zementmuseum bietet die nötige Aufwärmpause. Am Hafen erwartet Sie eisiger Wind, bevor der Kronkskallas-Aussichtspunkt einen Blick auf die gefrorene Ostsee bietet – denken Sie an das frühe Lichtende.",
+            "hu": "A téli kerékpározás Kundában igazi kaland a kitartóknak. Az útvonal fehér ipari tájon át vezet, elhaladva a kastély jeges romjai mellett. A Cementmúzeum biztosítja a szükséges felmelegedést. A kikötőnél jeges szél fogadja, majd a Kronkskallas kilátó a befagyott Balti-tengerre nyit panorámát – ügyeljen a korai sötétedésre.",
+            "ro": "Ciclismul în Kunda pe timp de iarnă este o aventură pentru cei rezistenți. Traseul trece printr-un peisaj industrial alb, pe lângă ruinele înghețate ale conacului. Muzeul Cimentului oferă pauza de încălzire necesară. În port vă așteaptă un vânt tăios, înainte ca punctul Kronkskallas să ofere o priveliște asupra Balticii înghețate – atenție la apusul timpuriu.",
+            "en": "Cycling in wintry Kunda is an adventure for the hardy. The route takes you through a white industrial landscape, past the frozen manor ruins. The Cement Museum provides the necessary warm-up break. At the port, expect icy winds before the Kronkskallas viewpoint offers a look at the frozen Baltic – keep the early sunset in mind."
+          },
+          "stops": [
+            {
+              "name": "Kunda Lammasmägi",
+              "tip_5lang": {
+                "de": "Die Wege hier werden im Winter nicht geräumt; Vorsicht vor Tiefschnee.",
+                "hu": "Az itteni utakat télen nem takarítják; vigyázzon a mély hóra.",
+                "ro": "Drumurile de aici nu sunt deszăpezite iarna; atenție la zăpada mare.",
+                "en": "The paths here are not cleared in winter; watch out for deep snow."
+              }
+            },
+            {
+              "name": "Kunda Manor",
+              "tip_5lang": {
+                "de": "Glatteisgefahr auf dem Kopfsteinpflaster in der Nähe der Ruinen.",
+                "hu": "Jegesedés veszélye a macskaköves részeken a romok közelében.",
+                "ro": "Pericol de polei pe porțiunile cu piatră cubică de lângă ruine.",
+                "en": "Danger of black ice on the cobblestones near the ruins."
+              }
+            },
+            {
+              "name": "Kunda Church",
+              "tip_5lang": {
+                "de": "Der Platz vor der Kirche kann bei Frost sehr rutschig sein.",
+                "hu": "A templom előtti tér fagy idején rendkívül csúszós lehet.",
+                "ro": "Piața din fața bisericii poate fi foarte alunecoasă în caz de îngheț.",
+                "en": "The square in front of the church can be very slippery during frost."
+              }
+            },
+            {
+              "name": "Kunda River Valley",
+              "tip_5lang": {
+                "de": "Die Wege im Flusstal sind oft vereist; nutzen Sie Spike-Reifen.",
+                "hu": "A folyóvölgyi utak gyakran jegesek; használjon szöges gumit.",
+                "ro": "Potecile din valea râului sunt adesea înghețate; folosiți anvelope cu ținte.",
+                "en": "The river valley paths are often icy; use studded tires if possible."
+              }
+            },
+            {
+              "name": "Kunda Cement Museum",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad so ab, dass es den Schneepflug nicht behindert.",
+                "hu": "Úgy állítsa le a gépet, hogy ne akadályozza a hókotrót.",
+                "ro": "Parcați bicicleta astfel încât să nu încurce plugul de zăpadă.",
+                "en": "Park your bike so that it doesn't obstruct the snowplow."
+              }
+            },
+            {
+              "name": "Port of Kunda",
+              "tip_5lang": {
+                "de": "Extremer Windchill; halten Sie den Aufenthalt im Freien kurz.",
+                "hu": "Rendkívüli szélhűtés; tartsa rövidre a kinti tartózkodást.",
+                "ro": "Factor de răcire extrem; limitați timpul petrecut afară.",
+                "en": "Extreme wind chill; keep your outdoor stay brief here."
+              }
+            },
+            {
+              "name": "Kronkskallas Viewpoint",
+              "tip_5lang": {
+                "de": "Der Aussichtspunkt ist ungeschützt; ziehen Sie eine extra Schicht an.",
+                "hu": "A kilátópont teljesen nyitott; vegyen fel egy extra réteget.",
+                "ro": "Punctul de belvedere este neprotejat; mai puneți un strat de haine.",
+                "en": "The viewpoint is unsheltered; put on an extra layer of clothing."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Verwenden Sie Winterreifen oder reduzieren Sie den Reifendruck leicht.",
+              "Schmieren Sie die Kette gut, um Korrosion durch Streusalz vorzubeugen.",
+              "Akkus von E-Bikes entladen sich in der Kälte schneller; warm lagern.",
+              "Fahren Sie defensiv; Bremswege auf Schnee sind unvorhersehbar."
+            ],
+            "hu": [
+              "Használjon téli gumit vagy csökkentse kissé a keréknyomást.",
+              "Kenje meg jól a láncot a hólé és a só okozta korrózió ellen.",
+              "Az e-bike akkuk hidegben gyorsabban merülnek; tárolja meleg helyen.",
+              "Vezessen óvatosan; a fékút havon kiszámíthatatlan."
+            ],
+            "ro": [
+              "Folosiți anvelope de iarnă sau reduceți ușor presiunea în pneuri.",
+              "Lubrifiați bine lanțul pentru a preveni coroziunea cauzată de sare.",
+              "Bateriile bicicletelor electrice se descarcă mai repede la frig.",
+              "Conduceți defensiv; distanțele de frânare pe zăpadă sunt imprevizibile."
+            ],
+            "en": [
+              "Use winter tires or slightly reduce tire pressure for better grip.",
+              "Keep the chain well-lubricated to prevent corrosion from road salt.",
+              "E-bike batteries drain faster in the cold; store them indoors.",
+              "Ride defensively; braking distances on snow are unpredictable."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1037,6 +1419,206 @@
           "Plan your walking clusters to avoid unnecessary driving back and forth.",
           "Keep some change handy for any potential parking meters or small purchases."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Kunda mit dem Auto bietet bei Regen maximalen Komfort zwischen den industriellen Schauplätzen. Von den prähistorischen Stätten am Lammasmägi gelangen Sie trocken zum Herrenhaus und der Kirche. Das Zementmuseum ist das kulturelle Highlight, bevor Sie den windgepeitschten Hafen und die weite Aussicht von Kronkskallas bequem aus dem warmen Fahrzeug genießen können.",
+            "hu": "Kunda felfedezése autóval esőben a legkényelmesebb módja az ipari helyszínek bejárásának. A Lammasmägi őskori lelőhelyétől szárazon juthat el a kastélyhoz és a templomhoz. A Cementmúzeum a kulturális csúcspont, mielőtt a szeles kikötőt és a Kronkskallas panorámáját az autó melegéből élvezné.",
+            "ro": "Explorarea orașului Kunda cu mașina pe ploaie oferă confort maxim între siturile industriale. De la siturile preistorice de la Lammasmägi ajungeți uscați la conac și biserică. Muzeul Cimentului este punctul culminant cultural, înainte de a admira portul și panorama de la Kronkskallas din confortul mașinii.",
+            "en": "Exploring Kunda by car in the rain offers maximum comfort between the industrial sites. From the prehistoric remains at Lammasmägi, stay dry as you travel to the manor and church. The Cement Museum is the cultural highlight before enjoying the windswept port and the broad views from Kronkskallas comfortably from your vehicle."
+          },
+          "stops": [
+            {
+              "name": "Kunda Lammasmägi",
+              "tip_5lang": {
+                "de": "Der Parkplatz kann bei starkem Regen schlammig sein; bleiben Sie auf dem Kies.",
+                "hu": "A parkoló heves esőben sáros lehet; maradjon a kavicsos részen.",
+                "ro": "Parcarea poate fi noroioasă la ploaie torențială; stați pe pietriș.",
+                "en": "The parking area can be muddy in heavy rain; stay on the gravel."
+              }
+            },
+            {
+              "name": "Kunda Manor",
+              "tip_5lang": {
+                "de": "Parken Sie direkt an der Zufahrt, um den Fußweg im Regen kurz zu halten.",
+                "hu": "Parkoljon közvetlenül a bejáratnál, hogy rövid legyen a séta az esőben.",
+                "ro": "Parcați chiar la intrare pentru a scurta drumul pe jos prin ploaie.",
+                "en": "Park right at the entrance to keep the walk in the rain short."
+              }
+            },
+            {
+              "name": "Kunda Church",
+              "tip_5lang": {
+                "de": "Achten Sie auf Pfützen in den Vertiefungen des Parkplatzes.",
+                "hu": "Ügyeljen a tócsákra a parkoló egyenetlenségeiben.",
+                "ro": "Atenție la bălțile din adânciturile parcării.",
+                "en": "Watch out for puddles in the dips of the parking lot."
+              }
+            },
+            {
+              "name": "Kunda Hydroelectric Power Plant",
+              "tip_5lang": {
+                "de": "Die schmale Zufahrt kann bei Nässe auf den Rändern weich sein.",
+                "hu": "A keskeny bekötőút szélei esőben felázhatnak és puhák lehetnek.",
+                "ro": "Marginile drumului îngust de acces pot fi moi când sunt ude.",
+                "en": "The edges of the narrow access road can be soft when wet."
+              }
+            },
+            {
+              "name": "Kunda Cement Museum",
+              "tip_5lang": {
+                "de": "Großer befestigter Parkplatz direkt vor dem Museumseingang.",
+                "hu": "Nagy, szilárd burkolatú parkoló közvetlenül a múzeumi bejáratnál.",
+                "ro": "Parcare mare pavată chiar în fața intrării în muzeu.",
+                "en": "Large paved parking lot right in front of the museum entrance."
+              }
+            },
+            {
+              "name": "Port of Kunda",
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Aussteigen direkt am Kai, wenn die Gischt hochschlägt.",
+                "hu": "Ne szálljon ki közvetlenül a mólónál, ha nagy a hullámverés.",
+                "ro": "Evitați să coborâți chiar pe chei dacă valurile sunt mari.",
+                "en": "Avoid getting out right at the pier if the sea spray is high."
+              }
+            },
+            {
+              "name": "Kronkskallas Viewpoint",
+              "tip_5lang": {
+                "de": "Die Aussicht lässt sich bei Regen auch gut durch die Frontscheibe genießen.",
+                "hu": "A kilátás esőben a szélvédőn keresztül is jól élvezhető.",
+                "ro": "Priveliștea poate fi admirată bine și prin parbriz când plouă.",
+                "en": "The view can also be enjoyed well through the windshield in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Zustand Ihrer Scheibenwischer vor der Abfahrt.",
+              "Schalten Sie das Abblendlicht ein, um in der Gischt besser gesehen zu werden.",
+              "Vermeiden Sie das Befahren unbefestigter Seitenstreifen bei Regen.",
+              "Halten Sie ein Handtuch bereit, falls Sie beim Einsteigen nass werden."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze az ablaktörlők állapotát.",
+              "Kapcsolja be a tompított fényszórót a jobb láthatóságért.",
+              "Esőben kerülje a kiépítetlen útpadkára való lehajtást.",
+              "Legyen kéznél törölköző, ha beszálláskor megázna."
+            ],
+            "ro": [
+              "Verificați starea ștergătoarelor înainte de plecare.",
+              "Aprindeți faza scurtă pentru a fi mai vizibil în ploaie.",
+              "Evitați conducerea pe acostamente neasfaltate când plouă.",
+              "Aveți la îndemână un prosop în caz că vă udați la urcare."
+            ],
+            "en": [
+              "Check the condition of your windshield wipers before departing.",
+              "Turn on your low beams for better visibility in the spray.",
+              "Avoid driving on unpaved shoulders during heavy rain.",
+              "Keep a towel handy in case you get wet while entering the car."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine Wintertour mit dem Auto durch Kunda erlaubt es, die frostige Ostseeküste ohne Erfrierungen zu erleben. Die Straßen zur Zementfabrik und zum Hafen werden meist gut geräumt, dennoch ist Vorsicht geboten. Nach dem Besuch der schneebedeckten Ruinen und dem Aufwärmen im Museum bietet die Fahrt zum Kronkskallas-Aussichtspunkt ein spektakuläres Winterpanorama aus der Sicherheit des beheizten Wagens.",
+            "hu": "A téli autós túra Kundában lehetővé teszi a fagyos balti partvidék felfedezését a fagyoskodás veszélye nélkül. A cementgyárhoz és a kikötőhöz vezető utakat általában jól takarítják, de az óvatosság ajánlott. A hófödte romok és a múzeumi melegedő után a Kronkskallas kilátóhoz vezető út látványos téli panorámát kínál a fűtött autó biztonságából.",
+            "ro": "Un tur de iarnă cu mașina prin Kunda permite experimentarea coastei înghețate fără riscul de degerături. Drumurile spre fabrica de ciment și port sunt de obicei bine deszăpezite, dar prudența este necesară. După vizitarea ruinelor înzăpezite și încălzirea în muzeu, drumul spre Kronkskallas oferă o panoramă spectaculoasă din siguranța mașinii.",
+            "en": "A winter car tour through Kunda allows you to experience the frosty Baltic coast without the risk of frostbite. Roads to the cement factory and port are usually well-cleared, yet caution is advised. After visiting the snow-covered ruins and warming up in the museum, the drive to the Kronkskallas viewpoint offers a spectacular winter panorama from the safety of a heated car."
+          },
+          "stops": [
+            {
+              "name": "Kunda Lammasmägi",
+              "tip_5lang": {
+                "de": "Die Zufahrt kann bei Schneeverwehungen schwierig sein; nutzen Sie den Hauptweg.",
+                "hu": "A bekötőút hóátfúvások esetén nehézkes lehet; használja a főutat.",
+                "ro": "Accesul poate fi dificil în caz de viscol; folosiți drumul principal.",
+                "en": "Access can be difficult during snowdrifts; stick to the main road."
+              }
+            },
+            {
+              "name": "Kunda Manor",
+              "tip_5lang": {
+                "de": "Stellen Sie den Wagen nicht unter Bäumen ab (Gefahr von Schneelasten).",
+                "hu": "Ne parkoljon fák alatt a rájuk nehezedő hó súlya miatt.",
+                "ro": "Nu parcați sub copaci din cauza greutății zăpezii de pe ramuri.",
+                "en": "Do not park under trees due to the danger of falling snow loads."
+              }
+            },
+            {
+              "name": "Kunda Church",
+              "tip_5lang": {
+                "de": "Vorsicht beim Einparken; Schneehaufen könnten Hindernisse verdecken.",
+                "hu": "Vigyázzon parkoláskor; a hóbuckák akadályokat rejthetnek.",
+                "ro": "Atenție la parcare; mormanele de zăpadă pot ascunde obstacole.",
+                "en": "Be careful when parking; snowbanks might hide obstacles."
+              }
+            },
+            {
+              "name": "Kunda Hydroelectric Power Plant",
+              "tip_5lang": {
+                "de": "Das Ufergelände kann unter dem Schnee tückisch vereist sein.",
+                "hu": "A folyóparti terület a hó alatt csalókán jeges lehet.",
+                "ro": "Zona malului poate fi înșelător de înghețată sub zăpadă.",
+                "en": "The riverside area can be treacherously icy under the snow."
+              }
+            },
+            {
+              "name": "Kunda Cement Museum",
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor nicht unnötig im Stand laufen.",
+                "hu": "Ne járassa feleslegesen a motort álló helyzetben.",
+                "ro": "Nu lăsați motorul să meargă inutil la ralanti.",
+                "en": "Do not leave the engine idling unnecessarily while parked."
+              }
+            },
+            {
+              "name": "Port of Kunda",
+              "tip_5lang": {
+                "de": "Bei Glätte ist der Bremsweg auf den Hafenstraßen stark verlängert.",
+                "hu": "Jegesedéskor a fékút a kikötői utakon jelentősen meghosszabbodik.",
+                "ro": "Pe polei, distanța de frânare pe drumurile portuare este mult mărită.",
+                "en": "On icy roads, the braking distance at the port is greatly extended."
+              }
+            },
+            {
+              "name": "Kronkskallas Viewpoint",
+              "tip_5lang": {
+                "de": "Bleiben Sie mit dem Auto auf den geräumten Flächen; steckenbleiben vermeiden.",
+                "hu": "Maradjon az autóval a takarított felületeken; kerülje az elakadást.",
+                "ro": "Rămâneți cu mașina pe suprafețele deszăpezite pentru a nu rămâne înzăpeziți.",
+                "en": "Keep the car on cleared surfaces to avoid getting stuck in snow."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen und ausreichend Frostschutzmittel sind in Estland Pflicht.",
+              "Führen Sie eine Schaufel und einen Eiskratzer im Kofferraum mit.",
+              "Achten Sie auf Elche, die im Winter oft die Straßen kreuzen.",
+              "Halten Sie den Tank mindestens halb voll für Notfälle im Schnee."
+            ],
+            "hu": [
+              "A téli gumi és a fagyálló hűtőfolyadék kötelező Észtországban.",
+              "Legyen a csomagtartóban hólapát és jégkaparó.",
+              "Ügyeljen a jávorszarvasokra, amik télen gyakran átkelnek az úton.",
+              "Tartsa a tankot legalább félig tele váratlan hóhelyzetekre."
+            ],
+            "ro": [
+              "Anvelopele de iarnă și antigelul sunt obligatorii în Estonia.",
+              "Aveți în portbagaj o lopată și o racletă pentru gheață.",
+              "Atenție la elani, care traversează adesea drumurile iarna.",
+              "Păstrați rezervorul cel puțin pe jumătate plin pentru urgențe."
+            ],
+            "en": [
+              "Winter tires and sufficient antifreeze are mandatory in Estonia.",
+              "Carry a snow shovel and an ice scraper in your trunk.",
+              "Watch out for moose, which often cross the roads in winter.",
+              "Keep your fuel tank at least half full for snow-related emergencies."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1317,6 +1899,170 @@
           "Be mindful of the last bus service back to your accommodation.",
           "Wave to the bus driver to ensure they stop for you."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Nutzung öffentlicher Verkehrsmittel in Kunda erfordert bei Regen etwas Planung für die Wartezeiten. Zwischen dem Besuch des Herrenhauses und der Kirche bieten die Busse trockene Intervalle. Das Zementmuseum ist das perfekte Ziel für den Mittag, um dem Wetter zu entfliehen, bevor Sie den Hafen erreichen. Die Rückfahrt erfolgt oft im gemütlichen Schutz des Busses, während es draußen stürmt.",
+            "hu": "A kundai tömegközlekedés használata esőben némi tervezést igényel a várakozási idők miatt. A kastély és a templom meglátogatása között a buszok száraz szakaszokat biztosítanak. A Cementmúzeum tökéletes déli célpont az időjárás elől való menekülésre a kikötő előtt. A visszaút a busz otthonos védelmében telik, miközben odakint tombol a vihar.",
+            "ro": "Utilizarea transportului public în Kunda pe ploaie necesită planificare pentru timpii de așteptare. Între vizitarea conacului și a bisericii, autobuzele oferă intervale uscate. Muzeul Cimentului este destinația perfectă la prânz pentru a scăpa de vreme. Întoarcerea are loc sub protecția autobuzului, în timp ce afară plouă torențial.",
+            "en": "Using public transit in Kunda during the rain requires some planning for wait times. Between visiting the manor and the church, buses provide dry intervals. The Cement Museum is the perfect midday destination to escape the weather before reaching the port. The return journey is spent in the cozy shelter of the bus while it storms outside."
+          },
+          "stops": [
+            {
+              "name": "Kunda Manor",
+              "tip_5lang": {
+                "de": "Die nächste Haltestelle hat kein Wartehäuschen; Schirm bereit halten.",
+                "hu": "A legközelebbi megállóban nincs esőbeálló; tartsa készenlétben az esernyőt.",
+                "ro": "Cea mai apropiată stație nu are adăpost; țineți umbrela la îndemână.",
+                "en": "The nearest stop has no shelter; keep your umbrella ready."
+              }
+            },
+            {
+              "name": "Kunda Church",
+              "tip_5lang": {
+                "de": "Informieren Sie sich vorab über die Taktzeiten der Busse im Regen.",
+                "hu": "Esőben tájékozódjon előre a buszok követési idejéről.",
+                "ro": "Informați-vă din timp despre frecvența autobuzelor pe ploaie.",
+                "en": "Check the bus schedule in advance to minimize waiting in the rain."
+              }
+            },
+            {
+              "name": "Kunda Cement Museum",
+              "tip_5lang": {
+                "de": "Direkte Busanbindung; ideal bei schlechtem Wetter.",
+                "hu": "Közvetlen buszkapcsolat; ideális rossz idő esetén.",
+                "ro": "Conexiune directă cu autobuzul; ideal pe vreme rea.",
+                "en": "Direct bus connection; ideal for avoiding the rain."
+              }
+            },
+            {
+              "name": "Port of Kunda",
+              "tip_5lang": {
+                "de": "Der Fußweg von der Haltestelle zum Hafen ist bei Regen zugig.",
+                "hu": "A megállótól a kikötőig tartó gyalogút esőben huzatos.",
+                "ro": "Drumul de la stație la port este expus curentului când plouă.",
+                "en": "The walk from the stop to the port is draughty in the rain."
+              }
+            },
+            {
+              "name": "Kunda River Valley",
+              "tip_5lang": {
+                "de": "Letzte Verbindung rechtzeitig prüfen, um nicht im Regen festzusitzen.",
+                "hu": "Időben ellenőrizze az utolsó járatot, hogy ne ragadjon kint az esőben.",
+                "ro": "Verificați din timp ultima cursă pentru a nu rămâne în ploaie.",
+                "en": "Check the last connection in time to avoid getting stuck in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die App 'Peatus' für Echtzeit-Fahrplandaten in Estland.",
+              "Nehmen Sie Kleingeld für Fahrkarten mit, falls Kartenzahlung ausfällt.",
+              "Die Busse sind im Herbst und Winter oft gut geheizt.",
+              "Vermeiden Sie das Warten an ungeschützten Haltestellen ohne Regenjacke."
+            ],
+            "hu": [
+              "Használja a 'Peatus' alkalmazást a valós idejű észt menetrendekhez.",
+              "Legyen Önnél aprópénz jegyre, ha a kártyás fizetés nem működne.",
+              "A buszok ősszel és télen általában jól fűtöttek.",
+              "Esőkabát nélkül kerülje a várakozást a fedetlen megállókban."
+            ],
+            "ro": [
+              "Folosiți aplicația 'Peatus' pentru orarul în timp real din Estonia.",
+              "Aveți mărunțiș pentru bilete în caz că plata cu cardul nu merge.",
+              "Autobuzele sunt de obicei bine încălzite toamna și iarna.",
+              "Evitați așteptarea în stații neprotejate fără o pelerină de ploaie."
+            ],
+            "en": [
+              "Use the 'Peatus' app for real-time transit data in Estonia.",
+              "Carry some cash for tickets in case card payment fails.",
+              "Buses are usually well-heated during autumn and winter.",
+              "Avoid waiting at unsheltered stops without a proper raincoat."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter ist der Bus in Kunda die sicherste Wahl, um die eisigen Distanzen zwischen den Sehenswürdigkeiten zu überbrücken. Genießen Sie den Anblick der verschneiten Herrenhausruinen, bevor Sie sich im Bus auf dem Weg zum Zementmuseum wieder aufwärmen. Da die Dunkelheit früh einsetzt, bietet die Fahrt zum Hafen und zurück in die Stadt eine atmosphärische Reise durch die beleuchtete Industriekulisse.",
+            "hu": "Télen a kundai busz a legbiztosabb választás a látnivalók közötti jeges távolságok leküzdésére. Élvezze a hófödte kastélyromok látványát, mielőtt a buszon felmelegedne a Cementmúzeum felé menet. Mivel korán sötétedik, a kikötőbe és onnan vissza vezető út hangulatos utazást kínál a kivilágított ipari díszletek között.",
+            "ro": "Iarna, autobuzul este cea mai sigură alegere în Kunda pentru a parcurge distanțele înghețate dintre obiective. Admirați ruinele înzăpezite ale conacului înainte de a vă încălzi în autobuz spre Muzeul Cimentului. Deoarece se întunecă devreme, drumul spre port și înapoi oferă o călătorie atmosferică prin decorul industrial luminat.",
+            "en": "In winter, the bus in Kunda is the safest choice for covering the icy distances between attractions. Enjoy the sight of the snow-covered manor ruins before warming up on the bus to the Cement Museum. As darkness falls early, the trip to the port and back to town offers an atmospheric journey through the illuminated industrial backdrop."
+          },
+          "stops": [
+            {
+              "name": "Kunda Manor",
+              "tip_5lang": {
+                "de": "Die Wege zur Haltestelle können vereist sein; gehen Sie vorsichtig.",
+                "hu": "A megállóhoz vezető utak jegesek lehetnek; járjon óvatosan.",
+                "ro": "Drumurile spre stație pot fi înghețate; mergeți cu atenție.",
+                "en": "The paths to the bus stop can be icy; walk carefully."
+              }
+            },
+            {
+              "name": "Kunda Church",
+              "tip_5lang": {
+                "de": "Busse können bei starkem Schneefall leichte Verspätungen haben.",
+                "hu": "Heves havazás esetén a buszoknál kisebb késések fordulhatnak elő.",
+                "ro": "Autobuzele pot avea mici întârzieri în caz de ninsoare abundentă.",
+                "en": "Buses may experience slight delays during heavy snowfall."
+              }
+            },
+            {
+              "name": "Kunda Cement Museum",
+              "tip_5lang": {
+                "de": "Warmer Warteraum im Museumsnähe oft verfügbar.",
+                "hu": "A múzeum közelében gyakran rendelkezésre áll meleg váróhelyiség.",
+                "ro": "În apropierea muzeului este adesea disponibilă o sală de așteptare caldă.",
+                "en": "A warm waiting area is often available near the museum."
+              }
+            },
+            {
+              "name": "Port of Kunda",
+              "tip_5lang": {
+                "de": "Der Bus wendet hier; bleiben Sie beim Einsteigen im Warmen.",
+                "hu": "A busz itt fordul; maradjon a melegben a felszállásig.",
+                "ro": "Autobuzul întoarce aici; stați la căldură până la urcare.",
+                "en": "The bus turns around here; stay in the warm until boarding."
+              }
+            },
+            {
+              "name": "Kunda River Valley",
+              "tip_5lang": {
+                "de": "Achten Sie auf den letzten Bus, da die Wege nachts schwer erkennbar sind.",
+                "hu": "Figyeljen az utolsó buszra, mert éjszállal nehéz kiigazodni az utakon.",
+                "ro": "Atenție la ultimul autobuz, drumurile fiind greu de recunoscut noaptea.",
+                "en": "Keep an eye on the last bus, as paths are hard to distinguish at night."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Reflektoren; in der estnischen Dunkelheit sind diese Pflicht.",
+              "Haltestellen sind im Winter oft schneebedeckt; festes Schuhwerk nutzen.",
+              "Warten Sie im Inneren von Gebäuden, wenn der Bus erst in 15+ Min. kommt.",
+              "Die Heizung in estnischen Bussen ist meist sehr leistungsstark."
+            ],
+            "hu": [
+              "Viseljen fényvisszaverőt; az észt sötétségben ez kötelező.",
+              "A megállókat télen gyakran hó fedi; használjon stabil lábbelit.",
+              "Várjon épületen belül, ha a busz csak 15+ perc múlva érkezik.",
+              "Az észt buszok fűtése általában nagyon hatékony."
+            ],
+            "ro": [
+              "Purtați elemente reflectorizante; sunt obligatorii în întunericul estonian.",
+              "Stațiile sunt adesea înzăpezite; folosiți încălțăminte stabilă.",
+              "Așteptați în interior dacă autobuzul vine peste mai mult de 15 minute.",
+              "Încălzirea în autobuzele estoniene este de obicei foarte puternică."
+            ],
+            "en": [
+              "Wear reflectors; they are mandatory in the Estonian darkness.",
+              "Bus stops are often covered in snow; use stable footwear.",
+              "Wait inside buildings if the bus is more than 15 minutes away.",
+              "The heating in Estonian buses is usually very effective."
+            ]
+          }
+        }
       }
     }
   }

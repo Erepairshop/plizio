@@ -362,6 +362,196 @@
           "Plan for a picnic in Finca Liana Park to save money.",
           "Check museum opening times in advance."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens schützen die Arkaden an der Plaza del Pradillo vor den ersten Tropfen. Mittags bietet das Stadtmuseum einen trockenen Zufluchtsort voller Geschichte. Nachmittags wird der Spaziergang durch den Finca Liana Park kürzer, doch die nassen Wege glänzen stimmungsvoll. Abends endet der Tag gemütlich bei der Ermita de los Santos, während der Regen leise gegen die alten Mauern klopft.",
+            "hu": "Reggel a Plaza del Pradillo árkádjai nyújtanak menedéket az első cseppek elől. Délben a Városi Múzeum falai között, szárazon fedezhetjük fel a múltat. Délután a Finca Liana park ösvényei hangulatosan csillognak az esőben, bár a séta rövidebb a szokásosnál. Az este a Szentek remetetemplománál ér véget, miközben az eső kopogása csendes hátteret ad a történelmi falaknak.",
+            "ro": "Dimineața, arcadele din Plaza del Pradillo oferă adăpost împotriva primilor stropi de ploaie. La prânz, Muzeul Orașului devine un refugiu uscat și plin de istorie. După-amiaza, potecile din Parcul Finca Liana strălucesc sub ploaie, chiar dacă plimbarea este mai scurtă. Seara se încheie liniștit la Ermita de los Santos, în timp ce sunetul ploii acompaniază zidurile vechi.",
+            "en": "In the morning, the arcades of Plaza del Pradillo provide shelter from the first drops of rain. At noon, the City Museum offers a dry sanctuary filled with local history. In the afternoon, the paths of Finca Liana Park glisten beautifully in the wet, though the walk is shorter. The evening ends peacefully at the Hermitage of the Saints, with the sound of rain tapping against the ancient stone."
+          },
+          "stops": [
+            {
+              "name": "Plaza del Pradillo",
+              "tip_5lang": {
+                "de": "Nutzen Sie die nahen Cafés als Regenschutz.",
+                "hu": "Használja a közeli kávézókat eső elleni védelemnek.",
+                "ro": "Folosiți cafenelele din apropiere pentru adăpost.",
+                "en": "Use the nearby cafes as shelter from the rain."
+              }
+            },
+            {
+              "name": "Andrés Torrejón Monument",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp unter dem Regenschirm.",
+                "hu": "Gyors fotómegálló az esernyő alatt.",
+                "ro": "Scurt popas pentru poze sub umbrelă.",
+                "en": "Quick photo stop under your umbrella."
+              }
+            },
+            {
+              "name": "City Museum",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um den stärksten Guss abzuwarten.",
+                "hu": "Tökéletes hely a legnagyobb felhőszakadás kivárására.",
+                "ro": "Locul perfect pentru a aștepta trecerea ploii.",
+                "en": "Perfect place to wait out the heaviest downpour."
+              }
+            },
+            {
+              "name": "Church of the Assumption",
+              "tip_5lang": {
+                "de": "Ruhepause im trockenen Kirchenschiff.",
+                "hu": "Csendes pihenő a száraz templomhajóban.",
+                "ro": "O pauză liniștită în interiorul uscat al bisericii.",
+                "en": "A quiet break inside the dry nave."
+              }
+            },
+            {
+              "name": "Finca Liana Park",
+              "tip_5lang": {
+                "de": "Achten Sie auf rutschige Blätter auf den Wegen.",
+                "hu": "Vigyázzon a csúszós levelekre az utakon.",
+                "ro": "Atenție la frunzele alunecoase de pe alei.",
+                "en": "Watch out for slippery leaves on the paths."
+              }
+            },
+            {
+              "name": "Hermitage of the Saints",
+              "tip_5lang": {
+                "de": "Die Beleuchtung wirkt bei Regen besonders mystisch.",
+                "hu": "A világítás esőben különösen misztikus hatást kelt.",
+                "ro": "Iluminatul pare deosebit de mistic pe ploaie.",
+                "en": "The lighting looks especially mystical in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da sich in den Parks Pfützen bilden.",
+              "Die Metrostation Pradillo bietet einen schnellen, trockenen Weg ins Zentrum.",
+              "Packen Sie einen stabilen Regenschirm ein, da es windig sein kann.",
+              "Nutzen Sie die langen Museumszeiten für trockene Pausen.",
+              "In Spanien regnet es oft heftig, aber kurz – Cafés sind ideal zum Warten."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert a parkokban tócsák alakulhatnak ki.",
+              "A Pradillo metrómegálló gyors és száraz útvonalat kínál a központba.",
+              "Vigyen magával erős esernyőt, mert a szél felerősödhet.",
+              "Használja ki a múzeumi látogatást a leghosszabb esős időszakban.",
+              "Spanyolországban az eső gyakran heves, de rövid – a kávézók ideálisak a várakozásra."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, deoarece se pot forma bălți în parcuri.",
+              "Stația de metrou Pradillo oferă o cale rapidă și uscată spre centru.",
+              "Luați o umbrelă rezistentă, deoarece vântul poate fi puternic.",
+              "Profitate de timpul petrecut în muzeu pentru a rămâne uscat.",
+              "În Spania plouă adesea torențial, dar scurt – cafenelele sunt ideale pentru așteptare."
+            ],
+            "en": [
+              "Wear waterproof shoes as puddles often form in the parks.",
+              "Pradillo metro station offers a quick and dry route to the center.",
+              "Bring a sturdy umbrella as it can get windy during rain showers.",
+              "Make the most of museum visiting hours to stay dry during peaks.",
+              "Rain in Spain is often heavy but short – cafes are perfect for waiting it out."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen an der Plaza del Pradillo ist frisch und klar, ideal für einen heißen Kaffee. Mittags wärmt die Sonne die monumentalen Statuen, während das Museum eine behagliche Pause bietet. Am Nachmittag taucht das frühe Gold der Wintersonne den Finca Liana Park in weiches Licht. Der Abend senkt sich früh über die Ermita de los Santos, die in der kühlen Luft festlich erleuchtet scheint.",
+            "hu": "A téli reggel a Plaza del Pradillón friss és tiszta, ideális egy forró kávéhoz. Délben a nap megcsillan a monumentális szobrokon, miközben a múzeum kellemes meleget kínál. Délután a téli nap korai aranyfénye lágy világításba vonja a Finca Liana parkot. Az este korán leszáll a Szentek remetetemplomára, amely a hűvös levegőben ünnepélyesen kivilágítva tündököl.",
+            "ro": "Dimineața de iarnă în Plaza del Pradillo este proaspătă și senină, ideală pentru o cafea fierbinte. La prânz, soarele încălzește monumentele, în timp ce muzeul oferă o pauză confortabilă. După-amiaza, lumina aurie a soarelui de iarnă scaldă Parcul Finca Liana în culori calde. Seara coboară devreme peste Ermita de los Santos, care pare luminată festiv în aerul rece.",
+            "en": "A winter morning at Plaza del Pradillo is crisp and clear, perfect for a hot coffee. At noon, the sun warms the monumental statues while the museum provides a cozy indoor break. In the afternoon, the early golden winter sun bathes Finca Liana Park in soft, beautiful light. Evening falls early over the Hermitage of the Saints, which looks festively lit in the cool night air."
+          },
+          "stops": [
+            {
+              "name": "Plaza del Pradillo",
+              "tip_5lang": {
+                "de": "Genießen Sie Churros mit Schokolade zum Aufwärmen.",
+                "hu": "Egyen forró csokoládés churrost a bemelegítéshez.",
+                "ro": "Savurați churros cu ciocolată pentru a vă încălzi.",
+                "en": "Enjoy some churros with chocolate to warm up."
+              }
+            },
+            {
+              "name": "Andrés Torrejón Monument",
+              "tip_5lang": {
+                "de": "Das Licht am Vormittag ist ideal für Fotos.",
+                "hu": "A délelőtti fények ideálisak a fotózáshoz.",
+                "ro": "Lumina de dimineață este ideală pentru fotografii.",
+                "en": "The morning light here is ideal for photography."
+              }
+            },
+            {
+              "name": "City Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe für schwere Wintermäntel.",
+                "hu": "Használja a ruhatárat a nehéz télikabátoknak.",
+                "ro": "Folosiți garderoba pentru hainele groase de iarnă.",
+                "en": "Use the cloakroom for heavy winter coats."
+              }
+            },
+            {
+              "name": "Church of the Assumption",
+              "tip_5lang": {
+                "de": "In den alten Mauern kann es kühl sein, Schal anlassen.",
+                "hu": "A régi falak között hűvös lehet, tartsa magán a sálat.",
+                "ro": "Poate fi răcoare între zidurile vechi, păstrați fularul.",
+                "en": "It can be chilly inside the old walls, keep your scarf on."
+              }
+            },
+            {
+              "name": "Finca Liana Park",
+              "tip_5lang": {
+                "de": "Planen Sie den Besuch vor 17:30 Uhr ein (Sonnenuntergang).",
+                "hu": "Tervezze a látogatást 17:30 előttre (naplemente).",
+                "ro": "Planificați vizita înainte de 17:30 (apusul soarelui).",
+                "en": "Plan your visit before 17:30 (sunset)."
+              }
+            },
+            {
+              "name": "Hermitage of the Saints",
+              "tip_5lang": {
+                "de": "Wunderschön beleuchtet in der blauen Stunde.",
+                "hu": "Gyönyörűen kivilágítva a kék órában.",
+                "ro": "Frumos iluminat în timpul orei albastre.",
+                "en": "Beautifully lit during the blue hour."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich im Zwiebelprinzip, da die Sonne mittags kräftig sein kann.",
+              "Die Sonne geht im Dezember bereits gegen 18:00 Uhr unter.",
+              "Schattenbereiche in Parks sind deutlich kühler als sonnige Plätze.",
+              "In Móstoles weht oft ein trockener, kalter Wind aus den Bergen.",
+              "Museen und Kirchen sind gute Orte, um sich zwischendurch aufzuwärmen."
+            ],
+            "hu": [
+              "Öltözködjön rétegesen, mert délben a nap még erős lehet.",
+              "Decemberben a nap már 18:00 körül lemegy.",
+              "A parkok árnyékos részei jóval hűvösebbek a napos helyeknél.",
+              "Móstolesben gyakran fúj száraz, hideg szél a hegyek felől.",
+              "A múzeumok és templomok jó helyek egy kis köztes bemelegedéshez."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi, deoarece soarele poate fi puternic la prânz.",
+              "Soarele apune deja în jur de ora 18:00 în decembrie.",
+              "Zonele umbrite din parcuri sunt mult mai reci decât cele însorite.",
+              "În Móstoles suflă adesea un vânt rece și uscat dinspre munți.",
+              "Muzeele și bisericile sunt locuri bune pentru a vă încălzi între timp."
+            ],
+            "en": [
+              "Dress in layers as the sun can still be strong at midday.",
+              "Sunset in December occurs early, around 18:00.",
+              "Shaded areas in parks are significantly cooler than sunny spots.",
+              "A dry, cold wind often blows from the mountains toward Móstoles.",
+              "Museums and churches are great places to warm up during your walk."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -718,6 +908,196 @@
           "Wear a helmet for your safety.",
           "Bring plenty of water, especially in summer."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt erfrischend an der Plaza del Pradillo, während der Asphalt glänzt. Mittags führt die Fahrt zum Stadtmuseum, wo eine trockene Kulturpause wartet. Am Nachmittag bietet das CA2M moderne Kunst als Schutz vor dem Regen, bevor es durch die feuchten Alleen des Finca Liana Parks geht. Der Tag endet an der Kirche Nuestra Señora de la Asunción, während die Stadtlichter im Regen verschwimmen.",
+            "hu": "A nap frissítően indul a Plaza del Pradillón, miközben az aszfalt csillog. Délben az út a Városi Múzeumhoz vezet, ahol száraz kulturális pihenő vár. Délután a CA2M modern művészete nyújt menedéket az eső elől, mielőtt áttekernénk a Finca Liana park nedves sugárútjain. A nap a Miasszonyunk Mennybemenetele templomnál ér véget, miközben a város fényei elmosódnak az esőben.",
+            "ro": "Ziua începe revigorant în Plaza del Pradillo, în timp ce asfaltul strălucește. La prânz, traseul duce la Muzeul Orașului pentru o pauză culturală uscată. După-amiaza, arta modernă de la CA2M oferă adăpost împotriva ploii înainte de a trece prin aleile umede din Parcul Finca Liana. Ziua se încheie la Biserica Adormirea Maicii Domnului, în timp ce luminile orașului se reflectă în ploaie.",
+            "en": "The day starts refreshingly at Plaza del Pradillo as the wet asphalt glistens. At noon, the route leads to the City Museum for a dry cultural break. In the afternoon, CA2M's modern art provides shelter from the rain before cycling through the damp avenues of Finca Liana Park. The day ends at the Church of the Assumption, while the city lights blur beautifully in the rainfall."
+          },
+          "stops": [
+            {
+              "name": "Plaza del Pradillo",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem glatten Kopfsteinpflaster.",
+                "hu": "Vigyázzon a csúszós macskaköveken.",
+                "ro": "Atenție la pavajul alunecos.",
+                "en": "Be careful on the slippery cobblestones."
+              }
+            },
+            {
+              "name": "City Museum",
+              "tip_5lang": {
+                "de": "Fahrradständer direkt vor dem Eingang nutzen.",
+                "hu": "Használja a bejárat előtti kerékpártárolót.",
+                "ro": "Folosiți suportul de biciclete direct în fața intrării.",
+                "en": "Use the bike racks right in front of the entrance."
+              }
+            },
+            {
+              "name": "CA2M Dos de Mayo Art Center",
+              "tip_5lang": {
+                "de": "Viel Zeit im Trockenen für moderne Kunst einplanen.",
+                "hu": "Tervezzen sok időt a szárazon a modern művészetre.",
+                "ro": "Alocați mult timp în interior pentru arta modernă.",
+                "en": "Plan plenty of time indoors for modern art."
+              }
+            },
+            {
+              "name": "Finca Liana Park",
+              "tip_5lang": {
+                "de": "Bremsen Sie auf nassen Parkwegen vorsichtiger.",
+                "hu": "Fékezzen óvatosabban a nedves parki utakon.",
+                "ro": "Frânați cu mai multă atenție pe aleile umede.",
+                "en": "Brake more carefully on the wet park paths."
+              }
+            },
+            {
+              "name": "El Soto Park",
+              "tip_5lang": {
+                "de": "Tiefe Pfützen auf den unbefestigten Wegen meiden.",
+                "hu": "Kerülje a mély tócsákat a burkolatlan utakon.",
+                "ro": "Evitați bălțile adânci de pe drumurile neasfaltate.",
+                "en": "Avoid deep puddles on the unpaved paths."
+              }
+            },
+            {
+              "name": "Church of the Assumption",
+              "tip_5lang": {
+                "de": "Ein geschützter Ort für den Abschluss der Tour.",
+                "hu": "Védett hely a túra befejezéséhez.",
+                "ro": "Un loc protejat pentru finalul turului.",
+                "en": "A sheltered spot to conclude your tour."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine auffällige Regenjacke für bessere Sichtbarkeit.",
+              "Vermeiden Sie schnelle Kurven auf nassen Straßenmarkierungen.",
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt, da Nässe die Wirkung verzögert.",
+              "Schützen Sie Ihren Sattel beim Parken mit einer Plastikhülle.",
+              "Die Radwege im Stadtzentrum sind bei Regen oft rutschig."
+            ],
+            "hu": [
+              "Viseljen feltűnő esőkabátot a jobb láthatóság érdekében.",
+              "Kerülje a gyors kanyarodást a nedves útburkolati jeleken.",
+              "Indulás előtt ellenőrizze a fékeket, mert a nedvesség lassítja a hatást.",
+              "Parkoláskor védje a nyerget műanyag huzattal.",
+              "A városközpont kerékpárútjai esőben gyakran csúszósak."
+            ],
+            "ro": [
+              "Purtați o jachetă de ploaie reflectorizantă pentru vizibilitate.",
+              "Evitați virajele rapide pe marcajele rutiere umede.",
+              "Verificați frânele înainte de plecare, umezeala poate întârzia oprirea.",
+              "Protejați șaua cu o husă de plastic atunci când parcați.",
+              "Pistele de biciclete din centru sunt adesea alunecoase pe ploaie."
+            ],
+            "en": [
+              "Wear a bright raincoat for better visibility to drivers.",
+              "Avoid sharp turns on wet road markings or metal grates.",
+              "Check your brakes before starting; wet rims delay stopping power.",
+              "Protect your saddle with a plastic cover when parked.",
+              "The bike lanes in the city center can be quite slippery when wet."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die frische Winterluft belebt die Fahrt von der Plaza del Pradillo zum Stadtmuseum. Mittags genießen Sie die wärmenden Sonnenstrahlen am CA2M, bevor es in die weiten Parkanlagen geht. Am Nachmittag leuchten die Gräser im El Soto Park im tiefen Stand der Sonne fast silbern. Die Tour endet bei Einbruch der Dunkelheit an der stimmungsvoll beleuchteten Kirche im Herzen der Stadt.",
+            "hu": "A friss téli levegő élénkítően hat a Plaza del Pradillótól a Városi Múzeumig tartó úton. Délben élvezze a melengető napsugarakat a CA2M-nél, mielőtt a tágas parkok felé indulna. Délután az El Soto park füvei szinte ezüstösen csillognak az alacsonyan járó napfényben. A túra sötétedéskor ér véget a város szívében található, hangulatosan kivilágított templomnál.",
+            "ro": "Aerul proaspăt de iarnă revigorează plimbarea de la Plaza del Pradillo spre Muzeul Orașului. La prânz, bucurați-vă de razele soarelui la CA2M înainte de a porni spre parcurile vaste. După-amiaza, iarba din Parcul El Soto strălucește argintiu sub soarele palid. Turul se încheie la lăsarea întunericului, lângă biserica luminată din inima orașului.",
+            "en": "The crisp winter air invigorates the ride from Plaza del Pradillo to the City Museum. At noon, enjoy the warming sunbeams near CA2M before heading into the vast parklands. In the afternoon, the grasses in El Soto Park look almost silvery in the low winter sun. The tour concludes at dusk by the atmospherically lit church in the heart of the city."
+          },
+          "stops": [
+            {
+              "name": "Plaza del Pradillo",
+              "tip_5lang": {
+                "de": "Handschuhe sind für die erste Etappe essenziell.",
+                "hu": "A kesztyű elengedhetetlen az első szakaszhoz.",
+                "ro": "Mănușile sunt esențiale pentru prima etapă.",
+                "en": "Gloves are essential for the first leg of the trip."
+              }
+            },
+            {
+              "name": "City Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Innenraum für eine kurze Aufwärmpause.",
+                "hu": "Használja a belső teret egy rövid bemelegedésre.",
+                "ro": "Folosiți interiorul pentru o scurtă pauză de încălzire.",
+                "en": "Use the indoor area for a quick warm-up break."
+              }
+            },
+            {
+              "name": "CA2M Dos de Mayo Art Center",
+              "tip_5lang": {
+                "de": "Die Terrasse bietet im Winter oft windgeschützte Plätze.",
+                "hu": "A terasz télen gyakran szélvédett helyeket kínál.",
+                "ro": "Terasa oferă adăpost împotriva vântului iarna.",
+                "en": "The terrace often offers wind-sheltered spots in winter."
+              }
+            },
+            {
+              "name": "Finca Liana Park",
+              "tip_5lang": {
+                "de": "Mittagssonne auf den freien Wegen genießen.",
+                "hu": "Élvezze a déli napsütést a nyitott utakon.",
+                "ro": "Bucurați-vă de soarele de la prânz pe aleile deschise.",
+                "en": "Enjoy the midday sun on the open paths."
+              }
+            },
+            {
+              "name": "El Soto Park",
+              "tip_5lang": {
+                "de": "Vor 17:00 Uhr verlassen, da es im Wald schnell dunkel wird.",
+                "hu": "Hagyja el 17:00 előtt, mert az erdőben gyorsan sötétedik.",
+                "ro": "Plecați înainte de 17:00, se întunecă repede în pădure.",
+                "en": "Leave before 17:00 as it gets dark quickly in the woods."
+              }
+            },
+            {
+              "name": "Church of the Assumption",
+              "tip_5lang": {
+                "de": "Vorderlicht für die Rückfahrt im Dunkeln prüfen.",
+                "hu": "Ellenőrizze az első lámpát a sötétben való hazatéréshez.",
+                "ro": "Verificați farul pentru drumul de întoarcere pe întuneric.",
+                "en": "Check your front light for the ride back in the dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schützen Sie Ihre Hände und Ohren vor dem kalten Fahrtwind.",
+              "Die Sonne blendet im Winter tiefer – Sonnenbrille mitnehmen.",
+              "Achten Sie auf Raureif oder überfrierende Nässe in Schattenzonen.",
+              "Planen Sie mehr Zeit für Pausen in beheizten Cafés ein.",
+              "Da es früh dunkel wird, ist eine funktionierende Beleuchtung Pflicht."
+            ],
+            "hu": [
+              "Védje kezét és fülét a hideg menetszéltől.",
+              "A nap télen alacsonyabban jár és vakíthat – vigyen napszemüveget.",
+              "Ügyeljen a dérre vagy a lefagyott nedvességre az árnyékos részeken.",
+              "Tervezzen több időt a fűtött kávézókban tartott szünetekre.",
+              "Mivel korán sötétedik, a működő világítás kötelező."
+            ],
+            "ro": [
+              "Protejați-vă mâinile și urechile de vântul rece din timpul mersului.",
+              "Soarele este jos iarna și poate fi orbitor – luați ochelari de soare.",
+              "Atenție la chiciură sau umezeală înghețată în zonele cu umbră.",
+              "Planificați mai mult timp pentru pauze în cafenele încălzite.",
+              "Deoarece se întunecă devreme, iluminarea funcțională este obligatorie."
+            ],
+            "en": [
+              "Protect your hands and ears from the biting cold wind.",
+              "The winter sun sits low and can be blinding – bring sunglasses.",
+              "Watch out for frost or frozen patches in shaded areas.",
+              "Schedule more frequent breaks in heated cafes to warm up.",
+              "Since it gets dark early, working lights are a legal requirement."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1098,6 +1478,214 @@
           "Plan for extra time due to traffic.",
           "Do not leave valuables visible in the car."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Bequem beginnt der Tag mit der Parkplatzsuche nahe der Plaza del Pradillo, während der Regen auf das Autodach trommelt. Mittags erreichen Sie das Stadtmuseum und die Kirche trockenen Fußes. Nachmittags führt die Fahrt zum CA2M und dem Finca Liana Park, wo Sie die Aussicht aus dem warmen Wagen genießen können. Der Tag endet an der Ermita de los Santos, sicher geschützt vor den Wetterkapriolen.",
+            "hu": "Kényelmesen indul a nap a Plaza del Pradillo közeli parkolással, miközben az eső kopog a tetőn. Délben száraz lábbal érheti el a Városi Múzeumot és a templomot. Délután az út a CA2M-hez és a Finca Liana parkhoz vezet, ahol a meleg autóból élvezheti a kilátást. A nap a Szentek remetetemplománál ér véget, biztonságban az időjárás viszontagságaitól.",
+            "ro": "Ziua începe confortabil cu parcarea lângă Plaza del Pradillo, în timp ce ploaia bate în plafonul mașinii. La prânz ajungeți la Muzeul Orașului și la biserică fără să vă udați. După-amiaza, drumul continuă spre CA2M și Parcul Finca Liana, unde puteți admira peisajul din mașina caldă. Ziua se încheie la Ermita de los Santos, protejați de capriciile vremii.",
+            "en": "The day starts comfortably by finding parking near Plaza del Pradillo as rain drums on the car roof. At noon, you reach the City Museum and the church with dry feet. In the afternoon, the drive continues to CA2M and Finca Liana Park, where you can enjoy the views from the warm car. The day ends at the Hermitage of the Saints, safely sheltered from the changing weather."
+          },
+          "stops": [
+            {
+              "name": "Parking near Plaza del Pradillo",
+              "tip_5lang": {
+                "de": "Tiefgarage bevorzugen, um trocken auszusteigen.",
+                "hu": "Válasszon mélygarázst, hogy szárazon szállhasson ki.",
+                "ro": "Preferați parcarea subterană pentru a ieși la uscat.",
+                "en": "Prefer underground parking to stay dry when exiting."
+              }
+            },
+            {
+              "name": "Plaza del Pradillo & Monument",
+              "tip_5lang": {
+                "de": "Umbrella-Share Angebote in nahen Läden nutzen.",
+                "hu": "Használja a közeli boltok esernyő-kölcsönzőit.",
+                "ro": "Folosiți ofertele de umbrele din magazinele apropiate.",
+                "en": "Look for umbrella-share options in nearby shops."
+              }
+            },
+            {
+              "name": "City Museum",
+              "tip_5lang": {
+                "de": "Parken Sie in der Calle de Goya für kurze Wege.",
+                "hu": "Parkoljon a Calle de Goyán a rövid séta érdekében.",
+                "ro": "Parcați pe Calle de Goya pentru distanțe scurte.",
+                "en": "Park on Calle de Goya for a short walk to the entrance."
+              }
+            },
+            {
+              "name": "Church of the Assumption",
+              "tip_5lang": {
+                "de": "Vorsicht beim Aussteigen vor tiefen Pfützen am Rand.",
+                "hu": "Kiszálláskor ügyeljen a mély tócsákra a padka mellett.",
+                "ro": "Atenție la bălțile adânci de lângă bordură la coborâre.",
+                "en": "Watch for deep puddles near the curb when exiting."
+              }
+            },
+            {
+              "name": "CA2M & Finca Liana Park",
+              "tip_5lang": {
+                "de": "Das CA2M hat eine eigene Garage.",
+                "hu": "A CA2M saját garázzsal rendelkezik.",
+                "ro": "CA2M are propria parcare subterană.",
+                "en": "CA2M has its own dedicated parking garage."
+              }
+            },
+            {
+              "name": "El Soto Park",
+              "tip_5lang": {
+                "de": "Parkplatz direkt am Haupteingang nutzen.",
+                "hu": "Használja a közvetlenül a főbejáratnál lévő parkolót.",
+                "ro": "Folosiți parcarea direct de la intrarea principală.",
+                "en": "Use the parking lot directly at the main entrance."
+              }
+            },
+            {
+              "name": "Hermitage of the Saints",
+              "tip_5lang": {
+                "de": "Kurzer Sprint vom Parkplatz zum Kircheneingang.",
+                "hu": "Rövid sprint a parkolótól a templom bejáratáig.",
+                "ro": "Scurt sprint de la parcare până la intrare.",
+                "en": "A quick sprint from the car to the entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Zustand Ihrer Scheibenwischer vor der Fahrt.",
+              "Vermeiden Sie das Parken unter Bäumen wegen herabfallender Äste.",
+              "Achten Sie auf Aquaplaning auf der A-5 Richtung Madrid.",
+              "Halten Sie Abstand zu Fußgängern, um sie nicht nasszuspritzen.",
+              "Parkhäuser im Zentrum sind bei Regen oft schneller belegt."
+            ],
+            "hu": [
+              "Vezetés előtt ellenőrizze az ablaktörlők állapotát.",
+              "Kerülje a fák alatti parkolást a lehulló ágak veszélye miatt.",
+              "Ügyeljen a vízfelúszásra (aquaplaning) az A-5-ös úton.",
+              "Tartson távolságot a gyalogosoktól, hogy ne fröcskölje le őket.",
+              "A központi parkolóházak esőben gyakran hamarabb megtelnek."
+            ],
+            "ro": [
+              "Verificați starea ștergătoarelor înainte de a porni la drum.",
+              "Evitați parcarea sub copaci din cauza crengilor care pot cădea.",
+              "Atenție la acvaplanare pe autostrada A-5 spre Madrid.",
+              "Păstrați distanța față de pietoni pentru a nu-i stropi.",
+              "Parcările etajate din centru se ocupă mai repede pe ploaie."
+            ],
+            "en": [
+              "Check the condition of your windshield wipers before driving.",
+              "Avoid parking under trees due to the risk of falling branches.",
+              "Be wary of aquaplaning on the A-5 highway toward Madrid.",
+              "Keep a safe distance from pedestrians to avoid splashing them.",
+              "Central parking garages often fill up faster during rainy weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintertag beginnt entspannt mit der Fahrt zur Plaza del Pradillo. Mittags wärmt die Heizung des Wagens zwischen den Besuchen des Stadtmuseums und der Kirche. Am Nachmittag lockt das CA2M mit Kunst, gefolgt von einem kurzen Abstecher in die winterlichen Parks. Der Abend endet warm und sicher bei der festlich beleuchteten Ermita de los Santos.",
+            "hu": "Egy tiszta téli nap nyugodtan indul az autózással a Plaza del Pradillóhoz. Délben az autó fűtése melenget a Városi Múzeum és a templom látogatása között. Délután a CA2M művészete csábít, majd egy rövid kitérő következik a téli parkokba. Az este melegben és biztonságban ér véget a kivilágított Szentek remetetemplománál.",
+            "ro": "O zi senină de iarnă începe relaxat cu drumul spre Plaza del Pradillo. La prânz, căldura din mașină este binevenită între vizitele la muzeu și biserică. După-amiaza, CA2M atrage cu expozițiile sale, urmată de o scurtă vizită în parcurile de iarnă. Seara se încheie confortabil la Ermita de los Santos, iluminată festiv.",
+            "en": "A clear winter day starts relaxingly with a drive to Plaza del Pradillo. At noon, the car's heater provides warmth between visits to the City Museum and the church. In the afternoon, CA2M's art is inviting, followed by a brief stop at the winter parks. The evening ends warmly and safely at the festively lit Hermitage of the Saints."
+          },
+          "stops": [
+            {
+              "name": "Parking near Plaza del Pradillo",
+              "tip_5lang": {
+                "de": "Scheiben rechtzeitig enteisen, falls nötig.",
+                "hu": "Időben jégtelenítse a szélvédőt, ha szükséges.",
+                "ro": "Dezghețați parbrizul la timp, dacă este necesar.",
+                "en": "De-ice your windows in advance if necessary."
+              }
+            },
+            {
+              "name": "Plaza del Pradillo & Monument",
+              "tip_5lang": {
+                "de": "Die Sonne im Auto speichert mittags gut Wärme.",
+                "hu": "A nap az autóban délben jól tárolja a meleget.",
+                "ro": "Mașina parcată la soare păstrează bine căldura la prânz.",
+                "en": "The car parked in the sun stores warmth well at noon."
+              }
+            },
+            {
+              "name": "City Museum",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich auf, bevor Sie das Auto verlassen.",
+                "hu": "Melegedjen be, mielőtt kiszállna az autóból.",
+                "ro": "Încălziți-vă bine înainte de a părăsi mașina.",
+                "en": "Warm yourself up thoroughly before leaving the car."
+              }
+            },
+            {
+              "name": "Church of the Assumption",
+              "tip_5lang": {
+                "de": "Parken Sie in der Sonne, um den Innenraum warm zu halten.",
+                "hu": "Parkoljon napon, hogy melegen tartsa az utasteret.",
+                "ro": "Parcați la soare pentru a menține interiorul cald.",
+                "en": "Park in the sun to keep the cabin temperature up."
+              }
+            },
+            {
+              "name": "CA2M & Finca Liana Park",
+              "tip_5lang": {
+                "de": "Nutzen Sie den kurzen Weg vom CA2M-Parkhaus.",
+                "hu": "Használja ki a rövid utat a CA2M parkolóházból.",
+                "ro": "Profitate de distanța scurtă de la parcarea CA2M.",
+                "en": "Take advantage of the short walk from the CA2M garage."
+              }
+            },
+            {
+              "name": "El Soto Park",
+              "tip_5lang": {
+                "de": "Vorsicht vor überfrierender Nässe auf der Zufahrt.",
+                "hu": "Vigyázzon a lefagyott nedvességre a bekötőúton.",
+                "ro": "Atenție la porțiunile înghețate de pe drumul de acces.",
+                "en": "Watch out for icy patches on the access road."
+              }
+            },
+            {
+              "name": "Hermitage of the Saints",
+              "tip_5lang": {
+                "de": "Motor nicht unnötig im Stand laufen lassen.",
+                "hu": "Ne járassa feleslegesen a motort álló helyzetben.",
+                "ro": "Nu lăsați motorul pornit inutil în staționare.",
+                "en": "Do not leave the engine idling unnecessarily."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Frostschutz in Ihrer Scheibenwaschanlage.",
+              "Die Batterieleistung sinkt bei Kälte – Licht nicht anlassen.",
+              "Winterreifen sind in Madrid selten nötig, aber Profiltiefe prüfen.",
+              "Planen Sie mehr Zeit für das Aufwärmen des Motors ein.",
+              "Die Sonne blendet im Winter tiefer, Sonnenblende nutzen."
+            ],
+            "hu": [
+              "Ellenőrizze a fagyállót a szélvédőmosó folyadékban.",
+              "Az akkumulátor teljesítménye csökken hidegben – ne hagyja égve a lámpát.",
+              "Téli gumi Madridban ritkán kell, de ellenőrizze a profilmélységet.",
+              "Tervezzen több időt a motor bemelegedésére.",
+              "A nap télen alacsonyabban jár, használja a napellenzőt."
+            ],
+            "ro": [
+              "Verificați antigelul din lichidul de spălare a parbrizului.",
+              "Performanța bateriei scade la frig – nu lăsați luminile aprinse.",
+              "Anvelopele de iarnă sunt rareori necesare în Madrid, dar verificați profilul.",
+              "Alocați mai mult timp pentru încălzirea motorului.",
+              "Soarele este jos iarna, folosiți parasolarul."
+            ],
+            "en": [
+              "Check the antifreeze level in your windshield washer fluid.",
+              "Battery performance drops in the cold – don't leave lights on.",
+              "Winter tires are rarely needed in Madrid, but check tread depth.",
+              "Allow a bit more time for the engine to warm up properly.",
+              "The winter sun is low and bright, use your sun visor."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1454,6 +2042,196 @@
           "Plan for waiting times at stops.",
           "Be mindful of your belongings on crowded buses or trains."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt wetterunabhängig an der Metrostation Pradillo. Mittags erreichen Sie das Stadtmuseum und die Kirche mit kurzen Fußwegen zwischen den Haltestellen. Nachmittags bietet der Bus zum CA2M einen trockenen Transfer, bevor Sie den Finca Liana Park besuchen. Der Tag endet in einem gemütlichen Tapas-Restaurant, während draußen der Regen die Straßen von Móstoles reinigt.",
+            "hu": "A nap időjárástól függetlenül indul a Pradillo metrómegállónál. Délben rövid sétákkal érheti el a Városi Múzeumot és a templomot a megállók között. Délután a CA2M-hez tartó busz száraz transzfert biztosít, mielőtt ellátogatna a Finca Liana parkba. A nap egy hangulatos tapas-étteremben ér véget, miközben odakint az eső mossa Móstoles utcáit.",
+            "ro": "Ziua începe fără griji privind vremea la stația de metrou Pradillo. La prânz ajungeți la muzeu și biserică cu plimbări scurte între stații. După-amiaza, autobuzul spre CA2M oferă un transfer uscat înainte de a vizita Parcul Finca Liana. Ziua se încheie într-un restaurant de tapas primitor, în timp ce afară ploaia spală străzile orașului.",
+            "en": "The day starts weather-proof at the Pradillo metro station. At noon, you reach the City Museum and church with only short walks between stops. In the afternoon, the bus to CA2M provides a dry transfer before visiting Finca Liana Park. The day ends in a cozy tapas restaurant, while outside the rain cleanses the streets of Móstoles."
+          },
+          "stops": [
+            {
+              "name": "Plaza del Pradillo",
+              "tip_5lang": {
+                "de": "Untergrund-Bahnhof bietet Schutz vor dem Guss.",
+                "hu": "A földalatti állomás védelmet nyújt a felhőszakadás ellen.",
+                "ro": "Stația subterană oferă protecție împotriva ploii.",
+                "en": "The underground station provides shelter from the rain."
+              }
+            },
+            {
+              "name": "City Museum & Church",
+              "tip_5lang": {
+                "de": "Bushaltestelle direkt gegenüber vom Museum.",
+                "hu": "Buszmegálló közvetlenül a múzeummal szemben.",
+                "ro": "Stația de autobuz este direct vizavi de muzeu.",
+                "en": "Bus stop is located directly opposite the museum."
+              }
+            },
+            {
+              "name": "CA2M Art Center",
+              "tip_5lang": {
+                "de": "Warme Wartehalle im Inneren nutzen.",
+                "hu": "Használja a belső meleg várótermet.",
+                "ro": "Folosiți sala de așteptare caldă din interior.",
+                "en": "Use the warm waiting hall inside the center."
+              }
+            },
+            {
+              "name": "Finca Liana Park",
+              "tip_5lang": {
+                "de": "Haltestelle direkt am Parkeingang nutzen.",
+                "hu": "Használja közvetlenül a park bejáratánál lévő megállót.",
+                "ro": "Folosiți stația chiar de la intrarea în parc.",
+                "en": "Use the stop right at the park entrance."
+              }
+            },
+            {
+              "name": "El Soto Park",
+              "tip_5lang": {
+                "de": "Fahrt mit der C-5 bietet trockene Anreise.",
+                "hu": "A C-5-ös vonattal szárazon érkezhet meg.",
+                "ro": "Linia C-5 oferă o sosire uscată la destinație.",
+                "en": "Taking the C-5 train ensures a dry arrival."
+              }
+            },
+            {
+              "name": "Tapas Center",
+              "tip_5lang": {
+                "de": "Nahe der Metro für einen trockenen Heimweg.",
+                "hu": "A metró közelében a száraz hazaút érdekében.",
+                "ro": "Aproape de metrou pentru un drum spre casă uscat.",
+                "en": "Close to the metro for a dry journey home."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die App des Consorcio Transportes Madrid für Echtzeitdaten.",
+              "In den Metrostationen bleibt es trocken und angenehm warm.",
+              "Einige Bushaltestellen haben keine Überdachung – Schirm bereit halten.",
+              "Die Linien 521 und 523 verbinden das Zentrum oft und zuverlässig.",
+              "Vermeiden Sie die Stoßzeiten, wenn viele Pendler Regenschirme tragen."
+            ],
+            "hu": [
+              "Használja a Madridi Közlekedési Konzorcium alkalmazását a valós adatokhoz.",
+              "A metrómegállókban száraz és kellemesen meleg marad az idő.",
+              "Néhány buszmegállónak nincs fedele – tartsa készenlétben az esernyőt.",
+              "Az 521-es és 523-as vonalak gyakran és megbízhatóan kötik össze a központot.",
+              "Kerülje a csúcsidőt, amikor sok ingázó hord magánál vizes esernyőt."
+            ],
+            "ro": [
+              "Utilizați aplicația Consorcio Transportes Madrid pentru date în timp real.",
+              "În stațiile de metrou rămâneți uscat și la o temperatură plăcută.",
+              "Unele stații de autobuz nu au acoperiș – țineți umbrela la îndemână.",
+              "Liniile 521 și 523 fac legătura cu centrul des și fiabil.",
+              "Evitați orele de vârf când mulți navetiști au umbrele ude."
+            ],
+            "en": [
+              "Use the Consorcio Transportes Madrid app for real-time schedule data.",
+              "Metro stations stay dry and comfortably warm during rain.",
+              "Some bus stops lack shelters – have your umbrella ready.",
+              "Lines 521 and 523 connect to the center frequently and reliably.",
+              "Avoid rush hours when many commuters are carrying wet umbrellas."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An einem frischen Wintermorgen ist die beheizte Metro nach Pradillo der perfekte Start. Mittags führt die Route bequem per Bus zum Stadtmuseum und zur Kirche. Am Nachmittag genießen Sie die moderne Kunst im CA2M, bevor Sie kurz die klare Luft in den Parks schnuppern. Der Tag endet gemütlich in einer Bar im Zentrum, bevor die Metro Sie sicher zurückbringt.",
+            "hu": "Egy friss téli reggelen a fűtött metró a Pradillóhoz a tökéletes kezdés. Délben az útvonal kényelmesen, busszal vezet a Városi Múzeumhoz és a templomhoz. Délután élvezze a modern művészetet a CA2M-ben, majd szippantson a friss levegőből a parkokban. A nap hangulatosan ér véget egy központi bárban, mielőtt a metró biztonságban hazaszállítja.",
+            "ro": "Într-o dimineață proaspătă de iarnă, metroul încălzit spre Pradillo este startul perfect. La prânz, traseul continuă confortabil cu autobuzul spre muzeu și biserică. După-amiaza, bucurați-vă de arta modernă la CA2M, înainte de a respira aerul curat din parcuri. Ziua se încheie plăcut într-un bar central, înainte ca metroul să vă ducă înapoi.",
+            "en": "On a crisp winter morning, the heated metro to Pradillo is the perfect start. At noon, the route leads comfortably by bus to the City Museum and church. In the afternoon, enjoy modern art at CA2M before taking in the fresh air in the parks. The day ends cozily in a central bar before the metro takes you safely back."
+          },
+          "stops": [
+            {
+              "name": "Plaza del Pradillo",
+              "tip_5lang": {
+                "de": "Warmer Bahnhofseingang zum Aufwärmen.",
+                "hu": "Meleg állomásbejárat a bemelegedéshez.",
+                "ro": "Intrarea caldă în stație este bună pentru încălzire.",
+                "en": "Warm station entrance is good for a quick warm-up."
+              }
+            },
+            {
+              "name": "City Museum & Church",
+              "tip_5lang": {
+                "de": "Kurze Wartezeiten an den zentralen Buslinien.",
+                "hu": "Rövid várakozási idő a központi buszvonalakon.",
+                "ro": "Timp scurt de așteptare la liniile de autobuz centrale.",
+                "en": "Short waiting times for the central bus lines."
+              }
+            },
+            {
+              "name": "CA2M Art Center",
+              "tip_5lang": {
+                "de": "Garderobe für schwere Wintermäntel vorhanden.",
+                "hu": "Van ruhatár a nehéz télikabátoknak.",
+                "ro": "Există garderobă pentru hainele groase de iarnă.",
+                "en": "Cloakroom available for heavy winter coats."
+              }
+            },
+            {
+              "name": "Finca Liana Park",
+              "tip_5lang": {
+                "de": "Ab 17:00 Uhr ist der Bus die sicherere Wahl.",
+                "hu": "17:00 után a busz a biztonságosabb választás.",
+                "ro": "După ora 17:00, autobuzul este alegerea mai sigură.",
+                "en": "After 17:00, the bus is the safer choice."
+              }
+            },
+            {
+              "name": "El Soto Park",
+              "tip_5lang": {
+                "de": "Letzte Züge der C-5 für die Rückfahrt beachten.",
+                "hu": "Ügyeljen a C-5-ös utolsó vonatainak indulására.",
+                "ro": "Atenție la ultimele trenuri ale liniei C-5 pentru retur.",
+                "en": "Check the last C-5 trains for your return trip."
+              }
+            },
+            {
+              "name": "Tapas Center",
+              "tip_5lang": {
+                "de": "Direkt am Knotenpunkt Pradillo gelegen.",
+                "hu": "Közvetlenül a Pradillo csomópontnál található.",
+                "ro": "Situat direct la nodul de transport Pradillo.",
+                "en": "Located directly at the Pradillo transit hub."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Metrostationen sind im Winter angenehm temperiert.",
+              "Achten Sie auf geänderte Fahrpläne an Feiertagen.",
+              "Busse sind gut beheizt, aber oft voll – Schal locker tragen.",
+              "Nutzen Sie die unterirdischen Gänge der Metro zum Aufwärmen.",
+              "Die Sonne blendet beim Warten an Haltestellen oft tief."
+            ],
+            "hu": [
+              "A metrómegállók télen kellemes hőmérsékletűek.",
+              "Ügyeljen az ünnepnapi menetrendváltozásokra.",
+              "A buszok jól fűtöttek, de gyakran zsúfoltak – viselje lazán a sálat.",
+              "Használja a metró aluljáróit a bemelegedéshez.",
+              "A nap gyakran alacsonyan jár várakozás közben, ami zavaró lehet."
+            ],
+            "ro": [
+              "Stațiile de metrou au o temperatură plăcută iarna.",
+              "Atenție la orarul modificat în zilele de sărbătoare.",
+              "Autobuzele sunt bine încălzite, dar aglomerate – purtați fularul lejer.",
+              "Folosiți pasajele subterane ale metroului pentru a vă încălzi.",
+              "Soarele este jos iarna și poate fi deranjant în timp ce așteptați."
+            ],
+            "en": [
+              "Metro stations are kept at a pleasant temperature in winter.",
+              "Watch out for modified schedules during holiday periods.",
+              "Buses are well-heated but often crowded – wear your scarf loosely.",
+              "Use the underground metro walkways to warm up between stops.",
+              "The low winter sun can be quite bright while waiting at stops."
+            ]
+          }
+        }
       }
     }
   }

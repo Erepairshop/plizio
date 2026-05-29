@@ -410,6 +410,224 @@
           "The walk down to the Quayside is steep, but well worth the effort.",
           "Book tickets for the Underground Passages online in advance to avoid disappointment."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen in Exeter beginnt in der Parliament Street, wo die engen Wände fast wie ein Schirm wirken. Der Weg zum Guildhall ist kurz, sodass man schnell wieder ins Trockene schlüpft. In der Kathedrale hört man das Trommeln des Regens auf den alten Bleiglasfenstern, was eine besonders andächtige Atmosphäre schafft.\n\nMittags bieten die Underground Passages den ultimativen Schutz vor dem Wetter – hier unter der Stadt spielt der Regen keine Rolle. Danach führt ein kurzer Sprint zum Rougemont Castle, wo man die Aussicht von den überdachten Torbögen genießen kann.\n\nDer Nachmittag gehört dem Royal Albert Memorial Museum. In den weitläufigen Galerien kann man Stunden verbringen, während draußen die Wolken über Devon ziehen. Die Gärten von Northernhay wirken im Regen besonders satt und grün, auch wenn man die Pfade zügig abläuft.\n\nZum Abendessen am Quayside glitzert das Kopfsteinpflaster im Lampenlicht. Die vielen Cafés und Restaurants am Flussufer bieten gemütliche Plätze hinter Glasscheiben, von denen aus man den Regen auf dem Wasser beobachten kann.",
+            "hu": "Az esős Exeterben a nap a Parliament Streeten kezdődik, ahol a szűk falak szinte esernyőként védenek. A Guildhall közelsége lehetővé teszi, hogy gyorsan fedett helyre érjünk. A katedrálisban az üvegablakokon kopogó eső hangja különleges, meghitt hangulatot áraszt a gótikus ívek alatt.\n\nDélidőben az Underground Passages a legjobb menedék, hiszen a föld alatt az időjárás teljesen mellékes. Egy rövid séta után a Rougemont-kastély kapualjai alatt húzódhatunk meg, élvezve a kert látványát a szemerkélő esőben.\n\nDélután a Royal Albert Memorial Museum hatalmas terei nyújtanak tökéletes programot, ahol órákig böngészhetjük a tárlatokat, amíg kint elvonul a vihar. A Northernhay Gardens ilyenkor mélyzöld színben pompázik, a fák lombjai pedig némi védelmet nyújtanak az utak mentén.\n\nEste a Quayside vizes macskakövei csillognak az utcai lámpák fényében. A folyóparti raktárépületekből kialakított éttermek ablakai mögött, egy forró ital mellett nézhetjük, ahogy az esőcseppek mintákat rajzolnak az Exe folyó felszínére.",
+            "ro": "O dimineață ploioasă în Exeter începe pe Parliament Street, unde zidurile înguste oferă o protecție naturală. Drumul spre Guildhall este scurt, permițând un transfer rapid la adăpost. În interiorul catedralei, sunetul ploii pe vitralii creează o atmosferă liniștită și contemplativă.\n\nLa prânz, pasajele subterane sunt refugiul ideal, vremea de afară fiind irelevantă sub străzile orașului. O scurtă plimbare ne duce la Castelul Rougemont, unde arcadele vechi oferă puncte de observație uscate asupra grădinilor din jur.\n\nDupă-amiaza este dedicată muzeului Royal Albert Memorial. Galeriile sale vaste permit ore întregi de explorare în timp ce afară cerul este gri. Grădinile Northernhay par mult mai verzi sub ploaie, oferind un peisaj proaspăt pentru cei cu umbrele.\n\nSeara, pe cheiul Quayside, reflexiile luminilor în bălțile de pe pavaj creează un cadru fotografic deosebit. Restaurantele de la malul apei sunt locuri calde și primitoare unde poți privi ploaia căzând peste râu, în timp ce savurezi o cină locală.",
+            "en": "A rainy morning in Exeter starts at Parliament Street, where the tight walls almost act as a corridor of shelter. The short hop to the Guildhall ensures you stay mostly dry before stepping into the historic interior. Inside the Cathedral, the rhythmic tapping of rain on the stained glass adds a cozy, hallowed feel to the atmosphere.\n\nAt midday, the Underground Passages offer the ultimate escape, as the weather is non-existent beneath the city streets. A brisk walk follows to Rougemont Castle, where the ancient stone gateways provide dry vantage points over the surrounding gardens.\n\nIn the afternoon, the Royal Albert Memorial Museum provides a grand refuge. Its extensive galleries allow for hours of discovery while the clouds pour over Devon outside. Northernhay Gardens look strikingly lush in the rain, with the tree canopy providing some natural cover along the paths.\n\nBy evening, the Quayside’s cobbles glisten under the streetlights. The converted riverside warehouses offer warm, glass-fronted spaces where you can watch the rain dancing on the River Exe while enjoying a hearty meal."
+          },
+          "stops": [
+            {
+              "name": "Parliament Street",
+              "tip_5lang": {
+                "de": "Nutzen Sie die engen Wände als Windschutz gegen peitschenden Regen.",
+                "hu": "Használja a szűk falakat szélfogónak a csapkodó eső ellen.",
+                "ro": "Folosiți pereții înguști ca paravan împotriva vântului și ploii.",
+                "en": "Use the narrow walls as a windbreak against driving rain."
+              }
+            },
+            {
+              "name": "Exeter Guildhall",
+              "tip_5lang": {
+                "de": "Ideal, um kurz die Regenjacke zu schütteln und das Interieur zu bewundern.",
+                "hu": "Ideális hely a vizes kabát lerázására és a belső tér megcsodálására.",
+                "ro": "Ideal pentru a scutura haina de ploaie și a admira interiorul.",
+                "en": "Perfect for a quick dry-off while admiring the historic interior."
+              }
+            },
+            {
+              "name": "Exeter Cathedral",
+              "tip_5lang": {
+                "de": "Genießen Sie das Echo des Regens unter dem längsten ununterbrochenen gotischen Steingewölbe.",
+                "hu": "Élvezze az eső visszhangját a világ leghosszabb összefüggő gótikus kőboltozata alatt.",
+                "ro": "Bucurați-vă de ecoul ploii sub cea mai lungă boltă gotică de piatră.",
+                "en": "Enjoy the echo of rain under the world's longest uninterrupted Gothic stone vault."
+              }
+            },
+            {
+              "name": "Underground Passages",
+              "tip_5lang": {
+                "de": "Der trockenste Ort der Stadt – perfekt für eine Stunde ohne Regenschirm.",
+                "hu": "A város legszárazabb pontja – tökéletes egy óra esernyőmentes pihenőre.",
+                "ro": "Cel mai uscat loc din oraș – perfect pentru o oră fără umbrelă.",
+                "en": "The driest spot in the city – perfect for an hour without an umbrella."
+              }
+            },
+            {
+              "name": "Rougemont Castle",
+              "tip_5lang": {
+                "de": "Das Torhaus bietet Schutz, während Sie die Aussicht auf die nassen Gärten genießen.",
+                "hu": "A kapuház oltalmat nyújt, miközben a vizes kertek látványában gyönyörködik.",
+                "ro": "Poarta oferă adăpost în timp ce admirați grădinile ude.",
+                "en": "The gatehouse offers shelter while you enjoy views of the wet gardens."
+              }
+            },
+            {
+              "name": "Royal Albert Memorial Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe für nasse Schirme, bevor Sie die Ausstellungen erkunden.",
+                "hu": "Használja a ruhatárat a vizes esernyőknek a tárlatnézés előtt.",
+                "ro": "Folosiți garderoba pentru umbrele ude înainte de a explora expozițiile.",
+                "en": "Use the cloakroom for wet umbrellas before exploring the exhibitions."
+              }
+            },
+            {
+              "name": "Northernhay Gardens",
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den asphaltierten Wegen, um Schlamm zu vermeiden.",
+                "hu": "Maradjon az aszfaltozott utakon, hogy elkerülje a sarat.",
+                "ro": "Rămâneți pe aleile asfaltate pentru a evita noroiul.",
+                "en": "Stick to the paved paths to avoid mud after heavy showers."
+              }
+            },
+            {
+              "name": "Exeter Quayside",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit Blick auf den Fluss, um das Wetter draußen zu lassen.",
+                "hu": "Válasszon folyóra néző éttermet, hogy kint hagyja a barátságtalan időt.",
+                "ro": "Alegeți un restaurant cu vedere la râu pentru a lăsa vremea afară.",
+                "en": "Choose a riverside restaurant to watch the storm from a warm seat."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Exeter hat viele überdachte Passagen zwischen High Street und Cathedral Green.",
+              "Die Underground Passages sind bei Regen sehr beliebt; buchen Sie im Voraus.",
+              "Das Quayside ist am besten über den 'Custom House' Bereich bei Regen zu genießen.",
+              "Tragen Sie wasserfeste Schuhe, da das Kopfsteinpflaster rutschig sein kann."
+            ],
+            "hu": [
+              "Exeter sok fedett átjáróval rendelkezik a High Street és a Cathedral Green között.",
+              "Az Underground Passages esőben népszerű, érdemes előre jegyet foglalni.",
+              "A Quayside-on a Custom House környéke kínálja a legtöbb fedett menedéket.",
+              "Viseljen vízálló cipőt, mert a macskaköves utcák csúszóssá válhatnak."
+            ],
+            "ro": [
+              "Exeter are multe pasaje acoperite între High Street și Cathedral Green.",
+              "Pasajele subterane sunt populare pe ploaie; rezervați biletele în avans.",
+              "Zona Quayside se savurează cel mai bine lângă Custom House când plouă.",
+              "Purtați încălțăminte impermeabilă, pavajul vechi poate deveni alunecos."
+            ],
+            "en": [
+              "Exeter has many covered walkways between High Street and Cathedral Green.",
+              "The Underground Passages fill up fast during rain; book your slot in advance.",
+              "The Quayside is best enjoyed near the Custom House area for quick shelter.",
+              "Wear waterproof shoes as the historic cobbles can be slippery when wet."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Wintermorgen in Exeter beginnt auf der Parliament Street, wo der Atem in der kalten Luft gefriert. Die Guildhall strahlt in der Morgensonne eine historische Wärme aus. In der Kathedrale ist es kühl, aber das Licht der tiefstehenden Wintersonne fällt wunderschön durch die Fenster auf den Steinboden.\n\nMittags bieten die Underground Passages eine konstante, fast milde Temperatur im Vergleich zum Außenfrost. Ein kurzer Spaziergang zum Rougemont Castle lohnt sich für den weiten Blick über das kahle, aber oft neblig-schöne Umland von Devon.\n\nDer Nachmittag verbringt man am besten im gut geheizten Royal Albert Memorial Museum, das eine willkommene Abwechslung zur Kälte bietet. Die Northernhay Gardens wirken im Winter mit ihren kahlen Bäumen fast skulptural, besonders wenn Reif die Statuen bedeckt.\n\nSobald die Dämmerung gegen 16 Uhr einsetzt, verwandelt sich das Quayside in einen Ort voller Lichter. Der Dampf von heißen Getränken steigt in der kalten Luft auf, während man den Tag in einem der gemütlichen Pubs am Wasser ausklingen lässt.",
+            "hu": "A fagyos téli reggel Exeterben a Parliament Streeten indul, ahol a lehelet látszik a csípős levegőben. A Guildhall történelmi falai között ilyenkor is érezni a múlt melegségét. A katedrális hűvös belső terében az alacsonyan járó téli nap fénye gyönyörűen világítja meg a kőpadlózatot.\n\nDélidőben az Underground Passages állandó, viszonylag enyhe hőmérséklete kellemes felüdülést nyújt a kinti fagy után. A Rougemont-kastélytól ilyenkor tiszta időben messzire ellátni a kopár, de deres devoni táj felett.\n\nDélutánt érdemes a jól fűtött Royal Albert Memorial Museum termeiben tölteni, ahol a gyűjtemények mellett a meleg is marasztalja a látogatót. A Northernhay Gardens fái télen szinte szoborszerűek, különösen, ha zúzmara fedi a történelmi emlékoszlopokat.\n\nA korai sötétedés miatt 16 óra után a Quayside fényei már ünnepi hangulatot árasztanak. A folyóparti pubokból kiszűrődő fény és a forró italok gőze teszi teljessé a napot a hideg téli estén.",
+            "ro": "O dimineață geroasă de iarnă în Exeter începe pe Parliament Street, cu aburi ieșind la fiecare respirație. Guildhall radiază o căldură istorică sub soarele palid al dimineții. În interiorul catedralei este răcoare, dar lumina iernii cade spectaculos prin vitralii, desenând culori pe podeaua de piatră.\n\nLa prânz, pasajele subterane oferă o temperatură constantă și mult mai blândă decât gerul de afară. O vizită la Castelul Rougemont merită pentru panorama clară asupra dealurilor din Devon, care par adormite sub brumă.\n\nDupă-amiaza este cel mai bine petrecută în muzeul Royal Albert Memorial, care este bine încălzit și primitor. Grădinile Northernhay au un aspect sculptural iarna, cu copacii desfrunziți proiectându-se pe cerul gri sau albastru deschis.\n\nPe măsură ce se înserează, în jurul orei 16:00, zona Quayside se aprinde cu mii de lumini. Aburul băuturilor fierbinți se ridică în aerul rece, în timp ce te refugiezi într-un pub istoric de pe malul râului pentru a încheia ziua.",
+            "en": "A frosty winter morning in Exeter starts at Parliament Street, where your breath mists in the crisp air. The Guildhall glows with a warm, historic light in the low morning sun. Inside the Cathedral, it’s chilly but the winter light hits the stone pillars at beautiful, long angles, creating a serene scene.\n\nAt midday, the Underground Passages provide a stable, almost mild temperature compared to the outdoor frost. A brisk walk to Rougemont Castle is worth it for the clear, sharp views over the dormant but beautiful Devon countryside.\n\nIn the afternoon, the well-heated Royal Albert Memorial Museum is a welcome refuge from the cold. Northernhay Gardens look sculptural in winter, with bare branches and frost-covered statues creating a stark, historic beauty.\n\nAs dusk falls around 4 PM, the Quayside lights up beautifully. Steam rises from hot drinks in the cold air, and the day ends perfectly in one of the cozy riverside pubs with a roaring fire or a warm atmosphere."
+          },
+          "stops": [
+            {
+              "name": "Parliament Street",
+              "tip_5lang": {
+                "de": "Zügig durchgehen – die Enge verstärkt den kalten Luftzug.",
+                "hu": "Haladjon tempósan – a szűkület felerősíti a hideg huzatot.",
+                "ro": "Mergeți repede – îngustimea străzii intensifică curentul de aer rece.",
+                "en": "Walk briskly – the narrow space can funnel cold drafts."
+              }
+            },
+            {
+              "name": "Exeter Guildhall",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp im Innenraum wärmt die Hände auf.",
+                "hu": "Egy rövid megálló a belső térben segít felmelegíteni a kezeket.",
+                "ro": "O scurtă oprire în interior vă va ajuta să vă încălziți mâinile.",
+                "en": "A quick stop inside helps warm up your hands before moving on."
+              }
+            },
+            {
+              "name": "Exeter Cathedral",
+              "tip_5lang": {
+                "de": "Behalten Sie den Mantel an; die hohen Hallen brauchen Zeit zum Aufwärmen.",
+                "hu": "Tartsa magán a kabátot; a hatalmas csarnokok nehezen melegednek át.",
+                "ro": "Păstrați haina pe dvs.; spațiile mari sunt greu de încălzit.",
+                "en": "Keep your coat on; the vast vaulted interior stays quite cool."
+              }
+            },
+            {
+              "name": "Underground Passages",
+              "tip_5lang": {
+                "de": "Konstante 13°C – im Winter fühlt es sich hier richtig warm an.",
+                "hu": "Állandó 13°C – télen ez kimondottan melegnek érződik.",
+                "ro": "Temperatură constantă de 13°C – iarna se simte foarte cald aici.",
+                "en": "Constant 13°C – in winter, it feels surprisingly warm down here."
+              }
+            },
+            {
+              "name": "Rougemont Castle",
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Fernsicht, die es oft nur an Wintertagen gibt.",
+                "hu": "Élvezze a tiszta távlatokat, amik gyakran csak téli napokon láthatók.",
+                "ro": "Bucurați-vă de vizibilitatea clară, specifică zilelor de iarnă.",
+                "en": "Enjoy the sharp, clear views often only possible on cold winter days."
+              }
+            },
+            {
+              "name": "Royal Albert Memorial Museum",
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um die Kälte für ein paar Stunden ganz zu vergessen.",
+                "hu": "Tökéletes hely, hogy pár órára teljesen elfelejtse a kinti hideget.",
+                "ro": "Locul perfect pentru a uita complet de frigul de afară pentru câteva ore.",
+                "en": "The perfect place to completely forget the cold for a few hours."
+              }
+            },
+            {
+              "name": "Northernhay Gardens",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Wege bei den Statuen.",
+                "hu": "Vigyázzon a jeges utakra a szobrok környékén.",
+                "ro": "Atenție la aleile înghețate din jurul statuilor.",
+                "en": "Watch out for icy patches on the paths near the statues."
+              }
+            },
+            {
+              "name": "Exeter Quayside",
+              "tip_5lang": {
+                "de": "Suchen Sie sich einen Pub mit Kaminfeuer für den perfekten Abschluss.",
+                "hu": "Keressen egy kandallós pubot a nap tökéletes zárásához.",
+                "ro": "Căutați un pub cu șemineu pentru încheierea perfectă a zilei.",
+                "en": "Look for a pub with a real fireplace for a cozy winter finish."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Dezember gegen 16:15 Uhr unter; planen Sie Fotos früher.",
+              "Die Kathedrale bietet im Winter oft festliche Konzerte oder Märkte an.",
+              "Tragen Sie Schichten; Museen sind warm, die Straßen sehr zugig.",
+              "Heißer Apfelwein (Mulled Cider) ist eine lokale Spezialität in den Pubs am Quayside."
+            ],
+            "hu": [
+              "A nap decemberben 16:15 körül nyugszik, a fotózást ütemezze korábbra.",
+              "A katedrális télen gyakran ad otthont ünnepi koncerteknek vagy vásároknak.",
+              "Öltözzön rétegesen: a múzeumok fűtöttek, az utcák viszont szelesek.",
+              "A forró alma bor (mulled cider) helyi különlegesség a Quayside pubjaiban."
+            ],
+            "ro": [
+              "Soarele apune în jurul orei 16:15 în decembrie; faceți poze mai devreme.",
+              "Catedrala găzduiește adesea concerte festive sau târguri de iarnă.",
+              "Îmbrăcați-vă în straturi; muzeele sunt calde, dar străzile sunt ventilate.",
+              "Cidrul fiert (mulled cider) este o specialitate locală în pub-urile de la chei."
+            ],
+            "en": [
+              "Sunset is around 4:15 PM in December; plan your outdoor photos earlier.",
+              "The Cathedral often hosts festive markets or concerts during winter months.",
+              "Dress in layers; museums are well-heated, but streets can be very drafty.",
+              "Mulled cider is a local specialty to try in the cozy Quayside pubs."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -790,6 +1008,206 @@
           "Always lock your bike securely when visiting attractions.",
           "The cycle path along the River Exe is flat and suitable for all abilities."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine nasse Radtour durch Exeter erfordert gute Schutzbleche. Vom Quayside aus geht es bergauf zur Kathedrale, wobei die Reifen auf dem feuchten Asphalt gut greifen.\n\nMittags radelt man durch die High Street zum Rougemont Castle. Die kurzen Wege zwischen den Sehenswürdigkeiten minimieren die Zeit im Regen.\n\nDer Nachmittag am Museum bietet eine lange Pause zum Trocknen, bevor es durch die Northernhay Gardens zurückgeht.\n\nDie Abfahrt zum Quayside am Abend ist bei Regen besonders vorsichtig zu genießen, da die Kurven rutschig sein können.",
+            "hu": "Egy vizes bringázáshoz Exeterben jó sárvédő kell. A Quayside-tól felfelé tekerünk a katedrálishoz, figyelve a tapadásra a nedves aszfalton.\n\nDélidőben a High Streeten át a Rougemont-kastélyhoz tekerünk. A rövid távolságok miatt kevés időt töltünk ténylegesen az esőben.\n\nA délutáni múzeumlátogatás alatt van idő megszáradni, mielőtt a Northernhay Gardens felé vennénk az irányt.\n\nAz esti legurulás a Quayside-hoz óvatosságot igényel, mert a kanyarok csúszósak lehetnek az esőben.",
+            "ro": "O tură cu bicicleta prin Exeter pe ploaie necesită apărători bune. De la chei urcăm spre catedrală, atenți la aderența pe asfaltul umed.\n\nLa prânz pedalăm prin High Street spre Castelul Rougemont. Distanțele scurte limitează timpul petrecut direct în ploaie.\n\nDupă-amiaza la muzeu oferă o pauză lungă pentru uscare, înainte de a reveni prin Grădinile Northernhay.\n\nCoborârea spre Quayside seara trebuie făcută cu prudență, deoarece curbele pot fi alunecoase.",
+            "en": "A wet bike ride through Exeter requires good mudguards. Starting from the Quayside, you head uphill to the Cathedral, feeling the tires grip the damp tarmac.\n\nAt midday, cycle through High Street to Rougemont Castle. Short distances between sights mean minimal time exposed to heavy showers.\n\nAn afternoon at the museum provides a long drying break before heading back via Northernhay Gardens.\n\nThe evening descent back to the Quayside should be taken slowly as corners can be slick in the rain."
+          },
+          "stops": [
+            {
+              "name": "Exeter Quayside",
+              "tip_5lang": {
+                "de": "Vorsicht auf den Metallbrücken, diese sind bei Nässe extrem glatt.",
+                "hu": "Vigyázzon a fémhidakon, ezek vizesen rendkívül csúszósak.",
+                "ro": "Atenție la podurile metalice, sunt extrem de alunecoase când sunt ude.",
+                "en": "Be careful on metal bridges; they become extremely slippery when wet."
+              }
+            },
+            {
+              "name": "Exeter Cathedral",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Fahrradständer direkt am Cathedral Green.",
+                "hu": "Használja a kerékpártámaszokat közvetlenül a Cathedral Green mellett.",
+                "ro": "Folosiți rastelele de biciclete direct lângă Cathedral Green.",
+                "en": "Use the bike racks directly by Cathedral Green for quick access."
+              }
+            },
+            {
+              "name": "Exeter Guildhall",
+              "tip_5lang": {
+                "de": "Kurzer Stopp; achten Sie auf Fußgänger mit Regenschirmen.",
+                "hu": "Rövid megálló; figyeljen az esernyős gyalogosokra.",
+                "ro": "Oprire scurtă; atenție la pietonii cu umbrele.",
+                "en": "Short stop; watch out for pedestrians with umbrellas in narrow areas."
+              }
+            },
+            {
+              "name": "Rougemont Castle",
+              "tip_5lang": {
+                "de": "Der Boden kann hier bei Regen schlammig sein; bleiben Sie auf den Wegen.",
+                "hu": "A talaj itt sáros lehet esőben; maradjon a kijelölt utakon.",
+                "ro": "Terenul poate fi noroios; rămâneți pe aleile pietruite.",
+                "en": "Ground can be muddy here in the rain; stick to the hard paths."
+              }
+            },
+            {
+              "name": "Royal Albert Memorial Museum",
+              "tip_5lang": {
+                "de": "Fahrradparkplätze befinden sich direkt vor dem Haupteingang.",
+                "hu": "Kerékpárparkolók közvetlenül a főbejárat előtt találhatók.",
+                "ro": "Parcarea pentru biciclete este chiar în fața intrării principale.",
+                "en": "Bike parking is available right outside the main entrance."
+              }
+            },
+            {
+              "name": "Northernhay Gardens",
+              "tip_5lang": {
+                "de": "Schieben Sie das Rad bei starkem Regen auf den steileren Abschnitten.",
+                "hu": "Tolja a bringát erős esőben a meredekebb szakaszokon.",
+                "ro": "Împingeți bicicleta pe secțiunile mai abrupte dacă plouă torențial.",
+                "en": "Walk your bike on steeper sections if visibility is low during heavy rain."
+              }
+            },
+            {
+              "name": "Return to Quayside",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Bremsen frühzeitig vor der steilen Abfahrt.",
+                "hu": "Használja időben a fékeket a meredek lejtő előtt.",
+                "ro": "Folosiți frânele din timp înainte de coborârea abruptă.",
+                "en": "Test your brakes early before the steep descent back to the river."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie das Bremsen auf nassen Markierungen auf der Straße.",
+              "Ein Poncho ist oft praktischer als eine enge Regenjacke beim Radeln.",
+              "Beleuchtung ist auch tagsüber bei starkem Regen in Exeter ratsam.",
+              "Die Fahrradwege entlang des Flusses können Pfützen bilden."
+            ],
+            "hu": [
+              "Kerülje a fékezést a vizes útburkolati jeleken.",
+              "A poncsó gyakran praktikusabb bringázáshoz, mint a szűk esőkabát.",
+              "Erős esőben nappal is ajánlott a lámpák használata Exeterben.",
+              "A folyó menti kerékpárutakon nagyobb tócsák alakulhatnak ki."
+            ],
+            "ro": [
+              "Evitați frânarea pe marcajele rutiere umede.",
+              "Un ponou este adesea mai practic decât o jachetă strâmtă la pedalat.",
+              "Luminile sunt recomandate și ziua pe ploaie torențială în Exeter.",
+              "Pistele de biciclete de-a lungul râului pot colecta bălți mari."
+            ],
+            "en": [
+              "Avoid braking hard on wet road markings or manhole covers.",
+              "A cycling poncho is often better for breathability than a tight jacket.",
+              "Keep your lights on even during the day if visibility is poor from rain.",
+              "The riverside paths can develop large puddles; check your line."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Wintertag auf dem Rad beginnt am Quayside, wo der Wind vom Fluss her weht. Der Aufstieg zur Kathedrale bringt den Kreislauf in Schwung.\n\nMittags ist die Fahrt durch die Stadt kurz und knackig, perfekt um die Kälte nicht zu tief einsinken zu lassen.\n\nNach dem Museumsbesuch sind die Hände wieder warm für die Fahrt durch die winterlichen Gärten.\n\nDie Rückkehr zum Quayside in der frühen Dämmerung erfordert gute Beleuchtung, belohnt aber mit einer stimmungsvollen Atmosphäre.",
+            "hu": "Egy hűvös téli nap a bringán a Quayside-nál indul, ahol a folyó felől fúj a szél. A katedrálishoz való feltekerés hamar beindítja a vérkeringést.\n\nDélidőben a városi tekerés rövid és pörgős, pont jó ahhoz, hogy ne hűljünk ki túlságosan.\n\nA múzeumlátogatás után a kezek újra felmelegednek a téli kerteken át vezető úthoz.\n\nA visszatérés a Quayside-hoz a korai szürkületben jó világítást igényel, de kárpótol a hangulatos fényekkel.",
+            "ro": "O zi rece de iarnă pe bicicletă începe la chei, unde vântul bate dinspre râu. Urcarea spre catedrală vă va pune sângele în mișcare.\n\nLa prânz, tura prin oraș este scurtă și rapidă, perfectă pentru a nu lăsa frigul să pătrundă prea tare.\n\nDupă vizita la muzeu, mâinile sunt din nou calde pentru drumul prin grădinile de iarnă.\n\nRevenirea la chei în amurgul timpuriu necesită lumini bune, dar oferă o atmosferă deosebită.",
+            "en": "A chilly winter day on the bike starts at the Quayside, where the river breeze is biting. The climb to the Cathedral quickly gets your blood pumping.\n\nAt midday, the ride through town is short and sharp, perfect to keep from getting too cold during transit.\n\nAfter the museum visit, your hands are warm again for the ride through the crisp winter gardens.\n\nReturning to the Quayside in the early dusk requires good lights but rewards you with a beautiful, atmospheric glow."
+          },
+          "stops": [
+            {
+              "name": "Exeter Quayside",
+              "tip_5lang": {
+                "de": "Tragen Sie Handschuhe; der Wind am Fluss ist im Winter eisig.",
+                "hu": "Viseljen kesztyűt; a folyóparti szél télen jeges.",
+                "ro": "Purtați mănuși; vântul de pe râu este tăios iarna.",
+                "en": "Wear gloves; the river breeze is especially icy in the winter months."
+              }
+            },
+            {
+              "name": "Exeter Cathedral",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad an einem gut sichtbaren Ort ab; es wird früh dunkel.",
+                "hu": "Látható helyen parkoljon; korán sötétedik.",
+                "ro": "Parcați bicicleta într-un loc vizibil; se întunecă repede.",
+                "en": "Park your bike in a well-lit area as it gets dark very early."
+              }
+            },
+            {
+              "name": "Exeter Guildhall",
+              "tip_5lang": {
+                "de": "Passen Sie auf glatte Stellen im Schatten der hohen Gebäude auf.",
+                "hu": "Vigyázzon a jeges foltokra a magas épületek árnyékában.",
+                "ro": "Atenție la porțiunile înghețate din umbra clădirilor înalte.",
+                "en": "Watch out for black ice in the permanent shadows of tall buildings."
+              }
+            },
+            {
+              "name": "Rougemont Castle",
+              "tip_5lang": {
+                "de": "Vorsicht bei Laub auf den Wegen; es kann gefroren und rutschig sein.",
+                "hu": "Vigyázzon a levelekre az utakon; fagyottak és csúszósak lehetnek.",
+                "ro": "Atenție la frunzele de pe alei; pot fi înghețate și alunecoase.",
+                "en": "Be careful of fallen leaves on the paths; they may be frozen and slick."
+              }
+            },
+            {
+              "name": "Royal Albert Memorial Museum",
+              "tip_5lang": {
+                "de": "Gönnen Sie sich ein heißes Getränk im Café, um aufzutauen.",
+                "hu": "Igyon egy forró italt a kávézóban, hogy kiolvadjon.",
+                "ro": "Luați o băutură fierbinte la cafenea pentru a vă dezgheța.",
+                "en": "Grab a hot drink in the cafe to thaw out before the next leg."
+              }
+            },
+            {
+              "name": "Northernhay Gardens",
+              "tip_5lang": {
+                "de": "Die Wege können bei Frost sehr glatt sein; fahren Sie langsam.",
+                "hu": "A utak fagyban nagyon csúszósak lehetnek; tekerjen lassan.",
+                "ro": "Aleile pot fi foarte alunecoase la îngheț; pedalați încet.",
+                "en": "Garden paths can be treacherous when frosty; maintain a low speed."
+              }
+            },
+            {
+              "name": "Return to Quayside",
+              "tip_5lang": {
+                "de": "Überprüfen Sie Ihre Lichter vor der Abfahrt; die Dämmerung kommt schnell.",
+                "hu": "Ellenőrizze a lámpáit indulás előtt; a szürkület gyorsan jön.",
+                "ro": "Verificați luminile înainte de plecare; amurgul vine repede.",
+                "en": "Check your lights before the ride back; dusk arrives rapidly here."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine winddichte Schicht; Exeter kann im Winter sehr zugig sein.",
+              "Die Dämmerung beginnt ab 15:45 Uhr; gute Lichter sind Pflicht.",
+              "Vermeiden Sie schattige Radwege am Morgen wegen möglicher Glätte.",
+              "Ein heißer Tee in einer Thermoskanne ist Gold wert."
+            ],
+            "hu": [
+              "Viseljen szélálló réteget; Exeter télen nagyon szeles tud lenni.",
+              "A szürkület 15:45-kor kezdődik; a jó világítás kötelező.",
+              "Reggel kerülje az árnyékos kerékpárutakat az esetleges jegesedés miatt.",
+              "Egy termosz forró tea aranyat ér a pihenők alatt."
+            ],
+            "ro": [
+              "Purtați un strat rezistent la vânt; Exeter este ventilat iarna.",
+              "Amurgul începe de la 15:45; luminile bune sunt obligatorii.",
+              "Evitați pistele umbrite dimineața din cauza riscului de polei.",
+              "Un termos cu ceai fierbinte este extrem de util în pauze."
+            ],
+            "en": [
+              "Wear a windproof outer layer; Exeter’s hills create cold drafts in winter.",
+              "Dusk starts as early as 3:45 PM; high-quality lights are essential.",
+              "Avoid shadowed cycle paths in the morning due to potential black ice.",
+              "A thermal flask with a hot drink is highly recommended for breaks."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1170,6 +1588,206 @@
           "Check opening times and book ahead for attractions like the Underground Passages.",
           "Allow extra time for traffic during peak hours."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein verregneter Tag in Exeter mit dem Auto beginnt stressfrei im Cathedral & Quay Parkhaus. Von hier aus ist die Kathedrale nur einen kurzen, nassen Spaziergang entfernt.\n\nMittags geht es zum Underground Passages – der perfekte Ort, um das Auto stehen zu lassen und die Stadt von unten zu erkunden, während es oben gießt.\n\nNachmittags parkt man direkt am Rougemont Gardens, um die Wege zum Museum so kurz wie möglich zu halten.\n\nDer Abend am Quayside lässt sich entspannt genießen, da man fast direkt vor den Restaurants parken kann und so dem Regen entkommt.",
+            "hu": "Egy esős exeteri autós nap stresszmentesen indul a Cathedral & Quay parkolóházban. Innen a katedrális csak egy rövid, vizes sétatávolság.\n\nDélidőben az Underground Passages felé vesszük az irányt – tökéletes alkalom, hogy az autót hátrahagyva a föld alatt fedezzük fel a várost, amíg kint szakad.\n\nDélután közvetlenül a Rougemont Gardensnél parkolunk, hogy a múzeumig vezető utat a lehető legrövidebbre fogjuk.\n\nA Quayside esti hangulata kocsival is élvezhető, hiszen szinte az éttermek előtt állhatunk meg, elkerülve az elázást.",
+            "ro": "O zi ploioasă în Exeter cu mașina începe fără stres în parcarea Cathedral & Quay. De aici, catedrala este la doar o scurtă plimbare prin ploaie.\n\nLa prânz mergem spre pasajele subterane – ocazia perfectă de a lăsa mașina și de a explora orașul pe dedesubt în timp ce sus plouă torențial.\n\nDupă-amiaza parcăm chiar lângă Grădinile Rougemont pentru a scurta la maximum drumul spre muzeu.\n\nSeara la chei poate fi savurată relaxat, putând parca aproape de restaurante, evitând astfel ploaia.",
+            "en": "A rainy day in Exeter by car starts stress-free at the Cathedral & Quay Car Park. From here, the Cathedral is just a short, wet dash away.\n\nAt midday, head to the Underground Passages – the perfect time to leave the car and explore the city from below while it pours above.\n\nIn the afternoon, park right at Rougemont Gardens to keep the walk to the museum as short as possible.\n\nThe evening at the Quayside is easily enjoyed as you can park almost directly outside the restaurants, escaping the downpour."
+          },
+          "stops": [
+            {
+              "name": "Cathedral & Quay Car Park",
+              "tip_5lang": {
+                "de": "Überdachtes Parken schützt Sie beim Aussteigen vor dem ersten Guss.",
+                "hu": "A fedett parkoló megvédi a kiszálláskor az első záportól.",
+                "ro": "Parcarea acoperită vă protejează de prima ploaie la coborâre.",
+                "en": "Covered parking protects you from the first downpour when exiting."
+              }
+            },
+            {
+              "name": "Exeter Cathedral",
+              "tip_5lang": {
+                "de": "Kurzer Sprint vom Parkplatz; nutzen Sie den Seiteneingang bei starkem Regen.",
+                "hu": "Rövid futás a parkolótól; erős esőben használja az oldalsó bejáratot.",
+                "ro": "Scurt sprint de la parcare; folosiți intrarea laterală pe ploaie grea.",
+                "en": "Short dash from the car; use the side entrance if rain is heavy."
+              }
+            },
+            {
+              "name": "Underground Passages",
+              "tip_5lang": {
+                "de": "Parken Sie im John Lewis Parkhaus für einen fast komplett überdachten Zugang.",
+                "hu": "Parkoljon a John Lewis parkolóházban a szinte teljesen fedett kijutáshoz.",
+                "ro": "Parcați la John Lewis pentru un acces aproape complet acoperit.",
+                "en": "Park at John Lewis car park for a nearly fully covered walk to the entrance."
+              }
+            },
+            {
+              "name": "Rougemont Gardens Car Park",
+              "tip_5lang": {
+                "de": "Zahlen Sie per App, um nicht im Regen am Automaten stehen zu müssen.",
+                "hu": "Fizessen applikációval, hogy ne kelljen az esőben az automatánál állnia.",
+                "ro": "Plătiți prin aplicație pentru a nu sta în ploaie la automat.",
+                "en": "Pay via app to avoid standing in the rain at the machine."
+              }
+            },
+            {
+              "name": "Rougemont Castle & Northernhay Gardens",
+              "tip_5lang": {
+                "de": "Die Wege zum Schloss sind kurz; ideal zwischen zwei Schauern.",
+                "hu": "A kastélyhoz vezető utak rövidek; ideális két zápor között.",
+                "ro": "Drumurile spre castel sunt scurte; ideale între două averse.",
+                "en": "The paths to the castle are short; ideal for a gap between showers."
+              }
+            },
+            {
+              "name": "Royal Albert Memorial Museum",
+              "tip_5lang": {
+                "de": "Hinterlassen Sie schwere nasse Mäntel im Auto, bevor Sie das Museum betreten.",
+                "hu": "A nehéz vizes kabátokat hagyja az autóban a múzeumba lépés előtt.",
+                "ro": "Lăsați hainele grele și ude în mașină înainte de a intra în muzeu.",
+                "en": "Leave heavy wet coats in the car before entering the warm museum."
+              }
+            },
+            {
+              "name": "Exeter Quayside",
+              "tip_5lang": {
+                "de": "Das Parken direkt am Kai ist bei Regen oft schneller frei.",
+                "hu": "A közvetlen parti parkolók esőben gyakran hamarabb felszabadulnak.",
+                "ro": "Parcarea direct pe chei se eliberează mai repede când plouă.",
+                "en": "Parking right on the quay often clears up faster during rainy weather."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie das 'Park and Ride' System nicht bei schwerem Gewitter wegen der Wartezeiten.",
+              "Die Parkhäuser im Zentrum (Princesshay) bieten trockenen Zugang zu Geschäften.",
+              "Achten Sie auf Pfützen in den tiefergelegenen Straßen nahe dem Fluss.",
+              "Scheibenwischer prüfen; die Sicht in den engen Gassen kann schwierig sein."
+            ],
+            "hu": [
+              "Erős viharban kerülje a Park and Ride rendszert a várakozási idők miatt.",
+              "A központi parkolóházak (Princesshay) fedett utat biztosítanak az üzletekhez.",
+              "Figyeljen a tócsákra a folyó menti mélyebben fekvő utcákban.",
+              "Ellenőrizze az ablaktörlőket; a kilátás a szűk utcákban esőben nehézkes lehet."
+            ],
+            "ro": [
+              "Evitați sistemul Park and Ride pe furtună din cauza timpilor de așteptare.",
+              "Parcările centrale (Princesshay) oferă acces uscat către magazine.",
+              "Atenție la bălțile de pe străzile joase din apropierea râului.",
+              "Verificați ștergătoarele; vizibilitatea pe străzile înguste poate fi redusă."
+            ],
+            "en": [
+              "Avoid Park and Ride during heavy storms to bypass long outdoor waits.",
+              "Multi-story car parks like Princesshay offer dry pedestrian access to shops.",
+              "Be wary of deep puddles on lower-lying streets near the river area.",
+              "Check your wipers; visibility in Exeter's narrow lanes can be tricky in rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Wintertag beginnt mit einer kurzen Fahrt zur Kathedrale. Das Auto ist vorgeheizt und bietet den perfekten Rückzugsort zwischen den Stopps.\n\nMittags ist die Parkplatzsuche am Rougemont Gardens entspannt, da weniger Touristen unterwegs sind.\n\nNach dem Museumsbesuch ist die kurze Fahrt zum Quayside angenehm, während draußen die Wintersonne tief steht.\n\nDer Abend am Kai ist besonders stimmungsvoll, wenn man aus dem warmen Auto direkt in einen beleuchteten Pub tritt.",
+            "hu": "Egy fagyos téli nap egy rövid autózással indul a katedrálishoz. Az előmelegített autó tökéletes menedéket nyújt a megállók között.\n\nDélidőben a parkolás a Rougemont Gardensnél egyszerű, mivel ilyenkor kevesebb a turista.\n\nA múzeum után a rövid út a Quayside-hoz kellemes, miközben kint az alacsonyan járó téli nap világít.\n\nA parti este különösen hangulatos, amikor a meleg autóból kilépve egyből a kivilágított pubok egyikébe érünk.",
+            "ro": "O zi geroasă de iarnă începe cu o scurtă cursă spre catedrală. Mașina preîncălzită oferă refugiul perfect între opriri.\n\nLa prânz, găsirea unui loc de parcare la Grădinile Rougemont este ușoară, fiind mai puțini turiști.\n\nDupă vizita la muzeu, drumul scurt spre chei este plăcut sub soarele palid de iarnă.\n\nSeara la malul râului este magică, pășind din mașina caldă direct în atmosfera primitoare a unui pub iluminat.",
+            "en": "A frosty winter day starts with a short drive to the Cathedral. The pre-heated car provides the perfect refuge between cold outdoor stops.\n\nAt midday, finding a space at Rougemont Gardens is easy as there are fewer tourists around in the off-season.\n\nAfter the museum, the quick drive to the Quayside is pleasant while the low winter sun hangs over the city.\n\nThe evening at the quay is especially atmospheric, stepping from your warm car straight into the glow of a riverside pub."
+          },
+          "stops": [
+            {
+              "name": "Cathedral & Quay Car Park",
+              "tip_5lang": {
+                "de": "Achten Sie auf überfrierende Nässe auf den oberen Parkdecks.",
+                "hu": "Vigyázzon a lefagyott részekre a felső parkolószinteken.",
+                "ro": "Atenție la polei pe etajele superioare ale parcării.",
+                "en": "Watch out for patches of ice on the exposed upper parking decks."
+              }
+            },
+            {
+              "name": "Exeter Cathedral",
+              "tip_5lang": {
+                "de": "Das Auto bietet eine gute Basis, um Schals und Mützen zwischenzulagern.",
+                "hu": "Az autó jó bázis a sálak és sapkák tárolására a megállók között.",
+                "ro": "Mașina este o bază bună pentru a lăsa fularele și căciulile între vizite.",
+                "en": "The car is a handy base to swap heavy winter gear between stops."
+              }
+            },
+            {
+              "name": "Underground Passages",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Tiefgarage Princesshay für einen frostfreien Fußweg.",
+                "hu": "Használja a Princesshay mélygarázst a fagymentes gyalogúthoz.",
+                "ro": "Folosiți parcarea subterană Princesshay pentru un drum ferit de îngheț.",
+                "en": "Use Princesshay underground parking for a frost-free walk to the entrance."
+              }
+            },
+            {
+              "name": "Rougemont Gardens Car Park",
+              "tip_5lang": {
+                "de": "Vorsicht beim Aussteigen; der Boden kann hier bei Frost glatt sein.",
+                "hu": "Vigyázzon kiszálláskor; a talaj itt fagyban csúszós lehet.",
+                "ro": "Atenție la coborâre; solul poate fi alunecos la temperaturi negative.",
+                "en": "Be careful when exiting; the ground here can be slick during hard frosts."
+              }
+            },
+            {
+              "name": "Rougemont Castle & Northernhay Gardens",
+              "tip_5lang": {
+                "de": "Die Gärten sind im Winter oft leerer – genießen Sie die Ruhe.",
+                "hu": "A kertek télen gyakran üresebbek – élvezze a csendet.",
+                "ro": "Grădinile sunt mai libere iarna – bucurați-vă de liniște.",
+                "en": "The gardens are often much quieter in winter – enjoy the peaceful views."
+              }
+            },
+            {
+              "name": "Royal Albert Memorial Museum",
+              "tip_5lang": {
+                "de": "Stellen Sie die Heizung im Auto für die Weiterfahrt schon mal ein.",
+                "hu": "Állítsa be a fűtést az autóban a továbbinduláshoz.",
+                "ro": "Setați încălzirea în mașină din timp pentru următoarea etapă.",
+                "en": "Set your car's climate control high for a quick warm-up after the museum."
+              }
+            },
+            {
+              "name": "Exeter Quayside",
+              "tip_5lang": {
+                "de": "Parken Sie nahe der Brücke, um den Weg zum Restaurant zu verkürzen.",
+                "hu": "Parkoljon a híd közelében, hogy lerövidítse az étteremig tartó utat.",
+                "ro": "Parcați lângă pod pentru a scurtă drumul spre restaurant.",
+                "en": "Park close to the bridge to minimize walking in the biting river wind."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Scheibenfrostschutz nicht vergessen; die Nächte in Devon können sehr kalt sein.",
+              "Vermeiden Sie steile Nebenstraßen am Morgen bei Glättegefahr.",
+              "Parkhäuser sind im Winter oft angenehmer als offene Parkplätze.",
+              "Die Batterieladung bei Kälte im Auge behalten, wenn Sie viel im Stand heizen."
+            ],
+            "hu": [
+              "Ne felejtse el a szélvédő fagyállót; a devoni éjszakák nagyon hidegek lehetnek.",
+              "Jegesedés veszélye esetén kerülje a meredek mellékutcákat reggel.",
+              "A parkolóházak télen gyakran kellemesebbek, mint a nyitott parkolók.",
+              "Figyeljen az akkumulátorra a hidegben, ha sokat fűt álló helyzetben."
+            ],
+            "ro": [
+              "Nu uitați lichidul de parbriz antigel; nopțile în Devon pot fi foarte reci.",
+              "Evitați străzile secundare abrupte dimineața dacă există risc de polei.",
+              "Parcările etajate sunt mai plăcute iarna decât cele deschise.",
+              "Supravegheați bateria mașinii dacă folosiți mult încălzirea în staționare."
+            ],
+            "en": [
+              "Check your antifreeze levels; nights in Devon can drop well below freezing.",
+              "Avoid steep backstreets in the morning if black ice is predicted.",
+              "Multi-story car parks are often less icy than open-air lots in winter.",
+              "Watch your battery if you use the heater frequently while stationary."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1550,6 +2168,206 @@
           "Most central attractions are easily walkable, so save buses for longer hops like to the Quayside.",
           "Buses can be crowded during peak hours and on match days."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag mit dem Bus beginnt an der High Street, wo die Wartehäuschen Schutz bieten. Der Guildhall ist nur einen Katzensprung entfernt.\n\nMittags bringt der Bus Sie bequem in die Nähe der Kathedrale, sodass Sie kaum im Regen laufen müssen.\n\nDer Nachmittag im Museum ist perfekt, da die Bushaltestellen direkt vor der Tür liegen.\n\nDie Fahrt zum Quayside am Abend ist komfortabel und trocken, während draußen der Regen gegen die Scheiben peitscht.",
+            "hu": "Egy esős buszos nap a High Streeten indul, ahol a várók védelmet nyújtanak. A Guildhall csak egy ugrásra van.\n\nDélidőben a busz kényelmesen a katedrális közelébe visz, így alig kell az esőben gyalogolni.\n\nA délutáni múzeumlátogatás ideális, mivel a buszmegállók közvetlenül az épület előtt vannak.\n\nAz esti út a Quayside-hoz kényelmes és száraz, miközben kint az eső veri a busz ablakát.",
+            "ro": "O zi ploioasă cu autobuzul începe pe High Street, unde stațiile oferă adăpost. Guildhall este la doar un pas distanță.\n\nLa prânz, autobuzul vă duce confortabil aproape de catedrală, limitând mersul prin ploaie.\n\nDupă-amiaza la muzeu este ideală, stațiile de autobuz fiind chiar în fața clădirii.\n\nDrumul spre chei seara este confortabil și uscat, în timp ce afară ploaia bate în geamurile autobuzului.",
+            "en": "A rainy transit day begins at High Street, where the shelters keep you dry. The Guildhall is just a few steps away.\n\nAt midday, the bus drops you conveniently near the Cathedral, keeping your time in the rain to a minimum.\n\nAn afternoon at the museum is perfect, as bus stops are located right outside the main entrance.\n\nThe bus ride to the Quayside in the evening is comfortable and dry, while the rain lashes against the windows outside."
+          },
+          "stops": [
+            {
+              "name": "High Street Bus Stop",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Wartehäuschen, um trocken auf den nächsten Bus zu warten.",
+                "hu": "Használja a buszvárót, hogy szárazon várja meg a következő járatot.",
+                "ro": "Folosiți adăpostul stației pentru a aștepta autobuzul la uscat.",
+                "en": "Use the bus shelter to stay dry while waiting for your connection."
+              }
+            },
+            {
+              "name": "Exeter Guildhall",
+              "tip_5lang": {
+                "de": "Der Eingang ist fast direkt neben der Haltestelle; ideal bei Regen.",
+                "hu": "A bejárat szinte közvetlenül a megálló mellett van; ideális esőben.",
+                "ro": "Intrarea este aproape de stație; ideal pe timp de ploaie.",
+                "en": "The entrance is very close to the stop, making it an easy rainy-day visit."
+              }
+            },
+            {
+              "name": "Exeter Cathedral",
+              "tip_5lang": {
+                "de": "Nehmen Sie den Bus Richtung South Street für den kürzesten Fußweg.",
+                "hu": "Válassza a South Street felé tartó buszt a legrövidebb gyalogútért.",
+                "ro": "Luați autobuzul spre South Street pentru cel mai scurt drum pe jos.",
+                "en": "Take the bus toward South Street for the shortest walk to the green."
+              }
+            },
+            {
+              "name": "Royal Albert Memorial Museum",
+              "tip_5lang": {
+                "de": "Halterungen für nasse Regenschirme befinden sich im Foyer.",
+                "hu": "Vizes esernyőtartók találhatók az előcsarnokban.",
+                "ro": "Suporturile pentru umbrele ude sunt situate în holul principal.",
+                "en": "Wet umbrella stands are available in the museum foyer."
+              }
+            },
+            {
+              "name": "Rougemont Castle & Northernhay Gardens",
+              "tip_5lang": {
+                "de": "Die Haltestelle 'Central Station' bietet einen schnellen Zugang zum Park.",
+                "hu": "A 'Central Station' megálló gyors bejutást biztosít a parkba.",
+                "ro": "Stația 'Central Station' oferă acces rapid către parc.",
+                "en": "The 'Central Station' stop offers the quickest access to the gardens."
+              }
+            },
+            {
+              "name": "Bus to the Quayside",
+              "tip_5lang": {
+                "de": "Die Linie 'G' bringt Sie direkt hinunter zum Flussufer.",
+                "hu": "A 'G' jelzésű busz közvetlenül levisz a folyópartra.",
+                "ro": "Linia 'G' vă duce direct jos la malul râului.",
+                "en": "The 'G' bus service takes you directly down to the riverside area."
+              }
+            },
+            {
+              "name": "Exeter Quayside",
+              "tip_5lang": {
+                "de": "Die Haltestelle liegt nah am Custom House und seinen Cafés.",
+                "hu": "A megálló közel van a Custom House-hoz és kávézóihoz.",
+                "ro": "Stația este aproape de Custom House și cafenelele sale.",
+                "en": "The stop is situated near the Custom House and its indoor cafes."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die 'Stagecoach Solutions' App für Echtzeit-Infos bei Regen-Verspätungen.",
+              "Der 'Green Park & Ride' ist eine gute Option, um das Zentrum trocken zu erreichen.",
+              "Die Busse in Exeter sind gut beheizt und bieten Schutz vor dem Wind.",
+              "Haben Sie Ihr Ticket auf dem Handy bereit, um schnell einsteigen zu können."
+            ],
+            "hu": [
+              "Használja a 'Stagecoach Solutions' alkalmazást eső miatti késések esetén.",
+              "A 'Green Park & Ride' jó opció a központ száraz megközelítéséhez.",
+              "Az exeteri buszok jól fűtöttek és védenek a szél ellen.",
+              "Készítse elő a mobiljegyét, hogy gyorsan felszállhasson."
+            ],
+            "ro": [
+              "Folosiți aplicația 'Stagecoach Solutions' pentru info despre întârzieri pe ploaie.",
+              "Sistemul 'Green Park & Ride' este o opțiune bună pentru a ajunge uscat în centru.",
+              "Autobuzele din Exeter sunt bine încălzite și oferă adăpost contra vântului.",
+              "Pregătiți biletul pe telefon pentru o îmbarcare rapidă."
+            ],
+            "en": [
+              "Check the 'Stagecoach Solutions' app for real-time updates during rainy delays.",
+              "The Green Park & Ride is a reliable way to reach the center while staying dry.",
+              "Exeter buses are generally well-heated and shield you from the wet winds.",
+              "Have your mobile ticket ready to avoid fumbling in the rain at the bus door."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Wintertag beginnt mit einer warmen Busfahrt ins Zentrum. Die High Street leuchtet in der Morgensonne.\n\nMittags ist die Fahrt zur Kathedrale kurz und gemütlich, eine gute Pause von der kalten Außenluft.\n\nNachmittags bietet das Museum eine lange, warme Unterbrechung, bevor der Bus Sie weiterbringt.\n\nDer Abend am Quayside ist voller Lichter, und die Busfahrt zurück ist der perfekte, warme Abschluss eines klaren Wintertages.",
+            "hu": "Egy fagyos téli nap egy meleg buszozással indul a központba. A High Street ragyog a reggeli napsütésben.\n\nDélidőben a katedrálishoz tartó út rövid és kényelmes, jó pihenő a kinti hideg levegő után.\n\nDélután a múzeum hosszú, meleg kikapcsolódást nyújt, mielőtt a busz továbbszállítaná.\n\nA parti este fényekben úszik, a visszaút pedig a tökéletes, meleg zárása egy tiszta téli napnak.",
+            "ro": "O zi geroasă de iarnă începe cu o cursă caldă cu autobuzul spre centru. High Street strălucește în soarele dimineții.\n\nLa prânz, drumul spre catedrală este scurt și confortabil, o pauză binevenită de la aerul rece.\n\nDupă-amiaza, muzeul oferă o relaxare caldă și lungă înainte ca autobuzul să vă preia.\n\nSeara la chei este plină de lumini, iar drumul de întoarcere este încheierea caldă perfectă a unei zile de iarnă.",
+            "en": "A frosty winter day starts with a warm bus ride into the center. High Street glows in the crisp morning sun.\n\nAt midday, the trip to the Cathedral is short and cozy, providing a good break from the sharp outdoor air.\n\nIn the afternoon, the museum offers a long, warm interlude before the bus takes you further.\n\nThe evening at the Quayside is full of lights, and the bus ride back is the perfect, warm conclusion to a clear winter day."
+          },
+          "stops": [
+            {
+              "name": "High Street Bus Stop",
+              "tip_5lang": {
+                "de": "Warten Sie im Princesshay-Eingangsbereich, falls es zieht.",
+                "hu": "Várjon a Princesshay bejáratánál, ha túl nagy a huzat.",
+                "ro": "Așteptați în zona de intrare Princesshay dacă este curent.",
+                "en": "Wait inside the Princesshay entrance if the wind at the stop is too biting."
+              }
+            },
+            {
+              "name": "Exeter Guildhall",
+              "tip_5lang": {
+                "de": "Kurze Wege bedeuten weniger Zeit in der Kälte.",
+                "hu": "A rövid távolságok kevesebb időt jelentenek a hidegben.",
+                "ro": "Distanțele scurte înseamnă mai puțin timp petrecut în frig.",
+                "en": "Short transfer distances mean less time exposed to the winter chill."
+              }
+            },
+            {
+              "name": "Exeter Cathedral",
+              "tip_5lang": {
+                "de": "Die Busse fahren im Winter oft seltener; prüfen Sie den Fahrplan.",
+                "hu": "A buszok télen ritkábban járhatnak; ellenőrizze a menetrendet.",
+                "ro": "Autobuzele pot circula mai rar iarna; verificați orarul.",
+                "en": "Buses may run on reduced winter schedules; double-check your times."
+              }
+            },
+            {
+              "name": "Royal Albert Memorial Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Museumscafé, um sich zwischen den Fahrten aufzuwärmen.",
+                "hu": "Használja a múzeum kávézóját a járatok közötti felmelegedéshez.",
+                "ro": "Folosiți cafeneaua muzeului pentru a vă încălzi între curse.",
+                "en": "The museum cafe is a great place to warm up between bus connections."
+              }
+            },
+            {
+              "name": "Rougemont Castle & Northernhay Gardens",
+              "tip_5lang": {
+                "de": "Die Haltestelle liegt direkt an der frostigen Parkmauer.",
+                "hu": "A megálló közvetlenül a fagyos parkfal mellett található.",
+                "ro": "Stația este chiar lângă zidul înghețat al parcului.",
+                "en": "The stop is right by the park wall; it can be very frosty in the shade."
+              }
+            },
+            {
+              "name": "Bus to the Quayside",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Weihnachtsbeleuchtung aus dem Busfenster.",
+                "hu": "Élvezze a karácsonyi fények látványát a busz ablakából.",
+                "ro": "Bucurați-vă de luminile de Crăciun de la geamul autobuzului.",
+                "en": "Enjoy the festive lights through the bus window during the short ride."
+              }
+            },
+            {
+              "name": "Exeter Quayside",
+              "tip_5lang": {
+                "de": "Die Haltestelle bietet einen kurzen Weg zu den warmen Pubs.",
+                "hu": "A megálló rövid utat biztosít a meleg pubokhoz.",
+                "ro": "Stația oferă un drum scurt către pub-urile călduroase.",
+                "en": "The stop allows for a very short walk to the warm riverside pubs."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie warme Socken; die Busböden können im Winter kühl sein.",
+              "Die Dämmerung beginnt früh, die Busse sind dann oft voller.",
+              "Prüfen Sie Verspätungen bei möglichem Schneefall in Devon.",
+              "Nutzen Sie die Tageskarte, um öfter für kurze Strecken einzusteigen."
+            ],
+            "hu": [
+              "Viseljen meleg zoknit; a buszok padlója télen hűvös lehet.",
+              "A szürkület korán kezdődik, ilyenkor a buszok zsúfoltabbak lehetnek.",
+              "Devoni hóesés esetén ellenőrizze az esetleges késéseket.",
+              "Használjon napijegyet, hogy többször is felszállhasson rövid távokra."
+            ],
+            "ro": [
+              "Purtați șosete groase; podeaua autobuzelor poate fi rece iarna.",
+              "Amurgul vine devreme, iar autobuzele devin mai aglomerate atunci.",
+              "Verificați întârzierile în caz de ninsoare în zona Devon.",
+              "Folosiți un bilet de o zi pentru a urca mai des pe distanțe scurte."
+            ],
+            "en": [
+              "Wear warm socks; bus floors can feel quite cold during frosty spells.",
+              "Dusk starts early, and buses tend to get much busier from 4 PM onwards.",
+              "Check for service disruptions if snow is forecast in the Devon hills.",
+              "A day rider ticket is cost-effective if you want to hop on for short hops."
+            ]
+          }
+        }
       }
     }
   }

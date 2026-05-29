@@ -379,6 +379,206 @@
           "Check opening times as some places close earlier, especially in winter.",
           "Allow time for the side streets in the Cathedral Quarter for unexpected discoveries."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens peitscht der Regen über das Brayford Pool, ideal für einen schnellen Start Richtung Steep Hill. Mittags bietet die massive Kathedrale perfekten Schutz vor den Güssen. Nachmittags erkunden Sie die überdachten Bereiche der Burg und das Museum of Lincolnshire Life. Abends lassen Sie den Tag trocken in der Usher Gallery ausklingen, während draußen die Tropfen an die Scheiben klopfen.",
+            "hu": "Reggel a szél hajtja az esőt a Brayford Pool felett, gyorsan keressen menedéket a Steep Hill felé kapaszkodva. Délben a katedrális monumentális belső tere nyújt száraz pihenőt. Délután a vár fedett kiállításai és a néprajzi múzeum várja, ahol az eső már csak háttérzaj. Estére az Usher Gallery csendes és meleg termei kínálnak tökéletes zárást a borús nap végén.",
+            "ro": "Dimineața, ploaia biciuiește Brayford Pool, un moment bun să vă îndreptați rapid spre Steep Hill. La prânz, interiorul masiv al catedralei oferă un adăpost perfect. După-amiaza este dedicată zonelor acoperite din castel și muzeului vieții din Lincolnshire. Seara se încheie la Usher Gallery, unde puteți admira arta în timp ce ploaia curge pe ferestre, oferind o atmosferă liniștită.",
+            "en": "Morning rain sweeps across Brayford Pool, making for a brisk start towards the shelter of Steep Hill. At midday, the massive Cathedral provides a perfect dry sanctuary. Afternoon is best spent exploring the indoor parts of the Castle and the Museum of Lincolnshire Life. Evening concludes at the Usher Gallery, where you can stay dry and warm while the weather remains grey outside."
+          },
+          "stops": [
+            {
+              "name": "Brayford Pool",
+              "tip_5lang": {
+                "de": "Vorsicht vor Windböen am Wasser; Cafés am Ufer bieten schnellen Unterschlupf.",
+                "hu": "Vigyázzon a parti széllel; a vízparti kávézók gyors menedéket nyújtanak.",
+                "ro": "Atenție la rafalele de vânt de lângă apă; cafenelele de pe mal oferă adăpost.",
+                "en": "Watch for wind gusts by the water; waterfront cafes offer quick shelter."
+              }
+            },
+            {
+              "name": "Steep Hill",
+              "tip_5lang": {
+                "de": "Extrem rutschiges Kopfsteinpflaster; nutzen Sie das Geländer beim Aufstieg.",
+                "hu": "Rendkívül csúszós macskakő; használja a korlátot felfelé menet.",
+                "ro": "Pavaj extrem de alunecos; folosiți balustrada în timp ce urcați.",
+                "en": "Extremely slippery cobblestones; use the handrail while climbing up."
+              }
+            },
+            {
+              "name": "Lincoln Cathedral",
+              "tip_5lang": {
+                "de": "Idealer Ort, um starken Regen abzuwarten; die Akustik ist bei Gewitter magisch.",
+                "hu": "Ideális hely a záporok megvárására; az akusztika viharban egészen különleges.",
+                "ro": "Loc ideal pentru a aștepta trecerea ploii; acustica este magică pe timp de furtună.",
+                "en": "Ideal place to wait out heavy rain; the acoustics are magical during a storm."
+              }
+            },
+            {
+              "name": "Medieval Bishop's Palace",
+              "tip_5lang": {
+                "de": "Die Ruinen sind exponiert; Regenkleidung ist hier zwingend erforderlich.",
+                "hu": "A romok nyitottak; ide mindenképpen szükség lesz esőkabátra vagy esernyőre.",
+                "ro": "Ruinele sunt expuse; pelerina de ploaie este obligatorie în acest punct.",
+                "en": "The ruins are exposed; waterproof gear is absolutely essential here."
+              }
+            },
+            {
+              "name": "Lincoln Castle",
+              "tip_5lang": {
+                "de": "Besuchen Sie das viktorianische Gefängnis, um im Trockenen zu bleiben.",
+                "hu": "Látogasson el a viktoriánus börtönbe, hogy szárazon maradjon a várfal helyett.",
+                "ro": "Vizitați închisoarea victoriană pentru a rămâne la adăpost de ploaie.",
+                "en": "Visit the Victorian Prison section to stay dry instead of the wall walk."
+              }
+            },
+            {
+              "name": "Museum of Lincolnshire Life",
+              "tip_5lang": {
+                "de": "Vollständig überdacht und perfekt für einen regnerischen Nachmittag.",
+                "hu": "Teljesen fedett, tökéletes választás egy esős délután eltöltésére.",
+                "ro": "Complet acoperit și perfect pentru a petrece o după-amiază ploioasă.",
+                "en": "Fully undercover and perfect for spending a rainy afternoon indoors."
+              }
+            },
+            {
+              "name": "Usher Gallery",
+              "tip_5lang": {
+                "de": "Genießen Sie die Kunst, während Sie auf das Ende des Regens warten.",
+                "hu": "Élvezze a művészetet, miközben megvárja az eső elálltát.",
+                "ro": "Bucurați-vă de artă în timp ce așteptați oprirea ploii.",
+                "en": "Enjoy the art while waiting for the rain to ease off."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Steep Hill ist bei Nässe extrem tückisch; tragen Sie Schuhe mit gutem Profil.",
+              "Die Kathedrale bietet stundenlangen Schutz und tolle Indoor-Fotomotive.",
+              "Kombinieren Sie Museumsbesuche, um die Zeit im Freien zu minimieren.",
+              "Regenschirme sind bei Wind am Schlossberg oft unpraktisch; wählen Sie ein Cape."
+            ],
+            "hu": [
+              "A Steep Hill esőben nagyon veszélyes; viseljen csúszásmentes talpú cipőt.",
+              "A katedrális órákig tartó menedéket és remek beltéri fotótémákat kínál.",
+              "Ütemezze a múzeumi látogatásokat a hevesebb záporok idejére.",
+              "A várhegyen a szél miatt az esernyő gyakran használhatatlan; az esőkabát jobb."
+            ],
+            "ro": [
+              "Steep Hill este extrem de periculos pe ploaie; purtați pantofi cu aderență bună.",
+              "Catedrala oferă adăpost pentru ore întregi și motive foto de interior superbe.",
+              "Planificați vizitele la muzee pentru a minimiza timpul petrecut afară.",
+              "Umbrelele sunt adesea inutile din cauza vântului de pe deal; alegeți o pelerină."
+            ],
+            "en": [
+              "Steep Hill is treacherous when wet; wear shoes with excellent grip.",
+              "The Cathedral offers hours of shelter and great indoor photo opportunities.",
+              "Group your museum visits to minimize time spent in the open air.",
+              "Umbrellas are often impractical on the hill due to wind; a raincoat is better."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen am Brayford Pool beginnt mit dampfenden Heißgetränken. Mittags glänzt die Kathedrale im kühlen Winterlicht, während Sie sich in den historischen Gassen aufwärmen. Nachmittags sinkt die Sonne früh über dem Schlossgelände, was für dramatische Schatten sorgt. Der Tag endet gemütlich im warmen Museum und der Usher Gallery, fernab der beißenden Kälte.",
+            "hu": "A fagyos reggel a Brayford Poolnál kezdődik egy gőzölgő forró itallal. Délben a katedrális tündököl a hűvös téli fényben, miközben a történelmi utcák kávézóiban melegedhet. Délután a nap korán bukik le a vár felett, drámai árnyékokat vetve a falakra. A napot a néprajzi múzeum és a galéria melegében zárhatja, távol a csípős kinti hidegtől.",
+            "ro": "O dimineață geroasă la Brayford Pool începe cu băuturi fierbinți aburinde. La prânz, catedrala strălucește în lumina rece de iarnă, în timp ce vă încălziți pe străzile istorice. După-amiaza, soarele apune devreme peste castel, creând umbre dramatice. Ziua se încheie confortabil în căldura muzeului și a galeriei Usher, departe de frigul tăios.",
+            "en": "A frosty morning at Brayford Pool begins with steaming hot drinks. At midday, the Cathedral gleams in the cool winter light while you warm up in historic lane cafes. Afternoon sees the sun dip early over the Castle grounds, creating dramatic shadows. The day ends cozily in the warmth of the museum and Usher Gallery, away from the biting winter chill."
+          },
+          "stops": [
+            {
+              "name": "Brayford Pool",
+              "tip_5lang": {
+                "de": "Hüten Sie sich vor Glatteis auf den Holzstegen am Wasser.",
+                "hu": "Vigyázzon a jegesedésre a vízparti faborítású járdákon.",
+                "ro": "Atenție la porțiunile cu gheață de pe pontoanele de lemn de lângă apă.",
+                "en": "Watch out for black ice on the wooden boardwalks by the water."
+              }
+            },
+            {
+              "name": "Steep Hill",
+              "tip_5lang": {
+                "de": "Zahlreiche Teestuben bieten Wärme für den anstrengenden Aufstieg.",
+                "hu": "Számos teázó kínál meleget és pihenőt a fárasztó hegymászás közben.",
+                "ro": "Numeroase ceainării oferă căldură pentru urcarea obositoare.",
+                "en": "Numerous tea rooms offer warmth during the strenuous climb."
+              }
+            },
+            {
+              "name": "Lincoln Cathedral",
+              "tip_5lang": {
+                "de": "Ziehen Sie sich warm an, da die großen Hallen oft kühl bleiben.",
+                "hu": "Öltözzön rétegesen, mert a hatalmas belső terek hűvösek maradhatnak.",
+                "ro": "Îmbrăcați-vă gros, deoarece spațiile imense pot rămâne destul de reci.",
+                "en": "Dress warmly as the vast interior halls can remain quite chilly."
+              }
+            },
+            {
+              "name": "Medieval Bishop's Palace",
+              "tip_5lang": {
+                "de": "Die Anlage schließt im Winter oft früher; prüfen Sie die Zeiten.",
+                "hu": "A romkert télen gyakran korábban zár; ellenőrizze a nyitvatartást.",
+                "ro": "Palatul se închide adesea mai devreme iarna; verificați programul.",
+                "en": "The site often closes earlier in winter; check timings before visiting."
+              }
+            },
+            {
+              "name": "Lincoln Castle",
+              "tip_5lang": {
+                "de": "Der Wall Walk bietet bei Sonnenuntergang gegen 16 Uhr tolle Ausblicke.",
+                "hu": "A várfalról 16 óra körül, naplementekor nyílik a legszebb kilátás.",
+                "ro": "Plimbarea pe ziduri oferă vederi superbe la apus, în jurul orei 16:00.",
+                "en": "The wall walk offers stunning views at sunset, around 4 PM in winter."
+              }
+            },
+            {
+              "name": "Museum of Lincolnshire Life",
+              "tip_5lang": {
+                "de": "Ein gut beheizter Ort, um die Kälte für eine Weile zu vergessen.",
+                "hu": "Jól fűtött helyszín, ahol egy időre elfelejtheti a kinti hideget.",
+                "ro": "Un loc bine încălzit unde puteți uita de frig pentru o vreme.",
+                "en": "A well-heated venue to forget the cold for a while."
+              }
+            },
+            {
+              "name": "Usher Gallery",
+              "tip_5lang": {
+                "de": "Perfekter Abschluss im Warmen, bevor es dunkel wird.",
+                "hu": "Tökéletes befejezés a melegben, mielőtt teljesen besötétedik.",
+                "ro": "Final perfect la căldură înainte ca afară să se întunece complet.",
+                "en": "Perfect warm conclusion before it gets completely dark outside."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Dezember bereits gegen 16:00 Uhr unter; planen Sie Fotos früh.",
+              "Tragen Sie Thermounterwäsche, da der Wind am Schlossberg sehr beißend sein kann.",
+              "Nutzen Sie die vielen Cafés auf dem Steep Hill für regelmäßige Aufwärmpausen.",
+              "Achten Sie auf gefrorenes Kopfsteinpflaster, das extrem rutschig sein kann."
+            ],
+            "hu": [
+              "A nap decemberben már 16:00 körül lemegy; a fotózást tervezze korábbra.",
+              "Viseljen hőtartó aláöltözetet, mert a szél a várhegyen igen metsző lehet.",
+              "Használja ki a Steep Hill kávézóit a rendszeres átmelegedéshez.",
+              "Ügyeljen a fagyott macskakövekre, amelyek láthatatlanul csúszhatnak."
+            ],
+            "ro": [
+              "Soarele apune în jurul orei 16:00 în decembrie; planificați fotografiile devreme.",
+              "Purtați haine termice, deoarece vântul de pe dealul castelului poate fi tăios.",
+              "Folosiți cafenelele de pe Steep Hill pentru pauze regulate de încălzire.",
+              "Atenție la pavajul înghețat, care poate deveni extrem de alunecos."
+            ],
+            "en": [
+              "Sunset is around 4 PM in December; plan your photography early in the day.",
+              "Wear thermal layers as the wind on the castle hill can be very biting.",
+              "Take advantage of the many cafes on Steep Hill for regular warm-up breaks.",
+              "Be wary of frozen cobblestones, which can be invisibly slippery."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -582,6 +782,206 @@
           "The waterways offer nice flat cycle paths away from traffic.",
           "Many of the central streets are cobbled, so a bike with good suspension will be more comfortable."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt feucht am Brayford Pool, wo Pfützen die Wege säumen. Mittags radeln Sie vorsichtig zum Museum, um den heftigsten Schauern zu entgehen. Die steile Abfahrt am Nachmittag erfordert volle Konzentration auf nassen Steinen. Abends erreichen Sie die Usher Gallery, froh über die Bewegung trotz des grauen Himmels.",
+            "hu": "A nap nedvesen indul a Brayford Poolnál, ahol tócsák szegélyezik az utat. Délben óvatosan tekerjen a múzeum felé, elkerülve a hevesebb záporokat. A délutáni meredek lejtő teljes koncentrációt igényel a vizes köveken. Estére éri el a galériát, örülve a mozgásnak a szürke égbolt ellenére is.",
+            "ro": "Ziua începe umed la Brayford Pool, cu bălți pe marginea drumului. La prânz, pedalați cu atenție spre muzeu pentru a evita aversa cea mai puternică. Coborârea abruptă de după-amiază necesită concentrare maximă pe pietrele ude. Seara ajungeți la Usher Gallery, mulțumit de mișcare în ciuda cerului gri.",
+            "en": "The day starts wet at Brayford Pool with puddles lining the paths. At midday, cycle carefully to the museum to avoid the heaviest showers. The steep afternoon descent requires full concentration on the wet stones. By evening, you reach the Usher Gallery, happy for the exercise despite the grey skies."
+          },
+          "stops": [
+            {
+              "name": "Brayford Pool",
+              "tip_5lang": {
+                "de": "Vorsicht vor rutschigen Holzstegen; fahren Sie langsam.",
+                "hu": "Vigyázzon a csúszós faborításra; hajtson lassan.",
+                "ro": "Atenție la podețele de lemn alunecoase; rulați cu viteză redusă.",
+                "en": "Watch out for slippery wooden surfaces; cycle at a low speed."
+              }
+            },
+            {
+              "name": "Museum of Lincolnshire Life",
+              "tip_5lang": {
+                "de": "Sicherer Abstellplatz vorhanden; idealer Stopp bei Starkregen.",
+                "hu": "Biztonságos tároló elérhető; ideális megálló heves esőben.",
+                "ro": "Parcare sigură disponibilă; oprire ideală în caz de ploaie torențială.",
+                "en": "Secure parking available; an ideal stop during heavy rain."
+              }
+            },
+            {
+              "name": "Newport Arch",
+              "tip_5lang": {
+                "de": "Der Asphalt unter dem Tor kann bei Nässe glatt sein.",
+                "hu": "A kapu alatti aszfalt nedvesen simára kopott és csúszhat.",
+                "ro": "Asfaltul de sub poartă poate fi lucios și alunecos când e ud.",
+                "en": "The asphalt under the arch can be slick and slippery when wet."
+              }
+            },
+            {
+              "name": "Lincoln Castle",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Innenhof für eine kurze Pause.",
+                "hu": "Használja a fedett belső udvart egy rövid pihenőre.",
+                "ro": "Folosiți curtea interioară acoperită pentru o scurtă pauză.",
+                "en": "Use the undercover courtyard areas for a short break."
+              }
+            },
+            {
+              "name": "Lincoln Cathedral",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad nah am Eingang, um schnell ins Trockene zu kommen.",
+                "hu": "Parkoljon közel a bejárathoz, hogy gyorsan szárazra érjen.",
+                "ro": "Parcați bicicleta aproape de intrare pentru a intra rapid la adăpost.",
+                "en": "Park your bike close to the entrance to get inside quickly."
+              }
+            },
+            {
+              "name": "Steep Hill (Descent)",
+              "tip_5lang": {
+                "de": "Steigen Sie bei Regen unbedingt ab; das Kopfsteinpflaster ist lebensgefährlich.",
+                "hu": "Esőben feltétlenül szálljon le; a macskakő életveszélyesen csúszik.",
+                "ro": "Coborâți obligatoriu de pe bicicletă; pavajul ud este extrem de periculos.",
+                "en": "Must dismount in the rain; the wet cobblestones are dangerously slick."
+              }
+            },
+            {
+              "name": "Usher Gallery",
+              "tip_5lang": {
+                "de": "Trocknen Sie Ihre Ausrüstung im Vorraum, bevor Sie die Galerie besuchen.",
+                "hu": "Szárítsa meg felszerelését az előtérben a látogatás előtt.",
+                "ro": "Uscați-vă echipamentul în hol înainte de a vizita galeria.",
+                "en": "Dry off your gear in the lobby area before touring the gallery."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie Schutzbleche, um sich vor Spritzwasser zu schützen.",
+              "Vermeiden Sie das Bremsen direkt auf dem nassen Kopfsteinpflaster.",
+              "Tragen Sie wasserdichte Handschuhe für besseren Grip am Lenker.",
+              "Planen Sie mehr Zeit für die Anstiege ein, da die Sicht schlechter sein kann."
+            ],
+            "hu": [
+              "Használjon sárvédőt, hogy megvédje magát a felcsapódó víztől.",
+              "Kerülje a hirtelen fékezést a vizes macskakövön.",
+              "Viseljen vízálló kesztyűt a kormány biztosabb fogásához.",
+              "Számoljon több idővel az emelkedőkre a korlátozott látási viszonyok miatt."
+            ],
+            "ro": [
+              "Folosiți apărători de noroi pentru a vă proteja de stropii de apă.",
+              "Evitați frânarea bruscă direct pe pavajul ud.",
+              "Purtați mănuși impermeabile pentru o aderență mai bună pe ghidon.",
+              "Alocați mai mult timp pentru urcări, deoarece vizibilitatea poate fi scăzută."
+            ],
+            "en": [
+              "Use mudguards to protect yourself from surface spray.",
+              "Avoid sudden braking directly on wet cobblestones.",
+              "Wear waterproof gloves for a better grip on the handlebars.",
+              "Allow more time for the climbs as visibility might be reduced."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Start am Brayford Pool erfordert warme Schichten für die Fahrt. Mittags wärmen Sie sich im Museum auf, nachdem Sie den eisigen Wind am Newport Arch gespürt haben. Die Burg und Kathedrale wirken im Winterlicht besonders erhaben. Vorsicht bei der Abfahrt am Nachmittag, bevor die Dämmerung den Weg zur Usher Gallery in Schatten hüllt.",
+            "hu": "A hűvös indítás a Brayford Poolnál meleg rétegeket igényel a tekeréshez. Délben a múzeumban melegedhet fel, miután megérezte a jeges szelet a Newport Archnál. A vár és a katedrális téli fényben különösen fenséges. Legyen óvatos a délutáni lejtőn, mielőtt az alkony árnyékba borítja az utat a galéria felé.",
+            "ro": "Un start răcoros la Brayford Pool necesită straturi groase pentru drum. La prânz vă încălziți în muzeu după ce ați simțit vântul înghețat la Newport Arch. Castelul și catedrala par deosebit de impunătoare în lumina iernii. Atenție la coborârea de după-amiază, înainte ca amurgul să umbrească drumul spre galeria Usher.",
+            "en": "A chilly start at Brayford Pool requires warm layers for the ride. At midday, warm up in the museum after feeling the icy wind at Newport Arch. The Castle and Cathedral look particularly grand in the winter light. Be careful on the afternoon descent before twilight shadows the path to the Usher Gallery."
+          },
+          "stops": [
+            {
+              "name": "Brayford Pool",
+              "tip_5lang": {
+                "de": "Achten Sie auf Raureif auf den Brücken; Sturzgefahr.",
+                "hu": "Ügyeljen a zúzmarára a hidakon; fokozott elesésveszély.",
+                "ro": "Atenție la chiciura de pe poduri; risc ridicat de cădere.",
+                "en": "Watch for frost on the bridges; high risk of slipping."
+              }
+            },
+            {
+              "name": "Museum of Lincolnshire Life",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um die Finger nach der Fahrt aufzuwärmen.",
+                "hu": "Tökéletes hely az ujjak átmelegítésére a tekerés után.",
+                "ro": "Loc perfect pentru a vă încălzi degetele după drum.",
+                "en": "Perfect place to warm up your fingers after the ride."
+              }
+            },
+            {
+              "name": "Newport Arch",
+              "tip_5lang": {
+                "de": "Der Wind pfeift hier im Winter oft kräftig durch das Tor.",
+                "hu": "Télen a szél gyakran erősen átfütyül a kapu alatt.",
+                "ro": "Vântul suflă adesea cu putere prin poartă în timpul iernii.",
+                "en": "The wind often whistles strongly through the arch in winter."
+              }
+            },
+            {
+              "name": "Lincoln Castle",
+              "tip_5lang": {
+                "de": "Prüfen Sie, ob die Radwege im Burgviertel geräumt sind.",
+                "hu": "Ellenőrizze, hogy a várnegyed kerékpárútjai le vannak-e takarítva.",
+                "ro": "Verificați dacă pistele de biciclete din zona castelului sunt curățate.",
+                "en": "Check if the bike paths in the castle area have been cleared."
+              }
+            },
+            {
+              "name": "Lincoln Cathedral",
+              "tip_5lang": {
+                "de": "Suchen Sie sich einen Fahrradständer im Windschatten der Mauern.",
+                "hu": "Keressen kerékpártárolót a falak szélvédett oldalán.",
+                "ro": "Căutați un suport de biciclete la adăpost de vânt lângă ziduri.",
+                "en": "Look for a bike rack in the lee of the massive walls."
+              }
+            },
+            {
+              "name": "Steep Hill (Descent)",
+              "tip_5lang": {
+                "de": "Bei Frostgefahr unbedingt schieben; Eis in den Fugen ist unsichtbar.",
+                "hu": "Fagyveszélyben tolja a biciklit; a jég a résekben láthatatlan.",
+                "ro": "Dacă e îngheț, mergeți pe lângă bicicletă; gheața dintre pietre e invizibilă.",
+                "en": "Dismount if frost is present; ice in the joints is invisible."
+              }
+            },
+            {
+              "name": "Usher Gallery",
+              "tip_5lang": {
+                "de": "Beenden Sie die Fahrt, bevor die Temperaturen bei Sonnenuntergang sinken.",
+                "hu": "Fejezze be a túrát, mielőtt a hőmérséklet napnyugtakor hirtelen leesik.",
+                "ro": "Încheiați tura înainte ca temperaturile să scadă brusc la apus.",
+                "en": "Finish your ride before temperatures drop sharply at sunset."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Ihre Fahrradbeleuchtung einwandfrei funktioniert.",
+              "Tragen Sie mehrere Schichten Kleidung, um flexibel auf Kälte zu reagieren.",
+              "Achten Sie auf 'Black Ice' (Glatteis) in schattigen Gassen.",
+              "Ein heißer Tee in den Satteltaschen hilft gegen die Kälte während der Pausen."
+            ],
+            "hu": [
+              "Győződjön meg róla, hogy a kerékpár lámpái tökéletesen működnek.",
+              "Öltözzön rétegesen, hogy rugalmasan alkalmazkodjon a hideghez.",
+              "Vigyázzon a 'fekete jégre' (láthatatlan felfagyás) az árnyékos utcákban.",
+              "A nyeregtáskába készített forró tea sokat segít a pihenők alatt."
+            ],
+            "ro": [
+              "Asigurați-vă că luminile bicicletei funcționează impecabil.",
+              "Purtați mai multe straturi de haine pentru a reacționa flexibil la frig.",
+              "Atenție la 'gheața neagră' în zonele umbrite ale străzilor.",
+              "Un ceai fierbinte în geanta de bicicletă ajută enorm în timpul pauzelor."
+            ],
+            "en": [
+              "Ensure your bike lights are fully functional for the early twilight.",
+              "Wear multiple layers of clothing to stay flexible against the cold.",
+              "Watch out for 'black ice' in shaded alleys and side streets.",
+              "A hot tea in your panniers helps against the chill during breaks."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -767,6 +1167,188 @@
           "Be aware of the narrow streets in the historic centre when driving.",
           "Traffic can be heavy during peak times, so plan your drives between clusters accordingly."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie am Cathedral Quarter, wo das Parkhaus schnellen Zugang zum Schloss bietet. Mittags fahren Sie entspannt durch den Regen zur Kathedrale. Die Erkundung des Steep Hill erfolgt zu Fuß, bevor Sie zum Brayford Waterfront Parkplatz wechseln. Der Abend am Pool lässt sich auch bei Regen genießen, da das Auto als warmer Rückzugsort dient.",
+            "hu": "Kezdjen a Cathedral Quarternél, ahol a parkolóház gyors hozzáférést biztosít a várhoz. Délben guruljon át az esőben a katedrálishoz. A Steep Hill felfedezése gyalog történik, majd váltson a Brayford Waterfront parkolóra. A vízparti este esőben is élvezhető, hiszen az autó meleg menedékként szolgál.",
+            "ro": "Începeți la Cathedral Quarter, unde parcarea oferă acces rapid la castel. La prânz mergeți relaxat prin ploaie spre catedrală. Explorarea Steep Hill se face pe jos, apoi schimbați parcarea spre Brayford Waterfront. Seara la malul apei poate fi savurată chiar și pe ploaie, mașina fiind un refugiu cald.",
+            "en": "Start at the Cathedral Quarter, where the parking garage offers quick access to the Castle. At midday, drive comfortably through the rain to the Cathedral. Explore Steep Hill on foot before moving to the Brayford Waterfront parking. An evening by the pool can be enjoyed even in rain, as the car serves as a warm retreat."
+          },
+          "stops": [
+            {
+              "name": "Cathedral Quarter Parking",
+              "tip_5lang": {
+                "de": "Überdachtes Parkhaus wählen, um beim Aussteigen trocken zu bleiben.",
+                "hu": "Válasszon fedett parkolóházat, hogy kiszálláskor száraz maradjon.",
+                "ro": "Alegeți o parcare acoperită pentru a rămâne uscat la coborâre.",
+                "en": "Choose a multi-story car park to stay dry when getting out."
+              }
+            },
+            {
+              "name": "Lincoln Castle",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Parkhaus; Schirm am Eingang bereithalten.",
+                "hu": "Rövid séta a parkolótól; tartsa készenlétben az esernyőt.",
+                "ro": "Drum scurt pe jos din parcare; pregătiți umbrela la intrare.",
+                "en": "Short walk from the parking; have your umbrella ready at the gate."
+              }
+            },
+            {
+              "name": "Lincoln Cathedral",
+              "tip_5lang": {
+                "de": "Nahegelegene Parkplätze nutzen, um Regenexposition zu minimieren.",
+                "hu": "Használja a közeli parkolókat a kinti tartózkodás minimalizálására.",
+                "ro": "Folosiți parcările din apropiere pentru a minimiza expunerea la ploaie.",
+                "en": "Use nearby street parking to minimize exposure to the rain."
+              }
+            },
+            {
+              "name": "Steep Hill (Exploration)",
+              "tip_5lang": {
+                "de": "Achten Sie auf rutschige Bordsteine beim Überqueren der Straße.",
+                "hu": "Ügyeljen a csúszós útpadkára az utca keresztezésekor.",
+                "ro": "Atenție la bordurile alunecoase când traversați strada.",
+                "en": "Watch out for slippery curbs when crossing the street."
+              }
+            },
+            {
+              "name": "Brayford Waterfront Parking",
+              "tip_5lang": {
+                "de": "Zentraler Parkplatz, ideal um schnell in die Restaurants zu kommen.",
+                "hu": "Központi parkoló, ideális a gyors étterembe jutáshoz.",
+                "ro": "Parcare centrală, ideală pentru a ajunge rapid la restaurante.",
+                "en": "Central parking, ideal for getting to restaurants quickly."
+              }
+            },
+            {
+              "name": "Brayford Pool & Usher Gallery",
+              "tip_5lang": {
+                "de": "Bei starkem Regen bietet die Galerie exzellenten Unterschlupf.",
+                "hu": "Heves esőben a galéria kiváló menedéket nyújt.",
+                "ro": "În caz de ploaie torențială, galeria oferă un adăpost excelent.",
+                "en": "If rain is heavy, the gallery provides excellent shelter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Park-Apps auf freie Plätze in Parkhäusern.",
+              "Vermeiden Sie das Parken unter Bäumen wegen herabfallender Äste bei Wind.",
+              "Nutzen Sie die Scheibenwischer-Intervallschaltung bei starkem Stadtverkehr.",
+              "Halten Sie Wechselkleidung im Kofferraum bereit."
+            ],
+            "hu": [
+              "Ellenőrizze a parkolási appokat a szabad helyekért a parkolóházakban.",
+              "Kerülje a fák alatti parkolást a szeles időben lehulló ágak miatt.",
+              "Használja az ablaktörlő megfelelő fokozatát a sűrű városi forgalomban.",
+              "Tartson váltóruhát a csomagtartóban az átázás esetére."
+            ],
+            "ro": [
+              "Verificați aplicațiile de parcare pentru locuri libere în garaje.",
+              "Evitați parcarea sub copaci din cauza ramurilor ce pot cădea pe vânt.",
+              "Folosiți ștergătoarele la intervalul corect în traficul urban intens.",
+              "Țineți haine de schimb în portbagaj în caz de nevoie."
+            ],
+            "en": [
+              "Check parking apps for available spaces in multi-story garages.",
+              "Avoid parking under trees due to falling branches in windy conditions.",
+              "Use appropriate wiper settings for heavy city traffic visibility.",
+              "Keep a change of clothes in the trunk just in case you get soaked."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen beginnt mit dem Enteisen der Scheiben am Cathedral Quarter. Mittags glänzen die Türme der Kathedrale im Frost, während Sie die Aussicht vom warmen Auto aus genießen. Nachmittags erkunden Sie den Steep Hill, bevor Sie zum Brayford Pool fahren. Der Tag endet stimmungsvoll mit den Lichtern der Stadt, die sich im eiskalten Wasser spiegeln.",
+            "hu": "A téli reggel a szélvédő jégtelenítésével indul a Cathedral Quarternél. Délben a katedrális tornyai csillognak a fagyban, miközben a meleg autóból csodálhatja a kilátást. Délután fedezze fel a Steep Hillt, majd guruljon le a Brayford Poolhoz. A nap a város fényeivel zárul, amelyek tükröződnek a jéghideg vízben.",
+            "ro": "Dimineața de iarnă începe cu dezghețarea parbrizului la Cathedral Quarter. La prânz, turnurile catedralei strălucesc în ger, în timp ce admirați vederea din mașina caldă. După-amiaza explorați Steep Hill, apoi mergeți spre Brayford Pool. Ziua se încheie cu luminile orașului reflectate în apa înghețată.",
+            "en": "The winter morning starts with de-icing the windshield at the Cathedral Quarter. At midday, the Cathedral towers sparkle in the frost while you enjoy the view from the warm car. In the afternoon, explore Steep Hill before driving down to Brayford Pool. The day ends atmospherically with city lights reflecting in the icy water."
+          },
+          "stops": [
+            {
+              "name": "Cathedral Quarter Parking",
+              "tip_5lang": {
+                "de": "Früh ankommen, da Parkplätze bei Winterereignissen begehrt sind.",
+                "hu": "Érkezzen korán, mert a parkolóhelyek téli eseményekkor hamar betelnek.",
+                "ro": "Sosiți devreme, deoarece parcările sunt căutate în timpul evenimentelor de iarnă.",
+                "en": "Arrive early as parking spaces are popular during winter events."
+              }
+            },
+            {
+              "name": "Lincoln Castle",
+              "tip_5lang": {
+                "de": "Besuchen Sie den Weihnachtsmarkt, falls Ihr Besuch im Dezember liegt.",
+                "hu": "Látogasson el a karácsonyi vásárba, ha decemberben jár itt.",
+                "ro": "Vizitați târgul de Crăciun dacă vizita are loc în decembrie.",
+                "en": "Visit the Christmas market if your trip falls in December."
+              }
+            },
+            {
+              "name": "Lincoln Cathedral",
+              "tip_5lang": {
+                "de": "Die Abendbeleuchtung ist im Winter besonders eindrucksvoll.",
+                "hu": "Az esti kivilágítás télen különösen lenyűgöző látvány.",
+                "ro": "Iluminatul de seară este deosebit de impresionant iarna.",
+                "en": "The evening lighting is particularly impressive during winter."
+              }
+            },
+            {
+              "name": "Steep Hill (Exploration)",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stellen auf dem Gehweg.",
+                "hu": "Ügyeljen a járdán lévő jeges foltokra.",
+                "ro": "Atenție la porțiunile înghețate de pe trotuar.",
+                "en": "Watch out for icy patches on the sidewalk."
+              }
+            },
+            {
+              "name": "Brayford Waterfront Parking",
+              "tip_5lang": {
+                "de": "Abends gut beleuchteter Parkplatz, sicher und nah am Wasser.",
+                "hu": "Este is jól kivilágított parkoló, biztonságos és közel van a vízhez.",
+                "ro": "Parcare bine iluminată seara, sigură și aproape de apă.",
+                "en": "Well-lit parking in the evening, safe and close to the water."
+              }
+            },
+            {
+              "name": "Brayford Pool & Usher Gallery",
+              "tip_5lang": {
+                "de": "Die Galerie bietet eine willkommene Aufwärmpause.",
+                "hu": "A galéria kellemes felfrissülést és meleget kínál.",
+                "ro": "Galeria oferă o pauză de încălzire binevenită.",
+                "en": "The gallery provides a welcome warm-up break."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Frostschutzmittel im Wischwasser ist.",
+              "Prüfen Sie die Reifendrücke bei niedrigen Temperaturen.",
+              "Heizen Sie das Auto vor, bevor Sie längere Strecken in der Stadt fahren.",
+              "Achten Sie auf Straßensperrungen im historischen Viertel bei Glätte."
+            ],
+            "hu": [
+              "Győződjön meg róla, hogy van fagyálló az ablakmosóban.",
+              "Ellenőrizze a guminyomást alacsony hőmérsékletnél.",
+              "Fűtse fel az autót, mielőtt hosszabb utat tesz meg a városban.",
+              "Figyelje az útlezárásokat a történelmi negyedben jegesedés esetén."
+            ],
+            "ro": [
+              "Asigurați-vă că aveți lichid de parbriz rezistent la îngheț.",
+              "Verificați presiunea în anvelope la temperaturi scăzute.",
+              "Încălziți mașina înainte de a parcurge distanțe mai mari prin oraș.",
+              "Atenție la eventualele străzi închise în zona istorică din cauza gheții."
+            ],
+            "en": [
+              "Ensure you have anti-freeze in your screen wash.",
+              "Check tire pressure as it drops in colder temperatures.",
+              "Pre-heat the car before driving between the city sections.",
+              "Watch for road closures in the historic quarter during icy weather."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -952,6 +1534,188 @@
           "Most buses are accessible, which is helpful for pushchairs or wheelchairs.",
           "Download the local bus operator's app for real-time schedules."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus geht es trocken Richtung Nettleham Road. Mittags bietet das Museum den perfekten Schutz vor den Regengüssen, bevor Sie zur Burg weiterfahren. Die Kathedrale und der Steep Hill lassen sich zwischen den Schauern erkunden. Abends bringt Sie der Bus zurück zum Brayford Pool, während draußen der Regen das Stadtbild verdeckt.",
+            "hu": "Busszal induljon szárazon a Nettleham Road felé. Délben a múzeum tökéletes védelmet nyújt a záporok ellen, mielőtt a várhoz menne. A katedrálist és a Steep Hillt a záporok közötti szünetekben érdemes felfedezni. Estére a busz visszaviszi a Brayford Poolhoz, miközben az eső elhomályosítja a város képét.",
+            "ro": "Luați autobuzul spre Nettleham Road pentru a rămâne uscat. La prânz, muzeul oferă protecție perfectă împotriva ploii înainte de a continua spre castel. Catedrala și Steep Hill pot fi explorate între reprizele de ploaie. Seara, autobuzul vă readuce la Brayford Pool în timp ce ploaia domină orașul.",
+            "en": "Take the bus towards Nettleham Road to stay dry. At midday, the museum offers perfect protection from the downpours before you head to the Castle. The Cathedral and Steep Hill are best explored between showers. In the evening, the bus returns you to Brayford Pool while the rain blurs the city view."
+          },
+          "stops": [
+            {
+              "name": "Bus towards Nettleham Road",
+              "tip_5lang": {
+                "de": "Nutzen Sie die App für Echtzeit-Infos, um Wartezeit im Regen zu vermeiden.",
+                "hu": "Használja az alkalmazást, hogy ne kelljen sokat várnia az esőben.",
+                "ro": "Folosiți aplicația pentru informații în timp real și evitați așteptarea în ploaie.",
+                "en": "Use the real-time app to avoid long waits in the rain."
+              }
+            },
+            {
+              "name": "Museum of Lincolnshire Life",
+              "tip_5lang": {
+                "de": "Bushaltestelle direkt vor der Tür; sehr praktischer Stopp.",
+                "hu": "A buszmegálló közvetlenül a bejárat előtt van; nagyon praktikus.",
+                "ro": "Stație de autobuz chiar în față; oprire foarte practică.",
+                "en": "Bus stop right outside the door; very convenient stop."
+              }
+            },
+            {
+              "name": "Lincoln Castle",
+              "tip_5lang": {
+                "de": "Warten Sie unter den Torbögen auf den nächsten Bus.",
+                "hu": "Várjon a kapualjak alatt a következő busz érkezéséig.",
+                "ro": "Așteptați sub arcadele porții următorul autobuz.",
+                "en": "Wait under the archways for your next bus connection."
+              }
+            },
+            {
+              "name": "Lincoln Cathedral",
+              "tip_5lang": {
+                "de": "Der Vorplatz kann bei Wind sehr zugig und nass sein.",
+                "hu": "A katedrális előtti tér szeles időben nagyon huzatos és vizes.",
+                "ro": "Piața catedralei poate fi foarte expusă la vânt și ploaie.",
+                "en": "The cathedral square can be very draughty and wet in the wind."
+              }
+            },
+            {
+              "name": "Steep Hill & Lunch",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant nah an einer Bushaltestelle.",
+                "hu": "Válasszon éttermet egy buszmegálló közelében.",
+                "ro": "Alegeți un restaurant aproape de o stație de autobuz.",
+                "en": "Choose a restaurant close to a bus stop for lunch."
+              }
+            },
+            {
+              "name": "Brayford Pool",
+              "tip_5lang": {
+                "de": "Überdachte Wartebereiche am Busbahnhof nutzen.",
+                "hu": "Használja a buszpályaudvar fedett várótermeit.",
+                "ro": "Folosiți zonele de așteptare acoperite din autogară.",
+                "en": "Use the undercover waiting areas at the bus station."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie ein Tagesticket direkt beim Fahrer oder per App.",
+              "Die Busse fahren im Stadtzentrum regelmäßig, ideal bei Regen.",
+              "Halten Sie Ihren Schirm beim Einsteigen griffbereit, aber geschlossen.",
+              "Achten Sie auf beschlagene Scheiben für den richtigen Ausstieg."
+            ],
+            "hu": [
+              "Vásároljon napijegyet a sofőrnél vagy az alkalmazásban.",
+              "A buszok sűrűn járnak a központban, ideálisak esős időben.",
+              "Tartsa kéznél az esernyőt, de felszálláskor csukja össze.",
+              "Figyelje a megállókat, mert a busz ablakai bepárásodhatnak."
+            ],
+            "ro": [
+              "Cumpărați un bilet de o zi de la șofer sau prin aplicație.",
+              "Autobuzele circulă regulat în centru, fiind ideale pe ploaie.",
+              "Țineți umbrela la îndemână, dar închideți-o la urcare.",
+              "Atenție la geamurile aburite pentru a nu rata stația."
+            ],
+            "en": [
+              "Buy a day ticket directly from the driver or via the app.",
+              "Buses run frequently in the city center, ideal for rainy days.",
+              "Keep your umbrella ready but close it before boarding.",
+              "Watch for steamed-up windows to ensure you don't miss your stop."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Bus bringt Sie am Wintermorgen warm zum Museum of Lincolnshire Life. Mittags besuchen Sie die Burg und Kathedrale, während die Stadt im frostigen Licht glänzt. Der Steep Hill bietet gemütliche Einkehrmöglichkeiten zum Aufwärmen. Abends kehren Sie mit dem beheizten Bus zum Brayford Pool zurück, pünktlich zum Einsetzen der Dunkelheit.",
+            "hu": "A busz melegében utazhat téli reggelen a néprajzi múzeumhoz. Délben látogassa meg a várat és a katedrálist, miközben a város a fagyos fényben tündököl. A Steep Hill hangulatos helyei kiválóak az átmelegedéshez. Estére a fűtött busszal térhet vissza a Brayford Poolhoz, épp mire besötétedik.",
+            "ro": "Autobuzul vă duce la căldură spre muzeu în dimineața de iarnă. La prânz vizitați castelul și catedrala, în timp ce orașul strălucește în ger. Steep Hill oferă locuri primitoare pentru încălzire. Seara reveniți cu autobuzul încălzit la Brayford Pool, exact când se lasă întunericul.",
+            "en": "The bus takes you warmly to the museum on a winter morning. At midday, visit the Castle and Cathedral while the city gleams in the frosty light. Steep Hill offers cozy places to warm up. In the evening, return by heated bus to Brayford Pool, just as darkness falls."
+          },
+          "stops": [
+            {
+              "name": "Bus towards Nettleham Road",
+              "tip_5lang": {
+                "de": "Winterfahrplan beachten; manche Linien fahren seltener.",
+                "hu": "Ügyeljen a téli menetrendre; egyes járatok ritkábban indulhatnak.",
+                "ro": "Atenție la programul de iarnă; unele linii pot circula mai rar.",
+                "en": "Check winter schedules; some lines may run less frequently."
+              }
+            },
+            {
+              "name": "Museum of Lincolnshire Life",
+              "tip_5lang": {
+                "de": "Ein herrlich warmer Ort zum Starten Ihres Tagesprogramms.",
+                "hu": "Kellemesen meleg helyszín a napi program indításához.",
+                "ro": "Un loc minunat de cald pentru a începe programul zilei.",
+                "en": "A wonderfully warm place to start your day trip."
+              }
+            },
+            {
+              "name": "Lincoln Castle",
+              "tip_5lang": {
+                "de": "Die Burgmauern sind im Winter oft windig; Schal einpacken.",
+                "hu": "A várfalak télen gyakran szelesek; vigyen sálat.",
+                "ro": "Zidurile castelului sunt adesea bântuite de vânt iarna; luați un fular.",
+                "en": "The castle walls are often windy in winter; bring a scarf."
+              }
+            },
+            {
+              "name": "Lincoln Cathedral",
+              "tip_5lang": {
+                "de": "Im Inneren kann es kühler sein als draußen im Bus.",
+                "hu": "Benn hidegebb lehet, mint kint a fűtött buszon.",
+                "ro": "În interior poate fi mai rece decât afară, în autobuz.",
+                "en": "It can be colder inside than it is on the heated bus."
+              }
+            },
+            {
+              "name": "Steep Hill & Lunch",
+              "tip_5lang": {
+                "de": "Viele Cafés haben im Winter Heizstrahler im Außenbereich.",
+                "hu": "Sok kávézó teraszán van hősugárzó a téli időszakban.",
+                "ro": "Multe cafenele au radiatoare pe terase în timpul iernii.",
+                "en": "Many cafes have outdoor heaters during the winter months."
+              }
+            },
+            {
+              "name": "Brayford Pool",
+              "tip_5lang": {
+                "de": "Der Busbahnhof bietet Schutz vor dem kalten Abendwind.",
+                "hu": "A buszállomás védelmet nyújt a hideg esti szél ellen.",
+                "ro": "Autogara oferă protecție împotriva vântului rece de seară.",
+                "en": "The bus station provides shelter from the cold evening wind."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Busse als mobile Aufwärmstationen zwischen den Zielen.",
+              "Prüfen Sie Abfahrtszeiten vorab, um langes Stehen in der Kälte zu vermeiden.",
+              "Tragen Sie rutschfeste Schuhe für den Weg von der Haltestelle zum Ziel.",
+              "Halten Sie Kleingeld oder Kontaktlos-Zahlung bereit."
+            ],
+            "hu": [
+              "Használja a buszokat mozgó melegedőként a célpontok között.",
+              "Ellenőrizze az indulást, hogy ne kelljen sokat várnia a hidegben.",
+              "Viseljen csúszásmentes cipőt a megálló és a látnivaló közötti útra.",
+              "Készítsen elő aprópénzt vagy érintős kártyát a fizetéshez."
+            ],
+            "ro": [
+              "Folosiți autobuzele ca stații mobile de încălzire între obiective.",
+              "Verificați orele de plecare pentru a nu sta mult în frig la stație.",
+              "Purtați pantofi antiderapanți pentru drumul de la stație la obiectiv.",
+              "Pregătiți mărunțiș sau cardul contactless pentru plată."
+            ],
+            "en": [
+              "Use the buses as mobile warm-up stations between attractions.",
+              "Check departure times in advance to avoid waiting in the cold.",
+              "Wear non-slip shoes for the walk from the stop to the venue.",
+              "Have change or a contactless payment method ready."
+            ]
+          }
+        }
       }
     }
   }

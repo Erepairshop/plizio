@@ -326,6 +326,188 @@
           "The best plăcinte are often found in small, unassuming bakeries.",
           "Check the museum's opening hours in advance."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen beginnt am Union Square, wo die nassen Pflastersteine das sanfte Licht widerspiegeln. Mittags bietet das Museum für Geschichte und Ethnographie einen perfekten Zufluchtsort vor dem Guss. Am Nachmittag wirkt die Eiffel-Brücke im Nebel über dem Prut besonders mystisch. Der Tag endet mit einem kurzen, erfrischenden Spaziergang durch den Grigore Vieru Park unter einem schützenden Schirm.",
+            "hu": "Az esős reggel az Unió téren indul, ahol a vizes kövezet különleges csillogást kap. Délben a Történeti és Néprajzi Múzeum nyújt menedéket a zápor elől, elmélyült böngészést kínálva. Délután az Eiffel-híd látványa a Prut feletti párában felejthetetlen élményt nyújt. Az estét a Grigore Vieru Park friss levegőjén, egy jó esernyő társaságában zárjuk, élvezve a csendes várost.",
+            "ro": "O dimineață ploioasă începe în Piața Unirii, unde pavajul umed reflectă luminile orașului. La prânz, Muzeul de Istorie și Etnografie oferă refugiul perfect împotriva ploii. După-amiază, Podul Eiffel pare desprins dintr-o poveste, învăluit în ceața de deasupra Prutului. Ziua se încheie cu o plimbare revigorantă prin Parcul Grigore Vieru, protejați de o umbrelă solidă.",
+            "en": "A rainy morning begins at Union Square, where the wet pavement adds a rhythmic charm to the walk. Midday, the Museum of History and Ethnography provides a perfect sanctuary from the downpour. In the afternoon, the Eiffel Bridge looks mysterious through the mist over the Prut River. The day ends with a short, refreshing stroll through Grigore Vieru Park under the protection of a sturdy umbrella."
+          },
+          "stops": [
+            {
+              "name": "Union Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden der umliegenden Gebäude als Regenschutz.",
+                "hu": "Használja a környező épületek árkádjait eső elleni védelemként.",
+                "ro": "Folosiți arcadele clădirilor din jur pentru protecție împotriva ploii.",
+                "en": "Use the arcades of surrounding buildings for rain protection."
+              }
+            },
+            {
+              "name": "Stephen the Great Monument",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp; der Stein glänzt bei Regen besonders schön.",
+                "hu": "Gyors fotómegálló; a kőfelület esőben szépen csillog.",
+                "ro": "Oprire scurtă pentru poze; piatra strălucește frumos în ploaie.",
+                "en": "Quick photo stop; the stone shines beautifully in the rain."
+              }
+            },
+            {
+              "name": "Alexander Nevsky Cathedral",
+              "tip_5lang": {
+                "de": "Ideal zum Aufwärmen und für eine trockene Pause im Inneren.",
+                "hu": "Ideális hely a felmelegedésre és egy száraz belső pihenőre.",
+                "ro": "Loc ideal pentru încălzire și o pauză uscată în interior.",
+                "en": "Ideal place for warming up and a dry break inside."
+              }
+            },
+            {
+              "name": "Museum of History and Ethnography",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um die stärkste Regenphase im Trockenen zu verbringen.",
+                "hu": "Tökéletes helyszín a legerősebb eső szárazon való átvészelésére.",
+                "ro": "Locul perfect pentru a petrece cea mai ploioasă parte a zilei la adăpost.",
+                "en": "The perfect spot to spend the rainiest part of the day indoors."
+              }
+            },
+            {
+              "name": "Eiffel Bridge",
+              "tip_5lang": {
+                "de": "Vorsicht, die Metallkonstruktion kann bei Nässe rutschig sein.",
+                "hu": "Vigyázat, a fémszerkezet nedvesen csúszós lehet.",
+                "ro": "Atenție, structura metalică poate fi alunecoasă pe timp de ploaie.",
+                "en": "Be careful, the metal structure can be slippery when wet."
+              }
+            },
+            {
+              "name": "Grigore Vieru Park",
+              "tip_5lang": {
+                "de": "Die asphaltierten Wege sind auch bei Regen gut begehbar.",
+                "hu": "Az aszfaltozott utak esőben is jól járhatóak maradnak.",
+                "ro": "Aleile asfaltate rămân ușor de parcurs chiar și pe ploaie.",
+                "en": "The paved paths remain easily walkable even in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für die Wege entlang des Flusses.",
+              "Ein großer Stockschirm ist bei Wind vom Prut stabiler als ein Taschenschirm.",
+              "Nutzen Sie die Cafés in der Nähe der Kathedrale für eine trockene Pause.",
+              "Planen Sie mehr Zeit für das Museum ein, falls der Regen stärker wird."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a folyó menti sétákhoz.",
+              "Egy nagyobb boternyő stabilabb a Prut felől fújó szélben, mint az összecsukható.",
+              "Használja a katedrális környéki kávézókat egy száraz pihenőhöz.",
+              "Tervezzen több időt a múzeumban, ha felerősödne az eső."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru plimbările pe lângă râu.",
+              "O umbrelă mare este mai stabilă în fața vântului dinspre Prut.",
+              "Folosiți cafenelele de lângă catedrală pentru o pauză uscată.",
+              "Alocați mai mult timp muzeului dacă ploaia devine mai intensă."
+            ],
+            "en": [
+              "Wear waterproof shoes for the walks along the river.",
+              "A large umbrella is more stable against the Prut wind than a compact one.",
+              "Use the cafes near the cathedral for a dry break.",
+              "Plan more time for the museum if the rain intensifies."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen am Union Square, wo der Atem in der kalten Luft sichtbar wird. Mittags wärmen wir uns in der Alexander-Newski-Kathedrale und im Museum auf, während die Wintersonne tief steht. Nachmittags bietet die Eiffel-Brücke einen klaren Blick auf den vereisten Prut. Der Tag endet früh im Grigore Vieru Park, wenn die Dämmerung den Schnee in blaues Licht taucht.",
+            "hu": "Deres téli reggel az Unió téren, ahol a hideg levegőben látszik a lehelet. Délben az Alekszandr Nyevszkij-székesegyház és a múzeum nyújt melegséget a téli napsütésben. Délután az Eiffel-híd tiszta kilátást nyújt a befagyott Prut folyóra. A nap korán ér véget a Grigore Vieru Parkban, ahogy az alkonyat kék fénybe vonja a hóval borított tájat.",
+            "ro": "O dimineață geroasă în Piața Unirii, unde răsuflarea devine vizibilă în aerul rece. La prânz, ne încălzim în Catedrala Alexandru Nevski și în muzeu sub soarele palid de iarnă. După-amiază, Podul Eiffel oferă o priveliște clară asupra Prutului înghețat. Ziua se încheie devreme în Parcul Grigore Vieru, când amurgul scaldă zăpada în nuanțe albăstrui.",
+            "en": "A frosty winter morning at Union Square, where breath becomes visible in the crisp air. Midday is spent warming up in the Alexander Nevsky Cathedral and the museum under the low winter sun. In the afternoon, the Eiffel Bridge offers a clear view of the icy Prut River. The day ends early in Grigore Vieru Park as twilight blankets the snow in blue light."
+          },
+          "stops": [
+            {
+              "name": "Union Square",
+              "tip_5lang": {
+                "de": "Achten Sie auf glatte Stellen auf dem gefrorenen Pflaster.",
+                "hu": "Vigyázzon a jeges foltokra a fagyott díszburkolaton.",
+                "ro": "Atenție la porțiunile înghețate de pe pavajul pieței.",
+                "en": "Watch out for icy patches on the frozen pavement."
+              }
+            },
+            {
+              "name": "Stephen the Great Monument",
+              "tip_5lang": {
+                "de": "Idealer Fotopunkt bei tiefstehender Wintersonne.",
+                "hu": "Ideális fotópont az alacsonyan járó téli napsütésben.",
+                "ro": "Punct ideal de fotografiere în lumina soarelui de iarnă.",
+                "en": "Ideal photo spot in the low winter sunlight."
+              }
+            },
+            {
+              "name": "Alexander Nevsky Cathedral",
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille und die Wärme des Kerzenlichts.",
+                "hu": "Élvezze a csendet és a gyertyafény melegét odabent.",
+                "ro": "Bucurați-vă de liniștea și căldura lumânărilor din interior.",
+                "en": "Enjoy the silence and the warmth of candlelight inside."
+              }
+            },
+            {
+              "name": "Museum of History and Ethnography",
+              "tip_5lang": {
+                "de": "Ein großartiger Ort, um sich für eine Stunde aufzuwärmen.",
+                "hu": "Nagyszerű helyszín egyórás beltéri melegedéshez.",
+                "ro": "Un loc excelent pentru a vă încălzi timp de o oră.",
+                "en": "A great place to warm up indoors for an hour."
+              }
+            },
+            {
+              "name": "Eiffel Bridge",
+              "tip_5lang": {
+                "de": "Der Wind auf der Brücke kann im Winter sehr schneidend sein.",
+                "hu": "A hídon télen nagyon metsző lehet a szél.",
+                "ro": "Vântul de pe pod poate fi foarte tăios în timpul iernii.",
+                "en": "The wind on the bridge can be very piercing in winter."
+              }
+            },
+            {
+              "name": "Grigore Vieru Park",
+              "tip_5lang": {
+                "de": "Ab 16:30 Uhr wird es dunkel; genießen Sie die Parkbeleuchtung.",
+                "hu": "16:30 után sötétedik; élvezze a park téli kivilágítását.",
+                "ro": "Se întunecă după ora 16:30; admirați luminile parcului.",
+                "en": "It gets dark after 16:30; enjoy the park's winter lights."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich nach dem Zwiebelprinzip für extreme Kälte.",
+              "Tragen Sie Schuhe mit gutem Profil gegen Glätte auf den Brückenwegen.",
+              "Besuchen Sie das Museum am frühen Nachmittag für die maximale Wärme.",
+              "Beachten Sie den frühen Sonnenuntergang gegen 16:30 Uhr."
+            ],
+            "hu": [
+              "Öltözködjön rétegesen a hideg elleni védekezéshez.",
+              "Válasszon tapadós talpú cipőt a csúszós hídi járdákhoz.",
+              "Látogassa meg a múzeumot kora délután a maximális melegért.",
+              "Vegye figyelembe a korai, 16:30 körüli naplementét."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi pentru protecție împotriva gerului.",
+              "Alegeți încălțăminte cu talpă aderentă pentru trotuarele alunecoase.",
+              "Vizitați muzeul după-amiaza devreme pentru a vă încălzi.",
+              "Țineți cont de apusul timpuriu, în jurul orei 16:30."
+            ],
+            "en": [
+              "Dress in layers to protect against the extreme cold.",
+              "Choose shoes with good grip for the slippery bridge walkways.",
+              "Visit the museum in the early afternoon for maximum warmth.",
+              "Note the early sunset around 16:30."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -654,6 +836,206 @@
           "Some roads can be bumpy, ride with care.",
           "Plan for breaks to rest and hydrate."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine erfrischende Radtour durch das regnerische Ungheni. Wir starten am Union Square und radeln zügig zur Alexander-Newski-Kathedrale. Der Vormittag im Museum bietet Schutz vor dem Guss. Mittags überqueren wir vorsichtig die nasse Eiffel-Brücke. Nachmittags erkunden wir die Parks, wobei die frische Luft und der Duft der nassen Erde die Fahrt trotz Regen zu einem Naturerlebnis machen.",
+            "hu": "Frissítő kerékpártúra az esős Ungheniben. Az Unió térről indulunk, és gyorsan a katedrálishoz tekerünk. A délelőtt a múzeumban nyújt védelmet a zápor elől. Délben óvatosan kelünk át a nedves Eiffel-hídon. Délután a parkok következnek, ahol a friss levegő és a nedves föld illata az eső ellenére is természetközeli élménnyé teszi a gurulást.",
+            "ro": "O tură revigorantă cu bicicleta prin Ungheni pe timp de ploaie. Pornim din Piața Unirii și pedalăm rapid spre Catedrală. Dimineața la muzeu oferă protecție împotriva averselor. La prânz traversăm cu grijă Podul Eiffel umed. După-amiază explorăm parcurile, unde aerul proaspăt și mirosul pământului reavăn fac călătoria o experiență naturală.",
+            "en": "A refreshing bike tour through rainy Ungheni. We start at Union Square and cycle briskly to the Cathedral. The morning at the museum provides shelter from the showers. At noon, we carefully cross the wet Eiffel Bridge. In the afternoon, we explore the parks, where the fresh air and scent of wet earth make the ride a natural experience despite the rain."
+          },
+          "stops": [
+            {
+              "name": "Union Square",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen auf dem nassen Kopfsteinpflaster.",
+                "hu": "Ellenőrizze a fékeket a vizes díszburkolaton.",
+                "ro": "Verificați frânele pe pavajul umed.",
+                "en": "Check your brakes on the wet pavement."
+              }
+            },
+            {
+              "name": "Alexander Nevsky Cathedral",
+              "tip_5lang": {
+                "de": "Überdachte Fahrradständer befinden sich oft in der Nähe.",
+                "hu": "Fedett kerékpártárolók gyakran találhatók a közelben.",
+                "ro": "Suporturile acoperite pentru biciclete sunt adesea în apropiere.",
+                "en": "Covered bike racks are often located nearby."
+              }
+            },
+            {
+              "name": "Museum of History and Ethnography",
+              "tip_5lang": {
+                "de": "Trocknen Sie Ihre Ausrüstung während des Besuchs ab.",
+                "hu": "Szárítsa meg felszerelését a látogatás ideje alatt.",
+                "ro": "Uscați-vă echipamentul în timpul vizitei la muzeu.",
+                "en": "Dry your gear during your museum visit."
+              }
+            },
+            {
+              "name": "Eiffel Bridge",
+              "tip_5lang": {
+                "de": "Fahren Sie langsam; die Metallschienen sind bei Regen sehr rutschig.",
+                "hu": "Hajtson lassan; a fémsínek esőben nagyon csúszósak.",
+                "ro": "Pedalați încet; șinele metalice sunt foarte alunecoase.",
+                "en": "Ride slowly; metal rails are very slippery when raining."
+              }
+            },
+            {
+              "name": "Saint Nicholas Church",
+              "tip_5lang": {
+                "de": "Kurze Pause im Trockenen unter dem Vordach.",
+                "hu": "Rövid száraz pihenő az előtető alatt.",
+                "ro": "Pauză scurtă la uscat sub streașină.",
+                "en": "Short dry break under the entrance canopy."
+              }
+            },
+            {
+              "name": "Grigore Vieru Park",
+              "tip_5lang": {
+                "de": "Meiden Sie unbefestigte Wege, um Schlamm zu vermeiden.",
+                "hu": "Kerülje a burkolatlan utakat a sár miatt.",
+                "ro": "Evitați drumurile neasfaltate pentru a evita noroiul.",
+                "en": "Avoid unpaved paths to steer clear of mud."
+              }
+            },
+            {
+              "name": "Micul Cluj Sculpture Park",
+              "tip_5lang": {
+                "de": "Die Skulpturen wirken im Regen besonders kontrastreich.",
+                "hu": "A szobrok esőben különösen kontrasztos látványt nyújtanak.",
+                "ro": "Sculpturile au un contrast aparte pe timp de ploaie.",
+                "en": "The sculptures offer a high-contrast look in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vollständige Regenbekleidung inklusive Überschuhen wird empfohlen.",
+              "Reduzieren Sie den Reifendruck leicht für besseren Grip auf Nässe.",
+              "Vermeiden Sie scharfe Bremsmanöver auf Kopfsteinpflaster.",
+              "Ein Schutzblech ist bei Fahrten am Flussufer unerlässlich."
+            ],
+            "hu": [
+              "Teljes esőruházat és kamásli használata javasolt.",
+              "Kissé csökkentse a guminyomást a jobb tapadásért a vizes úton.",
+              "Kerülje az erős fékezést a díszburkolaton.",
+              "A sárvédő elengedhetetlen a folyóparti szakaszokon."
+            ],
+            "ro": [
+              "Se recomandă costum complet de ploaie și protecții pentru încălțăminte.",
+              "Reduceți ușor presiunea în pneuri pentru aderență mai bună.",
+              "Evitați frânările bruște pe porțiunile cu pavaj.",
+              "Apărătoarele de noroi sunt esențiale lângă malul râului."
+            ],
+            "en": [
+              "Full rain gear including shoe covers is recommended.",
+              "Slightly reduce tire pressure for better grip on wet roads.",
+              "Avoid sharp braking maneuvers on paved surfaces.",
+              "Mudguards are essential for rides along the riverbank."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in Ungheni erfordert warme Vorbereitung. Wir starten am Union Square und genießen die klare, kalte Luft. Die Stopps an der Kathedrale und im Museum sind essenziell, um die Finger aufzuwärmen. Mittags bietet die Eiffel-Brücke einen spektakulären Blick auf den Frost über dem Prut. Die Tour durch die Parks am Nachmittag ist kurz, da die Kälte bei sinkender Sonne intensiver wird.",
+            "hu": "A téli kerékpározás Ungheniben alapos felkészülést igényel. Az Unió térről indulva élvezzük a tiszta, hideg levegőt. A katedrálisnál és a múzeumnál tett megállók alapvetőek az ujjak felmelegítéséhez. Délben az Eiffel-híd látványos kilátást nyújt a Prut feletti dérre. A délutáni parktúra rövid, mivel a naplemente közeledtével a hideg intenzívebbé válik.",
+            "ro": "Ciclismul de iarnă în Ungheni necesită o pregătire caldă. Pornim din Piața Unirii și ne bucurăm de aerul clar și rece. Opririle la Catedrală și muzeu sunt esențiale pentru încălzirea degetelor. La prânz, Podul Eiffel oferă o vedere spectaculoasă asupra chiciurii de pe Prut. Turul parcurilor de după-amiază este scurt, pe măsură ce frigul se intensifică odată cu lăsarea serii.",
+            "en": "Winter cycling in Ungheni requires warm preparation. Starting at Union Square, we enjoy the crisp, cold air. Stops at the Cathedral and the museum are essential for warming up fingers. At noon, the Eiffel Bridge provides spectacular views of frost over the Prut. The afternoon park tour is brief as the cold intensifies with the sinking sun."
+          },
+          "stops": [
+            {
+              "name": "Union Square",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenem Kondenswasser auf dem Boden.",
+                "hu": "Vigyázzon a lefagyott páralecsapódásra a talajon.",
+                "ro": "Atenție la condensul înghețat de pe sol.",
+                "en": "Watch out for frozen condensation on the ground."
+              }
+            },
+            {
+              "name": "Alexander Nevsky Cathedral",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Innenräume für eine 10-minütige Aufwärmpause.",
+                "hu": "Használja a belső teret egy 10 perces melegedő szünetre.",
+                "ro": "Folosiți interiorul pentru o pauză de încălzire de 10 minute.",
+                "en": "Use the interior for a 10-minute warming break."
+              }
+            },
+            {
+              "name": "Museum of History and Ethnography",
+              "tip_5lang": {
+                "de": "Idealer Ort, um die Körpertemperatur wieder zu regulieren.",
+                "hu": "Ideális hely a testhőmérséklet helyreállításához.",
+                "ro": "Loc ideal pentru a vă regla temperatura corpului.",
+                "en": "Ideal place to regulate your body temperature."
+              }
+            },
+            {
+              "name": "Eiffel Bridge",
+              "tip_5lang": {
+                "de": "Starker Windchill-Effekt; halten Sie die Fahrtzeit kurz.",
+                "hu": "Erős szélhűtés-hatás; tartsa röviden a megállót.",
+                "ro": "Efect puternic de răcire prin vânt; scurtați timpul vizitei.",
+                "en": "Strong wind chill effect; keep the stop brief."
+              }
+            },
+            {
+              "name": "Saint Nicholas Church",
+              "tip_5lang": {
+                "de": "Ruhiger Punkt für einen schnellen warmen Tee aus der Thermoskanne.",
+                "hu": "Nyugodt pont egy gyors meleg teához a termoszból.",
+                "ro": "Punct liniștit pentru un ceai cald rapid din termos.",
+                "en": "Quiet spot for a quick warm tea from your thermos."
+              }
+            },
+            {
+              "name": "Grigore Vieru Park",
+              "tip_5lang": {
+                "de": "Achten Sie auf verborgene Eisflächen unter dem Neuschnee.",
+                "hu": "Vigyázzon a friss hó alatti rejtett jégfoltokra.",
+                "ro": "Atenție la gheața ascunsă sub zăpada proaspătă.",
+                "en": "Watch out for hidden ice patches under fresh snow."
+              }
+            },
+            {
+              "name": "Micul Cluj Sculpture Park",
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour vor 16:30 Uhr wegen der Dunkelheit.",
+                "hu": "Zárja a túrát 16:30 előtt a sötétedés miatt.",
+                "ro": "Încheiați turul înainte de 16:30 din cauza întunericului.",
+                "en": "End the tour before 16:30 due to darkness."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Handschuhe und eine Mütze unter dem Helm.",
+              "Vermeiden Sie Metallteile am Fahrrad ohne Handschuhe zu berühren.",
+              "Prüfen Sie den Reifendruck; etwas weniger Luft erhöht die Bodenhaftung.",
+              "Nehmen Sie ein warmes Getränk in einer Thermoskanne mit."
+            ],
+            "hu": [
+              "Viseljen szélálló kesztyűt és sapkát a sisak alatt.",
+              "Kerülje a kerékpár fém részeinek érintését kesztyű nélkül.",
+              "Ellenőrizze a nyomást; a puhább gumi jobban tapad a havon.",
+              "Vigyen magával meleg italt termoszban."
+            ],
+            "ro": [
+              "Purtați mănuși rezistente la vânt și căciulă sub cască.",
+              "Evitați atingerea părților metalice ale bicicletei fără mănuși.",
+              "Verificați presiunea; anvelopele mai moi aderă mai bine pe zăpadă.",
+              "Luați cu voi o băutură caldă într-un termos."
+            ],
+            "en": [
+              "Wear windproof gloves and a hat under your helmet.",
+              "Avoid touching metal parts of the bike without gloves.",
+              "Check tire pressure; softer tires grip better on snow.",
+              "Carry a warm drink in a thermos."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -982,6 +1364,206 @@
           "Keep small change ready for parking meters.",
           "The cluster-walking method is ideal for making the most of your visit."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine komfortable Autofahrt durch das verregnete Ungheni. Wir parken nah am Union Square und nutzen die kurzen Wege zur Kathedrale. Das Museum bietet mittags eine lange, trockene Pause. Die Fahrt zur Eiffel-Brücke ermöglicht einen Blick auf den Fluss direkt aus dem Fenster. Nachmittags besuchen wir die Parks, wobei das Auto als trockene Basis für kleine Exkursionen dient.",
+            "hu": "Kényelmes autós túra az esős Ungheniben. Az Unió tér közelében parkolunk, kihasználva a rövid utat a katedrálishoz. A múzeum délben hosszú, száraz pihenőt kínál. Az Eiffel-hídhoz vezető út során az autóból is megcsodálhatjuk a folyót. Délután a parkokat látogatjuk meg, ahol az autó száraz bázisként szolgál a kisebb sétákhoz.",
+            "ro": "O călătorie confortabilă cu mașina prin Ungheni pe ploaie. Parcăm aproape de Piața Unirii și profităm de distanțele scurte până la Catedrală. Muzeul oferă la prânz o pauză lungă și uscată. Drumul spre Podul Eiffel permite admirarea râului direct de la fereastră. După-amiază vizităm parcurile, mașina fiind o bază uscată pentru scurte incursiuni.",
+            "en": "A comfortable car trip through rainy Ungheni. We park near Union Square and take advantage of the short walks to the Cathedral. The museum provides a long, dry break at noon. The drive to the Eiffel Bridge allows for views of the river directly from the window. In the afternoon, we visit the parks, with the car serving as a dry base for small excursions."
+          },
+          "stops": [
+            {
+              "name": "Parking near Union Square",
+              "tip_5lang": {
+                "de": "Vorsicht beim Aussteigen vor Pfützen am Fahrbahnrand.",
+                "hu": "Vigyázzon a tócsákra az út szélén kiszálláskor.",
+                "ro": "Atenție la bălțile de la marginea drumului la coborâre.",
+                "en": "Watch out for puddles at the roadside when exiting."
+              }
+            },
+            {
+              "name": "Union Square & Monument",
+              "tip_5lang": {
+                "de": "Kurze Wege minimieren die Zeit im Regen.",
+                "hu": "A rövid sétatávolság minimalizálja az esőben töltött időt.",
+                "ro": "Distanțele scurte minimizează timpul petrecut în ploaie.",
+                "en": "Short walking distances minimize time spent in the rain."
+              }
+            },
+            {
+              "name": "Alexander Nevsky Cathedral",
+              "tip_5lang": {
+                "de": "Parkplätze direkt vor dem Eingang sind oft verfügbar.",
+                "hu": "Gyakran van szabad parkoló közvetlenül a bejárat előtt.",
+                "ro": "Locurile de parcare de lângă intrare sunt adesea disponibile.",
+                "en": "Parking spots right in front of the entrance are often available."
+              }
+            },
+            {
+              "name": "Museum of History and Ethnography",
+              "tip_5lang": {
+                "de": "Lassen Sie nasse Regenschirme im Kofferraum.",
+                "hu": "Hagyja a vizes esernyőket a csomagtartóban.",
+                "ro": "Lăsați umbrelele ude în portbagaj.",
+                "en": "Leave wet umbrellas in the trunk."
+              }
+            },
+            {
+              "name": "Eiffel Bridge",
+              "tip_5lang": {
+                "de": "Gute Sicht vom nahen Parkplatz auf die Brücke.",
+                "hu": "Jó rálátás a hídra a közeli parkolóból.",
+                "ro": "Vedere bună spre pod din parcarea din apropiere.",
+                "en": "Good view of the bridge from the nearby parking area."
+              }
+            },
+            {
+              "name": "Grigore Vieru Park",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Wagen zum Aufwärmen zwischen den Parkbesuchen.",
+                "hu": "Használja az autót melegedésre a parklátogatások között.",
+                "ro": "Folosiți mașina pentru a vă încălzi între vizitele în parc.",
+                "en": "Use the car to warm up between park visits."
+              }
+            },
+            {
+              "name": "Micul Cluj Sculpture Park",
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Skulpturenpfad.",
+                "hu": "Parkoljon a lehető legközelebb a szoborsétányhoz.",
+                "ro": "Parcați cât mai aproape de aleea cu sculpturi.",
+                "en": "Park as close as possible to the sculpture path."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf den Straßen entlang des Prut.",
+              "Nutzen Sie die Klimaanlage gegen beschlagene Scheiben.",
+              "Halten Sie ein Handtuch bereit, um nasse Kleidung abzutrocknen.",
+              "Informieren Sie sich über Sperrungen an der Brücke bei starkem Regen."
+            ],
+            "hu": [
+              "Vigyázzon a vízfelúszásra a Prut menti utakon.",
+              "Használja a klímát a szélvédő párátlanításához.",
+              "Tartson kéznél törölközőt a vizes ruhák letörléséhez.",
+              "Tájékozódjon a híd esetleges lezárásáról heves esőzéskor."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumurile de-a lungul Prutului.",
+              "Folosiți aerul condiționat pentru dezaburirea geamurilor.",
+              "Țineți un prosop la îndemână pentru a șterge hainele ude.",
+              "Informați-vă despre posibile restricții pe pod la ploi torențiale."
+            ],
+            "en": [
+              "Watch out for aquaplaning on roads along the Prut.",
+              "Use air conditioning to prevent windows from fogging up.",
+              "Keep a towel handy to dry off wet clothes.",
+              "Check for bridge closures during heavy rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Wintertour durch Ungheni im beheizten Auto. Wir starten frostig am Union Square, finden aber schnell Wärme in der Kathedrale und im Museum. Die Fahrt zur Eiffel-Brücke bietet ein beeindruckendes Panorama des verschneiten Flusstals. Der Nachmittag in den Parks ist dank der Sitzheizung angenehm, während wir die winterliche Stille und das frühe Abendlicht genießen.",
+            "hu": "Téli túra Ungheniben, fűtött autóval. Fagyosan indulunk az Unió téren, de gyorsan melegre lelünk a katedrálisban és a múzeumban. Az Eiffel-hídhoz vezető út lenyűgöző panorámát nyújt a havas folyóvölgyre. A délutáni parklátogatás az ülésfűtésnek köszönhetően kellemes marad, miközben élvezzük a téli csendet és a korai alkonyi fényeket.",
+            "ro": "Tur de iarnă în Ungheni cu mașina încălzită. Pornim de la gerul din Piața Unirii, dar găsim rapid căldură în Catedrală și muzeu. Drumul spre Podul Eiffel oferă o panoramă impresionantă a văii râului acoperite de zăpadă. După-amiaza în parcuri este plăcută datorită încălzirii din scaune, în timp ce admirăm liniștea hibernală și lumina serii.",
+            "en": "Winter tour through Ungheni in a heated car. We start at frosty Union Square but quickly find warmth in the Cathedral and the museum. The drive to the Eiffel Bridge offers an impressive panorama of the snow-covered river valley. The afternoon in the parks is pleasant thanks to heated seats, while we enjoy the winter silence and early twilight."
+          },
+          "stops": [
+            {
+              "name": "Parking near Union Square",
+              "tip_5lang": {
+                "de": "Vorsicht vor überfrierender Nässe auf Parkplatzflächen.",
+                "hu": "Vigyázzon a parkolókban előforduló jegesedésre.",
+                "ro": "Atenție la porțiunile de gheață din zona de parcare.",
+                "en": "Watch out for black ice in parking areas."
+              }
+            },
+            {
+              "name": "Union Square & Monument",
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor nicht unnötig im Stand laufen.",
+                "hu": "Ne járassa feleslegesen a motort álló helyzetben.",
+                "ro": "Nu lăsați motorul pornit inutil în staționare.",
+                "en": "Avoid idling the engine unnecessarily while parked."
+              }
+            },
+            {
+              "name": "Alexander Nevsky Cathedral",
+              "tip_5lang": {
+                "de": "Kurzer Aufenthalt im Freien, schnelle Rückkehr ins warme Auto.",
+                "hu": "Rövid kinti tartózkodás, gyors visszatérés a meleg autóba.",
+                "ro": "Vizită scurtă afară, revenire rapidă în mașina caldă.",
+                "en": "Short time outdoors, quick return to the warm car."
+              }
+            },
+            {
+              "name": "Museum of History and Ethnography",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Besuch für eine ausgiebige Aufwärmphase.",
+                "hu": "Használja ki a látogatást egy alapos melegedésre.",
+                "ro": "Profită de vizită pentru o sesiune lungă de încălzire.",
+                "en": "Take advantage of the visit for an extended warm-up."
+              }
+            },
+            {
+              "name": "Eiffel Bridge",
+              "tip_5lang": {
+                "de": "Die Brückenauffahrt kann bei Frost besonders glatt sein.",
+                "hu": "A híd felhajtója fagyban különösen csúszós lehet.",
+                "ro": "Accesul pe pod poate fi extrem de alunecos pe ger.",
+                "en": "The bridge approach can be very slippery in freezing conditions."
+              }
+            },
+            {
+              "name": "Grigore Vieru Park",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den Schnee aus dem Auto.",
+                "hu": "Élvezze a havas táj látványát az autóból.",
+                "ro": "Admirați peisajul înzăpezit din interiorul mașinii.",
+                "en": "Enjoy the view of the snow from inside the car."
+              }
+            },
+            {
+              "name": "Micul Cluj Sculpture Park",
+              "tip_5lang": {
+                "de": "Parken Sie rückwärts ein, um schneller losfahren zu können.",
+                "hu": "Parkoljon tolatva a gyorsabb indulás érdekében.",
+                "ro": "Parcați cu spatele pentru o plecare mai ușoară.",
+                "en": "Park in reverse for an easier departure."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen und ein Eiskratzer sind im moldauischen Winter Pflicht.",
+              "Prüfen Sie den Stand des Frostschutzmittels in der Waschanlage.",
+              "Halten Sie eine warme Decke für Notfälle im Auto bereit.",
+              "Starten Sie den Wagen rechtzeitig, um die Scheiben zu enteisen."
+            ],
+            "hu": [
+              "A téli gumi és a jégkaparó kötelező a moldáv télben.",
+              "Ellenőrizze a fagyálló szélvédőmosó folyadék szintjét.",
+              "Tartson meleg takarót az autóban vészhelyzet esetére.",
+              "Indítsa el időben az autót a szélvédők jégtelenítéséhez."
+            ],
+            "ro": [
+              "Anvelopele de iarnă și răzuitoarea sunt obligatorii în Moldova.",
+              "Verificați nivelul lichidului de parbriz rezistent la îngheț.",
+              "Țineți o pătură caldă în mașină pentru urgențe.",
+              "Porniți mașina din timp pentru a degivra geamurile."
+            ],
+            "en": [
+              "Winter tires and an ice scraper are mandatory in Moldovan winter.",
+              "Check the level of frost-resistant windshield washer fluid.",
+              "Keep a warm blanket in the car for emergencies.",
+              "Start the car early to de-ice the windows."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1310,6 +1892,206 @@
           "Hold on tight at the stops while waiting for the bus.",
           "Validate your ticket on every ride to avoid fines."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus durch das regnerische Ungheni. Wir starten an der zentralen Haltestelle und erreichen trocken den Union Square. Die Kathedrale und das Museum sind bequem vernetzt. Mittags bietet der Bus Schutz vor dem stärksten Regen auf dem Weg zur Brücke. Den Nachmittag verbringen wir in den Parks, wobei wir die Pausen in den überdachten Haltestellen für den Blick ins Grüne nutzen.",
+            "hu": "Busszal az esős Ungheniben. A központi megállóból indulunk, és szárazon érjük el az Unió teret. A katedrális és a múzeum kényelmesen megközelíthető. Délben a busz védelmet nyújt a legerősebb eső ellen a híd felé vezető úton. A délutánt a parkokban töltjük, a fedett megállókban várakozva gyönyörködünk a zöldellő természetben.",
+            "ro": "Cu autobuzul prin Ungheni pe timp de ploaie. Pornim din stația centrală și ajungem la Piața Unirii fără să ne udăm. Catedrala și muzeul sunt bine conectate. La prânz, autobuzul ne protejează de ploaia torențială în drum spre pod. După-amiaza o petrecem în parcuri, folosind stațiile acoperite ca puncte de observație.",
+            "en": "Taking the bus through rainy Ungheni. We start at the central stop and reach Union Square dry. The Cathedral and museum are conveniently linked. At noon, the bus provides shelter from the heaviest rain on the way to the bridge. We spend the afternoon in the parks, using covered stops for a dry view of the greenery."
+          },
+          "stops": [
+            {
+              "name": "Central Bus Stop (near Union Square)",
+              "tip_5lang": {
+                "de": "Überdachte Haltestelle; ideal zum Warten bei Regen.",
+                "hu": "Fedett megálló; ideális várakozóhely esőben.",
+                "ro": "Stație acoperită; ideală pentru așteptare pe ploaie.",
+                "en": "Covered stop; ideal for waiting during rain."
+              }
+            },
+            {
+              "name": "Union Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie den kurzen Fußweg von der Haltestelle zum Platz.",
+                "hu": "Használja ki a megálló és a tér közötti rövid sétatávot.",
+                "ro": "Profitați de distanța scurtă de mers pe jos până în piață.",
+                "en": "Take advantage of the short walk from the stop to the square."
+              }
+            },
+            {
+              "name": "Alexander Nevsky Cathedral",
+              "tip_5lang": {
+                "de": "Die Haltestelle liegt fast direkt vor der Kirche.",
+                "hu": "A megálló szinte közvetlenül a templom előtt található.",
+                "ro": "Stația este situată aproape direct în fața bisericii.",
+                "en": "The stop is located almost directly in front of the church."
+              }
+            },
+            {
+              "name": "Museum Stop",
+              "tip_5lang": {
+                "de": "Bleiben Sie unter dem Unterstand, bis der Bus einfährt.",
+                "hu": "Maradjon az esővédő alatt, amíg be nem ér a busz.",
+                "ro": "Rămâneți sub adăpost până când sosește autobuzul.",
+                "en": "Stay under the shelter until the bus arrives."
+              }
+            },
+            {
+              "name": "Museum & Eiffel Bridge",
+              "tip_5lang": {
+                "de": "Kombinieren Sie Museumsbesuch und Brückenblick im Trockenen.",
+                "hu": "Kombinálja a múzeumlátogatást a hídi kilátással szárazon.",
+                "ro": "Combinați vizita la muzeu cu vederea spre pod la adăpost.",
+                "en": "Combine the museum visit with the bridge view while dry."
+              }
+            },
+            {
+              "name": "Grigore Vieru Park Bus Stop",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Fahrplan per App, um Wartezeit im Regen zu vermeiden.",
+                "hu": "Ellenőrizze a menetrendet applikáción a várakozás elkerülésére.",
+                "ro": "Verificați orarul pe aplicație pentru a evita așteptarea în ploaie.",
+                "en": "Check the schedule via app to avoid waiting in the rain."
+              }
+            },
+            {
+              "name": "Grigore Vieru Park & Sculpture Park",
+              "tip_5lang": {
+                "de": "Die Wege zwischen den Parks sind kurz und gut befestigt.",
+                "hu": "A parkok közötti utak rövidek és jól burkoltak.",
+                "ro": "Aleile dintre parcuri sunt scurte și bine amenajate.",
+                "en": "The paths between the parks are short and well-paved."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Laden Sie die lokale ÖPNV-App für Echtzeit-Infos herunter.",
+              "Halten Sie Kleingeld oder eine Karte für das Ticket bereit.",
+              "In Bussen kann es bei Regen durch nasse Kleidung feucht sein.",
+              "Nutzen Sie die zentralen Umstiegspunkte als Regenschutz."
+            ],
+            "hu": [
+              "Töltse le a helyi közlekedési appot a valós idejű infókért.",
+              "Tartson készenlétben aprópénzt vagy kártyát a jegyhez.",
+              "A buszokon esőben a vizes ruhák miatt párás lehet a levegő.",
+              "Használja a központi átszállóhelyeket esővédőként."
+            ],
+            "ro": [
+              "Descărcați aplicația locală de transport pentru info în timp real.",
+              "Aveți pregătiți bani mărunți sau cardul pentru bilet.",
+              "În autobuze poate fi umezeală de la hainele ude ale călătorilor.",
+              "Folosiți punctele centrale de transfer ca adăpost."
+            ],
+            "en": [
+              "Download the local transit app for real-time information.",
+              "Have small change or a card ready for the ticket.",
+              "Buses may be humid during rain due to wet clothing.",
+              "Use central transfer points as rain shelters."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliche Entdeckungstour mit dem Bus in Ungheni. Wir nutzen die beheizten Fahrzeuge, um zwischen den Sehenswürdigkeiten am Union Square und der Kathedrale zu pendeln. Das Museum bietet mittags eine willkommene Aufwärmpause. Die Fahrt zur Brücke ist kurz und effizient, während der Nachmittag in den Parks durch die Nähe zu den Haltestellen auch bei Kälte angenehm bleibt.",
+            "hu": "Téli felfedezőtúra busszal Ungheniben. A fűtött járműveket használjuk az Unió tér és a katedrális közötti közlekedéshez. A múzeum délben örömteli melegedő szünetet kínál. A hídhoz vezető út rövid és hatékony, míg a délutáni parklátogatás a megállók közelsége miatt hidegben is kényelmes marad.",
+            "ro": "Tur de explorare de iarnă cu autobuzul în Ungheni. Folosim vehiculele încălzite pentru a naviga între Piața Unirii și Catedrală. Muzeul oferă la prânz o pauză de încălzire binevenită. Drumul spre pod este scurt și eficient, iar după-amiaza în parcuri rămâne plăcută datorită proximității stațiilor.",
+            "en": "Winter discovery tour by bus in Ungheni. We use heated vehicles to commute between Union Square and the Cathedral. The museum provides a welcome warming break at noon. The trip to the bridge is short and efficient, while the afternoon in the parks remains comfortable even in the cold thanks to nearby stops."
+          },
+          "stops": [
+            {
+              "name": "Central Bus Stop (near Union Square)",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz vor dem Wind im Haltestellenhäuschen.",
+                "hu": "Keressen szélvédett helyet a váróteremben vagy bódéban.",
+                "ro": "Căutați adăpost împotriva vântului în stație.",
+                "en": "Seek shelter from the wind inside the bus stop booth."
+              }
+            },
+            {
+              "name": "Union Square",
+              "tip_5lang": {
+                "de": "Bewegen Sie sich, um während der kurzen Wartezeit warm zu bleiben.",
+                "hu": "Mozogjon a rövid várakozási idő alatt, hogy ne fázzon.",
+                "ro": "Muntați-vă pentru a vă menține căldura în timpul așteptării.",
+                "en": "Keep moving to stay warm during the short wait."
+              }
+            },
+            {
+              "name": "Alexander Nevsky Cathedral",
+              "tip_5lang": {
+                "de": "Die Busse verkehren im Winter nach einem festen Takt.",
+                "hu": "A buszok télen is fix ütemterv szerint közlekednek.",
+                "ro": "Autobuzele circulă după un program fix și în timpul iernii.",
+                "en": "Buses run on a fixed schedule during the winter."
+              }
+            },
+            {
+              "name": "Museum Stop",
+              "tip_5lang": {
+                "de": "Schneller Wechsel ins warme Museumsgebäude.",
+                "hu": "Gyors belépés a múzeum meleg épületébe.",
+                "ro": "Intrare rapidă în clădirea caldă a muzeului.",
+                "en": "Quick transition into the warm museum building."
+              }
+            },
+            {
+              "name": "Museum & Eiffel Bridge",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Busfahrt zum Aufwärmen der Hände.",
+                "hu": "Használja ki a buszutat a kezei felmelegítésére.",
+                "ro": "Folosiți călătoria cu autobuzul pentru a vă încălzi mâinile.",
+                "en": "Use the bus ride to warm up your hands."
+              }
+            },
+            {
+              "name": "Grigore Vieru Park Bus Stop",
+              "tip_5lang": {
+                "de": "Ab 16:00 Uhr sinken die Temperaturen spürbar.",
+                "hu": "16:00 után a hőmérséklet érezhetően csökkenni kezd.",
+                "ro": "Temperaturile scad simțitor după ora 16:00.",
+                "en": "Temperatures drop noticeably after 16:00."
+              }
+            },
+            {
+              "name": "Grigore Vieru Park & Sculpture Park",
+              "tip_5lang": {
+                "de": "Beenden Sie den Besuch rechtzeitig vor der letzten Rückfahrt.",
+                "hu": "Fejezze be a látogatást időben az utolsó visszjárat előtt.",
+                "ro": "Încheiați vizita la timp pentru ultima cursă de retur.",
+                "en": "Finish your visit in time for the last return trip."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Planen Sie Pufferzeiten ein, da Schnee den Verkehr verzögern kann.",
+              "In den Bussen ist es meist sehr warm, kleiden Sie sich variabel.",
+              "Achten Sie auf die rutschigen Stufen beim Ein- und Aussteigen.",
+              "Nutzen Sie die Wartezeit für einen schnellen heißen Snack am Kiosk."
+            ],
+            "hu": [
+              "Tervezzen be ráhagyást, a hó lassíthatja a közlekedést.",
+              "A buszokon általában nagyon meleg van, öltözködjön változatosan.",
+              "Vigyázzon a csúszós lépcsőkre le- és felszálláskor.",
+              "Használja ki a várakozást egy gyors forró snackre a közeli büfében."
+            ],
+            "ro": [
+              "Alocați timp suplimentar, zăpada poate întârzia traficul.",
+              "În autobuze este de obicei foarte cald, îmbrăcați-vă în straturi.",
+              "Atenție la treptele alunecoase la urcare și coborâre.",
+              "Folosiți timpul de așteptare pentru o gustare caldă de la chioșc."
+            ],
+            "en": [
+              "Allow extra time as snow can delay traffic.",
+              "Buses are usually very warm, so dress in adjustable layers.",
+              "Watch out for slippery steps when boarding and exiting.",
+              "Use waiting time for a quick hot snack at a nearby kiosk."
+            ]
+          }
+        }
       }
     }
   }

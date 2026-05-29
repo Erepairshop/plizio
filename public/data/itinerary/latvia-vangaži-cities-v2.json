@@ -379,6 +379,206 @@
           "An insect repellent can be useful in summer near the river and in the forest.",
           "Check the church's opening hours in advance."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Vangaži im Regen hat einen melancholischen Charme. Der Morgen beginnt am Zentralplatz, wo die Pfützen das Grau des Himmels spiegeln. Mittags bietet das Kulturhaus einen warmen, trockenen Zufluchtsort. Nachmittags führen die Waldwege am Gauja-Ufer durch dichten, duftenden Nebel. Den Abend lassen wir im Schutz der Stadtarchitektur ausklingen, während der Regen sanft gegen die Fenster trommelt.",
+            "hu": "Vangaži esőben is tartogat látnivalót. A reggel a központi téren indul, ahol az eső kopogása ritmust ad a sétának. Délben a Kultúrház és a könyvtár nyújt menedéket a víz elől. Délután a Gauja folyó partján a ködös erdő misztikus hangulatot áraszt. Az estét a városközpont biztonságos közelségében zárjuk, élvezve a friss, eső utáni illatokat.",
+            "ro": "Vangaži sub ploaie oferă o atmosferă melancolică. Dimineața începe în Piața Centrală, printre reflexiile apei pe asfalt. La prânz, Casa de Cultură devine un refugiu primitor și uscat. După-amiaza, potecile din pădure de-a lungul râului Gauja devin mistice sub ceață. Seara se încheie liniștit în centrul orașului, în timp ce ploaia continuă să cadă ușor.",
+            "en": "Vangaži in the rain has a melancholic charm. The morning starts at the Central Square, where puddles reflect the gray sky. At noon, the Culture House provides a warm, dry sanctuary. In the afternoon, the forest trails by the Gauja river are shrouded in a mystical mist. The evening winds down near the city center, enjoying the fresh scent of the rain-washed air."
+          },
+          "stops": [
+            {
+              "name": "Central Square",
+              "tip_5lang": {
+                "de": "Schutz unter den Vordächern der nahen Gebäude suchen.",
+                "hu": "Keressen menedéket a közeli épületek ereszei alatt.",
+                "ro": "Căutați adăpost sub streșinile clădirilor din apropiere.",
+                "en": "Seek shelter under the eaves of nearby buildings."
+              }
+            },
+            {
+              "name": "Culture House and City Library",
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um trocken zu bleiben und lokale Kunst zu sehen.",
+                "hu": "Tökéletes hely, hogy szárazon maradjon és helyi művészetet lásson.",
+                "ro": "Locul perfect pentru a rămâne uscat și a vedea artă locală.",
+                "en": "The perfect place to stay dry and see local art."
+              }
+            },
+            {
+              "name": "War Memorial",
+              "tip_5lang": {
+                "de": "Rasch besichtigen, da es hier kaum Regenschutz gibt.",
+                "hu": "Gyors látogatás javasolt, mert nincs fedett rész.",
+                "ro": "Vizită rapidă, deoarece nu există protecție împotriva ploii.",
+                "en": "Quick visit recommended as there is no rain protection."
+              }
+            },
+            {
+              "name": "Vangaži Lutheran Church",
+              "tip_5lang": {
+                "de": "Ein friedlicher, trockener Ort für Besinnung.",
+                "hu": "Békés, száraz hely az elmélyüléshez.",
+                "ro": "Un loc liniștit și uscat pentru reflecție.",
+                "en": "A peaceful, dry place for reflection."
+              }
+            },
+            {
+              "name": "Lunch break at the Gauja River Bank",
+              "tip_5lang": {
+                "de": "Vorsicht am Ufer, das Gras kann sehr rutschig sein.",
+                "hu": "Vigyázat a parton, a fű nagyon csúszós lehet.",
+                "ro": "Atenție pe mal, iarba poate fi foarte alunecoasă.",
+                "en": "Be careful on the bank, the grass can be very slippery."
+              }
+            },
+            {
+              "name": "Forest Trails",
+              "tip_5lang": {
+                "de": "Feste Wanderschuhe sind wegen des Schlamms unerlässlich.",
+                "hu": "A sár miatt elengedhetetlen a vízálló túrabakancs.",
+                "ro": "Bocancii de drumeție sunt esențiali din cauza noroiului.",
+                "en": "Hiking boots are essential due to the mud."
+              }
+            },
+            {
+              "name": "Return to the Center",
+              "tip_5lang": {
+                "de": "Trocknen Sie sich im Kulturhaus ab, bevor Sie weiterreisen.",
+                "hu": "Szárítkozzon meg a kultúrházban a továbbutazás előtt.",
+                "ro": "Uscați-vă în casa de cultură înainte de a pleca mai departe.",
+                "en": "Dry off in the culture house before heading out."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Regenschirm ist bei den Küstenwinden oft nutzlos, wählen Sie ein Cape.",
+              "Das Kulturhaus ist der beste öffentliche Ort für eine Regenpause.",
+              "Die Waldwege können bei Dauerregen stellenweise überflutet sein.",
+              "Tragen Sie wasserfeste Socken für die Uferwanderung."
+            ],
+            "hu": [
+              "Az erős szélben az esernyő helyett jobb egy esőponcsó.",
+              "A Kultúrház a legjobb nyilvános hely egy esőszünetre.",
+              "Tartós esőben az erdei utak néhol víz alá kerülhetnek.",
+              "Viseljen vízálló zoknit a folyóparti sétához."
+            ],
+            "ro": [
+              "Pelerina de ploaie este mai utilă decât umbrela în vântul baltic.",
+              "Casa de Cultură este cel mai bun loc public pentru o pauză de ploaie.",
+              "Potecile din pădure pot fi inundate pe alocuri după ploi lungi.",
+              "Purtați șosete impermeabile pentru plimbarea pe malul râului."
+            ],
+            "en": [
+              "A rain poncho is more useful than an umbrella in the Baltic wind.",
+              "The Culture House is the best public spot for a rain break.",
+              "Forest trails can be flooded in spots after prolonged rain.",
+              "Wear waterproof socks for the riverbank walk."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Das verschneite Vangaži wirkt wie aus einem Märchen. Am Morgen glitzert der Frost auf dem Zentralplatz. Mittags bietet die Bibliothek wohlige Wärme nach dem eisigen Spaziergang. Am Nachmittag verwandeln sich die Waldwege in eine stille, weiße Welt, in der nur der Schnee unter den Stiefeln knirscht. Da die Sonne früh untergeht, genießen wir die blaue Stunde im Stadtkern.",
+            "hu": "A havas Vangaži olyan, mint egy tündérmese. Reggel zúzmara csillog a központi téren. Délben a könyvtár nyújt melengető pihenőt a jeges séta után. Délután az erdei utak csendes, fehér világgá változnak, ahol csak a hó ropog a talpunk alatt. Mivel a nap korán nyugszik, a kék órát már a városközpont fényeiben élvezzük.",
+            "ro": "Vangaži înzăpezit arată ca într-un basm. Dimineața, promoroaca strălucește în Piața Centrală. La prânz, biblioteca oferă căldură după o plimbare geroasă. După-amiaza, potecile din pădure se transformă într-o lume albă și tăcută. Deoarece soarele apune devreme, ne bucurăm de ora albastră în centrul orașului.",
+            "en": "Snowy Vangaži looks like a fairy tale. In the morning, frost glitters on the Central Square. At noon, the library offers cozy warmth after an icy walk. In the afternoon, the forest trails transform into a silent, white world where only the snow crunches underfoot. As the sun sets early, we enjoy the blue hour in the city center."
+          },
+          "stops": [
+            {
+              "name": "Central Square",
+              "tip_5lang": {
+                "de": "Vorsicht vor vereisten Stellen auf dem Pflaster.",
+                "hu": "Vigyázzon a kövezeten lévő jeges foltokkal.",
+                "ro": "Atenție la porțiunile înghețate de pe pavaj.",
+                "en": "Watch out for icy patches on the pavement."
+              }
+            },
+            {
+              "name": "Culture House and City Library",
+              "tip_5lang": {
+                "de": "Perfekt zum Aufwärmen der Hände und Füße.",
+                "hu": "Tökéletes hely a kezek és lábak felmelegítésére.",
+                "ro": "Perfect pentru a vă încălzi mâinile și picioarele.",
+                "en": "Perfect for warming up your hands and feet."
+              }
+            },
+            {
+              "name": "War Memorial",
+              "tip_5lang": {
+                "de": "Der Kontrast zwischen grauem Stein und weißem Schnee ist fotogen.",
+                "hu": "A szürke kő és a fehér hó kontrasztja nagyon fotogén.",
+                "ro": "Contrastul dintre piatra gri și zăpada albă este fotogenic.",
+                "en": "The contrast between gray stone and white snow is photogenic."
+              }
+            },
+            {
+              "name": "Vangaži Lutheran Church",
+              "tip_5lang": {
+                "de": "Oft beheizt während der Gottesdienste im Winter.",
+                "hu": "Télen az istentiszteletek alatt gyakran fűtött.",
+                "ro": "Adesea încălzită în timpul slujbelor de iarnă.",
+                "en": "Often heated during winter services."
+              }
+            },
+            {
+              "name": "Lunch break at the Gauja River Bank",
+              "tip_5lang": {
+                "de": "Bringen Sie eine Thermoskanne mit heißem Tee mit.",
+                "hu": "Hozzon magával egy termoszt forró teával.",
+                "ro": "Aduceți un termos cu ceai fierbinte.",
+                "en": "Bring a thermos with hot tea."
+              }
+            },
+            {
+              "name": "Forest Trails",
+              "tip_5lang": {
+                "de": "Die Wege sind oft nicht geräumt, hohe Stiefel tragen.",
+                "hu": "Az utak gyakran nincsenek letakarítva, viseljen magas szárú bakancsot.",
+                "ro": "Drumurile nu sunt adesea deszăpezite, purtați cizme înalte.",
+                "en": "Paths are often not cleared, wear high boots."
+              }
+            },
+            {
+              "name": "Return to the Center",
+              "tip_5lang": {
+                "de": "Genießen Sie die Abendbeleuchtung am Platz.",
+                "hu": "Élvezze az esti kivilágítást a téren.",
+                "ro": "Bucurați-vă de iluminatul de seară din piață.",
+                "en": "Enjoy the evening lights in the square."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Dezember bereits gegen 15:45 Uhr unter.",
+              "Tragen Sie Kleidung im Zwiebelprinzip wegen der Heizung im Kulturhaus.",
+              "Taschenlampen sind für die Waldwege am späten Nachmittag ratsam.",
+              "Eisspikes für die Schuhe geben Sicherheit auf den Waldpfaden."
+            ],
+            "hu": [
+              "Decemberben a nap már 15:45 körül lemegy.",
+              "Réteges öltözködés javasolt a fűtött belső terek miatt.",
+              "Zseblámpa ajánlott az erdei utakhoz késő délután.",
+              "A cipőre csatolható jégtüske segít az erdei ösvényeken."
+            ],
+            "ro": [
+              "Soarele apune deja în jurul orei 15:45 în decembrie.",
+              "Îmbrăcați-vă în straturi din cauza încălzirii din interior.",
+              "Lanternele sunt recomandate pentru potecile din pădure după-amiaza târziu.",
+              "Crampoanele pentru pantofi oferă siguranță pe potecile înghețate."
+            ],
+            "en": [
+              "The sun sets as early as 15:45 in December.",
+              "Wear layers due to the heating in indoor cultural spots.",
+              "Flashlights are recommended for forest trails in late afternoon.",
+              "Ice spikes for shoes provide safety on forest paths."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -775,6 +975,224 @@
           "Bring a lock to secure your bike at the stops.",
           "The riverbank paths can be muddy after rain."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Disziplin, belohnt aber mit einsamen Wegen. Am Morgen gleiten wir über den nassen Asphalt des Zentrums. Das Kulturhaus bietet mittags Schutz für Mensch und Technik. Nachmittags fordern die schlammigen Waldwege entlang der Gauja volle Konzentration. Der Tag endet mit der Gewissheit, die Natur in ihrer rohesten Form erlebt zu haben.",
+            "hu": "A kerékpártúra esőben fegyelmet igényel, de magányos utakkal jutalmaz. Reggel a központ vizes aszfaltján siklunk. A Kultúrház délben védelmet nyújt embernek és gépnek. Délután a Gauja menti sáros erdei utak teljes koncentrációt igényelnek. A nap azzal a tudattal zárul, hogy a természetet a legnyersebb formájában éltük át.",
+            "ro": "O tură cu bicicleta în ploaie necesită disciplină, dar răsplătește cu drumuri pustii. Dimineața alunecăm pe asfaltul umed din centru. Casa de Cultură oferă adăpost la prânz. După-amiaza, potecile noroioase de-a lungul râului Gauja necesită concentrare maximă. Ziua se încheie cu satisfacția de a fi experimentat natura în starea ei brută.",
+            "en": "A bike tour in the rain requires discipline but rewards with empty paths. In the morning, we glide over the wet asphalt of the center. The Culture House provides noon shelter for both rider and bike. In the afternoon, the muddy forest trails along the Gauja demand full concentration. The day ends with the thrill of experiencing nature in its rawest form."
+          },
+          "stops": [
+            {
+              "name": "Central Square",
+              "tip_5lang": {
+                "de": "Vorsicht beim Bremsen auf nassem Kopfsteinpflaster.",
+                "hu": "Vigyázzon a fékezéssel a vizes macskakövön.",
+                "ro": "Atenție la frânare pe pavajul umed.",
+                "en": "Be careful when braking on wet cobblestones."
+              }
+            },
+            {
+              "name": "Culture House",
+              "tip_5lang": {
+                "de": "Fahrradständer sind oft überdacht.",
+                "hu": "A kerékpártárolók gyakran fedettek.",
+                "ro": "Suporturile pentru biciclete sunt adesea acoperite.",
+                "en": "Bike racks are often covered."
+              }
+            },
+            {
+              "name": "War Memorial",
+              "tip_5lang": {
+                "de": "Kurzer Stopp, der Boden kann rutschig sein.",
+                "hu": "Rövid megálló, a talaj csúszós lehet.",
+                "ro": "Oprire scurtă, solul poate fi alunecos.",
+                "en": "Short stop, the ground can be slippery."
+              }
+            },
+            {
+              "name": "Vangaži Lutheran Church",
+              "tip_5lang": {
+                "de": "Der Kiesweg zur Kirche wird bei Regen weich.",
+                "hu": "A templomhoz vezető kavicsos út esőben felázik.",
+                "ro": "Drumul cu pietriș spre biserică devine moale în ploaie.",
+                "en": "The gravel path to the church softens in the rain."
+              }
+            },
+            {
+              "name": "Sports Center",
+              "tip_5lang": {
+                "de": "Guter Ort, um die Reifen zu prüfen.",
+                "hu": "Jó hely az abroncsok ellenőrzésére.",
+                "ro": "Loc bun pentru verificarea anvelopelor.",
+                "en": "Good place to check your tires."
+              }
+            },
+            {
+              "name": "Gauja River Bank",
+              "tip_5lang": {
+                "de": "Schlammgefahr! Bergab extrem vorsichtig fahren.",
+                "hu": "Sárveszély! Lefelé menet legyen rendkívül óvatos.",
+                "ro": "Pericol de noroi! Conduceți extrem de atent la vale.",
+                "en": "Mud hazard! Be extremely careful riding downhill."
+              }
+            },
+            {
+              "name": "Forest Trails Exploration",
+              "tip_5lang": {
+                "de": "Nur für erfahrene Fahrer mit Profilreifen geeignet.",
+                "hu": "Csak tapasztalt vezetőknek, bordázott gumival ajánlott.",
+                "ro": "Recomandat doar bicicliștilor experimentați cu anvelope profilate.",
+                "en": "Recommended only for experienced riders with treaded tires."
+              }
+            },
+            {
+              "name": "Wind down at Central Square",
+              "tip_5lang": {
+                "de": "Kette nach der Tour ölen, um Rost vorzubeugen.",
+                "hu": "Túra után olajozza meg a láncot a rozsda ellen.",
+                "ro": "Ungeți lanțul după tură pentru a preveni rugina.",
+                "en": "Oil the chain after the tour to prevent rust."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind bei lettischem Regen ein Muss.",
+              "Vermeiden Sie Pfützen, sie könnten tiefe Schlaglöcher verbergen.",
+              "Tragen Sie neongelbe Regenkleidung für bessere Sichtbarkeit.",
+              "Prüfen Sie Ihre Bremsbeläge vor dem Start in die schlammigen Wälder."
+            ],
+            "hu": [
+              "A sárvédő kötelező a lettországi esőben.",
+              "Kerülje a tócsákat, mély kátyúkat rejthetnek.",
+              "Viseljen neonsárga esőruhát a jobb láthatóságért.",
+              "Ellenőrizze a fékbetéteket, mielőtt a sáros erdőbe indul."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt obligatorii în ploaia letonă.",
+              "Evitați bălțile, pot ascunde gropi adânci.",
+              "Purtați haine de ploaie galben neon pentru vizibilitate.",
+              "Verificați plăcuțele de frână înainte de a intra în pădurea noroioasă."
+            ],
+            "en": [
+              "Mudguards are a must in Latvian rain.",
+              "Avoid puddles as they might hide deep potholes.",
+              "Wear neon yellow rain gear for better visibility.",
+              "Check your brake pads before heading into the muddy woods."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im lettischen Winter ist ein Abenteuer für Hartgesottene. Der Morgen beginnt mit knirschenden Reifen auf dem Frost des Zentralplatzes. Mittags wärmen wir uns im Kulturhaus auf, während die Fahrräder draußen im Schnee warten. Nachmittags gleicht die Fahrt durch den Wald einer Expedition durch die Arktis. Die Kälte beißt, aber die Stille der Natur ist unvergleichlich.",
+            "hu": "A kerékpározás a lett télben igazi kaland a keményeknek. A reggel a központi téren, a fagyon ropogó gumikkal indul. Délben a Kultúrházban melegszünk fel, miközben a bringák kint várnak a hóban. Délután az erdei tekerés olyan, mint egy arktiszi expedíció. A hideg mar, de a természet csendje páratlan.",
+            "ro": "Mersul cu bicicleta în iarna letonă este o aventură pentru cei duri. Dimineața începe cu anvelopele scârțâind pe gerul din Piața Centrală. La prânz ne încălzim în Casa de Cultură. După-amiaza, plimbarea prin pădure seamănă cu o expediție arctică. Frigul pișcă, dar liniștea naturii este incomparabilă.",
+            "en": "Cycling in the Latvian winter is an adventure for the hardy. The morning starts with tires crunching on the frost of the Central Square. At noon, we warm up in the Culture House while the bikes wait in the snow. In the afternoon, the forest ride feels like an Arctic expedition. The cold bites, but the silence of nature is unparalleled."
+          },
+          "stops": [
+            {
+              "name": "Central Square",
+              "tip_5lang": {
+                "de": "Spikes-Reifen sind auf vereistem Asphalt dringend empfohlen.",
+                "hu": "Jeges aszfalton szöges gumi erősen ajánlott.",
+                "ro": "Anvelopele cu ținte sunt recomandate pe asfaltul înghețat.",
+                "en": "Studded tires are highly recommended on icy asphalt."
+              }
+            },
+            {
+              "name": "Culture House",
+              "tip_5lang": {
+                "de": "Vorsicht beim Absteigen, der Boden kann extrem glatt sein.",
+                "hu": "Vigyázzon a leszálláskor, a talaj rendkívül csúszós lehet.",
+                "ro": "Atenție la coborâre, solul poate fi extrem de alunecos.",
+                "en": "Careful when dismounting, the ground can be extremely slick."
+              }
+            },
+            {
+              "name": "War Memorial",
+              "tip_5lang": {
+                "de": "Nicht zu lange stehen bleiben, die Kälte zieht schnell ein.",
+                "hu": "Ne álljon meg sokáig, a hideg gyorsan átjárja.",
+                "ro": "Nu staționați prea mult, frigul pătrunde repede.",
+                "en": "Don't stay still for too long, the cold sets in fast."
+              }
+            },
+            {
+              "name": "Vangaži Lutheran Church",
+              "tip_5lang": {
+                "de": "Parken Sie das Rad im Windschatten der Mauer.",
+                "hu": "Parkolja a bringát a fal szélvédett oldalára.",
+                "ro": "Parcați bicicleta la adăpostul peretelui.",
+                "en": "Park your bike in the lee of the wall."
+              }
+            },
+            {
+              "name": "Sports Center",
+              "tip_5lang": {
+                "de": "Kälte verringert den Reifendruck, prüfen Sie ihn hier.",
+                "hu": "A hideg csökkenti a guminyomást, itt ellenőrizze.",
+                "ro": "Frigul scade presiunea în anvelope, verificați-o aici.",
+                "en": "Cold lowers tire pressure, check it here."
+              }
+            },
+            {
+              "name": "Gauja River Bank",
+              "tip_5lang": {
+                "de": "Uferwege können komplett zugeschneit sein.",
+                "hu": "A parti utak teljesen hófúvásosak lehetnek.",
+                "ro": "Drumurile de pe mal pot fi complet înzăpezite.",
+                "en": "Riverbank paths can be completely snowed in."
+              }
+            },
+            {
+              "name": "Forest Trails Exploration",
+              "tip_5lang": {
+                "de": "Dickere Reifen (Fatbike) sind hier ideal.",
+                "hu": "A vastagabb gumik (Fatbike) ideálisak ide.",
+                "ro": "Anvelopele mai groase (Fatbike) sunt ideale aici.",
+                "en": "Thicker tires (Fatbike) are ideal here."
+              }
+            },
+            {
+              "name": "Wind down at Central Square",
+              "tip_5lang": {
+                "de": "Säubern Sie das Rad vom Streusalz.",
+                "hu": "Tisztítsa meg a bringát az útszóró sótól.",
+                "ro": "Curățați bicicleta de sarea de pe drum.",
+                "en": "Clean the bike from road salt."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Verwenden Sie Winteröl für die Kette, normales Öl wird zäh.",
+              "Bedecken Sie Ihr Gesicht gegen den eisigen Fahrtwind.",
+              "Akkus von E-Bikes entladen sich bei Kälte deutlich schneller.",
+              "Trinken Sie regelmäßig, auch wenn Sie keinen Durst verspüren."
+            ],
+            "hu": [
+              "Használjon téli láncolajat, a normál megdermedhet.",
+              "Takarja el az arcát a jeges menetszél ellen.",
+              "Az e-bike akkumulátorok sokkal gyorsabban merülnek hidegben.",
+              "Igyon rendszeresen, akkor is, ha nem érzi szomjasnak magát."
+            ],
+            "ro": [
+              "Folosiți ulei de iarnă pentru lanț, cel normal devine vâscos.",
+              "Acoperiți-vă fața împotriva vântului înghețat.",
+              "Bateriile e-bike-urilor se descarcă mult mai repede la frig.",
+              "Beți apă regulat, chiar dacă nu simțiți senzația de sete."
+            ],
+            "en": [
+              "Use winter chain oil; normal oil becomes viscous.",
+              "Cover your face against the icy wind while riding.",
+              "E-bike batteries drain much faster in the cold.",
+              "Drink water regularly, even if you don't feel thirsty."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1131,6 +1549,188 @@
           "Roads to the nature spots can be narrow, drive with care.",
           "A GPS is useful for finding the trailheads."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto lässt sich Vangaži auch bei Dauerregen komfortabel erkunden. Am Morgen parken wir direkt am Zentralplatz. Mittags bietet die Fahrt zum Kulturhaus trockene Übergänge. Nachmittags ermöglicht der Wagen den schnellen Wechsel zwischen den Sehenswürdigkeiten am Gauja-Ufer, ohne durchnässt zu werden. Der Abend endet entspannt, während die Wischer das Regenwasser beiseite schieben.",
+            "hu": "Autóval Vangaži tartós esőben is kényelmesen felfedezhető. Reggel közvetlenül a központi téren parkolunk. Délben a Kultúrházhoz vezető út száraz átmenetet biztosít. Délután az autó lehetővé teszi a gyors váltást a Gauja-parti látnivalók között, anélkül, hogy eláznánk. Az este nyugodtan zárul, miközben az ablaktörlők ütemesen söprik le a vizet.",
+            "ro": "Cu mașina, Vangaži poate fi explorat confortabil chiar și pe ploaie continuă. Dimineața parcăm chiar în Piața Centrală. La prânz, drumul spre Casa de Cultură oferă o tranziție uscată. După-amiaza, mașina permite deplasarea rapidă între obiectivele de pe malul râului Gauja fără a ne uda. Seara se încheie relaxat, în timp ce ștergătoarele îndepărtează apa.",
+            "en": "By car, Vangaži can be explored comfortably even during steady rain. In the morning, we park right at the Central Square. At noon, the drive to the Culture House provides a dry transition. In the afternoon, the car allows quick travel between Gauja river sights without getting soaked. The evening ends relaxingly as the wipers rhythmically clear the rain."
+          },
+          "stops": [
+            {
+              "name": "Parking at Central Square",
+              "tip_5lang": {
+                "de": "Parkplatz direkt am Platz nutzen, um Gehwege zu minimieren.",
+                "hu": "Használja a közvetlen parkolót a gyaloglás minimalizálásához.",
+                "ro": "Folosiți parcarea de lângă piață pentru a merge cât mai puțin pe jos.",
+                "en": "Use the parking right by the square to minimize walking."
+              }
+            },
+            {
+              "name": "Walk: Culture House & Library",
+              "tip_5lang": {
+                "de": "Kurzer Sprint vom Auto zum Eingang nötig.",
+                "hu": "Rövid sprint szükséges az autótól a bejáratig.",
+                "ro": "Este necesar un sprint scurt de la mașină până la intrare.",
+                "en": "A short sprint from the car to the entrance is needed."
+              }
+            },
+            {
+              "name": "Walk: War Memorial",
+              "tip_5lang": {
+                "de": "Vom Auto aus gut sichtbar, falls es zu stark regnet.",
+                "hu": "Az autóból is jól látható, ha túl erősen esne.",
+                "ro": "Vizibil din mașină în caz că plouă prea tare.",
+                "en": "Clearly visible from the car if it rains too hard."
+              }
+            },
+            {
+              "name": "Drive to Church & Park",
+              "tip_5lang": {
+                "de": "Die Parkplätze bei der Kirche sind oft unbefestigt.",
+                "hu": "A templom melletti parkolók gyakran nem burkoltak.",
+                "ro": "Parcările de lângă biserică sunt adesea neasfaltate.",
+                "en": "Parking spots near the church are often unpaved."
+              }
+            },
+            {
+              "name": "Walk: Gauja River Bank",
+              "tip_5lang": {
+                "de": "Lassen Sie keine Wertsachen sichtbar im nassen Auto.",
+                "hu": "Ne hagyjon értéket látható helyen a vizes autóban.",
+                "ro": "Nu lăsați obiecte de valoare la vedere în mașina umedă.",
+                "en": "Don't leave valuables visible in the wet car."
+              }
+            },
+            {
+              "name": "Walk & Drive: Forest Trails",
+              "tip_5lang": {
+                "de": "Vorsicht bei Waldwegen, Äste könnten herunterfallen.",
+                "hu": "Vigyázat az erdei utakon, ágak hullhatnak le.",
+                "ro": "Atenție pe drumurile forestiere, pot cădea crengi.",
+                "en": "Careful on forest roads; branches might fall."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Zustand Ihrer Scheibenwischer vor der Tour.",
+              "Die Sicht in den bewaldeten Gebieten kann bei Regen stark eingeschränkt sein.",
+              "Nutzen Sie die Klimaanlage gegen beschlagene Scheiben.",
+              "Waldparkplätze können bei starkem Regen aufweichen."
+            ],
+            "hu": [
+              "A túra előtt ellenőrizze az ablaktörlők állapotát.",
+              "Az erdős területeken a látási viszonyok korlátozottak lehetnek.",
+              "Használja a légkondicionálót a párásodás ellen.",
+              "Az erdei parkolók felázhatnak heves esőzéskor."
+            ],
+            "ro": [
+              "Verificați starea ștergătoarelor înainte de tură.",
+              "Vizibilitatea în zonele împădurite poate fi redusă pe ploaie.",
+              "Folosiți aerul condiționat împotriva aburirii geamurilor.",
+              "Parcările din pădure pot deveni noroioase în caz de ploaie torențială."
+            ],
+            "en": [
+              "Check the condition of your wipers before the tour.",
+              "Visibility in forested areas can be significantly reduced in the rain.",
+              "Use the air conditioning to prevent window fogging.",
+              "Forest parking lots can soften during heavy rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter ist das Auto das sicherste Mittel, um Vangaži warm zu erleben. Am Morgen gleiten wir über geräumte Straßen zum Zentralplatz. Mittags dient der Wagen als warme Basis zwischen den Besuchen. Nachmittags erreichen wir mühelos die schneebedeckten Waldwege, wo die Stille des Winters wartet. Der Abend wird gemütlich, während die Heizung die frostige Außenwelt vergessen lässt.",
+            "hu": "Télen az autó a legbiztonságosabb módja Vangaži felfedezésének. Reggel a letakarított utakon gurulunk a központi térre. Délben az autó meleg bázisként szolgál a látogatások között. Délután könnyedén elérjük a hófúvásos erdei utakat, ahol a tél csendje vár. Az este hangulatosan telik, miközben a fűtés elfeledteti a fagyos külvilágot.",
+            "ro": "Iarna, mașina este cel mai sigur mijloc pentru a vedea Vangaži la căldură. Dimineața alunecăm pe străzile deszăpezite spre Piața Centrală. La prânz, mașina servește ca bază caldă între vizite. După-amiaza ajungem fără efort la drumurile forestiere înzăpezite. Seara este primitoare, în timp ce căldura din mașină ne face să uităm de gerul de afară.",
+            "en": "In winter, the car is the safest way to experience Vangaži warmly. In the morning, we glide over cleared roads to the Central Square. At noon, the car serves as a warm base between visits. In the afternoon, we effortlessly reach the snow-covered forest roads where winter silence awaits. The evening is cozy as the heater makes us forget the frost outside."
+          },
+          "stops": [
+            {
+              "name": "Parking at Central Square",
+              "tip_5lang": {
+                "de": "Parkplätze könnten durch Schneehaufen verengt sein.",
+                "hu": "A parkolókat hóbuckák szűkíthetik le.",
+                "ro": "Parcările pot fi îngustate de mormanele de zăpadă.",
+                "en": "Parking lots might be narrowed by snow piles."
+              }
+            },
+            {
+              "name": "Walk: Culture House & Library",
+              "tip_5lang": {
+                "de": "Klopfen Sie den Schnee von den Schuhen, bevor Sie einsteigen.",
+                "hu": "Verje le a havat a cipőjéről, mielőtt beszállna.",
+                "ro": "Scuturați zăpada de pe pantofi înainte de a urca în mașină.",
+                "en": "Kick the snow off your boots before getting in the car."
+              }
+            },
+            {
+              "name": "Walk: War Memorial",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp, Motor laufen lassen für Wärme.",
+                "hu": "Rövid fotómegálló, járassa a motort a melegért.",
+                "ro": "Oprire scurtă pentru poze, lăsați motorul pornit pentru căldură.",
+                "en": "Short photo stop, keep the engine running for warmth."
+              }
+            },
+            {
+              "name": "Drive to Church & Park",
+              "tip_5lang": {
+                "de": "Vorsicht vor Schneeverwehungen auf der Zufahrt.",
+                "hu": "Vigyázzon a hófúvásokkal a feljárónál.",
+                "ro": "Atenție la troienele de zăpadă de pe drumul de acces.",
+                "en": "Watch out for snow drifts on the access road."
+              }
+            },
+            {
+              "name": "Walk: Gauja River Bank",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Parkflächen am Fluss.",
+                "hu": "Ügyeljen a jeges parkolóhelyekre a folyónál.",
+                "ro": "Atenție la locurile de parcare înghețate de lângă râu.",
+                "en": "Watch out for icy parking spots near the river."
+              }
+            },
+            {
+              "name": "Walk & Drive: Forest Trails",
+              "tip_5lang": {
+                "de": "Nicht in tiefen Schnee fahren, Festfahrgefahr!",
+                "hu": "Ne hajtson mély hóba, elakadhat!",
+                "ro": "Nu intrați în zăpadă adâncă, riscați să rămâneți blocat!",
+                "en": "Do not drive into deep snow; you might get stuck!"
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in Lettland ab dem 1. Dezember gesetzlich vorgeschrieben.",
+              "Führen Sie einen Eiskratzer und einen kleinen Schneebesen mit.",
+              "Tanken Sie voll, bevor Sie in die abgelegenen Waldgebiete fahren.",
+              "Halten Sie eine Decke im Auto für Notfälle bereit."
+            ],
+            "hu": [
+              "Lettországban december 1-jétől kötelező a téli gumi.",
+              "Legyen Önnél jégkaparó és egy kis kefe a hóhoz.",
+              "Tankoljon tele, mielőtt a távolabbi erdei részekre indulna.",
+              "Tartson egy takarót az autóban vészhelyzet esetére."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii în Letonia de la 1 decembrie.",
+              "Aveți la îndemână o răzuitoare de gheață și o perie pentru zăpadă.",
+              "Faceți plinul înainte de a pleca spre zonele forestiere izolate.",
+              "Țineți o pătură în mașină pentru situații de urgență."
+            ],
+            "en": [
+              "Winter tires are mandatory in Latvia from December 1st.",
+              "Carry an ice scraper and a small snow brush.",
+              "Refuel before heading into more remote forest areas.",
+              "Keep a blanket in the car for emergencies."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1471,6 +2071,188 @@
           "Fully charge your phone to keep you entertained while waiting for the bus.",
           "Be mindful of the time so you don't miss the last bus back."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Vangaži mit dem Bus zu erkunden bedeutet, den Regen gemütlich durch das Fenster zu beobachten. Am Morgen erreichen wir das Zentrum trocken per Bus. Mittags verbinden wir den Kulturbesuch mit kurzen Wegen zwischen den Haltestellen. Nachmittags führt die Fahrt Richtung Gauja durch eine verregnete Waldlandschaft. Den Abend verbringen wir geschützt im Buswartehäuschen, bevor es zurückgeht.",
+            "hu": "Vangaži felfedezése busszal azt jelenti, hogy az esőt kényelmesen, az ablakon át figyeljük. Reggel szárazon érkezünk a központba. Délben a kulturális látogatást rövid sétákkal kötjük össze a megállók között. Délután a Gauja felé vezető út esős erdei tájakon át visz. Az estét a buszváró védelmében töltjük a visszaindulás előtt.",
+            "ro": "Explorarea Vangaži cu autobuzul înseamnă să privești ploaia confortabil prin fereastră. Dimineața ajungem uscați în centru. La prânz, combinăm vizita culturală cu scurte plimbări între stații. După-amiaza, drumul spre Gauja ne poartă prin peisaje forestiere ploioase. Seara o petrecem la adăpostul stației de autobuz înainte de întoarcere.",
+            "en": "Exploring Vangaži by bus means watching the rain comfortably through the window. In the morning, we arrive dry at the center. At noon, we combine cultural visits with short walks between stops. In the afternoon, the ride toward Gauja takes us through rainy forest landscapes. We spend the evening sheltered in the bus stop before heading back."
+          },
+          "stops": [
+            {
+              "name": "Arrival: Center Bus Stop",
+              "tip_5lang": {
+                "de": "Das Wartehäuschen bietet guten Schutz vor dem ersten Guss.",
+                "hu": "A váróterem jó védelmet nyújt az első zápor ellen.",
+                "ro": "Adăpostul din stație oferă protecție bună împotriva ploii.",
+                "en": "The bus shelter provides good protection from the first downpour."
+              }
+            },
+            {
+              "name": "Walk: Central Square & Culture House",
+              "tip_5lang": {
+                "de": "Kurzer, aber nasser Fußweg zum Kulturhaus.",
+                "hu": "Rövid, de vizes séta a Kultúrházhoz.",
+                "ro": "Drum scurt, dar umed până la Casa de Cultură.",
+                "en": "Short but wet walk to the Culture House."
+              }
+            },
+            {
+              "name": "Walk: War Memorial",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit bis zum nächsten Bus effizient.",
+                "hu": "Használja ki hatékonyan az időt a következő buszig.",
+                "ro": "Folosiți eficient timpul până la următorul autobuz.",
+                "en": "Use the time until the next bus efficiently."
+              }
+            },
+            {
+              "name": "Bus Ride & Walk to Church",
+              "tip_5lang": {
+                "de": "Vorsicht beim Aussteigen, Pfützen direkt am Bordstein.",
+                "hu": "Vigyázzon a kiszálláskor, tócsák lehetnek a padkánál.",
+                "ro": "Atenție la coborâre, pot fi bălți chiar lângă bordură.",
+                "en": "Careful when getting off; puddles right by the curb."
+              }
+            },
+            {
+              "name": "Walk: Gauja River Bank & Lunch",
+              "tip_5lang": {
+                "de": "Haltestellen in Flussnähe haben oft kein Dach.",
+                "hu": "A folyó közeli megállók gyakran fedetlenek.",
+                "ro": "Stațiile de lângă râu nu au adesea acoperiș.",
+                "en": "Stops near the river often lack a roof."
+              }
+            },
+            {
+              "name": "Walk & Bus Ride Back",
+              "tip_5lang": {
+                "de": "Prüfen Sie Abfahrtszeiten online, um langes Warten im Regen zu vermeiden.",
+                "hu": "Ellenőrizze online az indulást, hogy ne várjon sokat az esőben.",
+                "ro": "Verificați online orele de plecare pentru a nu aștepta mult în ploaie.",
+                "en": "Check departure times online to avoid waiting long in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Laden Sie die Mobilitäts-App im Voraus für Echtzeit-Infos.",
+              "Halten Sie Kleingeld oder eine Karte griffbereit, um Verzögerungen zu vermeiden.",
+              "Bustüren können bei Regen viel Feuchtigkeit ins Innere lassen.",
+              "Wählen Sie einen Sitzplatz in der Mitte, um vor Zugluft geschützt zu sein."
+            ],
+            "hu": [
+              "Töltse le előre a közlekedési appot a valós idejű infókért.",
+              "Legyen Önnél aprópénz vagy kártya a késlekedés elkerülésére.",
+              "Az ajtók sok nedvességet engedhetnek be esőben.",
+              "Válasszon középső ülést a huzat ellen."
+            ],
+            "ro": [
+              "Descărcați aplicația de mobilitate pentru informații în timp real.",
+              "Aveți pregătite monede sau cardul pentru a evita întârzierile.",
+              "Ușile autobuzului pot lăsa multă umezeală în interior pe ploaie.",
+              "Alegeți un loc la mijloc pentru a fi protejat de curent."
+            ],
+            "en": [
+              "Download the transit app in advance for real-time info.",
+              "Have small change or a card ready to avoid delays.",
+              "Bus doors can let in a lot of moisture during rain.",
+              "Choose a seat in the middle to stay protected from drafts."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Busfahren im Winter ist die gemütlichste Art, Vangaži zu erleben. Am Morgen bringen uns geheizte Busse zum glitzernden Zentralplatz. Mittags genießen wir die Wärme im Kulturhaus, bevor der Bus uns weiter zum Waldrand fährt. Nachmittags blicken wir aus dem warmen Fenster auf die verschneite Gauja-Landschaft. Der Abend endet an der beleuchteten Haltestelle, während dicke Flocken fallen.",
+            "hu": "A buszozás télen a legkényelmesebb módja Vangaži felfedezésének. Reggel fűtött buszok visznek a csillogó központi térre. Délben a Kultúrház melegét élvezzük, mielőtt a busz továbbvinne az erdőszélre. Délután a meleg ablakból nézzük a havas Gauja-tájat. Az este a kivilágított megállóban zárul, miközben sűrű pelyhekben hull a hó.",
+            "ro": "Mersul cu autobuzul iarna este cel mai confortabil mod de a vedea Vangaži. Dimineața, autobuzele încălzite ne duc în Piața Centrală sclipitoare. La prânz ne bucurăm de căldura Casei de Cultură înainte ca autobuzul să ne ducă spre pădure. După-amiaza privim pe fereastra caldă spre peisajul înzăpezit. Seara se încheie în stația iluminată, sub fulgi mari de zăpadă.",
+            "en": "Taking the bus in winter is the coziest way to see Vangaži. In the morning, heated buses take us to the glittering Central Square. At noon, we enjoy the warmth of the Culture House before the bus carries us toward the forest edge. In the afternoon, we look out from the warm window at the snowy Gauja landscape. The evening ends at the illuminated stop as thick flakes fall."
+          },
+          "stops": [
+            {
+              "name": "Arrival: Center Bus Stop",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenem Matsch beim Aussteigen.",
+                "hu": "Vigyázzon a fagyott kásával a kiszálláskor.",
+                "ro": "Atenție la lapovița înghețată la coborâre.",
+                "en": "Watch out for frozen slush when getting off."
+              }
+            },
+            {
+              "name": "Walk: Central Square & Culture House",
+              "tip_5lang": {
+                "de": "Die Wege zwischen Haltestelle und Platz sind meist geräumt.",
+                "hu": "A megálló és a tér közötti utak általában le vannak takarítva.",
+                "ro": "Drumurile dintre stație și piață sunt de obicei deszăpezite.",
+                "en": "Paths between the stop and the square are usually cleared."
+              }
+            },
+            {
+              "name": "Walk: War Memorial",
+              "tip_5lang": {
+                "de": "Warten Sie lieber im nahegelegenen Kiosk auf den Bus.",
+                "hu": "Inkább a közeli kioszkban várja a buszt.",
+                "ro": "Mai bine așteptați autobuzul în chioșcul din apropiere.",
+                "en": "Better wait for the bus in the nearby kiosk."
+              }
+            },
+            {
+              "name": "Bus Ride & Walk to Church",
+              "tip_5lang": {
+                "de": "Heizung im Bus kann sehr stark sein, Schal lockern.",
+                "hu": "A fűtés nagyon erős lehet a buszon, lazítsa meg a sálat.",
+                "ro": "Căldura din autobuz poate fi foarte puternică, slăbiți fularul.",
+                "en": "Heating in the bus can be very strong; loosen your scarf."
+              }
+            },
+            {
+              "name": "Walk: Gauja River Bank & Lunch",
+              "tip_5lang": {
+                "de": "Im Winter verkehren manche Buslinien seltener.",
+                "hu": "Télen egyes buszjáratok ritkábban járhatnak.",
+                "ro": "Iarna, unele linii de autobuz pot circula mai rar.",
+                "en": "Some bus lines may run less frequently in winter."
+              }
+            },
+            {
+              "name": "Walk & Bus Ride Back",
+              "tip_5lang": {
+                "de": "Beleuchtete Haltestellen geben Sicherheit bei früher Dunkelheit.",
+                "hu": "A kivilágított megállók biztonságot adnak a korai sötétben.",
+                "ro": "Stațiile iluminate oferă siguranță în întunericul timpuriu.",
+                "en": "Illuminated stops provide safety in the early darkness."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse können bei starkem Schneefall Verspätungen haben.",
+              "Die Scheiben sind oft beschlagen, hören Sie auf die Haltestellenansagen.",
+              "Tragen Sie helle Kleidung oder Reflektoren an der Haltestelle.",
+              "Sitzplätze über den Rädern sind oft am wärmsten."
+            ],
+            "hu": [
+              "Erős havazáskor a buszok késhetnek.",
+              "Az ablakok gyakran párásak, figyeljen a megálló-bejelentésekre.",
+              "Viseljen világos ruhát vagy fényvisszaverőt a megállóban.",
+              "A kerekek feletti ülések gyakran a legmelegebbek."
+            ],
+            "ro": [
+              "Autobuzele pot avea întârzieri în caz de ninsoare abundentă.",
+              "Geamurile sunt adesea aburite, ascultați anunțurile stațiilor.",
+              "Purtați haine deschise sau reflectorizante în stație.",
+              "Locurile de deasupra roților sunt adesea cele mai calde."
+            ],
+            "en": [
+              "Buses may be delayed during heavy snowfall.",
+              "Windows are often fogged; listen for the stop announcements.",
+              "Wear bright clothing or reflectors at the bus stop.",
+              "Seats over the wheels are often the warmest."
+            ]
+          }
+        }
       }
     }
   }

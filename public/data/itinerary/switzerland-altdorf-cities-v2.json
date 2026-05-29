@@ -375,6 +375,206 @@
           "Altdorf is very compact, everything is easily accessible on foot.",
           "Take your time to admire the details on the facades of the historic buildings."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen am Tell-Denkmal erfordert Schirme auf dem offenen Lehnplatz. Mittags bietet die barocke St. Martinskirche einen prächtigen, trockenen Rückzugsort. Nachmittags erkunden wir den Bürgli-Turm vorsichtig auf nassen Stufen. Den Tag beschließen wir im historischen Suvorov-Haus, dessen Ausstellungen uns vor dem alpinen Dauerregen schützen.",
+            "hu": "A reggel a Tell-emlékműnél kezdődik, az esernyő kötelező a nyitott téren. Délben a Szent Márton-templom barokk belső tere nyújt tökéletes menedéket. Délután a Bürgli-torony lépcsőin óvatosan haladunk a nedvesség miatt. A napot a Suvorov-ház történelmi falai között zárjuk, ahol a fedett tárlatok megvédenek az alpesi esőtől.",
+            "ro": "Dimineața la Monumentul Tell necesită umbrele în piața deschisă. La prânz, interiorul baroc al bisericii Sf. Martin oferă un refugiu uscat ideal. După-amiaza explorăm Turnul Bürgli, fiind atenți la treptele umede. Încheiem ziua în Casa Suvorov, unde expozițiile interioare ne protejează de ploaia alpină persistentă.",
+            "en": "Morning at the Tell Monument requires umbrellas on the open Lehnplatz. At noon, the baroque interior of St. Martin's Church offers a perfect, dry refuge. In the afternoon, we explore the Bürgli Tower carefully on wet steps. We conclude the day in the historic Suvorov House, where indoor exhibits keep us dry from the Alpine rain."
+          },
+          "stops": [
+            {
+              "name": "Lehnplatz & Tell Monument",
+              "tip_5lang": {
+                "de": "Wenig Unterstand auf dem Platz, Schirm unbedingt mitnehmen.",
+                "hu": "A téren nincs fedezék, esernyő mindenképpen szükséges.",
+                "ro": "Piața este deschisă, umbrela este absolut necesară.",
+                "en": "Open square with little shelter; bring an umbrella."
+              }
+            },
+            {
+              "name": "Parish Church of St. Martin",
+              "tip_5lang": {
+                "de": "Nutzen Sie den prunkvollen Innenraum für eine trockene Pause.",
+                "hu": "Használja a pompás belső teret egy száraz pihenőre.",
+                "ro": "Folosiți interiorul somptuos pentru o pauză uscată.",
+                "en": "Use the grand interior for a dry break from the rain."
+              }
+            },
+            {
+              "name": "Bürgli Tower",
+              "tip_5lang": {
+                "de": "Vorsicht auf den steinernen Stufen, Rutschgefahr bei Nässe.",
+                "hu": "Vigyázat a kőlépcsőkön, esőben csúszásveszély áll fenn.",
+                "ro": "Atenție la treptele de piatră, pericol de alunecare pe ploaie.",
+                "en": "Caution on the stone steps; slippery when wet."
+              }
+            },
+            {
+              "name": "Tell Theatre",
+              "tip_5lang": {
+                "de": "Das Foyer bietet Schutz während kurzer Regenschauer.",
+                "hu": "Az előcsarnok védelmet nyújt a rövid záporok idején.",
+                "ro": "Foaierul oferă protecție în timpul averselor scurte.",
+                "en": "The foyer provides shelter during short rain showers."
+              }
+            },
+            {
+              "name": "Lunch at Gasthof zum Löwen",
+              "tip_5lang": {
+                "de": "Idealer Ort, um nasse Kleidung im Warmen zu trocknen.",
+                "hu": "Ideális hely a nedves ruhák megszárítására a melegben.",
+                "ro": "Loc ideal pentru a usca hainele umede la căldură.",
+                "en": "Ideal spot to dry off wet clothes in a warm setting."
+              }
+            },
+            {
+              "name": "Capuchin Monastery",
+              "tip_5lang": {
+                "de": "Der überdachte Kreuzgang ist auch bei Regen begehbar.",
+                "hu": "A fedett kerengő esőben is kényelmesen bejárható.",
+                "ro": "Cloisul acoperit este accesibil chiar și pe ploaie.",
+                "en": "The covered cloister is accessible even in the rain."
+              }
+            },
+            {
+              "name": "Historic Houses (Jauch & Suvorov)",
+              "tip_5lang": {
+                "de": "Perfektes Schlechtwetterprogramm mit viel Zeit im Innenraum.",
+                "hu": "Tökéletes rosszidős program sok beltéri látnivalóval.",
+                "ro": "Program perfect pentru vreme rea, cu mult timp în interior.",
+                "en": "Perfect rainy-day program with plenty of indoor time."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für das Kopfsteinpflaster.",
+              "Die Kirchen bieten den besten Schutz vor plötzlichen Güssen.",
+              "Nutzen Sie die Arkaden in der Altstadt als Laufwege.",
+              "Ein Taschenschirm ist bei den kurzen Distanzen praktischer."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a macskaköves utcákhoz.",
+              "A templomok nyújtják a legjobb védelmet a hirtelen záporok ellen.",
+              "Használja az óváros árkádjait közlekedőútként.",
+              "A rövid távok miatt az összecsukható ernyő praktikusabb."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru străzile pietruite.",
+              "Bisericile oferă cea mai bună protecție împotriva averselor.",
+              "Folosiți arcadele din centrul vechi ca trasee de mers.",
+              "O umbrelă pliabilă este mai practică pentru distanțe scurte."
+            ],
+            "en": [
+              "Wear waterproof shoes for the cobblestone streets.",
+              "Churches offer the best protection from sudden downpours.",
+              "Use the old town arcades as walkways to stay dry.",
+              "A compact umbrella is practical for these short distances."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen am Lehnplatz lässt das Tell-Denkmal im Winterlicht glänzen. Mittags wärmen wir uns in der beheizten St. Martinskirche auf. Nachmittags genießen wir die klare Sicht auf die verschneiten Urner Alpen vom Bürgli-Turm aus. Der Tag endet früh bei Sonnenuntergang am Kapuzinerkloster, bevor die gemütliche Altstadt in Abendlichtern erstrahlt.",
+            "hu": "A fagyos reggelen a Lehnplatzon téli fényben csillog a Tell-emlékmű. Délben a fűtött Szent Márton-templomban melegszünk fel. Délután a Bürgli-toronyból élvezzük a tiszta kilátást a havas Uri-Alpokra. A nap korán, a naplementével ér véget a Kapucinus kolostornál, mielőtt az óváros esti fényei kigyúlnak.",
+            "ro": "O dimineață geroasă în Lehnplatz face ca Monumentul Tell să strălucească în lumina iernii. La prânz, ne încălzim în biserica Sf. Martin încălzită. După-amiaza, ne bucurăm de vederea clară spre Alpii din Uri înzăpeziți de la Turnul Bürgli. Ziua se termină devreme la apus, la mănăstirea capucinilor, înainte ca orașul vechi să se aprindă.",
+            "en": "A frosty morning at Lehnplatz makes the Tell Monument shine in the winter light. At noon, we warm up in the heated St. Martin's Church. In the afternoon, we enjoy clear views of the snowy Uri Alps from the Bürgli Tower. The day ends early at sunset near the Capuchin Monastery, before the cozy old town lights up for the evening."
+          },
+          "stops": [
+            {
+              "name": "Lehnplatz & Tell Monument",
+              "tip_5lang": {
+                "de": "Vorsicht vor Glatteis auf dem gepflasterten Platz.",
+                "hu": "Vigyázat, a kövezett tér jeges és csúszós lehet.",
+                "ro": "Atenție la polei în piața pavată.",
+                "en": "Beware of black ice on the paved square."
+              }
+            },
+            {
+              "name": "Parish Church of St. Martin",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Stille und Wärme des Kirchenraums.",
+                "hu": "Használja ki a templomtér nyugalmát és melegét.",
+                "ro": "Folosiți liniștea și căldura spațiului bisericii.",
+                "en": "Take advantage of the quiet and warmth inside the church."
+              }
+            },
+            {
+              "name": "Bürgli Tower",
+              "tip_5lang": {
+                "de": "Bester Aussichtspunkt für die verschneite Bergkulisse.",
+                "hu": "A legjobb kilátópont a havas hegyi kulisszákhoz.",
+                "ro": "Cel mai bun punct de observație pentru peisajul montan înzăpezit.",
+                "en": "Best vantage point for the snowy mountain backdrop."
+              }
+            },
+            {
+              "name": "Tell Theatre",
+              "tip_5lang": {
+                "de": "Im Winter finden hier oft stimmungsvolle Innenveranstaltungen statt.",
+                "hu": "Télen gyakran tartanak itt hangulatos beltéri előadásokat.",
+                "ro": "Iarna, aici au loc adesea evenimente interioare atmosferice.",
+                "en": "Atmospheric indoor events are often held here in winter."
+              }
+            },
+            {
+              "name": "Lunch at Gasthof zum Löwen",
+              "tip_5lang": {
+                "de": "Probieren Sie regionale Winterspezialitäten wie Käsefondue.",
+                "hu": "Kóstolja meg a helyi téli ételeket, például a sajtfondüt.",
+                "ro": "Încercați specialitățile locale de iarnă, cum ar fi fondue de brânză.",
+                "en": "Try regional winter specialties like cheese fondue."
+              }
+            },
+            {
+              "name": "Capuchin Monastery",
+              "tip_5lang": {
+                "de": "Kurz vor 17 Uhr ist der winterliche Sonnenuntergang am schönsten.",
+                "hu": "17 óra előtt a legszebb a téli naplemente innen.",
+                "ro": "Apusul de iarnă este cel mai frumos chiar înainte de ora 17.",
+                "en": "The winter sunset is most beautiful here just before 5 PM."
+              }
+            },
+            {
+              "name": "Historic Houses (Jauch & Suvorov)",
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten die Kälte draußen.",
+                "hu": "A vastag falak jól kint tartják a téli hideget.",
+                "ro": "Zidurile groase țin frigul afară în mod eficient.",
+                "en": "The thick walls effectively keep the winter chill outside."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Kleidung in Schichten ist im windigen Reusstal nötig.",
+              "Die Sonne verschwindet im Winter früh hinter den Bergen (ca. 16:30).",
+              "Tragen Sie Schuhe mit gutem Profil für verschneite Wege.",
+              "Heißer Tee in den Cafés der Altstadt hilft gegen die Kälte."
+            ],
+            "hu": [
+              "A szeles Reuss-völgyben réteges, meleg öltözet szükséges.",
+              "A nap télen korán (kb. 16:30-kor) eltűnik a hegyek mögött.",
+              "Viseljen jó tapadású talpú cipőt a havas utakra.",
+              "A hideg ellen a legjobb a forró tea az óvárosi kávézókban."
+            ],
+            "ro": [
+              "Îmbrăcămintea caldă în straturi este necesară în valea vântoasă Reuss.",
+              "Soarele dispare devreme după munți iarna (aprox. 16:30).",
+              "Purtați încălțăminte cu profil bun pentru potecile înzăpezite.",
+              "Ceaiul fierbinte în cafenelele din centrul vechi ajută contra frigului."
+            ],
+            "en": [
+              "Warm layered clothing is necessary in the windy Reuss Valley.",
+              "The sun disappears early behind the mountains in winter (approx. 4:30 PM).",
+              "Wear shoes with good grip for potentially snowy paths.",
+              "Hot tea in old town cafes is the best remedy for the cold."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -744,6 +944,206 @@
           "Some climbs are short but steep; a good gear system is advantageous.",
           "Use the bike paths along the Reuss for a longer tour if time permits."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine zügige Fahrt durch das nasse Altdorf verbindet die Sehenswürdigkeiten schnell. Wir nutzen Schutzbleche gegen den Spritzregen auf dem Lehnplatz. Mittags trocknen wir bei einer längeren Pause in der Altstadt. Die Auffahrt zum Kapuzinerkloster ist auf nassem Asphalt anspruchsvoll, belohnt aber mit einer nebligen, mystischen Aussicht über das Urnerland.",
+            "hu": "Egy gyors tempójú tekerés a nedves Altdorfban gyorsan összeköti a látnivalókat. A Lehnplatzon sárvédőt használunk a felverődő eső ellen. Délben egy hosszabb pihenő alatt megszáradunk az óvárosban. A Kapucinus kolostorhoz vezető emelkedő a nedves aszfalton kihívás, de ködös, misztikus kilátással jutalmaz az Uri-vidék felett.",
+            "ro": "O plimbare rapidă prin Altdorful umed conectează atracțiile în timp scurt. Folosim apărători împotriva stropilor în Lehnplatz. La prânz, ne uscăm în timpul unei pauze prelungite în centrul vechi. Urcarea spre mănăstirea capucinilor este solicitantă pe asfalt umed, dar răsplătește cu o vedere mistică și cețoasă.",
+            "en": "A brisk ride through wet Altdorf connects the sights quickly. We use mudguards against the spray at Lehnplatz. At noon, we dry off during a long break in the old town. The climb to the Capuchin Monastery is challenging on wet asphalt, but rewards us with a misty, mystical view over the Uri region."
+          },
+          "stops": [
+            {
+              "name": "Lehnplatz & Tell Monument",
+              "tip_5lang": {
+                "de": "Vorsicht beim Bremsen auf nassem Kopfsteinpflaster.",
+                "hu": "Vigyázat a fékezéssel a nedves macskakövön.",
+                "ro": "Atenție la frânare pe pavajul umed.",
+                "en": "Be careful when braking on wet cobblestones."
+              }
+            },
+            {
+              "name": "Parish Church of St. Martin",
+              "tip_5lang": {
+                "de": "Fahrradständer sind in Kirchennähe vorhanden, meist ungeschützt.",
+                "hu": "Kerékpártárolók vannak a közelben, többnyire fedetlenek.",
+                "ro": "Există rastele de biciclete în apropiere, majoritatea neacoperite.",
+                "en": "Bike racks are available nearby, mostly unsheltered."
+              }
+            },
+            {
+              "name": "Bürgli Tower",
+              "tip_5lang": {
+                "de": "Die Zufahrt kann bei Starkregen etwas schlammig sein.",
+                "hu": "Az odavezető út heves esőzéskor sáros lehet.",
+                "ro": "Accesul poate fi puțin noroios în caz de ploaie torențială.",
+                "en": "The access path can be a bit muddy during heavy rain."
+              }
+            },
+            {
+              "name": "Tell Theatre",
+              "tip_5lang": {
+                "de": "Kurzer Stopp unter dem Vordach für Trinkpause möglich.",
+                "hu": "Rövid megálló az előtető alatt frissítőhöz lehetséges.",
+                "ro": "Scurtă oprire sub copertină pentru hidratare.",
+                "en": "Short stop under the overhang possible for a water break."
+              }
+            },
+            {
+              "name": "Lunch",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit Sicht auf die abgestellten Räder.",
+                "hu": "Válasszon olyan éttermet, ahonnan látni a leparkolt gépeket.",
+                "ro": "Alegeți un restaurant cu vedere la bicicletele parcate.",
+                "en": "Choose a restaurant with a view of the parked bikes."
+              }
+            },
+            {
+              "name": "Capuchin Monastery",
+              "tip_5lang": {
+                "de": "Steile Auffahrt, bei Nässe gute Reifenprofiltiefe nötig.",
+                "hu": "Meredek emelkedő, nedves úton jó gumiabroncs-profil kell.",
+                "ro": "Urcare abruptă, este nevoie de profil bun al anvelopelor pe umed.",
+                "en": "Steep climb; good tire tread depth needed for wet roads."
+              }
+            },
+            {
+              "name": "Circuit Ride and Suvorov House",
+              "tip_5lang": {
+                "de": "Abschluss auf asphaltierten Wegen, um Schlamm zu vermeiden.",
+                "hu": "Befejezés aszfaltozott utakon a sár elkerülése érdekében.",
+                "ro": "Finalizare pe drumuri asfaltate pentru a evita noroiul.",
+                "en": "Finish on paved paths to avoid mud at the end of the trip."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vollständige Regenbekleidung (Hose/Jacke) wird empfohlen.",
+              "Schutzbleche am Fahrrad sind bei diesem Wetter ein Muss.",
+              "Vermeiden Sie Markierungen auf der Straße, diese sind extrem rutschig.",
+              "Tragen Sie wasserfeste Handschuhe für besseren Griff."
+            ],
+            "hu": [
+              "Teljes esőruházat (nadrág/kabát) ajánlott.",
+              "A sárvédő ezen az időben kötelező tartozék.",
+              "Kerülje az útburkolati jeleket, mert rendkívül csúszósak.",
+              "Viseljen vízálló kesztyűt a jobb fogás érdekében."
+            ],
+            "ro": [
+              "Se recomandă echipament complet de ploaie (pantaloni/jachetă).",
+              "Apărătorile la bicicletă sunt obligatorii pe această vreme.",
+              "Evitați marcajele rutiere, acestea sunt extrem de alunecoase.",
+              "Purtați mănuși impermeabile pentru o aderență mai bună."
+            ],
+            "en": [
+              "Full rain gear (trousers/jacket) is highly recommended.",
+              "Mudguards on the bike are a must in this weather.",
+              "Avoid road markings as they become extremely slippery.",
+              "Wear waterproof gloves for a better grip on the handlebars."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Kalter Fahrtwind begleitet uns durch das winterliche Altdorf. Wir radeln auf geräumten Wegen vom Tell-Denkmal zur St. Martinskirche. Die klare Winterluft lässt die Gipfel des Schächentals greifbar nah erscheinen. Nach einem wärmenden Mittagessen erkunden wir die historischen Gassen, bevor wir vor Einbruch der Dunkelheit die Tour am Kapuzinerkloster abschließen.",
+            "hu": "Hideg menetszél kísér minket a téli Altdorfban. Letakarított utakon tekerünk a Tell-emlékműtől a Szent Márton-templomig. A tiszta téli levegőben a Schächental csúcsai karnyújtásnyira tűnnek. Egy melengető ebéd után bejárjuk a történelmi utcákat, mielőtt sötétedés előtt befejeznénk a túrát a Kapucinus kolostornál.",
+            "ro": "Vântul rece ne însoțește prin Altdorful de iarnă. Mergem pe drumuri curățate de la Monumentul Tell la biserica Sf. Martin. Aerul curat de iarnă face ca vârfurile din Schächental să pară foarte aproape. După un prânz cald, explorăm străzile istorice înainte de a încheia turul la mănăstire.",
+            "en": "Cold wind accompanies us through winter Altdorf. We cycle on cleared paths from the Tell Monument to St. Martin's Church. The crisp winter air makes the peaks of the Schächental appear within reach. After a warming lunch, we explore the historic alleys before finishing the tour at the Capuchin Monastery before dark."
+          },
+          "stops": [
+            {
+              "name": "Lehnplatz & Tell Monument",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenem Spritzwasser auf dem Platz.",
+                "hu": "Vigyázat, a téren megfagyott vízfoltok lehetnek.",
+                "ro": "Atenție la apa înghețată din piață.",
+                "en": "Watch out for frozen puddles on the square."
+              }
+            },
+            {
+              "name": "Parish Church of St. Martin",
+              "tip_5lang": {
+                "de": "Kurze Aufwärmpause im Inneren ohne Rad möglich.",
+                "hu": "Rövid beltéri melegedő pihenő lehetséges a gép nélkül.",
+                "ro": "Scurtă pauză de încălzire în interior fără bicicletă.",
+                "en": "Short indoor warming break possible without the bike."
+              }
+            },
+            {
+              "name": "Bürgli Tower",
+              "tip_5lang": {
+                "de": "Die Aussicht auf die Schneekoppen ist im Winter am schärfsten.",
+                "hu": "A havas hegycsúcsokra télen a legélesebb a kilátás.",
+                "ro": "Vederea spre vârfurile înzăpezite este cea mai clară iarna.",
+                "en": "Views of the snow-capped peaks are sharpest in winter."
+              }
+            },
+            {
+              "name": "Tell Theatre",
+              "tip_5lang": {
+                "de": "Ruhiger Fotostopp, weniger Touristen als im Sommer.",
+                "hu": "Nyugodt fotómegálló, kevesebb a turista, mint nyáron.",
+                "ro": "Oprire foto liniștită, mai puțini turiști decât vara.",
+                "en": "Quiet photo stop; fewer tourists than in summer."
+              }
+            },
+            {
+              "name": "Lunch",
+              "tip_5lang": {
+                "de": "Sichern Sie das Rad an einem gut beleuchteten Ort.",
+                "hu": "Zárja le a biciklit egy jól megvilágított helyen.",
+                "ro": "Asigurați bicicleta într-un loc bine luminat.",
+                "en": "Secure the bike in a well-lit area."
+              }
+            },
+            {
+              "name": "Capuchin Monastery",
+              "tip_5lang": {
+                "de": "Auffahrt kann schattig und sehr kalt sein.",
+                "hu": "Az emelkedő árnyékos és nagyon hideg lehet.",
+                "ro": "Urcarea poate fi umbrită și foarte rece.",
+                "en": "The climb can be shaded and very cold."
+              }
+            },
+            {
+              "name": "Circuit Ride and Suvorov House",
+              "tip_5lang": {
+                "de": "Achten Sie auf Streusalz, das die Kette angreifen kann.",
+                "hu": "Ügyeljen az útszóró sóra, amely károsíthatja a láncot.",
+                "ro": "Atenție la sarea de pe drum, care poate ataca lanțul.",
+                "en": "Watch out for road salt, which can corrode the chain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Thermohosen und winddichte Handschuhe sind unverzichtbar.",
+              "Prüfen Sie den Reifendruck; etwas weniger Druck gibt mehr Grip.",
+              "Die Lichtanlage muss aufgrund der frühen Dämmerung einwandfrei sein.",
+              "Vermeiden Sie schattige Waldrandwege wegen Glatteisgefahr."
+            ],
+            "hu": [
+              "A nadrág alá húzott jégeralsó és szélálló kesztyű elengedhetetlen.",
+              "Ellenőrizze a guminyomást; a kicsit kisebb nyomás jobb tapadást ad.",
+              "A világításnak a korai sötétedés miatt tökéletesnek kell lennie.",
+              "Kerülje az árnyékos erdőszéli utakat a jegesedés veszélye miatt."
+            ],
+            "ro": [
+              "Pantalonii termici și mănușile rezistente la vânt sunt esențiale.",
+              "Verificați presiunea; o presiune mai mică oferă aderență mai bună.",
+              "Sistemul de iluminat trebuie să fie perfect din cauza amurgului timpuriu.",
+              "Evitați drumurile umbrite de la marginea pădurii din cauza poleiului."
+            ],
+            "en": [
+              "Thermal trousers and windproof gloves are indispensable.",
+              "Check tire pressure; slightly lower pressure provides more grip.",
+              "Lighting must be perfect due to the early onset of darkness.",
+              "Avoid shaded paths near forest edges due to black ice risk."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1096,6 +1496,188 @@
           "Most sights are so close together that you won't need the car all day.",
           "At the end of the day, use the car for a trip to the nearby Lake Lucerne."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Bequemes Sightseeing trotz Regen durch kurze Wege vom Parkplatz. Der Morgen beginnt am zentralen Parkplatz, von wo aus wir schnell zum Tell-Denkmal gelangen. Mittags genießen wir die gemütliche Gastronomie der Altstadt ohne nass zu werden. Den Nachmittag verbringen wir im Suvorov-Haus und schließen die Tour mit einer kurzen Fahrt zum Kapuzinerkloster ab.",
+            "hu": "Kényelmes városnézés az eső ellenére a parkolókhoz közeli látnivalóknak köszönhetően. A reggel a központi parkolóban indul, ahonnan gyorsan elérjük a Tell-emlékművet. Ebédnél az óváros vendégszeretetét élvezzük anélkül, hogy eláznánk. A délutánt a Suvorov-házban töltjük, majd rövid autóúttal zárjuk a napot a kolostornál.",
+            "ro": "Vizitare confortabilă în ciuda ploii datorită distanțelor scurte de la parcare. Dimineața începe în parcarea centrală, de unde ajungem rapid la Monumentul Tell. La prânz, ne bucurăm de gastronomia centrului vechi fără a ne uda. După-amiaza o petrecem în Casa Suvorov și încheiem turul cu o scurtă cursă spre mănăstire.",
+            "en": "Comfortable sightseeing despite the rain thanks to short distances from the parking lot. The morning starts at the central car park, from where we quickly reach the Tell Monument. At noon, we enjoy the cozy gastronomy of the old town without getting wet. The afternoon is spent at the Suvorov House, followed by a short drive to the monastery."
+          },
+          "stops": [
+            {
+              "name": "Central Car Park & Old Town Cluster",
+              "tip_5lang": {
+                "de": "Überdachte Parkmöglichkeiten im Parkhaus nutzen.",
+                "hu": "Használja a fedett parkolási lehetőségeket a parkolóházban.",
+                "ro": "Folosiți locurile de parcare acoperite din garajul etajat.",
+                "en": "Use covered parking spots in the multi-story car park."
+              }
+            },
+            {
+              "name": "Lehnplatz & Tell Monument",
+              "tip_5lang": {
+                "de": "Sehr kurzer Weg vom Parkplatz, Schirm für 2 Minuten nötig.",
+                "hu": "Nagyon rövid út a parkolótól, ernyő csak 2 percre kell.",
+                "ro": "Drum foarte scurt de la parcare, umbrela necesară doar 2 minute.",
+                "en": "Very short walk from the car; umbrella needed for just 2 minutes."
+              }
+            },
+            {
+              "name": "St. Martin's Church & Bürgli Tower",
+              "tip_5lang": {
+                "de": "Parken Sie direkt an der Kirche für minimalen Regen-Kontakt.",
+                "hu": "Parkoljon közvetlenül a templomnál a minimális eső-kontaktért.",
+                "ro": "Parcați direct lângă biserică pentru contact minim cu ploaia.",
+                "en": "Park directly by the church for minimal rain exposure."
+              }
+            },
+            {
+              "name": "Lunch in the Old Town",
+              "tip_5lang": {
+                "de": "Viele Restaurants haben Eingänge nahe der Fahrstraße.",
+                "hu": "Sok étterem bejárata közel van az autóúthoz.",
+                "ro": "Multe restaurante au intrări aproape de carosabil.",
+                "en": "Many restaurants have entrances close to the road."
+              }
+            },
+            {
+              "name": "Culture Cluster (Tell Theatre & Suvorov House)",
+              "tip_5lang": {
+                "de": "Parkplätze in der Suvorovstraße nutzen.",
+                "hu": "Használja a Suvorov utcai parkolóhelyeket.",
+                "ro": "Folosiți locurile de parcare de pe strada Suvorov.",
+                "en": "Use the parking spaces on Suvorovstrasse."
+              }
+            },
+            {
+              "name": "Capuchin Monastery & Gardens",
+              "tip_5lang": {
+                "de": "Auffahrt direkt zum Klostereingang möglich.",
+                "hu": "Közvetlen felhajtás a kolostor bejáratához lehetséges.",
+                "ro": "Accesul auto direct până la intrarea mănăstirii este posibil.",
+                "en": "Direct driving access to the monastery entrance is possible."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Das Parkhaus Lehnplatz bietet den trockensten Zugang zur Mitte.",
+              "Achten Sie auf Fußgänger mit Regenschirmen in den engen Gassen.",
+              "Die Scheiben beschlagen bei Regen schnell; Klimaanlage nutzen.",
+              "Kurzparkzonen sind oft direkt vor den Museen verfügbar."
+            ],
+            "hu": [
+              "A Lehnplatz parkolóház biztosítja a legszárazabb utat a központba.",
+              "Ügyeljen az esernyős gyalogosokra a szűk utcákban.",
+              "Az ablakok esőben gyorsan párásodnak; használja a klímát.",
+              "A múzeumok előtt gyakran elérhetők rövidtávú parkolók."
+            ],
+            "ro": [
+              "Parcarea Lehnplatz oferă cel mai uscat acces către centru.",
+              "Atenție la pietonii cu umbrele în străzile înguste.",
+              "Geamurile se aburesc rapid pe ploaie; folosiți climatizarea.",
+              "Zonele de parcare pe termen scurt sunt adesea chiar în fața muzeelor."
+            ],
+            "en": [
+              "The Lehnplatz car park offers the driest access to the center.",
+              "Watch out for pedestrians with umbrellas in narrow alleys.",
+              "Windows fog up quickly in the rain; use the air conditioning.",
+              "Short-term parking zones are often available right in front of museums."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Gemütliche Autotour durch das verschneite Uri. Wir starten am frostigen Lehnplatz und genießen die Wärme im Fahrzeug zwischen den Stationen. Die Fahrt zur St. Martinskirche bietet Ausblicke auf schneebedeckte Dächer. Mittags kehren wir in der Altstadt ein, bevor wir die Tour am Kapuzinerkloster bei klarer Winterluft und Bergsicht abschließen.",
+            "hu": "Hangulatos autós túra a havas Uriban. A fagyos Lehnplatzon kezdünk, és élvezzük a jármű melegét az állomások között. A Szent Márton-templomhoz vezető út kilátást nyújt a hóval borított háztetőkre. Ebédre az óvárosban térünk be, majd a napot a Kapucinus kolostornál zárjuk tiszta téli levegőben és hegyi panorámával.",
+            "ro": "Tur auto atmosferic prin Uri înzăpeziți. Începem în Lehnplatzul înghețat și ne bucurăm de căldura vehiculului între stații. Drumul spre biserica Sf. Martin oferă vederi spre acoperișurile înzăpezite. La prânz oprim în centrul vechi, apoi încheiem turul la mănăstire cu aer curat și panoramă montană.",
+            "en": "Atmospheric car tour through snowy Uri. We start at the frosty Lehnplatz and enjoy the warmth of the vehicle between stops. The drive to St. Martin's Church offers views of snow-covered rooftops. After lunch in the old town, we finish the tour at the Capuchin Monastery with crisp winter air and mountain views."
+          },
+          "stops": [
+            {
+              "name": "Central Car Park & Old Town Cluster",
+              "tip_5lang": {
+                "de": "Parkhäuser sind im Winter eisfrei und angenehmer.",
+                "hu": "A parkolóházak télen jégmentesek és kellemesebbek.",
+                "ro": "Parcările etajate sunt fără gheață și mai plăcute iarna.",
+                "en": "Multi-story car parks are ice-free and more pleasant in winter."
+              }
+            },
+            {
+              "name": "Lehnplatz & Tell Monument",
+              "tip_5lang": {
+                "de": "Motor nicht unnötig im Stand laufen lassen.",
+                "hu": "Ne járassa feleslegesen a motort álló helyzetben.",
+                "ro": "Nu lăsați motorul să meargă inutil în staționare.",
+                "en": "Do not let the engine idle unnecessarily while stationary."
+              }
+            },
+            {
+              "name": "St. Martin's Church & Bürgli Tower",
+              "tip_5lang": {
+                "de": "Auffahrt zur Kirche bei Schnee geräumt, aber Vorsicht.",
+                "hu": "A templomhoz vezető utat takarítják, de legyen óvatos.",
+                "ro": "Drumul spre biserică este curățat de zăpadă, dar fiți atenți.",
+                "en": "The drive to the church is cleared of snow, but be cautious."
+              }
+            },
+            {
+              "name": "Lunch in the Old Town",
+              "tip_5lang": {
+                "de": "Zentrale Parkplätze ermöglichen schnellen Zugang zum Warmen.",
+                "hu": "A központi parkolók gyors bejutást biztosítanak a melegbe.",
+                "ro": "Parcările centrale permit accesul rapid la căldură.",
+                "en": "Central parking spots allow for quick access to the warmth."
+              }
+            },
+            {
+              "name": "Culture Cluster (Tell Theatre & Suvorov House)",
+              "tip_5lang": {
+                "de": "Straßen am Rand können bei Frost rutschig sein.",
+                "hu": "A szélső utcák fagyban csúszósak lehetnek.",
+                "ro": "Străzile laterale pot fi alunecoase în caz de îngheț.",
+                "en": "Side streets can be slippery during frost."
+              }
+            },
+            {
+              "name": "Capuchin Monastery & Gardens",
+              "tip_5lang": {
+                "de": "Bester Platz für Fotos vom verschneiten Altdorf.",
+                "hu": "A legjobb hely fotók készítésére a havas Altdorfról.",
+                "ro": "Cel mai bun loc pentru fotografii cu Altdorf înzăpezit.",
+                "en": "Best spot for photos of Altdorf covered in snow."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen und Eiskratzer sind in dieser Region Pflicht.",
+              "Vorsicht vor Schneeräumfahrzeugen in den engen Gassen.",
+              "Tiefgaragen verhindern das Einfrieren der Türschlösser.",
+              "Achten Sie auf Fußgänger, die auf die Fahrbahn ausweichen müssen."
+            ],
+            "hu": [
+              "A téli gumi és a jégkaparó ebben a régióban kötelező.",
+              "Vigyázzon a hókotrókkal a szűk utcákban.",
+              "A mélygarázsok megakadályozzák az ajtózárak befagyását.",
+              "Ügyeljen a gyalogosokra, akik kénytelenek az úttestre lehúzódni."
+            ],
+            "ro": [
+              "Anvelopele de iarnă și racleta sunt obligatorii în această regiune.",
+              "Atenție la utilajele de deszăpezire în străzile înguste.",
+              "Parcările subterane previn înghețarea încuietorilor ușilor.",
+              "Fiți atenți la pietonii care sunt nevoiți să iasă pe carosabil."
+            ],
+            "en": [
+              "Winter tires and an ice scraper are mandatory in this region.",
+              "Watch out for snow removal vehicles in narrow alleys.",
+              "Underground garages prevent door locks from freezing.",
+              "Be mindful of pedestrians who may need to step into the road."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1448,6 +2030,188 @@
           "A Tell-Pass or a day ticket can be worthwhile if you also visit other places in the region.",
           "It's just a short walk from the station to the center; taxis or buses are not necessary."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trockenes Reisen mit den Schweizer Bahnen und Bussen. Vom Bahnhof Altdorf bringt uns der Bus direkt zum Tell-Denkmal am Lehnplatz. Mittags erreichen wir die Altstadt bequem per Nahverkehr. Den Nachmittag nutzen wir für Museumsbesuche im Suvorov-Haus, wobei die Wartezeiten an den überdachten Haltestellen angenehm kurz sind.",
+            "hu": "Száraz utazás a svájci vonatokkal és buszokkal. Altdorf vasútállomásától a busz közvetlenül a Lehnplatzhoz, a Tell-emlékműhöz visz. Ebédnél tömegközlekedéssel kényelmesen elérjük az óvárost. A délutánt a Suvorov-ház múzeumi látogatására fordítjuk, a várakozási idő a fedett megállókban kellemesen rövid.",
+            "ro": "Călătorie uscată cu trenurile și autobuzele elvețiene. De la gara Altdorf, autobuzul ne duce direct la Monumentul Tell în Lehnplatz. La prânz ajungem confortabil în centrul vechi cu transportul public. După-amiaza o folosim pentru vizite la muzee în Casa Suvorov, timpii de așteptare fiind scurți.",
+            "en": "Dry travel with Swiss trains and buses. From Altdorf station, the bus takes us directly to the Tell Monument at Lehnplatz. At noon, we reach the old town comfortably by local transit. The afternoon is used for museum visits at the Suvorov House, with waiting times at covered stops being pleasantly short."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Altdorf Train Station",
+              "tip_5lang": {
+                "de": "Der Bahnhof bietet einen Kiosk und einen warmen Warteraum.",
+                "hu": "Az állomáson van újságos és meleg váróterem.",
+                "ro": "Gara oferă un chioșc și o sală de așteptare caldă.",
+                "en": "The station offers a kiosk and a warm waiting room."
+              }
+            },
+            {
+              "name": "Lehnplatz & Tell Monument",
+              "tip_5lang": {
+                "de": "Bushaltestelle direkt am Platz, nur 30m ungeschützt.",
+                "hu": "Buszmegálló közvetlenül a téren, csak 30m fedetlen út.",
+                "ro": "Stație de autobuz chiar în piață, doar 30m neprotejați.",
+                "en": "Bus stop right on the square; only 30m is unsheltered."
+              }
+            },
+            {
+              "name": "St. Martin's Church & Bürgli Tower",
+              "tip_5lang": {
+                "de": "Buslinie 401 hält in Laufweite zur Kirche.",
+                "hu": "A 401-es busz gyalogos távolságra áll meg a templomtól.",
+                "ro": "Linia de autobuz 401 oprește la distanță de mers de biserică.",
+                "en": "Bus line 401 stops within walking distance of the church."
+              }
+            },
+            {
+              "name": "Lunch in the Old Town",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Ortsbus, um zwischen Gastro-Vierteln zu pendeln.",
+                "hu": "Használja a helyi buszt a gasztro-negyedek közötti ingázáshoz.",
+                "ro": "Folosiți autobuzul local pentru a naviga între zonele cu restaurante.",
+                "en": "Use the local bus to commute between dining areas."
+              }
+            },
+            {
+              "name": "Culture Cluster (Tell Theatre & Suvorov House)",
+              "tip_5lang": {
+                "de": "Die Haltestelle 'Altdorf, Telldenkmal' ist der zentrale Knotenpunkt.",
+                "hu": "Az 'Altdorf, Telldenkmal' megálló a központi csomópont.",
+                "ro": "Stația 'Altdorf, Telldenkmal' este nodul central de transport.",
+                "en": "The 'Altdorf, Telldenkmal' stop is the central transit hub."
+              }
+            },
+            {
+              "name": "Capuchin Monastery & Gardens",
+              "tip_5lang": {
+                "de": "Letztes Stück zu Fuß, Schirm bereit halten.",
+                "hu": "Az utolsó szakasz gyalogos, készítse elő az ernyőt.",
+                "ro": "Ultima porțiune se face pe jos, pregătiți umbrela.",
+                "en": "The final stretch is on foot; keep your umbrella ready."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die SBB-App zeigt Echtzeit-Infos bei witterungsbedingten Verspätungen.",
+              "Haltestellen im Zentrum sind meist überdacht.",
+              "Ein Tagesticket für die Zone 10 (Altdorf) lohnt sich bei Regen.",
+              "Busse verkehren im dichten Takt zwischen Bahnhof und Zentrum."
+            ],
+            "hu": [
+              "Az SBB app valós idejű infót ad az időjárás miatti késésekről.",
+              "A központi buszmegállók többnyire fedettek.",
+              "A 10-es zónára (Altdorf) érvényes napijegy esőben megéri.",
+              "A buszok sűrűn járnak a vasútállomás és a központ között."
+            ],
+            "ro": [
+              "Aplicația SBB oferă info în timp real despre întârzierile meteo.",
+              "Stațiile din centru sunt în mare parte acoperite.",
+              "Un bilet de o zi pentru zona 10 (Altdorf) merită pe timp de ploaie.",
+              "Autobuzele circulă frecvent între gară și centru."
+            ],
+            "en": [
+              "The SBB app shows real-time info for weather-related delays.",
+              "Bus stops in the center are mostly sheltered.",
+              "A day ticket for Zone 10 (Altdorf) is worthwhile in the rain.",
+              "Buses run frequently between the train station and the center."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Verlässlicher Transport durch das verschneite Altdorf. Wir starten am Bahnhof und nutzen die geheizten Busse zum Tell-Denkmal. Die Fahrt bietet Ausblicke auf die tief verschneiten Gipfel rund um Uri. Nach einem wärmenden Mittagessen in der Altstadt erkunden wir die kulturellen Highlights, wobei der Fahrplan auch im Winter präzise eingehalten wird.",
+            "hu": "Megbízható közlekedés a havas Altdorfban. Az állomástól indulunk, és fűtött buszokkal megyünk a Tell-emlékműhöz. Az út során rálátni az Uri körüli hófödte csúcsokra. Egy melengető óvárosi ebéd után bejárjuk a kulturális látnivalókat, a menetrendet télen is pontosan betartják.",
+            "ro": "Transport fiabil prin Altdorful înzăpeziți. Pornim de la gară și folosim autobuzele încălzite spre Monumentul Tell. Drumul oferă vederi spre vârfurile înzăpezite din jurul Uri. După un prânz cald în centrul vechi, explorăm punctele culturale, orarul fiind respectat cu precizie.",
+            "en": "Reliable transit through snowy Altdorf. We start at the station and take heated buses to the Tell Monument. The ride offers views of the deep-snow peaks around Uri. After a warming lunch in the old town, we explore cultural highlights, with the schedule strictly maintained even in winter."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Altdorf Train Station",
+              "tip_5lang": {
+                "de": "Züge sind hervorragend geheizt, ideal zum Aufwärmen.",
+                "hu": "A vonatok kiválóan fűtöttek, ideálisak a felmelegedéshez.",
+                "ro": "Trenurile sunt foarte bine încălzite, ideale pentru încălzire.",
+                "en": "Trains are excellently heated, ideal for warming up."
+              }
+            },
+            {
+              "name": "Lehnplatz & Tell Monument",
+              "tip_5lang": {
+                "de": "Wartebereiche an der Haltestelle können zugig sein.",
+                "hu": "A megálló várakozóhelyei huzatosak lehetnek.",
+                "ro": "Zonele de așteptare din stație pot fi expuse curentului.",
+                "en": "Waiting areas at the bus stop can be drafty."
+              }
+            },
+            {
+              "name": "St. Martin's Church & Bürgli Tower",
+              "tip_5lang": {
+                "de": "Fußweg von der Haltestelle zur Kirche bei Schnee gestreut.",
+                "hu": "A megállótól a templomig vezető gyalogutat sózzák.",
+                "ro": "Poteca de la stație la biserică este presărată cu sare.",
+                "en": "The path from the bus stop to the church is gritted."
+              }
+            },
+            {
+              "name": "Lunch in the Old Town",
+              "tip_5lang": {
+                "de": "Restaurants nahe der Busknotenpunkte wählen.",
+                "hu": "Válasszon éttermet a buszos csomópontok közelében.",
+                "ro": "Alegeți restaurante în apropierea nodurilor de autobuz.",
+                "en": "Choose restaurants near the main bus hubs."
+              }
+            },
+            {
+              "name": "Culture Cluster (Tell Theatre & Suvorov House)",
+              "tip_5lang": {
+                "de": "Abendliche Rückfahrt zum Bahnhof alle 15-30 Minuten.",
+                "hu": "Esti visszajutás az állomásra 15-30 percenként.",
+                "ro": "Returul de seară spre gară are loc la fiecare 15-30 minute.",
+                "en": "Evening return trips to the station every 15-30 minutes."
+              }
+            },
+            {
+              "name": "Capuchin Monastery & Gardens",
+              "tip_5lang": {
+                "de": "Bei Schneefall ist die Sicht von hier oben magisch.",
+                "hu": "Hóesésben fentről a kilátás varázslatos.",
+                "ro": "În caz de ninsoare, vederea de sus este magică.",
+                "en": "The view from up here is magical during snowfall."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie warme Schuhe, da das Warten am Bahnsteig kalt sein kann.",
+              "Die Postautos sind auf Bergstrecken auch bei Schnee extrem sicher.",
+              "Nutzen Sie die kurzen Umstiegszeiten im Schweizer Taktfahrplan.",
+              "Halten Sie die Fahrplan-App für kurzfristige Änderungen bereit."
+            ],
+            "hu": [
+              "Viseljen meleg cipőt, mert a peronon való várakozás hideg lehet.",
+              "A Postauto buszok hegyi utakon hóban is rendkívül biztonságosak.",
+              "Használja ki a svájci ütemes menetrend rövid átszállási időit.",
+              "Tartsa készenlétben a menetrendi appot az esetleges módosításokhoz."
+            ],
+            "ro": [
+              "Purtați încălțăminte caldă, așteptarea pe peron poate fi rece.",
+              "Autobuzele poștale sunt extrem de sigure pe drumuri montane cu zăpadă.",
+              "Folosiți timpii scurți de transfer din orarul cadențat elvețian.",
+              "Aveți la îndemână aplicația de transport pentru modificări de ultim moment."
+            ],
+            "en": [
+              "Wear warm shoes, as waiting on the platform can be cold.",
+              "PostBuses are extremely safe on mountain routes even in snow.",
+              "Take advantage of the short transfer times in the Swiss integrated clockface schedule.",
+              "Keep the transit app ready for any short-term changes."
+            ]
+          }
+        }
       }
     }
   }

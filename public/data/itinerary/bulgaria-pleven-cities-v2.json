@@ -350,6 +350,214 @@
           "Check the opening hours of the museums in advance.",
           "Some places may not accept card payments, so have some cash on hand."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag im Schutz des Mausoleums, während der Regen auf den zentralen Platz prasselt. Die Wasserfall-Kaskaden wirken bei Regen melancholisch, aber die Flucht in das Regionalmuseum bietet stundenlange Trockenheit.\n\nMittags erreichen Sie das Panorama-Denkmal auf dem Hügel. Die gewaltige Anlage bietet den perfekten Unterschlupf und eine immersive Erfahrung, während es draußen stürmt.\n\nAm Nachmittag führt der Weg durch den Skobelev-Park zum Weinmuseum. Da sich dieses in einer natürlichen Höhle befindet, sind Sie hier absolut sicher vor jeglichem Niederschlag.\n\nDen Abend lassen Sie im Stadtzentrum ausklingen. Die beleuchteten nassen Straßen spiegeln die Lichter der Stadt wider, während Sie ein lokales Restaurant aufsuchen.",
+            "hu": "Kezdje a napot a Mauzóleum fedett csarnokában, miközben az eső mossa a főteret. A Vízi kaszkád ilyenkor kevésbé látványos, de a Történeti Múzeum hatalmas épülete kiváló menedéket nyújt a délelőtti záporok elől.\n\nDélben irány a Pleveni Panoráma. A dombtetőn álló monumentális épület belsejében teljesen elfelejtheti a kinti rossz időt, miközben az 1877-es ostrom eseményeibe merül.\n\nDélután a Skobelev parkon keresztül juthat el a Bormúzeumba. Ez a helyszín tökéletes esőben, hiszen egy barlang belsejében található, ahol a csapadék egyáltalán nem zavarja a kóstolót.\n\nAz estét a belvárosban töltse, ahol a vizes aszfalton megcsillanó fények különleges hangulatot adnak a színház környékének.",
+            "ro": "Începeți ziua în interiorul Mausoleului, protejați de ploaia care cade peste piața centrală. Cascadele de apă pot fi evitate rapid pentru a intra în incinta Muzeului Regional de Istorie.\n\nLa prânz, urcați spre Panorama Pleven. Această structură masivă este refugiul ideal împotriva vremii nefavorabile, oferind o perspectivă istorică impresionantă fără a vă expune stropilor.\n\nDupă-amiaza, traversați parcul Skobelev către Muzeul Vinului. Localizat într-o peșteră naturală, acesta este probabil cel mai sigur loc din oraș împotriva ploii, oferind o atmosferă caldă.\n\nSeara, bucurați-vă de reflexiile luminilor orașului în bălțile de pe trotuarele din centru, înainte de a vă retrage într-o tavernă locală.",
+            "en": "Start your morning inside the Mausoleum, shielding yourself from the rain hitting the central square. Skip the outdoor cascades quickly to spend more time in the dry halls of the Historical Museum.\n\nAt midday, head to the Pleven Panorama. This massive indoor attraction is the ultimate rainy-day sanctuary, where you can immerse yourself in history while staying completely dry.\n\nIn the afternoon, walk through Skobelev Park to the Wine Museum. Since it is carved into a natural cave, it provides perfect shelter and a unique subterranean atmosphere.\n\nFinish your evening in the city center. The wet pavements reflect the streetlights beautifully near the theater, creating a moody atmosphere for a Bulgarian dinner."
+          },
+          "stops": [
+            {
+              "name": "St. George the Conqueror Mausoleum",
+              "tip_5lang": {
+                "de": "Ein trockener und ruhiger Ort für den Start bei Regen.",
+                "hu": "Fedett és csendes helyszín, ideális az eső elleni védekezésre.",
+                "ro": "Un loc uscat și liniștit pentru a începe vizita pe ploaie.",
+                "en": "A dry and quiet place to start your visit during the rain."
+              }
+            },
+            {
+              "name": "Water Cascade",
+              "tip_5lang": {
+                "de": "Bei Regen rutschig; betrachten Sie die Fontänen aus der Ferne.",
+                "hu": "Esőben csúszós lehet; nézze a szökőkutakat távolabbról.",
+                "ro": "Alunecos pe ploaie; observați fântânile de la distanță.",
+                "en": "Slippery when wet; view the fountains from a safe distance."
+              }
+            },
+            {
+              "name": "Regional Historical Museum",
+              "tip_5lang": {
+                "de": "Perfekter Ort für 90 Minuten im Trockenen.",
+                "hu": "Tökéletes helyszín 90 percnyi száraz pihenőre.",
+                "ro": "Locul perfect pentru 90 de minute de adăpost.",
+                "en": "Perfect spot for 90 minutes of indoor exploration."
+              }
+            },
+            {
+              "name": "Ivan Radoev Drama Theatre",
+              "tip_5lang": {
+                "de": "Das Vordach bietet kurzzeitigen Schutz vor Schauern.",
+                "hu": "Az épület előtetője rövid menedéket nyújt a záporok elől.",
+                "ro": "Copertina clădirii oferă un scurt adăpost împotriva ploii.",
+                "en": "The building's canopy provides brief shelter from showers."
+              }
+            },
+            {
+              "name": "Pleven Panorama 1877",
+              "tip_5lang": {
+                "de": "Hervorragende Indoor-Attraktion, ideal bei jedem Sturm.",
+                "hu": "Kiváló beltéri látnivaló, bármilyen vihar esetén ideális.",
+                "ro": "Atracție interioară excelentă, ideală pe orice furtună.",
+                "en": "Excellent indoor attraction, ideal during any storm."
+              }
+            },
+            {
+              "name": "Skobelev Park",
+              "tip_5lang": {
+                "de": "Nutzen Sie die asphaltierten Wege, um Matsch zu vermeiden.",
+                "hu": "Használja az aszfaltozott utakat a sár elkerülése érdekében.",
+                "ro": "Folosiți aleile asfaltate pentru a evita noroiul.",
+                "en": "Stick to the paved paths to avoid mud in the park."
+              }
+            },
+            {
+              "name": "Wine Museum",
+              "tip_5lang": {
+                "de": "In einer Höhle gelegen – der trockenste Ort in Plewen.",
+                "hu": "Barlangban található – Pleven legszárazabb pontja esőben.",
+                "ro": "Situat într-o peșteră – cel mai uscat loc din Plevna.",
+                "en": "Located in a cave – the driest spot in Pleven during rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da die Fußgängerzone bei Regen Pfützen bildet.",
+              "Das Panorama und das Weinmuseum sind die besten Rückzugsorte bei Dauerregen.",
+              "Nutzen Sie die zahlreichen Cafés rund um den Freiheitsplatz für Pausen.",
+              "Die Kaskaden können bei starkem Regen abgeschaltet sein.",
+              "Taxis sind günstig und bei plötzlichen Güssen schnell über Apps verfügbar."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert a sétálóövezetben könnyen kialakulnak tócsák.",
+              "A Panoráma és a Bormúzeum a legjobb menedék tartós eső esetén.",
+              "Használja ki a Szabadság tér körüli kávézókat a pihenésre.",
+              "Heves esőzéskor a vízi kaszkádokat néha leállítják.",
+              "A taxik olcsók és gyorsan hívhatók, ha hirtelen eleredne az eső."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, zona pietonală acumulează apă rapid.",
+              "Panorama și Muzeul Vinului sunt cele mai bune refugii pe ploaie.",
+              "Profitați de cafenelele din jurul Pieței Libertății pentru pauze.",
+              "Cascadele pot fi oprite în timpul ploilor torențiale.",
+              "Taxiurile sunt accesibile și utile în caz de aversă neprevăzută."
+            ],
+            "en": [
+              "Wear waterproof shoes as the pedestrian zone can collect puddles.",
+              "The Panorama and Wine Museum are the best retreats for persistent rain.",
+              "Take advantage of the many cafes around Freedom Square for breaks.",
+              "The water cascades might be turned off during heavy rainfall.",
+              "Taxis are affordable and a great backup for sudden downpours."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen beginnt am Mausoleum. Die kalte Winterluft ist klar, und der zentrale Platz wirkt im grauen Licht ruhig. Wärmen Sie sich schnell im Regionalmuseum auf.\n\nMittags erklimmen Sie den Hügel zum Panorama. Die Heizung im Inneren ist ein Segen nach dem windigen Aufstieg. Der Blick auf das verschneite Plewen vom Hügel aus ist beeindruckend.\n\nDer Nachmittag führt in den Skobelev-Park. Die kahlen Bäume lassen den Blick auf die Denkmäler frei. Im Weinmuseum herrscht in der Höhle eine konstante, angenehme Temperatur.\n\nZum Abendessen kehren Sie ins Zentrum zurück. Die Dämmerung setzt früh ein, und die festliche Beleuchtung verleiht der Stadt einen gemütlichen Charme, während Sie lokale Spezialitäten genießen.",
+            "hu": "Fagyos reggel indul a Mauzóleumnál. A hideg téli levegő tiszta, a főtér ilyenkor sokkal csendesebb. A délelőttöt töltse a Történeti Múzeum fűtött termeiben.\n\nDélben másszon fel a Panorámához. A benti fűtés igazi áldás a szeles emelkedő után. A dombtetőről nyíló kilátás a havas Plevenre felejthetetlen élmény.\n\nDélután tegyen egy rövid sétát a Skobelev parkban, majd irány a Bormúzeum. A barlang mélyén télen is állandó és kellemes a hőmérséklet, távol a kinti fagyoktól.\n\nAz este korán köszönt be; a város fényei már délután ötkor ragyognak. Keressen egy hangulatos éttermet a belvárosban, ahol megkóstolhatja a meleg bolgár ételeket.",
+            "ro": "O dimineață geroasă începe la Mausoleu. Aerul rece de iarnă este proaspăt, iar piața centrală pare mai vastă. Încălziți-vă rapid în sălile Muzeului Regional.\n\nLa prânz, urcați spre Panorama. Căldura din interior este binevenită după urcușul expus vântului. Vederea asupra orașului înzăpezit de pe deal este spectaculoasă.\n\nDupă-amiaza este dedicată parcului Skobelev și Muzeului Vinului. În peșteră, temperatura rămâne constantă și mult mai plăcută decât afară, oferind un refugiu termic.\n\nSeara se așterne devreme, iar luminile festive dau orașului un farmec aparte. Încheiați ziua cu o cină caldă într-un restaurant tradițional din centru.",
+            "en": "A frosty morning starts at the Mausoleum. The crisp winter air is refreshing, but the central square can be biting. Warm up early in the heated Regional Museum.\n\nAt midday, make your way up the hill to the Panorama. The indoor heating is a relief after the windy climb, and the view of snowy Pleven from the hill is stark and beautiful.\n\nSpend your afternoon in Skobelev Park and the Wine Museum. The cave maintains a constant, milder temperature, making it a perfect escape from the winter chill.\n\nEvening arrives early, with the city lights twinkling by 5 PM. Head back to the center for a cozy Bulgarian meal to end your winter journey."
+          },
+          "stops": [
+            {
+              "name": "St. George the Conqueror Mausoleum",
+              "tip_5lang": {
+                "de": "Vorsicht vor vereisten Stufen am Eingang.",
+                "hu": "Vigyázat, a bejárati lépcsők jegesek lehetnek.",
+                "ro": "Atenție la treptele înghețate de la intrare.",
+                "en": "Watch out for icy steps at the entrance."
+              }
+            },
+            {
+              "name": "Water Cascade",
+              "tip_5lang": {
+                "de": "Im Winter meist abgeschaltet, aber die Steinmetzearbeit ist sichtbar.",
+                "hu": "Télen általában nem üzemel, de a szobrok így is láthatóak.",
+                "ro": "De obicei oprită iarna, dar sculpturile rămân vizibile.",
+                "en": "Usually turned off in winter, but the stonework is still visible."
+              }
+            },
+            {
+              "name": "Regional Historical Museum",
+              "tip_5lang": {
+                "de": "Gut beheizt, ideal zum Aufwärmen der Füße.",
+                "hu": "Jól fűtött, ideális a lábak átmelegítésére.",
+                "ro": "Bine încălzit, ideal pentru a vă încălzi picioarele.",
+                "en": "Well-heated, ideal for warming up during the tour."
+              }
+            },
+            {
+              "name": "Ivan Radoev Drama Theatre",
+              "tip_5lang": {
+                "de": "Das beleuchtete Gebäude sieht im Winterschnee prächtig aus.",
+                "hu": "A kivilágított épület csodás látvány a téli hóesésben.",
+                "ro": "Clădirea iluminată arată superb în zăpada de iarnă.",
+                "en": "The illuminated building looks magnificent in the winter snow."
+              }
+            },
+            {
+              "name": "Pleven Panorama 1877",
+              "tip_5lang": {
+                "de": "Die Panorama-Halle ist angenehm warm temperiert.",
+                "hu": "A Panoráma-csarnok kellemesen meleg hőmérsékletű.",
+                "ro": "Sala Panoramei are o temperatură plăcută și caldă.",
+                "en": "The Panorama hall is kept at a comfortable warm temperature."
+              }
+            },
+            {
+              "name": "Skobelev Park",
+              "tip_5lang": {
+                "de": "Die Wege können bei Frost sehr glatt sein.",
+                "hu": "A gyalogutak fagy idején nagyon csúszósak lehetnek.",
+                "ro": "Aleile pot fi foarte alunecoase în caz de îngheț.",
+                "en": "Walking paths can be very slippery during frost."
+              }
+            },
+            {
+              "name": "Wine Museum",
+              "tip_5lang": {
+                "de": "Die Höhlentemperatur ist im Winter wärmer als die Außenluft.",
+                "hu": "A barlang hőmérséklete télen melegebb a kinti levegőnél.",
+                "ro": "Temperatura din peșteră este mai ridicată decât cea de afară.",
+                "en": "The cave temperature is warmer than the outside air in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Dämmerung setzt gegen 16:45 Uhr ein; planen Sie Außenbesuche früh.",
+              "Tragen Sie feste Schuhe mit Profil für die Hügelwege zum Panorama.",
+              "Genießen Sie 'Grejana Rakiya' (warmer Schnaps) in lokalen Tavernen.",
+              "Die öffentlichen Verkehrsmittel sind im Winter oft wärmer als langes Laufen.",
+              "Das Regionalmuseum ist montags oft geschlossen; prüfen Sie die Zeiten."
+            ],
+            "hu": [
+              "A sötétedés 16:45 körül kezdődik; a parkokat látogassa meg korábban.",
+              "Viseljen bordázott talpú bakancsot a Panorámához vezető emelkedőn.",
+              "Kóstolja meg a 'Grejana Rakiya'-t (meleg pálinka) a helyi tavernákban.",
+              "A tömegközlekedés télen kényelmesebb alternatíva a hosszú séták helyett.",
+              "A Történeti Múzeum hétfőnként zárva tarthat; ellenőrizze a nyitvatartást."
+            ],
+            "ro": [
+              "Amurgul începe în jur de 16:45; planificați vizitele în parcuri devreme.",
+              "Purtați ghete cu talpă aderentă pentru urcușul către Panoramă.",
+              "Gustați 'Grejana Rakiya' (rachiu cald) în tavernele locale.",
+              "Transportul public este adesea o alternativă mai caldă la mersul pe jos.",
+              "Muzeul Regional este adesea închis lunea; verificați programul."
+            ],
+            "en": [
+              "Sunset is around 4:45 PM; plan outdoor park visits for the morning.",
+              "Wear boots with good grip for the hilly paths to the Panorama.",
+              "Try 'Grejana Rakiya' (hot rakia) in local taverns to warm up.",
+              "Public transit is often a warmer alternative to long winter walks.",
+              "The Regional Museum is often closed on Mondays; check the schedule."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -654,6 +862,196 @@
           "Bring a lock to secure your bike.",
           "Pleven has some hills, be prepared for inclines."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine nasse Fahrt beginnt am Mausoleum. Die glatten Pflastersteine im Zentrum erfordern volle Konzentration. Suchen Sie Schutz im Regionalmuseum und lassen Sie die Räder sicher im Eingangsbereich.\n\nMittags radeln Sie vorsichtig den Hügel hinauf zum Panorama. Der Weg ist steil und bei Regen rutschig. Die lange Pause im Inneren ist perfekt, um die Kleidung zu trocknen.\n\nDer Nachmittag führt in den Kaylaka-Park. Die asphaltierte Straße ist besser befahrbar als die Waldwege. Das Weinmuseum in der Höhle bietet ein trockenes Ziel nach der Fahrt.\n\nAbends radeln Sie zurück ins Zentrum. Achten Sie auf die spiegelnden Markierungen auf dem Asphalt und beenden Sie die Tour an einem gemütlichen Ort.",
+            "hu": "Vizes tekerés indul a Mauzóleumnál. A belvárosi kövezet esőben csúszós, legyen óvatos a kanyarokban. Pihenjen meg a Történeti Múzeumban, ahol a kerékpárokat is biztonságban tudhatja.\n\nDélben óvatosan hajtson fel a Panorámához vezető emelkedőn. A meredek út esőben komolyabb kihívás, de a fenti hosszú tartózkodás alatt legalább megszáradhat.\n\nDélután a Kaylaka park felé vegye az irányt. Maradjon az aszfaltozott úton a sár elkerülése végett. A Bormúzeum barlangja kiváló végállomás, ahol garantáltan nem esik.\n\nEste tekerjen vissza a városba. Figyeljen az útburkolati jelekre, mert vizesen rendkívül csúszósak lehetnek.",
+            "ro": "O cursă umedă începe la Mausoleu. Pavajul din centru necesită atenție sporită pe ploaie. Adăpostiți-vă la Muzeul Regional și lăsați bicicletele într-un loc sigur.\n\nLa prânz, pedalați cu prudență pe deal spre Panoramă. Drumul în pantă este solicitant și alunecos, dar pauza lungă din interior vă va permite să vă uscați echipamentul.\n\nDupă-amiaza, îndreptați-vă spre parcul Kaylaka. Drumul asfaltat este preferabil potecilor care devin noroioase. Muzeul Vinului din peșteră este destinația finală perfectă.\n\nSeara, reveniți în centru. Fiți atenți la marcajele rutiere reflectorizante care pot deveni capcane alunecoase pe ploaie.",
+            "en": "A wet ride starts at the Mausoleum. The central pavement requires full focus in the rain. Take a long break at the Regional Museum to stay dry.\n\nAt midday, cycle carefully up the hill to the Panorama. The climb is steep and can be slick; use the indoor visit to dry off your gear.\n\nIn the afternoon, head towards Kaylaka Park. Stick to the paved main road to avoid the muddy trails. The Wine Museum cave is a fantastic dry destination after your ride.\n\nRide back to the center in the evening. Watch out for painted road markings which become extremely slippery when wet."
+          },
+          "stops": [
+            {
+              "name": "St. George the Conqueror Mausoleum",
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Radfahren auf den weißen Marmorplatten bei Regen.",
+                "hu": "Esőben kerülje a kerékpározást a fehér márványlapokon.",
+                "ro": "Evitați pedalatul pe plăcile de marmură albă pe ploaie.",
+                "en": "Avoid cycling directly on the white marble tiles during rain."
+              }
+            },
+            {
+              "name": "Regional Historical Museum",
+              "tip_5lang": {
+                "de": "Fahrradständer sind im Hof vorhanden.",
+                "hu": "A belső udvarban találhatók kerékpártárolók.",
+                "ro": "Există rastele pentru biciclete în curte.",
+                "en": "Bike racks are available in the courtyard area."
+              }
+            },
+            {
+              "name": "Pleven Panorama 1877",
+              "tip_5lang": {
+                "de": "Harte Fahrt bergauf; achten Sie auf Aquaplaning beim Abstieg.",
+                "hu": "Nehéz emelkedő; lefelé menet figyeljen a vízenfutásra.",
+                "ro": "Urcare grea; atenție la acvaplanare la coborâre.",
+                "en": "Tough climb; watch out for hydroplaning on the descent."
+              }
+            },
+            {
+              "name": "Skobelev Park",
+              "tip_5lang": {
+                "de": "Die Kurven können durch nasses Laub gefährlich sein.",
+                "hu": "A kanyarok a vizes levelek miatt veszélyesek lehetnek.",
+                "ro": "Curbele pot fi periculoase din cauza frunzelor ude.",
+                "en": "The turns can be dangerous due to wet leaves."
+              }
+            },
+            {
+              "name": "Kaylaka Park",
+              "tip_5lang": {
+                "de": "Der Asphalt ist meist gut, aber Pfützen sammeln sich am Rand.",
+                "hu": "Az aszfalt jó, de a széleken megállhat a víz.",
+                "ro": "Asfaltul este bun, dar bălțile se adună pe margini.",
+                "en": "The asphalt is good, but puddles often collect on the edges."
+              }
+            },
+            {
+              "name": "Wine Museum",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad unter den Felsvorsprung am Eingang.",
+                "hu": "Támassza le a biciklit a bejárat melletti sziklaeresz alá.",
+                "ro": "Lăsați bicicleta sub streașina de stâncă de la intrare.",
+                "en": "Park your bike under the rock overhang near the entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine vollflächige Regenjacke und wasserfeste Überhosen.",
+              "Prüfen Sie Ihre Bremsbeläge; der Abstieg vom Panorama ist bei Nässe steil.",
+              "Die Fußgängerzone ist bei Regen weniger belebt, aber glatter.",
+              "Vermeiden Sie die unbefestigten Wege im Kaylaka-Park bei Schlamm.",
+              "Nutzen Sie helle Lichter, da die Sicht bei Regen in Plewen oft schlecht ist."
+            ],
+            "hu": [
+              "Viseljen teljes esőruházatot és vízálló nadrágot.",
+              "Ellenőrizze a fékeket; a Panorámától lefelé vezető út vizesen meredek.",
+              "A sétálóutca esőben kevésbé zsúfolt, de csúszósabb.",
+              "Sár idején kerülje a Kaylaka park földútjait.",
+              "Használjon erős világítást, mert Plevenben esőben gyakran rosszak a látási viszonyok."
+            ],
+            "ro": [
+              "Purtați o pelerină de ploaie completă și pantaloni impermeabili.",
+              "Verificați frânele; coborârea de la Panoramă este abruptă pe ud.",
+              "Zona pietonală este mai liberă pe ploaie, dar mai alunecoasă.",
+              "Evitați drumurile neasfaltate din parcul Kaylaka când e noroi.",
+              "Folosiți lumini puternice, vizibilitatea în Plevna scade mult pe ploaie."
+            ],
+            "en": [
+              "Wear a full raincoat and waterproof overtrousers.",
+              "Check your brake pads; the descent from the Panorama is steep and slick.",
+              "The pedestrian zone is less crowded in the rain but much more slippery.",
+              "Avoid the unpaved trails in Kaylaka Park during muddy conditions.",
+              "Use bright lights, as visibility in Pleven is often poor during rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiges Radabenteuer beginnt am Mausoleum. Die Luft brennt in den Lungen, aber die Straßen sind meist frei von Eis. Das Regionalmuseum bietet die erste Aufwärmpause.\n\nMittags erfordert die Auffahrt zum Panorama Ausdauer gegen den kalten Wind. Oben angekommen, belohnt Sie die Panorama-Halle mit wohliger Wärme, bevor es wieder in die Kälte geht.\n\nDer Nachmittag im Kaylaka-Park ist ruhig und friedlich. Der Frost auf den Felsen sieht magisch aus. Das Weinmuseum in der Höhle ist im Winter ein thermisches Highlight.\n\nDie Tour endet kurz nach Sonnenuntergang. Mit guter Beleuchtung radeln Sie zurück ins Stadtzentrum und wärmen sich in einer der Tavernen mit kräftigem bulgarischen Eintopf auf.",
+            "hu": "Fagyos kerékpáros kaland indul a Mauzóleumnál. A hideg levegő csípős, de az utak többnyire jégmentesek. A Történeti Múzeum kiváló első állomás az átmelegedéshez.\n\nDélben a Panoráma felé tekerve meg kell küzdenie a hideg széllel. A csarnok melege igazi megváltás lesz a kaptató után, mielőtt újra a nyeregbe szállna.\n\nDélután a Kaylaka park csendes és békés; a sziklákon megülő zúzmara varázslatos látványt nyújt. A Bormúzeum barlangja télen is kellemes klímát biztosít.\n\nA túra nem sokkal naplemente után ér véget. Jó világítással tekerjen vissza a belvárosba, és keressen egy taverna-t, ahol forró bolgár egytálétellel melegedhet fel.",
+            "ro": "O aventură pe bicicletă în ger începe la Mausoleu. Aerul rece este tăios, dar străzile sunt de obicei curățate. Muzeul Regional oferă prima ocazie de a vă încălzi.\n\nLa prânz, urcarea spre Panoramă necesită efort împotriva vântului rece. Odată ajunși, sala Panoramei vă va primi cu căldură înainte de a ieși din nou în frig.\n\nDupă-amiaza în parcul Kaylaka este liniștită; chiciura de pe stânci creează un peisaj magic. Muzeul Vinului din peșteră este un refugiu termic binevenit iarna.\n\nTurul se încheie imediat după apus. Cu lumini bune, pedalați înapoi în centru și încălziți-vă într-o tavernă cu o tocană bulgărească consistentă.",
+            "en": "A frosty cycling adventure starts at the Mausoleum. The air is biting, but the main roads are usually clear of ice. The Regional Museum provides your first warm-up stop.\n\nAt midday, the climb to the Panorama requires stamina against the cold wind. Inside, the heated hall is a blessing before you brave the outdoors again.\n\nAfternoon in Kaylaka Park is quiet and peaceful; the frost on the rocks looks magical. The Wine Museum cave is a thermal highlight in winter.\n\nFinish your ride shortly after sunset. With proper lighting, cycle back to the city center and warm up in a tavern with a hearty Bulgarian stew."
+          },
+          "stops": [
+            {
+              "name": "St. George the Conqueror Mausoleum",
+              "tip_5lang": {
+                "de": "Achten Sie auf schwarzes Eis auf den Schattenseiten des Platzes.",
+                "hu": "Figyeljen a fekete jégre a tér árnyékosabb részein.",
+                "ro": "Atenție la gheața neagră în zonele umbrite ale pieței.",
+                "en": "Watch out for black ice on the shaded parts of the square."
+              }
+            },
+            {
+              "name": "Regional Historical Museum",
+              "tip_5lang": {
+                "de": "Lassen Sie das Rad im Sichtbereich der Wachen im Hof.",
+                "hu": "Hagyja a biciklit az udvari őrök látóterében.",
+                "ro": "Lăsați bicicleta la vederea paznicilor din curte.",
+                "en": "Leave your bike within sight of the guards in the courtyard."
+              }
+            },
+            {
+              "name": "Pleven Panorama 1877",
+              "tip_5lang": {
+                "de": "Kalte Abfahrt; ziehen Sie sich vor dem Verlassen warm an.",
+                "hu": "Hideg lejtő; öltözzön fel melegen, mielőtt elindulna lefelé.",
+                "ro": "Coborâre rece; îmbrăcați-vă bine înainte de a pleca de sus.",
+                "en": "Cold descent; bundle up before leaving the heated building."
+              }
+            },
+            {
+              "name": "Skobelev Park",
+              "tip_5lang": {
+                "de": "Reif kann die Kurven rutschig machen.",
+                "hu": "A zúzmara csúszóssá teheti a kanyarokat.",
+                "ro": "Chiciura poate face curbele alunecoase.",
+                "en": "Frost can make the turns quite slippery."
+              }
+            },
+            {
+              "name": "Kaylaka Park",
+              "tip_5lang": {
+                "de": "Kürzere Tage – stellen Sie sicher, dass Ihre Lichter funktionieren.",
+                "hu": "Rövidebb nappalok – győződjön meg róla, hogy a lámpák működnek.",
+                "ro": "Zile scurte – asigurați-vă că luminile funcționează.",
+                "en": "Shorter days – ensure your lights are fully operational."
+              }
+            },
+            {
+              "name": "Wine Museum",
+              "tip_5lang": {
+                "de": "Genießen Sie den Temperaturunterschied in der Höhle.",
+                "hu": "Élvezze a barlang és a kinti levegő közötti hőmérséklet-különbséget.",
+                "ro": "Bucurați-vă de diferența de temperatură din peșteră.",
+                "en": "Enjoy the stable and warmer temperature inside the cave."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie geschichtete Kleidung und winddichte Handschuhe.",
+              "Prüfen Sie den Reifendruck; kalte Luft lässt ihn oft sinken.",
+              "Die Sonne geht gegen 17:00 Uhr unter; nutzen Sie starke Reflektoren.",
+              "Vermeiden Sie schattige Waldwege, die länger gefroren bleiben.",
+              "Trinken Sie ausreichend Tee; die trockene Winterluft dehydriert unbemerkt."
+            ],
+            "hu": [
+              "Viseljen réteges ruházatot és szélálló kesztyűt.",
+              "Ellenőrizze a guminyomást; a hideg levegő miatt gyakran csökken.",
+              "A nap 17:00 körül nyugszik; használjon erős fényvisszaverőket.",
+              "Kerülje az árnyékos erdei utakat, amelyek tovább maradhatnak fagyottak.",
+              "Igyon elegendő teát; a száraz téli levegő észrevétlenül dehidratál."
+            ],
+            "ro": [
+              "Purtați haine stratificate și mănuși rezistente la vânt.",
+              "Verificați presiunea în pneuri; aerul rece o poate scădea.",
+              "Soarele apune în jur de 17:00; folosiți reflectorizante puternice.",
+              "Evitați drumurile forestiere umbrite, care rămân înghețate mai mult.",
+              "Beți suficient ceai; aerul uscat de iarnă deshidratează rapid."
+            ],
+            "en": [
+              "Wear layered clothing and windproof gloves.",
+              "Check your tire pressure; cold air often causes it to drop.",
+              "The sun sets around 5 PM; make sure your reflectors are visible.",
+              "Avoid shaded forest paths that may remain frozen longer.",
+              "Stay hydrated with warm tea; dry winter air can lead to dehydration."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -982,6 +1380,214 @@
           "The roads in Kaylaka Park can be narrow, drive carefully.",
           "A GPS is highly recommended for navigating between clusters."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein entspannter Regentag beginnt mit der Fahrt zum Mausoleum. Parkplätze im Zentrum sind vorhanden, aber bei Regen begehrt. Das Regionalmuseum ist nur eine kurze Fahrt entfernt.\n\nMittags steuern Sie das Panorama an. Der große Parkplatz direkt davor macht den Besuch bei Regen sehr komfortabel. Genießen Sie die Ausstellung, während draußen der Wolkenbruch niedergeht.\n\nNachmittags führt die Route durch den Skobelev-Park zum Kaylaka-Park. Das Weinmuseum in der Höhle ist perfekt mit dem Auto erreichbar, und Sie bleiben bis zum Eingang trocken.\n\nAbends parken Sie im Zentrum für das Abendessen. Die beleuchteten nassen Straßen von Plewen bieten eine schöne Kulisse für die Rückfahrt zum Hotel.",
+            "hu": "Kényelmes esős nap indul a Mauzóleumnál. A belvárosi parkolás ilyenkor népszerű, próbáljon korán érkezni. A Történeti Múzeum csak egy rövid autóút.\n\nDélben irány a Panoráma. A közvetlenül előtte található nagy parkoló esőben is kényelmessé teszi a látogatást. Élvezze a kiállítást, amíg odakint szakad az eső.\n\nDélután az út a Skobelev parkon át a Kaylaka parkba vezet. A Bormúzeum autóval is jól megközelíthető, így szinte szárazon juthat el a barlang bejáratáig.\n\nEste parkoljon le a belvárosban egy vacsorára. A kivilágított, vizes pleveni utcák látványa szép keretet ad a nap végének.",
+            "ro": "O zi relaxată pe ploaie începe cu drumul spre Mausoleu. Parcarea în centru este solicitată când plouă, deci veniți devreme. Muzeul Regional este la doar câteva minute distanță.\n\nLa prânz, mergeți spre Panoramă. Parcarea mare chiar în fața intrării face vizita foarte confortabilă pe ploaie. Bucurați-vă de expoziție în timp ce afară plouă torențial.\n\nDupă-amiaza, traseul trece prin parcul Skobelev spre parcul Kaylaka. Muzeul Vinului este accesibil cu mașina, permițându-vă să rămâneți uscați până la intrarea în peșteră.\n\nSeara, parcați în centru pentru cină. Străzile iluminate și ude ale Plevnei oferă un decor plăcut pentru drumul de întoarcere.",
+            "en": "A relaxed rainy day starts with a drive to the Mausoleum. Central parking is available but popular during wet weather. The Regional Museum is just a short drive away.\n\nAt midday, head to the Panorama. The large parking lot right in front makes it very convenient during heavy rain. Enjoy the indoor exhibit while the storm rages outside.\n\nIn the afternoon, drive through Skobelev Park towards Kaylaka. The Wine Museum is easily accessible by car, allowing you to stay dry until you reach the cave entrance.\n\nFinish your evening by parking in the center for dinner. The illuminated wet streets of Pleven provide a beautiful backdrop for your drive back."
+          },
+          "stops": [
+            {
+              "name": "St. George the Conqueror Mausoleum",
+              "tip_5lang": {
+                "de": "Parken Sie auf den markierten Plätzen in der Nähe der Danail-Popov-Allee.",
+                "hu": "Parkoljon a kijelölt helyeken a Danail Popov sugárút közelében.",
+                "ro": "Parcați în locurile marcate din apropierea bulevardului Danail Popov.",
+                "en": "Park in designated spots near Danail Popov Boulevard."
+              }
+            },
+            {
+              "name": "Water Cascade",
+              "tip_5lang": {
+                "de": "Parken Sie kurz am Rand für ein schnelles Foto bei Regen.",
+                "hu": "Parkoljon le rövid időre a szélén egy gyors fotó erejéig.",
+                "ro": "Parcați scurt pe margine pentru o fotografie rapidă pe ploaie.",
+                "en": "Park briefly nearby for a quick photo during a break in rain."
+              }
+            },
+            {
+              "name": "Regional Historical Museum",
+              "tip_5lang": {
+                "de": "Ausreichend Parkplätze an der Rückseite des Museums.",
+                "hu": "Elegendő parkolóhely található a múzeum hátsó részénél.",
+                "ro": "Locuri de parcare suficiente în spatele muzeului.",
+                "en": "Ample parking available at the rear of the museum building."
+              }
+            },
+            {
+              "name": "Pleven Panorama 1877",
+              "tip_5lang": {
+                "de": "Großer, kostenloser Parkplatz direkt am Eingang.",
+                "hu": "Nagy, ingyenes parkoló közvetlenül a bejáratnál.",
+                "ro": "Parcare mare, gratuită, chiar la intrare.",
+                "en": "Large free parking lot right at the main entrance."
+              }
+            },
+            {
+              "name": "Skobelev Park",
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den befestigten Parkflächen bei Regen.",
+                "hu": "Esőben maradjon a szilárd burkolatú parkolóhelyeken.",
+                "ro": "Rămâneți în zonele de parcare pavate pe timp de ploaie.",
+                "en": "Stick to paved parking areas during rainy conditions."
+              }
+            },
+            {
+              "name": "Kaylaka Park",
+              "tip_5lang": {
+                "de": "Die Zufahrtsstraße ist eng; achten Sie auf entgegenkommende Autos.",
+                "hu": "A bekötőút szűk; figyeljen a szembejövő autókra.",
+                "ro": "Drumul de acces este îngust; atenție la traficul din sens opus.",
+                "en": "Access road is narrow; watch for oncoming traffic."
+              }
+            },
+            {
+              "name": "Wine Museum",
+              "tip_5lang": {
+                "de": "Parken Sie am Hotel Kaylaka und gehen Sie 2 Minuten zu Fuß.",
+                "hu": "Parkoljon a Kaylaka Hotelnél, majd sétáljon 2 percet.",
+                "ro": "Parcați la Hotel Kaylaka și mergeți 2 minute pe jos.",
+                "en": "Park near Hotel Kaylaka and walk 2 minutes to the cave."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Park-App für die 'Grüne Zone' im Zentrum.",
+              "Vermeiden Sie das Parken unter alten Bäumen bei starkem Wind und Regen.",
+              "Die Sicht kann bei Nebel am Panorama-Hügel stark eingeschränkt sein.",
+              "Nutzen Sie die Scheibenheizung; die Luftfeuchtigkeit ist in Plewen hoch.",
+              "Die Tankstellen in Plewen bieten oft gute Cafés für kurze Stopps."
+            ],
+            "hu": [
+              "Használja a parkoló-alkalmazást a belvárosi 'Zöld Zónában'.",
+              "Kerülje az idős fák alatti parkolást erős szélben és esőben.",
+              "A Panoráma-dombon köd esetén a látótávolság jelentősen lecsökkenhet.",
+              "Használja a szélvédőfűtést; Plevenben magas a páratartalom esőben.",
+              "A pleveni benzinkutak kávézói jó megállóhelyek esőben."
+            ],
+            "ro": [
+              "Utilizați aplicația de parcare pentru 'Zona Verde' din centru.",
+              "Evitați parcarea sub arbori bătrâni pe vânt puternic și ploaie.",
+              "Vizibilitatea poate fi redusă pe dealul Panoramei în caz de ceață.",
+              "Folosiți dezaburirea; umiditatea este ridicată în Plevna pe ploaie.",
+              "Benzinăriile din Plevna au adesea cafenele bune pentru pauze scurte."
+            ],
+            "en": [
+              "Use the parking app for the 'Green Zone' in the city center.",
+              "Avoid parking under old trees during heavy wind and rain.",
+              "Visibility can be very low on the Panorama hill during fog.",
+              "Keep your wipers in good condition; humidity is high in Pleven.",
+              "Gas stations in Pleven often have decent cafes for quick breaks."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Wintermorgen beginnt mit der Fahrt zum frostigen Mausoleum. Dank der Sitzheizung ist die Stadtbesichtigung angenehm. Das Regionalmuseum ist gut beheizt und bietet Kultur im Warmen.\n\nMittags steigen Sie zum Panorama auf. Die Fahrt ist kurz, aber die Aussicht auf die verschneiten Dächer von Plewen vom warmen Auto aus ist herrlich. Im Inneren des Denkmals ist es gemütlich.\n\nDer Nachmittag im Kaylaka-Park zeigt die winterliche Natur von ihrer stillen Seite. Die Fahrt zum Weinmuseum ist unkompliziert. Die Höhle bietet Schutz vor dem kalten Winterwind.\n\nAbends fahren Sie zurück ins Zentrum. Die winterliche Beleuchtung der Stadt ist vom Auto aus wunderbar zu sehen, bevor Sie den Abend in einer warmen Mehana bei Kerzenschein ausklingen lassen.",
+            "hu": "Hűvös téli reggel indul a fagyos Mauzóleumnál. Az ülésfűtésnek köszönhetően a városnézés kényelmes marad. A Történeti Múzeum jól fűtött, ideális a kulturális programhoz.\n\nDélben irány a Panoráma. Az út rövid, az ablakon keresztül pedig csodás látványt nyújtanak Pleven havas háztetői. Az emlékhely belseje kellemesen meleg.\n\nDélután a Kaylaka park a természet csendes, téli arcát mutatja. A Bormúzeumhoz vezető út egyszerű, a barlang pedig tökéletes menedék a hideg szél elől.\n\nEste hajtson vissza a belvárosba. A kivilágított téli város látványa az autóból is remek, mielőtt egy gyertyafényes, meleg mehanában zárná a napot.",
+            "ro": "O dimineață răcoroasă de iarnă începe cu drumul spre Mausoleu. Grație încălzirii în scaune, vizita este plăcută. Muzeul Regional este bine încălzit și oferă cultură la adăpost.\n\nLa prânz, urcați la Panoramă. Drumul este scurt, iar vederea acoperișurilor înzăpezite din mașina caldă este superbă. Interiorul monumentului este primitor.\n\nDupă-amiaza în parcul Kaylaka dezvăluie natura în liniștea iernii. Drumul spre Muzeul Vinului este facil, iar peștera vă protejează de vântul tăios de iarnă.\n\nSeara, reveniți în centru. Iluminatul festiv al orașului se vede minunat din mașină înainte de a încheia ziua într-o 'mehana' caldă, la lumina lumânărilor.",
+            "en": "A crisp winter morning starts with a drive to the frosty Mausoleum. Enjoy the city sights from your warm vehicle. The Regional Museum is a great indoor stop with excellent heating.\n\nAt midday, drive up to the Panorama. The snowy rooftops of Pleven look beautiful from the hill, and the building's interior is comfortably warm.\n\nIn the afternoon, explore the quiet winter scenery of Kaylaka Park. The drive to the Wine Museum is straightforward, and the cave provides a nice break from the cold winds.\n\nReturn to the center in the evening. The festive city lights are a joy to see through the window before heading into a warm 'mehana' for a traditional dinner."
+          },
+          "stops": [
+            {
+              "name": "St. George the Conqueror Mausoleum",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stellen auf dem Parkplatz.",
+                "hu": "Figyeljen a jeges foltokra a parkolóban.",
+                "ro": "Atenție la porțiunile înghețate din parcare.",
+                "en": "Watch out for icy patches in the parking lot."
+              }
+            },
+            {
+              "name": "Water Cascade",
+              "tip_5lang": {
+                "de": "Ein kurzer Halt; genießen Sie den Anblick der gefrorenen Steine.",
+                "hu": "Rövid megálló; csodálja meg a fagyos köveket.",
+                "ro": "O scurtă oprire; admirați pietrele înghețate.",
+                "en": "A brief stop; admire the frozen textures of the stonework."
+              }
+            },
+            {
+              "name": "Regional Historical Museum",
+              "tip_5lang": {
+                "de": "Der Parkplatz wird im Winter meist gut geräumt.",
+                "hu": "A parkolót télen általában jól takarítják.",
+                "ro": "Parcarea este de obicei bine deszăpezită iarna.",
+                "en": "The parking lot is usually well-cleared of snow in winter."
+              }
+            },
+            {
+              "name": "Pleven Panorama 1877",
+              "tip_5lang": {
+                "de": "Die Zufahrt zum Hügel kann bei Glätte anspruchsvoll sein.",
+                "hu": "A dombra vezető út csúszós időben nehézkes lehet.",
+                "ro": "Accesul pe deal poate fi dificil în caz de polei.",
+                "en": "The uphill access road can be challenging in icy conditions."
+              }
+            },
+            {
+              "name": "Skobelev Park",
+              "tip_5lang": {
+                "de": "Parken Sie nicht auf unbefestigten Seitenstreifen (Matschgefahr).",
+                "hu": "Ne parkoljon a burkolatlan útpadkán (elakadásveszély).",
+                "ro": "Nu parcați pe acostamentul neamenajat (risc de noroi).",
+                "en": "Avoid parking on unpaved shoulders due to mud risk."
+              }
+            },
+            {
+              "name": "Kaylaka Park",
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig; im Tal ist es oft kälter und glatter.",
+                "hu": "Vezessen óvatosan; a völgyben gyakran hidegebb és csúszósabb az út.",
+                "ro": "Conduceți cu prudență; în vale este adesea mai rece și lunecos.",
+                "en": "Drive carefully; the valley is often colder and icier than the city."
+              }
+            },
+            {
+              "name": "Wine Museum",
+              "tip_5lang": {
+                "de": "Der kurze Fußweg vom Auto zur Höhle kann glatt sein.",
+                "hu": "Az autótól a barlangig tartó rövid séta csúszós lehet.",
+                "ro": "Scurta plimbare de la mașină la peșteră poate fi alunecoasă.",
+                "en": "The short walk from the car to the cave might be slippery."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in Bulgarien gesetzlich vorgeschrieben.",
+              "Führen Sie einen Eiskratzer mit; die Nächte in Plewen sind frostig.",
+              "Die Bergstraße zum Panorama wird bei starkem Schneefall zuletzt geräumt.",
+              "Achten Sie auf Fußgänger, die wegen Glätte auf die Straße ausweichen.",
+              "Batterieprüfung empfohlen; die Kälte kann ältere Akkus schwächen."
+            ],
+            "hu": [
+              "A téli gumi használata Bulgáriában kötelező.",
+              "Legyen Önnél jégkaparó; a pleveni éjszakák gyakran fagyosak.",
+              "A Panorámához vezető utat erős hóesésben utoljára takarítják.",
+              "Figyeljen a gyalogosokra, akik a csúszós járda miatt az útra léphetnek.",
+              "Ellenőrizze az akkumulátort; a hideg gyengítheti a régebbi telepeket."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii prin lege în Bulgaria.",
+              "Aveți la îndemână o racletă; nopțile în Plevna sunt geroase.",
+              "Drumul spre Panoramă este curățat ultimul în caz de ninsoare abundentă.",
+              "Atenție la pietonii care pot merge pe carosabil din cauza gheții.",
+              "Verificați bateria; frigul poate slăbi acumulatorii mai vechi."
+            ],
+            "en": [
+              "Winter tires are mandatory by law in Bulgaria.",
+              "Keep an ice scraper handy; nights in Pleven are often freezing.",
+              "The hill road to the Panorama is cleared last during heavy snow.",
+              "Watch for pedestrians walking on the road to avoid icy sidewalks.",
+              "Check your battery; extreme cold can drain older units quickly."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1250,6 +1856,196 @@
           "Ask locals for the correct bus line if you are unsure.",
           "Be aware that buses run less frequently in the evening."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag startet im Zentrum. Die Trolleybusse von Plewen sind zuverlässig und bringen Sie trocken zum Mausoleum und zum Regionalmuseum.\n\nMittags nutzen Sie die Linie zum Panorama-Hügel. Die Haltestelle bietet Schutz, und der kurze Fußweg zum Eingang ist bei Regen machbar. Das Panorama ist der ideale Ort, um dem Wetter zu entfliehen.\n\nNachmittags bringt Sie der Trolleybus Richtung Kaylaka-Park. Steigen Sie nah am Weinmuseum aus, um den Aufenthalt im Regen zu minimieren. Die Höhle ist absolut trocken.\n\nAm Abend kehren Sie mit dem Bus ins Stadtzentrum zurück. Genießen Sie die Fahrt durch die nassen Straßen und steigen Sie direkt in der Nähe Ihres bevorzugten Restaurants aus.",
+            "hu": "Esős nap indul a belvárosban. Pleven trolibuszai megbízhatóak, és szárazon juttatják el a Mauzóleumhoz és a Történeti Múzeumhoz.\n\nDélben használja a Panoráma-dombra induló járatot. A megállók fedettek, a rövid séta a bejáratig pedig elviselhető esőben is. A Panoráma tökéletes hely a menekülésre az időjárás elől.\n\nDélután trolival utazzon a Kaylaka park irányába. Szálljon le a Bormúzeumhoz legközelebbi megállónál. A barlang belsejében garantáltan száraz marad.\n\nEste busszal térjen vissza a városközpontba. Élvezze a kilátást a vizes utcákra a buszablakból, és szálljon le közvetlenül egy jó étterem közelében.",
+            "ro": "O zi ploioasă începe în centru. Troleibuzele din Plevna sunt de încredere și vă duc la Mausoleu și Muzeul Regional fără a vă uda.\n\nLa prânz, folosiți linia care urcă spre dealul Panoramei. Stația oferă adăpost, iar scurta plimbare până la intrare este gestionabilă. Panorama este refugiul ideal.\n\nDupă-amiaza, luați troleibuzul spre parcul Kaylaka. Coborâți cât mai aproape de Muzeul Vinului pentru a minimiza expunerea la ploaie. Peștera este perfect uscată.\n\nSeara, reveniți cu autobuzul în centrul orașului. Admirați străzile ude prin geam și coborâți direct lângă restaurantul ales pentru cină.",
+            "en": "A rainy day starts in the center. Pleven's trolleybuses are reliable and will keep you dry on your way to the Mausoleum and Regional Museum.\n\nAt midday, take the line up to the Panorama hill. The stops are covered, and the short walk to the entrance is manageable in the rain. The Panorama is the perfect escape.\n\nIn the afternoon, hop on a trolleybus towards Kaylaka Park. Get off as close to the Wine Museum as possible to stay dry. The cave interior is completely weather-proof.\n\nReturn to the center by bus in the evening. Enjoy the view of the wet streets from the warmth of the bus and disembark right near your dinner spot."
+          },
+          "stops": [
+            {
+              "name": "St. George the Conqueror Mausoleum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die zentralen Trolleybus-Haltestellen am Freiheitsplatz.",
+                "hu": "Használja a Szabadság téri központi trolibuszmegállókat.",
+                "ro": "Utilizați stațiile centrale de troleibuz din Piața Libertății.",
+                "en": "Use the central trolleybus stops at Freedom Square."
+              }
+            },
+            {
+              "name": "Water Cascade",
+              "tip_5lang": {
+                "de": "Die Haltestelle 'Obshtina' ist nur wenige Schritte entfernt.",
+                "hu": "Az 'Obshtina' megálló mindössze pár lépésre található.",
+                "ro": "Stația 'Obștina' este la doar câțiva pași distanță.",
+                "en": "The 'Obshtina' stop is only a few steps away from the fountains."
+              }
+            },
+            {
+              "name": "Regional Historical Museum",
+              "tip_5lang": {
+                "de": "Die Linien 1 und 7 halten direkt in der Nähe.",
+                "hu": "Az 1-es és 7-es trolik közvetlenül a közelben állnak meg.",
+                "ro": "Liniile 1 și 7 opresc chiar în apropiere.",
+                "en": "Trolleybus lines 1 and 7 stop right near the museum entrance."
+              }
+            },
+            {
+              "name": "Pleven Panorama 1877",
+              "tip_5lang": {
+                "de": "Die Haltestelle liegt am Fuß des Hügels; kurzer, nasser Aufstieg.",
+                "hu": "A megálló a domb alján van; rövid, vizes séta felfelé.",
+                "ro": "Stația este la baza dealului; urcuș scurt și umed.",
+                "en": "The stop is at the hill's base; expect a short, wet climb."
+              }
+            },
+            {
+              "name": "Skobelev Park",
+              "tip_5lang": {
+                "de": "Unterstände an den Haltestellen schützen beim Warten.",
+                "hu": "A megállók várótermei védenek várakozás közben.",
+                "ro": "Refugiile din stații vă protejează în timp ce așteptați.",
+                "en": "Bus shelters provide good protection while waiting."
+              }
+            },
+            {
+              "name": "Kaylaka Park",
+              "tip_5lang": {
+                "de": "Endstation der Linie 1; idealer Startpunkt im Trockenen.",
+                "hu": "Az 1-es troli végállomása; ideális és fedett kiindulópont.",
+                "ro": "Capătul liniei 1; punct de plecare ideal și adăpostit.",
+                "en": "Terminus of line 1; a perfect sheltered starting point."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie Fahrkarten im Bus oder an Kiosken.",
+              "Die Trolleybusse verkehren alle 10-15 Minuten.",
+              "Meiden Sie die Stoßzeiten, um einen trockenen Sitzplatz zu bekommen.",
+              "Haltestellenanzeigen im Bus helfen bei der Orientierung bei Regen.",
+              "Die Linie 1 verbindet fast alle wichtigen Sehenswürdigkeiten."
+            ],
+            "hu": [
+              "Vásároljon jegyet a buszon vagy a kioszkokban.",
+              "A trolibuszok 10-15 percenként közlekednek.",
+              "Kerülje a csúcsidőt, hogy biztosan kapjon ülőhelyet.",
+              "A buszon lévő kijelzők segítenek a tájékozódásban esőben is.",
+              "Az 1-es vonal szinte minden fontos látnivalót összeköt."
+            ],
+            "ro": [
+              "Cumpărați bilete din autobuz sau de la chioșcuri.",
+              "Troleibuzele circulă la fiecare 10-15 minute.",
+              "Evitați orele de vârf pentru a găsi un loc așezat și uscat.",
+              "Afișajele din interiorul autobuzelor ajută la orientare pe ploaie.",
+              "Linia 1 face legătura între aproape toate punctele de interes."
+            ],
+            "en": [
+              "Purchase tickets inside the bus or at designated kiosks.",
+              "Trolleybuses run frequently, every 10-15 minutes.",
+              "Avoid peak hours to ensure you get a dry seat.",
+              "Digital displays inside help with orientation during heavy rain.",
+              "Line 1 connects almost all the major tourist attractions."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen beginnt mit einer warmen Trolleybusfahrt ins Zentrum. Besuchen Sie das Mausoleum und wärmen Sie sich danach im Regionalmuseum auf, das gut an das Netz angebunden ist.\n\nMittags nehmen Sie die Linie zum Panorama. Die geheizten Busse sind eine Wohltat gegen den Winterwind. Der Blick auf das verschneite Plewen aus dem Busfenster ist malerisch.\n\nNachmittags geht es weiter zum Kaylaka-Park. Die Trolleybusse fahren regelmäßig bis zum Parkeingang. Das Weinmuseum in der Höhle bietet eine konstante, angenehme Temperatur im Frost.\n\nAm frühen Abend kehren Sie ins Zentrum zurück. Die festliche Beleuchtung der Stadt glänzt in der Winterdunkelheit, während Sie bequem zum Abendessen fahren.",
+            "hu": "Fagyos reggel indul egy meleg trolibuszos utazással a belvárosba. Látogassa meg a Mauzóleumot, majd melegedjen fel a Történeti Múzeumban, amely könnyen elérhető járattal.\n\nDélben utazzon a Panorámához. A fűtött buszok igazi felüdülést jelentenek a téli szélben. A havas Pleven látványa a buszablakból festői.\n\nDélután folytassa útját a Kaylaka parkhoz. A trolik rendszeresen járnak a park bejáratáig. A Bormúzeum barlangja télen is kellemes klímát biztosít a kinti fagyok helyett.\n\nKora este térjen vissza a belvárosba. A város ünnepi fényei ragyognak a téli sötétségben, miközben kényelmesen utazik a vacsora helyszínére.",
+            "ro": "O dimineață geroasă începe cu o călătorie caldă cu troleibuzul spre centru. Vizitați Mausoleul și apoi încălziți-vă în Muzeul Regional, bine conectat la rețea.\n\nLa prânz, luați linia spre Panoramă. Autobuzele încălzite sunt o binecuvântare împotriva vântului de iarnă. Vederea Plevnei înzăpezite prin fereastra troleibuzului este pitorească.\n\nDupă-amiaza, continuați spre parcul Kaylaka. Troleibuzele circulă regulat până la intrarea în parc. Muzeul Vinului din peșteră oferă o temperatură constantă și plăcută.\n\nSeara devreme, reveniți în centru. Luminile festive ale orașului strălucesc în întunericul iernii în timp ce călătoriți confortabil spre cină.",
+            "en": "A frosty morning begins with a warm trolleybus ride to the center. Visit the Mausoleum and then warm up in the Regional Museum, which is easily accessible by transit.\n\nAt midday, take the bus up to the Panorama. Heated trolleybuses provide a great relief from the winter wind. The snowy views of Pleven from the window are very scenic.\n\nIn the afternoon, head to Kaylaka Park. Trolleybuses run frequently to the park entrance. The Wine Museum cave offers a much milder temperature than the freezing outside air.\n\nEarly evening, return to the center. The festive city lights shine brightly in the winter darkness as you head comfortably toward your dinner destination."
+          },
+          "stops": [
+            {
+              "name": "St. George the Conqueror Mausoleum",
+              "tip_5lang": {
+                "de": "Zentrale Haltestellen sind oft schneefrei und gut beleuchtet.",
+                "hu": "A központi megállók általában hómentesek és jól kivilágítottak.",
+                "ro": "Stațiile centrale sunt de obicei curățate de zăpadă și bine luminate.",
+                "en": "Central stops are usually cleared of snow and well-lit."
+              }
+            },
+            {
+              "name": "Water Cascade",
+              "tip_5lang": {
+                "de": "Vorsicht beim Aussteigen; die Gehwege am Rathaus können glatt sein.",
+                "hu": "Vigyázat leszálláskor; a városháza melletti járdák csúszósak lehetnek.",
+                "ro": "Atenție la coborâre; trotuarele de lângă primărie pot fi alunecoase.",
+                "en": "Careful when stepping off; sidewalks near the city hall can be icy."
+              }
+            },
+            {
+              "name": "Regional Historical Museum",
+              "tip_5lang": {
+                "de": "Kurzer Weg von der Haltestelle minimiert die Zeit in der Kälte.",
+                "hu": "A megállótól tartó rövid séta minimalizálja a hidegben töltött időt.",
+                "ro": "Distanța scurtă de la stație reduce timpul petrecut în frig.",
+                "en": "A short walk from the stop minimizes time spent in the cold."
+              }
+            },
+            {
+              "name": "Pleven Panorama 1877",
+              "tip_5lang": {
+                "de": "Warten Sie im beheizten Vorraum auf den nächsten Bus zurück.",
+                "hu": "Várja a következő visszajáratot a Panoráma fűtött előterében.",
+                "ro": "Așteptați următorul autobuz în vestibulul încălzit al Panoramei.",
+                "en": "Wait for the returning bus inside the Panorama's heated foyer."
+              }
+            },
+            {
+              "name": "Skobelev Park",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Haltestellen direkt am Parkeingang.",
+                "hu": "Használja közvetlenül a park bejáratánál lévő megállókat.",
+                "ro": "Folosiți stațiile situate direct la intrarea în parc.",
+                "en": "Use the stops located directly at the park entrance."
+              }
+            },
+            {
+              "name": "Kaylaka Park",
+              "tip_5lang": {
+                "de": "Die Trolleybusse sind im Winter gut beheizt.",
+                "hu": "A trolibuszokat télen jól fűtik.",
+                "ro": "Troleibuzele sunt bine încălzite în timpul iernii.",
+                "en": "Trolleybuses are well-heated during the winter months."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrpläne können bei extremem Schneefall leicht verzögert sein.",
+              "Tragen Sie warme Schuhe; das Warten an Haltestellen kann kalt sein.",
+              "Nutzen Sie die App 'Pleven City Transport' für Echtzeit-Infos.",
+              "Die Trolleybusse in Plewen sind eine der saubersten und wärmsten in Bulgarien.",
+              "Letzte Rückfahrten vom Kaylaka-Park sind gegen 21:00 Uhr; prüfen Sie den Plan."
+            ],
+            "hu": [
+              "Erős hóesésben a menetrend kismértékben módosulhat.",
+              "Viseljen meleg lábbelit; a megállókban a várakozás hideg lehet.",
+              "Használja a 'Pleven City Transport' alkalmazást a valós idejű infókért.",
+              "A pleveni trolik az egyik legtisztábbak és legmelegebbek Bulgáriában.",
+              "Az utolsó járatok a Kaylaka parkból 21:00 körül indulnak; ellenőrizze a tervet."
+            ],
+            "ro": [
+              "Orarele pot avea mici întârzieri în caz de ninsoare abundentă.",
+              "Purtați încălțăminte călduroasă; așteptarea în stații poate fi rece.",
+              "Utilizați aplicația 'Pleven City Transport' pentru info în timp real.",
+              "Troleibuzele din Plevna sunt printre cele mai curate și calde din Bulgaria.",
+              "Ultimele curse din parcul Kaylaka sunt în jur de ora 21:00; verificați programul."
+            ],
+            "en": [
+              "Schedules may be slightly delayed during heavy snowfall.",
+              "Wear warm footwear; waiting at stops can be chilly.",
+              "Use the 'Pleven City Transport' app for real-time tracking.",
+              "Pleven's trolleybuses are among the cleanest and warmest in Bulgaria.",
+              "The last return trips from Kaylaka Park are around 9 PM; check the schedule."
+            ]
+          }
+        }
       }
     }
   }

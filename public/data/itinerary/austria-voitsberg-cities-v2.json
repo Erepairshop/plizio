@@ -379,6 +379,206 @@
           "Most sights in the center are easily within walking distance.",
           "Allow plenty of time at the castle ruins to enjoy the view."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag am Hauptplatz, wo die Arkaden Schutz bieten. Mittags laden die Stadtpfarrkirche und das Arik-Brauer-Haus zu einer trockenen Besichtigung ein. Der Nachmittag an der Burgruine Obervoitsberg erfordert festes Schuhwerk wegen der rutschigen Wege. Den Abend lassen Sie gemütlich beim Schloss Greißenegg ausklingen, ideal bei sanftem Regen.",
+            "hu": "Kezdje a napot a Fő téren, ahol az árkádok alatt menedéket találhat. Délben a plébániatemplom és az Arik Brauer-ház kínál fedett kulturális élményt. Délután az Obervoitsberg várromnál óvatosan közlekedjen a csúszós ösvényeken. Az estét a Greißenegg-kastély közelében zárja, amely esőben is romantikus látványt nyújt.",
+            "ro": "Începeți ziua în Piața Principală, folosind arcadele pentru adăpost. La prânz, biserica parohială și Casa Arik Brauer oferă un refugiu cultural uscat. După-amiaza la ruinele castelului Obervoitsberg necesită încălțăminte aderentă pe potecile umede. Încheiați seara lângă Castelul Greißenegg, într-o atmosferă liniștită de ploaie.",
+            "en": "Start your day at the Main Square, utilizing the arcades for cover. At noon, the Parish Church and Arik Brauer House provide a dry cultural escape. The afternoon visit to the Obervoitsberg ruins requires sturdy shoes for the slippery paths. End your evening near Greißenegg Castle, which remains atmospheric even in the rain."
+          },
+          "stops": [
+            {
+              "name": "Voitsberg Main Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkadengänge der Geschäfte als Regenschutz.",
+                "hu": "Használja az üzletek árkádjait eső elleni védelemként.",
+                "ro": "Folosiți arcadele magazinelor pentru a vă proteja de ploaie.",
+                "en": "Use the shop arcades as shelter from the drizzle."
+              }
+            },
+            {
+              "name": "Parish Church of St. Joseph",
+              "tip_5lang": {
+                "de": "Idealer Ort, um die Regenschauer im Inneren abzuwarten.",
+                "hu": "Ideális hely a záporok megvárására a belső térben.",
+                "ro": "Loc ideal pentru a aștepta trecerea ploii în interior.",
+                "en": "Perfect place to wait out a heavy shower inside."
+              }
+            },
+            {
+              "name": "Arik Brauer House",
+              "tip_5lang": {
+                "de": "Bewundern Sie die farbenfrohe Fassade unter Ihrem Schirm.",
+                "hu": "Csodálja meg a színes homlokzatot az esernyője alól.",
+                "ro": "Admirați fațada colorată de sub protecția umbrelei.",
+                "en": "Admire the colorful facade from under your umbrella."
+              }
+            },
+            {
+              "name": "St. Michael's Church",
+              "tip_5lang": {
+                "de": "Ein kurzer, trockener Zwischenstopp in historischem Ambiente.",
+                "hu": "Rövid, száraz pihenő történelmi környezetben.",
+                "ro": "O scurtă oprire uscată într-un cadru istoric.",
+                "en": "A brief, dry stop in a historic atmosphere."
+              }
+            },
+            {
+              "name": "Holy Well",
+              "tip_5lang": {
+                "de": "Vorsicht, die Stufen zum Brunnen können bei Nässe glatt sein.",
+                "hu": "Vigyázat, a kúthoz vezető lépcsők nedvesen csúszhatnak.",
+                "ro": "Atenție, treptele spre fântână pot fi alunecoase.",
+                "en": "Caution, the steps to the well can be slippery when wet."
+              }
+            },
+            {
+              "name": "Obervoitsberg Castle Ruins",
+              "tip_5lang": {
+                "de": "Der Boden ist lehmig; bleiben Sie auf den befestigten Wegen.",
+                "hu": "A talaj agyagos; maradjon a kiépített ösvényeken.",
+                "ro": "Solul este noroios; rămâneți pe potecile amenajate.",
+                "en": "The ground is clayey; stick to the paved paths."
+              }
+            },
+            {
+              "name": "Greißenegg Castle",
+              "tip_5lang": {
+                "de": "Das Schlossareal wirkt im Nebel besonders mystisch.",
+                "hu": "A kastélykert ködben különösen misztikus látványt nyújt.",
+                "ro": "Zona castelului pare mistică în condiții de ceață.",
+                "en": "The castle grounds look particularly mystical in the mist."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Regenschirm ist wegen der Windböen am Burgberg ratsam.",
+              "Die Cafés am Hauptplatz bieten gemütliche Rückzugsorte.",
+              "Tragen Sie wasserfeste Wanderschuhe für den Aufstieg zur Ruine.",
+              "Achten Sie auf das Kopfsteinpflaster, es wird bei Nässe rutschig."
+            ],
+            "hu": [
+              "A várhegyi széllökések miatt ajánlott egy strapabíró esernyő.",
+              "A Fő tér kávézói kellemes menedéket nyújtanak a záporok elől.",
+              "A várromhoz vezető úthoz vízálló túrabakancs javasolt.",
+              "Figyeljen a macskakőre, mert nedvesen rendkívül csúszós."
+            ],
+            "ro": [
+              "O umbrelă rezistentă este recomandată din cauza vântului de pe deal.",
+              "Cafenelele din Piața Principală sunt refugii primitoare.",
+              "Purtați încălțăminte impermeabilă pentru urcarea la ruine.",
+              "Atenție la pavajul din piatră, devine alunecos când este ud."
+            ],
+            "en": [
+              "A sturdy umbrella is recommended due to wind gusts on the hill.",
+              "Cafes at the Main Square offer cozy retreats from the rain.",
+              "Wear waterproof hiking boots for the climb to the ruins.",
+              "Watch your step on cobblestones, as they become very slippery."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie das winterliche Voitsberg am frostigen Hauptplatz. Mittags wärmen Sie sich in den kunstvoll gestalteten Kirchen auf. Der Aufstieg zur Burgruine Obervoitsberg bietet bei klarer Luft eine weite Fernsicht über die Weststeiermark. Da es früh dunkel wird, sorgt die Beleuchtung von Schloss Greißenegg für einen stimmungsvollen Abschluss des Spaziergangs.",
+            "hu": "Fedezze fel a téli Voitsberget a fagyos Fő téren kezdve. Napközben a művészien díszített templomok belső tereiben melegedhet fel. Az Obervoitsberg várromhoz vezető út tiszta időben pazar kilátást nyújt Nyugat-Stájerországra. Mivel korán sötétedik, a Greißenegg-kastély esti kivilágítása teszi teljessé a sétát.",
+            "ro": "Experimentați Voitsbergul iarna, începând din piața înghețată. În timpul zilei, încălziți-vă în interiorul bisericilor decorate artistic. Urcarea la ruinele Obervoitsberg oferă o priveliște clară asupra Stiriei de Vest. Deoarece se întunecă devreme, iluminarea Castelului Greißenegg oferă un final atmosferic plimbării.",
+            "en": "Experience winter in Voitsberg starting at the frosty Main Square. During the day, warm up inside the artistically decorated churches. The climb to the Obervoitsberg ruins offers clear, far-reaching views over West Styria. As darkness falls early, the evening lights of Greißenegg Castle provide a scenic end to your walk."
+          },
+          "stops": [
+            {
+              "name": "Voitsberg Main Square",
+              "tip_5lang": {
+                "de": "Genießen Sie die winterliche Beleuchtung und den kalten Wind.",
+                "hu": "Élvezze a téli kivilágítást és a friss, hideg levegőt.",
+                "ro": "Bucurați-vă de iluminatul de iarnă și de aerul rece.",
+                "en": "Enjoy the winter lights and the crisp, cold air."
+              }
+            },
+            {
+              "name": "Parish Church of St. Joseph",
+              "tip_5lang": {
+                "de": "Nutzen Sie den windgeschützten Innenraum zum Aufwärmen.",
+                "hu": "Használja a szélvédett belső teret egy kis melegedésre.",
+                "ro": "Folosiți interiorul ferit de vânt pentru a vă încălzi.",
+                "en": "Use the sheltered interior to warm up for a few minutes."
+              }
+            },
+            {
+              "name": "Arik Brauer House",
+              "tip_5lang": {
+                "de": "Die Farben wirken im Kontrast zum weißen Schnee besonders stark.",
+                "hu": "A színek különösen élénkek a fehér hóval szemben.",
+                "ro": "Culorile par intense în contrast cu zăpada albă.",
+                "en": "The colors look vibrant against the contrast of white snow."
+              }
+            },
+            {
+              "name": "St. Michael's Church",
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen geschichtsträchtigen Ort in winterlicher Ruhe.",
+                "hu": "Látogassa meg ezt a történelmi helyet a téli csendben.",
+                "ro": "Vizitați acest loc istoric în liniștea iernii.",
+                "en": "Visit this historic site in the peaceful winter quiet."
+              }
+            },
+            {
+              "name": "Holy Well",
+              "tip_5lang": {
+                "de": "Der Brunnen ist im Winter oft vereist, ein schöner Fotospot.",
+                "hu": "A kút télen gyakran jeges, kiváló fotótéma.",
+                "ro": "Fântâna este adesea înghețată iarna, un punct bun de poze.",
+                "en": "The well is often icy in winter, making for a great photo."
+              }
+            },
+            {
+              "name": "Obervoitsberg Castle Ruins",
+              "tip_5lang": {
+                "de": "Vorsicht vor Eisglätte auf den steilen Wegen zur Ruine.",
+                "hu": "Vigyázzon a jegesedésre a várromhoz vezető meredek úton.",
+                "ro": "Atenție la gheață pe potecile abrupte spre ruine.",
+                "en": "Watch out for icy patches on the steep paths to the ruins."
+              }
+            },
+            {
+              "name": "Greißenegg Castle",
+              "tip_5lang": {
+                "de": "Planen Sie den Besuch vor 16:30 Uhr, um das Tageslicht zu nutzen.",
+                "hu": "Tervezze a látogatást 16:30 előtt a nappali fény miatt.",
+                "ro": "Planificați vizita înainte de 16:30 pentru lumină naturală.",
+                "en": "Plan your visit before 16:30 to utilize the remaining daylight."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich nach dem Zwiebelprinzip für kalte Winde.",
+              "Die Sonne geht im Dezember bereits gegen 16:15 Uhr unter.",
+              "Ein Thermo-Becher mit Tee ist für den Burgberg ideal.",
+              "Achten Sie auf Streusalz, das die Schuhe angreifen kann."
+            ],
+            "hu": [
+              "Öltözzön rétegesen a hideg várhegyi szelek ellen.",
+              "A nap decemberben már 16:15 körül lemegy.",
+              "Egy termosz meleg tea ideális társ a várrom felfedezéséhez.",
+              "Vigyázzon az útszóró sóra, amely károsíthatja a cipőjét."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi pentru vântul rece de pe deal.",
+              "Soarele apune în decembrie deja în jurul orei 16:15.",
+              "Un termos cu ceai cald este ideal pentru vizita la castel.",
+              "Atenție la sarea de pe drumuri care poate afecta încălțămintea."
+            ],
+            "en": [
+              "Dress in layers to protect against cold winds on the hill.",
+              "The sun sets as early as 16:15 in December.",
+              "A thermos with hot tea is ideal for the castle hill climb.",
+              "Be aware of road salt which can damage leather shoes."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -729,6 +929,188 @@
           "Bring a lock to secure your bike at the stops.",
           "The paths can be steep in places, so a good level of fitness is an advantage."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Regenfahrt durch Voitsberg startet vorsichtig am Hauptplatz. Die Fahrt zu den Kirchen erfordert Aufmerksamkeit auf nassen Schienen und Markierungen. Der Anstieg zur Ruine Obervoitsberg kann auf unbefestigten Abschnitten rutschig sein. Nach einem Stopp in Tregist radeln Sie zum Schloss Greißenegg, wobei Regenponchos und Schutzbleche Ihre besten Begleiter sind.",
+            "hu": "Az esős voitsbergi biciklizés óvatosan indul a Fő téren. A templomok felé vezető úton figyeljen a nedves aszfaltra és a felfestésekre. Az Obervoitsberg várromhoz vezető emelkedő a nem aszfaltozott szakaszokon csúszós lehet. Tregist után a Greißenegg-kastély felé vegye az irányt, ahol a sárvédő és az esőponcsó nélkülözhetetlen.",
+            "ro": "O plimbare cu bicicleta prin Voitsberg pe ploaie începe cu prudență în centru. Drumul spre biserici necesită atenție la marcajele rutiere umede. Urcarea spre Obervoitsberg poate fi alunecoasă pe porțiunile neasfaltate. După Tregist, pedalați spre Castelul Greißenegg, pelerina de ploaie fiind esențială.",
+            "en": "A rainy cycle through Voitsberg starts cautiously at the Main Square. The ride to the churches requires focus on wet road markings. The climb to Obervoitsberg ruins can be slippery on unpaved sections. After Tregist, head towards Greißenegg Castle, where mudguards and ponchos are your best friends."
+          },
+          "stops": [
+            {
+              "name": "Main Square & City Center",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor dem Start im Stadtverkehr.",
+                "hu": "Indulás előtt ellenőrizze a fékeket a városi forgalomban.",
+                "ro": "Verificați frânele înainte de a porni în trafic.",
+                "en": "Check your brakes before starting in the city traffic."
+              }
+            },
+            {
+              "name": "Parish Church & St. Michael's Church",
+              "tip_5lang": {
+                "de": "Suchen Sie unter Vordächern Schutz beim Anschließen der Räder.",
+                "hu": "Keresse az előtetőket a biciklik lezárásakor.",
+                "ro": "Căutați copertine când parcați și încuiați bicicletele.",
+                "en": "Look for awnings when locking your bikes."
+              }
+            },
+            {
+              "name": "Obervoitsberg Castle Ruins",
+              "tip_5lang": {
+                "de": "Vermeiden Sie bei starkem Regen steile, unbefestigte Abkürzungen.",
+                "hu": "Heves esőben kerülje a meredek, földutas rövidítéseket.",
+                "ro": "Evitați scurtăturile abrupte neasfaltate pe ploaie torențială.",
+                "en": "Avoid steep, unpaved shortcuts during heavy rain."
+              }
+            },
+            {
+              "name": "Tregist Village Chapel",
+              "tip_5lang": {
+                "de": "Die Dorfstraße kann bei Nässe durch Landwirtschaft verschmutzt sein.",
+                "hu": "A falusi út nedvesen saras lehet a mezőgazdasági gépektől.",
+                "ro": "Drumul rural poate fi noroios din cauza utilajelor agricole.",
+                "en": "The village road may be muddy due to farm machinery."
+              }
+            },
+            {
+              "name": "Greißenegg Castle",
+              "tip_5lang": {
+                "de": "Vorsicht in den Kurven bei der Abfahrt vom Schlossberg.",
+                "hu": "Óvatosan a kanyarokban a várhegyről lefelé jövet.",
+                "ro": "Atenție în curbe la coborârea de pe dealul castelului.",
+                "en": "Exercise caution in bends when descending from the hill."
+              }
+            },
+            {
+              "name": "Arik Brauer House",
+              "tip_5lang": {
+                "de": "Kurzer Stopp für ein Foto, bevor es zurück ins Trockene geht.",
+                "hu": "Gyors fotómegálló, mielőtt visszatérne a fedett helyekre.",
+                "ro": "Oprire scurtă pentru poze înainte de a merge la adăpost.",
+                "en": "Brief photo stop before heading back to a dry spot."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind bei diesem Wetter zwingend erforderlich.",
+              "Reduzieren Sie den Reifendruck leicht für besseren Grip.",
+              "Tragen Sie auffällige Neonkleidung wegen der schlechten Sicht.",
+              "Bedenken Sie den längeren Bremsweg auf nassem Asphalt."
+            ],
+            "hu": [
+              "A sárvédő használata ilyen időben kötelező.",
+              "Csökkentse kissé a guminyomást a jobb tapadásért.",
+              "Viseljen feltűnő ruházatot a rossz látási viszonyok miatt.",
+              "Számoljon a hosszabb féktávval a nedves aszfalton."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt obligatorii pe această vreme.",
+              "Reduceți ușor presiunea în pneuri pentru o aderență mai bună.",
+              "Purtați haine reflectorizante din cauza vizibilității reduse.",
+              "Luați în calcul o distanță de frânare mai mare pe asfalt ud."
+            ],
+            "en": [
+              "Mudguards are absolutely essential in this weather.",
+              "Slightly reduce tire pressure for better grip on wet roads.",
+              "Wear high-visibility clothing due to poor visibility.",
+              "Account for longer braking distances on wet asphalt."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterradeln in Voitsberg beginnt frisch am Hauptplatz. Die Route führt Sie an den historischen Kirchen vorbei, wobei Sie auf überfrierende Nässe achten sollten. Der Anstieg zur Burgruine hält Sie warm, doch die Abfahrten erfordern winddichte Kleidung. Über Tregist geht es zum stimmungsvoll beleuchteten Schloss Greißenegg, bevor Sie den Tag am farbenfrohen Arik-Brauer-Haus beenden.",
+            "hu": "A téli kerékpározás Voitsbergben frissen indul a Fő téren. Az út a történelmi templomok mellett visz, ahol figyelni kell a lefagyásokra. A várromhoz vezető emelkedő melegen tartja, de a lejtőkön szélálló ruházatra lesz szüksége. Tregist érintésével érkezik a kivilágított Greißenegg-kastélyhoz, majd a napot az Arik Brauer-háznál zárja.",
+            "ro": "Ciclismul de iarnă în Voitsberg începe viguros în centru. Traseul trece pe lângă biserici, unde trebuie să fiți atenți la polei. Urcarea spre ruine vă va încălzi, dar coborârile necesită haine rezistente la vânt. Prin Tregist ajungeți la castelul iluminat, încheind ziua la Casa Arik Brauer.",
+            "en": "Winter cycling in Voitsberg starts briskly at the Main Square. The route takes you past historic churches, where you should watch for black ice. The climb to the ruins keeps you warm, but descents require windproof gear. Pass through Tregist to the illuminated castle, ending your day at the colorful Arik Brauer House."
+          },
+          "stops": [
+            {
+              "name": "Main Square & City Center",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis in schattigen Gassen der Altstadt.",
+                "hu": "Figyeljen a jegesedésre az óváros árnyékos utcáiban.",
+                "ro": "Atenție la porțiunile cu gheață în zonele umbrite.",
+                "en": "Watch out for black ice in the shaded old town alleys."
+              }
+            },
+            {
+              "name": "Parish Church & St. Michael's Church",
+              "tip_5lang": {
+                "de": "Nutzen Sie den kurzen Fußweg zur Kirche zur Durchblutung.",
+                "hu": "A templomhoz vezető rövid séta segít a vérkeringésnek.",
+                "ro": "Scurta plimbare spre biserică ajută la circulație.",
+                "en": "The short walk to the church helps restore circulation."
+              }
+            },
+            {
+              "name": "Obervoitsberg Castle Ruins",
+              "tip_5lang": {
+                "de": "Besonders exponierte Stellen können sehr windig und kalt sein.",
+                "hu": "A nyitott részeken nagyon erős és hideg lehet a szél.",
+                "ro": "Zonele expuse pot fi foarte vântoase și reci.",
+                "en": "Exposed areas can be very windy and cold."
+              }
+            },
+            {
+              "name": "Tregist Village Chapel",
+              "tip_5lang": {
+                "de": "Prüfen Sie vor der Weiterfahrt den Zustand der Nebenstraßen.",
+                "hu": "Folytatás előtt ellenőrizze a mellékutak állapotát.",
+                "ro": "Verificați starea drumurilor secundare înainte de a continua.",
+                "en": "Check the condition of side roads before continuing."
+              }
+            },
+            {
+              "name": "Greißenegg Castle",
+              "tip_5lang": {
+                "de": "Die Kälte zehrt an den Akkus von E-Bikes; rechtzeitig planen.",
+                "hu": "A hideg gyorsabban meríti az e-bike akkumulátorát.",
+                "ro": "Frigul afectează bateria bicicletelor electrice; planificați.",
+                "en": "Cold weather drains e-bike batteries faster; plan accordingly."
+              }
+            },
+            {
+              "name": "Arik Brauer House",
+              "tip_5lang": {
+                "de": "Beleuchtung an! In der Dämmerung ist gute Sichtbarkeit alles.",
+                "hu": "Lámpákat fel! A szürkületben a láthatóság a legfontosabb.",
+                "ro": "Aprindeți luminile! Vizibilitatea este crucială la amurg.",
+                "en": "Lights on! Visibility is everything in the winter twilight."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterfeste Handschuhe und Ohrenschutz sind unverzichtbar.",
+              "Achten Sie auf Streusplitt in den Kurven (Rutschgefahr).",
+              "Die Dunkelheit bricht im Winter bereits ab 16:30 Uhr ein.",
+              "Halten Sie die Kette gut geölt, um sie vor Salz zu schützen."
+            ],
+            "hu": [
+              "A téli kesztyű és a fülvédő használata elengedhetetlen.",
+              "Vigyázzon az útszóró kavicsra a kanyarokban (csúszásveszély).",
+              "Télen már 16:30-tól jelentősen romlanak a látási viszonyok.",
+              "Tartsa a láncot jól olajozottan a só elleni védelem érdekében."
+            ],
+            "ro": [
+              "Mănușile de iarnă și protecția pentru urechi sunt vitale.",
+              "Atenție la pietrișul antiderapant în curbe (risc de derapare).",
+              "Întunericul se lasă în timpul iernii deja de la ora 16:30.",
+              "Păstrați lanțul bine uns pentru a-l proteja de sare."
+            ],
+            "en": [
+              "Winter-proof gloves and ear protection are indispensable.",
+              "Watch out for grit in corners (risk of sliding).",
+              "Darkness sets in as early as 16:30 during winter months.",
+              "Keep the chain well-oiled to protect it from road salt."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1085,6 +1467,188 @@
           "The cluster philosophy saves time and stress when looking for parking.",
           "Check the opening hours of castles and ruins online before your visit."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Genießen Sie Voitsberg trocken vom Auto aus. Starten Sie im Zentrum, wo Parkplätze nahe den Sehenswürdigkeiten liegen. Die kurzen Wege zur Stadtpfarrkirche und zum Arik-Brauer-Haus minimieren den Kontakt mit dem Regen. Der Castle Hill und der Heilige Brunnen sind bequem erreichbar, bevor Sie zum Schloss Greißenegg fahren, das auch bei grauem Wetter imposant wirkt.",
+            "hu": "Élvezze Voitsberget szárazon, az autóból. Kezdje a központban, ahol a parkolók közel vannak a látnivalókhoz. A plébániatemplomhoz és az Arik Brauer-házhoz vezető rövid séta minimálisra csökkenti az esővel való érintkezést. A Várhegy és a Szent kút kényelmesen elérhető, mielőtt a szürke időben is impozáns Greißenegg-kastélyhoz hajtana.",
+            "ro": "Bucurați-vă de Voitsberg stând la uscat în mașină. Începeți în centru, unde parcările sunt aproape de obiective. Scurtele plimbări spre biserică și Casa Arik Brauer minimizează contactul cu ploaia. Dealul Castelului și Fântâna Sfântă sunt ușor accesibile înainte de a merge la Castelul Greißenegg.",
+            "en": "Enjoy Voitsberg while staying dry in your car. Start in the center, where parking is located close to the sights. Short walks to the Parish Church and Arik Brauer House minimize rain exposure. Castle Hill and the Holy Well are easily accessible before driving to Greißenegg Castle, which looks impressive even in gray weather."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Voitsberg Town Center",
+              "tip_5lang": {
+                "de": "Suchen Sie einen Parkplatz mit kurzem Weg zum Hauptplatz.",
+                "hu": "Keressen parkolót rövid sétatávolságra a Fő tértől.",
+                "ro": "Căutați un loc de parcare aproape de piața centrală.",
+                "en": "Find a parking spot with a short walk to the main square."
+              }
+            },
+            {
+              "name": "Main Square & Parish Church of St. Joseph",
+              "tip_5lang": {
+                "de": "Lassen Sie Ihren Schirm griffbereit im Auto liegen.",
+                "hu": "Tartsa az esernyőjét könnyen elérhető helyen az autóban.",
+                "ro": "Țineți umbrela la îndemână în mașină.",
+                "en": "Keep your umbrella within easy reach inside the car."
+              }
+            },
+            {
+              "name": "Arik Brauer House",
+              "tip_5lang": {
+                "de": "Parken Sie direkt davor für einen schnellen Fotostopp.",
+                "hu": "Parkoljon közvetlenül előtte egy gyors fotó erejéig.",
+                "ro": "Parcați chiar în față pentru o oprire foto rapidă.",
+                "en": "Park directly in front for a quick photo stop."
+              }
+            },
+            {
+              "name": "Cluster 2: Castle Hill",
+              "tip_5lang": {
+                "de": "Der Parkplatz an der Ruine spart den nassen Aufstieg zu Fuß.",
+                "hu": "A várrom melletti parkolóval megspórolhatja a vizes sétát.",
+                "ro": "Parcarea de la ruine vă scutește de urcarea pe jos prin ploaie.",
+                "en": "The parking lot at the ruins saves you the wet uphill walk."
+              }
+            },
+            {
+              "name": "Holy Well",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp; der Brunnen liegt nah an der Straße.",
+                "hu": "Rövid megálló; a kút közel fekszik az úthoz.",
+                "ro": "O scurtă oprire; fântâna este aproape de drum.",
+                "en": "A brief stop; the well is located close to the road."
+              }
+            },
+            {
+              "name": "Cluster 3: Greißenegg Castle",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das Schloss vom trockenen Auto aus.",
+                "hu": "Élvezze a kilátást a kastélyra a száraz autóból.",
+                "ro": "Admirați vederea spre castel din mașina uscată.",
+                "en": "Enjoy the view of the castle from the dry interior of your car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf der Strecke nach Tregist.",
+              "Verwenden Sie Antibeschlag-Spray für Ihre Scheiben.",
+              "Nutzen Sie Parkhäuser, um beim Einsteigen trocken zu bleiben.",
+              "Fahren Sie bei schlechter Sicht mit Abblendlicht."
+            ],
+            "hu": [
+              "Figyeljen az aquaplaningre a Tregist felé vezető úton.",
+              "Használjon páramentesítőt a szélvédőhöz.",
+              "Használja a fedett parkolókat a száraz beszálláshoz.",
+              "Rossz látási viszonyok között használja a tompított fényszórót."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumul spre Tregist.",
+              "Folosiți spray anti-aburire pentru parbriz.",
+              "Folosiți parcările acoperite pentru a rămâne uscați la îmbarcare.",
+              "Conduceți cu faza scurtă aprinsă în condiții de vizibilitate redusă."
+            ],
+            "en": [
+              "Watch out for aquaplaning on the road to Tregist.",
+              "Use anti-fog spray for your windshield.",
+              "Utilize covered parking to stay dry when entering the car.",
+              "Drive with dipped headlights in poor visibility."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie das winterliche Voitsberg komfortabel mit dem Auto. Das vorgeheizte Fahrzeug ist die ideale Basis für den Besuch des Zentrums und der Kirchen. Die Fahrt zum verschneiten Castle Hill bietet tolle Ausblicke, ohne dass Sie lange in der Kälte stehen müssen. Der Heilige Brunnen und Schloss Greißenegg lassen sich perfekt in eine Panoramafahrt durch die winterliche Weststeiermark integrieren.",
+            "hu": "Fedezze fel a téli Voitsberget kényelmesen, autóval. Az előmelegített jármű ideális bázis a központ és a templomok meglátogatásához. A havas Várhegyre vezető út csodás kilátást nyújt anélkül, hogy sokat kellene a hidegben állnia. A Szent kút és a Greißenegg-kastély tökéletesen beilleszthető egy téli panorámaútba Nyugat-Stájerországban.",
+            "ro": "Explorați Voitsbergul de iarnă confortabil cu mașina. Vehiculul încălzit este baza ideală pentru vizitarea centrului și a bisericilor. Drumul spre Dealul Castelului înzăpezit oferă priveliști superbe fără a sta mult în frig. Fântâna Sfântă și Castelul Greißenegg se integrează perfect într-o plimbare panoramică de iarnă.",
+            "en": "Explore wintery Voitsberg from the comfort of your car. A pre-heated vehicle is the ideal base for visiting the center and churches. The drive to the snowy Castle Hill offers great views without long exposure to the cold. The Holy Well and Greißenegg Castle fit perfectly into a panoramic winter drive through West Styria."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Voitsberg Town Center",
+              "tip_5lang": {
+                "de": "Prüfen Sie, ob die Parkflächen von Schnee geräumt sind.",
+                "hu": "Ellenőrizze, hogy a parkolóhelyek le vannak-e takarítva.",
+                "ro": "Verificați dacă locurile de parcare sunt deszăpezite.",
+                "en": "Check if the parking spaces are cleared of snow."
+              }
+            },
+            {
+              "name": "Main Square & Parish Church of St. Joseph",
+              "tip_5lang": {
+                "de": "Kurze Wege halten die Wärme im Körper.",
+                "hu": "A rövid séták segítenek megőrizni a testhőt.",
+                "ro": "Drumurile scurte vă ajută să vă păstrați căldura corporală.",
+                "en": "Short walks help maintain your body heat."
+              }
+            },
+            {
+              "name": "Arik Brauer House",
+              "tip_5lang": {
+                "de": "Halten Sie kurz an, die bunte Kunst leuchtet im Wintergrau.",
+                "hu": "Álljon meg egy pillanatra, a színes művészet ragyog a szürkeségben.",
+                "ro": "Opriți scurt, arta colorată strălucește în griul iernii.",
+                "en": "Stop briefly; the colorful art shines through the winter gray."
+              }
+            },
+            {
+              "name": "Cluster 2: Castle Hill",
+              "tip_5lang": {
+                "de": "Winterreifen sind für die Auffahrt zum Burgberg zwingend.",
+                "hu": "A várhegyre való feljutáshoz a téli gumi kötelező.",
+                "ro": "Anvelopele de iarnă sunt obligatorii pentru urcarea pe deal.",
+                "en": "Winter tires are mandatory for the climb to the castle hill."
+              }
+            },
+            {
+              "name": "Holy Well",
+              "tip_5lang": {
+                "de": "Der Parkplatz direkt am Brunnen kann vereist sein.",
+                "hu": "A közvetlenül a kútnál lévő parkoló jeges lehet.",
+                "ro": "Parcarea direct de lângă fântână poate fi înghețată.",
+                "en": "The parking spot right by the well may be icy."
+              }
+            },
+            {
+              "name": "Cluster 3: Greißenegg Castle",
+              "tip_5lang": {
+                "de": "Bei Dämmerung ist das Schloss wunderschön beleuchtet.",
+                "hu": "Szürkületkor a kastély gyönyörűen ki van világítva.",
+                "ro": "La amurg, castelul este iluminat superb.",
+                "en": "The castle is beautifully illuminated at twilight."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Führen Sie einen Eiskratzer und Schneebesen im Auto mit.",
+              "Achten Sie auf Glatteiswarnungen im lokalen Radio.",
+              "Prüfen Sie den Frostschutz in der Scheibenwaschanlage.",
+              "Planen Sie mehr Zeit für die Parkplatzsuche ein (Schneehaufen)."
+            ],
+            "hu": [
+              "Legyen az autóban jégkaparó és hókefe.",
+              "Figyelje a helyi rádió jegesedésre vonatkozó figyelmeztetéseit.",
+              "Ellenőrizze a fagyállót a szélvédőmosóban.",
+              "Számoljon több idővel a parkolásra a hórakások miatt."
+            ],
+            "ro": [
+              "Aveți în mașină o racletă și o perie de zăpadă.",
+              "Ascultați radioul local pentru avertizări de polei.",
+              "Verificați nivelul antigelului în lichidul de parbriz.",
+              "Alocați mai mult timp pentru parcare din cauza mormanelor de zăpadă."
+            ],
+            "en": [
+              "Keep an ice scraper and snow brush in your car.",
+              "Listen to local radio for black ice warnings.",
+              "Check the antifreeze levels in your windshield washer fluid.",
+              "Allow extra time for parking due to snow piles."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1417,6 +1981,170 @@
           "Be at the bus stop on time, especially for less frequent routes.",
           "Combine bus rides with longer walks to make the most of the day."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie die Busverbindungen in Voitsberg, um dem Regen zu entgehen. Die Haltestellen im Zentrum liegen nah an der Stadtpfarrkirche und dem Arik-Brauer-Haus. Ein kurzer Fußmarsch bringt Sie zur Burgruine Obervoitsberg, bevor Sie sich Richtung Greißenegg bewegen. Planen Sie Ihre Umstiege so, dass Sie die Wartezeiten in den überdachten Wartehäuschen verbringen.",
+            "hu": "Használja Voitsberg buszjáratait, hogy elkerülje az esőt. A központi megállók közel vannak a plébániatemplomhoz és az Arik Brauer-házhoz. Rövid séta vezet az Obervoitsberg várromhoz, majd Greißenegg felé veheti az irányt. Tervezze meg az átszállásokat úgy, hogy a várakozási időt fedett buszvárókban töltse.",
+            "ro": "Folosiți liniile de autobuz din Voitsberg pentru a evita ploaia. Stațiile centrale sunt aproape de biserica parohială și Casa Arik Brauer. O scurtă plimbare vă duce la ruinele Obervoitsberg înainte de a merge spre Greißenegg. Planificați legăturile astfel încât să așteptați în stațiile acoperite.",
+            "en": "Use bus connections in Voitsberg to escape the rain. Central stops are located near the Parish Church and Arik Brauer House. A short walk leads to the Obervoitsberg ruins before heading towards Greißenegg. Plan your transfers to spend waiting times in covered bus shelters."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Voitsberg Center",
+              "tip_5lang": {
+                "de": "Das zentrale Wartehäuschen bietet guten Schutz vor Güssen.",
+                "hu": "A központi buszváró jó védelmet nyújt a záporok ellen.",
+                "ro": "Stația centrală oferă protecție bună împotriva ploii.",
+                "en": "The central bus shelter provides good protection from downpours."
+              }
+            },
+            {
+              "name": "Parish Church & Arik Brauer House",
+              "tip_5lang": {
+                "de": "Die Wege zwischen den Gebäuden sind kurz, Schirm einpacken.",
+                "hu": "Az épületek közötti távolság kicsi, de esernyő kellhet.",
+                "ro": "Distanțele dintre clădiri sunt mici, luați umbrela.",
+                "en": "Distances between buildings are short, but bring an umbrella."
+              }
+            },
+            {
+              "name": "Cluster 2: Castle Hill Region",
+              "tip_5lang": {
+                "de": "Steigen Sie an der nächstgelegenen Haltestelle aus.",
+                "hu": "Szálljon le a legközelebbi buszmegállónál.",
+                "ro": "Coborâți la cea mai apropiată stație de autobuz.",
+                "en": "Get off at the nearest possible bus stop."
+              }
+            },
+            {
+              "name": "Obervoitsberg Castle Ruins",
+              "tip_5lang": {
+                "de": "Vorsicht beim Ein- und Aussteigen auf nassen Trittstufen.",
+                "hu": "Vigyázzon a fel- és leszálláskor a nedves lépcsőkön.",
+                "ro": "Atenție la urcare și coborâre pe treptele umede.",
+                "en": "Be careful when boarding and alighting on wet steps."
+              }
+            },
+            {
+              "name": "Walk towards Greißenegg",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Abfahrtszeiten für die Rückfahrt im Trockenen.",
+                "hu": "Ellenőrizze a visszautat a menetrendben, hogy ne ázzon meg.",
+                "ro": "Verificați orarul pentru întoarcere pentru a rămâne uscați.",
+                "en": "Check the return schedule to ensure a dry journey back."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die ÖBB-App für Echtzeit-Infos bei Verzögerungen.",
+              "Ein kleiner Taschenschirm passt in jede Tasche.",
+              "Tragen Sie wasserfeste Schuhe für die Wege zu den Haltestellen.",
+              "In den Bussen ist es bei Regen oft feucht-warm; Zwiebelprinzip."
+            ],
+            "hu": [
+              "Használja az ÖBB appot a valós idejű menetrendekhez.",
+              "Egy kisméretű esernyő mindig legyen önnél.",
+              "Viseljen vízálló cipőt a buszmegállókig tartó sétához.",
+              "A buszokon esőben párás lehet a levegő; öltözzön rétegesen."
+            ],
+            "ro": [
+              "Folosiți aplicația ÖBB pentru informații în timp real.",
+              "O umbrelă compactă este foarte utilă.",
+              "Purtați încălțăminte impermeabilă pentru drumul spre stații.",
+              "În autobuze poate fi umezeală când plouă; îmbrăcați-vă în straturi."
+            ],
+            "en": [
+              "Use the ÖBB app for real-time info on any delays.",
+              "A small travel umbrella fits easily into any bag.",
+              "Wear waterproof shoes for the walks to and from stops.",
+              "Buses can get humid during rain; dress in layers."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Das winterliche Voitsberg lässt sich gut mit geheizten Bussen erkunden. Starten Sie im Zentrum und nutzen Sie die kurzen Wege zu den Kirchen, um die Kältephasen zu minimieren. Der Weg zur Burgruine Obervoitsberg ist im Winter ein schöner Spaziergang, danach bringt Sie der Bus schnell wieder ins Warme Richtung Greißenegg. Achten Sie auf die veränderten Fahrpläne während der Feiertage.",
+            "hu": "A téli Voitsberget jól felfedezheti a fűtött buszokkal. Kezdjen a központban, és használja a templomok közelségét a hidegben töltött idő csökkentésére. Az Obervoitsberg várromhoz vezető út télen is szép séta, utána a busz gyorsan visszaviszi a melegbe Greißenegg felé. Figyeljen az ünnepek alatti módosított menetrendre.",
+            "ro": "Voitsbergul de iarnă poate fi explorat ușor cu autobuzele încălzite. Începeți în centru și profitați de distanțele mici spre biserici pentru a sta cât mai puțin în frig. Drumul spre ruine este o plimbare frumoasă iarna, apoi autobuzul vă duce rapid înapoi la căldură. Atenție la orarul modificat de sărbători.",
+            "en": "Wintery Voitsberg is easy to explore using heated buses. Start in the center and take advantage of the short walks to the churches to minimize cold exposure. The path to the Obervoitsberg ruins is a lovely winter stroll, after which the bus quickly returns you to the warmth towards Greißenegg. Note the adjusted holiday schedules."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Voitsberg Center",
+              "tip_5lang": {
+                "de": "Warten Sie im windgeschützten Bereich der Haltestelle.",
+                "hu": "Várjon a buszmegálló szélvédett részén.",
+                "ro": "Așteptați în zona ferită de vânt a stației.",
+                "en": "Wait in the wind-sheltered area of the bus stop."
+              }
+            },
+            {
+              "name": "Parish Church & Arik Brauer House",
+              "tip_5lang": {
+                "de": "Kirchenräume bieten eine spirituelle Aufwärmpause.",
+                "hu": "A templomok belső terei lelki és fizikai melegséget adnak.",
+                "ro": "Interioarele bisericilor oferă o pauză de încălzire.",
+                "en": "Church interiors offer a spiritual warming break."
+              }
+            },
+            {
+              "name": "Cluster 2: Castle Hill Region",
+              "tip_5lang": {
+                "de": "Achten Sie auf geräumte Gehwege zur Ruine.",
+                "hu": "Figyeljen a letakarított járdákra a várrom felé.",
+                "ro": "Căutați trotuarele deszăpezite spre ruine.",
+                "en": "Look for cleared sidewalks heading towards the ruins."
+              }
+            },
+            {
+              "name": "Obervoitsberg Castle Ruins",
+              "tip_5lang": {
+                "de": "Die Burgmauern bieten Schutz vor dem kalten Westwind.",
+                "hu": "A várfalak védelmet nyújtanak a hideg nyugati szél ellen.",
+                "ro": "Zidurile cetății oferă adăpost împotriva vântului rece.",
+                "en": "The castle walls provide shelter from the cold west wind."
+              }
+            },
+            {
+              "name": "Walk towards Greißenegg",
+              "tip_5lang": {
+                "de": "In der Kälte entladen sich Handys schneller; Powerbank mitnehmen.",
+                "hu": "Hidegben a mobilok gyorsabban merülnek; vigyen powerbankot.",
+                "ro": "Telefoanele se descarcă mai repede la frig; luați o baterie.",
+                "en": "Phones die faster in the cold; bring a power bank."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Halten Sie Kleingeld oder die App für das Ticket bereit.",
+              "Wärmen Sie sich in den Bussen zwischen den Stopps auf.",
+              "Tragen Sie griffige Schuhe für den Weg zum Bus.",
+              "Bedenken Sie, dass Busse bei Schneefall Verspätung haben können."
+            ],
+            "hu": [
+              "Készítse elő az aprót vagy az appot a jegyvásárláshoz.",
+              "Melegedjen fel a buszokon a megállók között.",
+              "Viseljen jó tapadású cipőt a megállóig tartó úton.",
+              "Számoljon azzal, hogy havazáskor a buszok késhetnek."
+            ],
+            "ro": [
+              "Aveți pregătit mărunțiș sau aplicația pentru bilet.",
+              "Încălziți-vă în autobuze între opriri.",
+              "Purtați încălțăminte antiderapantă spre stație.",
+              "Luați în calcul posibile întârzieri ale autobuzelor când ninge."
+            ],
+            "en": [
+              "Have your change or app ready for ticket purchases.",
+              "Warm up on the buses between your stops.",
+              "Wear shoes with good grip for the walk to the stop.",
+              "Keep in mind that buses may be delayed during heavy snowfall."
+            ]
+          }
+        }
       }
     }
   }

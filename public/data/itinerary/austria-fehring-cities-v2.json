@@ -294,6 +294,188 @@
           "Plan for a break at one of the cafés on the main square.",
           "Check the opening hours for the Gerberhaus museum in advance."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Vormittag beginnt am regnerischen Hauptplatz, wo die Arkaden des Rathauses ersten Schutz bieten. In der Stadtpfarrkirche St. Nikolaus finden Sie Ruhe und Trockenheit vor den schweren Tropfen.\n\nMittags tauchen Sie im Gerberhaus tief in die lokale Geschichte ein. Das Museum ist der ideale Zufluchtsort, um den Regen draußen zu vergessen und das alte Handwerk zu bestaunen.\n\nNachmittags erkunden Sie den befestigten Tabor. Die dicken Mauern und überdachten Gänge erzählen düstere Geschichten, die perfekt zum grauen Wetter passen. Ein kurzer Blick in den Rosegger Park schließt den Rundgang ab.\n\nAbends glänzt der nasse Asphalt der Altstadt im Licht der Straßenlaternen. Ein gemütlicher Ausklang in einem der Cafés am Platz lässt den Tag trotz Regen angenehm enden.",
+            "hu": "A délelőtt az eső áztatta főtéren kezdődik, ahol a városháza árkádjai nyújtanak menedéket. A Szent Miklós-templom hűvös belső tere tökéletes hely a száradásra és a csendes elmélkedésre.\n\nDélben a Gerberhaus múzeumában merülhet el a helyi történelemben. A kiállítás kiváló búvóhely a záporok elől, ahol megismerheti a tímárok ősi mesterségét.\n\nDélután a megerősített Tabor felfedezése következik. A vastag falak és fedett folyosók között az eső kopogása csak fokozza a középkori hangulatot. A Rosegger parkban tett rövid séta után a háborús emlékműnél fejezzük be az utat.\n\nEste a város fényei megcsillannak a vizes kövezeten. A főtér környéki vendéglők meleg fénye hívogató lezárása ennek a hangulatos, esős napnak.",
+            "ro": "Dimineața începe în piața centrală, unde arcadele primăriei oferă un prim adăpost împotriva ploii. Biserica Sfântul Nicolae este refugiul ideal pentru a admira arhitectura sacră în timp ce așteptați oprirea precipitațiilor.\n\nLa prânz, vizita la Gerberhaus vă permite să ignorați vremea de afară. Muzeul tăbăcarilor oferă o experiență culturală bogată într-un mediu uscat și primitor.\n\nDupă-amiaza este dedicată fortificației Tabor. Zidurile groase și pasajele acoperite oferă protecție, permițându-vă să explorați istoria locală fără a vă uda. O scurtă trecere prin Parcul Rosegger încheie traseul.\n\nSeara, reflexiile luminilor pe trotuarul umed creează o atmosferă melancolică dar frumoasă. O băutură caldă într-o cafenea din centru este finalul perfect pentru această zi plină.",
+            "en": "The morning starts at the rainy main square, where the town hall's arches provide early shelter. The St. Nicholas Church offers a peaceful and dry sanctuary from the heavy raindrops.\n\nAt noon, immerse yourself in local history at the Gerberhaus. The museum is the perfect retreat to forget the rain outside while marveling at ancient craftsmanship.\n\nIn the afternoon, explore the fortified Tabor. The thick walls and covered walkways tell historic tales that pair perfectly with the gray skies. A quick visit to Rosegger Park completes the circuit.\n\nIn the evening, the wet asphalt of the old town gleams under the streetlights. A cozy finish in one of the square's cafes makes the day pleasant despite the weather."
+          },
+          "stops": [
+            {
+              "name": "Fehring Town Hall and Main Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden des Rathauses als trockenen Unterstand für Fotos.",
+                "hu": "Használja a városháza árkádjait száraz kilátópontként a fotózáshoz.",
+                "ro": "Folosiți arcadele primăriei ca adăpost uscat pentru fotografii.",
+                "en": "Use the town hall arches as a dry spot for taking photos."
+              }
+            },
+            {
+              "name": "Parish Church of St. Nicholas",
+              "tip_5lang": {
+                "de": "Ideal, um den stärksten Regenschauer im trockenen Innenraum abzuwarten.",
+                "hu": "Ideális hely a nagyobb záporok átvészelésére a száraz belső térben.",
+                "ro": "Ideal pentru a aștepta trecerea ploii în interiorul uscat.",
+                "en": "Perfect for waiting out heavy showers in a dry interior."
+              }
+            },
+            {
+              "name": "Gerberhaus (Tanner's House)",
+              "tip_5lang": {
+                "de": "Ein ausgiebiger Museumsbesuch hält Sie über eine Stunde lang im Trockenen.",
+                "hu": "Egy alapos múzeumlátogatás több mint egy órán át szárazon tartja.",
+                "ro": "O vizită detaliată la muzeu vă va ține la adăpost peste o oră.",
+                "en": "An extensive museum visit keeps you dry for over an hour."
+              }
+            },
+            {
+              "name": "Fehring Tabor (Fortification)",
+              "tip_5lang": {
+                "de": "Die überdachten Wehrgänge bieten guten Schutz vor Wind und Nässe.",
+                "hu": "A fedett gyilokjárók jó védelmet nyújtanak a szél és a nedvesség ellen.",
+                "ro": "Pasajele acoperite oferă protecție bună împotriva vântului și ploii.",
+                "en": "Covered battlements offer good protection from wind and wet weather."
+              }
+            },
+            {
+              "name": "Rosegger Park",
+              "tip_5lang": {
+                "de": "Vorsicht auf den unbefestigten Wegen, die bei Regen rutschig sein können.",
+                "hu": "Vigyázat a burkolatlan utakon, amelyek esőben csúszóssá válhatnak.",
+                "ro": "Atenție pe aleile neasfaltate, care pot deveni alunecoase la ploaie.",
+                "en": "Be careful on unpaved paths, which can become slippery when wet."
+              }
+            },
+            {
+              "name": "War Memorial",
+              "tip_5lang": {
+                "de": "Kurzer Stopp unter dem Regenschirm; der Platz ist völlig ungeschützt.",
+                "hu": "Rövid megálló esernyő alatt; a tér teljesen nyitott.",
+                "ro": "Scurtă oprire sub umbrelă; zona este complet expusă.",
+                "en": "Quick stop under an umbrella; the area is completely unsheltered."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie imprägniertes Schuhwerk, da die Pflastersteine in der Altstadt Pfützen bilden.",
+              "Das Gerberhaus ist die beste Option für eine längere Regenpause.",
+              "Die Kirche bietet einen ruhigen Ort zum Aufwärmen und Trocknen.",
+              "Ein Taschenschirm ist wegen gelegentlicher Windböen in den Gassen unverzichtbar."
+            ],
+            "hu": [
+              "Viseljen vízhatlan lábbelit, mert az óváros kövezetén megállhat a víz.",
+              "A Gerberhaus a legjobb opció egy hosszabb esőszünetre.",
+              "A templom nyugodt helyet kínál a bemelegedésre és száradásra.",
+              "Az utcák közötti szél miatt egy stabil esernyő elengedhetetlen."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, deoarece se pot forma bălți pe pavaj.",
+              "Gerberhaus este cea mai bună opțiune pentru o pauză lungă de ploaie.",
+              "Biserica oferă un loc liniștit pentru a vă încălzi și usca.",
+              "O umbrelă rezistentă este esențială din cauza rafalelor de vânt de pe străzi."
+            ],
+            "en": [
+              "Wear waterproof footwear as puddles tend to form on the old town pavement.",
+              "The Gerberhaus is your best option for a longer rain break.",
+              "The church offers a quiet place to warm up and dry off.",
+              "A sturdy umbrella is essential due to wind gusts between buildings."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen am Hauptplatz, wo der Dampf heißer Getränke aus den Cafés aufsteigt. Die St. Nikolaus Kirche bietet einen andächtigen und windgeschützten Start in den Tag.\n\nMittags wärmen Sie sich im beheizten Gerberhaus auf. Die Ausstellungen über das Gerberhandwerk sind besonders an kalten Tagen ein behaglicher Ort der Kultur.\n\nAm Nachmittag taucht die tiefstehende Wintersonne den Tabor in ein warmes, goldenes Licht. Der Rosegger Park wirkt mit Reif bedeckt fast magisch, erfordert aber festes Schuhwerk gegen Glätte.\n\nSobald es um 16:30 Uhr dunkel wird, erstrahlt Fehring im festlichen Glanz. Die beleuchteten Fassaden rund um den Krieger-Gedächtnisplatz schaffen eine besinnliche Winteratmosphäre.",
+            "hu": "Deres reggel a főtéren, ahol a kávézókból felszálló gőz jelzi a nap kezdetét. A Szent Miklós-templom szélvédett, csendes menedéket nyújt a reggeli fagy elől.\n\nDélben a fűtött Gerberhausban melegedhet fel. A tímármesterséget bemutató kiállítás barátságos kulturális pont a hideg téli napokon.\n\nDélután az alacsonyan járó téli nap arany fénybe vonja a Tabort. A Rosegger park zúzmarás fái varázslatos látványt nyújtanak, de vigyázzon a jeges szakaszokra.\n\nAmint 16:30-kor leszáll az éj, Fehring ünnepi fénybe öltözik. A kivilágított épületek a háborús emlékmű körül meghitt, téli hangulatot árasztanak a nap végén.",
+            "ro": "O dimineață geroasă în piața centrală, unde aburul băuturilor fierbinți se ridică din cafenele. Biserica Sfântul Nicolae oferă un început de zi liniștit și ferit de vânt.\n\nLa prânz, vă puteți încălzi în clădirea muzeului Gerberhaus. Expozițiile despre meșteșugul tăbăcăriei sunt un loc cultural primitor în zilele reci.\n\nDupă-amiaza, soarele palid de iarnă scaldă fortificația Tabor într-o lumină aurie. Parcul Rosegger, acoperit de chiciură, pare desprins dintr-un basm, dar necesită atenție la gheață.\n\nImediat ce se întunecă, în jurul orei 16:30, Fehring strălucește în lumini festive. Fațadele iluminate creează o atmosferă de iarnă contemplativă pentru finalul traseului.",
+            "en": "A frosty morning on the main square, where steam from hot drinks rises from the local cafes. St. Nicholas Church offers a solemn and wind-shielded start to the day.\n\nAt noon, warm up in the heated Gerberhaus. The exhibits on the tanning trade are a cozy cultural spot, especially on cold winter days.\n\nIn the afternoon, the low winter sun bathes the Tabor in warm, golden light. Rosegger Park looks almost magical covered in frost but requires sturdy boots against icy patches.\n\nAs soon as it gets dark around 4:30 PM, Fehring shines in festive glow. The illuminated facades around the war memorial create a contemplative winter atmosphere."
+          },
+          "stops": [
+            {
+              "name": "Fehring Town Hall and Main Square",
+              "tip_5lang": {
+                "de": "Suchen Sie ein Café am Platz für einen schnellen Aufwärmstopp auf.",
+                "hu": "Keressen egy kávézót a téren egy gyors bemelegítő megállóhoz.",
+                "ro": "Căutați o cafenea în piață pentru o oprire rapidă de încălzire.",
+                "en": "Look for a cafe on the square for a quick warming stop."
+              }
+            },
+            {
+              "name": "Parish Church of St. Nicholas",
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten den eisigen Wind draußen, aber es bleibt kühl.",
+                "hu": "A vastag falak kint tartják a jeges szelet, de bent is hűvös van.",
+                "ro": "Zidurile groase țin vântul înghețat afară, dar interiorul rămâne răcoros.",
+                "en": "The thick walls keep the icy wind out, but it remains cool inside."
+              }
+            },
+            {
+              "name": "Gerberhaus (Tanner's House)",
+              "tip_5lang": {
+                "de": "Ideale Zeit für den Innenbesuch, um den tiefen Temperaturen zu entfliehen.",
+                "hu": "Ideális időpont a belső látogatásra, hogy elmeneküljön az alacsony hőmérséklet elől.",
+                "ro": "Moment ideal pentru vizita interioară, pentru a scăpa de temperaturile scăzute.",
+                "en": "Ideal time for an indoor visit to escape the freezing temperatures."
+              }
+            },
+            {
+              "name": "Fehring Tabor (Fortification)",
+              "tip_5lang": {
+                "de": "Vorsicht bei Schnee; die historischen Steinstufen können sehr glatt sein.",
+                "hu": "Vigyázat hó esetén; a történelmi kőlépcsők nagyon csúszósak lehetnek.",
+                "ro": "Atenție în caz de zăpadă; treptele istorice de piatră pot fi foarte alunecoase.",
+                "en": "Be careful in snow; the historic stone steps can be very slippery."
+              }
+            },
+            {
+              "name": "Rosegger Park",
+              "tip_5lang": {
+                "de": "Besuchen Sie den Park vor 16 Uhr, um das restliche Tageslicht zu nutzen.",
+                "hu": "Látogasson el a parkba 16 óra előtt, hogy kihasználja a maradék nappali fényt.",
+                "ro": "Vizitați parcul înainte de ora 16 pentru a profita de lumina zilei.",
+                "en": "Visit the park before 4 PM to make use of the remaining daylight."
+              }
+            },
+            {
+              "name": "War Memorial",
+              "tip_5lang": {
+                "de": "Die Abendbeleuchtung ist hier besonders stimmungsvoll im Winter.",
+                "hu": "Az esti kivilágítás itt különösen hangulatos télen.",
+                "ro": "Iluminatul de seară este deosebit de sugestiv aici în timpul iernii.",
+                "en": "The evening lighting is particularly atmospheric here in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Planen Sie Outdoor-Aktivitäten vor dem frühen Sonnenuntergang um 16:30 Uhr ein.",
+              "Tragen Sie Schichten und Thermokleidung für die zugigen Bereiche am Tabor.",
+              "Die Museen sind beheizt und bieten eine willkommene Pause von der Kälte.",
+              "Achten Sie auf gefrorenes Tauwasser auf den gepflasterten Gehwegen."
+            ],
+            "hu": [
+              "Tervezze a kültéri programokat a korai, 16:30-as naplemente elé.",
+              "Viseljen réteges, termikus ruházatot a Tabor huzatosabb részeihez.",
+              "A múzeumok fűtöttek, kellemes pihenőt nyújtanak a hideg elől.",
+              "Ügyeljen a fagyott pára miatti csúszós szakaszokra a járdákon."
+            ],
+            "ro": [
+              "Planificați activitățile în aer liber înainte de apusul de la ora 16:30.",
+              "Purtați haine stratificate și termice pentru zonele cu curent de la Tabor.",
+              "Muzeele sunt încălzite și oferă o pauză binevenită de la frig.",
+              "Atenție la porțiunile de gheață formate pe trotuarele pavate."
+            ],
+            "en": [
+              "Plan outdoor activities before the early sunset at 4:30 PM.",
+              "Wear layered thermal clothing for the drafty areas around the Tabor.",
+              "The museums are heated and provide a welcome break from the cold.",
+              "Watch out for frozen condensation on the paved walkways."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -582,6 +764,188 @@
           "Many paths are paved, but be prepared for some gravel sections.",
           "A bike lock is essential for stops in the town."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Start am Bahnhof bei leichtem Nieselregen. Der Weg zum Hauptplatz ist kurz, erfordert aber Vorsicht bei nassen Schienen.\n\nMittags suchen wir Schutz unter den Arkaden am Hauptplatz und besichtigen die Kirche. Die Radwege sind gut ausgebaut, aber Pfützen können tief sein.\n\nNachmittags führt die Tour zum Tabor. Die Auffahrt zum Kuruzzenkogel ist bei Regen anstrengend, da der Untergrund rutschig sein kann.\n\nAm Abend endet die Tour wieder am Bahnhof. Die Kleidung ist nass, aber die Eindrücke der steirischen Hügel im Nebel sind unvergesslich.",
+            "hu": "Indulás az állomásról szemerkélő esőben. A főtérhez vezető út rövid, de a vizes síneknél óvatosságra van szükség.\n\nDélben a főtéri árkádok alatt keresünk menedéket és megnézzük a templomot. A kerékpárutak jók, de a tócsák mélyek lehetnek.\n\nDélután a Tabor felé vesszük az irányt. A Kuruzzenkogelre vezető emelkedő esőben megterhelő, mivel a talaj csúszóssá válhat.\n\nEste a túra újra az állomáson ér véget. A ruházat vizes, de a ködös stájer dombok látványa felejthetetlen élmény.",
+            "ro": "Pornire de la gară pe o burniță ușoară. Drumul spre piața centrală este scurt, dar necesită atenție la șinele umede.\n\nLa prânz căutăm adăpost sub arcadele din piață și vizităm biserica. Pistele sunt bune, dar bălțile pot fi adânci.\n\nDupă-amiaza traseul duce spre Tabor. Urcarea pe Kuruzzenkogel este solicitantă pe ploaie, deoarece solul poate fi alunecos.\n\nSeara turul se încheie tot la gară. Hainele sunt ude, dar imaginea dealurilor stiriene în ceață este de neuitat.",
+            "en": "Starting at the station in light drizzle. The route to the main square is short but requires caution on wet tracks.\n\nAt noon, we seek shelter under the square's arches and visit the church. Cycling paths are good, but puddles can be deep.\n\nIn the afternoon, the tour leads to the Tabor. The climb to Kuruzzenkogel is taxing in the rain as the ground can be slippery.\n\nIn the evening, the tour ends back at the station. Clothes are wet, but the sight of Styrian hills in the fog is unforgettable."
+          },
+          "stops": [
+            {
+              "name": "Fehring Train Station",
+              "tip_5lang": {
+                "de": "Vorsicht beim Überqueren der Gleise; bei Nässe besteht hohe Rutschgefahr.",
+                "hu": "Vigyázat a vágányokon való átkeléskor; nedves időben nagy a csúszásveszély.",
+                "ro": "Atenție la traversarea liniilor; pericol mare de alunecare pe carosabil umed.",
+                "en": "Be careful when crossing tracks; high risk of slipping in wet conditions."
+              }
+            },
+            {
+              "name": "Fehring Town Hall",
+              "tip_5lang": {
+                "de": "Fahrradständer unter den Arkaden nutzen, um den Sattel trocken zu halten.",
+                "hu": "Használja az árkádok alatti tárolókat, hogy az ülés száraz maradjon.",
+                "ro": "Folosiți suporturile sub arcade pentru a păstra șaua uscată.",
+                "en": "Use the bike racks under the arches to keep your saddle dry."
+              }
+            },
+            {
+              "name": "Parish Church of St. Nicholas",
+              "tip_5lang": {
+                "de": "Sicherer Abstellplatz direkt vor dem Kircheneingang möglich.",
+                "hu": "Biztonságos tárolási lehetőség közvetlenül a templombejárat előtt.",
+                "ro": "Posibilitate de parcare sigură chiar în fața intrării în biserică.",
+                "en": "Safe parking spot possible directly in front of the church entrance."
+              }
+            },
+            {
+              "name": "Fehring Tabor",
+              "tip_5lang": {
+                "de": "Die Auffahrt ist steil; bei Regen unbedingt auf gute Bremsen achten.",
+                "hu": "Az emelkedő meredek; esőben feltétlenül ügyeljen a jó fékekre.",
+                "ro": "Urcarea este abruptă; asigurați-vă că frânele funcționează bine pe ploaie.",
+                "en": "The climb is steep; make sure your brakes are reliable in the rain."
+              }
+            },
+            {
+              "name": "Rosegger Park",
+              "tip_5lang": {
+                "de": "Die Parkwege können aufgeweicht sein; bleiben Sie auf den befestigten Pfaden.",
+                "hu": "A parki utak felázhatnak; maradjon a szilárd burkolatú ösvényeken.",
+                "ro": "Aleile pot fi moi; rămâneți pe potecile asfaltate.",
+                "en": "Park paths may be muddy; stay on the paved trails."
+              }
+            },
+            {
+              "name": "Cellar Lane on Kuruzzenkogel",
+              "tip_5lang": {
+                "de": "Belohnung für die nasse Fahrt: Ein geschützter Platz in einer Kellergasse.",
+                "hu": "Jutalom a vizes útért: egy védett hely a borospincék között.",
+                "ro": "Recompensa pentru drumul umed: un loc adăpostit într-o cramă.",
+                "en": "Reward for the wet ride: a sheltered spot in a wine cellar lane."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine komplette Regenmontur inklusive Überschuhen.",
+              "Vermeiden Sie abrupte Bremsmanöver auf den nassen Pflastersteinen.",
+              "Schutzbleche am Fahrrad sind bei diesem Wetter ein absolutes Muss.",
+              "Rechnen Sie mit längeren Bremswegen auf den Gefällestrecken."
+            ],
+            "hu": [
+              "Viseljen teljes esőfelszerelést, beleértve a kamáslit is.",
+              "Kerülje a hirtelen fékezést a vizes macskaköveken.",
+              "A sárvédő használata ilyen időben kötelező.",
+              "Számoljon hosszabb féktávval a lejtős szakaszokon."
+            ],
+            "ro": [
+              "Purtați echipament complet de ploaie, inclusiv protecții pentru pantofi.",
+              "Evitați frânările bruște pe pavajul umed.",
+              "Apărătorile de noroi sunt obligatorii pe această vreme.",
+              "Luați în calcul distanțe mai mari de frânare pe pante."
+            ],
+            "en": [
+              "Wear full rain gear, including shoe covers.",
+              "Avoid abrupt braking on wet cobblestones.",
+              "Mudguards on your bike are an absolute must in this weather.",
+              "Expect longer braking distances on downhill sections."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Start am Bahnhof. Die Luft ist klar, aber der Fahrtwind beißt im Gesicht.\n\nMittags erreichen wir den Hauptplatz. Eine kurze Pause mit einem Heißgetränk ist nötig, bevor es zur Kirche und zum Tabor weitergeht.\n\nNachmittags steht die Fahrt zum Kuruzzenkogel an. Die Aussicht über die schneebedeckten Weinberge ist fantastisch, aber die Straße kann tückisch glatt sein.\n\nAbends kehren wir rechtzeitig vor Einbruch der Dunkelheit zum Bahnhof zurück. Die Kälte steckt in den Gliedern, aber die Winterlandschaft war jede Mühe wert.",
+            "hu": "Hűvös indulás az állomáson. A levegő tiszta, de a menetszél maróan hideg.\n\nDélben érkezünk a főtérre. Egy rövid pihenő forró itallal elengedhetetlen, mielőtt a templom és a Tabor felé indulnánk.\n\nDélután a Kuruzzenkogel megmászása következik. A kilátás a havas szőlőskertekre fantasztikus, de az út csalóka és csúszós lehet.\n\nEste még sötétedés előtt visszaérünk az állomásra. A hideg átjárta a tagjainkat, de a téli táj minden fáradozást megért.",
+            "ro": "Pornire rece de la gară. Aerul este curat, dar vântul pișcă obrajii în timpul mersului.\n\nLa prânz ajungem în piața centrală. O scurtă pauză cu o băutură fierbinte este necesară înainte de a continua spre biserică și Tabor.\n\nDupă-amiaza urmează drumul spre Kuruzzenkogel. Vederea asupra podgoriilor înzăpezite este fantastică, dar drumul poate fi periculos de alunecos.\n\nSeara revenim la gară înainte de lăsarea întunericului. Frigul s-a instalat în oase, dar peisajul de iarnă a meritat efortul.",
+            "en": "A chilly start at the station. The air is clear, but the wind chill bites at your face.\n\nAt noon, we reach the main square. A quick break with a hot drink is necessary before continuing to the church and the Tabor.\n\nIn the afternoon, we head for Kuruzzenkogel. The view over snow-covered vineyards is fantastic, but the road can be treacherously slippery.\n\nIn the evening, we return to the station before dark. The cold is in our bones, but the winter landscape was worth every effort."
+          },
+          "stops": [
+            {
+              "name": "Fehring Train Station",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stellen auf den Bahnsteigen beim Ein- und Ausladen.",
+                "hu": "Ügyeljen a jeges foltokra a peronon a be- és kipakoláskor.",
+                "ro": "Atenție la porțiunile înghețate de pe peron la încărcare/descărcare.",
+                "en": "Watch out for icy spots on platforms when loading or unloading."
+              }
+            },
+            {
+              "name": "Fehring Town Hall",
+              "tip_5lang": {
+                "de": "Handschuhe nicht vergessen; der Lenker ist bei Minusgraden extrem kalt.",
+                "hu": "Ne felejtse el a kesztyűt; a kormány fagypont alatt extrém hideg.",
+                "ro": "Nu uitați mănușile; ghidonul este extrem de rece la temperaturi negative.",
+                "en": "Don't forget gloves; the handlebars are extremely cold in freezing temps."
+              }
+            },
+            {
+              "name": "Parish Church of St. Nicholas",
+              "tip_5lang": {
+                "de": "Kurzer Stopp; die Kälte zieht hier schnell in die Füße.",
+                "hu": "Rövid megálló; a hideg itt gyorsan áthűti a lábakat.",
+                "ro": "Oprire scurtă; frigul pătrunde repede la picioare aici.",
+                "en": "Quick stop; the cold will quickly chill your feet here."
+              }
+            },
+            {
+              "name": "Fehring Tabor",
+              "tip_5lang": {
+                "de": "Anstrengung hält warm, aber Vorsicht bei der Abfahrt durch den Fahrtwind.",
+                "hu": "A mozgás melegen tart, de vigyázzon a lejtőn a menetszéllel.",
+                "ro": "Efortul vă ține cald, dar atenție la curentul de aer la coborâre.",
+                "en": "Effort keeps you warm, but beware of wind chill on the descent."
+              }
+            },
+            {
+              "name": "Rosegger Park",
+              "tip_5lang": {
+                "de": "Tiefe Temperaturen können die Akkulaufzeit Ihres E-Bikes verkürzen.",
+                "hu": "Az alacsony hőmérséklet lerövidítheti az e-bike akkumulátorának élettartamát.",
+                "ro": "Temperaturile scăzute pot reduce autonomia bateriei bicicletei electrice.",
+                "en": "Low temperatures can significantly shorten your e-bike's battery life."
+              }
+            },
+            {
+              "name": "Cellar Lane on Kuruzzenkogel",
+              "tip_5lang": {
+                "de": "Im Winter oft einsam und ruhig; perfekte Zeit für Fotos der Winterlandschaft.",
+                "hu": "Télen gyakran elhagyatott és csendes; tökéletes időpont téli tájképekhez.",
+                "ro": "Adesea pustiu și liniștit iarna; moment perfect pentru poze de peisaj.",
+                "en": "Often lonely and quiet in winter; perfect time for winter landscape photos."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Windstopper-Kleidung, besonders für die Abfahrten.",
+              "Beleuchtung am Fahrrad prüfen – es wird sehr früh dunkel.",
+              "Vermeiden Sie bei Eisglätte die schmalen Feldwege rund um Fehring.",
+              "Ein heißer Tee in der Thermoskanne hilft gegen das Auskühlen."
+            ],
+            "hu": [
+              "Viseljen szélálló ruházatot, különösen a lejtőkhöz.",
+              "Ellenőrizze a világítást – nagyon korán sötétedik.",
+              "Jegesedés esetén kerülje a Fehring környéki keskeny dűlőutakat.",
+              "A termoszban lévő forró tea segít a lehűlés ellen."
+            ],
+            "ro": [
+              "Purtați haine de tip windstopper, mai ales pentru coborâri.",
+              "Verificați luminile bicicletei – se întunecă foarte devreme.",
+              "Evitați drumurile agricole înguste din jurul Fehring în caz de îngheț.",
+              "Un ceai fierbinte în termos ajută împotriva răcelii."
+            ],
+            "en": [
+              "Wear windbreaker clothing, especially for the descents.",
+              "Check your bike lights – it gets dark very early.",
+              "Avoid narrow farm tracks around Fehring if there is ice.",
+              "Hot tea in a thermos flask helps against getting chilled."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -894,6 +1258,206 @@
           "A car gives you the flexibility to visit more distant wineries or taverns.",
           "Combine the visit with a trip to the nearby Riegersburg castle."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Fahrt beginnt am Kuruzzenkogel, wo die Scheibenwischer im Takt des Regens schwingen. Die Aussicht ist verhangen, aber stimmungsvoll.\n\nMittags parken wir zentral in Fehring. Der kurze Weg zum Rathaus und zur Kirche ist auch bei starkem Regen gut zu bewältigen.\n\nNachmittags besuchen wir das Gerberhaus und den Tabor. Das Auto dient als trockene Basis für den Wechsel zwischen den Sehenswürdigkeiten.\n\nAm Abend glänzen die Lichter der Stadt in den Pfützen des Parkplatzes. Eine bequeme Heimreise im trockenen Wagen schließt den Tag ab.",
+            "hu": "Az út a Kuruzzenkogelen kezdődik, ahol az ablaktörlők az eső ütemére járnak. A kilátás párás, de hangulatos.\n\nDélben Fehring központjában parkolunk. A városházához és a templomhoz vezető rövid út heves esőben is jól bírható.\n\nDélután meglátogatjuk a Gerberhaust és a Tabort. Az autó száraz bázisként szolgál a látnivalók közötti váltáshoz.\n\nEste a város fényei megcsillannak a parkoló tócsáiban. A kényelmes hazaút a száraz autóban zárja a napot.",
+            "ro": "Călătoria începe la Kuruzzenkogel, unde ștergătoarele bat în ritmul ploii. Vederea este încețoșată, dar plină de atmosferă.\n\nLa prânz parcăm în centrul localității Fehring. Drumul scurt spre primărie și biserică este ușor de parcurs chiar și pe ploaie torențială.\n\nDupă-amiaza vizităm Gerberhaus și Tabor. Mașina servește ca bază uscată pentru deplasarea între obiective.\n\nSeara luminile orașului strălucesc în bălțile din parcare. O călătorie confortabilă spre casă în mașina uscată încheie ziua.",
+            "en": "The drive starts at Kuruzzenkogel, where windshield wipers swing to the rhythm of the rain. The view is misty but atmospheric.\n\nAt noon, we park centrally in Fehring. The short walk to the town hall and church is manageable even in heavy rain.\n\nIn the afternoon, we visit the Gerberhaus and the Tabor. The car serves as a dry base for switching between sights.\n\nIn the evening, city lights gleam in the parking lot's puddles. A comfortable drive home in a dry car closes the day."
+          },
+          "stops": [
+            {
+              "name": "Cellar Lane on Kuruzzenkogel",
+              "tip_5lang": {
+                "de": "Parken Sie nah an den Kellern, um lange Wege im Regen zu vermeiden.",
+                "hu": "Parkoljon közel a pincékhez, hogy elkerülje a hosszú utat az esőben.",
+                "ro": "Parcați aproape de crame pentru a evita drumurile lungi prin ploaie.",
+                "en": "Park close to the cellars to avoid long walks in the rain."
+              }
+            },
+            {
+              "name": "Fehring Center Parking",
+              "tip_5lang": {
+                "de": "Zentraler Standort; halten Sie Ihren Schirm für den kurzen Fußweg bereit.",
+                "hu": "Központi helyszín; tartsa készenlétben az esernyőt a rövid sétához.",
+                "ro": "Locație centrală; pregătiți umbrela pentru scurta plimbare pe jos.",
+                "en": "Central location; have your umbrella ready for the short walk."
+              }
+            },
+            {
+              "name": "Fehring Town Hall",
+              "tip_5lang": {
+                "de": "Kurzer Sprint vom Parkplatz; die Arkaden bieten sofortigen Schutz.",
+                "hu": "Gyors sprint a parkolóból; az árkádok azonnali védelmet nyújtanak.",
+                "ro": "Sprint scurt din parcare; arcadele oferă adăpost imediat.",
+                "en": "Short sprint from the parking lot; the arches offer immediate shelter."
+              }
+            },
+            {
+              "name": "Parish Church of St. Nicholas",
+              "tip_5lang": {
+                "de": "Der Eingang ist nur wenige Schritte von der Straße entfernt.",
+                "hu": "A bejárat csak pár lépésre van az utcától.",
+                "ro": "Intrarea este la doar câțiva pași de stradă.",
+                "en": "The entrance is just a few steps away from the street."
+              }
+            },
+            {
+              "name": "Gerberhaus",
+              "tip_5lang": {
+                "de": "Parkmöglichkeiten direkt in der Nähe vorhanden.",
+                "hu": "Parkolási lehetőség közvetlenül a közelben biztosított.",
+                "ro": "Posibilități de parcare disponibile chiar în apropiere.",
+                "en": "Parking options available directly nearby."
+              }
+            },
+            {
+              "name": "Fehring Tabor",
+              "tip_5lang": {
+                "de": "Auffahrt bis fast vor das Tor möglich, ideal bei Schlechtwetter.",
+                "hu": "Autóval szinte a kapuig lehet menni, ideális rossz időben.",
+                "ro": "Acces auto până aproape de poartă, ideal pe vreme rea.",
+                "en": "Driving almost to the gate is possible, ideal for bad weather."
+              }
+            },
+            {
+              "name": "Rosegger Park",
+              "tip_5lang": {
+                "de": "Vom Auto aus hat man einen guten Blick, falls der Regen zu stark für einen Spaziergang ist.",
+                "hu": "Az autóból is jó a kilátás, ha az eső túl erős lenne a sétához.",
+                "ro": "Din mașină aveți o vedere bună dacă ploaia este prea tare pentru plimbare.",
+                "en": "Good view from the car if the rain is too heavy for a walk."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die zentralen Parkplätze, um die Gehwege im Regen zu minimieren.",
+              "Lassen Sie nasse Schirme im Kofferraum, um die Scheiben nicht beschlagen zu lassen.",
+              "Die Bergstraße zum Kuruzzenkogel erfordert bei Nässe erhöhte Aufmerksamkeit.",
+              "Klimaanlage einschalten, um die Feuchtigkeit im Innenraum zu reduzieren."
+            ],
+            "hu": [
+              "Használja a központi parkolókat az esőben való gyaloglás minimalizálására.",
+              "A vizes esernyőket hagyja a csomagtartóban, hogy ne párásodjanak az ablakok.",
+              "A Kuruzzenkogelre vezető hegyi út nedves időben fokozott figyelmet igényel.",
+              "Kapcsolja be a klímát a belső páratartalom csökkentése érdekében."
+            ],
+            "ro": [
+              "Folosiți parcările centrale pentru a minimiza mersul pe jos prin ploaie.",
+              "Lăsați umbrelele ude în portbagaj pentru a nu aburi geamurile.",
+              "Drumul montan spre Kuruzzenkogel necesită atenție sporită pe carosabil umed.",
+              "Porniți aerul condiționat pentru a reduce umiditatea din interior."
+            ],
+            "en": [
+              "Use central parking spaces to minimize walking in the rain.",
+              "Keep wet umbrellas in the trunk to prevent windows from fogging up.",
+              "The mountain road to Kuruzzenkogel requires extra attention when wet.",
+              "Turn on the AC to reduce humidity inside the vehicle."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt mit einer frostigen Fahrt zum Kuruzzenkogel. Die Heizung läuft auf Hochtouren, während wir die weiße Hügellandschaft bewundern.\n\nMittags erreichen wir das Stadtzentrum. Ein Parkplatz in der Nähe der beheizten Sehenswürdigkeiten ist schnell gefunden.\n\nNachmittags erkunden wir das Gerberhaus und den Tabor. Die kurzen Wege zwischen Auto und Gebäuden machen die Kälte erträglich.\n\nAm Abend genießen wir den Blick auf das beleuchtete Fehring. Die Rückfahrt im warmen Auto ist nach einem Tag an der frischen Winterluft besonders behaglich.",
+            "hu": "A nap fagyos úttal kezdődik a Kuruzzenkogel felé. A fűtés teljes gőzzel üzemel, miközben a fehér dombvidéket csodáljuk.\n\nDélben érjük el a városközpontot. Gyorsan találni parkolót a fűtött látnivalók közelében.\n\nDélután felfedezzük a Gerberhaust és a Tabort. Az autó és az épületek közötti rövid távolságok elviselhetővé teszik a hideget.\n\nEste a kivilágított Fehring látványában gyönyörködünk. A meleg autóban való hazautazás különösen kellemes a friss téli levegőn töltött nap után.",
+            "ro": "Ziua începe cu o călătorie geroasă spre Kuruzzenkogel. Încălzirea funcționează la maximum în timp ce admirăm peisajul deluros alb.\n\nLa prânz ajungem în centrul orașului. Se găsește repede un loc de parcare aproape de obiectivele încălzite.\n\nDupă-amiaza explorăm Gerberhaus și Tabor. Distanțele scurte între mașină și clădiri fac frigul suportabil.\n\nSeara ne bucurăm de vederea orașului Fehring iluminat. Drumul de întoarcere în mașina caldă este deosebit de confortabil după o zi în aerul curat de iarnă.",
+            "en": "The day begins with a frosty drive to Kuruzzenkogel. The heater is on full blast as we admire the white rolling hills.\n\nAt noon, we reach the town center. A parking spot near the heated attractions is quickly found.\n\nIn the afternoon, we explore the Gerberhaus and the Tabor. The short distances between the car and buildings make the cold bearable.\n\nIn the evening, we enjoy the view of illuminated Fehring. The drive back in a warm car is especially cozy after a day in the fresh winter air."
+          },
+          "stops": [
+            {
+              "name": "Cellar Lane on Kuruzzenkogel",
+              "tip_5lang": {
+                "de": "Achten Sie auf Winterreifen; die Nebenstraßen können vereist sein.",
+                "hu": "Ügyeljen a téli gumikra; a mellékutak jegesek lehetnek.",
+                "ro": "Atenție la anvelopele de iarnă; drumurile secundare pot fi înghețate.",
+                "en": "Ensure you have winter tires; side roads can be icy."
+              }
+            },
+            {
+              "name": "Fehring Center Parking",
+              "tip_5lang": {
+                "de": "Vorsicht beim Aussteigen; der Boden kann glatt sein.",
+                "hu": "Vigyázat kiszálláskor; a talaj csúszós lehet.",
+                "ro": "Atenție la coborârea din mașină; solul poate fi alunecos.",
+                "en": "Be careful when getting out of the car; the ground may be slippery."
+              }
+            },
+            {
+              "name": "Fehring Town Hall",
+              "tip_5lang": {
+                "de": "Kurzer Aufenthalt im Freien, bevor es ins warme Innere geht.",
+                "hu": "Rövid tartózkodás a szabadban, mielőtt bemenne a meleg belső térbe.",
+                "ro": "Scurtă ședere în aer liber înainte de a intra în interiorul cald.",
+                "en": "Brief stay outdoors before heading into the warm interior."
+              }
+            },
+            {
+              "name": "Parish Church of St. Nicholas",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Kirchenraum als windgeschützten Ort.",
+                "hu": "Használja a templomteret szélvédett helyként.",
+                "ro": "Folosiți spațiul bisericii ca loc ferit de vânt.",
+                "en": "Use the church interior as a wind-sheltered spot."
+              }
+            },
+            {
+              "name": "Gerberhaus",
+              "tip_5lang": {
+                "de": "Gut beheiztes Museum, perfekt zum Aufwärmen der Hände.",
+                "hu": "Jól fűtött múzeum, tökéletes a kezek felmelegítésére.",
+                "ro": "Muzeu bine încălzit, perfect pentru a vă încălzi mâinile.",
+                "en": "Well-heated museum, perfect for warming up your hands."
+              }
+            },
+            {
+              "name": "Fehring Tabor",
+              "tip_5lang": {
+                "de": "Genießen Sie den historischen Anblick ohne lange Fußwege in der Kälte.",
+                "hu": "Élvezze a történelmi látványt hosszú hideg séta nélkül.",
+                "ro": "Bucurați-vă de vederea istorică fără plimbări lungi prin frig.",
+                "en": "Enjoy the historic sight without long walks in the cold."
+              }
+            },
+            {
+              "name": "Rosegger Park",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp reicht aus; der Wind zieht hier im Winter stark.",
+                "hu": "Egy rövid fotómegálló elég; télen itt erősen fúj a szél.",
+                "ro": "O scurtă oprire pentru poze e suficientă; vântul bate tare aici iarna.",
+                "en": "A short photo stop is enough; the wind is strong here in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Flasche Enteiserspray im Auto bereithalten für die Abendstunden.",
+              "Winterausrüstung (Eiskratzer, Handschuhe) im Wagen mitführen.",
+              "Die Bergstraßen werden bei Schneefall geräumt, bleiben aber anspruchsvoll.",
+              "Batteriezustand prüfen, falls Sie das Auto länger bei Kälte abstellen."
+            ],
+            "hu": [
+              "Tartson jégoldó spray-t az autóban az esti órákra.",
+              "Vigyen magával téli felszerelést (jégkaparó, kesztyű).",
+              "A hegyi utakat hóeséskor takarítják, de továbbra is nehezek maradnak.",
+              "Ellenőrizze az akkumulátor állapotát, ha hosszabb időre áll meg a hidegben."
+            ],
+            "ro": [
+              "Aveți la îndemână spray de dezghețare pentru orele serii.",
+              "Transportați echipament de iarnă (răzuitoare, mănuși) în mașină.",
+              "Drumurile montane sunt deszăpezite, dar rămân solicitante.",
+              "Verificați starea bateriei dacă lăsați mașina mult timp în frig."
+            ],
+            "en": [
+              "Keep a de-icer spray in the car for the evening hours.",
+              "Carry winter equipment (ice scraper, gloves) in the vehicle.",
+              "Mountain roads are cleared during snowfall but remains challenging.",
+              "Check battery status if parking for longer periods in the cold."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1182,6 +1746,188 @@
           "All major sights in Fehring are easily accessible on foot from the main square.",
           "Pack an umbrella as the weather can change quickly."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ankunft mit dem Bus am Hauptplatz. Die kurzen Wege zwischen den Haltestellen und den Sehenswürdigkeiten sind ideal für Regentage.\n\nMittags besuchen wir die Kirche und das Gerberhaus. Die öffentlichen Verkehrsmittel bieten eine trockene Verbindung durch die Stadt.\n\nNachmittags geht es zum Tabor und zum Park. Die Wartehäuschen der Busse bieten Schutz während der kurzen Pausen.\n\nAm Abend treten wir die Rückreise vom Hauptplatz an. Die Reflexionen der Lichter auf den nassen Scheiben des Busses wirken fast beruhigend.",
+            "hu": "Érkezés busszal a főtérre. A megállók és a látnivalók közötti rövid távolságok ideálisak esős napokon.\n\nDélben meglátogatjuk a templomot és a Gerberhaust. A tömegközlekedés száraz összeköttetést biztosít a városban.\n\nDélután a Tabor és a park következik. A buszvárók védelmet nyújtanak a rövid szünetek alatt.\n\nEste a főtérről indulunk vissza. A fények tükröződése a busz vizes ablakain szinte megnyugtató hatású.",
+            "ro": "Sosire cu autobuzul în piața centrală. Distanțele scurte între stații și obiective sunt ideale pentru zilele ploioase.\n\nLa prânz vizităm biserica și Gerberhaus. Transportul public oferă o legătură uscată prin oraș.\n\nDupă-amiaza mergem la Tabor și în parc. Adăposturile din stații oferă protecție în timpul scurtelor pauze.\n\nSeara pornim înapoi din piața centrală. Reflexiile luminilor pe geamurile ude ale autobuzului sunt relaxante.",
+            "en": "Arrival by bus at the main square. Short distances between stops and sights are ideal for rainy days.\n\nAt noon, we visit the church and the Gerberhaus. Public transport offers a dry connection through the town.\n\nIn the afternoon, we head to the Tabor and the park. Bus shelters provide protection during short breaks.\n\nIn the evening, we depart from the main square. The reflections of lights on the wet bus windows are almost soothing."
+          },
+          "stops": [
+            {
+              "name": "Arrival Fehring Main Square (Bus)",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist direkt am Rathaus, wo Sie sofort Schutz finden.",
+                "hu": "A megálló közvetlenül a városházánál van, ahol azonnal védelmet talál.",
+                "ro": "Stația este chiar lângă primărie, unde găsiți imediat adăpost.",
+                "en": "The stop is right by the town hall, where you'll find immediate shelter."
+              }
+            },
+            {
+              "name": "Parish Church of St. Nicholas",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg von der Haltestelle; ideal bei Nieselregen.",
+                "hu": "Rövid séta a megállótól; ideális szemerkélő esőben.",
+                "ro": "Drum scurt pe jos de la stație; ideal pe burniță.",
+                "en": "Short walk from the stop; ideal in light drizzle."
+              }
+            },
+            {
+              "name": "Gerberhaus",
+              "tip_5lang": {
+                "de": "Zentrale Lage, gut erreichbar mit mehreren Buslinien.",
+                "hu": "Központi elhelyezkedés, több buszjárattal is jól elérhető.",
+                "ro": "Locație centrală, ușor accesibilă cu mai multe linii de autobuz.",
+                "en": "Central location, easily accessible by several bus lines."
+              }
+            },
+            {
+              "name": "Fehring Tabor",
+              "tip_5lang": {
+                "de": "Bergauf etwas mühsam bei Regen, aber der Tabor selbst ist gut geschützt.",
+                "hu": "Felfelé kicsit nehézkes esőben, de maga a Tabor jól védett.",
+                "ro": "Urcarea e anevoioasă pe ploaie, dar Taborul în sine este bine protejat.",
+                "en": "Uphill is a bit tedious in the rain, but the Tabor itself is well-sheltered."
+              }
+            },
+            {
+              "name": "Rosegger Park",
+              "tip_5lang": {
+                "de": "Bushaltestelle in der Nähe bietet Schutz vor und nach dem Parkbesuch.",
+                "hu": "A közeli buszmegálló védelmet nyújt a parklátogatás előtt és után.",
+                "ro": "Stația de autobuz din apropiere oferă adăpost înainte și după vizită.",
+                "en": "Nearby bus stop offers shelter before and after the park visit."
+              }
+            },
+            {
+              "name": "Departure Fehring Main Square (Bus)",
+              "tip_5lang": {
+                "de": "Die beleuchtete Anzeige zeigt Ihnen die Ankunftszeit im Trockenen an.",
+                "hu": "A kivilágított kijelző szárazon mutatja az érkezési időt.",
+                "ro": "Afișajul iluminat vă indică ora de sosire stând la adăpost.",
+                "en": "The illuminated display shows the arrival time while you stay dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Verwenden Sie die ÖBB-App für Echtzeit-Updates bei wetterbedingten Verzögerungen.",
+              "Halten Sie Kleingeld oder die App für das Ticket griffbereit.",
+              "Buswartehäuschen sind der beste Ort, um trockenen Fußes auf den Anschluss zu warten.",
+              "Tragen Sie Kleidung mit Reflektoren für die bessere Sichtbarkeit an Haltestellen."
+            ],
+            "hu": [
+              "Használja az ÖBB alkalmazást a valós idejű frissítésekhez esőzés esetén.",
+              "Tartsa készenlétben az aprópénzt vagy az alkalmazást a jegyhez.",
+              "A buszvárók a legjobb helyek a csatlakozásra való várakozáshoz.",
+              "Viseljen fényvisszaverő elemeket a jobb láthatóság érdekében a megállókban."
+            ],
+            "ro": [
+              "Folosiți aplicația ÖBB pentru actualizări în timp real la întârzieri cauzate de vreme.",
+              "Aveți pregătiți banii mărunti sau aplicația pentru bilet.",
+              "Stațiile de autobuz sunt cele mai bune locuri pentru a aștepta conexiunile la uscat.",
+              "Purtați haine cu elemente reflectorizante pentru o mai bună vizibilitate în stații."
+            ],
+            "en": [
+              "Use the ÖBB app for real-time updates during weather-related delays.",
+              "Keep small change or the app ready for your ticket.",
+              "Bus shelters are the best place to wait for connections while staying dry.",
+              "Wear clothing with reflectors for better visibility at bus stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ankunft am frostigen Hauptplatz. Die Wärme des Busses schwindet schnell, aber die klare Luft erfrischt.\n\nMittags suchen wir Wärme in der Kirche und im Gerberhaus. Die beheizten öffentlichen Räume sind essenziell für die heutige Tour.\n\nNachmittags besuchen wir den Tabor. Die verschneiten Gassen wirken im sanften Licht besonders friedlich.\n\nAm Abend warten wir auf die Rückfahrt. Der beleuchtete Busbahnhof bietet einen sicheren und hellen Ort für das Ende des Tages.",
+            "hu": "Érkezés a fagyos főtérre. A busz melege gyorsan elszáll, de a tiszta levegő frissítő.\n\nDélben a templomban és a Gerberhausban keresünk meleget. A fűtött közösségi terek elengedhetetlenek a mai túrához.\n\nDélután a Tabort látogatjuk meg. A havas utcák a lágy fényben különösen békésnek tűnnek.\n\nEste a visszautat várjuk. A kivilágított buszpályaudvar biztonságos és világos hely a nap végéhez.",
+            "ro": "Sosire în piața centrală înghețată. Căldura autobuzului dispare repede, dar aerul curat este revigorant.\n\nLa prânz căutăm căldură în biserică și la Gerberhaus. Spațiile publice încălzite sunt esențiale pentru traseul de azi.\n\nDupă-amiaza vizităm Taborul. Străzile înzăpezite par deosebit de liniștite în lumina blândă.\n\nSeara așteptăm drumul de întoarcere. Autogara iluminată oferă un loc sigur și luminos pentru finalul zilei.",
+            "en": "Arrival at the frosty main square. The bus's warmth fades quickly, but the clear air is refreshing.\n\nAt noon, we seek warmth in the church and the Gerberhaus. Heated public spaces are essential for today's tour.\n\nIn the afternoon, we visit the Tabor. The snowy alleys look particularly peaceful in the soft light.\n\nIn the evening, we wait for the return journey. The illuminated bus station provides a safe and bright spot for the end of the day."
+          },
+          "stops": [
+            {
+              "name": "Arrival Fehring Main Square (Bus)",
+              "tip_5lang": {
+                "de": "Schnell ins nächste Café huschen, um sich nach der Fahrt aufzuwärmen.",
+                "hu": "Gyorsan menjen be a legközelebbi kávézóba, hogy felmelegedjen az út után.",
+                "ro": "Intrați repede în cea mai apropiată cafenea pentru a vă încălzi după drum.",
+                "en": "Quickly slip into the nearest cafe to warm up after the ride."
+              }
+            },
+            {
+              "name": "Parish Church of St. Nicholas",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um den kalten Windböen auf dem Platz zu entkommen.",
+                "hu": "Nyugodt hely, hogy elmeneküljön a téren fújó hideg szél elől.",
+                "ro": "Un loc liniștit pentru a scăpa de rafalele reci de vânt din piață.",
+                "en": "A quiet place to escape the cold wind gusts on the square."
+              }
+            },
+            {
+              "name": "Gerberhaus",
+              "tip_5lang": {
+                "de": "Verbringen Sie hier die kälteste Zeit des Tages im warmen Inneren.",
+                "hu": "Töltse itt a nap leghidegebb idejét a meleg belső térben.",
+                "ro": "Petreceți aici cel mai rece moment al zilei, în interiorul cald.",
+                "en": "Spend the coldest part of the day here in the warm interior."
+              }
+            },
+            {
+              "name": "Fehring Tabor",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf den Gehwegen rund um die Festung.",
+                "hu": "Ügyeljen a jegesedésre a vár körüli járdákon.",
+                "ro": "Atenție la polei pe trotuarele din jurul fortăreței.",
+                "en": "Watch out for black ice on the walkways around the fortress."
+              }
+            },
+            {
+              "name": "Rosegger Park",
+              "tip_5lang": {
+                "de": "Im Winter oft sehr windig; mützen und Schals sind hier Pflicht.",
+                "hu": "Télen gyakran nagyon szeles; a sapka és sál itt kötelező.",
+                "ro": "Adesea foarte vântos iarna; căciula și fularul sunt obligatorii aici.",
+                "en": "Often very windy in winter; hats and scarves are a must here."
+              }
+            },
+            {
+              "name": "Departure Fehring Main Square (Bus)",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Wartezeit für einen letzten heißen Tee zum Mitnehmen.",
+                "hu": "Használja ki a várakozási időt egy utolsó elvihető forró teára.",
+                "ro": "Folosiți timpul de așteptare pentru un ultim ceai fierbinte la pachet.",
+                "en": "Use the waiting time for one last hot tea to go."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "In den Bussen ist es meist gut geheizt – ideal zum Zwischenaufwärmen.",
+              "Achten Sie auf geänderte Fahrpläne an Feiertagen im Winter.",
+              "Planen Sie Pufferzeiten ein, da Schnee den Verkehr verlangsamen kann.",
+              "Warten Sie in Innenräumen von Geschäften, falls der Bus Verspätung hat."
+            ],
+            "hu": [
+              "A buszokon általában jó a fűtés – ideális a köztes bemelegedéshez.",
+              "Ügyeljen a téli ünnepek alatti módosított menetrendre.",
+              "Számoljon ráhagyással, mert a hó lelassíthatja a közlekedést.",
+              "Várjon az üzletek belső terében, ha a busz késik."
+            ],
+            "ro": [
+              "Autobuzele sunt de obicei bine încălzite – ideal pentru o încălzire rapidă.",
+              "Atenție la orarele modificate în timpul sărbătorilor de iarnă.",
+              "Prevedeți timp suplimentar, deoarece zăpada poate încetini traficul.",
+              "Așteptați în interiorul magazinelor dacă autobuzul are întârziere."
+            ],
+            "en": [
+              "Buses are usually well-heated – ideal for warming up between stops.",
+              "Watch out for modified schedules during winter holidays.",
+              "Plan for extra time as snow can slow down traffic.",
+              "Wait inside shops if the bus is delayed."
+            ]
+          }
+        }
       }
     }
   }

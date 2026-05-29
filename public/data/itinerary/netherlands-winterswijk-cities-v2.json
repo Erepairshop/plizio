@@ -331,6 +331,170 @@
           "Most shops close around 6 PM, so plan your shopping accordingly.",
           "An umbrella is always a good idea in the Netherlands, even on sunny days."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt am Lappenbrink, wo die historischen Fassaden im Regen glänzen. Mittags bietet die St. Jacob's Kirche einen trockenen Zufluchtsort, gefolgt von regionaler Kost im nahen Zentrum. Am Nachmittag erleben Sie Weltklasse-Kunst bei Mondriaan, perfekt geschützt vor dem Wetter. Der Abend endet mit einem erfrischenden Spaziergang zum Strandbad, wo die feuchte Luft den Tag belebend abschließt.",
+            "hu": "A reggel a Lappenbrink téren indul, ahol az esőben csillogó kövek különleges hangulatot adnak. Délben a Szent Jakab-templom nyújt menedéket, majd a belváros ízei melengetik fel. A délutánt a Mondriaan Múzeum falai között töltjük, távol az elemektől. A napot egy frissítő, esernyős tóparti séta zárja a Strandbadnál, élvezve a párás, tiszta levegőt.",
+            "ro": "Dimineața începe în Piața Lappenbrink, unde fațadele istorice strălucesc sub ploaie. La prânz, Biserica Sf. Iacob oferă un refugiu uscat, urmat de o masă caldă în centrul orașului. După-amiaza este dedicată artei la Vila Mondriaan, ferită de vremea neprietenoasă. Seara se încheie cu o plimbare revigorantă spre Strandbad, unde aerul umed aduce o notă de prospețime zilei.",
+            "en": "The morning starts at Lappenbrink Square, where historic facades glisten in the rain. At noon, St. Jacob's Church provides a dry sanctuary, followed by local comfort food in the center. The afternoon is spent exploring art at Villa Mondriaan, safe from the elements. End the day with a refreshing walk to Strandbad, where the humid lakeside air provides a crisp finish to your tour."
+          },
+          "stops": [
+            {
+              "name": "Lappenbrink Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Arkaden der nahen Geschäfte.",
+                "hu": "Használja a közeli boltok árkádjait menedékként.",
+                "ro": "Folosiți arcadele magazinelor din apropiere pentru adăpost.",
+                "en": "Use the arcades of nearby shops for cover from rain."
+              }
+            },
+            {
+              "name": "St. Jacob's Church",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um einen kräftigen Schauer trocken abzuwarten.",
+                "hu": "Ideális hely egy erősebb zápor száraz megvárására.",
+                "ro": "Un loc ideal pentru a aștepta trecerea unei ploi torențiale.",
+                "en": "An ideal place to wait out a heavy downpour in the dry."
+              }
+            },
+            {
+              "name": "Museum Villa Mondriaan",
+              "tip_5lang": {
+                "de": "Garderobe für nasse Mäntel und Schirme ist vorhanden.",
+                "hu": "Ruhatár áll rendelkezésre a vizes kabátoknak és ernyőknek.",
+                "ro": "Garderobă disponibilă pentru haine ude și umbrele.",
+                "en": "Cloakroom available for wet coats and umbrellas."
+              }
+            },
+            {
+              "name": "Lunch in the Center",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Lokal mit direktem Blick auf den Marktplatz.",
+                "hu": "Válasszon egy közvetlen kilátással rendelkező helyet a főtérre.",
+                "ro": "Alegeți un local cu vedere directă spre piața centrală.",
+                "en": "Pick a spot with a direct view of the market square."
+              }
+            },
+            {
+              "name": "Strandbad Winterswijk",
+              "tip_5lang": {
+                "de": "Feste Schuhe sind wichtig, da die Wege rutschig sein können.",
+                "hu": "A vízparti utak csúszósak lehetnek, viseljen zárt cipőt.",
+                "ro": "Căile de acces pot fi alunecoase; purtați încălțăminte aderentă.",
+                "en": "Waterfront paths can be slippery; wear sturdy shoes."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Regenschirm ist bei Küstenwinden unerlässlich.",
+              "Die Innenstadtwege sind gut gepflastert, aber oft nass.",
+              "Viele Cafés bieten gemütliche Innenplätze zum Aufwärmen.",
+              "Besuchen Sie das Museum bei starkem Regen für längere Zeit."
+            ],
+            "hu": [
+              "Egy erős esernyő nélkülözhetetlen a szeles időben.",
+              "A belvárosi utak jól burkoltak, de esőben csúszhatnak.",
+              "Számos kávézó kínál meghitt belső teret a felmelegedéshez.",
+              "Heves esőzés esetén tervezzen hosszabb időt a múzeumlátogatásra."
+            ],
+            "ro": [
+              "O umbrelă rezistentă este esențială din cauza vântului.",
+              "Drumurile din centru sunt pavate, dar pot fi umede.",
+              "Multe cafenele oferă locuri primitoare în interior.",
+              "Vizitați muzeul pentru o perioadă mai lungă în caz de ploaie."
+            ],
+            "en": [
+              "A sturdy umbrella is essential due to frequent winds.",
+              "Town center paths are well-paved but often wet.",
+              "Many cafes offer cozy indoor seating to warm up.",
+              "Spend extra time in the museum if the rain intensifies."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen beginnt frisch am Lappenbrink, gefolgt von der wärmenden Stille der St. Jacob's Kirche. Mittags stärken Sie sich in der gemütlichen Innenstadt für den kulturellen Nachmittag im Mondriaan Museum. Wenn die Dämmerung früh einsetzt, wirkt das Zentrum besonders einladend beleuchtet. Ein kurzer Spaziergang zum winterlichen Strandbad lässt den Tag in friedlicher Stille ausklingen.",
+            "hu": "A téli reggel frissen indul a Lappenbrink téren, majd a Szent Jakab-templom áhítata melegít fel. Délben a belváros hangulatos vendéglői várják, hogy erőt gyűjtsön a délutáni Mondriaan Múzeumhoz. A korai sötétedéskor kigyúló fények különleges bájt adnak a városnak. A napot a Strandbad jeges vagy deres partján tett csendes séta zárja.",
+            "ro": "Dimineața de iarnă începe răcoros în Piața Lappenbrink, urmată de liniștea primitoare a Bisericii Sf. Iacob. La prânz, centrul istoric oferă confort pentru după-amiaza culturală la Vila Mondriaan. Pe măsură ce amurgul coboară devreme, centrul iluminat devine fermecător. O scurtă plimbare spre Strandbad-ul adormit încheie ziua într-o atmosferă de pace.",
+            "en": "The winter morning starts crisp at Lappenbrink Square, followed by the warming silence of St. Jacob's Church. At noon, enjoy the cozy town center before your cultural afternoon at Villa Mondriaan. As dusk falls early, the illuminated streets create a magical atmosphere. A final walk to the wintry Strandbad lets you experience the town's peaceful winter silence."
+          },
+          "stops": [
+            {
+              "name": "Lappenbrink Square",
+              "tip_5lang": {
+                "de": "Achten Sie auf eventuelles Glatteis auf dem Kopfsteinpflaster.",
+                "hu": "Vigyázzon a macskaköveken kialakuló esetleges jegesedésre.",
+                "ro": "Atenție la poleiul ce se poate forma pe pavajul de piatră.",
+                "en": "Watch out for potential black ice on the cobblestones."
+              }
+            },
+            {
+              "name": "St. Jacob's Church",
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten den Wind ab; ideal zum Aufwärmen.",
+                "hu": "A vastag falak felfogják a szelet; ideális melegedőhely.",
+                "ro": "Zidurile groase opresc vântul; ideal pentru a vă încălzi.",
+                "en": "The thick walls block the wind; an ideal spot to warm up."
+              }
+            },
+            {
+              "name": "Museum Villa Mondriaan",
+              "tip_5lang": {
+                "de": "Genießen Sie die moderne Kunst in gut temperierten Räumen.",
+                "hu": "Élvezze a modern művészetet a kellemesen fűtött termekben.",
+                "ro": "Bucurați-vă de arta modernă în săli bine încălzite.",
+                "en": "Enjoy modern art in the comfortably heated galleries."
+              }
+            },
+            {
+              "name": "Lunch in the Center",
+              "tip_5lang": {
+                "de": "Fragen Sie nach saisonalen Winterspezialitäten wie Erbsensuppe.",
+                "hu": "Kérjen téli különlegességeket, például sűrű borsólevest.",
+                "ro": "Cereți specialități de iarnă, cum ar fi supa densă de mazăre.",
+                "en": "Ask for seasonal winter specials like Dutch pea soup."
+              }
+            },
+            {
+              "name": "Strandbad Winterswijk",
+              "tip_5lang": {
+                "de": "Der See ist im Winter oft zugefroren; Betreten verboten.",
+                "hu": "A tó télen gyakran befagy; a jégre lépni azonban tilos.",
+                "ro": "Lacul îngheață adesea iarna; accesul pe gheață este interzis.",
+                "en": "The lake often freezes in winter; walking on ice is prohibited."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Winter bereits gegen 16:30 Uhr unter.",
+              "Tragen Sie Schichten, da es am See windig sein kann.",
+              "Die Wege zum Strandbad können im Winter ungeräumt sein.",
+              "Warme Getränke in den Cafés sind ein Muss nach dem Spaziergang."
+            ],
+            "hu": [
+              "A nap télen már 16:30 körül nyugovóra tér.",
+              "Öltözzön rétegesen, a tóparton felerősödhet a szél.",
+              "A Strandbad felé vezető utak havasak vagy jegesek lehetnek.",
+              "Séta után próbálja ki a helyi forró csokoládét a főtéren."
+            ],
+            "ro": [
+              "Soarele apune deja în jurul orei 16:30 pe timp de iarnă.",
+              "Purtați haine în straturi; vântul este tăios lângă lac.",
+              "Drumurile spre Strandbad pot fi necurățate de zăpadă.",
+              "Băuturile calde din cafenele sunt obligatorii după plimbare."
+            ],
+            "en": [
+              "The sun sets as early as 16:30 during winter days.",
+              "Dress in layers as the wind can be biting near the water.",
+              "Paths to the Strandbad might not be cleared of snow.",
+              "Hot drinks in local cafes are a must after your walk."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -684,6 +848,188 @@
           "Bring water and snacks, as shops are scarce outside the center.",
           "Check the weather forecast; the weather can change quickly."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen ist das Radfahren in Winterswijk ein Erlebnis. Der Vormittag führt durch das historische Zentrum zur Mondriaan-Villa. Mittags radeln Sie durch die feuchte Kulissenlandschaft zur Sevink Mühle für eine warme Mahlzeit. Nachmittags geht es am Hilgelo-See vorbei, bevor die Tour in der mystischen Stille des nassen Bekendelle-Waldes ihr atmosphärisches Ende findet.",
+            "hu": "Az eső sem akadály egy jó bringázáshoz Winterswijk környékén. Délelőtt a belvárost érintve a Mondriaan Múzeumba látogatunk el. Az esőillatú tájon tekerünk ki a Sevink-malomhoz egy finom ebédre. Délután a Hilgelo tó partja mellett suhanunk el, majd a napot a Bekendelle erdő különleges, párás csendjében zárjuk.",
+            "ro": "În ciuda ploii, mersul pe bicicletă rămâne o experiență plăcută aici. Dimineața vizităm centrul și Muzeul Mondriaan. Însoțiți de mirosul proaspăt al ploii, pedalăm spre Moara Sevink pentru prânz. După-amiaza trecem pe lângă lacul Hilgelo și încheiem traseul în liniștea mistică a pădurii umede Bekendelle.",
+            "en": "Cycling in Winterswijk is rewarding even in the rain. Spend the morning at the church and Mondriaan Museum. Then, ride through the misty landscape to Sevink Mill for a warm lunch. In the afternoon, pedal past Lake Hilgelo and finish your tour in the mystical, damp silence of the Bekendelle forest."
+          },
+          "stops": [
+            {
+              "name": "Lappenbrink & St. Jacob's Church",
+              "tip_5lang": {
+                "de": "Überdachte Fahrradständer befinden sich in der Nähe.",
+                "hu": "Fedett kerékpártárolók találhatók a közelben.",
+                "ro": "Rasteluri de biciclete acoperite se află în apropiere.",
+                "en": "Covered bicycle racks are available nearby."
+              }
+            },
+            {
+              "name": "Museum Villa Mondriaan",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad sicher im Innenhof des Museums.",
+                "hu": "Parkolja le biztonságosan kerékpárját a belső udvarban.",
+                "ro": "Parcați bicicleta în siguranță în curtea muzeului.",
+                "en": "Park your bike safely in the museum's inner courtyard."
+              }
+            },
+            {
+              "name": "Sevink Mill",
+              "tip_5lang": {
+                "de": "Die Mühle bietet guten Schutz vor plötzlichen Schauern.",
+                "hu": "A malom épülete kiváló védelmet nyújt a záporok elől.",
+                "ro": "Clădirea morii oferă protecție bună împotriva ploii.",
+                "en": "The mill building provides good shelter from sudden rain."
+              }
+            },
+            {
+              "name": "Lunch at the Mill",
+              "tip_5lang": {
+                "de": "Ideal, um die Regenbekleidung kurz trocknen zu lassen.",
+                "hu": "Ideális hely az esőruházat rövid megszárítására.",
+                "ro": "Loc perfect pentru a lăsa echipamentul de ploaie la uscat.",
+                "en": "Ideal spot to let your rain gear dry for a bit."
+              }
+            },
+            {
+              "name": "Hilgelo",
+              "tip_5lang": {
+                "de": "Die Uferwege können nach Regen etwas aufgeweicht sein.",
+                "hu": "A tóparti utak eső után felázhatnak, óvatosan hajtson.",
+                "ro": "Căile de pe mal pot fi noroioase după ploaie.",
+                "en": "Lakeside paths can be muddy after rain; ride carefully."
+              }
+            },
+            {
+              "name": "Bekendelle",
+              "tip_5lang": {
+                "de": "Vorsicht vor rutschigen Blättern auf den Waldwegen.",
+                "hu": "Vigyázzon az erdei utakon a csúszós, vizes levelekre.",
+                "ro": "Atenție la frunzele ude și alunecoase de pe poteci.",
+                "en": "Watch out for slippery wet leaves on the forest paths."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Gute Regenbekleidung und Schutzbleche sind ein Muss.",
+              "Die Radwege sind meist asphaltiert und gut befahrbar.",
+              "Prüfen Sie Ihre Bremsen, da Nässe den Bremsweg verlängert.",
+              "Nutzen Sie Packtaschen, um Ihre Ausrüstung trocken zu halten."
+            ],
+            "hu": [
+              "A jó esőruha és a sárvédő elengedhetetlen kellék.",
+              "A kerékpárutak többnyire aszfaltozottak és jól járhatóak.",
+              "Ellenőrizze a fékeket, mert a vizes úton nő a féktávolság.",
+              "Használjon vízhatlan táskákat a felszerelése védelmében."
+            ],
+            "ro": [
+              "Echipamentul bun de ploaie și apărătorile sunt esențiale.",
+              "Pistele de biciclete sunt majoritatea asfaltate și bune.",
+              "Verificați frânele; distanța de frânare crește pe ud.",
+              "Folosiți genți impermeabile pentru a vă păstra bagajele uscate."
+            ],
+            "en": [
+              "Good rain gear and mudguards are essential requirements.",
+              "Most bike paths are paved and remain easy to navigate.",
+              "Check your brakes as wet conditions increase stopping distance.",
+              "Use waterproof panniers to keep your belongings dry."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine Wintertour per Rad erfordert warme Kleidung, belohnt aber mit klaren Aussichten. Nach dem Start im frostigen Zentrum folgt der kulturelle Teil bei Mondriaan. Mittags führt der Weg zur historischen Sevink Mühle für eine warme Stärkung. Die winterliche Landschaft am Hilgelo-See wirkt fast schlafend, während der Bekendelle-Wald mit zarter Reifglätte ein magisches Finale bietet.",
+            "hu": "A téli bringázáshoz réteges öltözet kell, de a friss levegő kárpótol érte. A belváros és a múzeum után a Sevink-malom felé vesszük az irányt egy forró ebédre. A Hilgelo tó körüli táj ilyenkor békésen pihen, a Bekendelle erdő zúzmarás fái pedig varázslatos díszletet nyújtanak a túra látványos lezárásához.",
+            "ro": "O tură de iarnă cu bicicleta necesită haine groase, dar oferă peisaje clare. După vizita la muzeu, drumul duce spre istorica Moară Sevink pentru o masă caldă. Peisajul din jurul lacului Hilgelo pare adormit, iar pădurea Bekendelle cu arborii înghețați oferă un cadru magic pentru finalul traseului.",
+            "en": "A winter bike tour requires warm clothing but rewards you with crisp views. After exploring the center and the museum, head out to the historic Sevink Mill. The winter landscape around Lake Hilgelo feels dormant, while the Bekendelle forest provides a magical frosty backdrop to end your ride."
+          },
+          "stops": [
+            {
+              "name": "Lappenbrink & St. Jacob's Church",
+              "tip_5lang": {
+                "de": "Das Zentrum ist oft festlich beleuchtet; ideal am späten Vormittag.",
+                "hu": "A belváros gyakran ünnepi díszben áll; délelőtt is hangulatos.",
+                "ro": "Centrul este adesea iluminat festiv; ideal spre sfârșitul dimineții.",
+                "en": "The center is often festively lit; ideal in the late morning."
+              }
+            },
+            {
+              "name": "Museum Villa Mondriaan",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich hier auf, bevor es aus der Stadt geht.",
+                "hu": "Melegedjen fel itt, mielőtt elhagyná a várost.",
+                "ro": "Încălziți-vă aici înainte de a părăsi orașul.",
+                "en": "Warm up here before heading out of the town limits."
+              }
+            },
+            {
+              "name": "Sevink Mill",
+              "tip_5lang": {
+                "de": "Im Winter wirkt die alte Mühle besonders imposant.",
+                "hu": "Télen a régi malomépület különösen impozáns látvány.",
+                "ro": "Iarna, vechea moară pare deosebit de impunătoare.",
+                "en": "The old mill looks particularly imposing in winter."
+              }
+            },
+            {
+              "name": "Lunch at the Mill",
+              "tip_5lang": {
+                "de": "Ein heißer Tee oder Kakao ist jetzt genau das Richtige.",
+                "hu": "Egy forró tea vagy kakaó most a legjobb választás.",
+                "ro": "Un ceai fierbinte sau o cacao este exact ce aveți nevoie.",
+                "en": "A hot tea or cocoa is exactly what you need right now."
+              }
+            },
+            {
+              "name": "Hilgelo",
+              "tip_5lang": {
+                "de": "Achten Sie auf starken Wind auf den offenen Flächen am See.",
+                "hu": "Vigyázzon az erős szélre a tó körüli nyílt területeken.",
+                "ro": "Atenție la vântul puternic pe zonele deschise de lângă lac.",
+                "en": "Watch out for strong winds on the open areas by the lake."
+              }
+            },
+            {
+              "name": "Bekendelle",
+              "tip_5lang": {
+                "de": "Die Wege können gefroren sein; fahren Sie vorsichtig.",
+                "hu": "Az utak lejegesedhetnek, hajtson óvatosabb tempóban.",
+                "ro": "Drumurile pot fi înghețate; pedalați cu prudență.",
+                "en": "Paths may be frozen; ride at a cautious pace."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie unbedingt Handschuhe und eine winddichte Jacke.",
+              "Die Tage sind kurz; achten Sie auf funktionierendes Licht.",
+              "Winterreifen oder ein niedrigerer Reifendruck helfen bei Glätte.",
+              "Planen Sie mehr Zeit für Pausen in warmen Gebäuden ein."
+            ],
+            "hu": [
+              "Mindenképpen viseljen kesztyűt és szélálló kabátot.",
+              "A nappalok rövidek, ellenőrizze a világítás működését.",
+              "A jeges utakon segíthet az alacsonyabb guminyomás.",
+              "Tervezzen több időt a fűtött helyeken tartott pihenőkre."
+            ],
+            "ro": [
+              "Purtați neapărat mănuși și o jachetă rezistentă la vânt.",
+              "Zilele sunt scurte; asigurați-vă că luminile funcționează.",
+              "Presiunea mai mică în pneuri ajută pe drumuri alunecoase.",
+              "Planificați mai mult timp pentru pauze în clădiri încălzite."
+            ],
+            "en": [
+              "Always wear gloves and a windproof jacket.",
+              "Days are short; ensure your bike lights are working perfectly.",
+              "Lower tire pressure can help with grip on slippery paths.",
+              "Schedule more frequent breaks in heated buildings."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1055,6 +1401,206 @@
           "The Steengroeve has limited opening hours; be sure to check in advance.",
           "Gas stations can be scarce in rural areas, so plan ahead."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Winterswijk auch bei Regen bequem zu erkunden. Der Vormittag im Zentrum bleibt dank kurzer Wege trocken. Nach dem Mondriaan-Besuch geht es zum Steinbruch, wo der Regen die Gesteinsschichten farbenfroh leuchten lässt. Ein Abstecher zum Hilgelo-See und der gemütliche Abschluss an der Sevink Mühle runden den Tag entspannt und wetterunabhängig ab.",
+            "hu": "Autóval a legnagyobb esőben is kényelmesen felfedezhető Winterswijk. A belvárosi séta után a Mondriaan Múzeumba látogatunk. Délután a kőfejtőhöz autózunk, ahol az eső kiemeli a kőzetek színeit. A Hilgelo-tó érintésével érkezünk meg a Sevink-malomhoz, ahol fedél alatt élvezhetjük a tájat és egy jó ebédet.",
+            "ro": "Cu mașina, Winterswijk este ușor de explorat chiar și pe ploaie. Dimineața în centru rămâne uscată datorită distanțelor mici. După vizita la muzeu, mergem la carieră, unde ploaia face culorile rocii să strălucească intens. O oprire la lacul Hilgelo și finalul la Moara Sevink completează ziua într-un mod relaxat.",
+            "en": "Winterswijk is easily explored by car even during heavy rain. The morning in the center stays dry thanks to short walking distances. After visiting the museum, drive to the quarry where rain makes the rock layers glow beautifully. A detour to Lake Hilgelo and a stop at Sevink Mill round off the day comfortably and dry."
+          },
+          "stops": [
+            {
+              "name": "Park and Start in the Center",
+              "tip_5lang": {
+                "de": "Parkhäuser bieten einen trockenen Zugang zur Fußgängerzone.",
+                "hu": "A parkolóházakból szárazon érhető el a sétálóövezet.",
+                "ro": "Parcările acoperite oferă acces uscat la zona pietonală.",
+                "en": "Parking garages offer dry access to the pedestrian zone."
+              }
+            },
+            {
+              "name": "Lappenbrink & St. Jacob's Church",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen den Sehenswürdigkeiten minimieren Nässe.",
+                "hu": "A látnivalók közötti rövid távolság csökkenti az ázást.",
+                "ro": "Distanțele scurte între obiective minimizează expunerea.",
+                "en": "Short distances between sights minimize exposure to rain."
+              }
+            },
+            {
+              "name": "Museum Villa Mondriaan",
+              "tip_5lang": {
+                "de": "Parkplätze finden Sie oft direkt in den Seitenstraßen.",
+                "hu": "A mellékutcákban gyakran találni közeli parkolóhelyet.",
+                "ro": "Locurile de parcare se găsesc adesea pe străzile laterale.",
+                "en": "Parking spaces can often be found in the side streets."
+              }
+            },
+            {
+              "name": "Lunch and back to the car",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Regenschirm für den kurzen Weg zum Wagen.",
+                "hu": "Használjon esernyőt az autóig tartó rövid szakaszon.",
+                "ro": "Folosiți umbrela pentru drumul scurt înapoi la mașină.",
+                "en": "Use an umbrella for the short walk back to your car."
+              }
+            },
+            {
+              "name": "Winterswijk Quarry",
+              "tip_5lang": {
+                "de": "Die Aussichtsplattform bietet meist einen Unterstand.",
+                "hu": "A kilátópontnál általában található fedett beálló.",
+                "ro": "Platforma de observație oferă de obicei un adăpost.",
+                "en": "The viewing platform usually provides some shelter."
+              }
+            },
+            {
+              "name": "Hilgelo",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den See direkt aus dem Auto.",
+                "hu": "Élvezze a tóra nyíló kilátást közvetlenül az autóból.",
+                "ro": "Bucurați-vă de vederea spre lac direct din mașină.",
+                "en": "Enjoy the lake view directly from the comfort of your car."
+              }
+            },
+            {
+              "name": "Sevink Mill",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist befestigt und nur wenige Schritte entfernt.",
+                "hu": "A parkoló szilárd burkolatú és csak pár lépésre van.",
+                "ro": "Parcarea este pavată și la doar câțiva pași distanță.",
+                "en": "The parking lot is paved and only a few steps away."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie bei Regen auf Aquaplaning auf den Landstraßen.",
+              "Parken Sie bevorzugt in der Nähe von überdachten Bereichen.",
+              "Lassen Sie nasse Schirme im Kofferraum, um Beschlag zu vermeiden.",
+              "Prüfen Sie vorab die Befahrbarkeit der Feldwege zum Steinbruch."
+            ],
+            "hu": [
+              "Esőben ügyeljen a felúszás veszélyére az országutakon.",
+              "Lehetőleg fedett helyek közelében parkoljon le.",
+              "A vizes ernyőt tegye a csomagtartóba a párásodás ellen.",
+              "Ellenőrizze a kőfejtőhöz vezető utak járhatóságát."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumurile județene.",
+              "Parcați de preferință în apropierea zonelor acoperite.",
+              "Lăsați umbrelele ude în portbagaj pentru a evita aburirea.",
+              "Verificați starea drumurilor secundare spre carieră."
+            ],
+            "en": [
+              "Watch out for aquaplaning on regional country roads.",
+              "Prefer parking spots near covered or sheltered areas.",
+              "Keep wet umbrellas in the trunk to prevent window fogging.",
+              "Check the accessibility of rural roads leading to the quarry."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter bietet das Auto den idealen Komfort für Winterswijk. Nach dem Start im frostigen Zentrum folgt der Besuch bei Mondriaan. Die Fahrt zum Steinbruch zeigt die beeindruckende Geologie unter kühlem Winterlicht. Über den ruhigen Hilgelo-See führt die Route zur Sevink Mühle, wo der Tag bei historischem Ambiente und einer warmen Mahlzeit gemütlich zu Ende geht.",
+            "hu": "Télen az autó biztosítja a kényelmet Winterswijk felfedezéséhez. A deres belváros után a Mondriaan Múzeumban folytatódik a program. A kőfejtőhöz autózva a geológiai rétegek különleges téli fényben mutatkoznak meg. A csendes Hilgelo-tó mellett elhaladva a Sevink-malom történelmi környezetében és egy jó vacsorával zárjuk a napot.",
+            "ro": "Iarna, mașina oferă confortul necesar pentru a vizita Winterswijk. După centrul înghețat, urmează partea culturală la Muzeul Mondriaan. Drumul spre carieră dezvăluie geologia impresionantă sub lumina clară a iernii. Traseul trece pe lângă lacul Hilgelo și se termină la Moara Sevink, cu o cină caldă și primitoare.",
+            "en": "In winter, the car provides much-needed comfort for exploring Winterswijk. After starting in the frosty center, enjoy the cultural highlights at Villa Mondriaan. Driving to the quarry reveals impressive geology under clear winter light. The route passes the quiet Lake Hilgelo and ends at the historic Sevink Mill with a cozy meal."
+          },
+          "stops": [
+            {
+              "name": "Park and Start in the Center",
+              "tip_5lang": {
+                "de": "Denken Sie daran, die Windschutzscheibe rechtzeitig zu enteisen.",
+                "hu": "Ne felejtse el időben leolvasztani a szélvédőt.",
+                "ro": "Nu uitați să dezghețați parbrizul din timp.",
+                "en": "Remember to de-ice your windshield in good time."
+              }
+            },
+            {
+              "name": "Lappenbrink & St. Jacob's Church",
+              "tip_5lang": {
+                "de": "Das Kopfsteinpflaster kann bei Frost sehr glatt sein.",
+                "hu": "A macskakő fagyos időben rendkívül csúszós lehet.",
+                "ro": "Pavajul de piatră poate fi foarte alunecos pe ger.",
+                "en": "Cobblestones can be extremely slippery in freezing weather."
+              }
+            },
+            {
+              "name": "Museum Villa Mondriaan",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Sitzheizung für die kurzen Fahrten dazwischen.",
+                "hu": "Használja az ülésfűtést a rövid köztes szakaszokon.",
+                "ro": "Folosiți încălzirea în scaune pentru drumurile scurte.",
+                "en": "Use your seat heating for the short drives in between stops."
+              }
+            },
+            {
+              "name": "Lunch and back to the car",
+              "tip_5lang": {
+                "de": "Ein vorgewärmtes Auto macht den Übergang angenehmer.",
+                "hu": "Egy előmelegített autó kényelmesebbé teszi az indulást.",
+                "ro": "O mașină preîncălzită face tranziția mai plăcută.",
+                "en": "A pre-warmed car makes the transition much more pleasant."
+              }
+            },
+            {
+              "name": "Winterswijk Quarry",
+              "tip_5lang": {
+                "de": "Die Zufahrt kann bei Schnee geräumt, aber schmal sein.",
+                "hu": "A kőfejtőhöz vezető út havas lehet, de általában takarítják.",
+                "ro": "Accesul poate fi îngust dacă a nins recent.",
+                "en": "The access road might be narrow if it has snowed recently."
+              }
+            },
+            {
+              "name": "Hilgelo",
+              "tip_5lang": {
+                "de": "Parken Sie vorsichtig, da die Seitenstreifen weich sein können.",
+                "hu": "Parkoljon óvatosan, mert a padka felázott vagy fagyott lehet.",
+                "ro": "Parcați cu atenție; marginile drumului pot fi înșelătoare.",
+                "en": "Park carefully as road shoulders can be soft or frozen."
+              }
+            },
+            {
+              "name": "Sevink Mill",
+              "tip_5lang": {
+                "de": "Die Mühle ist im Winter oft wunderschön beleuchtet.",
+                "hu": "A malom télen gyakran gyönyörű kivilágítást kap.",
+                "ro": "Moara este adesea iluminată superb pe timpul iernii.",
+                "en": "The mill is often beautifully illuminated in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Reifendruck bei sinkenden Temperaturen.",
+              "Führen Sie immer einen Eiskratzer und Frostschutzmittel mit.",
+              "Die ländlichen Straßen werden oft erst spät geräumt.",
+              "Planen Sie die Rückreise vor Einbruch der frühen Dunkelheit."
+            ],
+            "hu": [
+              "Ellenőrizze a guminyomást a csökkenő hőmérsékletben.",
+              "Mindig legyen az autóban jégkaparó és fagyálló folyadék.",
+              "A vidéki utakat gyakran csak később takarítják le.",
+              "Tervezze meg a visszautat a korai sötétedés előtt."
+            ],
+            "ro": [
+              "Verificați presiunea în pneuri la temperaturi scăzute.",
+              "Aveți mereu la îndemână o racletă și lichid de parbriz.",
+              "Drumurile rurale sunt adesea deszăpezite mai târziu.",
+              "Planificați întoarcerea înainte de lăsarea întunericului."
+            ],
+            "en": [
+              "Check tire pressure regularly as temperatures drop.",
+              "Always carry an ice scraper and anti-freeze fluid.",
+              "Rural roads are often cleared of snow later than main ones.",
+              "Plan your return trip before the early onset of darkness."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1384,6 +1930,170 @@
           "Download the '9292' app for real-time public transport information in the Netherlands.",
           "Be clearly visible at the bus stop and signal the driver."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Dank guter Busverbindungen lässt sich Winterswijk auch im Regen stressfrei erkunden. Nach der Ankunft am Bahnhof führt ein kurzer Weg ins Zentrum. Der Museumsbesuch bietet Schutz, bevor der Bus Sie zum Hilgelo-See bringt. Genießen Sie die vorbeiziehende Kulissenlandschaft im Trockenen, bevor Sie am Abend gemütlich nach einem Abendessen zum Bahnhof zurückkehren.",
+            "hu": "A jó buszközlekedésnek köszönhetően Winterswijk esőben is kényelmesen bejárható. A vasútállomásról rövid sétával elérhető a központ és a Mondriaan Múzeum. Délután busszal utazunk a Hilgelo-tóhoz, így a tájat szárazon, az ablakból csodálhatjuk meg. Az estét egy belvárosi vacsora és a hazautazás zárja.",
+            "ro": "Datorită conexiunilor bune de autobuz, Winterswijk poate fi explorat fără stres pe ploaie. De la gară ajungem rapid în centru. Vizita la muzeu oferă protecție, apoi autobuzul ne duce spre lacul Hilgelo. Bucurați-vă de peisaj de la fereastră înainte de a reveni seara la gară pentru plecare.",
+            "en": "Thanks to good bus connections, Winterswijk can be explored stress-free in the rain. A short walk from the station leads to the center and museum. Later, a bus ride to Lake Hilgelo allows you to enjoy the scenery from a dry seat. End the day with a cozy dinner in town before returning to the station for departure."
+          },
+          "stops": [
+            {
+              "name": "Arrival at the station and walk to the center",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Wartebereich im Bahnhof bei starkem Regen.",
+                "hu": "Heves esőzés esetén használja az állomás várótermét.",
+                "ro": "Folosiți sala de așteptare din gară în caz de ploaie grea.",
+                "en": "Use the station waiting area during heavy downpours."
+              }
+            },
+            {
+              "name": "Center Cluster: Lappenbrink & Mondriaan Museum",
+              "tip_5lang": {
+                "de": "Die Bushaltestellen im Zentrum sind meist überdacht.",
+                "hu": "A belvárosi buszmegállók többnyire fedettek.",
+                "ro": "Stațiile de autobuz din centru sunt majoritatea acoperite.",
+                "en": "Bus stops in the city center are mostly sheltered."
+              }
+            },
+            {
+              "name": "Lunch and Bus Ride",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Abfahrtszeiten bequem per App im Restaurant.",
+                "hu": "Ellenőrizze az indulást kényelmesen, applikáción keresztül.",
+                "ro": "Verificați orarul autobuzelor prin aplicație din restaurant.",
+                "en": "Check departure times via app from the restaurant."
+              }
+            },
+            {
+              "name": "Hilgelo",
+              "tip_5lang": {
+                "de": "Vom Busstopp zum See sind es nur wenige Gehminuten.",
+                "hu": "A buszmegállótól a tópart csak pár perc séta.",
+                "ro": "De la stația de autobuz la lac sunt doar câteva minute.",
+                "en": "It's only a few minutes' walk from the bus stop to the lake."
+              }
+            },
+            {
+              "name": "Return to center and departure",
+              "tip_5lang": {
+                "de": "Der Bahnhof bietet Kioske für warme Snacks vor der Fahrt.",
+                "hu": "Az állomáson meleg snacket is vehet az út előtt.",
+                "ro": "Gara are chioșcuri pentru gustări calde înainte de drum.",
+                "en": "The station has kiosks for warm snacks before your trip."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die '9292' App für Echtzeit-Verkehrsinfos.",
+              "Tragen Sie wasserfeste Kleidung für die Wege zur Haltestelle.",
+              "Fahrkarten können meist kontaktlos im Bus bezahlt werden.",
+              "Suchen Sie Haltestellen mit Wetterschutz bevorzugt auf."
+            ],
+            "hu": [
+              "Használja a '9292' alkalmazást a valós idejű infókért.",
+              "Viseljen vízálló ruhát a megállókig tartó szakaszokon.",
+              "A jegyért a buszon általában érintésmentesen is fizethet.",
+              "Válasszon fedett buszváróval rendelkező megállót."
+            ],
+            "ro": [
+              "Folosiți aplicația '9292' pentru informații în timp real.",
+              "Purtați haine impermeabile pentru drumul spre stație.",
+              "Biletele pot fi plătite contactless direct în autobuz.",
+              "Căutați stațiile de autobuz care oferă adăpost."
+            ],
+            "en": [
+              "Use the '9292' app for real-time transit information.",
+              "Wear waterproof clothing for the walks to the bus stops.",
+              "Tickets can usually be paid for contactless on the bus.",
+              "Prefer bus stops that offer shelter from the elements."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter ist der öffentliche Nahverkehr die wärmste Art, Winterswijk zu erleben. Nach der Ankunft am Bahnhof führt die Route durch das festliche Zentrum zum Mondriaan Museum. Die Busfahrt zum winterlichen Hilgelo-See zeigt die weite Landschaft, bevor der Abend im beleuchteten Zentrum bei einem heißen Getränk und der anschließenden Heimfahrt am Bahnhof ausklingt.",
+            "hu": "Télen a tömegközlekedés a legmelegebb módja Winterswijk felfedezésének. Az állomásra érkezve az ünnepi díszbe öltözött belváros fogad. A Mondriaan Múzeum meghitt hangulata után busszal látogatunk ki a téli Hilgelo-tóhoz. A napot a városi fények között, egy forró ital társaságában és a vonathoz való visszatéréssel fejezzük be.",
+            "ro": "Iarna, transportul public este cea mai călduroasă opțiune în Winterswijk. După sosirea în gară, traseul trece prin centrul festiv spre Muzeul Mondriaan. Călătoria cu autobuzul spre lacul Hilgelo dezvăluie peisajul vast de iarnă, înainte ca seara să se încheie în centrul iluminat cu o băutură caldă.",
+            "en": "In winter, public transit is the warmest way to experience Winterswijk. After arriving at the station, stroll through the festive center to Villa Mondriaan. A bus ride to the wintry Lake Hilgelo showcases the expansive landscape before the evening ends in the lit-up center with a hot drink and departure."
+          },
+          "stops": [
+            {
+              "name": "Arrival at the station and walk to the center",
+              "tip_5lang": {
+                "de": "Die Züge sind gut beheizt; ideal zum ersten Aufwärmen.",
+                "hu": "A vonatok jól fűtöttek; tökéletes az első bemelegedéshez.",
+                "ro": "Trenurile sunt bine încălzite; ideal pentru început.",
+                "en": "The trains are well-heated; ideal for warming up initially."
+              }
+            },
+            {
+              "name": "Center Cluster: Lappenbrink & Mondriaan Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Museen als warme Zwischenstopps.",
+                "hu": "Használja a múzeumi tereket meleg pihenőhelyként.",
+                "ro": "Folosiți muzeele ca puncte de oprire pentru a vă încălzi.",
+                "en": "Use the museum spaces as warm stopovers during your tour."
+              }
+            },
+            {
+              "name": "Lunch and Bus Ride",
+              "tip_5lang": {
+                "de": "Warten Sie im Restaurant, bis der Bus fast da ist.",
+                "hu": "Várjon az étteremben, amíg a busz majdnem megérkezik.",
+                "ro": "Așteptați în restaurant până când autobuzul aproape sosește.",
+                "en": "Wait in the restaurant until the bus is nearly at the stop."
+              }
+            },
+            {
+              "name": "Hilgelo",
+              "tip_5lang": {
+                "de": "Der See ist im Winter ruhig; der Bus fährt seltener.",
+                "hu": "A tó környéke télen csendes; a buszok ritkábban járnak.",
+                "ro": "Lacul este liniștit iarna; autobuzele circulă mai rar.",
+                "en": "The lake area is quiet in winter; buses may run less often."
+              }
+            },
+            {
+              "name": "Return to center and departure",
+              "tip_5lang": {
+                "de": "Abendliche Züge bieten eine entspannte Rückreise im Warmen.",
+                "hu": "Az esti vonatok kényelmes és meleg hazautat biztosítanak.",
+                "ro": "Trenurile de seară oferă o călătorie de întoarcere relaxantă.",
+                "en": "Evening trains provide a relaxed and warm return journey."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Planen Sie Pufferzeiten ein, da Schnee Verspätungen verursachen kann.",
+              "Warme Kleidung ist für die Wartezeiten an Haltestellen wichtig.",
+              "Die Busse sind gut klimatisiert und im Winter angenehm warm.",
+              "Beachten Sie die ausgedünnten Fahrpläne an Winterfeiertagen."
+            ],
+            "hu": [
+              "Számoljon rá időt, mert a hó késéseket okozhat.",
+              "A megállókban való várakozáshoz fontos a meleg öltözet.",
+              "A buszok jól fűtöttek és télen is kellemesen melegek.",
+              "Ügyeljen a téli ünnepnapokon érvényes ritkább menetrendre."
+            ],
+            "ro": [
+              "Luați în calcul posibile întârzieri cauzate de zăpadă.",
+              "Hainele groase sunt importante pentru timpul de așteptare.",
+              "Autobuzele sunt bine climatizate și plăcut de calde.",
+              "Atenție la orarul redus din timpul sărbătorilor de iarnă."
+            ],
+            "en": [
+              "Allow for extra travel time as snow can cause delays.",
+              "Warm clothing is vital for waiting times at bus stops.",
+              "Buses are well-climatized and comfortably warm in winter.",
+              "Note the reduced transit schedules during winter holidays."
+            ]
+          }
+        }
       }
     }
   }

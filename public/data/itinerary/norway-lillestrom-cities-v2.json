@@ -240,6 +240,224 @@
           "An umbrella is always a good idea in Norway, even in summer.",
           "Take time for a coffee break in one of the many cozy cafes."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt am Stortorget unter den Vordächern, während der Regen auf das Kopfsteinpflaster prasselt. Mittags bietet das Kulturzentrum einen trockenen Zufluchtsort, gefolgt von einem gemütlichen Mittagessen. Nachmittags erkunden wir die moderne Kunst im NITJA, perfekt geschützt vor dem Wetter. Den Tag lassen wir trotz Pfützen mit einem erfrischenden Spaziergang am Flussufer ausklingen.",
+            "hu": "A nap a Stortorget téren indul az ereszek alatt, miközben az eső veri a macskaköveket. Délben a Kulturális Központ nyújt menedéket, majd egy melengető ebéd következik. Délután a NITJA művészeti központ belső tereiben kalandozunk, távol a sártól. Az estét a folyóparti sétányon zárjuk, ahol az eső áztatta táj különleges, friss illatokat áraszt.",
+            "ro": "Ziua începe în Piața Stortorget sub streșini, în timp ce ploaia bate în pavaj. La prânz, Centrul Cultural oferă un refugiu uscat, urmat de un prânz reconfortant. După-amiaza explorăm arta modernă la NITJA, perfect protejați de vremea de afară. Încheiem ziua cu o plimbare revigorantă pe faleză, bucurându-ne de aerul proaspăt de după ploaie.",
+            "en": "The day begins at Stortorget under the eaves as rain dances on the cobblestones. By noon, the Culture Centre provides a dry haven, followed by a warm lunch. In the afternoon, we explore modern art inside NITJA, safely tucked away from the wet weather. We end the day with a refreshing stroll along the promenade, where the rain-slicked paths reflect the evening lights."
+          },
+          "stops": [
+            {
+              "name": "Stortorget Square",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den Markisen der Cafés.",
+                "hu": "Keress menedéket a kávézók napellenzői alatt.",
+                "ro": "Căutați adăpost sub copertinele cafenelelor.",
+                "en": "Seek shelter under the café awnings if it pours."
+              }
+            },
+            {
+              "name": "Voldgata Street",
+              "tip_5lang": {
+                "de": "Achten Sie auf rutschiges Kopfsteinpflaster.",
+                "hu": "Vigyázz a csúszós macskakövekre a sétánál.",
+                "ro": "Atenție la pavajul alunecos când plouă.",
+                "en": "Watch out for slippery cobblestones while walking."
+              }
+            },
+            {
+              "name": "Lillestrøm Church",
+              "tip_5lang": {
+                "de": "Die Kirche bietet eine friedliche, trockene Pause.",
+                "hu": "A templom belső tere tökéletes, csendes menedék.",
+                "ro": "Interiorul bisericii oferă un popas liniștit și uscat.",
+                "en": "The church interior offers a peaceful, dry break."
+              }
+            },
+            {
+              "name": "Lillestrøm Culture Centre",
+              "tip_5lang": {
+                "de": "Ideal, um die Regenkleidung kurz zu lüften.",
+                "hu": "Ideális hely az esőkabátok rövid szárítására.",
+                "ro": "Locul ideal pentru a vă scutura pelerina de ploaie.",
+                "en": "Ideal spot to briefly shake off your raincoat."
+              }
+            },
+            {
+              "name": "Lunch Break",
+              "tip_5lang": {
+                "de": "Genießen Sie ein warmes norwegisches Gericht.",
+                "hu": "Válassz egy forró levest a felmelegedéshez.",
+                "ro": "Savurați o supă caldă pentru a vă încălzi.",
+                "en": "Enjoy a hot Norwegian soup to warm up."
+              }
+            },
+            {
+              "name": "NITJA Art Centre",
+              "tip_5lang": {
+                "de": "Viel Zeit im Trockenen zwischen moderner Kunst.",
+                "hu": "Tölts több időt bent a modern alkotások között.",
+                "ro": "Petreceți timp la adăpost printre operele moderne.",
+                "en": "Spend plenty of time indoors among modern art."
+              }
+            },
+            {
+              "name": "Nebbenes",
+              "tip_5lang": {
+                "de": "Wasserdichte Schuhe sind für das Gras wichtig.",
+                "hu": "A fűben való sétához vízálló cipő ajánlott.",
+                "ro": "Încălțămintea impermeabilă este necesară pentru iarbă.",
+                "en": "Waterproof shoes are essential for the grass here."
+              }
+            },
+            {
+              "name": "Fetveien Promenade",
+              "tip_5lang": {
+                "de": "Der Blick auf den grauen Fluss ist sehr stimmungsvoll.",
+                "hu": "A szürke folyó látványa esőben is hangulatos.",
+                "ro": "Priveliștea râului gri este foarte atmosferică.",
+                "en": "The view of the misty river is very atmospheric."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nehmen Sie einen stabilen Regenschirm mit, da es oft windig ist.",
+              "Wasserdichte Wanderschuhe sind auf den Promenaden Gold wert.",
+              "Das NITJA ist der beste Ort, um einen starken Schauer abzuwarten.",
+              "Nutzen Sie die Garderoben im Kulturzentrum für nasse Mäntel."
+            ],
+            "hu": [
+              "Vigyél stabil esernyőt, mert a szél gyakran fúj.",
+              "A vízálló túracipő aranyat ér a folyóparti sétányokon.",
+              "A NITJA a legjobb hely egy nagyobb zápor átvészelésére.",
+              "Használd a Kulturális Központ ruhatárát a vizes kabátoknak."
+            ],
+            "ro": [
+              "Luați o umbrelă rezistentă, deoarece vântul suflă des.",
+              "Încălțămintea impermeabilă este esențială pe faleză.",
+              "NITJA este cel mai bun loc pentru a aștepta trecerea ploii.",
+              "Folosiți garderoba Centrului Cultural pentru hainele ude."
+            ],
+            "en": [
+              "Bring a sturdy umbrella as it is often windy here.",
+              "Waterproof walking shoes are vital for the promenades.",
+              "NITJA is the best indoor spot to wait out heavy rain.",
+              "Use the cloakrooms at the Culture Centre for wet coats."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen am Stortorget, wo der Schnee unter den Stiefeln knirscht. Mittags suchen wir Wärme in der Lillestrøm-Kirche und dem beleuchteten Kulturzentrum. Nachmittags ist die moderne Kunst im NITJA ein heller Kontrast zum frühen Sonnenuntergang. Abends glitzern die Lichter der Fetveien-Promenade im Eis, während wir die klare nordische Luft genießen.",
+            "hu": "Dérlepte reggel a Stortorget téren, ahol ropog a hó a talpunk alatt. Délben a templom és a kivilágított Kulturális Központ melegében pihenünk meg. Délután a NITJA modern terei nyújtanak fényt a korai naplemente előtt. Este a Fetveien sétány fényei csillognak a jégen, miközben kiélvezzük a tiszta, fagyos északi levegőt.",
+            "ro": "O dimineață geroasă în Piața Stortorget, unde zăpada scârțâie sub ghete. La prânz, căutăm căldură în biserică și în Centrul Cultural iluminat. După-amiaza, arta de la NITJA oferă un contrast luminos față de apusul timpuriu. Seara, luminile de pe faleza Fetveien sclipesc pe gheață în aerul curat al nordului.",
+            "en": "A frosty morning at Stortorget, with snow crunching under your boots. At noon, we find warmth inside the church and the brightly lit Culture Centre. In the afternoon, NITJA's modern spaces offer a bright contrast to the early sunset. By evening, the lights of Fetveien Promenade glisten on the ice as we enjoy the crisp Nordic air."
+          },
+          "stops": [
+            {
+              "name": "Stortorget Square",
+              "tip_5lang": {
+                "de": "Genießen Sie die winterliche Beleuchtung am Platz.",
+                "hu": "Csodáld meg a tér ünnepi téli kivilágítását.",
+                "ro": "Bucurați-vă de iluminatul de iarnă din piață.",
+                "en": "Enjoy the festive winter lighting in the square."
+              }
+            },
+            {
+              "name": "Voldgata Street",
+              "tip_5lang": {
+                "de": "Vorsicht vor vereisten Stellen auf dem Bürgersteig.",
+                "hu": "Vigyázz a jeges foltokra a járdán.",
+                "ro": "Atenție la porțiunile înghețate de pe trotuar.",
+                "en": "Beware of icy patches on the sidewalk."
+              }
+            },
+            {
+              "name": "Lillestrøm Church",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um sich kurz aufzuwärmen.",
+                "hu": "Csendes hely egy rövid átmelegedéshez.",
+                "ro": "Un loc liniștit pentru a vă încălzi puțin.",
+                "en": "A quiet place to warm up for a few minutes."
+              }
+            },
+            {
+              "name": "Lillestrøm Culture Centre",
+              "tip_5lang": {
+                "de": "Prüfen Sie, ob es winterliche Aufführungen gibt.",
+                "hu": "Nézd meg, van-e épp téli előadás az épületben.",
+                "ro": "Verificați dacă există spectacole de iarnă înăuntru.",
+                "en": "Check if there are any winter performances inside."
+              }
+            },
+            {
+              "name": "Lunch Break",
+              "tip_5lang": {
+                "de": "Fragen Sie nach dem 'Dagens suppe' zum Aufwärmen.",
+                "hu": "Kérd a nap levesét (Dagens suppe) a melegedéshez.",
+                "ro": "Cereți 'Dagens suppe' (supa zilei) pentru încălzire.",
+                "en": "Ask for 'Dagens suppe' (soup of the day) to warm up."
+              }
+            },
+            {
+              "name": "NITJA Art Centre",
+              "tip_5lang": {
+                "de": "Perfekt für die Zeit nach dem Sonnenuntergang.",
+                "hu": "Tökéletes program a korai sötétedés utánra.",
+                "ro": "Perfect pentru timpul de după apusul soarelui.",
+                "en": "Perfect activity for after the early sunset."
+              }
+            },
+            {
+              "name": "Nebbenes",
+              "tip_5lang": {
+                "de": "Der zugefrorene Fluss bietet tolle Fotomotive.",
+                "hu": "A befagyott folyó látványa nagyszerű fotótéma.",
+                "ro": "Râul înghețat ofer_ oportunități foto superbe.",
+                "en": "The frozen river offers great photo opportunities."
+              }
+            },
+            {
+              "name": "Fetveien Promenade",
+              "tip_5lang": {
+                "de": "Warme Kleidung ist für den eisigen Wind wichtig.",
+                "hu": "Réteges öltözet kötelező a jeges szél miatt.",
+                "ro": "Îmbrăcămintea groasă e vitală din cauza vântului.",
+                "en": "Warm layers are essential against the icy wind."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermounterwäsche und Wollsocken.",
+              "Der Sonnenuntergang ist im Dezember bereits gegen 15:30 Uhr.",
+              "Spikes für die Schuhe sind bei Glatteis sehr hilfreich.",
+              "Nehmen Sie eine Thermoskanne mit einem heißen Getränk mit."
+            ],
+            "hu": [
+              "Viselj termikus alsóneműt és gyapjúzoknit.",
+              "A naplemente decemberben már délután fél 4-kor bekövetkezik.",
+              "A cipőre csatolható csúszásgátló jég esetén nagyon hasznos.",
+              "Vigyél magaddal termoszt egy forró itallal."
+            ],
+            "ro": [
+              "Purtați lenjerie termică și șosete de lână.",
+              "Apusul are loc deja în jurul orei 15:30 în decembrie.",
+              "Crampoanele pentru pantofi sunt utile pe gheață.",
+              "Luați un termos cu o băutură caldă la voi."
+            ],
+            "en": [
+              "Wear thermal underwear and thick wool socks.",
+              "Sunset occurs as early as 15:30 in December.",
+              "Ice spikes for your shoes are very helpful on slippery days.",
+              "Carry a thermos with a hot drink to stay hydrated and warm."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -474,6 +692,224 @@
           "Many paths along the river are shared between cyclists and pedestrians.",
           "A helmet is strongly recommended for your safety."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir radeln durch das regnerische Lillestrøm, geschützt durch gute Funktionskleidung. Vom Stortorget geht es zur Kirche und zum Åråsen-Stadion, während die Reifen auf dem nassen Asphalt singen. Nach einer trockenen Pause im NITJA erkunden wir die Uferwege, wo die Natur im Regen besonders intensiv duftet. Ein sportlicher Tag trotz des grauen Himmels.",
+            "hu": "Esőben tekerünk át Lillestrøm városán, jó technikai ruházatban bízva. A Stortorget tértől a stadionig gurulunk, miközben a gumik suhognak a vizes aszfalton. A NITJA művészeti központban tartott száraz pihenő után a folyóparti utakat fedezzük fel, ahol az eső friss illatot áraszt. Sportos nap a szürke ég alatt is.",
+            "ro": "Pedalăm prin Lillestrømul ploios, protejați de haine tehnice bune. De la Stortorget mergem spre stadion, în timp ce cauciucurile șuieră pe asfaltul ud. După o pauză uscată la NITJA, explorăm potecile de pe malul râului, unde natura miroase intens a ploaie. O zi sportivă în ciuda cerului gri.",
+            "en": "We cycle through rainy Lillestrøm, relying on good technical gear. From Stortorget to the stadium, the tires hum on the wet asphalt. After a dry break at NITJA, we explore the riverside paths, where the nature smells fresh under the rain. A sporty day despite the grey skies."
+          },
+          "stops": [
+            {
+              "name": "Stortorget Square",
+              "tip_5lang": {
+                "de": "Vorsicht beim Anfahren auf nassem Kopfsteinpflaster.",
+                "hu": "Vigyázz az elindulásnál a vizes macskakövön.",
+                "ro": "Atenție la plecarea de pe loc pe pavajul ud.",
+                "en": "Be careful when starting on wet cobblestones."
+              }
+            },
+            {
+              "name": "Lillestrøm Church",
+              "tip_5lang": {
+                "de": "Überdachte Fahrradständer in der Nähe suchen.",
+                "hu": "Keress fedett biciklitárolót a közelben.",
+                "ro": "Căutați rastele de biciclete acoperite în apropiere.",
+                "en": "Look for covered bike racks nearby."
+              }
+            },
+            {
+              "name": "Åråsen Stadium",
+              "tip_5lang": {
+                "de": "Die Radwege zum Stadion sind gut asphaltiert.",
+                "hu": "A stadionhoz vezető kerékpárutak jól aszfaltozottak.",
+                "ro": "Pistele spre stadion sunt bine asfaltate.",
+                "en": "The cycle paths to the stadium are well paved."
+              }
+            },
+            {
+              "name": "Norges Varemesse Exhibition Centre",
+              "tip_5lang": {
+                "de": "Große überdachte Flächen bieten kurzen Schutz.",
+                "hu": "A nagy fedett terek rövid menedéket nyújtanak.",
+                "ro": "Spațiile mari acoperite oferă adăpost temporar.",
+                "en": "Large covered areas offer brief shelter."
+              }
+            },
+            {
+              "name": "Lunch Break",
+              "tip_5lang": {
+                "de": "Ein Ort mit Platz für nasse Helme ist ideal.",
+                "hu": "Olyan helyet válassz, ahol elfér a vizes sisak.",
+                "ro": "Alegeți un loc cu spațiu pentru căștile ude.",
+                "en": "Choose a spot with space for wet helmets."
+              }
+            },
+            {
+              "name": "NITJA Art Centre",
+              "tip_5lang": {
+                "de": "Sichere Fahrradparkplätze direkt vor dem Eingang.",
+                "hu": "Biztonságos kerékpárparkoló közvetlenül a bejáratnál.",
+                "ro": "Parcare sigură pentru biciclete chiar la intrare.",
+                "en": "Secure bike parking available right at the entrance."
+              }
+            },
+            {
+              "name": "Nebbenes",
+              "tip_5lang": {
+                "de": "Vorsicht in scharfen Kurven auf nassen Wegen.",
+                "hu": "Vigyázz az éles kanyarokban a vizes utakon.",
+                "ro": "Atenție la virajele strânse pe potecile ude.",
+                "en": "Careful in sharp turns on wet paths."
+              }
+            },
+            {
+              "name": "Fetveien Promenade",
+              "tip_5lang": {
+                "de": "Schutzbleche am Fahrrad sind hier unerlässlich.",
+                "hu": "A sárvédő használata itt elengedhetetlen.",
+                "ro": "Apărătorile de noroi sunt indispensabile aici.",
+                "en": "Mudguards are indispensable on this route."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine wasserdichte Regenhose und Jacke.",
+              "Reduzieren Sie den Reifendruck leicht für besseren Grip.",
+              "Wischen Sie den Sattel vor dem Aufsteigen trocken.",
+              "Achten Sie auf Metallgitter, die bei Nässe extrem rutschig sind."
+            ],
+            "hu": [
+              "Viselj vízálló esőnadrágot és kabátot.",
+              "Csökkentsd kicsit a guminyomást a jobb tapadásért.",
+              "Töröld szárazra a nyerget felszállás előtt.",
+              "Vigyázz a fémrácsokra, amik vizesen nagyon csúsznak."
+            ],
+            "ro": [
+              "Purtați pantaloni și jachetă impermeabile.",
+              "Reduceți puțin presiunea în pneuri pentru aderență.",
+              "Ștergeți șaua înainte de a vă urca pe bicicletă.",
+              "Atenție la grătarele metalice, extrem de alunecoase."
+            ],
+            "en": [
+              "Wear waterproof rain pants and a jacket.",
+              "Reduce tire pressure slightly for better grip on wet roads.",
+              "Wipe your saddle dry before mounting.",
+              "Watch out for metal grates, which get extremely slippery."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winter-Biking in Lillestrøm erfordert Spikereifen und Mut. Wir starten am frostigen Stortorget und radeln zum Åråsen-Stadion, während der kalte Wind das Gesicht rötet. Das NITJA bietet die nötige Aufwärmpause, bevor wir die verschneite Fetveien-Promenade erreichen. Ein intensives Erlebnis der nordischen Kälte auf zwei Rädern.",
+            "hu": "A téli bringázás Lillestrømben szöges gumit és bátorságot igényel. A fagyos Stortorgetről indulunk a stadion felé, miközben a hideg szél megcsípi az arcunkat. A NITJA nyújt meleg pihenőt, mielőtt elérjük a havas Fetveien sétányt. Intenzív északi élmény két keréken, a zimankóban.",
+            "ro": "Ciclismul de iarnă în Lillestrøm necesită cauciucuri cu ținte și curaj. Pornim din Piața Stortorget înghețată spre stadion, în timp ce vântul rece ne pișcă obrajii. NITJA oferă pauza de încălzire necesară înainte de a ajunge pe faleza înzăpezită. O experiență intensă a gerului nordic pe două roți.",
+            "en": "Winter biking in Lillestrøm requires studded tires and courage. We start at the frosty Stortorget and cycle towards the stadium, feeling the cold wind on our faces. NITJA provides a warm sanctuary before we head to the snowy Fetveien Promenade. An intense Nordic experience on two wheels."
+          },
+          "stops": [
+            {
+              "name": "Stortorget Square",
+              "tip_5lang": {
+                "de": "Achten Sie auf festgefahrenen Schnee am Platz.",
+                "hu": "Vigyázz a letaposott hóra a téren.",
+                "ro": "Atenție la zăpada bătătorită din piață.",
+                "en": "Watch out for packed snow in the square."
+              }
+            },
+            {
+              "name": "Lillestrøm Church",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad nicht in den tiefen Schnee.",
+                "hu": "Ne parkold a biciklit a mély hóba.",
+                "ro": "Nu lăsați bicicleta în zăpada adâncă.",
+                "en": "Don't park your bike in deep snow banks."
+              }
+            },
+            {
+              "name": "Åråsen Stadium",
+              "tip_5lang": {
+                "de": "Die Wege können hier besonders windig sein.",
+                "hu": "Az utak itt különösen szelesek lehetnek.",
+                "ro": "Drumurile pot fi foarte expuse vântului aici.",
+                "en": "Paths here can be especially windy and cold."
+              }
+            },
+            {
+              "name": "Norges Varemesse Exhibition Centre",
+              "tip_5lang": {
+                "de": "Nutzen Sie die hell beleuchteten Wege drumherum.",
+                "hu": "Használd a jól kivilágított utakat a környéken.",
+                "ro": "Folosiți căile bine iluminate din jur.",
+                "en": "Stick to the well-lit paths around the centre."
+              }
+            },
+            {
+              "name": "Lunch Break",
+              "tip_5lang": {
+                "de": "Ein heißer Tee ist jetzt wichtiger als Kaffee.",
+                "hu": "Egy forró tea most fontosabb, mint a kávé.",
+                "ro": "Un ceai fierbinte e mai util acum decât cafeaua.",
+                "en": "A hot tea is more vital than coffee right now."
+              }
+            },
+            {
+              "name": "NITJA Art Centre",
+              "tip_5lang": {
+                "de": "Tauauftauen der Brille im warmen Foyer.",
+                "hu": "Szemüveg leolvasztása a meleg előtérben.",
+                "ro": "Dezghețarea ochelarilor în foaierul cald.",
+                "en": "Defrost your glasses in the warm foyer."
+              }
+            },
+            {
+              "name": "Nebbenes",
+              "tip_5lang": {
+                "de": "Vorsicht vor Verwehungen auf dem Radweg.",
+                "hu": "Vigyázz a hóátfúvásokra a kerékpárúton.",
+                "ro": "Atenție la troienele de pe pista de biciclete.",
+                "en": "Watch out for snowdrifts on the bike path."
+              }
+            },
+            {
+              "name": "Fetveien Promenade",
+              "tip_5lang": {
+                "de": "Wunderschön, aber bei Eis oft sehr glatt.",
+                "hu": "Gyönyörű, de jegesedéskor nagyon csúszós.",
+                "ro": "Superb, dar adesea alunecos când e îngheț.",
+                "en": "Beautiful but often very slippery when icy."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Spikereifen (Piggdekk) sind im Winter unverzichtbar.",
+              "Tragen Sie eine Skibrille gegen beißenden Wind.",
+              "Halten Sie die Kette gut geölt, um Salzkorrosion zu vermeiden.",
+              "Verwenden Sie isolierte Überschuhe gegen kalte Füße."
+            ],
+            "hu": [
+              "A szöges gumi (Piggdekk) télen elengedhetetlen.",
+              "Viselj síszemüveget a csípős szél ellen.",
+              "Tartsd jól olajozottan a láncot a sókorrózió ellen.",
+              "Használj hőszigetelt kamáslit a hideg lábak ellen."
+            ],
+            "ro": [
+              "Cauciucurile cu ținte sunt indispensabile iarna.",
+              "Purtați ochelari de schi împotriva vântului tăios.",
+              "Mențineți lanțul bine uns contra coroziunii de la sare.",
+              "Folosiți protecții izolate pentru pantofi."
+            ],
+            "en": [
+              "Studded tires (Piggdekk) are essential in winter.",
+              "Wear ski goggles to protect your eyes from biting wind.",
+              "Keep your chain well-oiled to prevent salt corrosion.",
+              "Use insulated overshoes to keep your feet warm."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -684,6 +1120,206 @@
           "Fetsund Lenser is a highlight and well worth the short drive.",
           "Check the opening hours of the museums, especially Fetsund Lenser."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regnerische Autofahrt durch Lillestrøm und Umgebung. Wir parken bequem in Zentrumsnahe, besuchen das NITJA und fahren dann zum historischen Fetsund Lenser, wo das Wasser des Flusses unter dem grauen Himmel dramatisch wirkt. Ein flexibler Tag, an dem wir das Wetter durch das Autofenster beobachten und nur für die Highlights aussteigen.",
+            "hu": "Esős autós túra Lillestrømben és környékén. Kényelmesen parkolunk a központban, megnézzük a NITJA-t, majd Fetsund Lenser felé vesszük az irányt, ahol a folyó szürke vize drámai látványt nyújt. Rugalmas nap, ahol az ablakból figyeljük az esőt, és csak a legérdekesebb pontoknál szállunk ki.",
+            "ro": "Tur cu mașina prin Lillestrømul ploios. Parcăm comod aproape de centru, vizităm NITJA și apoi conducem spre Fetsund Lenser, unde apa râului sub cerul gri arată dramatic. O zi flexibilă în care observăm ploaia pe geam și coborâm doar la atracțiile principale.",
+            "en": "A rainy drive through Lillestrøm and its surroundings. We park conveniently near the center, visit NITJA, and then head to Fetsund Lenser, where the river water looks dramatic under the grey sky. A flexible day where we watch the rain from the car window and hop out only for the highlights."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Cluster A: Lillestrøm Center",
+              "tip_5lang": {
+                "de": "Parkhäuser im Zentrum nutzen, um trocken zu bleiben.",
+                "hu": "Használd a központi parkolóházakat a száraz kijutáshoz.",
+                "ro": "Folosiți parcările etajate pentru a rămâne uscați.",
+                "en": "Use multi-storey car parks to stay dry."
+              }
+            },
+            {
+              "name": "Stortorget & Voldgata",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen Parkplatz und Geschäften.",
+                "hu": "Rövid séta a parkoló és az üzletek között.",
+                "ro": "Distanțe scurte între parcare și magazine.",
+                "en": "Short walks between parking and shops."
+              }
+            },
+            {
+              "name": "Lillestrøm Church & Culture Centre",
+              "tip_5lang": {
+                "de": "Parkplätze direkt am Kulturzentrum vorhanden.",
+                "hu": "Parkolóhelyek közvetlenül a Kulturális Központnál.",
+                "ro": "Locuri de parcare chiar lângă Centrul Cultural.",
+                "en": "Parking spaces available right by the Culture Centre."
+              }
+            },
+            {
+              "name": "NITJA Art Centre",
+              "tip_5lang": {
+                "de": "Perfektes Ziel bei starkem Dauerregen.",
+                "hu": "Tökéletes célpont tartós eső esetén.",
+                "ro": "Destinația perfectă în caz de ploaie persistentă.",
+                "en": "Perfect destination during heavy continuous rain."
+              }
+            },
+            {
+              "name": "Drive to Cluster B: Fetsund Lenser",
+              "tip_5lang": {
+                "de": "Vorsicht bei Aquaplaning auf der Landstraße.",
+                "hu": "Vigyázz a felfutó vízre az országúton.",
+                "ro": "Atenție la acvaplanare pe drumurile naționale.",
+                "en": "Watch out for aquaplaning on the main roads."
+              }
+            },
+            {
+              "name": "Drive to Cluster C: Åråsen Stadium",
+              "tip_5lang": {
+                "de": "Gute Sicht durch Scheibenwischer sicherstellen.",
+                "hu": "Ellenőrizd az ablaktörlők állapotát.",
+                "ro": "Asigurați vizibilitatea bună prin parbriz.",
+                "en": "Ensure good visibility through your wipers."
+              }
+            },
+            {
+              "name": "Nebbenes & Riverside",
+              "tip_5lang": {
+                "de": "Blick auf den Regen vom Auto aus genießen.",
+                "hu": "Élvezd az eső látványát az autóból.",
+                "ro": "Bucurați-vă de peisajul ploios din mașină.",
+                "en": "Enjoy the view of the rain from the car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Zustand Ihrer Scheibenwischer.",
+              "Parkhäuser bieten oft einen direkten Zugang zu Malls.",
+              "Halten Sie Abstand auf nassen Straßen.",
+              "Ein Regenschirm im Kofferraum ist Pflicht."
+            ],
+            "hu": [
+              "Ellenőrizd az ablaktörlők állapotát.",
+              "A parkolóházakból gyakran közvetlen út vezet a plázákba.",
+              "Tarts nagyobb követési távolságot a vizes úton.",
+              "Az esernyő a csomagtartóban kötelező kellék."
+            ],
+            "ro": [
+              "Verificați starea ștergătoarelor de parbriz.",
+              "Parcările etajate oferă acces direct la mall-uri.",
+              "Păstrați distanța pe șoselele umede.",
+              "O umbrelă în portbagaj este obligatorie."
+            ],
+            "en": [
+              "Check the condition of your windshield wipers.",
+              "Parking garages often offer direct access to malls.",
+              "Maintain a safe distance on wet roads.",
+              "Keep an umbrella in the trunk at all times."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliche Fahrt durch die verschneite Region Lillestrøm. Mit Winterreifen geht es sicher vom Stortorget zum NITJA und weiter zum Fetsund Lenser, wo die vereisten Flößeranlagen ein magisches Bild abgeben. Das Auto dient als warme Basis für Erkundungen in der klaren, eiskalten Luft Nordens.",
+            "hu": "Téli autózás a havas Lillestrøm környékén. Téli gumikkal biztonságban jutunk el a Stortorgetről a NITJA-ba, majd tovább Fetsund Lenserhez, ahol a jeges folyami építmények mágikus látványt nyújtanak. Az autó meleg bázisként szolgál az északi fagyban tett felfedezésekhez.",
+            "ro": "Conducem prin regiunea înzăpezită Lillestrøm. Cu anvelope de iarnă ajungem în siguranță de la Stortorget la NITJA și apoi la Fetsund Lenser, unde instalațiile de plutărit înghețate oferă o imagine magică. Mașina este baza noastră caldă pentru explorări în gerul nordic.",
+            "en": "A winter drive through the snowy Lillestrøm region. Equipped with winter tires, we travel safely from Stortorget to NITJA and on to Fetsund Lenser, where the frozen timber booms create a magical scene. The car serves as our warm base for exploring the crisp Nordic winter air."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Cluster A: Lillestrøm Center",
+              "tip_5lang": {
+                "de": "Eiskratzer für die Scheiben griffbereit halten.",
+                "hu": "Legyen kéznél a jégkaparó az ablakokhoz.",
+                "ro": "Țineți racleta pentru gheață la îndemână.",
+                "en": "Keep an ice scraper ready for the windows."
+              }
+            },
+            {
+              "name": "Stortorget & Voldgata",
+              "tip_5lang": {
+                "de": "Vorsicht vor Blitzeis auf Nebenstraßen.",
+                "hu": "Vigyázz a hirtelen lefagyásokra a mellékutcákban.",
+                "ro": "Atenție la polei pe străzile secundare.",
+                "en": "Watch out for black ice on side streets."
+              }
+            },
+            {
+              "name": "Lillestrøm Church & Culture Centre",
+              "tip_5lang": {
+                "de": "Warme Kleidung beim Verlassen des Autos anlegen.",
+                "hu": "Öltözz fel melegen, mielőtt kiszállsz a kocsiból.",
+                "ro": "Puneți-vă haine groase înainte de a coborî.",
+                "en": "Put on warm layers before leaving the car."
+              }
+            },
+            {
+              "name": "NITJA Art Centre",
+              "tip_5lang": {
+                "de": "Parkplatzsuche ist im Winter oft einfacher.",
+                "hu": "Télen gyakran könnyebb parkolóhelyet találni.",
+                "ro": "Găsirea parcării e adesea mai ușoară iarna.",
+                "en": "Finding parking is often easier in winter."
+              }
+            },
+            {
+              "name": "Drive to Cluster B: Fetsund Lenser",
+              "tip_5lang": {
+                "de": "Überprüfen Sie den Frostschutz im Wischwasser.",
+                "hu": "Ellenőrizd a fagyállót a szélvédőmosóban.",
+                "ro": "Verificați antigelul în lichidul de parbriz.",
+                "en": "Check the antifreeze in your washer fluid."
+              }
+            },
+            {
+              "name": "Drive to Cluster C: Åråsen Stadium",
+              "tip_5lang": {
+                "de": "Winterreifen sind in Norwegen gesetzlich Pflicht.",
+                "hu": "Norvégiában a téli gumi használata kötelező.",
+                "ro": "Anvelopele de iarnă sunt obligatorii în Norvegia.",
+                "en": "Winter tires are legally required in Norway."
+              }
+            },
+            {
+              "name": "Nebbenes & Riverside",
+              "tip_5lang": {
+                "de": "Wunderschöne Winterlandschaft vom Warmen aus.",
+                "hu": "Gyönyörű téli táj a meleg autóból nézve.",
+                "ro": "Peisaj de iarnă superb privit de la căldură.",
+                "en": "Beautiful winter landscape from the warmth."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen mit gutem Profil sind obligatorisch.",
+              "Führen Sie eine Schneeschaufel und eine Decke mit.",
+              "Starten Sie das Auto rechtzeitig zum Enteisen.",
+              "Achten Sie auf Wildwechsel in der Dämmerung."
+            ],
+            "hu": [
+              "Jó profilmélységű téli gumi kötelező.",
+              "Vigyél magaddal hólapátot és egy takarót.",
+              "Indítsd be időben az autót a jégtelenítéshez.",
+              "Vigyázz a vadállatokra a szürkületben."
+            ],
+            "ro": [
+              "Anvelopele de iarnă cu profil bun sunt obligatorii.",
+              "Luați o lopată de zăpadă și o pătură în mașină.",
+              "Porniți mașina din timp pentru dezghețare.",
+              "Atenție la animalele sălbatice la amurg."
+            ],
+            "en": [
+              "Winter tires with good tread are mandatory.",
+              "Carry a snow shovel and a blanket in the car.",
+              "Start the car early to defrost the windows.",
+              "Watch out for wildlife crossing during twilight."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -894,6 +1530,206 @@
           "The Ruter app is very useful for planning journeys in real-time.",
           "Train stations and bus stops are generally well-signposted."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit Bus und Bahn durch das regnerische Lillestrøm. Wir nutzen die kurzen Wege vom Bahnhof zum Stortorget und zum NITJA, während wir draußen den Regen beobachten. Die Fahrt zum Fetsund Lenser bietet einen gemütlichen Platz im Trockenen, bevor wir die historische Anlage besuchen. Ein entspannter Tag ohne Parkplatzsorgen bei jedem Wetter.",
+            "hu": "Busszal és vonattal a vizes Lillestrømben. Kihasználjuk a rövid távokat az állomás és a Stortorget, illetve a NITJA között, miközben az ablakból nézzük az esőt. A Fetsund Lenserhez vezető út kényelmes és száraz, mielőtt megnéznénk a történelmi helyszínt. Pihentető nap parkolási gondok nélkül, bármilyen időben.",
+            "ro": "Cu autobuzul și trenul prin Lillestrømul ploios. Profităm de distanțele scurte de la gară la Stortorget și NITJA. Drumul spre Fetsund Lenser oferă un loc confortabil la adăpost înainte de a vizita situl istoric. O zi relaxantă fără grija parcării, pe orice vreme.",
+            "en": "By bus and train through rainy Lillestrøm. We take advantage of the short walks from the station to Stortorget and NITJA while watching the rain from the window. The trip to Fetsund Lenser offers a cozy dry seat before we visit the historical site. A relaxing day without parking worries in any weather."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Cluster A: Lillestrøm Station",
+              "tip_5lang": {
+                "de": "Der Bahnhof ist modern und komplett überdacht.",
+                "hu": "Az állomás modern és teljesen fedett.",
+                "ro": "Gara este modernă și complet acoperită.",
+                "en": "The station is modern and fully covered."
+              }
+            },
+            {
+              "name": "Stortorget & Voldgata",
+              "tip_5lang": {
+                "de": "Nur wenige Gehminuten vom Bahnhof entfernt.",
+                "hu": "Csak pár perc séta az állomástól.",
+                "ro": "La doar câteva minute de mers de la gară.",
+                "en": "Only a few minutes walk from the station."
+              }
+            },
+            {
+              "name": "Lillestrøm Church & Culture Centre",
+              "tip_5lang": {
+                "de": "Busse halten oft direkt vor dem Kulturzentrum.",
+                "hu": "A buszok gyakran a központ előtt állnak meg.",
+                "ro": "Autobuzele opresc adesea chiar în față.",
+                "en": "Buses often stop right in front of the centre."
+              }
+            },
+            {
+              "name": "NITJA Art Centre",
+              "tip_5lang": {
+                "de": "Direkt neben dem Bahnhof gelegen, ideal bei Regen.",
+                "hu": "Közvetlenül az állomás mellett, esőben ideális.",
+                "ro": "Lângă gară, ideal când plouă afară.",
+                "en": "Located right next to the station, ideal for rain."
+              }
+            },
+            {
+              "name": "Trip to Cluster B: Fetsund Lenser",
+              "tip_5lang": {
+                "de": "Züge nach Fetsund sind pünktlich und trocken.",
+                "hu": "A vonatok Fetsundba pontosak és szárazak.",
+                "ro": "Trenurile spre Fetsund sunt punctuale și calde.",
+                "en": "Trains to Fetsund are punctual and dry."
+              }
+            },
+            {
+              "name": "Trip to Cluster C: Nebbenes",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Echtzeit-App für Busabfahrten.",
+                "hu": "Használd a valós idejű appot a buszokhoz.",
+                "ro": "Folosiți aplicația pentru orarul în timp real.",
+                "en": "Use the real-time app for bus departures."
+              }
+            },
+            {
+              "name": "Fetveien Promenade",
+              "tip_5lang": {
+                "de": "Haltestellen sind meist mit Unterständen versehen.",
+                "hu": "A megállók többsége fedett várakozóhellyel bír.",
+                "ro": "Stațiile au de obicei adăposturi pentru ploaie.",
+                "en": "Most stops have shelters for waiting in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Ruter-App für Fahrpläne und Tickets.",
+              "Lillestrøm Station ist ein großer Knotenpunkt.",
+              "Suchen Sie bei Verspätungen Schutz im Bahnhofsgebäude.",
+              "Im Bus gibt es oft kostenloses WLAN."
+            ],
+            "hu": [
+              "Használd a Ruter alkalmazást menetrendekhez.",
+              "Lillestrøm állomása fontos közlekedési csomópont.",
+              "Késés esetén várj az állomás épületében.",
+              "A buszokon gyakran van ingyenes Wi-Fi."
+            ],
+            "ro": [
+              "Folosiți aplicația Ruter pentru bilete și orar.",
+              "Gara Lillestrøm este un nod feroviar important.",
+              "În caz de întârzieri, așteptați în interiorul gării.",
+              "Autobuzele au adesea Wi-Fi gratuit."
+            ],
+            "en": [
+              "Use the Ruter app for schedules and tickets.",
+              "Lillestrøm Station is a major transport hub.",
+              "Wait inside the station building if there are delays.",
+              "Buses often have free Wi-Fi for passengers."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterreise mit Öffis durch das verschneite Lillestrøm. Warme Züge bringen uns zum Stortorget und zum NITJA, wo wir die Winterstimmung ohne Kälte genießen. Die Fahrt nach Fetsund bietet einen weiten Blick über die weiße Landschaft. Ein sicherer Weg, die Region zu erkunden, wenn die Straßen glatt und die Nächte lang sind.",
+            "hu": "Téli utazás tömegközlekedéssel a havas Lillestrømben. Meleg vonatok visznek a Stortorgetre és a NITJA-ba, ahol fázás nélkül élvezzük a téli hangulatot. A Fetsundba vezető út során elénk tárul a fehér táj panorámája. Biztonságos mód a környék felfedezésére, amikor az utak csúszósak és az éjszakák hosszúak.",
+            "ro": "Călătorie de iarnă cu transportul public în Lillestrøm. Trenurile calde ne duc la Stortorget și NITJA, unde ne bucurăm de atmosferă fără frig. Drumul spre Fetsund oferă o priveliște largă asupra peisajului alb. O cale sigură de explorare când drumurile sunt alunecoase.",
+            "en": "A winter journey by public transit through snowy Lillestrøm. Warm trains take us to Stortorget and NITJA, where we enjoy the winter vibe without the cold. The trip to Fetsund offers wide views over the white landscape. A safe way to explore the region when roads are slippery and nights are long."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Cluster A: Lillestrøm Station",
+              "tip_5lang": {
+                "de": "Der Bahnhof ist im Winter gut beheizt.",
+                "hu": "Az állomás épülete télen jól fűtött.",
+                "ro": "Clădirea gării este bine încălzită iarna.",
+                "en": "The station building is well-heated in winter."
+              }
+            },
+            {
+              "name": "Stortorget & Voldgata",
+              "tip_5lang": {
+                "de": "Beheizte Gehwege gibt es oft in Bahnhofsnähe.",
+                "hu": "Az állomás közelében gyakran fűtött a járda.",
+                "ro": "Trotuarele de lângă gară sunt adesea încălzite.",
+                "en": "Heated sidewalks are often found near the station."
+              }
+            },
+            {
+              "name": "Lillestrøm Church & Culture Centre",
+              "tip_5lang": {
+                "de": "Die Busse sind im Winter sehr warm eingestellt.",
+                "hu": "A buszok télen nagyon jól fűtöttek.",
+                "ro": "Autobuzele sunt foarte bine încălzite iarna.",
+                "en": "Buses are kept very warm during winter."
+              }
+            },
+            {
+              "name": "NITJA Art Centre",
+              "tip_5lang": {
+                "de": "Ein heller Ort an dunklen Winternachmittagen.",
+                "hu": "Világos menedék a sötét téli délutánokon.",
+                "ro": "Un loc luminos în după-amiezele întunecate.",
+                "en": "A bright spot on dark winter afternoons."
+              }
+            },
+            {
+              "name": "Trip to Cluster B: Fetsund Lenser",
+              "tip_5lang": {
+                "de": "Züge fahren zuverlässig, auch bei viel Schnee.",
+                "hu": "A vonatok nagy hóban is megbízhatóan járnak.",
+                "ro": "Trenurile circulă regulat chiar și cu multă zăpadă.",
+                "en": "Trains run reliably even during heavy snowfall."
+              }
+            },
+            {
+              "name": "Trip to Cluster C: Nebbenes",
+              "tip_5lang": {
+                "de": "Abends sind die Haltestellen gut beleuchtet.",
+                "hu": "Este a megállók jól ki vannak világítva.",
+                "ro": "Stațiile sunt bine iluminate pe timp de seară.",
+                "en": "Stops are well-lit during the dark evenings."
+              }
+            },
+            {
+              "name": "Fetveien Promenade",
+              "tip_5lang": {
+                "de": "Warme Schuhe für das Warten an der Haltestelle.",
+                "hu": "Meleg cipő kell a megállóban való várakozáshoz.",
+                "ro": "Încălțăminte groasă pentru așteptarea în stație.",
+                "en": "Warm shoes are a must for waiting at the stop."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Züge sind oft pünktlicher als Busse bei Schneefall.",
+              "Nutzen Sie die Wartehallen an den Bahnhöfen.",
+              "Achten Sie auf geänderte Fahrpläne an Feiertagen.",
+              "Die Ruter-App zeigt Verspätungen in Echtzeit an."
+            ],
+            "hu": [
+              "Hóesésben a vonatok pontosabbak a buszoknál.",
+              "Használd a várótermeket az állomásokon.",
+              "Figyelj az ünnepi menetrendi változásokra.",
+              "A Ruter app valós időben jelzi a késéseket."
+            ],
+            "ro": [
+              "Trenurile sunt mai punctuale decât autobuzele pe ninsoare.",
+              "Folosiți sălile de așteptare din gări.",
+              "Atenție la orarul modificat în zilele de sărbătoare.",
+              "Aplicația Ruter arată întârzierile în timp real."
+            ],
+            "en": [
+              "Trains are often more punctual than buses in snow.",
+              "Make use of the waiting rooms at stations.",
+              "Watch out for holiday schedule changes.",
+              "The Ruter app shows delays in real-time."
+            ]
+          }
+        }
       }
     }
   },

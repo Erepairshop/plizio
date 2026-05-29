@@ -396,6 +396,206 @@
           "For lunch, a museum or inner courtyard works best.",
           "Stay in the Palmeral later in the day; the light improves there."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens erkunden Sie die Festung Altamira und den Calahorra-Turm, die hervorragenden Schutz vor Schauern bieten. Mittags besuchen Sie die Basilika und das Fiesta-Museum, wo Sie die Geschichte trocken genießen können. Nachmittags spazieren Sie mit dem Regenschirm durch den Stadtpark und den Huerto del Cura. Abends endet die Tour im Palmenhain, wenn der Regen die Blätter glänzen lässt.",
+            "hu": "Reggel az Altamira-palota és a Calahorra-torony falai között kezdünk, amelyek kiváló menedéket nyújtanak az eső elől. Délben a bazilika és a Fiesta-múzeum belső tereiben folytatjuk az ismerkedést a várossal. Délután esernyővel járjuk be a Városi parkot és a Cura-kertet. Az estét az Elchei pálmaligetben zárjuk, ahol az eső friss illata és a fénylő levelek különleges hangulatot árasztanak.",
+            "ro": "Dimineața explorăm Palatul Altamira și Turnul Calahorra, care oferă adăpost excelent împotriva ploii. La prânz vizităm Basilica și Muzeul Fiesta, unde vă puteți bucura de istorie la adăpost. După-amiaza ne plimbăm cu umbrela prin Parcul Municipal și Grădina Huerto del Cura. Seara se încheie în Palmeral, când ploaia face ca frunzele de palmier să strălucească sub luminile orașului.",
+            "en": "Morning begins at Altamira Palace and Calahorra Tower, providing excellent indoor refuge from showers. At noon, visit the Basilica and Fiesta Museum to enjoy Elche's history while staying dry. In the afternoon, explore the Municipal Park and Huerto del Cura with an umbrella. The evening concludes in the Palm Grove, where the rain brings a fresh scent and makes the palm leaves glisten."
+          },
+          "stops": [
+            {
+              "name": "Palacio de Altamira | Altamira-palota | Palatul Altamira | Altamira Palace",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Innenräume der Festung, um den starken Regen abzuwarten.",
+                "hu": "Használja ki az erőd belső termeit a hevesebb záporok idején.",
+                "ro": "Folosiți interiorul cetății pentru a aștepta trecerea ploii torențiale.",
+                "en": "Use the fortress interiors to wait out any heavy downpours."
+              }
+            },
+            {
+              "name": "Torre de la Calahorra | Calahorra-torony | Turnul Calahorra | Calahorra Tower",
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten Sie während der Besichtigung absolut trocken.",
+                "hu": "A vastag falak teljesen szárazon tartják a látogatás során.",
+                "ro": "Zidurile groase vă vor menține perfect uscat în timpul vizitei.",
+                "en": "The thick walls will keep you perfectly dry during your visit."
+              }
+            },
+            {
+              "name": "Basílica de Santa María | Santa María-bazilika | Bazilica Santa María | Basilica of Saint Mary",
+              "tip_5lang": {
+                "de": "Ein idealer Ort für eine ruhige Pause, während es draußen regnet.",
+                "hu": "Ideális hely egy csendes pihenőre, amíg odakint esik az eső.",
+                "ro": "Un loc ideal pentru o pauză liniștită în timp ce afară plouă.",
+                "en": "An ideal place for a quiet break while it is raining outside."
+              }
+            },
+            {
+              "name": "Museo de la Festa | Fiesta-múzeum | Muzeul Festa | Festival Museum",
+              "tip_5lang": {
+                "de": "Die interaktiven Ausstellungen lassen Sie das Wetter draußen vergessen.",
+                "hu": "Az interaktív kiállítások feledtetik a kinti rossz időt.",
+                "ro": "Expozițiile interactive vă vor face să uitați de vremea de afară.",
+                "en": "Interactive exhibits will make you forget the bad weather outside."
+              }
+            },
+            {
+              "name": "Parque Municipal | Városi park | Parcul Municipal | Municipal Park",
+              "tip_5lang": {
+                "de": "Die dichten Palmenkronen bieten natürlichen Schutz vor leichtem Nieselregen.",
+                "hu": "A sűrű pálmakoronák természetes védelmet nyújtanak szemerkélő esőben.",
+                "ro": "Coroanele dese de palmieri oferă protecție naturală împotriva burniței.",
+                "en": "Dense palm canopies offer natural protection against light drizzle."
+              }
+            },
+            {
+              "name": "Huerto del Cura | Cura-kert | Grădina Huerto del Cura | Huerto del Cura Garden",
+              "tip_5lang": {
+                "de": "Suchen Sie bei Schauern Unterschlupf in den kleinen Pavillons.",
+                "hu": "Záporok esetén keressen menedéket a kis pavilonokban.",
+                "ro": "În caz de aversă, căutați adăpost în pavilioanele mici.",
+                "en": "Seek shelter in the small pavilions if a shower starts."
+              }
+            },
+            {
+              "name": "Palmeral de Elche | Elchei pálmaliget | Palmeraul din Elche | Elche Palm Grove",
+              "tip_5lang": {
+                "de": "Feste Schuhe sind wichtig, da die Wege bei Nässe rutschig sein können.",
+                "hu": "Zárt cipő fontos, mert az utak csúszósak lehetnek a nedvességtől.",
+                "ro": "Încălțămintea închisă este importantă, drumurile pot fi alunecoase.",
+                "en": "Sturdy shoes are important as paths can be slippery when wet."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine wasserfeste Jacke, da Regenschirme bei Wind unter Palmen unpraktisch sein können.",
+              "Nutzen Sie die Museen für die intensivsten Regenphasen.",
+              "Achten Sie auf rutschige Steinböden in der Altstadt.",
+              "Die Cafés rund um den Rathausplatz bieten gemütliche Unterstände."
+            ],
+            "hu": [
+              "Viseljen vízálló kabátot, mert a szélben az esernyő nehézkes lehet a pálmák között.",
+              "A múzeumi látogatásokat időzítse a legintenzívebb esős időszakokra.",
+              "Vigyázzon a belváros csúszós kőburkolataira.",
+              "A városháza környéki kávézók remek fedett pihenőhelyek."
+            ],
+            "ro": [
+              "Purtați o jachetă impermeabilă, umbrelele pot fi greu de manevrat printre palmieri pe vânt.",
+              "Planificați vizitele la muzee în perioadele cu ploaie intensă.",
+              "Atenție la pavajul de piatră din centrul vechi, care devine alunecos.",
+              "Cafenelele din jurul pieței primăriei oferă refugii primitoare."
+            ],
+            "en": [
+              "Wear a waterproof jacket as umbrellas can be tricky under palms when windy.",
+              "Schedule museum visits during the most intense rain periods.",
+              "Watch out for slippery stone pavements in the old town.",
+              "Cafes around the town hall square provide cozy covered shelters."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Winter in Elche ist mild und sonnig, perfekt für einen Stadtspaziergang. Morgens besichtigen Sie die historischen Festungen im weichen Winterlicht. Mittags wärmen Sie sich in der Basilika oder den Museen auf. Nachmittags genießen Sie die Ruhe im Stadtpark und im Huerto del Cura, bevor die Sonne früh hinter den Palmen versinkt. Abends erleben Sie die beleuchtete Altstadt in kühler, frischer Luft.",
+            "hu": "Az elchei tél enyhe és napos, tökéletes a városi sétához. Reggel a történelmi erődöket látogatjuk meg a lágy téli fényekben. Délben a bazilikában vagy a múzeumokban melegedhetünk fel kicsit. Délután a Városi park és a Cura-kert nyugalmát élvezzük, mielőtt a nap korán eltűnik a pálmák mögött. Este a kivilágított óvárost fedezzük fel a hűvös, friss levegőn.",
+            "ro": "Iarna în Elche este blândă și însorită, perfectă pentru o plimbare. Dimineața vizităm fortărețele istorice în lumina caldă a iernii. La prânz ne încălzim puțin în Basilică sau în muzee. După-amiaza ne bucurăm de liniștea Parcului Municipal și a Grădinii Huerto del Cura înainte de apusul timpuriu. Seara descoperim centrul vechi iluminat în aerul răcoros și proaspăt.",
+            "en": "Winter in Elche is mild and sunny, perfect for a long walk. In the morning, visit historical fortresses in the soft winter light. At noon, warm up inside the Basilica or the local museums. Enjoy the tranquility of the Municipal Park and Huerto del Cura before the early sunset behind the palms. Spend your evening exploring the illuminated old town in the crisp, cool air."
+          },
+          "stops": [
+            {
+              "name": "Palacio de Altamira | Altamira-palota | Palatul Altamira | Altamira Palace",
+              "tip_5lang": {
+                "de": "Das Winterlicht bietet fantastische Fotomöglichkeiten von den Mauern.",
+                "hu": "A téli fények fantasztikus fotótémát kínálnak a várfalakról.",
+                "ro": "Lumina de iarnă oferă oportunități foto fantastice de pe ziduri.",
+                "en": "Winter light provides fantastic photo opportunities from the walls."
+              }
+            },
+            {
+              "name": "Torre de la Calahorra | Calahorra-torony | Turnul Calahorra | Calahorra Tower",
+              "tip_5lang": {
+                "de": "Im Inneren ist es deutlich wärmer als draußen im Wind.",
+                "hu": "Odabent jóval melegebb van, mint kint a szélben.",
+                "ro": "În interior este mult mai cald decât afară în vânt.",
+                "en": "It is significantly warmer inside than outside in the wind."
+              }
+            },
+            {
+              "name": "Basílica de Santa María | Santa María-bazilika | Bazilica Santa María | Basilica of Saint Mary",
+              "tip_5lang": {
+                "de": "Besuchen Sie den Turm für einen Panoramablick vor dem frühen Sonnenuntergang.",
+                "hu": "Menjen fel a toronyba a panorámáért a korai naplemente előtt.",
+                "ro": "Urcați în turn pentru o vedere panoramică înainte de apusul timpuriu.",
+                "en": "Climb the tower for a panoramic view before the early sunset."
+              }
+            },
+            {
+              "name": "Museo de la Festa | Fiesta-múzeum | Muzeul Festa | Festival Museum",
+              "tip_5lang": {
+                "de": "Ein perfekt temperierter Ort für den kühleren Mittag.",
+                "hu": "Tökéletes hőmérsékletű helyszín a hűvösebb délidőben.",
+                "ro": "Un loc cu temperatură perfectă pentru amiaza mai răcoroasă.",
+                "en": "A perfectly tempered location for the cooler midday hours."
+              }
+            },
+            {
+              "name": "Parque Municipal | Városi park | Parcul Municipal | Municipal Park",
+              "tip_5lang": {
+                "de": "Die Sonne steht tief, bringen Sie eine Sonnenbrille für den Spaziergang mit.",
+                "hu": "Alacsonyan jár a nap, vigyen napszemüveget a sétához.",
+                "ro": "Soarele este jos, aduceți ochelari de soare pentru plimbare.",
+                "en": "The sun is low, bring sunglasses for your afternoon walk."
+              }
+            },
+            {
+              "name": "Huerto del Cura | Cura-kert | Grădina Huerto del Cura | Huerto del Cura Garden",
+              "tip_5lang": {
+                "de": "Die Gärten sind auch im Winter dank der Palmen üppig grün.",
+                "hu": "A kertek a pálmáknak köszönhetően télen is buján zöldellnek.",
+                "ro": "Grădinile sunt verzi și iarna datorită palmierilor.",
+                "en": "The gardens remain lush and green in winter thanks to the palms."
+              }
+            },
+            {
+              "name": "Palmeral de Elche | Elchei pálmaliget | Palmeraul din Elche | Elche Palm Grove",
+              "tip_5lang": {
+                "de": "Beenden Sie den Besuch vor 17:30 Uhr, da es dann schnell dunkel wird.",
+                "hu": "Fejezze be a látogatást 17:30-ig, mert utána gyorsan sötétedik.",
+                "ro": "Încheiați vizita până la 17:30, deoarece se întunecă rapid.",
+                "en": "Finish your visit by 5:30 PM as it gets dark quickly after."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich im Zwiebelprinzip, da es im Schatten kühl sein kann.",
+              "Der Sonnenuntergang ist gegen 17:45 Uhr, planen Sie Ihre Fotos entsprechend.",
+              "Genießen Sie typische Wintersüßigkeiten in den lokalen Konditoreien.",
+              "Die Luftfeuchtigkeit ist niedriger, was die Sicht von Aussichtspunkten verbessert."
+            ],
+            "hu": [
+              "Öltözzön rétegesen, mert az árnyékban hűvös lehet az idő.",
+              "A naplemente 17:45 körül van, tervezze ehhez a fotózást.",
+              "Kóstolja meg a helyi cukrászdák téli édességeit.",
+              "A páratartalom alacsonyabb, így tisztább a kilátás a magaslatokról."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi, deoarece la umbră poate fi răcoare.",
+              "Apusul este în jur de 17:45, planificați fotografiile în funcție de asta.",
+              "Gustați dulciurile de iarnă în cofetăriile locale.",
+              "Umiditatea este mai scăzută, ceea ce îmbunătățește vizibilitatea de la punctele de belvedere."
+            ],
+            "en": [
+              "Dress in layers as it can be quite cool in the shade.",
+              "Sunset is around 5:45 PM, plan your photography accordingly.",
+              "Try typical winter sweets in the local pastry shops.",
+              "Humidity is lower, providing clearer views from vantage points."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -786,6 +986,206 @@
           "Between the park and the Palmeral, it pays to ride slowly.",
           "The palace, basilica, and museum work well as a tight block."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen von Elche erfordert Vorsicht, ist aber machbar. Morgens radeln Sie zwischen den historischen Türmen und finden Schutz in den Innenhöfen. Mittags parken Sie das Rad sicher für längere Museumsbesuche. Nachmittags führen die Wege durch die nassen Palmenhaine, die nun besonders intensiv duften. Abends kehren Sie auf beleuchteten, vorsichtig befahrenen Wegen zurück.",
+            "hu": "Az esős Elche kerékpárral óvatosságot igényel, de megoldható. Reggel a történelmi tornyok között tekerünk, az udvarokon keresve menedéket. Délben biztonságban leparkoljuk a biciklit a hosszabb múzeumi látogatásokhoz. Délután a vizes pálmaligeteken át vezet az út, amelyek ilyenkor különösen intenzív illatot árasztanak. Este kivilágított, óvatosan bejárt utakon térünk vissza.",
+            "ro": "Mersul pe bicicletă în ploaie în Elche necesită prudență, dar este realizabil. Dimineața pedalăm între turnurile istorice, găsind adăpost în curțile interioare. La prânz parcăm bicicleta în siguranță pentru vizite prelungite la muzee. După-amiaza traseele trec prin livezile de palmieri umede, care miros intens acum. Seara revenim pe drumuri iluminate, pedalând cu grijă.",
+            "en": "Cycling through rainy Elche requires caution but is quite feasible. In the morning, ride between historical towers and find shelter in courtyards. At noon, park your bike securely for extended museum visits. Afternoon paths lead through wet palm groves that smell especially fresh now. Return in the evening on illuminated paths, cycling carefully on wet surfaces."
+          },
+          "stops": [
+            {
+              "name": "Palacio de Altamira | Altamira-palota | Palatul Altamira | Altamira Palace",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad unter den Torbögen, um den Sattel trocken zu halten.",
+                "hu": "Parkolja le a biciklit a kapualjak alatt, hogy a nyereg száraz maradjon.",
+                "ro": "Parcați bicicleta sub arcade pentru a păstra șaua uscată.",
+                "en": "Park your bike under the archways to keep the saddle dry."
+              }
+            },
+            {
+              "name": "Torre de la Calahorra | Calahorra-torony | Turnul Calahorra | Calahorra Tower",
+              "tip_5lang": {
+                "de": "Vorsicht beim Absteigen, das Kopfsteinpflaster ist hier sehr glatt.",
+                "hu": "Vigyázzon a leszálláskor, a macskakő itt nagyon csúszik.",
+                "ro": "Atenție la descălecare, pavajul de aici este foarte alunecos.",
+                "en": "Be careful when dismounting; the cobblestones here are very slick."
+              }
+            },
+            {
+              "name": "Basílica de Santa María | Santa María-bazilika | Bazilica Santa María | Basilica of Saint Mary",
+              "tip_5lang": {
+                "de": "In der Nähe gibt es überdachte Fahrradständer.",
+                "hu": "A közelben fedett kerékpártárolók találhatók.",
+                "ro": "Există rastele de biciclete acoperite în apropiere.",
+                "en": "There are covered bike racks located nearby."
+              }
+            },
+            {
+              "name": "Museo de la Festa | Fiesta-múzeum | Muzeul Festa | Festival Museum",
+              "tip_5lang": {
+                "de": "Perfekte Zeit für eine längere Pause vom nassen Sattel.",
+                "hu": "Tökéletes időpont egy hosszabb pihenőre a vizes nyereg után.",
+                "ro": "Momentul perfect pentru o pauză lungă după șaua umedă.",
+                "en": "Perfect time for a longer break from the wet saddle."
+              }
+            },
+            {
+              "name": "Parque Municipal | Városi park | Parcul Municipal | Municipal Park",
+              "tip_5lang": {
+                "de": "Radfahren ist auf den Hauptwegen erlaubt, meiden Sie tiefe Pfützen.",
+                "hu": "A főutakon szabad kerekezni, kerülje a mély tócsákat.",
+                "ro": "Biciclatul este permis pe aleile principale, evitați bălțile adânci.",
+                "en": "Cycling is allowed on main paths; avoid deep puddles."
+              }
+            },
+            {
+              "name": "Huerto del Cura | Cura-kert | Grădina Huerto del Cura | Huerto del Cura Garden",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad am Eingang ab, im Garten herrscht Schiebepflicht.",
+                "hu": "Hagyja a biciklit a bejáratnál, a kertben csak tolni szabad.",
+                "ro": "Lăsați bicicleta la intrare, în grădină este permis doar pe lângă.",
+                "en": "Leave your bike at the entrance; walking beside it is required inside."
+              }
+            },
+            {
+              "name": "Palmeral de Elche | Elchei pálmaliget | Palmeraul din Elche | Elche Palm Grove",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor der Abfahrt auf nassen Wegen.",
+                "hu": "Indulás előtt ellenőrizze a fékeket a vizes utakon.",
+                "ro": "Verificați frânele înainte de plecare pe drumurile ude.",
+                "en": "Check your brakes before setting off on the wet paths."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie Schutzbleche, um Schmutz von Ihrer Kleidung fernzuhalten.",
+              "Vermeiden Sie abrupte Bremsmanöver auf dem nassen Kopfsteinpflaster.",
+              "Wischen Sie den Sattel vor jeder Fahrt mit einem Tuch trocken.",
+              "Ein Regenponcho ist beim Radfahren praktischer als ein Regenschirm."
+            ],
+            "hu": [
+              "Használjon sárvédőt, hogy megóvja ruházatát a felverődő víztől.",
+              "Kerülje a hirtelen fékezést a vizes macskaköveken.",
+              "Minden indulás előtt törölje szárazra a nyerget egy ronggyal.",
+              "A biciklizéshez praktikusabb az esőponcsó, mint az esernyő."
+            ],
+            "ro": [
+              "Folosiți apărători de noroi pentru a vă proteja hainele de apă.",
+              "Evitați frânarea bruscă pe pavajul umed.",
+              "Ștergeți șaua cu o cârpă înainte de fiecare plecare.",
+              "O pelerină de ploaie este mai practică decât o umbrelă pentru bicicletă."
+            ],
+            "en": [
+              "Use mudguards to keep splashes off your clothes.",
+              "Avoid abrupt braking on wet cobblestone surfaces.",
+              "Wipe the saddle dry with a cloth before each leg of the trip.",
+              "A rain poncho is more practical than an umbrella while cycling."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in Elche ist bei Temperaturen um 15-18°C sehr angenehm. Morgens radeln Sie durch die kühle, klare Luft zu den Palästen. Mittags genießen Sie die wärmende Sonne auf den Plätzen der Altstadt. Nachmittags erkunden Sie die weitläufigen Palmenhaine, wobei die Bewegung Sie angenehm warm hält. Abends, wenn es kühler wird, beenden Sie die Tour zügig vor der Dunkelheit.",
+            "hu": "A téli kerékpározás Elchében 15-18 fok körüli hőmérsékletnél nagyon kellemes. Reggel a hűvös, tiszta levegőn tekerünk a palotákhoz. Délben a város terek melengető napsütését élvezzük. Délután a hatalmas pálmaligeteket fedezzük fel, a mozgás pedig kellemesen melegen tart. Este, ahogy hűl a levegő, még sötétedés előtt gyorsan befejezzük a túrát.",
+            "ro": "Biciclatul iarna în Elche este foarte plăcut la temperaturi de 15-18 grade. Dimineața pedalăm prin aerul rece și curat spre palate. La prânz ne bucurăm de soarele cald în piețele orașului. După-amiaza explorăm livezile vaste de palmieri, mișcarea menținându-ne calzi. Seara, pe măsură ce se răcește, încheiem turul rapid înainte de lăsarea întunericului.",
+            "en": "Winter cycling in Elche is very pleasant with temperatures around 15-18°C. In the morning, ride through crisp, clear air to the palaces. Enjoy the warming midday sun in the old town squares. Afternoon is for exploring the vast palm groves, where the exercise keeps you comfortably warm. As it cools down in the evening, finish your tour quickly before dark."
+          },
+          "stops": [
+            {
+              "name": "Palacio de Altamira | Altamira-palota | Palatul Altamira | Altamira Palace",
+              "tip_5lang": {
+                "de": "Handschuhe sind für die Abfahrten am Morgen empfehlenswert.",
+                "hu": "A reggeli gurulásokhoz ajánlott a kesztyű viselése.",
+                "ro": "Se recomandă purtarea mănușilor pentru segmentele de dimineață.",
+                "en": "Gloves are recommended for the morning segments of the ride."
+              }
+            },
+            {
+              "name": "Torre de la Calahorra | Calahorra-torony | Turnul Calahorra | Calahorra Tower",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Mittagssonne für eine Pause auf dem Vorplatz.",
+                "hu": "Használja ki a déli napsütést egy pihenőre az előtéren.",
+                "ro": "Folosiți soarele de la prânz pentru o pauză în piațeta din față.",
+                "en": "Take advantage of the midday sun for a break in the front square."
+              }
+            },
+            {
+              "name": "Basílica de Santa María | Santa María-bazilika | Bazilica Santa María | Basilica of Saint Mary",
+              "tip_5lang": {
+                "de": "Schließen Sie Ihr Rad gut sichtbar an, die Plätze sind belebt.",
+                "hu": "Zárja le a biciklit jól látható helyen, a terek forgalmasak.",
+                "ro": "Încuiați bicicleta într-un loc vizibil, piețele sunt aglomerate.",
+                "en": "Lock your bike in a visible spot; the squares are busy."
+              }
+            },
+            {
+              "name": "Museo de la Festa | Fiesta-múzeum | Muzeul Festa | Festival Museum",
+              "tip_5lang": {
+                "de": "Ein guter Ort, um die Winterjacke kurz abzulegen.",
+                "hu": "Jó hely, hogy rövid időre letegyük a téli kabátot.",
+                "ro": "Un loc bun pentru a lăsa jos geaca de iarnă pentru scurt timp.",
+                "en": "A good place to take off your winter jacket for a while."
+              }
+            },
+            {
+              "name": "Parque Municipal | Városi park | Parcul Municipal | Municipal Park",
+              "tip_5lang": {
+                "de": "Die Wege sind trocken und perfekt für eine entspannte Fahrt.",
+                "hu": "Az utak szárazak és tökéletesek egy pihentető tekeréshez.",
+                "ro": "Drumurile sunt uscate și perfecte pentru o plimbare relaxantă.",
+                "en": "Paths are dry and perfect for a relaxed winter ride."
+              }
+            },
+            {
+              "name": "Huerto del Cura | Cura-kert | Grădina Huerto del Cura | Huerto del Cura Garden",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe, im Winter sind weniger Touristen unterwegs.",
+                "hu": "Élvezze a nyugalmat, télen jóval kevesebb a turista.",
+                "ro": "Bucurați-vă de liniște, iarna sunt mult mai puțini turiști.",
+                "en": "Enjoy the peace; there are significantly fewer tourists in winter."
+              }
+            },
+            {
+              "name": "Palmeral de Elche | Elchei pálmaliget | Palmeraul din Elche | Elche Palm Grove",
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihre Fahrradbeleuchtung für den Abend funktioniert.",
+                "hu": "Ellenőrizze, hogy a kerékpárlámpa működik-e az estére.",
+                "ro": "Asigurați-vă că luminile bicicletei funcționează pentru seară.",
+                "en": "Ensure your bike lights are working for the early evening."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie ein Stirnband unter dem Helm gegen den kühlen Fahrtwind.",
+              "Die Sonne wärmt tagsüber gut, aber im Schatten sinkt die Temperatur merklich.",
+              "Planen Sie die Rückkehr vor 17:30 Uhr ein, um Tageslicht zu nutzen.",
+              "Ein warmer Snack in einer Bäckerei gibt neue Energie für die Tour."
+            ],
+            "hu": [
+              "Viseljen fejpántot a sisak alatt a hűvös menetszél ellen.",
+              "A nap nappal jól melegít, de az árnyékban érezhetően hidegebb van.",
+              "Tervezze a visszatérést 17:30 előttre, hogy kihasználja a nappali fényt.",
+              "Egy meleg harapnivaló egy pékségben új energiát ad a túrához."
+            ],
+            "ro": [
+              "Purtați o bentiță sub cască împotriva vântului rece de mișcare.",
+              "Soarele încălzește bine ziua, dar la umbră este mult mai rece.",
+              "Planificați revenirea înainte de 17:30 pentru a profita de lumină.",
+              "O gustare caldă la o brutărie vă va da energie nouă pentru tur."
+            ],
+            "en": [
+              "Wear a headband under your helmet against the cool wind.",
+              "The sun warms well during the day, but it's noticeably colder in the shade.",
+              "Plan to return before 5:30 PM to make use of the daylight.",
+              "A warm snack at a bakery will give you new energy for the tour."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1194,6 +1594,224 @@
           "This route works best as a set of calm walking loops.",
           "Do not finish the last cluster too early; evening light is better."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden Sie Elche bei Regen komfortabel und trocken. Morgens parken Sie nahe den Festungen für kurze Wege im Freien. Mittags ermöglichen Ihnen die kurzen Fahrten zwischen Basilika und Museum, den Regen fast komplett zu meiden. Nachmittags fahren Sie zum Palmeral-Museum, bevor Sie einen kurzen Spaziergang im Palmenhain wagen. Abends genießen Sie die Stadtlichter bequem aus dem warmen Auto.",
+            "hu": "Autóval kényelmesen és szárazon fedezheti fel Elchét esőben is. Reggel az erődök közelében parkolunk, hogy minimalizáljuk a kinti sétát. Délben a bazilika és a múzeum közötti rövid autózásokkal szinte teljesen elkerülhetjük az esőt. Délután a Palmeral-múzeumot keressük fel, majd egy rövid sétát teszünk a ligetben. Este az autó melegéből csodálhatjuk a város fényeit.",
+            "ro": "Cu mașina explorați Elche confortabil și uscat chiar și pe ploaie. Dimineața parcăm aproape de fortărețe pentru a minimiza mersul pe afară. La prânz, drumurile scurte între Basilică și muzeu vă permit să evitați aproape complet ploaia. După-amiaza vizităm Muzeul Palmeral, apoi facem o scurtă plimbare în livadă. Seara admirăm luminile orașului din căldura mașinii.",
+            "en": "By car, you can explore Elche comfortably and dry even in the rain. In the morning, park near the fortresses to minimize outdoor walking. At noon, short drives between the Basilica and museum help you avoid the rain almost entirely. In the afternoon, visit the Palm Grove Museum before a quick stroll in the grove. Enjoy the city lights from the warmth of your car in the evening."
+          },
+          "stops": [
+            {
+              "name": "Palacio de Altamira | Altamira-palota | Palatul Altamira | Altamira Palace",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus im Zentrum für einen trockenen Ausstieg.",
+                "hu": "Használja a belvárosi parkolóházat a száraz kiszálláshoz.",
+                "ro": "Folosiți parcarea subterană din centru pentru a coborî la uscat.",
+                "en": "Use the underground parking in the center for a dry exit."
+              }
+            },
+            {
+              "name": "Torre de la Calahorra | Calahorra-torony | Turnul Calahorra | Calahorra Tower",
+              "tip_5lang": {
+                "de": "Parkplätze in der blauen Zone sind bei Regen oft schneller frei.",
+                "hu": "A kék zónás parkolóhelyek esőben gyakran hamarabb felszabadulnak.",
+                "ro": "Locurile de parcare din zona albastră se eliberează mai repede pe ploaie.",
+                "en": "Blue zone parking spots often free up faster when it rains."
+              }
+            },
+            {
+              "name": "Basílica de Santa María | Santa María-bazilika | Bazilica Santa María | Basilica of Saint Mary",
+              "tip_5lang": {
+                "de": "Lassen Sie Passagiere direkt vor dem Eingang aussteigen.",
+                "hu": "Az utasokat közvetlenül a bejáratnál tegye ki.",
+                "ro": "Lăsați pasagerii chiar în fața intrării.",
+                "en": "Drop off passengers directly in front of the entrance."
+              }
+            },
+            {
+              "name": "Museo de la Festa | Fiesta-múzeum | Muzeul Festa | Festival Museum",
+              "tip_5lang": {
+                "de": "Ideal für eine längere Pause, während es draußen schüttet.",
+                "hu": "Ideális egy hosszabb pihenőre, amíg odakint szakad az eső.",
+                "ro": "Ideal pentru o pauză lungă în timp ce afară plouă torențial.",
+                "en": "Ideal for a long break while it is pouring outside."
+              }
+            },
+            {
+              "name": "Parque Municipal | Városi park | Parcul Municipal | Municipal Park",
+              "tip_5lang": {
+                "de": "Fahren Sie langsam, da sich auf den Straßen Pfützen bilden können.",
+                "hu": "Vezessen lassan, mert az utakon tócsák alakulhatnak ki.",
+                "ro": "Conduceți încet, deoarece se pot forma bălți pe șosea.",
+                "en": "Drive slowly as puddles can form on the roads."
+              }
+            },
+            {
+              "name": "Huerto del Cura | Cura-kert | Grădina Huerto del Cura | Huerto del Cura Garden",
+              "tip_5lang": {
+                "de": "Ein kleiner Parkplatz befindet sich direkt gegenüber dem Eingang.",
+                "hu": "Egy kis parkoló található közvetlenül a bejárattal szemben.",
+                "ro": "O mică parcare se află chiar vizavi de intrare.",
+                "en": "A small parking lot is located directly opposite the entrance."
+              }
+            },
+            {
+              "name": "Museo del Palmeral | Palmeral-múzeum | Muzeul Palmeralului | Palm Grove Museum",
+              "tip_5lang": {
+                "de": "Perfektes Ziel, um den Regen im Innenbereich zu verbringen.",
+                "hu": "Tökéletes célpont, hogy az esőt zárt térben vészeljük át.",
+                "ro": "Destinația perfectă pentru a petrece ploaia la interior.",
+                "en": "Perfect destination to spend the rainy hours indoors."
+              }
+            },
+            {
+              "name": "Palmeral de Elche | Elchei pálmaliget | Palmeraul din Elche | Elche Palm Grove",
+              "tip_5lang": {
+                "de": "Wählen Sie Wege mit festem Belag, um Matsch zu vermeiden.",
+                "hu": "Válasszon szilárd burkolatú utakat a sár elkerülése érdekében.",
+                "ro": "Alegeți poteci cu pavaj solid pentru a evita noroiul.",
+                "en": "Choose paved paths to avoid mud during your stroll."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Zustand Ihrer Scheibenwischer vor der Fahrt.",
+              "Nutzen Sie Park-Apps, um das Bezahlen im Regen am Automaten zu vermeiden.",
+              "Achten Sie auf Fußgänger mit Regenschirmen, die die Sicht einschränken.",
+              "Halten Sie eine Taschenlampe im Auto bereit, falls die Sicht stark sinkt."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze az ablaktörlők állapotát.",
+              "Használjon parkolási applikációt, hogy ne kelljen az esőben automatánál fizetni.",
+              "Figyeljen az esernyős gyalogosokra, akiknek korlátozott a látóterük.",
+              "Tartson zseblámpát az autóban, ha a látási viszonyok hirtelen romlanának."
+            ],
+            "ro": [
+              "Verificați starea ștergătoarelor înainte de drum.",
+              "Folosiți aplicații de parcare pentru a nu plăti la automat în ploaie.",
+              "Atenție la pietonii cu umbrele, care au câmpul vizual limitat.",
+              "Țineți o lanternă în mașină în caz că vizibilitatea scade brusc."
+            ],
+            "en": [
+              "Check the condition of your windshield wipers before driving.",
+              "Use parking apps to avoid paying at machines in the rain.",
+              "Watch out for pedestrians with umbrellas as their vision may be blocked.",
+              "Keep a flashlight in the car in case visibility drops sharply."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Elche im Winter mit dem Auto ist entspannt, da die Parkplatzsuche einfacher ist. Morgens steuern Sie die historischen Wahrzeichen bei klarer Sicht an. Mittags nutzen Sie die Klimaanlage für kurze Aufwärmphasen zwischen den Stopps. Nachmittags besuchen Sie die Museen und den Cura-Garten, bevor Sie den Sonnenuntergang im Palmenhain genießen. Abends ist die Fahrt durch die weihnachtlich beleuchteten Straßen ein Erlebnis.",
+            "hu": "Elche télen autóval nyugodt élmény, mivel a parkolóhely-keresés egyszerűbb. Reggel a történelmi nevezetességeket keressük fel tiszta látási viszonyok mellett. Délben a légkondicionálót használhatjuk egy rövid felmelegedéshez a megállók között. Délután a múzeumokat és a Cura-kertet látogatjuk meg, majd a naplementét a pálmaligetben várjuk. Este a karácsonyi fényekkel díszített utcákon autózni különleges élmény.",
+            "ro": "Elche iarna cu mașina este o experiență relaxată, parcarea fiind mai ușoară. Dimineața vizităm reperele istorice în condiții de vizibilitate clară. La prânz folosim climatizarea pentru o scurtă încălzire între opriri. După-amiaza vizităm muzeele și Grădina Cura, apoi așteptăm apusul în livadă. Seara, condusul pe străzile decorate cu lumini de sărbătoare este o experiență deosebită.",
+            "en": "Visiting Elche in winter by car is relaxed as parking is easier to find. In the morning, head to historical landmarks under clear skies. At noon, use the car's heater for quick warm-ups between stops. Spend your afternoon at museums and the Cura Garden, then enjoy the sunset in the Palm Grove. Driving through streets decorated with festive lights is a special evening treat."
+          },
+          "stops": [
+            {
+              "name": "Palacio de Altamira | Altamira-palota | Palatul Altamira | Altamira Palace",
+              "tip_5lang": {
+                "de": "Die Parkplätze im Freien sind im Winter angenehm kühl.",
+                "hu": "A szabadtéri parkolók télen kellemesen hűvösek.",
+                "ro": "Parcările în aer liber sunt plăcut de răcoroase iarna.",
+                "en": "Outdoor parking lots are comfortably cool in winter."
+              }
+            },
+            {
+              "name": "Torre de la Calahorra | Calahorra-torony | Turnul Calahorra | Calahorra Tower",
+              "tip_5lang": {
+                "de": "Das Winterlicht eignet sich perfekt für Außenaufnahmen des Turms.",
+                "hu": "A téli fények tökéletesek a torony külső fotózásához.",
+                "ro": "Lumina de iarnă este perfectă pentru fotografii exterioare ale turnului.",
+                "en": "Winter light is perfect for exterior shots of the tower."
+              }
+            },
+            {
+              "name": "Basílica de Santa María | Santa María-bazilika | Bazilica Santa María | Basilica of Saint Mary",
+              "tip_5lang": {
+                "de": "Im Inneren der Basilika herrscht eine konstante, milde Temperatur.",
+                "hu": "A bazilika belsejében állandó, enyhe hőmérséklet van.",
+                "ro": "În interiorul basilicii este o temperatură constantă și blândă.",
+                "en": "Inside the Basilica, the temperature is constant and mild."
+              }
+            },
+            {
+              "name": "Museo de la Festa | Fiesta-múzeum | Muzeul Festa | Festival Museum",
+              "tip_5lang": {
+                "de": "Planen Sie hier etwa 90 Minuten ein, um die Kälte draußen zu vergessen.",
+                "hu": "Tervezzen ide kb. 90 percet, hogy elfelejtse a kinti hideget.",
+                "ro": "Planificați aproximativ 90 de minute aici pentru a uita de frigul de afară.",
+                "en": "Plan for about 90 minutes here to escape the outdoor chill."
+              }
+            },
+            {
+              "name": "Parque Municipal | Városi park | Parcul Municipal | Municipal Park",
+              "tip_5lang": {
+                "de": "Genießen Sie den Spaziergang in der kräftigen Wintersonne.",
+                "hu": "Élvezze a sétát az erős téli napsütésben.",
+                "ro": "Bucurați-vă de plimbare în soarele puternic de iarnă.",
+                "en": "Enjoy your walk in the strong winter sunshine."
+              }
+            },
+            {
+              "name": "Huerto del Cura | Cura-kert | Grădina Huerto del Cura | Huerto del Cura Garden",
+              "tip_5lang": {
+                "de": "Die Pfauen sind auch im Winter aktiv und zeigen sich oft.",
+                "hu": "A pávák télen is aktívak és gyakran mutatkoznak.",
+                "ro": "Păunii sunt activi și iarna și se arată des.",
+                "en": "The peacocks are active in winter and often show themselves."
+              }
+            },
+            {
+              "name": "Museo del Palmeral | Palmeral-múzeum | Muzeul Palmeralului | Palm Grove Museum",
+              "tip_5lang": {
+                "de": "Der Shop des Museums bietet tolle lokale Produkte für den Winter.",
+                "hu": "A múzeum boltja remek helyi termékeket kínál télre.",
+                "ro": "Magazinul muzeului oferă produse locale grozave pentru iarnă.",
+                "en": "The museum shop offers great local products for winter."
+              }
+            },
+            {
+              "name": "Palmeral de Elche | Elchei pálmaliget | Palmeraul din Elche | Elche Palm Grove",
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne erzeugt lange, dramatische Schatten.",
+                "hu": "Az alacsonyan járó nap hosszú, drámai árnyékokat vet.",
+                "ro": "Soarele jos creează umbre lungi și dramatice.",
+                "en": "The low sun creates long, dramatic shadows among the palms."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Sonnenblende, wenn Sie nach Westen fahren.",
+              "Parken Sie mittags im Schatten, wenn es im Auto zu warm wird.",
+              "Die Straßen sind weniger verstopft als in der Hochsaison.",
+              "In Elche gibt es im Winter oft festliche Märkte, achten Sie auf Schilder."
+            ],
+            "hu": [
+              "Használja a napellenzőt, ha nyugat felé vezet.",
+              "Délben parkoljon árnyékba, ha az autó túlságosan felmelegedne.",
+              "Az utcák kevésbé zsúfoltak, mint a főszezonban.",
+              "Elchében télen gyakran vannak ünnepi vásárok, figyelje a táblákat."
+            ],
+            "ro": [
+              "Folosiți parasolarul când conduceți spre vest.",
+              "Parcați la umbră la prânz dacă mașina se încălzește prea tare.",
+              "Străzile sunt mai puțin aglomerate decât în sezonul de vârf.",
+              "În Elche sunt deseori târguri de sărbători iarna, atenție la indicatoare."
+            ],
+            "en": [
+              "Use the sun visor when driving towards the west.",
+              "Park in the shade at noon if the car gets too warm.",
+              "Streets are less congested than during the peak season.",
+              "Elche often hosts festive markets in winter; look for signs."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1602,6 +2220,224 @@
           "The old town and green belt fit nicely into two or three rides.",
           "If you miss a connection, just stay longer in the same cluster."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Öffentliche Verkehrsmittel in Elche bringen Sie bei Regen sicher ans Ziel. Morgens nutzen Sie Busse, um die Distanzen zwischen den historischen Stätten zu verkürzen. Mittags finden Sie in den Museen und der Basilika Schutz, während Sie die Busfahrpläne bequem per App checken. Nachmittags besuchen Sie das Palmeral-Museum, das gut angebunden ist. Abends kehren Sie trocken mit dem Bus zum Ausgangspunkt zurück.",
+            "hu": "Elche tömegközlekedése esőben is biztonságosan célba juttatja. Reggel buszokkal rövidíthetjük le a távolságokat a történelmi helyszínek között. Délben a múzeumokban és a bazilikában pihenhetünk, miközben applikáción ellenőrizzük a menetrendet. Délután a jól megközelíthető Palmeral-múzeumot látogatjuk meg. Este szárazon, busszal térhetünk vissza a kiindulópontra.",
+            "ro": "Transportul public din Elche vă duce în siguranță la destinație pe ploaie. Dimineața folosim autobuzele pentru a scurta distanțele între siturile istorice. La prânz ne adăpostim în muzee și basilică, verificând orarul pe aplicație. După-amiaza vizităm Muzeul Palmeral, care este bine conectat. Seara revenim uscați cu autobuzul la punctul de plecare.",
+            "en": "Elche's public transit keeps you safe and dry during rainy weather. In the morning, use local buses to shorten distances between historical sites. At noon, take shelter in museums and the Basilica while checking schedules on your phone. In the afternoon, visit the well-connected Palm Grove Museum. Return dry to your starting point in the evening via the bus network."
+          },
+          "stops": [
+            {
+              "name": "Palacio de Altamira | Altamira-palota | Palatul Altamira | Altamira Palace",
+              "tip_5lang": {
+                "de": "Die nächste Bushaltestelle bietet eine überdachte Wartezone.",
+                "hu": "A legközelebbi buszmegálló fedett váróval rendelkezik.",
+                "ro": "Cea mai apropiată stație de autobuz are adăpost acoperit.",
+                "en": "The nearest bus stop has a covered waiting area."
+              }
+            },
+            {
+              "name": "Torre de la Calahorra | Calahorra-torony | Turnul Calahorra | Calahorra Tower",
+              "tip_5lang": {
+                "de": "Mehrere Linien halten in direkter Gehdistanz zum Turm.",
+                "hu": "Több járat is megáll a toronytól közvetlen sétatávolságra.",
+                "ro": "Mai multe linii opresc la mică distanță de mers pe jos de turn.",
+                "en": "Several bus lines stop within direct walking distance of the tower."
+              }
+            },
+            {
+              "name": "Basílica de Santa María | Santa María-bazilika | Bazilica Santa María | Basilica of Saint Mary",
+              "tip_5lang": {
+                "de": "Ein zentraler Knotenpunkt, ideal zum Umsteigen bei Regen.",
+                "hu": "Központi csomópont, ideális átszálláshoz esőben.",
+                "ro": "Nod central, ideal pentru schimbarea liniilor pe ploaie.",
+                "en": "A central hub, ideal for changing bus lines in the rain."
+              }
+            },
+            {
+              "name": "Museo de la Festa | Fiesta-múzeum | Muzeul Festa | Festival Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit im Museum, um die nächste Verbindung zu suchen.",
+                "hu": "Használja ki a múzeumi időt a következő járat megkeresésére.",
+                "ro": "Folosiți timpul în muzeu pentru a căuta următoarea conexiune.",
+                "en": "Use your time in the museum to look up the next connection."
+              }
+            },
+            {
+              "name": "Parque Municipal | Városi park | Parcul Municipal | Municipal Park",
+              "tip_5lang": {
+                "de": "Die Busse fahren im Regen oft etwas langsamer, planen Sie Puffer ein.",
+                "hu": "A buszok esőben gyakran lassabbak, tervezzen időpufferrel.",
+                "ro": "Autobuzele merg mai încet pe ploaie, planificați o marjă de timp.",
+                "en": "Buses often run slightly slower in the rain; allow extra time."
+              }
+            },
+            {
+              "name": "Huerto del Cura | Cura-kert | Grădina Huerto del Cura | Huerto del Cura Garden",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist fast direkt vor dem Eingangstor.",
+                "hu": "A megálló szinte közvetlenül a bejárati kapu előtt van.",
+                "ro": "Stația este aproape direct în fața porții de intrare.",
+                "en": "The bus stop is almost directly in front of the entrance gate."
+              }
+            },
+            {
+              "name": "Museo del Palmeral | Palmeral-múzeum | Muzeul Palmeralului | Palm Grove Museum",
+              "tip_5lang": {
+                "de": "Busse der Linie R2 bedienen diesen Bereich regelmäßig.",
+                "hu": "Az R2-es buszjárat rendszeresen érinti ezt a környéket.",
+                "ro": "Linia de autobuz R2 deservește această zonă în mod regulat.",
+                "en": "Bus line R2 serves this area on a regular basis."
+              }
+            },
+            {
+              "name": "Palmeral de Elche | Elchei pálmaliget | Palmeraul din Elche | Elche Palm Grove",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Fahrplan der letzten Busse für die Rückfahrt.",
+                "hu": "Ellenőrizze az utolsó buszok menetrendjét a visszatéréshez.",
+                "ro": "Verificați orarul ultimelor autobuze pentru întoarcere.",
+                "en": "Check the schedule for the last buses of the evening."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Laden Sie die lokale Verkehrs-App 'Bus Elche' für Echtzeitdaten herunter.",
+              "Kaufen Sie eine Mehrfahrtenkarte, um Zeit beim Einsteigen zu sparen.",
+              "Halten Sie Kleingeld bereit, falls Sie beim Fahrer bezahlen.",
+              "Die Busse sind klimatisiert, was bei hoher Luftfeuchtigkeit angenehm ist."
+            ],
+            "hu": [
+              "Töltse le a 'Bus Elche' alkalmazást a valós idejű adatokhoz.",
+              "Vásároljon gyűjtőjegyet, hogy időt spóroljon a felszállásnál.",
+              "Készítsen ki aprópénzt, ha a sofőrnél vált jegyet.",
+              "A buszok klimatizáltak, ami magas páratartalomnál nagyon kényelmes."
+            ],
+            "ro": [
+              "Descărcați aplicația 'Bus Elche' pentru date în timp real.",
+              "Cumpărați un bilet cu mai multe călătorii pentru a economisi timp.",
+              "Pregătiți mărunțiș dacă plătiți biletul la șofer.",
+              "Autobuzele sunt climatizate, ceea ce este plăcut la umiditate mare."
+            ],
+            "en": [
+              "Download the 'Bus Elche' app for real-time transit data.",
+              "Buy a multi-trip card to save time when boarding.",
+              "Have exact change ready if paying the driver directly.",
+              "Buses are air-conditioned, which is comfortable during high humidity."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Winter ist eine großartige Zeit, um Elche mit dem Bus zu erkunden. Morgens erreichen Sie die historischen Zentren bequem und vermeiden den kühlen Wind. Mittags spazieren Sie zwischen den Stopps in der warmen Sonne. Nachmittags bringen die Busse Sie schnell zu den Gärten und Museen, bevor es abkühlt. Abends ist die Rückfahrt mit dem beleuchteten Bus eine entspannte Art, den Tag zu beenden.",
+            "hu": "A tél remek időszak Elche buszos felfedezésére. Reggel kényelmesen elérjük a történelmi központokat, elkerülve a hűvös szelet. Délben a megállók között sétálhatunk a meleg napsütésben. Délután a buszok gyorsan elvisznek a kertekhez és múzeumokhoz, mielőtt lehűlne az idő. Este a kivilágított busszal való visszatérés pihentető lezárása a napnak.",
+            "ro": "Iarna este o perioadă excelentă pentru a explora Elche cu autobuzul. Dimineața ajungem confortabil în centrele istorice, evitând vântul rece. La prânz ne putem plimba între stații în soarele cald. După-amiaza autobuzele ne duc rapid la grădini și muzee înainte de răcire. Seara, întoarcerea cu autobuzul iluminat este un mod relaxant de a încheia ziua.",
+            "en": "Winter is a great time to explore Elche by bus. In the morning, reach historical centers comfortably while avoiding the cool wind. Enjoy walking between stops in the warm midday sun. In the afternoon, buses quickly transport you to gardens and museums before the temperature drops. A ride on an illuminated bus is a relaxing way to end your evening."
+          },
+          "stops": [
+            {
+              "name": "Palacio de Altamira | Altamira-palota | Palatul Altamira | Altamira Palace",
+              "tip_5lang": {
+                "de": "Die Busfrequenz ist im Winter stabil und zuverlässig.",
+                "hu": "A buszok sűrűsége télen is stabil és megbízható.",
+                "ro": "Frecvența autobuzelor este stabilă și de încredere iarna.",
+                "en": "Bus frequency remains stable and reliable during winter."
+              }
+            },
+            {
+              "name": "Torre de la Calahorra | Calahorra-torony | Turnul Calahorra | Calahorra Tower",
+              "tip_5lang": {
+                "de": "Die Haltestellen sind gut beschildert und leicht zu finden.",
+                "hu": "A megállók jól kitáblázottak és könnyen megtalálhatóak.",
+                "ro": "Stațiile sunt bine semnalizate și ușor de găsit.",
+                "en": "Stops are well-signposted and easy to find in the city."
+              }
+            },
+            {
+              "name": "Basílica de Santa María | Santa María-bazilika | Bazilica Santa María | Basilica of Saint Mary",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Wartezeit für einen schnellen Blick in die Kirche.",
+                "hu": "Használja ki a várakozási időt egy gyors betekintésre a templomba.",
+                "ro": "Folosiți timpul de așteptare pentru o privire scurtă în biserică.",
+                "en": "Use your waiting time for a quick look inside the church."
+              }
+            },
+            {
+              "name": "Museo de la Festa | Fiesta-múzeum | Muzeul Festa | Festival Museum",
+              "tip_5lang": {
+                "de": "Im Winter ist es in den Bussen oft angenehm leer.",
+                "hu": "Télen a buszokon gyakran kellemesen kevés az ember.",
+                "ro": "Iarna autobuzele sunt deseori plăcut de goale.",
+                "en": "Buses are often pleasantly uncrowded during the winter months."
+              }
+            },
+            {
+              "name": "Parque Municipal | Városi park | Parcul Municipal | Municipal Park",
+              "tip_5lang": {
+                "de": "Eine Haltestelle befindet sich direkt an der Parkmauer.",
+                "hu": "Egy megálló közvetlenül a park fala mellett található.",
+                "ro": "O stație se află chiar lângă zidul parcului.",
+                "en": "There is a bus stop located right by the park wall."
+              }
+            },
+            {
+              "name": "Huerto del Cura | Cura-kert | Grădina Huerto del Cura | Huerto del Cura Garden",
+              "tip_5lang": {
+                "de": "Kombinieren Sie den Besuch mit der Linie R1 für eine Stadtrundfahrt.",
+                "hu": "Kombinálja a látogatást az R1-es vonallal egy városnézéshez.",
+                "ro": "Combinați vizita cu linia R1 pentru un tur al orașului.",
+                "en": "Combine your visit with line R1 for a mini city tour."
+              }
+            },
+            {
+              "name": "Museo del Palmeral | Palmeral-müzeum | Muzeul Palmeralului | Palm Grove Museum",
+              "tip_5lang": {
+                "de": "Die Haltestelle liegt in einer sonnigen Zone, ideal zum Warten.",
+                "hu": "A megálló napos helyen van, ideális a várakozáshoz.",
+                "ro": "Stația este într-o zonă însorită, ideală pentru așteptare.",
+                "en": "The stop is in a sunny zone, ideal for waiting for the bus."
+              }
+            },
+            {
+              "name": "Palmeral de Elche | Elchei pálmaliget | Palmeraul din Elche | Elche Palm Grove",
+              "tip_5lang": {
+                "de": "Beachten Sie die leicht geänderten Fahrpläne an Feiertagen.",
+                "hu": "Ügyeljen az ünnepek miatti esetleges menetrend-módosításokra.",
+                "ro": "Atenție la modificările de orar cauzate de sărbători.",
+                "en": "Watch out for potential schedule changes during holidays."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Busse sind im Winter gut beheizt.",
+              "Nutzen Sie die Wartezeiten, um die lokale Architektur zu bewundern.",
+              "Die Linienpläne hängen an jeder größeren Haltestelle aus.",
+              "Ein Tagesticket lohnt sich bei mehr als drei Fahrten."
+            ],
+            "hu": [
+              "A buszok télen jól fűtöttek.",
+              "Használja ki a várakozási időt a helyi építészet megcsodálására.",
+              "A vonalhálózati térképek minden nagyobb megállóban kint vannak.",
+              "A napijegy már három utazásnál is megéri."
+            ],
+            "ro": [
+              "Autobuzele sunt bine încălzite iarna.",
+              "Folosiți timpul de așteptare pentru a admira arhitectura locală.",
+              "Hărțile liniilor sunt afișate în fiecare stație importantă.",
+              "Un bilet de o zi merită de la mai mult de trei călătorii."
+            ],
+            "en": [
+              "Buses are well-heated during the winter months.",
+              "Use waiting times to admire the surrounding local architecture.",
+              "Line maps are posted at every major bus stop.",
+              "A day pass is worth it if you plan more than three trips."
+            ]
+          }
+        }
       }
     }
   }

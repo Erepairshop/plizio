@@ -402,6 +402,224 @@
           "A reusable water bottle is a good idea, especially in the warmer months.",
           "Check museum opening times in advance as they can vary."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren regnerischen Tag in der Kathedrale, wo die Stille den Regen draußen vergessen lässt. Mittags bietet der Palast Schutz und kulturelle Tiefe. Der Nachmittag im Wintergarten ist eine tropische Flucht vor dem Grau, bevor Sie den Abend trocken im prachtvollen Dramentheater ausklingen lassen.",
+            "hu": "Kezdje az esős napot a székesegyházban, ahol a csend feledteti a kinti ázást. Délben a palota nyújt menedéket és kulturális élményt. A télikert délutáni látogatása trópusi menekülés a szürkeség elől, az estét pedig szárazon, a pompás Drámai Színházban zárhatja.",
+            "ro": "Începeți ziua ploioasă în catedrală, unde liniștea vă face să uitați de vremea de afară. La prânz, palatul oferă adăpost și profunzime culturală. Grădina de iarnă este o evadare tropicală din griul de afară, iar seara se încheie confortabil la teatrul dramatic.",
+            "en": "Start your rainy day in the cathedral, where the silence makes you forget the wet weather outside. At noon, the palace provides shelter and cultural depth. The Winter Garden is a tropical escape from the gray afternoon, ending your day dry in the magnificent Drama Theatre."
+          },
+          "stops": [
+            {
+              "name": "Peter and Paul Cathedral",
+              "tip_4lang": {
+                "de": "Ideal zum Aufwärmen und Trocknen.",
+                "hu": "Ideális hely a bemelegedésre és száradásra.",
+                "ro": "Loc ideal pentru a vă încălzi și usca.",
+                "en": "Ideal place to warm up and dry off."
+              }
+            },
+            {
+              "name": "Paskevich family burial chapel",
+              "tip_4lang": {
+                "de": "Kurzer Sprint vom Haupteingang.",
+                "hu": "Rövid futás a főbejárattól.",
+                "ro": "Sprint scurt de la intrarea principală.",
+                "en": "Short sprint from the main entrance."
+              }
+            },
+            {
+              "name": "Rumyantsev-Paskevich Palace",
+              "tip_4lang": {
+                "de": "Perfekter Zufluchtsort für Stunden.",
+                "hu": "Tökéletes menedék órákon át.",
+                "ro": "Refugiu perfect pentru ore întregi.",
+                "en": "Perfect refuge for hours."
+              }
+            },
+            {
+              "name": "Observation Tower",
+              "tip_4lang": {
+                "de": "Vorsicht, die Stufen können rutschig sein.",
+                "hu": "Vigyázat, a lépcsők csúszósak lehetnek.",
+                "ro": "Atenție, treptele pot fi alunecoase.",
+                "en": "Caution, the steps can be slippery."
+              }
+            },
+            {
+              "name": "Lunch in the Park",
+              "tip_4lang": {
+                "de": "Wählen Sie einen Platz am Fenster.",
+                "hu": "Válasszon ablak melletti asztalt.",
+                "ro": "Alegeți o masă lângă fereastră.",
+                "en": "Choose a table by the window."
+              }
+            },
+            {
+              "name": "Winter Garden",
+              "tip_4lang": {
+                "de": "Bester Ort bei Regen in Homel.",
+                "hu": "A legjobb hely esőben Homelben.",
+                "ro": "Cel mai bun loc pe ploaie în Homel.",
+                "en": "Best place during rain in Homel."
+              }
+            },
+            {
+              "name": "Gomel Park",
+              "tip_4lang": {
+                "de": "Nutzen Sie die asphaltierten Wege.",
+                "hu": "Használja az aszfaltozott utakat.",
+                "ro": "Folosiți aleile asfaltate.",
+                "en": "Use the paved paths."
+              }
+            },
+            {
+              "name": "Gomel Drama Theatre",
+              "tip_4lang": {
+                "de": "Genießen Sie die trockene Eleganz.",
+                "hu": "Élvezze a száraz eleganciát.",
+                "ro": "Bucurați-vă de eleganța uscată.",
+                "en": "Enjoy the dry elegance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Regenschirm ist unverzichtbar.",
+              "Parkwege können Pfützen bilden.",
+              "Palastbesuch auf den stärksten Regen legen.",
+              "Schuhe mit gutem Profil tragen."
+            ],
+            "hu": [
+              "Az esernyő elengedhetetlen.",
+              "A parki utakon tócsák lehetnek.",
+              "A palotalátogatást a legnagyobb esőre időzítse.",
+              "Válasszon jó tapadású cipőt."
+            ],
+            "ro": [
+              "Umbrela este indispensabilă.",
+              "Pe aleile parcului pot apărea bălți.",
+              "Planificați vizita la palat în timpul ploii abundente.",
+              "Purtați încălțăminte antiderapantă."
+            ],
+            "en": [
+              "An umbrella is essential.",
+              "Park paths may have puddles.",
+              "Time your palace visit for the heaviest rain.",
+              "Wear shoes with good grip."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen beginnt an der Kathedrale, gefolgt von der wohligen Wärme der Paskevich-Gruft. Der Palast bietet prunkvolle, beheizte Säle. Ein Highlight ist der Wintergarten – eine grüne Oase im Schnee. Da die Sonne früh untergeht, bildet das beleuchtete Dramentheater den perfekten Abschluss.",
+            "hu": "Deres reggel kezdődik a székesegyháznál, majd a Paskevich-kápolna áhítata következik. A palota fűtött termeiben melegedhetünk fel. A nap fénypontja a télikert, mely zöld oázis a hóban. A korai naplemente után a kivilágított Drámai Színház nyújt méltó zárást.",
+            "ro": "O dimineață geroasă începe la catedrală, urmată de căldura capelei Paskevich. Palatul oferă săli încălzite și somptuoase. Un punct culminant este Grădina de Iarnă – o oază verde în zăpadă. Deoarece soarele apune devreme, teatrul iluminat este finalul perfect.",
+            "en": "A frosty morning begins at the cathedral, followed by the warmth of the Paskevich chapel. The palace offers grand, heated halls. A highlight is the Winter Garden – a green oasis in the snow. Since the sun sets early, the illuminated Drama Theatre provides the perfect conclusion."
+          },
+          "stops": [
+            {
+              "name": "Peter and Paul Cathedral",
+              "tip_4lang": {
+                "de": "Wärmendes Kerzenlicht im Inneren.",
+                "hu": "Melegítő gyertyafény odabent.",
+                "ro": "Lumina lumânărilor încălzește interiorul.",
+                "en": "Warming candlelight inside."
+              }
+            },
+            {
+              "name": "Paskevich family burial chapel",
+              "tip_4lang": {
+                "de": "Kleiner, windgeschützter Raum.",
+                "hu": "Kicsi, szélvédett helyiség.",
+                "ro": "Spațiu mic, protejat de vânt.",
+                "en": "Small, wind-protected space."
+              }
+            },
+            {
+              "name": "Rumyantsev-Paskevich Palace",
+              "tip_4lang": {
+                "de": "Garderobe für schwere Mäntel nutzen.",
+                "hu": "Használja a ruhatárat a kabátoknak.",
+                "ro": "Folosiți garderoba pentru haine groase.",
+                "en": "Use the cloakroom for heavy coats."
+              }
+            },
+            {
+              "name": "Observation Tower",
+              "tip_4lang": {
+                "de": "Sehr windig, warm anziehen!",
+                "hu": "Nagyon szeles, öltözzön melegen!",
+                "ro": "Foarte vântos, îmbrăcați-vă gros!",
+                "en": "Very windy, dress warmly!"
+              }
+            },
+            {
+              "name": "Lunch in the Park",
+              "tip_4lang": {
+                "de": "Fragen Sie nach heißem Tee oder Suppe.",
+                "hu": "Kérjen forró teát vagy levest.",
+                "ro": "Cereți ceai fierbinte sau supă.",
+                "en": "Ask for hot tea or soup."
+              }
+            },
+            {
+              "name": "Winter Garden",
+              "tip_4lang": {
+                "de": "Kontrast zum Eis draußen genießen.",
+                "hu": "Élvezze a kontrasztot a kinti jéggel.",
+                "ro": "Bucurați-vă de contrastul cu gheața.",
+                "en": "Enjoy the contrast with the ice outside."
+              }
+            },
+            {
+              "name": "Gomel Park",
+              "tip_4lang": {
+                "de": "Vorsicht vor vereisten Uferwegen.",
+                "hu": "Vigyázat a jeges parti utakkal.",
+                "ro": "Atenție la aleile înghețate de pe mal.",
+                "en": "Watch out for icy riverside paths."
+              }
+            },
+            {
+              "name": "Gomel Drama Theatre",
+              "tip_4lang": {
+                "de": "Warmer Ausklang des Kulturtages.",
+                "hu": "A kultúrnap meleg lezárása.",
+                "ro": "Final cald al zilei culturale.",
+                "en": "Warm end to the cultural day."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Sonnenuntergang gegen 16:30 Uhr.",
+              "Wollsocken und Handschuhe einpacken.",
+              "Innenräume sind meist stark beheizt.",
+              "Vorsicht bei Glätte auf den Parktreppen."
+            ],
+            "hu": [
+              "Naplemente 16:30 körül.",
+              "Vigyen gyapjúzoknit és kesztyűt.",
+              "A belső terek általában jól fűtöttek.",
+              "Vigyázzon a jeges lépcsőkön a parkban."
+            ],
+            "ro": [
+              "Apusul soarelui în jur de 16:30.",
+              "Luați șosete de lână și mănuși.",
+              "Interioarele sunt de obicei bine încălzite.",
+              "Atenție la gheața de pe scările parcului."
+            ],
+            "en": [
+              "Sunset around 16:30.",
+              "Pack wool socks and gloves.",
+              "Indoors are usually well-heated.",
+              "Be careful of ice on park stairs."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -798,6 +1016,224 @@
           "Be mindful of pedestrians on the shared paths in the park.",
           "A bike lock is essential to park your bike safely while you visit the sights."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert Mut, belohnt aber mit leeren Wegen. Starten Sie am Theater und Zirkus, bevor Sie zur Kathedrale eilen. Der Palast bietet die nötige Pause. Nach dem Mittagessen am Fluss wärmt der Wintergarten Körper und Seele auf, bevor die letzte Fahrt durch den nassen Park ansteht.",
+            "hu": "Az esőben bringázás bátorságot igényel, de üres utakkal jutalmaz. Kezdjen a színháznál és cirkusznál, mielőtt a székesegyházhoz hajtana. A palota ad pihenőt. A folyóparti ebéd után a télikert melegíti fel, mielőtt az utolsó kört tenné a vizes parkban.",
+            "ro": "Mersul cu bicicleta pe ploaie necesită curaj, dar oferă drumuri libere. Începeți la teatru și circ, apoi mergeți la catedrală. Palatul oferă pauza necesară. După prânzul pe malul râului, grădina de iarnă vă încălzește înainte de ultima tură prin parc.",
+            "en": "Cycling in the rain requires courage but rewards you with empty paths. Start at the theatre and circus before rushing to the cathedral. The palace provides a needed break. After lunch by the river, the Winter Garden warms your body before the final ride through the wet park."
+          },
+          "stops": [
+            {
+              "name": "Gomel Drama Theatre",
+              "tip_4lang": {
+                "de": "Fahrradständer sind vorhanden.",
+                "hu": "Vannak kerékpártárolók.",
+                "ro": "Există rastele pentru biciclete.",
+                "en": "Bike racks are available."
+              }
+            },
+            {
+              "name": "Gomel Circus",
+              "tip_4lang": {
+                "de": "Kurzer Stopp unter dem Vordach.",
+                "hu": "Rövid megálló az előtető alatt.",
+                "ro": "Oprire scurtă sub copertină.",
+                "en": "Short stop under the canopy."
+              }
+            },
+            {
+              "name": "Peter and Paul Cathedral",
+              "tip_4lang": {
+                "de": "Vorsicht beim Absteigen, rutschig.",
+                "hu": "Vigyázat a leszálláskor, csúszós.",
+                "ro": "Atenție la descălecare, e alunecos.",
+                "en": "Caution when dismounting, slippery."
+              }
+            },
+            {
+              "name": "Rumyantsev-Paskevich Palace",
+              "tip_4lang": {
+                "de": "Lange Pause zum Trocknen einlegen.",
+                "hu": "Tartson hosszú szünetet a száradáshoz.",
+                "ro": "Faceți o pauză lungă pentru uscare.",
+                "en": "Take a long break to dry off."
+              }
+            },
+            {
+              "name": "Observation Tower",
+              "tip_4lang": {
+                "de": "Fahrrad sicher anschließen.",
+                "hu": "Zárja le biztonságosan a biciklit.",
+                "ro": "Încuiați bine bicicleta.",
+                "en": "Lock your bike securely."
+              }
+            },
+            {
+              "name": "Lunch by the river",
+              "tip_4lang": {
+                "de": "Überdachte Plätze bevorzugen.",
+                "hu": "Preferálja a fedett helyeket.",
+                "ro": "Preferați locurile acoperite.",
+                "en": "Prefer covered seating."
+              }
+            },
+            {
+              "name": "Winter Garden",
+              "tip_4lang": {
+                "de": "Luftfeuchtigkeit genießen.",
+                "hu": "Élvezze a páratartalmat.",
+                "ro": "Bucurați-vă de umiditate.",
+                "en": "Enjoy the humidity."
+              }
+            },
+            {
+              "name": "Bike ride in Gomel Park",
+              "tip_4lang": {
+                "de": "Spritzschutz am Rad ist Pflicht.",
+                "hu": "A sárvédő kötelező.",
+                "ro": "Apărătoarea de noroi e obligatorie.",
+                "en": "Mudguards are a must."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Bremsweg verlängert sich bei Nässe.",
+              "Wasserdichte Kleidung tragen.",
+              "Vorsicht vor nassem Laub im Park.",
+              "Beleuchtung auch tagsüber einschalten."
+            ],
+            "hu": [
+              "Vizes úton hosszabb a féktáv.",
+              "Viseljen vízálló ruházatot.",
+              "Vigyázzon a vizes levelekre a parkban.",
+              "Nappal is kapcsolja be a világítást."
+            ],
+            "ro": [
+              "Distanța de frânare crește pe ud.",
+              "Purtați haine impermeabile.",
+              "Atenție la frunzele ude din parc.",
+              "Aprindeți luminile și ziua."
+            ],
+            "en": [
+              "Braking distance increases on wet roads.",
+              "Wear waterproof clothing.",
+              "Watch out for wet leaves in the park.",
+              "Turn on lights even during the day."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im Gomeler Winter ist erfrischend. Nach den kulturellen Stopps am Theater und Zirkus bringt die Fahrt zur Kathedrale den Kreislauf in Schwung. Der Palast bietet Wärme, bevor die Aussicht vom Turm die Kälte vergessen lässt. Der Wintergarten ist die perfekte Aufwärmstation, bevor die Tour im verschneiten Park endet.",
+            "hu": "A homeli télben bringázni frissítő élmény. A színház és cirkusz után a székesegyházhoz tekerés felpörgeti a keringést. A palota meleget ad, a toronyból nyíló kilátás pedig feledteti a fagyot. A télikert tökéletes melegedő, mielőtt a túra a havas parkban véget érne.",
+            "ro": "Mersul cu bicicleta în iarna din Homel este revigorant. După opririle culturale, drumul spre catedrală vă pune sângele în mișcare. Palatul oferă căldură, iar turnul o vedere superbă. Grădina de iarnă este stația perfectă de încălzire înainte de finalul în parcul înzăpezit.",
+            "en": "Cycling in Gomel's winter is refreshing. After cultural stops at the theatre and circus, the ride to the cathedral gets your blood pumping. The palace offers warmth, and the tower view makes you forget the frost. The Winter Garden is the perfect warming station before ending in the snowy park."
+          },
+          "stops": [
+            {
+              "name": "Gomel Drama Theatre",
+              "tip_4lang": {
+                "de": "Kurzer Fotostopp reicht.",
+                "hu": "Elég egy rövid fotómegálló.",
+                "ro": "O oprire scurtă pentru poze e suficientă.",
+                "en": "A short photo stop is enough."
+              }
+            },
+            {
+              "name": "Gomel Circus",
+              "tip_4lang": {
+                "de": "Zügig weiterfahren gegen Kälte.",
+                "hu": "Hajtson tovább a hideg ellen.",
+                "ro": "Pedalați mai departe contra frigului.",
+                "en": "Keep riding to stay warm."
+              }
+            },
+            {
+              "name": "Peter and Paul Cathedral",
+              "tip_4lang": {
+                "de": "Hände an den Kerzen wärmen.",
+                "hu": "Melegítse kezét a gyertyáknál.",
+                "ro": "Încălziți-vă mâinile la lumânări.",
+                "en": "Warm your hands by the candles."
+              }
+            },
+            {
+              "name": "Rumyantsev-Paskevich Palace",
+              "tip_4lang": {
+                "de": "Fahrradschloss kann einfrieren.",
+                "hu": "A lakat befagyhat.",
+                "ro": "Antifurtul poate îngheța.",
+                "en": "The bike lock might freeze."
+              }
+            },
+            {
+              "name": "Observation Tower",
+              "tip_4lang": {
+                "de": "Handschuhe beim Aufstieg anlassen.",
+                "hu": "Hagyja fent a kesztyűt a mászáshoz.",
+                "ro": "Păstrați mănușile la urcare.",
+                "en": "Keep your gloves on during the climb."
+              }
+            },
+            {
+              "name": "Lunch by the river",
+              "tip_4lang": {
+                "de": "Nur Plätze im Innenraum.",
+                "hu": "Csak beltéri asztal jöhet szóba.",
+                "ro": "Doar locuri în interior.",
+                "en": "Indoor seating only."
+              }
+            },
+            {
+              "name": "Winter Garden",
+              "tip_4lang": {
+                "de": "Bester Kontrast zur Tour.",
+                "hu": "A legjobb kontraszt a túrához.",
+                "ro": "Cel mai bun contrast pentru tur.",
+                "en": "Best contrast for the tour."
+              }
+            },
+            {
+              "name": "Bike ride in Gomel Park",
+              "tip_4lang": {
+                "de": "Vorsicht bei Schnee auf Wegen.",
+                "hu": "Vigyázzon a havas utakon.",
+                "ro": "Atenție la zăpada de pe alei.",
+                "en": "Watch out for snow on paths."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Reifendruck leicht senken für Haftung.",
+              "Thermo-Unterwäsche tragen.",
+              "Akku von E-Bikes kältegeschützt lagern.",
+              "Frühe Dämmerung beachten."
+            ],
+            "hu": [
+              "Kicsit engedje le a gumit a tapadásért.",
+              "Viseljen termő aláöltözetet.",
+              "Az e-bike akkut védje a hidegtől.",
+              "Figyeljen a korai sötétedésre."
+            ],
+            "ro": [
+              "Scădeți presiunea în roți pentru aderență.",
+              "Purtați lenjerie termică.",
+              "Protejați bateria e-bike-ului de frig.",
+              "Atenție la amurgul timpuriu."
+            ],
+            "en": [
+              "Lower tire pressure slightly for grip.",
+              "Wear thermal base layers.",
+              "Protect e-bike battery from cold.",
+              "Mind the early dusk."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1201,6 +1637,224 @@
           "The cluster-walking method saves time and parking fees.",
           "Check traffic conditions before driving from one cluster to the next."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Im Auto ist Homel bei Regen ein Vergnügen. Parken Sie nah am Palastkomplex und besuchen Sie die Kathedrale und das Schloss trockenen Fußes. Nach der Aussicht vom Turm und dem Wintergarten fahren Sie bequem zum Zentrum für ein gemütliches Mittagessen und beenden den Tag mit einer Tour zum Theater und Zirkus.",
+            "hu": "Autóval Homel esőben is élvezet. Parkoljon a palotakomplexum közelében, és látogassa meg a székesegyházat száraz lábbal. A torony és a télikert után hajtson kényelmesen a központba egy ebédre, majd zárja a napot a színháznál és cirkusznál.",
+            "ro": "Cu mașina, Homel este o plăcere pe ploaie. Parcați lângă palat și vizitați catedrala și castelul fără să vă udați. După turn și grădina de iarnă, mergeți în centru pentru prânz, apoi încheiați ziua cu un tur la teatru și circ.",
+            "en": "Gomel in the rain is a pleasure by car. Park near the palace complex and visit the cathedral and castle dry-footed. After the tower and Winter Garden, drive comfortably to the center for a cozy lunch, then end the day with a tour to the theatre and circus."
+          },
+          "stops": [
+            {
+              "name": "Parking at the Palace Complex",
+              "tip_4lang": {
+                "de": "Oft Pfützen auf dem Parkplatz.",
+                "hu": "Gyakran vannak tócsák a parkolóban.",
+                "ro": "Adesea sunt bălți în parcare.",
+                "en": "Often puddles in the parking lot."
+              }
+            },
+            {
+              "name": "Peter and Paul Cathedral",
+              "tip_4lang": {
+                "de": "Kurzer Weg vom Auto.",
+                "hu": "Rövid séta az autótól.",
+                "ro": "Drum scurt de la mașină.",
+                "en": "Short walk from the car."
+              }
+            },
+            {
+              "name": "Rumyantsev-Paskevich Palace",
+              "tip_4lang": {
+                "de": "Regenschirm für den Parkweg.",
+                "hu": "Kell az esernyő a parki úthoz.",
+                "ro": "Umbrelă necesară pentru alee.",
+                "en": "Umbrella needed for the park path."
+              }
+            },
+            {
+              "name": "Observation Tower & Winter Garden",
+              "tip_4lang": {
+                "de": "Beide Stopps sind nah beieinander.",
+                "hu": "A két megálló közel van egymáshoz.",
+                "ro": "Ambele opriri sunt aproape.",
+                "en": "Both stops are close together."
+              }
+            },
+            {
+              "name": "Parking at the Theatre",
+              "tip_4lang": {
+                "de": "Zentraler Parkplatz, oft voll.",
+                "hu": "Központi parkoló, gyakran tele.",
+                "ro": "Parcare centrală, adesea plină.",
+                "en": "Central parking, often full."
+              }
+            },
+            {
+              "name": "Lunch in the Center",
+              "tip_4lang": {
+                "de": "Viele Cafés mit Parkplätzen.",
+                "hu": "Sok kávézó saját parkolóval.",
+                "ro": "Multe cafenele cu parcare.",
+                "en": "Many cafes with parking."
+              }
+            },
+            {
+              "name": "Gomel Drama Theatre",
+              "tip_4lang": {
+                "de": "Direkt vor dem Eingang halten.",
+                "hu": "Megállhat közvetlen a bejáratnál.",
+                "ro": "Opriți direct în fața intrării.",
+                "en": "Stop right in front of the entrance."
+              }
+            },
+            {
+              "name": "Gomel Circus (drive-by)",
+              "tip_4lang": {
+                "de": "Perfekt bei starkem Regen.",
+                "hu": "Tökéletes szakadó esőben.",
+                "ro": "Perfect pe ploaie torențială.",
+                "en": "Perfect during heavy rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Sichtverhältnisse können schlecht sein.",
+              "Vorsicht vor Aquaplaning.",
+              "Parkplätze nah an Eingängen suchen.",
+              "Scheibenwischer prüfen."
+            ],
+            "hu": [
+              "A látási viszonyok romolhatnak.",
+              "Vigyázzon a felfutó vízre (aquaplaning).",
+              "Keressen parkolót a bejáratoknál.",
+              "Ellenőrizze az ablaktörlőket."
+            ],
+            "ro": [
+              "Vizibilitatea poate fi redusă.",
+              "Atenție la acvaplanare.",
+              "Căutați parcare aproape de intrări.",
+              "Verificați ștergătoarele."
+            ],
+            "en": [
+              "Visibility may be poor.",
+              "Beware of aquaplaning.",
+              "Search for parking near entrances.",
+              "Check your windshield wipers."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie Homels Winterlandschaft aus dem warmen Auto. Nach dem Parken am Palast erkunden Sie die Kathedrale und das prachtvolle Schloss. Der Turm und der Wintergarten bieten tolle Kontraste. Ein warmes Mittagessen im Zentrum stärkt Sie für den Besuch des beleuchteten Theaters und den Zirkus-Drive-by im Abendlicht.",
+            "hu": "Élvezze Homel téli tájait a meleg autóból. A palotánál parkolva fedezze fel a székesegyházat és a pompás kastélyt. A torony és a télikert remek kontrasztot ad. Egy meleg ebéd után látogassa meg a kivilágított színházat és a cirkuszt az esti fényekben.",
+            "ro": "Bucurați-vă de peisajul de iarnă din mașina caldă. După ce parcați la palat, explorați catedrala și castelul somptuos. Turnul și grădina de iarnă oferă contraste mari. Un prânz cald vă pregătește pentru teatrul iluminat și circul în lumina serii.",
+            "en": "Enjoy Gomel's winter scenery from your warm car. After parking at the palace, explore the cathedral and grand castle. The tower and Winter Garden offer great contrasts. A warm lunch in the center readies you for the illuminated theatre and circus drive-by in the evening light."
+          },
+          "stops": [
+            {
+              "name": "Parking at the Palace Complex",
+              "tip_4lang": {
+                "de": "Vorsicht bei Schneeräumung.",
+                "hu": "Vigyázzon a hóeltakarításkor.",
+                "ro": "Atenție la deszăpezire.",
+                "en": "Watch out for snow removal."
+              }
+            },
+            {
+              "name": "Peter and Paul Cathedral",
+              "tip_4lang": {
+                "de": "Nur kurz draußen bleiben.",
+                "hu": "Csak rövid ideig maradjon kint.",
+                "ro": "Stați afară doar puțin timp.",
+                "en": "Stay outside only for a short time."
+              }
+            },
+            {
+              "name": "Rumyantsev-Paskevich Palace",
+              "tip_4lang": {
+                "de": "Innen ist es herrlich warm.",
+                "hu": "Odabent kellemes meleg van.",
+                "ro": "În interior este plăcut și cald.",
+                "en": "It's wonderfully warm inside."
+              }
+            },
+            {
+              "name": "Observation Tower & Winter Garden",
+              "tip_4lang": {
+                "de": "Der Wintergarten ist ein Muss.",
+                "hu": "A télikert kötelező látnivaló.",
+                "ro": "Grădina de iarnă e obligatorie.",
+                "en": "The Winter Garden is a must."
+              }
+            },
+            {
+              "name": "Parking at the Theatre",
+              "tip_4lang": {
+                "de": "Schnee kann Parkplätze verengen.",
+                "hu": "A hó leszűkítheti a parkolót.",
+                "ro": "Zăpada poate îngusta parcarea.",
+                "en": "Snow can narrow parking spaces."
+              }
+            },
+            {
+              "name": "Lunch in the Center",
+              "tip_4lang": {
+                "de": "Auto im Parkhaus lassen.",
+                "hu": "Hagyja az autót parkolóházban.",
+                "ro": "Lăsați mașina într-o parcare acoperită.",
+                "en": "Leave the car in a parking garage."
+              }
+            },
+            {
+              "name": "Gomel Drama Theatre",
+              "tip_4lang": {
+                "de": "Abends schön beleuchtet.",
+                "hu": "Este szépen ki van világítva.",
+                "ro": "Iluminat frumos seara.",
+                "en": "Beautifully lit in the evening."
+              }
+            },
+            {
+              "name": "Gomel Circus (drive-by)",
+              "tip_4lang": {
+                "de": "Warm und bequem besichtigen.",
+                "hu": "Melegben és kényelemben nézheti.",
+                "ro": "Vizitați la căldură și confort.",
+                "en": "View in warmth and comfort."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind Pflicht.",
+              "Eiskratzer griffbereit halten.",
+              "Batterie bei Kälte prüfen.",
+              "Mehr Zeit für Parkplatzsuche einplanen."
+            ],
+            "hu": [
+              "A téli gumi kötelező.",
+              "Legyen kéznél a jégkaparó.",
+              "Ellenőrizze az akkumulátort.",
+              "Hagyjon több időt a parkolásra."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii.",
+              "Păstrați racleta la îndemână.",
+              "Verificați bateria la frig.",
+              "Alocați mai mult timp pentru parcare."
+            ],
+            "en": [
+              "Winter tires are mandatory.",
+              "Keep an ice scraper handy.",
+              "Check battery in the cold.",
+              "Allow more time for parking."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1580,6 +2234,206 @@
           "Most stops have schedules, but an app can be helpful for real-time information.",
           "Keep small change ready for tickets bought directly from the driver."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie Homels Busse, um dem Regen zu entkommen. Vom Lenin-Platz ist das Theater nur ein Sprung entfernt. Der Bus bringt Sie zum Park, wo der Palast und der Wintergarten trockene Erlebnisse bieten. Nach dem Mittagessen und der Kathedrale geht es mit dem Transit zum Zirkus, bevor Sie den Abend trocken beenden.",
+            "hu": "Használja Homel buszait, hogy elmeneküljön az esőtől. A Lenin térről a színház csak egy ugrás. A busz elviszi a parkhoz, ahol a palota és a télikert száraz élményeket kínál. Ebéd és a székesegyház után utazzon tovább a cirkuszhoz, majd zárja szárazon az estét.",
+            "ro": "Folosiți autobuzele din Homel pentru a scăpa de ploaie. Din Piața Lenin, teatrul este la o aruncătur de băț. Autobuzul vă duce la parc, unde palatul și grădina de iarnă oferă experiențe uscate. După prânz, mergeți la circ înainte de final.",
+            "en": "Use Gomel's buses to escape the rain. From Lenin Square, the theatre is just a skip away. The bus takes you to the park, where the palace and Winter Garden offer dry experiences. After lunch and the cathedral, take transit to the circus before ending your day dry."
+          },
+          "stops": [
+            {
+              "name": "Stop 'Lenin Square'",
+              "tip_4lang": {
+                "de": "Überdachte Haltestelle.",
+                "hu": "Fedett buszmegálló.",
+                "ro": "Stație acoperită.",
+                "en": "Covered bus stop."
+              }
+            },
+            {
+              "name": "Gomel Drama Theatre",
+              "tip_4lang": {
+                "de": "Nur 2 Min. Fußweg.",
+                "hu": "Csak 2 perc gyalog.",
+                "ro": "Doar 2 min. de mers pe jos.",
+                "en": "Only 2 min. walk."
+              }
+            },
+            {
+              "name": "Stop 'Park'",
+              "tip_4lang": {
+                "de": "Ideal zum Umsteigen.",
+                "hu": "Ideális átszálláshoz.",
+                "ro": "Ideal pentru transfer.",
+                "en": "Ideal for transfers."
+              }
+            },
+            {
+              "name": "Rumyantsev-Paskevich Palace",
+              "tip_4lang": {
+                "de": "Bus hält fast vor dem Tor.",
+                "hu": "A busz szinte a kapunál áll meg.",
+                "ro": "Autobuzul oprește aproape de poartă.",
+                "en": "Bus stops almost at the gate."
+              }
+            },
+            {
+              "name": "Lunch & Cathedral",
+              "tip_4lang": {
+                "de": "Nahe beieinander, wenig Regen.",
+                "hu": "Közel vannak, kevés eső érheti.",
+                "ro": "Aproape una de alta, puțină ploaie.",
+                "en": "Close together, little rain exposure."
+              }
+            },
+            {
+              "name": "Gomel Park & Winter Garden",
+              "tip_4lang": {
+                "de": "Wintergarten ist regensicher.",
+                "hu": "A télikert esőbiztos.",
+                "ro": "Grădina de iarnă e protejată.",
+                "en": "Winter Garden is rainproof."
+              }
+            },
+            {
+              "name": "Stop 'Circus'",
+              "tip_4lang": {
+                "de": "Häufige Verbindungen.",
+                "hu": "Gyakori járatok.",
+                "ro": "Conexiuni frecvente.",
+                "en": "Frequent connections."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrpläne per App prüfen.",
+              "Kleingeld für Tickets bereithalten.",
+              "Busse können bei Regen voll sein.",
+              "Schirm in der Tasche lassen."
+            ],
+            "hu": [
+              "Ellenőrizze a menetrendet appon.",
+              "Legyen aprópénze jegyre.",
+              "Esőben a buszok zsúfoltak lehetnek.",
+              "Tartsa az ernyőt a táskában."
+            ],
+            "ro": [
+              "Verificați orarul pe aplicație.",
+              "Aveți mărunțiș pentru bilete.",
+              "Autobuzele pot fi aglomerate pe ploaie.",
+              "Țineți umbrela în geantă."
+            ],
+            "en": [
+              "Check schedules via app.",
+              "Have small change for tickets.",
+              "Buses can be crowded during rain.",
+              "Keep umbrella in your bag."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Homels Transit ist im Winter eine warme Rettung. Starten Sie am Lenin-Platz und besuchen Sie das nahe Theater. Der Bus bringt Sie zügig zum Parkkomplex, wo Sie im Palast und Wintergarten verweilen können. Nach einem wärmenden Mittagessen führt Sie der Transit zum Zirkus, während Sie draußen die Schneelandschaft genießen.",
+            "hu": "Homel tömegközlekedése télen meleg mentőöv. Kezdjen a Lenin téren, és látogassa meg a közeli színházat. A busz gyorsan elviszi a parkhoz, ahol a palotában és télikertben időzhet. Egy melegítő ebéd után a busz a cirkuszhoz viszi, miközben élvezi a havas tájat.",
+            "ro": "Transportul din Homel este un colac de salvare cald iarna. Începeți în Piața Lenin și vizitați teatrul apropiat. Autobuzul vă duce rapid la complexul parcului, unde puteți sta la palat și în grădina de iarnă. După prânz, mergeți la circ.",
+            "en": "Gomel's transit is a warm lifesaver in winter. Start at Lenin Square and visit the nearby theatre. The bus quickly takes you to the park complex, where you can linger in the palace and Winter Garden. After a warming lunch, transit leads you to the circus while you enjoy the snowy scenery."
+          },
+          "stops": [
+            {
+              "name": "Stop 'Lenin Square'",
+              "tip_4lang": {
+                "de": "Zentraler Knotenpunkt.",
+                "hu": "Központi csomópont.",
+                "ro": "Nod central de transport.",
+                "en": "Central transport hub."
+              }
+            },
+            {
+              "name": "Gomel Drama Theatre",
+              "tip_4lang": {
+                "de": "Windgeschützter Eingang.",
+                "hu": "Szélvédett bejárat.",
+                "ro": "Intrare protejată de vânt.",
+                "en": "Wind-protected entrance."
+              }
+            },
+            {
+              "name": "Stop 'Park'",
+              "tip_4lang": {
+                "de": "Kurze Wartezeiten.",
+                "hu": "Rövid várakozási idő.",
+                "ro": "Timp scurt de așteptare.",
+                "en": "Short waiting times."
+              }
+            },
+            {
+              "name": "Rumyantsev-Paskevich Palace",
+              "tip_4lang": {
+                "de": "Heizung im Bus genießen.",
+                "hu": "Élvezze a fűtést a buszon.",
+                "ro": "Bucurați-vă de căldura din autobuz.",
+                "en": "Enjoy the heating on the bus."
+              }
+            },
+            {
+              "name": "Lunch & Cathedral",
+              "tip_4lang": {
+                "de": "Wärmende Suppe einplanen.",
+                "hu": "Tervezzen be egy meleg levest.",
+                "ro": "Planificați o supă caldă.",
+                "en": "Plan for a warming soup."
+              }
+            },
+            {
+              "name": "Gomel Park & Winter Garden",
+              "tip_4lang": {
+                "de": "Wintergarten ist ein Highlight.",
+                "hu": "A télikert igazi fénypont.",
+                "ro": "Grădina de iarnă e un punct forte.",
+                "en": "Winter Garden is a highlight."
+              }
+            },
+            {
+              "name": "Stop 'Circus'",
+              "tip_4lang": {
+                "de": "Beleuchtete Haltestelle.",
+                "hu": "Kivilágított megálló.",
+                "ro": "Stație iluminată.",
+                "en": "Illuminated stop."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse sind gut beheizt.",
+              "Dichte Schuhe gegen Schneematsch.",
+              "Fahrplan-Aushänge können vereisen.",
+              "Abends ist der Takt seltener."
+            ],
+            "hu": [
+              "A buszok jól fűtöttek.",
+              "Vízhatlan cipő kell a latyak ellen.",
+              "A menetrendek lefagyhatnak.",
+              "Este ritkábban járnak a buszok."
+            ],
+            "ro": [
+              "Autobuzele sunt bine încălzite.",
+              "Încălțăminte etanșă contra mochetei.",
+              "Orarele pot fi înghețate.",
+              "Seara frecvența e mai redusă."
+            ],
+            "en": [
+              "Buses are well-heated.",
+              "Waterproof shoes for slush.",
+              "Schedules on stops might be frozen.",
+              "Buses are less frequent in the evening."
+            ]
+          }
+        }
       }
     }
   }

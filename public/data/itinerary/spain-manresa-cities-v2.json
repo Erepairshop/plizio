@@ -346,6 +346,206 @@
           "Bring a water bottle, especially during the summer months.",
           "Most shops close for a siesta at midday, so plan accordingly."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Regenmorgen beginnt am Rathausplatz, doch die Arkaden bieten Schutz. Mittags bietet die massive Basilika ein trockenes Refugium für Erkundungen. Den Nachmittag verbringen wir im Regionalmuseum, um den Schauern zu entkommen. Der Tag endet gemütlich im Casino, während der Regen auf die historischen Dächer trommelt.",
+            "hu": "Az esős reggel a városházánál indul, az árkádok alatt. Délben a monumentális bazilika nyújt száraz menedéket a város felett. Délután a Regionális Múzeum termeiben vészeljük át a záporokat. Az este a kaszinó elegáns belső terében zárul, miközben kint az eső kopog a macskaköveken.",
+            "ro": "Dimineața ploioasă începe la primărie, dar arcadele oferă adăpost. La prânz, bazilica masivă este un refugiu uscat pentru explorare. După-amiaza este petrecută în Muzeul Regional pentru a evita aversele. Ziua se încheie confortabil la Casino, în timp ce ploaia bate în acoperișurile istorice.",
+            "en": "The rainy morning starts at the Town Hall, with the arches providing shelter. By noon, the massive Basilica offers a dry haven for exploration. Spend the afternoon inside the Regional Museum to escape the showers. The day concludes with a cozy evening at the Casino, listening to the rain on the historic rooftops."
+          },
+          "stops": [
+            {
+              "name": "Manresa Town Hall",
+              "tip_5lang": {
+                "de": "Schutz unter den Rathausarkaden suchen.",
+                "hu": "Használja a városháza alatti árkádokat esőben.",
+                "ro": "Căutați adăpost sub arcadele primăriei.",
+                "en": "Seek shelter under the town hall arches."
+              }
+            },
+            {
+              "name": "Carrer del Balç",
+              "tip_5lang": {
+                "de": "Diese mittelalterliche Straße ist fast vollständig überdacht.",
+                "hu": "Ez a középkori utca szinte teljesen fedett.",
+                "ro": "Această stradă medievală este aproape în întregime acoperită.",
+                "en": "This medieval street is almost entirely covered."
+              }
+            },
+            {
+              "name": "Basilica of Santa Maria de la Seu",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um einen starken Regenguss abzuwarten.",
+                "hu": "Tökéletes hely egy nagyobb zápor kivárására.",
+                "ro": "Locul perfect pentru a aștepta trecerea unei averse.",
+                "en": "Perfect place to wait out a heavy downpour."
+              }
+            },
+            {
+              "name": "Pont Vell (Old Bridge)",
+              "tip_5lang": {
+                "de": "Vorsicht, das Pflaster kann bei Nässe rutschig sein.",
+                "hu": "Vigyázat, a kövezet vizesen csúszós lehet.",
+                "ro": "Atenție, pavajul poate fi alunecos când este ud.",
+                "en": "Caution, the pavement can be slippery when wet."
+              }
+            },
+            {
+              "name": "Manresa Regional Museum",
+              "tip_5lang": {
+                "de": "Ideales Nachmittagsprogramm bei schlechtem Wetter.",
+                "hu": "Ideális délutáni program rossz idő esetén.",
+                "ro": "Program ideal de după-amiază în caz de vreme rea.",
+                "en": "Ideal afternoon activity during bad weather."
+              }
+            },
+            {
+              "name": "Cave of Saint Ignatius",
+              "tip_5lang": {
+                "de": "Die spirituelle Grotte ist absolut regensicher.",
+                "hu": "A spirituális barlang teljesen esőbiztos.",
+                "ro": "Grota spirituală este complet ferită de ploaie.",
+                "en": "The spiritual grotto is completely rain-proof."
+              }
+            },
+            {
+              "name": "Casino of Manresa",
+              "tip_5lang": {
+                "de": "Genießen Sie einen Kaffee im trockenen Jugendstil-Ambiente.",
+                "hu": "Élvezzen egy kávét a száraz szecessziós környezetben.",
+                "ro": "Savurați o cafea în ambianța uscată de stil modernist.",
+                "en": "Enjoy a coffee in the dry Art Nouveau setting."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für die mittelalterlichen Gassen.",
+              "Nutzen Sie die Carrer del Balç als natürliche Überdachung.",
+              "Die Basilika und das Museum sind ideale Zufluchtsorte bei Starkregen.",
+              "Ein Taschenregenschirm ist wegen plötzlicher Windböen am Fluss ratsam."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a középkori sikátorokhoz.",
+              "Használja a Carrer del Balç utcát természetes tetőként.",
+              "A bazilika és a múzeum ideális menedék heves esőzéskor.",
+              "Az összecsukható esernyő ajánlott a folyóparti széllökések miatt."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru străzile medievale.",
+              "Folosiți Carrer del Balç ca pe un acoperiș natural.",
+              "Bazilica și muzeul sunt refugii ideale în caz de ploaie torențială.",
+              "O umbrelă compactă este recomandată din cauza vântului de lângă râu."
+            ],
+            "en": [
+              "Wear waterproof shoes for the medieval alleys.",
+              "Use Carrer del Balç as a natural covered walkway.",
+              "The Basilica and Museum are ideal sanctuaries during heavy rain.",
+              "A compact umbrella is advised due to sudden wind gusts near the river."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der frostige Morgen beginnt am Rathaus mit klarer Luft. Mittags wärmt die Sonne auf der alten Brücke, während die Basilika kühlen, aber windgeschützten Schutz bietet. Am Nachmittag laden die beheizten Säle des Museums ein. Der Tag endet bei festlicher Beleuchtung im Casino, bevor die Winterdunkelheit hereinbricht.",
+            "hu": "A fagyos reggel a városházánál indul a friss levegőn. Délben a napfény melengeti az óhidat, a bazilika pedig szélvédett nyugalmat áraszt. Délután a múzeum fűtött kiállítóterei hívogatnak. A nap a kaszinó ünnepi fényeiben zárul, mielőtt a téli sötétség leszállna a városra.",
+            "ro": "Dimineața geroasă începe la primărie în aerul curat. La prânz, soarele încălzește podul vechi, în timp ce bazilica oferă liniște ferită de vânt. După-amiaza, sălile încălzite ale muzeului vă invită înăuntru. Ziua se încheie cu luminile festive ale Cazinoului înainte de lăsarea întunericului.",
+            "en": "The frosty morning begins at the Town Hall in the crisp air. By noon, the sun warms the Old Bridge, while the Basilica offers wind-sheltered serenity. In the afternoon, the heated museum galleries invite you inside. The day ends with the festive lights of the Casino before winter darkness sets in."
+          },
+          "stops": [
+            {
+              "name": "Manresa Town Hall",
+              "tip_5lang": {
+                "de": "Vorsicht vor morgendlichem Glatteis auf dem Platz.",
+                "hu": "Vigyázzon a reggeli jegesedéssel a téren.",
+                "ro": "Atenție la poleiul de dimineață din piață.",
+                "en": "Watch out for morning ice on the square."
+              }
+            },
+            {
+              "name": "Carrer del Balç",
+              "tip_5lang": {
+                "de": "In den engen Gassen ist es deutlich windgeschützter.",
+                "hu": "A szűk sikátorokban jóval védettebb az idő a széltől.",
+                "ro": "În străzile înguste este mult mai mult adăpost de vânt.",
+                "en": "The narrow alleys are much more sheltered from the wind."
+              }
+            },
+            {
+              "name": "Basilica of Santa Maria de la Seu",
+              "tip_5lang": {
+                "de": "In der Kirche ist es kalt, behalten Sie den Mantel an.",
+                "hu": "A templomban hideg van, tartsa magán a kabátot.",
+                "ro": "Este frig în biserică, păstrați haina pe dvs.",
+                "en": "It is cold inside the church, keep your coat on."
+              }
+            },
+            {
+              "name": "Pont Vell (Old Bridge)",
+              "tip_5lang": {
+                "de": "Ein schöner Ort für Fotos in der tiefstehenden Wintersonne.",
+                "hu": "Szép hely fotózáshoz az alacsony téli napsütésben.",
+                "ro": "Un loc frumos pentru fotografii în soarele slab de iarnă.",
+                "en": "A beautiful spot for photos in the low winter sun."
+              }
+            },
+            {
+              "name": "Manresa Regional Museum",
+              "tip_5lang": {
+                "de": "Die Heizung hier ist im Winter ein Segen.",
+                "hu": "A fűtés itt igazi áldás a téli hidegben.",
+                "ro": "Încălzirea de aici este o binecuvântare iarna.",
+                "en": "The heating here is a blessing in winter."
+              }
+            },
+            {
+              "name": "Cave of Saint Ignatius",
+              "tip_5lang": {
+                "de": "Das Kerzenlicht sorgt für eine besonders warme Atmosphäre.",
+                "hu": "A gyertyafény különlegesen meleg hangulatot áraszt.",
+                "ro": "Lumina lumânărilor creează o atmosferă deosebit de caldă.",
+                "en": "Candlelight creates a particularly warm atmosphere."
+              }
+            },
+            {
+              "name": "Casino of Manresa",
+              "tip_5lang": {
+                "de": "Der perfekte Ort zum Aufwärmen nach dem Stadtrundgang.",
+                "hu": "Tökéletes hely a felmelegedéshez a városnézés után.",
+                "ro": "Locul perfect pentru a vă încălzi după turul orașului.",
+                "en": "The perfect place to warm up after the city tour."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich im Zwiebelprinzip für kalte Außenbereiche.",
+              "Sonnenuntergang ist bereits gegen 17:30 Uhr.",
+              "Planen Sie Museumsbesuche für die kälteste Tageszeit am Nachmittag.",
+              "Genießen Sie heiße Schokolade in den lokalen Cafés am Passeig."
+            ],
+            "hu": [
+              "Öltözzön rétegesen a hideg külső helyszínekhez.",
+              "A napnyugta már 17:30 körül bekövetkezik.",
+              "A múzeumlátogatást a délutáni leghidegebb órákra időzítse.",
+              "Kóstoljon forró csokoládét a Passeig helyi kávézóiban."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi pentru zonele exterioare reci.",
+              "Apusul soarelui are loc deja în jurul orei 17:30.",
+              "Planificați vizitele la muzeu pentru cea mai rece perioadă a zilei.",
+              "Savurați o ciocolată caldă în cafenelele locale de pe Passeig."
+            ],
+            "en": [
+              "Dress in layers for the cold outdoor sections.",
+              "Sunset occurs as early as 17:30 in winter.",
+              "Schedule museum visits for the coldest afternoon hours.",
+              "Enjoy hot chocolate in the local cafes along the Passeig."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -686,6 +886,206 @@
           "Check the brakes and tires before you set off.",
           "Some streets in the old town may be too narrow for cycling."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Radtag beginnt vorsichtig auf nassen Straßen. Mittags besuchen wir die Basilika, während das Rad sicher im Regen steht. Nachmittags geht es zum Parc de l'Agulla, wo der See im Regen eine mystische Ruhe ausstrahlt. Den Abschluss bildet das Casino, ein willkommener Ort, um die nasse Kleidung zu trocknen.",
+            "hu": "A kerékpáros nap óvatosan indul a vizes utakon. Délben a bazilikát látogatjuk meg, amíg a gép kint pihen az esőben. Délután az Agulla-park felé tekerünk, ahol a tó misztikus nyugalmat áraszt. A napot a Kaszinóban zárjuk, ahol végre megszárítkozhatunk egy tea mellett.",
+            "ro": "Ziua pe bicicletă începe cu prudență pe drumurile umede. La prânz vizităm bazilica, în timp ce bicicleta stă în ploaie. După-amiaza pedalăm spre Parc de l'Agulla, unde lacul emană o liniște mistică. Încheiem la Casino, un loc binevenit pentru a ne usca hainele.",
+            "en": "The cycling day starts cautiously on wet roads. At noon we visit the Basilica while the bike stays in the rain. In the afternoon, we pedal to Parc de l'Agulla, where the lake exudes a mystical calm. We conclude at the Casino, a welcome spot to dry off over a tea."
+          },
+          "stops": [
+            {
+              "name": "Carrer del Balç",
+              "tip_5lang": {
+                "de": "Fahrräder müssen draußen bleiben, enge Gassen sind Fußgängerzone.",
+                "hu": "A kerékpárokat kint kell hagyni, a szűk utcák sétálóövezetek.",
+                "ro": "Bicicletele trebuie lăsate afară, străzile înguste sunt pietonale.",
+                "en": "Bikes must stay outside; narrow alleys are pedestrian zones."
+              }
+            },
+            {
+              "name": "Basilica of Santa Maria de la Seu",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter dem Vordach nahe dem Eingang ab.",
+                "hu": "Helyezze a biciklit az előtető alá a bejárat közelében.",
+                "ro": "Lăsați bicicleta sub copertina de lângă intrare.",
+                "en": "Park your bike under the overhang near the entrance."
+              }
+            },
+            {
+              "name": "Pont Vell (Old Bridge)",
+              "tip_5lang": {
+                "de": "Fahren Sie langsam, die alten Steine sind sehr rutschig.",
+                "hu": "Hajtson lassan, az ősi kövek nagyon csúsznak.",
+                "ro": "Circulați încet, pietrele vechi sunt foarte alunecoase.",
+                "en": "Ride slowly; the ancient stones are very slippery."
+              }
+            },
+            {
+              "name": "Cave of Saint Ignatius",
+              "tip_5lang": {
+                "de": "Guter Stopp, um die Regenkleidung kurz zu lüften.",
+                "hu": "Jó megálló az esőruházat rövid szellőztetésére.",
+                "ro": "O oprire bună pentru a aerisi puțin echipamentul de ploaie.",
+                "en": "A good stop to briefly air out your rain gear."
+              }
+            },
+            {
+              "name": "Parc de l'Agulla",
+              "tip_5lang": {
+                "de": "Vorsicht vor Schlamm auf den unbefestigten Wegen.",
+                "hu": "Vigyázzon a sárral a nem aszfaltozott utakon.",
+                "ro": "Atenție la noroi pe drumurile neasfaltate.",
+                "en": "Watch out for mud on the unpaved paths."
+              }
+            },
+            {
+              "name": "Casino of Manresa",
+              "tip_5lang": {
+                "de": "Sichern Sie das Rad gut an den offiziellen Ständern.",
+                "hu": "Zárja le biztonságosan a gépet a hivatalos tárolóknál.",
+                "ro": "Asigurați bine bicicleta la rastelele oficiale.",
+                "en": "Secure your bike properly at the official racks."
+              }
+            },
+            {
+              "name": "Manresa Town Hall",
+              "tip_5lang": {
+                "de": "Kurzer Stopp unter den Arkaden zur Routenplanung.",
+                "hu": "Rövid megálló az árkádok alatt útvonaltervezéshez.",
+                "ro": "Oprire scurtă sub arcade pentru planificarea rutei.",
+                "en": "Short stop under the arches to check your route."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche am Fahrrad sind bei diesem Wetter unverzichtbar.",
+              "Vermeiden Sie starkes Bremsen auf dem Kopfsteinpflaster.",
+              "Wasserdichte Packtaschen schützen Ihre Kamera und Dokumente.",
+              "Die Route zum Park kann bei Regen anstrengender sein."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen ilyen időben.",
+              "Kerülje az erős fékezést a macskaköveken.",
+              "A vízálló táskák megvédik az értékeit és a térképet.",
+              "A parkba vezető út esőben fárasztóbb lehet."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt indispensabile pe această vreme.",
+              "Evitați frânările bruște pe pavajul de piatră.",
+              "Gentile impermeabile vă protejează camera și documentele.",
+              "Traseul către parc poate fi mai obositor pe ploaie."
+            ],
+            "en": [
+              "Mudguards are essential for cycling in this weather.",
+              "Avoid hard braking on the cobblestone sections.",
+              "Waterproof panniers will protect your gear and documents.",
+              "The route to the park can be more taxing in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintertour führt uns durch die frische Morgenluft zum Balç. Mittags genießen wir den Blick auf Montserrat von der Basilika aus. Nachmittags radeln wir zum Agulla-See, wo die klare Sicht die Berge zum Greifen nah erscheinen lässt. Der Tag endet am hell erleuchteten Rathausplatz.",
+            "hu": "A téli túra a friss reggeli levegőben indul a Balç felé. Délben a bazilikától csodáljuk a Montserrat panorámáját. Délután az Agulla-tóhoz tekerünk, ahol a tiszta időben a hegyek közelinek tűnnek. A nap a díszkivilágított városházánál ér véget.",
+            "ro": "Turul de iarnă ne poartă prin aerul proaspăt de dimineață spre Balç. La prânz admirăm panorama Montserrat de la bazilică. După-amiaza pedalăm spre lacul Agulla, unde vizibilitatea clară apropie munții. Ziua se încheie la primăria luminată festiv.",
+            "en": "The winter tour takes us through the fresh morning air towards Balç. At noon, we admire the Montserrat panorama from the Basilica. In the afternoon, we cycle to Agulla Lake, where clear skies make the mountains seem close. The day ends at the festively lit Town Hall."
+          },
+          "stops": [
+            {
+              "name": "Carrer del Balç",
+              "tip_5lang": {
+                "de": "Ein guter Ort, um den kalten Wind kurz zu vergessen.",
+                "hu": "Jó hely, hogy kicsit elfelejtse a hideg szelet.",
+                "ro": "Un loc bun pentru a uita puțin de vântul rece.",
+                "en": "A good place to briefly escape the cold wind."
+              }
+            },
+            {
+              "name": "Basilica of Santa Maria de la Seu",
+              "tip_5lang": {
+                "de": "Klare Wintersicht auf das Montserrat-Massiv.",
+                "hu": "Tiszta téli kilátás a Montserrat-hegységre.",
+                "ro": "Vizibilitate clară de iarnă spre masivul Montserrat.",
+                "en": "Clear winter views of the Montserrat massif."
+              }
+            },
+            {
+              "name": "Pont Vell (Old Bridge)",
+              "tip_5lang": {
+                "de": "Vorsicht vor Reif auf den Metallteilen des Rads.",
+                "hu": "Vigyázzon a dérrel a kerékpár fém részein.",
+                "ro": "Atenție la chiciura de pe părțile metalice ale bicicletei.",
+                "en": "Watch out for frost on the metal parts of the bike."
+              }
+            },
+            {
+              "name": "Cave of Saint Ignatius",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Grotte für einen Moment der Stille.",
+                "hu": "Látogasson el a barlangba egy csendes pillanatra.",
+                "ro": "Vizitați grota pentru un moment de liniște.",
+                "en": "Visit the grotto for a quiet, sheltered moment."
+              }
+            },
+            {
+              "name": "Parc de l'Agulla",
+              "tip_5lang": {
+                "de": "Der Wind am See kann im Winter sehr schneidend sein.",
+                "hu": "A szél a tónál télen nagyon metsző lehet.",
+                "ro": "Vântul de la lac poate fi foarte tăios iarna.",
+                "en": "The wind by the lake can be very biting in winter."
+              }
+            },
+            {
+              "name": "Casino of Manresa",
+              "tip_5lang": {
+                "de": "Wärmen Sie Ihre Hände an einer Tasse Tee auf.",
+                "hu": "Melegítse fel a kezeit egy csésze tea mellett.",
+                "ro": "Încălziți-vă mâinile cu o ceașcă de ceai.",
+                "en": "Warm up your hands with a cup of tea."
+              }
+            },
+            {
+              "name": "Manresa Town Hall",
+              "tip_5lang": {
+                "de": "Festliche Beleuchtung sorgt für Abendstimmung.",
+                "hu": "Az ünnepi kivilágítás gondoskodik az esti hangulatról.",
+                "ro": "Iluminatul festiv asigură atmosfera de seară.",
+                "en": "Festive lighting provides a great evening atmosphere."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Handschuhe sind für die Abfahrten unerlässlich.",
+              "Stellen Sie sicher, dass Ihre Fahrradbeleuchtung funktioniert.",
+              "Trinken Sie ausreichend, auch wenn es kalt ist.",
+              "Die Wege im Park können bei Frost hart gefroren sein."
+            ],
+            "hu": [
+              "A meleg kesztyű elengedhetetlen a lejtőkön.",
+              "Győződjön meg róla, hogy a világítás megfelelően működik.",
+              "Igyon elegendő folyadékot a hideg ellenére is.",
+              "A park útjai fagyban keményre fagyhatnak."
+            ],
+            "ro": [
+              "Mănușile groase sunt esențiale pentru coborâri.",
+              "Asigurați-vă că luminile bicicletei funcționează corect.",
+              "Beți suficiente lichide, chiar dacă este frig.",
+              "Drumurile din parc pot fi înghețate bocnă."
+            ],
+            "en": [
+              "Warm gloves are essential for the downhill sections.",
+              "Ensure your bike lights are working properly for early darkness.",
+              "Stay hydrated even if you don't feel thirsty in the cold.",
+              "The park paths can be frozen hard in winter."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1026,6 +1426,206 @@
           "Allow time for traffic, especially during peak hours.",
           "Many streets in the old town are closed to car traffic."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Fahrt beginnt am überdachten Parkplatz der Altstadt. Mittags erreichen wir die Basilika fast ohne nass zu werden. Die Cave bietet am Nachmittag einen spirituellen Rückzugsort, bevor wir das Museum besuchen. Den Abend verbringen wir am Agulla-See, wo die Regentropfen auf das Autodach trommeln.",
+            "hu": "Az út az óváros fedett parkolójában indul. Délben szinte száraz lábbal érjük el a bazilikát. A barlang délután spirituális menedéket nyújt a múzeumlátogatás előtt. Az estét az Agulla-tónál zárjuk, hallgatva az eső kopogását az autó tetőjén.",
+            "ro": "Călătoria începe în parcarea acoperită din centrul vechi. La prânz ajungem la bazilică aproape fără a ne uda. Grota oferă un refugiu spiritual după-amiaza înainte de muzeu. Seara o petrecem la lacul Agulla, ascultând ploaia pe plafonul mașinii.",
+            "en": "The journey starts at the covered old town parking. By noon, we reach the Basilica almost without getting wet. The Cave offers a spiritual retreat in the afternoon before the museum visit. We spend the evening at Agulla Lake, listening to the rain on the car roof."
+          },
+          "stops": [
+            {
+              "name": "Old Town Parking",
+              "tip_5lang": {
+                "de": "Zentraler, trockener Startpunkt für den Stadtkern.",
+                "hu": "Központi, száraz kiindulópont a városközponthoz.",
+                "ro": "Punct de plecare central și uscat pentru centrul orașului.",
+                "en": "Central, dry starting point for the city center."
+              }
+            },
+            {
+              "name": "Carrer del Balç & Town Hall",
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Parkplatz reicht aus.",
+                "hu": "Egy rövid futás a parkolótól és már fedett helyen van.",
+                "ro": "Un scurt sprint de la parcare este suficient.",
+                "en": "A short sprint from the parking is all you need."
+              }
+            },
+            {
+              "name": "Basilica of Santa Maria de la Seu",
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Haupteingang.",
+                "hu": "Parkoljon a lehető legközelebb a főbejárathoz.",
+                "ro": "Parcați cât mai aproape de intrarea principală.",
+                "en": "Park as close to the main entrance as possible."
+              }
+            },
+            {
+              "name": "Pont Vell (Old Bridge)",
+              "tip_5lang": {
+                "de": "Schlechte Sicht bei starkem Regen, vorsichtig fahren.",
+                "hu": "Rossz látási viszonyok heves esőben, vezessen óvatosan.",
+                "ro": "Vizibilitate redusă pe ploaie torențială, conduceți cu atenție.",
+                "en": "Poor visibility during heavy rain; drive carefully."
+              }
+            },
+            {
+              "name": "Cave of Saint Ignatius",
+              "tip_5lang": {
+                "de": "Der Parkplatz hier ist oft weniger frequentiert.",
+                "hu": "Az itteni parkoló gyakran kevésbé zsúfolt.",
+                "ro": "Parcarea de aici este adesea mai puțin aglomerată.",
+                "en": "The parking lot here is often less crowded."
+              }
+            },
+            {
+              "name": "Manresa Regional Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Museumsparkhaus bei Dauerregen.",
+                "hu": "Használja a múzeum parkolóházát tartós esőben.",
+                "ro": "Folosiți parcarea muzeului în caz de ploaie persistentă.",
+                "en": "Use the museum parking garage during steady rain."
+              }
+            },
+            {
+              "name": "Parc de l'Agulla",
+              "tip_5lang": {
+                "de": "Vom Auto aus hat man einen tollen Blick auf den See.",
+                "hu": "Az autóból is remek kilátás nyílik a tóra.",
+                "ro": "Din mașină aveți o vedere excelentă spre lac.",
+                "en": "You can get a great view of the lake from the car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Bevorzugen Sie Parkhäuser gegenüber Straßenparkplätzen.",
+              "Prüfen Sie Ihre Scheibenwischer vor der Abfahrt.",
+              "Die Straßen in der Altstadt können bei Nässe glatt sein.",
+              "Halten Sie einen Regenschirm im Auto griffbereit."
+            ],
+            "hu": [
+              "Válassza a parkolóházakat az utcai parkolás helyett.",
+              "Indulás előtt ellenőrizze az ablaktörlőket.",
+              "Az óvárosi utcák vizesen csúszósak lehetnek.",
+              "Tartson egy esernyőt az autóban, kézközelben."
+            ],
+            "ro": [
+              "Preferați parcările etajate în locul celor stradale.",
+              "Verificați ștergătoarele înainte de plecare.",
+              "Străzile din centrul vechi pot fi alunecoase pe ud.",
+              "Țineți o umbrelă la îndemână în mașină."
+            ],
+            "en": [
+              "Prefer parking garages over street parking.",
+              "Check your windshield wipers before setting off.",
+              "Old town streets can be slick when wet.",
+              "Keep an umbrella handy in the car."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintertour startet am frostigen Morgen bequem im beheizten Auto. Mittags genießen wir die Sonne am Pont Vell. Nachmittags besuchen wir das warme Regionalmuseum, bevor es zur Grotte geht. Der Tag endet am Parc de l'Agulla, wo man den Sonnenuntergang über Montserrat warm vom Wagen aus beobachten kann.",
+            "hu": "A téli túra a fagyos reggelen kényelmesen, a fűtött autóban indul. Délben az óhídnál élvezzük a napsütést. Délután a meleg Regionális Múzeumot látogatjuk meg, majd a barlang következik. A nap az Agulla-parkban zárul, ahol az autóból nézhetjük a Montserrat feletti naplementét.",
+            "ro": "Turul de iarnă începe confortabil în mașina încălzită. La prânz ne bucurăm de soare la Pont Vell. După-amiaza vizităm Muzeul Regional călduros, apoi grota. Ziua se încheie la Parc de l'Agulla, unde puteți admira apusul peste Montserrat din căldura mașinii.",
+            "en": "The winter tour starts comfortably in a heated car on a frosty morning. At noon, we enjoy the sun at Pont Vell. In the afternoon, we visit the warm Regional Museum followed by the Cave. The day ends at Parc de l'Agulla, watching the sunset over Montserrat from the warmth of the car."
+          },
+          "stops": [
+            {
+              "name": "Old Town Parking",
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Zuparken von Gehwegen bei Schnee.",
+                "hu": "Hó esetén kerülje el a járdák eltorlaszolását.",
+                "ro": "Evitați blocarea trotuarelor în caz de zăpadă.",
+                "en": "Avoid blocking sidewalks if there's any snow."
+              }
+            },
+            {
+              "name": "Carrer del Balç & Town Hall",
+              "tip_5lang": {
+                "de": "Ein kurzer, knackiger Spaziergang durch die Winterluft.",
+                "hu": "Rövid, frissítő séta a téli levegőn.",
+                "ro": "O scurtă plimbare revigorantă prin aerul de iarnă.",
+                "en": "A short, crisp walk through the winter air."
+              }
+            },
+            {
+              "name": "Basilica of Santa Maria de la Seu",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Sitzheizung nach dem kalten Kirchenbesuch.",
+                "hu": "Használja az ülésfűtést a hideg templomlátogatás után.",
+                "ro": "Folosiți încălzirea în scaune după vizita la biserică.",
+                "en": "Use the seat heaters after the cold church visit."
+              }
+            },
+            {
+              "name": "Pont Vell (Old Bridge)",
+              "tip_5lang": {
+                "de": "Vorsicht vor überfrierender Nässe auf der Brücke.",
+                "hu": "Vigyázzon a hídon lévő lefagyásokkal.",
+                "ro": "Atenție la porțiunile înghețate de pe pod.",
+                "en": "Watch out for black ice on the bridge."
+              }
+            },
+            {
+              "name": "Cave of Saint Ignatius",
+              "tip_5lang": {
+                "de": "Der Weg zur Grotte kann im Winter etwas zugig sein.",
+                "hu": "A barlanghoz vezető út télen kicsit huzatos lehet.",
+                "ro": "Drumul spre grotă poate fi puțin tras de curent iarna.",
+                "en": "The path to the cave can be a bit breezy in winter."
+              }
+            },
+            {
+              "name": "Manresa Regional Museum",
+              "tip_5lang": {
+                "de": "Perfekte Temperatur im Inneren für einen langen Aufenthalt.",
+                "hu": "Tökéletes benti hőmérséklet egy hosszabb időtöltéshez.",
+                "ro": "Temperatură interioară perfectă pentru o ședere lungă.",
+                "en": "Perfect indoor temperature for a long stay."
+              }
+            },
+            {
+              "name": "Parc de l'Agulla",
+              "tip_5lang": {
+                "de": "Bleiben Sie im Auto, um den Sonnenuntergang zu genießen.",
+                "hu": "Maradjon az autóban a naplemente élvezetéhez.",
+                "ro": "Rămâneți în mașină pentru a savura apusul.",
+                "en": "Stay in the car to enjoy the sunset warmth."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Frostschutz in Ihrer Scheibenwaschanlage.",
+              "Lassen Sie den Motor nicht unnötig im Stand laufen.",
+              "Die Parkplatzsuche ist im Winter meist entspannter.",
+              "Beachten Sie die kürzeren Tageslichtzeiten beim Fahren."
+            ],
+            "hu": [
+              "Ellenőrizze a fagyállót a szélvédőmosóban.",
+              "Ne járassa feleslegesen a motort álló helyzetben.",
+              "A parkolókeresés télen általában nyugodtabb.",
+              "Vezetés közben ügyeljen a rövidebb nappalokra."
+            ],
+            "ro": [
+              "Verificați antigelul din lichidul de parbriz.",
+              "Nu lăsați motorul pornit inutil pe loc.",
+              "Căutarea locului de parcare este mai relaxată iarna.",
+              "Țineți cont de durata scurtă a zilei când conduceți."
+            ],
+            "en": [
+              "Check the antifreeze in your windshield washer fluid.",
+              "Don't leave the engine idling unnecessarily.",
+              "Parking is usually easier to find in winter.",
+              "Be mindful of the shorter daylight hours while driving."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1342,6 +1942,188 @@
           "Check the bus schedule in advance, especially on weekends.",
           "Be aware that buses may run less frequently in the evening."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt mit dem Bus zum Stadtzentrum, um trocken zu bleiben. Mittags besuchen wir die Basilika, während wir auf den nächsten Bus warten. Den Nachmittag verbringen wir im Casino, bevor uns der Transit zum Agulla-Park bringt. Der See wirkt im Regen friedlich, und der Bus bringt uns sicher zurück.",
+            "hu": "A nap busszal indul a városközpontba, hogy szárazon maradjunk. Délben a bazilikát látogatjuk meg, majd várjuk a következő járatot. Délután a Kaszinóban pihenünk, mielőtt a tömegközlekedés az Agulla-parkhoz repít. A tó békés az esőben, a busz pedig biztonságban hazavisz.",
+            "ro": "Ziua începe cu autobuzul spre centru pentru a rămâne uscați. La prânz vizităm bazilica în timp ce așteptăm următorul autobuz. După-amiaza o petrecem la Casino înainte ca transportul să ne ducă la Parc de l'Agulla. Lacul este pașnic pe ploaie, iar autobuzul ne aduce înapoi.",
+            "en": "The day starts with a bus to the city center to stay dry. At noon we visit the Basilica while waiting for the next connection. We spend the afternoon at the Casino before transit takes us to Parc de l'Agulla. The lake is peaceful in the rain, and the bus brings us back safely."
+          },
+          "stops": [
+            {
+              "name": "Arrival at City Center",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Wartehäuschen an den Bushaltestellen.",
+                "hu": "Használja a buszmegállók váróhelyiségeit.",
+                "ro": "Folosiți adăposturile din stațiile de autobuz.",
+                "en": "Make use of the shelters at the bus stops."
+              }
+            },
+            {
+              "name": "Town Hall & Carrer del Balç",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Busknotenpunkt unter den Arkaden.",
+                "hu": "Rövid séta a buszcsomóponttól az árkádok alatt.",
+                "ro": "Scurtă plimbare de la nodul de transport sub arcade.",
+                "en": "Short walk from the transit hub under the arches."
+              }
+            },
+            {
+              "name": "Basilica of Santa Maria de la Seu",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Buszeiten online, um Regenwarten zu vermeiden.",
+                "hu": "Ellenőrizze a buszmenetrendet online az eső elkerülésére.",
+                "ro": "Verificați online orele autobuzelor pentru a nu sta în ploaie.",
+                "en": "Check bus times online to avoid waiting in the rain."
+              }
+            },
+            {
+              "name": "Cave of Saint Ignatius",
+              "tip_5lang": {
+                "de": "Die nächste Haltestelle ist nur wenige Minuten entfernt.",
+                "hu": "A legközelebbi megálló csak pár percre van.",
+                "ro": "Cea mai apropiată stație este la doar câteva minute.",
+                "en": "The nearest stop is just a few minutes away."
+              }
+            },
+            {
+              "name": "Casino of Manresa",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Zeit bis zum nächsten Bus zu überbrücken.",
+                "hu": "Ideális hely a következő buszig tartó idő elütésére.",
+                "ro": "Un loc ideal pentru a trece timpul până la următorul autobuz.",
+                "en": "An ideal place to pass the time until the next bus."
+              }
+            },
+            {
+              "name": "Parc de l'Agulla",
+              "tip_5lang": {
+                "de": "Der Bus hält direkt am Eingang des Parks.",
+                "hu": "A busz közvetlenül a park bejáratánál áll meg.",
+                "ro": "Autobuzul oprește chiar la intrarea în parc.",
+                "en": "The bus stops right at the entrance to the park."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die TMB-App bietet Echtzeit-Informationen zu den Bussen.",
+              "Halten Sie Ihr Ticket griffbereit, um Verzögerungen zu vermeiden.",
+              "Bussen sind im Regen oft voller, planen Sie Pufferzeit ein.",
+              "Einige Haltestellen haben keine Überdachung, Schirm mitnehmen."
+            ],
+            "hu": [
+              "A helyi buszos app valós idejű infókat ad.",
+              "Tartsa készenlétben a jegyét a késések elkerülésére.",
+              "A buszok esőben zsúfoltabbak lehetnek, számoljon rá időt.",
+              "Néhány megálló nem fedett, legyen Önnél esernyő."
+            ],
+            "ro": [
+              "Aplicația locală de transport oferă informații în timp real.",
+              "Aveți biletul pregătit pentru a evita întârzierile.",
+              "Autobuzele sunt adesea mai pline pe ploaie, planificați timp în plus.",
+              "Unele stații nu sunt acoperite, luați o umbrelă."
+            ],
+            "en": [
+              "The local bus app provides real-time info.",
+              "Keep your ticket ready to avoid boarding delays.",
+              "Buses are often more crowded in the rain; allow extra time.",
+              "Some stops lack shelters, so bring an umbrella."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Winterreise mit dem Bus startet gemütlich im Warmen. Mittags erkunden wir die Basilika, bevor wir den beheizten Bus zum Casino nehmen. Nachmittags geht es zum Agulla-Park, wo wir die klare Winterluft genießen. Der Transit bringt uns pünktlich zum Sonnenuntergang zurück in die Stadt.",
+            "hu": "A téli utazás busszal indul, kényelmesen a melegben. Délben felfedezzük a bazilikát, majd fűtött busszal megyünk a Kaszinóhoz. Délután az Agulla-parkot látogatjuk meg a friss téli levegőn. A tömegközlekedés pontosan a naplementére visz vissza a városba.",
+            "ro": "Călătoria de iarnă cu autobuzul începe confortabil la căldură. La prânz explorăm bazilica, apoi luăm autobuzul încălzit spre Casino. După-amiaza mergem la Parc de l'Agulla pentru aerul proaspăt de iarnă. Transportul ne aduce înapoi în oraș exact la apus.",
+            "en": "The winter bus journey starts comfortably in the warmth. At noon we explore the Basilica before taking the heated bus to the Casino. In the afternoon, we visit Parc de l'Agulla for the fresh winter air. Transit brings us back to town just in time for sunset."
+          },
+          "stops": [
+            {
+              "name": "Arrival at City Center",
+              "tip_5lang": {
+                "de": "Die Busse sind im Winter angenehm beheizt.",
+                "hu": "A buszok télen kellemesen fűtöttek.",
+                "ro": "Autobuzele sunt încălzite plăcut iarna.",
+                "en": "The buses are pleasantly heated in winter."
+              }
+            },
+            {
+              "name": "Town Hall & Carrer del Balç",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Transit, um lange Wege in der Kälte zu vermeiden.",
+                "hu": "Használja a buszt, hogy elkerülje a hosszú gyaloglást a hidegben.",
+                "ro": "Folosiți transportul pentru a evita mersul lung prin frig.",
+                "en": "Use transit to avoid long walks in the cold."
+              }
+            },
+            {
+              "name": "Basilica of Santa Maria de la Seu",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick aus dem Busfenster auf die Stadt.",
+                "hu": "Élvezze a városi kilátást a busz ablakából.",
+                "ro": "Admirați vederea spre oraș de pe fereastra autobuzului.",
+                "en": "Enjoy the city views from the bus window."
+              }
+            },
+            {
+              "name": "Cave of Saint Ignatius",
+              "tip_5lang": {
+                "de": "Im Winter sind die Busse oft pünktlicher.",
+                "hu": "Télen a buszok gyakran pontosabbak.",
+                "ro": "Iarna autobuzele sunt adesea mai punctuale.",
+                "en": "Buses are often more punctual in winter."
+              }
+            },
+            {
+              "name": "Casino of Manresa",
+              "tip_5lang": {
+                "de": "Bushaltestellen befinden sich in unmittelbarer Nähe.",
+                "hu": "A buszmegállók a közvetlen közelben találhatók.",
+                "ro": "Stațiile de autobuz se află în imediata apropiere.",
+                "en": "Bus stops are located in the immediate vicinity."
+              }
+            },
+            {
+              "name": "Parc de l'Agulla",
+              "tip_5lang": {
+                "de": "Achten Sie auf den letzten Bus vor der Dunkelheit.",
+                "hu": "Ügyeljen az utolsó buszra sötétedés előtt.",
+                "ro": "Atenție la ultimul autobuz înainte de lăsarea întunericului.",
+                "en": "Watch for the last bus before darkness falls."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterfahrpläne können sich leicht unterscheiden, vorher prüfen.",
+              "Die Heizung im Bus kann sehr warm sein, tragen Sie Schichten.",
+              "Nutzen Sie die Wartezeit in Cafés nahe den Haltestellen.",
+              "Abends sind die Busse in Manresa gut beleuchtet und sicher."
+            ],
+            "hu": [
+              "A téli menetrend eltérhet, ellenőrizze előre.",
+              "A fűtés a buszon erős lehet, öltözzön rétegesen.",
+              "Várjon a kávézókban a megállók közelében.",
+              "Este a manresai buszok jól megvilágítottak és biztonságosak."
+            ],
+            "ro": [
+              "Orarele de iarnă pot diferi, verificați din timp.",
+              "Încălzirea în autobuz poate fi puternică, îmbrăcați-vă în straturi.",
+              "Așteptați în cafenelele de lângă stații.",
+              "Seara, autobuzele din Manresa sunt bine luminate și sigure."
+            ],
+            "en": [
+              "Winter schedules might vary slightly; check in advance.",
+              "Bus heating can be intense; dress in layers to stay comfortable.",
+              "Wait in nearby cafes if there's a gap between buses.",
+              "Manresa buses are well-lit and safe in the evening."
+            ]
+          }
+        }
       }
     }
   }

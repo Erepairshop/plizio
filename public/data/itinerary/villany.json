@@ -352,6 +352,188 @@
           "Most cellars accept credit cards, but having some cash is always useful.",
           "Plan ahead if you want to visit a specific winemaker, as some may require reservations."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen in der Széchenyi utca lädt zum Bummeln unter Arkaden ein. Mittags bietet das Weinmuseum einen trockenen Zufluchtsort. Nachmittags erkunden wir die berühmte Kellerreihe, wo man von einer Tür zur nächsten huscht. Abends genießen wir den Rotwein in den tiefen Kellern von Jammertal, während draußen der Regen auf die Reben peitscht.",
+            "hu": "Az esős reggel a Széchenyi utca boltívei alatt indul. Délben a Bormúzeum nyújt menedéket a zápor elől. Délután a Pincesoron kalandozunk, gyorsan váltva a barátságos présházak között. Estére a Jammertal dűlő egyik mély pincéjébe húzódunk vissza, ahol a vörösbor mellett feledjük a kinti kopogó esőt és a hűvös szelet.",
+            "ro": "O dimineață ploioasă pe strada Széchenyi ne îndeamnă să căutăm adăpost sub arcade. La prânz, Muzeul Vinului oferă un refugiu uscat. După-amiaza explorăm faimosul rând de pivnițe, grăbindu-ne între intrări. Seara ne retragem în pivnițele din Jammertal, unde savurăm vinul roșu în timp ce ploaia bate în geamurile de la suprafață.",
+            "en": "A rainy morning on Széchenyi Street invites a stroll under shop awnings. At noon, the Wine Museum provides a dry sanctuary. In the afternoon, we explore the famous Cellar Row, dashing between the welcoming doors of the press houses. By evening, we retreat into the deep cellars of Jammertal, enjoying red wine while the rain patters outside."
+          },
+          "stops": [
+            {
+              "name": "Main Street (Széchenyi utca)",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Vordächer der Geschäfte.",
+                "hu": "Használja az üzletek előtetőit.",
+                "ro": "Folosiți copertinele magazinelor.",
+                "en": "Use the shop awnings for cover."
+              }
+            },
+            {
+              "name": "Town Hall",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp unter dem Sims.",
+                "hu": "Gyors fotómegálló a párkány alatt.",
+                "ro": "Scurt popas sub streașină.",
+                "en": "Quick photo stop under the eaves."
+              }
+            },
+            {
+              "name": "Reformed Church",
+              "tip_5lang": {
+                "de": "Ein ruhiger, trockener Ort zum Innehalten.",
+                "hu": "Csendes, száraz hely az elmélyüléshez.",
+                "ro": "Un loc liniștit și uscat pentru reculegere.",
+                "en": "A quiet, dry place for reflection."
+              }
+            },
+            {
+              "name": "Wine Museum",
+              "tip_5lang": {
+                "de": "Ideal, um starken Regen abzuwarten.",
+                "hu": "Ideális hely a zápor megvárására.",
+                "ro": "Ideal pentru a aștepta trecerea ploii.",
+                "en": "Ideal place to wait out the downpour."
+              }
+            },
+            {
+              "name": "Villány's Cellar Row",
+              "tip_5lang": {
+                "de": "Hüpfen Sie schnell zwischen den Kellern.",
+                "hu": "Gyorsan közlekedjen a pincék között.",
+                "ro": "Grăbiți-vă între intrările pivnițelor.",
+                "en": "Dash quickly between the cellars."
+              }
+            },
+            {
+              "name": "Jammertal Wine Region",
+              "tip_5lang": {
+                "de": "Genießen Sie die Aussicht vom Kellereingang.",
+                "hu": "Élvezze a kilátást a pince bejáratából.",
+                "ro": "Admirați priveliștea din pragul pivniței.",
+                "en": "Enjoy the view from the cellar entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein Regenschirm ist Pflicht, da die Hauptstraße nicht durchgehend überdacht ist.",
+              "Das Weinmuseum ist der beste Ort, um starken Regen auszusitzen.",
+              "Die Keller der Kellerreihe liegen nah beieinander, ideal für kurze Wege.",
+              "Tragen Sie wasserfeste Schuhe wegen der Pfützen auf dem Kopfsteinpflaster."
+            ],
+            "hu": [
+              "Az esernyő kötelező, mivel a főutca nem végig fedett.",
+              "A Bormúzeum a legjobb hely a heves esőzés átvészelésére.",
+              "A Pincesor házai közel vannak egymáshoz, így könnyű köztük váltani.",
+              "Viseljen vízálló cipőt a macskaköveken megálló esővíz miatt."
+            ],
+            "ro": [
+              "Umbrela este obligatorie, deoarece strada principală nu este acoperită peste tot.",
+              "Muzeul Vinului este cel mai bun loc pentru a aștepta oprirea ploii torențiale.",
+              "Pivnițele sunt apropiate, facilitând deplasarea rapidă între ele.",
+              "Purtați încălțăminte impermeabilă din cauza bălților de pe pavaj."
+            ],
+            "en": [
+              "An umbrella is mandatory; some parts of the main street lack overhead cover.",
+              "The Wine Museum is the best place to wait out a heavy downpour.",
+              "Cellar Row houses are close together, making it easy to hop between them.",
+              "Wear waterproof shoes as rainwater can pool on the historic cobblestones."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die kalte Morgenluft in Villány macht den Spaziergang zum Rathaus erfrischend. Mittags wärmen wir uns im Weinmuseum auf. Nachmittags leuchten die Lichter der Kellerreihe in der frühen Dämmerung besonders stimmungsvoll. Den Abend lassen wir bei einem schweren Rotwein in einem beheizten Keller ausklingen, während der Frost die Weinberge überzieht.",
+            "hu": "A fagyos reggeli levegő frissítővé teszi a sétát a Városháza felé. Délben a Bormúzeum fűtött tereiben melegszünk fel. Délután a Pincesor fényei már a korai szürkületben felgyulladnak, varázslatos hangulatot árasztva. Az estét egy nehéz vörösborral zárjuk egy fűtött pincében, miközben a dér lassan belepi a környékbeli szőlőtőkéket.",
+            "ro": "Aerul rece de dimineață face plimbarea spre primărie revigorantă. La prânz, ne încălzim în Muzeul Vinului. După-amiaza, luminile rândului de pivnițe strălucesc atmosferic în amurgul timpuriu. Încheiem seara cu un vin roșu corpolent într-o pivniță încălzită, în timp ce gerul pune stăpânire pe dealurile cu viță de vie.",
+            "en": "The crisp morning air in Villány makes the walk to the Town Hall refreshing. At noon, we warm up inside the Wine Museum. In the afternoon, the lights of the Cellar Row glow atmospherically in the early twilight. We end the evening with a full-bodied red wine in a heated cellar, as frost begins to cover the vineyards."
+          },
+          "stops": [
+            {
+              "name": "Main Street (Széchenyi utca)",
+              "tip_5lang": {
+                "de": "Zügig gehen, um warm zu bleiben.",
+                "hu": "Sétáljon tempósan, hogy ne fázzon.",
+                "ro": "Mergeți vioi pentru a vă menține căldura.",
+                "en": "Walk briskly to stay warm."
+              }
+            },
+            {
+              "name": "Town Hall",
+              "tip_5lang": {
+                "de": "Bewundern Sie die winterliche Architektur.",
+                "hu": "Csodálja meg a téli építészetet.",
+                "ro": "Admirați arhitectura în decor de iarnă.",
+                "en": "Admire the winter architecture."
+              }
+            },
+            {
+              "name": "Reformed Church",
+              "tip_5lang": {
+                "de": "Windgeschützter Ort für eine Pause.",
+                "hu": "Szélvédett hely egy rövid pihenőre.",
+                "ro": "Un loc ferit de vânt pentru o pauză.",
+                "en": "Wind-protected spot for a break."
+              }
+            },
+            {
+              "name": "Wine Museum",
+              "tip_5lang": {
+                "de": "Gut beheizte Ausstellungsräume.",
+                "hu": "Jól fűtött kiállítótermek.",
+                "ro": "Săli de expoziție bine încălzite.",
+                "en": "Well-heated exhibition rooms."
+              }
+            },
+            {
+              "name": "Villány's Cellar Row",
+              "tip_5lang": {
+                "de": "Probieren Sie den heißen Glühwein.",
+                "hu": "Kóstolja meg a forró forralt bort.",
+                "ro": "Gustați vinul fiert fierbinte.",
+                "en": "Try the hot mulled wine."
+              }
+            },
+            {
+              "name": "Jammertal Wine Region",
+              "tip_5lang": {
+                "de": "Die Dämmerung beginnt hier früh.",
+                "hu": "A szürkület itt korán kezdődik.",
+                "ro": "Amurgul începe devreme aici.",
+                "en": "Twilight starts early here."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Sonnenuntergang ist gegen 16:30 Uhr; planen Sie Fotos für den Vormittag.",
+              "Die meisten Keller sind beheizt, aber der Weg dazwischen ist frostig.",
+              "Das Kopfsteinpflaster kann vereist sein; gehen Sie vorsichtig.",
+              "Wärmen Sie sich mit Glühwein auf, der an vielen Kellereingängen angeboten wird."
+            ],
+            "hu": [
+              "A naplemente 16:30 körül van; a fotózást tervezze délelőttre.",
+              "A legtöbb pince fűtött, de a köztük lévő út fagyos lehet.",
+              "A macskakő jeges lehet; közlekedjen óvatosan az egyenetlen felületen.",
+              "Melegedjen fel forralt borral, amit szinte minden pincepultnál árulnak."
+            ],
+            "ro": [
+              "Apusul este în jur de 16:30; planificați fotografiile pentru dimineață.",
+              "Majoritatea pivnițelor sunt încălzite, dar drumul dintre ele este geros.",
+              "Pavajul poate fi înghețat; mergeți cu atenție pe suprafețele denivelate.",
+              "Încălziți-vă cu un vin fiert, disponibil la majoritatea intrărilor în pivnițe."
+            ],
+            "en": [
+              "Sunset is around 16:30; plan your outdoor photos for the morning.",
+              "Most cellars are heated, but the walk between them is freezing.",
+              "The cobblestones can be icy; walk carefully on the uneven surfaces.",
+              "Warm up with \"forralt bor\" (mulled wine) found at most cellar entrances."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -698,6 +880,188 @@
           "The paths can be hilly, a bike with gears is recommended.",
           "Bring plenty of water, especially on sunny days."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Radtag beginnt vorsichtig am Rathausplatz. Mittags bietet das Weinmuseum eine trockene Pause für Mensch und Rad. Nachmittags geht es durch den Matsch zum Skulpturenpark, bevor wir den Tag in der Kellerreihe ausklingen lassen. Trotz des Wetters bleibt die Fahrt durch die Weinberge ein Erlebnis, wenn man die richtige Ausrüstung hat.",
+            "hu": "Az esős kerékpáros nap óvatosan indul a Városháza téren. Délben a Bormúzeum nyújt száraz pihenőt bringásnak és gépnek egyaránt. Délután a sárral dacolva tekerünk ki a Szoborparkhoz, majd a napot a Pincesoron zárjuk. Az időjárás ellenére a dűlők közötti tekerés élmény marad a megfelelő felszereléssel.",
+            "ro": "O zi de bicicletă ploioasă începe cu prudență în Piața Primăriei. La prânz, Muzeul Vinului oferă o pauză uscată pentru biciclist și bicicletă. După-amiaza pedalăm prin noroi spre Parcul de Sculpturi, încheind ziua la rândul de pivnițe. În ciuda vremii, plimbarea printre vii rămâne o experiență cu echipamentul potrivit.",
+            "en": "A rainy cycling day starts cautiously at Town Hall Square. At noon, the Wine Museum offers a dry break for both rider and bike. In the afternoon, we pedal through the mud to the Sculpture Park before ending the day at the Cellar Row. Despite the weather, riding through the vineyards is an experience with the right gear."
+          },
+          "stops": [
+            {
+              "name": "Town Hall Square",
+              "tip_5lang": {
+                "de": "Vorsicht auf nassem Kopfsteinpflaster.",
+                "hu": "Vigyázat a nedves macskakövön.",
+                "ro": "Atenție pe pavajul umed.",
+                "en": "Caution on wet cobblestones."
+              }
+            },
+            {
+              "name": "Wine Museum",
+              "tip_5lang": {
+                "de": "Parken Sie das Rad im Trockenen.",
+                "hu": "Parkolja a bringát fedett helyre.",
+                "ro": "Parcați bicicleta la adăpost.",
+                "en": "Park your bike in a dry spot."
+              }
+            },
+            {
+              "name": "Villány's Cellar Row (lower section)",
+              "tip_5lang": {
+                "de": "Achten Sie auf rutschige Abflüsse.",
+                "hu": "Figyeljen a csúszós vízelvezetőkre.",
+                "ro": "Atenție la rigolele alunecoase.",
+                "en": "Watch out for slippery drains."
+              }
+            },
+            {
+              "name": "Jammertal Wine Region",
+              "tip_5lang": {
+                "de": "Die Feldwege können matschig sein.",
+                "hu": "A dűlőutak sárosak lehetnek.",
+                "ro": "Drumurile printre vii pot fi noroioase.",
+                "en": "Vineyard paths can be muddy."
+              }
+            },
+            {
+              "name": "Nagyharsány Sculpture Park",
+              "tip_5lang": {
+                "de": "Exponierte Lage, starker Wind möglich.",
+                "hu": "Nyitott terület, erős szél lehet.",
+                "ro": "Zonă expusă, vânt puternic posibil.",
+                "en": "Exposed area, strong wind possible."
+              }
+            },
+            {
+              "name": "Villány's Cellar Row (upper section)",
+              "tip_5lang": {
+                "de": "Endspurt zum warmen Keller.",
+                "hu": "Hajrá a meleg pincéig.",
+                "ro": "Ultimul efort spre pivnița caldă.",
+                "en": "Final sprint to the warm cellar."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kopfsteinpflaster auf der Kellerreihe wird bei Nässe sehr rutschig.",
+              "Der Weg nach Nagyharsány ist ungeschützt; rechnen Sie mit Wind.",
+              "Schutzbleche sind wichtig, um Spritzer von den Weinbergwegen zu vermeiden.",
+              "Nutzen Sie helle Lichter, da die Sicht in den Hügeln bei Regen stark sinkt."
+            ],
+            "hu": [
+              "A Pincesor macskakövei nedvesen nagyon csúszóssá válnak.",
+              "A Nagyharsányba vezető út nyitott; számítson erős szélre és esőre.",
+              "A sárvédő elengedhetetlen a dűlőutakon való felfröccsenések ellen.",
+              "Használjon erős lámpákat, mert a látótávolság jelentősen csökken esőben."
+            ],
+            "ro": [
+              "Pavajul de pe rândul de pivnițe devine foarte alunecos când este ud.",
+              "Drumul spre Nagyharsány este expus; așteptați-vă la vânt și ploaie.",
+              "Apărătorile de noroi sunt esențiale pe drumurile de pământ dintre vii.",
+              "Folosiți lumini puternice, vizibilitatea scade mult pe dealuri în timpul ploii."
+            ],
+            "en": [
+              "Cobblestones on the Cellar Row become very slippery when wet; use caution.",
+              "The path to Nagyharsány is exposed; expect strong winds and rain.",
+              "Mudguards are essential to avoid splashes from the vineyard paths.",
+              "Use bright lights as visibility drops significantly during rain in the hills."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Radtag durch die Villányer Hügel erfordert Ausdauer. Nach dem Start wärmen wir uns im Weinmuseum auf. Die Fahrt zum Skulpturenpark bietet klare Winterluft, aber kurze Tage. Nachmittags kehren wir schnell in die Kellerreihe zurück, wenn die Sonne hinter den kahlen Reben versinkt und die Gemütlichkeit der Keller lockt.",
+            "hu": "A fagyos kerékpáros nap a Villányi-dombságban kitartást igényel. Indulás után a Bormúzeumban melegszünk fel. A Szoborpark felé tartó út tiszta téli levegőt, de rövid nappalt kínál. Délután gyorsan visszatérünk a Pincesorra, ahogy a nap eltűnik a kopasz tőkék mögött, és a pincék melege hívogat.",
+            "ro": "O zi gerosasă de bicicletă prin dealurile Villány necesită rezistență. După start, ne încălzim la Muzeul Vinului. Drumul spre Parcul de Sculpturi oferă aer curat de iarnă, dar zile scurte. După-amiaza revenim rapid la rândul de pivnițe, pe măsură ce soarele apune după viile golașe.",
+            "en": "A frosty cycling day through the Villány hills requires endurance. After starting, we warm up at the Wine Museum. The ride to the Sculpture Park offers crisp winter air but short days. In the afternoon, we return quickly to the Cellar Row as the sun sinks behind the bare vines and the cozy cellars beckon."
+          },
+          "stops": [
+            {
+              "name": "Town Hall Square",
+              "tip_5lang": {
+                "de": "Achten Sie auf überfrierende Nässe.",
+                "hu": "Ügyeljen a felfagyásokra.",
+                "ro": "Atenție la gheața de pe pavaj.",
+                "en": "Watch out for black ice."
+              }
+            },
+            {
+              "name": "Wine Museum",
+              "tip_5lang": {
+                "de": "Gute Gelegenheit zum Aufwärmen.",
+                "hu": "Jó alkalom a felmelegedésre.",
+                "ro": "Oportunitate bună de încălzire.",
+                "en": "Good opportunity to warm up."
+              }
+            },
+            {
+              "name": "Villány's Cellar Row (lower section)",
+              "tip_5lang": {
+                "de": "Wintersonne im unteren Bereich.",
+                "hu": "Téli napsütés az alsó szakaszon.",
+                "ro": "Soare de iarnă în secțiunea de jos.",
+                "en": "Winter sun in the lower section."
+              }
+            },
+            {
+              "name": "Jammertal Wine Region",
+              "tip_5lang": {
+                "de": "Kalter Wind in den offenen Lagen.",
+                "hu": "Hideg szél a nyitott dűlőkön.",
+                "ro": "Vânt rece în zonele deschise.",
+                "en": "Cold wind in the open areas."
+              }
+            },
+            {
+              "name": "Nagyharsány Sculpture Park",
+              "tip_5lang": {
+                "de": "Frühzeitige Schließzeiten beachten.",
+                "hu": "Figyeljen a korai zárásra.",
+                "ro": "Atenție la ora de închidere timpurie.",
+                "en": "Note the early closing times."
+              }
+            },
+            {
+              "name": "Villány's Cellar Row (upper section)",
+              "tip_5lang": {
+                "de": "Beleuchtung für die Rückfahrt prüfen.",
+                "hu": "Ellenőrizze a lámpákat a visszautashoz.",
+                "ro": "Verificați luminile pentru întoarcere.",
+                "en": "Check lights for the ride back."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Das Tageslicht ist kurz; stellen Sie sicher, dass die Lichter geladen sind.",
+              "Die Temperaturen fallen nach 16:00 Uhr rapide; tragen Sie Thermoschichten.",
+              "Der Winterwind in den Hügeln kann beißend sein; nutzen Sie einen Gesichtsschutz.",
+              "Prüfen Sie die Öffnungszeiten des Skulpturenparks; sie sind im Winter oft kürzer."
+            ],
+            "hu": [
+              "A nappalok rövidek; ellenőrizze, hogy a lámpák fel vannak-e töltve.",
+              "16:00 után a hőmérséklet gyorsan esik; viseljen réteges termo ruhát.",
+              "A téli szél a dombok között metsző lehet; használjon arcmaszkot vagy sálat.",
+              "Ellenőrizze a Szoborpark nyitvatartását; télen gyakran rövidebb."
+            ],
+            "ro": [
+              "Lumina zilei este scurtă; asigurați-vă că luminile sunt încărcate.",
+              "Temperaturile scad rapid după ora 16:00; purtați straturi termice.",
+              "Vântul de iarnă de pe dealuri poate fi tăios; folosiți o protecție facială.",
+              "Verificați programul Parcului de Sculpturi; este redus iarna."
+            ],
+            "en": [
+              "Daylight is short; ensure your bike lights are fully charged.",
+              "Temperature drops fast after 16:00; wear multiple thermal layers.",
+              "Winter winds in the Villány hills can be biting; use a face mask.",
+              "Check if the Sculpture Park is open; hours are reduced in winter."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1067,6 +1431,206 @@
           "Reserve tables at popular restaurants and tours at top wineries, especially on weekends.",
           "Use the park-and-walk method: leave the car once you reach the center."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag beginnt bequem mit der Fahrt zum Skulpturenpark. Mittags parken wir im Zentrum und flüchten ins trockene Weinmuseum. Nachmittags bietet die Kellerreihe trotz Regen eine tolle Atmosphäre, da die meisten Aktivitäten drinnen stattfinden. Der Abend endet bei einem gemütlichen Abendessen in einem Kellerrestaurant, während draußen der Regen die Straßen wäscht.",
+            "hu": "Az esős nap kényelmesen indul a Szoborpark felé tartó úttal. Délben a központban parkolunk le, és a száraz Bormúzeumba menekülünk. Délután a Pincesor az eső ellenére is hangulatos, hiszen a programok nagy része bent zajlik. Az estét egy barátságos pinceétteremben zárjuk, miközben kint az eső mossa az utcákat.",
+            "ro": "Ziua ploioasă începe confortabil cu drumul spre Parcul de Sculpturi. La prânz parcăm în centru și ne refugiem în Muzeul Vinului. După-amiaza, rândul de pivnițe oferă o atmosferă deosebită în ciuda ploii, activitățile fiind în interior. Seara se încheie cu o cină caldă într-un restaurant-pivniță.",
+            "en": "A rainy day starts comfortably with a drive to the Sculpture Park. At noon, we park in the center and escape into the dry Wine Museum. In the afternoon, the Cellar Row offers a great atmosphere despite the rain, as most activities are indoors. The evening ends with a cozy dinner in a cellar restaurant while rain washes the streets outside."
+          },
+          "stops": [
+            {
+              "name": "Nagyharsány Sculpture Park",
+              "tip_5lang": {
+                "de": "Parkplatz nah am Eingang nutzen.",
+                "hu": "Használja a bejárathoz közeli parkolót.",
+                "ro": "Folosiți parcarea de lângă intrare.",
+                "en": "Use the parking near the entrance."
+              }
+            },
+            {
+              "name": "Viewpoint on Szársomlyó Hill",
+              "tip_5lang": {
+                "de": "Vorsicht, rutschiger Aufstieg.",
+                "hu": "Vigyázat, csúszós felkapaszkodó.",
+                "ro": "Atenție, urcare alunecoasă.",
+                "en": "Caution, slippery climb."
+              }
+            },
+            {
+              "name": "Villány Center (Parking)",
+              "tip_5lang": {
+                "de": "Zentraler Parkplatz oft frei bei Regen.",
+                "hu": "A központi parkoló esőben gyakran üres.",
+                "ro": "Parcarea centrală e adesea liberă pe ploaie.",
+                "en": "Central parking often free during rain."
+              }
+            },
+            {
+              "name": "Wine Museum",
+              "tip_5lang": {
+                "de": "Perfekt für eine regenfreie Stunde.",
+                "hu": "Tökéletes egy esőmentes órához.",
+                "ro": "Perfect pentru o oră ferită de ploaie.",
+                "en": "Perfect for a rain-free hour."
+              }
+            },
+            {
+              "name": "Villány's Cellar Row",
+              "tip_5lang": {
+                "de": "Parken Sie am Rand der Zone.",
+                "hu": "Parkoljon a zóna szélén.",
+                "ro": "Parcați la marginea zonei.",
+                "en": "Park at the edge of the zone."
+              }
+            },
+            {
+              "name": "Winery in Jammertal",
+              "tip_5lang": {
+                "de": "Direkte Zufahrt oft möglich.",
+                "hu": "Gyakran van közvetlen behajtás.",
+                "ro": "Acces direct adesea posibil.",
+                "en": "Direct access often possible."
+              }
+            },
+            {
+              "name": "Dinner at a Cellar Restaurant",
+              "tip_5lang": {
+                "de": "Reservierung bei Regen ratsam.",
+                "hu": "Esőben ajánlott a foglalás.",
+                "ro": "Rezervare recomandată pe ploaie.",
+                "en": "Booking recommended during rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Straße zum Skulpturenpark ist asphaltiert, kann aber rutschig sein.",
+              "Parken im Zentrum ist bei Regen einfacher, da weniger Fußgänger unterwegs sind.",
+              "Die Aussicht vom Szársomlyó könnte neblig sein; prüfen Sie die Sicht vorher.",
+              "Weinbergwege können matschig sein; bleiben Sie auf den Hauptwegen."
+            ],
+            "hu": [
+              "A Szoborparkhoz vezető út aszfaltozott, de heves esőben csúszhat.",
+              "A parkolás a központban esőben egyszerűbb, mert kevesebb a gyalogos turistát.",
+              "A kilátás a Szársomlyóról ködös lehet; ellenőrizze a látási viszonyokat.",
+              "A dűlőutak sárosak lehetnek; maradjon a főbb aszfaltozott bekötőutakon."
+            ],
+            "ro": [
+              "Drumul spre Parcul de Sculpturi este asfaltat, dar poate fi alunecos.",
+              "Parcarea în centru este mai ușoară pe ploaie, fiind mai puțini pietoni.",
+              "Priveliștea de pe Szársomlyó poate fi cețoasă; verificați vizibilitatea.",
+              "Drumurile dintre vii pot fi noroioase; rămâneți pe căile asfaltate."
+            ],
+            "en": [
+              "The road to the Sculpture Park is paved but can be slippery in heavy rain.",
+              "Parking in the center is easier in the rain as fewer tourists are walking.",
+              "The viewpoint on Szársomlyó might be shrouded in fog; check before hiking up.",
+              "Vineyard roads can be muddy; stick to the main paved access routes."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintertag in Villány beginnt mit einer frostigen Fahrt zum Skulpturenpark. Mittags parken wir sicher im Zentrum und besuchen das warme Weinmuseum. Nachmittags ist die Kellerreihe besonders einladend, wenn die warme Kellerluft nach draußen dampft. Der Abend in einem beheizten Kellerrestaurant ist der perfekte Abschluss für diesen kalten Tag im ungarischen Süden.",
+            "hu": "A villányi téli nap fagyos autózással indul a Szoborpark felé. Délben biztonságosan leparkolunk a központban, és meglátogatjuk a fűtött Bormúzeumot. Délután a Pincesor különösen hívogató, ahogy a meleg pincék levegője gőzölög a kinti hidegben. Az este egy fűtött pinceétteremben a tökéletes zárása ennek a déli téli napnak.",
+            "ro": "Ziua de iarnă în Villány începe cu un drum geros spre Parcul de Sculpturi. La prânz parcăm în centru și vizităm Muzeul Vinului încălzit. După-amiaza, rândul de pivnițe este primitor, cu aburii calzi ieșind din interior. Cina într-o pivniță încălzită este încheierea perfectă pentru această zi rece.",
+            "en": "The winter day in Villány starts with a frosty drive to the Sculpture Park. At noon, we park safely in the center and visit the warm Wine Museum. In the afternoon, the Cellar Row is especially inviting as warm air steams out from the cellars. An evening in a heated cellar restaurant is the perfect end to this cold southern day."
+          },
+          "stops": [
+            {
+              "name": "Nagyharsány Sculpture Park",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem Parkplatz vor Eis.",
+                "hu": "Vigyázzon a jégre a parkolóban.",
+                "ro": "Atenție la gheața din parcare.",
+                "en": "Watch out for ice in the parking lot."
+              }
+            },
+            {
+              "name": "Viewpoint on Szársomlyó Hill",
+              "tip_5lang": {
+                "de": "Nur bei eisfreien Wegen besteigen.",
+                "hu": "Csak jégmentes úton menjen fel.",
+                "ro": "Urcați doar dacă potecile nu sunt înghețate.",
+                "en": "Climb only if paths are ice-free."
+              }
+            },
+            {
+              "name": "Villány Center (Parking)",
+              "tip_5lang": {
+                "de": "Zentral und sicher parken.",
+                "hu": "Parkoljon központilag és biztonságosan.",
+                "ro": "Parcați central și în siguranță.",
+                "en": "Park centrally and safely."
+              }
+            },
+            {
+              "name": "Wine Museum",
+              "tip_5lang": {
+                "de": "Idealer Ort zum Aufwärmen.",
+                "hu": "Ideális hely a felmelegedéshez.",
+                "ro": "Loc ideal pentru încălzire.",
+                "en": "Ideal place for warming up."
+              }
+            },
+            {
+              "name": "Villány's Cellar Row",
+              "tip_5lang": {
+                "de": "Nahe Parkplätze sind im Winter frei.",
+                "hu": "A közeli parkolók télen üresek.",
+                "ro": "Parcările apropiate sunt libere iarna.",
+                "en": "Nearby parking lots are empty in winter."
+              }
+            },
+            {
+              "name": "Winery in Jammertal",
+              "tip_5lang": {
+                "de": "Warmer Empfang garantiert.",
+                "hu": "Meleg fogadtatás garantált.",
+                "ro": "Primire călduroasă garantată.",
+                "en": "Warm welcome guaranteed."
+              }
+            },
+            {
+              "name": "Dinner at a Cellar Restaurant",
+              "tip_5lang": {
+                "de": "Gemütlich und gut geheizt.",
+                "hu": "Barátságos és jól fűtött.",
+                "ro": "Primitor și bine încălzit.",
+                "en": "Cozy and well-heated."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Morgendlicher Frost ist üblich; sorgen Sie für freie Sicht.",
+              "Die Auffahrt zum Szársomlyó kann tückisch sein bei Glatteis.",
+              "Kellerrestaurants sind im Winter gemütlich, Reservierung empfohlen.",
+              "Winterreifen sind für das hügelige Gelände der Weinregion Pflicht."
+            ],
+            "hu": [
+              "A reggeli fagy gyakori; ügyeljen a szélvédő tisztaságára.",
+              "A Szársomlyó felé vezető emelkedő veszélyes lehet jegesedés esetén.",
+              "A pinceéttermek télen nagyon barátságosak, de asztalfoglalás ajánlott.",
+              "A téli gumi kötelező a borvidék dombos terepviszonyai miatt."
+            ],
+            "ro": [
+              "Gerul de dimineață este frecvent; asigurați vizibilitatea parbrizului.",
+              "Urcarea spre Szársomlyó poate fi periculoasă în caz de polei.",
+              "Restaurantele din pivnițe sunt primitoare iarna, rezervarea e indicată.",
+              "Anvelopele de iarnă sunt obligatorii pentru terenul deluros al regiunii."
+            ],
+            "en": [
+              "Morning frost is common; ensure your car's windshield is clear.",
+              "The hill climb to Szársomlyó can be treacherous if there is black ice.",
+              "Cellar restaurants are cozy in winter, but booking ahead is recommended.",
+              "Winter tires are mandatory for the hilly terrain around the wine region."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1413,6 +1977,188 @@
           "Wine taxis are a good alternative to buses for more flexibility.",
           "Ask the wineries if they ship wine to save on luggage."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag mit dem Bus beginnt am geschützten Busbahnhof. Mittags besuchen wir die Kirche und das Weinmuseum, beide bieten trockene Pausen. Nachmittags geht es mit dem Bus weiter zum Jammertal. Die kurzen Wege zwischen den Haltestellen und den Kellern minimieren den Kontakt mit dem Regen, sodass man den Villányer Wein trocken genießen kann.",
+            "hu": "Az esős nap busszal indul a fedett buszpályaudvarról. Délben a templom és a Bormúzeum nyújt száraz pihenőt. Délután busszal megyünk tovább a Jammertal felé. A megállók és a pincék közötti rövid távolságok minimalizálják az esővel való érintkezést, így szárazon élvezheti a villányi borokat.",
+            "ro": "O zi ploioasă cu autobuzul începe la autogara protejată. La prânz vizităm biserica și Muzeul Vinului, ambele oferind pauze uscate. După-amiaza continuăm cu autobuzul spre Jammertal. Distanțele scurte între stații și pivnițe minimizează expunerea la ploaie.",
+            "en": "A rainy day by bus starts at the sheltered bus station. At noon, we visit the church and the Wine Museum, both offering dry breaks. In the afternoon, we continue by bus to Jammertal. Short distances between stops and cellars minimize rain exposure, allowing you to enjoy Villány wine while staying dry."
+          },
+          "stops": [
+            {
+              "name": "Villány, Bus Station",
+              "tip_5lang": {
+                "de": "Warten Sie im überdachten Bereich.",
+                "hu": "Várjon a fedett várakozóhelyen.",
+                "ro": "Așteptați în zona acoperită.",
+                "en": "Wait in the covered area."
+              }
+            },
+            {
+              "name": "Reformed Church",
+              "tip_5lang": {
+                "de": "Kurzer, nasser Weg von der Haltestelle.",
+                "hu": "Rövid, esős út a megállótól.",
+                "ro": "Drum scurt și umed de la stație.",
+                "en": "Short, wet walk from the stop."
+              }
+            },
+            {
+              "name": "Wine Museum",
+              "tip_5lang": {
+                "de": "Ideal, um auf den nächsten Bus zu warten.",
+                "hu": "Ideális a következő busz megvárására.",
+                "ro": "Ideal pentru a aștepta următorul autobuz.",
+                "en": "Ideal for waiting for the next bus."
+              }
+            },
+            {
+              "name": "Cellar Row (Lunch)",
+              "tip_5lang": {
+                "de": "Nahe an den Bushaltestellen.",
+                "hu": "Közel van a buszmegállókhoz.",
+                "ro": "Aproape de stațiile de autobuz.",
+                "en": "Close to the bus stops."
+              }
+            },
+            {
+              "name": "Jammertal Wine Region (by bus)",
+              "tip_5lang": {
+                "de": "Bus hält direkt in der Nähe.",
+                "hu": "A busz közvetlen közelben áll meg.",
+                "ro": "Autobuzul oprește chiar în apropiere.",
+                "en": "The bus stops right nearby."
+              }
+            },
+            {
+              "name": "Final Tasting on the Cellar Row",
+              "tip_5lang": {
+                "de": "Letzte Runde vor der Busabfahrt.",
+                "hu": "Utolsó kör a busz indulása előtt.",
+                "ro": "Ultima rundă înainte de plecare.",
+                "en": "Final round before the bus departs."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Busbahnhof hat einen überdachten Bereich, aber es kann ziehen.",
+              "Busse fahren am Wochenende seltener; planen Sie Museumsbesuche genau.",
+              "Der Weg von der Haltestelle zur Kellerreihe ist kurz, aber ungeschützt.",
+              "Halten Sie Ihr Ticket trocken; digitale Tickets sind bei Regen praktischer."
+            ],
+            "hu": [
+              "A buszpályaudvarnak van fedett része, de huzatos lehet.",
+              "A buszok hétvégén ritkábban járnak; tervezze pontosan a múzeumlátogatást.",
+              "A megállótól a Pincesorig vezető út rövid, de nem fedett.",
+              "Tartsa szárazon a jegyét; esőben a digitális jegy praktikusabb."
+            ],
+            "ro": [
+              "Autogara are o zonă acoperită, dar poate fi curent.",
+              "Autobuzele circulă mai rar în weekend; planificați vizita la muzeu.",
+              "Drumul de la stație la rândul de pivnițe e scurt, dar neprotejat.",
+              "Păstrați biletul uscat; biletele digitale sunt mai practice pe ploaie."
+            ],
+            "en": [
+              "The bus station has a covered waiting area, but it can be drafty.",
+              "Buses run less frequently on weekends; time your museum visit carefully.",
+              "The walk from the bus stop to the Cellar Row is short but unprotected.",
+              "Keep your ticket dry; digital tickets are preferred in wet weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintertag mit dem ÖPNV in Villány bietet beheizten Komfort zwischen den Stopps. Vom Busbahnhof geht es zum warmen Weinmuseum. Die Busfahrt nach Jammertal erspart den Marsch durch die Kälte. Nachmittags genießen wir die beleuchtete Kellerreihe, bevor der Bus uns rechtzeitig im Dunkeln zurückbringt, während wir die Wärme im Inneren genießen.",
+            "hu": "A téli tömegközlekedés Villányban fűtött kényelmet nyújt a megállók között. A buszpályaudvartól a meleg Bormúzeumba megyünk. A Jammertalba tartó buszút megkímél a hidegben való gyaloglástól. Délután élvezzük a kivilágított Pincesort, mielőtt a busz a sötétben hazavisz minket a fűtött utastérben.",
+            "ro": "O zi de iarnă cu transportul public în Villány oferă confort încălzit între opriri. De la autogară mergem la Muzeul Vinului. Drumul cu autobuzul spre Jammertal ne scutește de mersul prin frig. După-amiaza savurăm rândul de pivnițe iluminat înainte ca autobuzul să ne aducă înapoi.",
+            "en": "A winter day with public transit in Villány offers heated comfort between stops. From the bus station, we head to the warm Wine Museum. The bus ride to Jammertal saves a walk through the cold. In the afternoon, we enjoy the illuminated Cellar Row before the bus brings us back in the dark, enjoying the warmth inside."
+          },
+          "stops": [
+            {
+              "name": "Villány, Bus Station",
+              "tip_5lang": {
+                "de": "Warten Sie in der warmen Bahnhofshalle.",
+                "hu": "Várjon a meleg váróteremben.",
+                "ro": "Așteptați în sala de așteptare caldă.",
+                "en": "Wait in the warm station hall."
+              }
+            },
+            {
+              "name": "Reformed Church",
+              "tip_5lang": {
+                "de": "Windgeschützter Aufenthalt möglich.",
+                "hu": "Szélvédett tartózkodás lehetséges.",
+                "ro": "Popas ferit de vânt posibil.",
+                "en": "Wind-protected stay possible."
+              }
+            },
+            {
+              "name": "Wine Museum",
+              "tip_5lang": {
+                "de": "Hervorragend beheizt im Winter.",
+                "hu": "Kiválóan fűtött télen.",
+                "ro": "Excelent încălzit iarna.",
+                "en": "Excellently heated in winter."
+              }
+            },
+            {
+              "name": "Cellar Row (Lunch)",
+              "tip_5lang": {
+                "de": "Nahe bei der Haltestelle aufwärmen.",
+                "hu": "Melegedjen fel a megálló közelében.",
+                "ro": "Încălziți-vă aproape de stație.",
+                "en": "Warm up near the stop."
+              }
+            },
+            {
+              "name": "Jammertal Wine Region (by bus)",
+              "tip_5lang": {
+                "de": "Busse sind im Winter gut beheizt.",
+                "hu": "A buszok télen jól fűtöttek.",
+                "ro": "Autobuzele sunt bine încălzite iarna.",
+                "en": "Buses are well-heated in winter."
+              }
+            },
+            {
+              "name": "Final Tasting on the Cellar Row",
+              "tip_5lang": {
+                "de": "Beachten Sie den Winterfahrplan.",
+                "hu": "Figyeljen a téli menetrendre.",
+                "ro": "Atenție la mersul autobuzelor iarna.",
+                "en": "Check the winter bus schedule."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Busse sind gut beheizt und bieten eine Pause von der Kälte.",
+              "Das Warten auf den Bus kann lang sein; bleiben Sie in einem Café.",
+              "Das Tageslicht endet früh; die Sicht aus dem Bus ist nach 17 Uhr dunkel.",
+              "Die Museumszeiten könnten im Winter kürzer sein; prüfen Sie den Plan."
+            ],
+            "hu": [
+              "A buszok jól fűtöttek, kellemes pihenőt nyújtanak a hideg után.",
+              "A buszra való várakozás hosszú lehet; maradjon egy közeli kávézóban.",
+              "A nappal korán véget ér; 17 óra után a buszból már sötét a kilátás.",
+              "A múzeumi nyitvatartás télen rövidebb lehet; ellenőrizze előre."
+            ],
+            "ro": [
+              "Autobuzele sunt bine încălzite, oferind o pauză de la frig.",
+              "Așteptarea autobuzului poate fi lungă; stați într-o cafenea apropiată.",
+              "Lumina zilei se termină devreme; vederea din autobuz e întunecată după ora 17.",
+              "Programul muzeului poate fi mai scurt iarna; verificați orarul."
+            ],
+            "en": [
+              "Bus interiors are well-heated, providing a nice break from the cold.",
+              "The wait for the bus can be long; stay in a nearby cafe until the last minute.",
+              "Daylight ends early; the view from the bus will be dark after 17:00.",
+              "Museum hours might be shorter in winter; check the schedule before traveling."
+            ]
+          }
+        }
       }
     }
   }

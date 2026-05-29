@@ -281,6 +281,178 @@
           "The pavements can be uneven, so be careful.",
           "Many cafes offer a perfect spot for a break."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen in Bușteni beginnt besinnlich in der Königlichen Kirche. Mittags bietet das Cezar Petrescu Museum und das Schloss Cantacuzino perfekten Schutz vor dem Wetter. Am Nachmittag spazieren wir zum Caraiman-Kloster, während der Nebel mystisch um die Gipfel wabert. Den Abend lassen wir an der Kalinderu-Piste ausklingen, wo die Bergluft trotz Regen erfrischend wirkt.",
+            "hu": "A reggeli eső elől a Királyi templom nyújt menedéket. Délben a Cezar Petrescu Emlékmúzeum és a Cantacuzino-kastély termeiben kalandozunk, távol a sártól. Délután a Caraiman-kolostor békéje vár ránk a ködös fenyvesek alatt. Az estét a Kalinderu-pálya alján zárjuk, ahol a friss, esőáztatta hegyi levegő átjárja a tüdőnket.",
+            "ro": "O dimineață ploioasă în Bușteni începe cu liniștea Bisericii Domnești. La prânz, Muzeul Cezar Petrescu și Castelul Cantacuzino oferă adăpostul ideal și cultură la interior. După-amiaza vizităm Mănăstirea Caraiman, sub muntele învăluit în ceață. Seara se încheie la baza pârtiei Kalinderu, unde aerul umed de munte este extrem de revigorant.",
+            "en": "A rainy morning in Bușteni starts with the serenity of the Royal Church. At noon, the Cezar Petrescu Museum and Cantacuzino Castle provide perfect indoor shelter and history. In the afternoon, we visit the Caraiman Monastery as mist clings to the Bucegi peaks. The evening ends at the base of Kalinderu Slope, enjoying the fresh, damp mountain air."
+          },
+          "stops": [
+            {
+              "name": "Royal Church",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Innenfresken, während es draußen regnet.",
+                "hu": "Csodálja meg a belső freskókat, amíg odakint esik az eső.",
+                "ro": "Admirați frescele interioare în timp ce plouă afară.",
+                "en": "Admire the interior frescoes while it rains outside."
+              }
+            },
+            {
+              "name": "Cezar Petrescu Memorial Museum",
+              "tip_5lang": {
+                "de": "Idealer Ort, um die Zeit bei einer literarischen Tour zu vergessen.",
+                "hu": "Ideális hely az idő elütésére egy irodalmi túra keretében.",
+                "ro": "Locul ideal pentru a petrece timpul într-un tur literar.",
+                "en": "Ideal place to spend time on a literary tour."
+              }
+            },
+            {
+              "name": "Cantacuzino Castle",
+              "tip_5lang": {
+                "de": "Die Cafeteria bietet einen tollen Blick auf den vernebelten Berg.",
+                "hu": "A kávézó remek kilátást nyújt a ködös hegyoldalra.",
+                "ro": "Cafeneaua oferă o priveliște superbă spre muntele înnorat.",
+                "en": "The cafeteria offers a great view of the misty mountain."
+              }
+            },
+            {
+              "name": "Caraiman Monastery",
+              "tip_5lang": {
+                "de": "Vorsicht auf den gepflasterten Wegen, sie können rutschig sein.",
+                "hu": "Vigyázat a kövezett utakon, esőben csúszósak lehetnek.",
+                "ro": "Atenție pe aleile pietruite, pot fi alunecoase pe ploaie.",
+                "en": "Careful on the paved paths, they can be slippery in the rain."
+              }
+            },
+            {
+              "name": "Stroll at the base of Kalinderu Slope",
+              "tip_5lang": {
+                "de": "Ein kurzer Spaziergang ist auch mit Regenschirm angenehm.",
+                "hu": "Egy rövid séta esernyővel is kellemes a hegyi levegőn.",
+                "ro": "O scurtă plimbare cu umbrela este plăcută în aerul de munte.",
+                "en": "A short walk with an umbrella is pleasant in the mountain air."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Wanderschuhe für die asphaltierten Wege.",
+              "Das Schloss Cantacuzino ist der beste Ort für längere Regenschauer.",
+              "Die Bergnebel können die Sicht auf das Caraiman-Kreuz stark einschränken.",
+              "Ein stabiler Regenschirm ist bei Gebirgswinden wichtig.",
+              "Wärmen Sie sich nach dem Spaziergang mit einem Tee in einem lokalen Café auf."
+            ],
+            "hu": [
+              "Viseljen vízálló túracipőt az aszfaltozott utakon is.",
+              "A Cantacuzino-kastély a legjobb hely a hosszabb záporok idején.",
+              "A hegyi köd teljesen elfedheti a Caraiman-kereszt kilátását.",
+              "Egy stabil esernyő fontos az erős hegyi szélben.",
+              "A séta után melegedjen fel egy teával valamelyik helyi kávézóban."
+            ],
+            "ro": [
+              "Purtați încălțăminte de munte impermeabilă chiar și pe asfalt.",
+              "Castelul Cantacuzino este cel mai bun refugiu în timpul ploilor lungi.",
+              "Ceața montană poate ascunde complet vizibilitatea spre Crucea Caraiman.",
+              "O umbrelă stabilă este esențială din cauza vântului de munte.",
+              "După plimbare, încălziți-vă cu un ceai la o cafenea locală."
+            ],
+            "en": [
+              "Wear waterproof hiking shoes even for paved roads.",
+              "Cantacuzino Castle is the best shelter during long showers.",
+              "Mountain mist can completely hide the view of the Caraiman Cross.",
+              "A sturdy umbrella is important due to mountain winds.",
+              "Warm up with a tea at a local café after your walk."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein glitzernder Wintermorgen beginnt an der verschneiten Königlichen Kirche. Mittags wärmen wir uns im Cezar Petrescu Museum auf, bevor wir das märchenhafte Schloss Cantacuzino besuchen. Der Nachmittag gehört der Stille des Caraiman-Klosters inmitten weißer Tannen. Den Abend verbringen wir im lebhaften Treiben an der Kalinderu-Piste, wo die Skifahrer im Flutlicht fahren.",
+            "hu": "A csillogó téli reggel a havas Királyi templomnál kezdődik. Délben a Cezar Petrescu Múzeumban melegszünk fel, majd a mesebeli Cantacuzino-kastélyt látogatjuk meg. A délutáni csendet a Caraiman-kolostor fehér fenyői között élvezzük. Az estét a Kalinderu-pálya pezsgő hangulatában zárjuk, ahol a síelők villanyfénynél siklanak.",
+            "ro": "O dimineață sclipitoare de iarnă începe la Biserica Domnească înzăpezită. La prânz ne încălzim la Muzeul Cezar Petrescu, apoi vizităm castelul de basm Cantacuzino. După-amiaza aparține liniștii Mănăstirii Caraiman printre brazi albi. Seara o petrecem în freamătul pârtiei Kalinderu, unde schiorii coboară sub lumina nocturnei.",
+            "en": "A glittering winter morning starts at the snowy Royal Church. At noon, we warm up in the Cezar Petrescu Museum before visiting the fairytale-like Cantacuzino Castle. The afternoon is spent in the silence of Caraiman Monastery among white fir trees. The evening ends in the lively atmosphere of Kalinderu Slope, watching skiers under the floodlights."
+          },
+          "stops": [
+            {
+              "name": "Royal Church",
+              "tip_5lang": {
+                "de": "Vorsicht vor Eis auf den Stufen des Kircheneingangs.",
+                "hu": "Vigyázzon a jégre a templom bejáratának lépcsőin.",
+                "ro": "Atenție la gheața de pe treptele de la intrarea în biserică.",
+                "en": "Watch out for ice on the steps of the church entrance."
+              }
+            },
+            {
+              "name": "Cezar Petrescu Memorial Museum",
+              "tip_5lang": {
+                "de": "Genießen Sie die gemütliche Atmosphäre des alten Schriftstellerhauses.",
+                "hu": "Élvezze a régi íróház hangulatos, meleg légkörét.",
+                "ro": "Bucurați-vă de atmosfera primitoare a vechii case memoriale.",
+                "en": "Enjoy the cozy, warm atmosphere of the old writer's house."
+              }
+            },
+            {
+              "name": "Cantacuzino Castle",
+              "tip_5lang": {
+                "de": "Der Park ist im Schnee besonders fotogen, tragen Sie feste Schuhe.",
+                "hu": "A park különösen fotogén a hóban, viseljen bordázott talpú cipőt.",
+                "ro": "Parcul este extrem de fotogenic în zăpadă, purtați ghete aderente.",
+                "en": "The park is very photogenic in the snow, wear grippy boots."
+              }
+            },
+            {
+              "name": "Caraiman Monastery",
+              "tip_5lang": {
+                "de": "Die Aussicht auf die verschneiten Bucegi-Felsen ist spektakulär.",
+                "hu": "A havas Bucegi-sziklákra nyíló kilátás ilyenkor lenyűgöző.",
+                "ro": "Priveliștea spre stâncile Bucegilor înzăpeziți este spectaculoasă.",
+                "en": "The view towards the snowy Bucegi cliffs is spectacular."
+              }
+            },
+            {
+              "name": "Stroll at the base of Kalinderu Slope",
+              "tip_5lang": {
+                "de": "Perfekter Ort für einen Glühwein bei Sonnenuntergang (ca. 16:30).",
+                "hu": "Tökéletes hely egy forralt borhoz naplementekor (kb. 16:30).",
+                "ro": "Locul perfect pentru un vin fiert la apus (aprox. 16:30).",
+                "en": "Perfect spot for a mulled wine at sunset (around 16:30)."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermokleidung, die Temperaturen fallen oft unter null.",
+              "Die Sonne geht im Tal gegen 16:30 Uhr hinter den Bergen unter.",
+              "Einige Wege zum Kloster können vereist und rutschig sein.",
+              "Besuchen Sie die Kalinderu-Piste für echtes Winterflair.",
+              "Kombinieren Sie den Spaziergang mit Aufenthalten in geheizten Innenräumen."
+            ],
+            "hu": [
+              "Viseljen aláöltözetet, a hőmérséklet gyakran fagypont alatt marad.",
+              "A nap a völgyben már 16:30 körül eltűnik a hegyek mögött.",
+              "A kolostorhoz vezető utak jegesek és csúszósak lehetnek.",
+              "Látogasson el a Kalinderu-pályához az igazi téli hangulatért.",
+              "Kombinálja a sétát fűtött beltéri helyszínek látogatásával."
+            ],
+            "ro": [
+              "Purtați haine termice, temperaturile scad des sub zero grade.",
+              "Soarele apune după munți în vale în jurul orei 16:30.",
+              "Unele poteci spre mănăstire pot fi înghețate și alunecoase.",
+              "Mergeți la baza pârtiei Kalinderu pentru atmosfera autentică de iarnă.",
+              "Combinați plimbarea cu opriri în spații interioare încălzite."
+            ],
+            "en": [
+              "Wear thermal layers, temperatures often stay below freezing.",
+              "The sun sets behind the mountains in the valley around 16:30.",
+              "Some paths to the monastery can be icy and slippery.",
+              "Visit the Kalinderu Slope base for a true winter vibe.",
+              "Balance your walk with visits to heated indoor locations."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -556,6 +728,178 @@
           "Wear a helmet and bright clothing.",
           "Always lock your bike when you leave it."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen starten wir die Radtour zum Schloss Cantacuzino, wo gepflasterte Wege sicher sind. Am Mittag besuchen wir das Caraiman-Kloster unter dunstigem Himmel. Die Fahrt zum Urlătoarea-Wasserfall erfordert Vorsicht auf dem Waldweg. Den Nachmittag verbringen wir im Zentrum bei der Königlichen Kirche, bevor wir den Tag an der Kalinderu-Piste beenden.",
+            "hu": "Az eső ellenére bringára pattanunk, a Cantacuzino-kastély aszfaltozott útjai biztonságosak. Délben a Caraiman-kolostort érintjük a párás hegyoldalban. Az Urlătoarea-vízesés felé vezető erdei út óvatosságot igényel. Délután a központban, a Királyi templomnál pihenünk, majd a Kalinderu-pályánál zárjuk a kört.",
+            "ro": "În ciuda ploii, pornim tura de bicicletă spre Castelul Cantacuzino, unde drumul este sigur. La prânz trecem pe la Mănăstirea Caraiman sub cerul lăptos. Drumul spre cascada Urlătoarea necesită prudență pe segmentul de pădure. După-amiaza stăm în centru la Biserica Domnească, încheind ziua la baza pârtiei Kalinderu.",
+            "en": "Despite the rain, we bike to Cantacuzino Castle, where paved access remains safe. At noon, we reach Caraiman Monastery under misty skies. Biking to the Urlătoarea trailhead requires caution on the forest path. We spend the afternoon near the Royal Church, finishing the loop at the Kalinderu Slope."
+          },
+          "stops": [
+            {
+              "name": "Cantacuzino Castle",
+              "tip_5lang": {
+                "de": "Pflastersteine im Schlosshof können bei Nässe extrem rutschig sein.",
+                "hu": "A kastély udvarának macskakövei nedvesen nagyon csúszhatnak.",
+                "ro": "Pavelele din curtea castelului pot fi extrem de alunecoase pe ud.",
+                "en": "Cobblestones in the castle courtyard can be very slippery when wet."
+              }
+            },
+            {
+              "name": "Caraiman Monastery",
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Bereiche für eine kurze Trinkpause.",
+                "hu": "Használja a fedett részeket egy rövid frissítő szünetre.",
+                "ro": "Folosiți zonele acoperite pentru o scurtă pauză de hidratare.",
+                "en": "Use the covered areas for a quick hydration break."
+              }
+            },
+            {
+              "name": "Urlătoarea Waterfall Trailhead",
+              "tip_5lang": {
+                "de": "Waldwege sind schlammig; Bremsen rechtzeitig prüfen.",
+                "hu": "Az erdei utak sárgaek; időben ellenőrizze a fékeket.",
+                "ro": "Potecile de pădure sunt noroioase; verificați frânele din timp.",
+                "en": "Forest paths are muddy; check your brakes in advance."
+              }
+            },
+            {
+              "name": "Royal Church",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad sicher und trocken unter einem Vordach ab.",
+                "hu": "Támassza le a biciklit egy száraz helyre az ereszkedő alatt.",
+                "ro": "Parcați bicicleta într-un loc uscat sub o streașină.",
+                "en": "Park your bike in a dry spot under an eave."
+              }
+            },
+            {
+              "name": "Base of Kalinderu Ski Slope",
+              "tip_5lang": {
+                "de": "Die Asphaltstraße hierher ist gut befahrbar, aber nass.",
+                "hu": "Az idevezető aszfaltút jól járható, de vizes.",
+                "ro": "Drumul asfaltat până aici este practicabil, dar ud.",
+                "en": "The paved road here is accessible but wet."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Benutzen Sie Schutzbleche, um sich vor Spritzwasser zu schützen.",
+              "Vermeiden Sie bei starkem Regen steile Waldwege wegen Schlamm.",
+              "Tragen Sie eine auffällige Regenjacke für bessere Sichtbarkeit.",
+              "Prüfen Sie Ihre Bremsen regelmäßig, da Nässe die Bremswirkung mindert.",
+              "Die Hauptstraßen in Bușteni sind meist besser drainiert als Nebenwege."
+            ],
+            "hu": [
+              "Használjon sárvédőt a felcsapódó víz és sár ellen.",
+              "Erős esőben kerülje a meredek erdei utakat a sár miatt.",
+              "Viseljen feltűnő esőkabátot a jobb láthatóság érdekében.",
+              "Rendszeresen ellenőrizze a fékeket, a vizes felni rontja a hatásfokot.",
+              "Bușteni főútjai általában jobban elvezetik a vizet, mint a mellékutcák."
+            ],
+            "ro": [
+              "Folosiți apărători pentru a vă proteja de apă și noroi.",
+              "Evitați potecile abrupte de pădure pe ploaie torențială din cauza noroiului.",
+              "Purtați o jachetă de ploaie reflectorizantă pentru vizibilitate.",
+              "Verificați frânele des, deoarece umiditatea scade eficiența.",
+              "Drumurile principale din Bușteni sunt mai bine drenate decât aleile."
+            ],
+            "en": [
+              "Use mudguards to protect yourself from water spray.",
+              "Avoid steep forest trails during heavy rain due to mud.",
+              "Wear a high-visibility rain jacket for safety.",
+              "Check your brakes often as wet rims decrease efficiency.",
+              "Main roads in Bușteni usually drain better than side streets."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Radtour führt uns zuerst zum Schloss Cantacuzino, wo der geräumte Weg gut befahrbar ist. Mittags erreichen wir das Caraiman-Kloster, umgeben von schneebedeckten Gipfeln. Die Fahrt zum Wasserfall-Trailhead ist bei Kälte kurz und knackig. Nachmittags besuchen wir die Königliche Kirche im Zentrum und beenden die Tour bei Flutlicht an der Kalinderu-Piste.",
+            "hu": "A téli bringázást a Cantacuzino-kastélynál kezdjük, ahol a takarított út jól járható. Délben a Caraiman-kolostort érintjük a havas csúcsok árnyékában. A vízeséshez vezető út rövid és csípős a hidegben. Délután a Királyi templomnál járunk, majd a Kalinderu-pálya esti fényei mellett fejezzük be a tekerést.",
+            "ro": "Tura de iarnă pe bicicletă începe la Castelul Cantacuzino, pe drumul curățat. La prânz ajungem la Mănăstirea Caraiman, sub crestele înzăpezite. Drumul spre cascada Urlătoarea este scurt și rece. După-amiaza vizităm Biserica Domnească, finalizând tura sub luminile nocturnei de la Kalinderu.",
+            "en": "Our winter bike ride starts at Cantacuzino Castle, using cleared roads. At noon, we reach Caraiman Monastery under the snowy peaks. The ride to the waterfall trailhead is short and crisp in the cold. In the afternoon, we visit the Royal Church and finish at the Kalinderu Slope under the bright floodlights."
+          },
+          "stops": [
+            {
+              "name": "Cantacuzino Castle",
+              "tip_5lang": {
+                "de": "Achten Sie auf überfrorene Pfützen in schattigen Bereichen.",
+                "hu": "Ügyeljen a megfagyott tócsákra az árnyékos részeken.",
+                "ro": "Atenție la bălțile înghețate în zonele cu umbră.",
+                "en": "Watch out for frozen puddles in shaded areas."
+              }
+            },
+            {
+              "name": "Caraiman Monastery",
+              "tip_5lang": {
+                "de": "Der Anstieg hält Sie warm, aber die Abfahrt wird windig.",
+                "hu": "A felfelé vezető út felmelegít, de a lejtőn hideg lesz a szél.",
+                "ro": "Urcarea vă va încălzi, dar coborârea va fi foarte rece.",
+                "en": "The climb will keep you warm, but the descent will be windy."
+              }
+            },
+            {
+              "name": "Urlătoarea Waterfall Trailhead",
+              "tip_5lang": {
+                "de": "Vorsicht bei Schnee auf dem Weg; niedrigerer Reifendruck hilft.",
+                "hu": "Vigyázat, ha havas az út; az alacsonyabb guminyomás segít.",
+                "ro": "Atenție dacă e zăpadă pe drum; presiunea mică în pneuri ajută.",
+                "en": "Careful if the road is snowy; lower tire pressure helps with grip."
+              }
+            },
+            {
+              "name": "Royal Church",
+              "tip_5lang": {
+                "de": "Machen Sie eine kurze Pause, um die Finger aufzuwärmen.",
+                "hu": "Tartson egy rövid szünetet, hogy felmelegítse az ujjait.",
+                "ro": "Faceți o scurtă pauză pentru a vă încălzi degetele.",
+                "en": "Take a short break to warm up your fingers."
+              }
+            },
+            {
+              "name": "Base of Kalinderu Ski Slope",
+              "tip_5lang": {
+                "de": "Viel Fußgängerverkehr durch Skifahrer; fahren Sie vorsichtig.",
+                "hu": "Nagy a gyalogosforgalom a síelők miatt; tekerjen óvatosan.",
+                "ro": "Trafic pietonal intens din cauza schiorilor; circulați cu grijă.",
+                "en": "Heavy pedestrian traffic due to skiers; bike carefully."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Handschuhe und eine Mütze unter dem Helm.",
+              "Streusalz auf den Straßen kann die Fahrradkette angreifen; danach reinigen.",
+              "Die Sonne verschwindet früh; Licht am Fahrrad ist ab 16:00 Pflicht.",
+              "Vermeiden Sie scharfes Bremsen auf eventuellen Eisplatten.",
+              "Trinken Sie auch bei Kälte genug, am besten warmen Tee."
+            ],
+            "hu": [
+              "Viseljen szélálló kesztyűt és sisak alatti sapkát.",
+              "Az utakon lévő só kikezdheti a láncot; tisztítsa le túra után.",
+              "A nap korán lemegy; 16:00 után kötelező a világítás.",
+              "Kerülje a hirtelen fékezést az esetleges jégfoltokon.",
+              "Hidegben is igyon eleget, lehetőleg meleg teát."
+            ],
+            "ro": [
+              "Purtați mănuși rezistente la vânt și o căciulă sub cască.",
+              "Sarea de pe drum poate afecta lanțul; curățați-l după tură.",
+              "Soarele apune devreme; luminile sunt obligatorii după ora 16:00.",
+              "Evitați frânarea bruscă pe eventualele porțiuni cu gheață.",
+              "Hidratați-vă chiar dacă e frig, ideal cu ceai cald."
+            ],
+            "en": [
+              "Wear windproof gloves and a skull cap under your helmet.",
+              "Road salt can corrode your chain; clean it after the ride.",
+              "The sun sets early; bike lights are a must after 16:00.",
+              "Avoid sharp braking on potential icy patches.",
+              "Stay hydrated even in the cold; warm tea is best."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -860,6 +1204,196 @@
           "Keep change handy for parking meters.",
           "Fill up your gas tank before heading into the mountain areas."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag beginnt an der Seilbahnstation, wobei wir die Wettervorhersage für die Gipfel prüfen. Mittags besuchen wir das Schloss Cantacuzino, das bequem mit dem Auto erreichbar ist. Danach geht es zum Caraiman-Kloster und zur Königlichen Kirche im Stadtzentrum. Den Tag beenden wir am Trailhead zum Wasserfall, wo der Wald bei Regen besonders intensiv duftet.",
+            "hu": "Az esős napot a felvonónál kezdjük, ellenőrizve a fenti látási viszonyokat. Délben a Cantacuzino-kastélyt látogatjuk meg, amely autóval kényelmesen megközelíthető. Ezután a Caraiman-kolostor és a Királyi templom következik a városközpontban. A napot a vízeséshez vezető ösvénynél zárjuk, ahol az esőben friss erdőillat vár.",
+            "ro": "O zi ploioasă începe la telecabină, verificând prognoza pentru platou. La prânz vizităm Castelul Cantacuzino, accesibil confortabil cu mașina. Urmează Mănăstirea Caraiman și Biserica Domnească din centrul orașului. Încheiem ziua la intrarea spre cascadă, unde pădurea miroase superb după ploaie.",
+            "en": "A rainy day starts at the cable car station, checking the weather for the peaks. At noon, we visit Cantacuzino Castle, easily reached by car. Next are Caraiman Monastery and the Royal Church in the center. We finish the day at the waterfall trailhead, where the forest smells wonderful in the rain."
+          },
+          "stops": [
+            {
+              "name": "Bușteni Cable Car",
+              "tip_5lang": {
+                "de": "Prüfen Sie, ob die Seilbahn bei starkem Wind überhaupt fährt.",
+                "hu": "Ellenőrizze, hogy a felvonó jár-e erős szélben.",
+                "ro": "Verificați dacă telecabina funcționează pe vânt puternic.",
+                "en": "Check if the cable car is operating during high winds."
+              }
+            },
+            {
+              "name": "Heroes' Cross on Caraiman Peak (View)",
+              "tip_5lang": {
+                "de": "Bei Regen ist die Sicht oft gleich null; Kameraschutz mitnehmen.",
+                "hu": "Esőben a látótávolság gyakran nulla; védje a fényképezőgépét.",
+                "ro": "Pe ploaie vizibilitatea este adesea zero; protejați camera foto.",
+                "en": "In rain, visibility is often zero; protect your camera gear."
+              }
+            },
+            {
+              "name": "Cantacuzino Castle",
+              "tip_5lang": {
+                "de": "Es gibt einen Parkplatz direkt vor dem Eingangsbereich.",
+                "hu": "Közvetlenül a bejáratnál található parkoló az autók számára.",
+                "ro": "Există o parcare chiar în fața zonei de intrare.",
+                "en": "There is a parking lot right in front of the entrance area."
+              }
+            },
+            {
+              "name": "Caraiman Monastery",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist nah am Kloster, ideal bei Schauern.",
+                "hu": "A parkoló közel van a kolostorhoz, ideális záporok idején.",
+                "ro": "Parcarea este aproape de mănăstire, ideal în caz de aversă.",
+                "en": "The parking is close to the monastery, ideal during showers."
+              }
+            },
+            {
+              "name": "Royal Church",
+              "tip_5lang": {
+                "de": "Parkplätze im Zentrum können bei Regen knapp sein.",
+                "hu": "A központi parkolóhelyek esőben hamar betelhetnek.",
+                "ro": "Locurile de parcare din centru se pot ocupa rapid pe ploaie.",
+                "en": "Parking spots in the center can fill up quickly in the rain."
+              }
+            },
+            {
+              "name": "Urlătoarea Waterfall Trailhead",
+              "tip_5lang": {
+                "de": "Parken Sie am Straßenrand und achten Sie auf Pfützen.",
+                "hu": "Parkoljon az út szélén, és ügyeljen a mély tócsákra.",
+                "ro": "Parcați pe marginea drumului și atenție la bălți.",
+                "en": "Park on the roadside and watch out for deep puddles."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie vor der Fahrt zur Seilbahn die Windgeschwindigkeit.",
+              "Die Bergstraße zum Schloss kann bei Starkregen kleine Rinnsale führen.",
+              "Nutzen Sie die Parkmöglichkeiten direkt an den Sehenswürdigkeiten.",
+              "Die Sicht auf die Berge ist bei Regen oft durch tiefe Wolken verdeckt.",
+              "Halten Sie eine Taschenlampe bereit, falls Sie spät am Wasserfall sind."
+            ],
+            "hu": [
+              "A felvonóhoz indulás előtt ellenőrizze a szélsebességet.",
+              "A kastélyhoz vezető út nagy esőben vizes lehet.",
+              "Használja a látványosságok melletti közvetlen parkolókat.",
+              "A hegyekre nyíló kilátást esőben gyakran elfedik az alacsony felhők.",
+              "Legyen önnél zseblámpa, ha későn érne a vízeséshez."
+            ],
+            "ro": [
+              "Verificați viteza vântului înainte de a merge la telecabină.",
+              "Drumul spre castel poate avea scurgeri de apă la ploaie torențială.",
+              "Folosiți parcările situate direct lângă obiective.",
+              "Priveliștea spre munți este adesea blocată de nori joși pe ploaie.",
+              "Aveți o lanternă la îndemână dacă ajungeți târziu la cascadă."
+            ],
+            "en": [
+              "Check wind speeds before heading to the cable car.",
+              "The road to the castle may have runoff during heavy rain.",
+              "Use the parking lots located directly at the attractions.",
+              "Mountain views are often obscured by low clouds in the rain.",
+              "Keep a flashlight ready if you are late at the waterfall."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintertag beginnt an der Seilbahn, die uns in die schneeweißen Bucegi-Berge bringt. Mittags besuchen wir das festlich beleuchtete Schloss Cantacuzino. Nachmittags geht es zum Caraiman-Kloster und zur Königlichen Kirche, wo der Schnee die Stille unterstreicht. Den Tag beschließen wir am Trailhead zum Wasserfall, umgeben von eisigen Felsen.",
+            "hu": "A téli napot a felvonónál kezdjük, amely a hófehér Bucegi-hegyekbe repít. Délben a díszesen kivilágított Cantacuzino-kastélyt keressük fel. Délután a Caraiman-kolostor és a Királyi templom következik, ahol a hó elnyeli a zajokat. A napot a vízesés bejáratánál zárjuk a jeges sziklák között.",
+            "ro": "O zi de iarnă începe la telecabină, care ne duce în Bucegii albi de zăpadă. La prânz vizităm Castelul Cantacuzino, decorat festiv. După-amiaza mergem la Mănăstirea Caraiman și Biserica Domnească, unde zăpada accentuează liniștea. Încheiem ziua la intrarea spre cascadă, printre stânci înghețate.",
+            "en": "A winter day starts at the cable car, taking us up to the snowy Bucegi Mountains. At noon, we visit the festively lit Cantacuzino Castle. In the afternoon, we head to Caraiman Monastery and the Royal Church, where snow muffles all sounds. We end the day at the waterfall trailhead among icy cliffs."
+          },
+          "stops": [
+            {
+              "name": "Bușteni Cable Car",
+              "tip_5lang": {
+                "de": "Planen Sie Wartezeiten ein; Skifahrer nutzen die Bahn oft.",
+                "hu": "Számoljon várakozási idővel; a síelők is ezt használják.",
+                "ro": "Anticipați timpi de așteptare; schiorii folosesc des cabina.",
+                "en": "Expect waiting times; skiers frequently use the cable car."
+              }
+            },
+            {
+              "name": "Heroes' Cross on Caraiman Peak (View)",
+              "tip_5lang": {
+                "de": "Oben ist es viel kälter; dicke Handschuhe sind Pflicht.",
+                "hu": "Fent sokkal hidegebb van; a vastag kesztyű kötelező.",
+                "ro": "Sus este mult mai frig; mănușile groase sunt obligatorii.",
+                "en": "It's much colder up top; thick gloves are a must."
+              }
+            },
+            {
+              "name": "Cantacuzino Castle",
+              "tip_5lang": {
+                "de": "Der Parkplatz kann bei Schnee matschig oder glatt sein.",
+                "hu": "A parkoló havas időben sáros vagy jeges lehet.",
+                "ro": "Parcarea poate fi noroioasă sau alunecoasă pe zăpadă.",
+                "en": "The parking lot can be muddy or slippery in the snow."
+              }
+            },
+            {
+              "name": "Caraiman Monastery",
+              "tip_5lang": {
+                "de": "Gute Winterreifen sind für den kurzen Anstieg notwendig.",
+                "hu": "Jó téli gumik szükségesek a rövid emelkedőhöz.",
+                "ro": "Anvelopele de iarnă sunt necesare pentru urcarea scurtă.",
+                "en": "Good winter tires are necessary for the short climb."
+              }
+            },
+            {
+              "name": "Royal Church",
+              "tip_5lang": {
+                "de": "Zentraler Ort, um kurz im warmen Auto Pause zu machen.",
+                "hu": "Központi hely, ahol egy rövid szünetet tarthat a fűtött autóban.",
+                "ro": "Loc central unde puteți face o pauză scurtă în mașina caldă.",
+                "en": "Central spot where you can take a short break in the warm car."
+              }
+            },
+            {
+              "name": "Urlătoarea Waterfall Trailhead",
+              "tip_5lang": {
+                "de": "Parken Sie sicher, bevor die Straße zu glatt wird.",
+                "hu": "Parkoljon biztonságos helyen, mielőtt az út túl jeges lesz.",
+                "ro": "Parcați în siguranță înainte ca drumul să devină prea alunecos.",
+                "en": "Park safely before the road becomes too slippery."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen und Schneeketten sind im Gebirge Pflicht.",
+              "Die Seilbahn kann bei starkem Wind oder Schneesturm schließen.",
+              "Füllen Sie Frostschutzmittel in die Scheibenwaschanlage.",
+              "Die Dämmerung beginnt früh; planen Sie Ihre Rückfahrt vor 17:00.",
+              "Prüfen Sie die Batterie Ihres Autos vor der Fahrt in die Kälte."
+            ],
+            "hu": [
+              "Téli gumi és hólánc kötelező a hegyekben.",
+              "A felvonó erős szélben vagy hóviharban leállhat.",
+              "Töltsön fagyállót a szélvédőmosó tartályba.",
+              "A szürkület korán kezdődik; tervezze a visszautat 17:00 elé.",
+              "Ellenőrizze az autó akkumulátorát a hideg túra előtt."
+            ],
+            "ro": [
+              "Anvelopele de iarnă și lanțurile sunt obligatorii la munte.",
+              "Telecabina se poate închide pe vânt puternic sau viscol.",
+              "Puneți lichid de parbriz rezistent la îngheț.",
+              "Amurgul vine devreme; planificați întoarcerea înainte de 17:00.",
+              "Verificați bateria mașinii înainte de drumul la munte."
+            ],
+            "en": [
+              "Winter tires and snow chains are mandatory in the mountains.",
+              "The cable car may close during high winds or blizzards.",
+              "Use winter-grade windshield washer fluid.",
+              "Dusk comes early; plan your return trip before 17:00.",
+              "Check your car battery before heading into the cold."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1140,6 +1674,178 @@
           "Check the weather forecast for the mountain top before taking the cable car.",
           "Buses can be crowded, so be prepared to stand."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag startet an der Seilbahnstation im Tal. Mittags nehmen wir den Bus oder ein Taxi zum Schloss Cantacuzino, um trocken zu bleiben. Am Nachmittag besuchen wir das Caraiman-Kloster und spazieren zur nahen Königlichen Kirche. Wir beenden den Tag mit einem Blick auf die vernebelten Berge, bevor wir den Zug oder Bus zurück nehmen.",
+            "hu": "Az esős nap a völgyi felvonóállomáson kezdődik. Délben busszal vagy taxival megyünk a Cantacuzino-kastélyhoz, hogy szárazon maradjunk. Délután a Caraiman-kolostort és a közeli Királyi templomot érintjük. A napot a ködbe vesző hegyek látványával zárjuk, mielőtt visszatérnénk a buszhoz vagy vonathoz.",
+            "ro": "O zi ploioasă începe la stația de telecabină din vale. La prânz luăm autobuzul sau un taxi spre Castelul Cantacuzino pentru a rămâne uscați. După-amiaza vizităm Mănăstirea Caraiman și Biserica Domnească. Încheiem ziua cu imaginea munților în ceață, înainte de a lua trenul sau autobuzul înapoi.",
+            "en": "A rainy day starts at the valley cable car station. At noon, we take a bus or taxi to Cantacuzino Castle to stay dry. In the afternoon, we visit Caraiman Monastery and the nearby Royal Church. We end the day with views of the misty mountains before catching the bus or train back."
+          },
+          "stops": [
+            {
+              "name": "Bușteni Cable Car",
+              "tip_5lang": {
+                "de": "Das Bahnhofsviertel ist nur 15 Minuten zu Fuß entfernt.",
+                "hu": "A vasútállomás környéke mindössze 15 perc séta innen.",
+                "ro": "Zona gării este la doar 15 minute de mers pe jos.",
+                "en": "The train station area is just a 15-minute walk away."
+              }
+            },
+            {
+              "name": "Bucegi Plateau & Cross View",
+              "tip_5lang": {
+                "de": "Wenn die Sicht schlecht ist, bleiben Sie lieber im Tal.",
+                "hu": "Ha rossz a látótávolság, maradjon inkább a völgyben.",
+                "ro": "Dacă vizibilitatea e proastă, e mai bine să rămâneți în vale.",
+                "en": "If visibility is poor, it's better to stay in the valley."
+              }
+            },
+            {
+              "name": "Cantacuzino Castle",
+              "tip_5lang": {
+                "de": "Busse halten an der Hauptstraße; kurzer Fußweg bergauf.",
+                "hu": "A buszok a főúton állnak meg; rövid séta felfelé.",
+                "ro": "Autobuzele opresc la drumul principal; urcare scurtă pe jos.",
+                "en": "Buses stop on the main road; a short walk uphill follows."
+              }
+            },
+            {
+              "name": "Caraiman Monastery",
+              "tip_5lang": {
+                "de": "Taxis sind bei Regen eine günstige und trockene Option.",
+                "hu": "Taxiszállítás esőben olcsó és száraz megoldás lehet.",
+                "ro": "Taxisurile sunt o opțiune ieftină și uscată pe ploaie.",
+                "en": "Taxis are a cheap and dry option during rainy weather."
+              }
+            },
+            {
+              "name": "Royal Church",
+              "tip_5lang": {
+                "de": "In der Nähe gibt es Cafés zum Warten auf den nächsten Bus.",
+                "hu": "A közelben kávézók várják, amíg a következő busz megérkezik.",
+                "ro": "Există cafenele în apropiere unde puteți aștepta autobuzul.",
+                "en": "There are cafes nearby where you can wait for the bus."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die App der rumänischen Bahn (CFR) für aktuelle Zugzeiten.",
+              "Taxis in Bușteni sind für kurze Strecken zum Schloss sehr praktisch.",
+              "Tragen Sie eine wasserfeste Jacke für den Weg zwischen den Haltestellen.",
+              "Die Bushaltestellen sind meist nicht überdacht; Regenschirm mitnehmen.",
+              "Die Hauptstraße DN1 kann bei Regen viel Verkehr haben; Zeit einplanen."
+            ],
+            "hu": [
+              "Használja a román vasút (CFR) applikációját a pontos menetrendhez.",
+              "A helyi taxik praktikusak a kastélyhoz vezető rövid úton.",
+              "Viseljen vízálló kabátot a megállók közötti sétákhoz.",
+              "A buszmegállók többnyire nem fedettek; legyen önnél esernyő.",
+              "A DN1 főúton esőben nagy lehet a forgalom; számoljon plusz idővel."
+            ],
+            "ro": [
+              "Folosiți aplicația CFR pentru orarul actualizat al trenurilor.",
+              "Taxisurile locale sunt practice pentru distanța scurtă până la castel.",
+              "Purtați o jachetă impermeabilă pentru mersul între stații.",
+              "Stațiile de autobuz nu sunt mereu acoperite; luați o umbrelă.",
+              "Traficul pe DN1 poate fi intens pe ploaie; alocați timp suplimentar."
+            ],
+            "en": [
+              "Use the Romanian Railways (CFR) app for updated train schedules.",
+              "Local taxis are practical for the short distance to the castle.",
+              "Wear a waterproof jacket for the walks between stops.",
+              "Bus stops are mostly uncovered; bring an umbrella.",
+              "Traffic on the DN1 main road can be heavy; allow extra time."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintertag beginnt am Bahnhof von Bușteni, von wo wir zur Seilbahn laufen. Mittags bringt uns ein Taxi zum verschneiten Schloss Cantacuzino. Den Nachmittag verbringen wir im ruhigen Caraiman-Kloster und besuchen die Königliche Kirche. Vor der Rückfahrt wärmen wir uns in einem Café im Zentrum auf, während es draußen schneit.",
+            "hu": "A téli nap a vasútállomáson kezdődik, ahonnan a felvonóhoz sétálunk. Délben taxival megyünk a havas Cantacuzino-kastélyhoz. A délutánt a csendes Caraiman-kolostornál és a Királyi templomnál töltjük. Visszautazás előtt egy központi kávézóban melegszünk fel, miközben odakint hull a hó.",
+            "ro": "O zi de iarnă începe la gara din Bușteni, de unde mergem spre telecabină. La prânz un taxi ne duce la Castelul Cantacuzino înzăpezit. După-amiaza o petrecem la Mănăstirea Caraiman și Biserica Domnească. Înainte de plecare ne încălzim la o cafenea în timp ce afară ninge.",
+            "en": "A winter day starts at the Bușteni train station, from where we walk to the cable car. At noon, a taxi takes us to the snowy Cantacuzino Castle. We spend the afternoon at the quiet Caraiman Monastery and the Royal Church. Before leaving, we warm up in a central cafe while snow falls outside."
+          },
+          "stops": [
+            {
+              "name": "Bușteni Cable Car",
+              "tip_5lang": {
+                "de": "Der Gehweg vom Bahnhof kann rutschig sein; vorsichtig gehen.",
+                "hu": "A vasútállomástól vezető járdák csúszósak lehetnek.",
+                "ro": "Trotuarele de la gară pot fi alunecoase; mergeți cu grijă.",
+                "en": "The sidewalks from the station can be slippery; walk carefully."
+              }
+            },
+            {
+              "name": "Bucegi Plateau & Cross View",
+              "tip_5lang": {
+                "de": "Ziehen Sie sich oben extrem warm an, der Wind ist eisig.",
+                "hu": "Öltözzön nagyon rétegesen, a fenti szél metsző hideg.",
+                "ro": "Îmbrăcați-vă foarte gros, vântul de sus este tăios.",
+                "en": "Dress very warmly, the wind at the top is biting."
+              }
+            },
+            {
+              "name": "Cantacuzino Castle",
+              "tip_5lang": {
+                "de": "Taxis warten oft am Bahnhof oder können gerufen werden.",
+                "hu": "Taxik gyakran várnak az állomáson, vagy hívásra jönnek.",
+                "ro": "Taxisurile așteaptă des la gară sau pot fi comandate.",
+                "en": "Taxis often wait at the station or can be called."
+              }
+            },
+            {
+              "name": "Caraiman Monastery",
+              "tip_5lang": {
+                "de": "Der verschneite Weg ist wunderschön, aber anstrengend.",
+                "hu": "A havas út gyönyörű, de gyalogosan fárasztó lehet.",
+                "ro": "Drumul înzăpezit este superb, dar obositor pe jos.",
+                "en": "The snowy path is beautiful but tiring on foot."
+              }
+            },
+            {
+              "name": "Royal Church",
+              "tip_5lang": {
+                "de": "Nahe am Bahnhof gelegen, ideal als letzter Stopp.",
+                "hu": "Közel van az állomáshoz, ideális utolsó állomásnak.",
+                "ro": "Aproape de gară, ideal ca ultimă oprire.",
+                "en": "Located near the station, ideal as a final stop."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Züge sind im Winter oft zuverlässiger als Busse auf der DN1.",
+              "Vermeiden Sie langes Warten im Freien; nutzen Sie Café-Pausen.",
+              "Die Gehwege in Bușteni werden nicht immer sofort geräumt.",
+              "Beachten Sie die frühen Sonnenuntergangszeiten für Ihre Rückreise.",
+              "Tragen Sie Schuhe mit gutem Profil gegen das Ausrutschen."
+            ],
+            "hu": [
+              "A vonatok télen gyakran megbízhatóbbak a DN1-esen járó buszoknál.",
+              "Kerülje a hosszú kinti várakozást; iktasson be kávézókat.",
+              "A járdákat nem mindenhol takarítják le azonnal a hóesés után.",
+              "Vegye figyelembe a korai naplementét a visszautazáskor.",
+              "Viseljen bordázott talpú cipőt a csúszásveszély ellen."
+            ],
+            "ro": [
+              "Trenurile sunt adesea mai fiabile iarna decât autobuzele pe DN1.",
+              "Evitați așteptarea lungă afară; folosiți pauzele la cafenele.",
+              "Trotuarele din Bușteni nu sunt mereu curățate imediat de zăpadă.",
+              "Țineți cont de apusul devreme pentru călătoria de întoarcere.",
+              "Purtați încălțăminte cu talpă aderentă împotriva alunecării."
+            ],
+            "en": [
+              "Trains are often more reliable than buses on the DN1 in winter.",
+              "Avoid long waits outdoors; use cafe breaks to stay warm.",
+              "Sidewalks in Bușteni are not always cleared of snow immediately.",
+              "Be mindful of early sunset times for your return journey.",
+              "Wear shoes with good tread to prevent slipping on ice."
+            ]
+          }
+        }
       }
     }
   }

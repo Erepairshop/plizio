@@ -379,6 +379,206 @@
           "The climb to Calvary Hill is steep but short.",
           "Check museum opening times, especially on Mondays."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet das Tekov-Museum im Schloss sicheren Schutz vor Regen. Mittags erkunden Sie die Kirchen im Stadtzentrum und finden trockene Plätze in Cafés. Nachmittags ist die Synagoge ein idealer kultureller Rückzugsort im Trockenen. Den Tag beenden Sie mit einem kurzen Spaziergang im Schoeller-Park, dessen dichte Bäume leichten Schutz bieten.",
+            "hu": "A reggelt a lévai várban és a Tekov múzeum fedett kiállításain érdemes tölteni. Délben a belváros templomai és vendéglátóhelyei nyújtanak menedéket az eső elől. Délután a zsinagóga belső tere tökéletes helyszín a kultúrához. A napot a Schoeller-parkban zárhatjuk, ahol a fák lombjai némi védelmet adnak a szemerkélő esőben.",
+            "ro": "Dimineața, Muzeul Tekov din incinta castelului vă oferă un adăpost excelent împotriva ploii. La prânz, bisericile din centru și cafenelele locale sunt locuri primitoare și uscate. După-amiaza, interiorul sinagogii este ideal pentru explorare culturală. Seara, parcul Schoeller oferă o atmosferă melancolică sub protecția parțială a copacilor.",
+            "en": "Start your morning inside the Tekov Museum at the castle to stay dry. At noon, the city center's churches and cafes provide a perfect sanctuary from the rain. Spend your afternoon admiring the synagogue's interior away from the wet weather. End the day with a short walk in Schoeller Park, where the dense canopy offers some shelter."
+          },
+          "stops": [
+            {
+              "name": "Levice Castle",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Rundgang und die Innenräume.",
+                "hu": "Használja a vár fedett körfolyosóit és belső termeit.",
+                "ro": "Folosiți galeriile acoperite și sălile interioare.",
+                "en": "Utilize the covered walkways and interior exhibition halls."
+              }
+            },
+            {
+              "name": "Tekov Museum",
+              "tip_5lang": {
+                "de": "Perfekt für regnerische Stunden mit viel Geschichte.",
+                "hu": "Ideális helyszín az esős órák eltöltéséhez.",
+                "ro": "Perfect pentru orele ploioase, cu multă istorie.",
+                "en": "Perfect place to spend rainy hours exploring history."
+              }
+            },
+            {
+              "name": "Church of St. Joseph",
+              "tip_5lang": {
+                "de": "Ein ruhiger, trockener Ort für Besinnung.",
+                "hu": "Csendes és száraz hely az elcsendesedéshez.",
+                "ro": "Un loc liniștit și uscat pentru reculegere.",
+                "en": "A quiet, dry place for reflection and shelter."
+              }
+            },
+            {
+              "name": "Holy Trinity Column",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp unter dem Regenschirm.",
+                "hu": "Csak egy rövid fotómegálló az esernyő alatt.",
+                "ro": "O scurtă oprire pentru poze sub umbrelă.",
+                "en": "A quick photo stop under your umbrella."
+              }
+            },
+            {
+              "name": "Levice Synagogue",
+              "tip_5lang": {
+                "de": "Genießen Sie die Akustik im geschlossenen Raum.",
+                "hu": "Élvezze a belső tér akusztikáját és látványát.",
+                "ro": "Bucurați-vă de acustica în spațiul închis.",
+                "en": "Enjoy the acoustics in the beautiful indoor space."
+              }
+            },
+            {
+              "name": "Calvary Hill",
+              "tip_5lang": {
+                "de": "Vorsicht, die Stufen können rutschig sein.",
+                "hu": "Vigyázat, a lépcsők és az út csúszós lehet.",
+                "ro": "Atenție, treptele pot fi alunecoase pe ploaie.",
+                "en": "Be careful, the steps and paths can be slippery."
+              }
+            },
+            {
+              "name": "Schoeller Park",
+              "tip_5lang": {
+                "de": "Die Teiche wirken bei Regen besonders ruhig.",
+                "hu": "A tavak látványa esőben is megnyugtató.",
+                "ro": "Iazurile par deosebit de liniștite pe ploaie.",
+                "en": "The ponds look particularly peaceful in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für den Weg zum Kalvarienberg.",
+              "Die Museen sind montags oft geschlossen, prüfen Sie das vorher.",
+              "Nutzen Sie die Cafés in der Nähe der Synagoge für Pausen.",
+              "Ein stabiler Regenschirm ist wegen des Windes am Hügel ratsam."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a kálváriához vezető úton.",
+              "A múzeumok hétfőn zárva tarthatnak, ellenőrizze előre.",
+              "Használja ki a zsinagóga környéki kávézókat pihenőnek.",
+              "A dombon fújhat a szél, érdemes stabil esernyőt vinni."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru drumul spre Calvar.",
+              "Muzeele pot fi închise lunea, verificați programul în avans.",
+              "Folosiți cafenelele de lângă sinagogă pentru pauze.",
+              "O umbrelă stabilă este recomandată din cauza vântului de pe deal."
+            ],
+            "en": [
+              "Wear waterproof shoes for the walk up to Calvary Hill.",
+              "Museums might be closed on Mondays, check schedules in advance.",
+              "Take advantage of the cafes near the synagogue for breaks.",
+              "A sturdy umbrella is advised due to wind on the hill."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen am Schloss ist oft frostig und malerisch. Mittags wärmen Sie sich im Tekov-Museum oder in den Kirchen der Stadt auf. Der Nachmittag in der Synagoge bietet Schutz vor der Kälte und kulturelle Einblicke. Da es früh dunkel wird, genießen Sie die beleuchtete Atmosphäre im Schoeller-Park am späten Nachmittag.",
+            "hu": "A téli reggel a lévai vár falai között igazi időutazás. Délben a Tekov múzeum fűtött termeiben vagy a belváros templomaiban melegedhetünk fel. A délutáni zsinagógalátogatás védelmet nyújt a hideg szél ellen. Mivel korán sötétedik, a Schoeller-parkot már a lemenő nap fényeiben vagy esti kivilágításban láthatjuk.",
+            "ro": "Dimineața de iarnă la castel este adesea geroasă și pitorească. La prânz, vă puteți încălzi în interiorul Muzeului Tekov sau în bisericile din oraș. După-amiaza la sinagogă oferă protecție împotriva frigului și perspective culturale. Deoarece se întunecă devreme, bucurați-vă de atmosfera parcului Schoeller la apus.",
+            "en": "A winter morning at the castle is often frosty and picturesque. Warm up at noon inside the Tekov Museum or the local churches. Spend your afternoon in the sheltered synagogue to escape the cold wind. Since the sun sets early, enjoy the twilight atmosphere in Schoeller Park in the late afternoon."
+          },
+          "stops": [
+            {
+              "name": "Levice Castle",
+              "tip_5lang": {
+                "de": "Tragen Sie warme Schichten für den Außenbereich.",
+                "hu": "Öltözzön rétegesen a várudvar megtekintéséhez.",
+                "ro": "Purtați haine groase pentru exteriorul castelului.",
+                "en": "Dress in warm layers for the outdoor castle grounds."
+              }
+            },
+            {
+              "name": "Tekov Museum",
+              "tip_5lang": {
+                "de": "Ein gut geheizter Ort, um Geschichte zu genießen.",
+                "hu": "Kellemesen fűtött hely a történelem megismeréséhez.",
+                "ro": "Un loc bine încălzit pentru a savura istoria.",
+                "en": "A well-heated place to enjoy local history."
+              }
+            },
+            {
+              "name": "Church of St. Joseph",
+              "tip_5lang": {
+                "de": "Achten Sie auf die beeindruckende Krippe im Winter.",
+                "hu": "Nézze meg az ünnepi betlehemet a téli időszakban.",
+                "ro": "Admirați ieslea de Crăciun în timpul iernii.",
+                "en": "Look for the traditional nativity scene in winter."
+              }
+            },
+            {
+              "name": "Holy Trinity Column",
+              "tip_5lang": {
+                "de": "Kurzer Aufenthalt, der Platz ist oft windig.",
+                "hu": "Csak rövid megálló, a tér télen szeles lehet.",
+                "ro": "Oprire scurtă, piața este adesea vântoasă.",
+                "en": "Keep it brief, the square is often windy in winter."
+              }
+            },
+            {
+              "name": "Levice Synagogue",
+              "tip_5lang": {
+                "de": "Die Architektur wirkt im Winterlicht besonders.",
+                "hu": "Az építészet a téli fényekben különleges arcát mutatja.",
+                "ro": "Arhitectura arată deosebit în lumina iernii.",
+                "en": "The architecture looks striking in the winter light."
+              }
+            },
+            {
+              "name": "Calvary Hill",
+              "tip_5lang": {
+                "de": "Bester Platz für den Sonnenuntergang um 16 Uhr.",
+                "hu": "A legjobb hely a naplemente nézéséhez 16 órakor.",
+                "ro": "Cel mai bun loc pentru apusul de la ora 16:00.",
+                "en": "Best spot to catch the early sunset around 4 PM."
+              }
+            },
+            {
+              "name": "Schoeller Park",
+              "tip_5lang": {
+                "de": "Vorsicht vor vereisten Wegen an den Teichen.",
+                "hu": "Vigyázzon a tavak környékén a jeges utakra.",
+                "ro": "Atenție la aleile înghețate de lângă iazuri.",
+                "en": "Watch out for icy patches on the paths near the ponds."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Sonnenuntergang ist im Dezember bereits gegen 16:00 Uhr.",
+              "Ein heißer Tee in den Cafés am Platz ist sehr zu empfehlen.",
+              "Tragen Sie griffige Schuhe für den Kalvarienberg.",
+              "Prüfen Sie die Winteröffnungszeiten der Museen."
+            ],
+            "hu": [
+              "A naplemente decemberben már délután 4 körül bekövetkezik.",
+              "Egy forró tea a főtéri kávézókban kötelező program.",
+              "Viseljen jó tapadású talpú cipőt a kálváriához.",
+              "Ellenőrizze a múzeumok téli, rövidített nyitvatartását."
+            ],
+            "ro": [
+              "Apusul soarelui în decembrie este în jurul orei 16:00.",
+              "Un ceai fierbinte la cafenelele din piață este recomandat.",
+              "Purtați încălțăminte cu talpă aderentă pentru deal.",
+              "Verificați programul de iarnă redus al muzeelor."
+            ],
+            "en": [
+              "Sunset in December is already around 4:00 PM.",
+              "A hot tea in the cafes at the main square is highly recommended.",
+              "Wear shoes with good grip for the walk up to Calvary.",
+              "Check for shortened winter opening hours at museums."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -752,6 +952,206 @@
           "Be prepared for some hills, particularly around Calvary Hill.",
           "Lock your bike in secure places when visiting sights."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag beginnt bei Margita-Ilona, wo Sie sich kurz unterstellen können. Die Fahrt zum Kalvarienberg erfordert Vorsicht auf nassen Straßen. Mittags bieten das Schloss und das Museum sicheren Schutz und Wärme. Den Nachmittag verbringen Sie im Stadtzentrum zwischen Synagoge und Cafés, bevor Sie den Tag im Park ausklingen lassen.",
+            "hu": "A kerékpáros nap a Margita-Ilonánál indul, ahol fedett pihenőket kereshetünk. A kálváriára vezető út esőben fokozott figyelmet igényel a csúszós aszfalton. Délben a vár és a múzeum kínál száraz menedéket. A délutánt a belváros látnivalói és kávézói között tölthetjük, elkerülve a nagyobb zuhét.",
+            "ro": "O zi ploioasă începe la Margita-Ilona, unde puteți găsi adăpost temporar. Drumul spre Calvar necesită prudență pe carosabilul umed. La prânz, castelul și muzeul oferă protecție sigură. După-amiaza este dedicată centrului orașului, între sinagogă și cafenele, înainte de a încheia ziua în parc.",
+            "en": "A rainy bike day starts at Margita-Ilona, where you can find covered rest areas. The ride to Calvary Hill requires extra caution on wet surfaces. At noon, the castle and museum offer reliable shelter and warmth. Spend your afternoon in the city center between the synagogue and cafes to avoid the heaviest rain."
+          },
+          "stops": [
+            {
+              "name": "Margita-Ilona",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz in den Cafés der Anlage.",
+                "hu": "Keressen menedéket a terület kávézóiban.",
+                "ro": "Căutați adăpost în cafenelele din incintă.",
+                "en": "Look for shelter in the cafes within the complex."
+              }
+            },
+            {
+              "name": "Calvary Hill",
+              "tip_5lang": {
+                "de": "Fahren Sie bergab besonders vorsichtig.",
+                "hu": "Lefelé menet legyen nagyon óvatos a lejtőn.",
+                "ro": "Coborâți panta cu foarte mare atenție.",
+                "en": "Be extremely careful when cycling downhill."
+              }
+            },
+            {
+              "name": "Levice Castle",
+              "tip_5lang": {
+                "de": "Überdachte Fahrradständer sind am Eingang vorhanden.",
+                "hu": "Fedett kerékpártárolók a bejáratnál elérhetőek.",
+                "ro": "Suporturi de biciclete acoperite sunt la intrare.",
+                "en": "Covered bike racks are available at the entrance."
+              }
+            },
+            {
+              "name": "Church of St. Joseph",
+              "tip_5lang": {
+                "de": "Ein kurzer, trockener Stopp in der Stadt.",
+                "hu": "Rövid, száraz megálló a város szívében.",
+                "ro": "O oprire scurtă și uscată în inima orașului.",
+                "en": "A brief, dry stop in the heart of the city."
+              }
+            },
+            {
+              "name": "Trinity Column & Synagogue",
+              "tip_5lang": {
+                "de": "Die Synagoge bietet langen Schutz vor Regen.",
+                "hu": "A zsinagóga hosszas menedéket nyújt az eső elől.",
+                "ro": "Sinagoga oferă adăpost prelungit contra ploii.",
+                "en": "The synagogue provides a long shelter from the rain."
+              }
+            },
+            {
+              "name": "Schoeller Park",
+              "tip_5lang": {
+                "de": "Meiden Sie unbefestigte Wege bei starkem Regen.",
+                "hu": "Kerülje a földutakat heves esőzés idején.",
+                "ro": "Evitați potecile neasfaltate pe ploaie torențială.",
+                "en": "Avoid unpaved paths during heavy rainfall."
+              }
+            },
+            {
+              "name": "Tekov Museum",
+              "tip_5lang": {
+                "de": "Idealer Ort, um Kleidung etwas zu trocknen.",
+                "hu": "Ideális hely a ruházat megszárításához.",
+                "ro": "Loc ideal pentru a vă usca puțin hainele.",
+                "en": "Ideal spot to dry off your gear slightly."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Verwenden Sie Schutzbleche an Ihrem Fahrrad.",
+              "Vermeiden Sie bei Nässe die Kopfsteinpflasterabschnitte.",
+              "Tragen Sie eine gut sichtbare Regenjacke.",
+              "Bremsen Sie frühzeitig auf rutschigen Straßen."
+            ],
+            "hu": [
+              "Használjon sárvédőt a kerékpárján.",
+              "Esőben kerülje a macskaköves útszakaszokat.",
+              "Viseljen jól látható, fényvisszaverős esőkabátot.",
+              "A csúszós úton fékezzen korábban a szokásosnál."
+            ],
+            "ro": [
+              "Folosiți apărători de noroi la bicicletă.",
+              "Evitați porțiunile cu piatră cubică pe ploaie.",
+              "Purtați o jachetă de ploaie cu vizibilitate ridicată.",
+              "Frânați din timp pe carosabilul alunecos."
+            ],
+            "en": [
+              "Make sure to use mudguards on your bike.",
+              "Avoid cobblestone sections when they are wet.",
+              "Wear a high-visibility waterproof jacket.",
+              "Brake earlier than usual on slippery roads."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie warm eingepackt bei Margita-Ilona in den Wintertag. Die Auffahrt zum Kalvarienberg belohnt Sie mit klarer Winterluft und Fernsicht. Mittags bieten das Schloss und das Tekov-Museum angenehme Wärme. Nachmittags erkunden Sie das Stadtzentrum, bevor Sie Ihre Tour bei Sonnenuntergang im Schoeller-Park abschließen.",
+            "hu": "Kezdje a téli napot melegen felöltözve a Margita-Ilonánál. A kálváriára való feltekerés a friss téli levegővel és tiszta kilátással jutalmazza. Délben a lévai vár és a Tekov múzeum falai között melegedhetünk. Délután a belváros és a zsinagóga vár, majd naplementekor a Schoeller-parkban zárjuk a túrát.",
+            "ro": "Începeți ziua de iarnă bine echipat la Margita-Ilona. Urcarea spre Calvar vă răsplătește cu aer curat și vizibilitate bună. La prânz, castelul și Muzeul Tekov oferă o căldură binevenită. După-amiaza explorați centrul orașului, înainte de a încheia turul în parcul Schoeller la apus.",
+            "en": "Start your winter bike day well-layered at Margita-Ilona. The climb to Calvary Hill rewards you with crisp winter air and clear views. Warm up at noon inside the castle and Tekov Museum. Spend the afternoon in the city center before finishing your ride as the sun sets in Schoeller Park."
+          },
+          "stops": [
+            {
+              "name": "Margita-Ilona",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Reifendruck bei Kälte.",
+                "hu": "Ellenőrizze a guminyomást a hidegben.",
+                "ro": "Verificați presiunea pneurilor la frig.",
+                "en": "Check your tire pressure in cold weather."
+              }
+            },
+            {
+              "name": "Calvary Hill",
+              "tip_5lang": {
+                "de": "Vorsicht bei schattigen, vereisten Stellen.",
+                "hu": "Vigyázzon az árnyékos, jeges útszakaszokon.",
+                "ro": "Atenție la porțiunile umbrite și înghețate.",
+                "en": "Watch out for icy patches in shaded areas."
+              }
+            },
+            {
+              "name": "Levice Castle",
+              "tip_5lang": {
+                "de": "Machen Sie eine Aufwärmpause im Innenhof.",
+                "hu": "Tartson egy melegedő szünetet a várudvaron.",
+                "ro": "Faceți o pauză de încălzire în curtea castelului.",
+                "en": "Take a warm-up break in the castle courtyard."
+              }
+            },
+            {
+              "name": "Church of St. Joseph",
+              "tip_5lang": {
+                "de": "Kurzer Stopp, um die Kälte zu unterbrechen.",
+                "hu": "Rövid megálló a hideg szél elől.",
+                "ro": "O scurtă oprire pentru a scăpa de frig.",
+                "en": "A brief stop to take a break from the cold."
+              }
+            },
+            {
+              "name": "Trinity Column & Synagogue",
+              "tip_5lang": {
+                "de": "Besichtigen Sie die Synagoge zum Aufwärmen.",
+                "hu": "Látogassa meg a zsinagógát melegedés céljából.",
+                "ro": "Vizitați sinagoga pentru a vă încălzi.",
+                "en": "Visit the synagogue to warm up inside."
+              }
+            },
+            {
+              "name": "Schoeller Park",
+              "tip_5lang": {
+                "de": "Die kahlen Bäume bieten weite Sichtachsen.",
+                "hu": "A kopasz fák között messzebbre ellátni.",
+                "ro": "Copacii golași oferă perspective largi.",
+                "en": "Bare trees offer wider vistas across the park."
+              }
+            },
+            {
+              "name": "Tekov Museum",
+              "tip_5lang": {
+                "de": "Hinterlassen Sie schwere Jacken an der Garderobe.",
+                "hu": "Hagyja a nehéz kabátokat a ruhatárban.",
+                "ro": "Lăsați hainele groase la garderobă.",
+                "en": "Leave heavy jackets at the cloakroom."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie isolierte Handschuhe und warme Socken.",
+              "Beleuchtung am Fahrrad ist ab 15:30 Uhr Pflicht.",
+              "Vermeiden Sie lange Standzeiten im Freien.",
+              "Nehmen Sie ein heißes Getränk in einer Thermoskanne mit."
+            ],
+            "hu": [
+              "Viseljen hőszigetelt kesztyűt és meleg zoknit.",
+              "A kerékpár világítása már 15:30-tól kötelező.",
+              "Kerülje a hosszú ideig tartó egy helyben állást.",
+              "Vigyen magával forró italt termoszban."
+            ],
+            "ro": [
+              "Purtați mănuși izolate și șosete groase.",
+              "Luminile la bicicletă sunt obligatorii de la 15:30.",
+              "Evitați staționările lungi în aer liber.",
+              "Luați o băutură caldă într-un termos."
+            ],
+            "en": [
+              "Wear insulated gloves and warm socks.",
+              "Bike lights are mandatory starting from 3:30 PM.",
+              "Avoid long stationary periods outdoors.",
+              "Bring a hot drink in a thermos flask."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1108,6 +1508,188 @@
           "Combining driving and walking gives you the best of both worlds.",
           "Plan for extra time for traffic, especially in the afternoon."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre Fahrt bei Margita-Ilona, wo Sie trotz Regen die Natur genießen können. Die Auffahrt zum Kalvarienberg bietet einen tollen Blick aus dem trockenen Auto. Mittags parken Sie im Stadtzentrum und besuchen das Schloss sowie das Tekov-Museum. Den Nachmittag verbringen Sie in der Synagoge und den umliegenden Geschäften, bevor Sie den Park besuchen.",
+            "hu": "Kezdje a napot a Margita-Ilonánál, ahol az autóból is élvezheti a tájat. A kálvária-dombra való feljutás után szárazon csodálhatja meg a kilátást. Délben parkoljon le a központban, és látogassa meg a várat és a múzeumot. A délutánt a zsinagóga és a közeli üzletek felfedezésével töltheti, elkerülve az esőt.",
+            "ro": "Începeți ziua la Margita-Ilona, unde vă puteți bucura de natură din confortul mașinii. Urcarea spre Calvar oferă o priveliște excelentă fără a vă uda. La prânz parcați în centru și vizitați castelul și Muzeul Tekov. După-amiaza vizitați sinagoga și magazinele din jur, înainte de a merge în parc.",
+            "en": "Begin your day at Margita-Ilona, enjoying the views from your car. The drive up to Calvary Hill offers a great vista while staying dry. At noon, park in the city center to visit the castle and Tekov Museum. Spend the afternoon at the synagogue and nearby shops to avoid the rain before a quick park visit."
+          },
+          "stops": [
+            {
+              "name": "Margita-Ilona",
+              "tip_5lang": {
+                "de": "Parkplätze sind direkt am Eingang verfügbar.",
+                "hu": "Parkolóhelyek közvetlenül a bejáratnál.",
+                "ro": "Locuri de parcare disponibile chiar la intrare.",
+                "en": "Parking spaces available right at the entrance."
+              }
+            },
+            {
+              "name": "Calvary Hill",
+              "tip_5lang": {
+                "de": "Genießen Sie die Aussicht direkt vom Parkplatz.",
+                "hu": "Élvezze a kilátást közvetlenül a parkolóból.",
+                "ro": "Bucurați-vă de priveliște direct din parcare.",
+                "en": "Enjoy the panoramic view directly from the parking area."
+              }
+            },
+            {
+              "name": "City Center Parking",
+              "tip_5lang": {
+                "de": "Zentraler Standort für alle Museen.",
+                "hu": "Központi helyszín az összes múzeum eléréséhez.",
+                "ro": "Locație centrală pentru toate muzeele.",
+                "en": "Central location for accessing all museums."
+              }
+            },
+            {
+              "name": "Levice Castle & Tekov Museum",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Parkplatz zum Eingang.",
+                "hu": "Rövid séta a parkolótól a bejáratig.",
+                "ro": "Scurtă plimbare de la parcare la intrare.",
+                "en": "Short walk from the parking to the entrance."
+              }
+            },
+            {
+              "name": "Center: Church, Column & Synagogue",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Passagen im Stadtzentrum.",
+                "hu": "Használja a belvárosi árkádokat és átjárókat.",
+                "ro": "Folosiți pasajele din centrul orașului.",
+                "en": "Use the passages and arcades in the city center."
+              }
+            },
+            {
+              "name": "Schoeller Park",
+              "tip_5lang": {
+                "de": "Parken Sie nah am See für kurze Wege.",
+                "hu": "Parkoljon a tó közelében a rövid séta érdekében.",
+                "ro": "Parcați aproape de lac pentru drumuri scurte.",
+                "en": "Park near the pond for a shorter walk."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Pfützen in den tiefer gelegenen Parkzonen.",
+              "Die Sicht kann auf der Fahrt zum Kalvarienberg eingeschränkt sein.",
+              "Zahlen Sie die Parkgebühr bequem per App.",
+              "Halten Sie einen Regenschirm für die kurzen Wege bereit."
+            ],
+            "hu": [
+              "Vigyázzon a tócsákra az alacsonyabban fekvő parkolókban.",
+              "A kilátás korlátozott lehet a kálváriához vezető úton.",
+              "Fizesse a parkolást kényelmesen mobilalkalmazással.",
+              "Tartson kéznél esernyőt a rövid sétákhoz."
+            ],
+            "ro": [
+              "Atenție la bălți în zonele de parcare joase.",
+              "Vizibilitatea poate fi redusă spre dealul Calvar.",
+              "Plătiți parcarea comod prin aplicație.",
+              "Țineți o umbrelă la îndemână pentru distanțele scurte."
+            ],
+            "en": [
+              "Watch out for puddles in lower-lying parking zones.",
+              "Visibility might be reduced on the drive up to Calvary.",
+              "Pay for parking conveniently using a mobile app.",
+              "Keep an umbrella handy for the short walks between stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihren Wintertag komfortabel im geheizten Auto bei Margita-Ilona. Die Fahrt zum Kalvarienberg bietet einen tollen Panoramablick über die verschneite Stadt. Mittags parken Sie im Zentrum und besuchen das warme Tekov-Museum im Schloss. Nachmittags ist die Synagoge ein kulturelles Highlight, bevor Sie den Tag im winterlichen Park ausklingen lassen.",
+            "hu": "Kezdje a téli napot kényelmesen, fűtött autóban a Margita-Ilonánál. A kálvária-dombról nagyszerű panoráma nyílik a havas városra. Délben parkoljon le a központban, és látogassa meg a meleg Tekov múzeumot. A délutáni zsinagógalátogatás után zárja a napot a Schoeller-park téli nyugalmában.",
+            "ro": "Începeți ziua de iarnă confortabil în mașina încălzită la Margita-Ilona. Drumul spre Calvar oferă o panoramă superbă asupra orașului înzăpezit. La prânz parcați în centru și vizitați Muzeul Tekov din castel. După-amiaza sinagoga este un punct culminant, înainte de a încheia ziua în parcul hibernal.",
+            "en": "Start your winter day comfortably in a heated car at Margita-Ilona. The drive up to Calvary Hill offers a great panorama of the snowy city. At noon, park in the center and visit the warm Tekov Museum. Spend your afternoon at the synagogue before finishing the day in the peaceful winter park."
+          },
+          "stops": [
+            {
+              "name": "Margita-Ilona",
+              "tip_5lang": {
+                "de": "Parkplätze werden im Winter oft geräumt.",
+                "hu": "A parkolókat télen is rendszeresen takarítják.",
+                "ro": "Parcările sunt adesea deszăpezite iarna.",
+                "en": "Parking lots are usually cleared of snow in winter."
+              }
+            },
+            {
+              "name": "Calvary Hill",
+              "tip_5lang": {
+                "de": "Vorsicht bei Schnee auf der Auffahrt.",
+                "hu": "Vigyázzon a havas vagy jeges útszakaszokon.",
+                "ro": "Atenție la zăpadă pe drumul de urcare.",
+                "en": "Be careful of snow or ice on the drive up."
+              }
+            },
+            {
+              "name": "City Center Parking",
+              "tip_5lang": {
+                "de": "Parken Sie im Parkhaus für eisfreie Scheiben.",
+                "hu": "Parkoljon fedett helyen a jegesedés ellen.",
+                "ro": "Parcați în garaj pentru a evita înghețul.",
+                "en": "Park in a covered garage to avoid icy windows."
+              }
+            },
+            {
+              "name": "Levice Castle & Tekov Museum",
+              "tip_5lang": {
+                "de": "Die Museen sind im Winter angenehm geheizt.",
+                "hu": "A múzeumok télen is kellemesen fűtöttek.",
+                "ro": "Muzeele sunt încălzite plăcut în timpul iernii.",
+                "en": "The museums are comfortably heated in winter."
+              }
+            },
+            {
+              "name": "Center: Church, Column & Synagogue",
+              "tip_5lang": {
+                "de": "Besuchen Sie Cafés zum Aufwärmen zwischen den Stopps.",
+                "hu": "Igyon egy forró csokit a kávézókban a megállók közt.",
+                "ro": "Vizitați cafenelele pentru a vă încălzi între opriri.",
+                "en": "Visit local cafes to warm up between stops."
+              }
+            },
+            {
+              "name": "Schoeller Park",
+              "tip_5lang": {
+                "de": "Die Teiche können bei Frost zugefroren sein.",
+                "hu": "Fagy esetén a tavak felszíne befagyhat.",
+                "ro": "Iazurile pot fi înghețate în caz de ger.",
+                "en": "The ponds may be frozen during freezing weather."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Ihr Wischwasser frostfest ist.",
+              "Die Auffahrt zum Hügel kann bei Glätte gesperrt sein.",
+              "Nutzen Sie die Sitzheizung für die kurzen Fahrten.",
+              "Achten Sie auf Fußgänger bei Dunkelheit im Zentrum."
+            ],
+            "hu": [
+              "Ellenőrizze a fagyálló szélvédőmosó folyadékot.",
+              "A kálváriához vezető út jegesedésnél lezárható.",
+              "Használja az ülésfűtést a rövid városi utak alatt.",
+              "Figyeljen a gyalogosokra a sötétedő belvárosban."
+            ],
+            "ro": [
+              "Asigurați-vă că lichidul de parbriz este rezistent la îngheț.",
+              "Urcarea spre deal poate fi închisă în caz de polei.",
+              "Folosiți încălzirea în scaune pentru drumurile scurte.",
+              "Atenție la pietoni în centrul orașului pe timp de noapte."
+            ],
+            "en": [
+              "Ensure your windshield washer fluid is frost-resistant.",
+              "The drive up the hill might be closed during icy conditions.",
+              "Utilize seat heating for short trips between locations.",
+              "Watch out for pedestrians in the dark city center."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1464,6 +2046,188 @@
           "Have some small change for tickets bought from the driver.",
           "A public transport app can be very helpful for planning routes in real-time."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nach Ihrer Ankunft am Busbahnhof erreichen Sie schnell das Stadtzentrum mit seinen überdachten Passagen. Mittags besuchen Sie das Schloss und das Tekov-Museum, die beide guten Schutz vor Regen bieten. Den Nachmittag verbringen Sie in der Synagoge, bevor Sie mit dem Bus zum Schoeller-Park fahren, wo Sie die ruhige Atmosphäre genießen können.",
+            "hu": "A buszpályaudvarra való érkezés után gyorsan elérheti a belváros fedett árkádjait. Délben a vár és a Tekov múzeum falai nyújtanak menedéket a csapadék elől. A délutánt a zsinagóga belső terében töltheti, majd busszal közelítheti meg a Schoeller-parkot, ahol élvezheti a természet nyugalmát az esőben is.",
+            "ro": "După sosirea la autogară, puteți ajunge rapid în centrul orașului cu pasajele sale acoperite. La prânz vizitați castelul și Muzeul Tekov, ambele oferind protecție bună contra ploii. După-amiaza vizitați sinagoga, apoi luați autobuzul spre parcul Schoeller pentru a vă bucura de liniște.",
+            "en": "After arriving at the bus station, quickly reach the city center's covered passages. At noon, visit the castle and Tekov Museum, both providing excellent shelter from the rain. Spend your afternoon in the synagogue before taking a bus to Schoeller Park to enjoy its peaceful rainy atmosphere."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Bus Station",
+              "tip_5lang": {
+                "de": "Warten Sie im überdachten Bereich auf Anschlüsse.",
+                "hu": "Várjon a fedett peronon a csatlakozásokra.",
+                "ro": "Așteptați conexiunile în zona acoperită.",
+                "en": "Wait in the covered area for your connections."
+              }
+            },
+            {
+              "name": "Center Cluster: Column & Synagogue",
+              "tip_5lang": {
+                "de": "Häufige Busverbindungen in der Nähe.",
+                "hu": "Gyakori buszjáratok érhetőek el a közelben.",
+                "ro": "Conexiuni frecvente de autobuz în apropiere.",
+                "en": "Frequent bus connections are available nearby."
+              }
+            },
+            {
+              "name": "Church of St. Joseph",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Bus, um nasskalte Wege zu meiden.",
+                "hu": "Használja a buszt a vizes utak elkerülésére.",
+                "ro": "Folosiți autobuzul pentru a evita drumurile ude.",
+                "en": "Use the bus to avoid walking on wet streets."
+              }
+            },
+            {
+              "name": "Castle Cluster: Castle & Museum",
+              "tip_5lang": {
+                "de": "Das Museum ist ein toller Ort für lange Schauer.",
+                "hu": "A múzeum remek hely a hosszabb esők idejére.",
+                "ro": "Muzeul este un loc grozav pentru ploi lungi.",
+                "en": "The museum is a great place to wait out long showers."
+              }
+            },
+            {
+              "name": "Calvary Hill",
+              "tip_5lang": {
+                "de": "Wählen Sie Busse, die nah am Hügelfuß halten.",
+                "hu": "Válasszon buszt, ami közel áll meg a dombhoz.",
+                "ro": "Alegeți autobuze care opresc aproape de baza dealului.",
+                "en": "Choose buses that stop near the base of the hill."
+              }
+            },
+            {
+              "name": "Schoeller Park",
+              "tip_5lang": {
+                "de": "Die Haltestellen liegen nah an den Parkeingängen.",
+                "hu": "A megállók közel vannak a park bejárataihoz.",
+                "ro": "Stațiile sunt aproape de intrările în parc.",
+                "en": "The stops are located near the park entrances."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Echtzeit-App für Busabfahrten.",
+              "Fahrkarten können oft kontaktlos im Bus bezahlt werden.",
+              "Die Wartehäuschen bieten Schutz vor Wind und Regen.",
+              "Die Hauptlinien verkehren regelmäßig auch bei Regen."
+            ],
+            "hu": [
+              "Használja a valós idejű buszközlekedési applikációt.",
+              "A jegyekért gyakran érintésmentesen is fizethet a buszon.",
+              "A várótermek védelmet nyújtanak a szél és eső ellen.",
+              "A fővonalak esőben is menetrend szerint közlekednek."
+            ],
+            "ro": [
+              "Folosiți aplicația în timp real pentru plecările de autobuz.",
+              "Biletele pot fi plătite adesea contactless în autobuz.",
+              "Refugiile din stații oferă protecție contra vântului.",
+              "Liniile principale circulă regulat chiar și pe ploaie."
+            ],
+            "en": [
+              "Use a real-time app for tracking bus departures.",
+              "Tickets can often be paid for contactless on the bus.",
+              "Bus shelters provide protection from wind and rain.",
+              "Main lines run frequently even during rainy weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Wintertag am Busbahnhof und fahren Sie direkt zum Schlossbezirk. Mittags wärmen Sie sich im Tekov-Museum oder in den Kirchen im Stadtzentrum auf. Nachmittags bietet die Synagoge ein behagliches kulturelles Erlebnis. Da es früh dunkel wird, nutzen Sie den Bus für den Weg zum Schoeller-Park, um die Dämmerung zu genießen.",
+            "hu": "Kezdje a téli napot a buszpályaudvaron, ahonnan közvetlenül a várnegyedbe juthat. Délben a Tekov múzeum fűtött termeiben vagy a belvárosi templomokban melegedhet fel. A délutáni zsinagógalátogatás védelmet ad a hideg ellen. Mivel korán sötétedik, busszal menjen a Schoeller-parkba, hogy még a szürkületben láthassa.",
+            "ro": "Începeți ziua de iarnă la autogară și mergeți direct spre zona castelului. La prânz vă puteți încălzi în Muzeul Tekov sau în bisericile din centru. După-amiaza sinagoga oferă o experiență culturală plăcută. Deoarece se întunecă devreme, luați autobuzul spre parcul Schoeller pentru a prinde amurgul.",
+            "en": "Start your winter day at the bus station and head straight to the castle district. Warm up at noon inside the Tekov Museum or the central churches. Spend your afternoon at the synagogue for a cozy cultural experience. Since it gets dark early, take a bus to Schoeller Park to enjoy the winter twilight."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Bus Station",
+              "tip_5lang": {
+                "de": "Im Wartesaal ist es im Winter angenehm warm.",
+                "hu": "A váróterem télen kellemesen fűtött.",
+                "ro": "Sala de așteptare este încălzită iarna.",
+                "en": "The waiting room is comfortably warm in winter."
+              }
+            },
+            {
+              "name": "Center Cluster: Column & Synagogue",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen den Haltestellen und Sehenswürdigkeiten.",
+                "hu": "Rövid távolságok a megállók és a látnivalók között.",
+                "ro": "Distanțe scurte între stații și obiective.",
+                "en": "Short walking distances between stops and sights."
+              }
+            },
+            {
+              "name": "Church of St. Joseph",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche zum kurzen Aufwärmen.",
+                "hu": "Látogassa meg a templomot egy rövid melegedésre.",
+                "ro": "Vizitați biserica pentru o scurtă încălzire.",
+                "en": "Visit the church for a brief warm-up indoors."
+              }
+            },
+            {
+              "name": "Castle Cluster: Castle & Museum",
+              "tip_5lang": {
+                "de": "Das Museum ist ein idealer Ort im Winter.",
+                "hu": "A múzeum ideális helyszín télen.",
+                "ro": "Muzeul este o locație ideală iarna.",
+                "en": "The museum is an ideal indoor location in winter."
+              }
+            },
+            {
+              "name": "Calvary Hill",
+              "tip_5lang": {
+                "de": "Tragen Sie feste Schuhe für den Weg von der Haltestelle.",
+                "hu": "Viseljen stabil cipőt a megállótól vezető úton.",
+                "ro": "Purtați încălțăminte solidă de la stație până la deal.",
+                "en": "Wear sturdy shoes for the walk from the bus stop."
+              }
+            },
+            {
+              "name": "Schoeller Park",
+              "tip_5lang": {
+                "de": "Nutzen Sie den letzten Bus vor Einbruch der Dunkelheit.",
+                "hu": "Használja az utolsó buszt sötétedés előtt.",
+                "ro": "Folosiți ultimul autobuz înainte de lăsarea serii.",
+                "en": "Take the last bus before complete darkness falls."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse sind im Winter oft die wärmste Reiseoption.",
+              "Prüfen Sie den Feiertagsfahrplan im Dezember.",
+              "Achten Sie auf vereiste Bordsteinkanten beim Einsteigen.",
+              "Einige Linien verkehren am Abend seltener."
+            ],
+            "hu": [
+              "Télen a busz gyakran a legmelegebb utazási mód.",
+              "Ellenőrizze az ünnepi menetrendet decemberben.",
+              "Vigyázzon a jeges padkákra felszálláskor.",
+              "Néhány járat ritkábban közlekedik az esti órákban."
+            ],
+            "ro": [
+              "Autobuzul este adesea cea mai caldă opțiune de călătorie.",
+              "Verificați programul de sărbători în decembrie.",
+              "Atenție la bordurile înghețate la urcare.",
+              "Unele linii circulă mai rar în timpul serii."
+            ],
+            "en": [
+              "Buses are often the warmest travel option in winter.",
+              "Check the holiday schedule during December.",
+              "Watch out for icy curbs when boarding the bus.",
+              "Some lines may run less frequently in the evenings."
+            ]
+          }
+        }
       }
     }
   }

@@ -378,6 +378,188 @@
           "A hat and sunscreen are essential.",
           "Most shops close during midday for a siesta."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens am Heldenplatz unter den schützenden Arkaden der Cafés. Mittags bieten die Kirche und das Volkskundemuseum trockene Zuflucht vor dem Ägäis-Regen. Nachmittags vertiefen wir uns in die Funde im modernen Archäologischen Museum. Abends genießen wir die dramatische Aussicht auf den Hafen bei einem Glas lokalem Wein in einer überdachten Taverne.",
+            "hu": "Reggel a Hősök terén, a kávézók védelmező árkádjai alatt. Délben a templom és a néprajzi múzeum nyújt tökéletes menedéket a mediterrán zápor elől. A délutánt a Régészeti Múzeum gazdag beltéri tárlataival töltjük. Este a kikötő mentén, egy fedett teraszról figyeljük a tenger hullámait és az eső áztatta partot.",
+            "ro": "Dimineața în Piața Eroilor, sub arcadele cafenelelor tradiționale. La prânz, biserica și muzeul de folclor oferă un adăpost cultural perfect împotriva ploii. După-amiaza explorăm comorile Muzeului Arheologic, feriți de intemperii. Seara se încheie în port, admirând marea agitată dintr-o tavernă primitoare cu terasă acoperită.",
+            "en": "Morning at Heroes' Square under the protective awnings of local cafés. Midday, the church and folklore museum provide a cultural refuge from the Aegean rain. Spend the afternoon immersed in history at the Archaeological Museum. Evening by the port, watching the rain hit the sea from the comfort of a covered seaside tavern."
+          },
+          "stops": [
+            {
+              "name": "Heroes' Square",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den Platanen oder in den Cafés am Rand.",
+                "hu": "Keressen menedéket a platánfák alatt vagy a tér széli kávézókban.",
+                "ro": "Căutați adăpost sub platani sau în cafenelele de la marginea pieței.",
+                "en": "Seek shelter under the plane trees or in the cafés lining the square."
+              }
+            },
+            {
+              "name": "Agios Kirykos Church",
+              "tip_5lang": {
+                "de": "Ein ruhiger, trockener Ort, um die byzantinische Architektur zu bewundern.",
+                "hu": "Csendes, száraz hely a bizánci építészet megcsodálására.",
+                "ro": "Un loc liniștit și uscat pentru a admira arhitectura bizantină.",
+                "en": "A peaceful, dry spot to admire the Byzantine architecture."
+              }
+            },
+            {
+              "name": "Folklore and History Museum",
+              "tip_5lang": {
+                "de": "Ideal für einen längeren Aufenthalt, während es draußen regnet.",
+                "hu": "Ideális hosszabb időtöltésre, amíg odakint esik az eső.",
+                "ro": "Ideal pentru o vizită prelungită în timp ce afară plouă.",
+                "en": "Ideal for an extended stay while it rains outside."
+              }
+            },
+            {
+              "name": "Port of Agios Kirykos",
+              "tip_5lang": {
+                "de": "Die Hafenmauer bietet bei Wind und Regen einen dramatischen Anblick.",
+                "hu": "A kikötői gát drámai látványt nyújt szélben és esőben.",
+                "ro": "Digul portului oferă o priveliște dramatică pe vânt și ploaie.",
+                "en": "The port wall offers a dramatic sight during wind and rain."
+              }
+            },
+            {
+              "name": "Archaeological Museum",
+              "tip_5lang": {
+                "de": "Das moderne Gebäude ist perfekt, um dem Regen für zwei Stunden zu entfliehen.",
+                "hu": "A modern épület tökéletes arra, hogy két órára elmeneküljünk az eső elől.",
+                "ro": "Clădirea modernă este perfectă pentru a scăpa de ploaie timp de două ore.",
+                "en": "The modern building is perfect for escaping the rain for two hours."
+              }
+            },
+            {
+              "name": "Lefkada Beach",
+              "tip_5lang": {
+                "de": "Vom Uferweg aus hat man auch bei Regen eine mystische Aussicht.",
+                "hu": "A parti sétányról esőben is misztikus látványt nyújt a tenger.",
+                "ro": "Faleza oferă o vedere mistică a mării chiar și pe ploaie.",
+                "en": "The coastal path offers a mystical view of the sea even in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie rutschfeste Schuhe, da das Kopfsteinpflaster glatt werden kann.",
+              "Nutzen Sie die Museen für die stärksten Regenschauer.",
+              "Die Cafés am Hafen haben fast alle überdachte Außenbereiche.",
+              "Ein Taschenregenschirm ist bei den plötzlichen Ägäis-Böen unverzichtbar."
+            ],
+            "hu": [
+              "Viseljen csúszásmentes cipőt, mert a macskakő vizesen nagyon csúszik.",
+              "Idzítse a múzeumlátogatást a legerősebb záporok idejére.",
+              "A kikötői kávézók szinte mindegyike rendelkezik fedett terasszal.",
+              "Egy összecsukható esernyő elengedhetetlen a hirtelen égei-tengeri széllökésekhez."
+            ],
+            "ro": [
+              "Purtați încălțăminte antiderapantă, deoarece pavajul devine alunecos.",
+              "Planificați vizitele la muzee în timpul celor mai puternice averse.",
+              "Aproape toate cafenelele din port au zone exterioare acoperite.",
+              "O umbrelă pliabilă este esențială pentru rafalele bruște de vânt din Egee."
+            ],
+            "en": [
+              "Wear non-slip shoes as the cobblestones can become very slick.",
+              "Time your museum visits for the heaviest downpours.",
+              "Almost all port-side cafés have covered outdoor seating areas.",
+              "A compact umbrella is essential for sudden Aegean wind gusts."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Morgen am Heldenplatz, wo sich die Einheimischen zum Kaffee treffen. Mittags wärmen wir uns in den Kirchen und kleinen Museen auf, während die Wintersonne tief steht. Nachmittags ist die Luft am Hafen kristallklar und bietet weite Sicht. Der Tag endet früh bei Sonnenuntergang in einer gemütlichen Ouzo-Bar, wenn es draußen kühl wird.",
+            "hu": "Hűvös reggel a Hősök terén, ahol a helyiek gyülekeznek egy forró kávéra. Délben a templom és a múzeumok nyújtanak menedéket az éles téli szél elől. Délután a kikötőben a levegő kristálytiszta, és messzire ellátni a tengeren. A nap korán, naplementekor ér véget egy hangulatos ouzeri-ben, ahogy lehűl az idő.",
+            "ro": "O dimineață răcoroasă în Piața Eroilor, unde localnicii se adună la o cafea fierbinte. La prânz, biserica și muzeele oferă căldură în timp ce soarele de iarnă stă jos pe cer. După-amiaza, aerul din port este cristalinit, oferind vizibilitate maximă. Ziua se încheie devreme, la apus, într-un ouzeri primitor.",
+            "en": "A brisk morning at Heroes' Square, watching locals gather for hot coffee. Midday, the church and museums offer warmth while the winter sun stays low. In the afternoon, the port air is crystal clear, offering long-distance sea views. The day ends early at sunset in a cozy ouzo bar as the temperature drops."
+          },
+          "stops": [
+            {
+              "name": "Heroes' Square",
+              "tip_5lang": {
+                "de": "Genießen Sie einen heißen griechischen Kaffee in einer der traditionellen Bars.",
+                "hu": "Élvezzen egy forró görög kávét az egyik hagyományos bárban.",
+                "ro": "Savurați o cafea grecească fierbinte într-unul dintre barurile tradiționale.",
+                "en": "Enjoy a hot Greek coffee in one of the traditional bars."
+              }
+            },
+            {
+              "name": "Agios Kirykos Church",
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten die Wärme und laden zur stillen Einkehr ein.",
+                "hu": "A vastag falak tartják a hőt, hívogatva egy kis csendes elmélyülésre.",
+                "ro": "Zidurile groase rețin căldura, invitând la un moment de liniște.",
+                "en": "The thick walls retain warmth, inviting a quiet moment of reflection."
+              }
+            },
+            {
+              "name": "Folklore and History Museum",
+              "tip_5lang": {
+                "de": "Ein gemütlicher Einblick in das Inselleben früherer Winter.",
+                "hu": "Hangulatos betekintés a szigetlakók egykori téli életébe.",
+                "ro": "O privire caldă asupra vieții insulare din iernile trecute.",
+                "en": "A cozy look into island life during winters of the past."
+              }
+            },
+            {
+              "name": "Port of Agios Kirykos",
+              "tip_5lang": {
+                "de": "Ideal für einen zügigen Spaziergang in der frischen Meeresluft.",
+                "hu": "Ideális egy tempós sétához a friss tengeri levegőn.",
+                "ro": "Ideal pentru o plimbare rapidă în aerul proaspăt marin.",
+                "en": "Ideal for a brisk walk in the fresh sea air."
+              }
+            },
+            {
+              "name": "Archaeological Museum",
+              "tip_5lang": {
+                "de": "Besuchen Sie das Museum vor 15:00 Uhr, um das Tageslicht zu nutzen.",
+                "hu": "Látogassa meg a múzeumot 15:00 előtt, hogy kihasználja a természetes fényt.",
+                "ro": "Vizitați muzeul înainte de ora 15:00 pentru a profita de lumina zilei.",
+                "en": "Visit the museum before 15:00 to make use of the daylight."
+              }
+            },
+            {
+              "name": "Lefkada Beach",
+              "tip_5lang": {
+                "de": "Der Strand ist im Winter menschenleer und perfekt für Naturfotografie.",
+                "hu": "A strand télen teljesen néptelen, tökéletes természetfotózáshoz.",
+                "ro": "Plaja este pustie iarna și perfectă pentru fotografia de natură.",
+                "en": "The beach is deserted in winter and perfect for nature photography."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Sonnenuntergang ist im Winter bereits gegen 17:15 Uhr.",
+              "Kleiden Sie sich nach dem Zwiebelprinzip für den kühlen Wind.",
+              "Museen haben im Winter oft verkürzte Öffnungszeiten; prüfen Sie dies vorab.",
+              "Die meisten Touristenläden sind geschlossen, aber die Cafés der Einheimischen sind offen."
+            ],
+            "hu": [
+              "A naplemente télen már 17:15 körül bekövetkezik.",
+              "Öltözzön rétegesen a hűvös parti szél miatt.",
+              "A múzeumok télen gyakran rövidített nyitvatartással üzemelnek; ellenőrizze előre.",
+              "A legtöbb szuvenírbolt zárva van, de a helyi kávézók ilyenkor a legélőbbek."
+            ],
+            "ro": [
+              "Apusul de soare are loc în jurul orei 17:15 în timpul iernii.",
+              "Îmbrăcați-vă în straturi pentru a face față vântului rece de coastă.",
+              "Muzeele au adesea program redus iarna; verificați în prealabil.",
+              "Majoritatea magazinelor turistice sunt închise, dar cafenelele locale sunt deschise."
+            ],
+            "en": [
+              "Sunset occurs as early as 17:15 during the winter months.",
+              "Dress in layers to manage the chilly coastal wind.",
+              "Museums often have shortened winter hours; check before you go.",
+              "Most tourist shops are closed, but the local cafés are at their liveliest."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -710,6 +892,170 @@
           "Wear a helmet and use lights if you're out late.",
           "Always lock your bike when you leave it."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein erfrischender Start am Heldenplatz, trotz des leichten Regens. Die Fahrt zum Hafen erfordert Vorsicht auf dem glatten Pflaster, aber die Meeresbrise ist belebend. Mittags erreichen wir die Thermen von Therma, wo das heiße Wasser im Regen besonders dampft. Der Nachmittag endet mit einem Besuch im Museum, um im Trockenen die Geschichte Ikarias zu erkunden.",
+            "hu": "Frissítő kezdés a Hősök terén, a szemerkélő eső ellenére. A kikötőig tartó út óvatosságot igényel a csúszós köveken, de a tengeri szellő élénkítő. Délben elérjük Therma termálforrásait, ahol a forró víz az esőben különösen gőzölög. A délután a múzeumban ér véget, szárazon kutatva Ikária történelmét.",
+            "ro": "Un început revigorant în Piața Eroilor, în ciuda ploii ușoare. Drumul spre port necesită atenție pe pavajul umed, dar briza mării este tonică. La prânz ajungem la izvoarele termale din Therma, unde apa fierbinte aburește spectaculos în ploaie. După-amiaza se încheie la muzeu, explorând istoria Ikarei la adăpost.",
+            "en": "A refreshing start at Heroes' Square despite the light rain. The ride to the port requires caution on slick stones, but the sea breeze is invigorating. Midday, we reach the Thermal Springs of Therma, where the hot water steams beautifully in the rain. The afternoon ends at the museum, exploring Ikaria's history in the dry."
+          },
+          "stops": [
+            {
+              "name": "Heroes' Square",
+              "tip_5lang": {
+                "de": "Vorsicht beim Losfahren auf dem nassen Kopfsteinpflaster.",
+                "hu": "Vigyázat az indulásnál a nedves macskakövön.",
+                "ro": "Atenție la plecare pe pavajul umed.",
+                "en": "Be careful when starting off on the wet cobblestones."
+              }
+            },
+            {
+              "name": "Port of Agios Kirykos",
+              "tip_5lang": {
+                "de": "Halten Sie Abstand zum Kai, da die Gischt das Rad rutschig macht.",
+                "hu": "Tartson távolságot a mólótól, mert a sós pára csúszóssá teszi a bringát.",
+                "ro": "Păstrați distanța de chei, deoarece vaporii sărați fac bicicleta alunecoasă.",
+                "en": "Keep a distance from the quay as sea spray makes the bike slippery."
+              }
+            },
+            {
+              "name": "Lefkada Beach",
+              "tip_5lang": {
+                "de": "Die Küstenstraße bietet dramatische Ausblicke auf die graue Ägäis.",
+                "hu": "A parti út drámai kilátást nyújt a szürke Égei-tengerre.",
+                "ro": "Drumul de coastă oferă priveliști dramatice asupra Egeei cenușii.",
+                "en": "The coastal road offers dramatic views of the grey Aegean."
+              }
+            },
+            {
+              "name": "Thermal Springs of Therma",
+              "tip_5lang": {
+                "de": "Das Thermalwasser ist bei Regen die perfekte Belohnung.",
+                "hu": "A termálvíz esőben a legtökéletesebb jutalom.",
+                "ro": "Apa termală este recompensa perfectă pe timp de ploaie.",
+                "en": "The thermal water is the perfect reward in the rain."
+              }
+            },
+            {
+              "name": "Archaeological Museum",
+              "tip_5lang": {
+                "de": "Sichere Fahrradständer sind am Museum vorhanden.",
+                "hu": "Biztonságos kerékpártárolók találhatók a múzeumnál.",
+                "ro": "La muzeu sunt disponibile suporturi sigure pentru biciclete.",
+                "en": "Secure bike racks are available at the museum."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind bei Regen auf Ikarias Straßen ein Muss.",
+              "Vermeiden Sie scharfe Bremsmanöver auf dem nassen Asphalt.",
+              "Die Thermalquellen in Therma bieten auch überdachte Badebereiche.",
+              "Tragen Sie wasserfeste Kleidung und helle Reflektoren bei schlechter Sicht."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen az esős ikáriai utakon.",
+              "Kerülje az éles fékezést a nedves aszfalton.",
+              "Therma termálforrásai fedett fürdőhelyekkel is rendelkeznek.",
+              "Viseljen vízálló ruházatot és fényvisszaverőt a rossz látási viszonyok között."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt obligatorii pe drumurile din Ikaria pe ploaie.",
+              "Evitați frânările bruște pe asfaltul umed.",
+              "Izvoarele termale din Therma au și zone de baie acoperite.",
+              "Purtați haine impermeabile și elemente reflectorizante pentru vizibilitate."
+            ],
+            "en": [
+              "Mudguards are a must on Ikarian roads during rain.",
+              "Avoid sharp braking on the wet asphalt.",
+              "The thermal springs in Therma offer covered bathing areas as well.",
+              "Wear waterproof clothing and bright reflectors in low visibility."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Vormittag auf zwei Rädern durch die ruhigen Gassen von Agios Kirykos. Die winterliche Küstenstraße gehört uns fast allein, während wir nach Lefkada radeln. Das Highlight ist das warme Bad in den natürlichen Thermen von Therma, um die Kälte zu vertreiben. Am späten Nachmittag wärmen wir uns im Archäologischen Museum auf, bevor die Sonne früh hinter den Bergen verschwindet.",
+            "hu": "Hűvös délelőtt két keréken Agios Kirykos csendes utcáin. A téli parti út szinte csak a miénk, miközben Lefkada felé tekerünk. A nap fénypontja a mártózás Therma természetes termálforrásaiban, hogy elűzzük a hideget. Késő délután a Régészeti Múzeumban melegedünk fel, mielőtt a nap korán eltűnik a hegyek mögött.",
+            "ro": "O dimineață răcoroasă pe două roți prin străzile liniștite din Agios Kirykos. Drumul de coastă iernatic este aproape doar al nostru în timp ce pedalăm spre Lefkada. Punctul culminant este baia caldă în izvoarele termale din Therma pentru a alunga frigul. După-amiaza târziu ne încălzim la Muzeul Arheologic înainte ca soarele să apună.",
+            "en": "A brisk morning on two wheels through the quiet streets of Agios Kirykos. The winter coastal road is almost ours alone as we cycle towards Lefkada. The highlight is a soak in the natural thermal springs of Therma to chase away the chill. Late afternoon, we warm up at the Archaeological Museum before the sun disappears early behind the mountains."
+          },
+          "stops": [
+            {
+              "name": "Heroes' Square",
+              "tip_5lang": {
+                "de": "Starten Sie mit warmen Handschuhen gegen den Fahrtwind.",
+                "hu": "Induljon meleg kesztyűben a menetszél ellen.",
+                "ro": "Porniți cu mănuși groase împotriva vântului.",
+                "en": "Start with warm gloves to protect against the wind chill."
+              }
+            },
+            {
+              "name": "Port of Agios Kirykos",
+              "tip_5lang": {
+                "de": "Die klare Winterluft sorgt für eine fantastische Fernsicht auf die Nachbarinseln.",
+                "hu": "A tiszta téli levegő fantasztikus kilátást biztosít a szomszédos szigetekre.",
+                "ro": "Aerul curat de iarnă oferă o vizibilitate fantastică spre insulele vecine.",
+                "en": "The clear winter air provides fantastic long-distance views of neighboring islands."
+              }
+            },
+            {
+              "name": "Lefkada Beach",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort für eine kurze Pause, bevor man weiter zu den Thermen fährt.",
+                "hu": "Csendes hely egy rövid pihenőre, mielőtt továbbtekerne a termálforrásokhoz.",
+                "ro": "Un loc liniștit pentru o pauză scurtă înainte de a pedala spre izvoarele termale.",
+                "en": "A peaceful spot for a short break before cycling on to the thermal springs."
+              }
+            },
+            {
+              "name": "Thermal Springs of Therma",
+              "tip_5lang": {
+                "de": "Das heiße Wasser wirkt im Winter wie ein wahres Wunder.",
+                "hu": "A forró víz télen igazi csodának tűnik.",
+                "ro": "Apa fierbinte se simte ca o minune în timpul iernii.",
+                "en": "The hot water feels like a true miracle in winter."
+              }
+            },
+            {
+              "name": "Archaeological Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Museum als letzten Stop, um sich vor dem Abend aufzuwärmen.",
+                "hu": "Használja a múzeumot utolsó állomásként, hogy bemelegedjen az este előtt.",
+                "ro": "Folosiți muzeul ca ultimă oprire pentru a vă încălzi înainte de seară.",
+                "en": "Use the museum as a final stop to warm up before the evening."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf die kurzen Tageslichtstunden (Sonnenuntergang ~17:15).",
+              "Winddichte Kleidung ist beim Radfahren an der Küste unerlässlich.",
+              "Die Thermalquellen sind im Winter weniger besucht und sehr authentisch.",
+              "Prüfen Sie den Reifendruck, da kalte Luft diesen beeinflussen kann."
+            ],
+            "hu": [
+              "Ügyeljen a rövid nappalokra (naplemente ~17:15).",
+              "Szélálló ruházat elengedhetetlen a parti tekeréshez.",
+              "A termálforrások télen kevésbé zsúfoltak és nagyon hitelesek.",
+              "Ellenőrizze a keréknyomást, mert a hideg levegő befolyásolhatja azt."
+            ],
+            "ro": [
+              "Atenție la orele puține de lumină (apusul în jur de 17:15).",
+              "Hainele rezistente la vânt sunt esențiale pentru ciclismul pe coastă.",
+              "Izvoarele termale sunt mai puțin vizitate iarna și foarte autentice.",
+              "Verificați presiunea în anvelope, aerul rece o poate afecta."
+            ],
+            "en": [
+              "Be mindful of the short daylight hours (sunset ~17:15).",
+              "Windproof clothing is essential for coastal cycling.",
+              "The thermal springs are less crowded in winter and very authentic.",
+              "Check tire pressure as cold air can affect it."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -717,7 +1063,7 @@
       "speed_kmh": 28,
       "start": "09:00",
       "end_estimate": "17:15",
-      "total_km": 10.4,
+      "total_km": 6.2,
       "stop_count": 6,
       "stops": [
         {
@@ -1066,6 +1412,188 @@
           "A smaller car is better for exploring the island.",
           "Watch out for goats on the road!"
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir beginnen den Tag entspannt in den warmen Quellen von Therma, während der Regen auf das Dach prasselt. Mit dem Auto erreichen wir den Heldenplatz trocken und können die Museen bequem nacheinander besuchen. Mittags genießen wir die Fahrt entlang der wilden Küste zum Hafen. Der Nachmittag gehört der Archäologie, und zum Abschluss fahren wir zum Lefkada Strand, um die Wellen aus dem warmen Wagen zu beobachten.",
+            "hu": "A napot pihentetően kezdjük Therma meleg forrásainál, miközben az eső kopog a tetőn. Autóval szárazon érjük el a Hősök terét, és kényelmesen látogathatjuk a múzeumokat egymás után. Délben élvezzük a vad parti utat a kikötő felé. A délután a régészeté, végül Lefkada strandjához hajtunk, hogy a meleg kocsiból figyeljük a hullámokat.",
+            "ro": "Începem ziua relaxați la izvoarele calde din Therma, în timp ce ploaia bate în acoperiș. Cu mașina ajungem uscați în Piața Eroilor și putem vizita muzeele confortabil, unul după altul. La prânz ne bucurăm de drumul de coastă spre port. După-amiaza este dedicată arheologiei, iar la final conducem spre plaja Lefkada pentru a vedea valurile din mașina caldă.",
+            "en": "We start the day relaxing in the warm springs of Therma while rain patters on the roof. By car, we reach Heroes' Square dry and can comfortably visit the museums one after another. Midday, we enjoy the drive along the wild coast to the port. The afternoon is for archaeology, and we finish at Lefkada beach, watching the waves from the warmth of the car."
+          },
+          "stops": [
+            {
+              "name": "Thermal Springs of Therma",
+              "tip_5lang": {
+                "de": "Parkplätze sind direkt bei den Thermen verfügbar.",
+                "hu": "Parkolóhelyek közvetlenül a termálfürdőnél találhatók.",
+                "ro": "Locurile de parcare sunt disponibile chiar lângă izvoarele termale.",
+                "en": "Parking spaces are available directly by the thermal springs."
+              }
+            },
+            {
+              "name": "Heroes' Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz oberhalb der Stadt, um ins Zentrum zu gelangen.",
+                "hu": "Használja a város feletti parkolót a központ eléréséhez.",
+                "ro": "Folosiți parcarea de deasupra orașului pentru a ajunge în centru.",
+                "en": "Use the parking lot above the town to reach the center."
+              }
+            },
+            {
+              "name": "Folklore and History Museum",
+              "tip_5lang": {
+                "de": "Kurze Wege vom Auto zum Eingang minimieren die Regenzeit.",
+                "hu": "Rövid séta az autótól a bejáratig, így alig ázik meg.",
+                "ro": "Distanța scurtă de la mașină la intrare minimizează timpul petrecut în ploaie.",
+                "en": "Short walks from the car to the entrance minimize time in the rain."
+              }
+            },
+            {
+              "name": "Port of Agios Kirykos",
+              "tip_5lang": {
+                "de": "Fahren Sie bis zum Hafenbecken vor, um die Aussicht zu genießen.",
+                "hu": "Hajtson le egészen a kikötőmedencéhez a látványért.",
+                "ro": "Conduceți până la digul portului pentru a vă bucura de priveliște.",
+                "en": "Drive right down to the port basin to enjoy the view."
+              }
+            },
+            {
+              "name": "Archaeological Museum",
+              "tip_5lang": {
+                "de": "Hinter dem Museum gibt es oft freie Parkflächen.",
+                "hu": "A múzeum mögött gyakran találni szabad parkolót.",
+                "ro": "În spatele muzeului se găsesc adesea locuri de parcare libere.",
+                "en": "There are often free parking spaces behind the museum."
+              }
+            },
+            {
+              "name": "Lefkada Beach",
+              "tip_5lang": {
+                "de": "Die Zufahrtsstraße kann bei starkem Regen rutschig sein.",
+                "hu": "A bekötőút heves esőzéskor csúszós lehet.",
+                "ro": "Drumul de acces poate fi alunecos în timpul ploilor torențiale.",
+                "en": "The access road can be slippery during heavy rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vorsicht vor Steinschlag auf den Küstenstraßen bei starkem Regen.",
+              "Die Parkplatzsuche in Agios Kirykos ist im Winter/bei Regen einfacher.",
+              "Nutzen Sie die Heizung, um die Feuchtigkeit im Wagen zu reduzieren.",
+              "Achten Sie auf Sturzbäche, die kurzzeitig Straßen queren können."
+            ],
+            "hu": [
+              "Vigyázzon a kőomlásokra a parti utakon heves esőzéskor.",
+              "A parkolás Agios Kirykosban télen/esőben sokkal egyszerűbb.",
+              "Használja a fűtést a pára lecsapatására az autóban.",
+              "Ügyeljen az utakon átfolyó hirtelen vízmosásokra."
+            ],
+            "ro": [
+              "Atenție la căderile de pietre pe drumurile de coastă în timpul ploii.",
+              "Găsirea unui loc de parcare în Agios Kirykos este mai ușoară iarna/pe ploaie.",
+              "Folosiți încălzirea pentru a reduce umiditatea din mașină.",
+              "Atenție la torenții care pot traversa drumul temporar."
+            ],
+            "en": [
+              "Watch out for rockfalls on coastal roads during heavy rain.",
+              "Parking in Agios Kirykos is much easier in winter/rainy weather.",
+              "Use the heater to reduce humidity inside the vehicle.",
+              "Be alert for flash streams that may briefly cross the roads."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein entspannter Wintertag beginnt mit der Fahrt zu den dampfenden Quellen von Therma. Das Auto hält uns warm, während wir die menschenleeren Straßen von Agios Kirykos erkunden. Nach dem Besuch der Museen genießen wir eine Panoramafahrt entlang der Küste bis zum Lefkada Strand. Der Tag endet perfekt bei Sonnenuntergang am Hafen, bevor wir im warmen Wagen zurückkehren.",
+            "hu": "Pihentető téli nap kezdődik a Therma gőzölgő forrásaihoz vezető úttal. Az autó melegen tart, miközben felfedezzük Agios Kirykos néptelen utcáit. A múzeumlátogatások után panorámás autózást élvezünk a part mentén egészen a Lefkada strandig. A nap tökéletesen zárul a kikötői naplementével, mielőtt visszatérnénk a meleg kocsiba.",
+            "ro": "O zi relaxantă de iarnă începe cu drumul spre izvoarele aburinde din Therma. Mașina ne ține de cald în timp ce explorăm străzile pustii din Agios Kirykos. După vizitarea muzeelor, ne bucurăm de o plimbare panoramică pe coastă până la plaja Lefkada. Ziua se încheie perfect cu apusul în port înainte de a ne întoarce în mașina caldă.",
+            "en": "A relaxing winter day starts with a drive to the steaming springs of Therma. The car keeps us warm while we explore the deserted streets of Agios Kirykos. After visiting the museums, we enjoy a panoramic drive along the coast to Lefkada beach. The day ends perfectly with a sunset at the port before returning in the warm car."
+          },
+          "stops": [
+            {
+              "name": "Thermal Springs of Therma",
+              "tip_5lang": {
+                "de": "Im Winter ist es hier besonders ruhig und entspannend.",
+                "hu": "Télen itt különösen csendes és pihentető minden.",
+                "ro": "Iarna este deosebit de liniște și relaxant aici.",
+                "en": "It is especially quiet and relaxing here during the winter."
+              }
+            },
+            {
+              "name": "Heroes' Square",
+              "tip_5lang": {
+                "de": "Im Winter können Sie oft direkt am Stadtrand parken.",
+                "hu": "Télen gyakran közvetlenül a város szélén is lehet parkolni.",
+                "ro": "Iarna puteți parca adesea chiar la marginea orașului.",
+                "en": "In winter, you can often park right at the edge of town."
+              }
+            },
+            {
+              "name": "Folklore and History Museum",
+              "tip_5lang": {
+                "de": "Prüfen Sie, ob das Museum im Winter früher schließt.",
+                "hu": "Ellenőrizze, hogy a múzeum nem zár-e korábban télen.",
+                "ro": "Verificați dacă muzeul se închide mai devreme iarna.",
+                "en": "Check if the museum closes earlier during the winter season."
+              }
+            },
+            {
+              "name": "Port of Agios Kirykos",
+              "tip_5lang": {
+                "de": "Die Wintersonne bietet tolles Licht für Fotos vom Wagen aus.",
+                "hu": "A téli nap remek fényeket ad a kocsiból készített fotókhoz.",
+                "ro": "Soarele de iarnă oferă o lumină excelentă pentru fotografii din mașină.",
+                "en": "The winter sun provides great light for photos from the car."
+              }
+            },
+            {
+              "name": "Archaeological Museum",
+              "tip_5lang": {
+                "de": "Der Parkplatz direkt vor dem Museum ist im Winter meist frei.",
+                "hu": "A múzeum előtti parkoló télen többnyire üres.",
+                "ro": "Parcarea din fața muzeului este de obicei liberă iarna.",
+                "en": "The parking lot in front of the museum is usually empty in winter."
+              }
+            },
+            {
+              "name": "Lefkada Beach",
+              "tip_5lang": {
+                "de": "Ein kurzer Spaziergang am leeren Strand lüftet den Wagen gut durch.",
+                "hu": "Egy rövid séta az üres strandon jól átszellőzteti a fejet.",
+                "ro": "O scurtă plimbare pe plaja goală este revigorantă.",
+                "en": "A short walk on the empty beach is very refreshing."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tanken Sie rechtzeitig, da einige Tankstellen im Winter früher schließen.",
+              "Die Straßen sind im Winter oft nass oder von herabgefallenen Ästen blockiert.",
+              "Genießen Sie die freie Parkplatzwahl in Therma und Agios Kirykos.",
+              "Der Sonnenuntergang über dem Meer ist im Winter besonders farbenfroh."
+            ],
+            "hu": [
+              "Tankoljon időben, mert néhány kút korábban zárhat télen.",
+              "Az utak télen gyakran vizesek vagy lehullott ágak akadályozhatják a forgalmat.",
+              "Élvezze a szabad parkolóhely-választást Thermában és Agios Kirykosban.",
+              "A tenger feletti naplemente télen különösen színpompás."
+            ],
+            "ro": [
+              "Alimentați din timp, unele benzinării pot închide mai devreme iarna.",
+              "Drumurile sunt adesea umede sau blocate de crengi căzute iarna.",
+              "Bucurați-vă de libertatea de a alege locul de parcare în Therma și Agios Kirykos.",
+              "Apusul de soare peste mare este deosebit de colorat iarna."
+            ],
+            "en": [
+              "Refuel in time as some gas stations may close earlier in winter.",
+              "Roads are often wet or blocked by fallen branches in winter.",
+              "Enjoy the free choice of parking in Therma and Agios Kirykos.",
+              "The sunset over the sea is particularly colorful in winter."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1073,7 +1601,7 @@
       "speed_kmh": 15,
       "start": "09:00",
       "end_estimate": "17:10",
-      "total_km": 8.9,
+      "total_km": 4.5,
       "stop_count": 5,
       "stops": [
         {
@@ -1398,6 +1926,170 @@
           "Buses can be crowded during peak season.",
           "Confirm the last bus back to Agios Kirykos."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem lokalen Bus erreichen wir den Heldenplatz, während wir den Regen aus dem Fenster beobachten. Der Tag ist perfekt getaktet: Museumsbesuche bieten Schutz bei den Schauern. Mittags fahren wir mit dem Taxi oder Bus zu den Thermen von Therma, um im heißen Wasser zu entspannen. Der späte Nachmittag gehört der Archäologie, bevor wir im Trockenen zurück zur Unterkunft fahren.",
+            "hu": "Helyi busszal érjük el a Hősök terét, miközben az ablakból figyeljük az esőt. A napunk jól tervezett: a múzeumlátogatások védelmet nyújtanak a záporok alatt. Délben taxival vagy busszal megyünk Therma forrásaihoz, hogy a forró vízben lazítsunk. A késő délután a régészeté, mielőtt szárazon visszatérnénk a szállásra.",
+            "ro": "Cu autobuzul local ajungem în Piața Eroilor, privind ploaia pe geam. Ziua este bine planificată: vizitele la muzee oferă adăpost în timpul averselor. La prânz mergem cu taxiul sau autobuzul la izvoarele din Therma pentru relaxare în apa fierbinte. După-amiaza târzie este pentru arheologie, înainte de a ne întoarce la cazare.",
+            "en": "We reach Heroes' Square by local bus, watching the rain from the window. The day is well-timed: museum visits provide cover during downpours. Midday, we take a taxi or bus to the springs of Therma to relax in the hot water. Late afternoon is for archaeology before returning to our accommodation in the dry."
+          },
+          "stops": [
+            {
+              "name": "Heroes' Square",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle liegt zentral und bietet einen Unterstand.",
+                "hu": "A buszmegálló központi helyen van és fedett váróval rendelkezik.",
+                "ro": "Stația de autobuz este centrală și are un adăpost.",
+                "en": "The bus stop is central and has a shelter."
+              }
+            },
+            {
+              "name": "Port of Agios Kirykos",
+              "tip_5lang": {
+                "de": "Vom Hafen aus fahren im Winter weniger Wassertaxis.",
+                "hu": "A kikötőből télen kevesebb vízitaxi indul.",
+                "ro": "Din port pleacă mai puține taxiuri pe apă în timpul iernii.",
+                "en": "Fewer water taxis operate from the port during the winter/rainy season."
+              }
+            },
+            {
+              "name": "Archaeological Museum",
+              "tip_5lang": {
+                "de": "Ein Taxi vom Museum zum Hafen kostet nur wenige Euro.",
+                "hu": "Egy taxi a múzeumtól a kikötőig csak pár euróba kerül.",
+                "ro": "Un taxi de la muzeu până în port costă doar câțiva euro.",
+                "en": "A taxi from the museum to the port costs only a few euros."
+              }
+            },
+            {
+              "name": "Thermal Springs of Therma",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Busfahrplan, da die Frequenz bei Regen abnehmen kann.",
+                "hu": "Ellenőrizze a buszmenetrendet, mert esőben ritkulhatnak a járatok.",
+                "ro": "Verificați programul autobuzelor, frecvența poate scădea pe ploaie.",
+                "en": "Check the bus schedule, as frequency might decrease during heavy rain."
+              }
+            },
+            {
+              "name": "Lefkada Beach",
+              "tip_5lang": {
+                "de": "Taxis bringen Sie direkt zum Einstieg des Strandpfades.",
+                "hu": "A taxik közvetlenül a strandhoz vezető ösvény elejéig viszik.",
+                "ro": "Taxiurile vă duc direct la începutul potecii spre plajă.",
+                "en": "Taxis will drop you right at the start of the beach path."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Haben Sie die Nummer eines lokalen Taxiunternehmens bereit.",
+              "Busse auf Ikaria sind bei Regen oft voll; seien Sie frühzeitig da.",
+              "Die Wartebereiche an den Haltestellen sind meist klein.",
+              "Fragen Sie den Busfahrer nach der Rückfahrzeit aus Therma."
+            ],
+            "hu": [
+              "Legyen kéznél egy helyi taxitársaság telefonszáma.",
+              "Az ikáriai buszok esőben gyakran tele vannak; érkezzen időben.",
+              "A megállók várótermei általában kicsik.",
+              "Kérdezze meg a buszsofőrt a Thermából induló utolsó járatról."
+            ],
+            "ro": [
+              "Aveți la îndemână numărul unei companii locale de taxi.",
+              "Autobuzele din Ikaria sunt adesea pline pe ploaie; veniți din timp.",
+              "Zonele de așteptare din stații sunt de obicei mici.",
+              "Întrebați șoferul despre ora de întoarcere din Therma."
+            ],
+            "en": [
+              "Keep the number of a local taxi company handy.",
+              "Ikarian buses are often crowded in the rain; arrive early.",
+              "Waiting areas at bus stops are generally small.",
+              "Ask the bus driver for the return time from Therma."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein ruhiger Wintermorgen beginnt mit dem Inselbus zum Heldenplatz. Wir erkunden die Stadt und die Museen, während die Wintersonne die See glitzern lässt. Mittags nehmen wir den Bus nach Therma, um in den heißen Thermalquellen die Seele baumeln zu lassen. Der Nachmittag endet mit einer Rückfahrt zum Hafen, gerade rechtzeitig zum frühen Sonnenuntergang, bevor der letzte Bus uns zurückbringt.",
+            "hu": "Csendes téli reggel indul az iskolabusszal vagy a helyi járattal a Hősök terére. Felfedezzük a várost és a múzeumokat, miközben a téli nap megcsillantja a tengert. Délben busszal megyünk Thermába, hogy a forró termálforrásokban lazítsunk. A délután a kikötői visszautazással zárul, épp időben a korai naplementéhez.",
+            "ro": "O dimineață liniștită de iarnă începe cu autobuzul spre Piața Eroilor. Explorăm orașul și muzeele în timp ce soarele de iarnă face marea să strălucească. La prânz luăm autobuzul spre Therma pentru a ne relaxa în izvoarele termale. După-amiaza se încheie cu întoarcerea în port, exact la timp pentru apusul devreme.",
+            "en": "A quiet winter morning starts with the local bus to Heroes' Square. We explore the town and museums while the winter sun makes the sea sparkle. Midday, we take the bus to Therma to unwind in the hot thermal springs. The afternoon ends with a return trip to the port, just in time for the early sunset before the last bus back."
+          },
+          "stops": [
+            {
+              "name": "Heroes' Square",
+              "tip_5lang": {
+                "de": "Der Winterfahrplan der Busse ist stark reduziert; prüfen Sie ihn genau.",
+                "hu": "A téli buszmenetrend jelentősen ritkább; ellenőrizze alaposan.",
+                "ro": "Programul de iarnă al autobuzelor este redus; verificați-l cu atenție.",
+                "en": "The winter bus schedule is significantly reduced; check it carefully."
+              }
+            },
+            {
+              "name": "Port of Agios Kirykos",
+              "tip_5lang": {
+                "de": "Der Hafen ist im Winter der zentrale Knotenpunkt für alle Taxis.",
+                "hu": "A kikötő télen az összes taxi központi csomópontja.",
+                "ro": "Portul este nodul central pentru toate taxiurile în timpul iernii.",
+                "en": "The port is the central hub for all taxis during the winter."
+              }
+            },
+            {
+              "name": "Archaeological Museum",
+              "tip_5lang": {
+                "de": "Das Museum ist vom Stadtzentrum aus in 10 Minuten zu Fuß erreichbar.",
+                "hu": "A múzeum a városközpontból 10 perc sétával elérhető.",
+                "ro": "Muzeul este la 10 minute de mers pe jos de centrul orașului.",
+                "en": "The museum is a 10-minute walk from the town center."
+              }
+            },
+            {
+              "name": "Thermal Springs of Therma",
+              "tip_5lang": {
+                "de": "Die letzte Busverbindung zurück ist im Winter oft schon gegen 16:00 Uhr.",
+                "hu": "Az utolsó buszjárat visszafelé télen gyakran már 16:00 körül indul.",
+                "ro": "Ultima legătură de autobuz spre casă este adesea în jurul orei 16:00 iarna.",
+                "en": "The last bus connection back is often as early as 16:00 in winter."
+              }
+            },
+            {
+              "name": "Lefkada Beach",
+              "tip_5lang": {
+                "de": "Vereinbaren Sie eine Abholzeit mit dem Taxifahrer, da vor Ort kaum Funkempfang ist.",
+                "hu": "Beszéljen meg visszfuvar-időpontot a taxissal, mert a parton alig van térerő.",
+                "ro": "Stabiliți o oră de preluare cu taximetristul, semnalul este slab pe plajă.",
+                "en": "Arrange a pickup time with the taxi driver, as signal can be weak at the beach."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Im Winter orientieren sich die Busse oft an den Schulzeiten.",
+              "Taxis sind im Winter die zuverlässigste Option für Fahrten nach Therma.",
+              "Erwarten Sie keine digitalen Anzeigen; fragen Sie in den Cafés nach dem Bus.",
+              "Nutzen Sie die Wartezeit in den beheizten Cafés am Heldenplatz."
+            ],
+            "hu": [
+              "Télen a buszok gyakran az iskolai tanrendhez igazodnak.",
+              "A taxi télen a legmegbízhatóbb opció a Thermába való utazáshoz.",
+              "Ne várjon digitális kijelzőket; kérdezzen a kávézókban a buszról.",
+              "Töltse a várakozási időt a Hősök tere fűtött kávézóiban."
+            ],
+            "ro": [
+              "Iarna, autobuzele se ghidează adesea după orarul școlar.",
+              "Taxiurile sunt cea mai sigură opțiune pentru Therma în timpul iernii.",
+              "Nu vă așteptați la panouri digitale; întrebați de autobuz în cafenele.",
+              "Petreceți timpul de așteptare în cafenelele încălzite din Piața Eroilor."
+            ],
+            "en": [
+              "In winter, buses often follow school schedules.",
+              "Taxis are the most reliable option for trips to Therma in winter.",
+              "Don't expect digital displays; ask about the bus in the local cafés.",
+              "Spend any waiting time in the heated cafés at Heroes' Square."
+            ]
+          }
+        }
       }
     }
   }

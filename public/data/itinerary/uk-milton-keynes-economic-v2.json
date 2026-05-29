@@ -293,6 +293,170 @@
           "Check museum opening times in advance.",
           "Milton Keynes is widespread, this tour focuses on a walkable core."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie im überdachten Centre:MK, einem Paradies an regnerischen Tagen. Mittags führt der Weg durch den Campbell Park, wo befestigte Wege den Schlamm fernhalten. Der Nachmittag im Milton Keynes Museum bietet Schutz in historischen Hallen. Den Tag beschließen Sie an der Peace Pagoda, wo der Regen eine mystische Stille über den See legt, bevor Sie ins trockene Stadtzentrum zurückkehren.",
+            "hu": "Kezdje a napot a Centre:MK hatalmas fedett folyosóin, védve az esőtől. Délben a Campbell Park aszfaltozott útjain sétálhat, elkerülve a sarat. A délutánt töltse a Milton Keynes Museum fedett kiállítótereiben. A napot a Peace Pagoda mellett zárja, ahol az eső különleges, meditatív hangulatot áraszt a tó partján, majd keressen egy meleg teázót a központban.",
+            "ro": "Începeți ziua în Centre:MK, un spațiu vast și acoperit, perfect pentru ploaie. La prânz, traversați Campbell Park pe potecile asfaltate pentru a evita noroiul. După-amiaza este dedicată Milton Keynes Museum, unde galeriile interioare vă oferă adăpost. Încheiați ziua la Peace Pagoda, unde ploaia creează o atmosferă liniștită pe malul lacului, înainte de a reveni în centru.",
+            "en": "Start your day inside the vast, covered avenues of The Centre:MK. At noon, head through Campbell Park using the paved Redways to avoid the mud. Spend the afternoon sheltered within the fascinating galleries of the Milton Keynes Museum. Finish at the Peace Pagoda, where the rain brings a misty, serene atmosphere to the lakeside before heading back to the dry city core."
+          },
+          "stops": [
+            {
+              "name": "The Centre:MK",
+              "tip_5lang": {
+                "de": "Nutzen Sie die glasüberdachten Passagen, um absolut trocken zu bleiben.",
+                "hu": "Használja az üvegtetős passzázsokat, így teljesen szárazon maradhat.",
+                "ro": "Folosiți pasajele cu acoperiș de sticlă pentru a rămâne complet uscat.",
+                "en": "Use the glass-roofed boulevards to stay completely dry while exploring."
+              }
+            },
+            {
+              "name": "Campbell Park",
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den asphaltierten Wegen, um nasse Wiesen zu vermeiden.",
+                "hu": "Maradjon az aszfaltozott utakon, hogy elkerülje a vizes füvet.",
+                "ro": "Rămâneți pe aleile asfaltate pentru a evita iarba udă.",
+                "en": "Stick to the paved paths to avoid the damp, grassy areas."
+              }
+            },
+            {
+              "name": "Milton Keynes Museum",
+              "tip_5lang": {
+                "de": "Die viktorianische Straße im Inneren ist der perfekte Zufluchtsort.",
+                "hu": "A belső viktoriánus utca tökéletes menedék az eső elől.",
+                "ro": "Strada victoriană din interior este refugiul perfect împotriva ploii.",
+                "en": "The indoor Victorian street scene is the perfect refuge from rain."
+              }
+            },
+            {
+              "name": "Bradwell Abbey",
+              "tip_5lang": {
+                "de": "Die kleine Kapelle bietet kurzzeitig Schutz und tolle Akustik.",
+                "hu": "A kis kápolna rövid ideig menedéket és remek akusztikát nyújt.",
+                "ro": "Mica capelă oferă un adăpost temporar și o acustică excelentă.",
+                "en": "The small chapel offers temporary shelter and great acoustics."
+              }
+            },
+            {
+              "name": "Peace Pagoda",
+              "tip_5lang": {
+                "de": "Vorsicht, die Stufen zur Pagode können bei Nässe rutschig sein.",
+                "hu": "Vigyázat, a pagoda lépcsői nedvesen csúszósak lehetnek.",
+                "ro": "Atenție, treptele pagodei pot fi alunecoase când sunt ude.",
+                "en": "Be careful, the pagoda steps can be slippery when wet."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie das Porte-Cochère-System zum Einsteigen in Busse ohne nass zu werden.",
+              "Die Redways sind oft von Bäumen gesäumt, die leichten Regen abhalten.",
+              "Das Centre:MK bietet hunderte Geschäfte unter einem einzigen Dach.",
+              "Packen Sie einen stabilen Schirm ein, da es auf den breiten Boulevards windig sein kann."
+            ],
+            "hu": [
+              "Használja a Porte-Cochère rendszert a buszra szálláshoz, hogy ne ázzon el.",
+              "A Redway utak menti fák felfogják az enyhébb esőt.",
+              "A Centre:MK több száz üzletet kínál egyetlen hatalmas tető alatt.",
+              "Vigyen szélálló esernyőt, mert a széles sugárutakon fújhat a szél."
+            ],
+            "ro": [
+              "Utilizați sistemul Porte-Cochère pentru a urca în autobuz fără a vă uda.",
+              "Copacii de-a lungul drumurilor Redway opresc ploaia ușoară.",
+              "Centre:MK oferă sute de magazine sub un singur acoperiș imens.",
+              "Luați o umbrelă rezistentă, deoarece vântul poate fi puternic pe bulevarde."
+            ],
+            "en": [
+              "Use the Porte-Cochère system for sheltered bus boarding throughout the city.",
+              "The Redway paths are often tree-lined, providing some cover from light rain.",
+              "The Centre:MK provides miles of indoor walking through hundreds of shops.",
+              "Pack a wind-resistant umbrella as the wide boulevards can get breezy."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens glitzert der Frost auf den Boulevards am Centre:MK. Mittags wärmt ein Spaziergang durch den Campbell Park, während die Wintersonne tief steht. Nachmittags tauchen Sie im Museum in die Geschichte ein, bevor die frühe Dämmerung Bradwell Abbey in mystisches Licht hüllt. Der Abend endet frostig, aber friedlich an der Peace Pagoda, gefolgt von einem heißen Getränk in der Stadt.",
+            "hu": "Reggel a dér csillog a Centre:MK sugárútjain. Délben a Campbell Park dombjai között sétálhat az alacsonyan járó téli napfényben. Délután a múzeum melegében ismerkedhet a helyi múlttal, mielőtt a korai sötétedés eléri Bradwell Abbey-t. A nap fagyos, de békés hangulatban ér véget a Peace Pagoda mellett, egy forró ital társaságában.",
+            "ro": "Dimineața, promoroaca strălucește pe bulevardele de lângă Centre:MK. La prânz, o plimbare prin Campbell Park sub soarele slab de iarnă vă va încălzi. După-amiaza vizitați muzeul, iar amurgul timpuriu oferă o lumină magică la Bradwell Abbey. Seara se încheie rece, dar liniștit la Peace Pagoda, urmată de o băutură caldă în centru.",
+            "en": "Morning frost glistens on the wide boulevards near The Centre:MK. At noon, enjoy a brisk walk through Campbell Park under the low winter sun. Spend the afternoon in the warmth of the museum before early twilight casts a mystical glow over Bradwell Abbey. The day ends with a peaceful, chilly visit to the Peace Pagoda followed by hot drinks back in town."
+          },
+          "stops": [
+            {
+              "name": "The Centre:MK",
+              "tip_5lang": {
+                "de": "Genießen Sie die festliche Beleuchtung und die warme Innenluft.",
+                "hu": "Élvezze az ünnepi kivilágítást és a benti kellemes meleget.",
+                "ro": "Bucurați-vă de luminile festive și de aerul cald din interior.",
+                "en": "Enjoy the festive lights and the welcoming indoor warmth."
+              }
+            },
+            {
+              "name": "Campbell Park",
+              "tip_5lang": {
+                "de": "Der Aussichtspunkt bietet klare Sicht auf die winterliche Landschaft.",
+                "hu": "A kilátópontról tiszta időben csodás a téli táj panorámája.",
+                "ro": "Punctul de belvedere oferă o vedere clară asupra peisajului de iarnă.",
+                "en": "The viewpoint offers crisp, clear views of the winter landscape."
+              }
+            },
+            {
+              "name": "Milton Keynes Museum",
+              "tip_5lang": {
+                "de": "Fragen Sie nach den speziellen Winter-Events und Handwerkstagen.",
+                "hu": "Érdeklődjön a speciális téli eseményekről és kézműves napokról.",
+                "ro": "Întrebați despre evenimentele de iarnă și zilele de meșteșuguri.",
+                "en": "Check for special winter events and traditional craft days."
+              }
+            },
+            {
+              "name": "Bradwell Abbey",
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Ort vor 16 Uhr, um das Tageslicht zu nutzen.",
+                "hu": "Látogasson el ide 16 óra előtt, hogy még lásson a napfénynél.",
+                "ro": "Vizitați acest loc înainte de ora 16:00 pentru a profita de lumină.",
+                "en": "Visit before 4 PM to make the most of the remaining daylight."
+              }
+            },
+            {
+              "name": "Peace Pagoda",
+              "tip_5lang": {
+                "de": "Warme Kleidung ist wichtig, da der Wind vom See her eisig ist.",
+                "hu": "Öltözzön rétegesen, mert a tó felől fújó szél jéghideg lehet.",
+                "ro": "Îmbrăcați-vă bine, vântul de pe lac poate fi tăios iarna.",
+                "en": "Dress warmly as the wind coming off the lake can be icy."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Dezember bereits gegen 16:00 Uhr unter.",
+              "Die Redways können bei Frost stellenweise rutschig sein.",
+              "Nutzen Sie die vielen Cafés im Stadtzentrum zum Aufwärmen.",
+              "Tragen Sie gute Handschuhe, da Milton Keynes sehr windanfällig ist."
+            ],
+            "hu": [
+              "A nap decemberben már délután 4 óra körül lemegy.",
+              "A Redway utak fagy esetén helyenként csúszósak lehetnek.",
+              "Használja ki a városközpont számos kávézóját a felmelegedéshez.",
+              "Viseljen jó kesztyűt, mert Milton Keynes kifejezetten szeles város."
+            ],
+            "ro": [
+              "Soarele apune în decembrie deja în jurul orei 16:00.",
+              "Drumurile Redway pot fi alunecoase pe alocuri în caz de îngheț.",
+              "Profitați de numeroasele cafenele din centru pentru a vă încălzi.",
+              "Purtați mănuși bune, deoarece Milton Keynes este un oraș vântos."
+            ],
+            "en": [
+              "Sunset occurs around 4:00 PM in the depths of December.",
+              "Redway paths can be patchy with ice during heavy frost.",
+              "Warm up in the numerous coffee shops located in the city centre.",
+              "Wear windproof gloves as the grid layout creates wind tunnels."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -591,6 +755,188 @@
           "Plan your route in advance as the city is spread out.",
           "Many of the parks and lakes have cycle paths."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie am Centre:MK, wo überdachte Radständer Schutz bieten. Über den Campbell Park geht es auf asphaltierten Redways zur Peace Pagoda, während der Regen auf die Blätter prasselt. Umrunden Sie den Willen Lake, wo die Wege gut entwässert sind. Nach einem Stopp bei Bradwell Abbey bietet das Snozone am späten Nachmittag eine perfekte, trockene Indoor-Umgebung zum Abschluss.",
+            "hu": "Kezdjen a Centre:MK-nál, ahol fedett tárolók védik a biciklit. A Campbell Parkon át az aszfaltozott Redway utakon tekerhet a Peace Pagodáig az esőben. Kerülje meg a Willen Lake-et, ahol az utak vízelvezetése kiváló. Bradwell Abbey után a Snozone nyújt tökéletes, száraz beltéri környezetet a nap végére.",
+            "ro": "Porniți de la Centre:MK, unde rastelele acoperite vă protejează bicicleta. Prin Campbell Park, mergeți pe Redways asfaltate spre Peace Pagoda în timp ce plouă. Înconjurați Willen Lake, unde drumurile au drenaj bun. După Bradwell Abbey, Snozone oferă un mediu interior uscat pentru finalul zilei.",
+            "en": "Start at Centre:MK where sheltered cycle racks keep your bike dry. Ride through Campbell Park on paved Redways to the Peace Pagoda. Loop around Willen Lake, where the paths are well-drained even in downpours. After Bradwell Abbey, the Snozone provides a perfect, dry indoor environment to finish your rainy cycling day."
+          },
+          "stops": [
+            {
+              "name": "The Centre:MK",
+              "tip_5lang": {
+                "de": "Nutzen Sie die markierten, überdachten Fahrradstellplätze.",
+                "hu": "Használja a kijelölt, fedett kerékpártárolókat.",
+                "ro": "Utilizați parcările pentru biciclete marcate și acoperite.",
+                "en": "Utilize the marked, sheltered cycle parking bays near entrances."
+              }
+            },
+            {
+              "name": "Campbell Park",
+              "tip_5lang": {
+                "de": "Achten Sie auf nasses Laub auf den kurvigen Abfahrten.",
+                "hu": "Ügyeljen a nedves levelekre a kanyargós lejtőkön.",
+                "ro": "Fiți atenți la frunzele ude pe coborârile cu viraje.",
+                "en": "Watch out for wet leaves on the winding downhill sections."
+              }
+            },
+            {
+              "name": "Peace Pagoda",
+              "tip_5lang": {
+                "de": "Der Boden um die Pagode kann sehr rutschig sein.",
+                "hu": "A pagoda körüli burkolat nagyon csúszós lehet.",
+                "ro": "Pavajul din jurul pagodei poate fi foarte alunecos.",
+                "en": "The flooring around the pagoda can be very slick when wet."
+              }
+            },
+            {
+              "name": "Willen Lake",
+              "tip_5lang": {
+                "de": "Gute Schutzbleche sind hier bei Pfützen unerlässlich.",
+                "hu": "A sárvédő itt elengedhetetlen a tó körüli tócsák miatt.",
+                "ro": "Apărătorile de noroi sunt esențiale aici din cauza bălților.",
+                "en": "Mudguards are essential here to handle lakeside puddles."
+              }
+            },
+            {
+              "name": "Bradwell Abbey",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den Bäumen am Rande des Geländes.",
+                "hu": "Keressen menedéket a terület szélén lévő fák alatt.",
+                "ro": "Căutați adăpost sub copacii de la marginea sitului.",
+                "en": "Look for shelter under the trees at the edge of the site."
+              }
+            },
+            {
+              "name": "Snozone",
+              "tip_5lang": {
+                "de": "Hier können Sie sich im Warmen umziehen und trocknen.",
+                "hu": "Itt a melegben átöltözhet és megszárítkozhat.",
+                "ro": "Aici vă puteți schimba și usca la căldură.",
+                "en": "You can change clothes and dry off in the warm interior here."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Redways sind getrennt vom Verkehr und bei Regen sicherer.",
+              "Vermeiden Sie scharfes Bremsen auf bemalten Bodenmarkierungen.",
+              "Das Snozone bietet Schließfächer für nasse Ausrüstung.",
+              "Tragen Sie eine wasserdichte Warnweste für bessere Sichtbarkeit."
+            ],
+            "hu": [
+              "A Redway hálózat elkülönül a forgalomtól, így esőben is biztonságosabb.",
+              "Kerülje az erős fékezést a festett útburkolati jeleken.",
+              "A Snozone területén találhatók szekrények a vizes felszerelésnek.",
+              "Viseljen vízálló láthatósági mellényt a jobb láthatóságért."
+            ],
+            "ro": [
+              "Rețeaua Redway este separată de trafic, fiind mai sigură pe ploaie.",
+              "Evitați frânarea bruscă pe marcajele rutiere vopsite.",
+              "Snozone oferă dulapuri pentru echipamentul ud.",
+              "Purtați o vestă reflectorizantă impermeabilă pentru vizibilitate."
+            ],
+            "en": [
+              "The Redway network is separate from cars, making it safer in rain.",
+              "Avoid sharp braking on painted road markings when wet.",
+              "The Snozone building has lockers available for damp cycling gear.",
+              "Wear a waterproof high-visibility jacket for better visibility."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens radeln Sie durch den gefrorenen Campbell Park zum Centre:MK. Die klare Winterluft ist erfrischend auf dem Weg zur Peace Pagoda und um den Willen Lake, wo das Eis am Ufer glitzert. Nach Bradwell Abbey erreichen Sie das Snozone, wo die winterliche Atmosphäre drinnen wie draußen perfekt harmoniert. Beenden Sie die Tour, bevor die Dunkelheit die Redways unübersichtlich macht.",
+            "hu": "Reggel a fagyos Campbell Parkon át tekerjen a Centre:MK-hoz. A friss téli levegő élénkítő a Peace Pagoda és a Willen Lake felé vezető úton, ahol a jég csillog a parton. Bradwell Abbey után érkezik a Snozone-hoz, ahol a téli hangulat kint és bent is tökéletes. Fejezze be a túrát, mielőtt a sötétség leszállna az utakra.",
+            "ro": "Dimineața, pedalați prin Campbell Park înghețat spre Centre:MK. Aerul proaspăt de iarnă este revigorant spre Peace Pagoda și Willen Lake. După Bradwell Abbey, ajungeți la Snozone, unde atmosfera de iarnă este perfectă atât în interior, cât și în exterior. Încheiați tura înainte ca întunericul să cuprindă drumurile.",
+            "en": "Morning cycles through a frozen Campbell Park lead to the Centre:MK. The crisp air is invigorating as you head to the Peace Pagoda and Willen Lake, where ice glitters on the shore. After Bradwell Abbey, arrive at Snozone, where the winter vibe is matched by the indoor slopes. Finish your ride before darkness makes the Redways harder to navigate."
+          },
+          "stops": [
+            {
+              "name": "The Centre:MK",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um schnell ins Warme zu kommen.",
+                "hu": "Parkoljon közel a bejárathoz, hogy gyorsan beérjen a melegbe.",
+                "ro": "Parcați aproape de intrare pentru a ajunge rapid la căldură.",
+                "en": "Park close to the entrance to minimize time in the cold."
+              }
+            },
+            {
+              "name": "Campbell Park",
+              "tip_5lang": {
+                "de": "Vorsicht vor Glatteis auf den Brücken im Park.",
+                "hu": "Vigyázzon a jegesedésre a park hídjain.",
+                "ro": "Atenție la gheață pe podurile din interiorul parcului.",
+                "en": "Be cautious of black ice on the bridges within the park."
+              }
+            },
+            {
+              "name": "Peace Pagoda",
+              "tip_5lang": {
+                "de": "Der Wind am Seeufer kann die gefühlte Temperatur senken.",
+                "hu": "A tóparti szél sokat ront a hőérzeten.",
+                "ro": "Vântul de pe malul lacului poate scădea temperatura resimțită.",
+                "en": "Lakeside winds can significantly lower the felt temperature."
+              }
+            },
+            {
+              "name": "Willen Lake",
+              "tip_5lang": {
+                "de": "Die Wege sind oft geräumt, aber Vorsicht in Schattenzonen.",
+                "hu": "Az utakat takarítják, de az árnyékos részeken csúszhat.",
+                "ro": "Drumurile sunt curățate, dar atenție în zonele cu umbră.",
+                "en": "Paths are usually cleared, but watch for ice in shaded spots."
+              }
+            },
+            {
+              "name": "Bradwell Abbey",
+              "tip_5lang": {
+                "de": "Kurzer Stopp reicht, da es hier wenig windgeschützte Ecken gibt.",
+                "hu": "Elég egy rövid megálló, kevés a szélvédett rész.",
+                "ro": "O oprire scurtă e suficientă, sunt puține locuri ferite de vânt.",
+                "en": "A short stop is best as there are few wind-sheltered spots here."
+              }
+            },
+            {
+              "name": "Snozone",
+              "tip_5lang": {
+                "de": "Der perfekte Ort für eine heiße Schokolade nach der Tour.",
+                "hu": "A tökéletes hely egy forró csokira a túra után.",
+                "ro": "Locul perfect pentru o ciocolată caldă după tură.",
+                "en": "The perfect place for a hot chocolate after your winter ride."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Ihre Fahrradbeleuchtung voll geladen ist.",
+              "Tragen Sie Thermo-Handschuhe gegen den Fahrtwind.",
+              "Die Redways werden bei Schnee oft priorisiert geräumt.",
+              "Vermeiden Sie das Fahren auf unbefestigten Waldwegen bei Frost."
+            ],
+            "hu": [
+              "Győződjön meg róla, hogy a kerékpáros lámpák fel vannak töltve.",
+              "Viseljen termokesztyűt a menetszél ellen.",
+              "A Redway utakat hó esetén gyakran elsőbbséggel takarítják.",
+              "Kerülje a burkolatlan erdei utakat fagyos időben."
+            ],
+            "ro": [
+              "Asigurați-vă că luminile bicicletei sunt complet încărcate.",
+              "Purtați mănuși termice împotriva vântului la pedalare.",
+              "Drumurile Redway sunt adesea curățate cu prioritate în caz de zăpadă.",
+              "Evitați drumurile forestiere neasfaltate pe timp de îngheț."
+            ],
+            "en": [
+              "Ensure your bike lights are fully charged for the early sunset.",
+              "Wear thermal gloves to protect against the wind chill while riding.",
+              "Primary Redway routes are often gritted and cleared with priority.",
+              "Avoid unpaved forest shortcuts during heavy frost or snow."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -911,6 +1257,188 @@
           "Be aware that distances between attractions can be significant.",
           "Use a navigation app to handle the many roundabouts."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag in Bletchley Park, wo die Gebäude Schutz vor dem Regen bieten. Mittags parken Sie bequem im Parkhaus des Centre:MK und bleiben im Trockenen. Nach einem kurzen Blick auf den regnerischen Campbell Park und Willen Lake fahren Sie zur Peace Pagoda. Der Nachmittag endet entspannt im Milton Keynes Museum, ideal für schlechtes Wetter.",
+            "hu": "Kezdje a napot Bletchley Parkban, ahol az épületek védelmet nyújtanak az esőtől. Délben parkoljon a Centre:MK fedett parkolójában, így szárazon maradhat. Egy rövid pillantás a néha ködös Campbell Parkra és Willen Lake-re, majd irány a Peace Pagoda. A délutánt a Milton Keynes Museum fedett tereiben zárhatja, ami ideális rossz időben.",
+            "ro": "Începeți ziua la Bletchley Park, unde clădirile oferă protecție împotriva ploii. La prânz, parcați confortabil în garajul de la Centre:MK pentru a rămâne uscat. După o scurtă privire spre Campbell Park și Willen Lake, mergeți la Peace Pagoda. După-amiaza se încheie relaxat la Milton Keynes Museum, ideal pentru vreme rea.",
+            "en": "Start at Bletchley Park, where indoor exhibits offer plenty of shelter. At noon, park in the multi-storey at Centre:MK to stay completely dry. After quick stops at the misty Campbell Park and Willen Lake, drive to the Peace Pagoda. The afternoon is best spent exploring the extensive indoor galleries of the Milton Keynes Museum."
+          },
+          "stops": [
+            {
+              "name": "Bletchley Park",
+              "tip_5lang": {
+                "de": "Parken Sie auf dem befestigten Hauptparkplatz.",
+                "hu": "Parkoljon a fő aszfaltozott parkolóban.",
+                "ro": "Parcați în parcarea principală asfaltată.",
+                "en": "Park in the main paved parking area to avoid puddles."
+              }
+            },
+            {
+              "name": "The Centre:MK",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkhäuser für direkten, trockenen Zugang.",
+                "hu": "Használja a parkolóházakat a közvetlen, száraz bejutáshoz.",
+                "ro": "Folosiți parcările etajate pentru acces direct și uscat.",
+                "en": "Use the multi-storey car parks for direct, dry access to shops."
+              }
+            },
+            {
+              "name": "Campbell Park",
+              "tip_5lang": {
+                "de": "Vom Parkplatz an der Silbury Boulevard hat man gute Sicht.",
+                "hu": "A Silbury Boulevard felőli parkolóból jó a rálátás.",
+                "ro": "Parcarea de pe Silbury Boulevard oferă o vedere bună.",
+                "en": "The parking along Silbury Boulevard offers a good view without walking."
+              }
+            },
+            {
+              "name": "Willen Lake",
+              "tip_5lang": {
+                "de": "Der Parkplatz direkt am Wassersportzentrum ist am nähsten.",
+                "hu": "A vízisport központ melletti parkoló van a legközelebb.",
+                "ro": "Parcarea de lângă centrul de sporturi nautice este cea mai apropiată.",
+                "en": "The car park right by the watersports centre is the closest."
+              }
+            },
+            {
+              "name": "Peace Pagoda",
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Parkplatz zur Pagode reicht aus.",
+                "hu": "A parkolótól csak egy rövid futás a pagoda.",
+                "ro": "E doar o scurtă fugă de la parcare până la pagodă.",
+                "en": "It is just a short dash from the car park to the pagoda."
+              }
+            },
+            {
+              "name": "Milton Keynes Museum",
+              "tip_5lang": {
+                "de": "Kostenloses Parken direkt vor dem trockenen Museumseingang.",
+                "hu": "Ingyenes parkolás közvetlenül a múzeum bejárata előtt.",
+                "ro": "Parcare gratuită chiar în fața intrării muzeului.",
+                "en": "Free parking is available right in front of the museum entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Spritzwasser in den Kreisverkehr-Senken.",
+              "Das Parken am Centre:MK ist samstags oft sehr voll.",
+              "Vermeiden Sie bei Starkregen tiefgelegene Unterführungen.",
+              "Nutzen Sie die Park-Apps, um Bezahlen im Regen zu vermeiden."
+            ],
+            "hu": [
+              "Ügyeljen a felfröccsenő vízre a körforgalmak mélyebb részein.",
+              "A Centre:MK parkolója szombatonként hamar megtelik.",
+              "Heves esőzéskor kerülje a mélyebben fekvő aluljárókat.",
+              "Használjon parkolási applikációt, hogy ne az esőben kelljen fizetni."
+            ],
+            "ro": [
+              "Atenție la apa acumulată în zonele joase ale sensurilor giratorii.",
+              "Parcarea la Centre:MK este adesea plină sâmbăta.",
+              "Evitați subpasajele joase în timpul ploilor torențiale.",
+              "Utilizați aplicațiile de parcare pentru a nu plăti în ploaie."
+            ],
+            "en": [
+              "Watch for standing water in the dips of the many roundabouts.",
+              "Parking at Centre:MK can get very busy on rainy Saturdays.",
+              "Avoid low-lying underpasses during exceptionally heavy downpours.",
+              "Use parking apps to avoid queuing at machines in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt frostig in Bletchley Park, wo die historische Atmosphäre im Winter besonders intensiv ist. Mittags lockt das festlich geschmückte Centre:MK. Nach kurzen Abstechern zum Campbell Park und Willen Lake, wo der Frost die Landschaft verzaubert, besuchen Sie die Peace Pagoda. Den Nachmittag verbringen Sie im warmen Milton Keynes Museum, bevor Sie im Dunkeln sicher heimfahren.",
+            "hu": "A nap fagyosan indul Bletchley Parkban, ahol a történelmi hangulat télen különösen erős. Délben a díszes Centre:MK várja. Rövid kitérők a Campbell Park és Willen Lake felé, ahol a dér varázsolja el a tájat, majd a Peace Pagoda következik. A délutánt a meleg múzeumban töltse, mielőtt a sötétben útnak indulna hazafelé.",
+            "ro": "Ziua începe rece la Bletchley Park, unde atmosfera istorică este intensă iarna. La prânz, vizitați Centre:MK decorat festiv. După scurte opriri la Campbell Park și Willen Lake, vizitați Peace Pagoda. Petreceți după-amiaza în muzeul călduros înainte de a pleca spre casă pe întuneric.",
+            "en": "The day begins with frost at Bletchley Park, where the winter atmosphere feels truly historic. At noon, enjoy the festive decorations at Centre:MK. After quick drives past the frosted landscapes of Campbell Park and Willen Lake, visit the Peace Pagoda. Spend the afternoon inside the warm museum before the early night falls."
+          },
+          "stops": [
+            {
+              "name": "Bletchley Park",
+              "tip_5lang": {
+                "de": "Einige Ausstellungsräume können im Winter kühl sein.",
+                "hu": "Néhány kiállítóterem télen hűvös lehet.",
+                "ro": "Unele săli de expoziție pot fi răcoroase iarna.",
+                "en": "Some of the huts and exhibit rooms can be chilly in winter."
+              }
+            },
+            {
+              "name": "The Centre:MK",
+              "tip_5lang": {
+                "de": "Bewundern Sie die großen Weihnachtsbäume in der Central Hall.",
+                "hu": "Csodálja meg a hatalmas karácsonyfákat a központi csarnokban.",
+                "ro": "Admirați brazii mari de Crăciun din hala centrală.",
+                "en": "Admire the huge Christmas trees in the Central Hall area."
+              }
+            },
+            {
+              "name": "Campbell Park",
+              "tip_5lang": {
+                "de": "Vom Auto aus hat man einen tollen Blick auf die Weihnachtsbeleuchtung.",
+                "hu": "Az autóból remek rálátás nyílik a városi fényekre.",
+                "ro": "Din mașină aveți o vedere excelentă asupra luminilor orașului.",
+                "en": "Stay in the car to enjoy the view of the city lights from the hill."
+              }
+            },
+            {
+              "name": "Willen Lake",
+              "tip_5lang": {
+                "de": "Der See ist oft neblig, was für tolle Fotos sorgt.",
+                "hu": "A tó környéke gyakran ködös, ami remek fotótéma.",
+                "ro": "Lacul este adesea cețos, oferind ocazii bune pentru fotografii.",
+                "en": "The lake is often misty, making for atmospheric winter photos."
+              }
+            },
+            {
+              "name": "Peace Pagoda",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist oft einsam und ruhig im Winter.",
+                "hu": "A parkoló télen gyakran csendes és elhagyatott.",
+                "ro": "Parcarea este adesea liniștită și liberă iarna.",
+                "en": "The car park is often very quiet and peaceful in winter."
+              }
+            },
+            {
+              "name": "Milton Keynes Museum",
+              "tip_5lang": {
+                "de": "Die Teestube bietet im Winter köstliches Gebäck.",
+                "hu": "A teázóban télen isteni sütemények kaphatók.",
+                "ro": "Ceainăria oferă produse de patiserie delicioase iarna.",
+                "en": "The museum tea room offers wonderful warm treats in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Reifendruck bei plötzlichem Kälteeinbruch.",
+              "Die H- und V-Straßen werden meist zügig geräumt.",
+              "Vorsicht vor überfrierender Nässe in den frühen Morgenstunden.",
+              "Die Parkhäuser bieten Schutz vor vereisten Scheiben."
+            ],
+            "hu": [
+              "Hirtelen lehűléskor ellenőrizze a guminyomást.",
+              "A főbb H és V utakat általában gyorsan takarítják.",
+              "Vigyázzon a lefagyásokra a kora reggeli órákban.",
+              "A parkolóházak megvédik az autót az ablakok jegesedésétől."
+            ],
+            "ro": [
+              "Verificați presiunea în anvelope la răciri bruște.",
+              "Drumurile principale H și V sunt curățate rapid de obicei.",
+              "Atenție la polei în orele dimineții.",
+              "Parcările etajate vă scutesc de dezghețarea parbrizului."
+            ],
+            "en": [
+              "Check your tyre pressure during sudden cold snaps.",
+              "The H and V grid roads are usually gritted and cleared quickly.",
+              "Beware of black ice on roundabout exits in early morning.",
+              "Using indoor car parks prevents your windows from frosting over."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1191,6 +1719,170 @@
           "Some buses may only accept contactless payments.",
           "Trains are the quickest way to get to Bletchley."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den Zug nach Bletchley, um den Tag trocken zu beginnen. Von dort bringt Sie der Bus direkt zum Centre:MK, wo Sie geschützt einkaufen können. Ein kurzer Bus-Trip führt zum Campbell Park und weiter zum Willen Lake. Trotz Regen erreichen Sie die Peace Pagoda gut mit öffentlichen Verkehrsmitteln, bevor Sie im Bus zurück ins Zentrum entspannen.",
+            "hu": "Használja a vonatot Bletchley-be a nap száraz kezdéséhez. Onnan a busz közvetlenül a Centre:MK-hoz viszi, ahol fedett helyen vásárolhat. Rövid buszút vezet a Campbell Parkhoz és a Willen Lake-hez. Esőben is jól megközelíthető a Peace Pagoda tömegközlekedéssel, majd dőljön hátra a buszon visszafelé.",
+            "ro": "Luați trenul spre Bletchley pentru a începe ziua uscat. De acolo, autobuzul vă duce direct la Centre:MK. O scurtă călătorie cu autobuzul vă apropie de Campbell Park și Willen Lake. În ciuda ploii, ajungeți ușor la Peace Pagoda cu transportul public, apoi relaxați-vă în drum spre centru.",
+            "en": "Take the train to Bletchley for a dry start to your day. From there, buses run directly to Centre:MK for sheltered shopping. Short bus rides connect you to Campbell Park and Willen Lake. Even in the rain, the Peace Pagoda is accessible by public transport, followed by a comfortable ride back to the station."
+          },
+          "stops": [
+            {
+              "name": "Bletchley Park",
+              "tip_5lang": {
+                "de": "Der Bahnhof Bletchley ist nur wenige Gehminuten entfernt.",
+                "hu": "A Bletchley vasútállomás csak pár perc séta.",
+                "ro": "Gara Bletchley este la doar câteva minute de mers pe jos.",
+                "en": "Bletchley train station is just a few minutes' walk away."
+              }
+            },
+            {
+              "name": "The Centre:MK",
+              "tip_5lang": {
+                "de": "Die Bushaltestellen befinden sich direkt unter den Porte-Cochères.",
+                "hu": "A buszmegállók közvetlenül a Porte-Cochère-ek alatt vannak.",
+                "ro": "Stațiile de autobuz sunt chiar sub structurile Porte-Cochère.",
+                "en": "Bus stops are located directly under the sheltered Porte-Cochères."
+              }
+            },
+            {
+              "name": "Campbell Park",
+              "tip_5lang": {
+                "de": "Die Haltestelle am Theater District ist am besten geschützt.",
+                "hu": "A Theater District megállója nyújtja a legjobb védelmet.",
+                "ro": "Stația din Theater District este cea mai bine protejată.",
+                "en": "The stop at the Theater District is the most sheltered option."
+              }
+            },
+            {
+              "name": "Willen Lake",
+              "tip_5lang": {
+                "de": "Busse halten in der Nähe des Hotels am See.",
+                "hu": "A buszok a tó melletti hotel közelében állnak meg.",
+                "ro": "Autobuzele opresc aproape de hotelul de lângă lac.",
+                "en": "Buses stop frequently near the hotel at the lakeside."
+              }
+            },
+            {
+              "name": "Peace Pagoda",
+              "tip_5lang": {
+                "de": "Vom Busstopp ist es ein kurzer Weg auf asphaltierten Pfaden.",
+                "hu": "A buszmegállótól rövid út vezet aszfaltozott ösvényeken.",
+                "ro": "De la stație este un drum scurt pe poteci asfaltate.",
+                "en": "From the bus stop, it is a short walk on paved paths."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Porte-Cochère-Unterstände halten Sie beim Warten trocken.",
+              "Laden Sie die MK-Bus-App für Echtzeit-Infos herunter.",
+              "Züge zwischen MK Central und Bletchley fahren sehr häufig.",
+              "In den Bussen ist es meist warm und gut klimatisiert."
+            ],
+            "hu": [
+              "A Porte-Cochère megállók szárazon tartják várakozás közben.",
+              "Töltse le az MK buszalkalmazást a valós idejű infókért.",
+              "A vonatok MK Central és Bletchley között nagyon gyakoriak.",
+              "A buszok általában melegek és jól klimatizáltak."
+            ],
+            "ro": [
+              "Adăposturile Porte-Cochère vă țin uscat în timp ce așteptați.",
+              "Descărcați aplicația de autobuz MK pentru informații în timp real.",
+              "Trenurile între MK Central și Bletchley sunt foarte frecvente.",
+              "Autobuzele sunt de obicei calde și bine ventilate."
+            ],
+            "en": [
+              "Porte-Cochère shelters keep you dry while waiting for your bus.",
+              "Download the MK bus app for real-time tracking during rain.",
+              "Trains between MK Central and Bletchley are very frequent.",
+              "Buses are generally well-heated and provide a dry sanctuary."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Start in Bletchley Park beginnt mit der Bahnfahrt. Der Bus bringt Sie zum weihnachtlich beleuchteten Centre:MK. Ein kurzer Abstecher zum Campbell Park und Willen Lake zeigt die winterliche Pracht von MK, bevor Sie die Peace Pagoda im tiefstehenden Sonnenlicht besuchen. Den Rückweg zum Bahnhof Central treten Sie an, wenn die Lichter der Stadt im Dunkeln funkeln.",
+            "hu": "A fagyos nap Bletchley Parkban indul egy vonatúttal. A busz a karácsonyi fényekben úszó Centre:MK-hoz viszi. Rövid kitérő a Campbell Park és Willen Lake felé, ahol látható MK téli pompája, majd a Peace Pagoda következik. Akkor induljon vissza a központi állomásra, amikor a városi fények már ragyognak a sötétben.",
+            "ro": "O zi rece la Bletchley Park începe cu o călătorie cu trenul. Autobuzul vă duce la Centre:MK, luminat de Crăciun. O scurtă vizită la Campbell Park și Willen Lake vă arată splendoarea iernii în MK, înainte de a vedea Peace Pagoda. Întoarceți-vă la gară când luminile orașului strălucesc în noapte.",
+            "en": "A frosty start at Bletchley Park begins with a quick train ride. Then, take the bus to the festively lit Centre:MK. Visit Campbell Park and Willen Lake to see the winter beauty of Milton Keynes before a sunset visit to the Peace Pagoda. Head back to MK Central station as the city lights sparkle in the dark."
+          },
+          "stops": [
+            {
+              "name": "Bletchley Park",
+              "tip_5lang": {
+                "de": "Züge sind im Winter oft pünktlicher als Busse.",
+                "hu": "A vonatok télen gyakran pontosabbak, mint a buszok.",
+                "ro": "Trenurile sunt adesea mai punctuale decât autobuzele iarna.",
+                "en": "Trains are often more reliable than buses during icy weather."
+              }
+            },
+            {
+              "name": "The Centre:MK",
+              "tip_5lang": {
+                "de": "Der Busbahnhof liegt direkt am beheizten Einkaufszentrum.",
+                "hu": "A buszpályaudvar közvetlenül a fűtött bevásárlóközpontnál van.",
+                "ro": "Terminalul de autobuze este lângă centrul comercial încălzit.",
+                "en": "The bus terminal is right next to the heated shopping centre."
+              }
+            },
+            {
+              "name": "Campbell Park",
+              "tip_5lang": {
+                "de": "Vom Busfenster aus sieht man die Hügel im Frost glitzern.",
+                "hu": "A busz ablakából látszik, ahogy a dombok csillognak a dértől.",
+                "ro": "Din autobuz puteți vedea dealurile sclipind sub promoroacă.",
+                "en": "View the frosted hills directly from the warmth of the bus window."
+              }
+            },
+            {
+              "name": "Willen Lake",
+              "tip_5lang": {
+                "de": "Busse fahren hier seltener nach 18 Uhr.",
+                "hu": "A buszok 18 óra után ritkábban járnak errefelé.",
+                "ro": "Autobuzele circulă mai rar aici după ora 18:00.",
+                "en": "Note that bus frequency may drop after 6 PM in winter."
+              }
+            },
+            {
+              "name": "Peace Pagoda",
+              "tip_5lang": {
+                "de": "Planen Sie die Rückfahrt vor Einbruch der totalen Dunkelheit.",
+                "hu": "Tervezze meg a visszautat a teljes sötétség beállta előtt.",
+                "ro": "Planificați întoarcerea înainte de lăsarea întunericului deplin.",
+                "en": "Plan your return bus trip before total darkness sets in."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf geänderte Fahrpläne während der Feiertage.",
+              "Die Bahnhöfe sind gut beheizt und bieten Cafés.",
+              "Busse können bei starkem Schneefall Verspätung haben.",
+              "Nutzen Sie Gruppentickets für günstigere Fahrten im Winter."
+            ],
+            "hu": [
+              "Ügyeljen az ünnepi menetrendek változásaira.",
+              "A vasútállomások fűtöttek és vannak kávézóik.",
+              "Erős havazás esetén a buszok késhetnek.",
+              "Használjon csoportos jegyeket a kedvezőbb téli utazáshoz."
+            ],
+            "ro": [
+              "Atenție la modificările de orar în timpul sărbătorilor.",
+              "Gările sunt bine încălzite și au cafenele disponibile.",
+              "Autobuzele pot avea întârzieri în caz de zăpadă abundentă.",
+              "Folosiți bilete de grup pentru călătorii mai ieftine iarna."
+            ],
+            "en": [
+              "Check for special holiday bus schedules in December.",
+              "Train stations are well-heated and offer indoor cafes.",
+              "Buses may experience delays during heavy snow or ice.",
+              "Consider a day-rider ticket for unlimited warm travel."
+            ]
+          }
+        }
       }
     }
   }

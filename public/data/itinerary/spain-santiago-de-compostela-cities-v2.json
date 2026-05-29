@@ -402,6 +402,214 @@
           "Many shops close for a siesta at midday, so plan your shopping accordingly.",
           "The Pilgrim's Office is an interesting place to watch the emotions of arriving pilgrims."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Morgen unter den schützenden Arkaden der Rúa do Vilar, während der typische galicische Nieselregen die Granitfassaden zum Glänzen bringt. Das Frühstück in der Nähe der Plaza de Obradoiro bietet einen dramatischen Blick auf die im Nebel verschwindende Kathedrale.\n\nMittags bietet der Mercado de Abastos einen perfekten überdachten Rückzugsort. Genießen Sie frische Meeresfrüchte, während Sie dem Trommeln des Regens auf den alten Dächern lauschen. Die Steinmetzarbeiten der Stadt wirken bei feuchtem Wetter besonders mystisch.\n\nDer Nachmittag gehört den Museen und Klöstern. Im Museo do Pobo Galego bleiben Sie trocken und tauchen tief in die lokale Kultur ein. Die kurzen Wege zwischen den Monumenten lassen sich dank der vielen Bogengänge fast ohne Schirm bewältigen.\n\nDen Abend lassen Sie in einer gemütlichen Taberna in der Altstadt ausklingen. Der Duft von feuchtem Stein und Wein erfüllt die Gassen, während die gelben Lichter der Stadt in den Pfützen auf dem Kopfsteinpflaster tanzen.",
+            "hu": "Kezdje a reggelt a Rúa do Vilar árkádjai alatt, miközben a jellegzetes galíciai permetező eső fényessé teszi a gránithomlokzatokat. Egy reggeli az Obradoiro tér közelében drámai kilátást nyújt a ködbe burkolózó katedrálisra.\n\nDélben az Abastos piac tökéletes fedett menedéket nyújt. Élvezze a friss tenger gyümölcseit, miközben hallgatja az eső kopogását a régi tetőkön. A város kőfaragványai párás időben különösen misztikusnak tűnnek.\n\nA délután a múzeumoké és kolostoroké. A Galíciai Nép Múzeumában szárazon maradhat, miközben elmélyed a helyi kultúrában. A műemlékek közötti rövid távolságok az árkádos utcáknak köszönhetően szinte esernyő nélkül is megtehetők.\n\nAz estét egy hangulatos óvárosi tabernában zárja. A nedves kő és a bor illata tölti be a sikátorokat, miközben a város sárga fényei táncolnak a macskaköves utcák tócsáiban.",
+            "ro": "Începeți dimineața sub arcadele protectoare de pe Rúa do Vilar, în timp ce burnița tipică galiciană face fațadele de granit să strălucească. Micul dejun lângă Plaza de Obradoiro oferă o vedere dramatică a catedralei pierdute în ceață.\n\nLa prânz, Mercado de Abastos oferă un refugiu acoperit perfect. Savurați fructe de mare proaspete în timp ce ascultați răpăitul ploii pe acoperișurile vechi. Sculpturile în piatră ale orașului par deosebit de mistice pe vreme umedă.\n\nDupă-amiaza este dedicată muzeelor și mănăstirilor. La Museo do Pobo Galego rămâneți uscați și vă scufundați în cultura locală. Distanțele scurte dintre monumente pot fi parcurse aproape fără umbrelă datorită numeroaselor porticuri.\n\nÎncheiați seara într-o tavernă primitoare din centrul vechi. Mirosul de piatră umedă și vin umple străduțele, în timp ce luminile galbene ale orașului dansează în bălțile de pe pavajul de granit.",
+            "en": "Start your morning under the protective arcades of Rúa do Vilar as the typical Galician drizzle makes the granite facades shine. Breakfast near Plaza de Obradoiro offers a dramatic view of the cathedral disappearing into the mist.\n\nAt noon, the Abastos Market provides a perfect covered retreat. Enjoy fresh seafood while listening to the patter of rain on the old roofs. The city's stonework looks particularly mystical in damp weather.\n\nThe afternoon belongs to museums and monasteries. At the Museum of the Galician People, you stay dry while diving deep into local culture. The short distances between monuments can be covered almost without an umbrella thanks to the many arched walkways.\n\nEnd the evening in a cozy tavern in the old town. The scent of damp stone and wine fills the alleys as the city's yellow lights dance in the puddles on the cobblestone streets."
+          },
+          "stops": [
+            {
+              "name": "Obradoiro Square",
+              "tip_5lang": {
+                "de": "Vorsicht, das Granitpflaster ist bei Nässe extrem rutschig.",
+                "hu": "Vigyázat, a gránitburkolat vizesen rendkívül csúszós.",
+                "ro": "Atenție, pavajul de granit este extrem de alunecos când este ud.",
+                "en": "Be careful, the granite pavement is extremely slippery when wet."
+              }
+            },
+            {
+              "name": "Cathedral of Santiago de Compostela",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Innenraum als sicheren Zufluchtsort vor dem Galicischen Regen.",
+                "hu": "Használja a belső teret biztonságos menedékként a galíciai eső elől.",
+                "ro": "Folosiți interiorul ca un refugiu sigur împotriva ploii galiciene.",
+                "en": "Use the interior as a safe refuge from the Galician rain."
+              }
+            },
+            {
+              "name": "Monastery of San Martiño Pinario",
+              "tip_5lang": {
+                "de": "Besuchen Sie das Museum im Inneren, um trocken zu bleiben.",
+                "hu": "Látogasson el a belső múzeumba, hogy száraz maradjon.",
+                "ro": "Vizitați muzeul din interior pentru a rămâne uscați.",
+                "en": "Visit the museum inside to stay dry."
+              }
+            },
+            {
+              "name": "Abastos Market",
+              "tip_5lang": {
+                "de": "Die Markthallen sind komplett überdacht und ideal bei Regen.",
+                "hu": "A váscárcsarnokok teljesen fedettek, ideálisak esőben.",
+                "ro": "Halele pieței sunt complet acoperite și ideale pe ploaie.",
+                "en": "The market halls are fully covered and ideal in the rain."
+              }
+            },
+            {
+              "name": "Museum of the Galician People",
+              "tip_5lang": {
+                "de": "Perfekter Ort für eine zweistündige Pause vom Wetter.",
+                "hu": "Tökéletes hely egy kétórás szünetre az időjárás elől.",
+                "ro": "Locul perfect pentru o pauză de două ore de la intemperii.",
+                "en": "Perfect place for a two-hour break from the weather."
+              }
+            },
+            {
+              "name": "Alameda Park",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Musikpavillon als Unterstand für Panoramafotos.",
+                "hu": "Használja a zenepavilont óvóhelyként a panorámaképekhez.",
+                "ro": "Folosiți chioșcul de muzică ca adăpost pentru fotografii panoramice.",
+                "en": "Use the bandstand as a shelter for panoramic photos."
+              }
+            },
+            {
+              "name": "Hostal de los Reyes Católicos",
+              "tip_5lang": {
+                "de": "Die prachtvollen Innenhöfe bieten teilweisen Regenschutz.",
+                "hu": "A pompás belső udvarok részleges védelmet nyújtanak az eső ellen.",
+                "ro": "Curțile interioare magnifice oferă protecție parțială împotriva ploii.",
+                "en": "The magnificent inner courtyards offer partial rain protection."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die 'Soportales' (Bogengänge) in der Rúa do Vilar und Rúa Nova.",
+              "Ein stabiler Regenschirm ist wegen der Windböen besser als ein leichter.",
+              "Wasserdichte Schuhe mit gutem Grip sind auf dem Granit unerlässlich.",
+              "Die Kathedrale bietet bei starkem Regen den besten Unterschlupf.",
+              "Trinken Sie eine heiße Schokolade in der Café-Bar Metate."
+            ],
+            "hu": [
+              "Használja ki a 'Soportales'-t (árkádokat) a Rúa do Vilar és Rúa Nova utcákban.",
+              "A széllökések miatt egy stabil esernyő jobb, mint egy könnyű.",
+              "A grániton elengedhetetlen a vízálló, tapadós talpú cipő.",
+              "Erős esőben a katedrális nyújtja a legjobb menedéket.",
+              "Igyon egy forró csokoládét a Metate kávézóban."
+            ],
+            "ro": [
+              "Profitați de 'Soportales' (porticuri) pe Rúa do Vilar și Rúa Nova.",
+              "O umbrelă stabilă este mai bună decât una ușoară din cauza rafalelelor de vânt.",
+              "Încălțămintea impermeabilă cu aderență bună este esențială pe granit.",
+              "Catedrala oferă cel mai bun adăpost în caz de ploaie torențială.",
+              "Beți o ciocolată caldă la Café-Bar Metate."
+            ],
+            "en": [
+              "Take advantage of the 'Soportales' (arcades) on Rúa do Vilar and Rúa Nova.",
+              "A sturdy umbrella is better than a light one due to wind gusts.",
+              "Waterproof shoes with good grip are essential on the granite.",
+              "The cathedral offers the best shelter during heavy rain.",
+              "Drink a hot chocolate at Café-Bar Metate."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen in Santiago ist oft kühl und neblig, was der Altstadt eine andächtige Stille verleiht. Die wenigen Pilger, die jetzt ankommen, sammeln sich vor der Kathedrale, während der Frost auf den Statuen langsam taut.\n\nMittags suchen Sie die Wärme der kleinen Cafés in der Nähe des Marktes. Der Duft von gerösteten Kastanien liegt in der Luft. Die kräftige galicische Küche, wie der Eintopf 'Caldo Gallego', schmeckt in dieser Jahreszeit am besten und wärmt von innen.\n\nAm Nachmittag sollten Sie die Museen besuchen, bevor die Dämmerung bereits gegen 17:30 Uhr einsetzt. Das schräge Winterlicht wirft lange Schatten auf die Plaza de la Quintana und lässt die Kathedrale golden leuchten.\n\nAbends füllen sich die Weinstuben mit Einheimischen. Die feuchte Kälte wird durch die herzliche Atmosphäre und ein Glas lokalen Ribeiro-Weins schnell vergessen. Santiago im Winter ist authentisch, ruhig und tief spirituell.",
+            "hu": "A téli reggel Santiagóban gyakran hűvös és ködös, ami áhítatos csendet ad az óvárosnak. Az ilyenkor érkező kevés zarándok a katedrális előtt gyülekezik, miközben a fagy lassan olvad a szobrokon.\n\nDélben keresse fel a piac közeli kis kávézók melegét. A sült gesztenye illata lengi be a levegőt. A laktató galíciai konyha, mint a 'Caldo Gallego' leves, ilyenkor esik a legjobban, és belülről melenget.\n\nDélután érdemes múzeumba menni, mielőtt a szürkület már 17:30 körül beállna. A ferde téli fény hosszú árnyékokat vet a Plaza de la Quintanára, és arany színbe öltözteti a katedrálist.\n\nEste a borozók megtelnek helyiekkel. A nyirkos hideget hamar elfeledteti a barátságos légkör és egy pohár helyi Ribeiro bor. Santiago télen hiteles, nyugodt és mélyen spirituális.",
+            "ro": "Dimineața de iarnă în Santiago este adesea răcoroasă și ceațoasă, oferind centrului vechi o liniște evlavioasă. Puținii pelerini care sosesc acum se adună în fața catedralei, în timp ce gerul de pe statui se topește încet.\n\nLa prânz, căutați căldura micilor cafenele de lângă piață. Mirosul de castane coapte plutește în aer. Bucătăria galiciană consistentă, cum ar fi 'Caldo Gallego', are cel mai bun gust în acest sezon și vă încălzește din interior.\n\nDupă-amiaza ar trebui să vizitați muzeele înainte ca amurgul să se instaleze deja în jurul orei 17:30. Lumina piezișă de iarnă aruncă umbre lungi pe Plaza de la Quintana și face catedrala să strălucească auriu.\n\nSeara, tavernele se umplu de localnici. Frigul umed este uitat rapid datorită atmosferei calde și unui pahar de vin local Ribeiro. Santiago iarna este autentic, liniștit și profund spiritual.",
+            "en": "A winter morning in Santiago is often cool and misty, giving the old town a prayerful silence. The few pilgrims arriving now gather in front of the cathedral while the frost on the statues slowly thaws.\n\nAt noon, seek the warmth of the small cafes near the market. The scent of roasted chestnuts hangs in the air. Hearty Galician cuisine, like the 'Caldo Gallego' stew, tastes best this time of year and warms you from the inside.\n\nIn the afternoon, you should visit museums before dusk sets in as early as 5:30 PM. The slanted winter light casts long shadows on Plaza de la Quintana and makes the cathedral glow gold.\n\nIn the evening, the wine bars fill with locals. The damp cold is quickly forgotten thanks to the warm atmosphere and a glass of local Ribeiro wine. Santiago in winter is authentic, quiet, and deeply spiritual."
+          },
+          "stops": [
+            {
+              "name": "Obradoiro Square",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe ohne die üblichen Touristenmassen.",
+                "hu": "Élvezze a nyugalmat a szokásos turistaáradat nélkül.",
+                "ro": "Bucurați-vă de liniște fără mulțimile obișnuite de turiști.",
+                "en": "Enjoy the tranquility without the usual tourist crowds."
+              }
+            },
+            {
+              "name": "Cathedral of Santiago de Compostela",
+              "tip_5lang": {
+                "de": "Im Winter sind die Warteschlangen für den Jakobus-Kuss deutlich kürzer.",
+                "hu": "Télen lényegesen rövidebbek a sorok a Szent Jakab-csókhoz.",
+                "ro": "Iarna, cozile pentru sărutarea sfântului sunt mult mai scurte.",
+                "en": "In winter, the queues for the Saint James kiss are significantly shorter."
+              }
+            },
+            {
+              "name": "Monastery of San Martiño Pinario",
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten die Kälte, ziehen Sie sich warm an.",
+                "hu": "A vastag falak tartják a hideget, öltözzön fel melegen.",
+                "ro": "Zidurile groase rețin frigul, îmbrăcați-vă bine.",
+                "en": "The thick walls hold the cold, dress warmly."
+              }
+            },
+            {
+              "name": "Abastos Market",
+              "tip_5lang": {
+                "de": "Probieren Sie heiße 'Caldo Gallego' an einem der Marktstände.",
+                "hu": "Kóstolja meg a forró 'Caldo Gallego'-t az egyik piaci standnál.",
+                "ro": "Gustați 'Caldo Gallego' fierbinte la unul dintre standurile din piață.",
+                "en": "Try hot 'Caldo Gallego' at one of the market stalls."
+              }
+            },
+            {
+              "name": "Museum of the Galician People",
+              "tip_5lang": {
+                "de": "Ein gut geheizter Ort, um die galicische Geschichte zu erkunden.",
+                "hu": "Jól fűtött hely a galíciai történelem felfedezéséhez.",
+                "ro": "Un loc bine încălzit pentru a explora istoria galiciană.",
+                "en": "A well-heated place to explore Galician history."
+              }
+            },
+            {
+              "name": "Alameda Park",
+              "tip_5lang": {
+                "de": "Die Kamelien blühen hier oft schon im späten Winter.",
+                "hu": "A kaméliák itt gyakran már késő télen virágoznak.",
+                "ro": "Cameliile înfloresc adesea aici încă de la sfârșitul iernii.",
+                "en": "Camelias often bloom here as early as late winter."
+              }
+            },
+            {
+              "name": "Hostal de los Reyes Católicos",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kapelle für einen Moment der warmen Stille.",
+                "hu": "Látogasson el a kápolnába egy pillanatnyi meleg csendre.",
+                "ro": "Vizitați capela pentru un moment de liniște caldă.",
+                "en": "Visit the chapel for a moment of warm silence."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Dezember bereits gegen 17:50 Uhr unter.",
+              "Zwiebelprinzip ist wichtig: Draußen ist es feucht-kalt, drinnen oft warm.",
+              "Viele kleinere Museen haben im Winter verkürzte Öffnungszeiten.",
+              "Probieren Sie 'Tarta de Santiago' mit einem heißen Kaffee.",
+              "Die Weihnachtsbeleuchtung in der Altstadt ist ab Anfang Dezember sehenswert."
+            ],
+            "hu": [
+              "A nap decemberben már 17:50 körül lemegy.",
+              "A réteges öltözködés fontos: kint nyirkos hideg van, bent gyakran meleg.",
+              "Sok kisebb múzeumnak rövidített nyitvatartása van télen.",
+              "Kóstolja meg a 'Tarta de Santiago'-t egy forró kávéval.",
+              "Az óvárosi karácsonyi kivilágítás december elejétől látható."
+            ],
+            "ro": [
+              "Soarele apune în decembrie deja în jurul orei 17:50.",
+              "Principiul cepei este important: afară este frig umed, înăuntru adesea cald.",
+              "Multe muzee mici au program redus iarna.",
+              "Încercați 'Tarta de Santiago' cu o cafea fierbinte.",
+              "Iluminatul de Crăciun din centrul vechi merită văzut de la începutul lui decembrie."
+            ],
+            "en": [
+              "The sun sets as early as 5:50 PM in December.",
+              "Layering is key: it's damp and cold outside, but often warm inside.",
+              "Many smaller museums have shorter opening hours in winter.",
+              "Try 'Tarta de Santiago' with a hot coffee.",
+              "The Christmas lights in the old town are worth seeing from early December."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -758,6 +966,196 @@
           "Use the cycle paths along the rivers for a more pleasant ride.",
           "Some streets in the old town are pedestrian-only, dismount and walk your bike there."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert die richtige Ausrüstung, bietet aber leere Wege. Starten Sie im Alameda-Park, wo der dichte Baumbestand den ersten Nieselregen etwas abfängt.\n\nDie Fahrt zur Plaza de Obradoiro führt über nassen Granit – fahren Sie vorsichtig! Die Kathedrale wirkt im Regen noch monumentaler und grauer, passend zum galicischen Himmel.\n\nMittags parken Sie Ihr Rad sicher am Markt und wärmen sich bei einer Portion 'Pulpo' auf. Das Museum bietet danach eine ausgiebige Pause im Trockenen, bevor Sie die letzte Etappe antreten.\n\nDie Rückfahrt entlang des Flusses Sarela ist bei Regen besonders atmosphärisch, da der Wasserstand steigt und das Grün der Farne intensiv leuchtet. Ein echtes Abenteuer für wetterfeste Radfahrer.",
+            "hu": "Egy esős kerékpártúra megfelelő felszerelést igényel, de üres utakat kínál. Kezdjen az Alameda parkban, ahol a sűrű lombozat felfogja az első permetező esőt.\n\nAz út az Obradoiro térre nedves grániton vezet – hajtson óvatosan! A katedrális esőben még monumentálisabbnak és szürkébbnek tűnik, illeszkedve a galíciai égbolthoz.\n\nDélben parkolja le biztonságosan a biciklit a piacon, és melegedjen fel egy adag 'Pulpo'-val. A múzeum ezután bőséges pihenőt nyújt szárazon, mielőtt megkezdené az utolsó szakaszt.\n\nA visszaút a Sarela folyó mentén esőben különösen hangulatos, mivel a vízszint megemelkedik, és a páfrányok zöldje intenzíven világít. Igazi kaland az időjárásálló bringásoknak.",
+            "ro": "O tură cu bicicleta pe ploaie necesită echipamentul adecvat, dar oferă drumuri libere. Începeți în Parcul Alameda, unde arborii deși mai opresc din burniță.\n\nDrumul spre Plaza de Obradoiro trece peste granit umed – conduceți cu atenție! Catedrala pare și mai monumentală și cenușie pe ploaie, asortându-se cu cerul galician.\n\nLa prânz, parcați bicicleta în siguranță la piață și încălziți-vă cu o porție de 'Pulpo'. Muzeul oferă apoi o pauză lungă la uscat înainte de a începe ultima etapă.\n\nDrumul de întoarcere de-a lungul râului Sarela este deosebit de atmosferic pe ploaie, deoarece nivelul apei crește, iar verdele ferigilor strălucește intens. O adevărată aventură pentru bicicliștii rezistenți la vreme.",
+            "en": "A bike tour in the rain requires the right gear but offers empty paths. Start in Alameda Park, where the dense trees catch some of the initial drizzle.\n\nThe ride to Plaza de Obradoiro is over wet granite – ride carefully! The cathedral looks even more monumental and grey in the rain, matching the Galician sky.\n\nAt noon, park your bike safely at the market and warm up with a portion of 'Pulpo'. The museum then provides an extensive break in the dry before starting the last stage.\n\nThe return trip along the Sarela River is particularly atmospheric in the rain, as the water level rises and the green of the ferns glows intensely. A real adventure for weatherproof cyclists."
+          },
+          "stops": [
+            {
+              "name": "Alameda Park",
+              "tip_5lang": {
+                "de": "Die sandigen Wege können bei starkem Regen matschig werden.",
+                "hu": "A homokos utak heves esőzéskor sárossá válhatnak.",
+                "ro": "Aleile cu nisip pot deveni noroioase în caz de ploaie torențială.",
+                "en": "The sandy paths can get muddy during heavy rain."
+              }
+            },
+            {
+              "name": "Obradoiro Square",
+              "tip_5lang": {
+                "de": "Vermeiden Sie scharfes Bremsen auf dem glatten Granitpflaster.",
+                "hu": "Kerülje az erős fékezést a sima gránitburkolaton.",
+                "ro": "Evitați frânările bruște pe pavajul de granit alunecos.",
+                "en": "Avoid sharp braking on the smooth granite pavement."
+              }
+            },
+            {
+              "name": "Cathedral of Santiago de Compostela",
+              "tip_5lang": {
+                "de": "Fahrradständer befinden sich in den Seitenstraßen, oft nicht überdacht.",
+                "hu": "A kerékpártárolók az oldalsó utcákban vannak, gyakran fedetlenek.",
+                "ro": "Suporturile pentru biciclete sunt în străzile laterale, adesea neacoperite.",
+                "en": "Bike racks are in the side streets, often not covered."
+              }
+            },
+            {
+              "name": "Abastos Market",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Marktbesuch, um Ihre Kleidung zu trocknen.",
+                "hu": "Használja ki a piaci látogatást ruhái megszárítására.",
+                "ro": "Folosiți vizita la piață pentru a vă usca hainele.",
+                "en": "Use the market visit to dry your clothes."
+              }
+            },
+            {
+              "name": "Museum of the Galician People",
+              "tip_5lang": {
+                "de": "Schließen Sie das Rad gut an, da der Bereich etwas abgelegen ist.",
+                "hu": "Zárja le jól a biciklit, mert a terület kicsit félreeső.",
+                "ro": "Legai bine bicicleta, deoarece zona este puțin retrasă.",
+                "en": "Lock your bike well as the area is a bit secluded."
+              }
+            },
+            {
+              "name": "Return along the Sarela River",
+              "tip_5lang": {
+                "de": "Achten Sie auf rutschige Wurzeln und Steine am Flussufer.",
+                "hu": "Ügyeljen a csúszós gyökerekre és kövekre a folyóparton.",
+                "ro": "Atenție la rădăcinile și pietrele alunecoase de pe malul râului.",
+                "en": "Watch out for slippery roots and stones along the riverbank."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine komplette Regenmontur inklusive Überschuhen.",
+              "Reduzieren Sie den Reifendruck leicht für besseren Grip auf nassem Stein.",
+              "Schutzbleche sind bei galicischem Wetter ein Muss.",
+              "Vermeiden Sie Fahrten durch tiefe Pfützen (verdeckte Schlaglöcher).",
+              "Sorgen Sie für gute Beleuchtung, da die Sicht stark eingeschränkt sein kann."
+            ],
+            "hu": [
+              "Viseljen teljes esőfelszerelést, beleértve a kamáslit is.",
+              "Kicsit csökkentse a gumiabroncsok nyomását a jobb tapadásért a nedves kövön.",
+              "A sárvédő kötelező a galíciai időjárásban.",
+              "Kerülje a mély tócsákon való áthajtást (rejtett kátyúk).",
+              "Gondoskodjon a jó világításról, mert a látási viszonyok korlátozottak lehetnek."
+            ],
+            "ro": [
+              "Purtați echipament complet de ploaie, inclusiv protecții pentru pantofi.",
+              "Reduceți ușor presiunea în pneuri pentru o aderență mai bună pe piatră umedă.",
+              "Aripile sunt obligatorii în condițiile meteo din Galicia.",
+              "Evitați trecerea prin bălți adânci (gropi ascunse).",
+              "Asigurați-vă că aveți o iluminare bună, deoarece vizibilitatea poate fi redusă."
+            ],
+            "en": [
+              "Wear full rain gear including shoe covers.",
+              "Slightly reduce tire pressure for better grip on wet stone.",
+              "Mudguards are a must in Galician weather.",
+              "Avoid riding through deep puddles (hidden potholes).",
+              "Ensure good lighting as visibility can be severely limited."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen im Alameda-Park bietet die beste Sicht auf die Kathedrale. Die Luft ist frisch und perfekt zum Radfahren, solange man sich warm einpackt.\n\nDie Fahrt durch die Granitgassen zur Plaza de Obradoiro ist im Winter ruhig, fast ohne die Pilgerströme des Sommers. Das Licht am Vormittag ist ideal für Fotos der Fassaden.\n\nMittags bietet der Markt eine warme Pause. Ein heißer Tee oder eine Suppe gibt Energie für die Weiterfahrt zum Museum, wo Sie die Fahrräder im kühlen Schatten der Klostermauern abstellen.\n\nDie Tour endet mit einer entspannten Fahrt entlang des Sarela-Flusses. Die tiefstehende Wintersonne glitzert im Wasser, und die kahlen Bäume geben den Blick auf versteckte Winkel frei, die im Sommer verborgen bleiben.",
+            "hu": "Egy tiszta téli reggel az Alameda parkban kínálja a legjobb kilátást a katedrálisra. A levegő friss és tökéletes a biciklizéshez, amíg melegen felöltözik.\n\nA gránit sikátorokon át az Obradoiro térre vezető út télen csendes, szinte a nyári zarándoktömeg nélkül. A délelőtti fény ideális a homlokzatok fotózásához.\n\nDélben a piac meleg pihenőt kínál. Egy forró tea vagy leves energiát ad a múzeumig tartó útra, ahol a kerékpárokat a kolostorfalak hűvös árnyékában hagyhatja.\n\nA túra a Sarela folyó menti pihentető tekeréssel zárul. Az alacsonyan járó téli nap megcsillan a vízen, és a kopasz fák felfedik a rejtett zugokat, amelyek nyáron rejtve maradnak.",
+            "ro": "O dimineață senină de iarnă în Parcul Alameda oferă cea mai bună vedere spre catedrală. Aerul este proaspăt și perfect pentru ciclism, atâta timp cât sunteți bine îmbrăcați.\n\nDrumul prin străduțele de granit spre Plaza de Obradoiro este liniștit iarna, aproape fără fluxul de pelerini din vară. Lumina de dimineață este ideală pentru fotografii ale fațadelor.\n\nLa prânz, piața oferă o pauză caldă. Un ceai fierbinte sau o supă vă dă energie pentru drumul spre muzeu, unde lăsați bicicletele la umbra răcoroasă a zidurilor mănăstirii.\n\nTurul se încheie cu o plimbare relaxată de-a lungul râului Sarela. Soarele jos de iarnă sclipeste în apă, iar copacii desfrunziți permit vederea spre colțuri ascunse care rămân nevăzute vara.",
+            "en": "A clear winter morning in Alameda Park offers the best view of the cathedral. The air is fresh and perfect for cycling as long as you wrap up warm.\n\nThe ride through the granite alleys to Plaza de Obradoiro is quiet in winter, almost without the summer pilgrim crowds. The morning light is ideal for photos of the facades.\n\nAt noon, the market offers a warm break. A hot tea or soup gives energy for the ride to the museum, where you leave the bikes in the cool shade of the monastery walls.\n\nThe tour ends with a relaxed ride along the Sarela River. The low winter sun glitters in the water, and the bare trees reveal hidden spots that remain hidden in summer."
+          },
+          "stops": [
+            {
+              "name": "Alameda Park",
+              "tip_5lang": {
+                "de": "Die Wege können morgens bei Bodenfrost glatt sein.",
+                "hu": "Az utak reggel a talajmenti fagytól síkosak lehetnek.",
+                "ro": "Aleile pot fi alunecoase dimineața din cauza înghețului la sol.",
+                "en": "The paths can be slippery in the morning due to ground frost."
+              }
+            },
+            {
+              "name": "Obradoiro Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie das klare Winterlicht für perfekte Kathedralen-Fotos.",
+                "hu": "Használja ki a tiszta téli fényt a tökéletes katedrális-fotókhoz.",
+                "ro": "Folosiți lumina clară de iarnă pentru fotografii perfecte cu catedrala.",
+                "en": "Take advantage of the clear winter light for perfect cathedral photos."
+              }
+            },
+            {
+              "name": "Cathedral of Santiago de Compostela",
+              "tip_5lang": {
+                "de": "Schließen Sie Ihr Rad an einem gut sichtbaren Ort ab.",
+                "hu": "Zárja le a biciklit egy jól látható helyen.",
+                "ro": "Legai bicicleta într-un loc vizibil.",
+                "en": "Lock your bike in a clearly visible spot."
+              }
+            },
+            {
+              "name": "Abastos Market",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in den Cafés der Markthalle auf.",
+                "hu": "Melegedjen fel a vásárcsarnok kávézóiban.",
+                "ro": "Încălziți-vă în cafenelele din halele pieței.",
+                "en": "Warm up in the cafes inside the market hall."
+              }
+            },
+            {
+              "name": "Museum of the Galician People",
+              "tip_5lang": {
+                "de": "Planen Sie genug Zeit für den Museumsbesuch im Warmen ein.",
+                "hu": "Tervezzen elég időt a múzeumi látogatásra a melegben.",
+                "ro": "Planificați destul timp pentru vizita la muzeu, la căldură.",
+                "en": "Plan enough time for the museum visit in the warm."
+              }
+            },
+            {
+              "name": "Return along the Sarela River",
+              "tip_5lang": {
+                "de": "Seien Sie vor 17:30 Uhr zurück, da es am Fluss schnell dunkel wird.",
+                "hu": "Érjen vissza 17:30 előtt, mert a folyónál gyorsan sötétedik.",
+                "ro": "Întoarceți-vă înainte de 17:30, deoarece se întunecă repede lângă râu.",
+                "en": "Be back before 5:30 PM as it gets dark quickly by the river."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winddichte Handschuhe und Ohrenschutz sind unerlässlich.",
+              "Die Tage sind kurz; planen Sie Ihre Tour zwischen 10:00 und 17:00 Uhr.",
+              "Achten Sie auf Schattenstellen, wo Frost länger auf dem Boden bleibt.",
+              "Ein Thermosbehälter mit einem Heißgetränk ist sehr zu empfehlen.",
+              "Überprüfen Sie Ihre Beleuchtung vor der Abfahrt."
+            ],
+            "hu": [
+              "A szélálló kesztyű és a fülvédő elengedhetetlen.",
+              "Rövidek a nappalok; a túrát 10:00 és 17:00 közé tervezze.",
+              "Ügyeljen az árnyékos helyekre, ahol a fagy tovább megmarad a talajon.",
+              "Egy termosz forró itallal erősen ajánlott.",
+              "Indulás előtt ellenőrizze a világítást."
+            ],
+            "ro": [
+              "Mănușile rezistente la vânt și protecția pentru urechi sunt esențiale.",
+              "Zilele sunt scurte; planificați turul între orele 10:00 și 17:00.",
+              "Atenție la locurile umbrite, unde înghețul persistă mai mult pe sol.",
+              "Un termos cu o băutură caldă este foarte recomandat.",
+              "Verificați iluminarea înainte de plecare."
+            ],
+            "en": [
+              "Windproof gloves and ear protection are essential.",
+              "Days are short; plan your tour between 10:00 AM and 5:00 PM.",
+              "Watch out for shaded areas where frost stays longer on the ground.",
+              "A thermos with a hot drink is highly recommended.",
+              "Check your lighting before departure."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1114,6 +1512,196 @@
           "A small car is advantageous in the narrow streets of the outskirts.",
           "Be aware of ZTL zones (limited traffic zones) where only residents are allowed to drive."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie an regnerischen Tagen die Tiefgaragen, um Santiago trocken zu erkunden. Parken Sie morgens am Alameda-Park und genießen Sie den Blick aus dem Auto, bevor Sie für einen kurzen Spaziergang zum Aussichtspunkt unter den Schirm schlüpfen.\n\nDie Weiterfahrt zur Praza de Galicia bringt Sie direkt ins Herz der Stadt. Von dort erreichen Sie die Kathedrale über die arkadengesäumten Straßen, fast ohne nass zu werden. Der Regen lässt den Granit der Plaza de Obradoiro dunkel und imposant wirken.\n\nMittags bietet die Tiefgarage am Mercado de Abastos direkten Zugang zu den kulinarischen Genüssen. Während es draußen stürmt, genießen Sie drinnen galicische Spezialitäten.\n\nDer Nachmittag im Museum ist der ideale Abschluss. Sie können das Auto in der Nähe stehen lassen und nach dem Museumsbesuch bequem und trocken die Heimreise antreten, während die Stadtlichter im Regen verschwimmen.",
+            "hu": "Esős napokon használja a mélygarázsokat Santiago száraz felfedezéséhez. Parkoljon reggel az Alameda parknál, és élvezze a kilátást az autóból, mielőtt az esernyő alá bújva tenne egy rövid sétát a kilátóhoz.\n\nA továbbhaladás a Praza de Galiciához a város szívébe viszi. Innen az árkádos utcákon keresztül érheti el a katedrálist, szinte anélkül, hogy megázna. Az eső sötétté és impozánssá teszi az Obradoiro tér gránitját.\n\nDélben az Abastos piac melletti mélygarázs közvetlen hozzáférést biztosít a kulináris élvezetekhez. Amíg kint viharos az idő, bent galíciai specialitásokat élvezhet.\n\nA délután a múzeumban az ideális lezárás. Az autót a közelben hagyhatja, és a múzeumlátogatás után kényelmesen és szárazon indulhat haza, miközben a város fényei elmosódnak az esőben.",
+            "ro": "În zilele ploioase, folosiți parcările subterane pentru a explora Santiago la uscat. Parcați dimineața la Parcul Alameda și bucurați-vă de priveliște din mașină înainte de a ieși scurt cu umbrela spre punctul de belvedere.\n\nContinuarea drumului spre Praza de Galicia vă duce direct în inima orașului. De acolo, puteți ajunge la catedrală prin străzile mărginite de porticuri, aproape fără să vă udați. Ploaia face granitul din Plaza de Obradoiro să pară întunecat și impunător.\n\nLa prânz, parcarea subterană de la Mercado de Abastos oferă acces direct la deliciile culinare. În timp ce afară e furtună, înăuntru savurați specialități galiciene.\n\nDupă-amiaza la muzeu este încheierea ideală. Puteți lăsa mașina în apropiere și, după vizita la muzeu, porniți spre casă confortabil și uscat, în timp ce luminile orașului se estompează în ploaie.",
+            "en": "On rainy days, use the underground car parks to explore Santiago in the dry. Park at Alameda Park in the morning and enjoy the view from the car before slipping under your umbrella for a short walk to the viewpoint.\n\nContinuing to Praza de Galicia brings you directly into the heart of the city. From there, you can reach the cathedral via the arcade-lined streets, almost without getting wet. The rain makes the granite of Plaza de Obradoiro look dark and imposing.\n\nAt noon, the underground parking at Mercado de Abastos offers direct access to culinary delights. While it's stormy outside, you enjoy Galician specialties inside.\n\nThe afternoon in the museum is the ideal conclusion. You can leave the car nearby and start your journey home comfortably and dry after the museum visit, as the city lights blur in the rain."
+          },
+          "stops": [
+            {
+              "name": "Parking at Alameda Park",
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Regen kurz im Auto, bis der Schauer nachlässt.",
+                "hu": "Heves esőben maradjon kicsit az autóban, amíg eláll a zápor.",
+                "ro": "În caz de ploaie torențială, stați puțin în mașină până trece aversa.",
+                "en": "During heavy rain, stay in the car for a moment until the shower subsides."
+              }
+            },
+            {
+              "name": "Alameda Park & Viewpoint",
+              "tip_5lang": {
+                "de": "Der Weg zum Aussichtspunkt ist kurz, aber ungeschützt.",
+                "hu": "A kilátóhoz vezető út rövid, de nem védett.",
+                "ro": "Drumul spre punctul de belvedere este scurt, dar neprotejat.",
+                "en": "The path to the viewpoint is short but unsheltered."
+              }
+            },
+            {
+              "name": "Praza de Galicia Underground Parking",
+              "tip_5lang": {
+                "de": "Bester Ausgangspunkt, um die Altstadt trocken zu erreichen.",
+                "hu": "Legjobb kiindulópont az óváros száraz megközelítéséhez.",
+                "ro": "Cel mai bun punct de plecare pentru a ajunge uscat în centrul vechi.",
+                "en": "Best starting point to reach the old town dry."
+              }
+            },
+            {
+              "name": "Cathedral & Obradoiro Square",
+              "tip_5lang": {
+                "de": "Vom Parkplatz aus führen viele Bogengänge direkt zur Kathedrale.",
+                "hu": "A parkolótól sok árkád vezet közvetlenül a katedrálishoz.",
+                "ro": "De la parcare, multe porticuri duc direct la catedrală.",
+                "en": "From the parking lot, many arcades lead directly to the cathedral."
+              }
+            },
+            {
+              "name": "Parking near Mercado de Abastos",
+              "tip_5lang": {
+                "de": "Überdachtes Parken ermöglicht direkten Zugang zum Markt.",
+                "hu": "A fedett parkolás közvetlen hozzáférést biztosít a piachoz.",
+                "ro": "Parcarea acoperită permite accesul direct la piață.",
+                "en": "Covered parking allows direct access to the market."
+              }
+            },
+            {
+              "name": "Abastos Market & Museum",
+              "tip_5lang": {
+                "de": "Der Marktbesuch ist die beste Strategie bei Dauerregen.",
+                "hu": "A piaci látogatás a legjobb stratégia tartós esőben.",
+                "ro": "Vizita la piață este cea mai bună strategie în caz de ploaie continuă.",
+                "en": "Visiting the market is the best strategy during continuous rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Tiefgaragen 'San Clemente' oder 'Praza de Galicia'.",
+              "Stellen Sie sicher, dass Ihre Scheibenwischer in gutem Zustand sind.",
+              "Achten Sie auf schlechte Sicht bei starkem Galicischem Nieselregen.",
+              "Ein Regenschirm im Auto ist in Santiago unverzichtbar.",
+              "Die Zufahrten zur Altstadt sind für Privat-PKW stark eingeschränkt."
+            ],
+            "hu": [
+              "Használja a 'San Clemente' vagy 'Praza de Galicia' mélygarázsokat.",
+              "Győződjön meg róla, hogy az ablaktörlők jó állapotban vannak.",
+              "Ügyeljen a rossz látási viszonyokra az erős galíciai permetező esőben.",
+              "Egy esernyő az autóban nélkülözhetetlen Santiagóban.",
+              "Az óvárosba való behajtás magángépjárműveknek erősen korlátozott."
+            ],
+            "ro": [
+              "Folosiți parcările subterane 'San Clemente' sau 'Praza de Galicia'.",
+              "Asigurați-vă că ștergătoarele sunt în stare bună.",
+              "Atenție la vizibilitatea redusă în burnița galiciană puternică.",
+              "O umbrelă în mașină este indispensabilă în Santiago.",
+              "Accesul în centrul vechi este strict limitat pentru autoturismele private."
+            ],
+            "en": [
+              "Use the 'San Clemente' or 'Praza de Galicia' underground car parks.",
+              "Ensure your windshield wipers are in good condition.",
+              "Watch out for poor visibility during heavy Galician drizzle.",
+              "An umbrella in the car is indispensable in Santiago.",
+              "Access to the old town is strictly restricted for private cars."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintertag mit dem Auto beginnt entspannt. Parken Sie am Alameda-Park und genießen Sie die klare, kalte Morgenluft beim kurzen Gang zum Aussichtspunkt, von dem aus die Kathedrale majestätisch aus dem Dunst ragt.\n\nDie Fahrt durch die Stadt ist im Winter stressfrei, da weniger Verkehr herrscht. Parken Sie an der Praza de Galicia und schlendern Sie durch die kühlen, aber trockenen Gassen zur Kathedrale. Das Licht der tiefstehenden Sonne lässt die Granitfassaden golden schimmern.\n\nMittags ist das Parken am Markt ideal, um ohne Umwege in die Wärme der Markthallen zu gelangen. Probieren Sie die Winterspezialitäten der Region in einem der kleinen Restaurants.\n\nNach dem Museumsbesuch am Nachmittag, wenn es bereits kühl wird, bietet das vorgewärmte Auto einen komfortablen Rückzugsort. Die Fahrt durch das weihnachtlich beleuchtete Santiago ist ein schöner Abschluss des Tages.",
+            "hu": "Egy téli nap az autóval pihentetően kezdődik. Parkoljon az Alameda parknál, és élvezze a tiszta, hideg reggeli levegőt a kilátóhoz vezető rövid úton, ahonnan a katedrális fenségesen emelkedik ki a párából.\n\nA városi autózás télen stresszmentes, mivel kisebb a forgalom. Parkoljon a Praza de Galiciánál, és sétáljon át a hűvös, de száraz sikátorokon a katedrálishoz. Az alacsony napfény aranyosan csillogtatja meg a gránithomlokzatokat.\n\nDélben a piaci parkolás ideális, hogy kerülő nélkül jussunk a vásárcsarnokok melegébe. Kóstolja meg a régió téli specialitásait az egyik kis étteremben.\n\nA délutáni múzeumlátogatás után, amikor már hűvösödik, az előfűtött autó kényelmes menedéket nyújt. Az utazás a karácsonyi fényekben úszó Santiagón keresztül szép lezárása a napnak.",
+            "ro": "O zi de iarnă cu mașina începe relaxat. Parcați la Parcul Alameda și bucurați-vă de aerul curat și rece de dimineață în timpul scurtului drum spre punctul de belvedere, de unde catedrala se ridică maiestuos din negură.\n\nCondusul prin oraș este fără stres iarna, deoarece traficul este mai redus. Parcați la Praza de Galicia și plimbați-vă prin străduțele răcoroase, dar uscate, spre catedrală. Lumina soarelui jos face fațadele de granit să strălucească auriu.\n\nLa prânz, parcarea la piață este ideală pentru a ajunge fără ocolișuri la căldura halelor. Gustați specialitățile de iarnă ale regiunii într-unul dintre micile restaurante.\n\nDupă vizita la muzeu de după-amiază, când se face deja răcoare, mașina preîncălzită oferă un refugiu confortabil. Drumul prin Santiago iluminat de sărbătoare este o încheiere frumoasă a zilei.",
+            "en": "A winter day by car starts relaxed. Park at Alameda Park and enjoy the clear, cold morning air on the short walk to the viewpoint, from which the cathedral rises majestically out of the haze.\n\nDriving through the city is stress-free in winter as there is less traffic. Park at Praza de Galicia and stroll through the cool but dry alleys to the cathedral. The light of the low sun makes the granite facades shimmer gold.\n\nAt noon, parking at the market is ideal for getting into the warmth of the market halls without detours. Try the region's winter specialties in one of the small restaurants.\n\nAfter the museum visit in the afternoon, when it is already getting cool, the preheated car offers a comfortable retreat. The drive through Christmas-lit Santiago is a beautiful end to the day."
+          },
+          "stops": [
+            {
+              "name": "Parking at Alameda Park",
+              "tip_5lang": {
+                "de": "Achten Sie morgens auf mögliche Reifglätte auf den Parkflächen.",
+                "hu": "Ügyeljen reggel a lehetséges zúzmarára a parkolóterületeken.",
+                "ro": "Atenție dimineața la posibila polei pe suprafețele de parcare.",
+                "en": "Watch out for possible frost on the parking areas in the morning."
+              }
+            },
+            {
+              "name": "Alameda Park & Viewpoint",
+              "tip_5lang": {
+                "de": "Beste Sicht auf die Kathedrale bei klarem Winterhimmel.",
+                "hu": "A legjobb kilátás a katedrálisra tiszta téli égbolt mellett.",
+                "ro": "Cea mai bună vedere spre catedrală sub cerul senin de iarnă.",
+                "en": "Best view of the cathedral under a clear winter sky."
+              }
+            },
+            {
+              "name": "Praza de Galicia Underground Parking",
+              "tip_5lang": {
+                "de": "Im Winter gibt es hier meist ausreichend freie Plätze.",
+                "hu": "Télen itt általában bőségesen van szabad hely.",
+                "ro": "Iarna, aici există de obicei suficiente locuri libere.",
+                "en": "In winter, there are usually plenty of free spaces here."
+              }
+            },
+            {
+              "name": "Cathedral & Obradoiro Square",
+              "tip_5lang": {
+                "de": "Genießen Sie den prachtvollen Anblick ohne sommerliche Hitze.",
+                "hu": "Élvezze a pompás látványt a nyári hőség nélkül.",
+                "ro": "Bucurați-vă de priveliștea magnifică fără căldura verii.",
+                "en": "Enjoy the magnificent sight without the summer heat."
+              }
+            },
+            {
+              "name": "Parking near Mercado de Abastos",
+              "tip_5lang": {
+                "de": "Ideal, um schwere Einkäufe (Käse, Wein) direkt zum Auto zu bringen.",
+                "hu": "Ideális a nehéz bevásárlások (sajt, bor) közvetlen autóhoz viteléhez.",
+                "ro": "Ideal pentru a duce cumpărăturile grele (brânză, vin) direct la mașină.",
+                "en": "Ideal for bringing heavy purchases (cheese, wine) directly to the car."
+              }
+            },
+            {
+              "name": "Abastos Market & Museum",
+              "tip_5lang": {
+                "de": "Der Markt ist im Winter ein gemütlicher, warmer Treffpunkt.",
+                "hu": "A piac télen hangulatos, meleg találkozóhely.",
+                "ro": "Piața este iarna un loc de întâlnire primitor și cald.",
+                "en": "The market is a cozy, warm meeting place in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Frostschutz in Ihrer Scheibenwaschanlage.",
+              "Nutzen Sie die Tiefgaragen, um ein Auskühlen des Autos zu vermeiden.",
+              "Die Parkpreise sind im Winter identisch mit den Sommerpreisen.",
+              "Ein Eiskratzer könnte an klaren Wintermorgen nötig sein.",
+              "Achten Sie auf Fußgängerzonen, die im Winter oft rutschiger sind."
+            ],
+            "hu": [
+              "Ellenőrizze a fagyállót a szélvédőmosóban.",
+              "Használja a mélygarázsokat az autó lehűlésének elkerülése érdekében.",
+              "A parkolási díjak télen megegyeznek a nyáriakkal.",
+              "Tiszta téli reggeleken szükség lehet jégkaparóra.",
+              "Ügyeljen a sétálóutcákra, amelyek télen gyakran csúszósabbak."
+            ],
+            "ro": [
+              "Verificați antigelul din instalația de spălare a parbrizului.",
+              "Folosiți parcările subterane pentru a evita răcirea mașinii.",
+              "Tarifele de parcare iarna sunt identice cu cele de vară.",
+              "O răzuitoare de gheață ar putea fi necesară în diminețile senine de iarnă.",
+              "Atenție la zonele pietonale, care sunt adesea mai alunecoase iarna."
+            ],
+            "en": [
+              "Check the antifreeze in your windshield washer system.",
+              "Use underground parking to prevent the car from cooling down.",
+              "Parking rates in winter are identical to summer rates.",
+              "An ice scraper might be needed on clear winter mornings.",
+              "Watch out for pedestrian zones, which are often slipperier in winter."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1470,6 +2058,196 @@
           "Download the official bus app for real-time schedules.",
           "Buses can be crowded during peak hours, so plan accordingly."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit den Stadtbussen bleiben Sie in Santiago auch bei Regen mobil und trocken. Beginnen Sie an der Praza de Galicia, dem zentralen Knotenpunkt, von dem aus Sie die Altstadt in wenigen Schritten erreichen.\n\nDer Besuch der Kathedrale und des Klosters San Martiño Pinario ist perfekt für Regentage, da Sie die meiste Zeit in prachtvollen Innenräumen verbringen. Die Busse fahren in kurzen Abständen und bieten Schutz vor dem galicischen 'Orvallo'.\n\nMittags bringt Sie der Bus direkt zum Mercado de Abastos. Genießen Sie die lebendige Atmosphäre in den überdachten Hallen, während draußen der Regen die Steine wäscht. Ein Galicischer Eintopf ist jetzt genau das Richtige.\n\nDer Nachmittag im Museum des galicischen Volkes lässt Sie das Wetter vergessen. Danach bringt Sie die Buslinie 1 oder 5 bequem zurück zum Alameda-Park, wo Sie den Tag bei einem Blick auf die verregnete Stadt beenden.",
+            "hu": "A városi buszokkal Santiagóban esőben is mobilis és száraz maradhat. Kezdjen a Praza de Galiciánál, a központi csomópontnál, ahonnan néhány lépéssel elérheti az óvárost.\n\nA katedrális és a San Martiño Pinario kolostor meglátogatása tökéletes esős napokra, mivel az idő nagy részét pompás belső terekben tölti. A buszok gyakran járnak, és védelmet nyújtanak a galíciai 'Orvallo' (permetező eső) elől.\n\nDélben a busz közvetlenül az Abastos piachoz viszi. Élvezze a pezsgő hangulatot a fedett csarnokokban, miközben kint az eső mossa a köveket. Egy galíciai egytálétel most éppen a megfelelő.\n\nA délután a Galíciai Nép Múzeumában elfeledteti az időjárást. Ezután az 1-es vagy 5-ös buszvonal kényelmesen visszaviszi az Alameda parkhoz, ahol a napot az eső áztatta város látványával zárhatja.",
+            "ro": "Cu autobuzele urbane, rămâneți mobili și uscați în Santiago chiar și pe ploaie. Începeți la Praza de Galicia, nodul central de unde ajungeți în centrul vechi în câțiva pași.\n\nVizitarea catedralei și a mănăstirii San Martiño Pinario este perfectă pentru zilele ploioase, deoarece petreceți majoritatea timpului în interioare magnifice. Autobuzele circulă la intervale scurte și oferă protecție împotriva burniței galiciene 'Orvallo'.\n\nLa prânz, autobuzul vă duce direct la Mercado de Abastos. Bucurați-vă de atmosfera plină de viață din halele acoperite, în timp ce afară ploaia spală pietrele. O tocană galiciană este exact ce trebuie acum.\n\nDupă-amiaza la Muzeul Poporului Galician vă face să uitați de vreme. Apoi, linia de autobuz 1 sau 5 vă duce confortabil înapoi la Parcul Alameda, unde încheiați ziua cu o privire asupra orașului ploios.",
+            "en": "With city buses, you stay mobile and dry in Santiago even in the rain. Start at Praza de Galicia, the central hub from which you can reach the old town in a few steps.\n\nVisiting the cathedral and the San Martiño Pinario monastery is perfect for rainy days as you spend most of your time in magnificent interiors. Buses run at short intervals and offer protection from the Galician 'Orvallo' (drizzle).\n\nAt noon, the bus takes you directly to the Abastos Market. Enjoy the lively atmosphere in the covered halls while the rain washes the stones outside. A Galician stew is just the thing right now.\n\nThe afternoon at the Museum of the Galician People makes you forget the weather. Afterwards, bus line 1 or 5 takes you comfortably back to Alameda Park, where you end the day with a view of the rainy city."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Praza de Galicia",
+              "tip_5lang": {
+                "de": "Hinter den Arkaden finden Sie Schutz beim Warten auf den Bus.",
+                "hu": "Az árkádok alatt védelmet talál a buszra várva.",
+                "ro": "Sub porticuri găsiți adăpost în timp ce așteptați autobuzul.",
+                "en": "Find shelter under the arcades while waiting for the bus."
+              }
+            },
+            {
+              "name": "Obradoiro Square & Cathedral",
+              "tip_5lang": {
+                "de": "Der Weg vom Busstopp zur Kathedrale ist kurz und meist überdacht.",
+                "hu": "A buszmegállótól a katedrálisig vezető út rövid és többnyire fedett.",
+                "ro": "Drumul de la stația de autobuz la catedrală este scurt și în mare parte acoperit.",
+                "en": "The walk from the bus stop to the cathedral is short and mostly covered."
+              }
+            },
+            {
+              "name": "Monastery of San Martiño Pinario",
+              "tip_5lang": {
+                "de": "Idealer Ort, um die Zeit bis zum nächsten Bus im Trockenen zu verbringen.",
+                "hu": "Ideális hely a következő buszig tartó idő szárazon való eltöltésére.",
+                "ro": "Locul ideal pentru a petrece timpul până la următorul autobuz la uscat.",
+                "en": "Ideal place to spend time until the next bus in the dry."
+              }
+            },
+            {
+              "name": "Bus to Mercado de Abastos",
+              "tip_5lang": {
+                "de": "Die Haltestellen am Markt sind oft sehr belebt und etwas eng.",
+                "hu": "A piaci buszmegállók gyakran nagyon forgalmasak és szűkösek.",
+                "ro": "Stațiile de autobuz de la piață sunt adesea foarte aglomerate și strâmte.",
+                "en": "The bus stops at the market are often very busy and a bit narrow."
+              }
+            },
+            {
+              "name": "Lunch & Museum of the Galician People",
+              "tip_5lang": {
+                "de": "Der Museumseingang bietet einen kleinen überdachten Vorplatz.",
+                "hu": "A múzeum bejárata egy kis fedett előteret kínál.",
+                "ro": "Intrarea muzeului oferă un mic scuar acoperit.",
+                "en": "The museum entrance offers a small covered forecourt."
+              }
+            },
+            {
+              "name": "Bus to Alameda Park",
+              "tip_5lang": {
+                "de": "Nutzen Sie die App 'Mais Bus', um die Wartezeiten im Regen zu minimieren.",
+                "hu": "Használja a 'Mais Bus' alkalmazást a várakozási idő minimalizálására az esőben.",
+                "ro": "Folosiți aplicația 'Mais Bus' pentru a minimiza timpul de așteptare în ploaie.",
+                "en": "Use the 'Mais Bus' app to minimize waiting times in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie eine Mehrfahrtenkarte ('Bono'), um das Umsteigen zu erleichtern.",
+              "Die Busse sind im Winter oft stark beheizt; kleiden Sie sich im Zwiebelprinzip.",
+              "Halten Sie Ihren Schirm beim Einsteigen griffbereit, aber geschlossen.",
+              "Die Haltestellenanzeigen in den Bussen sind meist zuverlässig.",
+              "Meiden Sie die Stoßzeiten am frühen Morgen und späten Nachmittag."
+            ],
+            "hu": [
+              "Vásároljon gyűjtőjegyet ('Bono') az átszállások megkönnyítésére.",
+              "A buszok télen gyakran erősen fűtöttek; öltözködjön rétegesen.",
+              "Felszálláskor tartsa kéznél az esernyőt, de csukva.",
+              "A buszokon belüli megállójelzők többnyire megbízhatóak.",
+              "Kerülje a kora reggeli és késő délutáni csúcsidőt."
+            ],
+            "ro": [
+              "Cumpărați un bilet cu mai multe călătorii ('Bono') pentru a facilita transferurile.",
+              "Autobuzele sunt adesea foarte încălzite iarna; îmbrăcați-vă în straturi.",
+              "La urcare, țineți umbrela la îndemână, dar închisă.",
+              "Afișajele stațiilor din autobuze sunt de obicei de încredere.",
+              "Evitați orele de vârf de dimineață devreme și după-amiază târziu."
+            ],
+            "en": [
+              "Buy a multi-trip card ('Bono') to make transferring easier.",
+              "Buses are often heavily heated in winter; dress in layers.",
+              "Keep your umbrella handy but closed when boarding.",
+              "The stop displays inside the buses are mostly reliable.",
+              "Avoid early morning and late afternoon rush hours."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Santiagos Nahverkehr ist auch im Winter die bequemste Art, die Stadt zu erkunden. Starten Sie an der Praza de Galicia, wo die Busse Sie direkt an den Rand der historischen Altstadt bringen.\n\nDer Vormittag an der Kathedrale ist ruhig. Die Busse sind gut beheizt und bieten eine willkommene Aufwärmpause zwischen den Besichtigungen. Das klare Winterlicht macht die Fahrt durch die neuen Stadtviertel sehenswert.\n\nMittags nehmen Sie den Bus zum Markt. Dort erwartet Sie die Wärme der Cafés und der Duft von typischen Wintergerichten. Es ist die beste Zeit, um die lokale Atmosphäre ohne Hektik zu genießen.\n\nNach dem Museumsbesuch am Nachmittag bringt Sie der Bus sicher und warm zurück. Da es früh dunkel wird, können Sie aus dem Busfenster die festliche Beleuchtung der Stadt bewundern, während Sie entspannt zu Ihrem Ausgangspunkt zurückkehren.",
+            "hu": "Santiago tömegközlekedése télen is a legkényelmesebb módja a város felfedezésének. Kezdjen a Praza de Galiciánál, ahol a buszok közvetlenül a történelmi óváros szélére viszik.\n\nA délelőtt a katedrálisnál nyugodt. A buszok jól fűtöttek, és szívesen látott melegedő szünetet nyújtanak a látnivalók között. A tiszta téli fényben érdemes végigutazni az új városnegyedeken.\n\nDélben szálljon buszra a piac felé. Ott a kávézók melege és a jellegzetes téli ételek illata várja. Ez a legjobb időszak a helyi hangulat kapkodás nélküli élvezetére.\n\nA délutáni múzeumlátogatás után a busz biztonságban és melegben viszi vissza. Mivel korán sötétedik, a busz ablakából megcsodálhatja a város ünnepi kivilágítását, miközben pihentetően tér vissza kiindulópontjához.",
+            "ro": "Transportul public din Santiago este cea mai confortabilă modalitate de a explora orașul și iarna. Începeți la Praza de Galicia, unde autobuzele vă lasă direct la marginea centrului istoric.\n\nDimineața la catedrală este liniștită. Autobuzele sunt bine încălzite și oferă o pauză de încălzire binevenită între vizite. Lumina clară de iarnă face ca drumul prin noile cartiere ale orașului să merite văzut.\n\nLa prânz, luați autobuzul spre piață. Acolo vă așteaptă căldura cafenelelor și mirosul mâncărurilor tipice de iarnă. Este cea mai bună perioadă pentru a vă bucura de atmosfera locală fără grabă.\n\nDupă vizita la muzeu de după-amiază, autobuzul vă aduce înapoi în siguranță și la căldură. Deoarece se întunecă devreme, puteți admira iluminatul festiv al orașului de pe fereastra autobuzului, în timp ce vă întoarceți relaxat la punctul de plecare.",
+            "en": "Santiago's public transport is the most comfortable way to explore the city even in winter. Start at Praza de Galicia, where the buses take you directly to the edge of the historic old town.\n\nThe morning at the cathedral is quiet. The buses are well heated and offer a welcome warm-up break between sightings. The clear winter light makes the ride through the new city districts worth seeing.\n\nAt noon, take the bus to the market. There, the warmth of the cafes and the scent of typical winter dishes await you. It is the best time to enjoy the local atmosphere without any rush.\n\nAfter the museum visit in the afternoon, the bus brings you back safely and warm. Since it gets dark early, you can admire the city's festive lighting from the bus window as you relax and return to your starting point."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Praza de Galicia",
+              "tip_5lang": {
+                "de": "Zentraler Umsteigepunkt mit vielen Cafés in der Nähe zum Aufwärmen.",
+                "hu": "Központi átszállópont, sok közeli kávézóval a melegedéshez.",
+                "ro": "Punct central de transfer cu multe cafenele în apropiere pentru încălzire.",
+                "en": "Central transfer point with many nearby cafes for warming up."
+              }
+            },
+            {
+              "name": "Obradoiro Square & Cathedral",
+              "tip_5lang": {
+                "de": "Im Winter ist der Platz oft nebelverhangen und sehr atmosphärisch.",
+                "hu": "Télen a tér gyakran ködbe burkolózik, ami nagyon hangulatos.",
+                "ro": "Iarna, piața este adesea învăluită în ceață și foarte atmosferică.",
+                "en": "In winter, the square is often misty and very atmospheric."
+              }
+            },
+            {
+              "name": "Monastery of San Martiño Pinario",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ausstellungen im Inneren, wenn es draußen zu kalt ist.",
+                "hu": "Látogassa meg a benti kiállításokat, ha kint túl hideg van.",
+                "ro": "Vizitați expozițiile din interior dacă afară este prea frig.",
+                "en": "Visit the exhibitions inside if it is too cold outside."
+              }
+            },
+            {
+              "name": "Bus to Mercado de Abastos",
+              "tip_5lang": {
+                "de": "Die Busse fahren im Winter nach dem regulären Fahrplan.",
+                "hu": "A buszok télen a rendes menetrend szerint közlekednek.",
+                "ro": "Autobuzele circulă iarna conform orarului regulat.",
+                "en": "Buses run according to the regular schedule in winter."
+              }
+            },
+            {
+              "name": "Lunch & Museum of the Galician People",
+              "tip_5lang": {
+                "de": "Ein großartiger Ort, um den kalten Nachmittag sinnvoll zu nutzen.",
+                "hu": "Nagyszerű hely a hideg délután hasznos eltöltésére.",
+                "ro": "Un loc minunat pentru a folosi util după-amiaza rece.",
+                "en": "A great place to make good use of the cold afternoon."
+              }
+            },
+            {
+              "name": "Bus to Alameda Park",
+              "tip_5lang": {
+                "de": "Genießen Sie die Fahrt durch das beleuchtete Santiago am späten Nachmittag.",
+                "hu": "Élvezze az utazást a kivilágított Santiagón keresztül késő délután.",
+                "ro": "Bucurați-vă de drumul prin Santiago iluminat după-amiaza târziu.",
+                "en": "Enjoy the ride through lit-up Santiago in the late afternoon."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie warme Socken; die Steinböden in den Kirchen sind sehr kalt.",
+              "Die Busse verkehren im Winter zuverlässig, auch bei schlechtem Wetter.",
+              "Nutzen Sie die Wartezeiten an den Haltestellen für Fotos der Weihnachtsdeko.",
+              "Die Abenddämmerung beginnt früh, was die Stadt besonders gemütlich macht.",
+              "Informieren Sie sich über eventuelle Feiertags-Fahrpläne im Dezember."
+            ],
+            "hu": [
+              "Viseljen meleg zoknit; a templomok kőpadlója nagyon hideg.",
+              "A buszok télen megbízhatóan közlekednek, rossz időben is.",
+              "Használja ki a megállókban való várakozást a karácsonyi dekoráció fotózására.",
+              "Az alkonyat korán kezdődik, ami a várost különösen hangulatossá teszi.",
+              "Tájékozódjon az esetleges decemberi ünnepi menetrendekről."
+            ],
+            "ro": [
+              "Purtați șosete groase; podelele de piatră din biserici sunt foarte reci.",
+              "Autobuzele circulă fiabil iarna, chiar și pe vreme rea.",
+              "Folosiți timpul de așteptare în stații pentru fotografii cu decorațiunile de Crăciun.",
+              "Amurgul începe devreme, ceea ce face orașul deosebit de primitor.",
+              "Informați-vă despre eventualele orare de sărbători în decembrie."
+            ],
+            "en": [
+              "Wear warm socks; the stone floors in the churches are very cold.",
+              "Buses run reliably in winter, even in bad weather.",
+              "Use the waiting times at bus stops for photos of the Christmas decorations.",
+              "Dusk begins early, making the city particularly cozy.",
+              "Check for any holiday schedules in December."
+            ]
+          }
+        }
       }
     }
   }

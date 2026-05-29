@@ -362,6 +362,188 @@
           "Check museum opening times in advance, especially out of season.",
           "The Old Town offers a great selection of pubs and restaurants for lunch and dinner."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt im historischen Railway Village, wo die viktorianischen Häuser auch bei Regen Charme versprühen. Mittags bietet das STEAM Museum den perfekten Zufluchtsort in die Welt der Eisenbahnen. Nachmittags erkunden wir die Kunstgalerie, während der Regen gegen die Fenster prasselt. Den Abend lassen wir bei einem kurzen, erfrischenden Spaziergang im Queen's Park ausklingen.",
+            "hu": "A nap a történelmi vasúti negyedben indul, ahol az eső még hangulatosabbá teszi a viktoriánus utcákat. Délben a STEAM múzeum hatalmas csarnokai nyújtanak menedéket a víz elől. Délután a művészeti galéria belső tereiben gyönyörködhetünk, miközben odakint esik. Estére a Queen's Park tavai és vizes ösvényei zárják a városi sétát egy ernyő alatt.",
+            "ro": "Ziua începe în Railway Village, unde casele victoriene își păstrează farmecul chiar și sub umbrelă. La prânz, muzeul STEAM oferă refugiul perfect printre locomotivele gigantice. După-amiaza explorăm galeria de artă, feriți de picăturile de ploaie. Seara se încheie cu o plimbare scurtă și revigorantă prin Queen's Park, când orașul capătă un luciu aparte.",
+            "en": "The day starts in the historic Railway Village, where Victorian houses look atmospheric in the rain. At noon, the STEAM Museum provides the perfect indoor escape into railway history. In the afternoon, we explore the art gallery while staying dry inside. The evening concludes with a brief, refreshing walk through Queen's Park, enjoying the glistening paths."
+          },
+          "stops": [
+            {
+              "name": "Railway Village",
+              "tip_4lang": {
+                "de": "Nutzen Sie die kleinen Vordächer der historischen Cottages.",
+                "hu": "Használja ki a történelmi házikók kis előtetőit.",
+                "ro": "Folosiți micile copertine ale căsuțelor istorice.",
+                "en": "Use the small porches of the historic cottages for cover."
+              }
+            },
+            {
+              "name": "STEAM - Museum of the Great Western Railway",
+              "tip_4lang": {
+                "de": "Idealer Ort, um zwei Stunden komplett im Trockenen zu verbringen.",
+                "hu": "Ideális helyszín két óra teljes szárazságban töltött kikapcsolódáshoz.",
+                "ro": "Locul ideal pentru a petrece două ore complet la adăpost.",
+                "en": "Ideal place to spend two hours completely in the dry."
+              }
+            },
+            {
+              "name": "The Magic Roundabout",
+              "tip_4lang": {
+                "de": "Ein schneller Blick vom Gehweg reicht aus; halten Sie den Schirm fest.",
+                "hu": "Egy gyors pillantás a járdáról elég; fogja szorosan az ernyőt.",
+                "ro": "O privire rapidă de pe trotuar e suficientă; țineți bine umbrela.",
+                "en": "A quick look from the pavement is enough; hold your umbrella tight."
+              }
+            },
+            {
+              "name": "Swindon Museum & Art Gallery",
+              "tip_4lang": {
+                "de": "Genießen Sie die Ruhe und die Wärme in den Ausstellungsräumen.",
+                "hu": "Élvezze a nyugalmat és a meleget a kiállítótermekben.",
+                "ro": "Bucurați-vă de liniște și căldură în sălile de expoziție.",
+                "en": "Enjoy the quiet and warmth in the exhibition rooms."
+              }
+            },
+            {
+              "name": "Wyvern Theatre",
+              "tip_4lang": {
+                "de": "Das Foyer bietet Schutz, falls ein plötzlicher Schauer einsetzt.",
+                "hu": "Az előcsarnok védelmet nyújt egy hirtelen zápor esetén.",
+                "ro": "Foaierul oferă protecție în cazul unei averse neprevăzute.",
+                "en": "The foyer offers shelter if a sudden shower starts."
+              }
+            },
+            {
+              "name": "Queen's Park",
+              "tip_4lang": {
+                "de": "Die asphaltierten Wege sind weniger matschig als die Rasenflächen.",
+                "hu": "Az aszfaltozott utak kevésbé sárosak, mint a füves területek.",
+                "ro": "Aleile asfaltate sunt mai puțin noroioase decât zonele cu iarbă.",
+                "en": "The paved paths are less muddy than the grassy areas."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Regenschirm ist wegen des Windes in Swindon ratsam.",
+              "Das STEAM-Museum hat ein tolles Café für eine längere Regenpause.",
+              "Tragen Sie wasserfeste Schuhe für die Wege zwischen den Museen.",
+              "Die Verbindung zum Designer Outlet ist größtenteils überdacht."
+            ],
+            "hu": [
+              "A szeles swindoni időjárás miatt stabil esernyő javasolt.",
+              "A STEAM múzeum kávézója remek hely egy hosszabb esőszünethez.",
+              "Viseljen vízálló cipőt a múzeumok közötti sétákhoz.",
+              "A Designer Outlet felé vezető út nagy része fedett."
+            ],
+            "ro": [
+              "O umbrelă rezistentă este recomandată din cauza vântului din Swindon.",
+              "Muzeul STEAM are o cafenea excelentă pentru o pauză lungă de ploaie.",
+              "Purtați încălțăminte impermeabilă pentru drumurile dintre muzee.",
+              "Legătura către Designer Outlet este în mare parte acoperită."
+            ],
+            "en": [
+              "A sturdy umbrella is recommended due to Swindon's wind.",
+              "The STEAM museum has a great cafe for a long rain break.",
+              "Wear waterproof shoes for the walks between museums.",
+              "The route towards the Designer Outlet is mostly covered."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen führt uns durch das Railway Village, wo der Atem in der kalten Luft gefriert. Mittags wärmen wir uns im STEAM Museum zwischen den glänzenden Lokomotiven auf. Da es früh dunkel wird, besuchen wir die Kunstgalerie am frühen Nachmittag. Der Tag endet stimmungsvoll in der Dämmerung im beleuchteten Queen's Park.",
+            "hu": "A fagyos reggel a vasúti negyeden vezet át, ahol a hideg levegőben látszik a leheletünk. Délben a STEAM múzeum csillogó mozdonyai között melegedhetünk fel. Mivel korán sötétedik, kora délután látogatjuk meg a művészeti galériát. A nap a Queen's Park fényeiben, a korai szürkületben ér véget.",
+            "ro": "O dimineață geroasă ne poartă prin Railway Village, unde respirația îngheață în aerul rece. La prânz, ne încălzim în muzeul STEAM printre locomotivele strălucitoare. Deoarece se întunecă devreme, vizităm galeria de artă la începutul după-amiezii. Ziua se încheie atmosferic în amurgul din Queen's Park.",
+            "en": "A frosty morning leads us through the Railway Village, with breath visible in the cold air. At noon, we warm up in the STEAM Museum among gleaming locomotives. As it gets dark early, we visit the art gallery in the early afternoon. The day ends atmospherically in the twilight of the lit Queen's Park."
+          },
+          "stops": [
+            {
+              "name": "Railway Village",
+              "tip_4lang": {
+                "de": "Achten Sie auf glatte Stellen auf den alten Pflastersteinen.",
+                "hu": "Vigyázzon a csúszós foltokra a régi macskaköveken.",
+                "ro": "Atenție la porțiunile alunecoase de pe pietrele cubice vechi.",
+                "en": "Watch out for slippery patches on the old cobblestones."
+              }
+            },
+            {
+              "name": "STEAM - Museum of the Great Western Railway",
+              "tip_4lang": {
+                "de": "Nutzen Sie die Garderobe für Ihre dicke Winterjacke.",
+                "hu": "Használja a ruhatárat a vastag télikabátja számára.",
+                "ro": "Folosiți garderoba pentru haina groasă de iarnă.",
+                "en": "Use the cloakroom for your heavy winter coat."
+              }
+            },
+            {
+              "name": "The Magic Roundabout",
+              "tip_4lang": {
+                "de": "In der Winterdämmerung sind die Scheinwerfer der Autos besonders hell.",
+                "hu": "A téli szürkületben az autók fényszórói különösen látványosak.",
+                "ro": "În amurgul de iarnă, farurile mașinilor sunt deosebit de strălucitoare.",
+                "en": "In the winter twilight, car headlights look especially bright here."
+              }
+            },
+            {
+              "name": "Swindon Museum & Art Gallery",
+              "tip_4lang": {
+                "de": "Ein warmer Rückzugsort mit inspirierender Atmosphäre.",
+                "hu": "Meleg menedék inspiráló környezetben.",
+                "ro": "Un refugiu călduros cu o atmosferă inspirațională.",
+                "en": "A warm retreat with an inspiring atmosphere."
+              }
+            },
+            {
+              "name": "Wyvern Theatre",
+              "tip_4lang": {
+                "de": "Prüfen Sie, ob es eine Nachmittagsvorstellung gibt, um sich aufzuwärmen.",
+                "hu": "Nézze meg, van-e délutáni előadás, ahol felmelegedhet.",
+                "ro": "Verificați dacă există un spectacol de după-amiază pentru a vă încălzi.",
+                "en": "Check for afternoon performances to warm up inside."
+              }
+            },
+            {
+              "name": "Queen's Park",
+              "tip_4lang": {
+                "de": "Der Park schließt bei Einbruch der Dunkelheit, oft gegen 16:30 Uhr.",
+                "hu": "A park sötétedéskor zár, gyakran már délután fél ötkor.",
+                "ro": "Parcul se închide la lăsarea întunericului, adesea pe la 16:30.",
+                "en": "The park closes at dusk, often around 4:30 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Handschuhe sind für die Außenabschnitte unerlässlich.",
+              "Die Sonne geht im Dezember bereits gegen 16:00 Uhr unter.",
+              "Kombinieren Sie den Tag mit einem Besuch auf dem Weihnachtsmarkt.",
+              "Trinken Sie einen heißen Tee im Designer Outlet Café."
+            ],
+            "hu": [
+              "A szabadtéri szakaszokhoz elengedhetetlen a meleg kesztyű.",
+              "Decemberben a nap már délután 4 körül lemegy.",
+              "Kösse össze a napot egy látogatással a helyi karácsonyi vásáron.",
+              "Igyon egy forró teát a Designer Outlet kávézójában."
+            ],
+            "ro": [
+              "Mănușile călduroase sunt esențiale pentru secțiunile exterioare.",
+              "În decembrie, soarele apune deja în jurul orei 16:00.",
+              "Combinați ziua cu o vizită la târgul de Crăciun local.",
+              "Beți un ceai fierbinte în cafeneaua de la Designer Outlet."
+            ],
+            "en": [
+              "Warm gloves are essential for the outdoor sections.",
+              "In December, the sun sets as early as 4:00 PM.",
+              "Combine the day with a visit to a local Christmas market.",
+              "Have a hot tea in the Designer Outlet cafe."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -676,6 +858,188 @@
           "Some routes, especially to Lydiard Park, can be hilly, so be prepared.",
           "Check the weather forecast and dress in layers."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten am Coate Water, wo der Nebel über dem See hängt. Die Fahrt zum Queen's Park ist kurz, aber nass. Im Museum und in der Railway Village finden wir Schutz, bevor wir zum STEAM Museum weiterfahren. Der Abschluss am Lydiard Park ist durch den Regen besonders ruhig und mystisch.",
+            "hu": "A Coate Water tónál kezdünk, ahol köd ül a víz felett. A Queen's Parkba vezető út rövid, de vizes. A múzeumban és a vasúti negyedben menedéket találunk, mielőtt a STEAM-be tekernénk. A Lydiard Park zárása az esőben különösen csendes és misztikus hangulatú.",
+            "ro": "Începem la Coate Water, unde ceața plutește deasupra lacului. Drumul spre Queen's Park este scurt, dar umed. În muzeu și în Railway Village găsim adăpost înainte de a pedala spre STEAM. Finalul la Lydiard Park este deosebit de liniștit și mistic datorită ploii.",
+            "en": "We start at Coate Water, where mist hangs over the lake. The ride to Queen's Park is short but wet. We find shelter in the museum and Railway Village before cycling to STEAM. The finish at Lydiard Park is especially quiet and mystical due to the rain."
+          },
+          "stops": [
+            {
+              "name": "Coate Water Country Park",
+              "tip_4lang": {
+                "de": "Vorsicht auf den Waldwegen, sie können sehr schlammig sein.",
+                "hu": "Vigyázzon az erdei utakon, nagyon sárosak lehetnek.",
+                "ro": "Atenție pe potecile din pădure, pot fi foarte noroioase.",
+                "en": "Be careful on the woodland paths; they can be very muddy."
+              }
+            },
+            {
+              "name": "Queen's Park",
+              "tip_4lang": {
+                "de": "Suchen Sie unter den großen Bäumen kurzzeitig Schutz.",
+                "hu": "Keressen rövid ideig menedéket a nagy fák alatt.",
+                "ro": "Căutați adăpost temporar sub copacii mari.",
+                "en": "Seek temporary shelter under the large trees."
+              }
+            },
+            {
+              "name": "Swindon Museum & Art Gallery",
+              "tip_4lang": {
+                "de": "Fahrradständer befinden sich in der Nähe des Eingangs.",
+                "hu": "Kerékpártárolók a bejárat közelében találhatók.",
+                "ro": "Suporturile pentru biciclete sunt aproape de intrare.",
+                "en": "Bike racks are located near the entrance."
+              }
+            },
+            {
+              "name": "Railway Village",
+              "tip_4lang": {
+                "de": "Vermeiden Sie scharfes Bremsen auf den nassen Pflastersteinen.",
+                "hu": "Kerülje az erős fékezést a vizes macskaköveken.",
+                "ro": "Evitați frânările bruște pe pietrele cubice ude.",
+                "en": "Avoid sharp braking on the wet cobblestones."
+              }
+            },
+            {
+              "name": "STEAM - Museum of the Great Western Railway",
+              "tip_4lang": {
+                "de": "Überdachte Fahrradparkplätze gibt es im nahegelegenen Outlet-Parkhaus.",
+                "hu": "Fedett bicikliparkolót a közeli Outlet parkolóházában talál.",
+                "ro": "Parcare acoperită pentru biciclete în parcarea Outlet-ului din apropiere.",
+                "en": "Covered bike parking is available in the nearby Outlet car park."
+              }
+            },
+            {
+              "name": "Lydiard Park",
+              "tip_4lang": {
+                "de": "Der Weg hierher führt über offenes Gelände; Regenkleidung ist Pflicht.",
+                "hu": "Az idevezető út nyílt terepen halad; az esőruha kötelező.",
+                "ro": "Drumul până aici trece prin teren deschis; hainele de ploaie sunt obligatorii.",
+                "en": "The path here is through open ground; waterproofs are essential."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche am Fahrrad sind bei diesem Wetter ein Muss.",
+              "Nutzen Sie den Western Way für eine sicherere Fahrt bei Nässe.",
+              "Bringen Sie ein Tuch mit, um den Sattel trocken zu wischen.",
+              "Planen Sie mehr Zeit für Bremsmanöver ein."
+            ],
+            "hu": [
+              "A sárvédő használata ilyenkor kötelező a biciklin.",
+              "Használja a Western Way-t a biztonságosabb közlekedéshez.",
+              "Hozzon egy rongyot a nyereg szárazra törléséhez.",
+              "Hagyjon több időt a fékezésre."
+            ],
+            "ro": [
+              "Aripile la bicicletă sunt obligatorii pe această vreme.",
+              "Folosiți Western Way pentru o deplasare mai sigură pe timp umed.",
+              "Aduceți o cârpă pentru a șterge șaua.",
+              "Planificați mai mult timp pentru frânare."
+            ],
+            "en": [
+              "Mudguards on your bike are a must in this weather.",
+              "Use Western Way for a safer ride in the wet.",
+              "Bring a cloth to wipe the saddle dry.",
+              "Allow extra time for braking maneuvers."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Start am Coate Water mit Raureif auf den Wegen. Über Queen's Park fahren wir zur Kunstgalerie, um uns aufzuwärmen. Nach einem Stopp im Railway Village erreichen wir das STEAM Museum. Die letzte Etappe zum Lydiard Park findet in der frühen Abenddämmerung bei klirrender Kälte statt.",
+            "hu": "Hűvös kezdés a Coate Waternél, dérlepte utakkal. A Queen's Parkon át a művészeti galériához tekerünk melegedni. A vasúti negyed után érjük el a STEAM múzeumot. Az utolsó szakasz a Lydiard Parkba a kora esti szürkületben, metsző hidegben telik.",
+            "ro": "Un început răcoros la Coate Water cu chiciură pe drumuri. Pedalam prin Queen's Park spre galeria de artă pentru a ne încălzi. După o oprire în Railway Village, ajungem la muzeul STEAM. Ultima etapă spre Lydiard Park are loc în amurgul timpuriu, pe un frig pătrunzător.",
+            "en": "A chilly start at Coate Water with hoarfrost on the paths. We cycle via Queen's Park to the art gallery to warm up. After a stop in Railway Village, we reach STEAM. The final leg to Lydiard Park takes place in the early twilight with biting cold."
+          },
+          "stops": [
+            {
+              "name": "Coate Water Country Park",
+              "tip_4lang": {
+                "de": "Vorsicht vor Eisplatten in schattigen Bereichen.",
+                "hu": "Vigyázzon a jégfoltokra az árnyékos részeken.",
+                "ro": "Atenție la porțiunile de gheață în zonele umbrite.",
+                "en": "Watch out for patches of ice in shaded areas."
+              }
+            },
+            {
+              "name": "Queen's Park",
+              "tip_4lang": {
+                "de": "Die Wege können durch gefrorenes Laub rutschig sein.",
+                "hu": "A fagyott levelek miatt az utak csúszósak lehetnek.",
+                "ro": "Aleile pot fi alunecoase din cauza frunzelor înghețate.",
+                "en": "Paths can be slippery due to frozen leaves."
+              }
+            },
+            {
+              "name": "Swindon Museum & Art Gallery",
+              "tip_4lang": {
+                "de": "Trinken Sie hier einen heißen Kakao in der Nähe.",
+                "hu": "Igyon egy forró kakaót a közelben.",
+                "ro": "Beți o ciocolată caldă în apropiere.",
+                "en": "Have a hot cocoa nearby to warm up."
+              }
+            },
+            {
+              "name": "Railway Village",
+              "tip_4lang": {
+                "de": "Die Ziegelwände strahlen im Winter eine besondere Ruhe aus.",
+                "hu": "A téglafalak télen különleges nyugalmat árasztanak.",
+                "ro": "Zidurile de cărămidă emană o liniște deosebită iarna.",
+                "en": "The brick walls radiate a special calm in winter."
+              }
+            },
+            {
+              "name": "STEAM - Museum of the Great Western Railway",
+              "tip_4lang": {
+                "de": "Bringen Sie ein Schloss mit, das auch bei Kälte nicht klemmt.",
+                "hu": "Hozzon olyan lakatot, ami hidegben sem akad el.",
+                "ro": "Aduceți un lacăt care nu se blochează la frig.",
+                "en": "Bring a lock that won't jam in freezing temperatures."
+              }
+            },
+            {
+              "name": "Lydiard Park",
+              "tip_4lang": {
+                "de": "Stellen Sie sicher, dass Ihre Fahrradbeleuchtung voll funktionsfähig ist.",
+                "hu": "Győződjön meg róla, hogy a kerékpáros világítása jól működik.",
+                "ro": "Asigurați-vă că luminile bicicletei sunt complet funcționale.",
+                "en": "Ensure your bike lights are fully functional for the ride back."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Schichten, um bei der Fahrt warm zu bleiben.",
+              "Winterhandschuhe sind für das Bremsen und Schalten wichtig.",
+              "Die Radwege werden nicht immer gestreut.",
+              "Nutzen Sie helle Lichter, da es ab 15:30 Uhr dämmert."
+            ],
+            "hu": [
+              "Öltözzön rétegesen, hogy tekerés közben melegen maradjon.",
+              "A téli kesztyű fontos a fékezéshez és váltáshoz.",
+              "A kerékpárutakat nem mindig sózzák.",
+              "Használjon erős lámpákat, mert délután fél 4-től már szürkül."
+            ],
+            "ro": [
+              "Purtați haine în straturi pentru a vă menține căldura.",
+              "Mănușile de iarnă sunt importante pentru frânare și schimbarea vitezelor.",
+              "Pistele de biciclete nu sunt întotdeauna curățate de gheață.",
+              "Folosiți lumini puternice, deoarece se înserează de la 15:30."
+            ],
+            "en": [
+              "Wear layers to stay warm while cycling.",
+              "Winter gloves are important for braking and shifting.",
+              "Cycle paths are not always gritted.",
+              "Use bright lights as it gets dark from 3:30 PM."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -990,6 +1354,188 @@
           "Swindon traffic can be heavy during peak hours, so allow extra travel time.",
           "Use a sat-nav to find your way around, especially for the Magic Roundabout!"
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten gemütlich im Lydiard Park, wo wir das Haus besichtigen, während es draußen regnet. Nach dem Mittagessen fahren wir zum STEAM Museum, das trockene Unterhaltung bietet. Ein kurzer Stopp im Railway Village folgt, bevor wir zum Coate Water fahren. Die Fahrt endet am Magic Roundabout, den wir sicher aus dem Auto beobachten.",
+            "hu": "Kényelmesen kezdünk a Lydiard Parkban, ahol megnézzük a házat, miközben kint esik. Ebéd után a STEAM múzeumba hajtunk, amely száraz szórakozást nyújt. Rövid megálló a vasúti negyedben, majd irány a Coate Water. Az út a Magic Roundaboutnál ér véget, amit biztonságban, az autóból figyelünk.",
+            "ro": "Începem confortabil la Lydiard Park, unde vizităm casa în timp ce afară plouă. După prânz, conducem spre muzeul STEAM, care oferă divertisment la adăpost. Urmează o scurtă oprire în Railway Village înainte de a merge la Coate Water. Călătoria se termină la Magic Roundabout, pe care îl observăm în siguranță din mașină.",
+            "en": "We start comfortably at Lydiard Park, visiting the house while it rains outside. After lunch, we drive to the STEAM Museum for some dry entertainment. A short stop in Railway Village follows before heading to Coate Water. The drive ends at the Magic Roundabout, observed safely from the car."
+          },
+          "stops": [
+            {
+              "name": "Lydiard Park",
+              "tip_4lang": {
+                "de": "Parken Sie nah am Haus, um den Weg im Regen zu verkürzen.",
+                "hu": "Parkoljon közel a házhoz, hogy lerövidítse az utat az esőben.",
+                "ro": "Parcați aproape de casă pentru a sccurta drumul prin ploaie.",
+                "en": "Park close to the house to shorten the walk in the rain."
+              }
+            },
+            {
+              "name": "Lunch near Lydiard",
+              "tip_4lang": {
+                "de": "Ein idealer Ort, um den stärksten Regen abzuwarten.",
+                "hu": "Ideális hely a legerősebb eső kivárására.",
+                "ro": "Locul ideal pentru a aștepta trecerea celei mai puternice ploi.",
+                "en": "An ideal spot to wait out the heaviest rain."
+              }
+            },
+            {
+              "name": "STEAM - Museum of the Great Western Railway",
+              "tip_4lang": {
+                "de": "Das Outlet-Parkhaus bietet einen trockenen Zugang zum Museum.",
+                "hu": "Az Outlet parkolóháza száraz bejutást biztosít a múzeumba.",
+                "ro": "Parcarea Outlet-ului oferă acces uscat către muzeu.",
+                "en": "The Outlet car park provides dry access to the museum."
+              }
+            },
+            {
+              "name": "Railway Village",
+              "tip_4lang": {
+                "de": "Parkplätze sind begrenzt; nutzen Sie die kurzen Gehwege.",
+                "hu": "A parkolóhelyek száma korlátozott; használja a rövid járdákat.",
+                "ro": "Locurile de parcare sunt limitate; folosiți trotuarele scurte.",
+                "en": "Parking is limited; use the short walkways between houses."
+              }
+            },
+            {
+              "name": "Coate Water Country Park",
+              "tip_4lang": {
+                "de": "Beobachten Sie die Vögel direkt vom Parkplatz aus.",
+                "hu": "Figyelje a madarakat közvetlenül a parkolóból.",
+                "ro": "Observați păsările direct din parcare.",
+                "en": "Watch the birds directly from the car park."
+              }
+            },
+            {
+              "name": "Drive past the Magic Roundabout",
+              "tip_4lang": {
+                "de": "Vorsicht vor Aquaplaning auf der großen Kreuzung.",
+                "hu": "Vigyázzon a felfröccsenő vízre a nagy kereszteződésben.",
+                "ro": "Atenție la acvaplanare în marea intersecție.",
+                "en": "Watch out for aquaplaning on the large junction."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Scheibenwischer vor der Abfahrt.",
+              "Das Designer Outlet Parkhaus ist die beste Basis bei Regen.",
+              "Viele Straßen in Swindon sammeln bei Starkregen Wasser.",
+              "Halten Sie mehr Abstand bei nassen Straßen."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze az ablaktörlőket.",
+              "A Designer Outlet parkolóháza a legjobb bázis esőben.",
+              "Sok swindoni úton megáll a víz heves esőzéskor.",
+              "Tartson nagyobb követési távolságot a vizes utakon."
+            ],
+            "ro": [
+              "Verificați ștergătoarele înainte de plecare.",
+              "Parcarea Designer Outlet este cea mai bună bază pe ploaie.",
+              "Multe străzi din Swindon colectează apa la ploi torențiale.",
+              "Păstrați o distanță mai mare pe drumurile ude."
+            ],
+            "en": [
+              "Check your wipers before setting off.",
+              "The Designer Outlet car park is the best base in the rain.",
+              "Many Swindon roads collect water during heavy rain.",
+              "Keep a larger following distance on wet roads."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens erkunden wir den winterlichen Lydiard Park und genießen die Wärme im Herrenhaus. Nach dem Mittagessen geht es zum STEAM Museum. Ein kurzer Spaziergang durch das frostige Railway Village belebt die Geister, bevor wir zum Coate Water fahren. Der Tag endet mit der Durchquerung des Magic Roundabout bei Dunkelheit.",
+            "hu": "Reggel a télies Lydiard Parkot fedezzük fel, és élvezzük a kastély melegét. Ebéd után a STEAM múzeumba indulunk. Egy rövid séta a fagyos vasúti negyedben felfrissít, mielőtt a Coate Waterhez hajtanánk. A nap a Magic Roundabouton való áthaladással zárul a sötétben.",
+            "ro": "Dimineața explorăm Lydiard Park în haine de iarnă și ne bucurăm de căldura conacului. După prânz, mergem la muzeul STEAM. O scurtă plimbare prin Railway Village cel înghețat ne revigorează înainte de a merge la Coate Water. Ziua se încheie traversând Magic Roundabout pe întuneric.",
+            "en": "In the morning, we explore wintry Lydiard Park and enjoy the warmth inside the house. After lunch, we head to the STEAM Museum. A short walk through the frosty Railway Village refreshes the senses before driving to Coate Water. The day ends by crossing the Magic Roundabout in the dark."
+          },
+          "stops": [
+            {
+              "name": "Lydiard Park",
+              "tip_4lang": {
+                "de": "Das Haus ist im Winter oft festlich geschmückt.",
+                "hu": "A ház télen gyakran ünnepi díszbe öltözik.",
+                "ro": "Conacul este adesea decorat festiv în timpul iernii.",
+                "en": "The house is often festively decorated in winter."
+              }
+            },
+            {
+              "name": "Lunch near Lydiard",
+              "tip_4lang": {
+                "de": "Fragen Sie nach dem Tageseintopf, um sich aufzuwärmen.",
+                "hu": "Kérje a napi egytálételt, hogy felmelegedjen.",
+                "ro": "Cereți tocană zilei pentru a vă încălzi.",
+                "en": "Ask for the daily stew to warm up."
+              }
+            },
+            {
+              "name": "STEAM - Museum of the Great Western Railway",
+              "tip_4lang": {
+                "de": "Die Heizung im Museum sorgt für angenehme Temperaturen.",
+                "hu": "A múzeum fűtése kellemes hőmérsékletet biztosít.",
+                "ro": "Încălzirea din muzeu asigură temperaturi plăcute.",
+                "en": "The museum's heating ensures pleasant temperatures."
+              }
+            },
+            {
+              "name": "Railway Village",
+              "tip_4lang": {
+                "de": "Genießen Sie den Anblick der rauchenden Schornsteine.",
+                "hu": "Élvezze a füstölgő kémények látványát.",
+                "ro": "Bucurați-vă de vederea coșurilor de fum care scot fum.",
+                "en": "Enjoy the sight of smoking chimneys in the village."
+              }
+            },
+            {
+              "name": "Coate Water Country Park",
+              "tip_4lang": {
+                "de": "Der Sonnenuntergang über dem See ist im Winter besonders schön.",
+                "hu": "A naplemente a tó felett télen különösen szép.",
+                "ro": "Apusul peste lac este deosebit de frumos iarna.",
+                "en": "The sunset over the lake is especially beautiful in winter."
+              }
+            },
+            {
+              "name": "Drive past the Magic Roundabout",
+              "tip_4lang": {
+                "de": "Vorsicht vor überfrierender Nässe in den Abendstunden.",
+                "hu": "Vigyázzon a lefagyott utakra az esti órákban.",
+                "ro": "Atenție la polei în orele serii.",
+                "en": "Watch out for black ice in the evening hours."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Ihr Frostschutzmittel aufgefüllt ist.",
+              "Die Parkplätze am Coate Water können glatt sein.",
+              "Nutzen Sie die Sitzheizung für maximale Gemütlichkeit.",
+              "Planen Sie Zeit zum Scheibenkratzen ein."
+            ],
+            "hu": [
+              "Győződjön meg róla, hogy fel van töltve a fagyálló.",
+              "A Coate Water parkolói csúszósak lehetnek.",
+              "Használja az ülésfűtést a maximális kényelemért.",
+              "Számoljon időt a jégkaparásra."
+            ],
+            "ro": [
+              "Asigurați-vă că antigelul este completat.",
+              "Parcările de la Coate Water pot fi alunecoase.",
+              "Folosiți încălzirea în scaune pentru confort maxim.",
+              "Planificați timp pentru curățarea parbrizului de gheață."
+            ],
+            "en": [
+              "Ensure your antifreeze is topped up.",
+              "The car parks at Coate Water can be slippery.",
+              "Use the seat heating for maximum coziness.",
+              "Allow time for de-icing the windows."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1304,6 +1850,188 @@
           "Buses can be crowded during peak times, so plan ahead.",
           "Not all attractions (like Lydiard Park) are easily reached by a single bus, so focus on central clusters."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus geht es direkt zum STEAM Museum, um dem Regen zu entgehen. Danach besuchen wir das Railway Village und die Kunstgalerie, beide gut erreichbar. Ein kurzer Abstecher zum Wyvern Theatre führt uns weiter zum Queen's Park. Den Abschluss bildet die Busfahrt zum Coate Water, wo wir den See im Regen bewundern.",
+            "hu": "Busszal megyünk egyenesen a STEAM múzeumba, hogy elkerüljük az esőt. Ezután a vasúti negyedet és a művészeti galériát látogatjuk meg, mindkettő könnyen elérhető. Egy rövid kitérő a Wyvern Színházhoz, majd irány a Queen's Park. A zárás egy buszút a Coate Waterhez, ahol az esőben csodáljuk a tavat.",
+            "ro": "Mergem cu autobuzul direct la muzeul STEAM pentru a evita ploaia. Apoi vizităm Railway Village și galeria de artă, ambele ușor accesibile. O scurtă oprire la Teatrul Wyvern ne duce mai departe spre Queen's Park. Finalul este o călătorie cu autobuzul la Coate Water, unde admirăm lacul prin ploaie.",
+            "en": "We take the bus directly to the STEAM Museum to escape the rain. Then we visit the Railway Village and the art gallery, both easily accessible. A short detour to the Wyvern Theatre leads us to Queen's Park. The finale is a bus ride to Coate Water, admiring the lake in the rain."
+          },
+          "stops": [
+            {
+              "name": "STEAM - Museum of the Great Western Railway",
+              "tip_4lang": {
+                "de": "Die Bushaltestelle am Outlet bietet Schutz vor Regen.",
+                "hu": "Az Outletnél lévő buszmegálló védelmet nyújt az eső ellen.",
+                "ro": "Stația de autobuz de la Outlet oferă protecție împotriva ploii.",
+                "en": "The bus stop at the Outlet provides shelter from the rain."
+              }
+            },
+            {
+              "name": "Railway Village",
+              "tip_4lang": {
+                "de": "Nur ein kurzer Fußweg von der Bushaltestelle entfernt.",
+                "hu": "Csak egy rövid séta a buszmegállótól.",
+                "ro": "La doar o scurtă plimbare de stația de autobuz.",
+                "en": "Only a short walk from the bus stop."
+              }
+            },
+            {
+              "name": "Swindon Museum & Art Gallery",
+              "tip_4lang": {
+                "de": "Nutzen Sie den Bus, um Steigungen im Regen zu vermeiden.",
+                "hu": "Használja a buszt, hogy elkerülje az emelkedőket az esőben.",
+                "ro": "Folosiți autobuzul pentru a evita pantele în timpul ploii.",
+                "en": "Use the bus to avoid uphill walks in the rain."
+              }
+            },
+            {
+              "name": "Wyvern Theatre",
+              "tip_4lang": {
+                "de": "Der Busbahnhof liegt ganz in der Nähe, ideal für schnelle Umstiege.",
+                "hu": "A buszpályaudvar nagyon közel van, ideális a gyors átszálláshoz.",
+                "ro": "Autogara este foarte aproape, ideală pentru schimbări rapide.",
+                "en": "The bus station is very close, ideal for quick transfers."
+              }
+            },
+            {
+              "name": "Queen's Park",
+              "tip_4lang": {
+                "de": "Halten Sie die Fahrplan-App bereit, um Wartezeiten im Freien zu minimieren.",
+                "hu": "Tartsa készenlétben a menetrendet, hogy minimálisat kelljen várni kint.",
+                "ro": "Aveți aplicația cu orarul pregătită pentru a minimiza așteptarea afară.",
+                "en": "Keep your schedule app ready to minimize outdoor waiting."
+              }
+            },
+            {
+              "name": "Coate Water Country Park",
+              "tip_4lang": {
+                "de": "Die Buslinie 17 fährt regelmäßig und hält fast direkt am Park.",
+                "hu": "A 17-es busz rendszeresen jár és szinte a parknál áll meg.",
+                "ro": "Linia de autobuz 17 circulă regulat și oprește aproape de parc.",
+                "en": "Bus line 17 runs regularly and stops almost directly at the park."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie ein Tagesticket direkt beim Busfahrer oder per App.",
+              "Busse sind in Swindon oft pünktlich, aber planen Sie Puffer ein.",
+              "Die meisten Haltestellen im Zentrum sind überdacht.",
+              "Nutzen Sie die App 'Swindon Bus' für Echtzeit-Infos."
+            ],
+            "hu": [
+              "Vásároljon napijegyet a sofőrnél vagy az applikációban.",
+              "A swindoni buszok általában pontosak, de hagyjon rá időt.",
+              "A legtöbb belvárosi megálló fedett.",
+              "Használja a 'Swindon Bus' appot a valós idejű infókért."
+            ],
+            "ro": [
+              "Cumpărați un bilet de o zi direct de la șofer sau prin aplicație.",
+              "Autobuzele din Swindon sunt de obicei punctuale, dar planificați o marjă.",
+              "Majoritatea stațiilor din centru sunt acoperite.",
+              "Folosiți aplicația 'Swindon Bus' pentru informații în timp real."
+            ],
+            "en": [
+              "Buy a day ticket directly from the driver or via app.",
+              "Swindon buses are usually on time, but allow a buffer.",
+              "Most stops in the town centre are covered.",
+              "Use the 'Swindon Bus' app for real-time information."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im beheizten Bus starten wir zum STEAM Museum. Die Fahrt zum Railway Village und zur Kunstgalerie ist kurz und warm. Nach einem Besuch im Wyvern Theatre spazieren wir durch den Queen's Park in der kalten Luft. Den Abschluss bildet die Busfahrt zum Coate Water, wo wir den Wintertag am See beenden.",
+            "hu": "Fűtött busszal indulunk a STEAM múzeumhoz. Az út a vasúti negyedhez és a művészeti galériához rövid és meleg. A Wyvern Színház után a hideg levegőn sétálunk a Queen's Parkban. A zárás egy buszút a Coate Waterhez, ahol a tónál fejezzük be a téli napot.",
+            "ro": "Plecăm cu autobuzul încălzit spre muzeul STEAM. Călătoria spre Railway Village și galeria de artă este scurtă și călduroasă. După o vizită la Teatrul Wyvern, ne plimbăm prin Queen's Park în aerul rece. Finalul este o călătorie cu autobuzul la Coate Water, unde încheiem ziua de iarnă lângă lac.",
+            "en": "In a heated bus, we head to the STEAM Museum. The journey to the Railway Village and the art gallery is short and warm. After a visit to the Wyvern Theatre, we walk through Queen's Park in the cold air. The finale is a bus ride to Coate Water, ending our winter day by the lake."
+          },
+          "stops": [
+            {
+              "name": "STEAM - Museum of the Great Western Railway",
+              "tip_4lang": {
+                "de": "Die Busse sind im Winter gut beheizt.",
+                "hu": "A buszok télen jól fűtöttek.",
+                "ro": "Autobuzele sunt bine încălzite iarna.",
+                "en": "Buses are well-heated during the winter months."
+              }
+            },
+            {
+              "name": "Railway Village",
+              "tip_4lang": {
+                "de": "Ein kurzer, aber frischer Spaziergang zwischen den Haltestellen.",
+                "hu": "Rövid, de frissítő séta a megállók között.",
+                "ro": "O plimbare scurtă, dar revigorantă între stații.",
+                "en": "A short but brisk walk between bus stops."
+              }
+            },
+            {
+              "name": "Swindon Museum & Art Gallery",
+              "tip_4lang": {
+                "de": "Der Bus bringt Sie fast bis vor die Tür der Galerie.",
+                "hu": "A busz szinte a galéria ajtajáig viszi.",
+                "ro": "Autobuzul vă aduce aproape până la ușa galeriei.",
+                "en": "The bus takes you almost to the gallery's front door."
+              }
+            },
+            {
+              "name": "Wyvern Theatre",
+              "tip_4lang": {
+                "de": "Ideal, um sich zwischen den Besichtigungen kurz aufzuwärmen.",
+                "hu": "Ideális egy rövid melegedéshez a látnivalók között.",
+                "ro": "Ideal pentru a vă încălzi puțin între vizite.",
+                "en": "Ideal for a quick warm-up between sightseeing stops."
+              }
+            },
+            {
+              "name": "Queen's Park",
+              "tip_4lang": {
+                "de": "Besuchen Sie den Park vor 16:00 Uhr, bevor es zu dunkel wird.",
+                "hu": "Látogassa meg a parkot délután 4 előtt, mielőtt túl sötét lesz.",
+                "ro": "Vizitați parcul înainte de ora 16:00, înainte de a se întuneca.",
+                "en": "Visit the park before 4:00 PM before it gets too dark."
+              }
+            },
+            {
+              "name": "Coate Water Country Park",
+              "tip_4lang": {
+                "de": "Achten Sie auf die letzte Busverbindung zurück ins Zentrum.",
+                "hu": "Ügyeljen az utolsó buszcsatlakozásra a központ felé.",
+                "ro": "Atenție la ultima conexiune de autobuz înapoi spre centru.",
+                "en": "Check the time for the last bus connection back to the centre."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warten Sie in Geschäften, falls der Bus Verspätung hat.",
+              "Ab 16:00 Uhr wird es im Bus merklich voller.",
+              "Nutzen Sie kontaktloses Bezahlen für Schnelligkeit.",
+              "Tragen Sie warme Socken für die Wartezeiten an Haltestellen."
+            ],
+            "hu": [
+              "Várjon az üzletekben, ha késik a busz.",
+              "Délután 4 után a buszok észrevehetően zsúfoltabbak.",
+              "Használjon érintéses fizetést a gyorsaságért.",
+              "Viseljen meleg zoknit a megállóban való várakozáshoz."
+            ],
+            "ro": [
+              "Așteptați în magazine dacă autobuzul întârzie.",
+              "După ora 16:00, autobuzele devin vizibil mai aglomerate.",
+              "Folosiți plata contactless pentru rapiditate.",
+              "Purtați șosete groase pentru timpul de așteptare în stații."
+            ],
+            "en": [
+              "Wait inside shops if the bus is delayed.",
+              "Buses get noticeably busier after 4:00 PM.",
+              "Use contactless payment for speed.",
+              "Wear warm socks for the waiting time at stops."
+            ]
+          }
+        }
       }
     }
   }

@@ -358,6 +358,192 @@
           "Allow enough time for the climb to Perfuchs Tower, it's worth it!",
           "Most sights in the center are easily reachable on foot."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Regentag an der Gerberbrücke, wo der Inn unter grauem Himmel kraftvoll fließt. Mittags bietet die Stadtpfarrkirche einen trockenen Rückzugsort, bevor Sie die längere Zeit im Schloss Landeck verbringen, dessen Museum perfekt für schlechtes Wetter ist. Nach einem gemütlichen Mittagessen im Zentrum spazieren Sie zum Perfuchsberg. Der Abend klingt mit dem Rauschen des Inns aus, während die Lichter der Stadt im nassen Asphalt reflektieren.",
+            "hu": "Kezdje az esős napot a Gerber-hídnál, ahol az Inn vize szürkén kavarog. Délelőtt a plébániatemplom nyújt menedéket, majd a délutánt töltse a Landeck-vár falai között, amelynek múzeuma ideális esőben. Egy kiadós belvárosi ebéd után látogasson el a Perfuchs-toronyhoz, ahol a ködös panoráma különleges hangulatot áraszt. Az este az Inn menti sétányon ér véget, miközben a város fényei megcsillannak a vizes aszfalton.",
+            "ro": "Începeți ziua ploioasă la podul Gerberbrücke, unde râul Inn curge cu forță sub cerul gri. Dimineața, biserica parohială oferă un refugiu uscat, înainte de a petrece mai mult timp în Castelul Landeck, al cărui muzeu este perfect pentru vreme rea. După un prânz cald în centru, urcați spre turnul Perfuchs. Seara se încheie cu sunetul ploii pe malul râului Inn, în timp ce luminile orașului se reflectă în trotuarele umede.",
+            "en": "Start your rainy day at Gerberbrücke Bridge, watching the Inn river surge under grey skies. Spend the late morning in the dry sanctuary of the Parish Church before heading to Landeck Castle; its extensive museum is the perfect rainy-day refuge. After a cozy lunch in the center, visit the Perfuchs Tower for a misty view. End your day with a walk along the Inn, where the city lights glisten on the wet pavement as the rain settles."
+          },
+          "stops": [
+            {
+              "name": "Start: Gerberbrücke Bridge",
+              "tip_5lang": {
+                "de": "Vorsicht, die Metallplanken der Brücke können bei Nässe rutschig sein.",
+                "hu": "Vigyázat, a híd fémlemezei esőben csúszósak lehetnek.",
+                "ro": "Atenție, plăcile metalice ale podului pot fi alunecoase pe ploaie.",
+                "en": "Careful, the bridge's metal elements can be slippery when wet."
+              }
+            },
+            {
+              "name": "Parish Church of the Assumption of Mary",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um den stärksten Regen trocken abzuwarten.",
+                "hu": "Ideális hely, hogy szárazon megvárja a nagyobb zápor végét.",
+                "ro": "Un loc ideal pentru a aștepta trecerea celei mai dense ploi.",
+                "en": "An ideal place to wait out the heaviest rain in silence."
+              }
+            },
+            {
+              "name": "Landeck Castle & Museum",
+              "tip_5lang": {
+                "de": "Das Museum bietet stundenlangen Schutz und spannende Geschichte.",
+                "hu": "A múzeum órákig tartó védelmet és izgalmas történelmet kínál.",
+                "ro": "Muzeul oferă protecție pentru câteva ore și o istorie fascinantă.",
+                "en": "The museum offers hours of shelter and engaging local history."
+              }
+            },
+            {
+              "name": "Lunch in the center",
+              "requested_coords": [
+                10.566,
+                47.137
+              ],
+              "tip_5lang": {
+                "de": "Wählen Sie ein Gasthaus mit Garderobe für Ihre nassen Jacken.",
+                "hu": "Válasszon olyan éttermet, ahol van hely a vizes kabátoknak.",
+                "ro": "Alegeți un restaurant cu spațiu pentru hainele ude.",
+                "en": "Choose a restaurant with a cloakroom for your wet jackets."
+              }
+            },
+            {
+              "name": "Perfuchs Tower and Burschl Church",
+              "tip_5lang": {
+                "de": "Der Aufstieg ist asphaltiert, aber Schirme sind bei Wind schwierig.",
+                "hu": "Az út aszfaltozott, de szeles időben az esernyő nehézkes lehet.",
+                "ro": "Urcarea este asfaltată, dar umbrelele pot fi greu de ținut pe vânt.",
+                "en": "The path is paved, but umbrellas can be tricky in the wind."
+              }
+            },
+            {
+              "name": "Stroll along the River Inn",
+              "tip_5lang": {
+                "de": "Die Bäume am Ufer bieten nur bedingt Schutz vor Regen.",
+                "hu": "A folyóparti fák csak korlátozott védelmet nyújtanak az eső ellen.",
+                "ro": "Copacii de pe mal oferă doar protecție parțială împotriva ploii.",
+                "en": "Riverside trees provide only limited protection from the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Passage im Stadtzentrum als Regenschutz.",
+              "Schloss Landeck ist das beste Schlechtwetterziel der Region.",
+              "Tragen Sie wasserfeste Schuhe für die Wege am Flussufer.",
+              "Ein Besuch im Museum lässt sich gut mit dem Regenradar planen."
+            ],
+            "hu": [
+              "Használja a városközpont árkádjait eső elleni védelemként.",
+              "A Landeck-vár a környék legjobb rosszidős úti célja.",
+              "Viseljen vízálló cipőt a folyóparti sétákhoz.",
+              "A múzeumlátogatást érdemes az esőradarhoz igazítani."
+            ],
+            "ro": [
+              "Folosiți pasajele din centrul orașului pentru a vă proteja de ploaie.",
+              "Castelul Landeck este cea mai bună destinație pentru vreme rea.",
+              "Purtați încălțăminte impermeabilă pentru plimbările pe malul râului.",
+              "Planificați vizita la muzeu în funcție de prognoza meteo."
+            ],
+            "en": [
+              "Use the passages in the city center as rain cover.",
+              "Landeck Castle is the region's top indoor attraction.",
+              "Wear waterproof shoes for the riverside sections.",
+              "Time your museum visit based on the local rain radar."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie Landeck als Wintermärchen. Am Morgen glitzert der Frost auf der Gerberbrücke, bevor die warme Stille der Pfarrkirche Sie empfängt. Das Schloss Landeck thront schneebedeckt über der Stadt und bietet im Inneren wohlige Wärme und Kultur. Nach einem stärkenden Mittagessen führt der Weg zum Perfuchsberg, wo Sie den frühen Sonnenuntergang über den verschneiten Gipfeln genießen. Der Tag endet mit einem Spaziergang am Inn, dessen Wasser zwischen verschneiten Steinen fließt.",
+            "hu": "Tapasztalja meg Landeck téli varázsát. Reggel a zúzmara csillog a Gerber-hídon, majd a plébániatemplom meleg csendje fogadja. A hófedte Landeck-vár büszkén magasodik a város fölé, belső terei pedig kellemes meleget árasztanak. Egy forró ebéd után az út a Perfuchs-hegyre vezet, ahol a korai naplementét csodálhatja meg a havas csúcsok felett. A nap az Inn partján zárul, ahol a folyó vize havas sziklák között kanyarog.",
+            "ro": "Experimentați Landeck ca într-un basm de iarnă. Dimineața, chiciura sclipește pe podul Gerberbrücke, înainte ca liniștea caldă a bisericii să vă primească. Castelul Landeck tronează acoperit de zăpadă deasupra orașului, oferind căldură și cultură. După un prânz consistent, drumul duce spre Perfuchs, unde vă bucurați de apusul timpuriu peste vârfurile înzăpezite. Ziua se încheie cu o plimbare pe malul râului Inn, printre pietre acoperite de zăpadă.",
+            "en": "Experience Landeck as a winter wonderland. In the morning, frost glistens on the Gerberbrücke before the warm silence of the Parish Church welcomes you. Landeck Castle stands snow-capped above the town, offering cozy warmth and culture within. After a hearty winter lunch, head up to Perfuchs to catch the early sunset over the snowy peaks. Your day ends with a brisk walk along the Inn, watching the dark water flow between icy riverbanks."
+          },
+          "stops": [
+            {
+              "name": "Start: Gerberbrücke Bridge",
+              "tip_5lang": {
+                "de": "Achtung bei Eisglätte auf den Gehwegen zur Brücke.",
+                "hu": "Figyelem, a hídhoz vezető gyalogutak jegesek lehetnek.",
+                "ro": "Atenție la porțiunile de gheață de pe trotuarele spre pod.",
+                "en": "Watch out for icy patches on the walkways to the bridge."
+              }
+            },
+            {
+              "name": "Parish Church of the Assumption of Mary",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe und die angenehme Temperatur im Inneren.",
+                "hu": "Élvezze a csendet és a kellemes belső hőmérsékletet.",
+                "ro": "Bucurați-vă de liniștea și temperatura plăcută din interior.",
+                "en": "Enjoy the peaceful atmosphere and the warmer indoor air."
+              }
+            },
+            {
+              "name": "Landeck Castle & Museum",
+              "tip_5lang": {
+                "de": "Der Schlosshof ist oft malerisch verschneit, Vorsicht beim Gehen.",
+                "hu": "A várudvar festőien havas, óvatosan közlekedjen a köveken.",
+                "ro": "Curtea castelului este pitorească sub zăpadă, mergeți cu grijă.",
+                "en": "The castle courtyard is often snow-covered; walk carefully."
+              }
+            },
+            {
+              "name": "Lunch in the center",
+              "tip_5lang": {
+                "de": "Probieren Sie Tiroler Gröstl, um sich für den Nachmittag aufzuwärmen.",
+                "hu": "Kóstolja meg a tiroli Gröstl-t, hogy bemelegedjen délutánra.",
+                "ro": "Încercați un Tiroler Gröstl pentru a vă încălzi pentru după-amiază.",
+                "en": "Try a Tyrolean Gröstl to warm up for the afternoon."
+              }
+            },
+            {
+              "name": "Perfuchs Tower and Burschl Church",
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang ist im Winter bereits gegen 16:30 Uhr.",
+                "hu": "Télen a naplemente már 16:30 körül bekövetkezik.",
+                "ro": "Apusul soarelui are loc deja în jurul orei 16:30 iarna.",
+                "en": "Sunset occurs as early as 16:30 during the winter months."
+              }
+            },
+            {
+              "name": "Stroll along the River Inn",
+              "tip_5lang": {
+                "de": "Die kalte Brise vom Fluss macht warme Kleidung unverzichtbar.",
+                "hu": "A folyó felől fújó hideg szél miatt a meleg ruha elengedhetetlen.",
+                "ro": "Briza rece de la râu face hainele groase indispensabile.",
+                "en": "The cold river breeze makes warm layers absolutely essential."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne verschwindet früh hinter den Bergen.",
+              "Tragen Sie Schuhe mit gutem Profil für verschneite Wege.",
+              "Viele Cafés bieten im Winter hausgemachten Punsch an.",
+              "Schloss Landeck ist auch im Winter beheizt und gemütlich."
+            ],
+            "hu": [
+              "A nap korán eltűnik a magas hegyek mögött.",
+              "Viseljen bordázott talpú cipőt a havas utakra.",
+              "Sok kávézó kínál házi puncsot a téli szezonban.",
+              "A Landeck-vár télen is fűtött és barátságos."
+            ],
+            "ro": [
+              "Soarele dispare devreme în spatele munților înalți.",
+              "Purtați încălțăminte cu talpă aderentă pentru drumuri înzăpezite.",
+              "Multe cafenele oferă punch de casă în timpul iernii.",
+              "Castelul Landeck este încălzit și primitor chiar și iarna."
+            ],
+            "en": [
+              "The sun sets early behind the steep mountains.",
+              "Wear boots with good grip for potentially snowy paths.",
+              "Many local cafes serve homemade punch in winter.",
+              "Landeck Castle remains heated and cozy throughout winter."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -686,6 +872,170 @@
           "A helmet is strongly recommended.",
           "Take enough water with you, especially for the longer loop in the afternoon."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Inntal hat auch bei Regen ihren Reiz. Starten Sie an der Venetbahn und radeln Sie am Fluss entlang zur Gerberbrücke, wo der Asphalt meist gut befahrbar bleibt. Das Schloss Landeck bietet eine ausgiebige Pause im Trockenen. Nach dem Mittagessen erkunden Sie die Uferwege, wobei Sie auf Pfützen und rutschiges Laub achten sollten. Der Tag endet sportlich und erfrischt, trotz des Tiroler 'Schnürlregens'.",
+            "hu": "Az Inn-völgyi kerékpározás esőben is élvezetes lehet. Induljon a Venetbahntól, és tekerjen a folyó mentén a Gerber-hídhoz, ahol az aszfalt jól járható marad. A Landeck-vár bőséges száraz pihenőt kínál. Ebéd után fedezze fel a parti utakat, ügyelve a tócsákra és a csúszós levelekre. A nap sportosan és felfrissülve zárul, a tiroli eső ellenére is.",
+            "ro": "O tură cu bicicleta în valea râului Inn are farmecul ei chiar și pe ploaie. Porniți de la Venetbahn și pedalați pe malul râului spre Gerberbrücke. Castelul Landeck oferă o pauză prelungită la adăpost. După prânz, explorați potecile de pe mal, având grijă la bălți și frunze alunecoase. Ziua se încheie într-un mod sportiv și revigorant, în ciuda ploii tiroleze.",
+            "en": "Cycling through the Inn Valley has its own charm even in the rain. Start at Venetbahn and ride along the river to Gerberbrücke, where the paved path remains reliable. Landeck Castle provides an extensive dry break for exploration. After lunch, discover the riverside trails, keeping an eye out for puddles and slippery leaves. End your day feeling refreshed and active despite the Tyrolean drizzle."
+          },
+          "stops": [
+            {
+              "name": "Start: Venetbahn Valley Station",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen, bevor Sie auf nassem Grund starten.",
+                "hu": "Ellenőrizze a fékeket, mielőtt elindul a vizes talajon.",
+                "ro": "Verificați frânele înainte de a porni pe teren umed.",
+                "en": "Test your brakes thoroughly before starting on wet ground."
+              }
+            },
+            {
+              "name": "Ride along the Inn to Gerberbrücke Bridge",
+              "tip_5lang": {
+                "de": "Schutzbleche sind heute Ihr bester Freund gegen Spritzwasser.",
+                "hu": "A sárvédő ma a legjobb barátja a felverődő víz ellen.",
+                "ro": "Aripile bicicletei sunt esențiale împotriva stropilor de apă.",
+                "en": "Mudguards are your best friend today against road spray."
+              }
+            },
+            {
+              "name": "Landeck Castle & Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Bereich am Eingang für Ihr Fahrrad.",
+                "hu": "Használja a bejáratnál lévő fedett részt a kerékpárnak.",
+                "ro": "Folosiți zona acoperită de la intrare pentru bicicletă.",
+                "en": "Use the covered area near the entrance to park your bike."
+              }
+            },
+            {
+              "name": "Lunch and Old Town",
+              "tip_5lang": {
+                "de": "Parken Sie in Sichtweite, falls Sie Taschen am Rad haben.",
+                "hu": "Parkoljon látótávolságban, ha táskák vannak a biciklin.",
+                "ro": "Parcați la vedere dacă aveți genți pe bicicletă.",
+                "en": "Park within sight if you have panniers on your bike."
+              }
+            },
+            {
+              "name": "Return trip on the other side of the Inn",
+              "tip_5lang": {
+                "de": "Die Wege können teilweise Schlamm von den Hängen führen.",
+                "hu": "Az utakon helyenként sár lehet a hegyoldalakról.",
+                "ro": "Potecile pot avea noroi scurs de pe versanți în unele locuri.",
+                "en": "Paths may carry some mud from the slopes in certain sections."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie abrupte Bremsmanöver auf Markierungen.",
+              "Eine wasserdichte Regenhose schützt vor dem Fahrtwind.",
+              "Der Inn-Radweg ist gut ausgebaut und führt wenig Steigung.",
+              "Beleuchtung ist bei grauem Wetter für die Sichtbarkeit wichtig."
+            ],
+            "hu": [
+              "Kerülje a hirtelen fékezést az útburkolati jeleken.",
+              "A vízálló esőnadrág véd a menetszéltől és a víztől.",
+              "Az Inn-kerékpárút jól kiépített és kevés szintkülönbséget tartalmaz.",
+              "Szürke időben a világítás fontos a láthatóság miatt."
+            ],
+            "ro": [
+              "Evitați frânarea bruscă pe marcajele rutiere.",
+              "Pantalonii impermeabili vă protejează de vântul rece și ploaie.",
+              "Pista de biciclete Inn este bine amenajată și are pante line.",
+              "Luminile sunt importante pentru vizibilitate pe vreme gri."
+            ],
+            "en": [
+              "Avoid sudden braking on painted road markings.",
+              "Waterproof trousers will protect you from wind and spray.",
+              "The Inn cycle path is well-maintained and mostly flat.",
+              "Keep your lights on for better visibility in overcast weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radeln erfordert Vorbereitung, belohnt aber mit glasklarer Luft. Von der Venetbahn geht es entlang des frostigen Inns zur Gerberbrücke. Die Steigung zum Schloss Landeck wärmt auf, bevor Sie die historischen Räume besichtigen. Mittags genießen Sie die Tiroler Küche im Tal, bevor die Rückfahrt auf der sonnigen Seite des Flusses angetreten wird. Achten Sie auf den frühen Schattenwurf der Berge und die sinkenden Temperaturen am späten Nachmittag.",
+            "hu": "A téli kerékpározás felkészülést igényel, de kristálytiszta levegővel jutalmaz. A Venetbahntól a fagyos Inn mentén haladjon a Gerber-híd felé. A Landeck-várba vezető emelkedő segít bemelegedni a múzeumlátogatás előtt. Ebédeljen a völgyben, majd induljon vissza a folyó naposabb oldalán. Ügyeljen a hegyek korai árnyékára és a késő délután gyorsan csökkenő hőmérsékletre.",
+            "ro": "Ciclismul de iarnă necesită pregătire, dar oferă un aer extrem de curat. De la Venetbahn, mergeți de-a lungul râului înghețat spre Gerberbrücke. Urcarea spre Castelul Landeck vă va încălzi înainte de vizită. Prânzul în vale este urmat de drumul de întoarcere pe partea însorită a râului. Atenție la umbrele lăsate devreme de munți și la scăderea temperaturii.",
+            "en": "Winter cycling requires preparation but rewards you with crisp, clear air. Ride from Venetbahn along the frosty Inn towards Gerberbrücke. The short climb to Landeck Castle will warm you up before your indoor visit. After lunch in the valley, take the return trip on the sunnier side of the river. Be mindful of the long shadows cast by the mountains and the rapid drop in temperature during the late afternoon."
+          },
+          "stops": [
+            {
+              "name": "Start: Venetbahn Valley Station",
+              "tip_5lang": {
+                "de": "Kalte Luft macht das Atmen bei Anstrengung schwerer.",
+                "hu": "A hideg levegő nehezíti a légzést intenzív tekeréskor.",
+                "ro": "Aerul rece face respirația mai dificilă în timpul efortului.",
+                "en": "Cold air can make breathing harder during physical exertion."
+              }
+            },
+            {
+              "name": "Ride along the Inn to Gerberbrücke Bridge",
+              "tip_5lang": {
+                "de": "Brücken frieren schneller ein als die restlichen Wege.",
+                "hu": "A hidak gyorsabban lefagynak, mint az út többi része.",
+                "ro": "Podurile îngheață mai repede decât restul drumului.",
+                "en": "Bridges tend to freeze faster than the rest of the path."
+              }
+            },
+            {
+              "name": "Landeck Castle & Museum",
+              "tip_5lang": {
+                "de": "Warme Handschuhe sind für die Abfahrt vom Schloss wichtig.",
+                "hu": "A várból való lefelé menetnél fontos a meleg kesztyű.",
+                "ro": "Mănușile groase sunt esențiale pentru coborârea de la castel.",
+                "en": "Warm gloves are essential for the descent from the castle."
+              }
+            },
+            {
+              "name": "Lunch and Old Town",
+              "tip_5lang": {
+                "de": "Ein heißer Tee hilft, die Körpertemperatur zu halten.",
+                "hu": "Egy forró tea segít fenntartani a testhőmérsékletet.",
+                "ro": "Un ceai fierbinte ajută la menținerea temperaturii corpului.",
+                "en": "A hot tea helps maintain your core body temperature."
+              }
+            },
+            {
+              "name": "Return trip on the other side of the Inn",
+              "tip_5lang": {
+                "de": "Suchen Sie die letzten Sonnenstrahlen vor dem Abend.",
+                "hu": "Keresse az utolsó napsugarakat az este beállta előtt.",
+                "ro": "Căutați ultimele raze de soare înainte de lăsarea serii.",
+                "en": "Seek out the last rays of sun before the evening chill sets in."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Reifendruck für bessere Haftung bei Kälte.",
+              "Tragen Sie mehrere Schichten (Zwiebelprinzip).",
+              "Achten Sie auf Streusalz, das die Kette angreifen kann.",
+              "Planen Sie die Tour so, dass Sie vor 16:00 Uhr zurück sind."
+            ],
+            "hu": [
+              "Ellenőrizze a guminyomást a jobb tapadás érdekében.",
+              "Öltözzön rétegesen (hagyma-elv).",
+              "Ügyeljen az útszóró sóra, amely károsíthatja a láncot.",
+              "Tervezze úgy a túrát, hogy 16:00 előtt visszaérjen."
+            ],
+            "ro": [
+              "Verificați presiunea roților pentru o aderență mai bună.",
+              "Purtați mai multe straturi de haine.",
+              "Atenție la sarea de pe drum, care poate afecta lanțul.",
+              "Planificați tura astfel încât să vă întoarceți înainte de ora 16:00."
+            ],
+            "en": [
+              "Check tire pressure for better grip on cold surfaces.",
+              "Wear multiple layers to trap heat effectively.",
+              "Watch out for road salt, which can corrode your bike chain.",
+              "Aim to finish your ride by 16:00 to avoid the dusk freeze."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1038,6 +1388,188 @@
           "Pay attention to the signs for parking zones to avoid fines.",
           "Plan your route between clusters in advance to save time."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Landeck lässt sich bei Regen bequem per Auto erkunden. Parken Sie im Zentrum und besuchen Sie die Sehenswürdigkeiten zu Fuß unter dem Schirm. Das Schloss Landeck bietet kostenlose Parkplätze direkt am Eingang, was den Besuch besonders komfortabel macht. Nach dem Mittagessen fahren Sie zur Venetbahn und genießen den Blick auf die verregneten Gipfel. Die Tour endet am Burschl, wo Sie trotz Regen eine tolle Aussicht aus dem trockenen Auto genießen können.",
+            "hu": "Landeck esőben is kényelmesen felfedezhető autóval. Parkoljon a központban, és esernyővel látogassa meg a látnivalókat. A Landeck-várnál közvetlenül a bejárat előtt van parkoló, ami nagyon kényelmessé teszi a látogatást. Ebéd után vezessen a Venetbahnhoz, és csodálja meg az esőfelhőkbe burkolózó csúcsokat. A túra a Burschl-nál zárul, ahol a száraz autóból is élvezheti a panorámát.",
+            "ro": "Landeck poate fi explorat confortabil cu mașina chiar și pe ploaie. Parcați în centru și vizitați obiectivele sub umbrelă. Castelul Landeck oferă locuri de parcare chiar la intrare, facilitând vizita. După prânz, conduceți spre Venetbahn pentru a vedea vârfurile înnorate. Turul se încheie la Burschl, unde vă puteți bucura de priveliște din confortul mașinii uscate.",
+            "en": "Landeck is easily explored by car during rainy spells. Park in the center and use an umbrella for short walks between the main sights. Landeck Castle has parking directly at the entrance, making it a very convenient rainy-day stop. After lunch, drive to the Venetbahn station to see the misty peaks. End your tour at the Burschl area, where you can enjoy the view from the dry comfort of your vehicle."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Parking in the Center",
+              "tip_5lang": {
+                "de": "Das Parkhaus 'Zentrum' hält Ihr Auto trocken.",
+                "hu": "A 'Zentrum' parkolóház szárazon tartja az autóját.",
+                "ro": "Parcarea supraetajată 'Zentrum' vă menține mașina uscată.",
+                "en": "The 'Zentrum' parking garage keeps your car dry."
+              }
+            },
+            {
+              "name": "Parish Church & Gerberbrücke",
+              "tip_5lang": {
+                "de": "Kurze Wege minimieren die Zeit im Regen.",
+                "hu": "A rövid távolságok minimalizálják az esőben töltött időt.",
+                "ro": "Distanțele scurte minimizează timpul petrecut în ploaie.",
+                "en": "Short walking distances minimize your time in the rain."
+              }
+            },
+            {
+              "name": "Landeck Castle",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz direkt vor dem Schlosstor.",
+                "hu": "Használja közvetlenül a várkapu előtti parkolót.",
+                "ro": "Folosiți parcarea situată chiar în fața porții castelului.",
+                "en": "Use the parking lot located right in front of the castle gate."
+              }
+            },
+            {
+              "name": "Lunch in the Old Town",
+              "tip_5lang": {
+                "de": "In der Nähe der Kirche gibt es mehrere Parkmöglichkeiten.",
+                "hu": "A templom közelében több parkolási lehetőség is van.",
+                "ro": "Există mai multe opțiuni de parcare în apropierea bisericii.",
+                "en": "There are several parking options near the church."
+              }
+            },
+            {
+              "name": "Cluster B: Drive to Venetbahn",
+              "tip_5lang": {
+                "de": "Die Sicht kann bei starkem Regen eingeschränkt sein.",
+                "hu": "Erős esőben a látási viszonyok korlátozottak lehetnek.",
+                "ro": "Vizibilitatea poate fi limitată în timpul ploilor torențiale.",
+                "en": "Visibility may be reduced during periods of heavy rain."
+              }
+            },
+            {
+              "name": "Burschl Church & View",
+              "tip_5lang": {
+                "de": "Vom Parkplatz aus hat man einen guten Blick ins Tal.",
+                "hu": "A parkolóból jó kilátás nyílik a völgyre.",
+                "ro": "Din parcare se deschide o vedere frumoasă asupra văii.",
+                "en": "The parking area offers a great vantage point over the valley."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Pfützen in den engen Gassen der Altstadt.",
+              "Nutzen Sie die Park-Apps für kontaktlose Bezahlung.",
+              "Halten Sie einen Schirm für den Weg vom Parkplatz bereit.",
+              "Die Straßen im Zentrum können bei Nässe rutschig sein."
+            ],
+            "hu": [
+              "Ügyeljen a tócsákra az óváros szűk utcáiban.",
+              "Használjon parkolási applikációt a gyors fizetéshez.",
+              "Tartson kéznél esernyőt a parkolótól a bejáratig.",
+              "A központi utcák vizesen csúszósak lehetnek."
+            ],
+            "ro": [
+              "Atenție la bălțile din străzile înguste ale centrului vechi.",
+              "Folosiți aplicațiile de parcare pentru plată rapidă.",
+              "Aveți o umbrelă pregătită pentru drumul de la parcare.",
+              "Străzile din centru pot fi alunecoase când sunt ude."
+            ],
+            "en": [
+              "Watch out for deep puddles in the narrow Old Town streets.",
+              "Use parking apps for quick and contactless payment.",
+              "Keep an umbrella handy for the walk from the car.",
+              "Central streets can be surprisingly slick when wet."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Entdecken Sie das winterliche Landeck ganz entspannt mit dem Auto. Morgens parken Sie im Zentrum und genießen die klare Alpenluft bei einem kurzen Spaziergang. Das Schloss Landeck ist über die geräumte Straße gut erreichbar und bietet eine herrliche Aussicht auf die verschneite Stadt. Nach dem Mittagessen fahren Sie zur Venetbahn und weiter zum Burschl, wo die tiefstehende Wintersonne die Berge in goldenes Licht taucht. Beenden Sie die Tour, bevor Frost die Straßen glatt macht.",
+            "hu": "Fedezze fel a téli Landeckot pihentető módon, autóval. Reggel parkoljon a központban, és élvezze a tiszta alpesi levegőt egy rövid séta során. A Landeck-vár jól takarított úton érhető el, és csodás kilátást nyújt a havas városra. Ebéd után vezessen a Venetbahnhoz, majd a Burschl-hoz, ahol az alacsonyan járó téli nap arany fénybe vonja a hegyeket. Fejezze be a túrát, mielőtt a fagy csúszóssá tenné az utakat.",
+            "ro": "Descoperiți Landeck-ul de iarnă într-un mod relaxant, cu mașina. Dimineața, parcați în centru și bucurați-vă de aerul alpin curat. Castelul Landeck este ușor accesibil pe drumul deszăpezit și oferă o vedere superbă. După prânz, conduceți spre Venetbahn și apoi spre Burschl, unde soarele de iarnă scaldă munții în lumină aurie. Încheiați turul înainte ca înghețul să facă drumurile alunecoase.",
+            "en": "Discover winter in Landeck with the comfort of your car. Park in the center during the morning and enjoy the crisp mountain air on a short walk. Landeck Castle is easily accessible via cleared roads and offers stunning views of the snowy rooftops. After lunch, drive to the Venetbahn and on to the Burschl area, where the low winter sun paints the peaks in golden hues. Finish your tour before the evening frost sets in on the roads."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Parking in the Center",
+              "tip_5lang": {
+                "de": "Parkhäuser sind im Winter eisfrei und angenehmer.",
+                "hu": "A parkolóházak télen jégmentesek és kellemesebbek.",
+                "ro": "Parcările acoperite sunt fără gheață și mai plăcute iarna.",
+                "en": "Indoor parking garages are ice-free and more comfortable."
+              }
+            },
+            {
+              "name": "Parish Church & Gerberbrücke",
+              "tip_5lang": {
+                "de": "Achten Sie auf Eisplatten in schattigen Gassen.",
+                "hu": "Ügyeljen a jégfoltokra az árnyékos utcákban.",
+                "ro": "Atenție la petele de gheață din străzile umbrite.",
+                "en": "Watch out for patches of ice in the shaded alleyways."
+              }
+            },
+            {
+              "name": "Landeck Castle",
+              "tip_5lang": {
+                "de": "Die Auffahrt zum Schloss wird regelmäßig geräumt.",
+                "hu": "A várhoz vezető utat rendszeresen takarítják.",
+                "ro": "Drumul spre castel este curățat de zăpadă în mod regulat.",
+                "en": "The access road to the castle is regularly cleared of snow."
+              }
+            },
+            {
+              "name": "Lunch in the Old Town",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit zum Aufwärmen bei einem Heißgetränk.",
+                "hu": "Használja ki az időt a bemelegedésre egy forró itallal.",
+                "ro": "Folosiți timpul pentru a vă încălzi cu o băutură fierbinte.",
+                "en": "Take time to warm up with a hot drink during lunch."
+              }
+            },
+            {
+              "name": "Cluster B: Drive to Venetbahn",
+              "tip_5lang": {
+                "de": "Winterreifen sind in Österreich gesetzlich vorgeschrieben.",
+                "hu": "Ausztriában törvényileg kötelező a téli gumi.",
+                "ro": "Anvelopele de iarnă sunt obligatorii prin lege în Austria.",
+                "en": "Winter tires are legally required in Austria during this season."
+              }
+            },
+            {
+              "name": "Burschl Church & View",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick, solange die Sonne noch scheint.",
+                "hu": "Élvezze a kilátást, amíg még süt a nap.",
+                "ro": "Bucurați-vă de priveliște cât timp soarele încă strălucește.",
+                "en": "Enjoy the panoramic view while the sun is still up."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Führen Sie immer Eiskratzer und Schneebesen mit.",
+              "Prüfen Sie den Frostschutz in der Scheibenwaschanlage.",
+              "Brücken können deutlich glatter sein als normale Straßen.",
+              "Parken Sie nicht unter Dächern mit großer Schneelast."
+            ],
+            "hu": [
+              "Mindig tartson az autóban jégkaparót és hókefét.",
+              "Ellenőrizze a fagyállót a szélvédőmosóban.",
+              "A hidak sokkal csúszósabbak lehetnek a normál utaknál.",
+              "Ne parkoljon nagy hóteherrel borított tetők alá."
+            ],
+            "ro": [
+              "Aveți întotdeauna în mașină o racletă și o perie de zăpadă.",
+              "Verificați lichidul de parbriz rezistent la îngheț.",
+              "Podurile pot fi mult mai alunecoase decât drumurile obișnuite.",
+              "Nu parcați sub acoperișuri cu încărcătură mare de zăpadă."
+            ],
+            "en": [
+              "Always keep an ice scraper and snow brush in your car.",
+              "Check that your windshield washer fluid is frost-proof.",
+              "Bridges can be significantly icier than standard roads.",
+              "Avoid parking directly under roofs with heavy snow loads."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1366,6 +1898,170 @@
           "A day ticket is often cheaper than several single tickets.",
           "Note that the last bus in the evening may leave earlier than expected."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Dank des gut ausgebauten Busnetzes bleibt man in Landeck auch bei Regen trocken. Vom Busterminal erreichen Sie schnell die Altstadt und das Schloss. Die Wartezeiten verbringen Sie in überdachten Haltestellen oder gemütlichen Cafés. Nach dem Mittagessen bringt Sie der Bus bequem nach Perfuchs, sodass Sie kaum Zeit im Freien verbringen müssen. Der Tag endet entspannt mit einer Busfahrt zurück zum Terminal, während die Regentropfen an den Fensterscheiben herablaufen.",
+            "hu": "A jól kiépített buszhálózatnak köszönhetően Landeckban esőben is száraz maradhat. A buszpályaudvartól gyorsan elérhető az óváros és a vár. A várakozási időt töltse fedett megállókban vagy hangulatos kávézókban. Ebéd után a busz kényelmesen elviszi Perfuchsba, így alig kell a szabadban tartózkodnia. A nap pihentető buszozással zárul vissza a terminálhoz, miközben az esőcseppek kopognak az ablakon.",
+            "ro": "Datorită rețelei de autobuz bine puse la punct, rămâneți uscat în Landeck chiar și pe ploaie. De la autogară ajungeți rapid în centrul vechi și la castel. Petreceți timpul de așteptare în stații acoperite sau cafenele. După prânz, autobuzul vă duce confortabil la Perfuchs, limitând timpul petrecut afară. Ziua se încheie relaxant cu drumul înapoi spre terminal, privind ploaia pe geam.",
+            "en": "Landeck's reliable bus network keeps you dry even during a downpour. From the bus terminal, you can quickly reach the Old Town and the castle area. Spend any waiting time in sheltered stops or cozy local cafes. After lunch, the bus takes you directly to Perfuchs, ensuring minimal exposure to the elements. Your day concludes with a peaceful ride back to the terminal as raindrops streak across the bus windows."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Landeck Bus Terminal",
+              "tip_5lang": {
+                "de": "Das Terminal bietet ausreichend Unterstellmöglichkeiten.",
+                "hu": "A pályaudvar bőséges fedett várakozóhelyet kínál.",
+                "ro": "Autogara oferă suficiente locuri acoperite pentru așteptare.",
+                "en": "The bus terminal provides plenty of sheltered waiting areas."
+              }
+            },
+            {
+              "name": "Cluster A: Old Town (Castle & Church)",
+              "tip_5lang": {
+                "de": "Die Busse fahren im dichten Takt Richtung Zentrum.",
+                "hu": "A buszok sűrűn járnak a városközpont irányába.",
+                "ro": "Autobuzele circulă frecvent spre centrul orașului.",
+                "en": "Buses run frequently towards the city center."
+              }
+            },
+            {
+              "name": "Lunch in the center",
+              "tip_5lang": {
+                "de": "Die Haltestellen liegen nah an den besten Restaurants.",
+                "hu": "A megállók közel vannak a legjobb éttermekhez.",
+                "ro": "Stațiile sunt situate aproape de cele mai bune restaurante.",
+                "en": "Bus stops are conveniently located near top restaurants."
+              }
+            },
+            {
+              "name": "Cluster B: Bus ride to Perfuchs",
+              "tip_5lang": {
+                "de": "Genießen Sie die trockene Fahrt den Berg hinauf.",
+                "hu": "Élvezze a száraz utazást felfelé a hegyre.",
+                "ro": "Bucurați-vă de drumul uscat în timp ce urcați muntele.",
+                "en": "Enjoy the dry ride as the bus climbs up the hill."
+              }
+            },
+            {
+              "name": "Perfuchs Tower & Burschl Church",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Rückfahrzeiten, um nicht im Regen zu warten.",
+                "hu": "Ellenőrizze a visszaindulást, hogy ne várjon az esőben.",
+                "ro": "Verificați orele de întoarcere pentru a nu aștepta în ploaie.",
+                "en": "Check the return schedule to avoid waiting in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie ein Tagesticket für maximale Flexibilität.",
+              "Die VVT-Smart-App zeigt Abfahrten in Echtzeit an.",
+              "Haben Sie Ihren Schirm beim Aussteigen griffbereit.",
+              "Die Busse sind gut beheizt und trocknen Ihre Kleidung."
+            ],
+            "hu": [
+              "Vásároljon napijegyet a maximális rugalmasságért.",
+              "A VVT-Smart app valós időben mutatja az indulásokat.",
+              "Kiszálláskor tartsa készenlétben az esernyőjét.",
+              "A buszok jól fűtöttek, így segítenek megszárítani a ruhát."
+            ],
+            "ro": [
+              "Cumpărați un bilet de o zi pentru flexibilitate maximă.",
+              "Aplicația VVT-Smart arată plecările în timp real.",
+              "Aveți umbrela pregătită când coborâți din autobuz.",
+              "Autobuzele sunt bine încălzite și vă ajută să vă uscați."
+            ],
+            "en": [
+              "Buy a day ticket for the best value and flexibility.",
+              "The VVT Smart app shows real-time bus departures.",
+              "Have your umbrella ready as you step off the bus.",
+              "Heated buses will help dry your damp clothes between stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Transit ist die stressfreieste Art, Landeck im Winter zu erleben. Sie vermeiden die Parkplatzsuche auf glatten Straßen und steigen direkt im Zentrum aus. Das Schloss Landeck ist mit einem kurzen Fußweg von der Haltestelle erreichbar. Nach einem wärmenden Mittagessen bringt Sie der Bus sicher nach Perfuchs, wo Sie den Winterblick genießen können. Die Rückfahrt im warmen Bus bietet einen gemütlichen Abschluss, während draußen die winterliche Dämmerung einsetzt.",
+            "hu": "A tömegközlekedés a legstresszmentesebb módja Landeck téli felfedezésének. Elkerülheti a parkolókeresést a csúszós utakon, és közvetlenül a központban szállhat ki. A Landeck-vár egy rövid sétával elérhető a megállótól. Egy melegítő ebéd után a busz biztonságosan elviszi Perfuchsba a téli panorámáért. A meleg buszon való visszautazás kellemes zárás, miközben odakint leszáll a téli szürkület.",
+            "ro": "Transportul public este cel mai relaxant mod de a vedea Landeck iarna. Evitați căutarea parcării pe drumuri alunecoase și coborâți direct în centru. Castelul Landeck este la o scurtă plimbare de stație. După un prânz cald, autobuzul vă duce în siguranță la Perfuchs pentru priveliștea de iarnă. Drumul de întoarcere în autobuzul cald este finalul perfect pentru o zi rece.",
+            "en": "Transit is the most stress-free way to experience Landeck in winter. Avoid hunting for parking on icy streets by hopping off directly in the center. Landeck Castle is just a short, scenic walk from the nearest stop. After a warming lunch, let the bus safely navigate the climb to Perfuchs for your winter views. The return trip in a heated bus offers a cozy conclusion as the winter twilight settles over the valley."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Landeck Bus Terminal",
+              "tip_5lang": {
+                "de": "Das Terminal ist im Winter oft ein Treffpunkt für Skifahrer.",
+                "hu": "A pályaudvar télen gyakran a síelők találkozóhelye.",
+                "ro": "Autogara este adesea un punct de întâlnire pentru schiori.",
+                "en": "The terminal is often a hub for skiers during the winter."
+              }
+            },
+            {
+              "name": "Cluster A: Old Town (Castle & Church)",
+              "tip_5lang": {
+                "de": "Die Wege von der Haltestelle sind meist gut geräumt.",
+                "hu": "A megállótól vezető utak általában jól takarítottak.",
+                "ro": "Drumurile de la stație sunt de obicei bine deszăpezite.",
+                "en": "Walkways from the bus stops are usually well-cleared."
+              }
+            },
+            {
+              "name": "Lunch in the center",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Wartezeit für einen schnellen Kaffee.",
+                "hu": "Használja ki a várakozási időt egy gyors kávéra.",
+                "ro": "Folosiți timpul de așteptare pentru o cafea rapidă.",
+                "en": "Use any waiting time for a quick, warming coffee."
+              }
+            },
+            {
+              "name": "Cluster B: Bus ride to Perfuchs",
+              "tip_5lang": {
+                "de": "Busse haben im Winter Vorrang und sind sicher unterwegs.",
+                "hu": "A buszoknak télen elsőbbségük van és biztonságosak.",
+                "ro": "Autobuzele au prioritate iarna și sunt sigure pe drum.",
+                "en": "Buses have priority in winter and are very safe on snow."
+              }
+            },
+            {
+              "name": "Perfuchs Tower & Burschl Church",
+              "tip_5lang": {
+                "de": "Beachten Sie den Winterfahrplan, manche Linien enden früher.",
+                "hu": "Ügyeljen a téli menetrendre, egyes járatok korábban leállnak.",
+                "ro": "Atenție la orarul de iarnă, unele linii se termină mai devreme.",
+                "en": "Check the winter schedule; some lines may finish earlier."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie warme Kleidung für das Warten an Haltestellen.",
+              "Die Busse sind verlässlich, auch bei Schneefall.",
+              "Nutzen Sie die App, um die exakten Abfahrten zu sehen.",
+              "Im Winter sind die Busse oft angenehm beheizt."
+            ],
+            "hu": [
+              "Viseljen meleg ruhát a megállókban való várakozáshoz.",
+              "A buszok hóesésben is megbízhatóan közlekednek.",
+              "Használja az alkalmazást a pontos indulások követéséhez.",
+              "Télen a buszok kellemesen fűtöttek."
+            ],
+            "ro": [
+              "Purtați haine groase pentru așteptarea în stații.",
+              "Autobuzele sunt de încredere chiar și când ninge.",
+              "Folosiți aplicația pentru a vedea plecările exacte.",
+              "Iarna, autobuzele sunt adesea încălzite plăcut."
+            ],
+            "en": [
+              "Wear warm layers for waiting at outdoor bus stops.",
+              "Buses remain reliable even during moderate snowfall.",
+              "Use the transit app to track live bus locations.",
+              "Buses are kept comfortably warm throughout the winter."
+            ]
+          }
+        }
       }
     }
   }

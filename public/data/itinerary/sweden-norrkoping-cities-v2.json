@@ -410,6 +410,232 @@
           "An afternoon 'fika' (coffee break with pastries) is an essential part of Swedish culture.",
           "Watch out for the yellow trams, a landmark of Norrköping."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag im Carl Johans Park, wo die großen Bäume Schutz bieten. Mittags erkunden Sie die Industrielandschaft und das Museum der Arbeit, ideal für trockene Stunden drinnen. Nachmittags bietet das Visualisierungscenter C ein immersives Erlebnis fernab des Regens. Den Abend verbringen Sie im Kunstmuseum, bevor Sie durch die beleuchteten, nassen Gassen zum Abendessen eilen.",
+            "hu": "Kezdje a napot a Carl Johans Parkban, ahol az évszázados fák némi fedezéket nyújtanak. Délben az ipari negyed és a Munkamúzeum (Strykjärnet) kínál száraz menedéket. Délután a Visualiseringscenter C kupolája alatt felejtheti el a kinti esőt. Az estét a Művészeti Múzeum modern falai között zárja, élvezve a vizes aszfalton megcsillanó városi fényeket.",
+            "ro": "Începeți ziua în parcul Carl Johans, profitând de adăpostul copacilor mari. La prânz, peisajul industrial și Muzeul Muncii sunt refugiile perfecte împotriva ploii. După-amiaza, Centrul de Vizualizare C vă transportă în lumi digitale, departe de vremea umedă. Seara se încheie la Muzeul de Artă, admirând reflexiile luminilor orașului pe trotuarele ude.",
+            "en": "Start your day in Carl Johans Park, using the mature trees as natural umbrellas. At midday, the Industrial Landscape and the Museum of Work provide excellent indoor exploration. In the afternoon, stay dry inside Visualization Center C’s high-tech dome. Finish your evening at the Art Museum, enjoying the atmospheric reflections of Norrköping's lights on the rain-slicked streets."
+          },
+          "stops": [
+            {
+              "name": "Carl Johans Park",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den großen Bäumen oder im nahen Bahnhof.",
+                "hu": "Használja a nagy fákat esernyőként, vagy húzódjon a közeli állomásra.",
+                "ro": "Căutați adăpost sub copacii mari sau în gara din apropiere.",
+                "en": "Seek shelter under large trees or in the nearby station building."
+              }
+            },
+            {
+              "name": "Motala Ström & Strömparken",
+              "tip_5lang": {
+                "de": "Vorsicht auf den rutschigen Holzwegen am Flussufer.",
+                "hu": "Vigyázat, a folyóparti fapallók esőben rendkívül csúszósak.",
+                "ro": "Atenție la podurile de lemn, pot fi alunecoase pe ploaie.",
+                "en": "Be careful on the wooden walkways; they get slippery when wet."
+              }
+            },
+            {
+              "name": "The Industrial Landscape (Industrilandskapet)",
+              "tip_5lang": {
+                "de": "Die Backsteinfassaden wirken bei Regen besonders dramatisch.",
+                "hu": "A vörös téglafalak színe esőben még mélyebb és látványosabb.",
+                "ro": "Fațadele de cărămidă arată spectaculos în lumina difuză a ploii.",
+                "en": "The brick architecture looks stunningly dramatic in the rain."
+              }
+            },
+            {
+              "name": "Museum of Work (Arbetets museum)",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe, um nasse Mäntel zu trocknen.",
+                "hu": "Használja a ruhatárat a vizes kabátok és ernyők tárolására.",
+                "ro": "Folosiți garderoba pentru a vă lăsa hainele ude la uscat.",
+                "en": "Use the cloakroom to store and dry your wet coats and umbrellas."
+              }
+            },
+            {
+              "name": "Visualization Center C (Visualiseringscenter C)",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um einen starken Regenschauer im Kino auszusitzen.",
+                "hu": "Ideális helyszín egy nagyobb zápor átvészelésére a kupolában.",
+                "ro": "Locul ideal pentru a aștepta trecerea unei averse în cinema.",
+                "en": "The perfect spot to wait out a heavy downpour in the dome cinema."
+              }
+            },
+            {
+              "name": "Norrköping City Museum (Norrköpings Stadsmuseum)",
+              "tip_5lang": {
+                "de": "Gemütliches Café im Innenbereich für eine Kaffeepause.",
+                "hu": "Kiváló benti kávézó várja egy meleg italra a kiállítás után.",
+                "ro": "O cafenea primitoare în interior vă așteaptă pentru o pauză.",
+                "en": "A cozy indoor cafe awaits for a warm coffee break after the tour."
+              }
+            },
+            {
+              "name": "St. Matthew's Church (Matteuskyrkan)",
+              "tip_5lang": {
+                "de": "Ein ruhiger, trockener Rückzugsort zur Besinnung.",
+                "hu": "Csendes, száraz menedék a városnézés közepén.",
+                "ro": "Un refugiu liniștit și uscat în mijlocul orașului.",
+                "en": "A quiet, dry retreat for a peaceful moment during your walk."
+              }
+            },
+            {
+              "name": "Norrköping Art Museum (Norrköpings Konstmuseum)",
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag trocken in den modernen Galerien.",
+                "hu": "Zárja a napot szárazon a modern művészeti galériákban.",
+                "ro": "Încheiați ziua într-un mediu uscat și artistic.",
+                "en": "Finish your day dry and inspired in the modern galleries."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die gelben Straßenbahnen sind ein toller Wetterschutz zwischen weit entfernten Stopps.",
+              "Norrköping hat viele Durchgänge im Industrieviertel, die trocken halten.",
+              "Besuchen Sie das Linden-Einkaufszentrum für eine überdachte Pause.",
+              "Wasserfeste Schuhe sind Pflicht für die Kopfsteinpflastergassen.",
+              "Die Museen liegen nah beieinander, was kurze Sprints im Regen ermöglicht."
+            ],
+            "hu": [
+              "A sárga villamosok kiváló menekülőutat jelentenek a nagyobb záporok elől.",
+              "Az Industrilandskapet területén sok a fedett átjáró az épületek között.",
+              "A Linden bevásárlóközpont jó helyszín egy hosszabb esős pihenőre.",
+              "Vízálló cipő ajánlott a néhol egyenetlen, vizes macskakövekre.",
+              "A múzeumok sűrűn helyezkednek el, így minimalizálható a szabadban töltött idő."
+            ],
+            "ro": [
+              "Tramvaiele galbene sunt o alternativă excelentă de adăpost între puncte.",
+              "Zona industrială are multe pasaje acoperite între clădirile istorice.",
+              "Centrul comercial Linden oferă o pauză uscată și opțiuni de masă.",
+              "Încălțămintea impermeabilă este esențială pentru străzile cu piatră cubică.",
+              "Muzeele sunt grupate, permițând tranzituri scurte prin ploaie."
+            ],
+            "en": [
+              "Yellow trams are perfect for hopping between stops during heavy rain.",
+              "The Industrial Landscape features many archways and covered passages.",
+              "Visit the Linden shopping mall for a dry break and lunch options.",
+              "Waterproof footwear is essential for the uneven, wet cobblestones.",
+              "Museums are closely clustered, making for very short dashes through the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens glitzert der Frost im Carl Johans Park. Mittags wärmen Sie sich im Museum der Arbeit auf, während Sie den Blick auf den dampfenden Motala Ström genießen. Nachmittags, wenn es um 15:30 Uhr dunkel wird, erstrahlt die Industrielandschaft in magischer Weihnachtsbeleuchtung. Den Abend verbringen Sie bei Kerzenschein in der St. Matthäus-Kirche oder im warmen Kunstmuseum.",
+            "hu": "Reggel a Carl Johans Park fagyos fái között indul a séta. Délben a Munkamúzeum melegében pihenhet, figyelve a gőzölgő folyót. Délután, a korai, fél 4-es naplemente után az ipari negyed fényei mesebeli hangulatot árasztanak. Az estét a Szent Mátyás-templom gyertyafényénél vagy a Művészeti Múzeum fűtött termeiben zárhatja.",
+            "ro": "Dimineața începe cu promoroaca sclipitoare din parcul Carl Johans. La prânz, încălziți-vă la Muzeul Muncii admirând râul Motala Ström. După-amiaza, odată cu apusul devreme de la 15:30, peisajul industrial este inundat de lumini magice. Seara se încheie în atmosfera caldă a bisericii Sf. Matei sau la Muzeul de Artă.",
+            "en": "Morning brings a crisp frost to Carl Johans Park. By midday, warm up inside the Museum of Work while watching the steaming river outside. In the afternoon, as darkness falls around 15:30, the Industrial Landscape glows with magical winter lights. Finish your evening in the cozy warmth of St. Matthew's Church or the Art Museum galleries."
+          },
+          "stops": [
+            {
+              "name": "Carl Johans Park",
+              "tip_5lang": {
+                "de": "Die berühmten Kakteen sind im Winter durch ein Gewächshaus geschützt.",
+                "hu": "A híres kaktuszokat télen üvegház védi, nézze meg a téli fényeket.",
+                "ro": "Cactușii celebri sunt protejați de o seră în timpul iernii.",
+                "en": "The famous cacti are protected by a greenhouse; enjoy the festive lights."
+              }
+            },
+            {
+              "name": "Motala Ström & Strömparken",
+              "tip_5lang": {
+                "de": "Vorsicht vor Eis auf den Wegen; der Fluss dampft bei Kälte.",
+                "hu": "Vigyázzon a jeges utakra; a folyó látványosan gőzölög nagy hidegben.",
+                "ro": "Atenție la gheață pe poteci; râul scoate aburi în zilele geroase.",
+                "en": "Watch out for icy paths; the river creates beautiful steam in the cold."
+              }
+            },
+            {
+              "name": "The Industrial Landscape (Industrilandskapet)",
+              "tip_5lang": {
+                "de": "Erleben Sie die spektakuläre Winterbeleuchtung ab 15:00 Uhr.",
+                "hu": "Nézze meg a látványos téli díszkivilágítást délután 3-tól.",
+                "ro": "Admirați iluminatul festiv spectaculos începând cu ora 15:00.",
+                "en": "Experience the spectacular winter light installations from 15:00 onwards."
+              }
+            },
+            {
+              "name": "Museum of Work (Arbetets museum)",
+              "tip_5lang": {
+                "de": "Der perfekte Ort zum Aufwärmen mit Panoramablick.",
+                "hu": "Tökéletes hely a felmelegedésre, panorámás kilátással a folyóra.",
+                "ro": "Locul perfect pentru încălzire, cu vedere panoramică spre râu.",
+                "en": "The perfect place to warm up with a panoramic view of the rapids."
+              }
+            },
+            {
+              "name": "Visualization Center C (Visualiseringscenter C)",
+              "tip_5lang": {
+                "de": "Die Wärme im Inneren ist eine Wohltat nach dem Winterspaziergang.",
+                "hu": "A benti meleg igazi áldás a téli séta után.",
+                "ro": "Căldura din interior este o binecuvântare după plimbarea prin ger.",
+                "en": "The warmth inside is a blessing after a brisk winter walk."
+              }
+            },
+            {
+              "name": "Norrköping City Museum (Norrköpings Stadsmuseum)",
+              "tip_5lang": {
+                "de": "Erfahren Sie drinnen mehr über die Textilgeschichte der Stadt.",
+                "hu": "Ismerje meg a város textilipari múltját a fűtött termekben.",
+                "ro": "Explorați istoria textilă a orașului în sălile bine încălzite.",
+                "en": "Explore the city's textile history inside the well-heated halls."
+              }
+            },
+            {
+              "name": "St. Matthew's Church (Matteuskyrkan)",
+              "tip_5lang": {
+                "de": "Oft finden hier im Winter stimmungsvolle Chorkonzerte statt.",
+                "hu": "Télen gyakran tartanak itt hangulatos kóruskoncerteket.",
+                "ro": "Iarna, aici au loc adesea concerte corale atmosferice.",
+                "en": "In winter, you can often enjoy atmospheric choir concerts here."
+              }
+            },
+            {
+              "name": "Norrköping Art Museum (Norrköpings Konstmuseum)",
+              "tip_5lang": {
+                "de": "Genießen Sie moderne Kunst in gemütlicher Atmosphäre.",
+                "hu": "Élvezze a modern művészetet kellemes benti hőmérsékleten.",
+                "ro": "Bucurați-vă de artă modernă într-o atmosferă primitoare.",
+                "en": "Enjoy modern art in a cozy and comfortable indoor setting."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht bereits gegen 15:30 Uhr unter, planen Sie Fotos früh ein.",
+              "Tragen Sie Thermounterwäsche; der Wind vom Wasser ist im Winter eisig.",
+              "Viele Cafés bieten 'Glögg' (schwedischen Glühwein) an.",
+              "Die Gehwege werden meist gut geräumt, aber Vorsicht vor Glätte.",
+              "Nutzen Sie die Lichtinstallationen im Industrieviertel als Wegweiser."
+            ],
+            "hu": [
+              "A nap délután fél 4 körül nyugszik, a fotózást ütemezze korábbra.",
+              "Öltözzön rétegesen, a folyó felől fújó szél télen metsző lehet.",
+              "Próbálja ki a helyi kávézókban a forró 'Glögg'-öt (svéd forralt bor).",
+              "A járdákat jól takarítják, de a hidakon vigyázzon a lefagyásokra.",
+              "Az ipari negyed fényinstallációi sötétedés után mutatnak a legjobban."
+            ],
+            "ro": [
+              "Soarele apune în jurul orei 15:30, deci planificați fotografiile devreme.",
+              "Purtați haine termice; vântul de pe apă poate fi foarte tăios iarna.",
+              "Multe cafenele servesc 'Glögg' (vin fiert suedez) tradițional.",
+              "Troleele și trotuarele sunt curățate, dar atenție la porțiunile înghețate.",
+              "Iluminația din zona industrială creează un decor perfect după apus."
+            ],
+            "en": [
+              "Sunset is around 15:30; plan your outdoor photography for early afternoon.",
+              "Wear thermal layers as the wind coming off the river is biting in winter.",
+              "Many local cafes serve 'Glögg' (Swedish mulled wine) during winter.",
+              "Pavements are usually well-cleared, but be careful of black ice on bridges.",
+              "Enjoy the 'Moa Martinson' light walk through the industrial landscape."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -790,6 +1016,214 @@
           "A helmet is recommended but not legally required for adults.",
           "Most sights are bike-friendly with places to park nearby."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie Norrköping auf zwei Rädern trotz Regen. Der Weg führt am Kunstmuseum vorbei zum Carl Johans Park. Mittags bietet die Industrielandschaft und das Museum der Arbeit eine trockene Basis. Nachmittags radeln Sie am Fluss entlang zum Åbackarna-Reservat, wo die Bäume Schutz bieten, bevor Sie den Tag an der Kirche und im Museum abschließen.",
+            "hu": "Fedezze fel Norrköpinget kerékpáron az eső ellenére is. Az út a Művészeti Múzeumtól a Carl Johans Parkig vezet. Délben az ipari negyed és a Munkamúzeum kínál száraz megállót. Délután tekerjen a folyó mentén az Åbackarna természetvédelmi területre, majd zárja a napot a templomnál és a múzeumnál.",
+            "ro": "Explorați Norrköping pe două roți în ciuda ploii. Traseul trece pe la Muzeul de Artă spre parcul Carl Johans. La prânz, zona industrială și Muzeul Muncii oferă o bază uscată. După-amiaza, pedalați spre rezervația Åbackarna, încheind ziua la biserica Sf. Matei și la muzeu.",
+            "en": "Explore Norrköping on two wheels despite the rain. The route takes you from the Art Museum to Carl Johans Park. Midday offers a dry base in the Industrial Landscape and Museum of Work. In the afternoon, cycle along the river to Åbackarna Nature Reserve before finishing your day at the church and museum."
+          },
+          "stops": [
+            {
+              "name": "Norrköping Art Museum",
+              "tip_5lang": {
+                "de": "Überdachte Fahrradständer direkt am Eingang vorhanden.",
+                "hu": "Fedett kerékpártárolók találhatók közvetlenül a bejáratnál.",
+                "ro": "Există rastele pentru biciclete acoperite chiar la intrare.",
+                "en": "Covered bike racks are available right by the entrance."
+              }
+            },
+            {
+              "name": "Carl Johans Park",
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Fahren auf nassem Rasen; bleiben Sie auf den Wegen.",
+                "hu": "Kerülje a vizes füvet; maradjon a kijelölt aszfaltozott utakon.",
+                "ro": "Evitați să pedalați pe iarbă; rămâneți pe aleile asfaltate.",
+                "en": "Avoid riding on wet grass; stick to the paved pathways."
+              }
+            },
+            {
+              "name": "Louis De Geer Concert & Congress Hall",
+              "tip_5lang": {
+                "de": "Kurzer Stopp unter dem Vordach für einen Wettercheck.",
+                "hu": "Rövid megálló az előtető alatt az időjárás ellenőrzésére.",
+                "ro": "Scurt popas sub streșină pentru a verifica prognoza.",
+                "en": "Short stop under the canopy to check the weather forecast."
+              }
+            },
+            {
+              "name": "The Industrial Landscape (Industrilandskapet)",
+              "tip_5lang": {
+                "de": "Vorsicht bei den Straßenbahnschienen; sie sind extrem rutschig.",
+                "hu": "Nagyon vigyázzon a villamossínekre; vizesen rendkívül csúsznak.",
+                "ro": "Atenție sporită la șinele de tramvai; sunt foarte alunecoase.",
+                "en": "Extra caution needed with tram tracks; they are very slippery when wet."
+              }
+            },
+            {
+              "name": "Museum of Work (Arbetets museum)",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad im Sichtbereich der Fenster ab.",
+                "hu": "Parkolja le a bringát az ablakokból jól látható helyen.",
+                "ro": "Parcați bicicleta într-un loc vizibil de la ferestre.",
+                "en": "Park your bike in a spot visible from the large windows."
+              }
+            },
+            {
+              "name": "Åbackarna Nature Reserve (Upstream)",
+              "tip_5lang": {
+                "de": "Schlammige Abschnitte möglich; Schutzbleche sind hier wichtig.",
+                "hu": "Saras szakaszok előfordulhatnak; a sárvédő itt elengedhetetlen.",
+                "ro": "Pot exista porțiuni cu noroi; aripile sunt esențiale aici.",
+                "en": "Muddy sections are possible; mudguards are very important here."
+              }
+            },
+            {
+              "name": "St. Matthew's Church (Matteuskyrkan)",
+              "tip_5lang": {
+                "de": "Letzte Pause vor dem Rückweg im trockenen Kirchenschiff.",
+                "hu": "Utolsó pihenő a száraz templombelsőben a visszatérés előtt.",
+                "ro": "Ultima pauză în interiorul uscat al bisericii înainte de retur.",
+                "en": "Final break in the dry church interior before heading back."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine komplette Regenmontur, inklusive Regenhose.",
+              "Vermeiden Sie scharfe Kurven auf nassem Kopfsteinpflaster.",
+              "Die Straßenbahnschienen immer im rechten Winkel überqueren.",
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt; Nässe verlängert den Bremsweg.",
+              "Nutzen Sie die vielen Brücken als temporäre Regendächer."
+            ],
+            "hu": [
+              "Viseljen teljes esőfelszerelést, beleértve a vízálló nadrágot is.",
+              "Kerülje az éles kanyarodást a vizes macskaköveken.",
+              "A villamossíneket mindig merőlegesen keresztezze.",
+              "Indulás előtt ellenőrizze a fékeket; a víz növeli a féktávot.",
+              "Használja a város hídjait ideiglenes esővédőként."
+            ],
+            "ro": [
+              "Purtați echipament complet de ploaie, inclusiv pantaloni impermeabili.",
+              "Evitați virajele bruște pe piatra cubică umedă.",
+              "Traversați întotdeauna șinele de tramvai în unghi drept.",
+              "Verificați frânele; distanța de frânare crește considerabil pe ud.",
+              "Folosiți numeroasele poduri ca adăposturi temporare împotriva ploii."
+            ],
+            "en": [
+              "Wear full rain gear, including waterproof trousers.",
+              "Avoid sharp turns on wet cobblestones to prevent sliding.",
+              "Always cross tram tracks at a 90-degree angle.",
+              "Check your brakes before starting; wet rims increase stopping distance.",
+              "Utilize the many bridges as temporary rain shelters."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein erfrischendes Winterabenteuer auf dem Rad. Starten Sie am Kunstmuseum und genießen Sie die klare Luft im Carl Johans Park. Mittags bietet das Museum der Arbeit Wärme und Stärkung. Die Fahrt nach Åbackarna zeigt die winterliche Schönheit des Flusses. Wenn die Lichter in der Industrielandschaft angehen, wird die Rückfahrt besonders stimmungsvoll.",
+            "hu": "Frissítő téli kaland két keréken. Kezdje a Művészeti Múzeumnál, élvezve a tiszta levegőt a Carl Johans Parkban. Délben a Munkamúzeum nyújt meleget és pihenőt. Az út az Åbackarna felé megmutatja a folyó téli szépségét. Amikor az ipari negyed fényei felgyúlnak, a hazautazás varázslatossá válik.",
+            "ro": "O aventură revigorantă de iarnă pe bicicletă. Începeți la Muzeul de Artă și bucurați-vă de aerul rece în parcul Carl Johans. La prânz, Muzeul Muncii oferă căldură. Drumul spre Åbackarna dezvăluie frumusețea înghețată a râului. Când se aprind luminile în zona industrială, returul devine magic.",
+            "en": "A refreshing winter adventure on your bike. Start at the Art Museum and enjoy the crisp air in Carl Johans Park. Midday offers warmth and rest at the Museum of Work. The ride to Åbackarna shows off the river's winter beauty. As the lights flicker on in the Industrial Landscape, the return journey becomes magical."
+          },
+          "stops": [
+            {
+              "name": "Norrköping Art Museum",
+              "tip_5lang": {
+                "de": "Vorsicht bei der Abfahrt vom Museumshügel; Glättegefahr.",
+                "hu": "Vigyázzon a múzeum-dombról lefelé jövet; csúszásveszély.",
+                "ro": "Atenție la coborârea dealului de la muzeu; risc de polei.",
+                "en": "Be careful when descending the hill from the museum; risk of ice."
+              }
+            },
+            {
+              "name": "Carl Johans Park",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe des winterlichen Parks.",
+                "hu": "Élvezze a téli park csendjét és nyugalmát.",
+                "ro": "Bucurați-vă de liniștea parcului înghețat.",
+                "en": "Enjoy the quiet and peace of the wintry park."
+              }
+            },
+            {
+              "name": "Louis De Geer Concert & Congress Hall",
+              "tip_5lang": {
+                "de": "Das Glasgebäude reflektiert das schwache Winterlicht wunderschön.",
+                "hu": "Az üvegépület gyönyörűen veri vissza a téli fényeket.",
+                "ro": "Clădirea de sticlă reflectă minunat lumina slabă a iernii.",
+                "en": "The glass building beautifully reflects the low winter sun."
+              }
+            },
+            {
+              "name": "The Industrial Landscape (Industrilandskapet)",
+              "tip_5lang": {
+                "de": "Ab 15:00 Uhr leuchten die Wasserfälle farbig.",
+                "hu": "Délután 3-tól színes fényekben úsznak a folyó vízesései.",
+                "ro": "De la ora 15:00, cascadele sunt iluminate în culori vii.",
+                "en": "The waterfalls are illuminated in colors starting from 15:00."
+              }
+            },
+            {
+              "name": "Museum of Work (Arbetets museum)",
+              "tip_5lang": {
+                "de": "Gönnen Sie sich eine heiße Schokolade im Café.",
+                "hu": "Kényeztesse magát egy forró csokoládéval a kávézóban.",
+                "ro": "Răsfățați-vă cu o ciocolată caldă în cafenea.",
+                "en": "Treat yourself to a hot chocolate in the cozy cafe."
+              }
+            },
+            {
+              "name": "Åbackarna Nature Reserve (Upstream)",
+              "tip_5lang": {
+                "de": "Der Uferweg kann gefroren sein; Spike-Reifen empfohlen.",
+                "hu": "A folyóparti út fagyott lehet; szöges gumi ajánlott.",
+                "ro": "Poteca de pe mal poate fi înghețată; se recomandă cauciucuri cu ținte.",
+                "en": "The riverside path may be frozen; studded tires are recommended."
+              }
+            },
+            {
+              "name": "St. Matthew's Church (Matteuskyrkan)",
+              "tip_5lang": {
+                "de": "Beleuchtete Fassade bietet eine schöne Kulisse für den Abend.",
+                "hu": "A kivilágított homlokzat szép hátteret ad az estének.",
+                "ro": "Fațada iluminată oferă un decor superb pentru seară.",
+                "en": "The illuminated facade provides a beautiful evening backdrop."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Verwenden Sie unbedingt Vorder- und Rücklichter ab 15:00 Uhr.",
+              "Tragen Sie warme Handschuhe und eine winddichte Mütze unter dem Helm.",
+              "Spike-Reifen (Dubbdäck) sind in Schweden im Winter Standard.",
+              "Vermeiden Sie das Bremsen in Kurven bei möglichem Glatteis.",
+              "Planen Sie kürzere Strecken ein; die Kälte entzieht dem Körper Energie."
+            ],
+            "hu": [
+              "Délután 3 órától kötelező az első és hátsó világítás használata.",
+              "Viseljen meleg kesztyűt és szélálló sapkát a sisak alatt.",
+              "A szöges gumi (Dubbdäck) télen alapfelszereltség Svédországban.",
+              "Kerülje a kanyarban való fékezést a jeges foltok miatt.",
+              "Tervezzen rövidebb távokat; a hideg gyorsabban kiveszi az erőt."
+            ],
+            "ro": [
+              "Folosiți obligatoriu lumini față/spate începând cu ora 15:00.",
+              "Purtați mănuși groase și o căciulă rezistentă la vânt sub cască.",
+              "Anvelopele cu ținte (Dubbdäck) sunt standard în Suedia iarna.",
+              "Evitați frânarea în curbe dacă suspectați porțiuni cu polei.",
+              "Planificați distanțe mai scurte; gerul consumă rapid energia."
+            ],
+            "en": [
+              "Front and rear lights are mandatory after 15:00 due to darkness.",
+              "Wear warm gloves and a windproof cap under your helmet.",
+              "Studded tires (Dubbdäck) are standard for winter cycling in Sweden.",
+              "Avoid braking while cornering on potentially icy surfaces.",
+              "Plan for shorter distances as the cold drains your energy faster."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1170,6 +1604,214 @@
           "Be aware of environmental zones if you are driving an older diesel vehicle.",
           "Plan for extra time to find parking on busy days."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie das Auto, um trocken durch Norrköpings Highlights zu navigieren. Parken Sie in Louis De Geer für die Industrielandschaft. Mittags bieten die Cluster im Munkamúzeum und Visualisierungscenter Schutz. Nachmittags wechseln Sie zum Parkplatz am Kunstmuseum. Der Abend endet entspannt im Stadtzentrum, während der Regen gegen das Autodach trommelt.",
+            "hu": "Használja az autót, hogy szárazon járja be Norrköping nevezetességeit. Parkoljon a Louis De Geer-nél az ipari negyedhez. Délben a Munkamúzeum és a Visualiseringscenter épületei nyújtanak menedéket. Délután váltson a Művészeti Múzeum melletti parkolóra. Az este a belvárosban zárul, miközben az eső kopog a tetőn.",
+            "ro": "Folosiți mașina pentru a naviga prin Norrköping fără a vă uda. Parcați la Louis De Geer pentru zona industrială. La prânz, vizitați Muzeul Muncii și Centrul de Vizualizare. După-amiaza, mutați mașina lângă Muzeul de Artă. Seara se încheie relaxat în centru, feriți de ploaie.",
+            "en": "Use your car to navigate Norrköping's highlights while staying dry. Park at Louis De Geer for the Industrial Landscape. Midday offers shelter at the Museum of Work and Visualization Center. In the afternoon, switch to the parking lot near the Art Museum. The evening ends comfortably downtown as rain taps on the roof."
+          },
+          "stops": [
+            {
+              "name": "Cluster Parking: Louis De Geer",
+              "tip_5lang": {
+                "de": "Großer Parkplatz; idealer Startpunkt für das Industrieviertel.",
+                "hu": "Nagy parkoló; ideális kiindulópont az ipari negyedhez.",
+                "ro": "Parcare spațioasă; punct de pornire ideal pentru zona industrială.",
+                "en": "Large parking area; ideal starting point for the industrial area."
+              }
+            },
+            {
+              "name": "Industrial Landscape & Louis De Geer Hall",
+              "tip_5lang": {
+                "de": "Überdachte Gänge zwischen den Gebäuden nutzen.",
+                "hu": "Használja az épületek közötti fedett átjárókat.",
+                "ro": "Folosiți pasajele acoperite dintre clădiri.",
+                "en": "Utilize the covered walkways between the historic buildings."
+              }
+            },
+            {
+              "name": "Cluster 1: Museum of Work & Visualization Center C",
+              "tip_5lang": {
+                "de": "Beide Attraktionen sind durch kurze Sprints erreichbar.",
+                "hu": "Mindkét látnivaló elérhető rövid benti sétákkal.",
+                "ro": "Ambele atracții sunt accesibile prin scurte tranzituri.",
+                "en": "Both attractions are accessible with very short outdoor dashes."
+              }
+            },
+            {
+              "name": "Cluster 2: City Museum & Strömparken",
+              "tip_5lang": {
+                "de": "Parken Sie im nahen Parkhaus 'Spiran' für maximalen Wetterschutz.",
+                "hu": "Parkoljon a közeli 'Spiran' parkolóházban a teljes esővédelemért.",
+                "ro": "Parcați în garajul 'Spiran' pentru protecție maximă la ploaie.",
+                "en": "Park in the nearby 'Spiran' garage for maximum rain protection."
+              }
+            },
+            {
+              "name": "New Parking: Near Art Museum",
+              "tip_5lang": {
+                "de": "Hauseigener Parkplatz oft verfügbar; kurzer Weg zum Eingang.",
+                "hu": "Saját parkoló gyakran elérhető; rövid út a bejáratig.",
+                "ro": "Parcare proprie disponibilă; drum scurt până la intrare.",
+                "en": "Dedicated parking often available; short walk to the entrance."
+              }
+            },
+            {
+              "name": "Cluster 3: Art Museum & St. Matthew's Church",
+              "tip_5lang": {
+                "de": "Ideal kombiniert, um wenig Zeit im Regen zu verbringen.",
+                "hu": "Ideális kombináció, hogy minimális időt töltsön az esőben.",
+                "ro": "Combinație ideală pentru a petrece timp minim în ploaie.",
+                "en": "Ideal combination to minimize your time spent out in the rain."
+              }
+            },
+            {
+              "name": "Cluster 4: Carl Johans Park",
+              "tip_5lang": {
+                "de": "Kurzer Stopp möglich; Blick aus dem Auto auf die Blumenrabatten.",
+                "hu": "Rövid megálló; a virágágyások az autóból is láthatók.",
+                "ro": "Popas scurt; rondurile de flori pot fi admirate din mașină.",
+                "en": "Short stop; flower beds can be admired from the car windows."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Parkhäuser 'Spiran' oder 'Linden' im Stadtzentrum.",
+              "Vermeiden Sie das Parken unter Bäumen wegen herabfallender Äste bei Wind.",
+              "Haben Sie einen Regenschirm griffbereit in der Beifahrertür.",
+              "Die Park-Apps (z.B. EasyPark) funktionieren in Norrköping einwandfrei.",
+              "Bei starkem Regen kann es in den Tunneln zu Wasseransammlungen kommen."
+            ],
+            "hu": [
+              "Használja a 'Spiran' vagy 'Linden' parkolóházakat a belvárosban.",
+              "Kerülje a fák alatti parkolást az erős szélben letörő ágak miatt.",
+              "Tartson kéznél egy esernyőt az anyósülés melletti ajtóban.",
+              "A parkolási appok (pl. EasyPark) remekül működnek Norrköpingben.",
+              "Nagy esőzéskor a vasúti aluljárókban vízgyülem alakulhat ki."
+            ],
+            "ro": [
+              "Folosiți parcările etajate 'Spiran' sau 'Linden' din centrul orașului.",
+              "Evitați parcarea sub copaci din cauza vântului puternic.",
+              "Țineți o umbrelă la îndemână în portiera din dreapta.",
+              "Aplicațiile de parcare (ex. EasyPark) funcționează perfect aici.",
+              "În caz de ploaie torențială, atenție la acumulările de apă sub poduri."
+            ],
+            "en": [
+              "Use indoor parking garages like 'Spiran' or 'Linden' for shelter.",
+              "Avoid parking under large trees during heavy rain and wind.",
+              "Keep an umbrella handy in the passenger door pocket.",
+              "Parking apps (like EasyPark) are the standard way to pay here.",
+              "Watch out for deep puddles in underpasses during heavy downpours."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie Norrköping warm und gemütlich vom Auto aus. Starten Sie beim Louis De Geer und bewundern Sie den Frost am Industriefluss. Mittags erkunden Sie die warmen Museen im Zentrum. Wenn es nachmittags dunkel wird, bietet das Auto den besten Platz, um die festliche Beleuchtung der Stadt bei der Fahrt durch die Straßen zu bewundern.",
+            "hu": "Élvezze Norrköpinget kényelmesen és melegen az autóból. Kezdje a Louis De Geer-nél, csodálva a deres ipari tájat. Délben fedezze fel a fűtött belvárosi múzeumokat. Amikor délután sötétedik, az autó a legjobb hely a város ünnepi fényeinek megcsodálására, miközben az utcákat járja.",
+            "ro": "Bucurați-vă de Norrköping din confortul mașinii încălzite. Începeți la Louis De Geer admirând peisajul înghețat. La prânz, vizitați muzeele călduroase din centru. După ce se întunecă, mașina oferă cel mai bun loc pentru a admira iluminatul festiv de pe străzi.",
+            "en": "Enjoy Norrköping from the cozy warmth of your car. Start at Louis De Geer and admire the frosty industrial landscape. Midday is for exploring the well-heated museums downtown. As darkness falls in the afternoon, the car is the best spot to admire the city's festive lights while driving through the streets."
+          },
+          "stops": [
+            {
+              "name": "Cluster Parking: Louis De Geer",
+              "tip_5lang": {
+                "de": "Vorsicht vor Schneehaufen; Parkplätze sind oft geräumt.",
+                "hu": "Vigyázzon a hóbuckákra; a parkolókat általában jól takarítják.",
+                "ro": "Atenție la mormanele de zăpadă; parcările sunt de regulă curățate.",
+                "en": "Watch out for snow piles; parking lots are usually well-cleared."
+              }
+            },
+            {
+              "name": "Industrial Landscape & Louis De Geer Hall",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Eiszapfen an den alten Fabriken.",
+                "hu": "Csodálja meg a jégcsapokat a régi gyárépületek falain.",
+                "ro": "Admirați țurțurii de gheață de pe vechile clădiri industriale.",
+                "en": "Admire the icicles hanging from the old factory buildings."
+              }
+            },
+            {
+              "name": "Cluster 1: Museum of Work & Visualization Center C",
+              "tip_5lang": {
+                "de": "Die Museen sind im Winter beliebte, warme Zufluchtsorte.",
+                "hu": "A múzeumok télen népszerű, meleg menedékhelyek.",
+                "ro": "Muzeele sunt refugii calde și populare în timpul iernii.",
+                "en": "The museums are popular, warm retreats during the winter months."
+              }
+            },
+            {
+              "name": "Cluster 2: City Museum & Strömparken",
+              "tip_5lang": {
+                "de": "Das Ufer kann bei Minusgraden sehr rutschig sein.",
+                "hu": "A folyópart fagypont alatt nagyon csúszós lehet.",
+                "ro": "Malul râului poate fi foarte alunecos la temperaturi negative.",
+                "en": "The riverbank can be very slippery in sub-zero temperatures."
+              }
+            },
+            {
+              "name": "New Parking: Near Art Museum",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis beim Aussteigen.",
+                "hu": "Vigyázzon a fekete jégre a kiszálláskor.",
+                "ro": "Atenție la polei atunci când coborâți din mașină.",
+                "en": "Be careful of black ice when stepping out of the car."
+              }
+            },
+            {
+              "name": "Cluster 3: Art Museum & St. Matthew's Church",
+              "tip_5lang": {
+                "de": "Beide Gebäude sind abends spektakulär beleuchtet.",
+                "hu": "Mindkét épület látványos világítást kap az esti órákban.",
+                "ro": "Ambele clădiri sunt iluminate spectaculos seara.",
+                "en": "Both buildings are spectacularly lit up in the evenings."
+              }
+            },
+            {
+              "name": "Cluster 4: Carl Johans Park",
+              "tip_5lang": {
+                "de": "Im Winter oft Schauplatz für Lichtkunst-Installationen.",
+                "hu": "Télen gyakran ad helyet fényfestészeti installációknak.",
+                "ro": "Iarna, parcul găzduiește adesea instalații de artă luminoasă.",
+                "en": "The park often hosts light art installations during winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vergewissern Sie sich, dass Ihr Auto Winterreifen (Pigg- oder Friktionsreifen) hat.",
+              "Führen Sie immer einen Eiskratzer und einen kleinen Schneebesen mit.",
+              "Die Parkhäuser sind frostfrei und schonen das Auto.",
+              "Batterien entladen sich bei Kälte schneller; Licht nicht anlassen.",
+              "In Wohngebieten gilt oft ein Parkverbot für die Schneeräumung (Städdag)."
+            ],
+            "hu": [
+              "Győződjön meg róla, hogy az autón van téli gumi.",
+              "Mindig legyen az autóban jégkaparó és hókefe.",
+              "A parkolóházak fagymentesek, kímélik az autót és az utasokat.",
+              "A hidegben az akkumulátor gyorsabban merül, ne hagyja égve a lámpát.",
+              "Figyeljen a hóeltakarítás miatti parkolási tilalmakra (Städdag)."
+            ],
+            "ro": [
+              "Asigurați-vă că mașina este echipată cu anvelope de iarnă.",
+              "Aveți întotdeauna în mașină o racletă și o perie pentru zăpadă.",
+              "Parcările etajate sunt ferite de îngheț și protejează mașina.",
+              "Bateriile se descarcă mai repede la ger; nu lăsați luminile aprinse.",
+              "Atenție la restricțiile de parcare pentru deszăpezire (Städdag)."
+            ],
+            "en": [
+              "Ensure your car is equipped with winter tires (mandatory in Sweden).",
+              "Always carry an ice scraper and a snow brush in your vehicle.",
+              "Indoor parking garages are frost-free and keep the car warm.",
+              "Batteries drain faster in the cold; don't leave interior lights on.",
+              "Check for 'cleaning days' (Städdag) when parking is forbidden for snow removal."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1526,6 +2168,196 @@
           "The Östgötatrafiken app is useful for real-time schedules and ticket purchases.",
           "Validate your ticket every time you board, even when transferring."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie Norrköpings ikonische sárga Straßenbahnen als perfekten Regenschutz. Starten Sie bei Södertull und besuchen Sie das warme Kunstmuseum. Mittags bringt Sie die Bahn direkt zum Rådhuset, von wo es nur ein kurzer Sprung zur Industrielandschaft ist. Den Nachmittag verbringen Sie in den Museen am Wasser, bevor die Bahn Sie am Abend wieder trocken zurückbringt.",
+            "hu": "Használja Norrköping ikonikus sárga villamosait a tökéletes esővédelem érdekében. Kezdjen a Södertullnál, látogassa meg a fűtött Művészeti Múzeumot. Délben a villamos közvetlenül a Rådhusethez viszi, ahonnan csak pár lépés az ipari negyed. A délutánt a vízparti múzeumokban töltse, majd este szárazon utazhat vissza.",
+            "ro": "Folosiți tramvaiele galbene emblematice ca adăpost perfect împotriva ploii. Începeți la Södertull și vizitați Muzeul de Artă. La prânz, tramvaiul vă lasă la Rådhuset, aproape de zona industrială. După-amiaza aparține muzeelor de pe malul apei, iar seara tramvaiul vă duce înapoi la adăpost.",
+            "en": "Use Norrköping's iconic yellow trams as your perfect mobile rain shelter. Start at Södertull and visit the warm Art Museum. Midday, the tram takes you to Rådhuset, just steps from the Industrial Landscape. Spend the afternoon in the riverside museums before hopping back on a dry tram for the evening."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Arrival at Södertull",
+              "tip_5lang": {
+                "de": "Wichtiger Knotenpunkt mit überdachten Wartebereichen.",
+                "hu": "Fontos közlekedési csomópont fedett várókkal.",
+                "ro": "Nod principal de transport cu zone de așteptare acoperite.",
+                "en": "Major transit hub with covered waiting areas."
+              }
+            },
+            {
+              "name": "Art Museum & St. Matthew's Church",
+              "tip_5lang": {
+                "de": "Nur 5 Minuten Fußweg von der Straßenbahnhaltestelle.",
+                "hu": "Csak 5 perc séta a villamosmegállótól.",
+                "ro": "La doar 5 minute de mers pe jos de stația de tramvai.",
+                "en": "Just a 5-minute walk from the tram stop."
+              }
+            },
+            {
+              "name": "Cluster 2: Arrival at Rådhuset (Tram)",
+              "tip_5lang": {
+                "de": "Direkter Zugang zur Innenstadt unter dem Dach des Rathauses.",
+                "hu": "Közvetlen belvárosi elérés a városháza árkádjai közelében.",
+                "ro": "Acces direct în centru, aproape de arcadele primăriei.",
+                "en": "Direct city center access near the city hall archways."
+              }
+            },
+            {
+              "name": "Industrial Landscape & Museum of Work",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen den Haltestellen und den Eingängen.",
+                "hu": "Rövid távolságok a megállók és a bejáratok között.",
+                "ro": "Distanțe scurte între stații și intrările muzeelor.",
+                "en": "Short distances between transit stops and museum entrances."
+              }
+            },
+            {
+              "name": "Visualization Center C & City Museum",
+              "tip_5lang": {
+                "de": "Perfekte Indoor-Kombination für regnerische Nachmittage.",
+                "hu": "Tökéletes benti kombináció esős délutánokra.",
+                "ro": "Combinație indoor perfectă pentru după-amiezi ploioase.",
+                "en": "Perfect indoor combination for rainy afternoons."
+              }
+            },
+            {
+              "name": "Carl Johans Park & Strömparken",
+              "tip_5lang": {
+                "de": "Die Haltestelle 'Rådhuset' liegt direkt am Parkrand.",
+                "hu": "A 'Rådhuset' megálló közvetlenül a park szélén található.",
+                "ro": "Stația 'Rådhuset' se află chiar la marginea parcului.",
+                "en": "The 'Rådhuset' stop is located right at the edge of the park."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie Tickets vorab über die 'Östgötatrafiken' App.",
+              "In den Straßenbahnen ist es warm und trocken; ideal zum Ausruhen.",
+              "Die Linien 2 und 3 decken fast alle touristischen Ziele ab.",
+              "Die Haltestellenanzeigen im Inneren helfen bei der Orientierung.",
+              "Achten Sie auf Pfützen beim Ein- und Aussteigen an den Bordsteinen."
+            ],
+            "hu": [
+              "Vásároljon jegyet előre az 'Östgötatrafiken' applikációban.",
+              "A villamosokon meleg és száraz az idő; tökéletes a pihenésre.",
+              "A 2-es és 3-as vonal szinte minden turisztikai pontot érint.",
+              "A benti kijelzők segítenek a tájékozódásban a megállóknál.",
+              "Vigyázzon a tócsákra a járdaszegélyeknél le- és felszálláskor."
+            ],
+            "ro": [
+              "Cumpărați bilete în avans prin aplicația 'Östgötatrafiken'.",
+              "În tramvaie este cald și uscat, ideal pentru a vă odihni picioarele.",
+              "Liniile 2 și 3 acoperă aproape toate punctele turistice majore.",
+              "Ecranele din interior vă ajută să recunoașteți stațiile ușor.",
+              "Atenție la bălțile de la marginea trotuarului la urcare și coborâre."
+            ],
+            "en": [
+              "Buy tickets in advance via the 'Östgötatrafiken' app.",
+              "Trams are warm and dry; a great way to rest between museum visits.",
+              "Lines 2 and 3 cover almost all the main tourist attractions.",
+              "On-board displays make it easy to track your stop.",
+              "Be careful of large puddles at the curb when boarding or alighting."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie den Winterzauber Norrköpings bequem mit der Straßenbahn. Die sárga Wagen bieten eine warme Fahrt durch die verschneiten Straßen. Starten Sie am Södertull für das Kunstmuseum. Mittags bringt Sie die Bahn zur Industrielandschaft, die im Winterlicht glänzt. Der Abend im Park am Rathaus ist dank der kurzen Wege zur Bahnstation auch bei Kälte ein Genuss.",
+            "hu": "Élje át Norrköping téli varázsát kényelmesen a villamosról. A sárga kocsik meleg utazást biztosítanak a havas utcákon. Kezdjen a Södertullnál a Művészeti Múzeumhoz. Délben a villamos az ipari negyedbe viszi, amely ragyog a téli fényben. A városháza melletti park még hidegben is élvezetes a közeli megállóknak köszönhetően.",
+            "ro": "Experimentați magia iernii în Norrköping din confortul tramvaiului. Vagoanele galbene oferă o călătorie caldă prin orașul ningând. Începeți la Södertull pentru muzeul de artă. La prânz, tramvaiul vă duce în zona industrială strălucitoare. Seara în parc este plăcută datorită apropierii stațiilor de tramvai.",
+            "en": "Experience Norrköping's winter magic comfortably by tram. The yellow cars offer a warm ride through the snowy streets. Start at Södertull for the Art Museum. At midday, the tram whisks you to the Industrial Landscape, glowing in winter light. Evening in the park remains pleasant due to the short walk to the transit stops."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Arrival at Södertull",
+              "tip_5lang": {
+                "de": "Windgeschützte Unterstände vorhanden; oft festlich geschmückt.",
+                "hu": "Szélvédett várók találhatók; gyakran ünnepi díszben pompáznak.",
+                "ro": "Refugii protejate de vânt; adesea decorate festiv.",
+                "en": "Wind-protected shelters available; often festively decorated."
+              }
+            },
+            {
+              "name": "Art Museum & St. Matthew's Church",
+              "tip_5lang": {
+                "de": "Der Spaziergang von der Bahn ist kurz und meist gut gestreut.",
+                "hu": "A villamostól való séta rövid és általában jól sózott.",
+                "ro": "Plimbarea de la tramvai este scurtă și trotuarele sunt curățate.",
+                "en": "The walk from the tram is short and usually well-sanded."
+              }
+            },
+            {
+              "name": "Cluster 2: Arrival at Rådhuset (Tram)",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das Rathaus im Schnee beim Aussteigen.",
+                "hu": "Élvezze a havas városháza látványát a leszálláskor.",
+                "ro": "Admirați primăria sub zăpadă imediat ce coborâți.",
+                "en": "Enjoy the view of the snowy city hall as you step off the tram."
+              }
+            },
+            {
+              "name": "Industrial Landscape & Museum of Work",
+              "tip_5lang": {
+                "de": "Die Wärme der Straßenbahn ist nach dem Uferspaziergang herrlich.",
+                "hu": "A villamos melege áldás a folyóparti séta után.",
+                "ro": "Căldura din tramvai este minunată după plimbarea pe mal.",
+                "en": "The tram's warmth is wonderful after a stroll by the water."
+              }
+            },
+            {
+              "name": "Visualization Center C & City Museum",
+              "tip_5lang": {
+                "de": "Ideale Ziele für den Nachmittag, wenn es draußen kalt wird.",
+                "hu": "Ideális célpontok délutánra, amikor odakint lehűl az idő.",
+                "ro": "Destinații ideale pentru după-amiază, când se face foarte frig.",
+                "en": "Ideal afternoon destinations when it gets very cold outside."
+              }
+            },
+            {
+              "name": "Carl Johans Park & Strömparken",
+              "tip_5lang": {
+                "de": "Kurzer Aufenthalt im Freien dank naher Tram-Verbindung.",
+                "hu": "Rövid kintlét a közeli villamoskapcsolatnak köszönhetően.",
+                "ro": "Timp minim petrecut în frig datorită stației de tramvai din apropiere.",
+                "en": "Keep outdoor time to a minimum thanks to the nearby tram link."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Straßenbahnen sind im Winter gut beheizt.",
+              "An dunklen Nachmittagen bieten die Bahnen eine tolle Stadtrundfahrt.",
+              "Vorsicht beim Einsteigen; die Stufen können vereist sein.",
+              "Die App zeigt Verspätungen durch Schneefall in Echtzeit an.",
+              "Das Tagesticket lohnt sich besonders, wenn man oft zum Aufwärmen einsteigt."
+            ],
+            "hu": [
+              "A villamosok télen jól fűtöttek és kényelmesek.",
+              "A sötét délutánokon a villamosozás felér egy városnéző túrával.",
+              "Vigyázzon a felszálláskor; a lépcsők jegesek lehetnek.",
+              "Az applikáció valós időben jelzi a hó miatti esetleges késéseket.",
+              "A napijegy megéri, ha gyakran szállna fel csak felmelegedni."
+            ],
+            "ro": [
+              "Tramvaiele sunt bine încălzite în timpul iernii.",
+              "După lăsarea întunericului, o plimbare cu tramvaiul oferă un tur superb.",
+              "Atenție la urcare; treptele pot fi înghețate.",
+              "Aplicația indică în timp real întârzierile cauzate de ninsoare.",
+              "Abonamentul de o zi merită dacă vreți să vă încălziți des între vizite."
+            ],
+            "en": [
+              "Trams are well-heated and very cozy during winter.",
+              "On dark afternoons, a tram ride doubles as a festive city tour.",
+              "Be careful when boarding as the steps can be icy and slippery.",
+              "The app provides real-time updates on any snow-related delays.",
+              "A day pass is worth it if you plan to hop on and off frequently to warm up."
+            ]
+          }
+        }
       }
     }
   }

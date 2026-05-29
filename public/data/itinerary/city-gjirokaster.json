@@ -362,6 +362,206 @@
           "Bring plenty of water, especially during the summer months.",
           "Some houses charge a small entrance fee, often paid directly to the family."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie im Basar, wo die Dachvorsprünge Schutz bieten. Der Vormittag im Kadare-Haus ist trocken. Mittags erkunden Sie die gewaltigen Hallen der Festung, die perfekt vor Regen schützen. Nachmittags bieten die Zekate- und Skenduli-Häuser faszinierende Innenräume. Der Tag endet am Obelisken, wenn die Wolken über dem Drino-Tal aufreißen und die nassen Steine glänzen lassen.",
+            "hu": "Kezdje a bazárban, ahol az eresz alatt védve maradhat. A délelőtt a Kadare-házban telik szárazon. Délben a vár hatalmas boltívei nyújtanak menedéket a zápor elől. Délután a Zekate- és Skenduli-házak pazar belső tereit csodálhatja meg. Az Obeliszk mellett fejezze be a napot, amikor az eső utáni pára misztikusba burkolja az ezüstös tetőket és a Drino-völgyet.",
+            "ro": "Începeți în bazar, unde streșinile caselor oferă adăpost. Dimineața la Casa Kadare este ferită de ploaie. La prânz, explorați galeriile vaste ale cetății, un refugiu ideal. După-amiaza este dedicată interioarelor spectaculoase din Casele Zekate și Skenduli. Încheiați la Obelisc, admirând cum ploaia curăță aerul și face pietrele orașului să strălucească sub norii trecători.",
+            "en": "Start in the Bazaar, staying close to the shop eaves. Spend the morning inside Kadare House. At noon, the massive stone vaults of the Fortress provide excellent shelter. Afternoon is perfect for the dry interiors of Zekate and Skenduli houses. End at the Obelisk as the rain clears, revealing a misty and dramatic view of the 'Stone City' and the Drino valley."
+          },
+          "stops": [
+            {
+              "name": "Old Bazaar",
+              "tip_5lang": {
+                "de": "Vorsicht, das Kopfsteinpflaster ist extrem rutschig.",
+                "hu": "Vigyázat, a macskakő vizesen rendkívül csúszós.",
+                "ro": "Atenție, pavajul de piatră este extrem de alunecos.",
+                "en": "Caution, the limestone cobbles are extremely slippery."
+              }
+            },
+            {
+              "name": "Kadare House",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um einen Regenschauer abzuwarten.",
+                "hu": "Tökéletes helyszín egy nagyobb zápor átvészelésére.",
+                "ro": "Locul ideal pentru a aștepta trecerea unei averse.",
+                "en": "Ideal place to wait out a heavy rain shower."
+              }
+            },
+            {
+              "name": "Gjirokastra Fortress",
+              "tip_5lang": {
+                "de": "Die Kasematten sind groß und absolut regendicht.",
+                "hu": "A kazamaták tágasak és teljesen beázásmentesek.",
+                "ro": "Cazematele sunt vaste și perfect protejate de ploaie.",
+                "en": "The casemates are vast and perfectly dry inside."
+              }
+            },
+            {
+              "name": "Zekate House",
+              "tip_5lang": {
+                "de": "Besichtigen Sie die kunstvollen Decken im Trockenen.",
+                "hu": "Csodálja meg a díszes mennyezeteket a fedett házban.",
+                "ro": "Admirați tavanele pictate stând la adăpost.",
+                "en": "Admire the ornate ceilings while staying dry."
+              }
+            },
+            {
+              "name": "Skenduli House",
+              "tip_5lang": {
+                "de": "Viele Räume zum Erkunden, während es draußen regnet.",
+                "hu": "Sok felfedezni való szoba, miközben kint esik.",
+                "ro": "Multe camere de explorat în timp ce afară plouă.",
+                "en": "Plenty of rooms to explore while it rains outside."
+              }
+            },
+            {
+              "name": "Ethnographic Museum",
+              "tip_5lang": {
+                "de": "Das Innere bietet Schutz und faszinierende Geschichte.",
+                "hu": "A beltér védelmet és lenyűgöző történelmet kínál.",
+                "ro": "Interiorul oferă protecție și istorie fascinantă.",
+                "en": "The interior offers shelter and fascinating history."
+              }
+            },
+            {
+              "name": "Gjirokastra Obelisk",
+              "tip_5lang": {
+                "de": "Kurzer Stopp für das Foto nach dem Regen.",
+                "hu": "Rövid megálló egy fotóra az eső elállta után.",
+                "ro": "Scurtă oprire pentru fotografii după ploaie.",
+                "en": "Quick stop for photos after the rain stops."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Wanderschuhe mit starkem Profil für den nassen Kalkstein.",
+              "Die meisten Museen sind montags geschlossen, planen Sie entsprechend.",
+              "Ein Regenschirm ist bei Wind im Gebirge weniger effektiv als ein Poncho.",
+              "Wärmen Sie sich im Basar mit einem heißen 'Çaj Mali' auf."
+            ],
+            "hu": [
+              "Viseljen bordázott talpú cipőt a vizes mészkőburkolat miatt.",
+              "A legtöbb múzeum hétfőn zárva tart, ellenőrizze az időpontokat.",
+              "A szeles hegyi városban az esőkabát praktikusabb az ernyőnél.",
+              "Melegedjen fel a bazárban egy forró albán hegyi teával."
+            ],
+            "ro": [
+              "Purtați pantofi cu talpă aderentă pentru piatra udă.",
+              "Majoritatea muzeelor sunt închise lunea; verificați programul.",
+              "O pelerină de ploaie este mai utilă decât umbrela în vânt.",
+              "Încălziți-vă în bazar cu un ceai de munte albanez fierbinte."
+            ],
+            "en": [
+              "Wear shoes with excellent grip for the wet limestone.",
+              "Most museums are closed on Mondays; plan accordingly.",
+              "A rain poncho is more effective than an umbrella in the wind.",
+              "Warm up in the Bazaar with a hot Albanian mountain tea."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die klare Winterluft lässt die Steinstadt in hellem Grau erstrahlen. Vormittags wärmt die Sonne die Gassen des Basars. Mittags bietet die Festung Schutz vor dem kalten Wind vom Gebirge. Die traditionellen Häuser Zekate und Skenduli wirken in der Stille des Winters besonders majestätisch. Beenden Sie den Tag früh am Obelisken, um den Sonnenuntergang über den schneebedeckten Gipfeln zu erleben.",
+            "hu": "A tiszta téli levegőben a kőváros ragyogó szürkében játszik. Délelőtt a nap még melegíti a bazár szűk utcáit. Délben a vár vastag falai védenek a hegyek felől fújó hideg széltől. A Zekate- és Skenduli-házak a téli csendben különösen fenségesek. Fejezze be a napot korán az Obeliszk mellett, hogy elcsípje a naplementét a hófödte hegycsúcsok felett.",
+            "ro": "Aerul curat de iarnă face ca orașul de piatră să strălucească în gri deschis. Dimineața, soarele încălzește ulițele bazarului. La prânz, cetatea oferă adăpost împotriva vântului rece dinspre munți. Casele tradiționale par și mai impunătoare în liniștea iernii. Încheiați ziua devreme la Obelisc pentru a vedea apusul peste vârfurile înzăpezite ale munților.",
+            "en": "The crisp winter air makes the stone city glow in bright grey. Spend the morning in the sun-drenched Bazaar. At noon, the thick fortress walls shield you from the cold mountain wind. The traditional Zekate and Skenduli houses feel especially majestic in the winter silence. End your day early at the Obelisk to catch the sunset over the snow-capped mountain peaks."
+          },
+          "stops": [
+            {
+              "name": "Old Bazaar",
+              "tip_5lang": {
+                "de": "Genießen Sie einen Kaffee am warmen Kamin.",
+                "hu": "Élvezzen egy kávét a meleg kandalló mellett.",
+                "ro": "Savurați o cafea lângă șemineul cald.",
+                "en": "Enjoy a coffee by a warm indoor fireplace."
+              }
+            },
+            {
+              "name": "Kadare House",
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten die Kälte gut ab.",
+                "hu": "A vastag falak jól kint tartják a téli hideget.",
+                "ro": "Zidurile groase țin bine frigul la distanță.",
+                "en": "The thick walls keep the winter chill at bay."
+              }
+            },
+            {
+              "name": "Gjirokastra Fortress",
+              "tip_5lang": {
+                "de": "Achtung, auf den offenen Wällen kann es windig sein.",
+                "hu": "Vigyázat, a nyitott bástyákon nagyon fújhat a szél.",
+                "ro": "Atenție, pe bastioanele deschise vântul poate fi tăios.",
+                "en": "Caution, the open ramparts can be very windy."
+              }
+            },
+            {
+              "name": "Zekate House",
+              "tip_5lang": {
+                "de": "In den Steinhäusern ist es kühler als draußen.",
+                "hu": "A kőházakban hűvösebb lehet, mint odakint.",
+                "ro": "În casele de piatră poate fi mai răcoare decât afară.",
+                "en": "Stone houses can be cooler inside than outdoors."
+              }
+            },
+            {
+              "name": "Skenduli House",
+              "tip_5lang": {
+                "de": "Besuchen Sie die bewohnten, geheizten Räume.",
+                "hu": "Látogassa meg a lakott, fűtött szobákat.",
+                "ro": "Vizitați camerele locuite și încălzite.",
+                "en": "Visit the lived-in, heated rooms if accessible."
+              }
+            },
+            {
+              "name": "Ethnographic Museum",
+              "tip_5lang": {
+                "de": "Ein authentischer Einblick in das Winterleben.",
+                "hu": "Hiteles betekintés a régi téli mindennapokba.",
+                "ro": "O incursiune autentică în viața de iarnă de demult.",
+                "en": "An authentic look into historical winter life."
+              }
+            },
+            {
+              "name": "Gjirokastra Obelisk",
+              "tip_5lang": {
+                "de": "Bester Platz für den frühen Sonnenuntergang.",
+                "hu": "A legjobb hely a korai naplemente megtekintéséhez.",
+                "ro": "Cel mai bun loc pentru a vedea apusul devreme.",
+                "en": "The best spot to watch the early winter sunset."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich in Schichten, da Museen oft ungeheizt sind.",
+              "Die Sonne geht im Winter bereits gegen 16:30 Uhr unter.",
+              "Einige steile Gassen können bei Frost gefährlich glatt sein.",
+              "Probieren Sie 'Pasha Qofte', eine wärmende lokale Suppe."
+            ],
+            "hu": [
+              "Öltözzön rétegesen, a múzeumok gyakran fűtetlenek.",
+              "A nap télen már 16:30 körül lenyugszik a hegyek mögött.",
+              "A meredek sikátorok fagy esetén veszélyesen csúszhatnak.",
+              "Kóstolja meg a 'Pasha Qofte'-t, egy melengető helyi levest."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi, muzeele sunt adesea neîncălzite.",
+              "Soarele apune deja în jurul orei 16:30 iarna.",
+              "Unele ulițe abrupte pot fi înghețate și alunecoase.",
+              "Gustați 'Pasha Qofte', o supă locală caldă și hrănitoare."
+            ],
+            "en": [
+              "Dress in layers as museums are often unheated.",
+              "The sun sets behind the mountains as early as 16:30.",
+              "Steep alleys can be dangerously icy during frost.",
+              "Try 'Pasha Qofte', a warming local soup dish."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -670,6 +870,170 @@
           "Locals are not used to many cyclists, so ride with caution.",
           "Always lock your bike securely."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Mut auf den steilen Wegen. Starten Sie bei den Sieben Brunnen, wo das Wasser heute reichlich fließt. Der Basar bietet kurze Pausen unter den Dächern. Der Kalte-Krieg-Tunnel ist ein absolut trockenes Highlight. Die Auffahrt zur Festung ist anstrengend, aber die weiten Hallen belohnen mit Schutz. Den Abschluss bildet der Obelisk, bevor Sie zügig ins Tal zurückkehren.",
+            "hu": "Az esőben való biciklizés bátorságot igényel a meredek utakon. Kezdje a Hét Forrásnál, ahol ma bőven folyik a víz. A bazár rövid pihenőt kínál az ereszek alatt. A Hidegháborús Alagút teljesen száraz és izgalmas megálló. A várba való felkapaszkodás fárasztó, de a belső terek védelmet nyújtanak. A napot az Obeliszknél zárja, mielőtt gyorsan visszagurulna a völgybe.",
+            "ro": "O tură cu bicicleta pe ploaie necesită curaj pe drumurile abrupte. Începeți la Cele Șapte Fântâni, unde apa curge din abundență. Bazarul oferă scurte pauze sub streșini. Tunelul Războiului Rece este un punct culminant absolut uscat. Urcarea spre cetate este grea, dar galeriile oferă refugiu. Încheiați la Obelisc înainte de a coborî rapid spre vale.",
+            "en": "Biking in the rain requires courage on Gjirokastra's steep slopes. Start at Seven Fountains, where water flows freely today. The Bazaar offers brief respite under the shop eaves. The Cold War Tunnel is a perfectly dry and thrilling highlight. The climb to the Fortress is tough, but the indoor galleries reward you with shelter. End at the Obelisk before a quick descent back down."
+          },
+          "stops": [
+            {
+              "name": "Seven Fountains",
+              "tip_5lang": {
+                "de": "Der Boden um die Brunnen ist sehr rutschig.",
+                "hu": "A források körüli talaj nagyon csúszós.",
+                "ro": "Zona din jurul fântânilor este foarte alunecoasă.",
+                "en": "The ground around the fountains is very slippery."
+              }
+            },
+            {
+              "name": "Old Bazaar",
+              "tip_5lang": {
+                "de": "Schieben Sie das Rad in den engen, nassen Gassen.",
+                "hu": "Tolja a biciklit a szűk, vizes sikátorokban.",
+                "ro": "Împingeți bicicleta pe ulițele înguste și ude.",
+                "en": "Push your bike in the narrow, wet alleys."
+              }
+            },
+            {
+              "name": "Cold War Tunnel",
+              "tip_5lang": {
+                "de": "Perfekter Schutz vor dem schlimmsten Regen.",
+                "hu": "Tökéletes menedék a leghevesebb eső elől is.",
+                "ro": "Protecție perfectă împotriva celei mai grele ploi.",
+                "en": "Perfect shelter from even the heaviest rain."
+              }
+            },
+            {
+              "name": "Gjirokastra Fortress",
+              "tip_5lang": {
+                "de": "Parken Sie das Rad sicher unter einem Bogen.",
+                "hu": "Parkolja le a biciklit biztonságban egy ív alatt.",
+                "ro": "Parcați bicicleta în siguranță sub un arc de piatră.",
+                "en": "Park your bike safely under a stone arch."
+              }
+            },
+            {
+              "name": "Gjirokastra Obelisk",
+              "tip_5lang": {
+                "de": "Vorsicht bei der Abfahrt auf nassen Steinen.",
+                "hu": "Vigyázat a leereszkedéskor a vizes köveken.",
+                "ro": "Atenție la coborâre pe pietrele umede.",
+                "en": "Be extremely careful descending on wet stones."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Gute Bremsen sind auf dem nassen Kopfsteinpflaster lebenswichtig.",
+              "Vermeiden Sie die steilsten Abkürzungen bei Regen.",
+              "Tragen Sie leuchtende Regenbekleidung für bessere Sichtbarkeit.",
+              "Die Kalksteine verlieren bei Nässe jeglichen Grip."
+            ],
+            "hu": [
+              "A jó fékek életfontosságúak a vizes macskakövön.",
+              "Kerülje el a legmeredekebb rövidítéseket esőben.",
+              "Viseljen élénk esőruházatot a jobb láthatóságért.",
+              "A mészkövek vizesen teljesen elveszítik a tapadásukat."
+            ],
+            "ro": [
+              "Frânele bune sunt vitale pe pavajul de piatră ud.",
+              "Evitați scurtăturile foarte abrupte pe timp de ploaie.",
+              "Purtați haine de ploaie reflectorizante pentru vizibilitate.",
+              "Pietrele de calcar devin extrem de glisante la umezeală."
+            ],
+            "en": [
+              "Good brakes are vital on the wet cobblestones.",
+              "Avoid the steepest shortcuts during heavy rain.",
+              "Wear bright rain gear for better visibility to cars.",
+              "Limestone cobbles lose all grip when wet."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter ist Gjirokastra ruhig und die Aussichten sind klar. Starten Sie bei den Brunnen im kühlen Schatten. Der Basar ist vormittags am sonnigsten. Der Tunnel bietet eine konstante, fast warme Temperatur im Vergleich zu draußen. Die Auffahrt zur Festung hält Sie warm, und oben bietet sich ein grandioses Panorama der verschneiten Berge. Beenden Sie die Tour am Obelisken, bevor es nach Sonnenuntergang empfindlich kalt wird.",
+            "hu": "Télen Gjirokastra csendes, a kilátás pedig kristálytiszta. Kezdje a forrásoknál a hűvös árnyékban. A bazár délelőtt a legnaposabb. Az alagút hőmérséklete állandó, szinte meleg a kintihez képest. A várba való feltekerés kimelegíti, fent pedig a havas hegyek látványa fogadja. Zárja a túrát az Obeliszknél, mielőtt a naplemente után hirtelen lehűlne az idő.",
+            "ro": "Iarna, Gjirokastra este liniștită, iar priveliștile sunt clare. Începeți la fântâni, la umbra răcoroasă. Bazarul este cel mai însorit dimineața. Tunelul oferă o temperatură constantă, aproape caldă față de exterior. Urcarea spre cetate vă va încălzi, iar sus aveți o panoramă superbă. Încheiați la Obelisc înainte de lăsarea frigului de după apus.",
+            "en": "In winter, Gjirokastra is quiet and the views are crystal clear. Start at the fountains in the cool shade. The Bazaar is sunniest in the morning. The tunnel offers a constant temperature, feeling almost warm compared to outside. The climb to the Fortress will keep you warm, and the top offers a grand snow-capped panorama. End at the Obelisk before it gets very cold after sunset."
+          },
+          "stops": [
+            {
+              "name": "Seven Fountains",
+              "tip_5lang": {
+                "de": "Das Wasser ist eiskalt, Vorsicht vor Spritzern.",
+                "hu": "A víz jéghideg, vigyázzon, hogy ne fröccsenjen rá.",
+                "ro": "Apa este rece ca gheața, evitați stropirea.",
+                "en": "The water is ice cold, avoid getting wet."
+              }
+            },
+            {
+              "name": "Old Bazaar",
+              "tip_5lang": {
+                "de": "Kurzer Halt für einen heißen Tee im Stehen.",
+                "hu": "Gyors megálló egy forró teára állva.",
+                "ro": "Oprire rapidă pentru un ceai fierbinte din mers.",
+                "en": "Quick stop for a hot tea to warm your hands."
+              }
+            },
+            {
+              "name": "Cold War Tunnel",
+              "tip_5lang": {
+                "de": "Die Temperatur im Inneren ist angenehm mild.",
+                "hu": "A belső hőmérséklet kellemesen enyhe télen.",
+                "ro": "Temperatura din interior este plăcut de blândă.",
+                "en": "The indoor temperature is surprisingly mild."
+              }
+            },
+            {
+              "name": "Gjirokastra Fortress",
+              "tip_5lang": {
+                "de": "Handschuhe sind für die Abfahrt unerlässlich.",
+                "hu": "A kesztyű elengedhetetlen a lefelé úthoz.",
+                "ro": "Mănușile sunt esențiale pentru coborâre.",
+                "en": "Gloves are essential for the cold descent."
+              }
+            },
+            {
+              "name": "Gjirokastra Obelisk",
+              "tip_5lang": {
+                "de": "Genießen Sie das Licht, bevor es schattig wird.",
+                "hu": "Élvezze a fényeket, mielőtt árnyékba borul a táj.",
+                "ro": "Bucurați-vă de lumină înainte de lăsarea umbrei.",
+                "en": "Enjoy the light before the valley falls into shadow."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Handschuhe für die schnellen Abfahrten.",
+              "Vorsicht vor Eis in schattigen Kurven der Oberstadt.",
+              "Der Reifendruck sollte für mehr Grip etwas niedriger sein.",
+              "Beleuchtung ist wichtig, da es früh dunkel wird."
+            ],
+            "hu": [
+              "Viseljen szélálló kesztyűt a gyors lejtmenetekhez.",
+              "Vigyázzon a jégre a felsőváros árnyékos kanyarjaiban.",
+              "A keréknyomás legyen kicsit alacsonyabb a jobb tapadásért.",
+              "A világítás fontos, mivel korán sötétedik."
+            ],
+            "ro": [
+              "Purtați mănuși rezistente la vânt pentru coborâri.",
+              "Atenție la gheață în curbele umbrite din orașul de sus.",
+              "Presiunea în pneuri trebuie să fie mai mică pentru aderență.",
+              "Luminile sunt obligatorii, se întunecă devreme."
+            ],
+            "en": [
+              "Wear windproof gloves for the fast descents.",
+              "Watch out for black ice in shaded upper town corners.",
+              "Lower your tire pressure slightly for better grip on stone.",
+              "Front and rear lights are vital as it gets dark early."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1002,6 +1366,188 @@
           "Parking can be challenging, especially in high season. Be patient.",
           "Check opening hours, as some sites close for lunch."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erreichen Sie die Highlights bequem bei jedem Wetter. Parken Sie direkt an der Festung, um den Aufstieg im Regen zu vermeiden. Vormittags erkunden Sie die Burg im Trockenen. Nachmittags fahren Sie zum Zekate-Haus und danach zum Basar-Parkplatz. Der Basar und das Ethnographische Museum sind nur wenige Schritte entfernt, sodass Sie kaum nass werden. Ein entspannter Tag trotz Wolkenbruch.",
+            "hu": "Autóval kényelmesen elérheti a látnivalókat bármilyen időben. Parkoljon közvetlenül a várnál, hogy elkerülje az ázást a felfelé úton. Délelőtt fedett helyen fedezheti fel a várkastélyt. Délután hajtson a Zekate-házhoz, majd a bazár parkolójába. A bazár és az Néprajzi Múzeum csak pár lépés, így alig éri eső. Pihentető nap a felhőszakadás ellenére is.",
+            "ro": "Cu mașina puteți ajunge confortabil la obiective pe orice vreme. Parcați chiar lângă cetate pentru a evita urcarea prin ploaie. Dimineața explorați castelul la adăpost. După-amiaza conduceți spre Casa Zekate, apoi spre parcarea din bazar. Bazarul și Muzeul de Etnografie sunt la câțiva pași, deci nu vă veți uda. O zi relaxantă în ciuda ploii.",
+            "en": "By car, you can reach all highlights comfortably in any weather. Park right at the Fortress to avoid the uphill walk in the rain. Spend the morning exploring the castle's interior. In the afternoon, drive to Zekate House and then to the Bazaar parking. The Bazaar and Ethnographic Museum are just steps away, so you'll stay mostly dry. A relaxed day despite the clouds."
+          },
+          "stops": [
+            {
+              "name": "Parking at the Fortress",
+              "tip_5lang": {
+                "de": "Am nächsten zum Eingang, minimiert Gehzeit im Regen.",
+                "hu": "Legközelebb a bejárathoz, minimalizálja az esőben járást.",
+                "ro": "Cea mai apropiată parcare, minimizează mersul prin ploaie.",
+                "en": "Closest to the entrance, minimizes walking in rain."
+              }
+            },
+            {
+              "name": "Gjirokastra Fortress",
+              "tip_5lang": {
+                "de": "Große Indoor-Bereiche mit Museum und Flugzeug.",
+                "hu": "Tágas fedett részek múzeummal és repülőgéppel.",
+                "ro": "Zone interioare mari cu muzeu și un avion.",
+                "en": "Large indoor areas featuring a museum and a plane."
+              }
+            },
+            {
+              "name": "Zekate House",
+              "tip_5lang": {
+                "de": "Parken Sie kurz davor für direkten Zugang.",
+                "hu": "Parkoljon közvetlenül előtte a bejutáshoz.",
+                "ro": "Parcați chiar în față pentru acces rapid.",
+                "en": "Park right in front for immediate indoor access."
+              }
+            },
+            {
+              "name": "Parking at the Bazaar",
+              "tip_5lang": {
+                "de": "Oft voll, versuchen Sie es frühzeitig.",
+                "hu": "Gyakran tele van, próbálkozzon időben.",
+                "ro": "Adesea plină, încercați să ajungeți devreme.",
+                "en": "Often full, try to arrive early for a spot."
+              }
+            },
+            {
+              "name": "Old Bazaar",
+              "tip_5lang": {
+                "de": "Viele Cafés zum Aufwärmen und Trocknen.",
+                "hu": "Sok kávézó a felmelegedéshez és száradáshoz.",
+                "ro": "Multe cafenele unde vă puteți încălzi și usca.",
+                "en": "Plenty of cafes to dry off and warm up."
+              }
+            },
+            {
+              "name": "Ethnographic Museum",
+              "tip_5lang": {
+                "de": "Ein kurzer, steiler Weg vom Parkplatz.",
+                "hu": "Rövid, meredek út a parkolótól.",
+                "ro": "Un drum scurt și abrupt de la parcare.",
+                "en": "A short, steep walk from the parking area."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die engen Kurven sind bei Nässe rutschig, fahren Sie vorsichtig.",
+              "Einige Parkplätze in der Oberstadt sind unbefestigt und matschig.",
+              "Nutzen Sie den Wagen als Trockenstation für Ihre Kleidung.",
+              "Achten Sie auf Fußgänger, die bei Regen oft unachtsam sind."
+            ],
+            "hu": [
+              "A szűk kanyarok vizesen csúszósak, vezessen óvatosan.",
+              "A felsővárosi parkolók egy része burkolatlan és sáros lehet.",
+              "Használja az autót ruhaszárításra a megállók között.",
+              "Figyeljen a gyalogosokra, akik esőben figyelmetlenebbek."
+            ],
+            "ro": [
+              "Curbele strâmte sunt alunecoase; conduceți cu prudență.",
+              "Unele parcări de sus pot fi neasfaltate și noroioase.",
+              "Folosiți mașina ca stație de uscare pentru haine.",
+              "Atenție la pietonii care pot fi mai neatenți pe ploaie."
+            ],
+            "en": [
+              "Narrow bends are slippery when wet; drive cautiously.",
+              "Some upper town parking spots can be unpaved and muddy.",
+              "Use your car as a drying station between stops.",
+              "Watch out for pedestrians who may be distracted by the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie Gjirokastra ohne die sommerliche Hitze. Mit dem Wagen gelangen Sie direkt zur Festung, wo der kalte Winterwind oben auf den Zinnen weht. Nach der Burgbesichtigung wärmt die Sitzheizung auf dem Weg zum Zekate-Haus. Parken Sie später am Basar und genießen Sie die gemütliche Atmosphäre der Stein-Gassen im Winterlicht. Das Ethnographische Museum bietet einen Einblick in das traditionelle Leben, bevor es früh dunkel wird.",
+            "hu": "Fedezze fel Gjirokastrát a nyári hőség nélkül. Autóval közvetlenül a várhoz hajthat, ahol a bástyákon fújó téli szél fogadja. A várnézés után jól esik az ülésfűtés a Zekate-ház felé vezető úton. Később parkoljon le a bazárnál, és élvezze a kőutcák hangulatos téli fényeit. A Néprajzi Múzeum betekintést nyújt a hagyományos életbe, mielőtt korán leszállna az éj.",
+            "ro": "Experimentați Gjirokastra fără căldura verii. Cu mașina ajungeți direct la cetate, unde vântul de iarnă bate tare pe bastioane. După vizită, încălzirea din scaune este binevenită în drum spre Casa Zekate. Parcați ulterior la bazar și savurați atmosfera ulițelor de piatră în lumina iernii. Muzeul de Etnografie oferă o privire în viața tradițională înainte de lăsarea serii.",
+            "en": "Experience Gjirokastra without the summer heat. Drive directly to the Fortress, where the cold winter wind blows on the ramparts. After your visit, enjoy the heated seats on the way to Zekate House. Later, park at the Bazaar and enjoy the cozy atmosphere of the stone alleys in the winter light. The Ethnographic Museum offers a glimpse into traditional life before the early sunset."
+          },
+          "stops": [
+            {
+              "name": "Parking at the Fortress",
+              "tip_5lang": {
+                "de": "Ideal, um den kalten Wind am Berg zu umgehen.",
+                "hu": "Ideális a hegyi hideg szél elkerülésére.",
+                "ro": "Ideal pentru a evita vântul rece de pe munte.",
+                "en": "Ideal to avoid the cold mountain wind on the climb."
+              }
+            },
+            {
+              "name": "Gjirokastra Fortress",
+              "tip_5lang": {
+                "de": "In den Tunneln ist es wärmer als auf den Zinnen.",
+                "hu": "Az alagutakban melegebb van, mint a bástyákon.",
+                "ro": "În tuneluri e mai cald decât pe bastioane.",
+                "en": "It is warmer inside the tunnels than on the ramparts."
+              }
+            },
+            {
+              "name": "Zekate House",
+              "tip_5lang": {
+                "de": "Ein imposanter Anblick vor den grauen Bergen.",
+                "hu": "Impozáns látvány a szürke hegyek előtt.",
+                "ro": "O priveliște impunătoare pe fundalul munților.",
+                "en": "An imposing sight against the grey winter mountains."
+              }
+            },
+            {
+              "name": "Parking at the Bazaar",
+              "tip_5lang": {
+                "de": "Kurze Wege zu den beheizten Cafés.",
+                "hu": "Rövid séta a fűtött kávézókig.",
+                "ro": "Drum scurt până la cafenelele încălzite.",
+                "en": "Short walk to the many heated cafes."
+              }
+            },
+            {
+              "name": "Old Bazaar",
+              "tip_5lang": {
+                "de": "Kaufen Sie handgemachte Wollsocken gegen die Kälte.",
+                "hu": "Vegyen kézzel kötött gyapjú zoknit a hideg ellen.",
+                "ro": "Cumpărați șosete de lână lucrate manual.",
+                "en": "Buy handmade wool socks to combat the chill."
+              }
+            },
+            {
+              "name": "Ethnographic Museum",
+              "tip_5lang": {
+                "de": "Besuchen Sie die traditionellen 'Winterzimmer'.",
+                "hu": "Látogassa meg a hagyományos 'téli szobákat'.",
+                "ro": "Vizitați camerele tradiționale de iarnă.",
+                "en": "Visit the traditional 'winter rooms' inside."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Raureif oder Eis in schattigen Kurven.",
+              "Die Batterie wird bei Kälte stärker belastet, prüfen Sie sie.",
+              "Nutzen Sie Parkplätze in der Sonne, um den Wagen warm zu halten.",
+              "Die Bergstraßen können bei Schneefall gesperrt sein."
+            ],
+            "hu": [
+              "Figyeljen a zúzmarára vagy jégre az árnyékos kanyarokban.",
+              "A hideg megterheli az akkumulátort, ellenőrizze.",
+              "Parkoljon napos helyen, hogy melegen tartsa az autót.",
+              "A hegyi utak havazás esetén lezárásra kerülhetnek."
+            ],
+            "ro": [
+              "Atenție la polei sau gheață în curbele umbrite.",
+              "Bateria este mai solicitată la frig; verificați-o.",
+              "Parcați la soare pentru a menține mașina caldă.",
+              "Drumurile montane pot fi închise în caz de ninsoare."
+            ],
+            "en": [
+              "Watch for frost or black ice in shaded corners.",
+              "Cold weather puts more strain on the battery; check it.",
+              "Park in sunny spots to keep the car cabin warm.",
+              "Mountain roads can be closed during heavy snowfall."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1334,6 +1880,188 @@
           "Buses can be infrequent, so plan for some buffer time.",
           "The walk downhill is much more pleasant than uphill!"
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie lokale Busse, um die steilen Wege im Regen abzukürzen. Der Bus bringt Sie nah an die Festung, wo Sie den Vormittag trocken verbringen. Mittags besichtigen Sie das Skenduli-Haus und das Néprajzi Museum – beide bieten guten Schutz. Der Basar ist das Herzstück für den Nachmittag, ideal für Pausen im Trockenen. Den Tag beschließt die St. Sotir Kirche, ein ruhiger Ort des Rückzugs vor dem Wetter.",
+            "hu": "Használja a helyi buszokat, hogy lerövidítse a meredek utakat az esőben. A busz közel visz a várhoz, ahol szárazon töltheti a délelőttöt. Délben a Skenduli-házat és a Néprajzi Múzeumot látogassa meg – mindkettő jó védelmet nyújt. A bazár a délutáni pihenők helyszíne. A napot a Szent Sotir templom zárja, amely csendes menedék az időjárás elől.",
+            "ro": "Folosiți autobuzele locale pentru a scurta drumurile abrupte pe ploaie. Autobuzul vă lasă aproape de cetate, unde petreceți dimineața la adăpost. La prânz, vizitați Casa Skenduli și Muzeul de Etnografie. Bazarul este inima după-amiezii, ideal pentru pauze uscate. Ziua se încheie la Biserica Sf. Sotir, un loc liniștit de retragere din calea ploii.",
+            "en": "Use local buses to shorten the steep climbs in the rain. The bus drops you near the Fortress, where you can spend the morning dry. At noon, visit Skenduli House and the Ethnographic Museum—both provide great shelter. The Bazaar is the heart of the afternoon, perfect for drying off in a cafe. End at St. Sotir Church, a peaceful spot to escape the weather."
+          },
+          "stops": [
+            {
+              "name": "Bus to the Fortress",
+              "tip_5lang": {
+                "de": "Sparen Sie sich den steilen Aufstieg im Regen.",
+                "hu": "Spórolja meg a meredek felfelé utat az esőben.",
+                "ro": "Scutiți urcarea abruptă prin ploaie.",
+                "en": "Save yourself the steep climb in the rain."
+              }
+            },
+            {
+              "name": "Gjirokastra Fortress",
+              "tip_5lang": {
+                "de": "Das Waffenmuseum ist komplett überdacht.",
+                "hu": "A fegyvermúzeum teljesen fedett.",
+                "ro": "Muzeul de arme este complet acoperit.",
+                "en": "The arms museum is completely covered."
+              }
+            },
+            {
+              "name": "Skenduli House",
+              "tip_5lang": {
+                "de": "Wunderschöne Innenräume, perfekt bei Regen.",
+                "hu": "Gyönyörű belső terek, tökéletes esőben.",
+                "ro": "Interioare superbe, perfecte pe timp de ploaie.",
+                "en": "Beautiful interiors, perfect for a rainy day."
+              }
+            },
+            {
+              "name": "Ethnographic Museum",
+              "tip_5lang": {
+                "de": "Viel zu sehen auf drei Etagen im Trockenen.",
+                "hu": "Sok látnivaló három emeleten, fedett helyen.",
+                "ro": "Multe de văzut pe trei etaje la adăpost.",
+                "en": "Plenty to see across three dry floors."
+              }
+            },
+            {
+              "name": "Old Bazaar",
+              "tip_5lang": {
+                "de": "Zentraler Ort für Taxis bei starkem Regen.",
+                "hu": "Központi hely taxikhoz erős eső esetén.",
+                "ro": "Loc central pentru taxiuri în caz de ploaie grea.",
+                "en": "Central spot to find a taxi if rain gets heavy."
+              }
+            },
+            {
+              "name": "St. Sotir Church",
+              "tip_5lang": {
+                "de": "Ein schlichter, trockener Ort der Stille.",
+                "hu": "Egyszerű, száraz és csendes hely.",
+                "ro": "Un loc simplu, uscat și liniștit.",
+                "en": "A simple, dry, and quiet place of peace."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse fahren unregelmäßig, fragen Sie Einheimische nach Zeiten.",
+              "Taxis sind eine günstige Alternative bei Starkregen.",
+              "Haltestellen haben oft kein Dach, bringen Sie einen Poncho mit.",
+              "Die Busse können bei Nässe beschlagene Scheiben haben."
+            ],
+            "hu": [
+              "A buszok rendszertelenek, kérdezze a helyieket a menetrendről.",
+              "A taxi olcsó alternatíva heves esőzés esetén.",
+              "A megállók gyakran fedetlenek, vigyen esőkabátot.",
+              "A buszok ablakai esőben gyakran bepárásodnak."
+            ],
+            "ro": [
+              "Autobuzele sunt neregulate; întrebați localnicii de orar.",
+              "Taxiurile sunt o alternativă ieftină pe ploaie torențială.",
+              "Stațiile nu au mereu acoperiș; aveți o pelerină.",
+              "Geamurile autobuzelor se pot aburi pe timp de ploaie."
+            ],
+            "en": [
+              "Buses are irregular; ask locals for current times.",
+              "Taxis are an affordable alternative during heavy rain.",
+              "Bus stops often lack shelters; bring a poncho.",
+              "Bus windows often fog up during rainy weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Entdecken Sie die winterliche Steinstadt mit öffentlichen Verkehrsmitteln. Der Bus bringt Sie hinauf zur kühlen Festung, wo der Blick über die verschneiten Täler am besten ist. Mittags wärmt ein kurzer Fußweg zum Skenduli-Haus und dem Museum. Der Basar lädt am Nachmittag zum Verweilen bei einem warmen Getränk ein. Den Tag beendet der Besuch der St. Sotir Kirche, bevor Sie mit dem Bus zurück in die beleuchtete Unterstadt fahren.",
+            "hu": "Fedezze fel a téli kővárost tömegközlekedéssel. A busz felviszi a hűvös várhoz, ahonnan a legjobb kilátás nyílik a havas völgyekre. Délben egy rövid séta a Skenduli-házhoz és a múzeumhoz jól esik a friss levegőn. A bazár délután meleg italokkal várja. A napot a Szent Sotir templom látogatása zárja, mielőtt busszal visszatérne a kivilágított alsóvárosba.",
+            "ro": "Descoperiți orașul de piatră iarna cu transportul public. Autobuzul vă urcă la cetate, de unde vedeți cel mai bine văile înzăpezite. La prânz, o scurtă plimbare spre Casa Skenduli vă va prinde bine. Bazarul vă așteaptă după-amiaza cu băuturi calde. Vizita la Biserica Sf. Sotir încheie ziua, înainte de a lua autobuzul spre orașul de jos.",
+            "en": "Discover the winter stone city using public transport. The bus takes you up to the cool Fortress, offering the best views of the snow-dusted valleys. At noon, a short walk to Skenduli House and the museum provides some fresh air. The Bazaar invites you for a warm drink in the afternoon. End with a visit to St. Sotir Church before taking the bus back to the lit-up lower town."
+          },
+          "stops": [
+            {
+              "name": "Bus to the Fortress",
+              "tip_5lang": {
+                "de": "Die Heizung im Bus ist im Winter sehr willkommen.",
+                "hu": "A busz fűtése télen nagyon jól jön.",
+                "ro": "Încălzirea din autobuz este binevenită iarna.",
+                "en": "Bus heating is very welcome during winter."
+              }
+            },
+            {
+              "name": "Gjirokastra Fortress",
+              "tip_5lang": {
+                "de": "Spektakuläre Sicht auf die schneebedeckten Gipfel.",
+                "hu": "Látványos kilátás a hófödte hegycsúcsokra.",
+                "ro": "Vedere spectaculoasă spre vârfurile înzăpezite.",
+                "en": "Spectacular views of the snow-capped peaks."
+              }
+            },
+            {
+              "name": "Skenduli House",
+              "tip_5lang": {
+                "de": "Bewundern Sie die dicken, isolierenden Mauern.",
+                "hu": "Csodálja meg a vastag, szigetelő falakat.",
+                "ro": "Admirați zidurile groase și izolante.",
+                "en": "Admire the thick, insulating stone walls."
+              }
+            },
+            {
+              "name": "Ethnographic Museum",
+              "tip_5lang": {
+                "de": "Erfahren Sie, wie man früher Wintervorräte anlegte.",
+                "hu": "Tudja meg, hogyan halmoztak fel téli készleteket régen.",
+                "ro": "Aflați cum se făceau proviziile de iarnă odinioară.",
+                "en": "Learn how winter supplies were historically stored."
+              }
+            },
+            {
+              "name": "Old Bazaar",
+              "tip_5lang": {
+                "de": "Der Basar ist im Winterlicht besonders fotogen.",
+                "hu": "A bazár a téli fényekben különösen fotogén.",
+                "ro": "Bazarul este foarte fotogen în lumina iernii.",
+                "en": "The Bazaar is very photogenic in winter light."
+              }
+            },
+            {
+              "name": "St. Sotir Church",
+              "tip_5lang": {
+                "de": "Besuchen Sie den Gottesdienst für lokale Kultur.",
+                "hu": "Látogasson el egy szertartásra a helyi kultúráért.",
+                "ro": "Vizitați biserica pentru cultura locală.",
+                "en": "Visit during a service for a local cultural experience."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse fahren im Winter seltener, planen Sie Wartezeiten ein.",
+              "Die letzte Verbindung talwärts ist oft gegen 18:00 Uhr.",
+              "Taxis sind im Winter zuverlässiger als Busse.",
+              "Tragen Sie warme Schuhe für die zugigen Bushaltestellen."
+            ],
+            "hu": [
+              "A buszok télen ritkábban járnak, számoljon várakozással.",
+              "Az utolsó járat lefelé gyakran 18:00 körül indul.",
+              "A taxi télen megbízhatóbb választás lehet a busznál.",
+              "Viseljen meleg cipőt a huzatos buszmegállók miatt."
+            ],
+            "ro": [
+              "Autobuzele circulă mai rar iarna; planificați timpul.",
+              "Ultima legătură spre vale este de obicei în jur de ora 18:00.",
+              "Taxiurile sunt mai de încredere decât autobuzele iarna.",
+              "Purtați încălțăminte călduroasă pentru așteptarea în stații."
+            ],
+            "en": [
+              "Buses run less frequently in winter; expect wait times.",
+              "The last connection downhill is usually around 18:00.",
+              "Taxis are often more reliable than buses in winter.",
+              "Wear warm boots for waiting at drafty bus stops."
+            ]
+          }
+        }
       }
     }
   }

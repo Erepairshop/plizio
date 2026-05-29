@@ -351,6 +351,206 @@
           "Leave enough time for the Balaton shoreline walk in the late afternoon.",
           "Don't miss the Marzipan Museum tucked away on a small side street."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt geschützt im prachtvollen Festetics-Schloss, wo die prunkvollen Säle den Regen vergessen lassen. Mittags führt ein kurzer Sprint durch die Fußgängerzone zum Puppenmuseum. Am Nachmittag bietet das Balaton-Museum tiefe Einblicke in die Geschichte, während man trocken bleibt. Der Tag endet mit einem kurzen, windigen Blick auf den aufgewühlten See am Inselbad.",
+            "hu": "A reggel védett helyen, a Festetics-kastély pazar termeiben indul, ahol az eső kopogása csak még hangulatosabbá teszi a könyvtárat. Délben egy gyors séta vezet a központba a Babamúzeumig. Délután a Balaton Múzeum kiállításai nyújtanak menedéket a zord idő elől. Az estét a móló melletti Szigetfürdő látványa zárja, ahol a viharos Balaton morajlása hallatszik.",
+            "ro": "Dimineața începe la adăpost în castelul Festetics, unde sălile somptuoase te fac să uiți de ploaie. La prânz, o scurtă fugă prin zona pietonală duce la Muzeul Păpușilor. După-amiaza, Muzeul Balaton oferă o incursiune în istorie, rămânând la uscat. Ziua se încheie cu o privire scurtă spre lacul agitat de la Baia Insulară, sub sunetul stropilor de ploaie.",
+            "en": "The morning starts sheltered in the magnificent Festetics Palace, where the grand halls make you forget the rain. At noon, a quick dash through the pedestrian zone leads to the Doll Museum. In the afternoon, the Balaton Museum provides deep historical insights while staying dry. The day ends with a brief, windy look at the turbulent lake by the Island Bath."
+          },
+          "stops": [
+            {
+              "name": "Schloss Festetics",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Haupteingang für trockenen Zugang zur Bibliothek.",
+                "hu": "Használja a főbejáratot a könyvtár száraz megközelítéséhez.",
+                "ro": "Folosiți intrarea principală pentru acces uscat la bibliotecă.",
+                "en": "Use the main entrance for dry access to the library."
+              }
+            },
+            {
+              "name": "Schlossgarten",
+              "tip_5lang": {
+                "de": "Unter den großen alten Bäumen findet man kurzzeitig Schutz vor Schauern.",
+                "hu": "A hatalmas öreg fák alatt rövid ideig menedéket találhat a zápor elől.",
+                "ro": "Sub copacii bătrâni și mari puteți găsi adăpost temporar de ploaie.",
+                "en": "Under the large old trees, you can find temporary shelter from showers."
+              }
+            },
+            {
+              "name": "Puppenmuseum",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um einen starken Regenguss gemütlich abzuwarten.",
+                "hu": "Ideális helyszín egy nagyobb felhőszakadás kényelmes kivárásához.",
+                "ro": "Un loc ideal pentru a aștepta confortabil trecerea unei ploi torențiale.",
+                "en": "An ideal place to comfortably wait out a heavy downpour."
+              }
+            },
+            {
+              "name": "Pfarrkirche St. Theresia",
+              "tip_5lang": {
+                "de": "Die Ruhe im Inneren bietet Schutz und spirituelle Einkehr.",
+                "hu": "A belső nyugalom védelmet és spirituális elmélyülést kínál.",
+                "ro": "Liniștea din interior oferă adăpost și reculegere spirituală.",
+                "en": "The inner peace offers shelter and spiritual reflection."
+              }
+            },
+            {
+              "name": "Balaton-Museum",
+              "tip_5lang": {
+                "de": "Planen Sie hier mehr Zeit ein, wenn es draußen dauerhaft regnet.",
+                "hu": "Tervezzen ide több időt, ha kint tartósan esik az eső.",
+                "ro": "Planificați mai mult timp aici dacă afară plouă continuu.",
+                "en": "Plan more time here if it is raining continuously outside."
+              }
+            },
+            {
+              "name": "Helikon-Park",
+              "tip_5lang": {
+                "de": "Der Pavillon bietet ein trockenes Plätzchen für ein schnelles Foto.",
+                "hu": "A pavilon száraz helyet kínál egy gyors fotó elkészítéséhez.",
+                "ro": "Pavilionul oferă un loc uscat pentru o fotografie rapidă.",
+                "en": "The pavilion offers a dry spot for a quick photo."
+              }
+            },
+            {
+              "name": "Inselbad",
+              "tip_5lang": {
+                "de": "Die Holzarchitektur wirkt bei Regen besonders melancholisch und schön.",
+                "hu": "A faépítészet esőben különösen melankolikus és szép látványt nyújt.",
+                "ro": "Arhitectura din lemn pare deosebit de melancolică și frumoasă pe ploaie.",
+                "en": "The wooden architecture looks particularly melancholic and beautiful in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da sich in der Unterstadt Pfützen bilden.",
+              "Die Museen liegen nah beieinander, ideal für kurze Sprints.",
+              "Nutzen Sie die Cafés in der Fußgängerzone als Zwischenstopp.",
+              "Ein stabiler Regenschirm ist wegen der Windböen vom See her ratsam."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert az alsóvárosban könnyen megáll a víz.",
+              "A múzeumok közel vannak egymáshoz, ideálisak a gyors átfutáshoz.",
+              "Használja a sétálóutca kávézóit pihenőhelyként.",
+              "A tavi szél miatt egy stabil esernyő ajánlott."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, deoarece se formează bălți în orașul de jos.",
+              "Muzeele sunt aproape unul de celălalt, ideale pentru deplasări scurte.",
+              "Folosiți cafenelele de pe strada pietonală ca puncte de oprire.",
+              "O umbrelă rezistentă este recomandată din cauza rafalelor de vânt de pe lac."
+            ],
+            "en": [
+              "Wear waterproof shoes as puddles form easily in the lower town.",
+              "Museums are close to each other, ideal for quick dashes.",
+              "Use the cafes in the pedestrian zone as stopovers.",
+              "A sturdy umbrella is advisable due to wind gusts from the lake."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen beginnt am Schloss, wo der Reif den Garten verzaubert. Die geheizten Räume der Museen sind im Winter ein Segen. Mittags wärmt man sich in der Nähe der Pfarrkirche auf. Der Nachmittag gehört der Balaton-Geschichte, bevor die frühe Dämmerung den See in blaues Licht taucht. Ein heißer Tee am Ufer beschließt den Tag, während der Helikon-Park im Winterschlaf liegt.",
+            "hu": "A deres reggel a kastélynál indul, ahol a zúzmara ékszerré változtatja a kertet. A fűtött múzeumi terek télen valóságos áldást jelentenek. Délben a plébániatemplom környékén melegedhetünk fel. A délután a Balaton történetéé, mielőtt a korai sötétedés kék fénybe vonná a tavat. Egy forró tea a parton zárja a napot, miközben a Helikon-park téli álmot alszik.",
+            "ro": "O dimineață geroasă începe la castel, unde bruma transformă grădina într-un loc magic. Sălile încălzite ale muzeelor sunt o binecuvântare iarna. La prânz, ne încălzim în apropierea bisericii parohiale. După-amiaza este dedicată istoriei lacului Balaton, înainte ca amurgul timpuriu să scalde lacul în lumină albastră. Un ceai fierbinte pe mal încheie ziua.",
+            "en": "A frosty morning begins at the palace, where hoarfrost enchants the garden. The heated museum rooms are a blessing in winter. At noon, warm up near the parish church. The afternoon is dedicated to Balaton history before the early twilight bathes the lake in blue light. A hot tea by the shore concludes the day while Helikon Park rests in winter sleep."
+          },
+          "stops": [
+            {
+              "name": "Schloss Festetics",
+              "tip_5lang": {
+                "de": "Die Innenräume sind hervorragend beheizt und bieten Komfort.",
+                "hu": "A belső terek kiválóan fűtöttek és kényelmesek.",
+                "ro": "Interioarele sunt excelent încălzite și oferă confort.",
+                "en": "The interiors are excellently heated and offer comfort."
+              }
+            },
+            {
+              "name": "Schlossgarten",
+              "tip_5lang": {
+                "de": "Achten Sie auf glatte Wege, wenn der Brunnen gefroren ist.",
+                "hu": "Ügyeljen a csúszós utakra, ha a szökőkút befagyott.",
+                "ro": "Atenție la aleile alunecoase dacă fântâna este înghețată.",
+                "en": "Watch out for slippery paths if the fountain is frozen."
+              }
+            },
+            {
+              "name": "Puppenmuseum",
+              "tip_5lang": {
+                "de": "Ein gemütlicher Rückzugsort vor dem kalten Winterwind.",
+                "hu": "Barátságos menedék a hideg téli szél elől.",
+                "ro": "Un refugiu primitor ferit de vântul rece de iarnă.",
+                "en": "A cozy retreat from the cold winter wind."
+              }
+            },
+            {
+              "name": "Pfarrkirche St. Theresia",
+              "tip_5lang": {
+                "de": "Oft finden hier im Advent stimmungsvolle Konzerte statt.",
+                "hu": "Advent idején gyakran tartanak itt hangulatos koncerteket.",
+                "ro": "În perioada adventului au loc adesea concerte pline de atmosferă.",
+                "en": "Atmospheric concerts often take place here during Advent."
+              }
+            },
+            {
+              "name": "Balaton-Museum",
+              "tip_5lang": {
+                "de": "Perfekt für den späten Nachmittag, wenn es draußen bereits dunkel wird.",
+                "hu": "Tökéletes késő délutánra, amikor kint már sötétedik.",
+                "ro": "Perfect pentru după-amiaza târzie, când afară deja se întunecă.",
+                "en": "Perfect for late afternoon when it is already getting dark outside."
+              }
+            },
+            {
+              "name": "Helikon-Park",
+              "tip_5lang": {
+                "de": "Die kahlen Bäume geben den Blick auf das Denkmal frei.",
+                "hu": "A kopasz fák között jobban érvényesül az emlékmű látványa.",
+                "ro": "Copacii golași lasă să se vadă mai bine monumentul.",
+                "en": "The bare trees allow a clearer view of the monument."
+              }
+            },
+            {
+              "name": "Inselbad",
+              "tip_5lang": {
+                "de": "Die beleuchtete Steganlage wirkt im Winter besonders festlich.",
+                "hu": "A kivilágított móló télen különösen ünnepi hangulatot áraszt.",
+                "ro": "Pilonii iluminați par deosebit de festivi în timpul iernii.",
+                "en": "The illuminated pier looks particularly festive in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Dezember bereits gegen 16:00 Uhr unter.",
+              "Tragen Sie warme Handschuhe für den Spaziergang am Seeufer.",
+              "In der Innenstadt gibt es oft Stände mit Glühwein und Tee.",
+              "Einige Museen haben im Winter verkürzte Öffnungszeiten."
+            ],
+            "hu": [
+              "A nap decemberben már 16:00 óra körül lemegy.",
+              "Viseljen meleg kesztyűt a tóparti sétához.",
+              "A belvárosban gyakran találhatók forralt boros és teás bódék.",
+              "Néhány múzeum télen rövidített nyitvatartással üzemel."
+            ],
+            "ro": [
+              "Soarele apune deja în jur de ora 16:00 în decembrie.",
+              "Purtați mănuși groase pentru plimbarea pe malul lacului.",
+              "În centrul orașului există adesea standuri cu vin fiert și ceai.",
+              "Unele muzee au program redus în timpul iernii."
+            ],
+            "en": [
+              "The sun sets as early as 16:00 in December.",
+              "Wear warm gloves for the walk along the lakeshore.",
+              "There are often stalls with mulled wine and tea in the city center.",
+              "Some museums have shortened opening hours in winter."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -696,6 +896,206 @@
           "Always lock your bike securely when visiting the museums.",
           "The route to the adventure park is mostly flat and well-paved."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen bietet die Tour am Seeufer eine besondere Frische. Der Vormittag am Inselbad ist ruhig, bevor man zum Balaton-Museum radelt, um trocken zu werden. Mittags geht es zur Kirche und zum Cadillac-Museum, wo glänzende Autos vom Wetter ablenken. Der Nachmittag endet beim Festetics-Schloss, dessen weiße Fassade im Regen glänzt, gefolgt von einem vorsichtigen Weg zum Erlebnispark.",
+            "hu": "Az eső ellenére a tóparti tekerés különleges frissességet ad. A délelőtt a Szigetfürdőnél csendes, mielőtt a Balaton Múzeumba hajtanánk száradni. Délben a templom és a Cadillac Múzeum következik, ahol a csillogó autók elterelik a figyelmet az időjárásról. A délután a kastélynál zárul, majd óvatos tekerés vezet az élményparkig.",
+            "ro": "În ciuda ploii, turul pe malul lacului oferă o prospețime deosebită. Dimineața la Baia Insulară este liniștită, înainte de a pedala spre Muzeul Balaton pentru a ne usca. La prânz mergem la biserică și la Muzeul Cadillac. După-amiaza se încheie la castelul Festetics, urmată de un drum prudent spre parcul de aventură.",
+            "en": "Despite the rain, the tour along the lakeshore offers a special freshness. The morning at the Island Bath is quiet before cycling to the Balaton Museum to get dry. At noon, visit the church and the Cadillac Museum, where shiny cars distract from the weather. The afternoon ends at Festetics Palace, followed by a cautious ride to the adventure park."
+          },
+          "stops": [
+            {
+              "name": "Inselbad",
+              "tip_5lang": {
+                "de": "Vorsicht auf den nassen Holzstegen mit dem Fahrrad.",
+                "hu": "Vigyázzon a kerékpárral a nedves fapallókon.",
+                "ro": "Atenție cu bicicleta pe pontoanele de lemn umede.",
+                "en": "Be careful with your bike on the wet wooden walkways."
+              }
+            },
+            {
+              "name": "Helikon-Park",
+              "tip_5lang": {
+                "de": "Die asphaltierten Wege sind auch bei Regen gut befahrbar.",
+                "hu": "Az aszfaltozott utak esőben is jól tekerhetőek.",
+                "ro": "Aleile asfaltate sunt ușor de parcurs chiar și pe ploaie.",
+                "en": "The paved paths are easily rideable even in the rain."
+              }
+            },
+            {
+              "name": "Balaton-Museum",
+              "tip_5lang": {
+                "de": "Überdachte Fahrradständer befinden sich in der Nähe des Eingangs.",
+                "hu": "Fedett kerékpártárolók találhatók a bejárat közelében.",
+                "ro": "Suporturile acoperite pentru biciclete se află lângă intrare.",
+                "en": "Covered bike racks are located near the entrance."
+              }
+            },
+            {
+              "name": "Pfarrkirche St. Theresia",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp für eine kurze Regenpause im Inneren.",
+                "hu": "Használja ki a megállót egy rövid esőszünetre bent.",
+                "ro": "Folosiți oprirea pentru o scurtă pauză de ploaie în interior.",
+                "en": "Use the stop for a short rain break inside."
+              }
+            },
+            {
+              "name": "Cadillac-Museum",
+              "tip_5lang": {
+                "de": "Ideal, um die Fahrradausrüstung kurz abtropfen zu lassen.",
+                "hu": "Ideális a kerékpáros felszerelés rövid lecsöpögtetésére.",
+                "ro": "Ideal pentru a lăsa echipamentul de ciclism să se usuce puțin.",
+                "en": "Ideal to let your cycling gear drip dry for a bit."
+              }
+            },
+            {
+              "name": "Schloss Festetics",
+              "tip_5lang": {
+                "de": "Der Schlossplatz kann bei Nässe rutschig sein.",
+                "hu": "A kastély előtti tér nedvesen csúszós lehet.",
+                "ro": "Piața castelului poate fi alunecoasă când este udă.",
+                "en": "The palace square can be slippery when wet."
+              }
+            },
+            {
+              "name": "Festetics-Imre-Erlebnispark",
+              "tip_5lang": {
+                "de": "Die Waldwege können matschig sein, fahren Sie langsam.",
+                "hu": "Az erdei utak sárosak lehetnek, hajtson lassan.",
+                "ro": "Potecile din pădure pot fi noroioase, mergeți încet.",
+                "en": "The forest paths can be muddy, ride slowly."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Verwenden Sie Schutzbleche, um Schlammspritzer zu vermeiden.",
+              "Bremstests auf nassem Asphalt sind vor Fahrtbeginn ratsam.",
+              "Tragen Sie helle, reflektierende Regenbekleidung.",
+              "Die Sicht am Radweg kann durch Gischt eingeschränkt sein."
+            ],
+            "hu": [
+              "Használjon sárvédőt a sárfelverődés elkerülése érdekében.",
+              "Indulás előtt érdemes fékpróbát tartani a vizes aszfalton.",
+              "Viseljen világos, fényvisszaverő esőruházatot.",
+              "A kerékpárúton a pára korlátozhatja a látási viszonyokat."
+            ],
+            "ro": [
+              "Folosiți apărători de noroi pentru a evita stropirea.",
+              "Testați frânele pe asfalt ud înainte de a porni la drum.",
+              "Purtați haine de ploaie reflectorizante și deschise la culoare.",
+              "Vizibilitatea pe pista de biciclete poate fi redusă de burniță."
+            ],
+            "en": [
+              "Use mudguards to avoid mud splashes.",
+              "Brake tests on wet asphalt are advisable before starting.",
+              "Wear bright, reflective rain gear.",
+              "Visibility on the bike path can be limited by spray."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Radtour erfordert warme Kleidung gegen den kalten Fahrtwind. Morgens am Seeufer ist die Luft klirrend rein. Nach Besuchen im Balaton-Museum und der Kirche bietet das Cadillac-Museum Wärme. Der Nachmittag am Schloss ist kurz, da das Licht schnell schwindet. Die Tour endet am Erlebnispark, wo die Tiere im Winterpelz zu sehen sind, bevor es in der Dunkelheit zurückgeht.",
+            "hu": "A téli biciklitúra meleg ruházatot igényel a hideg menetszél ellen. Reggel a tóparton a levegő kristálytiszta. A Balaton Múzeum és a templom után a Cadillac Múzeum ad meleget. A délután a kastélynál rövid, mert a fény hamar elfogy. A túra az élményparknál zárul, ahol téli bundás állatokat láthatunk, mielőtt sötétben indulnánk vissza.",
+            "ro": "Un tur cu bicicleta pe timp de iarnă necesită haine groase împotriva vântului rece. Dimineața pe malul lacului aerul este extrem de curat. După vizitarea muzeului și a bisericii, Muzeul Cadillac oferă căldură. După-amiaza la castel este scurtă, lumina dispărând repede. Turul se încheie la parcul de aventură.",
+            "en": "A winter bike tour requires warm clothing against the cold wind. In the morning by the lakeshore, the air is crisp and pure. After visits to the Balaton Museum and the church, the Cadillac Museum offers warmth. The afternoon at the palace is short as the light fades quickly. The tour ends at the adventure park before returning in the dark."
+          },
+          "stops": [
+            {
+              "name": "Inselbad",
+              "tip_5lang": {
+                "de": "Warme Handschuhe sind für die Fahrt am windigen Ufer ein Muss.",
+                "hu": "A szeles parton való tekeréshez kötelező a meleg kesztyű.",
+                "ro": "Mănușile groase sunt obligatorii pentru drumul pe malul vântos.",
+                "en": "Warm gloves are a must for the ride along the windy shore."
+              }
+            },
+            {
+              "name": "Helikon-Park",
+              "tip_5lang": {
+                "de": "Vorsicht vor Laub unter dem Reif, es kann sehr glatt sein.",
+                "hu": "Vigyázzon a zúzmarás levelekkel, nagyon csúszósak lehetnek.",
+                "ro": "Atenție la frunzele de sub brumă, pot fi foarte alunecoase.",
+                "en": "Beware of leaves under the frost, it can be very slippery."
+              }
+            },
+            {
+              "name": "Balaton-Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp, um die eingefrorenen Finger aufzuwärmen.",
+                "hu": "Használja ki a megállót az átfagyott ujjak felmelegítésére.",
+                "ro": "Folosiți oprirea pentru a vă încălzi degetele înghețate.",
+                "en": "Use the stop to warm up frozen fingers."
+              }
+            },
+            {
+              "name": "Pfarrkirche St. Theresia",
+              "tip_5lang": {
+                "de": "Das Fahrradschloss kann bei Frost klemmen, ein Spray hilft.",
+                "hu": "A kerékpárzár fagyban beszorulhat, egy spray segíthet.",
+                "ro": "Antifurtul se poate bloca la ger, un spray este util.",
+                "en": "The bike lock can jam in frost; a spray helps."
+              }
+            },
+            {
+              "name": "Cadillac-Museum",
+              "tip_5lang": {
+                "de": "Ein langer Aufenthalt hier hilft, die Körperwärme zu speichern.",
+                "hu": "Egy hosszabb itt-tartózkodás segít a testhő megőrzésében.",
+                "ro": "O ședere lungă aici ajută la menținerea căldurii corporale.",
+                "en": "A long stay here helps retain body heat."
+              }
+            },
+            {
+              "name": "Schloss Festetics",
+              "tip_5lang": {
+                "de": "Der Schlosspark wirkt bei Frost wie aus einem Märchen.",
+                "hu": "A kastélypark fagyban olyan, mint egy tündérmese.",
+                "ro": "Parcul castelului pare desprins dintr-un basm pe timp de ger.",
+                "en": "The palace park looks like something out of a fairy tale in the frost."
+              }
+            },
+            {
+              "name": "Festetics-Imre-Erlebnispark",
+              "tip_5lang": {
+                "de": "Achten Sie auf gefrorene Pfützen auf den unbefestigten Wegen.",
+                "hu": "Ügyeljen a befagyott tócsákra a nem aszfaltozott utakon.",
+                "ro": "Atenție la bălțile înghețate de pe drumurile neasfaltate.",
+                "en": "Watch out for frozen puddles on unpaved paths."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Überprüfen Sie die Akkulaufzeit der Beleuchtung bei Kälte.",
+              "Kaltes Metall am Lenker entzieht den Händen schnell Wärme.",
+              "Fahren Sie defensiv, da Autofahrer mit Radlern im Winter kaum rechnen.",
+              "Warme Socken und Thermounterwäsche sind dringend empfohlen."
+            ],
+            "hu": [
+              "Ellenőrizze a világítás akkumulátorát a hidegben.",
+              "A kormány hideg féme hamar kiszívja a meleget a kezéből.",
+              "Hajtson óvatosan, mert az autósok télen nem számítanak biciklisekre.",
+              "Meleg zokni és hőtartó aláöltözet erősen ajánlott."
+            ],
+            "ro": [
+              "Verificați durata bateriei luminilor la temperaturi scăzute.",
+              "Metalul rece al ghidonului extrage repede căldura din mâini.",
+              "Mergeți defensiv, șoferii nu se așteaptă la bicicliști iarna.",
+              "Șosetele groase și lenjeria termică sunt recomandate călduros."
+            ],
+            "en": [
+              "Check the battery life of your lights in the cold.",
+              "Cold metal on the handlebars quickly drains heat from your hands.",
+              "Ride defensively as drivers hardly expect cyclists in winter.",
+              "Warm socks and thermal underwear are highly recommended."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1041,6 +1441,206 @@
           "There are large dedicated parking lots at the lakefront during summer.",
           "The adventure park is perfectly situated for a stop before driving onward."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto sind die Regenschauer in Keszthely kein Hindernis. Das Festetics-Schloss bietet direkt am Eingang Parkmöglichkeiten. Mittags springt man kurz ins Puppenmuseum und fährt dann direkt zum Balaton-Museum vor. Der Nachmittag am Seeufer lässt sich trocken aus dem Wagen genießen, bevor man zum Erlebnispark weiterfährt, wo man auch bei Regen die Natur nah erleben kann.",
+            "hu": "Autóval az esőzés Keszthelyen nem akadály. A Festetics-kastély bejárata közelében jó parkolási lehetőségek vannak. Délben egy gyors ugrás a Babamúzeumba, majd irány a Balaton Múzeum. A tópart délutáni látványa a száraz autóból is élvezhető, mielőtt továbbindulnánk az élményparkba, ahol esőben is közel érezhetjük a természetet.",
+            "ro": "Cu mașina, ploile din Keszthely nu sunt un obstacol. Castelul Festetics oferă locuri de parcare chiar lângă intrare. La prânz, o scurtă vizită la Muzeul Păpușilor, apoi mergem direct la Muzeul Balaton. Malul lacului poate fi admirat la uscat din mașină, înainte de a continua spre parcul de aventură.",
+            "en": "By car, the rain showers in Keszthely are no obstacle. Festetics Palace offers parking right by the entrance. At noon, a quick hop to the Doll Museum, then drive straight to the Balaton Museum. The afternoon lakeshore view can be enjoyed dry from the car before moving on to the adventure park."
+          },
+          "stops": [
+            {
+              "name": "Schloss Festetics",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz direkt vor dem Schlosstor.",
+                "hu": "Használja a közvetlenül a kastélykapu előtti parkolót.",
+                "ro": "Folosiți parcarea direct din fața porții castelului.",
+                "en": "Use the parking lot directly in front of the palace gate."
+              }
+            },
+            {
+              "name": "Schlossgarten",
+              "tip_5lang": {
+                "de": "Vom Auto aus hat man einen guten Blick auf die Gartenfront.",
+                "hu": "Az autóból is jó kilátás nyílik a kert felőli homlokzatra.",
+                "ro": "Din mașină aveți o vedere bună asupra fațadei dinspre grădină.",
+                "en": "You have a good view of the garden front from the car."
+              }
+            },
+            {
+              "name": "Puppenmuseum",
+              "tip_5lang": {
+                "de": "Parken Sie in der nahen Tiefgarage, um trocken zu bleiben.",
+                "hu": "Parkoljon a közeli mélygarázsban, hogy száraz maradjon.",
+                "ro": "Parcați în parcarea subterană apropiată pentru a rămâne uscat.",
+                "en": "Park in the nearby underground garage to stay dry."
+              }
+            },
+            {
+              "name": "Balaton-Museum",
+              "tip_5lang": {
+                "de": "Gleich gegenüber gibt es meist freie, stadtnahe Parkplätze.",
+                "hu": "Közvetlenül szemben általában vannak szabad városközponti parkolók.",
+                "ro": "Chiar vizavi se găsesc de obicei locuri de parcare libere.",
+                "en": "Directly opposite, there are usually free parking spots near the center."
+              }
+            },
+            {
+              "name": "Helikon-Park",
+              "tip_5lang": {
+                "de": "Fahren Sie langsam durch die Alleen am Parkrand.",
+                "hu": "Hajtson lassan a park szélén futó fasorok mentén.",
+                "ro": "Conduceți încet prin aleile de la marginea parcului.",
+                "en": "Drive slowly through the avenues at the edge of the park."
+              }
+            },
+            {
+              "name": "Inselbad",
+              "tip_5lang": {
+                "de": "Der große Parkplatz am Ufer ist bei Regen oft fast leer.",
+                "hu": "A nagy tóparti parkoló esőben gyakran szinte üres.",
+                "ro": "Parcarea mare de pe mal este adesea aproape goală pe ploaie.",
+                "en": "The large lakeshore parking lot is often almost empty in the rain."
+              }
+            },
+            {
+              "name": "Festetics-Imre-Erlebnispark",
+              "tip_5lang": {
+                "de": "Die Zufahrt kann bei starkem Regen etwas rutschig sein.",
+                "hu": "A behajtó út heves esőzéskor kissé csúszós lehet.",
+                "ro": "Drumul de acces poate fi puțin alunecos în caz de ploaie torențială.",
+                "en": "The access road can be a bit slippery during heavy rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Fußgänger, die schnell über die Straße rennen.",
+              "Beschlagene Scheiben lassen sich mit der Klimaanlage schnell klären.",
+              "Parkgebühren können oft bequem per App bezahlt werden.",
+              "Die Sichtweite kann bei starkem Regen stark eingeschränkt sein."
+            ],
+            "hu": [
+              "Figyeljen a gyalogosokra, akik hirtelen átfuthatnak az úton.",
+              "A párás szélvédőt a klímával gyorsan le lehet fúvatni.",
+              "A parkolási díjat gyakran kényelmesen, applikációval is fizetheti.",
+              "Heves esőben a látótávolság jelentősen lecsökkenhet."
+            ],
+            "ro": [
+              "Atenție la pietonii care traversează strada în fugă.",
+              "Geamurile aburite pot fi curățate rapid cu aerul condiționat.",
+              "Taxele de parcare pot fi plătite adesea convenabil prin aplicație.",
+              "Vizibilitatea poate fi redusă semnificativ în caz de ploaie puternică."
+            ],
+            "en": [
+              "Watch out for pedestrians running across the street.",
+              "Foggy windows can be cleared quickly with the air conditioning.",
+              "Parking fees can often be paid conveniently via app.",
+              "Visibility can be severely limited during heavy rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterkomfort bietet die Fahrt durch das verschneite Keszthely. Das beheizte Auto ist die perfekte Basis für Besuche im Schloss und den Museen. Mittags lässt man den Wagen in der warmen Garage und erkundet die Innenstadt zu Fuß. Nachmittags fährt man zum Balaton-Ufer, um das Eis zu bestaunen, bevor es zum Erlebnispark geht, wo der Tag bei Einbruch der Dunkelheit endet.",
+            "hu": "A téli kényelmet az autó adja a havas Keszthelyen. A fűtött kocsi tökéletes bázis a kastély és a múzeumok meglátogatásához. Délben hagyja az autót a meleg garázsban, és fedezze fel a belvárost gyalog. Délután hajtson le a Balaton-partra megcsodálni a jeget, majd irány az élménypark, ahol a nap sötétedéskor ér véget.",
+            "ro": "Confortul de iarnă este oferit de drumul prin Keszthely-ul înzăpezit. Mașina încălzită este baza perfectă pentru vizitarea castelului și a muzeelor. La prânz lăsați mașina în garajul cald și explorați centrul pe jos. După-amiaza mergeți pe malul lacului, înainte de a merge la parcul de aventură.",
+            "en": "Winter comfort is provided by driving through snowy Keszthely. The heated car is the perfect base for visiting the palace and museums. At noon, leave the car in the warm garage and explore the city center on foot. In the afternoon, drive to the Balaton shore to marvel at the ice before heading to the adventure park."
+          },
+          "stops": [
+            {
+              "name": "Schloss Festetics",
+              "tip_5lang": {
+                "de": "Vorsicht beim Einparken auf schneebedeckten Flächen.",
+                "hu": "Vigyázzon a parkolásnál a hóval borított felületeken.",
+                "ro": "Atenție la parcare pe suprafețele acoperite cu zăpadă.",
+                "en": "Be careful when parking on snow-covered surfaces."
+              }
+            },
+            {
+              "name": "Schlossgarten",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Winterlandschaft bei laufender Heizung.",
+                "hu": "Élvezze a téli táj látványát járó fűtés mellett.",
+                "ro": "Bucurați-vă de peisajul de iarnă cu încălzirea pornită.",
+                "en": "Enjoy the view of the winter landscape with the heater running."
+              }
+            },
+            {
+              "name": "Puppenmuseum",
+              "tip_5lang": {
+                "de": "Die kurzen Wege vom Parkplatz zum Museum minimieren die Kälte.",
+                "hu": "A parkolótól a múzeumig tartó rövid út minimalizálja a hideget.",
+                "ro": "Drumul scurt de la parcare la muzeu minimizează expunerea la frig.",
+                "en": "The short distance from the parking lot to the museum minimizes the cold."
+              }
+            },
+            {
+              "name": "Balaton-Museum",
+              "tip_5lang": {
+                "de": "Schattenparkplätze meiden, damit die Scheiben nicht einfrieren.",
+                "hu": "Kerülje az árnyékos parkolókat, hogy ne fagyjanak be az ablakok.",
+                "ro": "Evitați locurile de parcare umbrite pentru a preveni înghețarea geamurilor.",
+                "en": "Avoid shaded parking spots to prevent windows from freezing."
+              }
+            },
+            {
+              "name": "Helikon-Park",
+              "tip_5lang": {
+                "de": "Die Parkbuchten können durch Schneepflüge blockiert sein.",
+                "hu": "A parkolóöblöket elzárhatják a hókotrók.",
+                "ro": "Locurile de parcare pot fi blocate de plugurile de zăpadă.",
+                "en": "Parking bays may be blocked by snowplows."
+              }
+            },
+            {
+              "name": "Inselbad",
+              "tip_5lang": {
+                "de": "Besonders stimmungsvoll in der blauen Stunde vom Auto aus.",
+                "hu": "Különösen hangulatos az autóból a kék óra idején.",
+                "ro": "Deosebit de pitoresc din mașină în timpul orei albastre.",
+                "en": "Particularly atmospheric from the car during the blue hour."
+              }
+            },
+            {
+              "name": "Festetics-Imre-Erlebnispark",
+              "tip_5lang": {
+                "de": "Winterreifen sind für die leicht ansteigende Zufahrt nötig.",
+                "hu": "A kissé emelkedő bekötőúthoz téli gumi szükséges.",
+                "ro": "Anvelopele de iarnă sunt necesare pentru accesul ușor în pantă.",
+                "en": "Winter tires are necessary for the slightly sloping access road."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Halten Sie einen Eiskratzer und Frostschutz bereit.",
+              "Die Parkplatzsuche ist im Winter meist viel entspannter.",
+              "Vermeiden Sie hektische Lenkbewegungen bei Glätte.",
+              "Achten Sie auf die kürzeren Tageslichtphasen bei der Planung."
+            ],
+            "hu": [
+              "Legyen kéznél jégkaparó és fagyálló folyadék.",
+              "A parkolóhely-keresés télen általában sokkal nyugodtabb.",
+              "Kerülje a hirtelen kormánymozdulatokat csúszós úton.",
+              "A tervezésnél vegye figyelembe a rövidebb nappalokat."
+            ],
+            "ro": [
+              "Aveți la îndemână o racletă și lichid antigel.",
+              "Căutarea locului de parcare este mult mai relaxată iarna.",
+              "Evitați manevrele bruște de volan pe carosabil alunecos.",
+              "Țineți cont de durata scurtă a luminii naturale în planificare."
+            ],
+            "en": [
+              "Keep an ice scraper and antifreeze ready.",
+              "Finding a parking spot is usually much more relaxed in winter.",
+              "Avoid sudden steering movements on slippery roads.",
+              "Consider the shorter daylight hours when planning."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1386,6 +1986,206 @@
           "Buses run more frequently in the summer than in the off-season.",
           "The paths through the parks are very well maintained for pedestrians."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Buslinien in Keszthely sind bei Regen eine trockene Alternative. Morgens bringt Sie der Bus direkt zum Schlosstor. Nach dem Gartenbesuch geht es mit dem Nahverkehr zur Kirche und zum Cadillac-Museum. Mittags und nachmittags bieten die Museen Schutz, während die Busse Sie zwischen den Stationen trocken halten. Der Tag endet am Ufer, wo der Bus direkt am Inselbad hält.",
+            "hu": "A keszthelyi buszjáratok esőben száraz alternatívát kínálnak. Reggel a busz közvetlenül a kastélykapuhoz viszi. A kert után a tömegközlekedés segít eljutni a templomhoz és a Cadillac Múzeumhoz. Délben és délután a múzeumok adnak menedéket, míg a buszok szárazon tartanak a megállók között. A nap a parton zárul, ahol a busz a Szigetfürdőnél áll meg.",
+            "ro": "Liniile de autobuz din Keszthely sunt o alternativă uscată pe ploaie. Dimineața, autobuzul vă duce direct la poarta castelului. După vizitarea grădinii, transportul local vă ajută să ajungeți la biserică și la muzeu. Ziua se încheie la malul lacului, unde autobuzul oprește chiar lângă Baia Insulară.",
+            "en": "Keszthely bus lines are a dry alternative in the rain. In the morning, the bus takes you directly to the palace gate. After the garden visit, public transport helps you reach the church and the Cadillac Museum. At noon and in the afternoon, museums provide shelter while buses keep you dry between stops. The day ends at the shore where the bus stops right at the Island Bath."
+          },
+          "stops": [
+            {
+              "name": "Schloss Festetics",
+              "tip_5lang": {
+                "de": "Die Haltestelle 'Schloss' befindet sich nur wenige Meter vom Eingang.",
+                "hu": "A 'Kastély' megálló mindössze pár méterre van a bejárattól.",
+                "ro": "Stația „Castel” se află la doar câțiva metri de intrare.",
+                "en": "The 'Palace' stop is located just a few meters from the entrance."
+              }
+            },
+            {
+              "name": "Schlossgarten",
+              "tip_5lang": {
+                "de": "Warten Sie den nächsten Bus im überdachten Wartehäuschen ab.",
+                "hu": "Várja meg a következő buszt a fedett váróban.",
+                "ro": "Așteptați următorul autobuz în refugiul acoperit din stație.",
+                "en": "Wait for the next bus in the covered bus shelter."
+              }
+            },
+            {
+              "name": "Pfarrkirche St. Theresia",
+              "tip_5lang": {
+                "de": "Der Bus hält am zentralen Platz, fast direkt vor der Kirche.",
+                "hu": "A busz a központi téren áll meg, szinte közvetlenül a templom előtt.",
+                "ro": "Autobuzul oprește în piața centrală, aproape în fața bisericii.",
+                "en": "The bus stops at the central square, almost directly in front of the church."
+              }
+            },
+            {
+              "name": "Cadillac-Museum",
+              "tip_5lang": {
+                "de": "Ein kurzer Fußweg von der Haltestelle 'Zentrum' führt hierher.",
+                "hu": "A 'Központ' megállótól egy rövid séta vezet ide.",
+                "ro": "O scurtă plimbare de la stația „Centru” vă aduce aici.",
+                "en": "A short walk from the 'Center' stop leads here."
+              }
+            },
+            {
+              "name": "Balaton-Museum",
+              "tip_5lang": {
+                "de": "Der Busbahnhof ist nah, was viele Umsteigemöglichkeiten bietet.",
+                "hu": "Az autóbusz-állomás közel van, ami sok átszállási lehetőséget ad.",
+                "ro": "Autogara este aproape, oferind multe posibilități de transfer.",
+                "en": "The bus station is nearby, providing many transfer options."
+              }
+            },
+            {
+              "name": "Helikon-Park",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Linie, die entlang der Parkallee verkehrt.",
+                "hu": "Használja azt a járatot, amely a park melletti fasoron közlekedik.",
+                "ro": "Folosiți linia care circulă de-a lungul aleii parcului.",
+                "en": "Use the line that runs along the park avenue."
+              }
+            },
+            {
+              "name": "Inselbad",
+              "tip_5lang": {
+                "de": "Die Endstation vieler Linien ist direkt am Bahnhof beim Ufer.",
+                "hu": "Sok járat végállomása közvetlenül a vasútállomásnál, a parton van.",
+                "ro": "Capătul multor linii este chiar la gară, lângă mal.",
+                "en": "The terminus of many lines is right at the train station by the shore."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie Fahrkarten vorab beim Fahrer oder per App.",
+              "Die Busse verkehren im Regen oft etwas unregelmäßiger.",
+              "Nutzen Sie die Wartezeiten für einen Blick in den Fahrplan.",
+              "Die lokalen Busse sind gut geheizt und bieten Schutz."
+            ],
+            "hu": [
+              "Vegye meg a jegyet előre a sofőrnél vagy applikációban.",
+              "Esőben a buszok gyakran rendszertelenebbül közlekedhetnek.",
+              "Használja ki a várakozási időt a menetrend böngészésére.",
+              "A helyi buszok jól fűtöttek és védelmet nyújtanak."
+            ],
+            "ro": [
+              "Cumpărați biletele în avans de la șofer sau prin aplicație.",
+              "Pe ploaie, autobuzele pot circula uneori mai neregulat.",
+              "Folosiți timpul de așteptare pentru a consulta orarul.",
+              "Autobuzele locale sunt bine încălzite și oferă protecție."
+            ],
+            "en": [
+              "Buy tickets in advance from the driver or via app.",
+              "Buses often run more irregularly in the rain.",
+              "Use the waiting times to check the schedule.",
+              "Local buses are well-heated and offer protection."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterreise mit dem Bus durch das beschauliche Keszthely. Die warmen Fahrzeuge verbinden das Schloss mit den Museen im Zentrum. Morgens führt die Fahrt zum glitzernden Festetics-Schloss. Mittags wärmt man sich auf dem Weg zur Kirche auf. Nachmittags bringt Sie der Nahverkehr zum Balaton-Museum und schließlich ans frostige Ufer, wo der Tag bei warmem Licht am Bahnhof endet.",
+            "hu": "Téli utazás busszal a békés Keszthelyen. A meleg járművek összekötik a kastélyt a belvárosi múzeumokkal. Reggel az út a csillogó Festetics-kastélyhoz vezet. Délben útközben a templom felé melegedhetünk fel. Délután a tömegközlekedés a Balaton Múzeumba, majd a fagyos tópartra visz, ahol a nap a vasútállomásnál zárul.",
+            "ro": "Călătorie de iarnă cu autobuzul prin liniștitul Keszthely. Vehiculele calde leagă castelul de muzeele din centru. Dimineața, drumul duce la strălucitorul castel Festetics. La prânz, ne încălzim în drum spre biserică. După-amiaza, transportul local vă duce la muzeu și apoi la malul înghețat al lacului.",
+            "en": "Winter travel by bus through tranquil Keszthely. The warm vehicles connect the palace with the downtown museums. In the morning, the journey leads to the glittering Festetics Palace. At noon, warm up on the way to the church. In the afternoon, public transport takes you to the Balaton Museum and finally to the frosty shore."
+          },
+          "stops": [
+            {
+              "name": "Schloss Festetics",
+              "tip_5lang": {
+                "de": "Die Busse sind im Winter oft die einzige warme Verbindung.",
+                "hu": "A buszok télen gyakran az egyetlen meleg összeköttetést jelentik.",
+                "ro": "Autobuzele sunt adesea singura legătură caldă pe timp de iarnă.",
+                "en": "Buses are often the only warm connection in winter."
+              }
+            },
+            {
+              "name": "Schlossgarten",
+              "tip_5lang": {
+                "de": "Vom Bus aus sieht man die schneebedeckten Statuen im Park.",
+                "hu": "A buszból jól látszanak a park hófedte szobrai.",
+                "ro": "Din autobuz se pot vedea statuile înzăpezite din parc.",
+                "en": "From the bus, you can see the snow-covered statues in the park."
+              }
+            },
+            {
+              "name": "Pfarrkirche St. Theresia",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist im Winter oft geräumt und gut begehbar.",
+                "hu": "A megállót télen gyakran takarítják, jól járható.",
+                "ro": "Stația este adesea curățată iarna și ușor accesibilă.",
+                "en": "The stop is often cleared in winter and easily accessible."
+              }
+            },
+            {
+              "name": "Cadillac-Museum",
+              "tip_5lang": {
+                "de": "Im Winter verkehren die Busse seltener, Fahrplan beachten.",
+                "hu": "Télen a buszok ritkábban járnak, ügyeljen a menetrendre.",
+                "ro": "Iarna autobuzele circulă mai rar, consultați orarul.",
+                "en": "Buses run less frequently in winter; check the schedule."
+              }
+            },
+            {
+              "name": "Balaton-Museum",
+              "tip_5lang": {
+                "de": "Die Wärme im Bus ist nach dem Museumsbesuch sehr angenehm.",
+                "hu": "A busz melege nagyon kellemes a múzeumlátogatás után.",
+                "ro": "Căldura din autobuz este foarte plăcută după vizita la muzeu.",
+                "en": "The warmth in the bus is very pleasant after the museum visit."
+              }
+            },
+            {
+              "name": "Helikon-Park",
+              "tip_5lang": {
+                "de": "Kurze Fahrzeiten minimieren den Aufenthalt im Freien.",
+                "hu": "A rövid menetidő minimalizálja a szabadban töltött időt.",
+                "ro": "Timpii scurți de parcurs minimizează șederea în aer liber.",
+                "en": "Short travel times minimize the time spent outdoors."
+              }
+            },
+            {
+              "name": "Inselbad",
+              "tip_5lang": {
+                "de": "Der Bahnhof bietet einen beheizten Wartesaal für die Rückfahrt.",
+                "hu": "A vasútállomás fűtött várótermet kínál a visszaúthoz.",
+                "ro": "Gara oferă o sală de așteptare încălzită pentru drumul de întoarcere.",
+                "en": "The train station offers a heated waiting room for the return trip."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Rechnen Sie mit witterungsbedingten Verspätungen im Winter.",
+              "Die Busfenster können beschlagen sein, Sicht ist eingeschränkt.",
+              "Tragen Sie warme Kleidung für die Wartezeiten an Haltestellen.",
+              "Ab 17:00 Uhr fahren einige Vorortlinien seltener."
+            ],
+            "hu": [
+              "Számoljon az időjárás miatti esetleges késésekkel télen.",
+              "A buszablakok bepárásodhatnak, korlátozva a kilátást.",
+              "Viseljen meleg ruhát a megállókban való várakozáshoz.",
+              "17:00 után néhány kertvárosi járat ritkábban közlekedik."
+            ],
+            "ro": [
+              "Luați în calcul posibilele întârzieri cauzate de vreme iarna.",
+              "Geamurile autobuzului pot fi aburite, limitând vizibilitatea.",
+              "Purtați haine groase pentru timpul de așteptare în stații.",
+              "După ora 17:00, unele linii suburbane circulă mai rar."
+            ],
+            "en": [
+              "Expect weather-related delays in winter.",
+              "Bus windows may be fogged up, limiting visibility.",
+              "Wear warm clothing for the waiting times at stops.",
+              "After 17:00, some suburban lines run less frequently."
+            ]
+          }
+        }
       }
     }
   }

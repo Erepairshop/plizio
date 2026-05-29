@@ -386,6 +386,218 @@
           "Book attractions like the i360 in advance to save money.",
           "Beware of the seagulls, they are notorious for stealing food!"
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt in den bunten Gassen der North Laine, wo die Markisen der unabhängigen Läden Schutz vor dem Nieselregen bieten. Mittags ziehen wir uns in die verwinkelten, fast überdachten Lanes zurück, um in einem gemütlichen Bistro zu speisen. Der Nachmittag gehört der Pracht des Royal Pavilion und den trockenen Galerien des Brighton Museums. Am Abend spazieren wir entlang der Promenade zum Pier, während die Lichter im Regen auf dem nassen Asphalt tanzen, bevor wir den Tag bei einem Meeresfrüchte-Dinner mit Blick auf den grauen Ärmelkanal ausklingen lassen.",
+            "hu": "A reggel a North Laine színes negyedében indul, ahol a kis boltok előtetői nyújtanak menedéket a szemerkélő eső elől. Délben a szűk, szinte fedett The Lanes negyedbe húzódunk be egy hangulatos ebédre. A délutánt a Royal Pavilion egzotikus termeiben és a Brighton Museum művészeti alkotásai között töltjük szárazon. Estefelé a tengerparti sétányon haladunk a móló felé, ahol az eső áztatta aszfalton csillognak a fények, majd egy elegáns tengerparti étteremben, a hullámok morajlását figyelve fejezzük be a napot.",
+            "ro": "Dimineața începe în cartierul North Laine, unde copertinele magazinelor independente oferă adăpost împotriva burniței. La prânz ne retragem în străduțele înguste și aproape acoperite din The Lanes pentru o masă caldă. După-amiaza este dedicată interiorului exotic al Royal Pavilion și galeriilor uscate de la Brighton Museum. Seara ne plimbăm pe faleză spre doc, în timp ce luminile se reflectă pe asfaltul umed, încheind ziua cu o cină cu fructe de mare și vedere la marea agitată.",
+            "en": "Morning starts in the vibrant North Laine, where independent shop awnings provide shelter from the drizzle. At midday, we retreat into the narrow, almost covered alleys of The Lanes for a cozy lunch. The afternoon is spent within the exotic splendor of the Royal Pavilion and the dry galleries of the Brighton Museum. By evening, we stroll along the promenade towards the Pier as lights dance on the wet pavement, finishing the day with a seafood dinner overlooking the moody English Channel."
+          },
+          "stops": [
+            {
+              "name": "North Laine",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Markisen der Boutiquen als Regenschutz beim Stöbern.",
+                "hu": "Használja a butikok előtetőit esernyő helyett nézelődés közben.",
+                "ro": "Folosiți copertinele buticurilor ca paravan împotriva ploii.",
+                "en": "Use the boutique awnings as rain cover while browsing the shops."
+              }
+            },
+            {
+              "name": "Royal Pavilion",
+              "coords": [
+                -0.136,
+                50.824
+              ],
+              "tip_5lang": {
+                "de": "Perfekter Ort für einen längeren Aufenthalt im Trockenen; Garderobe vorhanden.",
+                "hu": "Tökéletes helyszín a hosszas benti tartózkodásra; van ruhatár.",
+                "ro": "Locul perfect pentru a sta la adăpost; există garderobă.",
+                "en": "The perfect place to stay dry for a long visit; cloakroom available."
+              }
+            },
+            {
+              "name": "Brighton Museum & Art Gallery",
+              "tip_5lang": {
+                "de": "Die Cafeteria im Museum bietet einen warmen Rückzugsort mit Aussicht.",
+                "hu": "A múzeumi kávézó meleg menedéket nyújt kilátással a kertre.",
+                "ro": "Cafeneaua muzeului oferă un refugiu cald cu vedere spre grădină.",
+                "en": "The museum café offers a warm retreat with views over the gardens."
+              }
+            },
+            {
+              "name": "The Lanes",
+              "tip_5lang": {
+                "de": "Die engen Gassen wirken wie ein natürliches Dach gegen starken Regen.",
+                "hu": "A szűk sikátorok természetes tetőként védenek az erősebb esőtől.",
+                "ro": "Străduțele înguste acționează ca un acoperiș natural împotriva ploii.",
+                "en": "The narrow alleys act as a natural roof against heavier rain."
+              }
+            },
+            {
+              "name": "Brighton Palace Pier",
+              "tip_5lang": {
+                "de": "Vorsicht, die Holzplanken können bei Nässe sehr rutschig sein.",
+                "hu": "Vigyázat, a fa pallók vizesen nagyon csúszósak lehetnek.",
+                "ro": "Atenție, scândurile de lemn pot fi foarte alunecoase când sunt ude.",
+                "en": "Careful, the wooden planks can be very slippery when wet."
+              }
+            },
+            {
+              "name": "British Airways i360",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den Regen über dem Meer aus der trockenen Kapsel.",
+                "hu": "Élvezze a tenger feletti eső látványát a teljesen zárt üvegkapszulából.",
+                "ro": "Bucurați-vă de vederea ploii peste mare din capsula de sticlă închisă.",
+                "en": "Enjoy the view of the rain over the sea from the dry glass pod."
+              }
+            },
+            {
+              "name": "Dinner by the Sea",
+              "tip_5lang": {
+                "de": "Reservieren Sie einen Tisch am Fenster, um die stürmische See zu beobachten.",
+                "hu": "Foglaljon asztalt az ablaknál, hogy nézhesse a viharos tengert.",
+                "ro": "Rezervați o masă la fereastră pentru a observa marea înfuriată.",
+                "en": "Book a window table to watch the stormy sea while staying cozy."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Brighton hat viele Arkaden, die bei Schauern Schutz bieten.",
+              "Die Pflastersteine in den Lanes sind bei Regen rutschig; tragen Sie festes Schuhwerk.",
+              "Der Royal Pavilion ist der beste Ort, um einen starken Guss abzuwarten.",
+              "Die i360 bietet trotz Regen eine beeindruckende, wolkenverhangene Aussicht.",
+              "In den Küstenbussen (Coaster) bleibt man trocken und sieht die Brandung."
+            ],
+            "hu": [
+              "Brighton számos árkáddal rendelkezik, amelyek védelmet nyújtanak a záporok idején.",
+              "A Lanes macskakövei esőben csúszósak; viseljen megfelelő cipőt.",
+              "A Royal Pavilion a legjobb hely egy komolyabb felhőszakadás átvészelésére.",
+              "Az i360 üvegkapszulája esőben is lenyűgöző, drámai kilátást biztosít.",
+              "Használja a parti buszokat a száraz közlekedéshez és a hullámok nézegetéséhez."
+            ],
+            "ro": [
+              "Brighton are multe arcade care oferă adăpost în timpul averselor.",
+              "Pavelele din The Lanes sunt alunecoase pe ploaie; purtați încălțăminte adecvată.",
+              "Royal Pavilion este cel mai bun loc pentru a aștepta trecerea unei ploi torențiale.",
+              "i360 oferă o priveliște dramatică și impresionantă chiar și pe vreme noroasă.",
+              "Autobuzele de coastă vă țin la uscat în timp ce admirați marea agitată."
+            ],
+            "en": [
+              "Brighton has many arcades that provide shelter during sudden downpours.",
+              "The cobblestones in The Lanes are slippery when wet; wear sensible shoes.",
+              "The Royal Pavilion is the best indoor escape to wait out a heavy rain.",
+              "The i360 pod offers a dramatic and unique view of the sea during storms.",
+              "Take the coastal buses to stay dry while still enjoying the sea views."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen beginnt mit dem Blick auf die St. Peter's Church, während der Raureif die Gärten der North Laine ziert. Mittags wärmen wir uns bei einer heißen Schokolade im Pavilion Tea Room auf, umgeben von historischer Eleganz. Am Nachmittag erleben wir den frühen, goldenen Sonnenuntergang über dem West Pier, gefolgt von einem belebenden Spaziergang auf dem Palace Pier, wo die Winterbrise für frische Seeluft sorgt. Der Abend endet in einem behaglichen Pub in den Lanes, wo das Kaminfeuer und deftige britische Küche für wohlige Wärme sorgen.",
+            "hu": "A kristálytiszta téli reggel a St. Peter templomnál indul, miközben a dér még csillog a North Laine kertjeiben. Délben a Pavilion Tea Room eleganciájában melegszünk fel egy forró csokoládéval. A délután fénypontja a korai, arany színű naplemente a West Pier felett, majd egy frissítő séta a mólón a csípős tengeri szélben. Az este egy barátságos, kandallós pubban ér véget a Lanes negyedben, ahol a forró ételek és a helyi sörök gondoskodnak a belső melegről.",
+            "ro": "O dimineață senină de iarnă începe la biserica St. Peter, cu chiciura strălucind în grădinile din North Laine. La prânz ne încălzim cu o ciocolată caldă în eleganța Pavilion Tea Room. După-amiaza oferă un apus auriu timpuriu peste West Pier, urmat de o plimbare revigorantă pe doc în briza tăioasă a mării. Seara se încheie într-un pub primitor cu șemineu din The Lanes, unde mâncarea tradițională și atmosfera caldă ne fac să uităm de frigul de afară.",
+            "en": "A crisp winter morning starts at St Peter's Church, with frost still glistening in the North Laine gardens. At midday, we warm up with a hot chocolate in the historic elegance of the Pavilion Tea Room. The afternoon highlight is the early golden sunset over the West Pier, followed by a bracing walk on the Palace Pier in the biting sea air. The evening concludes in a cozy pub with a roaring fire in The Lanes, where hearty British fare and a warm atmosphere provide the perfect winter comfort."
+          },
+          "stops": [
+            {
+              "name": "North Laine",
+              "tip_5lang": {
+                "de": "Suchen Sie die kleinen Cafés für einen schnellen Aufwärmstopp auf.",
+                "hu": "Keressen egy kis kávézót egy gyors melegedő szünetre.",
+                "ro": "Căutați cafenelele mici pentru o pauză rapidă de încălzire.",
+                "en": "Look for the small independent cafés for a quick warm-up stop."
+              }
+            },
+            {
+              "name": "Royal Pavilion",
+              "tip_5lang": {
+                "de": "Die Innenräume sind im Winter stimmungsvoll beleuchtet und beheizt.",
+                "hu": "A belső terek télen hangulatosan megvilágítottak és jól fűtöttek.",
+                "ro": "Interioarele sunt luminate atmosferic și bine încălzite iarna.",
+                "en": "The interiors are atmospherically lit and well-heated during winter."
+              }
+            },
+            {
+              "name": "Brighton Museum & Art Gallery",
+              "tip_5lang": {
+                "de": "Ein idealer Rückzugsort, wenn der Wind am Nachmittag auffrischt.",
+                "hu": "Ideális menedék, amikor délután feltámad a tengeri szél.",
+                "ro": "Un refugiu ideal când vântul se întețește după-amiaza.",
+                "en": "An ideal indoor retreat when the sea wind picks up in the afternoon."
+              }
+            },
+            {
+              "name": "The Lanes",
+              "tip_5lang": {
+                "de": "Die Schaufensterdekorationen sorgen für eine magische Winteratmosphäre.",
+                "hu": "A kirakatok téli dekorációi varázslatos hangulatot árasztanak.",
+                "ro": "Decorațiunile vitrinelor creează o atmosferă magică de iarnă.",
+                "en": "The shop window displays create a magical winter atmosphere."
+              }
+            },
+            {
+              "name": "Brighton Palace Pier",
+              "tip_5lang": {
+                "de": "Ziehen Sie sich warm an; die Meeresbrise ist hier besonders eisig.",
+                "hu": "Öltözzön rétegesen; a tengeri szél itt különösen fagyos lehet.",
+                "ro": "Îmbrăcați-vă bine; briza mării este deosebit de rece aici.",
+                "en": "Dress in layers; the sea breeze is particularly icy out on the pier."
+              }
+            },
+            {
+              "name": "British Airways i360",
+              "tip_5lang": {
+                "de": "Perfekt für den Sonnenuntergang um ca. 16:00 Uhr im Winter.",
+                "hu": "Tökéletes helyszín a téli naplemente nézésére 16:00 óra körül.",
+                "ro": "Locul perfect pentru a vedea apusul în jur de ora 16:00 iarna.",
+                "en": "Perfect for catching the early winter sunset around 4:00 PM."
+              }
+            },
+            {
+              "name": "Dinner by the Sea",
+              "tip_5lang": {
+                "de": "Genießen Sie den Kontrast zwischen kalter See und warmem Restaurant.",
+                "hu": "Élvezze a hideg tenger és a meleg étterem közötti kontrasztot.",
+                "ro": "Bucurați-vă de contrastul dintre marea rece și restaurantul cald.",
+                "en": "Enjoy the contrast between the cold sea and the warm restaurant interior."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Dezember bereits gegen 16:00 Uhr unter.",
+              "Küstennähe bedeutet oft starken Wind; Mütze und Handschuhe sind Pflicht.",
+              "Die Royal Pavilion Ice Rink (Nov-Jan) ist ein winterliches Highlight.",
+              "Pubs in den Lanes haben oft echte Kamine für maximale Gemütlichkeit.",
+              "Nutzen Sie die Mittagszeit für Außenaktivitäten, solange es hell ist."
+            ],
+            "hu": [
+              "A nap decemberben már délután 4 óra körül nyugszik.",
+              "A tengerparti szél hidegebbnek érződik; sapka és kesztyű kötelező.",
+              "A Royal Pavilion jégpályája (nov-jan) igazi téli különlegesség.",
+              "A Lanes negyed pubjai gyakran valódi kandallóval várják a vendégeket.",
+              "Használja ki a nappali fényviszonyokat a mólón való sétához."
+            ],
+            "ro": [
+              "Soarele apune în decembrie în jurul orei 16:00.",
+              "Briza mării face ca temperatura să pară mai mică; purtați căciulă și mănuși.",
+              "Patinoarul de la Royal Pavilion (noi-ian) este o atracție de iarnă majoră.",
+              "Pub-urile din The Lanes au adesea șeminee cu lemne foarte primitoare.",
+              "Planificați activitățile în aer liber pentru mijlocul zilei cât e lumină."
+            ],
+            "en": [
+              "The sun sets as early as 4:00 PM in the depths of winter.",
+              "The coastal wind is sharp; a hat and gloves are essential for walking.",
+              "The Royal Pavilion Ice Rink (Nov-Jan) is a must-visit winter highlight.",
+              "Many pubs in The Lanes feature real log fires for ultimate coziness.",
+              "Make the most of the limited daylight for your seafront strolls."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -766,6 +978,214 @@
           "Be mindful of pedestrians, especially in busy areas.",
           "The wind can be a challenge, be prepared."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten unsere Radtour an der St. Peter's Church, während der leichte Regen die Straßen Brightons glänzen lässt. Entlang der North Laine navigieren wir vorsichtig über das nasse Pflaster zu den trockenen Hallen des Royal Pavilion. Mittags radeln wir zum Palace Pier, wo wir die Räder sicher abstellen und uns in den Arkaden aufwärmen. Die Fahrt zum Yachthafen führt uns über den glatten Uferweg, wo die Gicht der Wellen mit dem Regen verschmilzt. Den Tag beenden wir mit einer zügigen Fahrt zurück ins Zentrum, um in einem gemütlichen Lokal die durchnässten Kleider gegen wohlige Wärme zu tauschen.",
+            "hu": "A St. Peter templomnál kezdjük a tekerést, miközben az enyhe eső csillogóvá teszi Brighton utcáit. A North Laine negyeden át óvatosan navigálunk a vizes aszfalton a Royal Pavilion száraz termeinek irányába. Délben a mólóhoz tekerünk, ahol biztonságban lelakatoljuk a bringákat, és az árkádok alatt pihenünk meg. A Marina felé vezető út a síkos parti kerékpárúton visz, ahol a tenger permete keveredik az esővel. A napot egy gyors visszatekeréssel zárjuk a központba, hogy a vizes ruhákat egy hangulatos étterem melegére cseréljük.",
+            "ro": "Începem turul cu bicicleta la biserica St. Peter, în timp ce ploaia ușoară face străzile din Brighton să strălucească. Navigăm cu atenție prin North Laine pe asfaltul umed spre Royal Pavilion. La prânz pedalăm spre Palace Pier, unde legăm bicicletele și ne odihnim sub arcade. Drumul spre Marina ne poartă pe pista de coastă alunecoasă, unde vaporii mării se amestecă cu ploaia. Încheiem ziua cu o cursă rapidă înapoi în centru pentru a schimba hainele ude cu atmosfera caldă a unui restaurant.",
+            "en": "We start our ride at St Peter's Church as light rain makes Brighton's streets shimmer. We navigate carefully through North Laine on the wet surfaces towards the dry sanctuary of the Royal Pavilion. At midday, we cycle to the Palace Pier, where we lock up our bikes and take shelter in the arcades. The ride to the Marina takes us along the slick coastal path where sea spray mixes with the rain. We finish the day with a brisk ride back to the center to swap damp clothes for the warmth of a cozy local spot."
+          },
+          "stops": [
+            {
+              "name": "St Peter's Church",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Bäume am Kirchplatz für einen kurzen Schutz vor dem Regen.",
+                "hu": "Használja a templomkert fáit rövid menedékként az eső elől.",
+                "ro": "Folosiți copacii de lângă biserică pentru un scurt adăpost contra ploii.",
+                "en": "Use the trees around the churchyard for a brief shelter from the rain."
+              }
+            },
+            {
+              "name": "North Laine",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem nassen Kopfsteinpflaster; fahren Sie langsamer.",
+                "hu": "Vigyázat a vizes macskakövön; tekerjen lassabban a szokásosnál.",
+                "ro": "Atenție pe pavelele umede; pedalați mai încet decât de obicei.",
+                "en": "Careful on the wet cobblestones; cycle slower than usual through the area."
+              }
+            },
+            {
+              "name": "Royal Pavilion",
+              "tip_5lang": {
+                "de": "Fahrradständer befinden sich nahe dem trockenen Haupteingang.",
+                "hu": "A kerékpártárolók a száraz főbejárat közelében találhatóak.",
+                "ro": "Suporturile de biciclete sunt aproape de intrarea principală ferită de ploaie.",
+                "en": "Bike racks are located conveniently near the dry main entrance."
+              }
+            },
+            {
+              "name": "Brighton Palace Pier",
+              "tip_5lang": {
+                "de": "Fahren auf dem Pier ist verboten; parken Sie die Räder am Eingang.",
+                "hu": "A mólón tilos biciklizni; parkoljon a bejárat melletti tárolóknál.",
+                "ro": "Ciclismul pe doc este interzis; parcați bicicletele la intrare.",
+                "en": "Cycling on the pier is prohibited; park your bikes at the entrance racks."
+              }
+            },
+            {
+              "name": "British Airways i360",
+              "tip_5lang": {
+                "de": "Geben Sie Ihre nassen Helme und Taschen an der Garderobe ab.",
+                "hu": "Adja le a vizes sisakokat és táskákat a lenti ruhatárban.",
+                "ro": "Lăsați căștile și gențile ude la garderoba de la parter.",
+                "en": "Leave your wet helmets and bags at the ground floor cloakroom."
+              }
+            },
+            {
+              "name": "Brighton Marina",
+              "tip_5lang": {
+                "de": "Der Radweg am Undercliff Walk kann bei Sturm gischtbesprüht sein.",
+                "hu": "Az Undercliff Walk kerékpárút viharban tengerpermetes lehet.",
+                "ro": "Pista de biciclete Undercliff poate fi stropită de mare în timpul furtunii.",
+                "en": "The Undercliff Walk bike path can be spray-swept during stormy weather."
+              }
+            },
+            {
+              "name": "Ride back to Centre",
+              "tip_5lang": {
+                "de": "Wählen Sie die beleuchtete Hauptstraße für mehr Sicherheit bei Regen.",
+                "hu": "Válassza a kivilágított főutat a nagyobb biztonságért esőben.",
+                "ro": "Alegeți drumul principal iluminat pentru mai multă siguranță pe ploaie.",
+                "en": "Choose the well-lit main road for better safety while riding in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine vollflächige Regenjacke und wasserdichte Hosen.",
+              "Vermeiden Sie metallische Oberflächen (Kanaldeckel), da diese extrem rutschig sind.",
+              "Nutzen Sie die BTN BikeShare-Räder, wenn Sie kein eigenes nasses Rad wollen.",
+              "Die Undercliff-Route bietet Schutz durch die Klippen vor Nordwind.",
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt, da sie bei Nässe später greifen."
+            ],
+            "hu": [
+              "Viseljen teljes esőruházatot és vízálló nadrágot a tekeréshez.",
+              "Kerülje a fémfelületeket (csatornafedelek), mert rendkívül csúszósak.",
+              "Használja a BTN BikeShare közbringákat, ha nem akarja a sajátját áztatni.",
+              "Az Undercliff útvonal védelmet nyújt az északi széllel szemben.",
+              "Indulás előtt ellenőrizze a fékeket, mert vizesen hosszabb a féktáv."
+            ],
+            "ro": [
+              "Purtați o jachetă impermeabilă completă și pantaloni rezistenți la apă.",
+              "Evitați suprafețele metalice (capace de canal), sunt extrem de alunecoase.",
+              "Folosiți sistemul BTN BikeShare dacă nu doriți să vă udați propria bicicletă.",
+              "Ruta Undercliff oferă protecție împotriva vântului dinspre nord datorită falezei.",
+              "Verificați frânele înainte de plecare, deoarece reacționează mai greu pe ud."
+            ],
+            "en": [
+              "Wear a full waterproof jacket and trousers for the ride.",
+              "Avoid metal surfaces like manhole covers as they become treacherous.",
+              "Use BTN BikeShare if you prefer not to get your own bike wet.",
+              "The Undercliff Walk route provides some shelter from northern winds.",
+              "Check your brakes before starting; stopping distances are longer in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An einem klaren Wintermorgen radeln wir von der St. Peter's Church durch die belebten Straßen der North Laine. Die kühle Luft ist erfrischend, während wir den Royal Pavilion erreichen, dessen Gärten im Winterlicht fast magisch wirken. Mittags führt uns der Weg am Ufer entlang zum Palace Pier, wo wir die Räder abstellen, um die Wintersonne zu genießen. Die Fahrt zum Yachthafen bietet einen weiten Blick auf den glitzernden Ärmelkanal unter dem tiefen Sonnenstand. Vor Einbruch der Dunkelheit radeln wir zügig zurück ins Zentrum, wo uns ein warmes Abendessen und die gemütliche Atmosphäre Brightons erwarten.",
+            "hu": "A tiszta téli reggelen a St. Peter templomtól indulva tekerünk végig a North Laine forgalmas utcáin. A hűvös levegő frissítő, ahogy elérjük a Royal Paviliont, melynek kertjei különleges fényben tündökölnek. Délben a parti kerékpárúton haladunk a Palace Pier felé, ahol megállunk élvezni a téli napsütést. A Marina felé vezető út tiszta kilátást nyújt a csillogó Csatornára az alacsonyan járó nap alatt. Mielőtt besötétedne, gyorsan visszatekerünk a központba, ahol meleg vacsora és Brighton barátságos hangulata fogad minket.",
+            "ro": "Într-o dimineață senină de iarnă, pedalăm de la biserica St. Peter prin străzile pline de viață din North Laine. Aerul rece este revigorant în timp ce ajungem la Royal Pavilion. La prânz, drumul pe faleză ne duce spre Palace Pier, unde oprim pentru a ne bucura de soarele de iarnă. Drumul spre Marina oferă o vedere panoramică asupra Canalului Mânecii sub soarele palid. Înainte de lăsarea întunericului, pedalăm rapid înapoi în centru, unde ne așteaptă o cină caldă și atmosfera primitoare din Brighton.",
+            "en": "On a clear winter morning, we cycle from St Peter's Church through the bustling streets of North Laine. The cool air is refreshing as we reach the Royal Pavilion, whose gardens look magical in the winter light. At midday, the coastal path leads us to the Palace Pier, where we stop to enjoy the winter sun. The ride to the Marina offers wide views of the glistening English Channel under the low sun. Before darkness falls, we cycle briskly back to the center for a warm dinner and Brighton's cozy evening atmosphere."
+          },
+          "stops": [
+            {
+              "name": "St Peter's Church",
+              "tip_5lang": {
+                "de": "Vorsicht vor eventuellem Glatteis auf den schattigen Wegen.",
+                "hu": "Vigyázat az árnyékos utakon előforduló jegesedéssel.",
+                "ro": "Atenție la eventualul polei pe porțiunile de drum umbrite.",
+                "en": "Watch out for potential black ice on shaded paths around the church."
+              }
+            },
+            {
+              "name": "North Laine",
+              "tip_5lang": {
+                "de": "Tragen Sie warme Handschuhe; der Fahrtwind ist hier spürbar.",
+                "hu": "Viseljen meleg kesztyűt; a menetszél itt már vágni tud.",
+                "ro": "Purtați mănuși călduroase; curentul de aer este tăios aici.",
+                "en": "Wear warm gloves; the wind chill while cycling is significant here."
+              }
+            },
+            {
+              "name": "Royal Pavilion",
+              "tip_5lang": {
+                "de": "Die Gärten sind im Winter oft weniger überlaufen; toll für Fotos.",
+                "hu": "A kertek télen kevésbé zsúfoltak; kiváló alkalom a fotózásra.",
+                "ro": "Grădinile sunt mai libere iarna; ocazie excelentă pentru poze.",
+                "en": "The gardens are often less crowded in winter; great for photos."
+              }
+            },
+            {
+              "name": "Brighton Palace Pier",
+              "tip_5lang": {
+                "de": "Gönnen Sie sich heiße Donuts, um sich nach der Fahrt aufzuwärmen.",
+                "hu": "Vegyél egy forró fánkot a mólón, hogy felmelegedj a tekerés után.",
+                "ro": "Luați gogoși calde de pe doc pentru a vă încălzi după drum.",
+                "en": "Treat yourself to hot donuts on the pier to warm up after the ride."
+              }
+            },
+            {
+              "name": "British Airways i360",
+              "tip_5lang": {
+                "de": "Die Kapsel ist gut beheizt und bietet Schutz vor dem kalten Wind.",
+                "hu": "A kapszula jól fűtött, tökéletes menedék a hideg szél elől.",
+                "ro": "Capsula este bine încălzită și oferă protecție contra vântului rece.",
+                "en": "The pod is well-heated and provides a break from the cold wind."
+              }
+            },
+            {
+              "name": "Brighton Marina",
+              "tip_5lang": {
+                "de": "Planen Sie die Ankunft hier vor 15:30 Uhr, um das Licht zu nutzen.",
+                "hu": "Érkezzen meg ide 15:30 előtt, hogy még lásson a természetes fénynél.",
+                "ro": "Plănuiți sosirea aici înainte de 15:30 pentru a profita de lumină.",
+                "en": "Plan to arrive here before 3:30 PM to catch the last daylight."
+              }
+            },
+            {
+              "name": "Ride back to Centre",
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihre Fahrradbeleuchtung einwandfrei funktioniert.",
+                "hu": "Győződjön meg róla, hogy a kerékpár lámpái tökéletesen működnek.",
+                "ro": "Asigurați-vă că luminile bicicletei funcționează perfect.",
+                "en": "Ensure your bike lights are working perfectly for the ride back."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Kleidung nach dem Zwiebelprinzip, um nicht zu schwitzen.",
+              "Die Sonne steht tief; eine Sonnenbrille hilft gegen Blendung beim Radeln.",
+              "Vermeiden Sie späte Fahrten auf dem Undercliff Walk ohne Licht.",
+              "Halten Sie an warmen Cafés in der Marina, bevor Sie zurückkehren.",
+              "Überprüfen Sie den Reifendruck; kalte Luft lässt ihn oft sinken."
+            ],
+            "hu": [
+              "Öltözzön rétegesen, hogy elkerülje az izzadást és a későbbi fázást.",
+              "A nap alacsonyan jár; a napszemüveg segít a vakító fény ellen.",
+              "Kerülje az Undercliff Walk használatát sötétedés után lámpa nélkül.",
+              "Tartson szünetet a Marina meleg kávézóiban a visszaindulás előtt.",
+              "Ellenőrizze a guminyomást; a hidegben gyakran csökken."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi pentru a evita supraîncălzirea în timpul efortului.",
+              "Soarele este jos; ochelarii de soare ajută contra orbirii în timpul mersului.",
+              "Evitați ruta Undercliff după lăsarea întunericului fără lumini bune.",
+              "Opriți-vă la cafenelele calde din Marina înainte de drumul de întoarcere.",
+              "Verificați presiunea în pneuri; aerul rece o poate scădea."
+            ],
+            "en": [
+              "Dress in multiple thin layers to manage body heat while riding.",
+              "The winter sun is low; sunglasses are helpful against glare.",
+              "Avoid late rides on the Undercliff path as it gets very dark.",
+              "Stop for a warm drink at the Marina before heading back to the center.",
+              "Check your tyre pressure as cold temperatures can cause it to drop."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1122,6 +1542,196 @@
           "Traffic can be heavy during summer and weekends, so allow extra time.",
           "Be aware of bus lanes and cyclists."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir parken bequem nahe der Pavilion-Museen, während der Regen auf das Autodach trommelt. Der Vormittag vergeht wie im Flug im prachtvollen Royal Pavilion und dem angrenzenden Museum, sicher geschützt vor dem Wetter. Mittags fahren wir zum Seafront-Parkhaus, von wo aus es nur ein kurzer Sprung zu den überdachten Bereichen der Promenade ist. Am Nachmittag genießen wir den Blick auf den stürmischen Ärmelkanal vom Pier oder der i360-Kapsel aus. Den Tag schließen wir mit einer kurzen Fahrt zum Yachthafen ab, wo wir direkt vor den Restaurants parken und den Abend trocken genießen können.",
+            "hu": "Kényelmesen leparkolunk a Pavilion és Múzeum közelében, miközben az eső kopog az autó tetőjén. A délelőtt gyorsan elrepül a Royal Pavilion pazar termeiben és a múzeumban, védve az időjárástól. Délben átgurulunk a tengerparti parkolóházba, ahonnan csak pár lépés a sétány fedettebb része. Délután a viharos tenger látványát élvezzük a mólóról vagy az i360 kapszulájából. A napot a Marinánál zárjuk, ahol közvetlenül az éttermek előtt parkolhatunk le, így szárazon jutunk be a vacsorához.",
+            "ro": "Parcăm confortabil lângă Pavilion și Muzeu în timp ce ploaia bate în plafonul mașinii. Dimineața trece repede în sălile splendide ale Royal Pavilion și la muzeu, la adăpost de vreme. La prânz conducem spre parcarea de pe faleză, de unde sunt doar câțiva pași până la zonele acoperite. După-amiaza admirăm marea agitată de pe doc sau din capsula i360. Încheiem ziua cu o scurtă cursă spre Marina, unde parcăm chiar în fața restaurantelor pentru a rămâne uscați.",
+            "en": "We park conveniently near the Pavilion and Museum cluster as rain drums on the car roof. The morning flies by inside the magnificent Royal Pavilion and the museum, safely sheltered from the weather. At midday, we drive to the seafront NCP car park, just a short dash to the covered areas of the promenade. In the afternoon, we enjoy views of the stormy Channel from the Pier or the i360 pod. We conclude the day with a short drive to the Marina, where we can park right in front of the restaurants and stay dry."
+          },
+          "stops": [
+            {
+              "name": "Arrive & Park: Pavilion & Museum Cluster",
+              "tip_5lang": {
+                "de": "Nutzen Sie das NCP-Parkhaus North Road für einen kurzen Weg im Regen.",
+                "hu": "Használja a North Road-i NCP parkolót a rövid gyalogút érdekében.",
+                "ro": "Folosiți parcarea NCP din North Road pentru un drum scurt prin ploaie.",
+                "en": "Use the North Road NCP car park to minimize walking distance in the rain."
+              }
+            },
+            {
+              "name": "Royal Pavilion",
+              "tip_5lang": {
+                "de": "Der Eingangsbereich bietet ausreichend Platz zum Schirm-Ausschütteln.",
+                "hu": "A bejáratnál bőven van hely az esernyők lerázására.",
+                "ro": "Zona de intrare are destul loc pentru a scutura umbrelele.",
+                "en": "The entrance area has plenty of space to shake off umbrellas."
+              }
+            },
+            {
+              "name": "Brighton Museum & Art Gallery",
+              "tip_5lang": {
+                "de": "Direkt neben dem Pavilion gelegen; kaum Zeit im Regen.",
+                "hu": "Közvetlenül a Pavilion mellett van; alig kell az esőben lenni.",
+                "ro": "Situat chiar lângă Pavilion; aproape deloc timp petrecut în ploaie.",
+                "en": "Located right next to the Pavilion; minimal time spent in the rain."
+              }
+            },
+            {
+              "name": "Drive & Park: Seafront Cluster",
+              "tip_5lang": {
+                "de": "Das Parkhaus Russell Road führt fast direkt in das Einkaufszentrum.",
+                "hu": "A Russell Road parkolóház szinte közvetlenül a bevásárlóközpontba vezet.",
+                "ro": "Parcarea din Russell Road duce aproape direct în centrul comercial.",
+                "en": "The Russell Road car park leads almost directly into the shopping center."
+              }
+            },
+            {
+              "name": "Brighton Palace Pier & i360",
+              "tip_5lang": {
+                "de": "Stellen Sie das Auto in der Nähe des i360-Eingangs ab.",
+                "hu": "Parkoljon az i360 bejáratához minél közelebb.",
+                "ro": "Parcați mașina cât mai aproape de intrarea i360.",
+                "en": "Park your car as close as possible to the i360 entrance."
+              }
+            },
+            {
+              "name": "Drive to Brighton Marina",
+              "tip_5lang": {
+                "de": "Gratis Parkplätze in der Marina; ideal bei Regen für Restaurants.",
+                "hu": "Ingyenes parkolás a Marinán; ideális esőben az éttermekhez.",
+                "ro": "Parcare gratuită la Marina; ideal pe ploaie pentru acces la restaurante.",
+                "en": "Free parking at the Marina; ideal for dry access to waterfront dining."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die NCP-Parkhäuser; sie sind oft überdacht und sicher.",
+              "In der Marina ist das Parken für Restaurantbesucher meist kostenlos.",
+              "Vermeiden Sie das Parken direkt am Straßenrand, um Spritzwasser zu entgehen.",
+              "Prüfen Sie Ihre Scheibenwischer vor der Fahrt entlang der Küstenstraße.",
+              "Die i360-Kapsel ist der beste Ort für Panoramafotos ohne Regentropfen."
+            ],
+            "hu": [
+              "Használja az NCP parkolóházakat; ezek fedettek és biztonságosak.",
+              "A Marinán a parkolás az éttermi vendégeknek általában ingyenes.",
+              "Kerülje a közvetlen utcai parkolást, hogy az autót ne érje felverődő sár.",
+              "Ellenőrizze az ablaktörlőket a parti úton való vezetés előtt.",
+              "Az i360 kapszulája a legjobb hely panorámafotókhoz esőben is."
+            ],
+            "ro": [
+              "Folosiți parcările etajate NCP; sunt adesea acoperite și sigure.",
+              "La Marina, parcarea este de obicei gratuită pentru clienții restaurantelor.",
+              "Evitați parcarea pe marginea drumului pentru a evita stropirea mașinii.",
+              "Verificați ștergătoarele înainte de a conduce pe drumul de coastă.",
+              "Capsula i360 este cel mai bun loc pentru poze panoramice fără picături de ploaie."
+            ],
+            "en": [
+              "Prefer multi-story NCP car parks as they offer covered pedestrian access.",
+              "Brighton Marina offers free parking, which is great for rainy day dining.",
+              "Avoid on-street parking to prevent your car from being splashed by traffic.",
+              "Check your wipers before driving along the exposed seafront roads.",
+              "The i360 pod is the best spot for rain-free panoramic photos."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger, aber sonniger Wintermorgen beginnt mit einer Fahrt zum Pavilion-Viertel. Wir parken zentral und genießen die klare Luft bei einem kurzen Spaziergang zum Royal Pavilion. Mittags wärmen wir uns im Auto auf, während wir zur Küste fahren, wo die Wintersonne tief über dem Meer steht. Nach einem Besuch auf dem Pier und einer Fahrt in der beheizten i360-Kapsel genießen wir das goldene Licht des späten Nachmittags. Zum Abschluss fahren wir zum Yachthafen, wo die Lichter der Boote im kalten Abendlicht funkeln und ein gemütliches Dinner den Wintertag perfekt abrundet.",
+            "hu": "Fagyos, de napos téli reggelen indulunk a Pavilion negyedbe. Központilag parkolunk le, és élvezzük a friss levegőt a Royal Pavilion felé vezető rövid sétán. Délben az autó melegében pihenünk meg, miközben a part felé hajtunk, ahol a téli nap alacsonyan szikrázik a tenger felett. A móló és a fűtött i360 kapszula után a késő délutáni arany fényeket csodáljuk. Befejezésül a Marinához hajtunk, ahol a hajók fényei csillognak a hideg esti szürkületben, és egy kellemes vacsorával zárjuk a téli kirándulást.",
+            "ro": "O dimineață de iarnă geroasă, dar însorită, începe cu o cursă spre zona Pavilion. Parcăm central și ne bucurăm de aerul curat în timpul scurtului drum spre Royal Pavilion. La prânz ne încălzim în mașină în timp ce conducem spre coastă, unde soarele de iarnă strălucește palid peste mare. După o vizită pe doc și o cursă cu i360, admirăm lumina aurie a după-amiezii. La final, conducem spre Marina, unde luminile bărcilor sclipesc în amurgul rece, încheind ziua cu o cină caldă.",
+            "en": "A frosty but sunny winter morning begins with a drive to the Pavilion district. We park centrally and enjoy the crisp air during a short walk to the Royal Pavilion. At midday, we warm up inside the car while driving to the coast, where the winter sun sits low over the sea. After a visit to the Pier and a flight in the heated i360 pod, we enjoy the golden late-afternoon light. Finally, we drive to the Marina, where boat lights twinkle in the cold evening air, and a cozy dinner rounds off the winter day."
+          },
+          "stops": [
+            {
+              "name": "Arrive & Park: Pavilion & Museum Cluster",
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihre Scheiben vor der Abfahrt enteist sind.",
+                "hu": "Indulás előtt győződjön meg róla, hogy a szélvédők jégmentesek.",
+                "ro": "Asigurați-vă că parbrizul este dezghețat înainte de plecare.",
+                "en": "Ensure your windows are fully de-iced before starting your journey."
+              }
+            },
+            {
+              "name": "Royal Pavilion",
+              "tip_5lang": {
+                "de": "Die Außenfassade wirkt im harten Winterlicht besonders fotogen.",
+                "hu": "A külső homlokzat a téli fényben különösen fotogén látványt nyújt.",
+                "ro": "Fațada exterioară arată spectaculos în lumina rece de iarnă.",
+                "en": "The exterior façade looks particularly photogenic in the sharp winter light."
+              }
+            },
+            {
+              "name": "Brighton Museum & Art Gallery",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch als Aufwärmphase zwischen den Spaziergängen.",
+                "hu": "Használja a múzeumlátogatást melegedőnek a séták között.",
+                "ro": "Folosiți vizita la muzeu pentru a vă încălzi între plimbări.",
+                "en": "Use the museum visit to warm up between your outdoor strolls."
+              }
+            },
+            {
+              "name": "Drive & Park: Seafront Cluster",
+              "tip_5lang": {
+                "de": "Das Parken am Straßenrand ist im Winter oft einfacher als im Sommer.",
+                "hu": "Télen gyakran könnyebb az utcán parkolni, mint a nyári szezonban.",
+                "ro": "Parcarea stradală este adesea mai ușoară iarna decât vara.",
+                "en": "On-street parking is often easier to find in winter than in summer."
+              }
+            },
+            {
+              "name": "Brighton Palace Pier & i360",
+              "tip_5lang": {
+                "de": "Die i360 bietet den besten Blick auf den frühen Sonnenuntergang.",
+                "hu": "Az i360-ról nyílik a legjobb kilátás a korai naplementére.",
+                "ro": "i360 oferă cea mai bună vedere asupra apusului timpuriu.",
+                "en": "The i360 offers the best vantage point for the early sunset."
+              }
+            },
+            {
+              "name": "Drive to Brighton Marina",
+              "tip_5lang": {
+                "de": "Die Fahrt entlang der Küste ist bei klarer Wintersicht herrlich.",
+                "hu": "A parti út tiszta téli időben gyönyörű látványt nyújt.",
+                "ro": "Drumul pe faleză este superb când vizibilitatea este clară iarna.",
+                "en": "The coastal drive is wonderful when the winter visibility is clear."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Füllen Sie Frostschutzmittel in Ihre Scheibenwaschanlage.",
+              "Das Parken in der Marina ist kostenlos und bietet kurze Wege zum Essen.",
+              "Planen Sie die Rückfahrt vor Sonnenuntergang (ca. 16:00 Uhr).",
+              "Küstennebel kann im Winter die Sicht plötzlich einschränken.",
+              "Die Heizung im i360 macht es zum perfekten Winter-Aussichtspunkt."
+            ],
+            "hu": [
+              "Töltsön fagyállót a szélvédőmosó tartályba.",
+              "A Marinán ingyenes a parkolás, és közel vannak az éttermek.",
+              "Tervezze a visszautat naplemente előttre (kb. 16:00 óra).",
+              "A tengeri köd télen hirtelen lecsökkentheti a látótávolságot.",
+              "Az i360 fűtése miatt ez a legkényelmesebb téli kilátóhely."
+            ],
+            "ro": [
+              "Puneți antigel în lichidul de spălare a parbrizului.",
+              "Parcarea la Marina este gratuită și oferă acces rapid la restaurante.",
+              "Plănuiți drumul de întoarcere înainte de apus (aprox. ora 16:00).",
+              "Ceața de coastă poate reduce brusc vizibilitatea în timpul iernii.",
+              "Încălzirea din i360 o face punctul perfect de observație iarna."
+            ],
+            "en": [
+              "Make sure your screenwash has sufficient antifreeze for the cold.",
+              "Parking at the Marina is free and keeps you close to the dining areas.",
+              "Aim to finish your outdoor activities before the 4:00 PM sunset.",
+              "Sea mist can suddenly reduce visibility along the coast in winter.",
+              "The heating in the i360 pod makes it a superior winter viewpoint."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1478,6 +2088,196 @@
           "Buses can be crowded during peak hours.",
           "Have your card or phone ready for contactless payment."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir erreichen das Zentrum an der Old Steine Bushaltestelle, nur wenige Meter vom schützenden Royal Pavilion entfernt. Den Vormittag verbringen wir in den prunkvollen Sälen und den Lanes, wo wir trockenen Fußes von Laden zu Laden huschen. Mittags bringt uns ein kurzer Busweg zum Palace Pier, wo wir die maritime Atmosphäre unter dem Schutz der Arkaden genießen. Am Nachmittag steigen wir in den Coaster-Bus zur Brighton Marina, während wir durch die beschlagenen Scheiben die Brandung beobachten. Der Tag endet mit einer gemütlichen Busfahrt zurück ins Zentrum zu einem warmen Abendessen.",
+            "hu": "Az Old Steine buszmegállóban szállunk le, mindössze pár méterre a Royal Pavilion oltalmazó épületétől. A délelőttöt a pazar termekben és a Lanes negyedben töltjük, ahol szárazon tudunk egyik boltból a másikba surranni. Délben egy rövid buszút visz a Palace Pierhez, ahol az árkádok alatt élvezzük a tengeri hangulatot. Délután a Coaster busszal megyünk ki a Marinához, a bepárásodott ablakokon át figyelve a hullámverést. A napot egy kényelmes buszos visszautazással és egy forró vacsorával zárjuk a városközpontban.",
+            "ro": "Ajungem în centru la stația Old Steine, la doar câțiva metri de Royal Pavilion. Petrecem dimineața în sălile splendide și în The Lanes, unde ne putem strecura uscați din magazin în magazin. La prânz, un drum scurt cu autobuzul ne duce la Palace Pier, unde ne bucurăm de atmosferă sub arcade. După-amiaza luăm autobuzul spre Brighton Marina, observând marea prin geamurile aburite. Ziua se încheie cu o călătorie relaxantă înapoi spre centru pentru o cină caldă.",
+            "en": "We arrive in the center at the Old Steine bus stop, just yards from the protective shelter of the Royal Pavilion. We spend the morning in the opulent halls and The Lanes, where we can dash dryly from shop to shop. At midday, a short bus ride takes us to the Palace Pier, where we enjoy the maritime air under the shelter of the arcades. In the afternoon, we take the Coaster bus to Brighton Marina, watching the surf through the misted windows. The day ends with a comfortable bus ride back to the center for a warm dinner."
+          },
+          "stops": [
+            {
+              "name": "Arrive: Old Steine Bus Stop",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Wartehäuschen als Schutz vor plötzlichen Schauern.",
+                "hu": "Használja a buszvárókat védelemként a hirtelen záporok ellen.",
+                "ro": "Folosiți refugiile din stații pentru a vă proteja de aversele bruște.",
+                "en": "Use the bus shelters for cover if a sudden shower starts."
+              }
+            },
+            {
+              "name": "Royal Pavilion & Gardens",
+              "tip_5lang": {
+                "de": "Nur 2 Minuten Fußweg von der Bushaltestelle; ideal bei Regen.",
+                "hu": "Csak 2 perc séta a buszmegállótól; ideális esős időben.",
+                "ro": "Doar 2 minute de mers pe jos de la stație; ideal pe ploaie.",
+                "en": "Only a 2-minute walk from the bus stop; ideal for rainy days."
+              }
+            },
+            {
+              "name": "The Lanes & Lunch",
+              "tip_5lang": {
+                "de": "Viele Bushaltestellen befinden sich direkt an den Eingängen der Lanes.",
+                "hu": "Számos buszmegálló közvetlenül a Lanes bejáratainál található.",
+                "ro": "Multe stații de autobuz sunt chiar la intrările în The Lanes.",
+                "en": "Many bus stops are located right at the entrances to The Lanes."
+              }
+            },
+            {
+              "name": "Brighton Palace Pier",
+              "tip_5lang": {
+                "de": "Warten Sie auf den Bus in den Arkaden gegenüber dem Pier-Eingang.",
+                "hu": "Várja a buszt a móló bejáratával szembeni árkádok alatt.",
+                "ro": "Așteptați autobuzul sub arcadele de vizavi de intrarea pe doc.",
+                "en": "Wait for your bus under the arcades opposite the pier entrance."
+              }
+            },
+            {
+              "name": "Bus to Brighton Marina",
+              "tip_5lang": {
+                "de": "Die Busse der Linie 7 fahren alle 10 Minuten und sind trocken.",
+                "hu": "A 7-es buszok 10 percenként járnak, és száraz utazást biztosítanak.",
+                "ro": "Autobuzele liniei 7 circulă la 10 minute și sunt uscate.",
+                "en": "Route 7 buses run every 10 minutes and offer a dry, warm ride."
+              }
+            },
+            {
+              "name": "Bus to Centre & Dinner",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Live-Abfahrtszeiten in der App, um nicht im Regen zu warten.",
+                "hu": "Használja az applikációt, hogy ne kelljen az esőben várakoznia.",
+                "ro": "Verificați timpii live în aplicație pentru a nu aștepta în ploaie.",
+                "en": "Check live times on the app to avoid waiting in the rain at the stop."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Laden Sie die 'Brighton & Hove Buses' App für Live-Infos.",
+              "Ein Tagesticket (NetworkSAVER) lohnt sich bei häufigem Umsteigen.",
+              "Die Busse sind im Winter gut beheizt und bieten tolle Aussichten von oben.",
+              "Bushaltestellen am Meer haben oft verglaste Schutzwände gegen Wind.",
+              "Nutzen Sie die 'Volk's Electric Railway' nicht; sie pausiert oft bei Sturm."
+            ],
+            "hu": [
+              "Töltse le a 'Brighton & Hove Buses' alkalmazást az élő infókért.",
+              "A napijegy (NetworkSAVER) megéri, ha többször szállunk át.",
+              "A buszok télen jól fűtöttek, a felső emeletről remek a kilátás.",
+              "A tengerparti buszmegállók üvegfallal védettek a szél ellen.",
+              "A Volk's Electric Railway viharos időben nem üzemel, kerülje."
+            ],
+            "ro": [
+              "Descărcați aplicația 'Brighton & Hove Buses' pentru informații live.",
+              "Un bilet de o zi (NetworkSAVER) merită dacă schimbați des autobuzul.",
+              "Autobuzele sunt bine încălzite iarna și oferă vederi bune de la etaj.",
+              "Stațiile de pe faleză au paravane de sticlă contra vântului.",
+              "Calea ferată electrică Volk's este adesea închisă pe vreme rea."
+            ],
+            "en": [
+              "Download the 'Brighton & Hove Buses' app for live departure times.",
+              "A 'NetworkSAVER' day ticket is cost-effective for multiple trips.",
+              "Buses are well-heated in winter and the top deck offers great views.",
+              "Seafront bus stops often have glass wind shelters for comfort.",
+              "Avoid the Volk’s Electric Railway in bad weather as it often closes."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen beginnt mit der Ankunft an der Old Steine, wo die kalte Luft uns sofort wach macht. Wir nutzen die kurzen Wege zum Royal Pavilion und verbringen den Vormittag in der prunkvollen Wärme des Palastes. Mittags bringt uns ein kurzer Busweg zur Promenade, wo wir das glitzernde Meer und den Pier im harten Winterlicht bewundern. Am Nachmittag fahren wir mit dem Doppeldeckerbus entlang der Klippen zur Marina und genießen die Aussicht vom warmen Oberdeck. Der Tag endet mit einer Rückfahrt ins festlich beleuchtete Zentrum zu einem gemütlichen Dinner.",
+            "hu": "A kristálytiszta téli reggel az Old Steine-nél indul, ahol a csípős levegő azonnal felébreszt. Kihasználjuk a közeli Royal Pavilion adta meleget a délelőtti látogatás során. Délben egy rövid buszút visz a sétányhoz, ahol megcsodáljuk a csillogó tengert és a mólót a tiszta téli fényben. Délután egy emeletes busszal utazunk a sziklák mentén a Marinához, élvezve a kilátást a fűtött felső szintről. A napot a kivilágított belvárosba való visszatéréssel és egy hangulatos vacsorával zárjuk.",
+            "ro": "O dimineață senină de iarnă începe la Old Steine, unde aerul rece ne trezește imediat. Profităm de proximitatea Royal Pavilion pentru a petrece dimineața în căldura palatului. La prânz, un drum scurt cu autobuzul ne duce pe faleză, unde admirăm marea sclipitoare în lumina rece. După-amiaza călătorim cu un etajat de-a lungul falezei spre Marina, bucurându-ne de vedere de la etajul călduros. Ziua se încheie cu întoarcerea în centrul luminat festiv pentru o cină primitoare.",
+            "en": "A crisp winter morning starts at Old Steine, where the cold air wakes us up instantly. We take advantage of the short walk to the Royal Pavilion and spend the morning in the palace's warmth. At midday, a short bus ride takes us to the promenade to admire the sparkling sea and the Pier in the sharp winter light. In the afternoon, we ride a double-decker bus along the cliffs to the Marina, enjoying the views from the warm top deck. The day ends with a return to the festively lit center for a cozy dinner."
+          },
+          "stops": [
+            {
+              "name": "Arrive: Old Steine Bus Stop",
+              "tip_5lang": {
+                "de": "Die Haltestelle liegt direkt am zentralen Platz Brightons.",
+                "hu": "A megálló közvetlenül Brighton központi tere mellett található.",
+                "ro": "Stația se află chiar lângă piața centrală din Brighton.",
+                "en": "The stop is located right next to Brighton's central square."
+              }
+            },
+            {
+              "name": "Royal Pavilion & Gardens",
+              "tip_5lang": {
+                "de": "Im Winter sind die Gärten oft Schauplatz schöner Lichtinstallationen.",
+                "hu": "Télen a kertekben gyakran láthatóak szép fényinstallációk.",
+                "ro": "Iarna, grădinile găzduiesc adesea instalații de lumină frumoase.",
+                "en": "In winter, the gardens often host beautiful light installations."
+              }
+            },
+            {
+              "name": "The Lanes & Lunch",
+              "tip_5lang": {
+                "de": "Suchen Sie Pubs mit 'Open Fire' Schildern für maximale Wärme.",
+                "hu": "Keressen 'Open Fire' feliratú pubokat a legnagyobb melegért.",
+                "ro": "Căutați pub-uri cu semnul 'Open Fire' pentru maximul de căldură.",
+                "en": "Look for pubs with 'Open Fire' signs for the coziest lunch break."
+              }
+            },
+            {
+              "name": "Brighton Palace Pier",
+              "tip_5lang": {
+                "de": "Der Busbahnhof Pool Valley ist ein guter windgeschützter Treffpunkt.",
+                "hu": "A Pool Valley buszállomás jó szélvédett találkozóhely a közelben.",
+                "ro": "Autogara Pool Valley este un loc de întâlnire bun, ferit de vânt.",
+                "en": "Pool Valley bus station is a good wind-sheltered meeting point nearby."
+              }
+            },
+            {
+              "name": "Bus to Brighton Marina",
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick auf den Ärmelkanal vom Oberdeck.",
+                "hu": "Élvezze a tágas kilátást a Csatornára az emeleti ülésekből.",
+                "ro": "Bucurați-vă de vederea largă spre Canal de pe puntea superioară.",
+                "en": "Enjoy the expansive views of the Channel from the top deck seats."
+              }
+            },
+            {
+              "name": "Bus to Centre & Dinner",
+              "tip_5lang": {
+                "de": "Abends sind die Busse oft weihnachtlich geschmückt.",
+                "hu": "Este a buszok gyakran karácsonyi díszítésben pompáznak.",
+                "ro": "Seara, autobuzele sunt adesea decorate festiv de Crăciun.",
+                "en": "In the evenings, buses are often festively decorated for winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die 'Contactless' Zahlung für schnelles Einsteigen.",
+              "Die Coaster-Busse (12/12A) bieten die beste Aussicht auf die Klippen.",
+              "Busse fahren im Winter oft seltener; prüfen Sie den Fahrplan.",
+              "Das Oberdeck ist beheizt, aber an den Fenstern kann es kühl sein.",
+              "Old Steine ist der zentrale Knotenpunkt für alle Nachtbusse."
+            ],
+            "hu": [
+              "Használjon érintős fizetést a gyorsabb felszállás érdekében.",
+              "A Coaster buszok (12/12A) kínálják a legjobb kilátást a sziklákra.",
+              "Télen egyes járatok ritkábban járhatnak; ellenőrizze a menetrendet.",
+              "A felső szint fűtött, de az ablakok mellett hidegebb lehet.",
+              "Az Old Steine a központi csomópont minden éjszakai buszhoz."
+            ],
+            "ro": [
+              "Folosiți plata contactless pentru o îmbarcare mai rapidă.",
+              "Autobuzele Coaster (12/12A) oferă cele mai bune vederi spre stânci.",
+              "Autobuzele pot circula mai rar iarna; verificați orarul în avans.",
+              "Puntea superioară este încălzită, dar poate fi răcoare lângă geamuri.",
+              "Old Steine este nodul central pentru toate autobuzele de noapte."
+            ],
+            "en": [
+              "Use contactless 'Tap On Tap Off' for the fastest boarding experience.",
+              "The Coaster buses (12/12A) offer the most scenic cliff-top views.",
+              "Check schedules as some services may be reduced in the off-season.",
+              "The top deck is heated, but window seats can be a bit chilly.",
+              "Old Steine is the central hub for all late-night return bus services."
+            ]
+          }
+        }
       }
     }
   }

@@ -366,6 +366,206 @@
           "Many smaller shops close for the afternoon siesta.",
           "Lorca's main attraction is its Semana Santa (Holy Week); the embroidery museums explain why."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens suchen wir Schutz unter den Arkaden der Plaza de España und in der Stiftskirche San Patricio. Mittags bieten der Guevara-Palast und das MUBB-Stickereimuseum ein trockenes, kulturelles Erlebnis. Nachmittags erkunden wir die Innenräume der Burg von Lorca, wobei wir den Shuttle-Service nutzen, um dem Regen zu entgehen. Den Abend lassen wir sicher am Porche de San Antonio ausklingen.",
+            "hu": "Reggel a Plaza de España árkádjai és a San Patricio templom nyújt menedéket az eső elől. Délben a Guevara-palota és a MUBB hímzésmúzeum belső terei garantálnak száraz, kulturális programot. Délután a vár belső kiállításait járjuk be, érdemes kihasználni a várliftet vagy buszt. Az estét a Porche de San Antonio történelmi falai között zárjuk, figyelve a csúszós macskakövekre.",
+            "ro": "Dimineața căutăm adăpost sub arcadele din Plaza de España și în interiorul Bisericii San Patricio. La prânz, Palatul Guevara și Muzeul MUBB oferă o experiență culturală ferită de ploaie. După-amiaza explorăm zonele interioare ale Castelului Lorca, folosind transportul local pentru a evita umezala. Seara se încheie la Porche de San Antonio, admirând reflexiile ploii pe zidurile vechi.",
+            "en": "In the morning, we seek shelter under the arches of Plaza de España and inside San Patricio Church. At noon, Guevara's Palace and the MUBB Embroidery Museum offer a dry, cultural retreat. In the afternoon, we focus on the indoor exhibits of Lorca Castle, using the local shuttle to avoid the downpour. The evening ends at Porche de San Antonio, where the wet stones reflect the city lights."
+          },
+          "stops": [
+            {
+              "name": "Plaza de España",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Rathaus-Arkaden als Regenschutz.",
+                "hu": "Használja a városháza árkádjait esővédőként.",
+                "ro": "Folosiți arcadele primăriei pentru a vă proteja de ploaie.",
+                "en": "Use the town hall arches as shelter from the rain."
+              }
+            },
+            {
+              "name": "Collegiate Church of San Patricio",
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um einen starken Schauer abzuwarten.",
+                "hu": "Tökéletes helyszín egy intenzívebb zápor kivárására.",
+                "ro": "Un loc perfect pentru a aștepta trecerea unei ploi torențiale.",
+                "en": "A perfect spot to wait out a heavy shower."
+              }
+            },
+            {
+              "name": "Guevara's Palace",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Barockfassade schnell und gehen Sie hinein.",
+                "hu": "Csodálja meg gyorsan a barokk homlokzatot, majd menjen be.",
+                "ro": "Admirați rapid fațada barocă și intrați în interior.",
+                "en": "Admire the Baroque facade quickly and head inside."
+              }
+            },
+            {
+              "name": "Guerra Theatre",
+              "tip_5lang": {
+                "de": "Das Foyer bietet einen kurzen trockenen Rastplatz.",
+                "hu": "Az előcsarnok rövid, száraz pihenőhelyet kínál.",
+                "ro": "Foaierul oferă un scurt loc de odihnă uscat.",
+                "en": "The foyer offers a brief dry resting spot."
+              }
+            },
+            {
+              "name": "MUBB - Paso Blanco Embroidery Museum",
+              "tip_5lang": {
+                "de": "Ideales Ziel bei Regen; planen Sie hier mehr Zeit ein.",
+                "hu": "Ideális célpont esőben; tervezzen ide több időt.",
+                "ro": "Destinație ideală pe ploaie; alocați mai mult timp aici.",
+                "en": "Ideal rainy day destination; plan for extra time here."
+              }
+            },
+            {
+              "name": "Lorca Castle (Fortress of the Sun)",
+              "tip_5lang": {
+                "de": "Meiden Sie die Burgmauern bei Wind; besuchen Sie den Turm.",
+                "hu": "Szélben kerülje a várfalakat; látogassa az Alfonsina-tornyot.",
+                "ro": "Evitați zidurile în caz de vânt; vizitați turnul Alfonsina.",
+                "en": "Avoid the ramparts during wind; visit the Alfonsina tower."
+              }
+            },
+            {
+              "name": "Porche de San Antonio",
+              "tip_5lang": {
+                "de": "Vorsicht, die alten Steinstufen sind bei Nässe glatt.",
+                "hu": "Vigyázat, a régi kőlépcsők nedvesen csúszósak.",
+                "ro": "Atenție, treptele vechi de piatră sunt alunecoase pe ploaie.",
+                "en": "Caution, the ancient stone steps are slippery when wet."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nehmen Sie einen stabilen Regenschirm mit, da es auf dem Burgberg windig sein kann.",
+              "Die Stickereimuseen (MUBB/MASS) sind die besten Rückzugsorte bei Dauerregen.",
+              "Nutzen Sie den touristischen Zug zur Burg, um trocken oben anzukommen.",
+              "Vorsicht auf dem glatten Kopfsteinpflaster in der Altstadt."
+            ],
+            "hu": [
+              "Vigyen stabil esernyőt, mert a várhegyen szeles lehet az idő.",
+              "A hímzésmúzeumok a legjobb menedékek tartós eső esetén.",
+              "Használja a turistavonatot a várba menet, hogy szárazon érkezzen meg.",
+              "Vigyázzon a belvárosi macskaköveken, mert nagyon csúsznak."
+            ],
+            "ro": [
+              "Luați o umbrelă rezistentă, deoarece pe dealul castelului poate fi vânt.",
+              "Muzeele de broderie sunt cele mai bune refugii în caz de ploaie persistentă.",
+              "Folosiți trenulețul turistic spre castel pentru a ajunge uscat.",
+              "Atenție pe pavajul din centrul vechi, devine foarte alunecos."
+            ],
+            "en": [
+              "Take a sturdy umbrella as it can be windy up on the castle hill.",
+              "The embroidery museums are the best refuges during persistent rain.",
+              "Use the tourist train to the castle to arrive dry.",
+              "Be careful on the cobblestones in the old town, they become very slippery."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen in Lorca ist frisch, ideal für einen sonnigen Start auf der Plaza de España. Mittags wärmt uns die Sonne im Hof des Guevara-Palastes, bevor wir das MUBB besuchen. Der Nachmittag gehört der Burg, wo wir das milde Licht für Panoramafotos nutzen. Da die Sonne früh untergeht, beenden wir den Tag gemütlich am Porche de San Antonio, während die Stadtlichter angehen.",
+            "hu": "A téli reggel Lorcában friss, ideális egy napos kezdéshez a Plaza de Españán. Délben a nap sugarait a Guevara-palota udvarán élvezzük a MUBB látogatása előtt. A délután a váré, ahol a téli fények tökéletesek a panorámafotókhoz. Mivel korán sötétedik, a napot a Porche de San Antoniónál zárjuk, ahogy kigyúlnak a város fényei.",
+            "ro": "Dimineața de iarnă în Lorca este răcoroasă, ideală pentru un început însorit în Plaza de España. La prânz ne bucurăm de soare în curtea Palatului Guevara înainte de MUBB. După-amiaza este dedicată castelului, profitând de lumina blândă pentru fotografii. Deoarece soarele apune devreme, încheiem ziua la Porche de San Antonio, pe măsură ce se aprind luminile orașului.",
+            "en": "Winter mornings in Lorca are crisp, ideal for a sunny start at Plaza de España. At noon, we soak up the sun in the courtyard of Guevara's Palace before visiting MUBB. The afternoon is spent at the castle, taking advantage of the mild light for panoramic photos. As the sun sets early, we finish the day at Porche de San Antonio just as the city lights come on."
+          },
+          "stops": [
+            {
+              "name": "Plaza de España",
+              "tip_5lang": {
+                "de": "Genießen Sie die Morgensonne auf den Terrassen.",
+                "hu": "Élvezze a reggeli napsütést a teraszokon.",
+                "ro": "Bucurați-vă de soarele dimineții pe terase.",
+                "en": "Enjoy the morning sun on the terraces."
+              }
+            },
+            {
+              "name": "Collegiate Church of San Patricio",
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten die Kälte; Jacke anbehalten.",
+                "hu": "A vastag falak tartják a hideget; tartsa magán a kabátot.",
+                "ro": "Zidurile groase rețin frigul; păstrați jacheta pe dvs.",
+                "en": "The thick walls retain the cold; keep your jacket on."
+              }
+            },
+            {
+              "name": "Guevara's Palace",
+              "tip_5lang": {
+                "de": "Der Innenhof fängt im Winter wunderbar das Licht ein.",
+                "hu": "A belső udvar télen csodásan befogja a fényt.",
+                "ro": "Curtea interioară captează minunat lumina iarna.",
+                "en": "The inner courtyard captures the light beautifully in winter."
+              }
+            },
+            {
+              "name": "Guerra Theatre",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp im Warmen, bevor es weitergeht.",
+                "hu": "Egy rövid megálló a melegben, mielőtt továbbmenne.",
+                "ro": "O scurtă oprire la căldură înainte de a merge mai departe.",
+                "en": "A brief stop in the warmth before moving on."
+              }
+            },
+            {
+              "name": "MUBB - Paso Blanco Embroidery Museum",
+              "tip_5lang": {
+                "de": "Gut beheizt, ideal zum Aufwärmen am Mittag.",
+                "hu": "Jól fűtött, ideális egy déli felmelegedéshez.",
+                "ro": "Bine încălzit, ideal pentru a vă încălzi la prânz.",
+                "en": "Well-heated, ideal for warming up at noon."
+              }
+            },
+            {
+              "name": "Lorca Castle (Fortress of the Sun)",
+              "tip_5lang": {
+                "de": "Besuch vor 17:00 Uhr planen; danach wird es kühl.",
+                "hu": "Tervezze a látogatást 17:00 előtt; utána lehűl az idő.",
+                "ro": "Planificați vizita înainte de ora 17:00; apoi se răcește.",
+                "en": "Plan your visit before 5:00 PM; it gets chilly afterwards."
+              }
+            },
+            {
+              "name": "Porche de San Antonio",
+              "tip_5lang": {
+                "de": "Wunderschön beleuchtet in der frühen Winterdämmerung.",
+                "hu": "Gyönyörűen kivilágítva a korai téli szürkületben.",
+                "ro": "Frumos iluminat în amurgul timpuriu de iarnă.",
+                "en": "Beautifully lit up in the early winter twilight."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich in Schichten; im Schatten ist es kühl, in der Sonne warm.",
+              "Die Sonne geht gegen 18:00 Uhr unter; planen Sie den Burgbesuch rechtzeitig.",
+              "Genießen Sie eine heiße Schokolade in einem der Cafés nahe der Plaza.",
+              "Der Wind auf dem Burgberg kann im Winter sehr schneidend sein."
+            ],
+            "hu": [
+              "Öltözzön rétegesen; árnyékban hűvös, a napon meleg van.",
+              "A nap 18:00 körül nyugszik; időzítse jól a várlátogatást.",
+              "Igyon egy forró csokoládét a Plaza közeli kávézók egyikében.",
+              "A várhegyen a szél télen elég metsző lehet."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi; e răcoare la umbră, dar cald la soare.",
+              "Soarele apune în jur de ora 18:00; planificați vizita la castel din timp.",
+              "Savurați o ciocolată caldă într-o cafenea de lângă Plaza.",
+              "Vântul de pe dealul castelului poate fi tăios iarna."
+            ],
+            "en": [
+              "Dress in layers; it's chilly in the shade but warm in the sun.",
+              "The sun sets around 6:00 PM; time your castle visit well.",
+              "Enjoy a hot chocolate in one of the cafes near the Plaza.",
+              "The wind on the castle hill can be quite biting in winter."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -750,6 +950,224 @@
           "Always lock your bike securely at the main attractions.",
           "The streets in the old town can be narrow and cobbled."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Regenfahrt beginnt vorsichtig an der Plaza de España. Wir steuern das Guerra-Theater und den Porche de San Antonio an, immer bereit für einen schnellen Unterstand. Den Mittag verbringen wir ausgiebig in der Burg, wo das Fahrrad sicher geparkt ist. Nachmittags besuchen wir die Museen MUBB und MASS, bevor wir den Tag trotz Nässe am Guevara-Palast und San Patricio beenden.",
+            "hu": "Az esős bringázás óvatosan indul a Plaza de Españánál. Érintjük a Guerra Színházat és a San Antonio kaput, keresve a fedett helyeket. A delet a várban töltjük, ahol a kerékpár biztonságosan leparkolható. Délután a MUBB és MASS múzeumok nyújtanak menedéket, majd a napot a Guevara-palotánál és a San Patricio templomnál zárjuk.",
+            "ro": "O plimbare cu bicicleta pe ploaie începe cu prudență la Plaza de España. Mergem spre Teatrul Guerra și Porche de San Antonio, căutând locuri acoperite. Prânzul îl petrecem la castel, unde bicicleta poate fi parcată în siguranță. După-amiaza vizităm muzeele MUBB și MASS, încheind ziua la Palatul Guevara și San Patricio.",
+            "en": "A rainy ride starts cautiously at Plaza de España. We head towards Guerra Theatre and Porche de San Antonio, looking for covered spots. We spend midday at the castle, where the bike can be safely parked. In the afternoon, the MUBB and MASS museums provide shelter, before ending the day at Guevara's Palace and San Patricio."
+          },
+          "stops": [
+            {
+              "name": "Plaza de España",
+              "tip_5lang": {
+                "de": "Vorsicht auf den glatten Pflastersteinen beim Anfahren.",
+                "hu": "Vigyázzon a csúszós köveken az indulásnál.",
+                "ro": "Atenție pe pietrele alunecoase la plecare.",
+                "en": "Be careful on the slippery stones when starting off."
+              }
+            },
+            {
+              "name": "Guerra Theatre",
+              "tip_5lang": {
+                "de": "Kurzer Stopp unter dem Vordach möglich.",
+                "hu": "Rövid megálló az előtető alatt lehetséges.",
+                "ro": "Scurtă oprire sub copertină este posibilă.",
+                "en": "Brief stop under the canopy is possible."
+              }
+            },
+            {
+              "name": "Porche de San Antonio",
+              "tip_5lang": {
+                "de": "Fahren Sie langsam durch den Torbogen, Pfützengefahr.",
+                "hu": "Hajtson lassan a boltív alatt, pocsolyaveszély.",
+                "ro": "Traversați încet pe sub arcadă, pericol de bălți.",
+                "en": "Ride slowly under the arch, danger of puddles."
+              }
+            },
+            {
+              "name": "Lorca Castle (Fortress of the Sun)",
+              "tip_5lang": {
+                "de": "Der Aufstieg ist bei Nässe anstrengend, aber griffig.",
+                "hu": "Az emelkedő nedvesen fárasztó, de nem csúszik annyira.",
+                "ro": "Urcarea este obositoare pe ploaie, dar are aderență.",
+                "en": "The climb is tiring in the wet but has decent grip."
+              }
+            },
+            {
+              "name": "MUBB - Paso Blanco Embroidery Museum",
+              "tip_5lang": {
+                "de": "Fahrradständer in der Nähe suchen und Ausrüstung trocknen.",
+                "hu": "Keressen közeli tárolót és szárítsa meg a felszerelését.",
+                "ro": "Căutați un rasteu în apropiere și uscați-vă echipamentul.",
+                "en": "Find a nearby rack and dry your gear."
+              }
+            },
+            {
+              "name": "MASS - Paso Azul Embroidery Museum",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um sich zwischen zwei Schauern aufzuwärmen.",
+                "hu": "Tökéletes hely felmelegedni két zápor között.",
+                "ro": "Locul perfect pentru a vă încălzi între două averse.",
+                "en": "Perfect place to warm up between two showers."
+              }
+            },
+            {
+              "name": "Guevara's Palace",
+              "tip_5lang": {
+                "de": "Bremstests vor der Abfahrt in die Altstadt machen.",
+                "hu": "Fékpróba kötelező a belvárosi lejtő előtt.",
+                "ro": "Verificați frânele înainte de coborârea spre centru.",
+                "en": "Check your brakes before the descent to the center."
+              }
+            },
+            {
+              "name": "Collegiate Church of San Patricio",
+              "tip_5lang": {
+                "de": "Sicherer Abschluss; parken Sie trocken unter Arkaden.",
+                "hu": "Biztonságos zárás; parkoljon szárazon az árkádok alatt.",
+                "ro": "Final sigur; parcați la uscat sub arcade.",
+                "en": "Safe finish; park in the dry under the arches."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Kleidung; die Abfahrten können kühl sein.",
+              "Reduzieren Sie den Reifendruck leicht für mehr Grip auf nassen Steinen.",
+              "Achten Sie auf tiefere Pfützen in den engen Gassen.",
+              "Nutzen Sie die Museen für längere Trockenpausen."
+            ],
+            "hu": [
+              "Viseljen vízálló ruházatot; a lejtőkön hideg lehet.",
+              "Csökkentse kicsit a guminyomást a jobb tapadásért a vizes kövön.",
+              "Ügyeljen a mélyebb pocsolyákra a szűk utcákban.",
+              "Használja a múzeumokat hosszabb száradási szünetekre."
+            ],
+            "ro": [
+              "Purtați haine impermeabile; coborârile pot fi reci.",
+              "Reduceți ușor presiunea în pneuri pentru aderență pe pietre ude.",
+              "Atenție la bălțile adânci pe străzile înguste.",
+              "Folosiți muzeele pentru pauze mai lungi de uscare."
+            ],
+            "en": [
+              "Wear waterproof clothing; descents can be chilly.",
+              "Slightly reduce tire pressure for better grip on wet stones.",
+              "Watch out for deeper puddles in narrow streets.",
+              "Use the museums for longer dry breaks."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen auf zwei Rädern führt uns von der Plaza de España zum Guerra-Theater. Wir nutzen die kühle, klare Luft für die Fahrt zum Burgberg, wo uns die Wintersonne belohnt. Mittags wärmen wir uns in den Stickereimuseen auf. Der Nachmittag endet mit einer sonnigen Fahrt vorbei am Guevara-Palast zurück zur Stiftskirche San Patricio vor dem frühen Sonnenuntergang.",
+            "hu": "Friss téli reggel két keréken: a Plaza de Españától a Guerra Színházig tekerünk. Kihasználjuk a tiszta levegőt a várhegyi menethez, ahol a téli nap kárpótol a hidegért. Délben a hímzésmúzeumokban melegszünk fel. A délután napsütéses tekeréssel zárul a Guevara-palota mellett, vissza a San Patricio templomhoz a korai naplemente előtt.",
+            "ro": "O dimineață răcoroasă de iarnă pe două roți ne duce de la Plaza de España la Teatrul Guerra. Profităm de aerul curat pentru urcarea la castel, unde soarele de iarnă ne răsplătește. La prânz ne încălzim în muzeele de broderie. După-amiaza se încheie cu o plimbare însorită pe lângă Palatul Guevara înapoi la San Patricio, înainte de apus.",
+            "en": "A crisp winter morning on two wheels takes us from Plaza de España to Guerra Theatre. We use the clear air for the ride up to the castle, where the winter sun rewards us. At noon, we warm up in the embroidery museums. The afternoon ends with a sunny ride past Guevara's Palace back to San Patricio Church before the early sunset."
+          },
+          "stops": [
+            {
+              "name": "Plaza de España",
+              "tip_5lang": {
+                "de": "Handschuhe sind bei der morgendlichen Kälte wichtig.",
+                "hu": "A kesztyű fontos a reggeli hidegben.",
+                "ro": "Mănușile sunt importante în frigul dimineții.",
+                "en": "Gloves are important in the morning cold."
+              }
+            },
+            {
+              "name": "Guerra Theatre",
+              "tip_5lang": {
+                "de": "Ein sonniges Plätzchen für einen kurzen Stopp suchen.",
+                "hu": "Keressen egy napos helyet egy rövid megállóhoz.",
+                "ro": "Căutați un loc însorit pentru o scurtă oprire.",
+                "en": "Find a sunny spot for a brief stop."
+              }
+            },
+            {
+              "name": "Porche de San Antonio",
+              "tip_5lang": {
+                "de": "Im Schatten des Tores kann es sehr kühl sein.",
+                "hu": "A kapu árnyékában nagyon hűvös lehet.",
+                "ro": "La umbra porții poate fi foarte răcoare.",
+                "en": "It can be very chilly in the shadow of the gate."
+              }
+            },
+            {
+              "name": "Lorca Castle (Fortress of the Sun)",
+              "tip_5lang": {
+                "de": "Die Auffahrt wärmt auf; oben windfeste Jacke nötig.",
+                "hu": "A felfelé menet felmelegíti, de fent szélálló kabát kell.",
+                "ro": "Urcarea vă va încălzi, dar sus aveți nevoie de jachetă.",
+                "en": "The climb will warm you up, but you need a windbreaker at the top."
+              }
+            },
+            {
+              "name": "MUBB - Paso Blanco Embroidery Museum",
+              "tip_5lang": {
+                "de": "Fahrrad sicher abstellen und die Heizung genießen.",
+                "hu": "Parkoljon le biztonságosan és élvezze a fűtést.",
+                "ro": "Parcați în siguranță și bucurați-vă de căldură.",
+                "en": "Park safely and enjoy the heating."
+              }
+            },
+            {
+              "name": "MASS - Paso Azul Embroidery Museum",
+              "tip_5lang": {
+                "de": "Perfekte Zeit für einen Besuch im warmen Innenraum.",
+                "hu": "Tökéletes időpont a meleg belső terek látogatásához.",
+                "ro": "Momentul perfect pentru o vizită în interiorul călduros.",
+                "en": "Perfect time for a visit to the warm interior."
+              }
+            },
+            {
+              "name": "Guevara's Palace",
+              "tip_5lang": {
+                "de": "Nutzen Sie das tiefe Sonnenlicht für Fassadenfotos.",
+                "hu": "Használja ki az alacsony napállást a homlokzati fotókhoz.",
+                "ro": "Profitați de soarele jos pentru fotografii cu fațada.",
+                "en": "Take advantage of the low sun for facade photos."
+              }
+            },
+            {
+              "name": "Collegiate Church of San Patricio",
+              "tip_5lang": {
+                "de": "Tourende vor Einbruch der Dunkelheit planen.",
+                "hu": "Tervezze a túra végét sötétedés elé.",
+                "ro": "Planificați finalul turului înainte de lăsarea întunericului.",
+                "en": "Plan the end of the tour before dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Zwiebelprinzip bei der Kleidung ist entscheidend.",
+              "Achten Sie auf Schattenbereiche, dort kann Reifglätte herrschen.",
+              "Die Luft ist im Winter sehr klar, ideal für Fernsichten von der Burg.",
+              "Beleuchtung am Fahrrad für den frühen Abend prüfen."
+            ],
+            "hu": [
+              "A réteges öltözködés döntő fontosságú.",
+              "Ügyeljen az árnyékos részekre, ott deres lehet az út.",
+              "A levegő télen nagyon tiszta, ideális a kilátáshoz a várból.",
+              "Ellenőrizze a kerékpár világítását a korai este miatt."
+            ],
+            "ro": [
+              "Îmbrăcămintea în straturi este esențială.",
+              "Atenție la zonele cu umbră, drumul poate fi brumat.",
+              "Aerul este foarte curat iarna, ideal pentru vederea de la castel.",
+              "Verificați luminile bicicletei pentru seara timpurie."
+            ],
+            "en": [
+              "Layering your clothes is crucial.",
+              "Watch out for shaded areas, the road might be frosty.",
+              "The air is very clear in winter, ideal for views from the castle.",
+              "Check your bike lights for the early evening."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1086,6 +1504,188 @@
           "Plan your route between clusters to save time.",
           "The Fortress of the Sun is extensive; allow plenty of time for your visit."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein Regentag beginnt bequem im Central Parking. Wir besuchen die Plaza de España und San Patricio, die nur einen kurzen Sprung entfernt sind. Mittags fahren wir zum Guevara-Palast und MUBB, wobei wir nah am Eingang parken. Die Burg Lorca erreichen wir direkt mit dem Auto, um den Regen draußen zu lassen. Ein gemütliches Mittagessen nahe der Burg schließt die Tour ab, bevor wir zum Porche de San Antonio und dem MASS fahren.",
+            "hu": "Az esős nap kényelmesen indul a Central Parkingban. A Plaza de España és a San Patricio templom csak egy rövid ugrás. Délben a Guevara-palotához és a MUBB-hoz hajtunk, figyelve a közeli parkolásra. A várat közvetlenül autóval közelítjük meg, elkerülve az ázást. Egy kellemes ebéd a vár közelében zárja a programot, majd a Porche de San Antonio és a MASS következik.",
+            "ro": "O zi ploioasă începe confortabil la Central Parking. Vizităm Plaza de España și San Patricio, aflate la mică distanță. La prânz conducem spre Palatul Guevara și MUBB, parcând cât mai aproape. Ajungem la castel direct cu mașina pentru a evita ploaia. Un prânz plăcut lângă castel încheie turul, urmat de Porche de San Antonio și MASS.",
+            "en": "A rainy day starts comfortably at Central Parking. We visit Plaza de España and San Patricio, just a short hop away. At noon, we drive to Guevara's Palace and MUBB, parking close to the entrance. We reach Lorca Castle directly by car to stay dry. A pleasant lunch near the castle finishes the tour, followed by Porche de San Antonio and the MASS museum."
+          },
+          "stops": [
+            {
+              "name": "Central Parking",
+              "tip_5lang": {
+                "de": "Trockener Start im überdachten Parkhaus.",
+                "hu": "Száraz kezdés a fedett parkolóházban.",
+                "ro": "Început uscat în parcarea acoperită.",
+                "en": "Dry start in the covered parking garage."
+              }
+            },
+            {
+              "name": "Plaza de España & Collegiate of San Patricio",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Parkplatz, Schirm mitnehmen.",
+                "hu": "Rövid séta a parkolótól, vigyen ernyőt.",
+                "ro": "Drum scurt de la parcare, luați umbrela.",
+                "en": "Short walk from the parking, take an umbrella."
+              }
+            },
+            {
+              "name": "Guevara Palace & MUBB Museum",
+              "tip_5lang": {
+                "de": "Parken Sie in der Calle Lope Gisbert für kurzen Zugang.",
+                "hu": "Parkoljon a Calle Lope Gisbert utcában a közeli bejárathoz.",
+                "ro": "Parcați pe Calle Lope Gisbert pentru acces rapid.",
+                "en": "Park on Calle Lope Gisbert for short access."
+              }
+            },
+            {
+              "name": "Lorca Castle (Fortress of the Sun)",
+              "tip_5lang": {
+                "de": "Direkte Anfahrt zum Burgtor spart den nassen Aufstieg.",
+                "hu": "A várkapuig való felhajtás megspórolja az ázást.",
+                "ro": "Accesul auto până la poartă vă scutește de ploaie.",
+                "en": "Driving to the castle gate saves you from the rain."
+              }
+            },
+            {
+              "name": "Lunch near the Castle",
+              "tip_5lang": {
+                "de": "Reservieren Sie einen Tisch im Innenbereich.",
+                "hu": "Foglaljon asztalt a belső térben.",
+                "ro": "Rezervați o masă în interior.",
+                "en": "Reserve a table indoors."
+              }
+            },
+            {
+              "name": "Porche de San Antonio & MASS Museum",
+              "tip_5lang": {
+                "de": "Vorsicht in den engen, nassen Gassen der Altstadt.",
+                "hu": "Vigyázzon a szűk, nedves belvárosi utcákon.",
+                "ro": "Atenție pe străzile înguste și ude din centrul vechi.",
+                "en": "Watch out in the narrow, wet streets of the old town."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Parkhäuser, um das Auto trocken zu verlassen.",
+              "Die Zufahrt zur Burg ist gut asphaltiert und bei Regen sicher.",
+              "Vermeiden Sie das Parken in tiefliegenden Zonen bei Starkregen.",
+              "Museen haben oft Garderoben für nasse Mäntel."
+            ],
+            "hu": [
+              "Használja a parkolóházakat, hogy szárazon szálljon ki.",
+              "A várba vezető út jól aszfaltozott és esőben is biztonságos.",
+              "Kerülje a mélyebben fekvő parkolókat heves esőzéskor.",
+              "A múzeumokban gyakran van ruhatár a vizes kabátoknak."
+            ],
+            "ro": [
+              "Folosiți parcările etajate pentru a ieși uscat din mașină.",
+              "Drumul spre castel este bine asfaltat și sigur pe ploaie.",
+              "Evitați parcarea în zone joase în caz de ploi torențiale.",
+              "Muzeele au adesea garderobă pentru haine ude."
+            ],
+            "en": [
+              "Use parking garages to exit the car in the dry.",
+              "The road to the castle is well-paved and safe in the rain.",
+              "Avoid parking in low-lying zones during heavy rain.",
+              "Museums often have cloakrooms for wet coats."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An einem klaren Wintermorgen starten wir im Central Parking. Die Sonne steht tief über der Plaza de España und San Patricio. Mittags besuchen wir den Guevara-Palast und das MUBB, wobei wir die angenehme Wärme im Auto zwischen den Stopps genießen. Der Nachmittag auf der Burg Lorca bietet fantastische Fernsichten bei klarer Winterluft. Nach einem späten Mittagessen beenden wir die Tour am MASS-Museum.",
+            "hu": "Tiszta téli reggelen indulunk a Central Parkingból. A nap alacsonyan jár a Plaza de España és a San Patricio felett. Délben a Guevara-palotát és a MUBB-ot látogatjuk meg, élvezve az autó melegét a megállók között. A délután a várban fantasztikus kilátást nyújt a tiszta téli levegőben. Egy késői ebéd után a túrát a MASS múzeumnál zárjuk.",
+            "ro": "Într-o dimineață senină de iarnă pornim de la Central Parking. Soarele este jos peste Plaza de España și San Patricio. La prânz vizităm Palatul Guevara și MUBB, profitând de căldura mașinii între opriri. După-amiaza la castel oferă vederi fantastice în aerul curat de iarnă. După un prânz târziu, încheiem turul la muzeul MASS.",
+            "en": "On a clear winter morning, we start at Central Parking. The sun sits low over Plaza de España and San Patricio. At noon, we visit Guevara's Palace and MUBB, enjoying the warmth of the car between stops. The afternoon at Lorca Castle offers fantastic views in the clear winter air. After a late lunch, we end the tour at the MASS museum."
+          },
+          "stops": [
+            {
+              "name": "Central Parking",
+              "tip_5lang": {
+                "de": "Das Auto steht hier frostfrei und sicher.",
+                "hu": "Az autó itt fagymentesen és biztonságban áll.",
+                "ro": "Mașina stă aici în siguranță și ferită de îngheț.",
+                "en": "The car stays frost-free and safe here."
+              }
+            },
+            {
+              "name": "Plaza de España & Collegiate of San Patricio",
+              "tip_5lang": {
+                "de": "Sonnige Plätze zum Fotografieren suchen.",
+                "hu": "Keressen napos helyeket a fotózáshoz.",
+                "ro": "Căutați locuri însorite pentru fotografii.",
+                "en": "Look for sunny spots for photography."
+              }
+            },
+            {
+              "name": "Guevara Palace & MUBB Museum",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen Auto und Museen nutzen.",
+                "hu": "Használja ki a rövid utat az autó és a múzeumok közt.",
+                "ro": "Profitați de distanța scurtă între mașină și muzee.",
+                "en": "Take advantage of the short distance between car and museums."
+              }
+            },
+            {
+              "name": "Lorca Castle (Fortress of the Sun)",
+              "tip_5lang": {
+                "de": "Die Burgparkplätze sind im Winter meist leerer.",
+                "hu": "A vár parkolói télen általában üresebbek.",
+                "ro": "Parcările castelului sunt de obicei mai libere iarna.",
+                "en": "The castle parking lots are usually emptier in winter."
+              }
+            },
+            {
+              "name": "Lunch near the Castle",
+              "tip_5lang": {
+                "de": "Ein sonniger Fensterplatz ist im Winter ideal.",
+                "hu": "Egy napos ablak melletti asztal télen ideális.",
+                "ro": "O masă însorită la fereastră este ideală iarna.",
+                "en": "A sunny window seat is ideal in winter."
+              }
+            },
+            {
+              "name": "Porche de San Antonio & MASS Museum",
+              "tip_5lang": {
+                "de": "Achten Sie auf die Parkzeiten in der Altstadt.",
+                "hu": "Ügyeljen a parkolási időkre a belvárosban.",
+                "ro": "Atenție la timpii de parcare în centrul vechi.",
+                "en": "Pay attention to parking times in the old town."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Lassen Sie keine Wertsachen sichtbar im Auto liegen.",
+              "Nutzen Sie die Sitzheizung für die Fahrt zum Burgberg.",
+              "Die Straßen sind im Winter in Lorca meist trocken und sicher.",
+              "Planen Sie die Rückfahrt vor der frühen Dämmerung."
+            ],
+            "hu": [
+              "Ne hagyjon értéket látható helyen az autóban.",
+              "Használja az ülésfűtést a várhegyi menethez.",
+              "Lorcában az utak télen általában szárazak és biztonságosak.",
+              "Tervezze meg a visszautat a korai szürkület előtt."
+            ],
+            "ro": [
+              "Nu lăsați obiecte de valoare la vedere în mașină.",
+              "Folosiți încălzirea în scaune pentru urcarea la castel.",
+              "Drumurile din Lorca sunt de obicei uscate și sigure iarna.",
+              "Planificați drumul de întoarcere înainte de amurgul timpuriu."
+            ],
+            "en": [
+              "Do not leave valuables visible in the car.",
+              "Use the seat heating for the drive up the castle hill.",
+              "Roads in Lorca are usually dry and safe in winter.",
+              "Plan your return trip before the early twilight."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1422,6 +2022,188 @@
           "The tourist train is a good alternative to the public bus for visiting the castle.",
           "Some distances are easily walkable, plan for a mix of walking and riding."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Vom Busbahnhof Sutullena starten wir im Regen Richtung Plaza de España. Wir verbringen den Vormittag trocken in der Stiftskirche San Patricio und besuchen mittags die Museen MUBB und MASS. Zur Burg nutzen wir den lokalen Shuttle-Bus, um dem Wetter zu entkommen. Nachmittags erkunden wir den Guevara-Palast und beenden den Tag sicher am Guerra-Theater, nah an der Bushaltestelle.",
+            "hu": "A Sutullena buszállomástól esőben indulunk a Plaza de España felé. A délelőttöt szárazon töltjük a San Patricio templomban, délben pedig a MUBB és MASS múzeumokat látogatjuk. A várhoz helyi buszt veszünk igénybe, hogy elkerüljük az ázást. Délután a Guevara-palotát járjuk be, majd a napot a Guerra Színháznál zárjuk, közel a megállóhoz.",
+            "ro": "De la stația de autobuz Sutullena pornim pe ploaie spre Plaza de España. Petrecem dimineața la adăpost în Biserica San Patricio, iar la prânz vizităm muzeele MUBB și MASS. Pentru castel folosim autobuzul local pentru a evita ploaia. După-amiaza explorăm Palatul Guevara și încheiem ziua la Teatrul Guerra, aproape de stație.",
+            "en": "From Sutullena Bus Station, we head towards Plaza de España in the rain. We spend the morning dry inside San Patricio Church and visit the MUBB and MASS museums at noon. We use the local shuttle bus to reach the castle and stay out of the weather. In the afternoon, we explore Guevara's Palace and end the day at Guerra Theatre, close to the bus stop."
+          },
+          "stops": [
+            {
+              "name": "Central Bus Stop (Lorca Sutullena)",
+              "tip_5lang": {
+                "de": "Wartebereich im Gebäude nutzen.",
+                "hu": "Használja az épületen belüli várótermet.",
+                "ro": "Folosiți sala de așteptare din interiorul clădirii.",
+                "en": "Use the waiting area inside the building."
+              }
+            },
+            {
+              "name": "Plaza de España & Collegiate of San Patricio",
+              "tip_5lang": {
+                "de": "Buslinie L1 hält fast direkt an der Plaza.",
+                "hu": "Az L1-es busz szinte közvetlenül a Plazánál áll meg.",
+                "ro": "Linia L1 oprește aproape direct la Plaza.",
+                "en": "Bus line L1 stops almost directly at the Plaza."
+              }
+            },
+            {
+              "name": "MUBB & MASS Embroidery Museums",
+              "tip_5lang": {
+                "de": "Ideal, um eine Regenpause einzulegen.",
+                "hu": "Ideális egy esőszünet beiktatására.",
+                "ro": "Ideal pentru o pauză de ploaie.",
+                "en": "Ideal for taking a rain break."
+              }
+            },
+            {
+              "name": "Lorca Castle (Fortress of the Sun)",
+              "tip_5lang": {
+                "de": "Nutzen Sie den speziellen Castle-Shuttle ab der Innenstadt.",
+                "hu": "Vegye igénybe a speciális vár-buszt a belvárosból.",
+                "ro": "Folosiți microbuzul special pentru castel din centru.",
+                "en": "Use the special castle shuttle from the city center."
+              }
+            },
+            {
+              "name": "Guevara's Palace",
+              "tip_5lang": {
+                "de": "Haltestelle in der Nähe suchen; Regenjacke bereitthalten.",
+                "hu": "Keressen közeli megállót; készítse elő az esőkabátot.",
+                "ro": "Căutați stația din apropiere; pregătiți pelerina.",
+                "en": "Find a nearby stop; have your raincoat ready."
+              }
+            },
+            {
+              "name": "Guerra Theatre",
+              "tip_5lang": {
+                "de": "Abschluss nah am Rückweg zum Busbahnhof.",
+                "hu": "A záróhelyszín közel van a buszállomáshoz.",
+                "ro": "Finalul este aproape de drumul spre autogară.",
+                "en": "The final stop is close to the way back to the bus station."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Laden Sie die lokale Transport-App für Echtzeit-Updates.",
+              "Die Busse sind im Winter und bei Regen meist pünktlich.",
+              "Hatten Sie passendes Kleingeld für die Fahrkarten bereit.",
+              "Sutullena hat einen überdachten Bahnsteig."
+            ],
+            "hu": [
+              "Töltse le a helyi közlekedési alkalmazást az élő adatokhoz.",
+              "A buszok télen és esőben is általában pontosak.",
+              "Legyen Önnél aprópénz a jegyvásárláshoz.",
+              "Sutullena állomásnak fedett peronja van."
+            ],
+            "ro": [
+              "Descărcați aplicația de transport local pentru actualizări live.",
+              "Autobuzele sunt de obicei punctuale iarna și pe ploaie.",
+              "Aveți la dvs. bani mărunți pentru bilete.",
+              "Stația Sutullena are peron acoperit."
+            ],
+            "en": [
+              "Download the local transit app for real-time updates.",
+              "Buses are usually punctual in winter and rain.",
+              "Have small change ready for ticket purchases.",
+              "Sutullena station has a covered platform."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An einem frischen Wintermorgen erreichen wir Sutullena und fahren zur Plaza de España. Die milde Sonne wärmt die Stiftskirche San Patricio auf. Mittags besuchen wir die Stickereimuseen MUBB und MASS, bevor wir den Nachmittagsbus zur Burg nehmen. Dort genießen wir den klaren Blick auf das Guadalentín-Tal. Die Tour endet am Guevara-Palast und dem Guerra-Theater bei einsetzender Abendkühle.",
+            "hu": "Friss téli reggelen érkezünk Sutullenába, majd a Plaza de Españához megyünk. A szelíd napfény megvilágítja a San Patricio templomot. Délben a MUBB és MASS hímzésmúzeumokat látogatjuk, mielőtt délutáni busszal felmennénk a várba. Onnan élvezzük a tiszta kilátást a Guadalentín-völgyre. A túra a Guevara-palotánál és a Guerra Színháznál zárul az esti lehűléskor.",
+            "ro": "Într-o dimineață răcoroasă de iarnă ajungem la Sutullena și mergem spre Plaza de España. Soarele blând luminează Biserica San Patricio. La prânz vizităm muzeele MUBB și MASS înainte de a lua autobuzul spre castel. De acolo admirăm valea Guadalentín. Turul se încheie la Palatul Guevara și Teatrul Guerra, odată cu răcoarea serii.",
+            "en": "On a crisp winter morning, we arrive at Sutullena and head to Plaza de España. The mild sun lights up San Patricio Church. At noon, we visit the MUBB and MASS embroidery museums before taking the afternoon bus to the castle. From there, we enjoy clear views of the Guadalentín Valley. The tour ends at Guevara's Palace and Guerra Theatre as the evening chill sets in."
+          },
+          "stops": [
+            {
+              "name": "Central Bus Stop (Lorca Sutullena)",
+              "tip_5lang": {
+                "de": "Frühmorgens kann es am Bahnsteig zugig sein.",
+                "hu": "Kora reggel huzatos lehet a peron.",
+                "ro": "Dimineața devreme poate fi curent pe peron.",
+                "en": "Early morning can be drafty on the platform."
+              }
+            },
+            {
+              "name": "Plaza de España & Collegiate of San Patricio",
+              "tip_5lang": {
+                "de": "Die Sonne erreicht den Platz gegen 10:00 Uhr.",
+                "hu": "A nap 10:00 körül éri el a teret.",
+                "ro": "Soarele ajunge în piață în jurul orei 10:00.",
+                "en": "The sun reaches the square around 10:00 AM."
+              }
+            },
+            {
+              "name": "MUBB & MASS Embroidery Museums",
+              "tip_5lang": {
+                "de": "Angenehm temperierte Räume laden zum Verweilen ein.",
+                "hu": "Kellemes hőmérsékletű termek várják a látogatókat.",
+                "ro": "Sălile cu temperatură plăcută vă invită la vizită.",
+                "en": "Pleasantly tempered rooms invite for a longer stay."
+              }
+            },
+            {
+              "name": "Lorca Castle (Fortress of the Sun)",
+              "tip_5lang": {
+                "de": "Letzte Rückfahrt des Shuttles vor Sonnenuntergang prüfen.",
+                "hu": "Ellenőrizze az utolsó busz indulását naplemente előtt.",
+                "ro": "Verificați ultima cursă a microbuzului înainte de apus.",
+                "en": "Check the last shuttle return before sunset."
+              }
+            },
+            {
+              "name": "Guevara's Palace",
+              "tip_5lang": {
+                "de": "Im Winter sind die Besucherzahlen hier geringer.",
+                "hu": "Télen itt alacsonyabb a látogatók száma.",
+                "ro": "Iarna numărul de vizitatori este mai mic aici.",
+                "en": "Visitor numbers are lower here in winter."
+              }
+            },
+            {
+              "name": "Guerra Theatre",
+              "tip_5lang": {
+                "de": "Die Abendbeleuchtung ist im Winter besonders schön.",
+                "hu": "Az esti kivilágítás télen különösen szép.",
+                "ro": "Iluminatul de seară este deosebit de frumos iarna.",
+                "en": "The evening lighting is especially beautiful in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Winterfahrplan der lokalen Buslinien.",
+              "Züge aus Murcia/Águilas halten direkt in Sutullena.",
+              "Der Fußweg vom Busbahnhof ins Zentrum ist kurz (10 Min).",
+              "Abends wird es in den Bussen oft stärker geheizt."
+            ],
+            "hu": [
+              "Ellenőrizze a helyi járatok téli menetrendjét.",
+              "A Murciából/Águilasból érkező vonatok Sutullenában állnak meg.",
+              "A buszállomástól a központig tartó séta rövid (10 perc).",
+              "Este a buszokon gyakran erősebb a fűtés."
+            ],
+            "ro": [
+              "Verificați orarul de iarnă al liniilor locale.",
+              "Trenurile din Murcia/Águilas opresc direct la Sutullena.",
+              "Drumul pe jos de la autogară spre centru e scurt (10 min).",
+              "Seara încălzirea este adesea mai puternică în autobuze."
+            ],
+            "en": [
+              "Check the winter timetable for local bus lines.",
+              "Trains from Murcia/Águilas stop directly at Sutullena.",
+              "The walk from the bus station to the center is short (10 min).",
+              "Buses are often more strongly heated in the evening."
+            ]
+          }
+        }
       }
     }
   }

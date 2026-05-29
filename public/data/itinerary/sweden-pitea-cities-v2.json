@@ -338,6 +338,178 @@
           "Check the museum's opening hours in advance.",
           "Keep a light jacket handy; it can be windy even in summer."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Morgen in der Stadtkirche, einem trockenen Rückzugsort. Der Piteå-Museumsbesuch ist ideal, um dem Regen zu entfliehen. Mittags bietet der Badhusparken eine mystische Atmosphäre. Am Nachmittag spazieren Sie am Hafen entlang, wo die Ostsee grau schimmert, bevor Sie den Tag im historischen Öjeby bei gedämpftem Licht ausklingen lassen.",
+            "hu": "Kezdje a reggelt a városi templomban, amely menedéket nyújt az eső elől. A Piteå Múzeum tökéletes helyszín a délelőtti órákra. Délben a Badhusparken ködös látványa várja, majd délután a kikötő szürke vizei mellett sétálhat. A napot Öjeby történelmi faházai között zárja, ahol az eső áztatta utcák különleges hangulatot árasztanak.",
+            "ro": "Începeți dimineața la biserica orașului, un refugiu uscat. Muzeul Piteå este ideal pentru a evita ploaia. La prânz, Badhusparken oferă o atmosferă mistică, iar după-amiaza vă puteți plimba de-a lungul portului, unde marea are nuanțe gri. Încheiați ziua în satul bisericesc istoric Öjeby, unde luminile se reflectă în bălțile de pe străzile vechi.",
+            "en": "Start your morning at the City Church, a dry sanctuary. Piteå Museum is the perfect indoor escape for the late morning. At noon, Badhusparken offers a misty, atmospheric view, followed by an afternoon stroll along the harbour. End your day in the historic Öjeby church town, where the rain adds a nostalgic sheen to the traditional red wooden houses."
+          },
+          "stops": [
+            {
+              "name": "Piteå City Church",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um den ersten Schauer abzuwarten.",
+                "hu": "Tökéletes hely az első zápor kivárásához.",
+                "ro": "Locul perfect pentru a aștepta trecerea primei averse.",
+                "en": "Perfect place to wait out the first shower."
+              }
+            },
+            {
+              "name": "Piteå Museum",
+              "tip_5lang": {
+                "de": "Verbringen Sie hier bei starkem Regen mehr Zeit.",
+                "hu": "Erős eső esetén töltsön itt több időt.",
+                "ro": "Petreceți mai mult timp aici dacă plouă torențial.",
+                "en": "Spend more time here if the rain gets heavy."
+              }
+            },
+            {
+              "name": "Badhusparken (Bathhouse Park)",
+              "tip_5lang": {
+                "de": "Feste Wege verhindern Schlamm an den Schuhen.",
+                "hu": "A szilárd burkolatú utak megvédenek a sártól.",
+                "ro": "Potecile pavate previn noroiul pe încălțăminte.",
+                "en": "Paved paths prevent mud on your shoes."
+              }
+            },
+            {
+              "name": "Western Quay & Southern Harbour",
+              "tip_5lang": {
+                "de": "Vorsicht, die Holzstege können rutschig sein.",
+                "hu": "Vigyázat, a fapallók csúszósak lehetnek.",
+                "ro": "Atenție, podețele de lemn pot fi alunecoase.",
+                "en": "Careful, the wooden piers can be slippery."
+              }
+            },
+            {
+              "name": "Öjeby Church Town",
+              "tip_5lang": {
+                "de": "Die engen Gassen bieten etwas Windschutz.",
+                "hu": "A szűk utcák némi szélvédelmet nyújtanak.",
+                "ro": "Străzile înguste oferă oarecare protecție contra vântului.",
+                "en": "The narrow alleys offer some wind protection."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Wanderschuhe für die Hafenbereiche.",
+              "Das Museumscafé ist ein gemütlicher Ort für eine Regenpause.",
+              "Regenschirme können bei Wind am Hafen unpraktisch sein; nutzen Sie Regenjacken.",
+              "Die Stadtkirche bietet oft kostenlose Konzerte oder Ruhe.",
+              "Planen Sie mehr Zeit für die Innenräume des Museums ein."
+            ],
+            "hu": [
+              "Viseljen vízálló túracipőt a kikötői szakaszokon.",
+              "A múzeum kávézója barátságos hely egy esőszünethez.",
+              "Az esernyő a szeles kikötőben kényelmetlen lehet, a kapucnis kabát praktikusabb.",
+              "A városi templom gyakran kínál ingyenes koncerteket vagy nyugalmat.",
+              "Szánjon több időt a múzeum belső kiállításaira."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru zonele portuare.",
+              "Cafeneaua muzeului este un loc primitor pentru o pauză de ploaie.",
+              "Umbrelele pot fi greu de folosit în vântul din port; alegeți o pelerină.",
+              "Biserica orașului oferă adesea concerte gratuite sau liniște.",
+              "Alocați mai mult timp pentru expozițiile interioare ale muzeului."
+            ],
+            "en": [
+              "Wear waterproof walking shoes for the harbour areas.",
+              "The museum cafe is a cozy spot for a rain break.",
+              "Umbrellas can be impractical in the windy harbour; use a raincoat instead.",
+              "The city church often offers free concerts or a quiet refuge.",
+              "Plan to spend extra time exploring the museum's indoor exhibits."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen beginnt an der schneebedeckten Kirche. Nutzen Sie die Wärme des Museums vor der frühen Dämmerung. Mittags funkelt der Badhusparken im weißen Kleid. Der Nachmittag am Hafen bietet Ausblicke auf das gefrorene Wasser, bevor Sie bei Kerzenschein durch die frostige Kirchstadt Öjeby wandern, während die Polarnacht einsetzt.",
+            "hu": "A friss téli reggel a hófödte templomnál indul. Élvezze a múzeum melegét, mielőtt korán leszáll az alkony. Délben a Badhusparken csillogó fehérsége várja, délután pedig a kikötő befagyott vize nyújt látványt. A napot Öjeby fagyos, gyertyafényes utcáin zárja, miközben a sarkvidéki éjszaka lassan átveszi az uralmat.",
+            "ro": "O dimineață crocantă de iarnă începe la biserica acoperită de zăpadă. Bucurați-vă de căldura muzeului înainte de amurgul timpuriu. La prânz, Badhusparken strălucește în alb, iar după-amiaza portul oferă priveliști spre apa înghețată. Încheiați ziua cu o plimbare prin Öjeby sub lumina felinarelor, în timp ce noaptea polară se instalează.",
+            "en": "A crisp winter morning starts at the snow-covered church. Enjoy the museum's warmth before the early sunset. At noon, Badhusparken sparkles in white, followed by an afternoon at the harbour with views of the frozen sea. End your day wandering through the frosty Öjeby church town under lamplight, as the polar night descends early in the day."
+          },
+          "stops": [
+            {
+              "name": "Piteå City Church",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Weihnachtsdekoration im Inneren.",
+                "hu": "Csodálja meg a belső karácsonyi díszítést.",
+                "ro": "Admirați decorațiunile de Crăciun din interior.",
+                "en": "Admire the Christmas decorations inside."
+              }
+            },
+            {
+              "name": "Piteå Museum",
+              "tip_5lang": {
+                "de": "Ein warmer Ort, um die Hände aufzuwärmen.",
+                "hu": "Meleg hely a kezek felmelegítéséhez.",
+                "ro": "Un loc cald pentru a vă încălzi mâinile.",
+                "en": "A warm place to thaw out your hands."
+              }
+            },
+            {
+              "name": "Badhusparken (Bathhouse Park)",
+              "tip_5lang": {
+                "de": "Im Winter gibt es hier oft Eisskulpturen.",
+                "hu": "Télen gyakran láthatók itt jégszobrok.",
+                "ro": "Iarna pot fi văzute adesea sculpturi în gheață aici.",
+                "en": "Ice sculptures can often be seen here in winter."
+              }
+            },
+            {
+              "name": "Western Quay & Southern Harbour",
+              "tip_5lang": {
+                "de": "Gehen Sie nicht auf das Eis, außer es ist offiziell markiert.",
+                "hu": "Ne menjen a jégre, hacsak nincs hivatalosan kijelölve.",
+                "ro": "Nu mergeți pe gheață decât dacă este marcat oficial.",
+                "en": "Do not go onto the ice unless it is officially marked."
+              }
+            },
+            {
+              "name": "Öjeby Church Town",
+              "tip_5lang": {
+                "de": "Sehr stimmungsvoll bei Sonnenuntergang gegen 14 Uhr.",
+                "hu": "Nagyon hangulatos a 14 óra körüli naplementekor.",
+                "ro": "Foarte atmosferic la apus, în jurul orei 14:00.",
+                "en": "Very atmospheric at sunset around 2 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Reflektoren, da es bereits am frühen Nachmittag dunkel wird.",
+              "Thermobekleidung und Schichten sind bei -15°C lebensnotwendig.",
+              "Die Sonne geht im Dezember gegen 14:00 Uhr unter.",
+              "Eisgreifer für die Schuhe verhindern Stürze auf glatten Gehwegen.",
+              "Nutzen Sie die kurzen Lichtstunden für Fotos im Freien."
+            ],
+            "hu": [
+              "Viseljen fényvisszaverőt, mert már kora délután sötétedik.",
+              "A termoruha és a réteges öltözködés elengedhetetlen -15°C-ban.",
+              "A nap decemberben már 14:00 óra körül lemegy.",
+              "A cipőre csatolható csúszásgátló segít elkerülni az eséseket.",
+              "Használja ki a rövid világos órákat a szabadtéri fotózáshoz."
+            ],
+            "ro": [
+              "Purtați reflectorizante, deoarece se întunecă devreme după-amiaza.",
+              "Îmbrăcămintea termică și straturile sunt esențiale la -15°C.",
+              "Soarele apune în jurul orei 14:00 în luna decembrie.",
+              "Dispozitivele antiderapante pentru încălțăminte previn căzăturile pe gheață.",
+              "Profită de puținele ore de lumină pentru fotografii în aer liber."
+            ],
+            "en": [
+              "Wear reflectors as it gets dark in the early afternoon.",
+              "Thermal layers are essential when temperatures hit -15°C.",
+              "The sun sets as early as 2 PM in mid-winter.",
+              "Ice grippers for your shoes are highly recommended for slippery sidewalks.",
+              "Make the most of the limited daylight hours for outdoor sightseeing."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -694,6 +866,196 @@
           "Many paths are flat and easy to navigate.",
           "Plan for extra time for unplanned stops to enjoy the scenery."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radeln Sie am Morgen vorsichtig ins historische Öjeby. Die Stadtkirche bietet danach einen trockenen Rückzugsort. Mittags ist das Museum der perfekte Stopp, um sich aufzuwärmen. Am Nachmittag erkunden Sie den Hafen und den Badhusparken, wo der Regen die Farben der Natur intensiviert und die Luft frisch und sauber wirkt.",
+            "hu": "Reggel tekerjen ki óvatosan a történelmi Öjebybe. A városi templom ezután száraz menedéket nyújt. Délben a múzeum a tökéletes megálló a felmelegedéshez. Délután fedezze fel a kikötőt és a Badhusparkent, ahol az eső intenzívebbé teszi a természet színeit, a levegő pedig friss és tiszta.",
+            "ro": "Pedalați cu atenție dimineața spre istoricul Öjeby. Biserica orașului oferă apoi un refugiu uscat. La prânz, muzeul este oprirea perfectă pentru a vă încălzi. După-amiaza, explorați portul și Badhusparken, unde ploaia intensifică culorile naturii, iar aerul este proaspăt și curat.",
+            "en": "Cycle carefully to historic Öjeby in the morning. The City Church offers a dry sanctuary afterwards. At noon, the museum is the perfect stop to warm up. In the afternoon, explore the harbour and Badhusparken, where the rain intensifies the natural colors and the air feels crisp and clean."
+          },
+          "stops": [
+            {
+              "name": "Öjeby Church Town",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem Kopfsteinpflaster bei Nässe.",
+                "hu": "Vigyázat a nedves macskaköveken.",
+                "ro": "Atenție pe piatra cubică dacă este umedă.",
+                "en": "Watch out on the cobblestones when wet."
+              }
+            },
+            {
+              "name": "Piteå City Church",
+              "tip_5lang": {
+                "de": "Überdachte Fahrradständer in der Nähe suchen.",
+                "hu": "Keressen fedett biciklitárolót a közelben.",
+                "ro": "Căutați rastele de biciclete acoperite în apropiere.",
+                "en": "Look for covered bike racks nearby."
+              }
+            },
+            {
+              "name": "Piteå Museum",
+              "tip_5lang": {
+                "de": "Hier können Sie nasse Regenjacken kurz lüften.",
+                "hu": "Itt röviden kiszellőztetheti a nedves esőkabátot.",
+                "ro": "Aici puteți lăsa pelerina umedă la aerisit puțin.",
+                "en": "A good place to air out wet rain gear for a bit."
+              }
+            },
+            {
+              "name": "Western Quay",
+              "tip_5lang": {
+                "de": "Bremsen Sie frühzeitig vor Kurven am Kai.",
+                "hu": "Fékezzen időben a rakpart kanyarjai előtt.",
+                "ro": "Frânați din timp înainte de curbele de pe chei.",
+                "en": "Brake early before curves on the quay."
+              }
+            },
+            {
+              "name": "Southern Harbour",
+              "tip_5lang": {
+                "de": "Der Wind am Hafen kann den Regen peitschen.",
+                "hu": "A kikötői szél az arcodba vághatja az esőt.",
+                "ro": "Vântul din port poate face ploaia să biciuiască.",
+                "en": "Wind at the harbour can whip the rain around."
+              }
+            },
+            {
+              "name": "Badhusparken",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen den Bäumen bieten Schutz.",
+                "hu": "A fák közötti rövid utak védelmet nyújtanak.",
+                "ro": "Drumurile scurte printre copaci oferă adăpost.",
+                "en": "Short paths between trees offer some shelter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche am Fahrrad sind bei diesem Wetter ein Muss.",
+              "Tragen Sie wasserdichte Handschuhe, um den Lenker sicher zu halten.",
+              "Vermeiden Sie schnelle Bremsmanöver auf glitschigem Laub.",
+              "Nutzen Sie helle Beleuchtung, auch tagsüber bei Regen.",
+              "Ein Sattelschutz hält Ihren Sitz beim Parken trocken."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen ilyen időben.",
+              "Viseljen vízálló kesztyűt a kormány biztos fogása érdekében.",
+              "Kerülje a hirtelen fékezést a csúszós leveleken.",
+              "Használjon erős világítást napközben is az esőben.",
+              "A nyeregvédő szárazon tartja az ülést parkolás közben."
+            ],
+            "ro": [
+              "Aripile la bicicletă sunt obligatorii pe această vreme.",
+              "Purtați mănuși impermeabile pentru o priză sigură pe ghidon.",
+              "Evitați frânările bruște pe frunzele alunecoase.",
+              "Folosiți lumini puternice chiar și ziua pe ploaie.",
+              "O husă de șa vă menține scaunul uscat cât timp parcați."
+            ],
+            "en": [
+              "Fenders are a must-have for cycling in this weather.",
+              "Wear waterproof gloves to maintain a steady grip on the handlebars.",
+              "Avoid sudden braking on slippery wet leaves.",
+              "Keep your lights on even during the day for better visibility.",
+              "A saddle cover will keep your seat dry while you explore on foot."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie vorsichtig in Öjeby; die Wege können vereist sein. Die Stadtkirche und das Museum bieten wichtige Aufwärmstopps. Mittags radeln Sie durch den tief verschneiten Badhusparken. Am Nachmittag genießen Sie die eiskalte Brise am Kai und den Sonnenuntergang über dem gefrorenen Hafen, bevor Sie den Rückweg bei winterlicher Dunkelheit antreten.",
+            "hu": "Induljon óvatosan Öjebyben; az utak jegesek lehetnek. A városi templom és a múzeum fontos melegedőhelyek. Délben tekerjen át a mély hóval borított Badhusparkenen. Délután élvezze a jéghideg szellőt a rakparton és a naplementét a befagyott kikötő felett, majd induljon vissza a téli sötétségben.",
+            "ro": "Porniți cu atenție în Öjeby; drumurile pot fi înghețate. Biserica orașului și muzeul sunt opriri esențiale pentru încălzire. La prânz, pedalați prin Badhusparken înzăpezit. După-amiaza, bucurați-vă de briza înghețată de pe chei și de apusul peste portul înghețat, înainte de drumul de întoarcere.",
+            "en": "Start carefully in Öjeby; paths can be icy. The City Church and Museum are essential warming stops. At noon, cycle through the deep snow of Badhusparken. In the afternoon, enjoy the icy breeze at the quay and the sunset over the frozen harbour before heading back in the winter darkness."
+          },
+          "stops": [
+            {
+              "name": "Öjeby Church Town",
+              "tip_5lang": {
+                "de": "Nur mit Winterreifen befahren; Wege sind oft vereist.",
+                "hu": "Csak téli gumival vágjon neki; az utak gyakran jegesek.",
+                "ro": "Circulați doar cu anvelope de iarnă; drumurile sunt înghețate.",
+                "en": "Only ride with winter tires; paths are often icy."
+              }
+            },
+            {
+              "name": "Piteå City Church",
+              "tip_5lang": {
+                "de": "Achten Sie auf Eiszapfen an den Dächern beim Parken.",
+                "hu": "Parkoláskor ügyeljen a tetőkről lelógó jégcsapokra.",
+                "ro": "Atenție la țurțurii de pe acoperișuri când parcați.",
+                "en": "Watch out for icicles on roofs when parking your bike."
+              }
+            },
+            {
+              "name": "Piteå Museum",
+              "tip_5lang": {
+                "de": "Heiße Schokolade im Café ist jetzt ein Muss.",
+                "hu": "Egy forró csoki a kávézóban most kötelező.",
+                "ro": "O ciocolată caldă la cafenea este obligatorie acum.",
+                "en": "A hot chocolate at the cafe is a must right now."
+              }
+            },
+            {
+              "name": "Western Quay",
+              "tip_5lang": {
+                "de": "Gefrorene Gischt macht den Boden spiegelglatt.",
+                "hu": "A ráfagyott permet tükörsimává teszi a talajt.",
+                "ro": "Stropii înghețați fac solul alunecos ca oglinda.",
+                "en": "Frozen spray makes the ground slippery as glass."
+              }
+            },
+            {
+              "name": "Southern Harbour",
+              "tip_5lang": {
+                "de": "Der Windchill-Effekt ist hier extrem; warm anziehen.",
+                "hu": "A szél hűtőhatása itt extrém; öltözzön melegen.",
+                "ro": "Efectul de răcire al vântului e extrem; îmbrăcați-vă bine.",
+                "en": "Wind chill is extreme here; dress in heavy layers."
+              }
+            },
+            {
+              "name": "Badhusparken",
+              "tip_5lang": {
+                "de": "Wunderschöne Beleuchtung in den Bäumen genießen.",
+                "hu": "Élvezze a fák gyönyörű díszkivilágítását.",
+                "ro": "Bucurați-vă de iluminatul superb din copaci.",
+                "en": "Enjoy the beautiful holiday lighting in the trees."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Spikes-Reifen sind für das Radfahren im Winter in Piteå unerlässlich.",
+              "Die Kette benötigt bei Streusalz und Schnee mehr Pflege.",
+              "Vermeiden Sie es, bei Schneestürmen direkt an der Küste zu radeln.",
+              "Tragen Sie eine Skibrille gegen den beißenden Wind.",
+              "Akku-Lichter entladen sich in der Kälte schneller; Ersatz mitnehmen."
+            ],
+            "hu": [
+              "A szöges gumi elengedhetetlen a téli bringázáshoz Piteåban.",
+              "A lánc több törődést igényel a sós hólé miatt.",
+              "Hóviharban kerülje a közvetlen parti utakat.",
+              "Viseljen síszemüveget a metsző szél ellen.",
+              "Az akkus lámpák gyorsabban merülnek a hidegben; legyen nálad tartalék."
+            ],
+            "ro": [
+              "Anvelopele cu ținte sunt esențiale pentru pedalat iarna în Piteå.",
+              "Lanțul necesită mai multă îngrijire din cauza sării și zăpezii.",
+              "Evitați pedalatul direct pe coastă în timpul viscolului.",
+              "Purtați ochelari de schi împotriva vântului tăios.",
+              "Luminile cu acumulator se descarcă mai repede la frig; luați rezerve."
+            ],
+            "en": [
+              "Studded tires are essential for winter cycling in Piteå.",
+              "Your bike chain needs more frequent oiling due to road salt and snow.",
+              "Avoid cycling directly on the coast during snowstorms.",
+              "A pair of ski goggles can protect your eyes from the biting wind.",
+              "Battery-powered lights drain faster in the cold; bring spares."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1050,6 +1412,196 @@
           "Fill up on fuel before leaving the city, as gas stations can be sparse in the countryside.",
           "Plan your route to avoid peak hour traffic."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie den Tag im Pite Havsbad, wo das Erlebnisbad eine tolle Indoor-Alternative bietet. Besuchen Sie mittags das historische Öjeby und genießen Sie ein gemütliches Mittagessen im Stadtzentrum. Am Nachmittag bietet die Stadtkirche Schutz vor dem Regen, bevor Sie den Tag entspannt im Badhusparken oder beim Blick auf das stürmische Meer ausklingen lassen.",
+            "hu": "Kezdje a napot Pite Havsbadban, ahol az élményfürdő remek fedett alternatívát kínál. Délben látogasson el a történelmi Öjebybe, majd ebédeljen meg a városközpontban. Délután a városi templom nyújt menedéket az eső elől, a napot pedig a Badhusparkenben vagy a viharos tenger látványával zárhatja.",
+            "ro": "Începeți ziua la Pite Havsbad, unde parcul acvatic oferă o alternativă interioară excelentă. La prânz vizitați istoricul Öjeby și savurați prânzul în centrul orașului. După-amiaza, biserica orașului vă protejează de ploaie, iar ziua se poate încheia relaxat în Badhusparken admirând marea agitată.",
+            "en": "Start your day at Pite Havsbad, where the indoor water park offers a great rainy-day alternative. Visit historic Öjeby at noon, followed by a cozy lunch in the city centre. In the afternoon, the City Church provides shelter from the rain, and you can end the day relaxing at Badhusparken or watching the stormy sea."
+          },
+          "stops": [
+            {
+              "name": "Pite Havsbad",
+              "tip_5lang": {
+                "de": "Das Erlebnisbad 'Skeppet' ist perfekt für Regentage.",
+                "hu": "A 'Skeppet' élményfürdő tökéletes esős napokra.",
+                "ro": "Parcul acvatic 'Skeppet' este perfect pentru zile ploioase.",
+                "en": "The 'Skeppet' water park is perfect for rainy days."
+              }
+            },
+            {
+              "name": "Öjeby Church Town",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um nass zu werden zu vermeiden.",
+                "hu": "Parkoljon közel a bejárathoz, hogy elkerülje az ázást.",
+                "ro": "Parcați aproape de intrare pentru a nu vă uda.",
+                "en": "Park close to the entrance to avoid getting soaked."
+              }
+            },
+            {
+              "name": "Lunch in the City Centre",
+              "tip_5lang": {
+                "de": "Suchen Sie ein Restaurant mit Parkhaus in der Nähe.",
+                "hu": "Keressen éttermet közeli parkolóházzal.",
+                "ro": "Căutați un restaurant cu parcare acoperită în apropiere.",
+                "en": "Look for a restaurant with a parking garage nearby."
+              }
+            },
+            {
+              "name": "Piteå City Church",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um den Regen prasseln zu hören.",
+                "hu": "Csendes hely, ahol hallgathatja az eső kopogását.",
+                "ro": "Un loc liniștit unde puteți auzi ploaia căzând.",
+                "en": "A quiet place to listen to the rain pattering."
+              }
+            },
+            {
+              "name": "Badhusparken",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den Fluss vom Auto aus.",
+                "hu": "Élvezze a folyóra nyíló kilátást az autóból.",
+                "ro": "Bucurați-vă de vederea spre râu din mașină.",
+                "en": "Enjoy the river view from the comfort of your car."
+              }
+            },
+            {
+              "name": "Stormyrberget",
+              "tip_5lang": {
+                "de": "Die Straße kann bei starkem Regen rutschig sein.",
+                "hu": "Az út erős esőben csúszós lehet.",
+                "ro": "Drumul poate fi alunecos pe ploaie torențială.",
+                "en": "The road can be slippery during heavy rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Scheibenwischer vor der Fahrt.",
+              "Achten Sie auf Aquaplaning auf den größeren Straßen.",
+              "Pite Havsbad bietet viele Indoor-Aktivitäten für Familien.",
+              "Nutzen Sie die Parkhäuser im Stadtzentrum, um trocken zu bleiben.",
+              "Das Licht kann bei Regen schnell schlechter werden; Licht einschalten."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze az ablaktörlőket.",
+              "Ügyeljen a vízenfutásra (aquaplaning) a nagyobb utakon.",
+              "Pite Havsbad rengeteg fedett programot kínál családoknak.",
+              "Használja a belvárosi parkolóházakat, hogy szárazon maradjon.",
+              "Esőben a látási viszonyok hirtelen romolhatnak; kapcsoljon lámpát."
+            ],
+            "ro": [
+              "Verificați ștergătoarele înainte de a porni la drum.",
+              "Atenție la acvaplanare pe drumurile principale.",
+              "Pite Havsbad oferă multe activități interioare pentru familii.",
+              "Folosiți parcările acoperite din centru pentru a rămâne uscați.",
+              "Vizibilitatea poate scădea brusc pe ploaie; aprindeți farurile."
+            ],
+            "en": [
+              "Check your windshield wipers before starting the trip.",
+              "Be cautious of aquaplaning on the main roads.",
+              "Pite Havsbad has plenty of indoor activities for families.",
+              "Use city centre parking garages to stay dry between stops.",
+              "Visibility can drop quickly in heavy rain; keep your lights on."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Wintertag im Havsbad; das Eiswandern ist hier oft möglich. Besuchen Sie danach das verschneite Öjeby. Nach einem warmen Mittagessen in der Stadt besuchen Sie die festlich beleuchtete Kirche. Am Nachmittag genießen Sie die Aussicht vom Stormyrberget über die weiße Landschaft, bevor Sie die Heimreise antreten.",
+            "hu": "Kezdje a téli napot a Havsbadnál; itt gyakran lehet a jégen sétálni. Ezután látogasson el a havas Öjebybe. Egy meleg belvárosi ebéd után nézze meg az ünnepi díszben úszó templomot. Délután élvezze a kilátást Stormyrbergetről a fehér tájra, mielőtt hazaindulna.",
+            "ro": "Începeți ziua de iarnă la Havsbad; mersul pe gheață e adesea posibil aici. Vizitați apoi Öjeby înzăpezit. După un prânz cald în oraș, vedeți biserica iluminată festiv. După-amiaza, admirați peisajul alb de pe Stormyrberget înainte de plecare.",
+            "en": "Start your winter day at Havsbad; ice walking is often possible here. Then visit the snowy Öjeby. After a warm city lunch, see the festively lit church. In the afternoon, enjoy the view from Stormyrberget over the white landscape before heading home."
+          },
+          "stops": [
+            {
+              "name": "Pite Havsbad",
+              "tip_5lang": {
+                "de": "Oft Ausgangspunkt für Schneemobil-Safaris.",
+                "hu": "Gyakran innen indulnak a hómobil szafarik.",
+                "ro": "Adesea punctul de plecare pentru safari cu sania cu motor.",
+                "en": "Often the starting point for snowmobile safaris."
+              }
+            },
+            {
+              "name": "Öjeby Church Town",
+              "tip_5lang": {
+                "de": "Die roten Häuser sehen im Schnee bezaubernd aus.",
+                "hu": "A vörös házak varázslatosan mutatnak a hóban.",
+                "ro": "Casele roșii arată fermecător în zăpadă.",
+                "en": "The red houses look enchanting in the snow."
+              }
+            },
+            {
+              "name": "Lunch in the City Centre",
+              "tip_5lang": {
+                "de": "Warme Garage nutzen, um das Auto eisfrei zu halten.",
+                "hu": "Használjon fűtött garázst, hogy jégmentes maradjon az autó.",
+                "ro": "Folosiți un garaj încălzit pentru a menține mașina fără gheață.",
+                "en": "Use a heated garage to keep the car ice-free."
+              }
+            },
+            {
+              "name": "Piteå City Church",
+              "tip_5lang": {
+                "de": "Ein sehr besinnlicher Ort in der Adventszeit.",
+                "hu": "Nagyon meghitt hely az adventi időszakban.",
+                "ro": "Un loc foarte liniștit în perioada Adventului.",
+                "en": "A very reflective place during the Advent season."
+              }
+            },
+            {
+              "name": "Badhusparken",
+              "tip_5lang": {
+                "de": "Im Winter gibt es hier oft eine Eisbahn.",
+                "hu": "Télen gyakran van itt korcsolyapálya.",
+                "ro": "Iarna există adesea un patinoar aici.",
+                "en": "There is often an ice rink here in winter."
+              }
+            },
+            {
+              "name": "Stormyrberget",
+              "tip_5lang": {
+                "de": "Allradantrieb für die Auffahrt empfohlen.",
+                "hu": "Összkerékhajtás ajánlott a feljutáshoz.",
+                "ro": "Tracțiunea integrală este recomandată pentru urcare.",
+                "en": "Four-wheel drive is recommended for the climb."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in Schweden gesetzlich vorgeschrieben.",
+              "Halten Sie einen Eiskratzer und eine Schneeschaufel bereit.",
+              "Der Kraftstoffverbrauch kann bei extremer Kälte steigen.",
+              "Vermeiden Sie das Parken unter hohen Bäumen (Schneelast).",
+              "Achten Sie auf Wildtiere (Rentiere/Elche) auf den Straßen."
+            ],
+            "hu": [
+              "Svédországban kötelező a téli gumi használata.",
+              "Legyen nálad jégkaparó és hólapát.",
+              "Az üzemanyag-fogyasztás nőhet a nagy hidegben.",
+              "Kerülje a parkolást nagy fák alatt a hóteher miatt.",
+              "Ügyeljen a vadon élő állatokra (rénszarvas/jávorszarvas) az utakon."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii prin lege în Suedia.",
+              "Păstrați la îndemână o racletă și o lopată de zăpadă.",
+              "Consumul de combustibil poate crește la frig extrem.",
+              "Evitați parcarea sub copaci mari din cauza greutății zăpezii.",
+              "Atenție la animalele sălbatice (reni/elani) pe șosele."
+            ],
+            "en": [
+              "Winter tires are mandatory by law in Sweden.",
+              "Keep an ice scraper and a snow shovel in your car at all times.",
+              "Fuel consumption may increase in extreme cold temperatures.",
+              "Avoid parking under large trees due to the risk of falling snow.",
+              "Watch out for wildlife (reindeer/moose) on the roads."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1382,6 +1934,178 @@
           "Be aware that buses may run less frequently on weekends.",
           "Be at the stop on time, especially for less frequent routes."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nehmen Sie den Bus nach Öjeby und genießen Sie die Fahrt im Trockenen. Nach der Rückkehr zum Busbahnhof ist die Stadtkirche nur einen kurzen Spaziergang entfernt. Mittags bietet das Museum Schutz und Kultur. Am Nachmittag bringt Sie der Bus zum Pite Havsbad, wo Sie den Tag im weitläufigen Indoor-Bereich verbringen können.",
+            "hu": "Szálljon buszra Öjeby felé, és élvezze az utat szárazon. A buszpályaudvarra való visszaérkezés után a városi templom csak rövid séta. Délben a múzeum nyújt menedéket és kultúrát. Délután a busz elviszi Pite Havsbadba, ahol a hatalmas fedett részlegen töltheti a napot.",
+            "ro": "Luați autobuzul spre Öjeby și bucurați-vă de drum la adăpost. După revenirea la autogară, biserica orașului este la mică distanță. La prânz, muzeul oferă protecție și cultură. După-amiaza, autobuzul vă duce la Pite Havsbad, unde puteți sta în zona interioară.",
+            "en": "Take the bus to Öjeby and enjoy the dry ride. After returning to the bus station, the City Church is just a short walk away. At noon, the museum offers shelter and culture. In the afternoon, the bus takes you to Pite Havsbad, where you can spend the day in the extensive indoor area."
+          },
+          "stops": [
+            {
+              "name": "Öjeby Church Town",
+              "tip_5lang": {
+                "de": "Busse fahren regelmäßig vom Zentrum ab.",
+                "hu": "A buszok rendszeresen indulnak a központból.",
+                "ro": "Autobuzele pleacă regulat din centru.",
+                "en": "Buses depart regularly from the city centre."
+              }
+            },
+            {
+              "name": "Piteå Bus Station",
+              "tip_5lang": {
+                "de": "Nutzen Sie den beheizten Wartebereich.",
+                "hu": "Használja a fűtött várótermet.",
+                "ro": "Folosiți zona de așteptare încălzită.",
+                "en": "Make use of the heated waiting area."
+              }
+            },
+            {
+              "name": "Piteå City Church",
+              "tip_5lang": {
+                "de": "Kurzer Weg von der Haltestelle im Zentrum.",
+                "hu": "Rövid séta a belvárosi megállótól.",
+                "ro": "Drum scurt de la stația din centru.",
+                "en": "A short walk from the central bus stop."
+              }
+            },
+            {
+              "name": "Piteå Museum and Lunch",
+              "tip_5lang": {
+                "de": "Ideal, um die Wartezeit auf den nächsten Bus zu füllen.",
+                "hu": "Ideális a következő buszra való várakozáshoz.",
+                "ro": "Ideal pentru a aștepta următorul autobuz.",
+                "en": "Ideal place to spend time while waiting for your bus."
+              }
+            },
+            {
+              "name": "Pite Havsbad",
+              "tip_5lang": {
+                "de": "Gute Busverbindung auch am späten Nachmittag.",
+                "hu": "Jó buszközlekedés késő délután is.",
+                "ro": "Conexiune bună de autobuz și după-amiaza târziu.",
+                "en": "Good bus connections even in the late afternoon."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie Tickets vorab über die App, um nicht im Regen zu warten.",
+              "Die Busse in Piteå sind meist pünktlich und klimatisiert.",
+              "Behalten Sie den Fahrplan für die Rückfahrt von Havsbad im Auge.",
+              "Der Busbahnhof bietet Schutz vor Wind und Wetter.",
+              "Nutzen Sie die App 'Länstrafiken Norrbotten' für Echtzeitdaten."
+            ],
+            "hu": [
+              "Vegye meg a jegyet előre az appban, hogy ne az esőben kelljen várnia.",
+              "A piteåi buszok általában pontosak és légkondicionáltak.",
+              "Figyelje a Havsbadból induló utolsó buszok menetrendjét.",
+              "A buszpályaudvar védelmet nyújt a szél és az eső ellen.",
+              "Használja a 'Länstrafiken Norrbotten' alkalmazást valós idejű adatokért."
+            ],
+            "ro": [
+              "Cumpărați bilete în avans prin aplicație pentru a nu aștepta în ploaie.",
+              "Autobuzele din Piteå sunt de obicei punctuale și climatizate.",
+              "Urmăriți programul de întoarcere de la Havsbad.",
+              "Autogara oferă protecție împotriva vântului și ploii.",
+              "Folosiți aplicația 'Länstrafiken Norrbotten' pentru date în timp real."
+            ],
+            "en": [
+              "Buy tickets in advance via the app to avoid waiting in the rain.",
+              "Buses in Piteå are generally punctual and climate-controlled.",
+              "Keep an eye on the schedule for the return trip from Havsbad.",
+              "The bus station provides good shelter from wind and rain.",
+              "Use the 'Länstrafiken Norrbotten' app for real-time bus tracking."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Fahren Sie am Morgen gemütlich mit dem Bus ins verschneite Öjeby. Der Busbahnhof dient als warmer Knotenpunkt. Besuchen Sie die Kirche und das Museum, beide sind gut mit dem ÖPNV erreichbar. Am Nachmittag bietet die Fahrt nach Havsbad Ausblicke auf die winterliche Küste, bevor Sie sich im warmen Bus auf den Rückweg machen.",
+            "hu": "Utazzon reggel kényelmesen busszal a havas Öjebybe. A buszpályaudvar meleg csomópontként szolgál. Látogassa meg a templomot és a múzeumot, mindkettő jól elérhető tömegközlekedéssel. Délután a Havsbad felé vezető út kilátást nyújt a téli partvidékre, mielőtt a meleg buszon visszatérne.",
+            "ro": "Călătoriți dimineața confortabil cu autobuzul spre Öjeby înzăpezit. Autogara servește ca nod de transport încălzit. Vizitați biserica și muzeul, ambele ușor accesibile. După-amiaza, drumul spre Havsbad oferă vederi spre coasta de iarnă, înainte de a reveni cu autobuzul cald.",
+            "en": "Travel comfortably by bus to snowy Öjeby in the morning. The bus station serves as a warm transit hub. Visit the church and museum, both easily accessible by public transport. In the afternoon, the ride to Havsbad offers views of the winter coastline before returning on a warm bus."
+          },
+          "stops": [
+            {
+              "name": "Öjeby Church Town",
+              "tip_5lang": {
+                "de": "Achten Sie auf eventuelle Verspätungen bei Schneefall.",
+                "hu": "Erős havazáskor ügyeljen az esetleges késésekre.",
+                "ro": "Fiți atenți la eventualele întârzieri în caz de ninsoare.",
+                "en": "Be aware of potential delays during heavy snowfall."
+              }
+            },
+            {
+              "name": "Piteå Bus Station",
+              "tip_5lang": {
+                "de": "Ein guter Ort, um sich zwischen den Fahrten aufzuwärmen.",
+                "hu": "Jó hely a felmelegedéshez két járat között.",
+                "ro": "Un loc bun pentru a vă încălzi între călătorii.",
+                "en": "A good place to warm up between bus rides."
+              }
+            },
+            {
+              "name": "Piteå City Church",
+              "tip_5lang": {
+                "de": "Die Haltestellen sind im Winter gut geräumt.",
+                "hu": "A megállókat télen is jól takarítják.",
+                "ro": "Stațiile sunt bine deszăpezite iarna.",
+                "en": "Bus stops are usually well-cleared of snow in winter."
+              }
+            },
+            {
+              "name": "Piteå Museum and Lunch",
+              "tip_5lang": {
+                "de": "Vom Museum ist es nicht weit zum warmen Busknotenpunkt.",
+                "hu": "A múzeumtól nincs messze a meleg buszpályaudvar.",
+                "ro": "Muzeul nu este departe de nodul de transport încălzit.",
+                "en": "The museum is not far from the warm transit hub."
+              }
+            },
+            {
+              "name": "Pite Havsbad",
+              "tip_5lang": {
+                "de": "Der Bus hält direkt vor dem Haupteingang.",
+                "hu": "A busz közvetlenül a főbejárat előtt áll meg.",
+                "ro": "Autobuzul oprește chiar în fața intrării principale.",
+                "en": "The bus stops directly in front of the main entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse sind im Winter oft die sicherste Wahl bei Glätte.",
+              "Tragen Sie warme Schuhe, da die Wartezeiten an Haltestellen kalt sein können.",
+              "Prüfen Sie die Echtzeit-App auf witterungsbedingte Ausfälle.",
+              "In den Bussen ist es meist sehr warm; Kleidung in Schichten tragen.",
+              "Holen Sie sich eine Tageskarte für unkompliziertes Umsteigen."
+            ],
+            "hu": [
+              "Télen a busz gyakran a legbiztonságosabb választás a jeges utakon.",
+              "Viseljen meleg cipőt, mert a megállókban hideg lehet a várakozás.",
+              "Ellenőrizze az alkalmazást az időjárás miatti járatkimaradásokért.",
+              "A buszokon általában nagyon meleg van; öltözzön rétegesen.",
+              "Váltson napijegyet az egyszerű átszállás érdekében."
+            ],
+            "ro": [
+              "Iarna, autobuzul este adesea cea mai sigură alegere pe drumuri înghețate.",
+              "Purtați încălțăminte călduroasă pentru timpul petrecut în stații.",
+              "Verificați aplicația pentru anulări cauzate de vreme.",
+              "În autobuze este de obicei foarte cald; îmbrăcați-vă în straturi.",
+              "Luați un permis de o zi pentru transferuri mai ușoare."
+            ],
+            "en": [
+              "Buses are often the safest travel option during icy winter days.",
+              "Wear warm footwear as waiting at bus stops can be very cold.",
+              "Check the transit app for any service disruptions due to weather.",
+              "Buses are usually very warm inside; dress in removable layers.",
+              "Get a day pass for easy switching between different bus lines."
+            ]
+          }
+        }
       }
     }
   }

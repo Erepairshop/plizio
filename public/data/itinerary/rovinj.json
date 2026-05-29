@@ -339,6 +339,196 @@
           "Arrive early at the church to climb the tower without crowds.",
           "The old town is completely car-free."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt unter dem Balbi-Bogen, wo das Regenprasseln auf dem Pflaster widerhallt. Mittags bieten die kleinen Galerien der Grisia-Straße Schutz vor dem Guss. Am Nachmittag suchen wir die Stille und Trockenheit der Euphemia-Kirche auf. Der Abend klingt gemütlich im Batana-Ökomuseum aus, während draußen der Regen die Adria peitscht.",
+            "hu": "A reggel a Balbi-ív alatt indul, ahol az eső kopogása visszhangzik a köveken. Délben a Grisia utca galériái nyújtanak menedéket a zápor elől. Délután a Szent Eufémia-templom csendes és száraz belső terében pihenünk meg. Az estét a Batana Ökomúzeum interaktív kiállítása zárja, miközben kint az eső mossa az óváros falait.",
+            "ro": "Dimineața începe sub Arcul lui Balbi, unde sunetul ploii răsună pe pavaj. La prânz, galeriile de pe strada Grisia oferă adăpost împotriva aversei. După-amiaza căutăm liniștea și uscăciunea Bisericii Sf. Eufemia. Seara se încheie confortabil la Eco-muzeul Batana, în timp ce afară ploaia biciuiește malurile Adriaticii.",
+            "en": "The morning starts under Balbi's Arch, where the sound of rain echoes on the pavement. At noon, the art galleries of Grisia Street provide shelter from the downpour. In the afternoon, we find refuge in the dry and peaceful Church of St. Euphemia. The evening concludes at the Batana Eco-museum, as the rain washes over the old town walls."
+          },
+          "stops": [
+            {
+              "name": "Balbi's Arch",
+              "tip_5lang": {
+                "de": "Ein guter Ort, um den ersten Schauer abzuwarten, bevor man die Altstadt betritt.",
+                "hu": "Kiváló hely egy hirtelen zápor kivárására, mielőtt belépnél az óvárosba.",
+                "ro": "Un loc bun pentru a aștepta trecerea unei averse înainte de a intra în orașul vechi.",
+                "en": "A great spot to wait out a quick shower before entering the old town."
+              }
+            },
+            {
+              "name": "Rovinj Clock Tower",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den Markisen der Cafés am Marschall-Tito-Platz.",
+                "hu": "Keress menedéket a Tito marsall tér kávézóinak ponyvái alatt.",
+                "ro": "Căutați adăpost sub copertinele cafenelelor din Piața Mareșal Tito.",
+                "en": "Seek shelter under the awnings of the cafes at Marshal Tito Square."
+              }
+            },
+            {
+              "name": "Grisia Street",
+              "tip_5lang": {
+                "de": "Vorsicht! Das glatte Kopfsteinpflaster ist bei Nässe extrem rutschig.",
+                "hu": "Vigyázat! A fényesre kopott macskakő esőben rendkívül csúszós.",
+                "ro": "Atenție! Pavajul lustruit este extrem de alunecos când este ud.",
+                "en": "Caution! The polished cobblestones are extremely slippery when wet."
+              }
+            },
+            {
+              "name": "Church of St. Euphemia",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit im Inneren, um die Details des Altars trocken zu bewundern.",
+                "hu": "Használd ki az időt bent, hogy szárazon csodáld meg az oltár részleteit.",
+                "ro": "Folosiți timpul în interior pentru a admira detaliile altarului la adăpost.",
+                "en": "Use the time inside to admire the altar details while staying dry."
+              }
+            },
+            {
+              "name": "Rovinj Old Town",
+              "tip_5lang": {
+                "de": "Entdecken Sie die überdachten Durchgänge (Sottoporti), um trocken zu bleiben.",
+                "hu": "Fedezd fel a fedett átjárókat (sottoporti), hogy szárazon maradj.",
+                "ro": "Descoperiți pasajele acoperite (sottoporti) pentru a rămâne uscat.",
+                "en": "Explore the covered passages (sottoporti) to stay dry."
+              }
+            },
+            {
+              "name": "Batana Eco-museum",
+              "tip_5lang": {
+                "de": "Das perfekte Ziel für regnerische Tage, komplett im Innenbereich gelegen.",
+                "hu": "Tökéletes célpont esős napokra, mivel teljes egészében beltéri.",
+                "ro": "Destinația perfectă pentru zilele ploioase, fiind complet în interior.",
+                "en": "The perfect destination for rainy days, being entirely indoors."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Schuhe mit Gummisohlen, da der Kalkstein bei Regen spiegelglatt wird.",
+              "Die Grisia-Straße hat Handläufe; benutzen Sie diese beim Abstieg.",
+              "Viele Galerien in der Grisia bieten bei Regen gemütliche Unterschlupfe.",
+              "Der Batana-Laden in der Nähe bietet hochwertige lokale Regenschirme an.",
+              "Die Windböen (Nevera) können Regenschirme zerstören; Regenjacken sind besser."
+            ],
+            "hu": [
+              "Viselj gumitalpú cipőt, mert a mészkő burkolat esőben tükörsima lesz.",
+              "A Grisia utcában vannak kapaszkodók; használd őket lefelé menet.",
+              "Sok galéria a Grisián barátságos menedéket nyújt az eső elől.",
+              "A közeli Batana boltban minőségi helyi esernyőket is vehetsz.",
+              "A hirtelen széllökések tönkretehetik az esernyőt; a vízhatlan kabát praktikusabb."
+            ],
+            "ro": [
+              "Purtați încălțăminte cu talpă de cauciuc, deoarece calcarul devine extrem de alunecos.",
+              "Strada Grisia are balustrade; folosiți-le la coborâre.",
+              "Multe galerii de pe Grisia oferă refugii primitoare în timpul ploii.",
+              "Magazinul Batana din apropiere vinde umbrele locale de calitate.",
+              "Rafalele de vânt pot distruge umbrelele; o pelerină de ploaie este mai utilă."
+            ],
+            "en": [
+              "Wear rubber-soled shoes as the limestone becomes mirror-smooth when wet.",
+              "Grisia Street has handrails; make sure to use them when walking downhill.",
+              "Many galleries on Grisia offer cozy shelters during heavy rain.",
+              "The nearby Batana shop sells high-quality local umbrellas.",
+              "Sudden wind gusts (Nevera) can break umbrellas; a raincoat is often better."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Morgen am Balbi-Bogen führt uns durch die fast menschenleeren Gassen. Mittags genießen wir die warme Wintersonne am Hafen, bevor wir den Glockenturm besuchen. Der Nachmittag gehört der prachtvollen Kirche, deren Steinwände die Kälte speichern. Den Abend verbringen wir im Batana-Museum, bevor wir uns in eine warme Konoba zurückziehen.",
+            "hu": "Hűvös reggel indul a Balbi-ívnél, az óváros ilyenkor szinte teljesen kihalt. Délben a kikötőben élvezzük a gyenge téli napsütést, majd megnézzük az óratornyot. A délutánt a templom hűvös falai között töltjük. Az estét a Batana múzeum melegében fejezzük be, mielőtt egy fűtött konobába vonulnánk vacsorázni.",
+            "ro": "O dimineață răcoroasă la Arcul lui Balbi ne poartă prin străzile aproape pustii. La prânz ne bucurăm de soarele slab de iarnă în port înainte de a vizita turnul cu ceas. După-amiaza aparține bisericii impunătoare, ai cărei pereți păstrează frigul. Seara o petrecem la muzeul Batana înainte de a ne retrage într-o tavernă caldă.",
+            "en": "A chilly morning at Balbi's Arch leads us through the almost empty streets. At noon, we enjoy the weak winter sun at the harbor before visiting the clock tower. The afternoon is dedicated to the grand church, whose stone walls hold the winter cold. We spend the evening at the Batana museum before retreating to a warm tavern."
+          },
+          "stops": [
+            {
+              "name": "Balbi's Arch",
+              "tip_5lang": {
+                "de": "Genießen Sie den freien Blick ohne die sommerlichen Touristenströme.",
+                "hu": "Élvezd a tiszta kilátást a nyári turistatömeg nélkül.",
+                "ro": "Bucurați-vă de vederea clară fără mulțimile de turiști din vară.",
+                "en": "Enjoy the clear view without the summer tourist crowds."
+              }
+            },
+            {
+              "name": "Rovinj Clock Tower",
+              "tip_5lang": {
+                "de": "Die Cafés auf dem Platz haben oft Heizstrahler für eine warme Kaffeepause.",
+                "hu": "A tér kávézói gyakran hősugárzókkal várják a vendégeket egy meleg kávéra.",
+                "ro": "Cafenelele din piață au adesea radiatoare pentru o pauză de cafea caldă.",
+                "en": "The cafes on the square often have outdoor heaters for a warm coffee break."
+              }
+            },
+            {
+              "name": "Grisia Street",
+              "tip_5lang": {
+                "de": "Viele Ateliers sind im Winter geschlossen, aber die Architektur wirkt so noch purer.",
+                "hu": "Sok műhely zárva van télen, de az építészet így még letisztultabbnak hat.",
+                "ro": "Multe ateliere sunt închise iarna, dar arhitectura pare și mai pură astfel.",
+                "en": "Many studios are closed in winter, but the architecture feels even purer this way."
+              }
+            },
+            {
+              "name": "Church of St. Euphemia",
+              "tip_5lang": {
+                "de": "Im Inneren ist es oft kälter als draußen; behalten Sie Ihre Jacke an.",
+                "hu": "Bent gyakran hidegebb van, mint kint; ne vedd le a kabátodat.",
+                "ro": "În interior este adesea mai frig decât afară; păstrați haina pe dvs.",
+                "en": "It is often colder inside than outside; keep your jacket on."
+              }
+            },
+            {
+              "name": "Rovinj Old Town",
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang ist im Winter bereits gegen 16:30 Uhr; planen Sie entsprechend.",
+                "hu": "A naplemente télen már 16:30 körül bekövetkezik; tervezz előre.",
+                "ro": "Apusul este în jur de ora 16:30 iarna; planificați vizita în consecință.",
+                "en": "Sunset is around 16:30 in winter; plan your walk accordingly."
+              }
+            },
+            {
+              "name": "Batana Eco-museum",
+              "tip_5lang": {
+                "de": "Prüfen Sie die eingeschränkten Winteröffnungszeiten vor Ihrem Besuch.",
+                "hu": "Látogatás előtt ellenőrizd a korlátozott téli nyitvatartást.",
+                "ro": "Verificați programul redus de iarnă înainte de vizită.",
+                "en": "Check the restricted winter opening hours before your visit."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Bura (Nordwind) kann sehr beißend sein; winddichte Kleidung ist wichtig.",
+              "Sonnenuntergang ist früh (ca. 16:30), danach wird es schnell deutlich kälter.",
+              "Einige Restaurants am Hafen machen Winterpause; suchen Sie Plätze im Zentrum.",
+              "Die Steinbänke am Meer sind im Winter zu kalt zum Sitzen.",
+              "Genießen Sie die Ruhe – Rovinj gehört im Winter fast nur den Einheimischen."
+            ],
+            "hu": [
+              "A bóra szél nagyon metsző lehet; szélálló öltözet kötelező.",
+              "A naplemente korán van (kb. 16:30), utána hirtelen lehűl a levegő.",
+              "Néhány kikötői étterem téli szünetet tart; keress helyet a belvárosban.",
+              "A tengerparti kőpadok télen túl hidegek az ücsörgéshez.",
+              "Élvezd a csendet – Rovinj télen szinte csak a helyieké."
+            ],
+            "ro": [
+              "Vântul Bura poate fi foarte tăios; îmbrăcămintea rezistentă la vânt este esențială.",
+              "Apusul este devreme (cca 16:30), după care se răcește brusc.",
+              "Unele restaurante din port sunt închise iarna; căutați locuri în centru.",
+              "Băncile de piatră de lângă mare sunt prea reci pentru a sta pe ele iarna.",
+              "Bucurați-vă de liniște – iarna, Rovinj aparține aproape în întregime localnicilor."
+            ],
+            "en": [
+              "The Bura wind can be very biting; windproof clothing is essential.",
+              "Sunset is early (around 16:30), and it gets significantly colder immediately after.",
+              "Some harbor restaurants take a winter break; look for spots in the town center.",
+              "The stone benches by the sea are too cold for sitting in winter.",
+              "Enjoy the peace – in winter, Rovinj belongs almost entirely to the locals."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -597,6 +787,160 @@
           "Take enough water with you.",
           "Always lock your bike at the beaches."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz des Regens starten wir im Hafen von Rovinj. Die Fahrt zum Franziskanerkloster ist kurz und nass. Mittags erreichen wir das Goldene Kap, wo die Pinien einen gewissen Schutz bieten. Der Nachmittag endet an der Lone-Bucht, wo das graue Meer eine mystische Atmosphäre ausstrahlt.",
+            "hu": "Az eső ellenére a kikötőből indulunk. A ferences kolostorig tartó út rövid és vizes. Délben elérjük az Aranyfokot, ahol a fenyők némi védelmet nyújtanak. A délután a Lone-öbölnél zárul, ahol a szürke tenger misztikus hangulatot áraszt.",
+            "ro": "În ciuda ploii, pornim din portul Rovinj. Drumul spre mănăstirea franciscană este scurt și umed. La prânz ajungem la Capul de Aur, unde pinii oferă protecție. După-amiaza se încheie în golful Lone, unde marea cenușie emană o atmosferă mistică.",
+            "en": "Despite the rain, we start from Rovinj harbor. The ride to the Franciscan Monastery is short and wet. At noon, we reach the Golden Cape, where pine trees offer some shelter. The afternoon ends at Lone Bay, where the grey sea exudes a mystical atmosphere."
+          },
+          "stops": [
+            {
+              "name": "Rovinj Old Town",
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Bremsen auf den nassen, glatten Steinplatten am Kai.",
+                "hu": "Kerüld a fékezést a vizes, csúszós kőlapokon a rakpartnál.",
+                "ro": "Evitați frânarea pe plăcile de piatră ude și alunecoase de pe chei.",
+                "en": "Avoid braking on the wet, slippery stone slabs at the quay."
+              }
+            },
+            {
+              "name": "Franciscan Monastery",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad unter den Vordächern ab, während Sie die Kirche besuchen.",
+                "hu": "Támaszd le a biciklit az előtető alá, amíg meglátogatod a templomot.",
+                "ro": "Parcați bicicleta sub copertine în timp ce vizitați biserica.",
+                "en": "Park your bike under the overhangs while visiting the church."
+              }
+            },
+            {
+              "name": "Golden Cape (Zlatni rt)",
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den befestigten Hauptwegen, um Schlamm zu vermeiden.",
+                "hu": "Maradj a kiépített főutakon, hogy elkerüld a sarat.",
+                "ro": "Rămâneți pe potecile principale pavate pentru a evita noroiul.",
+                "en": "Stay on the paved main paths to avoid mud."
+              }
+            },
+            {
+              "name": "Lone Bay",
+              "tip_5lang": {
+                "de": "Die Cafés hier bieten überdachte Sitzplätze mit Blick auf die stürmische See.",
+                "hu": "Az itteni kávézók fedett teraszáról remek kilátás nyílik a viharos tengerre.",
+                "ro": "Cafenelele de aici oferă locuri acoperite cu vedere spre marea agitată.",
+                "en": "The cafes here offer covered seating with a view of the stormy sea."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind bei Regen im Waldpark Zlatni rt unerlässlich.",
+              "Vermeiden Sie Pfützen, da diese tiefe Schlaglöcher im Schotter verbergen können.",
+              "Bremsscheiben können bei Nässe quietschen und weniger effektiv sein.",
+              "Tragen Sie eine vollflächige Regenbrille, um Spritzwasser aus den Augen zu halten.",
+              "Die Waldwege im Park sind meist fest, können aber an Kurven rutschig sein."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen az esős Zlatni rt erdei útjain.",
+              "Kerüld a tócsákat, mert mély kátyúkat rejthetnek a kavicsos úton.",
+              "A tárcsafékek nyikoroghatnak és veszíthetnek hatékonyságukból a víztől.",
+              "Viselj víztiszta szemüveget, hogy ne fröccsenjen víz a szemedbe.",
+              "Az erdei utak többnyire stabilak, de a kanyarokban csúszhatnak."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt esențiale în parcul forestier Zlatni rt pe ploaie.",
+              "Evitați bălțile, deoarece pot ascunde gropi adânci în pietriș.",
+              "Frânele pe disc pot scârțâi și pot fi mai puțin eficiente din cauza apei.",
+              "Purtați ochelari de protecție pentru a opri apa stropită să vă intre în ochi.",
+              "Potecile din pădure sunt de obicei ferme, dar pot fi alunecoase în curbe."
+            ],
+            "en": [
+              "Mudguards are essential when riding in the Zlatni rt forest park in the rain.",
+              "Avoid puddles as they can hide deep potholes in the gravel paths.",
+              "Disc brakes might squeak and be less effective due to the water.",
+              "Wear clear cycling glasses to keep splash water out of your eyes.",
+              "The forest paths are mostly firm but can be slippery in the corners."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen beginnt mit einer Fahrt durch die Altstadt. Der Wind weht kräftig, während wir zum Kloster radeln. Mittags genießen wir die einsame Natur am Goldenen Kap unter einem strahlend blauen, aber kalten Himmel. Der Nachmittag endet in der ruhigen Lone-Bucht mit einem warmen Tee.",
+            "hu": "Friss téli reggel indul az óvároson át. A szél erősen fúj, miközben a kolostor felé tekerünk. Délben az Aranyfok magányos nyugalmát élvezzük a ragyogó kék, de hideg égbolt alatt. A délután a csendes Lone-öbölben zárul egy forró tea társaságában.",
+            "ro": "O dimineață proaspătă de iarnă începe cu o plimbare prin orașul vechi. Vântul suflă cu putere spre mănăstire. La prânz ne bucurăm de natura solitară de la Capul de Aur sub un cer senin, dar rece. După-amiaza se încheie în golful liniștit Lone cu un ceai cald.",
+            "en": "A fresh winter morning starts with a ride through the old town. The wind blows strongly as we cycle towards the monastery. At noon, we enjoy the solitary nature of the Golden Cape under a bright blue but cold sky. The afternoon ends at the quiet Lone Bay with a hot tea."
+          },
+          "stops": [
+            {
+              "name": "Rovinj Old Town",
+              "tip_5lang": {
+                "de": "Die Gassen sind leer, aber achten Sie auf gefrorene Stellen im Schatten.",
+                "hu": "Az utcák üresek, de figyelj az árnyékos részeken az esetleges fagypontokra.",
+                "ro": "Străzile sunt goale, dar atenție la porțiunile înghețate de la umbră.",
+                "en": "The streets are empty, but watch out for frozen spots in the shadows."
+              }
+            },
+            {
+              "name": "Franciscan Monastery",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp zum Aufwärmen in der geschützten Klosterkirche.",
+                "hu": "Rövid megálló a felmelegedéshez a védett kolostortemplomban.",
+                "ro": "O scurtă oprire pentru încălzire în biserica mănăstirii protejată.",
+                "en": "A short stop to warm up in the protected monastery church."
+              }
+            },
+            {
+              "name": "Golden Cape (Zlatni rt)",
+              "tip_5lang": {
+                "de": "Die Wege sind trocken und perfekt zum Radfahren, solange es hell ist.",
+                "hu": "Az utak szárazak és tökéletesek a tekeréshez, amíg világos van.",
+                "ro": "Potecile sunt uscate și perfecte pentru ciclism cât timp este lumină.",
+                "en": "The paths are dry and perfect for cycling as long as it's light."
+              }
+            },
+            {
+              "name": "Lone Bay",
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne blendet am Meer; tragen Sie eine Sonnenbrille.",
+                "hu": "Az alacsonyan járó téli nap elvakíthat a víznél; viselj napszemüveget.",
+                "ro": "Soarele de iarnă jos vă poate orbi la mare; purtați ochelari de soare.",
+                "en": "The low winter sun can be blinding by the sea; wear sunglasses."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schichten Sie Ihre Kleidung (Zwiebelprinzip), um gegen den Fahrtwind geschützt zu sein.",
+              "Handschuhe sind ein Muss, da die Finger am Lenker schnell auskühlen.",
+              "Die Sonne geht früh unter; stellen Sie sicher, dass Ihr Fahrradlicht funktioniert.",
+              "Der Park Zlatni rt ist im Winter fast menschenleer und sehr friedlich.",
+              "Einige Strandbars sind geschlossen, nehmen Sie eine Thermoskanne mit."
+            ],
+            "hu": [
+              "Öltözz rétegesen, hogy védekezz a menetszél ellen.",
+              "A kesztyű kötelező, mert az ujjaid gyorsan kihűlnek a kormányon.",
+              "A nap korán nyugszik; győződj meg róla, hogy működik a kerékpár lámpája.",
+              "A Zlatni rt park télen szinte teljesen üres és nagyon békés.",
+              "Néhány parti bár zárva van, vigyél magaddal termoszt meleg itallal."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi pentru a vă proteja împotriva vântului în timpul mersului.",
+              "Mănușile sunt obligatorii, deoarece degetele îngheață rapid pe ghidon.",
+              "Soarele apune devreme; asigurați-vă că luminile bicicletei funcționează.",
+              "Parcul Zlatni rt este aproape pustiu iarna și foarte liniștit.",
+              "Unele baruri de pe plajă sunt închise, luați un termos cu băutură caldă."
+            ],
+            "en": [
+              "Layer your clothing (onion principle) to stay protected against the wind chill.",
+              "Gloves are a must as fingers cool down quickly on the handlebars.",
+              "The sun sets early; make sure your bike lights are functioning properly.",
+              "The Zlatni rt park is almost empty in winter and very peaceful.",
+              "Some beach bars are closed, so bring a thermos with a hot drink."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -878,6 +1222,160 @@
           "Sturdy shoes are recommended for Dvigrad.",
           "Book ahead for restaurants at Lim Fjord."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir parken bequem in der Nähe der Altstadt. Der Vormittag ist dem Besuch der Kirche gewidmet, während die Scheibenwischer unermüdlich arbeiten. Mittags fahren wir zum Goldenen Kap, wo wir die Aussicht aus dem trockenen Auto genießen. Der Nachmittag führt uns zum Lim-Fjord, der im Nebel besonders geheimnisvoll wirkt.",
+            "hu": "Kényelmesen parkolunk az óváros közelében. A délelőttöt a templomlátogatásnak szenteljük, miközben az ablaktörlők fáradhatatlanul dolgoznak. Délben az Aranyfokhoz hajtunk, élvezve a kilátást a száraz autóból. A délután a Lim-fjordhoz vezet, amely a ködben különösen titokzatosnak tűnik.",
+            "ro": "Parcăm convenabil lângă orașul vechi. Dimineața este dedicată vizitării bisericii, în timp ce ștergătoarele lucrează neobosit. La prânz mergem la Capul de Aur, savurând priveliștea din mașina uscată. După-amiaza ne duce la Fiordul Lim, care pare misterios în ceață.",
+            "en": "We park conveniently near the old town. The morning is dedicated to visiting the church while the wipers work tirelessly. At noon, we drive to the Golden Cape, enjoying the view from the dry car. The afternoon leads us to Lim Fjord, which looks particularly mysterious in the mist."
+          },
+          "stops": [
+            {
+              "name": "Rovinj Old Town Parking",
+              "tip_5lang": {
+                "de": "Wählen Sie den Parkplatz Valdibora für den kürzesten Weg ins Trockene.",
+                "hu": "Válaszd a Valdibora parkolót a legrövidebb útért a fedett részekig.",
+                "ro": "Alegeți parcarea Valdibora pentru cel mai scurt drum spre adăpost.",
+                "en": "Choose Valdibora parking for the shortest walk to dry areas."
+              }
+            },
+            {
+              "name": "Church of St. Euphemia",
+              "tip_5lang": {
+                "de": "Fahren Sie so nah wie möglich an die Fußgängerzone heran.",
+                "hu": "Hajts olyan közel a sétálóövezethez, amennyire csak lehet.",
+                "ro": "Conduceți cât mai aproape de zona pietonală.",
+                "en": "Drive as close to the pedestrian zone as possible."
+              }
+            },
+            {
+              "name": "Golden Cape (Zlatni rt)",
+              "tip_5lang": {
+                "de": "Es gibt Parkplätze direkt am Parkeingang beim Hotel Lone.",
+                "hu": "Közvetlenül a park bejáratánál, a Hotel Lone mellett vannak parkolóhelyek.",
+                "ro": "Există locuri de parcare chiar la intrarea în parc, lângă Hotel Lone.",
+                "en": "There are parking spots right at the park entrance near Hotel Lone."
+              }
+            },
+            {
+              "name": "Lim Fjord (Viewpoint)",
+              "tip_5lang": {
+                "de": "Die Aussichtspunkte an der Straße bieten oft Unterstände für Fotos.",
+                "hu": "Az út menti kilátópontoknál gyakran vannak fedett részek fotózáshoz.",
+                "ro": "Punctele de belvedere de pe marginea drumului au adesea adăposturi pentru fotografii.",
+                "en": "The viewpoints along the road often have shelters for taking photos."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Küstenstraße kann bei Starkregen Aquaplaning-Gefahr bieten.",
+              "Nutzen Sie die Park-Apps (z.B. PayDo), um nicht im Regen am Automaten zu stehen.",
+              "Der Lim-Fjord-Aussichtspunkt hat ein Restaurant, ideal für eine Regenpause.",
+              "Vermeiden Sie das Parken unter Pinien bei Sturm (Gefahr von herabfallenden Zapfen).",
+              "Die Sicht am Lim-Fjord kann bei starkem Regen stark eingeschränkt sein."
+            ],
+            "hu": [
+              "A part menti úton heves esőben fennáll az aquaplaning veszélye.",
+              "Használd a parkolási appokat (pl. PayDo), hogy ne kelljen az esőben az automatánál állnod.",
+              "A Lim-fjord kilátópontnál van étterem, ideális egy esőszünethez.",
+              "Viharban ne parkolj fenyőfák alá (lehulló tobozok veszélye).",
+              "Heves esőben a kilátás a Lim-fjordnál jelentősen korlátozott lehet."
+            ],
+            "ro": [
+              "Drumul de coastă poate prezenta pericol de acvaplanare în timpul ploilor torențiale.",
+              "Folosiți aplicațiile de parcare (ex. PayDo) pentru a nu sta în ploaie la parcometru.",
+              "Punctul de belvedere de la Fiordul Lim are un restaurant, ideal pentru o pauză de ploaie.",
+              "Evitați parcarea sub pini în timpul furtunii (pericol de cădere a conurilor).",
+              "Vizibilitatea la Fiordul Lim poate fi sever limitată în timpul ploilor abundente."
+            ],
+            "en": [
+              "The coastal road can pose a risk of aquaplaning during heavy rain.",
+              "Use parking apps (e.g., PayDo) to avoid standing at the machine in the rain.",
+              "The Lim Fjord viewpoint has a restaurant, ideal for a break from the rain.",
+              "Avoid parking under pine trees during a storm (danger of falling cones).",
+              "Visibility at Lim Fjord can be severely limited during heavy rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter finden wir problemlos einen Parkplatz direkt an der Riva. Der Vormittag ist perfekt für einen ruhigen Besuch der Euphemia-Kirche. Mittags fahren wir zum Goldenen Kap, wo wir die klare Luft genießen. Der Nachmittag am Lim-Fjord bietet weite, klare Ausblicke, die es im Sommer so selten gibt.",
+            "hu": "Télen gond nélkül találunk parkolót közvetlenül a rakparton. A délelőtt tökéletes a Szent Eufémia-templom nyugodt meglátogatásához. Délben az Aranyfokhoz hajtunk, élvezve a friss levegőt. A délután a Lim-fjordnál tiszta, messzire nyúló kilátást kínál, ami nyáron ritka.",
+            "ro": "Iarna găsim fără probleme loc de parcare direct pe faleză. Dimineața este perfectă pentru o vizită liniștită la biserica Sf. Eufemia. La prânz mergem la Capul de Aur, savurând aerul proaspăt. După-amiaza la Fiordul Lim oferă vederi clare și largi, rare în timpul verii.",
+            "en": "In winter, we easily find a parking spot right on the Riva. The morning is perfect for a peaceful visit to St. Euphemia. At noon, we drive to the Golden Cape, enjoying the fresh air. The afternoon at Lim Fjord offers clear, far-reaching views that are rare in summer."
+          },
+          "stops": [
+            {
+              "name": "Rovinj Old Town Parking",
+              "tip_5lang": {
+                "de": "Parkplätze an der Riva sind im Winter oft günstiger oder sogar kostenlos.",
+                "hu": "A rakparti parkolók télen gyakran olcsóbbak vagy akár ingyenesek is.",
+                "ro": "Parcările de pe faleză sunt adesea mai ieftine sau chiar gratuite iarna.",
+                "en": "Parking spots on the Riva are often cheaper or even free in winter."
+              }
+            },
+            {
+              "name": "Church of St. Euphemia",
+              "tip_5lang": {
+                "de": "Die steilen Straßen zur Kirche sind im Winter weniger rutschig, da sie trocken sind.",
+                "hu": "A templomhoz vezető meredek utcák télen kevésbé csúsznak, mivel szárazak.",
+                "ro": "Străzile abrupte spre biserică sunt mai puțin alunecoase iarna fiind uscate.",
+                "en": "The steep streets to the church are less slippery in winter as they are dry."
+              }
+            },
+            {
+              "name": "Golden Cape (Zlatni rt)",
+              "tip_5lang": {
+                "de": "Besuchen Sie den Park am frühen Nachmittag, um die maximale Sonne zu nutzen.",
+                "hu": "Látogasd meg a parkot kora délután, hogy kihasználd a legtöbb napsütést.",
+                "ro": "Vizitați parcul la începutul după-amiezii pentru a profita de soare.",
+                "en": "Visit the park in the early afternoon to make the most of the sun."
+              }
+            },
+            {
+              "name": "Lim Fjord (Viewpoint)",
+              "tip_5lang": {
+                "de": "Die Luft ist im Winter klarer, was perfekte Fernsicht ermöglicht.",
+                "hu": "A levegő télen tisztább, ami tökéletes távoli kilátást tesz lehetővé.",
+                "ro": "Aerul este mai clar iarna, ceea ce permite o vizibilitate perfectă la distanță.",
+                "en": "The air is clearer in winter, allowing for perfect long-distance views."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in Kroatien bei winterlichen Bedingungen Pflicht.",
+              "Die Parkplatzsuche ist im Winter absolut stressfrei.",
+              "Die Aussichtspunkte am Lim-Fjord sind im Winter herrlich einsam.",
+              "Achten Sie auf Wildtiere (Wildschweine oder Rehe) an den Waldrändern.",
+              "Die Heizung im Auto ist nach einem Spaziergang am windigen Meer Gold wert."
+            ],
+            "hu": [
+              "Téli gumi kötelező Horvátországban téli útviszonyok esetén.",
+              "A parkolóhely-keresés télen teljesen stresszmentes.",
+              "A Lim-fjord kilátópontjai télen csodálatosan elhagyatottak.",
+              "Figyelj a vadállatokra (vaddisznók, őzek) az erdőszéleken.",
+              "A szeles tengerparti séta után az autó fűtése aranyat ér."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii în Croația în condiții de iarnă.",
+              "Căutarea unui loc de parcare este complet lipsită de stres iarna.",
+              "Punctele de belvedere de la Fiordul Lim sunt minunat de pustii iarna.",
+              "Atenție la animalele sălbatice (mistreți sau căprioare) la marginile pădurii.",
+              "Încălzirea din mașină valorează aur după o plimbare pe malul mării vântos."
+            ],
+            "en": [
+              "Winter tires are mandatory in Croatia during winter road conditions.",
+              "Finding a parking spot in winter is completely stress-free.",
+              "The Lim Fjord viewpoints are wonderfully deserted in winter.",
+              "Watch out for wildlife (wild boars or deer) near the forest edges.",
+              "The car's heater is worth its weight in gold after a walk by the windy sea."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1136,6 +1634,178 @@
           "Bus tickets can be bought directly from the driver.",
           "Schedules are posted at the central station."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Vom Busbahnhof aus ist es nur ein kurzer Sprint zum Balbi-Bogen. Mittags verbringen wir viel Zeit in der Kirche und dem Glockenturm, um trocken zu bleiben. Der Nachmittag ist dem Batana-Museum gewidmet, das einen perfekten Schutz bietet. Den Abend lassen wir im Franziskanerkloster ausklingen, bevor wir den Bus zurück nehmen.",
+            "hu": "A buszpályaudvartól csak egy rövid vágta a Balbi-ív. Délben sok időt töltünk a templomban és az óratoronynál, hogy szárazon maradjunk. A délutánt a Batana múzeumnak szenteljük, amely tökéletes menedék. Az estét a ferences kolostornál zárjuk, mielőtt visszabuszoznánk.",
+            "ro": "De la autogară este doar un scurt sprint până la Arcul lui Balbi. La prânz petrecem mult timp în biserică și la turnul cu ceas pentru a rămâne uscați. După-amiaza este dedicată muzeului Batana, care oferă un adăpost perfect. Încheiem seara la mănăstirea franciscană înainte de a lua autobuzul înapoi.",
+            "en": "From the bus station, it's just a short sprint to Balbi's Arch. At noon, we spend plenty of time in the church and clock tower to stay dry. The afternoon is dedicated to the Batana museum, which offers perfect shelter. We conclude the evening at the Franciscan Monastery before taking the bus back."
+          },
+          "stops": [
+            {
+              "name": "Rovinj Bus Station",
+              "tip_5lang": {
+                "de": "Die Wartehalle bietet einen trockenen Unterstand für die Ankunft.",
+                "hu": "A váróterem száraz menedéket nyújt az érkezéskor.",
+                "ro": "Sala de așteptare oferă un adăpost uscat la sosire.",
+                "en": "The waiting hall provides a dry shelter upon arrival."
+              }
+            },
+            {
+              "name": "Rovinj Clock Tower",
+              "tip_5lang": {
+                "de": "Nur wenige Gehminuten vom Busbahnhof entfernt, ideal bei Regenpausen.",
+                "hu": "Csak pár perc séta a buszpályaudvartól, ideális esőszünetekben.",
+                "ro": "La doar câteva minute de mers pe jos de autogară, ideal în pauzele de ploaie.",
+                "en": "Only a few minutes' walk from the bus station, ideal during rain breaks."
+              }
+            },
+            {
+              "name": "Church of St. Euphemia",
+              "tip_5lang": {
+                "de": "Planen Sie einen längeren Aufenthalt ein, um den Regen im Inneren abzuwarten.",
+                "hu": "Tervezz hosszabb tartózkodást, hogy bent várd meg az eső végét.",
+                "ro": "Planificați o ședere mai lungă pentru a aștepta trecerea ploii în interior.",
+                "en": "Plan for a longer stay to wait out the rain inside."
+              }
+            },
+            {
+              "name": "Batana Eco-museum",
+              "tip_5lang": {
+                "de": "Direkt am Hafen gelegen, leicht erreichbar zwischen zwei Schauern.",
+                "hu": "Közvetlenül a kikötőben található, könnyen elérhető két zápor között.",
+                "ro": "Situat direct în port, ușor accesibil între două averse.",
+                "en": "Located directly at the harbor, easily accessible between two showers."
+              }
+            },
+            {
+              "name": "Franciscan Monastery",
+              "tip_5lang": {
+                "de": "Der Bus hält oft in der Nähe des Klosters; prüfen Sie die lokalen Linien.",
+                "hu": "A busz gyakran megáll a kolostor közelében; ellenőrizd a helyi járatokat.",
+                "ro": "Autobuzul oprește adesea lângă mănăstire; verificați liniile locale.",
+                "en": "The bus often stops near the monastery; check the local lines."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die App 'Arriva' für Echtzeit-Businformationen bei Regen.",
+              "Die Abstände zwischen den Sehenswürdigkeiten sind kurz, ideal für Sprints.",
+              "Der Busbahnhof hat ein kleines Café, um trocken auf den Bus zu warten.",
+              "Kaufen Sie Tickets online, um nicht im Regen am Schalter anstehen zu müssen.",
+              "Taxis stehen direkt am Busbahnhof bereit, falls der Regen zu stark wird."
+            ],
+            "hu": [
+              "Használd az 'Arriva' appot a valós idejű buszinformációkhoz esőben.",
+              "A látnivalók közötti távolságok rövidek, ideálisak a gyors átrohanáshoz.",
+              "A buszpályaudvaron van egy kis kávézó, ahol szárazon várhatod a buszt.",
+              "Vegyél jegyet online, hogy ne kelljen az esőben sorban állnod a pénztárnál.",
+              "A taxik közvetlenül a buszpályaudvarnál várnak, ha túl erősen esne."
+            ],
+            "ro": [
+              "Folosiți aplicația 'Arriva' pentru informații în timp real despre autobuze pe ploaie.",
+              "Distanțele dintre obiective sunt scurte, ideale pentru deplasări rapide.",
+              "Autogara are o mică cafenea unde puteți aștepta autobuzul la uscat.",
+              "Cumpărați bilete online pentru a nu sta la coadă la ghișeu în ploaie.",
+              "Taxiurile sunt disponibile direct la autogară dacă ploaia devine prea puternică."
+            ],
+            "en": [
+              "Use the 'Arriva' app for real-time bus information during rain.",
+              "The distances between sights are short, ideal for quick dashes.",
+              "The bus station has a small cafe to wait for your bus while staying dry.",
+              "Buy tickets online to avoid queuing at the counter in the rain.",
+              "Taxis are available right at the bus station if the rain gets too heavy."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Am klaren Wintermorgen kommen wir am Busbahnhof an. Die Altstadt ist ruhig, während wir zum Glockenturm spazieren. Mittags besuchen wir die Euphemia-Kirche, die majestätisch über der Adria thront. Der Nachmittag im Batana-Museum ist informativ und warm. Wir beenden den Tag am Kloster, bevor es dunkel wird.",
+            "hu": "Tiszta téli reggelen érkezünk a buszpályaudvarra. Az óváros csendes, miközben az óratorony felé sétálunk. Délben meglátogatjuk a Szent Eufémia-templomot, amely fenségesen magasodik az Adria fölé. A délután a Batana múzeumban informatív és meleg. A napot a kolostornál zárjuk, mielőtt besötétedne.",
+            "ro": "Într-o dimineață senină de iarnă ajungem la autogară. Orașul vechi este liniștit în timp ce ne plimbăm spre turnul cu ceas. La prânz vizităm biserica Sf. Eufemia, care domină maiestuos Adriatica. După-amiaza la muzeul Batana este informativă și caldă. Încheiem ziua la mănăstire înainte de lăsarea întunericului.",
+            "en": "On a clear winter morning, we arrive at the bus station. The old town is quiet as we stroll towards the clock tower. At noon, we visit St. Euphemia, which towers majestically over the Adriatic. The afternoon at the Batana museum is informative and warm. We end the day at the monastery before it gets dark."
+          },
+          "stops": [
+            {
+              "name": "Rovinj Bus Station",
+              "tip_5lang": {
+                "de": "Im Winter gibt es weniger Verbindungen; prüfen Sie den Fahrplan genau.",
+                "hu": "Télen kevesebb járat indul; ellenőrizd pontosan a menetrendet.",
+                "ro": "Iarna sunt mai puține conexiuni; verificați cu atenție orarul.",
+                "en": "There are fewer connections in winter; check the timetable carefully."
+              }
+            },
+            {
+              "name": "Rovinj Clock Tower",
+              "tip_5lang": {
+                "de": "Der Platz ist im Winter fast leer, perfekt für ungestörte Fotos.",
+                "hu": "A tér télen szinte üres, tökéletes a zavartalan fotózáshoz.",
+                "ro": "Piața este aproape goală iarna, perfectă pentru fotografii netulburate.",
+                "en": "The square is almost empty in winter, perfect for undisturbed photos."
+              }
+            },
+            {
+              "name": "Church of St. Euphemia",
+              "tip_5lang": {
+                "de": "Ziehen Sie sich warm an, da der Wind auf dem Hügel im Winter stark weht.",
+                "hu": "Öltözz melegen, mert a dombtetőn télen erősen fúj a szél.",
+                "ro": "Îmbrăcați-vă gros, deoarece vântul suflă puternic pe deal iarna.",
+                "en": "Dress warmly as the wind blows strongly on the hilltop in winter."
+              }
+            },
+            {
+              "name": "Batana Eco-museum",
+              "tip_5lang": {
+                "de": "Ein wunderbarer Ort, um sich zwischen den Spaziergängen aufzuwärmen.",
+                "hu": "Csodálatos hely a felmelegedéshez a séták között.",
+                "ro": "Un loc minunat pentru a vă încălzi între plimbări.",
+                "en": "A wonderful place to warm up between your walks."
+              }
+            },
+            {
+              "name": "Franciscan Monastery",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Besichtigungszeiten, da diese im Winter kürzer sein können.",
+                "hu": "Ellenőrizd a látogatási időt, mert télen rövidebb lehet.",
+                "ro": "Verificați orele de vizitare, deoarece pot fi mai scurte iarna.",
+                "en": "Check the visiting hours as they may be shorter in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Einige Fernbusse können im Winter leichte Verspätungen haben.",
+              "Die Wartehalle am Busbahnhof ist im Winter beheizt.",
+              "Der Fußweg vom Bahnhof in die Altstadt dauert nur ca. 5-7 Minuten.",
+              "Tragen Sie feste Schuhe, da der Wind am Hafen im Winter sehr kalt sein kann.",
+              "Nutzen Sie die frühen Nachmittagsstunden für die Außenbesichtigungen."
+            ],
+            "hu": [
+              "Néhány távolsági busz télen kisebb késéssel közlekedhet.",
+              "A buszpályaudvar váróterme télen fűtött.",
+              "A gyalogút az állomástól az óvárosba csak kb. 5-7 perc.",
+              "Viselj zárt cipőt, mert a kikötőben télen nagyon hideg lehet a szél.",
+              "Használd ki a kora délutáni órákat a kültéri látnivalókhoz."
+            ],
+            "ro": [
+              "Unele autobuze de lungă distanță pot avea mici întârzieri iarna.",
+              "Sala de așteptare de la autogară este încălzită iarna.",
+              "Drumul pe jos de la autogară la orașul vechi durează doar cca 5-7 minute.",
+              "Purtați încălțăminte solidă, deoarece vântul în port poate fi foarte rece iarna.",
+              "Folosiți orele de la începutul după-amiezii pentru vizitarea obiectivelor exterioare."
+            ],
+            "en": [
+              "Some long-distance buses may have slight delays in winter.",
+              "The waiting hall at the bus station is heated in winter.",
+              "The walk from the station to the old town takes only about 5-7 minutes.",
+              "Wear sturdy shoes as the wind at the harbor can be very cold in winter.",
+              "Make use of the early afternoon hours for outdoor sightseeing."
+            ]
+          }
+        }
       }
     }
   }

@@ -379,6 +379,206 @@
           "The weather can change quickly, so pack a light rain jacket.",
           "Most locals speak English, but a 'dank u wel' (thank you) is appreciated."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet das Vordach des Alten Rathaus ersten Schutz vor dem niederländischen Nieselregen. Mittags ist das Museum De Koperen Knop der perfekte Zufluchtsort, um trocken in die lokale Geschichte einzutauchen. Nachmittags führt der Weg entlang der Giessen unter grauen Wolken zum Bahnhof. Abends bietet die geschlossene Kabine des Wasserbusses eine warme Überfahrt zur Sliedrechtse Brug, während die Lichter im nassen Asphalt glänzen.",
+            "hu": "Reggel a régi városháza eresze nyújt menedéket a holland szemerkélő eső elől. Délben a Museum De Koperen Knop a tökéletes rejtekhely, ahol szárazon merülhetünk el a helyi történelemben. Délután a Giessen-folyó partján, szürke felhők alatt sétálunk a vasútállomás felé. Este a vízibusz zárt utastere meleg átkelést biztosít a Sliedrechtse Brug felé, miközben a fények megcsillannak a vizes aszfalton.",
+            "ro": "Dimineața, streașina vechii primării oferă primul adăpost împotriva burniței olandeze. La prânz, Muzeul De Koperen Knop este refugiul perfect pentru a explora istoria locală la adăpost. După-amiaza, plimbarea de-a lungul râului Giessen continuă sub nori gri spre gară. Seara, cabina închisă a autobuzului de apă asigură o traversare caldă spre Sliedrechtse Brug, în timp ce luminile se reflectă în asfaltul umed.",
+            "en": "In the morning, the eaves of the Old Town Hall provide early shelter from the Dutch drizzle. At noon, Museum De Koperen Knop is the perfect sanctuary to dive into local history while staying dry. In the afternoon, the walk along the Giessen River continues under gray clouds towards the station. In the evening, the enclosed cabin of the waterbus offers a warm crossing to Sliedrechtse Brug as lights glisten on the wet pavement."
+          },
+          "stops": [
+            {
+              "name": "Old Town Hall (Oude Raadhuis)",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich, um den Regenschirm in Ruhe aufzuspannen.",
+                "hu": "Használja a fedett bejárati részt az esernyő kényelmes kinyitásához.",
+                "ro": "Folosiți zona de intrare acoperită pentru a deschide umbrela în liniște.",
+                "en": "Use the covered entrance area to open your umbrella comfortably."
+              }
+            },
+            {
+              "name": "Reformed Church (Gereformeerde Kerk)",
+              "tip_5lang": {
+                "de": "Das schlichte Interieur bietet eine friedliche, trockene Pause während eines Schauers.",
+                "hu": "A letisztult belső tér békés, száraz pihenőt kínál egy zápor idején.",
+                "ro": "Interiorul simplu oferă o pauză liniștită și uscată în timpul unei averse.",
+                "en": "The simple interior offers a peaceful, dry break during a rain shower."
+              }
+            },
+            {
+              "name": "Museum De Koperen Knop",
+              "tip_5lang": {
+                "de": "Ideales Ziel bei Regen; besuchen Sie auch das gemütliche Museumscafé.",
+                "hu": "Ideális célpont esőben; látogassa meg a hangulatos múzeumi kávézót is.",
+                "ro": "Destinație ideală pe ploaie; vizitați și cafeneaua primitoare a muzeului.",
+                "en": "Ideal destination in rain; also visit the cozy museum café."
+              }
+            },
+            {
+              "name": "Stroll along De Giessen River",
+              "tip_5lang": {
+                "de": "Vorsicht, die Uferwege können bei Nässe etwas rutschig sein; festes Schuhwerk empfohlen.",
+                "hu": "Vigyázat, a parti utak nedvesen csúszósak lehetnek; zárt cipő ajánlott.",
+                "ro": "Atenție, potecile de pe mal pot fi alunecoase; se recomandă încălțăminte aderentă.",
+                "en": "Careful, riverside paths can be slippery when wet; sturdy footwear recommended."
+              }
+            },
+            {
+              "name": "Station Hardinxveld-Giessendam",
+              "tip_5lang": {
+                "de": "Der überdachte Bahnsteig bietet guten Schutz beim Warten auf den nächsten Zug.",
+                "hu": "A fedett peron jó szélvédelmet és eső elleni védelmet nyújt várakozás közben.",
+                "ro": "Peronul acoperit oferă protecție bună în timp ce așteptați trenul.",
+                "en": "The covered platform provides good shelter while waiting for the train."
+              }
+            },
+            {
+              "name": "Waterbus Terminal",
+              "tip_5lang": {
+                "de": "Die Boote sind beheizt und wetterfest; genießen Sie den Blick durch die Fenster.",
+                "hu": "A hajók fűtöttek és időjárásállóak; élvezze a kilátást az ablakokon keresztül.",
+                "ro": "Ambarcațiunile sunt încălzite și protejate; admirați vederea prin ferestre.",
+                "en": "The boats are heated and weatherproof; enjoy the view through the windows."
+              }
+            },
+            {
+              "name": "Sliedrechtse Brug",
+              "tip_5lang": {
+                "de": "Starker Wind auf der Brücke möglich; halten Sie Ihre Regenbekleidung gut fest.",
+                "hu": "Erős szél várható a hídon; húzza szorosra az esőkabát kapucniját.",
+                "ro": "Vânt puternic posibil pe pod; asigurați-vă bine pelerina de ploaie.",
+                "en": "Strong winds possible on the bridge; keep your rain gear secured."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine wasserfeste Windjacke, da der Wind in den Poldern den Regen oft waagerecht peitscht.",
+              "Das Museum De Koperen Knop ist der beste Ort, um längere Regengüsse zu überbrücken.",
+              "Die Wasserbusse verkehren fahrplanmäßig und bieten einen trockenen Transfer zwischen den Stadtteilen.",
+              "Achten Sie auf Pfützen in den tiefer gelegenen Bereichen der Polderwege."
+            ],
+            "hu": [
+              "Viseljen vízálló széldzsekit, mert a poldereken a szél gyakran vízszintesen hordja az esőt.",
+              "A Museum De Koperen Knop a legjobb hely a hosszabb záporok átvészelésére.",
+              "A vízibuszok menetrend szerint járnak, és száraz transzfert biztosítanak a városrészek között.",
+              "Ügyeljen a tócsákra a polderutak alacsonyabban fekvő szakaszain."
+            ],
+            "ro": [
+              "Purtați o jachetă impermeabilă, deoarece vântul din poldere bate adesea ploaia lateral.",
+              "Muzeul De Koperen Knop este cel mai bun loc pentru a aștepta trecerea averselor lungi.",
+              "Autobuzele de apă circulă conform programului și oferă un transfer uscat între zone.",
+              "Fiți atenți la bălți în zonele mai joase ale drumurilor din polder."
+            ],
+            "en": [
+              "Wear a waterproof windbreaker, as polder winds often drive rain horizontally.",
+              "Museum De Koperen Knop is the best place to bridge longer rain spells.",
+              "Waterbuses run on schedule and provide a dry transfer between districts.",
+              "Watch out for puddles in the lower-lying areas of the polder paths."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt frostig am Alten Rathaus, wo die Kälte in den Gassen steht. Mittags wärmt die historische Atmosphäre des Museums De Koperen Knop Geist und Körper. Nachmittags glitzert der Raureif auf den Wiesen entlang der Giessen, bevor die Sonne früh hinter dem Deich verschwindet. Den Abend verbringt man am besten bei der Sliedrechtse Brug, um das blaue Licht der Dämmerung über dem gefrorenen Wasser zu beobachten.",
+            "hu": "A reggel fagyosan indul a régi városházánál, ahol a hideg megül a szűk utcákban. Délben a Museum De Koperen Knop történelmi légköre melengeti meg a testet és a lelket. Délután dér csillog a Giessen-parti réteken, mielőtt a nap korán eltűnik a gát mögött. Az estét a Sliedrechtse Brug-nál érdemes tölteni, megfigyelve a szürkület kék fényeit a jeges víz felett.",
+            "ro": "Dimineața începe geroasă la vechea primărie, unde frigul stăruie pe străduțe. La prânz, atmosfera istorică a Muzeului De Koperen Knop încălzește trupul și sufletul. După-amiaza, chiciura sclipește pe pajiștile de-a lungul râului Giessen, înainte ca soarele să apună devreme. Seara este cel mai bine petrecută lângă Sliedrechtse Brug, admirând lumina albastră a amurgului peste apa înghețată.",
+            "en": "The morning starts frosty at the Old Town Hall, with the chill lingering in the alleys. At noon, the historical atmosphere of Museum De Koperen Knop warms both body and soul. In the afternoon, hoarfrost glistens on the meadows along the Giessen before the sun sets early behind the dike. Spend the evening near Sliedrechtse Brug to observe the blue twilight light over the frozen water."
+          },
+          "stops": [
+            {
+              "name": "Old Town Hall (Oude Raadhuis)",
+              "tip_5lang": {
+                "de": "Vorsicht vor glatten Stellen auf dem alten Kopfsteinpflaster bei Frost.",
+                "hu": "Vigyázzon a csúszós foltokra a régi macskakövön fagy esetén.",
+                "ro": "Atenție la porțiunile alunecoase de pe pavajul vechi în caz de îngheț.",
+                "en": "Watch out for slippery spots on the old cobblestones during frost."
+              }
+            },
+            {
+              "name": "Reformed Church (Gereformeerde Kerk)",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Öffnungszeiten; im Winter oft nur für Gottesdienste geheizt.",
+                "hu": "Ellenőrizze a nyitvatartást; télen gyakran csak istentiszteletek alatt fűtött.",
+                "ro": "Verificați programul; iarna este adesea încălzită doar pentru slujbe.",
+                "en": "Check opening hours; in winter often only heated during services."
+              }
+            },
+            {
+              "name": "Museum De Koperen Knop",
+              "tip_5lang": {
+                "de": "Ein wunderbarer Ort zum Aufwärmen; probieren Sie eine heiße Schokolade im Café.",
+                "hu": "Csodás hely a felmelegedéshez; kóstoljon meg egy forró csokoládét a kávézóban.",
+                "ro": "Un loc minunat pentru a vă încălzi; încercați o ciocolată caldă la cafenea.",
+                "en": "A wonderful place to warm up; try a hot chocolate in the café."
+              }
+            },
+            {
+              "name": "Stroll along De Giessen River",
+              "tip_5lang": {
+                "de": "Der Wind vom Wasser ist im Winter schneidend kalt; Schal und Mütze sind Pflicht.",
+                "hu": "A víz felől fújó szél télen metszően hideg; sál és sapka kötelező.",
+                "ro": "Vântul de pe apă este tăios iarna; fularul și căciula sunt obligatorii.",
+                "en": "The wind from the water is biting cold in winter; scarf and hat are mandatory."
+              }
+            },
+            {
+              "name": "Station Hardinxveld-Giessendam",
+              "tip_5lang": {
+                "de": "Die Wartehäuschen bieten begrenzten Schutz vor dem eisigen Ostwind.",
+                "hu": "A váróhelyiségek korlátozott védelmet nyújtanak a jeges keleti szél ellen.",
+                "ro": "Adăposturile din stație oferă protecție limitată împotriva vântului înghețat.",
+                "en": "The waiting shelters provide limited protection from the icy east wind."
+              }
+            },
+            {
+              "name": "Waterbus Terminal",
+              "tip_5lang": {
+                "de": "Nutzen Sie den beheizten Innenbereich der Fähre für die Überquerung.",
+                "hu": "Használja a komp fűtött belső terét az átkeléshez.",
+                "ro": "Folosiți interiorul încălzit al feribotului pentru traversare.",
+                "en": "Use the heated interior of the ferry for the crossing."
+              }
+            },
+            {
+              "name": "Sliedrechtse Brug",
+              "tip_5lang": {
+                "de": "Die Brücke ist im Winter sehr windanfällig; genießen Sie kurz den Panoramablick.",
+                "hu": "A híd télen nagyon szeles; csak röviden élvezze a panorámát.",
+                "ro": "Podul este foarte expus vântului iarna; admirați scurt vederea panoramică.",
+                "en": "The bridge is very windy in winter; enjoy the panoramic view briefly."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Dezember bereits gegen 16:30 Uhr unter; planen Sie Ihre Außenaktivitäten früh.",
+              "Zwiebelprinzip bei der Kleidung ist wichtig, da der Wind in den offenen Poldern sehr auskühlt.",
+              "Das Museumscafé bietet die beste Gelegenheit für eine warme Pause.",
+              "Vorsicht bei Brückenüberquerungen, hier bildet sich zuerst Glatteis."
+            ],
+            "hu": [
+              "A nap decemberben már 16:30 körül lemegy; tervezze koránra a szabadtéri programokat.",
+              "A réteges öltözködés fontos, mert a nyitott poldereken a szél nagyon lehűt.",
+              "A múzeumi kávézó kínálja a legjobb lehetőséget egy meleg pihenőre.",
+              "Vigyázzon a hidakon való átkeléskor, itt képződik először jégréteg."
+            ],
+            "ro": [
+              "Soarele apune deja în jur de ora 16:30 în decembrie; planificați activitățile externe devreme.",
+              "Îmbrăcămintea în straturi este esențială, deoarece vântul din polderele deschise răcește mult.",
+              "Cafeneaua muzeului oferă cea mai bună ocazie pentru o pauză caldă.",
+              "Atenție la traversarea podurilor, aici se formează prima dată polei."
+            ],
+            "en": [
+              "The sun sets around 16:30 in December; plan your outdoor activities early.",
+              "Layered clothing is vital as the wind in the open polders is very chilling.",
+              "The museum café offers the best opportunity for a warm break.",
+              "Be careful when crossing bridges, as black ice forms here first."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -729,6 +929,188 @@
           "Bike paths are sacred. Stay in your lane and signal your intentions.",
           "Always lock your bike securely, even for short stops."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens fordert die Polderlandschaft bei Regen volle Konzentration auf dem Radweg. Mittags bietet das Museum De Koperen Knop eine wohlverdiente Pause vom nassen Wetter. Nachmittags geht es entlang der Giessen, wo der Regen die Wasseroberfläche tanzen lässt. Abends endet die Tour an der Sliedrechtse Brug, wo die Gischt und der Regen in der Dämmerung verschmelzen.",
+            "hu": "Reggel a polder vidék teljes koncentrációt igényel a kerékpárúton az esőben. Délben a Museum De Koperen Knop nyújt jól megérdemelt pihenőt a nedves idő elől. Délután a Giessen mentén tekerünk, ahol az eső táncra kéri a vízfelületet. Este a túra a Sliedrechtse Brug-nál ér véget, ahol a permet és az eső eggyé válik a szürkületben.",
+            "ro": "Dimineața, peisajul polderelor necesită concentrare maximă pe pistă sub ploaie. La prânz, Muzeul De Koperen Knop oferă o pauză binemeritată de vremea umedă. După-amiaza, traseul continuă pe lângă Giessen, unde ploaia face suprafața apei să danseze. Seara, turul se încheie la Sliedrechtse Brug, unde burnița și ploaia se contopesc în amurg.",
+            "en": "In the morning, the polder landscape demands full concentration on the cycle path in the rain. At noon, Museum De Koperen Knop offers a well-deserved break from the wet weather. In the afternoon, ride along the Giessen, where rain makes the water surface dance. In the evening, the tour ends at Sliedrechtse Brug, where spray and rain merge in the twilight."
+          },
+          "stops": [
+            {
+              "name": "Polder Landscape",
+              "tip_5lang": {
+                "de": "Achten Sie auf Seitenwind; die offenen Flächen bieten kaum Schutz vor Regenschauern.",
+                "hu": "Ügyeljen az oldalszélre; a nyílt területek nem védenek a záporoktól.",
+                "ro": "Atenție la vântul lateral; spațiile deschise oferă puțin adăpost împotriva ploii.",
+                "en": "Watch out for crosswinds; open areas offer little shelter from rain showers."
+              }
+            },
+            {
+              "name": "Museum De Koperen Knop",
+              "tip_5lang": {
+                "de": "Es gibt Fahrradständer nahe dem Eingang; nutzen Sie die Zeit zum Abtrocknen.",
+                "hu": "Vannak kerékpártárolók a bejáratnál; használja az időt a megszárítkozásra.",
+                "ro": "Există rastele de biciclete lângă intrare; profitați de timp pentru a vă usca.",
+                "en": "There are bike racks near the entrance; use the time to dry off."
+              }
+            },
+            {
+              "name": "Old Town Hall (Oude Raadhuis)",
+              "tip_5lang": {
+                "de": "Bremsen Sie vorsichtig auf dem nassen Pflaster im Ortskern.",
+                "hu": "Fékezzen óvatosan a nedves kövön a városközpontban.",
+                "ro": "Frânați cu grijă pe pavajul umed din centrul localității.",
+                "en": "Brake carefully on the wet pavement in the town center."
+              }
+            },
+            {
+              "name": "Ride along De Giessen River",
+              "tip_5lang": {
+                "de": "Die Sicht kann durch Regen eingeschränkt sein; schalten Sie das Licht ein.",
+                "hu": "Az eső korlátozhatja a látási viszonyokat; kapcsolja be a világítást.",
+                "ro": "Vizibilitatea poate fi redusă de ploaie; aprindeți luminile.",
+                "en": "Visibility may be reduced by rain; turn on your lights."
+              }
+            },
+            {
+              "name": "Waterbus Terminal",
+              "tip_5lang": {
+                "de": "Fahrräder können kostenlos mitgenommen werden und stehen trocken an Bord.",
+                "hu": "A kerékpárok ingyen szállíthatók és szárazon állnak a fedélzeten.",
+                "ro": "Bicicletele pot fi luate gratuit și stau la adăpost la bord.",
+                "en": "Bicycles can be taken for free and stay dry on board."
+              }
+            },
+            {
+              "name": "Sliedrechtse Brug",
+              "tip_5lang": {
+                "de": "Vorsicht vor rutschigen Metalldilatationen auf der Brücke bei Nässe.",
+                "hu": "Vigyázzon a csúszós fém illesztésekre a hídon esőben.",
+                "ro": "Atenție la îmbinările metalice alunecoase de pe pod pe timp de ploaie.",
+                "en": "Beware of slippery metal expansion joints on the bridge when wet."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vollständige Regenbekleidung inklusive Überschuhen ist bei dieser Tour absolut notwendig.",
+              "Die Fahrradmitnahme im Wasserbus ist eine gute Option, wenn der Regen zu stark wird.",
+              "Halten Sie Abstand zu anderen Radfahrern, da der Bremsweg auf nassen Wegen länger ist.",
+              "Überprüfen Sie Ihre Beleuchtung, da es an Regentagen oft düster bleibt."
+            ],
+            "hu": [
+              "Teljes esőruházat, beleértve a kamáslit is, elengedhetetlen ehhez a túrához.",
+              "A vízibuszon történő kerékpárszállítás jó opció, ha az eső túl erőssé válik.",
+              "Tartson nagyobb követési távolságot, mert a fékút hosszabb a vizes utakon.",
+              "Ellenőrizze a világítást, mert az esős napokon gyakran sötét marad az idő."
+            ],
+            "ro": [
+              "Echipamentul complet de ploaie, inclusiv protecțiile pentru pantofi, este obligatoriu.",
+              "Transportul bicicletei cu autobuzul de apă este o opțiune bună dacă ploaia devine prea puternică.",
+              "Păstrați distanța față de ceilalți bicicliști, deoarece distanța de frânare e mai mare pe ud.",
+              "Verificați luminile, deoarece zilele ploioase rămân adesea întunecate."
+            ],
+            "en": [
+              "Full rain gear including overshoes is absolutely necessary for this tour.",
+              "Taking your bike on the waterbus is a good option if the rain becomes too heavy.",
+              "Keep distance from other cyclists as braking distance is longer on wet paths.",
+              "Check your lighting as rainy days often remain gloomy."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Start in der Polderlandschaft, wo der Boden hart gefroren ist. Mittags bietet das Museum De Koperen Knop die nötige Wärme nach der Fahrt durch die Kälte. Nachmittags führt die Route entlang der Giessen, begleitet von kristallklarer Luft und tiefstehender Wintersonne. Abends erreicht man die Sliedrechtse Brug, wo die Kälte über dem Wasser besonders intensiv spürbar ist.",
+            "hu": "Fagyos kezdés a polder vidéken, ahol a talaj keményre fagyott. Délben a Museum De Koperen Knop nyújtja a szükséges meleget a hidegben való tekerés után. Délután a Giessen mentén vezet az út, kristálytiszta levegő és alacsonyan járó téli nap kíséretében. Este érjük el a Sliedrechtse Brug-ot, ahol a víz feletti hideg különösen intenzíven érezhető.",
+            "ro": "Un început geros în polder, unde pământul este înghețat bocnă. La prânz, Muzeul De Koperen Knop oferă căldura necesară după drumul prin frig. După-amiaza, traseul continuă pe lângă Giessen, însoțit de aer cristalinit și soarele jos de iarnă. Seara se ajunge la Sliedrechtse Brug, unde frigul peste apă este resimțit deosebit de intens.",
+            "en": "A frosty start in the polder landscape where the ground is frozen hard. At noon, Museum De Koperen Knop provides the necessary warmth after the ride through the cold. In the afternoon, the route follows the Giessen, accompanied by crystal clear air and the low winter sun. In the evening, you reach Sliedrechtse Brug, where the cold over the water is felt particularly intensely."
+          },
+          "stops": [
+            {
+              "name": "Polder Landscape",
+              "tip_5lang": {
+                "de": "Der Windchill-Effekt ist auf dem Rad extrem; schützen Sie Ihr Gesicht vor der Kälte.",
+                "hu": "A szélhideg-érzet a bringán extrém; védje az arcát a hidegtől.",
+                "ro": "Efectul de răcire al vântului pe bicicletă este extrem; protejați-vă fața.",
+                "en": "The wind chill effect on the bike is extreme; protect your face from the cold."
+              }
+            },
+            {
+              "name": "Museum De Koperen Knop",
+              "tip_5lang": {
+                "de": "Wärmen Sie Ihre Hände und Füße auf, bevor Sie die Tour fortsetzen.",
+                "hu": "Melegítse fel a kezét és lábát, mielőtt folytatná a túrát.",
+                "ro": "Încălziți-vă mâinile și picioarele înainte de a continua turul.",
+                "en": "Warm up your hands and feet before continuing the tour."
+              }
+            },
+            {
+              "name": "Old Town Hall (Oude Raadhuis)",
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig um Kurven; im Schatten kann Reifglätte liegen.",
+                "hu": "Kanyarodjon óvatosan; az árnyékos részeken zúzmarás, csúszós lehet az út.",
+                "ro": "Virați cu atenție; în zonele umbrite poate exista chiciură alunecoasă.",
+                "en": "Take corners carefully; hoarfrost may be slippery in shaded areas."
+              }
+            },
+            {
+              "name": "Ride along De Giessen River",
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Sicht, aber achten Sie auf die kurze Tageslichtdauer.",
+                "hu": "Élvezze a tiszta kilátást, de ügyeljen a rövid nappali világosságra.",
+                "ro": "Bucurați-vă de vizibilitatea clară, dar atenție la durata scurtă a zilei.",
+                "en": "Enjoy the clear views, but be mindful of the short daylight hours."
+              }
+            },
+            {
+              "name": "Waterbus Terminal",
+              "tip_5lang": {
+                "de": "Die Boote sind beheizt; eine willkommene Pause vom eisigen Fahrtwind.",
+                "hu": "A hajók fűtöttek; örömteli pihenő a jeges menetszél után.",
+                "ro": "Ambarcațiunile sunt încălzite; o pauză binevenită de la vântul înghețat.",
+                "en": "The boats are heated; a welcome break from the icy headwind."
+              }
+            },
+            {
+              "name": "Sliedrechtse Brug",
+              "tip_5lang": {
+                "de": "Die Metalloberflächen auf der Brücke können bei Frost extrem glatt sein.",
+                "hu": "A híd fémfelületei fagyban extrém módon csúszhatnak.",
+                "ro": "Suprafețele metalice de pe pod pot fi extrem de alunecoase în caz de ger.",
+                "en": "Metal surfaces on the bridge can be extremely slippery during frost."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Gute Handschuhe und Thermosocken sind für diese Wintertour unverzichtbar.",
+              "Planen Sie regelmäßige Stopps in beheizten Gebäuden ein, um nicht auszukühlen.",
+              "Achten Sie auf tiefstehende Sonne, die beim Radfahren stark blenden kann.",
+              "Die Wege in den Poldern werden im Winter nicht immer prioritär geräumt."
+            ],
+            "hu": [
+              "Jó kesztyű és termozokni nélkülözhetetlen ehhez a téli túrához.",
+              "Tervezzen rendszeres megállókat fűtött épületekben, hogy ne hűljön ki.",
+              "Ügyeljen az alacsonyan járó napra, amely kerékpározás közben erősen vakíthat.",
+              "A polderekben lévő utakat télen nem mindig takarítják prioritással."
+            ],
+            "ro": [
+              "Mănușile bune și șosetele termice sunt indispensabile pentru acest tur de iarnă.",
+              "Planificați opriri regulate în clădiri încălzite pentru a nu vă răci.",
+              "Atenție la soarele jos, care poate fi orbitor în timp ce pedalați.",
+              "Drumurile din poldere nu sunt întotdeauna curățate cu prioritate iarna."
+            ],
+            "en": [
+              "Good gloves and thermal socks are indispensable for this winter tour.",
+              "Plan regular stops in heated buildings to avoid getting chilled.",
+              "Watch out for the low sun, which can be very blinding while cycling.",
+              "Paths in the polders are not always cleared with priority in winter."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1109,6 +1491,206 @@
           "Allow extra time for traffic, especially during peak hours.",
           "Combine driving with short walks to get the most out of your visit."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt mit einer Fahrt durch die verregneten Polder, wo die Scheibenwischer den Takt angeben. Mittags parken Sie bequem am Museum De Koperen Knop und entfliehen dem Wetter in die Ausstellungen. Nachmittags führt die Route zum Alten Rathaus und der Kirche, wobei das Auto als trockene Basis dient. Abends genießen Sie den Blick auf die Sliedrechtse Brug vom warmen Fahrzeug aus.",
+            "hu": "A nap az esős poldereken való autózással indul, ahol az ablaktörlők adják az ütemet. Délben kényelmesen parkolhat a Museum De Koperen Knopnál, elmenekülve az időjárás elől a kiállításokra. Délután az út a régi városházához és a templomhoz vezet, az autó száraz bázisként szolgál. Este a meleg járműből élvezheti a Sliedrechtse Brug látványát.",
+            "ro": "Ziua începe cu o plimbare prin polderele plouate, unde ștergătoarele dau ritmul. La prânz, parcați confortabil la Muzeul De Koperen Knop și scăpați de vreme vizitând expozițiile. După-amiaza, traseul duce la vechea primărie și la biserică, mașina servind drept bază uscată. Seara, admirați vederea spre Sliedrechtse Brug din vehiculul călduros.",
+            "en": "The day starts with a drive through the rainy polders, with wipers setting the beat. At noon, park conveniently at Museum De Koperen Knop and escape the weather into the exhibitions. In the afternoon, the route leads to the Old Town Hall and church, with the car serving as your dry base. In the evening, enjoy the view of Sliedrechtse Brug from the warmth of your vehicle."
+          },
+          "stops": [
+            {
+              "name": "Park & Explore the Polder Landscape",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick aus dem Auto, wenn der Regen zu stark für einen Spaziergang ist.",
+                "hu": "Élvezze a kilátást az autóból, ha az eső túl erős egy sétához.",
+                "ro": "Admirați vederea din mașină dacă ploaia este prea puternică pentru o plimbare.",
+                "en": "Enjoy the view from the car if the rain is too heavy for a walk."
+              }
+            },
+            {
+              "name": "Central Cluster: Parking",
+              "tip_5lang": {
+                "de": "Suchen Sie sich einen Parkplatz nahe dem Museumseingang, um trocken zu bleiben.",
+                "hu": "Keressen parkolót a múzeum bejáratához közel, hogy száraz maradjon.",
+                "ro": "Căutați un loc de parcare aproape de intrarea muzeului pentru a rămâne uscat.",
+                "en": "Look for a parking spot near the museum entrance to stay dry."
+              }
+            },
+            {
+              "name": "Museum De Koperen Knop",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um bei Regen Zeit zu verbringen; Parkplätze sind direkt vorhanden.",
+                "hu": "Ideális hely az időtöltésre esőben; parkolóhelyek közvetlenül a helyszínen.",
+                "ro": "Un loc ideal pentru a petrece timpul pe ploaie; parcări disponibile la fața locului.",
+                "en": "An ideal place to spend time in rain; parking spots are available right there."
+              }
+            },
+            {
+              "name": "Old Town Hall (Oude Raadhuis)",
+              "tip_5lang": {
+                "de": "Kurze Wege vom Parkplatz ermöglichen eine Besichtigung ohne nass zu werden.",
+                "hu": "A parkolótól mért rövid távolság lehetővé teszi a látogatást ázás nélkül.",
+                "ro": "Distanțele scurte de la parcare permit vizitarea fără a vă uda.",
+                "en": "Short distances from parking allow for a visit without getting wet."
+              }
+            },
+            {
+              "name": "Reformed Church (Gereformeerde Kerk)",
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe und nutzen Sie eine Regenpause für den kurzen Weg zum Eingang.",
+                "hu": "Parkoljon a közelben, és használja ki az esőszünetet a bejárathoz való jutáshoz.",
+                "ro": "Parcați în apropiere și folosiți o pauză de ploaie pentru drumul scurt spre intrare.",
+                "en": "Park nearby and use a break in the rain for the short walk to the entrance."
+              }
+            },
+            {
+              "name": "Riverbank Cluster: Parking",
+              "tip_5lang": {
+                "de": "Guter Ausgangspunkt, um die Brücke zu sehen, ohne das Auto lange verlassen zu müssen.",
+                "hu": "Jó kiindulópont a híd megtekintéséhez anélkül, hogy sokáig kint kellene lenni.",
+                "ro": "Punct bun de plecare pentru a vedea podul fără a părăsi mașina mult timp.",
+                "en": "Good starting point to see the bridge without having to leave the car for long."
+              }
+            },
+            {
+              "name": "Sliedrechtse Brug & Waterbus Terminal",
+              "tip_5lang": {
+                "de": "Vom Parkplatz am Deich haben Sie einen tollen Blick auf das Geschehen auf dem Wasser.",
+                "hu": "A gáton lévő parkolóból nagyszerű kilátás nyílik a vízi forgalomra.",
+                "ro": "De la parcarea de pe dig aveți o vedere excelentă asupra activității de pe apă.",
+                "en": "From the parking lot on the dike, you have a great view of the water activities."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Parkplätze in der Nähe der Sehenswürdigkeiten, um Laufwege im Regen zu minimieren.",
+              "Achten Sie auf Aquaplaning auf den flachen Polderstraßen bei starkem Regen.",
+              "Das Auto bietet den besten Komfort, um zwischen den Standorten trocken zu wechseln.",
+              "Hinterlassen Sie keine Wertsachen sichtbar im Auto, auch bei schlechtem Wetter."
+            ],
+            "hu": [
+              "Használja a látnivalókhoz közeli parkolókat, hogy minimalizálja az esőben való gyaloglást.",
+              "Ügyeljen a vízfelúszásra (aquaplaning) a lapos polderutakon erős esőben.",
+              "Az autó nyújtja a legnagyobb kényelmet a helyszínek közötti száraz közlekedéshez.",
+              "Ne hagyjon értéktárgyat látható helyen az autóban, rossz időben sem."
+            ],
+            "ro": [
+              "Folosiți parcările din apropierea obiectivelor pentru a minimiza mersul prin ploaie.",
+              "Atenție la acvaplanare pe drumurile plate din polder în timpul ploilor torențiale.",
+              "Mașina oferă cel mai bun confort pentru a schimba locațiile la adăpost.",
+              "Nu lăsați obiecte de valoare la vedere în mașină, nici pe vreme rea."
+            ],
+            "en": [
+              "Use parking spots near attractions to minimize walking in the rain.",
+              "Watch out for aquaplaning on flat polder roads during heavy rain.",
+              "The car provides the best comfort for moving between locations while staying dry.",
+              "Do not leave valuables visible in the car, even in bad weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens gleitet das Auto durch die neblige, frostige Polderlandschaft. Mittags bietet das Museum De Koperen Knop eine warme Kulturpause mit bequemem Parken. Nachmittags erkunden Sie den historischen Kern, wobei die Sitzheizung nach jedem Stopp für Komfort sorgt. Abends genießen Sie das Lichtermeer an der Sliedrechtse Brug, bevor es im warmen Wagen zurückgeht.",
+            "hu": "Reggel az autó a ködös, fagyos polder vidéken siklik át. Délben a Museum De Koperen Knop meleg kulturális pihenőt kínál kényelmes parkolással. Délután a történelmi magot fedezzük fel, ahol az ülésfűtés minden megálló után kényelmet biztosít. Este a Sliedrechtse Brug fényáradatában gyönyörködhetünk, mielőtt a meleg kocsiban visszaindulnánk.",
+            "ro": "Dimineața, mașina alunecă prin peisajul polderului cețos și geros. La prânz, Muzeul De Koperen Knop oferă o pauză culturală caldă, cu parcare facilă. După-amiaza explorați nucleul istoric, încălzirea în scaune asigurând confortul după fiecare oprire. Seara vă bucurați de marea de lumini de la Sliedrechtse Brug, înainte de a pleca spre casă în mașina caldă.",
+            "en": "In the morning, the car glides through the foggy, frosty polder landscape. At noon, Museum De Koperen Knop offers a warm cultural break with easy parking. In the afternoon, explore the historical core, with seat heating ensuring comfort after every stop. In the evening, enjoy the sea of lights at Sliedrechtse Brug before heading back in your warm car."
+          },
+          "stops": [
+            {
+              "name": "Park & Explore the Polder Landscape",
+              "tip_5lang": {
+                "de": "Achten Sie auf Nebel über den Kanälen, der die Sicht stark einschränken kann.",
+                "hu": "Ügyeljen a csatornák feletti ködre, amely erősen korlátozhatja a látást.",
+                "ro": "Atenție la ceața de peste canale, care poate reduce mult vizibilitatea.",
+                "en": "Watch out for fog over the canals, which can severely limit visibility."
+              }
+            },
+            {
+              "name": "Central Cluster: Parking",
+              "tip_5lang": {
+                "de": "Parkplätze sind im Winter meist ausreichend vorhanden und gut geräumt.",
+                "hu": "Télen a parkolóhelyek általában elegendőek és jól takarítottak.",
+                "ro": "Locurile de parcare sunt de obicei suficiente iarna și bine curățate.",
+                "en": "Parking spots are usually sufficient in winter and well cleared."
+              }
+            },
+            {
+              "name": "Museum De Koperen Knop",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ausstellungen und wärmen Sie sich im Museum auf.",
+                "hu": "Látogassa meg a kiállításokat és melegedjen fel a múzeumban.",
+                "ro": "Vizitați expozițiile și încălziți-vă în interiorul muzeului.",
+                "en": "Visit the exhibitions and warm up inside the museum."
+              }
+            },
+            {
+              "name": "Old Town Hall (Oude Raadhuis)",
+              "tip_5lang": {
+                "de": "Der historische Kern ist besonders schön, wenn er leicht mit Reif bedeckt ist.",
+                "hu": "A történelmi mag különösen szép, amikor enyhén zúzmara borítja.",
+                "ro": "Nucleul istoric este deosebit de frumos când este acoperit ușor de chiciură.",
+                "en": "The historical core is especially beautiful when lightly covered in hoarfrost."
+              }
+            },
+            {
+              "name": "Reformed Church (Gereformeerde Kerk)",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp reicht aus, um die Architektur in der klaren Winterluft zu bewundern.",
+                "hu": "Egy rövid megálló elég az építészet megcsodálásához a tiszta téli levegőben.",
+                "ro": "O scurtă oprire este suficientă pentru a admira arhitectura în aerul curat de iarnă.",
+                "en": "A short stop is enough to admire the architecture in the clear winter air."
+              }
+            },
+            {
+              "name": "Riverbank Cluster: Parking",
+              "tip_5lang": {
+                "de": "Vorsicht bei gefrorenem Asphalt auf den Deichparkplätzen.",
+                "hu": "Vigyázzon a gáton lévő parkolók jeges aszfaltjára.",
+                "ro": "Atenție la asfaltul înghețat din parcările de pe dig.",
+                "en": "Be careful of frozen asphalt in the dike parking lots."
+              }
+            },
+            {
+              "name": "Sliedrechtse Brug & Waterbus Terminal",
+              "tip_5lang": {
+                "de": "Genießen Sie den Sonnenuntergang vom Auto aus; es ist einer der windigsten Orte.",
+                "hu": "Élvezze a naplementét az autóból; ez az egyik legszelesebb hely.",
+                "ro": "Admirați apusul din mașină; este unul dintre cele mai bătute de vânt locuri.",
+                "en": "Enjoy the sunset from the car; it is one of the windiest spots."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Ihr Fahrzeug winterfest ist (Frostschutzmittel, Winterreifen).",
+              "Achten Sie auf plötzliche Glätte in der Nähe der Wasserwege und Grachten.",
+              "Nutzen Sie die kurzen Tage für stimmungsvolle Fotos in der blauen Stunde.",
+              "Die Parkgebühren sind im Winter oft unverändert; halten Sie Kleingeld oder Apps bereit."
+            ],
+            "hu": [
+              "Győződjön meg róla, hogy járműve téliesített (fagyálló, téli gumik).",
+              "Ügyeljen a hirtelen jegesedésre a vízpartok és csatornák közelében.",
+              "Használja ki a rövid nappalokat hangulatos fotók készítésére a kék órában.",
+              "A parkolási díjak télen gyakran változatlanok; legyen kéznél apró vagy applikáció."
+            ],
+            "ro": [
+              "Asigurați-vă că vehiculul este pregătit de iarnă (antigel, anvelope de iarnă).",
+              "Atenție la poleiul brusc format în apropierea cursurilor de apă și a canalelor.",
+              "Profitați de zilele scurte pentru fotografii atmosferice în ora albastră.",
+              "Taxele de parcare rămân adesea neschimbate iarna; pregătiți mărunțiș sau aplicații."
+            ],
+            "en": [
+              "Ensure your vehicle is winterized (antifreeze, winter tires).",
+              "Watch out for sudden black ice near waterways and canals.",
+              "Take advantage of the short days for atmospheric photos during the blue hour.",
+              "Parking fees are often unchanged in winter; have change or apps ready."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1465,6 +2047,188 @@
           "Most stations have lockers if you need to store luggage.",
           "Be aware of peak hours on public transport."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Ankunft am Bahnhof erfolgt im Takt des Regens. Mittags bietet das Museum De Koperen Knop ein trockenes Highlight Ihrer Reise. Nachmittags nutzen Sie die kurzen Wege zwischen den Sehenswürdigkeiten, bevor Sie den Wasserbus nehmen. Abends bietet die Fähre einen gemütlichen, wettergeschützten Ausblick auf die beleuchtete Sliedrechtse Brug.",
+            "hu": "Az érkezés az állomásra az eső ritmusára történik. Délben a Museum De Koperen Knop az utazás száraz fénypontja. Délután használja ki a látnivalók közötti rövid távolságokat, mielőtt vízibuszra szállna. Este a komp kényelmes, időjárástól védett kilátást nyújt a kivilágított Sliedrechtse Brug-ra.",
+            "ro": "Sosirea la gară se face în ritmul ploii. La prânz, Muzeul De Koperen Knop este punctul culminant uscat al călătoriei. După-amiaza, profitați de distanțele scurte între obiective înainte de a lua autobuzul de apă. Seara, feribotul oferă o vedere confortabilă și protejată de vreme asupra podului Sliedrechtse iluminat.",
+            "en": "Arrival at the station happens to the rhythm of the rain. At noon, Museum De Koperen Knop is the dry highlight of your trip. In the afternoon, take advantage of the short distances between sights before boarding the waterbus. In the evening, the ferry offers a cozy, weather-protected view of the illuminated Sliedrechtse Brug."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Station Hardinxveld-Giessendam",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Wartebereich, um Ihre Route im Trockenen zu planen.",
+                "hu": "Használja a váróhelyiséget az útvonal szárazon történő megtervezéséhez.",
+                "ro": "Folosiți sala de așteptare pentru a vă planifica traseul la adăpost.",
+                "en": "Use the waiting area to plan your route in the dry."
+              }
+            },
+            {
+              "name": "Old Town Hall (Oude Raadhuis)",
+              "tip_5lang": {
+                "de": "Nur wenige Gehminuten von den Bushaltestellen entfernt.",
+                "hu": "Csak pár perc séta a buszmegállóktól.",
+                "ro": "La doar câteva minute de mers pe jos de stațiile de autobuz.",
+                "en": "Only a few minutes' walk from the bus stops."
+              }
+            },
+            {
+              "name": "Museum De Koperen Knop",
+              "tip_5lang": {
+                "de": "Perfekter Ort für eine längere Pause, wenn ein schwerer Schauer niedergeht.",
+                "hu": "Tökéletes hely egy hosszabb pihenőre, ha elered az eső.",
+                "ro": "Locul perfect pentru o pauză mai lungă dacă începe o ploaie torențială.",
+                "en": "Perfect place for a longer break if a heavy shower starts."
+              }
+            },
+            {
+              "name": "Stroll on De Giessen & Lunch",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit Blick auf den Fluss, um trocken zu bleiben.",
+                "hu": "Válasszon folyóra néző éttermet, hogy száraz maradjon.",
+                "ro": "Alegeți un restaurant cu vedere la râu pentru a rămâne la adăpost.",
+                "en": "Choose a restaurant with a river view to stay dry."
+              }
+            },
+            {
+              "name": "Waterbus to Sliedrechtse Brug",
+              "tip_5lang": {
+                "de": "Die beste Art, bei Regen zu reisen; der Innenraum ist warm und trocken.",
+                "hu": "A legjobb módja az utazásnak esőben; a belső tér meleg és száraz.",
+                "ro": "Cea mai bună metodă de a călători pe ploaie; interiorul este cald și uscat.",
+                "en": "The best way to travel in rain; the interior is warm and dry."
+              }
+            },
+            {
+              "name": "Sliedrechtse Brug Viewpoint",
+              "tip_5lang": {
+                "de": "Vom überdachten Bereich des Terminals hat man eine gute Sicht.",
+                "hu": "A terminál fedett részéről jó kilátás nyílik.",
+                "ro": "Din zona acoperită a terminalului se are o vedere bună.",
+                "en": "From the covered area of the terminal, you have a good view."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die '9292' App für Echtzeit-Updates bei witterungsbedingten Verspätungen.",
+              "Die Wasserbusse sind die zuverlässigste und komfortabelste Verbindung bei Regen.",
+              "Bahnhöfe bieten meist gute Unterstände, aber ziehen Sie sich trotzdem windfest an.",
+              "Ein kleiner Taschenschirm ist in den schmalen Gassen praktischer als ein großer."
+            ],
+            "hu": [
+              "Használja a '9292' alkalmazást a valós idejű frissítésekhez időjárási késések esetén.",
+              "A vízibuszok a legmegbízhatóbb és legkényelmesebb összeköttetések esőben.",
+              "Az állomások általában jó fedett helyeket kínálnak, de öltözzön szélállóan.",
+              "Egy kis összecsukható esernyő praktikusabb a szűk utcákban, mint egy nagy."
+            ],
+            "ro": [
+              "Folosiți aplicația '9292' pentru actualizări în timp real în caz de întârzieri din cauza vremii.",
+              "Autobuzele de apă sunt cele mai sigure și confortabile conexiuni pe ploaie.",
+              "Gările oferă de obicei adăposturi bune, dar îmbrăcați-vă totuși rezistent la vânt.",
+              "O umbrelă mică de buzunar este mai practică pe străduțele înguste decât una mare."
+            ],
+            "en": [
+              "Use the '9292' app for real-time updates in case of weather-related delays.",
+              "Waterbuses are the most reliable and comfortable connection in the rain.",
+              "Stations usually offer good shelters, but still dress windproof.",
+              "A small pocket umbrella is more practical in narrow alleys than a large one."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen am Bahnhof Hardinxveld-Giessendam. Mittags bietet das Museum De Koperen Knop eine wohlige Wärme während Ihres Besuchs. Nachmittags spazieren Sie entlang der Giessen, wo der Frost die Landschaft verzaubert, bevor Sie den geheizten Wasserbus besteigen. Abends ist die Sicht von der Fähre auf die beleuchtete Brücke in der kalten Winterluft besonders scharf.",
+            "hu": "Tiszta téli reggel a Hardinxveld-Giessendam állomáson. Délben a Museum De Koperen Knop kellemes meleget nyújt a látogatás alatt. Délután sétáljon a Giessen mentén, ahol a fagy elvarázsolja a tájat, mielőtt felszállna a fűtött vízibuszra. Este a kompról a kivilágított hídra nyíló kilátás a hideg téli levegőben különösen éles.",
+            "ro": "O dimineață senină de iarnă la gara Hardinxveld-Giessendam. La prânz, Muzeul De Koperen Knop oferă o căldură primitoare în timpul vizitei. După-amiaza, plimbați-vă pe lângă Giessen, unde gerul vrăjește peisajul, înainte de a urca în autobuzul de apă încălzit. Seara, vederea de pe feribot spre podul iluminat este deosebit de clară în aerul rece de iarnă.",
+            "en": "A clear winter morning at Hardinxveld-Giessendam station. At noon, Museum De Koperen Knop offers cozy warmth during your visit. In the afternoon, stroll along the Giessen, where frost enchants the landscape before boarding the heated waterbus. In the evening, the view from the ferry to the illuminated bridge is particularly sharp in the cold winter air."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Station Hardinxveld-Giessendam",
+              "tip_5lang": {
+                "de": "Der Aufenthalt im Freien sollte minimiert werden; nutzen Sie die Wartezeiten effizient.",
+                "hu": "Minimalizálja a szabadtéri várakozást; használja ki hatékonyan az időt.",
+                "ro": "Șederea în aer liber ar trebui minimizată; folosiți eficient timpii de așteptare.",
+                "en": "Minimize time spent outdoors; use waiting times efficiently."
+              }
+            },
+            {
+              "name": "Old Town Hall (Oude Raadhuis)",
+              "tip_5lang": {
+                "de": "Der kurze Spaziergang vom Bus oder Zug ist erfrischend in der Winterluft.",
+                "hu": "A rövid séta a busztól vagy vonattól frissítő a téli levegőben.",
+                "ro": "Scurta plimbare de la autobuz sau tren este revigorantă în aerul de iarnă.",
+                "en": "The short walk from the bus or train is refreshing in the winter air."
+              }
+            },
+            {
+              "name": "Museum De Koperen Knop",
+              "tip_5lang": {
+                "de": "Ein Muss im Winter; das Gebäude ist gut beheizt und sehr einladend.",
+                "hu": "Télen kötelező; az épület jól fűtött és nagyon hívogató.",
+                "ro": "O necesitate iarna; clădirea este bine încălzită și foarte primitoare.",
+                "en": "A must in winter; the building is well heated and very inviting."
+              }
+            },
+            {
+              "name": "Stroll on De Giessen & Lunch",
+              "tip_5lang": {
+                "de": "Wählen Sie ein gemütliches Lokal für ein warmes Mittagessen.",
+                "hu": "Válasszon egy hangulatos helyet egy meleg ebédhez.",
+                "ro": "Alegeți un local primitor pentru un prânz cald.",
+                "en": "Choose a cozy spot for a warm lunch."
+              }
+            },
+            {
+              "name": "Waterbus to Sliedrechtse Brug",
+              "tip_5lang": {
+                "de": "Die beheizte Kabine bietet Schutz vor der beißenden Kälte über dem Wasser.",
+                "hu": "A fűtött kabin védelmet nyújt a víz feletti metsző hideg ellen.",
+                "ro": "Cabina încălzită oferă protecție împotriva frigului tăios de peste apă.",
+                "en": "The heated cabin provides protection from the biting cold over the water."
+              }
+            },
+            {
+              "name": "Sliedrechtse Brug Viewpoint",
+              "tip_5lang": {
+                "de": "Achten Sie auf die Abfahrtszeiten, um nicht zu lange in der Kälte zu stehen.",
+                "hu": "Ügyeljen az indulási időkre, hogy ne kelljen sokat várni a hidegben.",
+                "ro": "Fiți atenți la orele de plecare pentru a nu sta mult în frig.",
+                "en": "Watch the departure times to avoid standing in the cold for too long."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie vorab die Heizsituation in den Zügen und Bussen für eine angenehme Fahrt.",
+              "Die Wintersonne geht früh unter; stellen Sie sicher, dass Sie Ihre Anschlüsse kennen.",
+              "Tragen Sie warme Winterschuhe, da Bahnhöfe oft zugig und kalte Orte sind.",
+              "Die OV-chipkaart sollte ausreichend geladen sein, um Automatenaufenthalte im Freien zu vermeiden."
+            ],
+            "hu": [
+              "Előre ellenőrizze a fűtést a vonatokon és buszokon a kellemes utazás érdekében.",
+              "A téli nap korán lemegy; győződjön meg róla, hogy ismeri a csatlakozásokat.",
+              "Viseljen meleg téli cipőt, mert az állomások gyakran huzatosak és hidegek.",
+              "Az OV-chipkaart legyen megfelelően feltöltve, hogy elkerülje a kinti automatázást."
+            ],
+            "ro": [
+              "Verificați dinainte situația încălzirii în trenuri și autobuze pentru o călătorie plăcută.",
+              "Soarele de iarnă apune devreme; asigurați-vă că vă cunoașteți conexiunile.",
+              "Purtați încălțăminte caldă de iarnă, deoarece gările sunt adesea locuri reci.",
+              "Cardul OV-chipkaart ar trebui să fie suficient încărcat pentru a evita automatele externe."
+            ],
+            "en": [
+              "Check the heating situation in trains and buses beforehand for a pleasant journey.",
+              "The winter sun sets early; make sure you know your connections.",
+              "Wear warm winter shoes as stations are often drafty and cold places.",
+              "The OV-chipkaart should be sufficiently charged to avoid outdoor ticket machine use."
+            ]
+          }
+        }
       }
     }
   }

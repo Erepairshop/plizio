@@ -310,6 +310,206 @@
           "Wear comfortable shoes as you will be on your feet all day.",
           "Check the opening hours of the museums in advance, especially outside the main season."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein verregneter Morgen in Humenné beginnt am geschäftigen Friedensplatz, wo die Cafés Zuflucht bieten. Mittags erkunden Sie die prächtigen Innenräume des Schlosses, perfekt um dem Wetter zu entfliehen. Der Nachmittag im Freilichtmuseum erfordert einen guten Schirm zwischen den historischen Holzhäusern. Den Abend lassen Sie gemütlich in einer der zentralen Gaststätten ausklingen.",
+            "hu": "A borús, esős reggel a Fő téren kezdődik, ahol a közeli üzletek árkádjai nyújtanak menedéket. Délben a kastély belső terei tökéletes búvóhelyet jelentenek a zápor elől. Délután a skanzen házai között gyors léptekkel haladunk, élvezve a nedves fa illatát. Az estét egy hangulatos helyi étterem melegében zárjuk, távol a kinti sártól.",
+            "ro": "O dimineață ploioasă în Humenné începe în Piața Libertății, unde cafenelele devin refugii primitoare. La prânz, interiorul castelului oferă protecție și o incursiune fascinantă în istorie. După-amiaza la muzeul în aer liber necesită o umbrelă solidă pentru a vizita casele tradiționale. Seara se încheie confortabil într-un restaurant local, ascultând ploaia de la căldură.",
+            "en": "A rainy morning in Humenné starts at Freedom Square, where local cafes provide a dry sanctuary. At noon, the castle's interior is the perfect escape from the drizzle. The afternoon at the Open-Air Museum requires a sturdy umbrella while hopping between historic wooden structures. The evening concludes cozily in a central eatery, away from the damp streets."
+          },
+          "stops": [
+            {
+              "name": "Freedom Square (Námestie slobody)",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Passagen und Cafés am Platzrand als Regenschutz.",
+                "hu": "Használja a tér szélén lévő üzletsorokat és kávézókat esővédőként.",
+                "ro": "Folosiți pasajele și cafenelele de la marginea pieței pentru adăpost.",
+                "en": "Use the passages and cafes around the square as shelter from the rain."
+              }
+            },
+            {
+              "name": "Statue of the Good Soldier Švejk",
+              "tip_5lang": {
+                "de": "Ein schnelles Foto mit Švejk, bevor die Kamera nass wird.",
+                "hu": "Csak egy gyors fotó Švejknél, mielőtt elázna a fényképezőgép.",
+                "ro": "O fotografie rapidă cu Švejk înainte ca aparatul să se ude.",
+                "en": "A quick photo with Švejk before your camera gets too wet."
+              }
+            },
+            {
+              "name": "Fountain of Love",
+              "tip_5lang": {
+                "de": "Bei Regen wirkt der Brunnen weniger romantisch, gehen Sie zügig weiter.",
+                "hu": "Esőben a szökőkút kevésbé látványos, haladjon tovább a templom felé.",
+                "ro": "În ploaie, fântâna pare mai puțin romantică, mergeți rapid mai departe.",
+                "en": "The fountain is less romantic in the rain, move quickly towards the church."
+              }
+            },
+            {
+              "name": "All Saints' Church",
+              "tip_5lang": {
+                "de": "Ein idealer, trockener Ort für Besinnung und sakrale Kunst.",
+                "hu": "Ideális száraz helyszín az elmélyüléshez és a művészet élvezetéhez.",
+                "ro": "Un loc uscat ideal pentru reflecție și admirarea artei sacre.",
+                "en": "An ideal dry spot for reflection and admiring sacred art."
+              }
+            },
+            {
+              "name": "Humenné Castle",
+              "tip_5lang": {
+                "de": "Verlängern Sie den Aufenthalt drinnen, um den Schauer abzuwarten.",
+                "hu": "Hosszabbítsa meg a bentlétet, amíg elvonul a nagyobb zápor.",
+                "ro": "Prelungiți vizita în interior pentru a aștepta trecerea ploii.",
+                "en": "Extend your stay inside to wait out the heaviest rain showers."
+              }
+            },
+            {
+              "name": "Open-Air Museum (Skanzen)",
+              "tip_5lang": {
+                "de": "Vorsicht auf den rutschigen Holzwegen zwischen den Häusern.",
+                "hu": "Vigyázat, a faházak közötti ösvények sárgásak és csúszósak lehetnek.",
+                "ro": "Atenție la potecile de lemn alunecoase dintre casele muzeului.",
+                "en": "Be careful on the slippery wooden paths between the museum houses."
+              }
+            },
+            {
+              "name": "Castle Park",
+              "tip_5lang": {
+                "de": "Wählen Sie die asphaltierten Wege, um Matsch zu vermeiden.",
+                "hu": "Válassza az aszfaltozott utakat a sár elkerülése érdekében.",
+                "ro": "Alegeți aleile asfaltate pentru a evita noroiul din parc.",
+                "en": "Stick to the paved paths to avoid the mud in the park area."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da die Wege zum Skanzen aufweichen.",
+              "Das Schloss ist die beste Option für langanhaltenden Regen.",
+              "Kleine Cafés am Námestie slobody bieten schnellen Schutz.",
+              "Ein Taschenschirm ist bei Wind in Parknähe oft unpraktisch, Regenjacke bevorzugt."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert a skanzen felé vezető út sáros lehet.",
+              "A kastély a legjobb választás tartós eső esetén.",
+              "A Fő tér kávézói gyors menedéket nyújtanak a záporok elől.",
+              "A szeles időben az esőkabát praktikusabb lehet, mint az esernyő."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, drumul spre skanzen poate fi noroios.",
+              "Castelul este cea mai bună opțiune în caz de ploaie persistentă.",
+              "Cafenelele din Piața Libertății oferă adăpost rapid.",
+              "O pelerină de ploaie este mai practică decât umbrela dacă bate vântul."
+            ],
+            "en": [
+              "Wear waterproof shoes as paths to the Skanzen can get muddy.",
+              "The castle is your best bet during periods of sustained rain.",
+              "Cafes at Freedom Square offer quick shelter from passing showers.",
+              "A raincoat might be more practical than an umbrella if it gets windy."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen beginnt am festlich beleuchteten Friedensplatz. Mittags wärmen Sie sich im barocken Schloss auf, während draußen der Schnee den Schlosspark verzaubert. Am frühen Nachmittag besuchen Sie den Skanzen, der unter einer Schneedecke besonders authentisch wirkt. Da es gegen 16:30 Uhr dunkel wird, endet der Tag bei heißem Tee im Stadtzentrum.",
+            "hu": "A fagyos reggel a díszesen kivilágított Fő téren indul. Délben a barokk kastély falai között melegedhetünk fel, miközben az ablakból a hófödte parkot csodáljuk. A korai sötétedés miatt a skanzent még világosban látogatjuk meg, ahol a hó különleges hangulatot áraszt. 16:30 után már a belváros fényeit és egy forró teát élvezünk.",
+            "ro": "O dimineață geroasă începe în Piața Libertății, decorată festiv. La prânz, vă încălziți în castelul baroc, în timp ce zăpada transformă parcul într-un peisaj de basm. După-amiaza devreme vizitați skanzenul, care arată autentic sub stratul de omăt. Deoarece se întunecă în jur de 16:30, ziua se încheie cu un ceai fierbinte în centru.",
+            "en": "A frosty morning begins at the festively lit Freedom Square. At noon, warm up inside the baroque castle while snow transforms the park outside. In the early afternoon, visit the Skanzen, which looks exceptionally authentic under a white blanket. Since it gets dark around 4:30 PM, end your day with hot tea in the city center."
+          },
+          "stops": [
+            {
+              "name": "Freedom Square (Námestie slobody)",
+              "tip_5lang": {
+                "de": "Vorsicht vor glatten Stellen auf dem Pflaster bei Frost.",
+                "hu": "Vigyázzon a tér kövezetén a fagyos, csúszós foltokra.",
+                "ro": "Atenție la porțiunile înghețate de pe pavajul pieței.",
+                "en": "Watch out for icy patches on the square's pavement."
+              }
+            },
+            {
+              "name": "Statue of the Good Soldier Švejk",
+              "tip_5lang": {
+                "de": "Švejk mit einer Schneemütze ist ein tolles Wintermotiv.",
+                "hu": "Švejk egy hósapkával a fején remek téli fotótéma.",
+                "ro": "Švejk cu o căciulă de zăpadă este un motiv fotografic excelent.",
+                "en": "Švejk with a snow cap makes for a great winter photo."
+              }
+            },
+            {
+              "name": "Fountain of Love",
+              "tip_5lang": {
+                "de": "Der Brunnen ist im Winter meist abgestellt und leer.",
+                "hu": "A szökőkút télen általában nem üzemel és le van ürítve.",
+                "ro": "Fântâna este de obicei oprită și golită pe timp de iarnă.",
+                "en": "The fountain is usually turned off and drained during winter."
+              }
+            },
+            {
+              "name": "All Saints' Church",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Stille drinnen, um sich kurz aufzuwärmen.",
+                "hu": "Használja ki a benti csendet egy rövid felmelegedéshez.",
+                "ro": "Profitați de liniștea din interior pentru a vă încălzi puțin.",
+                "en": "Take advantage of the quiet interior for a quick warm-up."
+              }
+            },
+            {
+              "name": "Humenné Castle",
+              "tip_5lang": {
+                "de": "Die beheizten Ausstellungsräume sind der Höhepunkt an kalten Tagen.",
+                "hu": "A fűtött kiállítótermek a hideg napok fénypontjai.",
+                "ro": "Sălile de expoziție încălzite sunt punctul culminant în zilele reci.",
+                "en": "The heated exhibition rooms are the highlight on cold days."
+              }
+            },
+            {
+              "name": "Open-Air Museum (Skanzen)",
+              "tip_5lang": {
+                "de": "Besuchen Sie den Skanzen vor 15 Uhr, bevor es dämmert.",
+                "hu": "Látogassa meg a skanzent 15 óra előtt, még szürkület előtt.",
+                "ro": "Vizitați skanzenul înainte de ora 15:00, până nu se înserează.",
+                "en": "Visit the Skanzen before 3 PM, before the twilight sets in."
+              }
+            },
+            {
+              "name": "Castle Park",
+              "tip_5lang": {
+                "de": "Ein kurzer Spaziergang im Schnee bietet herrliche Ausblicke auf das Schloss.",
+                "hu": "Egy rövid séta a hóban csodás kilátást nyújt a kastélyra.",
+                "ro": "O scurtă plimbare prin zăpadă oferă vederi superbe asupra castelului.",
+                "en": "A short walk in the snow offers beautiful views of the castle."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Planen Sie Aktivitäten im Freien für die Mittagsstunden (Licht!).",
+              "Warme Handschuhe sind für den Weg zum Skanzen unerlässlich.",
+              "Die Sonne geht gegen 16:15-16:30 Uhr unter.",
+              "In den Kirchen und im Schloss ist es meist wärmer als draußen."
+            ],
+            "hu": [
+              "A szabadtéri programokat a déli órákra időzítse a fény miatt.",
+              "A skanzenhez vezető úton elengedhetetlen a meleg kesztyű.",
+              "A nap 16:15-16:30 körül nyugszik télen.",
+              "A templomokban és a kastélyban általában melegebb van, mint kint."
+            ],
+            "ro": [
+              "Planificați activitățile în aer liber pentru orele amiezii.",
+              "Mănușile călduroase sunt esențiale pentru drumul spre skanzen.",
+              "Soarele apune în jur de 16:15-16:30 iarna.",
+              "În biserici și în castel este de obicei mai cald decât afară."
+            ],
+            "en": [
+              "Plan outdoor activities for midday to maximize daylight.",
+              "Warm gloves are essential for the walk to the Skanzen.",
+              "Sunset occurs around 4:15-4:30 PM in mid-winter.",
+              "Museums and churches generally offer a warmer environment than the street."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -614,6 +814,206 @@
           "Bring a good bike lock.",
           "Some climbs can be challenging, good gears are an advantage."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen ist Humenné mit dem Rad erkundbar. Der Vormittag führt über nasse Straßen zum Schloss, wo das Rad sicher untergestellt werden kann. Mittags bietet das Museum Schutz, während die Räder im Freien warten. Der Nachmittag im Park erfordert Vorsicht auf rutschigem Laub. Der Tag endet zügig mit der Rückfahrt ins Zentrum.",
+            "hu": "Esőben is felfedezhető Humenné két keréken. Délelőtt a vizes utakon tekerünk a kastélyig, ahol fedett helyen hagyhatjuk a bicikliket. Délben a múzeum nyújt menedéket a záporok elől. Délután a parki utakon óvatosan haladunk a csúszós levelek miatt. A napot egy gyors belvárosi tekeréssel zárjuk.",
+            "ro": "În ciuda ploii, Humenné poate fi explorat cu bicicleta. Dimineața parcurgeți străzile ude spre castel, unde bicicleta poate fi parcată la adăpost. La prânz, muzeul oferă protecție în timp ce bicicletele așteaptă afară. După-amiaza în parc necesită prudență pe frunzele umede. Ziua se încheie rapid cu întoarcerea în centru.",
+            "en": "Despite the rain, Humenné is bikeable with the right gear. The morning takes you over wet streets to the castle, where bikes can be parked undercover. At noon, the museum provides shelter while bikes stay outside. Afternoon in the park requires caution on slippery leaves. The day ends with a quick ride back to the center."
+          },
+          "stops": [
+            {
+              "name": "Freedom Square & Statues",
+              "tip_5lang": {
+                "de": "Vorsicht beim Bremsen auf nassem Kopfsteinpflaster.",
+                "hu": "Óvatosan fékezzen a vizes macskakövön a téren.",
+                "ro": "Atenție la frânare pe pavajul umed din piață.",
+                "en": "Exercise caution when braking on wet cobblestones."
+              }
+            },
+            {
+              "name": "All Saints' Church",
+              "tip_5lang": {
+                "de": "Parken Sie das Rad nah am Eingang für kurzen Weg im Regen.",
+                "hu": "Parkoljon közel a bejárathoz, hogy keveset kelljen áznia.",
+                "ro": "Parcați bicicleta aproape de intrare pentru a evita ploaia.",
+                "en": "Park your bike close to the entrance to minimize time in the rain."
+              }
+            },
+            {
+              "name": "Humenné Castle",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Schlossinnenhof als trockenen Abstellort.",
+                "hu": "Használja a kastély belső udvarát száraz tárolóhelyként.",
+                "ro": "Folosiți curtea interioară a castelului ca loc uscat de parcare.",
+                "en": "Use the castle's inner courtyard as a dry parking spot."
+              }
+            },
+            {
+              "name": "Open-Air Museum (Skanzen)",
+              "tip_5lang": {
+                "de": "Räder am Eingang lassen; Wege im Skanzen sind ungeeignet bei Schlamm.",
+                "hu": "Hagyja a bringákat a bejáratnál; a benti utak sárosak.",
+                "ro": "Lăsați bicicletele la intrare; aleile sunt noroioase în interior.",
+                "en": "Leave bikes at the entrance; internal paths are unsuitable when muddy."
+              }
+            },
+            {
+              "name": "Castle Park",
+              "tip_5lang": {
+                "de": "Gefahr durch rutschige Äste und nasses Laub auf den Wegen.",
+                "hu": "A vizes levelek és gallyak csúszásveszélyt jelentenek az utakon.",
+                "ro": "Pericol de alunecare pe crengi și frunze umede pe alei.",
+                "en": "Risk of slipping on wet branches and sodden leaves on the paths."
+              }
+            },
+            {
+              "name": "Vihorlat Observatory",
+              "tip_5lang": {
+                "de": "Der Anstieg kann bei Regen anstrengend und rutschig sein.",
+                "hu": "Az emelkedő esőben fárasztó és csúszós lehet.",
+                "ro": "Urcarea poate fi obositoare și alunecoasă pe timp de ploaie.",
+                "en": "The uphill climb can be tiring and slippery in the rain."
+              }
+            },
+            {
+              "name": "Back to the City Center",
+              "tip_5lang": {
+                "de": "Zügige Rückfahrt, um trockenere Kleidung zu erreichen.",
+                "hu": "Gyors tekerés vissza a száraz ruhák és a meleg felé.",
+                "ro": "Întoarcere rapidă pentru a ajunge la haine uscate.",
+                "en": "Quick ride back to get to dry clothes and warmth."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche am Rad sind bei diesem Wetter ein Muss.",
+              "Vermeiden Sie scharfe Kurven auf nassem Asphalt.",
+              "Tragen Sie eine auffällige Regenjacke für bessere Sichtbarkeit.",
+              "Kettenpflege nach der Tour ist wichtig, um Rost zu vermeiden."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen ilyen időjárási körülmények között.",
+              "Kerülje az éles kanyarodást a vizes aszfalton.",
+              "Viseljen feltűnő esőkabátot a jobb láthatóság érdekében.",
+              "A túra utáni lánctisztítás fontos a rozsda elkerüléséhez."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt obligatorii pe această vreme.",
+              "Evitați virajele bruște pe asfaltul umed.",
+              "Purtați o pelerină reflectorizantă pentru o mai bună vizibilitate.",
+              "Întreținerea lanțului după tură este importantă pentru a evita rugina."
+            ],
+            "en": [
+              "Mudguards on your bike are essential in this weather.",
+              "Avoid sharp turns on wet asphalt surfaces.",
+              "Wear a bright raincoat for better visibility to drivers.",
+              "Clean and oil your chain after the ride to prevent rust."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radeln in Humenné erfordert gute Vorbereitung. Der Morgen am kahlen Friedensplatz ist erfrischend kalt. Mittags bietet das Schloss eine lange Aufwärmpause. Der Skanzen im Schnee ist malerisch, aber mit dem Rad nur schwer zugänglich. Wegen der frühen Dunkelheit und sinkenden Temperaturen endet die Tour bereits am Nachmittag.",
+            "hu": "A téli kerékpározás Humennében komoly felkészülést igényel. A reggel a kopár Fő téren frissítően hideg. Délben a kastély hosszú felmelegedési szünetet biztosít. A hófödte skanzen festői, de bringával nehezen megközelíthető. A korai sötétedés és a zuhanó hőmérséklet miatt a túra már délután véget ér.",
+            "ro": "Ciclismul de iarnă în Humenné necesită o pregătire bună. Dimineața în Piața Libertății este revigorant de rece. La prânz, castelul oferă o pauză lungă de încălzire. Skanzenul în zăpadă este pitoresc, dar greu accesibil cu bicicleta. Din cauza întunericului timpuriu, turul se încheie deja după-amiaza.",
+            "en": "Winter cycling in Humenné requires solid preparation. The morning at the bare Freedom Square is refreshingly cold. At noon, the castle provides a long warm-up break. The Skanzen in the snow is picturesque but difficult to access by bike. Due to early darkness and dropping temperatures, the tour ends by mid-afternoon."
+          },
+          "stops": [
+            {
+              "name": "Freedom Square & Statues",
+              "tip_5lang": {
+                "de": "Achten Sie auf gefrorenes Schmelzwasser in den Fugen.",
+                "hu": "Ügyeljen a kövek közötti összefagyott hólére.",
+                "ro": "Atenție la apa înghețată dintre rosturile pavajului.",
+                "en": "Watch out for frozen meltwater between the paving stones."
+              }
+            },
+            {
+              "name": "All Saints' Church",
+              "tip_5lang": {
+                "de": "Kurzer Stopp, um die steifen Finger kurz zu bewegen.",
+                "hu": "Rövid megálló, hogy átmozgassa elgémberedett ujjait.",
+                "ro": "Oprire scurtă pentru a vă dezmorți degetele înghețate.",
+                "en": "Short stop to get your stiff fingers moving again."
+              }
+            },
+            {
+              "name": "Humenné Castle",
+              "tip_5lang": {
+                "de": "Ein langer Aufenthalt im Warmen regeneriert die Kräfte.",
+                "hu": "A melegben töltött hosszabb idő segít visszanyerni az erőt.",
+                "ro": "O ședere lungă la căldură vă va regenera forțele.",
+                "en": "A long stay in the warmth will help regenerate your energy."
+              }
+            },
+            {
+              "name": "Open-Air Museum (Skanzen)",
+              "tip_5lang": {
+                "de": "Bei Tiefschnee ist die Zufahrt für Räder gesperrt.",
+                "hu": "Mély hó esetén a bringás behajtás korlátozott lehet.",
+                "ro": "În caz de zăpadă mare, accesul bicicletelor poate fi restricționat.",
+                "en": "In deep snow, bike access to the grounds may be restricted."
+              }
+            },
+            {
+              "name": "Castle Park",
+              "tip_5lang": {
+                "de": "Nur geräumte Wege nutzen; Sturzgefahr auf vereisten Pfaden.",
+                "hu": "Csak a letakarított utakat használja; jegesedés várható.",
+                "ro": "Folosiți doar aleile curățate; risc de cădere pe poteci înghețate.",
+                "en": "Stick to cleared paths; high risk of falling on icy trails."
+              }
+            },
+            {
+              "name": "Vihorlat Observatory",
+              "tip_5lang": {
+                "de": "Der Weg zum Observatorium kann im Winter spiegelglatt sein.",
+                "hu": "A csillagvizsgálóhoz vezető út télen tükörsima lehet.",
+                "ro": "Drumul spre observator poate fi extrem de lunecos iarna.",
+                "en": "The road to the observatory can be mirror-smooth with ice in winter."
+              }
+            },
+            {
+              "name": "Back to the City Center",
+              "tip_5lang": {
+                "de": "Licht einschalten! Die Sicht verschlechtert sich ab 15:30 Uhr.",
+                "hu": "Kapcsolja be a világítást! 15:30 után már rosszak a látási viszonyok.",
+                "ro": "Aprindeți luminile! Vizibilitatea scade considerabil după ora 15:30.",
+                "en": "Turn on your lights! Visibility drops significantly after 3:30 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Schichten und winddichte Kleidung.",
+              "Prüfen Sie den Reifendruck; etwas weniger Druck gibt mehr Grip auf Schnee.",
+              "Akku von E-Bikes bei Kälte schneller leer; Reserve einplanen.",
+              "Warme Getränke in der Thermoskanne mitnehmen."
+            ],
+            "hu": [
+              "Öltözzön rétegesen, és használjon szélálló ruházatot.",
+              "Ellenőrizze a guminyomást; a kisebb nyomás jobb tapadást ad a havon.",
+              "Az e-bike akkumulátora gyorsabban merül hidegben.",
+              "Vigyen magával forró italt termoszban."
+            ],
+            "ro": [
+              "Purtați haine în straturi și protecție împotriva vântului.",
+              "Verificați presiunea roților; o presiune mai mică oferă aderență pe zăpadă.",
+              "Bateriile e-bike-urilor se descarcă mai repede la frig.",
+              "Luați cu voi băuturi calde într-un termos."
+            ],
+            "en": [
+              "Wear multiple layers and windproof outer clothing.",
+              "Check tire pressure; slightly lower pressure gives better grip on snow.",
+              "E-bike batteries drain much faster in cold temperatures.",
+              "Carry warm drinks in a thermos to stay hydrated and warm."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -894,6 +1294,188 @@
           "Find out about parking options and fees in the city center.",
           "Refuel before leaving the city if you plan further trips into the rural surroundings."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Auto ist der ideale Begleiter für einen verregneten Tag in Humenné. Morgens parken Sie bequem im Zentrum. Mittags verbringen Sie viel Zeit im trockenen Schlosskomplex. Der Nachmittag im Skanzen ist trotz Regen machbar, da das Auto als Basis dient. Der Tag endet entspannt mit einer kurzen Fahrt zum Abendessen.",
+            "hu": "Az autó a legjobb választás egy esős napra Humennében. Reggel kényelmesen parkolhat a központban. Délben rengeteg időt tölthet a száraz kastélyban. A délutáni skanzenlátogatás az eső ellenére is kivitelezhető, ha az autó a bázis. A nap egy rövid autózással zárul a vacsorahelyszínig.",
+            "ro": "Mașina este partenerul ideal pentru o zi ploioasă în Humenné. Dimineața parcați confortabil în centru. La prânz, petreceți mult timp în complexul castelului ferit de ploaie. Vizita la skanzen este posibilă chiar și pe ploaie cu mașina aproape. Ziua se încheie relaxat cu o scurtă cursă spre cină.",
+            "en": "The car is the ideal companion for a rainy day in Humenné. In the morning, park conveniently in the center. At noon, spend plenty of time in the dry castle complex. An afternoon at the Skanzen is doable despite the rain with your car nearby. The day ends relaxed with a short drive to dinner."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: City Center",
+              "tip_5lang": {
+                "de": "Parken Sie im Parkhaus oder nah an den Arkaden.",
+                "hu": "Parkoljon parkolóházban vagy az árkádok közelében.",
+                "ro": "Parcați într-o parcare acoperită sau aproape de arcade.",
+                "en": "Park in a garage or very close to the covered walkways."
+              }
+            },
+            {
+              "name": "Švejk Statue & Fountain",
+              "tip_5lang": {
+                "de": "Kurzer Ausstieg für Fotos zwischen den Regenschauern.",
+                "hu": "Csak rövid kiszállás a fotókhoz a záporok között.",
+                "ro": "Coborâre scurtă pentru poze între reprizele de ploaie.",
+                "en": "Quick hop out for photos between rain showers."
+              }
+            },
+            {
+              "name": "All Saints' Church",
+              "tip_5lang": {
+                "de": "Nutzen Sie den kircheneigenen Parkplatz für kurze Wege.",
+                "hu": "Használja a templom saját parkolóját a rövid sétához.",
+                "ro": "Folosiți parcarea bisericii pentru a merge cât mai puțin prin ploaie.",
+                "en": "Use the church's own parking lot to minimize walking in the rain."
+              }
+            },
+            {
+              "name": "Cluster 2: Castle Complex",
+              "tip_5lang": {
+                "de": "Fahren Sie direkt zum Schlossparkplatz vor.",
+                "hu": "Hajtson közvetlenül a kastély melletti parkolóig.",
+                "ro": "Conduceți direct până la parcarea castelului.",
+                "en": "Drive directly to the parking lot right next to the castle."
+              }
+            },
+            {
+              "name": "Open-Air Museum (Skanzen)",
+              "tip_5lang": {
+                "de": "Lassen Sie nasse Schirme im Kofferraum trocknen.",
+                "hu": "Hagyja a vizes esernyőket a csomagtartóban száradni.",
+                "ro": "Lăsați umbrelele ude să se usuce în portbagaj.",
+                "en": "Let wet umbrellas dry in the trunk between stops."
+              }
+            },
+            {
+              "name": "Cluster 3: Vihorlat Observatory",
+              "tip_5lang": {
+                "de": "Beste Sicht bei Regen oft eingeschränkt, aber Anfahrt bequem.",
+                "hu": "Esőben a kilátás korlátozott, de az autóút kényelmes.",
+                "ro": "Vizibilitatea poate fi redusă, dar accesul auto este facil.",
+                "en": "Visibility might be limited in the rain, but the drive up is easy."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf den Landstraßen um Humenné.",
+              "Parkplätze im Zentrum sind bei Regen oft schnell belegt.",
+              "Heizbare Seitenspiegel helfen gegen Beschlagen.",
+              "Nutzen Sie die Zeit im Auto, um sich aufzuwärmen."
+            ],
+            "hu": [
+              "Ügyeljen a felúszás veszélyére a környékbeli utakon.",
+              "A központi parkolók esőben hamar megtelnek.",
+              "A fűthető tükrök segítenek a párásodás ellen.",
+              "Használja az autóban töltött időt a felmelegedésre."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumurile din jurul orașului.",
+              "Parcările centrale se ocupă rapid pe timp de ploaie.",
+              "Oglinzile încălzite ajută împotriva aburirii.",
+              "Folosiți timpul în mașină pentru a vă încălzi."
+            ],
+            "en": [
+              "Watch out for aquaplaning on roads around Humenné.",
+              "Central parking spots fill up quickly when it's raining.",
+              "Heated mirrors will help with visibility and fogging.",
+              "Use the time in the car to warm up between outdoor visits."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter bietet das Auto in Humenné Komfort und Wärme. Der Morgen am frostigen Friedensplatz beginnt mit kurzem Parken. Mittags genießen Sie die Wärme im Schloss, während das Auto draußen wartet. Der Skanzen im Schnee ist mit dem Wagen gut erreichbar. Die Tour zum Observatorium am späten Nachmittag erfordert wintertaugliche Ausrüstung.",
+            "hu": "Télen az autó kényelmet és meleget nyújt Humennében. A reggel a fagyos Fő téren rövid parkolással indul. Délben a kastély melegében időzhetünk, amíg az autó kint várakozik. A hófödte skanzen kocsival is jól megközelíthető. A késő délutáni csillagvizsgáló-túra téli felszerelést igényel.",
+            "ro": "Iarna, mașina oferă confort și căldură în Humenné. Dimineața în Piața Libertății începe cu o parcare scurtă. La prânz, vă bucurați de căldura din castel în timp ce mașina așteaptă afară. Skanzenul înzăpezit este ușor accesibil. Turul la observator necesită echipare de iarnă corespunzătoare.",
+            "en": "In winter, the car provides much-needed comfort and warmth in Humenné. The morning at frosty Freedom Square starts with convenient parking. At noon, enjoy the warmth of the castle while the car waits outside. The snowy Skanzen is easily accessible by car. The late afternoon trip to the observatory requires winter-ready equipment."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: City Center",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Parkflächen im Schatten.",
+                "hu": "Ügyeljen az árnyékos helyeken lévő jeges parkolókra.",
+                "ro": "Atenție la locurile de parcare înghețate de la umbră.",
+                "en": "Watch out for icy parking spots in shaded areas."
+              }
+            },
+            {
+              "name": "Švejk Statue & Fountain",
+              "tip_5lang": {
+                "de": "Kurzer Stopp; der Motor kühlt bei Frost schnell aus.",
+                "hu": "Rövid megálló; a motor hamar lehűl a nagy fagyban.",
+                "ro": "Oprire scurtă; motorul se răcește repede la temperaturi negative.",
+                "en": "Short stop; engines cool down quickly in deep frost."
+              }
+            },
+            {
+              "name": "All Saints' Church",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Sitzheizung nach dem Kirchenbesuch.",
+                "hu": "Használja az ülésfűtést a templomlátogatás után.",
+                "ro": "Folosiți încălzirea în scaune după vizita la biserică.",
+                "en": "Turn on the seat heaters after visiting the cold church."
+              }
+            },
+            {
+              "name": "Cluster 2: Castle Complex",
+              "tip_5lang": {
+                "de": "Vermeiden Sie Parken unter schneebeladenen Bäumen.",
+                "hu": "Ne parkoljon hóval terhelt fák alá a kastélynál.",
+                "ro": "Evitați parcarea sub copaci încărcați cu zăpadă.",
+                "en": "Avoid parking under trees heavily laden with snow."
+              }
+            },
+            {
+              "name": "Open-Air Museum (Skanzen)",
+              "tip_5lang": {
+                "de": "Halten Sie Enteiser für die Türschlösser bereit.",
+                "hu": "Legyen kéznél jégoldó az ajtózárakhoz.",
+                "ro": "Aveți la îndemână spray pentru dezghețarea încuietorilor.",
+                "en": "Keep a lock de-icer handy for the car doors."
+              }
+            },
+            {
+              "name": "Cluster 3: Vihorlat Observatory",
+              "tip_5lang": {
+                "de": "Winterreifen und Schneeketten für den Anstieg empfohlen.",
+                "hu": "Téli gumi és hólánc ajánlott az emelkedőhöz.",
+                "ro": "Anvelopele de iarnă și lanțurile sunt recomandate pentru urcare.",
+                "en": "Winter tires and snow chains are recommended for the climb."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Checken Sie den Frostschutz in der Scheibenwaschanlage.",
+              "Fahren Sie bei Glätte vorausschauend.",
+              "Die Straßen zum Observatorium werden oft spät geräumt.",
+              "Ein Eiskratzer ist ein unverzichtbares Werkzeug."
+            ],
+            "hu": [
+              "Ellenőrizze a szélvédőmosó fagyállóságát.",
+              "Vezessen előrelátóan a jeges utakon.",
+              "A csillagvizsgálóhoz vezető utat gyakran későn takarítják.",
+              "A jégkaparó elengedhetetlen kellék."
+            ],
+            "ro": [
+              "Verificați antigelul din lichidul de parbriz.",
+              "Conduceți preventiv pe drumurile alunecoase.",
+              "Drumurile spre observator sunt adesea deszăpezite târziu.",
+              "Răzuitoarea de gheață este o unealtă indispensabilă."
+            ],
+            "en": [
+              "Check the antifreeze level in your windshield washer fluid.",
+              "Drive defensively and anticipate icy patches.",
+              "Roads to the observatory are often cleared late in the day.",
+              "An ice scraper is an absolute necessity for this trip."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1150,6 +1732,170 @@
           "Buy a day ticket for public transport, it is often cheaper.",
           "Download the timetable or use an app to check connections."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit Bus und Bahn durch das regnerische Humenné. Morgens erreichen Sie den Námestie slobody bequem per Bus. Mittags schützt der Schlossbesuch vor dem Wetter, gefolgt von einer kurzen Fahrt zum Skanzen. Der Nachmittag im Park wird durch die Nähe zu den Haltestellen erleichtert. Den Abend verbringen Sie in Bahnhofsnähe.",
+            "hu": "Busszal és vonattal az esős Humennén keresztül. Reggel kényelmesen eléri a Fő teret autóbusszal. Délben a kastélylátogatás védelmet nyújt az időjárás elől, majd egy rövid utazás következik a skanzenig. A délutáni parki séta a megállók közelsége miatt könnyebb. Az estét a vasútállomás környékén töltjük.",
+            "ro": "Cu autobuzul și trenul prin Humenné pe timp de ploaie. Dimineața ajungeți confortabil în Piața Libertății. La prânz, vizita la castel vă protejează de intemperii, urmată de o scurtă cursă spre skanzen. După-amiaza în parc este facilitată de proximitatea stațiilor. Seara se încheie lângă gară.",
+            "en": "Navigate rainy Humenné by bus and train. In the morning, reach Freedom Square easily by bus. At noon, the castle visit protects you from the weather, followed by a short transit ride to the Skanzen. Afternoon in the park is made easier by the nearby bus stops. Spend your evening near the train station."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Arrival at Freedom Square",
+              "tip_5lang": {
+                "de": "Warten Sie unter dem Haltestellendach, bis der Regen nachlässt.",
+                "hu": "Várjon a megálló fedele alatt, amíg alábbhagy az eső.",
+                "ro": "Așteptați sub copertina stației până se mai potolește ploaia.",
+                "en": "Wait under the bus stop shelter until the rain lets up."
+              }
+            },
+            {
+              "name": "Walk: Statues & All Saints' Church",
+              "tip_5lang": {
+                "de": "Zügiger Fußweg zwischen den Gebäuden einplanen.",
+                "hu": "Tervezzen gyorsabb gyaloglást az épületek között.",
+                "ro": "Planificați un mers rapid între clădiri pentru a nu vă uda.",
+                "en": "Plan for a brisk walk between the indoor highlights."
+              }
+            },
+            {
+              "name": "Cluster 2: Bus to the Castle Complex",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Bus, um die Distanz im Regen zu überbrücken.",
+                "hu": "Használja a buszt, hogy áthidalja a távolságot az esőben.",
+                "ro": "Folosiți autobuzul pentru a parcurge distanța prin ploaie.",
+                "en": "Use the bus to cover the distance and stay dry."
+              }
+            },
+            {
+              "name": "Open-Air Museum (Skanzen)",
+              "tip_5lang": {
+                "de": "Haltestelle direkt am Eingang des Schlossparks nutzen.",
+                "hu": "Használja a kastélypark bejáratánál lévő megállót.",
+                "ro": "Folosiți stația direct de la intrarea în parcul castelului.",
+                "en": "Use the bus stop right at the entrance of the castle park."
+              }
+            },
+            {
+              "name": "Stroll in the Castle Park",
+              "tip_5lang": {
+                "de": "Bei starkem Regen den Aufenthalt im Park verkürzen.",
+                "hu": "Heves esőzés esetén rövidítse le a parki tartózkodást.",
+                "ro": "În caz de ploaie torențială, scurtați plimbarea în parc.",
+                "en": "Shorten your park visit if the rain becomes too heavy."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Fahrplan online, um Wartezeiten im Freien zu vermeiden.",
+              "Haben Sie Kleingeld oder eine Karte für das Ticket bereit.",
+              "Die Busse verkehren bei Regen oft mit leichten Verzögerungen.",
+              "Regenschutz auch für kurze Wege zum Bus einplanen."
+            ],
+            "hu": [
+              "Ellenőrizze a menetrendet online a kinti várakozás elkerülése végett.",
+              "Legyen kéznél aprópénz vagy kártya a jegyvásárláshoz.",
+              "Esőben a buszok gyakran kisebb késéssel közlekednek.",
+              "Az esővédőről a buszmegállóig tartó rövid útra is gondoljon."
+            ],
+            "ro": [
+              "Verificați programul online pentru a evita așteptarea în ploaie.",
+              "Aveți pregătit mărunțiș sau un card pentru bilet.",
+              "Autobuzele pot avea mici întârzieri pe timp de ploaie.",
+              "Pregătiți protecția de ploaie și pentru drumul scurt spre stație."
+            ],
+            "en": [
+              "Check the schedule online to avoid waiting outside in the rain.",
+              "Have small change or a card ready for ticket purchases.",
+              "Buses may experience slight delays during heavy rainfall.",
+              "Keep your umbrella ready even for the short walk to the stop."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein winterlicher Tag in Humenné mit öffentlichen Verkehrsmitteln. Morgens bringt Sie der Bus zum beleuchteten Zentrum. Mittags verbringen Sie viel Zeit im warmen Schloss, bevor es per Transit weitergeht. Der schneebedeckte Skanzen ist ein Highlight am frühen Nachmittag. Da es früh dunkel wird, nutzen Sie die Abendstunden in den belebten Straßen.",
+            "hu": "Téli nap Humennében tömegközlekedéssel. Reggel a busz a kivilágított központba viszi. Délben sok időt töltünk a meleg kastélyban, mielőtt továbbutaznánk. A hófödte skanzen a kora délután fénypontja. Mivel korán sötétedik, az esti órákat a forgalmasabb utcákon töltjük.",
+            "ro": "O zi de iarnă în Humenné folosind transportul public. Dimineața, autobuzul vă duce în centrul luminat. La prânz, petreceți mult timp în castelul încălzit înainte de a continua drumul. Skanzenul înzăpezit este punctul culminant al după-amiezii. Seara se petrece pe străzile animate.",
+            "en": "Spend a winter day in Humenné using public transport. In the morning, a bus takes you to the lit center. At noon, spend plenty of time in the warm castle before moving on. The snow-covered Skanzen is an early afternoon highlight. Since it gets dark early, enjoy the evening hours in the busy streets."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Arrival at Freedom Square",
+              "tip_5lang": {
+                "de": "Die Busse sind im Winter meist gut beheizt.",
+                "hu": "A buszok télen általában jól fűtöttek.",
+                "ro": "Autobuzele sunt de obicei bine încălzite iarna.",
+                "en": "Buses are generally well-heated during the winter months."
+              }
+            },
+            {
+              "name": "Walk: Statues & All Saints' Church",
+              "tip_5lang": {
+                "de": "Vorsicht beim Ein- und Aussteigen auf vereisten Bordsteinen.",
+                "hu": "Vigyázzon a fel- és leszállásnál a jeges padkákon.",
+                "ro": "Atenție la urcare și coborâre pe bordurile înghețate.",
+                "en": "Be careful when boarding and exiting on icy curbsides."
+              }
+            },
+            {
+              "name": "Cluster 2: Bus to the Castle Complex",
+              "tip_5lang": {
+                "de": "Warten Sie im Inneren des Bahnhofs, wenn möglich.",
+                "hu": "Várjon az állomásépületben, ha lehetséges.",
+                "ro": "Așteptați în interiorul gării, dacă este posibil.",
+                "en": "Wait inside the station building if time allows."
+              }
+            },
+            {
+              "name": "Open-Air Museum (Skanzen)",
+              "tip_5lang": {
+                "de": "Achten Sie auf die veränderten Winterfahrpläne.",
+                "hu": "Ügyeljen a megváltozott téli menetrendre.",
+                "ro": "Atenție la programele de iarnă modificate.",
+                "en": "Pay attention to potentially modified winter schedules."
+              }
+            },
+            {
+              "name": "Stroll in the Castle Park",
+              "tip_5lang": {
+                "de": "Planen Sie den Rückweg zur Haltestelle vor Einbruch der Dunkelheit.",
+                "hu": "Tervezze meg a visszautat a megállóhoz még sötétedés előtt.",
+                "ro": "Planificați drumul înapoi spre stație înainte de lăsarea serii.",
+                "en": "Plan your walk back to the stop before total darkness."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrpläne können bei starkem Schneefall variieren.",
+              "Die Dämmerung beginnt bereits ab 15:45 Uhr.",
+              "Warme Kleidung für die Wartezeiten an den Haltestellen.",
+              "Bahnhof Humenné bietet einen beheizten Wartesaal."
+            ],
+            "hu": [
+              "A menetrend erős hóesés esetén változhat.",
+              "A szürkület már 15:45 körül elkezdődik.",
+              "Öltözzön melegen a buszmegállóban való várakozáshoz.",
+              "A homonnai vasútállomáson fűtött váróterem található."
+            ],
+            "ro": [
+              "Orarele pot varia în caz de ninsori abundente.",
+              "Amurgul începe deja în jurul orei 15:45.",
+              "Purtați haine groase pentru perioadele de așteptare în stații.",
+              "Gara din Humenné oferă o sală de așteptare încălzită."
+            ],
+            "en": [
+              "Schedules may fluctuate during heavy snowfall.",
+              "Twilight starts as early as 3:45 PM.",
+              "Dress warmly for the time spent waiting at bus stops.",
+              "Humenné train station provides a heated waiting area."
+            ]
+          }
+        }
       }
     }
   }

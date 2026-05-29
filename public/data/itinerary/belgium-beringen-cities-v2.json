@@ -358,6 +358,188 @@
           "Check the opening hours of the Mining Museum in advance.",
           "A reusable water bottle is a good idea."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie an der St. Peter's Kirche, um dem Regen zu entgehen. Das Casino bietet kulturelle Pausen im Trockenen. Am be-MINE Gelände sind viele Industriebauten überdacht und bieten Schutz. Das Bergbaumuseum ist das perfekte Indoor-Ziel für regnerische Stunden. Der Abenteuerberg ist bei Nässe rutschig, Vorsicht auf den Treppen. Beenden Sie den Tag im Stadtpark unter dichten Bäumen.",
+            "hu": "Kezdje a napot a Szent Péter templomban, ahol védelmet talál az eső elől. A Kaszinó kulturális menedéket nyújt a reggeli záporok elől. A be-MINE területén az ipari műemlékek nagy része fedett. A Bányászati Múzeum ideális esős időre, hosszú beltéri programmal. A Kalandhegy lépcsői csúszósak lehetnek, óvatosan lépkedjen. Zárásként a park fái alatt sétálhat egyet a friss levegőn.",
+            "ro": "Începeți la Biserica Sf. Petru pentru a vă adăposti de ploaia de dimineață. Cazinoul oferă o pauză culturală uscată. La be-MINE, structurile industriale masive oferă protecție împotriva intemperiilor. Muzeul Mineritului este destinația interioară perfectă pentru orele ploioase. Muntele de Aventură poate fi alunecos pe ploaie, atenție la scări. Încheiați ziua cu o scurtă plimbare prin parcul orașului.",
+            "en": "Start at St. Peter's Church to dodge the morning drizzle. The Casino provides a dry cultural stop nearby. At the be-MINE site, many industrial structures offer cover from the rain. The Mining Museum is the ultimate indoor highlight for rainy days. Adventure Mountain stairs might be slippery, so watch your step. End the day with a refreshed walk through Director's Park under the leafy canopy."
+          },
+          "stops": [
+            {
+              "name": "St. Peter's in Chains Church",
+              "tip_5lang": {
+                "de": "Ruhige Zuflucht vor dem Regen.",
+                "hu": "Csendes menedék az eső elől.",
+                "ro": "Refugiu liniștit împotriva ploii.",
+                "en": "Quiet refuge from the rain."
+              }
+            },
+            {
+              "name": "Casino of Beringen",
+              "tip_5lang": {
+                "de": "Überdachter Eingangsbereich nutzen.",
+                "hu": "Használja a fedett bejáratot.",
+                "ro": "Folosiți intrarea acoperită.",
+                "en": "Use the covered entrance area."
+              }
+            },
+            {
+              "name": "be-MINE Industrial Heritage",
+              "tip_5lang": {
+                "de": "Massive Gebäude bieten viel Schutz.",
+                "hu": "Hatalmas épületek adnak védelmet.",
+                "ro": "Clădirile masive oferă protecție.",
+                "en": "Massive buildings provide cover."
+              }
+            },
+            {
+              "name": "Mining Museum",
+              "tip_5lang": {
+                "de": "Perfekt trockenes Indoor-Erlebnis.",
+                "hu": "Tökéletesen száraz beltéri élmény.",
+                "ro": "Experiență interioară uscată.",
+                "en": "Perfect dry indoor experience."
+              }
+            },
+            {
+              "name": "Adventure Mountain",
+              "tip_5lang": {
+                "de": "Treppen können glatt sein.",
+                "hu": "A lépcsők csúszósak lehetnek.",
+                "ro": "Scările pot fi alunecoase.",
+                "en": "Stairs may be slippery when wet."
+              }
+            },
+            {
+              "name": "Director's Park",
+              "tip_5lang": {
+                "de": "Dichte Bäume bieten etwas Schutz.",
+                "hu": "A sűrű fák némi védelmet adnak.",
+                "ro": "Copacii deși oferă puțin adăpost.",
+                "en": "Dense trees provide some shelter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Viel Zeit im Museum einplanen.",
+              "Feste Schuhe für den Abenteuerberg.",
+              "Regenschirm im Casino abgeben.",
+              "Das Museumscafé ist ein idealer Zufluchtsort."
+            ],
+            "hu": [
+              "Hagyjon sok időt a múzeumra.",
+              "Vízhatlan cipő kell a Kalandhegyhez.",
+              "Esernyőtartók a Kaszinónál elérhetők.",
+              "A múzeum kávézója jó pihenőhely."
+            ],
+            "ro": [
+              "Planificați mai mult timp la muzeu.",
+              "Încălțăminte aderentă pentru munte.",
+              "Lăsați umbrela la intrarea cazinoului.",
+              "Cafeneaua muzeului este un refugiu excelent."
+            ],
+            "en": [
+              "Plan extra time for the museum.",
+              "Wear waterproof shoes for the mountain.",
+              "Check umbrellas at the Casino.",
+              "The museum cafe is a great refuge."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Wintermorgen an der St. Peter's Kirche mit ihrer kühlen, andächtigen Atmosphäre. Im Casino wärmen Sie sich auf. Das be-MINE Gelände wirkt im Frost besonders imposant und weitläufig. Das Bergbaumuseum bietet stundenlange Wärme und spannende Geschichte. Der Abenteuerberg ist bei Sonnenuntergang gegen 17:00 Uhr magisch. Der Parkbesuch sollte vor der frühen winterlichen Dunkelheit erfolgen.",
+            "hu": "Téli reggel a Szent Péter templomnál, ahol csendes áhítat fogadja a látogatót. Melegedjen fel a Kaszinó kulturális terében. A be-MINE ipari tája zúzmarásan igazán látványos és különleges. A Bányászati Múzeum fűtött termeiben elmerülhet a múltban. A Kalandhegy a korai, 17 órai naplementekor a legszebb. A parkot még a sötétedés beállta előtt érdemes meglátogatni.",
+            "ro": "Dimineață de iarnă la Biserica Sf. Petru, cu o atmosferă sobră și liniștită. Încălziți-vă în interiorul primitor al Cazinoului. Situl be-MINE este impresionant în lumina rece a iernii. Muzeul Mineritului oferă căldură și istorie pe parcursul întregii după-amiezi. Muntele de Aventură oferă vederi superbe la apusul de la ora 17:00. Vizitați parcul înainte de întunericul timpuriu.",
+            "en": "A winter morning at St. Peter's Church offers a quiet, crisp start. Warm up inside the cozy Casino. The be-MINE site looks stark and impressive in the winter frost. The Mining Museum provides hours of warmth and fascinating history. Adventure Mountain is magical during the early 17:00 sunset. Be sure to visit Director's Park before the early winter darkness sets in."
+          },
+          "stops": [
+            {
+              "name": "St. Peter's in Chains Church",
+              "tip_5lang": {
+                "de": "Innen ist es meist recht kühl.",
+                "hu": "Bent hűvös lehet a levegő.",
+                "ro": "Interiorul poate fi destul de rece.",
+                "en": "Inside might be quite chilly."
+              }
+            },
+            {
+              "name": "Casino of Beringen",
+              "tip_5lang": {
+                "de": "Idealer Ort zum Aufwärmen.",
+                "hu": "Ideális hely a felmelegedéshez.",
+                "ro": "Loc ideal pentru încălzire.",
+                "en": "Ideal place to warm up."
+              }
+            },
+            {
+              "name": "be-MINE Industrial Heritage",
+              "tip_5lang": {
+                "de": "Windfeste Kleidung empfohlen.",
+                "hu": "Szélálló ruházat erősen ajánlott.",
+                "ro": "Haine rezistente la vânt recomandate.",
+                "en": "Windproof clothing recommended."
+              }
+            },
+            {
+              "name": "Mining Museum",
+              "tip_5lang": {
+                "de": "Bestens geheizte Ausstellungsräume.",
+                "hu": "Kiválóan fűtött kiállítóterek.",
+                "ro": "Spații de expoziție bine încălzite.",
+                "en": "Well-heated exhibition rooms."
+              }
+            },
+            {
+              "name": "Adventure Mountain",
+              "tip_5lang": {
+                "de": "Beste Sicht um 16:30 Uhr.",
+                "hu": "Legjobb kilátás 16:30 körül.",
+                "ro": "Cea mai bună vedere pe la 16:30.",
+                "en": "Best view around 16:30."
+              }
+            },
+            {
+              "name": "Director's Park",
+              "tip_5lang": {
+                "de": "Besuch vor 17:00 Uhr planen.",
+                "hu": "Tervezze a látogatást 17 óra elé.",
+                "ro": "Vizitați înainte de ora 17:00.",
+                "en": "Plan visit before 17:00."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Getränke im Museumscafé.",
+              "Sonnenuntergang am Berg genießen.",
+              "Handschuhe für den Aufstieg einpacken.",
+              "Frühe Dämmerung ab 16:30 beachten."
+            ],
+            "hu": [
+              "Meleg italok a múzeumi kávézóban.",
+              "Élvezze a naplementét a hegyen.",
+              "Kesztyű a mászáshoz kötelező.",
+              "Figyeljen a korai sötétedésre (16:30)."
+            ],
+            "ro": [
+              "Băuturi calde la cafeneaua muzeului.",
+              "Bucurați-vă de apus pe munte.",
+              "Luați mănuși pentru urcare.",
+              "Atenție la amurgul de la 16:30."
+            ],
+            "en": [
+              "Warm drinks at the museum cafe.",
+              "Enjoy the sunset from the mountain.",
+              "Pack gloves for the climb.",
+              "Mind the early dusk starting at 16:30."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -710,6 +892,188 @@
           "Bring a helmet and a lock.",
           "Plan your route using a cycling app."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert gute Ausrüstung auf dem Coal Track. Das be-MINE Gelände bietet zwischen den historischen Gebäuden gute Schutzpunkte. Im Museum können Sie das Fahrrad sicher abstellen und sich bei einer Ausstellung trocknen. Der Abenteuerberg ist mit dem Rad bei Nässe eine echte Herausforderung. Besuchen Sie die Moschee am Nachmittag als ruhigen, trockenen Abschluss der Tour.",
+            "hu": "Az esős bringázás Beringenben jó felszerelést igényel a Szénúton. A be-MINE épületei között találni védett pontokat a záporok alatt. A múzeumnál biztonságosan lezárhatja a gépet és megszárítkozhat egy kiállítás alatt. A Kalandhegy kerékpárral csúszós lehet esőben, óvatosan hajtson. A mecset látogatása délután tökéletes és száraz lezárása a napnak.",
+            "ro": "O tură cu bicicleta pe ploaie necesită echipament bun pe Traseul Cărbunelui. Situl be-MINE oferă puncte de adăpost între clădirile istorice. La muzeu puteți lăsa bicicleta în siguranță și vă puteți usca. Muntele de Aventură este o provocare pe două roți pe ploaie. Vizitați moscheea după-amiaza pentru un final de zi uscat și liniștit.",
+            "en": "Cycling in the rain through Beringen requires good waterproof gear on the Coal Track. The be-MINE site offers shelter between industrial buildings. At the museum, lock your bike and dry off while exploring. Adventure Mountain is a challenge on wheels when wet, so take it slow. Visit the mosque in the afternoon for a calm, dry conclusion to your ride."
+          },
+          "stops": [
+            {
+              "name": "Coal Track (Starting Point)",
+              "tip_5lang": {
+                "de": "Vorsicht auf nassen Oberflächen.",
+                "hu": "Vigyázzon a nedves felületeken.",
+                "ro": "Atenție la suprafețele umede.",
+                "en": "Careful on wet surfaces."
+              }
+            },
+            {
+              "name": "be-MINE Industrial Heritage",
+              "tip_5lang": {
+                "de": "Kurze Sprints zwischen Hallen.",
+                "hu": "Rövid sprintek a csarnokok közt.",
+                "ro": "Sprinturi scurte între hale.",
+                "en": "Short sprints between halls."
+              }
+            },
+            {
+              "name": "Mining Museum",
+              "tip_5lang": {
+                "de": "Fahrradständer sind oft überdacht.",
+                "hu": "A bringatárolók gyakran fedettek.",
+                "ro": "Suporturile de biciclete sunt acoperite.",
+                "en": "Bike racks are often covered."
+              }
+            },
+            {
+              "name": "Adventure Mountain",
+              "tip_5lang": {
+                "de": "Abstieg bei Regen riskant.",
+                "hu": "A leereszkedés esőben kockázatos.",
+                "ro": "Coborâre riscantă pe ploaie.",
+                "en": "Descent is risky in the rain."
+              }
+            },
+            {
+              "name": "St. Peter's in Chains Church",
+              "tip_5lang": {
+                "de": "Kurzer Stopp zum Trocknen.",
+                "hu": "Rövid megálló száradni.",
+                "ro": "Scurt popas pentru uscare.",
+                "en": "Short stop to dry off."
+              }
+            },
+            {
+              "name": "Al-Fatih Mosque",
+              "tip_5lang": {
+                "de": "Schuhe draußen lassen beachten.",
+                "hu": "A cipőket kint kell hagyni.",
+                "ro": "Lăsați pantofii la intrare.",
+                "en": "Remember to leave shoes outside."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche am Rad sind wichtig.",
+              "Bremsweg bei Nässe beachten.",
+              "Wasserdichte Packtaschen nutzen.",
+              "Vorsicht auf dem Coal Track."
+            ],
+            "hu": [
+              "Sárvédő használata javasolt.",
+              "Hosszabb féktávval számoljon.",
+              "Használjon vízálló táskákat.",
+              "Óvatosan hajtson a Szénúton."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt vitale.",
+              "Atenție la distanța de frânare.",
+              "Folosiți genți impermeabile.",
+              "Atenție sporită pe traseu."
+            ],
+            "en": [
+              "Mudguards are highly recommended.",
+              "Mind the longer braking distance.",
+              "Use waterproof panniers.",
+              "Be careful on the Coal Track."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Kalte Luft auf dem Coal Track belebt die Sinne am frühen Morgen. Am be-MINE Gelände wärmen die Museumshallen nach der Fahrt schnell wieder auf. Die Aussicht vom Abenteuerberg ist bei klarer Winterluft unübertroffen und weitläufig. Besuchen Sie die St. Peter's Kirche und die Al-Fatih Moschee für spirituelle Wärme. Achten Sie auf Glatteis auf den Radwegen, besonders in schattigen Waldstücken.",
+            "hu": "A hideg levegő a Szénúton reggel frissítőleg hat a bringásokra. A be-MINE területén a múzeumi csarnokok segítenek gyorsan átmelegedni a tekerés után. A Kalandhegyről a kilátás tiszta téli időben a legszebb és legtávolibb. A templom és a mecset látogatása lelki és fizikai melegséget ad. Figyeljen a jegesedésre a kerékpárutakon, főleg az árnyékosabb szakaszokon.",
+            "ro": "Aerul rece de pe Traseul Cărbunelui vă va trezi simțurile dimineața. La be-MINE, halele muzeului vă vor încălzi rapid după drumul parcurs. Vederea de pe munte este de neegalat în aerul clar și rece de iarnă. Vizitați biserica și moscheea pentru un strop de căldură spirituală. Atenție la gheața de pe pistele de biciclete, mai ales în zonele cu umbră.",
+            "en": "Crisp winter air on the Coal Track is invigorating for an early start. At the be-MINE site, the museum halls offer a quick warm-up after your ride. The view from Adventure Mountain is stunning and expansive in clear winter air. Visit the church and mosque for spiritual and physical warmth. Watch out for icy patches on bike paths, especially in shaded forest sections."
+          },
+          "stops": [
+            {
+              "name": "Coal Track (Starting Point)",
+              "tip_5lang": {
+                "de": "Achtung bei Bodenfrost.",
+                "hu": "Vigyázzon a talajmenti fagyra.",
+                "ro": "Atenție la înghețul la sol.",
+                "en": "Watch out for ground frost."
+              }
+            },
+            {
+              "name": "be-MINE Industrial Heritage",
+              "tip_5lang": {
+                "de": "Kalter Wind zwischen Hallen.",
+                "hu": "Hideg szél a csarnokok közt.",
+                "ro": "Vânt rece între hale.",
+                "en": "Cold wind between halls."
+              }
+            },
+            {
+              "name": "Mining Museum",
+              "tip_5lang": {
+                "de": "Perfekt zum Hände wärmen.",
+                "hu": "Tökéletes kézmelegítésre.",
+                "ro": "Perfect pentru încălzirea mâinilor.",
+                "en": "Perfect for warming your hands."
+              }
+            },
+            {
+              "name": "Adventure Mountain",
+              "tip_5lang": {
+                "de": "Abstieg vor 17:00 Uhr.",
+                "hu": "Ereszkedés 17 óra előtt.",
+                "ro": "Coborâre înainte de ora 17:00.",
+                "en": "Descend before 17:00."
+              }
+            },
+            {
+              "name": "St. Peter's in Chains Church",
+              "tip_5lang": {
+                "de": "Kurze Pause im Kühlen.",
+                "hu": "Rövid pihenő a hűvösben.",
+                "ro": "Scurtă pauză la răcoare.",
+                "en": "Short break in the cool air."
+              }
+            },
+            {
+              "name": "Al-Fatih Mosque",
+              "tip_5lang": {
+                "de": "Warmer Teppichboden im Inneren.",
+                "hu": "Meleg szőnyegpadló odabent.",
+                "ro": "Mocheta caldă în interior.",
+                "en": "Warm carpeted floor inside."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Handschuhe sind Pflicht.",
+              "Licht am Fahrrad prüfen.",
+              "Zwiebelprinzip bei Kleidung.",
+              "Vorsicht vor Laub und Eis."
+            ],
+            "hu": [
+              "A meleg kesztyű kötelező.",
+              "Ellenőrizze a világítást.",
+              "Réteges öltözködés javasolt.",
+              "Vigyázzon a levélre és jégre."
+            ],
+            "ro": [
+              "Mănușile călduroase sunt vitale.",
+              "Verificați luminile bicicletei.",
+              "Îmbrăcați-vă în straturi.",
+              "Atenție la frunze și gheață."
+            ],
+            "en": [
+              "Warm gloves are a must.",
+              "Check your bike lights.",
+              "Use layers for your clothing.",
+              "Beware of wet leaves and ice."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1110,6 +1474,224 @@
           "Be aware of parking fees and restrictions.",
           "The car gives you the flexibility to also explore nearby nature areas."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Beringen auch bei Starkregen komfortabel zu erkunden. Parken Sie direkt am be-MINE Gelände und genießen Sie das weitläufige Museum. Die kurzen Wege zwischen den Hallen halten Sie angenehm trocken. Der Abenteuerberg lässt sich auch bei Regen für einen kurzen Ausblick erklimmen. Das Mittagessen im Stadtzentrum bietet eine gemütliche Pause. Den Tag beschließen der Parkbesuch.",
+            "hu": "Autóval Beringen még nagy esőben is kényelmesen felfedezhető. Parkoljon közvetlenül a be-MINE területén és élvezze a hatalmas múzeumot. A csarnokok közti rövid távok alatt biztosan nem ázik el. A Kalandhegy esőben is megmászható egy gyors panorámáért. A belvárosi ebéd hangulatos pihenőt ígér a zuhé előtt. A napot a templom és a park látogatása zárja le.",
+            "ro": "Cu mașina, Beringen este confortabil de explorat chiar și pe ploaie torențială. Parcați chiar la be-MINE și bucurați-vă de muzeul vast. Distanțele scurte între hale vă mențin plăcut de uscat. Muntele de Aventură poate fi urcat rapid chiar și pe ploaie pentru panoramă. Prânzul în centrul orașului oferă o pauză relaxantă. Încheiați ziua cu o vizită la biserică și parc.",
+            "en": "By car, Beringen remains comfortable to explore even during heavy rain. Park directly at the be-MINE site and enjoy the extensive museum at your leisure. Short walks between industrial halls keep you dry. Adventure Mountain can still be climbed for a quick scenic view. Lunch in the city center provides a cozy break from the weather. End your day visiting the church and the park."
+          },
+          "stops": [
+            {
+              "name": "be-MINE Parking",
+              "tip_5lang": {
+                "de": "Regenschirm griffbereit halten.",
+                "hu": "Legyen kéznél az esernyő.",
+                "ro": "Țineți umbrela la îndemână.",
+                "en": "Keep an umbrella handy."
+              }
+            },
+            {
+              "name": "Mining Museum",
+              "tip_5lang": {
+                "de": "Viel Zeit für Indoor einplanen.",
+                "hu": "Hagyjon sok időt a beltérre.",
+                "ro": "Alocați timp pentru interior.",
+                "en": "Plan plenty of indoor time."
+              }
+            },
+            {
+              "name": "be-MINE Industrial Heritage",
+              "tip_5lang": {
+                "de": "Fahrt zwischen nahen Punkten.",
+                "hu": "Rövid autózás a pontok közt.",
+                "ro": "Conduceți între puncte.",
+                "en": "Drive between close points."
+              }
+            },
+            {
+              "name": "Adventure Mountain",
+              "tip_5lang": {
+                "de": "Kurzer Stopp für Foto genügt.",
+                "hu": "Rövid fotómegálló is elég.",
+                "ro": "Un scurt popas foto e de ajuns.",
+                "en": "Short photo stop is enough."
+              }
+            },
+            {
+              "name": "City Center Parking",
+              "tip_5lang": {
+                "de": "Überdachtes Parkhaus bevorzugen.",
+                "hu": "Válasszon fedett parkolót.",
+                "ro": "Alegeți parcarea acoperită.",
+                "en": "Prefer a covered parking garage."
+              }
+            },
+            {
+              "name": "Lunch in the City Center",
+              "tip_5lang": {
+                "de": "Bestens für lange Pausen.",
+                "hu": "Kiváló egy hosszú ebédhez.",
+                "ro": "Excelent pentru prânzuri lungi.",
+                "en": "Excellent for long lunch breaks."
+              }
+            },
+            {
+              "name": "St. Peter's in Chains Church",
+              "tip_5lang": {
+                "de": "Parkplatz direkt davor nutzen.",
+                "hu": "Használja a kinti parkolót.",
+                "ro": "Parcați chiar în față.",
+                "en": "Use the parking right in front."
+              }
+            },
+            {
+              "name": "Director's Park",
+              "tip_5lang": {
+                "de": "Regenjacke im Auto lassen.",
+                "hu": "Hagyja a kabátot a kocsiban.",
+                "ro": "Lăsați jacheta în mașină.",
+                "en": "Leave rain jacket in the car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Parkplätze direkt am Ziel suchen.",
+              "Vorsicht bei Aquaplaning.",
+              "Regenschirm im Auto lassen.",
+              "Museumseingang ist nah am Parkplatz."
+            ],
+            "hu": [
+              "Keressen parkolót a célpontnál.",
+              "Vigyázzon a vízenfutásra.",
+              "Hagyja az esernyőt a kocsiban.",
+              "A múzeum bejárata közel van."
+            ],
+            "ro": [
+              "Căutați parcare direct la destinație.",
+              "Atenție la acvaplanare.",
+              "Lăsați umbrela în mașină.",
+              "Intrarea la muzeu e aproape de parcare."
+            ],
+            "en": [
+              "Look for parking near the entrance.",
+              "Watch out for aquaplaning.",
+              "Leave the umbrella in the car.",
+              "The museum entrance is close to parking."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein winterlicher Roadtrip zum be-MINE Parkplatz startet den Tag frisch. Das Bergbaumuseum ist ein herrlich warmer Zufluchtsort voller Technikgeschichte. Genießen Sie den Panoramablick vom frostigen Abenteuerberg, bevor Sie ins warme Stadtzentrum zum Mittagessen fahren. Die St. Peter's Kirche strahlt im Winterlicht eine besondere Ruhe aus. Der Direktor's Park wirkt kahl, aber elegant in der frühen Dämmerung des Dezembers.",
+            "hu": "Téli autós kirándulás a be-MINE parkolójából indulva. A Bányászati Múzeum meleg menedék a kinti hideg elől, tele izgalmas technikatörténettel. Élvezze a panorámát a fagyos Kalandhegyről, mielőtt a fűtött belvárosba megy ebédelni. A Szent Péter templom különleges nyugalmat áraszt a téli fényben. Az Igazgatói Park kopár, de elegáns látványt nyújt az alkonyatban.",
+            "ro": "O excursie de iarnă începe din parcarea be-MINE. Muzeul Mineritului este un refugiu cald și primitor, plin de istorie tehnică. Bucurați-vă de panorama de pe muntele înghețat înainte de a merge la prânz în centrul cald al orașului. Biserica Sf. Petru emană o liniște aparte în lumina rece a iernii. Parcul Directorului arată elegant, deși golaș, în amurgul timpuriu.",
+            "en": "A winter road trip starts at the be-MINE parking lot. The Mining Museum is a warm sanctuary of technical history, perfect for a cold morning. Enjoy the panoramic view from the frosty Adventure Mountain before heading to the warm city center for lunch. St. Peter's Church exudes a special calm in winter light. Director's Park looks bare but elegant in the early winter dusk."
+          },
+          "stops": [
+            {
+              "name": "be-MINE Parking",
+              "tip_5lang": {
+                "de": "Achtung bei Glätte im Parkbereich.",
+                "hu": "Vigyázzon a csúszós parkolóra.",
+                "ro": "Atenție la gheața din parcare.",
+                "en": "Beware of ice in the parking area."
+              }
+            },
+            {
+              "name": "Mining Museum",
+              "tip_5lang": {
+                "de": "Jackenabgabe im Inneren möglich.",
+                "hu": "Kabátleadó van odabent.",
+                "ro": "Garderobă disponibilă în interior.",
+                "en": "Cloakroom available inside."
+              }
+            },
+            {
+              "name": "be-MINE Industrial Heritage",
+              "tip_5lang": {
+                "de": "Gute Heizung in den Shops.",
+                "hu": "Jó fűtés a boltokban.",
+                "ro": "Încălzire bună în magazine.",
+                "en": "Good heating in the shops."
+              }
+            },
+            {
+              "name": "Adventure Mountain",
+              "tip_5lang": {
+                "de": "Bester Spot für Winterfotos.",
+                "hu": "Legjobb hely téli fotókhoz.",
+                "ro": "Cel mai bun loc pentru poze.",
+                "en": "Best spot for winter photos."
+              }
+            },
+            {
+              "name": "City Center Parking",
+              "tip_5lang": {
+                "de": "Parkuhr oft per App zahlbar.",
+                "hu": "Parkolás gyakran appal fizethető.",
+                "ro": "Plătiți parcarea prin aplicație.",
+                "en": "Parking often payable via app."
+              }
+            },
+            {
+              "name": "Lunch in the City Center",
+              "tip_5lang": {
+                "de": "Reservierung im Winter ratsam.",
+                "hu": "Télen ajánlott a foglalás.",
+                "ro": "Rezervarea e recomandată iarna.",
+                "en": "Reservation advisable in winter."
+              }
+            },
+            {
+              "name": "St. Peter's in Chains Church",
+              "tip_5lang": {
+                "de": "Wunderschön beleuchtet am Abend.",
+                "hu": "Este gyönyörűen ki van világítva.",
+                "ro": "Iluminat superb seara.",
+                "en": "Beautifully lit in the evening."
+              }
+            },
+            {
+              "name": "Director's Park",
+              "tip_5lang": {
+                "de": "Kurzer Spaziergang reicht aus.",
+                "hu": "Egy rövid séta is elegendő.",
+                "ro": "O scurtă plimbare e suficientă.",
+                "en": "A short walk is enough."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Eiskratzer bereithalten.",
+              "Winterreifen sind ein Muss.",
+              "Sitzheizung genießen.",
+              "Zentrale Parkplätze nutzen."
+            ],
+            "hu": [
+              "Készítse elő a jégkaparót.",
+              "A téli gumi kötelező.",
+              "Élvezze az ülésfűtést.",
+              "Használja a központi parkolókat."
+            ],
+            "ro": [
+              "Pregătiți răzuitoarea de gheață.",
+              "Anvelopele de iarnă sunt obligatorii.",
+              "Bucurați-vă de încălzirea în scaune.",
+              "Folosiți parcările centrale."
+            ],
+            "en": [
+              "Keep an ice scraper ready.",
+              "Winter tires are a must.",
+              "Enjoy the seat heating.",
+              "Use central parking lots."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1486,6 +2068,206 @@
           "A day pass is often cheaper than single tickets.",
           "Pay attention to the last bus connection back to the center."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus erreichen Sie die St. Peter's Kirche bequem und trocken. Das Casino ist nur einen kurzen Sprung entfernt. Die Fahrt zum be-MINE Gelände ist bei Regen ideal, da die Haltestelle sehr nah am Museum liegt. Verbringen Sie viel Zeit im Inneren der Ausstellungen. Der Abenteuerberg erfordert einen guten Regenschirm. Der Coal Track bietet am Ende der Tour noch einen tollen Blick auf die Industriegeschichte.",
+            "hu": "Busszal szárazon érheti el a Szent Péter templomot. A Kaszinó csak egy rövid ugrásra van a megállótól. A be-MINE területére utazni esőben ideális, a megálló közel van a múzeum bejáratához. Töltsön sok időt a benti kiállításokon, amíg eláll a zápor. A Kalandhegyhez szükség lesz az esernyőre. A Szénút a túra végén még egy bepillantást enged az ipari múltba.",
+            "ro": "Cu autobuzul ajungeți uscat la Biserica Sf. Petru. Cazinoul este la o scurtă plimbare de stație. Drumul spre be-MINE este ideal pe ploaie, stația fiind foarte aproape de intrarea în muzeu. Petreceți mult timp în interiorul expozițiilor cât plouă. Muntele de Aventură necesită o umbrelă bună. Traseul Cărbunelui oferă o privire finală asupra istoriei industriale la sfârșitul zilei.",
+            "en": "Reach St. Peter's Church dry and comfortable by bus. The Casino is just a short hop away from the transit stop. The ride to be-MINE is ideal in the rain, with the stop located very close to the museum entrance. Spend plenty of time inside exploring the exhibitions. Adventure Mountain will require a sturdy umbrella. The Coal Track offers a final look at industrial history at the end of the day."
+          },
+          "stops": [
+            {
+              "name": "Beringen Central Bus Station",
+              "tip_5lang": {
+                "de": "Wartebereich ist überdacht.",
+                "hu": "A váróterem fedett.",
+                "ro": "Zona de așteptare e acoperită.",
+                "en": "Waiting area is covered."
+              }
+            },
+            {
+              "name": "St. Peter's in Chains Church",
+              "tip_5lang": {
+                "de": "Kurzer Weg von der Haltestelle.",
+                "hu": "Rövid út a megállótól.",
+                "ro": "Drum scurt de la stație.",
+                "en": "Short walk from the stop."
+              }
+            },
+            {
+              "name": "Casino of Beringen",
+              "tip_5lang": {
+                "de": "Perfekt für Regentage.",
+                "hu": "Tökéletes esős napokra.",
+                "ro": "Perfect pentru zile ploioase.",
+                "en": "Perfect for rainy days."
+              }
+            },
+            {
+              "name": "be-MINE Bus Stop",
+              "tip_5lang": {
+                "de": "Sehr nah am Haupteingang.",
+                "hu": "Nagyon közel a bejárathoz.",
+                "ro": "Foarte aproape de intrare.",
+                "en": "Very close to the entrance."
+              }
+            },
+            {
+              "name": "Mining Museum",
+              "tip_5lang": {
+                "de": "Indoor-Fokus heute nutzen.",
+                "hu": "Használja ki a benti részt.",
+                "ro": "Profitați de zona interioară.",
+                "en": "Focus on the indoors today."
+              }
+            },
+            {
+              "name": "Adventure Mountain",
+              "tip_5lang": {
+                "de": "Umhänge bei Regen nutzen.",
+                "hu": "Használjon esővédőt.",
+                "ro": "Folosiți pelerine de ploaie.",
+                "en": "Use rain ponchos."
+              }
+            },
+            {
+              "name": "Coal Track",
+              "tip_5lang": {
+                "de": "Blick aus dem Busfenster.",
+                "hu": "Kilátás a buszablakból.",
+                "ro": "Vedere de pe fereastra autobuzului.",
+                "en": "View from the bus window."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "De Lijn App für Echtzeit-Infos.",
+              "Bushaltestellen sind oft überdacht.",
+              "Regenschirm griffbereit halten.",
+              "Museumsbesuch bei Starkregen priorisieren."
+            ],
+            "hu": [
+              "Használja a De Lijn alkalmazást.",
+              "A buszmegállók gyakran fedettek.",
+              "Tartsa kéznél az esernyőt.",
+              "Nagy esőben a múzeum a fő cél."
+            ],
+            "ro": [
+              "Folosiți aplicația De Lijn.",
+              "Stațiile sunt adesea acoperite.",
+              "Țineți umbrela la îndemână.",
+              "Prioritizați muzeul pe ploaie grea."
+            ],
+            "en": [
+              "Use the De Lijn app for updates.",
+              "Bus stops are often covered.",
+              "Keep your umbrella handy.",
+              "Prioritize the museum during heavy rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Warme Busse bringen Sie sicher durch das winterliche Beringen. Nach der Kirche und dem Casino führt der Weg zum be-MINE Gelände, wo die Geschichte wartet. Das Museum ist der perfekte Ort, um den kalten Nachmittag in behaglicher Wärme zu verbringen. Die Aussicht vom Abenteuerberg lohnt sich auch bei Frost für ein schnelles Panorama. Der Coal Track bildet den Abschluss, bevor Sie den Bus zurück ins Zentrum nehmen. Achten Sie auf den Fahrplan.",
+            "hu": "Meleg buszok viszik végig a téli Beringenben a látogatókat. A templom és a Kaszinó után az út a be-MINE területére vezet. A múzeum tökéletes hely a hideg délután eltöltésére a fűtött csarnokok között. A kilátás a Kalandhegyről fagyban is megéri a gyors megállót. A Szénút zárja a programot, mielőtt visszabuszolna a központba. Figyeljen a téli menetrendre és a buszok gyakoriságára.",
+            "ro": "Autobuzele încălzite vă poartă în siguranță prin Beringenul de iarnă. După biserică și Cazinou, drumul duce la situl be-MINE. Muzeul este locul perfect pentru o după-amiază friguroasă, oferind căldură și cultură. Vederea de pe munte merită efortul chiar și pe ger pentru o panoramă rapidă. Traseul Cărbunelui încheie vizita înainte de întoarcerea în centru. Atenție la orarul de iarnă.",
+            "en": "Warm buses take you safely through wintery Beringen for a cozy trip. After visiting the church and Casino, head to the be-MINE site. The museum is the perfect spot to spend a cold afternoon in comfort. The view from Adventure Mountain is worth it even in the frost for a quick panoramic shot. The Coal Track concludes the tour before you catch the bus back to the center. Check the winter schedules."
+          },
+          "stops": [
+            {
+              "name": "Beringen Central Bus Station",
+              "tip_5lang": {
+                "de": "Warmer Warteraum vorhanden.",
+                "hu": "Fűtött váróterem van.",
+                "ro": "Sală de așteptare încălzită.",
+                "en": "Heated waiting room available."
+              }
+            },
+            {
+              "name": "St. Peter's in Chains Church",
+              "tip_5lang": {
+                "de": "Ruhiger Start in den Tag.",
+                "hu": "Csendes kezdés a naphoz.",
+                "ro": "Început liniștit de zi.",
+                "en": "Quiet start to the day."
+              }
+            },
+            {
+              "name": "Casino of Beringen",
+              "tip_5lang": {
+                "de": "Kurze Aufwärmpause.",
+                "hu": "Rövid melegedő pihenő.",
+                "ro": "Scurtă pauză de încălzire.",
+                "en": "Short warm-up break."
+              }
+            },
+            {
+              "name": "be-MINE Bus Stop",
+              "tip_5lang": {
+                "de": "Achtung bei Glätte beim Ausstieg.",
+                "hu": "Vigyázzon a csúszós lépcsőnél.",
+                "ro": "Atenție la scările alunecoase.",
+                "en": "Beware of slippery steps."
+              }
+            },
+            {
+              "name": "Mining Museum",
+              "tip_5lang": {
+                "de": "Bester Schutz vor Kälte.",
+                "hu": "Legjobb védelem a hideg ellen.",
+                "ro": "Cea mai bună protecție la frig.",
+                "en": "Best protection from the cold."
+              }
+            },
+            {
+              "name": "Adventure Mountain",
+              "tip_5lang": {
+                "de": "Sicht bei Frost oft klarer.",
+                "hu": "A kilátás fagyban tisztább.",
+                "ro": "Vedere mai clară pe ger.",
+                "en": "View often clearer in frost."
+              }
+            },
+            {
+              "name": "Coal Track",
+              "tip_5lang": {
+                "de": "Letzter Stopp vor Rückfahrt.",
+                "hu": "Utolsó megálló visszaindulás előtt.",
+                "ro": "Ultima stație înainte de retur.",
+                "en": "Last stop before returning."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterfahrplan online prüfen.",
+              "Haltestellen können zugig sein.",
+              "Kurze Fußwege einplanen.",
+              "Frühen Sonnenuntergang beachten."
+            ],
+            "hu": [
+              "Ellenőrizze a téli menetrendet.",
+              "A megállók huzatosak lehetnek.",
+              "Tervezzen rövid gyalogutakat.",
+              "Figyeljen a korai naplementére."
+            ],
+            "ro": [
+              "Verificați orarul de iarnă online.",
+              "Stațiile pot fi expuse vântului.",
+              "Planificați drumuri scurte pe jos.",
+              "Atenție la apusul timpuriu."
+            ],
+            "en": [
+              "Check winter schedules online.",
+              "Bus stops can be drafty.",
+              "Plan for short walking distances.",
+              "Mind the early sunset."
+            ]
+          }
+        }
       }
     }
   }

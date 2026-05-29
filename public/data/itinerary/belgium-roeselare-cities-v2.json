@@ -300,6 +300,188 @@
           "Most city center attractions are easily within walking distance.",
           "Check the brewery's opening hours and tour times in advance."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Morgen am Grote Markt unter den Arkaden. Der Regen prasselt auf das Kopfsteinpflaster, während Sie das Rathaus bewundern. Mittags bietet die St.-Michaels-Kirche einen trockenen und besinnlichen Rückzugsort.\n\nDer Nachmittag gehört dem KOERS-Museum, wo Sie stundenlang im Trockenen in die Radsportgeschichte eintauchen können. Später führt ein kurzer, regnerischer Spaziergang zur Rodenbach-Brauerei für eine gemütliche Führung.\n\nGegen Abend wird die Atmosphäre im Sterrebos-Park mystisch, wenn der Nebel zwischen den nassen Bäumen aufsteigt. Ein Schirm ist auf den schlammigen Wegen unerlässlich.\n\nDen Tag lassen Sie in einer der warmen Kneipen im Zentrum ausklingen, wo das Aroma von belgischem Bier den Regen vergessen lässt.",
+            "hu": "Kezdje a reggelt az esőáztatta Grote Markton, behúzódva a városháza mellé. A Szent Mihály-templom csendes menedéket nyújt a délelőtti záporok elől.\n\nDélután a KOERS múzeum tökéletes választás: fedett helyen ismerkedhet meg a kerékpározás történetével. A Rodenbach sörfőzde túrája szintén szárazon tarthatja Önt a nap legvizesebb óráiban.\n\nSötétedés előtt a Sterrebos park fái között sétálhat, ahol az eső illata és a köd különleges hangulatot áraszt. A sétányok ilyenkor csúszósak lehetnek.\n\nAz estét a belváros egyik barátságos kávézójában zárja, hallgatva az ablakon kopogó esőt egy pohár helyi sör mellett.",
+            "ro": "Începeți dimineața în Grote Markt, sub umbrelă, admirând arhitectura primăriei reflectată în bălțile de pe trotuar. Biserica Sfântul Mihail oferă un adăpost liniștit împotriva ploii de dimineață.\n\nDupă-amiaza este ideală pentru muzeul KOERS, unde puteți petrece ore întregi la adăpost. Vizita la fabrica de bere Rodenbach este o altă activitate interioară perfectă pentru o zi ploioasă.\n\nSpre seară, o plimbare prin Parcul Sterrebos oferă un peisaj melancolic, cu ceața ridicându-se printre copacii uzi. Aveți grijă la potecile care pot deveni noroioase.\n\nÎncheiați ziua într-o tavernă călduroasă din centru, unde atmosfera belgiană autentică vă va face să uitați de vremea de afară.",
+            "en": "Start your morning at Grote Markt, seeking cover near the City Hall as the rain hits the cobbles. Saint Michael's Church provides a dry and peaceful refuge from the mid-morning showers.\n\nSpend your afternoon at the KOERS museum, a perfect indoor escape dedicated to cycling history. Later, the Rodenbach Brewery tour keeps you dry while you learn about local brewing traditions.\n\nAs evening approaches, the Sterrebos Park takes on a mystical vibe with mist rising among the wet trees. An umbrella is essential for the damp paths.\n\nEnd your day in a cozy city center pub, where the warm lighting and Belgian beer offer the perfect antidote to the rainy weather."
+          },
+          "stops": [
+            {
+              "name": "Grote Markt (Main Square)",
+              "tip_5lang": {
+                "de": "Unter den Arkaden des Rathauses bleiben Sie trocken.",
+                "hu": "A városháza árkádjai alatt védve maradhat az esőtől.",
+                "ro": "Adăpostiți-vă sub arcadele primăriei pentru a rămâne uscat.",
+                "en": "Stay dry by standing under the City Hall's archways."
+              }
+            },
+            {
+              "name": "City Hall of Roeselare",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich für Fotos.",
+                "hu": "Használja a fedett bejáratot a fényképezéshez.",
+                "ro": "Folosiți intrarea acoperită pentru a face fotografii.",
+                "en": "Use the covered entrance area to take your photos."
+              }
+            },
+            {
+              "name": "Saint Michael's Church",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um einen heftigen Schauer abzuwarten.",
+                "hu": "Ideális hely egy komolyabb zápor átvészelésére.",
+                "ro": "Un loc ideal pentru a aștepta trecerea unei averse puternice.",
+                "en": "An ideal place to wait out a heavy downpour."
+              }
+            },
+            {
+              "name": "KOERS (Museum of Cycle Racing)",
+              "tip_5lang": {
+                "de": "Die Garderobe bietet Platz für nasse Mäntel und Schirme.",
+                "hu": "A ruhatárban leadhatja vizes kabátját és esernyőjét.",
+                "ro": "Garderoba oferă spațiu pentru haine și umbrele ude.",
+                "en": "The cloakroom has space for wet coats and umbrellas."
+              }
+            },
+            {
+              "name": "Rodenbach Brewery",
+              "tip_5lang": {
+                "de": "Die Kellerführung ist komplett wetterunabhängig.",
+                "hu": "A pincetúra teljesen független az időjárástól.",
+                "ro": "Turul pivniței este complet independent de vreme.",
+                "en": "The cellar tour is completely weatherproof."
+              }
+            },
+            {
+              "name": "Sterrebos Park",
+              "tip_5lang": {
+                "de": "Vorsicht, die Waldwege können sehr rutschig sein.",
+                "hu": "Vigyázat, az erdei utak nagyon csúszósak lehetnek.",
+                "ro": "Atenție, potecile din pădure pot fi foarte alunecoase.",
+                "en": "Caution, the forest paths can be very slippery."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für das Kopfsteinpflaster.",
+              "Viele Cafés am Markt haben beheizte Außenbereiche.",
+              "Das KOERS Museum ist der beste Zufluchtsort bei Dauerregen.",
+              "Nutzen Sie die Durchgänge zwischen den Einkaufsstraßen."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a macskaköves utcákhoz.",
+              "A főtér számos kávézója rendelkezik fűtött terasszal.",
+              "A KOERS múzeum a legjobb menedék tartós eső esetén.",
+              "Használja a bevásárlóutcák közötti átjárókat."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru străzile pietruite.",
+              "Multe cafenele din piață au terase încălzite.",
+              "Muzeul KOERS este cel mai bun refugiu în caz de ploaie continuă.",
+              "Folosiți pasajele dintre străzile comerciale."
+            ],
+            "en": [
+              "Wear waterproof shoes for the cobbled streets.",
+              "Many cafes on the square have heated outdoor areas.",
+              "The KOERS museum is the best refuge during steady rain.",
+              "Use the passages between shopping streets to stay dry."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen am Grote Markt, wo der Duft von heißem Kakao aus den Cafés weht. Das Rathaus wirkt in der klaren Winterluft besonders imposant. In der St.-Michaels-Kirche finden Sie Wärme und Stille.\n\nMittags wärmen Sie sich im modernen KOERS-Museum auf, während Sie die Radsporthelden bewundern. Die Rodenbach-Brauerei bietet danach eine behagliche Atmosphäre bei einer Verkostung der dunklen Biere.\n\nDer Nachmittag am Schloss Rumbeke ist kurz, da die Sonne gegen 16:30 Uhr untergeht. Die frostigen Teiche im Sterrebos-Park glitzern im schwindenden Licht.\n\nWenn die Dunkelheit hereinbricht, erleuchten die Winterlichter die Stadt. Ein perfekter Moment, um sich in einem warmen Restaurant mit flämischem Eintopf zu stärken.",
+            "hu": "Dérlepte reggel a Grote Markton, ahol a kávézókból forró csokoládé illata száll. A városháza tekintélyesebbnek tűnik a tiszta téli levegőben. A Szent Mihály-templom falai között melegre és csendre lelhet.\n\nDélben melegedjen fel a modern KOERS múzeumban a kerékpáros ereklyék között. A Rodenbach sörfőzde sötét sörei kiválóan illenek a fagyos délutánhoz.\n\nA Rumbeke kastélynál a látogatást tervezze korábbra, mert fél ötkor már lebukik a nap. A Sterrebos park tavai ilyenkor csillognak a zúzmarától.\n\nAhogy leszáll az est, a város téli fényei kigyúlnak. Ideje behúzódni egy étterembe egy tál forró flandriai ragura.",
+            "ro": "O dimineață geroasă în Grote Markt, unde mirosul de ciocolată caldă vine dinspre cafenele. Primăria arată impunător în aerul clar de iarnă. Găsiți căldură și liniște în interiorul Bisericii Sfântul Mihail.\n\nLa prânz, încălziți-vă în modernul muzeu KOERS, admirând trofeele ciclismului. Fabrica Rodenbach oferă apoi o atmosferă primitoare pentru o degustare de beri brune.\n\nVizita la Castelul Rumbeke trebuie scurtată, deoarece soarele apune în jurul orei 16:30. Lacurile înghețate din Sterrebos sclipesc în lumina slabă a după-amiezii.\n\nPe măsură ce se lasă întunericul, luminile de iarnă decorează orașul. Este momentul perfect pentru o porție de tocană flamandă într-un restaurant local.",
+            "en": "A frosty morning at Grote Markt, where the scent of hot cocoa wafts from the cafes. The City Hall looks particularly grand in the crisp winter air. Find warmth and silence inside Saint Michael's Church.\n\nAt noon, warm up in the modern KOERS museum while admiring the cycling memorabilia. The Rodenbach Brewery offers a cozy atmosphere for tasting its famous dark beers later on.\n\nThe afternoon at Rumbeke Castle is short, as the sun sets around 4:30 PM. The frozen ponds in Sterrebos Park glitter in the fading winter light.\n\nAs darkness falls, the winter lights illuminate the city streets. It's the perfect time to settle into a warm restaurant for some hearty Flemish stew."
+          },
+          "stops": [
+            {
+              "name": "Grote Markt (Main Square)",
+              "tip_5lang": {
+                "de": "Genießen Sie ein Heißgetränk in den beheizten Cafés.",
+                "hu": "Élvezzen egy forró italt a fűtött kávézókban.",
+                "ro": "Savurați o băutură caldă în cafenelele încălzite.",
+                "en": "Enjoy a hot drink in one of the heated cafes."
+              }
+            },
+            {
+              "name": "City Hall of Roeselare",
+              "tip_5lang": {
+                "de": "Das Gebäude ist abends oft festlich beleuchtet.",
+                "hu": "Az épület este gyakran ünnepi kivilágítást kap.",
+                "ro": "Clădirea este adesea iluminată festiv seara.",
+                "en": "The building is often festively lit up in the evening."
+              }
+            },
+            {
+              "name": "Saint Michael's Church",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um sich kurz aufzuwärmen.",
+                "hu": "Csendes hely egy rövid átmelegedéshez.",
+                "ro": "Un loc liniștit pentru a vă încălzi puțin.",
+                "en": "A quiet place to warm up for a few minutes."
+              }
+            },
+            {
+              "name": "KOERS (Museum of Cycle Racing)",
+              "tip_5lang": {
+                "de": "Perfekt temperierter Innenraum für Wintertage.",
+                "hu": "Tökéletesen fűtött belső tér a téli napokra.",
+                "ro": "Spațiu interior cu temperatură perfectă pentru iarnă.",
+                "en": "Perfectly heated indoor space for winter days."
+              }
+            },
+            {
+              "name": "Rodenbach Brewery",
+              "tip_5lang": {
+                "de": "Die Eichenfässer strahlen eine behagliche Wärme aus.",
+                "hu": "A tölgyfahordók barátságos hangulatot árasztanak.",
+                "ro": "Butoaiele de stejar emană o atmosferă primitoare.",
+                "en": "The oak barrels create a very cozy atmosphere."
+              }
+            },
+            {
+              "name": "Sterrebos Park",
+              "tip_5lang": {
+                "de": "Achtung, Sonnenuntergang bereits gegen 16:30 Uhr.",
+                "hu": "Figyelem, a nap már 16:30 körül lemegy.",
+                "ro": "Atenție, soarele apune deja în jurul orei 16:30.",
+                "en": "Note that sunset occurs around 4:30 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich in Schichten gegen den kalten Wind.",
+              "Die Sonne geht im Winter sehr früh unter.",
+              "Der Sterrebos-Park kann bei Frost glatt sein.",
+              "Probieren Sie das warme Rodenbach-Bier in den Kneipen."
+            ],
+            "hu": [
+              "Öltözzön rétegesen a hideg szél ellen.",
+              "Télen nagyon korán sötétedik.",
+              "A Sterrebos park fagyos időben csúszós lehet.",
+              "Kóstolja meg a melegített Rodenbach sört a helyi bárokban."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi împotriva vântului rece.",
+              "Iarna se întunecă foarte devreme.",
+              "Parcul Sterrebos poate fi alunecos pe timp de îngheț.",
+              "Gustați berea Rodenbach încălzită în barurile locale."
+            ],
+            "en": [
+              "Dress in layers to protect against the cold wind.",
+              "Sunset is very early during the winter months.",
+              "Sterrebos Park can be slippery in freezing conditions.",
+              "Try warmed Rodenbach beer in the local pubs."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -594,6 +776,188 @@
           "Follow the cycle paths, which are excellent in Flanders.",
           "Some cobblestone streets in the center require caution."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radeln Sie vorsichtig über den nassen Grote Markt zum Rathaus. Die Reifen spritzen auf dem glänzenden Asphalt. Ein kurzer Halt an der St.-Michaels-Kirche bietet Schutz vor einer Regenböe.\n\nMittags erreichen Sie das KOERS-Museum, den ultimativen Ort für Radfahrer bei Regen. Hier können Sie Ihr Rad sicher abstellen und im Trockenen verweilen. Danach geht es weiter zum Muze'um L, dessen Architektur im Regen glänzt.\n\nDie Fahrt zum Schloss Rumbeke führt über Radwege, die bei Nässe Vorsicht erfordern. Der Sterrebos-Park wirkt unter grauen Wolken sehr dramatisch.\n\nBeenden Sie die Tour mit einer Fahrt zurück ins Zentrum. Ein warmes Getränk nach einer regnerischen Radtour ist die beste Belohnung.",
+            "hu": "Óvatosan kerekezzen a vizes Grote Markton a városháza felé. A Szent Mihály-templomnál megállva kivárhat egy hirtelen záport.\n\nDélben a KOERS múzeumnál pihenhet meg, ami a bringások legjobb menedéke esőben. Aztán tekerjen el a Muze'um L-hez, melynek modern vonalai különlegesen festenek a szürke ég alatt.\n\nA Rumbeke kastélyhoz vezető úton figyeljen a sárvédőkre. A Sterrebos park ilyenkor csendes és párás.\n\nA napot a központba visszatérve zárja. Nincs is jobb egy forró teánál egy ázott bringázás után.",
+            "ro": "Pedalați cu atenție pe Grote Markt spre primărie. O scurtă oprire la Biserica Sfântul Mihail vă va proteja de o rafală de ploaie.\n\nLa prânz, ajungeți la muzeul KOERS, sanctuarul suprem al bicicliștilor pe timp de ploaie. Apoi, continuați spre Muze'um L, a cărui arhitectură strălucește sub stropii de apă.\n\nDrumul spre Castelul Rumbeke necesită atenție pe pistele umede. Parcul Sterrebos pare foarte dramatic sub norii cenușii.\n\nÎncheiați turul cu o cursă înapoi spre centru. O băutură caldă după o plimbare ploioasă cu bicicleta este cea mai bună recompensă.",
+            "en": "Cycle carefully across the wet Grote Markt towards the City Hall. A quick stop at Saint Michael's Church offers protection from a sudden rain squall.\n\nAt noon, reach the KOERS museum, the ultimate sanctuary for cyclists in the rain. Later, pedal to Muze'um L, where the architecture looks striking against the grey sky.\n\nThe route to Rumbeke Castle requires caution on wet bike paths. Sterrebos Park feels dramatic and quiet under the rain clouds.\n\nEnd your tour with a ride back to the center. There's nothing like a warm drink to recover from a rainy cycling session."
+          },
+          "stops": [
+            {
+              "name": "Grote Markt & City Hall",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem nassen Kopfsteinpflaster.",
+                "hu": "Vigyázzon a vizes macskakövön.",
+                "ro": "Atenție pe piatra cubică umedă.",
+                "en": "Be careful on the wet cobblestones."
+              }
+            },
+            {
+              "name": "Saint Michael's Church",
+              "tip_5lang": {
+                "de": "Überdachte Fahrradständer in der Nähe suchen.",
+                "hu": "Keressen fedett kerékpártárolót a közelben.",
+                "ro": "Căutați rastele de biciclete acoperite în apropiere.",
+                "en": "Look for covered bike racks nearby."
+              }
+            },
+            {
+              "name": "KOERS (Museum of Cycle Racing)",
+              "tip_5lang": {
+                "de": "Trocknen Sie Ihre Kleidung im Museumsbereich.",
+                "hu": "Szárítsa meg ruháit a múzeum területén.",
+                "ro": "Uscați-vă hainele în zona muzeului.",
+                "en": "Dry your gear in the museum area."
+              }
+            },
+            {
+              "name": "Muze'um L",
+              "tip_5lang": {
+                "de": "Der helle Beton kann bei Nässe spiegeln.",
+                "hu": "A világos betonfelület tükröződhet az esőben.",
+                "ro": "Betonul deschis la culoare poate reflecta lumina pe ploaie.",
+                "en": "The light concrete can be reflective when wet."
+              }
+            },
+            {
+              "name": "Rumbeke Castle",
+              "tip_5lang": {
+                "de": "Fahren Sie langsam auf den Parkwegen.",
+                "hu": "Hajtson lassan a park útjain.",
+                "ro": "Mergeți încet pe aleile parcului.",
+                "en": "Ride slowly on the park paths."
+              }
+            },
+            {
+              "name": "Sterrebos Park",
+              "tip_5lang": {
+                "de": "Schutzbleche sind bei diesem Wetter ein Muss.",
+                "hu": "A sárvédő elengedhetetlen ilyen időben.",
+                "ro": "Apărătorile de noroi sunt obligatorii pe această vreme.",
+                "en": "Mudguards are a must in this weather."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Bremsen Sie auf Kopfsteinpflaster früher ab.",
+              "Vermeiden Sie weiße Fahrbahnmarkierungen, sie sind glatt.",
+              "Nutzen Sie wasserfeste Packtaschen für Ihr Gepäck.",
+              "Ein Regencape schützt besser als ein Schirm beim Fahren."
+            ],
+            "hu": [
+              "Fékezzen korábban a macskaköveken.",
+              "Kerülje a fehér útburkolati jeleket, mert csúsznak.",
+              "Használjon vízálló táskákat a felszereléséhez.",
+              "A biciklis esőponcsó praktikusabb, mint az esernyő."
+            ],
+            "ro": [
+              "Frânați mai devreme pe piatra cubică.",
+              "Evitați marcajele rutiere albe, sunt alunecoase.",
+              "Folosiți genți impermeabile pentru bagaje.",
+              "O pelerină de ploaie este mai practică decât o umbrelă."
+            ],
+            "en": [
+              "Brake earlier on cobblestones.",
+              "Avoid white road markings as they become slippery.",
+              "Use waterproof panniers for your belongings.",
+              "A rain poncho is more effective than an umbrella while cycling."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre Wintertour am Grote Markt mit Handschuhen und Schal. Die kalte Luft beißt in die Wangen, während Sie zur St.-Michaels-Kirche radeln. Drinnen finden Sie eine kurze Atempause von der Kälte.\n\nMittags ist das KOERS-Museum der perfekte Ort, um die gefrorenen Finger aufzutauen. Danach führt die Fahrt zum Muze'um L, wo das Winterlicht die moderne Kunst besonders betont.\n\nDer Weg zum Schloss Rumbeke ist im Winter ruhig. Die kahlen Bäume im Sterrebos-Park bieten weite Sichtachsen auf das Schloss.\n\nDa es früh dunkel wird, sollten Sie die Rückfahrt rechtzeitig antreten. Die Lichter von Roeselare weisen Ihnen den Weg zurück ins warme Stadtzentrum.",
+            "hu": "Kezdje téli túráját a Grote Markton kesztyűben és sálban. A hideg levegő csípi az arcát, miközben a Szent Mihály-templomhoz teker. Odabent rövid pihenőt tarthat a fagy elől.\n\nDélben a KOERS múzeum a tökéletes hely a megfagyott ujjak felolvasztására. Ezután irány a Muze'um L, ahol a téli fények kiemelik a modern művészetet.\n\nA Rumbeke kastélyhoz vezető út télen igen csendes. A Sterrebos park kopár fái között messzire ellátni a kastély felé.\n\nMivel korán sötétedik, induljon vissza időben. Roeselare fényei mutatják az utat a meleg belvárosba.",
+            "ro": "Începeți turul de iarnă în Grote Markt cu mănuși și fular. Aerul rece vă pișcă obrajii în timp ce pedalați spre Biserica Sfântul Mihail. În interior găsiți o scurtă pauză de la frig.\n\nLa prânz, muzeul KOERS este locul perfect pentru a vă dezgheța degetele. Apoi, drumul duce spre Muze'um L, unde lumina de iarnă pune în valoare arta modernă.\n\nDrumul spre Castelul Rumbeke este liniștit iarna. Copacii golași din Parcul Sterrebos oferă perspective largi asupra castelului.\n\nDeoarece se întunecă devreme, porniți înapoi la timp. Luminile orașului Roeselare vă vor ghida spre centrul cald.",
+            "en": "Start your winter bike tour at Grote Markt bundled in gloves and a scarf. The cold air bites your cheeks as you cycle to Saint Michael's Church. Inside, find a brief respite from the freeze.\n\nAt noon, the KOERS museum is the perfect place to thaw out frozen fingers. Then, head to Muze'um L, where the winter light emphasizes the modern art.\n\nThe route to Rumbeke Castle is quiet in winter. The bare trees in Sterrebos Park offer clear views of the castle from a distance.\n\nSince it gets dark early, start your return journey in time. The lights of Roeselare will guide you back to the warm city center."
+          },
+          "stops": [
+            {
+              "name": "Grote Markt & City Hall",
+              "tip_5lang": {
+                "de": "Achten Sie auf überfrierende Nässe am Morgen.",
+                "hu": "Figyeljen a reggeli jegesedésre.",
+                "ro": "Atenție la poleiul de dimineață.",
+                "en": "Watch out for black ice in the morning."
+              }
+            },
+            {
+              "name": "Saint Michael's Church",
+              "tip_5lang": {
+                "de": "Kurzer Stopp zum Aufwärmen ist empfehlenswert.",
+                "hu": "Javasolt egy rövid megálló melegedés céljából.",
+                "ro": "Se recomandă o scurtă oprire pentru încălzire.",
+                "en": "A short stop to warm up is recommended."
+              }
+            },
+            {
+              "name": "KOERS (Museum of Cycle Racing)",
+              "tip_5lang": {
+                "de": "Das Museumscafé bietet heiße Suppen an.",
+                "hu": "A múzeumi kávézó forró leveseket kínál.",
+                "ro": "Cafeneaua muzeului oferă supe calde.",
+                "en": "The museum cafe serves hot soups."
+              }
+            },
+            {
+              "name": "Muze'um L",
+              "tip_5lang": {
+                "de": "Gute Beleuchtung am Rad ist am Nachmittag wichtig.",
+                "hu": "Délután már fontos a jó világítás a biciklin.",
+                "ro": "Iluminarea bună a bicicletei este importantă după-amiaza.",
+                "en": "Good bike lights are essential in the afternoon."
+              }
+            },
+            {
+              "name": "Rumbeke Castle",
+              "tip_5lang": {
+                "de": "Der Boden kann gefroren und uneben sein.",
+                "hu": "A talaj fagyott és egyenetlen lehet.",
+                "ro": "Solul poate fi înghețat și denivelat.",
+                "en": "The ground may be frozen and uneven."
+              }
+            },
+            {
+              "name": "Sterrebos Park",
+              "tip_5lang": {
+                "de": "Lichtcheck vor der Rückfahrt durchführen.",
+                "hu": "Visszaindulás előtt ellenőrizze a lámpákat.",
+                "ro": "Verificați luminile înainte de plecare.",
+                "en": "Check your lights before the return trip."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Kleidung.",
+              "Halten Sie die Kette gut geölt gegen Streusalz.",
+              "Der Akku von E-Bikes entlädt sich bei Kälte schneller.",
+              "Trinken Sie ausreichend, auch wenn es kalt ist."
+            ],
+            "hu": [
+              "Viseljen szélálló ruházatot.",
+              "Tartsa olajozottan a láncot az útszóró só ellen.",
+              "Az e-bike akkumulátora gyorsabban merül hidegben.",
+              "Igyon eleget, még ha nem is érzi a szomjúságot a hidegben."
+            ],
+            "ro": [
+              "Purtați haine rezistente la vânt.",
+              "Păstrați lanțul bine uns împotriva sării de pe drum.",
+              "Bateria bicicletelor electrice se descarcă mai repede la frig.",
+              "Hidratați-vă suficient, chiar dacă este frig."
+            ],
+            "en": [
+              "Wear windproof clothing.",
+              "Keep the chain well-oiled against road salt.",
+              "E-bike batteries drain faster in the cold.",
+              "Stay hydrated even if you don't feel thirsty in the cold."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -877,6 +1241,188 @@
           "Combining driving and walking is the most efficient way to see the city and its surroundings.",
           "The driver should skip the beer tasting or have a responsible plan."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die Fahrt durch das verregnete Roeselare bequem von Ihrem Auto aus. Parken Sie im Zentrum und huschen Sie unter den Schirm zum Grote Markt. Das Rathaus wirkt im Regen wie aus einem alten Film.\n\nMittags ist das KOERS-Museum leicht erreichbar, und Sie bleiben beim Aussteigen fast trocken. Danach führt die kurze Fahrt zur Rodenbach-Brauerei, wo die Führung im Warmen stattfindet.\n\nAm Nachmittag erreichen Sie das Schloss Rumbeke. Der Parkplatz ist nah am Schloss, sodass der Regen kein Hindernis ist. Der Sterrebos-Park sieht durch die nassen Scheiben faszinierend aus.\n\nDen Tag beenden Sie entspannt im Zentrum. Die Lichter spiegeln sich wunderschön im nassen Asphalt der Straßen.",
+            "hu": "Élvezze az utazást az esős Roeselare-n keresztül az autó kényelméből. Parkoljon le a központban, és fusson át a városházához. Az épület az esőben úgy fest, mint egy régi filmben.\n\nDélben a KOERS múzeum könnyen elérhető, és szinte szárazon juthat be. Ezután jöhet a Rodenbach sörfőzde, ahol a túra fedett helyen zajlik.\n\nDélután a Rumbeke kastélyhoz autózhat. A parkoló közel van, így az eső nem akadály. A Sterrebos park látványa a vizes ablakon keresztül is lenyűgöző.\n\nA napot a belvárosban zárja, ahol a fények gyönyörűen tükröződnek a vizes aszfalton.",
+            "ro": "Bucurați-vă de drumul prin Roeselare-ul ploios din confortul mașinii. Parcați în centru și fugiți sub umbrelă spre Grote Markt. Primăria arată ca într-un film vechi sub ploaie.\n\nLa prânz, muzeul KOERS este ușor accesibil, iar la coborâre veți rămâne aproape uscat. Urmează o scurtă călătorie spre fabrica Rodenbach, unde turul are loc la interior.\n\nDupă-amiaza ajungeți la Castelul Rumbeke. Parcarea este aproape, deci ploaia nu este un impediment. Parcul Sterrebos arată fascinant prin geamurile ude.\n\nÎncheiați ziua relaxat în centru. Luminile se oglindesc frumos în asfaltul umed al străzilor.",
+            "en": "Enjoy the drive through rainy Roeselare from the comfort of your car. Park in the center and dash under your umbrella to Grote Markt. The City Hall looks like something out of an old movie in the rain.\n\nAt noon, the KOERS museum is easily accessible, and you'll stay mostly dry getting inside. Next, a short drive takes you to Rodenbach Brewery, where the tour is entirely indoors.\n\nIn the afternoon, reach Rumbeke Castle. The parking lot is close to the entrance, so the rain won't stop you. Sterrebos Park looks fascinating through the raindrops on your windows.\n\nEnd your day relaxed in the center, where city lights reflect beautifully on the wet asphalt."
+          },
+          "stops": [
+            {
+              "name": "Central Parking & Grote Markt",
+              "tip_5lang": {
+                "de": "Tiefgaragen nutzen, um trocken ins Zentrum zu kommen.",
+                "hu": "Használjon mélygarázst, hogy szárazon jusson a központba.",
+                "ro": "Folosiți parcările subterane pentru a ajunge uscat în centru.",
+                "en": "Use underground parking to stay dry while entering the center."
+              }
+            },
+            {
+              "name": "City Hall of Roeselare",
+              "tip_5lang": {
+                "de": "Kurzzeitparkplätze direkt am Markt sind begrenzt.",
+                "hu": "A rövid távú parkolók a piacnál korlátozottak.",
+                "ro": "Locurile de parcare pe termen scurt din piață sunt limitate.",
+                "en": "Short-term parking spaces near the market are limited."
+              }
+            },
+            {
+              "name": "Saint Michael's Church",
+              "tip_5lang": {
+                "de": "Ein Schirm für den Weg vom Parkplatz ist nötig.",
+                "hu": "Esernyőre szükség lesz a parkolótól a bejáratig.",
+                "ro": "Aveți nevoie de o umbrelă de la parcare până la intrare.",
+                "en": "An umbrella is needed for the walk from the car."
+              }
+            },
+            {
+              "name": "KOERS (Museum of Cycle Racing)",
+              "tip_5lang": {
+                "de": "Parken Sie im nahen Parkhaus Polenplein.",
+                "hu": "Parkoljon a közeli Polenplein parkolóházban.",
+                "ro": "Parcați în parcarea acoperită Polenplein din apropiere.",
+                "en": "Park in the nearby Polenplein multi-storey car park."
+              }
+            },
+            {
+              "name": "Rodenbach Brewery",
+              "tip_5lang": {
+                "de": "Kostenlose Parkplätze direkt auf dem Gelände.",
+                "hu": "Ingyenes parkolás közvetlenül a helyszínen.",
+                "ro": "Parcare gratuită direct în incintă.",
+                "en": "Free parking available directly on site."
+              }
+            },
+            {
+              "name": "Rumbeke Castle & Sterrebos Park",
+              "tip_5lang": {
+                "de": "Vorsicht bei Pfützen auf dem Parkplatz.",
+                "hu": "Vigyázzon a tócsákra a parkolóban.",
+                "ro": "Atenție la bălțile din parcare.",
+                "en": "Watch out for puddles in the parking area."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Park-and-Ride Möglichkeiten.",
+              "Achten Sie auf schlechte Sicht bei starkem Regen.",
+              "Die Parkhäuser im Zentrum sind meist trocken erreichbar.",
+              "Prüfen Sie den Reifendruck für nasse Straßen."
+            ],
+            "hu": [
+              "Használja a P+R parkolókat.",
+              "Figyeljen a korlátozott látási viszonyokra esőben.",
+              "A központi parkolóházakból szárazon kijuthat.",
+              "Ellenőrizze a gumiabroncsok állapotát a vizes utakra."
+            ],
+            "ro": [
+              "Folosiți opțiunile Park-and-Ride.",
+              "Atenție la vizibilitatea redusă pe ploaie torențială.",
+              "Parcările acoperite din centru sunt accesibile uscat.",
+              "Verificați presiunea anvelopelor pentru drumuri umede."
+            ],
+            "en": [
+              "Use Park-and-Ride options where available.",
+              "Be aware of reduced visibility during heavy rain.",
+              "City center car parks often offer covered access.",
+              "Check tire conditions for wet road surfaces."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein winterlicher Roadtrip durch Roeselare beginnt am Grote Markt. Die Sitzheizung macht die Fahrt zwischen den Sehenswürdigkeiten angenehm. Das Rathaus glänzt in der tiefstehenden Wintersonne.\n\nMittags ist das KOERS-Museum eine willkommene warme Station. Danach geht es weiter zur Rodenbach-Brauerei, wo der Kontrast zwischen der Kälte draußen und der Gemütlichkeit drinnen perfekt ist.\n\nDas Schloss Rumbeke wirkt im Winter wie aus einem Märchen. Parken Sie direkt am Sterrebos-Park für einen kurzen, knackigen Winterspaziergang, bevor es dunkel wird.\n\nBeenden Sie den Tag im warmen Stadtzentrum. Die beleuchteten Schaufenster laden zum Verweilen ein, während Sie nach einem Parkplatz suchen.",
+            "hu": "Téli autós kirándulás Roeselare-ben, kezdve a Grote Markton. Az ülésfűtés kellemessé teszi az utat a látnivalók között. A városháza ragyog az alacsonyan járó téli napfényben.\n\nDélben a KOERS múzeum barátságos, meleg pont. Ezután irány a Rodenbach sörfőzde, ahol a kinti hideg és a benti hangulat kontrasztja tökéletes.\n\nA Rumbeke kastély télen olyan, mint egy tündérmese. Parkoljon közvetlenül a Sterrebos parknál egy rövid, frissítő téli sétához, mielőtt besötétedik.\n\nA napot a meleg belvárosban zárja. A kivilágított kirakatok hívogatóak, miközben parkolóhelyet keres az esti vacsorához.",
+            "ro": "O excursie auto de iarnă prin Roeselare începe în Grote Markt. Scaunele încălzite fac drumul între obiective foarte plăcut. Primăria strălucește în soarele palid de iarnă.\n\nLa prânz, muzeul KOERS este o oprire caldă binevenită. Urmează fabrica Rodenbach, unde contrastul dintre frigul de afară și confortul din interior este perfect.\n\nCastelul Rumbeke arată ca într-un basm iarna. Parcați direct lângă Parcul Sterrebos pentru o plimbare scurtă și revigorantă înainte de lăsarea serii.\n\nÎncheiați ziua în centrul cald al orașului. Vitrinele luminate vă invită la o plimbare după ce găsiți un loc de parcare.",
+            "en": "A winter road trip through Roeselare starts at Grote Markt. Heated seats make the drive between sights very pleasant. The City Hall shines in the low-hanging winter sun.\n\nAt noon, the KOERS museum is a welcome warm stop. Then continue to Rodenbach Brewery, where the contrast between the cold outside and the coziness inside is perfect.\n\nRumbeke Castle looks like something out of a fairy tale in winter. Park right at Sterrebos Park for a short, crisp winter walk before dark.\n\nEnd your day in the warm city center. The illuminated shop windows are inviting as you look for a spot to park for dinner."
+          },
+          "stops": [
+            {
+              "name": "Central Parking & Grote Markt",
+              "tip_5lang": {
+                "de": "Scheiben rechtzeitig enteisen vor der Abfahrt.",
+                "hu": "Indulás előtt időben jégtelenítse a szélvédőt.",
+                "ro": "Dezghețați geamurile la timp înainte de plecare.",
+                "en": "De-ice your windows thoroughly before starting."
+              }
+            },
+            {
+              "name": "City Hall of Roeselare",
+              "tip_5lang": {
+                "de": "Parkplatzsuche kann bei Wintermärkten länger dauern.",
+                "hu": "A parkolókeresés téli vásárok idején tovább tarthat.",
+                "ro": "Căutarea unui loc de parcare poate dura mai mult în timpul târgurilor de iarnă.",
+                "en": "Finding a parking spot may take longer during winter markets."
+              }
+            },
+            {
+              "name": "Saint Michael's Church",
+              "tip_5lang": {
+                "de": "Vorsicht vor glatten Stellen auf dem Gehweg.",
+                "hu": "Vigyázzon a csúszós foltokra a járdán.",
+                "ro": "Atenție la porțiunile alunecoase de pe trotuar.",
+                "en": "Watch out for icy patches on the sidewalk."
+              }
+            },
+            {
+              "name": "KOERS (Museum of Cycle Racing)",
+              "tip_5lang": {
+                "de": "Parkhäuser sind im Winter oft voll.",
+                "hu": "A parkolóházak télen gyakran megtelnek.",
+                "ro": "Parcările acoperite sunt adesea pline iarna.",
+                "en": "Indoor car parks are often full in winter."
+              }
+            },
+            {
+              "name": "Rodenbach Brewery",
+              "tip_5lang": {
+                "de": "Warme Kleidung im Auto lassen für die Besichtigung.",
+                "hu": "Hagyja a meleg ruhát az autóban a túra idejére.",
+                "ro": "Lăsați hainele groase în mașină pentru vizită.",
+                "en": "Keep warm coats in the car for the short walk to the entrance."
+              }
+            },
+            {
+              "name": "Rumbeke Castle & Sterrebos Park",
+              "tip_5lang": {
+                "de": "Eiskratzer im Auto bereitstellen.",
+                "hu": "Készítse elő a jégkaparót az autóban.",
+                "ro": "Pregătiți răzuitoarea de gheață în mașină.",
+                "en": "Keep an ice scraper handy in the car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Frostschutz in der Scheibenwaschanlage.",
+              "Vermeiden Sie hektische Lenkbewegungen bei Glätte.",
+              "Die Straßenreinigung ist in Roeselare meist sehr effizient.",
+              "Nutzen Sie die Park-Apps, um Kälte am Automaten zu vermeiden."
+            ],
+            "hu": [
+              "Ellenőrizze a fagyállót a szélvédőmosóban.",
+              "Kerülje a hirtelen kormánymozdulatokat csúszós úton.",
+              "Az úteltakarítás Roeselare-ben általában hatékony.",
+              "Használjon parkolási appot, hogy ne kelljen a hidegben az automatánál állni."
+            ],
+            "ro": [
+              "Verificați antigelul în lichidul de parbriz.",
+              "Evitați mișcările bruște de volan pe polei.",
+              "Deszăpezirea în Roeselare este de obicei eficientă.",
+              "Folosiți aplicații de parcare pentru a evita frigul la automat."
+            ],
+            "en": [
+              "Check the antifreeze level in your washer fluid.",
+              "Avoid sudden steering movements on slippery roads.",
+              "Road clearing in Roeselare is usually very efficient.",
+              "Use parking apps to avoid standing at meters in the cold."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1136,6 +1682,170 @@
           "Download the local transit company's app for real-time schedules.",
           "Be aware of the last bus time, especially from more remote locations like Rumbeke Castle."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie die Busse von De Lijn, um trocken durch Roeselare zu kommen. Vom Grote Markt ist es nur ein kurzer Sprung zur nächsten Haltestelle. Die St.-Michaels-Kirche bietet Schutz, während Sie auf den nächsten Bus warten.\n\nMittags erreichen Sie bequem das KOERS-Museum. Das Warten an den Haltestellen ist dank der Unterstände meist kein Problem. Danach führt die Fahrt zur Rodenbach-Brauerei, die gut an das Busnetz angebunden ist.\n\nAm Nachmittag bringt Sie der Bus in die Nähe von Schloss Rumbeke. Der kurze Fußweg durch den Sterrebos-Park ist im Regen erfrischend. Die Busse sind gut beheizt und bieten eine trockene Pause.\n\nZurück im Zentrum können Sie den Tag in einer gemütlichen Bar ausklingen lassen. Die öffentlichen Verkehrsmittel sind die beste Wahl, um dem Regen zu trotzen.",
+            "hu": "Használja a De Lijn buszait, hogy szárazon járja be Roeselare-t. A Grote Marktról csak pár lépés a legközelebbi megálló. A Szent Mihály-templom menedéket nyújt a busz érkezéséig.\n\nDélben kényelmesen eljuthat a KOERS múzeumba. A megállókban lévő várók védenek az esőtől. Ezután jöhet a Rodenbach sörfőzde, mely jól megközelíthető tömegközlekedéssel.\n\nDélután a busz a Rumbeke kastély közelében teszi le. A rövid séta a Sterrebos parkon át esőben is frissítő. A buszok fűtöttek és száraz pihenőt kínálnak.\n\nA központba visszatérve zárja a napot egy bárban. A tömegközlekedés a legjobb választás esős időben.",
+            "ro": "Folosiți autobuzele De Lijn pentru a traversa Roeselare fără a vă uda. De la Grote Markt este doar un pas până la următoarea stație. Biserica Sfântul Mihail oferă adăpost în timp ce așteptați autobuzul.\n\nLa prânz, ajungeți confortabil la muzeul KOERS. Așteptarea în stații este în mare parte fără probleme datorită copertinelor. Urmează vizita la fabrica Rodenbach, bine conectată la rețeaua de transport.\n\nDupă-amiaza, autobuzul vă lasă aproape de Castelul Rumbeke. Scurta plimbare prin Parcul Sterrebos este revigorantă pe ploaie. Autobuzele sunt bine încălzite și oferă o pauză uscată.\n\nÎnapoi în centru, încheiați ziua într-un bar primitor. Transportul public este cea mai bună alegere pentru a înfrunta ploaia.",
+            "en": "Use De Lijn buses to stay dry while navigating Roeselare. From Grote Markt, it's just a short dash to the nearest stop. Saint Michael's Church offers a dry spot while you check bus timings.\n\nAt noon, reach the KOERS museum comfortably. Waiting at bus stops is usually fine thanks to the shelters. Next, head to Rodenbach Brewery, which is well-connected to the bus network.\n\nIn the afternoon, the bus drops you near Rumbeke Castle. The brief walk through Sterrebos Park is refreshing in the rain. Buses are well-heated and provide a dry break between sights.\n\nBack in the center, wrap up your day in a cozy bar. Public transport is the best way to defy the rainy weather."
+          },
+          "stops": [
+            {
+              "name": "Grote Markt & City Hall",
+              "tip_5lang": {
+                "de": "Haltestellen mit Überdachung bevorzugen.",
+                "hu": "Válasszon fedett buszmegállókat.",
+                "ro": "Preferați stațiile de autobuz cu copertină.",
+                "en": "Prefer bus stops with shelters."
+              }
+            },
+            {
+              "name": "Saint Michael's Church",
+              "tip_5lang": {
+                "de": "Fahrplan online prüfen, um Wartezeit im Regen zu minimieren.",
+                "hu": "Nézze meg a menetrendet online, hogy keveset várjon az esőben.",
+                "ro": "Verificați orarul online pentru a minimiza așteptarea în ploaie.",
+                "en": "Check schedules online to minimize waiting in the rain."
+              }
+            },
+            {
+              "name": "KOERS (Museum of Cycle Racing)",
+              "tip_5lang": {
+                "de": "Der Fußweg von der Haltestelle ist sehr kurz.",
+                "hu": "A gyalogút a megállótól igen rövid.",
+                "ro": "Drumul pe jos de la stație este foarte scurt.",
+                "en": "The walk from the bus stop is very short."
+              }
+            },
+            {
+              "name": "Rodenbach Brewery",
+              "tip_5lang": {
+                "de": "Buslinien 1, 2 oder 60 nutzen.",
+                "hu": "Használja az 1-es, 2-es vagy 60-as buszvonalat.",
+                "ro": "Folosiți liniile de autobuz 1, 2 sau 60.",
+                "en": "Use bus lines 1, 2, or 60 to get here."
+              }
+            },
+            {
+              "name": "Rumbeke Castle",
+              "tip_5lang": {
+                "de": "Ein stabiler Schirm für den Parkweg ist wichtig.",
+                "hu": "Fontos egy erős esernyő a parki sétához.",
+                "ro": "O umbrelă rezistentă este importantă pentru drumul prin parc.",
+                "en": "A sturdy umbrella is important for the walk through the park."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie Tickets vorab über die De Lijn App.",
+              "Nutzen Sie die Echtzeit-Info an den Haltestellen.",
+              "Die Busse sind im Winter und bei Regen angenehm beheizt.",
+              "Vermeiden Sie Stoßzeiten am späten Nachmittag."
+            ],
+            "hu": [
+              "Vegye meg jegyét előre a De Lijn alkalmazásban.",
+              "Használja a valós idejű információkat a megállókban.",
+              "A buszok télen és esőben kellemesen fűtöttek.",
+              "Kerülje a késő délutáni csúcsforgalmat."
+            ],
+            "ro": [
+              "Cumpărați bilete în avans prin aplicația De Lijn.",
+              "Folosiți informațiile în timp real din stații.",
+              "Autobuzele sunt bine încălzite iarna și pe ploaie.",
+              "Evitați orele de vârf de după-amiază târziu."
+            ],
+            "en": [
+              "Buy tickets in advance using the De Lijn app.",
+              "Use the real-time information displays at stops.",
+              "Buses are pleasantly heated during rain and winter.",
+              "Avoid peak hours in the late afternoon if possible."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihren Wintertag in Roeselare mit dem Bus. Am Grote Markt herrscht frostige Stimmung, aber der Bus bringt Sie schnell ins Warme. Das Rathaus sieht unter einem möglichen Schneeschleier bezaubernd aus.\n\nMittags ist das KOERS-Museum eine perfekte Station zum Aufwärmen. Die kurzen Wege zwischen Haltestelle und Museum minimieren die Zeit in der Kälte. Danach geht es zur Rodenbach-Brauerei für eine winterliche Verkostung.\n\nDer Bus bringt Sie am Nachmittag zum Schloss Rumbeke. Der Sterrebos-Park ist im Winterlicht besonders ruhig. Achten Sie auf die Zeit, da die Busse im Winter nach dem frühen Sonnenuntergang seltener fahren könnten.\n\nBeenden Sie den Tag im Stadtzentrum. Die beleuchteten Straßen bieten einen warmen Empfang, bevor Sie den Bus zurück nehmen.",
+            "hu": "Kezdje téli napját Roeselare-ben busszal. A Grote Markton fagyos a hangulat, de a busz hamar melegbe viszi. A városháza varázslatosan festhet egy esetleges hólepel alatt.\n\nDélben a KOERS múzeum tökéletes állomás a felmelegedéshez. A megálló és a múzeum közötti rövid táv minimalizálja a hidegben töltött időt. Ezután irány a Rodenbach sörfőzde egy téli kóstolóra.\n\nDélután a busz elviszi a Rumbeke kastélyhoz. A Sterrebos park a téli fényekben különösen csendes. Figyeljen az időre, mert a buszok ritkábban járhatnak a korai naplemente után.\n\nA napot a belvárosban zárja. A kivilágított utcák barátságos fogadtatást nyújtanak, mielőtt visszaszállna a buszra.",
+            "ro": "Începeți ziua de iarnă în Roeselare cu autobuzul. În Grote Markt atmosfera este geroasă, dar autobuzul vă duce rapid la căldură. Primăria arată fermecător sub un posibil strat de zăpadă.\n\nLa prânz, muzeul KOERS este o oprire perfectă pentru încălzire. Distanța scurtă dintre stație și muzeu minimizează timpul petrecut în frig. Urmează fabrica Rodenbach pentru o degustare de iarnă.\n\nAutobuzul vă duce după-amiaza la Castelul Rumbeke. Parcul Sterrebos este deosebit de liniștit în lumina iernii. Atenție la orar, deoarece autobuzele pot circula mai rar după apusul devreme.\n\nÎncheiați ziua în centrul orașului. Străzile luminate oferă o primire călduroasă înainte de a lua autobuzul înapoi.",
+            "en": "Start your winter day in Roeselare by bus. While it's frosty at Grote Markt, the bus will quickly get you into the warmth. The City Hall looks enchanting under a potential dusting of snow.\n\nAt noon, the KOERS museum is a perfect stop for warming up. The short distance between the stop and the museum minimizes your time in the cold. Next, head to Rodenbach Brewery for a winter tasting.\n\nIn the afternoon, take the bus to Rumbeke Castle. Sterrebos Park is particularly quiet in the winter light. Keep an eye on the time, as buses might run less frequently after the early sunset.\n\nEnd your day in the city center. The lit-up streets offer a warm welcome before you catch the bus back."
+          },
+          "stops": [
+            {
+              "name": "Grote Markt & City Hall",
+              "tip_5lang": {
+                "de": "Warten Sie in einem nahen Café auf den Bus.",
+                "hu": "Várjon a buszra egy közeli kávézóban.",
+                "ro": "Așteptați autobuzul într-o cafenea din apropiere.",
+                "en": "Wait for the bus inside a nearby cafe to stay warm."
+              }
+            },
+            {
+              "name": "Saint Michael's Church",
+              "tip_5lang": {
+                "de": "Der Busbahnhof ist nur wenige Gehminuten entfernt.",
+                "hu": "A buszpályaudvar csak pár perc gyalog.",
+                "ro": "Autogara este la doar câteva minute de mers pe jos.",
+                "en": "The bus station is only a few minutes' walk away."
+              }
+            },
+            {
+              "name": "KOERS (Museum of Cycle Racing)",
+              "tip_5lang": {
+                "de": "Haltestellen sind im Winter oft windig.",
+                "hu": "A megállók télen gyakran szelesek.",
+                "ro": "Stațiile sunt adesea vântoase iarna.",
+                "en": "Bus stops can be quite windy in winter."
+              }
+            },
+            {
+              "name": "Rodenbach Brewery",
+              "tip_5lang": {
+                "de": "Abends Fahrpläne für die Rückfahrt prüfen.",
+                "hu": "Este ellenőrizze a visszautat a menetrendben.",
+                "ro": "Verificați orarul pentru întoarcerea de seară.",
+                "en": "Check the evening schedules for your return trip."
+              }
+            },
+            {
+              "name": "Rumbeke Castle",
+              "tip_5lang": {
+                "de": "Der Fußweg zum Schloss kann bei Eis glatt sein.",
+                "hu": "A kastélyhoz vezető út jeges időben csúszós lehet.",
+                "ro": "Aleea spre castel poate fi alunecoasă în caz de îngheț.",
+                "en": "The walk to the castle can be slippery in icy conditions."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie warme Kleidung für die Wartezeiten.",
+              "Die De Lijn App zeigt Verspätungen in Echtzeit an.",
+              "Im Winter ist der Bus der sicherste Weg bei Glätte.",
+              "Die Heizung in den Bussen ist meist sehr effektiv."
+            ],
+            "hu": [
+              "Viseljen meleg ruhát a várakozási időkre.",
+              "A De Lijn alkalmazás mutatja a késéseket.",
+              "Télen a busz a legbiztonságosabb jeges utakon.",
+              "A buszok fűtése általában nagyon hatékony."
+            ],
+            "ro": [
+              "Purtați haine groase pentru timpii de așteptare.",
+              "Aplicația De Lijn arată întârzierile în timp real.",
+              "Iarna, autobuzul este cea mai sigură cale pe drumuri înghețate.",
+              "Încălzirea în autobuze este de obicei foarte eficientă."
+            ],
+            "en": [
+              "Wear warm clothing for the waiting periods at stops.",
+              "The De Lijn app shows delays in real-time.",
+              "In winter, the bus is the safest way to travel on icy roads.",
+              "The heating on the buses is usually very effective."
+            ]
+          }
+        }
       }
     }
   }

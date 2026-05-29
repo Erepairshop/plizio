@@ -386,6 +386,206 @@
           "Most shops and museums might close during midday for a siesta.",
           "Embrace the slow pace of life and take your time for a coffee."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag am regnerischen Zentralplatz unter den Arkaden. Der Vormittag führt Sie in die schützende Agio-Georgios-Kirche und die beeindruckende Folklore-Sammlung. Nachmittags bietet das Kulturzentrum einen trockenen Rückzugsort, bevor Sie den Tag an den nebligen Ufern des Enipeas ausklingen lassen. Ein Tag voller Kultur, gut geschützt vor den Schauern Thessaliens.",
+            "hu": "Kezdje a napot a központi téren, esőben az épületek ereszei alatt várakozva. A délelőttöt töltse az Ájosz Jeórjiosz-templom falai között és a néprajzi gyűjtemény fedett termeiben. Délután a Kulturális Központ kínál menedéket a záporok elől, majd tegyen egy rövid sétát az Enipeasz folyó partján. A nap végén a vasútállomás indusztriális bája ködben is hangulatos.",
+            "ro": "Începeți ziua în Piața Centrală, căutând adăpost sub streșini. Dimineața vizitați Biserica Agios Georgios și Colecția de Folclor, ambele oferind protecție împotriva ploii. După-amiaza, Centrul Cultural este refugiul perfect, urmat de o plimbare rapidă pe malul râului Enipeas. Chiar și pe ploaie, patrimoniul industrial al vechii gări păstrează o atmosferă melancolică și autentică.",
+            "en": "Start your rainy day at the Central Square, staying close to the covered shopfronts. Spend your morning inside Agios Georgios Church and the Folklore Collection, perfect for escaping the wet weather. In the afternoon, the Cultural Center provides a dry haven before a misty walk by the Enipeas River. The industrial setting of the old station remains evocative even under gray Thessalian skies."
+          },
+          "stops": [
+            {
+              "name": "Central Square",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den Arkaden der umliegenden Cafés.",
+                "hu": "Keressen menedéket a környékbeli kávézók árkádjai alatt.",
+                "ro": "Căutați adăpost sub arcadele cafenelelor din jur.",
+                "en": "Find shelter under the arcades of the surrounding cafes."
+              }
+            },
+            {
+              "name": "Church of Agios Georgios",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um einen starken Regenschauer trocken abzuwarten.",
+                "hu": "Ideális helyszín egy intenzívebb zápor szárazon történő megvárásához.",
+                "ro": "Un loc ideal pentru a aștepta trecerea unei ploi torențiale.",
+                "en": "An ideal spot to wait out a heavy downpour in the dry."
+              }
+            },
+            {
+              "name": "War Memorial",
+              "tip_5lang": {
+                "de": "Kurzer Stopp; halten Sie den Regenschirm wegen des Windes fest.",
+                "hu": "Rövid megálló; a szél miatt tartsa erősen az esernyőt.",
+                "ro": "Oprire scurtă; țineți bine umbrela din cauza vântului.",
+                "en": "Short stop; hold your umbrella firmly due to potential wind."
+              }
+            },
+            {
+              "name": "Folklore Collection",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe für nasse Mäntel am Eingang.",
+                "hu": "Használja a bejáratnál található ruhatárat a vizes kabátoknak.",
+                "ro": "Folosiți garderoba de la intrare pentru hainele ude.",
+                "en": "Use the cloakroom at the entrance for wet coats."
+              }
+            },
+            {
+              "name": "Sofades Cultural Center",
+              "tip_5lang": {
+                "de": "Perfekter Ort für eine längere Pause im Trockenen.",
+                "hu": "Tökéletes helyszín egy hosszabb beltéri pihenőhöz.",
+                "ro": "Locul perfect pentru o pauză prelungită la adăpost.",
+                "en": "Perfect place for an extended break in the dry."
+              }
+            },
+            {
+              "name": "Old Train Station",
+              "tip_5lang": {
+                "de": "Vorsicht vor Pfützen auf dem unebenen Bahnsteiggelände.",
+                "hu": "Vigyázzon a tócsákra az egyenetlen peronok környékén.",
+                "ro": "Atenție la bălți în zona peronului denivelat.",
+                "en": "Watch out for puddles around the uneven platform area."
+              }
+            },
+            {
+              "name": "Enipeas Riverbank",
+              "tip_5lang": {
+                "de": "Tragen Sie wasserfeste Schuhe, da die Wege schlammig sein können.",
+                "hu": "Viseljen vízálló cipőt, mert az utak sárosak lehetnek.",
+                "ro": "Purtați încălțăminte impermeabilă, potecile pot fi noroioase.",
+                "en": "Wear waterproof shoes as paths can get muddy."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die vielen Cafés am Zentralplatz für Pausen.",
+              "Achten Sie auf rutschige Pflastersteine in der Altstadt.",
+              "Die Museen sind montags oft geschlossen, prüfen Sie die Zeiten.",
+              "Ein stabiler Regenschirm ist in der offenen Ebene von Karditsa wichtig."
+            ],
+            "hu": [
+              "Használja ki a központi tér kávézóit a pihenőkhöz.",
+              "Vigyázzon a csúszós macskakövekre a belvárosban.",
+              "A múzeumok hétfőn zárva lehetnek, ellenőrizze az időpontokat.",
+              "A nyílt síkságon egy erős esernyő elengedhetetlen a szél miatt."
+            ],
+            "ro": [
+              "Profităm de numeroasele cafenele din piață pentru pauze.",
+              "Atenție la pavajul alunecos din centrul vechi.",
+              "Muzeele pot fi închise lunea, verificați programul.",
+              "O umbrelă rezistentă este esențială în câmpia deschisă."
+            ],
+            "en": [
+              "Take advantage of the many cafes in the square for breaks.",
+              "Watch out for slippery cobblestones in the town center.",
+              "Museums may be closed on Mondays, check hours in advance.",
+              "A sturdy umbrella is essential due to wind in the open plains."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie Sofades im winterlichen Licht. Der kühle Morgen am Zentralplatz wird durch den Besuch der warmen Agio-Georgios-Kirche gemildert. Die Mittagsstunden verbringen Sie in der beheizten Folklore-Sammlung. Da die Sonne früh untergeht, genießen Sie den Blick auf den Enipeas am späten Nachmittag, wenn das Licht über der thessalischen Ebene am schönsten ist.",
+            "hu": "Fedezze fel Szofadeszt a téli fényekben. A hűvös reggelt a központi téren az Ájosz Jeórjiosz-templom áhítata követi. A delet töltse a fűtött néprajzi gyűjteményben. Mivel a nap korán nyugszik, az Enipeasz folyó partját már szürkületben látogatja meg, ami különleges hangulatot ad az indusztriális tájnak és a régi vasútállomásnak.",
+            "ro": "Descoperiți Sofades în lumina iernii. Dimineața rece în Piața Centrală este urmată de vizita la Biserica Agios Georgios. Orele prânzului sunt dedicate Colecției de Folclor, într-un mediu încălzit. Deoarece soarele apune devreme, bucurați-vă de malul râului Enipeas spre sfârșitul după-amiezii, când amurgul coboară peste câmpia Tesaliei.",
+            "en": "Discover Sofades in the crisp winter light. The chilly morning at the Central Square is balanced by the warmth of Agios Georgios Church. Spend your midday hours in the heated Folklore Collection. Since the sun sets early, enjoy the Enipeas riverbank in the late afternoon, as twilight settles over the Thessalian plains and the historic train station."
+          },
+          "stops": [
+            {
+              "name": "Central Square",
+              "tip_5lang": {
+                "de": "Genießen Sie einen heißen griechischen Kaffee zum Aufwärmen.",
+                "hu": "Igyon egy forró görög kávét a felmelegedéshez.",
+                "ro": "Savurați o cafea grecească fierbinte pentru a vă încălzi.",
+                "en": "Enjoy a hot Greek coffee to warm up at the start."
+              }
+            },
+            {
+              "name": "Church of Agios Georgios",
+              "tip_5lang": {
+                "de": "Die Kerzen im Inneren sorgen für eine warme Atmosphäre.",
+                "hu": "A belső térben gyújtott gyertyák meleg hangulatot árasztanak.",
+                "ro": "Lumânările din interior creează o atmosferă caldă.",
+                "en": "The candles inside create a warm and serene atmosphere."
+              }
+            },
+            {
+              "name": "War Memorial",
+              "tip_5lang": {
+                "de": "Kurzer Aufenthalt, da der Wind hier im Winter schneidend sein kann.",
+                "hu": "Rövid megálló, mert a szél itt télen metsző lehet.",
+                "ro": "Oprire scurtă, vântul poate fi tăios aici pe timp de iarnă.",
+                "en": "Short stay, as the wind here can be biting in winter."
+              }
+            },
+            {
+              "name": "Folklore Collection",
+              "tip_5lang": {
+                "de": "Ein idealer, beheizter Ort für die kälteste Zeit des Tages.",
+                "hu": "Ideális, fűtött helyszín a nap leghidegebb óráira.",
+                "ro": "Un loc încălzit ideal pentru cele mai reci ore ale zilei.",
+                "en": "An ideal, heated location for the coldest hours of the day."
+              }
+            },
+            {
+              "name": "Sofades Cultural Center",
+              "tip_5lang": {
+                "de": "Prüfen Sie, ob es winterliche Abendveranstaltungen gibt.",
+                "hu": "Ellenőrizze, hogy vannak-e téli esti előadások.",
+                "ro": "Verificați dacă există evenimente culturale de iarnă.",
+                "en": "Check if there are any indoor winter evening events."
+              }
+            },
+            {
+              "name": "Old Train Station",
+              "tip_5lang": {
+                "de": "Das Licht am frühen Nachmittag ist perfekt für Fotos.",
+                "hu": "A kora délutáni fények tökéletesek a fotózáshoz.",
+                "ro": "Lumina de după-amiază devreme este perfectă pentru fotografii.",
+                "en": "The early afternoon light is perfect for photography."
+              }
+            },
+            {
+              "name": "Enipeas Riverbank",
+              "tip_5lang": {
+                "de": "Achten Sie auf Frost auf den Holzstegen am Fluss.",
+                "hu": "Vigyázzon a fagyra a folyó menti fapallókon.",
+                "ro": "Atenție la îngheț pe pasarelele de lemn de lângă râu.",
+                "en": "Watch out for frost on the wooden walkways near the river."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht gegen 17:00 Uhr unter, planen Sie das Ende ein.",
+              "Tragen Sie Schichten, da es im Schatten sehr kühl wird.",
+              "Einige Außenbereiche von Cafés haben Heizstrahler.",
+              "Die Luftfeuchtigkeit lässt die Kälte in Thessalien stärker wirken."
+            ],
+            "hu": [
+              "A nap 17:00 körül nyugszik, tervezze ehhez a program végét.",
+              "Öltözzön rétegesen, mert az árnyékban sokkal hidegebb van.",
+              "Néhány kávézó teraszán vannak kültéri hősugárzók.",
+              "A páratartalom miatt a hideg erősebbnek érződhet Thesszáliában."
+            ],
+            "ro": [
+              "Soarele apune în jur de ora 17:00, planificați finalul traseului.",
+              "Îmbrăcați-vă în straturi, e mult mai rece la umbră.",
+              "Unele cafenele au încălzitoare pe terase.",
+              "Umiditatea face ca frigul să fie resimțit mai tare în Tesalia."
+            ],
+            "en": [
+              "Sun sets around 17:00, plan your route ending accordingly.",
+              "Dress in layers as it gets much colder in the shade.",
+              "Some cafe terraces are equipped with outdoor heaters.",
+              "Humidity can make the cold feel sharper in the Thessalian plains."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -766,6 +966,206 @@
           "The town is relatively flat, making it ideal for a leisurely bike ride.",
           "A bell is useful to alert pedestrians of your presence."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine erfrischende Radtour durch das regnerische Sofades. Starten Sie vorsichtig am Zentralplatz und nutzen Sie die kurzen Wege zur alten Bahnstation. Die Folklore-Sammlung bietet eine lange Pause zum Trocknen. Trotz Regen ist die flache Landschaft gut befahrbar, wenn man auf die Markierungen achtet. Der Enipeas zeigt sich bei Regen von seiner wilden Seite.",
+            "hu": "Frissítő kerékpártúra az esős Szofadeszben. Kezdjen óvatosan a központi téren, kihasználva a rövid távokat a régi vasútállomásig. A néprajzi gyűjtemény hosszú pihenőt kínál a száradáshoz. Az eső ellenére a sík terep jól tekerhető, ha figyel az útburkolati jelekre. Az Enipeasz folyó partja esőben vadregényes arcát mutatja.",
+            "ro": "O tură revigorantă cu bicicleta prin Sofades pe ploaie. Începeți cu prudență din Piața Centrală, profitând de distanțele scurte până la vechea gară. Colecția de Folclor oferă o pauză lungă pentru uscare. În ciuda ploii, terenul plat este ușor de parcurs dacă sunteți atenți la marcaje. Malul râului Enipeas capătă un aspect sălbatic pe vreme ploioasă.",
+            "en": "A refreshing bike ride through rainy Sofades. Start carefully from the Central Square, taking advantage of short distances to the old station. The Folklore Collection offers a long break to dry off. Despite the rain, the flat terrain is easily cyclable if you watch out for road markings. The Enipeas riverbank shows its wild side under the rain."
+          },
+          "stops": [
+            {
+              "name": "Central Square",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Reifendruck für bessere Haftung auf nassem Grund.",
+                "hu": "Ellenőrizze a guminyomást a jobb tapadásért nedves úton.",
+                "ro": "Verificați presiunea în pneuri pentru aderență pe carosabil ud.",
+                "en": "Check tire pressure for better grip on wet surfaces."
+              }
+            },
+            {
+              "name": "Old Train Station",
+              "tip_5lang": {
+                "de": "Die Metallschienen können bei Nässe extrem rutschig sein.",
+                "hu": "A fém sínek nedvesen rendkívül csúszósak lehetnek.",
+                "ro": "Șinele de metal pot fi extrem de alunecoase când sunt ude.",
+                "en": "Metal tracks can be extremely slippery when wet."
+              }
+            },
+            {
+              "name": "Enipeas Riverbank",
+              "tip_5lang": {
+                "de": "Vorsicht bei Schlammansammlungen auf dem Radweg.",
+                "hu": "Vigyázzon a sárfelhalmozódásokra a kerékpárúton.",
+                "ro": "Atenție la acumulările de noroi de pe pista de biciclete.",
+                "en": "Watch out for mud buildup on the bike path."
+              }
+            },
+            {
+              "name": "Church of Agia Paraskevi",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter das Vordach, falls möglich.",
+                "hu": "Ha lehetséges, állítsa a kerékpárt az előtető alá.",
+                "ro": "Parcați bicicleta sub copertină dacă este posibil.",
+                "en": "Park your bike under a canopy if possible to keep it dry."
+              }
+            },
+            {
+              "name": "Sofades Cultural Center",
+              "tip_5lang": {
+                "de": "Ein guter Ort, um die Regenkleidung kurz auszuschütteln.",
+                "hu": "Jó hely az esőruházat rövid lerázásához.",
+                "ro": "Un loc bun pentru a scutura rapid pelerina de ploaie.",
+                "en": "A good place to briefly shake off your rain gear."
+              }
+            },
+            {
+              "name": "Folklore Collection",
+              "tip_5lang": {
+                "de": "Sichere Fahrradständer befinden sich in der Nähe des Eingangs.",
+                "hu": "Biztonságos kerékpártárolók találhatók a bejárat közelében.",
+                "ro": "Suporturi de biciclete sigure se află lângă intrare.",
+                "en": "Secure bike racks are located near the entrance."
+              }
+            },
+            {
+              "name": "Church of Agios Georgios",
+              "tip_5lang": {
+                "de": "Letzter Stopp; wischen Sie den Sattel vor der Weiterfahrt ab.",
+                "hu": "Utolsó megálló; törölje le a nyerget a továbbindulás előtt.",
+                "ro": "Ultima oprire; ștergeți șaua înainte de a pleca mai departe.",
+                "en": "Final stop; wipe your saddle before continuing."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine auffällige Regenjacke für bessere Sichtbarkeit.",
+              "Vermeiden Sie plötzliches Bremsen auf nassem Asphalt.",
+              "Kotflügel sind bei diesem Wetter in Thessalien ein Muss.",
+              "Die Wege am Fluss können nach starkem Regen gesperrt sein."
+            ],
+            "hu": [
+              "Viseljen feltűnő esőkabátot a jobb láthatóságért.",
+              "Kerülje a hirtelen fékezést a nedves aszfalton.",
+              "A sárvédő elengedhetetlen ilyenkor Thesszáliában.",
+              "A folyóparti utak heves esőzés után lezárva lehetnek."
+            ],
+            "ro": [
+              "Purtați o pelerină de ploaie reflectorizantă pentru vizibilitate.",
+              "Evitați frânarea bruscă pe asfaltul ud.",
+              "Apărătorile de noroi sunt obligatorii pe această vreme.",
+              "Potecile de pe malul râului pot fi închise după ploi grele."
+            ],
+            "en": [
+              "Wear a bright raincoat for better visibility to drivers.",
+              "Avoid sudden braking on wet asphalt surfaces.",
+              "Mudguards are a must-have in this weather in Thessaly.",
+              "Riverbank paths might be closed after heavy rainfall."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in Sofades erfordert warme Handschuhe, belohnt aber mit klaren Aussichten. Starten Sie am kühlen Zentralplatz und radeln Sie zur historischen Bahnstation. Die flache Ebene lässt den Wind spürbar werden, aber die Besuche in den Kirchen und Museen bieten wohlverdiente Aufwärmpausen. Ein sportlicher Tag in der thessalischen Winterlandschaft.",
+            "hu": "A téli kerékpározás Szofadeszben meleg kesztyűt igényel, de tiszta kilátással jutalmaz. Kezdjen a hűvös központi téren, majd tekerjen a történelmi vasútállomáshoz. A síkságon a szél érezhető, de a templomok és múzeumok látogatása megérdemelt felmelegedést nyújt. Sportos nap a thesszáliai téli tájban.",
+            "ro": "Mersul cu bicicleta iarna în Sofades necesită mănuși groase, dar oferă panorame clare. Începeți în Piața Centrală și pedalați spre gara istorică. Câmpia face vântul resimțit, dar vizitele la biserici și muzee oferă pauze binemeritate pentru încălzire. O zi sportivă în peisajul de iarnă al Tesaliei.",
+            "en": "Winter cycling in Sofades requires warm gloves but rewards you with clear views. Start at the chilly Central Square and cycle to the historic train station. The flat plains make the wind noticeable, but visits to churches and museums provide well-deserved warming breaks. A sporty day in the Thessalian winter landscape."
+          },
+          "stops": [
+            {
+              "name": "Central Square",
+              "tip_5lang": {
+                "de": "Starten Sie langsam, um die Gelenke an die Kälte zu gewöhnen.",
+                "hu": "Kezdjen lassan, hogy az ízületei hozzászokjanak a hideghez.",
+                "ro": "Începeți lent pentru a obișnui articulațiile cu frigul.",
+                "en": "Start slowly to let your joints adjust to the cold."
+              }
+            },
+            {
+              "name": "Old Train Station",
+              "tip_5lang": {
+                "de": "Vorsicht vor Reifglätte auf den Steinböden.",
+                "hu": "Vigyázzon a zúzmarás, csúszós kőburkolatokra.",
+                "ro": "Atenție la polei pe suprafețele de piatră.",
+                "en": "Watch out for frost/ice on the stone floorings."
+              }
+            },
+            {
+              "name": "Enipeas Riverbank",
+              "tip_5lang": {
+                "de": "Der Wind am Fluss kann die gefühlte Temperatur senken.",
+                "hu": "A folyóparti szél csökkentheti a hőérzetet.",
+                "ro": "Vântul de lângă râu poate scădea temperatura resimțită.",
+                "en": "The wind by the river can significantly lower the wind chill."
+              }
+            },
+            {
+              "name": "Church of Agia Paraskevi",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Innenraum für eine kurze Windpause.",
+                "hu": "Használja a belső teret egy rövid szélvédett pihenőre.",
+                "ro": "Folosiți interiorul pentru o scurtă pauză de vânt.",
+                "en": "Use the interior for a brief break from the wind."
+              }
+            },
+            {
+              "name": "Sofades Cultural Center",
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihre Beleuchtung funktioniert.",
+                "hu": "Győződjön meg róla, hogy a világítása jól működik.",
+                "ro": "Asigurați-vă că luminile bicicletei funcționează corect.",
+                "en": "Ensure your bike lights are working for the early dusk."
+              }
+            },
+            {
+              "name": "Folklore Collection",
+              "tip_5lang": {
+                "de": "Lassen Sie die Handschuhe zum Aufwärmen kurz an.",
+                "hu": "Hagyja magán a kesztyűt egy kicsit a felmelegedéshez.",
+                "ro": "Păstrați mănușile un moment pentru a vă încălzi mâinile.",
+                "en": "Keep your gloves on for a moment inside to warm up."
+              }
+            },
+            {
+              "name": "Church of Agios Georgios",
+              "tip_5lang": {
+                "de": "Ein ruhiger Abschluss vor der Rückfahrt im Dämmerlicht.",
+                "hu": "Nyugodt zárás a szürkületi visszaindulás előtt.",
+                "ro": "Un final liniștit înainte de întoarcerea pe amurg.",
+                "en": "A peaceful conclusion before riding back in the twilight."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Kleidung, besonders für die Beine.",
+              "Die Akkus von E-Bikes entladen sich bei Kälte schneller.",
+              "Trinken Sie auch bei Kälte genug Wasser.",
+              "Glatteis ist in den frühen Morgenstunden in Sofades möglich."
+            ],
+            "hu": [
+              "Viseljen szélálló ruházatot, különösen a lábakon.",
+              "Az e-bike akkumulátorok gyorsabban merülnek hidegben.",
+              "Hidegben is igyon elegendő vizet.",
+              "Szofadeszben a kora reggeli órákban jegesedés várható."
+            ],
+            "ro": [
+              "Purtați haine rezistente la vânt, în special pentru picioare.",
+              "Bateriile bicicletelor electrice se descarcă mai repede la frig.",
+              "Beți suficientă apă chiar dacă este rece afară.",
+              "Poleiul este posibil în orele dimineții în Sofades."
+            ],
+            "en": [
+              "Wear windproof clothing, especially for your legs.",
+              "E-bike batteries drain faster in cold temperatures.",
+              "Stay hydrated even when it is cold outside.",
+              "Black ice is possible in the early morning hours in Sofades."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1146,6 +1546,206 @@
           "Be mindful of the speed limits within the town.",
           "The car gives you the flexibility to also explore nearby villages if you have time."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Genießen Sie Sofades bequem mit dem Auto, ideal bei schlechtem Wetter. Die Route verbindet die wichtigsten Sehenswürdigkeiten mit nahen Parkmöglichkeiten. Vormittags besuchen Sie die Kirchen und Museen trocken, während der Regen gegen die Scheiben prasselt. Die Fahrt zum Enipeas-Ufer bietet auch bei Niederschlag schöne Ausblicke aus dem warmen Fahrzeuginneren.",
+            "hu": "Élvezze Szofadeszt kényelmesen, autóval, ami ideális rossz időben. Az útvonal közeli parkolási lehetőségekkel köti össze a főbb látnivalókat. Délelőtt szárazon látogathatja a templomokat és múzeumokat, miközben az eső veri az ablakot. Az Enipeasz-parthoz vezető út a jármű melegéből is szép kilátást nyújt csapadékos időben is.",
+            "ro": "Bucurați-vă de Sofades confortabil cu mașina, ideal pe vreme rea. Traseul conectează principalele atracții cu parcări apropiate. Dimineața vizitați bisericile și muzeele la adăpost, în timp ce ploaia bate în geam. Drumul spre malul râului Enipeas oferă priveliști frumoase din interiorul cald al vehiculului, chiar și pe ploaie.",
+            "en": "Enjoy Sofades comfortably by car, ideal for inclement weather. The route links major sights with nearby parking options. In the morning, visit churches and museums while staying dry. The drive to the Enipeas riverbank offers scenic views from the warmth of your vehicle, even when the rain is pouring outside."
+          },
+          "stops": [
+            {
+              "name": "Parking at Central Square (Cluster A)",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Ausgang, um den Weg im Regen zu verkürzen.",
+                "hu": "Parkoljon a kijárathoz közel, hogy lerövidítse az utat az esőben.",
+                "ro": "Parcați aproape de ieșire pentru a scurta drumul prin ploaie.",
+                "en": "Park close to the exit to minimize walking in the rain."
+              }
+            },
+            {
+              "name": "Church of Agios Georgios",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Regenschirm für die wenigen Meter zum Eingang.",
+                "hu": "Használjon esernyőt a bejáratig tartó pár méteres úton.",
+                "ro": "Folosiți umbrela pentru puținii metri până la intrare.",
+                "en": "Use an umbrella for the short walk to the entrance."
+              }
+            },
+            {
+              "name": "Folklore Collection",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist oft pfützenreich, achten Sie beim Aussteigen darauf.",
+                "hu": "A parkoló gyakran tócsás, figyeljen kiszálláskor.",
+                "ro": "Parcarea are adesea bălți, atenție la coborâre.",
+                "en": "The parking lot often has puddles, be careful when exiting."
+              }
+            },
+            {
+              "name": "Parking at Old Station (Cluster B)",
+              "tip_5lang": {
+                "de": "Halten Sie die Fenster leicht offen gegen das Beschlagen.",
+                "hu": "Tartsa az ablakokat résnyire nyitva a párásodás ellen.",
+                "ro": "Țineți geamurile ușor deschise împotriva aburirii.",
+                "en": "Keep windows slightly cracked to prevent fogging."
+              }
+            },
+            {
+              "name": "Enipeas Riverbank",
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Regen im Auto und genießen Sie die Sicht.",
+                "hu": "Heves esőben maradjon az autóban, és élvezze a kilátást.",
+                "ro": "Rămâneți în mașină în caz de ploaie grea și admirați râul.",
+                "en": "Stay in the car during heavy rain and enjoy the view."
+              }
+            },
+            {
+              "name": "Cultural Center (Cluster C)",
+              "tip_5lang": {
+                "de": "Es gibt überdachte Parkplätze in der näheren Umgebung.",
+                "hu": "A közelben találhatók fedett parkolóhelyek.",
+                "ro": "Există locuri de parcare acoperite în imediata apropiere.",
+                "en": "There are covered parking spots available nearby."
+              }
+            },
+            {
+              "name": "Church of Agia Paraskevi",
+              "tip_5lang": {
+                "de": "Kurzer Sprint zum Eingang; der Boden kann rutschig sein.",
+                "hu": "Rövid sprint a bejáratig; a talaj csúszós lehet.",
+                "ro": "Sprint scurt până la intrare; solul poate fi alunecos.",
+                "en": "Quick sprint to the entrance; the ground may be slippery."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Scheibenwischer vor der Abfahrt.",
+              "Achten Sie auf Aquaplaning auf den Landstraßen Thessaliens.",
+              "Die Sicht kann durch Nebel in der Ebene stark eingeschränkt sein.",
+              "Parken Sie nicht unter instabilen Bäumen bei Wind."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze az ablaktörlőket.",
+              "Vigyázzon a vízenfutásra (aquaplaning) a thesszáliai utakon.",
+              "A köd jelentősen korlátozhatja a látási viszonyokat a síkságon.",
+              "Szélben ne parkoljon bizonytalan fák alá."
+            ],
+            "ro": [
+              "Verificați ștergătoarele înainte de plecare.",
+              "Atenție la acvaplanare pe drumurile din Tesalia.",
+              "Vizibilitatea poate fi limitată de ceață în câmpie.",
+              "Nu parcați sub copaci instabili când bate vântul."
+            ],
+            "en": [
+              "Check your windshield wipers before starting the trip.",
+              "Watch out for aquaplaning on Thessalian country roads.",
+              "Visibility can be severely limited by fog in the plains.",
+              "Avoid parking under unstable trees during windy conditions."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie das winterliche Sofades mit dem Komfort einer Sitzheizung. Die Route führt Sie effizient zu den kulturellen Schätzen, während Sie die frostige Landschaft der thessalischen Ebene sicher durchqueren. Die kurzen Wege zwischen den Parkplätzen und den Sehenswürdigkeiten minimieren die Kälteexposition. Der Tag endet perfekt mit einer stimmungsvollen Fahrt durch die Dämmerung.",
+            "hu": "Fedezze fel a téli Szofadeszt az ülésfűtés kényelmével. Az útvonal hatékonyan vezet a kulturális kincsekhez, miközben biztonságban szeli át a thesszáliai síkság fagyos tájait. A parkolók és látnivalók közötti rövid távolságok minimalizálják a hidegben töltött időt. A nap tökéletesen zárul egy hangulatos, szürkületi autózással.",
+            "ro": "Explorați Sofades iarna cu confortul încălzirii în scaune. Traseul vă duce eficient la comorile culturale, în timp ce traversați în siguranță câmpia înghețată a Tesaliei. Distanțele scurte între parcări și obiective minimizează expunerea la frig. Ziua se încheie perfect cu o plimbare atmosferică prin amurg.",
+            "en": "Explore winter Sofades with the comfort of heated seats. The route efficiently guides you to cultural treasures while safely crossing the frosty Thessalian plains. Short distances between parking spots and sights minimize your exposure to the cold. The day ends perfectly with an atmospheric drive through the winter twilight."
+          },
+          "stops": [
+            {
+              "name": "Parking at Central Square (Cluster A)",
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor nicht unnötig im Stand laufen.",
+                "hu": "Ne járassa feleslegesen a motort álló helyzetben.",
+                "ro": "Nu lăsați motorul pornit inutil în timp ce staționați.",
+                "en": "Do not leave the engine idling unnecessarily while parked."
+              }
+            },
+            {
+              "name": "Church of Agios Georgios",
+              "tip_5lang": {
+                "de": "Achten Sie auf gefrorene Pfützen auf dem Gehweg.",
+                "hu": "Vigyázzon a fagyott tócsákra a járdán.",
+                "ro": "Atenție la bălțile înghețate de pe trotuar.",
+                "en": "Watch out for frozen puddles on the walkway."
+              }
+            },
+            {
+              "name": "Folklore Collection",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit im Warmen, um die Route neu zu laden.",
+                "hu": "Használja ki a bent töltött időt az útvonal újratervezésére.",
+                "ro": "Folosiți timpul petrecut la căldură pentru a reîncărca ruta.",
+                "en": "Use your time inside to review the next steps of your trip."
+              }
+            },
+            {
+              "name": "Parking at Old Station (Cluster B)",
+              "tip_5lang": {
+                "de": "Der Parkplatz kann im Winter sehr zugig sein.",
+                "hu": "A parkoló télen nagyon huzatos lehet.",
+                "ro": "Parcarea poate fi foarte expusă vântului iarna.",
+                "en": "The parking area can be very drafty and cold in winter."
+              }
+            },
+            {
+              "name": "Enipeas Riverbank",
+              "tip_5lang": {
+                "de": "Die Zufahrtsstraßen können bei Frost glatt sein.",
+                "hu": "A bekötőutak fagyban csúszósak lehetnek.",
+                "ro": "Drumurile de acces pot fi alunecoase în caz de îngheț.",
+                "en": "Access roads near the river can be slippery when frozen."
+              }
+            },
+            {
+              "name": "Cultural Center (Cluster C)",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Heizungseinstellungen für die Weiterfahrt.",
+                "hu": "Ellenőrizze a fűtésbeállításokat a továbbindulás előtt.",
+                "ro": "Verificați setările de căldură înainte de a pleca.",
+                "en": "Check your heater settings before continuing the drive."
+              }
+            },
+            {
+              "name": "Church of Agia Paraskevi",
+              "tip_5lang": {
+                "de": "Vorsicht vor Eiszapfen an den Dachrinnen der Kirche.",
+                "hu": "Vigyázzon a templom ereszein lógó jégcsapokra.",
+                "ro": "Atenție la țurțurii de pe streșinile bisericii.",
+                "en": "Watch out for icicles on the church eaves."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass genügend Frostschutzmittel vorhanden ist.",
+              "Achten Sie auf die Reifendruckkontrolle bei Kälte.",
+              "Die Sonne blendet im Winter tiefstehend, nutzen Sie die Sonnenblende.",
+              "Halten Sie eine Decke für Notfälle im Auto bereit."
+            ],
+            "hu": [
+              "Győződjön meg róla, hogy van elég fagyálló a kocsiban.",
+              "Figyeljen a guminyomás-ellenőrzőre a hidegben.",
+              "A téli nap alacsonyan süthet, használja a napellenzőt.",
+              "Tartson egy takarót az autóban vészhelyzet esetére."
+            ],
+            "ro": [
+              "Asigurați-vă că aveți suficient lichid de parbriz anti-îngheț.",
+              "Atenție la martorul de presiune în pneuri la frig.",
+              "Soarele de iarnă poate fi orbitor, folosiți parasolarul.",
+              "Țineți o pătură în mașină pentru urgențe."
+            ],
+            "en": [
+              "Ensure you have enough anti-freeze in your washer fluid.",
+              "Watch your tire pressure monitor as it drops in the cold.",
+              "The low winter sun can be blinding; use your sun visor.",
+              "Keep a blanket in the car for emergency situations."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1526,6 +2126,206 @@
           "Be aware that buses in rural areas may not be as frequent.",
           "Ask locals for the right bus line if you are unsure."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie die lokalen Busverbindungen, um Sofades im Regen zu erkunden. Die Haltestellen am Zentralplatz und nahe der Kulturstätten bieten Schutz. Der Vormittag in der Folklore-Sammlung lässt Sie das Wetter vergessen. Nachmittags erreichen Sie bequem das Kulturzentrum und die alte Bahnstation, während Sie im Bus trocken bleiben. Ein entspannter Tag trotz grauer Wolken.",
+            "hu": "Használja a helyi buszjáratokat Szofadesz felfedezéséhez esőben. A központi téri és a kulturális helyszínek közeli megállók védelmet nyújtanak. A néprajzi gyűjteményben töltött délelőtt elfeledteti Önnel a rossz időt. Délután kényelmesen elérheti a Kulturális Központot és a régi vasútállomást, miközben a buszon szárazon marad. Pihentető nap a szürke felhők ellenére is.",
+            "ro": "Folosiți liniile locale de autobuz pentru a explora Sofades pe ploaie. Stațiile din Piața Centrală și de lângă obiectivele culturale oferă protecție. Dimineața la Colecția de Folclor vă va face să uitați de vreme. După-amiaza ajungeți confortabil la Centrul Cultural și la vechea gară, rămânând uscați în autobuz. O zi relaxantă în ciuda norilor gri.",
+            "en": "Use local bus connections to explore Sofades in the rain. Bus stops at the Central Square and near cultural sites provide some protection. Spending the morning at the Folklore Collection helps you forget the weather. In the afternoon, reach the Cultural Center and old station comfortably while staying dry on the bus. A relaxed day despite the gray clouds."
+          },
+          "stops": [
+            {
+              "name": "Central Square (Cluster A)",
+              "tip_5lang": {
+                "de": "Warten Sie im Kiosk oder Café bis der Bus kommt.",
+                "hu": "Várjon a kávézóban vagy az újságosnál a busz érkezéséig.",
+                "ro": "Așteptați în cafenea sau la chioșc până vine autobuzul.",
+                "en": "Wait in a nearby cafe or kiosk until the bus arrives."
+              }
+            },
+            {
+              "name": "Church of Agios Georgios",
+              "tip_5lang": {
+                "de": "Die Haltestelle hat ein kleines Dach, das vor Regen schützt.",
+                "hu": "A megállónak van egy kis teteje, ami véd az esőtől.",
+                "ro": "Stația are un acoperiș mic care protejează de ploaie.",
+                "en": "The stop has a small shelter that protects from rain."
+              }
+            },
+            {
+              "name": "War Memorial",
+              "tip_5lang": {
+                "de": "Gehen Sie zügig zur nächsten überdachten Haltestelle.",
+                "hu": "Menjen gyorsan a következő fedett buszmegállóhoz.",
+                "ro": "Mergeți rapid spre următoarea stație acoperită.",
+                "en": "Walk quickly to the nearest covered bus stop."
+              }
+            },
+            {
+              "name": "Cultural Center (Cluster B)",
+              "tip_5lang": {
+                "de": "Busse können bei starkem Regen leichte Verspätungen haben.",
+                "hu": "Erős esőben a buszoknak kisebb késésük lehet.",
+                "ro": "Autobuzele pot avea mici întârzieri în caz de ploaie grea.",
+                "en": "Buses may experience slight delays during heavy rain."
+              }
+            },
+            {
+              "name": "Folklore Collection",
+              "tip_5lang": {
+                "de": "Fragen Sie nach dem aktuellen Fahrplan bei schlechtem Wetter.",
+                "hu": "Érdeklődjön az aktuális menetrendről rossz időben.",
+                "ro": "Întrebați de programul actualizat pe vreme rea.",
+                "en": "Inquire about current schedules during bad weather."
+              }
+            },
+            {
+              "name": "Old Train Station (Cluster C)",
+              "tip_5lang": {
+                "de": "Das Bahnhofsgebäude bietet guten Schutz beim Warten.",
+                "hu": "Az állomás épülete jó védelmet nyújt várakozás közben.",
+                "ro": "Clădirea gării oferă adăpost bun în timpul așteptării.",
+                "en": "The station building provides good shelter while waiting."
+              }
+            },
+            {
+              "name": "Enipeas Riverbank",
+              "tip_5lang": {
+                "de": "Nehmen Sie den Bus zurück, bevor es zu stark regnet.",
+                "hu": "Szálljon buszra visszafelé, mielőtt túlságosan rákezdene az eső.",
+                "ro": "Luați autobuzul înapoi înainte să plouă prea tare.",
+                "en": "Take the bus back before the rain intensifies."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Halten Sie Kleingeld für das Busticket bereit.",
+              "Einige Haltestellen sind nicht überdacht, Regenschirm nutzen.",
+              "Die Busfrequenz kann mittags geringer sein.",
+              "Prüfen Sie Online-Apps für Live-Transitdaten."
+            ],
+            "hu": [
+              "Legyen Önnél aprópénz a buszjegyhez.",
+              "Néhány megálló nem fedett, használjon esernyőt.",
+              "Délben a buszok ritkábban járhatnak.",
+              "Ellenőrizze az online alkalmazásokat a valós idejű adatokért."
+            ],
+            "ro": [
+              "Aveți pregătit mărunțiș pentru biletul de autobuz.",
+              "Unele stații nu sunt acoperite, folosiți umbrela.",
+              "Frecvența autobuzelor poate fi mai mică la prânz.",
+              "Verificați aplicațiile online pentru date în timp real."
+            ],
+            "en": [
+              "Have some change ready for the bus ticket.",
+              "Some stops are not sheltered, use an umbrella while waiting.",
+              "Bus frequency might be lower during midday hours.",
+              "Check online apps for live transit information if available."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie Sofades im Winter mit dem öffentlichen Nahverkehr. Die beheizten Busse sind eine willkommene Abwechslung zur kalten thessalischen Luft. Besuchen Sie die Folklore-Sammlung und die Kirchen, während Sie die frostige Ebene durch das Busfenster beobachten. Da die Tage kurz sind, hilft die Transit-Route, die Zeit zwischen den warmen Innenräumen effizient zu nutzen.",
+            "hu": "Fedezze fel a téli Szofadeszt tömegközlekedéssel. A fűtött buszok kellemes felüdülést nyújtanak a hideg thesszáliai levegő után. Látogasson el a néprajzi gyűjteménybe és a templomokba, miközben a buszablakból figyeli a fagyos síkságot. Mivel a nappalok rövidek, a tömegközlekedés segít hatékonyan kihasználni a meleg belső terek közötti időt.",
+            "ro": "Explorați Sofades iarna folosind transportul public. Autobuzele încălzite sunt o schimbare binevenită față de aerul rece al Tesaliei. Vizitați Colecția de Folclor și bisericile în timp ce priviți câmpia înghețată prin fereastra autobuzului. Deoarece zilele sunt scurte, ruta de tranzit vă ajută să folosiți eficient timpul între spațiile interioare calde.",
+            "en": "Explore winter Sofades using public transport. Heated buses provide a welcome respite from the cold Thessalian air. Visit the Folklore Collection and churches while watching the frosty plains through the bus window. Since days are short, the transit route helps you efficiently manage your time between warm indoor attractions."
+          },
+          "stops": [
+            {
+              "name": "Central Square (Cluster A)",
+              "tip_5lang": {
+                "de": "Warten Sie im Windschatten der Gebäude auf den Bus.",
+                "hu": "Várjon a buszra az épületek szélárnyékában.",
+                "ro": "Așteptați autobuzul la adăpostul clădirilor.",
+                "en": "Wait for the bus in the lee of the buildings to avoid the wind."
+              }
+            },
+            {
+              "name": "Church of Agios Georgios",
+              "tip_5lang": {
+                "de": "Der Bus hält sehr nah am Eingang der Kirche.",
+                "hu": "A busz nagyon közel áll meg a templom bejáratához.",
+                "ro": "Autobuzul oprește foarte aproape de intrarea bisericii.",
+                "en": "The bus stops very close to the church entrance."
+              }
+            },
+            {
+              "name": "War Memorial",
+              "tip_5lang": {
+                "de": "Ein sehr exponierter Ort, halten Sie sich nicht zu lange auf.",
+                "hu": "Nagyon kitett helyszín, ne időzzön itt túl sokat.",
+                "ro": "Un loc foarte expus, nu zăboviți prea mult afară.",
+                "en": "A very exposed spot; don't linger too long in the cold."
+              }
+            },
+            {
+              "name": "Cultural Center (Cluster B)",
+              "tip_5lang": {
+                "de": "Das Foyer ist im Winter meist gut beheizt.",
+                "hu": "Az aula télen általában jól fűtött.",
+                "ro": "Foaierul este de obicei bine încălzit pe timp de iarnă.",
+                "en": "The foyer is usually well-heated during winter months."
+              }
+            },
+            {
+              "name": "Folklore Collection",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Rückfahrtzeiten, bevor es dunkel wird.",
+                "hu": "Ellenőrizze a visszautat, mielőtt besötétedik.",
+                "ro": "Verificați orele de întoarcere înainte de lăsarea întunericului.",
+                "en": "Check the return bus times before it gets dark."
+              }
+            },
+            {
+              "name": "Old Train Station (Cluster C)",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Wartesaal, falls dieser geöffnet ist.",
+                "hu": "Használja a várótermet, amennyiben nyitva van.",
+                "ro": "Folosiți sala de așteptare dacă este deschisă.",
+                "en": "Use the waiting room if it is open to stay warm."
+              }
+            },
+            {
+              "name": "Enipeas Riverbank",
+              "tip_5lang": {
+                "de": "Die letzte Haltestelle vor der Rückfahrt im warmen Bus.",
+                "hu": "Az utolsó megálló a meleg buszos visszautazás előtt.",
+                "ro": "Ultima oprire înainte de întoarcerea cu autobuzul cald.",
+                "en": "Final stop before returning on the warm bus."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie warme Socken, da das Warten an Haltestellen kühlen kann.",
+              "Die Busse sind im Winter seltener voll.",
+              "Achten Sie auf geänderte Winterfahrpläne.",
+              "Kaufen Sie Tickets im Voraus, wenn möglich."
+            ],
+            "hu": [
+              "Viseljen meleg zoknit, mert a megállókban várakozva lehűlhet.",
+              "A buszok télen ritkábban telnek meg.",
+              "Figyeljen az esetleges téli menetrendi változásokra.",
+              "Ha lehetséges, vegye meg előre a jegyeket."
+            ],
+            "ro": [
+              "Purtați șosete groase, așteptarea în stații poate fi rece.",
+              "Autobuzele sunt mai puțin aglomerate iarna.",
+              "Atenție la eventualele modificări ale programului de iarnă.",
+              "Cumpărați biletele în avans dacă este posibil."
+            ],
+            "en": [
+              "Wear warm socks as waiting at stops can be chilly.",
+              "Buses are less likely to be crowded during winter.",
+              "Be aware of potential winter schedule changes.",
+              "Purchase tickets in advance where possible to save time."
+            ]
+          }
+        }
       }
     }
   }

@@ -379,6 +379,206 @@
           "Plan your lunch around the Jewish Quarter. There are several nice restaurants with local cuisine.",
           "Keep a camera ready. The narrow alleys and historic architecture provide countless photo opportunities."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginn unter den Arkaden des Karlovo náměstí, die Schutz vor dem Regen bieten. Der Aufstieg auf den Stadtturm ist überdacht, oben bleibt es windig. Mittags verbringen wir viel Zeit im trockenen Schlossmuseum und der Basilika. Der Nachmittag im jüdischen Viertel führt durch enge Gassen, in denen man oft unter Dachvorsprüngen stehen kann. Der Friedhof am Ende ist bei Nässe etwas rutschig.",
+            "hu": "A Károly tér árkádjai alatt kezdünk, ahol védve vagyunk az esőtől. A Várostorony lépcsőháza fedett, de fent szeles lehet az idő. A délutánt a kastély és a bazilika falai között töltjük szárazon. A zsidó negyed szűk utcáin az ereszalják adnak némi menedéket. A napot a temetőnél zárjuk, ahol a vizes fű és a kövek csúszósak lehetnek.",
+            "ro": "Începem sub arcadele din Piața Carol, care oferă protecție împotriva ploii. Urcarea în turnul orașului este acoperită, dar sus poate fi vânt. La prânz, vizităm interiorul uscat al castelului și al bazilicii. După-amiaza în cartierul evreiesc ne poartă pe străduțe unde streșinile caselor oferă adăpost. Cimitirul de la final poate fi alunecos din cauza umezelii.",
+            "en": "Start under the arcades of Charles Square for rain protection. The City Tower climb is indoor, though the gallery is exposed. Midday is spent in the dry Castle and Basilica. The Jewish Quarter's narrow lanes offer some cover under eaves. End at the cemetery, where wet grass and stones can be slippery."
+          },
+          "stops": [
+            {
+              "name": "Charles Square (Karlovo náměstí)",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden der Häuser als Unterstand.",
+                "hu": "Használja a házak árkádjait eső elleni védelemként.",
+                "ro": "Folosiți arcadele clădirilor pentru a vă adăposti.",
+                "en": "Use the building arcades as a natural shelter."
+              }
+            },
+            {
+              "name": "City Tower",
+              "tip_5lang": {
+                "de": "Der Turm ist innen trocken, die Aussicht ist grau.",
+                "hu": "A torony belül száraz, a kilátás ilyenkor borongós.",
+                "ro": "Turnul este uscat la interior, dar vederea e gri.",
+                "en": "The tower is dry inside, though the view is gray."
+              }
+            },
+            {
+              "name": "Třebíč Castle & Museum",
+              "tip_5lang": {
+                "de": "Idealer Ort, um 1,5 Stunden im Trockenen zu bleiben.",
+                "hu": "Ideális helyszín másfél óra szárazon töltéséhez.",
+                "ro": "Locul perfect pentru a sta o oră și jumătate la uscat.",
+                "en": "Perfect spot to stay dry for 1.5 hours indoors."
+              }
+            },
+            {
+              "name": "St. Procopius Basilica",
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten Feuchtigkeit perfekt draußen.",
+                "hu": "A vastag falak tökéletesen kizárják a nedvességet.",
+                "ro": "Zidurile groase țin umezeala afară perfect.",
+                "en": "Thick walls keep the moisture out perfectly."
+              }
+            },
+            {
+              "name": "Jewish Quarter",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem glatten Kopfsteinpflaster.",
+                "hu": "Vigyázat, a macskaköves burkolat ilyenkor csúszik.",
+                "ro": "Atenție la pavajul care devine alunecos.",
+                "en": "Be careful as the cobblestones become slippery."
+              }
+            },
+            {
+              "name": "Rear Synagogue",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ausstellungen im Obergeschoss.",
+                "hu": "Tekintse meg az emeleti kiállítást a tető alatt.",
+                "ro": "Vizitați expoziția de la etaj, la adăpost.",
+                "en": "Visit the upstairs exhibition under the roof."
+              }
+            },
+            {
+              "name": "Jewish Cemetery",
+              "tip_5lang": {
+                "de": "Regenschirm ist auf dem offenen Gelände nötig.",
+                "hu": "Az esernyő elengedhetetlen a nyílt területen.",
+                "ro": "Umbrela este necesară pe terenul deschis.",
+                "en": "An umbrella is essential on the open grounds."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nehmen Sie einen stabilen Regenschirm mit.",
+              "Die Arkaden am Hauptplatz sind der beste Treffpunkt.",
+              "Schuhe mit Profil sind auf dem Kopfsteinpflaster wichtig.",
+              "Das Schloss bietet eine Garderobe für nasse Mäntel."
+            ],
+            "hu": [
+              "Vigyen magával strapabíró esernyőt.",
+              "A főtéri árkádok a legjobb találkozási pontok.",
+              "A macskakő miatt profilozott talpú cipő javasolt.",
+              "A kastélyban van ruhatár a vizes kabátoknak."
+            ],
+            "ro": [
+              "Luați o umbrelă rezistentă la vânt.",
+              "Arcadele din piață sunt cel mai bun loc de întâlnire.",
+              "Încălțămintea cu aderență e vitală pe pavaj.",
+              "Castelul are garderobă pentru hainele ude."
+            ],
+            "en": [
+              "Bring a sturdy, wind-resistant umbrella.",
+              "The square's arcades are the best meeting points.",
+              "Grippy shoes are vital on wet cobblestones.",
+              "The castle offers a cloakroom for wet coats."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die weite Fläche des Karlovo náměstí wirkt im Winter karg, aber die Cafés locken mit Wärme. Vom Stadtturm blickt man auf die verschneiten Dächer des UNESCO-Viertels. Das Schloss und die Basilika sind beheizt und bieten Komfort während der Mittagszeit. Das jüdische Viertel sollte man vor 16:00 Uhr erkunden, bevor es dunkel wird. Der Friedhof wirkt bei Frost besonders andächtig.",
+            "hu": "A Károly tér hatalmas területe télen zord, de a kávézók melege csalogató. A Várostoronyból rálátni az UNESCO negyed havas háztetőire. A kastély és a bazilika fűtött, kényelmes pihenőt nyújt délidőben. A zsidó negyedet érdemes délután négy, a sötétedés előtt bejárni. A temető fagyos csendje ilyenkor különleges hangulatot áraszt.",
+            "ro": "Suprafața vastă a Pieței Carol pare austeră iarna, dar cafenelele sunt primitoare. Din turn se văd acoperișurile înzăpezite ale zonei UNESCO. Castelul și bazilica sunt încălzite, oferind confort la prânz. Cartirul evreiesc trebuie explorat înainte de ora 16:00, când se întunecă. Cimitirul are o atmosferă sobră pe ger.",
+            "en": "The vast Charles Square feels stark in winter, but cafes offer warmth. View snowy UNESCO rooftops from the City Tower. The Castle and Basilica are heated, providing comfort at midday. Explore the Jewish Quarter before 4:00 PM dusk. The cemetery feels especially solemn in the frosty silence."
+          },
+          "stops": [
+            {
+              "name": "Charles Square (Karlovo náměstí)",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in einem der Cafés am Platz auf.",
+                "hu": "Melegedjen fel a tér egyik kávézójában.",
+                "ro": "Încălziți-vă într-una dintre cafenelele din piață.",
+                "en": "Warm up in one of the cafes on the square."
+              }
+            },
+            {
+              "name": "City Tower",
+              "tip_5lang": {
+                "de": "Vorsicht vor vereisten Stufen beim Aufstieg.",
+                "hu": "Vigyázzon a jeges lépcsőfokokkal felfelé menet.",
+                "ro": "Atenție la treptele înghețate la urcare.",
+                "en": "Watch out for icy steps during the climb."
+              }
+            },
+            {
+              "name": "Třebíč Castle & Museum",
+              "tip_5lang": {
+                "de": "Die Ausstellungen sind angenehm temperiert.",
+                "hu": "A kiállítótermek kellemesen fűtöttek.",
+                "ro": "Expozițiile sunt încălzite corespunzător.",
+                "en": "The exhibition rooms are comfortably heated."
+              }
+            },
+            {
+              "name": "St. Procopius Basilica",
+              "tip_5lang": {
+                "de": "In der Basilika ist es deutlich kälter als im Schloss.",
+                "hu": "A bazilikában lényegesen hidegebb van, mint a várban.",
+                "ro": "În bazilică este mult mai frig decât în castel.",
+                "en": "It is significantly colder in the Basilica than the castle."
+              }
+            },
+            {
+              "name": "Jewish Quarter",
+              "tip_5lang": {
+                "de": "Die Gassen liegen früh im Schatten und kühlen ab.",
+                "hu": "A sikátorok hamar árnyékba kerülnek és lehűlnek.",
+                "ro": "Străduțele intră devreme în umbră și se răcesc.",
+                "en": "The alleys fall into shadow early and cool down."
+              }
+            },
+            {
+              "name": "Rear Synagogue",
+              "tip_5lang": {
+                "de": "Ein guter Ort, um den Wind kurz zu vergessen.",
+                "hu": "Jó helyszín, hogy kicsit elmeneküljünk a szél elől.",
+                "ro": "Un loc bun pentru a uita scurt de vânt.",
+                "en": "A good place to briefly escape the wind."
+              }
+            },
+            {
+              "name": "Jewish Cemetery",
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Ort vor Sonnenuntergang (16:00).",
+                "hu": "Naplemente (16:00) előtt látogassa meg.",
+                "ro": "Vizitați acest loc înainte de apus (ora 16:00).",
+                "en": "Visit this site before sunset (approx. 4:00 PM)."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Kleidung für den Turm und Friedhof einplanen.",
+              "Die Sonne geht im Dezember gegen 16:00 Uhr unter.",
+              "Kopfsteinpflaster kann bei Frost sehr glatt sein.",
+              "Trinken Sie heißen Tee am Karlovo náměstí."
+            ],
+            "hu": [
+              "Tervezzen meleg ruhát a toronyhoz és a temetőhöz.",
+              "A nap decemberben délután 4 körül nyugszik.",
+              "A macskakő fagyban rendkívül csúszós lehet.",
+              "Igyon egy forró teát a Károly téren."
+            ],
+            "ro": [
+              "Planificați haine groase pentru turn și cimitir.",
+              "Soarele apune în decembrie în jur de ora 16:00.",
+              "Pavajul poate fi foarte alunecos pe timp de ger.",
+              "Beți un ceai fierbinte în Piața Carol."
+            ],
+            "en": [
+              "Plan for warm layers for the tower and cemetery.",
+              "Sunset in December is around 4:00 PM.",
+              "Cobblestones can be extremely slippery when frozen.",
+              "Enjoy a hot tea at Charles Square."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -752,6 +952,206 @@
           "Most areas are bike-friendly, but it's better to walk in the Jewish Quarter.",
           "A water bottle is essential, especially for the afternoon ride."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren in Třebíč bei Regen erfordert Vorsicht auf den Pflastersteinen des Zentrums. Die Podzámecká niva bietet asphaltierte Wege, aber Pfützen sammeln sich schnell. Das Schloss und die Basilika sind gute Stopps, um das Fahrrad sicher zu parken und im Trockenen zu bleiben. Am Nachmittag geht es durch das jüdische Viertel, wo das Bremsen auf nassem Stein schwierig ist.",
+            "hu": "Az esős Třebíčben való bringázás óvatosságot igényel a belvárosi köveken. A Podzámecká niva útjai aszfaltozottak, de a tócsák gyorsan gyűlnek. A kastély és a bazilika jó megálló, ahol lezárhatjuk a gépet és szárazon maradhatunk. Délután a zsidó negyeden át hajtunk, ahol a vizes kövön nehézkes a fékezés.",
+            "ro": "Mersul cu bicicleta în Třebíč pe ploaie necesită prudență pe pietrele din centru. Podzámecká niva are drumuri asfaltate, dar bălțile se formează rapid. Castelul și bazilica sunt opriri bune pentru a parca bicicleta și a sta la uscat. După-amiaza trecem prin cartierul evreiesc, unde frânarea pe piatră umedă e dificilă.",
+            "en": "Cycling in rainy Třebíč requires caution on the town center's stones. Podzámecká niva has paved paths, but puddles form quickly. The Castle and Basilica are good stops to lock the bike and stay dry. Afternoon ride through the Jewish Quarter involves tricky braking on wet stones."
+          },
+          "stops": [
+            {
+              "name": "Charles Square (Karlovo náměstí)",
+              "tip_5lang": {
+                "de": "Vorsicht beim Anfahren auf dem nassen Marktplatz.",
+                "hu": "Vigyázzon az induláskor a vizes piactéren.",
+                "ro": "Atenție la pornire în piața umedă.",
+                "en": "Be careful when starting off on the wet square."
+              }
+            },
+            {
+              "name": "City Tower",
+              "tip_5lang": {
+                "de": "Fahrradständer befinden sich nahe dem Kircheneingang.",
+                "hu": "Kerékpártárolók a templombejárat közelében.",
+                "ro": "Suporturile de biciclete sunt lângă intrarea bisericii.",
+                "en": "Bike racks are located near the church entrance."
+              }
+            },
+            {
+              "name": "Podzámecká niva",
+              "tip_5lang": {
+                "de": "Der Asphalt ist griffig, aber achten Sie auf Laub.",
+                "hu": "Az aszfalt jól tapad, de ügyeljen a vizes levelekre.",
+                "ro": "Asfaltul are aderență, dar atenție la frunze.",
+                "en": "Pavement is grippy, but watch out for wet leaves."
+              }
+            },
+            {
+              "name": "Třebíč Castle & St. Procopius Basilica",
+              "tip_5lang": {
+                "de": "Sicherer Abstellplatz im Schlosshof vorhanden.",
+                "hu": "Biztonságos tárolóhely a várudvarban.",
+                "ro": "Loc de parcare sigur disponibil în curtea castelului.",
+                "en": "Safe storage space available in the castle courtyard."
+              }
+            },
+            {
+              "name": "Jewish Quarter",
+              "tip_5lang": {
+                "de": "Fahren Sie hier langsam, die Gassen sind eng.",
+                "hu": "Hajtson lassan, a sikátorok rendkívül szűkek.",
+                "ro": "Mergeți încet, străduțele sunt foarte înguste.",
+                "en": "Ride slowly; the alleys are very narrow."
+              }
+            },
+            {
+              "name": "Rear Synagogue",
+              "tip_5lang": {
+                "de": "Kurze Pause im Trockenen, Räder draußen sichern.",
+                "hu": "Rövid pihenő szárazon, a gépeket kint zárja le.",
+                "ro": "Scurtă pauză la uscat, asigurați bicicletele afară.",
+                "en": "Short break in the dry; secure bikes outside."
+              }
+            },
+            {
+              "name": "Jewish Cemetery",
+              "tip_5lang": {
+                "de": "Der Weg bergauf kann rutschig sein.",
+                "hu": "A felfelé vezető út csúszós lehet.",
+                "ro": "Drumul în pantă poate fi alunecos.",
+                "en": "The uphill path can be slippery."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie schnelles Bremsen auf Kopfsteinpflaster.",
+              "Nutzen Sie Schutzbleche gegen Spritzwasser.",
+              "Die Jihlava-Uferwege können Schlamm führen.",
+              "Tragen Sie eine gut sichtbare Regenjacke."
+            ],
+            "hu": [
+              "Kerülje a hirtelen fékezést a macskakövön.",
+              "Használjon sárvédőt a felcsapódó víz ellen.",
+              "A Jihlava-parti utak sarasak lehetnek.",
+              "Viseljen jól látható esőkabátot."
+            ],
+            "ro": [
+              "Evitați frânarea bruscă pe pavaj.",
+              "Folosiți aripi pentru a vă proteja de apă.",
+              "Drumurile de pe malul Jihlava pot fi noroioase.",
+              "Purtați o jachetă de ploaie vizibilă."
+            ],
+            "en": [
+              "Avoid sudden braking on cobblestones.",
+              "Use fenders to protect against spray.",
+              "The Jihlava river paths may be muddy.",
+              "Wear a highly visible raincoat."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren entlang der Jihlava ist erfrischend, aber kalt. Die Wege in der Podzámecká niva sind meist geräumt. Im jüdischen Viertel muss man auf Eisplatten in den Schattenzonen achten. Das Schloss bietet eine ideale Aufwärmpause. Der Anstieg zum jüdischen Friedhof ist bei gefrorenem Boden anstrengend, aber die Aussicht lohnt sich bei klarer Winterluft.",
+            "hu": "A téli bringázás a Jihlava mentén frissítő, de hideg. A Podzámecká niva útjait többnyire takarítják. A zsidó negyed árnyékos részein vigyázni kell a jeges foltokra. A kastély ideális helyszín egy melegedő szünetre. A zsidó temetőhöz vezető emelkedő fagyott talajon fárasztó, de a tiszta téli levegőben a kilátás kárpótol.",
+            "ro": "Mersul cu bicicleta iarna de-a lungul Jihlava este revigorant, dar rece. Drumurile din Podzámecká niva sunt de obicei curățate. În cartierul evreiesc trebuie atenție la gheața din zonele umbrite. Castelul oferă o pauză ideală pentru încălzire. Urcarea spre cimitir e grea pe sol înghețat, dar vederea merită.",
+            "en": "Winter cycling along the Jihlava is refreshing but cold. Paths in Podzámecká niva are usually cleared. Watch for ice patches in the shaded areas of the Jewish Quarter. The Castle is an ideal warming break. The climb to the Jewish Cemetery is tough on frozen ground, but the clear winter air offers great views."
+          },
+          "stops": [
+            {
+              "name": "Charles Square (Karlovo náměstí)",
+              "tip_5lang": {
+                "de": "Achten Sie auf gefrorenes Tauwasser am Rand.",
+                "hu": "Vigyázzon a széleken megfagyott hólére.",
+                "ro": "Atenție la apa înghețată de pe margini.",
+                "en": "Watch out for frozen meltwater at the edges."
+              }
+            },
+            {
+              "name": "City Tower",
+              "tip_5lang": {
+                "de": "Handschuhe sind für das Geländer oben nötig.",
+                "hu": "Kesztyű szükséges a fenti korlátokhoz.",
+                "ro": "Mănușile sunt necesare pentru balustrada de sus.",
+                "en": "Gloves are needed for the railings at the top."
+              }
+            },
+            {
+              "name": "Podzámecká niva",
+              "tip_5lang": {
+                "de": "Offene Fläche, der Wind kann hier schneidend sein.",
+                "hu": "Nyílt terület, a szél metsző lehet itt.",
+                "ro": "Zonă deschisă, vântul poate fi tăios aici.",
+                "en": "Open area; the wind can be biting here."
+              }
+            },
+            {
+              "name": "Třebíč Castle & St. Procopius Basilica",
+              "tip_5lang": {
+                "de": "Parken Sie im geschützten Innenhof.",
+                "hu": "Parkoljon a védett belső udvarban.",
+                "ro": "Parcați în curtea interioară protejată.",
+                "en": "Park in the sheltered inner courtyard."
+              }
+            },
+            {
+              "name": "Jewish Quarter",
+              "tip_5lang": {
+                "de": "Enge Gassen bleiben oft lange vereist.",
+                "hu": "A szűk utcák gyakran sokáig jegesek maradnak.",
+                "ro": "Străduțele înguste rămân adesea înghețate.",
+                "en": "Narrow alleys often remain icy for a long time."
+              }
+            },
+            {
+              "name": "Rear Synagogue",
+              "tip_5lang": {
+                "de": "Guter Stopp, um die Finger aufzuwärmen.",
+                "hu": "Jó megálló az ujjak felmelegítésére.",
+                "ro": "O oprire bună pentru a vă încălzi degetele.",
+                "en": "Good stop to warm up your fingers."
+              }
+            },
+            {
+              "name": "Jewish Cemetery",
+              "tip_5lang": {
+                "de": "Schieben Sie das Rad bei Glätte das letzte Stück.",
+                "hu": "Csúszós úton tolja a gépet az utolsó szakaszon.",
+                "ro": "Împingeți bicicleta pe ultima porțiune dacă e polei.",
+                "en": "Push the bike on the last stretch if it's icy."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Thermo-Handschuhe sind bei Abfahrten Pflicht.",
+              "Der Windchill am Fluss ist nicht zu unterschätzen.",
+              "Prüfen Sie den Luftdruck bei Kälte.",
+              "Nutzen Sie Batterieleuchten, es wird früh dunkel."
+            ],
+            "hu": [
+              "A lejtőkön a termokesztyű kötelező.",
+              "A folyóparti szélhűtés nem lebecsülendő.",
+              "Hidegben ellenőrizze a keréknyomást.",
+              "Használjon elemes lámpát, korán sötétedik."
+            ],
+            "ro": [
+              "Mănușile termice sunt obligatorii la coborâri.",
+              "Vântul de lângă râu nu trebuie subestimat.",
+              "Verificați presiunea roților pe ger.",
+              "Folosiți lumini, se întunecă devreme."
+            ],
+            "en": [
+              "Thermal gloves are mandatory for descents.",
+              "Don't underestimate the wind chill by the river.",
+              "Check tire pressure in cold weather.",
+              "Use battery lights as it gets dark early."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1108,6 +1508,188 @@
           "Do not leave valuables visible in your car.",
           "Once you park at the UNESCO quarter, everything is walkable. Enjoy the car-free exploration."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Třebíč bei Regen komfortabel. Wir parken direkt am Karlovo náměstí für den Stadtturm. Danach kurze Fahrt zum Parkplatz am jüdischen Viertel, der einen fast trockenen Zugang zum UNESCO-Areal ermöglicht. Den Mittag verbringen wir im Schloss und in der Basilika, während der Regen draußen prasselt. Die Fahrt zum jüdischen Friedhof erspart den nassen Fußweg bergauf.",
+            "hu": "Autóval az esős Třebíč kényelmesen bejárható. Közvetlenül a Károly téren parkolunk a toronyhoz. Ezután rövid út a zsidó negyed melletti parkolóig, ahonnan szinte szárazon elérhető az UNESCO terület. A delet a kastélyban és a bazilikában töltjük, amíg kint szakad. A zsidó temetőhöz való felhajtással megspóroljuk a vizes hegyi sétát.",
+            "ro": "Cu mașina, Třebíč pe ploaie este confortabil. Parcăm direct în Piața Carol pentru turn. Urmează o scurtă deplasare spre parcarea de lângă cartierul evreiesc, pentru acces aproape uscat la zona UNESCO. Prânzul îl petrecem în castel și bazilică, feriți de ploaie. Deplasarea la cimitir ne scutește de urcarea pe jos prin apă.",
+            "en": "Třebíč is comfortable by car in the rain. Park directly on Charles Square for the tower. A short drive to the Jewish Quarter parking allows nearly dry access to the UNESCO area. Spend midday in the Castle and Basilica while it pours outside. Driving to the cemetery saves a wet uphill walk."
+          },
+          "stops": [
+            {
+              "name": "Parking at Charles Square",
+              "tip_5lang": {
+                "de": "Zentraler Parkplatz, oft besetzt bei Regen.",
+                "hu": "Központi parkoló, esőben hamar megtelik.",
+                "ro": "Parcare centrală, adesea plină pe ploaie.",
+                "en": "Central parking, often full during rain."
+              }
+            },
+            {
+              "name": "Charles Square & City Tower",
+              "tip_5lang": {
+                "de": "Nur 50m Fußweg vom Auto zum Turmeingang.",
+                "hu": "Csak 50 méter séta az autótól a toronyig.",
+                "ro": "Doar 50 m de mers pe jos de la mașină la turn.",
+                "en": "Only a 50m walk from the car to the tower."
+              }
+            },
+            {
+              "name": "Parking at the UNESCO Quarter",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz direkt an der Brücke.",
+                "hu": "Használja közvetlenül a híd melletti parkolót.",
+                "ro": "Folosiți parcarea direct de lângă pod.",
+                "en": "Use the parking lot right by the bridge."
+              }
+            },
+            {
+              "name": "Castle, Basilica & Lunch",
+              "tip_5lang": {
+                "de": "Verlassen Sie das Auto erst am Schlosstor.",
+                "hu": "Csak a várkapunál szálljon ki az autóból.",
+                "ro": "Coborâți din mașină doar la poarta castelului.",
+                "en": "Only get out of the car at the castle gate."
+              }
+            },
+            {
+              "name": "Jewish Quarter & Rear Synagogue",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen den Gebäuden einplanen.",
+                "hu": "Tervezzen rövid utakat az épületek között.",
+                "ro": "Planificați trasee scurte între clădiri.",
+                "en": "Plan short paths between the buildings."
+              }
+            },
+            {
+              "name": "Jewish Cemetery",
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Eingangstor oben.",
+                "hu": "Parkoljon közvetlenül a fenti bejárati kapunál.",
+                "ro": "Parcați direct la poarta de intrare de sus.",
+                "en": "Park directly at the upper entrance gate."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Zahlreiche Kurzzeitparkplätze im Zentrum vorhanden.",
+              "Regenschirm für den Weg vom Parkplatz nötig.",
+              "Vorsicht bei nassen Markierungen auf der Fahrbahn.",
+              "Scheibenwischer auf Intervall bei engen Gassen."
+            ],
+            "hu": [
+              "Számos rövid távú parkoló van a központban.",
+              "Esernyő kell a parkolótól a bejáratig.",
+              "Vigyázzon a vizes útburkolati jeleken.",
+              "Szűk utcákban használjon szakaszos ablaktörlést."
+            ],
+            "ro": [
+              "Numeroase parcări pe termen scurt în centru.",
+              "Umbrelă necesară de la parcare la intrare.",
+              "Atenție la marcajele rutiere umede.",
+              "Ștergătoare pe interval în străduțele înguste."
+            ],
+            "en": [
+              "Numerous short-term parking spots in the center.",
+              "An umbrella is needed from the lot to the entry.",
+              "Watch out for wet road markings.",
+              "Set wipers to interval in narrow streets."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Winterausflug mit dem Auto ermöglicht es, Třebíč ohne langes Frieren zu sehen. Das Parken am Karlovo náměstí bringt uns direkt zu den Cafés und dem Turm. Die Fahrt zum Schlossbezirk ist kurz, dort genießen wir die beheizten Innenräume. Die jüdische Synagoge bietet eine kulturelle Pause im Warmen. Zum Abschluss fahren wir zum Friedhof, wo wir die Winterlandschaft kurz genießen, bevor wir ins warme Auto zurückkehren.",
+            "hu": "Az autós téli kirándulás lehetővé teszi Třebíč megtekintését hosszas fagyoskodás nélkül. A Károly téri parkolás után azonnal a kávézókhoz és a toronyhoz jutunk. A várnegyedbe vezető út rövid, ott fűtött termek várnak. A zsidó zsinagóga kulturális menedék a melegben. Végül felhajtunk a temetőhöz, ahol rövid ideig élvezzük a téli tájat, mielőtt visszatérnénk a fűtött kocsiba.",
+            "ro": "O excursie de iarnă cu mașina permite vizitarea Třebíč fără a îngheța mult timp. Parcarea în Piața Carol ne duce direct la cafenele și turn. Drumul spre zona castelului e scurt, acolo bucurându-ne de interioare încălzite. Sinagoga oferă o pauză culturală la căldură. La final mergem la cimitir, admirând peisajul înainte de a reveni în mașina caldă.",
+            "en": "A winter car trip allows seeing Třebíč without prolonged freezing. Parking at Charles Square puts us right by cafes and the tower. The drive to the castle district is short, where we enjoy heated interiors. The synagogue offers a cultural break in the warm. Finally, drive to the cemetery to enjoy the winter landscape before returning to the warm car."
+          },
+          "stops": [
+            {
+              "name": "Parking at Charles Square",
+              "tip_5lang": {
+                "de": "Parkplätze können bei Schneeräumung knapp sein.",
+                "hu": "Hótakarításkor a parkolóhelyek száma kevesebb lehet.",
+                "ro": "Locurile pot fi puține în timpul deszăpezirii.",
+                "en": "Parking spots may be limited during snow removal."
+              }
+            },
+            {
+              "name": "Charles Square & City Tower",
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor nicht unnötig laufen.",
+                "hu": "Ne járassa feleslegesen a motort a téren.",
+                "ro": "Nu lăsați motorul pornit inutil.",
+                "en": "Do not leave the engine idling unnecessarily."
+              }
+            },
+            {
+              "name": "Parking at the UNESCO Quarter",
+              "tip_5lang": {
+                "de": "Die Auffahrt zum Parkplatz kann glatt sein.",
+                "hu": "A parkolóhoz vezető felhajtó jeges lehet.",
+                "ro": "Rampa spre parcare poate fi alunecoasă.",
+                "en": "The ramp to the parking lot can be icy."
+              }
+            },
+            {
+              "name": "Castle, Basilica & Lunch",
+              "tip_5lang": {
+                "de": "Genießen Sie die Heizung im Museums-Café.",
+                "hu": "Élvezze a fűtést a múzeumi kávézóban.",
+                "ro": "Bucurați-vă de căldură în cafeneaua muzeului.",
+                "en": "Enjoy the heating in the museum cafe."
+              }
+            },
+            {
+              "name": "Jewish Quarter & Rear Synagogue",
+              "tip_5lang": {
+                "de": "Parken Sie nah, um Kältebrücken zu vermeiden.",
+                "hu": "Parkoljon közel a hideg elkerülése érdekében.",
+                "ro": "Parcați aproape pentru a evita frigul.",
+                "en": "Park nearby to minimize time in the cold."
+              }
+            },
+            {
+              "name": "Jewish Cemetery",
+              "tip_5lang": {
+                "de": "Achten Sie auf Winterreifen bei der Steigung.",
+                "hu": "A meredek szakaszon fontos a téli gumi.",
+                "ro": "Anvelopele de iarnă sunt vitale pe pantă.",
+                "en": "Winter tires are vital for the steep incline."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in Tschechien gesetzlich Pflicht.",
+              "Scheibenreiniger mit Frostschutz auffüllen.",
+              "Parkuhren können bei Kälte schwergängig sein.",
+              "Vorsicht vor Eiszapfen an alten Gebäuden."
+            ],
+            "hu": [
+              "Csehországban a téli gumi törvényileg kötelező.",
+              "Töltse fel a fagyálló szélvédőmosót.",
+              "A parkolóórák hidegben nehezebben működhetnek.",
+              "Vigyázzon a jégcsapokra a régi épületeknél."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii în Cehia.",
+              "Umpleți lichidul de parbriz cu antigel.",
+              "Automatele de parcare pot fi blocate de ger.",
+              "Atenție la țurțurii de pe clădirile vechi."
+            ],
+            "en": [
+              "Winter tires are legally mandatory in Czechia.",
+              "Fill up with anti-freeze windshield washer fluid.",
+              "Parking meters can be stiff in the cold.",
+              "Watch out for icicles on old buildings."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1464,6 +2046,188 @@
           "Most sights are grouped into two main clusters, each explorable on foot.",
           "Validate your ticket when you board the bus to avoid a fine."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus lässt sich Třebíč auch bei Regen gut erkunden. Nach dem Besuch des Karlovo náměstí nehmen wir den Bus zur Haltestelle 'Podklášteří', um den Fußweg im Regen zu verkürzen. Das UNESCO-Areal mit Schloss und Basilika bietet stundenlangen Schutz. Am Nachmittag nutzen wir die kurzen Wege im jüdischen Viertel. Der Bus bringt uns schließlich nahe an den Friedhof, sodass wir kaum nass werden.",
+            "hu": "Busszal esőben is jól bejárható Třebíč. A Károly tér után a 'Podklášteří' megállóig buszozunk, hogy lerövidítsük az esős sétát. Az UNESCO terület a kastéllyal és a bazilikával órákon át védelmet nyújt. Délután a zsidó negyed épületei között mozgunk. A busz végül a temető közelébe visz, így alig ér minket az eső.",
+            "ro": "Cu autobuzul, Třebíč poate fi explorat bine și pe ploaie. După Piața Carol, luăm autobuzul până la stația 'Podklášteří' pentru a scurta mersul prin ploaie. Zona UNESCO cu castelul și bazilica oferă adăpost pentru ore bune. După-amiaza folosim traseele scurte din cartierul evreiesc. Autobuzul ne lasă aproape de cimitir, deci nu ne udăm.",
+            "en": "Třebíč is easily explored by bus even in rain. After Charles Square, take the bus to 'Podklášteří' to shorten the walk in the rain. The UNESCO area with the Castle and Basilica offers hours of shelter. In the afternoon, stay within the Jewish Quarter buildings. The bus eventually drops us near the cemetery, keeping us dry."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Charles Square",
+              "tip_5lang": {
+                "de": "Haltestelle mit Wartehäuschen vorhanden.",
+                "hu": "A megállóban van fedett várakozóhely.",
+                "ro": "Stație dotată cu adăpost pentru călători.",
+                "en": "The bus stop is equipped with a shelter."
+              }
+            },
+            {
+              "name": "Charles Square & City Tower",
+              "tip_5lang": {
+                "de": "Kaufen Sie Tickets beim Fahrer oder per App.",
+                "hu": "Vegyen jegyet a sofőrnél vagy applikációban.",
+                "ro": "Cumpărați bilete de la șofer sau prin aplicație.",
+                "en": "Buy tickets from the driver or via the app."
+              }
+            },
+            {
+              "name": "Bus ride to 'Podklášteří' stop",
+              "tip_5lang": {
+                "de": "Linie 1 oder 4 verbindet die Zentren.",
+                "hu": "Az 1-es vagy 4-es vonal köti össze a központokat.",
+                "ro": "Liniile 1 sau 4 fac legătura între centre.",
+                "en": "Lines 1 or 4 connect the two centers."
+              }
+            },
+            {
+              "name": "Castle, Basilica & Lunch",
+              "tip_5lang": {
+                "de": "Verbringen Sie die Regenzeit in den Museen.",
+                "hu": "Töltse az esős időt a múzeumokban.",
+                "ro": "Petreceți timpul ploios în muzee.",
+                "en": "Spend the rainy time inside the museums."
+              }
+            },
+            {
+              "name": "Jewish Quarter & Rear Synagogue",
+              "tip_5lang": {
+                "de": "Die Wege hier sind kurz und gut zu Fuß.",
+                "hu": "Itt az utak rövidek, gyalog is kényelmesek.",
+                "ro": "Traseele de aici sunt scurte și ușor de parcurs.",
+                "en": "Paths here are short and easy on foot."
+              }
+            },
+            {
+              "name": "Jewish Cemetery",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle liegt 5 Min. entfernt.",
+                "hu": "A buszmegálló 5 percre található.",
+                "ro": "Stația de autobuz este la 5 minute distanță.",
+                "en": "The bus stop is located 5 minutes away."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die App 'IDOS' für Fahrpläne.",
+              "Haltestellen sind oft die besten Unterstände.",
+              "Kurzstrecken-Tickets sind meist ausreichend.",
+              "Bedenken Sie Wochenend-Fahrpläne bei Regen."
+            ],
+            "hu": [
+              "Használja az 'IDOS' appot a menetrendhez.",
+              "A megállók gyakran a legjobb óvóhelyek.",
+              "A rövidtávú jegyek általában elegendőek.",
+              "Esőben ügyeljen a hétvégi menetrendre."
+            ],
+            "ro": [
+              "Folosiți aplicația 'IDOS' pentru orar.",
+              "Stațiile sunt adesea cele mai bune adăposturi.",
+              "Biletele pentru distanțe scurte sunt suficiente.",
+              "Atenție la orarul de weekend când plouă."
+            ],
+            "en": [
+              "Use the 'IDOS' app for schedules.",
+              "Bus stops are often the best rain shelters.",
+              "Short-distance tickets are usually enough.",
+              "Mind the weekend schedules when it rains."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter ist der Bus in Třebíč die beste Wahl, um Kälteperioden zu überbrücken. Wir starten am Karlovo náměstí und nutzen die warmen Busse für den Weg nach Podklášteří. Das Schloss und die Basilika sind beheizte Fixpunkte. Das jüdische Viertel lässt sich kompakt besichtigen, bevor wir uns im Bus zum jüdischen Friedhof wieder aufwärmen. Die Rückfahrt zum Bahnhof oder Zentrum erfolgt bequem im Geheizten.",
+            "hu": "Télen a busz a legjobb választás Třebíčben a hideg elkerülésére. A Károly téren kezdünk, majd meleg buszokkal utazunk Podklášteříbe. A kastély és a bazilika fűtött fix pontok. A zsidó negyedet kompakt módon bejárjuk, mielőtt újra felmelegednénk a temető felé tartó buszon. A visszautat a központba kényelmesen, fűtött járművön tesszük meg.",
+            "ro": "Iarna, autobuzul este cea mai bună alegere în Třebíč pentru a evita frigul. Începem în Piața Carol și folosim autobuze calde spre Podklášteří. Castelul și bazilica sunt puncte fixe încălzite. Cartirul evreiesc poate fi vizitat compact înainte de a ne încălzi iar în autobuz spre cimitir. Returul spre centru se face confortabil, la căldură.",
+            "en": "In winter, the bus in Třebíč is the best choice to bridge the cold. Start at Charles Square and use warm buses for the trip to Podklášteří. The Castle and Basilica are heated anchors. Visit the Jewish Quarter compactly before warming up again on the bus to the cemetery. The return to the center is comfortable and heated."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Charles Square",
+              "tip_5lang": {
+                "de": "Warten Sie im nahen Café auf den Bus.",
+                "hu": "Várjon a buszra a közeli kávézóban.",
+                "ro": "Așteptați autobuzul în cafeneaua de lângă.",
+                "en": "Wait for the bus in the nearby cafe."
+              }
+            },
+            {
+              "name": "Charles Square & City Tower",
+              "tip_5lang": {
+                "de": "Vorsicht vor Rutschgefahr an der Haltestelle.",
+                "hu": "Vigyázzon, a megálló környéke csúszhat.",
+                "ro": "Atenție la polei în zona stației.",
+                "en": "Watch out for ice around the bus stop."
+              }
+            },
+            {
+              "name": "Bus ride to 'Podklášteří' stop",
+              "tip_5lang": {
+                "de": "Genießen Sie die Wärme während der 8 Min. Fahrt.",
+                "hu": "Élvezze a meleget a 8 perces út alatt.",
+                "ro": "Bucurați-vă de căldură în cele 8 minute.",
+                "en": "Enjoy the warmth during the 8-minute ride."
+              }
+            },
+            {
+              "name": "Castle, Basilica & Lunch",
+              "tip_5lang": {
+                "de": "Das Museum schließt im Winter teils früher.",
+                "hu": "A múzeum télen részben korábban zárhat.",
+                "ro": "Muzeul poate închide mai devreme iarna.",
+                "en": "The museum may close earlier in winter."
+              }
+            },
+            {
+              "name": "Jewish Quarter & Rear Synagogue",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Bus, um zum Friedhof zu kommen.",
+                "hu": "Használja a buszt a temetőhöz való feljutáshoz.",
+                "ro": "Folosiți autobuzul pentru a urca la cimitir.",
+                "en": "Use the bus to get up to the cemetery."
+              }
+            },
+            {
+              "name": "Jewish Cemetery",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Abfahrtzeiten für den Rückweg.",
+                "hu": "Ellenőrizze a visszautat a menetrendben.",
+                "ro": "Verificați orarul pentru drumul de întoarcere.",
+                "en": "Check the schedule for the return trip."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse sind im Winter meist gut beheizt.",
+              "Haltestellen-Anzeigen informieren über Verspätungen.",
+              "Tragen Sie Mütze und Schal beim Warten.",
+              "Kontaktloses Bezahlen ist in vielen Bussen möglich."
+            ],
+            "hu": [
+              "A buszok télen általában jól fűtöttek.",
+              "A kijelzők tájékoztatnak az esetleges késésekről.",
+              "Viseljen sapkát és sálat várakozás közben.",
+              "Sok buszon lehetséges az érintéses fizetés."
+            ],
+            "ro": [
+              "Autobuzele sunt de obicei bine încălzite.",
+              "Panourile din stații anunță întârzierile.",
+              "Purtați căciulă și fular în timp ce așteptați.",
+              "Plata contactless este posibilă în multe autobuze."
+            ],
+            "en": [
+              "Buses are usually well-heated in winter.",
+              "Stop displays provide info on any delays.",
+              "Wear a hat and scarf while waiting.",
+              "Contactless payment is available on many buses."
+            ]
+          }
+        }
       }
     }
   }

@@ -336,6 +336,196 @@
           "Watch out for uneven cobblestones in the old town.",
           "Enjoy the flexibility and discover small alleys off the main route."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Vlorë im Regen beginnt am Flaggenplatz, wo das Denkmal im grauen Licht dramatisch wirkt. Ein Schirm ist unerlässlich. Den Vormittag verbringen Sie im Unabhängigkeitsmuseum, einem trockenen Hort der Geschichte. Nach einem gemütlichen Mittagessen in der Altstadt spazieren Sie an der Lungomare, während die Adria-Wellen lautstark an die Küste schlagen. Ein Kaffee mit Blick auf das stürmische Meer rundet den Tag ab.",
+            "hu": "Vlorë esőben is különleges, a Függetlenség tere ilyenkor borongósan méltóságteljes. A délelőttöt töltsd a Függetlenségi Múzeum falai között, amely tökéletes menedék a felhőszakadás elől. Az óváros szűk utcáin találj egy hangulatos tavernáit ebédre. Délután a Lungomare sétányon a tenger morajlása kísér, az estét pedig zárd egy üvegfalú kávézóban, figyelve az esőcseppeket az Adrián.",
+            "ro": "Vlorë pe ploaie începe în Piața Steagului, unde monumentul pare dramatic sub cerul gri. Dimineața este rezervată Muzeului Național al Independenței, un refugiu cald și plin de istorie. După un prânz prelungit în orașul vechi, o plimbare pe Lungomare oferă o perspectivă spectaculoasă asupra valurilor Adriaticii. Seara se încheie într-o cafenea modernă, privind ploaia peste port.",
+            "en": "Vlorë in the rain starts at Flag Square, where the monument stands tall against the grey sky. Spend your morning at the National Museum of Independence, staying dry while diving into history. After a long lunch in a cozy Old Town eatery, head to the Lungomare to watch the dramatic Adriatic waves. Finish the day in a seafront cafe, enjoying the moody coastal atmosphere from behind the glass."
+          },
+          "stops": [
+            {
+              "name": "Flag Square (Sheshi i Flamurit)",
+              "tip_4lang": {
+                "de": "Suchen Sie unter den nahen Arkaden Schutz vor kurzen Schauern.",
+                "hu": "A közeli árkádok alatt gyorsan menedéket találhatsz a zápor elől.",
+                "ro": "Căutați adăpost sub arcadele din apropiere în timpul averselor.",
+                "en": "Seek shelter under the nearby arcades during quick rain showers."
+              }
+            },
+            {
+              "name": "Independence Monument",
+              "tip_4lang": {
+                "de": "Der Boden kann bei Nässe rutschig sein, tragen Sie festes Schuhwerk.",
+                "hu": "A kövezet vizesen csúszós lehet, figyelj a lépteidre a szobornál.",
+                "ro": "Pavajul poate fi alunecos când este ud, aveți grijă la trepte.",
+                "en": "The pavement can be slippery when wet; watch your step near the statue."
+              }
+            },
+            {
+              "name": "National Museum of Independence",
+              "tip_4lang": {
+                "de": "Idealer Ort, um eine Regenpause einzulegen und die Exponate zu studieren.",
+                "hu": "Tökéletes helyszín a legnagyobb felhőszakadás kivárására.",
+                "ro": "Locul ideal pentru a aștepta trecerea ploii vizitând expozițiile.",
+                "en": "Perfect place to wait out the rain while exploring the exhibits."
+              }
+            },
+            {
+              "name": "Muradie Mosque",
+              "tip_4lang": {
+                "de": "Ein ruhiger, überdachter Ort für einen Moment der Besinnung.",
+                "hu": "Csendes, fedett helyszín egy kis spirituális elvonuláshoz az esőben.",
+                "ro": "Un loc liniștit și acoperit pentru un moment de reflecție.",
+                "en": "A quiet, covered space for a moment of reflection away from the rain."
+              }
+            },
+            {
+              "name": "Lunch in the Old Town",
+              "tip_4lang": {
+                "de": "Wählen Sie ein Restaurant mit überdachtem Innenbereich.",
+                "hu": "Válassz zárt belső térrel rendelkező éttermet a melegedéshez.",
+                "ro": "Alegeți un restaurant cu interior primitor pentru a vă încălzi.",
+                "en": "Choose a restaurant with a cozy indoor area to dry off properly."
+              }
+            },
+            {
+              "name": "Lungomare Promenade",
+              "tip_4lang": {
+                "de": "Die Gischt kann bis zum Gehweg spritzen, halten Sie Abstand zur Mauer.",
+                "hu": "A hullámok felcsaphatnak a sétányra, tarts távolságot a partfalatól.",
+                "ro": "Valurile pot ajunge pe promenadă, păstrați distanța de parapet.",
+                "en": "Waves can spray onto the walkway; keep a safe distance from the wall."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Regenschirm ist wegen des Küstenwindes besser als ein Knirps.",
+              "Besuchen Sie das Museum am späten Vormittag, wenn der Regen meist am stärksten ist.",
+              "Tragen Sie wasserfeste Schuhe, da sich in der Altstadt Pfützen bilden können.",
+              "Viele Cafés an der Lungomare haben Heizstrahler und Glaswände.",
+              "Nutzen Sie die Regenzeit für eine ausgiebige albanische Kaffeekultur."
+            ],
+            "hu": [
+              "Vigyél erős esernyőt, mert a tengerparti szél könnyen kifordíthatja a gyengéket.",
+              "A múzeumlátogatást időzítsd a legintenzívebb eső idejére.",
+              "Vízálló cipő javasolt, mert az óvárosban néhol megállhat a víz.",
+              "A Lungomare legtöbb kávézója üvegfalú, így szárazon is élvezheted a kilátást.",
+              "Használd ki az időt egy lassú, többfogásos albán ebédre."
+            ],
+            "ro": [
+              "O umbrelă rezistentă este necesară din cauza rafalelor de vânt de pe coastă.",
+              "Vizitați muzeul în momentele cu precipitații maxime pentru a rămâne uscați.",
+              "Încălțămintea impermeabilă este esențială pentru zonele cu pavaj vechi.",
+              "Cafenelele de pe Lungomare sunt bine izolate și oferă vederi panoramice.",
+              "Profitați de ploaie pentru a descoperi ospitalitatea locală în taverne."
+            ],
+            "en": [
+              "A sturdy umbrella is better than a travel one due to coastal wind gusts.",
+              "Plan the museum visit for the hours when the heaviest rain is forecasted.",
+              "Waterproof footwear is recommended as puddles often form in the Old Town.",
+              "Most cafes along Lungomare have glass enclosures to keep you dry and warm.",
+              "Embrace the rain by enjoying a long, traditional Albanian coffee break."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Winter in Vlorë ist mild, aber windig. Morgens erkunden Sie den Flaggenplatz ohne die Sommerhitze. Das Unabhängigkeitsmuseum bietet eine warme Flucht vor der Meeresbrise. Nach einem deftigen Mittagessen spazieren Sie über die Lungomare, wo die Wintersonne tief über dem Meer steht. Da es gegen 17:00 Uhr dunkel wird, genießen Sie den Sonnenuntergang früh bei einem warmen Getränk in einem der modernen Cafés.",
+            "hu": "A téli Vlorë friss és szellős, tömeg nélkül fedezheted fel a Függetlenség terét. A délelőtti múzeumlátogatás segít átmelegedni a tengeri szél után. Délben kóstold meg a helyi specialitásokat, amelyek télen különösen jól esnek. A Lungomare sétányon a téli naplemente már 17 óra előtt megfestette az eget, így az estét korán egy forró csokoládé mellett zárhatod.",
+            "ro": "Iarna în Vlorë este blândă, dar vântul poate fi tăios. Începeți ziua în Piața Steagului, bucurându-vă de liniștea fără turiști. Muzeul Independenței este locul perfect pentru a vă încălzi la prânz. O plimbare pe Lungomare oferă un aer curat și vederi clare asupra insulei Sazan. Deoarece soarele apune devreme, în jur de ora 17:00, retrageți-vă din timp într-o cafenea călduroasă.",
+            "en": "Winter in Vlorë is mild yet breezy, offering a peaceful look at Flag Square. The morning museum visit provides a warm break from the sea air. After a hearty local lunch, take a brisk walk along the Lungomare under the low winter sun. Since darkness falls around 17:00, enjoy an early sunset over the Adriatic before retreating to a cozy heated cafe for the evening."
+          },
+          "stops": [
+            {
+              "name": "Flag Square (Sheshi i Flamurit)",
+              "tip_4lang": {
+                "de": "Ziehen Sie eine windfeste Jacke an, da der Platz sehr offen ist.",
+                "hu": "Öltözz rétegesen, mert a tér nagyon nyitott és szeles lehet.",
+                "ro": "Purtați o jachetă rezistentă la vânt, piața este foarte expusă.",
+                "en": "Wear a windproof jacket as the square is very open and breezy."
+              }
+            },
+            {
+              "name": "Independence Monument",
+              "tip_4lang": {
+                "de": "Perfekt für Fotos ohne die Touristenmassen des Sommers.",
+                "hu": "Kiváló alkalom fotózásra a nyári turistatömeg nélkül.",
+                "ro": "Moment ideal pentru fotografii fără aglomerația de vară.",
+                "en": "Great time for photos without the typical summer tourist crowds."
+              }
+            },
+            {
+              "name": "National Museum of Independence",
+              "tip_4lang": {
+                "de": "Nutzen Sie die Innenräume, um sich zwischendurch aufzuwärmen.",
+                "hu": "Használd ki a belső tereket a testmelegedésre két séta között.",
+                "ro": "Folosiți spațiile interioare pentru a vă încălzi între plimbări.",
+                "en": "Use the indoor exhibits to warm up between outdoor walks."
+              }
+            },
+            {
+              "name": "Muradie Mosque",
+              "tip_4lang": {
+                "de": "Im Inneren ist es oft kühler als draußen, behalten Sie die Jacke an.",
+                "hu": "Bent gyakran hűvösebb van, mint kint, ne vedd le a kabátodat.",
+                "ro": "Interiorul poate fi răcoros, păstrați haina pe umeri.",
+                "en": "The interior can be quite chilly; keep your coat on while visiting."
+              }
+            },
+            {
+              "name": "Lunch in the Old Town",
+              "tip_4lang": {
+                "de": "Probieren Sie warme Eintöpfe wie 'Tavë Kosi' zur Stärkung.",
+                "hu": "Kóstold meg a forró 'Tavë Kosi'-t, ami jól átmelegít.",
+                "ro": "Încercați o porție de 'Tavë Kosi' cald pentru a vă revigora.",
+                "en": "Try a hot serving of 'Tavë Kosi' to warm up during lunch."
+              }
+            },
+            {
+              "name": "Lungomare Promenade",
+              "tip_4lang": {
+                "de": "Der Sonnenuntergang findet hier im Winter gegen 16:45 Uhr statt.",
+                "hu": "A naplemente télen már 16:45 körül bekövetkezik.",
+                "ro": "Apusul de soare are loc în jur de ora 16:45 în timpul iernii.",
+                "en": "Sunset occurs around 16:45 during the winter months."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Handschuhe und Mütze sind für den Wind an der Promenade ratsam.",
+              "Die Sonne geht früh unter, planen Sie Outdoor-Aktivitäten vor 16 Uhr.",
+              "Winter ist Nebensaison; einige kleinere Cafés könnten geschlossen sein.",
+              "Genießen Sie die klare Sicht auf die Berge über der Bucht.",
+              "Trinken Sie 'Salep', ein warmes, traditionelles Wintergetränk."
+            ],
+            "hu": [
+              "A tengerparti szél miatt a sapka és kesztyű erősen ajánlott.",
+              "A korai sötétedés miatt a szabadtéri programokat végezd el 16 óráig.",
+              "Télen kevesebb a turista, így a kiszolgálás is személyesebb.",
+              "Ilyenkor a legtisztább a látótávolság a szemközti Sazan-sziget felé.",
+              "Kóstold meg a Salepet, a hagyományos forró téli italt."
+            ],
+            "ro": [
+              "Căciula și mănușile sunt necesare pentru plimbările pe faleză.",
+              "Planificați activitățile în aer liber înainte de ora 16:00, când se întunecă.",
+              "Iarna este extrasezon, bucurați-vă de prețurile mai mici și liniște.",
+              "Vizibilitatea spre munți și insula Sazan este maximă în zilele senine de iarnă.",
+              "Căutați 'Salep' în cafenele, o băutură caldă tradițională delicioasă."
+            ],
+            "en": [
+              "Gloves and a hat are highly recommended for the breezy promenade walk.",
+              "Plan all outdoor sightseeing before 16:00 due to early sunset.",
+              "Winter is off-season; enjoy the quiet streets and faster service.",
+              "The air is clearest in winter, offering great views of Sazan Island.",
+              "Look for 'Salep', a traditional warm milky winter drink, in local cafes."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -666,6 +856,196 @@
           "Take enough water for the climb to Kuzum Baba.",
           "Always lock your bike securely when you park it."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren in Vlorë bei Regen erfordert Vorsicht und gute Kleidung. Starten Sie an der Lungomare und achten Sie auf rutschige Stellen. Der Weg zum Flaggenplatz führt durch die Stadt, wo Pfützen tief sein können. Ein langer Stopp bei der Muradie-Moschee bietet Schutz. Das Highlight ist die Fahrt nach Kuzum Baba; der Aufstieg ist bei Nässe fordernd, aber der Blick auf die verregnete Bucht ist einzigartig. Beenden Sie die Tour frühzeitig.",
+            "hu": "A kerékpározás esőben nagy odafigyelést igényel, de a Lungomare ilyenkor is járható. A Függetlenség tere felé haladva vigyázz a csúszós útburkolati jelekre. A Muradie-mecsetnél tarts pihenőt, amíg elvonul a neheze. A Kuzum Babához vezető út nedvesen nehezebb, de a kilátás a párás öbölre megéri a fáradtságot. A túrát zárd egy forró teával a tengerparton.",
+            "ro": "Explorarea pe bicicletă în condiții de ploaie necesită echipament adecvat și atenție la drum. Începeți pe Lungomare, evitând zonele cu bălți adânci. Drumul spre Piața Steagului poate fi alunecos, deci reduceți viteza. Moscheea Muradie este un punct bun de oprire pentru adăpost. Urcarea spre Kuzum Baba este o provocare pe ploaie, dar panorama merită efortul. Încheiați ziua într-un loc uscat.",
+            "en": "Cycling in Vlorë during the rain demands caution and waterproof gear. Start along the Lungomare, watching out for slippery patches on the bike lane. Heading to Flag Square, stay alert for deep puddles in the city streets. A long break at Muradie Mosque helps wait out the showers. The ride to Kuzum Baba is tough in the wet, but the misty bay view is rewarding. Wrap up your tour early at a cozy spot."
+          },
+          "stops": [
+            {
+              "name": "Bike rental on the Lungomare",
+              "tip_4lang": {
+                "de": "Fragen Sie nach einem Rad mit gut funktionierenden Schutzblechen.",
+                "hu": "Kérj olyan kerékpárt, amin jól záró sárvédő van.",
+                "ro": "Cereți o bicicletă dotată cu apărători de noroi eficiente.",
+                "en": "Ask for a bike with well-fitted mudguards to keep you dry."
+              }
+            },
+            {
+              "name": "Ride to Flag Square",
+              "tip_4lang": {
+                "de": "Achten Sie auf rutschige Fahrbahnmarkierungen in der Stadt.",
+                "hu": "Vigyázz a csúszós felfestésekre a városi aszfalton.",
+                "ro": "Fiți atenți la marcajele rutiere, pot fi foarte alunecoase.",
+                "en": "Be cautious of slippery road markings when cycling in the city."
+              }
+            },
+            {
+              "name": "Muradie Mosque",
+              "tip_4lang": {
+                "de": "Nutzen Sie den Vorplatz, um das Rad kurz unterzustellen.",
+                "hu": "A mecset melletti részen fedett helyre teheted a bringát.",
+                "ro": "Folosiți zona de lângă moschee pentru a parca bicicleta la adăpost.",
+                "en": "Use the area near the mosque to park your bike under cover."
+              }
+            },
+            {
+              "name": "Ride to Kuzum Baba",
+              "tip_4lang": {
+                "de": "Der Anstieg kann bei Nässe rutschig sein, fahren Sie vorsichtig.",
+                "hu": "A meredek emelkedő esőben csúszhat, tekerj lassabban.",
+                "ro": "Urcarea poate fi dificilă pe ploaie, pedalați cu prudență.",
+                "en": "The steep climb can be slippery when wet; pedal cautiously."
+              }
+            },
+            {
+              "name": "Lunch with a view",
+              "tip_4lang": {
+                "de": "Stellen Sie sicher, dass es einen sicheren Platz für die nassen Räder gibt.",
+                "hu": "Válassz olyan helyet, ahol van fedett tároló a vizes bringáknak.",
+                "ro": "Căutați un loc cu parcare acoperită pentru bicicletele ude.",
+                "en": "Ensure there is a safe, covered spot for your wet bikes during lunch."
+              }
+            },
+            {
+              "name": "Relaxing ride back along the Lungomare",
+              "tip_4lang": {
+                "de": "Vermeiden Sie Pfützen, die tiefer sein könnten, als sie aussehen.",
+                "hu": "Kerüld a tócsákat, mert mélyebbek lehetnek, mint aminek látszanak.",
+                "ro": "Evitați bălțile, pot fi mai adânci decât par la prima vedere.",
+                "en": "Avoid large puddles as they might be deeper than they look."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine wasserfeste Regenhose über Ihrer normalen Kleidung.",
+              "Prüfen Sie die Bremsen vor der Abfahrt von Kuzum Baba besonders genau.",
+              "Vermeiden Sie plötzliches Bremsen auf nassem Kopfsteinpflaster.",
+              "Nutzen Sie die Radwege an der Lungomare, sie leiten Wasser besser ab.",
+              "Wischen Sie den Sattel nach jedem Stopp trocken."
+            ],
+            "hu": [
+              "Viselj vízhatlan nadrágot a sima ruhád felett.",
+              "A Kuzum Babáról lefelé jövet fokozottan ellenőrizd a fékeket.",
+              "Kerüld a hirtelen fékezést a vizes macskakövön.",
+              "Használd a Lungomare bringaútját, ott kevesebb a megálló víz.",
+              "Minden megálló után töröld szárazra a nyerget."
+            ],
+            "ro": [
+              "Purtați pantaloni impermeabili peste hainele obișnuite.",
+              "Verificați frânele cu atenție înainte de a coborî de la Kuzum Baba.",
+              "Evitați frânările bruște pe porțiunile cu pavaj umed.",
+              "Folosiți pistele de biciclete de pe Lungomare, drenează apa mai bine.",
+              "Ștergeți șaua cu o cârpă uscată după fiecare oprire."
+            ],
+            "en": [
+              "Wear waterproof over-trousers to stay dry during the ride.",
+              "Double-check your brakes before descending from Kuzum Baba.",
+              "Avoid sudden braking on wet cobblestones or road paint.",
+              "Stick to the Lungomare bike paths as they handle water better.",
+              "Always wipe your saddle dry with a cloth after each stop."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im Winter in Vlorë ist erfrischend. Die Lungomare bietet viel Platz und eine klare Brise. Morgens radeln Sie entspannt zum Flaggenplatz und zur Muradie-Moschee. Der Anstieg nach Kuzum Baba bringt den Kreislauf in Schwung und belohnt mit einer scharfen Fernsicht auf das Meer. Da die Sonne früh untergeht, ist die Rückfahrt entlang der Küste im goldenen Licht des Nachmittags besonders schön. Denken Sie an warme Handschuhe.",
+            "hu": "A téli biciklizés Vlorëban frissítő élmény, a Lungomare ilyenkor szinte csak a tiéd. Tekerj el a Függetlenség terére, majd látogasd meg a Muradie-mecsetet. A Kuzum Babára való feljutás felmelegít a hűvös időben, a kilátás pedig ilyenkor a legtisztább. A naplemente korán érkezik, így a délutáni visszaút a tengerparton arany színekben úszik. Készülj meleg kesztyűvel a menetszél ellen.",
+            "ro": "Ciclismul de iarnă în Vlorë este revigorant, cu mult spațiu liber pe Lungomare. Dimineața, pedalați spre Piața Steagului și Moscheea Muradie în aerul rece și curat. Urcarea spre Kuzum Baba vă va încălzi rapid, oferind o panoramă clară asupra Adriaticii. Deoarece soarele apune devreme, drumul de întoarcere pe faleză în lumina aurie este spectaculos. Nu uitați mănușile călduroase.",
+            "en": "Winter cycling in Vlorë is refreshing, with plenty of space on the Lungomare. Ride to Flag Square and Muradie Mosque in the crisp morning air. The climb to Kuzum Baba will get your heart rate up and provide clear views of the distant horizon. As sunset is early, the return ride along the coast in the golden afternoon light is a highlight. Make sure to pack warm gloves for the sea breeze."
+          },
+          "stops": [
+            {
+              "name": "Bike rental on the Lungomare",
+              "tip_4lang": {
+                "de": "Wählen Sie ein Rad mit gut aufgepumpten Reifen für kalte Luft.",
+                "hu": "Válassz jól felfújt gumikkal rendelkező bringát a hideg időre.",
+                "ro": "Alegeți o bicicletă cu pneurile bine umflate pentru aerul rece.",
+                "en": "Choose a bike with well-inflated tires suitable for cold air."
+              }
+            },
+            {
+              "name": "Ride to Flag Square",
+              "tip_4lang": {
+                "de": "Tragen Sie ein Tuch vor dem Gesicht gegen den kalten Fahrtwind.",
+                "hu": "Viselj sálat vagy arcmaszkot a hideg menetszél ellen.",
+                "ro": "Purtați o eșarfă pentru a vă proteja fața de vântul rece.",
+                "en": "Wear a neck gaiter or scarf to protect your face from the cold wind."
+              }
+            },
+            {
+              "name": "Muradie Mosque",
+              "tip_4lang": {
+                "de": "Kurzer Stopp reicht, um nicht auszukühlen.",
+                "hu": "Csak rövid ideig állj meg, hogy ne hűlj ki túlságosan.",
+                "ro": "O oprire scurtă este suficientă pentru a nu vă răci prea tare.",
+                "en": "Keep the stop brief to maintain your body heat while cycling."
+              }
+            },
+            {
+              "name": "Ride to Kuzum Baba",
+              "tip_4lang": {
+                "de": "Nutzen Sie den Anstieg, um warm zu werden.",
+                "hu": "Használd ki az emelkedőt, ez garantáltan átmelegít.",
+                "ro": "Profitați de urcare pentru a vă pune sângele în mișcare.",
+                "en": "The uphill climb is the perfect way to warm up in the winter air."
+              }
+            },
+            {
+              "name": "Lunch with a view",
+              "tip_4lang": {
+                "de": "Suchen Sie einen Platz an der Sonne hinter Glas.",
+                "hu": "Keress napos, üveg mögötti asztalt az ebédhez.",
+                "ro": "Căutați o masă la soare, în spatele geamurilor cafenelei.",
+                "en": "Look for a sunny table behind glass to soak up the winter light."
+              }
+            },
+            {
+              "name": "Relaxing ride back along the Lungomare",
+              "tip_4lang": {
+                "de": "Gegen 16:30 Uhr sinken die Temperaturen spürbar.",
+                "hu": "16:30 után a hőmérséklet érezhetően zuhanni kezd.",
+                "ro": "După ora 16:30, temperaturile scad considerabil.",
+                "en": "Temperatures drop significantly after 16:30 as the sun sets."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Handschuhe sind das wichtigste Accessoire im Winter.",
+              "Tragen Sie Kleidung in Schichten, da Sie beim Bergauffahren schwitzen.",
+              "Planen Sie die Tour so, dass Sie vor Sonnenuntergang zurück sind.",
+              "Die Seeluft im Winter ist sehr gesund, aber kühlt schnell aus.",
+              "Nutzen Sie die leeren Radwege für ein zügiges Tempo."
+            ],
+            "hu": [
+              "A meleg kesztyű a legfontosabb kiegészítő a téli tekeréshez.",
+              "Öltözz rétegesen, mert az emelkedőn könnyen megizzadsz.",
+              "Úgy tervezd a túrát, hogy naplemente előtt visszaérj.",
+              "A téli tengeri levegő friss, de hamar lehűtheti a szervezetedet.",
+              "Használd ki az üres kerékpárutakat a tempósabb haladáshoz."
+            ],
+            "ro": [
+              "Mănușile călduroase sunt esențiale pentru a evita amorțirea mâinilor.",
+              "Purtați haine în straturi, veți transpira la urcarea spre Kuzum Baba.",
+              "Finalizați traseul înainte de apusul soarelui pentru siguranță.",
+              "Aerul marin de iarnă este revigorant, dar răcește corpul rapid.",
+              "Profită de pistele libere pentru a menține un ritm constant."
+            ],
+            "en": [
+              "Warm gloves are the most critical accessory for winter riding.",
+              "Dress in layers as the uphill climb will definitely make you sweat.",
+              "Complete your ride before the sun sets to avoid the sharp cold.",
+              "The winter sea air is healthy but can chill you quickly if you stop.",
+              "Take advantage of the empty bike paths for a faster pace."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1046,6 +1426,214 @@
           "Parking can be difficult in the city center; use paid parking lots.",
           "Download offline maps, as mobile coverage can be patchy in rural areas."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Im Auto ist Vlorë bei Regen komfortabel zu erkunden. Starten Sie mit der Fahrt zum Kloster Zvërnec; die Brücke kann nass und rutschig sein, aber die Insel wirkt mystisch. Danach geht es hinauf zur Burg Kaninë, die oft in Wolken gehüllt ist. Nach einem Mittagessen im Trockenen besuchen Sie die Museen im Stadtzentrum. Der Tag endet sicher und trocken bei einer Fahrt entlang der Lungomare, während der Regen gegen die Scheiben peitscht.",
+            "hu": "Autóval az esős Vlorë is kényelmesen felfedezhető. Kezdj a Zvërnec-kolostornál, ahol a fahíd esőben misztikus látványt nyújt. Ezután hajts fel a Kaninë várához, amely ilyenkor gyakran felhőbe burkolózik. Egy bőséges, fedett helyen elköltött ebéd után nézd meg a városközpont múzeumait. A napot zárd egy autós korzózással a Lungomare mentén, figyelve a viharos tengert.",
+            "ro": "Cu mașina, explorarea orașului Vlorë pe ploaie este confortabilă și eficientă. Începeți cu Mănăstirea Zvërnec; podul de lemn poate fi alunecos, dar peisajul este mistic. Continuați spre Castelul Kaninë, care oferă o perspectivă dramatică printre nori. După un prânz cald, vizitați muzeele din centru. Încheiați ziua cu o plimbare relaxantă cu mașina pe Lungomare.",
+            "en": "Exploring Vlorë by car during the rain is the most comfortable option. Start with a drive to Zvërnec Monastery; the wooden bridge looks mystical in the mist. Then, head up to Kaninë Castle, which is often shrouded in dramatic clouds. After a dry lunch, visit the museums in the city center. End your day with a scenic drive along the Lungomare, watching the rain hit the waves from the warmth of your car."
+          },
+          "stops": [
+            {
+              "name": "Drive to Zvërnec Monastery (Cluster A)",
+              "tip_4lang": {
+                "de": "Parken Sie nah am Brückenzugang, um den Weg im Regen zu verkürzen.",
+                "hu": "Parkolj minél közelebb a hídhoz, hogy keveset kelljen áznod.",
+                "ro": "Parcați cât mai aproape de pod pentru a minimiza expunerea la ploaie.",
+                "en": "Park close to the bridge entrance to minimize walking in the rain."
+              }
+            },
+            {
+              "name": "Walk on Zvërnec Island",
+              "tip_4lang": {
+                "de": "Die Holzplanken der Brücke sind bei Nässe extrem rutschig.",
+                "hu": "A híd fapadlói vizesen rendkívül csúszósak, vigyázz!",
+                "ro": "Scândurile de lemn ale podului sunt extrem de alunecoase pe ploaie.",
+                "en": "The wooden planks of the bridge become very slippery when wet."
+              }
+            },
+            {
+              "name": "Drive to Kaninë Castle (Cluster B)",
+              "tip_4lang": {
+                "de": "Die Straße nach oben ist schmal; fahren Sie bei Nebel vorsichtig.",
+                "hu": "A felfelé vezető út szűk, köd esetén vezess óvatosan.",
+                "ro": "Drumul spre castel este îngust; conduceți cu prudență pe ceață.",
+                "en": "The road up is narrow; drive carefully if there is mist or fog."
+              }
+            },
+            {
+              "name": "Lunch in Kaninë",
+              "tip_4lang": {
+                "de": "Suchen Sie ein Lokal mit Parkplatz direkt vor der Tür.",
+                "hu": "Válassz olyan éttermet, amelynek közvetlen parkolója van.",
+                "ro": "Alegeți un local care oferă parcare chiar în fața intrării.",
+                "en": "Pick a restaurant that has parking right in front of the door."
+              }
+            },
+            {
+              "name": "Drive to Vlorë center (Cluster C)",
+              "tip_4lang": {
+                "de": "Parkhäuser im Zentrum sind bei Regen oft schnell belegt.",
+                "hu": "A központi parkolók esőben hamar megtelnek, indulj időben.",
+                "ro": "Parcările din centru se ocupă rapid pe ploaie, veniți din timp.",
+                "en": "Central parking spots fill up quickly in the rain; arrive early."
+              }
+            },
+            {
+              "name": "Independence Monument & Museum",
+              "tip_4lang": {
+                "de": "Lassen Sie Schirme im Auto, wenn der Weg zum Eingang kurz ist.",
+                "hu": "Hagyd az esernyőt az autóban, ha elég közel tudsz parkolni.",
+                "ro": "Lăsați umbrelele în mașină dacă găsiți parcare lângă intrare.",
+                "en": "Leave umbrellas in the car if you manage to park near the entrance."
+              }
+            },
+            {
+              "name": "Coffee and relaxation on the Lungomare",
+              "tip_4lang": {
+                "de": "Genießen Sie den Blick aus dem Auto, falls es zu stark regnet.",
+                "hu": "Élvezd a kilátást az autóból, ha túl erősen esne az eső.",
+                "ro": "Admirați marea din mașină dacă ploaia devine prea densă.",
+                "en": "Enjoy the sea view from your car if the rain is too heavy to walk."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Scheibenwischer vor der Fahrt in die Berge.",
+              "In der Altstadt von Vlorë kann es bei Starkregen zu Überflutungen kommen.",
+              "Nutzen Sie die Parkplätze der großen Restaurants an der Lungomare.",
+              "Fahren Sie nach Kaninë nur bei ausreichender Sicht.",
+              "Halten Sie im Auto eine Decke bereit, falls Sie nass werden."
+            ],
+            "hu": [
+              "Ellenőrizd az ablaktörlőket a hegyi szakasz előtt.",
+              "Vlorë óvárosában heves esőzéskor kisebb vízátfolyások lehetnek.",
+              "Használd a Lungomare nagyobb éttermeinek saját parkolóit.",
+              "Csak megfelelő látási viszonyok mellett hajts fel Kaninëba.",
+              "Legyen nálad váltóruha az autóban, ha mégis megáznál."
+            ],
+            "ro": [
+              "Verificați ștergătoarele înainte de a urca spre zonele înalte.",
+              "În centrul vechi pot apărea acumulări de apă în timpul ploilor torențiale.",
+              "Folosiți parcările private ale restaurantelor mari de pe Lungomare.",
+              "Urcați la Kaninë doar dacă vizibilitatea este acceptabilă.",
+              "Țineți o pătură sau haine de schimb în mașină pentru orice eventualitate."
+            ],
+            "en": [
+              "Check your windshield wipers before heading into the hills.",
+              "Be aware that some streets in the Old Town may flood during heavy rain.",
+              "Utilize the private parking lots of the larger Lungomare restaurants.",
+              "Only drive up to Kaninë if visibility is safe enough for the narrow road.",
+              "Keep a spare set of clothes in the car in case you get soaked."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine Wintertour mit dem Auto zeigt Vlorë von seiner ruhigen Seite. Morgens fahren Sie zum Kloster Zvërnec, wo die klare Luft den Blick auf die Lagune schärft. Danach führt der Weg hinauf nach Kaninë; die Burg bietet im Winter die beste Fernsicht bis nach Italien. Nach einem Mittagessen am Kamin im Bergdorf geht es zurück ins Zentrum für Kultur. Den Sonnenuntergang erleben Sie entspannt bei einer Fahrt entlang der Lungomare, bevor es kühl wird.",
+            "hu": "A téli autós túra Vlorë nyugodt arcát mutatja meg. Kezdj a Zvërnec-kolostornál, ahol a friss levegőben távolabbra látsz a lagúna felett. Ezután irány Kaninë vára; télen innen a legtisztább a panoráma, akár az olasz partokig is elláthatsz. Egy hegyi ebéd után térj vissza a városba múzeumlátogatásra. A naplementét a Lungomare kényelméből csodálhatod meg, mielőtt beállna az esti fagy.",
+            "ro": "O călătorie cu mașina iarna dezvăluie o latură liniștită a orașului Vlorë. Începeți la Mănăstirea Zvërnec, unde aerul curat oferă o vedere excelentă asupra lagunei. Urcarea spre Kaninë este spectaculoasă, castelul oferind cea mai clară panoramă a iernii. După un prânz tradițional, reveniți în oraș pentru puțină istorie. Încheiați ziua cu o plimbare pe Lungomare în lumina caldă a apusului.",
+            "en": "A winter car tour shows Vlorë at its most peaceful. Start at Zvërnec Monastery, where the crisp air makes the lagoon views incredibly sharp. Then, drive up to Kaninë Castle; in winter, you might even spot the Italian coast on clear days. After a warm mountain lunch, return to the center for a dose of culture. Enjoy the early sunset from the comfort of your car while cruising along the Lungomare."
+          },
+          "stops": [
+            {
+              "name": "Drive to Zvërnec Monastery (Cluster A)",
+              "tip_4lang": {
+                "de": "Im Winter ist es hier sehr ruhig, ideal für Naturbeobachtungen.",
+                "hu": "Télen itt nagy a csend, ideális a lagúna madárvilágának megfigyelésére.",
+                "ro": "Iarna este foarte liniște aici, perfect pentru a observa păsările din lagună.",
+                "en": "Winter is very quiet here, making it ideal for lagoon birdwatching."
+              }
+            },
+            {
+              "name": "Walk on Zvërnec Island",
+              "tip_4lang": {
+                "de": "Tragen Sie eine warme Jacke, der Wind über der Lagune ist kalt.",
+                "hu": "Vegyél fel meleg kabátot, a lagúna felett hideg szél fúj.",
+                "ro": "Purtați o haină groasă, vântul de peste lagună este tăios.",
+                "en": "Wear a warm coat; the wind across the lagoon can be quite cold."
+              }
+            },
+            {
+              "name": "Drive to Kaninë Castle (Cluster B)",
+              "tip_4lang": {
+                "de": "Die Fernsicht ist im Winter oft klarer als im Sommer.",
+                "hu": "A látótávolság télen gyakran sokkal jobb, mint nyáron.",
+                "ro": "Vizibilitatea este adesea mult mai bună iarna decât vara.",
+                "en": "The long-distance visibility is often much clearer in winter."
+              }
+            },
+            {
+              "name": "Lunch in Kaninë",
+              "tip_4lang": {
+                "de": "Genießen Sie lokale Spezialitäten am Kaminfeuer.",
+                "hu": "Keresd a kandallós helyeket a hegyi faluban.",
+                "ro": "Bucurați-vă de specialitățile locale lângă focul din șemineu.",
+                "en": "Enjoy local specialties by a warm fireplace in the mountain village."
+              }
+            },
+            {
+              "name": "Drive to Vlorë center (Cluster C)",
+              "tip_4lang": {
+                "de": "Im Winter finden Sie leichter Parkplätze im Zentrum.",
+                "hu": "Télen sokkal könnyebben találsz parkolót a központban.",
+                "ro": "Iarna veți găsi locuri de parcare mult mai ușor în centru.",
+                "en": "You will find parking in the center much more easily in winter."
+              }
+            },
+            {
+              "name": "Independence Monument & Museum",
+              "tip_4lang": {
+                "de": "Die Innenräume bieten eine gute Pause von der Kälte.",
+                "hu": "A múzeum belső tereiben jól átmelegedhetsz.",
+                "ro": "Spațiile interioare oferă o pauză binemeritată de la frig.",
+                "en": "The indoor exhibits offer a good escape from the winter chill."
+              }
+            },
+            {
+              "name": "Coffee and relaxation on the Lungomare",
+              "tip_4lang": {
+                "de": "Der Sonnenuntergang ist im Winter besonders farbenfroh.",
+                "hu": "A téli naplementék gyakran élénkebb színekben pompáznak.",
+                "ro": "Apusurile de iarnă sunt adesea mult mai colorate.",
+                "en": "Winter sunsets are often more vibrant and colorful here."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Sitzheizung für die Fahrt nach Kaninë.",
+              "Die Straßen können in den Bergen frühmorgens glatt sein.",
+              "Im Winter gibt es keine Parkplatzgebühren an vielen Stellen.",
+              "Fahren Sie rechtzeitig zum Sonnenuntergang an die Lungomare.",
+              "Genießen Sie die Ruhe in den touristischen Hotspots."
+            ],
+            "hu": [
+              "Használd az ülésfűtést a Kaninëba vezető úton.",
+              "A hegyi utak kora reggel néhol deresek vagy csúszósak lehetnek.",
+              "Télen sok helyen ingyenes vagy könnyebb a parkolás.",
+              "Érj le a Lungomare sétányra legkésőbb 16:30-ra a naplementéhez.",
+              "Élvezd a tömegmentes látványosságokat."
+            ],
+            "ro": [
+              "Folosiți încălzirea în scaune pentru drumul spre munte.",
+              "Drumurile montane pot fi înghețate dimineața devreme.",
+              "Multe zone de parcare sunt gratuite sau mai libere iarna.",
+              "Ajungeți pe Lungomare înainte de 16:30 pentru cel mai bun apus.",
+              "Profitați de liniștea din locurile care vara sunt supraaglomerate."
+            ],
+            "en": [
+              "Make use of your car's seat heating for the drive up the mountain.",
+              "Be careful of icy or frosty patches on mountain roads early in the morning.",
+              "Many parking zones are free or much easier to access in winter.",
+              "Head to Lungomare by 16:30 at the latest for the best sunset view.",
+              "Enjoy having the top tourist spots almost entirely to yourself."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1382,6 +1970,196 @@
           "Have small change ready for the tickets.",
           "Be prepared for crowded buses during peak hours."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus durch das verregnete Vlorë zu fahren, ist eine authentische Erfahrung. Starten Sie am Flaggenplatz und nutzen Sie die Wartehäuschen als Schutz. Die Muradie-Moschee und das Unabhängigkeitsmuseum sind ideale Ziele, da sie nah an den Buslinien liegen. Ein Bus bringt Sie trocken zur Lungomare für ein Mittagessen am Meer. Den Abschluss bildet die Fahrt nach Kuzum Baba, wo Sie den Regen über der Stadt von oben betrachten können.",
+            "hu": "Buszozni az esős Vlorëban igazi helyi élmény. Kezdj a Függetlenség terénél, és használd a várókat menedékként. A Muradie-mecset és a múzeum könnyen elérhető busszal, így keveset kell az esőben gyalogolnod. A Lungomare kávézóihoz is kényelmesen eljuthatsz közösségi közlekedéssel. A napot zárd a Kuzum Babánál, ahonnan fentről nézheted a párás várost.",
+            "ro": "Utilizarea autobuzului în Vlorë pe ploaie este o opțiune practică și autentică. Începeți în Piața Steagului, folosind stațiile acoperite pentru a vă proteja. Moscheea Muradie și muzeul sunt aproape de liniile principale. Autobuzul vă va duce rapid spre Lungomare pentru un prânz la adăpost. Încheiați ziua la Kuzum Baba, privind orașul scăldat în ploaie de la înălțime.",
+            "en": "Taking the bus through rainy Vlorë is a practical and authentic way to see the city. Start at Flag Square, using the bus shelters to stay dry between rides. Muradie Mosque and the museum are conveniently located near transit stops. A quick bus ride brings you to Lungomare for a seafront lunch away from the weather. End the day at Kuzum Baba, watching the rain clouds over the city from above."
+          },
+          "stops": [
+            {
+              "name": "Trip to Flag Square (Cluster A)",
+              "tip_4lang": {
+                "de": "Warten Sie in den überdachten Busstationen auf den nächsten Bus.",
+                "hu": "Várj a fedett buszmegállókban, hogy ne ázz meg.",
+                "ro": "Așteptați în stațiile de autobuz acoperite pentru a rămâne uscați.",
+                "en": "Stay inside the covered bus shelters while waiting for your ride."
+              }
+            },
+            {
+              "name": "Muradie Mosque & Old Town",
+              "tip_4lang": {
+                "de": "Der Fußweg vom Bus zur Moschee ist kurz, ideal bei Schauern.",
+                "hu": "A buszmegállótól csak pár lépés a mecset, ideális esőben.",
+                "ro": "Distanța de la stație la moschee este scurtă, ideală pe ploaie.",
+                "en": "The walk from the bus stop to the mosque is very short and convenient."
+              }
+            },
+            {
+              "name": "National Museum of Independence",
+              "tip_4lang": {
+                "de": "Informieren Sie sich über die Buszeiten, um langes Warten zu vermeiden.",
+                "hu": "Nézd meg a menetrendet, hogy ne kelljen sokat várnod kint.",
+                "ro": "Verificați orarul autobuzelor pentru a nu aștepta mult în ploaie.",
+                "en": "Check the bus schedule in advance to minimize waiting in the wet."
+              }
+            },
+            {
+              "name": "Bus ride to the Lungomare (Cluster B)",
+              "tip_4lang": {
+                "de": "Die Busse können bei Regen voll sein, halten Sie Kleingeld bereit.",
+                "hu": "Esőben a buszok zsúfoltak lehetnek, készíts elő aprópénzt.",
+                "ro": "Autobuzele pot fi aglomerate pe ploaie, pregătiți banii de bilet.",
+                "en": "Buses can be crowded during rain; have small change ready for tickets."
+              }
+            },
+            {
+              "name": "Lunch by the sea",
+              "tip_4lang": {
+                "de": "Suchen Sie ein Restaurant direkt neben einer Bushaltestelle.",
+                "hu": "Válassz olyan éttermet, amely közel van egy buszmegállóhoz.",
+                "ro": "Alegeți un restaurant situat aproape de o stație de autobuz.",
+                "en": "Choose a restaurant that is located close to a major bus stop."
+              }
+            },
+            {
+              "name": "Bus ride to Kuzum Baba (Cluster C)",
+              "tip_4lang": {
+                "de": "Der Bus fährt bis fast nach oben, wenig Fußweg im Regen.",
+                "hu": "A busz majdnem a tetőig visz, így keveset kell áznod felfelé.",
+                "ro": "Autobuzul vă lasă aproape de vârf, reducând mersul pe jos.",
+                "en": "The bus takes you almost to the top, minimizing walking in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Halten Sie Kleingeld für den Fahrkartenkauf im Bus bereit.",
+              "Die Busse verkehren bei Regen oft unregelmäßiger.",
+              "Nutzen Sie die App oder lokale Infos für aktuelle Abfahrtszeiten.",
+              "Tragen Sie eine wasserfeste Jacke, da die Stationen klein sein können.",
+              "Vermeiden Sie die Stoßzeiten am frühen Nachmittag."
+            ],
+            "hu": [
+              "Készíts elő aprópénzt a buszjegyhez, amit a kalauznál vehetsz meg.",
+              "Esőben a buszok menetrendje kiszámíthatatlanabb lehet.",
+              "Használd a helyi infókat az aktuális indulásokról.",
+              "Viselj vízhatlan kabátot, mert a megállók nem mindig védenek teljesen.",
+              "Kerüld a kora délutáni csúcsidőt, ha teheted."
+            ],
+            "ro": [
+              "Pregătiți bancnote mici pentru achiziționarea biletului în autobuz.",
+              "Autobuzele pot avea întârzieri în perioadele cu ploi intense.",
+              "Cereți localnicilor informații despre cele mai rapide rute.",
+              "Purtați haine impermeabile, stațiile nu oferă întotdeauna protecție totală.",
+              "Evitați orele de vârf pentru a găsi un loc pe scaun."
+            ],
+            "en": [
+              "Keep small denominations of Lek ready to buy tickets on the bus.",
+              "Buses may run less predictably during heavy rain showers.",
+              "Check local apps or ask residents for real-time bus info.",
+              "Wear a waterproof jacket as some bus shelters are quite small.",
+              "Avoid peak hours in the afternoon to ensure you get a seat."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Vlorë mit dem Bus im Winter ist eine gemütliche Art, die Stadt zu sehen. Morgens bringt Sie der Bus zum Flaggenplatz, wo Sie die frische Luft genießen. Das Unabhängigkeitsmuseum bietet eine warme Kulturpause. Mit dem Bus geht es weiter zur Lungomare, die im Winterlicht glänzt. Vor dem frühen Sonnenuntergang gegen 17:00 Uhr fahren Sie hinauf nach Kuzum Baba, um die Lichter der Stadt im Dunkeln zu sehen. Die Busse sind im Winter angenehm geheizt.",
+            "hu": "A téli Vlorë felfedezése busszal kényelmes és meleg választás. Kezdj a Függetlenség terénél, majd látogasd meg a múzeumot, hogy átmelegedj. A Lungomare sétányra is gyorsan eljuthatsz busszal, ahol élvezheted a téli napsütést. A korai, 17 óra körüli naplemente előtt menj fel busszal a Kuzum Babára, hogy lásd a város kigyúló fényeit. A buszok télen kellemesen fűtöttek.",
+            "ro": "Explorarea orașului Vlorë cu autobuzul iarna este o metodă confortabilă de a vizita. Începeți în Piața Steagului, bucurându-vă de aerul curat de iarnă. Muzeul Independenței este locul perfect pentru o pauză călduroasă. Continuați cu autobuzul spre Lungomare pentru vederi marine superbe. Înainte de apusul devreme, urcați la Kuzum Baba pentru a vedea luminile orașului aprinzându-se.",
+            "en": "Visiting Vlorë by bus in winter is a cozy way to get around the city. Start at Flag Square in the crisp morning air, then head to the museum for a warm cultural break. A short bus ride takes you to Lungomare, sparkling in the winter light. Before the early sunset around 17:00, take the bus up to Kuzum Baba to see the city lights begin to flicker. Buses are usually well-heated during the winter months."
+          },
+          "stops": [
+            {
+              "name": "Trip to Flag Square (Cluster A)",
+              "tip_4lang": {
+                "de": "Die Busse sind im Winter weniger überfüllt.",
+                "hu": "Télen a buszok kevésbé zsúfoltak, könnyebben találsz helyet.",
+                "ro": "Autobuzele sunt mai puțin aglomerate în timpul iernii.",
+                "en": "Buses are generally less crowded during the winter season."
+              }
+            },
+            {
+              "name": "Muradie Mosque & Old Town",
+              "tip_4lang": {
+                "de": "Nutzen Sie den Bus, um weite Strecken in der Kälte zu vermeiden.",
+                "hu": "Használd a buszt, hogy ne kelljen sokat gyalogolnod a hidegben.",
+                "ro": "Folosiți autobuzul pentru a evita mersul prelungit prin frig.",
+                "en": "Use the bus to cover longer distances and avoid the cold wind."
+              }
+            },
+            {
+              "name": "National Museum of Independence",
+              "tip_4lang": {
+                "de": "Ein gut geheizter Ort für den späten Vormittag.",
+                "hu": "Kellemesen fűtött helyszín a délelőtti melegedéshez.",
+                "ro": "Un spațiu bine încălzit, perfect pentru orele prânzului.",
+                "en": "A well-heated indoor location, perfect for late morning visits."
+              }
+            },
+            {
+              "name": "Bus ride to the Lungomare (Cluster B)",
+              "tip_4lang": {
+                "de": "Genießen Sie die Aussicht aus dem warmen Fenster.",
+                "hu": "Élvezd a kilátást a busz meleg ablakán keresztül.",
+                "ro": "Admirați peisajul de la fereastra caldă a autobuzului.",
+                "en": "Enjoy the seaside views from the warmth of the bus window."
+              }
+            },
+            {
+              "name": "Lunch by the sea",
+              "tip_4lang": {
+                "de": "Warten Sie nach dem Essen im Restaurant, bis der Bus kommt.",
+                "hu": "Ebéd után maradj bent, amíg meg nem érkezik a következő busz.",
+                "ro": "Rămâneți în restaurant până când se apropie ora autobuzului.",
+                "en": "Wait inside the restaurant until just before your bus arrives."
+              }
+            },
+            {
+              "name": "Bus ride to Kuzum Baba (Cluster C)",
+              "tip_4lang": {
+                "de": "Beachten Sie, dass es nach 17 Uhr oben sehr kalt wird.",
+                "hu": "Vedd figyelembe, hogy 17 óra után odafent hirtelen lehűl a levegő.",
+                "ro": "Rețineți că după ora 17:00 se face foarte frig sus pe deal.",
+                "en": "Be aware that temperatures drop sharply at the top after 17:00."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Busse sind im Winter oft die wärmste Art des Reisens.",
+              "Die Abfahrtszeiten können im Winter leicht variieren.",
+              "Trinken Sie einen heißen Kaffee an den Endhaltestellen.",
+              "Nutzen Sie die Linie zum Hafen für eine gute Stadttour.",
+              "Die letzte Fahrt nach Kuzum Baba sollte vor 16:30 Uhr sein."
+            ],
+            "hu": [
+              "Télen gyakran a buszozás a legmelegebb közlekedési mód.",
+              "A menetrend télen némileg eltérhet a nyáritól.",
+              "Igyál egy forró kávét a végállomások környékén.",
+              "A kikötő felé tartó vonal remek városnéző útvonal télen is.",
+              "Az utolsó buszt a Kuzum Babára 16:30 előtt érdemes elérni."
+            ],
+            "ro": [
+              "Autobuzul este adesea cea mai călduroasă modalitate de deplasare.",
+              "Orarele de iarnă pot suferi mici modificări față de cele de vară.",
+              "Savurați o cafea fierbinte în apropierea nodurilor de transport.",
+              "Linia spre port oferă o perspectivă bună asupra orașului iarna.",
+              "Încercați să ajungeți la Kuzum Baba cu autobuzul de dinainte de 16:30."
+            ],
+            "en": [
+              "Buses are often the warmest way to travel around Vlorë in winter.",
+              "Bus schedules might vary slightly during the winter months.",
+              "Grab a hot coffee near the major transit hubs while waiting.",
+              "The port bus line offers a great scenic tour of the city streets.",
+              "Aim to take the bus to Kuzum Baba before 16:30 for the best light."
+            ]
+          }
+        }
       }
     }
   }

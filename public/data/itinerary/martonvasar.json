@@ -314,6 +314,206 @@
           "Check the museums' opening hours in advance as they can vary seasonally.",
           "Bring a picnic to enjoy in the beautiful park."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen in Martonvásár beginnt mit Regen im Schlosspark. Die Wege unter den alten Platanen bieten begrenzten Schutz, daher ist ein Regenschirm unerlässlich.\n\nMittags verlagert sich das Programm in das neugotische Schloss Brunszvik. Die Innenräume und das Beethoven-Museum sind ideale Zufluchtsorte vor dem nassen Wetter.\n\nNachmittags besuchen Sie das Kindergartenmuseum und die St.-Anna-Kirche, die beide trockene kulturelle Erlebnisse bieten.\n\nDer Tag endet mit einem kurzen Blick auf den Schlossee, bevor Sie sich in ein lokales Café zurückziehen.",
+            "hu": "A reggel esősen indul a Martonvásári Kastélyparkban. Az öreg platánok alatt némi menedéket találunk, de az esernyő kötelező.\n\nDélben a program a neogótikus Brunszvik-kastélyba költözik. A belső terek és a Beethoven Emlékmúzeum tökéletes menedéket nyújtanak a csapadék elől.\n\nDélután az Óvodamúzeum és a Szent Anna-templom látogatása következik, mindkét helyszín fedett kulturális élményt kínál.\n\nA nap a kastélytó melletti rövid, esős sétával zárul, mielőtt betérnénk egy közeli cukrászdába.",
+            "ro": "Dimineața începe cu ploaie în parcul castelului din Martonvásár. Drumurile sub platanii bătrâni oferă adăpost limitat, așa că umbrela este esențială.\n\nLa prânz, programul se mută în castelul neogotic Brunszvik. Interioarele și Muzeul Memorial Beethoven sunt refugii ideale împotriva vremii umede.\n\nDupă-amiaza, vizitați Muzeul Grădinițelor și Biserica Sfânta Ana, ambele oferind experiențe culturale la adăpost.\n\nZiua se încheie cu o scurtă privire spre lacul castelului înainte de a vă retrage într-o cafenea locală.",
+            "en": "The morning starts with rain in the Martonvásár Castle Park. The paths under the old plane trees offer limited shelter, making an umbrella essential.\n\nAt noon, the program moves into the neo-Gothic Brunszvik Castle. The interiors and the Beethoven Memorial Museum are ideal refuges from the wet weather.\n\nIn the afternoon, visit the Kindergarten Museum and St. Anne's Church, both offering dry cultural experiences.\n\nThe day ends with a short, rainy look at the castle lake before retreating to a local café."
+          },
+          "stops": [
+            {
+              "name": "Arrival at the Castle Park",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den großen Bäumen, wenn der Regen zunimmt.",
+                "hu": "Keressen menedéket a nagy fák alatt, ha felerősödik az eső.",
+                "ro": "Căutați adăpost sub copacii mari dacă ploaia se intensifică.",
+                "en": "Seek shelter under the large trees if the rain intensifies."
+              }
+            },
+            {
+              "name": "Beethoven Statue",
+              "tip_5lang": {
+                "de": "Ein schnelles Foto im Regen; die Statue ist ungeschützt.",
+                "hu": "Egy gyors fotó az esőben; a szobor fedetlen területen van.",
+                "ro": "O fotografie rapidă în ploaie; statuia este neprotejată.",
+                "en": "A quick photo in the rain; the statue is in an unsheltered area."
+              }
+            },
+            {
+              "name": "Brunszvik Castle",
+              "tip_5lang": {
+                "de": "Genießen Sie die neogotische Architektur im trockenen Inneren.",
+                "hu": "Élvezze a neogótikus építészetet a száraz belső terekben.",
+                "ro": "Bucurați-vă de arhitectura neogotică în interiorul uscat.",
+                "en": "Enjoy the neo-Gothic architecture in the dry interior."
+              }
+            },
+            {
+              "name": "Beethoven Memorial Museum",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um eine Stunde im Trockenen zu verbringen.",
+                "hu": "Tökéletes helyszín egy óra eltöltésére a szárazban.",
+                "ro": "Locul perfect pentru a petrece o oră la adăpost.",
+                "en": "Perfect place to spend an hour in the dry."
+              }
+            },
+            {
+              "name": "Kindergarten Museum",
+              "tip_5lang": {
+                "de": "Interessante Innenausstellung, ideal bei Regen.",
+                "hu": "Érdekes belső kiállítás, ideális esős időben.",
+                "ro": "Expoziție interioară interesantă, ideală pe ploaie.",
+                "en": "Interesting indoor exhibition, ideal for rainy weather."
+              }
+            },
+            {
+              "name": "St. Anne's Church",
+              "tip_5lang": {
+                "de": "Die Kirche bietet einen ruhigen und trockenen Rückzugsort.",
+                "hu": "A templom csendes és száraz pihenőhelyet nyújt.",
+                "ro": "Biserica oferă un refugiu liniștit și uscat.",
+                "en": "The church provides a quiet and dry retreat."
+              }
+            },
+            {
+              "name": "Walk by the Castle Lake",
+              "tip_5lang": {
+                "de": "Vorsicht vor rutschigen Wegen am Seeufer.",
+                "hu": "Vigyázat, a tóparti ösvények csúszósak lehetnek.",
+                "ro": "Atenție, potecile de pe malul lacului pot fi alunecoase.",
+                "en": "Watch out, the lakeside paths can be slippery."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für die Parkwege.",
+              "Die Museen sind montags oft geschlossen; prüfen Sie die Öffnungszeiten.",
+              "Nutzen Sie die Wartehalle am Bahnhof bei starkem Regen.",
+              "Ein großer Regenschirm ist wegen der offenen Flächen im Park ratsam."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a parki ösvényekhez.",
+              "A múzeumok hétfőn gyakran zárva tartanak; ellenőrizze a nyitvatartást.",
+              "Heves eső esetén használja a vasútállomás várótermét.",
+              "A park nyílt terei miatt javasolt egy nagyobb esernyő használata."
+            ],
+            "ro": [
+              "Purtați pantofi impermeabili pentru potecile din parc.",
+              "Muzeele sunt adesea închise lunea; verificați programul.",
+              "Folosiți sala de așteptare a gării în caz de ploaie torențială.",
+              "Se recomandă o umbrelă mare din cauza spațiilor deschise din parc."
+            ],
+            "en": [
+              "Wear waterproof shoes for the park paths.",
+              "Museums are often closed on Mondays; check opening hours.",
+              "Use the train station waiting room during heavy rain.",
+              "A large umbrella is recommended due to the open areas in the park."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen am Schlosspark ist frostig und ruhig. Die kahlen Bäume geben den Blick auf die neogotischen Türme frei.\n\nMittags wärmen Sie sich im Beethoven-Museum auf, wo die Geschichte der Musik lebendig wird.\n\nNachmittags ist die Atmosphäre in der St.-Anna-Kirche besonders besinnlich.\n\nDa die Sonne bereits gegen 16:15 Uhr untergeht, ist der Spaziergang am See am besten in der frühen Dämmerung zu genießen. Den Abend verbringen Sie am Bahnhof.",
+            "hu": "A téli reggel a Kastélyparkban fagyos és csendes. A kopár fák közül jól látszanak a neogótikus tornyok.\n\nDélben a Beethoven Emlékmúzeumban melegedhetünk fel, ahol megelevenedik a zenetörténelem.\n\nDélután a Szent Anna-templom hangulata különösen meghitt.\n\nMivel a nap 16:15 körül nyugszik, a tóparti sétát érdemes a kora szürkületben megtenni. Az estét a vasútállomás környékén töltheti.",
+            "ro": "Dimineața de iarnă în parcul castelului este geroasă și liniștită. Copacii golași dezvăluie turnurile neogotice.\n\nLa prânz, încălziți-vă în Muzeul Beethoven, unde istoria muzicii prinde viață.\n\nDupă-amiaza, atmosfera din Biserica Sfânta Ana este deosebit de liniștită.\n\nDeoarece soarele apune în jurul orei 16:15, plimbarea pe lac este cel mai bine savurată în amurgul timpuriu.",
+            "en": "The winter morning at the Castle Park is frosty and quiet. The bare trees reveal the neo-Gothic towers.\n\nAt noon, warm up in the Beethoven Museum, where music history comes alive.\n\nIn the afternoon, the atmosphere in St. Anne's Church is particularly contemplative.\n\nSince the sun sets around 16:15, the lakeside walk is best enjoyed in the early twilight. Finish the day near the station."
+          },
+          "stops": [
+            {
+              "name": "Arrival at the Castle Park",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stellen auf den Hauptwegen.",
+                "hu": "Ügyeljen a jeges foltokra a főutakon.",
+                "ro": "Atenție la porțiunile înghețate de pe drumurile principale.",
+                "en": "Watch out for icy patches on the main paths."
+              }
+            },
+            {
+              "name": "Beethoven Statue",
+              "tip_5lang": {
+                "de": "Die Statue wirkt im Winterlicht besonders eindrucksvoll.",
+                "hu": "A szobor a téli fényben különösen hatásos látványt nyújt.",
+                "ro": "Statuia arată deosebit de impresionant în lumina iernii.",
+                "en": "The statue looks particularly impressive in the winter light."
+              }
+            },
+            {
+              "name": "Brunszvik Castle",
+              "tip_5lang": {
+                "de": "Das Schloss ist gut beheizt und bietet Schutz vor der Kälte.",
+                "hu": "A kastély jól fűtött, védelmet nyújt a hideg ellen.",
+                "ro": "Castelul este bine încălzit și oferă protecție împotriva frigului.",
+                "en": "The castle is well heated, providing protection from the cold."
+              }
+            },
+            {
+              "name": "Beethoven Memorial Museum",
+              "tip_5lang": {
+                "de": "Ideale Zeit für einen ausführlichen Museumsbesuch.",
+                "hu": "Ideális időpont egy részletes múzeumlátogatáshoz.",
+                "ro": "Momentul ideal pentru o vizită detaliată la muzeu.",
+                "en": "Ideal time for a detailed museum visit."
+              }
+            },
+            {
+              "name": "Kindergarten Museum",
+              "tip_5lang": {
+                "de": "Ein warmer Ort für Familien mit Kindern.",
+                "hu": "Meleg helyszín a kisgyermekes családok számára.",
+                "ro": "Un loc cald pentru familiile cu copii mici.",
+                "en": "A warm location for families with small children."
+              }
+            },
+            {
+              "name": "St. Anne's Church",
+              "tip_5lang": {
+                "de": "Im Inneren ist es oft kühler als im Museum; Schal anbehalten.",
+                "hu": "Bent gyakran hűvösebb van, mint a múzeumban; tartsa magán a sálat.",
+                "ro": "În interior este adesea mai răcoare decât în muzeu; păstrați eșarfa.",
+                "en": "It is often cooler inside than in the museum; keep your scarf on."
+              }
+            },
+            {
+              "name": "Walk by the Castle Lake",
+              "tip_5lang": {
+                "de": "Der See kann zugefroren sein; Betreten verboten.",
+                "hu": "A tó befagyhat; a jégre lépni tilos.",
+                "ro": "Lacul poate fi înghețat; accesul pe gheață este interzis.",
+                "en": "The lake may be frozen; stepping on the ice is forbidden."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Dunkelheit bricht früh ein, beenden Sie den Parkbesuch vor 16:30 Uhr.",
+              "Warme Handschuhe und Mütze sind für den See-Spaziergang nötig.",
+              "Prüfen Sie die Winteröffnungszeiten der Museen.",
+              "Ein heißer Tee im lokalen Restaurant wärmt nach dem Rundgang auf."
+            ],
+            "hu": [
+              "Hamar sötétedik, fejezze be a parklátogatást 16:30 előtt.",
+              "Meleg kesztyű és sapka szükséges a tóparti sétához.",
+              "Ellenőrizze a múzeumok téli nyitvatartását.",
+              "Egy forró tea a helyi étteremben jól átmelegít a séta után."
+            ],
+            "ro": [
+              "Se întunecă devreme, terminați vizita în parc înainte de 16:30.",
+              "Mănușile și căciula caldă sunt necesare pentru plimbarea pe lac.",
+              "Verificați programul de iarnă al muzeelor.",
+              "Un ceai fierbinte la restaurantul local vă va încălzi după tur."
+            ],
+            "en": [
+              "It gets dark early, finish your park visit before 16:30.",
+              "Warm gloves and a hat are necessary for the lakeside walk.",
+              "Check the winter opening hours of the museums.",
+              "A hot tea in a local restaurant warms you up after the tour."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -622,6 +822,206 @@
           "A bike lock is essential for when you visit the museums.",
           "The paths in the park are well-maintained and great for cycling."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen auf dem Rad beginnt feucht. Die Wege zum Park können rutschig sein, fahren Sie vorsichtig.\n\nMittags ist das Fahrrad sicher am Schloss abgestellt, während Sie das Museum erkunden.\n\nNachmittags führt die Route zum Agroverzum, dessen modernes Gebäude trockenen Raum für Forschung bietet.\n\nDie Rückfahrt zum Verleih erfolgt durch den Regen, was eine gute Ausrüstung erfordert. Der Tag endet mit einer warmen Dusche.",
+            "hu": "A reggel nedves utakon indul kerékpárral. A parkhoz vezető utak csúszósak lehetnek, óvatosan hajtson.\n\nDélben a bicikli biztonságban pihen a kastélynál, amíg Ön a múzeumot járja be.\n\nDélután az út az Agroverzumhoz vezet, melynek modern épülete száraz teret kínál a kutatás világához.\n\nA visszaút a kölcsönzőhöz esőben telik, ami megfelelő felszerelést igényel. A nap a bringa leadásával zárul.",
+            "ro": "Dimineața pe bicicletă începe pe drumuri umede. Căile spre parc pot fi alunecoase, conduceți cu prudență.\n\nLa prânz, bicicleta este parcată în siguranță la castel în timp ce explorați muzeul.\n\nDupă-amiaza, traseul duce la Agroverzum, a cărui clădire modernă oferă spațiu uscat pentru cercetare.\n\nDrumul de întoarcere se face prin ploaie, necesitând echipament adecvat.",
+            "en": "The morning on the bike starts on wet roads. The paths to the park can be slippery, drive carefully.\n\nAt noon, the bike is safely parked at the castle while you explore the museum.\n\nIn the afternoon, the route leads to Agroverzum, whose modern building offers dry space for research.\n\nThe ride back to the rental is through rain, requiring proper gear. The day ends with a warm shower."
+          },
+          "stops": [
+            {
+              "name": "Bike Rental & Start at the Castle Park",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Bremsen vor dem Start im Regen.",
+                "hu": "Indulás előtt ellenőrizze a fékeket az esőben.",
+                "ro": "Verificați frânele înainte de plecare pe ploaie.",
+                "en": "Check the brakes before starting in the rain."
+              }
+            },
+            {
+              "name": "St. Anne's Church",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad unter das Vordach, falls möglich.",
+                "hu": "Ha lehet, állítsa a biciklit az előtető alá.",
+                "ro": "Parcați bicicleta sub copertină dacă este posibil.",
+                "en": "Park the bike under the canopy if possible."
+              }
+            },
+            {
+              "name": "Brunszvik Castle",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Fahrradständer in der Nähe des Eingangs.",
+                "hu": "Használja a bejárat közeli kerékpártárolókat.",
+                "ro": "Folosiți suporturile de biciclete de lângă intrare.",
+                "en": "Use the bike racks near the entrance."
+              }
+            },
+            {
+              "name": "Beethoven Memorial Museum",
+              "tip_5lang": {
+                "de": "Lassen Sie nasse Regenponchos im Garderobenbereich.",
+                "hu": "A vizes esővédőt hagyja a ruhatárban.",
+                "ro": "Lăsați pelerinele de ploaie ude la garderobă.",
+                "en": "Leave wet rain ponchos in the cloakroom area."
+              }
+            },
+            {
+              "name": "Kindergarten Museum",
+              "tip_5lang": {
+                "de": "Kurze Fahrtstrecke, halten Sie den Lenker fest.",
+                "hu": "Rövid szakasz, fogja szorosan a kormányt a vizes úton.",
+                "ro": "Distanță scurtă, țineți bine ghidonul pe drumul ud.",
+                "en": "Short distance, hold the handlebars firmly on wet roads."
+              }
+            },
+            {
+              "name": "Agroverzum (Agricultural Research Centre)",
+              "tip_5lang": {
+                "de": "Modernes Gebäude mit guten Abstellmöglichkeiten.",
+                "hu": "Modern épület jó parkolási lehetőségekkel.",
+                "ro": "Clădire modernă cu opțiuni bune de parcare.",
+                "en": "Modern building with good parking options."
+              }
+            },
+            {
+              "name": "Relaxing by the Castle Lake",
+              "tip_5lang": {
+                "de": "Fahren Sie nicht zu nah ans Wasser, das Ufer ist weich.",
+                "hu": "Ne hajtson túl közel a vízhez, a part felázott.",
+                "ro": "Nu conduceți prea aproape de apă, malul este moale.",
+                "en": "Don't ride too close to the water, the bank is soaked."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie ein wasserfestes Cape; Regenschirme sind gefährlich beim Radfahren.",
+              "Vermeiden Sie Pfützen, sie könnten tiefe Löcher verbergen.",
+              "Bremsen Sie auf nassem Asphalt früher als gewöhnlich.",
+              "Wischen Sie den Sattel nach jedem Stopp trocken."
+            ],
+            "hu": [
+              "Viseljen vízálló poncsót; az esernyő veszélyes biciklizés közben.",
+              "Kerülje a tócsákat, mély kátyúkat rejthetnek.",
+              "Nedves aszfalton a szokásosnál korábban kezdjen fékezni.",
+              "Minden megálló után törölje szárazra a nyerget."
+            ],
+            "ro": [
+              "Purtați o pelerină impermeabilă; umbrelele sunt periculoase pe bicicletă.",
+              "Evitați bălțile, pot ascunde gropi adânci.",
+              "Frânați mai devreme decât de obicei pe asfalt ud.",
+              "Ștergeți șaua după fiecare oprire."
+            ],
+            "en": [
+              "Wear a waterproof poncho; umbrellas are dangerous while cycling.",
+              "Avoid puddles, they might hide deep potholes.",
+              "Brake earlier than usual on wet asphalt.",
+              "Wipe the saddle dry after every stop."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Radtour am Wintermorgen erfordert dicke Handschuhe gegen den Fahrtwind. Der Parkweg ist festgefroren, was eine stabile Fahrt ermöglicht.\n\nMittags bietet das Museum eine wohlverdiente Aufwärmpause.\n\nNachmittags führt die Fahrt zum modernen Agroverzum, wo man Agrarinnovationen im Warmen bestaunen kann.\n\nMit dem frühen Sonnenuntergang schalten Sie die Beleuchtung ein. Der Tag endet mit einem deftigen Abendessen.",
+            "hu": "A téli reggeli bringázás vastag kesztyűt igényel a menetszél ellen. A parki út fagyott, ami stabil haladást tesz lehetővé.\n\nDélben a múzeum jól megérdemelt melegedőt kínál.\n\nDélután az út a modern Agroverzumhoz vezet, ahol fűtött térben ismerkedhetünk az agrárinnovációkkal.\n\nA korai naplemente miatt kapcsolja be a lámpákat. A nap egy bőséges vacsorával zárul.",
+            "ro": "Ciclismul de iarnă dimineața necesită mănuși groase împotriva vântului. Drumul din parc este înghețat.\n\nLa prânz, muzeul oferă o pauză de încălzire binemeritată.\n\nDupă-amiaza, traseul duce la modernul Agroverzum, unde puteți admira inovațiile la căldură.\n\nDin cauza apusului timpuriu, aprindeți luminile. Ziua se încheie cu o cină copioasă.",
+            "en": "Winter morning cycling requires thick gloves against the wind. The park path is frozen, allowing for stable progress.\n\nAt noon, the museum offers a well-deserved warming break.\n\nIn the afternoon, the route leads to the modern Agroverzum, where you can admire innovations in the heat.\n\nDue to the early sunset, turn on the lights. The day ends with a hearty dinner."
+          },
+          "stops": [
+            {
+              "name": "Bike Rental & Start at the Castle Park",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Reifendruck; Kälte beeinflusst ihn.",
+                "hu": "Ellenőrizze a guminyomást; a hideg hatással van rá.",
+                "ro": "Verificați presiunea în anvelope; frigul o influențează.",
+                "en": "Check the tire pressure; the cold affects it."
+              }
+            },
+            {
+              "name": "St. Anne's Church",
+              "tip_5lang": {
+                "de": "Vorsicht beim Absteigen auf eventuell glatten Platten.",
+                "hu": "Vigyázzon a leszálláskor az esetleg csúszós köveken.",
+                "ro": "Atenție la coborâre pe dalele eventual alunecoase.",
+                "en": "Be careful when dismounting on potentially slippery slabs."
+              }
+            },
+            {
+              "name": "Brunszvik Castle",
+              "tip_5lang": {
+                "de": "Lassen Sie das Rad an einem hellen Ort stehen.",
+                "hu": "Hagyja a kerékpárt jól látható, világos helyen.",
+                "ro": "Lăsați bicicleta într-un loc bine vizibil și luminat.",
+                "en": "Leave the bike in a clearly visible, bright spot."
+              }
+            },
+            {
+              "name": "Beethoven Memorial Museum",
+              "tip_5lang": {
+                "de": "Schließen Sie das Rad sorgfältig ab, auch bei Kälte.",
+                "hu": "Gondosan zárja le a biciklit a hidegben is.",
+                "ro": "Încuiați bicicleta cu grijă chiar și pe frig.",
+                "en": "Lock the bike carefully, even in the cold."
+              }
+            },
+            {
+              "name": "Kindergarten Museum",
+              "tip_5lang": {
+                "de": "Kurzer Stopp, halten Sie den Körper in Bewegung.",
+                "hu": "Rövid megálló, tartsa mozgásban a testét.",
+                "ro": "Oprire scurtă, mențineți corpul în mișcare.",
+                "en": "Short stop, keep your body moving."
+              }
+            },
+            {
+              "name": "Agroverzum (Agricultural Research Centre)",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Innenraum zur kompletten Aufwärmung.",
+                "hu": "Használja ki a belső teret a teljes átmelegedéshez.",
+                "ro": "Folosiți interiorul pentru o încălzire completă.",
+                "en": "Use the interior to warm up completely."
+              }
+            },
+            {
+              "name": "Relaxing by the Castle Lake",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick, bleiben Sie aber nicht zu lange stehen.",
+                "hu": "Élvezze a látványt, de ne álljon meg túl hosszú időre.",
+                "ro": "Bucurați-vă de priveliște, dar nu staționați prea mult.",
+                "en": "Enjoy the view, but don't stay still for too long."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Socken und winddichte Kleidung sind essenziell.",
+              "Die Batterien der Beleuchtung entladen sich bei Kälte schneller.",
+              "Vermeiden Sie abrupte Kurven auf gefrorenem Boden.",
+              "Nehmen Sie eine Thermoskanne mit warmem Tee mit."
+            ],
+            "hu": [
+              "A meleg zokni és szélálló ruházat elengedhetetlen.",
+              "A lámpák elemei hamarabb lemerülnek a hidegben.",
+              "Kerülje a hirtelen kanyarodást a fagyott talajon.",
+              "Vigyen magával termoszban forró teát."
+            ],
+            "ro": [
+              "Șosetele calde și îmbrăcămintea rezistentă la vânt sunt esențiale.",
+              "Bateriile luminilor se descarcă mai repede la frig.",
+              "Evitați virajele bruște pe solul înghețat.",
+              "Luați un termos cu ceai cald la voi."
+            ],
+            "en": [
+              "Warm socks and windproof clothing are essential.",
+              "Light batteries drain faster in the cold.",
+              "Avoid abrupt turns on frozen ground.",
+              "Take a thermos with hot tea with you."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -906,6 +1306,188 @@
           "The car allows you to easily bring a larger picnic basket.",
           "Combine the visit with other sights in the Fejér region, like Lake Velence."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Regentag beginnt mit der Parkplatzsuche in der Nähe des Schlossparks. Ein kurzer Sprint bringt Sie ins Trockene.\n\nMittags verbringen Sie viel Zeit im Schloss und Beethoven-Museum, wo das Wetter keine Rolle spielt.\n\nNachmittags besuchen Sie die Kirche und das Kindergartenmuseum, bevor Sie ein ausgiebiges Mittagessen genießen.\n\nDer Tag endet mit einer gemütlichen Fahrt um den See, geschützt im Auto vor dem prasselnden Regen.",
+            "hu": "Az esős nap parkolóhely-kereséssel indul a Kastélypark közelében. Egy rövid futás és már fedett helyen is van.\n\nDélben sok időt tölt a kastélyban és a Beethoven Múzeumban, ahol az időjárás nem számít.\n\nDélután a templom és az Óvodamúzeum következik, majd egy bőséges ebédet élvezhet.\n\nA nap a tó körüli kényelmes autózással zárul, biztonságban az utastérben az eső elől.",
+            "ro": "Ziua ploioasă începe cu căutarea unui loc de parcare lângă parc. Un scurt sprint vă duce la adăpost.\n\nLa prânz, petreceți timp în castel și în Muzeul Beethoven, unde vremea nu contează.\n\nDupă-amiaza, urmează biserica și Muzeul Grădinițelor, apoi vă bucurați de un prânz copios.\n\nZiua se încheie cu o plimbare confortabilă cu mașina în jurul lacului, la adăpost de ploaie.",
+            "en": "The rainy day starts with finding a parking space near the park. A short sprint gets you to cover.\n\nAt noon, you spend plenty of time in the castle and Beethoven Museum, where the weather doesn't matter.\n\nIn the afternoon, the church and Kindergarten Museum follow, before enjoying a hearty lunch.\n\nThe day ends with a comfortable drive around the lake, protected inside the car from the rain."
+          },
+          "stops": [
+            {
+              "name": "Parking at the Castle Park",
+              "tip_5lang": {
+                "de": "Wählen Sie einen Platz nah am Gehweg, um Pfützen zu meiden.",
+                "hu": "Válasszon járdához közeli helyet a tócsák elkerülésére.",
+                "ro": "Alegeți un loc lângă trotuar pentru a evita bălțile.",
+                "en": "Choose a spot near the sidewalk to avoid puddles."
+              }
+            },
+            {
+              "name": "Brunszvik Castle & Beethoven Museum",
+              "tip_5lang": {
+                "de": "Das Auto bleibt trocken, während Sie die Ausstellung genießen.",
+                "hu": "Az autó szárazon marad, amíg Ön a kiállítást élvezi.",
+                "ro": "Mașina rămâne uscată în timp ce vă bucurați de expoziție.",
+                "en": "The car stays dry while you enjoy the exhibition."
+              }
+            },
+            {
+              "name": "Kindergarten Museum",
+              "tip_5lang": {
+                "de": "Parken Sie direkt davor für minimalen Regenkontakt.",
+                "hu": "Parkoljon közvetlenül előtte a minimális ázás érdekében.",
+                "ro": "Parcați chiar în față pentru contact minim cu ploaia.",
+                "en": "Park right in front for minimal rain exposure."
+              }
+            },
+            {
+              "name": "St. Anne's Church",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Parkplatz zur Kirche.",
+                "hu": "Rövid séta a parkolótól a templomig.",
+                "ro": "Scurtă plimbare de la parcare până la biserică.",
+                "en": "Short walk from the parking lot to the church."
+              }
+            },
+            {
+              "name": "Lunch at Postakocsi Restaurant",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um einen heftigen Schauer abzuwarten.",
+                "hu": "Tökéletes helyszín egy heves zápor kivárására.",
+                "ro": "Locul perfect pentru a aștepta trecerea unei averse.",
+                "en": "Perfect place to wait out a heavy downpour."
+              }
+            },
+            {
+              "name": "Exploring the Castle Park and Lake",
+              "tip_5lang": {
+                "de": "Betrachten Sie die Landschaft aus dem warmen Auto.",
+                "hu": "Szemlélje a tájat a meleg autóból.",
+                "ro": "Priviți peisajul din mașina caldă.",
+                "en": "Observe the scenery from the warm car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Lassen Sie einen Regenschirm im Kofferraum griffbereit.",
+              "Vorsicht bei Aquaplaning auf der Landstraße nach Martonvásár.",
+              "Die Parkplätze am Schloss können bei Regen matschig sein.",
+              "Nutzen Sie die Sitzheizung nach dem Parkspaziergang."
+            ],
+            "hu": [
+              "Tartson egy esernyőt elérhető helyen a csomagtartóban.",
+              "Vigyázzon a vízreütésre (aquaplaning) a Martonvásár felé vezető úton.",
+              "A kastély melletti parkolók esőben sárosak lehetnek.",
+              "Használja az ülésfűtést a parki séta után."
+            ],
+            "ro": [
+              "Țineți o umbrelă la îndemână în portbagaj.",
+              "Atenție la acvaplanare pe drumul spre Martonvásár.",
+              "Parcările de lângă castel pot fi noroioase pe ploaie.",
+              "Folosiți încălzirea în scaune după plimbarea în parc."
+            ],
+            "en": [
+              "Keep an umbrella handy in the trunk.",
+              "Watch out for aquaplaning on the road to Martonvásár.",
+              "The parking lots near the castle can be muddy in the rain.",
+              "Use the seat heating after the park walk."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen beginnt mit einer frostigen Fahrt nach Martonvásár. Die Parkwege sind hart und gefroren.\n\nMittags genießen Sie die Wärme im Schloss und erfahren Spannendes über Beethoven.\n\nNachmittags bietet die Kirche eine besinnliche Pause, gefolgt von einem wärmenden Mittagessen.\n\nDa es früh dunkel wird, leuchten die Lichter des Schlosses bereits am späten Nachmittag. Der Tag endet mit einer sicheren Fahrt nach Hause.",
+            "hu": "A téli reggel fagyos autózással indul Martonvásárra. A parki utak keményre fagytak.\n\nDélben élvezheti a kastély melegét és izgalmas dolgokat tudhat meg Beethovenről.\n\nDélután a templom kínál meghitt pihenőt, majd egy melengető ebéd következik az étteremben.\n\nMivel hamar sötétedik, a kastély fényei már késő délután kigyúlnak. A nap biztonságos hazautazással zárul.",
+            "ro": "Dimineața de iarnă începe cu o călătorie geroasă spre Martonvásár. Drumurile din parc sunt înghețate.\n\nLa prânz, bucurați-vă de căldura castelului și aflați lucruri despre Beethoven.\n\nDupă-amiaza, biserica oferă o pauză liniștită, urmată de un prânz cald.\n\nDeoarece se întunecă devreme, luminile castelului se aprind deja după-amiaza târziu. Ziua se încheie cu un drum sigur.",
+            "en": "The winter morning starts with a frosty drive to Martonvásár. The park paths are frozen hard.\n\nAt noon, enjoy the warmth of the castle and learn about Beethoven.\n\nIn the afternoon, the church offers a peaceful break, followed by a warming lunch.\n\nSince it gets dark early, the castle lights come on in the late afternoon. The day ends with a safe drive home."
+          },
+          "stops": [
+            {
+              "name": "Parking at the Castle Park",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf der Parkplatzfläche.",
+                "hu": "Ügyeljen a jegesedésre a parkoló területén.",
+                "ro": "Atenție la polei în zona parcării.",
+                "en": "Watch out for black ice in the parking area."
+              }
+            },
+            {
+              "name": "Brunszvik Castle & Beethoven Museum",
+              "tip_5lang": {
+                "de": "Genießen Sie den Kontrast zwischen Kälte draußen und Wärme drinnen.",
+                "hu": "Élvezze a kinti hideg és a benti meleg közötti kontrasztot.",
+                "ro": "Bucurați-vă de contrastul dintre frigul de afară și căldura din interior.",
+                "en": "Enjoy the contrast between the cold outside and the warmth inside."
+              }
+            },
+            {
+              "name": "Kindergarten Museum",
+              "tip_5lang": {
+                "de": "Ein gemütlicher Stopp für die ganze Familie.",
+                "hu": "Hangulatos megálló az egész család számára.",
+                "ro": "O oprire plăcută pentru întreaga familie.",
+                "en": "A cozy stop for the whole family."
+              }
+            },
+            {
+              "name": "St. Anne's Church",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche für einen Moment der Stille.",
+                "hu": "Látogassa meg a templomot egy pillanatnyi csendért.",
+                "ro": "Vizitați biserica pentru un moment de liniște.",
+                "en": "Visit the church for a moment of silence."
+              }
+            },
+            {
+              "name": "Lunch at Postakocsi Restaurant",
+              "tip_5lang": {
+                "de": "Probieren Sie eine heiße ungarische Suppe.",
+                "hu": "Kóstoljon meg egy forró magyar levest.",
+                "ro": "Gustați o supă caldă maghiară.",
+                "en": "Try a hot Hungarian soup."
+              }
+            },
+            {
+              "name": "Exploring the Castle Park and Lake",
+              "tip_5lang": {
+                "de": "Der zugefrorene See bietet ein schönes Fotomotiv.",
+                "hu": "A befagyott tó szép fotótémát kínál.",
+                "ro": "Lacul înghețat oferă un subiect frumos pentru fotografii.",
+                "en": "The frozen lake offers a beautiful photo subject."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Ihr Frostschutzmittel aufgefüllt ist.",
+              "Eiskratzer und Schneebesen sollten im Auto bereitliegen.",
+              "Vermeiden Sie das Parken unter schneebeladenen Bäumen.",
+              "Die Dämmerung beginnt früh, prüfen Sie Ihre Scheinwerfer."
+            ],
+            "hu": [
+              "Győződjön meg róla, hogy a fagyálló folyadék fel van töltve.",
+              "A jégkaparó és a hókefe legyen kéznél az autóban.",
+              "Kerülje a parkolást hóval terhelt fák alatt.",
+              "A szürkület hamar kezdődik, ellenőrizze a fényszórókat."
+            ],
+            "ro": [
+              "Asigurați-vă că lichidul antigel este completat.",
+              "Răzuitoarea de gheață și peria de zăpadă trebuie să fie în mașină.",
+              "Evitați parcarea sub copacii încărcați cu zăpadă.",
+              "Amurgul începe devreme, verificați farurile."
+            ],
+            "en": [
+              "Make sure your antifreeze is topped up.",
+              "An ice scraper and snow brush should be ready in the car.",
+              "Avoid parking under snow-laden trees.",
+              "Twilight begins early, check your headlights."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1191,6 +1773,188 @@
           "The train from Budapest (Déli railway station) takes about 30 minutes.",
           "Most attractions are closed on Mondays, plan accordingly."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt mit der Ankunft am Bahnhof im Regen. Ein kurzer Fußweg führt zum Park, wo die Bäume nur wenig Schutz bieten.\n\nMittags konzentriert sich das Programm auf das Schloss, das ideale trockene Rückzugsorte bietet.\n\nNachmittags besuchen Sie das Kindergartenmuseum und die Kirche, bevor Sie zum Bahnhof zurückkehren.\n\nDen Abend verbringen Sie in der beheizten Wartehalle, während Sie auf den Zug warten.",
+            "hu": "A nap esőben indul az állomásra érkezéssel. Rövid séta vezet a parkba, ahol a fák csak kevés védelmet nyújtanak.\n\nDélben a program a kastélyra összpontosít, mely ideális száraz menedék.\n\nDélután az Óvodamúzeum és a templom következik, mielőtt visszatérne az állomásra.\n\nAz estét a fűtött váróteremben töltheti a vonat indulásáig.",
+            "ro": "Ziua începe cu sosirea la gară pe ploaie. O scurtă plimbare duce la parc, unde copacii oferă puțină protecție.\n\nLa prânz, programul se mută în castel, care este un refugiu ideal uscat.\n\nDupă-amiaza, vizitați Muzeul Grădinițelor și biserica înainte de a vă întoarce la gară.\n\nSeara o petrecți în sala de așteptare încălzită.",
+            "en": "The day begins with arrival at the station in the rain. A short walk leads to the park, where trees offer little protection.\n\nAt noon, the program focuses on the castle, which is an ideal dry retreat.\n\nIn the afternoon, the Kindergarten Museum and church follow, before returning to the station.\n\nYou can spend the evening in the heated waiting room."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Martonvásár Train Station",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Unterführung, um trocken zu bleiben.",
+                "hu": "Használja az aluljárót, hogy száraz maradjon.",
+                "ro": "Folosiți pasajul subteran pentru a rămâne uscat.",
+                "en": "Use the underpass to stay dry."
+              }
+            },
+            {
+              "name": "Walk through the Castle Park",
+              "tip_5lang": {
+                "de": "Halten Sie den Regenschirm bereit für den offenen Weg.",
+                "hu": "Tartsa készenlétben az esernyőt a nyílt szakaszokon.",
+                "ro": "Țineți umbrela pregătită pentru zonele deschise.",
+                "en": "Keep your umbrella ready for the open paths."
+              }
+            },
+            {
+              "name": "Brunszvik Castle & Beethoven Museum",
+              "tip_5lang": {
+                "de": "Das Museum ist der beste Ort bei Regen.",
+                "hu": "A múzeum a legjobb helyszín esőben.",
+                "ro": "Muzeul este cel mai bun loc pe timp de ploaie.",
+                "en": "The museum is the best place in the rain."
+              }
+            },
+            {
+              "name": "Kindergarten Museum & St. Anne's Church",
+              "tip_5lang": {
+                "de": "Kombinieren Sie diese Stopps, um Laufwege im Regen zu minimieren.",
+                "hu": "Vonja össze ezeket a megállókat az esőben való gyaloglás csökkentésére.",
+                "ro": "Combinați aceste opriri pentru a minimiza mersul prin ploaie.",
+                "en": "Combine these stops to minimize walking in the rain."
+              }
+            },
+            {
+              "name": "Walk and relax at the Castle Lake",
+              "tip_5lang": {
+                "de": "Ein kurzer, regnerischer Blick auf den See genügt.",
+                "hu": "Elegendő egy rövid, esős pillantás a tóra.",
+                "ro": "O privire scurtă spre lac prin ploaie este suficientă.",
+                "en": "A short, rainy glance at the lake is enough."
+              }
+            },
+            {
+              "name": "Walk back to the train station",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Abfahrtszeiten online, um Wartezeiten im Freien zu meiden.",
+                "hu": "Ellenőrizze az indulást online, hogy elkerülje a kinti várakozást.",
+                "ro": "Verificați plecările online pentru a evita așteptarea în aer liber.",
+                "en": "Check departures online to avoid waiting outdoors."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Züge können bei Unwettern leichte Verspätungen haben.",
+              "Die Wartehalle am Bahnhof bietet Schutz vor Wind und Regen.",
+              "Kaufen Sie Ihr Ticket vorab per App, um Schlangen zu vermeiden.",
+              "Tragen Sie Kleidung, die schnell trocknet."
+            ],
+            "hu": [
+              "Viharos időben a vonatoknál előfordulhatnak kisebb késések.",
+              "A vasútállomás váróterme védelmet nyújt a szél és eső ellen.",
+              "Vegye meg jegyét előre applikációban a sorban állás elkerülésére.",
+              "Viseljen gyorsan száradó ruházatot."
+            ],
+            "ro": [
+              "Trenurile pot avea mici întârzieri în caz de furtună.",
+              "Sala de așteptare a gării oferă protecție împotriva vântului și ploii.",
+              "Cumpărați biletul în avans prin aplicație pentru a evita cozile.",
+              "Purtați haine care se usucă repede."
+            ],
+            "en": [
+              "Trains may have slight delays during stormy weather.",
+              "The train station waiting room offers protection from wind and rain.",
+              "Buy your ticket in advance via app to avoid queues.",
+              "Wear clothing that dries quickly."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintertag beginnt mit der Ankunft am Bahnhof in der klaren Morgenluft. Der Weg zum Park ist kurz, aber belebend.\n\nMittags wärmen Sie sich im Schloss auf und tauchen in die Welt Beethovens ein.\n\nNachmittags ist die Atmosphäre im Park friedlich und verschneit.\n\nDa die Dämmerung früh einsetzt, kehren Sie rechtzeitig zum Bahnhof zurück. Der Abend endet in der warmen Bahn.",
+            "hu": "A téli nap a vasútállomásra érkezéssel indul a friss reggeli levegőben. A séta a parkig rövid, de élénkítő.\n\nDélben a kastélyban melegedhetünk fel, miközben elmerülünk Beethoven világában.\n\nDélután a park hangulata békés és hófödte.\n\nMivel korán szürkül, időben térjen vissza az állomásra. Az este a fűtött vonatúton zárul.",
+            "ro": "Ziua de iarnă începe cu sosirea la gară în aerul curat al dimineții. Drumul până la parc este scurt.\n\nLa prânz, încălziți-vă în castel în timp ce vă cufundați în lumea lui Beethoven.\n\nDupă-amiaza, atmosfera din parc este liniștită și înzăpezită.\n\nDeoarece se înserează devreme, întoarceți-vă la gară. Seara se încheie în trenul cald.",
+            "en": "The winter day starts with arrival at the station in the crisp morning air. The walk to the park is short.\n\nAt noon, warm up in the castle while immersing yourself in Beethoven's world.\n\nIn the afternoon, the park's atmosphere is peaceful and snowy.\n\nSince twilight sets in early, return to the station. The evening ends on the warm train."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Martonvásár Train Station",
+              "tip_5lang": {
+                "de": "Vorsicht vor glatten Treppenstufen am Bahnhof.",
+                "hu": "Vigyázon a csúszós lépcsőfokokkal az állomáson.",
+                "ro": "Atenție la treptele alunecoase din gară.",
+                "en": "Watch out for slippery steps at the station."
+              }
+            },
+            {
+              "name": "Walk through the Castle Park",
+              "tip_5lang": {
+                "de": "Die festgetretenen Schneewege sind gut begehbar.",
+                "hu": "A letaposott havas utak jól járhatóak.",
+                "ro": "Drumurile cu zăpadă bătătorită sunt ușor de parcurs.",
+                "en": "The packed snowy paths are easy to walk on."
+              }
+            },
+            {
+              "name": "Brunszvik Castle & Beethoven Museum",
+              "tip_5lang": {
+                "de": "Lassen Sie Ihren dicken Mantel an der Garderobe.",
+                "hu": "Hagyja a vastag kabátját a ruhatárban.",
+                "ro": "Lăsați haina groasă la garderobă.",
+                "en": "Leave your thick coat in the cloakroom."
+              }
+            },
+            {
+              "name": "Kindergarten Museum & St. Anne's Church",
+              "tip_5lang": {
+                "de": "Nutzen Sie diese Innenräume zum Aufwärmen.",
+                "hu": "Használja ezeket a belső tereket melegedésre.",
+                "ro": "Folosiți aceste spații interioare pentru a vă încălzi.",
+                "en": "Use these indoor spaces to warm up."
+              }
+            },
+            {
+              "name": "Walk and relax at the Castle Lake",
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang über dem See ist im Winter oft spektakulär.",
+                "hu": "A naplemente a tó felett télen gyakran látványos.",
+                "ro": "Apusul peste lac este adesea spectaculos iarna.",
+                "en": "The sunset over the lake is often spectacular in winter."
+              }
+            },
+            {
+              "name": "Walk back to the train station",
+              "tip_5lang": {
+                "de": "Die Bahnhofshalle ist im Winter beheizt.",
+                "hu": "Az állomás váróterme télen fűtött.",
+                "ro": "Sala de așteptare a gării este încălzită iarna.",
+                "en": "The station hall is heated in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Schuhe mit gutem Profil für verschneite Wege.",
+              "Die Züge sind meist gut beheizt.",
+              "Achten Sie auf die kürzeren Tageslichtstunden.",
+              "Ein heißes Getränk am Bahnhofskiosk hilft gegen die Kälte."
+            ],
+            "hu": [
+              "Viseljen jó tapadású cipőt a havas utakra.",
+              "A vonatok általában jól fűtöttek.",
+              "Ügyeljen a rövidebb nappali órákra.",
+              "Egy forró ital az állomási büfében segít a hideg ellen."
+            ],
+            "ro": [
+              "Purtați pantofi cu aderență bună pentru drumurile cu zăpadă.",
+              "Trenurile sunt de obicei bine încălzite.",
+              "Țineți cont de orele de lumină mai scurte.",
+              "O băutură caldă la chioșcul din gară ajută împotriva frigului."
+            ],
+            "en": [
+              "Wear shoes with good grip for snowy paths.",
+              "Trains are usually well heated.",
+              "Be mindful of the shorter daylight hours.",
+              "A hot drink at the station kiosk helps against the cold."
+            ]
+          }
+        }
       }
     }
   }

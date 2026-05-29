@@ -362,6 +362,224 @@
           "The beaches can get very crowded at midday, so plan your visit accordingly.",
           "Watch out for uneven cobblestones in the old town."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens erkunden wir den venezianischen Hafen unter dem Schutz der Arkaden und Cafés. Mittags bieten der Botsaris-Turm und die Agios-Dimitrios-Kirche trockene Zufluchtsorte mit reicher Geschichte. Nachmittags steigen wir vorsichtig zur Burg hinauf, wo die Wolken dramatisch über dem Korinthischen Golf hängen. Abends endet die Tour bei einem Spaziergang am Psani-Strand im sanften Regen.",
+            "hu": "Reggel a velencei kikötőt fedett árkádok és kávézók oltalma alatt fedezzük fel. Délben a Botsaris-torony és az Agios Dimitrios templom nyújt száraz menedéket és történelmi látnivalókat. Délután óvatosan felkapaszkodunk a várba, ahol a drámai felhők uralják a Korinthoszi-öböl látványát. Az estét a Psani-parton zárjuk, egy frissítő esős séta keretében.",
+            "ro": "Dimineața explorăm portul venețian sub protecția arcadelor și a cafenelelor. La prânz, Turnul Botsaris și biserica Agios Dimitrios oferă refugii uscate pline de istorie. După-amiaza urcăm cu grijă spre castel, unde norii dramatici plutesc deasupra Golfului Corint. Seara se încheie cu o plimbare pe plaja Psani în ploaia ușoară.",
+            "en": "Morning starts at the Venetian Port, using cafe awnings for cover. At noon, Botsaris Tower and Agios Dimitrios Church provide dry havens rich with history. In the afternoon, we carefully ascend to the Castle for a dramatic view of the Corinthian Gulf under rainy skies. The evening concludes with a refreshing walk along Psani Beach as the rain tapers off."
+          },
+          "stops": [
+            {
+              "name": "Venetian Port",
+              "tip_5lang": {
+                "de": "Die Cafés am Hafen bieten guten Schutz vor Schauern.",
+                "hu": "A kikötői kávézók jó védelmet nyújtanak a záporok ellen.",
+                "ro": "Cafenelele din port oferă un adăpost bun împotriva ploii.",
+                "en": "Harbor cafes offer excellent shelter during sudden showers."
+              }
+            },
+            {
+              "name": "Statue of Miguel de Cervantes",
+              "tip_5lang": {
+                "de": "Schnelles Foto im Regen, der Boden kann hier rutschig sein.",
+                "hu": "Gyors fotó az esőben, a kövezet itt csúszós lehet.",
+                "ro": "Poză rapidă în ploaie, pavajul poate fi alunecos aici.",
+                "en": "Quick photo op; the stone pavement can be slippery when wet."
+              }
+            },
+            {
+              "name": "Fethiye Mosque",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um trocken zu bleiben und Architektur zu bewundern.",
+                "hu": "Nyugodt hely, ahol szárazon maradhatunk az építészetet csodálva.",
+                "ro": "Un loc liniștit pentru a sta la uscat și a admira arhitectura.",
+                "en": "A peaceful spot to stay dry and admire the historic architecture."
+              }
+            },
+            {
+              "name": "Botsaris Tower",
+              "tip_5lang": {
+                "de": "Perfektes Museumsziel, um dem Regen für längere Zeit zu entkommen.",
+                "hu": "Tökéletes múzeumi helyszín az eső elöli hosszabb meneküléshez.",
+                "ro": "Destinație muzeală perfectă pentru a scăpa de ploaie mai mult timp.",
+                "en": "Perfect museum stop to escape the rain for an extended period."
+              }
+            },
+            {
+              "name": "Church of Agios Dimitrios",
+              "tip_5lang": {
+                "de": "Großzügiger Innenraum, ideal für eine Pause bei schlechtem Wetter.",
+                "hu": "Tágas belső tér, ideális pihenőre rossz idő esetén.",
+                "ro": "Interior spațios, ideal pentru o pauză pe vreme rea.",
+                "en": "Spacious interior, ideal for a break during inclement weather."
+              }
+            },
+            {
+              "name": "Clock Tower",
+              "tip_5lang": {
+                "de": "Vorsicht auf den Stufen, sie werden bei Regen sehr glatt.",
+                "hu": "Vigyázat a lépcsőkön, esőben nagyon csúszóssá válnak.",
+                "ro": "Atenție la trepte, acestea devin foarte alunecoase pe ploaie.",
+                "en": "Be careful on the steps; they become very slick in the rain."
+              }
+            },
+            {
+              "name": "Castle of Nafpaktos",
+              "tip_5lang": {
+                "de": "Die Pinien bieten begrenzten Schutz, nutzen Sie die Innenräume.",
+                "hu": "A fenyők korlátozott védelmet nyújtanak, használja a belső tereket.",
+                "ro": "Pinii oferă adăpost limitat, folosiți spațiile interioare.",
+                "en": "Pine trees offer limited cover; prioritize the indoor sections."
+              }
+            },
+            {
+              "name": "Psani Beach",
+              "tip_5lang": {
+                "de": "Ein Spaziergang unter dem Regenschirm entlang der Platanenallee.",
+                "hu": "Esernyős séta a platánsor mentén a parton.",
+                "ro": "O plimbare cu umbrela de-a lungul aleii cu platani.",
+                "en": "A walk with an umbrella along the plane tree-lined promenade."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für das Kopfsteinpflaster.",
+              "Nutzen Sie die vielen Cafés am Hafen als Regenschutz.",
+              "Die Burgwege können bei Nässe sehr rutschig sein.",
+              "Ein stabiler Regenschirm ist wegen des Windes vom Meer wichtig."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a macskaköves utcákhoz.",
+              "Használja a kikötői kávézókat eső elleni menedékként.",
+              "A várba vezető utak nedvesen nagyon csúszósak lehetnek.",
+              "A tenger felőli szél miatt erős esernyő ajánlott."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru străzile pietruite.",
+              "Folosiți cafenelele din port ca adăpost împotriva ploii.",
+              "Potecile spre castel pot fi foarte alunecoase când sunt ude.",
+              "O umbrelă rezistentă este necesară din cauza vântului marin."
+            ],
+            "en": [
+              "Wear waterproof shoes for the cobblestone streets.",
+              "Use the harbor cafes as convenient rain shelters.",
+              "Paths to the castle can be very slippery when wet.",
+              "A sturdy umbrella is essential due to sea breezes."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen am Hafen ist friedlich und klar. Mittags erkunden wir die historischen Türme und Kirchen ohne die Sommerhitze. Der Aufstieg zur Burg am Nachmittag ist bei kühler Luft angenehm, und wir genießen die Fernsicht. Da die Sonne früh untergeht, beenden wir den Tag am Psani-Strand, während die Lichter der Stadt im frühen Abendlicht zu leuchten beginnen.",
+            "hu": "A téli reggel a kikötőben békés és tiszta. Délben a történelmi tornyokat és templomokat fedezzük fel a nyári hőség nélkül. A délutáni várba menetel kellemes a hűvös levegőben, tiszta panorámával. Mivel a nap korán nyugszik, a napot a Psani-parton zárjuk, ahogy a város fényei kigyúlnak a kora esti szürkületben.",
+            "ro": "Dimineața de iarnă în port este liniștită și senină. La prânz explorăm turnurile și bisericile istorice fără căldura verii. Urcarea la castel de după-amiază este plăcută în aerul răcoros, oferind o vizibilitate excelentă. Deoarece soarele apune devreme, încheiem ziua pe plaja Psani, în timp ce luminile orașului încep să sclipească.",
+            "en": "Winter mornings at the port are peaceful and crisp. At noon, we explore historic towers and churches without the summer heat. The afternoon climb to the Castle is pleasant in the cool air, offering great visibility. As the sun sets early, we end the day at Psani Beach just as the city lights begin to twinkle in the dusk."
+          },
+          "stops": [
+            {
+              "name": "Venetian Port",
+              "tip_5lang": {
+                "de": "Genießen Sie die ruhige Atmosphäre ohne Touristenmassen.",
+                "hu": "Élvezze a nyugodt hangulatot turistatömegek nélkül.",
+                "ro": "Bucurați-vă de atmosfera liniștită, fără mase de turiști.",
+                "en": "Enjoy the calm atmosphere without the summer tourist crowds."
+              }
+            },
+            {
+              "name": "Statue of Miguel de Cervantes",
+              "tip_5lang": {
+                "de": "Das Winterlicht eignet sich hervorragend für klare Fotos.",
+                "hu": "A téli fények kiválóak a tiszta fotókhoz.",
+                "ro": "Lumina de iarnă este excelentă pentru fotografii clare.",
+                "en": "The winter light is excellent for sharp, clear photographs."
+              }
+            },
+            {
+              "name": "Fethiye Mosque",
+              "tip_5lang": {
+                "de": "Ein kühler, aber windgeschützter Ort für eine kurze Rast.",
+                "hu": "Hűvös, de széltől védett hely egy rövid pihenőre.",
+                "ro": "Un loc răcoros, dar protejat de vânt pentru un scurt popas.",
+                "en": "A cool but wind-protected spot for a short rest."
+              }
+            },
+            {
+              "name": "Botsaris Tower",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ausstellungen im Inneren, um sich aufzuwärmen.",
+                "hu": "Látogassa meg a belső kiállításokat, hogy kicsit átmelegedjen.",
+                "ro": "Vizitați expozițiile interioare pentru a vă încălzi puțin.",
+                "en": "Visit the indoor exhibits to warm up a bit during your tour."
+              }
+            },
+            {
+              "name": "Church of Agios Dimitrios",
+              "tip_5lang": {
+                "de": "Die Kirche bietet eine andächtige Stille in der Nebensaison.",
+                "hu": "A templom áhítatos csendet kínál a holtszezonban.",
+                "ro": "Biserica oferă o liniște pioasă în extrasezon.",
+                "en": "The church offers a prayerful silence during the off-season."
+              }
+            },
+            {
+              "name": "Clock Tower",
+              "tip_5lang": {
+                "de": "Hervorragende Fernsicht durch die klare Winterluft.",
+                "hu": "Kiváló távoli kilátás a tiszta téli levegőnek köszönhetően.",
+                "ro": "Vizibilitate excelentă la distanță datorită aerului curat de iarnă.",
+                "en": "Excellent long-distance visibility thanks to the crisp winter air."
+              }
+            },
+            {
+              "name": "Castle of Nafpaktos",
+              "tip_5lang": {
+                "de": "Bringen Sie eine Jacke mit, oben ist es deutlich windiger.",
+                "hu": "Vigyen kabátot, fent jóval szelesebb az idő.",
+                "ro": "Luați o jachetă, sus este mult mai vântos.",
+                "en": "Bring a jacket; it is significantly windier at the top."
+              }
+            },
+            {
+              "name": "Psani Beach",
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang ist hier im Winter besonders farbenfroh.",
+                "hu": "A naplemente télen különösen színes ezen a parton.",
+                "ro": "Apusul este deosebit de colorat aici pe timp de iarnă.",
+                "en": "The winter sunset is particularly colorful from this beach."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Planen Sie den Burgbesuch vor 16 Uhr ein.",
+              "Kleiden Sie sich in Schichten für den windigen Aufstieg.",
+              "Viele Museen haben im Winter verkürzte Öffnungszeiten.",
+              "Genießen Sie heißen griechischen Kaffee in den Cafés am Hafen."
+            ],
+            "hu": [
+              "A várbejárást tervezze délután 4 óra előttre.",
+              "Öltözzön rétegesen a szeles emelkedőhöz.",
+              "Sok múzeum télen rövidített nyitvatartással üzemel.",
+              "Élvezzen egy forró görög kávét a kikötői kávézókban."
+            ],
+            "ro": [
+              "Planificați vizita la castel înainte de ora 16:00.",
+              "Îmbrăcați-vă în straturi pentru urcarea vântoasă.",
+              "Multe muzee au program redus pe timpul iernii.",
+              "Savurați o cafea grecească fierbinte în cafenelele din port."
+            ],
+            "en": [
+              "Plan your castle visit before 4:00 PM due to early sunset.",
+              "Dress in layers for the windy ascent to the fortress.",
+              "Check winter opening hours for museums in advance.",
+              "Enjoy a hot Greek coffee at one of the harbor-side cafes."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -691,6 +909,206 @@
           "The coastal road can have traffic, so ride carefully.",
           "Many cafes offer free water if you order something."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour beginnt am Psani-Strand, wo die asphaltierten Wege auch bei Regen gut befahrbar sind. Mittags erreichen wir den Hafen und den Botsaris-Turm, wobei wir oft unter Markisen Halt machen. Der Nachmittag führt uns zur Gribovo-Küste, wo die Fahrt im Regen eine besondere Frische hat. Wir beenden den Tag mit einem kurzen, vorsichtigen Abstecher zur Burgauffahrt.",
+            "hu": "A bringatúra a Psani-parton indul, ahol az aszfaltozott utak esőben is jól tekerhetők. Délben elérjük a kikötőt és a Botsaris-tornyot, gyakran megállva az árusok ponyvái alatt. A délután a Gribovo-partra vezet, ahol az esős tekerés különleges frissességet ad. A napot egy rövid, óvatos várhoz vezető kaptatóval zárjuk.",
+            "ro": "Turul cu bicicleta începe pe plaja Psani, unde pistele asfaltate sunt practicabile și pe ploaie. La prânz ajungem în port și la Turnul Botsaris, oprindu-ne des sub copertine. După-amiaza ne conduce pe coasta Gribovo, unde plimbarea în ploaie are o prospețime aparte. Încheiem ziua cu o urcare scurtă și prudentă spre castel.",
+            "en": "The bike tour starts at Psani Beach, where paved paths remain rideable in the rain. At noon, we reach the port and Botsaris Tower, often pausing under shop awnings. The afternoon leads us to the Gribovo coast, where the rainy ride offers a unique freshness. We conclude the day with a short, cautious climb toward the castle entrance."
+          },
+          "stops": [
+            {
+              "name": "Psani Beach",
+              "tip_5lang": {
+                "de": "Vermeiden Sie Pfützen auf dem Radweg.",
+                "hu": "Kerülje el a tócsákat a kerékpárúton.",
+                "ro": "Evitați bălțile de pe pista de biciclete.",
+                "en": "Watch out for puddles on the coastal cycling path."
+              }
+            },
+            {
+              "name": "Venetian Port",
+              "tip_5lang": {
+                "de": "Das Kopfsteinpflaster am Hafen ist extrem rutschig.",
+                "hu": "A kikötői macskakő rendkívül csúszós.",
+                "ro": "Pavajul de piatră din port este extrem de alunecos.",
+                "en": "The cobblestones around the harbor are extremely slippery."
+              }
+            },
+            {
+              "name": "Statue of Miguel de Cervantes",
+              "tip_5lang": {
+                "de": "Kurzer Stopp, achten Sie beim Bremsen auf den Boden.",
+                "hu": "Rövid megálló, figyeljen a fékezéskor a talajra.",
+                "ro": "Oprire scurtă, atenție la frânare pe acest teren.",
+                "en": "Quick stop; be extra careful when braking on wet stones."
+              }
+            },
+            {
+              "name": "Botsaris Tower",
+              "tip_5lang": {
+                "de": "Sichere Fahrradparkplätze in der Nähe von Gebäuden suchen.",
+                "hu": "Keressen biztonságos bicikliparkolót épületek közelében.",
+                "ro": "Căutați parcări sigure pentru biciclete lângă clădiri.",
+                "en": "Look for sheltered bike parking near the stone buildings."
+              }
+            },
+            {
+              "name": "Fethiye Mosque",
+              "tip_5lang": {
+                "de": "Parken Sie unter dem Vordach, wenn möglich.",
+                "hu": "Parkoljon az előtető alatt, ha lehetséges.",
+                "ro": "Parcați sub copertină, dacă este posibil.",
+                "en": "Park your bike under an overhang if possible to keep it dry."
+              }
+            },
+            {
+              "name": "Gribovo Beach",
+              "tip_5lang": {
+                "de": "Fahrt auf nassen Wegen unter Platanen, Vorsicht vor Laub.",
+                "hu": "Tekerés nedves úton a platánok alatt, vigyázat a levelekkel.",
+                "ro": "Mers pe drumuri ude sub platani, atenție la frunze.",
+                "en": "Ride on wet paths under plane trees; beware of slippery leaves."
+              }
+            },
+            {
+              "name": "Castle of Nafpaktos",
+              "tip_5lang": {
+                "de": "Schieben Sie das Rad auf den steilen, nassen Abschnitten.",
+                "hu": "Tolja a biciklit a meredek, nedves szakaszokon.",
+                "ro": "Împingeți bicicleta pe secțiunile abrupte și ude.",
+                "en": "Push your bike on steep, wet sections for safety."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie Schutzbleche gegen das Spritzwasser.",
+              "Vermeiden Sie scharfes Bremsen auf dem Hafenpflaster.",
+              "Tragen Sie eine gut sichtbare Regenjacke.",
+              "Achten Sie auf nasses Laub auf den Uferwegen."
+            ],
+            "hu": [
+              "Használjon sárvédőt a felcsapódó víz ellen.",
+              "Kerülje az erős fékezést a kikötői köveken.",
+              "Viseljen jól látható esőkabátot.",
+              "Ügyeljen a nedves levelekre a parti utakon."
+            ],
+            "ro": [
+              "Folosiți aripi de protecție împotriva apei stropite.",
+              "Evitați frânarea bruscă pe pavajul din port.",
+              "Purtați o jachetă de ploaie reflectorizantă.",
+              "Atenție la frunzele ude de pe potecile de pe mal."
+            ],
+            "en": [
+              "Use mudguards to protect against road spray.",
+              "Avoid hard braking on the slippery harbor stones.",
+              "Wear a high-visibility rain jacket.",
+              "Watch out for wet leaves on the coastal paths."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen am Psani-Strand bietet leere Radwege. Mittags radeln wir gemütlich zum Hafen und besichtigen den Botsaris-Turm. Die kühle Luft am Nachmittag macht die Fahrt entlang der Gribovo-Küste sehr belebend. Wir beenden die Tour mit einer sportlichen Auffahrt zum Schloss, wo die Wintersonne die Festungsmauern in warmes Licht taucht.",
+            "hu": "A friss téli reggel a Psani-parton üres kerékpárutakat kínál. Délben kényelmesen eltekerünk a kikötőhöz és a Botsaris-toronyhoz. A délutáni hűvös levegő élénkítővé teszi a tekerést a Gribovo-part mentén. A túrát egy sportos várhoz vezető emelkedővel zárjuk, ahol a téli nap meleg fénybe vonja a falakat.",
+            "ro": "O dimineață răcoroasă de iarnă pe plaja Psani oferă piste de biciclete goale. La prânz pedalăm relaxat spre port și Turnul Botsaris. Aerul rece de după-amiază face plimbarea de-a lungul coastei Gribovo foarte revigorantă. Încheiem turul cu o urcare sportivă spre castel, unde soarele de iarnă scaldă zidurile în lumină caldă.",
+            "en": "A crisp winter morning at Psani Beach means empty cycling paths. At noon, we cycle leisurely to the port and explore Botsaris Tower. The cool afternoon air makes the ride along Gribovo coast very invigorating. We finish with a sporty climb to the castle, where the winter sun casts a warm glow on the fortress walls."
+          },
+          "stops": [
+            {
+              "name": "Psani Beach",
+              "tip_5lang": {
+                "de": "Kühle Brise vom Meer, tragen Sie Handschuhe.",
+                "hu": "Hűvös szellő a tenger felől, viseljen kesztyűt.",
+                "ro": "Briză rece dinspre mare, purtați mănuși.",
+                "en": "Cool sea breeze; wearing gloves is highly recommended."
+              }
+            },
+            {
+              "name": "Venetian Port",
+              "tip_5lang": {
+                "de": "Viel Platz zum Radfahren ohne Fußgängermassen.",
+                "hu": "Rengeteg hely a biciklizéshez gyalogosforgalom nélkül.",
+                "ro": "Mult spațiu pentru pedalat fără mulțimile de pietoni.",
+                "en": "Plenty of space for cycling without the usual pedestrian crowds."
+              }
+            },
+            {
+              "name": "Statue of Miguel de Cervantes",
+              "tip_5lang": {
+                "de": "Schnelles Foto im klaren Winterlicht.",
+                "hu": "Gyors fotó a tiszta téli fényben.",
+                "ro": "Poză rapidă în lumina clară de iarnă.",
+                "en": "Quick photo stop in the sharp winter light."
+              }
+            },
+            {
+              "name": "Botsaris Tower",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp, um die Beine aufzuwärmen.",
+                "hu": "Használja a megállót a lábak bemelegítésére.",
+                "ro": "Folosiți oprirea pentru a vă încălzi picioarele.",
+                "en": "Use this stop as a chance to warm up your legs."
+              }
+            },
+            {
+              "name": "Fethiye Mosque",
+              "tip_5lang": {
+                "de": "Ruhiger Platz für eine Teepause in der Nähe.",
+                "hu": "Nyugodt hely egy közeli teázáshoz.",
+                "ro": "Loc liniștit pentru o pauză de ceai în apropiere.",
+                "en": "Quiet area; perfect for a quick tea break nearby."
+              }
+            },
+            {
+              "name": "Gribovo Beach",
+              "tip_5lang": {
+                "de": "Klares Wasser und einsame Wege genießen.",
+                "hu": "Élvezze a tiszta vizet és a magányos utakat.",
+                "ro": "Bucurați-vă de apa limpede și potecile pustii.",
+                "en": "Enjoy the crystal clear water and deserted paths."
+              }
+            },
+            {
+              "name": "Castle of Nafpaktos",
+              "tip_5lang": {
+                "de": "Die Auffahrt hält Sie bei niedrigen Temperaturen warm.",
+                "hu": "Az emelkedő melegen tart az alacsony hőmérsékletben.",
+                "ro": "Urcarea vă va ține de cald în temperaturile scăzute.",
+                "en": "The steep climb will keep you warm despite low temperatures."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Windstopper-Kleidung.",
+              "Handschuhe sind bei der Abfahrt von der Burg wichtig.",
+              "Die Sonne geht gegen 17:00 Uhr unter.",
+              "Prüfen Sie den Reifendruck vor der Tour."
+            ],
+            "hu": [
+              "Viseljen szélálló ruházatot.",
+              "A várból lefelé jövet fontos a kesztyű.",
+              "A nap 17:00 körül nyugszik.",
+              "Ellenőrizze a guminyomást a túra előtt."
+            ],
+            "ro": [
+              "Purtați haine rezistente la vânt.",
+              "Mănușile sunt esențiale la coborârea de la castel.",
+              "Soarele apune în jur de ora 17:00.",
+              "Verificați presiunea în anvelope înainte de tur."
+            ],
+            "en": [
+              "Wear windproof clothing for the coastal ride.",
+              "Gloves are essential for the descent from the castle.",
+              "The sun sets around 5:00 PM in winter.",
+              "Check your tire pressure before starting the tour."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1020,6 +1438,206 @@
           "Pay attention to parking fees, especially in the blue zones.",
           "A car allows you to also visit more remote beaches east and west of the city."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir parken am Gribovo-Strand und spazieren kurz zum Hafen, bevor der Regen stärker wird. Mittags besuchen wir die Moschee und den Botsaris-Turm, wobei das Auto ein trockener Rückzugsort ist. Am Nachmittag fahren wir hinauf zum Schloss, was bei Regen die bequemste Option ist. Den Tag lassen wir mit einer Panoramafahrt entlang der Küste von Psani ausklingen.",
+            "hu": "A Gribovo-parton parkolunk, és teszünk egy rövid sétát a kikötőhöz, mielőtt elered az eső. Délben meglátogatjuk a mecsetet és a Botsaris-tornyot, az autó ilyenkor száraz menedék. Délután felhajtunk a várhoz, ami esőben a legkényelmesebb opció. A napot a Psani-part menti panorámaautózással zárjuk.",
+            "ro": "Parcăm la plaja Gribovo și facem o scurtă plimbare spre port înainte să plouă mai tare. La prânz vizităm moscheea și Turnul Botsaris, mașina fiind un refugiu uscat. După-amiaza urcăm la castel, aceasta fiind cea mai confortabilă opțiune pe ploaie. Încheiem ziua cu o plimbare panoramică de-a lungul coastei Psani.",
+            "en": "We park at Gribovo Beach and take a quick stroll to the port before the rain intensifies. At noon, we visit the mosque and Botsaris Tower, using the car as a dry base. In the afternoon, we drive up to the castle, which is the most comfortable option in wet weather. We end the day with a scenic drive along Psani Beach."
+          },
+          "stops": [
+            {
+              "name": "Parking at Gribovo Beach",
+              "tip_5lang": {
+                "de": "Parken Sie nahe am Weg, um Regenwege kurz zu halten.",
+                "hu": "Parkoljon közel az úthoz, hogy rövid legyen az út az esőben.",
+                "ro": "Parcați aproape de potecă pentru a scurta drumul prin ploaie.",
+                "en": "Park close to the path to minimize walking in the rain."
+              }
+            },
+            {
+              "name": "Venetian Port",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Parkplatz, Schirm mitnehmen.",
+                "hu": "Rövid gyalogút a parkolótól, vigyen ernyőt.",
+                "ro": "Drum scurt pe jos de la parcare, luați umbrela.",
+                "en": "Short walk from the parking area; take an umbrella."
+              }
+            },
+            {
+              "name": "Fethiye Mosque",
+              "tip_5lang": {
+                "de": "Trockener Ort für kulturelle Besichtigung.",
+                "hu": "Száraz hely kulturális városnézéshez.",
+                "ro": "Loc uscat pentru vizitarea obiectivelor culturale.",
+                "en": "A dry indoor location for cultural sightseeing."
+              }
+            },
+            {
+              "name": "Botsaris Tower",
+              "tip_5lang": {
+                "de": "Museumsbesuch ist ideal bei starkem Regen.",
+                "hu": "A múzeumlátogatás ideális heves esőzéskor.",
+                "ro": "Vizita la muzeu este ideală în timpul ploii abundente.",
+                "en": "A museum visit is ideal during heavy rain showers."
+              }
+            },
+            {
+              "name": "Parking at the Castle",
+              "tip_5lang": {
+                "de": "Der obere Parkplatz spart den nassen Aufstieg zu Fuß.",
+                "hu": "A felső parkoló megspórolja a vizes gyalogos emelkedőt.",
+                "ro": "Parcarea de sus vă scutește de urcarea pe jos prin ploaie.",
+                "en": "The upper parking lot saves you a wet climb on foot."
+              }
+            },
+            {
+              "name": "Castle of Nafpaktos",
+              "tip_5lang": {
+                "de": "Vom Auto aus hat man auch bei Regen gute Sichtpunkte.",
+                "hu": "Az autóból esőben is jó kilátópontokat érhetünk el.",
+                "ro": "Din mașină aveți puncte bune de observație și pe ploaie.",
+                "en": "The drive offers good viewpoints even from inside the car."
+              }
+            },
+            {
+              "name": "Psani Beach",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Brandung aus dem Auto.",
+                "hu": "Élvezze a kilátást a hullámokra az autóból.",
+                "ro": "Bucurați-vă de vederea valurilor din mașină.",
+                "en": "Enjoy the view of the surf from the comfort of your car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie den Parkplatz direkt an der Burg.",
+              "Vermeiden Sie enge Gassen bei starkem Regen (Auffahrt).",
+              "Halten Sie einen Regenschirm im Auto bereit.",
+              "Die Küstenstraßen können bei Starkregen überspült sein."
+            ],
+            "hu": [
+              "Használja közvetlenül a várnál lévő parkolót.",
+              "Heves esőben kerülje a szűk sikátorokat.",
+              "Tartson készenlétben esernyőt az autóban.",
+              "A parti utakon heves esőzéskor vízátfolyások lehetnek."
+            ],
+            "ro": [
+              "Folosiți parcarea situată direct la castel.",
+              "Evitați străzile înguste în timpul ploii abundente.",
+              "Aveți o umbrelă pregătită în mașină.",
+              "Drumurile de coastă pot fi inundate în timpul ploilor torențiale."
+            ],
+            "en": [
+              "Use the parking lot located directly at the castle.",
+              "Avoid narrow alleys during heavy downpours.",
+              "Keep an umbrella ready in the car at all times.",
+              "Coastal roads may have some flooding during heavy rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens parken wir am ruhigen Gribovo-Strand und genießen den klaren Blick auf den Hafen. Mittags erkunden wir die Altstadt und den Botsaris-Turm ohne Parkplatzsorgen. Am Nachmittag führt uns die Fahrt hinauf zur Burg, wo die Wintersonne die Festung beleuchtet. Da es früh dunkel wird, beenden wir den Tag mit einer beleuchteten Fahrt entlang der Psani-Küste.",
+            "hu": "Reggel a csendes Gribovo-parton parkolunk, élvezve a tiszta kilátást a kikötőre. Délben a Botsaris-tornyot és az óvárost fedezzük fel parkolási gondok nélkül. Délután felautózunk a várhoz, ahol a téli nap megvilágítja az erődítményt. Mivel korán sötétedik, a napot kivilágított autózással zárjuk a Psani-part mentén.",
+            "ro": "Dimineața parcăm la plaja liniștită Gribovo, bucurându-ne de vederea clară spre port. La prânz explorăm Turnul Botsaris și orașul vechi fără grija parcării. După-amiaza urcăm cu mașina la castel, unde soarele de iarnă luminează fortăreața. Fiindcă se întunecă devreme, încheiem ziua cu o plimbare iluminată pe coasta Psani.",
+            "en": "Morning starts by parking at the quiet Gribovo Beach with clear views of the harbor. At noon, we explore Botsaris Tower and the old town without parking hassles. In the afternoon, we drive to the castle to catch the winter sun hitting the walls. As it gets dark early, we finish with a scenic drive along the illuminated Psani coast."
+          },
+          "stops": [
+            {
+              "name": "Parking at Gribovo Beach",
+              "tip_5lang": {
+                "de": "Im Winter sind hier viele Parkplätze frei.",
+                "hu": "Télen itt rengeteg szabad parkolóhely van.",
+                "ro": "Iarna sunt multe locuri de parcare libere aici.",
+                "en": "Plenty of parking spaces are available here during winter."
+              }
+            },
+            {
+              "name": "Venetian Port",
+              "tip_5lang": {
+                "de": "Perfekt für einen kurzen Stopp ohne Hitze.",
+                "hu": "Tökéletes egy rövid megállóra a hőség nélkül.",
+                "ro": "Perfect pentru o scurtă oprire fără căldură.",
+                "en": "Perfect for a quick stop without the summer heat."
+              }
+            },
+            {
+              "name": "Fethiye Mosque",
+              "tip_5lang": {
+                "de": "Besichtigung in ruhiger Atmosphäre.",
+                "hu": "Városnézés nyugodt körülmények között.",
+                "ro": "Vizitare în condiții de liniște.",
+                "en": "Sightseeing in a calm and quiet atmosphere."
+              }
+            },
+            {
+              "name": "Botsaris Tower",
+              "tip_5lang": {
+                "de": "Drinnen ist es deutlich wärmer als am Hafen.",
+                "hu": "Bent lényegesen melegebb van, mint a kikötőben.",
+                "ro": "În interior este mult mai cald decât în port.",
+                "en": "The interior is significantly warmer than the harbor area."
+              }
+            },
+            {
+              "name": "Parking at the Castle",
+              "tip_5lang": {
+                "de": "Bester Platz für den Sonnenuntergang-Blick.",
+                "hu": "A legjobb hely a naplemente megtekintéséhez.",
+                "ro": "Cel mai bun loc pentru a vedea apusul.",
+                "en": "The best spot to watch the winter sunset from your car."
+              }
+            },
+            {
+              "name": "Castle of Nafpaktos",
+              "tip_5lang": {
+                "de": "Die Fernsicht im Winter ist spektakulär.",
+                "hu": "A téli távoli kilátás látványos.",
+                "ro": "Vizibilitatea la distanță iarna este spectaculoasă.",
+                "en": "The winter long-distance visibility is spectacular."
+              }
+            },
+            {
+              "name": "Psani Beach",
+              "tip_5lang": {
+                "de": "Die Abendbeleuchtung der Stadt ist vom Auto aus schön.",
+                "hu": "Az autóval közlekedve szép a város esti kivilágítása.",
+                "ro": "Iluminatul de seară al orașului este frumos din mașină.",
+                "en": "The city's evening lights look beautiful from the coastal road."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Parkplätze sind in der Nebensaison leicht zu finden.",
+              "Die Auffahrt zur Burg ist gut ausgebaut.",
+              "Achten Sie auf Glätte in Schattenlagen der Burgstraße.",
+              "Genießen Sie die Aussicht bei laufender Heizung."
+            ],
+            "hu": [
+              "A parkolóhelyek könnyen megtalálhatók a főszezonon kívül.",
+              "A várhoz vezető út jól karbantartott.",
+              "Ügyeljen a csúszós szakaszokra a várút árnyékos részein.",
+              "Élvezze a kilátást a fűtött autóból."
+            ],
+            "ro": [
+              "Locurile de parcare sunt ușor de găsit în extrasezon.",
+              "Drumul spre castel este bine întreținut.",
+              "Atenție la porțiunile alunecoase în zonele umbrite ale drumului.",
+              "Bucurați-vă de priveliște din mașina încălzită."
+            ],
+            "en": [
+              "Parking spaces are easy to find during the off-season.",
+              "The road to the castle is well-maintained and safe.",
+              "Watch out for icy spots in shaded areas of the castle road.",
+              "Enjoy the coastal views from your heated car."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1349,6 +1967,206 @@
           "Have small change ready for the bus tickets.",
           "Buses can be crowded in high season, so be prepared for standing room."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus erreichen wir bequem die Psani-Küste und den venezianischen Hafen. Mittags bieten der Botsaris-Turm und die lokalen Museen Schutz vor dem Regen. Am Nachmittag nehmen wir den Bus in Richtung Burg, um den nassen Aufstieg zu vermeiden. Den Tag beenden wir sicher im Bus entlang der Gribovo-Küste, während wir den Regen gegen die Fensterscheiben prasseln hören.",
+            "hu": "Busszal kényelmesen elérjük a Psani-partot és a velencei kikötőt. Délben a Botsaris-torony és a helyi múzeumok nyújtanak védelmet az eső elől. Délután a vár felé tartó buszt választjuk, elkerülve a vizes kaptatót. A napot biztonságban, a Gribovo-part menti buszon zárjuk, hallgatva az ablakon kopogó esőt.",
+            "ro": "Cu autobuzul ajungem confortabil la coasta Psani și portul venețian. La prânz, Turnul Botsaris și muzeele locale oferă protecție împotriva ploii. După-amiaza luăm autobuzul spre castel pentru a evita urcarea prin ploaie. Încheiem ziua în siguranță în autobuz pe coasta Gribovo, ascultând ploaia pe geam.",
+            "en": "By bus, we easily reach Psani Beach and the Venetian Port. At noon, Botsaris Tower and local museums provide shelter from the rain. In the afternoon, we take the bus toward the castle to avoid the wet climb. We end the day safely on the Gribovo coast bus, watching the rain hit the windows."
+          },
+          "stops": [
+            {
+              "name": "Bus Stop at Psani Beach",
+              "tip_5lang": {
+                "de": "Warten Sie unter dem Unterstand der Haltestelle.",
+                "hu": "Várjon a buszmegálló fedett várójában.",
+                "ro": "Așteptați sub adăpostul stației de autobuz.",
+                "en": "Wait under the shelter of the bus stop to stay dry."
+              }
+            },
+            {
+              "name": "Venetian Port",
+              "tip_5lang": {
+                "de": "Nur wenige Schritte von der Haltestelle zu den Cafés.",
+                "hu": "Csak pár lépés a megállótól a kávézókig.",
+                "ro": "Doar câțiva pași de la stație până la cafenele.",
+                "en": "Just a few steps from the stop to the nearest cafes."
+              }
+            },
+            {
+              "name": "Statue of Miguel de Cervantes",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp zwischen den Busverbindungen.",
+                "hu": "Rövid fotómegálló a buszjáratok között.",
+                "ro": "Scurtă oprire pentru poze între autobuze.",
+                "en": "Quick photo stop between bus connections."
+              }
+            },
+            {
+              "name": "Botsaris Tower",
+              "tip_5lang": {
+                "de": "Idealer Ort, um auf den nächsten Bus im Trockenen zu warten.",
+                "hu": "Ideális hely a következő buszra való várakozáshoz szárazon.",
+                "ro": "Loc ideal pentru a aștepta următorul autobuz la uscat.",
+                "en": "Ideal place to wait for your next bus while staying dry."
+              }
+            },
+            {
+              "name": "Bus Stop to the Castle",
+              "tip_5lang": {
+                "de": "Informieren Sie sich über die Regen-Fahrpläne.",
+                "hu": "Tájékozódjon az esőidőben érvényes menetrendről.",
+                "ro": "Informați-vă despre programul de transport pe ploaie.",
+                "en": "Check the local schedule for any rain-related delays."
+              }
+            },
+            {
+              "name": "Castle of Nafpaktos",
+              "tip_5lang": {
+                "de": "Die Haltestelle liegt nah am Eingang.",
+                "hu": "A megálló közel van a bejárathoz.",
+                "ro": "Stația este aproape de intrare.",
+                "en": "The bus stop is located conveniently close to the entrance."
+              }
+            },
+            {
+              "name": "Gribovo Beach",
+              "tip_5lang": {
+                "de": "Der Bus bringt Sie direkt zurück ins Zentrum.",
+                "hu": "A busz közvetlenül visszaviszi a központba.",
+                "ro": "Autobuzul vă duce direct înapoi în centru.",
+                "en": "The bus will take you directly back to the city center."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die App für Echtzeit-Businfos.",
+              "Haben Sie Kleingeld für das Ticket bereit.",
+              "Die Busse können bei Regen voller sein.",
+              "Warten Sie immer in den überdachten Haltestellen."
+            ],
+            "hu": [
+              "Használja az appot a valós idejű buszinformációkért.",
+              "Legyen nálad aprópénz a jegyhez.",
+              "Esőben a buszok zsúfoltabbak lehetnek.",
+              "Mindig várjon a fedett megállókban."
+            ],
+            "ro": [
+              "Folosiți aplicația pentru informații în timp real despre autobuze.",
+              "Aveți mărunțiș pregătit pentru bilet.",
+              "Autobuzele pot fi mai aglomerate pe ploaie.",
+              "Așteptați întotdeauna în stațiile acoperite."
+            ],
+            "en": [
+              "Use a transit app for real-time bus information.",
+              "Keep some small change ready for buying tickets.",
+              "Buses can be more crowded during rain showers.",
+              "Always wait under the covered bus shelters."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Wir starten den Wintermorgen mit dem Bus zum Psani-Strand, wo die Luft klar und frisch ist. Mittags besichtigen wir den Hafen und den Botsaris-Turm, wobei die Busfahrt eine warme Pause bietet. Am Nachmittag nehmen wir den Transfer zur Burg, um die Aussicht in der Wintersonne zu genießen. Den Tag beenden wir mit der Fahrt zur Gribovo-Küste, bevor die frühe Dunkelheit einsetzt.",
+            "hu": "A téli reggelt busszal indítjuk a Psani-partra, ahol a levegő tiszta és friss. Délben a kikötőt és a Botsaris-tornyot nézzük meg, a buszozás közben kicsit átmelegedve. Délután a várhoz megyünk fel, hogy élvezzük a kilátást a téli napsütésben. A napot a Gribovo-parti busszal zárjuk, mielőtt beállna a korai sötétség.",
+            "ro": "Începem dimineața de iarnă cu autobuzul spre plaja Psani, unde aerul este curat și proaspăt. La prânz vizităm portul și Turnul Botsaris, încălzindu-ne puțin în autobuz. După-amiaza luăm transferul spre castel pentru a admira priveliștea în soarele de iarnă. Încheiem ziua cu autobuzul spre coasta Gribovo înainte de lăsarea serii.",
+            "en": "We start the winter morning by bus to Psani Beach, where the air is crisp and fresh. At noon, we visit the harbor and Botsaris Tower, enjoying the warmth of the bus. In the afternoon, we take the transfer to the castle for winter sun views. We end the day with a ride to the Gribovo coast before early darkness sets in."
+          },
+          "stops": [
+            {
+              "name": "Bus Stop at Psani Beach",
+              "tip_5lang": {
+                "de": "Im Winter gibt es weniger Fahrten, Plan prüfen.",
+                "hu": "Télen kevesebb járat indul, ellenőrizze a tervet.",
+                "ro": "Iarna sunt mai puține curse, verificați programul.",
+                "en": "Fewer bus services run in winter; check the schedule."
+              }
+            },
+            {
+              "name": "Venetian Port",
+              "tip_5lang": {
+                "de": "Zentraler Knotenpunkt für viele Buslinien.",
+                "hu": "Központi csomópont számos buszvonalhoz.",
+                "ro": "Nod central pentru multe linii de autobuz.",
+                "en": "Central hub for many local bus lines."
+              }
+            },
+            {
+              "name": "Statue of Miguel de Cervantes",
+              "tip_5lang": {
+                "de": "Kurzer Aufenthalt im kühlen Wind.",
+                "hu": "Rövid tartózkodás a hűvös szélben.",
+                "ro": "Scurtă ședere în vântul răcoros.",
+                "en": "Expect a short, chilly stay in the wind here."
+              }
+            },
+            {
+              "name": "Botsaris Tower",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Innenraum zum Aufwärmen.",
+                "hu": "Használja a belső teret a felmelegedéshez.",
+                "ro": "Folosiți interiorul pentru a vă încălzi.",
+                "en": "Head inside the tower to warm up for a bit."
+              }
+            },
+            {
+              "name": "Bus Stop to the Castle",
+              "tip_5lang": {
+                "de": "Letzter Bus zurück meist gegen 17 Uhr.",
+                "hu": "Az utolsó busz visszafelé általában 17 óra körül indul.",
+                "ro": "Ultimul autobuz înapoi este de obicei în jur de ora 17:00.",
+                "en": "The last bus back usually departs around 5:00 PM."
+              }
+            },
+            {
+              "name": "Castle of Nafpaktos",
+              "tip_5lang": {
+                "de": "Tiefstehende Wintersonne für Fotos nutzen.",
+                "hu": "Használja ki az alacsonyan járó téli napot a fotózáshoz.",
+                "ro": "Folosiți soarele de iarnă pentru fotografii reușite.",
+                "en": "Use the low winter sun for great photography lighting."
+              }
+            },
+            {
+              "name": "Gribovo Beach",
+              "tip_5lang": {
+                "de": "Ruhiger Abschluss der Tour in der Abenddämmerung.",
+                "hu": "A túra nyugodt lezárása az alkonyatban.",
+                "ro": "Încheiere liniștită a turului la amurg.",
+                "en": "A peaceful end to the tour as twilight sets in."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterfahrplan ist oft eingeschränkt.",
+              "Die Busse sind gut beheizt.",
+              "Sonne geht um 17:00 Uhr unter.",
+              "Warten Sie an den Hauptknotenpunkten im Warmen."
+            ],
+            "hu": [
+              "A téli menetrend gyakran korlátozott.",
+              "A buszok jól fűtöttek.",
+              "A nap 17:00-kor nyugszik.",
+              "Várjon a melegben a főbb csomópontokon."
+            ],
+            "ro": [
+              "Programul de iarnă este adesea restricționat.",
+              "Autobuzele sunt bine încălzite.",
+              "Soarele apune la ora 17:00.",
+              "Așteptați în locuri încălzite la nodurile principale."
+            ],
+            "en": [
+              "The winter bus schedule is often limited.",
+              "Local buses are usually well-heated.",
+              "The sun sets early at 5:00 PM.",
+              "Wait for buses inside nearby shops or cafes if possible."
+            ]
+          }
+        }
       }
     }
   }

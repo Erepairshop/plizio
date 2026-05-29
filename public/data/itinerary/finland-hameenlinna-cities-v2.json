@@ -338,6 +338,189 @@
           "Check the opening hours of the museums in advance as they can vary seasonally.",
           "A walk by the lake is especially beautiful at sunset."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren regnerischen Tag in der Hämeenlinna-Kirche, einem ruhigen und trockenen Zufluchtsort. Ein kurzer Spaziergang führt zum Sibelius-Geburtshaus, wo Sie die gemütliche Atmosphäre genießen können. Mittags bietet das Kunstmuseum Schutz und Inspiration inmitten lokaler Werke. Nach einem stärkenden Mittagessen erkunden Sie die dicken Mauern der Burg Häme, die den Regen draußen halten. Den Abschluss bildet das Militaria-Museum mit seinen weitläufigen Innenräumen.",
+            "hu": "Kezdje az esős napot a templomban, amely csendes és száraz menedéket nyújt. Egy rövid séta után Sibelius szülőházának barátságos belső terei várják. Délben a Művészeti Múzeum kínál kulturális feltöltődést, távol a szürke égtől. Egy kiadós ebéd után a Häme vár vastag falai között kalandozhat, ahol az eső nem zavarja a felfedezést. A napot a Militaria Múzeum hatalmas beltéri kiállítótereiben zárhatja.",
+            "ro": "Începeți ziua ploioasă la Biserica Hämeenlinna, un refugiu liniștit și uscat. O scurtă plimbare vă duce la locul de naștere al lui Sibelius, unde vă puteți bucura de atmosfera primitoare. La prânz, Muzeul de Artă oferă adăpost și inspirație printre lucrările locale. După un prânz cald, explorați zidurile groase ale Castelului Häme, care țin ploaia la distanță. Încheiați ziua în spațiile interioare vaste ale Muzeului Militaria.",
+            "en": "Start your rainy day at Hämeenlinna Church, a quiet and dry sanctuary. A short walk leads to Sibelius' Birthplace, where you can enjoy the cozy indoor atmosphere. At noon, the Art Museum provides shelter and inspiration among local works. After a hearty lunch, explore the thick walls of Häme Castle, which keep the rain at bay. Finish the day in the extensive indoor exhibition spaces of Museum Militaria."
+          },
+          "stops": [
+            {
+              "name": "Hämeenlinna Church",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Haupteingang, um Schirmen auszuweichen; das Innere ist angenehm temperiert.",
+                "hu": "Használja a főbejáratot az eső elől; a belső tér kellemesen temperált.",
+                "ro": "Folosiți intrarea principală pentru a evita ploaia; interiorul este încălzit plăcut.",
+                "en": "Use the main entrance to avoid the rain; the interior is pleasantly tempered."
+              }
+            },
+            {
+              "name": "Sibelius' Birthplace",
+              "tip_5lang": {
+                "de": "Kleines, aber feines Museum; ideal, um einen Schauer bei klassischer Musik abzuwarten.",
+                "hu": "Kicsi, de kiváló múzeum; ideális egy zápor kivárására klasszikus zene mellett.",
+                "ro": "Muzeu mic, dar rafinat; ideal pentru a aștepta trecerea unei averse pe muzică clasică.",
+                "en": "Small but fine museum; ideal for waiting out a shower while listening to classical music."
+              }
+            },
+            {
+              "name": "Hämeenlinna Art Museum",
+              "tip_5lang": {
+                "de": "Die Garderobe bietet viel Platz für nasse Mäntel und Schirme.",
+                "hu": "A ruhatárban bőven van hely a vizes kabátoknak és esernyőknek.",
+                "ro": "Garderoba oferă mult spațiu pentru paltoane ude și umbrele.",
+                "en": "The cloakroom has plenty of space for wet coats and umbrellas."
+              }
+            },
+            {
+              "name": "Lunch in the Centre",
+              "total_km": 4.8,
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit direktem Straßenzugang, um Laufwege im Regen zu minimieren.",
+                "hu": "Válasszon közvetlen utcai bejáratú éttermet, hogy minimalizálja az esőben való gyaloglást.",
+                "ro": "Alegeți un restaurant cu acces direct din stradă pentru a minimiza mersul prin ploaie.",
+                "en": "Choose a restaurant with direct street access to minimize walking in the rain."
+              }
+            },
+            {
+              "name": "Häme Castle",
+              "tip_5lang": {
+                "de": "Die Innenhöfe sind teilweise überdacht, aber feste Schuhe sind für das Kopfsteinpflaster ratsam.",
+                "hu": "Az udvarok részben fedettek, de a macskakövekre ajánlott a vízálló cipő.",
+                "ro": "Curțile sunt parțial acoperite, dar pantofii impermeabili sunt recomandați pentru pavaj.",
+                "en": "The courtyards are partially covered, but waterproof shoes are advised for the cobblestones."
+              }
+            },
+            {
+              "name": "Museum Militaria",
+              "tip_5lang": {
+                "de": "Besuchen Sie zuerst die Außenausstellung, falls der Regen kurz nachlässt.",
+                "hu": "Látogassa meg először a külső kiállítást, ha az eső rövid időre eláll.",
+                "ro": "Vizitați mai întâi expoziția exterioară dacă ploaia se oprește pentru scurt timp.",
+                "en": "Visit the outdoor exhibition first if the rain lets up briefly."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine wasserfeste Jacke, da der Wind vom See den Regen oft seitlich peitscht.",
+              "Die Museen im Zentrum liegen nah beieinander, nutzen Sie die kurzen Wege.",
+              "In der Burg Häme kann es in den Gängen zugig sein, eine Schicht mehr hilft.",
+              "Die meisten Cafés bieten kostenlose Schirmständer am Eingang an."
+            ],
+            "hu": [
+              "Viseljen vízhatlan kabátot, mert a tavi szél gyakran oldalról fújja az esőt.",
+              "A belvárosi múzeumok közel vannak egymáshoz, használja ki a rövid távokat.",
+              "A vár folyosóin huzat lehet, egy plusz réteg ruha jól jöhet.",
+              "A legtöbb kávézó bejáratánál van ingyenes esernyőtartó."
+            ],
+            "ro": [
+              "Purtați o jachetă impermeabilă, deoarece vântul de pe lac suflă adesea ploaia lateral.",
+              "Muzeele din centru sunt aproape unele de altele, profitați de distanțele scurte.",
+              "În castel poate fi curent pe holuri, un strat suplimentar de haine ajută.",
+              "Majoritatea cafenelelor oferă suporturi pentru umbrele la intrare."
+            ],
+            "en": [
+              "Wear a waterproof jacket as the lake wind often blows rain sideways.",
+              "The downtown museums are close to each other, take advantage of the short distances.",
+              "The castle corridors can be drafty, an extra layer of clothing helps.",
+              "Most cafes offer free umbrella stands at the entrance."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen beginnt in der warmen Kirche, während der Schnee draußen glitzert. Im Sibelius-Haus erleben Sie finnische Wintergemütlichkeit par excellence. Mittags wärmen Sie sich im Kunstmuseum auf, bevor ein heißes Mittagessen neue Energie gibt. Der Nachmittag an der Burg Häme wirkt wie aus einem Märchen, wenn die Festung weiß bestäubt ist. Da es früh dunkel wird, bietet das Militaria-Museum einen beleuchteten und spannenden Tagesabschluss.",
+            "hu": "A fagyos reggel a meleg templomban kezdődik, miközben odakint csillog a hó. Sibelius házában átélheti az igazi finn téli hangulatot. Délben a Művészeti Múzeumban melegedhet fel, mielőtt egy forró ebéd új energiát adna. A délután a Häme várnál olyan, mint egy tündérmese a hófödte bástyákkal. Mivel korán sötétedik, a Militaria Múzeum kivilágított terei tökéletes zárást kínálnak.",
+            "ro": "O dimineață geroasă începe în biserica caldă, în timp ce zăpada strălucește afară. În casa lui Sibelius veți experimenta confortul iernii finlandeze. La prânz vă încălziți în Muzeul de Artă, înainte ca un prânz fierbinte să vă dea energie. După-amiaza la Castelul Häme pare desprinsă dintr-un basm, cu fortăreața acoperită de zăpadă. Deoarece se întunecă devreme, Muzeul Militaria oferă un final de zi luminat și captivant.",
+            "en": "A frosty morning begins in the warm church while snow glitters outside. In Sibelius' house, experience Finnish winter coziness at its best. At noon, warm up in the Art Museum before a hot lunch re-energizes you. The afternoon at Häme Castle looks like a fairy tale when the fortress is dusted in white. As it gets dark early, Museum Militaria provides an illuminated and exciting conclusion to the day."
+          },
+          "stops": [
+            {
+              "name": "Hämeenlinna Church",
+              "tip_5lang": {
+                "de": "Vorsicht auf den Stufen; diese können bei Frost glatt sein.",
+                "hu": "Vigyázat a lépcsőkön; fagy esetén csúszósak lehetnek.",
+                "ro": "Atenție pe trepte; acestea pot fi alunecoase în caz de îngheț.",
+                "en": "Be careful on the steps; they can be slippery in freezing weather."
+              }
+            },
+            {
+              "name": "Sibelius' Birthplace",
+              "tip_5lang": {
+                "de": "Ziehen Sie Ihre Schuhe am Eingang aus, wie es in finnischen Häusern üblich ist.",
+                "hu": "Vegye le a cipőjét a bejáratnál, ahogy az a finn házakban szokás.",
+                "ro": "Descălțați-vă la intrare, așa cum este obiceiul în casele finlandeze.",
+                "en": "Take off your shoes at the entrance, as is customary in Finnish homes."
+              }
+            },
+            {
+              "name": "Hämeenlinna Art Museum",
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um die Kälte für eine Weile komplett zu vergessen.",
+                "hu": "Tökéletes hely, hogy egy időre teljesen elfelejtse a kinti hideget.",
+                "ro": "Un loc perfect pentru a uita complet de frig pentru o vreme.",
+                "en": "A perfect place to completely forget the cold for a while."
+              }
+            },
+            {
+              "name": "Lunch in the Centre",
+              "tip_5lang": {
+                "de": "Probieren Sie eine traditionelle finnische Suppe zum Aufwärmen.",
+                "hu": "Kóstoljon meg egy hagyományos finn levest a felmelegedéshez.",
+                "ro": "Încercați o supă tradițională finlandeză pentru a vă încălzi.",
+                "en": "Try a traditional Finnish soup to warm up."
+              }
+            },
+            {
+              "name": "Häme Castle",
+              "tip_5lang": {
+                "de": "Die Burggräben sehen im Schnee wunderschön aus; halten Sie die Kamera bereit.",
+                "hu": "A várárok gyönyörű a hóban; készítse elő a fényképezőgépét.",
+                "ro": "Șanțurile castelului arată minunat în zăpadă; pregătiți camera foto.",
+                "en": "The castle moats look beautiful in the snow; have your camera ready."
+              }
+            },
+            {
+              "name": "Museum Militaria",
+              "tip_5lang": {
+                "de": "Die Ausstellungsräume sind gut beheizt und bieten Komfort bis zum Abend.",
+                "hu": "A kiállítótermek jól fűtöttek és kényelmet nyújtanak estig.",
+                "ro": "Sălile de expoziție sunt bine încălzite și oferă confort până seara.",
+                "en": "The exhibition rooms are well heated and offer comfort until evening."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermounterwäsche; die Temperaturen können schnell unter -10°C fallen.",
+              "Die Sonne geht im Winter gegen 15:30 Uhr unter; planen Sie Fotos für den frühen Nachmittag.",
+              "Gehwege werden meist gut geräumt, aber Streusplit kann das Gehen erschweren.",
+              "Nutzen Sie die kurzen Abstände zwischen den Attraktionen, um nicht auszukühlen."
+            ],
+            "hu": [
+              "Viseljen termikus fehérneműt; a hőmérséklet gyorsan -10°C alá süllyedhet.",
+              "A nap télen 15:30 körül nyugszik; a fotózást kora délutánra tervezze.",
+              "A járdákat jól takarítják, de a zúzott kő nehezítheti a járást.",
+              "Használja ki a látnivalók közötti rövid távolságokat, hogy ne hűljön ki."
+            ],
+            "ro": [
+              "Purtați lenjerie termică; temperaturile pot scădea rapid sub -10°C.",
+              "Soarele apune în jur de ora 15:30 iarna; planificați fotografiile pentru începutul după-amiezii.",
+              "Trotuarele sunt de obicei bine curățate, dar criblura poate îngreuna mersul.",
+              "Profitați de distanțele scurte dintre atracții pentru a nu îngheța."
+            ],
+            "en": [
+              "Wear thermal underwear; temperatures can quickly drop below -10°C.",
+              "The sun sets around 3:30 PM in winter; plan photos for early afternoon.",
+              "Sidewalks are usually well cleared, but grit can make walking tricky.",
+              "Take advantage of the short distances between attractions to avoid getting chilled."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -690,6 +873,188 @@
           "Bring a water bottle and snacks, especially for the ride to Aulanko.",
           "A lock for your bike is recommended when you're exploring the sights."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine regnerische Radtour beginnt an der Burg Häme, wo das Kopfsteinpflaster rutschig sein kann. Das nahegelegene Militaria-Museum bietet eine trockene Pause. Die Fahrt zum Aulanko-Park führt durch erfrischende, aber nasse Natur. Nach einem Mittagessen in Aulanko geht es zurück zum Sibelius-Haus im Stadtzentrum. Den Tag lassen wir im Kulturzentrum Verkatehdas ausklingen, einem perfekten Ort für trockene Abendunterhaltung.",
+            "hu": "Az esős biciklis túra a Häme várnál kezdődik, ahol a macskakő csúszós lehet. A közeli Militaria Múzeum száraz pihenőt kínál. Az út az Aulanko parkba frissítő, de vizes természeten át vezet. Az aulankói ebéd után visszatekerünk a belvárosi Sibelius-házhoz. A napot a Verkatehdas kulturális központban zárjuk, amely tökéletes hely a száraz esti kikapcsolódáshoz.",
+            "ro": "O tură cu bicicleta pe ploaie începe la Castelul Häme, unde pavajul poate fi alunecos. Muzeul Militaria din apropiere oferă o pauză uscată. Drumul către Parcul Aulanko trece prin natură revigorantă, dar umedă. După un prânz în Aulanko, revenim la casa lui Sibelius din centru. Încheiem ziua la centrul cultural Verkatehdas, un loc perfect pentru divertisment de seară la adăpost.",
+            "en": "A rainy bike tour starts at Häme Castle, where cobblestones can be slippery. The nearby Museum Militaria offers a dry break. The ride to Aulanko Park goes through refreshing but wet nature. After lunch in Aulanko, cycle back to Sibelius' Birthplace in the city center. We end the day at the Verkatehdas cultural center, a perfect spot for dry evening entertainment."
+          },
+          "stops": [
+            {
+              "name": "Häme Castle",
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den nassen Steinen rund um die Festung.",
+                "hu": "Vezessen óvatosan a vizes köveken az erőd körül.",
+                "ro": "Conduceți cu atenție pe pietrele ude din jurul cetății.",
+                "en": "Ride carefully on the wet stones around the fortress."
+              }
+            },
+            {
+              "name": "Museum Militaria",
+              "tip_5lang": {
+                "de": "Es gibt Fahrradständer direkt am Eingang unter Vordächern.",
+                "hu": "Közvetlenül a bejáratnál, az előtetők alatt vannak kerékpártárolók.",
+                "ro": "Există suporturi pentru biciclete chiar la intrare, sub copertine.",
+                "en": "There are bike racks directly at the entrance under overhangs."
+              }
+            },
+            {
+              "name": "Aulanko Park",
+              "tip_5lang": {
+                "de": "Die Waldwege können schlammig sein; breite Reifen sind von Vorteil.",
+                "hu": "Az erdei utak sárosak lehetnek; a széles gumiabroncs előny.",
+                "ro": "Potecile din pădure pot fi noroioase; anvelopele late sunt un avantaj.",
+                "en": "The forest paths can be muddy; wide tires are an advantage."
+              }
+            },
+            {
+              "name": "Lunch in Aulanko",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Regenkleidung kurz zu lüften.",
+                "hu": "Ideális hely az esőruházat rövid szellőztetésére.",
+                "ro": "Un loc ideal pentru a aerisi scurt hainele de ploaie.",
+                "en": "An ideal place to briefly air out your rain gear."
+              }
+            },
+            {
+              "name": "Sibelius' Birthplace",
+              "tip_5lang": {
+                "de": "Achten Sie beim Absteigen auf Pfützen vor dem Museum.",
+                "hu": "Leszálláskor ügyeljen a múzeum előtti tócsákra.",
+                "ro": "Atenție la bălțile din fața muzeului când coborâți de pe bicicletă.",
+                "en": "Watch out for puddles in front of the museum when dismounting."
+              }
+            },
+            {
+              "name": "Verkatehdas",
+              "tip_5lang": {
+                "de": "Großzügiges Foyer zum Trocknen und Aufwärmen nach der Tour.",
+                "hu": "Tágas előcsarnok a száradáshoz és melegedéshez a túra után.",
+                "ro": "Foaier generos pentru uscare și încălzire după tură.",
+                "en": "Generous foyer for drying off and warming up after the tour."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind bei diesem Wetter in Hämeenlinna unverzichtbar.",
+              "Bremsen Sie auf nassem Laub in Aulanko besonders vorsichtig.",
+              "Vermeiden Sie Baumwollkleidung; synthetische Stoffe trocknen schneller.",
+              "Ein Sattelüberzug hält Ihren Sitz bei den Pausen trocken."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen ilyenkor Hämeenlinnában.",
+              "Aulanko vizes levelein különösen óvatosan fékezzen.",
+              "Kerülje a pamutruházatot; a szintetikus anyagok gyorsabban száradnak.",
+              "Egy nyereghuzat szárazon tartja az ülést a szünetekben."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt indispensabile pe acest timp în Hämeenlinna.",
+              "Frânați cu mare atenție pe frunzele ude din Aulanko.",
+              "Evitați hainele din bumbac; materialele sintetice se usucă mai repede.",
+              "O husă de șa vă menține scaunul uscat în timpul pauzelor."
+            ],
+            "en": [
+              "Mudguards are indispensable in this weather in Hämeenlinna.",
+              "Brake extra carefully on wet leaves in Aulanko.",
+              "Avoid cotton clothing; synthetic fabrics dry faster.",
+              "A saddle cover will keep your seat dry during breaks."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winter-Biking in Finnland erfordert Mut und Ausrüstung. Wir starten an der Burg Häme, deren schneebedeckte Mauern herrlich aussehen. Das Militaria-Museum bietet die nötige Aufwärmpause. Die Fahrt nach Aulanko ist anstrengend, aber die verschneite Allee belohnt jede Mühe. Nach einem warmen Mittagessen radeln wir zurück ins Zentrum zum Sibelius-Haus. Den Abend verbringen wir im Verkatehdas, wo die Kultur die Kälte vertreibt.",
+            "hu": "A téli biciklizés Finnországban bátorságot és felszerelést igényel. A Häme várnál kezdünk, amelynek hófödte falai gyönyörűek. A Militaria Múzeum biztosítja a szükséges melegedőt. Az út Aulankóba fárasztó, de a havas fasor minden küzdelmet megér. Egy meleg ebéd után visszatekerünk a központba, Sibelius szülőházához. Az estét a Verkatehdasban töltjük, ahol a kultúra elűzi a hideget.",
+            "ro": "Ciclismul de iarnă în Finlanda necesită curaj și echipament. Începem la Castelul Häme, ale cărui ziduri acoperite de zăpadă arată minunat. Muzeul Militaria oferă pauza necesară pentru încălzire. Drumul către Aulanko este solicitant, dar aleea înzăpezită răsplătește orice efort. După un prânz cald, pedalăm înapoi în centru la casa lui Sibelius. Seara o petrecem la Verkatehdas, unde cultura alungă frigul.",
+            "en": "Winter biking in Finland requires courage and gear. We start at Häme Castle, whose snow-covered walls look magnificent. Museum Militaria provides the necessary warm-up break. The ride to Aulanko is strenuous, but the snowy avenue rewards every effort. After a warm lunch, we cycle back to the center to Sibelius' Birthplace. We spend the evening at Verkatehdas, where culture drives away the cold."
+          },
+          "stops": [
+            {
+              "name": "Häme Castle",
+              "tip_5lang": {
+                "de": "Nur geräumte Wege befahren; tiefer Schnee ist mit dem Rad tückisch.",
+                "hu": "Csak a letakarított utakon közlekedjen; a mély hó csalóka lehet.",
+                "ro": "Circulați doar pe drumurile curățate; zăpada adâncă este înșelătoare.",
+                "en": "Only ride on cleared paths; deep snow is treacherous by bike."
+              }
+            },
+            {
+              "name": "Museum Militaria",
+              "tip_5lang": {
+                "de": "Die Fahrradständer können zugeschneit sein; suchen Sie einen festen Untergrund.",
+                "hu": "A kerékpártárolókat belepheti a hó; keressen szilárd talajt.",
+                "ro": "Suporturile de biciclete pot fi acoperite de zăpadă; căutați un sol solid.",
+                "en": "Bike racks might be snowed in; look for firm ground."
+              }
+            },
+            {
+              "name": "Aulanko Park",
+              "tip_5lang": {
+                "de": "Wunderschön, aber achten Sie auf vereiste Abschnitte im Schatten.",
+                "hu": "Gyönyörű, de ügyeljen a jeges szakaszokra az árnyékos részeken.",
+                "ro": "Minunat, dar atenție la secțiunile înghețate de la umbră.",
+                "en": "Beautiful, but watch out for icy sections in the shade."
+              }
+            },
+            {
+              "name": "Lunch in Aulanko",
+              "tip_5lang": {
+                "de": "Lassen Sie Ihren Akku (falls E-Bike) im Warmen, während Sie essen.",
+                "hu": "Az akkumulátort (ha elektromos) vigye be a melegre, amíg eszik.",
+                "ro": "Lăsați bateria (dacă e e-bike) la căldură în timp ce mâncați.",
+                "en": "Keep your battery (if e-bike) in the warm while you eat."
+              }
+            },
+            {
+              "name": "Sibelius' Birthplace",
+              "tip_5lang": {
+                "de": "Die schmale Straße davor kann durch Schneehaufen noch enger sein.",
+                "hu": "Az előtte lévő keskeny utca a hókupacok miatt még szűkebb lehet.",
+                "ro": "Strada îngustă din față poate fi și mai strâmtă din cauza mormanelor de zăpadă.",
+                "en": "The narrow street in front can be even tighter due to snow piles."
+              }
+            },
+            {
+              "name": "Verkatehdas",
+              "tip_5lang": {
+                "de": "Überprüfen Sie vor der Rückfahrt die Beleuchtung Ihres Rades.",
+                "hu": "Visszaindulás előtt ellenőrizze a kerékpár világítását.",
+                "ro": "Verificați iluminarea bicicletei înainte de plecare.",
+                "en": "Check your bike's lighting before heading back."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Spikereifen sind für das Winter-Biking in Finnland absolut notwendig.",
+              "Fetten Sie Ihre Kette gut ein, um sie vor Streusalz zu schützen.",
+              "Tragen Sie winddichte Handschuhe, um Erfrierungen an den Fingern zu vermeiden.",
+              "Planen Sie mehr Zeit ein; das Fahren im Schnee kostet doppelt so viel Kraft."
+            ],
+            "hu": [
+              "A szöges gumiabroncs elengedhetetlen a téli biciklizéshez Finnországban.",
+              "Zsírozza be jól a láncot, hogy megvédje az útszóró sótól.",
+              "Viseljen szélálló kesztyűt, hogy elkerülje az ujjak fagyási sérülését.",
+              "Tervezzen több időt; a hóban való tekerés kétszer annyi energiát igényel."
+            ],
+            "ro": [
+              "Anvelopele cu ținte sunt absolut necesare pentru ciclismul de iarnă în Finlanda.",
+              "Gresați bine lanțul pentru a-l proteja de sarea de pe drum.",
+              "Purtați mănuși rezistente la vânt pentru a evita degerăturile la degete.",
+              "Planificați mai mult timp; mersul prin zăpadă consumă de două ori mai multă energie."
+            ],
+            "en": [
+              "Studded tires are absolutely necessary for winter biking in Finland.",
+              "Grease your chain well to protect it from road salt.",
+              "Wear windproof gloves to avoid frostbite on your fingers.",
+              "Plan for more time; riding in snow takes twice as much effort."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1066,6 +1431,206 @@
           "Speed limits are strictly enforced, watch out for speed cameras.",
           "Road conditions can be challenging in winter, plan accordingly."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die Bequemlichkeit des Autos, während der Regen gegen die Scheiben trommelt. Wir starten im Aulanko-Park, wo man vom Aussichtsturm trotz Wolken eine dramatische Sicht hat. Weiter geht es zur Burg Häme und zum Militaria-Museum, beide mit guten Parkmöglichkeiten. Das Mittagessen im Zentrum ist entspannt, da Sie trocken von Tür zu Tür kommen. Der Tag endet sportlich am Ahvenisto-Schwimmbad, wo das Wasser von oben nicht stört.",
+            "hu": "Élvezze az autó kényelmét, miközben az eső dobol a szélvédőn. Az Aulanko parkban kezdünk, ahol a kilátótoronyból a felhők ellenére is drámai a kilátás. Folytatjuk a Häme várral és a Militaria Múzeummal, mindkettő jó parkolási lehetőséggel. A belvárosi ebéd nyugodt, mivel szárazon jut el ajtótól ajtóig. A napot sportosan zárjuk az Ahvenisto uszodánál, ahol a fenti víz nem zavar.",
+            "ro": "Bucurați-vă de confortul mașinii în timp ce ploaia bate în parbriz. Începem în Parcul Aulanko, unde turnul de observație oferă o vedere dramatică în ciuda norilor. Continuăm către Castelul Häme și Muzeul Militaria, ambele cu locuri bune de parcare. Prânzul în centru este relaxat, deoarece ajungeți uscat de la ușă la ușă. Ziua se încheie sportiv la piscina Ahvenisto, unde apa de sus nu deranjează.",
+            "en": "Enjoy the convenience of the car while rain drums against the windows. We start in Aulanko Park, where the observation tower offers a dramatic view despite the clouds. We continue to Häme Castle and Museum Militaria, both with good parking options. Lunch in the center is relaxed as you stay dry from door to door. The day ends sportily at the Ahvenisto swimming pool, where water from above won't bother you."
+          },
+          "stops": [
+            {
+              "name": "Aulanko Park",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Hotel Katajisto, um Laufwege im Regen zu verkürzen.",
+                "hu": "Parkoljon közel a Hotel Katajistóhoz, hogy lerövidítse az esőben való gyaloglást.",
+                "ro": "Parcați aproape de Hotel Katajisto pentru a scuti mersul prin ploaie.",
+                "en": "Park close to Hotel Katajisto to shorten walks in the rain."
+              }
+            },
+            {
+              "name": "Aulanko Observation Tower",
+              "tip_5lang": {
+                "de": "Vorsicht beim Aufstieg; die Stufen können nass und rutschig sein.",
+                "hu": "Vigyázat a felmenetnél; a lépcsők vizesek és csúszósak lehetnek.",
+                "ro": "Atenție la urcare; treptele pot fi ude și alunecoase.",
+                "en": "Be careful during the ascent; the steps can be wet and slippery."
+              }
+            },
+            {
+              "name": "Häme Castle",
+              "tip_5lang": {
+                "de": "Es gibt einen großen Parkplatz direkt vor dem Haupteingang.",
+                "hu": "Közvetlenül a főbejárat előtt nagy parkoló található.",
+                "ro": "Există o parcare mare chiar în fața intrării principale.",
+                "en": "There is a large parking lot directly in front of the main entrance."
+              }
+            },
+            {
+              "name": "Museum Militaria",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz an der Kaserne für den kürzesten Weg.",
+                "hu": "Használja a laktanya melletti parkolót a legrövidebb úthoz.",
+                "ro": "Folosiți parcarea de la cazarmă pentru cel mai scurt drum.",
+                "en": "Use the parking lot by the barracks for the shortest walk."
+              }
+            },
+            {
+              "name": "Lunch and City Centre",
+              "tip_5lang": {
+                "de": "Parkhäuser im Zentrum bieten Schutz vor dem Wetter beim Aussteigen.",
+                "hu": "A belvárosi parkolóházak védelmet nyújtanak az időjárás ellen kiszálláskor.",
+                "ro": "Parcările etajate din centru oferă protecție împotriva vremii la coborâre.",
+                "en": "Parking garages in the center offer protection from the weather when getting out."
+              }
+            },
+            {
+              "name": "Sibelius' Birthplace",
+              "tip_5lang": {
+                "de": "Kurzzeitparkplätze direkt in der Hallituskatu vorhanden.",
+                "hu": "Rövid távú parkolók közvetlenül a Hallituskatu utcában találhatók.",
+                "ro": "Locuri de parcare pe termen scurt disponibile chiar pe strada Hallituskatu.",
+                "en": "Short-term parking available directly on Hallituskatu."
+              }
+            },
+            {
+              "name": "Ahvenisto Outdoor Swimming Pool",
+              "tip_5lang": {
+                "de": "Die Sauna hier ist der beste Ort, um die Kühle des Regens zu vertreiben.",
+                "hu": "Az itteni szauna a legjobb hely az eső okozta hűvösség elűzésére.",
+                "ro": "Sauna de aici este cel mai bun loc pentru a alunga răceala ploii.",
+                "en": "The sauna here is the best place to drive away the chill of the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf den Straßen rund um den See Vanajavesi.",
+              "Halten Sie die Scheinwerfer sauber; die Gischt in Finnland kann schmutzig sein.",
+              "In Hämeenlinna sind die meisten Parkplätze im Zentrum gebührenpflichtig.",
+              "Nutzen Sie die Park-Apps (Easypark/Parkman) für eine bequeme Bezahlung."
+            ],
+            "hu": [
+              "Ügyeljen a vízenfutásra (aquaplaning) a Vanajavesi-tó körüli utakon.",
+              "Tartsa tisztán a fényszórókat; a finnországi felverődő víz sáros lehet.",
+              "Hämeenlinna központjában a legtöbb parkolóhely fizetős.",
+              "Használja a parkolóalkalmazásokat (Easypark/Parkman) a kényelmes fizetéshez."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumurile din jurul lacului Vanajavesi.",
+              "Păstrați farurile curate; stropii de apă din Finlanda pot fi murdari.",
+              "În centrul Hämeenlinna, majoritatea locurilor de parcare sunt cu plată.",
+              "Folosiți aplicațiile de parcare (Easypark/Parkman) pentru o plată confortabilă."
+            ],
+            "en": [
+              "Watch out for aquaplaning on the roads around Lake Vanajavesi.",
+              "Keep your headlights clean; road spray in Finland can be dirty.",
+              "Most parking spaces in central Hämeenlinna require payment.",
+              "Use parking apps (Easypark/Parkman) for convenient payment."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein winterlicher Roadtrip durch Hämeenlinna verspricht magische Aussichten bei maximaler Wärme. Im Aulanko-Park glitzert der Wald, und vom Aussichtsturm blicken Sie über ein weißes Meer. Die Burg Häme und das Militaria-Museum sind im Winter besonders fotogen. Nach einem gemütlichen Mittagessen im Stadtzentrum besuchen wir das Sibelius-Haus. Zum krönenden Abschluss genießen wir das Ahvenisto-Schwimmbad – Schwimmen im warmen Wasser, während der Schnee fällt.",
+            "hu": "A téli autós körút Hämeenlinnában varázslatos kilátást ígér maximális melegben. Az Aulanko parkban csillog az erdő, a kilátótoronyból pedig fehér tenger tárul elénk. A Häme vár és a Militaria Múzeum télen különösen fotogén. Egy hangulatos belvárosi ebéd után meglátogatjuk a Sibelius-házat. A nap koronájaként az Ahvenisto uszodában lazítunk – úszás a meleg vízben, miközben hull a hó.",
+            "ro": "O excursie de iarnă cu mașina prin Hämeenlinna promite vederi magice și căldură maximă. În Parcul Aulanko pădurea strălucește, iar din turnul de observație priviți peste o mare albă. Castelul Häme și Muzeul Militaria sunt deosebit de fotogenice iarna. După un prânz primitor în centru, vizităm casa lui Sibelius. Ca punct culminant, ne bucurăm de piscina Ahvenisto – înot în apă caldă în timp ce ninge.",
+            "en": "A winter road trip through Hämeenlinna promises magical views with maximum warmth. In Aulanko Park, the forest glitters, and from the observation tower, you look over a white sea. Häme Castle and Museum Militaria are particularly photogenic in winter. After a cozy lunch in the city center, we visit Sibelius' Birthplace. As a grand finale, we enjoy the Ahvenisto swimming pool – swimming in warm water while snow falls."
+          },
+          "stops": [
+            {
+              "name": "Aulanko Park",
+              "tip_5lang": {
+                "de": "Achten Sie auf Wildtiere (Rehe), die im Winter oft die Straßen kreuzen.",
+                "hu": "Ügyeljen a vadon élő állatokra (őzekre), amelyek télen gyakran átkelnek az úton.",
+                "ro": "Atenție la animalele sălbatice (căprioare) care traversează adesea drumul iarna.",
+                "en": "Watch out for wildlife (deer) that often cross the roads in winter."
+              }
+            },
+            {
+              "name": "Aulanko Observation Tower",
+              "tip_5lang": {
+                "de": "Der Parkplatz am Turm kann vereist sein; parken Sie vorsichtig.",
+                "hu": "A toronynál lévő parkoló jeges lehet; parkoljon óvatosan.",
+                "ro": "Parcarea de la turn poate fi înghețată; parcați cu atenție.",
+                "en": "The parking lot at the tower can be icy; park carefully."
+              }
+            },
+            {
+              "name": "Häme Castle",
+              "tip_5lang": {
+                "de": "Die Zufahrt ist gut geräumt, aber Vorsicht vor Schneehaufen.",
+                "hu": "A felhajtó jól le van takarítva, de vigyázzon a hókupacokra.",
+                "ro": "Accesul este bine curățat, dar atenție la mormanele de zăpadă.",
+                "en": "The access road is well cleared, but watch out for snow piles."
+              }
+            },
+            {
+              "name": "Museum Militaria",
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor nicht unnötig laufen (finnisches Gesetz).",
+                "hu": "Ne járassa feleslegesen a motort (finn törvény).",
+                "ro": "Nu lăsați motorul să meargă inutil (lege finlandeză).",
+                "en": "Do not let the engine idle unnecessarily (Finnish law)."
+              }
+            },
+            {
+              "name": "Lunch and City Centre",
+              "tip_5lang": {
+                "de": "Nutzen Sie Parkhäuser, um das Auto vor erneutem Schneefall zu schützen.",
+                "hu": "Használjon parkolóházakat, hogy megvédje az autót az újabb havazástól.",
+                "ro": "Folosiți parcări etajate pentru a proteja mașina de ninsori noi.",
+                "en": "Use parking garages to protect the car from fresh snowfall."
+              }
+            },
+            {
+              "name": "Sibelius' Birthplace",
+              "tip_5lang": {
+                "de": "Die Straßen im Zentrum können durch Schneeräumung sehr eng sein.",
+                "hu": "A központban az utak a hóeltakarítás miatt nagyon szűkek lehetnek.",
+                "ro": "Străzile din centru pot fi foarte înguste din cauza deszăpezirii.",
+                "en": "Streets in the center can be very narrow due to snow clearing."
+              }
+            },
+            {
+              "name": "Ahvenisto Outdoor Swimming Pool",
+              "tip_5lang": {
+                "de": "Ein Highlight im Winter – vergessen Sie Ihre Mütze für das Außenbecken nicht.",
+                "hu": "Téli fénypont – ne felejtse el a sapkáját a kültéri medencéhez.",
+                "ro": "Un punct culminant iarna – nu vă uitați căciula pentru bazinul exterior.",
+                "en": "A winter highlight – don't forget your hat for the outdoor pool."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in Finnland gesetzlich vorgeschrieben und notwendig.",
+              "Führen Sie immer einen Eiskratzer und eine Schneeschaufel im Kofferraum mit.",
+              "Die Batteriekapazität sinkt bei starkem Frost; prüfen Sie diese vorab.",
+              "Achten Sie auf 'Black Ice' – unsichtbare Eisschichten auf der Fahrbahn."
+            ],
+            "hu": [
+              "A téli gumi Finnországban törvényileg előírt és szükséges.",
+              "Mindig tartson jégkaparót és hólapátot a csomagtartóban.",
+              "Az akkumulátor kapacitása erős fagyban csökken; ellenőrizze előre.",
+              "Ügyeljen a 'fekete jégre' – a láthatatlan jégrétegekre az úton."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii prin lege în Finlanda și necesare.",
+              "Păstrați întotdeaul o racletă și o lopată de zăpadă în portbagaj.",
+              "Capacitatea bateriei scade la ger puternic; verificați-o în prealabil.",
+              "Atenție la 'gheața neagră' – straturi de gheață invizibile pe carosabil."
+            ],
+            "en": [
+              "Winter tires are legally required and necessary in Finland.",
+              "Always carry an ice scraper and a snow shovel in the trunk.",
+              "Battery capacity drops in severe frost; check it beforehand.",
+              "Watch out for 'black ice' – invisible layers of ice on the road."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1418,6 +1983,188 @@
           "Download the local public transport app for real-time schedules and routes.",
           "Buses may not stop automatically at every stop; press the stop button."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den zuverlässigen Busverkehr in Hämeenlinna, um trocken durch den Tag zu kommen. Wir starten im Zentrum an der Kirche und besuchen danach das Sibelius-Haus. Eine kurze Busfahrt bringt uns zur Burg Häme, wo die Geschichte im Trockenen lebendig wird. Nach einem Mittagessen in der Nähe geht es weiter zum Aulanko-Park – der Bus hält direkt am Hotel. Den Tag beenden wir im Verkatehdas, nur wenige Schritte von den Bushaltestellen entfernt.",
+            "hu": "Használja Hämeenlinna megbízható buszközlekedését, hogy szárazon vészelje át a napot. A központban, a templomnál kezdünk, majd meglátogatjuk a Sibelius-házat. Egy rövid buszút elvisz a Häme várhoz, ahol a történelem a száraz falak között kel életre. A közeli ebéd után az Aulanko parkba indulunk – a busz közvetlenül a hotelnél áll meg. A napot a Verkatehdasban zárjuk, pár lépésre a buszmegállóktól.",
+            "ro": "Folosiți transportul public de încredere din Hämeenlinna pentru a parcurge ziua la uscat. Începem în centru la biserică și vizităm apoi casa lui Sibelius. O scurtă călătorie cu autobuzul ne duce la Castelul Häme, unde istoria prinde viață la adăpost. După un prânz în apropiere, mergem în Parcul Aulanko – autobuzul oprește chiar la hotel. Încheiem ziua la Verkatehdas, la doar câțiva pași de stațiile de autobuz.",
+            "en": "Use Hämeenlinna's reliable bus service to get through the day dry. We start in the center at the church and then visit Sibelius' Birthplace. A short bus ride takes us to Häme Castle, where history comes alive in the dry. After lunch nearby, we head to Aulanko Park – the bus stops right by the hotel. We end the day at Verkatehdas, just a few steps from the bus stops."
+          },
+          "stops": [
+            {
+              "name": "Church and City Centre",
+              "tip_5lang": {
+                "de": "Die Bushaltestellen am Marktplatz haben überdachte Wartebereiche.",
+                "hu": "A piactéri buszmegállóknak fedett várakozóhelyük van.",
+                "ro": "Stațiile de autobuz din piață au zone de așteptare acoperite.",
+                "en": "The bus stops at the market square have covered waiting areas."
+              }
+            },
+            {
+              "name": "Sibelius' Birthplace",
+              "tip_5lang": {
+                "de": "Nur 5 Minuten Fußweg von den zentralen Haltestellen entfernt.",
+                "hu": "Csak 5 perc séta a központi megállóktól.",
+                "ro": "La doar 5 minute de mers pe jos de stațiile centrale.",
+                "en": "Only a 5-minute walk from the central bus stops."
+              }
+            },
+            {
+              "name": "Häme Castle",
+              "tip_5lang": {
+                "de": "Buslinie 2 oder 5 bringt Sie fast bis vor das Burgtor.",
+                "hu": "A 2-es vagy 5-ös busz szinte a várkapuig viszi.",
+                "ro": "Linia de autobuz 2 sau 5 vă duce aproape până la poarta castelului.",
+                "en": "Bus line 2 or 5 takes you almost to the castle gate."
+              }
+            },
+            {
+              "name": "Lunch near the Castle",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Lokal an der Kustaa III:n katu für kurze Wege.",
+                "hu": "Válasszon helyet a Kustaa III:n katu utcában a rövid távokért.",
+                "ro": "Alegeți un local pe strada Kustaa III:n katu pentru distanțe scurte.",
+                "en": "Choose a place on Kustaa III:n katu for short walking distances."
+              }
+            },
+            {
+              "name": "Aulanko Park",
+              "tip_5lang": {
+                "de": "Der Bus Nr. 2 fährt regelmäßig und hält direkt am Parkeingang.",
+                "hu": "A 2-es busz rendszeresen jár és közvetlenül a park bejáratánál áll meg.",
+                "ro": "Autobuzul nr. 2 circulă regulat și oprește chiar la intrarea în parc.",
+                "en": "Bus No. 2 runs regularly and stops right at the park entrance."
+              }
+            },
+            {
+              "name": "Verkatehdas",
+              "tip_5lang": {
+                "de": "Der Bahnhof und zentrale Busknotenpunkte sind in unmittelbarer Nähe.",
+                "hu": "A vasútállomás és a központi buszcsomópontok a közvetlen közelben vannak.",
+                "ro": "Gara și nodurile centrale de autobuz sunt în imediata apropiere.",
+                "en": "The train station and central bus hubs are in the immediate vicinity."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Laden Sie die 'Reittiopas' App für Echtzeit-Fahrpläne herunter.",
+              "Im Bus können Sie kontaktlos mit Karte oder Handy bezahlen.",
+              "An Regentagen sind die Busse oft voll; planen Sie Pufferzeit ein.",
+              "Die Busse sind klimatisiert, was das Trocknen der Kleidung erleichtert."
+            ],
+            "hu": [
+              "Töltse le a 'Reittiopas' alkalmazást a valós idejű menetrendekhez.",
+              "A buszon kártyával vagy telefonnal is fizethet érintésmentesen.",
+              "Esős napokon a buszok gyakran zsúfoltak; tervezzen be tartalékidőt.",
+              "A buszok klimatizáltak, ami segíti a ruhák száradását."
+            ],
+            "ro": [
+              "Descărcați aplicația 'Reittiopas' pentru orare în timp real.",
+              "În autobuz puteți plăti contactless cu cardul sau telefonul.",
+              "În zilele ploioase autobuzele sunt adesea pline; planificați timp suplimentar.",
+              "Autobuzele sunt climatizate, ceea ce facilitează uscarea hainelor."
+            ],
+            "en": [
+              "Download the 'Reittiopas' app for real-time schedules.",
+              "You can pay contactless with a card or phone on the bus.",
+              "Buses are often crowded on rainy days; allow for buffer time.",
+              "The buses are air-conditioned, which makes drying your clothes easier."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie Hämeenlinna im Winter stressfrei mit dem öffentlichen Nahverkehr. Der Tag beginnt im Zentrum an der gemütlichen Kirche. Von dort geht es zum Sibelius-Haus, bevor der Bus uns zur schneebedeckten Burg Häme bringt. Nach einem aufwärmenden Mittagessen führt die Fahrt in den magisch weißen Aulanko-Park. Den Tag lassen wir im Kulturzentrum Verkatehdas ausklingen, das sich in der Nähe des beleuchteten Bahnhofs befindet.",
+            "hu": "Fedezze fel Hämeenlinnát télen stresszmentesen tömegközlekedéssel. A nap a központban, a barátságos templomnál kezdődik. Innen a Sibelius-házhoz megyünk, mielőtt a busz a hófödte Häme várhoz vinne minket. Egy melegítő ebéd után az út a varázslatosan fehér Aulanko parkba vezet. A napot a Verkatehdas kulturális központban zárjuk, a kivilágított vasútállomás közelében.",
+            "ro": "Experimentați Hämeenlinna iarna fără stres cu transportul public local. Ziua începe în centru la biserica primitoare. De acolo mergem la casa lui Sibelius, înainte ca autobuzul să ne ducă la Castelul Häme acoperit de zăpadă. După un prânz cald, călătoria continuă în parcul Aulanko, de un alb magic. Încheiem ziua la centrul cultural Verkatehdas, situat lângă gara iluminată.",
+            "en": "Experience Hämeenlinna in winter stress-free with public transit. The day begins in the center at the cozy church. From there, head to Sibelius' Birthplace before the bus takes us to the snow-covered Häme Castle. After a warming lunch, the journey continues to the magically white Aulanko Park. We end the day at the Verkatehdas cultural center, located near the illuminated train station."
+          },
+          "stops": [
+            {
+              "name": "Church and City Centre",
+              "tip_5lang": {
+                "de": "Warten Sie in den beheizten Vorräumen von Geschäften, falls der Bus Verspätung hat.",
+                "hu": "Várjon az üzletek fűtött előterében, ha késik a busz.",
+                "ro": "Așteptați în spațiile încălzite ale magazinelor dacă autobuzul întârzie.",
+                "en": "Wait in heated store entryways if the bus is delayed."
+              }
+            },
+            {
+              "name": "Sibelius' Birthplace",
+              "tip_5lang": {
+                "de": "Die Gehwege können im Winter vereist sein; gehen Sie vorsichtig zur Haltestelle.",
+                "hu": "A járdák télen jegesek lehetnek; óvatosan menjen a megállóhoz.",
+                "ro": "Trotuarele pot fi înghețate iarna; mergeți cu atenție către stație.",
+                "en": "Sidewalks can be icy in winter; walk carefully to the bus stop."
+              }
+            },
+            {
+              "name": "Häme Castle",
+              "tip_5lang": {
+                "de": "Busse fahren im Winter oft pünktlicher als Autos, da sie Vorrang haben.",
+                "hu": "A buszok télen gyakran pontosabbak az autóknál, mivel előnyt élveznek.",
+                "ro": "Autobuzele sunt adesea mai punctuale decât mașinile iarna, având prioritate.",
+                "en": "Buses often run more punctually than cars in winter as they have priority."
+              }
+            },
+            {
+              "name": "Lunch near the Castle",
+              "tip_5lang": {
+                "de": "Ein heißer Tee vor der nächsten Busfahrt wirkt Wunder.",
+                "hu": "Egy forró tea a következő buszút előtt csodákra képes.",
+                "ro": "Un ceai fierbinte înainte de următoarea cursă cu autobuzul face minuni.",
+                "en": "A hot tea before the next bus ride works wonders."
+              }
+            },
+            {
+              "name": "Aulanko Park",
+              "tip_5lang": {
+                "de": "Achten Sie auf den Fahrplan für die Rückfahrt; im Dunkeln wartet es sich schlechter.",
+                "hu": "Ügyeljen a visszautat jelző menetrendre; sötétben kellemetlenebb várni.",
+                "ro": "Atenție la orarul pentru întoarcere; așteptarea e mai grea pe întuneric.",
+                "en": "Check the return schedule; waiting in the dark is less pleasant."
+              }
+            },
+            {
+              "name": "Verkatehdas",
+              "tip_5lang": {
+                "de": "Nur ein kurzer Fußweg zum Bahnhof für die Heimreise.",
+                "hu": "Csak egy rövid séta a vasútállomásig a hazautazáshoz.",
+                "ro": "Doar o scurtă plimbare până la gară pentru drumul spre casă.",
+                "en": "Only a short walk to the train station for your journey home."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Reflektoren an Ihrer Kleidung, damit der Busfahrer Sie im Dunkeln sieht.",
+              "Bei starkem Schneefall kann es zu geringfügigen Verzögerungen kommen.",
+              "Die Haltestellen in Hämeenlinna sind meist gut beleuchtet.",
+              "Schütteln Sie den Schnee von Ihren Schuhen, bevor Sie den Bus betreten."
+            ],
+            "hu": [
+              "Viseljen fényvisszaverőt, hogy a buszvezető lássa Önt a sötétben.",
+              "Erős havazás esetén előfordulhatnak kisebb késések.",
+              "Hämeenlinna buszmegállói általában jól kivilágítottak.",
+              "Rázza le a havat a cipőjéről, mielőtt felszáll a buszra."
+            ],
+            "ro": [
+              "Purtați reflectorizante pe haine pentru ca șoferul să vă vadă pe întuneric.",
+              "În caz de ninsori puternice pot apărea mici întârzieri.",
+              "Stațiile din Hämeenlinna sunt de obicei bine iluminate.",
+              "Scuturați zăpada de pe pantofi înainte de a urca în autobuz."
+            ],
+            "en": [
+              "Wear reflectors on your clothing so the bus driver can see you in the dark.",
+              "Minor delays may occur during heavy snowfall.",
+              "Bus stops in Hämeenlinna are generally well lit.",
+              "Shake the snow off your shoes before entering the bus."
+            ]
+          }
+        }
       }
     }
   }

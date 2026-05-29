@@ -382,6 +382,206 @@
           "Many shops close early on Sundays, so plan accordingly.",
           "Look out for the 'stolpersteine', memorial stones for victims of the Holocaust."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Tiel bei Regen bietet charmante Zufluchtsorte. Beginnen Sie in der trockenen St.-Martins-Kirche und verbringen Sie den Mittag im Flipje-Museum. Ein kurzer Spaziergang zum Wassertor führt Sie zur Waalkade, wo der Fluss im Regen eine mystische Atmosphäre ausstrahlt. Den Abschluss bildet der Kalverbos, dessen dichte Bäume natürlichen Schutz bieten.",
+            "hu": "Tiel esőben is tartogat élményeket, sok fedett megállóval. A Szent Márton-templom és a Flipje Múzeum tökéletes menedék a délelőtti záporok elől. Ebéd után a vízparti sétány a morajló Waal folyóval különleges látványt nyújt, a napot pedig a Kalverbos park óriási fái alatt zárhatjuk, melyek részben felfogják az égi áldást.",
+            "ro": "Tiel pe ploaie oferă refugii fermecătoare. Începeți la Biserica Sf. Martin, apoi petreceți amiaza la Muzeul Flipje. O scurtă plimbare spre Poarta Apei vă duce pe faleza Waalkade, unde râul are o atmosferă mistică sub stropii de ploaie. Încheiați ziua în Parcul Kalverbos, unde copacii deși oferă o protecție naturală.",
+            "en": "Tiel in the rain offers charming escapes. Start in the dry St. Martin's Church and spend midday in the Flipje Museum. A short walk to the Water Gate leads you to the Waalkade, where the river exudes a mystical atmosphere in the rain. End the day in Kalverbos, where the thick trees provide natural cover from the drizzle."
+          },
+          "stops": [
+            {
+              "name": "St. Martin's Church (Sint-Maartenskerk)",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Akustik, während draußen der Regen prasselt.",
+                "hu": "Csodálja meg az akusztikát, miközben kint kopog az eső.",
+                "ro": "Admirați acustica în timp ce afară răsună ploaia.",
+                "en": "Admire the acoustics while the rain patters outside."
+              }
+            },
+            {
+              "name": "Flipje & Regional Museum",
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um sich über eine Stunde lang aufzuwärmen.",
+                "hu": "Tökéletes hely több mint egyórás beltéri programhoz.",
+                "ro": "Locul perfect pentru a vă încălzi timp de peste o oră.",
+                "en": "The perfect place to warm up for over an hour indoors."
+              }
+            },
+            {
+              "name": "Flipje Statue",
+              "tip_5lang": {
+                "de": "Ein schnelles Foto; Flipje sieht auch nass glücklich aus.",
+                "hu": "Gyors fotó; Flipje vizesen is vidámnak tűnik.",
+                "ro": "O fotografie rapidă; Flipje arată vesel și ud.",
+                "en": "A quick photo; Flipje looks happy even when wet."
+              }
+            },
+            {
+              "name": "Lunch in the city center",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit, um Ihre Schirme zu trocknen.",
+                "hu": "Használja ki az időt az esernyők megszárítására.",
+                "ro": "Folosiți timpul pentru a vă usca umbrelele.",
+                "en": "Use the time to dry your umbrellas inside."
+              }
+            },
+            {
+              "name": "Water Gate (Waterpoort)",
+              "tip_5lang": {
+                "de": "Historischer Unterschlupf, aber Vorsicht vor glatten Stufen.",
+                "hu": "Történelmi menedék, de vigyázzon a csúszós lépcsőkkel.",
+                "ro": "Refugiu istoric, dar atenție la treptele alunecoase.",
+                "en": "Historical shelter, but watch out for slippery steps."
+              }
+            },
+            {
+              "name": "Waalkade Promenade",
+              "tip_5lang": {
+                "de": "Fester Griff am Schirm; der Wind vom Fluss ist stark.",
+                "hu": "Fogja erősen az ernyőt; a folyó felől erős a szél.",
+                "ro": "Țineți bine umbrela; vântul de pe râu este puternic.",
+                "en": "Keep a firm grip on your umbrella; river winds are strong."
+              }
+            },
+            {
+              "name": "Kalverbos Park",
+              "tip_5lang": {
+                "de": "Die befestigten Wege bleiben auch bei Nässe gut begehbar.",
+                "hu": "A burkolt utak vizesen is jól járhatóak maradnak.",
+                "ro": "Potecile pavate rămân accesibile chiar și pe ploaie.",
+                "en": "The paved paths remain easily walkable even when wet."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da das Kopfsteinpflaster rutschig sein kann.",
+              "Das Flipje-Museum ist der ideale Rückzugsort bei Starkregen.",
+              "An der Waalkade kann der Wind Regenschirme umknicken; Regenjacken sind besser.",
+              "Die Kirche bietet oft Konzerte an Regentagen für zusätzliche Wärme."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert a macskaköves utcák csúszósak lehetnek.",
+              "A Flipje Múzeum ideális menedék heves esőzés idején.",
+              "A Waalkade mentén a szél kifordíthatja az ernyőt, az esőkabát praktikusabb.",
+              "A templom gyakran ad otthont koncerteknek esős napokon."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, pavajul poate fi alunecos.",
+              "Muzeul Flipje este refugiul ideal în caz de ploaie torențială.",
+              "Pe faleză, vântul poate rupe umbrelele; pelerinele sunt mai sigure.",
+              "Biserica găzduiește adesea concerte în zilele ploioase."
+            ],
+            "en": [
+              "Wear waterproof shoes as the cobblestones can be slippery.",
+              "The Flipje Museum is the ideal retreat during heavy downpours.",
+              "Wind on the Waalkade can flip umbrellas; raincoats are more practical.",
+              "The church often hosts concerts on rainy days for extra comfort."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintertag in Tiel besticht durch klare Luft und gemütliche Ecken. Die St.-Martins-Kirche bietet morgendliche Stille, während das Museum Sie mittags aufwärmt. Erleben Sie das frühe goldene Licht an der Waalkade, bevor Sie den Tag bei einem dämmerigen Spaziergang durch den Kalverbos ausklingen lassen.",
+            "hu": "A téli Tiel friss levegővel és barátságos sarkokkal várja. A Szent Márton-templom csendje után a múzeumban melegedhetünk fel. Élvezze a korai aranyló fényeket a Waalkade sétányon, majd fejezze be a napot egy hangulatos sétatúrával a Kalverbos parkban a kora esti szürkületben.",
+            "ro": "O zi de iarnă în Tiel captivează prin aerul curat și colțurile primitoare. Biserica Sf. Martin oferă liniște dimineața, în timp ce muzeul vă încălzește la amiază. Experimentați lumina aurie timpurie pe faleza Waalkade, înainte de a încheia ziua cu o plimbare prin Kalverbos la apus.",
+            "en": "A winter day in Tiel captivates with crisp air and cozy corners. St. Martin's Church offers morning silence, while the museum warms you up at noon. Experience the early golden light on the Waalkade before ending the day with a twilight stroll through the Kalverbos park."
+          },
+          "stops": [
+            {
+              "name": "St. Martin's Church (Sint-Maartenskerk)",
+              "tip_5lang": {
+                "de": "Ziehen Sie sich warm an; Kirchenschiffe sind im Winter kühl.",
+                "hu": "Öltözzön rétegesen; a templomhajó télen hűvös lehet.",
+                "ro": "Îmbrăcați-vă gros; interiorul bisericii este rece iarna.",
+                "en": "Dress warmly; church interiors are chilly in winter."
+              }
+            },
+            {
+              "name": "Flipje & Regional Museum",
+              "tip_5lang": {
+                "de": "Heißer Tee im Museumscafé ist nach dem Spaziergang ein Muss.",
+                "hu": "A múzeumi kávézó forró teája kötelező a séta után.",
+                "ro": "Un ceai fierbinte la cafeneaua muzeului este esențial.",
+                "en": "Hot tea at the museum cafe is a must after your walk."
+              }
+            },
+            {
+              "name": "Flipje Statue",
+              "tip_5lang": {
+                "de": "Flipjes rote Farbe leuchtet im grauen Winterhimmel besonders.",
+                "hu": "Flipje piros színe élénken világít a szürke téli ég alatt.",
+                "ro": "Culoarea roșie a lui Flipje strălucește sub cerul de iarnă.",
+                "en": "Flipje's red color glows brightly under the grey winter sky."
+              }
+            },
+            {
+              "name": "Lunch in the city center",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit gemütlicher Kaminecke.",
+                "hu": "Válasszon egy hangulatos, kandallós éttermet ebédre.",
+                "ro": "Alegeți un restaurant cu un colț de șemineu primitor.",
+                "en": "Choose a restaurant with a cozy fireplace corner for lunch."
+              }
+            },
+            {
+              "name": "Water Gate (Waterpoort)",
+              "tip_5lang": {
+                "de": "Bei Frost können die Steine unter dem Tor vereist sein.",
+                "hu": "Fagy esetén a kapu alatti kövek jegesek lehetnek.",
+                "ro": "În caz de îngheț, pietrele de sub poartă pot fi alunecoase.",
+                "en": "In case of frost, the stones under the gate can be icy."
+              }
+            },
+            {
+              "name": "Waalkade Promenade",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das Treibeis auf der Waal.",
+                "hu": "Élvezze a látványt, ahogy a jégtáblák úsznak a Waal folyón.",
+                "ro": "Admirați vederea cu sloiurile de gheață de pe râul Waal.",
+                "en": "Enjoy the view of ice floes drifting on the Waal river."
+              }
+            },
+            {
+              "name": "Kalverbos Park",
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang gegen 16:30 Uhr ist hier wunderschön.",
+                "hu": "A délután fél 5 körüli naplemente itt gyönyörű látvány.",
+                "ro": "Apusul în jurul orei 16:30 este superb în acest loc.",
+                "en": "The sunset around 4:30 PM is beautiful here in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Winter bereits gegen 17:00 Uhr unter.",
+              "Kopfbedeckung und Handschuhe sind wegen des Winds an der Waal nötig.",
+              "Viele kleine Cafés bieten im Winter 'Erwtensoep' (Erbsensuppe) an.",
+              "Die Innenstadt ist im Dezember oft festlich beleuchtet."
+            ],
+            "hu": [
+              "Télen a nap már 17:00 körül lenyugszik, tervezzen eszerint.",
+              "Sapka és kesztyű szükséges a Waal-parti jeges szél miatt.",
+              "Sok kávézó kínál ilyenkor hagyományos borsólevest (Erwtensoep).",
+              "A belváros decemberben ünnepi díszkivilágítást kap."
+            ],
+            "ro": [
+              "Iarna, soarele apune deja în jurul orei 17:00.",
+              "Căciula și mănușile sunt necesare din cauza vântului de pe faleză.",
+              "Multe cafenele oferă supă de mazăre tradițională iarna.",
+              "Centrul orașului este adesea iluminat festiv în decembrie."
+            ],
+            "en": [
+              "The sun sets as early as 5:00 PM in winter, so plan ahead.",
+              "Hats and gloves are necessary due to the biting wind on the Waal.",
+              "Many small cafes offer traditional 'Erwtensoep' (pea soup) in winter.",
+              "The city center is often festively lit during December."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -722,6 +922,206 @@
           "Use the well-maintained cycle paths along the river.",
           "Be mindful of traffic in the city center."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour in Tiel bei Regen erfordert die richtige Ausrüstung. Entlang der Waalkade spüren Sie die Elemente, bevor Sie im Flipje-Museum Schutz finden. Die flachen Wege ermöglichen trotz Nässe ein sicheres Vorankommen, während die historische Kulisse der St.-Martins-Kirche einen grauen Tag erhellt.",
+            "hu": "Egy esős bringatúra Tielben megfelelő öltözetet igényel. A Waalkade mentén érezni a természet erejét, mielőtt a Flipje Múzeumban találnánk menedéket. A sík utak az esőben is jól tekerhetőek, a Szent Márton-templom történelmi sziluettje pedig még a szürke napokat is feldobja.",
+            "ro": "O tură cu bicicleta în Tiel pe ploaie necesită echipament adecvat. Pe faleză veți simți elementele naturii înainte de a vă adăposti la Muzeul Flipje. Drumurile plate permit deplasarea în siguranță, în timp ce silueta Bisericii Sf. Martin luminează o zi gri.",
+            "en": "A bike tour in Tiel in the rain requires the right gear. Along the Waalkade, you'll feel the elements before finding shelter at the Flipje Museum. The flat paths allow for safe cycling despite the wetness, while the historic backdrop of St. Martin's Church brightens a grey day."
+          },
+          "stops": [
+            {
+              "name": "Water Gate",
+              "tip_5lang": {
+                "de": "Vorsicht beim Absteigen auf den nassen Pflastersteinen.",
+                "hu": "Vigyázzon a leszálláskor a vizes macskaköveken.",
+                "ro": "Atenție la coborâre pe pietrele cubice umede.",
+                "en": "Be careful when dismounting on wet cobblestones."
+              }
+            },
+            {
+              "name": "Waalkade Promenade",
+              "tip_5lang": {
+                "de": "Radfahren gegen den Wind kann hier anstrengend sein.",
+                "hu": "A széllel szemben tekerés itt kimerítő lehet.",
+                "ro": "Pedalatul contra vântului poate fi obositor aici.",
+                "en": "Cycling against the wind can be strenuous here."
+              }
+            },
+            {
+              "name": "St. Martin's Church",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter den Vorsprüngen nahe dem Eingang ab.",
+                "hu": "Parkoljon a bejárat közeli előtetők alá.",
+                "ro": "Parcați bicicleta sub streșinile de lângă intrare.",
+                "en": "Park your bike under the overhangs near the entrance."
+              }
+            },
+            {
+              "name": "Flipje & Regional Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch als ausgiebige Trockenpause.",
+                "hu": "Használja a múzeumlátogatást egy alapos szárítkozásra.",
+                "ro": "Folosiți vizita la muzeu ca o pauză lungă de uscare.",
+                "en": "Use the museum visit as an extended drying-off break."
+              }
+            },
+            {
+              "name": "Lunch Break",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Café mit gut sichtbaren Fahrradständern.",
+                "hu": "Válasszon olyan helyet, ahol rálát a biciklitárolóra.",
+                "ro": "Alegeți o cafenea cu rastele vizibile pentru biciclete.",
+                "en": "Choose a cafe with clearly visible bike racks."
+              }
+            },
+            {
+              "name": "Kalverbos Park",
+              "tip_5lang": {
+                "de": "Meiden Sie unbefestigte Wege, um Matsch zu vermeiden.",
+                "hu": "Kerülje a burkolatlan utakat a sár elkerülése érdekében.",
+                "ro": "Evitați potecile neasfaltate pentru a nu vă murdări de noroi.",
+                "en": "Avoid unpaved paths to stay clear of mud."
+              }
+            },
+            {
+              "name": "Bellevue",
+              "tip_5lang": {
+                "de": "Ein schönes Ziel, um die Tour im Trockenen zu beenden.",
+                "hu": "Szép célpont, ahol fedett helyen zárhatja a túrát.",
+                "ro": "O destinație frumoasă pentru a termina turul la adăpost.",
+                "en": "A beautiful destination to end the tour in the dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Bremswege verlängern sich auf nassem Untergrund erheblich.",
+              "Tragen Sie eine vollflächige Regenjacke und wasserdichte Hosen.",
+              "Schutzbleche am Rad sind in der wasserreichen Waal-Region wichtig.",
+              "Vermeiden Sie bei Regen die Deichwege wegen starker Böen."
+            ],
+            "hu": [
+              "A féktávolság vizes úton jelentősen megnő.",
+              "Viseljen teljes esőruházatot: kabátot és vízhatlan nadrágot.",
+              "A sárvédő elengedhetetlen a Waal-menti vizes utakon.",
+              "Esőben kerülje a gátakon vezető utakat az erős lökések miatt."
+            ],
+            "ro": [
+              "Distanța de frânare crește semnificativ pe carosabil umed.",
+              "Purtați o pelerină completă și pantaloni impermeabili.",
+              "Aripile la bicicletă sunt esențiale în regiunea umedă a Waal-ului.",
+              "Evitați drumurile de pe dig pe ploaie din cauza rafalelor de vânt."
+            ],
+            "en": [
+              "Braking distances increase significantly on wet surfaces.",
+              "Wear full rain gear, including a jacket and waterproof trousers.",
+              "Mudguards are essential in the water-rich Waal region.",
+              "Avoid dike paths during rain due to strong wind gusts."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Tiel mit dem Rad im Winter ist erfrischend. Die Route führt Sie vom historischen Wassertor zur winterlichen Waalkade, wo der Wind scharf wehen kann. Nach einem wärmenden Stopp im Flipje-Museum bietet der Bellevue-Abschluss eine malerische Sicht auf die frostige Landschaft der Betuwe.",
+            "hu": "A téli biciklizés Tielben frissítő élmény. Az útvonal a történelmi vízikaputól a téli Waalkade sétányig vezet, ahol a szél metsző lehet. A Flipje Múzeumban való felmelegedés után a Bellevue zárás festői kilátást nyújt a Betuwe fagyos tájaira.",
+            "ro": "Tiel cu bicicleta iarna este o experiență revigorantă. Traseul vă duce de la Poarta Apei la faleza de iarnă, unde vântul poate fi tăios. După o pauză la Muzeul Flipje, finalul la Bellevue oferă o vedere pitorească asupra peisajului înghețat.",
+            "en": "Cycling Tiel in winter is refreshing. The route takes you from the historic Water Gate to the wintry Waalkade, where the wind can be sharp. After warming up at the Flipje Museum, the Bellevue finale offers a picturesque view of the frosty landscape."
+          },
+          "stops": [
+            {
+              "name": "Water Gate",
+              "tip_5lang": {
+                "de": "Gefrorenes Tauwasser in den Fugen kann rutschig sein.",
+                "hu": "A kövek közötti fagyott víz csúszós lehet.",
+                "ro": "Apa înghețată dintre rosturi poate fi alunecoasă.",
+                "en": "Frozen condensation in the joints can be slippery."
+              }
+            },
+            {
+              "name": "Waalkade Promenade",
+              "tip_5lang": {
+                "de": "Der Windchill-Effekt ist hier besonders stark spürbar.",
+                "hu": "A szél hűtő hatása itt különösen erősen érezhető.",
+                "ro": "Efectul de răcire al vântului este foarte puternic aici.",
+                "en": "The wind chill effect is particularly strong here."
+              }
+            },
+            {
+              "name": "St. Martin's Church",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp für ein Foto der winterlichen Fassade.",
+                "hu": "Rövid megálló a téli homlokzat lefotózásához.",
+                "ro": "O oprire scurtă pentru o poză cu fațada de iarnă.",
+                "en": "A short stop for a photo of the wintry facade."
+              }
+            },
+            {
+              "name": "Flipje & Regional Museum",
+              "tip_5lang": {
+                "de": "Tauen Sie Ihre Finger bei einer Tasse heißer Schokolade auf.",
+                "hu": "Melegítse fel ujjait egy bögre forró csokoládéval.",
+                "ro": "Dezghețați-vă degetele cu o cană de ciocolată caldă.",
+                "en": "Warm up your fingers with a cup of hot chocolate."
+              }
+            },
+            {
+              "name": "Lunch Break",
+              "tip_5lang": {
+                "de": "Suchen Sie einen Platz im Inneren, fernab von Zugluft.",
+                "hu": "Keressen benti helyet, távol a huzatos ajtóktól.",
+                "ro": "Căutați un loc în interior, departe de curent.",
+                "en": "Find a seat inside, away from any drafts."
+              }
+            },
+            {
+              "name": "Kalverbos Park",
+              "tip_5lang": {
+                "de": "Frost auf den Wiesen verwandelt den Park in ein Winterwunderland.",
+                "hu": "A dérlepte gyep téli varázsvilággá változtatja a parkot.",
+                "ro": "Bruma de pe iarbă transformă parcul într-un tărâm de basm.",
+                "en": "Frost on the meadows turns the park into a winter wonderland."
+              }
+            },
+            {
+              "name": "Bellevue",
+              "tip_5lang": {
+                "de": "Die klare Winterluft sorgt für weite Sicht über die Waal.",
+                "hu": "A tiszta téli levegő messzi kilátást enged a Waal felett.",
+                "ro": "Aerul curat de iarnă permite o vizibilitate mare peste râu.",
+                "en": "The clear winter air allows for far-reaching views over the Waal."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie morgens den Reifendruck; Kälte lässt ihn sinken.",
+              "Gefütterte Fahrradhandschuhe sind bei Minusgraden unverzichtbar.",
+              "Achten Sie auf vereiste Stellen auf den Brücken und am Hafen.",
+              "Batterien von E-Bikes entladen sich bei Kälte schneller."
+            ],
+            "hu": [
+              "Reggel ellenőrizze a keréknyomást, a hidegben csökkenhet.",
+              "A bélelt kerékpáros kesztyű elengedhetetlen fagypont alatt.",
+              "Ügyeljen a jeges foltokra a hidakon és a kikötőnél.",
+              "Az elektromos kerékpárok akkumulátora gyorsabban merül hidegben."
+            ],
+            "ro": [
+              "Verificați presiunea pneurilor dimineața; frigul o poate reduce.",
+              "Mănușile căptușite sunt indispensabile la temperaturi negative.",
+              "Fiți atenți la porțiunile înghețate de pe poduri și din port.",
+              "Bateriile bicicletelor electrice se descarcă mai repede la frig."
+            ],
+            "en": [
+              "Check tire pressure in the morning; cold weather can lower it.",
+              "Lined cycling gloves are indispensable in sub-zero temperatures.",
+              "Watch out for icy patches on bridges and near the harbor.",
+              "E-bike batteries discharge faster in cold weather."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1038,6 +1438,188 @@
           "Parking in the city center is paid.",
           "Plan for extra time for traffic, especially during peak hours."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Tiel mit dem Auto bei Regen ist komfortabel und effizient. Besuchen Sie die historischen Viertel und das Museum, ohne nass zu werden. Die Fahrt entlang der Waal bietet spektakuläre Ausblicke auf den grauen Fluss, während Sie in der ländlichen Umgebung die Obstplantagen der Betuwe im Regen erleben können.",
+            "hu": "Az autós túra Tielben esőben a legkényelmesebb választás. Látogassa meg a történelmi központot és a múzeumot anélkül, hogy bőrig ázna. A Waal-parti autózás látványos kilátást nyújt a szürke folyóra, a vidéki szakaszokon pedig az esőáztatta Betuwe gyümölcsöskertjeiben gyönyörködhet.",
+            "ro": "Turul cu mașina în Tiel pe ploaie este confortabil și eficient. Vizitați centrul istoric și muzeul fără a vă uda. Traseul de-a lungul râului oferă vederi spectaculoase, iar în zona rurală puteți admira livezile din Betuwe sub ploaie.",
+            "en": "A car tour in Tiel in the rain is comfortable and efficient. Visit the historic districts and the museum without getting soaked. The drive along the Waal offers spectacular views of the grey river, while the countryside section lets you see the rain-soaked orchards of the Betuwe."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Historic Center",
+              "tip_5lang": {
+                "de": "Parken Sie im Parkhaus Westluidense Poort für kurzen Weg.",
+                "hu": "Parkoljon a Westluidense Poort garázsban a rövid sétáért.",
+                "ro": "Parcați în garajul Westluidense Poort pentru acces rapid.",
+                "en": "Park in the Westluidense Poort garage for a short walk."
+              }
+            },
+            {
+              "name": "Flipje & Regional Museum",
+              "tip_5lang": {
+                "de": "Idealer Stopp, wenn der Regen am stärksten ist.",
+                "hu": "Ideális megálló a leghevesebb esőzés idejére.",
+                "ro": "Oprire ideală când ploaia este cea mai intensă.",
+                "en": "Ideal stop to time during the heaviest rain."
+              }
+            },
+            {
+              "name": "Lunch",
+              "tip_5lang": {
+                "de": "Viele Restaurants haben Parkplätze direkt vor der Tür.",
+                "hu": "Sok étterem előtt közvetlenül van parkolóhely.",
+                "ro": "Multe restaurante au locuri de parcare chiar în față.",
+                "en": "Many restaurants have parking spots right at the door."
+              }
+            },
+            {
+              "name": "Cluster 2: Waal Riverside",
+              "tip_5lang": {
+                "de": "Genießen Sie die Aussicht direkt aus dem warmen Auto.",
+                "hu": "Élvezze a kilátást közvetlenül a meleg autóból.",
+                "ro": "Admirați vederea direct din mașina caldă.",
+                "en": "Enjoy the river views directly from the warmth of your car."
+              }
+            },
+            {
+              "name": "Water Gate",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp; das Tor wirkt im Regen sehr dramatisch.",
+                "hu": "Gyors fotómegálló; a kapu esőben nagyon drámai látvány.",
+                "ro": "Scurtă oprire foto; poarta arată dramatic pe ploaie.",
+                "en": "Quick photo stop; the gate looks very dramatic in the rain."
+              }
+            },
+            {
+              "name": "Cluster 3: Countryside",
+              "tip_5lang": {
+                "de": "Die Nebenstraßen können bei Regen leicht verschlammt sein.",
+                "hu": "A mellékutak esőben kissé sárosak lehetnek.",
+                "ro": "Drumurile secundare pot fi ușor noroioase pe ploaie.",
+                "en": "Secondary roads can be slightly muddy during rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf den Deichstraßen.",
+              "Nutzen Sie überdachte Parkplätze in der Innenstadt.",
+              "Die Sicht auf die Waal kann bei starkem Regen eingeschränkt sein.",
+              "Vermeiden Sie das Parken auf unbefestigten Seitenstreifen."
+            ],
+            "hu": [
+              "Ügyeljen a vízenfutásra (aquaplaning) a gátakon vezető utakon.",
+              "Használja a belváros fedett parkolóházait.",
+              "Heves esőben a kilátás a folyóra korlátozott lehet.",
+              "Kerülje a parkolást a burkolatlan útpadkákon."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumurile de pe dig.",
+              "Folosiți parcările acoperite din centrul orașului.",
+              "Vizibilitatea asupra râului poate fi redusă pe ploaie densă.",
+              "Evitați parcarea pe acostamentele neamenajate."
+            ],
+            "en": [
+              "Watch out for aquaplaning on the dike roads.",
+              "Utilize covered parking garages in the city center.",
+              "Visibility of the Waal may be limited during heavy rain.",
+              "Avoid parking on unpaved road shoulders."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein winterlicher Roadtrip durch Tiel verbindet Kultur mit Natur. Starten Sie im historischen Zentrum und wärmen Sie sich im Museum auf. Die Fahrt entlang der Waal bietet Panoramablicke auf die frostige Flusslandschaft, während der Abstecher in die Betuwe-Heide die Stille des niederländischen Winters perfekt einfängt.",
+            "hu": "A téli autós túra Tielben ötvözi a kultúrát a természettel. Kezdjen a történelmi központban, majd melegedjen fel a múzeumban. A Waal-parti vezetés panorámás kilátást nyújt a fagyos folyóra, a Betuwe-vidéki kitérő pedig tökéletesen átadja a holland tél csendjét.",
+            "ro": "Un roadtrip de iarnă prin Tiel îmbină cultura cu natura. Începeți în centrul istoric și încălziți-vă la muzeu. Traseul pe lângă râul Waal oferă panorame asupra peisajului înghețat, iar incursiunea în zona Betuwe surprinde perfect liniștea iernii.",
+            "en": "A winter road trip through Tiel combines culture with nature. Start in the historic center and warm up at the museum. The drive along the Waal offers panoramic views of the frosty river landscape, while the detour into the Betuwe perfectly captures the silence of winter."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Historic Center",
+              "tip_5lang": {
+                "de": "Heizung an; die Altstadtgassen können zugig sein.",
+                "hu": "Fűtést fel; az óvárosi utcák huzatosak lehetnek.",
+                "ro": "Porniți căldura; străzile vechi pot fi foarte reci.",
+                "en": "Keep the heat on; the old town alleys can be drafty."
+              }
+            },
+            {
+              "name": "Flipje & Regional Museum",
+              "tip_5lang": {
+                "de": "Günstiges Parken in der Nähe ermöglicht schnellen Einlass.",
+                "hu": "A közeli olcsó parkolás gyors bejutást tesz lehetővé.",
+                "ro": "Parcarea ieftină din apropiere permite accesul rapid.",
+                "en": "Cheap parking nearby allows for a quick dash inside."
+              }
+            },
+            {
+              "name": "Lunch",
+              "tip_5lang": {
+                "de": "Genießen Sie herzhafte Wintergerichte wie 'Stamppot'.",
+                "hu": "Kóstolja meg a kiadós téli ételeket, például a 'Stamppot'-ot.",
+                "ro": "Savurați mâncăruri de iarnă consistente, cum ar fi 'Stamppot'.",
+                "en": "Enjoy hearty winter dishes like 'Stamppot' for lunch."
+              }
+            },
+            {
+              "name": "Cluster 2: Waal Riverside",
+              "tip_5lang": {
+                "de": "Der Parkplatz an der Waal bietet eine tolle Sicht bei Kälte.",
+                "hu": "A Waal-parti parkoló remek kilátást nyújt a hidegben is.",
+                "ro": "Parcarea de pe faleză oferă o vedere excelentă pe ger.",
+                "en": "The riverside parking offers a great view even in the cold."
+              }
+            },
+            {
+              "name": "Water Gate",
+              "tip_5lang": {
+                "de": "Das Kopfsteinpflaster hier kann bei Frost sehr glatt sein.",
+                "hu": "A macskakő itt fagyban nagyon csúszós lehet.",
+                "ro": "Pavajul de aici poate fi foarte alunecos pe timp de îngheț.",
+                "en": "The cobblestones here can be very slippery during frost."
+              }
+            },
+            {
+              "name": "Cluster 3: Countryside",
+              "tip_5lang": {
+                "de": "Erleben Sie die kahlen, aber ästhetischen Obstbäume im Reif.",
+                "hu": "Csodálja meg a zúzmarás, kopár, de látványos gyümölcsfákat.",
+                "ro": "Admirați pomii fructiferi golași, dar estetici sub brumă.",
+                "en": "See the bare but aesthetic fruit trees covered in rime."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Deichstraßen werden bei Schnee oft als Letztes geräumt.",
+              "Vermeiden Sie Nachtfahrten auf unbeleuchteten Landwegen.",
+              "Stellen Sie sicher, dass Ihr Wischwasser frostgeschützt ist.",
+              "Die Parkhäuser sind im Winter angenehmer als Außenparkplätze."
+            ],
+            "hu": [
+              "Hóesésben a gátakon vezető utakat takarítják utoljára.",
+              "Kerülje az éjszakai vezetést a kivilágítatlan vidéki utakon.",
+              "Ellenőrizze, hogy a szélvédőmosó fagyálló-e.",
+              "A parkolóházak télen kellemesebbek a kültéri parkolóknál."
+            ],
+            "ro": [
+              "Drumurile de pe dig sunt curățate ultimele în caz de zăpadă.",
+              "Evitați condusul pe timp de noapte pe drumurile rurale neiluminate.",
+              "Asigurați-vă că lichidul de parbriz este rezistent la îngheț.",
+              "Parcările subterane sunt mai plăcute iarna decât cele exterioare."
+            ],
+            "en": [
+              "Dike roads are often the last to be cleared of snow.",
+              "Avoid night driving on unlit country roads.",
+              "Ensure your windshield washer fluid is frost-resistant.",
+              "Parking garages are more comfortable than outdoor lots in winter."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1354,6 +1936,188 @@
           "Check the bus schedules in advance.",
           "Most distances in the center are also easily walkable."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Tiel mit dem Nahverkehr bei Regen bietet trockene Transfers. Vom Bahnhof aus erreichen Sie schnell das Stadtzentrum. Nutzen Sie die Busverbindungen zur Waalkade und verbringen Sie regnerische Stunden im Agnietenhof, einem kulturellen Highlight, das Sie vor dem Wetter schützt, während Sie die lokale Kunstszene genießen.",
+            "hu": "A tömegközlekedés Tielben esőben száraz átszállásokat biztosít. A vasútállomástól gyorsan elérheti a városközpontot. Használja a buszokat a Waalkade felé, a csapadékos órákat pedig töltse az Agnietenhof kulturális központban, amely megóvja az időjárástól.",
+            "ro": "Transportul public din Tiel pe ploaie oferă transferuri uscate. De la gară ajungeți rapid în centrul orașului. Folosiți autobuzul spre faleză și petreceți orele ploioase la Agnietenhof, un reper cultural care vă protejează de vreme.",
+            "en": "Public transit in Tiel during rain provides dry transfers. From the station, you can quickly reach the city center. Use bus connections to the Waalkade and spend rainy hours at Agnietenhof, a cultural highlight that keeps you sheltered while you enjoy the local arts scene."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Arrival at Station",
+              "tip_5lang": {
+                "de": "Warten Sie in der Bahnhofshalle, bis Ihr Bus bereitsteht.",
+                "hu": "Várjon az állomás csarnokában, amíg megérkezik a busza.",
+                "ro": "Așteptați în holul gării până când autobuzul este la peron.",
+                "en": "Wait in the station hall until your bus is ready."
+              }
+            },
+            {
+              "name": "Kalverbos Park",
+              "tip_5lang": {
+                "de": "Nur ein kurzer Sprung von der Bushaltestelle ins Grüne.",
+                "hu": "Csak egy rövid ugrás a buszmegállótól a zöldbe.",
+                "ro": "Doar o scurtă plimbare de la stația de autobuz spre parc.",
+                "en": "Just a short dash from the bus stop to the greenery."
+              }
+            },
+            {
+              "name": "St. Martin's Church",
+              "tip_5lang": {
+                "de": "Die Haltestelle 'Centrum' ist fast direkt vor der Kirche.",
+                "hu": "A 'Centrum' megálló szinte közvetlenül a templom előtt van.",
+                "ro": "Stația 'Centrum' este aproape direct în fața bisericii.",
+                "en": "The 'Centrum' stop is almost directly in front of the church."
+              }
+            },
+            {
+              "name": "Cluster 2: Bus to the Riverside",
+              "tip_5lang": {
+                "de": "Busse fahren regelmäßig und bieten Schutz vor Wind.",
+                "hu": "A buszok rendszeresen járnak és védenek a szél ellen.",
+                "ro": "Autobuzele circulă regulat și oferă protecție contra vântului.",
+                "en": "Buses run regularly and provide shelter from the wind."
+              }
+            },
+            {
+              "name": "Lunch with a View",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant nah an einer Bushaltestelle.",
+                "hu": "Válasszon éttermet egy buszmegálló közelében.",
+                "ro": "Alegeți un restaurant aproape de o stație de autobuz.",
+                "en": "Choose a restaurant close to a bus stop."
+              }
+            },
+            {
+              "name": "Agnietenhof",
+              "tip_5lang": {
+                "de": "Perfekter Ort für den Nachmittag; alles ist überdacht.",
+                "hu": "Tökéletes hely a délutánra; minden fedett.",
+                "ro": "Locul perfect pentru după-amiază; totul este acoperit.",
+                "en": "Perfect place for the afternoon; everything is undercover."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die App '9292' für Echtzeit-Infos bei Regenverzögerungen.",
+              "Die meisten Haltestellen im Zentrum sind überdacht.",
+              "Halten Sie Ihre OV-Chipkaart griffbereit, um langes Stehen im Regen zu vermeiden.",
+              "An Regentagen sind die Busse oft voller; planen Sie Zeit ein."
+            ],
+            "hu": [
+              "Használja a '9292' appot a valós idejű közlekedési infókért.",
+              "A belvárosi buszmegállók többsége fedett.",
+              "Tartsa kéznél az OV-Chipkaartot, hogy ne kelljen az esőben keresgélni.",
+              "Esős napokon a buszok zsúfoltabbak lehetnek; számoljon extra idővel."
+            ],
+            "ro": [
+              "Folosiți aplicația '9292' pentru informații în timp real.",
+              "Majoritatea stațiilor din centru sunt acoperite.",
+              "Aveți cardul de transport la îndemână pentru a evita așteptarea în ploaie.",
+              "În zilele ploioase, autobuzele sunt mai aglomerate; planificați din timp."
+            ],
+            "en": [
+              "Use the '9292' app for real-time info during rain delays.",
+              "Most bus stops in the center are covered.",
+              "Keep your transit card ready to avoid standing in the rain.",
+              "Buses are often more crowded on rainy days; allow extra time."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Tiel mit dem Nahverkehr im Winter ist gemütlich und warm. Genießen Sie die beheizten Busse und Züge, während Sie zwischen dem Bahnhof und den kulturellen Schätzen wie der St.-Martins-Kirche pendeln. Der Tag endet im Agnietenhof, wo winterliche Aufführungen und eine warme Atmosphäre auf Sie warten.",
+            "hu": "A tömegközlekedés Tielben télen kényelmes és meleg. Élvezze a fűtött buszokat és vonatokat, miközben az állomás és a kulturális kincsek, például a Szent Márton-templom között utazik. A nap az Agnietenhofban ér véget, ahol téli előadások és meleg fogadtatás várja.",
+            "ro": "Transportul public în Tiel iarna este confortabil și călduros. Bucurați-vă de autobuzele și trenurile încălzite în timp ce călătoriți între gară și obiectivele culturale. Ziua se încheie la Agnietenhof, unde vă așteaptă spectacole de iarnă și o atmosferă caldă.",
+            "en": "Public transit in Tiel in winter is cozy and warm. Enjoy the heated buses and trains as you commute between the station and cultural treasures like St. Martin's Church. The day ends at Agnietenhof, where winter performances and a warm atmosphere await."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Arrival at Station",
+              "tip_5lang": {
+                "de": "Holen Sie sich einen heißen Kaffee am Bahnhofskiosk.",
+                "hu": "Vegyél egy forró kávét az állomási büfében.",
+                "ro": "Luați o cafea fierbinte de la chioșcul gării.",
+                "en": "Grab a hot coffee at the station kiosk upon arrival."
+              }
+            },
+            {
+              "name": "Kalverbos Park",
+              "tip_5lang": {
+                "de": "Ein kurzer, frischer Winterspaziergang zwischen zwei Busfahrten.",
+                "hu": "Egy rövid, frissítő téli séta két buszozás között.",
+                "ro": "O scurtă plimbare revigorantă între două călătorii cu autobuzul.",
+                "en": "A short, crisp winter walk between two bus rides."
+              }
+            },
+            {
+              "name": "St. Martin's Church",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich im Inneren auf, bevor der nächste Bus kommt.",
+                "hu": "Melegedjen fel bent a következő busz érkezéséig.",
+                "ro": "Încălziți-vă în interior înainte de următorul autobuz.",
+                "en": "Warm up inside the church before the next bus arrives."
+              }
+            },
+            {
+              "name": "Cluster 2: Bus to the Riverside",
+              "tip_5lang": {
+                "de": "Genießen Sie die winterliche Aussicht aus dem Fenster.",
+                "hu": "Élvezze a téli kilátást az ablakból menet közben.",
+                "ro": "Admirați peisajul de iarnă de la fereastra autobuzului.",
+                "en": "Enjoy the wintry river views from the bus window."
+              }
+            },
+            {
+              "name": "Lunch with a View",
+              "tip_5lang": {
+                "de": "Der Bus hält oft in Sichtweite der besten Lokale.",
+                "hu": "A busz gyakran a legjobb helyek közelében áll meg.",
+                "ro": "Autobuzul oprește adesea aproape de cele mai bune restaurante.",
+                "en": "The bus often stops within sight of the best lunch spots."
+              }
+            },
+            {
+              "name": "Agnietenhof",
+              "tip_5lang": {
+                "de": "Die Garderobe ist ideal, um schwere Wintermäntel abzugeben.",
+                "hu": "A ruhatár ideális a nehéz téli kabátok leadására.",
+                "ro": "Garderoba este ideală pentru a lăsa hainele groase de iarnă.",
+                "en": "The cloakroom is ideal for dropping off heavy winter coats."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Züge und Busse sind im Winter gut beheizt.",
+              "Achten Sie auf geänderte Fahrpläne an Feiertagen im Dezember.",
+              "Die Station Tiel ist ein guter Ausgangspunkt für regionale Züge.",
+              "Abends sind die Busse seltener; prüfen Sie die letzte Abfahrt."
+            ],
+            "hu": [
+              "A vonatok és buszok télen jól fűtöttek.",
+              "Ügyeljen az ünnepi menetrendre decemberben.",
+              "Tiel állomás jó kiindulópont a regionális vonatokhoz.",
+              "Este a buszok ritkábban járnak; ellenőrizze az utolsó járatot."
+            ],
+            "ro": [
+              "Trenurile și autobuzele sunt bine încălzite iarna.",
+              "Atenție la orarul modificat în timpul sărbătorilor din decembrie.",
+              "Gara Tiel este un punct bun de plecare pentru trenuri regionale.",
+              "Seara autobuzele circulă mai rar; verificați ultima plecare."
+            ],
+            "en": [
+              "Trains and buses are well-heated during the winter months.",
+              "Watch for modified holiday schedules in December.",
+              "Tiel station is a great hub for regional train connections.",
+              "Buses run less frequently in the evening; check the last departure."
+            ]
+          }
+        }
       }
     }
   }

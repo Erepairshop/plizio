@@ -375,6 +375,214 @@
           "Villach's city center is compact and very pedestrian-friendly.",
           "Check the opening hours of the museums in advance, especially outside the main season."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag in Villach beginnt unter den Arkaden des Hauptplatzes. Die Stadtpfarrkirche bietet trockenen Unterschlupf, bevor wir im Stadtmuseum tief in die Geschichte eintauchen. Mittags spazieren wir kurz am Drauufer, nutzen aber schnell die überdachten Bereiche. Der Nachmittag gehört der beeindruckenden Fahrzeugsammlung, und den Abschluss bildet das Relief von Kärnten im Trockenen.",
+            "hu": "Az esős nap Villachban a főtér árkádjai alatt indul, védelmet keresve a zápor elől. A Szent Jakab-templom után a Városi Múzeum falai között kutatjuk a múltat. A Dráva-parti séta alatt jól jön az esernyő, de az autómúzeum hatalmas csarnoka ismét fedett menedéket nyújt. A napot a Karintia-relief makettjének megtekintésével zárjuk, távol a nedves utcáktól.",
+            "ro": "O zi ploioasă în Villach începe sub arcadele pieței principale. Biserica Sf. Iacob oferă un refugiu spiritual uscat, urmată de o vizită extinsă la Muzeul Orașului. La prânz, faleza Drau este traversată rapid spre muzeul de mașini, unde colecția impresionantă ne ține la adăpost. Încheiem ziua explorând Relieful Carintiei, un punct final protejat de intemperii.",
+            "en": "A rainy day in Villach starts under the sheltered arcades of the Main Square. St. James Church provides a dry haven before we dive into history at the City Museum. A quick walk along the Drava leads us to the vast, covered halls of the Vehicle Museum. We conclude the day at the Relief of Carinthia, staying dry while admiring the detailed landscape model of the region."
+          },
+          "stops": [
+            {
+              "name": "Main Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkadengänge der Häuser, um trocken zu bleiben.",
+                "hu": "Használja a házak árkádos aljait a gyalogláshoz.",
+                "ro": "Folosiți arcadele clădirilor pentru a rămâne uscat.",
+                "en": "Use the building arcades to move around without getting wet."
+              }
+            },
+            {
+              "name": "Parish Church of St. James",
+              "tip_5lang": {
+                "de": "Ein idealer Ort für eine ruhige Pause während eines Schauers.",
+                "hu": "Tökéletes hely egy csendes pihenőre zápor idején.",
+                "ro": "Un loc ideal pentru o pauză liniștită în timpul ploii.",
+                "en": "An ideal spot for a quiet break during a heavy shower."
+              }
+            },
+            {
+              "name": "Villach City Museum",
+              "tip_5lang": {
+                "de": "Planen Sie hier mehr Zeit ein, da es komplett überdacht ist.",
+                "hu": "Töltsön itt több időt, az épület teljesen fedett.",
+                "ro": "Planificați mai mult timp aici, fiind complet acoperit.",
+                "en": "Plan to stay longer here as the entire museum is indoors."
+              }
+            },
+            {
+              "name": "Drava Promenade",
+              "tip_5lang": {
+                "de": "Vorsicht, das Pflaster kann bei Nässe rutschig sein.",
+                "hu": "Vigyázat, a kövezet vizesen csúszós lehet.",
+                "ro": "Atenție, pavajul poate fi alunecos când este umed.",
+                "en": "Be careful, the pavement can be slippery when wet."
+              }
+            },
+            {
+              "name": "Museum of Vehicle History",
+              "tip_5lang": {
+                "de": "Große Innenräume, perfekt um den Regen zu vergessen.",
+                "hu": "Hatalmas belső terek, ahol elfelejtheti az esőt.",
+                "ro": "Spații interioare mari, perfecte pentru a uita de ploaie.",
+                "en": "Large indoor spaces, perfect for forgetting the rain outside."
+              }
+            },
+            {
+              "name": "Schiller Park",
+              "tip_5lang": {
+                "de": "Die dichten Bäume bieten einen gewissen Schutz vor Nieselregen.",
+                "hu": "A sűrű fák némi védelmet nyújtanak a szemerkélő esőben.",
+                "ro": "Copacii deși oferă o oarecare protecție împotriva burniței.",
+                "en": "Dense trees offer some protection from light drizzle."
+              }
+            },
+            {
+              "name": "Relief of Carinthia",
+              "tip_5lang": {
+                "de": "Das Relief befindet sich in einem Schutzgebäude.",
+                "hu": "A dombormű egy védőépületben található.",
+                "ro": "Relieful se află într-o clădire de protecție.",
+                "en": "The relief is housed in a protective indoor structure."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nehmen Sie einen stabilen Regenschirm mit, da es am Fluss windig sein kann.",
+              "Die Altstadt hat viele Cafés unter Arkaden für trockene Pausen.",
+              "Tragen Sie wasserfeste Schuhe für den Spaziergang am Drauufer.",
+              "Das Stadtmuseum ist der beste Ort für ausgiebige Regenpausen.",
+              "Prüfen Sie die Öffnungszeiten des Reliefs, es ist überdacht."
+            ],
+            "hu": [
+              "Vigyen erős esernyőt, mert a folyóparton szeles lehet az idő.",
+              "Az óváros árkádjai alatt sok kávézó kínál száraz pihenőhelyet.",
+              "Viseljen vízálló cipőt a Dráva-parti sétához.",
+              "A városi múzeum a legjobb hely a hosszabb esőszünetekhez.",
+              "A Karintia-relief fedett épületben van, esőben is látogatható."
+            ],
+            "ro": [
+              "Luați o umbrelă rezistentă, deoarece poate fi vânt pe malul râului.",
+              "Centrul vechi are multe cafenele sub arcade pentru pauze uscate.",
+              "Purtați încălțăminte impermeabilă pentru plimbarea pe malul Drau.",
+              "Muzeul orașului este cel mai bun loc pentru pauze lungi de ploaie.",
+              "Verificați programul Reliefului, acesta fiind într-o zonă acoperită."
+            ],
+            "en": [
+              "Take a sturdy umbrella, as it can be windy near the river.",
+              "The old town has many cafes under arcades for dry breaks.",
+              "Wear waterproof shoes for the walk along the Drava bank.",
+              "The City Museum is the best place for extended rain breaks.",
+              "Check the Relief's hours; it's indoors and great for rainy days."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Villach im Winter verzaubert mit festlicher Beleuchtung am Hauptplatz. Nach der Besichtigung der kühlen, aber prächtigen Stadtpfarrkirche wärmen wir uns im Stadtmuseum auf. Die Drau dampft im Morgenfrost, während wir zum Fahrzeugmuseum schlendern. Die kurzen Tage führen uns früh zum Schillerpark, wo die Blaue Stunde den Relief-Besuch in ein besonderes Licht taucht.",
+            "hu": "A téli Villach főtere ünnepi fényekkel várja a látogatót. A hűvös, de impozáns Szent Jakab-templom után a Városi Múzeumban melegedhetünk fel. A fagyos Dráva-part után az autómúzeum ritkaságai között töltjük a délutánt. A korai sötétedés miatt a Schiller-park és a Karintia-relief már esti kivilágításban pompázik, különleges hangulatot árasztva.",
+            "ro": "Villach iarna încântă cu iluminatul festiv din piața principală. După biserica răcoroasă, ne încălzim în Muzeul Orașului. Malul înghețat al râului Drau oferă peisaje superbe în drum spre muzeul auto. Zilele scurte ne trimit devreme spre Parcul Schiller, unde vizita la Relieful Carintiei are loc în atmosfera magică a serii timpurii.",
+            "en": "Winter in Villach enchants with festive lights at the Main Square. After visiting the cool but grand St. James Church, we warm up inside the City Museum. The frosty Drava banks offer a crisp walk toward the Vehicle Museum. With early sunsets, Schiller Park and the Relief of Carinthia are bathed in evening lights, creating a magical atmosphere for the tour's end."
+          },
+          "stops": [
+            {
+              "name": "Main Square",
+              "tip_5lang": {
+                "de": "Genießen Sie einen heißen Punsch am festlichen Markt.",
+                "hu": "Élvezze a forró puncsot az ünnepi piacon.",
+                "ro": "Savurați un punch fierbinte la piața festivă.",
+                "en": "Enjoy a hot punch at the festive Christmas market."
+              }
+            },
+            {
+              "name": "Parish Church of St. James",
+              "tip_5lang": {
+                "de": "Achten Sie auf die beeindruckende Winterkrippe im Inneren.",
+                "hu": "Nézze meg a lenyűgöző téli betlehemet odabent.",
+                "ro": "Admirați ieslea de iarnă impresionantă din interior.",
+                "en": "Look for the impressive winter nativity scene inside."
+              }
+            },
+            {
+              "name": "Villach City Museum",
+              "tip_5lang": {
+                "de": "Ein gut beheizter Rückzugsort an kalten Vormittagen.",
+                "hu": "Jól fűtött menedék a hideg délelőtti órákban.",
+                "ro": "Un refugiu bine încălzit în diminețile geroase.",
+                "en": "A well-heated retreat during cold winter mornings."
+              }
+            },
+            {
+              "name": "Drava Promenade",
+              "tip_5lang": {
+                "de": "Vorsicht vor Glatteis auf den Uferwegen.",
+                "hu": "Vigyázzon a jegesedésre a folyóparti utakon.",
+                "ro": "Atenție la polei pe potecile de pe malul râului.",
+                "en": "Watch out for black ice on the riverside paths."
+              }
+            },
+            {
+              "name": "Museum of Vehicle History",
+              "tip_5lang": {
+                "de": "Ideal, um die kälteste Zeit des Tages drinnen zu verbringen.",
+                "hu": "Ideális a nap leghidegebb óráit bent tölteni.",
+                "ro": "Ideal pentru a petrece cele mai reci ore în interior.",
+                "en": "Ideal for spending the coldest hours of the day indoors."
+              }
+            },
+            {
+              "name": "Schiller Park",
+              "tip_5lang": {
+                "de": "Der Park ist im Winter wunderschön beleuchtet.",
+                "hu": "A park télen gyönyörűen ki van világítva.",
+                "ro": "Parcul este frumos iluminat în timpul iernii.",
+                "en": "The park is beautifully illuminated during winter."
+              }
+            },
+            {
+              "name": "Relief of Carinthia",
+              "tip_5lang": {
+                "de": "Das Gebäude ist beheizt, perfekt zum Aufwärmen.",
+                "hu": "Az épület fűtött, tökéletes a bemelegedéshez.",
+                "ro": "Clădirea este încălzită, perfectă pentru încălzire.",
+                "en": "The building is heated, making it a great warm stop."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermokleidung, da die Kälte vom Fluss heraufzieht.",
+              "Der Sonnenuntergang ist bereits gegen 16:30 Uhr.",
+              "Die Wege am Fluss können geräumt, aber rutschig sein.",
+              "Nutzen Sie die Museen gezielt als Aufwärmstationen.",
+              "Besuchen Sie den Hauptplatz nach Einbruch der Dunkelheit für die Lichter."
+            ],
+            "hu": [
+              "Viseljen termaruházatot, mert a folyó felől hideg szél fújhat.",
+              "A napnyugta már délután fél 5 körül bekövetkezik.",
+              "A folyóparti utak takarítottak, de jegesek lehetnek.",
+              "Használja a múzeumokat melegedőállomásként.",
+              "Sötétedés után mindenképp nézze meg a főtér fényeit."
+            ],
+            "ro": [
+              "Purtați haine termice, deoarece frigul vine de la râu.",
+              "Apusul soarelui are loc deja în jurul orei 16:30.",
+              "Potecile de lângă râu pot fi curățate, dar rămân alunecoase.",
+              "Folosiți muzeele strategic ca puncte de încălzire.",
+              "Vizitați piața principală după lăsarea întunericului pentru lumini."
+            ],
+            "en": [
+              "Wear thermal layers as the cold rises from the river.",
+              "Sunset occurs early, around 4:30 PM.",
+              "Riverside paths may be cleared but can still be slippery.",
+              "Use museums strategically as warming stations.",
+              "Be sure to visit the Main Square after dark for the light displays."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -721,6 +929,196 @@
           "Always lock your bike securely, especially at tourist attractions.",
           "Bring enough water and sun protection."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen bietet Villach gute Radwege. Wir starten am Hauptplatz und nutzen die Stadtpfarrkirche für eine kurze Pause. Entlang der Drau ist Vorsicht geboten, doch das Ziel Warmbad lockt mit entspannender Wärme. Nach dem Bad führt uns die Tour zum Fahrzeugmuseum, bevor wir durch den Schillerpark zum Ausgangspunkt zurückkehren.",
+            "hu": "Az eső ellenére Villach kerékpárral is felfedezhető. A főtérről indulva a templomban tartunk pihenőt. A Dráva-parton óvatosan haladunk, de Warmbad meleg vize kárpótol a nedves útért. A fürdőzés után az autómúzeum fedett termeit célozzuk meg, majd a Schiller-parkon át kanyarodunk vissza a központba.",
+            "ro": "În ciuda ploii, Villach oferă piste bune de biciclete. Pornim din piața centrală și facem o pauză la biserică. Mergem cu grijă pe malul Drau, atrași de căldura relaxantă de la Warmbad. După baie, turul continuă spre muzeul auto, înainte de a reveni prin Parcul Schiller spre punctul de start.",
+            "en": "Despite the rain, Villach's bike paths remain accessible. Starting at the Main Square, we use the church for a brief dry break. Cycling along the Drava requires caution, but the thermal warmth of Warmbad is the perfect reward. After soaking, we head to the Vehicle Museum before returning through Schiller Park to the center."
+          },
+          "stops": [
+            {
+              "name": "Main Square & Start",
+              "tip_5lang": {
+                "de": "Suchen Sie einen Unterstand unter den Arkaden zum Aufsitzen.",
+                "hu": "Keressen fedett helyet az árkádok alatt az induláshoz.",
+                "ro": "Căutați un adăpost sub arcade pentru a vă pregăti.",
+                "en": "Find shelter under the arcades to get ready for the start."
+              }
+            },
+            {
+              "name": "Parish Church of St. James",
+              "tip_5lang": {
+                "de": "Es gibt Fahrradständer direkt vor dem Kircheneingang.",
+                "hu": "Közvetlenül a templom előtt találhatók kerékpártárolók.",
+                "ro": "Există rastele de biciclete chiar în fața bisericii.",
+                "en": "There are bike racks available right in front of the church."
+              }
+            },
+            {
+              "name": "Drava Promenade",
+              "tip_5lang": {
+                "de": "Reduzieren Sie die Geschwindigkeit auf nassem Asphalt.",
+                "hu": "Vizes aszfalton csökkentse a sebességet.",
+                "ro": "Reduceți viteza pe asfaltul umed.",
+                "en": "Reduce your speed on the wet asphalt paths."
+              }
+            },
+            {
+              "name": "Warmbad Villach",
+              "tip_5lang": {
+                "de": "Sicherer Abstellplatz vorhanden, während Sie baden.",
+                "hu": "Biztonságos tárolóhely áll rendelkezésre fürdés alatt.",
+                "ro": "Parcare sigură disponibilă în timp ce sunteți la baie.",
+                "en": "Secure parking is available while you enjoy the thermal baths."
+              }
+            },
+            {
+              "name": "Museum of Vehicle History",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich zum Abstellen.",
+                "hu": "Használja a fedett bejárati részt a tároláshoz.",
+                "ro": "Folosiți zona de intrare acoperită pentru parcare.",
+                "en": "Use the sheltered entrance area to park your bike."
+              }
+            },
+            {
+              "name": "Schiller Park",
+              "tip_5lang": {
+                "de": "Die Wege können Pfützen bilden, bleiben Sie auf der Mitte.",
+                "hu": "Az utakon tócsák lehetnek, maradjon az út közepén.",
+                "ro": "Pot apărea bălți pe poteci, rămâneți pe mijloc.",
+                "en": "Puddles may form on the paths; stay in the center."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine komplette Regenmontur inklusive Überschuhen.",
+              "Bremsen Sie auf nassem Untergrund frühzeitig und sanft.",
+              "Die Drauradwege sind gut asphaltiert, aber bei Regen oft leerer.",
+              "Warmbad ist der ideale Ort, um nasses Equipment zu trocknen.",
+              "Ein Sattelschutz ist bei diesem Wetter unverzichtbar."
+            ],
+            "hu": [
+              "Viseljen teljes esőruházatot, beleértve a kamáslit is.",
+              "Vizes úton fékezzen korábban és óvatosabban.",
+              "A Dráva-menti utak aszfaltozottak, esőben kevesebben vannak.",
+              "Warmbad ideális hely a nedves felszerelés megszárításához.",
+              "A nyeregvédő huzat elengedhetetlen ilyen időben."
+            ],
+            "ro": [
+              "Purtați echipament complet de ploaie, inclusiv protecții pantofi.",
+              "Frânați din timp și ușor pe suprafețele umede.",
+              "Pistele de pe malul Drau sunt asfaltate și mai libere pe ploaie.",
+              "Warmbad este locul ideal pentru a vă usca echipamentul.",
+              "O protecție pentru șa este indispensabilă pe această vreme."
+            ],
+            "en": [
+              "Wear full rain gear, including waterproof shoe covers.",
+              "Brake early and gently on wet surfaces.",
+              "Drava bike paths are well-paved and often quieter in the rain.",
+              "Warmbad is the perfect place to dry off and warm up.",
+              "A saddle cover is essential in this weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im winterlichen Villach erfordert warme Handschuhe. Wir starten am festlich geschmückten Hauptplatz. Nach der spirituellen Wärme in der Kirche radeln wir an der klaren Winterluft entlang der Drau. Das Thermalwasser in Warmbad ist im Winter ein absolutes Highlight. Auf dem Rückweg genießen wir die beleuchtete Stadt und das Fahrzeugmuseum.",
+            "hu": "A téli kerékpározáshoz Villachban meleg kesztyű kell. Az ünnepi főtérről indulunk, majd a templomi látogatás után a friss téli levegőn tekerünk a Dráva mentén. Warmbad termálvize télen igazi megváltás. Visszafelé a kivilágított várost és az autómúzeum gyűjteményét csodálhatjuk meg a hideg alkonyatban.",
+            "ro": "Ciclismul în Villach iarna necesită mănuși groase. Pornim din piața decorată festiv. După căldura din biserică, pedalăm în aerul curat de iarnă de-a lungul Drau. Apa termală de la Warmbad este un punct culminant iarna. La întoarcere, admirăm orașul iluminat și muzeul auto în amurgul rece.",
+            "en": "Cycling in wintry Villach requires warm gloves and layers. We start at the festively decorated Main Square. After some spiritual warmth in the church, we ride through the crisp air along the Drava. The thermal waters of Warmbad are a true highlight in winter. On the way back, we enjoy the lit-up city and the Vehicle Museum in the cold twilight."
+          },
+          "stops": [
+            {
+              "name": "Main Square & Start",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenem Tau auf dem Pflaster.",
+                "hu": "Vigyázzon a fagyott párára a kövezeten.",
+                "ro": "Atenție la roua înghețată pe pavaj.",
+                "en": "Watch out for frozen dew or frost on the pavement."
+              }
+            },
+            {
+              "name": "Parish Church of St. James",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad dort ab, wo es den Räumdienst nicht behindert.",
+                "hu": "Oda állítsa a biciklit, ahol nem zavarja a hókotrást.",
+                "ro": "Parcați bicicleta unde nu încurcă deszăpezirea.",
+                "en": "Park your bike where it won't obstruct snow removal."
+              }
+            },
+            {
+              "name": "Drava Promenade",
+              "tip_5lang": {
+                "de": "Tragen Sie eine Brille gegen den kalten Fahrtwind.",
+                "hu": "Viseljen szemüveget a hideg menetszél ellen.",
+                "ro": "Purtați ochelari împotriva vântului rece de rulare.",
+                "en": "Wear eyewear to protect against the cold wind while riding."
+              }
+            },
+            {
+              "name": "Warmbad Villach",
+              "tip_5lang": {
+                "de": "Das Thermalbad wirkt nach der Fahrt besonders wohltuend.",
+                "hu": "A termálfürdő a tekerés után különösen jólesik.",
+                "ro": "Baia termală este deosebit de binefăcătoare după drum.",
+                "en": "The thermal bath feels extra rewarding after a cold ride."
+              }
+            },
+            {
+              "name": "Museum of Vehicle History",
+              "tip_5lang": {
+                "de": "Tauchen Sie in die Wärme des Museums ein.",
+                "hu": "Melegedjen fel a múzeum belső tereiben.",
+                "ro": "Bucurați-vă de căldura din interiorul muzeului.",
+                "en": "Enjoy the warmth inside the museum after your ride."
+              }
+            },
+            {
+              "name": "Schiller Park",
+              "tip_5lang": {
+                "de": "Die Wege können im Schatten vereist sein.",
+                "hu": "Az árnyékos részeken jegesek lehetnek az utak.",
+                "ro": "Potecile pot fi înghețate în zonele umbrite.",
+                "en": "Paths might be icy in shaded areas of the park."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie Reifen mit gutem Profil für winterliche Straßen.",
+              "Tragen Sie mehrere Schichten und winddichte Kleidung.",
+              "Die Sonne geht früh unter, prüfen Sie Ihre Beleuchtung.",
+              "Lassen Sie sich in Warmbad Zeit zum vollständigen Aufwärmen.",
+              "Achten Sie auf Streusalz, das die Kette angreifen kann."
+            ],
+            "hu": [
+              "Használjon jó profilú gumiabroncsokat a téli utakon.",
+              "Öltözzön rétegesen és viseljen szélálló ruhát.",
+              "A nap korán nyugszik, ellenőrizze a világítást.",
+              "Hagyjon időt magának Warmbadban a teljes átmelegedésre.",
+              "Ügyeljen a szórósóra, amely károsíthatja a láncot."
+            ],
+            "ro": [
+              "Folosiți anvelope cu profil bun pentru drumuri de iarnă.",
+              "Purtați mai multe straturi și haine rezistente la vânt.",
+              "Soarele apune devreme, verificați-vă luminile.",
+              "Alocați-vă timp la Warmbad pentru a vă încălzi complet.",
+              "Atenție la sarea de pe drum care poate afecta lanțul."
+            ],
+            "en": [
+              "Use tires with good tread for winter road conditions.",
+              "Wear multiple layers and windproof outer clothing.",
+              "The sun sets early; ensure your bike lights are working.",
+              "Take your time to fully warm up at Warmbad.",
+              "Watch out for road salt, which can damage your bike chain."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1073,6 +1471,196 @@
           "Parking garages in the center are often the most convenient, though not the cheapest, option.",
           "Allow enough time for driving in the mountains; the roads are winding."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regen ist kein Hindernis für diese Autotour durch Villach. Wir parken bequem im Zentrum und besuchen die Stadtpfarrkirche und das Museum. Die Villacher Alpenstraße bietet auch bei Regen mystische Ausblicke, bevor wir in Warmbad zu Mittag essen. Den Nachmittag verbringen wir trocken und staunend im Fahrzeugmuseum.",
+            "hu": "Az eső nem akadályozza ezt az autós túrát Villachban. Kényelmesen parkolunk a központban, meglátogatjuk a templomot és a múzeumot. A Villachi Alpesi Út esőben is misztikus látványt nyújt, mielőtt Warmbadban ebédelnénk. A délutánt szárazon, az autómúzeum ritkaságai között töltjük el.",
+            "ro": "Ploaia nu este un obstacol pentru acest tur auto în Villach. Parcăm confortabil în centru și vizităm biserica și muzeul. Șoseaua alpină Villach oferă priveliști mistice chiar și pe ploaie, înainte de prânzul la Warmbad. Petrecem după-amiaza la adăpost, admirând muzeul auto.",
+            "en": "Rain is no obstacle for this driving tour of Villach. We park conveniently in the center to visit the church and museum. The Villach Alpine Road offers mystical views even in the rain before we head to Warmbad for lunch. The afternoon is spent dry and amazed among the classics at the Vehicle Museum."
+          },
+          "stops": [
+            {
+              "name": "City Center Parking & Main Square",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Parkhaus für einen komplett trockenen Ausstieg.",
+                "hu": "Válasszon parkolóházat a teljesen száraz kiszálláshoz.",
+                "ro": "Alegeți o parcare etajată pentru a ieși fără a vă uda.",
+                "en": "Choose a parking garage for a completely dry exit from the car."
+              }
+            },
+            {
+              "name": "Parish Church of St. James",
+              "tip_5lang": {
+                "de": "Vom Parkplatz sind es nur wenige Schritte im Regen.",
+                "hu": "A parkolótól csak pár lépés az esőben.",
+                "ro": "Sunt doar câțiva pași în ploaie de la parcare.",
+                "en": "It's only a few steps in the rain from the parking lot."
+              }
+            },
+            {
+              "name": "Villach City Museum",
+              "tip_5lang": {
+                "de": "Das Museum bietet Garderoben für nasse Mäntel.",
+                "hu": "A múzeumban van ruhatár a nedves kabátoknak.",
+                "ro": "Muzeul oferă garderobă pentru haine umede.",
+                "en": "The museum provides cloakrooms for wet coats."
+              }
+            },
+            {
+              "name": "Villach Alpine Road Viewpoint",
+              "tip_5lang": {
+                "de": "Bei starkem Regen kann die Sicht durch Wolken eingeschränkt sein.",
+                "hu": "Heves esőben a felhők korlátozhatják a kilátást.",
+                "ro": "În caz de ploaie torențială, vizibilitatea poate fi limitată.",
+                "en": "In heavy rain, clouds may limit the panoramic views."
+              }
+            },
+            {
+              "name": "Lunch in Warmbad Villach",
+              "tip_5lang": {
+                "de": "Parkplätze direkt vor den Restaurants verfügbar.",
+                "hu": "Parkolóhelyek közvetlenül az éttermek előtt.",
+                "ro": "Locuri de parcare disponibile chiar în fața restaurantelor.",
+                "en": "Parking spaces are available right in front of the restaurants."
+              }
+            },
+            {
+              "name": "Museum of Vehicle History",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um einen Regenguss auszusitzen.",
+                "hu": "Tökéletes hely egy nagyobb zápor átvészelésére.",
+                "ro": "Locul perfect pentru a aștepta trecerea unei ploi.",
+                "en": "The perfect place to wait out a heavy downpour."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Parkhäuser im Zentrum für trockene Wege.",
+              "Prüfen Sie den Status der Alpenstraße bei extremem Wetter.",
+              "Haben Sie Schirme für die kurzen Wege zwischen Auto und Sehenswürdigkeit.",
+              "In Warmbad gibt es viele überdachte Parkmöglichkeiten.",
+              "Passen Sie die Fahrweise auf der Alpenstraße an die Nässe an."
+            ],
+            "hu": [
+              "Használja a belvárosi parkolóházakat a száraz közlekedéshez.",
+              "Szélsőséges időben ellenőrizze az alpesi út állapotát.",
+              "Legyen esernyő az autóban a rövid gyalogutakhoz.",
+              "Warmbadban sok fedett parkolási lehetőség van.",
+              "Az alpesi úton igazítsa a vezetési stílust a nedves úthoz."
+            ],
+            "ro": [
+              "Folosiți parcările etajate din centru pentru acces uscat.",
+              "Verificați starea șoselei alpine în caz de vreme extremă.",
+              "Aveți umbrele pentru distanțele scurte de la mașină la obiective.",
+              "În Warmbad există multe opțiuni de parcare acoperită.",
+              "Adaptați stilul de condus pe șoseaua alpină la carosabilul umed."
+            ],
+            "en": [
+              "Use parking garages in the center for dry access to stops.",
+              "Check the status of the Alpine Road during extreme weather.",
+              "Keep umbrellas handy for short walks between the car and sites.",
+              "Warmbad offers plenty of sheltered parking options.",
+              "Adjust your driving style on the Alpine Road for wet conditions."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintertour führt uns sicher durch das verschneite Villach. Nach dem Stadtzentrum fahren wir die Villacher Alpenstraße hinauf, die im Winter eine Märchenlandschaft bietet. Ein warmes Mittagessen in Warmbad stärkt uns, bevor wir den Nachmittag im beheizten Fahrzeugmuseum genießen. Die Rückfahrt erfolgt in der stimmungsvollen Dunkelheit.",
+            "hu": "A téli túra biztonságban vezet át a havas Villachon. A belváros után felautózunk a Villachi Alpesi Útra, amely télen mesebeli tájat kínál. Egy meleg ebéd Warmbadban erőt ad a folytatáshoz, majd a délutánt a fűtött autómúzeumban töltjük. A visszaút már a hangulatos esti sötétségben zajlik.",
+            "ro": "Turul de iarnă ne poartă în siguranță prin Villach-ul înzăpezit. După centrul orașului, urcăm pe șoseaua alpină Villach, un peisaj de basm iarna. Un prânz cald la Warmbad ne dă putere, înainte de a ne bucura de după-amiaza în muzeul auto încălzit. Întoarcerea are loc în întunericul atmosferic.",
+            "en": "The winter tour takes us safely through snowy Villach. After the city center, we drive up the Villach Alpine Road, a winter wonderland. A warm lunch in Warmbad revitalizes us before we enjoy the afternoon in the heated Vehicle Museum. The drive back takes place in the atmospheric evening darkness."
+          },
+          "stops": [
+            {
+              "name": "City Center Parking & Main Square",
+              "tip_5lang": {
+                "de": "Parkhäuser sind im Winter oft wärmer als Außenparkplätze.",
+                "hu": "A parkolóházak télen gyakran melegebbek a kinti helyeknél.",
+                "ro": "Parcările etajate sunt adesea mai calde decât cele exterioare.",
+                "en": "Parking garages are often warmer than outdoor lots in winter."
+              }
+            },
+            {
+              "name": "Parish Church of St. James",
+              "tip_5lang": {
+                "de": "Die Kirche ist im Winter dezent beheizt.",
+                "hu": "A templom télen mérsékelten fűtött.",
+                "ro": "Biserica este încălzită discret în timpul iernii.",
+                "en": "The church is subtly heated during the winter months."
+              }
+            },
+            {
+              "name": "Villach City Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit hier, wenn es draußen am kältesten ist.",
+                "hu": "Itt töltse az időt, amikor kint a leghidegebb van.",
+                "ro": "Petreceți timpul aici când este cel mai frig afară.",
+                "en": "Spend time here when it's coldest outside during the day."
+              }
+            },
+            {
+              "name": "Villach Alpine Road Viewpoint",
+              "tip_5lang": {
+                "de": "Winterreifen und ggf. Schneeketten sind hier Pflicht.",
+                "hu": "Téli gumi és szükség esetén hólánc kötelező.",
+                "ro": "Anvelopele de iarnă și eventual lanțurile sunt obligatorii.",
+                "en": "Winter tires and potentially snow chains are mandatory here."
+              }
+            },
+            {
+              "name": "Lunch in Warmbad Villach",
+              "tip_5lang": {
+                "de": "Ideale Pause zum Aufwärmen nach der Alpenstraße.",
+                "hu": "Ideális szünet a bemelegedéshez az alpesi út után.",
+                "ro": "Pauză ideală pentru încălzire după șoseaua alpină.",
+                "en": "The perfect break to warm up after the Alpine Road drive."
+              }
+            },
+            {
+              "name": "Museum of Vehicle History",
+              "tip_5lang": {
+                "de": "Gut temperierte Ausstellungshalle.",
+                "hu": "Kellemes hőmérsékletű kiállítócsarnok.",
+                "ro": "Hală de expoziție cu temperatură plăcută.",
+                "en": "Well-tempered exhibition hall for a comfortable visit."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Ihr Auto winterfest ist.",
+              "Die Alpenstraße kann bei extremem Schneefall gesperrt sein.",
+              "Planen Sie die Rückfahrt vor 17:00 Uhr ein (Tageslicht).",
+              "Die Parkhäuser im Zentrum ersparen Ihnen das Eiskratzen.",
+              "Führen Sie immer eine Decke und warme Getränke im Auto mit."
+            ],
+            "hu": [
+              "Győződjön meg róla, hogy autója fel van készítve a télre.",
+              "Erős havazás esetén az alpesi utat lezárhatják.",
+              "Tervezze a visszautat délután 5 előtt (nappali fény).",
+              "A belvárosi parkolóházakkal megspórolhatja a jégkaparást.",
+              "Mindig legyen az autóban takaró és forró ital."
+            ],
+            "ro": [
+              "Asigurați-vă că mașina este pregătită pentru iarnă.",
+              "Șoseaua alpină poate fi închisă în caz de ninsori abundente.",
+              "Planificați drumul de întoarcere înainte de ora 17:00.",
+              "Parcările etajate vă scutesc de curățarea gheții de pe geamuri.",
+              "Aveți întotdeauna în mașină o pătură și băuturi calde."
+            ],
+            "en": [
+              "Ensure your car is fully winterized before starting.",
+              "The Alpine Road may close during extreme snowfall.",
+              "Plan your return trip before 5:00 PM to avoid dark mountain roads.",
+              "Central parking garages save you from scraping ice off windows.",
+              "Always carry a blanket and warm drinks in the car."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1425,6 +2013,196 @@
           "Download the timetable app to track bus times in real time.",
           "Pay attention to the last bus connection back to the center, especially in the evening."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Villachs öffentlicher Nahverkehr ist perfekt für Regentage. Vom Hauptbahnhof erreichen wir schnell das Zentrum und die Kirche. Der Bus bringt uns bequem nach Warmbad, wo wir die Zeit im Thermalwasser genießen. Den Nachmittag verbringen wir im Fahrzeugmuseum, bevor uns der Bus trocken zurück zum Bahnhof bringt.",
+            "hu": "Villach tömegközlekedése tökéletes az esős napokra. A főpályaudvartól gyorsan elérjük a központot és a templomot. A busz kényelmesen visz ki Warmbadba, ahol kiélvezhetjük a termálvizet. A délutánt az autómúzeumban töltjük, majd a busz szárazon visz vissza minket a vasútállomásra.",
+            "ro": "Transportul public din Villach este perfect pentru zilele ploioase. De la gara centrală ajungem rapid în centru și la biserică. Autobuzul ne duce confortabil la Warmbad pentru relaxare în apa termală. Petrecem după-amiaza la muzeul auto, apoi autobuzul ne readuce uscați la gară.",
+            "en": "Villach's public transit is perfect for rainy days. From the main station, we quickly reach the center and the church. The bus takes us comfortably to Warmbad, where we enjoy the thermal waters. The afternoon is spent at the Vehicle Museum before the bus brings us back dry to the station."
+          },
+          "stops": [
+            {
+              "name": "Villach Main Station & Main Square",
+              "tip_5lang": {
+                "de": "Der Bahnhof ist überdacht, ideal zum Warten.",
+                "hu": "Az állomás fedett, ideális a várakozáshoz.",
+                "ro": "Gara este acoperită, ideală pentru așteptare.",
+                "en": "The station is covered, making it an ideal place to wait."
+              }
+            },
+            {
+              "name": "Parish Church of St. James",
+              "tip_5lang": {
+                "de": "Die Bushaltestellen im Zentrum haben meist Wartehäuschen.",
+                "hu": "A belvárosi buszmegállók többsége fedett.",
+                "ro": "Stațiile de autobuz din centru sunt majoritatea acoperite.",
+                "en": "Most bus stops in the center have sheltered waiting areas."
+              }
+            },
+            {
+              "name": "Drava Promenade",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen den Haltestellen und dem Flussufer.",
+                "hu": "Rövid séta a megállók és a folyópart között.",
+                "ro": "Distanțe scurte între stații și malul râului.",
+                "en": "Short walking distances between bus stops and the riverbank."
+              }
+            },
+            {
+              "name": "Warmbad Villach",
+              "tip_5lang": {
+                "de": "Die Haltestelle befindet sich fast direkt vor dem Thermalbad.",
+                "hu": "A megálló szinte közvetlenül a termálfürdő előtt van.",
+                "ro": "Stația se află aproape direct în fața băii termale.",
+                "en": "The bus stop is located almost directly in front of the thermal spa."
+              }
+            },
+            {
+              "name": "Museum of Vehicle History",
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint von der Haltestelle und Sie sind im Trockenen.",
+                "hu": "Egy rövid futás a megállótól, és már fedett helyen van.",
+                "ro": "Un sprint scurt de la stație și sunteți la adăpost.",
+                "en": "A short dash from the stop and you'll be safely indoors."
+              }
+            },
+            {
+              "name": "Back to the Main Square/Station",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Echtzeit-App, um Regenwartezeiten zu minimieren.",
+                "hu": "Használja a valós idejű appot a várakozási idő csökkentésére.",
+                "ro": "Folosiți aplicația în timp real pentru a minimiza așteptarea.",
+                "en": "Use the real-time app to minimize waiting in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Haben Sie Ihr Ticket bereits digital auf dem Handy.",
+              "Warten Sie in Bahnhofsgebäuden oder Cafés auf den nächsten Bus.",
+              "Die Busse sind gut klimatisiert und halten Sie trocken.",
+              "Informieren Sie sich über die Taktzeiten nach Warmbad.",
+              "Ein kleiner Schirm ist für die Wege zur Haltestelle ratsam."
+            ],
+            "hu": [
+              "Legyen meg a jegye digitálisan a telefonján.",
+              "Várjon az állomásépületben vagy kávézókban a buszra.",
+              "A buszok jól fűtöttek/légkondicionáltak és szárazon tartják.",
+              "Tájékozódjon a Warmbadba tartó járatok sűrűségéről.",
+              "Egy kisméretű esernyő ajánlott a megállóig tartó útra."
+            ],
+            "ro": [
+              "Aveți biletul deja pregătit digital pe telefon.",
+              "Așteptați în clădirea gării sau în cafenele următorul autobuz.",
+              "Autobuzele sunt bine climatizate și vă mențin uscat.",
+              "Informați-vă despre frecvența curselor spre Warmbad.",
+              "O umbrelă mică este recomandată pentru drumul spre stație."
+            ],
+            "en": [
+              "Have your ticket ready digitally on your phone.",
+              "Wait inside station buildings or cafes for the next bus.",
+              "Buses are well-climatized and keep you perfectly dry.",
+              "Check the schedule for frequent services to Warmbad.",
+              "A small umbrella is advisable for the short walks to the stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter ist der Transit die gemütlichste Art, Villach zu erkunden. Wir starten am beleuchteten Hauptbahnhof. Warme Busse bringen uns durch die verschneite Stadt zur Kirche und später nach Warmbad. Das Thermalbad ist im Winter besonders einladend. Den Abschluss bildet das Fahrzeugmuseum, bevor wir bequem zum Bahnhof zurückkehren.",
+            "hu": "Télen a tömegközlekedés a legkényelmesebb módja Villach felfedezésének. A kivilágított főpályaudvarról indulunk. Meleg buszok visznek át a havas városon a templomhoz, majd később Warmbadba. A termálfürdő télen különösen hívogató. A napot az autómúzeum zárja, majd kényelmesen térünk vissza az állomásra.",
+            "ro": "Iarna, transportul public este cel mai confortabil mod de a explora Villach. Pornim de la gara centrală iluminată. Autobuze calde ne poartă prin orașul înzăpezit spre biserică și apoi spre Warmbad. Baia termală este deosebit de primitoare iarna. Încheiem la muzeul auto, înainte de a reveni confortabil la gară.",
+            "en": "In winter, public transit is the coziest way to explore Villach. We start at the illuminated main station. Warm buses carry us through the snowy city to the church and later to Warmbad. The thermal spa is especially inviting in winter. We finish at the Vehicle Museum before returning comfortably to the station."
+          },
+          "stops": [
+            {
+              "name": "Villach Main Station & Main Square",
+              "tip_5lang": {
+                "de": "Die Wartehalle am Bahnhof ist beheizt.",
+                "hu": "A vasútállomás váróterme fűtött.",
+                "ro": "Sala de așteptare a gării este încălzită.",
+                "en": "The waiting hall at the main station is heated."
+              }
+            },
+            {
+              "name": "Parish Church of St. James",
+              "tip_5lang": {
+                "de": "Die Busse fahren im Winter zuverlässig nach Plan.",
+                "hu": "A buszok télen is megbízhatóan, menetrend szerint járnak.",
+                "ro": "Autobuzele circulă fiabil conform orarului și iarna.",
+                "en": "Buses run reliably according to the schedule even in winter."
+              }
+            },
+            {
+              "name": "Drava Promenade",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Drau aus dem warmen Bus.",
+                "hu": "Élvezze a Dráva látványát a meleg buszból.",
+                "ro": "Admirați vederea spre Drau din autobuzul cald.",
+                "en": "Enjoy the view of the Drava river from the warm bus."
+              }
+            },
+            {
+              "name": "Warmbad Villach",
+              "tip_5lang": {
+                "de": "Der Bus hält direkt am Eingang des Resorts.",
+                "hu": "A busz közvetlenül az üdülőközpont bejáratánál áll meg.",
+                "ro": "Autobuzul oprește chiar la intrarea în complex.",
+                "en": "The bus stops right at the entrance of the thermal resort."
+              }
+            },
+            {
+              "name": "Museum of Vehicle History",
+              "tip_5lang": {
+                "de": "Perfekt temperierter Zwischenstopp im Winter.",
+                "hu": "Tökéletes hőmérsékletű köztes megálló télen.",
+                "ro": "O oprire intermediară cu temperatură perfectă iarna.",
+                "en": "A perfectly tempered indoor stop during the winter."
+              }
+            },
+            {
+              "name": "Back to the Main Square/Station",
+              "tip_5lang": {
+                "de": "Am Abend sind die Busse oft weihnachtlich dekoriert.",
+                "hu": "Este a buszok gyakran karácsonyi díszítésben pompáznak.",
+                "ro": "Seara, autobuzele sunt adesea decorate festiv.",
+                "en": "In the evening, buses are often festively decorated."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die beheizten Wartebereiche am Bahnhof.",
+              "Die Fahrpläne können im Winter leicht abweichen, App prüfen.",
+              "Busfahren spart Ihnen das Begehen glatter Gehwege.",
+              "Genießen Sie die weihnachtliche Beleuchtung aus dem Fenster.",
+              "In Warmbad können Sie sich aufwärmen, bevor Sie den Bus nehmen."
+            ],
+            "hu": [
+              "Használja a vasútállomás fűtött várótermeit.",
+              "Télen a menetrend kicsit eltérhet, ellenőrizze az appot.",
+              "A buszozással megspórolhatja a gyaloglást a csúszós járdákon.",
+              "Élvezze az ünnepi kivilágítást az ablakból.",
+              "Warmbadban melegedjen át teljesen, mielőtt buszra száll."
+            ],
+            "ro": [
+              "Folosiți sălile de așteptare încălzite din gară.",
+              "Orarele pot varia ușor iarna, verificați aplicația.",
+              "Mersul cu autobuzul vă scutește de trotuarele alunecoase.",
+              "Admirați iluminatul festiv de pe geamul autobuzului.",
+              "La Warmbad vă puteți încălzi bine înainte de a lua autobuzul."
+            ],
+            "en": [
+              "Take advantage of the heated waiting areas at the station.",
+              "Schedules might vary slightly in winter; check the app.",
+              "Taking the bus saves you from walking on slippery sidewalks.",
+              "Enjoy the festive city lights from the bus window.",
+              "Fully warm up at Warmbad before heading back to the bus stop."
+            ]
+          }
+        }
       }
     }
   }

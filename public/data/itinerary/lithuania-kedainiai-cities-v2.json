@@ -379,6 +379,214 @@
           "Check the opening hours for the museums as they can vary.",
           "Take your time to appreciate the city's unique multicultural history."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Regen verleiht dem Großen Marktplatz einen glänzenden Schimmer, während Sie unter den Arkaden Schutz suchen. Der Vormittag gehört der Geschichte im Rathaus, wo dicke Mauern das Wetter vergessen lassen.\n\nMittags tauchen Sie in die moderne Kunst des Janina-Monkutė-Marks-Museums ein. Es ist der perfekte Ort, um trocken zu bleiben und die kreative Atmosphäre der Stadt zu genießen.\n\nNachmittags führen kurze Sprints zwischen den historischen Kirchen durch die nassen Gassen. Das ferne Minarett wirkt im Nebel fast mystisch, ein kurzer Blick genügt bei diesem Wetter.\n\nDen Abend verbringen Sie im Regionalmuseum. In den ehemaligen Klostergebäuden finden Sie Ruhe und Schutz vor dem Dauerregen, bevor Sie den Tag in der gemütlichen Altstadt beenden.",
+            "hu": "Az esőben megcsillanó Főtér macskakövei között kezdjük a napot, behúzódva a régi árkádok alá. A délelőtt a Városháza falai között telik, ahol a történelem elfeledteti a kinti szürkeséget.\n\nDélben a Janina Monkutė-Marks Múzeum modern tárlatai nyújtanak menedéket. Ideális helyszín a várakozásra, amíg a zápor elcsendesedik a város felett.\n\nDélután a templomok belső tereit járjuk be, csak rövid ideig kitéve magunkat az elemeknek. A távoli minaret a ködben különös látványt nyújt, de a látogatást rövidre fogjuk.\n\nAz estét a Regionális Múzeum ódon termeiben zárjuk. Az egykori kolostorépület vastag falai között biztonságban és szárazon ismerhetjük meg Kėdainiai gazdag múltját.",
+            "ro": "Ploaia conferă Pieței Mari o strălucire aparte, în timp ce căutați adăpost sub arcadele vechi. Dimineața este dedicată istoriei în Primărie, unde zidurile groase vă fac să uitați de vremea de afară.\n\nLa prânz, vă refugiați în universul artistic al Muzeului Janina Monkutė-Marks. Este locul perfect pentru a rămâne uscat și a vă bucura de atmosfera creativă a orașului.\n\nDupă-amiaza, scurte reprize de mers între bisericile istorice vă poartă prin străzile umede. Minaretul îndepărtat pare aproape mistic în ceață, fiind suficientă o vizită rapidă.\n\nSeara vă găsește la Muzeul Regional. În fostele clădiri ale mănăstirii găsiți liniște și protecție împotriva ploii, înainte de a încheia ziua în centrul vechi primitor.",
+            "en": "Rain adds a glossy sheen to the Great Market Square as you seek shelter under the old arcades. The morning is dedicated to history inside the Town Hall, where thick walls make you forget the gray skies.\n\nAt midday, immerse yourself in the modern art of the Janina Monkutė-Marks Museum. It is the perfect sanctuary to stay dry and enjoy the city's creative vibe while waiting for the shower to pass.\n\nIn the afternoon, quick dashes between historical churches lead you through wet alleys. The distant minaret looks almost mystical in the fog, though the visit is kept brief today.\n\nYou spend the evening at the Regional Museum. Inside the former monastery buildings, you find peace and protection from the rain before ending the day in the cozy old town."
+          },
+          "stops": [
+            {
+              "name": "Great Market Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkadengänge der alten Häuser als natürlichen Regenschutz.",
+                "hu": "Használja a régi polgárházak árkádjait természetes esővédőként.",
+                "ro": "Folosiți arcadele caselor vechi ca adăpost natural împotriva ploii.",
+                "en": "Use the arcades of the old merchant houses as natural rain shelter."
+              }
+            },
+            {
+              "name": "Kėdainiai Town Hall",
+              "tip_5lang": {
+                "de": "Das Innere bietet Schutz; besichtigen Sie die Kellergewölbe bei starkem Guss.",
+                "hu": "A belső tér védelmet nyújt; erős esőben nézze meg a pincerendszert.",
+                "ro": "Interiorul oferă protecție; vizitați pivnițele boltite în caz de ploaie torențială.",
+                "en": "The interior provides shelter; explore the vaulted cellars during heavy downpours."
+              }
+            },
+            {
+              "name": "Janina Monkutė-Marks Museum",
+              "tip_5lang": {
+                "de": "Idealer Ort für eine längere Pause, um den stärksten Regen abzuwarten.",
+                "hu": "Ideális helyszín egy hosszabb pihenőre, amíg eláll a heves eső.",
+                "ro": "Loc ideal pentru o pauză mai lungă, așteptând să treacă ploaia torențială.",
+                "en": "Ideal spot for a longer break to wait out the heaviest rain."
+              }
+            },
+            {
+              "name": "St. George's Church",
+              "tip_5lang": {
+                "de": "Der Aufstieg zum Hügel kann bei Nässe rutschig sein; vorsichtig gehen.",
+                "hu": "A dombra vezető út nedvesen csúszós lehet; óvatosan közlekedjen.",
+                "ro": "Urcarea dealului poate fi alunecoasă pe timp de ploaie; mergeți cu grijă.",
+                "en": "The climb to the hill can be slippery when wet; walk carefully."
+              }
+            },
+            {
+              "name": "Evangelical Reformed Church",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Krypta der Radziwiłł-Fürsten, dort ist es garantiert trocken.",
+                "hu": "Látogassa meg a Radziwiłł-kriptát, ott garantáltan száraz marad.",
+                "ro": "Vizitați cripta familiei Radziwiłł; acolo veți rămâne garantat uscat.",
+                "en": "Visit the Radziwiłł family crypt; it is guaranteed to be dry there."
+              }
+            },
+            {
+              "name": "Kėdainiai Minaret",
+              "tip_5lang": {
+                "de": "Der Weg durch den Park ist oft schlammig; festes Schuhwerk ist nötig.",
+                "hu": "A parkon átvezető út gyakran sáros; vízálló cipő ajánlott.",
+                "ro": "Poteca prin parc este adesea noroioasă; aveți nevoie de încălțăminte rezistentă.",
+                "en": "The path through the park is often muddy; sturdy footwear is necessary."
+              }
+            },
+            {
+              "name": "Kėdainiai Regional Museum",
+              "tip_5lang": {
+                "de": "Die umfangreiche Ausstellung lässt Sie den Regen draußen völlig vergessen.",
+                "hu": "A gazdag kiállítás feledteti az esős időt; szánjon rá időt.",
+                "ro": "Expoziția vastă vă va face să uitați complet de ploaia de afară.",
+                "en": "The extensive exhibition will make you completely forget the rain outside."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Regenschirm ist in den offenen Gassen der Altstadt unerlässlich.",
+              "Die vielen Museen und Kirchen bieten hervorragende Ausweichmöglichkeiten bei Güssen.",
+              "Achten Sie auf das Kopfsteinpflaster, das bei Nässe sehr rutschig werden kann.",
+              "Wasserdichte Schuhe sind für den Weg zum Minarett durch den Park ratsam.",
+              "Nutzen Sie die Cafés am Großen Markt für trockene Beobachtungspausen."
+            ],
+            "hu": [
+              "Egy stabil esernyő elengedhetetlen az óváros nyitott utcáin.",
+              "A számos múzeum és templom kiváló menedéket nyújt a záporok elől.",
+              "Ügyeljen a macskakőre, amely nedvesen rendkívül csúszóssá válhat.",
+              "Vízálló cipő javasolt a parkon átvezető minareti sétához.",
+              "Használja a Főtér kávézóit a városnézés közötti száraz pihenőkre."
+            ],
+            "ro": [
+              "O umbrelă rezistentă este esențială pe străzile deschise ale centrului vechi.",
+              "Numeroasele muzee și biserici oferă adăpost excelent în timpul averselor.",
+              "Atenție la pavajul din piatră cubică, acesta devine foarte alunecos când este ud.",
+              "Se recomandă încălțăminte impermeabilă pentru plimbarea prin parc spre minaret.",
+              "Folosiți cafenelele din Piața Mare pentru pauze de observație la adăpost."
+            ],
+            "en": [
+              "A sturdy umbrella is essential in the open streets of the old town.",
+              "The many museums and churches offer excellent shelter during downpours.",
+              "Watch out for the cobblestones, which can become very slippery when wet.",
+              "Waterproof shoes are advised for the walk through the park to the minaret.",
+              "Use the cafes at the Great Market Square for dry observation breaks."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Frost knistert auf dem Großen Marktplatz, während die historische Kulisse im fahlen Winterlicht erstrahlt. Der Besuch im Rathaus bietet eine willkommene Aufwärmpause in geschichtsträchtigem Ambiente.\n\nMittags suchen Sie die Wärme im Janina-Monkutė-Marks-Museum. Die hellen Galerien bilden einen wunderbaren Kontrast zum grauen Wintertag vor den Fenstern.\n\nNachmittags führt der Weg durch die verschneite Altstadt zu den Kirchen. Der Besuch des Minaretts im Park sollte vor 16:00 Uhr erfolgen, da die Dämmerung in Litauen früh und schnell einsetzt.\n\nDer Abend im Regionalmuseum ist besonders atmosphärisch. In den geheizten Ausstellungsräumen lässt sich die Kälte draußen gut ignorieren, bevor die beleuchtete Altstadt zum kurzen Abendspaziergang einlädt.",
+            "hu": "A fagy ropog a talpunk alatt a Főtéren, miközben a történelmi díszletek téli fényben tündökölnek. A Városháza meleg falai között kezdjük a napot, felkészülve a hidegre.\n\nDélben a Janina Monkutė-Marks Múzeum modern galériái nyújtanak menedéket. A világos belső terek kontrasztot alkotnak a szürke téli tájjal.\n\nDélután a hófödte óvároson át vezet az út a templomokhoz. A minaretet érdemes délután 4 előtt felkeresni, mert Litvániában korán és hirtelen sötétedik.\n\nAz este a Regionális Múzeumban a leghangulatosabb. A fűtött termekben elmerülhetünk a múltban, mielőtt a kivilágított óváros fényei között tennénk egy utolsó sétát.",
+            "ro": "Gerul trosnește în Piața Mare, în timp ce decorul istoric strălucește în lumina palidă a iernii. Vizita la Primărie oferă o pauză de încălzire binevenită într-o ambianță plină de istorie.\n\nLa prânz, căutați căldura în Muzeul Janina Monkutė-Marks. Galeriile luminoase oferă un contrast minunat cu ziua cenușie de iarnă de afară.\n\nDupă-amiaza, drumul prin centrul vechi înzăpezit duce spre biserici. Vizita la minaretul din parc trebuie făcută înainte de ora 16:00, deoarece amurgul vine devreme în Lituania.\n\nSeara la Muzeul Regional este deosebit de atmosferică. În sălile de expoziție încălzite, frigul de afară poate fi ignorat cu ușurință, înainte ca orașul iluminat să vă invite la o scurtă plimbare.",
+            "en": "Frost crunches underfoot at the Great Market Square as the historic backdrop shines in the pale winter light. A visit to the Town Hall provides a welcome warming break in a storied setting.\n\nAt midday, seek warmth inside the Janina Monkutė-Marks Museum. The bright galleries offer a wonderful contrast to the gray winter day outside the windows.\n\nIn the afternoon, the route leads through the snowy old town to the churches. Plan to visit the minaret in the park before 4:00 PM, as dusk sets in early and fast in Lithuania.\n\nThe evening at the Regional Museum is particularly atmospheric. In the heated exhibition rooms, it is easy to ignore the cold outside before the illuminated old town invites you for a short stroll."
+          },
+          "stops": [
+            {
+              "name": "Great Market Square",
+              "tip_5lang": {
+                "de": "Vorsicht vor vereisten Stellen auf dem weiten Kopfsteinpflasterplatz.",
+                "hu": "Vigyázzon a jeges foltokra a tágas macskaköves téren.",
+                "ro": "Atenție la porțiunile înghețate de pe pavajul mare al pieței.",
+                "en": "Watch out for icy patches on the vast cobblestone square."
+              }
+            },
+            {
+              "name": "Kėdainiai Town Hall",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Besuch, um Hände und Füße in den Innenräumen aufzuwärmen.",
+                "hu": "Használja ki a látogatást a kezek és lábak átmelegítésére a belső térben.",
+                "ro": "Folosiți vizita pentru a vă încălzi mâinile și picioarele în interior.",
+                "en": "Use the visit to warm up your hands and feet in the indoor areas."
+              }
+            },
+            {
+              "name": "Janina Monkutė-Marks Museum",
+              "tip_5lang": {
+                "de": "Eine Garderobe für schwere Wintermäntel ist vorhanden; genießen Sie die Wärme.",
+                "hu": "Van ruhatár a nehéz téli kabátoknak; élvezze a belső meleget.",
+                "ro": "Există o garderobă pentru hainele grele de iarnă; bucurați-vă de căldură.",
+                "en": "A cloakroom for heavy winter coats is available; enjoy the indoor warmth."
+              }
+            },
+            {
+              "name": "St. George's Church",
+              "tip_5lang": {
+                "de": "Ziehen Sie sich warm an; die alten Kirchenschiffe können sehr kühl sein.",
+                "hu": "Öltözzön rétegesen; a régi templomhajók télen igen hűvösek lehetnek.",
+                "ro": "Îmbrăcați-vă bine; naosurile vechilor biserici pot fi foarte răcoroase.",
+                "en": "Dress warmly; the naves of old churches can be quite chilly in winter."
+              }
+            },
+            {
+              "name": "Evangelical Reformed Church",
+              "tip_5lang": {
+                "de": "Die Krypta bietet konstante Temperaturen, oft milder als die Außenluft.",
+                "hu": "A kripta hőmérséklete állandó, gyakran enyhébb, mint a kinti levegő.",
+                "ro": "Cripta oferă temperaturi constante, adesea mai blânde decât aerul de afară.",
+                "en": "The crypt offers constant temperatures, often milder than the outdoor air."
+              }
+            },
+            {
+              "name": "Kėdainiai Minaret",
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Außenstopp unbedingt vor Sonnenuntergang (ca. 16 Uhr).",
+                "hu": "Ezt a külső megállót mindenképp naplemente előtt (kb. 16 óra) keresse fel.",
+                "ro": "Vizitați acest punct exterior neapărat înainte de apus (aprox. ora 16:00).",
+                "en": "Make sure to visit this outdoor stop before sunset (around 4 PM)."
+              }
+            },
+            {
+              "name": "Kėdainiai Regional Museum",
+              "tip_5lang": {
+                "de": "Der perfekte Ort für die Zeit nach Sonnenuntergang; gut beheizt.",
+                "hu": "Tökéletes helyszín a naplemente utáni időre; jól fűtött épület.",
+                "ro": "Locul perfect pentru perioada de după apusul soarelui; este bine încălzit.",
+                "en": "The perfect place for the time after sunset; well-heated building."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "In Litauen geht die Sonne im Winter bereits gegen 16:00 Uhr unter.",
+              "Tragen Sie Thermokleidung, da der Wind in den Gassen sehr schneidend sein kann.",
+              "Die Museen sind verlässliche Wärmequellen während der Tour.",
+              "Achten Sie auf Räumdienste im Park auf dem Weg zum Minarett.",
+              "Ein heißer Tee in der Altstadt hilft, die Energiereserven aufzufüllen."
+            ],
+            "hu": [
+              "Litvániában télen már délután 4 óra körül lemegy a nap.",
+              "Viseljen termaruházatot, mert a szél metsző lehet az óvárosi utcákban.",
+              "A múzeumok megbízható melegedőpontok a városnézés során.",
+              "Ügyeljen a parki utak állapotára a minaret felé vezető úton.",
+              "Egy forró tea az óvárosban segít pótolni az energiatartalékokat."
+            ],
+            "ro": [
+              "În Lituania, soarele apune deja în jurul orei 16:00 pe timpul iernii.",
+              "Purtați haine termice, deoarece vântul poate fi tăios pe străzile vechi.",
+              "Muzeele sunt surse sigure de căldură în timpul turului.",
+              "Atenție la starea potecilor din parc în drum spre minaret.",
+              "Un ceai fierbinte în centrul vechi ajută la refacerea rezervelor de energie."
+            ],
+            "en": [
+              "In Lithuania, the sun sets as early as 4:00 PM during winter.",
+              "Wear thermal clothing, as the wind can be biting in the old town streets.",
+              "Museums are reliable sources of warmth during your tour.",
+              "Check the path conditions in the park on your way to the minaret.",
+              "A hot tea in the old town helps to replenish your energy levels."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -690,6 +898,214 @@
           "Always lock your bike when leaving it unattended.",
           "Use the bike paths along the river for a scenic and safe ride."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das spritzende Wasser auf dem Großen Markt signalisiert einen feuchten Start. Die kurzen Wege zwischen den Sehenswürdigkeiten helfen, nicht völlig durchnässt zu werden.\n\nMittags suchen Sie mit dem Rad Unterstand bei den großen Kirchen oder im Museum. Die Fahrt zum Minarett erfordert Vorsicht auf den nassen Parkwegen.\n\nNachmittags bieten die Innenräume des Janina-Monkutė-Marks-Museums eine trockene Pause für Körper und Ausrüstung.\n\nDer Abend schließt am Regionalmuseum ab. Stellen Sie Ihr Rad geschützt ab und genießen Sie die Ausstellungen, während draußen der Regen auf die Dächer trommelt.",
+            "hu": "A felfröccsenő víz a Főtéren nedves kezdést ígér. A látnivalók közötti rövid távolságok segítenek, hogy ne ázzunk el teljesen.\n\nDélben a templomok vagy a múzeum falai mellett keresünk menedéket a kerékpárral. A minarethez vezető út óvatosságot igényel a vizes parki ösvényeken.\n\nDélután a Janina Monkutė-Marks Múzeum belső terei nyújtanak száraz pihenőt a testnek és a felszerelésnek.\n\nAz este a Regionális Múzeumnál zárul. Parkoljon le fedett helyen, és élvezze a kiállításokat, miközben odakint az eső veri a tetőket.",
+            "ro": "Apa care stropește în Piața Mare semnalează un început umed. Distanțele scurte între obiective vă ajută să nu vă udați complet.\n\nLa prânz, căutați adăpost pentru bicicletă lângă bisericile mari sau la muzee. Drumul spre minaret necesită prudență pe aleile umede din parc.\n\nDupă-amiaza, interiorul Muzeului Janina Monkutė-Marks oferă o pauză uscată pentru corp și echipament.\n\nSeara se încheie la Muzeul Regional. Parcați bicicleta la adăpost și bucurați-vă de expoziții în timp ce ploaia bate în acoperișuri.",
+            "en": "Splashing water at the Great Market Square signals a wet start. Short distances between sights help you stay relatively dry during the transitions.\n\nAt midday, seek shelter for you and your bike near the large churches or museums. The ride to the minaret requires caution on the wet park paths.\n\nIn the afternoon, the indoor spaces of the Janina Monkutė-Marks Museum offer a dry break for both your body and your gear.\n\nThe evening concludes at the Regional Museum. Park your bike in a sheltered spot and enjoy the exhibits while the rain drums on the roofs outside."
+          },
+          "stops": [
+            {
+              "name": "Great Market Square",
+              "tip_5lang": {
+                "de": "Das Kopfsteinpflaster wird bei Regen sehr rutschig; fahren Sie langsam.",
+                "hu": "A macskakő esőben nagyon csúszik; közlekedjen lassan és óvatosan.",
+                "ro": "Pavajul devine foarte alunecos pe ploaie; pedalați cu viteză redusă.",
+                "en": "The cobblestones get very slippery in the rain; ride slowly and carefully."
+              }
+            },
+            {
+              "name": "Kėdainiai Town Hall",
+              "tip_5lang": {
+                "de": "Suchen Sie einen Fahrradständer unter einem Dachvorsprung in der Nähe.",
+                "hu": "Keressen kerékpártárolót a közelben egy tetőkinyúlás alatt.",
+                "ro": "Căutați un suport de biciclete sub o streașină în apropiere.",
+                "en": "Look for a bike rack under a roof overhang nearby."
+              }
+            },
+            {
+              "name": "St. George's Church",
+              "tip_5lang": {
+                "de": "Bremsen Sie frühzeitig auf dem nassen Gefälle zum Fluss hinunter.",
+                "hu": "Fékezzen időben a folyó felé vezető nedves lejtőn.",
+                "ro": "Frânați din timp pe panta umedă care coboară spre râu.",
+                "en": "Brake early on the wet descent towards the river."
+              }
+            },
+            {
+              "name": "Kėdainiai Minaret",
+              "tip_5lang": {
+                "de": "Achten Sie auf Schlamm und Pfützen auf den unbefestigten Parkwegen.",
+                "hu": "Ügyeljen a sárra és a tócsákra a park ki nem épített útjain.",
+                "ro": "Atenție la noroi și bălți pe aleile neasfaltate din parc.",
+                "en": "Watch out for mud and puddles on the unpaved park paths."
+              }
+            },
+            {
+              "name": "Evangelical Reformed Church",
+              "tip_5lang": {
+                "de": "Vermeiden Sie beim Absteigen die Metallgitter, diese sind spiegelglatt.",
+                "hu": "Leszálláskor kerülje a fémrácsokat, mert azok tükörsimák ilyenkor.",
+                "ro": "Evitați grătarele metalice la descălecare; sunt extrem de alunecoase.",
+                "en": "Avoid metal grates when dismounting; they are mirror-smooth when wet."
+              }
+            },
+            {
+              "name": "Janina Monkutė-Marks Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp, um die Brille oder das Visier zu reinigen.",
+                "hu": "Használja ki a megállót a szemüveg vagy a sisakrostély megtisztítására.",
+                "ro": "Folosiți oprirea pentru a vă curăța ochelarii sau viziera.",
+                "en": "Use the stop to clean your glasses or helmet visor."
+              }
+            },
+            {
+              "name": "Kėdainiai Regional Museum",
+              "tip_5lang": {
+                "de": "Nach dem Stopp ist es oft schon dunkel; prüfen Sie Ihre Beleuchtung.",
+                "hu": "A látogatás után gyakran már sötét van; ellenőrizze a világítást.",
+                "ro": "După vizită va fi probabil deja întuneric; verificați luminile.",
+                "en": "It might be dark after the stop; check your bike lights."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vollständige Regenbekleidung inklusive Überschuhen ist dringend empfohlen.",
+              "Achten Sie besonders auf nasse Blätter oder Schlamm in den Kurven.",
+              "Scheibenbremsen sind bei diesem Wetter ein großer Sicherheitsvorteil.",
+              "Planen Sie mehr Zeit für Bremsvorgänge auf nassem Untergrund ein.",
+              "Trocknen Sie Ihren Sattel bei jedem Stopp mit einem Tuch ab."
+            ],
+            "hu": [
+              "Teljes esőruházat, beleértve a kamáslit is, erősen ajánlott.",
+              "Fokozottan ügyeljen a nedves levelekre vagy sárra a kanyarokban.",
+              "A tárcsafék nagy biztonsági előnyt jelent ilyen időben.",
+              "Hagyjon több időt a fékezésre a nedves útfelületen.",
+              "Minden megállónál törölje szárazra a nyerget egy ronggyal."
+            ],
+            "ro": [
+              "Se recomandă insistent echipament complet de ploaie, inclusiv huse de pantofi.",
+              "Fiți foarte atenți la frunzele ude sau noroiul din curbe.",
+              "Frânele pe disc reprezintă un mare avantaj de siguranță pe această vreme.",
+              "Alocați mai mult timp pentru frânare pe suprafețele umede.",
+              "Ștergeți șaua cu o cârpă uscată la fiecare oprire."
+            ],
+            "en": [
+              "Full rain gear including shoe covers is highly recommended.",
+              "Be extra careful of wet leaves or mud in the corners.",
+              "Disc brakes are a great safety advantage in this weather.",
+              "Allow more time for braking on wet surfaces.",
+              "Wipe your saddle dry with a cloth at every stop."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die kalte Winterluft beißt beim Treten in die Pedale auf dem Großen Markt. Die kurzen Distanzen halten den Körper in Bewegung, ohne ihn auszukühlen.\n\nMittags bieten die Kirchen und Museen notwendige Wärme. Die Fahrt durch den verschneiten Park zum Minarett ist anstrengend, aber visuell beeindruckend.\n\nNachmittags wärmen Sie sich im Janina-Monkutė-Marks-Museum auf, bevor die frühe Dunkelheit die Sicht einschränkt.\n\nDer Abend endet im Regionalmuseum. Sorgen Sie für gute Beleuchtung für den Rückweg durch die frostige, beleuchtete Altstadt.",
+            "hu": "A hideg téli levegő harap, ahogy a pedálokat hajtjuk a Főtéren. A rövid távolságok mozgásban tartják a testet anélkül, hogy túlságosan lehűlnénk.\n\nDélben a templomok és múzeumok adják meg a szükséges meleget. A havas parkon át vezető út a minarethez fárasztó, de látványos.\n\nDélután a Janina Monkutė-Marks Múzeumban melegedhetünk fel, mielőtt a korai sötétedés korlátozná a látást.\n\nAz este a Regionális Múzeumban ér véget. Gondoskodjon jó világításról a fagyos, kivilágított óvároson át vezető úthoz.",
+            "ro": "Aerul rece de iarnă mușcă în timp ce pedalați în Piața Mare. Distanțele scurte mențin corpul în mișcare fără a-l lăsa să se răcească prea tare.\n\nLa prânz, bisericile și muzeele oferă căldura necesară. Drumul prin parcul înzăpezit spre minaret este obositor, dar impresionant vizual.\n\nDupă-amiaza vă încălziți la Muzeul Janina Monkutė-Marks înainte ca întunericul timpuriu să reducă vizibilitatea.\n\nSeara se încheie la Muzeul Regional. Asigurați-vă că aveți lumini bune pentru drumul de întoarcere prin orașul vechi înghețat.",
+            "en": "The cold winter air bites as you pedal across the Great Market Square. Short distances keep your body moving without letting it cool down too much.\n\nAt midday, churches and museums provide necessary warmth. The ride through the snowy park to the minaret is strenuous but visually stunning.\n\nIn the afternoon, warm up at the Janina Monkutė-Marks Museum before the early darkness limits visibility.\n\nThe evening ends at the Regional Museum. Ensure you have good lighting for the ride back through the frosty, illuminated old town."
+          },
+          "stops": [
+            {
+              "name": "Great Market Square",
+              "tip_5lang": {
+                "de": "Rechnen Sie mit Glatteis unter der dünnen Schneedecke auf dem Platz.",
+                "hu": "Számítson jégbordákra a vékony hóréteg alatt a téren.",
+                "ro": "Așteptați-vă la gheață sub stratul subțire de zăpadă din piață.",
+                "en": "Expect ice patches under the thin layer of snow on the square."
+              }
+            },
+            {
+              "name": "Kėdainiai Town Hall",
+              "tip_5lang": {
+                "de": "Prüfen Sie, ob Ihre Bremsbeläge bei Kälte und Feuchtigkeit noch gut greifen.",
+                "hu": "Ellenőrizze, hogy a fékbetétek jól fognak-e a hidegben és nedvességben.",
+                "ro": "Verificați dacă saboții de frână prind bine la frig și umezeală.",
+                "en": "Check if your brake pads still grip well in the cold and moisture."
+              }
+            },
+            {
+              "name": "St. George's Church",
+              "tip_5lang": {
+                "de": "Der Anstieg zum Hügel kann durch festgefahrenen Schnee sehr mühsam sein.",
+                "hu": "A dombra való feljutás a letaposott hó miatt igen fárasztó lehet.",
+                "ro": "Urcarea dealului poate fi foarte anevoioasă din cauza zăpezii bătătorite.",
+                "en": "The climb to the hill can be very strenuous due to packed snow."
+              }
+            },
+            {
+              "name": "Kėdainiai Minaret",
+              "tip_5lang": {
+                "de": "Verringern Sie den Reifendruck leicht für bessere Traktion auf Schnee.",
+                "hu": "Csökkentse kissé a keréknyomást a jobb tapadásért a havon.",
+                "ro": "Reduceți ușor presiunea în pneuri pentru o tracțiune mai bună pe zăpadă.",
+                "en": "Slightly reduce tire pressure for better traction on snow."
+              }
+            },
+            {
+              "name": "Evangelical Reformed Church",
+              "tip_5lang": {
+                "de": "Vorsicht beim Absteigen: Der Boden vor der Kirche kann gefroren sein.",
+                "hu": "Vigyázzon a leszálláskor: a templom előtti talaj fagyott lehet.",
+                "ro": "Atenție la descălecare: solul din fața bisericii poate fi înghețat.",
+                "en": "Careful when dismounting: the ground in front of the church may be frozen."
+              }
+            },
+            {
+              "name": "Janina Monkutė-Marks Museum",
+              "tip_5lang": {
+                "de": "Wärmen Sie Ihren Akku (bei E-Bikes) während des Museumsbesuchs im Warmen.",
+                "hu": "Melegítse fel az akkumulátort (e-bike esetén) a múzeumi látogatás alatt.",
+                "ro": "Încălziți bateria (la e-bike) la interior pe durata vizitei la muzeu.",
+                "en": "Warm up your battery (if using an e-bike) indoors during the museum visit."
+              }
+            },
+            {
+              "name": "Kėdainiai Regional Museum",
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihre Rücklichter sauber und weithin sichtbar sind.",
+                "hu": "Győződjön meg róla, hogy a hátsó lámpák tiszták és jól láthatóak.",
+                "ro": "Asigurați-vă că stopurile sunt curate și vizibile de la distanță.",
+                "en": "Ensure your rear lights are clean and visible from a distance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterhandschuhe und winddichte Kleidung sind lebenswichtig.",
+              "Achten Sie auf gefrorene Spurrinnen auf den Nebenwegen.",
+              "Beleuchtung ist ab 15:30 Uhr aufgrund der trüben Lichtverhältnisse nötig.",
+              "Reinigen Sie Kette und Schaltung nach der Tour von Streusalz.",
+              "Trinken Sie ausreichend, auch wenn Sie das Durstgefühl bei Kälte weniger spüren."
+            ],
+            "hu": [
+              "Téli kesztyű és szélálló ruházat létfontosságú.",
+              "Ügyeljen a fagyott keréknyomokra a mellékutakon.",
+              "A világítás már 15:30-tól szükséges a szürkület miatt.",
+              "A túra után tisztítsa meg a láncot és a váltót az útszóró sótól.",
+              "Igyon eleget, még ha a hidegben kevésbé is érzi a szomjúságot."
+            ],
+            "ro": [
+              "Mănușile de iarnă și îmbrăcămintea rezistentă la vânt sunt vitale.",
+              "Atenție la șleaurile înghețate de pe drumurile secundare.",
+              "Luminile sunt necesare de la ora 15:30 din cauza vizibilității reduse.",
+              "Curățați lanțul și schimbătorul de sare după terminarea turului.",
+              "Beți suficiente lichide, chiar dacă senzația de sete este redusă la frig."
+            ],
+            "en": [
+              "Winter gloves and windproof clothing are vital.",
+              "Watch out for frozen ruts on the side paths.",
+              "Lights are necessary from 3:30 PM due to low light conditions.",
+              "Clean the salt off your chain and gears after the tour.",
+              "Drink enough fluids, even if you feel less thirsty in the cold."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -973,6 +1389,196 @@
           "Do not leave valuables visible in the car.",
           "The old town is compact and best explored on foot."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Im trockenen Auto gleiten Sie entspannt durch das verregnete Kėdainiai. Der Tag beginnt mit einem kurzen Sprint vom Parkplatz zum Minarett.\n\nMittags parken Sie nahe der Altstadt, um die Wege zu den Kirchen und zum Rathaus kurz zu halten. Das Prasseln des Regens auf das Autodach wird zur beruhigenden Kulisse.\n\nNachmittags bietet der Aufenthalt in den Museen die perfekte Flucht vor dem nasskalten Wetter.\n\nDer Abend endet gemütlich, während Sie vom Parkplatz aus noch einen Blick auf die beleuchteten, nassen Gassen werfen, bevor Sie die Heimreise antreten.",
+            "hu": "A száraz autóban ülve pihentetően suhanunk át az esős Kėdainiai városán. A nap egy rövid sprinttel indul a parkolótól a minaretig.\n\nDélben az óvároshoz közel parkolunk, hogy a templomokhoz és a Városházához vezető utat lerövidítsük. Az autótetőn kopogó eső megnyugtató háttérzajt ad.\n\nDélután a múzeumi látogatások tökéletes menekülést kínálnak a nyirkos idő elől.\n\nAz este kellemesen zárul, a parkolóból még egy pillantást vetünk a kivilágított, vizes utcákra, mielőtt hazaindulnánk.",
+            "ro": "În mașina uscată, alunecați relaxat prin Kėdainiai-ul ploios. Ziua începe cu un scurt sprint de la parcare la minaret.\n\nLa prânz, parcați aproape de centrul vechi pentru a menține scurte drumurile spre biserici și Primărie. Roopotul ploii pe plafonul mașinii devine un fundal sonor relaxant.\n\nDupă-amiaza, șederea în muzee oferă evadarea perfectă din fața vremii umede și reci.\n\nSeara se încheie confortabil; din parcare mai aruncați o privire spre străzile luminate și ude înainte de a pleca spre casă.",
+            "en": "Relax inside your dry car as you glide through rainy Kėdainiai. The day starts with a quick dash from the parking lot to the minaret.\n\nAt midday, park near the old town to keep the walks to the churches and Town Hall as short as possible. The drumming of rain on the car roof becomes a soothing backdrop.\n\nIn the afternoon, staying in the museums offers the perfect escape from the wet and cold weather.\n\nThe evening ends comfortably; from the parking lot, take one last look at the illuminated, wet streets before heading home."
+          },
+          "stops": [
+            {
+              "name": "City Park Parking",
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Parkeingang, um den Fußweg zu minimieren.",
+                "hu": "Parkoljon a lehető legközelebb a park bejáratához a séta lerövidítéséhez.",
+                "ro": "Parcați cât mai aproape de intrarea în parc pentru a minimiza mersul pe jos.",
+                "en": "Park as close to the park entrance as possible to minimize the walk."
+              }
+            },
+            {
+              "name": "Kėdainiai Minaret",
+              "tip_5lang": {
+                "de": "Ein schneller Stopp; halten Sie den Regenschirm griffbereit im Auto.",
+                "hu": "Gyors megálló; tartsa az esernyőt kéznél az autóban.",
+                "ro": "O oprire rapidă; țineți umbrela la îndemână în mașină.",
+                "en": "A quick stop; keep your umbrella handy in the car."
+              }
+            },
+            {
+              "name": "Old Town Parking",
+              "tip_5lang": {
+                "de": "Wählen Sie einen Platz nahe der beleuchteten Hauptstraße.",
+                "hu": "Válasszon parkolóhelyet a kivilágított főutca közelében.",
+                "ro": "Alegeți un loc de parcare aproape de strada principală iluminată.",
+                "en": "Choose a parking spot near the illuminated main street."
+              }
+            },
+            {
+              "name": "Great Market Square & Town Hall",
+              "tip_5lang": {
+                "de": "Die Wege zwischen den Gebäuden sind kurz, aber oft sehr nass.",
+                "hu": "Az épületek közötti távolság kicsi, de az utak gyakran vizesek.",
+                "ro": "Distanțele dintre clădiri sunt mici, dar drumurile sunt adesea umede.",
+                "en": "Distances between buildings are short, but paths are often very wet."
+              }
+            },
+            {
+              "name": "Evangelical Reformed Church",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist nur wenige Schritte vom Kircheneingang entfernt.",
+                "hu": "A parkolóhely mindössze néhány lépésre van a templom bejáratától.",
+                "ro": "Parcarea se află la doar câțiva pași de intrarea în biserică.",
+                "en": "The parking area is just a few steps away from the church entrance."
+              }
+            },
+            {
+              "name": "Regional Museum & St. George's Church",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit im Museum, während es draußen am stärksten regnet.",
+                "hu": "Használja ki a múzeumban töltött időt, amíg odakint a legjobban esik.",
+                "ro": "Folosiți timpul în muzeu în timp ce afară plouă cel mai tare.",
+                "en": "Utilize the time in the museum while it rains hardest outside."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Pfützen in der Nähe von Bordsteinen beim Einparken.",
+              "Lassen Sie nasse Schirme im Kofferraum, um die Scheiben nicht zu beschlagen.",
+              "Prüfen Sie den Zustand Ihrer Wischerblätter vor der Fahrt.",
+              "In der Altstadt sind einige Straßen bei Nässe rutschig.",
+              "Nutzen Sie Park-Apps, um das Ticket trocken aus dem Auto zu bezahlen."
+            ],
+            "hu": [
+              "Parkoláskor ügyeljen a járdaszegélyek menti tócsákra.",
+              "A nedves ernyőket a csomagtartóba tegye, hogy ne párásodjanak az ablakok.",
+              "Indulás előtt ellenőrizze az ablaktörlők állapotát.",
+              "Az óvárosban egyes utcák nedvesen csúszósak lehetnek.",
+              "Használjon parkolási applikációt, hogy az autóból, szárazon fizethessen."
+            ],
+            "ro": [
+              "Atenție la bălțile de lângă borduri atunci când parcați.",
+              "Lăsați umbrelele ude în portbagaj pentru a nu aburi geamurile.",
+              "Verificați starea ștergătoarelor înainte de plecare.",
+              "În centrul vechi, unele străzi pot fi alunecoase când sunt ude.",
+              "Folosiți aplicații de parcare pentru a plăti din mașină, la uscat."
+            ],
+            "en": [
+              "Watch out for puddles near curbs when parking.",
+              "Keep wet umbrellas in the trunk to prevent the windows from fogging up.",
+              "Check the condition of your wiper blades before the trip.",
+              "In the old town, some streets can be slippery when wet.",
+              "Use parking apps to pay from inside the car to stay dry."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Das beheizte Auto ist Ihre Basisstation gegen die litauische Winterkälte. Die Tour startet am frostigen City Park mit Blick auf das Minarett.\n\nMittags genießen Sie die kurzen Wege von den Parkplätzen in der Altstadt zu den historischen Monumenten. Die winterliche Stadt wirkt wie aus einem Märchen.\n\nNachmittags bieten die Museen Wärme und Kultur, während draußen die Welt langsam unter einer Schneedecke verschwindet.\n\nDer Abend endet mit einer stimmungsvollen Fahrt durch die beleuchtete Altstadt, wobei die Scheinwerfer die tanzenden Schneeflocken erhellen.",
+            "hu": "A fűtött autó a bázisunk a litván téli hidegben. A túra a fagyos Városi Parkban indul, kilátással a minaretre.\n\nDélben élvezzük a rövid sétákat az óvárosi parkolókból a történelmi emlékművekig. A téli város olyan, mint egy mesehelyszín.\n\nDélután a múzeumok adnak meleget és kultúrát, miközben odakint a világ lassan eltűnik a hó alatt.\n\nAz este hangulatos autózással zárul a kivilágított óvároson át, ahol a fényszórók megvilágítják a táncoló hópelyheket.",
+            "ro": "Mașina încălzită este baza dumneavoastră împotriva gerului lituanian. Turul începe în Parcul Orașului înghețat, cu vedere spre minaret.\n\nLa prânz, profitați de distanțele scurte de la parcări spre monumentele istorice din centrul vechi. Orașul hibernal pare desprins din povești.\n\nDupă-amiaza, muzeele oferă căldură și cultură, în timp ce afară lumea dispare încet sub un strat de zăpadă.\n\nSeara se încheie cu o plimbare atmosferică prin centrul vechi iluminat, farurile luminând fulgii de zăpadă care dansează.",
+            "en": "The heated car is your home base against the Lithuanian winter cold. The tour starts at the frosty City Park with a view of the minaret.\n\nAt midday, enjoy the short walks from the old town parking lots to the historic monuments. The wintry city looks like something out of a fairy tale.\n\nIn the afternoon, museums provide warmth and culture while the world outside slowly disappears under a blanket of snow.\n\nThe evening ends with an atmospheric drive through the illuminated old town, with headlights catching the dancing snowflakes."
+          },
+          "stops": [
+            {
+              "name": "City Park Parking",
+              "tip_5lang": {
+                "de": "Achten Sie auf Schneeanhäufungen, die Parkplätze blockieren könnten.",
+                "hu": "Ügyeljen a hóbuckákra, amelyek elzárhatják a parkolóhelyeket.",
+                "ro": "Atenție la mormanele de zăpadă care ar putea bloca locurile de parcare.",
+                "en": "Watch out for snow piles that might block parking spaces."
+              }
+            },
+            {
+              "name": "Kėdainiai Minaret",
+              "tip_5lang": {
+                "de": "Der Weg zum Minarett wird im Winter oft nicht sofort geräumt.",
+                "hu": "A minarethez vezető utat télen gyakran nem takarítják azonnal.",
+                "ro": "Drumul spre minaret adesea nu este curățat imediat iarna.",
+                "en": "The path to the minaret is often not cleared immediately in winter."
+              }
+            },
+            {
+              "name": "Old Town Parking",
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Parken unter Dächern mit großen Eiszapfen.",
+                "hu": "Kerülje a parkolást olyan tetők alatt, ahol nagy jégcsapok lógnak.",
+                "ro": "Evitați parcarea sub streșini cu țurțuri mari de gheață.",
+                "en": "Avoid parking under roofs with large icicles."
+              }
+            },
+            {
+              "name": "Great Market Square & Town Hall",
+              "tip_5lang": {
+                "de": "Genießen Sie den Anblick des geschmückten Platzes vom warmen Auto aus.",
+                "hu": "Élvezze a feldíszített tér látványát a meleg autóból.",
+                "ro": "Admirați piața decorată din confortul mașinii încălzite.",
+                "en": "Enjoy the sight of the decorated square from your warm car."
+              }
+            },
+            {
+              "name": "Evangelical Reformed Church",
+              "tip_5lang": {
+                "de": "Die Zufahrt kann bei plötzlichem Schneefall rutschig sein.",
+                "hu": "A bekötőút hirtelen havazáskor csúszóssá válhat.",
+                "ro": "Drumul de acces poate fi alunecos în caz de ninsoare bruscă.",
+                "en": "The access road can be slippery during sudden snowfall."
+              }
+            },
+            {
+              "name": "Regional Museum & St. George's Church",
+              "tip_5lang": {
+                "de": "Planen Sie Zeit für das Enteisen der Scheiben nach dem Museumsbesuch ein.",
+                "hu": "Számoljon időt a szélvédők jégtelenítésére a múzeumlátogatás után.",
+                "ro": "Alocați timp pentru dezghețarea parbrizului după vizita la muzeu.",
+                "en": "Allow time for de-icing your windows after the museum visit."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen und Frostschutzmittel in der Scheibenwaschanlage sind Pflicht.",
+              "Führen Sie einen Eiskratzer und einen kleinen Schneebesen mit.",
+              "Parken Sie vorausschauend, um bei Glätte nicht stecken zu bleiben.",
+              "In Litauen ist tagsüber das Fahren mit Licht vorgeschrieben.",
+              "Halten Sie die Tankfüllung für zusätzliche Heizzeit im Stand hoch."
+            ],
+            "hu": [
+              "Téli gumi és fagyálló szélvédőmosó használata kötelező.",
+              "Legyen az autóban jégkaparó és hókefe.",
+              "Parkoljon körültekintően, hogy ne akadjon el a jeges úton.",
+              "Litvániában napközben is kötelező a tompított fényszóró használata.",
+              "Tartson elég üzemanyagot az autóban az állóhelyzeti fűtéshez."
+            ],
+            "ro": [
+              "Anvelopele de iarnă și lichidul de parbriz antigel sunt obligatorii.",
+              "Aveți în mașină o racletă și o perie mică pentru zăpadă.",
+              "Parcați cu atenție pentru a nu rămâne blocat pe gheață.",
+              "În Lituania este obligatorie folosirea luminilor și în timpul zilei.",
+              "Păstrați rezervorul plin pentru timp suplimentar de încălzire în staționare."
+            ],
+            "en": [
+              "Winter tires and antifreeze in the washer fluid are mandatory.",
+              "Keep an ice scraper and a small snow brush in your car.",
+              "Park carefully to avoid getting stuck on icy surfaces.",
+              "In Lithuania, driving with lights on is mandatory during the day.",
+              "Keep your fuel level high for extra heating time while stationary."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1232,6 +1838,178 @@
           "Most sights in the center are part of a single, large walking cluster.",
           "Be prepared for some waiting time between the main clusters."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus navigieren Sie geschützt vor dem Regen durch Kėdainiai. Die Wartezeiten an den Haltestellen verbringen Sie unter den Unterständen in der Nähe des Marktes.\n\nMittags erreichen Sie die Museen bequem, ohne lange durch den Guss laufen zu müssen. Die Busse bieten eine trockene Überbrückung zwischen den Stadtteilen.\n\nNachmittags führt die Fahrt zum Minarett; planen Sie den Rückweg zur Haltestelle so, dass Sie nicht im Regen warten müssen.\n\nDer Abend schließt am Regionalmuseum. Die kurze Fahrt zurück zum Bahnhof oder zur Unterkunft erfolgt im Schutz des öffentlichen Verkehrs, während die Stadt draußen im Regen versinkt.",
+            "hu": "Busszal közlekedve az esőtől védve járhatjuk be Kėdainiait. A megállókban töltött várakozási időt a Főtér közeli fedett várókban tölthetjük.\n\nDélben kényelmesen érjük el a múzeumokat, anélkül, hogy sokat kellene gyalogolnunk a szakadó esőben.\n\nDélután a minarethez utazunk; a visszautat úgy tervezzük, hogy ne kelljen sokat várni a megállóban az esőben.\n\nAz este a Regionális Múzeumnál zárul. A rövid út vissza a szálláshoz vagy a vasútállomáshoz a közösségi közlekedés védelmében telik.",
+            "ro": "Navigați prin Kėdainiai protejat de ploaie folosind autobuzul. Timpul de așteptare în stații este petrecut sub adăposturile din apropierea pieței.\n\nLa prânz ajungeți confortabil la muzee fără a fi nevoie să mergeți mult prin ploaie. Autobuzele oferă o punte uscată între cartiere.\n\nDupă-amiaza urmează drumul spre minaret; planificați întoarcerea la stație astfel încât să nu așteptați prea mult în ploaie.\n\nSeara se încheie la Muzeul Regional. Scurta călătorie spre gară sau cazare se face sub protecția transportului public.",
+            "en": "Navigate Kėdainiai protected from the rain by using the local buses. Spend your waiting time at the stops under the shelters near the market.\n\nAt midday, you reach the museums comfortably without having to walk long distances in the downpour. Buses provide a dry link between districts.\n\nIn the afternoon, head to the minaret; plan your return to the bus stop carefully to avoid waiting in the rain.\n\nThe evening concludes at the Regional Museum. The short ride back to the station or your accommodation is done under the protection of public transit."
+          },
+          "stops": [
+            {
+              "name": "Central Bus Stop (Old Town)",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist überdacht; warten Sie hier den stärksten Guss ab.",
+                "hu": "A megálló fedett; itt várja meg a heves eső elvonulását.",
+                "ro": "Stația este acoperită; așteptați aici trecerea averselor puternice.",
+                "en": "The stop is covered; wait here for heavy showers to pass."
+              }
+            },
+            {
+              "name": "Great Market Square & Town Hall",
+              "tip_5lang": {
+                "de": "Nur 3 Minuten Fußweg von der Haltestelle; nutzen Sie Schirme.",
+                "hu": "Mindössze 3 perc séta a megállótól; használjon esernyőt.",
+                "ro": "La doar 3 minute de mers de la stație; folosiți umbrela.",
+                "en": "Only a 3-minute walk from the stop; use an umbrella."
+              }
+            },
+            {
+              "name": "Evangelical Reformed Church",
+              "tip_5lang": {
+                "de": "Die Haltestelle befindet sich fast direkt vor dem Kircheneingang.",
+                "hu": "A megálló szinte közvetlenül a templom bejárata előtt található.",
+                "ro": "Stația se află aproape direct în fața intrării în biserică.",
+                "en": "The bus stop is located almost directly in front of the church entrance."
+              }
+            },
+            {
+              "name": "Kėdainiai Regional Museum",
+              "tip_5lang": {
+                "de": "Verbinden Sie den Museumsbesuch mit den Abfahrtszeiten des Busses.",
+                "hu": "Hangolja össze a múzeumlátogatást a busz indulási idejével.",
+                "ro": "Corelați vizita la muzeu cu orele de plecare ale autobuzului.",
+                "en": "Coordinate your museum visit with the bus departure times."
+              }
+            },
+            {
+              "name": "Minaret (via Bus)",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Fahrplan genau, da Busse hier seltener verkehren.",
+                "hu": "Ellenőrizze pontosan a menetrendet, mert ide ritkábban járnak buszok.",
+                "ro": "Verificați cu atenție orarul, deoarece autobuzele circulă mai rar aici.",
+                "en": "Check the schedule carefully as buses run less frequently here."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie lokale Apps für Echtzeit-Abfahrtszeiten der Busse.",
+              "Halten Sie Kleingeld oder eine Karte für den Fahrkartenkauf bereit.",
+              "Die Busse sind im Herbst und Winter meist gut beheizt.",
+              "Große Pfützen an Haltestellen erfordern Vorsicht beim Einsteigen.",
+              "Planen Sie Pufferzeiten ein, da der Verkehr bei Regen langsamer fließt."
+            ],
+            "hu": [
+              "Használjon helyi alkalmazásokat a buszok valós idejű követéséhez.",
+              "Készítsen be aprópénzt vagy kártyát a jegyvásárláshoz.",
+              "A buszok ősszel és télen általában jól fűtöttek.",
+              "A megállóknál lévő nagy tócsák miatt legyen óvatos a felszálláskor.",
+              "Számoljon rá időt, mert esőben a forgalom lassabb lehet."
+            ],
+            "ro": [
+              "Folosiți aplicații locale pentru orele de plecare ale autobuzelor în timp real.",
+              "Aveți pregătit mărunt sau un card pentru cumpărarea biletului.",
+              "Autobuzele sunt de obicei bine încălzite toamna și iarna.",
+              "Bălțile mari din stații necesită atenție la urcarea în vehicul.",
+              "Alocați timp suplimentar, deoarece traficul este mai lent pe ploaie."
+            ],
+            "en": [
+              "Use local apps for real-time bus departure times.",
+              "Have small change or a card ready for ticket purchase.",
+              "Buses are usually well-heated during autumn and winter.",
+              "Large puddles at stops require caution when boarding.",
+              "Allow extra time as traffic moves slower in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Fahrt im warmen Bus ist an frostigen Tagen in Kėdainiai die beste Wahl. Sie starten am zentralen Knotenpunkt der Altstadt und genießen den Blick auf die verschneiten Gassen.\n\nMittags bieten die Busse kurze Aufwärmphasen zwischen den Besuchen der Kirchen und Museen. Die Stadt wirkt in der Wintersonne besonders friedlich.\n\nNachmittags führt die Fahrt zum Minarett; achten Sie darauf, vor Einbruch der Dunkelheit wieder an der Haltestelle zu sein.\n\nDer Abend im Regionalmuseum wird durch die bequeme Busverbindung abgerundet, die Sie sicher und warm zurück zu Ihrem Ausgangspunkt bringt, während die Temperaturen draußen sinken.",
+            "hu": "A meleg buszon utazni a legjobb választás a fagyos napokon Kėdainiaiban. Az óváros központi csomópontjáról indulva gyönyörködhetünk a havas utcákban.\n\nDélben a buszok rövid felmelegedési lehetőséget adnak a templomok és múzeumok látogatása között. A város békés a téli napsütésben.\n\nDélután a minarethez utazunk; ügyeljünk rá, hogy még sötétedés előtt visszaérjünk a megállóba.\n\nAz este a Regionális Múzeumban a kényelmes buszközlekedéssel válik teljessé, amely biztonságban és melegben visz vissza a kiindulópontunkra.",
+            "ro": "Călătoria cu autobuzul încălzit este cea mai bună alegere în zilele geroase din Kėdainiai. Începeți din nodul central al orașului vechi și admirați străzile înzăpezite.\n\nLa prânz, autobuzele oferă scurte faze de încălzire între vizitele la biserici și muzee. Orașul pare deosebit de liniștit în soarele de iarnă.\n\nDupă-amiaza urmează drumul spre minaret; aveți grijă să reveniți în stație înainte de lăsarea întunericului.\n\nSeara la Muzeul Regional este completată de conexiunea convenabilă cu autobuzul, care vă aduce înapoi în siguranță și la căldură.",
+            "en": "Riding the warm bus is the best choice on frosty days in Kėdainiai. Start at the central hub of the old town and enjoy the view of the snowy alleys.\n\nAt midday, buses offer short warming phases between visits to the churches and museums. The city feels especially peaceful in the winter sun.\n\nIn the afternoon, head to the minaret; make sure to be back at the bus stop before darkness sets in.\n\nThe evening at the Regional Museum is rounded off by the convenient bus connection, taking you back safely and warmly to your starting point."
+          },
+          "stops": [
+            {
+              "name": "Central Bus Stop (Old Town)",
+              "tip_5lang": {
+                "de": "Warten Sie im Inneren des nahegelegenen Cafés, falls der Bus Verspätung hat.",
+                "hu": "Várjon a közeli kávézóban, ha késne a busz.",
+                "ro": "Așteptați în interiorul cafenelei din apropiere dacă autobuzul întârzie.",
+                "en": "Wait inside the nearby cafe if the bus is delayed."
+              }
+            },
+            {
+              "name": "Great Market Square & Town Hall",
+              "tip_5lang": {
+                "de": "Vorsicht vor Schneematsch an den Ein- und Ausstiegsstellen.",
+                "hu": "Vigyázzon a hókására a fel- és leszállóhelyeken.",
+                "ro": "Atenție la fleșcăraia de zăpadă de la locurile de urcare și coborâre.",
+                "en": "Watch out for slush at the boarding and alighting points."
+              }
+            },
+            {
+              "name": "Evangelical Reformed Church",
+              "tip_5lang": {
+                "de": "Der kurze Weg von der Haltestelle ist meist gut geräumt.",
+                "hu": "A megállótól vezető rövid utat általában jól takarítják.",
+                "ro": "Scurtul drum de la stație este de obicei bine curățat de zăpadă.",
+                "en": "The short path from the stop is usually well-cleared."
+              }
+            },
+            {
+              "name": "Kėdainiai Regional Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Museum als Warteraum, bis der Bus laut Fahrplan kommt.",
+                "hu": "Használja a múzeumot váróteremként, amíg a busz a menetrend szerint érkezik.",
+                "ro": "Folosiți muzeul ca sală de așteptare până la sosirea autobuzului.",
+                "en": "Use the museum as a waiting area until the bus arrives according to schedule."
+              }
+            },
+            {
+              "name": "Minaret (via Bus)",
+              "tip_5lang": {
+                "de": "Im Winter können die Fahrzeiten aufgrund der Straßenverhältnisse variieren.",
+                "hu": "Télen a menetidő az útviszonyok miatt változhat.",
+                "ro": "Iarna, durata călătoriei poate varia în funcție de starea drumurilor.",
+                "en": "In winter, travel times may vary due to road conditions."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse sind im Winter oft der sicherste Weg, um Glätte zu vermeiden.",
+              "Tragen Sie Kleidung, die Sie im warmen Bus leicht öffnen können.",
+              "Halten Sie die Fahrplan-App aktuell, um Wartezeiten im Freien zu minimieren.",
+              "Ab 16:00 Uhr wird es dunkel; Busbahnhöfe sind gut beleuchtet.",
+              "Klopfen Sie den Schnee von den Schuhen, bevor Sie in den Bus steigen."
+            ],
+            "hu": [
+              "Télen a busz gyakran a legbiztonságosabb módja a jeges utak elkerülésének.",
+              "Viseljen olyan ruházatot, amit a meleg buszon könnyen ki tud gombolni.",
+              "Frissítse a menetrend-alkalmazást a kinti várakozás minimalizálásához.",
+              "16:00-tól sötétedik; a buszmegállók jól kivilágítottak.",
+              "Rázza le a havat a cipőjéről, mielőtt felszáll a buszra."
+            ],
+            "ro": [
+              "Autobuzul este adesea cea mai sigură cale de a evita drumurile înghețate iarna.",
+              "Purtați haine pe care le puteți deschide ușor în autobuzul încălzit.",
+              "Actualizați aplicația de transport pentru a minimiza așteptarea în aer liber.",
+              "Se întunecă de la ora 16:00; stațiile de autobuz sunt bine iluminate.",
+              "Scuturați zăpada de pe încălțăminte înainte de a urca în autobuz."
+            ],
+            "en": [
+              "Buses are often the safest way to avoid icy roads in winter.",
+              "Wear layers that you can easily open in the warm bus.",
+              "Keep your schedule app updated to minimize outdoor waiting time.",
+              "It gets dark from 4:00 PM; bus stops are well-lit.",
+              "Shake the snow off your shoes before boarding the bus."
+            ]
+          }
+        }
       }
     }
   }

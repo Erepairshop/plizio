@@ -402,6 +402,214 @@
           "Many shops close for lunch.",
           "Bring a reusable water bottle."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag auf dem Marktplatz unter den Arkaden, wo der Regen eine gemütliche Atmosphäre schafft. Das Schloss Bulle bietet dicke Mauern und trockene Innenhöfe zur Erkundung.\n\nMittags finden Sie in der Altstadt zahlreiche gemütliche Bistros, die Schutz vor dem Wetter bieten. Genießen Sie ein warmes Fondue, während es draußen regnet.\n\nDer Nachmittag gehört dem Musée gruérien, einem perfekten Rückzugsort bei Regen, um tief in die lokale Kultur einzutauchen. Der Parkbesuch wird kurz gehalten, bietet aber frische, regenreine Luft.\n\nAbends glänzen die beleuchteten Straßen von Bulle im Regen. Ein kurzer Spaziergang führt Sie zurück zu Ihrem Ausgangspunkt, während die Stadtlichter im nassen Asphalt reflektieren.",
+            "hu": "Kezdje a napot a piactéren az árkádok alatt, ahol az eső kopogása bensőséges hangulatot teremt. A Bulle-kastély vastag falai és fedett részei remek menedéket nyújtanak a felfedezéshez.\n\nEbédidőben az óváros számos bistroja várja, ahol szárazon maradhat. Egy tál meleg sajtétel tökéletes választás, miközben odakint elered az eső.\n\nA délutánt töltse a Gruyère Múzeumban, amely ideális beltéri program az esős órákra a helyi kultúra megismeréséhez. A parkban tett látogatás rövid, de a friss esőillat kárpótolja.\n\nEste Bulle kivilágított utcái megcsillannak a vizes aszfalton. Rövid séta keretében érhet vissza a kiindulópontra, élvezve a város esős, de hangulatos fényeit.",
+            "ro": "Începeți ziua în Piața Pieței sub arcade, unde ploaia creează o atmosferă intimă. Castelul Bulle oferă ziduri groase și zone acoperite pentru a explora în siguranță.\n\nLa prânz, numeroasele bistrouri din centrul vechi vă oferă adăpost. Savurați un fondue cald în timp ce ploaia cade afară, bucurându-vă de confortul interior.\n\nDupă-amiaza aparține Muzeului Gruyère, un refugiu perfect pentru orele ploioase pentru a aprofunda cultura locală. Vizita în parc va fi scurtă, dar aerul proaspăt de ploaie este revigorant.\n\nSeara, străzile luminate din Bulle strălucesc în ploaie. O scurtă plimbare vă duce înapoi la punctul de plecare, în timp ce luminile orașului se reflectă în asfaltul umed.",
+            "en": "Start your day at Market Square under the arcades, where the rain creates a cozy atmosphere. Bulle Castle offers thick walls and covered areas for exploration.\n\nAt lunchtime, the Old Town's many bistros provide a dry haven. Enjoy a warm cheese dish while the rain falls outside, relishing the indoor comfort.\n\nThe afternoon belongs to the Gruyère Museum, a perfect indoor retreat for rainy hours to dive deep into local culture. The park visit will be brief, but the fresh rain-washed air is refreshing.\n\nIn the evening, the illuminated streets of Bulle glisten in the rain. A short walk leads you back to your starting point, with city lights reflecting in the wet asphalt."
+          },
+          "stops": [
+            {
+              "name": "Market Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden der umliegenden Gebäude als trockenen Unterstand.",
+                "hu": "Használja a környező épületek árkádjait száraz menedékként.",
+                "ro": "Folosiți arcadele clădirilor din jur ca adăpost uscat.",
+                "en": "Use the arcades of the surrounding buildings as dry shelter."
+              }
+            },
+            {
+              "name": "Bulle Castle",
+              "tip_5lang": {
+                "de": "Der Innenhof bietet teilweise Schutz; die Innenräume sind komplett trocken.",
+                "hu": "A belső udvar részben védett; a belső terek teljesen szárazak.",
+                "ro": "Curtea interioară oferă protecție parțială; interioarele sunt complet uscate.",
+                "en": "The inner courtyard offers partial protection; interiors are completely dry."
+              }
+            },
+            {
+              "name": "Church of Saint-Pierre-aux-Liens",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um einen heftigen Regenschauer abzuwarten.",
+                "hu": "Csendes hely egy hevesebb zápor kivárására.",
+                "ro": "Un loc liniștit pentru a aștepta trecerea unei averse de ploaie.",
+                "en": "A quiet place to wait out a heavy rain shower."
+              }
+            },
+            {
+              "name": "Lunch in the Old Town",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit Garderobe für nasse Regenschirme.",
+                "hu": "Válasszon olyan éttermet, ahol van hely a vizes esernyőknek.",
+                "ro": "Alegeți un restaurant cu garderobă pentru umbrelele ude.",
+                "en": "Choose a restaurant with a cloakroom for wet umbrellas."
+              }
+            },
+            {
+              "name": "Gruyère Museum",
+              "tip_5lang": {
+                "de": "Ideal für Regentage; planen Sie hier ruhig mehr Zeit ein.",
+                "hu": "Ideális esős napokra; tervezzen ide nyugodtan több időt.",
+                "ro": "Ideal pentru zilele ploioase; planificați mai mult timp aici.",
+                "en": "Ideal for rainy days; feel free to plan more time here."
+              }
+            },
+            {
+              "name": "Parc du Cabalet",
+              "tip_5lang": {
+                "de": "Die Wege können rutschig sein; bleiben Sie auf den befestigten Pfaden.",
+                "hu": "Az utak csúszósak lehetnek; maradjon a kiépített ösvényeken.",
+                "ro": "Potecile pot fi alunecoase; rămâneți pe drumurile pavate.",
+                "en": "Paths can be slippery; stay on the paved walkways."
+              }
+            },
+            {
+              "name": "Statue of Abbé Bovet",
+              "tip_5lang": {
+                "de": "Ein kurzes Foto unter dem Regenschirm reicht hier völlig aus.",
+                "hu": "Egy gyors fotó az esernyő alatt itt bőven elegendő.",
+                "ro": "O fotografie rapidă sub umbrelă este suficientă aici.",
+                "en": "A quick photo under the umbrella is plenty here."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Wanderschuhe, da das Kopfsteinpflaster rutschig wird.",
+              "Die Arkaden in der Hauptstraße bieten hervorragenden Schutz beim Schaufensterbummel.",
+              "Im Musée gruérien gibt es Schließfächer für nasse Jacken und Rucksäcke.",
+              "Ein Taschenregenschirm ist in den engen Gassen praktischer als ein Stockschirm.",
+              "Viele Cafés in Bulle bieten Heizstrahler in ihren halbgedeckten Außenbereichen an."
+            ],
+            "hu": [
+              "Viseljen vízálló túracipőt, mert a macskakövek csúszóssá válnak.",
+              "A főutca árkádjai kiváló védelmet nyújtanak kirakatnézegetés közben.",
+              "A Gruyère Múzeumban vannak értékmegőrzők a vizes kabátoknak és táskáknak.",
+              "A szűk utcákban az összecsukható esernyő praktikusabb, mint a hosszú boternyő.",
+              "Sok kávézó Bulle-ban fűtőtesteket használ a félig fedett teraszokon."
+            ],
+            "ro": [
+              "Purtați încălțăminte de drumeție impermeabilă, deoarece pavajul devine alunecos.",
+              "Arcadele de pe strada principală oferă o protecție excelentă pentru window shopping.",
+              "Muzeul Gruyère are dulapuri pentru jachetele și rucsacurile ude.",
+              "O umbrelă pliabilă este mai practică în zonele înguste decât una lungă.",
+              "Multe cafenele din Bulle oferă radiatoare în zonele exterioare semi-acoperite."
+            ],
+            "en": [
+              "Wear waterproof hiking shoes as the cobblestones become slippery when wet.",
+              "The arcades on the main street offer excellent protection while window shopping.",
+              "The Gruyère Museum has lockers available for wet jackets and backpacks.",
+              "A compact travel umbrella is more practical in narrow streets than a large stick one.",
+              "Many cafes in Bulle offer heaters in their semi-covered outdoor seating areas."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Atmen Sie die klare Winterluft am Marktplatz ein, während der Schnee die Dächer von Bulle zuckert. Das Schloss wirkt in der Wintersonne besonders majestätisch.\n\nSuchen Sie mittags die Wärme eines traditionellen Gasthauses. Ein schweres Gruyère-Gericht gibt Ihnen die nötige Energie für den kalten Nachmittag.\n\nDas Musée gruérien bietet eine wohlige Wärme, während Sie die Schätze der Region entdecken. Der Parkbesuch ist bei Sonnenuntergang gegen 16:30 Uhr besonders stimmungsvoll.\n\nBeenden Sie den Tag bei der Statue von Abbé Bovet, die im Winterlicht fast mystisch wirkt. Ein heißer Kakao in der Nähe ist der perfekte Abschluss.",
+            "hu": "Szívja be a friss téli levegőt a piactéren, miközben a hó belepi Bulle háztetőit. A vár különösen fenséges látványt nyújt a téli napsütésben.\n\nEbédidőben keressen egy hagyományos fogadót a melegért. Egy laktató Gruyère-sajtétel megadja a szükséges energiát a hideg délutánhoz.\n\nA Gruyère Múzeum kellemes meleget kínál, miközben felfedezi a régió kincseit. A parklátogatás naplementekor, 16:30 körül a leghangulatosabb.\n\nZárja a napot Abbé Bovet szobránál, amely a téli fényben szinte misztikusnak tűnik. Egy közeli forró csokoládé tökéletes befejezés.",
+            "ro": "Respirați aerul rece de iarnă în Piața Pieței, în timp ce zăpada acoperă acoperișurile din Bulle. Castelul arată deosebit de maiestuos în soarele de iarnă.\n\nLa prânz, căutați căldura unui han tradițional. Un preparat consistent cu brânză Gruyère vă oferă energia necesară pentru după-amiaza rece.\n\nMuzeul Gruyère oferă o căldură primitoare în timp ce descoperiți comorile regiunii. Vizita în parc este deosebit de atmosferică la apus, în jurul orei 16:30.\n\nÎncheiați ziua la statuia lui Abbé Bovet, care pare aproape mistică în lumina iernii. O ciocolată caldă în apropiere este finalul perfect.",
+            "en": "Breathe in the crisp winter air at Market Square as snow dusts the rooftops of Bulle. The castle looks particularly majestic in the winter sun.\n\nAt lunch, seek the warmth of a traditional inn. A hearty Gruyère cheese dish gives you the energy needed for the cold afternoon.\n\nThe Gruyère Museum offers a welcoming warmth while you discover the region's treasures. The park visit is especially atmospheric at sunset, around 4:30 PM.\n\nEnd the day at the statue of Abbé Bovet, which looks almost mystical in the winter light. A hot cocoa nearby is the perfect conclusion."
+          },
+          "stops": [
+            {
+              "name": "Market Square",
+              "tip_5lang": {
+                "de": "Der Boden kann bei Frost spiegelglatt sein; gehen Sie vorsichtig.",
+                "hu": "Fagy esetén a talaj tükörsima lehet; járjon óvatosan.",
+                "ro": "Solul poate fi extrem de alunecos în caz de îngheț; mergeți cu grijă.",
+                "en": "The ground can be mirror-smooth during frost; walk carefully."
+              }
+            },
+            {
+              "name": "Bulle Castle",
+              "tip_5lang": {
+                "de": "Die Steinmauern strahlen Kälte aus; bleiben Sie in Bewegung.",
+                "hu": "A kőfalak hideget árasztanak; maradjon mozgásban.",
+                "ro": "Zidurile de piatră emană frig; rămâneți în mișcare.",
+                "en": "The stone walls radiate cold; keep moving."
+              }
+            },
+            {
+              "name": "Church of Saint-Pierre-aux-Liens",
+              "tip_5lang": {
+                "de": "Oft beheizt und ein schöner Ort zum Innehalten.",
+                "hu": "Gyakran fűtött, és szép hely a megállásra.",
+                "ro": "Aeseori încălzită și un loc frumos pentru un moment de liniște.",
+                "en": "Often heated and a beautiful place for a moment of quiet."
+              }
+            },
+            {
+              "name": "Lunch in the Old Town",
+              "tip_5lang": {
+                "de": "Genießen Sie lokale Spezialitäten, die von innen wärmen.",
+                "hu": "Élvezze a helyi specialitásokat, amik belülről melegítenek.",
+                "ro": "Savurați specialități locale care vă încălzesc din interior.",
+                "en": "Enjoy local specialties that warm you from the inside out."
+              }
+            },
+            {
+              "name": "Gruyère Museum",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um sich zwischen den Spaziergängen aufzuwärmen.",
+                "hu": "Ideális hely a séták közötti felmelegedéshez.",
+                "ro": "Un loc ideal pentru a vă încălzi între plimbări.",
+                "en": "An ideal place to warm up between your walks."
+              }
+            },
+            {
+              "name": "Parc du Cabalet",
+              "tip_5lang": {
+                "de": "Besuchen Sie den Park vor 16:30 Uhr, bevor es dunkel wird.",
+                "hu": "Látogasson el a parkba 16:30 előtt, mielőtt sötét lesz.",
+                "ro": "Vizitați parcul înainte de ora 16:30, înainte de a se întuneca.",
+                "en": "Visit the park before 4:30 PM, before it gets dark."
+              }
+            },
+            {
+              "name": "Statue of Abbé Bovet",
+              "tip_5lang": {
+                "de": "Handschuhe anbehalten beim Fotografieren!",
+                "hu": "Fotózás közben is tartsa magán a kesztyűt!",
+                "ro": "Păstrați-vă mănușile când faceți fotografii!",
+                "en": "Keep your gloves on while taking photos!"
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermounterwäsche; die Kälte zieht in den Gassen schnell hoch.",
+              "Die Sonne geht früh unter (ca. 16:30), planen Sie Aktivitäten im Freien am Vormittag.",
+              "Achten Sie auf Eiszapfen an alten Dachrinnen in der Altstadt.",
+              "Warme Getränke wie 'Vin Chaud' werden oft auf dem Marktplatz angeboten.",
+              "Verwenden Sie Lippenbalsam gegen den kalten Wind aus den Bergen."
+            ],
+            "hu": [
+              "Viseljen termikus fehérneműt; a hideg gyorsan felszáll a szűk utcákban.",
+              "A nap korán nyugszik (kb. 16:30), a szabadtéri programokat délelőttre tervezze.",
+              "Ügyeljen a jégcsapokra az óváros régi ereszcsatornáinál.",
+              "A piactéren gyakran árulnak melengető italokat, például forralt bort.",
+              "Használjon ajakírt a hegyek felől érkező hideg szél ellen."
+            ],
+            "ro": [
+              "Purtați lenjerie termică; frigul urcă rapid pe străzile înguste.",
+              "Soarele apune devreme (aprox. 16:30), planificați activitățile în aer liber dimineața.",
+              "Atenție la țurțurii de gheață de la jgheaburile vechi din centrul vechi.",
+              "Băuturi calde precum vinul fiert sunt adesea oferite în piață.",
+              "Folosiți balsam de buze împotriva vântului rece dinspre munți."
+            ],
+            "en": [
+              "Wear thermal underwear; the cold rises quickly in the narrow streets.",
+              "The sun sets early (approx. 4:30 PM), plan outdoor activities for the morning.",
+              "Watch out for icicles on old gutters in the Old Town.",
+              "Warm drinks like 'Vin Chaud' are often sold at the Market Square.",
+              "Use lip balm to protect against the cold wind from the mountains."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -774,6 +982,196 @@
           "Always lock your bike securely.",
           "A helmet is recommended."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mieten Sie ein Fahrrad mit guten Schutzblechen am Marktplatz. Der Regen macht die Fahrt durch Bulle zu einem erfrischenden, wenn auch feuchten Erlebnis.\n\nDas Schloss Bulle bietet eine gute Gelegenheit, das Rad kurz abzustellen und im Trockenen Geschichte zu atmen.\n\nVerbringen Sie die regenreichste Zeit im Musée gruérien. Ihr Fahrrad steht sicher auf den markierten Plätzen vor dem Eingang.\n\nNachmittags radeln Sie vorsichtig zum Parc du Cabalet. Die Wege entlang der Trême sind bei Regen besonders grün und lebendig.\n\nBeenden Sie die Tour mit einer heißen Kaffeepause im Zentrum, um die Muskeln aufzuwärmen und die Kleidung zu trocknen.",
+            "hu": "Béreljen jó sárvédővel felszerelt biciklit a piactéren. Az eső frissítővé, bár kétségkívül vizes élménnyé teszi a tekerést Bulléban.\n\nA Bulle-kastélynál érdemes megállni, lelakatolni a gépet, és a száraz falak között belélegezni a történelmet.\n\nAz esősebb órákat töltse a Gruyère Múzeumban. A kerékpárja biztonságban várja a bejárat előtti kijelölt helyen.\n\nDélután tekerjen óvatosan a Parc du Cabalet felé. A Trême folyó menti utak esőben különösen zöldek és élettel telik.\n\nZárja a túrát egy forró kávészünettel a központban, hogy átmelegedjen és megszárítsa a ruháit.",
+            "ro": "Închiriați o bicicletă cu aripi bune în Piața Pieței. Ploaia face plimbarea prin Bulle o experiență revigorantă, deși umedă.\n\nCastelul Bulle oferă o ocazie bună de a lăsa bicicleta scurt timp și de a respira istorie la adăpost.\n\nPetreceți perioada cea mai ploioasă la Muzeul Gruyère. Bicicleta dvs. stă în siguranță pe locurile marcate din fața intrării.\n\nDupă-amiaza, pedalați cu atenție spre Parc du Cabalet. Potecile de-a lungul râului Trême sunt deosebit de verzi și vii în timpul ploii.\n\nÎncheiați turul cu o pauză de cafea fierbinte în centru pentru a vă încălzi mușchii și a vă usca hainele.",
+            "en": "Rent a bike with good mudguards at Market Square. The rain makes cycling through Bulle a refreshing, albeit wet, experience.\n\nBulle Castle offers a good opportunity to park the bike briefly and breathe in history while staying dry.\n\nSpend the rainiest hours at the Gruyère Museum. Your bike will wait safely at the marked spots in front of the entrance.\n\nIn the afternoon, cycle carefully to Parc du Cabalet. The paths along the Trême are particularly green and vibrant in the rain.\n\nEnd the tour with a hot coffee break in the center to warm up your muscles and dry your clothes."
+          },
+          "stops": [
+            {
+              "name": "Bike Rental & Market Square",
+              "tip_5lang": {
+                "de": "Fragen Sie nach einem wasserdichten Sattelüberzug.",
+                "hu": "Kérjen vízálló nyeregvédőt a kölcsönzőben.",
+                "ro": "Cereți o husă impermeabilă pentru șa.",
+                "en": "Ask for a waterproof saddle cover at the rental shop."
+              }
+            },
+            {
+              "name": "Bulle Castle",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Bereich am Tor zum Abschließen des Rades.",
+                "hu": "Használja a kapu melletti fedett részt a bicikli lezárásához.",
+                "ro": "Folosiți zona acoperită de la poartă pentru a încuia bicicleta.",
+                "en": "Use the covered area by the gate to lock your bike."
+              }
+            },
+            {
+              "name": "Gruyère Museum",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um nicht nass zu werden.",
+                "hu": "Parkoljon közel a bejárathoz, hogy ne ázzon el.",
+                "ro": "Parcați aproape de intrare pentru a nu vă uda.",
+                "en": "Park close to the entrance to avoid getting wet."
+              }
+            },
+            {
+              "name": "Lunch near the museum",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad so ab, dass der Sattel unter einem Dach ist.",
+                "hu": "Úgy állítsa le a biciklit, hogy a nyereg tető alatt legyen.",
+                "ro": "Parcați bicicleta astfel încât șaua să fie sub un acoperiș.",
+                "en": "Park your bike so that the saddle is under a roof."
+              }
+            },
+            {
+              "name": "Parc du Cabalet & Banks of the Trême",
+              "tip_5lang": {
+                "de": "Vorsicht vor Laub; es kann auf nassen Wegen extrem rutschig sein.",
+                "hu": "Vigyázat a levelekkel; vizes úton rendkívül csúszósak lehetnek.",
+                "ro": "Atenție la frunze; pot fi extrem de alunecoase pe drumurile ude.",
+                "en": "Watch out for leaves; they can be extremely slippery on wet paths."
+              }
+            },
+            {
+              "name": "Return to center & Coffee break",
+              "tip_5lang": {
+                "de": "Ein Ort mit Heizung hilft, die Kleidung schnell zu trocknen.",
+                "hu": "Fűtött helyet keressen, hogy gyorsan megszáradjon a ruhája.",
+                "ro": "Căutați un loc cu încălzire pentru a vă usca rapid hainele.",
+                "en": "Find a place with heating to help dry your clothes quickly."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Bremsen; der Bremsweg verlängert sich auf nassem Asphalt deutlich.",
+              "Tragen Sie eine neongelbe Regenjacke für bessere Sichtbarkeit im grauen Wetter.",
+              "Vermeiden Sie schnelle Kurvenfahrten auf Kopfsteinpflasterabschnitten.",
+              "Tragen Sie wasserfeste Handschuhe, um den Lenker sicher im Griff zu haben.",
+              "Nutzen Sie die markierten Radwege, da Autofahrer bei Regen schlechter sehen."
+            ],
+            "hu": [
+              "Ellenőrizze a fékeket; a féktávolság vizes aszfalton jelentősen megnő.",
+              "Viseljen neon sárga esőkabátot a jobb láthatóság érdekében szürke időben.",
+              "Kerülje a gyors kanyarodást a macskaköves szakaszokon.",
+              "Viseljen vízálló kesztyűt a kormány biztos fogása érdekében.",
+              "Használja a kijelölt kerékpárutakat, mert az autósok esőben rosszabbul látnak."
+            ],
+            "ro": [
+              "Verificați frânele; distanța de frânare crește semnificativ pe asfalt ud.",
+              "Purtați o jachetă de ploaie galben neon pentru o mai bună vizibilitate.",
+              "Evitați virajele rapide pe secțiunile cu pavaj.",
+              "Purtați mănuși impermeabile pentru a avea o aderență bună pe ghidon.",
+              "Folosiți pistele de biciclete marcate, șoferii văd mai greu în timpul ploii."
+            ],
+            "en": [
+              "Check your brakes; braking distance increases significantly on wet asphalt.",
+              "Wear a neon yellow rain jacket for better visibility in grey weather.",
+              "Avoid sharp cornering on cobblestone sections.",
+              "Wear waterproof gloves to keep a steady grip on the handlebars.",
+              "Stick to marked bike paths, as drivers have reduced visibility in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Bereiten Sie sich auf eine kalte, aber wunderschöne Fahrt vor. Die winterliche Landschaft um Bulle ist vom Fahrrad aus herrlich ruhig.\n\nBesuchen Sie das Schloss, um sich kurz aufzuwärmen, bevor Sie zum Musée gruérien weiterradeln.\n\nDas Museum bietet die perfekte Ausrede für eine längere Pause im Warmen. Ihr Fahrrad wartet draußen in der klaren Winterluft.\n\nMittags stärken Sie sich in der Nähe des Museums, bevor Sie die Fahrt zum Parc du Cabalet antreten.\n\nDie Fahrt entlang der Trême ist im Winter magisch, besonders wenn Reif die Bäume bedeckt. Kehren Sie vor Einbruch der Dunkelheit ins Zentrum zurück.\n\nEin heißer Tee am Ende der Tour ist die beste Belohnung für die winterliche Anstrengung.",
+            "hu": "Készüljön fel egy hideg, de gyönyörű tekerésre. A téli táj Bulle körül kerékpárról nézve csodálatosan békés.\n\nLátogassa meg a várat, hogy kicsit átmelegedjen, mielőtt továbbteker a Gruyère Múzeum felé.\n\nA múzeum tökéletes ürügy egy hosszabb melegedő szünetre. Biciklije kint várja a friss téli levegőn.\n\nEbédeljen a múzeum közelében, mielőtt elindulna a Parc du Cabalet felé.\n\nA Trême menti tekerés télen varázslatos, főleg ha zúzmara fedi az ágakat. Sötétedés előtt érjen vissza a központba.\n\nEgy forró tea a túra végén a legjobb jutalom a téli erőfeszítésért.",
+            "ro": "Pregătiți-vă pentru o plimbare rece, dar minunată. Peisajul hibernal din jurul Bulle este uimitor de liniștit privit de pe bicicletă.\n\nVizitați castelul pentru a vă încălzi puțin înainte de a pedala spre Muzeul Gruyère.\n\nMuzeul oferă scuza perfectă pentru o pauză lungă la căldură. Bicicleta dvs. așteaptă afară în aerul curat de iarnă.\n\nLuați prânzul lângă muzeu înainte de a porni spre Parc du Cabalet.\n\nPlimbarea de-a lungul râului Trême este magică iarna, mai ales când chiciura acoperă copacii. Întoarceți-vă în centru înainte de lăsarea întunericului.\n\nUn ceai fierbinte la finalul turului este cea mai bună recompensă pentru efortul depus.",
+            "en": "Prepare for a cold but beautiful ride. The winter landscape around Bulle is wonderfully peaceful when seen from a bike.\n\nVisit the castle to warm up briefly before cycling on toward the Gruyère Museum.\n\nThe museum provides the perfect excuse for a long break in the warmth. Your bike waits outside in the crisp winter air.\n\nHave lunch near the museum before starting the ride to Parc du Cabalet.\n\nThe ride along the Trême is magical in winter, especially when hoarfrost covers the trees. Return to the center before dark.\n\nA hot tea at the end of the tour is the best reward for the winter effort."
+          },
+          "stops": [
+            {
+              "name": "Bike Rental & Market Square",
+              "tip_5lang": {
+                "de": "Achten Sie auf Winterreifen am Fahrrad; sie haben mehr Grip.",
+                "hu": "Kérjen téli gumival felszerelt biciklit; jobban tapad.",
+                "ro": "Verificați dacă bicicleta are anvelope de iarnă pentru o aderență mai bună.",
+                "en": "Check for winter tires on the bike; they provide more grip."
+              }
+            },
+            {
+              "name": "Bulle Castle",
+              "tip_5lang": {
+                "de": "Schließen Sie das Rad an einem trockenen Ort ab, falls Schnee fällt.",
+                "hu": "Lakatolja le a gépet száraz helyen, ha esik a hó.",
+                "ro": "Încuiați bicicleta într-un loc uscat dacă ninge.",
+                "en": "Lock your bike in a dry spot if it is snowing."
+              }
+            },
+            {
+              "name": "Gruyère Museum",
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass das Schloss bei Minusgraden nicht einfriert.",
+                "hu": "Ügyeljen rá, hogy a lakat ne fagyjon be a mínuszokban.",
+                "ro": "Asigurați-vă că încuietoarea nu îngheață la temperaturi negative.",
+                "en": "Make sure the lock does not freeze in sub-zero temperatures."
+              }
+            },
+            {
+              "name": "Lunch near the museum",
+              "tip_5lang": {
+                "de": "Wärmen Sie Ihre Hände gut auf, bevor Sie wieder losfahren.",
+                "hu": "Melegítse át jól a kezeit, mielőtt újra útnak indul.",
+                "ro": "Încălziți-vă bine mâinile înainte de a porni din nou la drum.",
+                "en": "Warm your hands thoroughly before setting off again."
+              }
+            },
+            {
+              "name": "Parc du Cabalet & Banks of the Trême",
+              "tip_5lang": {
+                "de": "Vorsicht bei Brücken; diese frieren als Erstes ein.",
+                "hu": "Vigyázat a hidakon; ezek fagynak le először.",
+                "ro": "Atenție pe poduri; acestea îngheață primele.",
+                "en": "Be careful on bridges; they are the first to freeze over."
+              }
+            },
+            {
+              "name": "Return to center & Coffee break",
+              "tip_5lang": {
+                "de": "Geben Sie das Rad rechtzeitig vor Ladenschluss zurück.",
+                "hu": "Adja le a biciklit időben a kölcsönző zárása előtt.",
+                "ro": "Returnați bicicleta la timp înainte de închiderea centrului de închiriere.",
+                "en": "Return the bike on time before the rental shop closes."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie mehrere Schichten (Zwiebelprinzip) und eine winddichte Hose.",
+              "Vermeiden Sie Streusalz-Reste an der Kette; wischen Sie diese nach der Fahrt ab.",
+              "Verwenden Sie helles Licht, auch am Tag, wenn es bewölkt ist.",
+              "Halten Sie die Fahrtzeiten kurz, um Auskühlung zu vermeiden.",
+              "Warme Socken sind essenziell; kalte Füße machen das Radfahren unangenehm."
+            ],
+            "hu": [
+              "Viseljen több réteget (réteges öltözködés) és szélálló nadrágot.",
+              "Kerülje el, hogy az útszóró só a láncon maradjon; törölje le a túra után.",
+              "Használjon erős lámpát, még nappal is, ha felhős az idő.",
+              "Tartsa röviden a menetidőket a lehűlés elkerülése érdekében.",
+              "A meleg zokni elengedhetetlen; a hideg láb tönkreteszi a bringázást."
+            ],
+            "ro": [
+              "Purtați mai multe straturi de haine și pantaloni rezistenți la vânt.",
+              "Evitați reziduurile de sare pe lanț; ștergeți-l după plimbare.",
+              "Folosiți lumini puternice chiar și în timpul zilei dacă este noros.",
+              "Mențineți timpii de condus scurți pentru a evita răcirea excesivă.",
+              "Șosetele groase sunt esențiale; picioarele reci fac pedalatul neplăcut."
+            ],
+            "en": [
+              "Wear multiple layers and windproof trousers.",
+              "Avoid road salt buildup on the chain; wipe it down after your ride.",
+              "Use bright lights even during the day if it is overcast.",
+              "Keep riding intervals short to avoid overcooling.",
+              "Warm socks are essential; cold feet make cycling very unpleasant."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1146,6 +1544,196 @@
           "Traffic in Gruyères can be heavy in summer, plan for extra time.",
           "Check your fuel level before exploring rural areas."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den Komfort Ihres Autos, um Bulle auch bei Regen entspannt zu erkunden. Parken Sie zentral am Marktplatz, um kurze Wege zu haben.\n\nDas Schloss und das Musée gruérien liegen nah beieinander, sodass Sie das Auto dazwischen stehen lassen können. Genießen Sie die Fahrt durch die nebligen Hügel nach Gruyères.\n\nMittags in Gruyères ist es besonders gemütlich, wenn der Regen gegen die Fenster der Restaurants prasselt.\n\nBesuchen Sie das Schloss Gruyères am Nachmittag; der Parkplatz ist nah am Eingang. Die Rückfahrt nach Bulle bietet dramatische Aussichten auf die regnerischen Voralpen.\n\nBeenden Sie den Tag im Parc du Cabalet, falls der Regen nachlässt, oder genießen Sie den Ausblick einfach trocken aus dem Wagen.",
+            "hu": "Használja autója kényelmét Bulle felfedezéséhez esőben is. Parkoljon központilag a piactéren a rövid sétatávolságok érdekében.\n\nA vár és a Gruyère Múzeum közel vannak egymáshoz, így köztük nem kell autózni. Élvezze az utat a ködös dombokon át Gruyères felé.\n\nEbédeljen Gruyères-ben, ahol különösen hangulatos, amikor az eső kopog az étterem ablakán.\n\nDélután látogassa meg a Gruyères-i várat; a parkoló közel van a bejárathoz. A visszaút Bulléba drámai kilátást nyújt az esős előalpokra.\n\nZárja a napot a Parc du Cabalet-nél, ha eláll az eső, vagy csak élvezze a kilátást szárazon az autóból.",
+            "ro": "Folosiți confortul mașinii pentru a explora Bulle relaxat, chiar și pe ploaie. Parcați central în Piața Pieței pentru distanțe scurte de mers pe jos.\n\nCastelul și Muzeul Gruyère sunt aproape unul de celălalt, deci puteți lăsa mașina pe loc între vizite. Bucurați-vă de drumul prin dealurile cețoase spre Gruyères.\n\nPrânzul în Gruyère este deosebit de plăcut când ploaia bate în geamurile restaurantelor.\n\nVizitați Castelul Gruyères după-amiaza; parcarea este aproape de intrare. Drumul de întoarcere spre Bulle oferă vederi dramatice asupra Prealpilor ploioși.\n\nÎncheiați ziua în Parc du Cabalet dacă ploaia se oprește, sau pur și simplu bucurați-vă de priveliște din mașină.",
+            "en": "Use the comfort of your car to explore Bulle in a relaxed way even in the rain. Park centrally at Market Square for short walking distances.\n\nThe castle and the Gruyère Museum are close to each other, so you can leave the car parked between visits. Enjoy the drive through the misty hills to Gruyères.\n\nLunch in Gruyères is particularly cozy when the rain drum against the restaurant windows.\n\nVisit Gruyères Castle in the afternoon; the parking is near the entrance. The drive back to Bulle offers dramatic views of the rainy Pre-alps.\n\nEnd the day at Parc du Cabalet if the rain subsides, or simply enjoy the view from the dry interior of your car."
+          },
+          "stops": [
+            {
+              "name": "Central Parking & Market Square",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Parkhaus für ein komplett trockenes Aussteigen.",
+                "hu": "Válasszon fedett parkolót a teljesen száraz kiszálláshoz.",
+                "ro": "Alegeți o parcare etajată pentru a coborî din mașină la uscat.",
+                "en": "Choose a parking garage for a completely dry exit from the car."
+              }
+            },
+            {
+              "name": "Bulle Castle",
+              "tip_5lang": {
+                "de": "Kurze Parkdauer möglich; ideal für einen schnellen Besuch.",
+                "hu": "Rövid parkolás is lehetséges; ideális egy gyors látogatáshoz.",
+                "ro": "Parcare pe durată scurtă disponibilă; ideal pentru o vizită rapidă.",
+                "en": "Short-term parking available; ideal for a quick visit."
+              }
+            },
+            {
+              "name": "Gruyère Museum",
+              "tip_5lang": {
+                "de": "Parkplätze direkt gegenüber erleichtern den Zugang bei Regen.",
+                "hu": "A közvetlen szemben lévő parkolók megkönnyítik a bejutást esőben.",
+                "ro": "Locurile de parcare direct vizavi ușurează accesul pe ploaie.",
+                "en": "Parking spots directly opposite make access easy in the rain."
+              }
+            },
+            {
+              "name": "Drive to Gruyères & Lunch",
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig; bei Regen kann Aquaplaning auftreten.",
+                "hu": "Vezessen óvatosan; esőben fennáll az aquaplaning veszélye.",
+                "ro": "Conduceți cu atenție; poate apărea acvaplanarea pe ploaie.",
+                "en": "Drive carefully; aquaplaning can occur during heavy rain."
+              }
+            },
+            {
+              "name": "Gruyères Castle",
+              "tip_5lang": {
+                "de": "Vom Parkplatz zum Schloss führt ein steiler, bei Regen rutschiger Weg.",
+                "hu": "A parkolótól a várig meredek, esőben csúszós út vezet.",
+                "ro": "De la parcare la castel este un drum abrupt, alunecos pe ploaie.",
+                "en": "A steep path leads from the parking to the castle, slippery in the rain."
+              }
+            },
+            {
+              "name": "Return to Bulle & Parc du Cabalet",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz nah am Flussufer.",
+                "hu": "Használja a folyóparthoz közeli parkolót.",
+                "ro": "Folosiți parcarea de lângă malul râului.",
+                "en": "Use the parking lot near the river bank."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Zustand Ihrer Scheibenwischer vor der Fahrt.",
+              "Nutzen Sie Park-Apps, um das Bezahlen im Regen am Automaten zu vermeiden.",
+              "Halten Sie die Fenster leicht geöffnet oder nutzen Sie die Klimaanlage gegen Beschlagen.",
+              "In Gruyères gibt es große Parkplätze unterhalb des Dorfes; nehmen Sie den Aufzug.",
+              "Vermeiden Sie Pfützen am Straßenrand, um Fußgänger nicht nass zu spritzen."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze az ablaktörlők állapotát.",
+              "Használjon parkolási applikációkat, hogy ne kelljen az esőben az automatánál fizetni.",
+              "Tartsa az ablakokat résnyire nyitva vagy használja a klímát a párásodás ellen.",
+              "Gruyères-ben nagy parkolók vannak a falu alatt; használja a liftet.",
+              "Kerülje az útmenti tócsákat, hogy ne fröcskölje le a gyalogosokat."
+            ],
+            "ro": [
+              "Verificați starea ștergătoarelor înainte de drum.",
+              "Folosiți aplicații de parcare pentru a evita plata la automat în ploaie.",
+              "Țineți ferestrele ușor deschise sau folosiți aerul condiționat împotriva aburirii.",
+              "În Gruyères există parcări mari sub sat; folosiți liftul.",
+              "Evitați bălțile de la marginea drumului pentru a nu stropi pietonii."
+            ],
+            "en": [
+              "Check the condition of your windshield wipers before setting off.",
+              "Use parking apps to avoid paying at machines in the rain.",
+              "Keep windows slightly open or use AC to prevent fogging.",
+              "In Gruyères, there are large parking lots below the village; use the elevator.",
+              "Avoid puddles at the roadside to prevent splashing pedestrians."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre Wintertour in Bulle mit einem vorgewärmten Auto. Der Marktplatz im Schnee ist ein wunderbares Fotomotiv direkt aus dem Fenster.\n\nBesuchen Sie das Schloss und das Musée gruérien, bevor Sie die Panoramafahrt nach Gruyères antreten. Die schneebedeckten Gipfel sind beeindruckend.\n\nIn Gruyères erwartet Sie ein gemütliches Mittagessen mit Kaminfeuer in einem der historischen Gebäude.\n\nDas Schloss Gruyères wirkt im Winter wie aus einem Märchen. Planen Sie die Rückfahrt bei Tageslicht ein, da die Straßen glatt sein können.\n\nBeenden Sie den Tag im Parc du Cabalet, wo die gefrorene Trême eine ganz eigene Stille ausstrahlt, bevor Sie die Heizung im Auto wieder aufdrehen.",
+            "hu": "Kezdje téli túráját Bulléban egy előmelegített autóval. A havas piactér csodálatos fotótéma közvetlenül az ablakból.\n\nLátogassa meg a várat és a Gruyère Múzeumot, mielőtt elindulna a panorámaúton Gruyères felé. A hófödte csúcsok lenyűgözőek.\n\nGruyères-ben hangulatos ebéd várja kandallótűzzel az egyik történelmi épületben.\n\nA Gruyères-i vár télen olyan, mint egy tündérmese. A visszautat még nappali fénynél tegye meg, mert az utak csúszósak lehetnek.\n\nZárja a napot a Parc du Cabalet-nél, ahol a befagyott Trême különleges csendet áraszt, mielőtt újra felcsavarná a fűtést az autóban.",
+            "ro": "Începeți turul de iarnă în Bulle cu mașina preîncălzită. Piața înzăpezită este un motiv fotografic minunat direct de la fereastră.\n\nVizitați castelul și Muzeul Gruyère înainte de a porni pe drumul panoramic spre Gruyères. Vârfurile înzăpezite sunt impresionante.\n\nÎn Gruyères vă așteaptă un prânz primitor cu foc în șemineu într-una dintre clădirile istorice.\n\nCastelul Gruyères arată ca într-un basm iarna. Planificați drumul de întoarcere la lumina zilei, deoarece drumurile pot fi alunecoase.\n\nÎncheiați ziua în Parc du Cabalet, unde râul Trême înghețat emană o liniște aparte, înainte de a porni din nou căldura în mașină.",
+            "en": "Start your winter tour in Bulle with a pre-warmed car. The snow-covered Market Square is a wonderful photo opportunity right from your window.\n\nVisit the castle and the Gruyère Museum before starting the scenic drive to Gruyères. The snow-capped peaks are impressive.\n\nIn Gruyères, a cozy lunch with a fireplace awaits you in one of the historic buildings.\n\nGruyères Castle looks like something out of a fairy tale in winter. Plan your return trip during daylight hours, as roads can be slippery.\n\nEnd the day at Parc du Cabalet, where the frozen Trême exudes a unique silence, before turning up the car heater once more."
+          },
+          "stops": [
+            {
+              "name": "Central Parking & Market Square",
+              "tip_5lang": {
+                "de": "Achten Sie auf Eisfelder auf dem Parkdeck.",
+                "hu": "Ügyeljen a jeges foltokra a parkolóban.",
+                "ro": "Atenție la porțiunile de gheață din parcare.",
+                "en": "Watch out for icy patches in the parking area."
+              }
+            },
+            {
+              "name": "Bulle Castle",
+              "tip_5lang": {
+                "de": "Die Auffahrt zum Schloss kann bei Schnee schwierig sein.",
+                "hu": "A várhoz vezető feljáró hóban nehézkes lehet.",
+                "ro": "Urcarea spre castel poate fi dificilă în caz de zăpadă.",
+                "en": "The drive up to the castle can be difficult in snowy conditions."
+              }
+            },
+            {
+              "name": "Gruyère Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkplätze auf der Sonnenseite, damit die Scheiben nicht zufrieren.",
+                "hu": "Parkoljon a napos oldalon, hogy ne fagyjanak be az ablakok.",
+                "ro": "Parcați pe partea însorită pentru a preveni înghețarea geamurilor.",
+                "en": "Park on the sunny side to prevent windows from freezing over."
+              }
+            },
+            {
+              "name": "Drive to Gruyères & Lunch",
+              "tip_5lang": {
+                "de": "Winterreifen und ggf. Schneeketten sind in dieser Region Pflicht.",
+                "hu": "A téli gumi és szükség esetén a hólánc kötelező ebben a régióban.",
+                "ro": "Anvelopele de iarnă și eventual lanțurile sunt obligatorii în această regiune.",
+                "en": "Winter tires and possibly snow chains are mandatory in this region."
+              }
+            },
+            {
+              "name": "Gruyères Castle",
+              "tip_5lang": {
+                "de": "Tragen Sie feste Schuhe für den Weg vom Parkplatz zum Schloss.",
+                "hu": "Viseljen bakancsot a parkolótól a várig tartó úthoz.",
+                "ro": "Purtați încălțăminte solidă pentru drumul de la parcare la castel.",
+                "en": "Wear sturdy boots for the walk from the parking lot to the castle."
+              }
+            },
+            {
+              "name": "Return to Bulle & Parc du Cabalet",
+              "tip_5lang": {
+                "de": "Parken Sie nicht unter Bäumen mit hoher Schneelast.",
+                "hu": "Ne parkoljon nagy hóteherrel rendelkező fák alá.",
+                "ro": "Nu parcați sub copaci cu multă zăpadă pe ramuri.",
+                "en": "Do not park under trees with heavy snow loads."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Führen Sie immer einen Eiskratzer und einen kleinen Besen im Auto mit.",
+              "Prüfen Sie den Frostschutz im Scheibenwischwasser vor der Bergfahrt.",
+              "Fahren Sie vorausschauend; auf Bergstraßen kann jederzeit Glätte auftreten.",
+              "Lassen Sie den Motor nicht im Stand warm laufen (in der Schweiz verboten).",
+              "Halten Sie eine warme Decke im Auto für Notfälle bereit."
+            ],
+            "hu": [
+              "Mindig tartson jégkaparót és egy kis seprűt az autóban.",
+              "A hegyi út előtt ellenőrizze a fagyállót a szélvédőmosóban.",
+              "Vezessen előrelátóan; a hegyi utakon bármikor előfordulhat jegesedés.",
+              "Ne járassa álló helyzetben a motort melegítés céljából (Svájcban tilos).",
+              "Tartson egy meleg takarót az autóban vészhelyzet esetére."
+            ],
+            "ro": [
+              "Aveți întotdeauna în mașină o racletă și o măturică pentru zăpadă.",
+              "Verificați antigelul din lichidul de parbriz înainte de drumul la munte.",
+              "Conduceți preventiv; pe drumurile de munte poate apărea poleiul oricând.",
+              "Nu lăsați motorul pornit pe loc pentru a se încălzi (interzis în Elveția).",
+              "Țineți o pătură caldă în mașină pentru situații de urgență."
+            ],
+            "en": [
+              "Always keep an ice scraper and a small brush in your car.",
+              "Check the antifreeze in your windshield washer fluid before heading to the mountains.",
+              "Drive defensively; black ice can appear at any time on mountain roads.",
+              "Do not let the engine idle to warm up (it is prohibited in Switzerland).",
+              "Keep a warm blanket in the car for emergencies."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1518,6 +2106,196 @@
           "The SBB Mobile app is useful for planning train and bus connections.",
           "Be on time, buses in Switzerland usually depart exactly on schedule."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre Tour am Bahnhof Bulle, der bei Regen ein praktischer Knotenpunkt ist. Kurze Wege führen Sie zum Marktplatz und zum Schloss.\n\nNutzen Sie die lokalen Buslinien, um trocken zwischen den Sehenswürdigkeiten zu pendeln. Die Fahrt zum Musée gruérien ist kurz und komfortabel.\n\nMittags finden Sie in der Nähe des Museums tolle Verpflegungsmöglichkeiten, ohne lange im Regen laufen zu müssen.\n\nNachmittags bringt Sie der Bus direkt zum Parc du Cabalet. Genießen Sie die Aussicht aus dem Fenster, während draußen der Regen fällt.\n\nDie Rückkehr zum Bahnhof erfolgt bequem per Bus, sodass Sie trocken und entspannt Ihre Heimreise antreten können.",
+            "hu": "Kezdje a túrát a Bulle-i vasútállomáson, amely esőben praktikus csomópont. Rövid utak vezetnek a piactérhez és a várhoz.\n\nHasználja a helyi buszjáratokat, hogy szárazon közlekedjen a látnivalók között. Az út a Gruyère Múzeumhoz rövid és kényelmes.\n\nEbédidőben a múzeum közelében remek étkezési lehetőségeket talál anélkül, hogy sokat kellene gyalogolnia az esőben.\n\nDélután a busz közvetlenül a Parc du Cabalet-hez viszi. Élvezze a kilátást az ablakból, miközben odakint esik.\n\nA vasútállomásra busszal térhet vissza kényelmesen, így szárazon és pihenten indulhat haza.",
+            "ro": "Începeți turul la gara din Bulle, un nod practic în caz de ploaie. Drumuri scurte vă duc spre piață și castel.\n\nFolosiți liniile locale de autobuz pentru a naviga uscat între obiective. Drumul spre Muzeul Gruyère este scurt și confortabil.\n\nLa prânz, găsiți opțiuni excelente de masă lângă muzeu, fără a fi nevoie să mergeți mult prin ploaie.\n\nDupă-amiaza, autobuzul vă duce direct la Parc du Cabalet. Bucurați-vă de priveliște pe geam în timp ce afară plouă.\n\nÎntoarcerea la gară se face confortabil cu autobuzul, astfel încât să puteți pleca spre casă uscat și relaxat.",
+            "en": "Start your tour at Bulle station, which is a practical hub in the rain. Short walks lead you to the Market Square and the castle.\n\nUse local bus lines to commute dryly between sights. The ride to the Gruyère Museum is short and comfortable.\n\nAt lunch, you will find great dining options near the museum without having to walk long in the rain.\n\nIn the afternoon, the bus takes you directly to Parc du Cabalet. Enjoy the view from the window while the rain falls outside.\n\nThe return to the station is easy by bus, allowing you to start your journey home dry and relaxed."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Station & Market Square",
+              "tip_5lang": {
+                "de": "Der Bahnhof bietet überdachte Bahnsteige und Wartebereiche.",
+                "hu": "Az állomás fedett peronokkal és várótermekkel rendelkezik.",
+                "ro": "Gara oferă peroane acoperite și zone de așteptare.",
+                "en": "The station features covered platforms and waiting areas."
+              }
+            },
+            {
+              "name": "Bulle Castle",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle liegt nur wenige Schritte vom Schlosseingang entfernt.",
+                "hu": "A buszmegálló csak pár lépésre van a vár bejáratától.",
+                "ro": "Stația de autobuz este la doar câțiva pași de intrarea în castel.",
+                "en": "The bus stop is just a few steps away from the castle entrance."
+              }
+            },
+            {
+              "name": "Church of Saint-Pierre-aux-Liens",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Kircheneingang als schnellen Unterschlupf.",
+                "hu": "Használja a templom bejáratát gyors menedékként.",
+                "ro": "Folosiți intrarea bisericii ca adăpost rapid.",
+                "en": "Use the church entrance as a quick shelter."
+              }
+            },
+            {
+              "name": "Bus to Musée gruérien & Lunch",
+              "tip_5lang": {
+                "de": "Warten Sie unter dem Haltestellendach auf den Bus.",
+                "hu": "Várja a buszt a megálló fedett része alatt.",
+                "ro": "Așteptați autobuzul sub acoperișul stației.",
+                "en": "Wait for the bus under the shelter of the stop."
+              }
+            },
+            {
+              "name": "Bus to Parc du Cabalet",
+              "tip_5lang": {
+                "de": "Die Busse sind gut klimatisiert und verhindern beschlagene Scheiben.",
+                "hu": "A buszok jól klimatizáltak, így nem párásodnak az ablakok.",
+                "ro": "Autobuzele sunt bine climatizate și previn aburirea geamurilor.",
+                "en": "The buses are well-ventilated, preventing fogged-up windows."
+              }
+            },
+            {
+              "name": "Walk back to the station",
+              "tip_5lang": {
+                "de": "Falls es zu stark regnet, nehmen Sie den Bus statt zu laufen.",
+                "hu": "Ha túl erősen esik, gyaloglás helyett válaszd a buszt.",
+                "ro": "Dacă plouă prea tare, luați autobuzul în loc să mergeți pe jos.",
+                "en": "If it rains too hard, take the bus instead of walking."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die 'SBB Mobile' App für Echtzeit-Infos bei wetterbedingten Verspätungen.",
+              "Kaufen Sie ein Tages-Ticket, um flexibel zwischen Bus und Bahn zu wechseln.",
+              "Am Bahnhof Bulle gibt es Schließfächer für nasses Gepäck.",
+              "Die Busse in Bulle fahren in der Regel alle 15-30 Minuten.",
+              "Halten Sie Ihr Ticket griffbereit, um nicht im Regen danach suchen zu müssen."
+            ],
+            "hu": [
+              "Használja az 'SBB Mobile' alkalmazást az időjárás miatti késések figyelésére.",
+              "Vásároljon napijegyet a busz és a vonat közötti rugalmas váltáshoz.",
+              "A Bulle-i állomáson vannak csomagmegőrzők a vizes táskáknak.",
+              "A buszok Bulléban általában 15-30 percenként közlekednek.",
+              "Tartsa készenlétben a jegyét, hogy ne az esőben kelljen keresgélni."
+            ],
+            "ro": [
+              "Folosiți aplicația 'SBB Mobile' pentru informații în timp real despre întârzieri.",
+              "Cumpărați un abonament de o zi pentru flexibilitate între autobuz și tren.",
+              "Gara Bulle are dulapuri pentru bagajele ude.",
+              "Autobuzele din Bulle circulă de regulă la fiecare 15-30 de minute.",
+              "Țineți biletul la îndemână pentru a nu-l căuta în ploaie."
+            ],
+            "en": [
+              "Use the 'SBB Mobile' app for real-time updates on weather-related delays.",
+              "Purchase a day pass for flexible switching between bus and train.",
+              "Bulle station has lockers available for wet luggage.",
+              "Buses in Bulle generally run every 15-30 minutes.",
+              "Keep your ticket ready so you don't have to search for it in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Kommen Sie am winterlichen Bahnhof Bulle an und genießen Sie die Wärme der Züge. Der Marktplatz ist nur einen kurzen, erfrischenden Spaziergang entfernt.\n\nDas Schloss und das Museum sind gut mit den lokalen Bussen verbunden, was Ihnen lange Aufenthalte in der Kälte erspart.\n\nMittags können Sie sich in einem Restaurant nahe einer Bushaltestelle aufwärmen, bevor Sie zum Musée gruérien weiterfahren.\n\nDer Besuch im Parc du Cabalet ist im Winter kurz, aber die Busfahrt dorthin bietet schöne Ausblicke auf die verschneite Stadt.\n\nKehren Sie zum Bahnhof zurück und nutzen Sie die beheizten Wartebereiche, bis Ihr Zug abfährt.",
+            "hu": "Érkezzen meg a téli Bulle-i állomásra, és élvezze a vonatok melegét. A piactér csak egy rövid, frissítő sétára van.\n\nA vár és a múzeum jól megközelíthető helyi buszokkal, így megkímélheti magát a hosszú hidegben tartózkodástól.\n\nEbédidőben keressen egy buszmegálló közeli éttermet a felmelegedéshez, mielőtt továbbutazna a Gruyère Múzeumhoz.\n\nA Parc du Cabalet látogatása télen rövid, de a buszút odafelé szép kilátást nyújt a havas városra.\n\nTérjen vissza az állomásra, és használja a fűtött várótermeket a vonat indulásáig.",
+            "ro": "Sosiți la gara hibernală din Bulle și bucurați-vă de căldura trenurilor. Piața este la doar o scurtă plimbare revigorantă distanță.\n\nCastelul și muzeul sunt bine conectate prin autobuze locale, ceea ce vă scutește de perioade lungi în frig.\n\nLa prânz, vă puteți încălzi într-un restaurant de lângă o stație de autobuz înainte de a continua spre Muzeul Gruyère.\n\nVizita în Parc du Cabalet este scurtă iarna, dar drumul cu autobuzul oferă vederi frumoase asupra orașului înzăpezit.\n\nÎntoarceți-vă la gară și folosiți zonele de așteptare încălzite până la plecarea trenului.",
+            "en": "Arrive at the wintry Bulle station and enjoy the warmth of the trains. The Market Square is just a short, refreshing walk away.\n\nThe castle and the museum are well-connected by local buses, saving you from long periods in the cold.\n\nAt lunch, you can warm up in a restaurant near a bus stop before continuing to the Gruyère Museum.\n\nThe visit to Parc du Cabalet is brief in winter, but the bus ride there offers beautiful views of the snowy town.\n\nReturn to the station and make use of the heated waiting areas until your train departs."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Station & Market Square",
+              "tip_5lang": {
+                "de": "Der Bahnhofsvorplatz kann bei Glätte rutschig sein.",
+                "hu": "Az állomás előtti tér csúszós lehet jegesedéskor.",
+                "ro": "Piața gării poate fi alunecoasă în caz de îngheț.",
+                "en": "The station forecourt can be slippery during frost."
+              }
+            },
+            {
+              "name": "Bulle Castle",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Wartehäuschen an den Haltestellen gegen den kalten Wind.",
+                "hu": "Használja a megállók várófülkéit a hideg szél ellen.",
+                "ro": "Folosiți adăposturile din stații împotriva vântului rece.",
+                "en": "Use the shelters at the bus stops to shield from the cold wind."
+              }
+            },
+            {
+              "name": "Church of Saint-Pierre-aux-Liens",
+              "tip_5lang": {
+                "de": "Ein guter Ort, um die Zeit bis zum nächsten Bus im Warmen zu verbringen.",
+                "hu": "Jó hely a következő buszig tartó idő melegben való eltöltésére.",
+                "ro": "Un loc bun pentru a petrece timpul la căldură până la următorul autobuz.",
+                "en": "A good place to spend time in the warmth until the next bus."
+              }
+            },
+            {
+              "name": "Bus to Musée gruérien & Lunch",
+              "tip_5lang": {
+                "de": "Busse fahren im Winter zuverlässig und sind gut beheizt.",
+                "hu": "A buszok télen is megbízhatóak és jól fűtöttek.",
+                "ro": "Autobuzele sunt fiabile iarna și sunt bine încălzite.",
+                "en": "Buses are reliable in winter and are well-heated."
+              }
+            },
+            {
+              "name": "Bus to Parc du Cabalet",
+              "tip_5lang": {
+                "de": "Achten Sie auf die früheren Abfahrtszeiten in der Dämmerung.",
+                "hu": "Ügyeljen a korábbi indulási időpontokra a szürkületben.",
+                "ro": "Atenție la orele de plecare mai timpurii în timpul amurgului.",
+                "en": "Watch out for earlier departure times during twilight."
+              }
+            },
+            {
+              "name": "Walk back to the station",
+              "tip_5lang": {
+                "de": "Der Weg ist gut beleuchtet, aber Vorsicht vor überfrierender Nässe.",
+                "hu": "Az út jól kivilágított, de vigyázzon a lefagyásokkal.",
+                "ro": "Drumul este bine luminat, dar atenție la porțiunile înghețate.",
+                "en": "The path is well-lit, but watch out for patches of ice."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie warme Schuhe; das Warten an Haltestellen kühlt die Füße schnell aus.",
+              "Die Fahrpläne können bei extremem Schneefall leicht abweichen.",
+              "Im Bahnhof gibt es einen Kiosk für heiße Getränke zum Mitnehmen.",
+              "Nutzen Sie die Sitzheizung in modernen Zügen der Region.",
+              "Planen Sie Pufferzeiten ein, falls Busse aufgrund der Straßenverhältnisse langsamer fahren."
+            ],
+            "hu": [
+              "Viseljen meleg cipőt; a megállókban való várakozáskor gyorsan lehűl a láb.",
+              "Extrém hóesés esetén a menetrendek kis mértékben eltérhetnek.",
+              "Az állomáson van kioszk, ahol forró italokat vehet elvitelre.",
+              "Használja ki a modern regionális vonatok ülésfűtését.",
+              "Tervezzen be ráhagyást, ha a buszok a lassan haladnak az útviszonyok miatt."
+            ],
+            "ro": [
+              "Purtați încălțăminte călduroasă; așteptarea în stații răcește rapid picioarele.",
+              "Orarele pot varia ușor în caz de ninsori extreme.",
+              "În gară există un chioșc pentru băuturi calde la pachet.",
+              "Profitați de încălzirea în scaune din trenurile regionale moderne.",
+              "Planificați timp suplimentar în cazul în care autobuzele circulă mai lent din cauza drumurilor."
+            ],
+            "en": [
+              "Wear warm shoes; waiting at stops can lead to cold feet very quickly.",
+              "Schedules may vary slightly during extreme snowfall.",
+              "There is a kiosk at the station for hot takeaway drinks.",
+              "Take advantage of seat heating in modern regional trains.",
+              "Allow for extra travel time if buses run slower due to road conditions."
+            ]
+          }
+        }
       }
     }
   }

@@ -323,6 +323,214 @@
           "Most sights are close to each other.",
           "Plan for lunch on the Danube promenade."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den regnerischen Morgen unter den Barockarkaden des Hauptplatzes. Mittags bieten der Dom und der Bischofspalast trockene Zuflucht mit beeindruckender Kunst. Der Nachmittag gehört der unterirdischen Memento Mori Ausstellung, die völlig wetterunabhängig ist. Den Abend lassen Sie trotz Regen an der Uferpromenade ausklingen, wobei der Triumphbogen im nassen Asphalt glänzt.",
+            "hu": "Kezdje az esős reggelt a Március 15. tér barokk árkádjai alatt. Délben a Székesegyház és a Püspöki Palota nyújt biztos menedéket és kulturális élményt. A délutánt töltse a Memento Mori kiállítás föld alatti tárlatán, ahol az időjárás nem zavarja. Az estét a Duna-parti séta zárja, ahol a diadalív fényei tükröződnek a vizes aszfalton.",
+            "ro": "Începeți dimineața ploioasă sub arcadele baroce ale pieței centrale. La prânz, Catedrala și Palatul Episcopal oferă un refugiu uscat și artă impresionantă. După-amiaza este dedicată expoziției subterane Memento Mori, protejată de vreme. Seara se încheie pe faleza Dunării, unde Arcul de Triumf strălucește în reflexiile asfaltului umed.",
+            "en": "Start the rainy morning under the Baroque arcades of the main square. At noon, the Cathedral and Bishop's Palace provide dry refuge and impressive art. Spend the afternoon at the underground Memento Mori exhibition, completely weather-independent. End the evening at the Danube promenade, where the Triumphal Arch's lights reflect beautifully on the wet pavement."
+          },
+          "stops": [
+            {
+              "name": "March 15th Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden der umliegenden Gebäude als Regenschutz.",
+                "hu": "Használja a környékbeli épületek árkádjait eső elleni védelemként.",
+                "ro": "Folosiți arcadele clădirilor din jur pentru a vă proteja de ploaie.",
+                "en": "Use the arcades of the surrounding buildings for rain protection."
+              }
+            },
+            {
+              "name": "Vác Cathedral",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um einen starken Regenschauer im Trockenen abzuwarten.",
+                "hu": "Ideális helyszín egy nagyobb zápor szárazon történő megvárásához.",
+                "ro": "Locul ideal pentru a aștepta trecerea unei ploi torențiale la adăpost.",
+                "en": "An ideal place to wait out a heavy downpour in the dry."
+              }
+            },
+            {
+              "name": "Bishop's Palace",
+              "tip_5lang": {
+                "de": "Genießen Sie die Innenräume, während es draußen regnet.",
+                "hu": "Élvezze a belső tereket, amíg odakint esik az eső.",
+                "ro": "Bucurați-vă de interioare în timp ce afară plouă.",
+                "en": "Enjoy the interior spaces while it rains outside."
+              }
+            },
+            {
+              "name": "Memento Mori & Crypt",
+              "tip_5lang": {
+                "de": "Diese unterirdische Ausstellung ist perfekt für regnerische Stunden.",
+                "hu": "Ez a föld alatti kiállítás tökéletes az esős órákra.",
+                "ro": "Această expoziție subterană este perfectă pentru orele ploioase.",
+                "en": "This underground exhibition is perfect for rainy hours."
+              }
+            },
+            {
+              "name": "Greek Church",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ausstellungen im Inneren, um trocken zu bleiben.",
+                "hu": "Látogassa meg a belső kiállításokat, hogy szárazon maradjon.",
+                "ro": "Vizitați expozițiile din interior pentru a rămâne uscat.",
+                "en": "Visit the exhibitions inside to stay dry."
+              }
+            },
+            {
+              "name": "Danube Promenade",
+              "tip_5lang": {
+                "de": "Die großen Bäume bieten begrenzten Schutz vor leichtem Nieselregen.",
+                "hu": "A nagy fák korlátozott védelmet nyújtanak gyenge szitálás ellen.",
+                "ro": "Copacii mari oferă protecție limitată împotriva burniței ușoare.",
+                "en": "The large trees offer limited protection against light drizzle."
+              }
+            },
+            {
+              "name": "Triumphal Arch (Stone Gate)",
+              "tip_5lang": {
+                "de": "Betrachten Sie das Denkmal schnell und suchen Sie dann ein nahes Café auf.",
+                "hu": "Tekintse meg gyorsan az emlékművet, majd keressen egy közeli kávézót.",
+                "ro": "Vizitați rapid monumentul, apoi căutați o cafenea în apropiere.",
+                "en": "View the monument quickly, then find a nearby cafe."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vác hat viele Cafés rund um den Hauptplatz, ideal für Pausen bei Regen.",
+              "Die Gehwege in der Altstadt können bei Nässe rutschig sein.",
+              "Das Memento Mori Museum bietet fast zwei Stunden Programm im Trockenen.",
+              "Ein Regenschirm ist wegen der offenen Flächen am Dom unerlässlich.",
+              "Die Uferpromenade hat nur wenige Unterstände, planen Sie kurze Wege."
+            ],
+            "hu": [
+              "Vác főtere körül sok kávézó található, ideális esőben pihenni.",
+              "Az óváros járdái nedvesen csúszósak lehetnek.",
+              "A Memento Mori múzeum majdnem kétórás programot kínál fedett helyen.",
+              "Az esernyő elengedhetetlen a Székesegyház körüli nyílt terek miatt.",
+              "A Duna-parton kevés a menedék, tervezzen rövid szakaszokat."
+            ],
+            "ro": [
+              "Există multe cafenele în jurul pieței centrale din Vác, ideale pentru pauze pe ploaie.",
+              "Trotuarele din orașul vechi pot fi alunecoase când sunt ude.",
+              "Muzeul Memento Mori oferă aproape două ore de program la adăpost.",
+              "Umbrela este esențială din cauza spațiilor deschise din jurul Catedralei.",
+              "Faleza Dunării are puține adăposturi, planificați segmente scurte."
+            ],
+            "en": [
+              "Vác has many cafes around the main square, ideal for resting during rain.",
+              "Old town pavements can be slippery when wet.",
+              "The Memento Mori museum offers nearly two hours of indoor programming.",
+              "An umbrella is essential due to the open spaces around the Cathedral.",
+              "The Danube promenade has few shelters, plan for short walking bursts."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie den frostigen Morgen auf dem stimmungsvollen Hauptplatz mit einem heißen Getränk. Mittags bieten die dicken Mauern des Doms eine ruhige, kühle Atmosphäre, während der Bischofspalast Geschichte atmet. Am Nachmittag wärmt die Memento Mori Krypta auf, bevor die frühe Dämmerung die Stadt in goldenes Licht taucht. Der Abendspaziergang am Steinernen Tor ist kurz, aber durch die Winterbeleuchtung besonders magisch.",
+            "hu": "Élje át a fagyos reggelt a hangulatos főtéren egy forró itallal. Délben a Székesegyház vastag falai nyugodt környezetet biztosítanak, miközben a Püspöki Palota történelmet áraszt. Délután a Memento Mori kriptája ad menedéket a hideg elől, mielőtt a korai sötétedés arany fénybe vonja a várost. Az esti séta a Diadalívnél rövid, de a téli kivilágítás miatt különleges.",
+            "ro": "Experimentați dimineața geroasă în piața centrală cu o băutură fierbinte. La prânz, zidurile groase ale Catedralei oferă o atmosferă liniștită, în timp ce Palatul Episcopal respiră istorie. După-amiaza, cripta Memento Mori oferă adăpost de frig înainte ca amurgul timpuriu să scalde orașul în lumină aurie. Plimbarea de seară la Arcul de Triumf este scurtă, dar magică datorită iluminatului de iarnă.",
+            "en": "Experience the frosty morning on the atmospheric main square with a hot drink. At noon, the thick walls of the Cathedral provide a quiet environment, while the Bishop's Palace breathes history. In the afternoon, the Memento Mori crypt offers shelter from the cold before early sunset bathes the city in golden light. The evening walk at the Stone Gate is short but magical due to winter lighting."
+          },
+          "stops": [
+            {
+              "name": "March 15th Square",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Barockfassaden bei klarer Winterluft.",
+                "hu": "Élvezze a barokk homlokzatok látványát a tiszta téli levegőben.",
+                "ro": "Bucurați-vă de vederea fațadelor baroce în aerul curat de iarnă.",
+                "en": "Enjoy the view of the Baroque facades in the clear winter air."
+              }
+            },
+            {
+              "name": "Vác Cathedral",
+              "tip_5lang": {
+                "de": "In der Kirche ist es oft kälter als draußen, ziehen Sie sich warm an.",
+                "hu": "A templomban gyakran hidegebb van, mint kint, öltözzön fel melegen.",
+                "ro": "În biserică este adesea mai frig decât afară, îmbrăcați-vă gros.",
+                "en": "It is often colder inside the church than outside, dress warmly."
+              }
+            },
+            {
+              "name": "Bishop's Palace",
+              "tip_5lang": {
+                "de": "Die Innenräume sind beheizt und bieten eine angenehme Pause.",
+                "hu": "A belső terek fűtöttek, kellemes pihenőt kínálnak.",
+                "ro": "Spațiile interioare sunt încălzite, oferind o pauză plăcută.",
+                "en": "The interior spaces are heated, offering a pleasant break."
+              }
+            },
+            {
+              "name": "Memento Mori & Crypt",
+              "tip_5lang": {
+                "de": "Die konstante Temperatur in der Krypta wirkt im Winter mild.",
+                "hu": "A kripta állandó hőmérséklete télen enyhének hat.",
+                "ro": "Temperatura constantă din criptă pare blândă iarna.",
+                "en": "The constant temperature in the crypt feels mild in winter."
+              }
+            },
+            {
+              "name": "Greek Church",
+              "tip_5lang": {
+                "de": "Ein kurzer Besuch im Inneren schützt vor dem beißenden Wind.",
+                "hu": "Egy rövid benti látogatás védelmet nyújt a metsző szél ellen.",
+                "ro": "O scurtă vizită în interior oferă protecție împotriva vântului tăios.",
+                "en": "A short visit inside provides protection from the biting wind."
+              }
+            },
+            {
+              "name": "Danube Promenade",
+              "tip_5lang": {
+                "de": "Vorsicht vor Glatteis auf den Wegen in Flussnähe.",
+                "hu": "Vigyázzon a jegesedésre a folyóparti utakon.",
+                "ro": "Atenție la gheață pe potecile de lângă râu.",
+                "en": "Watch out for icy patches on the paths near the river."
+              }
+            },
+            {
+              "name": "Triumphal Arch (Stone Gate)",
+              "tip_5lang": {
+                "de": "Die Abendbeleuchtung setzt das Denkmal ab 16:30 Uhr in Szene.",
+                "hu": "Az esti kivilágítás már 16:30-tól kiemeli az emlékművet.",
+                "ro": "Iluminatul de seară evidențiază monumentul încă de la ora 16:30.",
+                "en": "Evening lighting highlights the monument starting from 16:30."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Winter bereits gegen 16:15 Uhr unter.",
+              "Der Wind von der Donau kann sehr schneidend sein, Schal einpacken.",
+              "Kirchen sind oft nicht beheizt, planen Sie Aufwärmphasen in Cafés ein.",
+              "Einige Ausstellungen haben im Winter verkürzte Öffnungszeiten.",
+              "Die öffentlichen Toiletten am Ufer könnten im Winter geschlossen sein."
+            ],
+            "hu": [
+              "A nap télen már 16:15 körül lemegy.",
+              "A Dunáról fújó szél metsző lehet, hozzon sálat.",
+              "A templomok gyakran fűtetlenek, tervezzen bemelegedést kávézókban.",
+              "Néhány kiállítás télen rövidített nyitvatartással üzemel.",
+              "A parti nyilvános illemhelyek télen zárva tarthatnak."
+            ],
+            "ro": [
+              "Soarele apune deja în jurul orei 16:15 iarna.",
+              "Vântul de pe Dunăre poate fi tăios, aduceți un fular.",
+              "Bisericile sunt adesea neîncălzite, planificați pauze de încălzire în cafenele.",
+              "Unele expoziții au program redus pe timpul iernii.",
+              "Toaletele publice de pe faleză ar putea fi închise iarna."
+            ],
+            "en": [
+              "The sun sets as early as 16:15 during winter months.",
+              "The wind from the Danube can be biting, bring a warm scarf.",
+              "Churches are often unheated, plan warming breaks in local cafes.",
+              "Some exhibitions may have shortened opening hours in winter.",
+              "Public toilets along the riverbank might be closed during winter."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -640,6 +848,214 @@
           "Watch out for pedestrians on the promenade.",
           "Some alleys in the city center have cobblestones, ride carefully."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Vorsicht auf dem Kopfsteinpflaster des Hauptplatzes. Vormittags besuchen Sie den Dom, während das Rad sicher unter einem Vordach steht. Die Fahrt zum Triumphbogen führt über nasse Straßen, belohnt aber mit weniger Verkehr. Der Nachmittag am Donauradweg ist erfrischend, sofern Sie wasserfeste Kleidung tragen. Beenden Sie die Tour im Memento Mori Museum, um sich im Trockenen zu entspannen.",
+            "hu": "Az esős kerékpározás óvatosságot igényel a főtér macskakövein. Délelőtt látogassa meg a Székesegyházat, míg a bicikli egy előtető alatt pihen. A Diadalívhez vezető út vizes aszfalton visz, de kevesebb forgalommal. A délutáni Duna-parti tekerés frissítő, ha van vízálló ruházata. Zárja a túrát a Memento Mori múzeumban, hogy szárazon pihenhessen meg.",
+            "ro": "O tură cu bicicleta pe ploaie necesită prudență pe pavajul pieței centrale. Dimineața vizitați Catedrala, în timp ce bicicleta stă sub o copertină. Drumul spre Arcul de Triumf trece prin bălți, dar traficul este mai redus. Plimbarea de după-amiază pe malul Dunării este revigorantă dacă aveți haine impermeabile. Încheiați turul la muzeul Memento Mori pentru a vă relaxa la uscat.",
+            "en": "Cycling in the rain requires caution on the cobblestones of the main square. In the morning, visit the Cathedral while your bike rests under a canopy. The ride to the Triumphal Arch follows wet roads but with less traffic. The afternoon Danube cycle path is refreshing if you have waterproof gear. Finish the tour at the Memento Mori museum to relax in the dry."
+          },
+          "stops": [
+            {
+              "name": "March 15th Square",
+              "tip_5lang": {
+                "de": "Vorsicht, das nasse Kopfsteinpflaster ist extrem rutschig.",
+                "hu": "Vigyázat, a vizes macskakő rendkívül csúszós.",
+                "ro": "Atenție, pavajul ud este extrem de alunecos.",
+                "en": "Caution, the wet cobblestones are extremely slippery."
+              }
+            },
+            {
+              "name": "Vác Cathedral",
+              "tip_5lang": {
+                "de": "Suchen Sie einen geschützten Abstellplatz für Ihr Fahrrad.",
+                "hu": "Keressen védett helyet a kerékpár leállításához.",
+                "ro": "Căutați un loc protejat pentru a lăsa bicicleta.",
+                "en": "Find a sheltered spot to park your bicycle."
+              }
+            },
+            {
+              "name": "Triumphal Arch (Stone Gate)",
+              "tip_5lang": {
+                "de": "Vermeiden Sie Pfützen auf der Fahrbahn in der Nähe des Tores.",
+                "hu": "Kerülje a tócsákat az úttesten a kapu közelében.",
+                "ro": "Evitați bălțile de pe carosabil în apropierea porții.",
+                "en": "Avoid puddles on the roadway near the gate."
+              }
+            },
+            {
+              "name": "Red Church",
+              "tip_5lang": {
+                "de": "Kurzer Stopp möglich, aber achten Sie auf spritzendes Wasser von Autos.",
+                "hu": "Rövid megálló lehetséges, de figyeljen az autók által felvert vízre.",
+                "ro": "O scurtă oprire este posibilă, dar atenție la apa stropită de mașini.",
+                "en": "Short stop possible, but watch out for water splashed by cars."
+              }
+            },
+            {
+              "name": "Danube Promenade (Southern Section)",
+              "tip_5lang": {
+                "de": "Der Radweg kann Laub und Schlamm aufweisen, langsam fahren.",
+                "hu": "A kerékpárúton levelek és sár lehetnek, hajtson lassan.",
+                "ro": "Pista de biciclete poate avea frunze și noroi, rulați încet.",
+                "en": "The cycle path may have leaves and mud, ride slowly."
+              }
+            },
+            {
+              "name": "Memento Mori",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Regenbekleidung kurz abzulegen.",
+                "hu": "Ideális hely az esőruházat rövid idejű levételéhez.",
+                "ro": "Un loc ideal pentru a da jos echipamentul de ploaie pentru scurt timp.",
+                "en": "An ideal place to briefly take off your rain gear."
+              }
+            },
+            {
+              "name": "Cycle path towards Szob",
+              "tip_5lang": {
+                "de": "Bei starkem Regen ist die Sicht auf dem offenen Weg eingeschränkt.",
+                "hu": "Erős esőben a látótávolság korlátozott a nyílt úton.",
+                "ro": "În caz de ploaie torențială, vizibilitatea este redusă pe drumul deschis.",
+                "en": "In heavy rain, visibility is limited on the open path."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine vollflächige Regenjacke und wasserfeste Schuhe.",
+              "Prüfen Sie Ihre Bremsen, da sie bei Nässe später greifen.",
+              "Schutzbleche sind ein Muss, um Schlammspritzer zu vermeiden.",
+              "Die Markierungen auf dem Asphalt können bei Regen sehr glatt sein.",
+              "Planen Sie mehr Zeit für die gleiche Strecke ein."
+            ],
+            "hu": [
+              "Viseljen teljes esődzsekit és vízálló cipőt.",
+              "Ellenőrizze a fékeket, mert nedvesen később fognak.",
+              "A sárvédő kötelező a felverődő sár elkerülése érdekében.",
+              "Az aszfalton lévő útburkolati jelek esőben nagyon csúszhatnak.",
+              "Tervezzen több időt ugyanarra a távra."
+            ],
+            "ro": [
+              "Purtați o jachetă de ploaie completă și pantofi impermeabili.",
+              "Verificați frânele, deoarece prind mai târziu pe umezeală.",
+              "Aripile sunt obligatorii pentru a evita stropirea cu noroi.",
+              "Marcajele rutiere de pe asfalt pot fi foarte alunecoase pe ploaie.",
+              "Planificați mai mult timp pentru aceeași distanță."
+            ],
+            "en": [
+              "Wear a full rain jacket and waterproof shoes.",
+              "Check your brakes, as they respond later when wet.",
+              "Mudguards are a must to avoid splashes from the road.",
+              "Road markings on the asphalt can be very slippery in the rain.",
+              "Allow more time for the same distance."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in Vác bietet klare Ausblicke auf das Donauknie. Vormittags wärmen Sie sich am Hauptplatz auf, bevor Sie zum Dom radeln. Achten Sie auf frostige Stellen am Uferdamm. Der Nachmittag Richtung Szob ist windig, aber die Bewegung hält warm. Sobald die Sonne untergeht, bieten das Memento Mori und lokale Cafés die nötige Wärme. Reflektoren sind wegen der frühen Dunkelheit unverzichtbar.",
+            "hu": "A téli kerékpározás Vácon tiszta kilátást nyújt a Dunakanyarra. Délelőtt melegedjen fel a főtéren, mielőtt a Székesegyházhoz tekerne. Figyeljen a fagyott foltokra a gáton. A délután Szob felé szeles, de a mozgás melegen tartja. Amint a nap lemegy, a Memento Mori és a helyi kávézók nyújtanak meleget. A fényvisszaverők a korai sötétedés miatt elengedhetetlenek.",
+            "ro": "Ciclismul de iarnă în Vác oferă vederi clare asupra Cotului Dunării. Dimineața încălziți-vă în piața centrală înainte de a pedala spre Catedrală. Atenție la porțiunile înghețate de pe dig. După-amiaza spre Szob este vântoasă, dar mișcarea vă ține de cald. Imediat ce soarele apune, Memento Mori și cafenelele locale oferă căldură. Reflectoarele sunt indispensabile din cauza întunericului timpuriu.",
+            "en": "Winter cycling in Vác offers clear views of the Danube Bend. In the morning, warm up at the main square before pedaling to the Cathedral. Watch out for frosty patches on the embankment. The afternoon towards Szob is windy, but moving keeps you warm. As soon as the sun sets, Memento Mori and local cafes provide the necessary warmth. Reflectors are essential due to early darkness."
+          },
+          "stops": [
+            {
+              "name": "March 15th Square",
+              "tip_5lang": {
+                "de": "Trinken Sie einen Tee, bevor Sie in den Fahrtwind starten.",
+                "hu": "Igyon egy teát, mielőtt nekivág a menetszélnek.",
+                "ro": "Beți un ceai înainte de a porni în vântul creat de deplasare.",
+                "en": "Have a tea before heading out into the wind chill."
+              }
+            },
+            {
+              "name": "Vác Cathedral",
+              "tip_5lang": {
+                "de": "Handschuhe nicht vergessen, die Metallgriffe sind eiskalt.",
+                "hu": "Ne felejtse el a kesztyűt, a fém fogantyúk jéghidegek.",
+                "ro": "Nu uitați mănușile, mânerele metalice sunt înghețate.",
+                "en": "Don't forget gloves, the metal handles are ice cold."
+              }
+            },
+            {
+              "name": "Triumphal Arch (Stone Gate)",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp, bleiben Sie wegen der Kälte in Bewegung.",
+                "hu": "Rövid fotómegálló, maradjon mozgásban a hideg miatt.",
+                "ro": "Scurtă oprire pentru poze, rămâneți în mișcare din cauza frigului.",
+                "en": "Short photo stop, stay in motion because of the cold."
+              }
+            },
+            {
+              "name": "Red Church",
+              "tip_5lang": {
+                "de": "Die Ziegelwände strahlen im Winter wenig Wärme ab.",
+                "hu": "A téglafalak télen kevés hőt sugároznak.",
+                "ro": "Zidurile de cărămidă emană puțină căldură iarna.",
+                "en": "The brick walls radiate little heat in winter."
+              }
+            },
+            {
+              "name": "Danube Promenade (Southern Section)",
+              "tip_5lang": {
+                "de": "Der Wind vom Fluss kann die gefühlte Temperatur senken.",
+                "hu": "A folyó felől fújó szél csökkentheti a hőérzetet.",
+                "ro": "Vântul de la râu poate scădea temperatura resimțită.",
+                "en": "The wind from the river can lower the perceived temperature."
+              }
+            },
+            {
+              "name": "Memento Mori",
+              "tip_5lang": {
+                "de": "Schließen Sie Ihr Rad gut an, während Sie sich drinnen aufwärmen.",
+                "hu": "Zárja le jól a biciklit, amíg bent melegszik.",
+                "ro": "Încuiați bine bicicleta în timp ce vă încălziți în interior.",
+                "en": "Lock your bike securely while you warm up inside."
+              }
+            },
+            {
+              "name": "Cycle path towards Szob",
+              "tip_5lang": {
+                "de": "Achten Sie auf Schattenwurf, dort hält sich Eis länger.",
+                "hu": "Figyeljen az árnyékos részekre, ott tovább megmarad a jég.",
+                "ro": "Atenție la zonele umbrite, gheața persistă mai mult acolo.",
+                "en": "Watch out for shaded areas, ice lasts longer there."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Verwenden Sie Winter-Fahrradhandschuhe gegen den kalten Wind.",
+              "Prüfen Sie die Reifenspannung; etwas weniger Druck gibt mehr Grip.",
+              "Stirnlampe und Rücklicht sind ab 16:00 Uhr Pflicht.",
+              "Zwiebelprinzip bei der Kleidung schützt vor Überhitzung und Auskühlung.",
+              "Der Akku von E-Bikes entlädt sich bei Kälte deutlich schneller."
+            ],
+            "hu": [
+              "Használjon téli kerékpáros kesztyűt a hideg szél ellen.",
+              "Ellenőrizze a guminyomást; a kicsit kisebb nyomás jobb tapadást ad.",
+              "A fejlámpa és a hátsó lámpa 16:00-tól kötelező.",
+              "A réteges öltözködés véd a túlhevüléstől és a lehűléstől is.",
+              "Az e-bike akkumulátora hidegben sokkal gyorsabban merül."
+            ],
+            "ro": [
+              "Folosiți mănuși de ciclism de iarnă împotriva vântului rece.",
+              "Verificați presiunea anvelopelor; o presiune ușor mai mică oferă aderență mai bună.",
+              "Farul și stopul sunt obligatorii începând cu ora 16:00.",
+              "Îmbrăcămintea în straturi protejează de supraîncălzire și de frig.",
+              "Bateria bicicletelor electrice se descarcă mult mai repede la frig."
+            ],
+            "en": [
+              "Use winter cycling gloves against the cold wind chill.",
+              "Check tire pressure; slightly lower pressure provides better grip on frost.",
+              "Front and rear lights are mandatory from 16:00 onwards.",
+              "Layered clothing protects against both overheating and chilling.",
+              "E-bike batteries drain significantly faster in cold weather."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -904,6 +1320,196 @@
           "Plan your route to avoid the one-way streets in the old town.",
           "A car also allows for a trip to the surrounding villages of the Danube Bend."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Auto dient als perfekte Basis für diesen regnerischen Tag in Vác. Parken Sie direkt am Triumphbogen und genießen Sie den Blick aus dem Trockenen. Mittags erreichen Sie den Dom bequem und parken in der nahen Garage. Der Nachmittag am Hauptplatz ermöglicht kurze Wege zu den Museen. Die Uferpromenade lässt sich auch bei Regen genießen, wenn man zwischen den Schauern kurze Spaziergänge einlegt.",
+            "hu": "Az autó tökéletes bázisként szolgál ezen az esős váci napon. Parkoljon közvetlenül a Diadalívnél, és élvezze a látványt a szárazból. Délben kényelmesen eléri a Székesegyházat, és a közeli garázsban parkolhat. A délután a főtéren rövid utakat tesz lehetővé a múzeumokhoz. A Duna-part esőben is élvezhető, ha a záporok között tesz rövid sétákat.",
+            "ro": "Mașina servește ca bază perfectă pentru această zi ploioasă în Vác. Parcați direct lângă Arcul de Triumf și bucurați-vă de vedere de la uscat. La prânz ajungeți ușor la Catedrală și parcați în garajul din apropiere. După-amiaza în piața centrală permite distanțe scurte până la muzee. Faleza Dunării poate fi savurată și pe ploaie cu plimbări scurte între averse.",
+            "en": "The car serves as the perfect base for this rainy day in Vác. Park directly at the Triumphal Arch and enjoy the view from the dry. At noon, reach the Cathedral comfortably and park in the nearby garage. The afternoon at the main square allows for short walks to the museums. The Danube promenade can be enjoyed even in rain with short walks between showers."
+          },
+          "stops": [
+            {
+              "name": "Parking at the Triumphal Arch",
+              "tip_5lang": {
+                "de": "Idealer Stopp, um das Denkmal bei Regen aus dem Auto zu sehen.",
+                "hu": "Ideális megálló az emlékmű esőben, autóból történő megtekintéséhez.",
+                "ro": "Oprire ideală pentru a vedea monumentul din mașină pe ploaie.",
+                "en": "Ideal stop to see the monument from the car during rain."
+              }
+            },
+            {
+              "name": "Triumphal Arch (Stone Gate)",
+              "tip_5lang": {
+                "de": "Nur wenige Schritte vom Parkplatz entfernt.",
+                "hu": "Csak néhány lépésre található a parkolótól.",
+                "ro": "La doar câțiva pași de parcare.",
+                "en": "Just a few steps away from the parking lot."
+              }
+            },
+            {
+              "name": "City Center Parking Garage",
+              "tip_5lang": {
+                "de": "Überdachtes Parken schützt Sie beim Ein- und Aussteigen.",
+                "hu": "A fedett parkolás megvédi Önt a ki- és beszálláskor.",
+                "ro": "Parcarea acoperită vă protejează la urcare și coborâre.",
+                "en": "Covered parking protects you when getting in and out."
+              }
+            },
+            {
+              "name": "Cathedral & Bishop's Palace",
+              "tip_5lang": {
+                "de": "Nutzen Sie den kurzen Weg vom Parkhaus zum Kircheneingang.",
+                "hu": "Használja a rövid utat a parkolóháztól a templom bejáratáig.",
+                "ro": "Folosiți drumul scurt de la parcare la intrarea în biserică.",
+                "en": "Take the short path from the parking garage to the church entrance."
+              }
+            },
+            {
+              "name": "March 15th Square & Memento Mori",
+              "tip_5lang": {
+                "de": "Lassen Sie Schirme im Auto, wenn Sie nur ins Museum gehen.",
+                "hu": "Hagyja az ernyőket az autóban, ha csak a múzeumba megy.",
+                "ro": "Lăsați umbrelele în mașină dacă mergeți doar la muzeu.",
+                "en": "Leave umbrellas in the car if you are only visiting the museum."
+              }
+            },
+            {
+              "name": "Danube Promenade",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Ufer, um schnell ins Trockene zu flüchten.",
+                "hu": "Parkoljon közel a parthoz, hogy gyorsan szárazra juthasson.",
+                "ro": "Parcați aproape de mal pentru a vă putea refugia rapid la uscat.",
+                "en": "Park close to the bank to quickly escape back to the dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf tiefere Pfützen in den Nebenstraßen.",
+              "Das Parkhaus im Zentrum ist bei Regen oft schneller belegt.",
+              "Halten Sie ein Tuch bereit, um beschlagene Scheiben zu reinigen.",
+              "Nutzen Sie die kurzen Wege zwischen den Sehenswürdigkeiten.",
+              "Prüfen Sie den Zustand der Scheibenwischer vor der Fahrt."
+            ],
+            "hu": [
+              "Ügyeljen a mélyebb tócsákra a mellékutcákban.",
+              "A központi parkolóház esőben gyakran gyorsabban megtelik.",
+              "Tartson kéznél egy törlőkendőt a bepárásodott ablakokhoz.",
+              "Használja ki a látnivalók közötti rövid távolságokat.",
+              "Indulás előtt ellenőrizze az ablaktörlők állapotát."
+            ],
+            "ro": [
+              "Atenție la bălțile adânci de pe străzile secundare.",
+              "Parcarea centrală se ocupă adesea mai repede pe ploaie.",
+              "Aveți la îndemână o cârpă pentru geamurile aburite.",
+              "Profitați de distanțele scurte între obiective.",
+              "Verificați starea ștergătoarelor înainte de drum."
+            ],
+            "en": [
+              "Watch out for deep puddles in the side streets.",
+              "The central parking garage often fills up faster during rain.",
+              "Keep a cloth handy to wipe fogged-up windows.",
+              "Take advantage of the short distances between the sights.",
+              "Check the condition of your windshield wipers before starting."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintertag im Auto ermöglicht es, Vác ohne Frieren zu erkunden. Vormittags besuchen Sie das Steinerne Tor, während die Heizung läuft. Der Domplatz wirkt im Winter besonders majestätisch. Parken Sie im Zentrum, um den Hauptplatz und das warme Memento Mori Museum zu besuchen. Die Uferpromenade bietet bei Sonnenuntergang gegen 16:30 Uhr eine herrliche Kulisse, bevor Sie sich im warmen Fahrzeug auf den Rückweg machen.",
+            "hu": "A téli nap autóval lehetővé teszi Vác felfedezését fázás nélkül. Délelőtt látogassa meg a Kőkaput, miközben a fűtés jár. A Dóm tér télen különösen fenséges. Parkoljon a központban, hogy felkeresse a főteret és a meleg Memento Mori múzeumot. A Duna-part naplementekor, 16:30 körül csodás látványt nyújt, mielőtt a meleg autóval elindulna haza.",
+            "ro": "O zi de iarnă cu mașina permite explorarea orașului Vác fără a îngheța. Dimineața vizitați Poarta de Piatră în timp ce căldura merge. Piața Catedralei pare deosebit de maiestuoasă iarna. Parcați în centru pentru a vizita piața centrală și muzeul cald Memento Mori. Faleza Dunării oferă un decor superb la apus, în jurul orei 16:30, înainte de a pleca spre casă în vehiculul cald.",
+            "en": "A winter day by car allows exploring Vác without freezing. In the morning, visit the Stone Gate while the heater is running. The Cathedral Square looks particularly majestic in winter. Park in the center to visit the main square and the warm Memento Mori museum. The Danube promenade offers a wonderful backdrop at sunset around 16:30 before heading back in the warm vehicle."
+          },
+          "stops": [
+            {
+              "name": "Parking at the Triumphal Arch",
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor kurz laufen, um das Auto warm zu halten.",
+                "hu": "Hagyja járni a motort rövid ideig, hogy az autó meleg maradjon.",
+                "ro": "Lăsați motorul pornit scurt timp pentru a menține mașina caldă.",
+                "en": "Keep the engine running briefly to keep the car warm."
+              }
+            },
+            {
+              "name": "Triumphal Arch (Stone Gate)",
+              "tip_5lang": {
+                "de": "Der Fotostopp dauert nur eine Minute.",
+                "hu": "A fotómegálló csak egy percet vesz igénybe.",
+                "ro": "Oprirea pentru poze durează doar un minut.",
+                "en": "The photo stop takes only a minute."
+              }
+            },
+            {
+              "name": "City Center Parking Garage",
+              "tip_5lang": {
+                "de": "Das Auto kühlt im Parkhaus weniger schnell aus.",
+                "hu": "Az autó a parkolóházban kevésbé hűl ki gyorsan.",
+                "ro": "Mașina se răcește mai greu în parcarea acoperită.",
+                "en": "The car cools down less quickly in the parking garage."
+              }
+            },
+            {
+              "name": "Cathedral & Bishop's Palace",
+              "tip_5lang": {
+                "de": "Achten Sie auf Eisplatten auf dem großen Vorplatz.",
+                "hu": "Ügyeljen a jégfoltokra a nagy előtéren.",
+                "ro": "Atenție la porțiunile de gheață din piața mare.",
+                "en": "Watch out for ice patches on the large forecourt."
+              }
+            },
+            {
+              "name": "March 15th Square & Memento Mori",
+              "tip_5lang": {
+                "de": "Der kurze Fußweg zum Museum ist im Winter kein Problem.",
+                "hu": "A rövid séta a múzeumhoz télen sem jelent problémát.",
+                "ro": "Scurta plimbare până la muzeu nu este o problemă iarna.",
+                "en": "The short walk to the museum is not a problem in winter."
+              }
+            },
+            {
+              "name": "Danube Promenade",
+              "tip_5lang": {
+                "de": "Genießen Sie das Panorama kurz und kehren Sie ins warme Auto zurück.",
+                "hu": "Élvezze a panorámát rövid ideig, majd térjen vissza a meleg autóba.",
+                "ro": "Bucurați-vă de panoramă scurt timp, apoi reveniți în mașina caldă.",
+                "en": "Enjoy the panorama briefly, then return to the warm car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Frostschutz der Scheibenwaschanlage.",
+              "Die Straßen in der Altstadt können morgens glatt sein.",
+              "Batterien entladen sich bei Kälte schneller, Licht nicht brennen lassen.",
+              "Ein Eiskratzer sollte im Winter immer griffbereit sein.",
+              "Planen Sie Zeit zum Enteisen der Scheiben ein."
+            ],
+            "hu": [
+              "Ellenőrizze a szélvédőmosó fagyállóságát.",
+              "Az óváros utcái reggel csúszósak lehetnek.",
+              "Az akkumulátorok hidegben gyorsabban merülnek, ne hagyja égve a lámpát.",
+              "A jégkaparónak télen mindig kéznél kell lennie.",
+              "Tervezzen időt a szélvédők jégtelenítésére."
+            ],
+            "ro": [
+              "Verificați antigelul lichidului de parbriz.",
+              "Străzile din orașul vechi pot fi alunecoase dimineața.",
+              "Bateriile se descarcă mai repede la frig, nu lăsați luminile aprinse.",
+              "Răzuitoarea de gheață trebuie să fie mereu la îndemână iarna.",
+              "Planificați timp pentru dezghețarea geamurilor."
+            ],
+            "en": [
+              "Check the anti-freeze level of your windshield washer fluid.",
+              "Old town streets can be slippery in the early morning.",
+              "Batteries drain faster in the cold, don't leave lights on.",
+              "An ice scraper should always be handy during winter.",
+              "Allow extra time for defrosting windows before driving."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1168,6 +1774,196 @@
           "Bus schedules can be found online or at the stops.",
           "From the train station, you can reach Budapest in about 30 minutes by train."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie Bus und Bahn, um Vác im Regen zu erkunden. Vom Bahnhof gelangen Sie schnell zum Steinernen Tor. Die Busse bringen Sie nah an den Hauptplatz und den Dom, sodass Sie kaum nass werden. Der Nachmittag im Memento Mori Museum ist der trockenste Teil des Tages. Die Uferpromenade erreichen Sie mit einer kurzen Busfahrt, ideal um zwischen den Regengüssen die Aussicht zu genießen.",
+            "hu": "Használja a buszt és a vonatot Vác felfedezéséhez esőben is. A vasútállomástól gyorsan elérheti a Kőkaput. A buszok közel viszik a főtérhez és a Dómhoz, így alig lesz vizes. A délután a Memento Mori múzeumban a nap legszárazabb része. A Duna-partot rövid buszozással érheti el, ami ideális a kilátás élvezetéhez a záporok között.",
+            "ro": "Folosiți autobuzul și trenul pentru a explora Vác pe ploaie. De la gară ajungeți rapid la Poarta de Piatră. Autobuzele vă lasă aproape de piața centrală și Catedrală, deci nu vă veți uda. După-amiaza la muzeul Memento Mori este cea mai uscată parte a zilei. Faleza Dunării este accesibilă cu o scurtă călătorie cu autobuzul, ideală pentru a vedea peisajul între averse.",
+            "en": "Use bus and train to explore Vác even in the rain. From the station, you can quickly reach the Stone Gate. Buses take you close to the main square and the Cathedral, so you'll hardly get wet. The afternoon at the Memento Mori museum is the driest part of the day. Reach the Danube promenade with a short bus ride, ideal for enjoying the view between showers."
+          },
+          "stops": [
+            {
+              "name": "Vác Railway Station",
+              "tip_5lang": {
+                "de": "Die Wartehalle bietet Schutz vor Wind und Wetter.",
+                "hu": "A váróterem védelmet nyújt a szél és az időjárás ellen.",
+                "ro": "Sala de așteptare oferă protecție împotriva vântului și vremii.",
+                "en": "The waiting hall offers protection from wind and weather."
+              }
+            },
+            {
+              "name": "Triumphal Arch (Stone Gate)",
+              "tip_5lang": {
+                "de": "In der Nähe gibt es überdachte Bushaltestellen.",
+                "hu": "A közelben fedett buszmegállók találhatók.",
+                "ro": "În apropiere există stații de autobuz acoperite.",
+                "en": "There are covered bus stops nearby."
+              }
+            },
+            {
+              "name": "March 15th Square (Bus Stop)",
+              "tip_5lang": {
+                "de": "Nur ein kurzer Sprint bis zu den Arkaden des Hauptplatzes.",
+                "hu": "Csak egy rövid vágta a főtér árkádjaiig.",
+                "ro": "Doar un sprint scurt până la arcadele pieței centrale.",
+                "en": "Just a short dash to the arcades of the main square."
+              }
+            },
+            {
+              "name": "Vác Cathedral",
+              "tip_5lang": {
+                "de": "Ein kurzer Fußweg von der Haltestelle im Trockenen.",
+                "hu": "Rövid séta a megállótól fedett részen.",
+                "ro": "O scurtă plimbare de la stație la adăpost.",
+                "en": "A short walk from the stop while staying mostly dry."
+              }
+            },
+            {
+              "name": "Memento Mori",
+              "tip_5lang": {
+                "de": "Perfekt gelegen, um den Regen im Museum zu verbringen.",
+                "hu": "Tökéletes helyszín az eső elől a múzeumba menekülni.",
+                "ro": "Locație perfectă pentru a petrece timpul ploios în muzeu.",
+                "en": "Perfectly located to spend the rainy hours in the museum."
+              }
+            },
+            {
+              "name": "Danube Promenade",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Fahrplan für die Rückfahrt, um nicht im Regen zu warten.",
+                "hu": "Ellenőrizze a menetrendet, hogy ne kelljen esőben várnia.",
+                "ro": "Verificați mersul autobuzelor pentru a nu aștepta în ploaie.",
+                "en": "Check the timetable for the return trip to avoid waiting in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Laden Sie eine Fahrplan-App für Echtzeit-Infos herunter.",
+              "Kaufen Sie Tickets nach Möglichkeit vorab digital.",
+              "Halten Sie Kleingeld für Busfahrer bereit, falls nötig.",
+              "Die Busse verkehren im Stadtzentrum recht häufig.",
+              "Bahnhöfe haben oft die besten Unterstände bei Gewitter."
+            ],
+            "hu": [
+              "Töltsön le egy menetrendi alkalmazást a valós idejű infókért.",
+              "Lehetőség szerint vegye meg a jegyeket előre digitálisan.",
+              "Tartson kéznél aprópénzt a buszvezetőnek, ha szükséges.",
+              "A buszok a városközpontban elég gyakran járnak.",
+              "A vasútállomásokon vannak a legjobb menedékek vihar esetén."
+            ],
+            "ro": [
+              "Descărcați o aplicație cu mersul autobuzelor pentru info în timp real.",
+              "Dacă e posibil, cumpărați biletele digital în avans.",
+              "Aveți la îndemână mărunțiș pentru șoferul de autobuz, dacă e necesar.",
+              "Autobuzele circulă destul de frecvent în centrul orașului.",
+              "Gările au adesea cele mai bune adăposturi în caz de furtună."
+            ],
+            "en": [
+              "Download a transit app for real-time schedule information.",
+              "Buy tickets digitally in advance whenever possible.",
+              "Keep some change ready for bus drivers if needed.",
+              "Buses in the city center run fairly frequently.",
+              "Railway stations often have the best shelters during heavy rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterreisen mit dem ÖPNV in Vác sind komfortabel und warm. Vom beheizten Bahnhof erreichen Sie das Steinerne Tor. Die Busse bieten eine angenehme Pause zwischen den Besichtigungen des Doms und des Hauptplatzes. Der Nachmittag im Memento Mori Museum ist ein kulturelles Highlight im Warmen. Wenn es früh dunkel wird, bringen Sie die beleuchteten Busse sicher zurück zum Bahnhof, von wo aus die Züge regelmäßig fahren.",
+            "hu": "A téli utazás tömegközlekedéssel Vácon kényelmes és meleg. A fűtött vasútállomástól könnyen eléri a Kőkaput. A buszok kellemes pihenőt nyújtanak a Székesegyház és a főtér megtekintése között. A délután a Memento Mori múzeumban egy kulturális fénypont a melegben. Amikor korán sötétedik, a kivilágított buszok biztonságban visszaviszik az állomásra, ahonnan a vonatok rendszeresen indulnak.",
+            "ro": "Călătoria de iarnă cu transportul public în Vác este confortabilă și călduroasă. De la gara încălzită ajungeți ușor la Poarta de Piatră. Autobuzele oferă o pauză plăcută între vizitarea Catedralei și a pieței centrale. După-amiaza la muzeul Memento Mori este un punct culminant cultural la căldură. Când se întunecă devreme, autobuzele luminate vă duc în siguranță înapoi la gară, de unde trenurile pleacă regulat.",
+            "en": "Winter travel by public transit in Vác is comfortable and warm. From the heated railway station, you can easily reach the Stone Gate. Buses provide a pleasant break between visiting the Cathedral and the main square. The afternoon at the Memento Mori museum is a cultural highlight in the warmth. As it gets dark early, the illuminated buses take you safely back to the station, from where trains run regularly."
+          },
+          "stops": [
+            {
+              "name": "Vác Railway Station",
+              "tip_5lang": {
+                "de": "Warten Sie im beheizten Innenbereich auf Ihren Zug.",
+                "hu": "Várjon a fűtött belső térben a vonatára.",
+                "ro": "Așteptați trenul în zona interioară încălzită.",
+                "en": "Wait for your train in the heated indoor area."
+              }
+            },
+            {
+              "name": "Triumphal Arch (Stone Gate)",
+              "tip_5lang": {
+                "de": "Die Busfahrt dorthin hält Sie warm.",
+                "hu": "A buszos utazás melegen tartja Önt.",
+                "ro": "Călătoria cu autobuzul vă ține de cald.",
+                "en": "The bus ride there keeps you warm."
+              }
+            },
+            {
+              "name": "March 15th Square (Bus Stop)",
+              "tip_5lang": {
+                "de": "Suchen Sie direkt nach der Ankunft ein warmes Café.",
+                "hu": "Érkezés után azonnal keressen egy meleg kávézót.",
+                "ro": "Căutați o cafenea caldă imediat după sosire.",
+                "en": "Find a warm cafe immediately upon arrival."
+              }
+            },
+            {
+              "name": "Vác Cathedral",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die verschneite Kuppel.",
+                "hu": "Élvezze a kilátást a havas kupolára.",
+                "ro": "Bucurați-vă de vederea cupolei înzăpezite.",
+                "en": "Enjoy the view of the snowy dome."
+              }
+            },
+            {
+              "name": "Memento Mori",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit drinnen, um sich aufzuwärmen.",
+                "hu": "Használja ki a benti időt a bemelegedésre.",
+                "ro": "Profitați de timpul petrecut în interior pentru a vă încălzi.",
+                "en": "Use the time indoors to warm up."
+              }
+            },
+            {
+              "name": "Danube Promenade",
+              "tip_5lang": {
+                "de": "Gehen Sie zügig zur nächsten Haltestelle zurück.",
+                "hu": "Sétáljon tempósan vissza a legközelebbi megállóhoz.",
+                "ro": "Mergeți vioi înapoi la cea mai apropiată stație.",
+                "en": "Walk briskly back to the nearest bus stop."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Züge zwischen Budapest und Vác fahren alle 30 Minuten.",
+              "Wartezeiten an Haltestellen sollten im Winter minimiert werden.",
+              "Achten Sie auf eventuelle Winterfahrpläne mit Änderungen.",
+              "Im Bahnhof gibt es oft warme Snacks und Getränke.",
+              "Busse können bei starkem Schneefall Verspätungen haben."
+            ],
+            "hu": [
+              "A vonatok Budapest és Vác között 30 percenként járnak.",
+              "Télen minimalizálja a várakozási időt a megállókban.",
+              "Ügyeljen az esetleges téli menetrendi módosításokra.",
+              "A vasútállomáson gyakran kapható meleg étel és ital.",
+              "Erős havazás esetén a buszok késhetnek."
+            ],
+            "ro": [
+              "Trenurile între Budapesta și Vác circulă la fiecare 30 de minute.",
+              "Timpul de așteptare în stații ar trebui minimizat iarna.",
+              "Atenție la eventualele modificări ale mersului de iarnă.",
+              "În gară se găsesc adesea gustări și băuturi calde.",
+              "Autobuzele pot avea întârzieri în caz de ninsoare abundentă."
+            ],
+            "en": [
+              "Trains between Budapest and Vác run every 30 minutes.",
+              "Minimize waiting times at bus stops during winter months.",
+              "Check for any seasonal winter schedule adjustments.",
+              "Railway stations often offer warm snacks and drinks.",
+              "Buses may experience delays during heavy snowfall."
+            ]
+          }
+        }
       }
     }
   }

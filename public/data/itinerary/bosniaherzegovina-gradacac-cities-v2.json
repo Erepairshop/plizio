@@ -356,6 +356,196 @@
           "Respect local customs, especially when visiting religious sites.",
           "Plan time for a coffee break, Bosnian coffee culture is an experience."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt an der Festung, wo der Regen die alten Mauern in ein mystisches Grau taucht. Mittags bietet die Huseinija-Moschee einen trockenen Rückzugsort für Besinnung. Am Nachmittag führt der Weg zum Hazna-See, dessen Ufer im Nebel liegen, bevor man den Tag im Kulturzentrum bei einer Indoor-Veranstaltung ausklingen lässt. Ein Tag voller Melancholie und Geschichte.",
+            "hu": "A reggel a várban kezdődik, ahol az eső misztikus szürkeségbe öltözteti a falakat. Délben a Huseinija-mecset nyújt száraz menedéket a csendes szemlélődéshez. Délután a ködös Hazna-tó partján sétálunk, majd a napot a Kulturális Központ fedett falai között zárjuk. Az esős idő ellenére a város történelmi magja és kulturális élete magával ragadó marad.",
+            "ro": "Dimineața începe la cetate, unde ploaia îmbracă zidurile vechi într-un gri mistic. La prânz, Moscheea Huseinija oferă un refugiu uscat pentru reflecție. După-amiaza, drumul duce spre lacul Hazna, ale cărui maluri sunt învăluite în ceață, înainte de a încheia ziua la Centrul Cultural. O zi plină de melancolie și istorie, protejată de acoperișurile primitoare ale orașului.",
+            "en": "The morning begins at the fortress, where the rain bathes the old walls in a mystic gray. At noon, the Huseinija Mosque provides a dry retreat for quiet reflection. In the afternoon, walk along the misty shores of Hazna Lake before ending the day inside the Cultural Center for an indoor event. Despite the rain, the city's historic core and cultural life remain captivating and accessible."
+          },
+          "stops": [
+            {
+              "name": "Fortress of Gradačac",
+              "tip_5lang": {
+                "de": "Vorsicht auf den nassen Steinen der Festungsmauern, Rutschgefahr.",
+                "hu": "Vigyázat, a várfalak nedves kövei csúszósak lehetnek esőben.",
+                "ro": "Atenție la pietrele umede ale zidurilor cetății, risc de alunecare.",
+                "en": "Careful on the wet stones of the fortress walls; they can be slippery."
+              }
+            },
+            {
+              "name": "Clock Tower of Gradačac",
+              "tip_5lang": {
+                "de": "Ein kurzes Foto unter dem Regenschirm, bevor es ins Trockene geht.",
+                "hu": "Egy gyors fotó az esernyő alól, mielőtt fedett helyre vonulnánk.",
+                "ro": "O fotografie rapidă sub umbrelă înainte de a merge la adăpost.",
+                "en": "A quick photo from under the umbrella before heading to shelter."
+              }
+            },
+            {
+              "name": "Huseinija Mosque",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich, um den Schirm zu trocknen.",
+                "hu": "Használja a fedett bejáratot az esernyő megszárításához.",
+                "ro": "Folosiți intrarea acoperită pentru a usca umbrela.",
+                "en": "Use the covered entrance area to dry your umbrella."
+              }
+            },
+            {
+              "name": "Husein-kapetan's House",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Innenräume, um dem Regen für eine Stunde zu entkommen.",
+                "hu": "Látogasson el a belső terekbe, hogy egy órára megmeneküljön az esőtől.",
+                "ro": "Vizitați interioarele pentru a scăpa de ploaie timp de o oră.",
+                "en": "Visit the interiors to escape the rain for an hour."
+              }
+            },
+            {
+              "name": "Hazna Lake",
+              "tip_5lang": {
+                "de": "Die Cafés am Seeufer bieten einen tollen Blick auf das Wasser im Regen.",
+                "hu": "A tóparti kávézók remek kilátást nyújtanak az esős víztükörre.",
+                "ro": "Cafenelele de pe mal oferă o priveliște minunată spre lac sub ploaie.",
+                "en": "Lakeside cafes offer a great view of the water during the rain."
+              }
+            },
+            {
+              "name": "Gradačac Cultural Center",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um den Tag gemütlich im Trockenen zu beenden.",
+                "hu": "Tökéletes hely a nap száraz és kényelmes befejezéséhez.",
+                "ro": "Locul perfect pentru a încheia ziua confortabil, la adăpost.",
+                "en": "Perfect place to end the day comfortably in the dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für die Kopfsteinpflastergassen.",
+              "Die Festungsanlage ist exponiert, ein stabiler Schirm ist wichtig.",
+              "Nutzen Sie die Cafés in der Nähe der Moschee für trockene Pausen.",
+              "Das Kulturzentrum bietet oft Abendprogramme an Regentagen.",
+              "Planen Sie etwas mehr Zeit für die Fußwege bei Nässe ein."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a macskaköves utcákhoz.",
+              "A vár területe szeles lehet, vigyen strapabíró esernyőt.",
+              "A mecset környéki kávézók kiválóak eső elleni pihenőkhöz.",
+              "A Kulturális Központ gyakran kínál esti programokat esős napokon.",
+              "Számoljon kicsit több idővel a gyalogláshoz a csúszós utak miatt."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru străzile cu piatră cubică.",
+              "Zona cetății este expusă, o umbrelă rezistentă este esențială.",
+              "Folosiți cafenelele de lângă moschee pentru pauze la uscat.",
+              "Centrul Cultural oferă adesea programe de seară în zilele ploioase.",
+              "Alocați mai mult timp pentru deplasarea pe jos când este ud pe jos."
+            ],
+            "en": [
+              "Wear waterproof shoes for the cobblestone streets.",
+              "The fortress area is exposed; a sturdy umbrella is essential.",
+              "Use the cafes near the mosque for dry breaks.",
+              "The Cultural Center often hosts evening programs on rainy days.",
+              "Allow a bit more time for walking when surfaces are wet."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die frostige Morgenluft an der Festung macht die Aussicht besonders klar. Mittags wärmt man sich in der Nähe des Uhrturms auf, bevor man die winterliche Ruhe an der Huseinija-Moschee genießt. Da die Sonne früh untergeht, erreicht man den Hazna-See zur blauen Stunde. Der Abend gehört der Wärme des Kulturzentrums, während draußen die Kälte regiert.",
+            "hu": "A vár fagyos reggeli levegője különösen tisztává teszi a kilátást. Délben a torony környékén melegedünk fel, majd élvezzük a téli nyugalmat a mecsetnél. Mivel a nap korán nyugszik, a Hazna-tóhoz már a kék órában érkezünk. Az este a Kulturális Központ melegéé, miközben odakint átveszi az uralmat a téli hideg.",
+            "ro": "Aerul înghețat al dimineții la cetate face priveliștea deosebit de clară. La prânz, ne încălzim lângă turnul cu ceas, apoi ne bucurăm de liniștea iernii la moschee. Deoarece soarele apune devreme, ajungem la lacul Hazna în ora albastră. Seara aparține căldurii Centrului Cultural, în timp ce afară domnește frigul.",
+            "en": "The frosty morning air at the fortress makes the views exceptionally clear. At noon, warm up near the Clock Tower before enjoying the winter silence at the mosque. Since the sun sets early, you'll reach Hazna Lake during the blue hour. The evening is dedicated to the warmth of the Cultural Center while the cold takes over outside."
+          },
+          "stops": [
+            {
+              "name": "Fortress of Gradačac",
+              "tip_5lang": {
+                "de": "Warme Handschuhe sind nötig für das Fotografieren auf den Mauern.",
+                "hu": "Meleg kesztyű szükséges a várfalakon való fotózáshoz.",
+                "ro": "Mănușile călduroase sunt necesare pentru poze pe ziduri.",
+                "en": "Warm gloves are necessary for taking photos on the walls."
+              }
+            },
+            {
+              "name": "Clock Tower of Gradačac",
+              "tip_5lang": {
+                "de": "Suchen Sie ein nahegelegenes Café für ein warmes Getränk.",
+                "hu": "Keressen egy közeli kávézót egy forró italhoz.",
+                "ro": "Căutați o cafenea în apropiere pentru o băutură caldă.",
+                "en": "Look for a nearby cafe for a warm drink."
+              }
+            },
+            {
+              "name": "Huseinija Mosque",
+              "tip_5lang": {
+                "de": "Innen ist es oft kühler als erwartet, behalten Sie den Mantel an.",
+                "hu": "Bent gyakran hűvösebb van a vártnál, tartsa magán a kabátot.",
+                "ro": "În interior este adesea mai răcoare decât vă așteptați, păstrați haina.",
+                "en": "It is often cooler inside than expected; keep your coat on."
+              }
+            },
+            {
+              "name": "Husein-kapetan's House",
+              "tip_5lang": {
+                "de": "Ein historischer Ort, der im Winter eine besondere Atmosphäre hat.",
+                "hu": "Történelmi helyszín, amely télen különleges hangulattal bír.",
+                "ro": "Un loc istoric care iarna are o atmosferă deosebită.",
+                "en": "A historic site that has a special atmosphere in winter."
+              }
+            },
+            {
+              "name": "Hazna Lake",
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang am See ist im Winter gegen 16:30 Uhr.",
+                "hu": "A naplemente a tónál télen 16:30 körül várható.",
+                "ro": "Apusul la lac este în jur de ora 16:30 iarna.",
+                "en": "Sunset at the lake is around 16:30 in winter."
+              }
+            },
+            {
+              "name": "Gradačac Cultural Center",
+              "tip_5lang": {
+                "de": "Genießen Sie die beheizten Räume und das kulturelle Programm.",
+                "hu": "Élvezze a fűtött tereket és a kulturális programokat.",
+                "ro": "Bucurați-vă de spațiile încălzite și de programul cultural.",
+                "en": "Enjoy the heated rooms and the cultural program."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ziehen Sie sich in Schichten an, da es in historischen Gebäuden zieht.",
+              "Die Sonne verschwindet früh hinter den Hügeln, planen Sie Tageslicht ein.",
+              "Feste Sohlen sind wichtig bei möglichem Bodenfrost.",
+              "Heiße Schokolade oder Tee in der Altstadt sind ein Muss.",
+              "Das Tageslicht endet gegen 17:00 Uhr, planen Sie entsprechend."
+            ],
+            "hu": [
+              "Öltözzön rétegesen, mert a történelmi épületek huzatosak lehetnek.",
+              "A nap korán eltűnik a dombok mögött, tervezzen a fénnyel.",
+              "A vastag talpú cipő fontos az esetleges talajmenti fagy miatt.",
+              "Egy forró tea az óvárosban elengedhetetlen a felmelegedéshez.",
+              "A nappali világosság 17:00 körül véget ér, eszerint tervezzen."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi, deoarece în clădirile istorice este curent.",
+              "Soarele dispare devreme după dealuri, planificați lumina zilei.",
+              "Tălpile groase sunt importante în caz de îngheț la sol.",
+              "O ciocolată caldă sau un ceai în centrul vechi este obligatoriu.",
+              "Lumina zilei se termină în jur de ora 17:00, planificați corespunzător."
+            ],
+            "en": [
+              "Dress in layers as historical buildings can be drafty.",
+              "The sun disappears early behind the hills; plan for daylight.",
+              "Sturdy soles are important for potential ground frost.",
+              "Hot chocolate or tea in the old town is a must for warming up.",
+              "Daylight ends around 17:00; plan your schedule accordingly."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -729,6 +919,214 @@
           "The route to the lakes can have some inclines, be prepared.",
           "A helmet is highly recommended."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine nasse Radtour durch die Geschichte. Vormittags erkunden wir die Festung und das Zentrum unter dem Regenschutz. Mittags führt die Fahrt zum Hazna-See und weiter zum Vidara-See, wo die Natur im Regen besonders intensiv riecht. Das Highlight ist der Besuch des Ilidža-Heilbads am späten Nachmittag, um die Glieder im warmen Wasser zu entspannen, bevor wir zum Husein-kapetan-Haus zurückkehren.",
+            "hu": "Vizes kerékpártúra a történelem nyomában. Délelőtt a várat és a központot fedezzük fel esővédőben. Délben a Hazna-tóhoz, majd a Vidara-tóhoz tekerünk, ahol az eső illata felerősíti a természet élményét. A nap fénypontja a késő délutáni látogatás az Ilidža gyógyfürdőbe, ahol a meleg víz ellazítja tagjainkat, mielőtt visszatérnénk a Husein-kapitány házhoz.",
+            "ro": "O tură cu bicicleta pe ploaie prin istorie. Dimineața explorăm cetatea și centrul sub protecție. La prânz, drumul duce spre lacul Hazna și mai departe spre lacul Vidara, unde natura miroase intens în ploaie. Punctul culminant este vizita la băile Ilidža după-amiaza târziu, pentru a relaxa mușchii în apa caldă înainte de a reveni la casa lui Husein-kapetan.",
+            "en": "A wet bike tour through history. In the morning, explore the fortress and center under rain protection. At noon, ride to Hazna Lake and then Vidara Lake, where the scent of nature is intensified by the rain. The highlight is the late afternoon visit to Ilidža Spa to relax your limbs in warm water before returning to Husein-kapetan's House."
+          },
+          "stops": [
+            {
+              "name": "Fortress of Gradačac",
+              "tip_5lang": {
+                "de": "Parken Sie das Rad sicher, bevor Sie die rutschigen Wälle besteigen.",
+                "hu": "Parkolja le biztonságosan a biciklit, mielőtt a csúszós falakra menne.",
+                "ro": "Parcați bicicleta în siguranță înainte de a urca pe zidurile alunecoase.",
+                "en": "Park your bike safely before climbing the slippery ramparts."
+              }
+            },
+            {
+              "name": "Huseinija Mosque & Clock Tower",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem Pflaster um die Moschee bei Nässe.",
+                "hu": "Vigyázat, a mecset körüli kövezet nedvesen csúszik.",
+                "ro": "Atenție la pavajul din jurul moscheii când este ud.",
+                "en": "Be careful on the pavement around the mosque when wet."
+              }
+            },
+            {
+              "name": "Gradačac Cultural Center",
+              "tip_5lang": {
+                "de": "Kurze Pause im Trockenen, um die Kleidung zu richten.",
+                "hu": "Rövid pihenő fedett helyen, hogy rendbe szedje ruházatát.",
+                "ro": "Scurtă pauză la uscat pentru a vă aranja hainele.",
+                "en": "Short break in the dry to adjust your gear."
+              }
+            },
+            {
+              "name": "Hazna Lake",
+              "tip_5lang": {
+                "de": "Schutzbleche am Fahrrad sind bei der Fahrt um den See unerlässlich.",
+                "hu": "A sárvédő elengedhetetlen a tó körüli tekeréshez.",
+                "ro": "Aripile la bicicletă sunt esențiale pentru plimbarea în jurul lacului.",
+                "en": "Mudguards on your bike are essential for riding around the lake."
+              }
+            },
+            {
+              "name": "Vidara Lake",
+              "tip_5lang": {
+                "de": "Die Wege können matschig sein, fahren Sie vorsichtig.",
+                "hu": "Az utak sárosak lehetnek, tekerjen óvatosan.",
+                "ro": "Drumurile pot fi noroioase, pedalați cu atenție.",
+                "en": "Paths can be muddy; ride carefully."
+              }
+            },
+            {
+              "name": "Ilidža Spa",
+              "tip_5lang": {
+                "de": "Beste Belohnung nach einer nassen Tour: das Thermalwasser.",
+                "hu": "A legjobb jutalom egy vizes túra után: a termálvíz.",
+                "ro": "Cea mai bună recompensă după o tură udă: apa termală.",
+                "en": "The best reward after a wet ride: the thermal water."
+              }
+            },
+            {
+              "name": "Husein-kapetan's House",
+              "tip_5lang": {
+                "de": "Abschlussfoto vor der historischen Kulisse im Regen.",
+                "hu": "Zárófotó a történelmi háttér előtt az esőben.",
+                "ro": "Fotografie finală în fața decorului istoric pe ploaie.",
+                "en": "Final photo in front of the historic backdrop in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vollständige Regenbekleidung inklusive Überschuhen wird empfohlen.",
+              "Vermeiden Sie scharfes Bremsen auf den nassen Straßen.",
+              "Prüfen Sie Ihre Lichter, da die Sicht bei Regen eingeschränkt ist.",
+              "Das Ilidža-Bad bietet Schließfächer für Ihre Ausrüstung.",
+              "Reinigen Sie die Kette nach der Tour vom Straßenschmutz."
+            ],
+            "hu": [
+              "Teljes esőruházat és kamásli használata javasolt.",
+              "Kerülje az erős fékezést a nedves utakon.",
+              "Ellenőrizze a lámpákat, mert esőben rosszabbak a látási viszonyok.",
+              "Az Ilidža fürdőben vannak zárható szekrények a felszerelésnek.",
+              "A túra után tisztítsa meg a láncot az utcai sártól."
+            ],
+            "ro": [
+              "Se recomandă echipament complet de ploaie, inclusiv protecții încălțăminte.",
+              "Evitați frânările bruște pe drumurile umede.",
+              "Verificați luminile, vizibilitatea este redusă pe ploaie.",
+              "Băile Ilidža oferă dulapuri pentru echipamentul dumneavoastră.",
+              "Curățați lanțul după tură pentru a îndepărta murdăria de pe drum."
+            ],
+            "en": [
+              "Full rain gear including shoe covers is highly recommended.",
+              "Avoid sudden braking on wet roads.",
+              "Check your lights as visibility is reduced in the rain.",
+              "Ilidža Spa provides lockers for your biking gear.",
+              "Clean your chain after the ride to remove road grime."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Herausforderung auf zwei Rädern. Wir starten an der Festung und nutzen die klaren Morgenstunden. Über das Zentrum geht es zu den Seen Hazna und Vidara, wo die Winterlandschaft eine stille Magie ausstrahlt. Das Highlight ist das heiße Ilidža-Heilbad, das nach der kalten Fahrt wahre Wunder wirkt. Den Tag beenden wir bei Sonnenuntergang am Husein-kapetan-Haus.",
+            "hu": "Téli kihívás két keréken. A várnál kezdünk, kihasználva a tiszta reggeli órákat. A központon át a Hazna és Vidara tavakhoz tekerünk, ahol a téli táj csendes varázst áraszt. A nap fénypontja a forró Ilidža gyógyfürdő, amely csodákat tesz a hideg tekerés után. A napot naplementekor a Husein-kapitány háznál zárjuk.",
+            "ro": "O provocare de iarnă pe două roți. Începem la cetate și profităm de orele clare ale dimineții. Prin centru mergem spre lacurile Hazna și Vidara, unde peisajul de iarnă emană o magie tăcută. Punctul culminant este baia fierbinte de la Ilidža, care face minuni după drumul rece. Încheiem ziua la apus lângă casa lui Husein-kapetan.",
+            "en": "A winter challenge on two wheels. We start at the fortress, taking advantage of the clear morning hours. Through the center, ride to Hazna and Vidara lakes, where the winter landscape exudes a silent magic. The highlight is the hot Ilidža Spa, which works wonders after the cold ride. We end the day at sunset at Husein-kapetan's House."
+          },
+          "stops": [
+            {
+              "name": "Fortress of Gradačac",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf den Auffahrten zur Festung.",
+                "hu": "Ügyeljen a jegesedésre a vár felé vezető emelkedőkön.",
+                "ro": "Atenție la polei pe rampele de acces spre cetate.",
+                "en": "Watch out for black ice on the ramps leading to the fortress."
+              }
+            },
+            {
+              "name": "Huseinija Mosque & Clock Tower",
+              "tip_5lang": {
+                "de": "Kurzer Stopp für Fotos, halten Sie den Körper in Bewegung.",
+                "hu": "Rövid megálló fotózásra, tartsa mozgásban a testét.",
+                "ro": "Scurtă oprire pentru poze, mențineți corpul în mișcare.",
+                "en": "Short stop for photos; keep your body moving to stay warm."
+              }
+            },
+            {
+              "name": "Gradačac Cultural Center",
+              "tip_5lang": {
+                "de": "Ein guter Ort zum Aufwärmen auf halber Strecke.",
+                "hu": "Jó hely a felmelegedéshez a táv felénél.",
+                "ro": "Un loc bun pentru încălzire la jumătatea drumului.",
+                "en": "A good place to warm up halfway through the trip."
+              }
+            },
+            {
+              "name": "Hazna Lake",
+              "tip_5lang": {
+                "de": "Kalte Winde am Seeufer erfordern winddichte Kleidung.",
+                "hu": "A tóparti hideg szél szélálló ruházatot igényel.",
+                "ro": "Vânturile reci de pe malul lacului necesită haine rezistente la vânt.",
+                "en": "Cold winds by the lake require windproof clothing."
+              }
+            },
+            {
+              "name": "Vidara Lake",
+              "tip_5lang": {
+                "de": "Der Weg zum Vidara-See kann im Winter einsam und frostig sein.",
+                "hu": "A Vidara-tóhoz vezető út télen magányos és fagyos lehet.",
+                "ro": "Drumul spre lacul Vidara poate fi pustiu și înghețat iarna.",
+                "en": "The path to Vidara Lake can be lonely and frosty in winter."
+              }
+            },
+            {
+              "name": "Ilidža Spa",
+              "tip_5lang": {
+                "de": "Der Kontrast zwischen Kälte draußen und Thermalwärme ist fantastisch.",
+                "hu": "A kinti hideg és a benti meleg kontrasztja fantasztikus.",
+                "ro": "Contrastul dintre frigul de afară și căldura termală este fantastic.",
+                "en": "The contrast between the cold outside and thermal warmth is fantastic."
+              }
+            },
+            {
+              "name": "Husein-kapetan's House",
+              "tip_5lang": {
+                "de": "Schnelles Abschlussbild, bevor das Licht komplett schwindet.",
+                "hu": "Gyors zárókép, mielőtt a fény teljesen elfogy.",
+                "ro": "Poza finală rapidă înainte ca lumina să dispară complet.",
+                "en": "Quick final photo before the light fades completely."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie isolierte Handschuhe und Winterschuhe.",
+              "Der Akku Ihres E-Bikes hält bei Kälte deutlich kürzer.",
+              "Vermeiden Sie Fahrten nach Sonnenuntergang (Glatteisgefahr).",
+              "Trinken Sie auch bei Kälte genug, am besten warme Iso-Getränke.",
+              "Die Ilidža-Therme ist der perfekte Endpunkt zum Auftauen."
+            ],
+            "hu": [
+              "Viseljen hőszigetelt kesztyűt és téli biciklis cipőt.",
+              "Az e-bike akkumulátora sokkal gyorsabban merül hidegben.",
+              "Kerülje a naplemente utáni tekerést a jegesedés veszélye miatt.",
+              "Hidegben is igyon eleget, lehetőleg meleg izotóniás italt.",
+              "Az Ilidža gyógyfürdő a tökéletes hely a kiolvadáshoz."
+            ],
+            "ro": [
+              "Purtați mănuși izolate și încălțăminte de iarnă.",
+              "Bateria bicicletei electrice ține mult mai puțin la frig.",
+              "Evitați plimbările după apusul soarelui (risc de polei).",
+              "Beți suficiente lichide și la frig, de preferat băuturi izotonice calde.",
+              "Termele Ilidža sunt punctul final perfect pentru dezghețare."
+            ],
+            "en": [
+              "Wear insulated gloves and winter cycling shoes.",
+              "Your e-bike battery will last significantly less in the cold.",
+              "Avoid riding after sunset due to increased ice risk.",
+              "Drink enough even in the cold, ideally warm isotonic drinks.",
+              "Ilidža Spa is the perfect final destination for thawing out."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1108,6 +1506,214 @@
           "Plan enough time for the drives between clusters.",
           "Pay attention to speed limits, especially in rural areas."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Bequem durch den Regen in Gradačac. Vormittags besuchen wir die Festung und das Zentrum, wobei das Auto trockene Übergänge ermöglicht. Mittags genießen wir die Aussicht auf den Hazna-See direkt vom Parkplatz oder einem Ufercafé aus. Den Nachmittag verbringen wir im Ilidža-Heilbad, dem besten Ort für einen verregneten Tag, bevor wir entspannt den Rückweg antreten.",
+            "hu": "Kényelmesen az esős Gradačacban. Délelőtt a várat és a központot látogatjuk meg, az autó száraz átmenetet biztosít a helyszínek között. Délben a Hazna-tó látványát élvezzük a parkolóból vagy egy tóparti kávézóból. A délutánt az Ilidža gyógyfürdőben töltjük, amely a legjobb hely egy esős napon, majd kipihenten indulunk haza.",
+            "ro": "Confortabil prin ploaia din Gradačac. Dimineața vizităm cetatea și centrul, mașina oferind transferuri uscate. La prânz ne bucurăm de priveliștea lacului Hazna direct din parcare sau dintr-o cafenea de pe mal. După-amiaza o petrecem la băile Ilidža, cel mai bun loc pentru o zi ploioasă, înainte de a porni relaxați spre casă.",
+            "en": "Comfortably through rainy Gradačac. In the morning, visit the fortress and center, with the car providing dry transitions between sites. At noon, enjoy the view of Hazna Lake directly from the parking lot or a lakeside cafe. Spend the afternoon at Ilidža Spa, the best place for a rainy day, before driving back relaxed."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Historic Center (Parking)",
+              "tip_5lang": {
+                "de": "Zentraler Parkplatz, idealer Ausgangspunkt für kurze Sprints.",
+                "hu": "Központi parkoló, ideális kiindulópont a rövid sétákhoz.",
+                "ro": "Parcare centrală, punct de plecare ideal pentru scurte plimbări.",
+                "en": "Central parking, an ideal starting point for short dashes between sites."
+              }
+            },
+            {
+              "name": "Fortress of Gradačac",
+              "tip_5lang": {
+                "de": "Der Weg vom Parkplatz ist kurz, aber dennoch Schirm mitnehmen.",
+                "hu": "A parkolótól rövid az út, de vigyen esernyőt.",
+                "ro": "Drumul de la parcare este scurt, dar luați totuși umbrela.",
+                "en": "The walk from the parking lot is short, but still bring an umbrella."
+              }
+            },
+            {
+              "name": "Huseinija Mosque & Clock Tower",
+              "tip_5lang": {
+                "de": "Parken Sie direkt an der Straße für minimalen Regen-Kontakt.",
+                "hu": "Parkoljon közvetlenül az utcán a minimális eső-érintkezésért.",
+                "ro": "Parcați direct pe stradă pentru un contact minim cu ploaia.",
+                "en": "Park directly on the street for minimal exposure to rain."
+              }
+            },
+            {
+              "name": "Husein-kapetan's House",
+              "tip_5lang": {
+                "de": "Gute Wendemöglichkeiten in der Nähe des Hauses.",
+                "hu": "Jó megfordulási lehetőség a ház közelében.",
+                "ro": "Posibilități bune de întoarcere în apropierea casei.",
+                "en": "Good turnaround options near the house."
+              }
+            },
+            {
+              "name": "Cluster 2: Lakes and Nature (Drive)",
+              "tip_5lang": {
+                "de": "Genießen Sie die Fahrt durch die grüne, regnerische Landschaft.",
+                "hu": "Élvezze az autózást a zöld, esős tájon keresztül.",
+                "ro": "Bucurați-vă de drumul prin peisajul verde și plouat.",
+                "en": "Enjoy the drive through the lush, rainy landscape."
+              }
+            },
+            {
+              "name": "Hazna Lake",
+              "tip_5lang": {
+                "de": "Suchen Sie einen Parkplatz mit Seeblick für eine gemütliche Pause.",
+                "hu": "Keressen tóra néző parkolóhelyet egy kényelmes pihenőhöz.",
+                "ro": "Căutați un loc de parcare cu vedere la lac pentru o pauză plăcută.",
+                "en": "Look for a parking spot with a lake view for a cozy break."
+              }
+            },
+            {
+              "name": "Cluster 3: Ilidža Spa (Drive)",
+              "tip_5lang": {
+                "de": "Großer Parkplatz direkt am Eingang des Thermalbads.",
+                "hu": "Nagy parkoló közvetlenül a termálfürdő bejáratánál.",
+                "ro": "Parcare mare direct la intrarea băilor termale.",
+                "en": "Large parking lot directly at the spa entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Halten Sie einen Regenschirm im Auto griffbereit.",
+              "Achten Sie auf Pfützen in den tiefer gelegenen Straßen.",
+              "Die Parkplätze am See können bei starkem Regen matschig sein.",
+              "Nutzen Sie die Sitzheizung nach dem Besuch der Festung.",
+              "Das Ilidža-Bad ist perfekt, um den Regen draußen zu vergessen."
+            ],
+            "hu": [
+              "Tartson egy esernyőt kéznél az autóban.",
+              "Ügyeljen a tócsákra az alacsonyabban fekvő utcákban.",
+              "A tóparti parkolók heves esőzéskor sárosak lehetnek.",
+              "Használja az ülésfűtést a várnézés után.",
+              "Az Ilidža fürdő tökéletes, hogy elfelejtse a kinti esőt."
+            ],
+            "ro": [
+              "Țineți o umbrelă la îndemână în mașină.",
+              "Atenție la bălțile de pe străzile joase.",
+              "Parcările de la lac pot fi noroioase în caz de ploaie torențială.",
+              "Folosiți încălzirea în scaune după vizitarea cetății.",
+              "Băile Ilidža sunt perfecte pentru a uita de ploaia de afară."
+            ],
+            "en": [
+              "Keep an umbrella handy in the car.",
+              "Watch out for deep puddles in lower-lying streets.",
+              "Lakeside parking lots can get muddy during heavy rain.",
+              "Use seat heating after visiting the exposed fortress.",
+              "Ilidža Spa is the perfect place to forget the rain outside."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterzauber per Auto. Wir starten warm und gemütlich an der Festung und bewundern die frostige Aussicht. Das Zentrum mit dem Uhrturm ist nur einen kurzen Sprung entfernt. Die Fahrt zu den Seen Hazna und Vidara zeigt die schneebedeckten Hügel Bosniens. Der Nachmittag im Ilidža-Bad bietet den ultimativen Wärmeschub, bevor wir in der Dunkelheit sicher zurückfahren.",
+            "hu": "Téli varázslat autóval. Melegben és kényelemben kezdünk a várnál, megcsodálva a fagyos kilátást. A központ az óratoronnyal csak egy rövid ugrásra van. A Hazna és Vidara tavakhoz vezető út Bosznia hófödte dombjait mutatja be. A délután az Ilidža fürdőben nyújt tökéletes felmelegedést, mielőtt a sötétben biztonságban hazahajtanánk.",
+            "ro": "Magia iernii cu mașina. Începem cald și confortabil la cetate, admirând priveliștea înghețată. Centrul cu turnul cu ceas este la doar o aruncătură de băț. Drumul spre lacurile Hazna și Vidara dezvăluie dealurile înzăpezite ale Bosniei. După-amiaza la băile Ilidža oferă încălzirea supremă înainte de a conduce în siguranță pe întuneric.",
+            "en": "Winter magic by car. Start warm and cozy at the fortress, admiring the frosty views. The center with its Clock Tower is just a short hop away. The drive to Hazna and Vidara lakes showcases Bosnia's snow-covered hills. The afternoon at Ilidža Spa provides the ultimate warmth before safely driving back in the dark."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Historic Center (Parking)",
+              "tip_5lang": {
+                "de": "Vorsicht beim Einparken auf möglicherweise vereisten Plätzen.",
+                "hu": "Vigyázzon a parkoláskor az esetlegesen jeges helyeken.",
+                "ro": "Atenție la parcare în locurile care pot fi înghețate.",
+                "en": "Be careful when parking in potentially icy spots."
+              }
+            },
+            {
+              "name": "Fortress of Gradačac",
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor nicht unnötig im Stand laufen.",
+                "hu": "Ne járassa feleslegesen a motort álló helyzetben.",
+                "ro": "Nu lăsați motorul pornit inutil pe loc.",
+                "en": "Do not let the engine idle unnecessarily."
+              }
+            },
+            {
+              "name": "Huseinija Mosque & Clock Tower",
+              "tip_5lang": {
+                "de": "Kurze Gehwege reduzieren das Auskühlen.",
+                "hu": "A rövid gyalogutak csökkentik a lehűlést.",
+                "ro": "Drumurile scurte pe jos reduc răcirea corpului.",
+                "en": "Short walking distances help you stay warm."
+              }
+            },
+            {
+              "name": "Husein-kapetan's House",
+              "tip_5lang": {
+                "de": "Die Straßen hier können bei Frost tückisch sein.",
+                "hu": "Az utcák itt fagy esetén trükkösek lehetnek.",
+                "ro": "Străzile de aici pot fi înșelătoare în caz de îngheț.",
+                "en": "The streets here can be treacherous when frozen."
+              }
+            },
+            {
+              "name": "Cluster 2: Lakes and Nature (Drive)",
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihre Scheibenwaschanlage Frostschutz hat.",
+                "hu": "Győződjön meg róla, hogy a szélvédőmosó fagyálló.",
+                "ro": "Asigurați-vă că lichidul de parbriz are antigel.",
+                "en": "Ensure your windshield washer fluid is winter-ready."
+              }
+            },
+            {
+              "name": "Hazna Lake",
+              "tip_5lang": {
+                "de": "Wunderschöner Anblick des Sees in der Wintersonne.",
+                "hu": "Gyönyörű látvány a tó a téli napsütésben.",
+                "ro": "Vedere superbă a lacului în soarele de iarnă.",
+                "en": "Beautiful view of the lake in the winter sun."
+              }
+            },
+            {
+              "name": "Cluster 3: Ilidža Spa (Drive)",
+              "tip_5lang": {
+                "de": "Nach dem Bad ist das aufgeheizte Auto ein Segen.",
+                "hu": "Fürdés után az előmelegített autó áldás.",
+                "ro": "După baie, mașina încălzită este o binecuvântare.",
+                "en": "The pre-warmed car is a blessing after the spa visit."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen und eventuell Schneeketten sind in Bosnien Pflicht.",
+              "Prüfen Sie den Batteriestatus vor der Abfahrt.",
+              "Eiskratzer und Besen sollten immer dabei sein.",
+              "Die Straßen zu den Seen werden oft später geräumt.",
+              "Planen Sie die Rückfahrt vor Einbruch der extremen Kälte am Abend."
+            ],
+            "hu": [
+              "Téli gumi és hólánc kötelező Boszniában.",
+              "Indulás előtt ellenőrizze az akkumulátor állapotát.",
+              "Jégkaparó és kefe mindig legyen az autóban.",
+              "A tavakhoz vezető utakat gyakran később takarítják.",
+              "Tervezze meg a visszautat az esti extrém hideg beállta előtt."
+            ],
+            "ro": [
+              "Anvelopele de iarnă și eventual lanțurile sunt obligatorii în Bosnia.",
+              "Verificați starea bateriei înainte de plecare.",
+              "Răzuitoarea de gheață și peria nu trebuie să lipsească.",
+              "Drumurile spre lacuri sunt adesea deszăpezite mai târziu.",
+              "Planificați drumul de întoarcere înainte de lăsarea gerului de seară."
+            ],
+            "en": [
+              "Winter tires and potentially snow chains are mandatory in Bosnia.",
+              "Check your battery status before starting your journey.",
+              "Always carry an ice scraper and a snow brush.",
+              "Roads to the lakes might be cleared later than main roads.",
+              "Plan your return journey before extreme evening cold sets in."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1463,6 +2069,196 @@
           "Have small change ready for tickets.",
           "Be prepared to walk short distances between stops and attractions."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit Bus und Taxi trocken durch Gradačac. Vormittags nutzen wir den Nahverkehr zum historischen Zentrum. Die kurzen Wege zwischen Moschee und Festung überbrücken wir im Regen zügig. Mittags geht es mit dem Bus zum Hazna-See, wo wir in einem Café den Ausblick genießen. Der späte Nachmittag wird entspannt im Zentrum verbracht, bevor der Bus uns zurückbringt.",
+            "hu": "Busszal és taxival szárazon Gradačacban. Délelőtt a tömegközlekedést használjuk a történelmi központhoz. A mecset és a vár közötti rövid távokat gyorsan megtesszük az esőben. Délben busszal megyünk a Hazna-tóhoz, ahol egy kávézóban élvezzük a kilátást. A késő délutánt a központban töltjük pihenéssel, mielőtt a busz visszavinne.",
+            "ro": "Cu autobuzul și taxiul prin Gradačac fără a ne uda. Dimineața folosim transportul local spre centrul istoric. Parcurgem rapid distanțele scurte între moschee și cetate pe ploaie. La prânz mergem cu autobuzul la lacul Hazna, unde admirăm priveliștea dintr-o cafenea. După-amiaza târziu o petrecem în centru înainte ca autobuzul să ne ducă înapoi.",
+            "en": "Using buses and taxis to stay dry in Gradačac. In the morning, take local transit to the historic center. Quickly bridge the short distances between the mosque and fortress in the rain. At noon, take a bus to Hazna Lake and enjoy the view from a cafe. Spend the late afternoon relaxing in the center before taking the bus back."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Historic Center",
+              "tip_5lang": {
+                "de": "Warten Sie unter dem Vordach der Haltestelle auf den Anschluss.",
+                "hu": "Várjon a megálló előtetője alatt a csatlakozásra.",
+                "ro": "Așteptați sub copertina stației pentru legătură.",
+                "en": "Wait under the station's canopy for your connection."
+              }
+            },
+            {
+              "name": "Huseinija Mosque & Husein-kapetan's House",
+              "tip_5lang": {
+                "de": "Diese Stopps liegen nah beieinander, ideal für Regenpausen.",
+                "hu": "Ezek a megállók közel vannak egymáshoz, ideális esőben.",
+                "ro": "Aceste opriri sunt aproape una de alta, ideal pe ploaie.",
+                "en": "These stops are close to each other, ideal for rainy weather."
+              }
+            },
+            {
+              "name": "Fortress of Gradačac & Clock Tower",
+              "tip_5lang": {
+                "de": "Ein Taxi von der Moschee zur Festung kostet nur wenig und hält trocken.",
+                "hu": "Egy taxi a mecsettől a várig keveset kóstál és szárazon tart.",
+                "ro": "Un taxi de la moschee la cetate costă puțin și vă menține uscat.",
+                "en": "A taxi from the mosque to the fortress is cheap and keeps you dry."
+              }
+            },
+            {
+              "name": "Cluster 2: Lakes",
+              "tip_5lang": {
+                "de": "Informieren Sie sich vorab über die Rückfahrzeiten der Busse.",
+                "hu": "Tájékozódjon előre a buszok visszaindulási idejéről.",
+                "ro": "Informați-vă din timp despre orele de întoarcere ale autobuzelor.",
+                "en": "Check the bus return schedules in advance."
+              }
+            },
+            {
+              "name": "Hazna Lake",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist nur wenige Gehminuten vom See entfernt.",
+                "hu": "A megálló csak néhány perc sétára van a tótól.",
+                "ro": "Stația este la doar câteva minute de mers pe jos de lac.",
+                "en": "The stop is only a few minutes' walk from the lake."
+              }
+            },
+            {
+              "name": "Back to the Center",
+              "tip_5lang": {
+                "de": "Busse können bei Regen aufgrund des Verkehrs Verspätung haben.",
+                "hu": "Esőben a buszok késhetnek a nagyobb forgalom miatt.",
+                "ro": "Autobuzele pot avea întârzieri pe ploaie din cauza traficului.",
+                "en": "Buses may be delayed during rain due to traffic."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Haben Sie Kleingeld für die Bustickets bereit.",
+              "Die Wartehäuschen bieten Schutz, sind aber oft zugig.",
+              "Nutzen Sie lokale Taxi-Apps oder Nummern als Backup.",
+              "Busse zum Hazna-See fahren nicht sehr häufig, Plan checken.",
+              "Tragen Sie Kleidung, die in beheizten Bussen nicht zu warm ist."
+            ],
+            "hu": [
+              "Legyen kéznél aprópénz a buszjegyekhez.",
+              "A várótermi bódék védenek, de gyakran huzatosak.",
+              "Használjon helyi taxi alkalmazásokat vagy számokat tartalékként.",
+              "A Hazna-tóhoz menő buszok ritkábban járnak, ellenőrizze a tervet.",
+              "Viseljen olyan ruhát, ami a fűtött buszokon sem túl meleg."
+            ],
+            "ro": [
+              "Aveți pregătit mărunt pentru biletele de autobuz.",
+              "Adăposturile din stații oferă protecție, dar sunt adesea cu curent.",
+              "Folosiți aplicații locale de taxi sau numere de telefon ca rezervă.",
+              "Autobuzele spre lacul Hazna nu circulă foarte des, verificați planul.",
+              "Purtați haine care să nu fie prea călduroase în autobuzele încălzite."
+            ],
+            "en": [
+              "Have small change ready for bus tickets.",
+              "Bus shelters provide cover but can often be drafty.",
+              "Keep local taxi numbers or apps as a backup.",
+              "Buses to Hazna Lake are less frequent; check the schedule.",
+              "Wear layers that aren't too warm for heated buses."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Effizient durch den Winter in Gradačac. Mit dem Bus erreichen wir das historische Zentrum am Morgen. Wir verbringen viel Zeit in den Sehenswürdigkeiten und nutzen Taxis für kurze, kalte Wege. Mittags führt die Route zum Hazna-See, wo wir die Winterlandschaft bewundern, bevor wir uns in einem Café aufwärmen. Die Rückfahrt erfolgt, sobald es dunkel wird, zurück in die Wärme.",
+            "hu": "Hatékonyan a téli Gradačacban. Busszal érkezünk a történelmi központba reggel. Sok időt töltünk a látnivalókban, és taxit használunk a rövid, hideg szakaszokon. Délben az út a Hazna-tóhoz vezet, ahol megcsodáljuk a téli tájat, majd egy kávézóban melegszünk fel. A visszautat sötétedéskor tesszük meg, vissza a melegbe.",
+            "ro": "Eficient prin Gradačac iarna. Cu autobuzul ajungem în centrul istoric dimineața. Petrecem mult timp în obiectivele turistice și folosim taxiuri pentru distanțele scurte și reci. La prânz, ruta duce spre lacul Hazna, unde admirăm peisajul de iarnă înainte de a ne încălzi într-o cafenea. Întoarcerea are loc imediat ce se întunecă, înapoi la căldură.",
+            "en": "Efficiently through winter in Gradačac. Take the bus to the historic center in the morning. Spend plenty of time inside the attractions and use taxis for short, cold stretches. At noon, head to Hazna Lake to admire the winter landscape before warming up in a cafe. Head back as soon as it gets dark, returning to the warmth."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Historic Center",
+              "tip_5lang": {
+                "de": "Suchen Sie Wartebereiche im Inneren, wenn der Bus Verspätung hat.",
+                "hu": "Keressen benti váróhelyet, ha késik a busz.",
+                "ro": "Căutați zone de așteptare în interior dacă autobuzul întârzie.",
+                "en": "Look for indoor waiting areas if the bus is delayed."
+              }
+            },
+            {
+              "name": "Huseinija Mosque & Husein-kapetan's House",
+              "tip_5lang": {
+                "de": "Diese Orte bieten Schutz vor dem beißenden Winterwind.",
+                "hu": "Ezek a helyek védelmet nyújtanak a metsző téli szél ellen.",
+                "ro": "Aceste locuri oferă protecție împotriva vântului tăios de iarnă.",
+                "en": "These sites provide protection from the biting winter wind."
+              }
+            },
+            {
+              "name": "Fortress of Gradačac & Clock Tower",
+              "tip_5lang": {
+                "de": "Der Aufstieg zur Festung kann glatt sein, nutzen Sie den Bus.",
+                "hu": "A várba vezető út csúszós lehet, használja a buszt.",
+                "ro": "Urcarea spre cetate poate fi alunecoasă, folosiți autobuzul.",
+                "en": "The climb to the fortress can be slippery; use the bus if available."
+              }
+            },
+            {
+              "name": "Cluster 2: Lakes",
+              "tip_5lang": {
+                "de": "Winterfahrpläne können von den Sommerzeiten abweichen.",
+                "hu": "A téli menetrend eltérhet a nyáritól.",
+                "ro": "Orarele de iarnă pot diferi de cele de vară.",
+                "en": "Winter schedules may differ from summer ones."
+              }
+            },
+            {
+              "name": "Hazna Lake",
+              "tip_5lang": {
+                "de": "Kurzer Spaziergang am See, dann schnell zurück zum Bus.",
+                "hu": "Rövid séta a tónál, majd gyorsan vissza a buszhoz.",
+                "ro": "Scurtă plimbare la lac, apoi rapid înapoi la autobuz.",
+                "en": "Short walk by the lake, then quickly back to the bus stop."
+              }
+            },
+            {
+              "name": "Back to the Center",
+              "tip_5lang": {
+                "de": "Achten Sie auf die letzte Verbindung vor dem Abendfrost.",
+                "hu": "Ügyeljen az utolsó járatra az esti fagy előtt.",
+                "ro": "Atenție la ultima legătură înainte de gerul serii.",
+                "en": "Watch out for the last connection before the evening frost."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse sind im Winter gut beheizt, aber oft überfüllt.",
+              "Halten Sie sich an belebten Haltestellen auf, wenn es dunkel wird.",
+              "Taxifahrten sind im Winter eine sichere und warme Alternative.",
+              "Prüfen Sie Online-Fahrpläne, da gedruckte oft veraltet sind.",
+              "Tragen Sie warme Socken, da man an Haltestellen schnell auskühlt."
+            ],
+            "hu": [
+              "A buszok télen jól fűtöttek, de gyakran zsúfoltak.",
+              "Sötétedés után maradjon a forgalmasabb megállókban.",
+              "A taxizás télen biztonságos és meleg alternatíva.",
+              "Ellenőrizze az online menetrendet, a nyomtatott gyakran elavult.",
+              "Viseljen meleg zoknit, mert a megállókban gyorsan áthűl a lába."
+            ],
+            "ro": [
+              "Autobuzele sunt bine încălzite iarna, dar adesea aglomerate.",
+              "Stați în stații circulate odată cu lăsarea întunericului.",
+              "Călătoriile cu taxiul sunt o alternativă sigură și caldă iarna.",
+              "Verificați orarele online, cele tipărite sunt adesea învechite.",
+              "Purtați șosete groase, se răcește repede la picioare în stații."
+            ],
+            "en": [
+              "Buses are well-heated in winter but can be crowded.",
+              "Stay at well-lit, busy stops once it gets dark.",
+              "Taxi rides are a safe and warm alternative in winter.",
+              "Check online schedules as printed ones may be outdated.",
+              "Wear warm socks; your feet will cool down quickly while waiting."
+            ]
+          }
+        }
       }
     }
   }

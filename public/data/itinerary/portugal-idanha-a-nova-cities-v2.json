@@ -314,6 +314,170 @@
           "Bring water, especially for the climb to the castle.",
           "Plan for a long lunch to savor the local cuisine."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens erkunden wir den Pillory unter Regenschirmen. Die Mutterkirche bietet einen trockenen Rückzugsort voller Geschichte. Mittags steigen wir vorsichtig zum Schloss hinauf, da die Steine glatt sind. Nachmittags ist das Kulturzentrum Raiano der ideale Ort, um im Trockenen die lokale Musiktradition und das Handwerk der Adufe-Trommeln zu entdecken, bevor der Tag gemütlich ausklingt.",
+            "hu": "Reggel esernyők alatt csodáljuk meg a Pellengért. Az Anyatemplom csendes menedéket nyújt a zápor elől. Délben óvatosan kapaszkodunk fel a várhoz, mert a nedves macskakő csúszós lehet. A délutánt a Raiano Kulturális Központban töltjük, ahol szárazon ismerkedhetünk meg a helyi adufe dobokkal és a vidék hagyományaival, miközben kint kopog az eső a háztetőkön.",
+            "ro": "Dimineața explorăm stâlpul infamiei sub umbrele. Biserica Mamă oferă un refugiu uscat și plin de istorie. La prânz urcăm cu grijă spre castel, deoarece pietrele umede pot fi alunecoase. După-amiaza, Centrul Cultural Raiano este locul ideal pentru a descoperi tradiția tobelor adufe la adăpost de ploaie, încheind ziua într-o atmosferă caldă și culturală.",
+            "en": "Morning starts by the Pillory under umbrellas. The Mother Church provides a dry sanctuary for reflection. At midday, we climb to the Castle, taking care on the slippery wet stones. The afternoon is best spent at the Raiano Cultural Centre, where you can explore the local Adufe drum traditions safely away from the rain before finishing your walk in a cozy local cafe."
+          },
+          "stops": [
+            {
+              "name": "Pillory of Idanha-a-Nova",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem glatten Kopfsteinpflaster rund um die Säule.",
+                "hu": "Vigyázat, a pellengér körüli macskakő esőben nagyon csúszik.",
+                "ro": "Atenție la pavajul alunecos din jurul stâlpului infamiei.",
+                "en": "Be careful on the slippery limestone cobbles around the pillory."
+              }
+            },
+            {
+              "name": "Mother Church of Idanha-a-Nova",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit im Inneren, um Ihre Kleidung zu trocknen.",
+                "hu": "Használja ki a benti időt a ruházat megszárítására.",
+                "ro": "Folosiți timpul în interior pentru a vă usca hainele.",
+                "en": "Use the time inside to dry off while admiring the altar."
+              }
+            },
+            {
+              "name": "Castle of Idanha-a-Nova",
+              "tip_5lang": {
+                "de": "Die Burgmauern bieten kaum Schutz, halten Sie die Kapuze bereit.",
+                "hu": "A várfalak nem védenek az esőtől, legyen kéznél a kapucni.",
+                "ro": "Zidurile castelului nu oferă adăpost, țineți gluga pregătită.",
+                "en": "The castle walls offer little shelter; keep your hood up."
+              }
+            },
+            {
+              "name": "Castle Viewpoint",
+              "tip_5lang": {
+                "de": "Kurzer Blick auf das neblige Tal, dann schnell ins Trockene.",
+                "hu": "Csak egy gyors pillantás a ködös völgyre, aztán irány a fedél.",
+                "ro": "O privire scurtă spre valea cețoasă, apoi rapid la adăpost.",
+                "en": "Quick look at the misty valley, then find cover quickly."
+              }
+            },
+            {
+              "name": "Raiano Cultural Centre",
+              "tip_5lang": {
+                "de": "Perfektes Versteck für einen regnerischen Nachmittag.",
+                "hu": "Tökéletes búvóhely egy esős délutáni programhoz.",
+                "ro": "Refugiul perfect pentru o după-amiază ploioasă.",
+                "en": "The perfect hideout for a rainy afternoon activity."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Schuhe mit gutem Grip für die steilen, nassen Gassen.",
+              "Das Raiano-Zentrum ist montags oft geschlossen, prüfen Sie die Zeiten.",
+              "Kleine Cafés in der Nähe der Kirche bieten guten Schutz vor Schauern.",
+              "Regencapes sind praktischer als Schirme bei Wind auf dem Burghügel."
+            ],
+            "hu": [
+              "Viseljen tapadós talpú cipőt a meredek, nedves utcákhoz.",
+              "A Raiano központ hétfőnként zárva lehet, ellenőrizze előre.",
+              "A templom környéki kis kávézók jó menedéket nyújtanak zápor esetén.",
+              "A várhegyen a szél miatt az esőponcsó praktikusabb, mint az ernyő."
+            ],
+            "ro": [
+              "Purtați încălțăminte cu aderență bună pentru străzile abrupte și ude.",
+              "Centrul Raiano este adesea închis lunea, verificați programul.",
+              "Cafenelele mici de lângă biserică oferă adăpost bun împotriva ploii.",
+              "Pelerinele sunt mai practice decât umbrelele în vântul de pe dealul castelului."
+            ],
+            "en": [
+              "Wear shoes with excellent grip for the steep, wet stone alleys.",
+              "The Raiano center is often closed on Mondays; check local times.",
+              "Small cafes near the church provide great shelter from sudden showers.",
+              "Ponchos are more practical than umbrellas due to wind on the castle hill."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen beginnt frisch am Pillory, wenn der Nebel aus dem Tal aufsteigt. Die Kirche bietet eine kühle, aber andächtige Stille. Mittags wärmt uns der Aufstieg zum Schloss, doch oben weht oft ein scharfer Nordwind. Wir genießen das goldene Winterlicht am Aussichtspunkt, bevor wir uns im Kulturzentrum bei lokaler Kunst aufwärmen, während die Sonne bereits gegen 17:15 Uhr untergeht.",
+            "hu": "A téli reggel frissen indul a Pellengérnél, miközben a köd felszáll a völgyből. A templom hűvös, de áhítatos csendet áraszt. Délben a várba vezető séta segít a felmelegedésben, de odafent gyakran vág az északi szél. A kilátónál élvezzük az alacsony téli nap fényét, majd a kulturális központban melegszünk fel, mivel a nap már negyed hat körül lebukik a horizont alá.",
+            "ro": "Dimineața de iarnă începe proaspăt la stâlpul infamiei, în timp ce ceața se ridică din vale. Biserica oferă o liniște răcoroasă, dar plină de pioșenie. La prânz, urcarea la castel ne încălzește, dar sus bate adesea un vânt tăios. Ne bucurăm de lumina aurie de iarnă la punctul de belvedere, apoi ne încălzim la centrul cultural, deoarece soarele apune deja în jurul orei 17:15.",
+            "en": "The winter morning is crisp at the Pillory as mist rises from the valley. The church offers a cool, quiet space for reflection. At midday, the walk to the Castle warms you up, but be prepared for a sharp north wind at the summit. Enjoy the golden winter light at the viewpoint before retreating to the Cultural Centre for warmth as the sun sets early, around 5:15 PM."
+          },
+          "stops": [
+            {
+              "name": "Pillory of Idanha-a-Nova",
+              "tip_5lang": {
+                "de": "Achten Sie auf morgendlichen Frost auf den Steinstufen.",
+                "hu": "Vigyázzon a kőlépcsőkön előforduló reggeli fagyra.",
+                "ro": "Atenție la înghețul matinal de pe treptele de piatră.",
+                "en": "Watch out for morning frost on the ancient stone steps."
+              }
+            },
+            {
+              "name": "Mother Church of Idanha-a-Nova",
+              "tip_5lang": {
+                "de": "Drinnen ist es oft kälter als draußen, behalten Sie die Jacke an.",
+                "hu": "Bent gyakran hidegebb van, mint kint, ne vegye le a kabátot.",
+                "ro": "În interior este adesea mai frig decât afară, păstrați haina.",
+                "en": "It is often colder inside than out; keep your coat on."
+              }
+            },
+            {
+              "name": "Castle of Idanha-a-Nova",
+              "tip_5lang": {
+                "de": "Starker Wind auf den Zinnen; Mütze und Schal sind wichtig.",
+                "hu": "Erős szél a bástyákon; sapka és sál elengedhetetlen.",
+                "ro": "Vânt puternic pe metereze; căciula și fularul sunt esențiale.",
+                "en": "Strong winds on the battlements; hat and scarf are essential."
+              }
+            },
+            {
+              "name": "Castle Viewpoint",
+              "tip_5lang": {
+                "de": "Die beste Zeit für Fotos ist das klare Licht um 16:00 Uhr.",
+                "hu": "A legjobb idő a fotózásra a tiszta, 16 órai fényeknél van.",
+                "ro": "Cel mai bun moment pentru poze este la lumina clară de la ora 16:00.",
+                "en": "Best photo opportunities are in the clear 4 PM winter light."
+              }
+            },
+            {
+              "name": "Raiano Cultural Centre",
+              "tip_5lang": {
+                "de": "Ein gut beheizter Ort, um den späten Nachmittag zu verbringen.",
+                "hu": "Jól fűtött helyszín a késő délutáni órák eltöltéséhez.",
+                "ro": "Un loc bine încălzit pentru a petrece orele târzii ale amiezii.",
+                "en": "A well-heated venue to spend the late afternoon hours."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Zwiebelprinzip ist wichtig: Sonne wärmt, Schatten ist eisig.",
+              "Die Sonne verschwindet früh hinter den Bergen (ca. 17:15).",
+              "Probieren Sie lokale Kastanien oder schwere Eintöpfe zum Aufwärmen.",
+              "Kopfsteinpflaster speichert die Kälte; dicke Socken helfen."
+            ],
+            "hu": [
+              "Öltözzön rétegesen: a napon meleg van, árnyékban jeges a levegő.",
+              "A nap korán, 17:15 körül eltűnik a hegyek mögött.",
+              "Kóstolja meg a helyi sült gesztenyét vagy sűrű leveseket melegítőnek.",
+              "A macskakő sugározza a hideget; a vastag zokni sokat segít."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi: la soare e cald, la umbră e gheață.",
+              "Soarele dispare devreme după munți (în jur de 17:15).",
+              "Gustați castanele locale sau tobiturile grele pentru a vă încălzi.",
+              "Pavajul de piatră emană frig; șosetele groase sunt de ajutor."
+            ],
+            "en": [
+              "Layer your clothing: sunny spots are warm, but shade is icy.",
+              "The sun disappears early behind the hills (around 5:15 PM).",
+              "Try local roasted chestnuts or heavy stews to warm up.",
+              "Cobblestones stay cold all day; thick socks are recommended."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -622,6 +786,170 @@
           "The terrain can be challenging, be prepared for hills.",
           "Carry snacks and plenty of water."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine nasse Fahrt durch das historische Zentrum erfordert Vorsicht auf dem Calçada-Pflaster. Die Tour zur Talsperre führt durch die frische, regennasse Natur der Beira. Mittags wärmen wir uns bei einem ausgiebigen Mittagessen auf dem Land auf. Der Anstieg zur Burg am Nachmittag ist im Regen fordernd, doch der Blick auf den nebligen Stausee belohnt die Mühe, bevor wir den Tag an der Kapelle São Dâmaso beenden.",
+            "hu": "A vizes tekerés a központon keresztül óvatosságot igényel a Calçada köveken. A gát felé vezető út a Beira friss, esőáztatta tájain át visz. Délben egy bőséges vidéki ebéddel melegszünk fel. A délutáni várba kapaszkodás esőben fárasztó, de a ködös tározó látványa megéri a fáradtságot, mielőtt a napot a São Dâmaso kápolnánál zárnánk.",
+            "ro": "O plimbare umedă prin centrul istoric necesită prudență pe pavajul Calçada. Traseul spre baraj trece prin natura proaspătă și ploioasă a regiunii Beira. La prânz ne încălzim cu o masă copioasă la țară. Urcarea la castel de după-amiază este solicitantă pe ploaie, dar vederea asupra lacului de acumulare cețos merită efortul, înainte de a încheia ziua la capela São Dâmaso.",
+            "en": "A wet ride through the center requires caution on the Calçada stones. The route to the dam takes you through the fresh, rain-soaked nature of Beira. At midday, warm up with a hearty countryside lunch. The afternoon climb to the castle is challenging in the rain, but the misty reservoir views reward the effort before finishing the day at the Chapel of São Dâmaso."
+          },
+          "stops": [
+            {
+              "name": "Town Center (Pillory & Mother Church)",
+              "tip_5lang": {
+                "de": "Vermeiden Sie scharfe Bremsungen auf dem nassen Pflaster.",
+                "hu": "Kerülje az erős fékezést a nedves macskakövön.",
+                "ro": "Evitați frânările bruște pe pavajul umed.",
+                "en": "Avoid sharp braking on the wet cobblestone streets."
+              }
+            },
+            {
+              "name": "Marechal Carmona Dam",
+              "tip_5lang": {
+                "de": "Der Uferweg kann schlammig sein; bleiben Sie auf dem Asphalt.",
+                "hu": "A tóparti út saras lehet; maradjon az aszfalton.",
+                "ro": "Drumul de pe mal poate fi noroios; rămâneți pe asfalt.",
+                "en": "Lakeside paths may be muddy; stick to the paved road."
+              }
+            },
+            {
+              "name": "Lunch break in the countryside",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit Platz für nasse Ausrüstung.",
+                "hu": "Válasszon olyan éttermet, ahol van hely a vizes felszerelésnek.",
+                "ro": "Alegeți un restaurant cu spațiu pentru echipamentul ud.",
+                "en": "Choose a restaurant with space for wet cycling gear."
+              }
+            },
+            {
+              "name": "Castle of Idanha-a-Nova",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor der nassen Abfahrt.",
+                "hu": "Ellenőrizze a fékeket a nedves lejtő előtt.",
+                "ro": "Verificați frânele înainte de coborârea pe carosabil ud.",
+                "en": "Check your brakes before the wet descent from the hill."
+              }
+            },
+            {
+              "name": "Chapel of São Dâmaso",
+              "tip_5lang": {
+                "de": "Kleiner überdachter Vorbau zum Unterstellen vorhanden.",
+                "hu": "A kápolna kis előtere alkalmas az eső elleni védekezésre.",
+                "ro": "Pridvorul mic oferă un pic de adăpost împotriva ploii.",
+                "en": "Small covered porch available for temporary shelter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind bei diesem Wetter in der Beira unerlässlich.",
+              "Vorsicht in Kurven auf Landstraßen; Ölfilme bei Regen möglich.",
+              "Wasserdichte Handschuhe halten die Finger für die Bremsen beweglich.",
+              "Die Sicht am Stausee kann bei starkem Regen stark eingeschränkt sein."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen ilyenkor a Beira útjain.",
+              "Vigyázzon a kanyarokban; az eső olajfilmet verhet fel az aszfaltról.",
+              "A vízhatlan kesztyű segít mozgékonyan tartani az ujjakat a fékezéshez.",
+              "A látótávolság a gátnál erős esőben jelentősen lecsökkenhet."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt esențiale pe această vreme în Beira.",
+              "Atenție în curbe pe drumurile județene; posibile pelicule de ulei.",
+              "Mănușile impermeabile mențin degetele mobile pentru frânare.",
+              "Vizibilitatea la baraj poate fi mult redusă în timpul ploii abundente."
+            ],
+            "en": [
+              "Mudguards are essential for cycling in Beira in this weather.",
+              "Be careful on country road bends; rain can create oil slicks.",
+              "Waterproof gloves keep your fingers mobile for safe braking.",
+              "Visibility at the reservoir can be very low during heavy rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Start im Zentrum, wo der Atem in der kalten Luft sichtbar wird. Die Fahrt zur Talsperre ist erfrischend, erfordert aber guten Windschutz. Mittags kehren wir für eine wärmende Suppe ein. Am Nachmittag erklimmen wir das Schloss im klaren, tiefstehenden Sonnenlicht, das die alten Steine rot färbt. Den Tag beenden wir an der Kapelle, bevor die nächtliche Kälte gegen 17:00 Uhr einsetzt.",
+            "hu": "Fagyos kezdés a központban, ahol a lehelet is meglátszik a hideg levegőben. A gát felé vezető út frissítő, de jó szélvédelem kell hozzá. Délben betérünk egy melegítő levesre. Délután a várat másszuk meg a tiszta, alacsonyan járó napfényben, amely vörösre festi az ősi köveket. A napot a kápolnánál zárjuk, mielőtt 17 óra körül beállna az éjszakai hideg.",
+            "ro": "Un început înghețat în centru, unde respirația devine vizibilă în aerul rece. Drumul spre baraj este revigorant, dar necesită protecție bună împotriva vântului. La prânz ne oprim pentru o supă caldă. După-amiaza urcăm la castel în lumina clară a soarelui care apune, colorând pietrele vechi în roșu. Încheiem ziua la capelă înainte ca gerul nopții să se instaleze în jur de ora 17:00.",
+            "en": "A frosty start in the center where your breath is visible in the cold air. The ride to the dam is refreshing but requires good wind protection. At midday, stop for a warming local soup. In the afternoon, climb to the castle in the clear, low-hanging sunlight that turns the ancient stones red. Finish at the chapel before the night chill sets in around 5 PM."
+          },
+          "stops": [
+            {
+              "name": "Town Center (Pillory & Mother Church)",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis in schattigen Gassen.",
+                "hu": "Vigyázzon a jegesedésre az árnyékos szűk utcákban.",
+                "ro": "Atenție la porțiunile cu gheață în ulițele umbrite.",
+                "en": "Watch for icy patches in the narrow shaded alleys."
+              }
+            },
+            {
+              "name": "Marechal Carmona Dam",
+              "tip_5lang": {
+                "de": "Starker Windchill auf der Staumauer; ziehen Sie sich warm an.",
+                "hu": "Erős szélérzet a gáton; öltözzön fel nagyon melegen.",
+                "ro": "Senzație puternică de frig pe baraj; îmbrăcați-vă gros.",
+                "en": "Strong wind chill on the dam; dress very warmly."
+              }
+            },
+            {
+              "name": "Lunch break in the countryside",
+              "tip_5lang": {
+                "de": "Bestellen Sie eine heiße 'Sopa da Beira' zum Aufwärmen.",
+                "hu": "Rendeljen egy forró 'Sopa da Beira'-t a felmelegedéshez.",
+                "ro": "Comandați o 'Sopa da Beira' fierbinte pentru a vă încălzi.",
+                "en": "Order a hot 'Sopa da Beira' soup to warm your core."
+              }
+            },
+            {
+              "name": "Castle of Idanha-a-Nova",
+              "tip_5lang": {
+                "de": "Die Sonne wärmt hier oben nur bis ca. 16:30 Uhr.",
+                "hu": "A nap itt fent már csak kb. 16:30-ig melegít.",
+                "ro": "Soarele încălzește aici sus doar până pe la ora 16:30.",
+                "en": "The sun only provides warmth here until about 4:30 PM."
+              }
+            },
+            {
+              "name": "Chapel of São Dâmaso",
+              "tip_5lang": {
+                "de": "Kühler Ort; halten Sie den Aufenthalt kurz nach Sonnenuntergang.",
+                "hu": "Hűvös hely; tartsuk rövidre a látogatást napnyugta után.",
+                "ro": "Loc răcoros; scurtați vizita după apusul soarelui.",
+                "en": "Cool spot; keep the visit short after the sun goes down."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Thermo-Unterschichten sind für die Abfahrten in der Beira nötig.",
+              "Die Luftfeuchtigkeit lässt die Kälte kriechender wirken.",
+              "Beleuchtung am Fahrrad ist wichtig, da es früh dunkel wird.",
+              "Glatteisgefahr besteht besonders auf den Brücken der Region."
+            ],
+            "hu": [
+              "Termo aláöltözet szükséges a Beira völgyeibe vezető lejtőkhöz.",
+              "A magas páratartalom miatt a hideg alattomosabbnak tűnik.",
+              "A kerékpáros világítás kötelező, mivel korán sötétedik.",
+              "Fagyveszély különösen a régió hídjain fordulhat elő."
+            ],
+            "ro": [
+              "Substraturile termice sunt necesare pentru coborârile din Beira.",
+              "Umiditatea ridicată face ca frigul să pară mai pătrunzător.",
+              "Luminile la bicicletă sunt esențiale, deoarece se întunecă devreme.",
+              "Pericol de polei, în special pe podurile din regiune."
+            ],
+            "en": [
+              "Thermal base layers are necessary for the descents in Beira.",
+              "High humidity makes the cold feel much sharper than it is.",
+              "Bike lights are essential as darkness falls very early.",
+              "Risk of black ice is high, especially on regional bridges."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -950,6 +1278,170 @@
           "Have cash for small purchases and some restaurants.",
           "The roads are narrow, drive carefully."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten entspannt im trockenen Auto und erkunden das Zentrum zwischen den Regenschauern. Die Fahrt zur Burg bietet dramatische Ausblicke auf die wolkenverhangene Beira. Mittags fahren wir in das historische Idanha-a-Velha, wo die alten Ruinen im Regen eine mystische Atmosphäre ausstrahlen. Nach einem kurzen Stopp an der Talsperre beenden wir den Tag bei einem gemütlichen Abendessen in Idanha-a-Nova.",
+            "hu": "Kényelmesen, a száraz autóban kezdünk, és a záporok között fedezzük fel a központot. A várhoz vezető út drámai kilátást nyújt a felhőbe burkolózott Beira vidékére. Délben a történelmi Idanha-a-Velha felé vesszük az irányt, ahol az ősi romok az esőben misztikus hangulatot árasztanak. A gátnál tett rövid látogatás után egy hangulatos vacsorával zárjuk a napot Idanha-a-Nova-ban.",
+            "ro": "Începem relaxați în mașina uscată și explorăm centrul între reprizele de ploaie. Drumul spre castel oferă vederi dramatice asupra regiunii Beira acoperite de nori. La prânz mergem spre istorica Idanha-a-Velha, unde ruinele vechi emană o atmosferă mistică sub ploaie. După o scurtă oprire la baraj, încheiem ziua cu o cină plăcută în Idanha-a-Nova.",
+            "en": "Start relaxed in your dry car, exploring the center between rain showers. The drive to the castle offers dramatic views of the cloud-covered Beira landscape. At midday, head to historical Idanha-a-Velha, where ancient ruins take on a mystical atmosphere in the rain. After a brief stop at the dam, finish the day with a cozy dinner back in Idanha-a-Nova."
+          },
+          "stops": [
+            {
+              "name": "Idanha-a-Nova Cluster (Center)",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Pillory, um kurze Wege im Regen zu haben.",
+                "hu": "Parkoljon közel a pellengérhez, hogy keveset kelljen áznia.",
+                "ro": "Parcați aproape de stâlp pentru a merge puțin prin ploaie.",
+                "en": "Park close to the Pillory to minimize walking in the rain."
+              }
+            },
+            {
+              "name": "Idanha-a-Nova Cluster (Castle)",
+              "tip_5lang": {
+                "de": "Vorsicht bei der Auffahrt; die engen Gassen sind rutschig.",
+                "hu": "Vigyázzon a felhajtáskor; a szűk utcák csúszósak.",
+                "ro": "Atenție la urcare; ulițele înguste sunt alunecoase.",
+                "en": "Be careful while driving up; the narrow alleys are slippery."
+              }
+            },
+            {
+              "name": "Idanha-a-Velha",
+              "tip_5lang": {
+                "de": "Die Römerbrücke kann bei Nässe sehr glatt sein.",
+                "hu": "A római híd nagyon csúszós lehet nedvesen.",
+                "ro": "Podul roman poate fi foarte alunecos când este ud.",
+                "en": "The Roman bridge can be very slippery when wet."
+              }
+            },
+            {
+              "name": "Marechal Carmona Dam",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick aus dem Auto, wenn es zu stark regnet.",
+                "hu": "Élvezze a kilátást az autóból, ha túl erősen esik.",
+                "ro": "Bucurați-vă de priveliște din mașină dacă plouă prea tare.",
+                "en": "Enjoy the reservoir view from the car if it rains too hard."
+              }
+            },
+            {
+              "name": "Return to Idanha-a-Nova",
+              "tip_5lang": {
+                "de": "Viele Restaurants haben hoteleigene Parkplätze im Trockenen.",
+                "hu": "Sok étteremnek van fedett vagy közeli parkolója.",
+                "ro": "Multe restaurante au parcări proprii sau foarte aproape.",
+                "en": "Many restaurants have nearby or covered parking available."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Landstraßen zur Idanha-a-Velha sind bei Regen oft neblig.",
+              "Halten Sie einen Schirm im Auto bereit für die kurzen Wege.",
+              "Vermeiden Sie unbefestigte Parkplätze wegen Schlammgefahr.",
+              "Die Scheiben beschlagen bei der hohen Luftfeuchtigkeit schnell."
+            ],
+            "hu": [
+              "Az Idanha-a-Velha felé vezető utak esőben gyakran ködösek.",
+              "Legyen kéznél esernyő az autóban a rövid sétákhoz.",
+              "Kerülje a burkolatlan parkolókat a sárveszély miatt.",
+              "A szélvédő a magas páratartalom miatt gyorsan bepárásodhat."
+            ],
+            "ro": [
+              "Drumurile spre Idanha-a-Velha sunt adesea cețoase pe ploaie.",
+              "Țineți o umbrelă în mașină pentru drumurile scurte pe jos.",
+              "Evitați parcările neasfaltate din cauza riscului de noroi.",
+              "Geamurile se pot aburi rapid din cauza umidității ridicate."
+            ],
+            "en": [
+              "The country roads to Idanha-a-Velha are often foggy in rain.",
+              "Keep an umbrella ready in the car for short walks to sites.",
+              "Avoid unpaved parking areas due to the risk of getting stuck in mud.",
+              "Windows may fog up quickly; ensure your AC is working well."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens genießen wir die beheizte Fahrt durch die winterliche Beira. In Idanha-a-Nova erkunden wir das Schloss, wenn die Wintersonne die Landschaft beleuchtet. Die Fahrt nach Idanha-a-Velha führt durch einsame Eichenhaine unter klarem Himmel. Den Sonnenuntergang erleben wir an der Talsperre, bevor wir uns bei einem Glas regionalem Wein und herzhaftem Essen in der Stadt wieder aufwärmen.",
+            "hu": "Reggel élvezzük a fűtött utazást a téli Beira tájain. Idanha-a-Nova várát akkor keressük fel, amikor a téli nap megvilágítja a tájat. Az út Idanha-a-Velha felé magányos tölgyfaligeteken át vezet a tiszta égbolt alatt. A naplementét a gátnál nézzük meg, majd egy pohár helyi borral és laktató ételekkel melegszünk fel a városban.",
+            "ro": "Dimineața ne bucurăm de drumul încălzit prin regiunea Beira iarna. În Idanha-a-Nova explorăm castelul când soarele de iarnă luminează peisajul. Drumul spre Idanha-a-Velha trece prin livezi de stejari solitari sub cerul senin. Vedem apusul la baraj, apoi ne încălzim cu un pahar de vin regional și mâncare consistentă în oraș.",
+            "en": "Enjoy a heated morning drive through the wintry Beira. In Idanha-a-Nova, explore the castle while the winter sun illuminates the landscape. The drive to Idanha-a-Velha leads through quiet oak groves under clear skies. Watch the sunset at the dam before warming up with a glass of regional wine and hearty food back in town."
+          },
+          "stops": [
+            {
+              "name": "Idanha-a-Nova Cluster (Center)",
+              "tip_5lang": {
+                "de": "Morgens kann es Reif auf den Straßen in der Altstadt geben.",
+                "hu": "Reggelente dérre lehet számítani az óváros utcáin.",
+                "ro": "Dimineața poate apărea brumă pe străzile din orașul vechi.",
+                "en": "Expect morning frost on the streets of the old town."
+              }
+            },
+            {
+              "name": "Idanha-a-Nova Cluster (Castle)",
+              "tip_5lang": {
+                "de": "Warme Kleidung für den windigen Fußweg zum Tor nötig.",
+                "hu": "Meleg ruha kell a szeles várkapuhoz vezető úthoz.",
+                "ro": "Haine groase necesare pentru drumul vântos spre poartă.",
+                "en": "Warm layers needed for the windy walk to the castle gate."
+              }
+            },
+            {
+              "name": "Idanha-a-Velha",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kathedrale; sie ist im Winter angenehm ruhig.",
+                "hu": "Látogassa meg a katedrálist; télen kellemesen nyugodt.",
+                "ro": "Vizitați catedrala; este plăcut de liniștită iarna.",
+                "en": "Visit the cathedral; it is peacefully quiet in winter."
+              }
+            },
+            {
+              "name": "Marechal Carmona Dam",
+              "tip_5lang": {
+                "de": "Perfekter Ort für den Sonnenuntergang gegen 17:15 Uhr.",
+                "hu": "Tökéletes helyszín a naplemente nézésére 17:15 körül.",
+                "ro": "Locul perfect pentru apusul soarelui în jur de ora 17:15.",
+                "en": "Perfect spot for watching the sunset around 5:15 PM."
+              }
+            },
+            {
+              "name": "Return to Idanha-a-Nova",
+              "tip_5lang": {
+                "de": "Heißer Tee oder lokaler Ginjinha sind jetzt ideal.",
+                "hu": "Egy forró tea vagy helyi Ginjinha most ideális választás.",
+                "ro": "Un ceai fierbinte sau un Ginjinha local sunt ideale acum.",
+                "en": "A hot tea or local Ginjinha is ideal at this hour."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Frostschutz in Ihrem Scheibenwischwasser.",
+              "Die Straßen können in Waldstücken lange schattig und glatt sein.",
+              "Wintertage in Portugal sind kurz; planen Sie Besichtigungen früh.",
+              "Einige Bergstraßen können bei extremen Kälteeinbrüchen gesperrt sein."
+            ],
+            "hu": [
+              "Ellenőrizze a fagyállót a szélvédőmosó folyadékban.",
+              "Az erdei útszakaszok sokáig árnyékosak és csúszósak maradhatnak.",
+              "A téli nappalok rövidek; tervezze korábbra a látnivalókat.",
+              "Néhány hegyi út lezárva lehet extrém hideghullám esetén."
+            ],
+            "ro": [
+              "Verificați antigelul în lichidul de spălare a parbrizului.",
+              "Drumurile din zonele împădurite pot rămâne umbrite și alunecoase.",
+              "Zilele de iarnă sunt scurte; planificați vizitele devreme.",
+              "Unele drumuri montane pot fi închise în caz de ger extrem."
+            ],
+            "en": [
+              "Check the antifreeze levels in your windshield washer fluid.",
+              "Roads in forested areas can stay shaded and icy for a long time.",
+              "Winter days are short; plan your sightseeing for early hours.",
+              "Some mountain roads may be closed during extreme cold snaps."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1234,6 +1726,152 @@
           "Buy tickets beforehand if possible.",
           "Be punctual at the bus stops."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir nutzen den lokalen Bus, um trocken zwischen Zentrum und Schloss zu pendeln. Mittags bringt uns der Überlandbus nach Idanha-a-Velha, wo wir die historischen Gassen im Schutz alter Torbögen erkunden. Der Rückweg im Bus bietet Zeit, die vorbeiziehende regnerische Landschaft der Beira Baixa zu beobachten, bevor wir den Abend in einer gemütlichen Bar am Busbahnhof ausklingen lassen.",
+            "hu": "Helyi buszt használunk, hogy szárazon ingázzunk a központ és a vár között. Délben a távolsági busz visz Idanha-a-Velha-ba, ahol a történelmi utcákat az ősi boltívek védelmében fedezzük fel. A visszautazás során a busz ablakából figyelhetjük a Beira Baixa esős tájait, majd az estét a buszmegálló közeli hangulatos bárban zárjuk.",
+            "ro": "Folosim autobuzul local pentru a pendula uscați între centru și castel. La prânz, autobuzul interurban ne duce la Idanha-a-Velha, unde explorăm străzile istorice sub protecția arcadelor vechi. Drumul de întoarcere oferă timp pentru a observa peisajul ploios din Beira Baixa, înainte de a încheia seara într-un bar primitor de lângă autogară.",
+            "en": "Use the local bus to commute dry between the center and the castle. At midday, the intercity bus takes you to Idanha-a-Velha, where you can explore historic streets under the protection of ancient stone arches. The bus ride back offers time to watch the rainy Beira Baixa landscape pass by before finishing the evening in a cozy bar near the station."
+          },
+          "stops": [
+            {
+              "name": "Center Cluster (Pillory & Church)",
+              "tip_5lang": {
+                "de": "Warten Sie unter den Arkaden der nahen Gebäude.",
+                "hu": "Várjon a közeli épületek árkádjai alatt az eső elől.",
+                "ro": "Așteptați sub arcadele clădirilor din apropiere.",
+                "en": "Wait under the arches of nearby buildings to stay dry."
+              }
+            },
+            {
+              "name": "Castle Cluster",
+              "tip_5lang": {
+                "de": "Der Fußweg zur Bushaltestelle ist steil und bei Regen rutschig.",
+                "hu": "A buszmegállóhoz vezető út meredek és esőben csúszik.",
+                "ro": "Drumul spre stație este abrupt și alunecos pe ploaie.",
+                "en": "The walk to the bus stop is steep and slippery in the rain."
+              }
+            },
+            {
+              "name": "Idanha-a-Velha",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Rückfahrplan; Unterstände sind hier selten.",
+                "hu": "Ellenőrizze a menetrendet; itt kevés a fedett váró.",
+                "ro": "Verificați programul; adăposturile sunt rare aici.",
+                "en": "Check the return schedule; bus shelters are rare here."
+              }
+            },
+            {
+              "name": "Return to Idanha-a-Nova",
+              "tip_5lang": {
+                "de": "Trocknen Sie sich während der Busfahrt auf den hinteren Plätzen ab.",
+                "hu": "Száradjon meg a buszút alatt a hátsó üléseken.",
+                "ro": "Uscați-vă în timpul călătoriei pe locurile din spate.",
+                "en": "Dry off during the bus ride on the rear seats."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrpläne können bei starkem Regen leicht variieren.",
+              "Halten Sie Kleingeld bereit, um schnell einzusteigen.",
+              "Tragen Sie wasserfeste Kleidung für die Wege zur Haltestelle.",
+              "Taxis sind eine gute Regen-Alternative, wenn Busse selten fahren."
+            ],
+            "hu": [
+              "A menetrend heves esőzés esetén kismértékben változhat.",
+              "Legyen kéznél aprópénz a gyors felszálláshoz.",
+              "Viseljen vízálló ruhát a megállóig tartó sétákhoz.",
+              "A taxi jó alternatíva, ha a busz ritkán jár az esőben."
+            ],
+            "ro": [
+              "Orarele pot varia ușor în caz de ploaie torențială.",
+              "Aveți pregătit mărunt pentru o îmbarcare rapidă.",
+              "Purtați haine impermeabile pentru drumul spre stație.",
+              "Taxiurile sunt o alternativă bună dacă autobuzele sunt rare."
+            ],
+            "en": [
+              "Bus schedules may vary slightly during heavy rainstorms.",
+              "Have small change ready for quick boarding at stops.",
+              "Wear waterproof clothing for the walks to and from stops.",
+              "Taxis are a good rainy-day alternative if buses are infrequent."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintertag beginnt mit der Busfahrt ins Zentrum. Wir erkunden die Burgmauern unter stahlblauem Himmel, bevor wir den Nachmittagsbus nach Idanha-a-Velha nehmen. Die Stille der Ruinen im Winterlicht ist unvergleichlich. Auf dem Rückweg genießen wir die Wärme im Fahrzeug, während draußen die Dämmerung über die Beira hereinbricht und die Temperaturen rasch sinken.",
+            "hu": "Tiszta téli nap indul buszozással a központba. Acélkék égbolt alatt fedezzük fel a várfalakat, mielőtt a délutáni busszal Idanha-a-Velha-ba indulnánk. A romok csendje a téli fényben párját ritkítja. Visszafelé a jármű melegét élvezzük, miközben kint a szürkület leszáll a Beira vidékére, és a hőmérséklet gyorsan zuhanni kezd.",
+            "ro": "O zi senină de iarnă începe cu drumul spre centru. Explorăm zidurile castelului sub un cer albastru de oțel, înainte de a lua autobuzul spre Idanha-a-Velha. Liniștea ruinelor în lumina iernii este incomparabilă. La întoarcere, savurăm căldura din vehicul în timp ce afară se lasă amurgul peste Beira și temperaturile scad rapid.",
+            "en": "A clear winter day starts with a bus ride to the center. Explore the castle walls under a steel-blue sky before taking the afternoon bus to Idanha-a-Velha. The silence of the ruins in the winter light is incomparable. On the way back, enjoy the warmth of the vehicle as dusk falls over Beira and temperatures drop rapidly."
+          },
+          "stops": [
+            {
+              "name": "Center Cluster (Pillory & Church)",
+              "tip_5lang": {
+                "de": "Warten Sie in der Sonne, um warm zu bleiben.",
+                "hu": "Várjon a napon, hogy melegen tartsa magát.",
+                "ro": "Așteptați la soare pentru a vă menține căldura.",
+                "en": "Wait in sunny spots to stay warm while waiting."
+              }
+            },
+            {
+              "name": "Castle Cluster",
+              "tip_5lang": {
+                "de": "Sehr exponiert; ziehen Sie Handschuhe an, bevor Sie aussteigen.",
+                "hu": "Nagyon kitett hely; vegye fel a kesztyűt, mielőtt leszáll.",
+                "ro": "Zonă foarte expusă; puneți-vă mănușile înainte de a coborî.",
+                "en": "Very exposed area; put your gloves on before getting off."
+              }
+            },
+            {
+              "name": "Idanha-a-Velha",
+              "tip_5lang": {
+                "de": "Verpassen Sie nicht den letzten Bus vor Sonnenuntergang.",
+                "hu": "Ne késse le az utolsó buszt napnyugta előtt.",
+                "ro": "Nu ratați ultimul autobuz înainte de apusul soarelui.",
+                "en": "Do not miss the last bus before the sun sets."
+              }
+            },
+            {
+              "name": "Return to Idanha-a-Nova",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich im beheizten Bus gut auf.",
+                "hu": "Melegedjen fel alaposan a fűtött buszon.",
+                "ro": "Încălziți-vă bine în autobuzul cu încălzire.",
+                "en": "Warm up thoroughly inside the heated bus."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterfahrpläne können weniger Verbindungen haben.",
+              "Einige Haltestellen sind im Schatten sehr kalt.",
+              "Tragen Sie eine Mütze, da man beim Warten schnell auskühlt.",
+              "Die Busse sind in Portugal meist gut beheizt."
+            ],
+            "hu": [
+              "A téli menetrend kevesebb járatot tartalmazhat.",
+              "Néhány megálló árnyékban nagyon hideg lehet.",
+              "Viseljen sapkát, mert várakozás közben gyorsan lehűl az ember.",
+              "Portugáliában a buszok általában jól fűtöttek."
+            ],
+            "ro": [
+              "Orarele de iarnă pot avea mai puține conexiuni.",
+              "Unele stații sunt foarte friguroase la umbră.",
+              "Purtați căciulă, deoarece vă răciți repede așteptând.",
+              "Autobuzele din Portugalia sunt de obicei bine încălzite."
+            ],
+            "en": [
+              "Winter schedules might have fewer connections than summer.",
+              "Some bus stops can be very cold if they are in the shade.",
+              "Wear a hat as you can lose heat quickly while waiting.",
+              "Buses in Portugal are usually well-heated during winter."
+            ]
+          }
+        }
       }
     }
   }

@@ -379,6 +379,214 @@
           "A camera is a must for the views from Thalwiler Platte.",
           "Check the Lake Zurich Navigation Company schedule in case you fancy a spontaneous boat trip."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Vormittag beginnt im historischen Kern von Ludretikon, wo die alten Dachvorsprünge Schutz vor dem Nieselregen bieten. Zum Mittagessen empfiehlt sich ein gemütliches Lokal direkt am Seeufer, um die Regenwolken über dem Zürichsee zu beobachten. Nachmittags bietet das Innere der Reformierten Kirche einen trockenen und stillen Rückzugsort. Der Tag endet mit einem kurzen, erfrischenden Spaziergang zum Aussichtspunkt, der im Regen eine ganz eigene Mystik ausstrahlt.",
+            "hu": "A délelőtt Ludretikon óvárosában indul, ahol a régi házak ereszei alatt húzódhatunk meg a szemerkélő eső elől. Ebédidőben érdemes egy tóparti éttermet választani, ahonnan figyelhetjük a Zürichi-tó felett elvonuló felhőket. Délután a református templom csendes belső tere nyújt száraz menedéket a látogatónak. A nap egy rövid, frissítő sétával zárul a kilátóhoz, amely az esőben különleges, párás hangulatot áraszt.",
+            "ro": "Dimineața începe în centrul vechi Ludretikon, unde streșinile caselor istorice oferă adăpost împotriva burniței. Pentru prânz, alegeți un restaurant pe malul lacului pentru a privi ploaia care cade peste Zürichsee. După-amiaza, interiorul Bisericii Reformate oferă un refugiu uscat și liniștit. Ziua se încheie cu o scurtă plimbare până la punctul de observație, care capătă o aură mistică pe timp de ploaie.",
+            "en": "The morning starts in the historic core of Ludretikon, where old eaves provide shelter from the drizzle. At lunch, a lakeside restaurant is the perfect spot to watch the rain clouds move over Lake Zurich. In the afternoon, the interior of the Reformed Church offers a dry and quiet sanctuary. The day ends with a short, refreshing walk to the viewpoint, which takes on a unique, misty atmosphere in the rain."
+          },
+          "stops": [
+            {
+              "name": "Ludretikon (Old Village Core)",
+              "tip_5lang": {
+                "de": "Die engen Gassen bieten bei Wind und Regen natürlichen Schutz zwischen den Gebäuden.",
+                "hu": "A szűk utcák természetes szélvédelmet nyújtanak az épületek között az esőben.",
+                "ro": "Străzile înguste oferă protecție naturală împotriva vântului și ploii între clădiri.",
+                "en": "The narrow alleys provide natural shelter from wind and rain between the buildings."
+              }
+            },
+            {
+              "name": "Pfister House",
+              "tip_5lang": {
+                "de": "Betrachten Sie das markante Fachwerkhaus kurz, bevor Sie ins nächste Café einkehren.",
+                "hu": "Csodálja meg a gerendavázas házat, mielőtt betérne egy közeli kávézóba melegedni.",
+                "ro": "Admirați casa cu bârne din lemn scurt timp înainte de a intra într-o cafenea apropiată.",
+                "en": "Admire the half-timbered house briefly before heading into a nearby cafe to stay dry."
+              }
+            },
+            {
+              "name": "Reformed Church of Thalwil",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Akustik zu genießen und den Regenschirm kurz zu trocknen.",
+                "hu": "Ideális hely az akusztika élvezetére és az esernyő rövid megszárítására.",
+                "ro": "Un loc ideal pentru a savura acustica și pentru a vă usca umbrela pentru scurt timp.",
+                "en": "An ideal place to enjoy the acoustics and let your umbrella dry for a moment."
+              }
+            },
+            {
+              "name": "Lunch Break by the Lake",
+              "tip_5lang": {
+                "de": "Wählen Sie einen Platz am Fenster, um den Blick auf das Wasser im Trockenen zu genießen.",
+                "hu": "Válasszon ablak melletti asztalt, hogy szárazon élvezhesse a kilátást a vízre.",
+                "ro": "Alegeți o masă lângă fereastră pentru a savura vederea spre apă stând la adăpost.",
+                "en": "Choose a window seat to enjoy the water view while staying warm and dry inside."
+              }
+            },
+            {
+              "name": "Thalwil Boat Station",
+              "tip_5lang": {
+                "de": "Der überdachte Wartebereich der ZSG bietet guten Schutz vor vorbeiziehenden Schauern.",
+                "hu": "A hajóállomás fedett váróterme kiváló védelmet nyújt az átvonuló záporok ellen.",
+                "ro": "Zona de așteptare acoperită oferă protecție bună împotriva averselor trecătoare.",
+                "en": "The covered waiting area at the boat station provides good shelter from passing showers."
+              }
+            },
+            {
+              "name": "Lake Zurich Shore Path",
+              "tip_5lang": {
+                "de": "Vorsicht vor Pfützen; wasserfestes Schuhwerk ist für diesen Abschnitt sehr empfehlenswert.",
+                "hu": "Vigyázzon a tócsákra; vízálló lábbeli erősen ajánlott ezen a sétányon.",
+                "ro": "Atenție la bălți; încălțămintea impermeabilă este recomandată pentru această porțiune.",
+                "en": "Watch out for puddles; waterproof footwear is highly recommended for this path."
+              }
+            },
+            {
+              "name": "Thalwiler Platte Viewpoint",
+              "tip_5lang": {
+                "de": "Die Aussichtsplattform kann bei Nässe rutschig sein; halten Sie sich an den Geländern fest.",
+                "hu": "A kilátóterasz nedvesen csúszós lehet; kapaszkodjon bátran a korlátokba.",
+                "ro": "Platforma poate fi alunecoasă când este umedă; folosiți balustradele pentru siguranță.",
+                "en": "The viewing platform can be slippery when wet; hold onto the railings for safety."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Sturmschirm ist wegen der Winde am Zürichsee vorteilhaft.",
+              "Nutzen Sie die kurzen Abstände zwischen den historischen Gebäuden als Regenschutz.",
+              "Die Reformierte Kirche ist ein verlässlicher Ort, um sich zwischendurch aufzuwärmen.",
+              "Der Uferweg ist asphaltiert, kann aber bei starkem Regen stellenweise überflutet sein.",
+              "Halten Sie nach Cafés in Bahnhofsnähe Ausschau für zusätzliche Pausen im Trockenen."
+            ],
+            "hu": [
+              "A Zürichi-tó szeles partján egy stabil, viharálló esernyő jó szolgálatot tesz.",
+              "Használja ki a történelmi épületek közötti rövid távolságokat eső elleni védelemként.",
+              "A református templom megbízható hely egy kis napközbeni melegedéshez.",
+              "A tóparti út aszfaltozott, de heves esőben helyenként megállhat rajta a víz.",
+              "A vasútállomás környékén több kávézót is talál a száraz pihenőkhöz."
+            ],
+            "ro": [
+              "O umbrelă rezistentă la vânt este utilă din cauza rafalelor de pe malul lacului.",
+              "Folosiți distanțele scurte dintre clădirile istorice ca protecție împotriva ploii.",
+              "Biserica Reformată este un loc sigur pentru a vă încălzi în timpul zilei.",
+              "Poteca de pe mal este asfaltată, dar poate fi inundată parțial în caz de ploaie torențială.",
+              "Căutați cafenele în apropierea gării pentru pauze suplimentare la adăpost."
+            ],
+            "en": [
+              "A sturdy windproof umbrella is beneficial due to lake breezes in Thalwil.",
+              "Use the short distances between historic buildings to minimize rain exposure.",
+              "The Reformed Church is a reliable spot to take a dry break and warm up.",
+              "The shore path is paved but can have standing water during heavy downpours.",
+              "Look for cafes near the train station for extra indoor breaks during the day."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen hüllt die Gassen von Ludretikon oft in feinen Frost, was dem Dorfzentrum einen märchenhaften Glanz verleiht. Mittags wärmt man sich am besten in einem der Restaurants am See bei einer herzhaften Schweizer Spezialität auf. Am Nachmittag laden die beheizten Räume der Kirche zur Besinnung ein, bevor die Sonne früh hinter den Hügeln verschwindet. Den Abschluss bildet der Blick auf die beleuchteten Dörfer am gegenüberliegenden Seeufer unter dem klaren Sternenhimmel.",
+            "hu": "A téli reggel gyakran zúzmarával vonja be Ludretikon utcáit, mesebeli fényt adva a falu központjának. Ebédidőben egy tóparti étteremben a legjobb átmelegedni egy bőséges svájci különlegességgel. Délután a templom fűtött terei hívogatnak egy kis elcsendesedésre, mielőtt a nap korán eltűnik a dombok mögött. A napot a szemközti part kivilágított falvainak látványa zárja a tiszta téli égbolt alatt.",
+            "ro": "Dimineața de iarnă îmbracă adesea străzile din Ludretikon în promoroacă, oferind centrului un aspect de basm. La prânz, cel mai bine este să vă încălziți într-un restaurant de pe mal cu o specialitate elvețiană consistentă. După-amiaza, spațiile încălzite ale bisericii vă invită la liniște înainte ca soarele să apună devreme. Finalul este marcat de vederea satelor luminate de pe malul opus, sub cerul senin de iarnă.",
+            "en": "A winter morning often coats the alleys of Ludretikon in frost, giving the village center a fairytale glow. At lunch, warm up in a lakeside restaurant with a hearty Swiss specialty. In the afternoon, the heated spaces of the church invite reflection before the sun sets early behind the hills. The day concludes with a view of the illuminated villages on the opposite shore under a clear winter sky."
+          },
+          "stops": [
+            {
+              "name": "Ludretikon (Old Village Core)",
+              "tip_5lang": {
+                "de": "Achten Sie auf gefrorenes Kopfsteinpflaster; festes Schuhwerk mit Profil ist wichtig.",
+                "hu": "Vigyázzon a fagyott macskakövekre; a bordázott talpú téli cipő elengedhetetlen.",
+                "ro": "Atenție la pavajul înghețat; încălțămintea cu talpă aderentă este esențială.",
+                "en": "Watch out for icy cobblestones; sturdy footwear with good grip is important."
+              }
+            },
+            {
+              "name": "Pfister House",
+              "tip_5lang": {
+                "de": "Das 16. Jahrhundert wirkt im Winterlicht besonders fotogen; nutzen Sie die kurzen Sonnenstunden.",
+                "hu": "A 16. századi épület a téli fényben különösen fotogén; használja ki a kevés napsütést.",
+                "ro": "Clădirea din secolul XVI este foarte fotogenică în lumina iernii; profitați de soare.",
+                "en": "The 16th-century building is very photogenic in winter light; make use of the sun."
+              }
+            },
+            {
+              "name": "Reformed Church of Thalwil",
+              "tip_5lang": {
+                "de": "Die Kirche ist meist beheizt und bietet eine willkommene Pause von der kalten Seebrise.",
+                "hu": "A templom általában fűtött, kellemes menedéket nyújt a hideg tóparti szél elől.",
+                "ro": "Biserica este de obicei încălzită și oferă o pauză binevenită de briza rece a lacului.",
+                "en": "The church is usually heated and offers a welcome break from the cold lake breeze."
+              }
+            },
+            {
+              "name": "Lunch Break by the Lake",
+              "tip_5lang": {
+                "de": "Fragen Sie nach saisonalen Wildgerichten oder klassischem Fondue für maximale Gemütlichkeit.",
+                "hu": "Kérjen szezonális vadételeket vagy klasszikus fonduet a maximális téli hangulathoz.",
+                "ro": "Cereți preparate sezoniere din vânat sau un fondue clasic pentru confort maxim.",
+                "en": "Ask for seasonal game dishes or a classic fondue for maximum winter coziness."
+              }
+            },
+            {
+              "name": "Thalwil Boat Station",
+              "tip_5lang": {
+                "de": "Ziehen Sie sich warm an, da die Gischt des Sees die gefühlte Temperatur hier sinken lässt.",
+                "hu": "Öltözzön rétegesen, mert a tó felől érkező vízpermet miatt itt hidegebbnek érezni az időt.",
+                "ro": "Îmbrăcați-vă gros, deoarece vaporii lacului scad temperatura resimțită în această zonă.",
+                "en": "Dress warmly, as the lake spray can make the perceived temperature drop here."
+              }
+            },
+            {
+              "name": "Lake Zurich Shore Path",
+              "tip_5lang": {
+                "de": "Bei klarem Wetter sind die schneebedeckten Glarner Alpen in der Ferne gut sichtbar.",
+                "hu": "Tiszta időben a távolban jól látszanak a Glarusi-Alpok hófödte csúcsai.",
+                "ro": "În zilele senine, Alpii Glarus acoperiți de zăpadă sunt vizibili în depărtare.",
+                "en": "On clear days, the snow-covered Glarus Alps are clearly visible in the distance."
+              }
+            },
+            {
+              "name": "Thalwiler Platte Viewpoint",
+              "tip_5lang": {
+                "de": "Genießen Sie den Sonnenuntergang gegen 16:30 Uhr; Taschenlampe für den Rückweg einpacken.",
+                "hu": "Élvezze a naplementét 16:30 körül; vigyen lámpát a visszaúthoz a sötétben.",
+                "ro": "Savurați apusul în jurul orei 16:30; luați o lanternă pentru drumul de întoarcere.",
+                "en": "Enjoy the sunset around 16:30; bring a flashlight for the walk back in the dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Handschuhe und eine Mütze sind wegen der 'Bise' (Ostwind) unerlässlich.",
+              "Die Sonne geht im Winter bereits gegen 16:45 Uhr unter; planen Sie die Route entsprechend.",
+              "Die öffentlichen Toiletten am Bahnhof und im Park sind im Winter beheizt.",
+              "Der Uferweg kann bei Frost stellenweise glatt sein, besonders im Schatten der Bäume.",
+              "Trinken Sie einen heißen Tee oder Punsch am Kiosk bei der Schifflände."
+            ],
+            "hu": [
+              "A hideg 'Bise' szél miatt a meleg kesztyű és sapka elengedhetetlen kellék.",
+              "Télen a nap már 16:45 körül lemegy; eszerint tervezze meg a délutáni programot.",
+              "A vasútállomás és a park nyilvános mosdói télen is fűtöttek.",
+              "A tóparti sétány fagy esetén csúszós lehet, különösen a fák árnyékában.",
+              "Igyon egy forró teát vagy puncsot a hajóállomás melletti kioszknál."
+            ],
+            "ro": [
+              "Mănușile și căciula sunt esențiale din cauza vântului rece de est numit 'Bise'.",
+              "Soarele apune deja în jur de 16:45 iarna; planificați-vă traseul în consecință.",
+              "Toaletele publice de la gară și din parc sunt încălzite pe timpul iernii.",
+              "Poteca de pe mal poate fi alunecoasă în caz de îngheț, mai ales la umbra copacilor.",
+              "Beți un ceai fierbinte sau un punch la chioșcul de lângă debarcader."
+            ],
+            "en": [
+              "Warm gloves and a hat are essential due to the cold 'Bise' (east wind).",
+              "The sun sets around 16:45 in winter; plan your afternoon route accordingly.",
+              "Public toilets at the station and in the park are heated during the winter season.",
+              "The shore path can be slippery in freezing conditions, especially in shaded areas.",
+              "Enjoy a hot tea or punch at the kiosk near the boat station."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -752,6 +960,214 @@
           "Some sections can be steep, so be prepared for some climbs.",
           "Bring a lock to secure your bike while you explore the sights."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Velotour startet am Hafen, wobei wasserdichte Packtaschen heute der beste Begleiter sind. Die Fahrt entlang des Sees bietet trotz Regen eine erfrischende Brise, bevor man im Park im Grüene in die trockenen Ausstellungsräume flüchtet. Mittags wärmt eine Pause im alten Dorfkern auf, bevor die Räder wieder den Hügel zur Kirche erklimmen. Die Abfahrt zum Aussichtspunkt erfordert bei Nässe volle Konzentration und gute Bremsen.",
+            "hu": "A kerékpártúra a kikötőben indul, ahol a vízálló táskák ma a legjobb barátaink. A tóparti tekerés az eső ellenére is frissítő, mielőtt a Park im Grüene fedett tereibe menekülnénk. Délben egy óvárosi pihenő alatt melegedhetünk fel, majd a biciklikkel nekivágunk a templomdombnak. A kilátóhoz vezető lejtő vizes úton teljes koncentrációt és jó fékeket igényel.",
+            "ro": "Turul cu bicicleta începe în port, gențile impermeabile fiind astăzi cel mai bun companion. Cursa pe malul lacului oferă o briză revigorantă în ciuda ploii, înainte de a vă adăposti în spațiile Park im Grüene. La prânz, o pauză în centrul vechi vă va încălzi, înainte ca bicicletele să urce din nou spre biserică. Coborârea spre punctul de observație necesită concentrare maximă și frâne bune pe carosabil ud.",
+            "en": "The bike tour starts at the harbor, with waterproof panniers being your best companion today. The ride along the lake offers a refreshing breeze despite the rain before seeking shelter in the indoor areas of Park im Grüene. A midday break in the old village core warms you up before climbing the hill to the church. The descent to the viewpoint requires full concentration and good brakes in wet conditions."
+          },
+          "stops": [
+            {
+              "name": "Thalwil Boat Station (Bike Rental)",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Profiltiefe der Reifen und die Funktion der Beleuchtung vor der Abfahrt.",
+                "hu": "Indulás előtt ellenőrizze a gumik profilmélységét és a világítás működését.",
+                "ro": "Verificați profilul anvelopelor și funcționarea luminilor înainte de plecare.",
+                "en": "Check the tire tread and the lights' functionality before starting your ride."
+              }
+            },
+            {
+              "name": "Ride along the Lake Zurich Shore Path",
+              "tip_5lang": {
+                "de": "Schutzbleche sind bei Fahrten auf dem Uferweg heute unerlässlich, um trocken zu bleiben.",
+                "hu": "A sárvédők ma elengedhetetlenek a tóparti úton, ha szárazon akar maradni.",
+                "ro": "Apărătorile sunt esențiale astăzi pe poteca de pe mal pentru a rămâne uscat.",
+                "en": "Mudguards are essential today on the shore path to keep your clothes dry."
+              }
+            },
+            {
+              "name": "Park im Grüene (Gottlieb Duttweiler Institute)",
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Fahrradständer beim Haupteingang des Kulturzentrums.",
+                "hu": "Használja a kulturális központ főbejáratánál található fedett biciklitárolókat.",
+                "ro": "Folosiți rastelele acoperite pentru biciclete de la intrarea principală a centrului.",
+                "en": "Use the covered bicycle racks near the main entrance of the cultural center."
+              }
+            },
+            {
+              "name": "Ludretikon (Old Village Core)",
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Bremsen direkt auf nassen Markierungen oder Kanaldeckeln.",
+                "hu": "Kerülje a fékezést közvetlenül a nedves útburkolati jeleken vagy csatornafedeleken.",
+                "ro": "Evitați frânarea direct pe marcajele rutiere umede sau pe capacele de canal.",
+                "en": "Avoid braking directly on wet road markings or metal manhole covers."
+              }
+            },
+            {
+              "name": "Old Schoolhouse",
+              "tip_5lang": {
+                "de": "Kurzer Stopp unter dem Vordach, um die Karte für die Weiterfahrt zu studieren.",
+                "hu": "Rövid megálló az előtető alatt, hogy áttanulmányozza a térképet a folytatáshoz.",
+                "ro": "Scurt popas sub streșină pentru a studia harta pentru continuarea traseului.",
+                "en": "Brief stop under the overhang to study the map for the next part of your ride."
+              }
+            },
+            {
+              "name": "Reformed Church of Thalwil",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Velo sicher ab; das Innere der Kirche ist ein perfekter Ort zum Trocknen.",
+                "hu": "Parkolja le biztonságosan a bringát; a templom belseje tökéletes hely a száradáshoz.",
+                "ro": "Parcați bicicleta în siguranță; interiorul bisericii este un loc perfect pentru uscare.",
+                "en": "Park your bike securely; the church interior is a perfect place to dry off."
+              }
+            },
+            {
+              "name": "Thalwiler Platte Viewpoint",
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den Schotterwegen; diese können bei Regen aufweichen.",
+                "hu": "Közlekedjen óvatosan a murvás utakon, mert az esőtől felázhatnak.",
+                "ro": "Circulați cu atenție pe drumurile cu pietriș; acestea se pot înmuia de la ploaie.",
+                "en": "Ride carefully on gravel paths; they can become soft and muddy when wet."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine auffällige Regenjacke, da die Sichtverhältnisse am See eingeschränkt sein können.",
+              "Die Bremswege auf nassem Asphalt verlängern sich spürbar; halten Sie Abstand.",
+              "Im Park im Grüene gibt es Schließfächer, in denen nasse Ausrüstung verstaut werden kann.",
+              "Achten Sie auf rutschiges Laub auf dem Uferweg während der Herbst- und Wintermonate.",
+              "Die Züge der S-Bahn erlauben die Fahrradmitnahme, falls der Regen zu stark wird."
+            ],
+            "hu": [
+              "Viseljen feltűnő esőkabátot, mert a tóparton a látási viszonyok korlátozottak lehetnek.",
+              "A fékút vizes aszfalton érezhetően meghosszabbodik; tartson nagyobb követési távolságot.",
+              "A Park im Grüene területén találhatók értékmegőrzők a nedves felszerelések számára.",
+              "Ügyeljen a csúszós levelekre a tóparti úton az őszi és téli hónapokban.",
+              "Az S-Bahn vonatokon engedélyezett a kerékpárszállítás, ha az eső túl erőssé válna."
+            ],
+            "ro": [
+              "Purtați o jachetă de ploaie vizibilă, deoarece vizibilitatea pe mal poate fi redusă.",
+              "Distanța de frânare pe asfalt ud se prelungește considerabil; păstrați distanța.",
+              "În Park im Grüene există dulapuri unde vă puteți depozita echipamentul ud.",
+              "Atenție la frunzele alunecoase de pe drumul de coastă în lunile de toamnă și iarnă.",
+              "Trenurile S-Bahn permit transportul bicicletelor dacă ploaia devine prea puternică."
+            ],
+            "en": [
+              "Wear a high-visibility rain jacket, as visibility along the lake can be limited.",
+              "Braking distances on wet asphalt are significantly longer; keep extra distance.",
+              "Lockers are available at Park im Grüene where you can store wet equipment.",
+              "Watch out for slippery leaves on the shore path during autumn and winter months.",
+              "S-Bahn trains allow bike transport if the rain becomes too heavy to continue."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Radtag beginnt an der Schifflände, wo die kalte Seeluft sofort die Geister weckt. Entlang des Ufers glitzert der Frost auf den Steinen, während die Fahrt zum Park im Grüene den Kreislauf in Schwung bringt. Mittags lädt die Wärme im alten Schulhaus zu einer kurzen Pause ein, bevor es steil bergauf zur Kirche geht. Am Nachmittag bietet der Aussichtspunkt bei klarer Winterluft eine Fernsicht bis in die Innerschweizer Alpen.",
+            "hu": "A bringás nap a hajóállomáson indul, ahol a hideg tavi levegő azonnal felébreszti az embert. A part mentén dér csillog a köveken, miközben a Park im Grüene felé tartó tekerés felpezsdíti a keringést. Ebédidőben a régi iskolaépület melege hívogat rövid pihenőre, mielőtt nekivágnánk a meredek emelkedőnek. Délután a kilátó a tiszta téli levegőben messzi panorámát kínál egészen Belső-Svájc Alpjaiig.",
+            "ro": "Ziua cu bicicleta începe la debarcader, unde aerul rece al lacului vă trezește imediat. De-a lungul malului, promoroaca sclipește pe pietre, în timp ce cursa spre Park im Grüene vă pune sângele în mișcare. La prânz, căldura vechii școli vă invită la un scurt popas, înainte de urcarea abruptă spre biserică. După-amiaza, punctul de observație oferă o vedere clară până spre Alpii Elveției Centrale.",
+            "en": "The cycling day starts at the boat station, where the cold lake air wakes you up instantly. Along the shore, frost glitters on the stones as the ride to Park im Grüene gets your circulation going. At lunch, the warmth of the old schoolhouse invites a brief pause before the steep climb to the church. In the afternoon, the viewpoint offers clear winter air with vistas stretching to the Central Swiss Alps."
+          },
+          "stops": [
+            {
+              "name": "Thalwil Boat Station (Bike Rental)",
+              "tip_5lang": {
+                "de": "Verlangen Sie ein Velo mit Winterbereifung oder griffigen Mänteln für maximale Sicherheit.",
+                "hu": "Kérjen téli gumival vagy jó tapadású köpennyel szerelt bringát a maximális biztonságért.",
+                "ro": "Solicitați o bicicletă cu anvelope de iarnă sau cu aderență sporită pentru siguranță.",
+                "en": "Request a bike with winter tires or high-grip treads for maximum safety."
+              }
+            },
+            {
+              "name": "Ride along the Lake Zurich Shore Path",
+              "tip_5lang": {
+                "de": "Achten Sie auf gefrorene Gischt auf dem Fahrbelag, besonders in Kurvennähe.",
+                "hu": "Ügyeljen a fagyott vízpermetre az útfelületen, különösen a kanyarok környékén.",
+                "ro": "Atenție la vaporii de apă înghețați pe carosabil, în special în apropierea curbelor.",
+                "en": "Watch out for frozen lake spray on the path surface, especially near bends."
+              }
+            },
+            {
+              "name": "Park im Grüene (Gottlieb Duttweiler Institute)",
+              "tip_5lang": {
+                "de": "Besuchen Sie das Migros-Kulturzentrum für eine warme Schokolade und eine Pause.",
+                "hu": "Látogasson el a Migros kulturális központba egy forró csokira és egy pihenőre.",
+                "ro": "Vizitați centrul cultural Migros pentru o ciocolată caldă și o pauză.",
+                "en": "Visit the Migros cultural center for a hot chocolate and a warm break."
+              }
+            },
+            {
+              "name": "Ludretikon (Old Village Core)",
+              "tip_5lang": {
+                "de": "Schieben Sie das Rad über besonders steile, gefrorene Pflastersteinabschnitte.",
+                "hu": "Tolja a bringát a különösen meredek, fagyott macskaköves szakaszokon.",
+                "ro": "Împingeți bicicleta pe secțiunile de pavaj înghețate și foarte abrupte.",
+                "en": "Push your bike over particularly steep or icy cobblestone sections."
+              }
+            },
+            {
+              "name": "Old Schoolhouse",
+              "tip_5lang": {
+                "de": "Die historischen Mauern schützen vor dem schneidenden Wind aus dem Zimmerberggebiet.",
+                "hu": "A történelmi falak védenek a Zimmerberg felől fújó metsző szél ellen.",
+                "ro": "Zidurile istorice oferă protecție împotriva vântului tăios din zona Zimmerberg.",
+                "en": "The historic walls provide protection against the biting wind from the Zimmerberg area."
+              }
+            },
+            {
+              "name": "Reformed Church of Thalwil",
+              "tip_5lang": {
+                "de": "Der Anstieg hält warm; oben angekommen sollten Sie aber sofort eine Jacke überziehen.",
+                "hu": "Az emelkedő melegen tart, de felérve azonnal vegyen fel egy kabátot a szél ellen.",
+                "ro": "Urcarea vă menține cald, dar odată ajunși sus, îmbrăcați imediat o jachetă.",
+                "en": "The climb keeps you warm, but put on a jacket immediately once you reach the top."
+              }
+            },
+            {
+              "name": "Thalwiler Platte Viewpoint",
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne blendet; eine Sonnenbrille ist auch im Winter ratsam.",
+                "hu": "Az alacsonyan járó téli nap vakíthat; a napszemüveg télen is tanácsos.",
+                "ro": "Soarele jos de iarnă poate fi orbitor; ochelarii de soare sunt recomandați și iarna.",
+                "en": "The low winter sun can be blinding; sunglasses are advisable even in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Kleidung nach dem Zwiebelprinzip, um Überhitzung beim Aufstieg zu vermeiden.",
+              "Gefütterte Radhandschuhe sind bei Temperaturen um den Gefrierpunkt unverzichtbar.",
+              "Vermeiden Sie scharfe Bremsmanöver auf schattigen Waldwegen wegen möglicher Glätte.",
+              "Die Fahrradbeleuchtung muss wegen der frühen Dämmerung ab 16:00 Uhr einsatzbereit sein.",
+              "Nehmen Sie eine Thermoskanne mit warmem Tee für die Pausen am Uferweg mit."
+            ],
+            "hu": [
+              "Öltözzön rétegesen, hogy elkerülje a túlhevülést az emelkedőkön.",
+              "A bélelt kerékpáros kesztyű elengedhetetlen a fagypont körüli hőmérsékletnél.",
+              "Kerülje az éles fékezést az árnyékos erdei utakon az esetleges lefagyások miatt.",
+              "A kerékpárvilágításnak a korai sötétedés miatt már 16:00-tól üzemkésznek kell lennie.",
+              "Vigyen magával termoszban meleg teát a tóparti pihenőkhöz."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi pentru a evita supraîncălzirea în timpul urcărilor.",
+              "Mănușile de ciclism căptușite sunt indispensabile la temperaturi aproape de îngheț.",
+              "Evitați frânările bruște pe drumurile forestiere umbrite din cauza poleiului.",
+              "Luminile bicicletei trebuie să fie funcționale începând cu ora 16:00 din cauza amurgului.",
+              "Luați un termos cu ceai cald pentru pauzele de pe drumul de coastă."
+            ],
+            "en": [
+              "Dress in layers to avoid overheating during the uphill sections.",
+              "Lined cycling gloves are indispensable at temperatures near freezing.",
+              "Avoid sharp braking on shaded forest paths due to potential icy patches.",
+              "Bike lights must be ready for use from 16:00 due to early winter twilight.",
+              "Bring a thermos with warm tea for breaks along the shore path."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1132,6 +1548,214 @@
           "Allow enough time for traffic, especially during rush hours around Zurich.",
           "A navigation system is essential for finding the different parking locations."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt bequem mit der Parkplatzsuche im Zentrum, von wo aus die Kirche nur einen Katzensprung entfernt ist. Während es draußen ununterbrochen regnet, genießt man die Fahrt durch Ludretikon im trockenen Fahrzeug. Mittags parkt man direkt am Hafen für ein gemütliches Essen mit Seeblick. Der Nachmittag wird im Park im Grüene verbracht, dessen Kulturzentrum ideale Innenaktivitäten für regnerische Stunden bietet.",
+            "hu": "A nap kényelmesen, a központi parkolással indul, ahonnan a templom csak egy ugrásra van. Miközben kint megállás nélkül esik, Ludretikonon keresztül autóval szárazon utazhatunk. Ebédidőben közvetlenül a kikötőnél parkolunk le egy tóparti ebédhez. A délutánt a Park im Grüene területén töltjük, melynek kulturális központja ideális benti programokat kínál esős órákra.",
+            "ro": "Ziua începe confortabil cu parcarea în centru, de unde biserica este la doar un pas. În timp ce afară plouă neîncetat, savurați drumul prin Ludretikon dintr-un vehicul uscat. La prânz, parcați direct în port pentru o masă cu vedere la lac. După-amiaza este rezervată pentru Park im Grüene, al cărui centru cultural oferă activități de interior ideale pentru orele ploioase.",
+            "en": "The day starts comfortably by parking in the center, from where the church is just a short hop away. While it rains continuously outside, enjoy the drive through Ludretikon in a dry vehicle. At lunch, park directly at the harbor for a cozy meal with a lake view. The afternoon is spent at Park im Grüene, whose cultural center offers ideal indoor activities for rainy hours."
+          },
+          "stops": [
+            {
+              "name": "Parking at the Center/Church",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus im Zentrum, um trockenen Fußes zur Kirche zu gelangen.",
+                "hu": "Használja a központi parkolóházat, hogy száraz lábbal érhessen a templomhoz.",
+                "ro": "Folosiți parcarea etajată din centru pentru a ajunge uscați la biserică.",
+                "en": "Use the multi-story car park in the center to reach the church without getting wet."
+              }
+            },
+            {
+              "name": "Reformed Church of Thalwil",
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Auto zum Eingang genügt, um dem stärksten Regen zu entgehen.",
+                "hu": "Egy rövid sprint az autótól a bejáratig elég, hogy megússza a hevesebb esőt.",
+                "ro": "Un scurt sprint de la mașină la intrare este suficient pentru a evita ploaia torențială.",
+                "en": "A short sprint from the car to the entrance is enough to escape the heaviest rain."
+              }
+            },
+            {
+              "name": "Ludretikon & Pfister House",
+              "tip_5lang": {
+                "de": "Fahren Sie langsam durch die Gassen; Fußgänger suchen oft unter Vorsprüngen Schutz.",
+                "hu": "Hajtson lassan az utcákon; a gyalogosok gyakran az ereszek alatt keresnek menedéket.",
+                "ro": "Conduceți încet pe străzi; pietonii caută adesea adăpost sub streșini.",
+                "en": "Drive slowly through the alleys; pedestrians often seek shelter under overhangs."
+              }
+            },
+            {
+              "name": "Lakeside Parking",
+              "tip_5lang": {
+                "de": "Wählen Sie einen Parkplatz nah am Restaurant, um den Regenschirm-Einsatz zu minimieren.",
+                "hu": "Válasszon az étteremhez közeli parkolóhelyet, hogy minimálisra csökkentse az esernyőzést.",
+                "ro": "Alegeți un loc de parcare aproape de restaurant pentru a folosi cât mai puțin umbrela.",
+                "en": "Pick a parking spot close to the restaurant to minimize the time spent under an umbrella."
+              }
+            },
+            {
+              "name": "Boat Station & Lunch",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Gischt am Hafen direkt aus dem Fenster des Lokals.",
+                "hu": "Élvezze a kikötői vízpermet látványát közvetlenül az étterem ablakából.",
+                "ro": "Savurați vederea valurilor din port direct de la fereastra localului.",
+                "en": "Enjoy the view of the harbor spray directly from the restaurant window."
+              }
+            },
+            {
+              "name": "Shore Path & Platte",
+              "tip_5lang": {
+                "de": "Kurze Fotostopps sind möglich; parken Sie nur auf den markierten blauen Zonen.",
+                "hu": "Rövid fotómegállók lehetségesek; csak a kijelölt kék zónákban parkoljon.",
+                "ro": "Sunt posibile scurte opriri pentru fotografii; parcați doar în zonele albastre marcate.",
+                "en": "Short photo stops are possible; only park in the marked blue zones."
+              }
+            },
+            {
+              "name": "Park im Grüene",
+              "tip_5lang": {
+                "de": "Das Parkhaus der Migros bietet direkten, wettergeschützten Zugang zum Einkaufszentrum.",
+                "hu": "A Migros parkolóháza közvetlen, időjárástól védett bejáratot biztosít a központba.",
+                "ro": "Parcarea Migros oferă acces direct și protejat de intemperii către centru.",
+                "en": "The Migros car park offers direct, weather-protected access to the center."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf der Seestrasse bei starkem Niederschlag.",
+              "Parkhäuser im Zentrum und bei der Migros sind die trockensten Optionen.",
+              "Haben Sie Kleingeld oder eine Park-App für die öffentlichen Parkplätze am Hafen bereit.",
+              "Die Sicht am See kann durch Nebel und Gischt stark eingeschränkt sein.",
+              "Nutzen Sie die Parkmöglichkeiten beim Park im Grüene für längere Innenaufenthalte."
+            ],
+            "hu": [
+              "Heves esőzéskor ügyeljen a vízre felúszás (aquaplaning) veszélyére a Seestrassén.",
+              "A központi és a Migros parkolóházak a legszárazabb opciók.",
+              "Készítsen aprót vagy parkoló-appot a kikötői nyilvános parkolókhoz.",
+              "A köd és a vízpermet miatt a látótávolság jelentősen lecsökkenhet a tónál.",
+              "Használja ki a Park im Grüene parkolási lehetőségeit a hosszabb benti tartózkodáshoz."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe Seestrasse în condiții de precipitații abundente.",
+              "Parcările etajate din centru și de la Migros sunt cele mai bune opțiuni pe ploaie.",
+              "Pregătiți mărunțiș sau o aplicație de parcare pentru locurile publice din port.",
+              "Vizibilitatea la lac poate fi redusă considerabil de ceață și vapori.",
+              "Folosiți parcarea de la Park im Grüene pentru șederi prelungite la interior."
+            ],
+            "en": [
+              "Watch out for aquaplaning on Seestrasse during heavy rainfall.",
+              "Multi-story car parks in the center and at Migros are the driest options.",
+              "Have small change or a parking app ready for the public spots at the harbor.",
+              "Visibility along the lake can be severely limited by fog and spray.",
+              "Utilize the parking facilities at Park im Grüene for longer indoor visits."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintertour mit dem Auto beginnt am beheizten Fahrzeug bei der Kirche, von wo aus man den Panoramablick über den Zürichsee genießt. Die Fahrt durch das verschneite Ludretikon wirkt wie eine Reise in die Vergangenheit. Mittags parkt man bequem in Seenähe für ein wärmendes Fondue. Am Nachmittag führt die Route zum Park im Grüene, wo winterliche Spaziergänge und die gemütliche Atmosphäre des Kulturzentrums auf dem Programm stehen.",
+            "hu": "Az autós téli túra a templom melletti fűtött kocsiban indul, ahonnan panorámás kilátás nyílik a Zürichi-tóra. A havas Ludretikonon keresztüli autózás olyan, mint egy időutazás. Ebédidőben kényelmesen leparkolunk a tó közelében egy lélekmelegítő fonduera. Délután az út a Park im Grüene területére vezet, ahol téli séták és a kulturális központ otthonos hangulata vár ránk.",
+            "ro": "Turul de iarnă cu mașina începe într-un vehicul încălzit lângă biserică, de unde savurați panorama peste Zürichsee. Drumul prin Ludretikonul înzăpezit pare o călătorie în timp. La prânz, parcați confortabil lângă lac pentru un fondue cald. După-amiaza, traseul duce la Park im Grüene pentru plimbări de iarnă și atmosfera primitoare a centrului cultural.",
+            "en": "The winter car tour starts in a heated vehicle near the church, where you can enjoy the panoramic view over Lake Zurich. Driving through snowy Ludretikon feels like a trip back in time. At lunch, park conveniently near the lake for a warming fondue. In the afternoon, the route leads to Park im Grüene for winter walks and the cozy atmosphere of the cultural center."
+          },
+          "stops": [
+            {
+              "name": "Parking at the Center/Church",
+              "tip_5lang": {
+                "de": "Achten Sie auf geräumte Parkflächen; schwarzes Eis kann tückisch sein.",
+                "hu": "Ügyeljen a letakarított parkolóhelyekre; a fekete jég csalóka lehet.",
+                "ro": "Atenție la locurile de parcare deszăpezite; gheața neagră poate fi înșelătoare.",
+                "en": "Watch for cleared parking spaces; black ice can be treacherous on the hill."
+              }
+            },
+            {
+              "name": "Reformed Church of Thalwil",
+              "tip_5lang": {
+                "de": "Der Parkplatz bietet eine der besten Aussichten auf die verschneiten Glarner Alpen.",
+                "hu": "A parkolóból nyílik az egyik legjobb kilátás a havas Glarusi-Alpokra.",
+                "ro": "Parcarea oferă una dintre cele mai bune vederi spre Alpii Glarus înzăpeziți.",
+                "en": "The parking lot offers one of the best views of the snow-covered Glarus Alps."
+              }
+            },
+            {
+              "name": "Ludretikon & Pfister House",
+              "tip_5lang": {
+                "de": "In den engen Gassen von Ludretikon ist bei Schnee besondere Vorsicht geboten.",
+                "hu": "Ludretikon szűk utcáin havas időben különös óvatosságra van szükség.",
+                "ro": "Este necesară prudență sporită pe străzile înguste din Ludretikon când ninge.",
+                "en": "Special caution is required in the narrow alleys of Ludretikon during snowy weather."
+              }
+            },
+            {
+              "name": "Lakeside Parking",
+              "tip_5lang": {
+                "de": "Die Parkplätze am Hafen werden meist gut geräumt, können aber windanfällig sein.",
+                "hu": "A kikötői parkolókat általában jól takarítják, de nagyon szelesek lehetnek.",
+                "ro": "Parcările din port sunt de obicei deszăpezite, dar pot fi expuse vântului.",
+                "en": "Harbor parking spaces are usually well-cleared but can be very windy."
+              }
+            },
+            {
+              "name": "Boat Station & Lunch",
+              "tip_5lang": {
+                "de": "Lassen Sie keine Wertsachen sichtbar im Auto, während Sie gemütlich essen.",
+                "hu": "Ne hagyjon értéktárgyat látható helyen az autóban, amíg kényelmesen ebédel.",
+                "ro": "Nu lăsați obiecte de valoare la vedere în mașină în timp ce luați masa.",
+                "en": "Do not leave valuables visible in the car while you enjoy your warm meal."
+              }
+            },
+            {
+              "name": "Shore Path & Platte",
+              "tip_5lang": {
+                "de": "Die Zufahrt zur Platte kann bei extremem Schneefall eingeschränkt sein.",
+                "hu": "A Platte-kilátóhoz vezető út extrém havazás esetén korlátozott lehet.",
+                "ro": "Accesul spre Platte poate fi restricționat în caz de ninsori abundente.",
+                "en": "Access to the Platte viewpoint may be restricted during extreme snowfall."
+              }
+            },
+            {
+              "name": "Park im Grüene",
+              "tip_5lang": {
+                "de": "Das beheizte Parkhaus ist im Winter der komfortabelste Startpunkt für den Parkbesuch.",
+                "hu": "A fűtött parkolóház télen a legkényelmesebb kiindulópont a parklátogatáshoz.",
+                "ro": "Parcarea încălzită este cel mai confortabil punct de pornire pentru vizitarea parcului.",
+                "en": "The heated car park is the most comfortable starting point for visiting the park in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in dieser hügeligen Region am See obligatorisch.",
+              "Führen Sie einen Eiskratzer und eventuell eine Schneeschaufel im Kofferraum mit.",
+              "Die Batterie kann bei extremen Minustemperaturen schneller entladen; prüfen Sie den Zustand.",
+              "Nutzen Sie die Motorbremse bei Bergabfahrten auf vereisten Strassen.",
+              "Parken Sie im Parkhaus der Migros, um das Auto vor Frost zu schützen."
+            ],
+            "hu": [
+              "A téli gumi kötelező ezen a dombos, tóparti vidéken.",
+              "Tartson jégkaparót és esetleg hólapátot is az autó csomagtartójában.",
+              "Az akkumulátor extrém mínuszokban gyorsabban lemerülhet; ellenőrizze az állapotát.",
+              "Jeges úton lejtmenetben használja bátran a motorféket.",
+              "Parkoljon a Migros parkolóházában, hogy megvédje az autót a fagytól."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii în această regiune deluroasă de lângă lac.",
+              "Păstrați o racletă și eventual o lopată de zăpadă în portbagajul mașinii.",
+              "Bateria se poate descărca mai repede la temperaturi negative extreme; verificați-o.",
+              "Folosiți frâna de motor la coborârea pantelor pe drumuri înghețate.",
+              "Parcați în garajul Migros pentru a proteja mașina de îngheț."
+            ],
+            "en": [
+              "Winter tires are mandatory in this hilly region along the lake.",
+              "Keep an ice scraper and possibly a snow shovel in your car's trunk.",
+              "Car batteries can drain faster in extreme sub-zero temperatures; check its condition.",
+              "Use engine braking when driving downhill on potentially icy roads.",
+              "Park in the Migros multi-story garage to protect your car from frost."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1488,6 +2112,196 @@
           "Buses run regularly, but check departure times for the last return trip.",
           "Validate your ticket before the first ride to avoid a fine."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Ankunft am Bahnhof Thalwil bietet direkten Zugang zu den überdachten Bahnsteigen. Von hier aus bringt der Bus die Besucher trocken zur Schifflände und zum Seeufer. Mittags wärmt man sich in einem Restaurant in Bahnhofsnähe auf, bevor die Buslinie 142 zum Park im Grüene fährt. Der Nachmittag wird im Kulturzentrum verbracht, bevor der Bus wieder bequem zurück ins Dorfzentrum und zum Aussichtspunkt fährt.",
+            "hu": "A thalwili vasútállomásra érkezve közvetlen a kijárat a fedett peronokról. Innentől a busz szárazon viszi az utazókat a hajóállomáshoz és a tóparthoz. Ebédidőben az állomás közeli éttermekben melegedhetünk fel, majd a 142-es busszal a Park im Grüene felé vesszük az irányt. A délutánt a kulturális központban töltjük, majd busszal kényelmesen visszatérünk a falu központjába és a kilátóhoz.",
+            "ro": "Sosirea în gara Thalwil oferă acces direct de pe peroanele acoperite. De aici, autobuzul îi duce pe vizitatori la debarcader și pe malul lacului fără a se uda. La prânz, vă încălziți într-un restaurant lângă gară, înainte de a lua autobuzul 142 spre Park im Grüene. După-amiaza este petrecută în centrul cultural, apoi autobuzul vă readuce confortabil în centrul satului și la punctul de observație.",
+            "en": "Arrival at Thalwil station offers direct access from covered platforms. From here, the bus takes visitors dryly to the boat station and the lakeshore. At lunch, warm up in a restaurant near the station before taking bus 142 to Park im Grüene. The afternoon is spent at the cultural center, then the bus conveniently brings you back to the village center and the viewpoint."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Thalwil Train Station",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Unterführung, um trocken zu den Bushaltestellen zu gelangen.",
+                "hu": "Használja az aluljárót, hogy szárazon juthasson el a buszmegállókhoz.",
+                "ro": "Folosiți pasajul subteran pentru a ajunge la stațiile de autobuz fără să vă udați.",
+                "en": "Use the underground passage to reach the bus stops without getting wet."
+              }
+            },
+            {
+              "name": "Boat Station & Shore Path",
+              "tip_5lang": {
+                "de": "Die Buslinie verbindet den Bahnhof in wenigen Minuten mit dem Hafenareal.",
+                "hu": "A buszjárat pár perc alatt összeköti a vasútállomást a kikötő környékével.",
+                "ro": "Linia de autobuz face legătura între gară și zona portului în câteva minute.",
+                "en": "The bus line connects the train station with the harbor area in just a few minutes."
+              }
+            },
+            {
+              "name": "Ludretikon & Old Schoolhouse",
+              "tip_5lang": {
+                "de": "Die Haltestellen liegen zentral; kurze Wege minimieren die Zeit im Regen.",
+                "hu": "A megállók központi helyen vannak; a rövid séta minimalizálja az esőben töltött időt.",
+                "ro": "Stațiile sunt amplasate central; distanțele scurte reduc timpul petrecut în ploaie.",
+                "en": "The stops are centrally located; short walking distances minimize time in the rain."
+              }
+            },
+            {
+              "name": "Reformed Church & Lunch",
+              "tip_5lang": {
+                "de": "Viele Restaurants befinden sich in unmittelbarer Nähe der Bushaltestellen.",
+                "hu": "Számos étterem található közvetlenül a buszmegállók szomszédságában.",
+                "ro": "Multe restaurante se află în imediata apropiere a stațiilor de autobuz.",
+                "en": "Many restaurants are located in the immediate vicinity of the bus stops."
+              }
+            },
+            {
+              "name": "Bus Ride to Park im Grüene",
+              "tip_5lang": {
+                "de": "Die Linie 142 hält direkt vor dem Eingang des beliebten Parks.",
+                "hu": "A 142-es busz közvetlenül a népszerű park bejárata előtt áll meg.",
+                "ro": "Linia 142 oprește chiar în fața intrării parcului popular.",
+                "en": "Bus line 142 stops directly in front of the entrance to the popular park."
+              }
+            },
+            {
+              "name": "Bus Ride to Thalwiler Platte",
+              "tip_5lang": {
+                "de": "Nutzen Sie die SBB Mobile App, um die Abfahrten in Echtzeit zu prüfen.",
+                "hu": "Használja az SBB Mobile alkalmazást az indulások valós idejű ellenőrzéséhez.",
+                "ro": "Folosiți aplicația SBB Mobile pentru a verifica plecările în timp real.",
+                "en": "Use the SBB Mobile app to check departures in real-time and minimize waiting."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Busse in Thalwil verkehren auch bei starkem Regen sehr zuverlässig.",
+              "Ein ZVV-Tagesticket ist die günstigste Option für die Nutzung aller Linien.",
+              "Warten Sie in der Bahnhofshalle, falls der Anschlussbus Verspätung hat.",
+              "Die Fahrpläne sind an jeder Haltestelle unter Glas vor Regen geschützt.",
+              "Kombinieren Sie den Ausflug mit einer Schifffahrt, die überdachte Decks bietet."
+            ],
+            "hu": [
+              "A thalwili buszok heves esőzés esetén is nagyon megbízhatóan közlekednek.",
+              "A ZVV napijegy a legolcsóbb opció az összes járat használatához.",
+              "Várjon a vasútállomás várótermében, ha a csatlakozó busz késne.",
+              "A menetrendek minden megállóban üveg alatt, az esőtől védve találhatók.",
+              "Kombinálja a kirándulást egy hajózással, amely fedett fedélzetet is kínál."
+            ],
+            "ro": [
+              "Autobuzele din Thalwil circulă foarte fiabil chiar și pe ploaie torențială.",
+              "Un bilet de zi ZVV este cea mai ieftină opțiune pentru utilizarea tuturor liniilor.",
+              "Așteptați în holul gării dacă autobuzul de legătură are întârziere.",
+              "Orarele sunt protejate de ploaie sub sticlă în fiecare stație.",
+              "Combinați excursia cu o plimbare cu vaporul, care are punți acoperite."
+            ],
+            "en": [
+              "Buses in Thalwil operate very reliably even during heavy rainfall.",
+              "A ZVV day pass is the most cost-effective option for using all lines.",
+              "Wait in the station hall if your connecting bus is running late.",
+              "Timetables at every stop are protected from the rain under glass panels.",
+              "Combine the trip with a boat ride, which offers covered indoor decks."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Anreise nach Thalwil erfolgt im geheizten Zug, der einen ersten Blick auf den winterlichen See erlaubt. Ein kurzer Bustransfer bringt die Gäste zum Hafen, wo die Luft frostig und klar ist. Mittags lädt das Dorfzentrum mit seinen Restaurants zu einer warmen Pause ein. Der Nachmittag gehört dem Park im Grüene, der per Bus leicht erreichbar ist und winterliche Stille bietet. Zum Abschluss führt die Fahrt hinauf zur Platte für einen Blick auf die Abendlichter des Zürichsees.",
+            "hu": "A thalwili érkezés fűtött vonattal történik, ahonnan első pillantást vethetünk a téli tóra. Egy rövid buszos transzfer viszi a vendégeket a kikötőbe, ahol a levegő fagyos és tiszta. Ebédidőben a falu központja meleg éttermekkel hívogat. A délután a busszal könnyen elérhető Park im Grüene területéé, amely téli csendet kínál. Végül az út felvezet a Platte-kilátóhoz a Zürichi-tó esti fényeinek megcsodálásához.",
+            "ro": "Sosirea în Thalwil se face cu un tren încălzit, oferind prima vedere spre lacul de iarnă. Un scurt transfer cu autobuzul îi duce pe oaspeți în port, unde aerul este înghețat și curat. La prânz, centrul satului vă invită în restaurante calde. După-amiaza aparține parcului Park im Grüene, ușor accesibil cu autobuzul. La final, cursa urcă spre Platte pentru a vedea luminile de seară ale lacului.",
+            "en": "The journey to Thalwil is by heated train, allowing a first glimpse of the winter lake. A short bus transfer takes guests to the harbor, where the air is frosty and clear. At lunch, the village center invites you into warm restaurants. The afternoon belongs to Park im Grüene, easily accessible by bus and offering winter tranquility. Finally, the trip leads up to the Platte for a view of Lake Zurich's evening lights."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Thalwil Train Station",
+              "tip_5lang": {
+                "de": "Die beheizte Wartehalle bietet Schutz vor der Kälte während der Umstiegszeit.",
+                "hu": "A fűtött váróterem védelmet nyújt a hideg ellen az átszállási idő alatt.",
+                "ro": "Sala de așteptare încălzită oferă protecție împotriva frigului în timpul transferului.",
+                "en": "The heated waiting hall provides protection from the cold during transfer times."
+              }
+            },
+            {
+              "name": "Boat Station & Shore Path",
+              "tip_5lang": {
+                "de": "Die Schiffe verkehren auch im Winter nach dem speziellen Winterfahrplan.",
+                "hu": "A hajók télen is közlekednek a speciális téli menetrend szerint.",
+                "ro": "Vapoarele circulă și iarna conform orarului special de iarnă.",
+                "en": "Boats continue to operate in winter according to the special winter timetable."
+              }
+            },
+            {
+              "name": "Ludretikon & Old Schoolhouse",
+              "tip_5lang": {
+                "de": "Der Bus hält nah an den historischen Sehenswürdigkeiten; ideal bei eisiger Bise.",
+                "hu": "A busz közel áll meg a történelmi látnivalókhoz; ideális jeges szélben.",
+                "ro": "Autobuzul oprește aproape de obiectivele istorice; ideal pe vânt înghețat.",
+                "en": "The bus stops close to the historic sights; ideal when the biting 'Bise' wind blows."
+              }
+            },
+            {
+              "name": "Reformed Church & Lunch",
+              "tip_5lang": {
+                "de": "In der Nähe der Haltestelle 'Zentrum' finden Sie die gemütlichsten Gasthäuser.",
+                "hu": "A 'Zentrum' megálló közelében találja a legbarátságosabb vendéglőket.",
+                "ro": "În apropierea stației 'Zentrum' veți găsi cele mai primitoare hanuri.",
+                "en": "You will find the coziest inns near the 'Zentrum' bus stop."
+              }
+            },
+            {
+              "name": "Bus Ride to Park im Grüene",
+              "tip_5lang": {
+                "de": "Achten Sie auf die Anschlusszeiten; im Winter sind die Busse meist sehr pünktlich.",
+                "hu": "Ügyeljen a csatlakozásokra; télen a buszok általában nagyon pontosak.",
+                "ro": "Atenție la orele de legătură; iarna, autobuzele sunt de obicei foarte punctuale.",
+                "en": "Check connection times; buses are usually very punctual during the winter season."
+              }
+            },
+            {
+              "name": "Bus Ride to Thalwiler Platte",
+              "tip_5lang": {
+                "de": "Genießen Sie die Fahrt den Hügel hinauf und den Blick auf den frostigen See.",
+                "hu": "Élvezze az utat fel a dombra és a kilátást a fagyos tóra.",
+                "ro": "Savurați drumul spre deal și vederea spre lacul înghețat.",
+                "en": "Enjoy the ride up the hill and the view of the frosty lake from the bus window."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Busse sind gut beheizt; ideal zum Aufwärmen zwischen den Stopps.",
+              "Nutzen Sie die App, um Wartezeiten an den ungeschützten Haltestellen zu vermeiden.",
+              "Der Winterfahrplan kann am Wochenende abweichende Taktzeiten haben.",
+              "Tragen Sie rutschfeste Schuhe für die kurzen Wege zwischen Haltestelle und Ziel.",
+              "Das ZVV-Ticket gilt auch für die S-Bahn-Züge nach Zürich oder Pfäffikon."
+            ],
+            "hu": [
+              "A buszok jól fűtöttek; ideálisak a megállók közötti átmelegedéshez.",
+              "Használja az alkalmazást, hogy elkerülje a várakozást a nyitott megállókban.",
+              "A téli menetrend hétvégén eltérő járatsűrűséget mutathat.",
+              "Viseljen csúszásmentes cipőt a megálló és az úti cél közötti rövid sétákhoz.",
+              "A ZVV jegy érvényes az S-Bahn vonatokra is Zürich vagy Pfäffikon felé."
+            ],
+            "ro": [
+              "Autobuzele sunt bine încălzite; ideale pentru încălzire între opriri.",
+              "Folosiți aplicația pentru a evita timpii de așteptare în stațiile neprotejate.",
+              "Orarul de iarnă poate avea frecvențe diferite în timpul weekendului.",
+              "Purtați încălțăminte antiderapantă pentru distanțele scurte dintre stație și destinație.",
+              "Biletul ZVV este valabil și pentru trenurile S-Bahn spre Zürich sau Pfäffikon."
+            ],
+            "en": [
+              "Buses are well-heated; ideal for warming up between different stops.",
+              "Use the transit app to avoid long waiting times at unsheltered stops.",
+              "The winter timetable may have different frequencies on weekends.",
+              "Wear non-slip shoes for the short walks between the stops and your destination.",
+              "Your ZVV ticket is also valid for S-Bahn trains towards Zurich or Pfäffikon."
+            ]
+          }
+        }
       }
     }
   }

@@ -342,6 +342,196 @@
           "Bring plenty of water and sun protection, as there is little shade.",
           "A combination ticket is available for the site and the museum."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag im Museum, um den morgendlichen Schauern zu entgehen. Mittags erkunden Sie das Asklepieion mit einem festen Regenschirm, da die Steine glatt sein können. Der Nachmittag gehört dem Stadion, wo die tief hängenden Wolken über dem Ithome-Berg eine dramatische Kulisse bieten. Beenden Sie den Tag in einer gemütlichen Taverne in Mavromati bei lokalem Wein.",
+            "hu": "A napot a múzeumban kezdjük, elkerülve a reggeli záporokat. Délben az Asklepieion romjai között sétálunk, ügyelve a csúszós márványlépcsőkre. Délután a stadion monumentális tereit járjuk be, miközben a felhők átbuknak az Ithomi-hegyen. Az estét egy meleg tavernában zárjuk Mavromati faluban, ahol a helyi ételek kárpótolnak a borús időért.",
+            "ro": "Începeți ziua la muzeu pentru a evita aversele de dimineață. La prânz, explorați Asklepieionul cu o umbrelă solidă, deoarece pietrele pot fi alunecoase. După-amiaza este dedicată stadionului, unde norii joși de pe muntele Ithome creează un cadru dramatic. Încheiați ziua într-o tavernă primitoare din Mavromati, savurând preparate locale calde.",
+            "en": "Start the day at the museum to avoid morning showers. At noon, explore the Asklepieion with a sturdy umbrella, as the ancient stones can be slippery. The afternoon is spent at the stadium, where low clouds over Mount Ithome create a dramatic backdrop. End the day in a cozy tavern in Mavromati, enjoying warm local dishes and wine."
+          },
+          "stops": [
+            {
+              "name": "Archaeological Museum of Messene",
+              "tip_5lang": {
+                "de": "Idealer Zufluchtsort vor Regen; besichtigen Sie die Statuen in aller Ruhe.",
+                "hu": "Tökéletes menedék az eső elől; nézze meg alaposan a szobrokat.",
+                "ro": "Refugiu ideal împotriva ploii; vizitați statuile pe îndelete.",
+                "en": "Perfect refuge from the rain; take your time viewing the statues."
+              }
+            },
+            {
+              "name": "Asklepieion of Messene",
+              "tip_5lang": {
+                "de": "Vorsicht auf den nassen Marmorstufen; sie sind extrem rutschig.",
+                "hu": "Vigyázat a vizes márványlépcsőkön; rendkívül csúszósak.",
+                "ro": "Atenție pe treptele de marmură ude; sunt extrem de alunecoase.",
+                "en": "Caution on the wet marble steps; they are extremely slippery."
+              }
+            },
+            {
+              "name": "Stadium of Messene",
+              "tip_5lang": {
+                "de": "Das offene Gelände bietet wenig Schutz; Regenjacke ist Pflicht.",
+                "hu": "A nyitott terepen kevés a fedezék; esőkabát kötelező.",
+                "ro": "Terenul deschis oferă puțin adăpost; pelerina de ploaie este obligatorie.",
+                "en": "The open terrain offers little shelter; a raincoat is mandatory."
+              }
+            },
+            {
+              "name": "Lunch at Ithomi",
+              "tip_5lang": {
+                "de": "Wählen Sie einen Tisch am Kamin, um die Kleidung zu trocknen.",
+                "hu": "Válasszon asztalt a kandalló közelében, hogy megszárítsa ruháit.",
+                "ro": "Alegeți o masă lângă șemineu pentru a vă usca hainele.",
+                "en": "Choose a table near the fireplace to dry your clothes."
+              }
+            },
+            {
+              "name": "Arcadian Gate",
+              "tip_5lang": {
+                "de": "Die massiven Steine wirken im Regen besonders dunkel und mächtig.",
+                "hu": "A hatalmas kövek az esőben különösen sötétek és tekintélyesek.",
+                "ro": "Pietrele masive par deosebit de întunecate și puternice în ploaie.",
+                "en": "The massive stones look particularly dark and imposing in the rain."
+              }
+            },
+            {
+              "name": "Ancient Theatre",
+              "tip_5lang": {
+                "de": "Die Akustik verändert sich bei Regen; ein kurzes Innehalten lohnt sich.",
+                "hu": "Az akusztika megváltozik esőben; érdemes egy pillanatra megállni.",
+                "ro": "Acustica se schimbă în ploaie; merită o scurtă pauză pentru a asculta.",
+                "en": "The acoustics change in the rain; it's worth a brief pause to listen."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Wanderschuhe mit gutem Profil für den antiken Boden.",
+              "Ein Taschenschirm ist bei Wind auf dem Gelände oft unpraktisch, wählen Sie ein Cape.",
+              "Nutzen Sie die Regenpausen für Fotos vom Stadion von den oberen Rängen.",
+              "In Mavromati gibt es kleine Läden, die trockene Socken verkaufen.",
+              "Der Boden im Theater ist uneben; bei Nässe doppelt vorsichtig treten."
+            ],
+            "hu": [
+              "Viseljen vízálló túracipőt jó tapadással az ókori kövekhez.",
+              "A szeles terepen az esőkabát praktikusabb, mint egy esernyő.",
+              "Használja ki az esőszüneteket a stadion felső sorából készített fotókhoz.",
+              "Mavromati kisboltjaiban szükség esetén vehet száraz zoknit.",
+              "A színház talaja egyenetlen; sárban kétszer olyan óvatosan lépjen."
+            ],
+            "ro": [
+              "Purtați pantofi de drumeție impermeabili cu aderență bună pentru solul antic.",
+              "O pelerină de ploaie este mai practică decât o umbrelă pe teren vântos.",
+              "Folosiți pauzele de ploaie pentru fotografii de la rândurile superioare ale stadionului.",
+              "În Mavromati există magazine mici care vând șosete uscate la nevoie.",
+              "Solul teatrului este denivelat; fiți de două ori mai atenți pe noroi."
+            ],
+            "en": [
+              "Wear waterproof hiking shoes with good grip for the ancient ground.",
+              "A raincoat is more practical than an umbrella on the windy site.",
+              "Use rain breaks for photos of the stadium from the upper tiers.",
+              "Small shops in Mavromati sell dry socks if needed.",
+              "The theatre floor is uneven; be twice as careful in wet conditions."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die milde Wintersonne ist ideal für die lange Wanderung durch Alt-Messene. Starten Sie früh am Museum, während die Luft noch frisch ist. Mittags wärmen die Steine des Stadions die Umgebung auf, perfekt für ein Picknick. Da die Sonne bereits gegen 17:00 Uhr hinter den Bergen verschwindet, nutzen Sie das goldene Licht am Theater am frühen Nachmittag. Der Abend endet ruhig im beleuchteten Messini.",
+            "hu": "A szelíd téli napsütés ideális a hosszú sétához az ókori Messzénében. Kezdjen korán a múzeumban, amíg a levegő még friss. Délben a stadion kövei visszasugározzák a hőt, tökéletes hely a pihenésre. Mivel a nap 17:00 körül már eltűnik a hegyek mögött, a színházat kora délután látogassa meg az aranyfények miatt. Az este csendesen zárul a kivilágított Messini főterén.",
+            "ro": "Soarele blând de iarnă este ideal pentru plimbarea lungă prin Messene Antică. Începeți devreme la muzeu, cât timp aerul este încă proaspăt. La prânz, pietrele stadionului încălzesc atmosfera, fiind locul perfect pentru odihnă. Deoarece soarele apune după munți în jurul orei 17:00, vizitați teatrul după-amiaza devreme pentru lumina aurie. Seara se încheie liniștit în centrul luminat din Messini.",
+            "en": "The mild winter sun is ideal for the long walk through Ancient Messene. Start early at the museum while the air is still crisp. At noon, the stones of the stadium radiate warmth, making it a perfect spot for a break. Since the sun disappears behind the mountains around 17:00, visit the theatre in the early afternoon for the golden light. The evening ends quietly in the lit central square of Messini."
+          },
+          "stops": [
+            {
+              "name": "Archaeological Museum of Messene",
+              "tip_5lang": {
+                "de": "Gut beheizt; der ideale Ort, um sich am Vormittag aufzuwärmen.",
+                "hu": "Jól fűtött; ideális hely a reggeli bemelegedéshez.",
+                "ro": "Bine încălzit; locul ideal pentru a vă încălzi dimineața.",
+                "en": "Well-heated; the ideal place to warm up in the morning."
+              }
+            },
+            {
+              "name": "Asklepieion of Messene",
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne wirft lange Schatten auf die Säulengänge.",
+                "hu": "Az alacsonyan járó nap hosszú árnyékokat vet az oszlopcsarnokokra.",
+                "ro": "Soarele de iarnă aruncă umbre lungi pe colonade.",
+                "en": "The low winter sun casts long shadows on the colonnades."
+              }
+            },
+            {
+              "name": "Stadium of Messene",
+              "tip_5lang": {
+                "de": "Sonnige Plätze auf den Marmorsitzen suchen; windgeschützt rasten.",
+                "hu": "Keressen napos helyet a márványüléseken; szélvédett pihenőhely.",
+                "ro": "Căutați locuri însorite pe scaunele de marmură; odihnă ferită de vânt.",
+                "en": "Look for sunny spots on the marble seats; wind-sheltered rest area."
+              }
+            },
+            {
+              "name": "Lunch at Ithomi",
+              "tip_5lang": {
+                "de": "Fragen Sie nach dem Tagesgericht mit Wintergemüse und Lamm.",
+                "hu": "Kérje a téli zöldséges, bárányhúsos napi ajánlatot.",
+                "ro": "Întrebați de preparatul zilei cu legume de iarnă și miel.",
+                "en": "Ask for the daily special with winter vegetables and lamb."
+              }
+            },
+            {
+              "name": "Arcadian Gate",
+              "tip_5lang": {
+                "de": "Die klare Winterluft bietet Fernsicht bis zum Meer.",
+                "hu": "A tiszta téli levegőben ellátni egészen a tengerig.",
+                "ro": "Aerul curat de iarnă oferă vizibilitate până la mare.",
+                "en": "The clear winter air offers views all the way to the sea."
+              }
+            },
+            {
+              "name": "Ancient Theatre",
+              "tip_5lang": {
+                "de": "Besuch vor 16:00 Uhr planen, bevor es im Tal schattig wird.",
+                "hu": "Tervezze a látogatást 16:00 elé, mielőtt a völgy árnyékba borul.",
+                "ro": "Planificați vizita înainte de ora 16:00, înainte ca valea să intre în umbră.",
+                "en": "Plan the visit before 16:00, before the valley gets shady."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich im Zwiebelprinzip; die Sonne ist warm, der Schatten kalt.",
+              "Die Anlage schließt im Winter oft früher (meist 15:30-16:00), vorab prüfen.",
+              "Nehmen Sie eine Thermoskanne mit heißem Tee für die Pausen mit.",
+              "Tragen Sie eine Sonnenbrille, die helle Reflexion auf dem Marmor blendet.",
+              "Die Cafés in Mavromati haben im Winter oft nur drinnen geöffnet."
+            ],
+            "hu": [
+              "Öltözködjön rétegesen; a napon meleg van, az árnyékban fagyos a levegő.",
+              "A terület télen gyakran korábban zár (15:30-16:00), ellenőrizze előre.",
+              "Vigyen magával termoszt forró teával a pihenőkhöz.",
+              "Viseljen napszemüveget, a márványról visszaverődő fény vakító lehet.",
+              "Mavromati kávézói télen leginkább csak bent tartanak nyitva."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi; soarele este cald, dar umbra este rece.",
+              "Situl se închide adesea mai devreme iarna (15:30-16:00), verificați înainte.",
+              "Luați un termos cu ceai fierbinte pentru pauze.",
+              "Purtați ochelari de soare, reflexia pe marmura albă poate fi orbitoare.",
+              "Cafenelele din Mavromati au iarna deschis mai mult la interior."
+            ],
+            "en": [
+              "Dress in layers; the sun is warm, but the shade is cold.",
+              "The site often closes earlier in winter (15:30-16:00), check in advance.",
+              "Bring a thermos with hot tea for the breaks.",
+              "Wear sunglasses, the reflection on the white marble can be blinding.",
+              "Cafes in Mavromati mostly have indoor seating open in winter."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -349,7 +539,7 @@
       "speed_kmh": 10,
       "start": "09:00",
       "end_estimate": "17:49",
-      "total_km": 17.8,
+      "total_km": 11.5,
       "stop_count": 6,
       "stops": [
         {
@@ -646,6 +836,196 @@
           "A helmet is highly recommended.",
           "Bring a reliable lock to secure your bike at the various stops."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine sportliche Fahrt durch den Regen erfordert gute Vorbereitung. Starten Sie am Hauptplatz von Messini und prüfen Sie die Bremsen. Die Fahrt zum Arkadischen Tor führt über nasse Asphaltstraßen, fahren Sie vorsichtig bergauf. Nach der Besichtigung des Stadions bietet das Museum eine willkommene Trockenpause. Die Rückfahrt am Nachmittag erfordert volle Konzentration auf den rutschigen Kurven.",
+            "hu": "Az esős bringázás jó felkészülést igényel. Kezdjen Messini főterén, és ellenőrizze a fékeket. Az Árkádiai kapuhoz vezető út vizes aszfalton visz, óvatosan hajtson felfelé. A stadion megtekintése után a múzeum kiváló hely a száradásra. A délutáni visszaút során fokozottan figyeljen a csúszós kanyarokra a lejtőn.",
+            "ro": "O plimbare sportivă prin ploaie necesită o pregătire bună. Începeți în piața centrală din Messini și verificați frânele. Drumul către Poarta Arcadiei este pe asfalt ud, urcați cu atenție. După vizitarea stadionului, muzeul oferă o pauză de uscare binevenită. Drumul de întoarcere necesită concentrare maximă în curbele alunecoase.",
+            "en": "A sporty ride through the rain requires good preparation. Start at Messini's main square and check your brakes. The ride to the Arcadian Gate is on wet asphalt, climb carefully. After visiting the stadium, the museum offers a welcome drying break. The return trip in the afternoon requires full concentration on the slippery curves."
+          },
+          "stops": [
+            {
+              "name": "Central Square of Messini",
+              "tip_5lang": {
+                "de": "Reifendruck für nasse Straßen leicht senken, um Grip zu erhöhen.",
+                "hu": "Csökkentse kicsit a guminyomást a jobb tapadásért a vizes úton.",
+                "ro": "Reduceți ușor presiunea în pneuri pentru o aderență mai bună pe ud.",
+                "en": "Slightly lower tire pressure for better grip on wet roads."
+              }
+            },
+            {
+              "name": "Bike ride to the Arcadian Gate",
+              "tip_5lang": {
+                "de": "Vorsicht vor Schlamm auf der Fahrbahn in den Kurven.",
+                "hu": "Vigyázzon az útra felhordott sárral a kanyarokban.",
+                "ro": "Atenție la noroiul de pe carosabil în curbe.",
+                "en": "Watch out for mud on the road surface in the curves."
+              }
+            },
+            {
+              "name": "Stadium of Messene",
+              "tip_5lang": {
+                "de": "Fahrrad unter den Bäumen am Eingang abstellen.",
+                "hu": "Parkolja a kerékpárt a bejárat melletti fák alá.",
+                "ro": "Parcați bicicleta sub copacii de lângă intrare.",
+                "en": "Park the bike under the trees near the entrance."
+              }
+            },
+            {
+              "name": "Asklepieion & Lunch",
+              "tip_5lang": {
+                "de": "Kleidung am Heizkörper im Restaurant leicht anwärmen.",
+                "hu": "Melegítse át ruháit az étterem fűtőtesténél.",
+                "ro": "Încălziți-vă hainele lângă caloriferul din restaurant.",
+                "en": "Warm up your clothes near the heater in the restaurant."
+              }
+            },
+            {
+              "name": "Archaeological Museum",
+              "tip_5lang": {
+                "de": "Fahrradständer sind oft ungeschützt; Helm mit ins Museum nehmen.",
+                "hu": "A bringatárolók fedetlenek; a sisakot vigye be a múzeumba.",
+                "ro": "Suporturile de biciclete sunt descoperite; luați casca în muzeu.",
+                "en": "Bike racks are uncovered; take your helmet inside the museum."
+              }
+            },
+            {
+              "name": "Ride back to Messini",
+              "tip_5lang": {
+                "de": "Frühzeitig bremsen; Bremsweg auf nassem Asphalt ist deutlich länger.",
+                "hu": "Fékezzen időben; a féktáv vizes aszfalton sokkal hosszabb.",
+                "ro": "Frânați din timp; distanța de frânare pe asfalt ud este mai mare.",
+                "en": "Brake early; braking distance on wet asphalt is much longer."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche am Fahrrad sind bei diesem Wetter unerlässlich gegen Spritzwasser.",
+              "Tragen Sie eine neongelbe Regenjacke für bessere Sichtbarkeit im Nebel.",
+              "Vermeiden Sie das Fahren über weiße Fahrbahnmarkierungen, sie sind spiegelglatt.",
+              "Nehmen Sie Plastiktüten mit, um Sattel und Gepäck trocken zu halten.",
+              "Ein heißes Bad nach der Tour in Messini schützt vor Erkältung."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen ilyenkor a felcsapódó víz ellen.",
+              "Viseljen élénk színű esőkabátot a jobb láthatóságért a ködben.",
+              "Kerülje az útburkolati jeleket, mert vizesen rendkívül csúsznak.",
+              "Vigyen nejlonzacskót a nyereg és a táskák szárazon tartásához.",
+              "A túra utáni forró fürdő Messiniben segít elkerülni a megfázást."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt esențiale pe această vreme împotriva stropilor.",
+              "Purtați o jachetă de ploaie reflectorizantă pentru vizibilitate în ceață.",
+              "Evitați marcajele rutiere albe, sunt extrem de alunecoase pe ud.",
+              "Luați pungi de plastic pentru a păstra șaua și bagajele uscate.",
+              "O baie fierbinte după tură în Messini ajută la prevenirea răcelii."
+            ],
+            "en": [
+              "Mudguards on the bike are essential in this weather against splashes.",
+              "Wear a high-visibility raincoat for better visibility in the fog.",
+              "Avoid riding over white road markings, they are very slippery when wet.",
+              "Bring plastic bags to keep your saddle and bags dry.",
+              "A hot bath after the tour in Messini helps prevent catching a cold."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Winter in Messenien ist mild, aber der Fahrtwind kann kühl sein. Starten Sie Ihre Tour in Messini mit Handschuhen. Die Steigung zum Arkadischen Tor bringt Sie ins Schwitzen, genießen Sie die klare Sicht auf die schneebedeckten Gipfel des Taygetos-Gebirges. Mittags ist das Stadion ein sonniges Highlight. Da es ab 17:00 Uhr schnell abkühlt, planen Sie die Rückfahrt rechtzeitig vor Sonnenuntergang.",
+            "hu": "A messzéniai tél enyhe, de a menetszél hűvös lehet. Kezdje a túrát Messiniben kesztyűben. Az Árkádiai kapuhoz vezető emelkedőn bemelegszik majd, élvezze a kilátást a Tajgetosz havas csúcsaira. Délben a stadion a legnaposabb pont. Mivel 17:00 után gyorsan hűl a levegő, a visszaútra még naplemente előtt induljon el.",
+            "ro": "Iarna în Mesenia este blândă, dar vântul poate fi rece în timpul mersului. Începeți tura din Messini cu mănuși. Urcarea spre Poarta Arcadiei vă va încălzi, bucurați-vă de vederea spre vârfurile înzăpezite ale munților Taygetos. La prânz, stadionul este punctul cel mai însorit. Deoarece se răcește rapid după ora 17:00, planificați întoarcerea înainte de apus.",
+            "en": "Winter in Messenia is mild, but the wind can be chilly while riding. Start your tour in Messini with gloves. The climb to the Arcadian Gate will warm you up, enjoy the clear views of the snow-capped Taygetos peaks. At noon, the stadium is a sunny highlight. Since it cools down quickly after 17:00, plan your return trip well before sunset."
+          },
+          "stops": [
+            {
+              "name": "Central Square of Messini",
+              "tip_5lang": {
+                "de": "Warmer Kaffee vor dem Start; Handschuhe und Mütze unter dem Helm.",
+                "hu": "Meleg kávé indulás előtt; kesztyű és sapka a sisak alá.",
+                "ro": "Cafea caldă înainte de start; mănuși și căciulă sub cască.",
+                "en": "Warm coffee before starting; gloves and a hat under the helmet."
+              }
+            },
+            {
+              "name": "Bike ride to the Arcadian Gate",
+              "tip_5lang": {
+                "de": "Die klare Luft bietet heute die beste Sicht auf das Hinterland.",
+                "hu": "A tiszta levegőben ma a legjobb a kilátás a hátországra.",
+                "ro": "Aerul curat oferă astăzi cea mai bună vizibilitate spre interior.",
+                "en": "The clear air offers the best views of the hinterland today."
+              }
+            },
+            {
+              "name": "Stadium of Messene",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Mittagssonne für eine längere Pause auf den Stufen.",
+                "hu": "Használja ki a déli napsütést egy hosszabb pihenőre a lépcsőkön.",
+                "ro": "Folosiți soarele de prânz pentru o pauză lungă pe trepte.",
+                "en": "Use the midday sun for a longer break on the stadium steps."
+              }
+            },
+            {
+              "name": "Asklepieion & Lunch",
+              "tip_5lang": {
+                "de": "Kalorienreiche griechische Küche für die Energie auf dem Rückweg.",
+                "hu": "Kalóriadús görög konyha az energiához a visszaútra.",
+                "ro": "Bucătărie grecească bogată în calorii pentru energie la întoarcere.",
+                "en": "High-calorie Greek cuisine for energy on the way back."
+              }
+            },
+            {
+              "name": "Archaeological Museum",
+              "tip_5lang": {
+                "de": "Guter Ort, um die Finger für die Abfahrt wieder aufzuwärmen.",
+                "hu": "Jó hely az ujjak átmelegítésére a lejtmenet előtt.",
+                "ro": "Loc bun pentru a vă reîncălzi degetele înainte de coborâre.",
+                "en": "Good place to warm up your fingers before the descent."
+              }
+            },
+            {
+              "name": "Ride back to Messini",
+              "tip_5lang": {
+                "de": "Windjacke schließen; bei der Abfahrt wird es spürbar kälter.",
+                "hu": "Húzza fel a szélkabátot; a lejtőn érezhetően hidegebb lesz.",
+                "ro": "Închideți jacheta de vânt; la coborâre se face simțitor mai frig.",
+                "en": "Zip up your windbreaker; it gets noticeably colder during the descent."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winddichte Handschuhe sind bei Abfahrten im Winter ein Muss.",
+              "Prüfen Sie die Fahrradbeleuchtung; die Dämmerung setzt früh ein.",
+              "Vermeiden Sie schattige Waldstücke bei der Abfahrt, dort ist es klamm.",
+              "Ein Buff-Tuch schützt den Hals vor der kalten Winterluft.",
+              "Trinken Sie auch im Winter genug; man merkt den Durst seltener."
+            ],
+            "hu": [
+              "A szélálló kesztyű kötelező a téli lejtmeneteknél.",
+              "Ellenőrizze a lámpákat; a szürkület korán beköszönt.",
+              "Kerülje az árnyékos erdős szakaszokat a visszaúton, ott nyirkos az idő.",
+              "Egy csősál védi a nyakat a hideg téli menetszéltől.",
+              "Télen is igyon eleget; ilyenkor nehezebben vesszük észre a szomjúságot."
+            ],
+            "ro": [
+              "Mănușile rezistente la vânt sunt obligatorii la coborârile de iarnă.",
+              "Verificați luminile bicicletei; amurgul se instalează devreme.",
+              "Evitați porțiunile de pădure umbrite la întoarcere, acolo este umezeală.",
+              "O eșarfă tip tub protejează gâtul de aerul rece de iarnă.",
+              "Beți destulă apă și iarna; setea se resimte mai greu pe frig."
+            ],
+            "en": [
+              "Windproof gloves are a must for winter descents.",
+              "Check your bike lights; twilight sets in early.",
+              "Avoid shaded forest sections on the way back, as they stay damp.",
+              "A buff or neck warmer protects against the cold winter air.",
+              "Drink enough water even in winter; you notice thirst less often."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -974,6 +1354,214 @@
           "Roads can be narrow, so drive with care.",
           "Don't forget to lock your car and leave no valuables in sight."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Messene auch bei Regen komfortabel zu erleben. Parken Sie direkt am Museum und genießen Sie die Ausstellungen im Trockenen. Die Fahrt zum Stadion und Asklepieion ist kurz, nutzen Sie Regenpausen für kurze Besichtigungen. Ein Höhepunkt ist die Fahrt zum Voulkano-Kloster, wo die Wolken mystisch um die Felsen ziehen. Der Tag endet sicher und trocken zurück in Messini.",
+            "hu": "Autóval az ókori Messzéné esőben is kényelmesen felfedezhető. Parkoljon közvetlenül a múzeumnál, és élvezze a kiállítást szárazon. A stadionhoz és az Asklepieionhoz vezető út rövid, használja ki az esőszüneteket a gyors szemlére. A nap fénypontja az út a Voulkano kolostorhoz, ahol a felhők misztikusan gomolyognak a sziklák körül. A nap végén szárazon ér vissza Messinibe.",
+            "ro": "Cu mașina, Messene este confortabil de explorat chiar și pe ploaie. Parcați direct la muzeu și bucurați-vă de expoziții la adăpost. Drumul către stadion și Asklepieion este scurt, profitați de pauzele de ploaie pentru scurte vizite. Un punct culminant este drumul spre mănăstirea Voulkano, unde norii plutesc mistic în jurul stâncilor. Ziua se încheie sigur și uscat în Messini.",
+            "en": "By car, Messene is comfortable to explore even in the rain. Park directly at the museum and enjoy the exhibits in the dry. The drive to the stadium and Asklepieion is short, use rain breaks for quick sightseeing. A highlight is the drive to Voulkano Monastery, where clouds drift mystically around the rocks. The day ends safely and dry back in Messini."
+          },
+          "stops": [
+            {
+              "name": "Central Square & Agios Ioannis",
+              "tip_5lang": {
+                "de": "Parkplätze direkt am Platz nutzen; Schirm im Auto bereitlegen.",
+                "hu": "Parkoljon közvetlenül a téren; tartson esernyőt az autóban.",
+                "ro": "Folosiți parcarea din piață; țineți umbrela la îndemână în mașină.",
+                "en": "Use parking right at the square; keep an umbrella ready in the car."
+              }
+            },
+            {
+              "name": "Drive to Ancient Messene & Museum",
+              "tip_5lang": {
+                "de": "Parkplatz direkt vor dem Museumseingang; kurze Wege.",
+                "hu": "Parkoló közvetlenül a múzeum bejárata előtt; rövid séta.",
+                "ro": "Parcare chiar în fața intrării în muzeu; distanțe scurte.",
+                "en": "Parking right in front of the museum entrance; short walking distance."
+              }
+            },
+            {
+              "name": "Asklepieion of Messene",
+              "tip_5lang": {
+                "de": "Vom Parkplatz an der Straße sind es nur 2 Minuten Fußweg.",
+                "hu": "Az út menti parkolótól mindössze 2 perc gyalogút.",
+                "ro": "De la parcarea de pe marginea drumului sunt doar 2 minute de mers.",
+                "en": "It's only a 2-minute walk from the roadside parking area."
+              }
+            },
+            {
+              "name": "Stadium of Messene",
+              "tip_5lang": {
+                "de": "Bei starkem Regen Blick vom oberen Parkplatz aus genießen.",
+                "hu": "Heves esőben élvezze a kilátást a felső parkolóból.",
+                "ro": "În caz de ploaie torențială, admirați vederea din parcarea de sus.",
+                "en": "In heavy rain, enjoy the view from the upper parking lot."
+              }
+            },
+            {
+              "name": "Lunch Break",
+              "tip_5lang": {
+                "de": "Die Tavernen in Mavromati haben meist eigene Parkplätze.",
+                "hu": "Mavromati tavernáinak többsége saját parkolóval rendelkezik.",
+                "ro": "Tavernele din Mavromati au de obicei locuri de parcare proprii.",
+                "en": "The taverns in Mavromati usually have their own parking spots."
+              }
+            },
+            {
+              "name": "Drive to Voulkano Monastery",
+              "tip_5lang": {
+                "de": "Vorsicht auf der schmalen Bergstraße; Nebelgefahr beachten.",
+                "hu": "Óvatosan a szűk hegyi úton; ügyeljen a ködre.",
+                "ro": "Atenție pe drumul îngust de munte; atenție la ceață.",
+                "en": "Careful on the narrow mountain road; watch out for fog."
+              }
+            },
+            {
+              "name": "Return to Messini",
+              "tip_5lang": {
+                "de": "Scheibenwischer und Licht prüfen; Sicht kann schnell abnehmen.",
+                "hu": "Ellenőrizze az ablaktörlőket; a látótávolság gyorsan csökkenhet.",
+                "ro": "Verificați ștergătoarele și luminile; vizibilitatea poate scădea rapid.",
+                "en": "Check wipers and lights; visibility can decrease rapidly."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Klimaanlage gegen beschlagene Scheiben bei hoher Luftfeuchtigkeit.",
+              "Ein großer Stockschirm im Kofferraum ist für die Besichtigung der Ruinen ideal.",
+              "Die Bergstraßen können bei Regen rutschig sein, fahren Sie vorausschauend.",
+              "In Mavromati gibt es überdachte Plätze direkt vor den Cafés.",
+              "Besuchen Sie das Museum während der intensivsten Regenstunden."
+            ],
+            "hu": [
+              "Használja a klímát a szélvédő párátlanítására a magas páratartalom miatt.",
+              "Egy nagy esernyő a csomagtartóban ideális a romok megtekintéséhez.",
+              "A hegyi utak esőben csúszósak lehetnek, vezessen körültekintően.",
+              "Mavromatiban vannak fedett részek közvetlenül a kávézók előtt.",
+              "A múzeumlátogatást időzítse a leghevesebb esőzés idejére."
+            ],
+            "ro": [
+              "Folosiți aerul condiționat pentru a dezaburi geamurile la umiditate mare.",
+              "O umbrelă mare în portbagaj este ideală pentru vizitarea ruinelor.",
+              "Drumurile de munte pot fi alunecoase pe ploaie, conduceți prudent.",
+              "În Mavromati există locuri acoperite chiar în fața cafenelelor.",
+              "Vizitați muzeul în timpul orelor cu cele mai intense precipitații."
+            ],
+            "en": [
+              "Use the air conditioning to defog windows in high humidity.",
+              "A large umbrella in the trunk is ideal for visiting the ruins.",
+              "Mountain roads can be slippery in the rain, drive proactively.",
+              "In Mavromati, there are covered areas right in front of the cafes.",
+              "Time your museum visit during the most intense rain hours."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die winterliche Fahrt durch die messenische Landschaft. Die Heizung sorgt für Komfort zwischen den Stationen. Das klare Licht am Vormittag am Museum ist perfekt für Fotos. Mittags bietet die Fahrt zum Voulkano-Kloster ein spektakuläres Panorama auf den verschneiten Taygetos. Da die Sonne früh untergeht, beenden Sie den Tag rechtzeitig in Messini bei einem warmen Abendessen.",
+            "hu": "Élvezze a téli autózást a messzéniai tájon át. A fűtés kényelmessé teszi az utat a megállók között. A múzeumnál a délelőtti tiszta fények tökéletesek a fotózáshoz. Délben a Voulkano kolostorhoz vezető út látványos panorámát nyújt a havas Tajgetoszra. Mivel a nap korán nyugszik, fejezze be a napot időben Messiniben egy meleg vacsorával.",
+            "ro": "Bucurați-vă de drumul de iarnă prin peisajul mesenian. Căldura din mașină oferă confort între opriri. Lumina clară de dimineață la muzeu este perfectă pentru fotografii. La prânz, drumul spre mănăstirea Voulkano oferă o panoramă spectaculoasă spre munții Taygetos înzăpeziți. Deoarece soarele apune devreme, încheiați ziua la timp în Messini cu o cină caldă.",
+            "en": "Enjoy the winter drive through the Messenian landscape. The car heater provides comfort between stops. The clear morning light at the museum is perfect for photography. At noon, the drive to Voulkano Monastery offers a spectacular panorama of the snow-capped Taygetos peaks. Since the sun sets early, finish your day on time in Messini with a warm dinner."
+          },
+          "stops": [
+            {
+              "name": "Central Square & Agios Ioannis",
+              "tip_5lang": {
+                "de": "Starten Sie mit einem beheizten Auto; Parkplätze im Winter reichlich vorhanden.",
+                "hu": "Induljon befűtött autóval; télen bőségesen van parkolóhely.",
+                "ro": "Porniți cu mașina încălzită; iarna sunt locuri de parcare din abundență.",
+                "en": "Start with a heated car; parking spaces are plentiful in winter."
+              }
+            },
+            {
+              "name": "Drive to Ancient Messene & Museum",
+              "tip_5lang": {
+                "de": "Kurze Fahrt auf trockenen Straßen; beste Zeit für Bergfotos.",
+                "hu": "Rövid út száraz aszfalton; a legjobb idő a hegyi fotókhoz.",
+                "ro": "Drum scurt pe asfalt uscat; cel mai bun moment pentru poze montane.",
+                "en": "Short drive on dry roads; best time for mountain photography."
+              }
+            },
+            {
+              "name": "Asklepieion of Messene",
+              "tip_5lang": {
+                "de": "Die Mittagssonne wärmt das Gelände angenehm auf.",
+                "hu": "A déli napsütés kellemesen felmelegíti a területet.",
+                "ro": "Soarele de prânz încălzește plăcut situl.",
+                "en": "The midday sun warms the site up pleasantly."
+              }
+            },
+            {
+              "name": "Stadium of Messene",
+              "tip_5lang": {
+                "de": "Zügiger Spaziergang durch das Stadion hält warm.",
+                "hu": "Egy tempós séta a stadionban segít melegen maradni.",
+                "ro": "O plimbare vioaie prin stadion vă ajută să vă mențineți căldura.",
+                "en": "A brisk walk through the stadium helps keep you warm."
+              }
+            },
+            {
+              "name": "Lunch Break",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Berge vom warmen Fensterplatz.",
+                "hu": "Élvezze a kilátást a hegyekre a meleg ablak mellől.",
+                "ro": "Bucurați-vă de vederea spre munți de la un loc cald la geam.",
+                "en": "Enjoy the mountain view from a warm window seat."
+              }
+            },
+            {
+              "name": "Drive to Voulkano Monastery",
+              "tip_5lang": {
+                "de": "Schnee ist hier selten, aber die Luft ist oben deutlich kühler.",
+                "hu": "A hó itt ritka, de a levegő fent lényegesen hidegebb.",
+                "ro": "Zăpada este rară aici, dar aerul este mult mai rece sus.",
+                "en": "Snow is rare here, but the air is significantly cooler up top."
+              }
+            },
+            {
+              "name": "Return to Messini",
+              "tip_5lang": {
+                "de": "Fahrt in der blauen Stunde; Messini ist schön beleuchtet.",
+                "hu": "Vezetés a kék órában; Messini fényei gyönyörűek.",
+                "ro": "Conducerea în ora albastră; luminile din Messini sunt superbe.",
+                "en": "Driving during the blue hour; Messini's lights are beautiful."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Reifendruck vor der Fahrt ins Gebirge.",
+              "Nehmen Sie warme Decken für die Pausen außerhalb des Autos mit.",
+              "Die Sonne blendet im Winter tief; Sonnenblende und Brille nutzen.",
+              "Besuchen Sie das Voulkano-Kloster für den besten Sonnenuntergangsblick.",
+              "In Mavromati gibt es Kamine in den Restaurants, sehr gemütlich im Winter."
+            ],
+            "hu": [
+              "Ellenőrizze a guminyomást a hegyi út előtt.",
+              "Vigyen meleg takarót az autón kívüli pihenőkhöz.",
+              "A nap télen alacsonyan vakít; használja a napellenzőt.",
+              "Látogassa meg a Voulkano kolostort a legjobb naplementés panorámáért.",
+              "Mavromati éttermeiben vannak kandallók, télen nagyon hangulatos."
+            ],
+            "ro": [
+              "Verificați presiunea în anvelope înainte de drumul spre munte.",
+              "Luați pături calde pentru pauzele în afara mașinii.",
+              "Soarele de iarnă este jos și orbitor; folosiți parasolarul.",
+              "Vizitați mănăstirea Voulkano pentru cea mai bună vedere la apus.",
+              "În Mavromati există șeminee în restaurante, foarte primitoare iarna."
+            ],
+            "en": [
+              "Check tire pressure before heading into the mountains.",
+              "Bring warm blankets for breaks outside the car.",
+              "The winter sun is low and blinding; use the sun visor.",
+              "Visit Voulkano Monastery for the best sunset views.",
+              "In Mavromati, restaurants have fireplaces, very cozy in winter."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1274,6 +1862,196 @@
           "Be aware of the last bus departure time back to Messini.",
           "The bus stop is in Mavromati village, a short walk from the site entrance."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Bus bietet Schutz während der Fahrt nach Alt-Messene. Starten Sie am Hauptplatz von Messini und nutzen Sie den überdachten Wartebereich. Vormittags ist das Museum der ideale Ort, um dem Regen zu entgehen. Mittags stärken Sie sich in Mavromati, bevor Sie die Ruinen besichtigen. Planen Sie den Rückweg so, dass Sie die Wartezeiten im Regen minimieren.",
+            "hu": "A busz védelmet nyújt az ókori Messzéné felé vezető úton. Kezdjen Messini főterén a fedett váróban. Délelőtt a múzeum az ideális hely az eső elkerülésére. Délben Mavromatiban töltekezzen fel a romok megtekintése előtt. A visszafelé utat úgy tervezze meg, hogy minimalizálja az esőben való várakozást.",
+            "ro": "Autobuzul oferă protecție în timpul drumului spre Messene Antică. Începeți în piața din Messini și folosiți zona de așteptare acoperită. Dimineața, muzeul este locul ideal pentru a evita ploaia. La prânz, relaxați-vă în Mavromati înainte de a vizita ruinele. Planificați întoarcerea pentru a minimiza așteptarea în ploaie.",
+            "en": "The bus provides shelter during the trip to Ancient Messene. Start at Messini's main square and use the covered waiting area. In the morning, the museum is the ideal place to escape the rain. At noon, refuel in Mavromati before visiting the ruins. Plan your return trip to minimize waiting time in the rain."
+          },
+          "stops": [
+            {
+              "name": "Central Square of Messini",
+              "tip_5lang": {
+                "de": "Im Café am Platz warten, bis der Bus einfährt.",
+                "hu": "Várjon a téri kávézóban, amíg beérkezik a busz.",
+                "ro": "Așteptați în cafeneaua din piață până sosește autobuzul.",
+                "en": "Wait in the square's cafe until the bus arrives."
+              }
+            },
+            {
+              "name": "Bus ride to Ancient Messene",
+              "tip_5lang": {
+                "de": "Beschlagene Fenster mit einem Tuch abwischen für die Aussicht.",
+                "hu": "Törölje le a párás ablakot egy kendővel a kilátásért.",
+                "ro": "Ștergeți geamurile aburite cu o cârpă pentru a vedea peisajul.",
+                "en": "Wipe the fogged windows with a cloth for the view."
+              }
+            },
+            {
+              "name": "Asklepieion & Stadium",
+              "tip_5lang": {
+                "de": "Kurze Sprints zwischen den Ruinen bei Schauern.",
+                "hu": "Gyors séta a romok között a záporok szünetében.",
+                "ro": "Scurte sprinturi între ruine în timpul averselor.",
+                "en": "Quick sprints between the ruins during rain showers."
+              }
+            },
+            {
+              "name": "Lunch in Mavromati",
+              "tip_5lang": {
+                "de": "Zentraler Ort, um die Zeit bis zum nächsten Bus abzuwarten.",
+                "hu": "Központi hely a következő buszig való várakozáshoz.",
+                "ro": "Loc central pentru a aștepta următorul autobuz.",
+                "en": "Central place to wait for the next bus."
+              }
+            },
+            {
+              "name": "Arcadian Gate",
+              "tip_5lang": {
+                "de": "Liegt direkt an der Busroute; Fahrer um Halt bitten.",
+                "hu": "Közvetlenül a buszjárat mellett van; kérje meg a sofőrt, hogy álljon meg.",
+                "ro": "Chiar pe ruta autobuzului; rugați șoferul să oprească.",
+                "en": "Right on the bus route; ask the driver to stop."
+              }
+            },
+            {
+              "name": "Bus back to Messini",
+              "tip_5lang": {
+                "de": "Pünktlich sein, da Busse bei Regen seltener fahren könnten.",
+                "hu": "Legyen pontos, esőben ritkábbak lehetnek a járatok.",
+                "ro": "Fiți punctuali, autobuzele pot circula mai rar pe ploaie.",
+                "en": "Be on time, as buses might run less frequently in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den aktuellen Busfahrplan online oder am Kiosk.",
+              "Halten Sie Kleingeld für das Ticket bereit, oft kein Kartenkauf im Bus.",
+              "Tragen Sie wasserfeste Kleidung; die Haltestellen sind teils offen.",
+              "Ein kleiner Snack überbrückt eventuelle Wartezeiten an der Station.",
+              "Fragen Sie Einheimische nach alternativen Sammeltaxis bei Ausfällen."
+            ],
+            "hu": [
+              "Ellenőrizze az aktuális menetrendet online vagy a kioszknál.",
+              "Legyen Önnél aprópénz a jegyre, a buszon gyakran nem lehet kártyával fizetni.",
+              "Viseljen vízálló ruhát; a megállók néhol fedetlenek.",
+              "Egy kis nassolnivaló segít átvészelni a várakozást.",
+              "Kérdezze a helyieket a gyűjtőtaxikról, ha kimaradna egy járat."
+            ],
+            "ro": [
+              "Verificați orarul actualizat online sau la chioșcuri.",
+              "Aveți bani mărunți pentru bilet, plata cu cardul nu e mereu posibilă în autobuz.",
+              "Purtați haine impermeabile; stațiile sunt parțial descoperite.",
+              "O mică gustare ajută la trecerea timpului în stație.",
+              "Întrebați localnicii despre taxiuri partajate dacă se anulează un curs."
+            ],
+            "en": [
+              "Check the current bus schedule online or at the kiosk.",
+              "Have small change ready for the ticket, cards are often not accepted on buses.",
+              "Wear waterproof clothing; some stops are uncovered.",
+              "A small snack helps during potential waiting times at the station.",
+              "Ask locals about shared taxis if a bus is cancelled."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den öffentlichen Bus für einen entspannten Winterausflug. Die Fahrt durch die Olivenhaine ist bei klarem Winterlicht besonders schön. Vormittags im Museum ist es angenehm warm. Mittags erkunden Sie die weite Anlage von Messene, die winterliche Frische macht das Gehen leicht. Der Nachmittag am Arkadischen Tor bietet tolle Ausblicke, bevor Sie den Bus zurück in das belebte Messini nehmen.",
+            "hu": "Használja a helyi buszt egy pihentető téli kiránduláshoz. Az olajfák közötti út a tiszta téli fényben különösen szép. Délelőtt a múzeumban kellemesen meleg az idő. Délben fedezze fel Messzéné tágas területét, a téli frissesség megkönnyíti a gyaloglást. Délután az Árkádiai kapunál élvezze a kilátást, mielőtt visszabuszolna a nyüzsgő Messinibe.",
+            "ro": "Folosiți autobuzul public pentru o excursie relaxantă de iarnă. Drumul prin livezile de măslini este deosebit de frumos în lumina clară de iarnă. Dimineața, la muzeu, este plăcut și cald. La prânz, explorați situl vast din Messene, prospețimea iernii făcând mersul ușor. După-amiaza la Poarta Arcadiei oferă vederi superbe înainte de a lua autobuzul înapoi spre Messini.",
+            "en": "Use the public bus for a relaxed winter excursion. The ride through the olive groves is particularly beautiful in the clear winter light. In the morning, the museum is pleasantly warm. At noon, explore the vast site of Messene; the winter freshness makes walking easy. The afternoon at the Arcadian Gate offers great views before you take the bus back to lively Messini."
+          },
+          "stops": [
+            {
+              "name": "Central Square of Messini",
+              "tip_5lang": {
+                "de": "Frühen Bus nehmen, um das Tageslicht optimal zu nutzen.",
+                "hu": "Menjen korai busszal, hogy kihasználja a nappali fényt.",
+                "ro": "Luați un autobuz matinal pentru a profita de lumina zilei.",
+                "en": "Take an early bus to make the most of the daylight."
+              }
+            },
+            {
+              "name": "Bus ride to Ancient Messene",
+              "tip_5lang": {
+                "de": "Sonnenseite im Bus wählen für natürliche Wärme.",
+                "hu": "Válasszon napos oldalt a buszon a természetes melegért.",
+                "ro": "Alegeți partea însorită în autobuz pentru căldură naturală.",
+                "en": "Choose the sunny side in the bus for natural warmth."
+              }
+            },
+            {
+              "name": "Asklepieion & Stadium",
+              "tip_5lang": {
+                "de": "Ideale Temperatur für die weiten Wege zwischen den Stätten.",
+                "hu": "Ideális hőmérséklet a helyszínek közötti hosszú sétákhoz.",
+                "ro": "Temperatură ideală pentru distanțele lungi dintre obiective.",
+                "en": "Ideal temperature for the long distances between the sites."
+              }
+            },
+            {
+              "name": "Lunch in Mavromati",
+              "tip_5lang": {
+                "de": "Heißes Getränk bestellen, während man auf den Bus wartet.",
+                "hu": "Rendeljen forró italt, amíg a buszra vár.",
+                "ro": "Comandați o băutură fierbinte în timp ce așteptați autobuzul.",
+                "en": "Order a hot drink while waiting for the bus."
+              }
+            },
+            {
+              "name": "Arcadian Gate",
+              "tip_5lang": {
+                "de": "Kurzer Stopp vor dem Sonnenuntergang am frühen Nachmittag.",
+                "hu": "Rövid megálló a kora délutáni naplemente előtt.",
+                "ro": "Scurtă oprire înainte de apusul de după-amiază devreme.",
+                "en": "Quick stop before the early afternoon sunset."
+              }
+            },
+            {
+              "name": "Bus back to Messini",
+              "tip_5lang": {
+                "de": "Warme Jacke anziehen; an den Haltestellen zieht es im Winter.",
+                "hu": "Vegye fel a meleg kabátot; a megállókban télen huzat van.",
+                "ro": "Puneți jacheta groasă; în stații este curent iarna.",
+                "en": "Put on your warm jacket; bus stops can be drafty in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterfahrpläne können von Sommerzeiten abweichen, vorab checken.",
+              "Die letzte Busverbindung ist im Winter oft früher am Nachmittag.",
+              "Nehmen Sie eine Sitzunterlage für die Wartezeit auf kalten Steinbänken mit.",
+              "Die Busfahrt dauert ca. 30-40 Minuten, genießen Sie die Landschaft.",
+              "Warme Schuhe sind wichtig, da man an den Haltestellen schnell auskühlt."
+            ],
+            "hu": [
+              "A téli menetrend eltérhet a nyáritól, ellenőrizze előre.",
+              "Az utolsó buszjárat télen gyakran korábban indul délután.",
+              "Vigyen egy kis ülőpárnát a hideg kőpadokon való várakozáshoz.",
+              "A buszút kb. 30-40 percig tart, élvezze a tájat.",
+              "A meleg cipő fontos, mert a megállókban hamar lehűl az ember lába."
+            ],
+            "ro": [
+              "Orarele de iarnă pot diferi de cele de vară, verificați din timp.",
+              "Ultima legătură cu autobuzul este iarna adesea mai devreme după-amiaza.",
+              "Luați o pernă de șezut pentru așteptarea pe băncile de piatră reci.",
+              "Călătoria cu autobuzul durează circa 30-40 de minute, admirați peisajul.",
+              "Încălțămintea călduroasă este importantă pentru așteptarea în stații."
+            ],
+            "en": [
+              "Winter schedules may differ from summer ones, check in advance.",
+              "The last bus connection is often earlier in the afternoon in winter.",
+              "Bring a small seat pad for waiting on cold stone benches.",
+              "The bus ride takes about 30-40 minutes; enjoy the scenery.",
+              "Warm shoes are important, as you cool down quickly while waiting."
+            ]
+          }
+        }
       }
     }
   }

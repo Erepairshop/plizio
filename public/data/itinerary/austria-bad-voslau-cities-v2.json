@@ -362,6 +362,196 @@
           "Many Heuriger wine taverns are only open on specific days ('ausg'steckt'). Check their schedules.",
           "The tap water is of excellent quality, and the mineral water is ubiquitous."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt unter dem Regenschirm bei der barocken Jakobskirche. Im Schloss Vöslau finden Sie Schutz in den Gängen des heutigen Rathauses. Mittags führt ein kurzer, nasser Spaziergang durch den Kurpark direkt zum Thermalbad, wo das Wasser von innen wärmt. Den Nachmittag verbringen Sie trocken in den Schlumberger-Kellern bei einer Führung, bevor der Tag gemütlich in einem Heurigen endet.",
+            "hu": "Az esős reggelt a Szent Jakab-templom barokk falai között kezdjük, majd a Vöslau-kastély árkádjai alatt keresünk menedéket. A Kurparkon keresztül egy rövid esernyős séta vezet a termálfürdőbe, ahol a kinti zivatar ellenére is élvezheti a vizet. Délután a Schlumberger pincerendszerében garantált a szárazföldi program, az estét pedig egy hangulatos, fedett Heurigerben zárjuk.",
+            "ro": "Ziua începe sub umbrelă la biserica barocă Sf. Iacob. La Castelul Vöslau puteți găsi adăpost în holurile primăriei de astăzi. La prânz, o scurtă plimbare prin parcul stațiunii duce direct la băile termale, unde apa vă încălzește pe interior. Petreceți după-amiaza la adăpost în pivnițele Schlumberger, înainte ca ziua să se încheie confortabil la un Heuriger local.",
+            "en": "The day starts under an umbrella at the Baroque St. Jacob's Church. At Vöslau Castle, you can find shelter in the corridors of today's town hall. At noon, a short, wet walk through the spa park leads directly to the thermal baths, where the water warms you from within. Spend the afternoon dry in the Schlumberger cellars on a tour before the day ends cozily at a local Heuriger."
+          },
+          "stops": [
+            {
+              "name": "Parish Church of St. Jacob",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Deckenfresken, während es draußen regnet.",
+                "hu": "Csodálja meg a mennyezeti freskókat, amíg odakint esik.",
+                "ro": "Admirați frescele de pe tavan în timp ce afară plouă.",
+                "en": "Admire the ceiling frescoes while it rains outside."
+              }
+            },
+            {
+              "name": "Vöslau Castle",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Arkadengang als trockenen Unterstand.",
+                "hu": "Használja az árkádsort száraz menedékként.",
+                "ro": "Folosiți arcada ca adăpost uscat.",
+                "en": "Use the arcade as a dry shelter."
+              }
+            },
+            {
+              "name": "Kursalon and Spa Park",
+              "tip_5lang": {
+                "de": "Die asphaltierten Wege sind auch bei Regen gut begehbar.",
+                "hu": "Az aszfaltozott utak esőben is jól járhatóak.",
+                "ro": "Potecile asfaltate sunt ușor de parcurs chiar și pe ploaie.",
+                "en": "The paved paths are easy to walk even in the rain."
+              }
+            },
+            {
+              "name": "Thermal Bath Bad Vöslau",
+              "tip_5lang": {
+                "de": "Perfekter Rückzugsort bei schlechtem Wetter.",
+                "hu": "Tökéletes menedék rossz idő esetén.",
+                "ro": "Refugiul perfect în caz de vreme rea.",
+                "en": "Perfect retreat in case of bad weather."
+              }
+            },
+            {
+              "name": "Schlumberger Sparkling Wine Cellars",
+              "tip_5lang": {
+                "de": "Tief unter der Erde spielt das Wetter keine Rolle.",
+                "hu": "Mélyen a föld alatt az időjárás nem számít.",
+                "ro": "Adânc sub pământ, vremea nu contează.",
+                "en": "Deep underground, the weather doesn't matter."
+              }
+            },
+            {
+              "name": "Dinner at a Heuriger",
+              "tip_5lang": {
+                "de": "Wählen Sie einen Heurigen mit gemütlicher Gaststube.",
+                "hu": "Válasszon egy hangulatos belső helyiséggel rendelkező borozót.",
+                "ro": "Alegeți un Heuriger cu o cameră de oaspeți confortabilă.",
+                "en": "Choose a Heuriger with a cozy indoor dining room."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein großer Stockschirm ist wegen der Windböen am Hang besser als ein Taschenschirm.",
+              "Die Gehwege im Zentrum sind meist gepflastert, aber wasserfeste Schuhe sind ratsam.",
+              "Im Thermalbad gibt es ausreichend Indoor-Liegeflächen für Regenpausen.",
+              "Die Kellerführung bei Schlumberger dauert ca. 60-90 Minuten und ist komplett überdacht.",
+              "Reservieren Sie beim Heurigen einen Tisch im Innenbereich."
+            ],
+            "hu": [
+              "A lejtőkön fellépő széllökések miatt az óriásesernyő jobb választás, mint az összecsukható.",
+              "A központ járdái burkoltak, de a vízálló cipő ajánlott a parki sétához.",
+              "A termálfürdőben bőséges fedett pihenőhely áll rendelkezésre.",
+              "A Schlumberger pincetúra 60-90 perces és teljesen fedett útvonalon zajlik.",
+              "Érdemes előre asztalt foglalni a Heuriger belső termében."
+            ],
+            "ro": [
+              "O umbrelă mare este mai bună decât una de buzunar din cauza rafalelor de vânt de pe pantă.",
+              "Trotuarele din centru sunt în mare parte pavate, dar se recomandă încălțăminte impermeabilă.",
+              "Băile termale au suficiente zone de relaxare interioare pentru pauzele de ploaie.",
+              "Turul pivniței la Schlumberger durează aproximativ 60-90 de minute și este complet acoperit.",
+              "Rezervați o masă în interior la Heuriger."
+            ],
+            "en": [
+              "A large stick umbrella is better than a pocket one due to wind gusts on the slope.",
+              "The sidewalks in the center are mostly paved, but waterproof shoes are advisable.",
+              "The thermal baths have sufficient indoor lounging areas for rainy breaks.",
+              "The cellar tour at Schlumberger takes approx. 60-90 minutes and is completely covered.",
+              "Reserve an indoor table at the Heuriger in advance."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen beginnt frisch an der Jakobskirche, deren barocke Pracht im kalten Licht erstrahlt. Ein Spaziergang zum Schloss führt durch den verschneiten oder frostigen Park. Mittags bietet das Thermalbad mit seinen warmen Quellen den ultimativen Kontrast zur Kälte. Da es früh dunkel wird, nutzen wir den späten Nachmittag für die unterirdischen Schlumberger-Welten, bevor wir uns bei Wein und deftiger Kost aufwärmen.",
+            "hu": "A téli reggel friss levegőn indul a Szent Jakab-templomnál, melynek barokk díszei ragyognak a hideg fényben. A kastélyhoz vezető séta a fagyos parkon át vezet. Délben a termálfürdő meleg vize nyújt kontrasztot a kinti hideggel. Mivel korán sötétedik, a késő délutánt a Schlumberger föld alatti világában töltjük, végül forró ételekkel melegszünk fel egy borozóban.",
+            "ro": "Dimineața de iarnă începe proaspăt la biserica Sf. Iacob, a cărei splendoare barocă strălucește în lumina rece. O plimbare spre castel duce prin parcul înghețat. La prânz, băile termale cu izvoarele lor calde oferă contrastul suprem cu frigul. Deoarece se întunecă devreme, folosim după-amiaza târzie pentru pivnițele Schlumberger, înainte de a ne încălzi cu vin și mâncare consistentă.",
+            "en": "The winter morning starts fresh at St. Jacob's Church, whose Baroque splendor shines in the cold light. A walk to the castle leads through the snowy or frosty park. At noon, the thermal baths with their warm springs offer the ultimate contrast to the cold. As it gets dark early, we use the late afternoon for the underground Schlumberger worlds before warming up with wine and hearty food."
+          },
+          "stops": [
+            {
+              "name": "Parish Church of St. Jacob",
+              "tip_5lang": {
+                "de": "In der Kirche ist es oft kühler als gedacht, behalten Sie den Mantel an.",
+                "hu": "A templomban gyakran hidegebb van a vártnál, tartsa magán a kabátot.",
+                "ro": "În biserică este adesea mai frig decât s-ar crede, păstrați haina pe dvs.",
+                "en": "It is often cooler in the church than expected, keep your coat on."
+              }
+            },
+            {
+              "name": "Vöslau Castle",
+              "tip_5lang": {
+                "de": "Der Schlossplatz bietet schöne Fotomotive bei Frost.",
+                "hu": "A kastélytér gyönyörű fotótémát kínál zúzmarás időben.",
+                "ro": "Piața castelului oferă oportunități frumoase de fotografiere în caz de îngheț.",
+                "en": "The castle square offers beautiful photo opportunities in frosty weather."
+              }
+            },
+            {
+              "name": "Kursalon and Spa Park",
+              "tip_5lang": {
+                "de": "Achtung bei den Wegen, es könnte glatt sein.",
+                "hu": "Vigyázat az utakon, csúszós lehet a burkolat.",
+                "ro": "Atenție pe poteci, ar putea fi alunecos.",
+                "en": "Watch out on the paths, it could be slippery."
+              }
+            },
+            {
+              "name": "Thermal Bath Bad Vöslau",
+              "tip_5lang": {
+                "de": "Die heißen Quellen sind im Winter besonders wohltuend.",
+                "hu": "A meleg források télen különösen jólesnek.",
+                "ro": "Izvoarele fierbinți sunt deosebit de benefice iarna.",
+                "en": "The hot springs are particularly beneficial in winter."
+              }
+            },
+            {
+              "name": "Schlumberger Sparkling Wine Cellars",
+              "tip_5lang": {
+                "de": "Die Kellertemperatur ist konstant und oft wärmer als draußen.",
+                "hu": "A pince hőmérséklete állandó, és gyakran melegebb, mint kint.",
+                "ro": "Temperatura pivniței este constantă și adesea mai caldă decât afară.",
+                "en": "The cellar temperature is constant and often warmer than outside."
+              }
+            },
+            {
+              "name": "Dinner at a Heuriger",
+              "tip_5lang": {
+                "de": "Genießen Sie den hausgemachten Punsch oder Glühwein.",
+                "hu": "Kóstolja meg a házi puncsot vagy forralt bort.",
+                "ro": "Bucurați-vă de punch-ul de casă sau de vinul fiert.",
+                "en": "Enjoy the homemade punch or mulled wine."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Dezember bereits gegen 16:00 Uhr unter.",
+              "Tragen Sie Zwiebelschichten, da es im Thermalbad sehr warm, draußen aber frostig ist.",
+              "Die Parkwege werden geräumt, dennoch ist festes Profil ratsam.",
+              "Im Schlumberger-Keller hat es konstante 12-14 Grad – ideal zum Aufwärmen.",
+              "Prüfen Sie die Winteröffnungszeiten der Heurigen, da einige im Jänner Pause machen."
+            ],
+            "hu": [
+              "A nap decemberben már 16:00 óra körül lemegy.",
+              "Öltözzön rétegesen, mert a fürdőben meleg van, de kint fagyhat.",
+              "A parki utakat takarítják, de a bordázott talpú cipő ajánlott.",
+              "A Schlumberger pincében állandó 12-14 fok van – ideális a felmelegedéshez.",
+              "Ellenőrizze a borozók téli nyitvatartását, mert januárban többen zárva tarthatnak."
+            ],
+            "ro": [
+              "Soarele apune în decembrie deja în jurul orei 16:00.",
+              "Purtați straturi de haine, deoarece este foarte cald în băile termale, dar înghețat afară.",
+              "Potecile din parc sunt curățate, dar se recomandă talpă aderentă.",
+              "În pivnița Schlumberger sunt constante 12-14 grade – ideal pentru încălzire.",
+              "Verificați programul de iarnă al localurilor Heurigen, deoarece unele iau pauză în ianuarie."
+            ],
+            "en": [
+              "The sun sets as early as 4:00 PM in December.",
+              "Wear layers, as it is very warm in the thermal bath but frosty outside.",
+              "The park paths are cleared, but sturdy soles are still advisable.",
+              "The Schlumberger cellar stays at a constant 12-14 degrees Celsius – ideal for warming up.",
+              "Check the winter opening hours of the Heurigen, as some may be closed in January."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -742,6 +932,214 @@
           "A bike lock is recommended to park your bike safely.",
           "Combine the bike tour with a relaxing time at the thermal bath."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen starten wir die Tour am Kurpark, nutzen aber die befestigten Wege. Der Anstieg zum Harzberg erfolgt vorsichtig auf dem Forstweg, da der Boden rutschig sein kann. Die Aussicht vom Jubiläumsturm ist neblig-mystisch. Mittags belohnen wir uns im Thermalbad für die nasse Fahrt, bevor wir die Fahrräder sicher abstellen und den Nachmittag trocken im Weinkeller verbringen.",
+            "hu": "Az eső ellenére a Kurparknál kezdünk, de a burkolt utakat választjuk. A Harzbergre vezető emelkedőnél óvatosan haladunk az erdei úton, mert a talaj csúszós lehet. A kilátó ilyenkor ködös-misztikus. Délben a termálfürdőben pihenjük ki a vizes tekerést, majd a bicikliket biztonságba helyezve a délutánt a száraz borospincében töltjük.",
+            "ro": "În ciuda ploii, începem turul la Kurpark, dar folosim potecile pavate. Urcarea spre Harzberg se face cu atenție pe drumul forestier, deoarece solul poate fi alunecos. Vederea de la turnul jubiliar este mistică în ceață. La prânz, ne recompensăm la băile termale pentru călătoria udă, înainte de a lăsa bicicletele în siguranță și de a petrece după-amiaza la uscat în pivnița de vinuri.",
+            "en": "Despite the rain, we start the tour at the spa park but stick to the paved paths. The climb to Harzberg is done carefully on the forest track, as the ground can be slippery. The view from the Jubilee Tower is misty and mystical. At noon, we reward ourselves in the thermal baths for the wet ride before parking the bikes safely and spending the afternoon dry in the wine cellar."
+          },
+          "stops": [
+            {
+              "name": "Kursalon and Spa Park",
+              "tip_5lang": {
+                "de": "Vorsicht bei nassem Laub auf den Asphaltwegen.",
+                "hu": "Vigyázat az aszfaltúton lévő nedves levelekkel.",
+                "ro": "Atenție la frunzele ude de pe potecile asfaltate.",
+                "en": "Be careful with wet leaves on the asphalt paths."
+              }
+            },
+            {
+              "name": "Vöslau Castle",
+              "tip_5lang": {
+                "de": "Kurzer Stopp unter dem Vordach möglich.",
+                "hu": "Rövid megálló az előtető alatt lehetséges.",
+                "ro": "Scurtă oprire posibilă sub copertină.",
+                "en": "Short stop possible under the canopy."
+              }
+            },
+            {
+              "name": "Forest educational trail on Harzberg",
+              "tip_5lang": {
+                "de": "Schutzbleche sind auf diesem Abschnitt unverzichtbar.",
+                "hu": "Sárvédő ezen a szakaszon elengedhetetlen.",
+                "ro": "Apărătorile de noroi sunt indispensabile pe această secțiune.",
+                "en": "Mudguards are essential on this section."
+              }
+            },
+            {
+              "name": "Jubilee Tower on Harzberg",
+              "tip_5lang": {
+                "de": "Die Stufen können bei Nässe rutschig sein.",
+                "hu": "A lépcsők nedvesen csúszósak lehetnek.",
+                "ro": "Treptele pot fi alunecoase când sunt ude.",
+                "en": "The steps can be slippery when wet."
+              }
+            },
+            {
+              "name": "Thermal Bath Bad Vöslau",
+              "tip_5lang": {
+                "de": "Es gibt überdachte Fahrradständer beim Haupteingang.",
+                "hu": "A főbejáratnál fedett biciklitárolók találhatók.",
+                "ro": "Există suporturi pentru biciclete acoperite la intrarea principală.",
+                "en": "There are covered bike racks at the main entrance."
+              }
+            },
+            {
+              "name": "Schlumberger Sparkling Wine Cellars",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad gesichert ab, die Tour ist zu Fuß.",
+                "hu": "Zárja le a biciklit, a túra gyalogosan zajlik.",
+                "ro": "Lăsați bicicleta încuiată, turul este pe jos.",
+                "en": "Park and lock your bike, the tour is on foot."
+              }
+            },
+            {
+              "name": "Winding down at a Heuriger",
+              "tip_5lang": {
+                "de": "Ein heißer Traubensaft wirkt Wunder gegen Frösteln.",
+                "hu": "Egy forró szőlőlé csodákra képes didergés ellen.",
+                "ro": "Un suc de struguri fierbinte face minuni împotriva frisoanelor.",
+                "en": "A hot grape juice works wonders against chills."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vollständige Regenbekleidung inklusive Überschuhen wird empfohlen.",
+              "Reduzieren Sie den Reifendruck leicht für besseren Grip auf nassem Waldboden.",
+              "Vermeiden Sie bei starkem Regen die steilsten Waldpfade.",
+              "Nutzen Sie die Handtuchtrockner im Thermalbad für Ihre Kleidung.",
+              "Licht am Fahrrad ist bei trübem Wetter auch tagsüber Pflicht."
+            ],
+            "hu": [
+              "Teljes esőruházat és kamásli használata javasolt.",
+              "Enyhén csökkentse a guminyomást a jobb tapadás érdekében a nedves erdei talajon.",
+              "Heves esőzéskor kerülje a legmeredekebb erdei ösvényeket.",
+              "Használja a fürdő törölközőszárítóit a ruházata szárításához.",
+              "Borús időben napközben is kötelező a kerékpár kivilágítása."
+            ],
+            "ro": [
+              "Se recomandă echipament complet de ploaie, inclusiv protecții pentru încălțăminte.",
+              "Reduceți ușor presiunea în anvelope pentru o aderență mai bună pe solul umed din pădure.",
+              "Evitați cele mai abrupte poteci din pădure în caz de ploaie abundentă.",
+              "Folosiți uscătoarele de prosoape din băile termale pentru haine.",
+              "Lumina la bicicletă este obligatorie pe timp de zi când vremea este mohorâtă."
+            ],
+            "en": [
+              "Full rain gear including shoe covers is highly recommended.",
+              "Reduce tire pressure slightly for better grip on wet forest ground.",
+              "Avoid the steepest forest paths during heavy rain.",
+              "Use the towel dryers in the thermal baths to help dry your clothes.",
+              "Bike lights are mandatory during the day in gloomy weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Winter-Radtour führt durch die klare Luft des Wienerwaldes. Wir starten am Schlosspark und kurbeln den Harzberg hinauf, wo die Bäume oft mit Raureif bedeckt sind. Oben am Jubiläumsturm weht ein kalter Wind, also halten wir den Stopp kurz. Mittags wärmen wir uns im Thermalbad auf, bevor wir die kurze restliche Strecke zu den Schlumberger-Kellern und zum Heurigen bei einsetzender Dämmerung zurücklegen.",
+            "hu": "A téli biciklitúra a Bécsi-erdő tiszta levegőjén vezet át. A kastélyparkból indulunk és feltekerünk a Harzbergre, ahol a fákat gyakran zúzmara borítja. A kilátónál hideg szél fúj, így rövidre fogjuk a megállót. Délben a termálfürdőben melegszünk fel, majd a szürkületben tesszük meg a hátralévő rövid utat a borospincékig és a borozóig.",
+            "ro": "Turul cu bicicleta pe timp de iarnă duce prin aerul curat al pădurii vieneze. Începem de la parcul castelului și urcăm pe Harzberg, unde copacii sunt adesea acoperiți cu chiciură. La turnul jubiliar suflă un vânt rece, așa că menținem oprirea scurtă. La prânz ne încălzim la băile termale, înainte de a parcurge distanța scurtă rămasă spre pivnițele Schlumberger și Heuriger la amurg.",
+            "en": "The winter bike tour leads through the clear air of the Vienna Woods. We start at the castle park and pedal up Harzberg, where the trees are often covered in hoarfrost. At the Jubilee Tower, a cold wind blows, so we keep the stop short. At noon, we warm up in the thermal baths before completing the short remaining distance to the Schlumberger cellars and the Heuriger at dusk."
+          },
+          "stops": [
+            {
+              "name": "Kursalon and Spa Park",
+              "tip_5lang": {
+                "de": "Achtung bei Schattenstellen, hier hält sich Eis länger.",
+                "hu": "Vigyázat az árnyékos helyeken, itt tovább megmarad a jég.",
+                "ro": "Atenție la zonele umbrite, gheața persistă mai mult aici.",
+                "en": "Watch out for shaded areas, ice lasts longer here."
+              }
+            },
+            {
+              "name": "Vöslau Castle",
+              "tip_5lang": {
+                "de": "Ein schnelles Foto, bevor die Finger kalt werden.",
+                "hu": "Egy gyors fotó, mielőtt megfagynának az ujjai.",
+                "ro": "O fotografie rapidă înainte ca degetele să înghețe.",
+                "en": "A quick photo before your fingers get cold."
+              }
+            },
+            {
+              "name": "Forest educational trail on Harzberg",
+              "tip_5lang": {
+                "de": "Der Boden ist oft hart gefroren und griffig.",
+                "hu": "A talaj gyakran keményre fagyott és jól tapad.",
+                "ro": "Solul este adesea înghețat și aderent.",
+                "en": "The ground is often frozen hard and offers good grip."
+              }
+            },
+            {
+              "name": "Jubilee Tower on Harzberg",
+              "tip_5lang": {
+                "de": "Zusätzliche Schicht für die Abfahrt anziehen.",
+                "hu": "Vegyen fel plusz réteget a lejtmenethez.",
+                "ro": "Puneți un strat suplimentar pentru coborâre.",
+                "en": "Put on an extra layer for the descent."
+              }
+            },
+            {
+              "name": "Thermal Bath Bad Vöslau",
+              "tip_5lang": {
+                "de": "Die Sauna ist nach der kalten Fahrt ein Muss.",
+                "hu": "A szauna a hideg tekerés után kötelező program.",
+                "ro": "Sauna este obligatorie după plimbarea rece.",
+                "en": "The sauna is a must after the cold ride."
+              }
+            },
+            {
+              "name": "Schlumberger Sparkling Wine Cellars",
+              "tip_5lang": {
+                "de": "Sicheres Abstellen im beleuchteten Bereich.",
+                "hu": "Biztonságos parkolás a kivilágított részen.",
+                "ro": "Parcare sigură în zona iluminată.",
+                "en": "Safe parking in the illuminated area."
+              }
+            },
+            {
+              "name": "Winding down at a Heuriger",
+              "tip_5lang": {
+                "de": "Warme Speisen wie Schweinsbraten wärmen von innen.",
+                "hu": "A meleg ételek, mint a sült hús, belülről melegítenek.",
+                "ro": "Mâncărurile calde, cum ar fi friptura de porc, vă încălzesc pe interior.",
+                "en": "Hot dishes like roast pork warm you from the inside."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Handschuhe und Windstopper-Kleidung sind essenziell.",
+              "Die Abfahrt vom Harzberg kühlt den Körper extrem schnell aus.",
+              "Achten Sie auf gefrorenes Schmelzwasser auf den Straßen.",
+              "In der Dämmerung (ab 16:00 Uhr) ist gute Beleuchtung überlebenswichtig.",
+              "Trinken Sie auch bei Kälte genug Wasser, die trockene Luft dehydriert."
+            ],
+            "hu": [
+              "A meleg kesztyű és a szélálló ruházat elengedhetetlen.",
+              "A Harzbergről való leereszkedés rendkívül gyorsan lehűti a testet.",
+              "Ügyeljen az utakon megfagyott hólére.",
+              "Szürkületben (16:00 órától) a jó világítás létfontosságú.",
+              "Hidegben is igyon elég vizet, a száraz levegő dehidratál."
+            ],
+            "ro": [
+              "Mănușile calde și hainele rezistente la vânt sunt esențiale.",
+              "Coborârea de pe Harzberg răcește corpul extrem de repede.",
+              "Atenție la apa topită și înghețată de pe șosele.",
+              "La amurg (de la ora 16:00), iluminarea bună este vitală.",
+              "Beți suficientă apă chiar și în frig, aerul uscat deshidratează."
+            ],
+            "en": [
+              "Warm gloves and windbreaker clothing are essential.",
+              "The descent from Harzberg cools the body down extremely quickly.",
+              "Watch out for frozen meltwater on the roads.",
+              "In the twilight (from 4:00 PM), good lighting is vital for survival.",
+              "Drink enough water even in the cold, as dry air dehydrates."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1122,6 +1520,214 @@
           "Book your sparkling wine cellar tour in advance, especially on weekends.",
           "A car gives you the flexibility to also visit the surrounding vineyards and wine taverns."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Bad Vöslau auch bei Regen komfortabel. Wir parken direkt am Harzberg für einen kurzen Blick zum Turm im Nebel. Danach geht es hinunter ins Zentrum, wo wir das Auto nahe dem Schloss parken. Den verregneten Mittag verbringen wir im Thermalbad und den Nachmittag trocken bei Schlumberger, wobei alle Wege zwischen den Zielen kurz und trocken im PKW zurückgelegt werden.",
+            "hu": "Autóval Bad Vöslau esőben is kényelmes. Közvetlenül a Harzbergnél parkolunk egy rövid ködös kilátásért. Ezután a központba hajtunk, a kastély közelében hagyva az autót. Az esős délutánt a termálfürdőben és a Schlumberger pincéiben töltjük, a célpontok közötti utat szárazon, a kocsiban tesszük meg.",
+            "ro": "Cu mașina, Bad Vöslau este confortabil chiar și pe ploaie. Parcăm direct la Harzberg pentru o scurtă privire spre turn în ceață. Apoi coborâm în centru, unde parcăm mașina lângă castel. Petrecem prânzul ploios la băile termale și după-amiaza la uscat la Schlumberger, toate distanțele între obiective fiind parcurse rapid și uscat în autoturism.",
+            "en": "Bad Vöslau is comfortable by car even in the rain. We park directly at Harzberg for a quick look at the tower in the mist. Then it's down to the center, where we park the car near the castle. We spend the rainy noon in the thermal baths and the afternoon dry at Schlumberger, with all journeys between destinations covered quickly and dry in the car."
+          },
+          "stops": [
+            {
+              "name": "Parking at Harzberg",
+              "tip_5lang": {
+                "de": "Der Parkplatz kann bei Regen etwas matschig sein.",
+                "hu": "A parkoló esőben kissé sáros lehet.",
+                "ro": "Parcarea poate fi puțin noroioasă când plouă.",
+                "en": "The parking lot can be a bit muddy in the rain."
+              }
+            },
+            {
+              "name": "Jubilee Tower",
+              "tip_5lang": {
+                "de": "Kurzer, steiler Weg – gute Sohlen trotz Regen nötig.",
+                "hu": "Rövid, meredek út – esőben is jó talpú cipő kell.",
+                "ro": "Drum scurt și abrupt – e nevoie de tălpi bune în ciuda ploii.",
+                "en": "Short, steep path – good soles needed despite the rain."
+              }
+            },
+            {
+              "name": "Vöslauer Kamm (Ridge)",
+              "tip_5lang": {
+                "de": "Vom Auto aus genießen wir die nebligen Weinberge.",
+                "hu": "Az autóból élvezzük a ködös szőlőültetvények látványát.",
+                "ro": "Din mașină ne bucurăm de viile cețoase.",
+                "en": "We enjoy the misty vineyards from the car."
+              }
+            },
+            {
+              "name": "Parking in the Center (Castle Park)",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Kurzparkzone mit Parkuhr.",
+                "hu": "Használja a rövidtávú parkolási zónát parkolótárcsával.",
+                "ro": "Folosiți zona de parcare pe termen scurt cu ceas de parcare.",
+                "en": "Use the short-term parking zone with a parking disc."
+              }
+            },
+            {
+              "name": "Vöslau Castle & Parish Church",
+              "tip_5lang": {
+                "de": "Beide Ziele liegen direkt nebeneinander.",
+                "hu": "Mindkét célpont közvetlenül egymás mellett található.",
+                "ro": "Ambele obiective sunt direct unul lângă celălalt.",
+                "en": "Both destinations are right next to each other."
+              }
+            },
+            {
+              "name": "Thermal Bath Bad Vöslau",
+              "tip_5lang": {
+                "de": "Großer Parkplatz vorhanden, kurzer Weg zum Eingang.",
+                "hu": "Nagy parkoló áll rendelkezésre, rövid út a bejáratig.",
+                "ro": "Parcare mare disponibilă, drum scurt până la intrare.",
+                "en": "Large parking lot available, short walk to the entrance."
+              }
+            },
+            {
+              "name": "Schlumberger Sparkling Wine Cellars",
+              "tip_5lang": {
+                "de": "Parken Sie direkt auf dem Gelände oder davor.",
+                "hu": "Parkoljon közvetlenül a területen vagy előtte.",
+                "ro": "Parcați direct în incintă sau în față.",
+                "en": "Park directly on the premises or in front of them."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Bergstraße zum Harzberg ist gut ausgebaut, aber bei Nässe rutschig.",
+              "Legen Sie einen Regenschirm griffbereit auf den Rücksitz.",
+              "Im Zentrum von Bad Vöslau gilt teilweise Parkraumbewirtschaftung.",
+              "Die Fenster beschlagen leicht; Klimaanlage auf Entfrostung stellen.",
+              "Fahren Sie vorsichtig, da Wanderer bei Regen oft überraschend die Straße queren."
+            ],
+            "hu": [
+              "A Harzbergre vezető hegyi út jól kiépített, de nedvesen csúszós.",
+              "Legyen kéznél esernyő a hátsó ülésen.",
+              "Bad Vöslau központjában részben fizetős a parkolás.",
+              "Az ablakok könnyen párásodnak; állítsa a klímát páramentesítésre.",
+              "Vezessen óvatosan, mert az esőben a túrázók váratlanul vághatnak át az úton."
+            ],
+            "ro": [
+              "Drumul montan spre Harzberg este bine amenajat, dar alunecos când este ud.",
+              "Țineți o umbrelă la îndemână pe bancheta din spate.",
+              "În centrul orașului Bad Vöslau se aplică parțial parcarea cu plată.",
+              "Geamurile se aburesc ușor; setați aerul condiționat pe dezghețare.",
+              "Conduceți cu atenție, deoarece drumeții traversează adesea drumul pe neașteptate când plouă."
+            ],
+            "en": [
+              "The mountain road to Harzberg is well-maintained but slippery when wet.",
+              "Keep an umbrella handy on the back seat.",
+              "Parking management applies in parts of the center of Bad Vöslau.",
+              "Windows fog up easily; set the air conditioning to defrost.",
+              "Drive carefully, as hikers often cross the road unexpectedly in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Fahrt nach Bad Vöslau bietet herrliche Ausblicke auf die verschneiten Ausläufer des Wienerwaldes. Wir fahren hinauf zum Harzberg, wo der Jubiläumsturm aus dem Frost ragt. Mittags ist das Thermalbad die perfekte Anlaufstelle, um die Kälte zu vergessen. Die Schlumberger-Keller am Nachmittag sind eine wunderbare Indoor-Alternative, bevor wir den Abend bei einem Heurigen mit Kaminfeuer ausklingen lassen.",
+            "hu": "A téli autózás Bad Vöslau felé csodás kilátást nyújt a Bécsi-erdő havas nyúlványaira. Felhajtunk a Harzbergre, ahol a kilátó a zúzmarás fák közül emelkedik ki. Délben a termálfürdő tökéletes hely a hideg elfelejtésére. A Schlumberger pincéi délután kiváló fedett programot kínálnak, az estét pedig egy kandallótüzes borozóban zárjuk.",
+            "ro": "O călătorie de iarnă la Bad Vöslau oferă priveliști minunate asupra poalelor înzăpezite ale pădurii vieneze. Urcăm spre Harzberg, unde turnul jubiliar se ridică din îngheț. La prânz, băile termale sunt punctul perfect pentru a uita de frig. Pivnițele Schlumberger de după-amiază sunt o alternativă interioară minunată, înainte de a încheia seara la un Heuriger cu foc în șemineu.",
+            "en": "A winter drive to Bad Vöslau offers wonderful views of the snowy foothills of the Vienna Woods. We drive up to Harzberg, where the Jubilee Tower rises out of the frost. At noon, the thermal baths are the perfect place to forget the cold. The Schlumberger cellars in the afternoon are a wonderful indoor alternative before we end the evening at a Heuriger with a crackling fireplace."
+          },
+          "stops": [
+            {
+              "name": "Parking at Harzberg",
+              "tip_5lang": {
+                "de": "Winterreifen und ggf. Schneeketten bei starkem Schneefall nötig.",
+                "hu": "Téli gumi, erős havazáskor hólánc szükséges.",
+                "ro": "Anvelope de iarnă și, dacă este necesar, lanțuri antiderapante în caz de ninsoare puternică.",
+                "en": "Winter tires and possibly snow chains are necessary during heavy snowfall."
+              }
+            },
+            {
+              "name": "Jubilee Tower",
+              "tip_5lang": {
+                "de": "Traumhafter Weitblick über die verschneite Ebene.",
+                "hu": "Csodálatos panoráma a havas síkság felett.",
+                "ro": "Vedere panoramică fantastică peste câmpia înzăpezită.",
+                "en": "Fantastic distant view over the snowy plains."
+              }
+            },
+            {
+              "name": "Vöslauer Kamm (Ridge)",
+              "tip_5lang": {
+                "de": "Vorsicht bei Glätte auf den Waldwegen beim kurzen Stopp.",
+                "hu": "Vigyázat a csúszós erdei utakon a rövid megálló alatt.",
+                "ro": "Atenție la polei pe potecile din pădure în timpul scurtei opriri.",
+                "en": "Watch out for slippery conditions on the forest paths during the short stop."
+              }
+            },
+            {
+              "name": "Parking in the Center (Castle Park)",
+              "tip_5lang": {
+                "de": "Im Winter oft leichter, einen freien Platz zu finden.",
+                "hu": "Télen gyakran könnyebb szabad helyet találni.",
+                "ro": "Iarna este adesea mai ușor să găsești un loc liber.",
+                "en": "It is often easier to find a free parking spot in winter."
+              }
+            },
+            {
+              "name": "Vöslau Castle & Parish Church",
+              "tip_5lang": {
+                "de": "Abends oft stimmungsvoll beleuchtet.",
+                "hu": "Este gyakran hangulatosan megvilágított.",
+                "ro": "Adesea iluminat atmosferic seara.",
+                "en": "Often atmospherically lit in the evening."
+              }
+            },
+            {
+              "name": "Thermal Bath Bad Vöslau",
+              "tip_5lang": {
+                "de": "Das Auto kühlt aus, also warme Sachen griffbereit lassen.",
+                "hu": "Az autó lehűl, hagyjon kéznél meleg ruhát a visszatéréshez.",
+                "ro": "Mașina se răcește, așa că lăsați haine groase la îndemână.",
+                "en": "The car cools down, so keep warm clothes ready for your return."
+              }
+            },
+            {
+              "name": "Schlumberger Sparkling Wine Cellars",
+              "tip_5lang": {
+                "de": "Genießen Sie den Sekt, lassen Sie das Auto stehen.",
+                "hu": "Élvezze a pezsgőt, és hagyja az autót a parkolóban.",
+                "ro": "Bucurați-vă de spumant, lăsați mașina pe loc.",
+                "en": "Enjoy the sparkling wine and leave the car parked."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie vor der Bergfahrt den aktuellen Straßenzustand.",
+              " Frostschutz in der Scheibenwaschanlage ist ein Muss.",
+              "Die Bergstraße kann nach Schneefall zeitweise gesperrt sein.",
+              "Parken Sie nicht unter hohen Bäumen mit schwerer Schneelast.",
+              "Ein Eiskratzer und ein kleiner Besen sollten im Auto sein."
+            ],
+            "hu": [
+              "Hegyi menet előtt ellenőrizze az útviszonyokat.",
+              "A szélvédőmosó fagyállója elengedhetetlen.",
+              "A hegyi út havazás után időszakosan lezárható.",
+              "Ne parkoljon nehéz hóteherrel borított magas fák alá.",
+              "Jégkaparó és kisseprű legyen az autóban."
+            ],
+            "ro": [
+              "Verificați starea drumului înainte de a urca pe munte.",
+              "Antigelul în instalația de spălare a parbrizului este obligatoriu.",
+              "Drumul montan poate fi închis temporar după ninsoare.",
+              "Nu parcați sub copaci înalți cu încărcătură mare de zăpadă.",
+              "O racletă de gheață și o măturică ar trebui să fie în mașină."
+            ],
+            "en": [
+              "Check the current road conditions before driving up the mountain.",
+              "Antifreeze in the windshield washer system is a must.",
+              "The mountain road may be temporarily closed after snowfall.",
+              "Do not park under tall trees with heavy snow loads.",
+              "An ice scraper and a small brush should be in the car."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1478,6 +2084,196 @@
           "Most destinations in the city center are easily accessible on foot.",
           "A day ticket for public transport might be worthwhile if you plan several bus trips."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Anreise mit der Bahn ist auch bei Regen bequem. Vom Bahnhof Bad Vöslau führt ein kurzer Weg zum Schloss und zur Kirche. Den Mittag verbringen wir gemütlich im Thermalbad, das gut erreichbar ist. Am Nachmittag bringt uns ein kurzer Fußmarsch zu den Schlumberger-Kellern, wo wir im Trockenen verweilen, bevor wir mit dem Zug die Heimreise antreten.",
+            "hu": "A vonattal való érkezés esőben is kényelmes. A vasútállomástól rövid út vezet a kastélyhoz és a templomhoz. A délutánt a könnyen elérhető termálfürdőben töltjük. Később egy rövid séta visz a Schlumberger pincékhez, ahol szárazon maradhatunk, mielőtt vonattal hazautaznánk.",
+            "ro": "Sosirea cu trenul este confortabilă chiar și pe ploaie. De la gara Bad Vöslau, un drum scurt duce la castel și biserică. Petrecem prânzul confortabil la băile termale, care sunt ușor accesibile. După-amiaza, o scurtă plimbare ne duce la pivnițele Schlumberger, unde stăm la uscat înainte de a pleca spre casă cu trenul.",
+            "en": "Arriving by train is comfortable even in the rain. From Bad Vöslau station, a short path leads to the castle and the church. We spend noon comfortably in the thermal baths, which are easily accessible. In the afternoon, a short walk takes us to the Schlumberger cellars, where we stay dry before heading home by train."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Bad Vöslau Train Station",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Wartehalle als Unterstand.",
+                "hu": "Használja a várótermet menedékként.",
+                "ro": "Folosiți sala de așteptare ca adăpost.",
+                "en": "Use the waiting hall as a shelter."
+              }
+            },
+            {
+              "name": "Parish Church & Vöslau Castle",
+              "tip_5lang": {
+                "de": "Etwa 10-15 Minuten Fußweg vom Bahnhof.",
+                "hu": "Körülbelül 10-15 perc gyalog a vasútállomástól.",
+                "ro": "Aproximativ 10-15 minute de mers pe jos de la gară.",
+                "en": "About 10-15 minutes walk from the station."
+              }
+            },
+            {
+              "name": "Kursalon and Spa Park",
+              "tip_5lang": {
+                "de": "Abkürzung durch den Park zum Bad nehmen.",
+                "hu": "Vágjon át a parkon a fürdő felé.",
+                "ro": "Luați-o pe scurtătură prin parc spre baie.",
+                "en": "Take a shortcut through the park to the baths."
+              }
+            },
+            {
+              "name": "Trip to the Thermal Bath",
+              "tip_5lang": {
+                "de": "Regenschutz während des kurzen Umstiegs/Weges.",
+                "hu": "Esővédelem a rövid séta alatt.",
+                "ro": "Protecție împotriva ploii în timpul scurtei deplasări.",
+                "en": "Rain protection during the short walk/transfer."
+              }
+            },
+            {
+              "name": "Thermal Bath Bad Vöslau",
+              "tip_5lang": {
+                "de": "Direkt im Zentrum, gut zu Fuß erreichbar.",
+                "hu": "Közvetlenül a központban, gyalog is jól elérhető.",
+                "ro": "Chiar în centru, ușor accesibil pe jos.",
+                "en": "Right in the center, easily accessible on foot."
+              }
+            },
+            {
+              "name": "Schlumberger Sparkling Wine Cellars",
+              "tip_5lang": {
+                "de": "Nahe der Bahnlinie, kurzer Weg zurück zum Zug.",
+                "hu": "A vasútvonal közelében, rövid út vissza a vonathoz.",
+                "ro": "Aproape de linia ferată, drum scurt înapoi la tren.",
+                "en": "Near the railway line, short walk back to the train."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie die ÖBB-App auf eventuelle Verspätungen bei Regen.",
+              "Die Wege zwischen den Hauptattraktionen sind kurz (max. 15 Min).",
+              "Ein Stadtbus verbindet den Bahnhof mit dem Zentrum.",
+              "In der Nähe des Bahnhofs gibt es Bäckereien zum Aufwärmen.",
+              "Tragen Sie wasserfeste Schuhe für die Stadterkundung."
+            ],
+            "hu": [
+              "Ellenőrizze az ÖBB alkalmazást az eső miatti esetleges késésekért.",
+              "A fő látnivalók közötti utak rövidek (max. 15 perc).",
+              "Helyi busz köti össze az állomást a központtal.",
+              "Az állomás közelében pékségek találhatók a felmelegedéshez.",
+              "Viseljen vízálló cipőt a város felfedezéséhez."
+            ],
+            "ro": [
+              "Verificați aplicația ÖBB pentru eventuale întârzieri pe ploaie.",
+              "Distanțele între atracțiile principale sunt scurte (max. 15 min).",
+              "Un autobuz urban face legătura între gară și centru.",
+              "În apropierea gării există brutării pentru încălzire.",
+              "Purtați încălțăminte impermeabilă pentru explorarea orașului."
+            ],
+            "en": [
+              "Check the ÖBB app for any delays due to rain.",
+              "The paths between the main attractions are short (max. 15 mins).",
+              "A city bus connects the station with the center.",
+              "There are bakeries near the station to warm up.",
+              "Wear waterproof shoes for exploring the city."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Anreise im Winter per Zug bietet den Vorteil, sich nicht um glatte Straßen sorgen zu müssen. Vom frostigen Bahnhof spazieren wir zum Kurpark und bewundern die winterliche Stille. Den Mittag verbringen wir im wohlig warmen Thermalbad. Vor der Heimfahrt besuchen wir die Schlumberger-Kellerräume und genießen die weihnachtliche oder winterliche Beleuchtung der Stadt auf dem Weg zurück zum Bahnsteig.",
+            "hu": "A téli vonatos utazás előnye, hogy nem kell aggódni a csúszós utak miatt. A fagyos állomástól a Kurparkhoz sétálunk, és megcsodáljuk a téli csendet. A délutánt a kellemesen meleg termálfürdőben töltjük. Hazautazás előtt meglátogatjuk a Schlumberger pincéit, és élvezzük a város téli kivilágítását a peronhoz vezető úton.",
+            "ro": "Sosirea iarna cu trenul oferă avantajul de a nu vă face griji pentru drumurile alunecoase. De la gara înghețată ne plimbăm spre Kurpark și admirăm liniștea iernii. Petrecem prânzul în băile termale plăcut de calde. Înainte de a pleca spre casă, vizităm pivnițele Schlumberger și ne bucurăm de iluminatul de iarnă al orașului pe drumul înapoi spre peron.",
+            "en": "Arriving by train in winter has the advantage of not having to worry about slippery roads. From the frosty station, we walk to the spa park and admire the winter silence. We spend noon in the pleasantly warm thermal baths. Before heading home, we visit the Schlumberger cellars and enjoy the city's winter lighting on the way back to the platform."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Bad Vöslau Train Station",
+              "tip_5lang": {
+                "de": "Die Wartehalle ist beheizt.",
+                "hu": "A váróterem fűtött.",
+                "ro": "Sala de așteptare este încălzită.",
+                "en": "The waiting hall is heated."
+              }
+            },
+            {
+              "name": "Parish Church & Vöslau Castle",
+              "tip_5lang": {
+                "de": "Der Fußweg hält den Kreislauf in Schwung.",
+                "hu": "A séta mozgásban tartja a keringést.",
+                "ro": "Plimbarea menține circulația activă.",
+                "en": "The walk keeps your circulation going."
+              }
+            },
+            {
+              "name": "Kursalon and Spa Park",
+              "tip_5lang": {
+                "de": "Genießen Sie den Anblick der frostigen Bäume.",
+                "hu": "Élvezze a fagyos fák látványát.",
+                "ro": "Bucurați-vă de vederea copacilor înghețați.",
+                "en": "Enjoy the sight of the frosty trees."
+              }
+            },
+            {
+              "name": "Trip to the Thermal Bath",
+              "tip_5lang": {
+                "de": "Ein heißer Tee am Wegesrand wärmt auf.",
+                "hu": "Egy forró tea az út mentén felmelegíti.",
+                "ro": "Un ceai fierbinte pe parcurs vă va încălzi.",
+                "en": "A hot tea along the way warms you up."
+              }
+            },
+            {
+              "name": "Thermal Bath Bad Vöslau",
+              "tip_5lang": {
+                "de": "Haare vor dem Verlassen gut trocknen!",
+                "hu": "Alaposan szárítsa meg a haját távozás előtt!",
+                "ro": "Uscați-vă bine părul înainte de plecare!",
+                "en": "Dry your hair thoroughly before leaving!"
+              }
+            },
+            {
+              "name": "Schlumberger Sparkling Wine Cellars",
+              "tip_5lang": {
+                "de": "Ein prickelnder Abschluss vor der Zugfahrt.",
+                "hu": "Pezsgő lezárás a vonatút előtt.",
+                "ro": "Un final sclipitor înainte de călătoria cu trenul.",
+                "en": "A sparkling finale before the train ride."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Züge der Südbahn verkehren regelmäßig im Halbstundentakt.",
+              "Der Bahnhof liegt tiefer als das Zentrum, es geht leicht bergauf.",
+              "Achten Sie auf geräumte Bahnsteige beim Ein- und Aussteigen.",
+              "Im Winter sind die Wartezeiten im Freien unangenehm, nutzen Sie die App.",
+              "Kombinieren Sie das Ticket ggf. mit einem Kombiticket für das Bad."
+            ],
+            "hu": [
+              "A déli vasútvonal vonatai rendszeresen, félóránként közlekednek.",
+              "Az állomás mélyebben fekszik a központnál, enyhe emelkedőre számítson.",
+              "Ügyeljen a letakarított peronokra a le- és felszálláskor.",
+              "Télen a kinti várakozás kellemetlen, használja az alkalmazást.",
+              "Érdemes kombinált jegyet venni, ha van ilyen a fürdőhöz."
+            ],
+            "ro": [
+              "Trenurile de pe linia de sud circulă regulat, la fiecare jumătate de oră.",
+              "Gara este situată mai jos decât centrul, se urcă ușor.",
+              "Atenție la peroanele curățate când urcați sau coborâți.",
+              "Iarna, așteptarea afară este neplăcută, folosiți aplicația.",
+              "Combinați biletul cu un bilet combinat pentru baie, dacă este disponibil."
+            ],
+            "en": [
+              "Southern Railway trains run regularly every half hour.",
+              "The station is lower than the center, so there's a slight uphill walk.",
+              "Watch out for cleared platforms when getting on and off.",
+              "Waiting outside in winter is unpleasant, use the app to time your arrival.",
+              "Combine your ticket with a combo ticket for the baths if available."
+            ]
+          }
+        }
       }
     }
   }

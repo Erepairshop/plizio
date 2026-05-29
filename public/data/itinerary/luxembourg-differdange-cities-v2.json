@@ -342,6 +342,188 @@
           "Check the castle's visiting hours as it's part of a university.",
           "Look out for the many sculptures scattered around the city."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens suchen wir Schutz in den Arkaden des Marktplatzes und bewundern das Rathaus im Regen. Mittags bietet das Creative Hub 1535° eine ideale, trockene Zuflucht voller industrieller Kunst. Nachmittags führt der Weg zum Schloss, dessen Mauern im grauen Dunst besonders mystisch wirken. Abends endet der Rundgang mit einem erfrischenden, kurzen Spaziergang am Thillenberg.",
+            "hu": "Reggel a főtér árkádjai alatt kezdünk, megcsodálva a városháza esőáztatta homlokzatát. Délben a 1535° Creative Hub nyújt tökéletes fedett menedéket és ipari művészetet. Délután a kastély falai között kalandozunk, melyek ködös időben még titokzatosabbak. Este a Thillenberg park friss illatával zárjuk a napot, mielőtt behúzódnánk egy meleg étterembe.",
+            "ro": "Dimineața căutăm adăpost sub arcadele pieței centrale, admirând primăria sub ploaie. La prânz, hub-ul creativ 1535° oferă refugiul ideal, plin de artă industrială și căldură. După-amiaza vizităm castelul, ale cărui ziduri par mistice în ceață. Seara se încheie cu o plimbare revigorantă prin parcul Thillenberg, profitând de aerul curat de după ploaie.",
+            "en": "In the morning, we find shelter under the Market Square arcades, admiring the Town Hall in the rain. At noon, the 1535° Creative Hub provides a perfect indoor escape filled with industrial art. In the afternoon, the castle walls appear mystical through the mist. The evening concludes with a brisk, refreshing walk through Thillenberg Park as the rain tapers off."
+          },
+          "stops": [
+            {
+              "name": "Market Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden der umliegenden Gebäude als Regenschutz.",
+                "hu": "Használja a környező épületek árkádjait esernyő helyett.",
+                "ro": "Folosiți arcadele clădirilor din jur pentru a vă proteja de ploaie.",
+                "en": "Use the arcades of the surrounding buildings as shelter from the rain."
+              }
+            },
+            {
+              "name": "Differdange Town Hall",
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint zum Eingang lohnt sich für ein Foto der Fassade.",
+                "hu": "Egy gyors sprint a bejáratig megéri a homlokzat fotózásáért.",
+                "ro": "Un sprint scurt până la intrare merită pentru o fotografie a fațadei.",
+                "en": "A short sprint to the entrance is worth it for a photo of the facade."
+              }
+            },
+            {
+              "name": "Saint-Imier Church",
+              "tip_5lang": {
+                "de": "Die Kirche bietet einen ruhigen, trockenen Ort zur Besinnung.",
+                "hu": "A templom csendes és száraz helyszín az elmélyüléshez.",
+                "ro": "Biserica oferă un loc liniștit și uscat pentru reflecție.",
+                "en": "The church offers a quiet, dry place for reflection and rest."
+              }
+            },
+            {
+              "name": "Creative Hub 1535°",
+              "tip_5lang": {
+                "de": "Perfekter Ort für regnerische Tage mit vielen Indoor-Aktivitäten.",
+                "hu": "Tökéletes helyszín esős napokra, rengeteg beltéri látnivalóval.",
+                "ro": "Locul perfect pentru zile ploioase, cu multe activități în interior.",
+                "en": "Perfect spot for rainy days with plenty of indoor creative spaces."
+              }
+            },
+            {
+              "name": "Differdange Castle",
+              "tip_5lang": {
+                "de": "Die alten Mauern bieten stellenweise Schutz vor dem Wind.",
+                "hu": "A régi falak néhol jó szélfogót biztosítanak az esőben.",
+                "ro": "Zidurile vechi oferă pe alocuri protecție împotriva vântului.",
+                "en": "The old walls provide some wind protection in rainy weather."
+              }
+            },
+            {
+              "name": "Thillenberg Stadium and Park",
+              "tip_5lang": {
+                "de": "Die Wege können matschig sein, festes Schuhwerk ist ratsam.",
+                "hu": "Az utak sárosak lehetnek, vízálló túrabakancs ajánlott.",
+                "ro": "Potecile pot fi noroioase, se recomandă încălțăminte impermeabilă.",
+                "en": "Paths can be muddy; waterproof hiking boots are recommended."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Regenschirm ist wegen möglicher Windböen wichtig.",
+              "Nutzen Sie die langen Pausen im 1535° Hub, um den Regen abzuwarten.",
+              "Die Gehwege zum Schloss können bei Nässe rutschig sein.",
+              "Besuchen Sie lokale Cafés am Marktplatz für eine trockene Pause."
+            ],
+            "hu": [
+              "Az erős szél miatt egy strapabíró esernyő elengedhetetlen.",
+              "Használja ki a 1535° Hub belső tereit az eső elkerülésére.",
+              "A kastélyhoz vezető utak nedvesen csúszóssá válhatnak.",
+              "A főtéri kávézók kiválóak egy száraz pihenőre."
+            ],
+            "ro": [
+              "O umbrelă rezistentă este esențială din cauza rafalelor de vânt.",
+              "Profitați de spațiile interioare de la Hub 1535° pentru a evita ploaia.",
+              "Potecile spre castel pot deveni alunecoase când sunt ude.",
+              "Cafenelele din piață sunt excelente pentru o pauză uscată."
+            ],
+            "en": [
+              "A sturdy umbrella is essential due to potential wind gusts.",
+              "Take advantage of the indoor spaces at 1535° Hub to escape the rain.",
+              "Paths to the castle can be slippery when wet.",
+              "Market Square cafes are great for a dry break during the walk."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Am frostigen Morgen glitzert der Marktplatz in der Wintersonne. Mittags wärmen wir uns im modernen Ambiente des Creative Hub 1535° auf, wo die industrielle Geschichte lebendig wird. Nachmittags taucht die frühe Dämmerung das Schloss Differdingen in ein goldenes Licht, bevor es im Park am Thillenberg richtig kalt wird. Den Abend verbringen wir gemütlich in der beleuchteten Innenstadt.",
+            "hu": "A fagyos reggelen a főtér csillog a téli napsütésben. Délben a 1535° Creative Hub modern és meleg közegében töltődünk fel, ahol életre kel az ipari múlt. Délután a korai szürkület arany fénybe vonja a kastélyt, mielőtt a Thillenberg parkban igazán lehűlne a levegő. Az estét a város kivilágított, hangulatos utcáin zárjuk.",
+            "ro": "În dimineața geroasă, piața centrală strălucește sub soarele de iarnă. La prânz ne încălzim în ambianța modernă de la 1535° Hub, unde istoria industrială prinde viață. După-amiaza, amurgul timpuriu scaldă castelul într-o lumină aurie înainte ca frigul să se lase peste parcul Thillenberg. Seara o petrecem în centrul luminat festiv.",
+            "en": "On a frosty morning, the Market Square sparkles in the low winter sun. At noon, we warm up in the modern atmosphere of the 1535° Creative Hub, where industrial history comes alive. In the afternoon, early twilight bathes the castle in golden light before the cold sets in at Thillenberg Park. The evening is spent cozily in the beautifully lit city center."
+          },
+          "stops": [
+            {
+              "name": "Market Square",
+              "tip_5lang": {
+                "de": "Vorsicht vor glatten Stellen auf dem Kopfsteinpflaster.",
+                "hu": "Vigyázat, a macskaköves burkolat fagyos időben csúszós lehet.",
+                "ro": "Atenție la porțiunile alunecoase de pe pavajul de piatră.",
+                "en": "Watch out for icy patches on the cobblestone pavement."
+              }
+            },
+            {
+              "name": "Differdange Town Hall",
+              "tip_5lang": {
+                "de": "Die Winterbeleuchtung der Fassade ist ein tolles Fotomotiv.",
+                "hu": "A homlokzat téli kivilágítása remek fotótéma sötétedés után.",
+                "ro": "Iluminatul de iarnă al fațadei este un subiect foto excelent.",
+                "en": "The winter lighting on the facade is a great photo opportunity."
+              }
+            },
+            {
+              "name": "Saint-Imier Church",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp im Inneren zum Aufwärmen ist ideal.",
+                "hu": "Egy rövid megálló bent kiváló a felmelegedéshez.",
+                "ro": "O scurtă oprire în interior pentru încălzire este ideală.",
+                "en": "A brief stop inside to warm up is a great idea."
+              }
+            },
+            {
+              "name": "Creative Hub 1535°",
+              "tip_5lang": {
+                "de": "Genießen Sie die warme Atmosphäre dieses Kulturzentrums.",
+                "hu": "Élvezze a kulturális központ meleg és inspiráló légkörét.",
+                "ro": "Bucurați-vă de atmosfera caldă a acestui centru cultural.",
+                "en": "Enjoy the warm and creative atmosphere of this cultural hub."
+              }
+            },
+            {
+              "name": "Differdange Castle",
+              "tip_5lang": {
+                "de": "Besuch am frühen Nachmittag, um das Tageslicht zu nutzen.",
+                "hu": "Látogasson el kora délután, hogy kihasználja a maradék fényt.",
+                "ro": "Vizitați la începutul după-amiezii pentru a profita de lumină.",
+                "en": "Visit in the early afternoon to make the most of the daylight."
+              }
+            },
+            {
+              "name": "Thillenberg Stadium and Park",
+              "tip_5lang": {
+                "de": "Mütze und Handschuhe sind für den zugigen Park wichtig.",
+                "hu": "Sapka és kesztyű kötelező a huzatos parkban.",
+                "ro": "Căciula și mănușile sunt esențiale în parcul geros.",
+                "en": "A hat and gloves are essential for the drafty park area."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht bereits gegen 16:30 Uhr unter.",
+              "Tragen Sie Thermokleidung für den längeren Aufenthalt im Freien.",
+              "Heiße Getränke sind in den Bäckereien am Marktplatz erhältlich.",
+              "Achten Sie auf geräumte Wege rund um die historischen Gebäude."
+            ],
+            "hu": [
+              "A nap már 16:30 körül nyugovóra tér télen.",
+              "Viseljen réteges termoöltözetet a hosszabb sétához.",
+              "Forró italok kaphatók a főtéri pékségekben.",
+              "Figyeljen a letakarított utakra a történelmi épületek körül."
+            ],
+            "ro": [
+              "Soarele apune deja în jurul orei 16:30.",
+              "Purtați haine termice pentru șederea prelungită afară.",
+              "Băuturi calde sunt disponibile la brutăriile din piață.",
+              "Căutați căile curățate de zăpadă în jurul clădirilor istorice."
+            ],
+            "en": [
+              "The sun sets early, around 4:30 PM in mid-winter.",
+              "Wear thermal layers for the extended time outdoors.",
+              "Hot drinks are available at the bakeries near Market Square.",
+              "Stick to cleared paths around the historical buildings."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -678,6 +860,188 @@
           "Lock your bike securely at the main attractions.",
           "A helmet is recommended."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten am Marktplatz und radeln durch den Regen zum 1535° Hub. Die Route zum Schloss bietet trotz Nässe schöne Ausblicke auf die Stahlstadt. Mittags führt die Fahrt nach Fond-de-Gras, wo die Industriegeschichte im Regen besonders authentisch wirkt. Nachmittags erkunden wir das Naturschutzgebiet Giele Botter, bevor wir den Tag am Thillenberg beenden.",
+            "hu": "A főtérről indulunk, és az esőben tekerünk az 1535° Hub felé. A kastélyhoz vezető út a nedves aszfalton is szép kilátást nyújt az acélvárosra. Délben Fond-de-Gras felé vesszük az irányt, ahol az ipari emlékek esőben is hitelesek. Délután a Giele Botter természetvédelmi területet járjuk be, majd a Thillenberg stadionnál zárunk.",
+            "ro": "Pornim din piață și pedalăm prin ploaie spre hub-ul 1535°. Traseul spre castel oferă vederi frumoase asupra orașului oțelului în ciuda vremii. La prânz mergem spre Fond-de-Gras, unde istoria industrială pare autentică sub ploaie. După-amiaza explorăm rezervația Giele Botter înainte de a încheia la Thillenberg.",
+            "en": "We start at the Market Square and cycle through the rain to the 1535° Hub. The route to the castle offers scenic views of the steel city despite the damp. At noon, we head to Fond-de-Gras, where industrial heritage feels particularly authentic in the rain. In the afternoon, we explore Giele Botter before finishing at Thillenberg."
+          },
+          "stops": [
+            {
+              "name": "Market Square",
+              "tip_5lang": {
+                "de": "Achten Sie auf rutschige Markierungen auf der Fahrbahn.",
+                "hu": "Ügyeljen a csúszós útburkolati jelekre az úttesten.",
+                "ro": "Atenție la marcajele rutiere alunecoase de pe carosabil.",
+                "en": "Be careful with slippery road markings on the pavement."
+              }
+            },
+            {
+              "name": "Creative Hub 1535°",
+              "tip_5lang": {
+                "de": "Sichere Fahrradständer sind direkt vor dem Eingang vorhanden.",
+                "hu": "Biztonságos biciklitárolók találhatók közvetlenül a bejárat előtt.",
+                "ro": "Suporturi de biciclete sigure sunt disponibile chiar la intrare.",
+                "en": "Secure bike racks are available right in front of the entrance."
+              }
+            },
+            {
+              "name": "Differdange Castle",
+              "tip_5lang": {
+                "de": "Die Auffahrt zum Schloss kann bei Regen anstrengend sein.",
+                "hu": "A kastélyhoz vezető emelkedő esőben megterhelőbb lehet.",
+                "ro": "Urcarea spre castel poate fi solicitantă pe timp de ploaie.",
+                "en": "The climb to the castle can be more taxing in the rain."
+              }
+            },
+            {
+              "name": "Fond-de-Gras",
+              "tip_5lang": {
+                "de": "Vorsicht vor den alten Schienen, sie sind extrem rutschig!",
+                "hu": "Vigyázat a régi sínekkel, rendkívül csúszósak esőben!",
+                "ro": "Atenție la șinele vechi, sunt extrem de alunecoase!",
+                "en": "Warning: the old train tracks are extremely slippery when wet!"
+              }
+            },
+            {
+              "name": "Giele Botter Nature Reserve",
+              "tip_5lang": {
+                "de": "Schlammige Wege erfordern Reifen mit gutem Profil.",
+                "hu": "A sáros utak jó mintázatú gumiabroncsokat igényelnek.",
+                "ro": "Potecile noroioase necesită anvelope cu profil bun.",
+                "en": "Muddy trails require tires with good tread for safety."
+              }
+            },
+            {
+              "name": "Thillenberg Stadium",
+              "tip_5lang": {
+                "de": "Ein geschützter Ort, um das Fahrrad kurz abzustellen.",
+                "hu": "Védett hely a kerékpár rövid idejű tárolására.",
+                "ro": "Un loc protejat pentru a lăsa bicicleta scurt timp.",
+                "en": "A sheltered spot to briefly park your bike at the end."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Kleidung und einen Helm mit Visier.",
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt nach Fond-de-Gras.",
+              "Meiden Sie tiefe Pfützen im Naturschutzgebiet.",
+              "Nutzen Sie Schutzbleche, um trocken zu bleiben."
+            ],
+            "hu": [
+              "Viseljen vízálló ruházatot és szemellenzős sisakot.",
+              "Ellenőrizze a fékeket a Fond-de-Gras-i lejtő előtt.",
+              "Kerülje a mély tócsákat a természetvédelmi területen.",
+              "Használjon sárvédőt, hogy szárazabb maradjon."
+            ],
+            "ro": [
+              "Purtați îmbrăcăminte impermeabilă și cască cu vizieră.",
+              "Verificați frânele înainte de coborârea spre Fond-de-Gras.",
+              "Evitați bălțile adânci în rezervația naturală.",
+              "Folosiți apărători de noroi pentru a rămâne uscat."
+            ],
+            "en": [
+              "Wear high-quality waterproof gear and a helmet with a visor.",
+              "Test your brakes before the descent to Fond-de-Gras.",
+              "Avoid deep puddles in the nature reserve area.",
+              "Use fenders (mudguards) to keep yourself dry."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine erfrischende Wintertour startet am Marktplatz. Über das 1535° Hub radeln wir zum frostigen Schloss. Die Fahrt nach Fond-de-Gras führt durch eine erstarrte Industrielandschaft. Am Nachmittag erleben wir die stille, gefrorene Natur im Giele Botter, bevor wir uns am Thillenberg ausruhen und zurück in die warme Stadt fahren.",
+            "hu": "Frissítő téli túra indul a főtérről. Az 1535° Hub érintésével tekerünk a fagyos kastélyhoz. A Fond-de-Gras felé vezető út egy megdermedt ipari tájon visz keresztül. Délután a Giele Botter csendes, deres természetét csodáljuk meg, majd a Thillenberg stadionnál pihenünk meg a városba visszatérés előtt.",
+            "ro": "O tură revigorantă de iarnă începe în piață. Trecem pe la Hub 1535° spre castelul înghețat. Drumul spre Fond-de-Gras traversează un peisaj industrial încremenit. După-amiaza experimentăm natura tăcută la Giele Botter înainte de a ne odihni la Thillenberg.",
+            "en": "A refreshing winter ride begins at Market Square. We cycle past 1535° Hub toward the frosty castle. The journey to Fond-de-Gras takes us through a frozen industrial landscape. In the afternoon, experience the silent, icy nature of Giele Botter before resting at Thillenberg."
+          },
+          "stops": [
+            {
+              "name": "Market Square",
+              "tip_5lang": {
+                "de": "Vorsicht beim Anfahren auf vereisten Flächen.",
+                "hu": "Vigyázzon az indulásnál az esetlegesen jeges felületeken.",
+                "ro": "Atenție la plecare pe suprafețele înghețate.",
+                "en": "Be careful when starting off on potentially icy surfaces."
+              }
+            },
+            {
+              "name": "Creative Hub 1535°",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp für eine kurze Aufwärmpause.",
+                "hu": "Használja ki a megállót egy rövid melegedő szünetre.",
+                "ro": "Folosiți oprirea pentru o scurtă pauză de încălzire.",
+                "en": "Use this stop for a quick indoor warm-up break."
+              }
+            },
+            {
+              "name": "Differdange Castle",
+              "tip_5lang": {
+                "de": "Die Luft hier oben ist im Winter besonders klar.",
+                "hu": "A levegő itt fent télen különösen tiszta és friss.",
+                "ro": "Aerul de aici este deosebit de clar pe timp de iarnă.",
+                "en": "The air up here is exceptionally crisp during winter."
+              }
+            },
+            {
+              "name": "Fond-de-Gras",
+              "tip_5lang": {
+                "de": "Metallteile und Schienen können extrem glatt sein.",
+                "hu": "A fém alkatrészek és sínek rendkívül csúszósak lehetnek.",
+                "ro": "Elementele metalice și șinele pot fi extrem de netede.",
+                "en": "Metal parts and tracks can be extremely slippery in the cold."
+              }
+            },
+            {
+              "name": "Giele Botter Nature Reserve",
+              "tip_5lang": {
+                "de": "Die Wege sind fest gefroren, was das Fahren erleichtert.",
+                "hu": "Az utak keményre fagytak, ami megkönnyíti a haladást.",
+                "ro": "Potecile sunt înghețate bocnă, ceea ce facilitează rularea.",
+                "en": "The trails are frozen solid, making riding surprisingly smooth."
+              }
+            },
+            {
+              "name": "Thillenberg Stadium",
+              "tip_5lang": {
+                "de": "Planen Sie die Rückkehr vor Einbruch der Dunkelheit.",
+                "hu": "Tervezze meg a visszautat a sötétedés beállta előtt.",
+                "ro": "Planificați întoarcerea înainte de lăsarea întunericului.",
+                "en": "Plan your return trip before the early winter darkness."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Handschuhe und Windstopper-Kleidung sind Pflicht.",
+              "Achten Sie auf gefrorenes Laub in Kurven.",
+              "Halten Sie die Kette gut geölt gegen Streusalz.",
+              "Nehmen Sie ein warmes Getränk in einer Thermoskanne mit."
+            ],
+            "hu": [
+              "Meleg kesztyű és szélálló ruházat kötelező.",
+              "Ügyeljen a kanyarokban a lefagyott avarra.",
+              "Tartsa a láncot olajozottan az útszóró só ellen.",
+              "Vigyen magával forró italt termoszban."
+            ],
+            "ro": [
+              "Mănușile groase și hainele rezistente la vânt sunt obligatorii.",
+              "Atenție la frunzele înghețate în curbe.",
+              "Păstrați lanțul bine uns împotriva sării de pe drum.",
+              "Luați o băutură caldă într-un termos."
+            ],
+            "en": [
+              "Warm gloves and windproof clothing are mandatory.",
+              "Watch out for frozen leaves in the corners.",
+              "Keep your chain well-oiled to protect against road salt.",
+              "Carry a warm drink in a thermos for the ride."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1014,6 +1378,188 @@
           "Note that the castle is part of a university and access may be restricted.",
           "The streets can be narrow, drive carefully."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Bequem im Auto starten wir am Zentralparkplatz. Der Marktplatz und das Rathaus lassen sich auch bei Regen gut erkunden. Die Fahrt zum Fond-de-Gras ist landschaftlich reizvoll, auch wenn die Wolken tief hängen. Das Naturschutzgebiet Giele Botter bewundern wir vom Parkplatz aus, bevor wir den Tag am Schloss Differdingen ausklingen lassen.",
+            "hu": "Kényelmesen, autóval indulunk a központi parkolóból. A főtér és a városháza esőben is jól felfedezhető. A Fond-de-Gras-ba vezető út látványos, még alacsonyan szálló felhők mellett is. A Giele Botter természetvédelmi területet a parkolóból csodáljuk meg, majd a napot a Differdange-i kastélynál zárjuk.",
+            "ro": "Pornim confortabil cu mașina din parcarea centrală. Piața și primăria pot fi explorate ușor chiar și pe ploaie. Drumul spre Fond-de-Gras este pitoresc, chiar și cu nori joși. Admirăm rezervația Giele Botter din parcare înainte de a încheia ziua la castelul Differdange.",
+            "en": "Starting comfortably by car from the central car park, we explore the Market Square and Town Hall. The drive to Fond-de-Gras remains scenic even under heavy clouds. We admire Giele Botter from the viewpoint near the parking lot before finishing the day at Differdange Castle."
+          },
+          "stops": [
+            {
+              "name": "Central Car Park (Cluster A)",
+              "tip_5lang": {
+                "de": "Ein überdachter Parkplatz schützt beim Aussteigen.",
+                "hu": "A fedett parkolóhely megvéd a kiszálláskor.",
+                "ro": "O parcare acoperită vă protejează la coborâre.",
+                "en": "A covered parking spot protects you when getting out."
+              }
+            },
+            {
+              "name": "Market Square",
+              "tip_5lang": {
+                "de": "Kurze Wege zu den Sehenswürdigkeiten minimieren Nässe.",
+                "hu": "A rövid sétatávolságok minimalizálják az elázást.",
+                "ro": "Distanțele scurte până la obiective minimizează expunerea.",
+                "en": "Short walking distances to sights minimize getting wet."
+              }
+            },
+            {
+              "name": "Town Hall & Saint-Imier Church",
+              "tip_5lang": {
+                "de": "Parkplätze in unmittelbarer Nähe vorhanden.",
+                "hu": "Parkolóhelyek találhatók a közvetlen közelben.",
+                "ro": "Locuri de parcare disponibile în imediata apropiere.",
+                "en": "Parking spaces are available in the immediate vicinity."
+              }
+            },
+            {
+              "name": "Fond-de-Gras (Cluster B)",
+              "tip_5lang": {
+                "de": "Das Museumsgelände ist teilweise befahrbar.",
+                "hu": "A múzeum területe részben autóval is bejárható.",
+                "ro": "Zona muzeului este parțial accesibilă cu mașina.",
+                "en": "The museum grounds are partially accessible by car."
+              }
+            },
+            {
+              "name": "Giele Botter Nature Reserve",
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Regen im Auto und genießen Sie die Aussicht.",
+                "hu": "Erős esőben maradjon az autóban, és élvezze a kilátást.",
+                "ro": "Rămâneți în mașină în caz de ploaie torențială și admirați vederea.",
+                "en": "In heavy rain, stay in the car and enjoy the landscape views."
+              }
+            },
+            {
+              "name": "Differdange Castle (Cluster C)",
+              "tip_5lang": {
+                "de": "Direkte Zufahrt bis zum Schlosshof möglich.",
+                "hu": "Közvetlen behajtás lehetséges a kastély udvaráig.",
+                "ro": "Acces direct permis până în curtea castelului.",
+                "en": "Direct access to the castle courtyard is possible by car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf den Landstraßen.",
+              "Halten Sie einen Regenschirm im Auto griffbereit.",
+              "Die Sicht kann in den Wäldern bei Nebel eingeschränkt sein.",
+              "Nutzen Sie die Parkhäuser im Zentrum."
+            ],
+            "hu": [
+              "Ügyeljen a vízfelúszásra (aquaplaning) az országutakon.",
+              "Tartson esernyőt az autóban kézközelben.",
+              "A látási viszonyok a ködös erdőkben romolhatnak.",
+              "Használja a belvárosi parkolóházakat."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumurile județene.",
+              "Țineți o umbrelă la îndemână în mașină.",
+              "Vizibilitatea poate fi redusă în păduri din cauza ceții.",
+              "Folosiți parcările etajate din centru."
+            ],
+            "en": [
+              "Watch out for aquaplaning on the country roads.",
+              "Keep an umbrella within easy reach inside the car.",
+              "Visibility can be limited in the forested areas during fog.",
+              "Utilize the multi-story car parks in the city center."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Tour beginnt am beheizten Parkplatz. Wir besuchen den festlichen Marktplatz und die Kirche. Die Fahrt durch die verschneite Landschaft zum Fond-de-Gras ist ein besonderes Erlebnis. Nach einem kurzen Stopp am frostigen Giele Botter genießen wir den Anblick des beleuchteten Schlosses Differdingen aus der Wärme des Wagens.",
+            "hu": "A téli túra a fűtött parkolóból indul. Meglátogatjuk az ünnepi főteret és a templomot. A havas tájon átvezető út Fond-de-Gras-ba különleges élmény. Egy rövid fagyos megálló után a Giele Botter-nél, az autó melegéből csodáljuk meg a kivilágított Differdange-i kastélyt.",
+            "ro": "Turul de iarnă începe din parcarea încălzită. Vizităm piața festivă și biserica. Drumul prin peisajul înzăpezit spre Fond-de-Gras este o experiență deosebită. După o scurtă oprire la Giele Botter, admirăm castelul iluminat din căldura mașinii.",
+            "en": "The winter tour begins from a warm car park. We visit the festive Market Square and the church. The drive through the snowy landscape to Fond-de-Gras is a special highlight. After a quick stop at frosty Giele Botter, enjoy the view of the illuminated castle from the warmth of your vehicle."
+          },
+          "stops": [
+            {
+              "name": "Central Car Park (Cluster A)",
+              "tip_5lang": {
+                "de": "Tiefgaragen sind frostfrei und komfortabel.",
+                "hu": "A mélygarázsok fagymentesek és kényelmesek.",
+                "ro": "Parcările subterane sunt ferite de îngheț și confortabile.",
+                "en": "Underground car parks are frost-free and convenient."
+              }
+            },
+            {
+              "name": "Market Square",
+              "tip_5lang": {
+                "de": "Genießen Sie den Weihnachtsmarkt, falls Saison ist.",
+                "hu": "Élvezze a karácsonyi vásárt, ha épp szezon van.",
+                "ro": "Bucurați-vă de târgul de Crăciun, dacă este sezonul.",
+                "en": "Enjoy the Christmas market if it's the right season."
+              }
+            },
+            {
+              "name": "Town Hall & Saint-Imier Church",
+              "tip_5lang": {
+                "de": "Die Heizung in der Kirche ist im Winter oft an.",
+                "hu": "A templom fűtése télen gyakran üzemel.",
+                "ro": "Încălzirea în biserică este adesea pornită iarna.",
+                "en": "The church heating is often turned on during winter."
+              }
+            },
+            {
+              "name": "Fond-de-Gras (Cluster B)",
+              "tip_5lang": {
+                "de": "Prüfen Sie, ob die Zufahrtswege geräumt sind.",
+                "hu": "Ellenőrizze, hogy a bekötőutak le vannak-e takarítva.",
+                "ro": "Verificați dacă drumurile de acces sunt curățate.",
+                "en": "Check if the access roads have been cleared of snow."
+              }
+            },
+            {
+              "name": "Giele Botter Nature Reserve",
+              "tip_5lang": {
+                "de": "Die Landschaft wirkt im Frost wie verzaubert.",
+                "hu": "A táj a fagyban olyan, mintha elvarázsolták volna.",
+                "ro": "Peisajul pare vrăjit sub îngheț.",
+                "en": "The landscape looks enchanted under a coat of frost."
+              }
+            },
+            {
+              "name": "Differdange Castle (Cluster C)",
+              "tip_5lang": {
+                "de": "Abends ist das Schloss wunderschön beleuchtet.",
+                "hu": "Este a kastély gyönyörűen kivilágítva tündököl.",
+                "ro": "Seara, castelul este iluminat superb.",
+                "en": "The castle is beautifully illuminated in the evenings."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in Luxemburg bei diesen Bedingungen Pflicht.",
+              "Führen Sie einen Eiskratzer und Enteiser-Spray mit.",
+              "Achten Sie auf Wildwechsel in Waldabschnitten.",
+              "Planen Sie mehr Zeit für die Parkplatzsuche ein."
+            ],
+            "hu": [
+              "Téli gumi használata kötelező Luxemburgban ilyenkor.",
+              "Vigyen magával jégkaparót és jégoldó spray-t.",
+              "Ügyeljen a vadakra az erdei útszakaszokon.",
+              "Tervezzen több időt a parkolóhely keresésére."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii în Luxemburg în aceste condiții.",
+              "Aveți la rândul un răzuitor de gheață și spray de dezghețare.",
+              "Atenție la animalele sălbatice în zonele împădurite.",
+              "Alocați mai mult timp pentru găsirea unui loc de parcare."
+            ],
+            "en": [
+              "Winter tires are mandatory in Luxembourg in these conditions.",
+              "Keep an ice scraper and de-icer spray in your car.",
+              "Watch out for wildlife crossing in forested sections.",
+              "Allow extra time for finding a parking spot in the center."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1021,7 +1567,7 @@
       "speed_kmh": 15,
       "start": "09:00",
       "end_estimate": "17:30",
-      "total_km": 14.6,
+      "total_km": 8.1,
       "stop_count": 6,
       "stops": [
         {
@@ -1350,6 +1896,188 @@
           "Buy a day ticket if you are traveling outside of Luxembourg.",
           "Buses to Fond-de-Gras leave regularly from the city center."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Vom Bahnhof Differdingen aus starten wir trocken in den Tag. Der Marktplatz ist nur einen kurzen Weg entfernt. Den Mittag verbringen wir im Creative Hub 1535°, einem idealen Ziel für Regentage. Mit dem Bus erreichen wir Fond-de-Gras, wo wir trotz Schmuddelwetter in die Bergbaugeschichte eintauchen, bevor es zurück zum Bahnhof geht.",
+            "hu": "A Differdange-i vasútállomásról indulva szárazon kezdjük a napot. A főtér csak egy rövid sétára van. A delet a 1535° Creative Hub-ban töltjük, ami ideális célpont esős napokon. Busszal jutunk el Fond-de-Gras-ba, ahol a borongós idő ellenére is elmélyedünk a bányászati múltban.",
+            "ro": "Pornim uscați de la gara Differdange. Piața centrală este la doar o scurtă plimbare. Prânzul îl petrecem la Hub 1535°, o destinație ideală pentru zile ploioase. Cu autobuzul ajungem la Fond-de-Gras, explorând istoria mineritului în ciuda vremii umede.",
+            "en": "Starting from Differdange Station, we stay dry as we begin our day. Market Square is just a short hop away. Noon is spent at the 1535° Creative Hub, a top choice for rainy weather. By bus, we reach Fond-de-Gras to dive into mining history before returning to the station."
+          },
+          "stops": [
+            {
+              "name": "Differdange Station (Cluster A)",
+              "tip_5lang": {
+                "de": "Warten Sie im beheizten Wartebereich auf den Bus.",
+                "hu": "Várjon a fűtött váróteremben a buszindulásig.",
+                "ro": "Așteptați în zona de așteptare încălzită până la sosirea autobuzului.",
+                "en": "Wait in the heated waiting area until your bus arrives."
+              }
+            },
+            {
+              "name": "Market Square",
+              "tip_5lang": {
+                "de": "Nahegelegene Bushaltestellen bieten Unterstände.",
+                "hu": "A közeli buszmegállók fedett várakozóhellyel rendelkeznek.",
+                "ro": "Stațiile de autobuz din apropiere au adăposturi.",
+                "en": "Nearby bus stops offer shelters to stay dry while waiting."
+              }
+            },
+            {
+              "name": "Town Hall & Saint-Imier Church",
+              "tip_5lang": {
+                "de": "Die Wege zwischen den Haltestellen sind kurz.",
+                "hu": "A megállók közötti gyalogos távolságok minimálisak.",
+                "ro": "Distanțele de mers între stații sunt scurte.",
+                "en": "Walking distances between stops are kept to a minimum."
+              }
+            },
+            {
+              "name": "Creative Hub 1535°",
+              "tip_5lang": {
+                "de": "Ein kurzer Fußweg von der Haltestelle 'Differdange, Opkorn'.",
+                "hu": "Rövid séta a 'Differdange, Opkorn' megállótól.",
+                "ro": "O scurtă plimbare de la stația 'Differdange, Opkorn'.",
+                "en": "A short walk from the 'Differdange, Opkorn' bus stop."
+              }
+            },
+            {
+              "name": "Fond-de-Gras (Cluster B)",
+              "tip_5lang": {
+                "de": "Der historische Zug fährt bei jedem Wetter (Saison beachten).",
+                "hu": "A történelmi vonat minden időben közlekedik (szezonfüggő).",
+                "ro": "Trenul istoric circulă pe orice vreme (atenție la sezon).",
+                "en": "The historic train runs regardless of weather (check season)."
+              }
+            },
+            {
+              "name": "Back to Differdange Station",
+              "tip_5lang": {
+                "de": "Nutzen Sie die App 'Mobiliteit.lu' für Echtzeit-Infos.",
+                "hu": "Használja a 'Mobiliteit.lu' appot valós idejű infókért.",
+                "ro": "Folosiți aplicația 'Mobiliteit.lu' pentru info în timp real.",
+                "en": "Use the 'Mobiliteit.lu' app for real-time transit updates."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Öffentlicher Verkehr ist in ganz Luxemburg kostenlos.",
+              "Die Busse sind gut klimatisiert und trocken.",
+              "Informieren Sie sich über die Fahrpläne nach Fond-de-Gras.",
+              "Tragen Sie wasserfeste Schuhe für die Umstiege."
+            ],
+            "hu": [
+              "A tömegközlekedés egész Luxemburgban ingyenes.",
+              "A buszok jól klimatizáltak és szárazak.",
+              "Tájékozódjon a Fond-de-Gras-ba tartó buszok menetrendjéről.",
+              "Viseljen vízálló cipőt az átszállásokhoz."
+            ],
+            "ro": [
+              "Transportul public este gratuit în tot Luxemburgul.",
+              "Autobuzele sunt bine climatizate și uscate.",
+              "Informați-vă despre orarul spre Fond-de-Gras.",
+              "Purtați pantofi impermeabili pentru transbordări."
+            ],
+            "en": [
+              "Public transport is free throughout all of Luxembourg.",
+              "Buses are well-climatized and stay dry inside.",
+              "Check the specific schedules for buses to Fond-de-Gras.",
+              "Wear waterproof shoes for the short walks between stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Vom warmen Bahnhof Differdingen erkunden wir den winterlichen Ort. Der Marktplatz glänzt im Frost, während wir zur Kirche spazieren. Mittags genießen wir die moderne Wärme im 1535° Hub. Eine Busfahrt bringt uns zum Fond-de-Gras, wo die alte Bahnstation im Schnee wie aus einer anderen Zeit wirkt, bevor wir gemütlich zurückkehren.",
+            "hu": "A meleg vasútállomásról indulva fedezzük fel a téli várost. A főtér csillog a fagyban, miközben a templom felé sétálunk. Délben a 1535° Hub modern melegét élvezzük. Egy buszos utazás Fond-de-Gras-ba visz, ahol a régi állomás a hóban mintha egy másik korból maradt volna itt.",
+            "ro": "De la gara călduroasă explorăm orașul de iarnă. Piața strălucește sub îngheț în timp ce mergem spre biserică. La prânz ne bucurăm de căldura modernă de la Hub 1535°. O călătorie cu autobuzul ne duce la Fond-de-Gras, unde gara veche pare desprinsă din alt timp.",
+            "en": "From the warm Differdange Station, we explore the wintery town. Market Square glows in the frost as we walk to the church. Noon is spent in the modern warmth of 1535° Hub. A bus ride takes us to Fond-de-Gras, where the old station in the snow looks like it belongs to another era."
+          },
+          "stops": [
+            {
+              "name": "Differdange Station (Cluster A)",
+              "tip_5lang": {
+                "de": "Idealer Ausgangspunkt mit beheiztem Bahnhofsgebäude.",
+                "hu": "Ideális kiindulópont fűtött állomásépülettel.",
+                "ro": "Punct de plecare ideal cu clădirea gării încălzită.",
+                "en": "Ideal starting point with a heated station building."
+              }
+            },
+            {
+              "name": "Market Square",
+              "tip_5lang": {
+                "de": "Kurze Wege helfen, die Kälte draußen zu lassen.",
+                "hu": "A rövid távok segítenek elkerülni a tartós hideget.",
+                "ro": "Distanțele scurte ajută la evitarea frigului prelungit.",
+                "en": "Short walking distances help you minimize time in the cold."
+              }
+            },
+            {
+              "name": "Town Hall & Saint-Imier Church",
+              "tip_5lang": {
+                "de": "Bewundern Sie die festliche Beleuchtung am Abend.",
+                "hu": "Csodálja meg az ünnepi kivilágítást az esti órákban.",
+                "ro": "Admirați iluminatul festiv în orele serii.",
+                "en": "Admire the festive illuminations during the evening hours."
+              }
+            },
+            {
+              "name": "Creative Hub 1535°",
+              "tip_5lang": {
+                "de": "Ein wunderbarer Ort für eine lange Aufwärmpause.",
+                "hu": "Csodálatos helyszín egy hosszú melegedő szünetre.",
+                "ro": "Un loc minunat pentru o pauză lungă de încălzire.",
+                "en": "A wonderful place for an extended indoor warm-up break."
+              }
+            },
+            {
+              "name": "Fond-de-Gras (Cluster B)",
+              "tip_5lang": {
+                "de": "Achtung: Im Winter sind die Außenbereiche oft sehr kalt.",
+                "hu": "Figyelem: télen a kültéri részek nagyon hidegek lehetnek.",
+                "ro": "Atenție: iarna zonele exterioare sunt adesea foarte reci.",
+                "en": "Note: Outdoor areas can be very cold during winter visits."
+              }
+            },
+            {
+              "name": "Back to Differdange Station",
+              "tip_5lang": {
+                "de": "Züge nach Luxemburg-Stadt fahren regelmäßig.",
+                "hu": "A vonatok Luxemburg városba rendszeresen indulnak.",
+                "ro": "Trenurile spre orașul Luxemburg circulă regulat.",
+                "en": "Trains back to Luxembourg City depart on a regular basis."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse und Züge sind im Winter angenehm geheizt.",
+              "Nutzen Sie die kostenlosen öffentlichen Verkehrsmittel.",
+              "Planen Sie Umstiege mit kurzen Wartezeiten im Freien.",
+              "Prüfen Sie den Winterfahrplan der Linie 243."
+            ],
+            "hu": [
+              "A buszok és vonatok télen kellemesen fűtöttek.",
+              "Használja ki az ingyenes tömegközlekedési lehetőséget.",
+              "Tervezze az átszállásokat rövid kültéri várakozási idővel.",
+              "Ellenőrizze a 243-as járat téli menetrendjét."
+            ],
+            "ro": [
+              "Autobuzele și trenurile sunt încălzite plăcut iarna.",
+              "Profitați de transportul public gratuit.",
+              "Planificați transbordările cu timpi scurți de așteptare afară.",
+              "Verificați mersul trenurilor și autobuzelor (linia 243)."
+            ],
+            "en": [
+              "Buses and trains are comfortably heated during winter.",
+              "Make full use of the free public transport system.",
+              "Plan transfers to minimize waiting time outdoors.",
+              "Check the winter schedule for bus line 243 carefully."
+            ]
+          }
+        }
       }
     }
   }

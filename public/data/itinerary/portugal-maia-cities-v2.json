@@ -326,6 +326,188 @@
           "Plan enough time for lunch to savor the local cuisine.",
           "Keep a camera ready to capture the architecture and monuments."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt wettergeschützt im Maia Forum, wo Ausstellungen und Kultur den Regen vergessen lassen. Mittags führt ein kurzer Spaziergang unter dem Schirm zum Lidador-Denkmal und einem gemütlichen Restaurant. Der Nachmittag gehört der barocken Stille des Heiligtums Bom Despacho. Den Tag beschließen wir in der Quinta da Gruta, deren Parkanlagen im Regen besonders satt leuchten.",
+            "hu": "A délelőttöt a Maia Forum fedett kulturális tereiben töltjük, elkerülve az esőt. Délben rövid ernyős séta következik a Lidador szoborig, majd egy meleg ebéd egy közeli étteremben. Délután a Bom Despacho szentély barokk belső tere nyújt spirituális menedéket. A napot a Quinta da Gruta buja, esőáztatta kertjeiben zárjuk, ahol ilyenkor a legfrissebb az illat.",
+            "ro": "Dimineața începe la adăpost în Maia Forum, explorând expozițiile culturale. La prânz, o scurtă plimbare sub umbrelă ne duce la monumentul Lidador și apoi la un restaurant primitor. După-amiaza este dedicată liniștii baroce din Sanctuarul Bom Despacho. Încheiem ziua la Quinta da Gruta, unde grădinile par mai verzi și mai vibrante sub ploaia ușoară de nord.",
+            "en": "The morning starts sheltered inside Maia Forum, enjoying cultural exhibitions. At noon, a short walk with an umbrella leads to the Lidador monument and a cozy local lunch. The afternoon is spent in the Baroque silence of the Bom Despacho Sanctuary. We conclude the day at Quinta da Gruta, where the lush parkland feels especially fresh and vibrant under the rain."
+          },
+          "stops": [
+            {
+              "name": "Maia Forum",
+              "tip_5lang": {
+                "de": "Perfekter Ort bei Regen, da alle Ausstellungsräume überdacht sind.",
+                "hu": "Ideális esőben, mivel a kiállítóterek és a folyosók teljesen fedettek.",
+                "ro": "Loc perfect pe ploaie, deoarece toate spațiile de expoziție sunt acoperite.",
+                "en": "Perfect spot during rain as all exhibition areas are fully indoor."
+              }
+            },
+            {
+              "name": "Monument to the Maiata Community",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp; die Granitstatue glänzt bei Nässe besonders schön.",
+                "hu": "Gyors fotómegálló; a gránitszobor nedvesen különlegesen csillog.",
+                "ro": "Scurt popas pentru fotografii; statuia de granit strălucește frumos când e udă.",
+                "en": "Quick photo stop; the granite statue glitters beautifully when wet."
+              }
+            },
+            {
+              "name": "Statue of Lidador",
+              "tip_5lang": {
+                "de": "Direkt am Platz; nutzen Sie die Arkaden der umliegenden Gebäude als Schutz.",
+                "hu": "A tér mellett a környező épületek árkádjai alatt találhatunk menedéket.",
+                "ro": "Lângă piață; folosiți arcadele clădirilor din jur pentru adăpost.",
+                "en": "Right by the square; use the nearby building arcades for temporary cover."
+              }
+            },
+            {
+              "name": "Sanctuary of Our Lady of Bom Despacho",
+              "tip_5lang": {
+                "de": "Das prächtige barocke Innere bietet trockenen Unterschlupf für Besichtigungen.",
+                "hu": "A pompás barokk belső tér száraz és nyugodt helyszín a nézelődéshez.",
+                "ro": "Interiorul baroc splendid oferă un adăpost uscat pentru vizitare.",
+                "en": "The splendid Baroque interior provides a dry and peaceful refuge."
+              }
+            },
+            {
+              "name": "Lunch at a local restaurant",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit 'Francesinha', perfekt zum Aufwärmen.",
+                "hu": "Válasszon egy helyet, ahol van Francesinha, tökéletes lélekmelegítő.",
+                "ro": "Alegeți un loc care servește Francesinha, ideal pentru a vă încălzi.",
+                "en": "Choose a spot serving Francesinha; it is the perfect comfort food for rain."
+              }
+            },
+            {
+              "name": "Quinta da Gruta",
+              "tip_5lang": {
+                "de": "Die Cafeteria im Herrenhaus ist ein gemütlicher Rückzugsort mit Blick ins Grüne.",
+                "hu": "Az udvarház kávézója barátságos menedék, kilátással az ázott kertre.",
+                "ro": "Cafeneaua din conac este un refugiu primitor cu vedere spre grădină.",
+                "en": "The cafeteria inside the manor house is a cozy retreat with garden views."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Metrostation Forum Maia ist unterirdisch und bietet trockenen Zugang zum Zentrum.",
+              "Tragen Sie rutschfeste Schuhe, da das Kopfsteinpflaster in Maia bei Nässe glatt wird.",
+              "Nutzen Sie die Einkaufszentren für längere Pausen im Trockenen.",
+              "Ein Taschenschirm ist wegen gelegentlicher Windböen praktischer als ein Stockschirm."
+            ],
+            "hu": [
+              "A Forum Maia metróállomás a föld alatt van, így szárazon érhető el a központ.",
+              "Viseljen csúszásmentes talpú cipőt, mert a kockakő esőben nagyon csúszik.",
+              "A helyi bevásárlóközpontok jó megállók lehetnek, ha eláll az eső.",
+              "Egy összecsukható ernyő praktikusabb, mert a szél gyakran megélénkül."
+            ],
+            "ro": [
+              "Stația de metrou Forum Maia este subterană și oferă acces uscat la centru.",
+              "Purtați pantofi antiderapanți, deoarece pavajul devine alunecos când este ud.",
+              "Centrele comerciale locale sunt bune puncte de oprire pentru a rămâne la uscat.",
+              "O umbrelă pliabilă este mai practică din cauza rafalelor ocazionale de vânt."
+            ],
+            "en": [
+              "Forum Maia metro station is underground, providing dry access to the city center.",
+              "Wear non-slip shoes as the Portuguese pavement becomes slippery when wet.",
+              "Local shopping galleries are great for extended dry breaks.",
+              "A sturdy folding umbrella is better than a large one due to occasional wind."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im klaren Winterlicht beginnt der Tag im Maia Forum. Die kühle Luft macht den Spaziergang zum Lidador-Denkmal erfrischend, bevor wir uns bei einem traditionellen Mittagessen stärken. Nachmittags leuchten die Goldaltäre des Heiligtums Bom Despacho besonders warm. Da die Sonne gegen 17:30 Uhr untergeht, genießen wir das restliche Tageslicht in den weitläufigen Anlagen der Quinta da Gruta.",
+            "hu": "Tiszta téli fényekben indul a nap a Maia Forumban. A friss, hűvös levegő élénkítővé teszi a sétát a Lidador szoborig, majd egy kiadós ebéd melegít fel minket. Délután a Bom Despacho szentély aranyozott oltárai különleges fényben úsznak. Mivel fél hatkor sötétedik, a nap utolsó sugaraival még bejárjuk a Quinta da Gruta birtokát.",
+            "ro": "Ziua începe în lumina clară de iarnă la Maia Forum. Aerul răcoros face plimbarea spre monumentul Lidador revigorantă, înainte de un prânz tradițional cald. După-amiaza, altarele aurite ale Sanctuarului Bom Despacho strălucesc cald. Deoarece soarele apune pe la 17:30, profităm de restul luminii naturale la Quinta da Gruta.",
+            "en": "The day begins in the crisp winter light at Maia Forum. The cool air makes the stroll to the Lidador monument refreshing before warming up with a traditional lunch. In the afternoon, the gilded altars of the Bom Despacho Sanctuary glow warmly. Since the sun sets around 5:30 PM, we use the remaining daylight to explore the grounds of Quinta da Gruta."
+          },
+          "stops": [
+            {
+              "name": "Maia Forum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe, um schwere Wintermäntel während der Besichtigung abzulegen.",
+                "hu": "Használja a ruhatárat, hogy ne kelljen nehéz kabátban néznie a kiállítást.",
+                "ro": "Folosiți garderoba pentru a lăsa hainele groase în timpul vizitei.",
+                "en": "Use the cloakroom to drop off heavy winter coats during your visit."
+              }
+            },
+            {
+              "name": "Monument to the Maiata Community",
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne bietet am Vormittag tolles Licht für Fotos.",
+                "hu": "Az alacsonyan járó téli nap délelőtt kiváló fényeket ad a fotózáshoz.",
+                "ro": "Soarele de iarnă oferă o lumină excelentă pentru fotografii dimineața.",
+                "en": "The low winter sun provides excellent lighting for photos in the morning."
+              }
+            },
+            {
+              "name": "Statue of Lidador",
+              "tip_5lang": {
+                "de": "Ein schneller Stopp; wärmen Sie sich danach in einem der Cafés am Platz auf.",
+                "hu": "Gyors megálló, utána melegedjen fel a tér körüli kávézók egyikében.",
+                "ro": "O oprire rapidă; încălziți-vă apoi la una dintre cafenelele din piață.",
+                "en": "A quick stop; warm up afterwards at one of the cafes around the square."
+              }
+            },
+            {
+              "name": "Sanctuary of Our Lady of Bom Despacho",
+              "tip_5lang": {
+                "de": "Im Winter ist es in der Kirche oft kühler als draußen; behalten Sie die Jacke an.",
+                "hu": "Télen a templomban hűvösebb lehet, mint kint; ne vegye le a kabátját.",
+                "ro": "Iarna este adesea mai rece în biserică decât afară; păstrați haina pe dvs.",
+                "en": "In winter, the church interior is often colder than outside; keep your coat on."
+              }
+            },
+            {
+              "name": "Lunch at a local restaurant",
+              "tip_5lang": {
+                "de": "Fragen Sie nach dem Tageseintopf (Cozido), dem besten Wintergericht.",
+                "hu": "Kérjen napi egytálételt (Cozido), ez a legjobb téli fogás itt.",
+                "ro": "Cereți tocană zilei (Cozido), cel mai bun fel de mâncare de iarnă.",
+                "en": "Ask for the daily stew (Cozido), the best winter dish in the region."
+              }
+            },
+            {
+              "name": "Quinta da Gruta",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Gärten früh, um den Sonnenuntergang vor 18 Uhr zu erleben.",
+                "hu": "Látogasson el korán a kertekbe, hogy lássa a naplementét 6 óra előtt.",
+                "ro": "Vizitați grădinile devreme pentru a vedea apusul înainte de ora 18.",
+                "en": "Visit the gardens early to catch the sunset before 6 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Zwiebelprinzip ist ratsam, da es in der Sonne warm, im Schatten aber sehr kühl ist.",
+              "Die Sonnenuntergänge sind im Winter oft spektakulär über den Hügeln von Maia.",
+              "Trinken Sie 'Meia de Leite' (Milchkaffee) zum Aufwärmen zwischendurch.",
+              "Die öffentlichen Verkehrsmittel sind im Winter gut beheizt."
+            ],
+            "hu": [
+              "Öltözzön rétegesen, mert a napon meleg van, de árnyékban hirtelen lehűl.",
+              "A téli naplementék gyakran látványosak Maia dombjai felett.",
+              "Igyon egy 'Meia de Leite'-t (tejeskávé) napközben, hogy felmelegedjen.",
+              "A tömegközlekedési eszközök télen kellemesen fűtöttek."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi, e cald la soare dar răcoare la umbră.",
+              "Apusurile de soare sunt adesea spectaculoase iarna peste dealurile din Maia.",
+              "Beți o 'Meia de Leite' (cafea cu lapte) pentru a vă încălzi pe parcurs.",
+              "Mijloacele de transport în comun sunt bine încălzite în timpul iernii."
+            ],
+            "en": [
+              "Layered clothing is advised; it's warm in the sun but chilly in the shade.",
+              "Winter sunsets are often spectacular over the hills of Maia.",
+              "Grab a 'Meia de Leite' (latte) to warm up during your walk.",
+              "Public transport vehicles are well-heated during the winter months."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -670,6 +852,206 @@
           "Maia has some hills, be prepared for inclines.",
           "Use bike lanes wherever available."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen bietet der Avioso Park durch seinen dichten Baumbestand Schutz für den Start. Die Fahrt zum Heiligtum Bom Despacho erfordert Vorsicht auf nassem Asphalt. Mittags wärmen wir uns im Zentrum auf, bevor wir das Maia Forum besuchen. Die Tour endet an der historischen Kirche von Águas Santas und der Quinta da Gruta, wobei die kühle Luft die Anstrengung mildert.",
+            "hu": "Az eső ellenére az Avioso Park sűrű fái védelmet nyújtanak a kezdéshez. A Bom Despacho szentélyig tartó út óvatosságot igényel a vizes aszfalton. Délben a központban melegszünk fel, majd ellátogatunk a Maia Forumba. A túra az Águas Santas templomnál és a Quinta da Grutánál zárul, ahol a hűvös levegő enyhíti a tekerés fáradalmait.",
+            "ro": "În ciuda ploii, Parcul Avioso oferă protecție la start datorită copacilor deși. Drumul spre Sanctuarul Bom Despacho necesită prudență pe asfaltul ud. La prânz ne încălzim în centru înainte de a vizita Maia Forum. Turul se încheie la biserica istorică din Águas Santas și Quinta da Gruta, aerul răcoros atenuând efortul.",
+            "en": "Despite the rain, Avioso Park's dense trees offer some initial cover. The ride to the Bom Despacho Sanctuary requires caution on wet tarmac. At noon, we warm up in the center before visiting Maia Forum. The tour ends at the historic Águas Santas Church and Quinta da Gruta, with the cool air making the physical effort more manageable."
+          },
+          "stops": [
+            {
+              "name": "Avioso Park",
+              "tip_5lang": {
+                "de": "Die Waldwege sind geschützt, können aber an einigen Stellen matschig sein.",
+                "hu": "Az erdei utak védettek, de néhány helyen sárosak lehetnek.",
+                "ro": "Potecile din pădure sunt protejate, dar pot fi noroioase în unele locuri.",
+                "en": "The forested paths are sheltered but can be muddy in some sections."
+              }
+            },
+            {
+              "name": "Sanctuary of Our Lady of Bom Despacho",
+              "tip_5lang": {
+                "de": "Sicherer Abstellplatz für Fahrräder direkt am Eingangsbereich vorhanden.",
+                "hu": "A bejáratnál biztonságos kerékpártároló áll rendelkezésre.",
+                "ro": "Există un loc sigur pentru parcarea bicicletelor chiar la intrare.",
+                "en": "Secure bicycle parking is available right near the entrance area."
+              }
+            },
+            {
+              "name": "Statue of Lidador",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem glatten Pflasterstein rund um das Denkmal.",
+                "hu": "Vigyázat a szobor körüli csúszós macskaköves burkolaton.",
+                "ro": "Atenție la pavajul alunecos din jurul monumentului.",
+                "en": "Caution is advised on the slippery cobblestones around the monument."
+              }
+            },
+            {
+              "name": "Maia Forum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Vorplatz für eine kurze Verschnaufpause.",
+                "hu": "Használja a fedett előteret egy rövid pihenőre és szusszanásra.",
+                "ro": "Folosiți zona acoperită din față pentru o scurtă pauză de odihnă.",
+                "en": "Use the sheltered forecourt for a brief break and to catch your breath."
+              }
+            },
+            {
+              "name": "Lunch near the center",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Café mit Sichtkontakt zu Ihrem abgestellten Fahrrad.",
+                "hu": "Válasszon olyan kávézót, ahonnan rálát a lezárt kerékpárjára.",
+                "ro": "Alegeți o cafenea de unde puteți supraveghea bicicleta parcată.",
+                "en": "Choose a cafe with a direct line of sight to your parked bicycle."
+              }
+            },
+            {
+              "name": "Church of Águas Santas",
+              "tip_5lang": {
+                "de": "Das steinerne Interieur der Kirche ist ein herrlicher, trockener Ruhepol.",
+                "hu": "A templom hűvös kőfalai között száraz és nyugodt pihenő várja.",
+                "ro": "Interiorul de piatră al bisericii este un loc de odihnă uscat și superb.",
+                "en": "The stone interior of the church is a wonderful, dry haven for rest."
+              }
+            },
+            {
+              "name": "Quinta da Gruta",
+              "tip_5lang": {
+                "de": "Es gibt überdachte Fahrradständer in der Nähe des Haupteingangs.",
+                "hu": "A főbejárat közelében fedett kerékpártárolók találhatók.",
+                "ro": "Există suporturi pentru biciclete acoperite lângă intrarea principală.",
+                "en": "There are sheltered bike racks available near the main entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche am Fahrrad sind bei Maias regnerischem Wetter unerlässlich.",
+              "Vermeiden Sie das Bremsen direkt auf Fahrbahnmarkierungen, da diese extrem glatt sind.",
+              "Eine wasserdichte Jacke mit Kapuze schützt besser als ein Helmüberzug allein.",
+              "Die Radwege entlang der Hauptstraßen sind meist gut drainiert."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen Maia esős időjárásában.",
+              "Kerülje a fékezést az útburkolati jeleken, mert azok ilyenkor rendkívül csúsznak.",
+              "Egy kapucnis esőkabát többet ér, mint önmagában a sisakhuzat.",
+              "A főutak menti kerékpárutak vízelvezetése általában jó."
+            ],
+            "ro": [
+              "Apărătoarele de noroi sunt esențiale pe vremea ploioasă din Maia.",
+              "Evitați frânarea direct pe marcajele rutiere, sunt extrem de alunecoase.",
+              "O jachetă impermeabilă cu glugă protejează mai bine decât o husă de cască.",
+              "Pistele de biciclete de-a lungul drumurilor principale sunt bine drenate."
+            ],
+            "en": [
+              "Mudguards are essential for cycling in Maia's rainy weather.",
+              "Avoid braking directly on road markings as they become extremely slick.",
+              "A waterproof jacket with a hood is better than just a helmet cover.",
+              "Bike lanes along main roads are generally well-drained."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die klare Winterluft im Avioso Park weckt die Lebensgeister für den Start der Tour. Wir radeln zum Heiligtum Bom Despacho, während die milde portugiesische Wintersonne uns begleitet. Nach einem Stopp beim Lidador und dem Maia Forum genießen wir ein warmes Mittagessen. Der Nachmittag führt uns zur Águas Santas Kirche und endet bei tiefstehender Sonne an der Quinta da Gruta.",
+            "hu": "A tiszta téli levegő az Avioso Parkban frissítően hat a túra kezdetén. A Bom Despacho szentélyig tekerünk, miközben a gyenge téli nap kísér minket. A Lidador szobor és a Maia Forum után egy meleg ebéd következik. Délután ellátogatunk az Águas Santas templomhoz, a napot pedig a lemenő nap fényében a Quinta da Grutánál zárjuk.",
+            "ro": "Aerul curat de iarnă din Parcul Avioso ne trezește simțurile la începutul turului. Pedalăm spre Sanctuarul Bom Despacho, acompaniați de soarele blând de iarnă. După o oprire la Lidador și Maia Forum, savurăm un prânz cald. După-amiaza ne duce la biserica Águas Santas și se încheie la Quinta da Gruta, sub soarele de seară.",
+            "en": "The crisp winter air in Avioso Park invigorates the start of our tour. We cycle to the Bom Despacho Sanctuary, accompanied by the mild Portuguese winter sun. After stops at Lidador and Maia Forum, we enjoy a warm lunch. The afternoon leads us to Águas Santas Church and concludes at Quinta da Gruta under the low evening sun."
+          },
+          "stops": [
+            {
+              "name": "Avioso Park",
+              "tip_5lang": {
+                "de": "Tragen Sie Handschuhe, da der Fahrtwind im Schatten der Bäume kühl ist.",
+                "hu": "Viseljen kesztyűt, mert a fák árnyékában a menetszél hűvös lehet.",
+                "ro": "Purtați mănuși, deoarece vântul este rece la umbra copacilor.",
+                "en": "Wear gloves as the wind chill in the shade of the trees can be cold."
+              }
+            },
+            {
+              "name": "Sanctuary of Our Lady of Bom Despacho",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp, um sich im windgeschützten Innenhof zu dehnen.",
+                "hu": "Használja ki a megállót egy nyújtásra a szélvédett belső udvaron.",
+                "ro": "Folosiți oprirea pentru a vă întinde în curtea interioară ferită de vânt.",
+                "en": "Use this stop to stretch in the wind-sheltered inner courtyard."
+              }
+            },
+            {
+              "name": "Statue of Lidador",
+              "tip_5lang": {
+                "de": "Die Mittagssonne am Platz ist ideal für eine kurze Trinkpause.",
+                "hu": "A térre tűző déli napsütés ideális egy rövid ivószünethez.",
+                "ro": "Soarele de la prânz din piață este ideal pentru o scurtă pauză de hidratare.",
+                "en": "The midday sun on the square is perfect for a short hydration break."
+              }
+            },
+            {
+              "name": "Maia Forum",
+              "tip_5lang": {
+                "de": "Im Winter sind die Cafés im Forum beliebte Treffpunkte zum Aufwärmen.",
+                "hu": "Télen a Forum kávézói népszerű találkozóhelyek a felmelegedéshez.",
+                "ro": "Iarna, cafenelele din Forum sunt locuri populare pentru a vă încălzi.",
+                "en": "In winter, the cafes inside the Forum are popular spots to warm up."
+              }
+            },
+            {
+              "name": "Lunch near the center",
+              "tip_5lang": {
+                "de": "Ein Platz am Fenster lässt Sie die Wintersonne während des Essens genießen.",
+                "hu": "Az ablak melletti asztalánál élvezheti a téli napsütést evés közben.",
+                "ro": "Un loc la fereastră vă permite să vă bucurați de soare în timp ce mâncați.",
+                "en": "A window seat lets you enjoy the winter sun while you eat lunch."
+              }
+            },
+            {
+              "name": "Church of Águas Santas",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche vor 16 Uhr, solange das Licht die Fenster durchflutet.",
+                "hu": "Látogassa meg a templomot 16 óra előtt, amíg a fény beárad az ablakokon.",
+                "ro": "Vizitați biserica înainte de ora 16, cât timp lumina pătrunde prin ferestre.",
+                "en": "Visit the church before 4 PM while the light still floods the windows."
+              }
+            },
+            {
+              "name": "Quinta da Gruta",
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihre Fahrradlichter für den Rückweg funktionieren.",
+                "hu": "Ellenőrizze, hogy a kerékpár lámpái működnek-e a hazaútra.",
+                "ro": "Asigurați-vă că luminile bicicletei funcționează pentru drumul de întoarcere.",
+                "en": "Ensure your bike lights are working for the journey back as dusk falls."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Socken und Windstopper-Handschuhe sind für Winter-Radtouren Pflicht.",
+              "Die Luftfeuchtigkeit kann die Kälte beißender machen als das Thermometer zeigt.",
+              "Das Tageslicht endet früh, planen Sie das Ende der Tour gegen 17:00 Uhr.",
+              "Maia ist hügelig; die Anstiege halten Sie warm, aber Vorsicht bei Abfahrten."
+            ],
+            "hu": [
+              "A meleg zokni és a szélálló kesztyű kötelező a téli kerékpározáshoz.",
+              "A páratartalom miatt a hideget erősebbnek érezheti, mint amit a hőmérő mutat.",
+              "Korán sötétedik, tervezze a túra végét 17:00 körülre.",
+              "Maia dombos vidék; az emelkedők felmelegítik, de lejtőn óvatosan a menetszéllel."
+            ],
+            "ro": [
+              "Șosetele groase și mănușile rezistente la vânt sunt obligatorii pentru ciclism iarna.",
+              "Umiditatea poate face frigul mai pătrunzător decât indică termometrul.",
+              "Lumina zilei se termină devreme, planificați finalul turului în jur de ora 17:00.",
+              "Maia este deluroasă; urcările vă vor încălzi, dar atenție la coborâri."
+            ],
+            "en": [
+              "Warm socks and windbreaker gloves are mandatory for winter cycling.",
+              "High humidity can make the cold feel sharper than the temperature suggests.",
+              "Daylight ends early; plan to finish your tour by 5:00 PM.",
+              "Maia is hilly; the climbs will keep you warm, but watch the wind chill on descents."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1038,6 +1420,224 @@
           "A GPS is highly recommended.",
           "Respect parking rules, especially near historic sites."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein Regentag ist ideal für den Maia Zoo, da viele Gehege Unterstände bieten. Danach fahren wir zum Avioso Park für einen kurzen Blick ins Grüne. Das Mittagessen im Zentrum ist die perfekte Pause, gefolgt von der barocken Pracht des Bom Despacho. Wir beschließen den Tag mit kurzen Stopps am Lidador, dem Maia Forum und der romanischen Kirche von Águas Santas.",
+            "hu": "Az esős nap ideális a Maia Zoo meglátogatásához, ahol sok a fedett rész. Ezután az Avioso Park felé vesszük az irányt egy rövid zöld kitérőre. A központi ebéd után a Bom Despacho barokk pompája vár ránk. A napot rövid megállókkal zárjuk a Lidador szobornál, a Maia Forumban és az Águas Santas román kori templománál.",
+            "ro": "O zi ploioasă este ideală pentru Maia Zoo, deoarece multe incinte oferă adăpost. Apoi mergem spre Parcul Avioso pentru o scurtă privire spre verdeață. Prânzul în centru este pauza perfectă, urmată de splendoarea barocă de la Bom Despacho. Încheiem ziua cu scurte opriri la Lidador, Maia Forum și biserica romanică din Águas Santas.",
+            "en": "A rainy day is perfect for Maia Zoo, as many enclosures offer shelter. Afterwards, we drive to Avioso Park for a quick glimpse of nature. Lunch in the center is the ideal break, followed by the Baroque splendor of Bom Despacho. We conclude the day with short stops at Lidador, Maia Forum, and the Romanesque Águas Santas Church."
+          },
+          "stops": [
+            {
+              "name": "Maia Zoo (Cluster A)",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Gang beim Reptilienhaus als Regenschutz.",
+                "hu": "Használja a hüllőház melletti fedett folyosót eső elleni védelemnek.",
+                "ro": "Folosiți culoarul acoperit de lângă casa reptilelor pentru protecție.",
+                "en": "Use the covered walkway near the reptile house as shelter from the rain."
+              }
+            },
+            {
+              "name": "Avioso Park (Cluster A)",
+              "tip_5lang": {
+                "de": "Es gibt Parkplätze nah am Eingang, sodass Sie schnell im Trockenen sind.",
+                "hu": "A bejárathoz közel vannak parkolók, így gyorsan fedett helyre érhet.",
+                "ro": "Există locuri de parcare aproape de intrare pentru a ajunge rapid la adăpost.",
+                "en": "There are parking spots close to the entrance for quick access to shelter."
+              }
+            },
+            {
+              "name": "Lunch (Cluster B)",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit Tiefgarage in der Nähe des Zentrums.",
+                "hu": "Válasszon olyan éttermet, amelynek van mélygarázsa a központ közelében.",
+                "ro": "Alegeți un restaurant cu parcare subterană în apropierea centrului.",
+                "en": "Choose a restaurant with an underground parking garage near the center."
+              }
+            },
+            {
+              "name": "Sanctuary of Our Lady of Bom Despacho (Cluster B)",
+              "tip_5lang": {
+                "de": "Parken Sie direkt auf dem Platz vor der Kirche für minimale Gehwege.",
+                "hu": "Parkoljon közvetlenül a templom előtti téren a rövid gyalogút érdekében.",
+                "ro": "Parcați chiar în piața din fața bisericii pentru o plimbare minimă.",
+                "en": "Park directly in the square in front of the church for a minimal walk."
+              }
+            },
+            {
+              "name": "Statue of Lidador (Cluster B)",
+              "tip_5lang": {
+                "de": "Betrachten Sie das Denkmal bequem aus dem Auto, falls es stark regnet.",
+                "hu": "Erős esőben nézze meg a szobrot kényelmesen az autóból.",
+                "ro": "Priviți monumentul confortabil din mașină dacă plouă torențial.",
+                "en": "View the monument comfortably from the car if it is raining heavily."
+              }
+            },
+            {
+              "name": "Maia Forum (Cluster B)",
+              "tip_5lang": {
+                "de": "Die Tiefgarage des Forums bietet direkten, trockenen Zugang zum Gebäude.",
+                "hu": "A Forum mélygarázsa közvetlen, száraz bejutást biztosít az épületbe.",
+                "ro": "Parcarea subterană a Forumului oferă acces direct și uscat în clădire.",
+                "en": "The Forum's underground parking offers direct, dry access to the building."
+              }
+            },
+            {
+              "name": "Church of Águas Santas (Cluster C)",
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Auto zum Portal lohnt sich für das tolle Interieur.",
+                "hu": "Egy rövid sprint az autótól a kapuig megéri a csodás belső tér miatt.",
+                "ro": "Un scurt sprint de la mașină la portal merită pentru interiorul superb.",
+                "en": "A quick dash from the car to the portal is worth it for the great interior."
+              }
+            },
+            {
+              "name": "Walk around the area (Cluster C)",
+              "tip_5lang": {
+                "de": "Verschieben Sie diesen Stopp ins Auto-Sightseeing, falls es zu nass ist.",
+                "hu": "Ha túl vizes az idő, tegyen inkább egy kört autóval a környéken.",
+                "ro": "Transformați această oprire în vizionare din mașină dacă este prea ud.",
+                "en": "Turn this stop into car-based sightseeing if it is too wet outside."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sichtverhältnisse auf den Autobahnen um Maia können bei Regen schlecht sein.",
+              "Vermeiden Sie die Rushhour am Nachmittag, da Regen den Verkehr verlangsamt.",
+              "Die meisten Sehenswürdigkeiten haben Parkplätze direkt vor der Tür.",
+              "Prüfen Sie Ihre Scheibenwischer, bevor Sie die Tour starten."
+            ],
+            "hu": [
+              "A látási viszonyok a Maia körüli autópályákon esőben rosszak lehetnek.",
+              "Kerülje a délutáni csúcsforgalmat, mert az eső lassítja a haladást.",
+              "A legtöbb látnivalónál közvetlenül a bejáratnál lehet parkolni.",
+              "Ellenőrizze az ablaktörlőket a túra megkezdése előtt."
+            ],
+            "ro": [
+              "Vizibilitatea pe autostrăzile din jurul Maiei poate fi slabă pe ploaie.",
+              "Evitați ora de vârf de după-amiază, ploaia încetinește traficul.",
+              "Majoritatea obiectivelor turistice au parcări chiar în fața intrării.",
+              "Verificați ștergătoarele înainte de a începe turul."
+            ],
+            "en": [
+              "Visibility on the highways around Maia can be poor during heavy rain.",
+              "Avoid the afternoon rush hour, as rain tends to slow down the traffic.",
+              "Most attractions have parking spaces directly in front of their entrances.",
+              "Check your windshield wipers before starting the tour."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintertour beginnt im Maia Zoo, wo die Tiere bei kühleren Temperaturen oft aktiver sind. Ein kurzer Stopp im Avioso Park führt uns weiter zum Mittagessen im Zentrum. Den Nachmittag nutzen wir für das Heiligtum Bom Despacho und das Lidador-Denkmal. Bevor die frühe Dunkelheit einsetzt, besuchen wir das Maia Forum und die Águas Santas Kirche für einen stimmungsvollen Ausklang.",
+            "hu": "A téli túra a Maia Zooban indul, ahol az állatok a hűvösebb időben gyakran aktívabbak. Egy rövid aviosói kitérő után a központban ebédelünk. A délutánt a Bom Despacho szentélyre és a Lidador szoborra szánjuk. Mielőtt korán besötétedne, ellátogatunk a Maia Forumba és az Águas Santas templomhoz.",
+            "ro": "Turul de iarnă începe la Maia Zoo, unde animalele sunt adesea mai active la temperaturi scăzute. O scurtă oprire în Parcul Avioso ne duce spre prânz în centru. După-amiaza o dedicăm Sanctuarului Bom Despacho și monumentului Lidador. Înainte de lăsarea serii, vizităm Maia Forum și biserica Águas Santas.",
+            "en": "The winter tour begins at Maia Zoo, where animals are often more active in the cooler temperatures. A quick stop at Avioso Park leads us to lunch in the center. We spend the afternoon visiting the Bom Despacho Sanctuary and the Lidador monument. Before darkness falls early, we visit Maia Forum and Águas Santas Church for an atmospheric finish."
+          },
+          "stops": [
+            {
+              "name": "Maia Zoo (Cluster A)",
+              "tip_5lang": {
+                "de": "Kommen Sie früh, um die Fütterungszeiten am Vormittag mitzuerleben.",
+                "hu": "Érkezzen korán, hogy láthassa a délelőtti etetéseket.",
+                "ro": "Veniți devreme pentru a prinde orele de hrănire de dimineață.",
+                "en": "Arrive early to catch the morning feeding times."
+              }
+            },
+            {
+              "name": "Avioso Park (Cluster A)",
+              "tip_5lang": {
+                "de": "Ein zügiger Spaziergang hier ist perfekt, um im Winter munter zu werden.",
+                "hu": "Egy tempós séta itt tökéletes módja a téli felfrissülésnek.",
+                "ro": "O plimbare rapidă aici este perfectă pentru a vă revigora iarna.",
+                "en": "A brisk walk here is the perfect way to invigorate yourself in winter."
+              }
+            },
+            {
+              "name": "Lunch (Cluster B)",
+              "tip_5lang": {
+                "de": "Suchen Sie ein Restaurant mit gemütlicher Innenbeleuchtung für die Mittagspause.",
+                "hu": "Keressen egy hangulatos belső világítású éttermet az ebédszünethez.",
+                "ro": "Căutați un restaurant cu iluminare interioară primitoare pentru prânz.",
+                "en": "Look for a restaurant with cozy interior lighting for your lunch break."
+              }
+            },
+            {
+              "name": "Sanctuary of Our Lady of Bom Despacho (Cluster B)",
+              "tip_5lang": {
+                "de": "Die warme Abendbeleuchtung der Kirche ist im Winter besonders schön.",
+                "hu": "A templom meleg esti kivilágítása télen különösen szép.",
+                "ro": "Iluminarea caldă de seară a bisericii este deosebit de frumoasă iarna.",
+                "en": "The warm evening lighting of the church is especially beautiful in winter."
+              }
+            },
+            {
+              "name": "Statue of Lidador (Cluster B)",
+              "tip_5lang": {
+                "de": "Dank Auto ist der Stopp am windigen Platz kurz und komfortabel.",
+                "hu": "Az autónak köszönhetően a szeles téren tett megálló rövid és kényelmes.",
+                "ro": "Datorită mașinii, oprirea în piața vântoasă este scurtă și confortabilă.",
+                "en": "Thanks to the car, the stop at the windy square is brief and comfortable."
+              }
+            },
+            {
+              "name": "Maia Forum (Cluster B)",
+              "tip_5lang": {
+                "de": "Abends ist das beleuchtete Forum ein tolles Fotomotiv.",
+                "hu": "Este a kivilágított Forum kiváló fotótéma.",
+                "ro": "Seara, Forumul iluminat este un subiect excelent pentru fotografii.",
+                "en": "The illuminated Forum in the evening is a great subject for photos."
+              }
+            },
+            {
+              "name": "Church of Águas Santas (Cluster C)",
+              "tip_5lang": {
+                "de": "Beachten Sie die Öffnungszeiten, da diese im Winter kürzer sein können.",
+                "hu": "Ügyeljen a nyitvatartásra, mert télen rövidebb lehet.",
+                "ro": "Fiți atenți la program, deoarece acesta poate fi mai scurt iarna.",
+                "en": "Pay attention to the opening hours, as they may be shorter in winter."
+              }
+            },
+            {
+              "name": "Walk around the area (Cluster C)",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die beleuchtete Stadt während der Rückfahrt.",
+                "hu": "Élvezze a kivilágított város látványát a visszaút során.",
+                "ro": "Bucurați-vă de vederea orașului iluminat în timpul drumului de întoarcere.",
+                "en": "Enjoy the view of the illuminated city during your drive back."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Parkplatzsuche im Zentrum ist im Winter meist einfacher.",
+              "Nutzen Sie die Sitzheizung, um sich zwischen den Besichtigungen aufzuwärmen.",
+              "Planen Sie Ihre Route so, dass Sie vor Einbruch der Dunkelheit am letzten Punkt sind.",
+              "Winterreifen sind in dieser Region Portugals normalerweise nicht nötig."
+            ],
+            "hu": [
+              "A központban télen általában könnyebb parkolóhelyet találni.",
+              "Használja az ülésfűtést a látnivalók közötti felmelegedéshez.",
+              "Úgy tervezze az útvonalat, hogy sötétedés előtt érjen az utolsó ponthoz.",
+              "Téli gumi ebben a portugál régióban általában nem szükséges."
+            ],
+            "ro": [
+              "Găsirea unui loc de parcare în centru este de obicei mai ușoară iarna.",
+              "Folosiți încălzirea în scaune pentru a vă încălzi între vizite.",
+              "Planificați ruta astfel încât să ajungeți la ultimul punct înainte de întuneric.",
+              "Anvelopele de iarnă nu sunt de obicei necesare în această regiune a Portugaliei."
+            ],
+            "en": [
+              "Finding a parking spot in the center is usually easier in winter.",
+              "Use the seat heaters to warm up quickly between sightseeing stops.",
+              "Plan your route to arrive at the last point before it gets dark.",
+              "Winter tires are normally not necessary in this region of Portugal."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1382,6 +1982,206 @@
           "Validate your ticket on every ride.",
           "Be prepared for crowded buses during peak hours."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit der Metro gelangen wir trocken zum Fórum Maia, dem kulturellen Herz der Stadt. Kurze Fußwege mit dem Schirm führen uns zu den Denkmälern der Gemeinschaft und des Lidador. Mittags bietet das Heiligtum Bom Despacho spirituelle Ruhe im Trockenen, gefolgt von einem gemütlichen Essen. Am Nachmittag erreichen wir per Bus die Águas Santas Kirche und wärmen uns bei einem Kaffee auf.",
+            "hu": "Metróval szárazon érkezünk a Fórum Maiához, a város kulturális szívéhez. Rövid ernyős séták vezetnek a közösségi emlékműhöz és a Lidador szoborig. Délben a Bom Despacho szentély nyújt spirituális és száraz menedéket, amit egy kellemes ebéd követ. Délután busszal érjük el az Águas Santas templomot, majd egy kávé mellett melegszünk fel.",
+            "ro": "Cu metroul ajungem la uscat la Fórum Maia, inima culturală a orașului. Scurte plimbări cu umbrela ne duc la monumentele comunității și Lidador. La prânz, Sanctuarul Bom Despacho oferă liniște spirituală la adăpost, urmată de o masă plăcută. După-amiaza ajungem cu autobuzul la biserica Águas Santas și ne încălzim cu o cafea.",
+            "en": "By metro, we arrive dry at Fórum Maia, the cultural heart of the city. Short walks with an umbrella lead to the community and Lidador monuments. At noon, the Bom Despacho Sanctuary offers spiritual and dry refuge, followed by a pleasant lunch. In the afternoon, we reach Águas Santas Church by bus and warm up with a coffee."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Fórum da Maia (Cluster A)",
+              "tip_5lang": {
+                "de": "Die Metrostation ist direkt unter dem Forum; idealer Start bei Regen.",
+                "hu": "A metróállomás közvetlenül a Forum alatt van; ideális kezdés esőben.",
+                "ro": "Stația de metrou este direct sub Forum; start ideal pe ploaie.",
+                "en": "The metro station is directly beneath the Forum; ideal start in the rain."
+              }
+            },
+            {
+              "name": "Monument to the Maiata Community",
+              "tip_5lang": {
+                "de": "Nur 2 Minuten Fußweg; nutzen Sie die kurzen Regenpausen.",
+                "hu": "Csak 2 perc séta; használja ki a rövid esőszüneteket.",
+                "ro": "Doar 2 minute de mers pe jos; profitați de pauzele scurte de ploaie.",
+                "en": "Only a 2-minute walk; take advantage of short breaks in the rain."
+              }
+            },
+            {
+              "name": "Statue of Lidador",
+              "tip_5lang": {
+                "de": "In der Nähe gibt es viele Cafés, falls der Regen stärker wird.",
+                "hu": "A közelben sok kávézó van, ha eleredne az eső.",
+                "ro": "Sunt multe cafenele în apropiere dacă ploaia se întețește.",
+                "en": "There are many cafes nearby if the rain becomes heavier."
+              }
+            },
+            {
+              "name": "Sanctuary of Our Lady of Bom Despacho (Cluster B)",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle liegt fast direkt vor dem Kircheneingang.",
+                "hu": "A buszmegálló szinte közvetlenül a templombejárat előtt van.",
+                "ro": "Stația de autobuz este aproape direct în fața intrării în biserică.",
+                "en": "The bus stop is located almost directly in front of the church entrance."
+              }
+            },
+            {
+              "name": "Lunch near the Sanctuary (Cluster B)",
+              "tip_5lang": {
+                "de": "Viele Restaurants in dieser Gegend sind bei Einheimischen beliebt und gemütlich.",
+                "hu": "A környékbeli éttermek népszerűek a helyiek körében és barátságosak.",
+                "ro": "Multe restaurante din zonă sunt populare printre localnici și primitoare.",
+                "en": "Many restaurants in this area are popular with locals and very cozy."
+              }
+            },
+            {
+              "name": "Church of Águas Santas (Cluster C)",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Busverbindung (STCP) für eine trockene Anreise.",
+                "hu": "Ellenőrizze a buszjáratokat (STCP) a száraz érkezés érdekében.",
+                "ro": "Verificați conexiunile de autobuz (STCP) pentru o sosire la uscat.",
+                "en": "Check the bus connections (STCP) for a dry arrival at the church."
+              }
+            },
+            {
+              "name": "Walk and coffee (Cluster C)",
+              "tip_5lang": {
+                "de": "Ein heißer Galao ist der perfekte Abschluss für einen nassen Tag.",
+                "hu": "Egy forró Galao tökéletes lezárása egy esős napnak.",
+                "ro": "Un Galao fierbinte este încheierea perfectă pentru o zi ploioasă.",
+                "en": "A hot Galao (Portuguese latte) is the perfect end to a wet day."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Andante-Karte ist sowohl für die Metro als auch für Busse gültig.",
+              "Metrostationen in Maia sind hervorragende Schutzräume vor plötzlichem Schauer.",
+              "Nutzen Sie die App 'Move-me.amp' für Echtzeit-Busabfahrten im Regen.",
+              "Die Busse sind im Winter und bei Regen oft voller als sonst."
+            ],
+            "hu": [
+              "Az Andante kártya a metróra és a buszokra is érvényes.",
+              "Maia metróállomásai kiváló menedékek hirtelen zápor esetén.",
+              "Használja a 'Move-me.amp' alkalmazást a valós idejű buszinformációkhoz.",
+              "A buszok esőben és télen gyakran zsúfoltabbak a szokásosnál."
+            ],
+            "ro": [
+              "Cardul Andante este valabil atât pentru metrou, cât și pentru autobuze.",
+              "Stațiile de metrou din Maia sunt refugii excelente în caz de averse bruște.",
+              "Folosiți aplicația 'Move-me.amp' pentru plecările autobuzelor în timp real.",
+              "Autobuzele sunt adesea mai aglomerate pe ploaie și iarna."
+            ],
+            "en": [
+              "The Andante card is valid for both the metro and local buses.",
+              "Metro stations in Maia are excellent shelters from sudden downpours.",
+              "Use the 'Move-me.amp' app for real-time bus departures during the rain.",
+              "Buses tend to be more crowded than usual during rainy or winter days."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Am Fórum Maia starten wir unsere Wintertour mit der Metro. Das klare Licht am Vormittag begleitet uns zu den Monumenten der Stadt. Mittags wärmen wir uns im Heiligtum Bom Despacho auf und genießen ein traditionelles Essen. Nachmittags fahren wir mit dem Bus zur Águas Santas Kirche und lassen den Tag bei einem wärmenden Kaffee in der Nähe gemütlich ausklingen.",
+            "hu": "A Fórum Maiánál kezdjük téli túránkat a metróval érkezve. A délelőtti tiszta fények kísérnek minket a város emlékműveihez. Délben a Bom Despacho szentélyben melegszünk fel, majd egy hagyományos ebédet fogyasztunk. Délután busszal megyünk az Águas Santas templomhoz, a napot pedig egy közeli kávézóban zárjuk.",
+            "ro": "La Fórum Maia începem turul de iarnă sosind cu metroul. Lumina clară a dimineții ne însoțește spre monumentele orașului. La prânz ne încălzim în Sanctuarul Bom Despacho și savurăm o masă tradițională. După-amiaza luăm autobuzul spre biserica Águas Santas și încheiem ziua la o cafea caldă în apropiere.",
+            "en": "We start our winter tour at Fórum Maia, arriving by metro. The clear morning light accompanies us to the city's monuments. At noon, we warm up inside the Bom Despacho Sanctuary and enjoy a traditional meal. In the afternoon, we take the bus to Águas Santas Church and wrap up the day at a nearby cafe with a warm coffee."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Fórum da Maia (Cluster A)",
+              "tip_5lang": {
+                "de": "Die Metrostation ist angenehm temperiert und bietet einen guten Startpunkt.",
+                "hu": "A metróállomás kellemes hőmérsékletű és jó kiindulópont.",
+                "ro": "Stația de metrou are o temperatură plăcută și este un bun punct de plecare.",
+                "en": "The metro station is at a pleasant temperature and is a good starting point."
+              }
+            },
+            {
+              "name": "Monument to the Maiata Community",
+              "tip_5lang": {
+                "de": "Ein kurzer Aufenthalt im Freien; die Winterluft ist hier meist sehr frisch.",
+                "hu": "Rövid kinti tartózkodás; a téli levegő itt általában nagyon friss.",
+                "ro": "O scurtă oprire afară; aerul de iarnă este de obicei foarte proaspăt aici.",
+                "en": "A brief stop outdoors; the winter air here is usually very fresh."
+              }
+            },
+            {
+              "name": "Statue of Lidador",
+              "tip_5lang": {
+                "de": "Genießen Sie die Wintersonne auf dem offenen Platz vor dem Weiterweg.",
+                "hu": "Élvezze a téli napsütést a nyitott téren a továbbindulás előtt.",
+                "ro": "Bucurați-vă de soarele de iarnă în piața deschisă înainte de a pleca mai departe.",
+                "en": "Enjoy the winter sun in the open square before moving on."
+              }
+            },
+            {
+              "name": "Sanctuary of Our Lady of Bom Despacho (Cluster B)",
+              "tip_5lang": {
+                "de": "Ein wunderbarer Ort für eine stille, wärmende Pause am Mittag.",
+                "hu": "Csodálatos hely egy csendes, melengető déli pihenőhöz.",
+                "ro": "Un loc minunat pentru o pauză de prânz liniștită și caldă.",
+                "en": "A wonderful place for a quiet, warming break at midday."
+              }
+            },
+            {
+              "name": "Lunch near the Sanctuary (Cluster B)",
+              "tip_5lang": {
+                "de": "Probieren Sie die lokale Suppe 'Caldo Verde', um sich aufzuwärmen.",
+                "hu": "Kóstolja meg a helyi 'Caldo Verde' levest, hogy felmelegedjen.",
+                "ro": "Încercați supa locală 'Caldo Verde' pentru a vă încălzi.",
+                "en": "Try the local 'Caldo Verde' soup to warm up during lunch."
+              }
+            },
+            {
+              "name": "Church of Águas Santas (Cluster C)",
+              "tip_5lang": {
+                "de": "Der Bus bietet eine gemütliche Fahrt durch die winterliche Stadtlandschaft.",
+                "hu": "A busz kényelmes utazást kínál a téli városi tájon keresztül.",
+                "ro": "Autobuzul oferă o călătorie plăcută prin peisajul urban de iarnă.",
+                "en": "The bus offers a comfortable ride through the winter urban landscape."
+              }
+            },
+            {
+              "name": "Walk and coffee (Cluster C)",
+              "tip_5lang": {
+                "de": "Die Cafés in dieser Gegend sind im Winter gemütliche Rückzugsorte.",
+                "hu": "A környékbeli kávézók télen barátságos menedékhelyek.",
+                "ro": "Cafenelele din această zonă sunt refugii primitoare iarna.",
+                "en": "The cafes in this area are cozy retreats during the winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie einen Schal, da der Wind in den Metroschächten ziehen kann.",
+              "Die Taktzeiten der Busse können im Winter leicht variieren.",
+              "Nach 17:00 Uhr wird es merklich kühler, planen Sie den Rückweg rechtzeitig.",
+              "Die Metrostationen sind abends gut beleuchtet und sicher."
+            ],
+            "hu": [
+              "Viseljen sálat, mert a metróalagutakban huzat lehet.",
+              "A buszok menetrendje télen kismértékben változhat.",
+              "17:00 után érezhetően hűvösebb lesz, tervezze meg időben a visszautat.",
+              "A metróállomások este jól megvilágítottak és biztonságosak."
+            ],
+            "ro": [
+              "Purtați un fular, deoarece poate fi curent în tunelurile de metrou.",
+              "Intervalele de circulație ale autobuzelor pot varia ușor iarna.",
+              "După ora 17:00 se face considerabil mai răcoare, planificați întoarcerea la timp.",
+              "Stațiile de metrou sunt bine iluminate și sigure seara."
+            ],
+            "en": [
+              "Wear a scarf as it can be draughty in the metro tunnels.",
+              "Bus frequencies may vary slightly during the winter season.",
+              "It gets noticeably cooler after 5:00 PM; plan your return journey in time.",
+              "The metro stations are well-lit and safe during the evening hours."
+            ]
+          }
+        }
       }
     }
   }

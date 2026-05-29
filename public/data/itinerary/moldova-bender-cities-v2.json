@@ -304,6 +304,188 @@
           "Most of the main sights are located close to each other.",
           "Some places may only accept cash."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet die Kathedrale Schutz vor dem Regen. Den Vormittag verbringen Sie im Heimatmuseum, während es draußen stürmt. Mittags erkunden Sie die Festung Bender, deren alte Mauern bei Regen besonders mystisch wirken. Der Tag endet mit einem kurzen, erfrischenden Spaziergang an der Dnjestr-Promenade, bevor Sie sich in ein gemütliches Café zurückziehen.",
+            "hu": "Reggel a székesegyház belső tere nyújt menedéket a zápor elől. A délelőttöt a helytörténeti múzeum falai között, szárazon töltheted. Délután a vár monumentális bástyái között sétálunk, melyek az esőben még komorabbnak és történelmibbnek tűnnek. Az estét a Dnyeszter-parti sétányon zárjuk, ahol a lámpák fénye megcsillan a vizes kövezeten.",
+            "ro": "Dimineața, catedrala oferă un refugiu liniștit împotriva ploii. Petreceți amiaza în siguranță în muzeul de istorie locală. După-amiaza, cetatea Bender capătă o aură mistică sub cerul plumburiu. Încheiați ziua cu o plimbare rapidă pe faleza Nistrului, admirând reflexiile luminilor stradale în bălțile de pe asfalt.",
+            "en": "In the morning, the cathedral provides a peaceful refuge from the rain. Spend your midday indoors at the local history museum. By afternoon, explore Bender Fortress, which feels particularly atmospheric under gray skies. End the day with a brisk walk along the Dniester promenade, watching the city lights reflect in the wet pavement."
+          },
+          "stops": [
+            {
+              "name": "Transfiguration Cathedral",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um den ersten Regenschauer trocken abzuwarten.",
+                "hu": "Tökéletes hely az első reggeli zápor kivárására.",
+                "ro": "Locul ideal pentru a aștepta trecerea primei averse de dimineață.",
+                "en": "A perfect spot to wait out the first morning shower indoors."
+              }
+            },
+            {
+              "name": "Bender Museum of Local History",
+              "tip_5lang": {
+                "de": "Ausgiebiger Museumsbesuch ist die beste Strategie bei Dauerregen.",
+                "hu": "A tartós eső elleni legjobb stratégia egy alapos múzeumlátogatás.",
+                "ro": "Cea mai bună strategie împotriva ploii este o vizită prelungită la muzeu.",
+                "en": "The best strategy against steady rain is a thorough museum visit."
+              }
+            },
+            {
+              "name": "Bender Fortress",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Innenräume der Ausstellungen bei starken Güssen.",
+                "hu": "Használja ki a belső kiállítótereket, ha elered az eső.",
+                "ro": "Folosiți spațiile interioare ale expozițiilor în caz de ploaie torențială.",
+                "en": "Take advantage of the indoor exhibition spaces during heavy downpours."
+              }
+            },
+            {
+              "name": "Alexander Nevsky Cathedral",
+              "tip_5lang": {
+                "de": "Kurzer, trockener Aufenthalt unter der prächtigen Kuppel.",
+                "hu": "Rövid, száraz pihenő a pompás kupola alatt.",
+                "ro": "Un scurt popas uscat sub cupola splendidă a catedralei.",
+                "en": "A short, dry break under the magnificent dome."
+              }
+            },
+            {
+              "name": "Military Glory Memorial",
+              "tip_5lang": {
+                "de": "Vorsicht, die Steinflächen können bei Nässe rutschig sein.",
+                "hu": "Vigyázat, a kőfelületek vizesen csúszósak lehetnek.",
+                "ro": "Atenție, suprafețele de piatră pot fi alunecoase când sunt ude.",
+                "en": "Be careful, the stone surfaces can be slippery when wet."
+              }
+            },
+            {
+              "name": "Dniester Promenade",
+              "tip_5lang": {
+                "de": "Ein Regenschirm ist wegen des Windes vom Fluss her unerlässlich.",
+                "hu": "A folyó felőli szél miatt egy stabil esernyő elengedhetetlen.",
+                "ro": "O umbrelă rezistentă este esențială din cauza vântului de pe râu.",
+                "en": "A sturdy umbrella is essential due to the wind blowing from the river."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Wege in der Festung können schlammig werden, festes Schuhwerk ist ratsam.",
+              "Nutzen Sie die Museen als längere Pausenstationen im Trockenen.",
+              "In der Nähe der Kathedrale gibt es kleine Cafés zum Aufwärmen.",
+              "Vermeiden Sie bei starkem Wind die ganz offenen Flächen am Flussufer."
+            ],
+            "hu": [
+              "A vár területén az utak sarasak lehetnek, viselj zárt cipőt.",
+              "Használd a múzeumokat hosszabb pihenőhelyként, amíg esik.",
+              "A székesegyház környékén több kis kávézó vár, ahol megszárítkozhatsz.",
+              "Erős szél esetén kerüld a teljesen nyitott szakaszokat a Dnyeszter partján."
+            ],
+            "ro": [
+              "Căile din cetate pot deveni noroioase, se recomandă încălțăminte robustă.",
+              "Folosiți muzeele ca puncte de oprire prelungite pentru a rămâne uscați.",
+              "Lângă catedrală există cafenele mici unde vă puteți încălzi.",
+              "Evitați zonele complet deschise de pe malul râului în caz de vânt puternic."
+            ],
+            "en": [
+              "Paths in the fortress can get muddy; sturdy footwear is recommended.",
+              "Use the museums as extended break points to stay dry.",
+              "There are several small cafes near the cathedral to warm up in.",
+              "Avoid the most exposed areas by the river if the wind is strong."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen beginnt an der Kathedrale, wo die Kälte die Luft klärt. Die Mittagsstunden im Museum bieten wohlige Wärme und tiefe Einblicke in die Geschichte. Nachmittags glänzt die Festung im fahlen Winterlicht, ein majestätischer Anblick über dem eisigen Dnjestr. Da die Sonne früh untergeht, genießen wir die blaue Stunde an der Promenade und beschließen den Tag.",
+            "hu": "A fagyos reggel a székesegyháznál indul, ahol a hideg tiszta levegőt hoz. A déli órákat a múzeum melegében töltjük, elmélyedve a város múltjában. Délután a vár falai különlegesen fénylenek a téli napsütésben a jeges Dnyeszter felett. Mivel korán sötétedik, a sétányon már a városi fények kísérnek minket a nap végén.",
+            "ro": "O dimineață geroasă începe la catedrală, unde aerul rece este extrem de curat. Orele amiezii la muzeu oferă căldură și o incursiune în istoria locală. După-amiaza, cetatea strălucește în lumina palidă a iernii deasupra Nistrului înghețat. Deoarece soarele apune devreme, ne bucurăm de ora albastră pe faleză înainte de finalul zilei.",
+            "en": "A frosty morning begins at the cathedral, where the crisp air clears the mind. Spend the midday hours in the warmth of the museum, diving into local history. In the afternoon, the fortress gleams in the pale winter light above the icy Dniester. With the early sunset, enjoy the blue hour on the promenade as we conclude the tour."
+          },
+          "stops": [
+            {
+              "name": "Transfiguration Cathedral",
+              "tip_5lang": {
+                "de": "Die dicken Mauern speichern die Wärme der Kerzen sehr gut.",
+                "hu": "A vastag falak jól tartják a gyertyák melegét odabent.",
+                "ro": "Zidurile groase rețin foarte bine căldura lumânărilor în interior.",
+                "en": "The thick walls retain the warmth of the candles very well inside."
+              }
+            },
+            {
+              "name": "Bender Museum of Local History",
+              "tip_5lang": {
+                "de": "Ideale Aufwärmpause zwischen den Fußwegen durch die Stadt.",
+                "hu": "Ideális melegedőhely a városi séta két állomása között.",
+                "ro": "Loc perfect pentru a vă încălzi între etapele de mers pe jos.",
+                "en": "Ideal warming station between the walking segments of the city tour."
+              }
+            },
+            {
+              "name": "Bender Fortress",
+              "tip_5lang": {
+                "de": "Tragen Sie Schichten, der Wind auf den Wällen ist im Winter beißend.",
+                "hu": "Öltözz rétegesen, a bástyákon télen metsző lehet a szél.",
+                "ro": "Îmbrăcați-vă în straturi, vântul pe metereze este tăios iarna.",
+                "en": "Dress in layers; the wind on the ramparts is biting in winter."
+              }
+            },
+            {
+              "name": "Alexander Nevsky Cathedral",
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille und die Wärme vor dem nächsten Außenstopp.",
+                "hu": "Élvezd a csendet és a meleget a következő szabadtéri megálló előtt.",
+                "ro": "Bucurați-vă de liniște și căldură înainte de următoarea etapă afară.",
+                "en": "Enjoy the silence and warmth before the next outdoor stop."
+              }
+            },
+            {
+              "name": "Military Glory Memorial",
+              "tip_5lang": {
+                "de": "Kurzer Aufenthalt, um die schneebedeckten Denkmäler zu bewundern.",
+                "hu": "Rövid megálló a hófödte emlékművek megcsodálására.",
+                "ro": "Popas scurt pentru a admira monumentele acoperite de zăpadă.",
+                "en": "A brief stop to admire the snow-covered monuments."
+              }
+            },
+            {
+              "name": "Dniester Promenade",
+              "tip_5lang": {
+                "de": "Warme Handschuhe sind für den Weg am Flussufer jetzt ein Muss.",
+                "hu": "A folyóparti sétához a meleg kesztyű most kötelező.",
+                "ro": "Mănușile groase sunt obligatorii acum pentru plimbarea pe mal.",
+                "en": "Warm gloves are now a must for the walk along the riverbank."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Im Winter wird es gegen 16:30 Uhr dunkel, planen Sie die Festung früher ein.",
+              "Achten Sie auf vereiste Stellen auf dem Kopfsteinpflaster.",
+              "Ein Thermosbecher mit heißem Tee ist ein idealer Begleiter.",
+              "Die Museen schließen im Winter oft eine Stunde früher."
+            ],
+            "hu": [
+              "Télen 16:30 körül sötétedik, a várat tervezd a kora délutánra.",
+              "Figyelj a jeges foltokra a macskaköves utakon.",
+              "Egy termosz forró tea ideális kísérő a városi sétához.",
+              "A múzeumok télen gyakran egy órával korábban zárnak."
+            ],
+            "ro": [
+              "Iarna se întunecă în jur de 16:30, planificați vizita la cetate mai devreme.",
+              "Atenție la porțiunile înghețate de pe străzile pietruite.",
+              "Un termos cu ceai fierbinte este partenerul ideal de drum.",
+              "Muzeele se închid adesea cu o oră mai devreme în timpul iernii."
+            ],
+            "en": [
+              "It gets dark around 4:30 PM in winter; visit the fortress earlier.",
+              "Watch out for icy patches on the cobblestone streets.",
+              "A thermos of hot tea is an ideal companion for the walk.",
+              "Museums often close an hour earlier during the winter season."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -625,6 +807,206 @@
           "Always lock your bike securely.",
           "Plan your route in advance."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen ist Bender mit dem Rad gut befahrbar. Wir starten am Bahnhof und nutzen die Kathedrale als ersten trockenen Stopp. Der Weg zur Festung führt über asphaltierte Straßen, um Schlamm zu vermeiden. Mittags bietet die Festung genügend Unterstand. Den Abschluss bildet die Promenade, wo wir bei einer kurzen Regenpause die frische Flussluft genießen.",
+            "hu": "Az eső ellenére Bender kerékpárral is felfedezhető. Az állomásról indulunk, a székesegyházat használva első száraz pihenőként. A vár felé az aszfaltozott utakat választjuk, hogy elkerüljük a sarat. Délben a vár bástyái alatt találunk menedéket. A napot a sétányon zárjuk, kihasználva a friss, eső utáni folyóparti levegőt.",
+            "ro": "În ciuda ploii, Bender poate fi explorat cu bicicleta. Pornim de la gară și folosim catedrala ca prim popas uscat. Alegem drumurile asfaltate spre cetate pentru a evita noroiul. La prânz, cetatea oferă adăpost suficient. Încheiem ziua pe faleză, profitând de aerul proaspăt de lângă râu după ploaie.",
+            "en": "Despite the rain, Bender is cycle-friendly if you stick to the main paths. Start at the station and use the cathedral as your first dry refuge. We'll take paved routes to the fortress to avoid mud. At noon, the fortress walls provide ample shelter. Finish at the promenade, enjoying the fresh river air during a break in the rain."
+          },
+          "stops": [
+            {
+              "name": "Bender Train Station",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad unter dem Vordach ab, um trocken zu bleiben.",
+                "hu": "Támaszd a biciklit az előtető alá, hogy száraz maradjon.",
+                "ro": "Parcați bicicleta sub copertină pentru a o menține uscată.",
+                "en": "Park your bike under the canopy to keep it dry."
+              }
+            },
+            {
+              "name": "Transfiguration Cathedral",
+              "tip_5lang": {
+                "de": "Gute Gelegenheit, die Regenjacke kurz auszuschütteln.",
+                "hu": "Jó alkalom a széldzseki lerázására és egy rövid pihenőre.",
+                "ro": "O ocazie bună de a scutura pelerina de ploaie și de a vă odihni.",
+                "en": "A good opportunity to shake off your raincoat and rest briefly."
+              }
+            },
+            {
+              "name": "Bender Museum of Local History",
+              "tip_5lang": {
+                "de": "Fahrradständer sind vorhanden, oft unüberdacht.",
+                "hu": "Vannak kerékpártárolók, de gyakran nem fedettek.",
+                "ro": "Există rastele pentru biciclete, adesea neacoperite.",
+                "en": "Bike racks are available, but often not under cover."
+              }
+            },
+            {
+              "name": "Bender Fortress",
+              "tip_5lang": {
+                "de": "Vermeiden Sie die unbefestigten Wege innerhalb der Anlage.",
+                "hu": "Kerüld a burkolatlan utakat a vár területén belül.",
+                "ro": "Evitați drumurile neasfaltate din interiorul complexului.",
+                "en": "Avoid unpaved paths within the fortress grounds."
+              }
+            },
+            {
+              "name": "Alexander Nevsky Cathedral",
+              "tip_5lang": {
+                "de": "Ruhiger Ort zum Aufwärmen nach der Fahrt im Wind.",
+                "hu": "Csendes hely a felmelegedésre a szeles tekerés után.",
+                "ro": "Un loc liniștit pentru încălzire după pedalatul prin vânt.",
+                "en": "A quiet place to warm up after riding in the wind."
+              }
+            },
+            {
+              "name": "Military Glory Memorial",
+              "tip_5lang": {
+                "de": "Vorsicht beim Bremsen auf den nassen Pflastersteinen.",
+                "hu": "Óvatosan fékezz a nedves díszburkolaton.",
+                "ro": "Frânați cu grijă pe pavajul umed.",
+                "en": "Brake carefully on the wet decorative paving."
+              }
+            },
+            {
+              "name": "Dniester Promenade",
+              "tip_5lang": {
+                "de": "Pfützen können tief sein, fahren Sie vorausschauend.",
+                "hu": "A tócsák mélyek lehetnek, tekints előre az úton.",
+                "ro": "Bălțile pot fi adânci, pedalați cu atenție sporită.",
+                "en": "Puddles can be surprisingly deep; ride with anticipation."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche am Fahrrad sind bei diesem Wetter unverzichtbar.",
+              "Tragen Sie eine wasserdichte Hose über Ihrer normalen Kleidung.",
+              "Die Marktplätze bieten oft überdachte Stände für eine kurze Pause.",
+              "Reinigen Sie Ihre Kette nach der Tour vom Straßenschmutz."
+            ],
+            "hu": [
+              "A sárvédő ilyen időben elengedhetetlen a kerékpáron.",
+              "Viselj vízhatlan nadrágot a normál ruházatod felett.",
+              "A piacok környékén gyakran találsz fedett részeket pihenőhöz.",
+              "A túra után tisztítsd meg a láncot az utcai sártól."
+            ],
+            "ro": [
+              "Aripile la bicicletă sunt indispensabile pe o astfel de vreme.",
+              "Purtați pantaloni impermeabili peste hainele obișnuite.",
+              "Zonele de piață oferă adesea standuri acoperite pentru o pauză scurtă.",
+              "Curățați lanțul bicicletei de noroi după finalizarea traseului."
+            ],
+            "en": [
+              "Mudguards are essential on your bike in this weather.",
+              "Wear waterproof trousers over your regular clothes.",
+              "Market areas often have covered stalls for a quick break.",
+              "Clean your chain from road grit after the tour."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Radtour durch Bender erfordert warme Kleidung, belohnt aber mit einsamen Wegen. Vom Bahnhof geht es durch die klare Luft zur Kathedrale. Die Fahrt zur Festung ist kurz, aber windig. Mittags wärmen wir uns im Museum auf. Nachmittags erkunden wir die geschichtsträchtigen Orte, bevor die Kälte am Flussufer uns zur Eile mahnt, den Tag gemütlich zu beenden.",
+            "hu": "A téli biciklis túra Benderben meleg ruhát igényel, de csendes utakkal ajándékoz meg. Az állomástól a friss levegőn tekerünk a székesegyházig. A vár felé vezető út rövid, de szeles. Délben a múzeumban melegszünk fel. Délután a történelmi emlékhelyeket látogatjuk meg, mielőtt a folyóparti hideg visszaterelne minket a belvárosba.",
+            "ro": "O tură de iarnă cu bicicleta prin Bender necesită haine groase, dar oferă drumuri libere. De la gară pedalăm prin aerul rece spre catedrală. Drumul spre cetate este scurt, dar vântos. La prânz ne încălzim în muzeu. După-amiaza explorăm locurile istorice înainte ca frigul de pe malul râului să ne grăbească spre finalul zilei.",
+            "en": "A winter bike tour through Bender calls for warm gear but rewards you with quiet paths. Ride from the station through the crisp air to the cathedral. The trip to the fortress is short but breezy. Warm up at the museum during midday. In the afternoon, explore the historical sites before the riverside chill nudges us toward a cozy finish."
+          },
+          "stops": [
+            {
+              "name": "Bender Train Station",
+              "tip_5lang": {
+                "de": "Kurzer Stopp, halten Sie die Muskeln in Bewegung.",
+                "hu": "Rövid megálló, tartsd mozgásban az izmaidat a hidegben.",
+                "ro": "Oprire scurtă, mențineți mușchii în mișcare pe frig.",
+                "en": "Short stop; keep your muscles moving in the cold."
+              }
+            },
+            {
+              "name": "Transfiguration Cathedral",
+              "tip_5lang": {
+                "de": "Perfekt, um die gefrorenen Finger kurz aufzuwärmen.",
+                "hu": "Tökéletes hely az elgémberedett ujjak felmelegítésére.",
+                "ro": "Locul ideal pentru a vă încălzi rapid degetele înghețate.",
+                "en": "Perfect for warming up frozen fingers for a few minutes."
+              }
+            },
+            {
+              "name": "Bender Museum of Local History",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe, um schwere Jacken kurz abzulegen.",
+                "hu": "Használd a ruhatárat a nehéz kabátok letevéséhez.",
+                "ro": "Folosiți garderoba pentru a lăsa hainele grele în timpul vizitei.",
+                "en": "Use the cloakroom to shed heavy layers during your visit."
+              }
+            },
+            {
+              "name": "Bender Fortress",
+              "tip_5lang": {
+                "de": "Vorsicht vor vereisten Rampen beim Schieben des Rades.",
+                "hu": "Vigyázz a jeges rámpákon, ha tolod a biciklit.",
+                "ro": "Atenție la rampele înghețate când împingeți bicicleta.",
+                "en": "Beware of icy ramps when pushing your bike."
+              }
+            },
+            {
+              "name": "Alexander Nevsky Cathedral",
+              "tip_5lang": {
+                "de": "Ein Ort der Ruhe und moderaten Wärme.",
+                "hu": "A nyugalom és a kellemes meleg szigete.",
+                "ro": "O insulă de liniște și căldură moderată.",
+                "en": "An island of peace and moderate warmth."
+              }
+            },
+            {
+              "name": "Military Glory Memorial",
+              "tip_5lang": {
+                "de": "Der Wind pfeift hier im Winter besonders stark.",
+                "hu": "Itt télen különösen erősen fütyül a szél.",
+                "ro": "Vântul suflă deosebit de tare aici în timpul iernii.",
+                "en": "The wind whistles particularly loudly here in winter."
+              }
+            },
+            {
+              "name": "Dniester Promenade",
+              "tip_5lang": {
+                "de": "Fahren Sie langsam, da Raureif den Boden glatt macht.",
+                "hu": "Tekerj lassan, mert a dér csúszóssá teheti az utat.",
+                "ro": "Pedalați încet, deoarece bruma face drumul alunecos.",
+                "en": "Ride slowly, as hoarfrost can make the path slippery."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Reifendruck, er sinkt bei Kälte oft ab.",
+              "Vermeiden Sie hektische Lenkbewegungen bei Glättegefahr.",
+              "Thermo-Handschuhe sind bei Minusgraden unverzichtbar.",
+              "Ein heißes Getränk am Ende der Tour ist die beste Belohnung."
+            ],
+            "hu": [
+              "Ellenőrizd a guminyomást, hidegben gyakran csökken.",
+              "Kerüld a hirtelen kormánymozdulatokat csúszásveszély esetén.",
+              "A thermo-kesztyű mínuszok alatt elengedhetetlen.",
+              "Egy forró ital a túra végén a legjobb jutalom."
+            ],
+            "ro": [
+              "Verificați presiunea în pneuri, scade adesea la frig.",
+              "Evitați manevrele bruște de direcție dacă există risc de polei.",
+              "Mănușile termice sunt indispensabile la temperaturi negative.",
+              "O băutură fierbinte la finalul turei este cea mai bună recompensă."
+            ],
+            "en": [
+              "Check your tire pressure; it often drops in the cold.",
+              "Avoid sudden steering movements if there's a risk of ice.",
+              "Thermal gloves are indispensable in sub-zero temperatures.",
+              "A hot drink at the end of the tour is the best reward."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -929,6 +1311,188 @@
           "Be aware of local traffic regulations.",
           "Have change ready for parking meters."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Im Auto bleibt Bender auch bei starkem Regen komfortabel. Wir parken direkt an der Festung und genießen die Aussicht auf die geschichtsträchtigen Mauern. Später fahren wir ins Stadtzentrum, wo die Kathedrale nur wenige Schritte vom Parkplatz entfernt liegt. Den Tag lassen wir an der Promenade ausklingen, wo wir im Schutz des Autos den Blick auf den grauen Dnjestr genießen.",
+            "hu": "Autóval Bender még szakadó esőben is kényelmes. Közvetlenül a várnál parkolunk, élvezve a kilátást a történelmi falakra. Később a városközpontba hajtunk, ahol a székesegyház csak pár lépésre van a parkolótól. A napot a sétányon zárjuk, ahol az autó védelméből csodálhatjuk a szürke Dnyesztert.",
+            "ro": "Cu mașina, Bender rămâne confortabil chiar și pe ploaie torențială. Parcăm direct la cetate și admirăm zidurile istorice. Mai târziu, mergem în centrul orașului, unde catedrala este la doar câțiva pași de parcare. Încheiem ziua pe faleză, bucurându-ne de vederea spre Nistrul gri din confortul mașinii.",
+            "en": "By car, Bender remains comfortable even in heavy rain. Park directly at the fortress to enjoy views of the historic walls. Later, head to the city center where the cathedral is just a few steps from the parking lot. End your day at the promenade, taking in the view of the gray Dniester from the shelter of your vehicle."
+          },
+          "stops": [
+            {
+              "name": "Bender Fortress Parking",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um Gehwege im Regen zu minimieren.",
+                "hu": "Parkolj közel a bejárathoz, hogy keveset kelljen az esőben gyalogolni.",
+                "ro": "Parcați aproape de intrare pentru a minimiza mersul prin ploaie.",
+                "en": "Park close to the entrance to minimize walking in the rain."
+              }
+            },
+            {
+              "name": "Military Glory Memorial",
+              "tip_5lang": {
+                "de": "Gute Sichtbarkeit der Denkmäler auch direkt vom Parkplatz aus.",
+                "hu": "Az emlékművek a parkoló közvetlen közeléből is jól látszanak.",
+                "ro": "Monumentele sunt bine vizibile chiar și din zona de parcare.",
+                "en": "Monuments are clearly visible even from the immediate parking area."
+              }
+            },
+            {
+              "name": "Bender Fortress",
+              "tip_5lang": {
+                "de": "Nutzen Sie den befestigten Weg vom Parkplatz zum Tor.",
+                "hu": "Használd a kövezett utat a parkolótól a kapuig.",
+                "ro": "Folosiți aleea pavată de la parcare până la poartă.",
+                "en": "Use the paved path leading from the parking lot to the gate."
+              }
+            },
+            {
+              "name": "City Center Parking",
+              "tip_5lang": {
+                "de": "Zentraler Standort, ideal um Besorgungen im Trockenen zu machen.",
+                "hu": "Központi helyszín, ideális a szárazon intézhető ügyekhez.",
+                "ro": "Locație centrală, ideală pentru a rezolva treburi la adăpost.",
+                "en": "Central location, ideal for getting things done while staying dry."
+              }
+            },
+            {
+              "name": "Transfiguration Cathedral",
+              "tip_5lang": {
+                "de": "Kurzer Sprint vom Auto zum Eingang ist meist regenfrei machbar.",
+                "hu": "Egy rövid sprint az autótól a bejáratig, és már bent is vagy.",
+                "ro": "Un sprint scurt de la mașină la intrare vă scapă de ploaie.",
+                "en": "A quick dash from the car to the entrance keeps you mostly dry."
+              }
+            },
+            {
+              "name": "Dniester Promenade",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den Fluss aus dem Fenster bei Starkregen.",
+                "hu": "Erős esőben élvezd a folyóra nyíló kilátást az ablakból.",
+                "ro": "Admirați vederea spre râu de la geam în caz de ploaie puternică.",
+                "en": "Enjoy the river view from your window during heavy downpours."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf tiefere Pfützen auf den unebenen Nebenstraßen.",
+              "Prüfen Sie die Wischerblätter vor der Fahrt durch Transnistrien.",
+              "Parkplätze im Zentrum sind bei Regen oft schnell belegt.",
+              "Halten Sie die Fenster leicht offen, um Beschlagen zu vermeiden."
+            ],
+            "hu": [
+              "Figyelj a mélyebb tócsákra az egyenetlen mellékutakon.",
+              "Indulás előtt ellenőrizd az ablaktörlőket.",
+              "A központi parkolók esőben hamar megtelnek.",
+              "Hagyd résnyire nyitva az ablakot, hogy ne párásodjon le."
+            ],
+            "ro": [
+              "Atenție la bălțile adânci de pe străzile secundare denivelate.",
+              "Verificați ștergătoarele înainte de a porni prin Transnistria.",
+              "Parcările din centru se ocupă rapid când plouă.",
+              "Lăsați geamurile ușor deschise pentru a preveni aburirea."
+            ],
+            "en": [
+              "Watch out for deep puddles on uneven side streets.",
+              "Check your wiper blades before driving through Transnistria.",
+              "Central parking spots often fill up quickly during rain.",
+              "Keep the windows slightly cracked to prevent fogging."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winter in Bender lässt sich am besten im beheizten Auto erleben. Wir starten bei der Festung, die majestätisch aus dem Frost emporragt. Im Stadtzentrum parken wir nah an der Kathedrale, um die Kältephasen kurz zu halten. Nach einem Besuch im warmen Museum fahren wir zur Promenade, um den winterlichen Dniester im goldenen Licht der frühen Dämmerung zu sehen.",
+            "hu": "A benderi telet a legjobb fűtött autóból átélni. A várnál kezdünk, amely fenségesen emelkedik ki a fagyos tájból. A városközpontban a székesegyház közelében parkolunk, hogy minimalizáljuk a hidegben töltött időt. A meleg múzeum után a sétányhoz hajtunk, hogy a korai alkonyat aranyfényeiben lássuk a téli Dnyesztert.",
+            "ro": "Iarna în Bender este cel mai bine experimentată dintr-o mașină încălzită. Începem la cetate, care se înalță maiestuos din îngheț. În centrul orașului parcăm aproape de catedrală pentru a scurta perioadele de frig. După un muzeu călduros, mergem pe faleză pentru a vedea Nistrul în lumina aurie a amurgului timpuriu.",
+            "en": "The best way to experience winter in Bender is from a heated car. Start at the fortress, which rises majestically from the frost. In the city center, park near the cathedral to keep your time in the cold to a minimum. After a warm museum visit, drive to the promenade to see the winter Dniester in the golden light of early dusk."
+          },
+          "stops": [
+            {
+              "name": "Bender Fortress Parking",
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor nicht unnötig im Stand laufen.",
+                "hu": "Ne járasd feleslegesen a motort álló helyzetben.",
+                "ro": "Nu lăsați motorul să meargă inutil la ralanti.",
+                "en": "Avoid letting the engine idle unnecessarily while parked."
+              }
+            },
+            {
+              "name": "Military Glory Memorial",
+              "tip_5lang": {
+                "de": "Das Denkmal ist im Schnee besonders fotogen.",
+                "hu": "Az emlékmű a hóban különösen fotogén látványt nyújt.",
+                "ro": "Monumentul este deosebit de fotogenic în zăpadă.",
+                "en": "The memorial is particularly photogenic in the snow."
+              }
+            },
+            {
+              "name": "Bender Fortress",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glätte auf der Zufahrtsstraße zur Festung.",
+                "hu": "Figyelj a jegesedésre a várba vezető úton.",
+                "ro": "Atenție la polei pe drumul de acces către cetate.",
+                "en": "Watch out for icy patches on the access road to the fortress."
+              }
+            },
+            {
+              "name": "City Center Parking",
+              "tip_5lang": {
+                "de": "Schneehaufen können Parklücken im Winter verengen.",
+                "hu": "A hókupacok télen leszűkíthetik a parkolóhelyeket.",
+                "ro": "Grămezile de zăpadă pot îngusta locurile de parcare iarna.",
+                "en": "Snow piles can narrow the available parking spots in winter."
+              }
+            },
+            {
+              "name": "Transfiguration Cathedral",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Parkplatz, ideal bei Minusgraden.",
+                "hu": "Rövid séta a parkolótól, ideális mínuszok idején.",
+                "ro": "Mers scurt pe jos de la parcare, ideal la temperaturi negative.",
+                "en": "A very short walk from the parking lot, ideal in sub-zero weather."
+              }
+            },
+            {
+              "name": "Dniester Promenade",
+              "tip_5lang": {
+                "de": "Die Parkplätze am Fluss sind im Winter oft leer und ruhig.",
+                "hu": "A folyóparti parkolók télen gyakran üresek és csendesek.",
+                "ro": "Parcările de lângă râu sunt adesea libere și liniștite iarna.",
+                "en": "Riverside parking spots are often empty and quiet in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Sie ausreichend Frostschutzmittel haben.",
+              "Ein Eiskratzer ist am frühen Morgen in Bender unverzichtbar.",
+              "Nutzen Sie die Sitzheizung für die kurzen Fahrten zwischen den Stopps.",
+              "Die Straßenbeleuchtung im Zentrum ist im Winter sehr stimmungsvoll."
+            ],
+            "hu": [
+              "Győződj meg róla, hogy van elég fagyálló a hűtőben.",
+              "A jégkaparó kora reggel Benderben elengedhetetlen.",
+              "Használd az ülésfűtést a megállók közötti rövid utakon.",
+              "A belvárosi közvilágítás télen nagyon hangulatos."
+            ],
+            "ro": [
+              "Asigurați-vă că aveți suficient lichid de parbriz antigel.",
+              "Răzuitoarea de gheață este indispensabilă dimineața în Bender.",
+              "Folosiți încălzirea în scaune pentru drumurile scurte între opriri.",
+              "Iluminatul stradal din centru este foarte sugestiv iarna."
+            ],
+            "en": [
+              "Make sure you have enough antifreeze in your vehicle.",
+              "An ice scraper is essential for early mornings in Bender.",
+              "Use seat heaters for the short drives between stops.",
+              "The central street lighting is very atmospheric in winter."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1233,6 +1797,188 @@
           "Schedules can be irregular, so plan for buffer time.",
           "Ask locals for the right stop if you're unsure."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Trolleybus durch das verregnete Bender ist ein authentisches Erlebnis. Wir nutzen die überdachten Haltestellen, um zur Kathedrale und zum Museum zu gelangen. Mittags bringt uns die Linie direkt zur Festung. Den nassen Nachmittag verbringen wir stilvoll im Gorki-Kino, wo wir dem Regen draußen bei einem Film entfliehen.",
+            "hu": "Trolibusszal utazni az esős Benderben igazi helyi élmény. A fedett megállókat használjuk, hogy eljussunk a székesegyházhoz és a múzeumba. Délben a járat közvetlenül a várhoz visz minket. A vizes délutánt stílusosan a Gorkij moziban töltjük, ahol egy film mellett menekülhetünk el a kinti zuhogás elől.",
+            "ro": "O călătorie cu troleibuzul prin Benderul ploios este o experiență autentică. Folosim stațiile acoperite pentru a ajunge la catedrală și muzeu. La prânz, linia ne duce direct la cetate. Petrecem după-amiaza ploioasă cu stil la cinematograful Gorki, unde ne adăpostim de ploaie vizionând un film.",
+            "en": "Taking the trolleybus through rainy Bender is an authentic local experience. We'll use the covered stops to reach the cathedral and museum. At noon, the line takes us directly to the fortress. Spend the wet afternoon in style at the Gorky Cinema, escaping the downpour outside with a movie."
+          },
+          "stops": [
+            {
+              "name": "Transfiguration Cathedral",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist nah, sodass man kaum nass wird.",
+                "hu": "A megálló közel van, így alig ázol el odáig.",
+                "ro": "Stația este aproape, așa că abia dacă vă veți uda.",
+                "en": "The stop is very close, so you'll hardly get wet walking there."
+              }
+            },
+            {
+              "name": "Bender Museum of Local History",
+              "tip_5lang": {
+                "de": "Planen Sie die Busabfahrten per App, um Wartezeiten im Regen zu vermeiden.",
+                "hu": "Nézd meg a menetrendet, hogy ne kelljen sokat várnod az esőben.",
+                "ro": "Verificați orarul pentru a evita așteptarea lungă în ploaie.",
+                "en": "Check the schedule to avoid waiting too long in the rain."
+              }
+            },
+            {
+              "name": "Bender Fortress",
+              "tip_5lang": {
+                "de": "Der Weg von der Haltestelle zum Eingang bietet wenig Schutz.",
+                "hu": "A megállótól a bejáratig vezető út kevés védelmet nyújt.",
+                "ro": "Drumul de la stație până la intrare oferă puțin adăpost.",
+                "en": "The path from the stop to the entrance offers little shelter."
+              }
+            },
+            {
+              "name": "Alexander Nevsky Cathedral",
+              "tip_5lang": {
+                "de": "Kurzer Aufenthalt, perfekt abgestimmt auf den nächsten Bus.",
+                "hu": "Rövid látogatás, tökéletesen a következő buszhoz igazítva.",
+                "ro": "Vizită scurtă, perfect sincronizată cu următorul autobuz.",
+                "en": "Short visit, perfectly timed for the next bus arrival."
+              }
+            },
+            {
+              "name": "Dniester Promenade",
+              "tip_5lang": {
+                "de": "Bei Regen ist hier wenig los, genießen Sie die Einsamkeit.",
+                "hu": "Esőben kevesen vannak itt, élvezd a csendes magányt.",
+                "ro": "Când plouă, zona este liberă; bucurați-vă de liniște.",
+                "en": "Few people are here when it rains; enjoy the quiet solitude."
+              }
+            },
+            {
+              "name": "Gorky Cinema",
+              "tip_5lang": {
+                "de": "Der ultimative Regenfluchtsort des Tages.",
+                "hu": "A nap végső menekülőhelye az eső elől.",
+                "ro": "Refugiul suprem împotriva ploii de la finalul zilei.",
+                "en": "The ultimate rainy-day escape to end your tour."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Halten Sie Kleingeld für die Fahrkarten im Trolleybus bereit.",
+              "Die Trolleybusse sind oft ein guter Ort, um die Leute zu beobachten.",
+              "Einige Haltestellen haben kleine Kioske mit Regenschirmen.",
+              "Das Gorki-Kino ist ein architektonisches Juwel aus der Sowjetzeit."
+            ],
+            "hu": [
+              "Legyen nálad aprópénz a trolis jegyvásárláshoz.",
+              "A trolibuszok kiváló helyszínek az emberek megfigyeléséhez.",
+              "Néhány megállónál kis újságosoknál vehetsz esernyőt is.",
+              "A Gorkij mozi a szovjet korszak egyik építészeti gyöngyszeme."
+            ],
+            "ro": [
+              "Pregătiți mărunțiș pentru biletele de troleibuz.",
+              "Troleibuzele sunt locuri bune pentru a observa localnicii.",
+              "Unele stații au chioșcuri unde puteți cumpăra umbrele.",
+              "Cinematograful Gorki este o bijuterie arhitecturală din epoca sovietică."
+            ],
+            "en": [
+              "Have small change ready for buying tickets on the trolleybus.",
+              "Trolleybuses are great for people-watching while staying dry.",
+              "Some stops have small kiosks where you can buy umbrellas.",
+              "The Gorky Cinema is an architectural gem from the Soviet era."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Bender im Winter mit dem ÖPNV zu erkunden, ist gemütlich und praktisch. Die beheizten Trolleybusse bringen uns sicher von der Kathedrale zur Festung. Die Wartezeiten nutzen wir, um die winterliche Atmosphäre der Stadt zu spüren. Der Tag findet seinen Höhepunkt im Gorki-Kino, wo die Wärme und ein guter Film den perfekten Abschluss für die Tour bilden.",
+            "hu": "Télen Bender felfedezése tömegközlekedéssel kényelmes és praktikus. A fűtött trolibuszok biztonságban visznek a székesegyháztól a várig. A várakozási időt a város téli hangulatának megfigyelésére használjuk. A nap a Gorkij moziban csúcsosodik ki, ahol a meleg és egy jó film tökéletes zárása a túrának.",
+            "ro": "Explorarea Benderului iarna cu transportul public este confortabilă și practică. Troleibuzele încălzite ne duc în siguranță de la catedrală la cetate. Folosim timpul de așteptare pentru a simți atmosfera de iarnă a orașului. Ziua culminează la cinematograful Gorki, unde căldura și un film bun oferă finalul perfect.",
+            "en": "Exploring Bender in winter by public transit is both cozy and practical. Heated trolleybuses ferry us safely from the cathedral to the fortress. We'll use the waiting times to soak in the city's winter vibe. The day hits its peak at the Gorky Cinema, where warmth and a good film provide the perfect tour finale."
+          },
+          "stops": [
+            {
+              "name": "Transfiguration Cathedral",
+              "tip_5lang": {
+                "de": "In der Nähe der Haltestelle gibt es oft heißen Kaffee.",
+                "hu": "A megálló közelében gyakran árulnak forró kávét.",
+                "ro": "Se găsește adesea cafea fierbinte în apropierea stației.",
+                "en": "Hot coffee is often available near the transit stop."
+              }
+            },
+            {
+              "name": "Bender Museum of Local History",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um die Kälte draußen kurz zu vergessen.",
+                "hu": "Tökéletes hely, hogy egy időre elfelejtsd a kinti hideget.",
+                "ro": "Locul ideal pentru a uita pentru o vreme de frigul de afară.",
+                "en": "A perfect place to forget the cold outside for a while."
+              }
+            },
+            {
+              "name": "Bender Fortress",
+              "tip_5lang": {
+                "de": "Achten Sie auf die reduzierten Fahrpläne an Feiertagen.",
+                "hu": "Figyelj az ünnepnapi ritkább menetrendre.",
+                "ro": "Atenție la orarul redus în timpul sărbătorilor.",
+                "en": "Keep an eye out for reduced holiday transit schedules."
+              }
+            },
+            {
+              "name": "Alexander Nevsky Cathedral",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich auf, während Sie auf den Bus warten.",
+                "hu": "Melegedj fel bent, amíg a buszra vársz.",
+                "ro": "Încălziți-vă în interior în timp ce așteptați autobuzul.",
+                "en": "Warm up inside while you wait for the bus to arrive."
+              }
+            },
+            {
+              "name": "Dniester Promenade",
+              "tip_5lang": {
+                "de": "Der Winterwind vom Fluss ist hier sehr erfrischend.",
+                "hu": "A folyó felőli téli szél itt nagyon frissítő tud lenni.",
+                "ro": "Vântul de iarnă de pe râu este foarte revigorant aici.",
+                "en": "The winter wind from the river is quite refreshing here."
+              }
+            },
+            {
+              "name": "Gorky Cinema",
+              "tip_5lang": {
+                "de": "Buchen Sie Tickets im Voraus, um drinnen direkt Platz zu nehmen.",
+                "hu": "Foglalj jegyet előre, hogy bent rögtön helyet foglalhass.",
+                "ro": "Rezervați bilete în avans pentru a ocupa locurile imediat.",
+                "en": "Book tickets in advance to head straight to your seat inside."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Trolleybusse in Bender sind oft sehr zuverlässig.",
+              "Tragen Sie eine Mütze, da es an den Haltestellen ziehen kann.",
+              "Im Winter sind die Fahrzeuge oft angenehm beheizt.",
+              "Genießen Sie die Fahrt durch die beleuchteten Straßen am Abend."
+            ],
+            "hu": [
+              "A benderi trolibuszok általában nagyon megbízhatóak.",
+              "Viselj sapkát, mert a megállókban huzat lehet.",
+              "Télen a járatok gyakran kellemesen fűtöttek.",
+              "Élvezd az utazást az esti kivilágított utcákon keresztül."
+            ],
+            "ro": [
+              "Troleibuzele din Bender sunt de obicei foarte sigure.",
+              "Purtați căciulă, deoarece în stații poate fi curent.",
+              "Iarna, vehiculele sunt adesea încălzite plăcut.",
+              "Bucurați-vă de drumul prin străzile iluminate seara."
+            ],
+            "en": [
+              "Trolleybuses in Bender are generally very reliable.",
+              "Wear a hat, as transit stops can be quite drafty.",
+              "In winter, the vehicles are often pleasantly heated.",
+              "Enjoy the ride through the illuminated streets in the evening."
+            ]
+          }
+        }
       }
     }
   }

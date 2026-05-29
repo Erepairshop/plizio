@@ -362,6 +362,196 @@
           "Most sights are within easy walking distance; just follow the signs.",
           "Allow plenty of time for the Fondation Gianadda; the collection is extensive."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Vormittag beginnt unter den schützenden Arkaden der Place Centrale, wo der Regen das Kopfsteinpflaster glänzen lässt. Ein kurzer, schirmbewehrter Spaziergang führt zur Kirche Saint-Michel. Mittags bietet das Römische Amphitheater eine dramatische, nasse Kulisse, bevor man in die trockene Welt der Fondation Pierre Gianadda flieht. Der Nachmittag gehört den Bernhardinern im Barryland, während der Abend bei einem Walliser Wein in einer gemütlichen Altstadtbar ausklingt.",
+            "hu": "A délelőtt a Place Centrale árkádjai alatt indul, ahol az eső fényesre mossa a macskaköveket. Egy rövid, esernyős séta vezet a Saint-Michel templomig. Délben a Római Amfiteátrum drámai látványt nyújt a szürke ég alatt, mielőtt a Fondation Pierre Gianadda belső kiállításaiba menekülnénk. A délutánt a Barryland bernáthegyijei aranyozzák be, az este pedig egy pohár vallisi bor mellett, egy hangulatos óvárosi borozóban ér véget.",
+            "ro": "Dimineața începe sub arcadele protectoare din Place Centrale, unde ploaia face pavajul să strălucească. O scurtă plimbare cu umbrela duce la Biserica Saint-Michel. La prânz, Amfiteatrul Roman oferă un decor dramatic sub cerul gri, înainte de a ne refugia în galeriile uscate de la Fondation Pierre Gianadda. După-amiaza aparține câinilor Saint-Bernard de la Barryland, iar seara se încheie cu un vin de Valais într-un bar primitor din centrul vechi.",
+            "en": "The morning starts under the protective arcades of Place Centrale, with rain polishing the cobblestones. A short, umbrella-clad walk leads to Saint-Michel Church. At noon, the Roman Amphitheater offers a dramatic, wet backdrop before escaping into the dry world of the Pierre Gianadda Foundation. The afternoon is dedicated to the St. Bernards at Barryland, while the evening concludes with a glass of Valais wine in a cozy old town bar."
+          },
+          "stops": [
+            {
+              "name": "Place Centrale",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkadengänge der Cafés, um trocken zu bleiben.",
+                "hu": "Használja a kávézók árkádjait, hogy szárazon maradjon.",
+                "ro": "Folosiți arcadele cafenelelor pentru a rămâne la adăpost.",
+                "en": "Use the cafe arcades to stay dry while observing the square."
+              }
+            },
+            {
+              "name": "Saint-Michel Church",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um den stärksten Schauer abzuwarten.",
+                "hu": "Csendes hely a legerősebb zápor kivárásához.",
+                "ro": "Un loc liniștit pentru a aștepta trecerea celei mai grele ploi.",
+                "en": "A peaceful place to wait out the heaviest downpour."
+              }
+            },
+            {
+              "name": "Roman Amphitheater",
+              "tip_5lang": {
+                "de": "Vorsicht, die Steinstufen können bei Nässe sehr rutschig sein.",
+                "hu": "Vigyázat, a kőlépcsők nedvesen nagyon csúszósak lehetnek.",
+                "ro": "Atenție, treptele de piatră pot fi foarte alunecoase pe ploaie.",
+                "en": "Caution, the stone steps can be very slippery when wet."
+              }
+            },
+            {
+              "name": "Pierre Gianadda Foundation",
+              "tip_5lang": {
+                "de": "Perfekter Zufluchtsort mit erstklassigen Innenausstellungen.",
+                "hu": "Tökéletes menedék világszínvonalú belső kiállításokkal.",
+                "ro": "Refugiul perfect cu expoziții interioare de talie mondială.",
+                "en": "Perfect refuge with world-class indoor art exhibitions."
+              }
+            },
+            {
+              "name": "Barryland",
+              "tip_5lang": {
+                "de": "Die Innengehege und das Museum sind komplett wetterfest.",
+                "hu": "A belső kifutók és a múzeum teljesen időjárásálló.",
+                "ro": "Țarcurile interioare și muzeul sunt complet protejate de ploaie.",
+                "en": "The indoor kennels and museum are completely weatherproof."
+              }
+            },
+            {
+              "name": "Château de la Bâtiaz",
+              "tip_5lang": {
+                "de": "Der Aufstieg ist steil; festes Schuhwerk ist bei Regen Pflicht.",
+                "hu": "A felmenet meredek, esőben kötelező a jó tapadású cipő.",
+                "ro": "Urcarea este abruptă; încălțămintea aderentă este obligatorie.",
+                "en": "The climb is steep; sturdy shoes are a must in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine wasserfeste Jacke, da der Wind im Tal den Schirm nutzlos machen kann.",
+              "Die Fondation Gianadda ist der beste Ort für längere Regengüsse.",
+              "Nutzen Sie die Unterführungen am Bahnhof, um Abkürzungen zu nehmen.",
+              "Wählen Sie Restaurants in der Place Centrale mit überdachten Terrassen.",
+              "Die Steinpflaster in der Altstadt werden bei Nässe spiegelglatt."
+            ],
+            "hu": [
+              "Viseljen vízálló kabátot, mert a völgyi szél miatt az esernyő gyakran kevés.",
+              "A Gianadda Alapítvány a legjobb hely a hosszabb esőzések idejére.",
+              "Használja a vasútállomás aluljáróit rövidítésként.",
+              "Válasszon fedett teraszos éttermet a Place Centrale környékén.",
+              "Az óvárosi macskakövek vizesen rendkívül csúszóssá válnak."
+            ],
+            "ro": [
+              "Purtați o jachetă impermeabilă, vântul din vale poate face umbrela inutilă.",
+              "Fundația Gianadda este cel mai bun loc pentru perioadele lungi de ploaie.",
+              "Folosiți pasajele subterane de la gară pentru a scurta drumul.",
+              "Alegeți restaurante cu terase acoperite în Place Centrale.",
+              "Pavajul de piatră din centrul vechi devine foarte alunecos când este ud."
+            ],
+            "en": [
+              "Wear a waterproof jacket, as valley winds can make umbrellas useless.",
+              "The Gianadda Foundation is the best spot for extended rain spells.",
+              "Use the station underpasses for quick, dry shortcuts.",
+              "Choose restaurants in Place Centrale with covered terraces.",
+              "Old town cobblestones become mirror-slick when wet."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen beginnt mit einem heißen Kaffee an der Place Centrale, während der Schnee die Alpenpeaks weiß färbt. Der Weg zur Kirche Saint-Michel ist kurz und knackig. Mittags wirkt das Amphitheater unter einer Puderzuckerschicht magisch. Die Wärme der Fondation Gianadda ist danach eine Wohltat. Nach dem Barryland-Besuch glitzert das Schloss Bâtiaz im frühen Abendlicht, bevor man sich in ein gemütliches Fondue-Stübli zurückzieht.",
+            "hu": "A fagyos reggel egy forró kávéval indul a Place Centrale-on, miközben a hó fehérre festi az alpesi csúcsokat. A séta a Saint-Michel templomhoz rövid és frissítő. Délben az amfiteátrum mágikus látványt nyújt a porhó alatt. A Gianadda Alapítvány melege ezután igazi felüdülés. A Barryland után a Bâtiaz vár csillog a korai esti fényben, mielőtt egy hangulatos fondue-özőbe vonulnánk vissza.",
+            "ro": "O dimineață geroasă începe cu o cafea fierbinte în Place Centrale, în timp ce zăpada albește vârfurile Alpilor. Drumul spre Biserica Saint-Michel este scurt și revigorant. La prânz, amfiteatrul pare magic sub stratul de zăpadă. Căldura de la Fundația Gianadda este o binecuvântare după aceea. După Barryland, Castelul Bâtiaz strălucește în lumina serii timpurii, înainte de a ne retrage la un fondue cald.",
+            "en": "A frosty morning begins with a hot coffee at Place Centrale, as snow whitens the Alpine peaks. The walk to Saint-Michel Church is short and crisp. At noon, the amphitheater looks magical under a layer of powder snow. The warmth of the Gianadda Foundation is a blessing afterwards. After Barryland, Bâtiaz Castle glitters in the early evening light before retreating to a cozy fondue spot."
+          },
+          "stops": [
+            {
+              "name": "Place Centrale",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in den Cafés mit Blick auf die verschneiten Berge auf.",
+                "hu": "Melegedjen fel a kávézókban, kilátással a havas hegyekre.",
+                "ro": "Încălziți-vă în cafenele cu vedere la munții înzăpeziți.",
+                "en": "Warm up in the cafes with a view of the snow-capped mountains."
+              }
+            },
+            {
+              "name": "Saint-Michel Church",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf dem Kirchplatz.",
+                "hu": "Ügyeljen a jegesedésre a templom előtti téren.",
+                "ro": "Atenție la porțiunile de gheață din piața bisericii.",
+                "en": "Watch out for black ice on the church square."
+              }
+            },
+            {
+              "name": "Roman Amphitheater",
+              "tip_5lang": {
+                "de": "Die Ruinen sehen im Schnee spektakulär aus, aber Vorsicht beim Gehen.",
+                "hu": "A romok látványosak a hóban, de óvatosan lépkedjen.",
+                "ro": "Ruinele arată spectaculos în zăpadă, dar mergeți cu atenție.",
+                "en": "The ruins look spectacular in the snow, but walk carefully."
+              }
+            },
+            {
+              "name": "Pierre Gianadda Foundation",
+              "tip_5lang": {
+                "de": "Der Skulpturenpark ist auch im Winter begehbar und sehr ruhig.",
+                "hu": "A szoborpark télen is látogatható és rendkívül csendes.",
+                "ro": "Parcul de sculpturi este accesibil și iarna, fiind foarte liniștit.",
+                "en": "The sculpture park is accessible in winter and very peaceful."
+              }
+            },
+            {
+              "name": "Barryland",
+              "tip_5lang": {
+                "de": "Die Bernhardiner lieben den Schnee – ein Highlight im Winter.",
+                "hu": "A bernáthegyiek imádják a havat – igazi téli élmény.",
+                "ro": "Câinii Saint-Bernard adoră zăpada – un punct forte iarna.",
+                "en": "St. Bernards love the snow – a true winter highlight."
+              }
+            },
+            {
+              "name": "Château de la Bâtiaz",
+              "tip_5lang": {
+                "de": "Das Schloss ist im Winter oft geschlossen, aber der Ausblick lohnt.",
+                "hu": "A vár télen gyakran zárva van, de a kilátás kárpótol.",
+                "ro": "Castelul este adesea închis iarna, dar priveliștea merită efortul.",
+                "en": "The castle is often closed in winter, but the view is worth it."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne verschwindet gegen 16:30 Uhr hinter den Bergen.",
+              "Tragen Sie Thermo-Einlegesohlen für den Aufenthalt im Amphitheater.",
+              "Genießen Sie ein lokales Fondue als perfekten Abschluss.",
+              "Die Wege zur Bâtiaz können vereist sein; nutzen Sie den Hauptweg.",
+              "In Martigny kann es durch den Föhnwind plötzlich wärmer werden."
+            ],
+            "hu": [
+              "A nap 16:30 körül tűnik el a hegyek mögött.",
+              "Használjon termotalpbetétet az amfiteátrumi tartózkodáshoz.",
+              "A napot egy helyi fonduéval érdemes zárni.",
+              "A várba vezető utak jegesek lehetnek, maradjon a főútvonalon.",
+              "Martigny-ban a főn szél miatt hirtelen enyhülés is jöhet."
+            ],
+            "ro": [
+              "Soarele dispare în spatele munților în jurul orei 16:30.",
+              "Folosiți branțuri termice pentru vizita la amfiteatru.",
+              "Savurați un fondue local ca încheiere perfectă a zilei.",
+              "Potecile spre Bâtiaz pot fi înghețate; folosiți drumul principal.",
+              "În Martigny, vântul Föhn poate aduce încălziri bruște de temperatură."
+            ],
+            "en": [
+              "The sun disappears behind the mountains around 16:30.",
+              "Wear thermal insoles for the duration of the amphitheater visit.",
+              "Enjoy a local fondue as the perfect winter conclusion.",
+              "Paths to Bâtiaz can be icy; stick to the main road.",
+              "Föhn winds can cause sudden temperature rises in Martigny."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -742,6 +932,214 @@
           "The city is bike-friendly, but watch out for pedestrians in the city center.",
           "A helmet is strongly recommended."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein nasser Start an der Place Centrale erfordert gute Regenkleidung. Die Fahrt zum Amphitheater ist kurz, aber auf nassen Reifen muss man in den Kurven vorsichtig sein. In der Fondation Gianadda können Radler und Ausrüstung trocknen. Vorbei an der Mühle Semblanet führt der Weg zur Destillerie Morand, wo warme Aromen warten. Der Tag endet nach einem Besuch bei den Hunden im Barryland, wenn die Lichter der Stadt im Regen verschwimmen.",
+            "hu": "A vizes induláshoz a Place Centrale-ról jó esőruha kell. Az út az amfiteátrumig rövid, de a kanyarokban óvatosan kell bánni a vizes gumikkal. A Gianadda Alapítványnál a bringás és a felszerelés is megszáradhat. A Semblanet malom érintésével jutunk a Morand lepárlóba, ahol melengető illatok várnak. A nap a Barryland kutyái után ér véget, miközben a város fényei elmosódnak az esőben.",
+            "ro": "Un start umed din Place Centrale necesită echipament de ploaie bun. Drumul spre amfiteatru este scurt, dar atenție la viraje cu anvelopele ude. La Fundația Gianadda, biciclistul și echipamentul se pot usca. Trecând pe lângă moara Semblanet, ajungem la distileria Morand, unde așteaptă arome calde. Ziua se încheie după vizita la Barryland, în timp ce luminile orașului se reflectă în ploaie.",
+            "en": "A wet start from Place Centrale requires good rain gear. The ride to the amphitheater is short, but be careful with wet tires in the corners. At the Gianadda Foundation, both cyclist and gear can dry off. Passing Moulin Semblanet, the route leads to the Morand Distillery, where warm aromas await. The day ends after a visit to Barryland, as city lights blur in the falling rain."
+          },
+          "stops": [
+            {
+              "name": "Place Centrale",
+              "tip_5lang": {
+                "de": "Parken Sie das Rad unter einem Vordach, während Sie Kaffee trinken.",
+                "hu": "Parkolja a bringát előtető alá, amíg kávézik.",
+                "ro": "Parcați bicicleta sub o streașină în timp ce savurați cafeaua.",
+                "en": "Park your bike under an awning while enjoying your coffee."
+              }
+            },
+            {
+              "name": "Roman Amphitheater",
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Befahren der Grasflächen; Rutschgefahr.",
+                "hu": "Kerülje a füves területeken való biciklizést; csúszásveszély.",
+                "ro": "Evitați să mergeți cu bicicleta pe iarbă; risc de derapare.",
+                "en": "Avoid cycling on grassy areas; high slip risk."
+              }
+            },
+            {
+              "name": "Pierre Gianadda Foundation",
+              "tip_5lang": {
+                "de": "Überdachte Fahrradständer vorhanden – ideal zum Trocknen.",
+                "hu": "Fedett kerékpártárolók vannak – ideális a száradáshoz.",
+                "ro": "Sunt disponibile rastele acoperite – ideal pentru a se usca.",
+                "en": "Covered bike racks available – ideal for drying out."
+              }
+            },
+            {
+              "name": "Moulin Semblanet",
+              "tip_5lang": {
+                "de": "Ein schneller, kurzer Stopp im Trockenen.",
+                "hu": "Egy gyors, rövid megálló a szárazon.",
+                "ro": "O oprire rapidă și scurtă la adăpost.",
+                "en": "A quick, short stop in the dry."
+              }
+            },
+            {
+              "name": "Château de la Bâtiaz",
+              "tip_5lang": {
+                "de": "Lassen Sie das Rad unten; der Weg hoch ist bei Regen zu rutschig.",
+                "hu": "Hagyja a bringát lent; a felfelé vezető út túl csúszós esőben.",
+                "ro": "Lăsați bicicleta jos; drumul în sus este prea alunecos pe ploaie.",
+                "en": "Leave the bike below; the path up is too slippery in the rain."
+              }
+            },
+            {
+              "name": "Morand Distillery",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich bei einer Sirup- oder Schnapsprobe auf.",
+                "hu": "Melegedjen fel egy szörp- vagy párlatkóstolóval.",
+                "ro": "Încălziți-vă cu o degustare de siropuri sau lichioruri.",
+                "en": "Warm up with a syrup or spirits tasting."
+              }
+            },
+            {
+              "name": "Barryland",
+              "tip_5lang": {
+                "de": "Fahrradparkplätze direkt vor dem Eingang.",
+                "hu": "Kerékpárparkolók közvetlenül a bejárat előtt.",
+                "ro": "Parcare pentru biciclete chiar în fața intrării.",
+                "en": "Bicycle parking available right at the entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Bremsen; das Talgefälle erfordert volle Bremskraft bei Nässe.",
+              "Nutzen Sie die Radwege entlang der Dranse, sie sind gut asphaltiert.",
+              "Vermeiden Sie Metallgitter und nasse Blätter in den Seitenstraßen.",
+              "Die Destillerie Morand ist ein exzellenter Ort, um den Regen auszusitzen.",
+              "Helle Kleidung ist bei dem grauen Regenwetter lebenswichtig."
+            ],
+            "hu": [
+              "Ellenőrizze a fékeket; a völgyi lejtőkön vizesen is teljes erő kell.",
+              "Használja a Dranse menti kerékpárutakat, jól aszfaltozottak.",
+              "Kerülje a fémrácsokat és a nedves leveleket a mellékutcákban.",
+              "A Morand lepárló kiváló hely az eső kivárására.",
+              "A világos öltözet létfontosságú a szürke esős időben."
+            ],
+            "ro": [
+              "Verificați frânele; pantele din vale necesită putere maximă pe ud.",
+              "Folosiți pistele de biciclete de-a lungul râului Dranse.",
+              "Evitați grătarele metalice și frunzele ude de pe străzile laterale.",
+              "Distileria Morand este un loc excelent pentru a aștepta oprirea ploii.",
+              "Îmbrăcămintea luminoasă este vitală pe vremea gri de ploaie."
+            ],
+            "en": [
+              "Check your brakes; valley slopes require full stopping power in the wet.",
+              "Use the bike paths along the Dranse; they are well-paved.",
+              "Avoid metal grates and wet leaves in side streets.",
+              "The Morand Distillery is an excellent spot to wait out the rain.",
+              "Bright clothing is essential in grey, rainy weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein knackig kalter Wintertag beginnt mit einer zügigen Fahrt durch Martigny. Die Luft ist rein, die Place Centrale festlich. Beim Amphitheater knirscht der Reifen auf dem Frost. In der warmen Fondation Gianadda vergisst man die Kälte schnell. Die Fahrt zur Mühle und zur Destillerie Morand hält den Kreislauf in Schwung. Nach dem Barryland-Besuch ist die Rückfahrt kurz, während der Frost die Stadt fest im Griff hat.",
+            "hu": "Egy ropogósan hideg téli nap indul gyors tekeréssel Martigny-ban. A levegő tiszta, a Place Centrale ünnepi. Az amfiteátrumnál csikorog a gumi a fagyon. A meleg Gianadda Alapítványnál gyorsan elfelejtjük a hideget. A malomhoz és a Morand lepárlóhoz vezető út mozgásban tart. A Barryland után a visszaút rövid, miközben a fagy már rátalált a városra.",
+            "ro": "O zi de iarnă geroasă începe cu o tură rapidă prin Martigny. Aerul este curat, iar Place Centrale este festivă. La amfiteatru, anvelopele scârțâie pe îngheț. La Fundația Gianadda uităm repede de frig. Drumul spre moară și distileria Morand menține circulația activă. După Barryland, drumul de întoarcere este scurt sub stăpânirea gerului.",
+            "en": "A crisp winter day starts with a brisk ride through Martigny. The air is pure, and Place Centrale feels festive. At the amphitheater, tires crunch on the frost. Inside the warm Gianadda Foundation, the cold is quickly forgotten. The ride to the mill and Morand Distillery keeps the circulation going. After Barryland, the ride back is short as frost takes hold of the city."
+          },
+          "stops": [
+            {
+              "name": "Place Centrale",
+              "tip_5lang": {
+                "de": "Vorsicht beim Losfahren; die Schattenseiten des Platzes sind oft glatt.",
+                "hu": "Vigyázat az induláskor; a tér árnyékos részei gyakran jegesek.",
+                "ro": "Atenție la pornire; zonele umbrite ale pieței sunt adesea înghețate.",
+                "en": "Be careful starting off; shaded parts of the square are often slick."
+              }
+            },
+            {
+              "name": "Roman Amphitheater",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad sicher ab; gefrorener Boden kann tückisch sein.",
+                "hu": "Biztonságosan támassza le a bringát; a fagyott talaj trükkös lehet.",
+                "ro": "Parcați bicicleta în siguranță; solul înghețat poate fi înșelător.",
+                "en": "Park your bike securely; frozen ground can be treacherous."
+              }
+            },
+            {
+              "name": "Pierre Gianadda Foundation",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp, um die Finger wieder aufzuwärmen.",
+                "hu": "Használja ki a megállót az ujjai felmelegítésére.",
+                "ro": "Folosiți oprirea pentru a vă reîncălzi degetele.",
+                "en": "Use the stop to warm up your fingers again."
+              }
+            },
+            {
+              "name": "Moulin Semblanet",
+              "tip_5lang": {
+                "de": "Kurze Fotopause, bevor die Kälte in die Handschuhe kriecht.",
+                "hu": "Rövid fotószünet, mielőtt a hideg átjárná a kesztyűt.",
+                "ro": "Pauză scurtă de fotografii înainte ca frigul să pătrundă prin mănuși.",
+                "en": "Quick photo break before the cold creeps into your gloves."
+              }
+            },
+            {
+              "name": "Château de la Bâtiaz",
+              "tip_5lang": {
+                "de": "Der Radweg entlang der Dranse ist im Winter geräumt.",
+                "hu": "A Dranse menti kerékpárutat télen is takarítják.",
+                "ro": "Pista de biciclete de-a lungul râului Dranse este curățată iarna.",
+                "en": "The bike path along the Dranse is cleared in winter."
+              }
+            },
+            {
+              "name": "Morand Distillery",
+              "tip_5lang": {
+                "de": "Kaufen Sie ein wärmendes Souvenir für den Abend.",
+                "hu": "Vásároljon egy melengető szuvenírt estére.",
+                "ro": "Cumpărați un suvenir care să vă țină de cald seara.",
+                "en": "Buy a warming souvenir for the evening."
+              }
+            },
+            {
+              "name": "Barryland",
+              "tip_5lang": {
+                "de": "Die Bernhardiner sind im Winter besonders aktiv.",
+                "hu": "A bernáthegyiek télen különösen aktívak.",
+                "ro": "Câinii Saint-Bernard sunt deosebit de activi iarna.",
+                "en": "The St. Bernards are particularly active in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Windstopper-Handschuhe; der Fahrtwind ist im Winter beißend.",
+              "Vorsicht vor gefrorenem Kondenswasser in Unterführungen.",
+              "Prüfen Sie den Reifendruck; etwas weniger Druck bietet mehr Grip auf Eis.",
+              "Beleuchtung ist ab 16:00 Uhr zwingend erforderlich.",
+              "Die Route ist flach, was das Frieren mangels Anstrengung fördert."
+            ],
+            "hu": [
+              "Viseljen szélálló kesztyűt; a menetszél télen metsző.",
+              "Vigyázzon a lefagyott páralecsapódásra az aluljárókban.",
+              "Ellenőrizze a guminyomást; a kevesebb nyomás jobb tapadást ad a jégen.",
+              "A világítás 16:00-tól kötelező.",
+              "Az útvonal sík, így a kisebb megerőltetés miatt könnyebben fázhat."
+            ],
+            "ro": [
+              "Purtați mănuși rezistente la vânt; curentul de aer este tăios iarna.",
+              "Atenție la condensul înghețat în pasaje.",
+              "Verificați presiunea anvelopelor; o presiune mai mică oferă aderență mai bună.",
+              "Luminile sunt obligatorii începând cu ora 16:00.",
+              "Traseul este plat, deci riscați să înghețați din lipsă de efort intens."
+            ],
+            "en": [
+              "Wear windstopper gloves; the wind chill is biting in winter.",
+              "Watch out for frozen condensation in underpasses.",
+              "Check tire pressure; lower pressure offers better grip on ice.",
+              "Lights are mandatory from 16:00 onwards.",
+              "The route is flat, which means you might get cold due to low exertion."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1098,6 +1496,196 @@
           "Plan your clusters to avoid unnecessary driving.",
           "A navigation system is helpful for finding the small roads to the excursion destinations."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein entspannter Start im Parkhaus nahe der Place Centrale. Der Regen prasselt aufs Dach, während man trocken zur Altstadt schlendert. Zum Amphitheater ist es nur ein kurzer Sprung mit dem Wagen. Die Fondation Gianadda bietet bequeme Parkplätze direkt vor der Tür – ideal bei diesem Wetter. Nach dem Barryland-Besuch führt eine kurze Fahrt hoch zum Schloss Bâtiaz, wo man den Ausblick trotz Regen aus dem Auto oder dem Restaurant genießt.",
+            "hu": "Kényelmes indulás a Place Centrale közeli parkolóból. Az eső kopog a tetőn, miközben szárazon besétálunk az óvárosba. Az amfiteátrumhoz csak egy rövid ugrás az autóval. A Gianadda Alapítvány kényelmes parkolót kínál közvetlenül a bejáratnál – ideális ilyenkor. A Barryland után rövid autózás vezet a Bâtiaz várhoz, ahol az eső ellenére az autóból vagy az étteremből is élvezhetjük a kilátást.",
+            "ro": "Un început relaxat în parcarea de lângă Place Centrale. Ploaia bate în acoperiș în timp ce ne plimbăm spre orașul vechi. Până la amfiteatru este doar o scurtă distanță cu mașina. Fundația Gianadda oferă parcare convenabilă chiar în față – ideal pe această vreme. După Barryland, un drum scurt duce la Castelul Bâtiaz, unde priveliștea poate fi savurată din mașină sau din restaurant.",
+            "en": "A relaxed start in the parking garage near Place Centrale. Rain drums on the roof while you take a dry stroll to the old town. It's just a short hop by car to the amphitheater. The Gianadda Foundation offers convenient parking right at the door – ideal for this weather. After Barryland, a short drive leads up to Bâtiaz Castle, where the view can be enjoyed from the car or the restaurant."
+          },
+          "stops": [
+            {
+              "name": "Place Centrale Parking",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus 'Manoir', um komplett trocken zu starten.",
+                "hu": "Használja a 'Manoir' parkolóházat a teljesen száraz induláshoz.",
+                "ro": "Folosiți parcarea 'Manoir' pentru a începe vizita la uscat.",
+                "en": "Use the 'Manoir' parking garage for a completely dry start."
+              }
+            },
+            {
+              "name": "Place Centrale & Old Town",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen den Arkaden einplanen.",
+                "hu": "Tervezzen rövid utakat az árkádok között.",
+                "ro": "Planificați trasee scurte între arcade.",
+                "en": "Plan short walks between the various arcades."
+              }
+            },
+            {
+              "name": "Roman Amphitheater",
+              "tip_5lang": {
+                "de": "Parkplatz direkt neben dem Eingang nutzen.",
+                "hu": "Használja a közvetlenül a bejárat melletti parkolót.",
+                "ro": "Folosiți parcarea situată chiar lângă intrare.",
+                "en": "Use the parking lot located right next to the entrance."
+              }
+            },
+            {
+              "name": "Pierre Gianadda Foundation",
+              "tip_5lang": {
+                "de": "Großer, kostenloser Parkplatz direkt am Museum.",
+                "hu": "Nagy, ingyenes parkoló közvetlenül a múzeumnál.",
+                "ro": "Parcare mare, gratuită, chiar lângă muzeu.",
+                "en": "Large, free parking lot right next to the museum."
+              }
+            },
+            {
+              "name": "Barryland",
+              "tip_5lang": {
+                "de": "Überdachter Eingangsbereich vorhanden.",
+                "hu": "Fedett bejárati rész áll rendelkezésre.",
+                "ro": "Zonă de intrare acoperită disponibilă.",
+                "en": "Covered entrance area available."
+              }
+            },
+            {
+              "name": "Château de la Bâtiaz",
+              "tip_5lang": {
+                "de": "Fahren Sie bis ganz nach oben zum Restaurant-Parkplatz.",
+                "hu": "Hajtson fel egészen az étterem parkolójáig.",
+                "ro": "Conduceți până sus în parcarea restaurantului.",
+                "en": "Drive all the way up to the restaurant parking lot."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sicht kann im Rhonetal bei starkem Regen eingeschränkt sein.",
+              "Alle Hauptattraktionen haben eigene Parkplätze nahe am Eingang.",
+              "Halten Sie Kleingeld für die Parkuhren in der Innenstadt bereit.",
+              "Das Auto ist der perfekte Ort, um zwischen den Museen zu trocknen.",
+              "Vermeiden Sie bei Regen die unbefestigten Seitenstreifen."
+            ],
+            "hu": [
+              "A látási viszonyok a Rhone-völgyben erős esőnél korlátozottak lehetnek.",
+              "Minden fő látnivalónak saját parkolója van a bejárat közelében.",
+              "Készítsen elő aprópénzt a belvárosi parkolóórákhoz.",
+              "Az autó tökéletes hely a megszáradáshoz a múzeumok között.",
+              "Esőben kerülje a burkolatlan útpadkákat."
+            ],
+            "ro": [
+              "Vizibilitatea în valea Ronului poate fi limitată în timpul ploilor torențiale.",
+              "Toate atracțiile principale au parcări proprii aproape de intrare.",
+              "Aveți pregătite fise pentru aparatele de parcare din centru.",
+              "Mașina este locul perfect pentru a vă usca între vizitele la muzee.",
+              "Evitați acostamentele neasfaltate pe timp de ploaie."
+            ],
+            "en": [
+              "Visibility in the Rhone valley can be limited during heavy rain.",
+              "All main attractions have their own parking lots near the entrance.",
+              "Have some small change ready for downtown parking meters.",
+              "The car is the perfect place to dry off between museum visits.",
+              "Avoid unpaved road shoulders during rainy conditions."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Vormittag beginnt mit der Fahrt zur Place Centrale. Die Heizung läuft, während draußen Martigny im Winterglanz erstrahlt. Das Amphitheater ist schnell erreicht, der Parkplatz ist meist frei. In der Fondation Gianadda genießt man die Wärme und die Kunst. Die Fahrt hoch zum Schloss Bâtiaz bietet einen fantastischen Panoramablick auf die schneebedeckten Gipfel. Der Tag endet sicher und warm, während die Dämmerung früh über das Tal hereinbricht.",
+            "hu": "Egy hűvös délelőtt indul autózással a Place Centrale-hoz. A fűtés megy, miközben odakint Martigny téli fényben ragyog. Az amfiteátrum gyorsan elérhető, a parkoló általában szabad. A Gianadda Alapítványnál élvezzük a meleget és a művészetet. Az autózás a Bâtiaz várhoz fantasztikus panorámát nyújt a havas csúcsokra. A nap biztonságban és melegben ér véget, miközben a szürkület korán leszáll a völgyre.",
+            "ro": "O dimineață răcoroasă începe cu un drum spre Place Centrale. Încălzirea funcționează, în timp ce afară Martigny strălucește în lumină de iarnă. Amfiteatrul este accesibil rapid, parcarea fiind de obicei liberă. La Fundația Gianadda ne bucurăm de căldură și artă. Drumul spre Castelul Bâtiaz oferă o panoramă fantastică asupra vârfurilor înzăpezite. Ziua se încheie la căldură, în timp ce amurgul coboară devreme peste vale.",
+            "en": "A cool morning begins with a drive to Place Centrale. The heater is on while outside Martigny shines in winter splendor. The amphitheater is quickly reached, and the parking lot is usually empty. At the Gianadda Foundation, enjoy the warmth and the art. The drive up to Bâtiaz Castle offers a fantastic panoramic view of the snow-covered peaks. The day ends safely and warmly as dusk falls early over the valley."
+          },
+          "stops": [
+            {
+              "name": "Place Centrale Parking",
+              "tip_5lang": {
+                "de": "Das Parkhaus schützt das Auto vor Frost und Schnee.",
+                "hu": "A parkolóház védi az autót a fagytól és a hótól.",
+                "ro": "Parcarea acoperită protejează mașina de îngheț și zăpadă.",
+                "en": "The parking garage protects the car from frost and snow."
+              }
+            },
+            {
+              "name": "Place Centrale & Old Town",
+              "tip_5lang": {
+                "de": "Genießen Sie die winterliche Dekoration der Stadt.",
+                "hu": "Élvezze a város téli dekorációját.",
+                "ro": "Bucurați-vă de decorațiunile de iarnă ale orașului.",
+                "en": "Enjoy the city's winter decorations."
+              }
+            },
+            {
+              "name": "Roman Amphitheater",
+              "tip_5lang": {
+                "de": "Vorsicht beim Einparken auf ungeräumten Flächen.",
+                "hu": "Vigyázat a parkolásnál a le nem takarított területeken.",
+                "ro": "Atenție la parcare în zonele necurățate de zăpadă.",
+                "en": "Be careful parking on uncleared surfaces."
+              }
+            },
+            {
+              "name": "Pierre Gianadda Foundation",
+              "tip_5lang": {
+                "de": "Die Zufahrt wird immer prioritär geräumt.",
+                "hu": "A bevezető utat mindig prioritással takarítják.",
+                "ro": "Drumul de acces este întotdeauna curățat prioritar.",
+                "en": "Access roads are always prioritized for snow clearing."
+              }
+            },
+            {
+              "name": "Barryland",
+              "tip_5lang": {
+                "de": "Ideal, um die Hunde im Schnee spielen zu sehen.",
+                "hu": "Ideális látni a kutyákat a hóban játszani.",
+                "ro": "Ideal pentru a vedea câinii jucându-se în zăpadă.",
+                "en": "Ideal for watching the dogs play in the snow."
+              }
+            },
+            {
+              "name": "Château de la Bâtiaz",
+              "tip_5lang": {
+                "de": "Winterreifen sind für die Auffahrt zum Schloss zwingend.",
+                "hu": "A várba való felhajtáshoz a téli gumi kötelező.",
+                "ro": "Anvelopele de iarnă sunt obligatorii pentru urcarea la castel.",
+                "en": "Winter tires are mandatory for the drive up to the castle."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind im Wallis von Oktober bis April Pflicht.",
+              "Führen Sie einen Eiskratzer und Besen für Schneefälle mit.",
+              "Die Bergstraßen können bei plötzlichem Schneefall tückisch sein.",
+              "Parken Sie vorzugsweise in Parkhäusern, um Enteisen zu vermeiden.",
+              "Die Dämmerung beginnt im Winter bereits gegen 16:00 Uhr."
+            ],
+            "hu": [
+              "Valais-ban októbertől áprilisig kötelező a téli gumi.",
+              "Legyen az autóban jégkaparó és hóseprű.",
+              "A hegyi utak hirtelen havazásnál trükkösek lehetnek.",
+              "Lehetőleg parkolóházban álljon meg, hogy elkerülje a jegesedést.",
+              "A szürkület télen már 16:00 körül elkezdődik."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii în Valais din octombrie până în aprilie.",
+              "Aveți în mașină o racletă și o perie pentru zăpadă.",
+              "Drumurile montane pot fi înșelătoare în caz de ninsoare bruscă.",
+              "Parcați de preferință în parcări acoperite pentru a evita înghețul.",
+              "Amurgul începe iarna deja în jurul orei 16:00."
+            ],
+            "en": [
+              "Winter tires are mandatory in Valais from October to April.",
+              "Keep an ice scraper and a snow brush in the car.",
+              "Mountain roads can be tricky during sudden snowfall.",
+              "Prefer parking in garages to avoid having to de-ice your car.",
+              "Twilight begins as early as 16:00 in winter."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1430,6 +2018,178 @@
           "The buses are punctual, so be at the stop on time.",
           "The little tourist train to the castle only runs in high season."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Ankunft am Bahnhof Martigny ist auch bei Regen unkompliziert. Mit dem Bus geht es direkt zur Place Centrale, wo man unter Arkaden flaniert. Ein kurzer Sprung mit dem Stadtbus bringt Besucher zum Amphitheater. Den Hauptteil des nassen Nachmittags verbringt man in der Fondation Gianadda. Nach einem kurzen Besuch im Barryland bringt der Bus die Gäste bequem zurück zum Bahnhof, während draußen der Regen die Straßen flutet.",
+            "hu": "A megérkezés a martigny-i vasútállomásra esőben is egyszerű. Busszal jutunk a Place Centrale-hoz, ahol az árkádok alatt sétálhatunk. Egy rövid buszozás elvisz az amfiteátrumhoz is. A vizes délután nagy részét a Gianadda Alapítványnál töltjük. A Barryland után a busz kényelmesen visszavisz a vasútállomásra, miközben odakint az eső áztatja az utcákat.",
+            "ro": "Sosirea în gara Martigny este simplă chiar și pe ploaie. Autobuzul vă duce direct în Place Centrale, unde vă puteți plimba sub arcade. O scurtă călătorie cu autobuzul urban vă duce la amfiteatru. Cea mai mare parte a după-amiezii ploioase o veți petrece la Fundația Gianadda. După Barryland, autobuzul vă readuce confortabil la gară.",
+            "en": "Arriving at Martigny station is straightforward even in the rain. A bus takes you directly to Place Centrale, where you can stroll under the arcades. A short city bus hop brings visitors to the amphitheater. Spend the bulk of the wet afternoon at the Gianadda Foundation. After Barryland, the bus conveniently returns guests to the station as rain floods the streets outside."
+          },
+          "stops": [
+            {
+              "name": "Martigny Station (Arrival)",
+              "tip_5lang": {
+                "de": "Warten Sie in der Bahnhofshalle auf den Anschlussbus.",
+                "hu": "Várjon az állomás csarnokában a csatlakozó buszra.",
+                "ro": "Așteptați autobuzul de legătură în holul gării.",
+                "en": "Wait for your connecting bus inside the station hall."
+              }
+            },
+            {
+              "name": "Place Centrale",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle ist nur wenige Schritte von den Arkaden entfernt.",
+                "hu": "A buszmegálló csak pár lépésre van az árkádoktól.",
+                "ro": "Stația de autobuz este la doar câțiva pași de arcade.",
+                "en": "The bus stop is just a few steps away from the arcades."
+              }
+            },
+            {
+              "name": "Roman Amphitheater",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Bus 201/202 für eine trockene Anfahrt.",
+                "hu": "Használja a 201/202-es buszt a száraz odajutáshoz.",
+                "ro": "Folosiți autobuzul 201/202 pentru un drum uscat.",
+                "en": "Use bus 201/202 for a dry approach to the site."
+              }
+            },
+            {
+              "name": "Pierre Gianadda Foundation",
+              "tip_5lang": {
+                "de": "Die Haltestelle befindet sich fast direkt vor dem Museum.",
+                "hu": "A megálló szinte közvetlenül a múzeum előtt van.",
+                "ro": "Stația se află aproape direct în fața muzeului.",
+                "en": "The stop is located almost directly in front of the museum."
+              }
+            },
+            {
+              "name": "Château de la Bâtiaz",
+              "tip_5lang": {
+                "de": "Vom Busstopp ist es noch ein nasser Fußweg; Schirm bereithalten.",
+                "hu": "A buszmegállótól még vizes gyalogút vezet; legyen kéznél esernyő.",
+                "ro": "De la stație mai este un drum pe jos; țineți umbrela la îndemână.",
+                "en": "It's still a wet walk from the bus stop; keep an umbrella ready."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der 'Martigny City'-Bus verbindet alle Attraktionen im 15-Minuten-Takt.",
+              "Laden Sie die SBB-App für Echtzeit-Infos bei wetterbedingten Verspätungen.",
+              "Die Bahnhöfe haben meist überdachte Wartebereiche.",
+              "Nutzen Sie den Zug 'Mont-Blanc Express' für eine Panoramasicht im Trockenen.",
+              "In den Bussen ist es meist warm und trocken – ideal zum Aufwärmen."
+            ],
+            "hu": [
+              "A 'Martigny City' busz 15 percenként köti össze a látnivalókat.",
+              "Töltse le az SBB appot az időjárás miatti késések figyeléséhez.",
+              "A vasútállomásokon többnyire vannak fedett váróhelyek.",
+              "Használja a 'Mont-Blanc Express' vonatot a száraz panorámáért.",
+              "A buszokon általában meleg és száraz az idő – ideális felmelegedni."
+            ],
+            "ro": [
+              "Autobuzul 'Martigny City' leagă atracțiile la fiecare 15 minute.",
+              "Descărcați aplicația SBB pentru info în timp real despre întârzieri.",
+              "Gările au de obicei zone de așteptare acoperite.",
+              "Folosiți trenul 'Mont-Blanc Express' pentru o vedere panoramică la uscat.",
+              "În autobuze este de obicei cald și uscat – ideal pentru încălzire."
+            ],
+            "en": [
+              "The 'Martigny City' bus connects all attractions every 15 minutes.",
+              "Download the SBB app for real-time info on weather-related delays.",
+              "Most stations have covered waiting areas.",
+              "Take the 'Mont-Blanc Express' train for panoramic views while staying dry.",
+              "Buses are usually warm and dry – ideal for warming up between stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen am Bahnhof Martigny. Die Berge glitzern, die Busse sind angenehm beheizt. Eine kurze Fahrt bringt Sie zur festlichen Place Centrale. Das Amphitheater wirkt im Frost wie aus einer anderen Zeit. Der Nachmittag in der Fondation Gianadda bietet kulturelle Wärme. Nach einem Winterspaziergang zum Barryland geht es mit dem Bus zurück zum Bahnhof, während die Lichter der Stadt im kalten Abendlicht funkeln.",
+            "hu": "Tiszta téli reggel a martigny-i vasútállomáson. A hegyek csillognak, a buszok kellemesen fűtöttek. Rövid utazás visz az ünnepi Place Centrale-hoz. Az amfiteátrum a fagyban mintha egy másik korból származna. A délután a Gianadda Alapítványnál kulturális meleget ad. A Barryland-hez tett téli séta után busszal megyünk vissza az állomásra, miközben a város fényei szikráznak a hidegben.",
+            "ro": "O dimineață senină de iarnă în gara Martigny. Munții sclipesc, iar autobuzele sunt bine încălzite. O scurtă călătorie vă duce în Place Centrale festivă. Amfiteatrul pare dintr-o altă epocă sub ger. După-amiaza la Fundația Gianadda oferă căldură culturală. După o plimbare spre Barryland, autobuzul vă aduce înapoi la gară în lumina serii.",
+            "en": "A clear winter morning at Martigny station. The mountains glitter, and the buses are comfortably heated. A short ride takes you to the festive Place Centrale. The amphitheater in the frost looks like it's from another time. The afternoon at the Gianadda Foundation offers cultural warmth. After a winter walk to Barryland, return to the station by bus as city lights sparkle in the cold evening light."
+          },
+          "stops": [
+            {
+              "name": "Martigny Station (Arrival)",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Bahnsteigkanten.",
+                "hu": "Ügyeljen a jeges peronszélekre.",
+                "ro": "Atenție la marginile înghețate ale peroanelor.",
+                "en": "Watch out for icy platform edges."
+              }
+            },
+            {
+              "name": "Place Centrale",
+              "tip_5lang": {
+                "de": "Besuchen Sie den kleinen Weihnachtsmarkt, falls Saison ist.",
+                "hu": "Látogassa meg a kis karácsonyi vásárt, ha szezon van.",
+                "ro": "Vizitați micul târg de Crăciun, dacă este sezonul.",
+                "en": "Visit the small Christmas market if it's the season."
+              }
+            },
+            {
+              "name": "Roman Amphitheater",
+              "tip_5lang": {
+                "de": "Der Boden kann gefroren und uneben sein.",
+                "hu": "A talaj fagyott és egyenetlen lehet.",
+                "ro": "Solul poate fi înghețat și denivelat.",
+                "en": "The ground can be frozen and uneven."
+              }
+            },
+            {
+              "name": "Pierre Gianadda Foundation",
+              "tip_5lang": {
+                "de": "Garderobe vorhanden – geben Sie Ihre schwere Winterjacke ab.",
+                "hu": "Van ruhatár – adja le a nehéz télikabátját.",
+                "ro": "Garderobă disponibilă – lăsați jacheta grea de iarnă.",
+                "en": "Cloakroom available – drop off your heavy winter jacket."
+              }
+            },
+            {
+              "name": "Château de la Bâtiaz",
+              "tip_5lang": {
+                "de": "Letzter Bus zurück zum Bahnhof fährt oft gegen 18:30 Uhr.",
+                "hu": "Az utolsó busz a vasúthoz gyakran 18:30 körül indul.",
+                "ro": "Ultimul autobuz spre gară pleacă adesea în jurul orei 18:30.",
+                "en": "The last bus back to the station often departs around 18:30."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Züge und Busse sind im Wallis extrem pünktlich, auch bei Schnee.",
+              "Nutzen Sie die Wartehallen; Martigny kann im Winter zugig sein.",
+              "Ein Tagesticket für den Stadtbus lohnt sich bei Kälte besonders.",
+              "Achten Sie auf die reduzierten Fahrpläne an Feiertagen.",
+              "Die SBB-App zeigt auch die Belegung der Züge an."
+            ],
+            "hu": [
+              "A vonatok és buszok Valais-ban rendkívül pontosak, hóban is.",
+              "Használja a várótermeket; Martigny télen huzatos lehet.",
+              "A napijegy a városi buszra hidegben különösen megéri.",
+              "Ügyeljen az ünnepek alatti ritkább menetrendre.",
+              "Az SBB app a vonatok foglaltságát is mutatja."
+            ],
+            "ro": [
+              "Trenurile și autobuzele din Valais sunt extrem de punctuale, chiar și pe zăpadă.",
+              "Folosiți sălile de așteptare; Martigny poate fi vântos iarna.",
+              "Un bilet de o zi pentru autobuzul urban merită din plin pe ger.",
+              "Atenție la orarele reduse în timpul sărbătorilor.",
+              "Aplicația SBB arată și gradul de ocupare al trenurilor."
+            ],
+            "en": [
+              "Trains and buses in Valais are extremely punctual, even in snow.",
+              "Use the waiting halls; Martigny can be draughty in winter.",
+              "A day pass for the city bus is especially worth it in cold weather.",
+              "Check for reduced holiday schedules.",
+              "The SBB app also shows train occupancy levels."
+            ]
+          }
+        }
       }
     }
   }

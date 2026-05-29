@@ -343,6 +343,206 @@
           "Start early to avoid the crowds and midday heat in summer.",
           "Keep some cash handy for small purchases at the market."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Vormittags bietet das Hamam von Vranje einen trockenen Start. Der Weg zum Bora-Stanković-Denkmal erfordert einen Schirm, aber die Atmosphäre ist mystisch. Mittags erreichen Sie die Weiße Brücke, wo das Pflaster bei Regen glatt sein kann. Der Nachmittag gehört der Kathedrale und dem Nationalmuseum, beide bieten Schutz vor dem Wetter. Abends ist ein kurzer Spaziergang im Stadtpark trotz Regen erfrischend, bevor man in ein lokales Café einkehrt.",
+            "hu": "A reggeli eső elől a vranjei Hamam falaiba menekülünk. A Bora Stanković emlékműnél csak egy gyors fotóra állunk meg az ernyő alatt. Délben a Fehér híd kövei csúszósak lehetnek, óvatosan haladjunk a Szentháromság-székesegyház felé. A délutánt a múzeumok fedett tereiben töltjük, ahol megismerjük a város irodalmi múltját. Estére a városi park illata az esőben különleges élményt nyújt, majd egy meleg teával zárjuk a napot.",
+            "ro": "Dimineața începe la Hamam, oferind un adăpost istoric împotriva ploii. Drumul spre monumentul lui Bora Stanković necesită o umbrelă solidă. La prânz, Podul Alb are un farmec aparte sub cerul cenușiu, dar pietrele sunt alunecoase. Catedrala și Muzeul Național sunt refugiile perfecte pentru după-amiază, unde puteți explora cultura locală la uscat. Seara, o plimbare scurtă prin parcul orașului încheie ziua înainte de a vă retrage la un restaurant local.",
+            "en": "Morning starts at the Vranje Hamam, providing a historic shelter from the drizzle. The walk to the Bora Stanković Monument requires an umbrella, but the rainy atmosphere is quite poetic. At noon, the White Bridge's stones can be slippery, so watch your step heading to the Cathedral. The afternoon is best spent inside the Bora Stanković House and the National Museum. Evening concludes with a fresh, rain-scented walk through the City Park before dinner."
+          },
+          "stops": [
+            {
+              "name": "Vranje Hamam",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um den ersten Regenschauer trocken zu überstehen.",
+                "hu": "Tökéletes helyszín az első reggeli zápor átvészelésére.",
+                "ro": "Un loc ideal pentru a aștepta trecerea primei averse de dimineață.",
+                "en": "An ideal place to stay dry during the first morning shower."
+              }
+            },
+            {
+              "name": "Bora Stanković Monument",
+              "tip_5lang": {
+                "de": "Halten Sie den Schirm fest, der Platz ist dem Wind ausgesetzt.",
+                "hu": "Fogja szorosan az ernyőt, a tér szeles lehet esőben.",
+                "ro": "Țineți umbrela bine, piața este expusă vântului în timpul ploii.",
+                "en": "Hold your umbrella tight, the square is exposed to wind."
+              }
+            },
+            {
+              "name": "White Bridge",
+              "tip_5lang": {
+                "de": "Vorsicht, die alten Steine werden bei Nässe sehr rutschig.",
+                "hu": "Vigyázat, a régi kövek vizesen nagyon csúszóssá válnak.",
+                "ro": "Atenție, pietrele vechi devin foarte alunecoase când sunt ude.",
+                "en": "Caution, the old stones become very slippery when wet."
+              }
+            },
+            {
+              "name": "Cathedral of the Holy Trinity",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit für eine ausführliche Innenbesichtigung im Trockenen.",
+                "hu": "Használja ki az időt a belső tér alapos, száraz felfedezésére.",
+                "ro": "Folosiți timpul pentru o vizită detaliată a interiorului, la adăpost.",
+                "en": "Use the time for a detailed indoor visit away from the rain."
+              }
+            },
+            {
+              "name": "Bora Stanković House",
+              "tip_5lang": {
+                "de": "Das gemütliche Interieur lässt das schlechte Wetter draußen vergessen.",
+                "hu": "A hangulatos belső tér feledteti a kinti rossz időt.",
+                "ro": "Interiorul primitor vă face să uitați de vremea rea de afară.",
+                "en": "The cozy interior makes you forget the bad weather outside."
+              }
+            },
+            {
+              "name": "National Museum of Vranje",
+              "tip_5lang": {
+                "de": "Hervorragendes Schlechtwetterprogramm mit viel lokaler Geschichte.",
+                "hu": "Kiváló rosszidős program sok helyi történelemmel.",
+                "ro": "Program excelent pentru vreme rea, cu multă istorie locală.",
+                "en": "Excellent rainy-day activity with plenty of local history."
+              }
+            },
+            {
+              "name": "City Park of Vranje",
+              "tip_5lang": {
+                "de": "Die asphaltierten Wege sind auch bei Regen gut begehbar.",
+                "hu": "Az aszfaltozott utak esőben is jól járhatóak.",
+                "ro": "Potecile asfaltate sunt ușor de parcurs chiar și pe ploaie.",
+                "en": "The paved paths are easily walkable even in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für die Kopfsteinpflastergassen.",
+              "Ein stabiler Stockschirm ist bei dem Wind in Vranje besser.",
+              "Planen Sie mehr Zeit für die Museen ein, um Schauer abzuwarten.",
+              "Die Cafés in der Nähe des Museums sind ideale Wartepunkte."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a macskaköves utcákhoz.",
+              "Vranje szeles utcáin a boternyő stabilabb választás.",
+              "Töltsön több időt a múzeumokban a záporok alatt.",
+              "A múzeum környéki kávézók tökéletes pihenőhelyek esőben."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru străzile cu piatră cubică.",
+              "O umbrelă solidă este mai bună din cauza vântului local.",
+              "Alocați mai mult timp muzeelor pentru a evita aversele.",
+              "Cafenelele de lângă muzeu sunt puncte ideale de așteptare."
+            ],
+            "en": [
+              "Wear waterproof shoes for the cobblestone streets.",
+              "A sturdy umbrella is better due to local winds in Vranje.",
+              "Spend extra time in museums to wait out the heavy rain.",
+              "Cafes near the museum are perfect spots to stay dry."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen beginnt am Hamam, wo die dicken Mauern vor dem Wind schützen. Mittags führt der Weg über die Weiße Brücke, die im Schnee zauberhaft aussieht. Der Besuch der Kathedrale bietet einen Moment der Stille und Wärme. Den Nachmittag verbringen wir in den geheizten Räumen des Nationalmuseums und des Stanković-Hauses. Wenn die Sonne gegen 16:30 Uhr untergeht, leuchten die Lichter im Stadtpark besonders schön in der Winterkälte.",
+            "hu": "Fagyos reggel indul a Hamamnál, ahol a vastag falak védenek a metsző széltől. Délben a hóval borított Fehér híd látványa mesébe illő. A Szentháromság-székesegyház nyugalmat és némi enyhülést ad a hidegben. A délutánt a Nemzeti Múzeum fűtött termeiben töltjük, elmerülve a múltban. Amint fél öt körül lemegy a nap, a városi park fényei különleges hangulatot árasztanak a téli szürkületben.",
+            "ro": "O dimineață geroasă începe la Hamam, unde zidurile groase oferă protecție împotriva vântului. La prânz, Podul Alb acoperit de zăpadă arată ca într-un basm. Vizita la Catedrală oferă un moment de liniște și căldură sufletească. După-amiaza este dedicată interiorului încălzit al Muzeului Național și Casei memoriale. După apusul de la ora 16:30, luminile din parcul orașului strălucesc frumos în frigul iernii.",
+            "en": "A frosty morning begins at the Hamam, where thick walls shield you from the winter wind. At noon, the snow-dusted White Bridge looks like a scene from a fairy tale. The Cathedral visit offers a peaceful, warmer respite. Spend the afternoon in the heated rooms of the National Museum and Stanković House. As the sun sets around 4:30 PM, the lights in the City Park glow beautifully in the crisp winter air."
+          },
+          "stops": [
+            {
+              "name": "Vranje Hamam",
+              "tip_5lang": {
+                "de": "Die massiven Mauern halten die Kälte draußen gut ab.",
+                "hu": "A masszív falak jól kint tartják a téli hideget.",
+                "ro": "Zidurile masive țin frigul de afară la distanță.",
+                "en": "The massive walls keep the winter cold at bay."
+              }
+            },
+            {
+              "name": "Bora Stanković Monument",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp, bevor die Kälte in die Glieder zieht.",
+                "hu": "Gyors fotómegálló, mielőtt teljesen átfagyna.",
+                "ro": "Oprire scurtă pentru poze înainte ca frigul să pătrundă.",
+                "en": "Quick photo stop before the cold sets in."
+              }
+            },
+            {
+              "name": "White Bridge",
+              "tip_5lang": {
+                "de": "Vorsicht bei Schnee, das Gefälle der Brücke ist tückisch.",
+                "hu": "Vigyázat hóban, a híd lejtése csalóka és csúszós.",
+                "ro": "Atenție la zăpadă, panta podului poate fi înșelătoare.",
+                "en": "Be careful in snow, the bridge's slope can be tricky."
+              }
+            },
+            {
+              "name": "Cathedral of the Holy Trinity",
+              "tip_5lang": {
+                "de": "Ein Ort der inneren Einkehr und relativen Wärme.",
+                "hu": "A belső elcsendesedés és a relatív meleg helyszíne.",
+                "ro": "Un loc de liniște interioară și căldură relativă.",
+                "en": "A place for inner reflection and relative warmth."
+              }
+            },
+            {
+              "name": "Bora Stanković House",
+              "tip_5lang": {
+                "de": "Genießen Sie die winterliche Atmosphäre im alten Wohnhaus.",
+                "hu": "Élvezze a téli hangulatot a régi lakóházban.",
+                "ro": "Bucurați-vă de atmosfera de iarnă în vechea casă.",
+                "en": "Enjoy the winter atmosphere inside the old residence."
+              }
+            },
+            {
+              "name": "National Museum of Vranje",
+              "tip_5lang": {
+                "de": "Perfekt aufgeheizt, ideal für eine längere Pause.",
+                "hu": "Kellemesen fűtött, ideális egy hosszabb pihenőre.",
+                "ro": "Bine încălzit, ideal pentru o pauză mai lungă.",
+                "en": "Well heated, ideal for a longer indoor break."
+              }
+            },
+            {
+              "name": "City Park of Vranje",
+              "tip_5lang": {
+                "de": "Ab 17 Uhr ist es dunkel, nutzen Sie das letzte Tageslicht.",
+                "hu": "17 óra után sötét van, használja ki az utolsó fényeket.",
+                "ro": "Se întunecă după ora 17, profitați de ultima lumină.",
+                "en": "It gets dark after 5 PM, use the last bit of daylight."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie warme Schichten, der Wind in Vranje ist schneidend.",
+              "Die Sonne geht früh unter, starten Sie pünktlich um 9 Uhr.",
+              "Heißer Tee in der Nähe der Weißen Brücke wärmt auf.",
+              "Vorsicht vor Eisglätte auf den schattigen Gehwegen."
+            ],
+            "hu": [
+              "Öltözzön rétegesen, Vranjéban metsző tud lenni a szél.",
+              "A nap korán nyugszik, érdemes pontosan 9-kor kezdeni.",
+              "A Fehér híd környékén igyon egy forró teát melegítőnek.",
+              "Vigyázzon a jegesedésre az árnyékos járdaszakaszokon."
+            ],
+            "ro": [
+              "Purtați haine stratificate, vântul poate fi tăios în Vranje.",
+              "Soarele apune devreme, începeți traseul fix la ora 9.",
+              "Un ceai fierbinte lângă Podul Alb vă va încălzi rapid.",
+              "Atenție la porțiunile cu gheață de pe trotuarele umbrite."
+            ],
+            "en": [
+              "Dress in layers, the wind in Vranje can be biting.",
+              "Sunset is early, so start promptly at 9 AM.",
+              "Hot tea near the White Bridge is a great way to warm up.",
+              "Watch out for black ice on shaded sidewalk sections."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -680,6 +880,206 @@
           "Some streets may not be bike-friendly; be cautious in traffic.",
           "Always lock your bike securely when you leave it."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regnerisches Radeln in Vranje beginnt im Stadtpark. Der Weg zur Kathedrale und zum Nationalmuseum führt über nasse Straßen, also bremsen Sie vorsichtig. Das Highlight am Mittag ist der Hamam, wo man das Rad kurz unterstellen kann. Der Anstieg nach Markovo Kale ist bei Regen anstrengend und rutschig, belohnt aber mit einer nebligen Aussicht. Den Nachmittag verbringen wir bei der Weißen Brücke und beenden die Tour im Stanković-Haus.",
+            "hu": "Az esős bringázás a városi parkból indul. A székesegyházhoz és a múzeumhoz vezető nedves aszfalton óvatosan fékezzünk. Délben a Hamam épülete mellett rövid időre fedezéket találunk a kerékpárral. A Markovo Kale-hoz vezető emelkedő esőben combos és csúszós, de a ködös panoráma egyedi. A délutánt a Fehér hídnál folytatjuk, majd a Stanković-háznál zárjuk a vizes, de izgalmas napot.",
+            "ro": "O tură cu bicicleta pe ploaie în Vranje începe în parcul orașului. Drumul spre Catedrală și Muzeu necesită frânări prudente pe asfaltul ud. La prânz, Hamamul oferă un scurt moment de răgaz. Urcarea spre Markovo Kale este solicitantă și alunecoasă pe ploaie, dar oferă o priveliște mistică prin ceață. După-amiaza continuă la Podul Alb și se încheie cultural la Casa Stanković.",
+            "en": "Rainy cycling in Vranje kicks off from the City Park. Navigating wet roads to the Cathedral and Museum requires cautious braking. At noon, the Hamam area offers a brief spot to park and dry off. The climb to Markovo Kale is tough and slippery in the rain, but the misty views are rewarding. Spend the afternoon by the White Bridge and conclude the tour at the Stanković House."
+          },
+          "stops": [
+            {
+              "name": "City Park of Vranje",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem nassen Laub auf den Parkwegen.",
+                "hu": "Vigyázzon a nedves falevelekre a park útjain.",
+                "ro": "Atenție la frunzele ude de pe aleile parcului.",
+                "en": "Watch out for wet leaves on the park paths."
+              }
+            },
+            {
+              "name": "Cathedral of the Holy Trinity",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad am Zaun im Schutz der Bäume ab.",
+                "hu": "Támassza le a bringát a kerítéshez a fák védelmében.",
+                "ro": "Parcați bicicleta lângă gard, sub protecția copacilor.",
+                "en": "Park your bike by the fence under the shelter of trees."
+              }
+            },
+            {
+              "name": "National Museum of Vranje",
+              "tip_5lang": {
+                "de": "Ideale Pause, um die Regenkleidung kurz zu lüften.",
+                "hu": "Ideális szünet az esőruházat rövid szárítására.",
+                "ro": "Pauză ideală pentru a vă aerisi echipamentul de ploaie.",
+                "en": "Ideal break to air out your rain gear briefly."
+              }
+            },
+            {
+              "name": "Vranje Hamam",
+              "tip_5lang": {
+                "de": "Das Vordach bietet einen kurzen trockenen Stellplatz.",
+                "hu": "Az előtető rövid ideig száraz helyet biztosít a gépnek.",
+                "ro": "Copertina oferă un loc uscat pentru parcare scurtă.",
+                "en": "The overhang provides a brief dry spot to park."
+              }
+            },
+            {
+              "name": "Markovo Kale",
+              "tip_5lang": {
+                "de": "Der Anstieg ist steil und bei Nässe sehr rutschig.",
+                "hu": "Az emelkedő meredek és vizesen nagyon csúszik.",
+                "ro": "Urcarea este abruptă și foarte alunecoasă pe ud.",
+                "en": "The climb is steep and very slippery when wet."
+              }
+            },
+            {
+              "name": "White Bridge",
+              "tip_5lang": {
+                "de": "Fahren Sie nicht über die Brücke, schieben Sie lieber.",
+                "hu": "Ne hajtson át a hídon, inkább tolja a kerékpárt.",
+                "ro": "Nu traversați pe bicicletă, mai bine mergeți pe lângă ea.",
+                "en": "Do not ride across the bridge; it is safer to push."
+              }
+            },
+            {
+              "name": "Bora Stanković House",
+              "tip_5lang": {
+                "de": "Ein kultureller Abschluss im Trockenen.",
+                "hu": "Kulturális zárás a száraz belső térben.",
+                "ro": "Un final cultural la adăpost de ploaie.",
+                "en": "A cultural conclusion in the dry indoors."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Verwenden Sie Schutzbleche, um den Schmutz von der Straße fernzuhalten.",
+              "Tragen Sie eine neongelbe Regenjacke für bessere Sichtbarkeit.",
+              "Prüfen Sie Ihre Bremsen vor dem Abstieg von Markovo Kale.",
+              "Vermeiden Sie Pfützen, sie könnten tiefe Schlaglöcher verbergen."
+            ],
+            "hu": [
+              "Használjon sárvédőt az utcai felverődések ellen.",
+              "Viseljen neon esőkabátot a jobb láthatóságért.",
+              "Ellenőrizze a fékeket a Markovo Kale-ról való leereszkedés előtt.",
+              "Kerülje a tócsákat, mély kátyúkat rejthetnek."
+            ],
+            "ro": [
+              "Folosiți apărători pentru a evita stropirea cu noroi.",
+              "Purtați o pelerină reflectorizantă pentru vizibilitate sporită.",
+              "Verificați frânele înainte de coborârea de la Markovo Kale.",
+              "Evitați bălțile, pot ascunde gropi adânci."
+            ],
+            "en": [
+              "Use mudguards to keep road spray off your back.",
+              "Wear a neon rain jacket for better visibility to cars.",
+              "Check your brakes before the descent from Markovo Kale.",
+              "Avoid puddles as they might hide deep potholes."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Radtour startet frisch im Stadtpark. Der Weg zur Kathedrale und zum Museum erfordert wegen möglicher Eisstellen volle Konzentration. Mittags wärmen wir uns kurz am Hamam auf, bevor die größte Herausforderung ansteht: der Anstieg nach Markovo Kale in der kalten Winterluft. Die Aussicht über das verschneite Vranje ist jedoch jede Anstrengung wert. Nachmittags rollen wir vorsichtig zur Weißen Brücke und beenden die Tour gemütlich beim Stanković-Haus.",
+            "hu": "A téli bringatúra frissen indul a városi parkban. A székesegyházhoz vezető úton a jeges foltok miatt teljes koncentráció szükséges. Délben a Hamamnál melegszünk kicsit, mielőtt nekivágnánk a legnagyobb kihívásnak: a Markovo Kale-hoz vezető téli emelkedőnek. A havas Vranje látványa azonban minden izzadságcseppet megér. Délután óvatosan gurulunk le a Fehér hídhoz, majd a Stanković-háznál zárjuk a napot.",
+            "ro": "Turul cu bicicleta de iarnă începe revigorant în parcul orașului. Drumul spre Catedrală necesită concentrare maximă din cauza poleiului. La prânz ne încălzim scurt la Hamam înainte de marea provocare: urcarea spre Markovo Kale în aerul tăios de iarnă. Priveliștea peste Vranje înzăpezit merită tot efortul. După-amiaza coborâm cu grijă spre Podul Alb și încheiem turul la Casa memorială.",
+            "en": "The winter bike tour starts with a crisp ride through the City Park. Getting to the Cathedral and Museum requires full focus on potential icy patches. At noon, warm up briefly at the Hamam before the main challenge: the climb to Markovo Kale in the cold winter air. The snow-covered view of Vranje is worth the effort. Afternoon involves a careful roll to the White Bridge, ending at the Stanković House."
+          },
+          "stops": [
+            {
+              "name": "City Park of Vranje",
+              "tip_5lang": {
+                "de": "Achten Sie auf gefrorene Pfützen auf den Wegen.",
+                "hu": "Ügyeljen a befagyott tócsákra az utakon.",
+                "ro": "Fiți atenți la bălțile înghețate de pe alei.",
+                "en": "Watch out for frozen puddles on the paths."
+              }
+            },
+            {
+              "name": "Cathedral of the Holy Trinity",
+              "tip_5lang": {
+                "de": "Vorsicht beim Absteigen, der Boden kann glatt sein.",
+                "hu": "Vigyázzon a leszállásnál, a talaj síkos lehet.",
+                "ro": "Atenție la descălecare, solul poate fi alunecos.",
+                "en": "Be careful when dismounting; the ground can be slick."
+              }
+            },
+            {
+              "name": "National Museum of Vranje",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp, um die Finger wieder aufzuwärmen.",
+                "hu": "Használja ki a megállót az ujjai átmelegítésére.",
+                "ro": "Profită de oprire pentru a-ți reîncălzi degetele.",
+                "en": "Use the stop to warm up your fingers again."
+              }
+            },
+            {
+              "name": "Vranje Hamam",
+              "tip_5lang": {
+                "de": "Ein kurzer Moment im Windschatten der alten Mauern.",
+                "hu": "Egy rövid pillanat a régi falak szélárnyékában.",
+                "ro": "Un moment scurt la adăpostul zidurilor vechi.",
+                "en": "A brief moment in the windbreak of the old walls."
+              }
+            },
+            {
+              "name": "Markovo Kale",
+              "tip_5lang": {
+                "de": "Die Abfahrt bei Kälte lässt den Fahrtwind eisig werden.",
+                "hu": "A hidegben való leereszkedésnél a menetszél jeges.",
+                "ro": "La coborâre, curentul de aer devine extrem de rece.",
+                "en": "The wind chill on the descent can be freezing."
+              }
+            },
+            {
+              "name": "White Bridge",
+              "tip_5lang": {
+                "de": "Die Steine halten den Frost sehr lange, Rutschgefahr!",
+                "hu": "A kövek sokáig tartják a fagyot, csúszásveszély!",
+                "ro": "Pietrele rețin înghețul mult timp, pericol de alunecare!",
+                "en": "The stones hold frost for a long time; slip hazard!"
+              }
+            },
+            {
+              "name": "Bora Stanković House",
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihre Kette gut geölt ist.",
+                "hu": "Győződjön meg róla, hogy a lánc jól olajozott a sós utak után.",
+                "ro": "Asigurați-vă că lanțul este bine uns după drumurile cu sare.",
+                "en": "Ensure your chain is well-lubricated after salty roads."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Handschuhe und Überschuhe.",
+              "Verringern Sie den Reifendruck leicht für mehr Grip auf Schnee.",
+              "Salz auf den Straßen kann den Antrieb angreifen, nach der Tour reinigen.",
+              "Licht ist im Winter auch tagsüber wichtig."
+            ],
+            "hu": [
+              "Viseljen szélálló kesztyűt és kamáslit.",
+              "Csökkentse kissé a guminyomást a jobb tapadásért a havon.",
+              "Az utak sózása marhatja a hajtást, túra után tisztítsa le.",
+              "Télen nappal is fontos a bekapcsolt világítás."
+            ],
+            "ro": [
+              "Purtați mănuși rezistente la vânt și protecții pentru pantofi.",
+              "Reduceți puțin presiunea din pneuri pentru aderență pe zăpadă.",
+              "Sarea de pe drumuri poate afecta transmisia, curățați-o după tur.",
+              "Luminile sunt importante iarna chiar și în timpul zilei."
+            ],
+            "en": [
+              "Wear windproof gloves and shoe covers.",
+              "Slightly lower your tire pressure for better grip on snow.",
+              "Road salt can corrode the drivetrain; clean it after the tour.",
+              "Lights are essential in winter even during the daytime."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1012,6 +1412,188 @@
           "The road to Markovo Kale can be narrow; drive carefully.",
           "A GPS or navigation app is essential for exploring the surrounding area."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regnerische Fahrt zum Markovo Kale, wo man direkt am Fuß parken kann. Zurück im Zentrum nutzen wir das Parkhaus, um trocken zur Kathedrale und zum Nationalmuseum zu gelangen. Mittags bewundern wir die Weiße Brücke kurz im Regen, bevor wir den Nachmittag entspannt im Vranjska Banja Spa verbringen – die perfekte Antwort auf graues Wetter. Das warme Wasser lässt den Regen draußen vergessen und bietet maximale Entspannung.",
+            "hu": "Esős autózás a Markovo Kale-hoz, ahol közvetlenül a vár alatt parkolhatunk. A központba érve a parkolóházat választjuk, hogy szárazon jussunk el a székesegyházhoz és a múzeumhoz. Délben a Fehér hídnál teszünk egy rövid, esernyős kitérőt, majd a délutánt a Vranjska Banja gyógyfürdőben töltjük – ez a legjobb válasz a szürke időre. A meleg vízben pihenve teljesen elfelejtjük a kinti esőt.",
+            "ro": "O călătorie pe ploaie spre Markovo Kale, unde puteți parca chiar la bază. Revenind în centru, folosim parcarea pentru a ajunge uscați la Catedrală și Muzeu. La prânz admirăm scurt Podul Alb pe ploaie, înainte de a petrece după-amiaza relaxați la Vranjska Banja Spa – soluția perfectă pentru vremea gri. Apa caldă vă va face să uitați complet de ploaia de afară.",
+            "en": "A rainy drive to Markovo Kale, where you can park right at the base. Back in the center, use the parking garage to reach the Cathedral and National Museum staying dry. At noon, admire the White Bridge briefly under an umbrella before spending a relaxed afternoon at Vranjska Banja Spa – the ultimate answer to gray weather. The warm water makes you forget the rain outside."
+          },
+          "stops": [
+            {
+              "name": "Markovo Kale",
+              "tip_5lang": {
+                "de": "Parken Sie vorsichtig, die unbefestigten Ränder sind aufgeweicht.",
+                "hu": "Parkoljon óvatosan, a burkolatlan padka felázott.",
+                "ro": "Parcați cu atenție, marginile neasfaltate sunt noroioase.",
+                "en": "Park carefully; the unpaved edges are softened by rain."
+              }
+            },
+            {
+              "name": "City Center Parking",
+              "tip_5lang": {
+                "de": "Ein überdachter Stellplatz spart das hantieren mit dem Schirm.",
+                "hu": "A fedett parkolóhely megkíméli az ernyővel való bajlódástól.",
+                "ro": "Un loc de parcare acoperit vă scutește de grija umbrelei.",
+                "en": "An indoor parking spot saves you from juggling an umbrella."
+              }
+            },
+            {
+              "name": "Cathedral of the Holy Trinity",
+              "tip_5lang": {
+                "de": "Lassen Sie den Schirm im Auto, wenn Sie nah parken.",
+                "hu": "Hagyja az ernyőt a kocsiban, ha közel tud parkolni.",
+                "ro": "Lăsați umbrela în mașină dacă reușiți să parcați aproape.",
+                "en": "Leave the umbrella in the car if you manage to park close by."
+              }
+            },
+            {
+              "name": "National Museum of Vranje",
+              "tip_5lang": {
+                "de": "Perfekt für eine lange Pause vom Autofahren im Regen.",
+                "hu": "Tökéletes egy hosszú szünetre az esős vezetés után.",
+                "ro": "Perfect pentru o pauză lungă de la condus pe ploaie.",
+                "en": "Perfect for a long break from driving in the rain."
+              }
+            },
+            {
+              "name": "White Bridge",
+              "tip_5lang": {
+                "de": "Kurzer Stopp direkt an der Straße möglich.",
+                "hu": "Rövid megálló közvetlenül az út mellett lehetséges.",
+                "ro": "Oprire scurtă posibilă direct lângă drum.",
+                "en": "Quick stop possible right by the side of the road."
+              }
+            },
+            {
+              "name": "Vranjska Banja Spa",
+              "tip_5lang": {
+                "de": "Beste Wahl bei Regen, Innenbecken sind vorhanden.",
+                "hu": "Legjobb választás esőben, beltéri medencék állnak rendelkezésre.",
+                "ro": "Cea mai bună alegere pe ploaie, există bazine interioare.",
+                "en": "Best choice for rain; indoor pools are available."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Ihre Scheibenwischer in gutem Zustand sind.",
+              "Die Sicht auf der Straße nach Vranjska Banja kann bei Regen eingeschränkt sein.",
+              "Nutzen Sie das Parkhaus im Zentrum, um trocken zu bleiben.",
+              "Halten Sie Abstand, Bremswege auf nassem Asphalt sind länger."
+            ],
+            "hu": [
+              "Ellenőrizze, hogy az ablaktörlők jó állapotban vannak-e.",
+              "A Vranjska Banja felé vezető úton esőben romolhatnak a látási viszonyok.",
+              "Használja a központi parkolóházat a száraz közlekedéshez.",
+              "Tartson nagyobb követési távolságot a nedves aszfalton."
+            ],
+            "ro": [
+              "Asigurați-vă că ștergătoarele sunt în stare bună.",
+              "Vizibilitatea spre Vranjska Banja poate fi redusă pe ploaie.",
+              "Folosiți parcarea etajată din centru pentru a rămâne uscați.",
+              "Păstrați distanța, frânarea pe asfalt ud necesită mai mult timp."
+            ],
+            "en": [
+              "Make sure your windshield wipers are in top condition.",
+              "Visibility on the road to Vranjska Banja can be low in rain.",
+              "Use the central parking garage to stay dry between stops.",
+              "Keep your distance; braking on wet asphalt takes longer."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterfahrt zum Markovo Kale – prüfen Sie die Straßenbedingungen vor dem Anstieg. Die Aussicht auf die schneebedeckten Berge ist vom Auto aus spektakulär. Im Zentrum nutzen wir das Parkhaus und besuchen die Kathedrale und das Museum. Die Weiße Brücke ist im Winter ein schneller, aber schöner Fotostopp. Den krönenden Abschluss bildet das Vranjska Banja Spa, wo die heißen Quellen im Kontrast zur eisigen Winterluft ein unvergessliches Erlebnis bieten.",
+            "hu": "Téli autózás a Markovo Kale-hoz – az emelkedő előtt ellenőrizze az útviszonyokat. A havas hegyek látványa az autóból is lenyűgöző. A központban a parkolóház kényelmét élvezzük a székesegyház és a múzeum látogatása alatt. A Fehér híd télen gyors, de gyönyörű fotómegálló. A nap fénypontja a Vranjska Banja gyógyfürdő, ahol a forró források kontrasztja a jeges téli levegővel felejthetetlen élmény.",
+            "ro": "Călătorie de iarnă spre Markovo Kale – verificați starea drumului înainte de urcare. Munții înzăpeziți se văd spectaculos din mașină. În centru, folosim parcarea și vizităm Catedrala și Muzeul. Podul Alb este o oprire foto rapidă, dar superbă iarna. Finalul perfect este la Vranjska Banja Spa, unde apele termale fierbinți oferă un contrast de neuitat cu aerul înghețat de iarnă.",
+            "en": "Winter drive to Markovo Kale – check road conditions before the climb. The view of the snow-capped mountains from the car is spectacular. In the center, use the parking garage while visiting the Cathedral and Museum. The White Bridge is a quick but beautiful photo stop in winter. The highlight is Vranjska Banja Spa, where the hot springs contrast with the freezing winter air for a memorable experience."
+          },
+          "stops": [
+            {
+              "name": "Markovo Kale",
+              "tip_5lang": {
+                "de": "Vorsicht vor Vereisung auf der schmalen Zufahrtsstraße.",
+                "hu": "Vigyázzon a jegesedésre a keskeny bekötőúton.",
+                "ro": "Atenție la porțiunile cu gheață pe drumul îngust de acces.",
+                "en": "Watch out for black ice on the narrow access road."
+              }
+            },
+            {
+              "name": "City Center Parking",
+              "tip_5lang": {
+                "de": "Ein geschützter Parkplatz verhindert das Einfrieren der Scheiben.",
+                "hu": "A védett parkolóhely megakadályozza a szélvédő lefagyását.",
+                "ro": "O parcare protejată previne înghețarea parbrizului.",
+                "en": "A sheltered parking spot prevents windshield icing."
+              }
+            },
+            {
+              "name": "Cathedral of the Holy Trinity",
+              "tip_5lang": {
+                "de": "Nur wenige Schritte vom Parkplatz entfernt.",
+                "hu": "Csak pár lépésre található a parkolótól.",
+                "ro": "La doar câțiva pași distanță de parcare.",
+                "en": "Only a few steps away from the parking area."
+              }
+            },
+            {
+              "name": "National Museum of Vranje",
+              "tip_5lang": {
+                "de": "Ideal zum Aufwärmen zwischen den Fahrten.",
+                "hu": "Ideális felmelegedni a vezetések között.",
+                "ro": "Ideal pentru a vă încălzi între etapele de condus.",
+                "en": "Ideal for warming up between driving stints."
+              }
+            },
+            {
+              "name": "White Bridge",
+              "tip_5lang": {
+                "de": "Der Parkplatz direkt daneben kann verschneit sein.",
+                "hu": "A közvetlen mellette lévő parkoló havas lehet.",
+                "ro": "Parcarea de lângă pod poate fi acoperită de zăpadă.",
+                "en": "The parking spot right next to it might be snowy."
+              }
+            },
+            {
+              "name": "Vranjska Banja Spa",
+              "tip_5lang": {
+                "de": "Ein Highlight im Winter, die heißen Quellen dampfen.",
+                "hu": "Téli fénypont, a forró források látványosan gőzölögnek.",
+                "ro": "O experiență de iarnă inedită, izvoarele fierbinți scot aburi.",
+                "en": "A winter highlight; the hot springs steam beautifully."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen und Schneeketten sind in dieser Region Pflicht.",
+              "Prüfen Sie den Frostschutz in Ihrer Scheibenwaschanlage.",
+              "Die Fahrt nach Vranjska Banja kann bei Schneefall länger dauern.",
+              "Batteriecheck vor der Tour ist bei extremer Kälte ratsam."
+            ],
+            "hu": [
+              "A téli gumi és a hólánc kötelező ebben a régióban.",
+              "Ellenőrizze a fagyállót a szélvédőmosóban.",
+              "A Vranjska Banja felé vezető út havazásban hosszabb ideig tarthat.",
+              "Extrém hidegben érdemes ellenőrizni az akkumulátort túra előtt."
+            ],
+            "ro": [
+              "Anvelopele de iarnă și lanțurile sunt obligatorii în această regiune.",
+              "Verificați lichidul de parbriz antigel înainte de plecare.",
+              "Drumul spre Vranjska Banja poate dura mai mult dacă ninge.",
+              "Un control al bateriei este recomandat în caz de ger extrem."
+            ],
+            "en": [
+              "Winter tires and snow chains are mandatory in this region.",
+              "Check the antifreeze level in your windshield washer fluid.",
+              "The drive to Vranjska Banja may take longer during snowfall.",
+              "A battery check before the tour is wise in extreme cold."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1338,6 +1920,188 @@
           "Buses can be crowded during peak hours; be patient.",
           "Ask locals for the right bus line; they are usually very helpful."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Vom Busbahnhof starten wir trocken in den Tag. Kurze Sprints zwischen den Haltestellen bringen uns zum Hamam und zur Kathedrale. Das Nationalmuseum ist der perfekte Ort, um den stärksten Regen am Mittag auszusitzen. Zur Bushaltestelle für Markovo Kale nehmen wir den Schirm mit. Der Anstieg zur Festung ist kurz, aber nass. Die neblige Aussicht ist ein tolles Fotomotiv, bevor wir mit dem nächsten Bus zurückfahren.",
+            "hu": "A buszpályaudvarról indulva szárazon kezdjük a napot. A megállók közötti rövid sprintekkel jutunk el a Hamamhoz és a székesegyházhoz. A Nemzeti Múzeum tökéletes hely a déli nagy eső kivárására. A Markovo Kale-hoz tartó buszmegállóig szükség lesz az ernyőre. A várhoz vezető séta rövid, de vizes. A ködös panoráma remek fotótéma, mielőtt a következő busszal visszatérnénk.",
+            "ro": "Începem ziua la autogară, feriți de ploaie. Scurte reprize de mers între stații ne duc la Hamam și Catedrală. Muzeul Național este locul perfect pentru a aștepta trecerea ploii torențiale de la prânz. Spre stația pentru Markovo Kale veți avea nevoie de umbrelă. Urcarea spre cetate este scurtă, dar umedă. Vederea prin ceață este un motiv foto excelent înainte de întoarcerea cu următorul autobuz.",
+            "en": "Starting dry at the Central Bus Station. Short dashes between bus stops get us to the Hamam and Cathedral. The National Museum is the perfect spot to wait out the heaviest noon rain. You'll need an umbrella for the walk to the Markovo Kale bus stop. The ascent to the fortress is short but wet; the misty views make for great photos before taking the next bus back."
+          },
+          "stops": [
+            {
+              "name": "Central Bus Station",
+              "tip_5lang": {
+                "de": "Die Wartehalle ist überdacht und windgeschützt.",
+                "hu": "A váróterem fedett és szélvédett.",
+                "ro": "Sala de așteptare este acoperită și protejată de vânt.",
+                "en": "The waiting area is covered and shielded from the wind."
+              }
+            },
+            {
+              "name": "Vranje Hamam",
+              "tip_5lang": {
+                "de": "Nur 5 Minuten Fußweg von der nächsten Haltestelle.",
+                "hu": "Csak 5 perc séta a legközelebbi megállótól.",
+                "ro": "Doar 5 minute de mers pe jos de la cea mai apropiată stație.",
+                "en": "Only a 5-minute walk from the nearest bus stop."
+              }
+            },
+            {
+              "name": "Cathedral of the Holy Trinity",
+              "tip_5lang": {
+                "de": "Gute Busanbindung direkt in der Nähe.",
+                "hu": "Jó buszközlekedés közvetlenül a közelben.",
+                "ro": "Conexiuni bune de autobuz chiar în apropiere.",
+                "en": "Good bus connections located directly nearby."
+              }
+            },
+            {
+              "name": "National Museum of Vranje",
+              "tip_5lang": {
+                "de": "Idealer Ort, um die Fahrpläne im Trockenen zu studieren.",
+                "hu": "Ideális hely a menetrendek szárazon való tanulmányozására.",
+                "ro": "Loc ideal pentru a studia mersul autobuzelor la adăpost.",
+                "en": "Ideal place to study bus schedules while staying dry."
+              }
+            },
+            {
+              "name": "Bus Stop for Markovo Kale",
+              "tip_5lang": {
+                "de": "Wenig Unterstand, halten Sie den Schirm bereit.",
+                "hu": "Kevés a védett hely, tartsa készenlétben az ernyőt.",
+                "ro": "Puține locuri acoperite, țineți umbrela la îndemână.",
+                "en": "Limited shelter here; keep your umbrella ready."
+              }
+            },
+            {
+              "name": "Markovo Kale",
+              "tip_5lang": {
+                "de": "Achten Sie auf die Rückfahrzeiten, um nicht im Regen zu warten.",
+                "hu": "Figyeljen a visszaindulásra, hogy ne kelljen esőben várnia.",
+                "ro": "Verificați orele de retur pentru a nu aștepta în ploaie.",
+                "en": "Check return times to avoid waiting in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie Fahrkarten im Voraus, um Wartezeiten im Freien zu vermeiden.",
+              "Die 'Vranje Bus' App hilft bei Echtzeit-Informationen.",
+              "Nutzen Sie die Wartehallen der größeren Stationen.",
+              "Ein kleiner Taschenschirm ist im Bus praktischer."
+            ],
+            "hu": [
+              "Vegye meg előre a jegyeket, hogy ne kelljen kint várnia.",
+              "A 'Vranje Bus' alkalmazás segít a valós idejű infókban.",
+              "Használja a nagyobb megállók várótermeit.",
+              "A buszon egy kis összecsukható ernyő praktikusabb."
+            ],
+            "ro": [
+              "Cumpărați biletele în avans pentru a nu aștepta afară.",
+              "Aplicația 'Vranje Bus' oferă informații în timp real.",
+              "Folosiți sălile de așteptare din stațiile principale.",
+              "O umbrelă pliabilă mică este mai practică în autobuz."
+            ],
+            "en": [
+              "Buy tickets in advance to avoid waiting outside.",
+              "The 'Vranje Bus' app helps with real-time information.",
+              "Make use of the waiting rooms at larger stations.",
+              "A small foldable umbrella is more practical on the bus."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Start am Busbahnhof, ziehen Sie sich warm an für die Wartezeiten. Die Busfahrt bietet einen beheizten Rückzugsort zwischen Hamam und Kathedrale. Das Nationalmuseum ist im Winter ein Muss für eine längere Pause in der Wärme. Die Fahrt zum Markovo Kale führt durch eine verschneite Landschaft. Nach dem kurzen Aufstieg zur Festung wärmen wir uns im Bus auf der Rückfahrt wieder auf. Achten Sie auf die frühen Rückfahrzeiten vor Einbruch der Dunkelheit.",
+            "hu": "Fagyos kezdés a buszpályaudvaron, öltözzön melegen a várakozáshoz. A buszozás fűtött menedéket nyújt a Hamam és a székesegyház között. A Nemzeti Múzeum télen kötelező megálló a hosszabb, meleg szünethez. A Markovo Kale-hoz vezető út havas tájon át visz. A várhoz tett rövid séta után a visszautat a busz melegében töltjük. Figyeljen a korai sötétedésre és az utolsó járatokra.",
+            "ro": "Un început geros la autogară, îmbrăcați-vă bine pentru timpii de așteptare. Călătoria cu autobuzul oferă un refugiu încălzit între Hamam și Catedrală. Muzeul Național este obligatoriu iarna pentru o pauză lungă la căldură. Drumul spre Markovo Kale trece prin peisaje de iarnă superbe. După scurta urcare la cetate, ne încălzim în autobuzul de întoarcere. Atenție la lăsarea serii, care vine devreme.",
+            "en": "A frosty start at the bus station; dress warmly for the waiting periods. The bus ride offers a heated refuge between the Hamam and Cathedral. The National Museum is a winter must for a long break in the warmth. The trip to Markovo Kale passes through beautiful snowy landscapes. After the short climb to the fortress, warm up on the bus ride back. Be mindful of the early sunset and last bus times."
+          },
+          "stops": [
+            {
+              "name": "Central Bus Station",
+              "tip_5lang": {
+                "de": "Holen Sie sich einen heißen Kaffee am Kiosk.",
+                "hu": "Vegyél egy forró kávét a büfénél.",
+                "ro": "Luați o cafea fierbinte de la chioșc.",
+                "en": "Grab a hot coffee at the kiosk while waiting."
+              }
+            },
+            {
+              "name": "Vranje Hamam",
+              "tip_5lang": {
+                "de": "Die Busse sind im Winter meist gut beheizt.",
+                "hu": "A buszok télen általában jól fűtöttek.",
+                "ro": "Autobuzele sunt de obicei bine încălzite iarna.",
+                "en": "Buses are usually well-heated during winter."
+              }
+            },
+            {
+              "name": "Cathedral of the Holy Trinity",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist dem Wind oft schutzlos ausgeliefert.",
+                "hu": "A megálló gyakran védtelen a széllel szemben.",
+                "ro": "Stația este adesea expusă vântului rece.",
+                "en": "The stop is often exposed to the cold wind."
+              }
+            },
+            {
+              "name": "National Museum of Vranje",
+              "tip_5lang": {
+                "de": "Hervorragende Heizung, perfekt zum Auftauen.",
+                "hu": "Kiváló fűtés, tökéletes a felengedéshez.",
+                "ro": "Încălzire excelentă, perfect pentru a vă dezgheța.",
+                "en": "Excellent heating inside, perfect for thawing out."
+              }
+            },
+            {
+              "name": "Bus Stop for Markovo Kale",
+              "tip_5lang": {
+                "de": "In der Kälte können Busse leichte Verspätungen haben.",
+                "hu": "A nagy hidegben a buszok kisebb késéssel járhatnak.",
+                "ro": "Autobuzele pot avea întârzieri ușoare din cauza gerului.",
+                "en": "Buses may have slight delays in extreme cold."
+              }
+            },
+            {
+              "name": "Markovo Kale",
+              "tip_5lang": {
+                "de": "Laufen Sie sich beim Aufstieg warm, oben zieht es.",
+                "hu": "Sétáljon tempósan felfelé, fent fúj a szél.",
+                "ro": "Mergeți vioi la urcare, sus vântul este puternic.",
+                "en": "Walk briskly on the way up; it is windy at the top."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Planen Sie Pufferzeiten ein, Schnee kann den Verkehr bremsen.",
+              "Halten Sie Kleingeld für den Busfahrer bereit, um Zeit zu sparen.",
+              "Nutzen Sie die Zeit im Bus zum Aufwärmen der Füße.",
+              "Die letzte Rückfahrt von Markovo Kale ist im Winter früher."
+            ],
+            "hu": [
+              "Számoljon ráhagyással, a hó lassíthatja a közlekedést.",
+              "Készítsen ki aprót a buszjegyre az időmegtakarításért.",
+              "Használja ki a buszon töltött időt a lábai felmelegítésére.",
+              "A Markovo Kale-tól induló utolsó járat télen korábban indul."
+            ],
+            "ro": [
+              "Alocați timp suplimentar, zăpada poate încetini traficul.",
+              "Pregătiți mărunt pentru biletul de autobuz pentru a câștiga timp.",
+              "Folosiți timpul din autobuz pentru a vă încălzi picioarele.",
+              "Ultimul autobuz de la Markovo Kale pleacă mai devreme iarna."
+            ],
+            "en": [
+              "Allow extra time as snow can slow down transit.",
+              "Have small change ready for the driver to save time.",
+              "Use the time on the bus to warm up your feet.",
+              "The last return trip from Markovo Kale is earlier in winter."
+            ]
+          }
+        }
       }
     }
   }

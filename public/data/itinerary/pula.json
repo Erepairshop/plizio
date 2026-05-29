@@ -335,6 +335,206 @@
           "The Arena is beautifully illuminated at night.",
           "Buy truffle products in sealed jars."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet das Amphitheater Schutz in seinen unterirdischen Gängen. Mittags erkunden wir das Archäologische Museum, ideal bei Regen. Nachmittags suchen wir die Cafés am Forum auf, während der Regen auf das antike Pflaster prasselt. Den Tag lassen wir in den Ausstellungsräumen der Festung Kastel ausklingen, die einen trockenen Zufluchtsort mit historischem Flair bieten.",
+            "hu": "Reggel az Aréna föld alatti kiállításai nyújtanak menedéket az eső elől. Délben az Isztriai Régészeti Múzeum belső tereiben kalandozunk. Délután a Fórum árkádjai alatt kávézunk, figyelve az eső áztatta ókori köveket. A napot a Kastel várfalai között zárjuk, ahol a Történeti Múzeum beltéri tárlatai és a tengeri vihar látványa vár minket.",
+            "ro": "Dimineața, galeriile subterane ale Arenei oferă adăpost împotriva ploii. La prânz, explorăm Muzeul de Arheologie, un refugiu cultural perfect. După-amiaza ne relaxăm la o cafenea în Forum, privind ploaia pe templele antice. Încheiem ziua în interiorul fortăreței Kastel, unde expozițiile muzeului istoric ne țin la adăpost în timp ce admirăm marea agitată.",
+            "en": "Morning finds us in the Arena's underground passages, safe from the rain. At noon, the Archaeological Museum provides a dry cultural escape. In the afternoon, we retreat to the cafes of the Forum to watch the rain on the ancient stones. We end the day inside the Kastel fortress, exploring the indoor museum exhibits while staying warm and dry."
+          },
+          "stops": [
+            {
+              "name": "Pula Arena",
+              "tip_5lang": {
+                "de": "Besuchen Sie die unterirdische Ausstellung zur Olivenölproduktion, um trocken zu bleiben.",
+                "hu": "Látogass el a föld alatti olívaolaj-kiállításra, ott garantáltan nem ázol meg.",
+                "ro": "Vizitează expoziția subterană despre producția de ulei de măsline pentru a rămâne uscat.",
+                "en": "Visit the underground exhibition on olive oil production to stay dry and sheltered."
+              }
+            },
+            {
+              "name": "Twin Gates",
+              "tip_5lang": {
+                "de": "Ein kurzes Foto unter dem Regenschirm; die Steine können bei Nässe rutschig sein.",
+                "hu": "Gyors fotó az esernyő alatt; a kövek nedvesen csúszósak lehetnek.",
+                "ro": "O fotografie rapidă sub umbrelă; pietrele pot fi alunecoase când sunt ude.",
+                "en": "A quick photo under the umbrella; the stones can be slippery when wet."
+              }
+            },
+            {
+              "name": "Archaeological Museum of Istria",
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um einen heftigen Regenschauer bei antiker Kunst abzuwarten.",
+                "hu": "Tökéletes helyszín egy nagyobb zápor átvészelésére az antik művészetek társaságában.",
+                "ro": "Locul perfect pentru a aștepta trecerea unei ploi torențiale printre artefacte antice.",
+                "en": "The perfect place to wait out a heavy downpour surrounded by ancient art."
+              }
+            },
+            {
+              "name": "Hercules Gate",
+              "tip_5lang": {
+                "de": "Kurzer Stopp; achten Sie auf Pfützen in den engen Gassen der Altstadt.",
+                "hu": "Rövid megálló; ügyelj a tócsákra az óváros szűk, lejtős utcáin.",
+                "ro": "Oprire scurtă; atenție la bălți pe străzile înguste ale orașului vechi.",
+                "en": "Short stop; watch out for puddles in the narrow streets of the old town."
+              }
+            },
+            {
+              "name": "Arch of the Sergii",
+              "tip_5lang": {
+                "de": "Die nahen Geschäfte bieten gute Möglichkeiten, sich kurz unterzustellen.",
+                "hu": "A közeli üzletek és árkádok jó lehetőséget kínálnak egy kis fedezékre.",
+                "ro": "Magazinele din apropiere oferă opțiuni bune pentru a te adăposti scurt timp.",
+                "en": "Nearby shops and arcades offer good options for a quick temporary shelter."
+              }
+            },
+            {
+              "name": "Forum & Temple of Augustus",
+              "tip_5lang": {
+                "de": "Genießen Sie einen Kaffee in den Arkaden mit Blick auf den nassen Tempel.",
+                "hu": "Igyál meg egy kávét az árkádok alatt, élvezve a vizes templom látványát.",
+                "ro": "Savurează o cafea sub arcade, admirând templul sub ploaie.",
+                "en": "Enjoy a coffee under the arcades with a view of the rain-drenched temple."
+              }
+            },
+            {
+              "name": "Kastel Fortress",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Innenbereich des Historischen Museums, um den Tag trocken zu beenden.",
+                "hu": "Használd ki a Történeti Múzeum belső tereit, hogy szárazon fejezd be a napot.",
+                "ro": "Folosește interiorul Muzeului de Istorie pentru a încheia ziua la adăpost.",
+                "en": "Utilize the indoor areas of the Historical Museum to end the day dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da das antike Pflaster sehr glatt wird.",
+              "Das Forum bietet die beste Dichte an Cafés mit überdachten Außenplätzen.",
+              "Die Arena hat einen großen unterirdischen Bereich, der komplett regengeschützt ist.",
+              "Museen in Pula sind montags oft geschlossen, prüfen Sie die Zeiten vorab."
+            ],
+            "hu": [
+              "Viselj vízálló cipőt, mert az ókori kövezett burkolat nagyon csúszóssá válik.",
+              "A Fórum környékén sok a fedett teraszos kávézó, ahol megpihenhetsz.",
+              "Az Aréna alagsora teljesen esővédett és izgalmas kiállítást rejt.",
+              "Esőben a városnézés lassabb, kalkulálj több időt a beltéri múzeumokra."
+            ],
+            "ro": [
+              "Poartă încălțăminte impermeabilă, pavajul vechi devine extrem de alunecos.",
+              "Forumul are cea mai mare densitate de cafenele cu terase acoperite.",
+              "Subsolul Arenei este complet protejat de ploaie și găzduiește o expoziție.",
+              "Muzeele sunt refugiul ideal; verifică programul de funcționare în prealabil."
+            ],
+            "en": [
+              "Wear waterproof shoes as the ancient stone pavement becomes very slippery.",
+              "The Forum offers the best density of cafes with covered outdoor seating.",
+              "The Arena's basement is completely rain-proof and holds a great exhibit.",
+              "Pula's museums are great shelters; check their schedules before heading out."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen an der Arena ist ruhig und ohne Menschenmassen. Mittags wärmen wir uns in den Museen der Altstadt auf, wenn der Bora-Wind bläst. Nachmittags genießen wir die tiefstehende Sonne am Forum bei einem warmen Getränk. Pünktlich zum frühen Sonnenuntergang steigen wir zur Festung Kastel hinauf, um das goldene Licht über der Adria zu erleben.",
+            "hu": "A téli reggel az Arénánál csendes, tömegek nélkül élvezhetjük a látványt. Délben az óváros múzeumaiban melegszünk fel, ha fúj a bóra szél. Délután a Fórumon élvezzük az alacsonyan járó nap sugarait egy forró ital mellett. A korai naplementére felkapaszkodunk a Kastelba, hogy lássuk az Adria feletti aranyló fényeket.",
+            "ro": "Dimineața de iarnă la Arenă este liniștită, fără mulțimi de turiști. La prânz, ne încălzim în muzeele din orașul vechi dacă bate vântul Bora. După-amiaza, ne bucurăm de soarele blând în Forum cu o băutură caldă. Pentru apusul timpuriu, urcăm la fortăreața Kastel pentru a vedea lumina aurie peste Adriatica.",
+            "en": "A winter morning at the Arena is peaceful, free from summer crowds. At noon, we warm up in the old town museums if the Bora wind picks up. In the afternoon, we enjoy the low sun at the Forum with a hot drink. For the early sunset, we climb to the Kastel fortress to witness the golden light over the Adriatic Sea."
+          },
+          "stops": [
+            {
+              "name": "Pula Arena",
+              "tip_5lang": {
+                "de": "Warme Kleidung ist wichtig, da der Wind durch die offenen Bögen weht.",
+                "hu": "Öltözz rétegesen, mert a szél átfúj a nyitott boltívek között.",
+                "ro": "Îmbracă-te gros, deoarece vântul suflă prin arcadele deschise.",
+                "en": "Dress warmly as the wind blows through the open arches of the structure."
+              }
+            },
+            {
+              "name": "Twin Gates",
+              "tip_5lang": {
+                "de": "Das Licht am Vormittag ist ideal für Fotos ohne harte Schatten.",
+                "hu": "A délelőtti fények tökéletesek a fotózáshoz, nincsenek erős árnyékok.",
+                "ro": "Lumina dimineții este ideală pentru fotografii fără umbre dure.",
+                "en": "The morning light is ideal for photos without harsh winter shadows."
+              }
+            },
+            {
+              "name": "Archaeological Museum of Istria",
+              "tip_5lang": {
+                "de": "Ein gut beheizter Ort, um die Kälte für eine Weile zu vergessen.",
+                "hu": "Jól fűtött helyszín, ahol egy időre elfelejtheted a kinti hideget.",
+                "ro": "Un loc bine încălzit unde poți uita de frig pentru o perioadă.",
+                "en": "A well-heated indoor space to escape the cold for a while."
+              }
+            },
+            {
+              "name": "Hercules Gate",
+              "tip_5lang": {
+                "de": "Kurzer Halt; die Steine können im Schatten sehr kalt und frostig sein.",
+                "hu": "Rövid megálló; az árnyékos részeken a kövek jegesek lehetnek.",
+                "ro": "Oprire scurtă; pietrele pot fi reci sau înghețate în zonele cu umbră.",
+                "en": "Short stop; stones can be very cold or frosty in shaded areas."
+              }
+            },
+            {
+              "name": "Arch of the Sergii",
+              "tip_5lang": {
+                "de": "Besuchen Sie die nahegelegenen Cafés für eine heiße Schokolade.",
+                "hu": "Látogass el a közeli kávézókba egy forró csokoládéra.",
+                "ro": "Vizitează cafenelele din apropiere pentru o ciocolată caldă.",
+                "en": "Visit the nearby cafes for a hot chocolate to keep your energy up."
+              }
+            },
+            {
+              "name": "Forum & Temple of Augustus",
+              "tip_5lang": {
+                "de": "Suchen Sie sich einen Platz in der Sonne, um die Wärme zu maximieren.",
+                "hu": "Keress egy napos helyet a téren, hogy kiélvezd a gyenge meleget.",
+                "ro": "Caută un loc însorit în piață pentru a maximiza căldura.",
+                "en": "Find a sunny spot in the square to maximize the winter warmth."
+              }
+            },
+            {
+              "name": "Kastel Fortress",
+              "tip_5lang": {
+                "de": "Kommen Sie vor 16:30 Uhr an, um den Sonnenuntergang nicht zu verpassen.",
+                "hu": "Érkezz meg 16:30 előtt, hogy ne maradj le a naplementéről.",
+                "ro": "Ajungi înainte de ora 16:30 pentru a nu rata apusul de soare.",
+                "en": "Arrive before 4:30 PM so you don't miss the early winter sunset."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Sonnenuntergang ist im Winter bereits gegen 16:30 Uhr.",
+              "Die Bora (kalter Fallwind) kann die gefühlte Temperatur stark senken.",
+              "Viele kleine Souvenirläden haben im Winter eingeschränkte Öffnungszeiten.",
+              "Nutzen Sie die Mittagsstunden für Außenbesichtigungen, wenn es am wärmsten ist."
+            ],
+            "hu": [
+              "A naplemente télen már 16:30 körül bekövetkezik, tervezz előre.",
+              "A bóra szél jelentősen csökkentheti a hőérzetet, legyen nálad sál.",
+              "Sok kisebb ajándékbolt zárva tarthat vagy hamarabb bezár télen.",
+              "A déli órákat használd a kültéri látnivalókra, ekkor a legmelegebb."
+            ],
+            "ro": [
+              "Apusul de soare în timpul iernii este în jurul orei 16:30.",
+              "Vântul Bora poate scădea semnificativ temperatura resimțită.",
+              "Multe magazine de suveniruri au program redus în extrasezon.",
+              "Folosește orele amiezii pentru vizite exterioare, când este mai cald."
+            ],
+            "en": [
+              "Sunset in winter is around 4:30 PM, so plan your daylight activities.",
+              "The Bora wind can significantly lower the perceived temperature.",
+              "Many small souvenir shops have restricted opening hours in winter.",
+              "Use the midday hours for outdoor sightseeing when it's warmest."
+            ]
+          }
+        }
       }
     }
   }

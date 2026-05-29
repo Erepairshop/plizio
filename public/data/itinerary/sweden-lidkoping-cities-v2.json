@@ -262,6 +262,188 @@
         "en": [
           "Wear comfortable shoes as the distance between sights is considerable. Plan a longer lunch break at Spiken fishing harbor to enjoy the fresh seafood."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens glitzern die Kopfsteinpflaster von Limtorget im Regen. Suchen Sie Schutz in der St. Nicolai Kirche, bevor Sie den Mittag im trockenen Rörstrand Museum verbringen. Nachmittags bietet das Vänermuseet faszinierende Einblicke in den See, ohne nass zu werden. Abends endet die Tour mit einem kurzen, erfrischenden Spaziergang durch den Stadtgarten unter dem Regenschirm.",
+            "hu": "Reggel az eső mossa tisztára Limtorget macskaköves utcáit. A St. Nicolai templom csendes menedéket nyújt, majd délben a Rörstrand Múzeum porcelánjai között maradhatunk szárazon. Délután a Vänermuseet belső tereiben ismerhetjük meg a tavat, az estét pedig egy gyors, frissítő séta zárja a Városi Kertben, a tóparti szélben.",
+            "ro": "Dimineața, ploaia face ca străzile din Limtorget să strălucească. Refugiați-vă în Biserica Sf. Nicolai înainte de a petrece prânzul în interiorul primitor al Muzeului Rörstrand. După-amiaza, Vänermuseet oferă adăpost și povești despre lac, iar seara se încheie cu o plimbare scurtă și revigorantă prin Grădina Orașului, protejați de umbrelă.",
+            "en": "Morning rain adds a poetic glisten to the Limtorget district. Find peace in St. Nicolai Church before spending midday sheltered in the Rörstrand Museum's porcelain halls. In the afternoon, the Lake Vänern Museum keeps you dry while exploring local history. Finish the evening with a damp but fresh walk through the City Garden as the streetlights reflect in the puddles."
+          },
+          "stops": [
+            {
+              "name": "Limtorget & The Old Town Hall",
+              "tip_5lang": {
+                "de": "Die hölzernen Arkaden bieten kurzen Schutz vor Schauern.",
+                "hu": "A régi faházak ereszaljai alatt keressünk rövid menedéket.",
+                "ro": "Arcadele caselor vechi oferă adăpost temporar de ploaie.",
+                "en": "The old wooden eaves provide quick cover from passing showers."
+              }
+            },
+            {
+              "name": "St. Nicolai Church",
+              "tip_5lang": {
+                "de": "Ein idealer Ort für eine ruhige, trockene Pause.",
+                "hu": "Tökéletes hely egy csendes, száraz pihenőre.",
+                "ro": "Un loc ideal pentru o pauză liniștită și uscată.",
+                "en": "An ideal spot for a quiet, dry break from the elements."
+              }
+            },
+            {
+              "name": "Rörstrand Museum",
+              "tip_5lang": {
+                "de": "Perfekt für Regentage; das Café bietet tollen schwedischen Fika.",
+                "hu": "Esős időben a legjobb választás; a kávézó kiváló menedék.",
+                "ro": "Cea mai bună alegere pe ploaie; cafeneaua este excelentă.",
+                "en": "Best choice for rainy days; the cafe is perfect for a Fika break."
+              }
+            },
+            {
+              "name": "Vänermuseet (Museum of Lake Vänern)",
+              "tip_5lang": {
+                "de": "Große Innenausstellungen halten Sie während des Regens trocken.",
+                "hu": "A tágas belső kiállítások alatt elállhat az eső.",
+                "ro": "Expozițiile interioare spațioase vă mențin uscat.",
+                "en": "Spacious indoor exhibits will keep you dry and engaged."
+              }
+            },
+            {
+              "name": "Spiken Fishing Harbor",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Fischräuchereien für einen überdachten Snack.",
+                "hu": "A halfüstölők fedett teraszain kóstoljuk meg a helyi fogást.",
+                "ro": "Vizitați afumătoriile de pește pentru o gustare acoperită.",
+                "en": "Visit the fish smokehouses for a sheltered local snack."
+              }
+            },
+            {
+              "name": "Lidköping City Garden",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Pavillon, wenn der Regen wieder stärker wird.",
+                "hu": "Használjuk a pavilon fedelét, ha újra rázendítene az eső.",
+                "ro": "Folosiți pavilionul dacă ploaia devine din nou torențială.",
+                "en": "Use the park pavilion if the rain starts to pick up again."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für das Kopfsteinpflaster.",
+              "Viele Museen haben Garderoben für nasse Mäntel.",
+              "Nutzen Sie die kurzen Wege zwischen den Cafés im Zentrum.",
+              "Ein robuster Regenschirm ist wegen des Seewinds wichtig."
+            ],
+            "hu": [
+              "Viseljünk vízálló cipőt a macskakövek miatt.",
+              "A múzeumokban van ruhatár a vizes kabátoknak.",
+              "Használjuk ki a belvárosi kávézók közelségét.",
+              "A tavi szél miatt egy stabil esernyő elengedhetetlen."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru pavajul vechi.",
+              "Muzeele au garderobe pentru hainele ude.",
+              "Profită de distanțele scurte între cafenelele din centru.",
+              "O umbrelă robustă este necesară din cauza vântului de pe lac."
+            ],
+            "en": [
+              "Wear waterproof shoes for the uneven cobblestones.",
+              "Most museums have cloakrooms for wet coats and umbrellas.",
+              "Take advantage of the proximity of cafes in the center.",
+              "A sturdy umbrella is essential due to the winds from the lake."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen beleuchtet den Limtorget mit festlicher Stimmung. Nach dem Besuch der St. Nicolai Kirche wärmen Sie sich mittags im Rörstrand Museum bei heißem Kaffee auf. Der Nachmittag am Vänermuseet zeigt die winterliche Ruhe des Sees. Da die Sonne früh untergeht, genießen Sie die blauen Stunde im Stadtgarten, wenn die Winterbeleuchtung die Stadt verzaubert.",
+            "hu": "A ropogós téli reggel ünnepi fényt ad Limtorget házainak. A St. Nicolai templom látogatása után délben a Rörstrand Múzeum kávézójában melegedhetünk fel. Délután a Vänermuseetnél a befagyott tó látványa nyújt nyugalmat. Mivel korán sötétedik, a Városi Kertben már délután élvezhetjük a téri díszkivilágítás varázsát.",
+            "ro": "O dimineață crocantă de iarnă luminează Limtorget cu un aer festiv. După vizitarea Bisericii Sf. Nicolai, încălziți-vă la prânz în Muzeul Rörstrand cu o cafea fierbinte. După-amiaza la Vänermuseet dezvăluie liniștea hibernală a lacului. Deoarece soarele apune devreme, bucurați-vă de ora albastră în Grădina Orașului, sub luminile festive.",
+            "en": "The crisp winter morning highlights the historic charm of Limtorget. After a visit to St. Nicolai Church, spend midday warming up with hot coffee at the Rörstrand Museum. The afternoon at Lake Vänern Museum offers views of the icy shoreline. As sunset arrives early, enjoy the festive winter lights in the City Garden that turn the town into a winter wonderland."
+          },
+          "stops": [
+            {
+              "name": "Limtorget & The Old Town Hall",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf den alten Pflastersteinen.",
+                "hu": "Vigyázzunk a jegesedésre a régi macskaköveken.",
+                "ro": "Atenție la polei pe pavajul vechi de piatră.",
+                "en": "Watch out for black ice on the old cobblestone paths."
+              }
+            },
+            {
+              "name": "St. Nicolai Church",
+              "tip_5lang": {
+                "de": "Ein warmer Ort für eine kurze Besinnung.",
+                "hu": "Fűtött belső tér egy rövid elcsendesedéshez.",
+                "ro": "Un spațiu încălzit pentru o scurtă meditație.",
+                "en": "A heated interior for a brief moment of reflection."
+              }
+            },
+            {
+              "name": "Rörstrand Museum",
+              "tip_5lang": {
+                "de": "Kaufen Sie hier hochwertiges Porzellan als Weihnachtsgeschenk.",
+                "hu": "Vegyünk itt minőségi porcelánt karácsonyi ajándéknak.",
+                "ro": "Cumpărați porțelan de calitate pentru cadouri de iarnă.",
+                "en": "Buy high-quality porcelain here for a winter holiday gift."
+              }
+            },
+            {
+              "name": "Vänermuseet (Museum of Lake Vänern)",
+              "tip_5lang": {
+                "de": "Beobachten Sie das Eis auf dem Vänernsee von den Fenstern aus.",
+                "hu": "Az ablakokból csodáljuk meg a Vänern-tó jeges partját.",
+                "ro": "Admirați gheața de pe lacul Vänern de la ferestre.",
+                "en": "Observe the ice formations on Lake Vänern from the windows."
+              }
+            },
+            {
+              "name": "Spiken Fishing Harbor",
+              "tip_5lang": {
+                "de": "Einige Läden haben eingeschränkte Winteröffnungszeiten.",
+                "hu": "Néhány üzlet korlátozott téli nyitvatartással üzemel.",
+                "ro": "Unele magazine au program redus pe timp de iarnă.",
+                "en": "Note that some shops have limited winter opening hours."
+              }
+            },
+            {
+              "name": "Lidköping City Garden",
+              "tip_5lang": {
+                "de": "Genießen Sie die wunderschöne Winterbeleuchtung ab 16 Uhr.",
+                "hu": "Élvezzük a gyönyörű díszkivilágítást délután 4 után.",
+                "ro": "Bucurați-vă de iluminatul festiv de iarnă după ora 16:00.",
+                "en": "Enjoy the beautiful winter light displays starting from 4 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Dezember bereits gegen 15:30 Uhr unter.",
+              "Tragen Sie Schichten, der Wind vom See ist im Winter eisig.",
+              "Trinken Sie heißen Kakao im Rörstrand Center.",
+              "Warme Handschuhe sind für den Hafenrundgang ein Muss."
+            ],
+            "hu": [
+              "A nap decemberben már 15:30 körül lenyugszik.",
+              "Öltözzünk rétegesen, a tavi szél télen metsző.",
+              "Igyunk egy forró csokoládét a Rörstrand Centerben.",
+              "A kikötői sétához a meleg kesztyű elengedhetetlen."
+            ],
+            "ro": [
+              "Soarele apune în decembrie în jurul orei 15:30.",
+              "Îmbrăcați-vă în straturi, vântul de pe lac este tăios iarna.",
+              "Savurați o ciocolată caldă în centrul Rörstrand.",
+              "Mănușile călduroase sunt obligatorii pentru port."
+            ],
+            "en": [
+              "The sun sets as early as 3:30 PM in mid-winter.",
+              "Dress in layers; the wind off Lake Vänern is biting.",
+              "Warm up with a hot cocoa at the Rörstrand Center.",
+              "Warm gloves are a must for the harbor walk."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -518,6 +700,188 @@
         "en": [
           "Check the weather forecast, especially for the ride to Spiken. A bike with gears is recommended for the slight inclines. Bring water and snacks."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen bietet das Radfahren in Lidköping kurze Wege. Starten Sie vorsichtig am Limtorget und suchen Sie Schutz in St. Nicolai. Mittags bietet das Rörstrand Museum eine lange, trockene Pause. Die Fahrt zum Hafen Spiken erfordert gute Regenkleidung, wird aber durch die Aussicht belohnt. Den Abschluss bildet das Vänermuseet, bevor Sie schnell zum Ausgangspunkt zurückkehren.",
+            "hu": "Az eső ellenére a biciklizés Lidköpingben hatékony a rövid távok miatt. Kezdjünk óvatosan Limtorgetnél, majd pihenjünk a St. Nicolai templomban. Délben a Rörstrand Múzeum hosszú, száraz szünetet biztosít. A kikötőbe vezető út jó esőfelszerelést igényel, de a látvány megéri. A napot a Vänermuseet zárja, mielőtt visszatekernénk a szálláshoz.",
+            "ro": "În ciuda ploii, ciclismul în Lidköping rămâne eficient datorită distanțelor scurte. Începeți cu atenție la Limtorget și adăpostiți-vă la Sf. Nicolai. Muzeul Rörstrand oferă o pauză lungă și uscată la prânz. Drumul spre portul Spiken necesită haine impermeabile, dar recompensa este pe măsură. Încheiați la Vänermuseet înainte de revenire.",
+            "en": "Cycling through Lidköping in the rain is manageable thanks to short distances. Start carefully at Limtorget and find shelter at St. Nicolai. Spend midday at the Rörstrand Museum for a long, dry break. The ride to Spiken Harbor requires good rain gear, but the views are worth it. End at the Vänermuseet before a quick pedal back."
+          },
+          "stops": [
+            {
+              "name": "Limtorget & The Old Town Hall",
+              "tip_5lang": {
+                "de": "Vorsicht, das nasse Kopfsteinpflaster ist sehr rutschig.",
+                "hu": "Vigyázat, a vizes macskakő rendkívül csúszós.",
+                "ro": "Atenție, pavajul umed este foarte alunecos.",
+                "en": "Caution: wet cobblestones are extremely slippery for bikes."
+              }
+            },
+            {
+              "name": "St. Nicolai Church",
+              "tip_5lang": {
+                "de": "Fahrradständer befinden sich direkt am Kircheneingang.",
+                "hu": "Biciklitárolók közvetlenül a templom bejáratánál.",
+                "ro": "Rasteluri pentru biciclete se află chiar la intrare.",
+                "en": "Bicycle racks are available right by the church entrance."
+              }
+            },
+            {
+              "name": "Lidköping City Garden",
+              "tip_5lang": {
+                "de": "Die Wege im Park können bei starkem Regen matschig sein.",
+                "hu": "A park ösvényei erős esőben sarasak lehetnek.",
+                "ro": "Aleile din parc pot deveni noroioase pe ploaie abundentă.",
+                "en": "Park paths might be muddy during heavy rainfall."
+              }
+            },
+            {
+              "name": "Rörstrand Museum",
+              "tip_5lang": {
+                "de": "Sichere Parkplätze für Fahrräder im Innenhof vorhanden.",
+                "hu": "Biztonságos bicikli-parkolók a belső udvarban.",
+                "ro": "Locuri de parcare sigure în curtea interioară.",
+                "en": "Secure bike parking is available in the inner courtyard."
+              }
+            },
+            {
+              "name": "Spiken Fishing Harbor",
+              "tip_5lang": {
+                "de": "Der Wind am See kann das Treten gegen den Regen erschweren.",
+                "hu": "A tavi szél megnehezítheti a tekerést az esőben.",
+                "ro": "Vântul de pe lac poate îngreuna pedalarea prin ploaie.",
+                "en": "Lakeside winds can make pedaling against rain challenging."
+              }
+            },
+            {
+              "name": "Vänermuseet",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich zum Abstellen.",
+                "hu": "Használjuk a fedett bejárati részt a várakozáshoz.",
+                "ro": "Folosiți zona de intrare acoperită pentru staționare.",
+                "en": "Use the sheltered entrance area while locking your bike."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Bremsen bei Nässe häufiger.",
+              "Tragen Sie eine Warnweste für bessere Sichtbarkeit im Regen.",
+              "Schutzbleche am Fahrrad sind heute ein Muss.",
+              "Wasserdichte Packtaschen halten Ihre Sachen trocken."
+            ],
+            "hu": [
+              "Nedves időben ellenőrizzük gyakrabban a fékeket.",
+              "Viseljünk láthatósági mellényt az esőben.",
+              "A sárvédő ma kötelező kiegészítő.",
+              "Vízálló táskákban tartsuk az értékeinket."
+            ],
+            "ro": [
+              "Verificați frânele mai des pe timp de ploaie.",
+              "Purtați vestă reflectorizantă pentru vizibilitate.",
+              "Aripile la bicicletă sunt obligatorii astăzi.",
+              "Genzile impermeabile vă vor păstra lucrurile uscate."
+            ],
+            "en": [
+              "Check your brakes more frequently in wet conditions.",
+              "Wear a high-visibility vest for safety in the rain.",
+              "Mudguards are essential for today's ride.",
+              "Use waterproof panniers to keep your belongings dry."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im Winter in Lidköping ist frisch und belebend. Die flache Landschaft erleichtert das Vorankommen am Limtorget und zur St. Nicolai Kirche. Mittags ist das Rörstrand Museum ein willkommener Ort zum Auftauen. Die Tour zum Stadtgarten und Vänermuseet zeigt die gefrorene Pracht des Sees, während die frühe Dunkelheit die Rückfahrt mit voller Beleuchtung erfordert.",
+            "hu": "A téli biciklizés Lidköpingben frissítő és élénkítő. A sík terep megkönnyíti a haladást Limtorgetnél és a St. Nicolai templom felé. Délben a Rörstrand Múzeum várja a felmelegedni vágyókat. A Városi Kert és a Vänermuseet felé vezető út a befagyott tó látványát kínálja, a korai sötétedés miatt pedig lámpákkal zárjuk a napot.",
+            "ro": "Ciclismul de iarnă în Lidköping este revigorant. Relieful plat facilitează deplasarea spre Limtorget și Sf. Nicolai. La prânz, Muzeul Rörstrand este locul ideal pentru dezghețare. Traseul spre Grădina Orașului și Vänermuseet oferă priveliști înghețate ale lacului, iar întunericul timpuriu necesită lumini aprinse.",
+            "en": "Winter cycling in Lidköping is refreshing and crisp. The flat terrain makes riding to Limtorget and St. Nicolai Church easy despite the cold. Midday at the Rörstrand Museum is the perfect time to thaw out. The route towards the City Garden and Vänermuseet reveals the frozen beauty of the lake, while the early dusk demands good lights."
+          },
+          "stops": [
+            {
+              "name": "Limtorget & The Old Town Hall",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenen Pfützen zwischen den Steinen.",
+                "hu": "Vigyázzunk a kövek közötti fagyott tócsákra.",
+                "ro": "Atenție la bălțile înghețate dintre pietre.",
+                "en": "Be careful of frozen puddles between the cobblestones."
+              }
+            },
+            {
+              "name": "St. Nicolai Church",
+              "tip_5lang": {
+                "de": "Kurze Aufwärmpause im Inneren möglich.",
+                "hu": "Rövid melegedési lehetőség odabent.",
+                "ro": "Posibilitate scurtă de încălzire în interior.",
+                "en": "Brief opportunity to warm up inside the church."
+              }
+            },
+            {
+              "name": "Lidköping City Garden",
+              "tip_5lang": {
+                "de": "Die Wege werden geräumt, können aber glatt sein.",
+                "hu": "Az utakat takarítják, de csúszósak maradhatnak.",
+                "ro": "Aleile sunt curățate, dar pot rămâne alunecoase.",
+                "en": "Paths are cleared but can still be slippery."
+              }
+            },
+            {
+              "name": "Rörstrand Museum",
+              "tip_5lang": {
+                "de": "Gönnen Sie Ihren Händen eine Pause an einer warmen Tasse.",
+                "hu": "Melegítsük fel kezeinket egy csésze forró ital mellett.",
+                "ro": "Încălziți-vă mâinile cu o cană de băutură fierbinte.",
+                "en": "Warm your hands with a hot drink at the museum cafe."
+              }
+            },
+            {
+              "name": "Spiken Fishing Harbor",
+              "tip_5lang": {
+                "de": "Vorsicht bei Glätte auf den Holzstegen im Hafen.",
+                "hu": "Vigyázzunk a csúszós fapallókra a kikötőben.",
+                "ro": "Atenție la platformele de lemn alunecoase din port.",
+                "en": "Watch out for slippery wooden piers in the harbor area."
+              }
+            },
+            {
+              "name": "Vänermuseet",
+              "tip_5lang": {
+                "de": "Ein warmes Ziel am Ende der kalten Radtour.",
+                "hu": "Meleg célpont a hideg biciklitúra végén.",
+                "ro": "O destinație călduroasă la finalul turei cu bicicleta.",
+                "en": "A warm destination at the end of your cold bike ride."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie Spikereifen, falls vorhanden.",
+              "Tragen Sie winddichte Kleidung, besonders am Seeufer.",
+              "Überprüfen Sie Ihre Fahrradbeleuchtung vor der Abfahrt.",
+              "Der Sonnenuntergang ist im Winter bereits um 15:30 Uhr."
+            ],
+            "hu": [
+              "Használjunk szöges gumit, ha van rá lehetőség.",
+              "Viseljünk szélálló ruhát, különösen a tóparton.",
+              "Indulás előtt ellenőrizzük a lámpákat.",
+              "A napnyugta télen már 15:30 körül bekövetkezik."
+            ],
+            "ro": [
+              "Folosiți anvelope cu ținte dacă este posibil.",
+              "Purtați haine rezistente la vânt pe malul lacului.",
+              "Verificați luminile bicicletei înainte de plecare.",
+              "Apusul soarelui are loc deja la ora 15:30 iarna."
+            ],
+            "en": [
+              "Use studded tires if available for better grip.",
+              "Wear windproof clothing, especially near the lake.",
+              "Check your bicycle lights before setting off.",
+              "Sunset occurs as early as 3:30 PM in winter."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -774,6 +1138,188 @@
         "en": [
           "Buy a combination ticket for Läckö Castle and Vänermuseet if available. Parking in Lidköping city center is paid. Start early to make the most of the day."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Auto ist ideal, um Lidköping bei Regen zu erkunden. Starten Sie mit dem prächtigen Schloss Läckö, das auch im Regen imposant wirkt. Mittags genießen Sie frischen Fisch im Hafen Spiken, bevor Sie zum Rörstrand Museum im Stadtzentrum fahren. Der Nachmittag führt zum Limtorget und der St. Nicolai Kirche, und den Abschluss bildet der Panoramablick am Hindens Rev, sicher aus dem Fahrzeug heraus.",
+            "hu": "Az autó ideális választás Lidköping esős felfedezéséhez. Kezdjük a napot a Läckö kastélynál, amely esőben is lenyűgöző. Délben együnk friss halat Spiken kikötőjében, majd irány a Rörstrand Múzeum a belvárosban. Délután Limtorget és a St. Nicolai templom következik, a napot pedig a Hindens Rev kilátópontja zárja, amit a kocsiból is megcsodálhatunk.",
+            "ro": "Mașina este ideală pentru a explora Lidköping pe ploaie. Începeți cu spectaculosul Castel Läckö, impunător chiar și pe vreme rea. La prânz, savurați pește proaspăt în portul Spiken, apoi mergeți la Muzeul Rörstrand. După-amiaza este dedicată zonei Limtorget, iar finalul oferă o panoramă la Hindens Rev, admirată din confortul vehiculului.",
+            "en": "The car is the perfect sanctuary for a rainy day in Lidköping. Start at the magnificent Läckö Castle, which looks dramatic under grey skies. Enjoy fresh fish at Spiken Harbor for lunch before driving to the Rörstrand Museum. Spend the afternoon at Limtorget and St. Nicolai Church, and finish with the views at Hindens Rev, safely tucked away from the rain."
+          },
+          "stops": [
+            {
+              "name": "Läckö Castle",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um den Regenweg zu verkürzen.",
+                "hu": "Parkoljunk közel a bejárathoz az eső miatt.",
+                "ro": "Parcați aproape de intrare pentru a evita ploaia.",
+                "en": "Park close to the entrance to minimize time in the rain."
+              }
+            },
+            {
+              "name": "Spiken Fishing Harbor",
+              "tip_5lang": {
+                "de": "Die Restaurants sind nur wenige Schritte vom Parkplatz entfernt.",
+                "hu": "Az éttermek csak pár lépésre vannak a parkolótól.",
+                "ro": "Restaurantele sunt la doar câțiva pași de parcare.",
+                "en": "Restaurants are just a few steps away from the parking area."
+              }
+            },
+            {
+              "name": "Rörstrand Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus im Rörstrand Center.",
+                "hu": "Használjuk a Rörstrand Center parkolóházát.",
+                "ro": "Folosiți parcarea acoperită de la Rörstrand Center.",
+                "en": "Use the indoor parking garage at Rörstrand Center."
+              }
+            },
+            {
+              "name": "Limtorget & The Old Town Hall",
+              "tip_5lang": {
+                "de": "Parkplätze in den Seitenstraßen sind oft verfügbar.",
+                "hu": "A mellékutcákban gyakran találni szabad parkolót.",
+                "ro": "Locurile de parcare pe străzile laterale sunt accesibile.",
+                "en": "Parking in side streets is often available nearby."
+              }
+            },
+            {
+              "name": "St. Nicolai Church",
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Parkplatz führt ins Trockene.",
+                "hu": "Egy rövid sprint a parkolótól és már bent is vagyunk.",
+                "ro": "O fugă scurtă de la parcare vă duce la adăpost.",
+                "en": "A quick dash from the car will get you inside safely."
+              }
+            },
+            {
+              "name": "Hindens Rev Viewpoint",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den See direkt aus dem Auto.",
+                "hu": "Élvezzük a tavi kilátást közvetlenül az autóból.",
+                "ro": "Admirați vederea spre lac direct din mașină.",
+                "en": "Enjoy the dramatic lake views directly from your car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf den Landstraßen.",
+              "Halten Sie die Fenster beschlagfrei durch die Klimaanlage.",
+              "Suchen Sie gezielt nach Parkhäusern im Zentrum.",
+              "Besuchen Sie die Fischläden in Spiken für Take-away."
+            ],
+            "hu": [
+              "Vigyázzunk a vízátfolyásokra az országutakon.",
+              "Használjuk a klímát a szélvédő párátlanításához.",
+              "Keressünk fedett parkolókat a belvárosban.",
+              "Vegyünk elvitelre füstölt halat Spikenben."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumurile județene.",
+              "Folosiți aerul condiționat pentru a dezaburi geamurile.",
+              "Căutați parcări acoperite în centru.",
+              "Cumpărați pește afumat la pachet din Spiken."
+            ],
+            "en": [
+              "Be wary of aquaplaning on the rural roads.",
+              "Keep windows clear using the air conditioning system.",
+              "Look for indoor parking garages in the city center.",
+              "Pick up some smoked fish to-go from Spiken."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Autofahrt zum Schloss Läckö bietet märchenhafte Ausblicke auf die verschneite Halbinsel. Mittags wärmen Sie sich im Hafen Spiken auf, bevor Sie das Rörstrand Museum im Stadtzentrum besuchen. Nachmittags erkunden Sie die historische Altstadt Limtorget und beenden den Tag am Hindens Rev, wo Sie den Sonnenuntergang über dem gefrorenen Vänernsee bequem aus dem warmen Auto beobachten können.",
+            "hu": "A téli autózás a Läckö kastélyhoz mesebeli látványt nyújt a havas félszigeten. Délben Spiken kikötőjében melegedhetünk fel, majd irány a Rörstrand Múzeum. Délután Limtorget történelmi utcáit fedezhetjük fel, a napot pedig a Hindens Revnél zárjuk, ahol a meleg autóból nézhetjük végig a naplementét a befagyott Vänern-tó felett.",
+            "ro": "O călătorie cu mașina spre Castelul Läckö iarna oferă vederi de basm asupra peninsulei înzăpezite. Încălziți-vă în portul Spiken la prânz, apoi vizitați Muzeul Rörstrand. După-amiaza, explorați zona istorică Limtorget și încheiați ziua la Hindens Rev, urmărind apusul peste lacul înghețat din mașină.",
+            "en": "A winter drive to Läckö Castle offers fairy-tale views of the snowy peninsula. Warm up at Spiken Harbor for lunch before heading to the Rörstrand Museum in the center. Explore the historic Limtorget in the afternoon and finish your day at Hindens Rev, watching the early winter sunset over the frozen Lake Vänern from the comfort of your heated car."
+          },
+          "stops": [
+            {
+              "name": "Läckö Castle",
+              "tip_5lang": {
+                "de": "Die Zufahrtsstraßen können im Winter glatt sein.",
+                "hu": "A bekötőutak télen csúszósak lehetnek.",
+                "ro": "Drumurile de acces pot fi alunecoase iarna.",
+                "en": "Access roads can be icy; drive carefully to the castle."
+              }
+            },
+            {
+              "name": "Spiken Fishing Harbor",
+              "tip_5lang": {
+                "de": "Der Parkplatz bietet einen tollen Blick auf das Packeis.",
+                "hu": "A parkolóból nagyszerű kilátás nyílik a zajló jégre.",
+                "ro": "Parcarea oferă o vedere excelentă asupra gheții.",
+                "en": "The parking lot offers great views of the lake ice."
+              }
+            },
+            {
+              "name": "Rörstrand Museum",
+              "tip_5lang": {
+                "de": "Idealer Stopp, um sich zwischen den Fahrten aufzuwärmen.",
+                "hu": "Ideális megálló a két autózás közötti felmelegedéshez.",
+                "ro": "Oprește-te aici pentru a te încălzi între drumuri.",
+                "en": "Ideal stop to warm up between driving segments."
+              }
+            },
+            {
+              "name": "Limtorget & The Old Town Hall",
+              "tip_5lang": {
+                "de": "Kurze Parkdauer für Fotos in der blauen Stunde.",
+                "hu": "Rövid parkolás a kék órában készített fotókhoz.",
+                "ro": "Parcare scurtă pentru fotografii în ora albastră.",
+                "en": "Short parking is fine for photos during the blue hour."
+              }
+            },
+            {
+              "name": "St. Nicolai Church",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Adventskonzerte, falls verfügbar.",
+                "hu": "Látogassunk el az adventi koncertekre, ha vannak.",
+                "ro": "Participați la concertele de Advent dacă sunt disponibile.",
+                "en": "Attend advent concerts here if available during your visit."
+              }
+            },
+            {
+              "name": "Hindens Rev Viewpoint",
+              "tip_5lang": {
+                "de": "Bleiben Sie im Auto, um den eiskalten Wind zu vermeiden.",
+                "hu": "Maradjunk a kocsiban a metsző hideg szél elől.",
+                "ro": "Rămâneți în mașină pentru a evita vântul înghețat.",
+                "en": "Stay in the car to avoid the freezing lakeside wind."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in Schweden gesetzlich vorgeschrieben.",
+              "Führen Sie einen Eiskratzer und Schneebesen mit.",
+              "Prüfen Sie die Batterieleistung bei extremer Kälte.",
+              "Planen Sie die Rückreise vor 16 Uhr wegen der Dunkelheit."
+            ],
+            "hu": [
+              "A téli gumi Svédországban törvényileg kötelező.",
+              "Legyen nálunk jégkaparó és hókefe.",
+              "Ellenőrizzük az akkumulátort a nagy hidegben.",
+              "A sötétedés miatt 16 óra előtt tervezzük a visszautat."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii în Suedia.",
+              "Aveți la îndemână o răzuitoare de gheață și o perie.",
+              "Verificați bateria mașinii la temperaturi scăzute.",
+              "Planificați întoarcerea înainte de ora 16:00."
+            ],
+            "en": [
+              "Winter tires are legally required in Sweden.",
+              "Keep an ice scraper and snow brush in the car.",
+              "Check your car battery performance in extreme cold.",
+              "Plan to be back by 4 PM as it gets dark very early."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1006,6 +1552,170 @@
         "en": [
           "Buy a day ticket for the bus to stay flexible. Most buses in Sweden are cashless, so use an app or credit card. Check the bus schedules in advance."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Öffentliche Verkehrsmittel bieten eine trockene Alternative bei Regen in Lidköping. Starten Sie im Zentrum am Limtorget und nehmen Sie den Bus zur St. Nicolai Kirche. Das Rörstrand Center und das Vänermuseet sind gut angebunden und bieten stundenlangen Schutz. Der Tag endet gemütlich im Stadtgarten, bevor Sie den Bus zurück zum Bahnhof nehmen, immer im Trockenen bleibend.",
+            "hu": "A tömegközlekedés száraz alternatívát kínál esőben. Kezdjük a központban, Limtorgetnél, majd busszal menjünk a St. Nicolai templomhoz. A Rörstrand Center és a Vänermuseet könnyen elérhető és órákig tartó menedéket nyújt. A nap a Városi Kertben ér véget, mielőtt visszabuszoznánk az állomásra, végig szárazon maradva.",
+            "ro": "Transportul public oferă o alternativă uscată pe timp de ploaie. Începeți în centru la Limtorget și luați autobuzul spre Sf. Nicolai. Centrul Rörstrand și Vänermuseet sunt bine conectate și oferă adăpost prelungit. Ziua se încheie confortabil în Grădina Orașului înainte de a lua autobuzul înapoi.",
+            "en": "Public transit provides a reliable, dry alternative for a rainy Lidköping. Start in the center at Limtorget and hop on a bus to St. Nicolai Church. Rörstrand Center and Vänermuseet are well-connected and offer hours of indoor shelter. End your day at the City Garden before catching a bus back to the station, staying dry throughout."
+          },
+          "stops": [
+            {
+              "name": "Limtorget & The Old Town Hall",
+              "tip_5lang": {
+                "de": "Die Bushaltestellen im Zentrum sind meist überdacht.",
+                "hu": "A belvárosi buszmegállók többnyire fedettek.",
+                "ro": "Stațiile de autobuz din centru sunt în mare parte acoperite.",
+                "en": "Most central bus stops have shelters to keep you dry."
+              }
+            },
+            {
+              "name": "St. Nicolai Church",
+              "tip_5lang": {
+                "de": "Nutzen Sie die App 'Västtrafik' für Echtzeit-Infos.",
+                "hu": "Használjuk a 'Västtrafik' appot az élő menetrendhez.",
+                "ro": "Folosiți aplicația 'Västtrafik' pentru informații în timp real.",
+                "en": "Use the 'Västtrafik' app for real-time bus arrivals."
+              }
+            },
+            {
+              "name": "Rörstrand Center (Museum & Outlet)",
+              "tip_5lang": {
+                "de": "Der Bus hält fast direkt vor dem Haupteingang.",
+                "hu": "A busz szinte közvetlenül a főbejáratnál áll meg.",
+                "ro": "Autobuzul oprește aproape de intrarea principală.",
+                "en": "The bus stops almost directly in front of the entrance."
+              }
+            },
+            {
+              "name": "Vänermuseet",
+              "tip_5lang": {
+                "de": "Ein kurzer Fußweg von der Haltestelle bis zum Museum.",
+                "hu": "Csak egy rövid séta a megállótól a múzeumig.",
+                "ro": "O scurtă plimbare de la stație până la muzeu.",
+                "en": "Just a short walk from the bus stop to the museum."
+              }
+            },
+            {
+              "name": "Lidköping City Garden",
+              "tip_5lang": {
+                "de": "Die Haltestellen befinden sich am Rand des Parks.",
+                "hu": "A megállók a park szélén találhatóak.",
+                "ro": "Stațiile de autobuz se află la marginea parcului.",
+                "en": "Bus stops are conveniently located at the park's edge."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie Tickets vorab über die Västtrafik-App.",
+              "Busse fahren im Zentrum regelmäßig alle 15-30 Minuten.",
+              "Die Busse sind beheizt und bieten Schutz vor Schauern.",
+              "Halten Sie Ausschau nach den gelben Bussen."
+            ],
+            "hu": [
+              "Vegyünk jegyet előre a Västtrafik alkalmazásban.",
+              "A buszok a központban 15-30 percenként járnak.",
+              "A buszok fűtöttek és védenek az esőtől.",
+              "Keressük a sárga színű helyi járatokat."
+            ],
+            "ro": [
+              "Cumpărați bilete în avans prin aplicația Västtrafik.",
+              "Autobuzele circulă în centru la fiecare 15-30 minute.",
+              "Autobuzele sunt încălzite și protejează de ploaie.",
+              "Căutați autobuzele galbene specifice zonei."
+            ],
+            "en": [
+              "Buy tickets in advance via the Västtrafik To Go app.",
+              "Buses in the center run every 15-30 minutes.",
+              "Buses are well-heated and offer great shelter from rain.",
+              "Look for the yellow buses for local transit routes."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterreisen mit dem Bus in Lidköping sind gemütlich und warm. Besuchen Sie Limtorget und die St. Nicolai Kirche am Vormittag. Das Rörstrand Center ist im Winter besonders einladend für eine ausgiebige Mittagspause. Am Nachmittag bringt Sie der Bus zum Vänermuseet, um die eisige Aussicht zu genießen. Den Abschluss bildet die beleuchtete Parkanlage des Stadtgartens, bequem erreichbar mit dem Nahverkehr.",
+            "hu": "A téli buszozás Lidköpingben kényelmes és meleg. Látogassunk el Limtorgethez és a St. Nicolai templomhoz délelőtt. A Rörstrand Center télen különösen hívogató egy hosszú ebédszünetre. Délután a busz elvisz a Vänermuseethez, hogy megcsodáljuk a jeges tájat. A napot a Városi Kert díszkivilágítása zárja, amely könnyen elérhető tömegközlekedéssel.",
+            "ro": "Călătoriile cu autobuzul iarna în Lidköping sunt confortabile. Vizitați Limtorget și Sf. Nicolai în cursul dimineții. Centrul Rörstrand este primitor pentru o pauză lungă de prânz. După-amiaza, autobuzul vă duce la Vänermuseet pentru vederi înghețate. Finalul are loc în Grădina Orașului, accesibilă ușor cu transportul public.",
+            "en": "Winter travel by bus in Lidköping is cozy and warm. Visit Limtorget and St. Nicolai Church in the morning. Rörstrand Center is especially inviting in winter for an extended lunch break. In the afternoon, the bus takes you to Vänermuseet to enjoy the icy lake views. Finish your day at the illuminated City Garden, easily accessible by local transit."
+          },
+          "stops": [
+            {
+              "name": "Limtorget & The Old Town Hall",
+              "tip_5lang": {
+                "de": "Warten Sie im beheizten Bahnhof, falls die Zeit reicht.",
+                "hu": "Várjunk a fűtött váróteremben az állomáson, ha van idő.",
+                "ro": "Așteptați în gara încălzită dacă aveți timp.",
+                "en": "Wait in the heated train station if you have extra time."
+              }
+            },
+            {
+              "name": "St. Nicolai Church",
+              "tip_5lang": {
+                "de": "Die Busse halten sehr nah an den historischen Orten.",
+                "hu": "A buszok nagyon közel állnak meg a történelmi helyekhez.",
+                "ro": "Autobuzele opresc foarte aproape de locurile istorice.",
+                "en": "Buses stop very close to the historic landmarks."
+              }
+            },
+            {
+              "name": "Rörstrand Center (Museum & Outlet)",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um sich zwischen den Busfahrten aufzuwärmen.",
+                "hu": "Tökéletes hely a felmelegedésre két buszút között.",
+                "ro": "Locul perfect pentru încălzire între două călătorii.",
+                "en": "The perfect place to warm up between bus rides."
+              }
+            },
+            {
+              "name": "Vänermuseet",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Winterfahrplan, da weniger Busse fahren könnten.",
+                "hu": "Ellenőrizzük a téli menetrendet, ritkábbak lehetnek a járatok.",
+                "ro": "Verificați programul de iarnă, cursele pot fi mai rare.",
+                "en": "Check the winter schedule as buses might be less frequent."
+              }
+            },
+            {
+              "name": "Lidköping City Garden",
+              "tip_5lang": {
+                "de": "Steigen Sie rechtzeitig aus, um das Lichtspektakel zu sehen.",
+                "hu": "Szálljunk le időben, hogy lássuk a fényárban úszó parkot.",
+                "ro": "Coborâți la timp pentru a vedea spectacolul de lumini.",
+                "en": "Get off early enough to see the park's winter lights."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schwedische Busse sind im Winter sehr zuverlässig.",
+              "Halten Sie sich im Bus warm, bevor Sie aussteigen.",
+              "Die Sonne geht im Winter sehr früh unter (ca. 15:30).",
+              "Nutzen Sie die App für kurzfristige Änderungen durch Schnee."
+            ],
+            "hu": [
+              "A svéd buszok télen is nagyon megbízhatóak.",
+              "Melegedjünk fel a buszon a következő séta előtt.",
+              "A nap télen nagyon korán, 15:30 körül nyugszik.",
+              "Használjuk az appot a hó miatti esetleges változásokhoz."
+            ],
+            "ro": [
+              "Autobuzele suedeze sunt foarte fiabile iarna.",
+              "Încălziți-vă în autobuz înainte de următoarea plimbare.",
+              "Soarele apune foarte devreme iarna (aprox. 15:30).",
+              "Folosiți aplicația pentru modificări cauzate de zăpadă."
+            ],
+            "en": [
+              "Swedish buses are very reliable, even in heavy snow.",
+              "Take advantage of the warm bus interior between stops.",
+              "Sunset is very early in winter, around 3:30 PM.",
+              "Check the app for any snow-related service delays."
+            ]
+          }
+        }
       }
     }
   }

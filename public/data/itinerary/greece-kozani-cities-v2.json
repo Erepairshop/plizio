@@ -379,6 +379,206 @@
           "Take time for a coffee at one of the many cafes in the main square.",
           "Locals are friendly, don't hesitate to ask for directions."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen am Uhrturm beginnt mit grauen Wolken, halten Sie den Schirm bereit. Mittags bietet die Kirche Agios Nikolaos einen trockenen Rückzugsort vor dem Regen. Den Nachmittag verbringen Sie in den weitläufigen Räumen des Volkskundemuseums. Den Abend lassen Sie gemütlich in der Koventareios-Bibliothek ausklingen, während es draußen regnet.",
+            "hu": "A reggel az óratoronynál borús, tartsa készenlétben az esernyőt. Délben az Agios Nikolaos templom belső tere nyújt menedéket a zápor elől. A délutánt töltse a néprajzi múzeum falai között, ahol gazdag kiállítás várja. Az estét a Koventareios könyvtár csendes nyugalmában zárhatja, távol a kültéri sártól.",
+            "ro": "Dimineața la turnul cu ceas începe sub nori, țineți umbrela la îndemână. La prânz, biserica Agios Nikolaos oferă un refugiu uscat împotriva ploii. Petreceți după-amiaza în sălile spațioase ale muzeului de folclor. Seara se încheie plăcut în biblioteca Koventareios, în timp ce afară plouă.",
+            "en": "Morning at the clock tower starts with grey clouds, keep your umbrella ready. At noon, Agios Nikolaos Church offers a dry sanctuary from the downpour. Spend the afternoon exploring the extensive Folklore Museum indoors. End your evening in the quiet comfort of the Koventareios Library as the rain continues outside."
+          },
+          "stops": [
+            {
+              "name": "Kozani Clock Tower",
+              "tip_5lang": {
+                "de": "Der Boden um den Turm kann bei Nässe rutschig sein, tragen Sie festes Schuhwerk.",
+                "hu": "A torony körüli kövezet esőben csúszós lehet, ügyeljen a lépteire.",
+                "ro": "Pavajul din jurul turnului poate fi alunecos pe ploaie, mergeți cu grijă.",
+                "en": "The pavement around the tower can be slippery when wet, wear sturdy shoes."
+              }
+            },
+            {
+              "name": "Church of Agios Nikolaos",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um einen kurzen Schauer im prächtigen Innenraum abzuwarten.",
+                "hu": "Ideális hely egy rövid zápor átvészeléséhez a gyönyörű belső térben.",
+                "ro": "Un loc ideal pentru a aștepta trecerea unei ploi scurte în interiorul superb.",
+                "en": "An ideal place to wait out a short shower inside the magnificent interior."
+              }
+            },
+            {
+              "name": "Lassani Mansion",
+              "tip_5lang": {
+                "de": "Besichtigen Sie die historischen Innenräume, um dem Regen für eine Stunde zu entfliehen.",
+                "hu": "Látogasson el a történelmi termekbe, hogy egy órára elmeneküljön az eső elől.",
+                "ro": "Vizitați interioarele istorice pentru a scăpa de ploaie timp de o oră.",
+                "en": "Visit the historical interiors to escape the rain for an hour."
+              }
+            },
+            {
+              "name": "Folklore Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Regenzeit für die ausführliche Betrachtung der sechs Etagen.",
+                "hu": "Használja ki az esős időt a hat emeletnyi kiállítás alapos megtekintésére.",
+                "ro": "Folosiți timpul ploios pentru a explora detaliat cele șase etaje de expoziție.",
+                "en": "Use the rainy time to explore the six floors of exhibits in detail."
+              }
+            },
+            {
+              "name": "Koventareios Municipal Library",
+              "tip_5lang": {
+                "de": "Hinterlassen Sie nasse Schirme im Eingangsbereich, bevor Sie die seltenen Kodizes ansehen.",
+                "hu": "A vizes ernyőket hagyja a bejáratnál, mielőtt megtekinti a ritka kódexeket.",
+                "ro": "Lăsați umbrelele ude la intrare înainte de a consulta codicele rare.",
+                "en": "Leave wet umbrellas at the entrance before viewing the rare codices."
+              }
+            },
+            {
+              "name": "Archaeological Museum of Aiani",
+              "tip_5lang": {
+                "de": "Der Weg zum Museum ist kurz, aber halten Sie für den Außenbereich den Schirm bereit.",
+                "hu": "A múzeumhoz vezető út rövid, de a kültéri részekhez készítse elő az ernyőt.",
+                "ro": "Drumul spre muzeu este scurt, dar aveți umbrela pregătită pentru exterior.",
+                "en": "The walk to the museum is short, but keep your umbrella ready for outdoor sections."
+              }
+            },
+            {
+              "name": "Kozani Municipal Park",
+              "tip_5lang": {
+                "de": "Die asphaltierten Wege im Park sind auch bei Regen gut begehbar.",
+                "hu": "A park aszfaltozott ösvényei esőben is jól járhatóak maradnak.",
+                "ro": "Aleile asfaltate din parc rămân ușor de parcurs chiar și pe ploaie.",
+                "en": "The paved paths in the park remain easily accessible even in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine wasserfeste Jacke, da der Wind in Kozani den Regen peitschen kann.",
+              "Viele Cafés in der Nähe der Platia bieten überdachte Außenbereiche mit Heizstrahlern.",
+              "Nutzen Sie die Zeit in den Museen, um die lokale Geschichte ohne Eile zu studieren.",
+              "Achten Sie auf Pfützen in den tiefer gelegenen Gassen der Altstadt."
+            ],
+            "hu": [
+              "Viseljen vízhatlan kabátot, mert a kozani szél felerősítheti az eső erejét.",
+              "A főtér környéki kávézók többsége fedett terasszal rendelkezik.",
+              "Használja ki a múzeumi látogatásokat a helyi történelem alapos megismerésére.",
+              "Ügyeljen a tócsákra az óváros alacsonyabban fekvő szűk utcáiban."
+            ],
+            "ro": [
+              "Purtați o jachetă impermeabilă, deoarece vântul din Kozani poate intensifica ploaia.",
+              "Multe cafenele din apropierea pieței centrale au terase acoperite.",
+              "Profitați de vizitele la muzee pentru a studia istoria locală fără grabă.",
+              "Atenție la bălțile formate pe străzile înguste din partea de jos a orașului vechi."
+            ],
+            "en": [
+              "Wear a waterproof jacket, as Kozani winds can drive the rain sideways.",
+              "Many cafes near the central square offer covered outdoor seating with heaters.",
+              "Take advantage of the museum visits to study local history without rushing.",
+              "Watch out for puddles in the lower-lying narrow streets of the old town."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Wintermorgen begrüßt Sie am Uhrturm, die Bergluft ist kristallklar. Mittags wärmen Sie sich in der Nähe des Agios Nikolaos mit einem heißen griechischen Kaffee auf. Nachmittags bieten die beheizten Museen Schutz vor dem kalten Nordwind. Da die Sonne gegen 17:00 Uhr untergeht, genießen Sie die festliche Beleuchtung im Stadtpark.",
+            "hu": "Hűvös téli reggel fogadja az óratoronynál, a hegyi levegő friss és tiszta. Délben melegedjen fel egy forró görög kávéval az Agios Nikolaos templom közelében. Délután a fűtött múzeumok nyújtanak menedéket a metsző északi szél elől. Mivel a nap 17:00 körül nyugszik, élvezze a városi park ünnepi fényeit.",
+            "ro": "O dimineață rece de iarnă vă întâmpină la turnul cu ceas, aerul de munte fiind curat. La prânz, încălziți-vă cu o cafea grecească fierbinte lângă biserica Agios Nikolaos. După-amiaza, muzeele încălzite oferă protecție împotriva vântului rece din nord. Deoarece soarele apune în jur de ora 17:00, bucurați-vă de luminile festive din parcul orașului.",
+            "en": "A crisp winter morning greets you at the clock tower, the mountain air is crystal clear. At noon, warm up with a hot Greek coffee near Agios Nikolaos Church. In the afternoon, the heated museums provide shelter from the cold northern wind. As the sun sets around 17:00, enjoy the festive lighting in the municipal park."
+          },
+          "stops": [
+            {
+              "name": "Kozani Clock Tower",
+              "tip_5lang": {
+                "de": "Ziehen Sie sich warm an, da es auf dem offenen Platz vor dem Turm sehr windig sein kann.",
+                "hu": "Öltözzön rétegesen, mert a torony előtti nyitott téren erős lehet a szél.",
+                "ro": "Îmbrăcați-vă gros, deoarece în piața deschisă din fața turnului poate bate vântul tare.",
+                "en": "Dress warmly as it can be very windy in the open square in front of the tower."
+              }
+            },
+            {
+              "name": "Church of Agios Nikolaos",
+              "tip_5lang": {
+                "de": "Der Innenraum ist oft angenehm temperiert und bietet Ruhe vor der Kälte.",
+                "hu": "A belső tér gyakran kellemes hőmérsékletű, menedéket nyújtva a hideg elől.",
+                "ro": "Interiorul are adesea o temperatură plăcută, oferind un răgaz de la frig.",
+                "en": "The interior is often comfortably tempered, offering a respite from the cold."
+              }
+            },
+            {
+              "name": "Lassani Mansion",
+              "tip_5lang": {
+                "de": "Bewundern Sie die traditionelle Architektur, die für die harten Winter der Region gebaut wurde.",
+                "hu": "Csodálja meg a hagyományos építészetet, amelyet a régió kemény teleire terveztek.",
+                "ro": "Admirați arhitectura tradițională, concepută pentru iernile aspre ale regiunii.",
+                "en": "Admire the traditional architecture designed for the region's harsh winters."
+              }
+            },
+            {
+              "name": "Folklore Museum",
+              "tip_5lang": {
+                "de": "Ideal, um die kältesten Stunden des Tages in den gut geheizten Ausstellungsräumen zu verbringen.",
+                "hu": "Ideális a nap leghidegebb óráit a jól fűtött kiállítótermekben tölteni.",
+                "ro": "Ideal pentru a petrece cele mai reci ore ale zilei în sălile de expoziție bine încălzite.",
+                "en": "Ideal for spending the coldest hours of the day in well-heated exhibition rooms."
+              }
+            },
+            {
+              "name": "Koventareios Municipal Library",
+              "tip_5lang": {
+                "de": "Ein warmer und stiller Ort, perfekt für einen späten Winternachmittag.",
+                "hu": "Meleg és csendes hely, tökéletes egy késő téli délutánhoz.",
+                "ro": "Un loc cald și liniștit, perfect pentru o după-amiază târzie de iarnă.",
+                "en": "A warm and quiet place, perfect for a late winter afternoon."
+              }
+            },
+            {
+              "name": "Archaeological Museum of Aiani",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die verschneiten Berge von den Fenstern des Museums aus.",
+                "hu": "Élvezze a kilátást a havas hegyekre a múzeum ablakaiból.",
+                "ro": "Bucurați-vă de priveliștea munților înzăpeziți de la ferestrele muzeului.",
+                "en": "Enjoy the view of the snow-capped mountains from the museum windows."
+              }
+            },
+            {
+              "name": "Kozani Municipal Park",
+              "tip_5lang": {
+                "de": "Besuchen Sie den Park früh, um das Tageslicht zu nutzen, bevor es frostig wird.",
+                "hu": "Látogasson el a parkba korán, hogy kihasználja a nappali fényt a fagy beállta előtt.",
+                "ro": "Vizitați parcul devreme pentru a profita de lumina zilei înainte de lăsarea gerului.",
+                "en": "Visit the park early to make the most of the daylight before it gets frosty."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kozani ist eine der kältesten Städte Griechenlands, Wollkleidung ist ein Muss.",
+              "Probieren Sie lokale Gerichte mit Krokos (Safran), um sich von innen aufzuwärmen.",
+              "Achten Sie auf vereiste Stellen auf den Kopfsteinpflasterstraßen am Morgen.",
+              "Die Sonne verschwindet früh hinter den Bergen, planen Sie Outdoor-Aktivitäten vor 16 Uhr."
+            ],
+            "hu": [
+              "Kozani Görögország egyik leghidegebb városa, a gyapjúruházat elengedhetetlen.",
+              "Kóstolja meg a helyi sáfrányos (krokos) ételeket, hogy belülről is felmelegedjen.",
+              "Reggelente ügyeljen a jeges foltokra a macskaköves utcákon.",
+              "A nap korán eltűnik a hegyek mögött, tervezze a kinti programokat 16 óra elé."
+            ],
+            "ro": [
+              "Kozani este unul dintre cele mai reci orașe din Grecia, hainele de lână sunt obligatorii.",
+              "Încercați mâncărurile locale cu Krokos (șofran) pentru a vă încălzi din interior.",
+              "Atenție la porțiunile înghețate de pe străzile pietruite în timpul dimineții.",
+              "Soarele dispare devreme după munți, planificați activitățile în aer liber înainte de ora 16."
+            ],
+            "en": [
+              "Kozani is one of the coldest cities in Greece, wool clothing is a must.",
+              "Try local dishes with Krokos (saffron) to warm up from the inside.",
+              "Watch out for icy patches on the cobblestone streets during the morning.",
+              "The sun disappears early behind the mountains, plan outdoor activities before 16:00."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -752,6 +952,206 @@
           "Kozani is relatively flat, but some streets can have a slight incline.",
           "A helmet is recommended for safety."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ihr Radtag beginnt im Stadtpark unter einem schützenden Blätterdach. Zum Mittag erreichen Sie das Aiani-Museum, wo Sie Ihr Rad sicher abstellen und sich abtrocknen können. Nachmittags führen kurze Sprints zwischen den kulturellen Stätten durch den Regen. Den Abend beenden Sie am Kourtoglou-Herrenhaus, nachdem Sie die nasse Ausrüstung verstaut haben.",
+            "hu": "A kerékpáros nap a városi parkban kezdődik a fák védelme alatt. Délre éri el az Aiani múzeumot, ahol biztonságban leparkolhat és megszáradhat. Délután rövid sprintekkel közlekedik a kulturális helyszínek között az esőben. Az estét a Kourtoglou-kúriánál zárja, miután elrakta a vizes felszerelést.",
+            "ro": "Ziua cu bicicleta începe în parcul orașului sub protecția copacilor. La prânz ajungeți la muzeul Aiani, unde puteți parca în siguranță și vă puteți usca. După-amiaza, parcurgeți distanțe scurte între punctele culturale prin ploaie. Încheiați seara la conacul Kourtoglou, după ce ați depozitat echipamentul umed.",
+            "en": "Your cycling day starts in the municipal park under the protective canopy of trees. By noon, reach the Aiani Museum, where you can park safely and dry off. In the afternoon, take short sprints between cultural sites through the rain. End your evening at the Kourtoglou Mansion after stowing your wet gear."
+          },
+          "stops": [
+            {
+              "name": "Kozani Municipal Park",
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf nassen Blättern, da diese sehr rutschig sein können.",
+                "hu": "Közlekedjen óvatosan a vizes leveleken, mert rendkívül csúszósak lehetnek.",
+                "ro": "Mergeți cu atenție pe frunzele ude, deoarece pot fi foarte alunecoase.",
+                "en": "Ride carefully on wet leaves, as they can be extremely slippery."
+              }
+            },
+            {
+              "name": "Archaeological Museum of Aiani",
+              "tip_5lang": {
+                "de": "Suchen Sie einen überdachten Platz für Ihr Fahrrad in der Nähe des Eingangs.",
+                "hu": "Keressen fedett helyet a kerékpárjának a bejárat közelében.",
+                "ro": "Căutați un loc acoperit pentru bicicletă în apropierea intrării.",
+                "en": "Look for a covered spot for your bike near the entrance."
+              }
+            },
+            {
+              "name": "Koventareios Municipal Library",
+              "tip_5lang": {
+                "de": "Verwenden Sie eine Sattelabdeckung, während Sie die Bibliothek besuchen.",
+                "hu": "Használjon nyeregvédőt, amíg a könyvtárban tartózkodik.",
+                "ro": "Folosiți o protecție pentru șa în timp ce vizitați biblioteca.",
+                "en": "Use a saddle cover while you are visiting the library."
+              }
+            },
+            {
+              "name": "Kozani Clock Tower",
+              "tip_5lang": {
+                "de": "Vermeiden Sie scharfe Bremsmanöver auf dem nassen Kopfsteinpflaster am Hauptplatz.",
+                "hu": "Kerülje az erős fékezést a vizes macskakövön a főtéren.",
+                "ro": "Evitați frânările bruște pe pietrele ude din piața centrală.",
+                "en": "Avoid sudden braking on the wet cobblestones in the central square."
+              }
+            },
+            {
+              "name": "Church of Agios Nikolaos",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad so ab, dass es den Fußgängern mit Schirmen nicht im Weg steht.",
+                "hu": "Úgy parkoljon, hogy ne akadályozza az esernyős gyalogosokat.",
+                "ro": "Parcați bicicleta astfel încât să nu jeneze pietonii cu umbrele.",
+                "en": "Park your bike so it doesn't obstruct pedestrians with umbrellas."
+              }
+            },
+            {
+              "name": "Folklore Museum",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsbeläge vor der Abfahrt, da Nässe die Bremskraft verringert.",
+                "hu": "Indulás előtt ellenőrizze a fékbetéteket, mert a víz csökkenti a fékhatást.",
+                "ro": "Verificați saboții de frână înainte de plecare, deoarece apa reduce eficiența frânării.",
+                "en": "Check your brake pads before departure, as wetness reduces braking efficiency."
+              }
+            },
+            {
+              "name": "Kourtoglou Mansion",
+              "tip_5lang": {
+                "de": "Wischen Sie den Rahmen trocken, bevor Sie das Rad für die Nacht abstellen.",
+                "hu": "Törölje szárazra a vázat, mielőtt éjszakára elrakja a kerékpárt.",
+                "ro": "Ștergeți cadrul bicicletei înainte de a o depozita pentru noapte.",
+                "en": "Wipe the frame dry before storing the bike for the night."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie Pfützen, da diese tiefe Schlaglöcher verbergen können.",
+              "Vollvisierhelme oder Brillen schützen Ihre Augen vor aufgewirbeltem Spritzwasser.",
+              "Ein Schutzblech ist bei diesem Wetter in Kozani unerlässlich.",
+              "Fahren Sie mit geringerem Reifendruck für besseren Grip auf nassem Asphalt."
+            ],
+            "hu": [
+              "Kerülje a tócsákat, mert mély kátyúkat rejthetnek.",
+              "A sisakrostély vagy szemüveg megvédi szemét a felcsapódó víztől.",
+              "A sárvédő használata elengedhetetlen ilyenkor Kozaniban.",
+              "Közlekedjen valamivel alacsonyabb guminyomással a jobb tapadás érdekében."
+            ],
+            "ro": [
+              "Evitați bălțile, deoarece pot ascunde gropi adânci.",
+              "Ochelarii sau viziera căștii vă protejează ochii de stropii de apă.",
+              "Apărătorile de noroi sunt esențiale pe această vreme în Kozani.",
+              "Mergeți cu o presiune ușor mai scăzută în pneuri pentru o aderență mai bună pe asfalt ud."
+            ],
+            "en": [
+              "Avoid puddles as they can hide deep potholes.",
+              "Goggles or a helmet visor will protect your eyes from spray water.",
+              "Mudguards are essential in this weather in Kozani.",
+              "Ride with slightly lower tire pressure for better grip on wet asphalt."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Start im Stadtpark erfordert warme Handschuhe am Lenker. Bis zum Mittag radeln Sie zum Aiani-Museum, wobei die Bewegung Sie warm hält. Nachmittags ist die Fahrt zwischen Bibliothek und Uhrturm kurz, um die Auskühlung zu minimieren. Den Abend beenden Sie früh, bevor die Temperaturen nach Sonnenuntergang drastisch sinken.",
+            "hu": "A fagyos kezdés a parkban meleg kesztyűt igényel a kormányon. Délig az Aiani múzeumhoz teker, a mozgás segít melegen tartani. Délután a könyvtár és az óratorony közötti táv rövidsége segít elkerülni a lehűlést. Az estét korán zárja, mielőtt a naplemente után drasztikusan visszaesik a hőmérséklet.",
+            "ro": "Un start înghețat în parc necesită mănuși groase pe ghidon. Până la prânz pedalați spre muzeul Aiani, mișcarea ajutându-vă să vă mențineți căldura. După-amiaza, drumul scurt între bibliotecă și turn minimizează expunerea la frig. Încheiați seara devreme, înainte ca temperaturile să scadă drastic după apus.",
+            "en": "A frosty start in the park requires warm gloves on the handlebars. By noon, cycle to the Aiani Museum, where the movement helps keep you warm. In the afternoon, short rides between the library and the clock tower minimize cold exposure. End your evening early before temperatures drop drastically after sunset."
+          },
+          "stops": [
+            {
+              "name": "Kozani Municipal Park",
+              "tip_5lang": {
+                "de": "Achten Sie auf Raureif auf den Wegen, besonders im Schatten der Bäume.",
+                "hu": "Ügyeljen a zúzmarára az ösvényeken, különösen a fák árnyékos oldalán.",
+                "ro": "Atenție la chiciura de pe alei, în special în zonele umbrite de copaci.",
+                "en": "Watch out for hoarfrost on the paths, especially in the shade of trees."
+              }
+            },
+            {
+              "name": "Archaeological Museum of Aiani",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an einem sonnigen Platz, um ein Einfrieren des Schlosses zu verhindern.",
+                "hu": "Parkoljon napos helyen, hogy megelőzze a zár befagyását.",
+                "ro": "Parcați bicicleta la soare pentru a preveni înghețarea încuietorii.",
+                "en": "Park your bike in a sunny spot to prevent the lock from freezing."
+              }
+            },
+            {
+              "name": "Koventareios Municipal Library",
+              "tip_5lang": {
+                "de": "Die Bibliothek ist ein idealer Ort, um die Finger für die Weiterfahrt aufzuwärmen.",
+                "hu": "A könyvtár ideális hely az ujjak felmelegítésére a továbbindulás előtt.",
+                "ro": "Biblioteca este un loc ideal pentru a vă încălzi degetele înainte de a porni din nou.",
+                "en": "The library is an ideal place to warm up your fingers before riding on."
+              }
+            },
+            {
+              "name": "Kozani Clock Tower",
+              "tip_5lang": {
+                "de": "Achten Sie auf tückisches Glatteis auf dem Kopfsteinpflaster rund um den Platz.",
+                "hu": "Ügyeljen a csalóka jegesedésre a tér körüli macskaköveken.",
+                "ro": "Atenție la gheața înșelătoare de pe pietrele din jurul pieței.",
+                "en": "Watch out for treacherous black ice on the cobblestones around the square."
+              }
+            },
+            {
+              "name": "Church of Agios Nikolaos",
+              "tip_5lang": {
+                "de": "Der kurze Stopp hier gibt Ihnen Zeit, die winterliche Stille der Stadt zu genießen.",
+                "hu": "A rövid megálló lehetőséget ad a város téli csendjének élvezetére.",
+                "ro": "O scurtă oprire aici vă permite să vă bucurați de liniștea hibernală a orașului.",
+                "en": "A short stop here lets you enjoy the winter silence of the city."
+              }
+            },
+            {
+              "name": "Folklore Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Museum als ausgedehnte Aufwärmpause am Nachmittag.",
+                "hu": "Használja a múzeumot hosszabb melegedő szünetként a délután folyamán.",
+                "ro": "Folosiți muzeul ca o pauză prelungită de încălzire în timpul după-amiezii.",
+                "en": "Use the museum as an extended warming-up break in the afternoon."
+              }
+            },
+            {
+              "name": "Kourtoglou Mansion",
+              "tip_5lang": {
+                "de": "Kettenöl für niedrige Temperaturen hält die Schaltung im Winter geschmeidig.",
+                "hu": "Az alacsony hőmérsékletre szánt láncolaj télen is finom váltást biztosít.",
+                "ro": "Uleiul de lanț pentru temperaturi scăzute menține schimbătorul funcțional iarna.",
+                "en": "Low-temperature chain oil keeps shifting smooth in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie mehrere Schichten Kleidung (Zwiebelprinzip) gegen den kalten Fahrtwind.",
+              "Vermeiden Sie das Waschen des Rades bei Minusgraden, da Züge einfrieren können.",
+              "Stirnlampen sind wichtig, da es in Kozani im Winter früh dunkel wird.",
+              "Trinken Sie auch bei Kälte genug, am besten warmen Tee aus einer Thermoskanne."
+            ],
+            "hu": [
+              "Viseljen több réteg ruhát a hideg menetszél ellen.",
+              "Kerülje a bicikli mosását fagyban, mert a bowdenek befagyhatnak.",
+              "A lámpa használata kötelező, mert Kozaniban télen korán sötétedik.",
+              "Igyon eleget a hidegben is, a legjobb a termoszban vitt meleg tea."
+            ],
+            "ro": [
+              "Purtați mai multe straturi de haine împotriva vântului rece de mișcare.",
+              "Evitați spălarea bicicletei la temperaturi negative, deoarece cablurile pot îngheța.",
+              "Luminile sunt esențiale, deoarece în Kozani se întunecă devreme iarna.",
+              "Beți suficiente lichide chiar și pe frig, ideal ceai cald dintr-un termos."
+            ],
+            "en": [
+              "Wear multiple layers of clothing (onion principle) against the cold wind.",
+              "Avoid washing the bike in freezing temperatures as cables may freeze.",
+              "Lights are essential as it gets dark early in Kozani during winter.",
+              "Drink enough even in the cold, ideally warm tea from a thermos."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1108,6 +1508,188 @@
           "Be aware of limited traffic zones (ZTLs) which might be restricted for non-residents.",
           "A GPS is essential for navigating the smaller streets."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie den Tag im Aiani-Museum, wo Sie direkt vor der Tür parken können. Mittags bietet der Stadtpark eine kurze Regenpause für einen Spaziergang. Der Nachmittag am Uhrturm und in der Kirche ist dank kurzer Wege vom Parkhaus aus bequem. Den Abend verbringen Sie im Volkskundemuseum, während der Regen gegen die alten Fenster prasselt.",
+            "hu": "Kezdje a napot az Aiani múzeumban, ahol közvetlenül az épület előtt parkolhat. Délben a városi park rövid szünetet kínál az esőben egy sétához. Az óratoronynál és a templomnál töltött délután kényelmes a parkolóház közelsége miatt. Az estét a néprajzi múzeumban tölti, miközben az eső az ablakokon kopog.",
+            "ro": "Începeți ziua la muzeul Aiani, unde puteți parca chiar în față. La prânz, parcul orașului oferă o scurtă pauză de ploaie pentru o plimbare. După-amiaza la turn și biserică este confortabilă datorită distanțelor scurte de la parcare. Seara se petrece la muzeul de folclor, în timp ce ploaia bate în ferestrele vechi.",
+            "en": "Start the day at the Aiani Museum, where you can park right in front. At noon, the municipal park offers a brief break in the rain for a stroll. The afternoon at the clock tower and church is convenient thanks to the nearby parking garage. Spend the evening at the Folklore Museum while the rain patters against the old windows."
+          },
+          "stops": [
+            {
+              "name": "Archaeological Museum of Aiani",
+              "tip_5lang": {
+                "de": "Nutzen Sie den befestigten Parkplatz, um Schlamm am Fahrzeug zu vermeiden.",
+                "hu": "Használja a kiépített parkolót, hogy elkerülje a sár felhordását az autóra.",
+                "ro": "Folosiți parcarea amenajată pentru a evita noroiul pe vehicul.",
+                "en": "Use the paved parking lot to avoid mud on your vehicle."
+              }
+            },
+            {
+              "name": "Kozani Municipal Park",
+              "tip_5lang": {
+                "de": "Parken Sie unter Bäumen nur, wenn kein starker Wind mit dem Regen einhergeht.",
+                "hu": "Csak akkor parkoljon fák alatt, ha az esőt nem kíséri erős szél.",
+                "ro": "Parcați sub copaci doar dacă ploaia nu este însoțită de vânt puternic.",
+                "en": "Park under trees only if there is no strong wind accompanying the rain."
+              }
+            },
+            {
+              "name": "Central Square & Clock Tower",
+              "tip_5lang": {
+                "de": "Suchen Sie ein Parkhaus in der Nähe, um trockenen Fußes zum Turm zu gelangen.",
+                "hu": "Keressen közeli parkolóházat, hogy száraz lábbal érjen a toronyhoz.",
+                "ro": "Căutați o parcare etajată în apropiere pentru a ajunge uscat la turn.",
+                "en": "Look for a nearby parking garage to reach the tower with dry feet."
+              }
+            },
+            {
+              "name": "Church of Agios Nikolaos",
+              "tip_5lang": {
+                "de": "Die Einbahnstraßen rund um die Kirche können bei Regen rutschig sein.",
+                "hu": "A templom körüli egyirányú utcák esőben csúszósak lehetnek.",
+                "ro": "Străzile cu sens unic din jurul bisericii pot fi alunecoase pe ploaie.",
+                "en": "The one-way streets around the church can be slippery in the rain."
+              }
+            },
+            {
+              "name": "Folklore Museum",
+              "tip_5lang": {
+                "de": "Lassen Sie keine nassen Jacken im Auto, um das Beschlagen der Scheiben zu verhindern.",
+                "hu": "Ne hagyjon vizes kabátot az autóban, hogy elkerülje a szélvédő párásodását.",
+                "ro": "Nu lăsați jachete ude în mașină pentru a preveni aburirea geamurilor.",
+                "en": "Don't leave wet jackets in the car to prevent the windows from fogging up."
+              }
+            },
+            {
+              "name": "Lassani Mansion",
+              "tip_5lang": {
+                "de": "Parkplätze in den engen Gassen sind bei Regen oft schwer zu finden.",
+                "hu": "Az esőben gyakran nehezebb parkolóhelyet találni a szűk utcákban.",
+                "ro": "Locurile de parcare pe străzile înguste sunt adesea greu de găsit pe ploaie.",
+                "en": "Parking spots in the narrow streets are often harder to find in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Scheibenwischerblätter vor der Fahrt durch die Berge.",
+              "Das Abblendlicht sollte in Kozani auch tagsüber bei starkem Regen eingeschaltet sein.",
+              "Vermeiden Sie das Parken in Senken, die bei Starkregen überfluten könnten.",
+              "Nutzen Sie die Klimaanlage, um die Feuchtigkeit aus dem Innenraum zu entfernen."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze az ablaktörlő lapátokat a hegyi utak előtt.",
+              "Erős esőben Kozaniban nappal is kapcsolja be a tompított fényszórót.",
+              "Kerülje a mélyebben fekvő helyeken való parkolást a hirtelen vízgyülemek miatt.",
+              "Használja a légkondicionálót az utastér párátlanítására."
+            ],
+            "ro": [
+              "Verificați lamelele ștergătoarelor înainte de drumul prin munți.",
+              "Aprindeți faza scurtă în Kozani chiar și ziua în timpul ploilor torențiale.",
+              "Evitați parcarea în zone joase care s-ar putea inunda la ploi abundente.",
+              "Folosiți aerul condiționat pentru a elimina umiditatea din habitaclu."
+            ],
+            "en": [
+              "Check your wiper blades before driving through the mountains.",
+              "Keep low beam headlights on in Kozani even during the day in heavy rain.",
+              "Avoid parking in hollows that could flood during heavy downpours.",
+              "Use the air conditioning to remove moisture from the interior."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen beginnt mit der Fahrt zum Aiani-Museum, wobei die Sitzheizung den Komfort erhöht. Mittags bietet der Parkplatz am Stadtpark Zugang zur frischen Winterluft. Der Nachmittag im Zentrum ist durch die Nähe der Cafés zum Auto angenehm warm. Den Abend schließen Sie mit einer kurzen Fahrt zum festlich beleuchteten Lassani-Herrenhaus ab.",
+            "hu": "A fagyos reggel az Aiani múzeumhoz vezető úttal kezdődik, ahol az ülésfűtés növeli a komfortot. Délben a városi parknál való parkolás lehetőséget ad a friss téli levegőre. A központban töltött délután a kávézók közelsége miatt kellemesen meleg marad. Az estét a díszkivilágításban pompázó Lassani-kúria látogatásával zárja.",
+            "ro": "O dimineață geroasă începe cu drumul spre muzeul Aiani, încălzirea în scaune sporind confortul. La prânz, parcarea de lângă parcul orașului oferă acces la aerul curat de iarnă. După-amiaza în centru este plăcută datorită proximității cafenelelor de mașină. Încheiați seara cu o scurtă vizită la conacul Lassani iluminat festiv.",
+            "en": "A frosty morning begins with the drive to the Aiani Museum, with seat heating adding to the comfort. At noon, parking by the municipal park provides access to the fresh winter air. The afternoon in the center remains pleasantly warm due to the proximity of cafes to the car. End your evening with a short drive to the festively lit Lassani Mansion."
+          },
+          "stops": [
+            {
+              "name": "Archaeological Museum of Aiani",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf der Zufahrtsstraße zum Museum außerhalb der Stadt.",
+                "hu": "Ügyeljen a jegesedésre a városon kívüli, múzeumhoz vezető úton.",
+                "ro": "Atenție la gheața de pe drumul de acces spre muzeu, în afara orașului.",
+                "en": "Watch out for black ice on the access road to the museum outside the city."
+              }
+            },
+            {
+              "name": "Kozani Municipal Park",
+              "tip_5lang": {
+                "de": "Die Parkplätze am Rand des Parks können morgens überfroren sein.",
+                "hu": "A park szélén lévő parkolóhelyek reggelente lejegesedhetnek.",
+                "ro": "Locurile de parcare de la marginea parcului pot fi înghețate dimineața.",
+                "en": "Parking spots at the edge of the park can be frozen over in the morning."
+              }
+            },
+            {
+              "name": "Central Square & Clock Tower",
+              "tip_5lang": {
+                "de": "Nutzen Sie beheizte Parkhäuser, um ein Einfrieren der Türschlösser zu vermeiden.",
+                "hu": "Használjon fűtött parkolóházat, hogy megelőzze az ajtózárak befagyását.",
+                "ro": "Folosiți parcări etajate acoperite pentru a preveni înghețarea încuietorilor.",
+                "en": "Use heated indoor parking garages to prevent door locks from freezing."
+              }
+            },
+            {
+              "name": "Church of Agios Nikolaos",
+              "tip_5lang": {
+                "de": "Kurze Parkdauer ist im Winter in der Nähe des Eingangs oft möglich.",
+                "hu": "A bejárat közelében télen gyakran lehetséges a rövid idejű parkolás.",
+                "ro": "Parcarea pe durată scurtă este adesea posibilă lângă intrare iarna.",
+                "en": "Short-term parking is often possible near the entrance in winter."
+              }
+            },
+            {
+              "name": "Folklore Museum",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Reifendruck, da dieser bei Kälte sinken kann.",
+                "hu": "Ellenőrizze a guminyomást, mert a hidegben az értékek csökkenhetnek.",
+                "ro": "Verificați presiunea în anvelope, deoarece aceasta poate scădea la frig.",
+                "en": "Check tire pressure, as it can drop in cold temperatures."
+              }
+            },
+            {
+              "name": "Lassani Mansion",
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig in den engen, schattigen Gassen rund um das Herrenhaus.",
+                "hu": "Közlekedjen óvatosan a kúria körüli szűk, árnyékos utcákban.",
+                "ro": "Mergeți cu grijă pe străzile înguste și umbrite din jurul conacului.",
+                "en": "Drive carefully in the narrow, shaded streets around the mansion."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in Kozani aufgrund der Höhenlage von November bis März Pflicht.",
+              "Halten Sie einen Eiskratzer und Frostschutzmittel im Kofferraum bereit.",
+              "Vermeiden Sie es, die Handbremse bei extremem Frost über Nacht fest anzuziehen.",
+              "Ein voller Tank sorgt für zusätzliches Gewicht und besseren Grip auf Schnee."
+            ],
+            "hu": [
+              "Kozaniban a tengerszint feletti magasság miatt a téli gumi kötelező novembertől márciusig.",
+              "Tartson jégkaparót és fagyállót a csomagtartóban.",
+              "Kerülje a kézifék behúzását éjszakára extrém fagy esetén.",
+              "A teli tank nagyobb súlyt és jobb tapadást biztosít havon."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii în Kozani din noiembrie până în martie.",
+              "Țineți o racletă și lichid de parbriz anti-îngheț în portbagaj.",
+              "Evitați tragerea frânei de mână peste noapte în condiții de ger extrem.",
+              "Un rezervor plin oferă greutate suplimentară și aderență mai bună pe zăpadă."
+            ],
+            "en": [
+              "Winter tires are mandatory in Kozani from November to March due to the altitude.",
+              "Keep an ice scraper and anti-freeze fluid in the trunk.",
+              "Avoid leaving the handbrake engaged overnight during extreme frost.",
+              "A full tank provides extra weight and better grip on snow."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1464,6 +2046,188 @@
           "Buses can be crowded during peak hours, plan accordingly.",
           "Have small change ready for tickets if buying on board."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag mit dem Bus zum Aiani-Museum, während Sie die Aussicht auf die verregnete Landschaft genießen. Mittags bringt Sie der Transit bequem zum Stadtpark für einen kurzen Aufenthalt. Der Nachmittag im Zentrum ist durch die gut vernetzten Haltestellen trotz Regens unkompliziert. Den Abend verbringen Sie in der Bibliothek, bevor der letzte Bus Sie zurückbringt.",
+            "hu": "Kezdje a napot az Aiani múzeumba tartó busszal, élvezve az esős táj látványát. Délben a tömegközlekedés kényelmesen elviszi a parkhoz egy rövid látogatásra. A központban töltött délután az eső ellenére egyszerű a jól elhelyezett megállóknak köszönhetően. Az estét a könyvtárban tölti, mielőtt az utolsó busz visszaviszi.",
+            "ro": "Începeți ziua cu autobuzul spre muzeul Aiani, admirând peisajul ploios pe geam. La prânz, transportul public vă duce confortabil la parcul orașului. După-amiaza în centru este simplă datorită stațiilor bine amplasate, în ciuda ploii. Seara se petrece la bibliotecă, înainte ca ultimul autobuz să vă ducă înapoi.",
+            "en": "Start your day with the bus to the Aiani Museum, enjoying the view of the rainy landscape. At noon, transit takes you comfortably to the park for a short visit. The afternoon in the center is straightforward despite the rain thanks to well-placed stops. Spend the evening at the library before the last bus takes you back."
+          },
+          "stops": [
+            {
+              "name": "Archaeological Museum of Aiani",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Fahrplan für die Rückfahrt, da Busse bei Regen Verspätung haben können.",
+                "hu": "Ellenőrizze a visszautat, mert az esőben a buszok késhetnek.",
+                "ro": "Verificați programul de întoarcere, deoarece autobuzele pot avea întârzieri pe ploaie.",
+                "en": "Check the return schedule, as buses may be delayed in the rain."
+              }
+            },
+            {
+              "name": "Kozani Municipal Park",
+              "tip_5lang": {
+                "de": "Die Haltestelle am Park bietet oft ein kleines Dach zum Unterstehen.",
+                "hu": "A parknál lévő megálló gyakran rendelkezik kis tetővel a beálláshoz.",
+                "ro": "Stația de lângă parc are adesea un mic acoperiș pentru adăpost.",
+                "en": "The stop by the park often has a small roof for shelter."
+              }
+            },
+            {
+              "name": "Central Square & Clock Tower",
+              "tip_5lang": {
+                "de": "Zentraler Knotenpunkt mit vielen Verbindungen, ideal um trocken umzusteigen.",
+                "hu": "Központi csomópont sok csatlakozással, ideális a száraz átszálláshoz.",
+                "ro": "Nod central cu multe conexiuni, ideal pentru a schimba liniile la adăpost.",
+                "en": "Central hub with many connections, ideal for changing lines while staying dry."
+              }
+            },
+            {
+              "name": "Church of Agios Nikolaos",
+              "tip_5lang": {
+                "de": "Vom Busstop sind es nur wenige Meter bis zum trockenen Kircheneingang.",
+                "hu": "A buszmegállótól csak pár méter a templom száraz bejárata.",
+                "ro": "De la stația de autobuz sunt doar câțiva metri până la intrarea uscată a bisericii.",
+                "en": "It's only a few meters from the bus stop to the dry church entrance."
+              }
+            },
+            {
+              "name": "Folklore Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Wartezeit in der Nähe des Museums in einem überdachten Café.",
+                "hu": "Várjon a buszra a múzeum közeli fedett kávézóinak egyikében.",
+                "ro": "Așteptați autobuzul la una dintre cafenelele acoperite din apropierea muzeului.",
+                "en": "Wait for the bus at one of the covered cafes near the museum."
+              }
+            },
+            {
+              "name": "Koventareios Municipal Library",
+              "tip_5lang": {
+                "de": "Informieren Sie sich über die App, wann der nächste Bus zur Bibliothek kommt.",
+                "hu": "Tájékozódjon az applikációban, mikor érkezik a következő busz a könyvtárhoz.",
+                "ro": "Informați-vă prin aplicație când sosește următorul autobuz spre bibliotecă.",
+                "en": "Check the app to see when the next bus to the library arrives."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Halten Sie Ihr Ticket griffbereit, um Verzögerungen beim Einsteigen zu vermeiden.",
+              "Die Busse in Kozani sind im Winter und bei Regen oft gut beheizt.",
+              "Tragen Sie Schuhe mit gutem Profil für den Weg von und zur Haltestelle.",
+              "An stark besuchten Haltestellen kann es bei Regen unter den Dächern eng werden."
+            ],
+            "hu": [
+              "Tartsa készenlétben a jegyét, hogy ne lassítsa a felszállást az esőben.",
+              "A kozani buszok télen és esőben gyakran kellemesen fűtöttek.",
+              "Viseljen jó tapadású cipőt a megállóhoz vezető úton.",
+              "A forgalmasabb megállókban eső idején zsúfoltság lehet a fedett részeken."
+            ],
+            "ro": [
+              "Aveți biletul la îndemână pentru a nu întârzia urcarea pe ploaie.",
+              "Autobuzele din Kozani sunt adesea bine încălzite iarna și pe ploaie.",
+              "Purtați pantofi cu talpă aderentă pentru drumul spre și de la stație.",
+              "În stațiile aglomerate poate fi înghesuială sub acoperiș în timpul ploii."
+            ],
+            "en": [
+              "Keep your ticket ready to avoid delays when boarding in the rain.",
+              "Buses in Kozani are often well-heated during winter and rain.",
+              "Wear shoes with good grip for the walk to and from the stop.",
+              "Busy stops can get crowded under the shelters during rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen beginnt mit der Fahrt zum Aiani-Museum, während draußen der Rauhreif glitzert. Mittags bringt Sie der warme Bus zum Stadtpark, wo Sie die klare Winterluft atmen können. Der Nachmittag im Zentrum ist durch die kurzen Wege zwischen den warmen Transit-Fahrzeugen bequem. Den Abend lassen Sie in der Bibliothek ausklingen, bevor Sie die beleuchtete Stadt durch das Busfenster sehen.",
+            "hu": "A fagyos reggel az Aiani múzeumba tartó úttal kezdődik, miközben kint csillog a zúzmara. Délben a meleg busz a parkhoz viszi, ahol belélegezheti a tiszta téli levegőt. A központban töltött délután a meleg járművek közötti rövid szakaszok miatt kényelmes. Az estét a könyvtárban zárja, mielőtt a buszablakon át megcsodálná a kivilágított várost.",
+            "ro": "O dimineață geroasă începe cu drumul spre muzeul Aiani, în timp ce afară strălucește chiciura. La prânz, autobuzul călduros vă duce la parc, unde puteți respira aerul curat de iarnă. După-amiaza în centru este confortabilă datorită segmentelor scurte între vehiculele încălzite. Încheiați seara la bibliotecă, admirând orașul iluminat prin fereastra autobuzului.",
+            "en": "A frosty morning begins with the trip to the Aiani Museum, while hoarfrost glitters outside. At noon, the warm bus takes you to the park where you can breathe the crisp winter air. The afternoon in the center is comfortable due to the short distances between warm transit vehicles. End the evening at the library before admiring the lit city through the bus window."
+          },
+          "stops": [
+            {
+              "name": "Archaeological Museum of Aiani",
+              "tip_5lang": {
+                "de": "Die Wartehäuschen außerhalb der Stadt können im Winter sehr zugig sein.",
+                "hu": "A városon kívüli buszvárók télen nagyon huzatosak lehetnek.",
+                "ro": "Stațiile de autobuz din afara orașului pot fi foarte expuse vântului iarna.",
+                "en": "Bus shelters outside the city can be very draughty in winter."
+              }
+            },
+            {
+              "name": "Kozani Municipal Park",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis an den Bordsteinen beim Ein- und Aussteigen.",
+                "hu": "Ügyeljen a jegesedésre a padkák mentén a fel- és leszálláskor.",
+                "ro": "Atenție la gheața de pe borduri la urcarea și coborârea din vehicul.",
+                "en": "Watch out for ice on the curbs when boarding and alighting."
+              }
+            },
+            {
+              "name": "Central Square & Clock Tower",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Wartezeit für einen schnellen warmen Snack an einem der Stände.",
+                "hu": "Használja ki a várakozási időt egy gyors meleg snackre az egyik árusnál.",
+                "ro": "Folosiți timpul de așteptare pentru o gustare caldă rapidă la una dintre tarabe.",
+                "en": "Use the waiting time for a quick warm snack at one of the stalls."
+              }
+            },
+            {
+              "name": "Church of Agios Nikolaos",
+              "tip_5lang": {
+                "de": "Die Frequenz der Busse kann an Feiertagen im Winter eingeschränkt sein.",
+                "hu": "A buszok gyakorisága a téli ünnepek idején korlátozott lehet.",
+                "ro": "Frecvența autobuzelor poate fi redusă în timpul sărbătorilor de iarnă.",
+                "en": "Bus frequency may be limited during winter holidays."
+              }
+            },
+            {
+              "name": "Folklore Museum",
+              "tip_5lang": {
+                "de": "Warten Sie lieber im Museumsshop auf den Bus, um nicht auszukühlen.",
+                "hu": "Várjon inkább a múzeumban a buszra, hogy ne hűljön ki.",
+                "ro": "Mai degrabă așteptați autobuzul în magazinul muzeului pentru a nu dârdâi de frig.",
+                "en": "Better wait for the bus inside the museum shop to avoid getting cold."
+              }
+            },
+            {
+              "name": "Koventareios Municipal Library",
+              "tip_5lang": {
+                "de": "Die Busse am Abend sind oft weniger frequentiert, planen Sie Ihre Rückfahrt vorab.",
+                "hu": "Az esti buszok ritkábban járnak, tervezze meg előre a visszautat.",
+                "ro": "Autobuzele de seară sunt mai rare, planificați-vă întoarcerea din timp.",
+                "en": "Evening buses are less frequent, plan your return trip in advance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Heizung in den Bussen kann stark eingestellt sein, kleiden Sie sich variabel.",
+              "Winterfahrpläne können sich bei starkem Schneefall kurzfristig ändern.",
+              "Nutzen Sie die vorderen Türen beim Bus, dort ist es oft am wärmsten.",
+              "Halten Sie Kleingeld für Fahrkarten bereit, falls Automaten bei Kälte streiken."
+            ],
+            "hu": [
+              "A buszok fűtése erős lehet, öltözzön rétegesen a hőmérséklet-különbség miatt.",
+              "Erős havazás esetén a téli menetrend rövid úton módosulhat.",
+              "Használja az első ajtót a felszálláshoz, ott gyakran melegebb van.",
+              "Legyen Önnél aprópénz a jegyhez, ha az automata a hidegben nem működne."
+            ],
+            "ro": [
+              "Căldura din autobuze poate fi puternică, îmbrăcați-vă în straturi.",
+              "Orarele de iarnă se pot modifica rapid în caz de ninsori abundente.",
+              "Folosiți ușile din față la autobuz, acolo este adesea cel mai cald.",
+              "Aveți mărunt pentru bilete, în caz că automatele nu funcționează la ger."
+            ],
+            "en": [
+              "The heating in buses can be set high, so dress in layers.",
+              "Winter schedules may change at short notice during heavy snowfall.",
+              "Use the front doors of the bus as it is often warmest there.",
+              "Keep small change ready for tickets in case machines fail in the cold."
+            ]
+          }
+        }
       }
     }
   }

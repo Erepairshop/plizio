@@ -356,6 +356,188 @@
           "Bring plenty of water, especially in summer.",
           "Most shops observe a siesta, so plan your shopping accordingly."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt in den weiß getünchten Gassen der Altstadt, wo der Regen die blauen Kuppeln der Kirche Nuestra Señora del Consuelo zum Leuchten bringt. Mittags bietet das Kircheninnere Schutz vor dem Guss, während die gepflasterten Wege glänzen. Nachmittags führt die Route zur Playa de la Roda, wo das graue Meer eine melancholische Schönheit ausstrahlt. Den Abend beschließt der Besuch der russisch-orthodoxen Kirche, deren Holzarchitektur im Regen besonders warm wirkt.",
+            "hu": "A reggel az óváros fehérre meszelt utcáin indul, ahol az eső még inkább kiemeli a Consuelo-templom kék kupoláit. Délben a templom belső tere nyújt menedéket a zápor elől, miközve a macskaköves utak tükörként fénylenek. Délután a Playa de la Roda felé vesszük az irányt, ahol a szürke tenger morajlása melankolikus hangulatot áraszt. Az estét az ortodox fatemplom látogatása zárja, amelynek fagerendái között az eső kopogása megnyugtató háttérzajt ad.",
+            "ro": "Dimineața începe pe străzile albe ale orașului vechi, unde ploaia face cupolele albastre ale bisericii Consuelo să strălucească intens. La prânz, interiorul bisericii oferă adăpost, în timp ce pavajul devine lucios sub picăturile de apă. După-amiaza traseul continuă spre Playa de la Roda, unde marea gri are o frumusețe aparte. Seara se încheie la biserica ortodoxă rusă, a cărei structură din lemn pare extrem de primitoare pe vreme ploioasă.",
+            "en": "Morning starts in the whitewashed alleys of the Old Town, where the rain makes the blue domes of the Consuelo church shine. At noon, the church interior provides shelter while the cobblestone paths glisten like mirrors. Afternoon leads to Playa de la Roda, where the grey sea exudes a melancholic beauty. The evening concludes with a visit to the Russian Orthodox Church, whose wooden architecture feels particularly warm amidst the rain."
+          },
+          "stops": [
+            {
+              "name": "Old Town (Casco Antiguo)",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem glatten Kopfsteinpflaster; feste Sohlen sind bei Nässe ratsam.",
+                "hu": "Vigyázat, a macskakövek vizesen csúsznak; viseljen tapadós talpú cipőt.",
+                "ro": "Atenție la pavajul alunecos; se recomandă încălțăminte cu talpă aderentă.",
+                "en": "Careful on the slippery cobblestones; wear shoes with good grip in the wet."
+              }
+            },
+            {
+              "name": "Church of Nuestra Señora del Consuelo",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Innenraum für eine trockene Pause und bewundern Sie die Kacheln.",
+                "hu": "Használja ki a belső teret egy száraz pihenőre és csodálja meg a csempéket.",
+                "ro": "Folosiți interiorul pentru o pauză uscată și admirați detaliile ceramice.",
+                "en": "Use the interior for a dry break and admire the ceramic blue tiles."
+              }
+            },
+            {
+              "name": "Mirador de los Cronistas Viewpoint",
+              "tip_5lang": {
+                "de": "Kurzer Aufenthalt für Fotos; Windböen am Aussichtspunkt beachten.",
+                "hu": "Rövid megálló fotózni; figyeljen a széllökésekre a kilátónál.",
+                "ro": "Oprire scurtă pentru poze; atenție la rafalele de vânt pe platformă.",
+                "en": "Short stop for photos; be mindful of wind gusts at the viewpoint."
+              }
+            },
+            {
+              "name": "Playa de la Roda Beach",
+              "tip_5lang": {
+                "de": "Die Cafés an der Promenade bieten überdachte Plätze mit Blick aufs Meer.",
+                "hu": "A sétány kávézói fedett teraszokat kínálnak kilátással a tengerre.",
+                "ro": "Cafenelele de pe faleză oferă terase acoperite cu vedere spre mare.",
+                "en": "Promenade cafes offer covered seating with views of the stormy sea."
+              }
+            },
+            {
+              "name": "Port of Altea",
+              "tip_5lang": {
+                "de": "Beobachten Sie das Anlegen der Fischerboote unter dem Schutz der Hafengebäude.",
+                "hu": "Nézze meg a halászhajók érkezését a kikötői épületek védelméből.",
+                "ro": "Urmăriți bărcile de pescuit din adăpostul clădirilor portuare.",
+                "en": "Watch the fishing boats docking from the shelter of the port buildings."
+              }
+            },
+            {
+              "name": "Russian Orthodox Church",
+              "tip_5lang": {
+                "de": "Ein perfekter trockener Abschluss; der Duft von feuchtem Holz ist herrlich.",
+                "hu": "Tökéletes száraz befejezés; a nedves fa illata ilyenkor lenyűgöző.",
+                "ro": "Un final perfect la adăpost; mirosul de lemn umed este minunat.",
+                "en": "A perfect dry finish; the scent of damp wood is wonderful here."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine Regenjacke statt Schirm, da es in den engen Gassen windig sein kann.",
+              "Die Steinmosaike in der Altstadt werden bei Regen extrem glatt.",
+              "Nutzen Sie die Mittagspause in einem der Restaurants am Kirchplatz.",
+              "Die Farben der Kacheln wirken bei bewölktem Himmel auf Fotos gesättigter."
+            ],
+            "hu": [
+              "Vízálló kabátot viseljen esernyő helyett a szűk, szeles utcák miatt.",
+              "Az óváros kőmozaikjai esőben rendkívül csúszóssá válnak.",
+              "Tervezze a déli pihenőt a templom tér valamelyik fedett éttermébe.",
+              "A kék csempék színei felhős időben még élénkebbek a fotókon."
+            ],
+            "ro": [
+              "Purtați o pelerină în loc de umbrelă din cauza vântului de pe străzile înguste.",
+              "Mozaicurile din piatră din orașul vechi devin extrem de alunecoase.",
+              "Planificați pauza de prânz la unul dintre restaurantele acoperite din piața bisericii.",
+              "Culorile plăcilor ceramice par mai saturate în fotografii pe timp noros."
+            ],
+            "en": [
+              "Wear a raincoat instead of an umbrella due to wind in narrow streets.",
+              "The stone mosaics in the Old Town become extremely slippery when wet.",
+              "Plan your lunch break at one of the covered restaurants in the church square.",
+              "The colors of the tiles appear more saturated in photos under cloudy skies."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die milde Wintersonne beleuchtet die weißen Fassaden von Altea am Morgen mit einem sanften Licht. Mittags herrscht am Kirchplatz eine angenehme Ruhe, fernab der sommerlichen Hitze. Der Nachmittagsspaziergang an der Playa de la Roda profitiert von der klaren, kühlen Seeluft. Wenn die Sonne gegen 17:30 Uhr untergeht, taucht das goldene Licht die russisch-orthodoxe Kirche in eine magische Atmosphäre, bevor die kühle Nachtluft einsetzt.",
+            "hu": "A reggeli enyhe téli napsütés lágy fénnyel világítja meg Altea fehér homlokzatait. Délben a templomtéren kellemes nyugalom honol, távol a nyári hőségtől. A délutáni séta a Playa de la Roda partján a tiszta, hűvös tengeri levegő miatt frissítő. Amikor 17:30 körül lebukik a nap, az aranyló fények varázslatos hangulatba öltöztetik az ortodox fatemplomot a hűvös éjszaka előtt.",
+            "ro": "Soarele blând de iarnă luminează fațadele albe din Altea cu o lumină caldă dimineața. La prânz, în piața bisericii domină o liniște plăcută, departe de arșița verii. Plimbarea de după-amiază pe Playa de la Roda este revigorantă datorită aerului curat și răcoros. Când soarele apune în jur de 17:30, lumina aurie oferă bisericii ortodoxe o atmosferă magică înainte de răceala nopții.",
+            "en": "The mild winter sun illuminates Altea's white facades with a soft light in the morning. At noon, the church square enjoys a pleasant calm, far from the summer heat. The afternoon stroll at Playa de la Roda benefits from the crisp, cool sea air. As the sun sets around 17:30, the golden light bathes the Russian Orthodox Church in a magical atmosphere before the night chill sets in."
+          },
+          "stops": [
+            {
+              "name": "Old Town (Casco Antiguo)",
+              "tip_5lang": {
+                "de": "Genießen Sie die leeren Gassen; ideal für Architekturfotografie ohne Touristen.",
+                "hu": "Élvezze az üres utcákat; ideális építészeti fotózáshoz turisták nélkül.",
+                "ro": "Bucurați-vă de străzile goale; ideal pentru fotografii fără turiști.",
+                "en": "Enjoy the empty alleys; ideal for architectural photography without crowds."
+              }
+            },
+            {
+              "name": "Church of Nuestra Señora del Consuelo",
+              "tip_5lang": {
+                "de": "In der Sonne auf den Stufen sitzen; die Steine speichern die Wärme.",
+                "hu": "Üljön le a lépcsőkre a napon; a kövek jól tárolják a meleget.",
+                "ro": "Stați pe trepte la soare; pietrele rețin bine căldura în timpul zilei.",
+                "en": "Sit on the steps in the sun; the stones store warmth during the day."
+              }
+            },
+            {
+              "name": "Mirador de los Cronistas Viewpoint",
+              "tip_5lang": {
+                "de": "Die Fernsicht bis Calpe ist im Winter durch die klare Luft am besten.",
+                "hu": "A kilátás Calpe felé télen a legtisztább a páramentes levegő miatt.",
+                "ro": "Vizibilitatea spre Calpe este optimă iarna datorită aerului curat.",
+                "en": "The view towards Calpe is best in winter due to the clear air."
+              }
+            },
+            {
+              "name": "Playa de la Roda Beach",
+              "tip_5lang": {
+                "de": "Perfekt für einen langen Strandspaziergang; das Wasser ist jedoch zu kalt.",
+                "hu": "Tökéletes egy hosszú tengerparti sétához; a víz azonban túl hideg.",
+                "ro": "Perfect pentru o plimbare lungă; apa este totuși prea rece.",
+                "en": "Perfect for a long beach stroll, though the water is too cold for swimming."
+              }
+            },
+            {
+              "name": "Port of Altea",
+              "tip_5lang": {
+                "de": "Ein windgeschützter Platz an der Hafenmauer ist mittags ideal zum Aufwärmen.",
+                "hu": "A kikötői fal szélvédett részei délben ideálisak egy kis napozáshoz.",
+                "ro": "Un loc ferit de vânt lângă dig este ideal pentru a sta la soare la prânz.",
+                "en": "A wind-sheltered spot by the harbor wall is ideal for warming up at noon."
+              }
+            },
+            {
+              "name": "Russian Orthodox Church",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche kurz vor Sonnenuntergang für das beste Licht.",
+                "hu": "Látogassa meg a templomot közvetlenül naplemente előtt a legjobb fényekért.",
+                "ro": "Vizitați biserica chiar înainte de apus pentru cea mai bună lumină.",
+                "en": "Visit the church just before sunset for the best lighting on the wood."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Zwiebel-Look; im Schatten ist es kühl, in der Sonne warm.",
+              "Sonnenuntergang ist bereits gegen 17:30 Uhr; planen Sie das Ende früher.",
+              "Viele Restaurants haben im Winter verkürzte Öffnungszeiten am Nachmittag.",
+              "Die Luftfeuchtigkeit ist niedrig, was für fantastische Panoramabilder sorgt."
+            ],
+            "hu": [
+              "Öltözködjön rétegesen; árnyékban hűvös, a napon meleg van.",
+              "A naplemente már 17:30 körül bekövetkezik; tervezzen korábbi befejezést.",
+              "Sok étterem délutáni nyitvatartása rövidülhet a téli szezonban.",
+              "A páratartalom alacsony, ami fantasztikus panorámafotókat eredményez."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi; e răcoare la umbră, dar cald la soare.",
+              "Apusul este deja în jur de 17:30; planificați finalul traseului mai devreme.",
+              "Multe restaurante au program redus după-amiaza în timpul iernii.",
+              "Umiditatea este scăzută, ceea ce asigură fotografii panoramice clare."
+            ],
+            "en": [
+              "Dress in layers; it is cool in the shade but warm in the sun.",
+              "Sunset is around 17:30; plan to finish your outdoor activities earlier.",
+              "Many restaurants have shorter opening hours in the afternoon during winter.",
+              "Humidity is low, providing fantastic clear panoramic photos."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -706,6 +888,188 @@
           "Use the bike lanes along the coast for a safe and scenic ride.",
           "Be aware of traffic as streets can be narrow."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Tour beginnt am Hafen, wo die Gischt und der Regen eins werden. Die Fahrt entlang der Küste zur Playa de la Roda erfordert Vorsicht auf dem Radweg. Mittags bietet die Altstadt eine steile, aber lohnende Herausforderung, wobei die nassen Gassen volle Konzentration verlangen. Den Nachmittag verbringen wir im Palau Altea, einem kulturellen Zufluchtsort, bevor wir zur russisch-orthodoxen Kirche radeln, deren silbriger Glanz im Regen beeindruckt.",
+            "hu": "A túra a kikötőben indul, ahol a tenger permete és az eső eggyé válik. A Playa de la Roda felé tartó parti kerékpárút óvatosságot igényel. Délben az óváros meredek utcái kihívást jelentenek, a vizes út teljes koncentrációt követel. A délutánt a Palau Altea kulturális menedékében töltjük, majd az ortodox templomhoz tekerünk, melynek ezüstös csillogása az esőben lenyűgöző.",
+            "ro": "Turul începe în port, unde stropii mării și ploaia se contopesc. Drumul de coastă spre Playa de la Roda necesită prudență pe pista de biciclete. La prânz, străzile abrupte ale orașului vechi sunt o provocare, iar pavajul ud cere concentrare maximă. După-amiaza o petrecem la Palau Altea, un refugiu cultural, înainte de a pedala spre biserica ortodoxă rusă.",
+            "en": "The tour begins at the port, where sea spray and rain merge. Cycling along the coast to Playa de la Roda requires caution on the wet path. At noon, the steep streets of the Old Town are a challenge, demanding full concentration. We spend the afternoon at Palau Altea, a cultural sanctuary, before cycling to the Russian Orthodox Church, which glows silver in the rain."
+          },
+          "stops": [
+            {
+              "name": "Port of Altea",
+              "tip_5lang": {
+                "de": "Vorsicht bei den Schienen am Hafen; diese sind bei Regen extrem rutschig.",
+                "hu": "Vigyázat a kikötői sínekkel; esőben rendkívül csúszósak.",
+                "ro": "Atenție la șinele din zona portului; sunt extrem de alunecoase pe ploaie.",
+                "en": "Watch out for metal tracks near the port; they are extremely slippery when wet."
+              }
+            },
+            {
+              "name": "Playa de la Roda Beach",
+              "tip_5lang": {
+                "de": "Halten Sie den Lenker fest; Windböen von der See können das Rad versetzen.",
+                "hu": "Fogja erősen a kormányt; a tenger felőli széllökések megdobhatják a gépet.",
+                "ro": "Țineți bine ghidonul; rafalele de vânt dinspre mare pot devia bicicleta.",
+                "en": "Keep a firm grip on the handlebars; sea gusts can push the bike sideways."
+              }
+            },
+            {
+              "name": "Old Town (Casco Antiguo)",
+              "tip_5lang": {
+                "de": "Schieben Sie das Rad in den engsten vorderen Gassen, um Stürze zu vermeiden.",
+                "hu": "A legszűkebb utcákban tolja a kerékpárt az esés elkerülése érdekében.",
+                "ro": "Împingeți bicicleta pe străzile cele mai înguste pentru a evita căzăturile.",
+                "en": "Push your bike in the narrowest alleys to avoid slipping on the slope."
+              }
+            },
+            {
+              "name": "Church of Nuestra Señora del Consuelo",
+              "tip_5lang": {
+                "de": "Fahrradständer sind am Platz vorhanden, oft ungeschützt.",
+                "hu": "A téren vannak kerékpártárolók, de többnyire fedetlenek.",
+                "ro": "Există suporturi pentru biciclete în piață, dar sunt neacoperite.",
+                "en": "Bike racks are available in the square, mostly unsheltered."
+              }
+            },
+            {
+              "name": "Palau Altea Centre for the Arts",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Ausrüstung zu trocknen und Kultur zu genießen.",
+                "hu": "Ideális hely a felszerelés megszárítására és a kultúra élvezetére.",
+                "ro": "Locul ideal pentru a vă usca echipamentul și a vă bucura de cultură.",
+                "en": "Ideal place to dry your gear and enjoy some indoor culture."
+              }
+            },
+            {
+              "name": "Russian Orthodox Church",
+              "tip_5lang": {
+                "de": "Die Zufahrt über die N-332 erfordert bei Regen erhöhte Aufmerksamkeit.",
+                "hu": "Az N-332-es úton való megközelítés esőben fokozott figyelmet igényel.",
+                "ro": "Accesul prin N-332 necesită atenție sporită pe timp de ploaie.",
+                "en": "Access via the N-332 road requires extra attention in rainy visibility."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie Schutzbleche, um sich vor dem Spritzwasser der Straße zu schützen.",
+              "Bremsen Sie frühzeitig, da der Bremsweg auf nassem Asphalt länger ist.",
+              "Vermeiden Sie lackierte Bodenmarkierungen, diese sind spiegelglatt.",
+              "Tragen Sie neongelbe Regenkleidung für bessere Sichtbarkeit im Verkehr."
+            ],
+            "hu": [
+              "Használjon sárvédőt, hogy megvédje magát az útról felverődő víztől.",
+              "Fékezzen időben, mert a fékút vizes aszfalton jelentősen meghosszabbodik.",
+              "Kerülje a festett útburkolati jeleket, mert azok tükörsimák.",
+              "Viseljen élénk esőruházatot a jobb láthatóság érdekében a forgalomban."
+            ],
+            "ro": [
+              "Folosiți apărători pentru a vă proteja de apa proiectată de roți.",
+              "Frânați din timp, distanța de frânare crește considerabil pe asfalt ud.",
+              "Evitați marcajele rutiere vopsite, acestea devin foarte alunecoase.",
+              "Purtați haine de ploaie reflectorizante pentru vizibilitate în trafic."
+            ],
+            "en": [
+              "Use mudguards to protect yourself from road spray.",
+              "Brake early as the stopping distance increases significantly on wet asphalt.",
+              "Avoid painted road markings; they become slippery like ice.",
+              "Wear high-visibility rain gear for better safety in traffic."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die frische Morgenbrise am Hafen belebt den Start der Radtour. Entlang der Küste geht es unter klarem Winterhimmel zur Playa de la Roda. Der Anstieg zur Altstadt wärmt den Körper auf, während man oben mit einer kühlen, aber grandiosen Aussicht belohnt wird. Nach dem Besuch des Palau Altea führt die Route durch die ruhige Winterlandschaft zur russisch-orthodoxen Kirche, wo die untergehende Sonne die Holzkirche vergoldet.",
+            "hu": "A kikötő friss reggeli szellője élénkíti a kerékpártúra kezdetét. A tiszta téli égbolt alatt tekerünk a part mentén a Playa de la Roda felé. Az óvárosba vezető emelkedő segít bemelegedni, fent pedig hűvös, de fenséges kilátás vár. A Palau Altea után a csendes téli tájon át vezet az út az ortodox templomhoz, ahol a lemenő nap aranyba vonja az épületet.",
+            "ro": "Briza proaspătă a dimineții din port animă începutul turului. Pedalam pe coastă sub cerul senin de iarnă spre Playa de la Roda. Urcarea spre orașul vechi ajută la încălzire, iar sus suntem răsplătiți cu o vedere superbă. După Palau Altea, traseul trece prin peisajul liniștit de iarnă spre biserica rusă, unde soarele la apus aurește lemnul construcției.",
+            "en": "The fresh morning breeze at the port enlivens the start of the bike tour. Cycle along the coast under clear winter skies to Playa de la Roda. The climb to the Old Town warms the body, rewarding you with cool but grand views at the top. After Palau Altea, the route leads through the quiet winter landscape to the Russian church, where the setting sun gilds the wood."
+          },
+          "stops": [
+            {
+              "name": "Port of Altea",
+              "tip_5lang": {
+                "de": "Hafennähe ist morgens im Winter oft sehr frisch; Windjacke einpacken.",
+                "hu": "A kikötő környéke reggelente hűvös; vigyen magával szélkabátot.",
+                "ro": "Zona portului este răcoroasă dimineața; aveți nevoie de o jachetă de vânt.",
+                "en": "The port area is quite chilly in winter mornings; pack a windbreaker."
+              }
+            },
+            {
+              "name": "Playa de la Roda Beach",
+              "tip_5lang": {
+                "de": "Genießen Sie den leeren Radweg entlang der Promenade.",
+                "hu": "Élvezze az üres kerékpárutat a sétány mentén.",
+                "ro": "Bucurați-vă de pista de biciclete liberă de pe faleză.",
+                "en": "Enjoy the empty bike path along the promenade."
+              }
+            },
+            {
+              "name": "Old Town (Casco Antiguo)",
+              "tip_5lang": {
+                "de": "Der Anstieg ist steil; ideal, um bei 15 Grad Betriebstemperatur zu erreichen.",
+                "hu": "Az emelkedő meredek; ideális a bemelegítéshez 15 fokban.",
+                "ro": "Urcarea este abruptă; ideală pentru a te încălzi la 15 grade.",
+                "en": "The climb is steep; perfect for reaching operating temperature in 15 degrees."
+              }
+            },
+            {
+              "name": "Church of Nuestra Señora del Consuelo",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad in die Sonne, um den Sattel warm zu halten.",
+                "hu": "Támassza le a kerékpárt a napon, hogy melegen tartsa a nyerget.",
+                "ro": "Lăsați bicicleta la soare pentru a păstra șaua caldă.",
+                "en": "Park your bike in the sun to keep the saddle warm."
+              }
+            },
+            {
+              "name": "Palau Altea Centre for the Arts",
+              "tip_5lang": {
+                "de": "Ein guter Zwischenstopp, bevor es zur Abfahrt in die kühler werdende Ebene geht.",
+                "hu": "Jó megálló, mielőtt megkezdené a gurulást a hűvösödő síkság felé.",
+                "ro": "O oprire bună înainte de coborârea spre câmpia unde aerul se răcește.",
+                "en": "A good stop before the descent into the cooling plains."
+              }
+            },
+            {
+              "name": "Russian Orthodox Church",
+              "tip_5lang": {
+                "de": "Rückfahrt im Dämmerlicht planen; Beleuchtung am Rad ist Pflicht.",
+                "hu": "Tervezze meg a visszautat szürkületben; a világítás kötelező.",
+                "ro": "Planificați drumul de întoarcere la amurg; luminile sunt obligatorii.",
+                "en": "Plan your return in the twilight; bike lights are mandatory."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Handschuhe; der Fahrtwind kühlt die Hände schnell aus.",
+              "Die Sonne steht tief; eine Sonnenbrille ist wegen der Blendung nötig.",
+              "Prüfen Sie den Reifendruck; kalte Luft lässt ihn leicht sinken.",
+              "Nehmen Sie einen Thermosbecher mit warmem Tee mit."
+            ],
+            "hu": [
+              "Viseljen kesztyűt; a menetszél gyorsan lehűti a kezeket.",
+              "A nap alacsonyan jár; a napszemüveg a vakítás miatt szükséges.",
+              "Ellenőrizze a guminyomást; a hideg levegő miatt kissé csökkenhet.",
+              "Vigyen magával termoszban meleg teát."
+            ],
+            "ro": [
+              "Purtați mănuși; curentul de aer răcește rapid mâinile.",
+              "Soarele este jos pe cer; ochelarii de soare sunt necesari contra orbirii.",
+              "Verificați presiunea în pneuri; aerul rece o poate scădea ușor.",
+              "Luați un termos cu ceai cald pentru pauze."
+            ],
+            "en": [
+              "Wear gloves; the headwind chills your hands quickly in winter.",
+              "The sun is low; sunglasses are necessary due to the glare.",
+              "Check tire pressure; cold air can cause it to drop slightly.",
+              "Bring a thermos with warm tea for your breaks."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1086,6 +1450,206 @@
           "Allow extra time for traffic, especially on market days (Tuesday).",
           "A smaller car is advantageous for maneuvering and parking in Altea."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Parkplatz an der Altstadt bietet den perfekten trockenen Startpunkt. Im Schutz des Wagens erreichen wir die Altstadt und die Kirche, wobei der Regen gegen die Scheiben trommelt. Mittags fahren wir zur russisch-orthodoxen Kirche, die im Nebel wie eine Erscheinung aus einer anderen Welt wirkt. Nachmittags genießen wir die Küstenfahrt zum Hafen und zur Playa de la Roda, wobei wir das Auto als mobilen Aussichtspunkt nutzen, bevor wir zum Turm de la Galera weiterziehen.",
+            "hu": "Az óvárosi parkoló tökéletes száraz indulópontot kínál. Az autó védelmében érjük el az óvárost és a templomot, miközben az eső a szélvédőn kopog. Délben az ortodox templomhoz hajtunk, amely a ködben úgy fest, mint egy látomás egy másik világból. Délután a kikötőhöz és a Playa de la Roda parthoz autózunk, a kocsit mobil kilátóként használva, majd a Galera-torony felé vesszük az irányt.",
+            "ro": "Parcarea de lângă orașul vechi oferă un punct de plecare uscat ideal. Sub protecția mașinii ajungem în orașul vechi, în timp ce ploaia bate în parbriz. La prânz conducem spre biserica rusă, care pare o apariție din altă lume prin ceață. După-amiaza savurăm drumul pe coastă spre port și Playa de la Roda, folosind mașina ca punct de observație mobil, înainte de a merge spre Turnul Galera.",
+            "en": "The Old Town car park provides a perfect dry starting point. Protected by the car, we reach the Old Town and the church as rain drums on the windshield. At noon, we drive to the Russian Orthodox Church, which looks like an apparition from another world in the mist. Afternoon includes a coastal drive to the port and Playa de la Roda, using the car as a mobile viewpoint before heading to the Tower of la Galera."
+          },
+          "stops": [
+            {
+              "name": "Old Town Car Park",
+              "tip_5lang": {
+                "de": "Überdachte Plätze sind selten; halten Sie den Schirm griffbereit beim Aussteigen.",
+                "hu": "Fedett hely kevés van; legyen kéznél az esernyő kiszálláskor.",
+                "ro": "Locurile acoperite sunt rare; aveți umbrela la îndemână când coborâți.",
+                "en": "Covered spots are rare; keep your umbrella handy when getting out."
+              }
+            },
+            {
+              "name": "Old Town (Casco Antiguo)",
+              "tip_5lang": {
+                "de": "Der kurze Fußweg vom Auto ist steil; Vorsicht vor Pfützen.",
+                "hu": "A rövid gyalogút az autótól meredek; vigyázzon a tócsákkal.",
+                "ro": "Drumul scurt de la mașină este abrupt; atenție la bălți.",
+                "en": "The short walk from the car is steep; watch out for puddles."
+              }
+            },
+            {
+              "name": "Church of Nuestra Señora del Consuelo",
+              "tip_5lang": {
+                "de": "Parken direkt am Platz ist für Besucher nicht gestattet.",
+                "hu": "A téren a parkolás látogatók számára tilos.",
+                "ro": "Parcarea direct în piață nu este permisă vizitatorilor.",
+                "en": "Parking directly in the square is not permitted for visitors."
+              }
+            },
+            {
+              "name": "Russian Orthodox Church",
+              "tip_5lang": {
+                "de": "Großer Parkplatz vorhanden; idealer Stopp bei starkem Regen.",
+                "hu": "Nagy parkoló áll rendelkezésre; ideális megálló szakadó esőben.",
+                "ro": "Parcare mare disponibilă; oprire ideală în caz de ploaie torențială.",
+                "en": "Large parking lot available; an ideal stop during heavy rain."
+              }
+            },
+            {
+              "name": "Port of Altea",
+              "tip_5lang": {
+                "de": "Parken Sie nah an den Restaurants, um trocken ins Innere zu gelangen.",
+                "hu": "Parkoljon az éttermek közelében, hogy szárazon jusson be.",
+                "ro": "Parcați aproape de restaurante pentru a intra rapid la adăpost.",
+                "en": "Park close to the restaurants to enter quickly without getting soaked."
+              }
+            },
+            {
+              "name": "Playa de la Roda Beach",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkplätze an der Promenade für den Meerblick aus dem Auto.",
+                "hu": "Használja a sétány parkolóit a tengeri kilátáshoz az autóból.",
+                "ro": "Folosiți parcările de pe faleză pentru vedere la mare din mașină.",
+                "en": "Use the promenade parking spots for sea views from inside the car."
+              }
+            },
+            {
+              "name": "Tower of la Galera",
+              "tip_5lang": {
+                "de": "Zufahrt kann bei Starkregen schlammig sein; bleiben Sie auf dem Asphalt.",
+                "hu": "A feljáró nagy esőben sáros lehet; maradjon az aszfalton.",
+                "ro": "Accesul poate fi noroios pe ploaie; rămâneți pe asfalt.",
+                "en": "Access road can be muddy in heavy rain; stay on the asphalt."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Scheibenwischer vor der Fahrt durch die Küstenhügel.",
+              "Vermeiden Sie tiefe Pfützen, da diese oft Schlaglöcher verbergen.",
+              "Die Sicht auf der N-332 kann bei Gischt stark eingeschränkt sein.",
+              "Nutzen Sie die Sitzheizung für zusätzlichen Komfort nach dem Landgang."
+            ],
+            "hu": [
+              "Ellenőrizze az ablaktörlőket a tengerparti dombok közötti autózás előtt.",
+              "Kerülje a mély tócsákat, mert gyakran kátyúkat rejtenek.",
+              "A kilátás az N-332-es úton a sűrű esőben korlátozott lehet.",
+              "Használja az ülésfűtést a kényelemért a vizes városnézés után."
+            ],
+            "ro": [
+              "Verificați ștergătoarele înainte de a pleca spre dealurile de coastă.",
+              "Evitați bălțile adânci, adesea ascund gropi în carosabil.",
+              "Vizibilitatea pe N-332 poate fi redusă din cauza stropilor de mare.",
+              "Folosiți încălzirea în scaune pentru confort după plimbarea prin ploaie."
+            ],
+            "en": [
+              "Check your wipers before driving through the coastal hills.",
+              "Avoid deep puddles as they often hide potholes.",
+              "Visibility on the N-332 can be limited during heavy sea spray.",
+              "Use seat heating for extra comfort after your rainy walk."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintertour startet mit einer Panoramafahrt zum Parkplatz der Altstadt. Die klare Luft ermöglicht weite Blicke aus dem Fenster. Mittags geht es zur russisch-orthodoxen Kirche, wo das Holz in der warmen Wintersonne leuchtet. Nachmittags fahren wir entspannt zum Hafen und zur Playa de la Roda, wo das Parkplatzsuchen im Winter kein Problem darstellt. Der Tag endet am Turm de la Galera bei einem spektakulären, frühen Sonnenuntergang über dem Mittelmeer.",
+            "hu": "A téli túra panorámaautózással indul az óvárosi parkolóig. A tiszta levegő messzi kilátást tesz lehetővé az ablakból. Délben az ortodox templomhoz hajtunk, ahol a faépület ragyog a meleg téli napsütésben. Délután kényelmesen gurulunk a kikötőhöz és a Playa de la Roda parthoz – télen a parkolás nem okoz gondot. A nap a Galera-toronynál zárul, látványos, korai naplementével a Földközi-tenger felett.",
+            "ro": "Turul de iarnă începe cu o plimbare panoramică spre parcarea orașului vechi. Aerul curat permite vederi spectaculoase din mașină. La prânz mergem la biserica rusă, unde lemnul strălucește în soarele cald de iarnă. După-amiaza conducem spre port și Playa de la Roda, unde parcarea nu este o problemă iarna. Ziua se încheie la Turnul Galera cu un apus spectaculos peste Mediterană.",
+            "en": "The winter tour starts with a scenic drive to the Old Town car park. The clear air allows for vast views from the window. At noon, we head to the Russian Orthodox Church, where the wood glows in the warm winter sun. Afternoon is a relaxed drive to the port and Playa de la Roda, with no parking issues in winter. The day ends at the Tower of la Galera with a spectacular early sunset over the Mediterranean."
+          },
+          "stops": [
+            {
+              "name": "Old Town Car Park",
+              "tip_5lang": {
+                "de": "Im Winter sind meist viele Plätze direkt im vorderen Bereich frei.",
+                "hu": "Télen általában sok szabad hely van közvetlenül az elülső részen.",
+                "ro": "Iarna sunt de obicei multe locuri libere chiar în zona din față.",
+                "en": "In winter, many spots are usually available right in the front section."
+              }
+            },
+            {
+              "name": "Old Town (Casco Antiguo)",
+              "tip_5lang": {
+                "de": "Die weißen Wände reflektieren das UV-Licht; Sonnenschutz im Auto lassen.",
+                "hu": "A fehér falak erősen verik vissza az UV-fényt; hagyja a kocsiban a naptejet.",
+                "ro": "Zidurile albe reflectă puternic lumina UV; nu uitați crema de protecție.",
+                "en": "The white walls reflect UV light strongly; keep sun protection in the car."
+              }
+            },
+            {
+              "name": "Church of Nuestra Señora del Consuelo",
+              "tip_5lang": {
+                "de": "Ideal zum Aufwärmen im Inneren, falls es draußen windig ist.",
+                "hu": "Ideális a felmelegedéshez bent, ha kint túl szeles az idő.",
+                "ro": "Ideal pentru a te încălzi în interior dacă afară este vânt.",
+                "en": "Ideal for warming up inside if it's windy outside."
+              }
+            },
+            {
+              "name": "Russian Orthodox Church",
+              "tip_5lang": {
+                "de": "Das goldene Licht am späten Vormittag ist ideal für Fotos.",
+                "hu": "A késő délelőtti aranyló fények ideálisak a fotózáshoz.",
+                "ro": "Lumina aurie de dimineață târzie este ideală pentru fotografii.",
+                "en": "The golden late-morning light is ideal for photography here."
+              }
+            },
+            {
+              "name": "Port of Altea",
+              "tip_5lang": {
+                "de": "Viele Parkplätze direkt am Wasser sind im Winter verfügbar.",
+                "hu": "Télen sok vízparti parkolóhely közül válogathat.",
+                "ro": "Multe locuri de parcare chiar lângă apă sunt disponibile iarna.",
+                "en": "Many parking spots directly by the water are available in winter."
+              }
+            },
+            {
+              "name": "Playa de la Roda Beach",
+              "tip_5lang": {
+                "de": "Spaziergang in der Mittagssonne; danach Rückkehr in den warmen Wagen.",
+                "hu": "Sétáljon a déli napsütésben, majd térjen vissza a meleg autóba.",
+                "ro": "Plimbați-vă în soarele de la prânz, apoi reveniți la mașina caldă.",
+                "en": "Walk in the midday sun, then return to your warm vehicle."
+              }
+            },
+            {
+              "name": "Tower of la Galera",
+              "tip_5lang": {
+                "de": "Seien Sie spätestens um 17:15 Uhr hier für den Sonnenuntergang.",
+                "hu": "Legyen itt legkésőbb 17:15-re a naplemente megtekintéséhez.",
+                "ro": "Fiți aici cel târziu la 17:15 pentru a prinde apusul.",
+                "en": "Be here by 17:15 at the latest to catch the sunset."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Nebelscheinwerfer in den schattigen Tälern am Morgen.",
+              "Prüfen Sie den Frostschutz, falls Sie in höhere Lagen weiterfahren.",
+              "Die Parkgebühren sind in einigen Zonen im Winter reduziert.",
+              "Lassen Sie keine Wertsachen sichtbar im Auto, auch wenn es leer wirkt."
+            ],
+            "hu": [
+              "Használja a ködlámpát a reggeli árnyékos völgyekben.",
+              "Ellenőrizze a fagyállót, ha magasabb hegyi utakra indulna tovább.",
+              "A parkolási díjak egyes zónákban alacsonyabbak lehetnek télen.",
+              "Ne hagyjon értéket látható helyen, még ha üresnek is tűnik a környék."
+            ],
+            "ro": [
+              "Folosiți proiectoarele de ceață în văile umbrite dimineața.",
+              "Verificați antigelul dacă plănuiți să urcați spre zone mai înalte.",
+              "Tarifele de parcare pot fi reduse în anumite zone pe timpul iernii.",
+              "Nu lăsați obiecte de valoare la vedere, chiar dacă zona pare pustie."
+            ],
+            "en": [
+              "Use fog lights in the shaded valleys during early winter mornings.",
+              "Check your antifreeze if you plan to drive to higher altitudes nearby.",
+              "Parking fees are reduced in some zones during the winter season.",
+              "Do not leave valuables visible in the car, even if the area seems empty."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1418,6 +1982,170 @@
           "The L10 bus connects Altea with Benidorm and Albir and is a good option for day trips.",
           "Have small change ready for the bus driver, as large notes may not be accepted."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Busfahrt beginnt an der Haltestelle Altstadt, wo wir trocken ankommen. Den Vormittag verbringen wir in der Altstadt und der Kirche, wobei wir die Regenschauer in den Cafés abwarten. Mittags bietet das Palau Altea eine kulturelle Alternative im Trockenen. Nachmittags nehmen wir den Bus zur Strandpromenade und zum Hafen, wo wir die maritime Atmosphäre unter dem Schutz der Haltestellendächer genießen.",
+            "hu": "A buszos túra az óvárosi megállónál indul, ahol szárazon érkezünk. A délelőttöt az óvárosban és a templomban töltjük, az esőt a kávézókban várva ki. Délben a Palau Altea kínál kulturális alternatívát fedett helyen. Délután busszal megyünk a tengerparti sétányhoz és a kikötőhöz, ahol a kikötői hangulatot a megállók teteje alól élvezzük.",
+            "ro": "Călătoria cu autobuzul începe la stația din orașul vechi, unde ajungem fără să ne udăm. Petrecem dimineața în orașul vechi și la biserică, așteptând trecerea ploii în cafenele. La prânz, Palau Altea oferă o alternativă culturală la adăpost. După-amiaza luăm autobuzul spre faleză și port, bucurându-ne de atmosfera maritimă sub copertinele stațiilor.",
+            "en": "The bus journey starts at the Old Town stop, arriving dry. We spend the morning in the Old Town and the church, waiting out the showers in cafes. At noon, Palau Altea offers a dry cultural alternative. Afternoon takes us by bus to the beach promenade and the port, where we enjoy the maritime atmosphere under the shelter of the bus stops."
+          },
+          "stops": [
+            {
+              "name": "Altea Old Town Bus Stop",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist überdacht; ideal zum Warten bei Schauern.",
+                "hu": "A megálló fedett; ideális várakozáshoz zápor idején.",
+                "ro": "Stația este acoperită; ideală pentru a aștepta în timpul averselor.",
+                "en": "The bus stop is covered; ideal for waiting during sudden showers."
+              }
+            },
+            {
+              "name": "Old Town & Church of N.S. del Consuelo",
+              "tip_5lang": {
+                "de": "Planen Sie mehr Zeit für den Weg zur Haltestelle ein; Steinwege sind glatt.",
+                "hu": "Számoljon több időt a megállóig; a köves utak vizesen csúsznak.",
+                "ro": "Alocați mai mult timp pentru drumul spre stație; pavajul e alunecos.",
+                "en": "Allow extra time to walk back to the stop; the paths are slippery."
+              }
+            },
+            {
+              "name": "Palau Altea Centre for the Arts",
+              "tip_5lang": {
+                "de": "Direkt vor dem Gebäude hält der Bus; minimaler Weg im Regen.",
+                "hu": "A busz közvetlenül az épület előtt áll meg; minimális séta az esőben.",
+                "ro": "Autobuzul oprește chiar în față; drum minim prin ploaie.",
+                "en": "The bus stops right in front; minimal walking required in the rain."
+              }
+            },
+            {
+              "name": "Beach Promenade Stop",
+              "tip_5lang": {
+                "de": "Haltestelle liegt zentral zu den überdachten Cafés der Promenade.",
+                "hu": "A megálló központi helyen van a sétány fedett kávézóihoz.",
+                "ro": "Stația este situată central față de cafenelele acoperite de pe faleză.",
+                "en": "The stop is centrally located near the covered cafes on the promenade."
+              }
+            },
+            {
+              "name": "Port of Altea",
+              "tip_5lang": {
+                "de": "Nutzen Sie die App für Echtzeit-Infos, um Wartezeiten im Freien zu vermeiden.",
+                "hu": "Használja az appot a valós idejű infókért, hogy ne kelljen kint várnia.",
+                "ro": "Folosiți aplicația pentru info în timp real, evitând așteptarea în ploaie.",
+                "en": "Use the transit app for real-time info to avoid waiting outside in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie Tickets vorab digital, um Hektik im Regen zu vermeiden.",
+              "Die Busse können bei Regen aufgrund des Verkehrs Verspätung haben.",
+              "Tragen Sie Schuhe mit gutem Profil für den Weg von der Haltestelle.",
+              "Im Bus ist es oft warm; tragen Sie Kleidung, die leicht zu öffnen ist."
+            ],
+            "hu": [
+              "Vásároljon jegyet digitálisan, hogy elkerülje a kapkodást az esőben.",
+              "A buszok esős időben a forgalom miatt késhetnek.",
+              "Viseljen jó tapadású cipőt a megállótól vezető úthoz.",
+              "A buszokon gyakran meleg van; viseljen könnyen kicipzározható ruhát."
+            ],
+            "ro": [
+              "Cumpărați bilete digital pentru a evita agitația prin ploaie.",
+              "Autobuzele pot avea întârzieri din cauza traficului pe timp de ploaie.",
+              "Purtați încălțăminte cu aderență bună pentru drumul spre stație.",
+              "În autobuz este adesea cald; purtați haine ușor de desfăcut."
+            ],
+            "en": [
+              "Buy tickets digitally beforehand to avoid rushing in the rain.",
+              "Buses may be delayed due to increased traffic during rainy weather.",
+              "Wear shoes with good tread for the walk to and from stops.",
+              "Buses are often warm inside; wear layers that are easy to open."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Transit-Tour beginnt mit der Fahrt zur Altstadt unter strahlend blauem Himmel. Den Mittag genießen wir in der ruhigen Altstadt, bevor wir zum Palau Altea weiterfahren, um die Kunstausstellungen zu bewundern. Am Nachmittag bringt uns der Bus zur Strandpromenade, wo wir die milde Sonne genießen. Den Tag lassen wir am Hafen ausklingen, wobei wir den letzten Bus vor dem frühen Sonnenuntergang nehmen.",
+            "hu": "A téli tömegközlekedési túra az óvárosba tartó úttal indul a ragyogó kék ég alatt. A delet a csendes óvárosban töltjük, majd a Palau Alteához utazunk a művészeti kiállításokért. Délután a busz a tengerparti sétányhoz visz, ahol kiélvezzük az enyhe napsütést. A napot a kikötőben zárjuk, elcsípve az utolsó buszt a korai naplemente előtt.",
+            "ro": "Turul cu transportul public începe cu drumul spre orașul vechi sub un cer senin. Prânzul îl petrecem în liniștea orașului vechi, apoi mergem la Palau Altea pentru expoziții. După-amiaza, autobuzul ne duce la faleză, unde ne bucurăm de soarele blând. Încheiem ziua în port, luând ultimul autobuz înainte de apusul timpuriu.",
+            "en": "The winter transit tour starts with a trip to the Old Town under a brilliant blue sky. We enjoy lunch in the quiet Old Town before heading to Palau Altea for the art exhibits. Afternoon brings us by bus to the beach promenade to soak up the mild sun. We end the day at the port, catching the last bus before the early winter sunset."
+          },
+          "stops": [
+            {
+              "name": "Altea Old Town Bus Stop",
+              "tip_5lang": {
+                "de": "Im Winter sind die Busse weniger überfüllt; suchen Sie sich einen Sonnenplatz.",
+                "hu": "Télen a buszok kevésbé zsúfoltak; keressen egy napos ülőhelyet.",
+                "ro": "Iarna autobuzele sunt mai libere; căutați un loc la geam, la soare.",
+                "en": "Buses are less crowded in winter; look for a seat in the sun."
+              }
+            },
+            {
+              "name": "Old Town & Church of N.S. del Consuelo",
+              "tip_5lang": {
+                "de": "Der Spaziergang zur Kirche ist bei 16 Grad sehr angenehm.",
+                "hu": "A séta a templomhoz 16 fokban kifejezetten kellemes.",
+                "ro": "Plimbarea spre biserică este foarte plăcută la 16 grade.",
+                "en": "The walk to the church is very pleasant in the 16-degree air."
+              }
+            },
+            {
+              "name": "Palau Altea Centre for the Arts",
+              "tip_5lang": {
+                "de": "Prüfen Sie das Winterprogramm; oft gibt es interessante Matineen.",
+                "hu": "Ellenőrizze a téli programot; gyakran vannak érdekes matiné előadások.",
+                "ro": "Verificați programul de iarnă; adesea sunt spectacole matinale.",
+                "en": "Check the winter schedule; there are often interesting matinee events."
+              }
+            },
+            {
+              "name": "Beach Promenade Stop",
+              "tip_5lang": {
+                "de": "Letztes Licht genießen, bevor die Schatten der Gebäude die Promenade kühlen.",
+                "hu": "Élvezze az utolsó fényeket, mielőtt az épületek árnyéka lehűti a sétányt.",
+                "ro": "Bucurați-vă de lumină înainte ca umbrele clădirilor să răcească faleza.",
+                "en": "Enjoy the light before the building shadows cool down the promenade."
+              }
+            },
+            {
+              "name": "Port of Altea",
+              "tip_5lang": {
+                "de": "Beachten Sie den Winterfahrplan; Busse fahren abends seltener.",
+                "hu": "Ügyeljen a téli menetrendre; a buszok este ritkábban járhatnak.",
+                "ro": "Atenție la orarul de iarnă; autobuzele circulă mai rar seara.",
+                "en": "Check the winter timetable; buses may run less frequently in the evening."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die TRAM Metropolitano ist eine tolle, klimatisierte Alternative.",
+              "Im Winter sind die Wartezeiten an den Haltestellen in der Sonne angenehm.",
+              "Nehmen Sie einen Schal mit, falls die Klimaanlage im Bus zu kühl ist.",
+              "Die Fahrpläne können an Feiertagen im Winter variieren."
+            ],
+            "hu": [
+              "A TRAM Metropolitano remek, klimatizált alternatíva a közlekedéshez.",
+              "Télen a megállókban a napon várakozni kifejezetten kellemes.",
+              "Vigyen sálat, ha a busz légkondicionálója túl hűvös lenne.",
+              "A menetrendek a téli ünnepnapokon változhatnak."
+            ],
+            "ro": [
+              "TRAM Metropolitano este o alternativă excelentă și climatizată.",
+              "Iarna, așteptarea în stație la soare este chiar plăcută.",
+              "Luați un fular dacă aerul condiționat din autobuz este prea rece.",
+              "Orarele pot varia în timpul sărbătorilor de iarnă."
+            ],
+            "en": [
+              "The TRAM Metropolitano is a great, air-conditioned alternative.",
+              "In winter, waiting at the stops in the sun is quite pleasant.",
+              "Bring a scarf in case the bus air conditioning is set too cool.",
+              "Schedules may vary during winter public holidays."
+            ]
+          }
+        }
       }
     }
   }

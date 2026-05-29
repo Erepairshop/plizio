@@ -379,6 +379,206 @@
           "The footbridge over the River Hull offers great views of The Deep and the river.",
           "Look out for Philip Larkin's poems embedded in the city's pavements."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet das Hull Minster einen prachtvollen, trockenen Unterschlupf. Mittags erkunden wir die Museen im Museumsquartier, die ideal für Regentage sind. Nachmittags besuchen wir die Ferens Art Gallery im Stadtzentrum. Abends bietet das Aquarium The Deep einen spektakulären Abschluss im Trockenen.",
+            "hu": "Reggel a Hull Minster belső tere nyújt menedéket az eső elől. Délben a Museum Quarter fedett kiállításait járjuk be, ami tökéletes rossz időben. Délután a Ferens Art Gallery termeiben nézelődünk. Az estét a The Deep akváriumban zárjuk, ahol teljesen védve vagyunk az elemektől.",
+            "ro": "Dimineața, Hull Minster oferă un refugiu splendid și uscat. La prânz, explorăm muzeele din cartierul muzeelor, ideale pentru zilele ploioase. După-amiaza vizităm Galeria de Artă Ferens din centrul orașului. Seara, acvariul The Deep oferă un final spectaculos, ferit de ploaie.",
+            "en": "Morning starts at Hull Minster, providing a grand dry sanctuary. Midday is spent in the Museum Quarter, perfect for escaping the rain while exploring history. Afternoon features the Ferens Art Gallery indoors. The day ends at The Deep, a world-class aquarium where you stay completely dry."
+          },
+          "stops": [
+            {
+              "name": "Hull Minster",
+              "tip_5lang": {
+                "de": "Wunderschöne Glasfenster bei Regen.",
+                "hu": "Csodás színes üvegablakok esős fényben.",
+                "ro": "Vitralii superbe în lumină difuză.",
+                "en": "Stunning stained glass in rainy light."
+              }
+            },
+            {
+              "name": "Wilberforce House",
+              "tip_5lang": {
+                "de": "Vollständig überdachter Rundgang.",
+                "hu": "Teljesen fedett történelmi séta.",
+                "ro": "Traseu istoric complet acoperit.",
+                "en": "Fully covered historical tour indoors."
+              }
+            },
+            {
+              "name": "Streetlife Museum",
+              "tip_5lang": {
+                "de": "Perfekt für Familien bei Regen.",
+                "hu": "Tökéletes családi program esőben.",
+                "ro": "Perfect pentru familii pe ploaie.",
+                "en": "Perfect family activity for rainy days."
+              }
+            },
+            {
+              "name": "Hull Maritime Museum",
+              "tip_5lang": {
+                "de": "Große Hallen bieten viel Schutz.",
+                "hu": "Tágas csarnokok, biztos menedék.",
+                "ro": "Hale largi ce oferă mult adăpost.",
+                "en": "Large halls offer plenty of shelter."
+              }
+            },
+            {
+              "name": "Ferens Art Gallery",
+              "tip_5lang": {
+                "de": "Gemütliches Café für Regenpausen.",
+                "hu": "Hangulatos kávézó az eső szünetére.",
+                "ro": "Cafenea primitoare pentru pauze.",
+                "en": "Cozy cafe for breaks from the rain."
+              }
+            },
+            {
+              "name": "Hull Marina",
+              "tip_5lang": {
+                "de": "Kurzer Stopp unter dem Vordach.",
+                "hu": "Rövid megálló az előtetők alatt.",
+                "ro": "Oprire scurtă sub copertine.",
+                "en": "Quick stop under building overhangs."
+              }
+            },
+            {
+              "name": "The Deep",
+              "tip_5lang": {
+                "de": "Ideales Ziel für nasse Abende.",
+                "hu": "Ideális célpont vizes estéken.",
+                "ro": "Destinație ideală pentru seri ude.",
+                "en": "Ideal destination for wet evenings."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Arkaden in der Whitefriargate.",
+              "Das Museum Quarter ist fast komplett überdacht.",
+              "Regenschirm ist wegen der Küstenwinde Pflicht.",
+              "Die meisten Museen haben kostenlose Garderoben."
+            ],
+            "hu": [
+              "Használja a Whitefriargate árkádjait közlekedésre.",
+              "A Múzeumi Negyed épületei közel vannak egymáshoz.",
+              "Az erős tengeri szél miatt a szélálló ernyő ajánlott.",
+              "A legtöbb múzeumban ingyenes ruhatár várja."
+            ],
+            "ro": [
+              "Folosiți arcadele din Whitefriargate pentru adăpost.",
+              "Cartierul Muzeelor are clădiri foarte apropiate.",
+              "Umbrela rezistentă la vânt este obligatorie aici.",
+              "Majoritatea muzeelor au garderobe gratuite."
+            ],
+            "en": [
+              "Use the arcades on Whitefriargate for cover.",
+              "The Museum Quarter buildings are closely clustered.",
+              "Wind-resistant umbrellas are essential near the coast.",
+              "Most museums offer free cloakroom services."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen beginnt in der beheizten Hull Minster. Mittags wärmen wir uns in den historischen Räumen des Wilberforce House auf. Nachmittags nutzen wir das Tageslicht in der Ferens Gallery, bevor es früh dunkel wird. Den Abend verbringen wir im beleuchteten The Deep am Hafen.",
+            "hu": "A téli reggel a fűtött Hull Minsterben indul. Délben a Wilberforce House patinás fala között melegszünk fel. Délután a Ferens Gallery fényeit élvezzük a korai sötétedés előtt. Az estét a kikötőben, a kivilágított The Deep akváriumban töltjük.",
+            "ro": "Dimineața de iarnă începe în Hull Minster încălzit. La prânz, ne încălzim în camerele istorice de la Wilberforce House. După-amiaza profităm de lumină la Galeria Ferens înainte de apus. Seara o petrecem la The Deep, luminat festiv lângă port.",
+            "en": "Winter morning starts in the heated Hull Minster. At midday, warm up inside the historic Wilberforce House. Afternoon is for the Ferens Gallery to catch the remaining daylight. Evening concludes at the beautifully lit The Deep by the waterfront."
+          },
+          "stops": [
+            {
+              "name": "Hull Minster",
+              "tip_5lang": {
+                "de": "Warmer Rückzugsort am Morgen.",
+                "hu": "Meleg menedék a reggeli hidegben.",
+                "ro": "Refugiu cald la prima oră.",
+                "en": "Warm sanctuary in the morning cold."
+              }
+            },
+            {
+              "name": "Wilberforce House",
+              "tip_5lang": {
+                "de": "Gemütliche, beheizte Ausstellungen.",
+                "hu": "Hangulatos, fűtött kiállítóterek.",
+                "ro": "Expoziții încălzite și primitoare.",
+                "en": "Cozy, heated exhibition rooms."
+              }
+            },
+            {
+              "name": "Streetlife Museum",
+              "tip_5lang": {
+                "de": "Viel Platz zum Aufwärmen.",
+                "hu": "Tágas terek a felmelegedéshez.",
+                "ro": "Spațiu generos pentru încălzire.",
+                "en": "Ample space to warm up indoors."
+              }
+            },
+            {
+              "name": "Hull Maritime Museum",
+              "tip_5lang": {
+                "de": "Ideal bei Winterbrise vom Meer.",
+                "hu": "Ideális a tengeri téli szél elől.",
+                "ro": "Ideal contra vântului maritim rece.",
+                "en": "Ideal escape from the winter sea breeze."
+              }
+            },
+            {
+              "name": "Ferens Art Gallery",
+              "tip_5lang": {
+                "de": "Helle Räume gegen Winterblues.",
+                "hu": "Világos termek a téli szürkeség ellen.",
+                "ro": "Săli luminate contra griului de iarnă.",
+                "en": "Bright galleries to beat winter blues."
+              }
+            },
+            {
+              "name": "Hull Marina",
+              "tip_5lang": {
+                "de": "Klarer Blick auf den eisigen Hafen.",
+                "hu": "Tiszta kilátás a jeges kikötőre.",
+                "ro": "Vedere clară spre portul înghețat.",
+                "en": "Clear views of the icy marina."
+              }
+            },
+            {
+              "name": "The Deep",
+              "tip_5lang": {
+                "de": "Früher Sonnenuntergang am Kai.",
+                "hu": "Korai naplemente a rakparton.",
+                "ro": "Apus timpuriu pe cheiul portului.",
+                "en": "Early sunset views from the quay."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Besuchen Sie die Weihnachtsmärkte im Trinity Market.",
+              "Tragen Sie Schichten gegen den Nordseewind.",
+              "Sonnenuntergang ist oft schon vor 16:00 Uhr.",
+              "Die Museen sind im Winter gut beheizt."
+            ],
+            "hu": [
+              "Látogasson el a Trinity Market karácsonyi vásárába.",
+              "Réteges öltözködés javasolt a tengeri szél miatt.",
+              "A naplemente télen gyakran délután 4 előtt van.",
+              "A múzeumok télen kiválóan fűtöttek."
+            ],
+            "ro": [
+              "Vizitați piețele de Crăciun din Trinity Market.",
+              "Îmbrăcați-vă în straturi contra vântului marin.",
+              "Apusul are loc adesea înainte de ora 16:00.",
+              "Muzeele sunt bine încălzite în timpul iernii."
+            ],
+            "en": [
+              "Visit the Christmas stalls in Trinity Market.",
+              "Dress in layers against the North Sea wind.",
+              "Sunset is often before 4:00 PM in winter.",
+              "Museums are well-heated during the season."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -687,6 +887,188 @@
           "Check the weather forecast; the wind from the sea can make the ride more challenging.",
           "Bike hire stations are available in the city centre if you don't bring your own."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens radeln wir vorsichtig zur Marina. Mittags besuchen wir The Deep, wo wir die Räder sicher abstellen können. Nachmittags verbringen wir viel Zeit im Museum Quarter, um dem Regen zu entgehen. Den Abschluss bildet die Humber Bridge, wobei die Sicht bei Regen mystisch wirkt.",
+            "hu": "Reggel óvatosan tekerünk a Marina felé. Délben a The Deep akváriumban pihenünk, ahol biztonságos bringatárolók vannak. Délután a Múzeumi Negyedben bújunk el az eső elől. A napot a Humber-hídnál zárjuk, ami esőben ködös, misztikus arcát mutatja.",
+            "ro": "Dimineața pedalăm cu grijă spre Marina. La prânz vizităm The Deep, unde putem lăsa bicicletele în siguranță. După-amiaza stăm în Cartierul Muzeelor pentru a evita ploaia. Finalizăm la Podul Humber, unde vizibilitatea redusă oferă un aspect mistic.",
+            "en": "Morning bike ride to the Marina requires caution. Midday is spent at The Deep with secure bike parking. Afternoon is dedicated to the Museum Quarter to stay dry. The tour ends at Humber Bridge, which looks mystical through the rainy mist."
+          },
+          "stops": [
+            {
+              "name": "Hull Marina",
+              "tip_5lang": {
+                "de": "Vorsicht auf nassem Kopfsteinpflaster.",
+                "hu": "Vigyázat a vizes macskakövön.",
+                "ro": "Atenție pe piatra cubică udă.",
+                "en": "Watch out for slippery cobblestones."
+              }
+            },
+            {
+              "name": "The Deep",
+              "tip_5lang": {
+                "de": "Überdachte Fahrradständer vorhanden.",
+                "hu": "Fedett kerékpártárolók elérhetők.",
+                "ro": "Suporturi de biciclete acoperite.",
+                "en": "Covered bike racks available here."
+              }
+            },
+            {
+              "name": "Streetlife Museum & Wilberforce House",
+              "tip_5lang": {
+                "de": "Lange Indoor-Pause einlegen.",
+                "hu": "Tartsunk hosszú fedett szünetet.",
+                "ro": "Pauză lungă la interior.",
+                "en": "Take a long indoor break here."
+              }
+            },
+            {
+              "name": "Hull Minster",
+              "tip_5lang": {
+                "de": "Trockener Platz für Gebet & Ruhe.",
+                "hu": "Száraz hely pihenésre és imára.",
+                "ro": "Loc uscat pentru liniște.",
+                "en": "Dry spot for rest and reflection."
+              }
+            },
+            {
+              "name": "Ferens Art Gallery",
+              "tip_5lang": {
+                "de": "Kleidung im Café trocknen.",
+                "hu": "Szárítsuk meg ruháinkat a kávézóban.",
+                "ro": "Uscați hainele la cafenea.",
+                "en": "Dry off clothes in the gallery cafe."
+              }
+            },
+            {
+              "name": "Humber Bridge",
+              "tip_5lang": {
+                "de": "Achtung vor starkem Seitenwind.",
+                "hu": "Figyelem, erős oldalszél várható.",
+                "ro": "Atenție la vântul lateral puternic.",
+                "en": "Beware of strong crosswinds on the bridge."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie unbedingt wasserdichte Kleidung.",
+              "Bremsen Sie frühzeitig auf nassen Straßen.",
+              "Nutzen Sie die Radwege fernab der Marina-Kante.",
+              "Schutzbleche am Fahrrad sind sehr empfohlen."
+            ],
+            "hu": [
+              "Mindenképpen vízálló ruházatot viseljen.",
+              "A vizes úton fékezzen időben és óvatosan.",
+              "Használja a parttól távolabbi bringautakat.",
+              "A sárvédő használata erősen ajánlott."
+            ],
+            "ro": [
+              "Purtați neapărat haine impermeabile.",
+              "Frânați din timp pe carosabilul umed.",
+              "Folosiți pistele mai departe de marginea portului.",
+              "Aripile la bicicletă sunt foarte recomandate."
+            ],
+            "en": [
+              "Wear high-quality waterproof gear.",
+              "Brake early and gently on wet surfaces.",
+              "Use inland cycle paths away from the marina edge.",
+              "Mudguards are highly recommended for this route."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Start an der Marina führt uns morgens zum beheizten The Deep. Mittags erkunden wir das Museum Quarter zu Fuß, während die Räder parken. Nachmittags wärmen wir uns in der Ferens Gallery auf. Die Fahrt zur Humber Bridge bei Sonnenuntergang bietet eiskalte, klare Panoramen.",
+            "hu": "Hideg reggel a Marinánál, majd irány a fűtött The Deep. Délben a Múzeumi Negyedet gyalog fedezzük fel, amíg a gépek pihennek. Délután a Ferens Gallery-ben melegszünk fel. A naplemente a Humber-hídnál jéghideg, de kristálytiszta panorámát ígér.",
+            "ro": "Un start răcoros la Marina ne duce spre The Deep încălzit. La prânz explorăm Cartierul Muzeelor pe jos, cu bicicletele parcate. După-amiaza ne încălzim la Galeria Ferens. Călătoria spre Podul Humber la apus oferă panorame clare, dar geroase.",
+            "en": "A chilly start at the Marina leads to the heated The Deep. At midday, explore the Museum Quarter on foot while bikes are parked. Warm up in the Ferens Gallery in the afternoon. The ride to Humber Bridge at sunset offers freezing but crystal-clear views."
+          },
+          "stops": [
+            {
+              "name": "Hull Marina",
+              "tip_5lang": {
+                "de": "Warme Handschuhe sind essenziell.",
+                "hu": "A meleg kesztyű elengedhetetlen.",
+                "ro": "Mănușile groase sunt esențiale.",
+                "en": "Warm gloves are essential for the ride."
+              }
+            },
+            {
+              "name": "The Deep",
+              "tip_5lang": {
+                "de": "Aufwärmpause bei den Pinguinen.",
+                "hu": "Melegedő szünet a pingvineknél.",
+                "ro": "Pauză de încălzire la pinguini.",
+                "en": "Warm-up break near the penguin exhibit."
+              }
+            },
+            {
+              "name": "Streetlife Museum & Wilberforce House",
+              "tip_5lang": {
+                "de": "Fahrradschloss kann einfrieren.",
+                "hu": "A bringalakat befagyhat.",
+                "ro": "Antifurtul poate îngheța.",
+                "en": "Bike locks can freeze; use lubricant."
+              }
+            },
+            {
+              "name": "Hull Minster",
+              "tip_5lang": {
+                "de": "Besinnliche Stille im Warmen.",
+                "hu": "Békés csend a meleg belsőben.",
+                "ro": "Liniște deplină la căldură.",
+                "en": "Peaceful silence in the warmth."
+              }
+            },
+            {
+              "name": "Ferens Art Gallery",
+              "tip_5lang": {
+                "de": "Heißer Tee im Museumscafé.",
+                "hu": "Forró tea a múzeumi kávézóban.",
+                "ro": "Ceai fierbinte la cafeneaua muzeului.",
+                "en": "Hot tea at the museum cafe is a must."
+              }
+            },
+            {
+              "name": "Humber Bridge",
+              "tip_5lang": {
+                "de": "Spektakuläres Licht um 16 Uhr.",
+                "hu": "Látványos fények délután 4-kor.",
+                "ro": "Lumină spectaculoasă la ora 16:00.",
+                "en": "Spectacular light around 4 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Glatteis auf Brücken.",
+              "Warme Kleidung im Zwiebelprinzip nutzen.",
+              "Beleuchtung am Fahrrad ist ab 15:30 Pflicht.",
+              "Die Luft am Humber ist im Winter sehr bissig."
+            ],
+            "hu": [
+              "Vigyázzon a lefagyásokra a hidakon.",
+              "Réteges, szélálló öltözet javasolt.",
+              "A világítás már fél 4-től kötelező.",
+              "A Humber felőli szél télen igen metsző."
+            ],
+            "ro": [
+              "Atenție la polei pe poduri și pasaje.",
+              "Folosiți haine groase în mai multe straturi.",
+              "Luminile la bicicletă sunt obligatorii de la 15:30.",
+              "Aerul de pe Humber este tăios iarna."
+            ],
+            "en": [
+              "Watch for black ice on bridges.",
+              "Use the onion principle for layering clothes.",
+              "Bike lights are mandatory from 3:30 PM.",
+              "The wind from the Humber is biting in winter."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1025,6 +1407,206 @@
           "Traffic in Hull can be heavy during peak hours, so allow extra time for drives between clusters.",
           "Some Old Town streets are very narrow or closed to traffic, so follow signs carefully."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie morgens bequem im Auto zur Ferens Gallery. Mittags geht es zum Maritime Museum, Parkplätze sind nah. Den Nachmittag verbringen wir im trockenen Museum Quarter. Den Abend lassen wir im The Deep ausklingen, bevor wir zur regnerischen Humber Bridge fahren.",
+            "hu": "Kezdje a reggelt kényelmesen autóval a Ferens Gallery-nél. Délben a Maritime Museum következik, közeli parkolással. A délutánt a száraz Múzeumi Negyedben töltjük. Az estét a The Deepben zárjuk, majd kihajtunk az esős Humber-hídhoz.",
+            "ro": "Începeți dimineața confortabil cu mașina spre Galeria Ferens. La prânz mergem la Muzeul Maritim, parcările sunt aproape. După-amiaza o petrecem în Cartierul Muzeelor. Încheiem seara la The Deep, apoi conducem spre Podul Humber plouat.",
+            "en": "Start your morning comfortably by car at Ferens Gallery. Midday visit to the Maritime Museum with nearby parking. Spend the afternoon dry inside the Museum Quarter. Conclude at The Deep before driving to the rainy Humber Bridge viewpoint."
+          },
+          "stops": [
+            {
+              "name": "Ferens Art Gallery",
+              "tip_5lang": {
+                "de": "Parkhaus Princes Quay ist nah.",
+                "hu": "A Princes Quay parkolóház közel van.",
+                "ro": "Parcarea Princes Quay este aproape.",
+                "en": "Princes Quay car park is very close."
+              }
+            },
+            {
+              "name": "Hull Maritime Museum",
+              "tip_5lang": {
+                "de": "Kurzer Sprint vom Parkplatz.",
+                "hu": "Rövid futás a parkolótól.",
+                "ro": "Sprint scurt de la parcare.",
+                "en": "Short dash from the parking lot."
+              }
+            },
+            {
+              "name": "Hull Minster",
+              "tip_5lang": {
+                "de": "Parken am Market Place nutzen.",
+                "hu": "Használja a Market Place parkolót.",
+                "ro": "Parcați la Market Place.",
+                "en": "Use Market Place parking nearby."
+              }
+            },
+            {
+              "name": "Wilberforce House & Streetlife Museum",
+              "tip_5lang": {
+                "de": "Perfekt für regnerische Stunden.",
+                "hu": "Tökéletes esős órákra.",
+                "ro": "Perfect pentru orele cu ploaie.",
+                "en": "Perfect for spending rainy hours."
+              }
+            },
+            {
+              "name": "The Deep",
+              "tip_5lang": {
+                "de": "Großer eigener Parkplatz direkt vor Ort.",
+                "hu": "Saját nagy parkoló közvetlenül ott.",
+                "ro": "Parcare mare proprie la locație.",
+                "en": "Large on-site parking available."
+              }
+            },
+            {
+              "name": "Hull Marina",
+              "tip_5lang": {
+                "de": "Blick aus dem Auto genießen.",
+                "hu": "Élvezze a kilátást az autóból.",
+                "ro": "Bucurați-vă de vedere din mașină.",
+                "en": "Enjoy the view from your car window."
+              }
+            },
+            {
+              "name": "Humber Bridge Viewpoint",
+              "tip_5lang": {
+                "de": "Sicherer Halt am Aussichtspunkt.",
+                "hu": "Biztonságos megálló a kilátónál.",
+                "ro": "Oprire sigură la punctul de belvedere.",
+                "en": "Safe stop at the scenic viewpoint."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie Parkhäuser statt Straßenparkplätze.",
+              "Vorsicht bei Aquaplaning auf der A63.",
+              "Die Sicht auf der Brücke kann eingeschränkt sein.",
+              "Princes Quay bietet trockenen Zugang zur City."
+            ],
+            "hu": [
+              "Használjon parkolóházakat az utcai helyek helyett.",
+              "Vigyázzon a vízátfolyásokra az A63-as úton.",
+              "A hídon a látótávolság korlátozott lehet.",
+              "A Princes Quay fedett utat biztosít a városhoz."
+            ],
+            "ro": [
+              "Folosiți parcările etajate în loc de stradă.",
+              "Atenție la acvaplanare pe drumul A63.",
+              "Vizibilitatea pe pod poate fi redusă.",
+              "Princes Quay oferă acces uscat spre centru."
+            ],
+            "en": [
+              "Prefer multi-storey car parks over street spots.",
+              "Watch out for aquaplaning on the A63.",
+              "Bridge visibility might be low during heavy rain.",
+              "Princes Quay offers dry access to the city center."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein warmer Start in der Ferens Gallery führt uns durch den Wintertag. Mittags besuchen wir das Maritime Museum. Der Nachmittag im Museum Quarter ist gemütlich und frostfrei. Nach dem Aquarium The Deep fahren wir zum Humber Viewpoint, um die beleuchtete Brücke in der Winternacht zu sehen.",
+            "hu": "Meleg kezdés a Ferens Gallery-ben, így indul a téli nap. Délben a Maritime Museumot látogatjuk meg. A délután a Múzeumi Negyedben hangulatos és fagymentes. Az akvárium után a Humber kilátóhoz hajtunk, hogy lássuk a kivilágított hidat a téli éjszakában.",
+            "ro": "Un start călduros la Galeria Ferens ne poartă prin ziua de iarnă. La prânz vizităm Muzeul Maritim. După-amiaza în Cartierul Muzeelor este plăcută și fără îngheț. După acvariu, mergem la Humber Viewpoint pentru a vedea podul luminat în noaptea de iarnă.",
+            "en": "A warm start at Ferens Gallery sets the tone for a winter day. Visit the Maritime Museum at midday. Afternoon in the Museum Quarter is cozy and frost-free. After the aquarium, drive to the Humber Viewpoint to see the bridge illuminated in the winter night."
+          },
+          "stops": [
+            {
+              "name": "Ferens Art Gallery",
+              "tip_5lang": {
+                "de": "Vorgewärmtes Auto im Parkhaus.",
+                "hu": "Előmelegített autó a parkolóházban.",
+                "ro": "Mașină preîncălzită în parcare.",
+                "en": "Pre-warmed car in the parking garage."
+              }
+            },
+            {
+              "name": "Hull Maritime Museum",
+              "tip_5lang": {
+                "de": "Wärmepause in historischen Hallen.",
+                "hu": "Melegedő szünet a történelmi termekben.",
+                "ro": "Pauză de căldură în halele istorice.",
+                "en": "Warmth break in historic halls."
+              }
+            },
+            {
+              "name": "Hull Minster",
+              "tip_5lang": {
+                "de": "Winterliche Stille im Kirchenschiff.",
+                "hu": "Téli csend a templomhajóban.",
+                "ro": "Liniște de iarnă în naosul bisericii.",
+                "en": "Winter silence in the church nave."
+              }
+            },
+            {
+              "name": "Wilberforce House & Streetlife Museum",
+              "tip_5lang": {
+                "de": "Museumscafé bietet heiße Getränke.",
+                "hu": "A múzeumi kávézó forró italokat kínál.",
+                "ro": "Cafeneaua muzeului oferă băuturi calde.",
+                "en": "Museum cafe offers hot seasonal drinks."
+              }
+            },
+            {
+              "name": "The Deep",
+              "tip_5lang": {
+                "de": "Beheiztes Foyer zum Entspannen.",
+                "hu": "Fűtött aula a lazításhoz.",
+                "ro": "Foaier încălzit pentru relaxare.",
+                "en": "Heated foyer for a comfortable break."
+              }
+            },
+            {
+              "name": "Hull Marina",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp im Frost.",
+                "hu": "Rövid fotómegálló a fagyban.",
+                "ro": "Scurtă oprire foto pe ger.",
+                "en": "Quick photo stop in the frost."
+              }
+            },
+            {
+              "name": "Humber Bridge Viewpoint",
+              "tip_5lang": {
+                "de": "Sitzheizung bei der Aussicht.",
+                "hu": "Ülésfűtés a kilátás mellé.",
+                "ro": "Încălzire în scaune la belvedere.",
+                "en": "Seat heating while enjoying the view."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Frostschutzmittel für Scheiben nicht vergessen.",
+              "Parkhäuser schützen vor dem Scheibenkratzen.",
+              "Die A63 kann bei Frost glatt sein.",
+              "Humber Bridge Viewpoint ist oft sehr windig."
+            ],
+            "hu": [
+              "Ne felejtse el a szélvédő-fagyállót.",
+              "A parkolóház megkímél a jégkaparástól.",
+              "Az A63-as út fagyban csúszós lehet.",
+              "A Humber kilátópontnál nagyon erős a szél."
+            ],
+            "ro": [
+              "Nu uitați lichidul de parbriz anti-îngheț.",
+              "Parcările etajate vă scapă de răzuit gheața.",
+              "Drumul A63 poate fi alunecos pe ger.",
+              "Punctul de belvedere Humber este foarte vântos."
+            ],
+            "en": [
+              "Don't forget anti-freeze for your windshield.",
+              "Multi-storey parking saves you from de-icing.",
+              "Road A63 can be slippery during frost.",
+              "Humber Bridge Viewpoint is often extremely windy."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1339,6 +1921,188 @@
           "Buses can be crowded at peak times, so allow a little extra time.",
           "Keep an eye on the time for the last bus back from the marina if you're out late."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie morgens die Busse zur Ferens Gallery. Mittags erreichen Sie das Maritime Museum bequem mit dem ÖPNV. Den Nachmittag verbringen wir im Museum Quarter, das gut angebunden ist. Der Tag endet im The Deep, von wo aus Busse zurück zum Bahnhof fahren.",
+            "hu": "Reggel használja a buszokat a Ferens Gallery-hez. Délben a Maritime Museum tömegközlekedéssel könnyen elérhető. A délutánt a jól megközelíthető Múzeumi Negyedben töltjük. A nap a The Deepnél zárul, ahonnan buszok indulnak vissza az állomásra.",
+            "ro": "Folosiți autobuzele spre Galeria Ferens dimineața. La prânz ajungeți ușor la Muzeul Maritim cu transportul public. După-amiaza o petrecem în Cartierul Muzeelor. Ziua se încheie la The Deep, de unde sunt autobuze spre gară.",
+            "en": "Use buses to reach Ferens Gallery in the morning. Midday, the Maritime Museum is easily accessible by public transport. Spend a rainy afternoon in the well-connected Museum Quarter. End at The Deep with buses available back to the station."
+          },
+          "stops": [
+            {
+              "name": "Ferens Art Gallery",
+              "tip_5lang": {
+                "de": "Bushaltestelle direkt am Monument.",
+                "hu": "Buszmegálló közvetlenül a Monumentnél.",
+                "ro": "Stație de autobuz chiar la Monument.",
+                "en": "Bus stop right by the Monument."
+              }
+            },
+            {
+              "name": "Hull Maritime Museum",
+              "tip_5lang": {
+                "de": "Zentraler Knotenpunkt für Busse.",
+                "hu": "Központi csomópont a buszoknak.",
+                "ro": "Nod central pentru autobuze.",
+                "en": "Central hub for all city buses."
+              }
+            },
+            {
+              "name": "Hull Minster",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg von der Station.",
+                "hu": "Rövid séta az állomástól.",
+                "ro": "Scurtă plimbare de la stație.",
+                "en": "Short walk from the main station."
+              }
+            },
+            {
+              "name": "Wilberforce House & Streetlife Museum",
+              "tip_5lang": {
+                "de": "Haltestellen in der Nähe.",
+                "hu": "Buszmegállók a közelben.",
+                "ro": "Stații de autobuz în apropiere.",
+                "en": "Nearby bus stops available."
+              }
+            },
+            {
+              "name": "The Deep",
+              "tip_5lang": {
+                "de": "Bus 78/79 hält fast vor der Tür.",
+                "hu": "A 78/79-es busz majdnem a kapunál áll meg.",
+                "ro": "Autobuzul 78/79 oprește aproape la ușă.",
+                "en": "Bus 78/79 stops nearly at the entrance."
+              }
+            },
+            {
+              "name": "Hull Marina",
+              "tip_5lang": {
+                "de": "Warme Wartehäuschen am Hafen.",
+                "hu": "Meleg váróhelyiségek a kikötőnél.",
+                "ro": "Adăposturi de așteptare la port.",
+                "en": "Covered bus shelters at the marina."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Hull Card für alle Busse.",
+              "Die Stagecoach App zeigt Live-Zeiten.",
+              "Wartehäuschen bieten Schutz vor Regen.",
+              "Der Bahnhof Paragon ist komplett überdacht."
+            ],
+            "hu": [
+              "Használja a Hull Card-ot minden buszjáratra.",
+              "A Stagecoach app valós idejű menetrendet mutat.",
+              "A buszvárók védelmet nyújtanak az eső ellen.",
+              "A Paragon pályaudvar teljesen fedett."
+            ],
+            "ro": [
+              "Folosiți Hull Card pentru toate autobuzele.",
+              "Aplicația Stagecoach arată timpii live.",
+              "Adăposturile de autobuz oferă protecție contra ploii.",
+              "Gara Paragon este complet acoperită."
+            ],
+            "en": [
+              "Use the Hull Card for all bus operators.",
+              "Check the Stagecoach app for live bus times.",
+              "Bus shelters provide good cover from rain.",
+              "Paragon Interchange is fully covered and dry."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Wintertag im beheizten Paragon Interchange. Mit dem Bus geht es zur Ferens Gallery und zum Maritime Museum. Der Nachmittag im Museum Quarter bietet Wärme und Kultur. Zum Abschluss bringt Sie der Bus zum The Deep, bevor es in der Kälte zurück zum Bahnhof geht.",
+            "hu": "Kezdje a téli napot a fűtött Paragon pályaudvaron. Busszal menjen a Ferens Gallery-hez és a Maritime Museumhoz. A délután a Múzeumi Negyedben meleget és kultúrát kínál. Zárásként busz visz a The Deephez, majd vissza a fagyos állomásra.",
+            "ro": "Începeți ziua de iarnă în Paragon Interchange încălzit. Luați autobuzul spre Galeria Ferens și Muzeul Maritim. După-amiaza în Cartierul Muzeelor oferă căldură și cultură. La final, autobuzul vă duce la The Deep, apoi înapoi la gară.",
+            "en": "Start your winter day at the heated Paragon Interchange. Take the bus to Ferens Gallery and the Maritime Museum. Afternoon in the Museum Quarter provides warmth and culture. Finally, a bus takes you to The Deep before heading back to the station."
+          },
+          "stops": [
+            {
+              "name": "Ferens Art Gallery",
+              "tip_5lang": {
+                "de": "Warme Busse im Winterbetrieb.",
+                "hu": "Fűtött buszok téli üzemmódban.",
+                "ro": "Autobuze încălzite în regim de iarnă.",
+                "en": "Well-heated buses during winter."
+              }
+            },
+            {
+              "name": "Hull Maritime Museum",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen den Stopps.",
+                "hu": "Rövid távok a megállók között.",
+                "ro": "Distanțe scurte între opriri.",
+                "en": "Short walking distances between stops."
+              }
+            },
+            {
+              "name": "Hull Minster",
+              "tip_5lang": {
+                "de": "Zentrale Lage, viele Busverbindungen.",
+                "hu": "Központi hely, sok buszjárat.",
+                "ro": "Locație centrală, multe conexiuni.",
+                "en": "Central location with many bus links."
+              }
+            },
+            {
+              "name": "Wilberforce House & Streetlife Museum",
+              "tip_5lang": {
+                "de": "Innenräume sind gut temperiert.",
+                "hu": "A belső terek jól temperáltak.",
+                "ro": "Interioarele sunt bine încălzite.",
+                "en": "Indoors are kept at a pleasant temperature."
+              }
+            },
+            {
+              "name": "The Deep",
+              "tip_5lang": {
+                "de": "Beleuchtete Bushaltestelle am Abend.",
+                "hu": "Kivilágított buszmegálló este.",
+                "ro": "Stație de autobuz luminată seara.",
+                "en": "Well-lit bus stop for evening returns."
+              }
+            },
+            {
+              "name": "Hull Marina",
+              "tip_5lang": {
+                "de": "Scharfer Winterwind an der Haltestelle.",
+                "hu": "Metsző téli szél a megállóban.",
+                "ro": "Vânt de iarnă tăios în stație.",
+                "en": "Sharp winter wind at the bus stop."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse fahren im Winter oft seltener.",
+              "Wärmen Sie sich im Paragon Interchange auf.",
+              "Abends sind die Busse meist pünktlicher.",
+              "Tragen Sie Reflektoren bei Dunkelheit."
+            ],
+            "hu": [
+              "Télen a buszok ritkábban járhatnak.",
+              "Melegedjen fel a Paragon Interchange várójában.",
+              "Este a buszok általában pontosabbak.",
+              "Viseljen fényvisszaverőt a sötétben."
+            ],
+            "ro": [
+              "Autobuzele pot circula mai rar iarna.",
+              "Încălziți-vă în sala de așteptare Paragon.",
+              "Seara, autobuzele sunt de obicei mai punctuale.",
+              "Purtați elemente reflectorizante pe întuneric."
+            ],
+            "en": [
+              "Buses may run less frequently in winter.",
+              "Warm up inside the Paragon Interchange foyer.",
+              "Buses are usually more punctual in the evenings.",
+              "Wear reflectors when walking to bus stops in the dark."
+            ]
+          }
+        }
       }
     }
   }

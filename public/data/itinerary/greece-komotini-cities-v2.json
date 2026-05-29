@@ -410,6 +410,224 @@
           "Respect the religious sites and dress appropriately (shoulders and knees covered).",
           "Be sure to try a frappé, the Greek iced coffee, for refreshment."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren regnerischen Morgen am Irini-Platz, wo zahlreiche Cafés mit Markisen Schutz bieten. Besuchen Sie die Yeni Camii und den Uhrturm, die nah beieinander liegen. Mittags bietet das Imaret ein weitläufiges, überdachtes historisches Erlebnis. Am Nachmittag ist das Archäologische Museum der ideale Rückzugsort vor dem Wetter, bevor Sie den Tag im Agia Paraskevi Park beenden.",
+            "hu": "Kezdje az esős reggelt a Béke téren, ahol a kávézók ponyvái alatt figyelheti a várost. Az Új Mecset és az Óratorony közel fekszenek egymáshoz, így kevés az ázási idő. Délben az Imaret fedett terei nyújtanak történelmi menedéket. Délután a Régészeti Múzeum gazdag kiállítása tökéletes program esőben, a napot pedig az Agia Paraskevi Park fái között zárhatja.",
+            "ro": "Începeți dimineața ploioasă în Piața Irini, unde cafenelele cu copertine oferă adăpost. Vizitați Noua Moschee și Turnul Ceasului, aflate la mică distanță. La prânz, Imaretul oferă o experiență istorică acoperită. După-amiaza, Muzeul Arheologic este refugiul ideal împotriva vremii, înainte de a încheia ziua în Parcul Agia Paraskevi sub protecția arborilor.",
+            "en": "Start your rainy morning at Peace Square, where cafes with awnings provide shelter. Visit the New Mosque and Clock Tower, which are closely situated to minimize exposure. Midday, the Imaret offers a vast, covered historical experience. In the afternoon, the Archaeological Museum is the perfect indoor retreat before finishing the day at Agia Paraskevi Park's sheltered paths."
+          },
+          "stops": [
+            {
+              "name": "Peace Square (Irini)",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz in den Arkaden der umliegenden Cafés.",
+                "hu": "Keressen menedéket a környékbeli kávézók árkádjai alatt.",
+                "ro": "Căutați adăpost sub arcadele cafenelelor din jur.",
+                "en": "Seek shelter under the arcades of the surrounding cafes."
+              }
+            },
+            {
+              "name": "New Mosque (Yeni Camii)",
+              "tip_5lang": {
+                "de": "Ein ruhiger, trockener Ort mit beeindruckenden Teppichen.",
+                "hu": "Csendes, száraz hely, lenyűgöző szőnyegekkel.",
+                "ro": "Un loc liniștit și uscat, cu covoare impresionante.",
+                "en": "A quiet, dry spot with impressive carpets."
+              }
+            },
+            {
+              "name": "Clock Tower of Komotini",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp; halten Sie den Regenschirm bereit.",
+                "hu": "Gyors fotómegálló; tartsa készenlétben az esernyőt.",
+                "ro": "Oprire scurtă pentru poze; țineți umbrela la îndemână.",
+                "en": "Quick photo stop; keep your umbrella ready."
+              }
+            },
+            {
+              "name": "Old Mosque (Eski Camii)",
+              "tip_5lang": {
+                "de": "Das Innere bietet Schutz und spirituelle Ruhe.",
+                "hu": "A belső tér védelmet és spirituális nyugalmat ad.",
+                "ro": "Interiorul oferă protecție și liniște spirituală.",
+                "en": "The interior provides shelter and spiritual calm."
+              }
+            },
+            {
+              "name": "Imaret of Komotini",
+              "tip_5lang": {
+                "de": "Massive Steinmauern halten Sie während der Besichtigung trocken.",
+                "hu": "A masszív kőfalak szárazon tartják a látogatás alatt.",
+                "ro": "Zidurile masive de piatră vă mențin uscat în timpul vizitei.",
+                "en": "Massive stone walls keep you dry during the visit."
+              }
+            },
+            {
+              "name": "Byzantine Fortress Wall",
+              "tip_5lang": {
+                "de": "Vorsicht auf den rutschigen Steinen bei Nässe.",
+                "hu": "Vigyázat, a nedves kövek csúszósak lehetnek.",
+                "ro": "Atenție la pietrele alunecoase când sunt ude.",
+                "en": "Be careful on the slippery stones when wet."
+              }
+            },
+            {
+              "name": "Archaeological Museum",
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um einen heftigen Schauer abzuwarten.",
+                "hu": "Tökéletes hely egy nagyobb zápor kivárására.",
+                "ro": "Locul perfect pentru a aștepta trecerea unei averse.",
+                "en": "The perfect place to wait out a heavy downpour."
+              }
+            },
+            {
+              "name": "Agia Paraskevi Park",
+              "tip_5lang": {
+                "de": "Die dichten Baumkronen bieten natürlichen Regenschutz.",
+                "hu": "A sűrű lombozat természetes védelmet nyújt az eső ellen.",
+                "ro": "Coroanele dese ale copacilor oferă protecție naturală.",
+                "en": "Dense tree canopies offer natural rain protection."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für die Kopfsteinpflastergassen.",
+              "Nutzen Sie die vielen Cafés am Irini-Platz als Basisstation.",
+              "Die Museen sind montags oft geschlossen, prüfen Sie die Zeiten.",
+              "Ein Taschenschirm ist bei den kurzen Wegen ideal."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a macskaköves utcákhoz.",
+              "Használja a Béke tér kávézóit bázispontként.",
+              "A múzeumok hétfőn zárva lehetnek, ellenőrizze az időpontokat.",
+              "Egy összecsukható esernyő ideális a rövid távokhoz."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru străzile pietruite.",
+              "Folosiți cafenelele din Piața Irini ca puncte de sprijin.",
+              "Muzeele sunt adesea închise lunea, verificați orarul.",
+              "O umbrelă compactă este ideală pentru distanțele scurte."
+            ],
+            "en": [
+              "Wear waterproof shoes for the cobblestone streets.",
+              "Use the cafes at Peace Square as base points.",
+              "Museums are often closed on Mondays, check the hours.",
+              "A compact umbrella is ideal for the short distances."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen beginnt frisch am belebten Irini-Platz. Wärmen Sie sich mit einem griechischen Kaffee auf, bevor Sie die Moscheen und den Uhrturm besichtigen. Mittags lädt das Imaret zu einer Reise in die osmanische Vergangenheit ein. Da die Sonne gegen 17:00 Uhr untergeht, besuchen Sie das Museum am frühen Nachmittag und genießen Sie die abendliche Beleuchtung an der Festungsmauer.",
+            "hu": "A friss téli reggel a nyüzsgő Béke téren indul. Melegedjen fel egy görög kávéval a mecsetek és az Óratorony meglátogatása előtt. Délben az Imaret invitál oszmán múltba repítő sétára. Mivel a nap 17:00 körül nyugszik, látogassa meg a múzeumot kora délután, majd élvezze a várfal esti kivilágítását a park felé menet.",
+            "ro": "O dimineață răcoroasă de iarnă începe în Piața Irini. Încălziți-vă cu o cafea grecească înainte de a vizita moscheile și Turnul Ceasului. La prânz, Imaretul vă invită la o călătorie în trecutul otoman. Deoarece soarele apune în jur de ora 17:00, vizitați muzeul devreme și bucurați-vă de iluminarea cetății seara.",
+            "en": "A crisp winter morning starts at the bustling Peace Square. Warm up with a Greek coffee before visiting the mosques and Clock Tower. Midday, the Imaret invites you on a journey into the Ottoman past. Since the sun sets around 17:00, visit the museum in the early afternoon and enjoy the evening lights of the fortress wall."
+          },
+          "stops": [
+            {
+              "name": "Peace Square (Irini)",
+              "tip_5lang": {
+                "de": "Genießen Sie einen heißen Salep bei einem Straßenverkäufer.",
+                "hu": "Kóstoljon meg egy forró szaleppet egy utcai árusnál.",
+                "ro": "Savurați un salep fierbinte de la un vânzător ambulant.",
+                "en": "Enjoy a hot salep from a street vendor."
+              }
+            },
+            {
+              "name": "New Mosque (Yeni Camii)",
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten die Kälte draußen.",
+                "hu": "A vastag falak kívül tartják a téli hideget.",
+                "ro": "Zidurile groase țin frigul la distanță.",
+                "en": "The thick walls keep the winter cold outside."
+              }
+            },
+            {
+              "name": "Clock Tower of Komotini",
+              "tip_5lang": {
+                "de": "Das Winterlicht bietet tolle Kontraste für Fotos.",
+                "hu": "A téli fények remek kontrasztot adnak a fotókhoz.",
+                "ro": "Lumina de iarnă oferă contraste grozave pentru poze.",
+                "en": "The winter light offers great contrasts for photos."
+              }
+            },
+            {
+              "name": "Old Mosque (Eski Camii)",
+              "tip_5lang": {
+                "de": "Ein ruhiger Rückzugsort zum Aufwärmen der Seele.",
+                "hu": "Csendes menedék a lélek felmelegítéséhez.",
+                "ro": "Un refugiu liniștit pentru a vă încălzi sufletul.",
+                "en": "A quiet retreat to warm your soul."
+              }
+            },
+            {
+              "name": "Imaret of Komotini",
+              "tip_5lang": {
+                "de": "Tragen Sie warme Schichten, da es im Inneren kühl sein kann.",
+                "hu": "Öltözzön rétegesen, mert bent hűvös lehet.",
+                "ro": "Purtați haine groase, deoarece interiorul poate fi răcoros.",
+                "en": "Wear warm layers, as it can be chilly inside."
+              }
+            },
+            {
+              "name": "Byzantine Fortress Wall",
+              "tip_5lang": {
+                "de": "Schön bei Sonnenuntergang gegen 17:00 Uhr.",
+                "hu": "Gyönyörű naplementekor, 17:00 körül.",
+                "ro": "Frumos la apus, în jur de ora 17:00.",
+                "en": "Beautiful at sunset, around 17:00."
+              }
+            },
+            {
+              "name": "Archaeological Museum",
+              "tip_5lang": {
+                "de": "Gut beheizte Räume laden zum langen Verweilen ein.",
+                "hu": "A jól fűtött termek hívogatnak a nézelődésre.",
+                "ro": "Sălile bine încălzite vă invită la o vizită lungă.",
+                "en": "Well-heated rooms invite a long visit."
+              }
+            },
+            {
+              "name": "Agia Paraskevi Park",
+              "tip_5lang": {
+                "de": "Die Abendbeleuchtung im Winter ist besonders stimmungsvoll.",
+                "hu": "A téli esti kivilágítás különleges hangulatot áraszt.",
+                "ro": "Iluminatul de seară iarna este deosebit de atmosferic.",
+                "en": "Winter evening lighting is especially atmospheric."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht früh unter, planen Sie Outdoor-Stopps vor 16:30 Uhr.",
+              "Probieren Sie lokale Süßigkeiten wie Soutzouk Loukoum.",
+              "Tragen Sie Handschuhe für die windigen Ecken an der Festung.",
+              "Die Museen haben im Winter oft verkürzte Öffnungszeiten."
+            ],
+            "hu": [
+              "A nap korán nyugszik, a szabadtéri pontokat 16:30-ig érje el.",
+              "Kóstolja meg a helyi édességeket, például a Szudzsuk lukumot.",
+              "Viseljen kesztyűt a várfal körüli szeles részeken.",
+              "A múzeumok télen gyakran rövidebb ideig tartanak nyitva."
+            ],
+            "ro": [
+              "Soarele apune devreme, planificați opririle externe înainte de 16:30.",
+              "Gustați dulciurile locale, precum Soutzouk Loukoum.",
+              "Purtați mănuși pentru zonele vântoase de lângă cetate.",
+              "Muzeele au adesea program redus pe timpul iernii."
+            ],
+            "en": [
+              "The sun sets early, plan outdoor stops before 16:30.",
+              "Try local sweets like Soutzouk Loukoum.",
+              "Wear gloves for the windy spots near the fortress.",
+              "Museums often have shorter hours during winter."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -790,6 +1008,206 @@
           "Use bike lanes where available for safe riding.",
           "Some one-way streets might be open for cyclists in both directions, pay attention to the signs."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert Vorsicht auf Komotinis Kopfsteinpflaster. Starten Sie am Irini-Platz und steuern Sie zügig das Parkgebiet an. Die Museen bieten lange Trockenphasen für Sie und Ihr Rad. Mittags erkunden Sie das Imaret und die Altstadtmoscheen, bevor Sie den Tag bei einem gemütlichen Abendessen in einer Taverne ausklingen lassen, während es draußen regnet.",
+            "hu": "Az esőben való biciklizés óvatosságot igényel a macskaköves utakon. Kezdjen a Béke téren, majd hajtson a park felé. A múzeumok hosszú száraz pihenőt kínálnak önnek és gépének is. Délben az Imaret és a mecsetek környékét fedezze fel, majd zárja a napot egy hangulatos tavernás vacsorával, amíg odakint esik.",
+            "ro": "Mersul pe bicicletă în ploaie necesită prudență pe străzile din Komotini. Începeți în Piața Irini și mergeți spre zona parcului. Muzeele oferă perioade lungi de uscat pentru dvs. și bicicletă. La prânz, explorați Imaretul și moscheile, apoi încheiați ziua cu o cină caldă la o tavernă în timp ce afară plouă.",
+            "en": "Cycling in the rain requires caution on Komotini's cobblestones. Start at Peace Square and head swiftly to the park area. Museums provide long dry spells for you and your bike. Midday, explore the Imaret and old town mosques, before ending the day with a cozy dinner at a taverna while it rains outside."
+          },
+          "stops": [
+            {
+              "name": "Peace Square (Irini)",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen auf dem nassen Pflaster.",
+                "hu": "Ellenőrizze a fékeket a vizes kövezeten.",
+                "ro": "Verificați frânele pe pavajul umed.",
+                "en": "Check your brakes on the wet pavement."
+              }
+            },
+            {
+              "name": "Agia Paraskevi Park",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad unter den dichten Bäumen.",
+                "hu": "Parkoljon a sűrű fák védelme alatt.",
+                "ro": "Parcați bicicleta sub copacii deși.",
+                "en": "Park your bike under the dense trees."
+              }
+            },
+            {
+              "name": "Archaeological & Folklore Museum",
+              "tip_5lang": {
+                "de": "Guter Ort, um Kleidung und Ausrüstung zu trocknen.",
+                "hu": "Jó hely a ruhák és felszerelés megszárítására.",
+                "ro": "Un loc bun pentru a vă usca hainele și echipamentul.",
+                "en": "A good spot to dry off your gear and clothes."
+              }
+            },
+            {
+              "name": "Byzantine Fortress Wall",
+              "tip_5lang": {
+                "de": "Meiden Sie Schlammstellen an den Mauerrändern.",
+                "hu": "Kerülje a saras részeket a falak mentén.",
+                "ro": "Evitați zonele noroioase de lângă ziduri.",
+                "en": "Avoid muddy patches near the walls."
+              }
+            },
+            {
+              "name": "Imaret & Old Mosque",
+              "tip_5lang": {
+                "de": "Schieben Sie das Rad in den engen, nassen Gassen.",
+                "hu": "Tolja a biciklit a szűk, vizes utcákban.",
+                "ro": "Împingeți bicicleta pe străzile înguste și ude.",
+                "en": "Push your bike in the narrow, wet alleys."
+              }
+            },
+            {
+              "name": "New Mosque & Clock Tower",
+              "tip_5lang": {
+                "de": "Kurzer Stopp; sicheres Abschließen im Regen wichtig.",
+                "hu": "Gyors megálló; fontos a biztonságos lezárás esőben.",
+                "ro": "Oprire scurtă; securizarea bicicletei în ploaie e importantă.",
+                "en": "Short stop; secure locking is important in the rain."
+              }
+            },
+            {
+              "name": "Dinner at a Taverna",
+              "tip_5lang": {
+                "de": "Endlich im Trockenen; genießen Sie lokale Weine.",
+                "hu": "Végre fedél alatt; kóstolja meg a helyi borokat.",
+                "ro": "În sfârșit la adăpost; savurați vinurile locale.",
+                "en": "Finally indoors; enjoy local wines."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche am Rad sind bei diesem Wetter unverzichtbar.",
+              "Vermeiden Sie schnelle Kurven auf den glatten Marktplatzsteinen.",
+              "Eine wasserfeste Handyhalterung hilft bei der Navigation.",
+              "Nutzen Sie die Tavernen als Trockenpausen."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen ilyen időben.",
+              "Kerülje a hirtelen kanyarokat a csúszós piaci köveken.",
+              "Vízálló telefontartó segít a navigációban.",
+              "Használja a tavernákban töltött időt száradásra."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt indispensabile pe această vreme.",
+              "Evitați virajele bruște pe pietrele alunecoase din piață.",
+              "Un suport de telefon impermeabil ajută la navigare.",
+              "Folosiți timpul petrecut în taverne pentru a vă usca."
+            ],
+            "en": [
+              "Fenders on your bike are essential in this weather.",
+              "Avoid sharp turns on the slippery market stones.",
+              "A waterproof phone mount helps with navigation.",
+              "Use time in tavernas to dry off."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die kalte Winterluft belebt Ihre Radtour durch Komotini. Beginnen Sie am Irini-Platz und fahren Sie zum Park, um die winterliche Ruhe zu genießen. Die Museen bieten eine willkommene Aufwärmpause. Erkunden Sie die Festung und die historischen Moscheen im klaren Mittagslicht. Schließen Sie Ihre Tour mit einem warmen Abendessen ab, bevor die Winterkälte nach Sonnenuntergang zunimmt.",
+            "hu": "A hideg téli levegő felfrissíti a biciklis túrát Komotiniben. Kezdjen a Béke téren, majd tekerjen a parkba a téli nyugalomért. A múzeumok hívogató felmelegedési pontok. Fedezze fel a várat és a mecseteket a tiszta déli fényben. Zárja a napot meleg vacsorával, mielőtt a naplemente utáni hideg beköszönt.",
+            "ro": "Aerul rece de iarnă vă revigorează turul cu bicicleta prin Komotini. Începeți în Piața Irini și mergeți spre parc pentru liniștea iernii. Muzeele oferă o pauză de încălzire binevenită. Explorați cetatea și moscheile în lumina clară a amiezii. Încheiați cu o cină caldă înainte ca frigul să se intensifice după apus.",
+            "en": "The cold winter air invigorates your cycling tour through Komotini. Start at Peace Square and ride to the park for winter serenity. Museums offer a welcome warming break. Explore the fortress and historical mosques in the clear midday light. Finish with a warm dinner before the post-sunset chill sets in."
+          },
+          "stops": [
+            {
+              "name": "Peace Square (Irini)",
+              "tip_5lang": {
+                "de": "Warme Handschuhe sind für den Start essenziell.",
+                "hu": "Meleg kesztyű elengedhetetlen az induláshoz.",
+                "ro": "Mănușile groase sunt esențiale pentru început.",
+                "en": "Warm gloves are essential for the start."
+              }
+            },
+            {
+              "name": "Agia Paraskevi Park",
+              "tip_5lang": {
+                "de": "Die kahlen Bäume bieten weite Sicht durch den Park.",
+                "hu": "A kopár fák miatt messzire ellátni a parkban.",
+                "ro": "Copacii golași oferă o vizibilitate largă în parc.",
+                "en": "The bare trees allow for wide views through the park."
+              }
+            },
+            {
+              "name": "Archaeological & Folklore Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch zum Aufwärmen.",
+                "hu": "Használja a múzeumlátogatást a felmelegedésre.",
+                "ro": "Folosiți vizita la muzeu pentru a vă încălzi.",
+                "en": "Use the museum visit to warm up."
+              }
+            },
+            {
+              "name": "Byzantine Fortress Wall",
+              "tip_5lang": {
+                "de": "Windschutz hinter den alten Mauern suchen.",
+                "hu": "Keressen szélvédett helyet a régi falak mögött.",
+                "ro": "Căutați adăpost împotriva vântului după zidurile vechi.",
+                "en": "Seek wind protection behind the old walls."
+              }
+            },
+            {
+              "name": "Imaret & Old Mosque",
+              "tip_5lang": {
+                "de": "Achten Sie auf Raureif auf den Kopfsteinpflastern.",
+                "hu": "Ügyeljen a dérre a macskaköves utakon.",
+                "ro": "Atenție la brumă pe străzile pietruite.",
+                "en": "Watch out for frost on the cobblestones."
+              }
+            },
+            {
+              "name": "New Mosque & Clock Tower",
+              "tip_5lang": {
+                "de": "Kurzer Stopp; die Sonne steht tief.",
+                "hu": "Gyors megálló; a nap alacsonyan jár.",
+                "ro": "Oprire scurtă; soarele este jos pe cer.",
+                "en": "Short stop; the sun is low in the sky."
+              }
+            },
+            {
+              "name": "Dinner at a Taverna",
+              "tip_5lang": {
+                "de": "Bestellen Sie eine heiße Suppe zur Regeneration.",
+                "hu": "Rendeljen forró levest a regenerálódáshoz.",
+                "ro": "Comandați o supă fierbinte pentru regenerare.",
+                "en": "Order a hot soup for recovery."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich nach dem Zwiebelprinzip.",
+              "Achten Sie auf frühe Dunkelheit; Licht am Rad prüfen.",
+              "Trinken Sie zwischendurch heißen Tee in den Cafés.",
+              "Kettenschmierung ist bei winterlicher Feuchtigkeit wichtig."
+            ],
+            "hu": [
+              "Öltözzön rétegesen (hagyma-elv).",
+              "Figyeljen a korai sötétedésre; ellenőrizze a lámpákat.",
+              "Igyon forró teát a kávézókban útközben.",
+              "A lánc kenése fontos a téli nedvességben."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi.",
+              "Atenție la întunericul timpuriu; verificați luminile.",
+              "Beți ceai fierbinte la cafenelele de pe traseu.",
+              "Lubrifierea lanțului este importantă în umiditatea iernii."
+            ],
+            "en": [
+              "Dress in layers (onion principle).",
+              "Watch out for early darkness; check bike lights.",
+              "Drink hot tea at cafes along the way.",
+              "Chain lubrication is important in winter humidity."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1194,6 +1612,224 @@
           "Do not leave valuables visible in the car.",
           "A car gives you the flexibility to visit destinations outside the city center as well."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden Sie Komotini bequem und trocken. Beginnen Sie beim Archäologischen Museum mit direktem Parkplatz. Besuchen Sie das Volkskundemuseum nebenan, bevor Sie ins Zentrum fahren. Ein Mittagessen am Irini-Platz bietet Genuss ohne weite Wege im Regen. Die Moscheen und der Uhrturm sind schnell erreichbar, und der Tag endet entspannt am Park oder bei der Festung.",
+            "hu": "Autóval kényelmesen és szárazon fedezheti fel Komotinit. Kezdjen a Régészeti Múzeumnál, ahol közvetlen parkoló van. Látogassa meg a szomszédos Néprajzi Múzeumot is, mielőtt a központba hajtana. Ebédeljen a Béke téren, közel a parkolóhelyekhez. A mecsetek és az óratorony gyorsan elérhetőek, a nap pedig a parknál vagy a várfalnál zárul.",
+            "ro": "Cu mașina, explorați Komotini confortabil și fără să vă udați. Începeți la Muzeul Arheologic, care are parcare directă. Vizitați Muzeul de Folclor din apropiere înainte de a merge spre centru. Un prânz în Piața Irini oferă răsfăț fără drumuri lungi prin ploaie. Moscheile și Turnul Ceasului sunt rapid accesibile, iar ziua se încheie relaxat la parc.",
+            "en": "By car, you explore Komotini comfortably and dry. Start at the Archaeological Museum with its direct parking. Visit the Folklore Museum next door before driving to the center. Lunch at Peace Square offers enjoyment without long walks in the rain. The mosques and Clock Tower are quickly accessible, and the day ends relaxed by the park or fortress."
+          },
+          "stops": [
+            {
+              "name": "Parking at the Archaeological Museum",
+              "tip_5lang": {
+                "de": "Sicherer Parkplatz direkt am Eingang.",
+                "hu": "Biztonságos parkoló közvetlenül a bejáratnál.",
+                "ro": "Parcare sigură chiar la intrare.",
+                "en": "Secure parking right at the entrance."
+              }
+            },
+            {
+              "name": "Archaeological Museum",
+              "tip_5lang": {
+                "de": "Keine Wartezeiten im Freien; ideal bei Regen.",
+                "hu": "Nincs kinti várakozás; ideális esőben.",
+                "ro": "Fără așteptare în aer liber; ideal pe ploaie.",
+                "en": "No waiting outdoors; ideal in the rain."
+              }
+            },
+            {
+              "name": "Folklore Museum",
+              "tip_5lang": {
+                "de": "Nur ein kurzer Sprint vom Auto zum Museum.",
+                "hu": "Csak egy rövid vágta az autótól a múzeumig.",
+                "ro": "Doar un sprint scurt de la mașină la muzeu.",
+                "en": "Just a short sprint from the car to the museum."
+              }
+            },
+            {
+              "name": "Drive and Park in the City Center",
+              "tip_5lang": {
+                "de": "Nutzen Sie Parkhäuser, um trocken auszusteigen.",
+                "hu": "Használjon parkolóházakat a száraz kiszálláshoz.",
+                "ro": "Folosiți parcările acoperite pentru a ieși la uscat.",
+                "en": "Use covered parking to get out dry."
+              }
+            },
+            {
+              "name": "Peace Square & Lunch",
+              "tip_5lang": {
+                "de": "Zentrale Lage mit vielen überdachten Optionen.",
+                "hu": "Központi helyszín sok fedett lehetőséggel.",
+                "ro": "Locație centrală cu multe opțiuni acoperite.",
+                "en": "Central location with many covered options."
+              }
+            },
+            {
+              "name": "New Mosque & Clock Tower",
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz.",
+                "ro": "Parcați cât mai aproape de intrare.",
+                "en": "Park as close as possible to the entrance."
+              }
+            },
+            {
+              "name": "Drive to Agia Paraskevi Park",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den Park aus dem Auto.",
+                "hu": "Élvezze a park látványát az autóból.",
+                "ro": "Bucurați-vă de vederea parcului din mașină.",
+                "en": "Enjoy the park view from the car."
+              }
+            },
+            {
+              "name": "Byzantine Fortress Wall",
+              "tip_5lang": {
+                "de": "Schneller Fotostopp direkt vom Straßenrand.",
+                "hu": "Gyors fotómegálló közvetlenül az út széléről.",
+                "ro": "Oprire foto rapidă chiar de la marginea drumului.",
+                "en": "Quick photo stop right from the roadside."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Pfützen in den tiefer gelegenen Gassen.",
+              "Zentrale Parkplätze sind bei Regen schnell belegt.",
+              "Lassen Sie den Schirm griffbereit im Fahrgastraum.",
+              "Scheibenwischer vor der Fahrt prüfen."
+            ],
+            "hu": [
+              "Ügyeljen a tócsákra az alacsonyabban fekvő utcákban.",
+              "A központi parkolók esőben hamar megtelnek.",
+              "Tartsa az esernyőt kéznél az utastérben.",
+              "Indulás előtt ellenőrizze az ablaktörlőket."
+            ],
+            "ro": [
+              "Atenție la bălțile de pe străzile mai joase.",
+              "Parcările centrale se ocupă rapid pe ploaie.",
+              "Țineți umbrela la îndemână în habitaclu.",
+              "Verificați ștergătoarele înainte de drum."
+            ],
+            "en": [
+              "Watch out for puddles in lower-lying streets.",
+              "Central parking spots fill up fast in the rain.",
+              "Keep your umbrella handy in the cabin.",
+              "Check windshield wipers before driving."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie Komotini im Winter mit der Flexibilität des eigenen Autos. Beginnen Sie bei den Museen, die im Winter angenehm ruhig sind. Nach einer kurzen Fahrt ins Zentrum wärmen Sie sich am Irini-Platz auf. Besuchen Sie die historischen Sehenswürdigkeiten im hellen Mittagslicht. Die Fahrt zum Park und zur Festung ermöglicht es Ihnen, die Stadt ohne langes Gehen in der Kälte zu erleben, besonders nach dem frühen Sonnenuntergang.",
+            "hu": "Élvezze Komotinit télen a saját autó rugalmasságával. Kezdjen a múzeumoknál, amelyek télen kellemesen csendesek. Rövid autózás után melegedjen fel a Béke téren. Látogassa meg a történelmi látnivalókat a fényes déli órákban. A parkhoz és a várfalhoz tett út lehetővé teszi a városnézést anélkül, hogy sokat gyalogolna a hidegben, különösen a korai naplemente után.",
+            "ro": "Bucurați-vă de Komotini iarna cu flexibilitatea mașinii personale. Începeți la muzee, care sunt plăcut de liniștite iarna. După o scurtă plimbare spre centru, încălziți-vă în Piața Irini. Vizitați atracțiile istorice în lumina strălucitoare a amiezii. Drumul spre parc și cetate vă permite să vedeți orașul fără a merge mult prin frig.",
+            "en": "Enjoy Komotini in winter with the flexibility of your own car. Start at the museums, which are pleasantly quiet in winter. After a short drive to the center, warm up at Peace Square. Visit the historical sights in the bright midday light. The drive to the park and fortress allows you to see the city without walking much in the cold."
+          },
+          "stops": [
+            {
+              "name": "Parking at the Archaeological Museum",
+              "tip_5lang": {
+                "de": "Vermeiden Sie langes Suchen in der Kälte.",
+                "hu": "Kerülje a hosszú keresgélést a hidegben.",
+                "ro": "Evitați căutările lungi prin frig.",
+                "en": "Avoid long searches in the cold."
+              }
+            },
+            {
+              "name": "Archaeological Museum",
+              "tip_5lang": {
+                "de": "Ein wohltemperierter Start in den Tag.",
+                "hu": "Jól temperált kezdés a naphoz.",
+                "ro": "Un început de zi cu temperatură plăcută.",
+                "en": "A well-tempered start to the day."
+              }
+            },
+            {
+              "name": "Folklore Museum",
+              "tip_5lang": {
+                "de": "Schneller Wechsel zwischen den Gebäuden.",
+                "hu": "Gyors váltás az épületek között.",
+                "ro": "Schimbare rapidă între clădiri.",
+                "en": "Quick transition between buildings."
+              }
+            },
+            {
+              "name": "Drive and Park in the City Center",
+              "tip_5lang": {
+                "de": "Zentrale Parkplätze sind im Winter leichter zu finden.",
+                "hu": "A központi parkolók télen könnyebben elérhetőek.",
+                "ro": "Parcările centrale sunt mai ușor de găsit iarna.",
+                "en": "Central parking spots are easier to find in winter."
+              }
+            },
+            {
+              "name": "Peace Square & Lunch",
+              "tip_5lang": {
+                "de": "Genießen Sie die Wintersonne in einem Café-Fenster.",
+                "hu": "Élvezze a téli napsütést egy kávézó ablakából.",
+                "ro": "Bucurați-vă de soarele de iarnă de la fereastra unei cafenele.",
+                "en": "Enjoy the winter sun from a cafe window."
+              }
+            },
+            {
+              "name": "New Mosque & Clock Tower",
+              "tip_5lang": {
+                "de": "Kurze Wege schützen vor dem kalten Wind.",
+                "hu": "A rövid utak védenek a hideg széltől.",
+                "ro": "Drumurile scurte vă protejează de vântul rece.",
+                "en": "Short paths protect against the cold wind."
+              }
+            },
+            {
+              "name": "Drive to Agia Paraskevi Park",
+              "tip_5lang": {
+                "de": "Die Heizung im Auto sorgt für Komfort.",
+                "hu": "Az autó fűtése gondoskodik a kényelemről.",
+                "ro": "Căldura din mașină asigură confortul.",
+                "en": "Car heating ensures comfort."
+              }
+            },
+            {
+              "name": "Byzantine Fortress Wall",
+              "tip_5lang": {
+                "de": "Abendliches Panorama im Scheinwerferlicht.",
+                "hu": "Esti panoráma a fényszórók fényében.",
+                "ro": "Panoramă de seară în lumina farurilor.",
+                "en": "Evening panorama in the light of the headlights."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Frostschutz in der Scheibenwaschanlage.",
+              "Die Batterie kann bei Kälte schwächeln; Vorsicht.",
+              "Die Innenstadtbeleuchtung ist im Winter sehr festlich.",
+              "Planen Sie für Parkplatzsuche etwas Zeit ein."
+            ],
+            "hu": [
+              "Ellenőrizze a fagyállót az ablakmosóban.",
+              "Az akkumulátor gyengélkedhet a hidegben.",
+              "A belvárosi kivilágítás nagyon ünnepi télen.",
+              "Hagyjon időt a parkolóhely keresésére."
+            ],
+            "ro": [
+              "Verificați antigelul în lichidul de parbriz.",
+              "Bateria poate fi slăbită de frig; atenție.",
+              "Iluminatul din centrul orașului este festiv iarna.",
+              "Alocați timp pentru căutarea locului de parcare."
+            ],
+            "en": [
+              "Check antifreeze in the windshield washer fluid.",
+              "The battery might weaken in the cold; be careful.",
+              "City center lighting is very festive in winter.",
+              "Allow time for finding a parking spot."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1574,6 +2210,206 @@
           "Have small change ready for bus tickets, which are often purchased from the driver.",
           "Most sights are within easy walking distance from the bus stops."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den Nahverkehr, um Komotini bei Regen zu erkunden. Starten Sie am Irini-Platz und fahren Sie mit dem Bus zum Museumsviertel, um trocken zu bleiben. Genießen Sie ein langes Mittagessen und den Museumsbesuch. Die Rückfahrt zum Park und zur Festung ist mit dem Bus unkompliziert. Die Haltestellen bieten meist guten Wetterschutz, während Sie auf den nächsten Bus warten.",
+            "hu": "Használja a tömegközlekedést Komotini felfedezéséhez esőben. Kezdjen a Béke téren, majd busszal menjen a múzeumi negyedbe, hogy száraz maradjon. Élvezze a hosszú ebédet és a múzeumi látogatást. A parkhoz és a várfalhoz való visszatérés busszal egyszerű. A megállók többnyire jó védelmet nyújtanak, amíg a következő járatra vár.",
+            "ro": "Folosiți transportul public pentru a explora Komotini pe ploaie. Începeți în Piața Irini și luați autobuzul spre cartierul muzeelor pentru a rămâne uscat. Bucurați-vă de un prânz lung și de vizita la muzeu. Întoarcerea spre parc și cetate este simplă cu autobuzul. Stațiile oferă de obicei protecție bună în timp ce așteptați.",
+            "en": "Use public transit to explore Komotini in the rain. Start at Peace Square and take the bus to the museum district to stay dry. Enjoy a long lunch and the museum visit. The return trip to the park and fortress is straightforward by bus. Stops mostly offer good shelter while waiting for the next bus."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Irini Square",
+              "tip_5lang": {
+                "de": "Zentrale Haltestelle mit vielen Anschlussmöglichkeiten.",
+                "hu": "Központi megálló sok átszállási lehetőséggel.",
+                "ro": "Stație centrală cu multe conexiuni.",
+                "en": "Central stop with many connections."
+              }
+            },
+            {
+              "name": "New Mosque & Clock Tower",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg von der Bushaltestelle.",
+                "hu": "Rövid séta a buszmegállótól.",
+                "ro": "Scurtă plimbare de la stația de autobuz.",
+                "en": "Short walk from the bus stop."
+              }
+            },
+            {
+              "name": "Old Mosque & Imaret",
+              "tip_5lang": {
+                "de": "Enge Gassen können bei Regen windig sein.",
+                "hu": "A szűk utcák szelesek lehetnek esőben.",
+                "ro": "Străzile înguste pot fi vântoase pe ploaie.",
+                "en": "Narrow alleys can be windy in the rain."
+              }
+            },
+            {
+              "name": "Bus ride to the Museum District",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Fahrt zum Aufwärmen.",
+                "hu": "Használja az utazást a melegedésre.",
+                "ro": "Folosiți călătoria pentru a vă încălzi.",
+                "en": "Use the ride to warm up."
+              }
+            },
+            {
+              "name": "Archaeological Museum & Lunch",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle ist nah am Museumseingang.",
+                "hu": "A buszmegálló közel van a múzeum bejáratához.",
+                "ro": "Stația de autobuz este aproape de intrarea muzeului.",
+                "en": "The bus stop is near the museum entrance."
+              }
+            },
+            {
+              "name": "Bus ride to Agia Paraskevi Park",
+              "tip_5lang": {
+                "de": "Bequemer Transfer durch den Regen.",
+                "hu": "Kényelmes transzfer az esőben.",
+                "ro": "Transfer confortabil prin ploaie.",
+                "en": "Comfortable transfer through the rain."
+              }
+            },
+            {
+              "name": "Byzantine Fortress Wall",
+              "tip_5lang": {
+                "de": "Letzter Stopp vor der Heimfahrt im Trockenen.",
+                "hu": "Utolsó megálló a hazautazás előtt.",
+                "ro": "Ultima oprire înainte de drumul spre casă.",
+                "en": "Last stop before heading home dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Haben Sie Kleingeld oder eine Karte für Fahrkarten bereit.",
+              "Busse fahren im Regen oft unregelmäßiger.",
+              "Nutzen Sie Transit-Apps für Echtzeit-Informationen.",
+              "Ein Regencape ist praktischer als ein Schirm im Bus."
+            ],
+            "hu": [
+              "Legyen kéznél aprópénz vagy kártya a jegyhez.",
+              "A buszok esőben néha rendszertelenebbül járnak.",
+              "Használjon közlekedési alkalmazást a valós idejű adatokhoz.",
+              "Az esőponcsó praktikusabb a buszon, mint az esernyő."
+            ],
+            "ro": [
+              "Aveți pregătiți bani mărunți sau un card pentru bilete.",
+              "Autobuzele pot circula neregulat pe ploaie.",
+              "Folosiți aplicații de transport pentru informații în timp real.",
+              "O pelerină de ploaie este mai practică decât umbrela în autobuz."
+            ],
+            "en": [
+              "Have small change or a card ready for tickets.",
+              "Buses may run less regularly in the rain.",
+              "Use transit apps for real-time information.",
+              "A rain poncho is more practical than an umbrella on the bus."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie das winterliche Komotini mit dem gut ausgebauten Busnetz. Starten Sie am Irini-Platz und nutzen Sie die kurzen Fahrzeiten zwischen den historischen Vierteln und dem Museum. Die Busse sind im Winter angenehm geheizt. Da es früh dunkel wird, bietet der Transit eine sichere und warme Möglichkeit, nach dem Besuch der Festung und des Parks zurück ins Zentrum zu gelangen.",
+            "hu": "Fedezze fel a téli Komotinit a jól kiépített buszhálózattal. Kezdjen a Béke téren, és használja ki a rövid menetidőket a történelmi negyedek és a múzeum között. A buszok télen kellemesen fűtöttek. Mivel korán sötétedik, a tömegközlekedés biztonságos és meleg módot kínál a várfal és a park meglátogatása utáni visszatéréshez.",
+            "ro": "Explorați Komotini iarna cu rețeaua bine pusă la punct de autobuze. Începeți în Piața Irini și profitați de timpii scurți de parcurs între cartierele istorice și muzeu. Autobuzele sunt bine încălzite iarna. Deoarece se întunecă devreme, transportul oferă o cale sigură și caldă de întoarcere după vizitarea cetății.",
+            "en": "Explore winter Komotini with the well-developed bus network. Start at Peace Square and take advantage of short travel times between historical districts and the museum. Buses are pleasantly heated in winter. Since it gets dark early, transit offers a safe and warm way to return to the center after visiting the fortress."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Irini Square",
+              "tip_5lang": {
+                "de": "Zentraler Punkt zum Aufwärmen in Cafés.",
+                "hu": "Központi pont a kávézókban való felmelegedéshez.",
+                "ro": "Punct central pentru încălzire în cafenele.",
+                "en": "Central spot for warming up in cafes."
+              }
+            },
+            {
+              "name": "New Mosque & Clock Tower",
+              "tip_5lang": {
+                "de": "Ein kurzer, belebender Winterspaziergang.",
+                "hu": "Rövid, élénkítő téli séta.",
+                "ro": "O plimbare scurtă și revigorantă de iarnă.",
+                "en": "A short, invigorating winter walk."
+              }
+            },
+            {
+              "name": "Old Mosque & Imaret",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe der Nebensaison.",
+                "hu": "Élvezze a főszezonon kívüli nyugalmat.",
+                "ro": "Bucurați-vă de liniștea din afara sezonului.",
+                "en": "Enjoy the off-season tranquility."
+              }
+            },
+            {
+              "name": "Bus ride to the Museum District",
+              "tip_5lang": {
+                "de": "Warme Busse machen den Transfer angenehm.",
+                "hu": "A fűtött buszok kellemessé teszik az utat.",
+                "ro": "Autobuzele încălzite fac transferul plăcut.",
+                "en": "Heated buses make the transfer pleasant."
+              }
+            },
+            {
+              "name": "Archaeological Museum & Lunch",
+              "tip_5lang": {
+                "de": "Ideal für die Mittagsstunden im Warmen.",
+                "hu": "Ideális a déli órák eltöltésére melegben.",
+                "ro": "Ideal pentru orele amiezii petrecute la căldură.",
+                "en": "Ideal for spending midday hours in the warm."
+              }
+            },
+            {
+              "name": "Bus ride to Agia Paraskevi Park",
+              "tip_5lang": {
+                "de": "Pünktliche Verbindungen sind im Winter wichtig.",
+                "hu": "A pontos csatlakozások fontosak télen.",
+                "ro": "Conexiunile punctuale sunt importante iarna.",
+                "en": "Punctual connections are important in winter."
+              }
+            },
+            {
+              "name": "Byzantine Fortress Wall",
+              "tip_5lang": {
+                "de": "Frühe Abenddämmerung an den Mauern erleben.",
+                "hu": "Élje át a korai szürkületet a falaknál.",
+                "ro": "Trăiți amurgul timpuriu la zidurile cetății.",
+                "en": "Experience the early twilight at the walls."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrpläne können an Feiertagen abweichen.",
+              "Die Busse sind im Winter oft weniger voll.",
+              "Halten Sie sich an belebten Haltestellen auf.",
+              "Tragen Sie eine Mütze gegen den kalten Fahrtwind beim Warten."
+            ],
+            "hu": [
+              "A menetrendek ünnepnapokon változhatnak.",
+              "A buszok télen gyakran kevésbé zsúfoltak.",
+              "Várakozzon a forgalmasabb megállókban.",
+              "Viseljen sapkát a várakozás közbeni hideg szél ellen."
+            ],
+            "ro": [
+              "Orarele pot varia în zilele de sărbătoare.",
+              "Autobuzele sunt adesea mai puțin aglomerate iarna.",
+              "Staționați în stațiile mai populate.",
+              "Purtați căciulă pentru a vă proteja de vântul rece la așteptare."
+            ],
+            "en": [
+              "Schedules may vary on public holidays.",
+              "Buses are often less crowded in winter.",
+              "Stay at well-lit and busy bus stops.",
+              "Wear a hat against the cold wind while waiting."
+            ]
+          }
+        }
       }
     }
   }

@@ -382,6 +382,206 @@
           "Check the opening hours of the museums in advance.",
           "Take time for a coffee at one of the cafés on the town square."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Vormittag beginnt unter den schützenden Arkaden des Stadtplatzes. Mittags bietet die massive Stadtpfarrkirche trockene Stille und Besinnung. Nachmittags erkunden wir die Innenräume der Herzogsburg, fernab vom Grau. Der Tag endet im historischen Vorderbad, wo die alten Mauern Geborgenheit vermitteln.",
+            "hu": "A délelőtt a főtér árkádjai alatt indul, védve az esőtől. Ebéd után a monumentális Szent István-templom vastag falai nyújtanak menedéket. A délutánt a múzeum fedett kiállításai között töltjük, távol a szürkeségtől. Az estét a Vorderbad patinás falai között, biztonságban zárjuk.",
+            "ro": "Dimineața începe sub arcadele pieței centrale, feriți de ploaie. La prânz, masiva biserică parohială oferă liniște și un refugiu uscat. După-amiaza explorăm interiorul castelului ducal, departe de griul de afară. Ziua se încheie la vechea baie publică Vorderbad.",
+            "en": "The morning starts under the protective arcades of the Town Square. At noon, the massive parish church offers dry silence. In the afternoon, we explore the interiors of the Ducal Castle, away from the rain. The day concludes within the historic walls of the Vorderbad museum."
+          },
+          "stops": [
+            {
+              "name": "Town Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkadengänge, um trocken zu bleiben.",
+                "hu": "Használja az árkádokat a szárazon maradáshoz.",
+                "ro": "Folosiți arcadele pentru a rămâne uscați.",
+                "en": "Use the arcades to stay dry while exploring."
+              }
+            },
+            {
+              "name": "Town Hall",
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint zum Eingang lohnt sich.",
+                "hu": "Egy rövid sprint a bejáratig megéri.",
+                "ro": "Un sprint scurt până la intrare merită.",
+                "en": "A short sprint to the entrance is worth it."
+              }
+            },
+            {
+              "name": "Fisherman's Fountain",
+              "tip_5lang": {
+                "de": "Regenschirme bei Wind gut festhalten.",
+                "hu": "Szeles időben tartsa erősen az esernyőt.",
+                "ro": "Țineți umbrela bine dacă bate vântul.",
+                "en": "Hold your umbrella firmly if it is windy."
+              }
+            },
+            {
+              "name": "St. Stephen's Parish Church",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um einen Regenschauer abzuwarten.",
+                "hu": "Tökéletes hely egy zápor megvárásához.",
+                "ro": "Locul perfect pentru a aștepta trecerea ploii.",
+                "en": "Perfect place to wait out a rain shower."
+              }
+            },
+            {
+              "name": "Ducal Castle & District Museum",
+              "tip_5lang": {
+                "de": "Lange Verweildauer im Trockenen möglich.",
+                "hu": "Hosszú ideig maradhat a száraz belső terekben.",
+                "ro": "Puteți petrece mult timp în interiorul uscat.",
+                "en": "Stay for a long time in the dry interiors."
+              }
+            },
+            {
+              "name": "Memorial Stone Against War and Fascism",
+              "tip_5lang": {
+                "de": "Der Stein glänzt bei Regen besonders dunkel.",
+                "hu": "A kő esőben különösen sötéten csillog.",
+                "ro": "Piatra strălucește întunecat sub ploaie.",
+                "en": "The stone glistens dark under the rain."
+              }
+            },
+            {
+              "name": "Vorderbad (Old Bathhouse)",
+              "tip_5lang": {
+                "de": "Gemütliches Ende der Tour im Museum.",
+                "hu": "A túra hangulatos lezárása a múzeumban.",
+                "ro": "Final relaxant al turului în muzeu.",
+                "en": "A cozy end to the tour inside the museum."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für das Kopfsteinpflaster.",
+              "Die Arkaden am Stadtplatz bieten hervorragenden Schutz.",
+              "Planen Sie mehr Zeit für die Innenbesichtigungen ein.",
+              "Ein Taschenschirm ist wegen plötzlicher Windböen ideal."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a macskaköves utcákhoz.",
+              "A főtér árkádjai kiváló védelmet nyújtanak.",
+              "Tervezzen több időt a belső látogatásokra.",
+              "Az összecsukható esernyő ideális a hirtelen széllökésekhez."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru străzile pietruite.",
+              "Arcadele din piață oferă o protecție excelentă.",
+              "Alocați mai mult timp pentru vizitele în interior.",
+              "O umbrelă compactă este ideală pentru rafalele de vânt."
+            ],
+            "en": [
+              "Wear waterproof shoes for the cobblestone streets.",
+              "The town square arcades offer excellent shelter.",
+              "Plan more time for indoor visits today.",
+              "A compact umbrella is ideal for sudden wind gusts."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen am Marktplatz, wo der Frost die Brunnen ziert. Mittags wärmen wir uns in den beheizten Hallen der Stadtpfarrkirche auf. Nachmittags bietet die Herzogsburg Schutz vor dem schneidenden Wind. Der Abend am beleuchteten Stadtplatz wirkt im Winterlicht besonders feierlich.",
+            "hu": "Friss téli reggel a főtéren, ahol a zúzmara díszíti a kutat. Ebéd után a Szent István-templom fűtött tereiben melegszünk fel. Délután a Herzogsburg múzeuma nyújt menedéket a metsző szél elől. Az estét a kivilágított főtér ünnepi fényei teszik felejthetetlenné.",
+            "ro": "O dimineață geroasă în piața centrală, unde bruma decorează fântânile. La prânz ne încălzim în spațiile bisericii parohiale. După-amiaza, castelul ducal oferă protecție împotriva vântului tăios. Seara în piața iluminată pare deosebit de festivă.",
+            "en": "A crisp winter morning at the square with frost on the fountains. At noon, we warm up in the heated spaces of the church. In the afternoon, the Ducal Castle provides shelter from the biting wind. The evening at the illuminated square feels especially festive."
+          },
+          "stops": [
+            {
+              "name": "Town Square",
+              "tip_5lang": {
+                "de": "Vorsicht vor glatten Stellen auf dem Pflaster.",
+                "hu": "Vigyázzon a csúszós foltokra a kövezeten.",
+                "ro": "Atenție la porțiunile alunecoase de pe pavaj.",
+                "en": "Watch out for slippery spots on the pavement."
+              }
+            },
+            {
+              "name": "Town Hall",
+              "tip_5lang": {
+                "de": "Die Fassade wirkt im Winterlicht sehr markant.",
+                "hu": "A homlokzat téli fényben nagyon karakteres.",
+                "ro": "Fațada arată foarte marcantă în lumina iernii.",
+                "en": "The facade looks very striking in winter light."
+              }
+            },
+            {
+              "name": "Fisherman's Fountain",
+              "tip_5lang": {
+                "de": "Oft mit dekorativen Eisbildungen verziert.",
+                "hu": "Gyakran dekoratív jégalakzatok díszítik.",
+                "ro": "Adesea decorată cu formațiuni de gheață.",
+                "en": "Often decorated with ice formations."
+              }
+            },
+            {
+              "name": "St. Stephen's Parish Church",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe im geheizten Kirchenraum.",
+                "hu": "Élvezze a nyugalmat a fűtött templomtérben.",
+                "ro": "Bucurați-vă de liniște în spațiul încălzit.",
+                "en": "Enjoy the peace in the heated church interior."
+              }
+            },
+            {
+              "name": "Ducal Castle & District Museum",
+              "tip_5lang": {
+                "de": "Idealer Ort, um die Kälte zu vergessen.",
+                "hu": "Ideális hely a hideg elfelejtésére.",
+                "ro": "Locul ideal pentru a uita de frig.",
+                "en": "The ideal place to forget about the cold."
+              }
+            },
+            {
+              "name": "Memorial Stone Against War and Fascism",
+              "tip_5lang": {
+                "de": "Ein Ort des stillen Gedenkens im Schnee.",
+                "hu": "A csendes emlékezés helye a hóban.",
+                "ro": "Un loc de amintire tăcută în zăpadă.",
+                "en": "A place of silent remembrance in the snow."
+              }
+            },
+            {
+              "name": "Vorderbad (Old Bathhouse)",
+              "tip_5lang": {
+                "de": "Warme Kleidung für den kurzen Weg nötig.",
+                "hu": "Meleg ruházat kell a rövid sétához.",
+                "ro": "Haine groase necesare pentru drumul scurt.",
+                "en": "Warm clothing needed for the short walk."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Schichten und Thermosocken sind ratsam.",
+              "Die Sonne geht bereits gegen 16:30 Uhr unter.",
+              "Nutzen Sie Cafés für regelmäßige Aufwärmpausen.",
+              "Achten Sie auf Streusalz, das Schuhe angreifen kann."
+            ],
+            "hu": [
+              "A réteges öltözködés és termozokni ajánlott.",
+              "A nap már 16:30 körül lenyugszik.",
+              "Használja a kávézókat rendszeres melegedésre.",
+              "Ügyeljen az útszóró sóra, ami károsíthatja a cipőt."
+            ],
+            "ro": [
+              "Se recomandă straturi groase și șosete termice.",
+              "Soarele apune deja în jurul orei 16:30.",
+              "Folosiți cafenelele pentru pauze de încălzire.",
+              "Atenție la sarea de pe drum, poate afecta pantofii."
+            ],
+            "en": [
+              "Warm layers and thermal socks are recommended.",
+              "The sun sets as early as 4:30 PM.",
+              "Use cafes for regular warming breaks.",
+              "Beware of road salt which can damage shoes."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -722,6 +922,206 @@
           "The old town has cobblestones, ride carefully.",
           "Don't forget to bring a lock for your bike."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir radeln zügig durch den Regen, geschützt durch Funktionskleidung. Der Stadtplatz dient als kurzer Stopp unter den Arkaden. Mittags bietet die Kirche eine trockene Pause. Den Nachmittag verbringen wir in den Museen, während die Räder sicher unterstehen. Der Tag endet mit einer kühlen Fahrt am Inn.",
+            "hu": "Vízálló ruhában tekerünk az esőben. A főtér árkádjai alatt tartunk rövid pihenőt. Ebédidőben a templom csendje nyújt menedéket. A délutánt múzeumokban töltjük, amíg a bringák fedett helyen várnak. A napot egy frissítő tekeréssel zárjuk az Inn partján.",
+            "ro": "Pedalăm rapid prin ploaie, protejați de haine tehnice. Piața oferă un scurt popas sub arcade. La prânz, biserica oferă o pauză uscată. După-amiaza o petrecem în muzee, în timp ce bicicletele sunt la adăpost. Ziua se încheie pe malul râului Inn.",
+            "en": "Cycling swiftly through the rain with gear. The town square serves as a brief stop under the arcades. At noon, the church provides a dry break. We spend the afternoon in museums while bikes are parked under cover. The day ends with a cool ride along the Inn."
+          },
+          "stops": [
+            {
+              "name": "Town Square",
+              "tip_5lang": {
+                "de": "Vorsicht auf nassem Kopfsteinpflaster.",
+                "hu": "Vigyázzon a nedves macskaköveken.",
+                "ro": "Atenție pe pavajul umed.",
+                "en": "Be careful on the wet cobblestones."
+              }
+            },
+            {
+              "name": "St. Stephen's Parish Church",
+              "tip_5lang": {
+                "de": "Fahrradständer meist unüberdacht.",
+                "hu": "A biciklitárolók többnyire fedetlenek.",
+                "ro": "Suporturile de biciclete sunt neacoperite.",
+                "en": "Bike racks are mostly uncovered here."
+              }
+            },
+            {
+              "name": "Vorderbad (Old Bathhouse)",
+              "tip_5lang": {
+                "de": "Guter Ort für eine längere Regenpause.",
+                "hu": "Jó hely egy hosszabb esőszünetre.",
+                "ro": "Loc bun pentru o pauză lungă de ploaie.",
+                "en": "Good place for a longer rain break."
+              }
+            },
+            {
+              "name": "Ducal Castle & District Museum",
+              "tip_5lang": {
+                "de": "Sicherer Abstellplatz im Schlosshof suchen.",
+                "hu": "Keressen védett helyet a várudvaron.",
+                "ro": "Căutați un loc protejat în curtea castelului.",
+                "en": "Look for a sheltered spot in the courtyard."
+              }
+            },
+            {
+              "name": "Memorial Stone Against War and Fascism",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp im Vorbeifahren.",
+                "hu": "Rövid fotómegálló elhaladás közben.",
+                "ro": "Scurt popas foto din mers.",
+                "en": "Brief photo stop while passing by."
+              }
+            },
+            {
+              "name": "Palm Monument",
+              "tip_5lang": {
+                "de": "Die Wege können hier rutschig sein.",
+                "hu": "Az utak itt csúszósak lehetnek.",
+                "ro": "Drumurile pot fi alunecoase aici.",
+                "en": "Paths can be slippery around here."
+              }
+            },
+            {
+              "name": "Cycling on the Inn riverbank",
+              "tip_5lang": {
+                "de": "Schutzbleche sind bei Pfützen unerlässlich.",
+                "hu": "Sárvédő elengedhetetlen a tócsák miatt.",
+                "ro": "Aripile sunt esențiale din cauza bălților.",
+                "en": "Mudguards are essential due to puddles."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Reduzieren Sie den Reifendruck für mehr Grip.",
+              "Vermeiden Sie abrupte Bremsmanöver auf Metall.",
+              "Tragen Sie eine gut sichtbare Regenjacke.",
+              "Wischen Sie den Sattel nach jedem Halt trocken."
+            ],
+            "hu": [
+              "Csökkentse a guminyomást a jobb tapadásért.",
+              "Kerülje a hirtelen fékezést fémfelületeken.",
+              "Viseljen jól látható esőkabátot.",
+              "Minden megálló után törölje szárazra a nyerget."
+            ],
+            "ro": [
+              "Reduceți presiunea în anvelope pentru aderență.",
+              "Evitați frânările bruște pe suprafețe metalice.",
+              "Purtați o jachetă de ploaie reflectorizantă.",
+              "Ștergeți șaua după fiecare oprire."
+            ],
+            "en": [
+              "Reduce tire pressure slightly for better grip.",
+              "Avoid sudden braking on metal surfaces.",
+              "Wear a highly visible rain jacket.",
+              "Wipe the saddle dry after every stop."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die kalte Winterluft belebt bei der morgendlichen Fahrt zum Stadtplatz. In der Stadtpfarrkirche gönnen wir uns eine Pause in der Stille. Nachmittags besuchen wir die Herzogsburg, um uns wieder aufzuwärmen. Zum Abschluss radeln wir am gefrorenen Innufer entlang, wo der Wind die Wangen rötet.",
+            "hu": "A hideg téli levegő felfrissít a reggeli tekerésnél. A Szent István-templomban tartunk pihenőt a csendben. Délután a Herzogsburg múzeumában melegszünk fel. Végül a fagyos Inn-parton biciklizünk, ahol a szél kicsípi az arcunkat.",
+            "ro": "Aerul rece de iarnă revigorează în timpul plimbării matinale. În biserică ne bucurăm de o pauză în liniște. După-amiaza vizităm castelul ducal pentru a ne încălzi. La final, pedalăm pe malul înghețat al râului Inn.",
+            "en": "Cold winter air invigorates during the morning ride. In the church, we enjoy a break in the silence. In the afternoon, we visit the Ducal Castle to warm up again. Finally, we cycle along the frozen Inn riverbank where the wind reddens our cheeks."
+          },
+          "stops": [
+            {
+              "name": "Town Square",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis in Schattenlagen.",
+                "hu": "Ügyeljen a jégre az árnyékos részeken.",
+                "ro": "Atenție la gheață în zonele umbrite.",
+                "en": "Watch out for black ice in shaded areas."
+              }
+            },
+            {
+              "name": "St. Stephen's Parish Church",
+              "tip_5lang": {
+                "de": "Kurz aufwärmen vor der Weiterfahrt.",
+                "hu": "Melegedjen fel kicsit továbbindulás előtt.",
+                "ro": "Încălziți-vă puțin înainte de a continua.",
+                "en": "Warm up briefly before continuing."
+              }
+            },
+            {
+              "name": "Vorderbad (Old Bathhouse)",
+              "tip_5lang": {
+                "de": "Ein Besuch lohnt sich, um dem Frost zu entfliehen.",
+                "hu": "Érdemes bemenni a fagy elől.",
+                "ro": "Merită vizitat pentru a scăpa de ger.",
+                "en": "Worth a visit to escape the frost."
+              }
+            },
+            {
+              "name": "Ducal Castle & District Museum",
+              "tip_5lang": {
+                "de": "Großzügige Aufwärmpause einplanen.",
+                "hu": "Tervezzen be egy bőséges melegedést.",
+                "ro": "Alocați o pauză generoasă de încălzire.",
+                "en": "Plan for a generous warming-up break."
+              }
+            },
+            {
+              "name": "Memorial Stone Against War and Fascism",
+              "tip_5lang": {
+                "de": "Die Umgebung kann schneebedeckt sein.",
+                "hu": "A környék hóval fedett lehet.",
+                "ro": "Zona poate fi acoperită de zăpadă.",
+                "en": "The area may be covered in snow."
+              }
+            },
+            {
+              "name": "Palm Monument",
+              "tip_5lang": {
+                "de": "Helle Kleidung wegen früher Dämmerung.",
+                "hu": "Világos ruha kell a korai sötétedés miatt.",
+                "ro": "Haine deschise pentru amurgul timpuriu.",
+                "en": "Bright clothing for the early twilight."
+              }
+            },
+            {
+              "name": "Cycling on the Inn riverbank",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenem Spritzwasser.",
+                "hu": "Vigyázzon a felfagyott vízpermetre.",
+                "ro": "Atenție la apa înghețată pe drum.",
+                "en": "Watch out for frozen spray on the path."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Handschuhe sind absolut notwendig.",
+              "Kontrollieren Sie die Beleuchtung vor der Fahrt.",
+              "Vermeiden Sie Fahrten auf ungeräumten Wegen.",
+              "Schmieren Sie die Kette öfter wegen des Salzes."
+            ],
+            "hu": [
+              "A meleg kesztyű teljesen elengedhetetlen.",
+              "Indulás előtt ellenőrizze a világítást.",
+              "Kerülje a letakarítatlan utakon való tekerést.",
+              "A só miatt kenje gyakrabban a láncot."
+            ],
+            "ro": [
+              "Mănușile groase sunt absolut necesare.",
+              "Verificați luminile înainte de plecare.",
+              "Evitați deplasarea pe drumuri necurățate.",
+              "Ungeți lanțul mai des din cauza sării."
+            ],
+            "en": [
+              "Warm gloves are absolutely necessary.",
+              "Check your lights before starting the ride.",
+              "Avoid riding on uncleared paths.",
+              "Lubricate the chain more often due to salt."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -986,6 +1386,188 @@
           "The old town is a pedestrian zone; the car is no help here.",
           "Pay attention to parking regulations and any short-term parking zones."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Bequem erreichen wir den Stadtplatz mit dem Auto und nutzen die kurzen Wege zwischen den Sehenswürdigkeiten. Bei Regen ist die Stadtpfarrkirche ein idealer, naher Halt. Die Herzogsburg bietet ein umfassendes Indoor-Programm für den Nachmittag. Der Tag endet entspannt mit einer kurzen Fahrt zum Vorderbad.",
+            "hu": "Kényelmesen érjük el a főteret autóval, kihasználva a látnivalók közötti rövid távolságokat. Esőben a templom ideális közeli megálló. A Herzogsburg tartalmas fedett programot kínál délutánra. A napot egy rövid autózással zárjuk a Vorderbadhoz.",
+            "ro": "Ajungem confortabil în piață cu mașina, folosind distanțele scurte dintre obiective. Pe ploaie, biserica parohială este o oprire ideală. Castelul oferă un program interior bogat pentru după-amiază. Ziua se încheie cu o scurtă deplasare la Vorderbad.",
+            "en": "Comfortably reach the square by car, taking advantage of short distances. In the rain, the parish church is an ideal nearby stop. The Ducal Castle offers a comprehensive indoor program for the afternoon. The day ends with a quick drive to the Vorderbad."
+          },
+          "stops": [
+            {
+              "name": "Central Car Park",
+              "tip_5lang": {
+                "de": "Guter Ausgangspunkt, meist asphaltiert.",
+                "hu": "Jó kiindulópont, többnyire aszfaltozott.",
+                "ro": "Punct bun de plecare, asfaltat.",
+                "en": "Good starting point, mostly paved."
+              }
+            },
+            {
+              "name": "Town Square & Town Hall",
+              "tip_5lang": {
+                "de": "Kurzparkzonen beachten, direkt am Platz.",
+                "hu": "Ügyeljen a rövid távú parkolási zónákra.",
+                "ro": "Atenție la zonele de parcare scurtă.",
+                "en": "Note short-term parking zones at the square."
+              }
+            },
+            {
+              "name": "St. Stephen's Parish Church",
+              "tip_5lang": {
+                "de": "Parkplätze in den Seitenstraßen suchen.",
+                "hu": "Keressen parkolót a mellékutcákban.",
+                "ro": "Căutați parcare pe străzile laterale.",
+                "en": "Look for parking in the side streets."
+              }
+            },
+            {
+              "name": "Vorderbad (Old Bathhouse)",
+              "tip_5lang": {
+                "de": "Parken direkt vor dem Museum möglich.",
+                "hu": "Parkolás közvetlenül a múzeum előtt.",
+                "ro": "Parcare posibilă chiar în fața muzeului.",
+                "en": "Parking possible directly in front."
+              }
+            },
+            {
+              "name": "Ducal Castle & District Museum",
+              "tip_5lang": {
+                "de": "Größere Parkflächen in der Nähe.",
+                "hu": "Nagyobb parkolófelületek a közelben.",
+                "ro": "Spații mai mari de parcare în apropiere.",
+                "en": "Larger parking areas available nearby."
+              }
+            },
+            {
+              "name": "Memorial Stone & Inn Riverbank",
+              "tip_5lang": {
+                "de": "Vom Auto aus gut zu sehen.",
+                "hu": "Az autóból is jól látható.",
+                "ro": "Se vede bine direct din mașină.",
+                "en": "Easily visible from the car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Parkhäuser für trockene Ausstiege.",
+              "Die Sicht kann bei Starkregen eingeschränkt sein.",
+              "Vermeiden Sie Parkplätze unter großen Bäumen.",
+              "Halten Sie Kleingeld für die Parkautomaten bereit."
+            ],
+            "hu": [
+              "Használja a parkolóházakat a száraz kiszálláshoz.",
+              "Erős esőben korlátozott lehet a látótávolság.",
+              "Kerülje a nagy fák alatti parkolást.",
+              "Készítsen be aprópénzt a parkolóautomatákhoz."
+            ],
+            "ro": [
+              "Folosiți parcările etajate pentru acces uscat.",
+              "Vizibilitatea poate fi redusă în ploaie torențială.",
+              "Evitați parcarea sub arbori mari.",
+              "Pregătiți mărunțiș pentru automatele de parcare."
+            ],
+            "en": [
+              "Use parking garages for dry exits.",
+              "Visibility can be limited during heavy rain.",
+              "Avoid parking under large trees.",
+              "Keep some coins ready for parking meters."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An einem kalten Wintermorgen bringt uns das Auto schnell ins Stadtzentrum. Die kurzen Fußwege zwischen Parkplatz und Sehenswürdigkeiten minimieren die Kälteexposition. Mittags und nachmittags bieten die beheizten Gebäude wohlige Wärme. Die Fahrt durch das beleuchtete Braunau bildet den stimmungsvollen Abschluss.",
+            "hu": "Hideg téli reggelen az autó gyorsan a városközpontba visz. A parkoló és a látnivalók közötti rövid séta minimálisra csökkenti a hideget. Délben és délután a fűtött épületek nyújtanak kényelmet. Az autózás a kivilágított Braunau-n keresztül hangulatos lezárás.",
+            "ro": "Într-o dimineață geroasă, mașina ne duce rapid în centru. Mersul scurt între parcare și obiective minimizează expunerea la frig. La prânz și după-amiaza, clădirile încălzite oferă confort. Drumul prin orașul iluminat este un final atmosferic.",
+            "en": "On a cold winter morning, the car quickly takes us to the center. Short walks between parking and sights minimize cold exposure. At noon and afternoon, heated buildings offer cozy warmth. Driving through illuminated Braunau is an atmospheric finale."
+          },
+          "stops": [
+            {
+              "name": "Central Car Park",
+              "tip_5lang": {
+                "de": "Im Winter oft geräumt und gestreut.",
+                "hu": "Télen gyakran takarítják és sózzák.",
+                "ro": "Iarna este deszăpezit și presărat cu sare.",
+                "en": "Often cleared and salted in winter."
+              }
+            },
+            {
+              "name": "Town Square & Town Hall",
+              "tip_5lang": {
+                "de": "Kurze Wege in die Cafés am Platz.",
+                "hu": "Rövid út a főtéri kávézókba.",
+                "ro": "Drum scurt către cafenelele din piață.",
+                "en": "Short paths to the cafes at the square."
+              }
+            },
+            {
+              "name": "St. Stephen's Parish Church",
+              "tip_5lang": {
+                "de": "Vorsicht vor Schneehaufen beim Parken.",
+                "hu": "Vigyázzon a hókupacokra parkoláskor.",
+                "ro": "Atenție la mormanele de zăpadă la parcare.",
+                "en": "Watch out for snow piles when parking."
+              }
+            },
+            {
+              "name": "Vorderbad (Old Bathhouse)",
+              "tip_5lang": {
+                "de": "Die Heizung im Inneren ist sehr angenehm.",
+                "hu": "A benti fűtés nagyon kellemes.",
+                "ro": "Încălzirea din interior este plăcută.",
+                "en": "The heating inside is very pleasant."
+              }
+            },
+            {
+              "name": "Ducal Castle & District Museum",
+              "tip_5lang": {
+                "de": "Der Anstieg zum Schloss kann glatt sein.",
+                "hu": "A várba vezető emelkedő csúszós lehet.",
+                "ro": "Urcarea spre castel poate fi alunecoasă.",
+                "en": "The slope to the castle can be slippery."
+              }
+            },
+            {
+              "name": "Memorial Stone & Inn Riverbank",
+              "tip_5lang": {
+                "de": "Blick auf den Inn meist schneebedeckt.",
+                "hu": "Az Innre néző kilátás általában havas.",
+                "ro": "Vedere asupra râului adesea înzăpezită.",
+                "en": "View of the Inn is usually snowy."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Winterreifen und Frostschutz.",
+              "Die Parkplatzsuche ist im Winter meist einfacher.",
+              "Befreien Sie das Auto komplett von Schnee.",
+              "Vermeiden Sie das Zuparken von Räumfahrzeugen."
+            ],
+            "hu": [
+              "Ügyeljen a téli gumira és a fagyállóra.",
+              "A parkolókeresés télen általában egyszerűbb.",
+              "Tisztítsa meg teljesen az autót a hótól.",
+              "Ne akadályozza a hókotrókat a parkolással."
+            ],
+            "ro": [
+              "Atenție la anvelopele de iarnă și antigel.",
+              "Găsirea parcării este mai ușoară iarna.",
+              "Curățați complet mașina de zăpadă.",
+              "Evitați blocarea utilajelor de deszăpezire."
+            ],
+            "en": [
+              "Ensure you have winter tires and antifreeze.",
+              "Finding parking is usually easier in winter.",
+              "Clear all snow from the car before driving.",
+              "Avoid blocking snow removal vehicles."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1250,6 +1832,188 @@
           "A day ticket can be cheaper than single tickets.",
           "Note that Braunau's old town is very compact and everything is easily accessible on foot."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Tour startet trocken am Busbahnhof. Mit dem Bus erreichen wir bequem das Vorderbad und später das Stadtzentrum. In der Stadtpfarrkirche überbrücken wir Regenschauer. Den Nachmittag verbringen wir im Schutze der Herzogsburg. Den Abschluss bildet der kurze Weg zurück zur Haltestelle.",
+            "hu": "A túra szárazon indul a buszállomásról. Busszal kényelmesen elérjük a Vorderbad-ot, majd a városközpontot. A templomban várjuk meg a zápor végét. A délutánt a Herzogsburg védelmében töltjük. A túrát a buszmegállóhoz való rövid séta zárja.",
+            "ro": "Turul începe la adăpost în autogară. Cu autobuzul ajungem confortabil la Vorderbad și apoi în centru. În biserică așteptăm trecerea ploii. După-amiaza o petrecem sub protecția castelului. Finalul este reprezentat de drumul scurt înapoi la stație.",
+            "en": "The tour starts dry at the bus station. By bus, we easily reach the Vorderbad and later the center. We wait out rain showers in the parish church. The afternoon is spent under the protection of the Ducal Castle. The trip ends with a short walk back to the stop."
+          },
+          "stops": [
+            {
+              "name": "Braunau Bus Station",
+              "tip_5lang": {
+                "de": "Überdachte Wartebereiche vorhanden.",
+                "hu": "Fedett várakozóhelyek állnak rendelkezésre.",
+                "ro": "Există zone de așteptare acoperite.",
+                "en": "Covered waiting areas are available."
+              }
+            },
+            {
+              "name": "Vorderbad (Old Bathhouse)",
+              "tip_5lang": {
+                "de": "Haltestelle befindet sich ganz in der Nähe.",
+                "hu": "A buszmegálló egészen közel van.",
+                "ro": "Stația de autobuz este foarte aproape.",
+                "en": "The bus stop is located very close by."
+              }
+            },
+            {
+              "name": "Town Square",
+              "tip_5lang": {
+                "de": "Direkter Zugang zu den Arkaden.",
+                "hu": "Közvetlen hozzáférés az árkádokhoz.",
+                "ro": "Acces direct către arcade.",
+                "en": "Direct access to the arcades from here."
+              }
+            },
+            {
+              "name": "St. Stephen's Parish Church",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg von der zentralen Haltestelle.",
+                "hu": "Rövid séta a központi megállótól.",
+                "ro": "Drum scurt de la stația centrală.",
+                "en": "Short walk from the central bus stop."
+              }
+            },
+            {
+              "name": "Ducal Castle & District Museum",
+              "tip_5lang": {
+                "de": "Museumsbesuch ideal bei schlechtem Wetter.",
+                "hu": "A múzeumlátogatás ideális rossz időben.",
+                "ro": "Vizita la muzeu este ideală pe vreme rea.",
+                "en": "Museum visit is ideal during bad weather."
+              }
+            },
+            {
+              "name": "Memorial Stone & Palm Monument",
+              "tip_5lang": {
+                "de": "Ein Schirm ist für diesen Abschnitt nötig.",
+                "hu": "Eszernyő szükséges ehhez a szakaszhoz.",
+                "ro": "Este necesară o umbrelă pentru această etapă.",
+                "en": "An umbrella is needed for this section."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie die Fahrpläne online vorab.",
+              "Die Busse fahren bei Regen oft pünktlich.",
+              "Nutzen Sie die App für Echtzeit-Infos.",
+              "An Wochenenden fahren Busse seltener."
+            ],
+            "hu": [
+              "Ellenőrizze előre a menetrendet online.",
+              "A buszok esőben is többnyire pontosak.",
+              "Használja az alkalmazást a valós idejű infókért.",
+              "Hétvégén a buszok ritkábban járnak."
+            ],
+            "ro": [
+              "Verificați orarul online în prealabil.",
+              "Autobuzele sunt de obicei punctuale pe ploaie.",
+              "Folosiți aplicația pentru info în timp real.",
+              "În weekend, autobuzele circulă mai rar."
+            ],
+            "en": [
+              "Check the schedules online in advance.",
+              "Buses are usually punctual even in rain.",
+              "Use the app for real-time information.",
+              "Buses run less frequently on weekends."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Vom Busbahnhof aus erkunden wir das winterliche Braunau. Die beheizten Busse bieten angenehme Pausen zwischen den Stationen. In der Stadtpfarrkirche und der Herzogsburg finden wir Schutz vor der Kälte. Der Tag endet stimmungsvoll in der blauen Stunde, bevor wir die Rückreise antreten.",
+            "hu": "A buszállomásról indulva fedezzük fel a téli Braunaut. A fűtött buszok kellemes pihenőt nyújtanak a megállók között. A templomban és a Herzogsburgban találunk menedéket a hideg elől. A nap hangulatosan ér véget, mielőtt hazaindulnánk.",
+            "ro": "Pornind de la autogară, explorăm orașul Braunau iarna. Autobuzele încălzite oferă pauze plăcute între stații. În biserică și la castel găsim adăpost împotriva frigului. Ziua se încheie atmosferic înainte de călătoria de întoarcere.",
+            "en": "Starting from the bus station, we explore wintery Braunau. Heated buses offer pleasant breaks between stops. In the church and the Ducal Castle, we find shelter from the cold. The day ends atmospherically before the journey home."
+          },
+          "stops": [
+            {
+              "name": "Braunau Bus Station",
+              "tip_5lang": {
+                "de": "Warteraum ist meist beheizt.",
+                "hu": "A váróterem többnyire fűtött.",
+                "ro": "Sala de așteptare este de obicei încălzită.",
+                "en": "The waiting room is usually heated."
+              }
+            },
+            {
+              "name": "Vorderbad (Old Bathhouse)",
+              "tip_5lang": {
+                "de": "Vorsicht bei Schnee auf den Stufen.",
+                "hu": "Vigyázzon a hóra a lépcsőkön.",
+                "ro": "Atenție la zăpada de pe trepte.",
+                "en": "Be careful of snow on the steps."
+              }
+            },
+            {
+              "name": "Town Square",
+              "tip_5lang": {
+                "de": "Zentrale Haltestelle mit vielen Cafés.",
+                "hu": "Központi megálló sok kávézóval.",
+                "ro": "Stație centrală cu multe cafenele.",
+                "en": "Central stop with many nearby cafes."
+              }
+            },
+            {
+              "name": "St. Stephen's Parish Church",
+              "tip_5lang": {
+                "de": "Kirchenbesuch zum Aufwärmen nutzen.",
+                "hu": "Használja a templomot melegedésre.",
+                "ro": "Vizitați biserica pentru a vă încălzi.",
+                "en": "Use the church visit to warm up."
+              }
+            },
+            {
+              "name": "Ducal Castle & District Museum",
+              "tip_5lang": {
+                "de": "Warme Kleidung für den Weg zur Haltestelle.",
+                "hu": "Meleg ruha kell a megállóig vezető útra.",
+                "ro": "Haine groase pentru drumul spre stație.",
+                "en": "Warm clothing for the walk to the stop."
+              }
+            },
+            {
+              "name": "Memorial Stone & Palm Monument",
+              "tip_5lang": {
+                "de": "Fotostopp nur kurz bei Kälte.",
+                "hu": "Rövid fotómegálló a hidegben.",
+                "ro": "Popas foto scurt din cauza frigului.",
+                "en": "Brief photo stop due to the cold."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Planen Sie Pufferzeiten bei Schneefall ein.",
+              "Tragen Sie rutschfeste Schuhe für die Haltestellen.",
+              "In den Bussen ist es oft sehr warm.",
+              "Die Fahrpläne können im Winter variieren."
+            ],
+            "hu": [
+              "Számoljon ráhagyással hóesés esetén.",
+              "Viseljen csúszásmentes cipőt a megállókhoz.",
+              "A buszokon gyakran nagyon meleg van.",
+              "A menetrendek télen változhatnak."
+            ],
+            "ro": [
+              "Prevedeți timp suplimentar în caz de ninsoare.",
+              "Purtați pantofi antiderapanți pentru stații.",
+              "În autobuze este adesea foarte cald.",
+              "Orarele pot varia în timpul iernii."
+            ],
+            "en": [
+              "Allow extra time in case of snowfall.",
+              "Wear non-slip shoes for the bus stops.",
+              "Buses are often very warm inside.",
+              "Schedules may vary during the winter."
+            ]
+          }
+        }
       }
     }
   }

@@ -366,6 +366,214 @@
           "Many smaller shops may close in the early afternoon for a siesta.",
           "Respect the dress code when entering churches (shoulders and knees covered)."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag am Eleftherias-Platz, wo die Cafés unter Markisen Schutz bieten. Der Spaziergang durch die Fußgängerzone führt an vielen Vordächern vorbei. Mittags bieten die Kirchen und das Volkskundemuseum trockene Zufluchtsorte für Kulturinteressierte. Den Nachmittag verbringen Sie gemütlich bei einem verlängerten Mittagessen im Zentrum, bevor der Stadtpark im Regen eine fast mystische, grüne Atmosphäre ausstrahlt.",
+            "hu": "Kezdje a napot az Eleftherias téren, ahol a kávézók ponyvái alatt védve maradhat az esőtől. A sétálóutca számos boltíve és előtetője menedéket nyújt. Délben a templomok és a Néprajzi Múzeum tökéletes helyszínek a szárazon maradáshoz. Egy kényelmes, hosszú ebéd után a városi park zöldje az esőben különösen friss és nyugodt arcát mutatja, mielőtt visszatérne a belváros fedett részeire.",
+            "ro": "Începeți ziua în Piața Eleftherias, unde copertinele cafenelelor oferă adăpost împotriva ploii. Zona pietonală are multe porțiuni acoperite unde vă puteți feri. La prânz, bisericile și Muzeul de Folclor sunt refugii culturale ideale. După un prânz prelungit în centru, parcul orașului capătă o atmosferă proaspătă și liniștită sub ploaie, oferind un cadru natural deosebit înainte de seară.",
+            "en": "Start your day at Eleftherias Square, where cafe awnings provide shelter. The pedestrian zone offers many spots to duck out of the rain. At midday, the churches and the Folklore Museum serve as perfect dry havens for culture. After a leisurely lunch in the center, the city park looks remarkably lush and peaceful in the rain, providing a serene atmosphere before the day ends."
+          },
+          "stops": [
+            {
+              "name": "Eleftherias Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie die großen Markisen der Cafés am Platzrand.",
+                "hu": "Használja a tér szélén lévő kávézók nagy ponyváit menedékként.",
+                "ro": "Folosiți copertinele mari ale cafenelelor de pe marginea pieței.",
+                "en": "Use the large awnings of the cafes around the square for cover."
+              }
+            },
+            {
+              "name": "Katerini Pedestrian Zone",
+              "tip_5lang": {
+                "de": "Vorsicht auf den Marmorfliesen, sie werden bei Nässe extrem rutschig.",
+                "hu": "Vigyázzon a márványlapokon, esőben rendkívül csúszósak lehetnek.",
+                "ro": "Atenție la plăcile de marmură, devin extrem de alunecoase când sunt ude.",
+                "en": "Watch your step on the marble tiles; they get very slippery when wet."
+              }
+            },
+            {
+              "name": "St. Catherine's Church",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um den heftigsten Regen abzuwarten.",
+                "hu": "Csendes hely a heves esőzés megvárására.",
+                "ro": "Un loc liniștit unde puteți aștepta trecerea ploii torențiale.",
+                "en": "A quiet place to wait out the heaviest downpour."
+              }
+            },
+            {
+              "name": "Agia Paraskevi Church",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Ikonen, während es draußen regnet.",
+                "hu": "Csodálja meg az ikonokat, miközben kint esik az eső.",
+                "ro": "Admirați icoanele în timp ce afară plouă.",
+                "en": "Admire the icons while the rain falls outside."
+              }
+            },
+            {
+              "name": "Folklore Museum",
+              "tip_5lang": {
+                "de": "Ideal für die regenreichste Zeit des Tages, komplett überdacht.",
+                "hu": "Ideális a nap legesősebb részére, teljesen fedett program.",
+                "ro": "Ideal pentru cea mai ploioasă parte a zilei, fiind complet acoperit.",
+                "en": "Ideal for the rainiest part of the day as it is fully indoor."
+              }
+            },
+            {
+              "name": "Lunch in the City Center",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit gemütlichem Innenbereich statt Terrasse.",
+                "hu": "Válasszon egy hangulatos belső térrel rendelkező éttermet a terasz helyett.",
+                "ro": "Alegeți un restaurant cu interior primitor în locul terasei.",
+                "en": "Choose a restaurant with a cozy interior instead of the terrace."
+              }
+            },
+            {
+              "name": "Katerini City Park",
+              "tip_5lang": {
+                "de": "Die asphaltierten Wege sind auch bei Regen gut begehbar.",
+                "hu": "Az aszfaltozott utak esőben is jól járhatóak.",
+                "ro": "Aleile asfaltate sunt ușor de parcurs chiar și pe ploaie.",
+                "en": "The paved paths remain easily walkable even during rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für die Marmor-Gehwege im Zentrum.",
+              "Katerini hat viele Arkaden, nutzen Sie diese beim Wechsel der Standorte.",
+              "Das Folklore-Museum bietet fast zwei Stunden trockenen Aufenthalt.",
+              "Planen Sie Kaffeepausen in den vielen Cafés der Fußgängerzone ein.",
+              "Ein stabiler Regenschirm ist wegen möglicher Windböen wichtig."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a belvárosi márvány járdák miatt.",
+              "Katerini számos árkáddal rendelkezik, használja ezeket közlekedéskor.",
+              "A Néprajzi Múzeum majdnem két órányi száraz programot kínál.",
+              "Tervezzen kávészüneteket a sétálóutca számos kávézójában.",
+              "A szél miatt érdemes strapabíró esernyőt választani."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru trotuarele de marmură din centru.",
+              "Katerini are multe arcade, folosiți-le când vă deplasați între obiective.",
+              "Muzeul de Folclor oferă aproape două ore de activitate la adăpost.",
+              "Planificați pauze de cafea în numeroasele localuri de pe strada pietonală.",
+              "O umbrelă rezistentă este necesară din cauza posibilelor rafale de vânt."
+            ],
+            "en": [
+              "Wear waterproof shoes due to the marble pavements in the center.",
+              "Katerini has many arcades; use them when moving between locations.",
+              "The Folklore Museum provides nearly two hours of dry activity.",
+              "Plan coffee breaks in the numerous cafes along the pedestrian street.",
+              "A sturdy umbrella is essential due to potential wind gusts."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie das winterliche Katerini beginnend am belebten Eleftherias-Platz. Die kühle Luft macht den Spaziergang durch die Fußgängerzone erfrischend. Besuchen Sie die Kirchen für einen Moment der Besinnung und Wärme. Das Volkskundemuseum bietet einen tiefen Einblick in die regionale Geschichte, fernab der Kälte. Nach einem wärmenden Mittagessen lädt der Stadtpark zu einem kurzen, zügigen Spaziergang ein, bevor die Sonne früh hinter dem Olymp versinkt.",
+            "hu": "Fedezze fel a téli Katerinit a nyüzsgő Eleftherias térről indulva. A hűvös levegő frissítővé teszi a sétát a sétálóutcán. Látogassa meg a templomokat egy kis nyugalomért és melegségért. A Néprajzi Múzeum alapos betekintést nyújt a régió történelmébe, távol a hidegtől. Egy melengető ebéd után a városi park hívogat egy rövid sétára, mielőtt a nap korán lebukna az Olümposz vonulatai mögött.",
+            "ro": "Explorați Katerini în haine de iarnă pornind din Piața Eleftherias. Aerul rece face plimbarea prin zona pietonală revigorantă. Vizitați bisericile pentru un moment de liniște și căldură. Muzeul de Folclor oferă o perspectivă bogată asupra istoriei regionale, ferit de frig. După un prânz cald, parcul orașului vă invită la o plimbare scurtă înainte ca soarele să apună devreme după Muntele Olimp.",
+            "en": "Explore wintry Katerini starting from the lively Eleftherias Square. The crisp air makes the walk through the pedestrian zone refreshing. Visit the churches for a moment of peace and warmth. The Folklore Museum offers a deep dive into regional history, away from the cold. After a warming lunch, the city park invites you for a brisk walk before the sun sets early behind Mount Olympus."
+          },
+          "stops": [
+            {
+              "name": "Eleftherias Square",
+              "tip_5lang": {
+                "de": "Genießen Sie einen heißen griechischen Kaffee in einem der beheizten Außenbereiche.",
+                "hu": "Élvezzen egy forró görög kávét az egyik fűtött kültéri részen.",
+                "ro": "Savurați o cafea grecească fierbinte într-o zonă exterioară încălzită.",
+                "en": "Enjoy a hot Greek coffee in one of the heated outdoor seating areas."
+              }
+            },
+            {
+              "name": "Katerini Pedestrian Zone",
+              "tip_5lang": {
+                "de": "Die Geschäfte sind zur Weihnachtszeit oft festlich beleuchtet.",
+                "hu": "Az üzletek az ünnepi időszakban gyakran díszkivilágításban pompáznak.",
+                "ro": "Magazinele sunt adesea iluminate festiv în perioada sărbătorilor.",
+                "en": "Shops are often festively lit up during the holiday season."
+              }
+            },
+            {
+              "name": "St. Catherine's Church",
+              "tip_5lang": {
+                "de": "Im Inneren ist es deutlich wärmer als auf der Straße.",
+                "hu": "Bent lényegesen melegebb van, mint az utcán.",
+                "ro": "În interior este mult mai cald decât pe stradă.",
+                "en": "It is significantly warmer inside than on the street."
+              }
+            },
+            {
+              "name": "Agia Paraskevi Church",
+              "tip_5lang": {
+                "de": "Zünden Sie eine Kerze an und genießen Sie die spirituelle Wärme.",
+                "hu": "Gyújtson egy gyertyát és élvezze a spirituális melegséget.",
+                "ro": "Aprindeți o lumânare și bucurați-vă de căldura spirituală.",
+                "en": "Light a candle and enjoy the spiritual warmth."
+              }
+            },
+            {
+              "name": "Folklore Museum",
+              "tip_5lang": {
+                "de": "Ein gut beheizter Ort, um mehr über die Traditionen von Pieria zu erfahren.",
+                "hu": "Jól fűtött helyszín Pieria hagyományainak megismeréséhez.",
+                "ro": "Un loc bine încălzit unde puteți învăța despre tradițiile din Pieria.",
+                "en": "A well-heated location to learn about the traditions of Pieria."
+              }
+            },
+            {
+              "name": "Lunch in the City Center",
+              "tip_5lang": {
+                "de": "Probieren Sie eine kräftige griechische Suppe (Fasolada), um sich aufzuwärmen.",
+                "hu": "Kóstoljon meg egy tartalmas görög levest (Fasolada) a felmelegedéshez.",
+                "ro": "Încercați o supă grecească consistentă (Fasolada) pentru a vă încălzi.",
+                "en": "Try a hearty Greek soup (Fasolada) to warm up."
+              }
+            },
+            {
+              "name": "Katerini City Park",
+              "tip_5lang": {
+                "de": "Beenden Sie den Besuch vor 17:00 Uhr, wenn es dunkel und kälter wird.",
+                "hu": "Fejezze be a látogatást 17:00 előtt, mielőtt sötét és hidegebb lesz.",
+                "ro": "Încheiați vizita înainte de ora 17:00, când se întunecă și se face mai frig.",
+                "en": "Finish your visit before 17:00 as it gets dark and colder."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schichten Sie Ihre Kleidung; in Innenräumen ist es oft sehr warm.",
+              "Die Sonne geht im Winter gegen 17:00 Uhr unter.",
+              "Der Olymp kann im Hintergrund schneebedeckt sein – ein tolles Fotomotiv.",
+              "Viele Cafés haben Gasheizungen im Außenbereich.",
+              "Warme Suppen sind in den lokalen Tavernen im Winter sehr beliebt."
+            ],
+            "hu": [
+              "Öltözzön rétegesen, mert a belső terekben gyakran meleg van.",
+              "A nap télen 17:00 körül nyugszik.",
+              "Az Olümposz ilyenkor gyakran hófödte – kiváló fotótéma.",
+              "Sok kávézó gázmelegítőket használ a külső asztaloknál.",
+              "A meleg levesek nagyon népszerűek a helyi tavernákban télen."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi; în spațiile interioare este adesea foarte cald.",
+              "Soarele apune în jur de ora 17:00 în timpul iernii.",
+              "Muntele Olimp poate fi acoperit de zăpadă – un fundal excelent pentru fotografii.",
+              "Multe cafenele au încălzitoare cu gaz pentru mesele de afară.",
+              "Supele calde sunt foarte apreciate în tavernele locale iarna."
+            ],
+            "en": [
+              "Dress in layers; indoor spaces are often kept quite warm.",
+              "The sun sets around 17:00 during the winter months.",
+              "Mount Olympus might be snow-capped – a great photo opportunity.",
+              "Many cafes use gas heaters for their outdoor seating.",
+              "Hot soups are very popular in local tavernas during winter."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -726,6 +934,214 @@
           "Be mindful of traffic, especially outside of designated bike lanes.",
           "A good lock is essential for leaving your bike securely."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen bleibt Katerini auf dem Rad erreichbar. Beginnen Sie im Zentrum und nutzen Sie die Fußgängerzone für kurze Stopps. Das Volkskundemuseum bietet eine längere Pause im Trockenen. Nach dem Mittagessen führt die Fahrt Richtung Paralia; achten Sie auf Pfützen und die Meeresbrise. Die Küste wirkt bei grauem Himmel dramatisch und weitläufig, perfekt für wetterfeste Radfahrer.",
+            "hu": "Az eső ellenére Katerini kerékpárral is bejárható. Kezdjen a központban, és használja a sétálóutcát rövid megállókra. A Néprajzi Múzeum hosszabb száraz szünetet biztosít. Ebéd után induljon Paralia felé; ügyeljen a tócsákra és a tengeri szélre. A partvidék szürke égbolt alatt drámai és tágas, tökéletes a strapabíró bringásoknak.",
+            "ro": "În ciuda ploii, Katerini rămâne accesibil pe bicicletă. Începeți în centru și folosiți zona pietonală pentru opriri scurte. Muzeul de Folclor oferă o pauză lungă la uscat. După prânz, porniți spre Paralia; atenție la bălți și briza mării. Coasta arată dramatic sub cerul gri, fiind ideală pentru bicicliștii echipați corespunzător.",
+            "en": "Despite the rain, Katerini remains accessible by bike. Start in the center and use the pedestrian zone for quick stops. The Folklore Museum provides a longer dry break. After lunch, head towards Paralia; watch out for puddles and the sea breeze. The coast looks dramatic under grey skies, perfect for weatherproof cyclists."
+          },
+          "stops": [
+            {
+              "name": "Eleftherias Square",
+              "tip_5lang": {
+                "de": "Parken Sie das Rad unter einem Vordach, während Sie Kaffee trinken.",
+                "hu": "Parkolja a biciklit előtető alá, amíg kávézik.",
+                "ro": "Parcați bicicleta sub un acoperiș în timp ce beți cafeaua.",
+                "en": "Park your bike under an overhang while grabbing a coffee."
+              }
+            },
+            {
+              "name": "Katerini Pedestrian Zone",
+              "tip_5lang": {
+                "de": "Fahren Sie langsam; die glatten Steine sind bei Regen tückisch.",
+                "hu": "Hajtson lassan; a sima kövek esőben csalókák lehetnek.",
+                "ro": "Mergeți încet; pietrele lucioase sunt înșelătoare pe ploaie.",
+                "en": "Ride slowly; the smooth stones are treacherous in the rain."
+              }
+            },
+            {
+              "name": "Folklore Museum",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad am Eingang unter, es gibt begrenzten Schutz.",
+                "hu": "Támassza le a biciklit a bejáratnál, korlátozottan van fedett rész.",
+                "ro": "Lăsați bicicleta la intrare, unde există protecție limitată.",
+                "en": "Leave your bike at the entrance; there is limited overhead cover."
+              }
+            },
+            {
+              "name": "St. Catherine's Church",
+              "tip_5lang": {
+                "de": "Kurzer Stopp möglich, der Platz bietet wenig Regenschutz.",
+                "hu": "Rövid megálló lehetséges, a tér kevés esővédelmet nyújt.",
+                "ro": "Oprire scurtă posibilă, piața oferă puțină protecție contra ploii.",
+                "en": "Short stop possible; the square offers little rain protection."
+              }
+            },
+            {
+              "name": "Lunch",
+              "tip_5lang": {
+                "de": "Suchen Sie einen Ort, an dem Sie Ihr nasses Rad im Blick haben.",
+                "hu": "Keressen olyan helyet, ahol rálát a vizes biciklijére.",
+                "ro": "Căutați un loc de unde puteți supraveghea bicicleta udă.",
+                "en": "Look for a spot where you can keep an eye on your wet bike."
+              }
+            },
+            {
+              "name": "Katerini City Park",
+              "tip_5lang": {
+                "de": "Vermeiden Sie die Rasenflächen; bleiben Sie auf den festen Wegen.",
+                "hu": "Kerülje a füves területeket; maradjon a szilárd utakon.",
+                "ro": "Evitați zonele cu iarbă; rămâneți pe aleile pavate.",
+                "en": "Avoid the grassy areas; stick to the paved paths."
+              }
+            },
+            {
+              "name": "Ride to the Coast (Paralia)",
+              "tip_5lang": {
+                "de": "Achtung vor Seitenwinden auf der geraden Straße zum Meer.",
+                "hu": "Vigyázzon az oldalszélre a tengerhez vezető egyenes úton.",
+                "ro": "Atenție la vântul lateral pe drumul drept spre mare.",
+                "en": "Beware of crosswinds on the straight road to the sea."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche am Fahrrad sind bei den Pfützen in Katerini Pflicht.",
+              "Die glatten Steinplatten im Zentrum erfordern gute Reifenhaftung.",
+              "Nehmen Sie wasserdichte Taschen für Kamera und Handy mit.",
+              "Bremsen Sie frühzeitig, da Bremswege auf nassem Marmor länger sind.",
+              "In Paralia kann der Wind den Regen peitschen, Windjacke einpacken."
+            ],
+            "hu": [
+              "A sárvédő kötelező a katerini tócsák miatt.",
+              "A központ sima kőlapjai jó gumiabroncs-tapadást igényelnek.",
+              "Vigyen vízálló táskát a fényképezőgépnek és a telefonnak.",
+              "Fékezzen időben, mert a fékút vizes márványon hosszabb.",
+              "Paralián a szél erősen verheti az esőt, vigyen szélkabátot."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt obligatorii din cauza bălților din Katerini.",
+              "Plăcile netede din centru necesită o bună aderență a anvelopelor.",
+              "Luați genți impermeabile pentru aparatul foto și telefon.",
+              "Frânați din timp, deoarece distanța de frânare pe marmură udă este mai mare.",
+              "În Paralia vântul poate amplifica ploaia, luați o jachetă de vânt."
+            ],
+            "en": [
+              "Mudguards on your bike are a must for the puddles in Katerini.",
+              "The smooth stone slabs in the center require good tire grip.",
+              "Take waterproof bags for your camera and phone.",
+              "Brake early as stopping distances are longer on wet marble.",
+              "In Paralia, wind can lash the rain; pack a windbreaker."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine Wintertour mit dem Rad bietet klare Luft und freie Wege. Starten Sie im Zentrum und nutzen Sie das Volkskundemuseum für eine Aufwärmpause. Die Fahrt zum Paralia-Strand ist im Winter ruhig, fast verlassen, was einen ganz eigenen Charme hat. Der Wind vom Olymp kann kühl sein, aber die weite Sicht auf das Gebirge entschädigt dafür. Kehren Sie vor Einbruch der Dunkelheit in die hell erleuchtete Stadt zurück.",
+            "hu": "Egy téli kerékpáros túra friss levegőt és üres utakat kínál. Kezdjen a központban, és használja a Néprajzi Múzeumot egy melegedő szünetre. A paraliai tengerparti tekerés télen csendes, szinte elhagyatott, aminek megvan a maga varázsa. Az Olümposz felől fújó szél hűvös lehet, de a hegységre nyíló tiszta kilátás kárpótol. Térjen vissza a városba még sötétedés előtt.",
+            "ro": "O tură de iarnă cu bicicleta oferă aer curat și drumuri libere. Începeți în centru și folosiți Muzeul de Folclor pentru o pauză de încălzire. Drumul spre plaja Paralia este liniștit iarna, aproape pustiu, având un farmec aparte. Vântul dinspre Olimp poate fi tăios, dar vederea clară spre munți merită efortul. Reveniți în orașul luminat înainte de lăsarea întunericului.",
+            "en": "A winter bike tour offers crisp air and empty paths. Start in the center and use the Folklore Museum for a warm-up break. The ride to Paralia beach is quiet in winter, almost deserted, which has its own charm. The wind from Olympus can be chilly, but the clear view of the mountains makes up for it. Return to the brightly lit city before nightfall."
+          },
+          "stops": [
+            {
+              "name": "Eleftherias Square",
+              "tip_5lang": {
+                "de": "Tragen Sie warme Handschuhe für den Start am Morgen.",
+                "hu": "Viseljen meleg kesztyűt a reggeli induláshoz.",
+                "ro": "Purtați mănuși groase pentru startul de dimineață.",
+                "en": "Wear warm gloves for the morning start."
+              }
+            },
+            {
+              "name": "Katerini Pedestrian Zone",
+              "tip_5lang": {
+                "de": "Achten Sie auf Fußgänger, die wegen der Kälte oft eilig unterwegs sind.",
+                "hu": "Figyeljen a gyalogosokra, akik a hideg miatt gyakran sietnek.",
+                "ro": "Fiți atenți la pietonii care se grăbesc din cauza frigului.",
+                "en": "Watch out for pedestrians who are often in a hurry due to the cold."
+              }
+            },
+            {
+              "name": "Folklore Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit drinnen, um Ihre Finger wieder aufzuwärmen.",
+                "hu": "Használja ki a benti időt az ujjai felmelegítésére.",
+                "ro": "Folosiți timpul petrecut în interior pentru a vă încălzi mâinile.",
+                "en": "Use the time indoors to warm up your fingers."
+              }
+            },
+            {
+              "name": "St. Catherine's Church",
+              "tip_5lang": {
+                "de": "Der Platz kann im Schatten sehr kühl sein.",
+                "hu": "A tér árnyékban nagyon hűvös lehet.",
+                "ro": "Piața poate fi foarte rece la umbră.",
+                "en": "The square can be very chilly in the shade."
+              }
+            },
+            {
+              "name": "Lunch",
+              "tip_5lang": {
+                "de": "Kohlenhydrate tanken für die Fahrt ans Meer.",
+                "hu": "Töltődjön fel szénhidráttal a tengerparti úthoz.",
+                "ro": "Reîncărcați-vă cu carbohidrați pentru drumul spre mare.",
+                "en": "Fuel up with carbohydrates for the ride to the sea."
+              }
+            },
+            {
+              "name": "Katerini City Park",
+              "tip_5lang": {
+                "de": "Kurze Runde drehen, im Winter ist es hier sehr ruhig.",
+                "hu": "Tegyen egy rövid kört, télen itt nagyon nagy a nyugalom.",
+                "ro": "Faceți o tură scurtă, iarna este foarte liniște aici.",
+                "en": "Take a quick loop; it is very quiet here in winter."
+              }
+            },
+            {
+              "name": "Ride to the Coast (Paralia)",
+              "tip_5lang": {
+                "de": "Gegenwind vom Meer her kann die gefühlte Temperatur senken.",
+                "hu": "A tenger felől fújó ellenszél csökkentheti a hőérzetet.",
+                "ro": "Vântul dinspre mare poate scădea temperatura resimțită.",
+                "en": "Headwinds from the sea can lower the perceived temperature."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Unterschätzen Sie nicht den kalten Wind auf der Strecke nach Paralia.",
+              "Tragen Sie Kleidung in Signalfarben, da es im Winter oft diesig ist.",
+              "Prüfen Sie den Reifendruck; kalte Luft lässt ihn leicht sinken.",
+              "Vermeiden Sie späte Fahrten; nach 16:30 Uhr sinken die Temperaturen rapide.",
+              "Ein heißer Tee in Paralia ist die beste Belohnung für die Fahrt."
+            ],
+            "hu": [
+              "Ne becsülje alá a hideg szelet a Paralia felé vezető úton.",
+              "Viseljen feltűnő színeket, mert télen gyakran párás az idő.",
+              "Ellenőrizze a guminyomást; a hideg levegő miatt kissé csökkenhet.",
+              "Kerülje a késői tekerést; 16:30 után gyorsan hűl a levegő.",
+              "Egy forró tea Paralián a legjobb jutalom a tekerésért."
+            ],
+            "ro": [
+              "Nu subestimați vântul rece pe drumul spre Paralia.",
+              "Purtați culori stridente, deoarece iarna vizibilitatea este redusă.",
+              "Verificați presiunea anvelopelor; aerul rece o poate scădea ușor.",
+              "Evitați deplasările târzii; după ora 16:30 temperaturile scad brusc.",
+              "Un ceai fierbinte în Paralia este cea mai bună recompensă pentru drum."
+            ],
+            "en": [
+              "Do not underestimate the cold wind on the route to Paralia.",
+              "Wear high-visibility colors as winter can be hazy.",
+              "Check tire pressure; cold air can cause it to drop slightly.",
+              "Avoid late rides; temperatures drop rapidly after 16:30.",
+              "A hot tea in Paralia is the best reward for the ride."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1086,6 +1502,214 @@
           "The roads to Olympus can be narrow and winding; drive carefully.",
           "Check the opening hours for Platamon Castle in advance as they can vary seasonally."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Katerini auch bei Regen ein idealer Ausgangspunkt. Starten Sie im Zentrum und besuchen Sie das Museum, bevor Sie in die Berge fahren. Der Aussichtspunkt am Olymp bietet bei Wolken ein dramatisches Nebelspiel. Das Mittagessen in Litochoro ist besonders gemütlich, wenn der Regen gegen die Fenster prasselt. Die Burg Platamon wirkt bei Regen noch wehrhafter und mystischer, bevor Sie trocken nach Katerini zurückkehren.",
+            "hu": "Autóval Katerini esőben is ideális kiindulópont. Kezdjen a központban, látogassa meg a múzeumot, mielőtt a hegyekbe indulna. Az Olümposz kilátópontja felhős időben drámai ködjátékot kínál. Az ebéd Litochoróban különösen hangulatos, amikor az eső kopog az ablakon. Platamon vára esőben még zordabbnak és titokzatosabbnak tűnik, mielőtt szárazon visszatérne Katerinibe.",
+            "ro": "Cu mașina, Katerini este un punct de plecare ideal chiar și pe ploaie. Începeți în centru și vizitați muzeul înainte de a merge spre munți. Punctul de belvedere de pe Olimp oferă un spectacol dramatic de ceață în zilele noroase. Prânzul în Litochoro este foarte plăcut când ploaia bate în geam. Castelul Platamon pare și mai impunător sub ploaie, înainte de a reveni confortabil în Katerini.",
+            "en": "By car, Katerini is an ideal starting point even in the rain. Start in the center and visit the museum before heading into the mountains. The Olympus viewpoint offers a dramatic play of mist when cloudy. Lunch in Litochoro is particularly cozy as rain drums on the windows. Platamon Castle looks even more fortress-like and mystical in the rain before you return dry to Katerini."
+          },
+          "stops": [
+            {
+              "name": "Eleftherias Square & Center",
+              "tip_5lang": {
+                "de": "Parken Sie in einem der zentrumsnahen Parkhäuser, um trocken zu bleiben.",
+                "hu": "Parkoljon a központhoz közeli parkolóházak egyikében, hogy száraz maradjon.",
+                "ro": "Parcați într-o parcare acoperită din apropierea centrului pentru a rămâne uscat.",
+                "en": "Park in one of the central parking garages to stay dry."
+              }
+            },
+            {
+              "name": "Folklore Museum",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist direkt vor der Tür, kurzer Weg im Regen.",
+                "hu": "A parkoló közvetlenül az ajtó előtt van, rövid séta az esőben.",
+                "ro": "Parcarea este chiar în fața intrării, drum scurt prin ploaie.",
+                "en": "Parking is right in front of the door, minimizing time in the rain."
+              }
+            },
+            {
+              "name": "Mount Olympus Viewpoint",
+              "tip_5lang": {
+                "de": "Bleiben Sie im Auto und genießen Sie die Aussicht durch die Scheibe.",
+                "hu": "Maradjon az autóban, és élvezze a kilátást a szélvédőn keresztül.",
+                "ro": "Rămâneți în mașină și admirați priveliștea prin parbriz.",
+                "en": "Stay in the car and enjoy the view through the windshield."
+              }
+            },
+            {
+              "name": "Lunch in Litochoro",
+              "tip_5lang": {
+                "de": "Die Bergstraßen können bei Regen rutschig sein, fahren Sie vorsichtig.",
+                "hu": "A hegyi utak esőben csúszósak lehetnek, vezessen óvatosan.",
+                "ro": "Drumurile montane pot fi alunecoase pe ploaie, conduceți cu prudență.",
+                "en": "Mountain roads can be slippery in the rain; drive carefully."
+              }
+            },
+            {
+              "name": "Platamon Castle",
+              "tip_5lang": {
+                "de": "Die Außenanlagen sind ungeschützt, Regenschirm ist unverzichtbar.",
+                "hu": "A külső területek nyitottak, az esernyő nélkülözhetetlen.",
+                "ro": "Zonele exterioare sunt expuse, umbrela este indispensabilă.",
+                "en": "The outdoor areas are exposed; an umbrella is essential."
+              }
+            },
+            {
+              "name": "Walk on Platamon Beach",
+              "tip_5lang": {
+                "de": "Ein kurzer Blick aufs Meer vom Parkplatz aus genügt bei Starkregen.",
+                "hu": "Heves esőben elég egy rövid pillantás a tengerre a parkolóból.",
+                "ro": "O privire scurtă spre mare din parcare este suficientă pe ploaie torențială.",
+                "en": "A quick look at the sea from the parking lot is enough during heavy rain."
+              }
+            },
+            {
+              "name": "Return to Katerini",
+              "tip_5lang": {
+                "de": "Achten Sie auf schlechte Sicht auf der Autobahn.",
+                "hu": "Ügyeljen a rossz látási viszonyokra az autópályán.",
+                "ro": "Atenție la vizibilitatea redusă pe autostradă.",
+                "en": "Watch out for poor visibility on the highway."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Autobahn E75 ist gut ausgebaut, aber bei Starkregen staut sich Wasser.",
+              "In Litochoro gibt es viele Tavernen mit Kaminen.",
+              "Prüfen Sie Ihre Scheibenwischer vor der Fahrt in die Berge.",
+              "Nebel am Olymp kann die Sicht plötzlich auf wenige Meter reduzieren.",
+              "Parkhäuser im Zentrum von Katerini sparen Zeit beim Regenschutz."
+            ],
+            "hu": [
+              "Az E75-ös autópálya jó, de heves esőben megállhat rajta a víz.",
+              "Litochoróban sok tavernának van kandallója.",
+              "Ellenőrizze az ablaktörlőket a hegyi út előtt.",
+              "Az Olümposz ködje hirtelen pár méterre csökkentheti a látótávolságot.",
+              "A katerini parkolóházak időt spórolnak az eső elleni védekezésben."
+            ],
+            "ro": [
+              "Autostrada E75 este bună, dar apa se poate acumula în caz de ploaie torențială.",
+              "În Litochoro sunt multe taverne cu șemineu.",
+              "Verificați ștergătoarele înainte de drumul spre munte.",
+              "Ceața de pe Olimp poate reduce brusc vizibilitatea la câțiva metri.",
+              "Parcările acoperite din centrul Katerini vă feresc de ploaie."
+            ],
+            "en": [
+              "The E75 highway is well-built, but water can pool during heavy rain.",
+              "Litochoro has many tavernas with cozy fireplaces.",
+              "Check your wipers before heading into the mountains.",
+              "Mist on Olympus can suddenly reduce visibility to a few meters.",
+              "Parking garages in central Katerini save you from getting wet."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine Wintertour mit dem Auto verbindet Stadtkultur mit beeindruckenden Bergpanoramen. Nach dem Besuch des Zentrums und des Museums führt die Fahrt hinauf zum Olymp, wo oft Schnee liegt. Litochoro wirkt im Winter wie ein klassisches Bergdorf. Die Burg Platamon bietet eine klare Sicht über die winterliche Ägäis. Genießen Sie die Unabhängigkeit vom Wetter in Ihrem Fahrzeug, während Sie die frostige Schönheit der Region erkunden.",
+            "hu": "Egy téli autós túra egyesíti a városi kultúrát a lenyűgöző hegyi panorámával. A központ és a múzeum után az út felvezet az Olümposzra, ahol gyakran hó fekszik. Litochoro télen igazi hegyi falu hangulatát árasztja. Platamon vára tiszta kilátást nyújt a téli Égei-tengerre. Élvezze az időjárástól való függetlenséget autójában, miközben felfedezi a régió fagyos szépségét.",
+            "ro": "O tură de iarnă cu mașina îmbină cultura urbană cu panorame montane impresionante. După vizitarea centrului și a muzeului, drumul urcă spre Olimp, unde adesea este zăpadă. Litochoro arată iarna ca un sat montan autentic. Castelul Platamon oferă o vedere clară peste Marea Egee înghețată. Bucurați-vă de independența față de vreme în mașină în timp ce explorați frumusețea rece a regiunii.",
+            "en": "A winter car tour combines urban culture with impressive mountain panoramas. After visiting the center and the museum, the drive leads up to Olympus, where snow often lies. Litochoro feels like a classic mountain village in winter. Platamon Castle offers clear views over the wintry Aegean. Enjoy independence from the weather in your vehicle while exploring the region's frosty beauty."
+          },
+          "stops": [
+            {
+              "name": "Eleftherias Square & Center",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Sitzheizung nach dem Stadtspaziergang.",
+                "hu": "Használja az ülésfűtést a városi séta után.",
+                "ro": "Folosiți încălzirea în scaune după plimbarea prin oraș.",
+                "en": "Make use of your seat heaters after the city walk."
+              }
+            },
+            {
+              "name": "Folklore Museum",
+              "tip_5lang": {
+                "de": "Kurze Parkdauer, ideal für einen Stopp zum Aufwärmen.",
+                "hu": "Rövid parkolási idő, ideális egy megállóra a felmelegedéshez.",
+                "ro": "Timp scurt de parcare, ideal pentru o oprire de încălzire.",
+                "en": "Short parking duration, ideal for a warm-up stop."
+              }
+            },
+            {
+              "name": "Mount Olympus Viewpoint",
+              "tip_5lang": {
+                "de": "Winterreifen oder Schneeketten können in höheren Lagen nötig sein.",
+                "hu": "Téli gumi vagy hólánc szükséges lehet a magasabb részeken.",
+                "ro": "Anvelopele de iarnă sau lanțurile pot fi necesare la altitudini mai mari.",
+                "en": "Winter tires or snow chains may be required at higher elevations."
+              }
+            },
+            {
+              "name": "Lunch in Litochoro",
+              "tip_5lang": {
+                "de": "Parkplätze im Dorf sind im Winter leichter zu finden.",
+                "hu": "A faluban télen könnyebb parkolóhelyet találni.",
+                "ro": "Locurile de parcare din sat sunt mai ușor de găsit iarna.",
+                "en": "Parking spots in the village are easier to find in winter."
+              }
+            },
+            {
+              "name": "Platamon Castle",
+              "tip_5lang": {
+                "de": "Warme Jacke anziehen, der Wind an der Burgmauer ist eisig.",
+                "hu": "Vegyen fel meleg kabátot, a szél a várfalnál jeges lehet.",
+                "ro": "Puneți o jachetă groasă, vântul la zidurile castelului este tăios.",
+                "en": "Put on a warm jacket; the wind by the castle walls is icy."
+              }
+            },
+            {
+              "name": "Walk on Platamon Beach",
+              "tip_5lang": {
+                "de": "Genießen Sie die Einsamkeit am Strand.",
+                "hu": "Élvezze a tengerparti egyedüllétet.",
+                "ro": "Bucurați-vă de singurătatea de pe plajă.",
+                "en": "Enjoy the solitude on the beach."
+              }
+            },
+            {
+              "name": "Return to Katerini",
+              "tip_5lang": {
+                "de": "Die Dämmerung beginnt früh, prüfen Sie Ihre Beleuchtung.",
+                "hu": "A szürkület korán kezdődik, ellenőrizze a világítást.",
+                "ro": "Amurgul începe devreme, verificați luminile mașinii.",
+                "en": "Dusk starts early; check your car's lighting."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "In den Bergen um den Olymp kann plötzlich Schnee fallen.",
+              "Litochoro ist bekannt für Fleischgerichte, die im Winter besonders gut schmecken.",
+              "Prüfen Sie den Frostschutz in der Scheibenwaschanlage.",
+              "Die Burg Platamon schließt im Winter oft früher (meist 15:30 oder 16:00 Uhr).",
+              "Trinken Sie nach der Fahrt einen heißen Bergtee (Tsai tou vounou)."
+            ],
+            "hu": [
+              "Az Olümposz körüli hegyekben hirtelen leeshet a hó.",
+              "Litochoro híres a húsételeiről, amik télen különösen jól esnek.",
+              "Ellenőrizze a fagyállót a szélvédőmosóban.",
+              "Platamon vára télen gyakran korábban zár (15:30 vagy 16:00).",
+              "Igyon egy forró hegyi teát (Tsai tou vounou) az út után."
+            ],
+            "ro": [
+              "În munții din jurul Olimpului poate ninge pe neașteptate.",
+              "Litochoro este renumit pentru preparatele din carne, ideale iarna.",
+              "Verificați antigelul în lichidul de parbriz.",
+              "Castelul Platamon se închide adesea mai devreme iarna (15:30 sau 16:00).",
+              "Beți un ceai de munte fierbinte (Tsai tou vounou) după călătorie."
+            ],
+            "en": [
+              "Snow can fall suddenly in the mountains around Olympus.",
+              "Litochoro is known for meat dishes that taste best in winter.",
+              "Check the antifreeze levels in your windshield washer fluid.",
+              "Platamon Castle often closes earlier in winter (usually 15:30 or 16:00).",
+              "Have a hot mountain tea (Tsai tou vounou) after your drive."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1422,6 +2046,196 @@
           "Buses can be crowded during peak season, so allow some extra time.",
           "Ask locals or the bus driver if you are unsure about a stop."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie das Busnetz von Katerini, um dem Regen zu entkommen. Starten Sie an der Busstation und erreichen Sie schnell das trockene Zentrum. Das Museum und das Mittagessen bieten Schutz während der stärksten Schauer. Die Fahrt nach Paralia mit dem Bus ist bequem; genießen Sie den Blick auf das regnerische Meer aus dem warmen Bus, bevor Sie die Cafés an der Promenade besuchen.",
+            "hu": "Használja Katerini buszhálózatát, hogy elmeneküljön az eső elől. Kezdjen a buszállomáson, és érje el gyorsan a száraz belvárost. A múzeum és az ebéd védelmet nyújt a hevesebb záporok idején. A buszozás Paraliára kényelmes; élvezze a kilátást az esős tengerre a meleg buszból, mielőtt felkeresné a sétány kávézóit.",
+            "ro": "Folosiți rețeaua de autobuze din Katerini pentru a scăpa de ploaie. Începeți la autogară și ajungeți rapid în centrul uscat. Muzeul și prânzul oferă adăpost în timpul ploilor torențiale. Călătoria spre Paralia cu autobuzul este confortabilă; admirați marea sub ploaie din interiorul cald, înainte de a vizita cafenelele de pe faleză.",
+            "en": "Use Katerini's bus network to escape the rain. Start at the bus station and quickly reach the dry center. The museum and lunch offer shelter during the heaviest showers. The bus ride to Paralia is comfortable; enjoy the view of the rainy sea from the warm bus before visiting the cafes on the promenade."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Katerini Bus Station",
+              "tip_5lang": {
+                "de": "Warten Sie im überdachten Wartebereich auf den Stadtbus.",
+                "hu": "Várjon a fedett váróteremben a helyi buszra.",
+                "ro": "Așteptați autobuzul urban în zona de așteptare acoperită.",
+                "en": "Wait for the city bus in the covered waiting area."
+              }
+            },
+            {
+              "name": "Eleftherias Square",
+              "tip_5lang": {
+                "de": "Die Haltestellen im Zentrum haben oft nur kleine Unterstände.",
+                "hu": "A központi megállóknak gyakran csak kis esővédőjük van.",
+                "ro": "Stațiile din centru au adesea doar adăposturi mici.",
+                "en": "The central bus stops often have only small shelters."
+              }
+            },
+            {
+              "name": "Folklore Museum",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg von der Haltestelle zum Museumseingang.",
+                "hu": "Rövid séta a megállótól a múzeum bejáratáig.",
+                "ro": "Drum scurt pe jos de la stație până la intrarea muzeului.",
+                "en": "Short walk from the bus stop to the museum entrance."
+              }
+            },
+            {
+              "name": "Lunch in the city",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Lokal nah an einer Bushaltestelle.",
+                "hu": "Válasszon egy helyet közel egy buszmegállóhoz.",
+                "ro": "Alegeți un local situat aproape de o stație de autobuz.",
+                "en": "Choose a place located near a bus stop."
+              }
+            },
+            {
+              "name": "Bus to Paralia Katerinis",
+              "tip_5lang": {
+                "de": "Die Busse fahren regelmäßig, Sie müssen nicht lange im Regen warten.",
+                "hu": "A buszok rendszeresen járnak, nem kell sokat várni az esőben.",
+                "ro": "Autobuzele circulă regulat, nu va trebui să așteptați mult în ploaie.",
+                "en": "Buses run regularly; you won't have to wait long in the rain."
+              }
+            },
+            {
+              "name": "Walk on the promenade & coffee",
+              "tip_5lang": {
+                "de": "Die Cafés in Paralia bieten einen tollen Blick auf die stürmische See.",
+                "hu": "A paraliai kávézók nagyszerű kilátást nyújtanak a viharos tengerre.",
+                "ro": "Cafenelele din Paralia oferă o vedere excelentă spre marea agitată.",
+                "en": "The cafes in Paralia offer a great view of the stormy sea."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der 'KTEL Pierias' bedient die Strecke nach Paralia sehr häufig.",
+              "Halten Sie Kleingeld für das Busticket bereit.",
+              "Bei Regen sind die Busse oft voll, planen Sie etwas Pufferzeit ein.",
+              "Die App 'Moovit' funktioniert in Katerini recht gut für Buszeiten.",
+              "Tragen Sie eine Regenjacke, da Wege zur Haltestelle nass sein können."
+            ],
+            "hu": [
+              "A 'KTEL Pierias' nagyon gyakran indít járatokat Paraliára.",
+              "Készítsen elő aprópénzt a buszjegyhez.",
+              "Esőben a buszok gyakran zsúfoltak, számoljon némi plusz idővel.",
+              "A 'Moovit' app elég jól működik Kateriniben a buszmenetrendhez.",
+              "Viseljen esőkabátot a megállóig vezető út miatt."
+            ],
+            "ro": [
+              "Compania 'KTEL Pierias' deservește ruta spre Paralia foarte frecvent.",
+              "Pregătiți mărunțiș pentru biletul de autobuz.",
+              "Pe ploaie autobuzele sunt adesea pline, planificați timp suplimentar.",
+              "Aplicația 'Moovit' funcționează destul de bine în Katerini pentru orar.",
+              "Purtați o pelerină de ploaie pentru drumul până la stație."
+            ],
+            "en": [
+              "The 'KTEL Pierias' serves the route to Paralia very frequently.",
+              "Have small change ready for the bus ticket.",
+              "Buses are often crowded during rain; allow for some extra time.",
+              "The 'Moovit' app works quite well in Katerini for bus schedules.",
+              "Wear a raincoat for the walks to and from the bus stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Entdecken Sie Katerini im Winter bequem mit den öffentlichen Verkehrsmitteln. Die beheizten Busse machen den Weg zwischen Zentrum und Busstation angenehm. Nach dem Museumsbesuch und einem herzhaften Mittagessen bringt Sie der Bus an den winterlichen Strand von Paralia. Die klare Winterluft am Meer ist erfrischend, und der Bus bietet einen warmen Rückzugsort für die Heimfahrt am frühen Abend.",
+            "hu": "Fedezze fel a téli Katerinit kényelmesen, tömegközlekedéssel. A fűtött buszok kellemessé teszik az utat a központ és az állomás között. A múzeumlátogatás és egy kiadós ebéd után a busz kiviszi a téli Paraliára. A tengerparti friss téli levegő üdítő, a busz pedig meleg menedéket nyújt a kora esti hazaúthoz.",
+            "ro": "Descoperiți Katerini iarna confortabil cu transportul public. Autobuzele încălzite fac drumul între centru și autogară plăcut. După vizita la muzeu și un prânz consistent, autobuzul vă duce la plaja pustie din Paralia. Aerul proaspăt de iarnă de la malul mării este revigorant, iar autobuzul oferă un refugiu cald pentru drumul de întoarcere.",
+            "en": "Discover wintry Katerini comfortably using public transport. Heated buses make the journey between the center and the station pleasant. After the museum visit and a hearty lunch, the bus takes you to the wintry beach of Paralia. The crisp winter air by the sea is refreshing, and the bus provides a warm retreat for the early evening return trip."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Katerini Bus Station",
+              "tip_5lang": {
+                "de": "Im Inneren der Station gibt es einen kleinen Kiosk für warme Getränke.",
+                "hu": "Az állomás épületében van egy kis büfé meleg italokkal.",
+                "ro": "În interiorul gării există un chioșc cu băuturi calde.",
+                "en": "Inside the station, there is a small kiosk for hot drinks."
+              }
+            },
+            {
+              "name": "Eleftherias Square",
+              "tip_5lang": {
+                "de": "Die Haltestellen sind im Winter weniger überlaufen.",
+                "hu": "A megállók télen kevésbé zsúfoltak.",
+                "ro": "Stațiile sunt mai puțin aglomerate iarna.",
+                "en": "The bus stops are less crowded in winter."
+              }
+            },
+            {
+              "name": "Folklore Museum",
+              "tip_5lang": {
+                "de": "Ein schöner Ort, um sich zwischen zwei Busfahrten aufzuwärmen.",
+                "hu": "Jó helyszín a felmelegedéshez két buszozás között.",
+                "ro": "Un loc bun pentru încălzire între două călătorii cu autobuzul.",
+                "en": "A good place to warm up between two bus rides."
+              }
+            },
+            {
+              "name": "Lunch in the city",
+              "tip_5lang": {
+                "de": "Genießen Sie die Wärme der lokalen Gasthäuser.",
+                "hu": "Élvezze a helyi vendéglők melegét.",
+                "ro": "Bucurați-vă de căldura localurilor din oraș.",
+                "en": "Enjoy the warmth of the local restaurants."
+              }
+            },
+            {
+              "name": "Bus to Paralia Katerinis",
+              "tip_5lang": {
+                "de": "Achten Sie auf den Winterfahrplan, manche Abendfahrten entfallen.",
+                "hu": "Figyeljen a téli menetrendre, néhány esti járat elmaradhat.",
+                "ro": "Atenție la orarul de iarnă, unele curse de seară pot fi anulate.",
+                "en": "Check the winter schedule; some evening trips might be cancelled."
+              }
+            },
+            {
+              "name": "Walk on the promenade & coffee",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Café mit Kamin oder guter Heizung.",
+                "hu": "Válasszon kandallós vagy jól fűtött kávézót.",
+                "ro": "Alegeți o cafenea cu șemineu sau bine încălzită.",
+                "en": "Choose a cafe with a fireplace or good heating."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Busse sind im Winter gut geheizt.",
+              "In Paralia haben im Winter nur wenige Cafés geöffnet, suchen Sie nach den bewohnten Ecken.",
+              "Die Sonne geht früh unter, die letzte Busfahrt sollte nicht zu spät sein.",
+              "Tickets können oft im Bus oder an Kiosken gekauft werden.",
+              "Warme Kleidung für die Wartezeiten an den Haltestellen ist wichtig."
+            ],
+            "hu": [
+              "A buszok télen jól fűtöttek.",
+              "Paralián télen csak kevés kávézó van nyitva, keresse a lakottabb részeket.",
+              "A nap korán nyugszik, az utolsó buszt ne hagyja későre.",
+              "Jegyeket gyakran a buszon vagy újságosnál lehet venni.",
+              "A megállóban való várakozáshoz fontos a meleg ruha."
+            ],
+            "ro": [
+              "Autobuzele sunt bine încălzite iarna.",
+              "În Paralia puține cafenele sunt deschise iarna, căutați zonele locuite.",
+              "Soarele apune devreme, nu lăsați ultima cursă de autobuz prea târziu.",
+              "Biletele pot fi cumpărate adesea din autobuz sau de la chioșcuri.",
+              "Hainele groase sunt esențiale pentru timpii de așteptare în stații."
+            ],
+            "en": [
+              "Buses are well-heated during the winter months.",
+              "Only a few cafes stay open in Paralia in winter; look for the livelier spots.",
+              "The sun sets early; don't plan your return bus too late.",
+              "Tickets can often be bought on the bus or at nearby kiosks.",
+              "Warm clothing is essential for the waiting times at bus stops."
+            ]
+          }
+        }
       }
     }
   }

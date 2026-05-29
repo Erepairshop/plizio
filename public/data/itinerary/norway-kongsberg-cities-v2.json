@@ -366,6 +366,188 @@
           "The walk to Kronene i Håvet is steep but short.",
           "A rain jacket is always a good idea in Norway, even on sunny days."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag in Kongsberg beginnt in der prachtvollen Barockkirche, einem sicheren Zufluchtsort vor dem Wetter. Danach bietet das Bergbaumuseum stundenlangen, faszinierenden Schutz in seinen Hallen. Nach einem gemütlichen Mittagessen im Zentrum bewundern wir den Lågfossen, der bei Regen besonders imposant wirkt. Wir beenden den Tag in Funkelia, wo die Pfade zwar nass, aber stimmungsvoll sind.",
+            "hu": "Az esős Kongsbergben a napot a lenyűgöző barokk templom belső terében kezdjük, ahol védve vagyunk az elemektől. A Bányászati Múzeum kiváló beltéri program, órákra el lehet merülni a kincsek között. Az ebéd utáni Lågfossen-vízesés esőben még erőteljesebb látványt nyújt. A napot Funkelia környékén zárjuk, ahol a párás levegő különleges hangulatot ad az erdőnek.",
+            "ro": "O zi ploioasă în Kongsberg începe în interiorul splendid al bisericii baroce, un refugiu perfect. Muzeul Minier oferă apoi ore de explorare la adăpost, prezentând istoria argintului. După un prânz cald în centru, cascada Lågfossen devine și mai spectaculoasă sub cerul gri. Încheiem ziua la Funkelia, unde traseele umede prin pădure au un farmec mistic.",
+            "en": "A rainy day in Kongsberg starts inside the grand Baroque church, providing a dry sanctuary. The Mining Museum follows as a perfect indoor retreat, offering hours of historical discovery. After a cozy lunch, the Lågfossen waterfall appears even more powerful in the rain. We finish at Funkelia, where the misty atmosphere adds a unique touch to the walking paths."
+          },
+          "stops": [
+            {
+              "name": "Kongsberg Church",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Barockorgel, während Sie draußen dem Regen lauschen.",
+                "hu": "Csodáld meg a barokk orgonát, miközben kint kopog az eső.",
+                "ro": "Admirați orga barocă în timp ce ascultați ploaia de afară.",
+                "en": "Admire the Baroque organ while staying completely dry inside."
+              }
+            },
+            {
+              "name": "Norwegian Mining Museum",
+              "tip_5lang": {
+                "de": "Idealer Ort, um zwei Stunden im Trockenen zu verbringen.",
+                "hu": "Ideális helyszín két óra száraz, tartalmas kikapcsolódáshoz.",
+                "ro": "Locul ideal pentru a petrece două ore la adăpost și căldură.",
+                "en": "The perfect spot to escape the rain for a good two hours."
+              }
+            },
+            {
+              "name": "Kronene i Håvet (Royal Monograms)",
+              "tip_5lang": {
+                "de": "Ein schneller Fotostopp; der Fels kann bei Nässe rutschig sein.",
+                "hu": "Gyors fotómegálló; a sziklafelület nedvesen csúszós lehet.",
+                "ro": "O oprire rapidă; stânca poate fi alunecoasă când este udă.",
+                "en": "A quick photo stop; the rock surface can be slippery when wet."
+              }
+            },
+            {
+              "name": "Lunch in the City Center",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Café mit Blick auf den Fluss Numedalslågen.",
+                "hu": "Válassz egy folyóra néző kávézót a hangulatos ebédhez.",
+                "ro": "Alegeți o cafenea cu vedere la râu pentru un prânz relaxant.",
+                "en": "Pick a cafe with a river view for a cozy rainy lunch."
+              }
+            },
+            {
+              "name": "Lågfossen Waterfall",
+              "tip_5lang": {
+                "de": "Die Gischt vermischt sich mit dem Regen; Vorsicht auf der Brücke.",
+                "hu": "A vízpermet keveredik az esővel; vigyázz a hídon a széllel.",
+                "ro": "Vaporii de apă se amestecă cu ploaia; atenție pe pod.",
+                "en": "The spray mixes with the rain; be careful on the windy bridge."
+              }
+            },
+            {
+              "name": "Funkelia",
+              "tip_5lang": {
+                "de": "Die asphaltierten Wege sind auch bei Regen gut begehbar.",
+                "hu": "Az aszfaltozott utak esőben is jól járhatóak maradnak.",
+                "ro": "Potecile asfaltate sunt ușor de parcurs chiar și pe ploaie.",
+                "en": "The paved paths remain easily walkable even during rainfall."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Wanderschuhe für die Wege am Fluss.",
+              "Nutzen Sie die Garderobe im Museum für nasse Mäntel.",
+              "Die meisten Sehenswürdigkeiten im Zentrum liegen nah beieinander.",
+              "Regenschirme sind bei Wind am Wasserfall unpraktisch, wählen Sie Regenjacken."
+            ],
+            "hu": [
+              "Viselj vízálló cipőt a folyóparti sétákhoz.",
+              "Használd a múzeum ruhatárát a vizes kabátoknak.",
+              "A központi látnivalók közel vannak, így keveset kell ázni.",
+              "Esernyő helyett esőkabát ajánlott a vízesésnél a szél miatt."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru plimbările pe malul râului.",
+              "Folosiți garderoba muzeului pentru hainele umede.",
+              "Atracțiile centrale sunt aproape una de alta, minimizând expunerea.",
+              "Pelerinele sunt mai bune decât umbrelele lângă cascadă din cauza vântului."
+            ],
+            "en": [
+              "Wear waterproof walking shoes for the riverside sections.",
+              "Use the museum's cloakroom to store wet jackets while visiting.",
+              "Central attractions are close together, reducing time spent in the rain.",
+              "Raincoats are preferred over umbrellas near the windy waterfall."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Kongsberg im Winter ist ein verschneites Märchen. Die Tour beginnt in der beheizten Kirche, gefolgt von der warmen Atmosphäre des Bergbaumuseums. Mittags genießen wir die nordische Küche, bevor wir den teilweise gefrorenen Lågfossen-Wasserfall besuchen. Der Tag endet im Skigebiet Funkelia, wo die Lichter der Pisten eine magische Abendstimmung erzeugen, bevor die Dunkelheit früh einbricht.",
+            "hu": "A téli Kongsberg igazi skandináv mesevilág. A túra a fűtött templomban indul, majd a Bányászati Múzeum melegében folytatódik. Ebéd után megnézzük a részben befagyott Lågfossen-vízesést, ami jégcsapokkal díszítve lenyűgöző. A napot Funkelia sípályáin zárjuk, ahol a reflektorok fénye világítja meg a havas tájat a korai naplemente után.",
+            "ro": "Kongsberg iarna este un basm scandinav înzăpezit. Turul începe în biserica încălzită, urmată de atmosfera primitoare a Muzeului Minier. După prânz, vizităm cascada Lågfossen, parțial înghețată și plină de țurțuri. Ziua se încheie la pârtiile din Funkelia, unde luminile nocturne creează o atmosferă magică după apusul care vine foarte devreme.",
+            "en": "Kongsberg in winter is a snowy Nordic dream. We start in the heated comfort of the church, then move to the cozy Mining Museum. After a hearty lunch, we visit the partially frozen Lågfossen waterfall, adorned with ice. The day concludes at Funkelia's ski slopes, where floodlights illuminate the snow after the early winter sunset."
+          },
+          "stops": [
+            {
+              "name": "Kongsberg Church",
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille und Wärme in diesem barocken Juwel.",
+                "hu": "Élvezd a csendet és a meleget ebben a barokk ékszerdobozban.",
+                "ro": "Bucurați-vă de liniștea și căldura din această bijuterie barocă.",
+                "en": "Enjoy the peaceful silence and warmth inside this baroque gem."
+              }
+            },
+            {
+              "name": "Norwegian Mining Museum",
+              "tip_5lang": {
+                "de": "Perfekt, um sich zwischen den Spaziergängen aufzuwärmen.",
+                "hu": "Tökéletes hely a felmelegedésre két városi séta között.",
+                "ro": "Locul perfect pentru a vă încălzi între plimbările prin oraș.",
+                "en": "The perfect place to warm up between outdoor walks."
+              }
+            },
+            {
+              "name": "Kronene i Håvet (Royal Monograms)",
+              "tip_5lang": {
+                "de": "Die Monogramme im Schnee sind ein tolles Fotomotiv.",
+                "hu": "A hóval borított királyi monogramok remek fotótémát adnak.",
+                "ro": "Monogramele regale acoperite de zăpadă sunt un subiect foto excelent.",
+                "en": "The royal monograms covered in snow make for a great photo."
+              }
+            },
+            {
+              "name": "Lunch in the City Center",
+              "tip_5lang": {
+                "de": "Probieren Sie eine heiße norwegische Suppe zur Stärkung.",
+                "hu": "Kóstolj meg egy forró norvég levest az energiafogyasztáshoz.",
+                "ro": "Încercați o supă norvegiană fierbinte pentru a vă recăpăta energia.",
+                "en": "Try a hot Norwegian soup to boost your energy levels."
+              }
+            },
+            {
+              "name": "Lågfossen Waterfall",
+              "tip_5lang": {
+                "de": "Die Eisskulpturen am Rand sind im Winter spektakulär.",
+                "hu": "A part menti jégszobrok télen egészen látványosak.",
+                "ro": "Sculpturile de gheață de pe margini sunt spectaculoase iarna.",
+                "en": "The ice sculptures along the edges are spectacular in winter."
+              }
+            },
+            {
+              "name": "Funkelia",
+              "tip_5lang": {
+                "de": "Bringen Sie Schlitten mit oder beobachten Sie die Skifahrer.",
+                "hu": "Hozz magaddal szánkót, vagy csak figyeld a síelőket.",
+                "ro": "Aduceți o sanie sau pur și simplu urmăriți schiorii.",
+                "en": "Bring a sled or just enjoy watching the skiers on the slopes."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Wollschichten und Thermounterwäsche.",
+              "Die Sonne geht im Dezember bereits gegen 15:30 Uhr unter.",
+              "Achten Sie auf vereiste Gehwege in der Nähe des Flusses.",
+              "Kleine Taschenwärmer sind für den Aufenthalt im Freien ideal."
+            ],
+            "hu": [
+              "Viselj gyapjú rétegeket és hőtartó aláöltözetet.",
+              "A nap már 15:30 körül lemegy decemberben.",
+              "Vigyázz a jeges járdákra a folyó közelében.",
+              "A zsebmelegítők ideálisak a szabadtéri várakozáshoz."
+            ],
+            "ro": [
+              "Purtați haine din lână și lenjerie termică.",
+              "Soarele apune deja în jurul orei 15:30 în decembrie.",
+              "Atenție la trotuarele înghețate din apropierea râului.",
+              "Încălzitoarele de buzunar sunt ideale pentru timpul petrecut afară."
+            ],
+            "en": [
+              "Wear wool layers and thermal underwear for insulation.",
+              "The sun sets as early as 3:30 PM in December.",
+              "Watch out for icy patches on pavements near the river.",
+              "Hand warmers are great for the outdoor sections of the trip."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -750,6 +932,206 @@
           "Bring a warm jacket for the mine tour, as it's cold down there.",
           "Use a GPS app for navigating the country roads."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Kongsberg auch bei Regen bequem zu erkunden. Wir starten bei den Labromuseen und fahren dann zum Lågfossen. Das Parken im Zentrum ermöglicht einen trockenen Zugang zur Kirche und zum Bergbaumuseum. Der Höhepunkt ist die Fahrt zu den Silberminen, wo die Tour unter Tage wetterunabhängig ist. Wir beenden den Tag bei den Kronene i Håvet, gut geschützt durch kurze Wege.",
+            "hu": "Autóval az esős Kongsberg is kényelmesen felfedezhető. A Labromuseene után a Lågfossenhez hajtunk, majd a belvárosban parkolva keressük fel a templomot és a múzeumot. A nap fénypontja az ezüstbányák meglátogatása, ahol a föld alatti túra teljesen független az időjárástól. Rövid sétákkal nézzük meg a királyi monogramokat a nap végén.",
+            "ro": "Cu mașina, Kongsberg poate fi explorat confortabil chiar și pe ploaie. Începem la Labromuseene, apoi mergem la Lågfossen. Parcarea în centru permite accesul rapid la biserică și muzeu. Punctul culminant este vizita la minele de argint, unde turul subteran nu depinde de vreme. Încheiem ziua la Kronene i Håvet, minimizând timpul petrecut în ploaie.",
+            "en": "Exploring Kongsberg by car is convenient even during heavy rain. We start at Labromuseene and drive to Lågfossen. Parking in the center provides easy access to the church and Mining Museum. The highlight is the drive to the Silver Mines, where the underground tour is unaffected by the weather. We finish at Kronene i Håvet with minimal outdoor exposure."
+          },
+          "stops": [
+            {
+              "name": "Park and Start at Labromuseene",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz direkt vor dem Museumseingang.",
+                "hu": "Használd a közvetlenül a múzeumi bejárat előtti parkolót.",
+                "ro": "Folosiți parcarea situată direct în fața intrării muzeului.",
+                "en": "Use the parking lot located directly in front of the museum."
+              }
+            },
+            {
+              "name": "Lågfossen Waterfall",
+              "tip_5lang": {
+                "de": "Vom Auto aus hat man einen guten Blick, falls es stark regnet.",
+                "hu": "A kocsiból is jó a rálátás, ha éppen nagyon szakadna az eső.",
+                "ro": "Aveți o vedere bună din mașină dacă plouă foarte tare.",
+                "en": "You can get a good view from the car if it's raining heavily."
+              }
+            },
+            {
+              "name": "Drive and Park in City Center",
+              "tip_5lang": {
+                "de": "Das Parkhaus im Zentrum bietet trockenen Zugang zu Geschäften.",
+                "hu": "A belvárosi parkolóház száraz utat biztosít az üzletekhez.",
+                "ro": "Parcarea supraetajată din centru oferă acces uscat la magazine.",
+                "en": "The central parking garage offers dry access to nearby shops."
+              }
+            },
+            {
+              "name": "Kongsberg Church",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Parkplatz; Schirm nicht vergessen.",
+                "hu": "Rövid séta a parkolótól; ne felejtsd bent az esernyőt.",
+                "ro": "Scurtă plimbare de la parcare; nu uitați umbrela în mașină.",
+                "en": "Short walk from the parking area; don't forget your umbrella."
+              }
+            },
+            {
+              "name": "Norwegian Mining Museum",
+              "tip_5lang": {
+                "de": "Perfekt für eine lange Pause vom Fahren im Regen.",
+                "hu": "Tökéletes helyszín egy hosszú szünetre az esős vezetés után.",
+                "ro": "Locul perfect pentru o pauză lungă de la condusul prin ploaie.",
+                "en": "A perfect spot for a long break from driving in the rain."
+              }
+            },
+            {
+              "name": "Drive to the Silver Mines",
+              "tip_5lang": {
+                "de": "Die schmale Straße zu den Minen erfordert bei Regen Vorsicht.",
+                "hu": "A bányákhoz vezető keskeny út esőben óvatosságot igényel.",
+                "ro": "Drumul îngust spre mine necesită prudență sporită pe ploaie.",
+                "en": "The narrow road to the mines requires extra care in the rain."
+              }
+            },
+            {
+              "name": "Kronene i Håvet",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Denkmal für einen schnellen Blick.",
+                "hu": "Parkolj közel az emlékműhöz a gyors megtekintés érdekében.",
+                "ro": "Parcați aproape de monument pentru o vizită rapidă.",
+                "en": "Park close to the monument for a quick look between drops."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf der Straße zu den Silberminen.",
+              "Nutzen Sie überdachte Parkhäuser im Stadtzentrum.",
+              "Halten Sie für die Wasserfall-Besichtigung Regenjacken griffbereit.",
+              "Die Silberminen-Tour startet pünktlich, planen Sie Puffer für den Verkehr ein."
+            ],
+            "hu": [
+              "Vigyázz a felfutó vízre az ezüstbányák felé vezető úton.",
+              "Használd a fedett parkolóházakat a városközpontban.",
+              "Készítsd elő az esőkabátokat a vízesés megtekintéséhez.",
+              "A bányatúra pontosan indul, számolj az eső miatti lassabb forgalommal."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumul spre minele de argint.",
+              "Utilizați parcările acoperite din centrul orașului.",
+              "Aveți pelerinele la îndemână pentru vizitarea cascadei.",
+              "Turul minei începe fix, lăsați timp pentru traficul încetinit de ploaie."
+            ],
+            "en": [
+              "Watch out for aquaplaning on the road to the silver mines.",
+              "Use covered parking garages in the city center to stay dry.",
+              "Keep your rain jackets handy for the waterfall viewing.",
+              "The mine tour starts on time; allow extra time for rainy traffic."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Autofahrt durch Kongsberg zeigt die Stadt in strahlendem Weiß. Wir besuchen Labromuseene und bewundern den eisigen Lågfossen. Nach dem Parken im Zentrum wärmen wir uns in der Kirche und im Museum auf. Die Fahrt zu den Silberminen ist bei Schnee besonders malerisch, erfordert aber gute Winterreifen. Wir beenden den Tag bei den Kronene i Håvet, bevor die winterliche Dunkelheit das Fahren anspruchsvoller macht.",
+            "hu": "A téli autós túra Kongsbergben ragyogó fehér tájakon vezet keresztül. Ellátogatunk a Labromuseenébe, majd megcsodáljuk a jeges Lågfossent. A központban parkolva a templom és a múzeum melegében pihenünk. Az ezüstbányákhoz vezető út hóban festői, de jó téli gumikat igényel. A napot a királyi monogramoknál zárjuk, mielőtt a téli sötétség leszállna.",
+            "ro": "O călătorie cu mașina prin Kongsberg iarna dezvăluie peisaje albe uluitoare. Vizităm Labromuseene și admirăm cascada Lågfossen înghețată. După parcarea în centru, ne încălzim în biserică și la muzeu. Drumul spre minele de argint este pitoresc prin zăpadă, dar necesită anvelope de iarnă bune. Încheiem la Kronene i Håvet înainte ca întunericul să facă condusul dificil.",
+            "en": "A winter drive through Kongsberg showcases the city in brilliant white. We visit Labromuseene and admire the icy Lågfossen. After parking centrally, we warm up in the church and museum. The drive to the Silver Mines is picturesque in the snow but requires good winter tires. We finish at Kronene i Håvet before the winter darkness sets in."
+          },
+          "stops": [
+            {
+              "name": "Park and Start at Labromuseene",
+              "tip_5lang": {
+                "de": "Vorsicht beim Einparken, die Parkplätze können vereist sein.",
+                "hu": "Vigyázz a parkolásnál, a helyek jegesek lehetnek.",
+                "ro": "Atenție la parcare, locurile pot fi înghețate.",
+                "en": "Be careful when parking, as spots can be very icy."
+              }
+            },
+            {
+              "name": "Lågfossen Waterfall",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist oft geräumt, aber der Weg zum Fluss ist glatt.",
+                "hu": "A parkolót gyakran takarítják, de a folyóhoz vezető út csúszik.",
+                "ro": "Parcarea este deszăpezită, dar drumul spre râu este alunecos.",
+                "en": "The lot is usually cleared, but the path to the river is slippery."
+              }
+            },
+            {
+              "name": "Drive and Park in City Center",
+              "tip_5lang": {
+                "de": "Beheizte Parkhäuser verhindern das Einfrieren der Scheiben.",
+                "hu": "A fűtött parkolóházak megvédik a szélvédőt a lefagyástól.",
+                "ro": "Parcările încălzite previn înghețarea parbrizului.",
+                "en": "Heated parking garages prevent your windshield from icing up."
+              }
+            },
+            {
+              "name": "Kongsberg Church",
+              "tip_5lang": {
+                "de": "Genießen Sie den Kontrast zwischen Kälte draußen und Wärme drinnen.",
+                "hu": "Élvezd a kinti hideg és a benti meleg közötti kontrasztot.",
+                "ro": "Bucurați-vă de contrastul dintre frigul de afară și căldura din interior.",
+                "en": "Enjoy the contrast between the cold outside and the warmth inside."
+              }
+            },
+            {
+              "name": "Norwegian Mining Museum",
+              "tip_5lang": {
+                "de": "Ein guter Ort, um die Batterien Ihres Elektroautos aufzuladen.",
+                "hu": "Jó hely az elektromos autó akkumulátorának töltésére.",
+                "ro": "Un loc bun pentru a încărca bateria mașinii electrice.",
+                "en": "A good place to recharge your electric vehicle's battery."
+              }
+            },
+            {
+              "name": "Drive to the Silver Mines",
+              "tip_5lang": {
+                "de": "Winterreifen mit Spikes sind für diese Bergstrecke ratsam.",
+                "hu": "A szöges gumi ajánlott erre a hegyi szakaszra télen.",
+                "ro": "Anvelopele cu ținte sunt recomandate pentru această secțiune montană.",
+                "en": "Studded tires are recommended for this mountain stretch in winter."
+              }
+            },
+            {
+              "name": "Kronene i Håvet",
+              "tip_5lang": {
+                "de": "Das Licht der Autoscheinwerfer beleuchtet die Felsen schön.",
+                "hu": "Az autó fényszórói szépen megvilágítják a sziklákat sötétben.",
+                "ro": "Farurile mașinii luminează frumos stâncile după lăsarea serii.",
+                "en": "Your car's headlights will illuminate the rocks beautifully at dusk."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Ihr Wischwasser frostgeschützt ist.",
+              "Fahren Sie vorsichtig auf der schattigen Straße zu den Minen.",
+              "Planen Sie mehr Zeit für die Parkplatzsuche bei Schnee ein.",
+              "Halten Sie einen Eiskratzer und einen kleinen Besen bereit."
+            ],
+            "hu": [
+              "Ellenőrizd a fagyálló szélvédőmosó folyadékot.",
+              "Vezess óvatosan az árnyékos utakon a bányák felé.",
+              "Számolj több idővel a parkolásra nagy hó esetén.",
+              "Legyen nálad jégkaparó és egy kis kefe a hóeltakarításhoz."
+            ],
+            "ro": [
+              "Asigurați-vă că lichidul de parbriz este rezistent la îngheț.",
+              "Conduceți cu atenție pe drumul umbrit spre mine.",
+              "Rezervați mai mult timp pentru parcare în caz de zăpadă mare.",
+              "Aveți la îndemână o racletă și o perie mică pentru zăpadă."
+            ],
+            "en": [
+              "Ensure your windshield washer fluid is rated for deep frost.",
+              "Drive cautiously on the shaded road leading to the mines.",
+              "Allow extra time for parking if there is fresh snowfall.",
+              "Keep an ice scraper and a small snow brush ready in the car."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -1110,6 +1492,188 @@
           "Check the weather forecast and dress in layers.",
           "Most paths are well-maintained, but be prepared for some gravel sections."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren in Kongsberg bei Regen erfordert gute Ausrüstung, bietet aber leere Wege. Wir starten im Technologiepark und radeln zur Kirche und zum Bergbaumuseum für längere Trockenphasen. Nach dem Mittagessen führt die Fahrt zum Lågfossen, wo der Regen die Kraft des Wassers unterstreicht. Wir besuchen Labromuseene und kehren über die nassen, aber sicheren Radwege ins Zentrum zurück.",
+            "hu": "Az esős Kongsbergben a kerékpározás jó felszerelést igényel, de csendes utakat kínál. A technológiai parkból indulva a templom és a múzeum kínál menedéket. Ebéd után a Lågfossenhez tekerünk, ahol az eső még vadabbá teszi a folyót. Érintjük a Labromuseenét, majd a vizes, de biztonságos kerékpárutakon térünk vissza a központba.",
+            "ro": "Mersul pe bicicletă în Kongsberg pe ploaie necesită echipament bun, dar oferă trasee libere. Pornim din parcul tehnologic spre biserică și muzeu pentru pauze uscate lungi. După prânz, pedalăm spre Lågfossen, unde ploaia accentuează forța apei. Vizităm Labromuseene și ne întoarcem în centru pe pistele ude, dar sigure.",
+            "en": "Cycling in Kongsberg in the rain requires good gear but offers quiet paths. We start at the Technology Park and ride to the church and Mining Museum for long dry spells. After lunch, we bike to Lågfossen, where the rain enhances the river's power. We visit Labromuseene and return to the center via wet but safe cycling lanes."
+          },
+          "stops": [
+            {
+              "name": "Start at the Technology Park",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen; nasse Straßen verlängern den Bremsweg.",
+                "hu": "Ellenőrizd a fékeket; a vizes út megnöveli a féktávot.",
+                "ro": "Verificați frânele; carosabilul umed mărește distanța de frânare.",
+                "en": "Check your brakes; wet roads increase stopping distance."
+              }
+            },
+            {
+              "name": "Kongsberg Church",
+              "tip_5lang": {
+                "de": "Überdachte Fahrradständer befinden sich in der Nähe.",
+                "hu": "Fedett kerékpártárolók találhatóak a közelben.",
+                "ro": "Suporturile de biciclete acoperite se află în apropiere.",
+                "en": "Covered bicycle racks can be found nearby."
+              }
+            },
+            {
+              "name": "Norwegian Mining Museum",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Regenkleidung kurz zu lüften.",
+                "hu": "Ideális hely az esőruházat rövid szellőztetésére.",
+                "ro": "Un loc ideal pentru a vă aerisi scurt echipamentul de ploaie.",
+                "en": "An ideal place to let your rain gear air out for a bit."
+              }
+            },
+            {
+              "name": "Lunch and ride to Lågfossen",
+              "tip_5lang": {
+                "de": "Vorsicht vor rutschigen Markierungen auf der Fahrbahn.",
+                "hu": "Vigyázz a csúszós útburkolati jelekre a kanyarokban.",
+                "ro": "Atenție la marcajele rutiere alunecoase în viraje.",
+                "en": "Watch out for slippery road markings when turning."
+              }
+            },
+            {
+              "name": "Labromuseene",
+              "tip_5lang": {
+                "de": "Der Weg hierher ist flach und auch bei Regen gut zu fahren.",
+                "hu": "Az idevezető út sík és esőben is jól tekerhető.",
+                "ro": "Drumul până aici este plat și ușor de parcurs pe ploaie.",
+                "en": "The path here is flat and stays manageable in the rain."
+              }
+            },
+            {
+              "name": "Ride back to the center",
+              "tip_5lang": {
+                "de": "Nutzen Sie Schutzbleche, um trocken zu bleiben.",
+                "hu": "Használj sárvédőt, hogy ne verje fel a vizet a kerék.",
+                "ro": "Folosiți aripi de protecție pentru a rămâne cât mai uscat.",
+                "en": "Make sure your bike has fenders to keep you dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine vollflächige Regenmontur inklusive Überschuhen.",
+              "Vermeiden Sie plötzliches Bremsen auf nassem Kopfsteinpflaster.",
+              "Nutzen Sie helle Lichter, da die Sicht bei Regen eingeschränkt ist.",
+              "Wischen Sie den Sattel vor der Weiterfahrt immer trocken."
+            ],
+            "hu": [
+              "Viselj teljes esőruházatot, beleértve a cipővédőt is.",
+              "Kerüld a hirtelen fékezést a vizes macskakövön.",
+              "Használj erős lámpákat, mert esőben rosszabb a láthatóság.",
+              "Mindig töröld szárazra a nyerget indulás előtt."
+            ],
+            "ro": [
+              "Purtați echipament complet de ploaie, inclusiv protecții pentru pantofi.",
+              "Evitați frânarea bruscă pe pavajul umed.",
+              "Folosiți lumini puternice, vizibilitatea este redusă pe ploaie.",
+              "Ștergeți întotdeauna șaua înainte de a pleca din nou."
+            ],
+            "en": [
+              "Wear a full rain suit including waterproof shoe covers.",
+              "Avoid sudden braking on wet cobblestones in the center.",
+              "Use bright lights as visibility is significantly lower in rain.",
+              "Always wipe your saddle dry before resuming your ride."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winter-Radfahren in Kongsberg ist ein Abenteuer für Mutige auf geräumten Wegen. Wir starten im Technologiepark und erreichen schnell die Wärme der Barockkirche und des Bergbaumuseums. Mittags führt die frostige Fahrt zum Lågfossen, wo das Eis die Brücken schmückt. Nach dem Besuch der Labromuseen radeln wir bei einsetzender Dämmerung und funkelndem Schnee zurück ins Stadtzentrum.",
+            "hu": "A téli kerékpározás Kongsbergben kalandvágyóknak való a takarított utakon. A technológiai parkból indulva gyorsan elérjük a templom és a múzeum melegét. Délben a fagyos úton a Lågfossenhez tekerünk, ahol a jég díszíti a hidakat. A Labromuseene után a szikrázó hóban és a korai szürkületben térünk vissza a városközpontba.",
+            "ro": "Mersul pe bicicletă iarna în Kongsberg este o aventură pe trasee deszăpezite. Pornim din parcul tehnologic și ajungem rapid la căldura bisericii și a muzeului. La prânz, drumul înghețat ne duce la Lågfossen, unde gheața decorează podurile. După Labromuseene, pedalăm înapoi spre centru prin zăpada sclipitoare și amurgul timpuriu.",
+            "en": "Winter cycling in Kongsberg is an adventure for the brave on cleared paths. We start at the Technology Park and quickly reach the warmth of the church and Mining Museum. At noon, the frosty ride leads to Lågfossen, where ice decorates the bridges. After Labromuseene, we bike back to the center through sparkling snow and early dusk."
+          },
+          "stops": [
+            {
+              "name": "Start at the Technology Park",
+              "tip_5lang": {
+                "de": "Spikereifen sind auf vereisten Radwegen unerlässlich.",
+                "hu": "A szöges gumi elengedhetetlen a jeges kerékpárutakon.",
+                "ro": "Anvelopele cu ținte sunt esențiale pe pistele înghețate.",
+                "en": "Studded tires are essential on icy cycling paths."
+              }
+            },
+            {
+              "name": "Kongsberg Church",
+              "tip_5lang": {
+                "de": "Vorsicht beim Absteigen, der Boden vor der Kirche ist glatt.",
+                "hu": "Vigyázz a leszállásnál, a templom előtti tér csúszós lehet.",
+                "ro": "Atenție la coborâre, zona din fața bisericii poate fi alunecoasă.",
+                "en": "Be careful when dismounting; the area in front of the church is slippery."
+              }
+            },
+            {
+              "name": "Norwegian Mining Museum",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an einem gut sichtbaren Ort.",
+                "hu": "Parkold a biciklit jól látható helyen a hókotrók miatt.",
+                "ro": "Parcați bicicleta într-un loc vizibil pentru utilajele de deszăpezire.",
+                "en": "Park your bike in a visible spot to avoid snow clearing equipment."
+              }
+            },
+            {
+              "name": "Lunch and ride to Lågfossen",
+              "tip_5lang": {
+                "de": "Tragen Sie warme Handschuhe, um das Bremsgefühl zu behalten.",
+                "hu": "Viselj meleg kesztyűt, hogy ne zsibbadjanak el az ujjaid a féken.",
+                "ro": "Purtați mănuși groase pentru a menține controlul frânelor.",
+                "en": "Wear warm gloves to maintain feeling in your fingers for braking."
+              }
+            },
+            {
+              "name": "Labromuseene",
+              "tip_5lang": {
+                "de": "Die ländlichen Wege können mehr Schnee aufweisen.",
+                "hu": "A vidéki utakon több hóra és kevesebb takarításra számíts.",
+                "ro": "Drumurile rurale pot avea mai multă zăpadă depusă.",
+                "en": "Rural paths might have more snow accumulation than city roads."
+              }
+            },
+            {
+              "name": "Ride back to the center",
+              "tip_5lang": {
+                "de": "Achten Sie auf die frühe Dunkelheit und nutzen Sie Reflektoren.",
+                "hu": "Figyelj a korai sötétedésre és használj fényvisszaverőket.",
+                "ro": "Atenție la întunericul timpuriu, folosiți elemente reflectorizante.",
+                "en": "Be mindful of early darkness and use plenty of reflectors."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Verwenden Sie Winter-Fahrradreifen (Spikes) für maximale Haftung.",
+              "Halten Sie die Kette gut geölt, um Salzkorrosion zu vermeiden.",
+              "Tragen Sie eine winddichte Maske unter dem Helm.",
+              "Bremsen Sie frühzeitig und sanft auf Schneeuntergrund."
+            ],
+            "hu": [
+              "Használj szöges téli gumikat a maximális tapadásért.",
+              "Tartsd a láncot jól olajozottan a só korróziója ellen.",
+              "Viselj szélálló maszkot a bukósisak alatt.",
+              "Fékezz időben és finoman a havas útfelületen."
+            ],
+            "ro": [
+              "Folosiți anvelope de iarnă cu ținte pentru aderență maximă.",
+              "Mențineți lanțul bine uns pentru a preveni coroziunea de la sare.",
+              "Purtați o mască rezistentă la vânt sub cască.",
+              "Frânați din timp și ușor pe suprafețele cu zăpadă."
+            ],
+            "en": [
+              "Use winter-specific studded tires for maximum grip on ice.",
+              "Keep your chain well-lubricated to prevent salt corrosion.",
+              "Wear a windproof face mask under your helmet.",
+              "Brake early and gently on snowy or slushy surfaces."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1470,6 +2034,188 @@
           "Wave at the bus when you are waiting to signal the driver to stop.",
           "Be on time, buses often leave exactly on schedule."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Öffentliche Verkehrsmittel machen Kongsberg bei Regen sehr zugänglich. Wir starten am Bahnhof und nutzen den Bus zum Zentrum für die Kirche und das Museum. Mittags bringt uns der Bus bequem zu den Silberminen, wo die Tour unter Tage absolut trocken ist. Den Tag beenden wir mit einer kurzen Busfahrt zum Flussufer, um den Lågfossen ohne langes Gehen im Regen zu bewundern.",
+            "hu": "A tömegközlekedés esőben is könnyen elérhetővé teszi Kongsberg kincseit. A vasútállomástól busszal megyünk a központba, a templomhoz és a múzeumhoz. Ebéd után a busz egészen az ezüstbányákig visz, ahol a föld alatti túra száraz és meleg. A napot egy rövid buszos úttal zárjuk a folyópartra, hogy megcsodáljuk a vízesést.",
+            "ro": "Transportul public face Kongsberg foarte accesibil pe ploaie. Pornim de la gară cu autobuzul spre centru pentru biserică și muzeu. După prânz, autobuzul ne duce confortabil la minele de argint, unde turul subteran este perfect uscat. Încheiem ziua cu o scurtă călătorie cu autobuzul spre malul râului pentru a vedea cascada.",
+            "en": "Public transport makes Kongsberg very accessible during rain. We start at the station and take a bus to the center for the church and museum. After lunch, the bus conveniently takes us to the Silver Mines, where the underground tour is completely dry. We finish the day with a short bus ride back to the river to see the waterfall."
+          },
+          "stops": [
+            {
+              "name": "Start at station, bus to city center",
+              "tip_5lang": {
+                "de": "Der Bahnhof bietet einen trockenen Warteraum.",
+                "hu": "A vasútállomás váróterme száraz és fűtött.",
+                "ro": "Gara oferă o sală de așteptare uscată și primitoare.",
+                "en": "The station offers a dry and sheltered waiting area."
+              }
+            },
+            {
+              "name": "Kongsberg Church",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle liegt nur wenige Meter vom Kircheneingang entfernt.",
+                "hu": "A buszmegálló mindössze pár méterre van a templom bejáratától.",
+                "ro": "Stația de autobuz este la doar câțiva metri de intrarea în biserică.",
+                "en": "The bus stop is located just a few meters from the church entrance."
+              }
+            },
+            {
+              "name": "Norwegian Mining Museum",
+              "tip_5lang": {
+                "de": "Das Museum ist vom Marktplatz aus schnell zu erreichen.",
+                "hu": "A múzeum a piactérről gyorsan elérhető gyalog is.",
+                "ro": "Muzeul este ușor accesibil pe jos din piața centrală.",
+                "en": "The museum is quickly reachable on foot from the market square."
+              }
+            },
+            {
+              "name": "Lunch and bus to the Silver Mines",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Busfahrplan (Linie 401) vorab online.",
+                "hu": "Ellenőrizd a buszmenetrendet (401-es járat) előre online.",
+                "ro": "Verificați programul autobuzului (linia 401) online în prealabil.",
+                "en": "Check the bus schedule (line 401) online before heading out."
+              }
+            },
+            {
+              "name": "The Silver Mines",
+              "tip_5lang": {
+                "de": "Warten Sie im Besucherzentrum, falls der Bus Verspätung hat.",
+                "hu": "Várj a látogatóközpontban, ha késne a visszaút.",
+                "ro": "Așteptați în centrul pentru vizitatori dacă autobuzul întârzie.",
+                "en": "Wait inside the visitor center if the return bus is delayed."
+              }
+            },
+            {
+              "name": "Bus back and river walk",
+              "tip_5lang": {
+                "de": "Die Fahrt zurück zum Bahnhof bietet Ausblicke auf den Fluss.",
+                "hu": "A visszaút a vasútállomásra szép kilátást nyújt a folyóra.",
+                "ro": "Călătoria de întoarcere la gară oferă vederi frumoase spre râu.",
+                "en": "The ride back to the station offers great views of the river."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die 'Entur' App für Echtzeit-Busverbindungen.",
+              "Kaufen Sie Fahrkarten vorab mobil, um im Regen Zeit zu sparen.",
+              "Busse in Kongsberg sind pünktlich und gut beheizt.",
+              "An den Haltestellen gibt es oft kleine Unterstände."
+            ],
+            "hu": [
+              "Használd az 'Entur' alkalmazást a valós idejű buszinformációkért.",
+              "Vegyél jegyet mobilappon, hogy ne kelljen az esőben sorban állni.",
+              "A buszok Kongsbergben pontosak és jól fűtöttek.",
+              "A megállókban gyakran van kis fedett váróhely."
+            ],
+            "ro": [
+              "Folosiți aplicația 'Entur' pentru informații în timp real despre autobuz.",
+              "Cumpărați bilete prin aplicație pentru a economisi timp pe ploaie.",
+              "Autobuzele din Kongsberg sunt punctuale și bine încălzite.",
+              "Stațiile au adesea mici adăposturi pentru a vă feri de ploaie."
+            ],
+            "en": [
+              "Use the 'Entur' app for real-time bus schedules and tracking.",
+              "Buy your tickets via mobile app to save time waiting in the rain.",
+              "Buses in Kongsberg are punctual and comfortably heated.",
+              "Bus stops often feature small shelters to keep you dry."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Mit Bus und Bahn durch das winterliche Kongsberg zu reisen, ist entspannt und sicher. Vom Bahnhof fahren wir ins verschneite Zentrum zur Barockkirche und zum Bergbaumuseum. Der Bus zu den Silberminen bietet einen Panoramablick auf die verschneiten Wälder. Nach der Tour genießen wir die Fahrt zurück zum Fluss, wo die Uferlichter am Lågfossen in der frühen Dunkelheit wunderschön leuchten.",
+            "hu": "Busszal és vonattal közlekedni a téli Kongsbergben kényelmes és biztonságos választás. A vasútállomástól a havas központba utazunk a templomhoz és a múzeumhoz. Az ezüstbányák felé tartó busz panorámás kilátást nyújt a fenyvesekre. A túra után a folyóhoz térünk vissza, ahol a parti fények a korai sötétségben különleges hangulatot árasztanak.",
+            "ro": "Călătoria cu autobuzul și trenul prin Kongsbergul iernatic este relaxantă și sigură. De la gară mergem în centrul înzăpezit spre biserică și muzeu. Autobuzul spre minele de argint oferă o vedere panoramică asupra pădurilor de brazi. După tur, revenim la râu, unde luminile de pe mal strălucesc frumos în întunericul serii timpurii.",
+            "en": "Traveling by bus and train through wintery Kongsberg is relaxed and safe. From the station, we head to the snowy center for the church and Mining Museum. The bus to the Silver Mines offers a panoramic view of the snow-covered forests. After the tour, we enjoy the ride back to the river, where the lights glow beautifully in the early darkness."
+          },
+          "stops": [
+            {
+              "name": "Start at station, bus to city center",
+              "tip_5lang": {
+                "de": "Der Bahnhof ist ein warmer Hub für alle Anschlüsse.",
+                "hu": "A vasútállomás meleg központ az összes csatlakozáshoz.",
+                "ro": "Gara este un punct central călduros pentru toate conexiunile.",
+                "en": "The station is a warm hub for all transit connections."
+              }
+            },
+            {
+              "name": "Kongsberg Church",
+              "tip_5lang": {
+                "de": "Die Haltestelle wird im Winter regelmäßig geräumt.",
+                "hu": "A megállót télen rendszeresen takarítják a hótól.",
+                "ro": "Stația este deszăpezită regulat în timpul iernii.",
+                "en": "The bus stop is regularly cleared of snow during winter."
+              }
+            },
+            {
+              "name": "Norwegian Mining Museum",
+              "tip_5lang": {
+                "de": "Nur ein kurzer, sicherer Spaziergang von der Bushaltestelle.",
+                "hu": "Csak egy rövid, biztonságos séta a buszmegállótól.",
+                "ro": "Doar o scurtă plimbare sigură de la stația de autobuz.",
+                "en": "Just a short, safe walk from the nearest bus stop."
+              }
+            },
+            {
+              "name": "Lunch and bus to the Silver Mines",
+              "tip_5lang": {
+                "de": "Der Bus ist gut geheizt und bietet Schutz vor der Kälte.",
+                "hu": "A busz jól fűtött, védelmet nyújt a kinti hideg ellen.",
+                "ro": "Autobuzul este bine încălzit, oferind protecție contra frigului.",
+                "en": "The bus is well-heated and provides a break from the cold."
+              }
+            },
+            {
+              "name": "The Silver Mines",
+              "tip_5lang": {
+                "de": "Achten Sie auf die reduzierten Fahrpläne am Wochenende.",
+                "hu": "Figyelj a hétvégi ritkább menetrendre télen.",
+                "ro": "Atenție la orarul redus de weekend în timpul iernii.",
+                "en": "Be mindful of reduced transit schedules on winter weekends."
+              }
+            },
+            {
+              "name": "Bus back and river walk",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die beleuchtete Brücke.",
+                "hu": "Élvezd a kilátást a kivilágított hídra a buszból.",
+                "ro": "Bucurați-vă de vederea podului iluminat din autobuz.",
+                "en": "Enjoy the view of the illuminated bridge from the bus window."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Rechnen Sie bei starkem Schneefall mit leichten Verspätungen.",
+              "Warten Sie in den beheizten Innenbereichen der Bahnhöfe.",
+              "Die Busse haben im Winter gute Traktion durch Spezialreifen.",
+              "Verwenden Sie Reflektoren an Ihrer Kleidung beim Warten."
+            ],
+            "hu": [
+              "Erős havazás esetén számolj kisebb késésekkel.",
+              "Várj a vasútállomás fűtött belső tereiben.",
+              "A buszok télen speciális gumikkal közlekednek a biztonságért.",
+              "Használj fényvisszaverőt a ruhádon várakozás közben."
+            ],
+            "ro": [
+              "În caz de ninsoare abundentă, pot apărea mici întârzieri.",
+              "Așteptați în zonele interioare încălzite ale gărilor.",
+              "Autobuzele au aderență bună iarna datorită anvelopelor speciale.",
+              "Folosiți elemente reflectorizante pe haine în timp ce așteptați."
+            ],
+            "en": [
+              "Expect slight delays during periods of heavy snowfall.",
+              "Wait inside the heated station buildings whenever possible.",
+              "Local buses use special winter tires for better traction.",
+              "Wear reflectors on your clothing while waiting at stops."
+            ]
+          }
+        }
       }
     }
   }

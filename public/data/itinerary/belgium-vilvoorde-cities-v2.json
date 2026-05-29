@@ -304,6 +304,188 @@
           "Check the opening times of the church as they can vary.",
           "Some cafes along the canal offer nice views."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag an der Statue des Brabanter Zugpferds, bevor Sie in der Liebfrauenkirche Schutz suchen. Die gotische Architektur bietet eine trockene Kulisse für den Vormittag. Mittags lockt das Kulturzentrum Het Bolwerk mit Ausstellungen und einem Café, ideal um den Schauern zu entgehen. Den Nachmittag verbringen Sie in der Kruitfabriek, einem lebendigen Industriedenkmal mit vielen Innenräumen. Der Tag endet mit einem kurzen, erfrischenden Blick auf den Kanal unter dem Regenschirm.",
+            "hu": "A napot a brabanti igásló szobránál kezdjük, majd gyorsan behúzódunk a Miasszonyunk-templom gótikus falai közé az eső elől. Délben a Het Bolwerk kulturális központ kínál menedéket és helyi programokat. A délutánt a De Kruitfabriek ipari csarnokaiban töltjük, ahol a kreatív terek és kiállítások fedél alatt maradnak. Az esti órákban a csatornapart szürke, de hangulatos látványa zárja a kört, mielőtt egy közeli brasserie-be menekülnénk.",
+            "ro": "Începeți ziua la statuia Calului de tracțiune brabantin, apoi refugiați-vă în Biserica Maicii Domnului. Interiorul gotic oferă un adăpost liniștit împotriva ploii de dimineață. La prânz, centrul cultural Het Bolwerk este locul ideal pentru a rămâne la adăpost. După-amiaza este dedicată De Kruitfabriek, o fostă fabrică de praf de pușcă transformată în spațiu creativ acoperit. Seara, o scurtă plimbare pe malul canalului oferă o atmosferă melancolică sub umbrelă.",
+            "en": "Start at the Brabant Draught Horse statue before taking cover in the Church of Our Lady. The Gothic interior provides a dry sanctuary for the morning. At noon, the Het Bolwerk cultural centre offers exhibitions and a cafe to escape the showers. Spend the afternoon at De Kruitfabriek, a vibrant industrial heritage site with plenty of indoor space. The day ends with a brief, atmospheric view of the canal, protected by your raincoat or umbrella."
+          },
+          "stops": [
+            {
+              "name": "The Brabant Draught Horse",
+              "tip_5lang": {
+                "de": "Ein schnelles Foto wert, bevor der Regen stärker wird.",
+                "hu": "Gyors fotó az impozáns szoborról, mielőtt eleredne.",
+                "ro": "O fotografie rapidă înainte ca ploaia să se intensifice.",
+                "en": "Quick photo op before the rain gets heavier."
+              }
+            },
+            {
+              "name": "Church of Our Lady",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um die Schauer in Ruhe abzuwarten.",
+                "hu": "Ideális helyszín az eső elöli menedékre.",
+                "ro": "Locul perfect pentru a aștepta trecerea ploii.",
+                "en": "Perfect spot to wait out the showers in peace."
+              }
+            },
+            {
+              "name": "Hanssenspark",
+              "tip_5lang": {
+                "de": "Die asphaltierten Wege sind weniger matschig.",
+                "hu": "Az aszfaltozott utak kevésbé sárgulnak be az esőben.",
+                "ro": "Potecile asfaltate sunt mai puțin noroioase.",
+                "en": "Asphalt paths are less muddy during rain."
+              }
+            },
+            {
+              "name": "Cultural Centre Het Bolwerk",
+              "tip_5lang": {
+                "de": "Besuchen Sie das Foyer-Café für eine Pause im Trockenen.",
+                "hu": "Látogassa meg a kávézót egy száraz pihenőre.",
+                "ro": "Vizitați cafeneaua din foier pentru o pauză uscată.",
+                "en": "Visit the foyer cafe for a dry break."
+              }
+            },
+            {
+              "name": "De Kruitfabriek (The Gunpowder Factory)",
+              "tip_5lang": {
+                "de": "Viel Platz im Inneren der alten Industriehallen.",
+                "hu": "Tágas belső terek az egykori gyárépületekben.",
+                "ro": "Spații interioare generoase în vechile hale industriale.",
+                "en": "Ample indoor space within the old industrial halls."
+              }
+            },
+            {
+              "name": "View at the Canal",
+              "tip_5lang": {
+                "de": "Der Kanal wirkt bei Regen besonders industriell-romantisch.",
+                "hu": "A csatorna esőben sajátos ipari romantikát áraszt.",
+                "ro": "Canalul are o atmosferă industrială romantică pe ploaie.",
+                "en": "The canal has a unique industrial-romantic vibe in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Regenschirm ist wegen des Windes am Kanal ratsam.",
+              "Nutzen Sie die Passagen im Stadtzentrum als Abkürzung.",
+              "Die Kruitfabriek bietet viele überdachte Sitzgelegenheiten.",
+              "Wasserdichte Schuhe sind für den Hanssenspark wichtig."
+            ],
+            "hu": [
+              "A csatorna menti szél miatt érdemes erős esernyőt vinni.",
+              "A belvárosi passzázsok jó rövidítések esőben.",
+              "A Kruitfabriek tágas fedett tereket kínál pihenéshez.",
+              "Vízálló cipő ajánlott a Hanssenspark ösvényeihez."
+            ],
+            "ro": [
+              "O umbrelă rezistentă este recomandată din cauza vântului de pe canal.",
+              "Folosiți pasajele din centrul orașului pentru scurtături.",
+              "De Kruitfabriek oferă multe locuri de șezut acoperite.",
+              "Încălțămintea impermeabilă este esențială pentru Hanssenspark."
+            ],
+            "en": [
+              "A sturdy umbrella is advised due to canal winds.",
+              "Use city centre passages as shortcuts to stay dry.",
+              "De Kruitfabriek offers plenty of sheltered seating.",
+              "Waterproof shoes are important for Hanssenspark paths."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie das winterliche Vilvoorde, beginnend am markanten Brabanter Zugpferd. Die Liebfrauenkirche bietet danach einen ruhigen Ort zum Innehalten. Mittags leuchtet der Hanssenspark oft in frostigem Glanz, ideal für einen kurzen Spaziergang. Das Kulturzentrum Het Bolwerk wärmt Sie mit seinem Programm auf, bevor Sie die Kruitfabriek besuchen, wo das industrielle Ambiente im Winterlicht besonders rau wirkt. Der Tag schließt am Kanal, wenn die Lichter der Stadt in der frühen Dunkelheit auf dem Wasser tanzen.",
+            "hu": "Fedezze fel a téli Vilvoordét, kezdve az ikonikus brabanti ló szobránál. A Miasszonyunk-templom csendes elvonulást kínál a hideg elől. Délben a Hanssenspark zúzmarás fái között sétálhatunk, majd a Het Bolwerk kulturális központban melegedhetünk fel. Délután a De Kruitfabriek ipari esztétikája a téli fényekben válik igazán karizmatikussá. A nap a csatorna partján ér véget, ahol a korai sötétségben már kigyúlnak a városi fények a víz felett.",
+            "ro": "Explorați Vilvoorde în haine de iarnă, începând de la statuia impresionantă a calului brabantin. Biserica Maicii Domnului oferă un moment de reculegere la căldură. La prânz, Hanssenspark strălucește adesea sub chiciură, fiind ideal pentru o plimbare scurtă. Centrul cultural Het Bolwerk vă va încălzi cu atmosfera sa, înainte de a vizita De Kruitfabriek, unde estetica industrială este pusă în valoare de lumina rece. Ziua se încheie pe malul canalului, sub luminile orașului reflectate în apă.",
+            "en": "Experience wintry Vilvoorde starting at the striking Brabant Draught Horse. The Church of Our Lady offers a peaceful, warmer retreat following your morning start. At noon, Hanssenspark often glistens with frost, perfect for a crisp walk. Het Bolwerk cultural centre provides warmth and local art, leading to the afternoon at De Kruitfabriek, where the industrial vibe feels particularly raw in winter light. The day ends at the canal as city lights dance on the water in the early twilight."
+          },
+          "stops": [
+            {
+              "name": "The Brabant Draught Horse",
+              "tip_5lang": {
+                "de": "Das Metall der Statue wirkt im Frost besonders beeindruckend.",
+                "hu": "A szobor fémfelülete zúzmarásan még látványosabb.",
+                "ro": "Metalul statuii arată impresionant sub îngheț.",
+                "en": "The statue's metal looks particularly striking in the frost."
+              }
+            },
+            {
+              "name": "Church of Our Lady",
+              "tip_5lang": {
+                "de": "Oft beheizt oder zumindest windstill im Inneren.",
+                "hu": "Gyakran fűtött, de legalábbis szélvédett belső tér.",
+                "ro": "Adesea încălzită sau cel puțin ferită de vânt.",
+                "en": "Often heated or at least shielded from the winter wind."
+              }
+            },
+            {
+              "name": "Hanssenspark",
+              "tip_5lang": {
+                "de": "Vorsicht vor glatten Holzbrücken im Park.",
+                "hu": "Vigyázat, a park fa hídjai csúszósak lehetnek.",
+                "ro": "Atenție la podurile de lemn care pot fi alunecoase.",
+                "en": "Beware of slippery wooden bridges in the park."
+              }
+            },
+            {
+              "name": "Cultural Centre Het Bolwerk",
+              "tip_5lang": {
+                "de": "Ein guter Ort, um die Zeit bis zum frühen Sonnenuntergang zu verbringen.",
+                "hu": "Jó hely az időtöltésre a korai naplementéig.",
+                "ro": "Un loc bun pentru a petrece timpul până la apusul timpuriu.",
+                "en": "A good place to spend time until the early sunset."
+              }
+            },
+            {
+              "name": "De Kruitfabriek (The Gunpowder Factory)",
+              "tip_5lang": {
+                "de": "Holen Sie sich einen heißen Kaffee an der Bar.",
+                "hu": "Igyon egy forró kávét az itteni bárban.",
+                "ro": "Luați o cafea fierbinte de la barul locației.",
+                "en": "Grab a hot coffee at the on-site bar."
+              }
+            },
+            {
+              "name": "View at the Canal",
+              "tip_5lang": {
+                "de": "Warme Kleidung ist wegen des kalten Windes vom Wasser Pflicht.",
+                "hu": "A víz felőli hideg szél miatt kötelező a meleg ruha.",
+                "ro": "Hainele groase sunt obligatorii din cauza vântului rece.",
+                "en": "Warm clothing is essential due to cold winds off the water."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Winter bereits gegen 16:30 Uhr unter.",
+              "Tragen Sie Schichten, da es am Wasser deutlich kälter ist.",
+              "Viele Cafés in der Nähe der Kirche bieten belgische Schokolade an.",
+              "Achten Sie auf vereiste Stellen auf den Treppen zum Kanal."
+            ],
+            "hu": [
+              "Télen a nap már 16:30 körül lenyugszik.",
+              "Réteges öltözködés javasolt a vízparti hideg miatt.",
+              "A templom környéki kávézókban érdemes forró csokit inni.",
+              "Vigyázzon a csatornához vezető lépcsők jegesedésére."
+            ],
+            "ro": [
+              "Soarele apune deja în jurul orei 16:30 iarna.",
+              "Purtați straturi de haine, e mult mai frig lângă apă.",
+              "Multe cafenele de lângă biserică oferă ciocolată caldă.",
+              "Atenție la gheața de pe treptele spre canal."
+            ],
+            "en": [
+              "Sunset occurs early, around 4:30 PM in winter.",
+              "Dress in layers as it is significantly colder by the water.",
+              "Local cafes near the church offer great hot Belgian chocolate.",
+              "Watch for icy patches on the steps leading to the canal."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -602,6 +784,188 @@
           "The paths in the Provincial Domain are well-marked.",
           "Plan enough time to explore the large park."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre Radtour an der Kruitfabriek, wo Sie unter dem Vordach starten können. Vorbei am Brabanter Zugpferd geht es zur Liebfrauenkirche für eine trockene Kulturpause. Der Hanssenspark lässt sich auf festen Wegen schnell durchqueren. Am Nachmittag radeln Sie zum Schloss Drie Fonteinen, dessen bewaldete Alleen etwas Schutz vor direktem Regen bieten. Den Abschluss bildet die Domäne Drie Fonteinen, wo Sie im Brasserie-Bereich das Fahrrad sicher abstellen und den Tag ausklingen lassen können.",
+            "hu": "Kezdje a biciklis túrát a Kruitfabrieknél, ahol a tetők alatt készülődhet. Az igásló szobra után a Miasszonyunk-templom nyújt fedett megállót. A Hanssensparkon gyorsan átvághat a szilárd burkolatú utakon. Délután a Drie Fonteinen kastély felé vegye az irányt, ahol az erdei utak valamennyire felfogják az esőt. A napot a Drie Fonteinen tartományi parkban zárjuk, ahol a söröző teraszán, fedett helyen pihenhetünk meg.",
+            "ro": "Începeți turul cu bicicleta la Kruitfabriek, folosind copertinele pentru pregătire. Treceți pe la statuia calului spre Biserica Maicii Domnului pentru o pauză uscată. Hanssenspark poate fi traversat rapid pe aleile principale. După-amiaza, pedalați spre Castelul Drie Fonteinen, unde aleile împădurite oferă o protecție parțială. Finalizați la Domeniul Drie Fonteinen, unde vă puteți adăposti bicicleta și vă puteți relaxa la o terasă acoperită.",
+            "en": "Start your cycling tour at De Kruitfabriek, where you can prep under the overhangs. Pass the Draught Horse statue towards the Church of Our Lady for a dry cultural break. Cross Hanssenspark quickly using the paved main paths. In the afternoon, cycle towards the Castle of Drie Fonteinen, where wooded lanes offer some shelter from direct rain. End the day at the Drie Fonteinen Domain, where you can park your bike and dry off at the local brasserie."
+          },
+          "stops": [
+            {
+              "name": "De Kruitfabriek",
+              "tip_5lang": {
+                "de": "Gute Unterstellmöglichkeiten für Fahrräder vorhanden.",
+                "hu": "Jó fedett kerékpártárolási lehetőség.",
+                "ro": "Posibilități bune de adăpostire a bicicletelor.",
+                "en": "Good sheltered bike parking spots available."
+              }
+            },
+            {
+              "name": "The Brabant Draught Horse",
+              "tip_5lang": {
+                "de": "Vorsicht vor rutschigem Kopfsteinpflaster in der Nähe.",
+                "hu": "Vigyázat, a közeli macskakő csúszós lehet.",
+                "ro": "Atenție la pavajul umed din apropiere.",
+                "en": "Beware of slippery cobblestones in the immediate area."
+              }
+            },
+            {
+              "name": "Church of Our Lady",
+              "tip_5lang": {
+                "de": "Fahrradständer befinden sich direkt vor dem Eingang.",
+                "hu": "Kerékpártámaszok közvetlenül a bejárat előtt.",
+                "ro": "Suporturi de biciclete direct în fața intrării.",
+                "en": "Bike racks are located directly in front of the entrance."
+              }
+            },
+            {
+              "name": "Hanssenspark",
+              "tip_5lang": {
+                "de": "Fahren Sie langsam, nasses Laub kann rutschig sein.",
+                "hu": "Lassan haladjon, a vizes levelek csúsznak.",
+                "ro": "Mergeți încet, frunzele ude pot fi alunecoase.",
+                "en": "Ride slowly; wet leaves can be very slippery."
+              }
+            },
+            {
+              "name": "Castle of Drie Fonteinen",
+              "tip_5lang": {
+                "de": "Die Bäume bieten natürlichen Schutz vor leichtem Regen.",
+                "hu": "A fák természetes védelmet nyújtanak gyenge esőben.",
+                "ro": "Copacii oferă protecție naturală împotriva ploii ușoare.",
+                "en": "The trees provide natural shelter from light rain."
+              }
+            },
+            {
+              "name": "Provincial Domain Drie Fonteinen",
+              "tip_5lang": {
+                "de": "Besuchen Sie das Restaurant 'De Dry Borre' zum Aufwärmen.",
+                "hu": "Melegedjen fel a 'De Dry Borre' étteremben.",
+                "ro": "Vizitați restaurantul 'De Dry Borre' pentru a vă încălzi.",
+                "en": "Visit the 'De Dry Borre' restaurant to warm up."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Bremsen, bevor Sie auf nassem Untergrund fahren.",
+              "Vermeiden Sie metallene Schachtdeckel bei Nässe.",
+              "Die Kruitfabriek ist ein idealer Stopp für eine längere Regenpause.",
+              "Nutzen Sie Schutzbleche, um trocken zu bleiben."
+            ],
+            "hu": [
+              "Ellenőrizze a fékeket nedves úton való indulás előtt.",
+              "Kerülje a fém csatornafedeleket esőben.",
+              "A Kruitfabriek kiváló hely egy hosszabb esőszünetre.",
+              "Használjon sárvédőt, hogy száraz maradjon a ruhája."
+            ],
+            "ro": [
+              "Verificați frânele înainte de a porni pe carosabil umed.",
+              "Evitați gurile de canal din metal când plouă.",
+              "De Kruitfabriek este un loc ideal pentru o pauză lungă de ploaie.",
+              "Folosiți apărători de noroi pentru a rămâne uscat."
+            ],
+            "en": [
+              "Test your brakes before heading out on wet surfaces.",
+              "Avoid metal manhole covers when they are wet.",
+              "De Kruitfabriek is an ideal spot for a longer rain break.",
+              "Use mudguards to stay as dry as possible."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Radtour durch Vilvoorde beginnt an der Kruitfabriek, deren Backsteinfassade Wärme ausstrahlt. Nach einem kurzen Stopp am Brabanter Zugpferd bietet die Liebfrauenkirche spirituelle und physische Wärme. Der Hanssenspark wirkt im Winterlicht fast surreal. Mittags führt die Fahrt zum Schloss Drie Fonteinen durch kahle, aber stimmungsvolle Alleen. Den Nachmittag verbringen Sie in der weitläufigen Domäne Drie Fonteinen, wo die winterliche Stille nur vom Knirschen der Reifen unterbrochen wird, bevor es dunkel wird.",
+            "hu": "A téli biciklis körút a Kruitfabrieknél indul, melynek vörös téglái melegséget sugároznak. Az igásló szobra után a Miasszonyunk-templomban lelhetünk lelki és testi menedékre a hideg elől. A Hanssenspark télen szinte szürreális látvány. Délben a Drie Fonteinen kastélyhoz vezető kopár, de hangulatos fasorokon tekerhetünk. A délutánt a Drie Fonteinen tartományi parkban töltjük, ahol a téli csendet csak a gumi suhogása töri meg a fagyos utakon.",
+            "ro": "O tură de iarnă cu bicicleta începe la Kruitfabriek, a cărei fațadă de cărămidă emană căldură vizuală. După statuia calului, Biserica Maicii Domnului oferă un răgaz cald. Hanssenspark arată aproape ireal în lumina rece. La prânz, drumul spre Castelul Drie Fonteinen trece prin alei golașe, dar atmosferice. După-amiaza aparține Domeniului Drie Fonteinen, unde liniștea iernii este întreruptă doar de sunetul cauciucurilor pe drumul înghețat.",
+            "en": "A winter cycle through Vilvoorde starts at De Kruitfabriek, with its warm-toned brickwork. After the Draught Horse statue, the Church of Our Lady provides spiritual and physical warmth. Hanssenspark looks almost surreal in the low winter sun. At noon, the ride to the Castle of Drie Fonteinen follows bare but atmospheric avenues. Spend the afternoon in the sprawling Drie Fonteinen Domain, where the winter silence is only broken by the crunch of your tires before twilight falls."
+          },
+          "stops": [
+            {
+              "name": "De Kruitfabriek",
+              "tip_5lang": {
+                "de": "Starten Sie mit einem heißen Getränk für die Fahrt.",
+                "hu": "Indítson egy forró itallal az út előtt.",
+                "ro": "Începeți cu o băutură caldă înainte de drum.",
+                "en": "Start with a hot drink to fuel your ride."
+              }
+            },
+            {
+              "name": "The Brabant Draught Horse",
+              "tip_5lang": {
+                "de": "Der Platz kann bei Frost sehr rutschig sein.",
+                "hu": "A tér fagyban nagyon csúszós lehet.",
+                "ro": "Piața poate fi foarte alunecoasă pe timp de îngheț.",
+                "en": "The square can be very slippery during frost."
+              }
+            },
+            {
+              "name": "Church of Our Lady",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp, um die Finger aufzuwärmen.",
+                "hu": "Használja ki a megállót az ujjai felmelegítésére.",
+                "ro": "Folosiți oprirea pentru a vă încălzi degetele.",
+                "en": "Use this stop to warm up your hands."
+              }
+            },
+            {
+              "name": "Hanssenspark",
+              "tip_5lang": {
+                "de": "Achten Sie auf Raureif auf den Parkwegen.",
+                "hu": "Figyeljen a zúzmarára a park útjain.",
+                "ro": "Atenție la promoroaca de pe aleile parcului.",
+                "en": "Watch out for hoarfrost on the park paths."
+              }
+            },
+            {
+              "name": "Castle of Drie Fonteinen",
+              "tip_5lang": {
+                "de": "Die Auffahrt zum Schloss kann bei Eis tückisch sein.",
+                "hu": "A kastélyhoz vezető feljáró jegesedhet.",
+                "ro": "Urcarea spre castel poate fi înșelătoare pe gheață.",
+                "en": "The approach to the castle can be tricky if icy."
+              }
+            },
+            {
+              "name": "Provincial Domain Drie Fonteinen",
+              "tip_5lang": {
+                "de": "Planen Sie die Rückfahrt vor Einbruch der Dunkelheit.",
+                "hu": "Tervezze meg a visszautat sötétedés előtt.",
+                "ro": "Planificați întoarcerea înainte de lăsarea întunericului.",
+                "en": "Plan your return trip before it gets dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie unbedingt winddichte Handschuhe.",
+              "Verwenden Sie bei Dunkelheit helle Reflektoren und Lichter.",
+              "Die Wege im Drie Fonteinen Domain werden nicht immer gestreut.",
+              "Halten Sie die Kette gut geölt gegen das Streusalz."
+            ],
+            "hu": [
+              "Mindenképpen viseljen szélálló kesztyűt.",
+              "Sötétedéskor használjon erős lámpákat és prizmákat.",
+              "A Drie Fonteinen park útjait nem mindig sózzák.",
+              "A láncot tartsa jól olajozottan a szórósó ellen."
+            ],
+            "ro": [
+              "Purtați neapărat mănuși rezistente la vânt.",
+              "Folosiți reflectoare și lumini puternice după lăsarea serii.",
+              "Drumurile din Domeniul Drie Fonteinen nu sunt mereu deszăpezite.",
+              "Păstrați lanțul bine uns împotriva sării de pe drum."
+            ],
+            "en": [
+              "Windproof gloves are essential for winter cycling.",
+              "Ensure your lights and reflectors are working for early dusk.",
+              "Paths in Drie Fonteinen Domain might not be salted.",
+              "Keep your chain well-oiled to protect against road salt."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -929,6 +1293,206 @@
           "Plan for traffic time between the two main locations.",
           "The cluster strategy saves time searching for parking."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden Sie Vilvoorde bequem und trocken. Starten Sie am Parkplatz der Domäne Drie Fonteinen und besuchen Sie das nahegelegene Schloss. Die kurzen Wege zwischen Auto und Sehenswürdigkeit minimieren den Kontakt mit dem Regen. Mittags parken Sie im Stadtzentrum, um die Liebfrauenkirche und das Brabanter Zugpferd zu sehen. Den Nachmittag verbringen Sie im Hanssenspark, wobei Sie bei stärkeren Schauern jederzeit schnell ins schützende Fahrzeug zurückkehren können.",
+            "hu": "Autóval kényelmesen és szárazon fedezheti fel Vilvoordét. Kezdje a Drie Fonteinen tartományi parkolónál, ahonnan a kastély csak pár lépés. A rövid távolságok az autó és a látnivalók között minimalizálják az esővel való érintkezést. Délben a városközpontban parkolva nézze meg a templomot és az igásló szobrát. A délutánt a Hanssensparkban töltheti, ahonnan bármikor gyorsan visszahúzódhat a védelmet nyújtó járműbe.",
+            "ro": "Cu mașina, explorați Vilvoorde confortabil și fără grija ploii. Începeți la parcarea Domeniului Drie Fonteinen și vizitați castelul din apropiere. Distanțele scurte dintre mașină și obiective reduc expunerea la ploaie. La prânz, parcați în centru pentru a vedea Biserica Maicii Domnului și statuia calului. După-amiaza în Hanssenspark vă permite să reveniți rapid la vehicul în caz de aversă puternică.",
+            "en": "Explore Vilvoorde comfortably and stay dry by car. Start at the Drie Fonteinen Domain parking lot and visit the nearby castle. The short distances between your car and the sights minimise rain exposure. At noon, park in the city centre to see the Church of Our Lady and the Draught Horse statue. Spend the afternoon at Hanssenspark, knowing you can quickly return to the shelter of your vehicle if the rain intensifies."
+          },
+          "stops": [
+            {
+              "name": "Parking at Provincial Domain Drie Fonteinen",
+              "tip_5lang": {
+                "de": "Großer Parkplatz, oft mit Pfützen nach dem Regen.",
+                "hu": "Tágas parkoló, eső után gyakori tócsákkal.",
+                "ro": "Parcare mare, adesea cu bălți după ploaie.",
+                "en": "Large parking area, often with puddles after rain."
+              }
+            },
+            {
+              "name": "Castle of Drie Fonteinen",
+              "tip_5lang": {
+                "de": "Nur ein kurzer Fußweg vom Parkplatz entfernt.",
+                "hu": "Csak egy rövid séta a parkolótól.",
+                "ro": "Doar o scurtă plimbare de la parcare.",
+                "en": "Only a short walk from the parking lot."
+              }
+            },
+            {
+              "name": "Provincial Domain Drie Fonteinen",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Wagen als Basis für kurze Spaziergänge.",
+                "hu": "Használja az autót bázisként a rövid sétákhoz.",
+                "ro": "Folosiți mașina ca bază pentru plimbări scurte.",
+                "en": "Use the car as a base for short bursts of walking."
+              }
+            },
+            {
+              "name": "City Center Parking",
+              "tip_5lang": {
+                "de": "Überdachte Parkhäuser in der Nähe bevorzugen.",
+                "hu": "Érdemes a közeli fedett parkolóházakat választani.",
+                "ro": "Preferați parcările etajate acoperite din apropiere.",
+                "en": "Prefer covered parking garages nearby if available."
+              }
+            },
+            {
+              "name": "Church of Our Lady",
+              "tip_5lang": {
+                "de": "Direkt am Stadtring gelegen, gut erreichbar.",
+                "hu": "Közvetlenül a városi gyűrű mellett, jól elérhető.",
+                "ro": "Situată direct pe centura orașului, accesibilă.",
+                "en": "Located directly on the city ring, easy to reach."
+              }
+            },
+            {
+              "name": "The Brabant Draught Horse",
+              "tip_5lang": {
+                "de": "Parken Sie kurz am Straßenrand für ein schnelles Foto.",
+                "hu": "Álljon meg röviden az út mentén egy gyors fotóra.",
+                "ro": "Opriți scurt la marginea drumului pentru o poză.",
+                "en": "Park briefly at the roadside for a quick photo."
+              }
+            },
+            {
+              "name": "Hanssenspark",
+              "tip_5lang": {
+                "de": "Der Parkplatz direkt am Park ist ideal bei Regen.",
+                "hu": "A közvetlenül a park melletti parkoló ideális esőben.",
+                "ro": "Parcarea direct lângă parc este ideală pe ploaie.",
+                "en": "The car park right by the park is ideal in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf eingeschränkte Sicht bei starkem Regen.",
+              "Halten Sie Kleingeld oder eine App für die Parkgebühren bereit.",
+              "Die Parkplätze am Drie Fonteinen sind bei Regen oft leerer.",
+              "Lassen Sie keine Wertsachen sichtbar im Auto liegen."
+            ],
+            "hu": [
+              "Vezessen óvatosan a korlátozott látási viszonyok között.",
+              "Készítsen elő aprót vagy parkolási appot a díjakhoz.",
+              "A Drie Fonteinen parkolói esőben gyakran üresebbek.",
+              "Ne hagyjon értéket látható helyen az autóban."
+            ],
+            "ro": [
+              "Atenție la vizibilitatea redusă în timpul ploii abundente.",
+              "Aveți pregătit mărunt sau o aplicație pentru parcare.",
+              "Parcările de la Drie Fonteinen sunt mai libere pe ploaie.",
+              "Nu lăsați obiecte de valoare la vedere în mașină."
+            ],
+            "en": [
+              "Watch out for reduced visibility during heavy downpours.",
+              "Have change or a parking app ready for fees.",
+              "Parking at Drie Fonteinen is often easier during rain.",
+              "Do not leave valuables visible inside the car."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Autotour durch Vilvoorde bietet maximale Wärme. Starten Sie an der Domäne Drie Fonteinen, wo das Schloss im Winternebel besonders mystisch aussieht. Die kurzen Wege minimieren die Zeit in der Kälte. Mittags wechseln Sie zum Parkplatz im Stadtzentrum, um die Liebfrauenkirche und das Brabanter Zugpferd zu besuchen. Der Hanssenspark lädt am Nachmittag zu einem knackigen Spaziergang ein, bevor Sie die Heizung im Auto wieder voll aufdrehen und den Tag gemütlich abschließen.",
+            "hu": "A téli autós túra Vilvoordében maximális melegséget nyújt. Kezdje a Drie Fonteinen parknál, ahol a kastély a téli ködben különösen misztikus. A rövid séták minimalizálják a hidegben töltött időt. Délben váltson a belvárosi parkolóra a templom és az igásló szobrának megtekintéséhez. A Hanssenspark délután egy frissítő sétára hív, mielőtt újra felcsavarná a fűtést az autóban, és kényelmesen zárná a napot.",
+            "ro": "Un tur de iarnă cu mașina prin Vilvoorde oferă căldură maximă. Începeți la Domeniul Drie Fonteinen, unde castelul arată mistic în ceața iernii. Distanțele scurte reduc timpul petrecut în frig. La prânz, mutați mașina în parcarea din centru pentru a vizita Biserica Maicii Domnului și statuia calului. Hanssenspark invită la o plimbare revigorantă după-amiaza, înainte de a porni din nou căldura în mașină pentru finalul zilei.",
+            "en": "A winter car tour of Vilvoorde offers maximum warmth between stops. Begin at the Drie Fonteinen Domain, where the castle looks mystical in the winter mist. Short walks keep your time in the cold to a minimum. At noon, relocate to the city centre car park to visit the Church of Our Lady and the Draught Horse statue. Hanssenspark invites you for a crisp afternoon walk before you turn up the heater and finish your day in comfort."
+          },
+          "stops": [
+            {
+              "name": "Parking at Provincial Domain Drie Fonteinen",
+              "tip_5lang": {
+                "de": "Bei Frost können die unbefestigten Flächen glatt sein.",
+                "hu": "Fagyban a burkolatlan felületek csúszósak lehetnek.",
+                "ro": "Pe timp de îngheț, zonele neasfaltate pot fi alunecoase.",
+                "en": "Unpaved areas can be slippery during frost."
+              }
+            },
+            {
+              "name": "Castle of Drie Fonteinen",
+              "tip_5lang": {
+                "de": "Das Schloss ist im Winterlicht ein tolles Fotomotiv.",
+                "hu": "A kastély a téli fényekben remek fotótéma.",
+                "ro": "Castelul este un subiect foto excelent în lumina iernii.",
+                "en": "The castle is a great photo subject in the winter light."
+              }
+            },
+            {
+              "name": "Provincial Domain Drie Fonteinen",
+              "tip_5lang": {
+                "de": "Perfekt für einen schnellen Spaziergang an der frischen Luft.",
+                "hu": "Tökéletes egy gyors sétára a friss levegőn.",
+                "ro": "Perfect pentru o plimbare scurtă în aer liber.",
+                "en": "Perfect for a quick burst of fresh air."
+              }
+            },
+            {
+              "name": "City Center Parking",
+              "tip_5lang": {
+                "de": "Warme Parkhäuser sind im Winter sehr angenehm.",
+                "hu": "A fűtött parkolóházak télen nagyon kellemesek.",
+                "ro": "Parcările etajate sunt mult mai plăcute iarna.",
+                "en": "Indoor parking garages are much nicer in winter."
+              }
+            },
+            {
+              "name": "Church of Our Lady",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur, bevor es dunkel wird.",
+                "hu": "Csodálja meg az építészetet, mielőtt sötétedne.",
+                "ro": "Admirați arhitectura înainte de lăsarea serii.",
+                "en": "Admire the architecture before it gets dark."
+              }
+            },
+            {
+              "name": "The Brabant Draught Horse",
+              "tip_5lang": {
+                "de": "Ein schneller Stopp, um die Statue im Winter zu sehen.",
+                "hu": "Egy gyors megálló a szobor téli megtekintéséhez.",
+                "ro": "O oprire rapidă pentru a vedea statuia iarna.",
+                "en": "A quick stop to see the statue in winter."
+              }
+            },
+            {
+              "name": "Hanssenspark",
+              "tip_5lang": {
+                "de": "Gute Parkmöglichkeiten direkt am Eingang zum Aufwärmen.",
+                "hu": "Jó parkolási lehetőség a bejáratnál a melegedéshez.",
+                "ro": "Posibilități bune de parcare la intrare pentru încălzire.",
+                "en": "Good parking right at the entrance for quick warming up."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Rechnen Sie mit glatten Straßen in den Außenbezirken.",
+              "Halten Sie einen Eiskratzer im Wagen bereit.",
+              "Die Parkplätze in Vilvoorde sind im Winter gut geräumt.",
+              "Nutzen Sie die Sitzheizung für die kurzen Fahrten."
+            ],
+            "hu": [
+              "Számítson csúszós utakra a külvárosi részeken.",
+              "Legyen kéznél jégkaparó az autóban.",
+              "Vilvoorde parkolóit télen jól takarítják.",
+              "Használja az ülésfűtést a rövid szakaszokon."
+            ],
+            "ro": [
+              "Așteptați-vă la drumuri alunecoase în zonele periferice.",
+              "Aveți pregătită o racletă pentru gheață în mașină.",
+              "Parcările din Vilvoorde sunt bine curățate iarna.",
+              "Folosiți încălzirea în scaune pentru drumurile scurte."
+            ],
+            "en": [
+              "Expect slippery road conditions in the outskirts.",
+              "Keep an ice scraper handy in the car.",
+              "Parking lots in Vilvoorde are generally well-ploughed.",
+              "Use the seat heaters for the short hops between sights."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1232,6 +1796,188 @@
           "Most central attractions are within easy walking distance from the bus station.",
           "Be aware that buses may run less frequently on weekends."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den öffentlichen Nahverkehr, um Vilvoorde bei Regen zu erkunden. Starten Sie am zentralen Busbahnhof, der guten Schutz bietet. Von dort erreichen Sie das Brabanter Zugpferd und die Liebfrauenkirche mit nur kurzen Gehwegen. Mittags bringt Sie der Bus zum Hanssenspark. Am Nachmittag fahren Sie bequem zur Domäne Drie Fonteinen, wo die Haltestelle fast direkt am Parkeingang liegt. So bleiben Sie während der Fahrten trocken und können die Sehenswürdigkeiten flexibel besuchen.",
+            "hu": "Használja a tömegközlekedést Vilvoorde felfedezéséhez esőben. Kezdje a központi buszpályaudvaron, amely jó védelmet nyújt. Innen az igásló szobra és a Miasszonyunk-templom is csak rövid sétára van. Délben busszal menjen a Hanssensparkhoz. Délután utazzon a Drie Fonteinen parkhoz, ahol a megálló szinte közvetlenül a bejáratnál található. Így az utazások alatt száraz marad, és rugalmasan látogathatja a helyszíneket.",
+            "ro": "Folosiți transportul public pentru a explora Vilvoorde pe ploaie. Începeți la autogara centrală, care oferă un adăpost bun. De acolo, ajungeți la statuia calului și la Biserica Maicii Domnului cu efort minim prin ploaie. La prânz, autobuzul vă duce spre Hanssenspark. După-amiaza, mergeți către Domeniul Drie Fonteinen, unde stația este aproape de intrare. Astfel rămâneți uscat pe durata călătoriilor între obiective.",
+            "en": "Use public transport to explore Vilvoorde during rainy weather. Start at the central bus station, which provides good shelter. From there, reach the Draught Horse statue and the Church of Our Lady with only short walks. At noon, the bus takes you towards Hanssenspark. In the afternoon, travel comfortably to the Drie Fonteinen Domain, where the stop is located almost right at the park entrance, keeping your rain exposure to a minimum."
+          },
+          "stops": [
+            {
+              "name": "Vilvoorde Central Bus Station",
+              "tip_5lang": {
+                "de": "Große überdachte Wartebereiche vorhanden.",
+                "hu": "Tágas fedett váróterületek.",
+                "ro": "Zone de așteptare acoperite și spațioase.",
+                "en": "Large sheltered waiting areas available."
+              }
+            },
+            {
+              "name": "The Brabant Draught Horse",
+              "tip_5lang": {
+                "de": "Nur 2 Minuten Fußweg von der Bushaltestelle.",
+                "hu": "Csak 2 perc séta a buszmegállótól.",
+                "ro": "Doar 2 minute de mers pe jos de la stație.",
+                "en": "Only a 2-minute walk from the bus stop."
+              }
+            },
+            {
+              "name": "Church of Our Lady",
+              "tip_5lang": {
+                "de": "Haltestellen befinden sich direkt an der Kirche.",
+                "hu": "A buszmegállók közvetlenül a templomnál vannak.",
+                "ro": "Stațiile de autobuz sunt chiar lângă biserică.",
+                "en": "Bus stops are located directly by the church."
+              }
+            },
+            {
+              "name": "Hanssenspark",
+              "tip_5lang": {
+                "de": "Warten Sie im Unterstand der Haltestelle auf den Bus.",
+                "hu": "Várja a buszt a megálló fedett beállójában.",
+                "ro": "Așteptați autobuzul în refugiul acoperit al stației.",
+                "en": "Wait for your bus in the sheltered stop area."
+              }
+            },
+            {
+              "name": "Drie Fonteinen Domain Bus Stop",
+              "tip_5lang": {
+                "de": "Die Haltestelle bietet Schutz bei plötzlichen Schauern.",
+                "hu": "A megálló védelmet nyújt hirtelen zápor esetén.",
+                "ro": "Stația oferă protecție în caz de aversă bruscă.",
+                "en": "The stop provides shelter during sudden showers."
+              }
+            },
+            {
+              "name": "Provincial Domain Drie Fonteinen",
+              "tip_5lang": {
+                "de": "Kurzer Weg von der Haltestelle zum Parkeingang.",
+                "hu": "Rövid út a megállótól a park bejáratáig.",
+                "ro": "Drum scurt de la stație până la intrarea în parc.",
+                "en": "Short walk from the stop to the park entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie die Abfahrtszeiten online (De Lijn App).",
+              "Die Busse sind im Winter gut beheizt.",
+              "Nutzen Sie den Bahnhofsbereich für längere Wartezeiten.",
+              "Halten Sie Ihr Ticket oder Ihre Kontaktlos-Karte bereit."
+            ],
+            "hu": [
+              "Ellenőrizze az indulásokat online (De Lijn app).",
+              "A buszok télen jól fűtöttek.",
+              "Használja az állomás területét a hosszabb várakozáshoz.",
+              "Tartsa készenlétben jegyét vagy bankkártyáját."
+            ],
+            "ro": [
+              "Verificați orele de plecare online (aplicația De Lijn).",
+              "Autobuzele sunt bine încălzite iarna.",
+              "Folosiți zona gării pentru timpi de așteptare mai lungi.",
+              "Aveți biletul sau cardul contactless pregătit."
+            ],
+            "en": [
+              "Check departure times online via the De Lijn app.",
+              "Buses are well-heated during the winter months.",
+              "Use the station area for longer waiting periods.",
+              "Have your ticket or contactless payment ready."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie Vilvoorde im Winter mit Bus und Bahn. Starten Sie am zentralen Busbahnhof, wo Sie im Warmen warten können. Besuchen Sie das Brabanter Zugpferd und die Liebfrauenkirche, die beide gut an das Liniennetz angebunden sind. Mittags führt die Fahrt zum frostigen Hanssenspark. Am Nachmittag bringt Sie der Transit bequem zur Domäne Drie Fonteinen. Die Fahrt bietet Zeit zum Aufwärmen zwischen den winterlichen Besichtigungen, bevor die Dämmerung einsetzt und die Stadtlichter Vilvoorde erhellen.",
+            "hu": "Fedezze fel a téli Vilvoordét busszal és vonattal. Kezdje a központi pályaudvaron, ahol melegben várhat. Látogassa meg az igásló szobrát és a Miasszonyunk-templomot, melyek mind jól megközelíthetők tömegközlekedéssel. Délben utazzon a zúzmarás Hanssensparkhoz. Délután a Drie Fonteinen parkhoz vezet az út. Az utazások alatt felmelegedhet a látnivalók között, mielőtt leszáll az est és a városi fények kigyúlnak Vilvoordében.",
+            "ro": "Explorați Vilvoorde iarna folosind autobuzul și trenul. Începeți la autogara centrală, unde puteți aștepta la căldură. Vizitați statuia calului și Biserica Maicii Domnului, ambele fiind bine conectate la rețea. La prânz, drumul vă duce spre Hanssenspark-ul înghețat. După-amiaza, tranzitul vă poartă spre Domeniul Drie Fonteinen. Călătoria oferă timp de încălzire între vizite, înainte ca amurgul să se lase și luminile orașului să se aprindă.",
+            "en": "Explore Vilvoorde in winter using the efficient bus and train network. Start at the central bus station, where you can wait indoors. Visit the Draught Horse statue and the Church of Our Lady, both well-connected to local lines. At noon, travel to the frosty Hanssenspark. In the afternoon, transit takes you comfortably to the Drie Fonteinen Domain. The rides offer valuable warming-up time between winter sightseeing stops before dusk settles over the city."
+          },
+          "stops": [
+            {
+              "name": "Vilvoorde Central Bus Station",
+              "tip_5lang": {
+                "de": "In der Wartehalle ist es deutlich wärmer als draußen.",
+                "hu": "A váróteremben jóval melegebb van, mint kint.",
+                "ro": "În sala de așteptare este mult mai cald decât afară.",
+                "en": "The waiting hall is significantly warmer than outside."
+              }
+            },
+            {
+              "name": "The Brabant Draught Horse",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp für ein Foto der winterlichen Statue.",
+                "hu": "Egy rövid megálló a téli szobor fotózásához.",
+                "ro": "O oprire scurtă pentru o poză cu statuia iarna.",
+                "en": "A quick stop for a photo of the winter statue."
+              }
+            },
+            {
+              "name": "Church of Our Lady",
+              "tip_5lang": {
+                "de": "Die Bushaltestellen sind nur wenige Meter entfernt.",
+                "hu": "A buszmegállók mindössze pár méterre találhatók.",
+                "ro": "Stațiile de autobuz sunt la doar câțiva metri distanță.",
+                "en": "The bus stops are only a few meters away."
+              }
+            },
+            {
+              "name": "Hanssenspark",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Bus, um die Zeit im kalten Wind zu minimieren.",
+                "hu": "Használja a buszt a hideg szélben töltött idő csökkentésére.",
+                "ro": "Folosiți autobuzul pentru a minimiza timpul în vânt.",
+                "en": "Use the bus to minimize your time in the cold wind."
+              }
+            },
+            {
+              "name": "Drie Fonteinen Domain Bus Stop",
+              "tip_5lang": {
+                "de": "Achten Sie auf den Fahrplan für die Rückfahrt im Dunkeln.",
+                "hu": "Figyelje a menetrendet a sötétben való visszautazáshoz.",
+                "ro": "Verificați programul pentru întoarcerea pe întuneric.",
+                "en": "Check the schedule for your return trip in the dark."
+              }
+            },
+            {
+              "name": "Provincial Domain Drie Fonteinen",
+              "tip_5lang": {
+                "de": "Der Parkeingang ist von der Haltestelle aus gut beleuchtet.",
+                "hu": "A park bejárata a megállótól jól megvilágított.",
+                "ro": "Intrarea în parc este bine iluminată de la stație.",
+                "en": "The park entrance is well-lit from the bus stop."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie warme Kleidung für die Wartezeiten an Haltestellen.",
+              "Die De Lijn App zeigt Verspätungen in Echtzeit an.",
+              "Im Bahnhof gibt es oft kleine Kioske für heiße Getränke.",
+              "Vilvoorde ist ein wichtiger Knotenpunkt, Züge sind oft pünktlich."
+            ],
+            "hu": [
+              "Öltözzön melegen a megállókban való várakozáshoz.",
+              "A De Lijn app valós időben mutatja a késéseket.",
+              "Az állomáson gyakran vannak büfék forró italokkal.",
+              "Vilvoorde fontos csomópont, a vonatok gyakran pontosak."
+            ],
+            "ro": [
+              "Purtați haine groase pentru timpul de așteptare în stații.",
+              "Aplicația De Lijn arată întârzierile în timp real.",
+              "În gară există adesea chioșcuri pentru băuturi calde.",
+              "Vilvoorde este un nod important, trenurile sunt punctuale."
+            ],
+            "en": [
+              "Dress warmly for potential wait times at outdoor stops.",
+              "The De Lijn app provides real-time delay updates.",
+              "The station often has small kiosks for hot beverages.",
+              "Vilvoorde is a major hub; trains are usually on time."
+            ]
+          }
+        }
       }
     }
   }

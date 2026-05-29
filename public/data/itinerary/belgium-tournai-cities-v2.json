@@ -395,6 +395,206 @@
           "Tournai is very walkable, with all major sights located close to each other.",
           "Enjoy the relaxed atmosphere of the city, away from the major tourist crowds."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Tournai zeigt sich im Regen von seiner mystischen Seite, wenn der Schieferglanz der Grand Place im nassen Licht leuchtet. Der Vormittag gehört den hohen Gewölben, die sicheren Schutz vor den Schauern bieten. Mittags laden die gemütlichen Bistros am Marktplatz zum Verweilen ein, während man den Tropfen zusieht. Nachmittags bieten die weitläufigen Museen eine trockene Kulturreise, bis der Tag in der sanften Dämmerung an der Schelde ausklingt.",
+            "hu": "Tournai az esőben mutatja meg igazán misztikus arcát, amikor a Grand Place kövei nedvesen csillognak. A délelőtt a hatalmas katedrális és a harangtorony boltívei alatt telik, ahol az eső elől menedéket találunk. Délben a főtér hangulatos kávézói hívogatnak, miközben az ablakon túli vízcseppeket nézzük. Délután a város világhírű múzeumai kínálnak száraz, kulturális kikapcsolódást, mielőtt a nap a Schelde partján, a szürkületben véget érne.",
+            "ro": "Tournai își dezvăluie latura mistică în ploaie, când pietrele din Grand Place strălucesc sub reflexiile umede. Dimineața este dedicată bolților înalte ale catedralei, oferind un adăpost sigur împotriva averselor. La prânz, bistrourile cochete din piață vă invită să urmăriți picăturile de la căldură. După-amiaza, muzeele spațioase oferă o călătorie culturală uscată, înainte ca ziua să se încheie în amurgul blând de pe malul râului Escaut.",
+            "en": "Tournai reveals its mystical side in the rain, with the cobblestones of the Grand Place glistening under wet light. The morning is spent under the high vaults of the cathedral, providing safe shelter from the showers. At noon, cozy bistros on the square invite you to linger while watching the raindrops. In the afternoon, the city's vast museums offer a dry cultural journey before the day ends in the gentle twilight by the Scheldt river."
+          },
+          "stops": [
+            {
+              "name": "Grand-Place (Main Square)",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden der umliegenden Gebäude als Regenschutz.",
+                "hu": "Használja a környékbeli épületek árkádjait eső elleni védelemként.",
+                "ro": "Folosiți arcadele clădirilor din jur ca protecție împotriva ploii.",
+                "en": "Use the arcades of the surrounding buildings as rain protection."
+              }
+            },
+            {
+              "name": "Belfry of Tournai",
+              "tip_5lang": {
+                "de": "Der Aufstieg ist steil, aber der Innenraum bleibt absolut trocken.",
+                "hu": "A feljutás meredek, de a torony belseje teljesen száraz marad.",
+                "ro": "Urcarea este abruptă, dar interiorul turnului rămâne complet uscat.",
+                "en": "The climb is steep, but the interior stays perfectly dry."
+              }
+            },
+            {
+              "name": "Saint-Quentin Church",
+              "tip_5lang": {
+                "de": "Ein idealer Ort für eine kurze, besinnliche Regenpause.",
+                "hu": "Ideális hely egy rövid, elmélyült pihenőre az eső elől.",
+                "ro": "Un loc ideal pentru o scurtă pauză de reflecție ferită de ploaie.",
+                "en": "An ideal spot for a short, reflective break from the rain."
+              }
+            },
+            {
+              "name": "Notre-Dame Cathedral",
+              "tip_5lang": {
+                "de": "Das riesige Kirchenschiff bietet perfekten Schutz für längere Zeit.",
+                "hu": "A hatalmas hajó tökéletes és tartós menedéket nyújt a záporok elől.",
+                "ro": "Nava uriașă oferă un adăpost perfect pentru o perioadă lungă.",
+                "en": "The massive nave provides perfect long-term shelter from showers."
+              }
+            },
+            {
+              "name": "Pont des Trous (Bridge of Holes)",
+              "tip_5lang": {
+                "de": "Achtung, die Uferwege können bei Nässe etwas rutschig sein.",
+                "hu": "Vigyázat, a folyóparti utak nedvesen kissé csúszósak lehetnek.",
+                "ro": "Atenție, potecile de pe malul râului pot fi alunecoase când sunt ude.",
+                "en": "Caution, the riverside paths can be a bit slippery when wet."
+              }
+            },
+            {
+              "name": "TAMAT - Museum of Tapestry Arts",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um die regenreichste Zeit des Tages im Trockenen zu verbringen.",
+                "hu": "Tökéletes hely a nap legesősebb részének szárazon történő eltöltéséhez.",
+                "ro": "Locul perfect pentru a petrece cea mai ploioasă parte a zilei la uscat.",
+                "en": "Perfect place to spend the rainiest part of the day indoors."
+              }
+            },
+            {
+              "name": "Museum of Fine Arts",
+              "tip_5lang": {
+                "de": "Die von Horta entworfene Architektur wirkt auch an grauen Tagen hell.",
+                "hu": "A Horta által tervezett épület szürke napokon is világosnak hat.",
+                "ro": "Arhitectura proiectată de Horta pare luminoasă chiar și în zilele gri.",
+                "en": "The Horta-designed architecture feels bright even on grey days."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nehmen Sie einen stabilen Regenschirm mit, da es an der Schelde windig sein kann.",
+              "Die Museen in Tournai sind großzügig geschnitten und ideal für Regentage.",
+              "Achten Sie auf die Pflastersteine in der Altstadt, sie werden bei Nässe glatt.",
+              "Viele Cafés an der Grand Place haben überdachte Außenbereiche mit Heizstrahlern."
+            ],
+            "hu": [
+              "Vigyen magával strapabíró esernyőt, mert a Schelde partján szeles lehet az idő.",
+              "Tournai múzeumai tágasak, így ideálisak az esős napok áthidalására.",
+              "Ügyeljen az óváros macskaköveire, mert nedvesen csúszóssá válnak.",
+              "A Grand Place kávézói közül sok rendelkezik fűtött, fedett terasszal."
+            ],
+            "ro": [
+              "Luați o umbrelă rezistentă, deoarece pe malul râului Escaut poate fi vânt.",
+              "Muzeele din Tournai sunt spațioase și ideale pentru zilele ploioase.",
+              "Atenție la pavajul din centrul vechi, devine alunecos când este ud.",
+              "Multe cafenele din Grand Place au terase acoperite dotate cu încălzitoare."
+            ],
+            "en": [
+              "Bring a sturdy umbrella as it can be windy along the Scheldt river.",
+              "Tournai's museums are spacious, making them ideal for rainy days.",
+              "Watch your step on the old town cobblestones; they get slippery when wet.",
+              "Many cafes on the Grand Place have covered outdoor areas with heaters."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Tournai im Winter strahlt eine stille Eleganz aus, wenn der Frost die gotischen Fassaden überzieht. Der Morgen beginnt mit dem Aufstieg zum Belfried, um die klare Winterluft über den Dächern zu genießen. Mittags wärmt man sich bei belgischen Spezialitäten in den gemütlichen Stuben der Altstadt auf. Der Nachmittag steht im Zeichen der Kunst in beheizten Museumshallen, bevor die Stadtlichter in der frühen Dunkelheit glänzen.",
+            "hu": "Tournai télen csendes eleganciát áraszt, amikor a zúzmara belepi a gótikus homlokzatokat. A reggel a harangtorony megmászásával indul, hogy élvezzük a friss téli levegőt a háztetők felett. Délben belga specialitásokkal melegszünk fel az óváros barátságos vendéglőiben. A délután a művészeté a fűtött múzeumi termekben, mielőtt a város fényei felgyúlnának a korai sötétségben.",
+            "ro": "Tournai iarna emană o eleganță discretă, când chiciura acoperă fațadele gotice. Dimineața începe cu urcarea în turnul cu clopotniță pentru a savura aerul rece de iarnă deasupra acoperișurilor. La prânz, ne încălzim cu specialități belgiene în localurile primitoare din centrul vechi. După-amiaza este dedicată artei în sălile încălzite ale muzeelor, înainte ca luminile orașului să strălucească în întunericul timpuriu.",
+            "en": "Tournai in winter exudes a quiet elegance as frost coats the Gothic facades. The morning begins with a climb up the Belfry to enjoy the crisp winter air over the rooftops. At noon, warm up with Belgian specialties in the cozy parlors of the old town. The afternoon is dedicated to art in heated museum halls before the city lights sparkle in the early darkness."
+          },
+          "stops": [
+            {
+              "name": "Grand-Place (Main Square)",
+              "tip_5lang": {
+                "de": "Genießen Sie eine heiße Waffel, um sich während der Besichtigung aufzuwärmen.",
+                "hu": "Egyen egy forró gofrit, hogy felmelegedjen a nézelődés közben.",
+                "ro": "Savurați o vafă fierbinte pentru a vă încălzi în timpul vizitei.",
+                "en": "Enjoy a hot waffle to warm up during your sightseeing."
+              }
+            },
+            {
+              "name": "Belfry of Tournai",
+              "tip_5lang": {
+                "de": "Oben zieht es oft stark; Handschuhe und Mütze sind hier Pflicht.",
+                "hu": "A torony tetején gyakran erős a huzat; a kesztyű és sapka kötelező.",
+                "ro": "Sus trage curentul destul de tare; mănușile și căciula sunt obligatorii.",
+                "en": "It’s often very drafty at the top; gloves and a hat are essential here."
+              }
+            },
+            {
+              "name": "Saint-Quentin Church",
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten die Kälte, ziehen Sie sich warm an.",
+                "hu": "A vastag falak tartják a hideget, öltözzön fel rétegesen.",
+                "ro": "Zidurile groase rețin frigul, așa că îmbrăcați-vă gros.",
+                "en": "The thick walls retain the cold; make sure to dress warmly."
+              }
+            },
+            {
+              "name": "Notre-Dame Cathedral",
+              "tip_5lang": {
+                "de": "Das Innere ist eindrucksvoll, aber im Winter meist sehr kühl.",
+                "hu": "A belső tér lenyűgöző, de télen általában nagyon hűvös.",
+                "ro": "Interiorul este impresionant, dar iarna este de obicei foarte răcoros.",
+                "en": "The interior is impressive but usually very chilly in winter."
+              }
+            },
+            {
+              "name": "Pont des Trous (Bridge of Holes)",
+              "tip_5lang": {
+                "de": "Die Brücke wirkt im winterlichen Nebel besonders malerisch.",
+                "hu": "A híd a téli ködben különösen festői látványt nyújt.",
+                "ro": "Podul arată deosebit de pitoresc în ceața de iarnă.",
+                "en": "The bridge looks particularly picturesque in the winter mist."
+              }
+            },
+            {
+              "name": "TAMAT - Museum of Tapestry Arts",
+              "tip_5lang": {
+                "de": "Die Textilien vermitteln auch optisch ein Gefühl von Wärme.",
+                "hu": "A textíliák látványa is melegséget áraszt a téli napon.",
+                "ro": "Priveliștea textilelor oferă o senzație de căldură în zilele de iarnă.",
+                "en": "The view of the textiles provides a sense of warmth on a winter day."
+              }
+            },
+            {
+              "name": "Museum of Fine Arts",
+              "tip_5lang": {
+                "de": "Ein perfekt beheizter Ort für den späten Winternachmittag.",
+                "hu": "Tökéletesen fűtött helyszín a késő téli délutánra.",
+                "ro": "O locație perfect încălzită pentru după-amiaza târzie de iarnă.",
+                "en": "A perfectly heated location for the late winter afternoon."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Bedenken Sie, dass es bereits gegen 16:30 Uhr dunkel wird.",
+              "Tragen Sie festes Schuhwerk, da das Pflaster im Winter glatt sein kann.",
+              "Suchen Sie gezielt Cafés mit Kaminen in der Altstadt auf.",
+              "Die Innenräume der Kirchen sind im Winter oft kälter als draußen."
+            ],
+            "hu": [
+              "Vegye figyelembe, hogy délután fél 5 körül már sötétedik.",
+              "Viseljen stabil lábbelit, mert a macskakő télen csúszós lehet.",
+              "Keressen kandallós kávézókat az óváros eldugottabb utcáiban.",
+              "A templomok belső terei télen gyakran hidegebbek, mint a kinti levegő."
+            ],
+            "ro": [
+              "Rețineți că se întunecă deja în jur de ora 16:30.",
+              "Purtați încălțăminte stabilă, deoarece pavajul poate fi alunecos iarna.",
+              "Căutați cafenele cu șemineu în centrul vechi al orașului.",
+              "Interioarele bisericilor sunt adesea mai reci decât aerul de afară iarna."
+            ],
+            "en": [
+              "Keep in mind that it gets dark as early as 4:30 PM.",
+              "Wear sturdy footwear as the cobblestones can be slippery in winter.",
+              "Look for cafes with fireplaces in the hidden streets of the old town.",
+              "Church interiors are often colder than the outside air in winter."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -747,6 +947,206 @@
           "Use the cycle paths along the Scheldt for a relaxing ride.",
           "Always lock your bike securely, especially at tourist sights."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour durch Tournai im Regen erfordert die richtige Einstellung und gute Kleidung. Der Vormittag führt zügig durch die Altstadt, wobei die Pfützen das Kopfsteinpflaster in einen Spiegel verwandeln. Mittags bietet ein Stopp im Museum eine willkommene Trockenpause für Mensch und Rad. Nachmittags gleitet man am Flussufer entlang, wo die Gischt der Schelde und der Regen eins werden, bevor man den Tag bei einem wärmenden Getränk beendet.",
+            "hu": "Egy kerékpártúra Tournai-ban esőben megfelelő hozzáállást és jó ruházatot igényel. A délelőtt gyorsan telik az óvárosban, ahol a tócsák tükörré varázsolják a macskaköveket. Délben egy múzeumi megálló kínál szívesen látott száraz szünetet embernek és gépnek egyaránt. Délután a folyóparton suhanunk, ahol a Schelde permete és az eső eggyé válik, mielőtt egy melegítő itallal zárnánk a napot.",
+            "ro": "O tură cu bicicleta prin Tournai pe ploaie necesită atitudinea potrivită și echipament bun. Dimineața trece rapid prin centrul vechi, unde bălțile transformă pavajul într-o oglindă. La prânz, o oprire la muzeu oferă o pauză binemeritată de uscare pentru ciclist și bicicletă. După-amiaza alunecăm pe malul râului, unde vaporii apei și ploaia se contopesc, înainte de a încheia ziua cu o băutură caldă.",
+            "en": "A bike tour through Tournai in the rain requires the right attitude and good gear. The morning moves quickly through the old town, where puddles turn the cobblestones into mirrors. At noon, a museum stop offers a welcome dry break for both rider and bike. In the afternoon, glide along the riverbank where the spray of the Scheldt and the rain become one, before ending the day with a warming drink."
+          },
+          "stops": [
+            {
+              "name": "Grand-Place (Main Square)",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad unter den Vorsprüngen der Gildehäuser.",
+                "hu": "Parkolja le a bringát a céhházak kinyúló tetői alatt.",
+                "ro": "Parcați bicicleta sub streșinile caselor breslelor.",
+                "en": "Park your bike under the overhangs of the guild houses."
+              }
+            },
+            {
+              "name": "Belfry of Tournai",
+              "tip_5lang": {
+                "de": "Achten Sie beim Absteigen auf rutschige Markierungen auf der Fahrbahn.",
+                "hu": "Leszálláskor ügyeljen az úttesten lévő csúszós felfestésekre.",
+                "ro": "Atenție la marcajele alunecoase de pe carosabil când coborâți.",
+                "en": "Watch out for slippery road markings when dismounting."
+              }
+            },
+            {
+              "name": "Pont des Trous (Bridge of Holes)",
+              "tip_5lang": {
+                "de": "Die Radwege entlang der Schelde sind gut ausgebaut, aber windanfällig.",
+                "hu": "A Schelde menti kerékpárutak jók, de nagyon ki vannak téve a szélnek.",
+                "ro": "Pistele de biciclete de-a lungul râului sunt bune, dar expuse la vânt.",
+                "en": "The bike paths along the Scheldt are well-maintained but very windy."
+              }
+            },
+            {
+              "name": "Folklore Museum",
+              "tip_5lang": {
+                "de": "Ein kleineres Museum, ideal für eine kurze Flucht vor einem Schauer.",
+                "hu": "Kisebb múzeum, ideális menekülőút egy hirtelen zápor elől.",
+                "ro": "Un muzeu mai mic, ideal pentru a scăpa de o aversă trecătoare.",
+                "en": "A smaller museum, ideal for escaping a sudden rain shower."
+              }
+            },
+            {
+              "name": "Notre-Dame Cathedral",
+              "tip_5lang": {
+                "de": "Suchen Sie einen sicheren Abstellplatz nahe der Kathedrale.",
+                "hu": "Keressen egy biztonságos tárolót a katedrális közelében.",
+                "ro": "Căutați un loc de parcare sigur în apropierea catedralei.",
+                "en": "Look for a secure bike rack near the cathedral."
+              }
+            },
+            {
+              "name": "Museum of Fine Arts",
+              "tip_5lang": {
+                "de": "Hier können Sie sich Zeit lassen, während der Regen draußen abzieht.",
+                "hu": "Itt bőven hagyhat időt magának, amíg elvonul kint az eső.",
+                "ro": "Aici puteți zăbovi destul timp până trece ploaia de afară.",
+                "en": "You can take your time here while the rain passes outside."
+              }
+            },
+            {
+              "name": "Lunch near the Museum",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Lokal mit Sichtkontakt zu Ihrem abgestellten Rad.",
+                "hu": "Válasszon olyan helyet, ahonnan rálát a leparkolt kerékpárra.",
+                "ro": "Alegeți un local de unde puteți supraveghea bicicleta parcată.",
+                "en": "Choose a place where you can keep an eye on your parked bike."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Verwenden Sie wasserdichte Packtaschen für Ihre Wertsachen.",
+              "Bremsen Sie auf nassem Kopfsteinpflaster vorsichtig und frühzeitig.",
+              "Ein kleiner Abzieher für den Sattel ist bei Regen Gold wert.",
+              "Die Radwege am Fluss können bei starkem Regen leicht verschlammen."
+            ],
+            "hu": [
+              "Használjon vízálló táskákat az értéktárgyai védelmében.",
+              "A nedves macskakövön óvatosan és időben kezdjen el fékezni.",
+              "Egy kis lehúzó a nyereghez aranyat ér esős időben.",
+              "A folyóparti kerékpárutak nagy esőben néhol sárosak lehetnek."
+            ],
+            "ro": [
+              "Folosiți genți impermeabile pentru obiectele de valoare.",
+              "Frânați cu prudență și din timp pe pavajul umed.",
+              "O mică lavetă pentru șa este extrem de utilă pe ploaie.",
+              "Pistele de pe malul râului pot deveni noroioase în caz de ploaie torențială."
+            ],
+            "en": [
+              "Use waterproof panniers to protect your valuables.",
+              "Brake carefully and early on wet cobblestones.",
+              "A small squeegee for the saddle is worth its weight in gold in the rain.",
+              "The riverside bike paths can get a bit muddy during heavy rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im winterlichen Tournai bietet klare Ausblicke und leere Wege. Der Vormittag führt durch die frostige Altstadt, wo der Atem in der kühlen Luft tanzt. Ein Stopp beim Belfried bietet die Chance zur Bewegung, bevor man sich mittags in einer der historischen Gassen stärkt. Der Nachmittag am Fluss ist erfrischend, wobei das weiche Winterlicht die Brücken besonders schön in Szene setzt, bevor man die Fahrt im gemütlichen Zentrum beendet.",
+            "hu": "A téli Tournai-ban kerékpározni tiszta kilátást és üres utakat jelent. A délelőtt a fagyos óvároson át vezet, ahol a leheletünk táncol a hűvös levegőben. A harangtoronynál tett megálló jó alkalom a mozgásra, mielőtt délben egy történelmi utcácskában erőt gyűjtenénk. A délután a folyónál frissítő, a lágy téli fények pedig különösen szépen emelik ki a hidakat a túra végén.",
+            "ro": "Mersul cu bicicleta în Tournai iarna oferă perspective clare și drumuri libere. Dimineața trece prin centrul vechi înghețat, unde respirația dansează în aerul rece. O oprire la clopotniță oferă ocazia de mișcare, înainte de a vă întrema la prânz pe o străduță istorică. După-amiaza pe malul râului este revigorantă, lumina caldă de iarnă scoțând în evidență podurile la final de tură.",
+            "en": "Cycling in winter Tournai offers clear views and empty paths. The morning leads through the frosty old town, where your breath dances in the cool air. A stop at the Belfry offers a chance for movement before refortifying in a historical alley at noon. The afternoon by the river is refreshing, with the soft winter light highlighting the bridges beautifully as the ride ends."
+          },
+          "stops": [
+            {
+              "name": "Grand-Place (Main Square)",
+              "tip_5lang": {
+                "de": "Tragen Sie warme Handschuhe; der Fahrtwind ist im Winter eisig.",
+                "hu": "Viseljen meleg kesztyűt; a menetszél télen jeges lehet.",
+                "ro": "Purtați mănuși groase; vântul din timpul mersului este înghețat.",
+                "en": "Wear warm gloves; the wind chill while riding is icy in winter."
+              }
+            },
+            {
+              "name": "Belfry of Tournai",
+              "tip_5lang": {
+                "de": "Der Aufstieg zu Fuß wärmt den Körper nach der Fahrt gut auf.",
+                "hu": "A gyalogos feljutás jól átmelegíti a testet a tekerés után.",
+                "ro": "Urcarea pe jos vă va încălzi bine corpul după pedalat.",
+                "en": "Climbing up on foot is a great way to warm up your body after the ride."
+              }
+            },
+            {
+              "name": "Pont des Trous (Bridge of Holes)",
+              "tip_5lang": {
+                "de": "Vorsicht vor überfrierender Nässe auf den Brückenbelägen.",
+                "hu": "Vigyázzon a hidak burkolatán előforduló jegesedésre.",
+                "ro": "Atenție la porțiunile înghețate de pe suprafața podurilor.",
+                "en": "Beware of icy patches on the bridge surfaces."
+              }
+            },
+            {
+              "name": "Folklore Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Besichtigung für eine kurze Aufwärmpause.",
+                "hu": "Használja ki a látogatást egy rövid felmelegedési szünetre.",
+                "ro": "Folosiți vizita pentru o scurtă pauză de încălzire.",
+                "en": "Use the visit as a brief warm-up break."
+              }
+            },
+            {
+              "name": "Notre-Dame Cathedral",
+              "tip_5lang": {
+                "de": "Achten Sie auf ausreichend beleuchtete Abstellplätze am Nachmittag.",
+                "hu": "Délután már keressen jól kivilágított tárolóhelyeket.",
+                "ro": "Căutați locuri de parcare bine iluminate după-amiaza.",
+                "en": "Look for well-lit parking spots in the afternoon."
+              }
+            },
+            {
+              "name": "Museum of Fine Arts",
+              "tip_5lang": {
+                "de": "Schließen Sie Ihr Rad gut ab und genießen Sie die Wärme drinnen.",
+                "hu": "Zárja le jól a biciklit, és élvezze a benti meleget.",
+                "ro": "Asigurați bine bicicleta și bucurați-vă de căldura din interior.",
+                "en": "Lock your bike securely and enjoy the warmth inside."
+              }
+            },
+            {
+              "name": "Lunch near the Museum",
+              "tip_5lang": {
+                "de": "Kohlenhydratreiche Kost hilft gegen die Winterkälte.",
+                "hu": "A szénhidrátban gazdag ételek segítenek a téli hideg ellen.",
+                "ro": "Mâncarea bogată în carbohidrați ajută împotriva frigului.",
+                "en": "Carbohydrate-rich food helps combat the winter cold."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Ihre Fahrradbeleuchtung einwandfrei funktioniert.",
+              "Kleiden Sie sich nach dem Zwiebelprinzip, um Überhitzung zu vermeiden.",
+              "Prüfen Sie den Reifendruck; etwas weniger Druck gibt mehr Grip auf Glätte.",
+              "Die Wege am Flussufer können im Winter windiger sein als in der Stadt."
+            ],
+            "hu": [
+              "Győződjön meg róla, hogy a kerékpár világítása hibátlanul működik.",
+              "Öltözzön rétegesen, hogy elkerülje a túlhevülést tekerés közben.",
+              "Ellenőrizze a guminyomást; a kicsit puhább gumi jobban tapad a csúszós úton.",
+              "A folyóparti utak télen szelesebbek lehetnek, mint a város belső részei."
+            ],
+            "ro": [
+              "Asigurați-vă că luminile bicicletei funcționează impecabil.",
+              "Îmbrăcați-vă în straturi pentru a evita supraîncălzirea.",
+              "Verificați presiunea pneurilor; o presiune mai mică oferă aderență mai bună.",
+              "Căile de pe malul râului pot fi mai vântoase iarna decât în oraș."
+            ],
+            "en": [
+              "Ensure your bike lights are working perfectly.",
+              "Dress in layers to avoid overheating while riding.",
+              "Check tire pressure; slightly lower pressure provides better grip on slippery roads.",
+              "The riverside paths can be windier in winter than in the city center."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -754,7 +1154,7 @@
       "speed_kmh": 28,
       "start": "09:00",
       "end_estimate": "17:00",
-      "total_km": 3.3,
+      "total_km": 1.5,
       "stop_count": 6,
       "stops": [
         {
@@ -1083,6 +1483,188 @@
           "Most parking is paid, have coins or a parking app ready.",
           "Tournai is a Low Emission Zone (LEZ), check if your vehicle complies before entering."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Tournai mit dem Auto im Regen ist komfortabel, da man die Distanzen zwischen den Museen trocken überbrückt. Der Vormittag beginnt auf einem zentralen Parkplatz, von dem aus die Highlights schnell erreichbar sind. Mittags nutzt man die Flexibilität des Wagens für einen Abstecher zu den etwas entfernteren Kulturstätten. Der Nachmittag wird im TAMAT oder dem Kunstmuseum verbracht, während der Regen gegen die Scheiben prasselt, bis man entspannt die Heimreise antritt.",
+            "hu": "Tournai autóval esőben kényelmes megoldás, hiszen szárazon hidalhatjuk át a múzeumok közötti távolságot. A délelőtt egy központi parkolóban indul, ahonnan a látnivalók gyorsan elérhetőek. Délben kihasználjuk az autó rugalmasságát egy-egy távolabbi kulturális helyszín felkereséséhez. A délutánt a TAMAT-ban vagy a szépművészeti múzeumban töltjük, miközben az eső az ablakon kopog, végül kényelmesen indulunk haza.",
+            "ro": "Tournai cu mașina pe ploaie este o soluție confortabilă, permițând parcurgerea distanțelor dintre muzee la uscat. Dimineața începe într-o parcare centrală, de unde atracțiile sunt ușor accesibile. La prânz, profităm de flexibilitatea mașinii pentru a vizita obiective culturale mai îndepărtate. După-amiaza este rezervată muzeelor, în timp ce ploaia bate în geam, încheind vizita într-un mod relaxat.",
+            "en": "Tournai by car in the rain is a comfortable choice, allowing you to bridge the distances between museums while staying dry. The morning starts at a central parking lot from which the highlights are quickly reachable. At noon, use the car's flexibility to visit slightly more distant cultural sites. The afternoon is spent at TAMAT or the Art Museum while rain patters against the windows, before a relaxed drive home."
+          },
+          "stops": [
+            {
+              "name": "Esplanade de l'Europe Parking",
+              "tip_5lang": {
+                "de": "Großer Parkplatz, ideal um den Wagen während der Schauer abzustellen.",
+                "hu": "Tágas parkoló, ideális az autó tárolására a záporok alatt.",
+                "ro": "Parcare mare, ideală pentru a lăsa mașina în timpul averselor.",
+                "en": "Large parking area, ideal for leaving the car during rain showers."
+              }
+            },
+            {
+              "name": "Cluster 1: Historic Centre",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen den Gebäuden minimieren die Zeit im Regen.",
+                "hu": "Az épületek közti rövid távolság minimalizálja az esőben töltött időt.",
+                "ro": "Distanțele scurte între clădiri reduc timpul petrecut în ploaie.",
+                "en": "Short distances between buildings minimize time spent in the rain."
+              }
+            },
+            {
+              "name": "Belfry & Cathedral",
+              "tip_5lang": {
+                "de": "Diese beiden Wahrzeichen lassen sich fast vollständig wettergeschützt erkunden.",
+                "hu": "Ez a két látnivaló szinte teljesen védett az időjárástól.",
+                "ro": "Aceste două repere pot fi explorate fiind protejați de intemperii.",
+                "en": "These two landmarks can be explored while mostly sheltered from the weather."
+              }
+            },
+            {
+              "name": "Lunch & TAMAT",
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Museumseingang.",
+                "hu": "Parkoljon a lehető legközelebb a múzeum bejáratához.",
+                "ro": "Parcați cât mai aproape de intrarea muzeului.",
+                "en": "Park as close to the museum entrance as possible."
+              }
+            },
+            {
+              "name": "Riverbank Stroll",
+              "tip_5lang": {
+                "de": "Ein kurzer Gang zur Brücke; bei starkem Regen vom Auto aus sichtbar.",
+                "hu": "Rövid séta a hídhoz; nagy esőben akár az autóból is látható.",
+                "ro": "O scurtă plimbare la pod; vizibil chiar și din mașină în caz de ploaie.",
+                "en": "A short walk to the bridge; visible from the car during heavy rain."
+              }
+            },
+            {
+              "name": "Return to Car",
+              "tip_5lang": {
+                "de": "Legen Sie eine trockene Decke für die Rückfahrt bereit.",
+                "hu": "Készítsen be egy száraz takarót a visszaútra.",
+                "ro": "Pregătiți o pătură uscată pentru drumul de întoarcere.",
+                "en": "Have a dry blanket ready for the drive back."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie Park-Apps, um das Bezahlen im Regen am Automaten zu vermeiden.",
+              "Achten Sie auf Einbahnstraßen in der engen Altstadt bei schlechter Sicht.",
+              "Lassen Sie keine Wertsachen sichtbar im Auto liegen.",
+              "Ein Regenschirm im Kofferraum ist bei diesem Modus unverzichtbar."
+            ],
+            "hu": [
+              "Használjon parkolási applikációt, hogy ne kelljen az esőben az automatánál fizetni.",
+              "Ügyeljen az óvárosi egyirányú utcákra korlátozott látási viszonyok mellett.",
+              "Ne hagyjon értéktárgyat látható helyen az autóban.",
+              "Egy esernyő a csomagtartóban elengedhetetlen ehhez a programhoz."
+            ],
+            "ro": [
+              "Folosiți aplicații de parcare pentru a evita plata la automat pe ploaie.",
+              "Atenție la străzile cu sens unic din centrul vechi în condiții de vizibilitate redusă.",
+              "Nu lăsați obiecte de valoare la vedere în mașină.",
+              "O umbrelă în portbagaj este indispensabilă pentru acest mod de transport."
+            ],
+            "en": [
+              "Use parking apps to avoid paying at the machine in the rain.",
+              "Watch out for one-way streets in the tight old town during poor visibility.",
+              "Do not leave valuables visible in the car.",
+              "An umbrella in the trunk is essential for this itinerary."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Tournai im Auto bei Winterwetter ermöglicht eine warme und effiziente Stadterkundung. Der Morgen beginnt mit der Ankunft am Esplanade-Parkplatz, von wo aus man schnell in die beheizte Kathedrale gelangt. Mittags ist der Wagen ein Rückzugsort, um zum nächsten Restaurant in der Altstadt zu wechseln. Der Nachmittag wird kulturell in den Museen vertieft, bevor man im Schutze des Autos die beleuchtete Stadtkulisse bei der Abfahrt genießt.",
+            "hu": "Tournai autóval téli időben meleg és hatékony városnézést tesz lehetővé. A reggel az Esplanade parkolóban indul, ahonnan gyorsan bejuthatunk a fűtött katedrálisba. Délben az autó menedékként szolgál, amíg átmegyünk az óváros egyik étterméhez. A délután a múzeumok kulturális mélységeiről szól, mielőtt az autó védelmében élveznénk a kivilágított várost az indulás előtt.",
+            "ro": "Tournai cu mașina pe timp de iarnă permite o explorare caldă și eficientă a orașului. Dimineața începe cu sosirea în parcarea Esplanade, de unde se ajunge rapid în catedrala încălzită. La prânz, mașina servește ca refugiu pentru a merge la un restaurant din centrul vechi. După-amiaza este dedicată muzeelor, înainte de a admira orașul iluminat din confortul mașinii la plecare.",
+            "en": "Tournai by car in winter weather allows for a warm and efficient exploration of the city. The morning starts with arrival at the Esplanade parking, from where you can quickly reach the heated cathedral. At noon, the car serves as a retreat to move to the next restaurant in the old town. The afternoon is spent deep in the culture of the museums before enjoying the illuminated city from the shelter of your car upon departure."
+          },
+          "stops": [
+            {
+              "name": "Esplanade de l'Europe Parking",
+              "tip_5lang": {
+                "de": "Achten Sie auf geräumte Parkflächen bei Schneefall.",
+                "hu": "Havas időben keressen letakarított parkolóhelyet.",
+                "ro": "Căutați locuri de parcare curățate în caz de ninsoare.",
+                "en": "Look for cleared parking spots in case of snowfall."
+              }
+            },
+            {
+              "name": "Cluster 1: Historic Centre",
+              "tip_5lang": {
+                "de": "Die Gehwege können im Winter morgens noch glatt sein.",
+                "hu": "A járdák télen reggelente még csúszósak lehetnek.",
+                "ro": "Troleul poate fi încă alunecos dimineața pe timp de iarnă.",
+                "en": "The sidewalks can still be slippery in the mornings during winter."
+              }
+            },
+            {
+              "name": "Belfry & Cathedral",
+              "tip_5lang": {
+                "de": "Planen Sie Zeit zum Aufwärmen nach dem Besuch der Kathedrale ein.",
+                "hu": "Tervezzen időt a felmelegedésre a katedrális meglátogatása után.",
+                "ro": "Planificați timp pentru a vă încălzi după vizitarea catedralei.",
+                "en": "Plan some time to warm up after visiting the cathedral."
+              }
+            },
+            {
+              "name": "Lunch & TAMAT",
+              "tip_5lang": {
+                "de": "Parkmöglichkeiten direkt am Museum nutzen, um Kältebrücken zu meiden.",
+                "hu": "Parkoljon közvetlenül a múzeumnál, hogy elkerülje a hosszú hideg sétát.",
+                "ro": "Parcați direct la muzeu pentru a evita plimbările lungi prin frig.",
+                "en": "Park directly at the museum to avoid long cold walks."
+              }
+            },
+            {
+              "name": "Riverbank Stroll",
+              "tip_5lang": {
+                "de": "Kurze Fotostopps sind auch bei eisigen Temperaturen möglich.",
+                "hu": "Rövid fotómegállók jeges szélben is kivitelezhetőek.",
+                "ro": "Scurte opriri pentru poze sunt posibile chiar și pe temperaturi scăzute.",
+                "en": "Short photo stops are feasible even in freezing temperatures."
+              }
+            },
+            {
+              "name": "Return to Car",
+              "tip_5lang": {
+                "de": "Heizen Sie den Wagen rechtzeitig für die Rückfahrt vor.",
+                "hu": "Fűtse fel időben az autót a hazaútra.",
+                "ro": "Încălziți mașina din timp pentru drumul de întoarcere.",
+                "en": "Preheat the car in good time for the drive back."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Ihr Wischwasser Frostschutzmittel enthält.",
+              "Ein Eiskratzer sollte im Winter immer griffbereit sein.",
+              "Das Parken auf der Esplanade ist oft unkomplizierter als in der engen Innenstadt.",
+              "Beachten Sie die verkürzten Öffnungszeiten mancher Cafés im Winter."
+            ],
+            "hu": [
+              "Ellenőrizze, hogy a szélvédőmosó folyadék fagyálló-e.",
+              "A jégkaparó télen mindig legyen kéznél az autóban.",
+              "Az Esplanade parkolónál általában egyszerűbb a helyzet, mint a szűk belvárosban.",
+              "Vegye figyelembe, hogy télen egyes kávézók korábban zárhatnak."
+            ],
+            "ro": [
+              "Asigurați-vă că lichidul de parbriz conține antigel.",
+              "Răzuitoarea de gheață trebuie să fie mereu la îndemână iarna.",
+              "Parcarea pe Esplanade este adesea mai simplă decât în centrul strâmt.",
+              "Rețineți că unele cafenele pot avea program scurt iarna."
+            ],
+            "en": [
+              "Ensure your windshield washer fluid contains antifreeze.",
+              "An ice scraper should always be handy in the car during winter.",
+              "Parking at the Esplanade is often easier than in the tight city center.",
+              "Note that some cafes may have shorter opening hours in winter."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1419,6 +2001,188 @@
           "Most sights in the center are walkable, so you'll only need the bus for getting to and from the station.",
           "Check the bus schedule for your return trip in advance."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Tournai mit öffentlichen Verkehrsmitteln im Regen ist eine gute Wahl, da der Bahnhof ein idealer Startpunkt ist. Der Vormittag führt vom trockenen Bahnhofsvorplatz schnell ins historische Zentrum. Mittags nutzt man die Busverbindungen, um zwischen den Sehenswürdigkeiten zu pendeln und Schauer zu umgehen. Der Nachmittag verbringt man gemütlich in den großen Museen, bevor der Zug einen am Abend wieder sicher und trocken nach Hause bringt.",
+            "hu": "Tournai tömegközlekedéssel esőben remek választás, mivel a vasútállomás ideális indópont. A délelőtt a száraz állomástól gyorsan az óváros központjába vezet. Délben érdemes buszra szállni a látnivalók között, hogy elkerüljük a nagyobb záporokat. A délután kényelmesen telik a nagy múzeumokban, mielőtt az esti vonat biztonságban és szárazon repítene minket haza.",
+            "ro": "Tournai cu transportul public pe ploaie este o alegere excelentă, gara fiind punctul ideal de pornire. Dimineața duce rapid de la gară în centrul istoric. La prânz, folosiți autobuzele pentru a pendula între atracții și pentru a evita ploile. După-amiaza trece plăcut în marile muzee, înainte ca trenul de seară să vă ducă înapoi acasă în siguranță și la uscat.",
+            "en": "Tournai by public transit in the rain is a great choice as the station is an ideal starting point. The morning leads quickly from the dry station area into the historic center. At noon, use bus connections to commute between sights and bypass the showers. The afternoon is spent comfortably in the large museums before the evening train takes you home safely and dry."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Tournai Station",
+              "tip_5lang": {
+                "de": "Das Bahnhofsgebäude bietet perfekten Schutz direkt nach der Ankunft.",
+                "hu": "Az állomás épülete tökéletes menedéket nyújt rögtön érkezés után.",
+                "ro": "Clădirea gării oferă un adăpost perfect imediat după sosire.",
+                "en": "The station building provides perfect shelter right after arrival."
+              }
+            },
+            {
+              "name": "Cluster 1: Grand-Place & Belfry",
+              "tip_5lang": {
+                "de": "Kurze Fußwege im Zentrum sind auch bei Regen gut machbar.",
+                "hu": "A központban lévő rövid séták esőben is jól bírhatóak.",
+                "ro": "Plimbările scurte în centru sunt fezabile chiar și pe ploaie.",
+                "en": "Short walks in the center are manageable even in the rain."
+              }
+            },
+            {
+              "name": "Notre-Dame Cathedral",
+              "tip_5lang": {
+                "de": "Nur wenige Schritte von den Bushaltestellen im Zentrum entfernt.",
+                "hu": "Csak pár lépésre található a belvárosi buszmegállóktól.",
+                "ro": "La doar câțiva pași de stațiile de autobuz din centru.",
+                "en": "Only a few steps away from the central bus stops."
+              }
+            },
+            {
+              "name": "Lunch and River Stroll",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant nahe einer Haltestelle für die Weiterfahrt.",
+                "hu": "Válasszon éttermet egy megálló közelében a könnyebb továbbhaladáshoz.",
+                "ro": "Alegeți un restaurant lângă o stație pentru a continua ușor traseul.",
+                "en": "Choose a restaurant near a stop for an easy onward journey."
+              }
+            },
+            {
+              "name": "Museum of Fine Arts",
+              "tip_5lang": {
+                "de": "Ein langer Museumsbesuch lohnt sich bei anhaltendem Regen besonders.",
+                "hu": "Egy hosszú múzeumlátogatás különösen megéri tartós esőben.",
+                "ro": "O vizită lungă la muzeu merită din plin în caz de ploaie persistentă.",
+                "en": "A long museum visit is especially worthwhile during persistent rain."
+              }
+            },
+            {
+              "name": "Return to Station",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Abfahrtszeiten vorab online, um Wartezeit im Freien zu vermeiden.",
+                "hu": "Ellenőrizze online az indulást, hogy ne kelljen kint várnia.",
+                "ro": "Verificați online orele de plecare pentru a nu aștepta afară.",
+                "en": "Check departure times online beforehand to avoid waiting outside."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie Fahrkarten digital über die App des Betreibers.",
+              "Nutzen Sie die Wartehallen an den größeren Haltestellen.",
+              "Die Frequenz der Stadtbusse kann an Regentagen variieren.",
+              "Achten Sie auf die Anzeigen im Bahnhof für Gleisänderungen."
+            ],
+            "hu": [
+              "Vásárolja meg jegyeit digitálisan a szolgáltató applikációján keresztül.",
+              "Használja a várótermeket a nagyobb megállókban.",
+              "A városi buszok gyakorisága esős napokon változhat.",
+              "Figyelje a vágányváltozásokat az állomási kijelzőkön."
+            ],
+            "ro": [
+              "Cumpărați biletele digital prin aplicația operatorului.",
+              "Folosiți sălile de așteptare din stațiile mai mari.",
+              "Frecvența autobuzelor urbane poate varia în zilele ploioase.",
+              "Urmăriți afișajele din gară pentru eventuale modificări de peron."
+            ],
+            "en": [
+              "Purchase tickets digitally via the operator's app.",
+              "Use the waiting halls at the larger bus stops.",
+              "The frequency of city buses may vary on rainy days.",
+              "Watch the station displays for any track changes."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Mit Bus und Bahn durch das winterliche Tournai zu reisen, ist gemütlich und stimmungsvoll. Der Morgen startet am belebten Bahnhof, von wo aus die frostige Stadt erkundet wird. Mittags genießt man die Wärme in den Bussen, während man zum historischen Kern fährt. Der Nachmittag wird zur Entdeckung der Kunstschätze genutzt, bevor man in der blauen Stunde zum hell erleuchteten Bahnhof zurückkehrt, um die Rückreise anzutreten.",
+            "hu": "Busszal és vonattal utazni a téli Tournai-ban kényelmes és hangulatos megoldás. A reggel a forgalmas állomáson indul, ahonnan felfedezzük a fagyos várost. Délben élvezhetjük a buszok melegét, miközben a történelmi mag felé utazunk. A délután a műkincsek felfedezésével telik, majd a kék órában térünk vissza a kivilágított állomásra, hogy hazautazzunk.",
+            "ro": "Călătoria cu autobuzul și trenul prin Tournai iarna este confortabilă și plină de atmosferă. Dimineața începe la gara animată, de unde pornim să explorăm orașul înghețat. La prânz, ne bucurăm de căldura din autobuze în timp ce mergem spre nucleul istoric. După-amiaza este dedicată descoperirii comorilor artistice, revenind la gara iluminată la ora albastră pentru plecare.",
+            "en": "Traveling by bus and train through winter Tournai is cozy and atmospheric. The morning starts at the bustling station, from where the frosty city is explored. At noon, enjoy the warmth in the buses while traveling towards the historical core. The afternoon is spent discovering art treasures before returning to the brightly lit station during the blue hour for the journey home."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Tournai Station",
+              "tip_5lang": {
+                "de": "Der Bahnhof ist im Winter gut beheizt und bietet Kioske für Heißgetränke.",
+                "hu": "Az állomás télen fűtött, és van lehetőség forró italok vásárlására.",
+                "ro": "Gara este bine încălzită iarna și are chioșcuri pentru băuturi calde.",
+                "en": "The station is well-heated in winter and has kiosks for hot drinks."
+              }
+            },
+            {
+              "name": "Cluster 1: Grand-Place & Belfry",
+              "tip_5lang": {
+                "de": "In der Altstadt sind die Wege oft gut geräumt.",
+                "hu": "Az óvárosban az utakat általában jól letakarítják.",
+                "ro": "În centrul vechi, drumurile sunt de obicei bine deszăpezite.",
+                "en": "Paths in the old town are usually well-cleared in winter."
+              }
+            },
+            {
+              "name": "Notre-Dame Cathedral",
+              "tip_5lang": {
+                "de": "Nutzen Sie den kurzen Weg zur Bushaltestelle, um nicht auszukühlen.",
+                "hu": "Használja a közeli buszmegállót, hogy ne hűljön ki várakozás közben.",
+                "ro": "Folosiți stația de autobuz din apropiere pentru a nu dârdâi de frig.",
+                "en": "Use the nearby bus stop to avoid getting chilled while waiting."
+              }
+            },
+            {
+              "name": "Lunch and River Stroll",
+              "tip_5lang": {
+                "de": "In Bahnhofsnähe gibt es viele gemütliche Cafés für die Wartezeit.",
+                "hu": "Az állomás közelében sok barátságos kávézó várja a várakozókat.",
+                "ro": "Lângă gară sunt multe cafenele primitoare pentru timpul de așteptare.",
+                "en": "There are many cozy cafes near the station for your waiting time."
+              }
+            },
+            {
+              "name": "Museum of Fine Arts",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die kältesten Stunden des Tages zu verbringen.",
+                "hu": "Ideális helyszín a nap leghidegebb óráinak eltöltésére.",
+                "ro": "Un loc ideal pentru a petrece cele mai reci ore ale zilei.",
+                "en": "An ideal location to spend the coldest hours of the day."
+              }
+            },
+            {
+              "name": "Return to Station",
+              "tip_5lang": {
+                "de": "Achten Sie auf mögliche witterungsbedingte Verzögerungen im Bahnverkehr.",
+                "hu": "Ügyeljen az időjárás okozta esetleges késésekre a vasúton.",
+                "ro": "Atenție la posibilele întârzieri feroviare cauzate de vreme.",
+                "en": "Be aware of possible weather-related delays in rail traffic."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die App 'SNCB' für Echtzeit-Infos zu den Zügen.",
+              "In belgischen Bussen kann man oft kontaktlos bezahlen.",
+              "Die Bahnhöfe sind wichtige Orientierungspunkte mit guter Infrastruktur.",
+              "Warme Kleidung ist wichtig, da es an den Bahnsteigen ziehen kann."
+            ],
+            "hu": [
+              "Használja az 'SNCB' appot a vonatok valós idejű követéséhez.",
+              "A belga buszokon gyakran lehet érintésmentesen fizetni.",
+              "A vasútállomások jó infrastruktúrával rendelkező tájékozódási pontok.",
+              "A meleg ruházat fontos, mert a peronokon huzatos lehet az idő."
+            ],
+            "ro": [
+              "Folosiți aplicația 'SNCB' pentru informații în timp real despre trenuri.",
+              "În autobuzele belgiene se poate plăti adesea contactless.",
+              "Gările sunt puncte de orientare importante cu infrastructură bună.",
+              "Îmbrăcămintea groasă este esențială, deoarece pe peroane poate fi curent."
+            ],
+            "en": [
+              "Use the 'SNCB' app for real-time train information.",
+              "Contactless payment is often available on Belgian buses.",
+              "Train stations are key orientation points with good infrastructure.",
+              "Warm clothing is vital as platforms can be very drafty."
+            ]
+          }
+        }
       }
     }
   }

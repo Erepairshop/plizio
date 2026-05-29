@@ -346,6 +346,214 @@
           "Most museums are closed on Mondays, so plan accordingly.",
           "Look out for the many small fountains with drinking water."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regnerischer Morgen unter den Arkaden der Kirchgasse, die natürlichen Schutz bieten. Mittags ermöglichen das Kunstmuseum und das Naturmuseum eine ausgiebige Kulturzeit im Trockenen. Nachmittags herrscht im Kapuzinerkloster eine stille Geborgenheit fernab der Nässe. Abends blicken wir vom Stadtturm auf die glänzenden, nassen Dächer der Aarestadt, während der Regen langsam nachlässt.",
+            "hu": "Esős reggel Olten óvárosának árkádjai alatt, amelyek természetes védelmet nyújtanak. Délben a Művészeti és a Természettudományi Múzeum teszi lehetővé a tartalmas kulturális időtöltést szárazon. Délután a Kapucinus kolostorban csendes nyugalom fogad a nedvesség elől menekülve. Este a Várostoronyból tekintünk le az Aare-parti város csillogó, vizes háztetőire, miközben az eső lassan alábbhagy.",
+            "ro": "Dimineață ploioasă sub arcadele de pe Kirchgasse, care oferă protecție naturală. La prânz, Muzeul de Artă și cel de Istorie Naturală permit un timp cultural prelungit la adăpost. După-amiaza aduce o liniște meditativă în Mănăstirea Capucinilor, departe de umezeală. Seara admirăm de sus din Turnul Orașului acoperișurile lucioase și ude ale orașului, în timp ce ploaia se domolește treptat.",
+            "en": "A rainy morning under the arcades of Kirchgasse, which provide natural shelter. At noon, the Art and Natural History museums allow for extensive cultural time in the dry. Afternoon brings a quiet sanctuary in the Capuchin Monastery away from the wetness. In the evening, look out from the City Tower at the shining, wet rooftops of the town as the rain gradually subsides."
+          },
+          "stops": [
+            {
+              "name": "Olten Town Hall & Old Town",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkadengänge als natürlichen Regenschutz.",
+                "hu": "Használja az árkádokat természetes esővédőként.",
+                "ro": "Folosiți galeriile cu arcade ca protecție naturală împotriva ploii.",
+                "en": "Use the arcades as natural rain protection."
+              }
+            },
+            {
+              "name": "St. Martin's Church",
+              "tip_5lang": {
+                "de": "Ideal für eine kurze, trockene Pause während eines Schauers.",
+                "hu": "Ideális egy rövid, száraz szünetre egy zápor idején.",
+                "ro": "Ideal pentru o scurtă pauză uscată în timpul unei averse.",
+                "en": "Ideal for a short, dry break during a rain shower."
+              }
+            },
+            {
+              "name": "Old Wooden Bridge",
+              "tip_5lang": {
+                "de": "Die historische Holzbrücke ist komplett überdacht und trocken.",
+                "hu": "A történelmi fashíd teljesen fedett és száraz.",
+                "ro": "Podul istoric de lemn este complet acoperit și uscat.",
+                "en": "The historic wooden bridge is fully covered and dry."
+              }
+            },
+            {
+              "name": "Olten Art Museum",
+              "tip_5lang": {
+                "de": "Perfekter Ort für die regenreichste Zeit des Mittags.",
+                "hu": "Tökéletes hely a délutáni legesősebb órák eltöltésére.",
+                "ro": "Locul perfect pentru a petrece orele cele mai ploioase ale prânzului.",
+                "en": "Perfect place to spend the rainiest hours of midday."
+              }
+            },
+            {
+              "name": "Olten Natural History Museum",
+              "tip_5lang": {
+                "de": "Garderoben vorhanden, um nasse Mäntel sicher aufzuhängen.",
+                "hu": "Ruhatár áll rendelkezésre a vizes kabátok elhelyezésére.",
+                "ro": "Garderobă disponibilă pentru a lăsa hainele ude în siguranță.",
+                "en": "Cloakrooms available to hang wet coats securely."
+              }
+            },
+            {
+              "name": "Capuchin Monastery Olten",
+              "tip_5lang": {
+                "de": "Der Innenhof bietet begrenzten Schutz, die Kirche ist trocken.",
+                "hu": "A belső udvar korlátozott védelmet nyújt, a templom száraz.",
+                "ro": "Curtea interioară oferă protecție limitată, biserica este uscată.",
+                "en": "The inner courtyard offers limited shelter, the church is dry."
+              }
+            },
+            {
+              "name": "Olten City Tower",
+              "tip_5lang": {
+                "de": "Vorsicht bei den Stufen, diese können bei Feuchtigkeit rutschig sein.",
+                "hu": "Vigyázzon a lépcsőkkel, nedves időben csúszósak lehetnek.",
+                "ro": "Atenție la trepte, acestea pot fi alunecoase în condiții de umiditate.",
+                "en": "Be careful on the steps, they can be slippery when wet."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die zahlreichen Arkaden in der Kirchgasse.",
+              "Die Holzbrücke von 1803 ist ein hervorragender trockener Übergang.",
+              "Museen sind montags meist geschlossen, planen Sie entsprechend.",
+              "Ein Taschenschirm ist bei Windböen an der Aare oft instabil.",
+              "Cafés in der Altstadt bieten gemütliche Rückzugsorte."
+            ],
+            "hu": [
+              "Használja ki a Kirchgasse számos árkádos folyosóját.",
+              "Az 1803-as fashíd kiváló száraz átkelőhely.",
+              "A múzeumok hétfőnként zárva tartanak, tervezzen előre.",
+              "A szeles Aare-parton az összecsukható esernyő gyakran instabil.",
+              "Az óvárosi kávézók barátságos menedéket nyújtanak."
+            ],
+            "ro": [
+              "Profitați de numeroasele arcade de pe Kirchgasse.",
+              "Podul de lemn din 1803 este o trecere uscată excelentă.",
+              "Muzeele sunt de obicei închise lunea, planificați din timp.",
+              "O umbrelă de buzunar este adesea instabilă la rafalele de pe Aare.",
+              "Cafenelele din centrul vechi oferă locuri de refugiu primitoare."
+            ],
+            "en": [
+              "Take advantage of the many arcades in Kirchgasse.",
+              "The 1803 wooden bridge is an excellent dry crossing.",
+              "Museums are usually closed on Mondays, plan accordingly.",
+              "Pocket umbrellas are often unstable in wind gusts by the Aare.",
+              "Old town cafes offer cozy retreat spots."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frostiger Morgennebel liegt über der Aare in Olten. Mittags wärmen wir uns in den gut beheizten Museen an der Kirchgasse auf, während draußen der eisige Wind weht. Der Nachmittag im Kloster bietet besinnliche Ruhe fernab der Winterkälte. Vor dem frühen Sonnenuntergang um 17:00 Uhr erklimmen wir den Stadtturm für einen Blick auf die beleuchtete Stadt.",
+            "hu": "Deres reggeli köd üli meg az Aare folyót Oltennél. Délben a Kirchgasse jól fűtött múzeumaiban melegszünk fel, miközben kint jeges szél fúj. A kolostori délután békés nyugalmat kínál a téli hideg elől menekülve. Az ötkor beköszöntő korai sötétedés előtt még megmásszuk a Várostorony lépcsőit a kivilágított város látványáért.",
+            "ro": "Ceața înghețată de dimineață plutește peste râul Aare în Olten. La prânz ne încălzim în muzeele bine încălzite de pe Kirchgasse, în timp ce afară suflă vântul tăios. După-amiaza la mănăstire oferă o liniște meditativă departe de frigul iernii. Urcăm în Turnul Orașului înainte de apusul devreme de la ora 17:00 pentru o vedere asupra orașului iluminat.",
+            "en": "Frosty morning mist hangs over the Aare in Olten. At noon, warm up in the well-heated museums on Kirchgasse while the icy wind blows outside. The afternoon at the monastery offers contemplative peace away from the winter cold. Climb the City Tower before the early 5:00 PM sunset for a view of the illuminated town."
+          },
+          "stops": [
+            {
+              "name": "Olten Town Hall & Old Town",
+              "tip_5lang": {
+                "de": "Tragen Sie rutschfeste Schuhe für das oft vereiste Kopfsteinpflaster.",
+                "hu": "Viseljen csúszásmentes cipőt a gyakran jeges macskaköveken.",
+                "ro": "Purtați încălțăminte antiderapantă pentru pavajul adesea înghețat.",
+                "en": "Wear non-slip shoes for the often icy cobblestones."
+              }
+            },
+            {
+              "name": "St. Martin's Church",
+              "tip_5lang": {
+                "de": "Die Kirche bietet Schutz vor dem kalten Wind vom Fluss.",
+                "hu": "A templom védelmet nyújt a folyó felől fújó hideg szél ellen.",
+                "ro": "Biserica oferă protecție împotriva vântului rece de pe râu.",
+                "en": "The church provides protection from the cold wind from the river."
+              }
+            },
+            {
+              "name": "Old Wooden Bridge",
+              "tip_5lang": {
+                "de": "Achtung vor Zugluft und Glätte auf den Holzdielen.",
+                "hu": "Vigyázzon a huzattal és a csúszós fapadlóval a hídon.",
+                "ro": "Atenție la curent și la podeaua de lemn alunecoasă de pe pod.",
+                "en": "Watch out for drafts and slippery wooden planks on the bridge."
+              }
+            },
+            {
+              "name": "Olten Art Museum",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die kälteste Zeit des Tages im Warmen zu verbringen.",
+                "hu": "Ideális hely a nap leghidegebb óráinak melegben töltésére.",
+                "ro": "Un loc ideal pentru a petrece cele mai reci ore ale zilei la căldură.",
+                "en": "An ideal place to spend the coldest hours of the day in the warm."
+              }
+            },
+            {
+              "name": "Olten Natural History Museum",
+              "tip_5lang": {
+                "de": "Die Ausstellungen sind gut beheizt und familienfreundlich.",
+                "hu": "A kiállítások jól fűtöttek és családbarátok.",
+                "ro": "Expozițiile sunt bine încălzite și potrivite pentru familii.",
+                "en": "The exhibitions are well-heated and family-friendly."
+              }
+            },
+            {
+              "name": "Capuchin Monastery Olten",
+              "tip_5lang": {
+                "de": "Warme Kleidung ist im oft kühlen Kirchenschiff ratsam.",
+                "hu": "Meleg ruházat ajánlott a gyakran hűvös templomhajóban.",
+                "ro": "Se recomandă haine groase în nava adesea răcoroasă a bisericii.",
+                "en": "Warm clothing is advised in the often cool church nave."
+              }
+            },
+            {
+              "name": "Olten City Tower",
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang ist im Winter bereits gegen 17:00 Uhr.",
+                "hu": "A naplemente télen már délután 5 óra körül bekövetkezik.",
+                "ro": "Apusul de soare are loc în jur de ora 17:00 în timpul iernii.",
+                "en": "Sunset occurs as early as 5:00 PM during winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne verschwindet im Winter bereits um 17:00 Uhr.",
+              "Auf der Holzbrücke zieht es im Winter besonders stark.",
+              "Wärmen Sie sich zwischendurch in den Cafés der Altstadt auf.",
+              "Kopfsteinpflaster kann bei Frost extrem rutschig sein.",
+              "Zwiebelprinzip bei der Kleidung für Museumsbesuche empfohlen."
+            ],
+            "hu": [
+              "A nap télen már délután 5 órakor lemegy.",
+              "A fahídon télen különösen erős lehet a huzat.",
+              "Melegedjen fel időnként az óvárosi kávézókban.",
+              "A macskakő fagyban rendkívül csúszós lehet.",
+              "Múzeumlátogatáshoz ajánlott a réteges öltözködés."
+            ],
+            "ro": [
+              "Soarele apune deja la ora 17:00 în timpul iernii.",
+              "Pe podul de lemn curentul este deosebit de puternic iarna.",
+              "Încălziți-vă din când în când în cafenelele din centrul vechi.",
+              "Pavajul poate fi extrem de alunecos în caz de îngheț.",
+              "Se recomandă îmbrăcămintea în straturi pentru vizitele la muzeu."
+            ],
+            "en": [
+              "The sun sets as early as 5:00 PM in winter.",
+              "Drafts are particularly strong on the wooden bridge in winter.",
+              "Warm up periodically in the old town cafes.",
+              "Cobblestones can be extremely slippery in freezing weather.",
+              "Layered clothing is recommended for museum visits."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -686,6 +894,214 @@
           "Check the opening hours of the Sälischlössli restaurant.",
           "Take plenty of water for the climb."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nasser Start an der überdachten Holzbrücke, die vor dem ersten Schauer schützt. Die Fahrt durch die Altstadt erfordert bei Regen erhöhte Vorsicht auf den rutschigen Pflastersteinen. Mittags bieten die Museen an der Aare eine willkommene trockene Kulturpause. Die Auffahrt zum Sälischlössli ist bei Nässe anstrengend, doch der Stadtturm bildet den wetterfesten Abschluss.",
+            "hu": "Vizes kezdés a fedett fashídnál, amely védelmet nyújt az első zápor elől. Az óvárosi tekerés esőben fokozott figyelmet igényel a csúszós macskaköveken. Délben az Aare-parti múzeumok kínálnak szívesen látott száraz kulturális szünetet. A Sälischlösslihez vezető emelkedő esőben fárasztó, a napot a Várostorony zárja időjárásbiztos módon.",
+            "ro": "Start umed la podul de lemn acoperit, care protejează de prima aversă. Mersul cu bicicleta prin centrul vechi necesită prudență sporită pe piatra cubică alunecoasă pe ploaie. La prânz, muzeele de pe râul Aare oferă o pauză culturală uscată binevenită. Urcarea spre Sälischlössli este obositoare pe ud, iar Turnul Orașului încheie ziua într-un mod rezistent la intemperii.",
+            "en": "A wet start at the covered wooden bridge, protecting from the first shower. Cycling through the old town requires extra care on slippery cobblestones in the rain. At noon, the museums by the Aare offer a welcome dry culture break. The climb to Sälischlössli is tiring when wet, and the City Tower marks the weather-proof end."
+          },
+          "stops": [
+            {
+              "name": "Old Wooden Bridge",
+              "tip_5lang": {
+                "de": "Hervorragender trockener Startpunkt für Ihre Radtour.",
+                "hu": "Kiváló száraz kiindulópont a kerékpártúrához.",
+                "ro": "Un punct de plecare uscat excelent pentru tura cu bicicleta.",
+                "en": "Excellent dry starting point for your bike tour."
+              }
+            },
+            {
+              "name": "Town Hall & Old Town",
+              "tip_5lang": {
+                "de": "Vorsicht vor rutschigen Straßenbahnschienen und Kopfsteinpflaster.",
+                "hu": "Vigyázzon a csúszós villamossínekkel és a macskakővel.",
+                "ro": "Atenție la șinele de tramvai alunecoase și la piatra cubică.",
+                "en": "Watch out for slippery tram tracks and cobblestones."
+              }
+            },
+            {
+              "name": "Art & Natural History Museum",
+              "tip_5lang": {
+                "de": "Fahrradständer befinden sich direkt vor dem Eingang.",
+                "hu": "Kerékpártárolók közvetlenül a bejárat előtt találhatók.",
+                "ro": "Suporturile pentru biciclete se află chiar în fața intrării.",
+                "en": "Bike racks are located directly in front of the entrance."
+              }
+            },
+            {
+              "name": "Capuchin Monastery Olten",
+              "tip_5lang": {
+                "de": "Kurze Fahrpause im Trockenen der Klosterkirche möglich.",
+                "hu": "Rövid pihenő a kolostortemplom száraz falai között.",
+                "ro": "Scurtă pauză de pedalat posibilă în interiorul uscat al bisericii.",
+                "en": "Short cycling break possible in the dry monastery church."
+              }
+            },
+            {
+              "name": "Lunch at the Aare riverbank",
+              "tip_5lang": {
+                "de": "Suchen Sie Cafés mit überdachten Außenbereichen oder gehen Sie hinein.",
+                "hu": "Keressen fedett teraszos kávézót vagy menjen be az étterembe.",
+                "ro": "Căutați cafenele cu terase acoperite sau intrați înăuntru.",
+                "en": "Look for cafes with covered outdoor areas or go inside."
+              }
+            },
+            {
+              "name": "Sälischlössli",
+              "tip_5lang": {
+                "de": "Die Waldwege können nach Regen sehr schlammig sein.",
+                "hu": "Az erdei utak eső után nagyon sárosak lehetnek.",
+                "ro": "Potecile din pădure pot fi foarte noroioase după ploaie.",
+                "en": "Forest paths can be very muddy after rain."
+              }
+            },
+            {
+              "name": "Olten City Tower",
+              "tip_5lang": {
+                "de": "Schließen Sie Ihr Rad sicher an, bevor Sie den Turm besteigen.",
+                "hu": "Zárja le biztonságosan a kerékpárját, mielőtt felmegy a toronyba.",
+                "ro": "Încuiați bine bicicleta înainte de a urca în turn.",
+                "en": "Lock your bike securely before climbing the tower."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vollständige Regenbekleidung ist für diese Tour unerlässlich.",
+              "Markierungen und Schienen auf der Straße sind bei Nässe tückisch.",
+              "Schutzbleche verhindern, dass Schmutzwasser hochspritzt.",
+              "Die Wege im Wald zum Sälischlössli können rutschig sein.",
+              "Kontrollieren Sie Ihre Bremsbeläge vor der Abfahrt."
+            ],
+            "hu": [
+              "A túrához elengedhetetlen a teljes esőruházat.",
+              "Az útburkolati jelek és sínek vizesen trükkösek lehetnek.",
+              "A sárvédők megakadályozzák a szennyezett víz felverődését.",
+              "A Sälischlössli felé vezető erdei utak csúszósak lehetnek.",
+              "Indulás előtt ellenőrizze a fékbetéteket."
+            ],
+            "ro": [
+              "Echipamentul complet de ploaie este esențial pentru acest tur.",
+              "Marcajele și șinele de pe drum sunt înșelătoare pe ud.",
+              "Apărătorile previn stropirea cu apă murdară.",
+              "Potecile din pădure spre Sälischlössli pot fi alunecoase.",
+              "Verificați plăcuțele de frână înainte de plecare."
+            ],
+            "en": [
+              "Full rain gear is essential for this tour.",
+              "Road markings and tracks are treacherous when wet.",
+              "Mudguards prevent dirty water from splashing up.",
+              "The forest paths to Sälischlössli can be slippery.",
+              "Check your brake pads before starting."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Klirrende Kälte auf der Holzbrücke zum winterlichen Start. Die Altstadt bietet mit ihren geschmückten Gassen und der klaren Winterluft eine besondere Atmosphäre. Mittags tut die Wärme in den Oltner Museen nach der Fahrt besonders gut. Nach dem frostigen Anstieg zum Sälischlössli belohnt der Blick über die verschneite Landschaft, bevor es im Dunkeln zum Stadtturm geht.",
+            "hu": "Metsző hideg a fahídon a téli startnál. Az óváros a díszes utcáival és a tiszta téli levegővel különleges hangulatot áraszt. Délben az olteni múzeumok melegsége a tekerés után különösen jól esik. A jeges emelkedő után a Sälischlösslitől nyíló kilátás a havas tájra a jutalom, majd sötétben érkezünk a Várostoronyhoz.",
+            "ro": "Frig pătrunzător pe podul de lemn la startul de iarnă. Centrul vechi, cu străzile sale decorate și aerul curat de iarnă, oferă o atmosferă aparte. La prânz, căldura din muzeele din Olten prinde deosebit de bine după pedalat. După urcarea înghețată la Sälischlössli, vederea peste peisajul înzăpezit este răsplata, înainte de a merge la turn pe întuneric.",
+            "en": "Biting cold on the wooden bridge at the winter start. The old town with its decorated alleys and crisp winter air offers a special atmosphere. At noon, the warmth in Olten's museums feels especially good after the ride. After the frosty climb to Sälischlössli, the view over the snowy landscape is the reward, before heading to the tower in the dark."
+          },
+          "stops": [
+            {
+              "name": "Old Wooden Bridge",
+              "tip_5lang": {
+                "de": "Vorsicht bei Raureif auf den Holzplanken.",
+                "hu": "Vigyázzon a zúzmarás fapallókon.",
+                "ro": "Atenție la chiciura de pe scândurile de lemn.",
+                "en": "Watch out for hoarfrost on the wooden planks."
+              }
+            },
+            {
+              "name": "Town Hall & Old Town",
+              "tip_5lang": {
+                "de": "In den engen Gassen hält sich die Kälte länger.",
+                "hu": "A szűk utcákban tovább megmarad a hideg.",
+                "ro": "În străzile înguste frigul persistă mai mult timp.",
+                "en": "The cold lingers longer in the narrow alleys."
+              }
+            },
+            {
+              "name": "Art & Natural History Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch zum Aufwärmen der Hände.",
+                "hu": "Használja ki a múzeumlátogatást a kezek felmelegítésére.",
+                "ro": "Profitați de vizita la muzeu pentru a vă încălzi mâinile.",
+                "en": "Use the museum visit to warm up your hands."
+              }
+            },
+            {
+              "name": "Capuchin Monastery Olten",
+              "tip_5lang": {
+                "de": "Besinnlicher Ort für eine kurze Winterpause.",
+                "hu": "Meghitt hely egy rövid téli pihenőre.",
+                "ro": "Loc meditativ pentru o scurtă pauză de iarnă.",
+                "en": "Contemplative place for a short winter break."
+              }
+            },
+            {
+              "name": "Lunch at the Aare riverbank",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit Blick auf die winterliche Aare.",
+                "hu": "Válasszon éttermet kilátással a téli Aare folyóra.",
+                "ro": "Alegeți un restaurant cu vedere la râul Aare iarna.",
+                "en": "Choose a restaurant with a view of the winter Aare river."
+              }
+            },
+            {
+              "name": "Sälischlössli",
+              "tip_5lang": {
+                "de": "Achtung bei der Abfahrt: Vereiste Stellen im Wald möglich.",
+                "hu": "Vigyázzon a lejövetelnél: jeges szakaszok lehetnek az erdőben.",
+                "ro": "Atenție la coborâre: posibile porțiuni înghețate în pădure.",
+                "en": "Watch out on the descent: icy spots possible in the forest."
+              }
+            },
+            {
+              "name": "Olten City Tower",
+              "tip_5lang": {
+                "de": "Warme Handschuhe sind beim Fahren im Dunkeln wichtig.",
+                "hu": "A sötétben való tekeréshez fontos a meleg kesztyű.",
+                "ro": "Mănușile groase sunt importante pentru mersul pe întuneric.",
+                "en": "Warm gloves are important for cycling in the dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Funktionierende Beleuchtung ist ab 16:30 Uhr zwingend erforderlich.",
+              "Tragen Sie Thermo-Handschuhe und winddichte Kleidung.",
+              "Vereiste Brücken und Waldwege sind ein hohes Sturzrisiko.",
+              "Der Akku von E-Bikes entlädt sich bei Kälte deutlich schneller.",
+              "Planen Sie mehr Zeit für die Abfahrt vom Sälischlössli ein."
+            ],
+            "hu": [
+              "Délután fél 5-től kötelező a működő világítás.",
+              "Viseljen termokesztyűt és szélálló ruházatot.",
+              "A jeges hidak és erdei utak komoly esésveszélyt jelentenek.",
+              "Az e-bike akkumulátora hidegben sokkal gyorsabban merül.",
+              "Tervezzen több időt a Sälischlösslitől való lejövetelre."
+            ],
+            "ro": [
+              "Iluminarea funcțională este obligatorie de la ora 16:30.",
+              "Purtați mănuși termice și îmbrăcăminte rezistentă la vânt.",
+              "Podurile înghețate și potecile din pădure sunt un risc mare de cădere.",
+              "Bateria bicicletelor electrice se descarcă mult mai repede la frig.",
+              "Planificați mai mult timp pentru coborârea de la Sälischlössli."
+            ],
+            "en": [
+              "Working lights are mandatory from 4:30 PM.",
+              "Wear thermal gloves and windproof clothing.",
+              "Icy bridges and forest paths are a high fall risk.",
+              "E-bike batteries discharge significantly faster in the cold.",
+              "Plan more time for the descent from Sälischlössli."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -986,6 +1402,196 @@
           "Sälischlössli is reached via a winding road; drive carefully.",
           "Plan your route in advance to avoid one-way streets in the Old Town."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahrt durch graue Regenwolken hinauf zum Sälischlössli für einen vernebelten Ausblick. Das Parken im trockenen Altstadt-Parkhaus ermöglicht einen entspannten Rundgang trotz wiederkehrender Schauer. Mittags stehen Kunst und Naturgeschichte im Fokus der beheizten Museen. Der Nachmittag endet beim Kapuzinerkloster, während der Regen gleichmäßig gegen die Autoscheiben trommelt.",
+            "hu": "Autózás a szürke esőfelhők alatt fel a Sälischlösslihez a ködös kilátásért. A száraz óvárosi parkolóház lehetővé teszi a nyugodt sétát az ismétlődő záporok ellenére is. Délben a művészet és a természetrajz áll a fókuszban a fűtött múzeumokban. A délután a Kapucinus kolostornál zárul, miközben az eső egyenletesen kopog az autó szélvédőjén.",
+            "ro": "Conducem prin nori gri de ploaie sus spre Sälischlössli pentru o vedere cețoasă. Parcatul în parcarea subterană uscată din centrul vechi permite o plimbare relaxată în ciuda averselor recurente. La prânz, arta și istoria naturală sunt în centrul atenției în muzeele încălzite. După-amiaza se încheie la mănăstire, în timp ce ploaia bate ritmic în geamurile mașinii.",
+            "en": "Drive through grey rain clouds up to Sälischlössli for a misty view. Parking in the dry old town garage allows for a relaxed walk despite recurring showers. At noon, art and natural history are the focus in the heated museums. The afternoon ends at the Capuchin Monastery as rain drums steadily against the car windows."
+          },
+          "stops": [
+            {
+              "name": "Sälischlössli Parking",
+              "tip_5lang": {
+                "de": "Kurzer, ungeschützter Weg vom Auto zum Aussichtspunkt.",
+                "hu": "Rövid, fedetlen út az autótól a kilátópontig.",
+                "ro": "Drum scurt, neprotejat de la mașină la punctul de observație.",
+                "en": "Short, unprotected path from the car to the viewpoint."
+              }
+            },
+            {
+              "name": "Sälischlössli View",
+              "tip_5lang": {
+                "de": "Bei starkem Regen kann die Sicht auf die Alpen eingeschränkt sein.",
+                "hu": "Erős esőben az Alpokra nyíló kilátás korlátozott lehet.",
+                "ro": "În caz de ploaie torențială, vederea spre Alpi poate fi limitată.",
+                "en": "In heavy rain, the view of the Alps may be restricted."
+              }
+            },
+            {
+              "name": "Old Town Parking Garage",
+              "tip_5lang": {
+                "de": "Zentrales, überdachtes Parkhaus für direkten Zugang zur Altstadt.",
+                "hu": "Központi, fedett parkolóház közvetlen kijárattal az óvárosba.",
+                "ro": "Parcare centrală acoperită pentru acces direct în centrul vechi.",
+                "en": "Central, covered parking garage for direct access to the old town."
+              }
+            },
+            {
+              "name": "Old Town, Town Hall & Wooden Bridge",
+              "tip_5lang": {
+                "de": "Vom Parkhaus sind es nur wenige Schritte unter die Arkaden.",
+                "hu": "A parkolóháztól csak pár lépés az árkádok alatti rész.",
+                "ro": "De la parcare sunt doar câțiva pași până sub arcade.",
+                "en": "It's only a few steps from the parking garage to the arcades."
+              }
+            },
+            {
+              "name": "Olten Art Museum",
+              "tip_5lang": {
+                "de": "Ein idealer Indoor-Stopp während einer Regenfront.",
+                "hu": "Ideális fedett megálló egy esőfront idején.",
+                "ro": "O oprire ideală la interior în timpul unui front de ploaie.",
+                "en": "An ideal indoor stop during a rain front."
+              }
+            },
+            {
+              "name": "Capuchin Monastery (by car)",
+              "tip_5lang": {
+                "de": "Parkplätze sind in der Nähe des Klosters vorhanden.",
+                "hu": "Parkolóhelyek állnak rendelkezésre a kolostor közelében.",
+                "ro": "Locuri de parcare disponibile în apropierea mănăstirii.",
+                "en": "Parking spaces are available near the monastery."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie das Parkhaus 'Altstadt' für trockenen Zugang.",
+              "Bei Starkregen ist die kurvenreiche Fahrt zum Schloss riskant.",
+              "Achten Sie auf Fußgänger mit Regenschirmen in der Innenstadt.",
+              "Beschlagene Scheiben können die Sicht im dichten Verkehr trüben.",
+              "Planen Sie bei Regen mit zäherem Feierabendverkehr."
+            ],
+            "hu": [
+              "Használja az 'Altstadt' parkolóházat a száraz bejutáshoz.",
+              "Heves esőben a várhoz vezető kanyargós út kockázatos.",
+              "Figyeljen az esernyős gyalogosokra a belvárosban.",
+              "A párás szélvédő ronthatja a látási viszonyokat a forgalomban.",
+              "Esős időben számoljon lassabb délutáni forgalommal."
+            ],
+            "ro": [
+              "Folosiți parcarea 'Altstadt' pentru acces uscat.",
+              "Pe ploaie torențială, drumul sinuos spre castel este riscant.",
+              "Atenție la pietonii cu umbrele în centrul orașului.",
+              "Geamurile aburite pot reduce vizibilitatea în trafic dens.",
+              "Planificați un trafic mai lent la orele de vârf pe ploaie."
+            ],
+            "en": [
+              "Use the 'Altstadt' parking garage for dry access.",
+              "In heavy rain, the winding drive to the castle is risky.",
+              "Watch out for pedestrians with umbrellas in the city center.",
+              "Foggy windows can impair visibility in dense traffic.",
+              "Expect slower rush hour traffic during rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliche Fahrt zum verschneiten Sälischlössli für einen klaren Rundblick am Morgen. Das beheizte Altstadt-Parkhaus bietet maximalen Komfort beim Umstieg auf den kurzen Fußweg. Nach dem mittäglichen Museumsbesuch im Warmen folgt die kurze Fahrt zum stimmungsvollen Kloster. Der Tag endet im warmen Licht der winterlichen Straßenlaternen der Oltner Altstadt.",
+            "hu": "Téli autózás a havas Sälischlösslihez a reggeli tiszta körpanorámáért. A fűtött óvárosi parkolóház maximális kényelmet biztosít a rövid gyalogos sétához. A délutáni meleg múzeumlátogatás után rövid autóút következik a hangulatos kolostorhoz. A nap Olten óvárosának téli utcalámpáinak meleg fényében ér véget.",
+            "ro": "Conducere de iarnă spre Sälischlössli înzăpezit pentru o panoramă clară dimineața. Parcarea încălzită din centrul vechi oferă confort maxim la trecerea spre scurta plimbare pe jos. După vizita la muzeu de la prânz, urmează drumul scurt spre mănăstirea plină de atmosferă. Ziua se încheie în lumina caldă a felinarelor de iarnă din centrul vechi al Oltenului.",
+            "en": "Winter drive to the snowy Sälischlössli for a clear panoramic view in the morning. The heated old town parking garage offers maximum comfort when switching to the short walking path. After the midday museum visit in the warm, a short drive follows to the atmospheric monastery. The day ends in the warm light of Olten's winter street lamps."
+          },
+          "stops": [
+            {
+              "name": "Sälischlössli Parking",
+              "tip_5lang": {
+                "de": "Schneeräumung auf der Zufahrtsstraße ist meist zuverlässig.",
+                "hu": "A váróút hóeltakarítása általában megbízható.",
+                "ro": "Deszăpezirea pe drumul de acces este de obicei eficientă.",
+                "en": "Snow clearing on the access road is usually reliable."
+              }
+            },
+            {
+              "name": "Sälischlössli View",
+              "tip_5lang": {
+                "de": "Vorsicht vor Eisglätte auf dem kurzen Weg zum Aussichtspunkt.",
+                "hu": "Vigyázzon a jegesedéssel a kilátóhoz vezető rövid úton.",
+                "ro": "Atenție la polei pe drumul scurt către punctul de observație.",
+                "en": "Watch out for ice on the short path to the viewpoint."
+              }
+            },
+            {
+              "name": "Old Town Parking Garage",
+              "tip_5lang": {
+                "de": "Das Parkhaus schützt Ihr Fahrzeug vor Frost und Schnee.",
+                "hu": "A parkolóház megvédi autóját a fagytól és a hótól.",
+                "ro": "Parcarea vă protejează vehiculul de îngheț și zăpadă.",
+                "en": "The parking garage protects your vehicle from frost and snow."
+              }
+            },
+            {
+              "name": "Old Town, Town Hall & Wooden Bridge",
+              "tip_5lang": {
+                "de": "Kurzer Spaziergang durch die festlich beleuchtete Altstadt.",
+                "hu": "Rövid séta az ünnepi díszkivilágítású óvárosban.",
+                "ro": "Scurtă plimbare prin centrul vechi iluminat festiv.",
+                "en": "Short walk through the festively lit old town."
+              }
+            },
+            {
+              "name": "Olten Art Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Tiefgarage für einen warmen Start in den Museumsbesuch.",
+                "hu": "Használja a mélygarázst a múzeumlátogatás kényelmes kezdéséhez.",
+                "ro": "Folosiți parcarea subterană pentru un start confortabil al vizitei la muzeu.",
+                "en": "Use the underground garage for a warm start to your museum visit."
+              }
+            },
+            {
+              "name": "Capuchin Monastery (by car)",
+              "tip_5lang": {
+                "de": "Die Parkplätze können bei Schneefall schwer erkennbar sein.",
+                "hu": "A parkolóhelyek hóesésben nehezen felismerhetők lehetnek.",
+                "ro": "Locurile de parcare pot fi greu de identificat în caz de ninsoare.",
+                "en": "Parking spaces can be hard to see during snowfall."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen und Eiskratzer sind im Schweizer Winter Pflicht.",
+              "Die Straße zum Sälischlössli kann bei Neuschnee gesperrt sein.",
+              "Achten Sie auf Streusalz, das den Lack angreifen kann.",
+              "Batteriecheck vor der Abfahrt bei Minusgraden empfohlen.",
+              "Planen Sie Zeit für das Enteisen der Scheiben ein."
+            ],
+            "hu": [
+              "A téli gumi és a jégkaparó kötelező a svájci télben.",
+              "A Sälischlösslihez vezető út friss hó esetén lezárható.",
+              "Ügyeljen az útszóró sóra, amely károsíthatja a fényezést.",
+              "Mínusz fokokban indulás előtt javasolt az akkumulátor ellenőrzése.",
+              "Tervezzen időt a szélvédők jégmentesítésére."
+            ],
+            "ro": [
+              "Anvelopele de iarnă și racleta sunt obligatorii în iarna elvețiană.",
+              "Drumul spre Sälischlössli poate fi închis în caz de zăpadă proaspătă.",
+              "Atenție la sarea de pe drum care poate afecta caroseria.",
+              "Se recomandă verificarea bateriei înainte de plecare la temperaturi negative.",
+              "Planificați timp pentru degivrarea geamurilor."
+            ],
+            "en": [
+              "Winter tires and ice scrapers are mandatory in Swiss winter.",
+              "The road to Sälischlössli may be closed during fresh snowfall.",
+              "Watch out for road salt that can affect the car's paint.",
+              "Battery check is recommended before starting in sub-zero temperatures.",
+              "Plan time for de-icing the windows."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1286,6 +1892,196 @@
           "Check the bus schedule in advance, especially for the last trip of the day.",
           "Most buses are wheelchair accessible."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Bequeme Ankunft mit dem Postauto an der Stadtkirche, mitten im Geschehen. Der kurze Weg durch die Altstadt führt an den trockenen Arkaden entlang direkt zum Stadtturm. Mittags bieten die Museen an der Aare ein umfangreiches Indoor-Programm fernab der Nässe. Der Tag endet beim Kapuzinerkloster, bevor der Bus pünktlich zurück zum Bahnhof Olten fährt.",
+            "hu": "Kényelmes érkezés Postautóval a Stadtkirchéhez, az események központjába. Az óvároson átvezető rövid út a száraz árkádok mellett halad közvetlenül a Várostoronyhoz. Délben az Aare-parti múzeumok gazdag fedett programot kínálnak a nedvességtől távol. A nap a Kapucinus kolostornál zárul, mielőtt a busz pontosan visszaindul az olteni vasútállomásra.",
+            "ro": "Sosire confortabilă cu autobuzul (Postauto) la Stadtkirche, chiar în centrul acțiunii. Drumul scurt prin centrul vechi trece pe lângă arcadele uscate direct spre Turnul Orașului. La prânz, muzeele de pe râul Aare oferă un program variat la interior, departe de umezeală. Ziua se încheie la mănăstire, înainte ca autobuzul să plece punctual înapoi spre gara Olten.",
+            "en": "Comfortable arrival by Postauto at the Stadtkirche, right in the heart of the action. The short walk through the old town leads along the dry arcades directly to the City Tower. At noon, the museums by the Aare offer an extensive indoor program away from the wetness. The day ends at the Capuchin Monastery before the bus returns punctually to Olten station."
+          },
+          "stops": [
+            {
+              "name": "'Stadtkirche' Bus Stop",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist überdacht und bietet Schutz vor Regen.",
+                "hu": "A megálló fedett, védelmet nyújt az eső ellen.",
+                "ro": "Stația este acoperită și oferă protecție împotriva ploii.",
+                "en": "The stop is covered and offers protection from the rain."
+              }
+            },
+            {
+              "name": "City Church, Town Hall & City Tower",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Kircheneingang als kurzzeitigen Unterstand.",
+                "hu": "Használja a templom bejáratát ideiglenes menedékként.",
+                "ro": "Folosiți intrarea în biserică ca adăpost temporar.",
+                "en": "Use the church entrance as a temporary shelter."
+              }
+            },
+            {
+              "name": "Old Wooden Bridge",
+              "tip_5lang": {
+                "de": "Trockener Fußweg über die Aare dank der historischen Überdachung.",
+                "hu": "Száraz átkelés az Aare felett a történelmi tetőnek köszönhetően.",
+                "ro": "Drum pietonal uscat peste Aare datorită acoperișului istoric.",
+                "en": "Dry footpath over the Aare thanks to the historic roofing."
+              }
+            },
+            {
+              "name": "'Kunstmuseum' Bus Stop",
+              "tip_5lang": {
+                "de": "Die Busfrequenzen sind auch bei schlechtem Wetter hoch.",
+                "hu": "A buszjáratok sűrűsége rossz időben is magas marad.",
+                "ro": "Frecvența autobuzelor rămâne ridicată și pe vreme rea.",
+                "en": "Bus frequencies remain high even in bad weather."
+              }
+            },
+            {
+              "name": "Art & Natural History Museum",
+              "tip_5lang": {
+                "de": "Ein idealer Rückzugsort für mehrere Stunden Kultur.",
+                "hu": "Ideális hely több órányi kulturális kikapcsolódásra.",
+                "ro": "Un refugiu ideal pentru câteva ore de cultură.",
+                "en": "An ideal retreat for several hours of culture."
+              }
+            },
+            {
+              "name": "Capuchin Monastery Olten",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle 'Klosterplatz' befindet sich in unmittelbarer Nähe.",
+                "hu": "A 'Klosterplatz' buszmegálló közvetlen közelben található.",
+                "ro": "Stația de autobuz 'Klosterplatz' se află în imediata apropiere.",
+                "en": "The 'Klosterplatz' bus stop is located in the immediate vicinity."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die SBB Mobile App für Echtzeit-Infos bei Regen.",
+              "Olten ist ein zentraler Bahnknotenpunkt mit vielen Anschlüssen.",
+              "Die Busse in Olten sind pünktlich und meistens gut klimatisiert.",
+              "Viele Haltestellen in der Innenstadt verfügen über Wartehäuschen.",
+              "Ein Kurzstrecken-Ticket reicht oft für Fahrten innerhalb der Stadt."
+            ],
+            "hu": [
+              "Használja az SBB Mobile alkalmazást az esőben való tájékozódáshoz.",
+              "Olten központi vasúti csomópont, számos csatlakozással.",
+              "Az olteni buszok pontosak és általában jól klimatizáltak.",
+              "A belvárosban sok megálló rendelkezik váróteremmel.",
+              "A rövidtávú jegy gyakran elég a városon belüli utazáshoz."
+            ],
+            "ro": [
+              "Folosiți aplicația SBB Mobile pentru informații în timp real pe ploaie.",
+              "Olten este un nod feroviar central cu multe conexiuni.",
+              "Autobuzele din Olten sunt punctuale și de obicei bine climatizate.",
+              "Multe stații din centrul orașului dispun de adăposturi.",
+              "Un bilet pe distanță scurtă este adesea suficient pentru deplasările în oraș."
+            ],
+            "en": [
+              "Use the SBB Mobile App for real-time info during rain.",
+              "Olten is a central rail hub with many connections.",
+              "Buses in Olten are punctual and mostly well-conditioned.",
+              "Many stops in the city center have waiting shelters.",
+              "A short-distance ticket is often enough for travel within the city."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ankunft am winterlichen Bahnhof Olten unter einer feinen Schneedecke. Der gut beheizte Bus bringt Sie direkt zur Stadtkirche im Herzen der festlich beleuchteten Altstadt. Mittags wärmen wir uns in den Museen auf, während draußen der frostige Winterwind weht. Der Nachmittag im Kloster bietet besinnliche Stille, bevor es mit dem Bus zurück zum hell erleuchteten Bahnhof geht.",
+            "hu": "Érkezés a téli olteni vasútállomásra a finom hótakaró alatt. A jól fűtött busz közvetlenül az óváros szívébe, az ünnepi fényben úszó Stadtkirchéhez visz. Délben a múzeumokban melegszünk fel, miközben kint fagyos téli szél fúj. A kolostori délután meghitt csendet kínál, mielőtt busszal visszatérünk a fényesen kivilágított állomásra.",
+            "ro": "Sosire la gara de iarnă din Olten sub un strat fin de zăpadă. Autobuzul bine încălzit vă duce direct la Stadtkirche, în inima centrului vechi iluminat festiv. La prânz ne încălzim în muzee, în timp ce afară suflă vântul înghețat de iarnă. După-amiaza la mănăstire oferă o liniște profundă, înainte de a reveni cu autobuzul la gara luminată intens.",
+            "en": "Arrival at the winter Olten station under a fine blanket of snow. The well-heated bus takes you directly to the Stadtkirche in the heart of the festively lit old town. At noon, we warm up in the museums while the frosty winter wind blows outside. The afternoon at the monastery offers contemplative silence before taking the bus back to the brightly lit station."
+          },
+          "stops": [
+            {
+              "name": "'Stadtkirche' Bus Stop",
+              "tip_5lang": {
+                "de": "Die Wartezeit an der Haltestelle ist dank dichtem Takt kurz.",
+                "hu": "A várakozási idő a sűrű menetrendnek köszönhetően rövid.",
+                "ro": "Timpul de așteptare în stație este scurt datorită frecvenței mari.",
+                "en": "Waiting time at the stop is short thanks to the dense schedule."
+              }
+            },
+            {
+              "name": "City Church, Town Hall & City Tower",
+              "tip_5lang": {
+                "de": "In der Nähe der Haltestelle befinden sich beheizte Cafés.",
+                "hu": "A megálló közelében fűtött kávézók találhatók.",
+                "ro": "În apropierea stației se găsesc cafenele încălzite.",
+                "en": "Heated cafes are located near the bus stop."
+              }
+            },
+            {
+              "name": "Old Wooden Bridge",
+              "tip_5lang": {
+                "de": "Ein schöner, beleuchteter Winterspaziergang über den Fluss.",
+                "hu": "Szép, kivilágított téli séta a folyó felett.",
+                "ro": "O plimbare de iarnă frumoasă și iluminată peste râu.",
+                "en": "A beautiful, illuminated winter walk over the river."
+              }
+            },
+            {
+              "name": "'Kunstmuseum' Bus Stop",
+              "tip_5lang": {
+                "de": "Steigen Sie hier direkt für die Museen aus dem warmen Bus aus.",
+                "hu": "Szálljon le itt közvetlenül a múzeumokhoz a meleg buszról.",
+                "ro": "Coborâți aici direct pentru muzee din autobuzul încălzit.",
+                "en": "Get off here directly for the museums from the warm bus."
+              }
+            },
+            {
+              "name": "Art & Natural History Museum",
+              "tip_5lang": {
+                "de": "Idealer Ort, um die Zeit bis zum nächsten Bus im Warmen zu verbringen.",
+                "hu": "Ideális hely a következő buszig hátralévő idő melegben töltésére.",
+                "ro": "Loc ideal pentru a petrece timpul până la următorul autobuz la căldură.",
+                "en": "Ideal place to spend time until the next bus in the warm."
+              }
+            },
+            {
+              "name": "Capuchin Monastery Olten",
+              "tip_5lang": {
+                "de": "Die Buslinie 1 bringt Sie in wenigen Minuten zurück zum Bahnhof.",
+                "hu": "Az 1-es buszvonal pár perc alatt visszavisz a vasútállomásra.",
+                "ro": "Linia de autobuz 1 vă duce înapoi la gară în câteva minute.",
+                "en": "Bus line 1 takes you back to the train station in a few minutes."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse sind im Winter hervorragend beheizt.",
+              "Prüfen Sie bei Schneefall mögliche Verspätungen in der SBB App.",
+              "Der Bahnhof Olten bietet viele beheizte Wartebereiche.",
+              "Tragen Sie bei Glätte auch auf dem Weg zur Haltestelle festes Schuhwerk.",
+              "Nutzen Sie den dichten Bustakt, um Kälteperioden zu minimieren."
+            ],
+            "hu": [
+              "A buszok télen kiválóan fűtöttek.",
+              "Hóesésben ellenőrizze az esetleges késéseket az SBB alkalmazásban.",
+              "Az olteni állomáson sok fűtött váróhelyiség található.",
+              "Csúszós időben a megálló felé menet is viseljen stabil cipőt.",
+              "Használja ki a sűrű buszjáratokat a hidegben való várakozás elkerülésére."
+            ],
+            "ro": [
+              "Autobuzele sunt excelent încălzite în timpul iernii.",
+              "Verificați posibilele întârzieri în aplicația SBB în caz de ninsoare.",
+              "Gara Olten oferă multe zone de așteptare încălzite.",
+              "Purtați încălțăminte stabilă și pe drumul spre stație în caz de polei.",
+              "Folosiți frecvența mare a autobuzelor pentru a minimiza timpul în frig."
+            ],
+            "en": [
+              "Buses are excellently heated in winter.",
+              "Check the SBB app for possible delays during snowfall.",
+              "Olten station offers many heated waiting areas.",
+              "Wear sturdy shoes even on the way to the bus stop in icy weather.",
+              "Use the frequent bus schedule to minimize time spent in the cold."
+            ]
+          }
+        }
       }
     }
   }

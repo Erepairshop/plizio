@@ -358,6 +358,188 @@
           "Many museums and shops close for lunch, so plan accordingly.",
           "A reusable water bottle is useful; there are several fountains with fresh mountain spring water."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Vormittags erkunden Sie die prächtige Pfarrkirche und das Museum im Ballhaus, gut geschützt vor dem Regen. Mittags tauchen Sie im Haus der Fasnacht in die lokalen Traditionen ein. Am Nachmittag bietet die Rosengartenschlucht trotz Nässe ein mystisches Naturerlebnis, bevor Sie den Abend gemütlich in der Imster Altstadt ausklingen lassen.",
+            "hu": "Délelőtt a plébániatemplom és a Ballhaus múzeum belső tereiben rejtőzhet el az eső elől. Délben a farsangi hagyományokat ismerheti meg a fedett múzeumban. Délután a Rosengarten-szurdok vízesései a csapadékos időben még látványosabbak, az estét pedig egy hangulatos belvárosi vendéglőben töltheti.",
+            "ro": "Dimineața explorați biserica parohială și muzeul Ballhaus, feriți de ploaie. La prânz descoperiți tradițiile locale la Casa Carnavalului. După-amiaza, Cheile Rosengarten oferă o experiență mistică în ciuda umezelii, iar seara vă relaxați într-un restaurant primitor din centrul vechi.",
+            "en": "In the morning, explore the parish church and the Ballhaus museum, well-sheltered from the rain. At noon, dive into local traditions at the House of Carnival. In the afternoon, the Rosengarten Gorge offers a mystical natural experience despite the dampness, ending the evening cozily in the old town."
+          },
+          "stops": [
+            {
+              "name": "Parish Church of the Assumption of Mary",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Deckenfresken im trockenen Kirchenschiff.",
+                "hu": "Csodálja meg a mennyezeti freskókat a száraz hajóban.",
+                "ro": "Admirați frescele de pe tavan în interiorul uscat.",
+                "en": "Admire the ceiling frescoes inside the dry nave."
+              }
+            },
+            {
+              "name": "Museum in the Ballhaus",
+              "tip_5lang": {
+                "de": "Idealer Rückzugsort bei starkem Regen.",
+                "hu": "Ideális menedék heves esőzés esetén.",
+                "ro": "Refugiu ideal în caz de ploaie torențială.",
+                "en": "Ideal retreat during heavy rain."
+              }
+            },
+            {
+              "name": "House of Carnival",
+              "tip_5lang": {
+                "de": "Viel Zeit für die Ausstellungen im Innenraum einplanen.",
+                "hu": "Szánjon bőven időt a belső kiállításokra.",
+                "ro": "Alocați suficient timp expozițiilor interioare.",
+                "en": "Plan plenty of time for the indoor exhibits."
+              }
+            },
+            {
+              "name": "St. John's Church",
+              "tip_5lang": {
+                "de": "Kurzer Sprint vom Haus der Fasnacht zum Kircheneingang.",
+                "hu": "Rövid sprint a farsang házától a templombejáratig.",
+                "ro": "Sprint scurt de la Casa Carnavalului până la intrare.",
+                "en": "Short sprint from the House of Carnival to the entrance."
+              }
+            },
+            {
+              "name": "Plague Chapel",
+              "tip_5lang": {
+                "de": "Vorsicht auf den nassen Stufen zur Kapelle.",
+                "hu": "Vigyázzon a kápolnához vezető vizes lépcsőkön.",
+                "ro": "Atenție la treptele umede spre capelă.",
+                "en": "Be careful on the wet steps leading to the chapel."
+              }
+            },
+            {
+              "name": "Start of the Rosengarten Gorge",
+              "tip_5lang": {
+                "de": "Feste Wanderschuhe mit gutem Profil sind heute Pflicht.",
+                "hu": "A jó profilú túrabakancs ma kötelező.",
+                "ro": "Bocancii de drumeție cu talpă aderentă sunt obligatorii.",
+                "en": "Sturdy hiking boots with good grip are mandatory today."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die zahlreichen Museen als Regenschutz.",
+              "Die Schluchtenwege können bei Nässe rutschig sein.",
+              "Ein stabiler Regenschirm ist in der Stadt hilfreich.",
+              "Wasserdichte Kleidung für den Rosengarten-Abschnitt einplanen."
+            ],
+            "hu": [
+              "Használja ki a múzeumokat eső elleni menedékként.",
+              "A szurdok ösvényei nedvesen csúszósak lehetnek.",
+              "Egy stabil esernyő hasznos a városi szakaszon.",
+              "Vízálló ruházatot készítsen be a szurdok túrához."
+            ],
+            "ro": [
+              "Folosiți numeroasele muzee ca adăpost împotriva ploii.",
+              "Potecile din chei pot fi alunecoase când sunt ude.",
+              "O umbrelă robustă este utilă în oraș.",
+              "Pregătiți îmbrăcăminte impermeabilă pentru secțiunea cheilor."
+            ],
+            "en": [
+              "Use the numerous museums as rain shelter.",
+              "Gorge paths can be slippery when wet.",
+              "A sturdy umbrella is helpful in the town area.",
+              "Plan for waterproof clothing for the Rosengarten section."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen beginnt in der beheizten Pfarrkirche und im gemütlichen Ballhaus-Museum. Mittags wärmen Sie sich im Haus der Fasnacht auf, während draußen der Schnee die Alpenstadt verzaubert. Am Nachmittag bietet der Eingang der Rosengartenschlucht eine glitzernde Eislandschaft, bevor Sie den frühen Sonnenuntergang bei einem Heißgetränk genießen.",
+            "hu": "A téli reggel a fűtött plébániatemplomban és a hangulatos Ballhaus múzeumban indul. Délben a farsang házában melegedhet fel, miközben odakint hó borítja az alpesi várost. Délután a Rosengarten-szurdok bejárata csillogó jégvilágot mutat, a korai naplementét pedig egy forró ital mellett élvezheti.",
+            "ro": "Dimineața de iarnă începe în biserica încălzită și în muzeul primitor Ballhaus. La prânz vă încălziți la Casa Carnavalului, în timp ce afară zăpada transformă orașul alpin. După-amiaza, intrarea în chei oferă un peisaj înghețat spectaculos, înainte de a savura apusul timpuriu cu o băutură caldă.",
+            "en": "The winter morning begins in the heated parish church and the cozy Ballhaus Museum. At noon, warm up in the House of Carnival while snow enchants the alpine town outside. In the afternoon, the Rosengarten Gorge entrance offers a glittering ice landscape before enjoying the early sunset with a hot drink."
+          },
+          "stops": [
+            {
+              "name": "Parish Church of the Assumption of Mary",
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille und die leichte Wärme im Inneren.",
+                "hu": "Élvezze a csendet és az enyhe meleget bent.",
+                "ro": "Bucurați-vă de liniște și de căldura ușoară din interior.",
+                "en": "Enjoy the silence and the slight warmth inside."
+              }
+            },
+            {
+              "name": "Museum in the Ballhaus",
+              "tip_5lang": {
+                "de": "Perfekt zum Aufwärmen zwischen den Stadtspaziergängen.",
+                "hu": "Tökéletes hely a felmelegedéshez a városi séta közben.",
+                "ro": "Perfect pentru încălzire între plimbările prin oraș.",
+                "en": "Perfect for warming up between city walks."
+              }
+            },
+            {
+              "name": "House of Carnival",
+              "tip_5lang": {
+                "de": "Die bunten Masken lassen die Winterkälte vergessen.",
+                "hu": "A színes maszkok feledtetik a téli hideget.",
+                "ro": "Măștile colorate vă fac să uitați de frigul iernii.",
+                "en": "The colorful masks make you forget the winter cold."
+              }
+            },
+            {
+              "name": "St. John's Church",
+              "tip_5lang": {
+                "de": "Achten Sie auf Eiszapfen an den Dachrinnen.",
+                "hu": "Ügyeljen a tetőcsatornákról lelógó jégcsapokra.",
+                "ro": "Atenție la țurțurii de pe streșini.",
+                "en": "Watch out for icicles on the eaves."
+              }
+            },
+            {
+              "name": "Plague Chapel",
+              "tip_5lang": {
+                "de": "Der Weg kann bei Frost sehr glatt sein.",
+                "hu": "Fagy esetén az út nagyon csúszós lehet.",
+                "ro": "Drumul poate fi foarte alunecos în caz de îngheț.",
+                "en": "The path can be very slippery during frost."
+              }
+            },
+            {
+              "name": "Start of the Rosengarten Gorge",
+              "tip_5lang": {
+                "de": "Schlucht meist gesperrt; nur den Eingangsbereich bewundern.",
+                "hu": "A szurdok többnyire zárva; csak a bejáratot csodálja meg.",
+                "ro": "Cheile sunt de obicei închise; admirați doar zona intrării.",
+                "en": "Gorge mostly closed; only admire the entrance area."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Schichten für den Wechsel zwischen Drinnen und Draußen.",
+              "Sonnenuntergang ist bereits gegen 16:30 Uhr.",
+              "Die Rosengartenschlucht ist im Winter aus Sicherheitsgründen oft gesperrt.",
+              "Feste Schuhe mit Isolierung und gutem Profil sind nötig."
+            ],
+            "hu": [
+              "Öltözzön rétegesen a kinti és benti váltás miatt.",
+              "A naplemente már 16:30 körül bekövetkezik.",
+              "A Rosengarten-szurdok télen biztonsági okokból gyakran zárva tart.",
+              "Hőszigetelt, jó profilú bakancs szükséges."
+            ],
+            "ro": [
+              "Purtați straturi pentru trecerea de la interior la exterior.",
+              "Apusul are loc deja în jurul orei 16:30.",
+              "Cheile Rosengarten sunt adesea închise iarna din motive de siguranță.",
+              "Sunt necesari bocanci izolați cu talpă aderentă."
+            ],
+            "en": [
+              "Wear layers for the transition between inside and outside.",
+              "Sunset is already around 4:30 PM.",
+              "Rosengarten Gorge is often closed in winter for safety reasons.",
+              "Sturdy insulated boots with good grip are necessary."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -686,6 +868,170 @@
           "An e-bike is a good option to tackle the climbs.",
           "Bring a lock to secure your bike while you explore the sights."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen bietet Imst tolle Radwege. Morgens besuchen Sie die Museen, mittags radeln Sie am Inn entlang, wo der Asphalt auch bei Nässe gut befahrbar ist. Nachmittags geht es zum Coaster, wo Sie die Geschwindigkeit im Regen spüren, bevor Sie den Tag entspannt beenden.",
+            "hu": "Az eső ellenére Imst remek kerékpárutakat kínál. Reggel látogassa meg a múzeumokat, délben tekerjen az Inn mentén, ahol az aszfalt nedvesen is jól járható. Délután irány a bobpálya, ahol az esőben is érezheti a sebességet, mielőtt pihenéssel zárná a napot.",
+            "ro": "În ciuda ploii, Imst oferă piste de biciclete excelente. Dimineața vizitați muzeele, la prânz pedalați de-a lungul râului Inn, unde asfaltul rămâne practicabil. După-amiaza mergeți la Coaster pentru adrenalină în ploaie, înainte de a încheia ziua relaxat.",
+            "en": "Despite the rain, Imst offers great cycling paths. In the morning, visit the museums, then cycle along the Inn at noon, where the asphalt is manageable even when wet. In the afternoon, head to the Coaster to feel the speed in the rain before winding down."
+          },
+          "stops": [
+            {
+              "name": "Parish Church & Museum in the Ballhaus",
+              "tip_5lang": {
+                "de": "Fahrradständer am Museum nutzen und im Trockenen pausieren.",
+                "hu": "Használja a múzeumnál lévő tárolót, és pihenjen bent.",
+                "ro": "Folosiți suporturile de biciclete de la muzeu și pauzați la interior.",
+                "en": "Use the bike racks at the museum and take a break inside."
+              }
+            },
+            {
+              "name": "House of Carnival",
+              "tip_5lang": {
+                "de": "Kurze Fahrzeit, ideal bei Regenschauern.",
+                "hu": "Rövid menetidő, ideális esőzések között.",
+                "ro": "Timp scurt de condus, ideal între reprizele de ploaie.",
+                "en": "Short riding time, ideal between rain showers."
+              }
+            },
+            {
+              "name": "Along the Inn Cycle Path",
+              "tip_5lang": {
+                "de": "Vorsicht bei Pfützen auf dem Radweg.",
+                "hu": "Vigyázzon a tócsákra a kerékpárúton.",
+                "ro": "Atenție la bălțile de pe pista de biciclete.",
+                "en": "Watch out for puddles on the cycle path."
+              }
+            },
+            {
+              "name": "Rosengarten Gorge (Entrance Area)",
+              "tip_5lang": {
+                "de": "Bike sicher abstellen, der Boden kann schlammig sein.",
+                "hu": "Parkoljon biztonságosan, a talaj saras lehet.",
+                "ro": "Parcați bicicleta în siguranță, solul poate fi noroios.",
+                "en": "Park your bike securely; the ground might be muddy."
+              }
+            },
+            {
+              "name": "Alpine Coaster Imst",
+              "tip_5lang": {
+                "de": "Regenhaube für den Coaster ist empfehlenswert.",
+                "hu": "Esővédő huzat ajánlott a bobozáshoz.",
+                "ro": "Se recomandă o protecție pentru ploaie la bob.",
+                "en": "A rain hood is recommended for the coaster."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Wasserdichte Handschuhe und Überschuhe verwenden.",
+              "Vorsicht bei nassen Fahrbahnmarkierungen und Gullydeckeln.",
+              "Bremsweg verlängert sich bei Nässe deutlich.",
+              "Schutzbleche am Fahrrad sind heute sehr wichtig."
+            ],
+            "hu": [
+              "Használjon vízálló kesztyűt és kamáslit.",
+              "Vigyázzon a vizes útburkolati jeleken és csatornafedeleken.",
+              "A fékút vizes úton jelentősen meghosszabbodik.",
+              "A sárvédő ma nagyon fontos a kerékpáron."
+            ],
+            "ro": [
+              "Folosiți mănuși și protecții de pantofi impermeabile.",
+              "Atenție la marcajele rutiere ude și capacele de canal.",
+              "Distanța de frânare crește semnificativ pe ud.",
+              "Apărătorile de noroi sunt foarte importante astăzi."
+            ],
+            "en": [
+              "Use waterproof gloves and shoe covers.",
+              "Watch out for wet road markings and manhole covers.",
+              "Braking distance increases significantly in the wet.",
+              "Fenders on your bike are very important today."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im winterlichen Imst erfordert gute Ausrüstung. Morgens erkunden Sie die Kultur im Warmen. Mittags radeln Sie durch die klare Winterluft am Inn. Der Nachmittag führt zum Hoch-Imst, wo der Coaster oft auch im Winter fährt, bevor die Kälte Sie zurück in die Stadt treibt.",
+            "hu": "A téli Imstben a kerékpározás jó felszerelést igényel. Reggel fedezze fel a kultúrát a melegben. Délben tekerjen a tiszta téli levegőn az Inn mentén. Délután irány Hoch-Imst, ahol a bob gyakran télen is üzemel, mielőtt a hideg visszaterelné a városba.",
+            "ro": "Mersul pe bicicletă în Imst iarna necesită echipament bun. Dimineața explorați cultura la căldură. La prânz pedalați prin aerul curat de iarnă de-a lungul râului Inn. După-amiaza mergeți la Hoch-Imst, unde bobul funcționează adesea și iarna.",
+            "en": "Cycling in winter Imst requires good gear. In the morning, explore culture in the warm. At noon, cycle through the clear winter air along the Inn. The afternoon leads to Hoch-Imst, where the coaster often runs in winter too, before the cold drives you back."
+          },
+          "stops": [
+            {
+              "name": "Parish Church & Museum in the Ballhaus",
+              "tip_5lang": {
+                "de": "Hände an den Heizkörpern im Museum aufwärmen.",
+                "hu": "Melegítse fel kezeit a múzeum fűtőtesteinél.",
+                "ro": "Încălziți-vă mâinile la caloriferele din muzeu.",
+                "en": "Warm your hands at the museum radiators."
+              }
+            },
+            {
+              "name": "House of Carnival",
+              "tip_5lang": {
+                "de": "Radschloss eisfrei halten, falls es schneit.",
+                "hu": "Tartsa jégmentesen a lakatot, ha havazik.",
+                "ro": "Păstrați încuietoarea curată în caz de ninsoare.",
+                "en": "Keep your bike lock ice-free if it snows."
+              }
+            },
+            {
+              "name": "Along the Inn Cycle Path",
+              "tip_5lang": {
+                "de": "Achtung vor überfrierender Nässe auf Brücken.",
+                "hu": "Vigyázzon a hidakon lefagyó nedvességre.",
+                "ro": "Atenție la gheața de pe poduri.",
+                "en": "Watch out for black ice on bridges."
+              }
+            },
+            {
+              "name": "Rosengarten Gorge (Entrance Area)",
+              "tip_5lang": {
+                "de": "Rutschgefahr beim Absteigen vom Rad.",
+                "hu": "Csúszásveszély a bicikliről való leszálláskor.",
+                "ro": "Pericol de alunecare la coborârea de pe bicicletă.",
+                "en": "Slip hazard when dismounting from the bike."
+              }
+            },
+            {
+              "name": "Alpine Coaster Imst",
+              "tip_5lang": {
+                "de": "Extrem kalter Fahrtwind; warm einpacken!",
+                "hu": "Rendkívül hideg menetszél; öltözzön fel melegen!",
+                "ro": "Vânt extrem de rece în timpul cursei; îmbrăcați-vă bine!",
+                "en": "Extremely cold wind chill; bundle up warm!"
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Thermo-Unterwäsche und winddichte Jacke tragen.",
+              "Luftdruck in den Reifen für mehr Grip leicht senken.",
+              "Akku von E-Bikes bei Kälte schneller leer.",
+              "Vorderbremse auf Eis nur sehr vorsichtig nutzen."
+            ],
+            "hu": [
+              "Viseljen termo-aláöltözetet és szélálló dzsekit.",
+              "Kicsit csökkentse a gumiabnyomást a jobb tapadásért.",
+              "Az e-bike akkumulátora hidegben gyorsabban merül.",
+              "Jégen csak óvatosan használja az első féket."
+            ],
+            "ro": [
+              "Purtați lenjerie termică și jachetă rezistentă la vânt.",
+              "Reduceți ușor presiunea în pneuri pentru aderență.",
+              "Bateria bicicletelor electrice se descarcă mai repede la frig.",
+              "Folosiți frâna față cu mare atenție pe gheață."
+            ],
+            "en": [
+              "Wear thermal underwear and a windproof jacket.",
+              "Slightly lower tire pressure for more grip.",
+              "E-bike batteries drain faster in the cold.",
+              "Use the front brake very cautiously on ice."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1038,6 +1384,188 @@
           "Check the opening hours, especially in the off-season.",
           "Parking fees may apply, so have some change ready."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Im Auto bleibt es trocken, während Sie Imst erkunden. Vormittags nutzen Sie die zentralen Parkplätze für Museumsbesuche. Mittags geht es zum Haus der Fasnacht. Am Nachmittag fahren Sie hoch zum Alpine Coaster, wo Sie die Fahrt trotz Regen genießen können, bevor Sie entspannt zurückfahren.",
+            "hu": "Az autóban szárazon maradhat Imst felfedezése közben. Délelőtt használja a központi parkolókat a múzeumlátogatáshoz. Délben irány a farsang háza. Délután hajtson fel a bobpályához, ahol az eső ellenére is élvezheti a menetet, mielőtt visszatérne.",
+            "ro": "Rămâneți uscat în mașină în timp ce explorați orașul Imst. Dimineața folosiți parcările centrale pentru muzee. La prânz mergeți la Casa Carnavalului. După-amiaza conduceți sus la Alpine Coaster, unde vă puteți bucura de cursă în ciuda ploii.",
+            "en": "Stay dry in the car while exploring Imst. In the morning, use central parking for museum visits. At noon, head to the House of Carnival. In the afternoon, drive up to the Alpine Coaster, where you can enjoy the ride despite the rain before driving back."
+          },
+          "stops": [
+            {
+              "name": "Central Car Park",
+              "tip_5lang": {
+                "de": "Kurzer Weg zum Museum, Schirm im Auto lassen.",
+                "hu": "Rövid út a múzeumig, hagyja az ernyőt az autóban.",
+                "ro": "Drum scurt până la muzeu, lăsați umbrela în mașină.",
+                "en": "Short walk to the museum; leave the umbrella in the car."
+              }
+            },
+            {
+              "name": "Parish Church & Museum in the Ballhaus",
+              "tip_5lang": {
+                "de": "Parkhaus bevorzugen, um nasses Einsteigen zu vermeiden.",
+                "hu": "Válassza a parkolóházat, hogy ne ázzon meg beszálláskor.",
+                "ro": "Preferați parcarea acoperită pentru a evita ploaia.",
+                "en": "Prefer covered parking to avoid getting wet when entering."
+              }
+            },
+            {
+              "name": "House of Carnival",
+              "tip_5lang": {
+                "de": "Parkplatz direkt davor nutzen, falls frei.",
+                "hu": "Használja a közvetlen előtte lévő parkolót, ha szabad.",
+                "ro": "Folosiți parcarea direct din față, dacă este liberă.",
+                "en": "Use the parking right in front if available."
+              }
+            },
+            {
+              "name": "Car Park Alpine Coaster / Rosengarten Gorge",
+              "tip_5lang": {
+                "de": "Vorsicht bei tiefen Pfützen auf dem Schotterplatz.",
+                "hu": "Vigyázzon a mély tócsákra a murvás területen.",
+                "ro": "Atenție la bălțile adânci din parcarea cu pietriș.",
+                "en": "Watch out for deep puddles on the gravel lot."
+              }
+            },
+            {
+              "name": "Alpine Coaster Imst",
+              "tip_5lang": {
+                "de": "Scheibenwischer am Coaster gibt es nicht; Augen zu und durch!",
+                "hu": "A bobon nincs ablaktörlő; vágjon bele bátran!",
+                "ro": "Nu există ștergătoare la bob; curaj și înainte!",
+                "en": "No windshield wipers on the coaster; just go for it!"
+              }
+            },
+            {
+              "name": "Rosengarten Gorge",
+              "tip_5lang": {
+                "de": "Regenschutz aus dem Kofferraum mitnehmen.",
+                "hu": "Vigye magával az esővédőt a csomagtartóból.",
+                "ro": "Luați protecția de ploaie din portbagaj.",
+                "en": "Take rain protection from the trunk."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Sichtbarkeit durch Licht auch tagsüber erhöhen.",
+              "Vorsicht bei Aquaplaning auf der Inntalautobahn.",
+              "Regenschirm griffbereit im Türfach verstauen.",
+              "Lüftung gegen beschlagene Scheiben nutzen."
+            ],
+            "hu": [
+              "Növelje a láthatóságot lámpával nappal is.",
+              "Vigyázzon a felfröccsenő vízre az Inntal autópályán.",
+              "Tartsa az esernyőt kéznél az ajtózsebben.",
+              "Használja a szellőzést a párásodó szélvédő ellen."
+            ],
+            "ro": [
+              "Creșteți vizibilitatea cu farurile aprinse și ziua.",
+              "Atenție la acvaplanare pe autostrada Inntal.",
+              "Țineți umbrela la îndemână în buzunarul portierei.",
+              "Folosiți ventilația împotriva aburirii geamurilor."
+            ],
+            "en": [
+              "Increase visibility with lights even during the day.",
+              "Watch out for aquaplaning on the Inntal motorway.",
+              "Keep an umbrella handy in the door pocket.",
+              "Use ventilation to prevent foggy windows."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliche Bergstraßen um Imst bieten tolle Ausblicke. Vormittags besuchen Sie die Kulturstätten. Mittags wärmen Sie sich im Auto auf dem Weg zum Haus der Fasnacht auf. Nachmittags geht es hinauf nach Hoch-Imst zum Rodeln oder Coaster-Fahren, bevor die Dämmerung die Stadt in Lichter hüllt.",
+            "hu": "A téli hegyi utak Imst körül csodás kilátást nyújtanak. Délelőtt látogassa meg a kulturális helyszíneket. Délben melegedjen fel az autóban a farsang házához vezető úton. Délután irány Hoch-Imst szánkózni vagy bobozni, mielőtt a szürkület fénybe öltözteti a várost.",
+            "ro": "Drumurile montane de iarnă din jurul Imst oferă priveliști superbe. Dimineața vizitați siturile culturale. La prânz vă încălziți în mașină spre Casa Carnavalului. După-amiaza mergeți la Hoch-Imst pentru sanie sau bob.",
+            "en": "Wintry mountain roads around Imst offer great views. In the morning, visit the cultural sites. At noon, warm up in the car on the way to the House of Carnival. In the afternoon, head up to Hoch-Imst for sledding or the coaster before dusk lights up the city."
+          },
+          "stops": [
+            {
+              "name": "Central Car Park",
+              "tip_5lang": {
+                "de": "Schnee von den Schuhen klopfen vor dem Einsteigen.",
+                "hu": "Verje le a havat a cipőjéről beszállás előtt.",
+                "ro": "Scuturați zăpada de pe pantofi înainte de a urca.",
+                "en": "Knock snow off your shoes before entering the car."
+              }
+            },
+            {
+              "name": "Parish Church & Museum in the Ballhaus",
+              "tip_5lang": {
+                "de": "Eiskratzer bereithalten, falls es schneit.",
+                "hu": "Legyen kéznél a jégkaparó, ha havazik.",
+                "ro": "Țineți răzuitoarea de gheață la îndemână.",
+                "en": "Keep the ice scraper handy in case it snows."
+              }
+            },
+            {
+              "name": "House of Carnival",
+              "tip_5lang": {
+                "de": "Parkplatzsuche im Winter oft einfacher im Zentrum.",
+                "hu": "A parkolóhely-keresés télen gyakran egyszerűbb a központban.",
+                "ro": "Căutarea locului de parcare e mai ușoară iarna în centru.",
+                "en": "Finding parking in winter is often easier in the center."
+              }
+            },
+            {
+              "name": "Car Park Alpine Coaster / Rosengarten Gorge",
+              "tip_5lang": {
+                "de": "Allrad oder gute Winterreifen für die Auffahrt nötig.",
+                "hu": "Összkerékhajtás vagy jó téli gumi kell a felhajtáshoz.",
+                "ro": "Tracțiune integrală sau anvelope bune de iarnă necesare.",
+                "en": "All-wheel drive or good winter tires needed for the climb."
+              }
+            },
+            {
+              "name": "Alpine Coaster Imst",
+              "tip_5lang": {
+                "de": "Warme Kleidung im Auto lassen für nach der Fahrt.",
+                "hu": "Hagyjon meleg ruhát az autóban a menet utánra.",
+                "ro": "Lăsați haine groase în mașină pentru după cursă.",
+                "en": "Leave warm clothes in the car for after the ride."
+              }
+            },
+            {
+              "name": "Rosengarten Gorge",
+              "tip_5lang": {
+                "de": "Nur kurzer Stopp, da der Weg meist gesperrt ist.",
+                "hu": "Csak rövid megálló, mivel az út többnyire zárva van.",
+                "ro": "Doar o scurtă oprire, drumul fiind de obicei închis.",
+                "en": "Only a short stop as the path is mostly closed."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in Österreich gesetzlich Pflicht.",
+              "Scheibenwaschwasser mit Frostschutz auffüllen.",
+              "Bei Schneefall rechtzeitig Schneeketten aufziehen.",
+              "Batteriecheck vor der Fahrt in die Berge machen."
+            ],
+            "hu": [
+              "A téli gumi Ausztriában törvényi kötelezettség.",
+              "Töltse fel a szélvédőmosót fagyállóval.",
+              "Hóesésben időben tegye fel a hóláncot.",
+              "Ellenőrizze az akkumulátort a hegyi út előtt."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii în Austria.",
+              "Umpleți lichidul de parbriz cu antigel.",
+              "Montați lanțurile din timp în caz de ninsoare abundentă.",
+              "Verificați bateria înainte de drumul la munte."
+            ],
+            "en": [
+              "Winter tires are legally mandatory in Austria.",
+              "Fill windshield washer fluid with antifreeze.",
+              "Put on snow chains in time if it snows heavily.",
+              "Check the battery before driving into the mountains."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1366,6 +1894,170 @@
           "Check the bus schedule in advance, especially for the last return trip.",
           "Buses can be crowded in high season, so be at the stop on time."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Bus bringt Sie trocken durch Imst. Morgens starten Sie am Terminal und besuchen die nahen Museen. Mittags geht es weiter zum Haus der Fasnacht. Am Nachmittag bringt Sie der Wanderbus hoch zum Coaster, wo Sie auch bei Regen Spaß haben, bevor Sie bequem zurückfahren.",
+            "hu": "A busz szárazon viszi végig Imsten. Reggel induljon a terminálról és látogassa meg a közeli múzeumokat. Délben folytassa útját a farsang házához. Délután a túrabusz felviszi a bobpályához, ahol esőben is szórakozhat, mielőtt kényelmesen visszatérne.",
+            "ro": "Autobuzul vă poartă uscat prin Imst. Dimineața porniți de la terminal și vizitați muzeele. La prânz mergeți la Casa Carnavalului. După-amiaza autobuzul vă duce la Coaster pentru distracție în ploaie.",
+            "en": "The bus takes you dry through Imst. In the morning, start at the terminal and visit the nearby museums. At noon, continue to the House of Carnival. In the afternoon, the hiker bus takes you up to the coaster for rainy-day fun before a comfortable return."
+          },
+          "stops": [
+            {
+              "name": "Imst Bus Terminal (Terminal Post)",
+              "tip_5lang": {
+                "de": "Überdachter Wartebereich schützt vor Regen.",
+                "hu": "Fedett váróterem véd az esőtől.",
+                "ro": "Zona de așteptare acoperită protejează de ploaie.",
+                "en": "Covered waiting area protects from rain."
+              }
+            },
+            {
+              "name": "Parish Church & Museum in the Ballhaus",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg von der Haltestelle 'Stadtplatz'.",
+                "hu": "Rövid séta a 'Stadtplatz' megállótól.",
+                "ro": "Scurtă plimbare de la stația 'Stadtplatz'.",
+                "en": "Short walk from the 'Stadtplatz' stop."
+              }
+            },
+            {
+              "name": "House of Carnival",
+              "tip_5lang": {
+                "de": "Buszeiten im Auge behalten, um Wartezeiten im Regen zu vermeiden.",
+                "hu": "Figyelje a menetrendet, hogy ne várjon sokat az esőben.",
+                "ro": "Urmăriți programul pentru a evita așteptarea în ploaie.",
+                "en": "Keep an eye on bus times to avoid waiting in the rain."
+              }
+            },
+            {
+              "name": "Hoch-Imst Bergbahnen Bus Stop",
+              "tip_5lang": {
+                "de": "Direkt am Eingang, kaum nasser Weg.",
+                "hu": "Közvetlenül a bejáratnál, alig kell ázni.",
+                "ro": "Chiar la intrare, drum minim prin ploaie.",
+                "en": "Right at the entrance; minimal wet walking."
+              }
+            },
+            {
+              "name": "Alpine Coaster & Rosengarten Gorge",
+              "tip_5lang": {
+                "de": "Nach dem Coaster schnell zurück zur Bushaltestelle.",
+                "hu": "A bobozás után gyorsan menjen vissza a megállóhoz.",
+                "ro": "După bob, mergeți repede înapoi în stație.",
+                "en": "After the coaster, return quickly to the bus stop."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "VVT SmartRide App für Live-Abfahrten nutzen.",
+              "Kleingeld für den Fahrschein bereithalten (oder App).",
+              "Der Wanderbus verkehrt bei starkem Regen seltener.",
+              "An den Haltestellen nah am Fahrplan stehen."
+            ],
+            "hu": [
+              "Használja a VVT SmartRide appot az élő indulásokhoz.",
+              "Készítsen be aprópénzt vagy használja az appot jegyvásárláshoz.",
+              "A túrabusz heves esőzéskor ritkábban járhat.",
+              "Álljon közel a megállóhoz a menetrend szerinti időben."
+            ],
+            "ro": [
+              "Folosiți aplicația VVT SmartRide pentru plecări live.",
+              "Pregătiți mărunțiș pentru bilet sau folosiți aplicația.",
+              "Autobuzul turistic poate circula mai rar pe ploaie torențială.",
+              "Stați aproape de panoul cu orarul în stații."
+            ],
+            "en": [
+              "Use the VVT SmartRide app for live departures.",
+              "Have change ready for the ticket or use the app.",
+              "The hiker bus may run less frequently in heavy rain.",
+              "Stand near the schedule board at the stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Mit dem Skibus oder Stadtbus Imst im Winter erleben. Morgens besuchen Sie die Museen bequem per Bus. Mittags wärmt die Fahrt zum Haus der Fasnacht. Nachmittags geht es hoch nach Hoch-Imst zum Wintervergnügen, während Sie sich im geheizten Bus auf der Rückfahrt entspannen.",
+            "hu": "Tapasztalja meg a téli Imstet síbusszal vagy városi busszal. Reggel látogassa meg a múzeumokat kényelmesen busszal. Délben a farsang házához tartó út felmelegít. Délután irány Hoch-Imst a téli élményekért, miközben a fűtött buszon pihenhet hazafelé.",
+            "ro": "Experimentați Imst iarna cu autobuzul pentru schi sau cel local. Dimineața vizitați muzeele confortabil. La prânz, drumul spre Casa Carnavalului vă încălzește. După-amiaza mergeți la Hoch-Imst pentru distracție de iarnă.",
+            "en": "Experience winter Imst with the ski or city bus. In the morning, visit museums comfortably by bus. At noon, the ride to the House of Carnival warms you up. In the afternoon, head to Hoch-Imst for winter fun while relaxing in the heated bus on the return."
+          },
+          "stops": [
+            {
+              "name": "Imst Bus Terminal (Terminal Post)",
+              "tip_5lang": {
+                "de": "Zentraler Knotenpunkt, oft geheizte Wartehalle.",
+                "hu": "Központi csomópont, gyakran fűtött váróteremmel.",
+                "ro": "Nod central, adesea cu sală de așteptare încălzită.",
+                "en": "Central hub, often with a heated waiting hall."
+              }
+            },
+            {
+              "name": "Parish Church & Museum in the Ballhaus",
+              "tip_5lang": {
+                "de": "Vorsicht beim Aussteigen vor glatten Bordsteinen.",
+                "hu": "Vigyázzon leszálláskor a csúszós padkákra.",
+                "ro": "Atenție la bordurile alunecoase la coborâre.",
+                "en": "Watch out for slippery curbs when dismounting."
+              }
+            },
+            {
+              "name": "House of Carnival",
+              "tip_5lang": {
+                "de": "Gute Verbindung zum Obermarkt nutzen.",
+                "hu": "Használja a jó összeköttetést az Obermarkt felé.",
+                "ro": "Folosiți conexiunea bună spre Obermarkt.",
+                "en": "Use the good connection to the Obermarkt."
+              }
+            },
+            {
+              "name": "Hoch-Imst Bergbahnen Bus Stop",
+              "tip_5lang": {
+                "de": "Skibusse nutzen die Haltestelle regelmäßig.",
+                "hu": "A síbuszok rendszeresen használják ezt a megállót.",
+                "ro": "Autobuzele de schi folosesc regulat această stație.",
+                "en": "Ski buses use this stop regularly."
+              }
+            },
+            {
+              "name": "Alpine Coaster & Rosengarten Gorge",
+              "tip_5lang": {
+                "de": "Letzten Bus vor Sonnenuntergang nicht verpassen.",
+                "hu": "Ne késse le az utolsó buszt naplemente előtt.",
+                "ro": "Nu ratați ultimul autobuz înainte de apus.",
+                "en": "Don't miss the last bus before sunset."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Skibusse sind mit Gästekarte oft kostenlos.",
+              "Fahrplanänderungen im Winter (Schneefall) beachten.",
+              "Busse sind meist gut geheizt, perfekt zum Aufwärmen.",
+              "Abends fahren Busse im Winter seltener."
+            ],
+            "hu": [
+              "A síbuszok vendégkártyával gyakran ingyenesek.",
+              "Figyelje a téli (hóesés miatti) menetrendváltozásokat.",
+              "A buszok fűtöttek, tökéletesek a felmelegedéshez.",
+              "Este a buszok télen ritkábban járnak."
+            ],
+            "ro": [
+              "Autobuzele de schi sunt adesea gratuite cu cardul de oaspete.",
+              "Atenție la modificările de orar iarna (din cauza zăpezii).",
+              "Autobuzele sunt bine încălzite, perfecte pentru încălzire.",
+              "Seara autobuzele circulă mai rar iarna."
+            ],
+            "en": [
+              "Ski buses are often free with a guest card.",
+              "Note winter schedule changes (due to snow).",
+              "Buses are usually well-heated, perfect for warming up.",
+              "Buses run less frequently in the evening during winter."
+            ]
+          }
+        }
       }
     }
   }

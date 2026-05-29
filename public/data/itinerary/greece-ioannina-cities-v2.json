@@ -362,6 +362,188 @@
           "Most museums are closed on Mondays, check opening hours in advance.",
           "Be respectful when entering religious sites."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag im Archäologischen Museum, geschützt vor dem Regen. Mittags bietet die Festung Its Kale überdachte Ausstellungen. Der Nachmittag gehört der Silberschmiedekunst in der Zitadelle, während der Regen gegen die alten Mauern peitscht. Den Abend verbringen Sie gemütlich in einer der vielen traditionellen Tavernen der Altstadt bei lokalem Wein und warmen Speisen.",
+            "hu": "Kezdje a napot a Régészeti Múzeumban, védve az esőtől. Délben az Its Kale erőd fedett kiállításai kínálnak menedéket. A délutánt az ezüstművesség történetének szentelheti a citadella falai között, miközben kint kopog az eső. Az estét tölte az óváros egyik hangulatos tavernásában, ahol a helyi borok és meleg ételek feledtetik a borús időt.",
+            "ro": "Începeți ziua la Muzeul Arheologic, ferit de ploaie. La prânz, cetatea Its Kale oferă expoziții interioare fascinante. După-amiaza este dedicată artei argintăriei în interiorul citadelei, în timp ce ploaia bate în zidurile vechi. Seara, relaxați-vă într-o tavernă tradițională din orașul vechi, savurând preparate locale calde și un pahar de vin.",
+            "en": "Start your day at the Archaeological Museum, safe from the rain. At noon, the Its Kale fortress offers sheltered indoor exhibitions. Spend the afternoon exploring the Silversmithing Museum within the citadel walls. Conclude your rainy day in a cozy Old Town tavern, enjoying traditional Ioannina hospitality and warm local dishes."
+          },
+          "stops": [
+            {
+              "name": "Archaeological Museum of Ioannina",
+              "tip_5lang": {
+                "de": "Perfekter Zufluchtsort bei Regen; nutzen Sie die Garderobe für nasse Mäntel.",
+                "hu": "Tökéletes menedék esőben; használja a ruhatárat a vizes kabátoknak.",
+                "ro": "Refugiu perfect pe ploaie; folosiți garderoba pentru hainele ude.",
+                "en": "Perfect rainy day refuge; use the cloakroom for wet coats and umbrellas."
+              }
+            },
+            {
+              "name": "Lakeside Promenade (Molos)",
+              "tip_5lang": {
+                "de": "Kurzer Spaziergang unter Arkaden; achten Sie auf rutschige Pflastersteine.",
+                "hu": "Rövid séta az árkádok alatt; vigyázzon a csúszós macskakövekre.",
+                "ro": "Plimbare scurtă sub arcade; atenție la pavajul alunecos.",
+                "en": "Short walk under the arcades; watch out for slippery cobblestones."
+              }
+            },
+            {
+              "name": "Fortress of Ioannina (Its Kale)",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Innenräume der Fethiye-Moschee, um trocken zu bleiben.",
+                "hu": "Látogassa meg a Fethiye-mecset belső tereit, hogy száraz maradjon.",
+                "ro": "Vizitați interiorul Moscheii Fethiye pentru a rămâne uscat.",
+                "en": "Visit the interior of the Fethiye Mosque to stay dry during downpours."
+              }
+            },
+            {
+              "name": "Aslan Pasha Mosque",
+              "tip_5lang": {
+                "de": "Das Innere bietet Schutz und eine ruhige Atmosphäre bei Regenwetter.",
+                "hu": "A belső tér védelmet és nyugodt hangulatot nyújt esős időben.",
+                "ro": "Interiorul oferă adăpost și o atmosferă liniștită pe timp de ploaie.",
+                "en": "The interior provides shelter and a serene atmosphere during rainy weather."
+              }
+            },
+            {
+              "name": "Silversmithing Museum",
+              "tip_5lang": {
+                "de": "Vollständig überdacht in der Bastion; ideal für lange Regengüsse.",
+                "hu": "Teljesen fedett, a bástyában található; ideális hosszú esőzés idején.",
+                "ro": "Complet acoperit în bastion; ideal pentru perioade lungi de ploaie.",
+                "en": "Completely indoor within the bastion; ideal for long rain spells."
+              }
+            },
+            {
+              "name": "Traditional Dinner in the Old Town",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit Kamin für maximale Gemütlichkeit.",
+                "hu": "Válasszon kandallós éttermet a maximális kényelem érdekében.",
+                "ro": "Alegeți un restaurant cu șemineu pentru un confort maxim.",
+                "en": "Choose a restaurant with a fireplace for maximum coziness."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da die Altstadtgassen Pfützen bilden.",
+              "Die Museen in der Burg sind nah beieinander, was den Aufenthalt im Freien minimiert.",
+              "Die Feuchtigkeit am See kann die Kälte verstärken; kleiden Sie sich schichtweise.",
+              "Nutzen Sie die vielen Cafés in der Averof-Straße für kurze Regenpausen."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert az óvárosi utcákon megállhat a víz.",
+              "A várban lévő múzeumok közel vannak egymáshoz, minimalizálva a kinti létet.",
+              "A tóparti pára miatt hidegebbnek érezheti az időt; öltözzön rétegesen.",
+              "Használja az Averof utca kávézóit rövid pihenőkre, ha elered az eső."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, străzile vechi pot avea bălți.",
+              "Muzeele din cetate sunt aproape unul de altul, minimizând timpul afară.",
+              "Umiditatea de lângă lac poate accentua frigul; îmbrăcați-vă în straturi.",
+              "Folosiți cafenelele de pe strada Averof pentru pauze scurte de ploaie."
+            ],
+            "en": [
+              "Wear waterproof shoes as puddles often form in the old town alleys.",
+              "Museums inside the castle are clustered together, minimizing outdoor exposure.",
+              "Lakeside humidity can make it feel colder; dress in warm layers.",
+              "Take advantage of the many cafes on Averof Street for quick rain breaks."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen in Ioannina beginnt im beheizten Archäologischen Museum. Mittags glitzert der Pamvotis-See in der tiefstehenden Sonne, perfekt für einen kurzen Spaziergang am Ufer. Nachmittags bieten die Museen in der Festung Wärme und Kultur. Da die Sonne früh hinter den Pindos-Bergen untergeht, endet der Tag frühzeitig bei einem deftigen Abendessen in der warmen Altstadt.",
+            "hu": "A tiszta téli reggel a fűtött Régészeti Múzeumban kezdődik. Délben a Pamvotisz-tó csillog az alacsony napfényben, ideális egy rövid parti sétához. Délután a vár múzeumai nyújtanak meleget és kulturális élményt. Mivel a nap korán eltűnik a Pindosz-hegyek mögött, a napot egy kiadós vacsora zárja a barátságos óvárosban.",
+            "ro": "O dimineață senină de iarnă în Ioannina începe la Muzeul Arheologic încălzit. La prânz, lacul Pamvotis sclipeste sub soarele palid, ideal pentru o scurtă plimbare. După-amiaza, muzeele din cetate oferă căldură și cultură. Deoarece soarele apune devreme după munții Pindus, ziua se încheie cu o cină consistentă în orașul vechi călduros.",
+            "en": "A crisp winter morning in Ioannina starts in the heated Archaeological Museum. At noon, Lake Pamvotis glitters in the low sun, perfect for a brisk lakeside stroll. The afternoon is best spent in the warm castle museums. As the sun sets early behind the Pindus mountains, finish your day with a hearty dinner in the cozy Old Town atmosphere."
+          },
+          "stops": [
+            {
+              "name": "Archaeological Museum of Ioannina",
+              "tip_5lang": {
+                "de": "Genießen Sie die gut geheizten Galerien an kalten Wintermorgen.",
+                "hu": "Élvezze a jól fűtött termeket a hideg téli reggelen.",
+                "ro": "Bucurați-vă de galeriile bine încălzite în diminețile reci de iarnă.",
+                "en": "Enjoy the well-heated galleries on cold winter mornings."
+              }
+            },
+            {
+              "name": "Lakeside Promenade (Molos)",
+              "tip_5lang": {
+                "de": "Sonnig, aber windig; Handschuhe und ein Schal sind hier unerlässlich.",
+                "hu": "Napsütéses, de szeles; a kesztyű és a sál itt elengedhetetlen.",
+                "ro": "Însorit, dar vântos; mănușile și fularul sunt esențiale aici.",
+                "en": "Sunny but windy; gloves and a scarf are essential by the lake."
+              }
+            },
+            {
+              "name": "Fortress of Ioannina (Its Kale)",
+              "tip_5lang": {
+                "de": "Das Winterlicht bietet fantastische Fotomotive der alten Mauern.",
+                "hu": "A téli fények fantasztikus fotótémákat kínálnak a régi falaknál.",
+                "ro": "Lumina de iarnă oferă oportunități foto fantastice la zidurile vechi.",
+                "en": "The winter light offers fantastic photo opportunities of the old walls."
+              }
+            },
+            {
+              "name": "Aslan Pasha Mosque",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stufen beim Aufgang zur Moschee.",
+                "hu": "Ügyeljen a jeges lépcsőkre a mecsethez vezető feljárónál.",
+                "ro": "Atenție la treptele înghețate la urcarea spre moschee.",
+                "en": "Watch out for icy steps when climbing up to the mosque."
+              }
+            },
+            {
+              "name": "Silversmithing Museum",
+              "tip_5lang": {
+                "de": "Ein warmer Ort, um die Dämmerung drinnen zu verbringen.",
+                "hu": "Meleg helyszín, ahol bent töltheti a korai szürkületet.",
+                "ro": "Un loc cald pentru a petrece amurgul timpuris în interior.",
+                "en": "A warm indoor location to spend the early winter twilight."
+              }
+            },
+            {
+              "name": "Traditional Dinner in the Old Town",
+              "tip_5lang": {
+                "de": "Probieren Sie lokale Fleischgerichte und warmen Tsipouro.",
+                "hu": "Kóstolja meg a helyi húsételeket és a melegített cipúrót.",
+                "ro": "Încercați preparatele locale din carne și un tsipouro cald.",
+                "en": "Try the local meat dishes and warmed tsipouro to heat up."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Winter gegen 17:30 Uhr unter; planen Sie Outdoor-Aktivitäten früh.",
+              "Kopfsteinpflaster kann bei Frost extrem glatt sein.",
+              "Die Cafés am Seeufer haben oft Heizstrahler im Außenbereich.",
+              "Warme Suppen sind ein lokales Highlight in den Wintermonaten."
+            ],
+            "hu": [
+              "A nap télen 17:30 körül nyugszik; a kinti programokat tervezze korábbra.",
+              "A macskakő fagyban rendkívül csúszós lehet.",
+              "A tóparti kávézók gyakran hősugárzókkal teszik kényelmessé a teraszokat.",
+              "A forró levesek a téli hónapok helyi gasztronómiai fénypontjai."
+            ],
+            "ro": [
+              "Soarele apune în jur de 17:30 iarna; planificați activitățile afară devreme.",
+              "Pavajul poate fi extrem de alunecos în caz de îngheț.",
+              "Cafenelele de pe malul lacului au adesea încălzitoare exterioare.",
+              "Supele calde sunt un punct forte local în lunile de iarnă."
+            ],
+            "en": [
+              "Sunset is around 17:30 in winter; plan outdoor activities for early in the day.",
+              "Cobblestones can be extremely slippery if there is frost or ice.",
+              "Lakeside cafes often have outdoor heaters to keep patrons warm.",
+              "Hot traditional soups are a local highlight during the winter months."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -718,6 +900,188 @@
           "Bring a lock to secure the bike while you are sightseeing.",
           "Be mindful of pedestrians on the promenade."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Disziplin, aber Ioannina ist mystisch. Beginnen Sie am Ufer, bevor der starke Regen einsetzt. Vormittags bietet das Museum eine trockene Pause. Die Mittagszeit verbringen Sie in der Festung Its Kale, wo Sie Ihr Rad sicher abstellen können. Der Nachmittag wird ruhiger im Silberschmiedemuseum verbracht, bevor Sie zur Fähre übersetzen, die auch Räder mitnimmt.",
+            "hu": "Az esőben való kerékpározás fegyelmet igényel, de Joánina ilyenkor misztikus. Kezdje a parton, mielőtt rákezdene az eső. Délelőtt a múzeum nyújt száraz pihenőt. A délutánt az Its Kale erődben töltse, ahol biztonságban lezárhatja a bringát. A délutáni csendet a múzeumban élvezheti, majd komppal kelhet át a szigetre, amely kerékpárt is szállít.",
+            "ro": "O tură cu bicicleta pe ploaie necesită disciplină, dar Ioannina este mistică acum. Începeți pe faleză înainte de ploaia grea. Dimineața, muzeul oferă o pauză uscată. Prânzul îl petreceți în cetatea Its Kale, unde puteți parca bicicleta în siguranță. După-amiaza este mai liniștită la muzeu, înainte de a lua feribotul care acceptă și biciclete.",
+            "en": "Cycling in the rain requires discipline, but Ioannina looks mystical. Start at the lakeside before the heavy rain hits. In the morning, the museum offers a dry break. Spend midday in the Its Kale fortress where you can park your bike safely. Enjoy a quiet afternoon at the Silversmithing Museum before taking the ferry, which also carries bikes."
+          },
+          "stops": [
+            {
+              "name": "Lakeside Promenade",
+              "tip_5lang": {
+                "de": "Vorsicht bei Pfützen; das Wasser kann tief unter der Oberfläche sein.",
+                "hu": "Vigyázzon a tócsákkal; a víz mélyebb lehet a látszatnál.",
+                "ro": "Atenție la bălți; apa poate fi mai adâncă decât pare.",
+                "en": "Be careful with puddles; water can be deeper than it looks."
+              }
+            },
+            {
+              "name": "Archaeological Museum of Ioannina",
+              "tip_5lang": {
+                "de": "Es gibt Fahrradständer in der Nähe des Eingangs; sichern Sie Ihr Rad gut.",
+                "hu": "Vannak kerékpártárolók a bejárat közelében; zárja le biztonságosan.",
+                "ro": "Există suporturi de biciclete lângă intrare; asigurați-vă bine bicicleta.",
+                "en": "There are bike racks near the entrance; secure your bike properly."
+              }
+            },
+            {
+              "name": "Fortress of Ioannina (Its Kale)",
+              "tip_5lang": {
+                "de": "Steigen Sie in der Burg ab; das nasse Kopfsteinpflaster ist extrem rutschig.",
+                "hu": "Szálljon le a várban; a vizes macskakő rendkívül csúszós.",
+                "ro": "Coborâți de pe bicicletă în cetate; pavajul ud este foarte alunecos.",
+                "en": "Dismount inside the castle; wet cobblestones are extremely slippery."
+              }
+            },
+            {
+              "name": "Silversmithing Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit für eine ausgiebige Besichtigung während des Regens.",
+                "hu": "Használja ki az időt egy alapos látogatásra az eső alatt.",
+                "ro": "Folosiți timpul pentru o vizită detaliată în timpul ploii.",
+                "en": "Use the time for a thorough visit while waiting out the rain."
+              }
+            },
+            {
+              "name": "Ferry Pier to the Island",
+              "tip_5lang": {
+                "de": "Die Boote haben überdachte Bereiche für Passagiere und Räder.",
+                "hu": "A hajókon vannak fedett részek az utasok és a bringák számára.",
+                "ro": "Barcile au zone acoperite pentru pasageri și biciclete.",
+                "en": "The boats have covered areas for passengers and their bikes."
+              }
+            },
+            {
+              "name": "Bike ride around the lake",
+              "tip_5lang": {
+                "de": "Vermeiden Sie unbefestigte Wege; Schlamm macht das Vorankommen schwer.",
+                "hu": "Kerülje a földutakat; a sár megnehezíti a haladást.",
+                "ro": "Evitați drumurile neasfaltate; noroiul îngreunează înaintarea.",
+                "en": "Avoid unpaved paths; mud makes progress difficult in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vollständige Regenbekleidung (Hose und Jacke) ist unerlässlich.",
+              "Prüfen Sie Ihre Bremsen; der Bremsweg verlängert sich auf nassem Asphalt deutlich.",
+              "Die Burgstraßen sind eng und bei Nässe für Radfahrer tückisch.",
+              "Schutzbleche am Fahrrad verhindern, dass Schmutzwasser auf den Rücken spritzt."
+            ],
+            "hu": [
+              "Teljes esőruházat (nadrág és kabát) elengedhetetlen.",
+              "Ellenőrizze a fékeket; a féktávolság vizes aszfalton jelentősen megnő.",
+              "A vár utcái szűkek és vizesen trükkösek a kerékpárosoknak.",
+              "A sárvédő megakadályozza, hogy a felcsapódó víz összekoszolja a hátát."
+            ],
+            "ro": [
+              "Echipamentul complet de ploaie (pantaloni și jachetă) este esențial.",
+              "Verificați frânele; distanța de frânare crește considerabil pe asfalt ud.",
+              "Străzile din cetate sunt înguste și înșelătoare pentru bicicliști când sunt ude.",
+              "Aripile la bicicletă sunt necesare pentru a nu vă stropi pe spate."
+            ],
+            "en": [
+              "Full rain gear (trousers and jacket) is essential for this trip.",
+              "Check your brakes; stopping distance increases significantly on wet asphalt.",
+              "Castle streets are narrow and tricky for cyclists when wet.",
+              "Fenders on your bike will prevent muddy water from splashing your back."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintertag auf dem Rad beginnt frisch am Seeufer. Die klare Luft bietet weite Sicht auf die verschneiten Berge. Vormittags wärmen Sie sich im Museum auf. Mittags erkunden Sie die Festung, wo das Radfahren erlaubt, aber langsam ist. Am frühen Nachmittag besuchen Sie das Silberschmiedemuseum, bevor Sie mit der Fähre zur Insel übersetzen, um die winterliche Stille fernab des Stadtlärms zu genießen.",
+            "hu": "A téli kerékpáros nap frissen indul a tóparton. A tiszta levegő messzire enged látni a havas hegyekre. Délelőtt a múzeumban melegedhet fel. Délben az erődöt fedezheti fel, ahol a bringázás lassú, de engedélyezett. Kora délután látogassa meg az ezüstművészeti múzeumot, majd komppal menjen a szigetre, hogy élvezze a téli csendet.",
+            "ro": "O zi de iarnă pe bicicletă începe fresh pe faleză. Aerul curat oferă vizibilitate spre munții înzăpeziți. Dimineața vă încălziți la muzeu. La prânz explorați cetatea, unde pedalatul este lent, dar permis. După-amiaza vizitați muzeul argintăriei, apoi luați feribotul spre insulă pentru liniștea iernii.",
+            "en": "A winter day on the bike starts with a fresh breeze by the lake. The crisp air offers great views of the snowy mountains. Warm up in the museum during the morning. At noon, explore the fortress where cycling is slow but permitted. Visit the Silversmithing Museum before catching the ferry to the island to enjoy the winter stillness."
+          },
+          "stops": [
+            {
+              "name": "Lakeside Promenade",
+              "tip_5lang": {
+                "de": "Tragen Sie Windstopper-Kleidung; der Wind am See ist im Winter beißend.",
+                "hu": "Viseljen szélálló ruhát; a tavi szél télen metsző tud lenni.",
+                "ro": "Purtați haine windstopper; vântul de pe lac este tăios iarna.",
+                "en": "Wear windstopper clothing; the lakeside breeze is biting in winter."
+              }
+            },
+            {
+              "name": "Archaeological Museum of Ioannina",
+              "tip_5lang": {
+                "de": "Eine gute Gelegenheit, die Hände aufzuwärmen und den Körper zu dehnen.",
+                "hu": "Jó alkalom a kezek felmelegítésére és a test átmozgatására.",
+                "ro": "O ocazie bună să vă încălziți mâinile și să vă dezmorțiți.",
+                "en": "A good opportunity to warm up your hands and stretch your body indoors."
+              }
+            },
+            {
+              "name": "Fortress of Ioannina (Its Kale)",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenem Tau auf den Steinwegen am Morgen.",
+                "hu": "Vigyázzon a reggeli fagyos harmatra a köves utakon.",
+                "ro": "Atenție la bruma înghețată de pe drumurile de piatră dimineața.",
+                "en": "Watch out for frozen dew on the stone paths in the morning."
+              }
+            },
+            {
+              "name": "Silversmithing Museum",
+              "tip_5lang": {
+                "de": "Der Aufenthalt drinnen hilft, die Energie für die Rückfahrt zu sammeln.",
+                "hu": "A benti tartózkodás segít energiát gyűjteni a visszaútra.",
+                "ro": "Timpul petrecut înăuntru ajută la recuperarea energiei pentru retur.",
+                "en": "Spending time indoors helps gather energy for the ride back."
+              }
+            },
+            {
+              "name": "Ferry Pier to the Island",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad auf der Fähre sicher ab; es kann rutschig sein.",
+                "hu": "Helyezze el biztonságosan a bringát a kompon; csúszós lehet a padló.",
+                "ro": "Parcați bicicleta în siguranță pe feribot; podeaua poate fi alunecoasă.",
+                "en": "Park your bike securely on the ferry; the deck can be slippery."
+              }
+            },
+            {
+              "name": "Bike ride around the lake",
+              "tip_5lang": {
+                "de": "Das schönste Licht ist kurz vor Sonnenuntergang, aber es wird schnell kalt.",
+                "hu": "A fények naplemente előtt a legszebbek, de gyorsan lehűl az idő.",
+                "ro": "Lumina este superbă înainte de apus, dar se răcește rapid.",
+                "en": "The light is most beautiful just before sunset, but it gets cold fast."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schichtenprinzip ist wichtig: Merinowolle als Basisschicht hält warm.",
+              "Benutzen Sie helles Licht, da es im Winter oft neblig ist.",
+              "Halten Sie die Fahrten kurz, um Unterkühlung zu vermeiden.",
+              "Ein heißer Tee in einer Thermoskanne ist der beste Begleiter."
+            ],
+            "hu": [
+              "A réteges öltözködés fontos: a merinó gyapjú alapréteg melegen tart.",
+              "Használjon erős lámpát, mert télen gyakori a köd.",
+              "Tartson rövidebb szakaszokat, hogy elkerülje a kihűlést.",
+              "Egy termosz forró tea a legjobb kísérő az úton."
+            ],
+            "ro": [
+              "Principiul straturilor este vital: lâna merino ca bază menține căldura.",
+              "Folosiți lumini puternice, iarna este adesea ceață.",
+              "Faceți pauze scurte pentru a evita hipotermia.",
+              "Un ceai fierbinte într-un termos este cel mai bun companion."
+            ],
+            "en": [
+              "Layering is key: merino wool as a base layer will keep you warm.",
+              "Use bright lights as it is often foggy near the lake in winter.",
+              "Keep your riding stints short to avoid getting chilled.",
+              "A hot tea in a thermos is your best companion on a winter ride."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1098,6 +1462,206 @@
           "Parking near the fortress can be challenging, be patient.",
           "Buy a combo ticket if available for the fortress museums."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist die Perama-Höhle der ideale Start für einen Regentag, da sie im Inneren trocken ist. Danach parken Sie am Fähranleger und setzen zur Insel über. Das Ali-Pascha-Museum bietet Schutz, bevor Sie ein gemütliches Mittagessen auf der Insel genießen. Den Nachmittag verbringen Sie in der Festung Its Kale und im Silberschmiedemuseum, während das Auto sicher geparkt auf Sie wartet.",
+            "hu": "Autóval a Perama-barlang ideális kezdés egy esős napon, mivel bent száraz az idő. Ezután parkoljon a kompállomásnál, és keljen át a szigetre. Az Ali pasa múzeum védelmet nyújt, majd egy kényelmes ebédet fogyaszthat el. A délutánt az Its Kale erődben és az ezüstművészeti múzeumban töltheti, miközben az autója biztonságban várja.",
+            "ro": "Cu mașina, Peștera Perama este startul ideal pentru o zi ploioasă, fiind uscată în interior. Parcați apoi la feribot și treceți pe insulă. Muzeul Ali Pașa oferă adăpost înainte de un prânz relaxat. După-amiaza o petreceți în cetatea Its Kale și la muzeul argintăriei, în timp ce mașina vă așteaptă parcată în siguranță.",
+            "en": "By car, Perama Cave is the ideal start for a rainy day as it stays dry inside. Park near the ferry pier and cross to the island. Ali Pasha Museum offers shelter before a leisurely lunch. Spend the afternoon at the Its Kale fortress and the Silversmithing Museum, while your car stays conveniently parked nearby."
+          },
+          "stops": [
+            {
+              "name": "Perama Cave",
+              "tip_5lang": {
+                "de": "Ideal bei Regen; die Temperatur im Inneren ist konstant und angenehm.",
+                "hu": "Ideális esőben; a benti hőmérséklet állandó és kellemes.",
+                "ro": "Ideal pe ploaie; temperatura interioară este constantă și plăcută.",
+                "en": "Ideal rainy day activity; the temperature inside is constant and comfortable."
+              }
+            },
+            {
+              "name": "Parking at the Ferry Pier",
+              "tip_5lang": {
+                "de": "Suchen Sie einen Platz nah am Anleger, um nicht nass zu werden.",
+                "hu": "Keressen helyet közel a kikötőhöz, hogy ne ázzon el.",
+                "ro": "Căutați un loc aproape de debarcader pentru a nu vă uda.",
+                "en": "Find a spot close to the pier to minimize time in the rain."
+              }
+            },
+            {
+              "name": "Island of Ioannina",
+              "tip_5lang": {
+                "de": "Die Gassen sind eng; ein Regenschirm ist praktischer als ein Regenponcho.",
+                "hu": "A szűk utcákon az esernyő praktikusabb, mint az esőponcsó.",
+                "ro": "Străzile sunt înguste; o umbrelă e mai practică decât o pelerină.",
+                "en": "Alleys are narrow; an umbrella is more practical than a poncho."
+              }
+            },
+            {
+              "name": "Ali Pasha Museum",
+              "tip_5lang": {
+                "de": "Ein kleiner, aber feiner Ort, um sich während eines Schauers aufzuwärmen.",
+                "hu": "Kicsi, de remek hely a felmelegedésre egy zápor alatt.",
+                "ro": "Un loc mic și primitor pentru a vă încălzi în timpul unei averse.",
+                "en": "A small but great place to warm up during a heavy downpour."
+              }
+            },
+            {
+              "name": "Lunch on the Island",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den regnerischen See aus dem Fenster.",
+                "hu": "Élvezze az esős tó látványát az ablak mellől.",
+                "ro": "Bucurați-vă de vederea spre lacul ploios de la fereastră.",
+                "en": "Enjoy the view of the rainy lake from a window-side table."
+              }
+            },
+            {
+              "name": "Fortress of Ioannina (Its Kale)",
+              "tip_5lang": {
+                "de": "Parken Sie außerhalb der Mauern, da die Zufahrt drinnen schwierig ist.",
+                "hu": "Parkoljon a falakon kívül, mert bent nehézkes a közlekedés.",
+                "ro": "Parcați în afara zidurilor, accesul interior este dificil.",
+                "en": "Park outside the walls as driving inside the fortress is difficult."
+              }
+            },
+            {
+              "name": "Silversmithing Museum",
+              "tip_5lang": {
+                "de": "Der perfekte Abschluss eines Regentages in trockener Umgebung.",
+                "hu": "A nap tökéletes zárása száraz és elegáns környezetben.",
+                "ro": "Finalul perfect al unei zile ploioase într-un mediu uscat.",
+                "en": "The perfect end to a rainy day in a dry and elegant environment."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Straßen um Ioannina können bei starkem Regen rutschig sein.",
+              "Nutzen Sie die Parkhäuser in der Innenstadt, um trocken ins Zentrum zu kommen.",
+              "Prüfen Sie den Reifendruck vor Fahrten in die bergige Umgebung.",
+              "Nebelscheinwerfer sind bei der oft auftretenden Feuchtigkeit am See hilfreich."
+            ],
+            "hu": [
+              "Az utak Joánina környékén csúszósak lehetnek heves esőzéskor.",
+              "Használja a belvárosi parkolóházakat, hogy szárazon jusson a központba.",
+              "Ellenőrizze a guminyomást a hegyi utak előtt.",
+              "A ködlámpa hasznos lehet a tónál gyakran előforduló pára miatt."
+            ],
+            "ro": [
+              "Drumurile din jurul orașului pot fi alunecoase la ploi torențiale.",
+              "Folosiți parcările etajate din centru pentru a ajunge uscat în oraș.",
+              "Verificați presiunea în pneuri înainte de drumurile montane.",
+              "Farurile de ceață sunt utile din cauza umidității frecvente de lângă lac."
+            ],
+            "en": [
+              "Roads around Ioannina can get slippery during heavy rainfall.",
+              "Use multi-story car parks in the city center to stay dry.",
+              "Check your tire pressure before driving into the mountainous surroundings.",
+              "Fog lights are helpful due to the frequent mist near the lake."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintertag beginnt mit der Perama-Höhle, die eine willkommene Wärme bietet. Danach geht es zum Fähranleger für einen Ausflug zur mystischen, winterlichen Insel. Das Ali-Pascha-Museum und ein warmes Mittagessen auf der Insel sind Höhepunkte. Zurück am Festland erkunden Sie die Festung Its Kale im klaren Winterlicht und beenden den Tag im Silberschmiedemuseum, bevor die Kälte des Abends einsetzt.",
+            "hu": "A téli nap a Perama-barlanggal indul, amely kellemes meleget ad. Ezután irány a kikötő, hogy átkeljen a misztikus téli szigetre. Az Ali pasa múzeum és egy forró ebéd a szigeten a nap fénypontja. Visszatérve az Its Kale erődöt fedezheti fel a tiszta téli fényekben, majd az ezüstművészeti múzeumban zárhatja a napot.",
+            "ro": "O zi de iarnă începe cu Peștera Perama, care oferă o căldură binevenită. Urmează feribotul spre insula mistică de iarnă. Muzeul Ali Pașa și un prânz cald pe insulă sunt puncte forte. Reveniți pentru a explora cetatea Its Kale în lumina clară de iarnă și încheiați la muzeul argintăriei.",
+            "en": "Your winter day starts at Perama Cave, providing a welcome warmth. Head to the ferry pier for a trip to the mystical winter island. The Ali Pasha Museum and a warm island lunch are highlights. Back on the mainland, explore Its Kale in the crisp winter light and finish at the Silversmithing Museum before the evening chill."
+          },
+          "stops": [
+            {
+              "name": "Perama Cave",
+              "tip_5lang": {
+                "de": "Wärmer als draußen; eine gute Möglichkeit, sich aufzuwärmen.",
+                "hu": "Melegebb, mint kint; jó lehetőség a felmelegedésre.",
+                "ro": "Mai cald decât afară; o modalitate bună de a vă încălzi.",
+                "en": "Warmer than outside; a great way to escape the winter cold for a while."
+              }
+            },
+            {
+              "name": "Parking at the Ferry Pier",
+              "tip_5lang": {
+                "de": "Parkplätze sind im Winter leichter zu finden als im Sommer.",
+                "hu": "Télen könnyebb parkolóhelyet találni, mint a nyári szezonban.",
+                "ro": "Locurile de parcare se găsesc mai ușor iarna decât vara.",
+                "en": "Parking spots are easier to find in winter than in the peak summer season."
+              }
+            },
+            {
+              "name": "Island of Ioannina",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Klöster; sie sind im Winter besonders stimmungsvoll.",
+                "hu": "Látogassa meg a kolostorokat; télen különösen hangulatosak.",
+                "ro": "Vizitați mănăstirile; sunt deosebit de atmosferice iarna.",
+                "en": "Visit the monasteries; they are particularly atmospheric in winter."
+              }
+            },
+            {
+              "name": "Ali Pasha Museum",
+              "tip_5lang": {
+                "de": "Drinnen ist es gemütlich; nehmen Sie sich Zeit für die Exponate.",
+                "hu": "Bent barátságos az idő; szánjon időt a kiállítási tárgyakra.",
+                "ro": "În interior este plăcut; acordați-vă timp pentru exponate.",
+                "en": "It's cozy inside; take your time to examine the exhibits."
+              }
+            },
+            {
+              "name": "Lunch on the Island",
+              "tip_5lang": {
+                "de": "Probieren Sie lokale Spezialitäten wie Froschschenkel oder Aal.",
+                "hu": "Kóstolja meg a helyi különlegességeket, mint a békacomb vagy az angolna.",
+                "ro": "Încercați specialitățile locale precum picioarele de broască sau anghila.",
+                "en": "Try local winter specialties like frog legs or eel."
+              }
+            },
+            {
+              "name": "Fortress of Ioannina (Its Kale)",
+              "tip_5lang": {
+                "de": "Die Aussicht auf die verschneiten Gipfel ist von hier aus grandios.",
+                "hu": "A kilátás a havas csúcsokra innen lélegzetelállító.",
+                "ro": "Vederea spre vârfurile înzăpezite este grandioasă de aici.",
+                "en": "The view of the snowy peaks from here is truly magnificent."
+              }
+            },
+            {
+              "name": "Silversmithing Museum",
+              "tip_5lang": {
+                "de": "Die moderne Heizung sorgt für einen angenehmen Museumsbesuch.",
+                "hu": "A modern fűtés kellemes múzeumlátogatást tesz lehetővé.",
+                "ro": "Sistemul modern de încălzire asigură o vizită plăcută.",
+                "en": "The modern heating system ensures a comfortable museum visit."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahren Sie vorsichtig; Eis auf Brücken und in Schattenbereichen ist möglich.",
+              "Lassen Sie den Motor im Stand nicht unnötig laufen.",
+              "Frostschutzmittel in der Scheibenwaschanlage ist ein Muss.",
+              "Planen Sie die Rückfahrt vor Einbruch der Dunkelheit ein."
+            ],
+            "hu": [
+              "Vezessen óvatosan; a hidakon és árnyékos részeken jegesedés várható.",
+              "Ne járassa feleslegesen a motort álló helyzetben.",
+              "A fagyálló szélvédőmosó folyadék kötelező.",
+              "Tervezze meg a visszautat még sötétedés előtt."
+            ],
+            "ro": [
+              "Conduceți cu atenție; gheața pe poduri și în zonele umbrite este posibilă.",
+              "Nu lăsați motorul pornit inutil când staționați.",
+              "Lichidul de parbriz antigel este obligatoriu.",
+              "Planificați drumul de întoarcere înainte de lăsarea întunericului."
+            ],
+            "en": [
+              "Drive carefully; ice on bridges and in shaded areas is possible.",
+              "Avoid idling the engine unnecessarily for long periods.",
+              "Antifreeze in the windshield washer fluid is a must in winter.",
+              "Plan your return journey before it gets dark."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1454,6 +2018,188 @@
           "Bus schedules can change, check online or at the stops.",
           "Download an offline map or a public transport app to help you navigate."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den Bus, um trocken zum Archäologischen Museum zu gelangen. Später führt der Weg zur Burg, wo die Museen Schutz vor dem Regen bieten. Das Mittagessen in der Festung ist eine ideale Pause. Am Nachmittag setzen Sie mit der Fähre zur Insel über, was trotz Regen ein besonderes Erlebnis ist. Beenden Sie den Tag entspannt, indem Sie den Bus zurück ins Zentrum nehmen.",
+            "hu": "Használja a buszt, hogy szárazon jusson a Régészeti Múzeumba. Később irány a vár, ahol a múzeumok védelmet nyújtanak az eső ellen. Az erőd falai közötti ebéd ideális pihenő. Délután komppal kelhet át a szigetre, ami az eső ellenére is különleges élmény. Zárja a napot kényelmesen, busszal utazva vissza a központba.",
+            "ro": "Folosiți autobuzul pentru a ajunge uscat la Muzeul Arheologic. Mai târziu, mergeți la cetate, unde muzeele oferă adăpost. Prânzul în interiorul fortăreței este o pauză ideală. După-amiaza treceți cu feribotul pe insulă, o experiență specială chiar și pe ploaie. Încheiați ziua relaxat luând autobuzul spre centru.",
+            "en": "Use the local bus to reach the Archaeological Museum without getting wet. Later, head to the castle area where museums offer refuge from the rain. Lunch inside the fortress walls is an ideal break. In the afternoon, take the ferry to the island—a unique experience even in the rain. End your day comfortably by taking the bus back to the center."
+          },
+          "stops": [
+            {
+              "name": "Archaeological Museum of Ioannina",
+              "tip_5lang": {
+                "de": "Bushaltestellen befinden sich direkt am Haupteingang.",
+                "hu": "A buszmegállók közvetlenül a főbejáratnál találhatók.",
+                "ro": "Stațiile de autobuz se află chiar lângă intrarea principală.",
+                "en": "Bus stops are located conveniently near the main entrance."
+              }
+            },
+            {
+              "name": "Fortress of Ioannina (Kastro)",
+              "tip_5lang": {
+                "de": "Vom Stadtzentrum ist es nur eine kurze Busfahrt bis zum Burgtor.",
+                "hu": "A belvárosból csak egy rövid buszút a várkapu.",
+                "ro": "Din centrul orașului este doar o scurtă călătorie cu autobuzul.",
+                "en": "It is just a short bus ride from the city center to the castle gate."
+              }
+            },
+            {
+              "name": "Aslan Pasha Mosque & Silversmithing Museum",
+              "tip_5lang": {
+                "de": "Der Weg zwischen den Museen in der Burg ist kurz; ideal bei Schauern.",
+                "hu": "A múzeumok közötti távolság kicsi a várban; ideális záporok esetén.",
+                "ro": "Distanța între muzee în cetate este mică; ideal în caz de averse.",
+                "en": "The distance between museums in the castle is short; ideal during showers."
+              }
+            },
+            {
+              "name": "Lunch inside the Fortress",
+              "tip_5lang": {
+                "de": "Viele Restaurants bieten Abholservice für müde Transit-Reisende an.",
+                "hu": "Sok étterem kínál elviteles lehetőséget a fáradt utazóknak.",
+                "ro": "Multe restaurante oferă opțiuni la pachet pentru călătorii obosiți.",
+                "en": "Many restaurants here are very welcoming to transit users."
+              }
+            },
+            {
+              "name": "Ferry Pier to the Island",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Fahrplan der Fähre bei schlechtem Wetter vorab.",
+                "hu": "Rossz idő esetén ellenőrizze előre a komp menetrendjét.",
+                "ro": "Verificați programul feribotului în avans pe vreme rea.",
+                "en": "Check the ferry schedule in advance if the weather is very poor."
+              }
+            },
+            {
+              "name": "Ali Pasha Museum & Island Exploration",
+              "tip_5lang": {
+                "de": "Die Insel ist klein genug, um sie trotz Regen schnell zu erkunden.",
+                "hu": "A sziget elég kicsi ahhoz, hogy esőben is gyorsan bejárható legyen.",
+                "ro": "Insula este destul de mică pentru a fi explorată rapid pe ploaie.",
+                "en": "The island is small enough to explore quickly between rain spells."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Laden Sie eine Nahverkehrs-App für Echtzeit-Infos herunter.",
+              "Kaufen Sie Tickets im Voraus an Kiosken, um Zeit zu sparen.",
+              "Busse können bei starkem Regen Verspätung haben.",
+              "Halten Sie Kleingeld für die Fähre bereit."
+            ],
+            "hu": [
+              "Töltse le a közlekedési alkalmazást a valós idejű infókért.",
+              "Vegye meg a jegyeket előre az újságosoknál, hogy időt spóroljon.",
+              "A buszok heves esőzéskor késhetnek.",
+              "Legyen kéznél aprópénz a komphoz."
+            ],
+            "ro": [
+              "Descărcați o aplicație de transport pentru info în timp real.",
+              "Cumpărați biletele în avans de la chioșcuri pentru a economisi timp.",
+              "Autobuzele pot avea întârzieri în caz de ploaie torențială.",
+              "Aveți pregătit mărunțiș pentru feribot."
+            ],
+            "en": [
+              "Download a transit app for real-time bus information.",
+              "Buy your tickets in advance at kiosks to save time and hassle.",
+              "Buses may experience delays during very heavy rainfall.",
+              "Have small change ready for the ferry fare."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihren Wintertag mit dem Bus zum Archäologischen Museum, um die Kälte am Morgen zu meiden. Später bringt Sie der Transit zur Burg Ioannina, wo die Museen Geschichte in warmem Ambiente präsentieren. Ein Mittagessen in der Festung wärmt auf. Am Nachmittag ist die Überfahrt zur Insel bei klarer Winterluft ein Genuss. Kehren Sie mit dem Bus zurück, wenn die Sonne früh untergeht.",
+            "hu": "Kezdje a téli napot busszal a Régészeti Múzeumba, elkerülve a reggeli hideget. Később a tömegközlekedés a várba viszi, ahol a múzeumok meleg környezetben mutatják be a történelmet. Egy ebéd az erődben felmelegíti. Délután a szigetre való átkelés a tiszta téli levegőben igazi élmény. Térjen vissza busszal, amikor korán nyugszik a nap.",
+            "ro": "Începeți ziua de iarnă cu autobuzul spre Muzeul Arheologic pentru a evita frigul dimineții. Mai târziu, transportul vă duce la cetate, unde muzeele prezintă istoria într-un mediu cald. Un prânz în fortăreață vă va încălzi. După-amiaza, trecerea pe insulă în aerul curat de iarnă este o plăcere. Reveniți cu autobuzul la apus.",
+            "en": "Start your winter day by bus to the Archaeological Museum to avoid the morning chill. Later, transit takes you to the Ioannina Castle, where museums showcase history in a warm setting. A fortress lunch will warm you up. In the afternoon, the ferry ride to the island is a delight in the crisp winter air. Return by bus as the sun sets early."
+          },
+          "stops": [
+            {
+              "name": "Archaeological Museum of Ioannina",
+              "tip_5lang": {
+                "de": "Warten Sie in den überdachten Bushaltestellen, um den Wind zu meiden.",
+                "hu": "Várjon a fedett buszmegállókban, hogy elkerülje a szelet.",
+                "ro": "Așteptați în stațiile de autobuz acoperite pentru a evita vântul.",
+                "en": "Wait in the sheltered bus stops to avoid the cold winter wind."
+              }
+            },
+            {
+              "name": "Fortress of Ioannina (Kastro)",
+              "tip_5lang": {
+                "de": "Die Busse sind im Winter gut beheizt und komfortabel.",
+                "hu": "A buszok télen jól fűtöttek és kényelmesek.",
+                "ro": "Autobuzele sunt bine încălzite și confortabile iarna.",
+                "en": "Buses are well-heated and comfortable during the winter months."
+              }
+            },
+            {
+              "name": "Aslan Pasha Mosque & Silversmithing Museum",
+              "tip_5lang": {
+                "de": "Die Museen sind die besten Orte, um sich zwischen den Fahrten aufzuwärmen.",
+                "hu": "A múzeumok a legjobb helyek a felmelegedésre az utazások között.",
+                "ro": "Muzeele sunt cele mai bune locuri să vă încălziți între drumuri.",
+                "en": "The museums are the best places to warm up between transit rides."
+              }
+            },
+            {
+              "name": "Lunch inside the Fortress",
+              "tip_5lang": {
+                "de": "Probieren Sie heißen griechischen Kaffee nach dem Essen.",
+                "hu": "Kóstolja meg a forró görög kávét az ebéd után.",
+                "ro": "Încercați o cafea grecească fierbinte după masă.",
+                "en": "Try a hot Greek coffee after your meal to stay warm."
+              }
+            },
+            {
+              "name": "Ferry Pier to the Island",
+              "tip_5lang": {
+                "de": "Die Fähren verkehren im Winter seltener; planen Sie genau.",
+                "hu": "A kompok télen ritkábban járnak; tervezzen pontosan.",
+                "ro": "Feriboturile circulă mai rar iarna; planificați cu atenție.",
+                "en": "Ferries run less frequently in winter; check the timetable carefully."
+              }
+            },
+            {
+              "name": "Ali Pasha Museum & Island Exploration",
+              "tip_5lang": {
+                "de": "Die Insel ist im Winter sehr ruhig und bietet tolle Fotomotive.",
+                "hu": "A sziget télen nagyon csendes, és remek fotótémákat kínál.",
+                "ro": "Insula este foarte liniștită iarna și oferă oportunități foto superbe.",
+                "en": "The island is very quiet in winter and offers great photo opportunities."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie warme Socken, da das Warten an Haltestellen kalt sein kann.",
+              "Informieren Sie sich über die Winter-Fahrpläne der KTEL Ioannina.",
+              "Nutzen Sie die zentralen Plätze als Umsteigepunkte mit Café-Optionen.",
+              "Die letzte Fähre von der Insel fährt im Winter früher ab."
+            ],
+            "hu": [
+              "Viseljen meleg zoknit, mert a megállókban való várakozás hideg lehet.",
+              "Tájékozódjon a KTEL Joánina téli menetrendjéről.",
+              "Használja a központi tereket átszállási pontként, ahol van kávézó.",
+              "Az utolsó komp a szigetről télen korábban indul."
+            ],
+            "ro": [
+              "Purtați șosete groase, așteptatul în stații poate fi friguros.",
+              "Informați-vă despre orarul de iarnă al KTEL Ioannina.",
+              "Folosiți piețele centrale ca puncte de transfer cu opțiuni de cafenele.",
+              "Ultimul feribot de pe insulă pleacă mai devreme iarna."
+            ],
+            "en": [
+              "Wear warm socks as waiting at bus stops can be chilly in winter.",
+              "Check the special winter schedules for KTEL Ioannina buses.",
+              "Use central squares as transfer points where you can grab a hot drink.",
+              "Note that the last ferry from the island departs earlier in winter."
+            ]
+          }
+        }
       }
     }
   }

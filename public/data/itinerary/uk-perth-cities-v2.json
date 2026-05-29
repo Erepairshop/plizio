@@ -372,6 +372,188 @@
           "Most museums and galleries in Perth are free to enter, but donations are welcome.",
           "Check the opening times for Branklyn Garden as they can be seasonal."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag in der St. John's Kirk, die einen trockenen und ehrwürdigen Zufluchtsort vor dem Morgenregen bietet. Mittags ist das Perth Museum der ideale Ort, um Stunden im Trockenen zwischen schottischen Schätzen zu verbringen. Am Nachmittag führt der Weg durch die Inches; ein stabiler Regenschirm ist für die Uferpromenade unverzichtbar. Der Abend klingt in der Innenstadt aus, wo sich die Lichter in den Pfützen spiegeln.\n\nDie historische Kirk schützt Sie vor dem ersten Guss. Im Museum können Sie die Regenpause für Kunst und Geschichte nutzen. Die Parks wirken im Nebel mystisch, erfordern aber wasserfestes Schuhwerk. Gemütliche Cafés in der Nähe der South Inch bieten Wärme nach dem Spaziergang.",
+            "hu": "Kezdje a napot a Szent János templomban, amely méltóságteljes menedéket nyújt a reggeli szemerkélés elől. Délben a Perth Múzeum a legjobb választás, ahol órákon át böngészheti a skót történelmet szárazon. Délután a North és South Inch parkok következnek; egy jó esernyővel a Tay-folyó menti séta kifejezetten hangulatos. Az estét a városközpont fényeiben, a nedves macskaköveken csillogó reflexiók között zárhatja.\n\nA templom vastag falai mögött nem ázik meg az elején. A múzeum tökéletes helyszín a nagyobb záporok idejére. A parki ösvények kissé sárosak lehetnek, így vízálló cipő javasolt. A Branklyn Garden üvegháza és teázója kiváló befejezés az esőben.",
+            "ro": "Începeți ziua la St John's Kirk, care oferă un sanctuar uscat și demn în fața burniței de dimineață. La prânz, Muzeul din Perth este locul ideal pentru a petrece ore întregi la adăpost, explorând istoria scoțiană. După-amiaza, plimbarea prin parcurile Inch necesită o umbrelă solidă; priveliștile râului sunt atmosferice prin ceață. Seara se încheie în centrul orașului, unde luminile se reflectă în trotuarele umede.\n\nBiserica istorică vă protejează de prima ploaie. Muzeul este refugiul perfect pentru orele cu precipitații intense. Parcurile oferă un peisaj mistic în ploaie, dar necesită încălțăminte impermeabilă. Cafenelele primitoare de lângă South Inch oferă căldură după explorare.",
+            "en": "Start your day at St John's Kirk, which provides a grand and dry sanctuary from the morning drizzle. At midday, the Perth Museum is the perfect spot to spend hours indoors exploring Scottish history. Afternoon walks through the Inches require a sturdy umbrella; the river views are atmospheric in the mist. The evening ends in the city center, where the lights reflect beautifully on the wet pavements.\n\nThe historic Kirk shelters you from the initial downpour. Use the museum as your primary retreat during the heaviest rain. The parks offer a mystical landscape in the fog, but waterproof boots are recommended. Cozy tea rooms near Branklyn Garden provide a warm conclusion to the rainy day."
+          },
+          "stops": [
+            {
+              "name": "St John's Kirk",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Glasmalerei, während draußen der Regen trommelt.",
+                "hu": "Csodálja meg az üvegablakokat, miközben kint kopog az eső.",
+                "ro": "Admirați vitraliile în timp ce ploaia bate în geamuri afară.",
+                "en": "Admire the stained glass while the rain drums on the roof outside."
+              }
+            },
+            {
+              "name": "Perth Museum and Art Gallery",
+              "tip_5lang": {
+                "de": "Perfekter Rückzugsort bei starkem Regen; Garderobe vorhanden.",
+                "hu": "Tökéletes menedék heves esőzéskor; van ruhatár a vizes kabátoknak.",
+                "ro": "Refugiul perfect în caz de ploaie torențială; garderobă disponibilă.",
+                "en": "Perfect retreat during heavy rain; cloakroom available for wet gear."
+              }
+            },
+            {
+              "name": "Perth Concert Hall",
+              "tip_5lang": {
+                "de": "Das moderne Foyer bietet Schutz und oft kostenlose Ausstellungen.",
+                "hu": "A modern előcsarnok védelmet nyújt és gyakran ingyenes kiállításokat.",
+                "ro": "Foaierul modern oferă adăpost și adesea expoziții gratuite.",
+                "en": "The modern foyer offers shelter and often free exhibitions."
+              }
+            },
+            {
+              "name": "North Inch",
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den asphaltierten Wegen, um Schlamm zu vermeiden.",
+                "hu": "Maradjon az aszfaltozott utakon, hogy elkerülje a sarat.",
+                "ro": "Rămâneți pe potecile asfaltate pentru a evita noroiul.",
+                "en": "Stick to the paved paths to avoid the muddy grass sections."
+              }
+            },
+            {
+              "name": "South Inch",
+              "tip_5lang": {
+                "de": "Die Bäume bieten nur begrenzten Schutz; Schirm bereithalten.",
+                "hu": "A fák csak korlátozott védelmet nyújtanak; tartsa készen az ernyőt.",
+                "ro": "Copacii oferă adăpost limitat; țineți umbrela la îndemână.",
+                "en": "Trees provide limited shelter; keep your umbrella ready for the open spaces."
+              }
+            },
+            {
+              "name": "Branklyn Garden",
+              "tip_5lang": {
+                "de": "Besuchen Sie das Teehaus für eine warme Tasse bei Regen.",
+                "hu": "Látogasson el a teaházba egy forró italra az eső elől.",
+                "ro": "Vizitați ceainăria pentru o cană fierbinte în timpul ploii.",
+                "en": "Visit the tea room for a warm cup of tea while it rains outside."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Wanderschuhe für die Wege entlang des Tay.",
+              "Die Innenstadt hat viele überdachte Passagen zwischen den Einkaufsstraßen.",
+              "Das Perth Museum ist der beste 'Plan B' bei plötzlichen Wolkenbrüchen.",
+              "Prüfen Sie die Windvorhersage, da Regenschirme am Flussufer oft umknicken."
+            ],
+            "hu": [
+              "Viseljen vízálló túracipőt a Tay menti ösvényekhez.",
+              "A belvárosban sok fedett átjáró található az üzletek között.",
+              "A Perth Múzeum a legjobb 'B terv' hirtelen felhőszakadás esetén.",
+              "Ellenőrizze a széljelentést, mert a folyóparton az esernyők könnyen kifordulhatnak."
+            ],
+            "ro": [
+              "Purtați pantofi de drumeție impermeabili pentru potecile de-a lungul râului Tay.",
+              "Centrul orașului are multe pasaje acoperite între străzile comerciale.",
+              "Muzeul Perth este cel mai bun 'Plan B' în caz de averse bruște.",
+              "Verificați prognoza de vânt, deoarece umbrelele se pot îndoi pe malul râului."
+            ],
+            "en": [
+              "Wear waterproof hiking shoes for the paths along the River Tay.",
+              "The city center has many covered lanes (vennels) between shopping streets.",
+              "Perth Museum is the best 'Plan B' during sudden heavy downpours.",
+              "Check the wind forecast as umbrellas often flip near the open riverfront."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie ein frostiges, schottisches Wintermärchen. Am Morgen bietet St. John's Kirk eine andächtige Stille und Schutz vor dem Wind. Mittags wärmen Sie sich im Perth Museum auf, bevor das Tageslicht schwindet. Nutzen Sie die frühen Nachmittagsstunden für die Inches, wenn der Frost auf dem Gras glitzert. Nach Sonnenuntergang gegen 16:00 Uhr laden die beleuchteten Gassen der Stadt zu einem gemütlichen Abschluss ein.\n\nDie Heizung in der Kirk sorgt für eine milde Atmosphäre. Das Museum ist der ideale Ort, um die kältesten Stunden des Tages zu überbrücken. Der Spaziergang durch die Parks ist bei klarem Winterhimmel atemberaubend, aber ziehen Sie sich warm an. Branklyn Garden wirkt im Winterschlaf besonders ruhig und geheimnisvoll.",
+            "hu": "Fedezze fel a fagyos skót tél varázsát Perth-ben. Reggel a Szent János templom óvja meg a metsző széltől, békés hangulatot árasztva. Délben a Perth Múzeum fűtött termeiben melegedhet fel, mielőtt túl korán lemenne a nap. Használja ki a kora délutáni fényeket a parkokban, ahol a dér csillog a füvön. 16:00 után, a naplemente után a belváros karácsonyi fényei és meleg pubjai várják.\n\nA templom belső tere kellemesen temperált a hideg ellen. A múzeum tökéletes helyszín a leghidegebb órák átvészelésére. A parki séta frissítő, de a Tay-folyó felől érkező szél miatt réteges öltözet kötelező. A Branklyn Garden ilyenkor zárva tarthat, ellenőrizze a téli nyitvatartást.",
+            "ro": "Experimentați o poveste de iarnă scoțiană în Perth. Dimineața, St John's Kirk oferă o liniște pioasă și protecție împotriva vântului tăios. La prânz, încălziți-vă în sălile Muzeului din Perth înainte ca lumina zilei să dispară. Profitați de orele timpurii ale după-amiezii pentru parcuri, când chiciura strălucește pe iarbă. După apusul soarelui în jurul orei 16:00, străzile luminate ale orașului vă invită la un final călduros.\n\nÎncălzirea din biserică asigură o atmosferă blândă. Muzeul este locul ideal pentru a trece peste cele mai reci ore ale zilei. Plimbarea prin parcuri este revigorantă sub cerul senin de iarnă, dar îmbrăcați-vă gros. Branklyn Garden are un farmec aparte, fiind foarte liniștită în timpul hibernării.",
+            "en": "Experience a frosty Scottish winter tale in Perth. In the morning, St John's Kirk offers a peaceful sanctuary and protection from the biting wind. At midday, warm up in the heated galleries of the Perth Museum before the daylight fades. Make the most of the early afternoon for the Inches, when frost glitters on the grass. After sunset around 4 PM, the city's lit-up lanes and warm pubs invite you for a cozy end to the day.\n\nThe heating inside the Kirk provides a mild escape from the cold. The museum is the ideal spot to bridge the coldest hours of the day. Walking through the parks is breathtaking under a clear winter sky, but dress in layers for the river breeze. Branklyn Garden is serene in winter, though some sections may be restricted."
+          },
+          "stops": [
+            {
+              "name": "St John's Kirk",
+              "tip_5lang": {
+                "de": "Genießen Sie die warme, andächtige Stille im historischen Innenraum.",
+                "hu": "Élvezze a meleg, áhítatos csendet a történelmi belső térben.",
+                "ro": "Bucurați-vă de liniștea caldă și pioasă din interiorul istoric.",
+                "en": "Enjoy the warm, solemn silence inside the historic interior."
+              }
+            },
+            {
+              "name": "Perth Museum and Art Gallery",
+              "tip_5lang": {
+                "de": "Ideal zum Aufwärmen zwischen den Ausstellungsstücken.",
+                "hu": "Ideális hely a felmelegedésre a kiállítási tárgyak között.",
+                "ro": "Ideal pentru a vă încălzi printre piesele de expoziție.",
+                "en": "Ideal place to warm up while exploring the museum's collections."
+              }
+            },
+            {
+              "name": "Perth Concert Hall",
+              "tip_5lang": {
+                "de": "Das Café im Foyer ist ein gemütlicher Ort für ein Heißgetränk.",
+                "hu": "Az előcsarnok kávézója hangulatos hely egy forró italhoz.",
+                "ro": "Cafeneaua din foaier este un loc primitor pentru o băutură caldă.",
+                "en": "The foyer cafe is a cozy spot for a hot drink out of the wind."
+              }
+            },
+            {
+              "name": "North Inch",
+              "tip_5lang": {
+                "de": "Vorsicht vor glatten Stellen auf den Wegen am Flussufer.",
+                "hu": "Vigyázzon a csúszós szakaszokra a folyóparti utakon.",
+                "ro": "Atenție la porțiunile alunecoase de pe potecile de lângă râu.",
+                "en": "Watch out for icy patches on the paths near the riverfront."
+              }
+            },
+            {
+              "name": "South Inch",
+              "tip_5lang": {
+                "de": "Der tiefe Sonnenstand sorgt für tolle Fotomotive am Nachmittag.",
+                "hu": "Az alacsony napállás remek fotótémákat kínál délután.",
+                "ro": "Poziția joasă a soarelui oferă oportunități foto grozave după-amiaza.",
+                "en": "The low winter sun creates beautiful photo opportunities in the afternoon."
+              }
+            },
+            {
+              "name": "Branklyn Garden",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Winteröffnungszeiten vor dem Aufstieg.",
+                "hu": "Ellenőrizze a téli nyitvatartást a dombra való felkapaszkodás előtt.",
+                "ro": "Verificați programul de iarnă înainte de a urca panta.",
+                "en": "Check winter opening hours before making the walk up the hill."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Dezember bereits gegen 15:45 Uhr unter.",
+              "Tragen Sie Thermokleidung, da der Wind vom Tay sehr kalt sein kann.",
+              "Viele Cafés in der George Street bieten traditionellen Afternoon Tea an.",
+              "Die Gehwege können bei Frost sehr rutschig sein; nutzen Sie Streuzonen."
+            ],
+            "hu": [
+              "A nap decemberben már 15:45 körül lemegy.",
+              "Viseljen aláöltözetet, mert a Tay felől fújó szél metsző lehet.",
+              "A George Street kávézói kiváló helyszínek egy délutáni teázáshoz.",
+              "A járdák fagy esetén csúszósak lehetnek; figyelje a szórt szakaszokat."
+            ],
+            "ro": [
+              "Soarele apune deja în jurul orei 15:45 în decembrie.",
+              "Purtați haine termice, deoarece vântul de pe Tay poate fi foarte rece.",
+              "Multe cafenele de pe George Street oferă ceai de după-amiază tradițional.",
+              "Trotuarele pot fi foarte alunecoase în caz de îngheț; folosiți zonele cu nisip."
+            ],
+            "en": [
+              "The sun sets as early as 3:45 PM in December.",
+              "Wear thermal layers as the wind from the Tay can be very biting.",
+              "Many cafes on George Street are perfect for a traditional afternoon tea.",
+              "Pavements can be slippery during frost; use grit-covered paths where available."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -738,6 +920,188 @@
           "The cycle paths along the river are shared use, be mindful of pedestrians.",
           "A water bottle and snacks are essential for the longer rides to Scone Palace and Kinnoull Hill."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour durch Perth im Regen erfordert die richtige Ausrüstung. Starten Sie an der South Inch, wo die Wege gut befestigt sind. Ein Stopp an der St. John's Kirk bietet eine willkommene Pause im Trockenen. Das Museum dient als kulturelles Basislager. Die Fahrt zum Scone Palace ist auf asphaltierten Straßen sicher, aber achten Sie auf Pfützen. Der Kinnoull Hill ist bei Nässe eine Herausforderung, belohnt aber mit dramatischer Aussicht.\n\nSchutzbleche sind bei diesem Wetter Ihr bester Freund. Die Kirk bietet Schutz für die erste Pause. Im Scone Palace können Sie die Zeit nutzen, während es draußen schüttet. Der Aufstieg zum Kinnoull Hill erfordert bei Regen besondere Vorsicht auf den Waldwegen.",
+            "hu": "Egy esős bringatúra Perth-ben megfelelő felszerelést igényel. Kezdjen a South Inch-nél, ahol az utak jól burkoltak. A Szent János templom megállója tökéletes alkalom a száradásra. A múzeum kulturális bázisként szolgál. A Scone Palace felé vezető út aszfaltozott és biztonságos, de vigyázzon a tócsákra. A Kinnoull Hill nedves időben nagyobb kihívás, de a drámai kilátás kárpótolja.\n\nA sárvédő elengedhetetlen ilyenkor. A templom védett hely az első pihenőhöz. A Scone Palace-ban töltsön több időt bent, amíg eláll az eső. A Kinnoull Hill erdei útjai esőben csúszósak lehetnek, óvatosan ereszkedjen.",
+            "ro": "O tură cu bicicleta prin Perth în ploaie necesită echipament adecvat. Începeți la South Inch, unde potecile sunt bine pavate. O oprire la St John's Kirk oferă o pauză binemeritată la uscat. Muzeul servește drept bază culturală. Drumul spre Palatul Scone este sigur pe șoselele asfaltate, dar atenție la bălți. Dealul Kinnoull este o provocare pe umiditate, dar oferă vederi dramatice.\n\nAripile la bicicletă sunt obligatorii pe această vreme. Biserica oferă adăpost pentru prima pauză. La Palatul Scone puteți petrece timp în interior cât plouă torențial. Urcarea pe Kinnoull Hill necesită prudență sporită pe potecile de pădure umede.",
+            "en": "Cycling through Perth in the rain requires the right gear. Start at South Inch, where paths are well-paved and drain well. A stop at St John's Kirk offers a welcome dry break. The museum serves as your cultural base camp. The ride to Scone Palace is safe on tarmac roads, but watch out for deep puddles. Kinnoull Hill is a challenge in the wet, but the mist creates dramatic views from the top.\n\nMudguards are your best friend in this weather. The Kirk provides a grand shelter for your first break. At Scone Palace, plan for more indoor time while the rain pours outside. The ascent to Kinnoull Hill requires extra caution on forest tracks during rainfall."
+          },
+          "stops": [
+            {
+              "name": "South Inch",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen auf den nassen Parkwegen.",
+                "hu": "Ellenőrizze a fékeit a nedves parki utakon.",
+                "ro": "Verificați frânele pe aleile umede din parc.",
+                "en": "Test your brakes on the wet park paths before heading out."
+              }
+            },
+            {
+              "name": "St John's Kirk",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp, um die Regenjacke nachzuziehen.",
+                "hu": "Használja ki a megállót az esőkabát megigazítására.",
+                "ro": "Folosiți oprirea pentru a vă ajusta jacheta de ploaie.",
+                "en": "Use this stop to adjust your rain gear and dry your hands."
+              }
+            },
+            {
+              "name": "Perth Museum and Art Gallery",
+              "tip_5lang": {
+                "de": "Fahrradständer sind in der Nähe vorhanden; Schloss nicht vergessen.",
+                "hu": "Kerékpártárolók találhatók a közelben; ne felejtse a lakatot.",
+                "ro": "Suporturile de biciclete sunt în apropiere; nu uitați antifurtul.",
+                "en": "Bike racks are available nearby; ensure your lock is weather-resistant."
+              }
+            },
+            {
+              "name": "North Inch",
+              "tip_5lang": {
+                "de": "Achten Sie auf Fußgänger mit Regenschirmen in den Kurven.",
+                "hu": "Figyeljen az esernyős gyalogosokra a kanyarokban.",
+                "ro": "Atenție la pietonii cu umbrele în curbe.",
+                "en": "Watch out for pedestrians with umbrellas in tight corners."
+              }
+            },
+            {
+              "name": "Scone Palace",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad an einem geschützten Ort ab.",
+                "hu": "Hagyja a kerékpárt egy védettebb ponton.",
+                "ro": "Lăsați bicicleta într-un loc cât mai protejat.",
+                "en": "Park your bike in a sheltered spot near the entrance if possible."
+              }
+            },
+            {
+              "name": "Kinnoull Hill",
+              "tip_5lang": {
+                "de": "Waldwege können sehr rutschig sein; bergab vorsichtig fahren.",
+                "hu": "Az erdei utak nagyon csúszósak lehetnek; óvatosan lefelé.",
+                "ro": "Potecile de pădure pot fi foarte alunecoase; atenție la coborâre.",
+                "en": "Forest tracks can be very slippery; take extra care on the descent."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie metallene Schachtdeckel, die bei Nässe extrem glatt sind.",
+              "Nutzen Sie die National Cycle Route 77 für sicherere Wege.",
+              "Wasserdichte Packtaschen schützen Ihre Kamera und Wechselkleidung.",
+              "Planen Sie mehr Zeit für Bremsmanöver auf den Uferwegen ein."
+            ],
+            "hu": [
+              "Kerülje a fém csatornafedeleket, mert nedvesen rendkívül csúsznak.",
+              "Használja a 77-es nemzeti kerékpárutat a biztonságosabb közlekedésért.",
+              "A vízálló táskák megvédik az értékeit és a váltóruhát.",
+              "Számoljon hosszabb féktávval a folyóparti szakaszokon."
+            ],
+            "ro": [
+              "Evitați capacele metalice de canalizare, care sunt extrem de alunecoase.",
+              "Utilizați National Cycle Route 77 pentru trasee mai sigure.",
+              "Genzile impermeabile vă protejează camera și hainele de schimb.",
+              "Planificați mai mult timp pentru frânare pe drumurile de pe mal."
+            ],
+            "en": [
+              "Avoid metal manhole covers, which are extremely slippery when wet.",
+              "Follow National Cycle Route 77 for safer, well-maintained paths.",
+              "Waterproof panniers are essential to protect your gear and dry clothes.",
+              "Allow for longer braking distances on the riverside sections."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Radtour durch Perth ist erfrischend und visuell beeindruckend. Die Parks glitzern am Morgen unter einer Frostschicht. In der St. John's Kirk finden Sie kurzzeitig Wärme. Das Museum bietet eine ausgiebige Pause zur Mittagszeit. Die Fahrt zum Scone Palace ist malerisch, aber achten Sie auf gefrorene Stellen. Den Sonnenuntergang am Kinnoull Hill zu erleben ist der Höhepunkt, erfordert aber helles Licht für die Rückfahrt.\n\nWarme Handschuhe sind für das Bremsen unerlässlich. Die Kirk bietet einen windstillen Ort für die erste Rast. Im Museum können Sie sich komplett aufwärmen. Die Auffahrt zum Kinnoull Hill hält Sie warm, aber oben zieht es oft stark.",
+            "hu": "A téli bringázás Perth-ben frissítő és látványos élmény. A parkok reggelente zúzmarás fényben tündökölnek. A Szent János templomban rövid időre megpihenhet a hideg elől. A múzeum bőséges időt kínál a felmelegedésre délidőben. A Scone Palace felé vezető út festői, de vigyázzon a fagyott útszakaszokra. A naplemente a Kinnoull Hillen a nap csúcspontja, de a visszautashoz erős lámpákra lesz szüksége.\n\nA meleg kesztyű alapvető a fékezéshez és a kormányzáshoz. A templom szélvédett hely az első pihenőhöz. A múzeumban teljesen átmelegedhet. A Kinnoull Hillre való felkapaszkodás hőt termel, de a tetőn gyakran erős a szél.",
+            "ro": "O tură de iarnă cu bicicleta prin Perth este revigorantă și impresionantă vizual. Parcurile strălucesc dimineața sub un strat de chiciură. La St John's Kirk găsiți un scurt răgaz de la frig. Muzeul oferă o pauză lungă la prânz. Drumul spre Palatul Scone este pitoresc, dar atenție la porțiunile înghețate. Apusul pe Kinnoull Hill este punctul culminant, dar aveți nevoie de lumini puternice pentru întoarcere.\n\nMănușile groase sunt esențiale pentru frânare și manevrabilitate. Biserica oferă un loc ferit de vânt pentru prima pauză. La muzeu vă puteți încălzi complet. Urcarea pe Kinnoull Hill vă va ține de cald, dar sus vântul bate adesea tare.",
+            "en": "A winter cycle through Perth is refreshing and visually stunning. The parks glitter under a layer of frost in the morning light. St John's Kirk provides a brief, wind-free sanctuary. The museum offers a generous warm break during midday. The ride to Scone Palace is scenic, but watch for black ice on shaded roads. Watching the sunset from Kinnoull Hill is the highlight, but you'll need bright lights for the return journey.\n\nThermal gloves are essential for safe braking and handling. The Kirk offers a wind-sheltered spot for your first rest. Use the museum visit to fully defrost during the coldest part of the day. The climb to Kinnoull Hill will keep you warm, but it is often very windy at the summit tower."
+          },
+          "stops": [
+            {
+              "name": "South Inch",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenem Tau auf den Schattenwegen.",
+                "hu": "Vigyázzon a fagyott harmatra az árnyékos utakon.",
+                "ro": "Atenție la roua înghețată pe aleile umbrite.",
+                "en": "Watch out for frozen dew on shaded sections of the park paths."
+              }
+            },
+            {
+              "name": "St John's Kirk",
+              "tip_5lang": {
+                "de": "Ein windstiller Ort, um die Karte für die Weiterfahrt zu prüfen.",
+                "hu": "Szélvédett hely az útvonal áttekintéséhez.",
+                "ro": "Un loc ferit de vânt pentru a verifica harta.",
+                "en": "A wind-sheltered spot to check your route for the next stage."
+              }
+            },
+            {
+              "name": "Perth Museum and Art Gallery",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Schließfach für schwere Winterkleidung.",
+                "hu": "Használja a megőrzőt a nehéz téli ruhákhoz.",
+                "ro": "Folosiți dulapurile pentru hainele groase de iarnă.",
+                "en": "Use the lockers to store heavy winter layers while you explore."
+              }
+            },
+            {
+              "name": "North Inch",
+              "tip_5lang": {
+                "de": "Die Wege entlang des Flusses können zugig und kalt sein.",
+                "hu": "A folyó menti utak huzatosak és hidegek lehetnek.",
+                "ro": "Drumurile de-a lungul râului pot fi expuse și reci.",
+                "en": "The riverside paths can be very draughty and cold; keep moving."
+              }
+            },
+            {
+              "name": "Scone Palace",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Gärten früh, bevor es dunkel wird.",
+                "hu": "Látogassa meg a kerteket korán, mielőtt besötétedik.",
+                "ro": "Vizitați grădinile devreme, înainte de a se întuneca.",
+                "en": "Visit the gardens early in your stay before the 4 PM darkness."
+              }
+            },
+            {
+              "name": "Kinnoull Hill",
+              "tip_5lang": {
+                "de": "Starke Lichter für die Abfahrt im Wald sind Pflicht.",
+                "hu": "Erős lámpák kötelezőek az erdei leereszkedéshez.",
+                "ro": "Luminile puternice sunt obligatorii pentru coborârea prin pădure.",
+                "en": "Bright lights are mandatory for the descent through the woods after sunset."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Reifendruck; etwas weniger Grip hilft bei Frost.",
+              "Vorder- und Rücklicht sollten auch tagsüber eingeschaltet sein.",
+              "Trinken Sie ausreichend, auch wenn Sie bei Kälte weniger Durst spüren.",
+              "Die Abfahrt vom Kinnoull Hill kühlt den Körper extrem schnell aus."
+            ],
+            "hu": [
+              "Ellenőrizze a guminyomást; a tapadás fontos fagyos időben.",
+              "Az első és hátsó lámpákat nappal is érdemes bekapcsolni.",
+              "Igyon elegendő folyadékot, akkor is, ha nem érzi szomjasnak magát.",
+              "A Kinnoull Hillről való leereszkedéskor a menetszél gyorsan lehűti."
+            ],
+            "ro": [
+              "Verificați presiunea în pneuri; o aderență bună e vitală pe îngheț.",
+              "Luminile față și spate ar trebui să fie aprinse și în timpul zilei.",
+              "Hidratați-vă corespunzător, chiar dacă nu simțiți setea la fel de tare.",
+              "Coborârea de pe Kinnoull Hill vă poate răci corpul foarte rapid."
+            ],
+            "en": [
+              "Check tire pressure; slightly lower pressure can help with grip on frost.",
+              "Keep front and rear lights on even during the day for visibility.",
+              "Stay hydrated, as you lose more moisture through breath in cold air.",
+              "The wind chill on the descent from Kinnoull Hill is very high."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1110,6 +1474,188 @@
           "Be aware of parking restrictions at trailheads like Kinnoull Hill.",
           "A GPS is essential for finding the best routes between clusters."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Perth mit dem Auto bei Regen zu erkunden, ist die komfortabelste Option. Starten Sie beim Scone Palace, wo die Parkplätze nah am Eingang liegen. Das Museum und die Kirk im Zentrum sind leicht erreichbar, nutzen Sie die Parkhäuser. Ein gemütliches Mittagessen im Stadtzentrum überbrückt die nassesten Stunden. Den Tag am Kinnoull Hill ausklingen zu lassen, bietet auch im Regen eine tolle Atmosphäre.\n\nDas Auto dient als mobiler Schutzraum. Im Scone Palace können Sie lange verweilen. Parkhäuser im Zentrum halten Sie beim Ein- und Aussteigen trocken. Die Fahrt zum Kinnoull Hill ist auch bei Regen unkompliziert, da der Parkplatz nah am Aussichtspunkt liegt.",
+            "hu": "Perth felfedezése autóval esőben a legkényelmesebb opció. Kezdjen a Scone Palace-nál, ahol a parkolók közel vannak a bejárathoz. A múzeum és a templom a központban könnyen elérhető, használja a parkolóházakat. Egy hangulatos ebéd a városban segít átvészelni a legvizesebb órákat. A napot a Kinnoull Hillen zárva az esőben is különleges, drámai látványt kap.\n\nAz autó mobil menedékként szolgál. A Scone Palace-ban töltsön több időt a belső termekben. A belvárosi parkolóházak szárazon tartják a ki- és beszálláskor. A Kinnoull Hill megközelítése esőben is egyszerű, a parkolótól csak rövid séta a kilátó.",
+            "ro": "Explorarea orașului Perth cu mașina pe ploaie este cea mai confortabilă opțiune. Începeți la Palatul Scone, unde parcările sunt aproape de intrare. Muzeul și biserica din centru sunt ușor accesibile; folosiți parcările etajate. Un prânz plăcut în centrul orașului vă ajută să treceți de orele cele mai umede. Încheierea zilei pe Kinnoull Hill oferă o atmosferă grozavă chiar și pe ploaie.\n\nMașina servește ca un adăpost mobil între obiective. La Palatul Scone puteți zăbovi mult în interior. Parcările acoperite din centru vă mențin uscați la urcare și coborâre. Drumul spre Kinnoull Hill este facil, iar parcarea este aproape de punctele de observație.",
+            "en": "Exploring Perth by car in the rain is the most comfortable way to see the sights. Start at Scone Palace, where parking is conveniently close to the entrance. The museum and St John's Kirk in the center are easily reached; use multi-story car parks to stay dry. A long lunch in the city center helps bridge the wettest hours. Ending the day at Kinnoull Hill provides a moody, atmospheric perspective of the Tay valley.\n\nThe car acts as your mobile base camp between stops. Spend extra time in the grand rooms of Scone Palace. Multi-story car parks in the city center are your best bet for avoiding the rain. The drive to Kinnoull Hill is straightforward, and the main viewpoint is just a short walk from the car park."
+          },
+          "stops": [
+            {
+              "name": "Scone Palace",
+              "tip_5lang": {
+                "de": "Nutzen Sie den befestigten Parkplatz nahe dem Haupteingang.",
+                "hu": "Használja a főbejárathoz közeli szilárd burkolatú parkolót.",
+                "ro": "Folosiți parcarea pavată de lângă intrarea principală.",
+                "en": "Use the paved parking area closest to the main entrance."
+              }
+            },
+            {
+              "name": "Perth Museum and Art Gallery",
+              "tip_5lang": {
+                "de": "Das Parkhaus in der Kinnoull Street ist nur 3 Gehminuten entfernt.",
+                "hu": "A Kinnoull Street parkolóháza mindössze 3 perc séta.",
+                "ro": "Parcarea etajată din Kinnoull Street este la doar 3 minute de mers.",
+                "en": "Kinnoull Street multi-story car park is just a 3-minute walk away."
+              }
+            },
+            {
+              "name": "St John's Kirk",
+              "tip_5lang": {
+                "de": "Kurzzeitparkplätze am St John's Place sind bei Regen oft belegt.",
+                "hu": "A St John's Place rövid távú parkolói esőben gyakran telítettek.",
+                "ro": "Locurile de parcare pe termen scurt sunt adesea ocupate pe ploaie.",
+                "en": "Short-stay on-street parking nearby fills up quickly during rain."
+              }
+            },
+            {
+              "name": "Lunch in City Centre",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit Tiefgarage in der Nähe.",
+                "hu": "Válasszon éttermet, amely közel van egy parkolóházhoz.",
+                "ro": "Alegeți un restaurant aflat aproape de o parcare acoperită.",
+                "en": "Choose a restaurant close to the Canal Street or South Street car parks."
+              }
+            },
+            {
+              "name": "Kinnoull Hill",
+              "tip_5lang": {
+                "de": "Vorsicht bei der Auffahrt; bei starkem Regen können Äste auf der Straße liegen.",
+                "hu": "Óvatosan vezessen fel; heves esőben ágak lehetnek az úton.",
+                "ro": "Conduceți cu atenție; pot fi crengi pe drum în caz de ploaie torențială.",
+                "en": "Drive carefully on the ascent; heavy rain can bring debris onto the road."
+              }
+            },
+            {
+              "name": "Branklyn Garden",
+              "tip_5lang": {
+                "de": "Begrenzte Parkmöglichkeiten; nutzen Sie die Parkbucht an der Straße.",
+                "hu": "Korlátozott parkolás; használja az utcai parkolósávot.",
+                "ro": "Parcare limitată; folosiți spațiile de pe marginea drumului.",
+                "en": "Limited parking at the gate; use the designated bays on the main road."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schalten Sie bei Regen das Abblendlicht ein, um besser gesehen zu werden.",
+              "Parkhäuser sind bei Regen oft voll; planen Sie Zeit für die Suche ein.",
+              "Die Straßen am Flussufer können bei extremem Regen überschwemmt sein.",
+              "Halten Sie einen Regenschirm im Fahrgastraum bereit, nicht im Kofferraum."
+            ],
+            "hu": [
+              "Esőben kapcsolja be a tompított fényszórót a jobb láthatóságért.",
+              "A parkolóházak esőben hamar megtelnek; számoljon plusz idővel.",
+              "A folyóparti utak extrém esőzésnél néha víz alá kerülhetnek.",
+              "Tartsa az esernyőt az utastérben, ne a csomagtartóban."
+            ],
+            "ro": [
+              "Aprindeți faza scurtă în timpul ploii pentru o vizibilitate mai bună.",
+              "Parcările etajate sunt aglomerate pe ploaie; alocați timp pentru căutare.",
+              "Drumurile de lângă râu pot fi inundate în caz de precipitații extreme.",
+              "Țineți umbrela în interiorul mașinii, nu în portbagaj."
+            ],
+            "en": [
+              "Turn on dipped headlights during rain for better visibility.",
+              "Multi-story car parks fill up faster when it rains; allow extra time.",
+              "Riverside roads may occasionally have deep standing water during heavy storms.",
+              "Keep your umbrella in the passenger footwell, not in the trunk."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Entdecken Sie das winterliche Perth ganz entspannt mit dem Auto. Der Scone Palace wirkt im Frost besonders majestätisch. In der Innenstadt bieten das Museum und die Kirk warme Zuflucht. Nach einem stärkenden Mittagessen ist die Fahrt zum Kinnoull Hill ein Muss, um die weite Aussicht über das verschneite oder gefrorene Tay-Tal zu genießen. Den Tag können Sie gemütlich im Branklyn Garden beenden.\n\nSichern Sie sich warme Plätze im Scone Palace. Die Parkhäuser im Zentrum sind oft hell beleuchtet und sicher. Die Auffahrt zum Kinnoull Hill kann bei Glätte tückisch sein; Winterreifen sind ratsam. Der Sonnenuntergang vom Auto aus an Aussichtspunkten zu beobachten, ist besonders behaglich.",
+            "hu": "Fedezze fel a téli Perth-t kényelmesen, autóval. A Scone Palace zúzmarásan még fenségesebb látványt nyújt. A belvárosban a múzeum és a templom meleg menedéket kínál. Egy bőséges ebéd után a Kinnoull Hillre vezető út kötelező, hogy megcsodálja a fagyos Tay-völgy panorámáját. A napot a Branklyn Garden csendjében zárhatja.\n\nA Scone Palace belső terei jól fűtöttek. A belvárosi parkolóházak biztonságosak és jól megvilágítottak télen is. A Kinnoull Hillre vezető út jegesedhet; a téli gumi alapfeltétel. A naplementét az autóból nézni a kilátópontoknál igazán hangulatos és meleg élmény.",
+            "ro": "Descoperiți Perth-ul de iarnă relaxat, cu mașina. Palatul Scone pare și mai maiestuos sub chiciură. În centrul orașului, muzeul și biserica oferă refugiu cald. După un prânz consistent, drumul spre Kinnoull Hill este obligatoriu pentru a admira panorama peste valea înghețată a râului Tay. Puteți încheia ziua în liniștea de la Branklyn Garden.\n\nInteriorul Palatului Scone este bine încălzit. Parcările din centru sunt sigure și bine iluminate în serile lungi. Urcarea pe Kinnoull Hill poate fi înșelătoare în caz de polei; anvelopele de iarnă sunt recomandate. Privitul apusului din mașină, de la punctele de observație, este foarte confortabil.",
+            "en": "Discover wintery Perth from the comfort of your car. Scone Palace looks especially majestic when covered in frost. In the city center, the museum and Kirk provide warm escapes from the cold. After a hearty lunch, the drive up to Kinnoull Hill is essential to catch the vast views over the frozen Tay valley. Conclude your day with a quiet visit to the Branklyn Garden area.\n\nScone Palace's grand interiors are well-heated for visitors. City center car parks are well-lit and safe for early winter evenings. The road up Kinnoull Hill can be treacherous if icy; winter tires or all-season tires are highly recommended. Watching the sunset from the car at higher viewpoints is a cozy way to end the day."
+          },
+          "stops": [
+            {
+              "name": "Scone Palace",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glätte auf dem Parkplatzgelände.",
+                "hu": "Vigyázzon a jegesedésre a parkoló területén.",
+                "ro": "Atenție la porțiunile înghețate din zona parcării.",
+                "en": "Watch for icy patches in the shaded areas of the palace car park."
+              }
+            },
+            {
+              "name": "Perth Museum and Art Gallery",
+              "tip_5lang": {
+                "de": "Vorgewärmte Parkhäuser sind angenehmer zum Aussteigen.",
+                "hu": "A fedett parkolóházakban kellemesebb a kiszállás a hidegben.",
+                "ro": "Parcările acoperite sunt mai plăcute pentru coborâre pe frig.",
+                "en": "Enclosed car parks are much warmer for getting in and out of the vehicle."
+              }
+            },
+            {
+              "name": "St John's Kirk",
+              "tip_5lang": {
+                "de": "Parken Sie in der South Street für einen kurzen Fußweg.",
+                "hu": "Parkoljon a South Streeten a rövid séta érdekében.",
+                "ro": "Parcați pe South Street pentru o distanță scurtă de mers.",
+                "en": "Park on South Street for the shortest walk to the Kirk entrance."
+              }
+            },
+            {
+              "name": "Lunch in City Centre",
+              "tip_5lang": {
+                "de": "Reservieren Sie einen Tisch in der Nähe der Heizung.",
+                "hu": "Foglaljon asztalt a fűtőtestek közelében.",
+                "ro": "Rezervați o masă aproape de sursele de căldură.",
+                "en": "Book a table away from the door to avoid winter drafts."
+              }
+            },
+            {
+              "name": "Kinnoull Hill",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Straßenbedingungen vor der Auffahrt.",
+                "hu": "Ellenőrizze az útviszonyokat a felhajtás előtt.",
+                "ro": "Verificați starea drumului înainte de a începe urcarea.",
+                "en": "Check local road conditions for ice before starting the ascent."
+              }
+            },
+            {
+              "name": "Branklyn Garden",
+              "tip_5lang": {
+                "de": "Die schmale Zufahrtsstraße kann bei Frost rutschig sein.",
+                "hu": "A szűk bekötőút fagy esetén csúszós lehet.",
+                "ro": "Drumul îngust de acces poate fi alunecos pe timp de îngheț.",
+                "en": "The narrow access road can be slippery during morning frost."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Führen Sie einen Eiskratzer und Frostschutzmittel mit sich.",
+              "Die Bergstraßen um Perth werden bei Schnee oft zuletzt geräumt.",
+              "Achten Sie auf Wildtiere, die im Winter tiefer ins Tal kommen.",
+              "Heizen Sie das Auto vor, bevor Sie den Kinnoull Hill verlassen."
+            ],
+            "hu": [
+              "Tartson jégkaparót és fagyállót az autóban.",
+              "A Perth környéki hegyi utakat hó esetén utoljára takarítják.",
+              "Figyeljen a vadállatokra, amelyek télen lehúzódnak a völgybe.",
+              "Melegítse be az autót, mielőtt elindulna a Kinnoull Hillről."
+            ],
+            "ro": [
+              "Aveți întotdeauna o racletă și lichid de parbriz anti-îngheț.",
+              "Drumurile montane de lângă Perth sunt adesea ultimele deszăpezite.",
+              "Atenție la animalele sălbatice care coboară în vale iarna.",
+              "Încălziți mașina înainte de a pleca de pe Kinnoull Hill."
+            ],
+            "en": [
+              "Always carry an ice scraper and de-icer in your vehicle.",
+              "Upland roads around Perth are often the last to be gritted in snow.",
+              "Watch for deer and other wildlife moving to lower ground in winter.",
+              "Pre-heat the car thoroughly before leaving the windy Kinnoull Hill summit."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1458,6 +2004,170 @@
           "Know the name of your stop or ask the driver; they are usually helpful.",
           "Buses to Scone Palace can be less frequent; plan accordingly to avoid getting stranded."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie das gut ausgebaute Busnetz von Perth bei Regen. Starten Sie am Bahnhof, der überdachte Bahnsteige bietet. Der Bus bringt Sie fast direkt vor das Museum. St. John's Kirk ist nur einen kurzen, nassen Sprint entfernt. Die North Inch ist mit dem Bus gut erreichbar, falls das Wetter spazieren zulässt. Beenden Sie den Tag im Branklyn Garden, den Sie bequem mit der Linie 11 oder 12 erreichen.\n\nBahnhofshallen bieten Schutz beim Warten. Die Busse sind gut beheizt und trocken. Das Museum ist der ideale zentrale Knotenpunkt für Regentage. Branklyn Garden ist mit dem Bus erreichbar, sodass Sie den steilen Aufstieg im Regen vermeiden.",
+            "hu": "Használja Perth jól kiépített buszhálózatát esőben. Kezdjen a vasútállomáson, ahol fedett peronok várják. A busz szinte a múzeum bejáratáig viszi. A Szent János templom csak egy rövid sprintre van. A North Inch park buszmegállója közel van, ha az idő engedi a sétát. Zárja a napot a Branklyn Gardenben, amit a 11-es vagy 12-es busszal kényelmesen elérhet.\n\nA vasútállomás csarnoka védelmet nyújt várakozás közben. A buszok fűtöttek és szárazak. A múzeum az ideális központ az esős órák átvészeléséhez. A Branklyn Garden busszal való megközelítése megkíméli a vizes, meredek kaptatótól.",
+            "ro": "Folosiți rețeaua de autobuze bine dezvoltată din Perth pe ploaie. Începeți la gară, care are peronuri acoperite. Autobuzul vă lasă aproape de intrarea muzeului. St John's Kirk este la doar un scurt sprint distanță. North Inch este ușor accesibil cu autobuzul dacă vremea permite o scurtă plimbare. Încheiați ziua la Branklyn Garden, accesibilă confortabil cu liniile 11 sau 12.\n\nGara oferă adăpost bun în timpul așteptării. Autobuzele sunt încălzite și uscate. Muzeul este nodul central ideal pentru zilele ploioase. Accesul la Branklyn Garden cu autobuzul vă scutește de urcarea abruptă prin ploaie.",
+            "en": "Make use of Perth's reliable bus network during rainy weather. Start at the railway station, which has fully covered platforms. Buses run frequently and drop you very close to the Museum. St John's Kirk is just a short dash from the central bus stops. North Inch is easily accessible by bus if the weather breaks for a stroll. End your day at Branklyn Garden, easily reached via bus routes 11 or 12.\n\nThe railway station concourse provides excellent shelter while waiting. Local buses are well-heated and keep you dry between sights. Use the Museum as your central anchor for the wettest part of the day. Taking the bus to Branklyn Garden saves you from the steep, exposed climb in the rain."
+          },
+          "stops": [
+            {
+              "name": "Perth Railway Station",
+              "tip_5lang": {
+                "de": "Warten Sie im Café im Innenbereich auf Ihren Bus oder Zug.",
+                "hu": "Várjon a belső kávézóban a buszra vagy a vonatra.",
+                "ro": "Așteptați în cafeneaua interioară autobuzul sau trenul.",
+                "en": "Wait in the station's indoor cafe for your bus or train connection."
+              }
+            },
+            {
+              "name": "Perth Museum and Art Gallery",
+              "tip_5lang": {
+                "de": "Bushaltestellen in der Kinnoull Street bieten Unterstände.",
+                "hu": "A Kinnoull Street buszmegállói fedettek.",
+                "ro": "Stațiile de autobuz din Kinnoull Street au adăposturi.",
+                "en": "Bus stops on Kinnoull Street feature covered shelters for rain protection."
+              }
+            },
+            {
+              "name": "St John's Kirk",
+              "tip_5lang": {
+                "de": "Nahegelegene Bushaltestellen in der South Street nutzen.",
+                "hu": "Használja a közeli buszmegállókat a South Streeten.",
+                "ro": "Folosiți stațiile de autobuz din apropiere de pe South Street.",
+                "en": "Use the nearby bus stops on South Street for minimal exposure to rain."
+              }
+            },
+            {
+              "name": "North Inch",
+              "tip_5lang": {
+                "de": "Die Haltestellen an der Charlotte Street sind am nächsten.",
+                "hu": "A Charlotte Street megállói vannak a legközelebb.",
+                "ro": "Stațiile de pe Charlotte Street sunt cele mai apropiate.",
+                "en": "The bus stops at Charlotte Street are the closest to the park entry."
+              }
+            },
+            {
+              "name": "Branklyn Garden",
+              "tip_5lang": {
+                "de": "Lassen Sie sich an der Haltestelle Dundee Road absetzen.",
+                "hu": "Szálljon le a Dundee Road megállónál.",
+                "ro": "Coborâți la stația de pe Dundee Road.",
+                "en": "Get off at the Dundee Road stop to minimize the uphill walk."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die 'Stagecoach'-App für Echtzeit-Abfahrten.",
+              "Ein Tagesticket ist oft günstiger als mehrere Einzelfahrten.",
+              "Haupthaltstellen in der Innenstadt sind meist überdacht.",
+              "Busse fahren im Stadtgebiet sehr regelmäßig, ideal für kurze Sprünge."
+            ],
+            "hu": [
+              "Használja a 'Stagecoach' appot a valós idejű indulásokhoz.",
+              "A napijegy gyakran olcsóbb, mint több külön jegy.",
+              "A belvárosi főbb buszmegállók többnyire fedettek.",
+              "A buszok sűrűn járnak a városban, ideálisak rövid szakaszokra."
+            ],
+            "ro": [
+              "Utilizați aplicația 'Stagecoach' pentru plecări în timp real.",
+              "Un bilet de o zi este adesea mai ieftin decât mai multe călătorii.",
+              "Stațiile principale din centrul orașului sunt de regulă acoperite.",
+              "Autobuzele circulă foarte regulat, fiind ideale pentru distanțe scurte."
+            ],
+            "en": [
+              "Use the 'Stagecoach' app to track bus locations in real-time.",
+              "A day rider ticket is often cheaper than multiple single fares.",
+              "Major city center bus stops mostly feature weather shelters.",
+              "Buses run frequently in the urban area, perfect for short hops between sights."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Entdecken Sie Perth im Winter bequem mit den öffentlichen Verkehrsmitteln. Der beheizte Bahnhof ist ein guter Startpunkt. Kurze Busfahrten bringen Sie schnell zum Museum und zur Kirk, ohne dass Sie lange in der Kälte stehen müssen. Der Nachmittag lässt sich am besten in der North Inch verbringen, bevor die Dunkelheit hereinbricht. Für den Branklyn Garden nutzen Sie den Bus, um den frostigen Aufstieg zu verkürzen.\n\nBahnhöfe bieten windgeschützte Wartebereiche. In den Bussen ist es angenehm warm. Das Museum ist der perfekte Ort für die kälteste Mittagszeit. Nutzen Sie die Busse nach Sonnenuntergang, um sicher und warm zurück zum Bahnhof zu kommen.",
+            "hu": "Fedezze fel a téli Perth-t kényelmesen tömegközlekedéssel. A fűtött vasútállomás remek kiindulópont. Rövid buszutak gyorsan elviszik a múzeumhoz és a templomhoz, így nem kell sokáig a hidegben várakoznia. A délutánt töltse a North Inch parkban, amíg be nem sötétedik. A Branklyn Gardenhez használja a buszt, hogy lerövidítse a jeges dombra vezető utat.\n\nA vasútállomás szélvédett várótermekkel rendelkezik. A buszokon kellemes a meleg. A múzeum tökéletes helyszín a leghidegebb déli órákban. Naplemente után használja a buszokat a biztonságos és meleg visszajutáshoz.",
+            "ro": "Descoperiți Perth-ul de iarnă confortabil cu transportul public. Gara încălzită este un punct de plecare excelent. Călătoriile scurte cu autobuzul vă duc rapid la muzeu și biserică, fără a sta mult în frig. După-amiaza este cel mai bine petrecută în North Inch înainte de lăsarea întunericului. Pentru Branklyn Garden, folosiți autobuzul pentru a scurta urcarea înghețată.\n\nGara oferă zone de așteptare ferite de vânt. În autobuze este o temperatură plăcută. Muzeul este locul perfect pentru orele cele mai reci ale prânzului. După apus, folosiți autobuzele pentru o întoarcere sigură și călduroasă la gară.",
+            "en": "Discover wintery Perth comfortably using public transport. The heated railway station is a great starting point. Short bus rides take you quickly to the Museum and Kirk, minimizing time spent in the cold wind. Spend your afternoon at North Inch before the early darkness sets in. For Branklyn Garden, take the bus to cut down the time spent walking on frosty slopes.\n\nRailway stations offer wind-sheltered waiting areas. Local buses provide a warm and dry environment between stops. The Museum is the perfect indoor retreat for the coldest part of the day. Use the frequent bus services after sunset to return safely and warmly to the station."
+          },
+          "stops": [
+            {
+              "name": "Perth Railway Station",
+              "tip_5lang": {
+                "de": "Der Wartesaal ist im Winter gut beheizt.",
+                "hu": "A váróterem télen jól fűtött.",
+                "ro": "Sala de așteptare este bine încălzită iarna.",
+                "en": "The station waiting room is well-heated during the winter months."
+              }
+            },
+            {
+              "name": "Perth Museum and Art Gallery",
+              "tip_5lang": {
+                "de": "Nahegelegene Cafés laden zum Aufwärmen nach dem Besuch ein.",
+                "hu": "A közeli kávézók hívogatnak egy kis melegedésre a látogatás után.",
+                "ro": "Cafenelele din apropiere sunt ideale pentru încălzire după vizită.",
+                "en": "Nearby cafes are perfect for warming up after your museum tour."
+              }
+            },
+            {
+              "name": "St John's Kirk",
+              "tip_5lang": {
+                "de": "Achten Sie auf die kürzeren Winteröffnungszeiten.",
+                "hu": "Figyeljen a rövidebb téli nyitvatartási időre.",
+                "ro": "Atenție la programul de iarnă mai scurt.",
+                "en": "Be mindful of the shorter winter opening hours for historic sites."
+              }
+            },
+            {
+              "name": "North Inch",
+              "tip_5lang": {
+                "de": "Planen Sie den Besuch vor 15:30 Uhr ein.",
+                "hu": "Tervezze a látogatást 15:30 előttre.",
+                "ro": "Planificați vizita înainte de ora 15:30.",
+                "en": "Plan your park visit before 3:30 PM to enjoy the last daylight."
+              }
+            },
+            {
+              "name": "Branklyn Garden",
+              "tip_5lang": {
+                "de": "Fragen Sie den Busfahrer nach der nächsten Haltestelle.",
+                "hu": "Kérdezze a buszvezetőt a legközelebbi megállóról.",
+                "ro": "Întrebați șoferul de autobuz care este cea mai apropiată stație.",
+                "en": "Ask the bus driver for the best stop to access the garden gate."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse können bei starkem Schneefall Verspätungen haben.",
+              "Die Stagecoach-Fahrer sind meist sehr hilfreich bei Streckenfragen.",
+              "Abends sind die Busse oft der sicherste Weg durch glatte Straßen.",
+              "Achten Sie auf spezielle Winterfahrpläne an Feiertagen."
+            ],
+            "hu": [
+              "Erős havazás esetén a buszok késhetnek.",
+              "A Stagecoach sofőrök általában segítőkészek az útvonalakkal kapcsolatban.",
+              "Este a busz gyakran a legbiztonságosabb mód a csúszós utakon.",
+              "Figyeljen a speciális téli menetrendre az ünnepek alatt."
+            ],
+            "ro": [
+              "Autobuzele pot avea întârzieri în caz de ninsori puternice.",
+              "Șoferii Stagecoach sunt de regulă foarte amabili cu informațiile.",
+              "Seara, autobuzul este adesea cea mai sigură cale pe drumuri alunecoase.",
+              "Verificați orarele speciale de iarnă în timpul sărbătorilor."
+            ],
+            "en": [
+              "Buses may experience delays during heavy snowfall or icy conditions.",
+              "Stagecoach drivers are generally very helpful with route inquiries.",
+              "In the evening, buses are often the safest way to travel on icy roads.",
+              "Check for special winter or holiday timetables in late December."
+            ]
+          }
+        }
       }
     }
   }

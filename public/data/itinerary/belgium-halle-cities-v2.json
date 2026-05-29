@@ -362,6 +362,196 @@
           "Plan enough time for the basilica, it is the city's highlight.",
           "Take advantage of the many small cafes for a break with Belgian pastries."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag am Rathaus, wo die Arkaden Schutz vor dem Regen bieten. Mittags finden Sie in der St.-Martins-Basilika spirituelle Ruhe und Trockenheit. Der Nachmittag gehört dem Museum den AST, einem idealen Zufluchtsort bei schlechtem Wetter. Den Tag lassen Sie bei einem gemütlichen Abendessen im Stadtzentrum ausklingen, während der Regen gegen die Scheiben trommelt.",
+            "hu": "Kezdje a napot a városháza árkádjai alatt, amelyek védelmet nyújtanak az eső elől. Délben a Szent Márton-bazilika belső tere kínál csendes és száraz menedéket. A délutánt töltse a den AST múzeumban, amely tökéletes program esős időre. Az estét zárja egy hangulatos belvárosi étteremben, élvezve a helyi belga söröket és a barátságos menedéket.",
+            "ro": "Începeți ziua la primărie, unde arcadele oferă adăpost împotriva ploii. La prânz, Basilica Sf. Martin oferă liniște spirituală și un interior uscat. După-amiaza este dedicată muzeului den AST, un refugiu ideal pe vreme rea. Încheiați ziua cu o cină caldă în centrul orașului, în timp ce ploaia bate în geamurile localurilor primitoare.",
+            "en": "Start your day at the Town Hall, where the arcades provide shelter from the rain. At noon, St. Martin's Basilica offers spiritual peace and a dry interior. Spend the afternoon at the den AST museum, a perfect refuge during wet weather. End the day with a cozy dinner in the city center, enjoying the warm atmosphere while the rain falls outside."
+          },
+          "stops": [
+            {
+              "name": "Town Hall (Stadhuis)",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden des Rathauses als trockenen Treffpunkt.",
+                "hu": "Használja a városháza árkádjait száraz találkozási pontként.",
+                "ro": "Folosiți arcadele primăriei ca punct de întâlnire ferit de ploaie.",
+                "en": "Use the Town Hall arcades as a dry meeting point."
+              }
+            },
+            {
+              "name": "St. Martin's Basilica",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Schwarze Madonna im trockenen Innenraum.",
+                "hu": "Csodálja meg a Fekete Madonnát a bazilika száraz belső terében.",
+                "ro": "Admirați Madona Neagră în interiorul primitor al basilicii.",
+                "en": "Admire the Black Madonna in the dry interior of the basilica."
+              }
+            },
+            {
+              "name": "Malakoff Tower",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp reicht aus, da der Turm kaum Regenschutz bietet.",
+                "hu": "Egy rövid megálló elég, mivel a torony kevés védelmet nyújt az esőtől.",
+                "ro": "O oprire scurtă este suficientă, turnul oferă puțin adăpost.",
+                "en": "A brief stop is enough as the tower offers little rain cover."
+              }
+            },
+            {
+              "name": "den AST - Museum",
+              "tip_5lang": {
+                "de": "Verlängern Sie Ihren Aufenthalt hier, um dem Regen zu entkommen.",
+                "hu": "Hosszabbítsa meg itt a látogatást, hogy elkerülje a kinti esőt.",
+                "ro": "Prelungiți vizita aici pentru a scăpa de ploaia de afară.",
+                "en": "Extend your stay here to escape the rain outside."
+              }
+            },
+            {
+              "name": "Lunch in the city center",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit Garderobe für nasse Mäntel.",
+                "hu": "Válasszon olyan éttermet, ahol van hely a vizes kabátoknak.",
+                "ro": "Alegeți un restaurant cu garderobă pentru haine ude.",
+                "en": "Choose a restaurant with space for wet coats."
+              }
+            },
+            {
+              "name": "Warande Park",
+              "tip_5lang": {
+                "de": "Die asphaltierten Wege sind weniger schlammig als die Rasenflächen.",
+                "hu": "Az aszfaltozott utak kevésbé sárosak, mint a füves területek.",
+                "ro": "Aleile asfaltate sunt mai puțin noroioase decât iarba.",
+                "en": "The paved paths are less muddy than the grassy areas."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Halle hat viele enge Gassen, die bei Wind Windkanäle bilden können.",
+              "Die Pflastersteine am Grote Markt können bei Nässe rutschig sein.",
+              "In der Nähe der Basilika gibt es Cafés mit großen Markisen.",
+              "Ein stabiler Regenschirm ist wegen der Windböen besser als ein leichter.",
+              "Besuchen Sie das Tourismusbüro für einen kostenlosen Stadtplan mit überdachten Wegen."
+            ],
+            "hu": [
+              "Halle szűk utcái szélcsatornaként működhetnek esőben.",
+              "A Grote Markt macskakövei nedvesen csúszóssá válhatnak.",
+              "A bazilika környékén számos nagy ponyvás kávézó található.",
+              "A széllökések miatt egy masszív esernyő jobb választás, mint a könnyű verziók.",
+              "Keresse fel a turisztikai irodát fedett útvonalakkal kapcsolatos tippekért."
+            ],
+            "ro": [
+              "Străzile înguste din Halle pot crea curenți de aer puternici pe ploaie.",
+              "Pavelele din Grote Markt pot deveni alunecoase când sunt ude.",
+              "Lângă basilică există cafenele cu copertine generoase.",
+              "O umbrelă rezistentă e mai utilă decât una ușoară din cauza vântului.",
+              "Vizitați biroul de turism pentru hărți cu trasee parțial acoperite."
+            ],
+            "en": [
+              "Halle's narrow streets can act as wind tunnels during rainstorms.",
+              "The cobblestones at Grote Markt can become slippery when wet.",
+              "There are cafes near the Basilica with large awnings for outdoor shelter.",
+              "A sturdy umbrella is better than a light one due to potential wind gusts.",
+              "Visit the tourism office for tips on partially covered walking routes."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens erstrahlt das historische Zentrum im frostigen Glanz. Mittags wärmen Sie sich in der prächtigen Basilika auf, bevor Sie den Nachmittag in den beheizten Räumen des den AST Museums verbringen. Da es früh dunkel wird, nutzen Sie das letzte Tageslicht für einen zügigen Spaziergang im Warande Park. Der Abend gehört der lokalen Gastronomie bei Kerzenschein.",
+            "hu": "Reggel a történelmi központ dérlepte fényben úszik. Délben melegedjen fel a pompás bazilikában, majd töltse a délutánt a den AST múzeum fűtött kiállítótereiben. Mivel korán sötétedik, a maradék fényt használja ki egy frissítő sétára a Warande Parkban. Az estét töltse egy hangulatos helyi vendéglőben gyertyafény mellett.",
+            "ro": "Dimineața, centrul istoric strălucește sub promoroacă. La prânz, încălziți-vă în basilica somptuoasă, apoi petreceți după-amiaza în sălile încălzite ale muzeului den AST. Deoarece se întunecă devreme, folosiți lumina zilei pentru o plimbare rapidă în Parcul Warande. Seara aparține gastronomiei locale la lumina lumânărilor.",
+            "en": "In the morning, the historic center shines in the frosty light. Warm up at noon in the magnificent Basilica before spending the afternoon in the heated rooms of the den AST museum. As it gets dark early, use the remaining daylight for a brisk walk in Warande Park. Spend the evening enjoying local cuisine by candlelight."
+          },
+          "stops": [
+            {
+              "name": "Town Hall (Stadhuis)",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf den Stufen des Rathauses.",
+                "hu": "Vigyázzon a jegesedésre a városháza lépcsőin.",
+                "ro": "Atenție la polei pe treptele primăriei.",
+                "en": "Watch out for ice on the Town Hall steps."
+              }
+            },
+            {
+              "name": "St. Martin's Basilica",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um sich zwischen den Besichtigungen aufzuwärmen.",
+                "hu": "Ideális hely a felmelegedéshez a városnézés közben.",
+                "ro": "Un loc ideal pentru a vă încălzi între vizite.",
+                "en": "An ideal spot to warm up between sightseeing stops."
+              }
+            },
+            {
+              "name": "Malakoff Tower",
+              "tip_5lang": {
+                "de": "Der Turm ist im Winter oft windig, halten Sie sich kurz.",
+                "hu": "A toronynál télen gyakran fúj a szél, ne időzzön sokat.",
+                "ro": "Turnul este adesea expus vântului iarna, stați puțin.",
+                "en": "The tower area is often windy in winter; keep your visit brief."
+              }
+            },
+            {
+              "name": "den AST - Museum",
+              "tip_5lang": {
+                "de": "Genießen Sie die wohlige Wärme im Inneren des Museums.",
+                "hu": "Élvezze a múzeum belső tereinek kellemes melegét.",
+                "ro": "Bucurați-vă de căldura plăcută din interiorul muzeului.",
+                "en": "Enjoy the cozy warmth inside the museum."
+              }
+            },
+            {
+              "name": "Lunch in the city center",
+              "tip_5lang": {
+                "de": "Bestellen Sie eine heiße belgische Tagessuppe zum Aufwärmen.",
+                "hu": "Rendeljen egy forró belga napi levest a felmelegedéshez.",
+                "ro": "Comandați o supă caldă belgiană pentru a vă încălzi.",
+                "en": "Order a hot Belgian soup of the day to warm up."
+              }
+            },
+            {
+              "name": "Warande Park",
+              "tip_5lang": {
+                "de": "Beachten Sie den frühen Sonnenuntergang gegen 16:30 Uhr.",
+                "hu": "Vegye figyelembe a korai naplementét 16:30 körül.",
+                "ro": "Țineți cont de apusul devreme, în jurul orei 16:30.",
+                "en": "Keep in mind the early sunset around 4:30 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Handschuhe sind für die Spaziergänge am Kanal unerlässlich.",
+              "Die Sonne geht im Dezember bereits vor 17:00 Uhr unter.",
+              "Achten Sie auf den Grote Markt auf weihnachtliche Dekorationen.",
+              "Heiße Schokolade ist ein Muss in den örtlichen Teestuben.",
+              "Tragen Sie Schuhe mit gutem Profil wegen möglicher Reifglätte."
+            ],
+            "hu": [
+              "A csatorna menti sétákhoz elengedhetetlen a meleg kesztyű.",
+              "Decemberben a nap már délután 5 előtt lemegy.",
+              "Keresse a karácsonyi díszeket és fényeket a Grote Markt környékén.",
+              "A forró csokoládé kötelező program a helyi teázókban.",
+              "Viseljen jó tapadású cipőt a zúzmarás, csúszós utak miatt."
+            ],
+            "ro": [
+              "Mănușile călduroase sunt esențiale pentru plimbările pe lângă canal.",
+              "Soarele apune înainte de ora 17:00 în luna decembrie.",
+              "Căutați decorațiunile de Crăciun în zona Grote Markt.",
+              "Ciocolata caldă este obligatorie în cafenelele locale.",
+              "Purtați încălțăminte cu talpă aderentă pentru zonele cu îngheț."
+            ],
+            "en": [
+              "Warm gloves are essential for walks along the canal in winter.",
+              "The sun sets before 5:00 PM in December, plan outdoor stops early.",
+              "Check for Christmas decorations and lights around Grote Markt.",
+              "Hot chocolate is a must-try in the local tea rooms and cafes.",
+              "Wear shoes with good grip as paths can be frosty and slippery."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -742,6 +932,214 @@
           "Always lock your bike securely, especially in busy places.",
           "A bike bell is useful to alert pedestrians."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre Tour am Bahnhof und rüsten Sie sich mit Regenkleidung aus. Die Fahrt zum Grote Markt ist kurz, sodass Sie schnell Schutz in der Basilika finden. Nachmittags bietet das Museum den AST eine längere Pause im Trockenen. Die Rückfahrt entlang des Kanals erfordert Vorsicht bei Nässe, bevor Sie Ihr Rad sicher zurückgeben.",
+            "hu": "Kezdje a túrát az állomáson, és készüljön fel vízálló ruházattal. A Grote Marktig tartó út rövid, így gyorsan fedél alá kerülhet a bazilikában. Délután a den AST múzeum nyújt hosszabb pihenőt szárazon. A csatorna menti visszaút óvatosságot igényel a nedves útviszonyok miatt a kerékpár leadása előtt.",
+            "ro": "Începeți turul la gară și echipați-vă cu haine impermeabile. Drumul spre Grote Markt este scurt, permițându-vă să ajungeți rapid la adăpost în basilică. După-amiaza, muzeul den AST oferă o pauză lungă și uscată. Drumul de întoarcere pe lângă canal necesită prudență pe carosabil ud.",
+            "en": "Start your tour at the station and gear up with waterproof clothing. The ride to Grote Markt is short, so you can quickly find shelter in the Basilica. In the afternoon, the den AST museum offers a long break in the dry. The return trip along the canal requires caution due to wet conditions before returning your bike."
+          },
+          "stops": [
+            {
+              "name": "Bike rental at Halle station",
+              "tip_5lang": {
+                "de": "Fragen Sie nach Fahrrädern mit Schutzblechen gegen Spritzwasser.",
+                "hu": "Kérjen sárvédővel felszerelt kerékpárt a felverődő víz ellen.",
+                "ro": "Cereți biciclete cu apărători pentru a evita stropirea.",
+                "en": "Ask for bikes with mudguards to protect against splashes."
+              }
+            },
+            {
+              "name": "Town Hall and Grote Markt",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter den Markisen der Cafés ab.",
+                "hu": "Parkolja le a kerékpárt a kávézók ponyvái alatt.",
+                "ro": "Parcați bicicleta sub copertinele cafenelelor.",
+                "en": "Park your bike under the cafe awnings if possible."
+              }
+            },
+            {
+              "name": "St. Martin's Basilica",
+              "tip_5lang": {
+                "de": "Die Fahrradständer sind leider meist nicht überdacht.",
+                "hu": "A kerékpártárolók sajnos többnyire nem fedettek.",
+                "ro": "Rafturile pentru biciclete nu sunt, de obicei, acoperite.",
+                "en": "The bike racks are unfortunately mostly uncovered."
+              }
+            },
+            {
+              "name": "den AST - Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch als Regenpause.",
+                "hu": "Használja a múzeumlátogatást esőszünetként.",
+                "ro": "Folosiți vizita la muzeu ca pauză de ploaie.",
+                "en": "Use the museum visit as a break from the rain."
+              }
+            },
+            {
+              "name": "Lunch by the canal",
+              "tip_5lang": {
+                "de": "Suchen Sie ein Lokal mit direktem Blick auf Ihre Räder.",
+                "hu": "Keressen olyan helyet, ahonnan rálát a biciklikre.",
+                "ro": "Căutați un local de unde puteți supraveghea bicicletele.",
+                "en": "Find a place where you can keep an eye on your bikes."
+              }
+            },
+            {
+              "name": "Warande Park",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem Laub, es kann extrem rutschig sein.",
+                "hu": "Vigyázzon a faleveleken, rendkívül csúszósak lehetnek.",
+                "ro": "Atenție la frunze, pot fi extrem de alunecoase.",
+                "en": "Watch out for wet leaves; they can be extremely slippery."
+              }
+            },
+            {
+              "name": "Paterskerk Cultural Centre",
+              "tip_5lang": {
+                "de": "Ein letzter kultureller Stopp im Trockenen vor der Abfahrt.",
+                "hu": "Egy utolsó kulturális megálló szárazon az indulás előtt.",
+                "ro": "O ultimă oprire culturală la adăpost înainte de plecare.",
+                "en": "A final cultural stop in the dry before heading back."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine wasserfeste Regenhose beim Radfahren.",
+              "Die Bremswege auf nassem Kopfsteinpflaster sind deutlich länger.",
+              "Wischen Sie den Sattel vor der Abfahrt immer trocken.",
+              "Nutzen Sie die Brücken am Kanal als kurzzeitigen Unterstand.",
+              "Vermeiden Sie Pfützen, da diese tiefe Schlaglöcher verbergen können."
+            ],
+            "hu": [
+              "Viseljen vízálló nadrágot kerékpározás közben.",
+              "A féktávolság nedves macskakövön jelentősen megnő.",
+              "Indulás előtt mindig törölje szárazra a nyerget.",
+              "Használja a csatorna hídjait rövid ideig tartó menedékként.",
+              "Kerülje a tócsákat, mert mély kátyúkat rejthetnek."
+            ],
+            "ro": [
+              "Purtați pantaloni impermeabili în timp ce pedalați.",
+              "Distanța de frânare pe pavaj ud este semnificativ mai mare.",
+              "Ștergeți întotdeauna șaua înainte de a pleca.",
+              "Folosiți podurile de peste canal ca adăpost temporar.",
+              "Evitați bălțile, deoarece pot ascunde gropi adânci."
+            ],
+            "en": [
+              "Wear waterproof rain pants while cycling.",
+              "Braking distances are significantly longer on wet cobblestones.",
+              "Always wipe the saddle dry before starting each segment.",
+              "Use the canal bridges as brief shelters during heavy downpours.",
+              "Avoid riding through puddles as they might hide deep potholes."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die frostige Morgenluft am Kanal weckt Ihre Lebensgeister. Nach einem kurzen Stopp am historischen Marktplatz bietet die Basilika einen warmen Rückzugsort. Den Nachmittag verbringen Sie größtenteils im Museum den AST, um sich aufzuwärmen. Bevor die Dunkelheit hereinbricht, radeln Sie durch den ruhigen Warande Park und beenden den Tag kulturell in der Paterskerk.",
+            "hu": "A csatorna menti fagyos reggeli levegő azonnal felébreszti. A történelmi piactéren tett rövid megálló után a bazilika nyújt meleg menedéket. A délután nagy részét a den AST múzeumban töltse a felmelegedés érdekében. Mielőtt beállna a sötétség, tekerjen át a csendes Warande Parkon, majd zárja a napot kulturális programmal a Paterskerkben.",
+            "ro": "Aerul înghețat de dimineață de pe lângă canal vă va înviora. După o scurtă oprire în piața istorică, basilica oferă un refugiu cald. Petreceți mare parte din după-amiază la muzeul den AST pentru a vă încălzi. Înainte de lăsarea întunericului, pedalați prin Parcul Warande și încheiați ziua cultural la Paterskerk.",
+            "en": "The frosty morning air along the canal will wake you up. After a brief stop at the historic market square, the Basilica provides a warm retreat. Spend most of the afternoon at the den AST museum to warm up. Before darkness falls, cycle through the quiet Warande Park and end your day with a cultural visit to Paterskerk."
+          },
+          "stops": [
+            {
+              "name": "Bike rental at Halle station",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Reifendruck, da dieser bei Kälte sinkt.",
+                "hu": "Ellenőrizze a guminyomást, mert hidegben csökkenhet.",
+                "ro": "Verificați presiunea în anvelope, scade la temperaturi mici.",
+                "en": "Check the tire pressure, as it drops in cold weather."
+              }
+            },
+            {
+              "name": "Town Hall and Grote Markt",
+              "tip_5lang": {
+                "de": "Vorsicht beim Absteigen auf eventuellem Glatteis.",
+                "hu": "Vigyázzon a leszállásnál az esetleges jegesedés miatt.",
+                "ro": "Atenție la coborâre în cazul în care există gheață.",
+                "en": "Be careful when dismounting in case of icy patches."
+              }
+            },
+            {
+              "name": "St. Martin's Basilica",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Ort zur inneren und äußeren Erwärmung.",
+                "hu": "Használja a helyet belső és külső melegedésre is.",
+                "ro": "Folosiți locul pentru a vă încălzi spiritual și fizic.",
+                "en": "Use this location for both spiritual and physical warmth."
+              }
+            },
+            {
+              "name": "den AST - Museum",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad sicher und wärmen Sie sich auf.",
+                "hu": "Parkolja le a biciklit biztonságosan, és melegedjen fel.",
+                "ro": "Parcați bicicleta în siguranță și încălziți-vă.",
+                "en": "Park your bike securely and take time to warm up inside."
+              }
+            },
+            {
+              "name": "Lunch by the canal",
+              "tip_5lang": {
+                "de": "Fragen Sie nach einem Platz in der Nähe der Heizung.",
+                "hu": "Kérjen helyet a fűtőtest közelében.",
+                "ro": "Cereți o masă lângă o sursă de căldură.",
+                "en": "Ask for a table near a radiator or heater."
+              }
+            },
+            {
+              "name": "Warande Park",
+              "tip_5lang": {
+                "de": "Radeln Sie zügig, um die Körperwärme zu halten.",
+                "hu": "Tekerjen tempósabban, hogy megőrizze testhőjét.",
+                "ro": "Pedalați într-un ritm alert pentru a vă menține căldura.",
+                "en": "Cycle at a brisk pace to maintain body heat."
+              }
+            },
+            {
+              "name": "Paterskerk Cultural Centre",
+              "tip_5lang": {
+                "de": "Ein schöner, warmer Abschluss für Ihre Wintertour.",
+                "hu": "Szép, meleg befejezése a téli túrának.",
+                "ro": "Un final frumos și cald pentru turul de iarnă.",
+                "en": "A beautiful, warm conclusion to your winter tour."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie geschlossene Handschuhe gegen den Fahrtwind.",
+              "Achten Sie auf gefrorenes Kondenswasser auf den Brücken.",
+              "Die Akkus von E-Bikes entladen sich bei Kälte schneller.",
+              "Tragen Sie Kleidung nach dem Zwiebelprinzip.",
+              "Vermeiden Sie scharfe Kurven auf schattigen, frostigen Wegen."
+            ],
+            "hu": [
+              "Viseljen zárt kesztyűt a menetszél ellen.",
+              "Vigyázzon a hidakon megfagyott páralecsapódásra.",
+              "Az elektromos kerékpárok akkumulátora gyorsabban merül hidegben.",
+              "Öltözködjön rétegesen kerékpározáshoz.",
+              "Kerülje az éles kanyarokat az árnyékos, zúzmarás utakon."
+            ],
+            "ro": [
+              "Purtați mănuși care acoperă complet degetele contra vântului.",
+              "Atenție la condensul înghețat de pe poduri.",
+              "Bateriile bicicletelor electrice se descarcă mai repede la frig.",
+              "Îmbrăcați-vă în mai multe straturi subțiri.",
+              "Evitați virajele strânse pe porțiunile de drum umbrite."
+            ],
+            "en": [
+              "Wear full-fingered gloves to protect against the wind chill.",
+              "Watch out for frozen condensation on bridge surfaces.",
+              "E-bike batteries drain faster in cold temperatures.",
+              "Dress in multiple layers for effective heat regulation.",
+              "Avoid sharp turns on shaded or potentially frosty paths."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1098,6 +1496,196 @@
           "A GPS is essential for navigating between the forest and the city.",
           "Do not leave valuables visible in the car, especially in hiking parking lots."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen ist der Hallerbos auch im Auto ein Erlebnis, da die Wege befahrbar sind. Mittags parken Sie bequem im Zentrum und erkunden die Basilika und den Marktplatz. Das Auto dient als trockene Basis zwischen den Stationen. Den Nachmittag verbringen Sie entspannt im Stadtpark, bevor Sie den Tag in einem der gemütlichen Restaurants in Halle beenden.",
+            "hu": "Az eső ellenére a Hallerbos autóval is élmény, mivel az utak járhatóak. Délben kényelmesen parkolhat a központban, és felfedezheti a bazilikát és a piacteret. Az autó száraz bázisként szolgál az egyes állomások között. A délutánt töltse pihentetően a városi parkban, majd zárja a napot Halle egyik hangulatos éttermében.",
+            "ro": "În ciuda ploii, Hallerbos este o experiență frumoasă și cu mașina, drumurile fiind accesibile. La prânz, parcați confortabil în centru și explorați basilica și piața. Mașina servește ca bază uscată între obiective. Petreceți după-amiaza în parcul orașului, apoi încheiați ziua la un restaurant primitor din Halle.",
+            "en": "Despite the rain, Hallerbos is still an experience by car as the access roads are manageable. At noon, park conveniently in the center and explore the Basilica and the market square. The car serves as your dry base between stops. Spend a relaxed afternoon in the city park before ending your day at a cozy restaurant in Halle."
+          },
+          "stops": [
+            {
+              "name": "Drive to Hallerbos & Park",
+              "tip_5lang": {
+                "de": "Die Parkplätze im Wald können bei Regen schlammig sein.",
+                "hu": "Az erdei parkolók esőben sárosak lehetnek.",
+                "ro": "Parcările din pădure pot fi noroioase pe timp de ploaie.",
+                "en": "Forest parking areas can get muddy during rain."
+              }
+            },
+            {
+              "name": "Walk through the flower carpet",
+              "tip_5lang": {
+                "de": "Nur bei leichtem Regen empfohlen, da kaum Unterstände vorhanden sind.",
+                "hu": "Csak enyhe esőben javasolt, mivel kevés a menedék.",
+                "ro": "Recomandat doar pe ploaie ușoară, nu există adăposturi.",
+                "en": "Recommended only in light rain as there is little shelter."
+              }
+            },
+            {
+              "name": "Drive to Halle center & Park",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus 'De Leide' für einen trockenen Ausstieg.",
+                "hu": "Használja a 'De Leide' parkolóházat a száraz kiszálláshoz.",
+                "ro": "Folosiți parcarea etajată 'De Leide' pentru a rămâne uscat.",
+                "en": "Use 'De Leide' parking garage for a dry exit from the car."
+              }
+            },
+            {
+              "name": "St. Martin's Basilica",
+              "tip_5lang": {
+                "de": "Vom Parkplatz im Zentrum sind es nur wenige Gehminuten im Regen.",
+                "hu": "A központi parkolótól csak pár perc séta az esőben.",
+                "ro": "De la parcarea centrală sunt doar câteva minute de mers prin ploaie.",
+                "en": "It is only a few minutes' walk from the central parking."
+              }
+            },
+            {
+              "name": "Town Hall & Grote Markt",
+              "tip_5lang": {
+                "de": "Erkunden Sie den Platz unter dem Schutz Ihres Regenschirms.",
+                "hu": "Fedezze fel a teret az esernyője védelme alatt.",
+                "ro": "Explorați piața sub protecția umbrelei.",
+                "en": "Explore the square under the protection of your umbrella."
+              }
+            },
+            {
+              "name": "Drive to Warande Park",
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Parkeingang, um den Fußweg kurz zu halten.",
+                "hu": "Parkoljon közvetlenül a bejáratnál, hogy rövid legyen a séta.",
+                "ro": "Parcați chiar la intrare pentru a scurta drumul pe jos.",
+                "en": "Park right at the entrance to keep the walk in the rain short."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Scheibenwischer vor der Abfahrt.",
+              "Im Zentrum von Halle gibt es mehrere Parkhäuser.",
+              "Halten Sie ein Handtuch im Auto bereit, um Sitze trocken zu halten.",
+              "Achten Sie auf Radfahrer, die bei Regen oft unvorhersehbar reagieren.",
+              "Die Straßen im Hallerbos können schmal und bei Nässe rutschig sein."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze az ablaktörlőket.",
+              "Halle központjában több parkolóház is található.",
+              "Tartson törölközőt az autóban az ülések szárazon tartásához.",
+              "Figyeljen a kerékpárosokra, akik esőben kiszámíthatatlanabbak lehetnek.",
+              "A Hallerbos útjai szűkek és nedvesen csúszósak lehetnek."
+            ],
+            "ro": [
+              "Verificați ștergătoarele înainte de a pleca la drum.",
+              "Există mai multe parcări supraetajate în centrul orașului Halle.",
+              "Țineți un prosop în mașină pentru a șterge scaunele dacă vă udați.",
+              "Atenție la bicicliști, pot fi mai imprevizibili pe ploaie.",
+              "Drumurile din Hallerbos pot fi înguste și alunecoase pe ud."
+            ],
+            "en": [
+              "Check your windshield wipers before starting your trip.",
+              "There are several covered parking garages in the center of Halle.",
+              "Keep a towel in the car to dry off seats after outdoor stops.",
+              "Be extra careful around cyclists who may be less predictable in rain.",
+              "The roads in Hallerbos can be narrow and slippery when wet."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der winterliche Hallerbos bietet eine fast magische Stille, die Sie bequem im geheizten Auto genießen können. Nach der Fahrt ins Zentrum finden Sie in der prachtvollen Basilika Wärme und Besinnung. Das Auto macht den Wechsel zwischen den Sehenswürdigkeiten auch bei Frost angenehm. Den späten Nachmittag verbringen Sie im Warande Park, bevor die Dunkelheit den Tag beendet.",
+            "hu": "A téli Hallerbos szinte varázslatos csendet áraszt, amit a fűtött autóból kényelmesen élvezhet. A központba érve a bazilikában találhat meleg menedéket. Az autóval a látnivalók közötti váltás fagyos időben is kellemes. A késő délutánt töltse a Warande Parkban, mielőtt a sötétség véget vetne a napnak.",
+            "ro": "Hallerbos în variantă hibernală oferă o liniște magică, pe care o puteți savura din mașina încălzită. După drumul spre centru, veți găsi căldură în basilica somptuoasă. Mașina face transferul între obiective plăcut chiar și pe ger. Petreceți după-amiaza târzie în Parcul Warande înainte de lăsarea serii.",
+            "en": "The winter Hallerbos offers an almost magical silence that you can enjoy from your heated car. After driving to the center, you will find warmth and reflection in the magnificent Basilica. Having a car makes moving between sights pleasant even in freezing weather. Spend the late afternoon in Warande Park before darkness ends the day."
+          },
+          "stops": [
+            {
+              "name": "Drive to Hallerbos & Park",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenen Stellen auf den Waldwegen.",
+                "hu": "Vigyázzon a fagyott szakaszokra az erdei utakon.",
+                "ro": "Atenție la porțiunile înghețate de pe drumurile forestiere.",
+                "en": "Watch out for icy patches on the forest roads."
+              }
+            },
+            {
+              "name": "Walk through the flower carpet",
+              "tip_5lang": {
+                "de": "Im Winter keine Blumen, aber eine ruhige, frostige Waldatmosphäre.",
+                "hu": "Télen nincsenek virágok, de a fagyos erdő hangulata így is szép.",
+                "ro": "Iarna nu sunt flori, dar atmosfera pădurii înghețate este superbă.",
+                "en": "No flowers in winter, but the frosty forest atmosphere is serene."
+              }
+            },
+            {
+              "name": "Drive to Halle center & Park",
+              "tip_5lang": {
+                "de": "Nutzen Sie beheizte Parkhäuser, um das Auto warm zu halten.",
+                "hu": "Használjon fűtött parkolóházat, ha elérhető.",
+                "ro": "Căutați parcări acoperite pentru a menține mașina mai caldă.",
+                "en": "Use covered parking garages to keep the car slightly warmer."
+              }
+            },
+            {
+              "name": "St. Martin's Basilica",
+              "tip_5lang": {
+                "de": "Ein herrlicher Ort, um die Kälte für einen Moment zu vergessen.",
+                "hu": "Csodálatos hely, hogy egy pillanatra elfelejtse a kinti hideget.",
+                "ro": "Un loc superb pentru a uita de frig pentru un moment.",
+                "en": "A wonderful place to forget about the cold for a moment."
+              }
+            },
+            {
+              "name": "Town Hall & Grote Markt",
+              "tip_5lang": {
+                "de": "Der Markt ist im Winter oft weniger belebt, aber sehr fotogen.",
+                "hu": "A piac télen kevésbé forgalmas, de nagyon fotogén.",
+                "ro": "Piața este mai puțin aglomerată iarna, dar foarte fotogenică.",
+                "en": "The market square is less busy in winter but very photogenic."
+              }
+            },
+            {
+              "name": "Drive to Warande Park",
+              "tip_5lang": {
+                "de": "Die Straßen im Parkbereich werden nicht immer sofort geräumt.",
+                "hu": "A park környéki utakat nem mindig takarítják azonnal.",
+                "ro": "Drumurile de lângă parc nu sunt întotdeauna deszăpezite rapid.",
+                "en": "Roads near the park might not always be cleared of snow immediately."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in Belgien bei Frost sehr empfehlenswert.",
+              "Füllen Sie Frostschutzmittel in Ihre Scheibenwaschanlage.",
+              "Die Parkplatzsuche im Zentrum ist im Winter meist einfacher.",
+              "Achten Sie auf Fußgänger, die wegen der Kälte oft gehetzt wirken.",
+              "Hallerbos ist im Winter ein Geheimtipp für Ruhesuchende."
+            ],
+            "hu": [
+              "Belgiumban fagy idején erősen ajánlott a téli gumi.",
+              "Töltsön fagyállót az ablakmosó tartályba.",
+              "A központban télen általában könnyebb parkolóhelyet találni.",
+              "Figyeljen a gyalogosokra, akik a hideg miatt sietősek lehetnek.",
+              "A Hallerbos télen a nyugalomra vágyók titkos tippje."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt foarte recomandate în Belgia pe ger.",
+              "Adăugați lichid de parbriz rezistent la îngheț.",
+              "Găsirea unui loc de parcare în centru este mai ușoară iarna.",
+              "Atenție la pietonii care se grăbesc din cauza frigului.",
+              "Hallerbos iarna este o destinație secretă pentru liniște."
+            ],
+            "en": [
+              "Winter tires are highly recommended in Belgium during frost.",
+              "Make sure to use anti-freeze in your windshield washer fluid.",
+              "Finding parking in the center is usually easier in winter.",
+              "Watch out for pedestrians who might be rushing due to the cold.",
+              "Hallerbos in winter is a hidden gem for those seeking peace."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1454,6 +2042,196 @@
           "A power bank for your smartphone is useful for navigation and schedule queries.",
           "Most buses are wheelchair accessible."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den Zug nach Halle, um entspannt anzukommen. Kurze Busfahrten bringen Sie trocken vom Bahnhof zum Grote Markt und zur Basilika. Den Nachmittag verbringen Sie im Museum den AST, das nur einen kurzen Weg von den Haltestellen entfernt ist. Die Wartezeiten an den Bushaltestellen lassen sich durch die zahlreichen überdachten Wartebereiche gut überbrücken.",
+            "hu": "Érkezzen vonattal Halle-ba a nyugodt kezdés érdekében. Rövid buszutak segítenek szárazon eljutni az állomástól a Grote Markthoz és a bazilikához. A délutánt töltse a den AST múzeumban, amely közel van a megállókhoz. A buszmegállók fedett várói segítenek átvészelni a várakozási időt az esőben.",
+            "ro": "Folosiți trenul spre Halle pentru a sosi relaxat. Călătoriile scurte cu autobuzul vă duc la Grote Markt și basilică fără să vă udați. După-amiaza, vizitați muzeul den AST, situat aproape de stații. Timpul de așteptare în stații este facilitat de refugiile acoperite.",
+            "en": "Use the train to Halle for a relaxed arrival. Short bus rides will get you dryly from the station to Grote Markt and the Basilica. Spend the afternoon at the den AST museum, which is a short walk from the transit stops. Waiting times at bus stops are manageable thanks to the many covered shelters."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Halle station",
+              "tip_5lang": {
+                "de": "Warten Sie im Bahnhofsgebäude, bis Ihr Bus angezeigt wird.",
+                "hu": "Várjon az állomás épületében, amíg a busza megérkezik.",
+                "ro": "Așteptați în interiorul gării până când apare autobuzul.",
+                "en": "Wait inside the station building until your bus is due."
+              }
+            },
+            {
+              "name": "Paterskerk",
+              "tip_5lang": {
+                "de": "Die Kirche bietet eine gute Gelegenheit für eine Regenpause.",
+                "hu": "A templom jó lehetőséget nyújt egy esőszünetre.",
+                "ro": "Biserica oferă o oportunitate bună pentru o pauză de ploaie.",
+                "en": "The church provides a good opportunity for a break from the rain."
+              }
+            },
+            {
+              "name": "Bus ride to Grote Markt",
+              "tip_5lang": {
+                "de": "Die Haltestellen am Markt haben oft gute Überdachungen.",
+                "hu": "A piaci megállók általában jól fedettek.",
+                "ro": "Stațiile din piață au adesea copertine bune.",
+                "en": "Bus stops near the market often have good shelters."
+              }
+            },
+            {
+              "name": "St. Martin's Basilica",
+              "tip_5lang": {
+                "de": "Vermeiden Sie Pfützen beim Ein- und Aussteigen am Bus.",
+                "hu": "Kerülje a tócsákat a buszra való fel- és leszálláskor.",
+                "ro": "Evitați bălțile la urcarea și coborârea din autobuz.",
+                "en": "Avoid puddles when boarding or exiting the bus."
+              }
+            },
+            {
+              "name": "Lunch and walk to den AST museum",
+              "tip_5lang": {
+                "de": "Wählen Sie Lokale in der Nähe der Bushaltestellen.",
+                "hu": "Válasszon a buszmegállókhoz közeli éttermeket.",
+                "ro": "Alegeți restaurante în apropierea stațiilor de autobuz.",
+                "en": "Choose lunch spots close to the bus stops."
+              }
+            },
+            {
+              "name": "Bus ride to Warande Park",
+              "tip_5lang": {
+                "de": "Die Fahrt zum Park ist kurz, halten Sie den Schirm bereit.",
+                "hu": "Az út a parkig rövid, tartsa készenlétben az esernyőt.",
+                "ro": "Drumul spre parc este scurt, pregătiți umbrela.",
+                "en": "The ride to the park is short; keep your umbrella ready."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die App von De Lijn für Echtzeit-Informationen.",
+              "Die Busse in Halle verkehren auch bei Regen zuverlässig.",
+              "Das Bahnhofsgebäude bietet Toiletten und einen Kiosk.",
+              "Hatten Sie Ihre Fahrkarte griffbereit, um Verzögerungen zu vermeiden.",
+              "Einige Busse können bei starkem Regen leicht verspätet sein."
+            ],
+            "hu": [
+              "Használja a De Lijn alkalmazást a valós idejű adatokhoz.",
+              "A buszok Halle-ban esőben is megbízhatóan közlekednek.",
+              "Az állomás épületében van mosdó és újságos.",
+              "Tartsa készenlétben a jegyét a gyors felszálláshoz.",
+              "Heves esőzéskor egyes buszoknál előfordulhat némi késés."
+            ],
+            "ro": [
+              "Folosiți aplicația De Lijn pentru informații în timp real.",
+              "Autobuzele din Halle circulă constant chiar și pe ploaie.",
+              "Clădirea gării oferă toalete și un chioșc.",
+              "Aveți biletul la îndemână pentru a evita întârzierile la urcare.",
+              "Unele autobuze pot avea mici întârzieri pe ploaie torențială."
+            ],
+            "en": [
+              "Use the De Lijn app for real-time transit information.",
+              "Buses in Halle run reliably even during rainy weather.",
+              "The station building provides restrooms and a small kiosk.",
+              "Have your ticket ready to speed up the boarding process.",
+              "Expect minor delays for some bus lines during heavy downpours."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Wintertag am Bahnhof Halle und nutzen Sie die beheizten Busse für die Fahrt ins Zentrum. Die Basilika und die Paterskerk bieten wunderbare warme Rückzugsorte während Ihrer Erkundungstour. Den Nachmittag verbringen Sie im Museum den AST, bevor Sie mit dem Bus zum winterlichen Warande Park fahren. Der Tag endet gemütlich mit der Rückreise per Zug.",
+            "hu": "Kezdje a téli napot a halle-i állomáson, és használja a fűtött buszokat a központba jutáshoz. A bazilika és a Paterskerk csodás meleg helyszínek a város felfedezése közben. A délutánt töltse a den AST múzeumban, majd buszozzon el a téli Warande Parkba. A napot zárja egy kényelmes vonatos utazással hazafelé.",
+            "ro": "Începeți ziua de iarnă la gara din Halle și folosiți autobuzele încălzite spre centru. Basilica și Paterskerk sunt locuri calde și primitoare în timpul vizitei. Petreceți după-amiaza la muzeul den AST, apoi luați autobuzul spre Parcul Warande. Ziua se încheie confortabil cu drumul de întoarcere cu trenul.",
+            "en": "Start your winter day at Halle station and use the heated buses to reach the center. The Basilica and Paterskerk offer wonderful warm retreats during your exploration. Spend the afternoon at the den AST museum before taking the bus to the wintery Warande Park. The day ends comfortably with your return train journey."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Halle station",
+              "tip_5lang": {
+                "de": "Das Bahnhofscafé ist ideal für einen heißen Kaffee nach der Ankunft.",
+                "hu": "Az állomás kávézója ideális egy forró kávéra érkezés után.",
+                "ro": "Cafeneaua gării este ideală pentru o cafea caldă după sosire.",
+                "en": "The station cafe is ideal for a hot coffee upon arrival."
+              }
+            },
+            {
+              "name": "Paterskerk",
+              "tip_5lang": {
+                "de": "Ein schöner Ort, um sich kurz aufzuwärmen.",
+                "hu": "Szép hely egy rövid felmelegedéshez.",
+                "ro": "Un loc frumos pentru a vă încălzi puțin.",
+                "en": "A lovely spot to warm up for a few minutes."
+              }
+            },
+            {
+              "name": "Bus ride to Grote Markt",
+              "tip_5lang": {
+                "de": "Die Busse sind im Winter gut beheizt.",
+                "hu": "A buszok télen jól fűtöttek.",
+                "ro": "Autobuzele sunt bine încălzite în timpul iernii.",
+                "en": "The buses are well-heated during the winter months."
+              }
+            },
+            {
+              "name": "St. Martin's Basilica",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Innenraum als Kälteschutz.",
+                "hu": "Használja a belső teret védelemként a hideg ellen.",
+                "ro": "Folosiți interiorul ca protecție împotriva frigului.",
+                "en": "Use the interior as protection against the cold."
+              }
+            },
+            {
+              "name": "Lunch and walk to den AST museum",
+              "tip_5lang": {
+                "de": "Vom Mittagessen zum Museum ist es nur ein kurzer Fußweg.",
+                "hu": "Az ebéd helyszínétől a múzeumig csak rövid séta az út.",
+                "ro": "De la locul de prânz la muzeu este doar o scurtă plimbare.",
+                "en": "It is only a short walk from lunch to the museum."
+              }
+            },
+            {
+              "name": "Bus ride to Warande Park",
+              "tip_5lang": {
+                "de": "Achten Sie auf die Fahrpläne, im Winter fahren manche Busse seltener.",
+                "hu": "Ellenőrizze a menetrendet, télen egyes járatok ritkábbak lehetnek.",
+                "ro": "Verificați orarul, iarna unele autobuze pot circula mai rar.",
+                "en": "Check the schedules; some buses might run less frequently in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warten Sie bei Kälte lieber im Bahnhofsgebäude als am Bahnsteig.",
+              "Die Fahrpläne können an Feiertagen im Winter variieren.",
+              "Tragen Sie warme Schuhe, da die Böden in den Bussen kalt sein können.",
+              "Die De Lijn App zeigt Verspätungen durch winterliche Bedingungen an.",
+              "Im Zug ist meist mehr Platz für Wintergepäck und dicke Mäntel."
+            ],
+            "hu": [
+              "Hidegben várjon inkább az állomás épületében, mint a peronon.",
+              "A menetrendek a téli ünnepek alatt változhatnak.",
+              "Viseljen meleg cipőt, mert a buszok padlója hideg lehet.",
+              "A De Lijn alkalmazás jelzi a téli útviszonyok miatti késéseket.",
+              "A vonaton általában több hely van a vastag téli kabátoknak."
+            ],
+            "ro": [
+              "Pe ger, așteptați în clădirea gării, nu pe peron.",
+              "Orarele pot varia în timpul sărbătorilor de iarnă.",
+              "Purtați încălțăminte călduroasă, podeaua autobuzelor poate fi rece.",
+              "Aplicația De Lijn afișează întârzierile cauzate de condițiile de iarnă.",
+              "În tren este de obicei mai mult loc pentru haine groase de iarnă."
+            ],
+            "en": [
+              "Wait inside the station building rather than on the platform in cold weather.",
+              "Schedules may vary during winter holidays and festivities.",
+              "Wear warm shoes as the floors of the buses can feel cold.",
+              "The De Lijn app shows delays caused by winter road conditions.",
+              "Trains usually offer more space for bulky winter coats and gear."
+            ]
+          }
+        }
       }
     }
   }

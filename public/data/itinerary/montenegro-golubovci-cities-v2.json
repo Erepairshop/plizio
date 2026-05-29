@@ -338,6 +338,170 @@
           "The locals are friendly, don't hesitate to ask for directions.",
           "Be respectful at religious sites and dress appropriately."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt regnerisch auf dem Stadtplatz, wo Cafés Schutz bieten. Ein Besuch der St.-Georgs-Kirche ist ideal für trockene Momente. Trotz Regen wirkt das Zeta-Monument in der grauen Stimmung sehr markant. Am Nachmittag bietet das Morača-Delta eine mystische Nebellandschaft. Den Tag schließen wir mit einem gemütlichen Mittagessen am Flussufer ab, während der Regen gegen die Scheiben prasselt.",
+            "hu": "Az esős reggel a főtéren indul, ahol a kávézók tetői alatt várakozhatunk. A Szent György-templom belső tere tökéletes menedéket nyújt a zápor elől. A Zeta-emlékmű ilyenkor is méltóságteljes a ködös Zeta-síkságon. Délután a Morača-delta misztikus látványt nyújt a szitáló esőben. A napot egy kiadós ebéddel zárjuk a folyóparti étteremben, hallgatva az eső kopogását.",
+            "ro": "Dimineața ploioasă începe în piața centrală, unde cafenelele oferă adăpost. Biserica Sf. Gheorghe este locul ideal pentru a sta la uscat. Monumentul Zeta arată impunător chiar și sub cerul gri. După-amiaza, Delta Morača oferă un peisaj mistic în ceață. Încheiem ziua cu un prânz prelungit la malul râului, bucurându-ne de atmosfera liniștită de interior.",
+            "en": "A rainy morning starts at the town square, where local cafes provide shelter. St. George's Church is the perfect indoor stop to stay dry. The Zeta Monument stands out against the grey skies of the plain. In the afternoon, the Morača Delta creates a mystical atmosphere in the mist. We end the day with a long lunch by the river, watching the rain dance on the water surface."
+          },
+          "stops": [
+            {
+              "name": "Golubovci Town Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden und Cafés am Platz als Regenschutz.",
+                "hu": "Használd a tér kávézóinak árkádjait és teraszait eső elleni védelemnek.",
+                "ro": "Folosiți arcadele și cafenelele din piață pentru a vă proteja de ploaie.",
+                "en": "Use the square's arcades and cafes as shelter from the rain."
+              }
+            },
+            {
+              "name": "St. George's Church",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um den stärksten Schauer abzuwarten.",
+                "hu": "Csendes hely, ideális a hevesebb záporok megvárására.",
+                "ro": "Un loc liniștit, perfect pentru a aștepta trecerea unei averse.",
+                "en": "A peaceful spot, ideal for waiting out a heavy downpour."
+              }
+            },
+            {
+              "name": "Zeta Monument",
+              "tip_5lang": {
+                "de": "Der Beton des Denkmals glänzt im Regen besonders stark.",
+                "hu": "Az emlékmű betonfelületei különösen szépen csillognak az esőben.",
+                "ro": "Suprafețele de beton ale monumentului strălucesc frumos în ploaie.",
+                "en": "The monument's concrete surfaces glisten strikingly in the rain."
+              }
+            },
+            {
+              "name": "Walk towards Morača Delta",
+              "tip_5lang": {
+                "de": "Wasserdichtes Schuhwerk ist für die Uferwege unerlässlich.",
+                "hu": "A folyóparti utakhoz vízálló lábbeli elengedhetetlen.",
+                "ro": "Încălțămintea impermeabilă este esențială pentru potecile de pe mal.",
+                "en": "Waterproof footwear is essential for the riverside paths."
+              }
+            },
+            {
+              "name": "Lunch by the River",
+              "tip_5lang": {
+                "de": "Bestellen Sie eine warme Fischsuppe, um sich aufzuwärmen.",
+                "hu": "Rendelj egy forró hallevest, hogy felmelegedj a séta után.",
+                "ro": "Comandați o ciorbă de pește fierbinte pentru a vă încălzi.",
+                "en": "Order a hot fish soup to warm up after your walk."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein großer Regenschirm ist bei den weiten Wegen in der Zeta-Ebene besser als eine Jacke.",
+              "Die Wege am Fluss können bei Regen schlammig sein, bleiben Sie auf befestigten Pfaden.",
+              "Suchen Sie bei Gewitter sofort Schutz in festen Gebäuden, die Ebene ist sehr offen.",
+              "Lokale Busse können als kurzzeitiger Unterstand genutzt werden."
+            ],
+            "hu": [
+              "A Zeta-síkság nyílt terepén egy stabil esernyő többet ér a széldzsekinél.",
+              "A folyóparti utak sárössé válhatnak, próbálj a kövezett részeken maradni.",
+              "Vihar esetén keress szilárd épületet, a síkságon kevés a természetes fedezék.",
+              "A helyi kávézókban szívesen látnak akkor is, ha csak az eső elől húzódsz be."
+            ],
+            "ro": [
+              "O umbrelă solidă este mai utilă decât o pelerină în spațiile deschise ale câmpiei.",
+              "Potecile de lângă râu pot deveni noroioase, rămâneți pe porțiunile pavate.",
+              "În caz de furtună, adăpostiți-vă imediat într-o clădire, câmpia este foarte expusă.",
+              "Cafenelele locale sunt locuri primitoare pentru a aștepta oprirea ploii."
+            ],
+            "en": [
+              "A sturdy umbrella is often better than a jacket in the open Zeta plain.",
+              "Riverside paths can get muddy; try to stick to paved or gravel sections.",
+              "In case of a storm, seek shelter in a building immediately as the plain is very open.",
+              "Local cafes are welcoming spots to wait for the rain to ease up."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen in Golubovci ist klar und erfrischend. Nach einem kurzen Stopp am Stadtplatz bietet die St.-Georgs-Kirche eine andächtige Atmosphäre. Das Zeta-Monument steht inmitten der kahlen, weiten Landschaft. Am Nachmittag führt der Spaziergang zum Morača-Delta, wo das winterliche Licht des Skutarisees die Natur verzaubert. Ein spätes Mittagessen am Kaminofen schließt den Tag ab, bevor es um 16:30 Uhr dunkel wird.",
+            "hu": "A téli reggel Golubovci főterén frissítő és tiszta. A Szent György-templom meglátogatása után a Zeta-emlékműnél folytatjuk utunkat a kopár, de tágas tájban. Délután a Morača-delta felé sétálva a Shkodrai-tó téli fényei különleges hangulatot árasztanak. A napot egy kályha mellett elköltött ebéddel zárjuk, mielőtt fél ötkor leszáll az alkony a síkságra.",
+            "ro": "Dimineața de iarnă în Golubovci este clară și revigorantă. După piața centrală, Biserica Sf. Gheorghe oferă o atmosferă liniștită. Monumentul Zeta se înalță în peisajul vast și golaș. După-amiaza, plimbarea spre Delta Morača dezvăluie lumina de iarnă a Lacului Skadar. Încheiem ziua cu un prânz lângă sobă, înainte ca întunericul să se lase la ora 16:30.",
+            "en": "The winter morning in Golubovci is crisp and clear. After the town square, St. George's Church provides a serene indoor atmosphere. The Zeta Monument stands tall in the vast, dormant landscape. In the afternoon, the walk to the Morača Delta reveals the unique winter light of Skadar Lake. We finish with a late lunch near a warm stove before the sun sets early at 16:30."
+          },
+          "stops": [
+            {
+              "name": "Golubovci Town Square",
+              "tip_5lang": {
+                "de": "Holen Sie sich einen heißen Kaffee zum Mitnehmen für den Spaziergang.",
+                "hu": "Vegyél egy forró kávét elvitelre a sétához a téren.",
+                "ro": "Luați o cafea fierbinte la pachet pentru plimbarea prin oraș.",
+                "en": "Grab a hot coffee to go from one of the square's bakeries."
+              }
+            },
+            {
+              "name": "St. George's Church",
+              "tip_5lang": {
+                "de": "Die dicken Mauern schützen gut vor dem kalten Nordwind.",
+                "hu": "A vastag templomfalak jól védenek a hideg északi szél ellen.",
+                "ro": "Zidurile groase ale bisericii oferă o protecție bună împotriva vântului.",
+                "en": "The thick church walls provide good shelter from the cold north wind."
+              }
+            },
+            {
+              "name": "Zeta Monument",
+              "tip_5lang": {
+                "de": "Ein sehr windiger Ort im Winter, halten Sie den Aufenthalt kurz.",
+                "hu": "Télen nagyon szeles hely, ne időzz itt túl sokat.",
+                "ro": "Un loc foarte vântos iarna, păstrați vizita scurtă.",
+                "en": "A very windy spot in winter; keep your visit brief to stay warm."
+              }
+            },
+            {
+              "name": "Walk towards Morača Delta",
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Fernsicht auf die schneebedeckten Berge.",
+                "hu": "Élvezd a tiszta kilátást a távoli havas hegycsúcsokra.",
+                "ro": "Bucurați-vă de vizibilitatea clară spre munții înzăpeziți din depărtare.",
+                "en": "Enjoy the clear views of the snow-capped mountains in the distance."
+              }
+            },
+            {
+              "name": "Lunch by the River",
+              "tip_5lang": {
+                "de": "Suchen Sie sich einen Platz direkt am Fenster, um das letzte Licht zu nutzen.",
+                "hu": "Keress helyet az ablak mellett, hogy kihasználd az utolsó fényeket.",
+                "ro": "Găsiți un loc lângă fereastră pentru a profita de ultima lumină.",
+                "en": "Find a table by the window to make the most of the fading light."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Wind in der Zeta-Ebene kann im Winter sehr schneidend sein, tragen Sie einen Schal.",
+              "Die Sonne geht bereits gegen 16:30 Uhr unter, planen Sie das Ende der Tour frühzeitig.",
+              "Vogelbeobachtung im Delta ist im Winter besonders interessant, da viele Arten hier überwintern.",
+              "Die Gehwege können am frühen Morgen durch Reif glatt sein."
+            ],
+            "hu": [
+              "A Zeta-síkságon a téli szél metsző lehet, mindenképp viselj sálat.",
+              "A nap már 16:30 körül nyugszik, fejezd be a szabadtéri programot időben.",
+              "A madármegfigyelés a deltában télen a legérdekesebb az itt telelő fajok miatt.",
+              "Kora reggel a járdák a dér miatt csúszósak lehetnek."
+            ],
+            "ro": [
+              "Vântul de iarnă în câmpia Zeta poate fi tăios, purtați neapărat un fular.",
+              "Soarele apune deja în jur de 16:30, planificați finalul turului devreme.",
+              "Observarea păsărilor în deltă este fascinantă iarna datorită speciilor migratoare.",
+              "Trotuarele pot fi alunecoase dimineața devreme din cauza chiciurei."
+            ],
+            "en": [
+              "Winter winds in the Zeta plain can be biting; a warm scarf is a must.",
+              "The sun sets around 16:30; plan to finish outdoor activities before then.",
+              "Birdwatching in the delta is especially good in winter with many migratory species.",
+              "Pavements can be slippery with frost in the early morning hours."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -694,6 +858,188 @@
           "A helmet is highly recommended.",
           "The landscape is flat, but some basic fitness is helpful."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine nasse Radtour beginnt am Stadtplatz. Die Fahrt zum Morača-Delta erfordert volle Regenmontur, bietet aber eine erfrischende Perspektive auf die flache Landschaft. Im Plavnica Eco Resort finden wir einen überdachten Rastplatz. Nach der Erkundung des Nationalparks wärmen wir uns bei der St.-Georgs-Kirche kurz auf, bevor der Tag mit einem Heißgetränk im Zentrum endet.",
+            "hu": "Egy vizes bringázás indul a főtérről. A Morača-delta felé tartó út teljes esőfelszerelést igényel, de frissítő élmény a sík tájon. A Plavnica Eco Resort fedett pihenőhelyet kínál. A nemzeti park után a Szent György-templomnál tartunk rövid pihenőt, majd a napot egy forró itallal zárjuk a központban.",
+            "ro": "O tură cu bicicleta pe ploaie începe în piață. Drumul spre Delta Morača necesită echipament complet impermeabil, dar oferă o perspectivă proaspătă. Plavnica Eco Resort oferă un popas acoperit. După parcul național, ne încălzim scurt la Biserica Sf. Gheorghe, terminând ziua cu o băutură caldă în centru.",
+            "en": "A wet bike ride kicks off from the town square. The route to the Morača Delta requires full rain gear but offers a refreshing view of the flat plains. Plavnica Eco Resort provides covered resting spots. After exploring the park, we take a quick break at St. George's Church and finish the day with a hot drink in the center."
+          },
+          "stops": [
+            {
+              "name": "Golubovci Town Square",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen, da der Asphalt bei Nässe rutschig ist.",
+                "hu": "Ellenőrizd a fékeket, az aszfalt nedvesen csúszós lehet.",
+                "ro": "Verificați frânele, deoarece asfaltul este alunecos când este ud.",
+                "en": "Check your brakes as the asphalt can be slippery when wet."
+              }
+            },
+            {
+              "name": "Morača Delta",
+              "tip_5lang": {
+                "de": "Vermeiden Sie tiefen Matsch auf den unbefestigten Wegen.",
+                "hu": "Kerüld a mély sarat a nem aszfaltozott utakon.",
+                "ro": "Evitați noroiul adânc pe drumurile neasfaltate.",
+                "en": "Avoid deep mud on the unpaved sections of the delta path."
+              }
+            },
+            {
+              "name": "Plavnica Eco Resort",
+              "tip_5lang": {
+                "de": "Unter den Terrassendächern können Sie Ihr Rad trocken abstellen.",
+                "hu": "A terasztetők alatt szárazon tudod leparkolni a bringát.",
+                "ro": "Puteți parca bicicleta la uscat sub acoperișurile teraselor.",
+                "en": "You can park your bike in the dry under the terrace roofs."
+              }
+            },
+            {
+              "name": "Ride towards Skadar Lake National Park",
+              "tip_5lang": {
+                "de": "Achten Sie auf Pfützen, die tiefe Schlaglöcher verbergen könnten.",
+                "hu": "Vigyázz a tócsákkal, amik mély kátyúkat rejthetnek.",
+                "ro": "Atenție la bălți, care pot ascunde gropi adânci.",
+                "en": "Watch out for puddles that might hide deep potholes."
+              }
+            },
+            {
+              "name": "St. George's Church",
+              "tip_5lang": {
+                "de": "Ein guter Ort, um die Regenkleidung kurz auszuschütteln.",
+                "hu": "Jó hely az esőruha rövid lerázására és pihenésre.",
+                "ro": "Un loc bun pentru a scutura puțin pelerina de ploaie.",
+                "en": "A good spot to briefly shake off your rain gear."
+              }
+            },
+            {
+              "name": "Closing drink at the Town Square",
+              "tip_5lang": {
+                "de": "Genießen Sie den Moment, wenn Sie endlich wieder im Trockenen sitzen.",
+                "hu": "Élvezd a pillanatot, amikor végre száraz helyre kerülsz.",
+                "ro": "Bucurați-vă de momentul în care sunteți din nou la adăpost.",
+                "en": "Enjoy the feeling of finally being back in a dry place."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche am Fahrrad sind bei Regen in der Zeta-Ebene unerlässlich.",
+              "Vermeiden Sie hektische Lenkbewegungen auf nassen Markierungen.",
+              "Eine wasserdichte Handyhülle für die Navigation ist sehr zu empfehlen.",
+              "Planen Sie mehr Zeit für die Bremswege ein."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen az esős Zeta-síksági bringázáshoz.",
+              "Kerüld a hirtelen kormánymozdulatokat a nedves útburkolati jeleken.",
+              "Vízálló telefontok használata erősen ajánlott a navigációhoz.",
+              "Számolj hosszabb fékúttal a nedves aszfalton."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt indispensabile pentru bicicletă pe ploaie.",
+              "Evitați manevrele bruște pe marcajele rutiere umede.",
+              "O husă impermeabilă pentru telefon este foarte recomandată pentru navigație.",
+              "Luați în calcul o distanță de frânare mai mare pe carosabil ud."
+            ],
+            "en": [
+              "Mudguards on your bike are essential for rainy rides in the Zeta plain.",
+              "Avoid sudden steering maneuvers on wet road markings.",
+              "A waterproof phone case for navigation is highly recommended.",
+              "Allow for much longer braking distances on wet asphalt."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Radtour führt durch die weite Ebene bei frischen Temperaturen. Das Morača-Delta zeigt sich im klaren Winterlicht von seiner schönsten Seite. Ein längerer Aufenthalt im Plavnica Eco Resort hilft, die Glieder aufzuwärmen. Die Fahrt zum Skutarisee ist anstrengend, aber lohnend. Nach dem Besuch der St.-Georgs-Kirche kehren wir zum Stadtplatz zurück, um den Tag vor Sonnenuntergang abzuschließen.",
+            "hu": "A téli bringázás friss hőmérsékletben vezet át a tágas síkságon. A Morača-delta a tiszta téli fényben mutatja legszebb arcát. Egy hosszabb pihenő a Plavnica Eco Resortban segít átmelegedni. Az út a Shkodrai-tó felé fárasztó, de megéri. A Szent György-templom után visszatérünk a főtérre, hogy még naplemente előtt befejezzük a túrát.",
+            "ro": "Tura de iarnă cu bicicleta traversează câmpia vastă la temperaturi scăzute. Delta Morača arată superb în lumina clară de iarnă. Un popas prelungit la Plavnica Eco Resort ajută la încălzire. Drumul spre Lacul Skadar este solicitant, dar merită. După vizita la Biserica Sf. Gheorghe, revenim în piață pentru a încheia turul înainte de apus.",
+            "en": "The winter bike tour crosses the vast plain in brisk temperatures. The Morača Delta looks its best in the clear winter light. A longer stop at Plavnica Eco Resort helps warm up your limbs. The ride towards Skadar Lake is demanding but rewarding. After visiting St. George's Church, we return to the town square to finish the tour before sunset."
+          },
+          "stops": [
+            {
+              "name": "Golubovci Town Square",
+              "tip_5lang": {
+                "de": "Tragen Sie Schichten, um sich an die kühle Luft anzupassen.",
+                "hu": "Öltözz rétegesen, hogy alkalmazkodj a hűvös levegőhöz.",
+                "ro": "Purtați mai multe straturi de haine pentru a vă adapta la frig.",
+                "en": "Wear layers to stay comfortable in the cool winter air."
+              }
+            },
+            {
+              "name": "Morača Delta",
+              "tip_5lang": {
+                "de": "Handschuhe sind bei der Fahrt entlang des Wassers ein Muss.",
+                "hu": "A vízpart menti bringázáshoz a kesztyű kötelező.",
+                "ro": "Mănușile sunt obligatorii pentru plimbarea pe lângă apă.",
+                "en": "Gloves are a must-have for the ride along the water."
+              }
+            },
+            {
+              "name": "Plavnica Eco Resort",
+              "tip_5lang": {
+                "de": "Nutzen Sie den beheizten Innenbereich für eine längere Pause.",
+                "hu": "Használd a fűtött belső tereket egy hosszabb pihenőre.",
+                "ro": "Folosiți spațiile interioare încălzite pentru un popas mai lung.",
+                "en": "Take advantage of the heated indoor areas for a longer break."
+              }
+            },
+            {
+              "name": "Ride towards Skadar Lake National Park",
+              "tip_5lang": {
+                "de": "Achten Sie auf das abnehmende Licht am späten Nachmittag.",
+                "hu": "Figyelj a délutáni gyors fénycsökkenésre.",
+                "ro": "Fiți atenți la scăderea vizibilității spre sfârșitul după-amiezii.",
+                "en": "Be mindful of the rapidly fading light in the late afternoon."
+              }
+            },
+            {
+              "name": "St. George's Church",
+              "tip_5lang": {
+                "de": "Kurzer Stopp, um die Muskeln vor dem Endspurt zu dehnen.",
+                "hu": "Rövid megálló az izmok átmozgatására a befutó előtt.",
+                "ro": "Scurtă oprire pentru a vă dezmorți înainte de final.",
+                "en": "Quick stop to stretch your muscles before the final stretch."
+              }
+            },
+            {
+              "name": "Closing drink at the Town Square",
+              "tip_5lang": {
+                "de": "Ein heißer Tee ist jetzt die beste Belohnung.",
+                "hu": "Egy forró tea most a legjobb jutalom.",
+                "ro": "Un ceai fierbinte este cea mai bună recompensă acum.",
+                "en": "A hot tea is the best reward after the cold ride."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme, winddichte Handschuhe und Überschuhe sind im Winter sehr wichtig.",
+              "Stellen Sie sicher, dass Ihre Fahrradbeleuchtung für den frühen Abend funktioniert.",
+              "Die Luftfeuchtigkeit am See macht die Kälte spürbarer als im Ort.",
+              "Trinken Sie auch bei Kälte genug Wasser."
+            ],
+            "hu": [
+              "A meleg, szélálló kesztyű és kamásli elengedhetetlen télen.",
+              "Győződj meg róla, hogy a kerékpárvilágítás működik a korai sötétedéshez.",
+              "A tóparti pára miatt a hideget erősebbnek fogod érezni, mint a városban.",
+              "Hidegben is figyelj a megfelelő folyadékpótlásra."
+            ],
+            "ro": [
+              "Mănușile și protecțiile pentru pantofi rezistente la vânt sunt esențiale.",
+              "Asigurați-vă că luminile bicicletei funcționează pentru seara timpurie.",
+              "Umiditatea de lângă lac face frigul mai pătrunzător decât în oraș.",
+              "Hidratați-vă corespunzător chiar dacă este frig afară."
+            ],
+            "en": [
+              "Warm, windproof gloves and shoe covers are very important in winter.",
+              "Ensure your bike lights are working for the early sunset.",
+              "Humidity near the lake makes the cold feel sharper than in town.",
+              "Keep hydrating even if you don't feel as thirsty in the cold."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1074,6 +1420,206 @@
           "A GPS is highly recommended as signage can sometimes be unclear.",
           "Always have some cash for parking fees or small purchases."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Autotour bei Regen bietet den Komfort, die Zeta-Ebene trocken zu erkunden. Nach der Kirche geht es zur Festung Lesendro, wo die Ruinen im Regen dramatisch wirken. Der Aussichtspunkt Vranjina bietet trotz Wolken einen weiten Blick. Ein langes Mittagessen am See ist das Highlight, gefolgt von einem Besuch im Plavnica Eco Resort. Der Tag endet sicher zurück in Golubovci.",
+            "hu": "Az esős autós túra kényelmes módot kínál a Zeta-síkság felfedezésére. A templom után a Lesendro-erőd következik, ahol a romok drámai látványt nyújtanak az esőben. A Vranjina kilátópontról a felhők ellenére is messzire ellátni. Egy hosszú tóparti ebéd a nap fénypontja, majd a Plavnica Eco Resort következik. A nap biztonságban zárul Golubovciban.",
+            "ro": "Turul cu mașina pe ploaie oferă confortul explorării Câmpiei Zeta fără a vă uda. După biserică, mergem la Cetatea Lesendro, unde ruinele par dramatice în ploaie. Belvedere Vranjina oferă o priveliște vastă chiar și cu nori. Un prânz prelungit lângă lac este punctul culminant, urmat de Plavnica Eco Resort. Ziua se încheie în siguranță la Golubovci.",
+            "en": "The rainy car tour provides a comfortable way to see the Zeta plain while staying dry. After the church, we head to Lesendro Fortress, where the ruins look dramatic in the rain. Vranjina Viewpoint offers expansive views despite the clouds. A long lakeside lunch is the highlight, followed by Plavnica Eco Resort. The day ends safely back in Golubovci."
+          },
+          "stops": [
+            {
+              "name": "Golubovci Town Square & Parking",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Café-Eingang, um trocken zu bleiben.",
+                "hu": "Parkolj közel a kávézó bejáratához, hogy száraz maradj.",
+                "ro": "Parcați aproape de intrarea cafenelei pentru a nu vă uda.",
+                "en": "Park close to the cafe entrance to minimize time in the rain."
+              }
+            },
+            {
+              "name": "St. George's Church",
+              "tip_5lang": {
+                "de": "Der kurze Weg vom Parkplatz ist gut befestigt.",
+                "hu": "A parkolótól a templomig vezető rövid út jól járható esőben is.",
+                "ro": "Drumul scurt de la parcare la biserică este bine amenajat.",
+                "en": "The short path from the parking lot to the church is well-paved."
+              }
+            },
+            {
+              "name": "Lesendro Fortress",
+              "tip_5lang": {
+                "de": "Vorsicht auf den rutschigen Steinen der Ruine.",
+                "hu": "Vigyázz a romok csúszós kövein.",
+                "ro": "Atenție pe pietrele alunecoase ale cetății.",
+                "en": "Be extra careful on the slippery stones of the fortress ruins."
+              }
+            },
+            {
+              "name": "Vranjina Viewpoint",
+              "tip_5lang": {
+                "de": "Genießen Sie den Ausblick direkt aus dem trockenen Auto.",
+                "hu": "Élvezd a kilátást közvetlenül a száraz autóból.",
+                "ro": "Bucurați-vă de priveliște direct din mașină.",
+                "en": "Enjoy the panoramic views directly from the dry car."
+              }
+            },
+            {
+              "name": "Lunch at a lakeside restaurant",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit Panoramafenstern zum See.",
+                "hu": "Válassz panorámaablakos éttermet a tóparton.",
+                "ro": "Alegeți un restaurant cu ferestre panoramice spre lac.",
+                "en": "Choose a restaurant with large windows overlooking the lake."
+              }
+            },
+            {
+              "name": "Plavnica Eco Resort",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Durchgang zum Restaurant.",
+                "hu": "Használd a fedett átjárót az étterem felé.",
+                "ro": "Folosiți culoarul acoperit spre restaurant.",
+                "en": "Use the covered walkway leading to the restaurant."
+              }
+            },
+            {
+              "name": "Return to Golubovci",
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig bei Aquaplaning-Gefahr auf der Schnellstraße.",
+                "hu": "Vezess óvatosan, a főúton fennáll az aquaplaning veszélye.",
+                "ro": "Conduceți cu prudență, există risc de acvaplanare pe drumul principal.",
+                "en": "Drive cautiously as there is a risk of aquaplaning on the main road."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die E80 kann bei starkem Regen viel Gischt von LKWs haben.",
+              "Halten Sie die Scheinwerfer auch tagsüber eingeschaltet.",
+              "Einige Parkplätze am See können bei Dauerregen unter Wasser stehen.",
+              "Nutzen Sie die Scheibenheizung gegen Beschlagen."
+            ],
+            "hu": [
+              "Az E80-as úton erős esőben nagy lehet a kamionok által felvert víz.",
+              "Napközben is tartsd bekapcsolva a fényszórókat a látni és látszani elv alapján.",
+              "Néhány tóparti parkoló víz alá kerülhet tartós esőzés után.",
+              "Használd a páramentesítőt a szélvédőn."
+            ],
+            "ro": [
+              "Pe drumul E80, camioanele pot ridica multă apă în timpul ploii.",
+              "Păstrați farurile aprinse și pe timpul zilei pentru vizibilitate.",
+              "Unele parcări de lângă lac pot fi inundate după ploi persistente.",
+              "Folosiți funcția de dezaburire pentru parbriz."
+            ],
+            "en": [
+              "The E80 road can have a lot of spray from trucks during heavy rain.",
+              "Keep your headlights on even during the day for better visibility.",
+              "Some lakeside parking areas can get flooded after persistent rain.",
+              "Use the windshield defroster to keep your vision clear."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Autotour führt durch die schlafende Zeta-Ebene. Nach dem Stadtplatz bietet die St.-Georgs-Kirche einen Moment der Stille. Die Festung Lesendro steht einsam im Skutarisee. Der Vranjina-Aussichtspunkt zeigt die schneebedeckten Gipfel Albaniens in der Ferne. Ein warmes Mittagessen am See bereitet auf den Nachmittag im Plavnica Eco Resort vor. Wir kehren bei Einbruch der Dunkelheit nach Golubovci zurück.",
+            "hu": "A téli autós túra az alvó Zeta-síkságon át vezet. A főtér után a Szent György-templom kínál csendes perceket. A Lesendro-erőd magányosan áll a Shkodrai-tóban. A Vranjina kilátópontról látszanak Albánia havas csúcsai a távolban. Egy meleg tóparti ebéd után a Plavnica Eco Resort következik, majd sötétedéskor visszatérünk Golubovciba.",
+            "ro": "Turul de iarnă cu mașina trece prin Câmpia Zeta adormită. După piață, Biserica Sf. Gheorghe oferă momente de liniște. Cetatea Lesendro stă solitară în Lacul Skadar. Belvedere Vranjina dezvăluie vârfurile înzăpezite ale Albaniei în depărtare. Un prânz cald lângă lac precede vizita la Plavnica Eco Resort, revenind la Golubovci la lăsarea serii.",
+            "en": "The winter car tour passes through the dormant Zeta plain. After the square, St. George's Church offers moments of silence. Lesendro Fortress stands lonely in Skadar Lake. Vranjina Viewpoint reveals the snow-capped peaks of Albania in the distance. A warm lakeside lunch precedes a visit to Plavnica Eco Resort, returning to Golubovci by nightfall."
+          },
+          "stops": [
+            {
+              "name": "Golubovci Town Square & Parking",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Reifendruck vor dem Start in die Kälte.",
+                "hu": "Ellenőrizd a guminyomást a hidegben való indulás előtt.",
+                "ro": "Verificați presiunea în anvelope înainte de a pleca la drum prin frig.",
+                "en": "Check your tire pressure before heading out into the cold."
+              }
+            },
+            {
+              "name": "St. George's Church",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe ohne die üblichen Touristenmassen.",
+                "hu": "Élvezd a nyugalmat a szokásos turistatömeg nélkül.",
+                "ro": "Bucurați-vă de liniște fără mulțimile obișnuite de turiști.",
+                "en": "Enjoy the peace and quiet without the usual tourist crowds."
+              }
+            },
+            {
+              "name": "Lesendro Fortress",
+              "tip_5lang": {
+                "de": "Tragen Sie eine windfeste Jacke für den Aufenthalt an der Brücke.",
+                "hu": "Viselj szélálló dzsekit a híd melletti megállóhoz.",
+                "ro": "Purtați o jachetă rezistentă la vânt pentru oprirea de lângă pod.",
+                "en": "Wear a windproof jacket for the stop near the bridge."
+              }
+            },
+            {
+              "name": "Vranjina Viewpoint",
+              "tip_5lang": {
+                "de": "Die Winterluft macht die Fernsicht heute besonders klar.",
+                "hu": "A téli levegő miatt a távoli kilátás ma különösen tiszta.",
+                "ro": "Aerul de iarnă face ca vizibilitatea la distanță să fie excelentă.",
+                "en": "The crisp winter air makes the distant views exceptionally clear today."
+              }
+            },
+            {
+              "name": "Lunch at a lakeside restaurant",
+              "tip_5lang": {
+                "de": "Fragen Sie nach regionalen Spezialitäten wie geräuchertem Karpfen.",
+                "hu": "Kérdezz rá a helyi specialitásokra, például a füstölt pontyra.",
+                "ro": "Întrebați de specialitățile locale, cum ar fi crapul afumat.",
+                "en": "Ask for regional specialties like smoked carp."
+              }
+            },
+            {
+              "name": "Plavnica Eco Resort",
+              "tip_5lang": {
+                "de": "Die Gärten sind auch im Winter für einen kurzen Spaziergang schön.",
+                "hu": "A kertek télen is szépek egy rövid sétához.",
+                "ro": "Grădinile sunt frumoase pentru o scurtă plimbare chiar și iarna.",
+                "en": "The gardens are still lovely for a short stroll even in winter."
+              }
+            },
+            {
+              "name": "Return to Golubovci",
+              "tip_5lang": {
+                "de": "Achten Sie auf Nebelfelder in der Nähe des Sees.",
+                "hu": "Figyelj a tó környékén kialakuló ködfoltokra.",
+                "ro": "Atenție la porțiunile cu ceață din apropierea lacului.",
+                "en": "Watch out for patches of fog near the lake area."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Frostschutzmittel im Scheibenwischwasser ist auch in Montenegro ratsam.",
+              "Die Straßen am Seeufer können am frühen Morgen glatt sein.",
+              "Besuchen Sie die Aussichtspunkte vor 16:00 Uhr für das beste Fotolicht.",
+              "Haben Sie immer eine Decke im Auto."
+            ],
+            "hu": [
+              "A szélvédőmosó folyadék fagyállósága Montenegróban is fontos télen.",
+              "A tóparti utak kora reggel jegesek lehetnek.",
+              "Látogasd meg a kilátópontokat 16:00 előtt a legjobb fotófényekért.",
+              "Mindig tarts egy takarót az autóban."
+            ],
+            "ro": [
+              "Lichidul de parbriz antigel este necesar și în Muntenegru pe timp de iarnă.",
+              "Drumurile de pe malul lacului pot fi înghețate dimineața devreme.",
+              "Vizitați punctele de belvedere înainte de ora 16:00 pentru cea mai bună lumină.",
+              "Păstrați întotdeauna o pătură în mașină."
+            ],
+            "en": [
+              "Antifreeze in your windshield washer fluid is recommended even in Montenegro.",
+              "Lakeside roads can be icy in the early morning hours.",
+              "Visit the viewpoints before 16:00 for the best photographic light.",
+              "Always keep a warm blanket in the car just in case."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1081,7 +1627,7 @@
       "speed_kmh": 15,
       "start": "09:00",
       "end_estimate": "17:49",
-      "total_km": 25.0,
+      "total_km": 15.0,
       "stop_count": 5,
       "stops": [
         {
@@ -1406,6 +1952,170 @@
           "Ask the driver where you need to get off for your destination.",
           "Be flexible. Schedules can change or buses can be delayed."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Tour mit öffentlichen Verkehrsmitteln startet am Busbahnhof von Golubovci. Die Busfahrt nach Vranjina bietet Schutz vor dem Regen und eine gute Sicht auf die Zeta-Ebene. In Vranjina angekommen, ist der Aussichtspunkt nur einen kurzen Gang entfernt. Nach einem ausgiebigen Mittagessen im Dorf kehren wir mit dem Bus zurück und erkunden das Zentrum von Golubovci unter dem Regenschirm.",
+            "hu": "A tömegközlekedéses túra a golubovci buszállomásról indul. A Vranjina felé tartó buszút védelmet nyújt az eső elől és jó rálátást a Zeta-síkságra. Vranjinába érve a kilátópont csak egy rövid séta. Egy kiadós falusi ebéd után busszal térünk vissza, és esernyővel a kezünkben fedezzük fel Golubovci központját.",
+            "ro": "Turul cu transportul public pornește de la autogara din Golubovci. Călătoria spre Vranjina oferă adăpost de ploaie și o vedere bună asupra Câmpiei Zeta. Odată ajunși în Vranjina, belvederea este la doar câțiva pași. După un prânz sățios în sat, revenim cu autobuzul și explorăm centrul cu umbrela.",
+            "en": "The transit tour starts at the Golubovci bus station. The bus ride to Vranjina provides a dry sanctuary and great views of the Zeta plain. Upon reaching Vranjina, the viewpoint is just a short walk away. After a hearty lunch in the village, we return by bus and explore the center of Golubovci under an umbrella."
+          },
+          "stops": [
+            {
+              "name": "Start at Golubovci Bus Station",
+              "tip_5lang": {
+                "de": "Warten Sie im überdachten Bereich des Bahnhofs.",
+                "hu": "Várj a buszállomás fedett várótermében vagy peronján.",
+                "ro": "Așteptați în zona acoperită a autogării.",
+                "en": "Wait in the covered area of the bus station."
+              }
+            },
+            {
+              "name": "Bus ride to Vranjina",
+              "tip_5lang": {
+                "de": "Setzen Sie sich auf die rechte Seite für den besten Blick auf den See.",
+                "hu": "Ülj a jobb oldalra a legjobb tóparti kilátásért.",
+                "ro": "Așezați-vă pe partea dreaptă pentru cea mai bună vedere spre lac.",
+                "en": "Sit on the right side for the best lakeside views during the ride."
+              }
+            },
+            {
+              "name": "Vranjina Viewpoint",
+              "tip_5lang": {
+                "de": "Ein schneller Stopp für Fotos, bevor der nächste Schauer kommt.",
+                "hu": "Gyors fotómegálló, mielőtt megérkezik a következő zápor.",
+                "ro": "O oprire rapidă pentru poze înainte de următoarea aversă.",
+                "en": "A quick photo stop before the next shower arrives."
+              }
+            },
+            {
+              "name": "Lunch and walk in Vranjina",
+              "tip_5lang": {
+                "de": "Genießen Sie die gemütliche Atmosphäre im Dorfgasthaus.",
+                "hu": "Élvezd a falu fogadójának barátságos, esőmentes hangulatát.",
+                "ro": "Bucurați-vă de atmosfera primitoare din hanul satului.",
+                "en": "Enjoy the cozy atmosphere of the village inn away from the rain."
+              }
+            },
+            {
+              "name": "Return ride and exploration of Golubovci center",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Busfahrt, um die Kleidung zu trocknen.",
+                "hu": "Használd ki a buszutat a ruházatod szárítására.",
+                "ro": "Profitați de drumul cu autobuzul pentru a vă usca hainele.",
+                "en": "Use the bus ride as a chance to dry off your gear."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie die Busabfahrtszeiten online, da es bei Regen zu Verzögerungen kommen kann.",
+              "Tragen Sie rutschfeste Schuhe für den Ein- und Ausstieg.",
+              "Haben Sie Kleingeld für das Busticket bereit.",
+              "Der Busbahnhof in Golubovci bietet kleine Kioske für Snacks."
+            ],
+            "hu": [
+              "Ellenőrizd a buszmenetrendet, esőben előfordulhatnak kisebb késések.",
+              "Viselj csúszásmentes cipőt a fel- és leszálláshoz.",
+              "Legyen nálad aprópénz a buszjegyhez.",
+              "A golubovci buszmegállóban vannak kis bódék harapnivalóért."
+            ],
+            "ro": [
+              "Verificați mersul autobuzelor, ploile pot cauza mici întârzieri.",
+              "Purtați încălțăminte antiderapantă pentru urcare și coborâre.",
+              "Aveți pregătit numerar pentru biletul de autobuz.",
+              "Autogara din Golubovci are chioșcuri pentru gustări rapide."
+            ],
+            "en": [
+              "Check bus schedules online; rain can sometimes cause minor delays.",
+              "Wear non-slip shoes for safe boarding and alighting.",
+              "Have small change ready for the bus ticket.",
+              "Golubovci bus station has small kiosks for snacks while you wait."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen am Busbahnhof von Golubovci beginnt die Tour. Die Fahrt nach Vranjina zeigt die winterliche Pracht des Skutarisees durch das Busfenster. In Vranjina ist die Luft klar und bietet eine perfekte Fernsicht vom Aussichtspunkt. Nach einem wärmenden Mittagessen im Dorf führt die Rückfahrt zurück ins Zentrum von Golubovci, wo wir die Tour vor der frühen Dunkelheit beenden.",
+            "hu": "A túra egy friss téli reggelen indul a golubovci buszállomásról. A Vranjina felé tartó út során a busz ablakából csodálhatjuk meg a Shkodrai-tó téli arcát. Vranjinában a levegő tiszta, tökéletes a kilátás a dombtetőről. Egy melegítő falusi ebéd után a busz visszavisz Golubovci központjába, ahol még sötétedés előtt befejezzük a programot.",
+            "ro": "Turul începe într-o dimineață răcoroasă de iarnă la autogara din Golubovci. Drumul spre Vranjina dezvăluie splendoarea de iarnă a Lacului Skadar prin fereastra autobuzului. În Vranjina, aerul este clar, oferind o priveliște perfectă. După un prânz cald în sat, revenim în centrul orașului Golubovci pentru a încheia turul înainte de lăsarea întunericului.",
+            "en": "A crisp winter morning at the Golubovci bus station starts the tour. The ride to Vranjina showcases the winter splendor of Skadar Lake through the bus window. In Vranjina, the air is clear, offering perfect views from the lookout point. After a warming village lunch, the return trip takes us back to Golubovci center to finish before the early nightfall."
+          },
+          "stops": [
+            {
+              "name": "Start at Golubovci Bus Station",
+              "tip_5lang": {
+                "de": "Trinken Sie einen heißen Tee im Café am Bahnhof.",
+                "hu": "Igyál egy forró teát az állomás melletti kávézóban.",
+                "ro": "Beți un ceai fierbinte la cafeneaua din autogară.",
+                "en": "Have a hot tea at the station's cafe while waiting."
+              }
+            },
+            {
+              "name": "Bus ride to Vranjina",
+              "tip_5lang": {
+                "de": "Die Heizung im Bus macht die Fahrt sehr angenehm.",
+                "hu": "A busz fűtése nagyon kellemessé teszi az utazást.",
+                "ro": "Căldura din autobuz face călătoria foarte plăcută.",
+                "en": "The bus heating makes the ride very comfortable in winter."
+              }
+            },
+            {
+              "name": "Vranjina Viewpoint",
+              "tip_5lang": {
+                "de": "Die klare Winterluft ermöglicht Sicht bis tief nach Albanien.",
+                "hu": "A tiszta téli levegőben ellátni egészen Albániáig.",
+                "ro": "Aerul clar de iarnă permite vizibilitatea până în Albania.",
+                "en": "The clear winter air allows for views deep into Albania."
+              }
+            },
+            {
+              "name": "Lunch and walk in Vranjina",
+              "tip_5lang": {
+                "de": "Probieren Sie den lokalen Wein, er wärmt von innen.",
+                "hu": "Kóstold meg a helyi bort, belülről melenget.",
+                "ro": "Gustați vinul local, vă va încălzi din interior.",
+                "en": "Try some local wine; it's great for warming up from the inside."
+              }
+            },
+            {
+              "name": "Return ride and exploration of Golubovci center",
+              "tip_5lang": {
+                "de": "Beenden Sie den Spaziergang, bevor es gegen 16:30 Uhr kühler wird.",
+                "hu": "Fejezd be a sétát, mielőtt 16:30 körül lehűl a levegő.",
+                "ro": "Încheiați plimbarea înainte ca temperatura să scadă după 16:30.",
+                "en": "Wrap up your walk before it gets colder around 16:30."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterfahrpläne können weniger häufige Verbindungen haben.",
+              "Warten Sie im Innenraum, wenn der Bus Verspätung hat.",
+              "Tragen Sie warme Socken, da es an den Haltestellen ziehen kann.",
+              "Nutzen Sie die frühen Nachmittagsstunden für die besten Lichtverhältnisse."
+            ],
+            "hu": [
+              "A téli menetrendben ritkábbak lehetnek a járatok.",
+              "Várj zárt térben, ha késik a busz.",
+              "Viselj meleg zoknit, a buszmegállókban huzatos lehet.",
+              "Használd ki a kora délutáni órákat a legjobb fényviszonyokhoz."
+            ],
+            "ro": [
+              "Mersul autobuzelor pe timp de iarnă poate fi mai rar.",
+              "Așteptați în interior dacă autobuzul are întârziere.",
+              "Purtați șosete groase, poate fi curent în stațiile de autobuz.",
+              "Profitați de orele prânzului pentru cele mai bune condiții de lumină."
+            ],
+            "en": [
+              "Winter schedules might have less frequent bus connections.",
+              "Wait inside a cafe if the bus is running late.",
+              "Wear warm socks as bus stops can be quite drafty.",
+              "Make the most of the early afternoon for the best natural light."
+            ]
+          }
+        }
       }
     }
   }

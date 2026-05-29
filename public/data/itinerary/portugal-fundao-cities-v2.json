@@ -379,6 +379,206 @@
           "Always keep some cash on you, as smaller cafes might not accept cards.",
           "A light scarf or jacket is useful even on warm days for entering churches."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag am Rathausplatz, wo die Arkaden Schutz vor dem Regen bieten. Mittags lädt das archäologische Museum zu einer langen, trockenen Entdeckungstour ein. Am Nachmittag ist die Stadtbibliothek der perfekte Ort zum Verweilen, während draußen der Regen auf das Dach prasselt. Den Abend lassen Sie gemütlich in einem der traditionellen Cafés im historischen Zentrum ausklingen.",
+            "hu": "Kezdje a napot a Városháza téren, ahol az árkádok menedéket nyújtanak az eső elől. Délben a régészeti múzeum belső terei hívogatnak egy hosszú, száraz felfedezésre. Délután a városi könyvtár tökéletes hely a megpihenéshez, miközben kint kopog az eső. Az estét töltse egy hangulatos, hagyományos kávézóban a történelmi központ védelmében.",
+            "ro": "Începeți ziua în Piața Municipiului, unde arcadele oferă adăpost împotriva ploii. La prânz, muzeul arheologic vă invită la o explorare lungă și uscată în interior. După-amiaza, biblioteca municipală este locul perfect pentru a vă relaxa în timp ce ploaia cade afară. Încheiați seara confortabil într-una dintre cafenelele tradiționale din centrul istoric.",
+            "en": "Start your day at the Town Hall Square, where the arcades offer shelter from the rain. At noon, the archaeological museum invites you for a long, dry indoor exploration. In the afternoon, the municipal library is the perfect place to rest while the rain drums outside. Spend the evening in a cozy, traditional café in the protected historic center."
+          },
+          "stops": [
+            {
+              "name": "Praça do Município (Town Hall Square)",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden der umliegenden Gebäude, um trocken zu bleiben.",
+                "hu": "Használja a környező épületek árkádjait, hogy szárazon maradjon.",
+                "ro": "Folosiți arcadele clădirilor din jur pentru a rămâne uscat.",
+                "en": "Use the arcades of the surrounding buildings to stay dry."
+              }
+            },
+            {
+              "name": "Pillory of Fundão",
+              "tip_5lang": {
+                "de": "Ein kurzes Foto unter dem Regenschirm reicht hier völlig aus.",
+                "hu": "Egy gyors fotó az esernyő alól itt bőven elegendő.",
+                "ro": "O fotografie rapidă de sub umbrelă este suficientă aici.",
+                "en": "A quick photo from under your umbrella is plenty here."
+              }
+            },
+            {
+              "name": "Mother Church of Fundão",
+              "tip_5lang": {
+                "de": "Das prächtige Innere bietet einen idealen Rückzugsort vor dem Guss.",
+                "hu": "A pompás belső tér ideális menedéket nyújt a zápor elől.",
+                "ro": "Interiorul splendid oferă un refugiu ideal în fața ploii.",
+                "en": "The splendid interior offers an ideal retreat from the downpour."
+              }
+            },
+            {
+              "name": "José Monteiro Archaeological Museum",
+              "tip_5lang": {
+                "de": "Perfekt für Regentage: Verweilen Sie ausgiebig in den Ausstellungsräumen.",
+                "hu": "Tökéletes esős napokra: időzzön el hosszan a kiállítótermekben.",
+                "ro": "Perfect pentru zilele ploioase: zăboviți mult în sălile de expoziție.",
+                "en": "Perfect for rainy days: spend plenty of time in the exhibition rooms."
+              }
+            },
+            {
+              "name": "Solar dos Falcões",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Fassade schnell und suchen Sie dann das nächste Café.",
+                "hu": "Csodálja meg gyorsan a homlokzatot, majd keressen egy közeli kávézót.",
+                "ro": "Admirați rapid fațada și apoi căutați cea mai apropiată cafenea.",
+                "en": "Admire the facade quickly and then find the nearest café."
+              }
+            },
+            {
+              "name": "Eugénio de Andrade Municipal Library",
+              "tip_5lang": {
+                "de": "Ein wunderbarer Ort, um bei einem Buch auf besseres Wetter zu warten.",
+                "hu": "Csodálatos hely, hogy egy könyv mellett várja meg a jobb időt.",
+                "ro": "Un loc minunat pentru a aștepta vremea mai bună cu o carte.",
+                "en": "A wonderful place to wait for better weather with a book."
+              }
+            },
+            {
+              "name": "Green Park of Fundão",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den Pavillons oder den dichten Bäumen.",
+                "hu": "Keressen menedéket a pavilonok alatt vagy a sűrű lombok között.",
+                "ro": "Căutați adăpost sub pavilioane sau sub copacii deși.",
+                "en": "Seek shelter under the pavilions or the dense trees."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da das Kopfsteinpflaster rutschig wird.",
+              "Die Museen in Fundão sind montags oft geschlossen, prüfen Sie das vorher.",
+              "Nutzen Sie die vielen Cafés für kurze Aufwärmpausen.",
+              "Ein stabiler Regenschirm ist wegen des Windes in der Region wichtig."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert a macskaköves utcák csúszóssá válnak.",
+              "A fundãoi múzeumok hétfőnként gyakran zárva tartanak, ellenőrizze előre.",
+              "Használja ki a sok kávézót rövid melegedő szünetekre.",
+              "A régióban fújó szél miatt fontos egy stabil esernyő."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, deoarece pavajul devine alunecos.",
+              "Muzeele din Fundão sunt adesea închise lunea, verificați înainte.",
+              "Profitați de numeroasele cafenele pentru scurte pauze de încălzire.",
+              "O umbrelă stabilă este importantă din cauza vântului din regiune."
+            ],
+            "en": [
+              "Wear waterproof shoes as the cobblestone streets become slippery.",
+              "Museums in Fundão are often closed on Mondays; check in advance.",
+              "Take advantage of the many cafés for short warm-up breaks.",
+              "A sturdy umbrella is important due to the winds in the region."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie den winterlichen Charme Fundãos bei klarer, kalter Luft. Morgens wärmt der Besuch der Hauptkirche Geist und Körper. Das archäologische Museum bietet mittags eine willkommene Pause von der Kälte draußen. Da es bereits gegen 17:30 Uhr dunkel wird, verbringen Sie den späten Nachmittag in der gemütlichen Stadtbibliothek, bevor Sie den Tag bei einem Glas lokalem Wein beenden.",
+            "hu": "Fedezze fel Fundão téli báját a tiszta, hideg levegőn sétálva. Reggel a főtemplom látogatása melengeti meg a lelket és a testet. A régészeti múzeum délben kellemes pihenőt nyújt a kinti hideg elől. Mivel már 17:30 körül sötétedik, a késő délutánt töltse a hangulatos városi könyvtárban, mielőtt egy pohár helyi borral zárná a napot.",
+            "ro": "Experimentați farmecul iernatic al orașului Fundão în aerul rece și curat. Dimineața, vizitarea bisericii principale vă încălzește spiritul și corpul. Muzeul arheologic oferă la prânz o pauză binevenită de frigul de afară. Deoarece se întunecă deja în jurul orei 17:30, petreceți după-amiaza târzie în biblioteca municipală înainte de a încheia ziua cu un pahar de vin local.",
+            "en": "Experience Fundão's winter charm while walking in the clear, cold air. In the morning, a visit to the Mother Church warms both spirit and body. The archaeological museum provides a welcome noon break from the cold outside. Since it gets dark around 5:30 PM, spend the late afternoon in the cozy municipal library before ending the day with a glass of local wine."
+          },
+          "stops": [
+            {
+              "name": "Praça do Município (Town Hall Square)",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp für Fotos, dann schnell weiter in die Wärme.",
+                "hu": "Egy rövid megálló fotózni, aztán irány gyorsan a meleg.",
+                "ro": "O scurtă oprire pentru fotografii, apoi mergeți repede la căldură.",
+                "en": "A quick stop for photos, then move on quickly to the warmth."
+              }
+            },
+            {
+              "name": "Pillory of Fundão",
+              "tip_5lang": {
+                "de": "Das Denkmal wirkt im klaren Winterlicht besonders scharf.",
+                "hu": "Az emlékmű a tiszta téli fényben különösen élesen mutat.",
+                "ro": "Monumentul arată deosebit de clar în lumina rece de iarnă.",
+                "en": "The monument looks especially sharp in the clear winter light."
+              }
+            },
+            {
+              "name": "Mother Church of Fundão",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Stille und die relative Wärme des Kirchenraums.",
+                "hu": "Élvezze a templomtér csendjét és relatív melegét.",
+                "ro": "Bucurați-vă de liniștea și căldura relativă a spațiului bisericii.",
+                "en": "Enjoy the silence and relative warmth of the church interior."
+              }
+            },
+            {
+              "name": "José Monteiro Archaeological Museum",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die kältesten Stunden des Tages drinnen zu verbringen.",
+                "hu": "Ideális hely, hogy a nap leghidegebb óráit bent töltse.",
+                "ro": "Un loc ideal pentru a petrece cele mai reci ore ale zilei în interior.",
+                "en": "An ideal place to spend the coldest hours of the day indoors."
+              }
+            },
+            {
+              "name": "Solar dos Falcões",
+              "tip_5lang": {
+                "de": "Die Steinmetzarbeiten sind auch im Winter sehenswert.",
+                "hu": "A kőfaragások télen is érdemesek a megtekintésre.",
+                "ro": "Sculpturile în piatră merită văzute chiar și iarna.",
+                "en": "The stonework is well worth seeing even in winter."
+              }
+            },
+            {
+              "name": "Eugénio de Andrade Municipal Library",
+              "tip_5lang": {
+                "de": "Die beste Adresse für einen warmen, kulturellen Nachmittag.",
+                "hu": "A legjobb hely egy meleg, kulturált délutánhoz.",
+                "ro": "Cea mai bună locație pentru o după-amiază culturală călduroasă.",
+                "en": "The best location for a warm, cultured afternoon."
+              }
+            },
+            {
+              "name": "Green Park of Fundão",
+              "tip_5lang": {
+                "de": "Ein zügiger Spaziergang hält den Kreislauf in Schwung.",
+                "hu": "Egy tempós séta mozgásban tartja a vérkeringést.",
+                "ro": "O plimbare vioaie menține circulația sângelui activă.",
+                "en": "A brisk walk keeps the circulation going."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Zwiebelprinzip bei der Kleidung: draußen kalt, drinnen oft gut geheizt.",
+              "Die Sonne geht früh unter (ca. 17:30), planen Sie Außenstopps davor.",
+              "Probieren Sie geröstete Kastanien, eine lokale Spezialität im Winter.",
+              "Achten Sie auf Schattenplätze, dort bleibt es deutlich kühler."
+            ],
+            "hu": [
+              "Réteges öltözködés javasolt: kint hideg van, bent gyakran jól fűtenek.",
+              "A nap korán lebukik (kb. 17:30), a kinti megállókat tervezze korábbra.",
+              "Kóstolja meg a sült gesztenyét, ami helyi téli különlegesség.",
+              "Ügyeljen az árnyékos helyekre, ott jelentősen hűvösebb marad."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi: afară este frig, interiorul este adesea bine încălzit.",
+              "Soarele apune devreme (aprox. 17:30), planificați opririle exterioare înainte.",
+              "Gustați castanele coapte, o specialitate locală în timpul iernii.",
+              "Atenție la locurile umbrite, acolo rămâne considerabil mai rece."
+            ],
+            "en": [
+              "Layered clothing is recommended: cold outside, often well-heated inside.",
+              "Sunset is early (approx. 5:30 PM); plan outdoor stops before then.",
+              "Try the roasted chestnuts, a local winter specialty.",
+              "Watch out for shaded areas, as they remain significantly cooler."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -752,6 +952,206 @@
           "Bring plenty of water, especially on hot days.",
           "A good lock is essential for when you leave your bike to explore sights."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert Vorsicht auf dem Kopfsteinpflaster von Fundão. Starten Sie vorsichtig am Rathausplatz und nutzen Sie die Kirchen für trockene Pausen. Mittags bietet das archäologische Museum eine lange Erholung für Mensch und Material. Nachmittags ist die Bibliothek ein guter Ankerpunkt, bevor Sie den Tag mit einer vorsichtigen Fahrt zum Hotel beenden.",
+            "hu": "Az esőben való biciklizés óvatosságot igényel Fundão macskakövein. Kezdjen óvatosan a Városháza téren, és használja a templomokat száraz szünetekre. Délben a régészeti múzeum hosszú pihenőt nyújt embernek és gépnek egyaránt. Délután a könyvtár jó bázis, mielőtt óvatos tekeréssel visszatérne a szállására.",
+            "ro": "Mersul pe bicicletă în ploaie necesită prudență pe pavajul din Fundão. Începeți cu atenție în Piața Municipiului și folosiți bisericile pentru pauze uscate. La prânz, muzeul arheologic oferă o odihnă lungă pentru om și echipament. După-amiaza, biblioteca este un punct bun de ancorare înainte de a încheia ziua cu o cursă precaută.",
+            "en": "Cycling in the rain requires caution on Fundão's cobblestones. Start carefully at the Town Hall Square and use the churches for dry breaks. At noon, the archaeological museum offers a long rest for both person and gear. In the afternoon, the library is a good anchor point before ending the day with a cautious ride."
+          },
+          "stops": [
+            {
+              "name": "Praça do Município (Town Hall Square)",
+              "tip_5lang": {
+                "de": "Vorsicht beim Absteigen auf nassem Granitpflaster.",
+                "hu": "Vigyázat a leszálláskor a nedves gránitburkolaton.",
+                "ro": "Atenție la coborâre pe pavajul de granit umed.",
+                "en": "Be careful when dismounting on wet granite pavement."
+              }
+            },
+            {
+              "name": "Mother Church of Fundão",
+              "tip_5lang": {
+                "de": "Parken Sie das Rad im Schutz naher Vorsprünge.",
+                "hu": "Parkolja a biciklit közeli kiugrók védelmébe.",
+                "ro": "Parcați bicicleta sub protecția cornișelor din apropiere.",
+                "en": "Park your bike under the shelter of nearby ledges."
+              }
+            },
+            {
+              "name": "Chapel of Our Lady of the Conception",
+              "tip_5lang": {
+                "de": "Eine gute Gelegenheit, kurz abzutrocknen und die Kapelle zu bewundern.",
+                "hu": "Jó alkalom egy rövid száradásra és a kápolna megtekintésére.",
+                "ro": "O bună ocazie de a vă usca puțin și de a admira capela.",
+                "en": "A good opportunity to dry off briefly and admire the chapel."
+              }
+            },
+            {
+              "name": "José Monteiro Archaeological Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den langen Stopp, um die Regenkleidung auszuschütteln.",
+                "hu": "Használja ki a hosszú megállót az esőruházat lerázására.",
+                "ro": "Profitați de oprirea lungă pentru a scutura echipamentul de ploaie.",
+                "en": "Take advantage of the long stop to shake out your rain gear."
+              }
+            },
+            {
+              "name": "Eugénio de Andrade Municipal Library",
+              "tip_5lang": {
+                "de": "Hier können Sie in Ruhe die weitere Route bei Regen planen.",
+                "hu": "Itt nyugodtan megtervezheti a további útvonalat az esőben.",
+                "ro": "Aici puteți planifica restul rutei prin ploaie în liniște.",
+                "en": "Here you can quietly plan the rest of your route in the rain."
+              }
+            },
+            {
+              "name": "Green Park of Fundão",
+              "tip_5lang": {
+                "de": "Vermeiden Sie schnelle Kurven auf den nassen Parkwegen.",
+                "hu": "Kerülje a gyors kanyarodást a park nedves ösvényein.",
+                "ro": "Evitați virajele rapide pe potecile umede din parc.",
+                "en": "Avoid sharp turns on the wet park paths."
+              }
+            },
+            {
+              "name": "Solar dos Falcões",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp, bevor es zur finalen Etappe geht.",
+                "hu": "Rövid fotómegálló az utolsó szakasz előtt.",
+                "ro": "Scurtă oprire pentru poze înainte de etapa finală.",
+                "en": "Short photo stop before the final leg."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine voll reflektierende Regenjacke für bessere Sichtbarkeit.",
+              "Prüfen Sie Ihre Bremsen: Auf nassen Steinen brauchen sie länger.",
+              "Suchen Sie nach Fahrradständern unter Vordächern.",
+              "Ein Sattelschutz hält Ihren Sitz auch bei Stopps trocken."
+            ],
+            "hu": [
+              "Viseljen teljesen fényvisszaverő esőkabátot a jobb láthatóságért.",
+              "Ellenőrizze a fékeket: nedves kövön hosszabb a féktáv.",
+              "Keressen kerékpártárolókat az előtetők alatt.",
+              "A nyeregvédő szárazon tartja az ülést a megállók alatt is."
+            ],
+            "ro": [
+              "Purtați o jachetă de ploaie reflectorizantă pentru o mai bună vizibilitate.",
+              "Verificați frânele: pe piatră umedă distanța de frânare crește.",
+              "Căutați suporturi de biciclete sub copertine.",
+              "O husă de șa vă menține scaunul uscat chiar și în timpul opririlor."
+            ],
+            "en": [
+              "Wear a fully reflective rain jacket for better visibility.",
+              "Check your brakes: braking distance is longer on wet stones.",
+              "Look for bike racks under awnings.",
+              "A saddle cover keeps your seat dry even during stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine Wintertour mit dem Rad durch Fundão ist erfrischend. Starten Sie warm eingepackt am Rathausplatz. Die Kirchenbesuche bieten die nötige Wärme zwischendurch. Das Museum am Mittag ist der ideale Ort, um die Kälte abzuschütteln. Da die Sonne früh verschwindet, beenden Sie Ihre Tour am späten Nachmittag im Park oder der Bibliothek, wenn die Temperaturen sinken.",
+            "hu": "Egy téli biciklitúra Fundãóban frissítő élmény. Induljon melegen felöltözve a Városháza térről. A templomlátogatások megadják a szükséges köztes melegséget. A múzeum délben ideális hely a hideg lerázására. Mivel a nap korán lebukik, fejezze be a túrát késő délután a parkban vagy a könyvtárban, ahogy a hőmérséklet süllyed.",
+            "ro": "O tură de iarnă cu bicicleta prin Fundão este o experiență revigorantă. Începeți bine înfofoliți din Piața Municipiului. Vizitele la biserici oferă căldura necesară pe parcurs. Muzeul de la prânz este locul ideal pentru a scăpa de frig. Deoarece soarele apune devreme, încheiați turul după-amiaza târziu când temperaturile scad.",
+            "en": "A winter bike tour through Fundão is a refreshing experience. Start wrapped up warm at the Town Hall Square. Church visits provide necessary warmth along the way. The museum at noon is the ideal place to shake off the cold. Since the sun sets early, finish your tour in the late afternoon as temperatures drop."
+          },
+          "stops": [
+            {
+              "name": "Praça do Município (Town Hall Square)",
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Handschuhe für die Fahrt.",
+                "hu": "Viseljen szélálló kesztyűt a tekeréshez.",
+                "ro": "Purtați mănuși rezistente la vânt pentru cursă.",
+                "en": "Wear windproof gloves for the ride."
+              }
+            },
+            {
+              "name": "Mother Church of Fundão",
+              "tip_5lang": {
+                "de": "Eine gute Aufwärmpause im geschützten Innenraum.",
+                "hu": "Jó melegedő szünet a védett belső térben.",
+                "ro": "O bună pauză de încălzire în spațiul interior protejat.",
+                "en": "A good warm-up break in the protected interior."
+              }
+            },
+            {
+              "name": "Chapel of Our Lady of the Conception",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe der Kapelle abseits des Fahrtwindes.",
+                "hu": "Élvezze a kápolna nyugalmát a menetszéltől távol.",
+                "ro": "Bucurați-vă de liniștea capelei, ferit de curent.",
+                "en": "Enjoy the chapel's peace, away from the riding wind."
+              }
+            },
+            {
+              "name": "José Monteiro Archaeological Museum",
+              "tip_5lang": {
+                "de": "Lassen Sie die Winterausrüstung hier kurz ruhen.",
+                "hu": "Hagyja itt egy kicsit pihenni a téli felszerelést.",
+                "ro": "Lăsați echipamentul de iarnă să se odihnească aici puțin.",
+                "en": "Let your winter gear rest here for a bit."
+              }
+            },
+            {
+              "name": "Eugénio de Andrade Municipal Library",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich auf, bevor die Sonne untergeht.",
+                "hu": "Melegedjen fel, mielőtt lemegy a nap.",
+                "ro": "Încălziți-vă înainte de apusul soarelui.",
+                "en": "Warm up before the sun goes down."
+              }
+            },
+            {
+              "name": "Green Park of Fundão",
+              "tip_5lang": {
+                "de": "Das tiefe Winterlicht sorgt für schöne Schatten im Park.",
+                "hu": "Az alacsony téli napfény szép árnyékokat vet a parkban.",
+                "ro": "Lumina joasă de iarnă creează umbre frumoase în parc.",
+                "en": "The low winter sun creates beautiful shadows in the park."
+              }
+            },
+            {
+              "name": "Solar dos Falcões",
+              "tip_5lang": {
+                "de": "Letzter Stopp in der Dämmerung – Licht am Rad einschalten!",
+                "hu": "Utolsó megálló szürkületben – kapcsolja be a lámpákat!",
+                "ro": "Ultima oprire în amurg – aprindeți luminile bicicletei!",
+                "en": "Last stop at dusk – turn on your bike lights!"
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Raureif oder Glätte im Schatten der Gardunha.",
+              "Die Tage sind kurz; planen Sie Ihre Rückkehr bis 17:30 Uhr.",
+              "Tragen Sie Thermounterwäsche unter der Radhose.",
+              "Ein heißer Galão (Milchkaffee) nach der Tour wirkt Wunder."
+            ],
+            "hu": [
+              "Ügyeljen a dérre vagy fagira a Gardunha árnyékos oldalán.",
+              "A nappalok rövidek; tervezze a visszatérést 17:30-ig.",
+              "Viseljen termő aláöltözetet a biciklis nadrág alatt.",
+              "Egy forró Galão (tejeskávé) csodákat tesz a túra után."
+            ],
+            "ro": [
+              "Atenție la brumă sau gheață la umbra munților Gardunha.",
+              "Zilele sunt scurte; planificați revenirea până la ora 17:30.",
+              "Purtați lenjerie termică sub pantalonii de ciclism.",
+              "Un Galão (cafea cu lapte) fierbinte după tură face minuni."
+            ],
+            "en": [
+              "Watch out for frost or ice in the shadows of the Gardunha.",
+              "Days are short; plan your return by 5:30 PM.",
+              "Wear thermal base layers under your cycling pants.",
+              "A hot Galão (latte) after the tour works wonders."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1108,6 +1508,188 @@
           "Check opening times as some attractions may be seasonal.",
           "Don't leave valuables visible in your car."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden Sie Fundão auch bei Regen komfortabel. Beginnen Sie im historischen Zentrum und nutzen Sie das Museum als trockenen Ankerpunkt am Mittag. Die Fahrt zum Aussichtspunkt Serra da Gardunha am Nachmittag ist auch bei Wolken stimmungsvoll, solange die Sicht reicht. Den Abend genießen Sie in der Stadt, ohne nass zu werden.",
+            "hu": "Autóval Fundão esőben is kényelmesen felfedezhető. Kezdje a történelmi központban, és használja a múzeumot száraz bázisként délben. A délutáni autózás a Serra da Gardunha kilátóhoz felhős időben is hangulatos, amíg a látótávolság engedi. Az estét a városban élvezheti anélkül, hogy megázna.",
+            "ro": "Cu mașina puteți explora Fundão confortabil chiar și pe ploaie. Începeți în centrul istoric și folosiți muzeul ca punct de ancorare uscat la prânz. Drumul spre punctul de belvedere Serra da Gardunha este atmosferic chiar și cu nori. Bucurați-vă de seară în oraș fără a vă uda.",
+            "en": "Explore Fundão comfortably by car even in the rain. Start in the historic center and use the museum as a dry anchor point at noon. The afternoon drive to the Serra da Gardunha viewpoint is atmospheric even with clouds, as long as visibility allows. Enjoy the evening in the city without getting wet."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Historic Center",
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe der Praça, um Laufwege zu minimieren.",
+                "hu": "Parkoljon a tér közelében, hogy minimalizálja a gyaloglást.",
+                "ro": "Parcați aproape de piață pentru a minimiza mersul pe jos.",
+                "en": "Park near the square to minimize walking distances."
+              }
+            },
+            {
+              "name": "Mother Church of Fundão",
+              "tip_5lang": {
+                "de": "Lassen Sie den Schirm im Auto, wenn Sie nah parken können.",
+                "hu": "Hagyja az ernyőt az autóban, ha közel tud parkolni.",
+                "ro": "Lăsați umbrela în mașină dacă puteți parca aproape.",
+                "en": "Leave your umbrella in the car if you can park close by."
+              }
+            },
+            {
+              "name": "José Monteiro Archaeological Museum",
+              "tip_5lang": {
+                "de": "Ideal für regnerische Stunden im Trockenen.",
+                "hu": "Ideális esős órákra a szárazban.",
+                "ro": "Ideal pentru orele ploioase petrecute la adăpost.",
+                "en": "Ideal for rainy hours spent indoors."
+              }
+            },
+            {
+              "name": "Cluster B: Cultural and Leisure Zone",
+              "tip_5lang": {
+                "de": "Der Parkbesuch kann bei starkem Regen kurz ausfallen.",
+                "hu": "A parklátogatás erős esőben lehet rövidebb is.",
+                "ro": "Vizita la parc poate fi scurtă în caz de ploaie torențială.",
+                "en": "The park visit can be brief in case of heavy rain."
+              }
+            },
+            {
+              "name": "Eugénio de Andrade Municipal Library",
+              "tip_5lang": {
+                "de": "Guter Parkplatz direkt an der Bibliothek vorhanden.",
+                "hu": "Jó parkolási lehetőség közvetlenül a könyvtárnál.",
+                "ro": "Parcare bună disponibilă chiar lângă bibliotecă.",
+                "en": "Good parking available right by the library."
+              }
+            },
+            {
+              "name": "Serra da Gardunha Viewpoint",
+              "tip_5lang": {
+                "de": "Bei Nebel ist die Sicht stark eingeschränkt, vorsichtig fahren.",
+                "hu": "Köd esetén a látótávolság korlátozott, vezessen óvatosan.",
+                "ro": "În caz de ceață vizibilitatea este limitată, conduceți cu atenție.",
+                "en": "In case of fog, visibility is limited; drive carefully."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Bergstraßen zur Gardunha können bei Regen rutschig sein.",
+              "Prüfen Sie den Zustand Ihrer Scheibenwischer.",
+              "In der Innenstadt sind Parkplätze bei Regen schnell belegt.",
+              "Vermeiden Sie tiefe Pfützen in Senken."
+            ],
+            "hu": [
+              "A Gardunhához vezető hegyi utak esőben csúszósak lehetnek.",
+              "Ellenőrizze az ablaktörlők állapotát.",
+              "A belvárosi parkolók esőben hamar megtelnek.",
+              "Kerülje a mély tócsákat a mélyebben fekvő útszakaszokon."
+            ],
+            "ro": [
+              "Drumurile montane spre Gardunha pot fi alunecoase pe ploaie.",
+              "Verificați starea ștergătoarelor de parbriz.",
+              "Locurile de parcare din centru se ocupă repede pe ploaie.",
+              "Evitați bălțile adânci în zonele joase ale drumului."
+            ],
+            "en": [
+              "Mountain roads to Gardunha can be slippery in the rain.",
+              "Check the condition of your windshield wipers.",
+              "Downtown parking spots fill up quickly when it rains.",
+              "Avoid deep puddles in low-lying road sections."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliche Autofahrten rund um Fundão bieten spektakuläre Ausblicke auf die oft schneebedeckten Gipfel der Gardunha. Starten Sie gemütlich im Ort und nutzen Sie das Museum für die kälteste Mittagszeit. Die Fahrt zum Aussichtspunkt ist das Highlight, aber achten Sie auf Eis. Beenden Sie den Tag früh, da die Dämmerung in den Bergen schnell einsetzt.",
+            "hu": "A téli autózás Fundão környékén látványos kilátást nyújt a Gardunha gyakran hófödte csúcsaira. Kezdjen kényelmesen a városban, és használja a múzeumot a leghidegebb déli órákban. A kilátóhoz vezető út a nap fénypontja, de ügyeljen a jegesedésre. Fejezze be korán a napot, mert a hegyekben gyorsan sötétedik.",
+            "ro": "Călătoriile cu mașina iarna în jurul orașului Fundão oferă vederi spectaculoase spre vârfurile înzăpezite ale munților Gardunha. Începeți relaxat în oraș și vizitați muzeul la prânz. Drumul spre belvedere este punctul culminant, dar atenție la gheață. Încheiați ziua devreme, amurgul vine repede la munte.",
+            "en": "Winter drives around Fundão offer spectacular views of the often snow-capped Gardunha peaks. Start comfortably in town and use the museum for the coldest noon hours. The drive to the viewpoint is the highlight, but watch out for ice. End the day early as dusk falls quickly in the mountains."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Historic Center",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Sitzheizung für die kurzen Fahrten zwischen den Zonen.",
+                "hu": "Használja az ülésfűtést a zónák közötti rövid utakon.",
+                "ro": "Folosiți încălzirea în scaune pentru drumurile scurte între zone.",
+                "en": "Use seat heating for the short drives between zones."
+              }
+            },
+            {
+              "name": "Mother Church of Fundão",
+              "tip_5lang": {
+                "de": "Ein kurzer Fußweg vom Parkplatz zur Kirche ist erfrischend.",
+                "hu": "Egy rövid séta a parkolótól a templomig frissítő lesz.",
+                "ro": "O scurtă plimbare de la parcare la biserică este revigorantă.",
+                "en": "A short walk from the parking lot to the church is refreshing."
+              }
+            },
+            {
+              "name": "José Monteiro Archaeological Museum",
+              "tip_5lang": {
+                "de": "Perfekt geheizt für eine kulturelle Pause.",
+                "hu": "Tökéletesen fűtött hely egy kulturális szünethez.",
+                "ro": "Încălzit perfect pentru o pauză culturală.",
+                "en": "Perfectly heated for a cultural break."
+              }
+            },
+            {
+              "name": "Cluster B: Cultural and Leisure Zone",
+              "tip_5lang": {
+                "de": "Der Park wirkt im Winter kahl, aber weitläufig.",
+                "hu": "A park télen kopárnak hathat, de tágas.",
+                "ro": "Parcul poate părea golaș iarna, dar este spațios.",
+                "en": "The park may look bare in winter but is spacious."
+              }
+            },
+            {
+              "name": "Eugénio de Andrade Municipal Library",
+              "tip_5lang": {
+                "de": "Ein guter Ort zum Aufwärmen vor der Bergfahrt.",
+                "hu": "Jó hely a felmelegedéshez a hegyi út előtt.",
+                "ro": "Un loc bun pentru încălzire înainte de drumul la munte.",
+                "en": "A good place to warm up before the mountain drive."
+              }
+            },
+            {
+              "name": "Serra da Gardunha Viewpoint",
+              "tip_5lang": {
+                "de": "Achtung bei Minustemperaturen – Straßenglätte möglich!",
+                "hu": "Vigyázat fagypont alatt – jegesedés lehetséges az utakon!",
+                "ro": "Atenție la temperaturi negative – polei posibil pe drum!",
+                "en": "Caution at freezing temperatures – ice is possible on the roads!"
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Führen Sie Schneeketten mit, wenn Sie höher in die Gardunha fahren.",
+              "Prüfen Sie den Frostschutz in der Scheibenwaschanlage.",
+              "Achten Sie auf Wildwechsel in der Dämmerung.",
+              "Die Bergluft ist deutlich kälter als im Tal von Fundão."
+            ],
+            "hu": [
+              "Vigyen hóláncot, ha magasabbra indul a Gardunhába.",
+              "Ellenőrizze a fagyállót az ablakmosó folyadékban.",
+              "Ügyeljen a vadakra a szürkületi órákban.",
+              "A hegyi levegő jóval hidegebb, mint Fundão völgyében."
+            ],
+            "ro": [
+              "Luați lanțuri de zăpadă dacă urcați mai sus pe Gardunha.",
+              "Verificați antigelul în lichidul de parbriz.",
+              "Atenție la animalele sălbatice în amurg.",
+              "Aerul de munte este considerabil mai rece decât în valea Fundão."
+            ],
+            "en": [
+              "Carry snow chains if you head higher into the Gardunha.",
+              "Check the antifreeze in your windshield washer fluid.",
+              "Watch out for wildlife crossing during dusk.",
+              "Mountain air is significantly colder than in the Fundão valley."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1464,6 +2046,188 @@
           "Keep an eye on bus numbers; not all buses stop at every stop.",
           "Always validate your ticket when you board to avoid a fine."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den lokalen Nahverkehr, um trocken durch Fundão zu kommen. Starten Sie an der Praça do Município und nutzen Sie die kurzen Buswege zwischen den Zonen. Mittags bietet das Museum einen sicheren Hafen vor dem Wetter. Nachmittags ist die Bibliothek ein idealer Ort zum Verweilen, bevor Sie den Bus zurück zum Ausgangspunkt nehmen.",
+            "hu": "Használja a helyi tömegközlekedést, hogy szárazon járja be Fundãót. Kezdjen a Praça do Município környékén, és használja a rövid buszutakat a zónák között. Délben a múzeum nyújt biztonságos menedéket az időjárás elől. Délután a könyvtár ideális hely az időtöltésre, mielőtt busszal visszatérne a kiindulópontra.",
+            "ro": "Folosiți transportul local pentru a traversa Fundão la adăpost de ploaie. Începeți la Praça do Município și folosiți traseele scurte de autobuz. La prânz, muzeul oferă un refugiu sigur. După-amiaza, biblioteca este locul ideal înainte de a lua autobuzul înapoi.",
+            "en": "Use local transit to get around Fundão while staying dry. Start at Praça do Município and use short bus rides between zones. At noon, the museum provides a safe haven from the weather. In the afternoon, the library is an ideal place to spend time before taking the bus back."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Praça do Município",
+              "tip_5lang": {
+                "de": "Warten Sie unter dem Dach der Bushaltestelle.",
+                "hu": "Várjon a buszmegálló fedele alatt.",
+                "ro": "Așteptați sub acoperișul stației de autobuz.",
+                "en": "Wait under the shelter of the bus stop."
+              }
+            },
+            {
+              "name": "Pillory and Mother Church",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen den Haltestellen und den Sehenswürdigkeiten.",
+                "hu": "Rövid távolságok a megállók és a látnivalók között.",
+                "ro": "Distanțe scurte între stații și obiective.",
+                "en": "Short distances between stops and sights."
+              }
+            },
+            {
+              "name": "Solar dos Falcões",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit im Bus, um die Kamera zu trocknen.",
+                "hu": "Használja a buszon töltött időt a kamera megszárítására.",
+                "ro": "Folosiți timpul în autobuz pentru a usca aparatul foto.",
+                "en": "Use the time on the bus to dry off your camera."
+              }
+            },
+            {
+              "name": "Cluster B: Museum and Park",
+              "tip_5lang": {
+                "de": "Der Bus hält oft direkt vor dem Museumseingang.",
+                "hu": "A busz gyakran közvetlenül a múzeum bejárata előtt áll meg.",
+                "ro": "Autobuzul oprește adesea chiar în fața intrării muzeului.",
+                "en": "The bus often stops right in front of the museum entrance."
+              }
+            },
+            {
+              "name": "Green Park of Fundão",
+              "tip_5lang": {
+                "de": "Vom Park zur Bibliothek ist es nur eine kurze Fahrt.",
+                "hu": "A parktól a könyvtárig csak egy rövid utazás.",
+                "ro": "De la parc la bibliotecă este doar o scurtă călătorie.",
+                "en": "It's just a short ride from the park to the library."
+              }
+            },
+            {
+              "name": "Eugénio de Andrade Municipal Library",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um auf den nächsten Bus im Trockenen zu warten.",
+                "hu": "Tökéletes hely a következő buszra való várakozáshoz a szárazban.",
+                "ro": "Locul perfect pentru a aștepta următorul autobuz la adăpost.",
+                "en": "Perfect place to wait for the next bus while staying dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie die Fahrpläne der 'A Garota' Busse bei Regen.",
+              "Halten Sie Kleingeld für das Ticket bereit.",
+              "Busse können bei starkem Regen leichte Verspätungen haben.",
+              "Tragen Sie eine Regenjacke, da Haltestellen nicht immer voll überdacht sind."
+            ],
+            "hu": [
+              "Ellenőrizze az 'A Garota' buszok menetrendjét esőben.",
+              "Legyen kéznél aprópénz a jegyvásárláshoz.",
+              "Erős esőben a buszok kismértékben késhetnek.",
+              "Viseljen esőkabátot, mert a megállók nem mindig teljesen fedettek."
+            ],
+            "ro": [
+              "Verificați orarul autobuzelor 'A Garota' pe timp de ploaie.",
+              "Aveți pregătit mărunt pentru bilet.",
+              "Autobuzele pot avea întârzieri ușoare în caz de ploaie torențială.",
+              "Purtați o jachetă de ploaie, stațiile nu sunt întotdeauna complet acoperite."
+            ],
+            "en": [
+              "Check the schedules of 'A Garota' buses during rain.",
+              "Have small change ready for the ticket.",
+              "Buses may have slight delays during heavy rain.",
+              "Wear a rain jacket as stops are not always fully sheltered."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Winter in Fundão lässt sich am besten mit einer Kombination aus Gehen und Busfahren erleben. Die warmen Busse sind eine Wohltat nach dem Aufenthalt im Freien. Mittags ist das Museum ein kulturelles Highlight im Warmen. Beenden Sie den Tag in der Stadtbibliothek und nutzen Sie die letzte Busverbindung vor Einbruch der Dunkelheit.",
+            "hu": "A fundãoi telet a legjobb gyaloglás és buszozás kombinációjával felfedezni. A fűtött buszok jót tesznek a szabadban töltött idő után. Délben a múzeum egy meleg kulturális fénypont. A napot a városi könyvtárban fejezze be, és használja az utolsó buszjáratokat még sötétedés előtt.",
+            "ro": "Iarna în Fundão este cel mai bine experimentată combinând mersul pe jos cu autobuzul. Autobuzele încălzite sunt o binecuvântare după timpul petrecut afară. Muzeul este un punct cultural călduros la prânz. Încheiați ziua la biblioteca municipală și folosiți ultimele autobuze înainte de lăsarea întunericului.",
+            "en": "Winter in Fundão is best experienced by combining walking and taking the bus. Warm buses are a treat after being outdoors. At noon, the museum is a warm cultural highlight. Finish your day at the municipal library and catch the last buses before dark."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Praça do Município",
+              "tip_5lang": {
+                "de": "Suchen Sie ein Café nahe der Haltestelle zum Aufwärmen.",
+                "hu": "Keressen egy kávézót a megálló közelében a melegedéshez.",
+                "ro": "Căutați o cafenea lângă stație pentru a vă încălzi.",
+                "en": "Find a café near the stop to warm up."
+              }
+            },
+            {
+              "name": "Pillory and Mother Church",
+              "tip_5lang": {
+                "de": "Ein zügiger Schritt zur nächsten Station hält warm.",
+                "hu": "Egy tempós séta a következő állomásig melegen tart.",
+                "ro": "Un pas vioi spre următoarea stație vă menține cald.",
+                "en": "A brisk walk to the next station keeps you warm."
+              }
+            },
+            {
+              "name": "Solar dos Falcões",
+              "tip_5lang": {
+                "de": "Genießen Sie die Aussicht aus dem beheizten Bus.",
+                "hu": "Élvezze a kilátást a fűtött buszból.",
+                "ro": "Bucurați-vă de priveliște din autobuzul încălzit.",
+                "en": "Enjoy the view from the heated bus."
+              }
+            },
+            {
+              "name": "Cluster B: Museum and Park",
+              "tip_5lang": {
+                "de": "Planen Sie den Museumsbesuch als Hauptwärmepunkt ein.",
+                "hu": "Tervezze a múzeumlátogatást fő melegedőpontként.",
+                "ro": "Planificați vizita la muzeu ca principal punct de încălzire.",
+                "en": "Plan the museum visit as your main warm-up point."
+              }
+            },
+            {
+              "name": "Green Park of Fundão",
+              "tip_5lang": {
+                "de": "Im Winter ist der Park ruhig und bietet klare Luft.",
+                "hu": "Télen a park csendes és tiszta levegőt kínál.",
+                "ro": "Iarna parcul este liniștit și oferă aer curat.",
+                "en": "In winter, the park is quiet and offers clear air."
+              }
+            },
+            {
+              "name": "Eugénio de Andrade Municipal Library",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Winter-Öffnungszeiten der Bibliothek.",
+                "hu": "Ellenőrizze a könyvtár téli nyitvatartását.",
+                "ro": "Verificați programul de iarnă al bibliotecii.",
+                "en": "Check the library's winter opening hours."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrpläne können im Winter leicht von den Sommerzeiten abweichen.",
+              "Die Busse sind gut geheizt, ziehen Sie sich bei längeren Fahrten aus.",
+              "Die Abendverbindungen enden oft früher.",
+              "Nutzen Sie die App des Verkehrsverbundes für Echtzeitdaten."
+            ],
+            "hu": [
+              "A menetrendek télen kismértékben eltérhetnek a nyáriaktól.",
+              "A buszok jól fűtöttek, hosszabb úton érdemes levetkőzni.",
+              "Az esti járatok gyakran korábban leállnak.",
+              "Használja a közlekedési társaság alkalmazását a valós idejű adatokhoz."
+            ],
+            "ro": [
+              "Orarele pot diferi ușor iarna față de perioada verii.",
+              "Autobuzele sunt bine încălzite, dezbrăcați-vă pentru călătorii mai lungi.",
+              "Conexiunile de seară se termină adesea mai devreme.",
+              "Folosiți aplicația companiei de transport pentru date în timp real."
+            ],
+            "en": [
+              "Schedules may differ slightly in winter compared to summer.",
+              "Buses are well-heated; take off layers for longer rides.",
+              "Evening connections often end earlier.",
+              "Use the transit company's app for real-time data."
+            ]
+          }
+        }
       }
     }
   }

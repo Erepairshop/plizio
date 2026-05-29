@@ -356,6 +356,196 @@
           "Most places accept credit cards, but it's good to have some Icelandic króna for small purchases.",
           "Check museum opening hours in advance, as they can vary seasonally."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens schützt die moderne Architektur der Kópavogskirkja vor dem ersten Schauer. Die Mittagsstunden verbringen wir trocken in der Gerðarsafn Galerie und dem Naturkundemuseum. Nachmittags macht der Regen im dampfenden Sundlaug-Pool erst richtig Spaß. Den Tag beenden wir auf dem Borgarholt, wo der nasse Asphalt die Lichter der Stadt dramatisch widerspiegelt.",
+            "hu": "Reggel a Kópavogskirkja modern ívei nyújtanak menedéket a zápor elől. A déli órákat szárazon töltjük a Gerðarsafn galériában és a Természettudományi Múzeumban. Délután a Sundlaug gőzölgő medencéiben az esőcseppek csak fokozzák az élményt. A napot a Borgarholton zárjuk, ahol a vizes aszfalt drámai módon tükrözi vissza a város fényeit.",
+            "ro": "Dimineața, arhitectura modernă a Kópavogskirkja ne protejează de prima ploaie. Orele amiezii le petrecem la adăpost în galeria Gerðarsafn și la Muzeul de Istorie Naturală. După-amiaza, ploaia devine plăcută în bazinele aburinde de la Sundlaug. Încheiem ziua pe Borgarholt, unde asfaltul umed reflectă dramatic luminile orașului.",
+            "en": "In the morning, the modern architecture of Kópavogskirkja protects us from the first shower. We spend the midday hours dry in the Gerðarsafn gallery and the Natural History Museum. In the afternoon, the rain is actually enjoyable in the steaming Sundlaug pools. We end the day at Borgarholt, where the wet asphalt dramatically reflects the city lights."
+          },
+          "stops": [
+            {
+              "name": "Kópavogskirkja Church",
+              "tip_5lang": {
+                "de": "Unter den weiten Dachüberständen lässt sich der Regen gut abwarten.",
+                "hu": "A széles tetőnyúlványok alatt jól átvészelhető egy hirtelen zivatar.",
+                "ro": "Sub streșinile largi ale acoperișului puteți aștepta trecerea ploii.",
+                "en": "The wide roof overhangs are great for waiting out a sudden downpour."
+              }
+            },
+            {
+              "name": "Gerðarsafn Kópavogur Art Museum",
+              "tip_5lang": {
+                "de": "Ein perfekter Rückzugsort mit inspirierender Kunst während eines Regengusses.",
+                "hu": "Tökéletes menedék inspiráló művészettel egy kiadós felhőszakadás idején.",
+                "ro": "Un refugiu perfect cu artă inspiratoare în timpul unei averse puternice.",
+                "en": "A perfect sanctuary with inspiring art during a heavy downpour."
+              }
+            },
+            {
+              "name": "Salurinn Concert Hall",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Foyer für eine trockene Pause zwischen den Museen.",
+                "hu": "Használja az előcsarnokot egy száraz pihenőre a múzeumok között.",
+                "ro": "Folosiți foierul pentru o pauză uscată între vizitele la muzee.",
+                "en": "Use the foyer for a dry break between visiting the museums."
+              }
+            },
+            {
+              "name": "Kópavogur Natural History Museum",
+              "tip_5lang": {
+                "de": "Trockenes Indoor-Erlebnis, ideal um das isländische Wetter zu ignorieren.",
+                "hu": "Száraz beltéri élmény, ideális az izlandi időjárás figyelmen kívül hagyására.",
+                "ro": "O experiență interioară uscată, ideală pentru a ignora vremea islandeză.",
+                "en": "Dry indoor experience, ideal for ignoring the Icelandic weather."
+              }
+            },
+            {
+              "name": "Sundlaug Kópavogs Geothermal Pool",
+              "tip_5lang": {
+                "de": "Das warme Wasser lässt Sie den kalten Regen auf dem Gesicht vergessen.",
+                "hu": "A meleg víz feledteti az arcon kopogó hideg esőcseppeket.",
+                "ro": "Apa caldă vă va face să uitați de picăturile reci de ploaie de pe față.",
+                "en": "The warm water will make you forget the cold raindrops on your face."
+              }
+            },
+            {
+              "name": "Borgarholt Hill",
+              "tip_5lang": {
+                "de": "Achtung, die grasbewachsenen Pfade können bei Nässe rutschig sein.",
+                "hu": "Vigyázat, a füves ösvények nedvesen csúszósak lehetnek.",
+                "ro": "Atenție, potecile înierbate pot fi alunecoase când sunt ude.",
+                "en": "Watch out, the grassy paths can be slippery when wet."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine hochwertige Regenjacke, da der Wind Schirme oft nutzlos macht.",
+              "Die Wege zwischen den Museen in Hamraborg sind kurz und teilweise überdacht.",
+              "Islander nutzen das Schwimmbad bei jedem Wetter; es ist ein lokales Erlebnis.",
+              "Wasserdichte Schuhe sind für den Aufstieg zum Borgarholt unerlässlich.",
+              "In den Cafés der Museen können Sie sich bei einer heißen Schokolade aufwärmen."
+            ],
+            "hu": [
+              "Viseljen minőségi esőkabátot, mert a szél miatt az esernyők gyakran használhatatlanok.",
+              "A hamraborgi múzeumok közötti utak rövidek és részben fedettek.",
+              "Az izlandiak minden időben használják az uszodát; ez igazi helyi élmény.",
+              "A vízálló cipő elengedhetetlen a Borgarholt dombra való feljutáshoz.",
+              "A múzeumok kávézóiban egy forró csokoládé mellett melegedhet fel."
+            ],
+            "ro": [
+              "Purtați o jachetă de ploaie de calitate, deoarece vântul face umbrelele inutile.",
+              "Drumurile între muzeele din Hamraborg sunt scurte și parțial acoperite.",
+              "Islandezii folosesc piscina pe orice vreme; este o experiență locală autentică.",
+              "Încălțămintea impermeabilă este esențială pentru urcarea pe dealul Borgarholt.",
+              "În cafenelele muzeelor vă puteți încălzi cu o ciocolată caldă."
+            ],
+            "en": [
+              "Wear a high-quality raincoat, as the wind often makes umbrellas useless.",
+              "The paths between museums in Hamraborg are short and partially covered.",
+              "Icelanders use the pool in all weather; it's a true local experience.",
+              "Waterproof shoes are essential for the climb up Borgarholt hill.",
+              "Warm up with a hot chocolate in the museum cafes."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der frostige Morgen beginnt in der Stille der Kópavogskirkja. Wir huschen schnell zwischen den warmen Ausstellungsräumen der Museen hin und her. Am Nachmittag bietet das Sundlaug-Bad ein mystisches Erlebnis, wenn Dampf auf die eiskalte Luft trifft. Da es gegen 16 Uhr dunkel wird, erstrahlt der Borgarholt bereits im hellen Glanz der nächtlichen Stadtlichter.",
+            "hu": "A fagyos reggel a Kópavogskirkja csendjében indul. Gyorsan surranunk a múzeumok meleg kiállítóterei között. Délután a Sundlaug fürdő misztikus élményt nyújt, amikor a gőz találkozik a jéghideg levegővel. Mivel 16 óra körül sötétedik, a Borgarholt már az éjszakai városfények ragyogásában tündököl.",
+            "ro": "Dimineața geroasă începe în liniștea de la Kópavogskirkja. Ne grăbim între sălile calde de expoziție ale muzeelor. După-amiaza, piscina Sundlaug oferă o experiență mistică atunci când aburul întâlnește aerul înghețat. Deoarece se întunecă în jur de ora 16, Borgarholt strălucește deja în lumina nocturnă a orașului.",
+            "en": "The frosty morning begins in the silence of Kópavogskirkja. We dash quickly between the warm exhibition halls of the museums. In the afternoon, the Sundlaug pool offers a mystical experience as steam meets the freezing air. Since it gets dark around 4 PM, Borgarholt already shines in the bright glow of the night city lights."
+          },
+          "stops": [
+            {
+              "name": "Kópavogskirkja Church",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich im Inneren auf, während Sie die Aussicht durch die Fenster genießen.",
+                "hu": "Melegedjen fel odabent, miközben az ablakokon át élvezi a kilátást.",
+                "ro": "Încălziți-vă în interior în timp ce admirați priveliștea prin ferestre.",
+                "en": "Warm up inside while enjoying the view through the windows."
+              }
+            },
+            {
+              "name": "Gerðarsafn Kópavogur Art Museum",
+              "tip_5lang": {
+                "de": "Dank der Fußbodenheizung ein herrlicher Ort, um die Kälte zu vergessen.",
+                "hu": "A padlófűtésnek köszönhetően remek hely a hideg elfelejtésére.",
+                "ro": "Un loc minunat pentru a uita de frig, datorită încălzirii în pardoseală.",
+                "en": "A wonderful place to forget the cold, thanks to the underfloor heating."
+              }
+            },
+            {
+              "name": "Salurinn Concert Hall",
+              "tip_5lang": {
+                "de": "Die Holzverkleidung im Inneren sorgt für eine besonders gemütliche Atmosphäre.",
+                "hu": "A belső faborítás különlegesen meghitt hangulatot áraszt télen.",
+                "ro": "Lambriurile din lemn din interior creează o atmosferă foarte primitoare.",
+                "en": "The wooden interior cladding creates a particularly cozy atmosphere."
+              }
+            },
+            {
+              "name": "Kópavogur Natural History Museum",
+              "tip_5lang": {
+                "de": "Lernen Sie die Arktis kennen, während es draußen wirklich arktisch ist.",
+                "hu": "Ismerkedjen meg az Arktisszal, miközben kint valóban sarkvidéki az idő.",
+                "ro": "Învățați despre zona arctică în timp ce afară este cu adevărat arctic.",
+                "en": "Learn about the Arctic while it is truly arctic outside."
+              }
+            },
+            {
+              "name": "Sundlaug Kópavogs Geothermal Pool",
+              "tip_5lang": {
+                "de": "Das Thermalbad im Winter ist ein Muss; achten Sie auf gefrorene Haare!",
+                "hu": "A téli termálfürdőzés kötelező; vigyázzon, a haja ráfagyhat a fejére!",
+                "ro": "Baia termală iarna este obligatorie; atenție, părul vă poate îngheța!",
+                "en": "Winter geothermal bathing is a must; watch out for frozen hair!"
+              }
+            },
+            {
+              "name": "Borgarholt Hill",
+              "tip_5lang": {
+                "de": "Bringen Sie Spikes für Ihre Schuhe mit, der Hügel kann vereist sein.",
+                "hu": "Vigyen csúszásgátlót a cipőjére, a domb jeges lehet.",
+                "ro": "Aduceți crampoane pentru încălțăminte, dealul poate fi înghețat.",
+                "en": "Bring spikes for your shoes; the hill can be icy."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Dezember bereits gegen 15:30 Uhr unter.",
+              "Zwiebelprinzip bei der Kleidung ist lebenswichtig gegen den scharfen Wind.",
+              "Die Gehwege in Hamraborg werden oft beheizt und sind eisfrei.",
+              "Halten Sie Ausschau nach Nordlichtern, sobald es dunkel wird.",
+              "Warme Getränke sind in allen Museen und im Schwimmbad erhältlich."
+            ],
+            "hu": [
+              "A nap decemberben már 15:30 körül lenyugszik.",
+              "A réteges öltözködés létfontosságú az éles szél ellen.",
+              "A hamraborgi járdákat gyakran fűtik, így azok jégmentesek.",
+              "Sötétedés után figyelje az eget, hátha feltűnik az északi fény.",
+              "Meleg italok minden múzeumban és az uszodában is kaphatók."
+            ],
+            "ro": [
+              "Soarele apune în decembrie deja în jurul orei 15:30.",
+              "Îmbrăcămintea în straturi este vitală împotriva vântului tăios.",
+              "Trotuarele din Hamraborg sunt adesea încălzite și fără gheață.",
+              "Fiți atenți la aurora boreală imediat ce se întunecă.",
+              "Băuturi calde sunt disponibile în toate muzeele și la piscină."
+            ],
+            "en": [
+              "The sun sets as early as 3:30 PM in December.",
+              "Layered clothing is vital against the sharp wind.",
+              "The sidewalks in Hamraborg are often heated and ice-free.",
+              "Watch for Northern Lights as soon as it gets dark.",
+              "Warm drinks are available in all museums and at the pool."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -706,6 +896,196 @@
           "Use the city's extensive cycle paths to avoid traffic.",
           "Always lock your bike, even for short stops."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen bietet die Tour durch Kópavogur einen sportlichen Reiz. Von den nassen Felsen des Borgarholt geht es zur Kópavogskirkja. Die Museen bieten willkommene Trockenpausen für Radfahrer. Nach dem Entspannen im heißen Sundlaug-Pool geht es zum Shoppen in die Smáralind, bevor wir das grüne Hjallar-Gebiet im Regen erleben.",
+            "hu": "Az eső ellenére a kópavoguri túra sportos élményt nyújt. A Borgarholt nedves szikláitól a Kópavogskirkja felé vesszük az irányt. A múzeumok szívesen látott száraz pihenőt kínálnak a kerékpárosoknak. A Sundlaug forró vize után a Smáralindban vásárolhatunk, majd az esőben fedezzük fel a zöldellő Hjallart.",
+            "ro": "În ciuda ploii, turul prin Kópavogur oferă o provocare sportivă. De la stâncile ude din Borgarholt mergem spre Kópavogskirkja. Muzeele oferă pauze uscate binevenite pentru bicicliști. După relaxarea la Sundlaug, mergem la shopping în Smáralind, înainte de a explora zona verde Hjallar prin ploaie.",
+            "en": "Despite the rain, the tour through Kópavogur offers a sporty appeal. From the wet rocks of Borgarholt, we head to Kópavogskirkja. The museums provide welcome dry breaks for cyclists. After relaxing in the hot Sundlaug pool, we head for shopping at Smáralind before experiencing the green Hjallar area in the rain."
+          },
+          "stops": [
+            {
+              "name": "Borgarholt Hill",
+              "tip_5lang": {
+                "de": "Vorsicht beim Abstieg mit dem Rad, der Fels ist extrem rutschig.",
+                "hu": "Vigyázat a bringás ereszkedésnél, a szikla rendkívül csúszós.",
+                "ro": "Atenție la coborârea cu bicicleta, stânca este extrem de alunecoasă.",
+                "en": "Be careful when descending with the bike; the rock is extremely slippery."
+              }
+            },
+            {
+              "name": "Kópavogskirkja Church",
+              "tip_5lang": {
+                "de": "Überdachte Fahrradständer befinden sich in der Nähe des Eingangs.",
+                "hu": "Fedett kerékpártárolók találhatók a bejárat közelében.",
+                "ro": "Suporturi de biciclete acoperite se află în apropierea intrării.",
+                "en": "Covered bike racks are located near the entrance."
+              }
+            },
+            {
+              "name": "Gerðarsafn Kópavogur Art Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch, um Ihre Regenkleidung abtropfen zu lassen.",
+                "hu": "Használja ki a múzeumlátogatást az esőruházat megszárítására.",
+                "ro": "Folosiți vizita la muzeu pentru a lăsa echipamentul de ploaie la uscat.",
+                "en": "Use the museum visit to let your rain gear drip dry."
+              }
+            },
+            {
+              "name": "Sundlaug Kópavogs Geothermal Pool",
+              "tip_5lang": {
+                "de": "Die heißen Pötte sind die beste Belohnung nach einer regnerischen Fahrt.",
+                "hu": "A forró vizes kádak a legjobb jutalom egy esős tekerés után.",
+                "ro": "Căzile cu apă fierbinte sunt cea mai bună recompensă după o cursă ploioasă.",
+                "en": "The hot tubs are the best reward after a rainy ride."
+              }
+            },
+            {
+              "name": "Smáralind Shopping Mall",
+              "tip_5lang": {
+                "de": "Großzügige Fahrradabstellplätze direkt an den Haupteingängen.",
+                "hu": "Tágas kerékpárparkolók közvetlenül a főbejáratoknál.",
+                "ro": "Locuri generoase de parcare pentru biciclete chiar la intrările principale.",
+                "en": "Generous bike parking spaces right at the main entrances."
+              }
+            },
+            {
+              "name": "Hjallar natural area",
+              "tip_5lang": {
+                "de": "Die unbefestigten Wege können bei Dauerregen schlammig sein.",
+                "hu": "A burkolatlan utak tartós esőben sárosak lehetnek.",
+                "ro": "Potecile neasfaltate pot fi noroioase în caz de ploaie persistentă.",
+                "en": "The unpaved paths can be muddy during persistent rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Gute Schutzbleche sind bei dem oft horizontalen Regen unerlässlich.",
+              "Bremsen Sie auf nassem Asphalt vorsichtiger, besonders bergab.",
+              "Verwenden Sie wasserdichte Packtaschen für Ihre Wertsachen.",
+              "Die Smáralind Mall bietet die perfekte Gelegenheit für ein trockenes Mittagessen.",
+              "Beleuchtung ist auch tagsüber bei starkem Regen für die Sichtbarkeit ratsam."
+            ],
+            "hu": [
+              "A jó sárvédő elengedhetetlen a gyakran vízszintes esőben.",
+              "Vizes aszfalton óvatosabban fékezzen, különösen lejtőn lefelé.",
+              "Használjon vízálló táskákat az értéktárgyaihoz.",
+              "A Smáralind pláza tökéletes helyszín egy száraz ebédhez.",
+              "Erős esőben nappal is javasolt a világítás a láthatóság érdekében."
+            ],
+            "ro": [
+              "Apărătorile bune sunt esențiale în ploaia care cade adesea orizontal.",
+              "Frânați mai prudent pe asfaltul umed, în special la vale.",
+              "Folosiți genți de bicicletă impermeabile pentru obiectele de valoare.",
+              "Mall-ul Smáralind oferă ocazia perfectă pentru un prânz la adăpost.",
+              "Luminile sunt recomandate și ziua în timpul ploilor abundente pentru vizibilitate."
+            ],
+            "en": [
+              "Good mudguards are essential in the often horizontal rain.",
+              "Brake more cautiously on wet asphalt, especially downhill.",
+              "Use waterproof panniers for your valuables.",
+              "Smáralind Mall offers the perfect opportunity for a dry lunch.",
+              "Lighting is advisable even during the day in heavy rain for visibility."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im Winter in Kópavogur erfordert Mut und gute Ausrüstung. Wir starten frostig am Borgarholt und wärmen uns in der Kópavogskirkja auf. Nach der Kunst in der Gerðarsafn ist das Sundlaug-Bad der ultimative Ort zum Auftauen. In der Smáralind Mall genießen wir die Wärme, bevor wir Hjallar in der blauen Stunde der Dämmerung durchqueren.",
+            "hu": "A téli biciklizés Kópavogurban bátorságot és jó felszerelést igényel. Fagyosan indulunk a Borgarholtról, majd a Kópavogskirkjában melegszünk fel. A Gerðarsafn műalkotásai után a Sundlaug a tökéletes hely a kiolvadásra. A Smáralind plázában élvezzük a meleget, mielőtt átszelnénk Hjallart a szürkület kék órájában.",
+            "ro": "Ciclismul de iarnă în Kópavogur necesită curaj și echipament bun. Începem înghețați la Borgarholt și ne încălzim la Kópavogskirkja. După arta de la Gerðarsafn, piscina Sundlaug este locul suprem pentru dezghețare. În mall-ul Smáralind ne bucurăm de căldură înainte de a traversa Hjallar în ora albastră a amurgului.",
+            "en": "Winter cycling in Kópavogur requires courage and good equipment. We start frosty at Borgarholt and warm up in Kópavogskirkja. After the art at Gerðarsafn, the Sundlaug pool is the ultimate place to thaw out. In Smáralind Mall, we enjoy the warmth before crossing Hjallar in the blue hour of twilight."
+          },
+          "stops": [
+            {
+              "name": "Borgarholt Hill",
+              "tip_5lang": {
+                "de": "Spikereifen sind hier bei Eis absolut notwendig.",
+                "hu": "Szöges gumik használata itt jég esetén elengedhetetlen.",
+                "ro": "Anvelopele cu ținte sunt absolut necesare aici dacă este gheață.",
+                "en": "Studded tires are absolutely necessary here if there is ice."
+              }
+            },
+            {
+              "name": "Kópavogskirkja Church",
+              "tip_5lang": {
+                "de": "Schließen Sie Ihr Rad an einem gut beleuchteten Platz an.",
+                "hu": "Zárja le a biciklijét egy jól kivilágított helyen.",
+                "ro": "Legați-vă bicicleta într-un loc bine luminat.",
+                "en": "Lock your bike in a well-lit spot."
+              }
+            },
+            {
+              "name": "Gerðarsafn Kópavogur Art Museum",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist meist geräumt, aber Vorsicht vor schwarzen Eisflächen.",
+                "hu": "A parkolót általában letakarítják, de vigyázzon a fekete jéggel.",
+                "ro": "Parcarea este de obicei curățată, dar atenție la porțiunile cu gheață neagră.",
+                "en": "The parking lot is usually cleared, but watch out for black ice."
+              }
+            },
+            {
+              "name": "Sundlaug Kópavogs Geothermal Pool",
+              "tip_5lang": {
+                "de": "Bringen Sie eine Mütze für den Weg vom Rad zum Eingang mit.",
+                "hu": "Vigyen sapkát a bringától a bejáratig tartó rövid útra is.",
+                "ro": "Purtați o căciulă chiar și pentru drumul scurt de la bicicletă la intrare.",
+                "en": "Wear a hat even for the short walk from the bike to the entrance."
+              }
+            },
+            {
+              "name": "Smáralind Shopping Mall",
+              "tip_5lang": {
+                "de": "Genießen Sie die Indoor-Fahrradstellplätze, falls verfügbar.",
+                "hu": "Használja a beltéri kerékpártárolókat, ha rendelkezésre állnak.",
+                "ro": "Bucurați-vă de locurile de parcare interioare pentru biciclete, dacă sunt disponibile.",
+                "en": "Enjoy the indoor bike parking spots, if available."
+              }
+            },
+            {
+              "name": "Hjallar natural area",
+              "tip_5lang": {
+                "de": "Im Winter wird dieser Bereich früh sehr dunkel; Licht ist Pflicht.",
+                "hu": "Télen ez a terület hamar besötétedik; a világítás kötelező.",
+                "ro": "Iarna această zonă se întunecă foarte devreme; lumina este obligatorie.",
+                "en": "In winter, this area gets dark very early; lights are mandatory."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Studded Tires (Spikereifen) sind bei Eisglätte in Island Standard.",
+              "Kürzen Sie die Tour ab, wenn der Wind (Windchill) zu stark wird.",
+              "Vermeiden Sie das Radfahren bei Schneesturm-Warnungen.",
+              "Batterien von Lampen und E-Bikes entladen sich bei Kälte schneller.",
+              "Nutzen Sie die Smáralind als Wärme-Hub am Nachmittag."
+            ],
+            "hu": [
+              "A szöges gumik alapfelszereltségnek számítanak Izlandon jeges időben.",
+              "Rövidítse le a túrát, ha a szél (szélhűtés) túl erőssé válik.",
+              "Hóvihar-riasztás esetén kerülje a kerékpározást.",
+              "A lámpák és e-bike-ok akkumulátorai hidegben gyorsabban merülnek.",
+              "Használja a Smáralindet melegedőpontként délután."
+            ],
+            "ro": [
+              "Anvelopele cu ținte sunt standard în Islanda pe timp de îngheț.",
+              "Scurtați turul dacă vântul (windchill) devine prea puternic.",
+              "Evitați mersul pe bicicletă în timpul avertizărilor de viscol.",
+              "Bateriile luminilor și ale bicicletelor electrice se descarcă mai repede la frig.",
+              "Folosiți Smáralind ca punct de încălzire după-amiaza."
+            ],
+            "en": [
+              "Studded tires are standard in Iceland during icy conditions.",
+              "Shorten the tour if the wind (windchill) becomes too strong.",
+              "Avoid cycling during snowstorm warnings.",
+              "Batteries for lights and e-bikes drain faster in the cold.",
+              "Use Smáralind as a warmth hub in the afternoon."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1062,6 +1442,196 @@
           "Pay attention to speed limits, which are strictly enforced.",
           "Road conditions can change quickly, especially off the main roads."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Bei Regen ist das Auto das ideale Verkehrsmittel für Kópavogur. Wir starten im Kulturzentrum Hamraborg und besuchen die Kópavogskirkja. Die Gerðarsafn Galerie bietet Kunstgenuss im Trockenen. Nach einem Besuch im Salurinn entspannen wir im Sundlaug-Pool, bevor wir den Tag gemütlich in der Smáralind Mall ausklingen lassen.",
+            "hu": "Esőben az autó az ideális közlekedési eszköz Kópavogurban. A Hamraborg kulturális központból indulunk, és meglátogatjuk a Kópavogskirkját. A Gerðarsafn galéria száraz művészi élményt kínál. A Salurinn után a Sundlaugban lazítunk, majd a napot kényelmesen a Smáralind plázában zárjuk.",
+            "ro": "Pe ploaie, mașina este mijlocul de transport ideal pentru Kópavogur. Pornim din centrul cultural Hamraborg și vizităm Kópavogskirkja. Galeria Gerðarsafn oferă o experiență artistică la adăpost. După Salurinn, ne relaxăm la Sundlaug, apoi încheiem ziua confortabil în mall-ul Smáralind.",
+            "en": "In the rain, the car is the ideal mode of transport for Kópavogur. We start at the Hamraborg cultural center and visit Kópavogskirkja. The Gerðarsafn gallery offers an artistic experience in the dry. After Salurinn, we relax at Sundlaug, then comfortably end the day at Smáralind Mall."
+          },
+          "stops": [
+            {
+              "name": "Hamraborg Cultural Cluster",
+              "tip_5lang": {
+                "de": "Parkhäuser in der Nähe halten Sie beim Aussteigen trocken.",
+                "hu": "A közeli parkolóházak szárazon tartják kiszálláskor.",
+                "ro": "Parcările acoperite din apropiere vă vor menține uscați la coborâre.",
+                "en": "Nearby parking garages keep you dry when getting out of the car."
+              }
+            },
+            {
+              "name": "Kópavogskirkja Church",
+              "tip_5lang": {
+                "de": "Parkplätze direkt vor der Kirche für minimalen Weg im Regen.",
+                "hu": "Parkolók közvetlenül a templom előtt a minimális gyalogláshoz.",
+                "ro": "Parcare chiar în fața bisericii pentru un drum minim prin ploaie.",
+                "en": "Parking right in front of the church for minimal walking in the rain."
+              }
+            },
+            {
+              "name": "Gerðarsafn Kópavogur Art Museum",
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Parkplatz zum Eingang genügt.",
+                "hu": "Egy rövid sprint a parkolótól a bejáratig bőven elég.",
+                "ro": "Un sprint scurt de la parcare până la intrare este suficient.",
+                "en": "A short sprint from the parking lot to the entrance is all it takes."
+              }
+            },
+            {
+              "name": "Salurinn Concert Hall",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Haupteingang für schnellen Zugang ins Warme.",
+                "hu": "Használja a főbejáratot a gyors bejutáshoz a melegbe.",
+                "ro": "Folosiți intrarea principală pentru acces rapid la căldură.",
+                "en": "Use the main entrance for quick access to the warmth."
+              }
+            },
+            {
+              "name": "Sundlaug Kópavogs Geothermal Pool",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist groß, aber bei Regen oft sehr voll.",
+                "hu": "A parkoló nagy, de esőben gyakran nagyon zsúfolt.",
+                "ro": "Parcarea este mare, dar adesea foarte plină când plouă.",
+                "en": "The parking lot is large but often very crowded when it rains."
+              }
+            },
+            {
+              "name": "Smáralind Shopping Mall",
+              "tip_5lang": {
+                "de": "Parken Sie im Parkhaus, um komplett trocken zu bleiben.",
+                "hu": "Parkoljon a fedett parkolóházban, hogy teljesen száraz maradjon.",
+                "ro": "Parcați în parcarea acoperită pentru a rămâne complet uscați.",
+                "en": "Park in the parking garage to stay completely dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vorsicht bei Aquaplaning auf den Hauptstraßen nach Reykjavik.",
+              "Nutzen Sie die Scheibenwischer auf höchster Stufe bei isländischem Starkregen.",
+              "In der Smáralind gibt es kostenlose Parkplätze im Parkhaus.",
+              "Halten Sie Abblendlicht immer eingeschaltet für bessere Sichtbarkeit.",
+              "Checken Sie die Website road.is für aktuelle Zustände bei Sturm."
+            ],
+            "hu": [
+              "Vigyázzon a vízenfutásra (aquaplaning) a Reykjavík felé vezető főutakon.",
+              "Erős izlandi esőben használja az ablaktörlőt a legmagasabb fokozaton.",
+              "A Smáralindben ingyenes parkolás várja a fedett garázsban.",
+              "A jobb láthatóság érdekében mindig legyen bekapcsolva a tompított fényszóró.",
+              "Vihar esetén ellenőrizze a road.is oldalt az aktuális útviszonyokért."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumurile principale spre Reykjavik.",
+              "Folosiți ștergătoarele la viteză maximă în timpul ploilor torențiale islandeze.",
+              "În Smáralind beneficiați de parcare gratuită în garajul acoperit.",
+              "Păstrați faza scurtă mereu aprinsă pentru o mai bună vizibilitate.",
+              "Verificați site-ul road.is pentru starea drumurilor în caz de furtună."
+            ],
+            "en": [
+              "Beware of aquaplaning on the main roads to Reykjavik.",
+              "Use windshield wipers at the highest setting during heavy Icelandic rain.",
+              "In Smáralind, free parking is available in the parking garage.",
+              "Always keep dipped headlights on for better visibility.",
+              "Check road.is for current conditions during a storm."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintertour mit dem Auto ist sicher und komfortabel. Wir bewundern die verschneite Kópavogskirkja und wärmen uns in der Gerðarsafn Galerie auf. Das Salurinn bietet eine gemütliche Pause. Das Highlight ist das heiße Bad im Sundlaug, während draußen der Schnee fällt. Den Tag beenden wir sicher im warmen Ambiente der Smáralind Mall.",
+            "hu": "A téli autós túra biztonságos és kényelmes. Megcsodáljuk a havas Kópavogskirkját, majd a Gerðarsafn galériában melegszünk fel. A Salurinn meghitt pihenőt kínál. A fénypont a forró fürdő a Sundlaugban, miközben kint esik a hó. A napot biztonságban, a Smáralind pláza meleg környezetében zárjuk.",
+            "ro": "Turul de iarnă cu mașina este sigur și confortabil. Admirăm Kópavogskirkja înzăpezită și ne încălzim în galeria Gerðarsafn. Salurinn oferă o pauză primitoare. Punctul culminant este baia fierbinte la Sundlaug, în timp ce afară ninge. Încheiem ziua în siguranță, în ambianța caldă a mall-ului Smáralind.",
+            "en": "The winter tour by car is safe and comfortable. We admire the snowy Kópavogskirkja and warm up in the Gerðarsafn gallery. Salurinn offers a cozy break. The highlight is the hot bath at Sundlaug while snow falls outside. We end the day safely in the warm ambiance of Smáralind Mall."
+          },
+          "stops": [
+            {
+              "name": "Hamraborg Cultural Cluster",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Flächen auf dem Parkplatz.",
+                "hu": "Vigyázzon a jeges felületekre a parkolóban.",
+                "ro": "Atenție la suprafețele înghețate din parcare.",
+                "en": "Watch out for icy spots in the parking lot."
+              }
+            },
+            {
+              "name": "Kópavogskirkja Church",
+              "tip_5lang": {
+                "de": "Die Auffahrt zur Kirche kann bei Glätte rutschig sein.",
+                "hu": "A templomhoz vezető feljáró jeges időben csúszós lehet.",
+                "ro": "Urcarea spre biserică poate fi alunecoasă pe timp de îngheț.",
+                "en": "The driveway to the church can be slippery during icy conditions."
+              }
+            },
+            {
+              "name": "Gerðarsafn Kópavogur Art Museum",
+              "tip_5lang": {
+                "de": "Der Eingangsbereich wird oft beheizt, um Eisbildung zu vermeiden.",
+                "hu": "A bejárat környékét gyakran fűtik a jegesedés elkerülésére.",
+                "ro": "Zona de intrare este adesea încălzită pentru a evita formarea gheții.",
+                "en": "The entrance area is often heated to avoid ice formation."
+              }
+            },
+            {
+              "name": "Salurinn Concert Hall",
+              "tip_5lang": {
+                "de": "Hinterlassen Sie schwere Wintermäntel an der Garderobe.",
+                "hu": "Hagyja a nehéz télikabátokat a ruhatárban.",
+                "ro": "Lăsați hainele grele de iarnă la garderobă.",
+                "en": "Leave heavy winter coats at the cloakroom."
+              }
+            },
+            {
+              "name": "Sundlaug Kópavogs Geothermal Pool",
+              "tip_5lang": {
+                "de": "Lassen Sie keine nassen Sachen im kalten Auto gefrieren.",
+                "hu": "Ne hagyja a vizes holmikat a hideg autóban megfagyni.",
+                "ro": "Nu lăsați lucrurile ude să înghețe în mașina rece.",
+                "en": "Do not let wet items freeze in the cold car."
+              }
+            },
+            {
+              "name": "Smáralind Shopping Mall",
+              "tip_5lang": {
+                "de": "Parken Sie im Parkhaus, um das Auto vor Frost zu schützen.",
+                "hu": "Parkoljon a fedett garázsban, hogy megvédje az autót a fagytól.",
+                "ro": "Parcați în garajul acoperit pentru a proteja mașina de îngheț.",
+                "en": "Park in the parking garage to protect the car from frost."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in Island gesetzlich vorgeschrieben und notwendig.",
+              "Halten Sie immer einen Eiskratzer und Handfeger bereit.",
+              "Vermeiden Sie das Parken unter Dachkanten wegen möglicher Eiszapfen.",
+              "Fahren Sie bei Dunkelheit besonders vorsichtig wegen Glatteis.",
+              "Überprüfen Sie regelmäßig den Frostschutz im Scheibenwischwasser."
+            ],
+            "hu": [
+              "A téli gumi Izlandon törvényi előírás és elengedhetetlen.",
+              "Mindig legyen kéznél jégkaparó és kefe.",
+              "Kerülje a tetőélek alatti parkolást a lezuhanó jégcsapok miatt.",
+              "Sötétben vezessen különösen óvatosan a jegesedés veszélye miatt.",
+              "Rendszeresen ellenőrizze a fagyállót a szélvédőmosóban."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii prin lege în Islanda și sunt esențiale.",
+              "Aveți mereu la îndemână o racletă și o perie pentru zăpadă.",
+              "Evitați parcarea sub marginea acoperișurilor din cauza țurțurilor.",
+              "Conduceți cu prudență sporită pe întuneric din cauza poleiului.",
+              "Verificați regulat antigelul din lichidul de parbriz."
+            ],
+            "en": [
+              "Winter tires are legally required in Iceland and essential.",
+              "Always have an ice scraper and a snow brush handy.",
+              "Avoid parking under roof edges due to falling icicles.",
+              "Drive extra cautiously in the dark due to icing risk.",
+              "Regularly check the antifreeze in the windshield washer fluid."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1418,6 +1988,196 @@
           "Wave at the bus to signal for it to stop; they don't automatically stop at every stop.",
           "A day pass is usually cheaper if you plan on making more than two trips."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit den gelben Strætó-Bussen erreichen wir trocken alle Ziele. Von der Haltestelle Hamraborg ist es nur ein kurzer Weg zur Kópavogskirkja und den Museen. Das Sundlaug-Bad ist ebenfalls gut angebunden. Den Regentag beenden wir entspannt in der Smáralind Mall, die ein wichtiger Busknotenpunkt ist.",
+            "hu": "A sárga Strætó buszokkal szárazon érhetünk el minden célt. A hamraborgi megállótól csak egy rövid út a Kópavogskirkja és a múzeumok. A Sundlaug fürdő is jól megközelíthető. Az esős napot lazán a Smáralind plázában zárjuk, amely fontos buszos csomópont.",
+            "ro": "Cu autobuzele galbene Strætó ajungem uscați la toate destinațiile. De la stația Hamraborg este doar un drum scurt până la Kópavogskirkja și muzee. Piscina Sundlaug este de asemenea bine conectată. Încheiem ziua ploioasă relaxați în mall-ul Smáralind, un nod important de transport.",
+            "en": "With the yellow Strætó buses, we can reach all destinations in the dry. From the Hamraborg stop, it is just a short walk to Kópavogskirkja and the museums. The Sundlaug pool is also well connected. We end the rainy day relaxed at Smáralind Mall, which is an important bus hub."
+          },
+          "stops": [
+            {
+              "name": "Hamraborg bus stop",
+              "tip_5lang": {
+                "de": "Zentraler Umsteigepunkt mit Unterständen gegen den Regen.",
+                "hu": "Központi átszállópont eső elleni védőtetőkkel.",
+                "ro": "Punct central de transfer cu adăposturi împotriva ploii.",
+                "en": "Central transfer point with shelters against the rain."
+              }
+            },
+            {
+              "name": "Kópavogskirkja Church",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Weg durch das Kulturzentrum, um weniger nass zu werden.",
+                "hu": "Használja a kulturális központon átvezető utat, hogy kevésbé ázzon el.",
+                "ro": "Folosiți drumul prin centrul cultural pentru a vă uda mai puțin.",
+                "en": "Use the path through the cultural center to stay drier."
+              }
+            },
+            {
+              "name": "Gerðarsafn Kópavogur Art Museum",
+              "tip_5lang": {
+                "de": "Nur wenige Gehminuten von der Hauptbushaltestelle entfernt.",
+                "hu": "Csak néhány perc séta a fő buszmegállótól.",
+                "ro": "La doar câteva minute de mers pe jos de stația principală de autobuz.",
+                "en": "Only a few minutes' walk from the main bus stop."
+              }
+            },
+            {
+              "name": "Sundlaug Kópavogs bus stop",
+              "tip_5lang": {
+                "de": "Direkter Zugang zum Bad, ideal bei schlechtem Wetter.",
+                "hu": "Közvetlen bejárat a fürdőhöz, ideális rossz időben.",
+                "ro": "Acces direct la piscină, ideal în caz de vreme rea.",
+                "en": "Direct access to the pool, ideal in bad weather."
+              }
+            },
+            {
+              "name": "Sundlaug Kópavogs Geothermal Pool",
+              "tip_5lang": {
+                "de": "Warme Duschen warten sofort nach der Ankunft.",
+                "hu": "Meleg zuhanyok várják rögtön az érkezés után.",
+                "ro": "Dușuri calde vă așteaptă imediat după sosire.",
+                "en": "Warm showers await immediately upon arrival."
+              }
+            },
+            {
+              "name": "Smáralind Shopping Mall",
+              "tip_5lang": {
+                "de": "Der Busbahnhof liegt direkt am überdachten Eingang.",
+                "hu": "A buszpályaudvar közvetlenül a fedett bejáratnál van.",
+                "ro": "Stația de autobuz este chiar lângă intrarea acoperită.",
+                "en": "The bus station is right at the covered entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Klapp.is App für Tickets und Echtzeit-Busverfolgung.",
+              "Die Busse in Island sind beheizt und bieten kostenloses WLAN.",
+              "Fast alle Haltestellen in Kópavogur haben Wetterschutz-Häuschen.",
+              "In der Smáralind Mall können Sie trocken auf den Bus warten.",
+              "Der Bus 1 verbindet Kópavogur schnell mit dem Zentrum von Reykjavik."
+            ],
+            "hu": [
+              "Használja a Klapp.is alkalmazást a jegyekhez és a valós idejű követéshez.",
+              "Az izlandi buszok fűtöttek és ingyenes Wi-Fi-t kínálnak.",
+              "Kópavogur szinte minden megállója rendelkezik esővédővel.",
+              "A Smáralind plázában szárazon várhat a buszára.",
+              "Az 1-es busz gyorsan összeköti Kópavogurt Reykjavík központjával."
+            ],
+            "ro": [
+              "Folosiți aplicația Klapp.is pentru bilete și monitorizarea autobuzelor în timp real.",
+              "Autobuzele din Islanda sunt încălzite și oferă Wi-Fi gratuit.",
+              "Aproape toate stațiile din Kópavogur au adăposturi împotriva intemperiilor.",
+              "În mall-ul Smáralind puteți aștepta autobuzul la adăpost.",
+              "Autobuzul 1 conectează rapid Kópavogur de centrul orașului Reykjavik."
+            ],
+            "en": [
+              "Use the Klapp.is app for tickets and real-time bus tracking.",
+              "Icelandic buses are heated and offer free Wi-Fi.",
+              "Almost all bus stops in Kópavogur have weather shelters.",
+              "You can wait for your bus in the dry inside Smáralind Mall.",
+              "Bus 1 quickly connects Kópavogur with central Reykjavik."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Öffentliche Verkehrsmittel sind im Winter die stressfreieste Art, Kópavogur zu erkunden. Wir starten warm im Bus nach Hamraborg. Die Museen bieten eine kulturelle Zuflucht vor der Kälte. Nach dem dampfenden Thermalbad Sundlaug bringt uns der Bus direkt zur hell erleuchteten Smáralind Mall, wo wir den Wintertag gemütlich beenden.",
+            "hu": "Télen a tömegközlekedés a legnyugodtabb módja Kópavogur felfedezésének. Meleg buszban utazunk Hamraborg felé. A múzeumok kulturális menedéket nyújtanak a hideg elől. A gőzölgő Sundlaug termálfürdő után a busz egyenesen a kivilágított Smáralind plázához visz minket, ahol a téli napot zárjuk.",
+            "ro": "Transportul public este cel mai lipsit de stres mod de a explora Kópavogur iarna. Călătorim la căldură în autobuz spre Hamraborg. Muzeele oferă un refugiu cultural împotriva frigului. După baia termală de la Sundlaug, autobuzul ne duce direct la mall-ul Smáralind iluminat festiv.",
+            "en": "In winter, public transport is the most stress-free way to explore Kópavogur. We travel warm in the bus towards Hamraborg. The museums provide a cultural refuge from the cold. After the steaming Sundlaug thermal bath, the bus takes us straight to the brightly lit Smáralind Mall."
+          },
+          "stops": [
+            {
+              "name": "Hamraborg bus stop",
+              "tip_5lang": {
+                "de": "Oft ein windiger Ort; nutzen Sie den geschlossenen Warteraum.",
+                "hu": "Gyakran szeles hely; használja a zárt várótermet.",
+                "ro": "Adesea un loc vântos; folosiți sala de așteptare închisă.",
+                "en": "Often a windy spot; use the enclosed waiting room."
+              }
+            },
+            {
+              "name": "Kópavogskirkja Church",
+              "tip_5lang": {
+                "de": "Achten Sie auf dem Weg vom Bus zur Kirche auf Glatteis.",
+                "hu": "A busztól a templomig tartó úton vigyázzon a felfagyásokra.",
+                "ro": "Atenție la polei pe drumul de la autobuz până la biserică.",
+                "en": "Watch out for black ice on the way from the bus to the church."
+              }
+            },
+            {
+              "name": "Gerðarsafn Kópavogur Art Museum",
+              "tip_5lang": {
+                "de": "Ganz in der Nähe gibt es Cafés zum Aufwärmen nach dem Busweg.",
+                "hu": "A közelben több kávézó is várja a buszozás után melegedni vágyókat.",
+                "ro": "În apropiere sunt cafenele unde vă puteți încălzi după drumul cu autobuzul.",
+                "en": "There are cafes nearby to warm up after the bus ride."
+              }
+            },
+            {
+              "name": "Sundlaug Kópavogs bus stop",
+              "tip_5lang": {
+                "de": "Die Busfrequenz kann bei extremem Schneefall variieren.",
+                "hu": "A buszok gyakorisága extrém havazás esetén változhat.",
+                "ro": "Frecvența autobuzelor poate varia în caz de ninsori extreme.",
+                "en": "Bus frequency may vary during extreme snowfall."
+              }
+            },
+            {
+              "name": "Sundlaug Kópavogs Geothermal Pool",
+              "tip_5lang": {
+                "de": "Trocknen Sie Ihre Haare gründlich, bevor Sie zum Bus zurückkehren.",
+                "hu": "Szárítsa meg alaposan a haját, mielőtt visszatérne a buszhoz.",
+                "ro": "Uscați-vă bine părul înainte de a vă întoarce la autobuz.",
+                "en": "Dry your hair thoroughly before returning to the bus."
+              }
+            },
+            {
+              "name": "Smáralind Shopping Mall",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um im Warmen auf den Anschlussbus zu warten.",
+                "hu": "Ideális helyszín a melegben várni a csatlakozó buszra.",
+                "ro": "Un loc ideal pentru a aștepta autobuzul de legătură la căldură.",
+                "en": "An ideal place to wait for your connecting bus in the warmth."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse können bei starkem Schneefall Verspätungen haben.",
+              "Die Haltestellen sind nachts gut beleuchtet und sicher.",
+              "In Island gibt es keine Nachtbusse; planen Sie Ihre Rückreise bis Mitternacht.",
+              "Tragen Sie Reflektoren an Ihrer Kleidung, um an Haltestellen gesehen zu werden.",
+              "Die Busse sind im Winter sehr gut geheizt; kleiden Sie sich im Zwiebelprinzip."
+            ],
+            "hu": [
+              "Erős havazás esetén a buszok késhetnek.",
+              "A megállók éjszaka jól kivilágítottak és biztonságosak.",
+              "Izlandon nincsenek éjszakai buszok; tervezze meg a hazautat éjfélig.",
+              "Viseljen fényvisszaverőt, hogy a buszsofőrök észrevegyék a megállókban.",
+              "A buszok télen nagyon jól fűtöttek; öltözzön rétegesen."
+            ],
+            "ro": [
+              "Autobuzele pot avea întârzieri în caz de ninsori puternice.",
+              "Stațiile sunt bine iluminate și sigure pe timpul nopții.",
+              "În Islanda nu există autobuze de noapte; planificați întoarcerea până la miezul nopții.",
+              "Purtați elemente reflectorizante pentru a fi văzuți în stații.",
+              "Autobuzele sunt foarte bine încălzite iarna; îmbrăcați-vă în straturi."
+            ],
+            "en": [
+              "Buses may experience delays during heavy snowfall.",
+              "Bus stops are well-lit and safe at night.",
+              "There are no night buses in Iceland; plan your return journey by midnight.",
+              "Wear reflectors on your clothing to be seen at bus stops.",
+              "Buses are very well heated in winter; dress in layers."
+            ]
+          }
+        }
       }
     }
   }

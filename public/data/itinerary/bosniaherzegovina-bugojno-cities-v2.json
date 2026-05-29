@@ -309,6 +309,178 @@
           "Most of the main sights are located close to each other.",
           "Plan for a coffee break in one of the many local cafes."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag im Museum von Bugojno, einem idealen Rückzugsort vor dem Regen, wo Sie die lokale Geschichte im Trockenen entdecken können. Mittags bietet die Sultan-Ahmed-Moschee einen ruhigen, überdachten Raum zur Besinnung, während die Wolken über die Stadt ziehen.\n\nAm Nachmittag führt ein kurzer Spaziergang unter dem Regenschirm zur St.-Antonius-Kirche. Trotz des Wetters wirkt die Architektur im Regenlicht besonders eindrucksvoll. Später bietet die Vrbas-Brücke einen dramatischen Anblick des anschwellenden Flusses.\n\nDen Abend lassen Sie in der Nähe des Gorski-Parks ausklingen. Die nassen Wege glänzen im Laternenlicht, und die frische, regenreine Luft macht den kurzen Rundgang vor dem Abendessen besonders belebend.",
+            "hu": "Kezdje a napot a Bugojno Múzeumban, amely tökéletes menedék az eső elől, és fedett helyen ismerkedhet meg a helyi történelemmel. Délben a Szultán Ahmed-mecset nyújt csendes, védett teret az elmélkedésre, miközben az esőfelhők átvonulnak a város felett.\n\nDélután egy rövid, esernyős séta vezet a Szent Antal-templomhoz. Az épület a szürke fényben is tekintélyt parancsoló. Később a Vrbas-híd mellett figyelheti meg a megduzzadt folyó sodrását, ami ilyenkor különösen látványos.\n\nAz estét a Gorski Park közelében fejezze be. A vizes ösvények csillognak a lámpafényben, és az eső utáni friss levegő különleges élménnyé teszi az utolsó rövid kört a vacsora előtt.",
+            "ro": "Începeți ziua la Muzeul din Bugojno, un refugiu ideal împotriva ploii, unde puteți descoperi istoria locală la adăpost. La prânz, Moscheea Sultan Ahmed oferă un spațiu liniștit și acoperit pentru reflecție, în timp ce norii trec peste oraș.\n\nDupă-amiaza, o scurtă plimbare cu umbrela vă duce la Biserica Sfântul Anton. Arhitectura pare deosebit de impresionantă în lumina ploioasă. Mai târziu, Podul Vrbas oferă o priveliște dramatică asupra râului umflat de precipitații.\n\nÎncheiați seara lângă Parcul Gorski. Aleile umede strălucesc sub lumina felinarelor, iar aerul proaspăt și curat de după ploaie face ca scurta plimbare de dinaintea cinei să fie revigorantă.",
+            "en": "Start your day at the Museum of Bugojno, a perfect shelter from the rain where you can discover local history while staying dry. At noon, the Sultan Ahmed Mosque provides a quiet, covered space for reflection as the rain clouds pass over the city.\n\nIn the afternoon, a short walk with an umbrella leads to the Church of Saint Anthony. The architecture looks particularly striking in the rainy light. Later, the Vrbas Bridge offers a dramatic view of the rising river waters.\n\nEnd the evening near Gorski Park. The wet paths glisten under the streetlights, and the fresh, rain-cleansed air makes a final short stroll before dinner especially invigorating."
+          },
+          "stops": [
+            {
+              "name": "Museum of Bugojno",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um den ersten Regenschauer des Tages im Trockenen zu überbrücken.",
+                "hu": "Tökéletes helyszín az első reggeli zápor átvészelésére fedett helyen.",
+                "ro": "Locul perfect pentru a evita prima ploaie a zilei la adăpost.",
+                "en": "Perfect place to wait out the first morning shower while staying dry."
+              }
+            },
+            {
+              "name": "Sultan Ahmed Mosque",
+              "tip_5lang": {
+                "de": "Achten Sie auf rutschige Steine im Eingangsbereich bei Nässe.",
+                "hu": "Vigyázzon a csúszós kövekre a bejáratnál nedves időben.",
+                "ro": "Atenție la pietrele alunecoase de la intrare pe timp de ploaie.",
+                "en": "Watch out for slippery stones at the entrance during wet weather."
+              }
+            },
+            {
+              "name": "Church of Saint Anthony",
+              "tip_5lang": {
+                "de": "Der Innenraum bietet eine friedliche Atmosphäre, während es draußen regnet.",
+                "hu": "A belső tér békés hangulatot áraszt, miközben kint esik az eső.",
+                "ro": "Interiorul oferă o atmosferă liniștită în timp ce afară plouă.",
+                "en": "The interior offers a peaceful atmosphere while it rains outside."
+              }
+            },
+            {
+              "name": "Vrbas Bridge",
+              "tip_5lang": {
+                "de": "Vorsicht vor Pfützen auf dem Gehweg; die Brücke ist windanfällig.",
+                "hu": "Vigyázzon a tócsákra a járdán; a híd szeles lehet esőben.",
+                "ro": "Atenție la bălțile de pe trotuar; podul este expus vântului.",
+                "en": "Watch out for puddles on the sidewalk; the bridge can be windy."
+              }
+            },
+            {
+              "name": "Gorski Park",
+              "tip_5lang": {
+                "de": "Festes, wasserdichtes Schuhwerk ist für die Parkwege heute unerlässlich.",
+                "hu": "Vízálló lábbeli elengedhetetlen a parki ösvényekhez a mai napon.",
+                "ro": "Încălțămintea impermeabilă este esențială pentru potecile din parc astăzi.",
+                "en": "Waterproof footwear is essential for the park paths today."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie einen stabilen Regenschirm, da der Wind an der Brücke stark sein kann.",
+              "Nutzen Sie die Cafés in der Nähe des Museums für trockene Pausen.",
+              "Achten Sie auf Kopfsteinpflaster, das bei Nässe sehr rutschig wird.",
+              "Wasserdichte Schuhe sind für den Besuch des Gorski-Parks ratsam.",
+              "Die Lichtverhältnisse bei Regen eignen sich gut für stimmungsvolle Fotos."
+            ],
+            "hu": [
+              "Vigyen magával stabil esernyőt, mert a hídnál erős lehet a szél.",
+              "Használja a múzeum környéki kávézókat a száraz pihenőkhöz.",
+              "Ügyeljen a macskakövekre, amelyek nedvesen nagyon csúsznak.",
+              "A Gorski Park látogatásához vízálló cipő javasolt.",
+              "Az esős fényviszonyok kiválóak hangulatos fotók készítéséhez."
+            ],
+            "ro": [
+              "Purtați o umbrelă rezistentă, deoarece vântul poate fi puternic la pod.",
+              "Folosiți cafenelele de lângă muzeu pentru pauze la adăpost.",
+              "Atenție la pavajul cu piatră cubică, acesta devine alunecos când e ud.",
+              "Se recomandă încălțăminte impermeabilă pentru vizitarea Parcului Gorski.",
+              "Lumina de ploaie este ideală pentru fotografii atmosferice."
+            ],
+            "en": [
+              "Carry a sturdy umbrella as the wind near the bridge can be strong.",
+              "Use the cafes near the museum for dry breaks.",
+              "Watch out for cobblestones, which become very slippery when wet.",
+              "Waterproof shoes are recommended for visiting Gorski Park.",
+              "Rainy lighting conditions are great for atmospheric photos."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen beginnt im beheizten Museum von Bugojno, wo Sie in Ruhe die Exponate studieren können. Die Kälte draußen macht die historische Atmosphäre drinnen umso gemütlicher, während Sie aufwärmen.\n\nMittags bieten die Moschee und die Kirche kurze, besinnliche Stopps in Wärme. Die schneebedeckten Dächer der Stadt verleihen Bugojno einen märchenhaften Charme, der zum Verweilen einlädt.\n\nAm Nachmittag führt der Weg zur Vrbas-Brücke. Der Fluss dampft oft in der Winterkälte, ein faszinierendes Naturschauspiel. Es ist wichtig, die Zeit im Auge zu behalten, da die Dämmerung früh einsetzt.\n\nDer Tag endet im Gorski-Park. Bei Schnee bietet der Park eine stille, friedliche Kulisse. Genießen Sie die winterliche Einsamkeit, bevor Sie sich in ein nahegelegenes Restaurant zur traditionellen bosnischen Küche zurückziehen.",
+            "hu": "A fagyos reggel a fűtött Bugojno Múzeumban kezdődik, ahol nyugodtan böngészheti a kiállításokat. A kinti hideg még hívogatóbbá teszi a benti történelmi hangulatot a bemelegedéshez.\n\nDélben a mecset és a templom rövid, meghitt megállókat kínálnak a melegben. A város havas háztetői mesebeli bájt kölcsönöznek Bugojnónak, ami marasztalja a látogatót.\n\nDélután az út a Vrbas-hídhoz vezet. A folyó gyakran gőzölög a téli hidegben, ami lenyűgöző látvány. Fontos figyelni az időt, mert a sötétedés korán érkezik.\n\nA nap a Gorski Parkban zárul. Hóban a park csendes, békés díszletet nyújt. Élvezze a téli magányt, mielőtt betérne egy közeli étterembe egy tál forró hagyományos bosnyák ételre.",
+            "ro": "O dimineață geroasă începe la Muzeul încălzit din Bugojno, unde puteți studia exponatele în liniște. Frigul de afară face atmosfera istorică din interior și mai primitoare pentru a vă încălzi.\n\nLa prânz, moscheea și biserica oferă scurte opriri contemplative la căldură. Acoperișurile înzăpezite ale orașului conferă localității Bugojno un farmec de basm care vă invită să zăboviți.\n\nDupă-amiaza, drumul duce la Podul Vrbas. Râul aburește adesea în gerul iernii, un spectacol natural fascinant. Este important să supravegheați ceasul, deoarece amurgul se lasă devreme.\n\nZiua se încheie în Parcul Gorski. Sub zăpadă, parcul oferă un cadru tăcut și liniștit. Bucurați-vă de singurătatea iernii înainte de a vă retrage într-un restaurant din apropiere pentru bucătăria tradițională bosniacă.",
+            "en": "A frosty morning begins in the heated Museum of Bugojno, where you can study the exhibits in peace. The cold outside makes the historical atmosphere inside all the more cozy while you warm up.\n\nAt noon, the mosque and the church offer short, contemplative stops in the warmth. The snow-covered roofs of the town give Bugojno a fairytale charm that invites you to linger.\n\nIn the afternoon, the path leads to the Vrbas Bridge. The river often steams in the winter cold, a fascinating natural spectacle. It's important to keep an eye on the time, as dusk sets in early.\n\nThe day ends in Gorski Park. In the snow, the park provides a quiet, peaceful backdrop. Enjoy the winter solitude before retreating to a nearby restaurant for traditional Bosnian cuisine."
+          },
+          "stops": [
+            {
+              "name": "Museum of Bugojno",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Heizung im Museum, um für den restlichen Tag aufzuwärmen.",
+                "hu": "Használja ki a múzeum fűtését, hogy jól bemelegedjen a nap hátralévő részére.",
+                "ro": "Profitați de încălzirea din muzeu pentru a vă încălzi pentru restul zilei.",
+                "en": "Take advantage of the heating in the museum to warm up for the rest of the day."
+              }
+            },
+            {
+              "name": "Sultan Ahmed Mosque",
+              "tip_5lang": {
+                "de": "Bedenken Sie, dass Sie beim Eintreten die Schuhe ausziehen müssen; dicke Socken helfen.",
+                "hu": "Ne feledje, hogy belépéskor le kell venni a cipőt; a vastag zokni sokat segít.",
+                "ro": "Rețineți că trebuie să vă scoateți încălțămintea la intrare; șosetele groase ajută.",
+                "en": "Remember that you must take off your shoes upon entering; thick socks help."
+              }
+            },
+            {
+              "name": "Church of Saint Anthony",
+              "tip_5lang": {
+                "de": "Ein schöner Ort für einen Moment der Stille in einem warmen Gebäude.",
+                "hu": "Remek helyszín egy percnyi csendhez egy meleg épületben.",
+                "ro": "Un loc excelent pentru un moment de liniște într-o clădire caldă.",
+                "en": "A great spot for a moment of silence in a warm building."
+              }
+            },
+            {
+              "name": "Vrbas Bridge",
+              "tip_5lang": {
+                "de": "Vorsicht bei Glätte auf der Brücke; der Wind verstärkt das Kälteempfinden.",
+                "hu": "Vigyázzon a jegesedésre a hídon; a szél miatt hidegebbnek érződik az idő.",
+                "ro": "Atenție la polei pe pod; vântul accentuează senzația de frig.",
+                "en": "Watch out for ice on the bridge; the wind makes it feel much colder."
+              }
+            },
+            {
+              "name": "Gorski Park",
+              "tip_5lang": {
+                "de": "Der Park schließt bei Einbruch der Dunkelheit; kommen Sie vor 16:00 Uhr.",
+                "hu": "A park sötétedéskor zár; érkezzen délután 4 óra előtt.",
+                "ro": "Parcul se închide la lăsarea întunericului; sosiți înainte de ora 16:00.",
+                "en": "The park closes at dusk; arrive before 4:00 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermokleidung, da die Temperaturen oft unter Null fallen.",
+              "Die Sonne geht im Winter bereits gegen 16:30 Uhr unter.",
+              "Planen Sie regelmäßige Stopps in beheizten Cafés ein.",
+              "Achten Sie auf geräumte Wege, besonders in der Nähe des Flusses.",
+              "Ein heißer Tee oder Kaffee ist nach dem Besuch des Gorski-Parks ein Muss."
+            ],
+            "hu": [
+              "Viseljen hőtartó ruházatot, mert a hőmérséklet gyakran fagypont alá esik.",
+              "Télen a nap már 16:30 körül lenyugszik.",
+              "Tervezzen be rendszeres pihenőket fűtött kávézókban.",
+              "Figyeljen a letakarított utakra, különösen a folyó közelében.",
+              "Egy forró tea vagy kávé kötelező a Gorski Park látogatása után."
+            ],
+            "ro": [
+              "Purtați haine termice, deoarece temperaturile scad adesea sub zero grade.",
+              "Iarna, soarele apune deja în jurul orei 16:30.",
+              "Planificați opriri regulate în cafenele încălzite.",
+              "Atenție la drumurile curățate, în special în apropierea râului.",
+              "Un ceai sau o cafea fierbinte este obligatorie după vizitarea Parcului Gorski."
+            ],
+            "en": [
+              "Wear thermal clothing as temperatures often drop below freezing.",
+              "The sun sets as early as 4:30 PM in winter.",
+              "Plan regular stops in heated cafes to stay warm.",
+              "Watch for cleared paths, especially near the river.",
+              "A hot tea or coffee is a must after visiting Gorski Park."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -635,6 +807,196 @@
           "Some roads outside the city can be uneven.",
           "Bring enough water, especially for the ride to Ajvatovica."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ihre Radtour beginnt an der Vrbas-Brücke, wo Sie trotz des Regens die Kraft des Wassers spüren. Achten Sie auf die rutschige Fahrbahn, während Sie zum Museum von Bugojno weiterfahren, um dort eine längere Trockenpause einzulegen.\n\nMittags radeln Sie vorsichtig zur Sultan-Ahmed-Moschee. Die kurzen Distanzen zwischen den Sehenswürdigkeiten helfen dabei, nicht völlig durchnässt zu werden. Ein Regencape ist heute Ihr bester Begleiter.\n\nAm Nachmittag führt die Route durch den Gorski-Park. Die asphaltierten Wege sind befahrbar, aber meiden Sie die unbefestigten Pfade. Weiter geht es zur Potočani-Nekropole, die im Regen eine mystische Aura ausstrahlt.\n\nDie Tour endet am Wallfahrtsort Ajvatovica. Die Auffahrt erfordert bei Nässe volle Konzentration. Genießen Sie die neblige Aussicht über die bosnischen Berge, bevor Sie die Rückreise antreten.",
+            "hu": "A biciklitúra a Vrbas-hídnál kezdődik, ahol az eső ellenére is érezni a víz erejét. Ügyeljen a csúszós útfelületre, miközben a Bugojno Múzeum felé teker, hogy ott egy hosszabb száraz pihenőt tartson.\n\nDélben óvatosan guruljon el a Szultán Ahmed-mecsethez. A látnivalók közötti rövid távolságok segítenek abban, hogy ne ázzon el teljesen. Egy esőponcsó ma a legjobb barátja lesz.\n\nDélután az útvonal a Gorski Parkon halad keresztül. Az aszfaltozott utak járhatóak, de kerülje a földutakat. Folytassa az utat a Potočani-nekropolisz felé, amely az esőben misztikus hangulatot áraszt.\n\nA túra az ajvatovicai zarándokhelyen ér véget. A felfelé vezető út nedvesen teljes koncentrációt igényel. Élvezze a ködös kilátást a bosnyák hegyekre, mielőtt visszaindulna.",
+            "ro": "Turul cu bicicleta începe la Podul Vrbas, unde, în ciuda ploii, puteți simți forța apei. Atenție la carosabilul alunecos în timp ce pedalați spre Muzeul din Bugojno pentru o pauză lungă la uscat.\n\nLa prânz, pedalați cu grijă spre Moscheea Sultan Ahmed. Distanțele scurte între obiective vă ajută să nu vă udați complet. O pelerină de ploaie este cel mai bun aliat astăzi.\n\nDupă-amiaza, traseul trece prin Parcul Gorski. Drumurile asfaltate sunt practicabile, dar evitați potecile de pământ. Continuați spre Necropola Potočani, care emană o aură mistică în ploaie.\n\nTurul se încheie la locul de pelerinaj Ajvatovica. Urcarea necesită concentrare maximă pe carosabil umed. Bucurați-vă de priveliștea cețoasă peste munții bosniaci înainte de a începe drumul de întoarcere.",
+            "en": "Your bike tour starts at the Vrbas Bridge, where you can feel the power of the water despite the rain. Watch for the slippery road surface as you cycle towards the Museum of Bugojno for a longer dry break.\n\nAt noon, cycle carefully to the Sultan Ahmed Mosque. The short distances between sights help you stay relatively dry. A rain poncho is your best companion today.\n\nIn the afternoon, the route passes through Gorski Park. The paved roads are ridable, but avoid the unpaved paths. Continue to the Potočani Necropolis, which exudes a mystical aura in the rain.\n\nThe tour ends at the Ajvatovica pilgrimage site. The climb requires full concentration in the wet. Enjoy the misty views over the Bosnian mountains before heading back."
+          },
+          "stops": [
+            {
+              "name": "Vrbas Bridge",
+              "tip_5lang": {
+                "de": "Vorsicht auf den Metallfugen der Brücke; diese sind bei Regen extrem glatt.",
+                "hu": "Vigyázzon a híd fém illesztéseire; ezek esőben rendkívül csúszósak.",
+                "ro": "Atenție la îmbinările metalice ale podului; acestea sunt extrem de alunecoase pe ploaie.",
+                "en": "Watch out for metal joints on the bridge; they are extremely slippery in the rain."
+              }
+            },
+            {
+              "name": "Museum of Bugojno",
+              "tip_5lang": {
+                "de": "Sicherer Abstellplatz für Fahrräder in der Nähe vorhanden.",
+                "hu": "Biztonságos kerékpártároló elérhető a közelben.",
+                "ro": "Loc de parcare securizat pentru biciclete disponibil în apropiere.",
+                "en": "Secure bike parking available nearby."
+              }
+            },
+            {
+              "name": "Sultan Ahmed Mosque",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Vorplatz für einen kurzen Check der Ausrüstung.",
+                "hu": "Használja a fedett előteret a felszerelés gyors ellenőrzésére.",
+                "ro": "Folosiți curtea interioară acoperită pentru o scurtă verificare a echipamentului.",
+                "en": "Use the covered courtyard for a quick equipment check."
+              }
+            },
+            {
+              "name": "Gorski Park",
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den Hauptwegen; Grasflächen sind jetzt sehr rutschig.",
+                "hu": "Maradjon a főutakon; a füves területek most nagyon csúszósak.",
+                "ro": "Rămâneți pe drumurile principale; zonele verzi sunt foarte alunecoase acum.",
+                "en": "Stay on the main paths; grassy areas are very slippery now."
+              }
+            },
+            {
+              "name": "Potočani Necropolis",
+              "tip_5lang": {
+                "de": "Die Steine sind bei Nässe rutschig; beim Herumlaufen Vorsicht geboten.",
+                "hu": "A kövek vizesen csúsznak; óvatosan járkáljon a sírok között.",
+                "ro": "Pietrele sunt alunecoase când sunt ude; atenție sporită la deplasare.",
+                "en": "The stones are slippery when wet; be careful while walking around."
+              }
+            },
+            {
+              "name": "Ajvatovica pilgrimage site",
+              "tip_5lang": {
+                "de": "Die Auffahrt kann bei Regen anstrengend sein; auf den Verkehr achten.",
+                "hu": "A felfelé vezető út esőben fárasztó lehet; figyeljen a forgalomra.",
+                "ro": "Urcarea poate fi obositoare pe ploaie; atenție la trafic.",
+                "en": "The uphill climb can be tiring in the rain; watch for traffic."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche am Fahrrad sind heute ein Muss gegen Spritzwasser.",
+              "Bremsen Sie frühzeitig, da der Bremsweg auf nasser Straße länger ist.",
+              "Vermeiden Sie Pfützen, da diese tiefe Schlaglöcher verbergen können.",
+              "Helle, reflektierende Kleidung erhöht die Sichtbarkeit bei grauem Wetter.",
+              "Ein wasserdichter Überzug für den Sattel spart Komfort beim Aufsteigen."
+            ],
+            "hu": [
+              "A sárvédő ma elengedhetetlen a felcsapódó víz ellen.",
+              "Fékezzen időben, mert a fékút hosszabb a nedves úton.",
+              "Kerülje a tócsákat, mert mély kátyúkat rejthetnek.",
+              "Az élénk, fényvisszaverő ruházat növeli a láthatóságot szürke időben.",
+              "A nyeregre húzott vízálló huzat sokat javít a kényelmen."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt obligatorii astăzi împotriva stropirii.",
+              "Frânați din timp, deoarece distanța de frânare este mai mare pe carosabil ud.",
+              "Evitați bălțile, deoarece pot ascunde gropi adânci.",
+              "Hainele reflectorizante cresc vizibilitatea pe vreme gri.",
+              "O husă impermeabilă pentru șa sporește confortul la urcare."
+            ],
+            "en": [
+              "Mudguards are a must today to protect against splashes.",
+              "Brake early as the braking distance is longer on wet roads.",
+              "Avoid puddles as they can hide deep potholes.",
+              "Bright, reflective clothing increases visibility in gray weather.",
+              "A waterproof saddle cover adds a lot of comfort."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Start an der Vrbas-Brücke markiert den Beginn Ihrer Wintertour. Die Luft ist klar und die Straßen sind meist geräumt, dennoch ist Vorsicht bei möglichem Glatteis geboten. Das Museum von Bugojno bietet bald darauf die nötige Wärme.\n\nMittags radeln Sie zur Sultan-Ahmed-Moschee. Die kurzen Wege durch das Stadtzentrum sind auch bei Kälte gut machbar. Achten Sie auf festgefahrenen Schnee an den Straßenrändern.\n\nDer Nachmittag führt in den Gorski-Park, der in Weiß getaucht eine ganz eigene Stille ausstrahlt. Nach einem kurzen Halt an der Potočani-Nekropole geht es weiter bergauf.\n\nDer Höhepunkt ist Ajvatovica. Die Winterlandschaft der umliegenden Berge ist atemberaubend. Planen Sie die Rückfahrt so, dass Sie vor Einbruch der Dunkelheit wieder im Stadtzentrum sind, da die Temperaturen dann rapide sinken.",
+            "hu": "Hűvös kezdés a Vrbas-hídnál a téli túra indításaként. A levegő tiszta, az utak nagy része takarított, de vigyázzon az esetleges jegesedésre. A Bugojno Múzeum hamarosan kínálja a szükséges meleget.\n\nDélben tekerjen el a Szultán Ahmed-mecsethez. A városközponton belüli rövid utak hidegben is jól bírhatóak. Ügyeljen az utak szélén felhalmozott hóra.\n\nA délután a Gorski Parkba vezet, amely fehérbe öltözve különleges csendet áraszt. Egy rövid megálló után a Potočani-nekropolisznál folytassa az emelkedőt.\n\nA csúcspont Ajvatovica. A környező hegyek téli tája lélegzetelállító. Tervezze úgy a visszafelé utat, hogy sötétedés előtt visszaérjen a központba, mert a hőmérséklet hirtelen zuhanni fog.",
+            "ro": "Un început răcoros la Podul Vrbas marchează debutul turului de iarnă. Aerul este curat, iar drumurile sunt în mare parte curățate, totuși atenție la polei. Muzeul din Bugojno oferă în scurt timp căldura necesară.\n\nLa prânz, pedalați spre Moscheea Sultan Ahmed. Traseele scurte prin centrul orașului sunt practicabile chiar și pe frig. Atenție la zăpada tasată de pe marginea drumului.\n\nDupă-amiaza duce în Parcul Gorski, care, îmbrăcat în alb, emană o liniște aparte. După o scurtă oprire la Necropola Potočani, continuați urcarea.\n\nPunctul culminant este Ajvatovica. Peisajul de iarnă al munților învecinați este uluitor. Planificați drumul de întoarcere astfel încât să ajungeți în centru înainte de lăsarea întunericului, deoarece temperaturile scad brusc.",
+            "en": "A cool start at the Vrbas Bridge marks the beginning of your winter tour. The air is clear and the roads are mostly cleared, yet watch out for potential black ice. The Museum of Bugojno soon offers the necessary warmth.\n\nAt noon, cycle to the Sultan Ahmed Mosque. The short routes through the city center are manageable even in the cold. Watch out for packed snow at the roadsides.\n\nIn the afternoon, the path leads to Gorski Park, which exudes a unique silence in white. After a short stop at the Potočani Necropolis, continue uphill.\n\nThe highlight is Ajvatovica. The winter landscape of the surrounding mountains is breathtaking. Plan your return trip so that you are back in the city center before dark, as temperatures will drop rapidly."
+          },
+          "stops": [
+            {
+              "name": "Vrbas Bridge",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrierender Nässe auf der Brücke am frühen Morgen.",
+                "hu": "Vigyázzon a lefagyásokra a hídon a kora reggeli órákban.",
+                "ro": "Atenție la polei pe pod la primele ore ale dimineții.",
+                "en": "Watch out for freezing moisture on the bridge in the early morning."
+              }
+            },
+            {
+              "name": "Museum of Bugojno",
+              "tip_5lang": {
+                "de": "Ein guter Ort, um die Hände aufzuwärmen und die Handschuhe zu trocknen.",
+                "hu": "Kiváló hely a kezek felmelegítésére és a kesztyűk megszárítására.",
+                "ro": "Un loc bun pentru a vă încălzi mâinile și pentru a usca mănușile.",
+                "en": "A good place to warm up your hands and dry your gloves."
+              }
+            },
+            {
+              "name": "Sultan Ahmed Mosque",
+              "tip_5lang": {
+                "de": "Der Innenhof kann glatt sein; beim Absteigen vom Rad vorsichtig sein.",
+                "hu": "A belső udvar csúszós lehet; óvatosan szálljon le a bicikliről.",
+                "ro": "Curtea interioară poate fi alunecoasă; atenție la coborârea de pe bicicletă.",
+                "en": "The inner courtyard can be slippery; be careful when dismounting."
+              }
+            },
+            {
+              "name": "Gorski Park",
+              "tip_5lang": {
+                "de": "Fahren Sie langsam; unter dem Schnee können versteckte Eisflächen liegen.",
+                "hu": "Hajtson lassan; a hó alatt rejtett jégfoltok lehetnek.",
+                "ro": "Pedalați încet; sub zăpadă pot fi porțiuni de gheață ascunse.",
+                "en": "Ride slowly; there may be hidden ice patches under the snow."
+              }
+            },
+            {
+              "name": "Potočani Necropolis",
+              "tip_5lang": {
+                "de": "Die Anlage ist bei Schnee schwerer zugänglich; festes Schuhwerk beim Absteigen.",
+                "hu": "A terület hóban nehezebben megközelíthető; szálljon le óvatosan.",
+                "ro": "Situl este mai greu accesibil în zăpadă; încălțăminte solidă la coborâre.",
+                "en": "The site is harder to access in snow; wear solid shoes when dismounting."
+              }
+            },
+            {
+              "name": "Ajvatovica pilgrimage site",
+              "tip_5lang": {
+                "de": "Prüfen Sie vor der Auffahrt den Straßenzustand bei lokalem Schneefall.",
+                "hu": "Indulás előtt ellenőrizze az útviszonyokat helyi havazás esetén.",
+                "ro": "Verificați starea drumului înainte de urcare în caz de ninsori locale.",
+                "en": "Check road conditions before the climb in case of local snowfall."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie mehrere Schichten und winddichte Handschuhe.",
+              "Prüfen Sie den Reifendruck; etwas weniger Druck bietet mehr Grip auf Schnee.",
+              "Verwenden Sie helles Licht, da die Sicht im Winter eingeschränkt sein kann.",
+              "Trinken Sie ausreichend, auch wenn Sie bei Kälte weniger Durst verspüren.",
+              "Batterien von E-Bikes entladen sich bei Kälte schneller; Akku warm halten."
+            ],
+            "hu": [
+              "Viseljen több réteget és szélálló kesztyűt.",
+              "Ellenőrizze a guminyomást; a kicsit alacsonyabb nyomás jobb tapadást ad hóban.",
+              "Használjon erős lámpákat, mert a látási viszonyok rosszabbak télen.",
+              "Igyon eleget, még ha a hidegben kevésbé is érzi szomjasnak magát.",
+              "Az elektromos kerékpárok akkuja gyorsabban merül hidegben; tartsa melegen."
+            ],
+            "ro": [
+              "Purtați mai multe straturi de haine și mănuși rezistente la vânt.",
+              "Verificați presiunea în pneuri; o presiune mai mică oferă aderență mai bună pe zăpadă.",
+              "Folosiți lumini puternice, deoarece vizibilitatea este redusă iarna.",
+              "Hidratați-vă corespunzător, chiar dacă senzația de sete e mai mică pe frig.",
+              "Bateriile bicicletelor electrice se descarcă mai repede la ger; țineți-le la cald."
+            ],
+            "en": [
+              "Wear multiple layers and windproof gloves.",
+              "Check tire pressure; slightly lower pressure provides more grip on snow.",
+              "Use bright lights as visibility can be limited in winter.",
+              "Stay hydrated even if you feel less thirsty in the cold.",
+              "E-bike batteries discharge faster in the cold; keep the battery warm."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -991,6 +1353,214 @@
           "A GPS or navigation app is essential for the drive to Kalin Mountain.",
           "Fill up your tank before leaving the city to explore the rural areas."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ihre Tour beginnt im historischen Zentrum (Cluster A), wo Sie die Sultan-Ahmed-Moschee und die St.-Antonius-Kirche bequem mit kurzen Wegen vom Parkplatz aus besuchen können. Das Auto dient heute als trockene Basis zwischen den Stopps.\n\nAnschließend führt die Fahrt zum Museum von Bugojno. Hier können Sie die Regenzeit am besten nutzen, um tief in die bosnische Geschichte einzutauchen, während es draußen stürmt.\n\nNachmittags geht es weiter zu Cluster B, der Naturzone. Ein kurzer Halt am Gorski-Park zeigt die üppige, grüne Landschaft, die durch den Regen besonders intensiv wirkt. Genießen Sie die Aussicht aus dem sicheren Fahrzeug.\n\nDie Tour endet bei Cluster C. Die Bergstraßen bieten bei Regen mystische Panoramen mit tief hängenden Wolken. Fahren Sie vorsichtig zurück ins Stadtzentrum für ein gemütliches Abendessen.",
+            "hu": "A túra a történelmi központban (Cluster A) kezdődik, ahol a Szultán Ahmed-mecsetet és a Szent Antal-templomot kényelmesen, a parkolótól rövid sétával érheti el. Az autó ma száraz bázisként szolgál a megállók között.\n\nEzután az út a Bugojno Múzeumhoz vezet. Itt használhatja ki legjobban az esős időt, hogy mélyebben elmerüljön a bosnyák történelemben, miközben kint tombol az időjárás.\n\nDélután folytassa az utat a Cluster B felé. Egy rövid megálló a Gorski Parknál megmutatja a buja, zöld tájat, amely az esőtől még intenzívebbé válik. Élvezze a kilátást a biztonságos járműből.\n\nA túra a Cluster C-nél zárul. A hegyi utak esőben misztikus panorámát kínálnak az alacsonyan szálló felhőkkel. Vezessen óvatosan vissza a központba egy hangulatos vacsorára.",
+            "ro": "Turul începe în centrul istoric (Cluster A), unde puteți vizita Moscheea Sultan Ahmed și Biserica Sfântul Anton cu scurte plimbări de la parcare. Mașina servește astăzi ca bază uscată între opriri.\n\nUlterior, drumul duce la Muzeul din Bugojno. Aici puteți profita cel mai bine de timpul ploios pentru a aprofunda istoria bosniacă în timp ce afară plouă torențial.\n\nDupă-amiaza, continuați spre Cluster B, zona naturală. O scurtă oprire la Parcul Gorski dezvăluie peisajul verde luxuriant, care devine și mai intens datorită ploii. Bucurați-vă de priveliște din vehiculul sigur.\n\nTurul se încheie la Cluster C. Drumurile montane oferă panorame mistice în ploaie, cu nori joși. Conduceți cu atenție înapoi spre centru pentru o cină plăcută.",
+            "en": "Your tour begins in the historic center (Cluster A), where you can visit the Sultan Ahmed Mosque and the Church of Saint Anthony with short walks from the parking lot. The car serves as a dry base between stops today.\n\nThen the drive leads to the Museum of Bugojno. This is where you can best use the rainy weather to dive deep into Bosnian history while it's storming outside.\n\nIn the afternoon, continue to Cluster B, the nature zone. A short stop at Gorski Park reveals the lush, green landscape, which looks especially intense due to the rain. Enjoy the view from the safety of your vehicle.\n\nThe tour ends at Cluster C. The mountain roads offer mystical panoramas in the rain with low-hanging clouds. Drive carefully back to the city center for a cozy dinner."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Historic Center",
+              "tip_5lang": {
+                "de": "Zentraler Parkplatz ermöglicht schnellen Zugang zu den Sakralbauten.",
+                "hu": "A központi parkoló gyors hozzáférést biztosít a szakrális épületekhez.",
+                "ro": "Parcarea centrală permite accesul rapid la edificiile religioase.",
+                "en": "Central parking allows quick access to the religious buildings."
+              }
+            },
+            {
+              "name": "Sultan Ahmed Mosque",
+              "tip_5lang": {
+                "de": "Parken Sie direkt gegenüber, um den Weg im Regen zu minimieren.",
+                "hu": "Parkoljon közvetlenül szemben, hogy minimálisra csökkentse az esőben megtett utat.",
+                "ro": "Parcați direct vizavi pentru a minimiza distanța parcursă în ploaie.",
+                "en": "Park directly opposite to minimize time spent in the rain."
+              }
+            },
+            {
+              "name": "Church of Saint Anthony",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist oft gut belegt; achten Sie auf Einbahnstraßen.",
+                "hu": "A parkoló gyakran tele van; ügyeljen az egyirányú utcákra.",
+                "ro": "Parcarea este adesea plină; atenție la străzile cu sens unic.",
+                "en": "The parking lot is often full; watch out for one-way streets."
+              }
+            },
+            {
+              "name": "Museum of Bugojno",
+              "tip_5lang": {
+                "de": "Großer, befestigter Parkplatz direkt vor dem Eingang.",
+                "hu": "Nagy, szilárd burkolatú parkoló közvetlenül a bejárat előtt.",
+                "ro": "Parcare mare amenajată chiar în fața intrării.",
+                "en": "Large paved parking lot directly in front of the entrance."
+              }
+            },
+            {
+              "name": "Cluster B: Nature & Quiet",
+              "tip_5lang": {
+                "de": "Die Zufahrtsstraßen können bei Starkregen kleine Sturzbäche bilden.",
+                "hu": "A bekötőutakon heves esőzéskor kis vízfolyások alakulhatnak ki.",
+                "ro": "Drumurile de acces pot forma mici șuvoaie în caz de ploi torențiale.",
+                "en": "Access roads can form small streams during heavy rain."
+              }
+            },
+            {
+              "name": "Gorski Park",
+              "tip_5lang": {
+                "de": "Vom Auto aus hat man einen guten Blick auf den Park, falls es zu stark regnet.",
+                "hu": "Az autóból is jó kilátás nyílik a parkra, ha túl erősen esne az eső.",
+                "ro": "Din mașină aveți o priveliște bună asupra parcului dacă plouă prea tare.",
+                "en": "The car provides a good view of the park if it rains too hard."
+              }
+            },
+            {
+              "name": "Cluster C: Spirituality & Panorama",
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den Serpentinen; Sichtweite kann eingeschränkt sein.",
+                "hu": "Vezessen óvatosan a szerpentineken; a látótávolság korlátozott lehet.",
+                "ro": "Conduceți cu grijă pe serpentine; vizibilitatea poate fi redusă.",
+                "en": "Drive carefully on the serpentines; visibility may be limited."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Zustand Ihrer Scheibenwischer vor der Abfahrt.",
+              "Achten Sie auf Aquaplaning auf den Hauptverbindungsstraßen.",
+              "Halten Sie die Scheinwerfer auch tagsüber eingeschaltet.",
+              "Parken Sie in der Nähe der Eingänge, um trocken zu bleiben.",
+              "Die Straßen in die Berge können bei Regen rutschig sein."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze az ablaktörlők állapotát.",
+              "Ügyeljen a vízenfutásra (aquaplaning) a főutakon.",
+              "Napközben is tartsa bekapcsolva a fényszórókat.",
+              "Parkoljon a bejáratok közelében, hogy száraz maradjon.",
+              "A hegyekbe vezető utak esőben csúszósak lehetnek."
+            ],
+            "ro": [
+              "Verificați starea ștergătoarelor înainte de plecare.",
+              "Atenție la acvaplanare pe drumurile principale.",
+              "Țineți farurile aprinse și pe timpul zilei.",
+              "Parcați aproape de intrări pentru a rămâne uscați.",
+              "Drumurile spre munți pot fi alunecoase pe ploaie."
+            ],
+            "en": [
+              "Check the condition of your windshield wipers before departing.",
+              "Watch out for aquaplaning on main connecting roads.",
+              "Keep your headlights on even during the day.",
+              "Park close to entrances to stay dry.",
+              "Mountain roads can be slippery in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ihr Wintertag beginnt im Cluster A. Dank der Heizung im Auto erreichen Sie die Sultan-Ahmed-Moschee und die St.-Antonius-Kirche komfortabel. Die verschneite Kulisse des historischen Zentrums wirkt vom Fenster aus idyllisch.\n\nDie Fahrt geht weiter zum Museum von Bugojno. Hier finden Sie einen gut geräumten Parkplatz und können sich drinnen in Ruhe aufwärmen, während Sie die Exponate betrachten.\n\nAm Nachmittag steuern Sie Cluster B an. Der Gorski-Park ist ein Winterwunderland; ein kurzer Fotostopp lohnt sich, bevor Sie sich wieder in das warme Fahrzeug zurückziehen.\n\nDer Abschluss der Tour führt zu Cluster C in die Berge. Die Auffahrt bietet spektakuläre Ausblicke auf schneebedeckte Gipfel. Achten Sie auf die Straßenverhältnisse und stellen Sie sicher, dass Sie vor Einbruch der Dunkelheit wieder im Tal sind.",
+            "hu": "A téli nap a Cluster A-ban kezdődik. Az autó fűtésének köszönhetően kényelmesen érheti el a Szultán Ahmed-mecsetet és a Szent Antal-templomot. A történelmi központ havas díszlete az ablakból nézve idilli.\n\nAz út folytatódik a Bugojno Múzeumhoz. Itt jól takarított parkolót talál, és bent nyugodtan felmelegedhet, miközben a kiállításokat nézi.\n\nDélután a Cluster B felé veszi az irányt. A Gorski Park egy igazi téli csodaország; egy rövid fotómegálló megéri, mielőtt visszahúzódna a meleg autóba.\n\nA túra zárásaként a Cluster C-be, a hegyekbe utazik. A felfelé vezető út látványos kilátást nyújt a havas csúcsokra. Figyeljen az útviszonyokra, és gondoskodjon róla, hogy sötétedés előtt visszaérjen a völgybe.",
+            "ro": "Ziua de iarnă începe în Cluster A. Datorită încălzirii din mașină, ajungeți confortabil la Moscheea Sultan Ahmed și Biserica Sfântul Anton. Cadrul înzăpezit al centrului istoric pare idilic de la fereastră.\n\nDrumul continuă spre Muzeul din Bugojno. Aici găsiți o parcare bine curățată și vă puteți încălzi în liniște în interior în timp ce vizitați exponatele.\n\nDupă-amiaza vă îndreptați spre Cluster B. Parcul Gorski este un tărâm de basm hibernal; o scurtă oprire pentru fotografii merită înainte de a vă retrage în vehiculul cald.\n\nÎncheierea turului duce la Cluster C, în munți. Urcarea oferă vederi spectaculoase asupra vârfurilor înzăpezite. Atenție la starea drumurilor și asigurați-vă că reveniți în vale înainte de lăsarea întunericului.",
+            "en": "Your winter day starts in Cluster A. Thanks to the car's heating, you can reach the Sultan Ahmed Mosque and the Church of Saint Anthony comfortably. The snowy backdrop of the historic center looks idyllic from the window.\n\nThe journey continues to the Museum of Bugojno. Here you will find a well-cleared parking lot and can warm up inside in peace while viewing the exhibits.\n\nIn the afternoon, head to Cluster B. Gorski Park is a winter wonderland; a short photo stop is worth it before retreating back into the warm vehicle.\n\nThe tour ends at Cluster C in the mountains. The drive up offers spectacular views of snow-covered peaks. Watch the road conditions and make sure you are back in the valley before dark."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Historic Center",
+              "tip_5lang": {
+                "de": "Achten Sie auf Eiszapfen an historischen Gebäuden beim Parken.",
+                "hu": "Parkoláskor ügyeljen a jégcsapokra a történelmi épületeken.",
+                "ro": "Atenție la țurțurii de pe clădirile istorice când parcați.",
+                "en": "Watch out for icicles on historic buildings when parking."
+              }
+            },
+            {
+              "name": "Sultan Ahmed Mosque",
+              "tip_5lang": {
+                "de": "Der Boden kann durch hineingetragenen Schnee glatt sein.",
+                "hu": "A padló a behordott hótól csúszós lehet.",
+                "ro": "Podeaua poate fi alunecoasă din cauza zăpezii aduse pe încălțăminte.",
+                "en": "The floor can be slippery due to snow tracked inside."
+              }
+            },
+            {
+              "name": "Church of Saint Anthony",
+              "tip_5lang": {
+                "de": "Schneehaufen können die verfügbaren Parkplätze reduzieren.",
+                "hu": "A hókupacok csökkenthetik a rendelkezésre álló parkolóhelyeket.",
+                "ro": "Mormanele de zăpadă pot reduce numărul locurilor de parcare disponibile.",
+                "en": "Snow piles can reduce the available parking spaces."
+              }
+            },
+            {
+              "name": "Museum of Bugojno",
+              "tip_5lang": {
+                "de": "Der Parkplatz wird morgens meist prioritär geräumt.",
+                "hu": "A parkolót reggelente általában elsőbbséggel takarítják.",
+                "ro": "Parcarea este de obicei curățată cu prioritate dimineața.",
+                "en": "The parking lot is usually cleared with priority in the mornings."
+              }
+            },
+            {
+              "name": "Cluster B: Nature & Quiet",
+              "tip_5lang": {
+                "de": "Winterreifen und Schneeketten sind für diese Region obligatorisch.",
+                "hu": "A téli gumi és hólánc kötelező ebben a régióban.",
+                "ro": "Anvelopele de iarnă și lanțurile sunt obligatorii în această regiune.",
+                "en": "Winter tires and snow chains are mandatory for this region."
+              }
+            },
+            {
+              "name": "Gorski Park",
+              "tip_5lang": {
+                "de": "Der Zugangsweg kann bei starkem Schneefall kurzzeitig gesperrt sein.",
+                "hu": "A bekötőút heves havazás esetén rövid időre lezárható.",
+                "ro": "Drumul de acces poate fi închis temporar în caz de ninsori abundente.",
+                "en": "The access road may be temporarily closed during heavy snowfall."
+              }
+            },
+            {
+              "name": "Cluster C: Spirituality & Panorama",
+              "tip_5lang": {
+                "de": "Die Bergstraßen erfordern volle Konzentration und Winterausrüstung.",
+                "hu": "A hegyi utak teljes koncentrációt és téli felszerelést igényelnek.",
+                "ro": "Drumurile montane necesită concentrare maximă și echipament de iarnă.",
+                "en": "Mountain roads require full concentration and winter equipment."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Führen Sie immer einen Eiskratzer und Frostschutzmittel mit.",
+              "Prüfen Sie den Batteriestatus Ihres Autos vor der Fahrt in die Berge.",
+              "Vermeiden Sie hastige Lenkbewegungen auf verschneiten Straßen.",
+              "Halten Sie eine Decke und warme Getränke im Auto bereit.",
+              "Tanken Sie rechtzeitig, da der Verbrauch im Winter höher sein kann."
+            ],
+            "hu": [
+              "Mindig tartson jégkaparót és fagyállót az autóban.",
+              "Ellenőrizze az akkumulátor állapotát a hegyi túra előtt.",
+              "Kerülje a hirtelen kormánymozdulatokat a havas utakon.",
+              "Legyen a kocsiban takaró és meleg ital tartaléknak.",
+              "Tankoljon időben, mert a fogyasztás télen magasabb lehet."
+            ],
+            "ro": [
+              "Aveți întotdeauna o racletă și antigel în mașină.",
+              "Verificați starea bateriei înainte de a pleca spre munți.",
+              "Evitați manevrele bruște de direcție pe drumurile înzăpezite.",
+              "Păstrați o pătură și băuturi calde în mașină.",
+              "Alimentați din timp, deoarece consumul poate fi mai mare iarna."
+            ],
+            "en": [
+              "Always carry an ice scraper and antifreeze in the car.",
+              "Check your car battery status before driving into the mountains.",
+              "Avoid sudden steering movements on snowy roads.",
+              "Keep a blanket and warm drinks ready in the car.",
+              "Refuel in time as consumption can be higher in winter."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1323,6 +1893,196 @@
           "Check the bus schedules, as frequencies can vary.",
           "Have small change ready for bus tickets."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie am Stadtzentrum (Cluster A) und nutzen Sie den Bus zum Museum von Bugojno. Die überdachten Haltestellen bieten Schutz, während Sie auf die Verbindung warten. Das Museum ist der perfekte Ort für den Vormittag.\n\nNach dem Museumsbesuch bringt Sie der Nahverkehr zur Sultan-Ahmed-Moschee. Die kurzen Intervalle im Stadtzentrum minimieren Ihre Zeit im Regen.\n\nMittags führt die Route zum Cluster B. Vom Bus aus können Sie die regnerische Landschaft Bugojnos beobachten, ohne nass zu werden. Ein Halt am Gorski-Park bietet trotz Regen eine erfrischende Atmosphäre.\n\nDer Tag endet mit einer Fahrt zur Potočani-Nekropole. Die ländlicheren Linien verkehren seltener, planen Sie den Rückweg also genau. Der Anblick der alten Steine im Regen ist den Ausflug wert.",
+            "hu": "Induljon a városközpontból (Cluster A), és használja a buszt a Bugojno Múzeumhoz. A fedett megállók védelmet nyújtanak, amíg a csatlakozásra vár. A múzeum tökéletes helyszín a délelőttre.\n\nA múzeumlátogatás után a helyi közlekedés elviszi a Szultán Ahmed-mecsethez. A városközponti rövid járatsűrűség minimalizálja az esőben töltött időt.\n\nDélben az útvonal a Cluster B felé vezet. A buszból nézheti Bugojno esős tájait anélkül, hogy elázna. A Gorski Parknál tett megálló az eső ellenére is frissítő élmény.\n\nA nap a Potočani-nekropoliszhoz tett utazással zárul. A vidéki járatok ritkábban közlekednek, így pontosan tervezze meg a visszautat. A régi kövek látványa az esőben megéri a kirándulást.",
+            "ro": "Începeți în centrul orașului (Cluster A) și folosiți autobuzul spre Muzeul din Bugojno. Stațiile acoperite oferă protecție în timp ce așteptați conexiunea. Muzeul este locul perfect pentru dimineață.\n\nDupă vizitarea muzeului, transportul local vă duce la Moscheea Sultan Ahmed. Intervalele scurte din centrul orașului minimizează timpul petrecut în ploaie.\n\nLa prânz, traseul duce spre Cluster B. Din autobuz puteți observa peisajul ploios din Bugojno fără să vă udați. O oprire la Parcul Gorski oferă o atmosferă revigorantă în ciuda ploii.\n\nZiua se încheie cu o călătorie spre Necropola Potočani. Liniile rurale circulă mai rar, deci planificați cu atenție drumul de întoarcere. Vederea pietrelor vechi în ploaie merită excursia.",
+            "en": "Start at the city center (Cluster A) and take the bus to the Museum of Bugojno. The covered stops provide protection while you wait for your connection. The museum is the perfect morning location.\n\nAfter the museum visit, local transit takes you to the Sultan Ahmed Mosque. Short intervals in the city center minimize your time in the rain.\n\nAt noon, the route leads to Cluster B. From the bus, you can watch Bugojno's rainy landscape without getting wet. A stop at Gorski Park offers a refreshing atmosphere despite the rain.\n\nThe day ends with a trip to the Potočani Necropolis. The rural lines run less frequently, so plan your return trip carefully. The sight of the old stones in the rain is worth the excursion."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: City Center",
+              "tip_5lang": {
+                "de": "Wichtiger Knotenpunkt mit vielen überdachten Wartebereichen.",
+                "hu": "Fontos csomópont számos fedett várakozóhellyel.",
+                "ro": "Nod important de transport cu multe zone de așteptare acoperite.",
+                "en": "Important hub with many covered waiting areas."
+              }
+            },
+            {
+              "name": "Museum of Bugojno",
+              "tip_5lang": {
+                "de": "Haltestelle fast direkt vor dem Museumseingang.",
+                "hu": "Megálló szinte közvetlenül a múzeum bejárata előtt.",
+                "ro": "Stația este aproape direct în fața intrării muzeului.",
+                "en": "Stop is located almost directly in front of the museum entrance."
+              }
+            },
+            {
+              "name": "Sultan Ahmed Mosque",
+              "tip_5lang": {
+                "de": "Kurzer Sprint von der Bushaltestelle zum Kircheneingang nötig.",
+                "hu": "Rövid sprint szükséges a buszmegállótól a mecset bejáratáig.",
+                "ro": "E necesar un scurt sprint de la stația de autobuz până la intrare.",
+                "en": "A short dash is needed from the bus stop to the entrance."
+              }
+            },
+            {
+              "name": "Cluster B: Park and History",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Echtzeit-App, um Wartezeiten im Freien zu vermeiden.",
+                "hu": "Használja a valós idejű menetrendet, hogy elkerülje a kinti várakozást.",
+                "ro": "Folosiți aplicația în timp real pentru a evita așteptarea în aer liber.",
+                "en": "Use a real-time app to avoid waiting outside in the rain."
+              }
+            },
+            {
+              "name": "Gorski Park",
+              "tip_5lang": {
+                "de": "Die Haltestelle bietet einen guten Blick auf den Parkeingang.",
+                "hu": "A megállóból jó rálátás nyílik a park bejáratára.",
+                "ro": "Stația oferă o perspectivă bună asupra intrării în parc.",
+                "en": "The stop provides a good view of the park entrance."
+              }
+            },
+            {
+              "name": "Potočani Necropolis",
+              "tip_5lang": {
+                "de": "Informieren Sie sich beim Fahrer über die letzte Rückfahrt.",
+                "hu": "Érdeklődjön a sofőrnél az utolsó visszainduló járatról.",
+                "ro": "Informați-vă la șofer despre ultima cursă de întoarcere.",
+                "en": "Ask the driver about the last return trip."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Haben Sie Kleingeld für die Fahrkarten beim Fahrer bereit.",
+              "Tragen Sie eine wasserfeste Tasche für Ihre Wertsachen.",
+              "Die Busse können bei starkem Regen leichte Verspätungen haben.",
+              "Die zentralen Haltestellen sind meist gut beleuchtet.",
+              "Nutzen Sie die Wartezeiten für kurze Pausen in Haltestellen-Kiosken."
+            ],
+            "hu": [
+              "Legyen Önnél aprópénz a jegyvásárláshoz a sofőrnél.",
+              "Használjon vízálló táskát az értéktárgyaihoz.",
+              "A buszok heves esőzéskor kisebb késéssel közlekedhetnek.",
+              "A központi megállók általában jól megvilágítottak.",
+              "Használja ki a várakozási időt a megállók melletti kioszkoknál."
+            ],
+            "ro": [
+              "Pregătiți mărunt pentru cumpărarea biletelor de la șofer.",
+              "Folosiți o geantă impermeabilă pentru obiectele de valoare.",
+              "Autobuzele pot avea mici întârzieri în caz de ploi torențiale.",
+              "Stațiile centrale sunt de obicei bine iluminate.",
+              "Folosiți timpii de așteptare pentru scurte pauze la chioșcurile din stații."
+            ],
+            "en": [
+              "Have small change ready for buying tickets from the driver.",
+              "Use a waterproof bag for your valuables.",
+              "Buses may experience slight delays during heavy rain.",
+              "Central stops are generally well-lit.",
+              "Use waiting times for quick breaks at stop kiosks."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Wintertag am Cluster A. Die geheizten Busse sind eine willkommene Abwechslung zur klirrenden Kälte draußen. Fahren Sie zum Museum von Bugojno, wo Sie den Vormittag in angenehmer Wärme verbringen können.\n\nNach dem Museum bringt Sie der Transit zurück ins Stadtzentrum zur Sultan-Ahmed-Moschee. Die schneebedeckten Straßen Bugojnos sehen aus dem Busfenster besonders malerisch aus.\n\nMittags führt die Reise zum Cluster B. Da die Wege im Gorski-Park verschneit sein können, bietet der Bus eine komfortable Möglichkeit, die Natur zu erleben. Ein kurzer Spaziergang an der frischen Luft belebt den Geist.\n\nDer Tag endet mit dem Besuch der Potočani-Nekropole. Achten Sie im Winter besonders auf den Fahrplan, da bei starkem Schneefall einige Verbindungen eingeschränkt sein könnten. Kehren Sie rechtzeitig in die Stadt zurück, um die winterliche Abendstimmung zu genießen.",
+            "hu": "Kezdje a téli napot a Cluster A-nál. A fűtött buszok kellemes felüdülést nyújtanak a kinti csípős hideghez képest. Utazzon a Bugojno Múzeumhoz, ahol kellemes melegben töltheti a délelőttöt.\n\nA múzeum után a közlekedés visszaviszi a városközpontba, a Szultán Ahmed-mecsethez. Bugojno havas utcái a busz ablakából nézve különösen festőiek.\n\nDélben az utazás a Cluster B-hez vezet. Mivel a Gorski Park ösvényei havasak lehetnek, a busz kényelmes módot kínál a természet megtapasztalására. Egy rövid séta a friss levegőn felfrissíti a lelket.\n\nA nap a Potočani-nekropolisz látogatásával zárul. Télen különösen figyeljen a menetrendre, mert erős havazáskor egyes járatok korlátozottan közlekedhetnek. Térjen vissza időben a városba, hogy élvezze a téli esti hangulatot.",
+            "ro": "Începeți ziua de iarnă la Cluster A. Autobuzele încălzite sunt o schimbare binevenită față de gerul de afară. Mergeți la Muzeul din Bugojno, unde puteți petrece dimineața la o temperatură plăcută.\n\nDupă muzeu, transportul vă aduce înapoi în centru, la Moscheea Sultan Ahmed. Străzile înzăpezite ale orașului Bugojno arată deosebit de pitoresc de la fereastra autobuzului.\n\nLa prânz, călătoria continuă spre Cluster B. Deoarece potecile din Parcul Gorski pot fi înzăpezite, autobuzul oferă o modalitate confortabilă de a experimenta natura. O scurtă plimbare în aer liber revigorează spiritul.\n\nZiua se încheie cu vizitarea Necropolei Potočani. Iarna, acordați o atenție deosebită orarului, deoarece în caz de ninsori abundente unele curse pot fi limitate. Reveniți la timp în oraș pentru a vă bucura de atmosfera de seară hibernală.",
+            "en": "Start your winter day at Cluster A. The heated buses are a welcome change from the biting cold outside. Travel to the Museum of Bugojno, where you can spend the morning in pleasant warmth.\n\nAfter the museum, transit takes you back to the city center to the Sultan Ahmed Mosque. Bugojno's snowy streets look particularly picturesque from the bus window.\n\nAt noon, the journey leads to Cluster B. Since the paths in Gorski Park can be snowy, the bus offers a comfortable way to experience nature. A short walk in the fresh air invigorates the spirit.\n\nThe day ends with a visit to the Potočani Necropolis. In winter, pay special attention to the schedule, as some connections may be limited during heavy snowfall. Return to the city in time to enjoy the winter evening atmosphere."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: City Center",
+              "tip_5lang": {
+                "de": "Zentrale Haltestellen sind meist schneefrei gehalten.",
+                "hu": "A központi megállókat általában hómentesen tartják.",
+                "ro": "Stațiile centrale sunt de obicei curățate de zăpadă.",
+                "en": "Central stops are usually kept clear of snow."
+              }
+            },
+            {
+              "name": "Museum of Bugojno",
+              "tip_5lang": {
+                "de": "Warten Sie im Museumsfoyer, wenn der Bus erst in einigen Minuten kommt.",
+                "hu": "Várjon a múzeum előterében, ha a busz csak pár perc múlva érkezik.",
+                "ro": "Așteptați în holul muzeului dacă autobuzul sosește peste câteva minute.",
+                "en": "Wait in the museum lobby if the bus is arriving in a few minutes."
+              }
+            },
+            {
+              "name": "Sultan Ahmed Mosque",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis an der Haltestelle beim Aussteigen.",
+                "hu": "Ügyeljen a jegesedésre a megállóban a leszálláskor.",
+                "ro": "Atenție la polei în stație la coborârea din autobuz.",
+                "en": "Watch for black ice at the stop when getting off the bus."
+              }
+            },
+            {
+              "name": "Cluster B: Park and History",
+              "tip_5lang": {
+                "de": "Die Busse sind gut beheizt; Schal und Mütze griffbereit halten.",
+                "hu": "A buszok jól fűtöttek; tartsa kéznél a sálat és a sapkát.",
+                "ro": "Autobuzele sunt bine încălzite; țineți fularul și căciula la îndemână.",
+                "en": "The buses are well heated; keep your scarf and hat ready."
+              }
+            },
+            {
+              "name": "Gorski Park",
+              "tip_5lang": {
+                "de": "Die Haltestelle liegt direkt an der Hauptstraße, die meist gut geräumt ist.",
+                "hu": "A megálló közvetlenül a főút mellett van, amit általában jól takarítanak.",
+                "ro": "Stația este direct la drumul principal, care e de obicei bine curățat.",
+                "en": "The stop is right on the main road, which is usually well cleared."
+              }
+            },
+            {
+              "name": "Potočani Necropolis",
+              "tip_5lang": {
+                "de": "Rechnen Sie im Winter mit selteneren Fahrten in die Außenbezirke.",
+                "hu": "Télen számítson ritkább járatokra a külvárosi részek felé.",
+                "ro": "Iarna, așteptați-vă la curse mai rare spre zonele periferice.",
+                "en": "Expect less frequent trips to the outskirts in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Wartezeit in der Nähe von Geschäften oder Cafés.",
+              "Tragen Sie Schuhe mit gutem Profil für den Weg zur Haltestelle.",
+              "Informieren Sie sich über wetterbedingte Fahrplanänderungen.",
+              "Halten Sie Ihr Handy warm, da der Akku bei Kälte schneller entlädt.",
+              "Die Busse sind im Winter ein wichtiger Treffpunkt der Einheimischen."
+            ],
+            "hu": [
+              "Használja ki a várakozási időt a közeli üzletekben vagy kávézókban.",
+              "Viseljen jó tapadású cipőt a megállóhoz vezető úton.",
+              "Tájékozódjon az időjárás miatti menetrendi változásokról.",
+              "Tartsa melegen a telefonját, mert az akku gyorsabban merül hidegben.",
+              "A buszok télen a helyiek fontos találkozóhelyei is."
+            ],
+            "ro": [
+              "Folosiți timpul de așteptare în magazinele sau cafenelele din apropiere.",
+              "Purtați încălțăminte cu aderență bună pentru drumul spre stație.",
+              "Informați-vă despre modificările de orar cauzate de vreme.",
+              "Țineți telefonul la cald, deoarece bateria se descarcă mai repede la ger.",
+              "Autobuzele sunt iarna un punct important de întâlnire al localnicilor."
+            ],
+            "en": [
+              "Use waiting times inside nearby shops or cafes.",
+              "Wear shoes with good grip for the walk to the stop.",
+              "Stay informed about weather-related schedule changes.",
+              "Keep your phone warm as the battery drains faster in the cold.",
+              "Buses are an important meeting point for locals in winter."
+            ]
+          }
+        }
       }
     }
   }

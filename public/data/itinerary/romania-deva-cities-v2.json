@@ -386,6 +386,206 @@
           "Keep cash on hand for small purchases at markets or cafes.",
           "Many museums are closed on Mondays, check opening hours in advance."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens erkunden wir die Altstadt unter dem Regenschirm. Mittags bietet das Magna Curia Museum trockenen Unterschlupf und daki-römische Geschichte. Nachmittags nutzen wir die Standseilbahn zur Festung, um rutschige Pfade zu vermeiden. Abends genießen wir lokale Spezialitäten in einem gemütlichen, warmen Restaurant der Unterstadt.",
+            "hu": "Reggel esernyővel járjuk be az óváros utcáit. Délben a Magna Curia Múzeum nyújt fedett menedéket a dák és római emlékek között. Délután gyaloglás helyett a siklóval jutunk fel a várba, elkerülve a sárt. Az estét töltsd egy hangulatos, fűtött étteremben a sétálóövezetben.",
+            "ro": "Dimineața explorăm centrul vechi sub umbrelă. La prânz, Muzeul Magna Curia oferă un refugiu uscat printre vestigiile daco-romane. După-amiaza folosim telecabina pentru a ajunge la cetate, evitând potecile alunecoase. Seara se încheie cu o cină caldă într-un restaurant primitor din orașul de jos.",
+            "en": "Start the rainy morning exploring the Old Town with an umbrella. At noon, the Magna Curia Museum provides a dry sanctuary filled with Daco-Roman history. In the afternoon, take the cable car to the fortress to avoid slippery paths. Spend the evening in a cozy, warm restaurant in the pedestrian zone."
+          },
+          "stops": [
+            {
+              "name": "Old Town Deva & Statue of Decebal",
+              "tip_5lang": {
+                "de": "Überdachte Hauseingänge in der Nähe der Statuen bieten Schutz bei Schauern.",
+                "hu": "A szobrok közelében lévő épületek ereszei alatt keress menedéket az eső elől.",
+                "ro": "Puteți găsi adăpost sub arcadele clădirilor din apropierea statuilor.",
+                "en": "Use the building eaves near the statues for temporary cover during rain."
+              }
+            },
+            {
+              "name": "Equestrian Statue of Trajan",
+              "tip_5lang": {
+                "de": "Ein schneller Fotostopp, da der Platz sehr exponiert ist.",
+                "hu": "Gyors fotómegálló, a tér teljesen nyitott és szeles esőben.",
+                "ro": "O oprire rapidă pentru poze, piața este expusă vântului și ploii.",
+                "en": "A quick photo stop as the square is very exposed to the elements."
+              }
+            },
+            {
+              "name": "Franciscan Monastery",
+              "tip_5lang": {
+                "de": "Die Kirche ist ein wunderbarer, stiller und trockener Ort zur Besinnung.",
+                "hu": "A kolostor belső tere tökéletes csendes és száraz menedék.",
+                "ro": "Interiorul mănăstirii este un refugiu liniștit și uscat.",
+                "en": "The monastery interior is a perfect, quiet, and dry retreat."
+              }
+            },
+            {
+              "name": "Magna Curia Palace & Museum",
+              "tip_5lang": {
+                "de": "Ideal für Regentage; planen Sie hier mehr Zeit für die Ausstellungen ein.",
+                "hu": "Ideális esős időben; töltsön több időt a benti kiállítások megtekintésével.",
+                "ro": "Ideal pentru zilele ploioase; acordați mai mult timp vizitării muzeului.",
+                "en": "Perfect for rainy days; spend more time exploring the indoor exhibits."
+              }
+            },
+            {
+              "name": "Fortress Park",
+              "tip_5lang": {
+                "de": "Dichte Baumkronen bieten etwas Schutz auf dem Weg zur Seilbahn.",
+                "hu": "A sűrű lombok némi védelmet nyújtanak a sikló felé vezető úton.",
+                "ro": "Copacii deși oferă o protecție parțială în drum spre telecabină.",
+                "en": "Dense tree canopies provide some shelter on the way to the cable car."
+              }
+            },
+            {
+              "name": "Deva Fortress",
+              "tip_5lang": {
+                "de": "Die Steine können sehr rutschig sein; bleiben Sie auf den markierten Wegen.",
+                "hu": "A vár kövei vizesen csúsznak; maradjon a kijelölt, biztonságos utakon.",
+                "ro": "Piatra cetății este alunecoasă; rămâneți pe traseele marcate.",
+                "en": "The fortress stones are slippery when wet; stick to marked paths."
+              }
+            },
+            {
+              "name": "Dinner in the Old Town",
+              "tip_5lang": {
+                "de": "Reservieren Sie einen Tisch im Innenbereich, weit weg von der Tür.",
+                "hu": "Foglaljon asztalt bent, távol a bejárattól a huzat elől.",
+                "ro": "Rezervați o masă în interior, departe de curentul de la intrare.",
+                "en": "Book a table indoors, well away from the drafty entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da die Pflastersteine Pfützen bilden.",
+              "Die Standseilbahn zur Festung ist bei Regen sicherer als der Fußweg.",
+              "Nutzen Sie die ausgedehnte Museumszeit im Magna Curia bei Starkregen.",
+              "Ein Taschenschirm ist bei Wind in Deva praktischer als ein großer Schirm."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, az óváros kövein megáll a víz.",
+              "Esőben a sikló sokkal biztonságosabb választás, mint a meredek gyalogút.",
+              "Heves esőzéskor fordítson több időt a Magna Curia múzeumára.",
+              "A szél miatt egy stabil összecsukható ernyő praktikusabb a nagynál."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, pavajul reține apa în zonele joase.",
+              "Telecabina este mult mai sigură decât potecile abrupte pe timp de ploaie.",
+              "Folosiți timpul în Muzeul Magna Curia pentru a evita aversa cea mai puternică.",
+              "O umbrelă rezistentă la vânt este necesară pe platoul cetății."
+            ],
+            "en": [
+              "Wear waterproof shoes as the cobblestones tend to collect puddles.",
+              "The cable car is much safer than the steep hiking paths during rain.",
+              "Use the extensive museum galleries in Magna Curia during heavy downpours.",
+              "A windproof travel umbrella is more practical than a large one here."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen an den Statuen der Stadtgründer. Mittags wärmen wir uns im prächtigen Bethlen-Schloss zwischen historischen Artefakten auf. Nachmittags genießen wir die Wintersonne auf der Festung, bevor es früh dunkel wird. Der Tag endet bei Glühwein in einer beheizten Weinstube.",
+            "hu": "Deres reggel a városalapítók szobrai előtt. Délben a Bethlen-kastély termeiben melegedünk fel a történelmi tárlatok között. Délután a vár fokáról csodáljuk a téli panorámát a korai naplementében. A napot forralt borral zárjuk egy fűtött óvárosi borozóban.",
+            "ro": "O dimineață geroasă lângă statuile ctitorilor orașului. La prânz ne încălzim în palatul Magna Curia printre artefacte istorice. După-amiaza admirăm panorama cetății în lumina blândă a iernii. Ziua se încheie cu un vin fiert într-o tavernă încălzită din centru.",
+            "en": "A frosty morning by the statues of the city's founders. At noon, warm up inside the grand Bethlen Castle among historical artifacts. In the afternoon, enjoy the winter sun from the fortress before the early sunset. End the day with mulled wine in a heated Old Town cellar."
+          },
+          "stops": [
+            {
+              "name": "Old Town Deva & Statue of Decebal",
+              "tip_5lang": {
+                "de": "Trinken Sie einen heißen Tee in den Cafés am Decebal-Platz.",
+                "hu": "Igyon egy forró teát a Decebal tér közeli kávézóiban.",
+                "ro": "Savurați un ceai fierbinte în cafenelele din Piața Decebal.",
+                "en": "Enjoy a hot tea in the cafes surrounding Decebal Square."
+              }
+            },
+            {
+              "name": "Equestrian Statue of Trajan",
+              "tip_5lang": {
+                "de": "Vorsicht vor Glatteis auf dem offenen Platz.",
+                "hu": "Vigyázzon a jegesedésre a nyitott tér kövezetén.",
+                "ro": "Atenție la polei pe pavajul din piața deschisă.",
+                "en": "Watch out for black ice on the open square's pavement."
+              }
+            },
+            {
+              "name": "Franciscan Monastery",
+              "tip_5lang": {
+                "de": "In der Kirche ist es oft kühler als draußen; behalten Sie den Mantel an.",
+                "hu": "A templomban gyakran hidegebb van, mint kint; ne vegye le a kabátját.",
+                "ro": "În interior poate fi mai rece decât afară; păstrați haina pe dvs.",
+                "en": "The interior is often colder than outside; keep your coat on."
+              }
+            },
+            {
+              "name": "Magna Curia Palace & Museum",
+              "tip_5lang": {
+                "de": "Die beste Zeit, um sich in den beheizten Ausstellungsräumen aufzuwärmen.",
+                "hu": "A legjobb alkalom a felmelegedésre a fűtött kiállítótermekben.",
+                "ro": "Cel mai bun moment pentru a vă încălzi în sălile muzeului.",
+                "en": "The perfect time to warm up in the heated museum galleries."
+              }
+            },
+            {
+              "name": "Fortress Park",
+              "tip_5lang": {
+                "de": "Die Winterbeleuchtung im Park sorgt am späten Nachmittag für Atmosphäre.",
+                "hu": "A park téli díszkivilágítása kora este különleges hangulatot áraszt.",
+                "ro": "Iluminatul festiv din parc oferă o atmosferă magică seara.",
+                "en": "The park's winter lighting creates a magical atmosphere in the late afternoon."
+              }
+            },
+            {
+              "name": "Deva Fortress",
+              "tip_5lang": {
+                "de": "Sehr windig auf dem Gipfel; Mütze und Handschuhe sind Pflicht.",
+                "hu": "A hegytetőn erős a szél; sapka és kesztyű kötelező.",
+                "ro": "Vânt puternic pe platou; căciula și mănușile sunt obligatorii.",
+                "en": "Very windy at the top; a hat and gloves are essential."
+              }
+            },
+            {
+              "name": "Dinner in the Old Town",
+              "tip_5lang": {
+                "de": "Probieren Sie herzhafte rumänische Winterspeisen wie Sarmale.",
+                "hu": "Kóstolja meg a laktató román téli ételeket, például a szarmálét.",
+                "ro": "Încercați mâncărurile tradiționale de iarnă, cum ar fi sarmalele.",
+                "en": "Try hearty Romanian winter dishes like sarmale."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Winter gegen 16:45 Uhr unter; planen Sie die Festung früher.",
+              "Die Seilbahn kann bei starkem Frost oder Wind den Betrieb einstellen.",
+              "Schichten Sie Ihre Kleidung, da Museen warm, die Festung aber eiskalt ist.",
+              "Einige Wege zur Festung können bei Schnee gesperrt sein."
+            ],
+            "hu": [
+              "Télen a nap 16:45 körül nyugszik; a várat tervezze korábbra.",
+              "Erős fagy vagy szél esetén a sikló üzemszünetet tarthat.",
+              "Öltözzön rétegesen: a múzeum meleg, a vár viszont metszően hideg.",
+              "Hóesés után a várba vezető gyalogutak egy része lezárható."
+            ],
+            "ro": [
+              "Soarele apune în jur de 16:45; vizitați cetatea înainte de asfințit.",
+              "Telecabina poate fi oprită în caz de viscol sau ger extrem.",
+              "Îmbrăcați-vă în straturi: muzeul este încălzit, dar pe cetate este ger.",
+              "Unele poteci de acces spre cetate pot fi închise dacă este zăpadă mare."
+            ],
+            "en": [
+              "Sunset is around 16:45 in winter; plan the fortress visit earlier.",
+              "The cable car might close during extreme frost or high winds.",
+              "Dress in layers: museums are warm, but the fortress is freezing.",
+              "Some hiking paths to the fortress may be closed due to snow or ice."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -742,6 +942,188 @@
           "Wear a helmet and use lights, especially in the evening.",
           "Use cycling apps to find the best routes."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regnerische Fahrt durch Deva. Wir starten in der Altstadt, flüchten mittags ins Magna Curia Museum und radeln nachmittags vorsichtig zum Fuße der Festung. Die Tour endet mit einer nassen, aber erfrischenden Fahrt entlang der Maros, gefolgt von einem warmen Getränk.",
+            "hu": "Esős tekerés Déván. Az óvárosból indulunk, délben a Magna Curia múzeumba menekülünk, délután pedig óvatosan gurulunk a vár tövébe. A túra a Maros menti frissítő, de vizes tekeréssel zárul, mielőtt átmelegednénk egy kávézóban.",
+            "ro": "O plimbare ploioasă prin Deva. Pornim din centru, ne adăpostim la prânz în Magna Curia și pedalăm cu grijă spre poalele cetății. Turul se încheie cu o porțiune umedă de-a lungul Mureșului, urmată de o băutură caldă.",
+            "en": "A rainy ride through Deva. Starting in the Old Town, we retreat to Magna Curia at noon, then cycle carefully to the fortress base. The tour ends with a wet but refreshing ride along the Mureș river before drying off at a cafe."
+          },
+          "stops": [
+            {
+              "name": "Old Town Deva",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem nassen Kopfsteinpflaster; Rutschgefahr in den Kurven.",
+                "hu": "Vigyázzon a vizes macskakövön; a kanyarokban könnyen megcsúszhat.",
+                "ro": "Atenție pe pavajul umed; risc de derapare în curbe.",
+                "en": "Be careful on wet cobblestones; risk of skidding in corners."
+              }
+            },
+            {
+              "name": "Magna Curia Palace & Museum",
+              "tip_5lang": {
+                "de": "Sicherer Fahrradständer vorhanden; nutzen Sie die Zeit zum Trocknen.",
+                "hu": "Biztonságos kerékpártároló van; használja az időt a száradásra.",
+                "ro": "Parcare sigură pentru biciclete; folosiți timpul pentru a vă usca.",
+                "en": "Secure bike racks available; use the time to dry off inside."
+              }
+            },
+            {
+              "name": "Fortress Park",
+              "tip_5lang": {
+                "de": "Gepflasterte Wege sind bei Regen besser als die erdigen Pfade.",
+                "hu": "Az aszfaltozott utak esőben jobbak, mint a földes ösvények.",
+                "ro": "Aleile pavate sunt de preferat potecilor de pământ pe ploaie.",
+                "en": "Paved paths are better than dirt trails during rainy weather."
+              }
+            },
+            {
+              "name": "Base of Deva Fortress",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad unter das Vordach der Seilbahnstation.",
+                "hu": "Hagyja a kerékpárt a sikló állomásának előtetője alatt.",
+                "ro": "Lăsați bicicleta sub copertina stației de telecabină.",
+                "en": "Park your bike under the overhang at the cable car station."
+              }
+            },
+            {
+              "name": "Deva Fortress (on foot)",
+              "tip_5lang": {
+                "de": "Wechseln Sie die Schuhe, falls Sie Klickpedale tragen; Rutschgefahr.",
+                "hu": "Cseréljen cipőt, ha stoplisat használ; a vár kövei csúsznak.",
+                "ro": "Schimbați încălțămintea dacă aveți pantofi de ciclism; risc de alunecare.",
+                "en": "Change shoes if using cleats; the fortress stones are slippery."
+              }
+            },
+            {
+              "name": "Ride along the Mureș River",
+              "tip_5lang": {
+                "de": "Schutzbleche sind hier wegen der Pfützen unerlässlich.",
+                "hu": "A sárvédő itt elengedhetetlen a tócsák és felcsapódó víz miatt.",
+                "ro": "Aripile la bicicletă sunt esențiale din cauza bălților de pe traseu.",
+                "en": "Mudguards are essential here due to puddles along the path."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Bremsen; nasse Felgen verlängern den Bremsweg.",
+              "Vermeiden Sie die weißen Fahrbahnmarkierungen, sie sind extrem glatt.",
+              "Wasserdichte Packtaschen schützen Ihre Ausrüstung vor dem Maros-Wind.",
+              "Die Uferwege können nach starkem Regen schlammig sein."
+            ],
+            "hu": [
+              "Ellenőrizze a fékeket; a vizes felni növeli a féktávot.",
+              "Kerülje a fehér felfestéseket az úton, mert ilyenkor rendkívül csúsznak.",
+              "A vízálló táska kötelező a Maros felől fújó szeles esőben.",
+              "A folyóparti utak heves eső után sárosak lehetnek."
+            ],
+            "ro": [
+              "Verificați frânele; jantele umede măresc distanța de frânare.",
+              "Evitați marcajele rutiere albe, sunt extrem de alunecoase pe ploaie.",
+              "Genzile impermeabile vă protejează echipamentul de vântul umed.",
+              "Potecile de pe malul Mureșului pot deveni noroioase după ploaie."
+            ],
+            "en": [
+              "Check your brakes; wet rims significantly increase stopping distance.",
+              "Avoid white road markings as they become extremely slippery.",
+              "Waterproof panniers are needed to protect gear from wind-driven rain.",
+              "Riverbank paths can get muddy after heavy rainfall."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine knackig kalte Winterfahrt. Morgens geht es durch die ruhige Altstadt zum Museum zum Aufwärmen. Mittags radeln wir zum Park und nehmen die Seilbahn zur Festung. Den Abschluss bildet die Fahrt entlang der Maros im goldenen Licht des frühen Sonnenuntergangs.",
+            "hu": "Csípős téri tekerés Déván. Reggel a csendes óvároson át a múzeumba hajtunk melegedni. Délben a park érintésével siklóval megyünk a várba. A túrát a Maros menti bringázás zárja a korai naplemente arany fényeiben.",
+            "ro": "O plimbare de iarnă revigorantă. Dimineața traversăm centrul vechi spre muzeu pentru a ne încălzi. La prânz pedalăm spre parc și luăm telecabina spre cetate. Încheiem cu malul Mureșului în lumina aurie a apusului timpuriu.",
+            "en": "A crisp winter ride. Cycle through the quiet Old Town to the museum to thaw out. At noon, ride to the park and take the cable car to the fortress. Finish with a ride along the Mureș river in the golden glow of the early sunset."
+          },
+          "stops": [
+            {
+              "name": "Old Town Deva",
+              "tip_5lang": {
+                "de": "Achten Sie auf Raureif auf dem Kopfsteinpflaster am frühen Morgen.",
+                "hu": "Kora reggel figyeljen a macskaköveken lévő zúzmarára.",
+                "ro": "Atenție la chiciura de pe pavaj la orele dimineții.",
+                "en": "Watch out for frost on the cobblestones in the early morning."
+              }
+            },
+            {
+              "name": "Magna Curia Palace & Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch, um das Gefühl in den Fingern zurückzubekommen.",
+                "hu": "Használja ki a múzeumi időt, hogy átmelegedjenek az ujjai.",
+                "ro": "Folosiți vizita la muzeu pentru a vă dezmorți degetele.",
+                "en": "Use the museum visit to get the feeling back into your fingers."
+              }
+            },
+            {
+              "name": "Fortress Park",
+              "tip_5lang": {
+                "de": "Fahren Sie langsam; herabgefallenes Laub unter Schnee kann tückisch sein.",
+                "hu": "Hajtson lassan; a hó alatti levelek trükkösek lehetnek.",
+                "ro": "Pedalați încet; frunzele de sub zăpadă pot fi înșelătoare.",
+                "en": "Ride slowly; fallen leaves under snow can be treacherous."
+              }
+            },
+            {
+              "name": "Base of Deva Fortress",
+              "tip_5lang": {
+                "de": "Sichern Sie Ihr Rad an einem gut sichtbaren, geräumten Ort.",
+                "hu": "Lakatolja a bringát jól látható, letakarított helyre.",
+                "ro": "Lăsați bicicleta într-un loc vizibil și curățat de zăpadă.",
+                "en": "Lock your bike in a visible, cleared area."
+              }
+            },
+            {
+              "name": "Deva Fortress (on foot)",
+              "tip_5lang": {
+                "de": "Der Wind auf der Festung lässt die Temperatur viel kälter erscheinen.",
+                "hu": "A várban a szél miatt sokkal hidegebbnek érződik a levegő.",
+                "ro": "Pe cetate, vântul face ca temperatura să pară mult mai scăzută.",
+                "en": "The wind at the fortress makes the temperature feel much colder."
+              }
+            },
+            {
+              "name": "Ride along the Mureș River",
+              "tip_5lang": {
+                "de": "Die Sonne verschwindet hier hinter den Bergen sehr schnell.",
+                "hu": "A nap itt nagyon gyorsan eltűnik a hegyek mögött.",
+                "ro": "Soarele dispare foarte repede după dealuri în această zonă.",
+                "en": "The sun disappears behind the hills very quickly in this area."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterhandschuhe und Überschuhe sind für die Maros-Fahrt wichtig.",
+              "Achten Sie auf Streusalz, das den Antrieb Ihres Rades angreifen kann.",
+              "Die Lichtverhältnisse ändern sich ab 16:00 Uhr drastisch; Licht an!",
+              "Der Wind im Mureș-Tal kann im Winter sehr schneidend sein."
+            ],
+            "hu": [
+              "A téli kesztyű és kamásli kötelező a Maros menti szakaszon.",
+              "Az útszóró só károsíthatja a láncot; törölje le a túra után.",
+              "16:00 után hirtelen sötétedik; legyen jó világítása.",
+              "A Maros völgyében a szél télen metszően hideg tud lenni."
+            ],
+            "ro": [
+              "Mănușile de iarnă și protecțiile de pantofi sunt esențiale pe malul Mureșului.",
+              "Sarea de pe drum poate coroda transmisia; curățați bicicleta după tur.",
+              "Lumina scade drastic după ora 16:00; asigurați-vă că aveți faruri bune.",
+              "Vântul de pe valea Mureșului poate fi foarte tăios iarna."
+            ],
+            "en": [
+              "Winter gloves and shoe covers are vital for the river section.",
+              "Road salt can corrode your bike's drivetrain; wipe it down after.",
+              "Light levels drop drastically after 16:00; ensure you have good lights.",
+              "The wind in the Mureș valley can be biting in winter."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1122,6 +1504,206 @@
           "A car also allows you to visit nearby attractions like Corvin Castle (requires extra time).",
           "Do not leave valuables visible in the car."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein entspannter Regentag mit dem Auto. Wir parken direkt an der Altstadt für einen kurzen Rundgang. Mittags verbringen wir viel Zeit im Magna Curia Museum. Nachmittags fahren wir zum Festungsparkplatz und nehmen die Seilbahn, um trocken nach oben zu gelangen.",
+            "hu": "Kényelmes esős nap autóval. Közvetlenül az óvárosnál parkolunk egy rövid sétára. Délben hosszabb időt töltünk a Magna Curia múzeumban. Délután a vár alatti parkolóig megyünk, és siklóval emelkedünk a várba a szárazabb út érdekében.",
+            "ro": "O zi relaxată de ploaie cu mașina. Parcăm chiar lângă centrul vechi pentru o scurtă plimbare. La prânz stăm mai mult în Muzeul Magna Curia. După-amiaza conducem spre parcarea cetății și luăm telecabina pentru a rămâne uscați.",
+            "en": "A relaxed rainy day by car. Park right by the Old Town for a quick stroll. Spend a long mid-day at the Magna Curia Museum. In the afternoon, drive to the fortress parking and use the cable car to stay dry on your way up."
+          },
+          "stops": [
+            {
+              "name": "Parking for Old Town Cluster",
+              "tip_5lang": {
+                "de": "Suchen Sie einen Parkplatz mit festem Untergrund, um Pfützen zu vermeiden.",
+                "hu": "Keressen aszfaltozott parkolót a tócsák elkerülése érdekében.",
+                "ro": "Căutați un loc de parcare asfaltat pentru a evita bălțile.",
+                "en": "Look for a paved parking spot to avoid deep puddles."
+              }
+            },
+            {
+              "name": "Old Town, Decebal & Trajan Statues",
+              "tip_5lang": {
+                "de": "Lassen Sie den Schirm griffbereit im Auto für diesen kurzen Stopp.",
+                "hu": "Tartsa az esernyőt kéznél az autóban ehhez a rövid megállóhoz.",
+                "ro": "Țineți umbrela la îndemână în mașină pentru această oprire scurtă.",
+                "en": "Keep your umbrella handy in the car for this brief outdoor stop."
+              }
+            },
+            {
+              "name": "Franciscan Monastery",
+              "tip_5lang": {
+                "de": "Kürzester Fußweg vom Parkplatz; ideal bei starkem Regen.",
+                "hu": "Rövid séta a parkolótól; ideális szakadó esőben.",
+                "ro": "Distranță scurtă de mers pe jos; ideal în caz de ploaie torențială.",
+                "en": "Shortest walking distance from parking; ideal during heavy rain."
+              }
+            },
+            {
+              "name": "Magna Curia Palace & Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Haupteingang; Parken ist oft direkt davor möglich.",
+                "hu": "Használja a főbejáratot; gyakran lehet közvetlenül előtte parkolni.",
+                "ro": "Folosiți intrarea principală; parcarea este adesea posibilă chiar în față.",
+                "en": "Use the main entrance; parking is often available right in front."
+              }
+            },
+            {
+              "name": "Parking for Fortress Cluster",
+              "tip_5lang": {
+                "de": "Der Parkplatz an der Seilbahnstation ist bei Regen die beste Wahl.",
+                "hu": "A sikló állomása melletti parkoló a legjobb választás esőben.",
+                "ro": "Parcarea de lângă telecabină este cea mai bună opțiune pe ploaie.",
+                "en": "The parking lot next to the cable car station is the best rainy choice."
+              }
+            },
+            {
+              "name": "Fortress Park",
+              "tip_5lang": {
+                "de": "Nur ein kurzer Sprint zur Seilbahn durch den Park.",
+                "hu": "Csak egy rövid vágta a parkon át a siklóig.",
+                "ro": "Doar un sprint scurt prin parc până la telecabină.",
+                "en": "Just a short dash through the park to get to the cable car."
+              }
+            },
+            {
+              "name": "Deva Fortress",
+              "tip_5lang": {
+                "de": "Die Aussicht ist auch bei Regen mystisch; Seilbahn ist Pflicht.",
+                "hu": "A kilátás esőben is misztikus; a sikló használata javasolt.",
+                "ro": "Panorama este mistică și pe ploaie; telecabina este obligatorie.",
+                "en": "The view is mystical even in rain; the cable car is a must."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Scheiben beschlagen bei Regen schnell; Klimaanlage nutzen.",
+              "Die Zufahrt zum Festungsparkplatz kann bei Starkregen rutschig sein.",
+              "Nutzen Sie die Parkplätze direkt an der Seilbahnstation.",
+              "Einige Parkplätze in Deva können nach Regen tiefe Pfützen haben."
+            ],
+            "hu": [
+              "Az ablakok gyorsan párásodnak esőben; használja a légkondicionálót.",
+              "A vár alatti parkolóhoz vezető út heves esőben csúszós lehet.",
+              "Próbáljon meg közvetlenül a sikló állomásánál parkolni.",
+              "Néhány dévai parkolóban mély tócsák alakulhatnak ki eső után."
+            ],
+            "ro": [
+              "Geamurile se aburesc repede pe ploaie; folosiți aerul condiționat.",
+              "Accesul spre parcarea cetății poate fi alunecos în caz de ploaie torențială.",
+              "Căutați locuri de parcare cât mai aproape de stația de telecabină.",
+              "Unele parcări din Deva pot avea bălți adânci după ploaie."
+            ],
+            "en": [
+              "Windows fog up quickly in the rain; keep the A/C running.",
+              "The road to the fortress parking can be slippery during heavy downpours.",
+              "Aim for the parking spaces right at the cable car station.",
+              "Some parking areas in Deva may develop deep puddles after rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winter-Tour durch Deva mit dem Komfort des Autos. Wir bewundern die frostige Altstadt und wärmen uns ausgiebig im Magna Curia Museum. Nachmittags fahren wir zur Festung und nutzen die Seilbahn für das Winterpanorama, bevor wir den Tag in der beleuchteten Stadt beenden.",
+            "hu": "Téli túra Déván az autó kényelmével. Megcsodáljuk a deres óvárost, majd alaposan átmelegedünk a Magna Curia múzeumban. Délután a várhoz hajtunk és siklóval nézzük meg a téli panorámát, mielőtt az esti fényekben útnak indulnánk.",
+            "ro": "Tur de iarnă în Deva cu confortul mașinii. Admirăm centrul vechi înghețat și ne încălzim bine în Muzeul Magna Curia. După-amiaza conducem spre cetate pentru panorama de iarnă, înainte de a încheia ziua în orașul luminat.",
+            "en": "A winter tour of Deva with the comfort of a car. Admire the frosty Old Town and warm up thoroughly at the Magna Curia Museum. In the afternoon, drive to the fortress and take the cable car for the winter panorama before ending the day in the lit city."
+          },
+          "stops": [
+            {
+              "name": "Parking for Old Town Cluster",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenem Schneematsch in den Parklücken.",
+                "hu": "Vigyázzon a parkolóhelyeken lévő fagyott hókására.",
+                "ro": "Atenție la zăpada înghețată din locurile de parcare.",
+                "en": "Watch out for frozen slush in the parking spaces."
+              }
+            },
+            {
+              "name": "Old Town, Decebal & Trajan Statues",
+              "tip_5lang": {
+                "de": "Nur kurz aussteigen; die Statuen wirken im Frost sehr imposant.",
+                "hu": "Csak rövid időre szálljon ki; a szobrok lenyűgözőek a dérben.",
+                "ro": "Coborâți doar scurt; statuile arată impunător în ger.",
+                "en": "Step out briefly; the statues look imposing in the frost."
+              }
+            },
+            {
+              "name": "Franciscan Monastery",
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang, um Kälte zu vermeiden.",
+                "hu": "Parkoljon minél közelebb a bejárathoz a hideg elkerülése végett.",
+                "ro": "Parcați cât mai aproape de intrare pentru a evita frigul.",
+                "en": "Park as close to the entrance as possible to minimize time in the cold."
+              }
+            },
+            {
+              "name": "Magna Curia Palace & Museum",
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um das Auto und sich selbst aufzuwärmen.",
+                "hu": "Tökéletes helyszín az autó és önmaga felmelegítésére.",
+                "ro": "Locul perfect pentru a vă încălzi după plimbarea de dimineață.",
+                "en": "The perfect place to warm up after the morning stroll."
+              }
+            },
+            {
+              "name": "Parking for Fortress Cluster",
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass die Handbremse bei Frost nicht festfriert.",
+                "hu": "Vigyázzon, hogy a kézifék ne fagyjon be a nagy hidegben.",
+                "ro": "Atenție să nu înghețe frâna de mână în caz de ger extrem.",
+                "en": "Be careful with the parking brake in extreme frost."
+              }
+            },
+            {
+              "name": "Fortress Park",
+              "tip_5lang": {
+                "de": "Kurzer, aber schöner Weg im Winterlicht zur Seilbahn.",
+                "hu": "Rövid, de szép út a téli fényekben a sikló felé.",
+                "ro": "Drum scurt, dar frumos în lumina iernii spre telecabină.",
+                "en": "Short but beautiful walk in the winter light to the cable car."
+              }
+            },
+            {
+              "name": "Deva Fortress",
+              "tip_5lang": {
+                "de": "Genießen Sie den Sonnenuntergang vom Auto-Parkplatz aus, falls es oben zu windig ist.",
+                "hu": "Élvezze a naplementét a parkolóból, ha fent túl erős a szél.",
+                "ro": "Admirați apusul din parcare dacă pe cetate vântul este prea tăios.",
+                "en": "Enjoy the sunset from the parking lot if it's too windy at the top."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in Rumänien bei Schnee und Eis gesetzlich vorgeschrieben.",
+              "Halten Sie Enteisungsspray bereit; Schlösser können nachts einfrieren.",
+              "Die Batterieleistung kann bei extremer Kälte in den Bergen nachlassen.",
+              "Planen Sie mehr Zeit für die Parkplatzsuche in geräumten Bereichen ein."
+            ],
+            "hu": [
+              "A téli gumi kötelező Romániában havas vagy jeges utakon.",
+              "Legyen önnél jégoldó spray; a zárak éjszaka befagyhatnak.",
+              "Az akkumulátor teljesítménye csökkenhet a nagy hidegben.",
+              "Hagyjon több időt a parkolásra a letakarított részeken."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii în România pe drumuri cu zăpadă sau gheață.",
+              "Aveți la îndemână spray pentru dezghețare; încuietorile pot îngheța noaptea.",
+              "Performanța bateriei auto poate scădea la temperaturi foarte scăzute.",
+              "Alocați mai mult timp pentru parcare în zonele deszăpezite."
+            ],
+            "en": [
+              "Winter tires are mandatory in Romania on snowy or icy roads.",
+              "Keep de-icing spray handy; car locks can freeze overnight.",
+              "Battery performance can drop significantly in extreme cold.",
+              "Allow extra time for parking in cleared areas."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1478,6 +2060,188 @@
           "Have your destination ready for the bus driver if you are unsure.",
           "Download a local public transport app if available."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag mit dem ÖPNV. Wir nutzen Busse, um trocken zwischen Altstadt und Museum zu pendeln. Mittags verbringen wir viel Zeit drinnen im Magna Curia. Nachmittags bringt uns der Bus direkt zum Park, von wo die Seilbahn den trockenen Aufstieg zur Festung ermöglicht.",
+            "hu": "Esős nap tömegközlekedéssel. Buszokkal ingázunk az óváros és a múzeum között, hogy szárazon maradjunk. Délben a Magna Curia falai közt pihenünk. Délután a busz a parkhoz visz, ahonnan a siklóval szárazon jutunk fel a várba.",
+            "ro": "O zi ploioasă cu transportul public. Folosim autobuzele pentru a naviga între centru și muzeu. La prânz explorăm interiorul Magna Curia. După-amiaza, autobuzul ne lasă la parc, de unde luăm telecabina spre cetate.",
+            "en": "A rainy day using public transit. Use buses to shuttle between the Old Town and the museum. Spend your mid-day inside Magna Curia. In the afternoon, the bus drops you at the park for a dry cable car ascent to the fortress."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Old Town Cluster (Bus Stop)",
+              "tip_5lang": {
+                "de": "Warten Sie unter dem Unterstand der Haltestelle auf den nächsten Bus.",
+                "hu": "Várjon a buszmegálló fedett várójában a következő járatig.",
+                "ro": "Așteptați sub copertina stației următorul autobuz.",
+                "en": "Wait under the bus stop shelter for your next connection."
+              }
+            },
+            {
+              "name": "Old Town & Statues Walking Tour",
+              "tip_5lang": {
+                "de": "Kürzen Sie den Rundgang ab, wenn der Regen zu stark wird.",
+                "hu": "Rövidítse le a sétát, ha elered az eső.",
+                "ro": "Scurtați turul pietonal dacă ploaia devine prea puternică.",
+                "en": "Shorten the walking tour if the rain gets too heavy."
+              }
+            },
+            {
+              "name": "Magna Curia Palace & Museum",
+              "tip_5lang": {
+                "de": "Nur 2 Minuten Fußweg von der Bushaltestelle entfernt.",
+                "hu": "Mindössze 2 perc séta a buszmegállótól.",
+                "ro": "La doar 2 minute de mers pe jos de stația de autobuz.",
+                "en": "Only a 2-minute walk from the nearest bus stop."
+              }
+            },
+            {
+              "name": "Bus to the Fortress",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Abfahrtszeiten online, um Wartezeiten im Regen zu vermeiden.",
+                "hu": "Nézze meg a menetrendet online, hogy ne kelljen sokat várnia az esőben.",
+                "ro": "Verificați programul online pentru a nu aștepta mult în ploaie.",
+                "en": "Check schedules online to minimize waiting time in the rain."
+              }
+            },
+            {
+              "name": "Fortress Park",
+              "tip_5lang": {
+                "de": "Der Weg vom Bus zur Seilbahn ist kurz und gut befestigt.",
+                "hu": "A busztól a siklóig vezető út rövid és jól kiépített.",
+                "ro": "Drumul de la autobuz la telecabină este scurt și bine amenajat.",
+                "en": "The walk from the bus to the cable car is short and well-paved."
+              }
+            },
+            {
+              "name": "Deva Fortress (Cable Car & Walk)",
+              "tip_5lang": {
+                "de": "Die Seilbahnkabine bietet während der Fahrt einen tollen, trockenen Ausblick.",
+                "hu": "A sikló kabinja száraz kilátást biztosít a felfelé úton.",
+                "ro": "Cabina telecabinei oferă o panoramă uscată în timpul urcării.",
+                "en": "The cable car cabin offers a great, dry view during the ascent."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrkarten können oft direkt beim Fahrer oder per SMS gekauft werden.",
+              "Die Busse in Deva sind bei Regen oft voll; planen Sie Pufferzeit ein.",
+              "Die Haltestelle 'Parc' ist der beste Ausstiegspunkt für die Festung.",
+              "Tragen Sie Kleidung, die in beheizten Bussen nicht zu warm ist."
+            ],
+            "hu": [
+              "A jegyeket gyakran a sofőrnél vagy SMS-ben is meg lehet váltani.",
+              "Esőben a dévai buszok zsúfoltak lehetnek; számoljon extra idővel.",
+              "A 'Parc' megálló a legalkalmasabb a vár megközelítéséhez.",
+              "Válasszon könnyen levethető rétegeket a fűtött buszokhoz."
+            ],
+            "ro": [
+              "Biletele pot fi cumpărate adesea de la șofer sau prin SMS.",
+              "Autobuzele din Deva pot fi aglomerate pe ploaie; alocați timp suplimentar.",
+              "Stația 'Parc' este cel mai bun punct de coborâre pentru cetate.",
+              "Purtați haine care pot fi desfăcute ușor în autobuzele încălzite."
+            ],
+            "en": [
+              "Tickets can often be bought from the driver or via SMS.",
+              "Buses in Deva can be crowded during rain; allow extra buffer time.",
+              "The 'Parc' stop is the most convenient for reaching the fortress.",
+              "Wear layers that are easy to adjust in heated public transport."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Wintertag in Deva mit Bus und Bahn. Wir erkunden die festlich beleuchtete Altstadt und das warme Magna Curia Museum. Nachmittags bringt uns der Transit zum Fuße der Festung, wo wir die Seilbahn für den Aufstieg im kalten Winterwind nutzen. Der Tag endet mit einer gemütlichen Busfahrt zurück.",
+            "hu": "Téli nap Déván tömegközlekedéssel. Bejárjuk a díszes óvárost és a meleg Magna Curia múzeumot. Délután busszal megyünk a vár tövébe, majd siklóval emelkedünk a hideg téli szélben a várba. A nap egy kényelmes buszozással zárul.",
+            "ro": "Zi de iarnă în Deva cu transportul public. Explorăm centrul luminat festiv și Muzeul Magna Curia. După-amiaza luăm autobuzul spre cetate, folosind telecabina pentru a evita urcușul prin ger. Ziua se încheie cu o călătorie relaxantă spre hotel.",
+            "en": "A winter day in Deva by public transit. Explore the festive Old Town and the warm Magna Curia Museum. In the afternoon, take a bus to the fortress base and use the cable car to avoid the freezing climb. Finish the day with a cozy bus ride back."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Old Town Cluster (Bus Stop)",
+              "tip_5lang": {
+                "de": "Bewegung hält warm, während Sie auf den Bus warten.",
+                "hu": "Mozogjon a megállóban, hogy melegen tartsa magát várakozás közben.",
+                "ro": "Măi faceți câțiva pași în stație pentru a vă menține căldura.",
+                "en": "Keep moving at the bus stop to stay warm while waiting."
+              }
+            },
+            {
+              "name": "Old Town & Statues Walking Tour",
+              "tip_5lang": {
+                "de": "Suchen Sie zwischendurch ein Café auf, um die Kälte zu vertreiben.",
+                "hu": "Iktasson be egy kávézót a séta alatt a hideg elől.",
+                "ro": "Faceți o pauză la o cafenea pentru a scăpa de ger.",
+                "en": "Stop at a cafe during your walk to beat the cold."
+              }
+            },
+            {
+              "name": "Magna Curia Palace & Museum",
+              "tip_5lang": {
+                "de": "Geben Sie Ihren schweren Mantel an der Garderobe ab.",
+                "hu": "Tegye le a nehéz télikabátot a múzeum ruhatárában.",
+                "ro": "Lăsați haina grea de iarnă la garderoba muzeului.",
+                "en": "Leave your heavy winter coat at the museum cloakroom."
+              }
+            },
+            {
+              "name": "Bus to the Fortress",
+              "tip_5lang": {
+                "de": "In den Bussen ist es meist angenehm geheizt.",
+                "hu": "A buszokon általában kellemes meleg van télen.",
+                "ro": "Autobuzele sunt de regulă bine încălzite iarna.",
+                "en": "Buses are usually comfortably heated during winter."
+              }
+            },
+            {
+              "name": "Fortress Park",
+              "tip_5lang": {
+                "de": "Der Parkweg kann bei Frost rutschig sein; vorsichtig gehen.",
+                "hu": "A park ösvényei fagypont alatt csúszhatnak; járjon óvatosan.",
+                "ro": "Aleile din parc pot fi alunecoase; mergeți cu atenție.",
+                "en": "Park paths can be slippery in freezing weather; walk carefully."
+              }
+            },
+            {
+              "name": "Deva Fortress (Cable Car & Walk)",
+              "tip_5lang": {
+                "de": "Die Seilbahn ist im Winter viel angenehmer als der steile Aufstieg.",
+                "hu": "A sikló télen sokkal kényelmesebb, mint a meredek gyalogút.",
+                "ro": "Telecabina este mult mai plăcută iarna decât urcușul abrupt.",
+                "en": "The cable car is much more pleasant in winter than the steep climb."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrpläne können sich im Winter wegen Schneeräumung leicht verzögern.",
+              "Nutzen Sie die App 'Transport Public Deva' für Echtzeit-Infos.",
+              "In der Nähe der Haltestellen gibt es oft Kioske für heiße Getränke.",
+              "Die letzte Seilbahnfahrt findet im Winter oft früher statt (ca. 17:00)."
+            ],
+            "hu": [
+              "A menetrend hóesés idején a takarítás miatt kissé módosulhat.",
+              "Használja a helyi közlekedési appot a valós idejű adatokért.",
+              "A megállók környékén gyakran találni forró italt árusító bódékat.",
+              "Télen az utolsó sikló gyakran korábban, 17:00 körül indul."
+            ],
+            "ro": [
+              "Orarele pot avea mici întârzieri iarna din cauza deszăpezirii.",
+              "Folosiți aplicația de transport local pentru informații în timp real.",
+              "Lângă stații se găsesc adesea chioșcuri cu băuturi fierbinți.",
+              "Ultima urcare cu telecabina este mai devreme iarna (în jur de 17:00)."
+            ],
+            "en": [
+              "Schedules may experience slight delays during snow clearance.",
+              "Use the local transit app for real-time bus information.",
+              "Kiosks near bus stops often sell hot beverages.",
+              "The last cable car trip is often earlier in winter (around 17:00)."
+            ]
+          }
+        }
       }
     }
   }

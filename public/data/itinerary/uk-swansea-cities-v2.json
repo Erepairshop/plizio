@@ -386,6 +386,214 @@
           "Many museums in Wales have free entry, but double-check before your visit.",
           "Keep an eye out for the many small independent cafes in the side streets."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt an den Burgruinen, doch der Regen treibt uns schnell ins Swansea Museum. Mittags bietet das National Waterfront Museum perfekten Schutz und viel Geschichte unter einem Dach. Am Nachmittag vertiefen wir uns im Dylan Thomas Centre in Literatur, bevor wir den Yachthafen für ein gemütliches Mittagessen erreichen. Der Tag endet mit einem stürmischen Blick auf die Bucht.",
+            "hu": "A reggel a várromoknál indul, de az eső hamar a Swansea Múzeumba kényszerít minket. Délben a Nemzeti Vízparti Múzeum nyújt tökéletes menedéket és interaktív tárlatokat. Délután a Dylan Thomas Központban merülünk el az irodalomban, majd a Marina felé vesszük az irányt egy ebédre. A napot a Swansea-öböl szeles látványa és a Guildhall zárja.",
+            "ro": "Dimineața începe la ruinele castelului, dar ploaia ne împinge rapid spre Muzeul Swansea. La prânz, Muzeul Național Waterfront oferă adăpostul perfect și exponate fascinante. După-amiaza explorăm Centrul Dylan Thomas, apoi ne îndreptăm spre Marina pentru masă. Ziua se încheie cu o vedere cețoasă asupra golfului Swansea și a clădirii Guildhall.",
+            "en": "Morning starts at the castle ruins, but rain soon drives us into the warmth of Swansea Museum. At midday, the National Waterfront Museum provides perfect shelter and interactive history. In the afternoon, we dive into literature at the Dylan Thomas Centre before heading to the Marina. The day ends with a misty view of Swansea Bay and the Guildhall."
+          },
+          "stops": [
+            {
+              "name": "Swansea Castle",
+              "tip_5lang": {
+                "de": "Vorsicht, die Steine sind bei Nässe rutschig. Kurzer Fotostopp.",
+                "hu": "Vigyázat, a kövek nedvesen csúsznak. Csak egy gyors fotó.",
+                "ro": "Atenție, pietrele sunt alunecoase când sunt ude. Oprire scurtă.",
+                "en": "Caution, the stones are slippery when wet. Quick photo stop."
+              }
+            },
+            {
+              "name": "Swansea Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe für Ihre nassen Regenschirme.",
+                "hu": "Használja a ruhatárat a vizes esernyőknek.",
+                "ro": "Folosiți garderoba pentru umbrelele ude.",
+                "en": "Use the cloakroom for your wet umbrellas."
+              }
+            },
+            {
+              "name": "National Waterfront Museum",
+              "tip_5lang": {
+                "de": "Großzügiges Café im Inneren, ideal zum Aufwärmen.",
+                "hu": "Tágas belső kávézó, ideális a felmelegedéshez.",
+                "ro": "Cafenea interioară spațioasă, ideală pentru încălzire.",
+                "en": "Spacious indoor cafe, ideal for warming up."
+              }
+            },
+            {
+              "name": "Dylan Thomas Centre",
+              "tip_5lang": {
+                "de": "Vollständig überdacht, perfekt für eine literarische Pause.",
+                "hu": "Teljesen fedett, tökéletes egy irodalmi szünetre.",
+                "ro": "Complet acoperit, perfect pentru o pauză literară.",
+                "en": "Fully indoor, perfect for a literary break."
+              }
+            },
+            {
+              "name": "Lunch at the Marina",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit Blick auf die Boote im Regen.",
+                "hu": "Válasszon egy éttermet kilátással a szakadó esőre.",
+                "ro": "Alegeți un restaurant cu vedere la bărci prin ploaie.",
+                "en": "Choose a restaurant with a view of the boats in the rain."
+              }
+            },
+            {
+              "name": "Swansea Bay",
+              "tip_5lang": {
+                "de": "Starker Wind am Ufer, Kapuze festziehen.",
+                "hu": "Erős szél a parton, húzza szorosra a kapucnit.",
+                "ro": "Vânt puternic pe mal, strângeți gluga.",
+                "en": "Strong wind on the shore, tighten your hood."
+              }
+            },
+            {
+              "name": "Guildhall",
+              "tip_5lang": {
+                "de": "Der Portikus bietet kurzzeitig Schutz vor Schauern.",
+                "hu": "Az oszlopcsarnok rövid védelmet nyújt a záporok elől.",
+                "ro": "Porticul oferă protecție scurtă împotriva averselor.",
+                "en": "The portico offers brief protection from showers."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da sich in der Marina Pfützen bilden.",
+              "Das Waterfront Museum ist der beste Ort für längere Schauer.",
+              "Nehmen Sie einen stabilen Regenschirm mit, der Wind an der Bucht ist tückisch.",
+              "Die Museen in Swansea sind montags oft geschlossen, prüfen Sie die Zeiten.",
+              "Warme Getränke gibt es reichlich in den Cafés am Oxford Street."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert a Marina környékén sok a tócsa.",
+              "A Waterfront Múzeum a legjobb hely a hosszabb záporok idején.",
+              "Vigyen erős esernyőt, mert az öbölben a szél kifordíthatja a gyengéket.",
+              "Hétfőnként sok múzeum zárva tart, ellenőrizze a nyitvatartást.",
+              "A Marina éttermei gyorsan megtelnek esőben, érdemes foglalni."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, se formează bălți în zona Marinei.",
+              "Muzeul Waterfront este cel mai bun loc în timpul averselor lungi.",
+              "Luați o umbrelă rezistentă, vântul din golf este puternic.",
+              "Multe muzee sunt închise lunea, verificați programul.",
+              "Restaurantele din Marina se umplu repede pe ploaie, rezervați din timp."
+            ],
+            "en": [
+              "Wear waterproof shoes as puddles form quickly around the Marina.",
+              "The Waterfront Museum is your best bet during heavy downpours.",
+              "Bring a sturdy umbrella; the wind at the bay can be tricky.",
+              "Many museums are closed on Mondays, so check the hours beforehand.",
+              "Cafes along the promenade offer cozy spots to watch the grey sea."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Wintermorgen an der Burg, gefolgt von der wohligen Wärme des Swansea Museums. Mittags erkunden wir die maritime Geschichte im Waterfront Museum, während draußen der Frost glitzert. Nach einem literarischen Abstecher genießen wir ein herzhaftes Mittagessen am Hafen. Wir beenden den Tag an der Bucht, bevor die frühe Dunkelheit einsetzt.",
+            "hu": "Hűvös téli reggel a várnál, amit a Swansea Múzeum melengető tárlatai követnek. Délben a tengerészeti múltat idézzük fel a Waterfront Múzeumban, miközben kint zúzmarás a táj. Egy irodalmi kitérő után bőséges ebédet fogyasztunk a kikötőben. A napot az öbölben zárjuk, még mielőtt a korai sötétség leszállna.",
+            "ro": "O dimineață răcoroasă de iarnă la castel, urmată de căldura primitoare a Muzeului Swansea. La prânz explorăm istoria maritimă la Muzeul Waterfront, în timp ce afară înghețul strălucește. După o incursiune literară, savurăm un prânz consistent în port. Încheiem ziua la golf înainte de lăsarea timpurie a întunericului.",
+            "en": "A crisp winter morning at the castle, followed by the cozy warmth of Swansea Museum. At midday, we explore maritime history at the Waterfront Museum while frost glitters outside. After a literary detour, we enjoy a hearty lunch at the Marina. We end the day at the bay before the early winter darkness sets in."
+          },
+          "stops": [
+            {
+              "name": "Swansea Castle",
+              "tip_5lang": {
+                "de": "Die Ruinen wirken im Winterfrost besonders atmosphärisch.",
+                "hu": "A romok téli fagyban különösen hangulatosak.",
+                "ro": "Ruinele par deosebit de atmosferice în gerul iernii.",
+                "en": "The ruins look particularly atmospheric in the winter frost."
+              }
+            },
+            {
+              "name": "Swansea Museum",
+              "tip_5lang": {
+                "de": "Ein warmer Ort, um die Tour bei niedrigen Temperaturen zu beginnen.",
+                "hu": "Meleg hely a túra kezdéséhez alacsony hőmérséklet mellett.",
+                "ro": "Un loc cald pentru a începe turul la temperaturi scăzute.",
+                "en": "A warm spot to start the tour when temperatures are low."
+              }
+            },
+            {
+              "name": "National Waterfront Museum",
+              "tip_5lang": {
+                "de": "Genießen Sie die großen Glasfronten und das Winterlicht.",
+                "hu": "Élvezze a hatalmas üvegfalakat és a téli fényeket.",
+                "ro": "Bucurați-vă de fațadele mari de sticlă și de lumina iernii.",
+                "en": "Enjoy the large glass fronts and the winter light."
+              }
+            },
+            {
+              "name": "Dylan Thomas Centre",
+              "tip_5lang": {
+                "de": "Ideal, um der Kälte für eine Stunde zu entfliehen.",
+                "hu": "Ideális hely, hogy egy órára elmeneküljön a hideg elől.",
+                "ro": "Ideal pentru a scăpa de frig timp de o oră.",
+                "en": "Ideal to escape the cold for an hour."
+              }
+            },
+            {
+              "name": "Lunch at the Marina",
+              "tip_5lang": {
+                "de": "Suchen Sie ein Lokal mit Kamin oder guter Heizung.",
+                "hu": "Keressen kandallóval vagy jó fűtéssel rendelkező helyet.",
+                "ro": "Căutați un local cu șemineu sau încălzire bună.",
+                "en": "Look for a place with a fireplace or good heating."
+              }
+            },
+            {
+              "name": "Swansea Bay",
+              "tip_5lang": {
+                "de": "Sonnenuntergang ist im Winter oft schon vor 17:00 Uhr.",
+                "hu": "A naplemente télen gyakran már 17:00 előtt bekövetkezik.",
+                "ro": "Apusul este adesea înainte de ora 17:00 iarna.",
+                "en": "Sunset is often before 5:00 PM in winter."
+              }
+            },
+            {
+              "name": "Guildhall",
+              "tip_5lang": {
+                "de": "Beleuchtet wirkt das Gebäude in der Dämmerung imposant.",
+                "hu": "Kivilágítva az épület impozáns látványt nyújt a szürkületben.",
+                "ro": "Iluminată, clădirea arată impunător la amurg.",
+                "en": "Lit up, the building looks imposing in the twilight."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich in Schichten, der Wind vom Meer ist eisig.",
+              "Die Sonne geht früh unter, planen Sie Outdoor-Fotos vor 15:30 Uhr.",
+              "In der Vorweihnachtszeit gibt es oft einen kleinen Markt im Zentrum.",
+              "Prüfen Sie die Öffnungszeiten, einige Orte schließen im Winter früher.",
+              "Ein heißer 'Welsh Cake' vom Markt ist der beste Snack gegen Kälte."
+            ],
+            "hu": [
+              "Öltözzön rétegesen, a tenger felől fújó szél jeges lehet.",
+              "A nap korán nyugszik, a szabadtéri fotókat tervezze 15:30 előttre.",
+              "Karácsony előtt gyakran van kis vásár a központban.",
+              "Ellenőrizze a nyitvatartást, néhány hely télen korábban zár.",
+              "Egy forró 'Welsh Cake' a piacról a legjobb tízórai a hideg ellen."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi, vântul de pe mare poate fi înghețat.",
+              "Soarele apune devreme, planificați fotografiile afară înainte de 15:30.",
+              "În perioada Crăciunului există adesea un mic târg în centru.",
+              "Verificați programul, unele locuri se închid mai devreme iarna.",
+              "Un 'Welsh Cake' fierbinte de la piață este cea mai bună gustare contra frigului."
+            ],
+            "en": [
+              "Dress in layers; the wind coming off the sea can be icy.",
+              "Sunset is early, so plan outdoor photos before 3:30 PM.",
+              "Look out for the Christmas market in the city centre during December.",
+              "Check opening hours as some attractions close earlier in winter.",
+              "A hot Welsh cake from the indoor market is the perfect winter snack."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -742,6 +950,196 @@
           "Always lock your bike when leaving it.",
           "The coastal path is popular with pedestrians and cyclists, so be considerate."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten indoor im Waterfront Museum, bevor wir uns auf den nassen Küstenweg wagen. Die Fahrt zur Burg Oystermouth erfordert gute Regenkleidung, aber die Aussicht bleibt dramatisch. Nach einem stärkenden Mittagessen in Mumbles erkunden wir den Pier im Nieselregen. Den Abschluss bildet ein kultureller Abend im Grand Theatre.",
+            "hu": "A Waterfront Múzeumban kezdünk fedél alatt, mielőtt a vizes parti útra merészkednénk. Az Oystermouth vár felé vezető út jó esőfelszerelést igényel, de a látvány drámai marad. Egy laktató mumbles-i ebéd után a mólót fedezzük fel szemerkélő esőben. A napot a Grand Theatre kulturális estje zárja.",
+            "ro": "Începem în interior la Muzeul Waterfront înainte de a ne aventura pe drumul de coastă umed. Drumul spre Castelul Oystermouth necesită echipament de ploaie bun, dar priveliștea rămâne dramatică. După un prânz consistent în Mumbles, explorăm digul prin burniță. Ziua se încheie cu o seară culturală la Grand Theatre.",
+            "en": "We start indoors at the Waterfront Museum before braving the wet coastal path. The ride to Oystermouth Castle requires good rain gear, but the views remain dramatic. After a filling lunch in Mumbles, we explore the pier in the drizzle. The day concludes with a cultural evening at the Grand Theatre."
+          },
+          "stops": [
+            {
+              "name": "National Waterfront Museum",
+              "tip_5lang": {
+                "de": "Sichere Fahrradständer direkt vor dem Haupteingang.",
+                "hu": "Biztonságos kerékpártárolók közvetlenül a főbejáratnál.",
+                "ro": "Suporturi de biciclete sigure chiar în fața intrării principale.",
+                "en": "Secure bike racks available right outside the main entrance."
+              }
+            },
+            {
+              "name": "Cycle along Swansea Bay",
+              "tip_5lang": {
+                "de": "Vorsicht vor Pfützen und rutschigem Laub auf dem Radweg.",
+                "hu": "Vigyázzon a tócsákkal és a csúszós levelekkel a kerékpárúton.",
+                "ro": "Atenție la bălți și frunze alunecoase pe pista de biciclete.",
+                "en": "Watch out for puddles and slippery leaves on the cycle path."
+              }
+            },
+            {
+              "name": "Oystermouth Castle",
+              "tip_5lang": {
+                "de": "Die Außenanlagen können bei Regen sehr matschig sein.",
+                "hu": "A várkert esőben nagyon sáros lehet.",
+                "ro": "Zonele exterioare pot fi foarte noroioase pe ploaie.",
+                "en": "The castle grounds can be very muddy in the rain."
+              }
+            },
+            {
+              "name": "Lunch in Mumbles",
+              "tip_5lang": {
+                "de": "Viele Cafés erlauben das Mitbringen von nasser Kleidung.",
+                "hu": "Sok kávézóban megengedik a vizes ruhák bevitelét.",
+                "ro": "Multe cafenele permit intrarea cu haine ude.",
+                "en": "Many cafes are accommodating of wet cycling gear."
+              }
+            },
+            {
+              "name": "Mumbles Pier",
+              "tip_5lang": {
+                "de": "Holzbohlen können bei Nässe extrem rutschig sein.",
+                "hu": "A fapadlók nedvesen rendkívül csúszósak lehetnek.",
+                "ro": "Scândurile de lemn pot fi extrem de alunecoase când sunt ude.",
+                "en": "Wooden decking can be extremely slippery when wet."
+              }
+            },
+            {
+              "name": "Grand Theatre",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um den Tag trocken ausklingen zu lassen.",
+                "hu": "Tökéletes hely, hogy szárazon zárja a napot.",
+                "ro": "Locul perfect pentru a încheia ziua la adăpost.",
+                "en": "Perfect place to end the day in a dry environment."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie Schutzbleche an Ihrem Fahrrad gegen Spritzwasser.",
+              "Der Küstenradweg ist exponiert; der Wind drückt den Regen seitlich.",
+              "Wasserdichte Packtaschen sind für Kameras und Handys unverzichtbar.",
+              "Bremsen Sie frühzeitig, da Felgenbremsen bei Nässe länger brauchen.",
+              "In Mumbles gibt es Fahrradgeschäfte, falls Sie Ausrüstung brauchen."
+            ],
+            "hu": [
+              "Használjon sárvédőt a kerékpáron a felcsapódó víz ellen.",
+              "A parti út nyitott, a szél oldalról fújhatja az esőt.",
+              "A vízálló táska elengedhetetlen a kamerák és telefonok számára.",
+              "Fékezzen időben, mert a felnifékek nedvesen lassabban fognak.",
+              "Mumblesben vannak kerékpárboltok, ha sürgős felszerelés kellene."
+            ],
+            "ro": [
+              "Folosiți apărători de noroi la bicicletă împotriva stropirii.",
+              "Pista de coastă este expusă; vântul împinge ploaia lateral.",
+              "Geantele impermeabile sunt esențiale pentru camere și telefoane.",
+              "Frânați din timp, frânele pe jantă acționează mai greu pe ud.",
+              "Există magazine de biciclete în Mumbles pentru echipament de urgență."
+            ],
+            "en": [
+              "Use mudguards on your bike to protect against spray from the road.",
+              "The coastal path is exposed, so wind can drive rain sideways.",
+              "Waterproof panniers are essential for keeping your tech dry.",
+              "Brake earlier than usual as wet rims increase stopping distance.",
+              "Cycle shops in Mumbles can provide emergency waterproof gear."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Wir beginnen den Tag im warmen Waterfront Museum. Die Radtour entlang der gefrorenen Bucht bietet kristallklare Aussichten auf den Bristolkanal. Oystermouth Castle wirkt in der Wintersonne majestätisch. Nach einem heißen Mittagessen in Mumbles radeln wir zum Pier, bevor wir uns am Abend im Grand Theatre aufwärmen.",
+            "hu": "A napot a meleg Waterfront Múzeumban kezdjük. A befagyott öböl menti kerékpározás kristálytiszta kilátást nyújt a Bristol-csatornára. Az Oystermouth vár fenségesen fest a téli napsütésben. Egy forró mumbles-i ebéd után a mólóhoz tekerünk, majd este a Grand Theatre-ben melegszünk fel.",
+            "ro": "Începem ziua la Muzeul Waterfront călduros. Turul cu bicicleta de-a lungul golfului înghețat oferă priveliști clare spre Canalul Bristol. Castelul Oystermouth arată maiestuos în soarele iernii. După un prânz fierbinte în Mumbles, pedalăm spre dig, apoi ne încălzim seara la Grand Theatre.",
+            "en": "We start the day at the warm Waterfront Museum. The bike ride along the frozen bay offers crystal-clear views of the Bristol Channel. Oystermouth Castle looks majestic in the winter sun. After a hot lunch in Mumbles, we cycle to the pier before warming up at the Grand Theatre in the evening."
+          },
+          "stops": [
+            {
+              "name": "National Waterfront Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch zum Aufwärmen der Finger.",
+                "hu": "Használja ki a múzeumlátogatást az ujjai felmelegítésére.",
+                "ro": "Folosiți vizita la muzeu pentru a vă încălzi degetele.",
+                "en": "Use the museum visit to warm up your hands before the ride."
+              }
+            },
+            {
+              "name": "Cycle along Swansea Bay",
+              "tip_5lang": {
+                "de": "Achtung bei Überfrierungen auf schattigen Wegabschnitten.",
+                "hu": "Vigyázat a lefagyásokkal az út árnyékos szakaszain.",
+                "ro": "Atenție la porțiunile de drum înghețate în zonele umbrite.",
+                "en": "Watch out for black ice on shaded sections of the path."
+              }
+            },
+            {
+              "name": "Oystermouth Castle",
+              "tip_5lang": {
+                "de": "Prüfen Sie die eingeschränkten Winteröffnungszeiten.",
+                "hu": "Ellenőrizze a korlátozott téli nyitvatartást.",
+                "ro": "Verificați programul de iarnă limitat.",
+                "en": "Check for restricted winter opening hours."
+              }
+            },
+            {
+              "name": "Lunch in Mumbles",
+              "tip_5lang": {
+                "de": "Probieren Sie eine heiße Suppe zur Regeneration.",
+                "hu": "Próbáljon ki egy forró levest a regenerálódáshoz.",
+                "ro": "Încercați o supă fierbinte pentru regenerare.",
+                "en": "Try a hot soup to boost your energy and warmth."
+              }
+            },
+            {
+              "name": "Mumbles Pier",
+              "tip_5lang": {
+                "de": "Extrem windig; eine warme Mütze unter dem Helm ist ratsam.",
+                "hu": "Rendkívül szeles; vékony sapka a bukósisak alá ajánlott.",
+                "ro": "Extrem de vântos; o căciulă sub cască este recomandată.",
+                "en": "Extremely windy; a thin thermal hat under your helmet is advised."
+              }
+            },
+            {
+              "name": "Grand Theatre",
+              "tip_5lang": {
+                "de": "Im Winter gibt es oft festliche Aufführungen oder Pantomime.",
+                "hu": "Télen gyakran vannak ünnepi előadások vagy pantomim.",
+                "ro": "Iarna sunt adesea spectacole festive sau pantomimă.",
+                "en": "Check for festive performances or pantos during winter months."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Handschuhe, der Fahrtwind kühlt stark aus.",
+              "Das Tageslicht endet früh; funktionierende Lichter sind Pflicht.",
+              "Trinken Sie ausreichend, auch wenn Sie bei Kälte weniger Durst spüren.",
+              "Vermeiden Sie bei Frost zu enge Schuhe wegen der Durchblutung.",
+              "Der Radweg nach Mumbles ist meist gut geräumt."
+            ],
+            "hu": [
+              "Viseljen szélálló kesztyűt, a menetszél nagyon lehűti a kezet.",
+              "A nappali fény korán elfogy; a működő lámpa kötelező.",
+              "Igyon eleget, még ha hidegben kevésbé érzi is a szomjúságot.",
+              "Kerülje a túl szűk cipőt, hogy ne gátolja a vérkeringést.",
+              "A Mumbles felé vezető kerékpárút általában jól tisztított."
+            ],
+            "ro": [
+              "Purtați mănuși rezistente la vânt, curentul răcește mâinile tare.",
+              "Lumina zilei se termină devreme; luminile funcționale sunt obligatorii.",
+              "Beți suficiente lichide, chiar dacă simțiți mai puțin setea la frig.",
+              "Evitați încălțămintea prea strâmtă pentru a nu bloca circulația.",
+              "Pista spre Mumbles este de obicei bine curățată."
+            ],
+            "en": [
+              "Wear windproof gloves; the wind chill while cycling is significant.",
+              "Daylight fades early, so working bike lights are mandatory.",
+              "Stay hydrated even if you don't feel thirsty in the cold.",
+              "Avoid tight shoes to maintain good circulation in your toes.",
+              "The cycle path to Mumbles is usually well-maintained even in winter."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1122,6 +1520,214 @@
           "Traffic can be heavy during peak hours, so allow for extra travel time.",
           "A GPS is essential for navigating the city's one-way streets."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten den Tag in den botanischen Gärten von Clyne, die im Regen üppig grün leuchten. Danach geht es im trockenen Auto zur Burg Oystermouth und zum Mumbles Pier. Ein gemütliches Mittagessen schützt uns vor den Schauern. Den Nachmittag verbringen wir in den großen Museen am Wasser, bevor wir den Tag an der Burg Swansea beenden.",
+            "hu": "A napot a Clyne kertekben kezdjük, amelyek esőben buján zöldellnek. Ezután száraz autóban utazunk az Oystermouth várhoz és a Mumbles mólóhoz. Egy hangulatos ebéd megvéd minket a záporoktól. A délutánt a nagy vízparti múzeumokban töltjük, majd a napot a Swansea várnál zárjuk.",
+            "ro": "Începem ziua în grădinile Clyne, care strălucesc de un verde luxuriant în ploaie. Apoi mergem cu mașina spre Castelul Oystermouth și digul Mumbles. Un prânz plăcut ne protejează de averse. După-amiaza o petrecem în marile muzee de pe mal, înainte de a încheia ziua la Castelul Swansea.",
+            "en": "We start the day at Clyne Gardens, which look lush and green in the rain. Then, we travel in the dry car to Oystermouth Castle and Mumbles Pier. A cozy lunch protects us from the showers. We spend the afternoon in the large waterfront museums before ending the day at Swansea Castle."
+          },
+          "stops": [
+            {
+              "name": "Clyne Gardens",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um nass zu werdende Wege zu kürzen.",
+                "hu": "Parkoljon a bejárathoz közel, hogy lerövidítse a vizes utat.",
+                "ro": "Parcați aproape de intrare pentru a scurta drumul prin ploaie.",
+                "en": "Park near the entrance to minimize walking in the rain."
+              }
+            },
+            {
+              "name": "Oystermouth Castle",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz an der Castle Avenue.",
+                "hu": "Használja a Castle Avenue-nál található parkolót.",
+                "ro": "Folosiți parcarea de pe Castle Avenue.",
+                "en": "Use the pay-and-display parking on Castle Avenue."
+              }
+            },
+            {
+              "name": "Mumbles Pier",
+              "tip_5lang": {
+                "de": "Direkt am Pier gibt es einen großen Parkplatz.",
+                "hu": "Közvetlenül a mólónál nagy parkoló található.",
+                "ro": "Există o parcare mare chiar lângă dig.",
+                "en": "There is a large car park located right at the pier."
+              }
+            },
+            {
+              "name": "Lunch in Mumbles",
+              "tip_5lang": {
+                "de": "Parken Sie im Park-and-Ride, wenn die Marina voll ist.",
+                "hu": "Használja a P+R-t, ha a Marina környéke tele van.",
+                "ro": "Folosiți Park-and-Ride dacă Marina este plină.",
+                "en": "Use local car parks; street parking is limited in the rain."
+              }
+            },
+            {
+              "name": "National Waterfront Museum",
+              "tip_5lang": {
+                "de": "Das Parkhaus am St. David’s ist nur wenige Gehminuten entfernt.",
+                "hu": "A St. David’s parkolóház csak pár perc séta.",
+                "ro": "Parcarea supraetajată St. David’s este la câteva minute de mers.",
+                "en": "The St. David’s multi-storey car park is a short walk away."
+              }
+            },
+            {
+              "name": "Dylan Thomas Centre",
+              "tip_5lang": {
+                "de": "Kurzzeitparkplätze direkt vor dem Gebäude verfügbar.",
+                "hu": "Rövid távú parkolók közvetlenül az épület előtt elérhetők.",
+                "ro": "Locuri de parcare pe termen scurt disponibile în fața clădirii.",
+                "en": "Short-stay parking spaces available right in front."
+              }
+            },
+            {
+              "name": "Swansea Castle",
+              "tip_5lang": {
+                "de": "Zentrales Parkhaus bietet Schutz beim Aussteigen.",
+                "hu": "A központi parkolóház védelmet nyújt kiszálláskor.",
+                "ro": "Parcarea centrală oferă protecție la coborâre.",
+                "en": "The central multi-storey car park offers cover when exiting."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Park-and-Ride-Plätze, um Stress in der Innenstadt zu vermeiden.",
+              "Halten Sie Kleingeld oder eine Park-App für die Automaten bereit.",
+              "Die Küstenstraße kann bei starkem Regen leicht überflutet sein.",
+              "Scheibenwischer prüfen; die Gischt am Meer schmiert oft.",
+              "Viele Parkplätze in Mumbles sind bei schlechtem Wetter leerer."
+            ],
+            "hu": [
+              "Használja a P+R parkolókat, hogy elkerülje a belvárosi dugókat.",
+              "Készítsen elő aprópénzt vagy parkolási appot az automatákhoz.",
+              "A parti út heves esőzéskor helyenként víz alá kerülhet.",
+              "Ellenőrizze az ablaktörlőket; a sós tengeri pára maszatolhat.",
+              "Mumbles parkolói rossz időben általában üresebbek."
+            ],
+            "ro": [
+              "Folosiți parcările Park-and-Ride pentru a evita stresul din centru.",
+              "Pregătiți mărunțiș sau o aplicație de parcare pentru automate.",
+              "Drumul de coastă poate fi ușor inundat în caz de ploaie torențială.",
+              "Verificați ștergătoarele; vaporii de sare de la mare pot murdări parbrizul.",
+              "Multe parcări din Mumbles sunt mai libere pe vreme rea."
+            ],
+            "en": [
+              "Utilize Park-and-Ride schemes to avoid city centre congestion.",
+              "Keep spare change or a parking app ready for the machines.",
+              "The Mumbles Road can experience minor flooding during heavy rain.",
+              "Ensure your wipers are in good condition; sea spray can be greasy.",
+              "Parking in Mumbles is often easier to find during rainy spells."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Start in den Clyne Gardens, gefolgt von einer Fahrt zur Burg Oystermouth in der klaren Winterluft. Wir genießen die Aussicht vom Pier und wärmen uns bei einem ausgiebigen Mittagessen auf. Der Nachmittag gehört der Kultur in den Museen am Hafen, bevor wir im Licht der Stadt die Burg Swansea besuchen.",
+            "hu": "Deres kezdés a Clyne kertekben, majd autózás az Oystermouth várhoz a tiszta téli levegőben. Élvezzük a kilátást a mólóról, és egy bőséges ebéddel melegszünk fel. A délután a kikötői múzeumoké, majd a város fényeiben meglátogatjuk a Swansea várat.",
+            "ro": "Un început geros în grădinile Clyne, urmat de un drum spre Castelul Oystermouth în aerul curat de iarnă. Ne bucurăm de priveliștea de pe dig și ne încălzim cu un prânz copios. După-amiaza este dedicată culturii în muzeele din port, înainte de a vizita Castelul Swansea la luminile orașului.",
+            "en": "A frosty start at Clyne Gardens, followed by a drive to Oystermouth Castle in the clear winter air. We enjoy the views from the pier and warm up with a hearty lunch. The afternoon is spent exploring the waterfront museums before visiting Swansea Castle under the city lights."
+          },
+          "stops": [
+            {
+              "name": "Clyne Gardens",
+              "tip_5lang": {
+                "de": "Die Teiche können im Winter gefroren sein, sehr fotogen.",
+                "hu": "A tavak télen befagyhatnak, nagyon fotogének.",
+                "ro": "Iazurile pot fi înghețate iarna, foarte fotogenice.",
+                "en": "The ponds can freeze over in winter, making them very photogenic."
+              }
+            },
+            {
+              "name": "Oystermouth Castle",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glätte auf dem ansteigenden Fußweg zur Burg.",
+                "hu": "Ügyeljen a csúszós részekre a vár felé vezető emelkedőn.",
+                "ro": "Atenție la porțiunile alunecoase pe drumul în pantă spre castel.",
+                "en": "Watch for icy patches on the uphill path to the castle."
+              }
+            },
+            {
+              "name": "Mumbles Pier",
+              "tip_5lang": {
+                "de": "Die Spielhalle am Pier ist ein warmer Rückzugsort.",
+                "hu": "A mólónál lévő játékterem meleg menedékhely.",
+                "ro": "Sala de jocuri de la dig este un refugiu călduros.",
+                "en": "The amusement arcade at the pier provides a warm indoor break."
+              }
+            },
+            {
+              "name": "Lunch in Mumbles",
+              "tip_5lang": {
+                "de": "Einige Parkplätze sind im Winter kostenlos oder günstiger.",
+                "hu": "Néhány parkoló télen ingyenes vagy olcsóbb.",
+                "ro": "Unele parcări sunt gratuite sau mai ieftine iarna.",
+                "en": "Some car parks may have reduced rates during winter months."
+              }
+            },
+            {
+              "name": "National Waterfront Museum",
+              "tip_5lang": {
+                "de": "In der Dämmerung ist das Gebäude spektakulär beleuchtet.",
+                "hu": "Szürkületben az épület látványosan ki van világítva.",
+                "ro": "Clădirea este iluminată spectaculos la amurg.",
+                "en": "The building is spectacularly lit up during winter twilights."
+              }
+            },
+            {
+              "name": "Dylan Thomas Centre",
+              "tip_5lang": {
+                "de": "Perfekt für den späten Nachmittag, wenn es draußen kalt wird.",
+                "hu": "Tökéletes késő délutánra, amikor kint lehűl az idő.",
+                "ro": "Perfect pentru după-amiaza târzie, când se face frig afară.",
+                "en": "Perfect for the late afternoon when it gets cold outside."
+              }
+            },
+            {
+              "name": "Swansea Castle",
+              "tip_5lang": {
+                "de": "Die umliegende Weihnachtsbeleuchtung sorgt für Stimmung.",
+                "hu": "A környékbeli karácsonyi fények megalapozzák a hangulatot.",
+                "ro": "Luminile de Crăciun din jur creează o atmosferă plăcută.",
+                "en": "Nearby Christmas lights add a festive atmosphere in December."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Reifendruck, er sinkt bei Kälte oft ab.",
+              "Scheibenfrostschutz nicht vergessen, die Gischt friert schnell.",
+              "Die Parkplatzsuche in Mumbles ist im Winter wesentlich entspannter.",
+              "Achten Sie auf schwarzes Eis auf Nebenstraßen in den Hügeln.",
+              "Nutzen Sie die Sitzheizung, wenn vorhanden, für die Küstenfahrt."
+            ],
+            "hu": [
+              "Ellenőrizze a guminyomást, hidegben gyakran csökken.",
+              "Ne felejtse el a fagyálló szélvédőmosót; a permet hamar ráfagyhat.",
+              "A parkolás Mumblesben télen sokkal egyszerűbb.",
+              "Ügyeljen a fekete jégre a domboldali mellékutakon.",
+              "Használja az ülésfűtést a parti autózás közben."
+            ],
+            "ro": [
+              "Verificați presiunea în anvelope, scade adesea la frig.",
+              "Nu uitați lichidul de parbriz antigel; vaporii îngheață repede.",
+              "Găsirea unui loc de parcare în Mumbles este mult mai ușoară iarna.",
+              "Atenție la gheața neagră pe drumurile secundare din dealuri.",
+              "Folosiți încălzirea în scaune pentru drumul de coastă."
+            ],
+            "en": [
+              "Check your tyre pressure, as it often drops in colder weather.",
+              "Don't forget antifreeze; sea spray can freeze on the windscreen.",
+              "Finding parking in Mumbles is much easier during the winter season.",
+              "Beware of black ice on side roads in the surrounding hills.",
+              "Pre-heat your car before leaving for a more comfortable journey."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1478,6 +2084,196 @@
           "Buses can be less frequent on weekends and bank holidays.",
           "Be ready to put your hand out to hail the bus, as they don't automatically stop at every stop."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir nutzen das dichte Busnetz, um trocken zum Guildhall und zur Promenade zu gelangen. Den Mittag verbringen wir im Waterfront Museum, dem perfekten Rückzugsort bei Regen. Nach dem Swansea Museum bringt uns der Bus 4 oder 4A direkt zur Burg Oystermouth. Wir beenden den Tag bei einem gemütlichen Abendessen in Mumbles.",
+            "hu": "A sűrű buszhálózatot használjuk, hogy szárazon jussunk el a Guildhallhoz és a sétányhoz. A delet a Waterfront Múzeumban töltjük, amely tökéletes menedék esőben. A Swansea Múzeum után a 4-es vagy 4A busz közvetlenül az Oystermouth várhoz visz minket. A napot egy hangulatos mumbles-i vacsorával zárjuk.",
+            "ro": "Folosim rețeaua densă de autobuze pentru a ajunge la Guildhall și pe faleză fără să ne udăm. Prânzul îl petrecem la Muzeul Waterfront, refugiul perfect pe ploaie. După Muzeul Swansea, autobuzul 4 sau 4A ne duce direct la Castelul Oystermouth. Încheiem ziua cu o cină plăcută în Mumbles.",
+            "en": "We use the frequent bus network to stay dry while traveling to the Guildhall and promenade. Midday is spent at the Waterfront Museum, a perfect rainy-day sanctuary. After the Swansea Museum, bus 4 or 4A takes us straight to Oystermouth Castle. We end the day with a cozy dinner in Mumbles."
+          },
+          "stops": [
+            {
+              "name": "Guildhall",
+              "tip_5lang": {
+                "de": "Bushaltestelle direkt gegenüber dem Haupteingang.",
+                "hu": "Buszmegálló közvetlenül a főbejárattal szemben.",
+                "ro": "Stație de autobuz chiar vizavi de intrarea principală.",
+                "en": "Bus stop located directly opposite the main entrance."
+              }
+            },
+            {
+              "name": "Swansea Bay Promenade",
+              "tip_5lang": {
+                "de": "Kurzer Spaziergang von den Haltestellen an der Mumbles Road.",
+                "hu": "Rövid séta a Mumbles Road megállóitól.",
+                "ro": "Scurtă plimbare de la stațiile de pe Mumbles Road.",
+                "en": "A short dash from the bus stops on Mumbles Road."
+              }
+            },
+            {
+              "name": "National Waterfront Museum",
+              "tip_5lang": {
+                "de": "Nahe am Busbahnhof (Quay Parade) gelegen.",
+                "hu": "Közel van a buszpályaudvarhoz (Quay Parade).",
+                "ro": "Situat aproape de autogara Quay Parade.",
+                "en": "Conveniently close to the Quay Parade bus stops."
+              }
+            },
+            {
+              "name": "Swansea Museum",
+              "tip_5lang": {
+                "de": "Die meisten Stadtbusse halten in unmittelbarer Nähe.",
+                "hu": "A legtöbb városi busz a közvetlen közelben áll meg.",
+                "ro": "Majoritatea autobuzelor urbane opresc în imediata apropiere.",
+                "en": "Most city buses stop within very short walking distance."
+              }
+            },
+            {
+              "name": "Oystermouth Castle",
+              "tip_5lang": {
+                "de": "Steigen Sie an der Haltestelle 'Oystermouth Square' aus.",
+                "hu": "Szálljon le az 'Oystermouth Square' megállónál.",
+                "ro": "Coborâți la stația 'Oystermouth Square'.",
+                "en": "Alight at the 'Oystermouth Square' stop for easiest access."
+              }
+            },
+            {
+              "name": "Dinner in Mumbles",
+              "tip_5lang": {
+                "de": "Letzte Busse zurück ins Zentrum prüfen (Linie 4/4A).",
+                "hu": "Ellenőrizze az utolsó buszokat a központba (4/4A vonal).",
+                "ro": "Verificați ultimele autobuze spre centru (linia 4/4A).",
+                "en": "Check the schedule for the last buses back to the centre."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die 'First Bus' App für Echtzeit-Abfahrten.",
+              "Ein Tagesticket ist meist günstiger als Einzelfahrten.",
+              "Die Haltestellen am Waterfront Museum sind überdacht.",
+              "Busse nach Mumbles fahren alle 10-15 Minuten.",
+              "Vermeiden Sie die Rushhour, wenn die Busse oft voll sind."
+            ],
+            "hu": [
+              "Használja a 'First Bus' alkalmazást a valós idejű indulásokhoz.",
+              "A napijegy általában olcsóbb, mint a külön jegyek.",
+              "A Waterfront Múzeumnál lévő megállók fedettek.",
+              "A buszok Mumblesbe 10-15 percenként járnak.",
+              "Kerülje a csúcsidőt, mert ilyenkor a buszok nagyon zsúfoltak."
+            ],
+            "ro": [
+              "Folosiți aplicația 'First Bus' pentru plecări în timp real.",
+              "Un bilet de o zi este de obicei mai ieftin decât călătoriile individuale.",
+              "Stațiile de lângă Muzeul Waterfront sunt acoperite.",
+              "Autobuzele spre Mumbles circulă la fiecare 10-15 minute.",
+              "Evitați orele de vârf când autobuzele pot fi foarte aglomerate."
+            ],
+            "en": [
+              "Use the 'First Bus' app to track your bus in real-time.",
+              "A day ticket is usually more cost-effective than single fares.",
+              "The main bus stops near the museums offer good shelter.",
+              "Buses to Mumbles (4 and 4A) run every 10-15 minutes.",
+              "Keep your umbrella ready for the short walks between stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Mit dem beheizten Bus erkunden wir das herbstliche Guildhall und die Promenade. Den Mittag verbringen wir in der Wärme des Waterfront Museums. Am Nachmittag bringt uns der Transit bequem nach Oystermouth, wo die Burg in der Wintersonne strahlt. Wir beenden den Tag mit einem gemütlichen Abendessen in Mumbles, bevor der Bus uns zurückbringt.",
+            "hu": "Fűtött busszal fedezzük fel az őszi hangulatú Guildhallt és a sétányt. A delet a Waterfront Múzeum melegében töltjük. Délután a tömegközlekedés kényelmesen visz el Oystermouth-ba, ahol a vár a téli napsütésben ragyog. A napot mumbles-i vacsorával zárjuk, mielőtt a busz visszavinne.",
+            "ro": "Cu autobuzul încălzit explorăm Guildhall și faleza în atmosferă de iarnă. Prânzul îl petrecem la căldură în Muzeul Waterfront. După-amiaza, transportul în comun ne duce confortabil la Oystermouth, unde castelul strălucește în soarele iernii. Încheiem ziua cu o cină în Mumbles.",
+            "en": "We travel by heated bus to explore the Guildhall and promenade. Midday is spent in the warmth of the Waterfront Museum. In the afternoon, transit takes us comfortably to Oystermouth, where the castle glows in the winter sun. We conclude the day with dinner in Mumbles before catching the bus back."
+          },
+          "stops": [
+            {
+              "name": "Guildhall",
+              "tip_5lang": {
+                "de": "Im Winter sind die Busse meist gut beheizt.",
+                "hu": "Télen a buszok általában jól fűtöttek.",
+                "ro": "Iarna, autobuzele sunt de obicei bine încălzite.",
+                "en": "Buses are usually well-heated during the winter months."
+              }
+            },
+            {
+              "name": "Swansea Bay Promenade",
+              "tip_5lang": {
+                "de": "Der Blick auf die frostige Bucht aus dem Busfenster ist toll.",
+                "hu": "A deres öböl látványa a buszablakból nagyszerű.",
+                "ro": "Vederea spre golful înghețat de la fereastra autobuzului este superbă.",
+                "en": "The view of the frosty bay from the bus window is lovely."
+              }
+            },
+            {
+              "name": "National Waterfront Museum",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die kälteste Zeit des Tages drinnen zu verbringen.",
+                "hu": "Ideális hely a nap leghidegebb részének benn töltésére.",
+                "ro": "Un loc ideal pentru a petrece cea mai rece parte a zilei în interior.",
+                "en": "An ideal place to spend the coldest part of the day indoors."
+              }
+            },
+            {
+              "name": "Swansea Museum",
+              "tip_5lang": {
+                "de": "Die Bushaltestellen sind nur einen kurzen, kalten Weg entfernt.",
+                "hu": "A buszmegállók csak egy rövid, hideg sétára vannak.",
+                "ro": "Stațiile de autobuz sunt la doar o scurtă plimbare prin frig.",
+                "en": "Bus stops are just a short, brisk walk away from the entrance."
+              }
+            },
+            {
+              "name": "Oystermouth Castle",
+              "tip_5lang": {
+                "de": "In der Dämmerung fahren die Busse seltener, Fahrplan prüfen.",
+                "hu": "Szürkületben a buszok ritkábban járnak, nézze meg a menetrendet.",
+                "ro": "La amurg autobuzele circulă mai rar, verificați mersul autobuzelor.",
+                "en": "Buses may run less frequently after dark; check the schedule."
+              }
+            },
+            {
+              "name": "Dinner in Mumbles",
+              "tip_5lang": {
+                "de": "Die Haltestellen in Mumbles können im Winter sehr windig sein.",
+                "hu": "A mumbles-i megállók télen nagyon szelesek lehetnek.",
+                "ro": "Stațiile din Mumbles pot fi foarte vântoase iarna.",
+                "en": "Bus stops in Mumbles can be very exposed to winter winds."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie Kontaktloses Bezahlen beim Einsteigen ('Tap on, Tap off').",
+              "Die Wartezeiten an den Haltestellen sind kurz, aber ziehen Sie sich warm an.",
+              "Im Winter sind die Busse weniger überfüllt als im Sommer.",
+              "Der Busbahnhof Swansea bietet einen warmen Wartesaal.",
+              "Einige Linien haben im Winter einen leicht geänderten Fahrplan."
+            ],
+            "hu": [
+              "Használjon érintéses fizetést felszálláskor ('Tap on, Tap off').",
+              "A várakozási idő rövid, de öltözzön melegen a megállókba.",
+              "Télen a buszok kevésbé zsúfoltak, mint nyáron.",
+              "A swansea-i buszpályaudvaron van fűtött váróterem.",
+              "Néhány vonal menetrendje télen kismértékben változhat."
+            ],
+            "ro": [
+              "Folosiți plata contactless la urcare ('Tap on, Tap off').",
+              "Timpul de așteptare este scurt, dar îmbrăcați-vă bine pentru stații.",
+              "Iarna, autobuzele sunt mai puțin aglomerate decât vara.",
+              "Autogara din Swansea oferă o sală de așteptare încălzită.",
+              "Unele linii au un orar ușor modificat pe timp de iarnă."
+            ],
+            "en": [
+              "Use contactless payment for convenience ('Tap on, Tap off').",
+              "Wait times are usually short, but keep your coat buttoned up.",
+              "Buses are generally less crowded in winter than in peak summer.",
+              "Swansea Quadrant Bus Station has a warm indoor waiting area.",
+              "Double-check the late-evening Sunday services if applicable."
+            ]
+          }
+        }
       }
     }
   }

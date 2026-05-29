@@ -382,6 +382,214 @@
           "Bring a swimsuit if you plan to relax at the Árpád Baths.",
           "Check the opening hours of the museums, especially the Memorial House, as they can vary."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen beginnt am Szent István Platz, wo die Pfützen die Fassaden spiegeln. Mittags bietet das Munkácsy-Museum einen trockenen Zufluchtsort in der Welt der Kunst. Nachmittags wärmen wir uns in den Innenbecken des Árpád-Bades auf, während der Regen gegen die Fenster prasselt. Der Tag endet mit einem gemütlichen Spaziergang unter dem Regenschirm zur Kathedrale.",
+            "hu": "Esős reggel indul a Szent István téren, ahol a tócsákban tükröződnek a homlokzatok. Délben a Munkácsy Múzeum nyújt száraz menedéket a művészet világában. Délután az Árpád fürdő fedett medencéiben melegedünk fel, miközben az eső kopog az ablakokon. A napot egy hangulatos, esernyős séta zárja a társszékesegyház felé, a belváros fényeiben gyönyörködve.",
+            "ro": "O dimineață ploioasă începe în Piața Sfântul Ștefan, unde bălțile reflectă fațadele clădirilor. La prânz, Muzeul Munkácsy oferă un refugiu uscat în lumea artei. După-amiaza ne încălzim în bazinele acoperite ale Băilor Árpád, în timp ce ploaia bate în geamuri. Ziua se încheie cu o plimbare plăcută sub umbrelă spre co-catedrală, admirând luminile orașului.",
+            "en": "A rainy morning starts at St. Stephen's Square, with puddles reflecting the historic facades. At noon, the Munkácsy Museum provides a dry sanctuary in the world of art. In the afternoon, we warm up in the indoor pools of the Árpád Baths as rain taps on the windows. The day concludes with a cozy umbrella walk toward the cathedral, enjoying the city's evening glow."
+          },
+          "stops": [
+            {
+              "name": "City Hall and St. Stephen's Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden des Rathauses als Schutz vor dem Regen.",
+                "hu": "Használja a városháza árkádjait menedékként az eső elől.",
+                "ro": "Folosiți arcadele primăriei ca adăpost împotriva ploii.",
+                "en": "Use the City Hall arcades as shelter from the rain."
+              }
+            },
+            {
+              "name": "Great Lutheran Church",
+              "tip_5lang": {
+                "de": "Bewundern Sie die monumentale Innenarchitektur im Trockenen.",
+                "hu": "Csodálja meg a monumentális belső teret a szárazban.",
+                "ro": "Admirați arhitectura interioară monumentală la adăpost.",
+                "en": "Admire the monumental interior architecture in the dry."
+              }
+            },
+            {
+              "name": "Jókai Theatre",
+              "tip_5lang": {
+                "de": "Der Portikus bietet einen guten Aussichtspunkt bei Schauern.",
+                "hu": "A színház oszlopcsarnoka jó kilátópont zápor idején.",
+                "ro": "Porticul teatrului oferă un bun punct de observație pe ploaie.",
+                "en": "The theatre's portico offers a good vantage point during showers."
+              }
+            },
+            {
+              "name": "Mihály Munkácsy Museum",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um zwei Stunden im Trockenen zu verbringen.",
+                "hu": "Tökéletes hely két óra eltöltésére a szárazban.",
+                "ro": "Locul perfect pentru a petrece două ore la adăpost.",
+                "en": "Perfect place to spend two hours in the dry."
+              }
+            },
+            {
+              "name": "Munkácsy Memorial House",
+              "tip_5lang": {
+                "de": "Die gemütliche Atmosphäre ist bei Regen besonders einladend.",
+                "hu": "A hangulatos belső tér esőben különösen hívogató.",
+                "ro": "Atmosfera primitoare este deosebit de plăcută pe ploaie.",
+                "en": "The cozy atmosphere is especially inviting when it rains."
+              }
+            },
+            {
+              "name": "Árpád Thermal and Lido Baths",
+              "tip_5lang": {
+                "de": "Genießen Sie die Thermalbecken in der beheizten Halle.",
+                "hu": "Élvezze a termálmedencéket a fűtött csarnokban.",
+                "ro": "Bucurați-vă de bazinele termale în hala încălzită.",
+                "en": "Enjoy the thermal pools in the heated indoor hall."
+              }
+            },
+            {
+              "name": "St. Anthony of Padua Co-Cathedral",
+              "tip_5lang": {
+                "de": "Die abendliche Beleuchtung spiegelt sich schön auf nassem Asphalt.",
+                "hu": "Az esti kivilágítás szépen tükröződik a vizes aszfalton.",
+                "ro": "Iluminatul de seară se reflectă frumos pe asfaltul umed.",
+                "en": "The evening lights reflect beautifully on the wet asphalt."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für den Weg zwischen den Museen.",
+              "Die Arkaden am Hauptplatz bieten guten Schutz bei plötzlichen Schauern.",
+              "Das Árpád-Bad ist der beste Ort, um nasse Nachmittage zu verbringen.",
+              "Viele Cafés im Zentrum haben überdachte Terrassen.",
+              "Ein Taschenschirm ist bei diesem Stadtspaziergang unverzichtbar."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a múzeumok közötti közlekedéshez.",
+              "A főtér árkádjai jó védelmet nyújtanak hirtelen zápor esetén.",
+              "Az Árpád fürdő a legjobb hely az esős délután eltöltésére.",
+              "A központ számos kávézója rendelkezik fedett terasszal.",
+              "Egy összecsukható esernyő elengedhetetlen ehhez a sétához."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru drumul dintre muzee.",
+              "Arcadele din piața principală oferă protecție bună la averse.",
+              "Băile Árpád sunt cel mai bun loc pentru o după-amiază ploioasă.",
+              "Multe cafenele din centru au terase acoperite.",
+              "O umbrelă pliabilă este esențială pentru această plimbare."
+            ],
+            "en": [
+              "Wear waterproof shoes for the walk between museums.",
+              "The main square's arcades offer good protection during sudden showers.",
+              "Árpád Baths is the best place to spend a rainy afternoon.",
+              "Many downtown cafes have covered terraces.",
+              "A folding umbrella is essential for this city walk."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Wintermorgen in Békéscsaba beginnt mit dem Dampf aus den Bäckereien am Hauptplatz. Mittags wärmen wir uns in den beheizten Hallen des Munkácsy-Museums auf. Wenn die Sonne früh untergeht, bieten die Thermalbecken des Árpád-Bades eine magische, warme Atmosphäre unter freiem Himmel. Der Tag endet an der beleuchteten Kathedrale, wenn der Frost die Stadt überzieht.",
+            "hu": "Dérlepte téli reggel indul Békéscsabán, a főtéri pékségek gőzölgő illatával. Délben a Munkácsy Múzeum fűtött termeiben melegedünk fel a festmények között. Mivel a nap korán nyugszik, az Árpád fürdő gőzölgő termálvize varázslatos hangulatot áraszt a csípős estében. A nap a kivilágított társszékesegyháznál ér véget, miközben a fagy megül a városon.",
+            "ro": "O dimineață geroasă de iarnă în Békéscsaba începe cu aburul brutăriilor din piață. La prânz ne încălzim în sălile încălzite ale Muzeului Munkácsy printre picturi. Deoarece soarele apune devreme, apa termală aburindă a Băilor Árpád oferă o atmosferă magică în seara rece. Ziua se încheie la co-catedrala iluminată, în timp ce gerul cuprinde orașul.",
+            "en": "A frosty winter morning in Békéscsaba starts with the steam from bakeries on the main square. At noon, we warm up in the heated halls of the Munkácsy Museum among the paintings. As the sun sets early, the steaming thermal waters of Árpád Baths offer a magical atmosphere in the crisp evening. The day ends at the illuminated cathedral as frost settles over the city."
+          },
+          "stops": [
+            {
+              "name": "City Hall and St. Stephen's Square",
+              "tip_5lang": {
+                "de": "Vorsicht vor glatten Stellen auf dem Pflaster bei Frost.",
+                "hu": "Vigyázzon a csúszós szakaszokra a kövezeten fagy idején.",
+                "ro": "Atenție la porțiunile alunecoase de pe pavaj în caz de îngheț.",
+                "en": "Watch out for slippery patches on the pavement during frost."
+              }
+            },
+            {
+              "name": "Great Lutheran Church",
+              "tip_5lang": {
+                "de": "In der Kirche ist es oft kühler, behalten Sie den Mantel an.",
+                "hu": "A templomban gyakran hűvösebb van, tartsa magán a kabátot.",
+                "ro": "În biserică este adesea mai răcoare, păstrați haina pe dvs.",
+                "en": "It's often cooler inside the church, keep your coat on."
+              }
+            },
+            {
+              "name": "Jókai Theatre",
+              "tip_5lang": {
+                "de": "Die Abendbeleuchtung des Theaters ist im Winter besonders schön.",
+                "hu": "A színház esti kivilágítása télen különösen szép.",
+                "ro": "Iluminatul de seară al teatrului este superb iarna.",
+                "en": "The theatre's evening lighting is especially beautiful in winter."
+              }
+            },
+            {
+              "name": "Mihály Munkácsy Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe, um entspannt im Warmen zu schauen.",
+                "hu": "Használja a ruhatárat, hogy kényelmesen nézelődjön a melegben.",
+                "ro": "Folosiți garderoba pentru a vizita confortabil la căldură.",
+                "en": "Use the cloakroom to browse comfortably in the warmth."
+              }
+            },
+            {
+              "name": "Munkácsy Memorial House",
+              "tip_5lang": {
+                "de": "Ein heißer Tee im Café nebenan wärmt nach der Besichtigung.",
+                "hu": "Egy forró tea a szomszédos kávézóban felmelegít látogatás után.",
+                "ro": "Un ceai fierbinte la cafeneaua de lângă vă va încălzi.",
+                "en": "A hot tea at the nearby cafe will warm you up after visiting."
+              }
+            },
+            {
+              "name": "Árpád Thermal and Lido Baths",
+              "tip_5lang": {
+                "de": "Das Außenbecken im Dampf ist im Winter ein Highlight.",
+                "hu": "A gőzölgő kültéri medence télen igazi különlegesség.",
+                "ro": "Bazinul exterior aburind este o experiență unică iarna.",
+                "en": "The steaming outdoor pool is a real highlight in winter."
+              }
+            },
+            {
+              "name": "St. Anthony of Padua Co-Cathedral",
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang ist gegen 16:30 Uhr, planen Sie Licht ein.",
+                "hu": "A naplemente 16:30 körül van, számoljon a korai sötéttel.",
+                "ro": "Apusul este în jur de 16:30, planificați pentru întuneric.",
+                "en": "Sunset is around 16:30, account for early darkness."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermokleidung, da der Wind in der Ebene beißen kann.",
+              "Die Museen sind gut beheizt und bieten ideale Aufwärmpausen.",
+              "Im Árpád-Bad sollten Sie unbedingt eine Mütze für das Außenbecken nutzen.",
+              "Die Sonne geht früh unter, die Stadtlichter leuchten ab 17 Uhr.",
+              "Genießen Sie lokale Winterspezialitäten wie heiße Gulaschsuppe."
+            ],
+            "hu": [
+              "Viseljen termaruházatot, az alföldi szél metsző lehet télen.",
+              "A múzeumok jól fűtöttek, ideálisak a felmelegedésre.",
+              "A fürdőben feltétlenül használjon sapkát a kinti medencéhez.",
+              "A nap korán nyugszik, a város fényei 17 órától már égnek.",
+              "Kóstolja meg a helyi téli ételeket, például a forró gulyást."
+            ],
+            "ro": [
+              "Purtați haine termice, vântul de câmpie poate fi tăios iarna.",
+              "Muzeele sunt bine încălzite, ideale pentru a vă încălzi.",
+              "La baie folosiți neapărat o căciulă pentru bazinul exterior.",
+              "Soarele apune devreme, luminile orașului se aprind de la ora 17.",
+              "Gustați specialitățile locale de iarnă, cum ar fi gulașul fierbinte."
+            ],
+            "en": [
+              "Wear thermal clothing as the lowland wind can be biting.",
+              "Museums are well-heated, making them ideal warming breaks.",
+              "In the baths, definitely use a swim cap/hat for the outdoor pool.",
+              "Sunset is early; city lights are on from 5 PM onwards.",
+              "Enjoy local winter specialties like hot goulash soup."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -782,6 +990,232 @@
           "Bring a good lock to secure your bike at the attractions.",
           "Many paths, especially along the canal, are bike-friendly."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz des Regens erkunden wir Békéscsaba auf zwei Rädern, geschützt durch Regenponchos. Die Fahrt am Élővíz-Kanal ist bei Schauern besonders ruhig und atmosphärisch. Mittags bietet das Munkácsy-Museum eine kulturelle Pause im Trockenen. Nach der Tour wärmen die Thermalbecken des Árpád-Bades die Muskeln wieder auf.",
+            "hu": "Az eső ellenére két keréken fedezzük fel Békéscsabát, esővédőben. Az Élővíz-csatorna partja ilyenkor különösen csendes és hangulatos. Délben a Munkácsy Múzeum nyújt kulturális pihenőt a szárazban. A tekerés után az Árpád fürdő termálmedencéi esőben is kiválóan regenerálják az izmokat.",
+            "ro": "În ciuda ploii, explorăm Békéscsaba pe două roți, protejați de pelerine. Malul canalului Élővíz este deosebit de liniștit și atmosferic acum. La prânz, Muzeul Munkácsy oferă o pauză culturală la uscat. După tură, bazinele termale ale Băilor Árpád regenerează excelent mușchii obosiți.",
+            "en": "Despite the rain, we explore Békéscsaba on two wheels, protected by rain gear. The banks of the Élővíz Canal are particularly quiet and atmospheric during showers. At noon, the Munkácsy Museum offers a cultural break in the dry. After the ride, the thermal pools of Árpád Baths are perfect for muscle recovery."
+          },
+          "stops": [
+            {
+              "name": "City Hall and St. Stephen's Square",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem nassen Kopfsteinpflaster beim Anfahren.",
+                "hu": "Vigyázzon a vizes macskakövön az elinduláskor.",
+                "ro": "Atenție pe pavajul umed la pornire.",
+                "en": "Be careful on the wet cobblestones when starting off."
+              }
+            },
+            {
+              "name": "Great Lutheran Church",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad unter den Bäumen oder am Vordach ab.",
+                "hu": "Parkoljon a fák alatt vagy az előtető közelében.",
+                "ro": "Parcați sub copaci sau lângă copertină.",
+                "en": "Park under the trees or near the overhang."
+              }
+            },
+            {
+              "name": "Jókai Theatre",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp unter dem Regenschutz des Gebäudes.",
+                "hu": "Rövid fotómegálló az épület esővédett részénél.",
+                "ro": "Scurt popas foto sub protecția clădirii.",
+                "en": "Short photo stop under the building's rain protection."
+              }
+            },
+            {
+              "name": "Mihály Munkácsy Museum",
+              "tip_5lang": {
+                "de": "Sichere Fahrradständer befinden sich direkt am Eingang.",
+                "hu": "Biztonságos biciklitárolók vannak közvetlenül a bejáratnál.",
+                "ro": "Suporturi sigure de biciclete chiar la intrare.",
+                "en": "Secure bike racks are located right at the entrance."
+              }
+            },
+            {
+              "name": "Munkácsy Memorial House",
+              "tip_5lang": {
+                "de": "Der Gartenweg kann bei Regen etwas rutschig sein.",
+                "hu": "A kerti út esőben kissé csúszós lehet.",
+                "ro": "Poteca din grădină poate fi alunecoasă pe ploaie.",
+                "en": "The garden path can be a bit slippery in the rain."
+              }
+            },
+            {
+              "name": "István Mill",
+              "tip_5lang": {
+                "de": "Die industrielle Kulisse wirkt bei grauem Himmel imposant.",
+                "hu": "Az ipari műemlék szürke égbolt alatt is impozáns.",
+                "ro": "Monumentul industrial arată impunător sub cerul gri.",
+                "en": "The industrial monument looks imposing even under grey skies."
+              }
+            },
+            {
+              "name": "Árpád Thermal and Lido Baths",
+              "tip_5lang": {
+                "de": "Verstauen Sie nasse Kleidung in den Schließfächern.",
+                "hu": "Tegye a vizes ruhákat a zárható szekrényekbe.",
+                "ro": "Puneți hainele ude în dulapurile încuiate.",
+                "en": "Store wet clothes in the lockable lockers."
+              }
+            },
+            {
+              "name": "Stroll along the Élővíz Canal",
+              "tip_5lang": {
+                "de": "Nutzen Sie Schutzbleche, um Schlammspritzer zu vermeiden.",
+                "hu": "Használjon sárvédőt a felcsapódó víz ellen.",
+                "ro": "Folosiți aripi pentru a evita stropirea cu noroi.",
+                "en": "Use fenders to prevent mud and water splashes."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Regenponchos und wasserfeste Packtaschen sind empfohlen.",
+              "Vermeiden Sie scharfes Bremsen auf nassen Markierungen.",
+              "Der Weg am Kanal ist größtenteils asphaltiert, aber Vorsicht vor Laub.",
+              "Das Árpád-Bad hat überdachte Fahrradparkplätze.",
+              "Wischen Sie den Sattel vor der Weiterfahrt immer trocken."
+            ],
+            "hu": [
+              "Esőponchó és vízálló táska használata ajánlott.",
+              "Kerülje az erős fékezést a vizes felfestéseken.",
+              "A csatornaparti út nagyja aszfaltozott, de vigyázzon a vizes levelekre.",
+              "Az Árpád fürdőnél fedett biciklitárolók találhatók.",
+              "Mindig törölje szárazra a nyerget indulás előtt."
+            ],
+            "ro": [
+              "Se recomandă pelerină de ploaie și genți impermeabile.",
+              "Evitați frânarea bruscă pe marcajele rutiere umede.",
+              "Drumul de pe mal este asfaltat, dar atenție la frunzele ude.",
+              "La Băile Árpád există parcări acoperite pentru biciclete.",
+              "Ștergeți întotdeauna șaua înainte de a pleca din nou."
+            ],
+            "en": [
+              "Rain ponchos and waterproof panniers are highly recommended.",
+              "Avoid sharp braking on wet road markings.",
+              "The canal path is mostly paved, but watch out for wet leaves.",
+              "Árpád Baths has covered bicycle parking areas.",
+              "Always wipe your saddle dry before heading off again."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die kalte Winterluft belebt bei der Radtour durch das flache Békéscsaba. Der Morgen am Hauptplatz ist ruhig, die Räder knirschen auf dem Reif. Mittags bieten Museen warme Stopps, bevor es zum industriellen Erbe der István-Mühle geht. Der krönende Abschluss ist das dampfende Árpád-Bad, das die Kälte aus den Gliedern vertreibt.",
+            "hu": "A hideg téli levegő frissítően hat a kerékpártúrán a lapos Békéscsabán. A főtér reggel csendes, a kerekek ropognak a déren. Napközben a múzeumok meleg megállókat kínálnak, mielőtt az István-malom ipari örökségéhez tekernénk. A nap fénypontja a gőzölgő Árpád fürdő, amely elűzi a hideget a végtagokból.",
+            "ro": "Aerul rece de iarnă este revigorant în timpul turului cu bicicleta prin Békéscsaba. Piața este liniștită dimineața, roțile scârțâie pe brumă. În timpul zilei, muzeele oferă opriri calde înainte de a pedala spre Moara István. Punctul culminant este apa aburindă a Băilor Árpád, care alungă frigul.",
+            "en": "The cold winter air is refreshing during a bike tour through flat Békéscsaba. The morning on the main square is quiet, with wheels crunching on the frost. During the day, museums offer warm stops before cycling to the industrial heritage of István Mill. The highlight is the steaming Árpád Baths, chasing the cold from your limbs."
+          },
+          "stops": [
+            {
+              "name": "City Hall and St. Stephen's Square",
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Handschuhe für die Fahrt.",
+                "hu": "Viseljen szélálló kesztyűt a tekeréshez.",
+                "ro": "Purtați mănuși rezistente la vânt pentru drum.",
+                "en": "Wear windproof gloves for the ride."
+              }
+            },
+            {
+              "name": "Great Lutheran Church",
+              "tip_5lang": {
+                "de": "Kurzer Stopp, um die Kälte im monumentalen Raum zu spüren.",
+                "hu": "Rövid megálló, érezze a monumentális tér hűvösét.",
+                "ro": "Popas scurt pentru a simți răcoarea spațiului monumental.",
+                "en": "Short stop to feel the coolness of the monumental space."
+              }
+            },
+            {
+              "name": "Jókai Theatre",
+              "tip_5lang": {
+                "de": "Die Fassade glänzt im klaren Winterlicht.",
+                "hu": "A homlokzat ragyog a tiszta téli fényben.",
+                "ro": "Fațada strălucește în lumina clară de iarnă.",
+                "en": "The facade shines in the clear winter light."
+              }
+            },
+            {
+              "name": "Mihály Munkácsy Museum",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich hier mindestens eine Stunde lang auf.",
+                "hu": "Melegedjen fel itt legalább egy órán keresztül.",
+                "ro": "Încălziți-vă aici timp de cel puțin o oră.",
+                "en": "Warm up here for at least an hour."
+              }
+            },
+            {
+              "name": "Munkácsy Memorial House",
+              "tip_5lang": {
+                "de": "Der Garten wirkt im Winterschlaf besonders friedlich.",
+                "hu": "A kert téli álmot aludva különösen békés.",
+                "ro": "Grădina este deosebit de liniștită în somnul de iarnă.",
+                "en": "The garden is especially peaceful in its winter sleep."
+              }
+            },
+            {
+              "name": "István Mill",
+              "tip_5lang": {
+                "de": "Vorsicht vor Eisflächen auf den weniger befahrenen Wegen.",
+                "hu": "Vigyázzon a jeges foltokra a kevésbé járt utakon.",
+                "ro": "Atenție la gheață pe drumurile mai puțin circulate.",
+                "en": "Watch out for icy patches on less-traveled paths."
+              }
+            },
+            {
+              "name": "Árpád Thermal and Lido Baths",
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um die Tour bei Kälte zu beenden.",
+                "hu": "Tökéletes hely a túra zárására hideg időben.",
+                "ro": "Locul perfect pentru a încheia turul pe vreme rece.",
+                "en": "Perfect place to end the tour in cold weather."
+              }
+            },
+            {
+              "name": "Stroll along the Élővíz Canal",
+              "tip_5lang": {
+                "de": "Das Ufer ist bei Sonnenuntergang (16:30) sehr malerisch.",
+                "hu": "A partlemente 16:30 körül nagyon festői.",
+                "ro": "Malul este foarte pitoresc la apus (16:30).",
+                "en": "The bank is very picturesque at sunset (16:30)."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schichten Sie Kleidung nach dem Zwiebelprinzip.",
+              "Achten Sie auf Glatteis an den schattigen Stellen am Kanal.",
+              "Die Wintersonne steht tief, eine Sonnenbrille hilft beim Fahren.",
+              "Beleuchtung ist ab 16 Uhr für die Sicherheit unerlässlich.",
+              "Ein heißes Getränk im Zentrum ist ein Muss nach der Tour."
+            ],
+            "hu": [
+              "Öltözzön rétegesen a hagymaelv szerint.",
+              "Ügyeljen a jegesedésre a csatornaparti árnyékos részeken.",
+              "A téli nap alacsonyan jár, a napszemüveg segíthet a vezetésben.",
+              "A világítás 16 órától már elengedhetetlen a biztonsághoz.",
+              "Egy forró ital a központban kötelező a túra után."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi conform principiului cepei.",
+              "Atenție la gheață în zonele umbrite de pe malul canalului.",
+              "Soarele de iarnă este jos, ochelarii de soare ajută la condus.",
+              "Iluminarea este esențială pentru siguranță după ora 16.",
+              "O băutură fierbinte în centru este obligatorie după tură."
+            ],
+            "en": [
+              "Dress in layers according to the onion principle.",
+              "Watch out for ice in shaded areas along the canal.",
+              "The winter sun is low; sunglasses can help with visibility.",
+              "Bike lights are essential for safety from 4 PM onwards.",
+              "A hot drink in the center is a must after the tour."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1134,6 +1568,196 @@
           "Use the car to bridge larger distances between clusters, but enjoy the walks within the zones.",
           "The Árpád Baths have a large parking lot, making it an easy afternoon destination."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Im Auto lässt sich Békéscsaba auch bei starkem Regen komfortabel erkunden. Wir parken direkt im Munkácsy-Viertel, um trockenen Fußes in die Ausstellungen zu gelangen. Mittags führt die Fahrt zum Stadtzentrum, wo wir die Kirchen besichtigen. Den Nachmittag verbringen wir entspannt im Árpád-Bad, während draußen der Regen fällt.",
+            "hu": "Autóval Békéscsaba még szakadó esőben is kényelmesen bejárható. Közvetlenül a Munkácsy-negyedben parkolunk, hogy száraz lábbal jussunk az előadásokra. Délben a belvárosba autózunk a templomok megtekintésére. A délutánt az Árpád fürdőben töltjük, miközben odakint esik az eső.",
+            "ro": "Cu mașina, Békéscsaba poate fi explorată confortabil chiar și pe ploaie torențială. Parcăm direct în cartierul Munkácsy pentru a ajunge uscați la expoziții. La prânz conducem spre centru pentru a vizita bisericile. După-amiaza o petrecem relaxându-ne la Băile Árpád, în timp ce afară plouă.",
+            "en": "By car, Békéscsaba can be explored comfortably even in heavy rain. We park directly in the Munkácsy Quarter to reach the exhibitions dry-shod. At noon, we drive to the city center to visit the churches. The afternoon is spent relaxing at Árpád Baths while the rain falls outside."
+          },
+          "stops": [
+            {
+              "name": "Parking at Munkácsy Quarter",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz direkt hinter dem Gedenkhaus.",
+                "hu": "Használja az emlékház mögötti közvetlen parkolót.",
+                "ro": "Folosiți parcarea direct din spatele casei memoriale.",
+                "en": "Use the parking lot directly behind the memorial house."
+              }
+            },
+            {
+              "name": "Munkácsy Memorial House",
+              "tip_5lang": {
+                "de": "Nur wenige Schritte vom Auto bis zum überdachten Eingang.",
+                "hu": "Csak pár lépés az autótól a fedett bejáratig.",
+                "ro": "Doar câțiva pași de la mașină până la intrarea acoperită.",
+                "en": "Only a few steps from the car to the covered entrance."
+              }
+            },
+            {
+              "name": "István Mill",
+              "tip_5lang": {
+                "de": "Gut vom Autofenster aus für Fotos zu sehen.",
+                "hu": "Az autó ablakából is jól fotózható az épület.",
+                "ro": "Clădirea poate fi fotografiată bine din geamul mașinii.",
+                "en": "The building is easily photographed from the car window."
+              }
+            },
+            {
+              "name": "City Center Parking",
+              "tip_5lang": {
+                "de": "Überdachte Parkmöglichkeiten im nahen Einkaufszentrum.",
+                "hu": "Fedett parkolási lehetőség a közeli bevásárlóközpontban.",
+                "ro": "Posibilitate de parcare acoperită în centrul comercial din apropiere.",
+                "en": "Covered parking is available in the nearby shopping mall."
+              }
+            },
+            {
+              "name": "Great Lutheran Church and City Hall",
+              "tip_5lang": {
+                "de": "Ein Regenschirm für den kurzen Fußweg ist ratsam.",
+                "hu": "Esernyő ajánlott a rövid gyalogúthoz.",
+                "ro": "Se recomandă umbrela pentru scurta plimbare pe jos.",
+                "en": "An umbrella is recommended for the short walk."
+              }
+            },
+            {
+              "name": "Árpád Thermal and Lido Baths",
+              "tip_5lang": {
+                "de": "Großer Parkplatz direkt vor dem Haupteingang.",
+                "hu": "Nagy parkoló közvetlenül a főbejárat előtt.",
+                "ro": "Parcare mare direct în fața intrării principale.",
+                "en": "Large parking lot right in front of the main entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie die Scheibenwischer vor der Fahrt.",
+              "Zentrales Parken ermöglicht kurze Wege im Regen.",
+              "Die Sicht kann bei starkem Regen auf den Landstraßen eingeschränkt sein.",
+              "Nutzen Sie die Park-App für bequemes Bezahlen im Trockenen.",
+              "Lassen Sie nasse Schirme im Kofferraum."
+            ],
+            "hu": [
+              "Ellenőrizze az ablaktörlőket indulás előtt.",
+              "A központi parkolás rövid utat tesz lehetővé az esőben.",
+              "A látási viszonyok korlátozottak lehetnek nagy esőben.",
+              "Használja a parkolóalkalmazást a kényelmes fizetéshez.",
+              "A vizes esernyőket tartsa a csomagtartóban."
+            ],
+            "ro": [
+              "Verificați ștergătoarele înainte de plecare.",
+              "Parcarea centrală permite deplasări scurte prin ploaie.",
+              "Vizibilitatea poate fi redusă pe ploaie torențială.",
+              "Folosiți aplicația de parcare pentru plată confortabilă.",
+              "Țineți umbrelele ude în portbagaj."
+            ],
+            "en": [
+              "Check your windshield wipers before starting.",
+              "Central parking allows for short walks in the rain.",
+              "Visibility can be limited during heavy downpours.",
+              "Use a parking app for convenient payment from inside the car.",
+              "Keep wet umbrellas in the trunk."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintertag im Auto schützt vor dem beißenden Wind in der ungarischen Tiefebene. Wir starten im Munkácsy-Viertel, wo die Heizung im Gedenkhaus willkommen ist. Mittags erkunden wir das Zentrum und wärmen uns in der Kirche auf. Der Abend im Árpád-Bad ist der perfekte Abschluss, bevor wir im warmen Auto die Heimreise antreten.",
+            "hu": "A téli autós nap megvéd az alföldi metsző széltől. A Munkácsy-negyedben kezdünk, ahol az emlékház fűtése hívogató. Napközben a belvárost járjuk be, a templom melegében pihenve. Az este az Árpád fürdőben a legtökéletesebb zárás, mielőtt a fűtött autóval hazaindulnánk.",
+            "ro": "O zi de iarnă cu mașina vă protejează de vântul tăios de câmpie. Începem în cartierul Munkácsy, unde căldura casei memoriale este binevenită. În timpul zilei explorăm centrul, odihnindu-ne la căldură în biserică. Seara la Băile Árpád este încheierea perfectă înainte de drumul spre casă.",
+            "en": "A winter day by car protects you from the biting lowland wind. We start in the Munkácsy Quarter, where the memorial house's heating is welcome. During the day, we explore the center, resting in the warmth of the church. Evening at Árpád Baths is the perfect conclusion before heading home in a warm car."
+          },
+          "stops": [
+            {
+              "name": "Parking at Munkácsy Quarter",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf dem Parkplatz.",
+                "hu": "Vigyázzon a jegesedésre a parkolóban.",
+                "ro": "Atenție la gheață în parcare.",
+                "en": "Watch out for icy patches in the parking lot."
+              }
+            },
+            {
+              "name": "Munkácsy Memorial House",
+              "tip_5lang": {
+                "de": "Ein gemütlicher Stopp im Warmen.",
+                "hu": "Hangulatos és meleg megálló.",
+                "ro": "Un popas primitor și cald.",
+                "en": "A cozy and warm stop."
+              }
+            },
+            {
+              "name": "István Mill",
+              "tip_5lang": {
+                "de": "Die Ziegelwände sehen bei Wintersonne toll aus.",
+                "hu": "A téglafalak remekül mutatnak a téli napsütésben.",
+                "ro": "Zidurile de cărămidă arată grozav în soarele de iarnă.",
+                "en": "The brick walls look great in the winter sun."
+              }
+            },
+            {
+              "name": "City Center Parking",
+              "tip_5lang": {
+                "de": "Parkplätze im Winter oft schnell geräumt.",
+                "hu": "A parkolókat télen általában gyorsan letakarítják.",
+                "ro": "Parcările sunt de obicei curățate rapid iarna.",
+                "en": "Parking lots are usually cleared quickly in winter."
+              }
+            },
+            {
+              "name": "Great Lutheran Church and City Hall",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe auf dem winterlichen Platz.",
+                "hu": "Élvezze a téli tér nyugalmát.",
+                "ro": "Bucurați-vă de liniștea pieței de iarnă.",
+                "en": "Enjoy the tranquility of the winter square."
+              }
+            },
+            {
+              "name": "Árpád Thermal and Lido Baths",
+              "tip_5lang": {
+                "de": "Nach dem Bad ist die Autoheizung eine Wohltat.",
+                "hu": "A fürdőzés után az autófűtés igazi áldás.",
+                "ro": "După baie, încălzirea mașinii este o binecuvântare.",
+                "en": "After the bath, the car heater is a true blessing."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Frostschutzmittel im Wischwasser ist.",
+              "Winterreifen sind bei Frost unerlässlich.",
+              "Die Batterie kann bei Kälte schwächeln, prüfen Sie diese vorher.",
+              "Parken Sie nach Möglichkeit in der Sonne zum Aufwärmen.",
+              "Eiskratzer und Schneebesen im Auto bereitstellen."
+            ],
+            "hu": [
+              "Győződjön meg róla, hogy van fagyálló a szélvédőmosóban.",
+              "A téli gumi fagy idején elengedhetetlen.",
+              "Az akkumulátor gyengélkedhet hidegben, ellenőrizze.",
+              "Ha lehet, parkoljon napos helyen a felmelegedéshez.",
+              "Jégkaparó és hókefe legyen az autóban."
+            ],
+            "ro": [
+              "Asigurați-vă că aveți antigel în lichidul de parbriz.",
+              "Anvelopele de iarnă sunt esențiale pe timp de îngheț.",
+              "Bateria poate slăbi la frig, verificați-o înainte.",
+              "Dacă este posibil, parcați la soare pentru încălzire.",
+              "Răzuitoarea de gheață și peria de zăpadă să fie în mașină."
+            ],
+            "en": [
+              "Ensure you have anti-freeze in your washer fluid.",
+              "Winter tires are essential during freezing temperatures.",
+              "The battery may weaken in the cold; check it beforehand.",
+              "Park in the sun if possible to help warm the car interior.",
+              "Keep an ice scraper and snow brush ready in the car."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1486,6 +2110,196 @@
           "Check bus schedules in advance to minimize waiting times.",
           "The cluster-walking method works well as many central attractions are close together."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus erreichen wir bequem das Zentrum von Békéscsaba. Der Vormittag am Hauptplatz bietet Schutz in den Kirchen, bevor es zum Munkácsy-Museum geht. Mittags nutzen wir die kurzen Busverbindungen zwischen den Kulturstätten. Der Nachmittag im Árpád-Bad ist die perfekte Flucht vor dem Regen, gefolgt von einem Abendessen am Kanal.",
+            "hu": "Busszal kényelmesen érjük el Békéscsaba központját. A délelőtt a főtéren és a templomok védelmében telik, mielőtt a Munkácsy Múzeumba érnénk. Napközben a rövid buszjáratokat használjuk a kulturális helyszínek között. A délután az Árpád fürdőben tökéletes menekülés az eső elől, amit egy vacsora zár a csatornánál.",
+            "ro": "Cu autobuzul ajungem confortabil în centrul orașului Békéscsaba. Dimineața în piață oferă adăpost în biserici înainte de a merge la Muzeul Munkácsy. Folosim conexiunile scurte de autobuz între obiectivele culturale. După-amiaza la Băile Árpád este evadarea perfectă de ploaie, urmată de o cină pe malul canalului.",
+            "en": "By bus, we conveniently reach the center of Békéscsaba. The morning is spent at the main square and sheltered in churches before heading to the Munkácsy Museum. During the day, we use short bus connections between cultural sites. The afternoon at Árpád Baths is the perfect escape from the rain, followed by dinner by the canal."
+          },
+          "stops": [
+            {
+              "name": "Arrival at City Center (St. Stephen's Square)",
+              "tip_5lang": {
+                "de": "Die Bushaltestellen im Zentrum sind meist überdacht.",
+                "hu": "A központi buszmegállók többnyire fedettek.",
+                "ro": "Stațiile de autobuz centrale sunt în mare parte acoperite.",
+                "en": "Most central bus stops are covered."
+              }
+            },
+            {
+              "name": "City Hall and Great Lutheran Church",
+              "tip_5lang": {
+                "de": "Kurzer Weg von der Haltestelle zum Kircheneingang.",
+                "hu": "Rövid séta a megállótól a templom bejáratáig.",
+                "ro": "Drum scurt de la stație până la intrarea în biserică.",
+                "en": "Short walk from the stop to the church entrance."
+              }
+            },
+            {
+              "name": "Jókai Theatre and Munkácsy Museum",
+              "tip_5lang": {
+                "de": "Warten Sie unter dem Vordach des Museums auf den Bus.",
+                "hu": "Várja a buszt a múzeum előtetője alatt.",
+                "ro": "Așteptați autobuzul sub copertina muzeului.",
+                "en": "Wait for the bus under the museum's overhang."
+              }
+            },
+            {
+              "name": "Munkácsy Memorial House",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist fast direkt vor der Tür.",
+                "hu": "A megálló szinte közvetlenül az ajtó előtt van.",
+                "ro": "Stația este aproape direct în fața ușii.",
+                "en": "The stop is almost directly in front of the door."
+              }
+            },
+            {
+              "name": "Árpád Thermal and Lido Baths",
+              "tip_5lang": {
+                "de": "Direkte Busverbindung zurück ins Stadtzentrum.",
+                "hu": "Közvetlen buszjárat vissza a városközpontba.",
+                "ro": "Legătură directă cu autobuzul înapoi în centru.",
+                "en": "Direct bus connection back to the city center."
+              }
+            },
+            {
+              "name": "Dinner near Élővíz Canal",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den Kanal im Trockenen.",
+                "hu": "Élvezze a csatornára nyíló kilátást a szárazban.",
+                "ro": "Bucurați-vă de vederea spre canal la adăpost.",
+                "en": "Enjoy the canal view while staying dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die App für Echtzeit-Abfahrten bei Regen.",
+              "Die Busse sind trocken und gut klimatisiert.",
+              "Ein Tagesticket lohnt sich bei mehreren kurzen Fahrten.",
+              "Halten Sie den Schirm beim Einsteigen griffbereit.",
+              "Die wichtigsten Linien halten direkt an den Museen."
+            ],
+            "hu": [
+              "Használja az alkalmazást a valós idejű menetrendhez.",
+              "A buszok szárazak és jól klimatizáltak.",
+              "A napijegy megéri több rövid utazás esetén.",
+              "Tartsa az esernyőt készenlétben felszálláskor.",
+              "A legfontosabb járatok közvetlenül a múzeumoknál állnak meg."
+            ],
+            "ro": [
+              "Folosiți aplicația pentru orarul în timp real pe ploaie.",
+              "Autobuzele sunt uscate și bine climatizate.",
+              "Abonamentul de o zi merită pentru mai multe călătorii scurte.",
+              "Țineți umbrela la îndemână când urcați în autobuz.",
+              "Cele mai importante linii opresc direct la muzee."
+            ],
+            "en": [
+              "Use the app for real-time departures during rain.",
+              "Buses are dry and well-climatized.",
+              "A day ticket is worth it for multiple short trips.",
+              "Keep your umbrella handy when boarding the bus.",
+              "Key bus lines stop directly at the museums."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Bus bietet im Winter eine warme Verbindung zwischen den Sehenswürdigkeiten von Békéscsaba. Wir starten am frostigen Hauptplatz und nutzen den Nahverkehr, um schnell ins Munkácsy-Museum zu gelangen. Mittags wärmen wir uns bei der Fahrt zum Gedenkhaus auf. Der Tag endet im heißen Wasser des Árpád-Bades und mit einem warmen Abendessen am winterlichen Kanal.",
+            "hu": "A busz télen meleg összeköttetést biztosít Békéscsaba látnivalói között. A zúzmarás főtéren kezdünk, majd a helyi járatokkal gyorsan a Munkácsy Múzeumba érünk. Napközben a buszon melegedünk fel az emlékház felé tartva. A napot az Árpád fürdő forró vize és egy meleg vacsora zárja a téli csatorna partján.",
+            "ro": "Autobuzul oferă o legătură caldă între atracțiile din Békéscsaba pe timp de iarnă. Începem în piața înghețată, apoi folosim liniile locale pentru a ajunge rapid la Muzeul Munkácsy. În timpul zilei ne încălzim în autobuz spre casa memorială. Ziua se încheie cu apa fierbinte de la Băile Árpád și o cină caldă pe malul canalului.",
+            "en": "In winter, the bus provides a warm link between Békéscsaba's attractions. We start at the frosty main square and use local lines to quickly reach the Munkácsy Museum. During the day, we warm up on the bus to the memorial house. The day concludes with the hot water of Árpád Baths and a warm dinner by the winter canal."
+          },
+          "stops": [
+            {
+              "name": "Arrival at City Center (St. Stephen's Square)",
+              "tip_5lang": {
+                "de": "Das Warten im Freien ist bei Frost kurz zu halten.",
+                "hu": "A kinti várakozást fagyban érdemes rövidre fogni.",
+                "ro": "Așteptarea afară în ger trebuie limitată.",
+                "en": "Keep outdoor waiting time short during frost."
+              }
+            },
+            {
+              "name": "City Hall and Great Lutheran Church",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Wärme der Busse zum Aufwärmen.",
+                "hu": "Használja ki a buszok melegét a felmelegedésre.",
+                "ro": "Folosiți căldura autobuzelor pentru a vă încălzi.",
+                "en": "Take advantage of the warm buses to heat up."
+              }
+            },
+            {
+              "name": "Jókai Theatre and Munkácsy Museum",
+              "tip_5lang": {
+                "de": "Beachten Sie die Winterfahrpläne der lokalen Linien.",
+                "hu": "Ügyeljen a helyi járatok téli menetrendjére.",
+                "ro": "Atenție la orarul de iarnă al liniilor locale.",
+                "en": "Pay attention to the winter schedules of local lines."
+              }
+            },
+            {
+              "name": "Munkácsy Memorial House",
+              "tip_5lang": {
+                "de": "Heißer Kakao im Café in der Nähe der Haltestelle.",
+                "hu": "Forró csoki a megálló közeli kávézóban.",
+                "ro": "Ciocolată caldă la cafeneaua de lângă stație.",
+                "en": "Hot chocolate at the cafe near the stop."
+              }
+            },
+            {
+              "name": "Árpád Thermal and Lido Baths",
+              "tip_5lang": {
+                "de": "Warme Kleidung nach dem Bad ist besonders wichtig.",
+                "hu": "Fürdés után különösen fontos a meleg ruházat.",
+                "ro": "După baie, îmbrăcămintea groasă este foarte importantă.",
+                "en": "Warm clothing is especially important after the bath."
+              }
+            },
+            {
+              "name": "Dinner near Élővíz Canal",
+              "tip_5lang": {
+                "de": "Der beleuchtete Kanal ist im Winter sehr stimmungsvoll.",
+                "hu": "A kivilágított csatorna télen nagyon hangulatos.",
+                "ro": "Canalul iluminat este foarte atmosferic iarna.",
+                "en": "The illuminated canal is very atmospheric in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Abfahrtszeiten online, um langes Warten in der Kälte zu vermeiden.",
+              "Die Busse sind im Winter meist gut beheizt.",
+              "Tragen Sie rutschfeste Schuhe für den Weg zur Haltestelle.",
+              "Abends (ab 17 Uhr) fahren Busse seltener, Fahrplan prüfen.",
+              "Ein heißer Tee in der Thermoskanne ist ein guter Begleiter."
+            ],
+            "hu": [
+              "Ellenőrizze online az indulást, hogy elkerülje a hidegben várakozást.",
+              "A buszok télen általában jól fűtöttek.",
+              "Viseljen csúszásmentes cipőt a megállóhoz vezető úton.",
+              "Este (17 óra után) a buszok ritkábban járnak, nézze meg a menetrendet.",
+              "Egy forró tea a termoszból jó társ lehet útközben."
+            ],
+            "ro": [
+              "Verificați orarul online pentru a evita așteptarea în frig.",
+              "Autobuzele sunt de obicei bine încălzite iarna.",
+              "Purtați încălțăminte antiderapantă spre stație.",
+              "Seara (după ora 17) autobuzele circulă mai rar, verificați orarul.",
+              "Un ceai fierbinte în termos este un bun partener de drum."
+            ],
+            "en": [
+              "Check departure times online to avoid long waits in the cold.",
+              "Buses are usually well-heated in winter.",
+              "Wear non-slip shoes for the walk to the bus stop.",
+              "Buses run less frequently in the evening (after 5 PM); check the schedule.",
+              "A hot tea in a thermos is a great companion on the way."
+            ]
+          }
+        }
       }
     }
   }

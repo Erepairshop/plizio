@@ -418,6 +418,224 @@
           "A CityCard Gent can be worthwhile if you plan to visit many museums and attractions.",
           "Don't forget your camera – Ghent is incredibly photogenic!"
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Vormittag an der St.-Michael-Brücke zeigt Gent in melancholischem Grau, während Regentropfen in den Kanälen tanzen. Mittags bieten die monumentalen Kirchen und die Kathedrale prachtvollen Schutz vor dem Wetter. Am Nachmittag erkunden wir die wetterfesten Kammern der Burg Gravensteen. Der Abend endet warm und trocken in einer der urigen Kneipen im verwinkelten Patershol-Viertel.",
+            "hu": "A délelőtt a Szent Mihály-hídon az esőben csillogó várost mutatja, miközben a csatornák vize fodrozódik a záporban. Délben a monumentális templomok és a katedrális belső terei nyújtanak pazar menedéket a vizes utcák elől. Délután a Gravensteen vár vastag falai között bújunk el az időjárás elől. Az este Patershol egyik barátságos sörözőjében, melegben és szárazon ér véget.",
+            "ro": "Dimineața pe Podul Sf. Mihail dezvăluie un Ghent melancolic, cu picături de ploaie dansând pe canalele orașului. La prânz, bisericile monumentale și catedrala oferă un adăpost somptuos în fața vremii instabile. După-amiaza explorăm camerele protejate ale castelului Gravensteen. Seara se încheie la căldură, într-unul dintre pub-urile primitoare din cartierul istoric Patershol.",
+            "en": "Morning at St. Michael's Bridge shows Ghent in a moody grey, with raindrops dancing on the canal surfaces. At noon, the monumental churches and the cathedral offer a grand shelter from the wet streets. In the afternoon, we explore the weather-proof chambers of Gravensteen Castle. The evening ends warmly and dry in one of the cozy pubs in the winding Patershol district."
+          },
+          "stops": [
+            {
+              "name": "St. Michael's Bridge",
+              "tip_5lang": {
+                "de": "Vorsicht, das Pflaster ist bei Nässe rutschig.",
+                "hu": "Vigyázat, a nedves macskakő csúszós lehet.",
+                "ro": "Atenție, pavajul umed poate fi alunecos.",
+                "en": "Be careful, the wet cobblestones can be slippery."
+              }
+            },
+            {
+              "name": "Graslei and Korenlei",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den Markisen der Cafés.",
+                "hu": "Keressen menedéket a kávézók napellenzői alatt.",
+                "ro": "Căutați adăpost sub copertinele cafenelelor.",
+                "en": "Find shelter under the awnings of the riverside cafes."
+              }
+            },
+            {
+              "name": "St. Nicholas' Church",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um einen Regenschauer abzuwarten.",
+                "hu": "Tökéletes hely egy hirtelen zápor kivárására.",
+                "ro": "Locul perfect pentru a aștepta trecerea unei ploi.",
+                "en": "Perfect place to wait out a sudden rain shower."
+              }
+            },
+            {
+              "name": "Belfry of Ghent",
+              "tip_5lang": {
+                "de": "Der Aufstieg ist komplett überdacht und trocken.",
+                "hu": "A toronyba vezető út teljesen fedett és száraz.",
+                "ro": "Urcarea în turn este complet acoperită și uscată.",
+                "en": "The climb up the tower is fully covered and dry."
+              }
+            },
+            {
+              "name": "St. Bavo's Cathedral",
+              "tip_5lang": {
+                "de": "Bewundern Sie das Altarbild im trockenen Inneren.",
+                "hu": "Csodálja meg az oltárképet a száraz belső térben.",
+                "ro": "Admirați altarul în interiorul uscat și liniștit.",
+                "en": "Admire the altarpiece in the dry and quiet interior."
+              }
+            },
+            {
+              "name": "Gravensteen (Castle of the Counts)",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Innenräume für längere Pausen.",
+                "hu": "Használja a belső termeket hosszabb pihenőkre.",
+                "ro": "Folosiți încăperile interioare pentru pauze lungi.",
+                "en": "Utilize the interior rooms for longer breaks."
+              }
+            },
+            {
+              "name": "Patershol District",
+              "tip_5lang": {
+                "de": "Enge Gassen bieten etwas Schutz vor dem Wind.",
+                "hu": "A szűk utcák némi szélvédelmet nyújtanak.",
+                "ro": "Străzile înguste oferă o oarecare protecție contra vântului.",
+                "en": "Narrow streets offer some protection from the wind."
+              }
+            },
+            {
+              "name": "Vrijdagmarkt (Friday Market)",
+              "tip_5lang": {
+                "de": "Die umliegenden Passagen bieten trockene Wege.",
+                "hu": "A környező árkádok száraz útvonalat biztosítanak.",
+                "ro": "Arcadele din jur oferă trasee uscate.",
+                "en": "The surrounding arcades provide dry walkways."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für das Kopfsteinpflaster.",
+              "Die Museen sind montags oft geschlossen, prüfen Sie das Wetter.",
+              "Ein Regenschirm mit starkem Rahmen hilft gegen Windböen an den Kanälen.",
+              "Nutzen Sie die Kirchen als kostenlose und beeindruckende Regenzuflucht."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a macskaköves utcákhoz.",
+              "A múzeumok hétfőn zárva vannak, tervezze ehhez az esős napot.",
+              "Egy erős vázú esernyő hasznos a csatornák menti szélben.",
+              "Használja a templomokat ingyenes és lenyűgöző esőóvóhelyként."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru străzile pietruite.",
+              "Muzeele sunt adesea închise lunea; verificați prognoza din timp.",
+              "O umbrelă cu cadru rezistent ajută împotriva vântului de pe canale.",
+              "Folosiți bisericile ca refugii gratuite și impresionante contra ploii."
+            ],
+            "en": [
+              "Wear waterproof shoes for the cobblestone streets.",
+              "Museums are often closed on Mondays; plan your rainy day accordingly.",
+              "A sturdy umbrella is useful against wind gusts along the canals.",
+              "Use the churches as free and impressive rain shelters."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen an den Kanälen Gents, wo der Nebel mystisch über dem Wasser liegt. Mittags wärmen wir uns in den geschichtsträchtigen Kathedralen auf. Am Nachmittag tauchen die frühen Schatten der Dämmerung die Burg Gravensteen in ein märchenhaftes Licht. Der Abend wird auf dem Vrijdagmarkt bei heißer Schokolade und winterlicher Beleuchtung gemütlich.",
+            "hu": "Deres reggel a genti csatornák partján, ahol a köd misztikusan gomolyog a víz felett. Délben a történelmi katedrálisok falai között melegszünk fel. Délután a korai szürkület fényei mesebeli hangulatba öltöztetik a Gravensteen várat. Az este a Vrijdagmarkt téren ér véget forró csokoládéval és ünnepi fényekkel.",
+            "ro": "O dimineață geroasă pe malul canalelor din Ghent, unde ceața plutește mistic peste apă. La prânz, ne încălzim între zidurile catedralelor pline de istorie. După-amiaza, umbrele timpurii ale amurgului îmbracă castelul Gravensteen într-o lumină de basm. Seara devine primitoare în Vrijdagmarkt, cu ciocolată caldă și lumini de iarnă.",
+            "en": "A frosty morning along Ghent's canals, where mist hangs mystically over the water. At noon, we warm up within the walls of the historic cathedrals. In the afternoon, the early twilight shadows cast a fairy-tale light over Gravensteen Castle. The evening turns cozy at Vrijdagmarkt with hot chocolate and festive winter lights."
+          },
+          "stops": [
+            {
+              "name": "St. Michael's Bridge",
+              "tip_5lang": {
+                "de": "Warme Handschuhe sind bei dem Wind am Wasser Pflicht.",
+                "hu": "A vízi szélben a meleg kesztyű kötelező.",
+                "ro": "Mănușile groase sunt obligatorii din cauza vântului de pe apă.",
+                "en": "Warm gloves are a must with the wind by the water."
+              }
+            },
+            {
+              "name": "Graslei and Korenlei",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick mit einem Becher heißem Kakao.",
+                "hu": "Élvezze a kilátást egy bögre forró kakaóval.",
+                "ro": "Bucurați-vă de priveliște cu o cană de cacao fierbinte.",
+                "en": "Enjoy the view with a mug of hot cocoa."
+              }
+            },
+            {
+              "name": "St. Nicholas' Church",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um den kalten Wind draußen zu lassen.",
+                "hu": "Csendes hely, ahol kint hagyhatja a hideg szelet.",
+                "ro": "Un loc liniștit unde puteți lăsa vântul rece afară.",
+                "en": "A quiet spot to leave the cold wind outside."
+              }
+            },
+            {
+              "name": "Belfry of Ghent",
+              "tip_5lang": {
+                "de": "Oben weht eine steife Brise, ziehen Sie sich warm an.",
+                "hu": "Fent erős szél fúj, öltözzön fel melegen.",
+                "ro": "Sus bate un vânt puternic, îmbrăcați-vă gros.",
+                "en": "A stiff breeze blows at the top; dress warmly."
+              }
+            },
+            {
+              "name": "St. Bavo's Cathedral",
+              "tip_5lang": {
+                "de": "Das Innere ist meist kühler als erwartet.",
+                "hu": "A belső tér általában hűvösebb a vártnál.",
+                "ro": "Interiorul este de obicei mai răcoros decât vă așteptați.",
+                "en": "The interior is usually cooler than expected."
+              }
+            },
+            {
+              "name": "Gravensteen (Castle of the Counts)",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ausstellungen in den beheizten Räumen.",
+                "hu": "Látogassa meg a kiállításokat a fűtött termekben.",
+                "ro": "Vizitați expozițiile în sălile încălzite.",
+                "en": "Visit the exhibitions in the heated rooms."
+              }
+            },
+            {
+              "name": "Patershol District",
+              "tip_5lang": {
+                "de": "Am späten Nachmittag sind die Lichter besonders schön.",
+                "hu": "Késő délután a fények különösen szépek.",
+                "ro": "Seara devreme, luminile sunt deosebit de frumoase.",
+                "en": "In the late afternoon, the lights are especially beautiful."
+              }
+            },
+            {
+              "name": "Vrijdagmarkt (Friday Market)",
+              "tip_5lang": {
+                "de": "Ideal für den Besuch kleiner Wintermärkte.",
+                "hu": "Ideális hely a kis téli vásárok meglátogatásához.",
+                "ro": "Ideal pentru a vizita micile piețe de iarnă.",
+                "en": "Ideal for visiting small winter markets."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Winter bereits gegen 17:00 Uhr unter.",
+              "Viele Cafés bieten beheizte Außenterrassen mit Decken an.",
+              "Tragen Sie Thermokleidung, da die Feuchtigkeit die Kälte verstärkt.",
+              "Die Kathedralen sind perfekte Orte, um sich zwischen den Spaziergängen aufzuwärmen."
+            ],
+            "hu": [
+              "A nap télen már 17:00 körül lemegy.",
+              "Sok kávézó kínál fűtött teraszt és takarókat.",
+              "Viseljen termoruházatot, mert a pára fokozza a hidegérzetet.",
+              "A katedrálisok tökéletesek a séták közötti felmelegedéshez."
+            ],
+            "ro": [
+              "Soarele apune iarna în jurul orei 17:00.",
+              "Multe cafenele oferă terase încălzite și pături.",
+              "Purtați haine termice, deoarece umiditatea accentuează frigul.",
+              "Catedralele sunt locuri perfecte pentru a vă încălzi între plimbări."
+            ],
+            "en": [
+              "The sun sets around 5:00 PM in the winter.",
+              "Many cafes offer heated outdoor terraces and blankets.",
+              "Wear thermal clothing as the humidity amplifies the cold.",
+              "Cathedrals are perfect spots to warm up between walks."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -834,6 +1052,224 @@
           "Use the well-developed cycle paths to get around safely.",
           "Always lock your bike securely, even for short stops."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen ist Gent eine Fahrradstadt: Am Morgen gleiten wir über die nassen Uferwege. Mittags finden wir Schutz in den großen Museen am südlichen Stadtrand. Nachmittags radeln wir zurück ins Zentrum zur Burg. Der Abend klingt in Patershol aus, wo die Fahrräder sicher unter den vordächern geparkt werden.",
+            "hu": "Az eső ellenére Gent kerékpáros város: reggel a vizes vízparti utakon suhanunk. Délben a város déli szélén található nagy múzeumokban keresünk menedéket. Délután visszakerekezünk a központba a várhoz. Az este Patersholban zárul, ahol a bringák biztonságban pihennek az ereszek alatt.",
+            "ro": "În ciuda ploii, Ghent rămâne un oraș al bicicletelor: dimineața alunecăm pe pistele umede de pe malul apei. La prânz, găsim adăpost în marile muzee de la marginea de sud. După-amiaza pedalăm înapoi spre centru, la castel. Seara se încheie în Patershol, unde bicicletele stau la adăpost sub streșini.",
+            "en": "Despite the rain, Ghent is a cycling city: in the morning, we glide along the wet riverside paths. At noon, we find shelter in the large museums on the southern edge of town. In the afternoon, we cycle back to the center to the castle. The evening winds down in Patershol, where bikes are parked safely under the eaves."
+          },
+          "stops": [
+            {
+              "name": "St. Michael's Bridge",
+              "tip_5lang": {
+                "de": "Vermeiden Sie scharfes Bremsen auf dem nassen Pflaster.",
+                "hu": "Kerülje az erős fékezést a vizes macskakövön.",
+                "ro": "Evitați frânarea bruscă pe pavajul umed.",
+                "en": "Avoid sharp braking on the wet cobblestones."
+              }
+            },
+            {
+              "name": "Graslei and Korenlei",
+              "tip_5lang": {
+                "de": "Schieben Sie das Rad in den belebten Fußgängerzonen.",
+                "hu": "Tolja a biciklit a forgalmas gyalogos zónákban.",
+                "ro": "Împingeți bicicleta în zonele pietonale aglomerate.",
+                "en": "Push your bike in the busy pedestrian zones."
+              }
+            },
+            {
+              "name": "Gravensteen (Castle of the Counts)",
+              "tip_5lang": {
+                "de": "Fahrradständer befinden sich direkt vor dem Eingang.",
+                "hu": "A kerékpártárolók közvetlenül a bejárat előtt vannak.",
+                "ro": "Suporturile de biciclete sunt chiar în fața intrării.",
+                "en": "Bike racks are located directly in front of the entrance."
+              }
+            },
+            {
+              "name": "Vrijdagmarkt (Friday Market)",
+              "tip_5lang": {
+                "de": "Vorsicht vor den Straßenbahnschienen bei Nässe.",
+                "hu": "Vigyázzon a villamossínekre esős időben.",
+                "ro": "Atenție la șinele de tramvai pe timp de ploaie.",
+                "en": "Watch out for tram tracks in wet weather."
+              }
+            },
+            {
+              "name": "St. Bavo's Cathedral",
+              "tip_5lang": {
+                "de": "Überdachte Parkplätze sind am nahen Sint-Baafsplein.",
+                "hu": "Fedett parkolók a közeli Sint-Baafspleinen találhatók.",
+                "ro": "Parcări acoperite se află în apropiere, în Sint-Baafsplein.",
+                "en": "Covered parking is available at nearby Sint-Baafsplein."
+              }
+            },
+            {
+              "name": "MSK (Museum of Fine Arts)",
+              "tip_5lang": {
+                "de": "Gute Gelegenheit, um die Regenkleidung zu trocknen.",
+                "hu": "Jó alkalom az esőruházat megszárítására.",
+                "ro": "O oportunitate bună pentru a vă usca hainele de ploaie.",
+                "en": "A good opportunity to dry your rain gear."
+              }
+            },
+            {
+              "name": "SMAK (Municipal Museum of Contemporary Art)",
+              "tip_5lang": {
+                "de": "Die Cafeteria ist ein idealer Rückzugsort.",
+                "hu": "A kávézó ideális hely a pihenésre.",
+                "ro": "Cafeneaua este un loc ideal de retragere.",
+                "en": "The cafeteria is an ideal place to retreat."
+              }
+            },
+            {
+              "name": "Patershol District",
+              "tip_5lang": {
+                "de": "Fahren Sie langsam durch die schmalen, nassen Gassen.",
+                "hu": "Hajtson lassan a szűk, vizes utcákon.",
+                "ro": "Mergeți încet pe străzile înguste și umede.",
+                "en": "Ride slowly through the narrow, wet alleys."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie einen wasserfesten Sattelbezug.",
+              "Straßenbahnschienen sind die größte Gefahr für Radfahrer bei Regen.",
+              "Ein Regenponcho ist praktischer als eine normale Jacke.",
+              "Die Fahrradparkhäuser im Zentrum bieten trockene Abstellplätze."
+            ],
+            "hu": [
+              "Használjon vízálló nyeregvédőt.",
+              "A villamossínek jelentik a legnagyobb veszélyt esőben.",
+              "Az esőponcsó praktikusabb, mint egy sima kabát.",
+              "A belvárosi kerékpárgarázsok száraz tárolást biztosítanak."
+            ],
+            "ro": [
+              "Folosiți o protecție impermeabilă pentru șa.",
+              "Șinele de tramvai sunt cel mai mare pericol pentru bicicliști pe ploaie.",
+              "Un pelerină de ploaie este mai practică decât o jachetă obișnuită.",
+              "Parcările de biciclete din centru oferă locuri de depozitare uscate."
+            ],
+            "en": [
+              "Use a waterproof saddle cover.",
+              "Tram tracks are the biggest hazard for cyclists in the rain.",
+              "A rain poncho is more practical than a regular jacket.",
+              "City center bike parkades offer dry storage spaces."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radeln entlang der Leie offenbart Gent von seiner stillsten Seite. Mittags erreichen wir die großen Museen im Citadelpark für eine kulturelle Aufwärmpause. Am Nachmittag geht es zurück durch die festlich beleuchtete Altstadt. Der Abend endet im stimmungsvollen Patershol, wo die Kälte vor der Tür bleibt.",
+            "hu": "Téli kerekezés a Leie mentén, ahol Gent a legcsendesebb arcát mutatja. Délben a Citadelpark nagy múzeumaiba érkezünk egy kulturális melegedőre. Délután az ünnepi fényekben úszó óvároson át tekerünk vissza. Az este a hangulatos Patersholban zárul, ahol a hideg a küszöbön kívül marad.",
+            "ro": "Pedalatul de iarnă de-a lungul râului Leie dezvăluie cea mai liniștită latură a orașului. La prânz ajungem la marile muzee din Citadelpark pentru o pauză culturală la căldură. După-amiaza revenim prin centrul vechi iluminat festiv. Seara se încheie în atmosfera din Patershol, unde frigul rămâne la ușă.",
+            "en": "Winter cycling along the Leie reveals Ghent's quietest side. At noon, we reach the grand museums in Citadelpark for a cultural warming break. In the afternoon, we head back through the festively lit old town. The evening ends in atmospheric Patershol, where the cold stays outside the door."
+          },
+          "stops": [
+            {
+              "name": "St. Michael's Bridge",
+              "tip_5lang": {
+                "de": "Der Wind auf der Brücke kann eisig sein.",
+                "hu": "A hídon fújó szél jéghideg lehet.",
+                "ro": "Vântul de pe pod poate fi înghețat.",
+                "en": "The wind on the bridge can be icy."
+              }
+            },
+            {
+              "name": "Graslei and Korenlei",
+              "tip_5lang": {
+                "de": "Kurzer Stopp für Fotos, dann schnell weiterfahren.",
+                "hu": "Rövid megálló fotózni, aztán gyorsan tovább.",
+                "ro": "Oprire scurtă pentru poze, apoi pedalați mai departe.",
+                "en": "Short stop for photos, then keep moving quickly."
+              }
+            },
+            {
+              "name": "Gravensteen (Castle of the Counts)",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um Kältezeit zu minimieren.",
+                "hu": "Parkoljon közel a bejárathoz a hideg elleni védekezésül.",
+                "ro": "Parcați aproape de intrare pentru a minimiza timpul în frig.",
+                "en": "Park close to the entrance to minimize time in the cold."
+              }
+            },
+            {
+              "name": "Vrijdagmarkt (Friday Market)",
+              "tip_5lang": {
+                "de": "Vorsicht vor eventuellen Glatteisstellen auf dem Markt.",
+                "hu": "Vigyázzon az esetleges jeges foltokra a piacon.",
+                "ro": "Atenție la posibilele porțiuni cu gheață din piață.",
+                "en": "Watch out for potential icy patches on the market square."
+              }
+            },
+            {
+              "name": "St. Bavo's Cathedral",
+              "tip_5lang": {
+                "de": "Schließen Sie das Rad sicher ab, bevor Sie reingehen.",
+                "hu": "Zárja le biztonságosan a biciklit, mielőtt bemegy.",
+                "ro": "Încuiați bine bicicleta înainte de a intra.",
+                "en": "Lock your bike securely before heading inside."
+              }
+            },
+            {
+              "name": "MSK (Museum of Fine Arts)",
+              "tip_5lang": {
+                "de": "Die Garderobe nimmt auch Ihre Winterausrüstung auf.",
+                "hu": "A ruhatár befogadja a téli felszereléseit is.",
+                "ro": "Garderoba primește și echipamentul dumneavoastră de iarnă.",
+                "en": "The cloakroom will also take your winter gear."
+              }
+            },
+            {
+              "name": "SMAK (Municipal Museum of Contemporary Art)",
+              "tip_5lang": {
+                "de": "Gönnen Sie sich eine heiße Suppe im Museumscafé.",
+                "hu": "Kényeztesse magát egy forró levessel a kávézóban.",
+                "ro": "Răsfățați-vă cu o supă caldă la cafeneaua muzeului.",
+                "en": "Treat yourself to a hot soup at the museum cafe."
+              }
+            },
+            {
+              "name": "Patershol District",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem feuchten Kopfsteinpflaster.",
+                "hu": "Vigyázzon a nedves macskakövön.",
+                "ro": "Atenție pe pavajul umed.",
+                "en": "Watch out on the damp cobblestones."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Ihre Fahrradbeleuchtung funktioniert.",
+              "Tragen Sie winddichte Handschuhe beim Fahren.",
+              "Die Wege am Wasser können im Winter glatt sein.",
+              "Nutzen Sie die beheizten Parkhäuser im Zentrum für kurze Stopps."
+            ],
+            "hu": [
+              "Győződjön meg róla, hogy a kerékpár lámpái működnek.",
+              "Viseljen szélálló kesztyűt menet közben.",
+              "A vízparti utak télen csúszósak lehetnek.",
+              "Használja a belvárosi fűtött garázsokat rövid megállókhoz."
+            ],
+            "ro": [
+              "Asigurați-vă că luminile bicicletei funcționează.",
+              "Purtați mănuși rezistente la vânt în timp ce mergeți.",
+              "Drumurile de lângă apă pot fi alunecoase iarna.",
+              "Folosiți parcările încălzite din centru pentru scurte opriri."
+            ],
+            "en": [
+              "Ensure your bike lights are working properly.",
+              "Wear windproof gloves while riding.",
+              "Paths by the water can be slippery in winter.",
+              "Use heated parking garages in the center for short stops."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1229,6 +1665,206 @@
           "Parking garages are well-signposted but can be expensive.",
           "Plan your drives between clusters outside of peak traffic hours."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden wir Gent trocken und bequem: Der Morgen beginnt in der Tiefgarage Vrijdagmarkt. Mittags fahren wir zur Burg und weiter zu den Kanälen. Nachmittags parken wir am Kouter und besuchen die Kathedrale. Der Tag endet im Museumsviertel, wo wir den Regen einfach draußen lassen.",
+            "hu": "Autóval kényelmesen és szárazon fedezzük fel Gentet: a reggel a Vrijdagmarkt mélygarázsában indul. Délben a várhoz, majd a csatornákhoz hajtunk. Délután a Kouter garázsban parkolunk és megnézzük a katedrálist. A nap a múzeumi negyedben zárul, az esőt egyszerűen kint hagyva.",
+            "ro": "Cu mașina explorăm Ghentul confortabil și uscați: dimineața începe în parcarea subterană Vrijdagmarkt. La prânz conducem spre castel și apoi spre canale. După-amiaza parcăm la Kouter și vizităm catedrala. Ziua se încheie în cartierul muzeelor, lăsând ploaia afară.",
+            "en": "By car, we explore Ghent comfortably and dry: the morning starts in the Vrijdagmarkt underground garage. At noon, we drive to the castle and then to the canals. In the afternoon, we park at Kouter and visit the cathedral. The day ends in the museum district, simply leaving the rain outside."
+          },
+          "stops": [
+            {
+              "name": "Vrijdagmarkt Parking Garage",
+              "tip_5lang": {
+                "de": "Direkter, trockener Zugang zum Platz.",
+                "hu": "Közvetlen, száraz kijárat a térre.",
+                "ro": "Acces direct și uscat către piață.",
+                "en": "Direct, dry access to the square."
+              }
+            },
+            {
+              "name": "Vrijdagmarkt (Friday Market)",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Cafés ringsum als Regenschutz.",
+                "hu": "Használja a környékbeli kávézókat esővédőként.",
+                "ro": "Folosiți cafenelele din jur ca protecție contra ploii.",
+                "en": "Use the surrounding cafes for rain protection."
+              }
+            },
+            {
+              "name": "Gravensteen (Castle of the Counts)",
+              "tip_5lang": {
+                "de": "Parkplätze in den Seitenstraßen sind oft belegt.",
+                "hu": "Az oldalsó utcák parkolói gyakran foglaltak.",
+                "ro": "Locurile de parcare de pe străzile laterale sunt adesea ocupate.",
+                "en": "Parking in side streets is often full."
+              }
+            },
+            {
+              "name": "Graslei and Korenlei",
+              "tip_5lang": {
+                "de": "Kurzes Aussteigen für Fotos ist meist schwierig.",
+                "hu": "A rövid kiszállás fotózni általában nehézkes.",
+                "ro": "Coborârea scurtă pentru poze este de obicei dificilă.",
+                "en": "Briefly getting out for photos is usually difficult."
+              }
+            },
+            {
+              "name": "Kouter Parking Garage",
+              "tip_5lang": {
+                "de": "Idealer Startpunkt für das Shopping-Viertel.",
+                "hu": "Ideális kiindulópont a bevásárlónegyedhez.",
+                "ro": "Punct de plecare ideal pentru zona de cumpărături.",
+                "en": "Ideal starting point for the shopping district."
+              }
+            },
+            {
+              "name": "St. Bavo's Cathedral",
+              "tip_5lang": {
+                "de": "Nur 5 Minuten Fußweg von der Tiefgarage Kouter.",
+                "hu": "Csak 5 perc séta a Kouter mélygarázstól.",
+                "ro": "Doar 5 minute de mers pe jos de la parcarea Kouter.",
+                "en": "Only a 5-minute walk from the Kouter garage."
+              }
+            },
+            {
+              "name": "MSK (Museum of Fine Arts)",
+              "tip_5lang": {
+                "de": "Eigener Parkplatz direkt vor dem Museum.",
+                "hu": "Saját parkoló közvetlenül a múzeum előtt.",
+                "ro": "Parcare proprie chiar în fața muzeului.",
+                "en": "Own parking lot right in front of the museum."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie das P-Route Leitsystem der Stadt.",
+              "Die Parkhäuser im Zentrum sind bei Regen sehr gefragt.",
+              "Achten Sie auf die Umweltzone (LEZ) in Gent.",
+              "Verlassen Sie das Auto nur mit Regenschirm für kurze Wege."
+            ],
+            "hu": [
+              "Használja a város P-Route útbaigazító rendszerét.",
+              "A belvárosi garázsok esőben hamar megtelnek.",
+              "Ügyeljen a genti alacsony kibocsátási zónára (LEZ).",
+              "Csak esernyővel szálljon ki az autóból a rövid utakhoz."
+            ],
+            "ro": [
+              "Folosiți sistemul de ghidare P-Route al orașului.",
+              "Parcările din centru sunt foarte solicitate pe ploaie.",
+              "Atenție la zona cu emisii reduse (LEZ) din Ghent.",
+              "Ieșiți din mașină doar cu umbrela pentru trasee scurte."
+            ],
+            "en": [
+              "Use the city's P-Route guidance system.",
+              "Center parking garages are in high demand during rain.",
+              "Pay attention to Ghent's Low Emission Zone (LEZ).",
+              "Only leave the car with an umbrella for short distances."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterlicher Komfort in Gent: Wir starten in der warmen Tiefgarage Vrijdagmarkt. Mittags besuchen wir die Burg und die festlich beleuchteten Kanäle. Am Nachmittag parken wir am Kouter und genießen die Atmosphäre der Kathedrale. Der Abend endet im beheizten Museumsviertel, bevor wir entspannt zurückfahren.",
+            "hu": "Téli kényelem Gentben: a meleg Vrijdagmarkt mélygarázsban kezdünk. Délben meglátogatjuk a várat és az ünnepi fényekben úszó csatornákat. Délután a Kouter garázsban parkolunk és élvezzük a katedrális hangulatát. A nap a fűtött múzeumi negyedben zárul, mielőtt nyugodtan hazaindulnánk.",
+            "ro": "Confort de iarnă în Ghent: începem în parcarea subterană caldă Vrijdagmarkt. La prânz vizităm castelul și canalele iluminate festiv. După-amiaza parcăm la Kouter și savurăm atmosfera catedralei. Ziua se încheie în cartierul muzeelor încălzit, înainte de a pleca relaxați.",
+            "en": "Winter comfort in Ghent: we start in the warm Vrijdagmarkt underground garage. At noon, we visit the castle and the festively lit canals. In the afternoon, we park at Kouter and enjoy the atmosphere of the cathedral. The day ends in the heated museum district before driving back relaxed."
+          },
+          "stops": [
+            {
+              "name": "Vrijdagmarkt Parking Garage",
+              "tip_5lang": {
+                "de": "Die Aufzüge führen direkt ins winterliche Geschehen.",
+                "hu": "A liftek közvetlenül a téli forgatagba visznek.",
+                "ro": "Liftele duc direct în mijlocul evenimentelor de iarnă.",
+                "en": "Elevators lead directly into the winter festivities."
+              }
+            },
+            {
+              "name": "Vrijdagmarkt (Friday Market)",
+              "tip_5lang": {
+                "de": "Besuchen Sie die umliegenden beleuchteten Stände.",
+                "hu": "Látogassa meg a környékbeli kivilágított bódékat.",
+                "ro": "Vizitați standurile iluminate din împrejurimi.",
+                "en": "Visit the surrounding illuminated stalls."
+              }
+            },
+            {
+              "name": "Gravensteen (Castle of the Counts)",
+              "tip_5lang": {
+                "de": "Vorsicht bei Frost auf den steilen Außentreppen.",
+                "hu": "Vigyázzon fagy esetén a meredek külső lépcsőkön.",
+                "ro": "Atenție la gheață pe scările exterioare abrupte.",
+                "en": "Watch out for frost on the steep outdoor stairs."
+              }
+            },
+            {
+              "name": "Graslei and Korenlei",
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor nicht unnötig im Stand laufen.",
+                "hu": "Ne járassa feleslegesen a motort várakozás közben.",
+                "ro": "Nu lăsați motorul pornit inutil în timp ce staționați.",
+                "en": "Do not leave the engine idling unnecessarily."
+              }
+            },
+            {
+              "name": "Kouter Parking Garage",
+              "tip_5lang": {
+                "de": "Sicherer, frostfreier Stellplatz für das Auto.",
+                "hu": "Biztonságos, fagymentes parkolóhely az autónak.",
+                "ro": "Loc de parcare sigur și ferit de îngheț pentru mașină.",
+                "en": "Safe, frost-free parking space for your car."
+              }
+            },
+            {
+              "name": "St. Bavo's Cathedral",
+              "tip_5lang": {
+                "de": "Ziehen Sie sich für die kühle Kathedrale warm an.",
+                "hu": "Öltözzön fel melegen a hűvös katedrálishoz.",
+                "ro": "Îmbrăcați-vă gros pentru atmosfera răcoroasă din catedrală.",
+                "en": "Dress warmly for the cool interior of the cathedral."
+              }
+            },
+            {
+              "name": "MSK (Museum of Fine Arts)",
+              "tip_5lang": {
+                "de": "Die Zufahrt kann bei Schnee etwas glatt sein.",
+                "hu": "A behajtó hó esetén kissé csúszós lehet.",
+                "ro": "Accesul poate fi puțin alunecos în caz de zăpadă.",
+                "en": "The access road can be a bit slippery in snow."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Winterreifen vor der Fahrt nach Belgien.",
+              "Eiskratzer und Frostschutzmittel sind im Auto wichtig.",
+              "Die Parkhäuser bieten Schutz vor vereisten Scheiben.",
+              "In der Innenstadt ist mit winterlichen Straßensperrungen zu rechnen."
+            ],
+            "hu": [
+              "Ellenőrizze a téli gumikat a belgiumi utazás előtt.",
+              "Jégkaparó és fagyálló folyadék fontos az autóban.",
+              "A parkolóházak védenek a szélvédő jegesedésétől.",
+              "A belvárosban számítson téli útlezárásokra."
+            ],
+            "ro": [
+              "Verificați anvelopele de iarnă înainte de drumul spre Belgia.",
+              "Răzuitoarea de gheață și antigelul sunt importante în mașină.",
+              "Parcările acoperite protejează împotriva înghețării parbrizului.",
+              "În centrul orașului pot exista restricții rutiere de iarnă."
+            ],
+            "en": [
+              "Check your winter tires before traveling to Belgium.",
+              "An ice scraper and antifreeze are important to have in the car.",
+              "Parking garages protect against icy windshields.",
+              "Expect winter road closures in the city center."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1624,6 +2260,206 @@
           "Trams are often the quickest way to cover longer distances in the city.",
           "The Google Maps app provides accurate, real-time public transport schedules."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Gent mit Bus und Bahn ist bei Regen die beste Wahl: Wir starten am Korenmarkt, mitten im Geschehen. Mittags nutzen wir die Tram, um trocken zu den großen Kathedralen zu kommen. Nachmittags bringt uns der Bus direkt zum Museumsviertel im Süden. Der Abend endet entspannt, während wir aus dem warmen Bus auf die nassen Straßen blicken.",
+            "hu": "Gent buszon és villamoson esőben a legjobb választás: a Korenmarkton kezdünk, az események közepén. Délben villamossal utazunk szárazon a nagy katedrálisokhoz. Délután a busz közvetlenül a déli múzeumi negyedbe visz. A nap nyugodtan zárul, miközben a meleg buszból nézzük a vizes utcákat.",
+            "ro": "Transportul public în Ghent este cea mai bună alegere pe ploaie: începem la Korenmarkt, în inima orașului. La prânz folosim tramvaiul pentru a ajunge uscați la marile catedrale. După-amiaza autobuzul ne duce direct în cartierul muzeelor din sud. Ziua se încheie relaxat, privind străzile ude din autobuzul cald.",
+            "en": "Ghent by bus and tram is the best choice in the rain: we start at Korenmarkt, right in the heart of things. At noon, we take the tram to reach the grand cathedrals dry. In the afternoon, the bus takes us directly to the museum district in the south. The day ends relaxedly while looking out at the wet streets from the warm bus."
+          },
+          "stops": [
+            {
+              "name": "Korenmarkt Stop",
+              "tip_5lang": {
+                "de": "Zentraler Knotenpunkt mit vielen Unterständen.",
+                "hu": "Központi csomópont sok esőbeállóval.",
+                "ro": "Nod central cu multe adăposturi contra ploii.",
+                "en": "Central hub with many rain shelters."
+              }
+            },
+            {
+              "name": "St. Nicholas' Church",
+              "tip_5lang": {
+                "de": "Nur wenige Schritte von der Haltestelle entfernt.",
+                "hu": "Csak pár lépésre található a megállótól.",
+                "ro": "La doar câțiva pași distanță de stație.",
+                "en": "Only a few steps away from the stop."
+              }
+            },
+            {
+              "name": "Belfry of Ghent",
+              "tip_5lang": {
+                "de": "Die Tramhaltestelle ist direkt vor der Tür.",
+                "hu": "A villamosmegálló közvetlenül az ajtó előtt van.",
+                "ro": "Stația de tramvai este chiar în fața intrării.",
+                "en": "The tram stop is right in front of the door."
+              }
+            },
+            {
+              "name": "St. Bavo's Cathedral",
+              "tip_5lang": {
+                "de": "Kurzer, teils überdachter Weg von der Tram.",
+                "hu": "Rövid, részben fedett út a villamostól.",
+                "ro": "Traseu scurt, parțial acoperit, de la tramvai.",
+                "en": "Short, partially covered path from the tram."
+              }
+            },
+            {
+              "name": "Gravensteen Stop",
+              "tip_5lang": {
+                "de": "Warten Sie unter dem Dach der Haltestelle.",
+                "hu": "Várjon a megálló fedett teteje alatt.",
+                "ro": "Așteptați sub acoperișul stației.",
+                "en": "Wait under the shelter of the stop."
+              }
+            },
+            {
+              "name": "Gravensteen (Castle of the Counts)",
+              "tip_5lang": {
+                "de": "Die Burg ist nur 100 Meter von der Tram entfernt.",
+                "hu": "A vár mindössze 100 méterre van a villamostól.",
+                "ro": "Castelul este la doar 100 de metri de tramvai.",
+                "en": "The castle is only 100 meters from the tram."
+              }
+            },
+            {
+              "name": "MSK (Museum of Fine Arts)",
+              "tip_5lang": {
+                "de": "Die Buslinie 5 hält fast direkt am Eingang.",
+                "hu": "Az 5-ös busz szinte közvetlenül a bejáratnál áll meg.",
+                "ro": "Linia de autobuz 5 oprește aproape de intrare.",
+                "en": "Bus line 5 stops almost directly at the entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die App 'De Lijn' für Echtzeit-Informationen.",
+              "Kontaktloses Bezahlen ist in allen Fahrzeugen möglich.",
+              "Die Haltestellen im Zentrum sind meist überdacht.",
+              "In der Tram ist es trocken, aber die Fenster können beschlagen."
+            ],
+            "hu": [
+              "Használja a 'De Lijn' alkalmazást a valós idejű infókért.",
+              "Az érintésmentes fizetés minden járművön lehetséges.",
+              "A belvárosi megállók többnyire fedettek.",
+              "A villamoson száraz az idő, de az ablakok bepárásodhatnak."
+            ],
+            "ro": [
+              "Folosiți aplicația 'De Lijn' pentru informații în timp real.",
+              "Plata contactless este posibilă în toate vehiculele.",
+              "Stațiile din centru sunt în mare parte acoperite.",
+              "În tramvai este uscat, dar ferestrele se pot aburi."
+            ],
+            "en": [
+              "Use the 'De Lijn' app for real-time information.",
+              "Contactless payment is available on all vehicles.",
+              "Center stops are mostly covered.",
+              "It's dry on the tram, but windows can fog up."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterzauber mit dem Nahverkehr: Wir starten am hell erleuchteten Korenmarkt. Mittags bringen uns die warmen Straßenbahnen schnell von einer Sehenswürdigkeit zur nächsten. Nachmittags fahren wir in den Süden zum Citadelpark und seinen Museen. Der Abend endet mit einer gemütlichen Rückfahrt durch die glitzernde Stadt.",
+            "hu": "Téli varázslat tömegközlekedéssel: a fényárban úszó Korenmarkton kezdünk. Délben a meleg villamosok gyorsan repítenek egyik látnivalótól a másikig. Délután délre, a Citadelparkhoz és múzeumaihoz utazunk. A nap hangulatos visszautazással zárul a csillogó városon át.",
+            "ro": "Magie de iarnă cu transportul public: începem la Korenmarkt, iluminat feeric. La prânz, tramvaiele calde ne duc rapid de la un obiectiv la altul. După-amiaza mergem spre sud, la Citadelpark și muzeele sale. Ziua se încheie cu o călătorie relaxantă prin orașul strălucitor.",
+            "en": "Winter magic with public transport: we start at the brightly lit Korenmarkt. At noon, warm trams quickly take us from one sight to the next. In the afternoon, we head south to Citadelpark and its museums. The day ends with a cozy ride back through the glittering city."
+          },
+          "stops": [
+            {
+              "name": "Korenmarkt Stop",
+              "tip_5lang": {
+                "de": "Idealer Ort, um die Winterbeleuchtung zu sehen.",
+                "hu": "Ideális hely a téli kivilágítás megtekintéséhez.",
+                "ro": "Loc ideal pentru a vedea iluminatul de iarnă.",
+                "en": "Ideal place to see the winter lighting."
+              }
+            },
+            {
+              "name": "St. Nicholas' Church",
+              "tip_5lang": {
+                "de": "Die Haltestelle wird im Winter oft von Märkten umgeben.",
+                "hu": "A megállót télen gyakran vásárok veszik körül.",
+                "ro": "Stația este adesea înconjurată de piețe de iarnă.",
+                "en": "The stop is often surrounded by winter markets."
+              }
+            },
+            {
+              "name": "Belfry of Ghent",
+              "tip_5lang": {
+                "de": "Die Tram bietet eine kurze Aufwärmpause.",
+                "hu": "A villamos rövid melegedési lehetőséget kínál.",
+                "ro": "Tramvaiul oferă o scurtă pauză pentru încălzire.",
+                "en": "The tram offers a short warming break."
+              }
+            },
+            {
+              "name": "St. Bavo's Cathedral",
+              "tip_5lang": {
+                "de": "Achten Sie auf geänderte Fahrpläne an Feiertagen.",
+                "hu": "Ügyeljen az ünnepnapi menetrendváltozásokra.",
+                "ro": "Atenție la orarele modificate în zilele de sărbătoare.",
+                "en": "Watch for altered schedules on public holidays."
+              }
+            },
+            {
+              "name": "Gravensteen Stop",
+              "tip_5lang": {
+                "de": "Kurze Wartezeiten dank hoher Taktfrequenz.",
+                "hu": "Rövid várakozási idő a sűrű járatkövetésnek köszönhetően.",
+                "ro": "Timpi scurți de așteptare datorită frecvenței mari.",
+                "en": "Short waiting times thanks to high frequency."
+              }
+            },
+            {
+              "name": "Gravensteen (Castle of the Counts)",
+              "tip_5lang": {
+                "de": "Der Fußweg von der Tram ist im Winter gestreut.",
+                "hu": "A villamostól vezető utat télen szórják.",
+                "ro": "Drumul de la tramvai este curățat și presărat iarna.",
+                "en": "The path from the tram is salted in winter."
+              }
+            },
+            {
+              "name": "MSK (Museum of Fine Arts)",
+              "tip_5lang": {
+                "de": "Im Bus ist es angenehm warm geheizt.",
+                "hu": "A buszon kellemesen meleg a fűtés.",
+                "ro": "Autobuzul este încălzit plăcut.",
+                "en": "The bus is pleasantly heated."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrzeuge sind im Winter gut beheizt.",
+              "Ab 17:00 Uhr ist der Berufsverkehr besonders stark.",
+              "Die Tram 1 verbindet den Bahnhof Gent-Sint-Pieters mit dem Zentrum.",
+              "Tragen Sie trotzdem warme Kleidung für die Wartezeiten."
+            ],
+            "hu": [
+              "A járművek télen jól fűtöttek.",
+              "17:00 után a csúcsforgalom különösen erős.",
+              "Az 1-es villamos köti össze a vasútállomást a központtal.",
+              "Ennek ellenére viseljen meleg ruhát a várakozáshoz."
+            ],
+            "ro": [
+              "Vehiculele sunt bine încălzite iarna.",
+              "După ora 17:00, traficul este deosebit de intens.",
+              "Tramvaiul 1 face legătura între gara Sint-Pieters și centru.",
+              "Purtați totuși haine groase pentru perioadele de așteptare."
+            ],
+            "en": [
+              "Vehicles are well-heated in winter.",
+              "Rush hour is particularly heavy after 5:00 PM.",
+              "Tram 1 connects the Sint-Pieters station with the center.",
+              "Still, wear warm clothing for the waiting periods."
+            ]
+          }
+        }
       }
     }
   }

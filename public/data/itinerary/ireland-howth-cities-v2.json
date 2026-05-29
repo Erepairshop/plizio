@@ -362,6 +362,188 @@
           "Bring water and snacks for the hike to the summit.",
           "Check the tide times before walking on the beach."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein mystischer Morgen am Hafen, wo der Nebel die Fischerboote einhüllt. Mittags bietet die St. Mary's Abbey einen geschützten Rückzugsort vor den Schauern.\n\nDer Nachmittag am Claremont Beach ist windig und erfrischend; ideal für wetterfeste Kleidung. Ein langes Seafood-Mittagessen wärmt Geist und Körper auf.\n\nSpäter führt der Weg zum Summit, der in Wolken gehüllt eine dramatische Kulisse bietet. Der Abstieg erfolgt im sanften Irischen Regen.\n\nDen Abschluss bildet der Martello Tower, ein solides Bollwerk gegen die Elemente, bevor man in die gemütlichen Pubs am Hafen zurückkehrt.",
+            "hu": "Misztikus reggel a kikötőben, ahol a köd átöleli a halászhajókat. Délben a St. Mary apátság romjai nyújtanak némi menedéket az érkező záporok elől.\n\nA délután a Claremont Beachen szeles és frissítő, tökéletes egy vízhatlan sétához. Egy kiadós tengeri ebéd során van idő megszárítkozni.\n\nKésőbb a Summit felé vesszük az irányt, amely a felhőkbe burkolózva drámai látványt nyújt. Az ereszkedés halk ír esőben telik.\n\nA napot a Martello-torony robusztus falai között zárjuk, mielőtt visszatérnénk a kikötő barátságos és meleg pubjaiba.",
+            "ro": "O dimineață mistică în port, unde ceața îmbrățișează bărci de pescuit. La prânz, Abația St. Mary oferă un refugiu protejat de aversele trecătoare.\n\nDupă-amiaza pe plaja Claremont este vântoasă și revigorantă, ideală pentru echipament impermeabil. Un prânz prelungit cu fructe de mare încălzește spiritul.\n\nMai târziu, drumul spre Summit oferă un cadru dramatic printre nori. Coborârea se face sub o ploaie ușoară irlandeză, foarte atmosferică.\n\nÎncheiem la Turnul Martello, un bastion solid împotriva elementelor, înainte de a ne retrage în pub-urile primitoare din zona portului.",
+            "en": "A mystical morning at the harbour as mist clings to the fishing boats. At noon, the ruins of St. Mary's Abbey provide a sheltered escape from passing showers.\n\nAfternoon at Claremont Beach is windy and refreshing; perfect for those with good rain gear. A long seafood lunch allows plenty of time to dry off.\n\nLater, the path to the Summit offers a dramatic backdrop shrouded in clouds. The descent is accompanied by the soft, rhythmic Irish rain.\n\nWe finish at the Martello Tower, a sturdy bulwark against the elements, before retreating to the cozy, fire-lit pubs of the village."
+          },
+          "stops": [
+            {
+              "name": "Howth Harbour",
+              "tip_5lang": {
+                "de": "Vorsicht auf den rutschigen Molen; die Seehunde lieben dieses Wetter.",
+                "hu": "Vigyázz a csúszós mólókon; a fókák imádják ezt az időt.",
+                "ro": "Atenție pe digurile alunecoase; focile adoră această vreme.",
+                "en": "Be careful on the slippery piers; the seals love this weather."
+              }
+            },
+            {
+              "name": "St. Mary's Abbey",
+              "tip_5lang": {
+                "de": "Die hohen Mauern bieten guten Schutz vor plötzlichem Wind.",
+                "hu": "A magas falak jó védelmet nyújtanak a hirtelen szél ellen.",
+                "ro": "Zidurile înalte oferă protecție bună împotriva vântului brusc.",
+                "en": "The high walls provide good shelter from sudden gusts of wind."
+              }
+            },
+            {
+              "name": "Claremont Beach",
+              "tip_5lang": {
+                "de": "Barfuß im nassen Sand ist wärmer als mit durchnässten Socken.",
+                "hu": "Mezítláb a vizes homokban melegebb, mint ázott zokniban.",
+                "ro": "Desculț pe nisipul ud e mai cald decât cu șosete îmbibate.",
+                "en": "Walking barefoot in wet sand is warmer than soaked socks."
+              }
+            },
+            {
+              "name": "Seaside Lunch",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Heizung im Pub, um Jacken und Schirme zu trocknen.",
+                "hu": "Használd a pub fűtését a kabátok és esernyők szárítására.",
+                "ro": "Folosiți căldura din pub pentru a usca jachetele și umbrelele.",
+                "en": "Use the pub's heating to dry your jackets and umbrellas."
+              }
+            },
+            {
+              "name": "Howth Summit",
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den markierten Pfaden; der Boden kann schlammig sein.",
+                "hu": "Maradj a kijelölt ösvényeken; a talaj sáros és csúszós lehet.",
+                "ro": "Rămâneți pe potecile marcate; solul poate fi noroios.",
+                "en": "Stay on the marked paths; the ground can be muddy and slick."
+              }
+            },
+            {
+              "name": "Martello Tower Howth",
+              "tip_5lang": {
+                "de": "Besuchen Sie das Radiomuseum im Inneren, um dem Regen zu entfliehen.",
+                "hu": "Látogasd meg a benti rádiómúzeumot, hogy elmenekülj az eső elől.",
+                "ro": "Vizitați muzeul radio din interior pentru a scăpa de ploaie.",
+                "en": "Visit the radio museum inside to escape the rain for a while."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine hochwertige Regenjacke; Schirme sind bei Küstenwind oft nutzlos.",
+              "Die DART-Station bietet einen trockenen Wartebereich für die Rückreise.",
+              "Besuchen Sie das Fischgeschäft Wrights of Howth für überdachtes Shopping.",
+              "Die Wege an den Klippen können bei Nässe rutschig sein; Wanderschuhe sind Pflicht."
+            ],
+            "hu": [
+              "Viselj minőségi esőkabátot; az esernyő a parti szélben gyakran használhatatlan.",
+              "A DART állomás száraz várótermet biztosít a visszautazáshoz.",
+              "Látogass el a Wrights of Howth halboltba egy kis fedett nézelődésre.",
+              "A szikla menti ösvények vizesen csúszhatnak; a túrabakancs kötelező."
+            ],
+            "ro": [
+              "Purtați o jachetă de ploaie de calitate; umbrelele sunt inutile în vântul de coastă.",
+              "Gara DART oferă o zonă de așteptare uscată pentru călătoria de întoarcere.",
+              "Vizitați magazinul de pește Wrights of Howth pentru cumpărături la adăpost.",
+              "Potecile de pe faleză pot fi alunecoase; bocancii de trekking sunt obligatorii."
+            ],
+            "en": [
+              "Wear a high-quality raincoat; umbrellas are often useless in coastal winds.",
+              "The DART station provides a dry waiting area for your return journey.",
+              "Visit Wrights of Howth fish market for some indoor browsing and local treats.",
+              "Cliff paths can be very slippery when wet; hiking boots are a must."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger, klarer Morgen am Hafen mit herrlich frischer Meeresluft. Die Abtei von St. Mary wirkt im Winterlicht besonders andächtig.\n\nAm Strand von Claremont knirscht der Sand unter den Füßen. Ein warmes Mittagessen mit Blick auf das stürmische Meer ist nun genau das Richtige.\n\nDer Aufstieg zum Summit wird mit einer weiten Sicht belohnt, da die Winterluft besonders klar ist. Man sollte den frühen Sonnenuntergang gegen 16:15 Uhr nicht verpassen.\n\nAm Martello Tower endet die Tour in der blauen Stunde, bevor die Lichter des Dorfes zum Aufwärmen in die Gaststuben einladen.",
+            "hu": "Fagyos, tiszta reggel a kikötőben, friss tengeri levegővel. A St. Mary apátság romjai a téli fényben különösen áhítatosnak tűnnek.\n\nA Claremont strandon ropog a homok a talpunk alatt. Egy meleg ebéd a viharos tengerre néző ablak mellett most a legjobb választás.\n\nA Summitra való feljutást tiszta kilátás jutalmazza, mivel a téli levegőben nincs pára. Ne maradj le a korai, 16:15 körüli naplementéről.\n\nA Martello-toronynál a kék órában ér véget a túra, mielőtt a falu fényei hívogatnának egy forró italra a helyi kocsmákban.",
+            "ro": "O dimineață geroasă și senină în port, cu aer marin proaspăt. Abația St. Mary pare deosebit de solemnă în lumina iernatică.\n\nPe plaja Claremont, nisipul scrâșnește sub picioare. Un prânz cald cu vedere la marea agitată este exact ceea ce aveți nevoie acum.\n\nUrcarea la Summit este răsplătită cu o vizibilitate mare, aerul de iarnă fiind foarte clar. Nu ratați apusul timpuriu, în jurul orei 16:15.\n\nLa Turnul Martello turul se încheie în ora albastră, înainte ca luminile satului să vă invite la căldură în tavernele locale.",
+            "en": "A frosty, clear morning at the harbour with invigorating sea air. The ruins of St. Mary's Abbey feel particularly solemn in the sharp winter light.\n\nAt Claremont Beach, the cold sand crunches underfoot. A warm lunch by a window overlooking the churning sea is the perfect midday break.\n\nThe climb to the Summit is rewarded with vast views, as the winter air is exceptionally crisp. Be mindful of the early sunset around 4:15 PM.\n\nWe finish at the Martello Tower during the blue hour, just as the village lights flicker on, inviting us to warm up by a crackling fireplace."
+          },
+          "stops": [
+            {
+              "name": "Howth Harbour",
+              "tip_5lang": {
+                "de": "Tragen Sie Handschuhe; der Metallzaun am Pier kann eiskalt sein.",
+                "hu": "Viselj kesztyűt; a móló fémkorlátja jéghideg lehet.",
+                "ro": "Purtați mănuși; balustrada metalică de pe dig poate fi înghețată.",
+                "en": "Wear gloves; the metal railings on the pier can be freezing cold."
+              }
+            },
+            {
+              "name": "St. Mary's Abbey",
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne wirft hier fantastische Schatten für Fotos.",
+                "hu": "Az alacsonyan járó nap fantasztikus árnyékokat vet a fotókhoz.",
+                "ro": "Soarele jos aruncă umbre fantastice aici pentru fotografii.",
+                "en": "The low winter sun casts fantastic shadows here for photography."
+              }
+            },
+            {
+              "name": "Claremont Beach",
+              "tip_5lang": {
+                "de": "Vermeiden Sie die Wasserlinie; die Wellen sind im Winter unberechenbar.",
+                "hu": "Kerüld a vízpartot; a hullámok télen kiszámíthatatlanok.",
+                "ro": "Evitați linia apei; valurile sunt imprevizibile iarna.",
+                "en": "Avoid the water line; the waves can be unpredictable in winter."
+              }
+            },
+            {
+              "name": "Seaside Lunch",
+              "tip_5lang": {
+                "de": "Bestellen Sie einen 'Irish Coffee', um die Durchblutung anzuregen.",
+                "hu": "Rendelj egy 'Irish Coffee'-t, hogy felpezsdítsd a vérkeringésed.",
+                "ro": "Comandați o 'Irish Coffee' pentru a vă stimula circulația.",
+                "en": "Order an 'Irish Coffee' to boost your circulation and warm up."
+              }
+            },
+            {
+              "name": "Howth Summit",
+              "tip_5lang": {
+                "de": "Hier oben ist es deutlich windiger und kälter; Mütze aufsetzen!",
+                "hu": "Itt fent sokkal szelesebb és hidegebb van; sapkát fel!",
+                "ro": "Sus este mult mai vântos și mai frig; puneți-vă căciula!",
+                "en": "It's much windier and colder up here; keep your hat on!"
+              }
+            },
+            {
+              "name": "Martello Tower Howth",
+              "tip_5lang": {
+                "de": "Ein guter Ort, um den Sonnenuntergang über dem Dorf zu beobachten.",
+                "hu": "Jó hely a falu feletti naplemente megfigyeléséhez.",
+                "ro": "Un loc bun pentru a urmări apusul deasupra satului.",
+                "en": "A great spot to watch the sunset over the village."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schichten Sie Ihre Kleidung (Zwiebelprinzip); der Wind kühlt schnell aus.",
+              "Die Tage sind kurz; starten Sie spätestens um 9 Uhr morgens.",
+              "Die meisten Pubs haben im Winter echte Kamine – suchen Sie gezielt danach.",
+              "Achten Sie auf vereiste Stellen auf den gepflasterten Gehwegen im Dorf."
+            ],
+            "hu": [
+              "Öltözz rétegesen; a szél gyorsan lehűti a testedet.",
+              "A nappalok rövidek; kezdd a túrát legkésőbb reggel 9-kor.",
+              "A legtöbb pubban van kandalló télen – keresd ezeket a helyeket.",
+              "Vigyázz a jeges foltokra a falu kövezett járdáin."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi; vântul vă poate răci foarte repede.",
+              "Zilele sunt scurte; începeți turul cel târziu la ora 9 dimineața.",
+              "Majoritatea pub-urilor au șeminee iarna – căutați-le special.",
+              "Atenție la porțiunile înghețate de pe trotuarele pavate din sat."
+            ],
+            "en": [
+              "Dress in layers; the coastal wind will chill you down rapidly.",
+              "Days are short; make sure to start your tour by 9 AM at the latest.",
+              "Most pubs have real log fires in winter – look for them to warm up.",
+              "Watch out for icy patches on the cobbled pavements in the village."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -702,6 +884,188 @@
           "Bring a map of the cycle routes or use a GPS app.",
           "A helmet is strongly recommended."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein nasser Start bei der Radvermietung, wo Schutzbleche heute unverzichtbar sind. Die Fahrt zum Hafen ist kurz, aber erfrischend.\n\nDas Howth Castle wirkt im Regen wie aus einem Schauerroman entsprungen. Mittags bietet das dichte Blätterdach der Gärten etwas Schutz.\n\nDer Anstieg zum Summit ist bei Regen anstrengend, aber die Abfahrt zum Baily Lighthouse bietet dramatische Ausblicke auf die schäumende Irische See.\n\nZum Abschluss wärmt man sich im Summit Inn auf, während die Fahrräder draußen im Regen glänzen und man die geschaffte Tour feiert.",
+            "hu": "Vizes kezdés a kerékpárkölcsönzőnél, ahol a sárvédő ma nélkülözhetetlen. Az út a kikötőig rövid, de annál frissítőbb.\n\nA Howth-kastély az esőben úgy fest, mint egy gótikus regény helyszíne. Délben a kertek sűrű lombkoronája nyújt némi védelmet.\n\nA Summitra való felkapaszkodás esőben fárasztó, de a Baily világítótoronyhoz vezető lejtő drámai kilátást nyújt a habzó Ír-tengerre.\n\nBefejezésül a Summit Innben melegedhetünk fel, miközben a bringák kint az esőben csillognak, mi pedig a teljesített túrát ünnepeljük.",
+            "ro": "Un început umed la centrul de închirieri, unde apărătorile de noroi sunt indispensabile. Drumul spre port este scurt, dar revigorant.\n\nCastelul Howth pare desprins dintr-un roman gotic pe ploaie. La prânz, coronamentul des al grădinilor oferă puțină protecție.\n\nUrcarea spre Summit este solicitantă pe ploaie, dar coborârea spre Farul Baily oferă vederi dramatice asupra mării agitate.\n\nLa final, ne încălzim la Summit Inn, în timp ce bicicletele strălucesc afară în ploaie și noi sărbătorim traseul parcurs.",
+            "en": "A wet start at the bike rental, where mudguards are essential today. The ride to the harbour is short but definitely refreshing.\n\nHowth Castle looks like something out of a Gothic novel in the rain. At noon, the thick canopy of the gardens provides some cover.\n\nThe climb to the Summit is tough in the rain, but the descent to Baily Lighthouse offers dramatic views of the churning Irish Sea.\n\nWe wrap up at The Summit Inn to warm up, watching the bikes glisten in the rain outside as we celebrate completing the circuit."
+          },
+          "stops": [
+            {
+              "name": "Bike Rental",
+              "tip_5lang": {
+                "de": "Fragen Sie nach einer wasserdichten Karte und einem Sattelschutz.",
+                "hu": "Kérj vízálló térképet és nyeregvédőt a kölcsönzőben.",
+                "ro": "Cereți o hartă impermeabilă și o protecție pentru șa.",
+                "en": "Ask for a waterproof map and a saddle cover at the rental."
+              }
+            },
+            {
+              "name": "Howth Harbour",
+              "tip_5lang": {
+                "de": "Meiden Sie die nassen Bahnschienen beim Überqueren der Straßen.",
+                "hu": "Kerüld a vizes síneket, amikor áttekersz az utcákon.",
+                "ro": "Evitați șinele de tren ude când traversați străzile.",
+                "en": "Avoid crossing wet train tracks at an angle to prevent slipping."
+              }
+            },
+            {
+              "name": "Howth Castle",
+              "tip_5lang": {
+                "de": "Die Wege im Schlosspark können nach Regen weich und rutschig sein.",
+                "hu": "A kastélypark ösvényei eső után puhák és csúszósak lehetnek.",
+                "ro": "Potecile din parcul castelului pot fi moi și alunecoase după ploaie.",
+                "en": "The castle park paths can be soft and slippery after rain."
+              }
+            },
+            {
+              "name": "Howth Summit",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor der steilen und nassen Abfahrt.",
+                "hu": "Ellenőrizd a fékeidet a meredek és vizes lejtő előtt.",
+                "ro": "Verificați frânele înainte de coborârea abruptă și umedă.",
+                "en": "Check your brakes before the steep and wet descent from here."
+              }
+            },
+            {
+              "name": "Baily Lighthouse",
+              "tip_5lang": {
+                "de": "Halten Sie den Lenker bei Seitenwind am Kap besonders fest.",
+                "hu": "Erősen fogd a kormányt az oldalszélben a foknál.",
+                "ro": "Țineți bine ghidonul în rafalele de vânt de pe cap.",
+                "en": "Keep a firm grip on the handlebars in the crosswinds at the cape."
+              }
+            },
+            {
+              "name": "Lunch at The Summit Inn",
+              "tip_5lang": {
+                "de": "Ein heißer Tee hilft, die klammen Finger wieder beweglich zu machen.",
+                "hu": "Egy forró tea segít átmozgatni az elgémberedett ujjakat.",
+                "ro": "Un ceai fierbinte ajută la redarea mobilității degetelor amorțite.",
+                "en": "A hot tea will help get your stiff fingers moving again."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Handschuhe; nasse Hände kühlen beim Fahren extrem schnell aus.",
+              "Reduzieren Sie den Reifendruck leicht für besseren Grip auf nassen Straßen.",
+              "Vermeiden Sie Pfützen, sie könnten tiefer sein als sie aussehen.",
+              "Nehmen Sie Ersatzsocken in einem Plastikbeutel mit."
+            ],
+            "hu": [
+              "Viselj vízálló kesztyűt; a vizes kéz tekerés közben nagyon gyorsan áthűl.",
+              "Kicsit csökkentsd a guminyomást a jobb tapadás érdekében a vizes úton.",
+              "Kerüld a tócsákat, mert mélyebbek lehetnek, mint aminek látszanak.",
+              "Vigyél magaddal pótzoknit egy műanyag zacskóban."
+            ],
+            "ro": [
+              "Purtați mănuși impermeabile; mâinile ude se răcesc extrem de repede la drum.",
+              "Reduceți ușor presiunea în pneuri pentru o aderență mai bună pe drum ud.",
+              "Evitați bălțile, pot fi mai adânci decât par la prima vedere.",
+              "Luați șosete de schimb într-o pungă de plastic."
+            ],
+            "en": [
+              "Wear waterproof gloves; wet hands cool down extremely fast while riding.",
+              "Lower your tire pressure slightly for better grip on wet roads.",
+              "Avoid puddles as they might be deeper than they look.",
+              "Carry a pair of spare socks in a plastic bag to change at lunch."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein knackig kalter Morgen bei der Radvermietung; die Luft brennt förmlich in der Lunge. Die Fahrt zum Hafen weckt alle Geister.\n\nDas Howth Castle steht majestätisch in der klaren Wintersonne. Mittags sind die Gärten ruhig und fast menschenleer.\n\nDer Aufstieg zum Summit bringt den Kreislauf in Schwung und vertreibt die Kälte. Vom Baily Lighthouse aus sieht man bei dieser Fernsicht fast bis nach Wales.\n\nDie Tour endet im warmen Summit Inn, wo der Kamin lodert und das dunkle Guinness am besten schmeckt, während draußen die Sonne früh versinkt.",
+            "hu": "Ropogósan hideg reggel a kerékpárkölcsönzőnél; a levegő szinte égeti a tüdőt. A kikötőig tartó út minden érzékszervet felébreszt.\n\nA Howth-kastély fenségesen áll a tiszta téli napsütésben. Délben a kertek csendesek és szinte néptelenek.\n\nA Summitra való feltekerés beindítja a keringést és elűzi a hideget. A Baily világítótoronytól ilyenkor szinte Wales-ig el lehet látni.\n\nA túra a meleg Summit Innben ér véget, ahol lobog a tűz a kandallóban, és a sötét Guinness ilyenkor esik a legjobban, miközben kint korán lebukik a nap.",
+            "ro": "O dimineață crocantă și rece la centrul de închirieri; aerul aproape arde plămânii. Drumul spre port trezește toate simțurile.\n\nCastelul Howth stă maiestuos în soarele clar de iarnă. La prânz, grădinile sunt liniștite și aproape pustii.\n\nUrcarea spre Summit pune sângele în mișcare și alungă frigul. De la Farul Baily, vizibilitatea permite să vezi aproape până în Țara Galilor.\n\nTurul se încheie în căldura de la Summit Inn, unde focul duduie în șemineu și un Guinness negru are cel mai bun gust, în timp ce soarele apune devreme.",
+            "en": "A crisp, freezing morning at the bike rental; the air practically stings your lungs. The ride to the harbour wakes up all your senses.\n\nHowth Castle stands majestic in the sharp winter sunlight. At noon, the gardens are peaceful and almost entirely deserted.\n\nThe climb to the Summit gets the circulation going and chases away the winter chill. From Baily Lighthouse, the visibility is so good you can almost see Wales.\n\nThe tour ends in the warmth of The Summit Inn, where the fire is roaring and a dark Guinness tastes best as the sun sets early outside."
+          },
+          "stops": [
+            {
+              "name": "Bike Rental",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Reifendruck; kalte Luft lässt den Druck sinken.",
+                "hu": "Ellenőrizd a guminyomást; a hideg levegő miatt csökkenhet a nyomás.",
+                "ro": "Verificați presiunea în pneuri; aerul rece scade presiunea.",
+                "en": "Check your tire pressure; cold air can cause it to drop."
+              }
+            },
+            {
+              "name": "Howth Harbour",
+              "tip_5lang": {
+                "de": "Der Fahrtwind am Pier ist eisig; ziehen Sie das Halstuch hoch.",
+                "hu": "A menetszél a mólón jeges; húzd fel a sáladat.",
+                "ro": "Curentul de aer de pe dig este înghețat; ridicați eșarfa.",
+                "en": "The wind chill on the pier is biting; pull your neck warmer up."
+              }
+            },
+            {
+              "name": "Howth Castle",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an einem sonnigen Platz, damit der Sattel nicht einfriert.",
+                "hu": "Parkolj napos helyre, hogy ne fagyjon le a nyerged.",
+                "ro": "Parcați bicicleta într-un loc însorit pentru ca șaua să nu înghețe.",
+                "en": "Park your bike in a sunny spot so the saddle doesn't freeze."
+              }
+            },
+            {
+              "name": "Howth Summit",
+              "tip_5lang": {
+                "de": "Bewegung ist alles; bleiben Sie nicht zu lange stehen.",
+                "hu": "A mozgás a lényeg; ne állj meg túl hosszú időre.",
+                "ro": "Mişcarea este totul; nu staționați prea mult timp.",
+                "en": "Keep moving; don't stand still for too long in the wind."
+              }
+            },
+            {
+              "name": "Baily Lighthouse",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis in schattigen Kurven der Küstenstraße.",
+                "hu": "Vigyázz a jegesedésre a parti út árnyékos kanyarjaiban.",
+                "ro": "Atenție la gheață în curbele umbrite ale drumului de coastă.",
+                "en": "Watch out for black ice in shaded corners of the coastal road."
+              }
+            },
+            {
+              "name": "Lunch at The Summit Inn",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Akkus von E-Bikes im Warmen zu schonen.",
+                "hu": "Ideális hely az e-bike akkumulátorok kímélésére a melegben.",
+                "ro": "Un loc ideal pentru a proteja bateriile e-bike-urilor la căldură.",
+                "en": "A perfect spot to protect e-bike batteries from the cold indoors."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie Lippenbalsam gegen den kalten Fahrtwind.",
+              "Tragen Sie Thermo-Einlegesohlen in Ihren Schuhen.",
+              "Vermeiden Sie schweißtreibendes Fahren, um danach nicht zu unterkühlen.",
+              "Rücklichter sind auch tagsüber bei tiefstehender Sonne ratsam."
+            ],
+            "hu": [
+              "Használj ajakírt a hideg menetszél ellen.",
+              "Tegyél termő talpbetétet a cipődbe.",
+              "Kerüld a túl intenzív tekerést, hogy ne izzadj le és ne fázz meg utána.",
+              "A hátsó lámpa nappal is ajánlott az alacsony napállás miatt."
+            ],
+            "ro": [
+              "Folosiți balsam de buze împotriva curentului de aer rece.",
+              "Purtați branțuri termice în încălțăminte.",
+              "Evitați efortul excesiv pentru a nu transpira și apoi a răci.",
+              "Luminile de spate sunt recomandate și ziua din cauza soarelui jos."
+            ],
+            "en": [
+              "Use lip balm to protect against the cold wind chill.",
+              "Wear thermal insoles in your cycling shoes.",
+              "Avoid over-exerting yourself to prevent sweating and subsequent chilling.",
+              "Keep your rear lights on even during the day due to the low sun visibility."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1082,6 +1446,206 @@
           "Do not leave valuables visible in the car.",
           "Parking fees vary, so have coins or a parking app ready."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Fahrt beginnt am Summit Car Park, wo man den Regen gemütlich vom Auto aus beobachten kann. Der Cliff Walk wird heute zur kurzen, atmosphärischen Stippvisite.\n\nDas Baily Lighthouse schimmert im Dunst, während die Scheibenwischer den Takt angeben. Mittags parkt man direkt am Hafen, um trocken ins Restaurant zu huschen.\n\nDer Nachmittag am Pier bietet trotz Schirmen ein echtes Küstenerlebnis. Ein Besuch im Howth Castle rundet den Tag ab, da die alten Mauern Geborgenheit bieten.\n\nAbends blickt man auf die regennassen Straßen von Howth, während man im Auto die Heizung genießt und die Erlebnisse Revue passieren lässt.",
+            "hu": "A túra a Summit parkolóban indul, ahol az autóból kényelmesen figyelhetjük az esőt. A sziklasétány ma csak egy rövid, hangulatos kitérő lesz.\n\nA Baily világítótorony megcsillan a párában, miközben az ablaktörlők adják az ütemet. Délben közvetlenül a kikötőben parkolunk, hogy szárazon jussunk az étterembe.\n\nA délután a mólón az esernyők ellenére is valódi tengerparti élményt nyújt. A Howth-kastély látogatása zárja a napot, a régi falak biztonságot adnak.\n\nEste a Howth eső áztatta utcáira látunk rá az autóból, miközben élvezzük a fűtést és felelevenítjük a nap eseményeit.",
+            "ro": "Călătoria începe la parcarea Summit, unde puteți observa ploaia confortabil din mașină. Plimbarea pe faleză va fi astăzi doar o scurtă vizită atmosferică.\n\nFarul Baily sclipeste în boarea de ploaie, în timp ce ștergătoarele dau ritmul. La prânz parcăm direct în port pentru a ajunge uscați la restaurant.\n\nDupă-amiaza pe dig oferă o experiență de coastă autentică, în ciuda umbrelelor. O vizită la Castelul Howth încheie ziua, zidurile vechi oferind adăpost.\n\nSeara privim străzile ude de ploaie din Howth, bucurându-ne de căldura din mașină și trecând în revistă experiențele zilei.",
+            "en": "The drive starts at the Summit Car Park, where you can watch the rain comfortably from your car. The Cliff Walk becomes a short, atmospheric stroll today.\n\nBaily Lighthouse shimmers through the mist as the wipers beat a steady rhythm. At noon, we park right at the harbour to dash dryly into a restaurant.\n\nAfternoon on the pier offers a true coastal experience despite the umbrellas. A visit to Howth Castle rounds off the day, as the old walls provide a sense of shelter.\n\nIn the evening, we look out over the rain-slicked streets of Howth, enjoying the car's heater while reflecting on the day's sights."
+          },
+          "stops": [
+            {
+              "name": "Howth Summit Car Park",
+              "tip_5lang": {
+                "de": "Ein perfekter Ort für 'Storm Watching' aus dem trockenen Innenraum.",
+                "hu": "Tökéletes hely a vihar megfigyeléséhez a száraz utastérből.",
+                "ro": "Un loc perfect pentru a urmări furtuna din interiorul uscat.",
+                "en": "A perfect spot for 'storm watching' from the dry interior of your car."
+              }
+            },
+            {
+              "name": "Howth Summit Cliff Walk",
+              "tip_5lang": {
+                "de": "Kurze Wege wählen; der Wind kann Türen beim Öffnen aufschlagen.",
+                "hu": "Válassz rövid útvonalat; a szél kivághatja az ajtót nyitáskor.",
+                "ro": "Alegeți trasee scurte; vântul poate izbi portierele la deschidere.",
+                "en": "Keep it brief; be careful as wind can catch car doors when opening."
+              }
+            },
+            {
+              "name": "Baily Lighthouse",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkbucht für ein schnelles Foto ohne auszusteigen.",
+                "hu": "Használd a parkolóöblöt egy gyors fotóhoz kiszállás nélkül.",
+                "ro": "Folosiți refugiul pentru o fotografie rapidă fără a coborî.",
+                "en": "Use the viewing pull-off for a quick photo without getting out."
+              }
+            },
+            {
+              "name": "Harbour Car Park",
+              "tip_5lang": {
+                "de": "Pfützen können hier tief sein; parken Sie auf erhöhtem Grund.",
+                "hu": "A tócsák mélyek lehetnek; parkolj magasabb ponton.",
+                "ro": "Bălțile pot fi adânci aici; parcați pe teren mai înalt.",
+                "en": "Puddles can be deep here; try to park on higher ground."
+              }
+            },
+            {
+              "name": "Lunch in the Harbour",
+              "tip_5lang": {
+                "de": "Viele Restaurants haben überdachte Eingänge für Gäste.",
+                "hu": "Sok étteremnek van fedett bejárata a vendégek számára.",
+                "ro": "Multe restaurante au intrări acoperite pentru oaspeți.",
+                "en": "Many harbour restaurants have covered entrances for guests."
+              }
+            },
+            {
+              "name": "Pier Walk & St. Mary's Abbey",
+              "tip_5lang": {
+                "de": "Parken Sie nah am West Pier, um den Fußweg im Regen zu minimieren.",
+                "hu": "Parkolj közel a West Pierhez, hogy minimalizáld a gyaloglást az esőben.",
+                "ro": "Parcați aproape de West Pier pentru a minimiza mersul prin ploaie.",
+                "en": "Park near the West Pier to minimize walking distance in the rain."
+              }
+            },
+            {
+              "name": "Howth Castle",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist oft schlammig; achten Sie auf Ihre Schuhe.",
+                "hu": "A parkoló gyakran sáros; vigyázz a cipődre.",
+                "ro": "Parcarea este adesea noroioasă; atenție la încălțăminte.",
+                "en": "The parking area can get muddy; watch your step and your shoes."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Zustand Ihrer Scheibenwischer vor der Fahrt.",
+              "Halten Sie ein Handtuch im Auto bereit, um sich nach kurzen Spaziergängen abzutrocknen.",
+              "Die Parkplatzsuche am Hafen ist bei Regen oft einfacher als an sonnigen Tagen.",
+              "Nutzen Sie die Sitzheizung, um klamme Kleidung schneller zu trocknen."
+            ],
+            "hu": [
+              "Ellenőrizd az ablaktörlők állapotát az indulás előtt.",
+              "Tarts egy törölközőt az autóban a rövid séták utáni szárítkozáshoz.",
+              "A parkolás a kikötőben esőben gyakran egyszerűbb, mint napsütésben.",
+              "Használd az ülésfűtést a nyirkos ruhák gyorsabb szárításához."
+            ],
+            "ro": [
+              "Verificați starea ștergătoarelor înainte de plecare.",
+              "Țineți un prosop în mașină pentru a vă usca după scurtele plimbări.",
+              "Găsirea unui loc de parcare în port este adesea mai ușoară pe ploaie.",
+              "Folosiți încălzirea în scaune pentru a usca mai repede hainele umede."
+            ],
+            "en": [
+              "Check the condition of your windshield wipers before setting off.",
+              "Keep a towel in the car to dry off after short walks outside.",
+              "Finding parking at the harbour is often easier on rainy days than sunny ones.",
+              "Use the seat heaters to help dry off any damp clothing quickly."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein glitzernder Wintermorgen am Summit; die Aussicht ist heute dank der kalten Luft grenzenlos. Der Cliff Walk ist kurz und belebend.\n\nDie Fahrt zum Baily Lighthouse führt durch eine schlafende Küstenlandschaft. Mittags genießt man den Trubel im Hafen direkt vom warmen Auto aus.\n\nDas Mittagessen im Hafen ist ein gemütliches Highlight. Danach führt der Weg zum Pier, wo das Licht der Wintersonne das Wasser silbern färbt.\n\nDas Howth Castle bildet den würdigen Abschluss, bevor man im Schutze des Autos die Rückfahrt antritt, während die Dämmerung das Dorf einhüllt.",
+            "hu": "Csillogó téli reggel a Summiton; a kilátás a hideg levegőnek köszönhetően ma határtalan. A sziklasétány rövid és élénkítő.\n\nA Baily világítótoronyhoz vezető út az alvó parti tájon át vezet. Délben a kikötői nyüzsgést a meleg autóból figyelhetjük.\n\nA kikötői ebéd a nap egyik legkellemesebb pontja. Ezután a móló felé vesszük az irányt, ahol a téli nap ezüstre festi a vizet.\n\nA Howth-kastély méltó zárása a napnak, mielőtt az autó védelmében elindulnánk haza, miközben a szürkület lassan körbeöleli a falut.",
+            "ro": "O dimineață sclipitoare de iarnă la Summit; vizibilitatea este nelimitată astăzi datorită aerului rece. Plimbarea pe faleză este scurtă și revigorantă.\n\nDrumul spre Farul Baily trece printr-un peisaj de coastă adormit. La prânz vă puteți bucura de agitația din port direct din mașina caldă.\n\nPrânzul în port este un punct culminant relaxant. Apoi drumul duce spre dig, unde lumina soarelui de iarnă colorează apa în argintiu.\n\nCastelul Howth reprezintă finalul demn, înainte de a porni la drumul de întoarcere în protecția mașinii, în timp ce amurgul învăluie satul.",
+            "en": "A glittering winter morning at the Summit; the view is boundless today thanks to the cold, clear air. The Cliff Walk is short and invigorating.\n\nThe drive to Baily Lighthouse takes you through a sleeping coastal landscape. At noon, enjoy the harbour's bustle from the warmth of your car.\n\nLunch in the harbour is a cozy highlight. Afterward, head to the pier where the winter sun turns the water into a sheet of silver.\n\nHowth Castle provides a grand finale before you start the return journey in the comfort of your car as twilight descends upon the village."
+          },
+          "stops": [
+            {
+              "name": "Howth Summit Car Park",
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor nicht unnötig laufen; genießen Sie die Stille.",
+                "hu": "Ne járasd feleslegesen a motort; élvezd a csendet.",
+                "ro": "Nu lăsați motorul pornit inutil; bucurați-vă de liniște.",
+                "en": "Don't leave the engine idling unnecessarily; enjoy the silence."
+              }
+            },
+            {
+              "name": "Howth Summit Cliff Walk",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Pfützen auf den asphaltierten Wegen.",
+                "hu": "Vigyázz a jeges tócsákra az aszfaltozott utakon.",
+                "ro": "Atenție la bălțile înghețate de pe potecile asfaltate.",
+                "en": "Watch out for frozen puddles on the paved sections of the path."
+              }
+            },
+            {
+              "name": "Baily Lighthouse",
+              "tip_5lang": {
+                "de": "Die Fernsicht ist im Winter am besten; Fernglas einpacken!",
+                "hu": "A kilátás télen a legjobb; csomagolj távcsövet!",
+                "ro": "Vizibilitatea este cea mai bună iarna; luați binoclul!",
+                "en": "Visibility is at its peak in winter; bring binoculars if you have them."
+              }
+            },
+            {
+              "name": "Harbour Car Park",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz als Basis für kurze Aufwärmpausen.",
+                "hu": "Használd a parkolót bázisként rövid felmelegedési szünetekhez.",
+                "ro": "Folosiți parcarea ca bază pentru scurte pauze de încălzire.",
+                "en": "Use the parking lot as a base for quick warm-up breaks."
+              }
+            },
+            {
+              "name": "Lunch in the Harbour",
+              "tip_5lang": {
+                "de": "Fragen Sie nach einem Fensterplatz, um die Wintersonne zu genießen.",
+                "hu": "Kérj ablak melletti asztalt, hogy élvezd a téli napsütést.",
+                "ro": "Cereți un loc la fereastră pentru a vă bucura de soarele de iarnă.",
+                "en": "Ask for a window seat to make the most of the limited winter sun."
+              }
+            },
+            {
+              "name": "Pier Walk & St. Mary's Abbey",
+              "tip_5lang": {
+                "de": "Der Boden in der Abtei kann gefroren und sehr rutschig sein.",
+                "hu": "Az apátság talaja fagyott és nagyon csúszós lehet.",
+                "ro": "Solul din abație poate fi înghețat și foarte alunecos.",
+                "en": "The ground inside the abbey ruins can be frozen and very slippery."
+              }
+            },
+            {
+              "name": "Howth Castle",
+              "tip_5lang": {
+                "de": "Die Gärten sind im Winterlicht besonders fotogen.",
+                "hu": "A kertek a téli fényben különösen fotogének.",
+                "ro": "Grădinile sunt deosebit de fotogenice în lumina iernii.",
+                "en": "The gardens are particularly photogenic in the low winter light."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie das Frostschutzmittel Ihrer Scheibenwaschanlage.",
+              "Vermeiden Sie steile Nebenstraßen, falls Bodenfrost gemeldet wurde.",
+              "Die Parkgebühren sind im Winter oft niedriger oder entfallen ganz.",
+              "Nehmen Sie eine Thermoskanne mit heißem Tee für die Pausen im Auto mit."
+            ],
+            "hu": [
+              "Ellenőrizd a szélvédőmosó fagyállóságát.",
+              "Kerüld a meredek mellékutcákat, ha talajmenti fagyot jeleztek.",
+              "A parkolási díjak télen gyakran alacsonyabbak vagy ingyenesek.",
+              "Vigyél magaddal egy termoszt forró teával az autóban tartott szünetekhez."
+            ],
+            "ro": [
+              "Verificați lichidul antigel pentru parbriz.",
+              "Evitați străzile secundare abrupte dacă s-a anunțat îngheț la sol.",
+              "Taxele de parcare sunt adesea mai mici sau inexistente iarna.",
+              "Luați un termos cu ceai fierbinte pentru pauzele din mașină."
+            ],
+            "en": [
+              "Check your windshield washer fluid for anti-freeze rating.",
+              "Avoid steep side streets if ground frost has been reported.",
+              "Parking fees are often lower or waived during the winter season.",
+              "Bring a thermos with hot tea for your breaks inside the car."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1422,6 +1986,188 @@
           "Check the last DART train time back to Dublin to avoid getting stranded.",
           "Most of Howth is walkable, so be prepared for walking."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ankunft an der Howth DART Station; der Regen prasselt gegen die Fenster des Zuges. Ein kurzer Sprint bringt uns zum schützenden Hafen.\n\nDer Hafen und die St. Mary's Abbey bieten trotz des Wetters faszinierende Einblicke. Mittags flüchten wir in die behagliche Wärme eines Restaurants.\n\nDer Bus zum Summit erspart uns den mühsamen Aufstieg im Regen. Oben angekommen, ist der Spaziergang kurz, aber durch die tiefhängenden Wolken sehr stimmungsvoll.\n\nDer Abstieg zum Martello Tower führt uns zurück ins Dorf, wo wir den Tag trocken in einem Café ausklingen lassen, bevor der Zug zurückfährt.",
+            "hu": "Megérkezés a Howth DART állomásra; az eső veri a vonat ablakát. Egy rövid sprint után máris a kikötő védelmében vagyunk.\n\nA kikötő és a St. Mary apátság az időjárás ellenére is lenyűgöző. Délben egy étterem barátságos melegébe menekülünk.\n\nA Summitra tartó busz megkímél minket a fárasztó esőben való kapaszkodástól. Fent a séta rövid, de a mélyen szálló felhők miatt nagyon hangulatos.\n\nAz ereszkedés a Martello-toronyhoz visszavisz minket a faluba, ahol egy kávézóban száradhatunk meg, mielőtt a vonat visszaindulna.",
+            "ro": "Sosirea la gara Howth DART; ploaia bate în ferestrele trenului. Un scurt sprint ne duce la adăpostul portului.\n\nPortul și Abația St. Mary oferă perspective fascinante în ciuda vremii. La prânz ne refugiem în căldura primitoare a unui restaurant.\n\nAutobuzul spre Summit ne scutește de urcarea obositoare prin ploaie. Sus, plimbarea este scurtă, dar foarte atmosferică datorită norilor joși.\n\nCoborârea spre Turnul Martello ne aduce înapoi în sat, unde încheiem ziua la uscat într-o cafenea, înainte de plecarea trenului.",
+            "en": "Arrival at Howth DART Station as rain drums against the train windows. A quick sprint brings us to the shelter of the harbour area.\n\nThe harbour and St. Mary's Abbey remain fascinating despite the drizzle. At noon, we retreat into the cozy warmth of a local restaurant.\n\nThe bus to the Summit saves us the strenuous climb in the rain. Once there, the walk is brief but atmospheric thanks to the low-hanging clouds.\n\nThe descent to Martello Tower leads us back to the village, where we can dry off in a café before the train journey back."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Howth DART Station",
+              "tip_5lang": {
+                "de": "Bleiben Sie auf dem Bahnsteig unter dem Dach, bis der Regen nachlässt.",
+                "hu": "Maradj a peronon a tető alatt, amíg alábbhagy az eső.",
+                "ro": "Stați pe peron sub acoperiș până când ploaia se mai potolește.",
+                "en": "Stay on the platform under the roof until the heaviest rain passes."
+              }
+            },
+            {
+              "name": "Howth Harbour & St. Mary's Abbey",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden am Hafen als trockenen Laufweg.",
+                "hu": "Használd a kikötői árkádokat száraz útvonalként.",
+                "ro": "Folosiți arcadele din port ca traseu uscat de mers.",
+                "en": "Use the harbour arcades as a dry walkway between stops."
+              }
+            },
+            {
+              "name": "Lunch near the Harbour",
+              "tip_5lang": {
+                "de": "Die Dichte an Lokalen hier minimiert die Zeit im Regen.",
+                "hu": "A sok vendéglátóhely miatt keveset kell az esőben lenni.",
+                "ro": "Densitatea localurilor de aici minimizează timpul petrecut în ploaie.",
+                "en": "The high density of pubs here means less time spent in the rain."
+              }
+            },
+            {
+              "name": "Bus to Howth Summit",
+              "tip_5lang": {
+                "de": "Die Buslinie 31 bringt Sie trocken direkt nach oben.",
+                "hu": "A 31-es buszjárat szárazon visz fel közvetlenül a tetőre.",
+                "ro": "Linia de autobuz 31 vă duce direct sus, la uscat.",
+                "en": "Bus route 31 will take you directly to the top, keeping you dry."
+              }
+            },
+            {
+              "name": "Summit Walk",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle bietet ein kleines Wartehäuschen bei Schauern.",
+                "hu": "A buszmegállóban van egy kis bódé zápor esetére.",
+                "ro": "Stația de autobuz are un mic adăpost în caz de averse.",
+                "en": "The bus stop has a small shelter in case of sudden downpours."
+              }
+            },
+            {
+              "name": "Descent & Martello Tower",
+              "tip_5lang": {
+                "de": "Der Weg bergab kann auf den Steinstufen rutschig sein.",
+                "hu": "A lefelé vezető úton a kőlépcsők csúszósak lehetnek.",
+                "ro": "Pe drumul de coborâre, treptele de piatră pot fi alunecoase.",
+                "en": "The path downhill can be slippery on the stone steps."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die 'Leap Card' für kontaktloses Bezahlen im Bus.",
+              "Die DART-Züge fahren alle 15-20 Minuten; Sie sind zeitlich flexibel.",
+              "Installieren Sie die TFI Live App für Echtzeit-Buszeiten.",
+              "Das Dorfzentrum ist kompakt; die Wege zwischen den Stopps sind kurz."
+            ],
+            "hu": [
+              "Használd a 'Leap Card'-ot az érintésmentes fizetéshez a buszon.",
+              "A DART vonatok 15-20 percenként járnak; rugalmas az időbeosztás.",
+              "Telepítsd a TFI Live alkalmazást a valós idejű buszmenetrendhez.",
+              "A falu központja kompakt; a megállók közötti utak rövidek."
+            ],
+            "ro": [
+              "Folosiți 'Leap Card' pentru plată contactless în autobuz.",
+              "Trenurile DART circulă la fiecare 15-20 de minute; sunteți flexibili.",
+              "Instalați aplicația TFI Live pentru orele de autobuz în timp real.",
+              "Centrul satului este compact; distanțele între opriri sunt scurte."
+            ],
+            "en": [
+              "Use a 'Leap Card' for easy, contactless payment on the bus.",
+              "DART trains run every 15-20 minutes, giving you great flexibility.",
+              "Install the TFI Live app for real-time bus arrival information.",
+              "The village center is compact, making walking between stops quick."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ankunft an der DART Station bei klirrender Kälte; die Heizung im Zug war herrlich. Ein kurzer Weg führt uns in das belebte Hafengebiet.\n\nDer Hafen und die Abtei von St. Mary strahlen im kühlen Winterlicht eine besondere Ruhe aus. Mittags lockt der Duft von frischer Suppe in die Pubs.\n\nDie Busfahrt zum Summit ist eine willkommene Aufwärmpause. Oben angekommen, ist die Luft so klar, dass man jedes Detail der Küste erkennen kann.\n\nDer Rückweg zum Martello Tower erfolgt vor Sonnenuntergang, um das goldene Licht zu nutzen, bevor uns der DART zurück ins Zentrum von Dublin bringt.",
+            "hu": "Megérkezés a DART állomásra a metsző hidegben; a fűtés a vonaton remek volt. Egy rövid séta után máris a nyüzsgő kikötői negyedben vagyunk.\n\nA kikötő és a St. Mary apátság a hűvös téli fényben különleges nyugalmat áraszt. Délben a friss leves illata csalogat be a pubokba.\n\nA buszozás a Summitra egy szívesen látott melegedő szünet. Fent a levegő olyan tiszta, hogy a part minden apró részlete látható.\n\nA visszavezető út a Martello-toronyhoz még naplemente előtt történik, hogy kihasználjuk az aranyló fényeket, mielőtt a DART visszavisz Dublinba.",
+            "ro": "Sosirea la gara DART în frigul tăios; încălzirea din tren a fost excelentă. O scurtă plimbare ne duce în zona plină de viață a portului.\n\nPortul și Abația St. Mary emană o liniște deosebită în lumina rece a iernii. La prânz, mirosul de supă proaspătă ne atrage în pub-uri.\n\nCălătoria cu autobuzul spre Summit este o pauză de încălzire binevenită. Sus, aerul este atât de clar încât se vede orice detaliu al coastei.\n\nDrumul de întoarcere spre Turnul Martello are loc înainte de apus, pentru a profita de lumina aurie, înainte ca DART să ne ducă înapoi în Dublin.",
+            "en": "Arrival at the DART Station in biting cold; the heating on the train was wonderful. A short walk leads us into the bustling harbour area.\n\nThe harbour and St. Mary's Abbey radiate a unique tranquility in the cool winter light. At noon, the scent of fresh soup draws us into the pubs.\n\nThe bus ride to the Summit is a welcome warm-up break. Once at the top, the air is so clear that every detail of the coastline is visible.\n\nThe return path to Martello Tower is timed before sunset to catch the golden hour before the DART carries us back to Dublin's city center."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Howth DART Station",
+              "tip_5lang": {
+                "de": "Warten Sie im beheizten Zug, bis alle Fahrgäste ausgestiegen sind.",
+                "hu": "Várd meg a fűtött vonaton, amíg minden utas leszáll.",
+                "ro": "Așteptați în trenul încălzit până când toți pasagerii au coborât.",
+                "en": "Wait inside the heated train until all other passengers have disembarked."
+              }
+            },
+            {
+              "name": "Howth Harbour & St. Mary's Abbey",
+              "tip_5lang": {
+                "de": "Gehen Sie stramm; die Kälte am Meer ist nicht zu unterschätzen.",
+                "hu": "Gyalogolj tempósan; a tengerparti hideg nem lebecsülendő.",
+                "ro": "Mergeți vioi; frigul de la malul mării nu este de subestimat.",
+                "en": "Walk briskly; the cold wind from the sea shouldn't be underestimated."
+              }
+            },
+            {
+              "name": "Lunch near the Harbour",
+              "tip_5lang": {
+                "de": "Ein Platz nah an der Tür kann durch ständiges Öffnen zugig sein.",
+                "hu": "Az ajtó melletti helyek a folyamatos nyitogatás miatt huzatosak lehetnek.",
+                "ro": "Locurile de lângă ușă pot fi curentate din cauza deschiderii constante.",
+                "en": "Avoid seats near the door as they can be drafty from people entering."
+              }
+            },
+            {
+              "name": "Bus to Howth Summit",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Oberstock des Busses für die beste Aussicht im Warmen.",
+                "hu": "Ülj a busz emeletére a legjobb kilátásért a melegben.",
+                "ro": "Urcați la etajul autobuzului pentru cea mai bună vedere, la căldură.",
+                "en": "Sit on the top deck of the bus for the best views while staying warm."
+              }
+            },
+            {
+              "name": "Summit Walk",
+              "tip_5lang": {
+                "de": "Die Wintersonne steht tief; Sonnenbrille gegen Blendung einpacken.",
+                "hu": "A téli nap alacsonyan jár; vigyél napszemüveget a vakítás ellen.",
+                "ro": "Soarele de iarnă este jos; luați ochelari de soare împotriva orbirii.",
+                "en": "The winter sun is very low; bring sunglasses to prevent glare."
+              }
+            },
+            {
+              "name": "Descent & Martello Tower",
+              "tip_5lang": {
+                "de": "Planen Sie den Rückweg so, dass Sie vor 16:30 Uhr am Bahnhof sind.",
+                "hu": "Úgy tervezd a visszautat, hogy 16:30-ra az állomáson legyél.",
+                "ro": "Planificați întoarcerea astfel încât să fiți la gară înainte de 16:30.",
+                "en": "Plan your return so you are back at the station by 4:30 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Züge sind im Winter meist sehr gut beheizt.",
+              "Nutzen Sie die Wartehalle im Bahnhof Howth für die Rückfahrt.",
+              "Kombinieren Sie Bus und Bahn, um die Zeit im Freien zu begrenzen.",
+              "Die Abfahrtszeiten der Busse sind im Winter strikt einzuhalten."
+            ],
+            "hu": [
+              "A vonatok télen általában nagyon jól fűtöttek.",
+              "Használd a howth-i állomás várótermét a visszaindulás előtt.",
+              "Kombináld a buszt és a vonatot, hogy keveset kelljen kint lenned.",
+              "A buszok indulási idejét télen szigorúan be kell tartani."
+            ],
+            "ro": [
+              "Trenurile sunt de obicei foarte bine încălzite iarna.",
+              "Folosiți sala de așteptare din gara Howth pentru întoarcere.",
+              "Combinați autobuzul și trenul pentru a limita timpul petrecut afară.",
+              "Respectați cu strictețe orele de plecare ale autobuzelor iarna."
+            ],
+            "en": [
+              "DART trains are usually very well-heated during the winter months.",
+              "Make use of the waiting room at Howth station before your return.",
+              "Combine bus and rail travel to limit your total time outdoors.",
+              "Bus schedules are strictly followed, so don't be late to the stop."
+            ]
+          }
+        }
       }
     }
   }

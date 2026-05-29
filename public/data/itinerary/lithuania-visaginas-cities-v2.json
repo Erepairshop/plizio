@@ -296,6 +296,188 @@
           "Wear comfortable shoes as you'll be walking for most of the day.",
           "A reusable water bottle is a good idea, especially for your time at the lake."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag unter dem Regenschirm am Gründungsdenkmal. Die sowjetische Architektur wirkt bei Regen besonders authentisch und atmosphärisch. Mittags bietet das Kulturzentrum einen trockenen Zufluchtsort mit lokalen Ausstellungen. Nachmittags besuchen Sie die moderne Kirche, bevor Sie den windigen Spaziergang am Seeufer beenden, wo der Regen die Kiefernwälder besonders intensiv duften lässt.",
+            "hu": "Kezdje az esős reggelt az alapítók emlékművénél, ahol a betonfelületek különös csillogást kapnak. A tervezett városi architektúra brutalista bája esőben még erőteljesebb. Délben a Kulturális Központ kínál menedéket és kiállításokat. Délután a templom belső békéje várja, majd egy frissítő, illatos séta a tónál zárja a napot, ahol a fenyvesek illata ilyenkor a legintenzívebb.",
+            "ro": "Începeți dimineața sub umbrelă la Monumentul Fondatorilor, admirând estetica urbană unică. Arhitectura planificată a orașului are un farmec aparte în zilele ploioase. La prânz, Centrul Cultural oferă un refugiu uscat și expoziții locale. După-amiaza vizitați biserica, iar seara încheiați cu o plimbare revigorantă pe malul lacului, unde mirosul pinilor este amplificat de umiditate.",
+            "en": "Start your rainy morning at the Founders' Monument, where the urban lines look sharp against the grey sky. The planned city architecture feels particularly authentic in this weather. At noon, the Cultural Centre provides a dry haven with local art. In the afternoon, find peace in the church before a final stroll by the lake, where the rain brings out the deep scent of the surrounding pine forest."
+          },
+          "stops": [
+            {
+              "name": "Monument to the Founders",
+              "tip_5lang": {
+                "de": "Kurzer Aufenthalt, halten Sie den Schirm wegen der offenen Fläche bereit.",
+                "hu": "Rövid megálló, tartsa készenlétben az esernyőt a nyitott téren.",
+                "ro": "Oprire scurtă, țineți umbrela pregătită pe platforma deschisă.",
+                "en": "Short stop, keep your umbrella ready as the area is quite exposed."
+              }
+            },
+            {
+              "name": "Planned City Architecture",
+              "tip_5lang": {
+                "de": "Betrachten Sie die Fassaden von den überdachten Gehwegen der Wohnhäuser.",
+                "hu": "Figyelje meg a homlokzatokat a lakóépületek fedett aluljárói alól.",
+                "ro": "Observați fațadele de sub pasajele acoperite ale blocurilor de locuințe.",
+                "en": "Observe the facades from under the covered walkways of the apartment blocks."
+              }
+            },
+            {
+              "name": "Visaginas Cultural Centre",
+              "tip_5lang": {
+                "de": "Idealer Ort, um sich aufzuwärmen und Kleidung zu trocknen.",
+                "hu": "Ideális hely a felmelegedésre és a ruhák megszárítására.",
+                "ro": "Locul ideal pentru a vă încălzi și a vă usca hainele.",
+                "en": "Ideal place to warm up and dry your clothes while exploring."
+              }
+            },
+            {
+              "name": "Church of All Saints",
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille im Inneren, während es draußen regnet.",
+                "hu": "Élvezze a belső csendet, miközben odakint esik az eső.",
+                "ro": "Bucurați-vă de liniștea din interior în timp ce afară plouă.",
+                "en": "Enjoy the peaceful interior while it rains outside."
+              }
+            },
+            {
+              "name": "Crane Statue",
+              "tip_5lang": {
+                "de": "Schnelles Foto; die Metalloberfläche glänzt schön im Regen.",
+                "hu": "Gyors fotó; a fémfelület szépen csillog az esőben.",
+                "ro": "Fotografie rapidă; suprafața metalică lucește frumos în ploaie.",
+                "en": "Quick photo; the metal surface glimmers nicely in the rain."
+              }
+            },
+            {
+              "name": "Lake Visaginas",
+              "tip_5lang": {
+                "de": "Vorsicht vor Pfützen auf den Uferwegen; wasserfeste Schuhe sind Pflicht.",
+                "hu": "Vigyázzon a tóparti pocsolyákra; vízálló cipő kötelező.",
+                "ro": "Atenție la bălțile de pe mal; încălțămintea impermeabilă este obligatorie.",
+                "en": "Watch out for puddles on the lake paths; waterproof shoes are a must."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Wanderschuhe, da die Waldwege schlammig sein können.",
+              "Die Durchgänge unter den Plattenbauten bieten oft guten Schutz vor Schauern.",
+              "Nutzen Sie die Einkaufszentren im Zentrum für zusätzliche Pausen im Trockenen.",
+              "Ein Taschenschirm ist bei den teils böigen Winden am See praktischer als ein Stockschirm."
+            ],
+            "hu": [
+              "Viseljen vízálló túracipőt, mert az erdei utak sárgásak lehetnek.",
+              "A lakótelepi épületek közötti átjárók jó menedéket nyújtanak a záporok elől.",
+              "Használja a központi bevásárlóközpontokat extra pihenőhelyként szárazon.",
+              "Az összecsukható esernyő praktikusabb a tóparti szelesebb részeken."
+            ],
+            "ro": [
+              "Purtați încălțăminte de drumeție impermeabilă, potecile pot fi noroioase.",
+              "Pasajele dintre blocuri oferă adesea o protecție bună împotriva averselor.",
+              "Folosiți centrele comerciale din centru pentru pauze suplimentare la uscat.",
+              "O umbrelă pliabilă este mai practică în zonele vântoase de lângă lac."
+            ],
+            "en": [
+              "Wear waterproof hiking shoes as the forest paths can get muddy.",
+              "The passages under the apartment blocks often provide good shelter from showers.",
+              "Use the central shopping centers for extra breaks in the dry.",
+              "A folding umbrella is more practical in the windy areas by the lake."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie Visaginas als Wintermärchen. Der Morgen am Denkmal ist oft von klarem Frost geprägt. Mittags bestaunen Sie die schneebedeckte Architektur des 'Schmetterlings'. Das Kulturzentrum bietet gemütliche Wärme vor dem Besuch der festlich beleuchteten Kirche. Den Nachmittag verbringen Sie am zugefrorenen See, bevor die Dunkelheit gegen 16 Uhr einsetzt und die Stadtlichter im Schnee funkeln.",
+            "hu": "Ismerje meg Visaginast téli meseként. A reggel az emlékműnél gyakran deres és friss. Napközben csodálja meg a 'pillangó' város havas architektúráját. A Kulturális Központ meleg menedéket nyújt a díszesen kivilágított templom előtt. A délutánt a befagyott tónál töltse, mielőtt 16 óra körül leszáll az éj, és a város fényei megcsillannak a havon.",
+            "ro": "Descoperiți Visaginas ca o poveste de iarnă. Dimineața la monument este adesea marcată de ger și chiciură. În timpul zilei, admirați arhitectura înzăpezită a orașului în formă de 'fluture'. Centrul Cultural oferă căldură înainte de a vizita biserica luminată festiv. Petreceți după-amiaza la lacul înghețat, înainte ca întunericul să se lase în jurul orei 16:00.",
+            "en": "Experience Visaginas as a winter fairytale. The morning at the monument is often crisp and frosty. During the day, admire the snow-covered architecture of the 'butterfly' city. The Cultural Centre provides cozy warmth before visiting the festively lit church. Spend the afternoon by the frozen lake before darkness falls around 4 PM and city lights sparkle in the snow."
+          },
+          "stops": [
+            {
+              "name": "Monument to the Founders",
+              "tip_5lang": {
+                "de": "Vorsicht vor Glätte auf den Steinstufen; tragen Sie griffige Sohlen.",
+                "hu": "Vigyázzon a csúszós kőlépcsőkre; viseljen tapadós talpú cipőt.",
+                "ro": "Atenție la gheața de pe treptele de piatră; purtați tălpi aderente.",
+                "en": "Beware of ice on the stone steps; wear shoes with good grip."
+              }
+            },
+            {
+              "name": "Planned City Architecture",
+              "tip_5lang": {
+                "de": "Die Geometrie der Stadt ist bei Schnee aus der Fußgängerperspektive beeindruckend.",
+                "hu": "A város geometriája hóban, gyalogos perspektívából is lenyűgöző.",
+                "ro": "Geometria orașului este impresionantă sub zăpadă din perspectiva pietonului.",
+                "en": "The city's geometry is impressive under snow from a pedestrian perspective."
+              }
+            },
+            {
+              "name": "Visaginas Cultural Centre",
+              "tip_5lang": {
+                "de": "Holen Sie sich hier einen heißen Tee zum Aufwärmen.",
+                "hu": "Igyon itt egy forró teát a felmelegedéshez.",
+                "ro": "Luați un ceai fierbinte aici pentru a vă încălzi.",
+                "en": "Get a hot tea here to warm up during your walk."
+              }
+            },
+            {
+              "name": "Church of All Saints",
+              "tip_5lang": {
+                "de": "Oft festlich geschmückt; ein warmer Ort für Besinnung.",
+                "hu": "Gyakran ünnepi díszben áll; meleg hely az elcsendesedéshez.",
+                "ro": "Adesea decorată festiv; un loc cald pentru meditație.",
+                "en": "Often festively decorated; a warm place for reflection."
+              }
+            },
+            {
+              "name": "Crane Statue",
+              "tip_5lang": {
+                "de": "Der Metallkranich wirkt im weißen Schnee besonders majestätisch.",
+                "hu": "A fémdaru a fehér hóban különösen fenségesen mutat.",
+                "ro": "Cocorul de metal arată deosebit de maiestuos în zăpada albă.",
+                "en": "The metal crane looks particularly majestic against the white snow."
+              }
+            },
+            {
+              "name": "Lake Visaginas",
+              "tip_5lang": {
+                "de": "Betreten Sie das Eis nur, wenn es offiziell freigegeben ist.",
+                "hu": "Csak akkor menjen a jégre, ha azt hivatalosan engedélyezik.",
+                "ro": "Intrați pe gheață doar dacă este permis oficial.",
+                "en": "Only step onto the ice if it is officially permitted."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Dezember bereits gegen 15:45 Uhr unter.",
+              "Thermounterwäsche ist für längere Spaziergänge in den Kiefernwäldern ratsam.",
+              "Hauptwege werden geräumt, aber Nebenpfade können tief verschneit sein.",
+              "Tragen Sie Reflektoren, da es in Litauen früh und sehr dunkel wird."
+            ],
+            "hu": [
+              "A nap decemberben már 15:45 körül lemegy.",
+              "A termikus alsónemű ajánlott a fenyőerdőben tett hosszabb sétákhoz.",
+              "A főutakat takarítják, de a mellékutak mélyen havasak lehetnek.",
+              "Viseljen fényvisszaverőt, mert Litvániában korán és nagyon sötét lesz."
+            ],
+            "ro": [
+              "Soarele apune deja în jurul orei 15:45 în decembrie.",
+              "Lenjeria termică este recomandată pentru plimbări lungi în pădurea de pini.",
+              "Drumurile principale sunt curățate, dar potecile secundare pot fi înzăpezite.",
+              "Purtați reflectorizante, deoarece în Lituania se întunecă devreme și tare."
+            ],
+            "en": [
+              "The sun sets as early as 3:45 PM in December.",
+              "Thermal underwear is advised for longer walks in the pine forests.",
+              "Main paths are cleared, but side trails may have deep snow.",
+              "Wear reflectors, as it gets dark early and very quickly in Lithuania."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -613,6 +795,206 @@
           "Bring a lock to secure your bike at stops.",
           "Some trails in the Smalvas Reserve may not be suitable for thin tires."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine nasse Fahrt durch die Kiefernwälder von Visaginas. Der Morgen beginnt am Kulturzentrum, gefolgt von einer schnellen Fahrt durch die Stadtarchitektur. Trotz Regen ist die Strecke zum See belebend, wobei die asphaltierten Wege gute Bodenhaftung bieten. Mittags stärken Sie sich im Trockenen, bevor Sie die Waldwege des Smalvas-Reservats erkunden, die im Regen mystisch wirken.",
+            "hu": "Vizes tekerés Visaginas fenyőerdőin keresztül. A reggel a Kulturális Központnál indul, majd gyors suhanás következik a városi épületek között. Az eső ellenére a tóparti út üdítő, az aszfaltozott utak jó tapadást biztosítanak. Délben száraz helyen pihenjen, mielőtt felfedezné a Smalvas rezervátum esőben misztikus erdei ösvényeit.",
+            "ro": "O plimbare umedă prin pădurile de pini din Visaginas. Dimineața începe la Centrul Cultural, urmată de o tură rapidă prin arhitectura orașului. În ciuda ploii, drumul spre lac este revigorant, pistele asfaltate oferind aderență bună. La prânz odihniți-vă la uscat înainte de a explora potecile mistice din rezervația Smalvas.",
+            "en": "A wet ride through the pine forests of Visaginas. The morning starts at the Cultural Centre, followed by a quick zip through the city's architecture. Despite the rain, the lake route is refreshing, with paved paths providing good grip. Rest in the dry at noon before exploring the forest trails of the Smalvas Reserve, which look mystical in the rain."
+          },
+          "stops": [
+            {
+              "name": "Visaginas Cultural Centre",
+              "tip_5lang": {
+                "de": "Prüfen Sie hier Ihre Regenbekleidung, bevor Sie losfahren.",
+                "hu": "Ellenőrizze itt az esőfelszerelését, mielőtt útnak indul.",
+                "ro": "Verificați-vă echipamentul de ploaie aici înainte de a pleca.",
+                "en": "Check your rain gear here before setting off on your ride."
+              }
+            },
+            {
+              "name": "Founders' Monument & Planned Architecture",
+              "tip_5lang": {
+                "de": "Vorsicht vor rutschigen Markierungen auf der Fahrbahn.",
+                "hu": "Vigyázzon az úttesten lévő csúszós felfestésekkel.",
+                "ro": "Atenție la marcajele alunecoase de pe carosabil.",
+                "en": "Be careful with slippery road markings on the pavement."
+              }
+            },
+            {
+              "name": "Church of All Saints",
+              "tip_5lang": {
+                "de": "Sicherer Fahrradabstellplatz unter dem Vordach suchen.",
+                "hu": "Keressen biztonságos biciklitárolót az előtető alatt.",
+                "ro": "Căutați un loc sigur de parcare pentru biciclete sub streașină.",
+                "en": "Look for a secure bike parking spot under the eaves."
+              }
+            },
+            {
+              "name": "Lake Visaginas Promenade",
+              "tip_5lang": {
+                "de": "Gischt vom See möglich; halten Sie Abstand zum Uferrand.",
+                "hu": "A tó felől vízpermet érheti; tartson távolságot a part szélétől.",
+                "ro": "Posibil spray de apă de la lac; păstrați distanța de marginea țărmului.",
+                "en": "Lake spray possible; keep a safe distance from the water's edge."
+              }
+            },
+            {
+              "name": "Lunch at the Lake",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit überdachtem Stellplatz für Ihr Rad.",
+                "hu": "Válasszon olyan éttermet, ahol fedett helyen hagyhatja a gépet.",
+                "ro": "Alegeți un restaurant cu parcare acoperită pentru bicicletă.",
+                "en": "Choose a restaurant with a covered spot for your bike."
+              }
+            },
+            {
+              "name": "Smalvas Landscape Reserve",
+              "tip_5lang": {
+                "de": "Waldwege können schlammig sein; Schutzbleche sind sehr empfohlen.",
+                "hu": "Az erdei utak sárgásak lehetnek; sárvédő erősen ajánlott.",
+                "ro": "Potecile din pădure pot fi noroioase; aripile sunt recomandate.",
+                "en": "Forest trails can be muddy; mudguards are highly recommended."
+              }
+            },
+            {
+              "name": "Return to City Centre",
+              "tip_5lang": {
+                "de": "Reinigen Sie Kette und Bremsen nach der nassen Fahrt.",
+                "hu": "Tisztítsa meg a láncot és a fékeket a vizes út után.",
+                "ro": "Curățați lanțul și frânele după tura pe ploaie.",
+                "en": "Clean your chain and brakes after the wet ride."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie neongelbe Regenbekleidung für bessere Sichtbarkeit im Wald.",
+              "Vermeiden Sie scharfe Bremsmanöver auf nassem Laub.",
+              "Die asphaltierten Radwege in Visaginas leiten Wasser meist gut ab.",
+              "Ein wasserdichter Rucksack schützt Ihre Wertsachen vor Feuchtigkeit."
+            ],
+            "hu": [
+              "Viseljen fényvisszaverő esőruhát a jobb láthatóságért az erdőben.",
+              "Kerülje a hirtelen fékezést a vizes leveleken.",
+              "Visaginas aszfaltozott kerékpárútjai jól elvezetik a vizet.",
+              "A vízálló hátizsák megvédi értékeit a nedvességtől."
+            ],
+            "ro": [
+              "Purtați haine de ploaie reflectorizante pentru vizibilitate în pădure.",
+              "Evitați frânările bruște pe frunzele ude.",
+              "Pistele de biciclete asfaltate din Visaginas drenează bine apa.",
+              "Un rucsac impermeabil vă va proteja obiectele de valoare."
+            ],
+            "en": [
+              "Wear high-visibility rain gear for better visibility in the forest.",
+              "Avoid sharp braking on wet leaves.",
+              "The paved bike paths in Visaginas usually drain water well.",
+              "A waterproof backpack will protect your valuables from moisture."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine frostige Radtour durch die 'Stadt im Wald'. Starten Sie warm eingepackt am Kulturzentrum. Die Fahrt führt durch die schneebedeckten Straßen zur Kirche. Am See genießen Sie die Stille der Winterlandschaft, bevor Sie sich mittags bei einem heißen Essen stärken. Der Ausflug zum Smalvas-Reservat erfordert Ausdauer bei Kälte, belohnt aber mit unberührter Natur im Winterschlaf.",
+            "hu": "Fagyos biciklitúra az 'erdőbe épült városban'. Induljon melegen felöltözve a Kulturális Központtól. Az út a havas utcákon át vezet a templomig. A tónál élvezze a téli táj csendjét, majd délben melegedjen fel egy forró étellel. A Smalvas rezervátumhoz vezető út kitartást igényel a hidegben, de érintetlen téli természettel hálálja meg.",
+            "ro": "O tură cu bicicleta prin 'orașul din pădure'. Plecați bine echipat de la Centrul Cultural. Drumul trece prin străzile înzăpezite spre biserică. La lac, bucurați-vă de liniștea peisajului de iarnă, apoi încălziți-vă cu o masă caldă la prânz. Excursia la rezervația Smalvas necesită rezistență la frig.",
+            "en": "A frosty bike tour through the 'city in the forest'. Start warmly dressed at the Cultural Centre. The ride takes you through snow-covered streets to the church. At the lake, enjoy the silence of the winter landscape before warming up with a hot lunch. The trip to the Smalvas Reserve requires stamina in the cold but rewards with untouched nature."
+          },
+          "stops": [
+            {
+              "name": "Visaginas Cultural Centre",
+              "tip_5lang": {
+                "de": "Starten Sie nur mit voll geladenen Lichtern in den kurzen Tag.",
+                "hu": "Csak teljesen feltöltött lámpákkal induljon el a rövid napon.",
+                "ro": "Porniți la drum doar cu luminile complet încărcate.",
+                "en": "Only start your ride with fully charged lights for the short day."
+              }
+            },
+            {
+              "name": "Founders' Monument & Planned Architecture",
+              "tip_5lang": {
+                "de": "Vorsicht vor festgefahrenem Schnee in den Kurven.",
+                "hu": "Vigyázzon a letaposott hóra a kanyarokban.",
+                "ro": "Atenție la zăpada bătătorită în curbe.",
+                "en": "Beware of packed snow in the corners."
+              }
+            },
+            {
+              "name": "Church of All Saints",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad so ab, dass die Bremsen nicht einfrieren.",
+                "hu": "Úgy parkoljon le, hogy a fékek ne fagyjanak be.",
+                "ro": "Parcați bicicleta astfel încât frânele să nu înghețe.",
+                "en": "Park your bike so that the brakes don't freeze up."
+              }
+            },
+            {
+              "name": "Lake Visaginas Promenade",
+              "tip_5lang": {
+                "de": "Windchill-Faktor am Ufer beachten; warme Handschuhe sind nötig.",
+                "hu": "Figyeljen a szélhűtésre a parton; meleg kesztyű szükséges.",
+                "ro": "Atenție la factorul de răcire a vântului; mănușile groase sunt necesare.",
+                "en": "Watch out for wind chill by the lake; warm gloves are essential."
+              }
+            },
+            {
+              "name": "Lunch at the Lake",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Pause, um die Akkus elektronischer Geräte zu wärmen.",
+                "hu": "Használja ki a szünetet az elektronikus eszközök akkuinak melegítésére.",
+                "ro": "Folosiți pauza pentru a încălzi bateriile dispozitivelor electronice.",
+                "en": "Use the break to warm up the batteries of your electronic devices."
+              }
+            },
+            {
+              "name": "Smalvas Landscape Reserve",
+              "tip_5lang": {
+                "de": "Fahren Sie nur auf geräumten Wegen; tiefer Schnee stoppt das Rad.",
+                "hu": "Csak takarított úton haladjon; a mély hó megállítja a gépet.",
+                "ro": "Circulați doar pe drumuri curățate; zăpada adâncă oprește bicicleta.",
+                "en": "Only ride on cleared paths; deep snow will stop the bike."
+              }
+            },
+            {
+              "name": "Return to City Centre",
+              "tip_5lang": {
+                "de": "Salzreste am Rad nach der Tour mit warmem Wasser abspülen.",
+                "hu": "A túra után meleg vízzel mossa le a sót a bicikliről.",
+                "ro": "Clătiți resturile de sare de pe bicicletă cu apă caldă după tură.",
+                "en": "Rinse off salt residue from the bike with warm water after the tour."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Spikereifen sind bei eisigen Bedingungen in Litauen sehr hilfreich.",
+              "Vermeiden Sie langes Stehenbleiben, um Auskühlung zu verhindern.",
+              "Die Luftpumpe sollte frostbeständiges Fett enthalten.",
+              "Trinken Sie ausreichend, auch wenn Sie bei Kälte weniger Durst verspüren."
+            ],
+            "hu": [
+              "A szöges gumik nagyon hasznosak a jeges litván utakon.",
+              "Kerülje a hosszú megállásokat a lehűlés megelőzése érdekében.",
+              "A pumpának fagyálló zsírral kell rendelkeznie.",
+              "Igyon eleget, még akkor is, ha hidegben kevésbé érzi szomjasnak magát."
+            ],
+            "ro": [
+              "Anvelopele cu ținte sunt foarte utile în condiții de gheață în Lituania.",
+              "Evitați opririle lungi pentru a preveni răcirea corpului.",
+              "Pompa de aer ar trebui să conțină vaselină rezistentă la îngheț.",
+              "Beți suficiente lichide, chiar dacă simțiți mai puțină sete la frig."
+            ],
+            "en": [
+              "Studded tires are very helpful for icy conditions in Lithuania.",
+              "Avoid long stops to prevent your body temperature from dropping.",
+              "Ensure your bike pump contains frost-resistant grease.",
+              "Drink plenty of fluids, even if you feel less thirsty in the cold."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -917,6 +1299,188 @@
           "Check parking regulations in the city centre.",
           "Have some cash on hand for small purchases or parking fees."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein komfortabler Tag trotz Regen. Besuchen Sie morgens das Kernkraftwerk Ignalina, ein beeindruckendes Industriedenkmal im Nebel. Danach geht es zurück ins Zentrum für ein gemütliches Mittagessen. Der Nachmittag am See und im Smalvas-Reservat lässt sich gut mit kurzen Stopps kombinieren, wobei das Auto als trockene Basis für die Erkundung der weiten Natur dient.",
+            "hu": "Kényelmes nap az eső ellenére is. Reggel látogasson el az Ignalina atomerőműhöz, amely lenyűgöző ipari műemlék a ködben. Ezután térjen vissza a központba egy barátságos ebédre. A tóparti és Smalvas rezervátumbeli délután rövid megállókkal is teljesíthető, az autó száraz bázisként szolgál a természet felfedezéséhez.",
+            "ro": "O zi confortabilă în ciuda ploii. Dimineața vizitați centrala nucleară Ignalina, un monument industrial impresionant în ceață. Apoi reveniți în centru pentru un prânz plăcut. După-amiaza la lac și în rezervația Smalvas poate fi explorată cu opriri scurte, mașina fiind baza uscată.",
+            "en": "A comfortable day despite the rain. Visit the Ignalina Nuclear Power Plant in the morning, an impressive industrial monument in the fog. Then head back to the centre for a cozy lunch. The afternoon at the lake and Smalvas Reserve can be done with short stops, using the car as a dry base for exploring nature."
+          },
+          "stops": [
+            {
+              "name": "Ignalina Nuclear Power Plant",
+              "tip_5lang": {
+                "de": "Buchen Sie die Tour im Voraus; idealer Indoor-Stopp bei Regen.",
+                "hu": "Foglalja le a túrát előre; ideális benti program esőben.",
+                "ro": "Rezervați turul în avans; oprire ideală la interior pe ploaie.",
+                "en": "Book the tour in advance; it's an ideal indoor stop when it rains."
+              }
+            },
+            {
+              "name": "Visaginas City Centre Car Park",
+              "tip_5lang": {
+                "de": "Zentraler Parkplatz, nah an Geschäften und Cafés.",
+                "hu": "Központi parkoló, közel az üzletekhez és kávézókhoz.",
+                "ro": "Parcare centrală, aproape de magazine și cafenele.",
+                "en": "Central parking, close to shops and cafes for quick access."
+              }
+            },
+            {
+              "name": "Monument to the Founders",
+              "tip_5lang": {
+                "de": "Parken Sie direkt daneben für einen kurzen, trockenen Besuch.",
+                "hu": "Parkoljon közvetlenül mellette egy rövid, száraz látogatáshoz.",
+                "ro": "Parcați chiar lângă pentru o vizită scurtă și uscată.",
+                "en": "Park right next to it for a short, dry visit to the monument."
+              }
+            },
+            {
+              "name": "Lunch in the city centre",
+              "tip_5lang": {
+                "de": "Viele Restaurants haben eigene Parkplätze für Gäste.",
+                "hu": "Sok étteremnek van saját parkolója a vendégek számára.",
+                "ro": "Multe restaurante au parcări proprii pentru clienți.",
+                "en": "Many restaurants have their own parking spots for guests."
+              }
+            },
+            {
+              "name": "Lake Visaginas",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den See direkt aus dem Auto.",
+                "hu": "Élvezze a tóra nyíló kilátást közvetlenül az autóból.",
+                "ro": "Bucurați-vă de vederea spre lac direct din mașină.",
+                "en": "Enjoy the lake view directly from the car if it's pouring."
+              }
+            },
+            {
+              "name": "Smalvas Landscape Reserve",
+              "tip_5lang": {
+                "de": "Die Zufahrtswege können bei starkem Regen rutschig sein.",
+                "hu": "Az odavezető utak heves esőben csúszósak lehetnek.",
+                "ro": "Drumurile de acces pot fi alunecoase în caz de ploaie abundentă.",
+                "en": "Access roads can be slippery during heavy rain; drive carefully."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Zustand der Scheibenwischer vor der Fahrt durch die Wälder.",
+              "Nebelscheinwerfer sind bei der Fahrt zum Kernkraftwerk oft nützlich.",
+              "Das Parken im Zentrum von Visaginas ist unkompliziert und meist nah an Zielen.",
+              "Halten Sie Decken im Auto bereit, falls Sie nach einem Regenspaziergang auskühlen."
+            ],
+            "hu": [
+              "Ellenőrizze az ablaktörlők állapotát az erdei utak előtt.",
+              "A ködlámpa gyakran hasznos az atomerőmű felé vezető úton.",
+              "A parkolás Visaginas központjában egyszerű és közel van a célokhoz.",
+              "Tartson takarót az autóban, ha egy esős séta után áthűlne."
+            ],
+            "ro": [
+              "Verificați starea ștergătoarelor înainte de drumul prin pădure.",
+              "Proiectoarele de ceață sunt adesea utile spre centrala nucleară.",
+              "Parcarea în centrul orașului Visaginas este simplă și aproape de obiective.",
+              "Țineți pături în mașină în caz că vă e frig după o plimbare prin ploaie."
+            ],
+            "en": [
+              "Check the condition of your wipers before driving through the forests.",
+              "Fog lights are often useful on the road to the nuclear power plant.",
+              "Parking in the center of Visaginas is straightforward and usually close by.",
+              "Keep blankets in the car in case you get cold after a rainy walk."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Entdecken Sie das winterliche Visaginas sicher mit dem Auto. Der Morgen beginnt am monumentalen Kernkraftwerk Ignalina, das im Schnee wie aus einem Science-Fiction-Film wirkt. Nach dem Mittagessen im warmen Zentrum erkunden Sie die verschneiten Ufer des Visaginas-Sees und das Smalvas-Reservat. Die Heizung im Auto ermöglicht es Ihnen, die frostige Schönheit der litauischen Natur ohne Frieren zu genießen.",
+            "hu": "Fedezze fel a téli Visaginast biztonságosan, autóval. A reggel az Ignalina atomerőműnél indul, amely a hóban úgy fest, mint egy sci-fi film díszlete. A meleg központban elköltött ebéd után fedezze fel a Visaginas-tó havas partját és a Smalvas rezervátumot. Az autó fűtése lehetővé teszi, hogy fázás nélkül élvezze a litván természet fagyos szépségét.",
+            "ro": "Explorați Visaginasul de iarnă în siguranță cu mașina. Dimineața începe la centrala Ignalina, care sub zăpadă arată ca dintr-un film sci-fi. După prânzul în centrul călduros, descoperiți malurile înzăpezite ale lacului și rezervația Smalvas. Căldura din mașină vă permite să vă bucurați de frumusețea gerului fără a îngheța.",
+            "en": "Discover winter Visaginas safely by car. The morning starts at the monumental Ignalina NPP, which looks like a sci-fi set in the snow. After lunch in the warm city center, explore the snowy shores of Lake Visaginas and the Smalvas Reserve. The car's heating allows you to enjoy the frosty beauty of Lithuanian nature without freezing."
+          },
+          "stops": [
+            {
+              "name": "Ignalina Nuclear Power Plant",
+              "tip_5lang": {
+                "de": "Die Zufahrtsstraße wird gut geräumt, kann aber glatt sein.",
+                "hu": "Az odavezető utat jól takarítják, de jeges lehet.",
+                "ro": "Drumul de acces este bine curățat, dar poate fi alunecos.",
+                "en": "The access road is well cleared but can be slippery; drive slow."
+              }
+            },
+            {
+              "name": "Visaginas City Centre Car Park",
+              "tip_5lang": {
+                "de": "Achten Sie auf Schneehaufen beim Einparken.",
+                "hu": "Vigyázzon a hóbuckákra parkoláskor.",
+                "ro": "Atenție la mormanele de zăpadă când parcați.",
+                "en": "Watch out for snow piles when parking your vehicle."
+              }
+            },
+            {
+              "name": "Monument to the Founders",
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor nicht unnötig im Leerlauf laufen.",
+                "hu": "Ne járassa feleslegesen a motort alapjáraton.",
+                "ro": "Nu lăsați motorul pornit inutil în staționare.",
+                "en": "Avoid idling the engine unnecessarily while viewing the monument."
+              }
+            },
+            {
+              "name": "Lunch in the city centre",
+              "tip_5lang": {
+                "de": "Schütteln Sie den Schnee von den Schuhen, bevor Sie einsteigen.",
+                "hu": "Rázza le a havat a cipőjéről, mielőtt beszállna.",
+                "ro": "Scuturați zăpada de pe încălțăminte înainte de a urca în mașină.",
+                "en": "Shake the snow off your boots before getting back into the car."
+              }
+            },
+            {
+              "name": "Lake Visaginas",
+              "tip_5lang": {
+                "de": "Parkplätze am See können im Winter eingeschränkt sein.",
+                "hu": "A tóparti parkolók télen korlátozottak lehetnek.",
+                "ro": "Parcările de lângă lac pot fi limitate pe timp de iarnă.",
+                "en": "Lake parking spots might be limited during heavy snowfall."
+              }
+            },
+            {
+              "name": "Smalvas Landscape Reserve",
+              "tip_5lang": {
+                "de": "Fahren Sie nur ein, wenn Sie Winterreifen und Schaufel dabei haben.",
+                "hu": "Csak akkor hajtson be, ha van téli gumija és hólapátja.",
+                "ro": "Intrați doar dacă aveți anvelope de iarnă și o lopată.",
+                "en": "Only enter the reserve with winter tires and a snow shovel."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in Litauen ab dem 10. November gesetzlich vorgeschrieben.",
+              "Füllen Sie frostbeständiges Scheibenwischwasser bis -25°C ein.",
+              "Ein Eiskratzer und ein kleiner Besen sind im Winter unverzichtbar.",
+              "Die Dämmerung beginnt früh; prüfen Sie alle Lichter am Fahrzeug."
+            ],
+            "hu": [
+              "Litvániában november 10-től kötelező a téli gumi.",
+              "Töltsön be legalább -25°C-ig fagyálló ablakmosó folyadékot.",
+              "A jégkaparó és a kisseprű elengedhetetlen télen.",
+              "A szürkület korán kezdődik; ellenőrizze az összes lámpát a járművön."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii în Lituania din 10 noiembrie.",
+              "Folosiți lichid de parbriz rezistent la îngheț până la -25°C.",
+              "Răzuitoarea de gheață și o perie mică sunt indispensabile iarna.",
+              "Amurgul începe devreme; verificați toate luminile vehiculului."
+            ],
+            "en": [
+              "Winter tires are mandatory in Lithuania from November 10th.",
+              "Fill up with anti-freeze screen wash rated for at least -25°C.",
+              "An ice scraper and a small brush are essential in winter.",
+              "Twilight starts early; check all vehicle lights before heading out."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1181,6 +1745,188 @@
           "Download an offline map to your phone to help navigate between stops.",
           "Be aware of the last bus departure times from more remote locations."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den lokalen Bus, um Visaginas bei Regen zu erkunden. Morgens bringt Sie der Transit zum Kernkraftwerk Ignalina, wo Sie trocken ankommen. Zurück im Zentrum springen Sie von Bus zu Bus, um das Kulturzentrum und die Kirche zu besuchen. Den Tag schließen Sie am See ab, wobei die Busstationen oft gute Unterstände bieten, während Sie auf die Rückfahrt warten.",
+            "hu": "Használja a helyi buszt Visaginas felfedezéséhez esőben is. Reggel a járat elviszi az Ignalina atomerőműhöz, így szárazon érkezik meg. Visszatérve a központba, busszal közlekedhet a Kulturális Központ és a templom között. A napot a tónál zárhatja, a buszmegállók pedig fedett menedéket nyújtanak várakozás közben.",
+            "ro": "Folosiți autobuzul local pentru a explora Visaginasul pe ploaie. Dimineața, transportul vă duce la centrala Ignalina, ajungând la uscat. Revenit în centru, mergeți cu autobuzul între Centrul Cultural și biserică. Încheiați ziua la lac, stațiile de autobuz oferind adăpost în timp ce așteptați.",
+            "en": "Use the local bus to explore Visaginas during the rain. In the morning, transit takes you to the Ignalina NPP, ensuring a dry arrival. Back in the center, hop between buses to visit the Cultural Centre and the church. End your day at the lake, where bus stops often provide good shelter while you wait."
+          },
+          "stops": [
+            {
+              "name": "Trip to Ignalina Nuclear Power Plant",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Fahrplan genau; Busse fahren seltener als in der Stadt.",
+                "hu": "Ellenőrizze pontosan a menetrendet; a buszok ritkábban járnak ide.",
+                "ro": "Verificați programul exact; autobuzele circulă mai rar aici.",
+                "en": "Check the timetable carefully; buses run less frequently to the plant."
+              }
+            },
+            {
+              "name": "Trip back to Visaginas City Centre",
+              "tip_5lang": {
+                "de": "Warten Sie im Gebäude des Kraftwerks, bis der Bus kommt.",
+                "hu": "Várjon az erőmű épületében, amíg megérkezik a busz.",
+                "ro": "Așteptați în clădirea centralei până când vine autobuzul.",
+                "en": "Wait inside the power plant building until the bus arrives."
+              }
+            },
+            {
+              "name": "Visaginas Cultural Centre",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle liegt nur wenige Schritte vom Eingang entfernt.",
+                "hu": "A buszmegálló mindössze néhány lépésre van a bejárattól.",
+                "ro": "Stația de autobuz se află la doar câțiva pași de intrare.",
+                "en": "The bus stop is located just a few steps from the entrance."
+              }
+            },
+            {
+              "name": "Lunch and walk to Church of All Saints",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant in der Nähe einer Haltestelle.",
+                "hu": "Válasszon éttermet egy megálló közvetlen közelében.",
+                "ro": "Alegeți un restaurant în imediata apropiere a unei stații.",
+                "en": "Choose a restaurant in the immediate vicinity of a bus stop."
+              }
+            },
+            {
+              "name": "Lake Visaginas",
+              "tip_5lang": {
+                "de": "Die Haltestelle am See hat ein Dach; ideal bei Schauern.",
+                "hu": "A tóparti megálló fedett, ami ideális záporok idején.",
+                "ro": "Stația de lângă lac este acoperită, ideală în caz de aversă.",
+                "en": "The lake bus stop is covered, which is ideal during showers."
+              }
+            },
+            {
+              "name": "Return to accommodation",
+              "tip_5lang": {
+                "de": "Behalten Sie Ihre Fahrkarte für eventuelle Kontrollen trocken.",
+                "hu": "Tartsa szárazon a jegyét az esetleges ellenőrzésekhez.",
+                "ro": "Păstrați biletul la uscat pentru eventuale controale.",
+                "en": "Keep your ticket dry in case of inspections during your trip."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die App 'Trafi' hilft oft bei der Echtzeitverfolgung der Busse.",
+              "Halten Sie Kleingeld bereit, falls Kartenzahlung im Bus nicht möglich ist.",
+              "In den Bussen ist es warm und trocken, ideal für die Fahrt zum Kraftwerk.",
+              "Stoßzeiten am Nachmittag können die Busse recht voll machen."
+            ],
+            "hu": [
+              "A 'Trafi' alkalmazás gyakran segít a buszok valós idejű követésében.",
+              "Legyen Önnél aprópénz, ha a buszon nem lehet kártyával fizetni.",
+              "A buszokon meleg és száraz az idő, ideális az erőműhöz vezető útra.",
+              "A délutáni csúcsidőben a buszok meglehetősen zsúfoltak lehetnek."
+            ],
+            "ro": [
+              "Aplicația 'Trafi' ajută adesea la urmărirea autobuzelor în timp real.",
+              "Aveți mărunțiș la îndemână dacă plata cu cardul nu este disponibilă.",
+              "În autobuze este cald și uscat, ideal pentru drumul spre centrală.",
+              "Orele de vârf de după-amiază pot face autobuzele destul de pline."
+            ],
+            "en": [
+              "The 'Trafi' app often helps with real-time bus tracking in Lithuania.",
+              "Have small change ready in case card payment is not available on board.",
+              "Buses are warm and dry, making them ideal for the trip to the plant.",
+              "Afternoon rush hours can make the local buses quite crowded."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Visaginas mit dem Bus im Winter ist eine gemütliche Art des Reisens. Der Morgen führt Sie zum Ignalina-Kraftwerk, wobei Sie die verschneite Landschaft aus dem warmen Fenster beobachten. Zurück im Zentrum nutzen Sie die regelmäßigen Verbindungen zwischen den kulturellen Highlights. Ein Besuch am winterlichen See lässt sich gut planen, da die Busse auch bei Schnee meist zuverlässig verkehren.",
+            "hu": "A téli Visaginas busszal egy kényelmes utazási mód. A reggel az Ignalina erőműhöz vezet, miközben a meleg ablak mögül figyeli a havas tájat. A központba visszatérve használja a rendszeres járatokat a kulturális látnivalók között. A téli tóparti látogatás jól tervezhető, mivel a buszok hóban is többnyire megbízhatóan járnak.",
+            "ro": "Visaginasul cu autobuzul iarna este un mod confortabil de a călători. Dimineața vă duce la centrala Ignalina, privind peisajul înzăpezit pe fereastră. Revenit în centru, folosiți cursele regulate între atracțiile culturale. O vizită la lacul de iarnă este ușor de planificat, autobuzele fiind fiabile.",
+            "en": "Exploring Visaginas by bus in winter is a cozy way to travel. The morning takes you to the Ignalina plant, watching the snowy landscape from the warm window. Back in the center, use the regular services between cultural highlights. A visit to the winter lake is easy to plan, as buses remain reliable even in snow."
+          },
+          "stops": [
+            {
+              "name": "Trip to Ignalina Nuclear Power Plant",
+              "tip_5lang": {
+                "de": "Winterfahrplan beachten; es kann zu witterungsbedingten Verzögerungen kommen.",
+                "hu": "Figyelje a téli menetrendet; időjárás miatti késések előfordulhatnak.",
+                "ro": "Atenție la programul de iarnă; pot apărea întârzieri din cauza vremii.",
+                "en": "Check the winter schedule; weather-related delays may occur."
+              }
+            },
+            {
+              "name": "Trip back to Visaginas City Centre",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Wartezeit im Warmen, die Haltestelle ist exponiert.",
+                "hu": "Várjon bent a melegen, mert a megálló nagyon huzatos.",
+                "ro": "Așteptați în interior, deoarece stația este foarte expusă.",
+                "en": "Wait inside the warm building, as the bus stop is very exposed."
+              }
+            },
+            {
+              "name": "Visaginas Cultural Centre",
+              "tip_5lang": {
+                "de": "Ein guter Ort, um auf den nächsten Bus im Warmen zu warten.",
+                "hu": "Jó hely arra, hogy a melegben várja meg a következő buszt.",
+                "ro": "Un loc bun pentru a aștepta următorul autobuz la căldură.",
+                "en": "A good place to wait for the next bus while staying warm."
+              }
+            },
+            {
+              "name": "Lunch and walk to Church of All Saints",
+              "tip_5lang": {
+                "de": "Vorsicht vor Schneematsch an den Einsteigen der Busse.",
+                "hu": "Vigyázzon a latyakra a busz lépcsőinél.",
+                "ro": "Atenție la zloată la urcarea în autobuz.",
+                "en": "Watch out for slush and slippery steps when boarding the bus."
+              }
+            },
+            {
+              "name": "Lake Visaginas",
+              "tip_5lang": {
+                "de": "Der Weg von der Haltestelle zum Ufer kann glatt sein.",
+                "hu": "A megállótól a partig vezető út jeges lehet.",
+                "ro": "Drumul de la stație până la mal poate fi alunecos.",
+                "en": "The path from the bus stop to the shore can be quite icy."
+              }
+            },
+            {
+              "name": "Return to accommodation",
+              "tip_5lang": {
+                "de": "Prüfen Sie die letzte Abfahrt; im Winter wird es früh dunkel.",
+                "hu": "Ellenőrizze az utolsó indulást; télen korán sötétedik.",
+                "ro": "Verificați ultima cursă; se întunecă devreme iarna.",
+                "en": "Check the last departure; it gets dark very early in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse in Litauen sind im Winter meist sehr gut beheizt.",
+              "Tragen Sie griffige Schuhe, da Bushaltestellen oft glatt getreten sind.",
+              "Die Fahrpläne hängen meist an den Haltestellen aus, sind aber oft auf Litauisch.",
+              "An Festtagen im Winter gelten oft eingeschränkte Fahrpläne."
+            ],
+            "hu": [
+              "A litván buszok télen általában nagyon jól fűtöttek.",
+              "Viseljen tapadós talpú cipőt, mert a buszmegállók gyakran jegesek.",
+              "A menetrendek ki vannak függesztve, de gyakran csak litvánul.",
+              "A téli ünnepnapokon gyakran korlátozott menetrend van érvényben."
+            ],
+            "ro": [
+              "Autobuzele din Lituania sunt de obicei foarte bine încălzite iarna.",
+              "Purtați încălțăminte aderentă, stațiile sunt adesea alunecoase.",
+              "Orarele sunt afișate în stații, dar adesea sunt doar în lituaniană.",
+              "În zilele de sărbătoare de iarnă se aplică orare restricționate."
+            ],
+            "en": [
+              "Buses in Lithuania are usually very well heated during winter.",
+              "Wear shoes with good grip as bus stops can become very icy.",
+              "Timetables are posted at stops but are often only in Lithuanian.",
+              "Holiday schedules often apply during the winter festive period."
+            ]
+          }
+        }
       }
     }
   }

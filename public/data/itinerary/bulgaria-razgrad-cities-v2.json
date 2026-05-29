@@ -326,6 +326,188 @@
           "Allow plenty of time for the Abritus Reserve, it's larger than it looks.",
           "Check the opening hours of the museums, especially outside of the main season."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt am Uhrturm, wo der Regen die Steine glänzen lässt. In der nahen Ibrahim-Pascha-Moschee finden wir ersten Schutz. Mittags ziehen wir uns in das Historische Museum zurück, um trocken zu bleiben. Nachmittags führt der Weg nach Abritus; die Ruinen wirken im Nebel mystisch, erfordern aber Vorsicht. Der Tag endet ruhig an der St.-Nikolaus-Kirche, bevor es ins Warme geht.",
+            "hu": "Az esős reggel az óratoronynál indul, de a közeli mecset gyors menedéket nyújt. Délben a helytörténeti múzeum tárlatai között maradunk szárazon. Délután Abritus romjai következnek, ahol a ködös idő különleges hangulatot áraszt a romok felett. A napot a Szent Miklós-templom csendjében zárjuk, majd keressünk egy hangulatos helyi éttermet a belvárosban.",
+            "ro": "Dimineața începe la Turnul cu Ceas, unde ploaia face pietrele să strălucească. În apropiere, Moscheea Ibrahim Pașa oferă un prim adăpost. La prânz, ne retragem la Muzeul de Istorie pentru a rămâne uscați. După-amiaza mergem la Abritus; ruinele par mistice în ceață, dar necesită prudență pe drum. Ziua se încheie liniștit la Biserica Sf. Nicolae, înainte de a căuta un loc călduros.",
+            "en": "The morning starts at the Clock Tower, where rain makes the stones glisten. Nearby, the Ibrahim Pasha Mosque offers early shelter. At noon, we retreat to the Historical Museum to stay dry while exploring. In the afternoon, we head to Abritus; the ruins look mystical in the mist but require careful footing. The day ends peacefully at St. Nicholas Church before finding a cozy indoor spot."
+          },
+          "stops": [
+            {
+              "name": "Clock Tower of Razgrad",
+              "tip_5lang": {
+                "de": "Kurzes Foto unter dem Schirm, dann schnell weiter.",
+                "hu": "Gyors fotó az esernyő alól, majd irány a fedett rész.",
+                "ro": "O poză rapidă sub umbrelă, apoi continuați drumul.",
+                "en": "A quick photo under the umbrella, then move on quickly."
+              }
+            },
+            {
+              "name": "Ibrahim Pasha Mosque",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Details der Fassade vom Portal aus.",
+                "hu": "Csodáld meg a homlokzat részleteit a bejárat alól.",
+                "ro": "Admirați detaliile fațadei de la adăpostul porții.",
+                "en": "Admire the facade details from the shelter of the portal."
+              }
+            },
+            {
+              "name": "Historical Museum",
+              "tip_5lang": {
+                "de": "Der ideale Ort, um einen starken Schauer abzuwarten.",
+                "hu": "Ideális helyszín egy nagyobb zápor átvészelésére.",
+                "ro": "Locul ideal pentru a aștepta trecerea unei averse.",
+                "en": "The ideal spot to wait out a heavy rain shower."
+              }
+            },
+            {
+              "name": "Art Gallery Iliya Petrov",
+              "tip_5lang": {
+                "de": "Genießen Sie die Kunst, während es draußen regnet.",
+                "hu": "Élvezd a művészetet, miközben kint esik az eső.",
+                "ro": "Bucurați-vă de artă în timp ce afară plouă.",
+                "en": "Enjoy the art while it rains outside."
+              }
+            },
+            {
+              "name": "Archaeological Reserve Abritus",
+              "tip_5lang": {
+                "de": "Vorsicht auf den rutschigen antiken Steinpflastern.",
+                "hu": "Vigyázz a csúszós antik kőburkolatokon.",
+                "ro": "Atenție la pavajele antice din piatră, sunt alunecoase.",
+                "en": "Be careful on the slippery ancient stone pavements."
+              }
+            },
+            {
+              "name": "Church of St. Nicholas",
+              "tip_5lang": {
+                "de": "Ein ruhiger, trockener Abschluss für den Rundgang.",
+                "hu": "Csendes, száraz lezárása a városi sétának.",
+                "ro": "Un final de tur liniștit și uscat în interior.",
+                "en": "A peaceful, dry conclusion to your city walk."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für den Weg zum Abritus-Reservat.",
+              "Die Museen im Zentrum liegen nah beieinander, ideal bei Regen.",
+              "Ein Taschenregenschirm ist bei Wind in Razgrad praktischer.",
+              "Nutzen Sie die Cafés in der Nähe des Museums für Pausen."
+            ],
+            "hu": [
+              "Viselj vízálló cipőt az Abritus rezervátum felé vezető úton.",
+              "A központi múzeumok közel vannak egymáshoz, ideális esőben.",
+              "Egy összecsukható esernyő praktikusabb a razgradi szélben.",
+              "Használd a múzeum környéki kávézókat a pihenőközpontnak."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru drumul spre Abritus.",
+              "Muzeele centrale sunt aproape unul de altul, ideal pe ploaie.",
+              "O umbrelă pliabilă este mai practică în vântul din Razgrad.",
+              "Folosiți cafenelele de lângă muzeu pentru pauze scurte."
+            ],
+            "en": [
+              "Wear waterproof shoes for the walk to the Abritus reserve.",
+              "Central museums are close to each other, ideal for rainy days.",
+              "A compact umbrella is more practical in Razgrad's wind.",
+              "Use the cafes near the museum for dry rest breaks."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen am Uhrturm leitet den Tag ein. Die klare Winterluft lässt die Moschee majestätisch wirken. Mittags wärmen wir uns im Historischen Museum auf und bewundern die Schätze. Der Nachmittag in Abritus ist kurz, da die Sonne früh sinkt; der Reif auf den Steinen bietet tolle Motive. Der Tag endet bei einsetzender Dunkelheit an der stimmungsvoll beleuchteten Kirche.",
+            "hu": "Deres reggel fogad az óratoronynál, a hideg levegőben élesen kirajzolódik a mecset sziluettje. Délben a helytörténeti múzeum fűtött termeiben melegszünk fel a kiállítások közt. Délután Abritus romjai következnek, ahol a korai naplemente különleges fényeket fest a kövekre. A nap végén a kivilágított Szent Miklós-templom látványa melengeti meg a szívünket a hideg szélben.",
+            "ro": "O dimineață geroasă la Turnul cu Ceas dă startul zilei. Aerul clar de iarnă face moscheea să pară maiestuoasă. La prânz ne încălzim în sălile Muzeului de Istorie, admirând comorile. După-amiaza la Abritus este scurtă, soarele apunând devreme; chiciura pe pietre oferă cadre foto superbe. Ziua se încheie la lăsarea întunericului, lângă biserica iluminată feeric.",
+            "en": "A frosty morning at the Clock Tower starts the day. The crisp winter air makes the mosque look majestic against the sky. At noon, we warm up inside the Historical Museum while admiring its treasures. Afternoon at Abritus is short as the sun sets early, but the frost on the ruins is beautiful. The day ends as darkness falls near the atmospherically lit church."
+          },
+          "stops": [
+            {
+              "name": "Clock Tower of Razgrad",
+              "tip_5lang": {
+                "de": "Genießen Sie den Anblick in der klaren Morgenluft.",
+                "hu": "Élvezd a látványt a friss, tiszta reggeli levegőben.",
+                "ro": "Bucurați-vă de priveliște în aerul clar al dimineții.",
+                "en": "Enjoy the sight in the clear morning air."
+              }
+            },
+            {
+              "name": "Ibrahim Pasha Mosque",
+              "tip_5lang": {
+                "de": "Ein kurzes Innehalten vor der beeindruckenden Fassade.",
+                "hu": "Egy rövid megálló a lenyűgöző homlokzat előtt.",
+                "ro": "O scurtă oprire în fața fațadei impresionante.",
+                "en": "A short pause in front of the impressive facade."
+              }
+            },
+            {
+              "name": "Historical Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch zum Aufwärmen.",
+                "hu": "Használd ki a múzeumi látogatást a felmelegedésre.",
+                "ro": "Folosiți vizita la muzeu pentru a vă încălzi.",
+                "en": "Use the museum visit to warm up properly."
+              }
+            },
+            {
+              "name": "Art Gallery Iliya Petrov",
+              "tip_5lang": {
+                "de": "Warme Innenräume laden zum Verweilen bei Kunst ein.",
+                "hu": "A fűtött belső terek hívogatnak a művészet mellé.",
+                "ro": "Spațiile interioare calde vă invită la artă.",
+                "en": "Warm interiors invite you to linger over art."
+              }
+            },
+            {
+              "name": "Archaeological Reserve Abritus",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Außenanlagen vor 16 Uhr (Licht).",
+                "hu": "Látogasd meg a romokat 16 óra előtt a fények miatt.",
+                "ro": "Vizitați ruinele înainte de ora 16 pentru lumină.",
+                "en": "Visit the outdoor ruins before 4 PM for the light."
+              }
+            },
+            {
+              "name": "Church of St. Nicholas",
+              "tip_5lang": {
+                "de": "Ein stimmungsvoller Ort in der winterlichen Dämmerung.",
+                "hu": "Hangulatos helyszín a téli szürkületben.",
+                "ro": "Un loc plin de atmosferă în amurgul de iarnă.",
+                "en": "An atmospheric spot in the winter twilight."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Kleidung ist für den Weg nach Abritus unerlässlich.",
+              "Die Sonne geht im Dezember bereits gegen 16:30 Uhr unter.",
+              "Planen Sie mehr Zeit in den beheizten Museen ein.",
+              "In der Nähe des Uhrturms gibt es gute Orte für heißen Tee."
+            ],
+            "hu": [
+              "A meleg ruházat elengedhetetlen az Abritus felé vezető úton.",
+              "A nap decemberben már 16:30 körül lenyugszik.",
+              "Tervezz több időt a fűtött múzeumi termekbe.",
+              "Az óratorony környékén remek helyeket találsz forró teához."
+            ],
+            "ro": [
+              "Îmbrăcămintea groasă este esențială spre rezervația Abritus.",
+              "Soarele apune deja în jurul orei 16:30 în decembrie.",
+              "Planificați mai mult timp în muzeele încălzite.",
+              "Lângă Turnul cu Ceas găsiți locuri bune pentru un ceai fierbinte."
+            ],
+            "en": [
+              "Warm clothing is essential for the walk to Abritus.",
+              "The sun sets as early as 4:30 PM in December.",
+              "Plan more time inside the heated museum halls.",
+              "There are great spots for hot tea near the Clock Tower."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -664,6 +846,206 @@
           "Bring a water bottle and snacks for the longer stretches.",
           "Some paths in Pchelina Park are unpaved, so be prepared."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen starten wir am Uhrturm. Die Fahrt zur Moschee ist kurz, doch für den Weg zum Abritus-Reservat sind Schutzbleche ein Muss. Mittags erkunden wir die interaktiven Museen im Trockenen. Nachmittags geht es durch den Pchelina-Park, wo die Wege etwas schlammig sein können. Der Tag endet kulturell in der Kunstgalerie, während wir die nasse Ausrüstung trocknen.",
+            "hu": "Az eső ellenére az óratoronynál kezdünk. A mecsetig rövid az út, de az Abritus felé már jól jön a sárvédő. Délben az interaktív múzeumban maradunk szárazon. Délután a Pchelina-park ösvényein tekerünk, ahol a sár miatt óvatosság kell. A napot a művészeti galériában zárjuk, miközben a felszerelésünk is megszárad egy kicsit.",
+            "ro": "În ciuda ploii, pornim de la Turnul cu Ceas. Drumul spre moschee e scurt, dar spre Abritus apărătorile sunt obligatorii. La prânz, explorăm muzeele interactive la adăpost. După-amiaza pedalăm prin parcul Pchelina, unde potecile pot fi noroioase. Ziua se încheie cultural la galeria de artă, în timp ce echipamentul ud se mai usucă.",
+            "en": "Despite the rain, we start at the Clock Tower. The ride to the mosque is short, but mudguards are essential for Abritus. At noon, we explore the interactive museums while staying dry. In the afternoon, we cycle through Pchelina Park, where paths might be muddy. The day ends at the art gallery, allowing us and our gear to dry off a bit."
+          },
+          "stops": [
+            {
+              "name": "Clock Tower of Razgrad",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem nassen Kopfsteinpflaster beim Start.",
+                "hu": "Vigyázz a vizes macskakövön az induláskor.",
+                "ro": "Atenție la pavajul umed la plecare.",
+                "en": "Watch out for wet cobblestones at the start."
+              }
+            },
+            {
+              "name": "Ibrahim Pasha Mosque",
+              "tip_5lang": {
+                "de": "Kurzer Halt; das Fahrrad unter einem Vordach parken.",
+                "hu": "Rövid megálló; parkolj a bringával egy eresz alá.",
+                "ro": "Oprire scurtă; parcați bicicleta sub o streașină.",
+                "en": "Short stop; park your bike under an overhang."
+              }
+            },
+            {
+              "name": "Historical Museum",
+              "tip_5lang": {
+                "de": "Sicherer Abstellplatz für nasse Räder suchen.",
+                "hu": "Keress biztonságos, védett helyet a vizes gépnek.",
+                "ro": "Căutați un loc sigur și ferit pentru bicicletă.",
+                "en": "Look for a safe, sheltered spot for your wet bike."
+              }
+            },
+            {
+              "name": "Archaeological Reserve Abritus",
+              "tip_5lang": {
+                "de": "Schutzbleche sind auf der Zufahrt sehr hilfreich.",
+                "hu": "A sárvédő nagyon hasznos lesz a bevezető úton.",
+                "ro": "Apărătorile de noroi vor fi foarte utile pe acces.",
+                "en": "Mudguards will be very helpful on the access road."
+              }
+            },
+            {
+              "name": "Interactive Museum Abritus",
+              "tip_5lang": {
+                "de": "Perfekt, um die Kleidung kurz auszuschütteln.",
+                "hu": "Tökéletes hely, hogy lerázd a vizet a ruhádról.",
+                "ro": "Locul perfect pentru a scutura apa de pe haine.",
+                "en": "Perfect place to shake off the water from your gear."
+              }
+            },
+            {
+              "name": "Pchelina Forest Park",
+              "tip_5lang": {
+                "de": "Achtung, die Waldwege können rutschig sein.",
+                "hu": "Figyelem, az erdei utak csúszósak lehetnek.",
+                "ro": "Atenție, potecile din pădure pot fi alunecoase.",
+                "en": "Warning: forest paths can be quite slippery."
+              }
+            },
+            {
+              "name": "Art Gallery Iliya Petrov",
+              "tip_5lang": {
+                "de": "Ein trockener Ort für den kulturellen Abschluss.",
+                "hu": "Száraz helyszín a kulturális levezetéshez.",
+                "ro": "Un loc uscat pentru finalul cultural al zilei.",
+                "en": "A dry venue for the cultural end of the day."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie wasserfeste Packtaschen für Ihre Wertsachen.",
+              "Vermeiden Sie bei Regen plötzliches Bremsen auf Markierungen.",
+              "Die Museen bieten gute Möglichkeiten für längere Pausen.",
+              "Ein Regenponcho bietet beim Radfahren besseren Schutz als ein Schirm."
+            ],
+            "hu": [
+              "Használj vízálló táskákat az értékeid védelmére.",
+              "Esőben kerüld a hirtelen fékezést az útburkolati jeleken.",
+              "A múzeumok jó lehetőséget adnak hosszabb pihenőkre.",
+              "A biciklis esőponcsó jobb védelmet nyújt, mint az esernyő."
+            ],
+            "ro": [
+              "Folosiți genți impermeabile pentru obiectele de valoare.",
+              "Pe ploaie, evitați frânarea bruscă pe marcajele rutiere.",
+              "Muzeele oferă oportunități bune pentru pauze mai lungi.",
+              "O pelerină de ploaie oferă protecție mai bună decât umbrela."
+            ],
+            "en": [
+              "Use waterproof panniers to protect your valuables.",
+              "Avoid sudden braking on road markings in the rain.",
+              "The museums provide good opportunities for longer breaks.",
+              "A cycling rain poncho offers better protection than an umbrella."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frische Morgenluft beim Start am Uhrturm. Die Fahrt zum Abritus-Reservat hält uns warm, doch der Winterwind ist spürbar. Mittags nutzen wir die Museen als Aufwärmstationen. Die Tour durch den Pchelina-Wald zeigt eine stille, frostige Seite der Region. Da es früh dunkel wird, beenden wir den Tag zeitig in der Kunstgalerie und genießen die Wärme im Stadtinneren.",
+            "hu": "Friss reggeli levegőben indulunk az óratoronytól. Az Abritus felé vezető tekerés melegen tart, de a téli szél azért csípős. Délben a múzeumokat használjuk melegedőállomásnak. A Pchelina-erdőn át vezető út a régió csendes, deres arcát mutatja. Mivel korán sötétedik, a napot időben zárjuk a galériában, majd a belváros melegét élvezzük.",
+            "ro": "Aer curat de dimineață la plecarea de la Turnul cu Ceas. Pedalarea spre Abritus ne menține calzi, dar vântul de iarnă se simte. La prânz folosim muzeele ca stații de încălzire. Turul prin pădurea Pchelina ne arată o față liniștită și înghețată a regiunii. Deoarece se întunecă devreme, încheiem ziua la galeria de artă și ne bucurăm de căldura orașului.",
+            "en": "Crisp morning air as we start at the Clock Tower. Cycling to Abritus keeps us warm, but the winter wind is noticeable. At noon, we use the museums as warming stations. The ride through Pchelina forest shows a quiet, frosty side of the region. Since it gets dark early, we end the day promptly at the art gallery and enjoy the warmth of the city center."
+          },
+          "stops": [
+            {
+              "name": "Clock Tower of Razgrad",
+              "tip_5lang": {
+                "de": "Zügiger Start, um in Bewegung zu bleiben.",
+                "hu": "Gyors indulás, hogy mozgásban maradj és ne fázz.",
+                "ro": "Pornire rapidă pentru a rămâne în mișcare.",
+                "en": "Quick start to keep moving and stay warm."
+              }
+            },
+            {
+              "name": "Ibrahim Pasha Mosque",
+              "tip_5lang": {
+                "de": "Ein kurzer Fotostopp reicht bei der Kälte aus.",
+                "hu": "Egy rövid fotómegálló elég ebben a hidegben.",
+                "ro": "O scurtă oprire foto este suficientă pe frig.",
+                "en": "A short photo stop is enough in this cold."
+              }
+            },
+            {
+              "name": "Historical Museum",
+              "tip_5lang": {
+                "de": "Genießen Sie die Wärme zwischen den Exponaten.",
+                "hu": "Élvezd a meleget a kiállítási tárgyak között.",
+                "ro": "Bucurați-vă de căldură printre exponate.",
+                "en": "Enjoy the warmth among the exhibits."
+              }
+            },
+            {
+              "name": "Archaeological Reserve Abritus",
+              "tip_5lang": {
+                "de": "Vorsicht bei gefrorenen Stellen auf dem Weg.",
+                "hu": "Vigyázz a jeges szakaszokra az úton.",
+                "ro": "Atenție la porțiunile înghețate de pe drum.",
+                "en": "Watch out for frozen patches on the road."
+              }
+            },
+            {
+              "name": "Interactive Museum Abritus",
+              "tip_5lang": {
+                "de": "Ideale Pause, um die Finger aufzuwärmen.",
+                "hu": "Ideális szünet az ujjaid felmelegítésére.",
+                "ro": "Pauză ideală pentru a vă încălzi degetele.",
+                "en": "Ideal break to warm up your fingers."
+              }
+            },
+            {
+              "name": "Pchelina Forest Park",
+              "tip_5lang": {
+                "de": "Achtung bei Laub und Frost auf den Wegen.",
+                "hu": "Vigyázz a falevelekre és a dérre az utakon.",
+                "ro": "Atenție la frunziș și brumă pe poteci.",
+                "en": "Be careful of leaves and frost on the paths."
+              }
+            },
+            {
+              "name": "Art Gallery Iliya Petrov",
+              "tip_5lang": {
+                "de": "Ein warmer Abschluss der winterlichen Radtour.",
+                "hu": "A téli biciklitúra meleg levezetése.",
+                "ro": "Un final călduros pentru turul cu bicicleta.",
+                "en": "A warm conclusion to your winter bike ride."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Handschuhe und eine warme Mütze.",
+              "Prüfen Sie den Reifendruck; Kälte kann ihn verringern.",
+              "Das Tageslicht endet im Winter oft schon vor 17:00 Uhr.",
+              "Nehmen Sie eine Thermoskanne mit warmem Tee mit."
+            ],
+            "hu": [
+              "Viselj szélálló kesztyűt és meleg sapkát.",
+              "Ellenőrizd a guminyomást, a hidegben csökkenhet.",
+              "A nappali fény télen gyakran már 17:00 előtt elfogy.",
+              "Vigyél magaddal egy termoszt forró teával."
+            ],
+            "ro": [
+              "Purtați mănuși rezistente la vânt și o căciulă groasă.",
+              "Verificați presiunea în pneuri; frigul o poate scădea.",
+              "Lumina zilei dispare adesea înainte de ora 17:00.",
+              "Luați un termos cu ceai cald la drum."
+            ],
+            "en": [
+              "Wear windproof gloves and a warm hat.",
+              "Check tire pressure; cold temperatures can lower it.",
+              "Daylight often fades before 5:00 PM in winter.",
+              "Carry a thermos with hot tea for the ride."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1002,6 +1384,206 @@
           "Combine your visit with a trip to the surrounding rural area.",
           "A GPS is helpful for finding the sights outside the center."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein bequemer Start am Abritus-Reservat trotz Regen. Das interaktive Museum hält uns trocken, bevor wir zum Pchelina-Park fahren, um die Aussicht aus dem Auto zu genießen. Mittags geht es zurück ins Zentrum zum Uhrturm. Die kurzen Wege zwischen Moschee und Historischem Museum minimieren die Zeit im Regen. Den Tag lassen wir entspannt in der Kunstgalerie ausklingen.",
+            "hu": "Kényelmes kezdés az Abritus rezervátumnál az eső ellenére. Az interaktív múzeum szárazon tart, mielőtt a Pchelina-parkba autóznánk a kilátásért. Délben visszaérünk a központba az óratoronyhoz. A mecset és a helytörténeti múzeum közelsége miatt alig kell esőben lennünk. A napot pihentetően zárjuk a művészeti galéria falai között.",
+            "ro": "Un început confortabil la rezervația Abritus în ciuda ploii. Muzeul interactiv ne ține uscați înainte de a merge la parcul Pchelina pentru priveliște. La prânz ne întoarcem în centru la Turnul cu Ceas. Distanțele scurte între moschee și muzeu reduc timpul petrecut în ploaie. Încheiem ziua relaxat la galeria de artă.",
+            "en": "A comfortable start at Abritus despite the rain. The interactive museum keeps us dry before we drive to Pchelina Park for the views. At noon, we return to the center to see the Clock Tower. The short distances between the mosque and the Historical Museum minimize time spent in the rain. We end the day relaxing at the art gallery."
+          },
+          "stops": [
+            {
+              "name": "Archaeological Reserve Abritus",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um trocken zu bleiben.",
+                "hu": "Parkolj közel a bejárathoz, hogy száraz maradj.",
+                "ro": "Parcați aproape de intrare pentru a rămâne uscați.",
+                "en": "Park close to the entrance to stay dry."
+              }
+            },
+            {
+              "name": "Interactive Museum Abritus",
+              "tip_5lang": {
+                "de": "Perfekt für Regentage; alles findet drinnen statt.",
+                "hu": "Tökéletes esős napra; minden bent zajlik.",
+                "ro": "Perfect pentru zile ploioase; totul e în interior.",
+                "en": "Perfect for rainy days; everything is indoors."
+              }
+            },
+            {
+              "name": "Pchelina Forest Park",
+              "tip_5lang": {
+                "de": "Genießen Sie die Waldatmosphäre vom Parkplatz aus.",
+                "hu": "Élvezd az erdei hangulatot a parkolóból.",
+                "ro": "Bucurați-vă de atmosfera pădurii din parcare.",
+                "en": "Enjoy the forest atmosphere from the parking area."
+              }
+            },
+            {
+              "name": "Clock Tower of Razgrad",
+              "tip_5lang": {
+                "de": "Ein schneller Stopp für ein Foto ist auch im Regen drin.",
+                "hu": "Egy gyors fotómegálló esőben is belefér.",
+                "ro": "O oprire rapidă pentru o poză merge și pe ploaie.",
+                "en": "A quick stop for a photo is doable even in the rain."
+              }
+            },
+            {
+              "name": "Ibrahim Pasha Mosque",
+              "tip_5lang": {
+                "de": "Nutzen Sie den kurzen Weg vom Parkplatz.",
+                "hu": "Használd ki a rövid utat a parkolótól.",
+                "ro": "Profitați de drumul scurt de la parcare.",
+                "en": "Take advantage of the short walk from the parking."
+              }
+            },
+            {
+              "name": "Historical Museum",
+              "tip_5lang": {
+                "de": "Guter Ort für eine längere Pause im Trockenen.",
+                "hu": "Jó helyszín egy hosszabb beltéri pihenőre.",
+                "ro": "Loc bun pentru o pauză lungă la adăpost.",
+                "en": "Good spot for a long indoor break."
+              }
+            },
+            {
+              "name": "Art Gallery Iliya Petrov",
+              "tip_5lang": {
+                "de": "Parkplätze sind in der Nähe vorhanden.",
+                "hu": "Parkolóhelyek elérhetőek a közelben.",
+                "ro": "Locuri de parcare sunt disponibile în apropiere.",
+                "en": "Parking spaces are available nearby."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Pfützen in der Nähe von Parkplätzen.",
+              "Die Sicht kann bei starkem Regen im Pchelina-Park eingeschränkt sein.",
+              "Nutzen Sie die Tiefgaragen oder nahen Parkplätze im Zentrum.",
+              "Ein Regenschirm im Auto ist für die kurzen Wege Gold wert."
+            ],
+            "hu": [
+              "Ügyelj a tócsákra a parkolók környékén.",
+              "Erős esőben a látótávolság korlátozott lehet a Pchelina-parkban.",
+              "Használd a központi parkolókat a látnivalók közelében.",
+              "Egy esernyő az autóban aranyat ér a rövid sétákhoz."
+            ],
+            "ro": [
+              "Atenție la bălțile din apropierea parcărilor.",
+              "Vizibilitatea poate fi redusă în parcul Pchelina pe ploaie torențială.",
+              "Folosiți parcările centrale din apropierea obiectivelor.",
+              "O umbrelă în mașină este esențială pentru distanțele scurte."
+            ],
+            "en": [
+              "Watch out for puddles near the parking areas.",
+              "Visibility might be limited in Pchelina Park during heavy rain.",
+              "Use central parking lots close to the attractions.",
+              "An umbrella in the car is worth its weight in gold for short walks."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein warmer Start im Auto beim Abritus-Reservat. Wir besichtigen die Museen, bevor wir zur verschneiten Pchelina-Waldlandschaft fahren. Mittags geht es zurück ins Zentrum zum Uhrturm, wo die Wintersonne tief steht. Die kurzen Wege zwischen den Sehenswürdigkeiten sind ideal für die kalte Jahreszeit. Den Tag beenden wir in der Kunstgalerie, bevor wir die Heizung im Auto wieder genießen.",
+            "hu": "Meleg kezdés az autóban az Abritus rezervátumnál. Megnézzük a múzeumokat, majd a havas Pchelina-erdő felé vesszük az irányt. Délben visszaérünk a központba az óratoronyhoz, ahol a téli nap alacsonyan jár. A látnivalók közötti rövid utak ideálisak a hideg évszakban. A napot a galériában zárjuk, mielőtt újra élveznénk az autó fűtését.",
+            "ro": "Un început călduros în mașină la rezervația Abritus. Vizităm muzeele înainte de a merge spre peisajul înzăpezit din pădurea Pchelina. La prânz revenim în centru la Turnul cu Ceas, unde soarele de iarnă stă jos pe cer. Distanțele scurte între obiective sunt ideale pentru sezonul rece. Încheiem ziua la galeria de artă înainte de a reveni la căldura mașinii.",
+            "en": "A warm start in the car at the Abritus reserve. We visit the museums before driving to the snowy Pchelina forest landscape. At noon, we return to the center to see the Clock Tower under the low winter sun. Short walks between sights are ideal for the cold season. We end the day at the art gallery before enjoying the car's heater again."
+          },
+          "stops": [
+            {
+              "name": "Archaeological Reserve Abritus",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stellen auf dem Parkplatz.",
+                "hu": "Ügyelj a jeges szakaszokra a parkolóban.",
+                "ro": "Atenție la porțiunile înghețate din parcare.",
+                "en": "Watch out for icy patches in the parking lot."
+              }
+            },
+            {
+              "name": "Interactive Museum Abritus",
+              "tip_5lang": {
+                "de": "Ein gut beheizter Ort für die erste Pause.",
+                "hu": "Jól fűtött helyszín az első pihenőhöz.",
+                "ro": "Un loc bine încălzit pentru prima pauză.",
+                "en": "A well-heated spot for your first break."
+              }
+            },
+            {
+              "name": "Pchelina Forest Park",
+              "tip_5lang": {
+                "de": "Die Auffahrt kann bei Schnee rutschig sein.",
+                "hu": "A felvezető út havas időben csúszós lehet.",
+                "ro": "Drumul de acces poate fi alunecos pe zăpadă.",
+                "en": "The access road can be slippery in snowy conditions."
+              }
+            },
+            {
+              "name": "Clock Tower of Razgrad",
+              "tip_5lang": {
+                "de": "Kurzer Stopp; Motor nicht unnötig laufen lassen.",
+                "hu": "Rövid megálló; ne járasd feleslegesen a motort.",
+                "ro": "Oprire scurtă; nu lăsați motorul pornit inutil.",
+                "en": "Short stop; don't leave the engine idling unnecessarily."
+              }
+            },
+            {
+              "name": "Ibrahim Pasha Mosque",
+              "tip_5lang": {
+                "de": "Die Wintersonne beleuchtet die Moschee morgens schön.",
+                "hu": "A téli nap reggelente szépen világítja meg a mecsetet.",
+                "ro": "Soarele de iarnă luminează frumos moscheea dimineața.",
+                "en": "The winter sun lights up the mosque beautifully in the morning."
+              }
+            },
+            {
+              "name": "Historical Museum",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich gründlich auf, bevor es weitergeht.",
+                "hu": "Melegedj fel alaposan, mielőtt továbbindulsz.",
+                "ro": "Încălziți-vă bine înainte de a merge mai departe.",
+                "en": "Warm up thoroughly before moving on."
+              }
+            },
+            {
+              "name": "Art Gallery Iliya Petrov",
+              "tip_5lang": {
+                "de": "Angenehmer Abschluss vor der Heimfahrt im Warmen.",
+                "hu": "Kellemes lezárás a melegben a hazaút előtt.",
+                "ro": "Un final plăcut la căldură înainte de drumul spre casă.",
+                "en": "A pleasant end in the warmth before the drive home."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie vorab die Befahrbarkeit der Wege zum Pchelina-Park.",
+              "Nutzen Sie Frostschutzmittel für die Scheibenwaschanlage.",
+              "Parkplätze im Zentrum sind im Winter oft geräumt.",
+              "Die Sitzheizung macht die kurzen Fahrten deutlich angenehmer."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizd a Pchelina-parkhoz vezető utak állapotát.",
+              "Használj fagyállót a szélvédőmosóhoz.",
+              "A központi parkolókat télen gyakran takarítják.",
+              "Az ülésfűtés sokkal kellemesebbé teszi a rövid utakat."
+            ],
+            "ro": [
+              "Verificați starea drumurilor spre parcul Pchelina înainte de plecare.",
+              "Folosiți lichid de parbriz rezistent la îngheț.",
+              "Parcările centrale sunt de obicei curățate iarna.",
+              "Încălzirea în scaune face deplasările scurte mult mai plăcute."
+            ],
+            "en": [
+              "Check the road conditions to Pchelina Park before starting.",
+              "Use anti-freeze for your windshield washer fluid.",
+              "Central parking lots are usually cleared of snow in winter.",
+              "Seat heating makes short trips much more comfortable."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1322,6 +1904,188 @@
           "Be aware that bus frequencies may be lower in the evenings and on weekends.",
           "Plan for extra time for waiting at the stops."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag mit dem Bus beginnt am Uhrturm. Die Haltestellen bieten Schutz vor dem Regen, während wir zur Moschee und zum Historischen Museum fahren. Mittags bringt uns der Transit zum Abritus-Reservat, wo das interaktive Museum der beste Ort bei Nässe ist. Nachmittags besuchen wir den Pchelina-Park, sofern der Regen nachlässt, bevor wir mit dem Bus zurück ins Zentrum kehren.",
+            "hu": "A buszos nap az óratoronynál indul. A megállók menedéket nyújtanak az eső elől, miközben a mecsethez és a múzeumhoz utazunk. Délben a tömegközlekedés elvisz az Abritus rezervátumhoz, ahol az interaktív múzeum a legjobb választás esőben. Délután ellátogatunk a Pchelina-parkba, ha az eső csendesedik, majd busszal térünk vissza a városközpontba.",
+            "ro": "Ziua cu autobuzul începe la Turnul cu Ceas. Stațiile oferă adăpost de ploaie în timp ce mergem spre moschee și muzeu. La prânz, transportul ne duce la rezervația Abritus, unde muzeul interactiv este cea mai bună opțiune pe vreme umedă. După-amiaza vizităm parcul Pchelina dacă ploaia se mai domolește, apoi revenim cu autobuzul în centru.",
+            "en": "The bus day starts at the Clock Tower. Stops provide shelter from the rain as we travel to the mosque and museum. At noon, transit takes us to the Abritus reserve, where the interactive museum is the best choice in wet weather. In the afternoon, we visit Pchelina Park if the rain lets up, then return to the city center by bus."
+          },
+          "stops": [
+            {
+              "name": "Clock Tower of Razgrad",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Wartehäuschen an den Bushaltestellen.",
+                "hu": "Használd a buszmegállók váróhelyiségeit.",
+                "ro": "Folosiți adăposturile din stațiile de autobuz.",
+                "en": "Use the shelters at the bus stops."
+              }
+            },
+            {
+              "name": "Ibrahim Pasha Mosque",
+              "tip_5lang": {
+                "de": "Kurze Fahrt vom Zentrum; Haltestelle ist nah.",
+                "hu": "Rövid út a központból, a megálló közel van.",
+                "ro": "Drum scurt din centru, stația este aproape.",
+                "en": "Short ride from the center; the stop is nearby."
+              }
+            },
+            {
+              "name": "Historical Museum",
+              "tip_5lang": {
+                "de": "Idealer Ort, um die Zeit bis zum nächsten Bus zu nutzen.",
+                "hu": "Ideális hely a következő buszig hátralévő időre.",
+                "ro": "Loc ideal pentru a aștepta următorul autobuz.",
+                "en": "Ideal place to spend time until the next bus."
+              }
+            },
+            {
+              "name": "Archaeological Reserve Abritus",
+              "tip_5lang": {
+                "de": "Der Bus hält in bequemer Laufnähe zum Eingang.",
+                "hu": "A busz kényelmes sétatávolságra áll meg a bejárattól.",
+                "ro": "Autobuzul oprește la o distanță mică de mers de intrare.",
+                "en": "The bus stops within comfortable walking distance of the entrance."
+              }
+            },
+            {
+              "name": "Interactive Museum Abritus",
+              "tip_5lang": {
+                "de": "Ein warmes, trockenes Ziel für Transitnutzer.",
+                "hu": "Meleg, száraz célpont a tömegközlekedőknek.",
+                "ro": "O destinație caldă și uscată pentru călători.",
+                "en": "A warm, dry destination for transit users."
+              }
+            },
+            {
+              "name": "Pchelina Forest Park",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Rückfahrzeiten bei Regen genau.",
+                "hu": "Ellenőrizd pontosan a visszautat esőben.",
+                "ro": "Verificați bine orele de retur pe ploaie.",
+                "en": "Check the return schedule carefully in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Haben Sie Kleingeld oder eine Fahrkarte griffbereit.",
+              "Die Busse sind bei Regen oft voller; planen Sie Zeit ein.",
+              "Nutzen Sie die App für Echtzeit-Infos zu den Abfahrten.",
+              "An den großen Haltestellen gibt es oft Kioske für Regenschutz."
+            ],
+            "hu": [
+              "Legyen nálad aprópénz vagy előre váltott jegy.",
+              "Esőben a buszok zsúfoltabbak lehetnek, számolj ezzel.",
+              "Használd az alkalmazást a valós idejű menetrendhez.",
+              "A nagyobb megállókban gyakran találsz újságost esővédőért."
+            ],
+            "ro": [
+              "Aveți pregătit mărunt sau biletul la îndemână.",
+              "Autobuzele sunt mai aglomerate pe ploaie; alocați timp extra.",
+              "Folosiți aplicația pentru informații în timp real.",
+              "În stațiile mari găsiți adesea chioșcuri pentru protecție de ploaie."
+            ],
+            "en": [
+              "Have small change or a pre-paid ticket ready.",
+              "Buses are often more crowded in the rain; allow extra time.",
+              "Use the mobile app for real-time departure info.",
+              "Major stops often have kiosks for buying rain protection."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kalter Start am Uhrturm, wo wir auf den Bus warten. Die Fahrt bietet einen Blick auf das winterliche Razgrad. Mittags erkunden wir das Historische Museum und wärmen uns auf, bevor es zum Abritus-Reservat geht. Die Winterlandschaft dort ist beeindruckend, aber wir achten auf den Fahrplan für die Rückfahrt im Hellen. Den Tag beenden wir mit einer Busfahrt zurück ins gemütliche Stadtzentrum.",
+            "hu": "Hideg reggel az óratoronynál, miközben a buszra várunk. Az utazás alatt láthatjuk a téli Razgradot. Délben felfedezzük a helytörténeti múzeumot és felmelegszünk, mielőtt az Abritus rezervátumhoz mennénk. A téli táj ott lenyűgöző, de figyelünk a menetrendre, hogy még világosban visszaérjünk. A napot egy buszúttal zárjuk vissza a barátságos belvárosba.",
+            "ro": "O dimineață rece la Turnul cu Ceas în timp ce așteptăm autobuzul. Călătoria oferă o vedere asupra orașului Razgrad iarna. La prânz explorăm muzeul de istorie și ne încălzim înainte de a merge la rezervația Abritus. Peisajul de iarnă de acolo este impresionant, dar urmărim programul pentru a reveni pe lumină. Încheiem ziua cu un drum spre centrul primitor.",
+            "en": "A cold morning at the Clock Tower as we wait for the bus. The ride offers a view of winter in Razgrad. At noon, we explore the Historical Museum and warm up before heading to the Abritus reserve. The winter landscape there is impressive, but we keep an eye on the schedule to return while it's still light. The day ends with a bus ride back to the cozy city center."
+          },
+          "stops": [
+            {
+              "name": "Clock Tower of Razgrad",
+              "tip_5lang": {
+                "de": "Warten Sie lieber in einem nahen Café auf den Bus.",
+                "hu": "Inkább egy közeli kávézóban várj a buszra.",
+                "ro": "Mai bine așteptați autobuzul într-o cafenea apropiată.",
+                "en": "Better wait for the bus in a nearby cafe."
+              }
+            },
+            {
+              "name": "Ibrahim Pasha Mosque",
+              "tip_5lang": {
+                "de": "Ein kurzer Blick aus dem Busfenster lohnt sich.",
+                "hu": "Érdemes egy rövid pillantást vetni a busz ablakából.",
+                "ro": "Merită o privire scurtă de pe fereastra autobuzului.",
+                "en": "A quick look from the bus window is worthwhile."
+              }
+            },
+            {
+              "name": "Historical Museum",
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um sich zwischen den Fahrten aufzuwärmen.",
+                "hu": "Tökéletes hely felmelegedni két utazás között.",
+                "ro": "Locul perfect pentru a vă încălzi între călătorii.",
+                "en": "The perfect place to warm up between rides."
+              }
+            },
+            {
+              "name": "Archaeological Reserve Abritus",
+              "tip_5lang": {
+                "de": "Planen Sie den Besuch passend zu den Buszeiten.",
+                "hu": "Tervezd a látogatást a buszmenetrendhez igazítva.",
+                "ro": "Planificați vizita în funcție de orele autobuzului.",
+                "en": "Plan your visit to match the bus schedule."
+              }
+            },
+            {
+              "name": "Interactive Museum Abritus",
+              "tip_5lang": {
+                "de": "Warmer Rückzugsort vor der Rückfahrt ins Zentrum.",
+                "hu": "Meleg búvóhely a városba való visszaindulás előtt.",
+                "ro": "Refugiu călduros înainte de întoarcerea în centru.",
+                "en": "Warm retreat before heading back to the center."
+              }
+            },
+            {
+              "name": "Pchelina Forest Park",
+              "tip_5lang": {
+                "de": "Beachten Sie die selteneren Fahrten im Winter.",
+                "hu": "Vedd figyelembe a ritkább téli járatokat.",
+                "ro": "Țineți cont de cursele mai rare pe timp de iarnă.",
+                "en": "Be aware of the less frequent bus service in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie warme Schuhe; die Haltestellen können zugig sein.",
+              "Die Busse sind im Winter gut beheizt.",
+              "Achten Sie auf die veränderten Winterfahrpläne.",
+              "Die Dämmerung beginnt früh, planen Sie den Rückweg rechtzeitig."
+            ],
+            "hu": [
+              "Viselj meleg cipőt, a megállók huzatosak lehetnek.",
+              "A buszok télen jól fűtöttek.",
+              "Figyelj a módosított téli menetrendekre.",
+              "A szürkület korán kezdődik, tervezd meg időben a visszautat."
+            ],
+            "ro": [
+              "Purtați încălțăminte groasă; în stații poate fi curent.",
+              "Autobuzele sunt bine încălzite iarna.",
+              "Fiți atenți la orarele de iarnă modificate.",
+              "Amurgul începe devreme, planificați din timp drumul de întoarcere."
+            ],
+            "en": [
+              "Wear warm shoes; bus stops can be draughty.",
+              "Buses are well-heated in winter.",
+              "Check for modified winter schedules.",
+              "Twilight starts early, plan your return trip in time."
+            ]
+          }
+        }
       }
     }
   }

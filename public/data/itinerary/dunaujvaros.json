@@ -330,6 +330,206 @@
           "A reusable water bottle is useful, especially in the summer.",
           "Most city center attractions are easily reachable on foot."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen am Rathausplatz; die sozialistische Architektur wirkt imposant im grauen Licht. Mittags bietet das Intercisa Museum einen trockenen Zufluchtsort voller Geschichte. Nachmittags spazieren wir mit dem Schirm durch den Skulpturenpark, wo der Stahl im Regen glänzt. Der Tag endet am beleuchteten Wasserturm, dessen Lichter sich in den Pfützen spiegeln.",
+            "hu": "Esős reggel a Városháza téren; a szocreál épületek még szürkében is monumentálisak. Délben az Intercisa Múzeumban bújunk el a zápor elől a római emlékek közé. Délután ernyővel járjuk be a Duna-parti Szoborparkot, ahol a fémalakok csillognak a víztől. Az estét a kivilágított Víztoronynál zárjuk, melynek fényei megcsillannak a pocsolyákban.",
+            "ro": "O dimineață ploioasă în Piața Primăriei; arhitectura socialistă pare impunătoare sub cerul gri. La prânz, Muzeul Intercisa oferă un refugiu uscat plin de istorie. După-amiaza ne plimbăm cu umbrela prin Parcul de Sculpturi, unde oțelul strălucește în ploaie. Ziua se încheie la Turnul de Apă iluminat, ale cărui lumini se oglindesc în bălți.",
+            "en": "A rainy morning at Town Hall Square; the socialist realist buildings look monumental in the grey light. At noon, the Intercisa Museum provides a dry sanctuary full of history. In the afternoon, we walk with an umbrella through the Sculpture Park, where the steel sculptures glisten in the rain. The day ends at the lit Water Tower, with lights reflecting in the puddles."
+          },
+          "stops": [
+            {
+              "name": "Arrival at the Town Hall Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden zum Unterstehen.",
+                "hu": "Használja az árkádokat eső elleni védelemnek.",
+                "ro": "Folosiți arcadele pentru a vă adăposti.",
+                "en": "Use the arcades for shelter from the rain."
+              }
+            },
+            {
+              "name": "Bartók Chamber Theatre",
+              "tip_5lang": {
+                "de": "Ein kurzer, trockener Kulturstopp.",
+                "hu": "Rövid, száraz kulturális megálló.",
+                "ro": "O scurtă oprire culturală la uscat.",
+                "en": "A short, dry cultural stop."
+              }
+            },
+            {
+              "name": "Intercisa Museum",
+              "tip_5lang": {
+                "de": "Idealer Ort für einen langen Regenguss.",
+                "hu": "Ideális helyszín egy hosszú zápor idejére.",
+                "ro": "Loc ideal pentru o repriză lungă de ploaie.",
+                "en": "Ideal spot for a long downpour."
+              }
+            },
+            {
+              "name": "Roman Ruins (Castellum)",
+              "tip_5lang": {
+                "de": "Das Gelände kann bei Regen rutschig sein.",
+                "hu": "A terület esőben csúszós lehet.",
+                "ro": "Zona poate fi alunecoasă pe ploaie.",
+                "en": "The area can be slippery in the rain."
+              }
+            },
+            {
+              "name": "Sculpture Park on the Danube",
+              "tip_5lang": {
+                "de": "Fester Schirm gegen den Wind vom Fluss.",
+                "hu": "Erős esernyő kell a folyó felőli szélben.",
+                "ro": "Umbrelă rezistentă pentru vântul de pe râu.",
+                "en": "Strong umbrella needed for the river wind."
+              }
+            },
+            {
+              "name": "Szalki Island",
+              "tip_5lang": {
+                "de": "Vermeiden Sie die unbefestigten Wege.",
+                "hu": "Kerülje a kiépítetlen, sáros utakat.",
+                "ro": "Evitați potecile neamenajate și noroioase.",
+                "en": "Avoid unpaved and muddy paths."
+              }
+            },
+            {
+              "name": "Water Tower",
+              "tip_5lang": {
+                "de": "Die Beleuchtung ist bei Regen besonders schön.",
+                "hu": "A kivilágítás esőben különösen szép.",
+                "ro": "Iluminatul este deosebit de frumos pe ploaie.",
+                "en": "The lighting is especially beautiful in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für den Skulpturenpark.",
+              "Nutzen Sie die Passage im Rathaus bei Starkregen.",
+              "Museen sind montags oft geschlossen, prüfen Sie das vorab.",
+              "Ein Schirm mit Sturmschutz ist an der Donau ratsam."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a Szoborparkhoz.",
+              "Használja a Városháza melletti átjárókat erős esőben.",
+              "A múzeumok hétfőn zárva tarthatnak, ellenőrizze.",
+              "Viharálló esernyő ajánlott a Duna-parti szél miatt."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru Parcul de Sculpturi.",
+              "Folosiți pasajele de lângă primărie în caz de ploaie densă.",
+              "Muzeele pot fi închise lunea, verificați programul.",
+              "O umbrelă rezistentă la vânt este recomandată pe faleză."
+            ],
+            "en": [
+              "Wear waterproof shoes for the Sculpture Park visit.",
+              "Use the passages near the Town Hall during heavy rain.",
+              "Check museum opening hours as they may close on Mondays.",
+              "A windproof umbrella is advised near the Danube bank."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen am Rathausplatz, wo die weite Fläche die Winterkälte betont. Mittags wärmen wir uns im Intercisa Museum auf, während die Wintersonne tief steht. Nachmittags am Donauufer erleben wir einen frühen, farbenfrohen Sonnenuntergang hinter den Skulpturen. Den Abend genießen wir bei den Lichtern der Stadt und dem markanten Wasserturm.",
+            "hu": "Fagyos reggel a Városháza téren, ahol a tágas tér felerősíti a téli szelet. Délben az Intercisa Múzeumban melegszünk fel, miközben kint alacsonyan jár a nap. Délután a Duna-parton korai, színes naplementét láthatunk a szobrok mögött. Az estét a városi fények és a jellegzetes Víztorony mellett élvezzük.",
+            "ro": "O dimineață geroasă în Piața Primăriei, unde spațiul deschis amplifică frigul. La prânz ne încălzim în Muzeul Intercisa, în timp ce soarele de iarnă stă jos pe cer. După-amiaza pe faleză, asistăm la un apus de soare timpuriu și colorat în spatele sculpturilor. Seara ne bucurăm de luminile orașului și de Turnul de Apă.",
+            "en": "A frosty morning at Town Hall Square, where the wide open space amplifies the winter cold. At noon, we warm up in the Intercisa Museum while the winter sun stays low. In the afternoon on the Danube bank, we witness an early, colorful sunset behind the sculptures. We enjoy the evening among the city lights and the iconic Water Tower."
+          },
+          "stops": [
+            {
+              "name": "Arrival at the Town Hall Square",
+              "tip_5lang": {
+                "de": "Warm anziehen, der Platz ist sehr windig.",
+                "hu": "Öltözzön rétegesen, a tér nagyon szeles.",
+                "ro": "Îmbrăcați-vă gros, piața este foarte vântoasă.",
+                "en": "Dress warmly, the square is very windy."
+              }
+            },
+            {
+              "name": "Bartók Chamber Theatre",
+              "tip_5lang": {
+                "de": "Ein guter Ort zum Aufwärmen.",
+                "hu": "Kiváló hely egy kis melegedésre.",
+                "ro": "Un loc bun pentru a vă încălzi.",
+                "en": "A great place to warm up for a bit."
+              }
+            },
+            {
+              "name": "Intercisa Museum",
+              "tip_5lang": {
+                "de": "Planen Sie hier die kälteste Zeit des Tages ein.",
+                "hu": "A nap leghidegebb óráit töltse itt.",
+                "ro": "Petreceți aici cele mai reci ore ale zilei.",
+                "en": "Spend the coldest hours of the day here."
+              }
+            },
+            {
+              "name": "Roman Ruins (Castellum)",
+              "tip_5lang": {
+                "de": "Vorsicht vor vereisten Wegen auf dem Hügel.",
+                "hu": "Vigyázzon a jeges utakra a dombon.",
+                "ro": "Atenție la potecile înghețate de pe deal.",
+                "en": "Watch out for icy paths on the hill."
+              }
+            },
+            {
+              "name": "Sculpture Park on the Danube",
+              "tip_5lang": {
+                "de": "Sonnenuntergang ist im Winter gegen 16:30 Uhr.",
+                "hu": "A naplemente télen 16:30 körül van.",
+                "ro": "Apusul este în jur de ora 16:30 iarna.",
+                "en": "Sunset is around 4:30 PM in winter."
+              }
+            },
+            {
+              "name": "Szalki Island",
+              "tip_5lang": {
+                "de": "Die Naturruhe im Winter ist besonders friedlich.",
+                "hu": "A téli természet ilyenkor nagyon békés.",
+                "ro": "Natura este foarte liniștită în acest sezon.",
+                "en": "Nature is very peaceful during this season."
+              }
+            },
+            {
+              "name": "Water Tower",
+              "tip_5lang": {
+                "de": "Abends sind die Lichter in der Dunkelheit markant.",
+                "hu": "A sötétben a fények nagyon látványosak.",
+                "ro": "Luminile sunt spectaculoase în întuneric.",
+                "en": "The lights are very spectacular in the dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Getränke in den Cafés am Rathausplatz genießen.",
+              "Handschuhe sind für den Spaziergang an der Donau Pflicht.",
+              "Die Gehwege können am Flussufer glatt sein.",
+              "Besuchen Sie die Museen für längere Aufwärmpausen."
+            ],
+            "hu": [
+              "Élvezze a forró italokat a Városháza téri kávézókban.",
+              "A kesztyű kötelező a dunai séta során.",
+              "A folyóparti járdák jegesek és csúszósak lehetnek.",
+              "A múzeumlátogatást használja felmelegedésre."
+            ],
+            "ro": [
+              "Savurați băuturi calde în cafenelele din Piața Primăriei.",
+              "Mănușile sunt obligatorii pentru plimbarea pe Dunăre.",
+              "Trotuarele de pe malul râului pot fi înghețate.",
+              "Folosiți vizita la muzeu pentru a vă încălzi."
+            ],
+            "en": [
+              "Enjoy hot drinks in the cafes at Town Hall Square.",
+              "Gloves are mandatory for the walk along the Danube.",
+              "The riverside pavements can be icy and slippery.",
+              "Use museum visits as longer warm-up breaks."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -654,6 +854,206 @@
           "A helmet is strongly recommended.",
           "Use the designated bike paths wherever possible."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein nasser Start am Rathausplatz; wir rüsten uns für eine Fahrt durch die Industriestadt. Im Intercisa Museum legen wir eine lange Pause ein, bis der schlimmste Regen nachlässt. Die Fahrt zum Skulpturenpark bietet bei Regen dramatische Ausblicke auf die Donau. Über die Pentele-Brücke geht es zügig zurück, bevor wir das Rad im Zentrum abgeben.",
+            "hu": "Vizes kezdés a Városháza téren; felkészülünk a tekerésre az iparvároson át. Az Intercisa Múzeumban tartunk egy hosszabb pihenőt, amíg a szakadó eső alábbhagy. A Szoborpark felé vezető út esőben is drámai kilátást nyújt a Dunára. A Pentele hídon át gyorsan tekerünk vissza, mielőtt leadjuk a bringát.",
+            "ro": "Un început umed în Piața Primăriei; ne pregătim pentru o tură prin orașul industrial. Facem o pauză lungă la Muzeul Intercisa până când ploaia se mai potolește. Drumul spre Parcul de Sculpturi oferă vederi dramatice asupra Dunării. Traversăm rapid Podul Pentele înainte de a returna bicicleta.",
+            "en": "A wet start at Town Hall Square; we gear up for a ride through the industrial city. We take a long break at the Intercisa Museum until the heaviest rain subsides. The ride to the Sculpture Park offers dramatic views of the Danube even in the rain. We cycle quickly back across Pentele Bridge before returning the bike."
+          },
+          "stops": [
+            {
+              "name": "Town Hall Square & Bike Rental",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Bremsen bei Nässe.",
+                "hu": "Ellenőrizze a fékeket nedves úton.",
+                "ro": "Verificați frânele pe carosabil umed.",
+                "en": "Check the brakes on wet roads."
+              }
+            },
+            {
+              "name": "Intercisa Museum & Roman Ruins",
+              "tip_5lang": {
+                "de": "Fahrradständer sind direkt am Museum.",
+                "hu": "Kerékpártárolók közvetlenül a múzeumnál.",
+                "ro": "Suporturi de biciclete direct la muzeu.",
+                "en": "Bike racks are available right at the museum."
+              }
+            },
+            {
+              "name": "Sculpture Park on the Danube",
+              "tip_5lang": {
+                "de": "Vorsicht vor Laub und Matsch auf dem Weg.",
+                "hu": "Vigyázzon a levelekre és a sárra az úton.",
+                "ro": "Atenție la frunze și noroi pe traseu.",
+                "en": "Watch out for leaves and mud on the path."
+              }
+            },
+            {
+              "name": "Pentele Bridge (Viewpoint)",
+              "tip_5lang": {
+                "de": "Der Boden auf der Brücke kann rutschig sein.",
+                "hu": "A híd burkolata csúszós lehet.",
+                "ro": "Suprafața podului poate fi alunecoasă.",
+                "en": "The bridge surface can be slippery."
+              }
+            },
+            {
+              "name": "Szalki Island (Lunch Break)",
+              "tip_5lang": {
+                "de": "Suchen Sie einen Platz unter einem Dach.",
+                "hu": "Keressen fedett helyet az ebédhez.",
+                "ro": "Căutați un loc acoperit pentru prânz.",
+                "en": "Look for a covered spot for lunch."
+              }
+            },
+            {
+              "name": "Water Tower",
+              "tip_5lang": {
+                "de": "Kurzer Stopp im Regencape.",
+                "hu": "Rövid megálló esőköpenyben.",
+                "ro": "Oprire scurtă în pelerină de ploaie.",
+                "en": "Short stop in a rain poncho."
+              }
+            },
+            {
+              "name": "Bike Drop-off",
+              "tip_5lang": {
+                "de": "Handtuch zum Satteltrocknen einpacken.",
+                "hu": "Vigyen törölközőt a nyereg megszárításához.",
+                "ro": "Luați un prosop pentru a usca șaua.",
+                "en": "Bring a towel to dry the saddle."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie scharfe Bremsmanöver auf nassem Asphalt.",
+              "Tragen Sie eine komplette Regenmontur.",
+              "Schutzbleche am Fahrrad sind heute unverzichtbar.",
+              "Nutzen Sie Radwege, um Pfützen auf der Straße zu entgehen."
+            ],
+            "hu": [
+              "Kerülje az erős fékezést a vizes aszfalton.",
+              "Viseljen teljes esővédő felszerelést.",
+              "A sárvédő ma elengedhetetlen a bringán.",
+              "Használja a kerékpárutakat a tócsák elkerülésére."
+            ],
+            "ro": [
+              "Evitați frânările bruște pe asfaltul ud.",
+              "Purtați echipament complet de ploaie.",
+              "Apărătorile de noroi sunt indispensabile astăzi.",
+              "Folosiți pistele de biciclete pentru a evita bălțile."
+            ],
+            "en": [
+              "Avoid sharp braking on wet asphalt.",
+              "Wear a complete set of waterproof gear.",
+              "Mudguards are essential on the bike today.",
+              "Use bike paths to avoid puddles on the main road."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kalter Vormittag auf dem Rad; der Fahrtwind am Rathausplatz ist schneidend. Wir verbringen viel Zeit im Museum, um die Hände aufzuwärmen. Die Fahrt entlang der Donau bietet eine klare, frostige Sicht auf die Skulpturen und den Fluss. Nach einem kurzen Abstecher zur Pentele-Brücke im Winterlicht geben wir die Räder noch vor der frühen Dunkelheit ab.",
+            "hu": "Hideg délelőtt a nyeregben; a menetszél a Városháza téren metsző. Sok időt töltünk a múzeumban, hogy felmelegítsük a kezünket. A Duna menti tekerés tiszta, fagyos kilátást nyújt a szobrokra és a folyóra. Rövid kitérő után a téli fényben úszó Pentele hídhoz, még a korai sötétedés előtt leadjuk a gépeket.",
+            "ro": "O dimineață rece pe bicicletă; vântul în Piața Primăriei este tăios. Petrecem mult timp la muzeu pentru a ne încălzi mâinile. Tura de-a lungul Dunării oferă o vedere clară și geroasă asupra sculpturilor. După o scurtă vizită la Podul Pentele, returnăm bicicletele înainte de lăsarea întunericului.",
+            "en": "A cold morning in the saddle; the wind at Town Hall Square is biting. We spend plenty of time at the museum to warm our hands. The ride along the Danube offers a clear, frosty view of the sculptures and the river. After a quick detour to Pentele Bridge in the winter light, we return the bikes before the early darkness falls."
+          },
+          "stops": [
+            {
+              "name": "Town Hall Square & Bike Rental",
+              "tip_5lang": {
+                "de": "Warme Handschuhe sind zwingend nötig.",
+                "hu": "Meleg kesztyű elengedhetetlen.",
+                "ro": "Mănușile groase sunt obligatorii.",
+                "en": "Warm gloves are absolutely necessary."
+              }
+            },
+            {
+              "name": "Intercisa Museum & Roman Ruins",
+              "tip_5lang": {
+                "de": "Gute Aufwärmpause für Radfahrer.",
+                "hu": "Jó melegedő pihenő bringásoknak.",
+                "ro": "O pauză bună de încălzire pentru bicicliști.",
+                "en": "A good warm-up break for cyclists."
+              }
+            },
+            {
+              "name": "Sculpture Park on the Danube",
+              "tip_5lang": {
+                "de": "Vorsicht vor Glatteis auf dem Radweg.",
+                "hu": "Vigyázzon a jegesedésre a kerékpárúton.",
+                "ro": "Atenție la polei pe pista de biciclete.",
+                "en": "Watch out for black ice on the bike path."
+              }
+            },
+            {
+              "name": "Pentele Bridge (Viewpoint)",
+              "tip_5lang": {
+                "de": "Sehr windig auf der Brücke, fest halten.",
+                "hu": "Nagyon szeles a híd, kapaszkodjon.",
+                "ro": "Foarte vântos pe pod, țineți-vă bine.",
+                "en": "Very windy on the bridge, hold on tight."
+              }
+            },
+            {
+              "name": "Szalki Island (Lunch Break)",
+              "tip_5lang": {
+                "de": "Wählen Sie ein warmes Restaurant.",
+                "hu": "Válasszon egy fűtött éttermet.",
+                "ro": "Alegeți un restaurant încălzit.",
+                "en": "Choose a heated restaurant for lunch."
+              }
+            },
+            {
+              "name": "Water Tower",
+              "tip_5lang": {
+                "de": "Kurzer Stopp vor dem Einfrieren.",
+                "hu": "Rövid megálló az átfagyás előtt.",
+                "ro": "Oprire scurtă înainte de a îngheța.",
+                "en": "Short stop before freezing up."
+              }
+            },
+            {
+              "name": "Bike Drop-off",
+              "tip_5lang": {
+                "de": "Geben Sie das Rad vor 16:30 Uhr ab.",
+                "hu": "Adja le a bringát 16:30 előtt.",
+                "ro": "Returnați bicicleta înainte de ora 16:30.",
+                "en": "Return the bike before 4:30 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Kleidung.",
+              "Unterschätzen Sie nicht die Kälte am Flussufer.",
+              "Die Akkus von E-Bikes halten bei Kälte kürzer.",
+              "Achten Sie auf gefrorene Pfützen in Kurven."
+            ],
+            "hu": [
+              "Viseljen szélálló ruházatot.",
+              "Ne becsülje alá a hideget a folyóparton.",
+              "Az e-bike akkumulátorok hamarabb lemerülnek hidegben.",
+              "Vigyázzon a befagyott tócsákra a kanyarokban."
+            ],
+            "ro": [
+              "Purtați haine rezistente la vânt.",
+              "Nu subestimați frigul de pe malul râului.",
+              "Bateriile bicicletelor electrice se descarcă mai repede.",
+              "Atenție la bălțile înghețate în curbe."
+            ],
+            "en": [
+              "Wear windproof clothing.",
+              "Don't underestimate the cold along the riverbank.",
+              "E-bike batteries drain faster in the cold.",
+              "Watch out for frozen puddles in corners."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -954,6 +1354,188 @@
           "Plan your route between clusters to save time.",
           "A GPS or navigation app is highly recommended."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine bequeme Fahrt durch das regnerische Dunaújváros; wir parken direkt am Museum, um trocken zu bleiben. Nach der Besichtigung der römischen Ruinen im Nieselregen genießen wir das Mittagessen beim Wasserturm. Der Skulpturenpark lässt sich gut vom Auto aus und bei kurzen Spaziergängen erkunden. Die Fahrt über die Pentele-Brücke bietet auch bei Regen eine tolle Panoramaaussicht.",
+            "hu": "Kényelmes autózás az esős Dunaújvárosban; közvetlenül a múzeumnál parkolunk, hogy szárazon maradjunk. A római romok szemszemező esőben történő megtekintése után a Víztoronynál ebédelünk. A Szoborparkot az autóból és rövid sétákkal fedezzük fel. A Pentele hídon való áthajtás esőben is remek panorámát nyújt.",
+            "ro": "O călătorie confortabilă prin Dunaújvárosul ploios; parcăm chiar lângă muzeu pentru a rămâne uscați. După vizitarea ruinelor romane prin burniță, prânzim lângă Turnul de Apă. Parcul de Sculpturi poate fi explorat parțial din mașină și prin scurte plimbări. Traversarea Podului Pentele oferă o panoramă excelentă și pe ploaie.",
+            "en": "A comfortable drive through rainy Dunaújváros; we park right by the museum to stay dry. After viewing the Roman ruins in the drizzle, we have lunch near the Water Tower. The Sculpture Park is explored from the car and via short walks. Driving across Pentele Bridge offers a great panoramic view even in the rain."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Ancient Heritage (Parking at the Museum)",
+              "tip_5lang": {
+                "de": "Parkplatz direkt vor dem Eingang.",
+                "hu": "Parkoló közvetlenül a bejárat előtt.",
+                "ro": "Parcare chiar în fața intrării.",
+                "en": "Parking is available right in front of the entrance."
+              }
+            },
+            {
+              "name": "Roman Ruins (Castellum)",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Parkplatz.",
+                "hu": "Rövid séta a parkolótól.",
+                "ro": "Scurtă plimbare de la parcare.",
+                "en": "Short walk from the parking area."
+              }
+            },
+            {
+              "name": "Cluster 2: Socialist Center (Parking at Town Hall Square)",
+              "tip_5lang": {
+                "de": "Großer, oft freier Parkplatz.",
+                "hu": "Tágas, gyakran üres parkoló.",
+                "ro": "Parcare mare, adesea liberă.",
+                "en": "Large parking lot, often with spaces."
+              }
+            },
+            {
+              "name": "Water Tower & Lunch",
+              "tip_5lang": {
+                "de": "Restaurants mit Parkplätzen in der Nähe.",
+                "hu": "Éttermek parkolási lehetőséggel a közelben.",
+                "ro": "Restaurante cu locuri de parcare în apropiere.",
+                "en": "Restaurants with parking nearby."
+              }
+            },
+            {
+              "name": "Cluster 3: Danube Experience (Parking at the Sculpture Park)",
+              "tip_5lang": {
+                "de": "Blick auf die Donau aus dem Auto.",
+                "hu": "Kilátás a Dunára az autóból.",
+                "ro": "Vedere spre Dunăre din mașină.",
+                "en": "View of the Danube from the car."
+              }
+            },
+            {
+              "name": "Drive across the Pentele Bridge",
+              "tip_5lang": {
+                "de": "Fenster schließen bei Gischt.",
+                "hu": "Húzza fel az ablakot a felfröccsenő víz miatt.",
+                "ro": "Închideți geamurile din cauza stropilor.",
+                "en": "Keep windows closed due to spray."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf der Hauptstraße.",
+              "Nutzen Sie Parkhäuser im Zentrum, falls verfügbar.",
+              "Die Sicht auf der Brücke kann bei Regen eingeschränkt sein.",
+              "Halten Sie einen Schirm für den Weg vom Auto bereit."
+            ],
+            "hu": [
+              "Vigyázzon a vízreutazásra (aquaplaning) a főúton.",
+              "Használja a központi parkolókat, ha lehetséges.",
+              "A látási viszonyok a hídon esőben romolhatnak.",
+              "Legyen kéznél esernyő az autótól a bejáratig."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumul principal.",
+              "Folosiți parcările centrale dacă sunt disponibile.",
+              "Vizibilitatea pe pod poate fi redusă pe ploaie.",
+              "Aveți o umbrelă la îndemână pentru drumul de la mașină."
+            ],
+            "en": [
+              "Watch out for aquaplaning on the main road.",
+              "Use central parking areas where available.",
+              "Visibility on the bridge may be reduced during rain.",
+              "Keep an umbrella handy for the walk from the car."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Dunaújváros im Winter mit dem Auto erkunden; die Heizung sorgt für eine angenehme Fahrt zwischen den Monumenten. Der Besuch des Museums ist ein warmer Höhepunkt am Vormittag. Am Rathausplatz bewundern wir die verschneite Architektur, bevor es zum Mittagessen geht. Die Fahrt über die Pentele-Brücke bietet im klaren Winterlicht eine spektakuläre Fernsicht auf die gefrorene Landschaft.",
+            "hu": "Dunaújváros felfedezése télen autóval; a fűtés kellemessé teszi az utat a műemlékek között. A múzeumlátogatás a délelőtt meleg fénypontja. A Városháza téren megcsodáljuk a havas épületeket, mielőtt ebédelni mennénk. Az áthajtás a Pentele hídon a tiszta téli fényben látványos kilátást nyújt a fagyos tájra.",
+            "ro": "Explorarea orașului Dunaújváros iarna cu mașina; încălzirea face drumul plăcut între monumente. Vizita la muzeu este punctul cald al dimineții. În Piața Primăriei admirăm arhitectura înzăpezită înainte de prânz. Traversarea Podului Pentele oferă o priveliște spectaculoasă asupra peisajului înghețat în lumina clară de iarnă.",
+            "en": "Exploring Dunaújváros in winter by car; the heater makes the trip between monuments pleasant. The museum visit is a warm highlight of the morning. At Town Hall Square, we admire the snowy architecture before heading to lunch. Driving across Pentele Bridge in the clear winter light offers a spectacular view of the frozen landscape."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Ancient Heritage (Parking at the Museum)",
+              "tip_5lang": {
+                "de": "Parkplatz wird im Winter geräumt.",
+                "hu": "A parkolót télen is takarítják.",
+                "ro": "Parcarea este curățată iarna.",
+                "en": "The parking lot is cleared in winter."
+              }
+            },
+            {
+              "name": "Roman Ruins (Castellum)",
+              "tip_5lang": {
+                "de": "Vorsicht bei Schnee auf dem Weg.",
+                "hu": "Vigyázzon a hóra az úton.",
+                "ro": "Atenție la zăpadă pe potecă.",
+                "en": "Be careful with snow on the path."
+              }
+            },
+            {
+              "name": "Cluster 2: Socialist Center (Parking at Town Hall Square)",
+              "tip_5lang": {
+                "de": "Zentraler Parkplatz mit kurzem Weg.",
+                "hu": "Központi parkoló, rövid séta.",
+                "ro": "Parcare centrală, plimbare scurtă.",
+                "en": "Central parking with a short walk."
+              }
+            },
+            {
+              "name": "Water Tower & Lunch",
+              "tip_5lang": {
+                "de": "Sitzheizung nach dem Spaziergang genießen.",
+                "hu": "Élvezze az ülésfűtést a séta után.",
+                "ro": "Bucurați-vă de încălzirea în scaune după plimbare.",
+                "en": "Enjoy the seat heater after the walk."
+              }
+            },
+            {
+              "name": "Cluster 3: Danube Experience (Parking at the Sculpture Park)",
+              "tip_5lang": {
+                "de": "Warmer Ausblick auf die Donau.",
+                "hu": "Meleg kilátás a Dunára.",
+                "ro": "Vedere caldă spre Dunăre.",
+                "en": "Warm view of the Danube from inside."
+              }
+            },
+            {
+              "name": "Drive across the Pentele Bridge",
+              "tip_5lang": {
+                "de": "Vorsicht vor Seitenwind auf der Brücke.",
+                "hu": "Vigyázzon az oldalszélre a hídon.",
+                "ro": "Atenție la vântul lateral pe pod.",
+                "en": "Watch out for crosswinds on the bridge."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind zwingend erforderlich.",
+              "Prüfen Sie den Frostschutz in der Scheibenwaschanlage.",
+              "Brücken frieren schneller ein als normale Straßen.",
+              "Parken Sie nicht zu nah am Flussufer (Glatteisgefahr)."
+            ],
+            "hu": [
+              "A téli gumi kötelező.",
+              "Ellenőrizze a fagyállót a szélvédőmosóban.",
+              "A hidak hamarabb lefagynak, mint a sima utak.",
+              "Ne parkoljon túl közel a folyóparthoz a jegesedés miatt."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii.",
+              "Verificați antigelul din lichidul de parbriz.",
+              "Podurile îngheață mai repede decât drumurile obișnuite.",
+              "Nu parcați prea aproape de malul râului din cauza gheții."
+            ],
+            "en": [
+              "Winter tires are mandatory.",
+              "Check the antifreeze in your windshield washer fluid.",
+              "Bridges freeze faster than regular roads.",
+              "Avoid parking too close to the riverbank due to ice risk."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1230,6 +1812,170 @@
           "Have small change ready for tickets if buying on board.",
           "Pay attention to the last bus departure times to avoid getting stranded."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Dunaújváros mit dem Bus im Regen erkunden; wir starten an der Busstation im Zentrum. Die kurzen Wege zwischen den Haltestellen und Sehenswürdigkeiten minimieren die Zeit im Nieselregen. Mittags verbringen wir viel Zeit im Museum, gut erreichbar mit den lokalen Linien. Den Tag schließen wir mit einer Busfahrt zur Donaupromenade ab, wo wir den Regen vom Unterstand aus beobachten.",
+            "hu": "Dunaújváros felfedezése busszal esőben; a központi buszállomásról indulunk. A megállók és a látnivalók közötti rövid távolság minimalizálja az esőben töltött időt. Délben sok időt töltünk a múzeumban, amely könnyen elérhető a helyi járatokkal. A napot egy buszos utazással zárjuk a Duna-partra, ahol fedett helyről figyeljük az esőt.",
+            "ro": "Explorarea orașului Dunaújváros cu autobuzul pe ploaie; plecăm din autogara centrală. Distanțele scurte între stații și obiective minimizează timpul petrecut în ploaie. La prânz petrecem mult timp la muzeu, ușor accesibil cu liniile locale. Încheiem ziua cu o călătorie spre faleză, privind ploaia dintr-un loc acoperit.",
+            "en": "Exploring Dunaújváros by bus in the rain; we start from the central bus station. Short distances between stops and sights minimize time spent in the drizzle. At noon, we spend plenty of time at the museum, easily reachable by local lines. We end the day with a bus ride to the Danube promenade, watching the rain from a sheltered spot."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Center (Arrival at Bus Station)",
+              "tip_5lang": {
+                "de": "Die Station ist teilweise überdacht.",
+                "hu": "Az állomás részben fedett.",
+                "ro": "Stația este parțial acoperită.",
+                "en": "The station is partially covered."
+              }
+            },
+            {
+              "name": "Town Hall Square & Water Tower",
+              "tip_5lang": {
+                "de": "Kurzer Weg von der Bushaltestelle.",
+                "hu": "Rövid séta a buszmegállótól.",
+                "ro": "Scurtă plimbare de la stație.",
+                "en": "Short walk from the bus stop."
+              }
+            },
+            {
+              "name": "Cluster 2: History (Bus to the Museum)",
+              "tip_5lang": {
+                "de": "Bus hält fast direkt vor dem Museum.",
+                "hu": "A busz szinte a múzeum előtt áll meg.",
+                "ro": "Autobuzul oprește aproape de muzeu.",
+                "en": "The bus stops almost right by the museum."
+              }
+            },
+            {
+              "name": "Roman Ruins & Lunch",
+              "tip_5lang": {
+                "de": "Restaurants in Haltestellennähe suchen.",
+                "hu": "Keressen éttermet a megálló közelében.",
+                "ro": "Căutați restaurante lângă stație.",
+                "en": "Look for restaurants near the stop."
+              }
+            },
+            {
+              "name": "Cluster 3: Danube Bank (Bus to the Promenade)",
+              "tip_5lang": {
+                "de": "Wartehäuschen bieten Schutz vor Regen.",
+                "hu": "A várótermek védelmet nyújtanak az esőtől.",
+                "ro": "Refugiile din stații oferă protecție contra ploii.",
+                "en": "Bus shelters provide protection from rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Fahrplan bei Regen auf Verspätungen.",
+              "Haben Sie Kleingeld oder eine App für Tickets bereit.",
+              "Busse sind im Winter und bei Regen oft voll.",
+              "Nutzen Sie die zentralen Umstiegspunkte am Rathaus."
+            ],
+            "hu": [
+              "Esőben ellenőrizze a menetrendi késéseket.",
+              "Készítsen aprópénzt vagy mobilappot a jegyhez.",
+              "A buszok esőben és télen zsúfoltak lehetnek.",
+              "Használja a Városháza téri központi átszállót."
+            ],
+            "ro": [
+              "Verificați eventualele întârzieri pe ploaie.",
+              "Pregătiți mărunțiș sau o aplicație pentru bilete.",
+              "Autobuzele pot fi aglomerate pe ploaie și iarna.",
+              "Folosiți punctul central de transfer de la Primărie."
+            ],
+            "en": [
+              "Check for schedule delays during heavy rain.",
+              "Have change or a mobile app ready for tickets.",
+              "Buses can be crowded during rain and winter.",
+              "Use the central transfer point at Town Hall Square."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Tour mit dem Bus; die beheizten Fahrzeuge sind eine Wohltat gegen den Frost. Vom Rathausplatz geht es zügig zum Museum, um die kältesten Stunden drinnen zu verbringen. Die Busfahrt zur Donau bietet Ausblicke auf die winterliche Industriestadt. Den Abend verbringen wir im Zentrum, wo die beleuchteten Haltestellen den Weg durch die frühe Dunkelheit weisen.",
+            "hu": "Téli túra busszal; a fűtött járművek enyhülést hoznak a fagy ellen. A Városháza térről gyorsan a múzeumba megyünk, hogy a leghidegebb órákat bent töltsük. A buszos utazás a Dunához rálátást nyújt a téli iparvárosra. Az estét a központban töltjük, ahol a kivilágított megállók mutatják az utat a korai sötétben.",
+            "ro": "Un tur de iarnă cu autobuzul; vehiculele încălzite sunt o binecuvântare contra gerului. De la Primărie mergem rapid la muzeu pentru a petrece cele mai reci ore în interior. Călătoria spre Dunăre oferă vederi asupra orașului industrial iarna. Seara o petrecem în centru, unde stațiile iluminate ghidează drumul prin întuneric.",
+            "en": "A winter tour by bus; the heated vehicles provide relief from the frost. From Town Hall Square, we head quickly to the museum to spend the coldest hours indoors. The bus ride to the Danube offers views of the winter industrial city. We spend the evening in the center, where lit bus stops guide the way through the early darkness."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Center (Arrival at Bus Station)",
+              "tip_5lang": {
+                "de": "In der Wartehalle aufwärmen.",
+                "hu": "Melegedjen fel a váróteremben.",
+                "ro": "Încălziți-vă în sala de așteptare.",
+                "en": "Warm up in the waiting hall."
+              }
+            },
+            {
+              "name": "Town Hall Square & Water Tower",
+              "tip_5lang": {
+                "de": "Bushaltestellen sind gut beleuchtet.",
+                "hu": "A buszmegállók jól kivilágítottak.",
+                "ro": "Stațiile de autobuz sunt bine luminate.",
+                "en": "The bus stops are well-lit."
+              }
+            },
+            {
+              "name": "Cluster 2: History (Bus to the Museum)",
+              "tip_5lang": {
+                "de": "Der Bus ist meist angenehm beheizt.",
+                "hu": "A busz általában kellemesen fűtött.",
+                "ro": "Autobuzul este de obicei bine încălzit.",
+                "en": "The bus is usually pleasantly heated."
+              }
+            },
+            {
+              "name": "Roman Ruins & Lunch",
+              "tip_5lang": {
+                "de": "Kurze Fußwege einplanen.",
+                "hu": "Tervezzen rövid gyalogutakkal.",
+                "ro": "Planificați trasee scurte pe jos.",
+                "en": "Plan for short walking distances."
+              }
+            },
+            {
+              "name": "Cluster 3: Danube Bank (Bus to the Promenade)",
+              "tip_5lang": {
+                "de": "Letzte Busse vor der Dunkelheit nutzen.",
+                "hu": "Használja az utolsó buszokat sötétedés előtt.",
+                "ro": "Folosiți ultimele autobuze înainte de întuneric.",
+                "en": "Take the last buses before it gets dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse fahren im Winter oft seltener, Fahrplan prüfen.",
+              "Die Heizung in den Bussen kann sehr stark sein.",
+              "Vorsicht vor glatten Haltestellenbereichen.",
+              "Tragen Sie Reflektoren bei der frühen Dunkelheit."
+            ],
+            "hu": [
+              "Télen ritkábban járhatnak a buszok, ellenőrizze.",
+              "A buszok fűtése nagyon erős is lehet.",
+              "Vigyázzon a csúszós megállókra.",
+              "Viseljen fényvisszaverőt a korai sötétben."
+            ],
+            "ro": [
+              "Autobuzele pot circula mai rar iarna, verificați.",
+              "Încălzirea din autobuze poate fi foarte puternică.",
+              "Atenție la zonele alunecoase din stații.",
+              "Purtați elemente reflectorizante în întunericul timpuriu."
+            ],
+            "en": [
+              "Buses may run less frequently in winter, check times.",
+              "Heating in the buses can be quite strong.",
+              "Watch out for slippery surfaces at bus stops.",
+              "Wear reflectors due to the early onset of darkness."
+            ]
+          }
+        }
       }
     }
   }

@@ -326,6 +326,188 @@
           "A light raincoat is always a good idea in Ireland, even on sunny days.",
           "Take your time to enjoy the views of the bay; it's the town's highlight."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt am Wolfe Tone Square unter dem typisch irischen Sprühregen. Ein kurzer Sprint bringt Sie zur St. Brendan’s Church, wo das rhythmische Prasseln auf das Kirchendach eine meditative Stille erzeugt. Mittags bietet die French Armada Exhibition im Museum einen perfekten Zufluchtsort, um in die Seekriegsgeschichte von 1796 einzutauchen, während draußen der Wind über die Bucht peitscht.\n\nNachmittags erkunden Sie die prächtigen Innenräume von Bantry House; die Bibliothek und die Gobelins lassen das graue Wetter vergessen. Ein warmes Mittagessen am Hafen mit Blick auf die tanzenden Boote wärmt Geist und Körper auf. Den Abschluss bildet der Beicin Loop Walk, bei dem die salzige Gischt und der Regen eins werden, bevor Sie in einen gemütlichen Pub einkehren.",
+            "hu": "A reggel a Wolfe Tone téren indul az ír permetező esőben. Egy gyors séta után a Szent Brendan-templom menedékében hallgathatja az eső kopogását a tetőn. Délben a Francia Armada kiállítás nyújt tökéletes fedett programot, ahol az 1796-os tengeri hadjárat részleteit ismerheti meg, miközben az öböl felett sötét felhők gyülekeznek.\n\nA délutánt a Bantry House pazar termeiben töltjük, ahol a könyvtár és a faliszőnyegek látványa feledteti a kinti szürkeséget. A kikötő melletti ebéd során figyelheti az esőben ringatózó halászhajókat. A napot a Beicin Loop séta zárja, ahol a sós tengeri szél és az eső frissítő keveréke kíséri az utat a vacsoráig.",
+            "ro": "Dimineața începe în Wolfe Tone Square sub o ploaie măruntă specific irlandeză. Un scurt drum vă duce la Biserica St. Brendan, unde sunetul ploii pe acoperiș creează o atmosferă liniștită. La prânz, Expoziția Armadei Franceze oferă un refugiu ideal pentru a explora istoria navală din 1796, în timp ce vântul suflă peste golf.\n\nDupă-amiaza este dedicată interiorului fastuos de la Bantry House; biblioteca și tapiseriile fac uitate condițiile meteo. Un prânz cald lângă port, privind bărcile care dansează pe valuri, vă va încălzi. Finalul zilei aparține promenadei Beicin Loop, unde briza sărată se amestecă cu ploaia înainte de a vă retrage într-un pub local.",
+            "en": "The morning begins at Wolfe Tone Square under typical Irish mist. A quick walk leads to St. Brendan’s Church, where the rain drumming on the roof enhances the peaceful silence. By noon, the French Armada Exhibition provides a perfect indoor retreat to learn about the 1796 naval expedition while the wind howls across the bay.\n\nIn the afternoon, explore the grand interiors of Bantry House; the library and tapestries make you forget the grey skies. A warm lunch by the harbour allows you to watch the boats tossing in the rain. The day concludes with the Beicin Loop Walk, where the salty spray and rain merge into a refreshing experience before heading to a pub."
+          },
+          "stops": [
+            {
+              "name": "Wolfe Tone Square",
+              "tip_5lang": {
+                "de": "Unter den Arkaden der Geschäfte finden Sie Schutz vor den ersten Tropfen.",
+                "hu": "Az üzletek árkádjai alatt keressen menedéket az első cseppek elől.",
+                "ro": "Găsiți adăpost sub arcadele magazinelor în cazul unei ploi bruște.",
+                "en": "Find shelter under the shop arcades if the rain starts suddenly."
+              }
+            },
+            {
+              "name": "St. Brendan's Church",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Glasfenster, während draußen der Himmel dunkler wird.",
+                "hu": "Csodálja meg az üvegablakokat, miközben odakint elborul az ég.",
+                "ro": "Admirați vitraliile în timp ce cerul se întunecă afară.",
+                "en": "Admire the stained glass while the sky darkens outside."
+              }
+            },
+            {
+              "name": "French Armada Exhibition",
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um eine Stunde lang komplett im Trockenen zu bleiben.",
+                "hu": "Tökéletes helyszín, hogy egy órát teljesen szárazon töltsön.",
+                "ro": "Locul perfect pentru a sta la adăpost timp de o oră.",
+                "en": "The perfect spot to stay completely dry for an hour."
+              }
+            },
+            {
+              "name": "Bantry House & Gardens",
+              "tip_5lang": {
+                "de": "Besuchen Sie erst das Haus; die Gärten sind bei Regen sehr rutschig.",
+                "hu": "Előbb a házat nézze meg; a kertek esőben nagyon csúszósak.",
+                "ro": "Vizitați întâi casa; grădinile sunt foarte alunecoase pe ploaie.",
+                "en": "Visit the house first; the gardens get very slippery in the rain."
+              }
+            },
+            {
+              "name": "Lunch Break at Bantry Bay",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit großen Fenstern zum Meer.",
+                "hu": "Válasszon egy nagy ablakos éttermet, rálátással a tengerre.",
+                "ro": "Alegeți un restaurant cu ferestre mari spre mare.",
+                "en": "Choose a restaurant with large windows overlooking the sea."
+              }
+            },
+            {
+              "name": "Beicin Loop Walk",
+              "tip_5lang": {
+                "de": "Feste Wanderschuhe sind hier wegen des Matsches unerlässlich.",
+                "hu": "A sár miatt itt elengedhetetlen a vízálló túrabakancs.",
+                "ro": "Încălțămintea impermeabilă este esențială aici din cauza noroiului.",
+                "en": "Waterproof hiking boots are essential here due to the mud."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Regenschirme sind bei dem starken Wind in Bantry oft nutzlos; wählen Sie eine gute Regenjacke.",
+              "Nutzen Sie die Indoor-Ausstellungen in Bantry House ausgiebig.",
+              "Die Wege am Hafen können bei Nässe sehr rutschig sein.",
+              "Warmer Seafood Chowder ist das beste Mittel gegen irisches Regenwetter."
+            ],
+            "hu": [
+              "Az esernyő a szél miatt gyakran használhatatlan; a vízálló kabát jobb választás.",
+              "Használja ki a Bantry House fedett kiállításait a hosszabb záporok alatt.",
+              "A kikötői sétány kövei nedvesen csúszhatnak.",
+              "A meleg tengeri halleves (chowder) a legjobb gyógyszer az esős időre."
+            ],
+            "ro": [
+              "Umbrelele sunt adesea inutile din cauza vântului; alegeți o jachetă impermeabilă bună.",
+              "Profitați de expozițiile interioare de la Bantry House în timpul averselor.",
+              "Căile de acces din port pot fi foarte alunecoase când sunt ude.",
+              "O supă caldă de pește (chowder) este cel mai bun remediu pentru vremea ploioasă."
+            ],
+            "en": [
+              "Umbrellas are often useless in Bantry's wind; a good waterproof jacket is better.",
+              "Make the most of the indoor exhibitions at Bantry House during showers.",
+              "The harbour paths can be very slippery when wet.",
+              "Warm seafood chowder is the best remedy for rainy Irish weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintersonne steht tief über dem Wolfe Tone Square und taucht den Hafen in ein kühles, klares Licht. In der St. Brendan’s Church finden Sie einen Moment der Besinnung, bevor die Winterkälte Sie weiterzieht. Mittags bietet die Armada-Ausstellung spannende Einblicke in die Geschichte, während Sie sich in den geheizten Räumen aufwärmen können.\n\nBantry House wirkt im Winterlicht fast mystisch; die kahlen Gärten betonen die Architektur des 17. Jahrhunderts. Ein herzhaftes Mittagessen mit lokalen Spezialitäten ist wichtig, um die Energiereserven aufzufüllen. Da die Sonne bereits gegen 16:30 Uhr untergeht, nutzen Sie das letzte Tageslicht für den Beicin Loop, wo der Blick auf die schneebedeckten Gipfel der fernen Caha Mountains bei klarer Sicht unvergesslich ist.",
+            "hu": "A téli nap alacsonyan jár a Wolfe Tone tér felett, tiszta, hideg fénybe vonva a kikötőt. A Szent Brendan-templomban egy pillanatra elcsendesedhet, mielőtt a téli fagy továbbhajtaná. Délben az Armada kiállítás fűtött tereiben melegedhet fel, miközben a tengeri csaták történetét tanulmányozza.\n\nA Bantry House téli fényben szinte misztikus; a kopár kertek még inkább kiemelik a 17. századi építészetet. Egy bőséges ebéd segít feltölteni az energiakészleteket a hidegben. Mivel a nap már 16:30 körül nyugszik, használja ki az utolsó fényeket a Beicin Loop sétán, ahonnan tiszta időben rálátni a távoli Caha-hegység hófödte csúcsaira.",
+            "ro": "Soarele de iarnă stă jos deasupra Wolfe Tone Square, luminând portul într-o lumină rece și clară. În Biserica St. Brendan găsiți un moment de liniște înainte ca frigul să vă grăbească pasul. La prânz, expoziția Armada vă permite să vă încălziți în interior în timp ce descoperiți istoria locală.\n\nBantry House pare aproape mistică în lumina iernii; grădinile golașe subliniază arhitectura secolului al XVII-lea. Un prânz consistent este esențial pentru a rezista frigului de afară. Deoarece soarele apune în jurul orei 16:30, profitați de ultima lumină pe Beicin Loop, de unde puteți vedea vârfurile înzăpezite ale munților Caha în zilele senine.",
+            "en": "The winter sun hangs low over Wolfe Tone Square, bathing the harbour in a crisp, cool light. Find a moment of reflection in St. Brendan’s Church before the chill moves you along. By noon, the Armada exhibition offers a warm indoor space to explore history while escaping the biting wind.\n\nBantry House feels almost mystical in winter light; the bare gardens emphasize the 17th-century architecture. A hearty lunch with local produce is key to refueling for the cold. As the sun sets around 4:30 PM, use the last daylight for the Beicin Loop, where the view of the snow-capped Caha Mountains is stunning on clear days."
+          },
+          "stops": [
+            {
+              "name": "Wolfe Tone Square",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf dem Kopfsteinpflaster am frühen Morgen.",
+                "hu": "Kora reggel vigyázzon a jegesedésre a macskaköveken.",
+                "ro": "Atenție la polei pe pavaj în primele ore ale dimineții.",
+                "en": "Watch out for black ice on the cobblestones early in the morning."
+              }
+            },
+            {
+              "name": "St. Brendan's Church",
+              "tip_5lang": {
+                "de": "Im Inneren ist es oft deutlich wärmer als draußen auf der Straße.",
+                "hu": "Bent gyakran lényegesen melegebb van, mint kint az utcán.",
+                "ro": "În interior este adesea mult mai cald decât afară pe stradă.",
+                "en": "It is often significantly warmer inside than out on the street."
+              }
+            },
+            {
+              "name": "French Armada Exhibition",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Heizung im Museum, um Ihre Handschuhe zu trocknen.",
+                "hu": "Használja ki a múzeum fűtését a kesztyűi átszárítására.",
+                "ro": "Folosiți căldura din muzeu pentru a vă încălzi mâinile.",
+                "en": "Use the heating in the museum to warm up properly."
+              }
+            },
+            {
+              "name": "Bantry House & Gardens",
+              "tip_5lang": {
+                "de": "Die Treppen im Garten können gefroren und sehr glatt sein.",
+                "hu": "A kerti lépcsők fagyottak és nagyon csúszósak lehetnek.",
+                "ro": "Scările din grădină pot fi înghețate și foarte alunecoase.",
+                "en": "The garden steps can be frozen and very slippery."
+              }
+            },
+            {
+              "name": "Lunch Break at Bantry Bay",
+              "tip_5lang": {
+                "de": "Fragen Sie nach einem Tisch in der Nähe des Kamins.",
+                "hu": "Kérjen asztalt a kandalló közelében.",
+                "ro": "Cereți o masă lângă șemineu dacă este posibil.",
+                "en": "Ask for a table near the fireplace if available."
+              }
+            },
+            {
+              "name": "Beicin Loop Walk",
+              "tip_5lang": {
+                "de": "Beenden Sie die Wanderung vor 16:30 Uhr, bevor es dunkel wird.",
+                "hu": "Fejezze be a túrát 16:30-ig, mielőtt teljesen besötétedik.",
+                "ro": "Terminați plimbarea înainte de 16:30, când se întunecă.",
+                "en": "Finish the walk before 4:30 PM before it gets dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie mehrere Schichten Kleidung; der Wind am Meer ist im Winter schneidend kalt.",
+              "Die Sonne geht sehr früh unter, planen Sie Outdoor-Aktivitäten für den Vormittag.",
+              "Viele Cafés bieten im Winter spezielle Heißgetränke wie Irish Coffee an.",
+              "Prüfen Sie die Öffnungszeiten, da einige Sehenswürdigkeiten im Winter früher schließen."
+            ],
+            "hu": [
+              "Öltözzön rétegesen; a tengeri szél télen metszően hideg.",
+              "A nap korán nyugszik, a szabadtéri programokat időzítse délelőttre.",
+              "Sok kávézó kínál téli különlegességeket, például Irish Coffee-t.",
+              "Ellenőrizze a nyitvatartást, mert télen több hely korábban zár."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi; vântul de pe mare este tăios iarna.",
+              "Soarele apune devreme, planificați activitățile în aer liber dimineața.",
+              "Multe cafenele oferă băuturi calde speciale iarna, cum ar fi Irish Coffee.",
+              "Verificați orele de deschidere, deoarece unele obiective se închid mai devreme."
+            ],
+            "en": [
+              "Wear multiple layers; the sea breeze is biting cold in winter.",
+              "The sun sets very early, so plan outdoor activities for the morning.",
+              "Many cafes offer special winter drinks like Irish Coffee.",
+              "Check opening hours as some attractions close earlier in winter."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -646,6 +828,188 @@
           "Bring water and snacks, especially for longer rides along the bay.",
           "Always lock your bike when you leave it."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren in Bantry bei Regen erfordert gute Ausrüstung und eine Prise Abenteuerlust. Nach dem Start am Wolfe Tone Square führt der Weg zum Bantry House, wo Sie Ihr Rad abstellen und die prachtvolle Innenausstattung genießen können. Die kurze Fahrt zur Armada-Ausstellung ist erfrischend, solange die Regenjacke hält.\n\nMittags suchen Sie Schutz in einem gemütlichen Bistro am Hafen. Die Beicin Loop Tour bietet trotz des Wetters dramatische Ausblicke auf die aufgewühlte Bucht. Den Tag lassen Sie mit einer entspannten Fahrt entlang des Bantry Bay ausklingen, wobei die tief hängenden Wolken eine ganz eigene, mystische Stimmung erzeugen.",
+            "hu": "A kerékpározás Bantry-ben esőben jó felszerelést és egy adag kalandvágyat igényel. A Wolfe Tone térről indulva a Bantry House felé vesszük az irányt, ahol a biciklit leparkolva a pazar belső tereket élvezhetjük. A rövid út az Armada kiállításig frissítő, amíg a vízálló kabát bírja.\n\nDélben egy kikötői bisztróban keresünk menedéket. A Beicin Loop kör a zord idő ellenére is drámai kilátást nyújt a felkorbácsolt öbölre. A napot a Bantry Bay menti nyugodt tekeréssel zárjuk, ahol az alacsonyan szálló felhők sajátos, misztikus hangulatot árasztanak.",
+            "ro": "Ciclismul în Bantry pe ploaie necesită echipament bun și spirit de aventură. După plecarea din Wolfe Tone Square, drumul duce spre Bantry House, unde puteți lăsa bicicleta pentru a vizita interiorul. Scurta cursă până la expoziția Armada este revigorantă dacă jacheta rezistă.\n\nLa prânz, căutați adăpost într-un bistro din port. Turul Beicin Loop oferă vederi dramatice asupra golfului agitat, în ciuda vremii. Încheiați ziua cu o plimbare relaxată de-a lungul Bantry Bay, unde norii joși creează o atmosferă mistică.",
+            "en": "Cycling in Bantry in the rain requires good gear and a bit of adventure. Starting at Wolfe Tone Square, head to Bantry House, where you can park your bike and enjoy the grand interiors. The short ride to the Armada Exhibition is refreshing as long as your waterproofs hold up.\n\nAt noon, seek shelter in a cozy bistro by the harbour. The Beicin Loop tour offers dramatic views of the turbulent bay despite the weather. End the day with a relaxed ride along Bantry Bay, where low-hanging clouds create a unique, mystical mood."
+          },
+          "stops": [
+            {
+              "name": "Bike Rental & Wolfe Tone Square",
+              "tip_5lang": {
+                "de": "Fragen Sie nach wasserfesten Packtaschen für Ihre Wertsachen.",
+                "hu": "Kérjen vízálló táskát az értéktárgyai számára.",
+                "ro": "Cereți genți impermeabile pentru obiectele de valoare.",
+                "en": "Ask for waterproof panniers for your valuables."
+              }
+            },
+            {
+              "name": "Bantry House & Gardens",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad unter den Bäumen nahe dem Eingang ab.",
+                "hu": "Parkolja le a biciklit a bejárat közeli fák alatt.",
+                "ro": "Parcați bicicleta sub copacii de lângă intrare.",
+                "en": "Park your bike under the trees near the entrance."
+              }
+            },
+            {
+              "name": "French Armada Exhibition",
+              "tip_5lang": {
+                "de": "Hier können Sie kurzzeitig Ihren nassen Helm ablegen.",
+                "hu": "Itt rövid időre leteheti a vizes sisakját.",
+                "ro": "Vă puteți lăsa casca udă aici pentru scurt timp.",
+                "en": "You can leave your wet helmet here for a short while."
+              }
+            },
+            {
+              "name": "Lunch at the Harbour",
+              "tip_5lang": {
+                "de": "Suchen Sie ein Lokal mit Fahrradständern direkt vor der Tür.",
+                "hu": "Keressen olyan helyet, ahol közvetlenül az ajtó előtt van tároló.",
+                "ro": "Căutați un local cu suporturi de biciclete direct în față.",
+                "en": "Look for a place with bike racks directly in front."
+              }
+            },
+            {
+              "name": "Cycle the Beicin Loop",
+              "tip_5lang": {
+                "de": "Vorsicht in den Kurven, der Boden kann durch Laub rutschig sein.",
+                "hu": "Vigyázzon a kanyarokban, a levelek miatt csúszós lehet az út.",
+                "ro": "Atenție în curbe, drumul poate fi alunecos din cauza frunzelor.",
+                "en": "Careful in the turns, the ground can be slippery with leaves."
+              }
+            },
+            {
+              "name": "Relax at Bantry Bay",
+              "tip_5lang": {
+                "de": "Ein kurzes Foto genügt, bevor es zurück ins Trockene geht.",
+                "hu": "Egy gyors fotó elég, mielőtt visszatérne a szárazba.",
+                "ro": "O fotografie rapidă este suficientă înainte de a vă întoarce.",
+                "en": "A quick photo is enough before heading back to the dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine Brille, um den Regen aus den Augen zu halten.",
+              "Prüfen Sie Ihre Bremsen vorab; auf nassen Straßen ist der Bremsweg länger.",
+              "Vermeiden Sie Pfützen, sie könnten tiefer sein als sie aussehen.",
+              "Vollständige Regenbekleidung inklusive Überhosen ist dringend empfohlen."
+            ],
+            "hu": [
+              "Viseljen szemüveget, hogy ne menjen eső a szemébe.",
+              "Ellenőrizze a fékeket; nedves úton hosszabb a féktáv.",
+              "Kerülje a tócsákat, mélyebbek lehetnek, mint amilyennek látszanak.",
+              "A teljes esőruházat, beleértve a nadrágot is, erősen ajánlott."
+            ],
+            "ro": [
+              "Purtați ochelari pentru a proteja ochii de ploaie.",
+              "Verificați frânele; distanța de frânare este mai mare pe drum ud.",
+              "Evitați bălțile, pot fi mai adânci decât par.",
+              "Echipamentul complet de ploaie este recomandat cu tărie."
+            ],
+            "en": [
+              "Wear glasses to keep the rain out of your eyes.",
+              "Check your brakes; braking distance is longer on wet roads.",
+              "Avoid puddles, they might be deeper than they look.",
+              "Full waterproof gear, including trousers, is highly recommended."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine Wintertour mit dem Rad durch Bantry ist erfrischend und bietet glasklare Sichtverhältnisse. Starten Sie dick eingepackt am Wolfe Tone Square. Der Besuch im Bantry House ist ein Muss, um die historischen Schätze im Inneren zu bewundern. Die kurze Fahrt zur Armada-Ausstellung hält den Kreislauf in Schwung.\n\nMittags genießen Sie die lokale Küche in einem der beheizten Pubs am Hafen. Die Beicin Loop Tour führt Sie durch die winterliche Küstenlandschaft, die jetzt besonders ruhig wirkt. Zum Abschluss radeln Sie entlang der Bantry Bay, wobei das sanfte Licht des späten Nachmittags die Wellen silbern glänzen lässt, bevor die Kälte des Abends einsetzt.",
+            "hu": "A téli kerékpártúra Bantry-ben frissítő élmény és kristálytiszta kilátást kínál. Induljon vastagon felöltözve a Wolfe Tone térről. A Bantry House meglátogatása kötelező, hogy megcsodálja a történelmi kincseket. A rövid út az Armada kiállításig mozgásban tartja a vérkeringést.\n\nDélben élvezze a helyi konyhát a kikötő egyik fűtött pubjában. A Beicin Loop kör a téli tengerparti tájon vezet keresztül, amely ilyenkor különösen csendes. Végezetül tekerjen a Bantry Bay mentén, ahol a késő délutáni lágy fény ezüstösre festi a hullámokat, mielőtt beállna az esti fagy.",
+            "ro": "Un tur de iarnă cu bicicleta prin Bantry este revigorant și oferă o vizibilitate excelentă. Plecați bine îmbrăcat din Wolfe Tone Square. Vizita la Bantry House este obligatorie pentru a admira comorile istorice din interior. Scurta cursă până la expoziția Armada vă menține circulația activă.\n\nLa prânz, savurați bucătăria locală într-unul dintre pub-urile încălzite din port. Turul Beicin Loop vă poartă prin peisajul de coastă hibernal, care este acum deosebit de liniștit. La final, pedalați de-a lungul Bantry Bay, unde lumina blândă a după-amiezii face valurile să strălucească argintiu.",
+            "en": "A winter bike tour through Bantry is refreshing and offers crystal-clear visibility. Start well-wrapped from Wolfe Tone Square. A visit to Bantry House is a must to admire the historical treasures inside. The short ride to the Armada Exhibition keeps your circulation going.\n\nAt noon, enjoy local cuisine in one of the heated pubs by the harbour. The Beicin Loop tour takes you through the wintry coastal landscape, which feels especially peaceful now. Finally, cycle along Bantry Bay, where the soft late afternoon light makes the waves shimmer silver before the evening chill sets in."
+          },
+          "stops": [
+            {
+              "name": "Bike Rental & Wolfe Tone Square",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Reifendruck; kalte Luft lässt ihn oft sinken.",
+                "hu": "Ellenőrizze a guminyomást; a hideg levegő miatt gyakran lecsökken.",
+                "ro": "Verificați presiunea în pneuri; aerul rece o poate scădea.",
+                "en": "Check tire pressure; cold air often causes it to drop."
+              }
+            },
+            {
+              "name": "Bantry House & Gardens",
+              "tip_5lang": {
+                "de": "Lassen Sie Ihr Rad stehen und wärmen Sie sich im Haus auf.",
+                "hu": "Hagyja a biciklit, és melegedjen fel a házban.",
+                "ro": "Lăsați bicicleta și încălziți-vă în interiorul casei.",
+                "en": "Leave your bike and warm up inside the house."
+              }
+            },
+            {
+              "name": "French Armada Exhibition",
+              "tip_5lang": {
+                "de": "Ein guter Stopp, um die eingefrorenen Finger zu bewegen.",
+                "hu": "Jó megálló az átfagyott ujjak átmozgatására.",
+                "ro": "O oprire bună pentru a vă dezmorți degetele înghețate.",
+                "en": "A good stop to get your frozen fingers moving again."
+              }
+            },
+            {
+              "name": "Lunch at the Harbour",
+              "tip_5lang": {
+                "de": "Ein heißer Tee ist jetzt genau das Richtige.",
+                "hu": "Egy forró tea most pont megfelelne.",
+                "ro": "Un ceai fierbinte este exact ce aveți nevoie acum.",
+                "en": "A hot tea is exactly what you need right now."
+              }
+            },
+            {
+              "name": "Cycle the Beicin Loop",
+              "tip_5lang": {
+                "de": "Vermeiden Sie schattige Stellen, dort kann es noch gefroren sein.",
+                "hu": "Kerülje az árnyékos részeket, ott még fagyos lehet az út.",
+                "ro": "Evitați zonele umbrite, acolo drumul poate fi încă înghețat.",
+                "en": "Avoid shaded spots, they might still be frozen."
+              }
+            },
+            {
+              "name": "Relax at Bantry Bay",
+              "tip_5lang": {
+                "de": "Bewegen Sie sich ständig, um nicht auszukühlen.",
+                "hu": "Mozogjon folyamatosan, hogy ne hűljön ki.",
+                "ro": "Continuați să vă mișcați pentru a nu vă răci.",
+                "en": "Keep moving constantly to avoid getting cold."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winddichte Handschuhe sind beim Radfahren im Winter lebensnotwendig.",
+              "Tragen Sie helle Kleidung oder Reflektoren, da es früh dunkel wird.",
+              "Die salzige Luft am Meer kann die Kälte intensiver wirken lassen.",
+              "Achten Sie auf Raureif auf Brücken und Holzstegen."
+            ],
+            "hu": [
+              "A szélálló kesztyű elengedhetetlen a téli kerékpározáshoz.",
+              "Viseljen világos ruhát vagy fényvisszaverőt a korai sötétedés miatt.",
+              "A sós tengeri levegő intenzívebbé teheti a hideget.",
+              "Vigyázzon a zúzmarára a hidakon és fapallókon."
+            ],
+            "ro": [
+              "Mănușile rezistente la vânt sunt esențiale pentru ciclismul de iarnă.",
+              "Purtați haine deschise sau reflectorizante din cauza întunericului timpuriu.",
+              "Aerul sărat de pe mare poate face frigul să pară mai intens.",
+              "Atenție la chiciură pe poduri și pasarele de lemn."
+            ],
+            "en": [
+              "Windproof gloves are essential for winter cycling.",
+              "Wear bright clothing or reflectors due to early darkness.",
+              "The salty sea air can make the cold feel more intense.",
+              "Watch out for frost on bridges and wooden walkways."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -966,6 +1330,188 @@
           "The roads on the Beara Peninsula are very narrow, drive slowly and with care.",
           "Fill up on fuel before heading out on rural explorations."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "stops": [
+            {
+              "name": "Parking & Wolfe Tone Square",
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Platz, um den Regenweg zu verkürzen.",
+                "hu": "Parkoljon minél közelebb a térhez, hogy lerövidítse az utat az esőben.",
+                "ro": "Parcați cât mai aproape de piață pentru a scurta drumul prin ploaie.",
+                "en": "Park as close to the square as possible to minimize time in the rain."
+              }
+            },
+            {
+              "name": "St. Brendan's Church",
+              "tip_5lang": {
+                "de": "Ein schneller Sprint vom Auto zur Kirche hält Sie trocken.",
+                "hu": "Egy gyors futás az autótól a templomig szárazon tartja.",
+                "ro": "Un sprint rapid de la mașină la biserică vă va menține uscat.",
+                "en": "A quick sprint from the car to the church will keep you dry."
+              }
+            },
+            {
+              "name": "Drive to Bantry House",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz direkt am Anwesen.",
+                "hu": "Használja a közvetlenül a birtoknál lévő parkolót.",
+                "ro": "Folosiți parcarea direct de la proprietate.",
+                "en": "Use the parking lot located directly at the estate."
+              }
+            },
+            {
+              "name": "Lunch with a View",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit Drive-In oder nahem Parkplatz.",
+                "hu": "Válasszon éttermet közeli parkolóval.",
+                "ro": "Alegeți un restaurant cu parcare apropiată.",
+                "en": "Choose a restaurant with a nearby parking lot."
+              }
+            },
+            {
+              "name": "Drive to Whiddy Island Ferry",
+              "tip_5lang": {
+                "de": "Prüfen Sie telefonisch, ob die Fähre bei dem Wetter fährt.",
+                "hu": "Érdeklődjön telefonon, hogy az esőben is jár-e a komp.",
+                "ro": "Verificați prin telefon dacă feribotul circulă pe această vreme.",
+                "en": "Check by phone if the ferry is running in this weather."
+              }
+            },
+            {
+              "name": "Exploring Whiddy Island",
+              "tip_5lang": {
+                "de": "Auf der Insel gibt es wenig Schutz, Regenkleidung ist Pflicht.",
+                "hu": "A szigeten kevés a fedett rész, az esőruházat kötelező.",
+                "ro": "Pe insulă este puțin adăpost, echipamentul de ploaie este obligatoriu.",
+                "en": "There is little shelter on the island, waterproofs are mandatory."
+              }
+            }
+          ],
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist man in Bantry bei Regen bestens aufgehoben. Starten Sie am Wolfe Tone Square und nutzen Sie die kurzen Wege zwischen den Stopps. Bantry House bietet stundenlange Unterhaltung im Trockenen. Nach einem Mittagessen mit Panoramablick auf die graue Bucht fahren Sie zum Fähranleger. Die Überfahrt nach Whiddy Island ist bei Regen ein kleines Abenteuer, doch die raue Natur der Insel wirkt bei diesem Wetter besonders authentisch.",
+            "hu": "Autóval Bantry esőben is kényelmesen felfedezhető. Kezdjen a Wolfe Tone téren, kihasználva a megállók közötti rövid távokat. A Bantry House órákig tartó elfoglaltságot nyújt fedett helyen. A szürke öbölre néző panorámás ebéd után hajtson a komp kikötőjéhez. Az átkelés a Whiddy-szigetre esőben igazi kaland, de a sziget zord természetessége ilyenkor érvényesül leginkább.",
+            "ro": "Cu mașina, Bantry poate fi explorat confortabil chiar și pe ploaie. Începeți în Wolfe Tone Square, profitând de distanțele scurte dintre opriri. Bantry House oferă divertisment la adăpost timp de ore întregi. După un prânz cu vedere panoramică spre golful gri, conduceți spre feribot. Traversarea spre insula Whiddy pe ploaie este o mică aventură, dar natura crudă a insulei este autentică pe această vreme.",
+            "en": "By car, Bantry is easily explored even in the rain. Start at Wolfe Tone Square and take advantage of the short distances between stops. Bantry House offers hours of indoor entertainment. After a lunch with panoramic views of the grey bay, drive to the ferry terminal. The crossing to Whiddy Island in the rain is a small adventure, but the island's raw nature feels most authentic in this weather."
+          },
+          "tips": {
+            "de": [
+              "Die Straßen um Bantry können bei starkem Regen überflutet sein.",
+              "Lassen Sie keine Wertsachen sichtbar im Auto liegen.",
+              "Prüfen Sie die Fährzeiten, da Wind den Zeitplan beeinflussen kann.",
+              "Ein Regenschirm im Kofferraum ist für die Wege zum Auto nützlich."
+            ],
+            "hu": [
+              "Bantry környékén az utak heves esőzéskor víz alá kerülhetnek.",
+              "Ne hagyjon értéktárgyat látható helyen az autóban.",
+              "Ellenőrizze a komp menetrendjét, mert a szél befolyásolhatja.",
+              "Egy esernyő a csomagtartóban hasznos az autóhoz való eljutáshoz."
+            ],
+            "ro": [
+              "Drumurile din jurul Bantry pot fi inundate în timpul ploilor abundente.",
+              "Nu lăsați obiecte de valoare la vedere în mașină.",
+              "Verificați orarul feribotului, deoarece vântul poate afecta programul.",
+              "O umbrelă în portbagaj este utilă pentru drumurile spre mașină."
+            ],
+            "en": [
+              "Roads around Bantry can flood during heavy rain.",
+              "Do not leave valuables visible in the car.",
+              "Check ferry times as wind can affect the schedule.",
+              "An umbrella in the trunk is useful for the walk to the car."
+            ]
+          }
+        },
+        "winter": {
+          "stops": [
+            {
+              "name": "Parking & Wolfe Tone Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkhäuser, um das Auto eisfrei zu halten.",
+                "hu": "Használja a parkolóházakat, hogy az autó jégmentes maradjon.",
+                "ro": "Folosiți parcările acoperite pentru a menține mașina fără gheață.",
+                "en": "Use covered parking to keep the car frost-free."
+              }
+            },
+            {
+              "name": "St. Brendan's Church",
+              "tip_5lang": {
+                "de": "Vorsicht beim Aussteigen, der Boden kann gefroren sein.",
+                "hu": "Vigyázzon kiszálláskor, a talaj fagyott lehet.",
+                "ro": "Atenție la coborâre, solul poate fi înghețat.",
+                "en": "Be careful when getting out, the ground may be frozen."
+              }
+            },
+            {
+              "name": "Drive to Bantry House",
+              "tip_5lang": {
+                "de": "Die Zufahrt kann im Winter etwas glatt sein.",
+                "hu": "A behajtó út télen kicsit csúszós lehet.",
+                "ro": "Drumul de acces poate fi puțin alunecos iarna.",
+                "en": "The access road can be a bit slippery in winter."
+              }
+            },
+            {
+              "name": "Lunch with a View",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick aus dem warmen Auto oder Restaurant.",
+                "hu": "Élvezze a kilátást a meleg autóból vagy étteremből.",
+                "ro": "Bucurați-vă de priveliște din mașina caldă sau din restaurant.",
+                "en": "Enjoy the view from the warm car or restaurant."
+              }
+            },
+            {
+              "name": "Drive to Whiddy Island Ferry",
+              "tip_5lang": {
+                "de": "Stellen Sie die Heizung im Auto vor der Fährfahrt hoch ein.",
+                "hu": "Tekerje fel a fűtést az autóban a kompozás előtt.",
+                "ro": "Porniți căldura la maximum în mașină înainte de feribot.",
+                "en": "Turn up the heating in the car before the ferry ride."
+              }
+            },
+            {
+              "name": "Exploring Whiddy Island",
+              "tip_5lang": {
+                "de": "Die Wege auf der Insel sind im Winter oft sehr windig.",
+                "hu": "A sziget útjai télen gyakran nagyon szelesek.",
+                "ro": "Drumurile de pe insulă sunt adesea foarte bântuite de vânt iarna.",
+                "en": "The paths on the island are often very windy in winter."
+              }
+            }
+          ],
+          "narrative_4lang": {
+            "de": "Bantry im Winter mit dem Auto zu erkunden, bietet Komfort und Flexibilität. Der klare Himmel über dem Wolfe Tone Square verspricht einen schönen Tag. Bantry House beeindruckt mit seiner winterlichen Ruhe und den warmen Räumen. Nach einem stärkenden Mittagessen geht es zur Whiddy Island Fähre. Die Insel wirkt im Winter verlassen und wild, ein starker Kontrast zum geschäftigen Treiben im Sommer. Beenden Sie den Tag rechtzeitig, bevor der Frost die Straßen glatt macht.",
+            "hu": "Bantry felfedezése télen autóval kényelmet és rugalmasságot biztosít. A Wolfe Tone tér feletti tiszta égbolt szép napot ígér. A Bantry House lenyűgöző téli nyugalmával és meleg szobáival. Egy tápláló ebéd után irány a Whiddy-sziget kompja. A sziget télen elhagyatottnak és vadnak tűnik, éles ellentétben a nyári nyüzsgéssel. Fejezze be a napot időben, mielőtt a fagy csúszóssá tenné az utakat.",
+            "ro": "Explorarea Bantry iarna cu mașina oferă confort și flexibilitate. Cerul senin deasupra Wolfe Tone Square promite o zi frumoasă. Bantry House impresionează prin liniștea hibernală și camerele calde. După un prânz consistent, mergeți spre feribotul Whiddy Island. Insula pare pustie și sălbatică iarna, un contrast puternic cu agitația verii. Încheiați ziua devreme, înainte ca înghețul să facă drumurile alunecoase.",
+            "en": "Exploring Bantry in winter by car offers comfort and flexibility. The clear sky over Wolfe Tone Square promises a beautiful day. Bantry House impresses with its winter serenity and warm rooms. After a fortifying lunch, head to the Whiddy Island ferry. The island feels deserted and wild in winter, a stark contrast to the summer bustle. Finish your day early before frost makes the roads slippery."
+          },
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Ihr Frostschutzmittel aufgefüllt ist.",
+              "Fahren Sie vorsichtig auf Nebenstrecken, dort wird seltener gestreut.",
+              "Die Batterieleistung kann bei Kälte stark nachlassen.",
+              "Genießen Sie die Fahrt entlang der Küste bei klarem Winterlicht."
+            ],
+            "hu": [
+              "Győződjön meg róla, hogy a fagyálló fel van töltve.",
+              "Vezessen óvatosan a mellékutakon, ott ritkábban sóznak.",
+              "Az akkumulátor teljesítménye jelentősen csökkenhet a hidegben.",
+              "Élvezze a tengerparti autózást a tiszta téli fényben."
+            ],
+            "ro": [
+              "Asigurați-vă că antigelul este completat.",
+              "Conduceți cu prudență pe drumurile secundare, unde se aruncă sare mai rar.",
+              "Performanța bateriei poate scădea semnificativ la frig.",
+              "Bucurați-vă de drumul de-a lungul coastei în lumina clară a iernii."
+            ],
+            "en": [
+              "Ensure your antifreeze is topped up.",
+              "Drive carefully on backroads as they are salted less frequently.",
+              "Battery performance can drop significantly in the cold.",
+              "Enjoy the coastal drive in the clear winter light."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1268,6 +1814,170 @@
           "Cash is useful for the ferry and the pub on the island.",
           "Good footwear is essential for the hikes on Whiddy Island."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "stops": [
+            {
+              "name": "Arrival & Wolfe Tone Square",
+              "tip_5lang": {
+                "de": "Warten Sie in einem Café auf den nächsten Bus, wenn es stark regnet.",
+                "hu": "Várjon egy kávézóban a következő buszra, ha erősen esik.",
+                "ro": "Așteptați următorul autobuz într-o cafenea dacă plouă torențial.",
+                "en": "Wait in a cafe for the next bus if it's raining heavily."
+              }
+            },
+            {
+              "name": "Bantry House & Armada Exhibition",
+              "tip_5lang": {
+                "de": "Die Museen sind die besten Orte, um den Regen auszusitzen.",
+                "hu": "A múzeumok a legjobb helyek az eső kivárására.",
+                "ro": "Muzeele sunt cele mai bune locuri pentru a aștepta trecerea ploii.",
+                "en": "The museums are the best places to wait out the rain."
+              }
+            },
+            {
+              "name": "Lunch in the Town Centre",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant in der Nähe einer Bushaltestelle.",
+                "hu": "Válasszon éttermet egy buszmegálló közelében.",
+                "ro": "Alegeți un restaurant aproape de o stație de autobuz.",
+                "en": "Choose a restaurant near a bus stop."
+              }
+            },
+            {
+              "name": "Ferry to Whiddy Island",
+              "tip_5lang": {
+                "de": "Die Fähre hat einen kleinen überdachten Bereich.",
+                "hu": "A kompon van egy kis fedett rész.",
+                "ro": "Feribotul are o mică zonă acoperită.",
+                "en": "The ferry has a small covered area."
+              }
+            },
+            {
+              "name": "Hike on Whiddy Island",
+              "tip_5lang": {
+                "de": "Die Wege können sehr matschig sein, bleiben Sie auf befestigten Pfaden.",
+                "hu": "Az utak nagyon sárosak lehetnek, maradjon a kijelölt ösvényeken.",
+                "ro": "Căile de acces pot fi foarte noroioase, rămâneți pe potecile marcate.",
+                "en": "Paths can be very muddy; stick to the designated trails."
+              }
+            }
+          ],
+          "narrative_4lang": {
+            "de": "Mit dem Nahverkehr lässt sich Bantry auch bei Regen gut erkunden. Nach der Ankunft am Wolfe Tone Square bieten die nahegelegenen Museen perfekten Schutz. Bantry House und die Armada-Ausstellung sind Highlights, die Sie stundenlang beschäftigen. Nach einem gemütlichen Mittagessen im Stadtzentrum bringt Sie die Fähre nach Whiddy Island. Auch wenn die Wanderung dort bei Regen herausfordernd ist, bietet sie ein unverfälschtes Naturerlebnis, bevor Sie mit dem Bus zurückfahren.",
+            "hu": "Tömegközlekedéssel Bantry esőben is jól felfedezhető. A Wolfe Tone térre érkezés után a közeli múzeumok nyújtanak menedéket. A Bantry House és az Armada kiállítás órákra lekötik a figyelmét. A városközponti ebéd után a komp átviszi a Whiddy-szigetre. Bár a túra ott esőben kihívást jelent, hiteles természeti élményt nyújt, mielőtt busszal visszautazna.",
+            "ro": "Cu transportul public, Bantry poate fi explorat bine chiar și pe ploaie. După sosirea în Wolfe Tone Square, muzeele din apropiere oferă adăpost perfect. Bantry House și expoziția Armada vă vor ocupa ore întregi. După un prânz plăcut în centrul orașului, feribotul vă duce pe insula Whiddy. Chiar dacă drumeția de acolo este o provocare pe ploaie, oferă o experiență naturală autentică înainte de întoarcerea cu autobuzul.",
+            "en": "Using public transit, Bantry is still highly accessible in the rain. Upon arrival at Wolfe Tone Square, nearby museums provide excellent shelter. Bantry House and the Armada Exhibition will keep you engaged for hours. After a cozy lunch in the town centre, take the ferry to Whiddy Island. Although hiking there in the rain is challenging, it offers an authentic nature experience before catching the bus back."
+          },
+          "tips": {
+            "de": [
+              "Nutzen Sie die Echtzeit-App für Busabfahrten, um Wartezeiten im Regen zu vermeiden.",
+              "Die Busse in Bantry sind zuverlässig, aber seltener am Wochenende.",
+              "Tragen Sie Ihre Regenjacke bereits beim Umsteigen.",
+              "Haben Sie Kleingeld oder eine Leap Card bereit."
+            ],
+            "hu": [
+              "Használja a valós idejű buszalkalmazást, hogy elkerülje az esőben várakozást.",
+              "A buszok Bantry-ben megbízhatóak, de hétvégén ritkábbak.",
+              "Már az átszálláskor legyen Önön az esőkabát.",
+              "Legyen Önnél aprópénz vagy Leap Card."
+            ],
+            "ro": [
+              "Folosiți aplicația de transport în timp real pentru a evita așteptarea în ploaie.",
+              "Autobuzele din Bantry sunt de încredere, dar mai rare în weekend.",
+              "Purtați jacheta de ploaie încă de la transfer.",
+              "Aveți la îndemână mărunțiș sau un card Leap."
+            ],
+            "en": [
+              "Use the real-time bus app to avoid waiting in the rain.",
+              "Buses in Bantry are reliable but less frequent on weekends.",
+              "Wear your waterproof jacket even during transfers.",
+              "Have change or a Leap Card ready."
+            ]
+          }
+        },
+        "winter": {
+          "stops": [
+            {
+              "name": "Arrival & Wolfe Tone Square",
+              "tip_5lang": {
+                "de": "Ein heißer Kaffee nach der Ankunft wärmt Sie sofort auf.",
+                "hu": "Egy forró kávé érkezés után azonnal felmelegíti.",
+                "ro": "O cafea fierbinte după sosire vă va încălzi imediat.",
+                "en": "A hot coffee after arrival will warm you up instantly."
+              }
+            },
+            {
+              "name": "Bantry House & Armada Exhibition",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe in den Museen außerhalb der Hauptsaison.",
+                "hu": "Élvezze a múzeumok nyugalmát a főszezonon kívül.",
+                "ro": "Bucurați-vă de liniștea muzeelor în afara sezonului de vârf.",
+                "en": "Enjoy the quiet of the museums outside the peak season."
+              }
+            },
+            {
+              "name": "Lunch in the Town Centre",
+              "tip_5lang": {
+                "de": "Suchen Sie ein Lokal mit bequemen Polstersesseln zum Aufwärmen.",
+                "hu": "Keressen kényelmes, párnázott székkel rendelkező helyet a melegedéshez.",
+                "ro": "Căutați un local cu scaune tapițate confortabile pentru a vă încălzi.",
+                "en": "Look for a place with comfortable upholstered chairs to warm up."
+              }
+            },
+            {
+              "name": "Ferry to Whiddy Island",
+              "tip_5lang": {
+                "de": "Tragen Sie eine Mütze, die Ohren frieren auf der Fähre schnell ein.",
+                "hu": "Viseljen sapkát, a kompon gyorsan lefagy a füle.",
+                "ro": "Purtați o căciulă, urechile îngheață repede pe feribot.",
+                "en": "Wear a hat; your ears will freeze quickly on the ferry."
+              }
+            },
+            {
+              "name": "Hike on Whiddy Island",
+              "tip_5lang": {
+                "de": "Planen Sie den Rückweg zur Fähre vor Einbruch der Dunkelheit.",
+                "hu": "Tervezze meg a visszautat a komphoz sötétedés előtt.",
+                "ro": "Planificați întoarcerea la feribot înainte de lăsarea întunericului.",
+                "en": "Plan your return to the ferry before dark."
+              }
+            }
+          ],
+          "narrative_4lang": {
+            "de": "Mit Bus und Bahn durch Bantry im Winter ist eine entspannte Art zu reisen. Der Wolfe Tone Square empfängt Sie in winterlicher Frische. Bantry House bietet einen warmen Rückzugsort mit faszinierenden Einblicken in die Vergangenheit. Nach einem ausgiebigen Mittagessen im warmen Stadtzentrum setzen Sie mit der Fähre nach Whiddy Island über. Die winterliche Einsamkeit der Insel ist beeindruckend, aber achten Sie auf den frühen Sonnenuntergang, um rechtzeitig die letzte Fähre und den Anschlussbus zu erreichen.",
+            "hu": "Busszal és vonattal Bantry-ben télen utazni pihentető módja a felfedezésnek. A Wolfe Tone tér téli frissességgel fogadja. A Bantry House meleg menedéket nyújt lenyűgöző történelmi betekintéssel. A városközponti ebéd után komppal kelhet át a Whiddy-szigetre. A sziget téli magánya lenyűgöző, de ügyeljen a korai naplementére, hogy elérje az utolsó kompot és a csatlakozó buszt.",
+            "ro": "Călătoria cu autobuzul și trenul prin Bantry iarna este o modalitate relaxantă de explorare. Wolfe Tone Square vă întâmpină cu o prospețime hibernală. Bantry House oferă un refugiu cald cu perspective fascinante asupra trecutului. După un prânz prelungit în centrul cald al orașului, traversați cu feribotul spre insula Whiddy. Singurătatea hibernală a insulei este impresionantă, dar fiți atenți la apusul timpuriu pentru a prinde ultimul feribot și autobuzul de legătură.",
+            "en": "Traveling by bus and train through Bantry in winter is a relaxing way to explore. Wolfe Tone Square greets you with winter freshness. Bantry House offers a warm sanctuary with fascinating historical insights. After an extensive lunch in the warm town centre, take the ferry to Whiddy Island. The island's winter solitude is impressive, but be mindful of the early sunset to catch the last ferry and the connecting bus."
+          },
+          "tips": {
+            "de": [
+              "Haltestellen können im Winter zugig sein, bleiben Sie in Bewegung.",
+              "Prüfen Sie den Winterfahrplan, da einige Verbindungen reduziert sein könnten.",
+              "Die Heizung in den Bussen ist meist sehr gut eingestellt.",
+              "Ein heißes Getränk to-go macht das Warten angenehmer."
+            ],
+            "hu": [
+              "A megállók télen huzatosak lehetnek, maradjon mozgásban.",
+              "Ellenőrizze a téli menetrendet, mert egyes járatok ritkábbak lehetnek.",
+              "A buszokon a fűtés általában nagyon jól működik.",
+              "Egy forró ital elvitelre kellemesebbé teszi a várakozást."
+            ],
+            "ro": [
+              "Stațiile pot fi expuse curentului iarna, rămâneți în mișcare.",
+              "Verificați orarul de iarnă, deoarece unele legături pot fi reduse.",
+              "Căldura în autobuze este de obicei foarte bine reglată.",
+              "O băutură caldă la pachet face așteptarea mai plăcută."
+            ],
+            "en": [
+              "Stops can be drafty in winter; keep moving while waiting.",
+              "Check the winter schedule as some connections might be reduced.",
+              "Heating on buses is usually very well regulated.",
+              "A hot drink to-go makes waiting more pleasant."
+            ]
+          }
+        }
       }
     }
   }

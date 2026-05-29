@@ -344,6 +344,196 @@
         "en": [
           "Wear comfortable shoes as the center is compact and very walkable. Plan for extra time for photo stops, especially at the Inntel Hotel. Many museums are small, so it's wise to check their opening hours in advance. Enjoy a cup of coffee on the Zaan Promenade for an authentic local experience."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie am farbenfrohen Inntel Hotel, dessen Fassade auch bei grauem Himmel leuchtet. Der Vormittag gehört der Geschichte im Zar-Peter-Haus und der Bullekerk, die beide trockenen Unterschlupf bieten. Mittags lädt das Monet-Atelier zu künstlerischer Inspiration ein, während der Regen draußen an die Fenster trommelt. Den Nachmittag verbringen Sie in den überdachten Passagen der Zaan-Promenade, bevor der Tag im Wilhelmina Park gemütlich ausklingt.",
+            "hu": "Kezdje a napot a színes Inntel Hotelnél, amelynek homlokzata szürke esőben is ragyog. A délelőtt a Péter cár ház és a Bullekerk felfedezésével telik, mindkettő kiváló menedék a záporok elől. Délben a Monet Műterem várja, ahol az eső kopogása mellett merülhet el a művészetben. Délután a Zaan-sétány fedett árkádjai alatt sétálhat, majd a Wilhelmina Park friss, eső utáni illatait élvezve zárhatja a napot.",
+            "ro": "Începeți ziua la hotelul colorat Inntel, a cărui fațadă strălucește chiar și sub cerul gri. Dimineața este dedicată istoriei la Casa Țarului Petru și Bullekerk, ambele oferind adăpost uscat. La prânz, Atelierul Monet vă invită la inspirație artistică în timp ce ploaia bate în geamuri. Petreceți după-amiaza sub arcadele acoperite ale promenadei Zaan, înainte de a încheia ziua cu o plimbare revigorantă prin parcul Wilhelmina.",
+            "en": "Start your day at the colorful Inntel Hotel, whose facade shines even under grey skies. Spend the morning exploring the Tsar Peter House and Bullekerk, both providing dry refuge from the rain. At noon, the Monet Atelier offers artistic inspiration as raindrops drum on the windows. Spend the afternoon in the covered sections of the Zaan Promenade before ending the day enjoying the fresh, post-rain scents of Wilhelmina Park."
+          },
+          "stops": [
+            {
+              "name": "Inntel Hotels Zaandam",
+              "tip_4lang": {
+                "de": "Das LEGO-ähnliche Design bietet tolle Fotomotive bei Regen.",
+                "hu": "A LEGO-szerű homlokzat esőben is kiváló fotótéma.",
+                "ro": "Designul tip LEGO oferă cadre foto superbe chiar și pe ploaie.",
+                "en": "The LEGO-like design offers great photo opportunities in the rain."
+              }
+            },
+            {
+              "name": "Tsar Peter House",
+              "tip_4lang": {
+                "de": "Perfekter Ort, um einen plötzlichen Schauer im Inneren abzuwarten.",
+                "hu": "Tökéletes hely egy hirtelen zápor kivárására a házon belül.",
+                "ro": "Locul perfect pentru a aștepta trecerea unei averse în interior.",
+                "en": "Perfect place to wait out a sudden shower inside the house."
+              }
+            },
+            {
+              "name": "Bullekerk Church",
+              "tip_4lang": {
+                "de": "Bewundern Sie die Akustik, während es draußen regnet.",
+                "hu": "Csodálja meg az akusztikát, miközben kint esik az eső.",
+                "ro": "Admirați acustica în timp ce afară plouă.",
+                "en": "Admire the acoustics while it rains outside."
+              }
+            },
+            {
+              "name": "Monet Atelier",
+              "tip_4lang": {
+                "de": "Gemütlicher Rückzugsort für Kunstliebhaber an nassen Tagen.",
+                "hu": "Hangulatos menedék a művészet kedvelőinek esős napokon.",
+                "ro": "Refugiu primitor pentru iubitorii de artă în zilele umede.",
+                "en": "Cozy retreat for art lovers on wet days."
+              }
+            },
+            {
+              "name": "Zaan Promenade",
+              "tip_4lang": {
+                "de": "Nutzen Sie die Vordächer der Geschäfte zum trockenen Bummeln.",
+                "hu": "Használja az üzletek előtetőit a száraz sétálgatáshoz.",
+                "ro": "Folosiți copertinele magazinelor pentru o plimbare uscată.",
+                "en": "Use the shop awnings for dry strolling along the water."
+              }
+            },
+            {
+              "name": "Wilhelmina Park",
+              "tip_4lang": {
+                "de": "Gummistiefel sind für die Parkwege bei Regen empfehlenswert.",
+                "hu": "Esőben ajánlott a gumicsizma a parki ösvényekre.",
+                "ro": "Cizmele de gumă sunt recomandate pentru aleile parcului.",
+                "en": "Rubber boots are recommended for the park paths during rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Regenschirm ist wegen des starken Windes an der Zaan unerlässlich.",
+              "Die Einkaufszentren im Stadtzentrum bieten guten Schutz vor Wind und Wetter.",
+              "Viele Cafés am Wasser haben überdachte und beheizte Terrassen.",
+              "Nutzen Sie die kurzen Wege zwischen den Museen im Stadtkern.",
+              "Achten Sie auf rutschige Kopfsteinpflasterabschnitte in den Seitenstraßen."
+            ],
+            "hu": [
+              "Az erős szél miatt a Zaan partján egy strapabíró esernyő elengedhetetlen.",
+              "A városközpont bevásárlónegyedei jó védelmet nyújtanak az időjárás ellen.",
+              "Sok vízparti kávézó rendelkezik fedett és fűtött terasszal.",
+              "Használja ki a múzeumok közötti rövid távolságokat a belvárosban.",
+              "Vigyázzon a csúszós macskaköves szakaszokra a mellékutcákban."
+            ],
+            "ro": [
+              "O umbrelă rezistentă este esențială din cauza vântului puternic de pe malul Zaan.",
+              "Zonele comerciale din centrul orașului oferă o bună protecție împotriva intemperiilor.",
+              "Multe cafenele de pe malul apei au terase acoperite și încălzite.",
+              "ProfitShortați de distanțele scurte dintre muzee în centrul orașului.",
+              "Atenție la porțiunile cu piatră cubică alunecoasă de pe străzile laterale."
+            ],
+            "en": [
+              "A sturdy umbrella is essential due to the strong winds along the Zaan.",
+              "The shopping areas in the city center offer good protection from the weather.",
+              "Many waterfront cafes have covered and heated terraces.",
+              "Take advantage of the short distances between museums in the city core.",
+              "Watch out for slippery cobblestone sections in the side streets."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie Zaandam im winterlichen Glanz, wenn die Lichter des Inntel Hotels besonders früh leuchten. Vormittags wärmen Sie sich im geschichtsträchtigen Zar-Peter-Haus auf, bevor Sie die Bullekerk besuchen. Mittags bietet das Monet-Atelier eine warme Zuflucht für Kunstfreunde. Der Nachmittag an der Zaan-Promenade ist geprägt von klarer Winterluft und dem Duft von heißem Kakao, bevor Sie die früh einsetzende Dämmerung im Wilhelmina Park genießen.",
+            "hu": "Ismerje meg Zaandamot téli pompájában, amikor az Inntel Hotel fényei korán kigyúlnak. Délelőtt a történelmi Péter cár házban melegedhet fel, majd a Bullekerk felé veheti az irányt. Délben a Monet Műterem nyújt meleg menedéket a művészetkedvelőknek. A délutáni séta a Zaan-promenádon a friss téli levegőről és a forró kakaó illatáról szól, mielőtt a korai szürkületben a Wilhelmina Parkba érne.",
+            "ro": "Experimentați Zaandam în splendoarea iernii, când luminile hotelului Inntel se aprind devreme. Dimineața vă încălziți în Casa Țarului Petru, plină de istorie, înainte de a vizita Bullekerk. La prânz, Atelierul Monet oferă un refugiu cald pentru iubitorii de artă. După-amiaza pe promenada Zaan este marcată de aerul curat de iarnă și mirosul de cacao fierbinte, înainte de a savura amurgul timpuriu în parcul Wilhelmina.",
+            "en": "Experience Zaandam in its winter glory, when the lights of the Inntel Hotel turn on early. In the morning, warm up inside the historic Tsar Peter House before visiting the Bullekerk. At noon, the Monet Atelier provides a warm sanctuary for art enthusiasts. The afternoon on the Zaan Promenade is filled with crisp winter air and the scent of hot cocoa, before enjoying the early dusk in Wilhelmina Park."
+          },
+          "stops": [
+            {
+              "name": "Inntel Hotels Zaandam",
+              "tip_4lang": {
+                "de": "Die Fassade wird am späten Nachmittag wunderschön beleuchtet.",
+                "hu": "A homlokzat késő délután gyönyörű kivilágítást kap.",
+                "ro": "Fațada este luminată superb spre sfârșitul după-amiezii.",
+                "en": "The facade is beautifully illuminated in the late afternoon."
+              }
+            },
+            {
+              "name": "Tsar Peter House",
+              "tip_4lang": {
+                "de": "Das alte Holzhaus speichert die Kälte; ziehen Sie sich warm an.",
+                "hu": "A régi faház tartja a hideget; öltözzön fel melegen.",
+                "ro": "Casa veche de lemn păstrează frigul; îmbrăcați-vă bine.",
+                "en": "The old wooden house holds the cold; dress warmly inside."
+              }
+            },
+            {
+              "name": "Bullekerk Church",
+              "tip_4lang": {
+                "de": "Genießen Sie die Stille und die Wärme in der Kirche.",
+                "hu": "Élvezze a csendet és a viszonylagos meleget a templomban.",
+                "ro": "Bucurați-vă de liniște și căldură în interiorul bisericii.",
+                "en": "Enjoy the silence and the relative warmth inside the church."
+              }
+            },
+            {
+              "name": "Monet Atelier",
+              "tip_4lang": {
+                "de": "Ein perfekter Ort zum Aufwärmen zwischen den Spaziergängen.",
+                "hu": "Tökéletes hely a felmelegedésre a séták között.",
+                "ro": "Un loc perfect pentru a vă încălzi între plimbări.",
+                "en": "A perfect spot to warm up between your walks."
+              }
+            },
+            {
+              "name": "Zaan Promenade",
+              "tip_4lang": {
+                "de": "Probieren Sie heiße niederländische Waffeln an einem der Stände.",
+                "hu": "Kóstolja meg a forró holland ostyát az egyik árusnál.",
+                "ro": "Gustați napolitane olandeze calde de la tarabele locale.",
+                "en": "Try some hot Dutch waffles from one of the local vendors."
+              }
+            },
+            {
+              "name": "Wilhelmina Park",
+              "tip_4lang": {
+                "de": "Der Park ist ideal, um den Sonnenuntergang gegen 16:30 Uhr zu sehen.",
+                "hu": "A park ideális a naplemente megtekintéséhez 16:30 körül.",
+                "ro": "Parcul este ideal pentru a vedea apusul în jurul orei 16:30.",
+                "en": "The park is ideal for watching the sunset around 4:30 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Schichten, da der Wind vom Wasser sehr schneidend sein kann.",
+              "Die Sonne geht im Winter bereits gegen 16:30 Uhr unter.",
+              "Suchen Sie Cafés mit Kaminen für eine gemütliche Pause.",
+              "Kopfbedeckung und Handschuhe sind wegen der feuchten Kälte Pflicht.",
+              "Das Stadtzentrum ist im Dezember festlich geschmückt."
+            ],
+            "hu": [
+              "Öltözzön rétegesen, mert a víz felől érkező szél nagyon metsző lehet.",
+              "A nap télen már 16:30 körül lemegy.",
+              "Keressen kandallós kávézókat egy hangulatos pihenőhöz.",
+              "A sapka és kesztyű a párás hideg miatt kötelező.",
+              "A városközpont decemberben ünnepi díszbe öltözik."
+            ],
+            "ro": [
+              "Purtați haine stratificate, deoarece vântul de pe apă poate fi tăios.",
+              "Soarele apune deja în jurul orei 16:30 pe timp de iarnă.",
+              "Căutați cafenele cu șemineu pentru o pauză primitoare.",
+              "Căciula și mănușile sunt obligatorii din cauza frigului umed.",
+              "Centrul orașului este decorat festiv în luna decembrie."
+            ],
+            "en": [
+              "Wear layers as the wind from the water can be very biting.",
+              "The sun sets as early as 4:30 PM during winter.",
+              "Look for cafes with fireplaces for a cozy break.",
+              "Hats and gloves are mandatory due to the damp cold.",
+              "The city center is festively decorated during December."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -682,6 +872,196 @@
         "en": [
           "Rent a bike near the train station. The Netherlands is flat, but the wind can be a challenge; check the weather forecast. Use bike paths whenever possible; they are safe and well-maintained. Always lock your bike, even for short stops."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert die richtige Einstellung und Kleidung. Beginnen Sie am Hembrugterrein, wo die alten Industriehallen Schutz bieten. Radeln Sie zum Zar-Peter-Haus und dem Inntel Hotel, die beide markante Orientierungspunkte im Grau bieten. Nach einer Pause an der Zaan-Promenade führt der Weg zum Monet-Atelier. Den Abschluss bildet der Blick auf die Zaanse Schans, deren Mühlen im Regen besonders dramatisch wirken.",
+            "hu": "Egy esős bringázáshoz megfelelő hozzáállás és ruházat kell. Kezdjen a Hembrugterrein területén, ahol a régi csarnokok védelmet nyújtanak. Tekerjen a Péter cár házhoz és az Inntel Hotelhez, amelyek biztos támpontok a szürkeségben. A Zaan-parti pihenő után látogasson el a Monet Műterembe. A napot a Zaanse Schans látványa zárja, ahol a malmok az esőben különösen drámaiak.",
+            "ro": "O plimbare cu bicicleta pe ploaie necesită atitudinea și echipamentul potrivite. Începeți la Hembrugterrein, unde vechile hale oferă adăpost. Pedalați spre Casa Țarului Petru și hotelul Inntel, puncte de reper clare în griul zilei. După o pauză pe promenada Zaan, drumul duce la Atelierul Monet. Finalul este oferit de vederea spre Zaanse Schans, ale cărei mori par dramatice pe ploaie.",
+            "en": "A bike tour in the rain requires the right mindset and gear. Start at Hembrugterrein, where old industrial halls provide shelter. Cycle to the Tsar Peter House and the Inntel Hotel, both striking landmarks in the grey. After a break at the Zaan Promenade, the path leads to the Monet Atelier. The day concludes with a view of Zaanse Schans, where the windmills look particularly dramatic in the rain."
+          },
+          "stops": [
+            {
+              "name": "Hembrugterrein",
+              "tip_4lang": {
+                "de": "Nutzen Sie die großen Hallen als Unterschlupf bei starken Güssen.",
+                "hu": "Használja a nagy csarnokokat menedékként erős zápor esetén.",
+                "ro": "Folosiți halele mari ca adăpost în timpul averselor puternice.",
+                "en": "Use the large halls as shelter during heavy downpours."
+              }
+            },
+            {
+              "name": "Tsar Peter House",
+              "tip_4lang": {
+                "de": "Stellen Sie Ihr Rad unter den Bäumen in der Nähe unter.",
+                "hu": "Parkolja le a biciklit a közeli fák alatt.",
+                "ro": "Parcați bicicleta sub copacii din apropiere.",
+                "en": "Park your bike under the nearby trees for some cover."
+              }
+            },
+            {
+              "name": "Inntel Hotels Zaandam",
+              "tip_4lang": {
+                "de": "Vorsicht auf dem glatten Pflaster vor dem Hotel.",
+                "hu": "Vigyázzon a csúszós burkolatra a szálloda előtt.",
+                "ro": "Atenție la pavajul alunecos din fața hotelului.",
+                "en": "Be careful on the slippery pavement in front of the hotel."
+              }
+            },
+            {
+              "name": "Zaan Promenade",
+              "tip_4lang": {
+                "de": "Suchen Sie sich ein Café mit Fahrradständer unter dem Vordach.",
+                "hu": "Keressen kávézót fedett biciklitárolóval.",
+                "ro": "Căutați o cafenea cu suport de biciclete sub copertină.",
+                "en": "Look for a cafe with a bike rack under an awning."
+              }
+            },
+            {
+              "name": "Monet Atelier",
+              "tip_4lang": {
+                "de": "Wischen Sie Ihren Sattel vor dem Betreten trocken.",
+                "hu": "Törölje szárazra a nyerget, mielőtt belépne.",
+                "ro": "Ștergeți șaua înainte de a intra în atelier.",
+                "en": "Wipe your saddle dry before entering the atelier."
+              }
+            },
+            {
+              "name": "Zaanse Schans (Viewpoint)",
+              "tip_4lang": {
+                "de": "Der Weg über die Brücke kann bei Wind und Regen sehr nass sein.",
+                "hu": "A hídon átvezető út szélben és esőben nagyon vizes lehet.",
+                "ro": "Drumul peste pod poate fi foarte ud pe vânt și ploaie.",
+                "en": "The path across the bridge can be very wet in wind and rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vollständige Regenbekleidung (Hose und Jacke) wird dringend empfohlen.",
+              "Vermeiden Sie abruptes Bremsen auf nassen Radwegen.",
+              "Überprüfen Sie, ob Ihr Leihrad Schutzbleche hat.",
+              "Nutzen Sie die kostenlosen Fahrradparkplätze unter dem Bahnhof.",
+              "Planen Sie mehr Zeit für die Fahrten ein, da der Wind Sie bremsen könnte."
+            ],
+            "hu": [
+              "Teljes esőruházat (nadrág és kabát) erősen ajánlott.",
+              "Kerülje a hirtelen fékezést a vizes kerékpárutakon.",
+              "Ellenőrizze, hogy a bérelt kerékpárnak van-e sárvédője.",
+              "Használja az állomás alatti ingyenes, fedett bicikliparkolót.",
+              "Tervezzen több időt az utakra, mert a szél lelassíthatja."
+            ],
+            "ro": [
+              "Echipamentul complet de ploaie (pantaloni și jachetă) este recomandat.",
+              "Evitați frânarea bruscă pe pistele de biciclete ude.",
+              "Verificați dacă bicicleta închiriată are apărători de noroi.",
+              "Folosiți parcările gratuite de biciclete de sub gară.",
+              "Planificați mai mult timp pentru traseu, vântul vă poate încetini."
+            ],
+            "en": [
+              "Full rain gear (trousers and jacket) is highly recommended.",
+              "Avoid abrupt braking on wet bike paths.",
+              "Check if your rental bike has mudguards.",
+              "Use the free covered bike parking under the station.",
+              "Plan extra time for travel as the wind might slow you down."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radeln Sie durch das winterliche Zaan-Tal und genießen Sie die klare Luft. Starten Sie im geschichtsträchtigen Hembrugterrein, bevor es zum Zar-Peter-Haus geht. Das Inntel Hotel markiert die Mitte Ihrer Tour im Herzen von Zaandam. Entlang der Zaan-Promenade finden Sie viele Möglichkeiten für eine warme Pause. Besuchen Sie das Monet-Atelier und beenden Sie die Tour an der Zaanse Schans, wenn die tiefstehende Sonne die Mühlen in goldenes Licht taucht.",
+            "hu": "Tekerjen végig a téli Zaan-völgyön és élvezze a friss levegőt. Kezdjen a történelmi Hembrugterrein területén, majd irány a Péter cár ház. Az Inntel Hotel jelzi túrája felét Zaandam szívében. A Zaan-sétány mentén számos lehetőség nyílik egy melegítő pihenőre. Látogassa meg a Monet Műtermet, és zárja a napot a Zaanse Schansnál, amikor az alacsonyan járó nap aranyba vonja a malmokat.",
+            "ro": "Pedalați prin valea Zaan pe timp de iarnă și bucurați-vă de aerul curat. Începeți la Hembrugterrein, apoi mergeți spre Casa Țarului Petru. Hotelul Inntel marchează mijlocul turului în inima orașului Zaandam. Pe promenada Zaan veți găsi multe locuri pentru o pauză caldă. Vizitați Atelierul Monet și încheiați turul la Zaanse Schans, când soarele palid scaldă morile în lumină aurie.",
+            "en": "Cycle through the wintery Zaan valley and enjoy the crisp air. Start at the historic Hembrugterrein before heading to the Tsar Peter House. The Inntel Hotel marks the midpoint of your tour in the heart of Zaandam. Along the Zaan Promenade, you'll find plenty of spots for a warm break. Visit the Monet Atelier and finish at Zaanse Schans, when the low sun bathes the windmills in golden light."
+          },
+          "stops": [
+            {
+              "name": "Hembrugterrein",
+              "tip_4lang": {
+                "de": "Das Gelände ist weitläufig und windanfällig; tragen Sie Handschuhe.",
+                "hu": "A terület tágas és szeles; viseljen kesztyűt.",
+                "ro": "Zona este vastă și expusă vântului; purtați mănuși.",
+                "en": "The area is vast and windy; make sure to wear gloves."
+              }
+            },
+            {
+              "name": "Tsar Peter House",
+              "tip_4lang": {
+                "de": "Nutzen Sie die Zeit drinnen, um Ihre Hände aufzuwärmen.",
+                "hu": "Használja ki a bent töltött időt a kezei felmelegítésére.",
+                "ro": "Folosiți timpul petrecut în interior pentru a vă încălzi mâinile.",
+                "en": "Use the time inside to warm up your hands."
+              }
+            },
+            {
+              "name": "Inntel Hotels Zaandam",
+              "tip_4lang": {
+                "de": "Ein toller Ort für ein schnelles Winter-Selfie.",
+                "hu": "Remek hely egy gyors téli szelfihez.",
+                "ro": "Un loc excelent pentru un selfie rapid de iarnă.",
+                "en": "A great spot for a quick winter selfie."
+              }
+            },
+            {
+              "name": "Zaan Promenade",
+              "tip_4lang": {
+                "de": "Suchen Sie sich einen Platz an der Sonne, falls sie scheint.",
+                "hu": "Keressen egy napos helyet, ha éppen süt a nap.",
+                "ro": "Căutați un loc la soare, dacă acesta strălucește.",
+                "en": "Look for a spot in the sun if it's shining."
+              }
+            },
+            {
+              "name": "Monet Atelier",
+              "tip_4lang": {
+                "de": "In der Nähe gibt es Cafés mit gutem heißen Apfelkuchen.",
+                "hu": "A közelben remek forró almás pitét kínáló kávézók vannak.",
+                "ro": "În apropiere sunt cafenele cu plăcintă caldă cu mere.",
+                "en": "Nearby cafes offer great hot Dutch apple pie."
+              }
+            },
+            {
+              "name": "Zaanse Schans (Viewpoint)",
+              "tip_4lang": {
+                "de": "Gegen 16:00 Uhr ist das Licht für Fotos hier am besten.",
+                "hu": "16:00 körül a legszebbek a fények a fotózáshoz.",
+                "ro": "În jurul orei 16:00, lumina este cea mai bună pentru fotografii.",
+                "en": "Around 4:00 PM, the light is best for photos here."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Handschuhe und Ohrenschützer sind beim Radeln im Winter essenziell.",
+              "Achten Sie auf vereiste Stellen auf den Brücken über die Kanäle.",
+              "Die Batterien von E-Bikes entladen sich bei Kälte schneller.",
+              "Machen Sie regelmäßig Pausen in beheizten Räumen.",
+              "Stellen Sie sicher, dass Ihre Fahrradbeleuchtung funktioniert."
+            ],
+            "hu": [
+              "A meleg kesztyű és fülvédő elengedhetetlen a téli bringázáshoz.",
+              "Vigyázzon a jeges foltokra a csatornák feletti hidakon.",
+              "Az elektromos kerékpárok akkumulátora gyorsabban merül hidegben.",
+              "Tartson rendszeres szüneteket fűtött helyeken.",
+              "Győződjön meg róla, hogy a kerékpár világítása megfelelően működik."
+            ],
+            "ro": [
+              "Mănușile calde și protecțiile pentru urechi sunt esențiale iarna.",
+              "Atenție la porțiunile înghețate de pe podurile peste canale.",
+              "Bateriile bicicletelor electrice se descarcă mai repede la frig.",
+              "Faceți pauze regulate în spații încălzite.",
+              "Asigurați-vă că luminile bicicletei funcționează corect."
+            ],
+            "en": [
+              "Warm gloves and ear muffs are essential for winter cycling.",
+              "Watch out for icy patches on the bridges over the canals.",
+              "E-bike batteries drain faster in cold weather.",
+              "Take regular breaks in heated indoor spaces.",
+              "Ensure your bike lights are functioning properly for the early dusk."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -689,7 +1069,7 @@
       "speed_kmh": 28,
       "start": "09:00",
       "end_estimate": "17:34",
-      "total_km": 17.8,
+      "total_km": 11.2,
       "stop_count": 7,
       "stops": [
         {
@@ -1049,6 +1429,214 @@
         "en": [
           "Arrive early at Zaanse Schans to beat the crowds. Parking is expensive in city centers; using Park and Ride facilities can be more cost-effective. Plan your route in advance as some streets in Zaandam can be narrow. The cluster-walking strategy works perfectly here: one parking spot for each main area."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden Sie Zaanstad bequem und trocken. Beginnen Sie an der Zaanse Schans, wo Sie das Zaans Museum und das Weberhaus besuchen können, ohne lange im Regen zu stehen. Danach fahren Sie ins Zentrum zum Inntel Hotel und dem Zar-Peter-Haus. Die Zaan-Promenade bietet auch bei schlechtem Wetter reizvolle Ausblicke aus dem Autofenster oder bei kurzen Spaziergängen zwischen den Parkhäusern.",
+            "hu": "Autóval kényelmesen és szárazon fedezheti fel Zaandamot. Kezdjen a Zaanse Schansnál, ahol a Zaans Múzeum és a Takács háza várja, anélkül, hogy sokat ázna. Ezután hajtson a központba az Inntel Hotelhez és a Péter cár házhoz. A Zaan-promenád rossz időben is szép látványt nyújt az autó ablakából, vagy a parkolóházak közötti rövid séták során.",
+            "ro": "Cu mașina, explorați Zaandam confortabil și la adăpost de ploaie. Începeți la Zaanse Schans, unde puteți vizita Muzeul Zaans și Casa Țesătorului fără a sta mult în ploaie. Apoi mergeți spre centru la hotelul Inntel și Casa Țarului Petru. Promenada Zaan oferă priveliști frumoase chiar și pe vreme rea, din mașină sau în scurte plimbări între parcări.",
+            "en": "By car, you can explore Zaanstad comfortably while staying dry. Start at Zaanse Schans, where you can visit the Zaans Museum and the Weaver's House without long exposure to rain. Then drive to the center to see the Inntel Hotel and the Tsar Peter House. The Zaan Promenade offers charming views even in bad weather, either from your window or during short walks between parking garages."
+          },
+          "stops": [
+            {
+              "name": "Zaanse Schans Parking",
+              "tip_4lang": {
+                "de": "Der Parkplatz ist nah am Eingang, ideal bei Regen.",
+                "hu": "A parkoló közel van a bejárathoz, ideális esőben.",
+                "ro": "Parcarea este aproape de intrare, ideală pe ploaie.",
+                "en": "The parking lot is close to the entrance, ideal for rain."
+              }
+            },
+            {
+              "name": "Zaans Museum",
+              "tip_4lang": {
+                "de": "Ein großartiges Indoor-Ziel für regnerische Vormittage.",
+                "hu": "Kiváló beltéri célpont esős délelőttökre.",
+                "ro": "O destinație interioară excelentă pentru dimineți ploioase.",
+                "en": "A great indoor destination for rainy mornings."
+              }
+            },
+            {
+              "name": "The Weaver's House",
+              "tip_4lang": {
+                "de": "Kleine historische Innenräume bieten trockenen Schutz.",
+                "hu": "A kis történelmi belső terek száraz menedéket nyújtanak.",
+                "ro": "Interioarele istorice mici oferă protecție uscată.",
+                "en": "Small historic interiors offer dry shelter."
+              }
+            },
+            {
+              "name": "Zaandam Center Parking",
+              "tip_4lang": {
+                "de": "Nutzen Sie das überdachte Parkhaus Q-Park Hermitage.",
+                "hu": "Használja a fedett Q-Park Hermitage parkolóházat.",
+                "ro": "Folosiți parcarea acoperită Q-Park Hermitage.",
+                "en": "Use the covered Q-Park Hermitage parking garage."
+              }
+            },
+            {
+              "name": "Inntel Hotels Zaandam",
+              "tip_4lang": {
+                "de": "Bequemer kurzer Weg vom Parkhaus zum Foto-Spot.",
+                "hu": "Kényelmes, rövid út a parkolótól a fotópontig.",
+                "ro": "Drum scurt și confortabil de la parcare la punctul foto.",
+                "en": "Convenient short walk from the parking to the photo spot."
+              }
+            },
+            {
+              "name": "Tsar Peter House",
+              "tip_4lang": {
+                "de": "In der Nähe gibt es begrenzte Parkmöglichkeiten am Straßenrand.",
+                "hu": "A közelben korlátozott utcai parkolás lehetséges.",
+                "ro": "În apropiere există locuri de parcare limitate pe stradă.",
+                "en": "Limited street parking is available nearby."
+              }
+            },
+            {
+              "name": "Zaan Promenade",
+              "tip_4lang": {
+                "de": "Perfekt für einen schnellen Blick auf den Fluss im Regen.",
+                "hu": "Tökéletes egy gyors pillantásra a folyóra az esőben.",
+                "ro": "Perfect pentru o privire rapidă spre râu pe ploaie.",
+                "en": "Perfect for a quick look at the river during the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Parkhäuser im Zentrum, um trocken in die Geschäfte zu kommen.",
+              "Die Sicht kann bei starkem Regen auf den Deichstraßen eingeschränkt sein.",
+              "Parken an der Zaanse Schans ist teuer, aber bei Regen sehr praktisch.",
+              "Halten Sie Kleingeld oder eine App für die Parkgebühren bereit.",
+              "Vermeiden Sie die Rushhour rund um die Brücken über die Zaan."
+            ],
+            "hu": [
+              "Használja a központi parkolóházakat, hogy szárazon jusson az üzletekbe.",
+              "Erős esőben a látási viszonyok korlátozottak lehetnek a gátutakon.",
+              "A parkolás a Zaanse Schansnál drága, de esőben nagyon praktikus.",
+              "Készítsen össze aprót vagy parkolási appot a díjakhoz.",
+              "Kerülje a csúcsforgalmat a Zaan-hidak környékén."
+            ],
+            "ro": [
+              "Folosiți parcările etajate din centru pentru a ajunge uscat la magazine.",
+              "Vizibilitatea poate fi redusă pe drumurile de pe dig în caz de ploaie.",
+              "Parcarea la Zaanse Schans este scumpă, dar practică pe ploaie.",
+              "Pregătiți mărunțiș sau o aplicație pentru taxele de parcare.",
+              "Evitați orele de vârf în zona podurilor peste râul Zaan."
+            ],
+            "en": [
+              "Use the multi-story car parks in the center to access shops while staying dry.",
+              "Visibility can be limited on the dike roads during heavy rain.",
+              "Parking at Zaanse Schans is expensive but very practical in the rain.",
+              "Have change or a parking app ready for the fees.",
+              "Avoid rush hour around the bridges crossing the Zaan."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie eine gemütliche Winterfahrt durch die Zaan-Region. Beginnen Sie an der Zaanse Schans, wo die Mühlen oft von Raureif bedeckt sind. Besuchen Sie das Zaans Museum und das Weberhaus, um mehr über die lokale Geschichte zu erfahren. Im Zentrum von Zaandam erwarten Sie das beleuchtete Inntel Hotel und das Zar-Peter-Haus. Beenden Sie den Tag mit einer Fahrt entlang der Zaan-Promenade, während die Lichter der Stadt sich im dunklen Wasser spiegeln.",
+            "hu": "Élvezze a hangulatos téli autózást a Zaan-régióban. Kezdjen a Zaanse Schansnál, ahol a malmokat gyakran zúzmara fedi. Látogassa meg a Zaans Múzeumot és a Takács házát a helyi történelemért. Zaandam központjában a kivilágított Inntel Hotel és a Péter cár ház várja. Zárja a napot egy autózással a Zaan-sétány mentén, miközben a város fényei tükröződnek a sötét vízben.",
+            "ro": "Bucurați-vă de o plimbare auto primitoare de iarnă prin regiunea Zaan. Începeți la Zaanse Schans, unde morile sunt adesea acoperite de chiciură. Vizitați Muzeul Zaans și Casa Țesătorului pentru istoria locală. În centrul orașului Zaandam vă așteaptă hotelul Inntel iluminat și Casa Țarului Petru. Încheiați ziua cu o plimbare pe promenada Zaan, în timp ce luminile orașului se oglindesc în apa întunecată.",
+            "en": "Enjoy a cozy winter drive through the Zaan region. Start at Zaanse Schans, where the windmills are often covered in frost. Visit the Zaans Museum and the Weaver's House for some local history. In the center of Zaandam, the illuminated Inntel Hotel and the Tsar Peter House await you. End the day with a drive along the Zaan Promenade as the city lights reflect in the dark water."
+          },
+          "stops": [
+            {
+              "name": "Zaanse Schans Parking",
+              "tip_4lang": {
+                "de": "Achten Sie auf Glätte auf dem offenen Parkplatzgelände.",
+                "hu": "Vigyázzon a csúszós felületekre a nyitott parkolóban.",
+                "ro": "Atenție la polei în zona deschisă a parcării.",
+                "en": "Watch out for icy patches in the open parking area."
+              }
+            },
+            {
+              "name": "Zaans Museum",
+              "tip_4lang": {
+                "de": "Im Museumsshop gibt es warme Winteraccessoires.",
+                "hu": "A múzeumi boltban meleg téli kiegészítőket is árulnak.",
+                "ro": "În magazinul muzeului găsiți accesorii calde de iarnă.",
+                "en": "The museum shop sells warm winter accessories."
+              }
+            },
+            {
+              "name": "The Weaver's House",
+              "tip_4lang": {
+                "de": "Das Haus wirkt im Winter besonders heimelig.",
+                "hu": "A ház télen különösen otthonos hangulatot áraszt.",
+                "ro": "Casa pare deosebit de primitoare pe timp de iarnă.",
+                "en": "The house feels especially cozy during the winter months."
+              }
+            },
+            {
+              "name": "Zaandam Center Parking",
+              "tip_4lang": {
+                "de": "Überdachtes Parken schützt Ihr Auto vor Frost.",
+                "hu": "A fedett parkolás megvédi az autót a fagytól.",
+                "ro": "Parcarea acoperită vă protejează mașina de îngheț.",
+                "en": "Covered parking protects your car from frost and snow."
+              }
+            },
+            {
+              "name": "Inntel Hotels Zaandam",
+              "tip_4lang": {
+                "de": "Die Beleuchtung ist ein Highlight an kurzen Wintertagen.",
+                "hu": "A kivilágítás fénypontja a rövid téli napoknak.",
+                "ro": "Iluminatul este un punct forte în zilele scurte de iarnă.",
+                "en": "The lighting is a highlight during the short winter days."
+              }
+            },
+            {
+              "name": "Tsar Peter House",
+              "tip_4lang": {
+                "de": "Ein kurzer Fußweg führt durch die winterliche Altstadt.",
+                "hu": "Rövid séta vezet át a téli óvároson.",
+                "ro": "O scurtă plimbare vă duce prin centrul istoric de iarnă.",
+                "en": "A short walk takes you through the wintery old town."
+              }
+            },
+            {
+              "name": "Zaan Promenade",
+              "tip_4lang": {
+                "de": "Genießen Sie den Blick auf die beleuchteten Schiffe.",
+                "hu": "Élvezze a kivilágított hajók látványát.",
+                "ro": "Bucurați-vă de vederea navelor iluminate.",
+                "en": "Enjoy the view of the illuminated ships on the river."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind bei Frost auf den Nebenstraßen ratsam.",
+              "Eiskratzer und Frostschutzmittel sollten im Auto sein.",
+              "Die Parkgebühren sind im Zentrum auch im Winter voll fällig.",
+              "Nutzen Sie die Sitzheizung für maximale Gemütlichkeit.",
+              "Die Dämmerung beginnt früh, achten Sie auf gute Beleuchtung."
+            ],
+            "hu": [
+              "Téli gumi javasolt a fagyos mellékutakon.",
+              "Jégkaparó és fagyálló legyen az autóban.",
+              "A parkolási díjak télen is érvényesek a központban.",
+              "Használja az ülésfűtést a maximális kényelemért.",
+              "A szürkület korán kezdődik, figyeljen a világításra."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt recomandate pe drumurile secundare înghețate.",
+              "Răzuitoarea de gheață și antigelul nu trebuie să lipsească din mașină.",
+              "Taxele de parcare se aplică și iarna în centrul orașului.",
+              "Folosiți încălzirea în scaune pentru confort maxim.",
+              "Amurgul începe devreme, asigurați-vă că farurile funcționează bine."
+            ],
+            "en": [
+              "Winter tires are advisable on frozen side roads.",
+              "Keep an ice scraper and antifreeze in your car.",
+              "Parking fees apply in the center even during winter.",
+              "Use your seat heating for maximum coziness.",
+              "Dusk starts early, so ensure your lights are in good working order."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1391,6 +1979,196 @@
         "en": [
           "Buy a day pass for the bus if you plan on making multiple trips. Bus 391 is the most direct route to Zaanse Schans. Check bus schedules in advance, especially for the return trip. Most attractions in the center of Zaandam are within easy walking distance from the station. Download a public transport app for real-time information."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit Bus und Bahn bleiben Sie in Zaanstad weitgehend im Trockenen. Beginnen Sie am Bahnhof Zaandam, einem architektonischen Highlight. Besuchen Sie das Zar-Peter-Haus und das Monet-Atelier, die beide gut zu Fuß vom Bahnhof erreichbar sind. Der Bus bringt Sie bequem zur Zaanse Schans, wo Sie die Mühlen und Museen erkunden können. Den Tag lassen Sie an der Zaan-Promenade ausklingen, bevor Sie den Zug zurück nehmen.",
+            "hu": "Busszal és vonattal nagyrészt szárazon maradhat Zaandamban. Kezdjen a zaandami állomáson, amely építészeti remekmű. Látogassa meg a Péter cár házat és a Monet Műtermet, mindkettő könnyen elérhető gyalog az állomástól. A busz kényelmesen elviszi a Zaanse Schanshoz a malmokhoz. A napot a Zaan-promenádon zárhatja, mielőtt felszállna a hazatérő vonatra.",
+            "ro": "Cu autobuzul și trenul, rămâneți în mare parte la adăpost de ploaie în Zaandam. Începeți la gara Zaandam, un punct de reper arhitectural. Vizitați Casa Țarului Petru și Atelierul Monet, ambele la mică distanță de gară. Autobuzul vă duce confortabil la Zaanse Schans pentru mori și muzee. Încheiați ziua pe promenada Zaan înainte de a lua trenul înapoi.",
+            "en": "By bus and train, you can stay mostly dry while exploring Zaanstad. Start at Zaandam Station, an architectural highlight. Visit the Tsar Peter House and the Monet Atelier, both within easy walking distance of the station. The bus takes you comfortably to Zaanse Schans to see the windmills and museums. Finish your day at the Zaan Promenade before catching your train back."
+          },
+          "stops": [
+            {
+              "name": "Zaandam Station",
+              "tip_4lang": {
+                "de": "Ein imposantes Gebäude, das innen viel Platz zum Warten bietet.",
+                "hu": "Impozáns épület, belül tágas váróteremmel.",
+                "ro": "O clădire impunătoare cu mult spațiu de așteptare în interior.",
+                "en": "An impressive building with plenty of indoor waiting space."
+              }
+            },
+            {
+              "name": "Tsar Peter House",
+              "tip_4lang": {
+                "de": "Nur 10 Minuten Fußweg vom Bahnhof entfernt.",
+                "hu": "Csak 10 perc séta az állomástól.",
+                "ro": "La doar 10 minute de mers pe jos de la gară.",
+                "en": "Only a 10-minute walk from the station."
+              }
+            },
+            {
+              "name": "Monet Atelier",
+              "tip_4lang": {
+                "de": "Der Weg dorthin führt durch die überdachte Einkaufsstraße.",
+                "hu": "Az odavezető út a fedett bevásárlóutcán át visz.",
+                "ro": "Drumul până acolo trece prin strada comercială acoperită.",
+                "en": "The route there goes through the covered shopping street."
+              }
+            },
+            {
+              "name": "Bus to Zaanse Schans",
+              "tip_4lang": {
+                "de": "Die Bushaltestelle ist direkt am Bahnhof und überdacht.",
+                "hu": "A buszmegálló közvetlenül az állomásnál van és fedett.",
+                "ro": "Stația de autobuz este chiar lângă gară și este acoperită.",
+                "en": "The bus stop is right by the station and is covered."
+              }
+            },
+            {
+              "name": "Zaanse Schans",
+              "tip_4lang": {
+                "de": "Der Bus 391 hält sehr nah am Museumseingang.",
+                "hu": "A 391-es busz nagyon közel áll meg a múzeum bejáratához.",
+                "ro": "Autobuzul 391 oprește foarte aproape de intrarea în muzeu.",
+                "en": "Bus 391 stops very close to the museum entrance."
+              }
+            },
+            {
+              "name": "Zaan Promenade",
+              "tip_4lang": {
+                "de": "Vom Bahnhof aus sind es nur wenige Schritte bis zum Wasser.",
+                "hu": "Az állomástól csak pár lépés a vízpart.",
+                "ro": "De la gară sunt doar câțiva pași până la apă.",
+                "en": "It's just a few steps from the station to the waterfront."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die 9292-App für Echtzeit-Infos bei Wetterverzögerungen.",
+              "Die OV-chipkaart ist das einfachste Zahlungsmittel für alle Verkehrsmittel.",
+              "Bahnhöfe in den Niederlanden haben oft gute Kioske für warme Getränke.",
+              "Der Bus 391 (Industrial Heritage Line) ist ideal für Touristen.",
+              "Tragen Sie wasserfeste Schuhe für die kurzen Wege zwischen den Haltestellen."
+            ],
+            "hu": [
+              "Használja a 9292 appot a valós idejű infókért késések esetén.",
+              "Az OV-chipkaart a legegyszerűbb fizetési mód minden járművön.",
+              "A holland állomásokon remek büfék vannak meleg italokkal.",
+              "A 391-es busz (Industrial Heritage Line) ideális a turistáknak.",
+              "Viseljen vízálló cipőt a megállók közötti rövid szakaszokra."
+            ],
+            "ro": [
+              "Folosiți aplicația 9292 pentru informații în timp real în caz de întârzieri.",
+              "Cardul OV-chipkaart este cea mai simplă metodă de plată.",
+              "Gările olandeze au adesea chioșcuri bune pentru băuturi calde.",
+              "Autobuzul 391 (Industrial Heritage Line) este ideal pentru turiști.",
+              "Purtați încălțăminte impermeabilă pentru distanțele scurte dintre stații."
+            ],
+            "en": [
+              "Use the 9292 app for real-time info in case of weather delays.",
+              "The OV-chipkaart is the easiest way to pay for all transport.",
+              "Dutch stations often have great kiosks for hot drinks.",
+              "Bus 391 (Industrial Heritage Line) is ideal for tourists.",
+              "Wear waterproof shoes for the short walks between stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie das winterliche Zaandam stressfrei mit öffentlichen Verkehrsmitteln. Der Bahnhof Zaandam empfängt Sie mit seiner einzigartigen Architektur. Zu Fuß erreichen Sie das Zar-Peter-Haus und das Monet-Atelier, wo Sie sich zwischendurch aufwärmen können. Mit dem Bus geht es weiter zur Zaanse Schans, die im Winterlicht besonders malerisch wirkt. Genießen Sie die winterliche Atmosphäre an der Zaan-Promenade, bevor Sie gemütlich im warmen Zug zurückfahren.",
+            "hu": "Fedezze fel a téli Zaandamot stresszmentesen, tömegközlekedéssel. A zaandami állomás egyedi építészetével fogadja Önt. Gyalog elérheti a Péter cár házat és a Monet Műtermet, ahol közben felmelegedhet. Busszal utazzon tovább a Zaanse Schanshoz, amely a téli fényekben különösen festői. Élvezze a téli hangulatot a Zaan-promenádon, mielőtt felszállna a meleg vonatra.",
+            "ro": "Explorați Zaandam pe timp de iarnă fără stres, folosind transportul public. Gara Zaandam vă întâmpină cu arhitectura sa unică. Pe jos ajungeți la Casa Țarului Petru și Atelierul Monet, unde vă puteți încălzi. Cu autobuzul mergeți la Zaanse Schans, care pare pitoresc în lumina iernii. Bucurați-vă de atmosfera de iarnă pe promenada Zaan înainte de a vă întoarce cu trenul încălzit.",
+            "en": "Explore wintery Zaandam stress-free using public transport. Zaandam Station welcomes you with its unique architecture. On foot, you can reach the Tsar Peter House and the Monet Atelier, where you can warm up in between. Take the bus to Zaanse Schans, which looks especially picturesque in the winter light. Enjoy the winter atmosphere at the Zaan Promenade before heading back in a warm train."
+          },
+          "stops": [
+            {
+              "name": "Zaandam Station",
+              "tip_4lang": {
+                "de": "Der Bahnhof ist beheizt und hat saubere Toiletten.",
+                "hu": "Az állomás fűtött és tiszta mosdókkal rendelkezik.",
+                "ro": "Gara este încălzită și are toalete curate.",
+                "en": "The station is heated and has clean restrooms available."
+              }
+            },
+            {
+              "name": "Tsar Peter House",
+              "tip_4lang": {
+                "de": "Ein schneller Spaziergang hält Sie warm.",
+                "hu": "Egy gyors séta segít melegen tartani magát.",
+                "ro": "O plimbare rapidă vă ajută să vă mențineți căldura.",
+                "en": "A brisk walk to the house will help keep you warm."
+              }
+            },
+            {
+              "name": "Monet Atelier",
+              "tip_4lang": {
+                "de": "Ideal, um die Kälte für eine Weile zu vergessen.",
+                "hu": "Ideális hely, hogy egy időre elfelejtse a hideget.",
+                "ro": "Ideal pentru a uita de frig pentru o vreme.",
+                "en": "Ideal spot to forget about the cold for a while."
+              }
+            },
+            {
+              "name": "Bus to Zaanse Schans",
+              "tip_4lang": {
+                "de": "Busse fahren im Winter regelmäßig alle 15-20 Minuten.",
+                "hu": "A buszok télen is rendszeresen, 15-20 percenként járnak.",
+                "ro": "Autobuzele circulă regulat la 15-20 de minute și iarna.",
+                "en": "Buses run regularly every 15-20 minutes even in winter."
+              }
+            },
+            {
+              "name": "Zaanse Schans",
+              "tip_4lang": {
+                "de": "Besuchen Sie die Mühlen innen, dort ist es windgeschützt.",
+                "hu": "Látogasson el a malmok belsejébe, ott védve van a széltől.",
+                "ro": "Vizitați interiorul morilor, acolo sunteți ferit de vânt.",
+                "en": "Visit the inside of the mills to stay sheltered from the wind."
+              }
+            },
+            {
+              "name": "Zaan Promenade",
+              "tip_4lang": {
+                "de": "Die Abenddämmerung am Wasser ist im Winter besonders schön.",
+                "hu": "A szürkület a vízparton télen különösen szép.",
+                "ro": "Amurgul pe malul apei este deosebit de frumos iarna.",
+                "en": "Dusk by the water is especially beautiful during winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Züge in den Niederlanden sind im Winter gut beheizt.",
+              "Planen Sie Pufferzeiten ein, falls Schnee den Fahrplan beeinträchtigt.",
+              "Nutzen Sie die Wartebereiche in den Bahnhöfen.",
+              "Kaufen Sie ein Tagesticket, wenn Sie oft umsteigen.",
+              "Achten Sie auf die Anzeigen am Bahnsteig für kurzfristige Änderungen."
+            ],
+            "hu": [
+              "A holland vonatok télen jól fűtöttek.",
+              "Tervezzen be tartalékidőt, ha a hó befolyásolná a menetrendet.",
+              "Használja ki az állomásokon található váróhelyiségeket.",
+              "Vásároljon napijegyet, ha sokszor száll át.",
+              "Figyelje a peronon lévő kijelzőket az esetleges változások miatt."
+            ],
+            "ro": [
+              "Trenurile olandeze sunt bine încălzite pe timp de iarnă.",
+              "Planificați timp suplimentar în caz de întârzieri din cauza zăpezii.",
+              "Folosiți sălile de așteptare din gări.",
+              "Cumpărați un bilet de o zi dacă aveți multe transferuri.",
+              "Urmăriți panourile de pe peron pentru modificări de ultim moment."
+            ],
+            "en": [
+              "Dutch trains are well-heated during the winter months.",
+              "Allow for extra travel time if snow affects the schedule.",
+              "Take advantage of the waiting areas inside the stations.",
+              "Buy a day ticket if you plan on making multiple transfers.",
+              "Keep an eye on the platform displays for any short-term changes."
+            ]
+          }
+        }
       }
     }
   }

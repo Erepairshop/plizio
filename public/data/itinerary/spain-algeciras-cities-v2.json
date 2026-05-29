@@ -362,6 +362,188 @@
           "Keep an eye out for the many impressive murals throughout the city.",
           "The port is huge; focus on the area near the city center to avoid getting lost."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet die Plaza Alta Schutz unter den umliegenden Arkaden, bevor die Kirche Nuestra Señora de la Palma als trockener Zufluchtsort dient. Mittags ist das Stadtmuseum der ideale Ankerpunkt, um dem Regen für längere Zeit zu entfliehen. Nachmittags führen kurze Wege durch den Park, wobei die Bäume etwas Schutz bieten. Der Tag endet am Hafen, wo man das Treiben der Schiffe aus geschützten Wartebereichen beobachten kann.",
+            "hu": "A reggelt a Plaza Alta árkádjai alatt kezdjük, majd a pálmák temploma nyújt száraz menedéket. Délben a Városi Múzeum belső terei ideálisak a tartós eső kivárására, miközben a város történetét kutatjuk. Délután a María Cristina park sűrűbb fái alatt sétálhatunk két zápor között. Az este a kikötőben ér minket, ahol a kompok látványa a szürke vízen is lenyűgöző a fedett terminálok közeléből.",
+            "ro": "Dimineața începe sub arcadele din Plaza Alta, iar biserica din apropiere oferă un refugiu uscat în caz de aversă. La prânz, Muzeul Municipal este ancora perfectă pentru a evita ploaia prelungită. După-amiaza, plimbarea prin parc este scurtă, profitând de pauzele dintre nori. Ziua se încheie în zona portului, unde activitatea maritimă poate fi observată din puncte de așteptare acoperite.",
+            "en": "Morning starts under the arcades of Plaza Alta, with the nearby church offering a dry sanctuary. By midday, the Municipal Museum becomes the perfect anchor to escape the rain while exploring local history. Afternoon walks through the park are kept brief between showers. The day concludes at the port, where the sight of ferries navigating gray waters remains impressive from sheltered vantage points."
+          },
+          "stops": [
+            {
+              "name": "Plaza Alta",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den Arkaden der umliegenden Cafés.",
+                "hu": "Húzzódjon be a környező kávézók fedett árkádjai alá.",
+                "ro": "Adăpostiți-vă sub arcadele cafenelelor din jurul pieței.",
+                "en": "Take shelter under the arcades of the surrounding cafes."
+              }
+            },
+            {
+              "name": "Church of Our Lady of the Palm",
+              "tip_5lang": {
+                "de": "Ein ruhiger, trockener Ort für eine längere Pause während eines Schauers.",
+                "hu": "Csendes, száraz helyszín egy hosszabb pihenőhöz zápor idején.",
+                "ro": "Un loc liniștit și uscat pentru o pauză lungă în timpul ploii.",
+                "en": "A quiet, dry location for a long break during a downpour."
+              }
+            },
+            {
+              "name": "Merinid Walls",
+              "tip_5lang": {
+                "de": "Die Steine können rutschig sein; bleiben Sie auf den befestigten Wegen.",
+                "hu": "A kövek csúszósak lehetnek; maradjon a kijelölt gyalogutakon.",
+                "ro": "Pietrele pot fi alunecoase; rămâneți pe potecile pavate.",
+                "en": "The stones can be slippery; stay on the paved walkways."
+              }
+            },
+            {
+              "name": "Municipal Museum of Algeciras",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe, um nasse Schirme und Mäntel abzugeben.",
+                "hu": "Használja a ruhatárat a nedves esernyők és kabátok leadásához.",
+                "ro": "Folosiți garderoba pentru a lăsa umbrelele și haina udă.",
+                "en": "Use the cloakroom to drop off wet umbrellas and coats."
+              }
+            },
+            {
+              "name": "María Cristina Park",
+              "tip_5lang": {
+                "de": "Die dichten Baumkronen bieten natürlichen Schutz bei leichtem Nieselregen.",
+                "hu": "A sűrű lombkoronák természetes védelmet nyújtanak szemerkélő esőben.",
+                "ro": "Coroanele dese ale copacilor oferă protecție naturală în caz de burniță.",
+                "en": "The dense tree canopies offer natural protection during light drizzle."
+              }
+            },
+            {
+              "name": "Port of Algeciras",
+              "tip_5lang": {
+                "de": "Beobachten Sie das Be- und Entladen der Schiffe vom Terminal aus.",
+                "hu": "Figyelje a hajók rakodását a modern terminál üvegfalai mögül.",
+                "ro": "Observați încărcarea navelor din spatele pereților de sticlă ai terminalului.",
+                "en": "Watch the ship loading from behind the glass walls of the terminal."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Regenschirme sind bei Wind in der Bucht oft nutzlos; eine Regenjacke ist besser.",
+              "Das Stadtmuseum ist montags oft geschlossen, prüfen Sie die Zeiten.",
+              "Die Plaza Alta hat glatte Fliesen, die bei Nässe sehr rutschig werden.",
+              "Nutzen Sie die Cafés in der Calle Convento für trockene Pausen."
+            ],
+            "hu": [
+              "Az öbölben fújó szél miatt az esernyő helyett a vízálló kabát javasolt.",
+              "A Városi Múzeum hétfőnként zárva tarthat, ellenőrizze előre.",
+              "A Plaza Alta díszes csempéi vizesen rendkívül csúszósak.",
+              "Használja ki a Calle Convento kávézóit a száraz pihenőkhöz."
+            ],
+            "ro": [
+              "Din cauza vântului din golf, pelerina de ploaie este mai utilă decât umbrela.",
+              "Muzeul Municipal este adesea închis lunea; verificați programul.",
+              "Plăcile ceramice din Plaza Alta devin foarte alunecoase când sunt ude.",
+              "Folosiți cafenelele de pe Calle Convento pentru pauze uscate."
+            ],
+            "en": [
+              "Due to bay winds, a waterproof jacket is more effective than an umbrella.",
+              "The Municipal Museum is often closed on Mondays; check ahead.",
+              "The decorative tiles in Plaza Alta become extremely slippery when wet.",
+              "Utilize the cafes on Calle Convento for dry rest stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintermorgensonne taucht die Plaza Alta in ein klares Licht, ideal für Fotos ohne Hitze. Mittags bieten die Museen eine willkommene Aufwärmpause, obwohl die Temperaturen mild bleiben. Der Nachmittag im Park ist angenehm frisch, perfekt für einen längeren Spaziergang vor der frühen Dämmerung. Zum Abend hin sorgt die kühle Brise vom Hafen für eine belebende Atmosphäre, während die Lichter von Gibraltar am Horizont funkeln.",
+            "hu": "A téli reggeli nap tiszta fénybe vonja a Plaza Altát, ideális a tömeg nélküli nézelődéshez. Napközben a múzeum látogatása kellemes pihenőt nyújt a hűvösebb szél elől. A délutáni parki séta frissítő, az alacsony napállás pedig hosszú árnyékokat vet a történelmi falakra. Az este a kikötőben zárul, ahol a gibraltári fények már korán felgyúlnak a szemközti parton.",
+            "ro": "Soarele de iarnă luminează Plaza Alta într-un mod clar, perfect pentru fotografii fără caniculă. La prânz, vizitarea muzeului oferă o pauză caldă, deși temperaturile rămân blânde. După-amiaza în parc este revigorantă înainte de apusul timpuriu. Seara, briza răcoroasă din port creează o atmosferă energizantă, în timp ce luminile Gibraltarului încep să sclipească la orizont.",
+            "en": "Winter morning sun bathes Plaza Alta in clear light, ideal for photography without the heat. Midday museum visits offer a warm break, though temperatures remain mild. Afternoon in the park is refreshing before the early dusk sets in. By evening, the cool harbor breeze creates an invigorating atmosphere as the lights of Gibraltar sparkle across the bay."
+          },
+          "stops": [
+            {
+              "name": "Plaza Alta",
+              "tip_5lang": {
+                "de": "Genießen Sie die Morgensonne auf den Bänken ohne sommerliche Hitze.",
+                "hu": "Élvezze a reggeli napsütést a padokon a nyári hőség nélkül.",
+                "ro": "Bucurați-vă de soarele dimineții pe bănci, fără canicula verii.",
+                "en": "Enjoy the morning sun on the benches without the summer heat."
+              }
+            },
+            {
+              "name": "Church of Our Lady of the Palm",
+              "tip_5lang": {
+                "de": "Die Kirche kann im Winter innen recht kühl sein; behalten Sie Ihre Jacke an.",
+                "hu": "A templom belseje télen hűvös lehet, tartsa magán a kabátját.",
+                "ro": "Interiorul bisericii poate fi răcoros iarna; păstrați haina pe dvs.",
+                "en": "The church interior can be chilly in winter; keep your coat on."
+              }
+            },
+            {
+              "name": "Merinid Walls",
+              "tip_5lang": {
+                "de": "Das tiefstehende Sonnenlicht ist ideal, um die Textur der alten Mauern zu fotografieren.",
+                "hu": "Az alacsony napállás ideális a régi falak textúrájának fotózásához.",
+                "ro": "Lumina joasă a soarelui este ideală pentru a fotografia textura zidurilor vechi.",
+                "en": "The low sunlight is ideal for photographing the texture of the old walls."
+              }
+            },
+            {
+              "name": "Municipal Museum of Algeciras",
+              "tip_5lang": {
+                "de": "Ein gut beheizter Ort, um sich nach dem Spaziergang aufzuwärmen.",
+                "hu": "Jól fűtött helyszín a városi séta utáni felmelegedéshez.",
+                "ro": "Un loc bine încălzit pentru a vă încălzi după plimbarea prin oraș.",
+                "en": "A well-heated location to warm up after your city walk."
+              }
+            },
+            {
+              "name": "María Cristina Park",
+              "tip_5lang": {
+                "de": "Planen Sie den Besuch vor 17:30 Uhr, da es im Winter früh dunkel wird.",
+                "hu": "Tervezze a látogatást 17:30 előtt, mert télen korán sötétedik.",
+                "ro": "Planificați vizita înainte de 17:30, deoarece iarna se întunecă devreme.",
+                "en": "Plan your visit before 17:30, as it gets dark early in winter."
+              }
+            },
+            {
+              "name": "Port of Algeciras",
+              "tip_5lang": {
+                "de": "Abends wird es am Wasser deutlich kühler; Windschutz wird empfohlen.",
+                "hu": "Este a vízparton jelentősen lehűl a levegő; szélvédelem javasolt.",
+                "ro": "Seara se răcește considerabil lângă apă; se recomandă protecție contra vântului.",
+                "en": "It gets significantly cooler by the water in the evening; wind protection is advised."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Temperaturen liegen oft bei 12-15°C; Schichten sind ideal.",
+              "Sonnenuntergang ist gegen 18:00 Uhr, nutzen Sie das letzte Tageslicht am Hafen.",
+              "Viele Cafés haben Heizstrahler im Außenbereich für die kühlen Abende.",
+              "Der Levante-Wind kann die gefühlte Temperatur stark senken."
+            ],
+            "hu": [
+              "A hőmérséklet gyakran 12-15°C; a réteges öltözködés javasolt.",
+              "A naplemente 18:00 körül van, használja ki a fényeket a kikötőben.",
+              "Sok kávézó teraszán van hősugárzó a hűvösebb estékre.",
+              "A Levante szél jelentősen csökkentheti a hőérzetet."
+            ],
+            "ro": [
+              "Temperaturile sunt adesea între 12-15°C; îmbrăcămintea în straturi este ideală.",
+              "Apusul este în jur de ora 18:00; profitați de lumină în port.",
+              "Multe cafenele au încălzitoare exterioare pentru serile răcoroase.",
+              "Vântul Levante poate scădea considerabil temperatura resimțită."
+            ],
+            "en": [
+              "Temperatures are often 12-15°C; dressing in layers is recommended.",
+              "Sunset is around 18:00; use the last daylight at the harbor.",
+              "Many cafes have outdoor heaters for the cooler evenings.",
+              "The Levante wind can significantly lower the perceived temperature."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -652,6 +834,170 @@
           "Some sections of the coastal road do not have a separate bike path, ride with care.",
           "Always lock your bike securely when you park it."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt vorsichtig auf den gepflasterten Flächen der Plaza Alta, wo Vorsicht bei Nässe geboten ist. Mittags bietet die Route zum Hafen schnelle Verbindungen, falls man Schutz in Gebäuden suchen muss. Die Fahrt zum Getares-Strand ist bei Regen eine Herausforderung, belohnt aber mit einer dramatischen Aussicht auf die aufgewühlte See. Die Tour endet am Leuchtturm, wo der Wind und der Regen die rohe Kraft der Meerenge spürbar machen.",
+            "hu": "A nap óvatosan indul a Plaza Alta díszburkolatán, ahol vizesen csúszós az út. Napközben a kikötő felé vezető út gyors menekülési útvonalat kínál fedett helyekre. A Getares strand felé tartó tekerés esőben komolyabb kihívás, de drámai kilátást nyújt a felkavart tengerre. A túra a világítótoronynál ér véget, ahol a szél és az eső a szoros nyers erejét mutatja meg.",
+            "ro": "Ziua începe cu prudență pe pavajul din Plaza Alta, unde suprafețele umede pot fi înșelătoare. La prânz, ruta spre port oferă conexiuni rapide spre locuri adăpostite. Drumul spre plaja Getares pe ploaie este o provocare, dar oferă o priveliște dramatică asupra mării agitate. Turul se încheie la far, unde vântul și ploaia fac simțită forța brută a strâmtorii.",
+            "en": "The day begins cautiously on the tiled surfaces of Plaza Alta, where wet paths require extra care. Midday routes toward the port provide quick access to indoor shelters if needed. The ride to Getares Beach is challenging in the rain but rewards with dramatic views of the churning sea. The tour ends at the lighthouse, where wind and rain reveal the raw power of the Strait."
+          },
+          "stops": [
+            {
+              "name": "Plaza Alta",
+              "tip_5lang": {
+                "de": "Vermeiden Sie scharfe Kurven auf den nassen Kacheln.",
+                "hu": "Kerülje az éles kanyarodást a nedves csempéken.",
+                "ro": "Evitați virajele strânse pe plăcile ude.",
+                "en": "Avoid sharp turns on the wet decorative tiles."
+              }
+            },
+            {
+              "name": "María Cristina Park",
+              "tip_5lang": {
+                "de": "Fahren Sie langsam auf den sandigen Wegen, die matschig sein können.",
+                "hu": "Lassan haladjon a homokos utakon, amelyek sárosak lehetnek.",
+                "ro": "Circulați încet pe aleile cu nisip, care pot deveni noroioase.",
+                "en": "Ride slowly on the sandy paths, which may become muddy."
+              }
+            },
+            {
+              "name": "Port of Algeciras",
+              "tip_5lang": {
+                "de": "Achten Sie auf nasse Bahngleise im Hafengebiet.",
+                "hu": "Ügyeljen a nedves vasúti sínekre a kikötői területen.",
+                "ro": "Atenție la șinele de tren umede din zona portuară.",
+                "en": "Watch out for wet railway tracks in the port area."
+              }
+            },
+            {
+              "name": "Getares Beach",
+              "tip_5lang": {
+                "de": "Starker Seitenwind kann das Radfahren an der Promenade erschweren.",
+                "hu": "Az erős oldalszél megnehezítheti a tekerést a sétányon.",
+                "ro": "Vântul lateral puternic poate îngreuna pedalarea pe faleză.",
+                "en": "Strong crosswinds can make cycling on the promenade difficult."
+              }
+            },
+            {
+              "name": "Punta Carnero Lighthouse",
+              "tip_5lang": {
+                "de": "Der exponierte Küstenweg bietet kaum Schutz vor peitschendem Regen.",
+                "hu": "A kitett parti út alig nyújt védelmet a szakadó eső ellen.",
+                "ro": "Drumul de coastă expus oferă puțin adăpost împotriva ploii torențiale.",
+                "en": "The exposed coastal road offers little shelter from heavy rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche am Fahrrad sind bei diesem Wetter unverzichtbar.",
+              "Bremsen Sie auf den nassen Straßen früher als gewohnt.",
+              "Vermeiden Sie Pfützen, da diese tiefe Schlaglöcher verbergen können.",
+              "Tragen Sie gut sichtbare Regenkleidung, da die Sicht schlecht ist."
+            ],
+            "hu": [
+              "A sárvédő használata elengedhetetlen ebben az időben.",
+              "A megszokottnál korábban kezdjen el fékezni a nedves aszfalton.",
+              "Kerülje a tócsákat, mert mély kátyúkat rejthetnek.",
+              "Viseljen jól látható esőruházatot a romló látási viszonyok miatt."
+            ],
+            "ro": [
+              "Aripile la bicicletă sunt indispensabile pe acestă vreme.",
+              "Frânați mai devreme decât de obicei pe șoselele umede.",
+              "Evitați bălțile, deoarece pot ascunde gropi adânci.",
+              "Purtați haine de ploaie reflectorizante, vizibilitatea fiind scăzută."
+            ],
+            "en": [
+              "Mudguards are essential on your bike in this weather.",
+              "Apply your brakes earlier than usual on wet asphalt.",
+              "Avoid puddles as they can hide deep potholes.",
+              "Wear high-visibility rain gear as visibility is reduced."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen lädt zu einer Tour durch das Zentrum ein, wo die Luft frisch und sauber ist. Die Fahrt entlang der Küste zum Getares-Strand ist dank der milden Sonne auch im Winter ein Genuss. Nachmittags fordern die Anstiege zum Leuchtturm den Kreislauf, während man die schneebedeckten Gipfel des Atlasgebirges in Afrika in der Ferne sehen kann. Die Tour endet bei Sonnenuntergang, wenn der Himmel über der Straße von Gibraltar in intensiven Farben leuchtet.",
+            "hu": "A tiszta téli reggel ideális a központi túrához, ahol a levegő friss és tiszta. A Getares strand felé tartó tengerparti tekerés a lágy napsütésben télen is élvezetes. Délután a világítótoronyhoz vezető emelkedők megizzasztják, de a távolban látszódó afrikai Atlasz-hegység hófödte csúcsai kárpótolják. A túra naplementekor zárul, amikor az égbolt mély színekben játszik a szoros felett.",
+            "ro": "O dimineață senină de iarnă invită la un tur prin centru, unde aerul este proaspăt și curat. Drumul de-a lungul coastei spre plaja Getares este o plăcere chiar și iarna datorită soarelui blând. După-amiaza, urcările spre far vă vor solicita, dar priveliștea munților Atlas din Africa merită efortul. Turul se încheie la apus, când cerul deasupra strâmtorii capătă culori intense.",
+            "en": "A clear winter morning invites a tour through the center, where the air is crisp and clean. The coastal ride to Getares Beach remains a delight in winter thanks to the mild sun. Afternoon climbs to the lighthouse get your heart rate up, while the snow-capped Atlas Mountains in Africa appear on the horizon. The tour concludes at sunset when the sky over the Strait glows with intense colors."
+          },
+          "stops": [
+            {
+              "name": "Plaza Alta",
+              "tip_5lang": {
+                "de": "Vorsicht vor morgendlichem Tau auf den Kacheln.",
+                "hu": "Vigyázzon a reggeli harmatra a csempéken.",
+                "ro": "Atenție la roua dimineții pe suprafețele ceramice.",
+                "en": "Watch out for morning dew on the decorative tiles."
+              }
+            },
+            {
+              "name": "María Cristina Park",
+              "tip_5lang": {
+                "de": "Die schattigen Wege können deutlich kühler sein als die sonnigen Bereiche.",
+                "hu": "Az árnyékos utak jóval hűvösebbek lehetnek a napos részeknél.",
+                "ro": "Aleile umbrite pot fi mult mai răcoroase decât zonele însorite.",
+                "en": "The shaded paths can be significantly cooler than the sunny areas."
+              }
+            },
+            {
+              "name": "Port of Algeciras",
+              "tip_5lang": {
+                "de": "Die feuchte Seeluft kann die Kälte im Schatten verstärken.",
+                "hu": "A párás tengeri levegő felerősítheti a hidegérzetet az árnyékban.",
+                "ro": "Aerul umed de mare poate accentua frigul la umbră.",
+                "en": "The humid sea air can intensify the cold in the shade."
+              }
+            },
+            {
+              "name": "Getares Beach",
+              "tip_5lang": {
+                "de": "Ideal für eine Pause in der direkten Wintersonne.",
+                "hu": "Ideális helyszín egy pihenőre a közvetlen téli napsütésben.",
+                "ro": "Loc ideal pentru o pauză în soarele direct de iarnă.",
+                "en": "Ideal location for a break in the direct winter sun."
+              }
+            },
+            {
+              "name": "Punta Carnero Lighthouse",
+              "tip_5lang": {
+                "de": "Nehmen Sie eine zusätzliche Schicht für die windige Rückfahrt mit.",
+                "hu": "Vigyen magával egy extra réteget a szeles visszautazáshoz.",
+                "ro": "Luați un strat suplimentar de haine pentru întoarcerea cu vânt.",
+                "en": "Take an extra layer for the windy return journey."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winddichte Handschuhe sind für die Abfahrten im Winter wichtig.",
+              "Die Sonne steht tief, eine Sonnenbrille ist für die Sicherheit unerlässlich.",
+              "Prüfen Sie den Reifendruck, da dieser bei Kälte leicht sinken kann.",
+              "Es wird schnell dunkel; stellen Sie sicher, dass Ihre Beleuchtung funktioniert."
+            ],
+            "hu": [
+              "A szélálló kesztyű fontos a téli lejtőzésnél.",
+              "A nap alacsonyan jár, a napszemüveg elengedhetetlen a biztonsághoz.",
+              "Ellenőrizze a keréknyomást, mert hidegben kicsit csökkenhet.",
+              "Gyorsan sötétedik, győződjön meg róla, hogy a világítás működik."
+            ],
+            "ro": [
+              "Mănușile rezistente la vânt sunt importante pentru coborârile de iarnă.",
+              "Soarele este jos, ochelarii de soare sunt indispensabili pentru siguranță.",
+              "Verificați presiunea în pneuri, deoarece poate scădea la frig.",
+              "Se înserează repede; asigurați-vă că luminile bicicletei funcționează."
+            ],
+            "en": [
+              "Windproof gloves are important for winter descents.",
+              "The sun is low; sunglasses are essential for safety.",
+              "Check your tire pressure as it can drop slightly in the cold.",
+              "It gets dark quickly; ensure your bike lights are working."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -966,6 +1312,188 @@
           "A GPS is essential for navigating between the clusters.",
           "Plan extra time for traffic, especially near the port."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt bequem mit der Anfahrt zu den Merinidenmauern, wobei das Auto als mobiler Unterschlupf dient. Bei Regen lassen sich die Plaza Alta und die Kirche Nuestra Señora de la Palma schnell erreichen, ohne nass zu werden. Die Fahrt zum Getares-Strand bietet auch bei schlechtem Wetter tolle Ausblicke aus dem trockenen Innenraum. Zum Abschluss führt die Tour zu den Aussichtspunkten der Meerenge, wo man die Stürme sicher vom Fahrzeug aus beobachten kann.",
+            "hu": "A nap kényelmesen indul a Merinida falaknál, ahol az autó mobil menedékként szolgál. Esőben a Plaza Alta és a templom gyorsan elérhető anélkül, hogy elázna. A Getares strand felé vezető út a száraz utastérből is pazar kilátást nyújt a viharos tengerre. Végezetül a szoros kilátópontjaihoz hajtunk, ahol a gépkocsi biztonságából figyelhetjük a hullámokat.",
+            "ro": "Ziua începe confortabil cu accesul la Zidurile Merinide, mașina servind drept adăpost mobil. Pe ploaie, Plaza Alta și biserica pot fi vizitate rapid fără a vă uda prea mult. Drumul spre plaja Getares oferă priveliști superbe din interiorul uscat al mașinii chiar și pe vreme rea. În final, turul duce spre punctele de belvedere ale strâmtorii, de unde puteți observa furtuna în siguranță.",
+            "en": "The day starts comfortably at the Merinid Walls, with the car serving as a mobile shelter. During rain, Plaza Alta and the church can be accessed quickly to minimize exposure. The drive to Getares Beach offers great views from the dry interior even in bad weather. Finally, the tour visits the Strait viewpoints, where you can watch the storms safely from your vehicle."
+          },
+          "stops": [
+            {
+              "name": "Parking at Merinid Walls",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz, der dem Eingang am nächsten liegt.",
+                "hu": "Használja a bejárathoz legközelebbi parkolóhelyeket.",
+                "ro": "Folosiți locurile de parcare cele mai apropiate de intrare.",
+                "en": "Use the parking spots closest to the entrance."
+              }
+            },
+            {
+              "name": "Plaza Alta",
+              "tip_5lang": {
+                "de": "Es gibt Tiefgaragen in der Nähe, um das Aussteigen im Regen zu vermeiden.",
+                "hu": "A közelben mélygarázsok találhatók, így elkerülhető az esőben kiszállás.",
+                "ro": "Există parcări subterane în apropiere pentru a evita ploaia la coborâre.",
+                "en": "There are underground parking lots nearby to avoid getting wet when exiting."
+              }
+            },
+            {
+              "name": "Church of Our Lady of the Palm",
+              "tip_5lang": {
+                "de": "Lassen Sie Passagiere direkt vor dem Kircheneingang aussteigen.",
+                "hu": "Tegye ki az utasokat közvetlenül a templom bejárata előtt.",
+                "ro": "Lăsați pasagerii chiar în fața intrării în biserică.",
+                "en": "Drop off passengers right in front of the church entrance."
+              }
+            },
+            {
+              "name": "Getares Beach",
+              "tip_5lang": {
+                "de": "Parken Sie mit Blick auf das Meer, um die Brandung trocken zu genießen.",
+                "hu": "Parkoljon a tenger felé fordulva, hogy szárazon élvezhesse a hullámzást.",
+                "ro": "Parcați cu fața spre mare pentru a vedea valurile din mașină.",
+                "en": "Park facing the sea to enjoy the surf from the dry car."
+              }
+            },
+            {
+              "name": "Punta Carnero Lighthouse",
+              "tip_5lang": {
+                "de": "Vorsicht bei starken Böen beim Öffnen der Autotüren.",
+                "hu": "Vigyázzon az erős széllökésekre az autóajtó nyitásakor.",
+                "ro": "Atenție la rafalele puternice de vânt când deschideți portierele.",
+                "en": "Be careful of strong gusts when opening car doors."
+              }
+            },
+            {
+              "name": "Strait of Gibraltar Viewpoint",
+              "tip_5lang": {
+                "de": "Die Wolken hängen oft tief; die Sicht kann stark eingeschränkt sein.",
+                "hu": "A felhők gyakran alacsonyan szállnak, a kilátás korlátozott lehet.",
+                "ro": "Norii sunt adesea joși; vizibilitatea poate fi mult redusă.",
+                "en": "Clouds often hang low; visibility may be significantly reduced."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Scheibenwischer vor der Fahrt an der Küste.",
+              "Die Küstenstraße kann bei starkem Regen stellenweise überflutet sein.",
+              "Halten Sie größeren Sicherheitsabstand auf nasser Fahrbahn.",
+              "Nutzen Sie die Parkhäuser im Zentrum, sie sind trocken und sicher."
+            ],
+            "hu": [
+              "Ellenőrizze az ablaktörlőket a tengerparti út előtt.",
+              "A parti út erős esőben helyenként víz alá kerülhet.",
+              "Tartson nagyobb követési távolságot a nedves aszfalton.",
+              "Használja a belvárosi parkolóházakat, azok szárazak és biztonságosak."
+            ],
+            "ro": [
+              "Verificați ștergătoarele înainte de drumul pe coastă.",
+              "Șoseaua de coastă poate fi inundată parțial în caz de ploaie torențială.",
+              "Păstrați o distanță mai mare de siguranță pe carosabil umed.",
+              "Folosiți parcările etajate din centru, sunt uscate și sigure."
+            ],
+            "en": [
+              "Check your windshield wipers before driving along the coast.",
+              "The coastal road can be partially flooded during heavy rain.",
+              "Keep a larger following distance on wet roads.",
+              "Use multi-story parking garages in the center; they are dry and safe."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen bietet perfekte Fernsicht von den Merinidenmauern aus. Die Fahrt durch das Zentrum ist entspannt, da weniger Touristen unterwegs sind. Mittags lädt der Getares-Strand zu einer kurzen Pause in der milden Sonne ein, bevor die Tour zum Leuchtturm fortgesetzt wird. Der Nachmittag an den Aussichtspunkten der Meerenge ist spektakulär, wenn die afrikanische Küste zum Greifen nah erscheint. Zum Abendessen locken die Lichter der Stadt in der frühen Winterdämmerung.",
+            "hu": "A tiszta téli reggel tökéletes távlati kilátást kínál a Merinida falaktól. A belvárosi autózás nyugodt, mivel kevesebb a turista. Napközben a Getares strand hívogat egy rövid pihenőre a lágy napsütésben. A délután a szoros kilátópontjainál látványos, az afrikai partok ilyenkor tűnnek a legközelebbihez. Az este a város fényeivel vár a korai téli szürkületben.",
+            "ro": "O dimineață senină de iarnă oferă o vizibilitate perfectă de la Zidurile Merinide. Condusul prin centru este relaxat, fiind mai puțini turiști. La prânz, plaja Getares invită la o scurtă pauză în soarele blând. După-amiaza la punctele de belvedere este spectaculoasă, coasta africană părând foarte aproape. Seara vă întâmpină cu luminile orașului în amurgul timpuriu.",
+            "en": "A clear winter morning offers perfect long-range visibility from the Merinid Walls. Driving through the center is relaxed with fewer tourists around. Midday invites a short break at Getares Beach in the mild sun. The afternoon at the Strait viewpoints is spectacular, with the African coast appearing within reach. Evening welcomes you with city lights in the early winter dusk."
+          },
+          "stops": [
+            {
+              "name": "Parking at Merinid Walls",
+              "tip_5lang": {
+                "de": "Die Parkplätze sind im Winter meist problemlos verfügbar.",
+                "hu": "A parkolóhelyek télen általában gond nélkül elérhetők.",
+                "ro": "Locurile de parcare sunt de obicei disponibile iarna fără probleme.",
+                "en": "Parking spots are usually readily available in winter."
+              }
+            },
+            {
+              "name": "Plaza Alta",
+              "tip_5lang": {
+                "de": "Nutzen Sie die kurzen Wege vom Parkplatz zum Zentrum.",
+                "hu": "Használja ki a parkolótól a központig tartó rövid sétát.",
+                "ro": "Profitați de distanța scurtă de la parcare până în centru.",
+                "en": "Take advantage of the short walk from the parking lot to the center."
+              }
+            },
+            {
+              "name": "Church of Our Lady of the Palm",
+              "tip_5lang": {
+                "de": "Ein Besuch im Inneren bietet Schutz vor der kühlen Brise.",
+                "hu": "A templombelső felkeresése védelmet nyújt a hűvös szél ellen.",
+                "ro": "Vizitarea interiorului oferă adăpost împotriva brizei răcoroase.",
+                "en": "A visit inside offers shelter from the cool breeze."
+              }
+            },
+            {
+              "name": "Getares Beach",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das Meer bei weit geöffnetem Fenster.",
+                "hu": "Élvezze a tengeri kilátást leengedett ablakok mellett.",
+                "ro": "Bucurați-vă de priveliștea mării cu geamurile deschise.",
+                "en": "Enjoy the sea view with the windows rolled down."
+              }
+            },
+            {
+              "name": "Punta Carnero Lighthouse",
+              "tip_5lang": {
+                "de": "Idealer Stopp für Fotos der afrikanischen Küste bei klarem Wetter.",
+                "hu": "Ideális megálló az afrikai partok fotózásához tiszta időben.",
+                "ro": "Oprire ideală pentru poze cu coasta africană pe vreme senină.",
+                "en": "Ideal stop for photos of the African coast in clear weather."
+              }
+            },
+            {
+              "name": "Strait of Gibraltar Viewpoint",
+              "tip_5lang": {
+                "de": "Perfekt für den Sonnenuntergang; kommen Sie vor 18:00 Uhr an.",
+                "hu": "Tökéletes a naplementéhez; érkezzen meg 18:00 előtt.",
+                "ro": "Perfect pentru apus; ajungeți înainte de ora 18:00.",
+                "en": "Perfect for sunset; arrive before 18:00."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sicht ist im Winter oft besser als im dunstigen Sommer.",
+              "Vorsicht vor Wildtieren auf der Straße zum Leuchtturm.",
+              "Stellen Sie sicher, dass Ihre Scheinwerfer für die frühe Dämmerung sauber sind.",
+              "Parken Sie am Aussichtspunkt so, dass Sie im Auto den Sonnenuntergang sehen."
+            ],
+            "hu": [
+              "A látási viszonyok télen gyakran jobbak, mint a párás nyáron.",
+              "Vigyázzon a vadon élő állatokra a világítótoronyhoz vezető úton.",
+              "Győződjön meg róla, hogy a fényszórók tiszták a korai szürkület miatt.",
+              "A kilátópontnál úgy parkoljon, hogy az autóból lássa a naplementét."
+            ],
+            "ro": [
+              "Vizibilitatea este adesea mai bună iarna decât în verile cu pâclă.",
+              "Atenție la animalele sălbatice pe drumul spre far.",
+              "Asigurați-vă că farurile sunt curate pentru amurgul timpuriu.",
+              "Parcați la punctul de belvedere astfel încât să vedeți apusul din mașină."
+            ],
+            "en": [
+              "Visibility is often better in winter than in the hazy summer.",
+              "Watch out for wildlife on the road to the lighthouse.",
+              "Ensure your headlights are clean for the early dusk.",
+              "Park at the viewpoint so you can see the sunset from inside the car."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1280,6 +1808,188 @@
           "Most buses are air-conditioned, which is a welcome break on hot days.",
           "Keep small change ready for bus tickets if you don't have a card."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Busfahrt zur Plaza Alta bietet einen trockenen Start in den Tag, während der Regen gegen die Fenster trommelt. Mittags ist der Aufenthalt im Stadtmuseum die beste Option, da es gut an das Busnetz angebunden ist. Die Fahrt zum Hafen ermöglicht es, direkt in die Nähe der Terminals zu gelangen, ohne lange im Regen laufen zu müssen. Zum Abschluss führt die Linie zum Getares-Strand, wo man die stürmische See aus der Wärme des Busses beobachten kann.",
+            "hu": "A buszozás a Plaza Altáig száraz kezdést biztosít, miközben az eső az ablakon kopog. Napközben a Városi Múzeum felkeresése a legjobb választás, mivel jól megközelíthető tömegközlekedéssel. A kikötői járatok közvetlenül a terminálok közelében tesznek le, minimalizálva az esőben gyaloglást. Végezetül a Getares strand felé tartó vonal kínál látványt a viharos tengerre a meleg buszból.",
+            "ro": "Călătoria cu autobuzul spre Plaza Alta asigură un început uscat, în timp ce ploaia bate în geamuri. La prânz, vizitarea muzeului este cea mai bună opțiune, fiind bine conectată la rețeaua de transport. Autobuzele spre port vă lasă aproape de terminale, evitând mersul lung prin ploaie. În final, linia spre plaja Getares oferă priveliști spre marea agitată din căldura autobuzului.",
+            "en": "The bus ride to Plaza Alta ensures a dry start while rain drums against the windows. Midday museum visits are the best option as they are well-connected to the transit network. Port buses drop you off close to terminals, minimizing walking in the rain. Finally, the line to Getares Beach offers views of the stormy sea from the warmth of the bus."
+          },
+          "stops": [
+            {
+              "name": "Plaza Alta",
+              "tip_5lang": {
+                "de": "Die Haltestellen haben meist gute Überdachungen.",
+                "hu": "A buszmegállók többsége jól védett, fedett tetővel rendelkezik.",
+                "ro": "Stațiile de autobuz au de obicei acoperișuri bune.",
+                "en": "Most bus stops have good shelters."
+              }
+            },
+            {
+              "name": "Church of Our Lady of the Palm",
+              "tip_5lang": {
+                "de": "Warten Sie in der Kirche, bis der nächste Bus fällig ist.",
+                "hu": "Várjon a templomban a következő busz érkezéséig.",
+                "ro": "Așteptați în biserică până la ora de sosire a următorului autobuz.",
+                "en": "Wait inside the church until your next bus is due."
+              }
+            },
+            {
+              "name": "Municipal Museum of Algeciras",
+              "tip_5lang": {
+                "de": "Die Haltestelle befindet sich fast direkt vor dem Museumseingang.",
+                "hu": "A megálló szinte közvetlenül a múzeum bejárata előtt van.",
+                "ro": "Stația se află aproape direct în fața intrării în muzeu.",
+                "en": "The bus stop is located almost directly in front of the museum entrance."
+              }
+            },
+            {
+              "name": "María Cristina Park",
+              "tip_5lang": {
+                "de": "Verkürzen Sie den Aufenthalt im Freien und nutzen Sie den nächsten Bus.",
+                "hu": "Rövidítse le a kinti tartózkodást és használja a következő buszt.",
+                "ro": "Scurtați timpul petrecut afară și luați următorul autobuz.",
+                "en": "Shorten your time outdoors and catch the next bus."
+              }
+            },
+            {
+              "name": "Port of Algeciras",
+              "tip_5lang": {
+                "de": "Die Anbindung an den Fernbusbahnhof bietet zusätzliche Wartehallen.",
+                "hu": "A távolsági buszpályaudvar közelsége extra várótermeket kínál.",
+                "ro": "Apropierea de autogară oferă săli de așteptare suplimentare.",
+                "en": "Proximity to the intercity bus station offers extra waiting areas."
+              }
+            },
+            {
+              "name": "Getares Beach",
+              "tip_5lang": {
+                "de": "Die Endstation bietet einen geschützten Platz zum Warten auf die Rückfahrt.",
+                "hu": "A végállomás védett helyet kínál a visszainduló járatra való várakozáshoz.",
+                "ro": "Capătul de linie oferă un loc protejat pentru așteptarea returului.",
+                "en": "The terminus offers a sheltered spot to wait for the return trip."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die App des lokalen Nahverkehrs für Echtzeit-Infos bei Regen.",
+              "Haben Sie Kleingeld oder eine Karte für das Ticket bereit.",
+              "In den Bussen kann es bei Regen durch nasse Kleidung feucht sein.",
+              "Die Frequenz der Busse kann bei starkem Unwetter leicht variieren."
+            ],
+            "hu": [
+              "Használja a helyi közlekedési alkalmazást a valós idejű infókért esőben.",
+              "Készítsen elő aprópénzt vagy kártyát a jegyvásárláshoz.",
+              "A buszokon esőben a nedves ruhák miatt párás lehet a levegő.",
+              "Erős vihar esetén a buszok gyakorisága kissé eltérhet a menetrendtől."
+            ],
+            "ro": [
+              "Folosiți aplicația locală de transport pentru info în timp real pe ploaie.",
+              "Pregătiți mărunțiș sau cardul pentru cumpărarea biletului.",
+              "În autobuze poate fi umezeală din cauza hainelor ude ale călătorilor.",
+              "Frecvența autobuzelor poate varia ușor în caz de furtună puternică."
+            ],
+            "en": [
+              "Use the local transit app for real-time info during rain.",
+              "Have small change or a card ready for ticket purchase.",
+              "Bus interiors can get humid during rain due to wet clothing.",
+              "Bus frequency may vary slightly during heavy storms."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen im Bus ermöglicht entspannte Ausblicke auf die Stadt ohne die Sommerhitze. Die Route führt effizient zu den wichtigsten Sehenswürdigkeiten, wobei die Busse im Winter angenehm temperiert sind. Mittags bietet der Besuch des Museums eine ideale Pause, bevor es weiter zum Hafen geht. Die Fahrt zum Getares-Strand am Nachmittag zeigt die ruhige Seite der Küste, während die Abenddämmerung den Hafen in ein goldenes Licht taucht.",
+            "hu": "A tiszta téli reggel a buszon nyugodt kilátást nyújt a városra a nyári hőség nélkül. Az útvonal hatékonyan érinti a főbb látnivalókat, a buszok télen kellemes hőmérsékletűek. Napközben a múzeumlátogatás ideális pihenő, mielőtt a kikötő felé venné az irányt. A délutáni út a Getares strandhoz a part csendes oldalát mutatja, míg a szürkület arany fénybe vonja a kikötőt.",
+            "ro": "O dimineață senină de iarnă în autobuz oferă priveliști relaxate asupra orașului fără caniculă. Ruta atinge eficient principalele atracții, autobuzele fiind încălzite plăcut iarna. La prânz, vizitarea muzeului este o pauză ideală înainte de a pleca spre port. Călătoria spre plaja Getares arată latura liniștită a coastei, în timp ce amurgul scaldă portul în lumină aurie.",
+            "en": "A clear winter morning on the bus offers relaxed city views without the summer heat. The route efficiently reaches main attractions, and buses are pleasantly heated in winter. Midday museum visits provide an ideal break before heading to the port. The afternoon trip to Getares Beach shows the quiet side of the coast, while dusk bathes the harbor in golden light."
+          },
+          "stops": [
+            {
+              "name": "Plaza Alta",
+              "tip_5lang": {
+                "de": "Die Haltestellen sind im Winter weniger überfüllt.",
+                "hu": "A buszmegállók télen kevésbé zsúfoltak.",
+                "ro": "Stațiile de autobuz sunt mai puțin aglomerate iarna.",
+                "en": "Bus stops are less crowded in winter."
+              }
+            },
+            {
+              "name": "Church of Our Lady of the Palm",
+              "tip_5lang": {
+                "de": "Nutzen Sie die zentrale Lage für einen schnellen Umstieg.",
+                "hu": "Használja ki a központi elhelyezkedést a gyors átszálláshoz.",
+                "ro": "Profitați de locația centrală pentru un transfer rapid.",
+                "en": "Take advantage of the central location for a quick transfer."
+              }
+            },
+            {
+              "name": "Municipal Museum of Algeciras",
+              "tip_5lang": {
+                "de": "Der Bus hält direkt in der Nähe, ideal bei kühlerem Wind.",
+                "hu": "A busz közvetlen közelben áll meg, ami hűvös szélben ideális.",
+                "ro": "Autobuzul oprește chiar lângă, ideal când vântul este rece.",
+                "en": "The bus stops right nearby, which is ideal in cool winds."
+              }
+            },
+            {
+              "name": "María Cristina Park",
+              "tip_5lang": {
+                "de": "Die Busse verkehren auch im Winter regelmäßig bis in den Abend.",
+                "hu": "A buszok télen is rendszeresen közlekednek egészen estig.",
+                "ro": "Autobuzele circulă regulat până seara chiar și iarna.",
+                "en": "Buses run regularly until evening even in winter."
+              }
+            },
+            {
+              "name": "Port of Algeciras",
+              "tip_5lang": {
+                "de": "Gute Verbindungen zu anderen Stadtteilen für den Abend.",
+                "hu": "Jó összeköttetés a város többi részével az esti programokhoz.",
+                "ro": "Conexiuni bune cu alte zone ale orașului pentru seară.",
+                "en": "Good connections to other parts of the city for the evening."
+              }
+            },
+            {
+              "name": "Getares Beach",
+              "tip_5lang": {
+                "de": "Beachten Sie den leicht ausgedünnten Fahrplan am Wochenende im Winter.",
+                "hu": "Ügyeljen a hétvégi ritkább menetrendre a téli időszakban.",
+                "ro": "Atenție la programul ușor redus în weekend pe timp de iarnă.",
+                "en": "Note the slightly reduced weekend schedule during winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Busse sind im Winter meist gut beheizt.",
+              "Nutzen Sie die Fahrzeit, um die Route für den nächsten Stopp zu planen.",
+              "Ab 18:00 Uhr ist es dunkel; die Stadtlichter vom Bus aus sind sehenswert.",
+              "Die Linie zum Strand bietet im Winter oft mehr Sitzplätze."
+            ],
+            "hu": [
+              "A buszok télen általában jól fűtöttek.",
+              "Használja ki az utazási időt a következő megálló megtervezésére.",
+              "18:00 után sötét van, a város fényei a buszból nézve is szépek.",
+              "A strand felé tartó vonalon télen több a szabad ülőhely."
+            ],
+            "ro": [
+              "Autobuzele sunt de obicei bine încălzite iarna.",
+              "Folosiți timpul de călătorie pentru a planifica următorul obiectiv.",
+              "După ora 18:00 este întuneric; luminile orașului văzute din autobuz merită vizionate.",
+              "Linia spre plajă are adesea mai multe locuri libere iarna."
+            ],
+            "en": [
+              "Buses are usually well-heated in winter.",
+              "Use travel time to plan your route for the next stop.",
+              "It is dark after 18:00; city lights from the bus are worth seeing.",
+              "The line to the beach often has more seating available in winter."
+            ]
+          }
+        }
       }
     }
   }

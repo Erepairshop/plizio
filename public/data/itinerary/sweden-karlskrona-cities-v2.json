@@ -372,6 +372,188 @@
           "Many museums and attractions are closed on Mondays, so check opening hours in advance.",
           "The 'Allemansrätten' (Right of Public Access) allows you to roam almost anywhere in nature as long as you respect the environment."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen beginnt am Stortorget, wo die Fredrik-Kirche trockenen Unterschlupf bietet. Mittags flüchten wir in das beeindruckende Marinemuseum auf Stumholmen, ideal für schlechtes Wetter. Am Nachmittag leuchten die roten Häuser von Brändaholm trotz des grauen Himmels intensiv. Den Abend lassen wir bei einem heißen Getränk in der gemütlichen Innenstadt ausklingen.",
+            "hu": "Az esős reggel a Stortorgeten indul, ahol a Fredrik-templom nyújt száraz menedéket. Délben a Stumholmen található tengerészeti múzeumba húzódunk be, amely tökéletes program rossz időben. Délután Brändaholm vörös házai az esőben is vibráló színekkel festik meg a tájat. Az estét egy forró ital mellett, a belváros egyik hangulatos kávézójában zárjuk.",
+            "ro": "O dimineață ploioasă începe în Stortorget, unde Biserica lui Fredrik oferă un adăpost uscat. La prânz ne refugiem în impresionantul Muzeu Naval de pe Stumholmen, ideal pentru vreme rea. După-amiaza, casele roșii din Brändaholm strălucesc intens în ciuda cerului cenușiu. Încheiem seara cu o băutură caldă într-o cafenea primitoare din centrul orașului.",
+            "en": "A rainy morning starts at Stortorget, where Fredrik's Church offers dry sanctuary. At noon, we retreat into the impressive Naval Museum on Stumholmen, perfect for inclement weather. In the afternoon, the red houses of Brändaholm glow with intense color despite the grey skies. We wrap up the evening with a hot drink in a cozy downtown cafe."
+          },
+          "stops": [
+            {
+              "name": "Fredrik's Church",
+              "tip_5lang": {
+                "de": "Bewundern Sie die barocke Decke, während es draußen regnet.",
+                "hu": "Csodáld meg a barokk mennyezetet, amíg kint esik az eső.",
+                "ro": "Admirați tavanul baroc în timp ce afară plouă.",
+                "en": "Admire the baroque ceiling while it rains outside."
+              }
+            },
+            {
+              "name": "Admiralty Church (Ulrica Pia)",
+              "tip_5lang": {
+                "de": "Rosenbom draußen ist nass; werfen Sie schnell eine Münze ein.",
+                "hu": "Rosenbom kint ázik; dobj be gyorsan egy érmét a kalapjába.",
+                "ro": "Rosenbom de afară e ud; aruncați rapid o monedă.",
+                "en": "Rosenbom outside is wet; drop a coin in quickly."
+              }
+            },
+            {
+              "name": "Stumholmen & Naval Museum",
+              "tip_5lang": {
+                "de": "Die U-Boot-Halle ist der beste Ort, um trocken zu bleiben.",
+                "hu": "A tengeralattjáró-csarnok a legjobb hely a szárazon maradáshoz.",
+                "ro": "Hala submarinelor este cel mai bun loc pentru a rămâne uscat.",
+                "en": "The submarine hall is the best place to stay dry."
+              }
+            },
+            {
+              "name": "Lunch on Stumholmen",
+              "tip_5lang": {
+                "de": "Wählen Sie einen Tisch am Fenster, um den Regen auf dem Meer zu beobachten.",
+                "hu": "Válassz ablak melletti asztalt, és nézd a tengert az esőben.",
+                "ro": "Alegeți o masă la fereastră pentru a vedea ploaia pe mare.",
+                "en": "Choose a window table to watch the rain on the sea."
+              }
+            },
+            {
+              "name": "Brändaholm",
+              "tip_5lang": {
+                "de": "Die nassen roten Fassaden ergeben tolle Kontrastfotos.",
+                "hu": "A vizes vörös homlokzatok remek kontrasztos fotókat adnak.",
+                "ro": "Fațadele roșii umede oferă fotografii cu contrast excelent.",
+                "en": "The wet red facades make for great high-contrast photos."
+              }
+            },
+            {
+              "name": "Kungsbron Bridge",
+              "tip_5lang": {
+                "de": "Vorsicht, der Boden kann bei Nässe rutschig sein.",
+                "hu": "Vigyázat, a burkolat nedvesen csúszós lehet.",
+                "ro": "Atenție, pavajul poate fi alunecos pe timp de ploaie.",
+                "en": "Careful, the pavement can be slippery when wet."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Karlskrona ist windig; ein stabiler Regenschirm ist besser als ein billiger.",
+              "Nutzen Sie die Arkaden am Stortorget als natürlichen Regenschutz.",
+              "Das Marinemuseum bietet kostenlose Schließfächer für nasse Jacken.",
+              "Wasserdichte Schuhe sind auf dem Kopfsteinpflaster von Trossö Pflicht."
+            ],
+            "hu": [
+              "Karlskrona szeles, egy erős esernyő többet ér, mint egy olcsó darab.",
+              "Használd a Stortorget árkádjait természetes esővédőként.",
+              "A Tengerészeti Múzeumban ingyenes szekrények vannak a vizes kabátoknak.",
+              "A vízálló cipő kötelező Trossö macskaköves utcáin."
+            ],
+            "ro": [
+              "Karlskrona e vântos; o umbrelă rezistentă e mai bună decât una ieftină.",
+              "Folosiți arcadele din Stortorget ca protecție naturală contra ploii.",
+              "Muzeul Naval oferă dulapuri gratuite pentru jachetele ude.",
+              "Încălțămintea impermeabilă este obligatorie pe piatra cubică din Trossö."
+            ],
+            "en": [
+              "Karlskrona is windy; a sturdy umbrella is better than a cheap one.",
+              "Use the arcades at Stortorget as natural rain cover.",
+              "The Naval Museum offers free lockers for wet jackets.",
+              "Waterproof shoes are a must on the cobblestones of Trossö."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Wintermorgen am Stortorget beginnt mit dem Anblick der vereisten Fredrik-Kirche. Mittags bietet das Marinemuseum wohlige Wärme und faszinierende Einblicke in die Seekriegsgeschichte. Am frühen Nachmittag besuchen wir Brändaholm, dessen rote Häuser im Schnee wie eine Postkarte wirken. Da es gegen 15:30 Uhr dunkel wird, genießen wir den Abend in einem hell beleuchteten Restaurant.",
+            "hu": "A fagyos téli reggel a Stortorgeten indul, a Fredrik-templom jeges tornyaival. Délben a Tengerészeti Múzeum nyújt melengető menedéket és izgalmas betekintést a haditengerészet történetébe. Kora délután Brändaholmot keressük fel, ahol a havas vörös házak mesebeli látványt nyújtanak. Mivel 15:30 körül sötétedik, az estét egy kivilágított étteremben töltjük.",
+            "ro": "O dimineață geroasă de iarnă în Stortorget începe cu turnurile înghețate ale Bisericii lui Fredrik. La prânz, Muzeul Naval oferă căldură și o incursiune fascinantă în istoria navală. După-amiaza devreme vizităm Brändaholm, unde casele roșii înzăpezite par desprinse dintr-o felicitare. Deoarece se întunecă în jur de 15:30, petrecem seara într-un restaurant luminat.",
+            "en": "A frosty winter morning at Stortorget begins with the sight of Fredrik's Church's icy steeples. At noon, the Naval Museum provides welcoming warmth and fascinating naval history. In the early afternoon, we visit Brändaholm, where the snowy red houses look like a postcard. Since it gets dark around 3:30 PM, we enjoy the evening in a brightly lit restaurant."
+          },
+          "stops": [
+            {
+              "name": "Fredrik's Church",
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille der beheizten Kirche.",
+                "hu": "Élvezd a fűtött templom csendjét.",
+                "ro": "Bucurați-vă de liniștea bisericii încălzite.",
+                "en": "Enjoy the silence of the heated church."
+              }
+            },
+            {
+              "name": "Admiralty Church (Ulrica Pia)",
+              "tip_5lang": {
+                "de": "Rosenbom trägt im Winter oft eine Mütze aus Schnee.",
+                "hu": "Rosenbom télen gyakran kap egy hósapkát a fejére.",
+                "ro": "Rosenbom poartă adesea o căciulă de zăpadă iarna.",
+                "en": "Rosenbom often wears a cap of snow in winter."
+              }
+            },
+            {
+              "name": "Stumholmen & Naval Museum",
+              "tip_5lang": {
+                "de": "Perfekt, um sich zwischen den Exponaten aufzuwärmen.",
+                "hu": "Tökéletes hely a felmelegedésre a kiállítási tárgyak között.",
+                "ro": "Locul perfect pentru a vă încălzi printre exponate.",
+                "en": "Perfect place to warm up among the exhibits."
+              }
+            },
+            {
+              "name": "Lunch on Stumholmen",
+              "tip_5lang": {
+                "de": "Probieren Sie eine heiße schwedische Erbsensuppe.",
+                "hu": "Kóstolj meg egy forró svéd borsólevest.",
+                "ro": "Încercați o supă de mazăre suedeză fierbinte.",
+                "en": "Try a hot Swedish pea soup."
+              }
+            },
+            {
+              "name": "Brändaholm",
+              "tip_5lang": {
+                "de": "Die roten Hütten im weißen Schnee sind das ultimative Fotomotiv.",
+                "hu": "A fehér hóban álló vörös kunyhók a végső fotótéma.",
+                "ro": "Cabanele roșii în zăpada albă sunt motivul foto suprem.",
+                "en": "Red cottages in white snow are the ultimate photo motive."
+              }
+            },
+            {
+              "name": "Kungsbron Bridge",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf den Gehwegen.",
+                "hu": "Ügyelj a járdákon előforduló jegesedésre.",
+                "ro": "Atenție la poleiul de pe trotuare.",
+                "en": "Watch out for black ice on the sidewalks."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermounterwäsche; der Wind vom Meer ist eisig.",
+              "Die Sonne geht im Dezember bereits vor 16:00 Uhr unter.",
+              "Viele Cafés bieten im Winter 'Glögg' (Glühwein) an.",
+              "Stiefel mit gutem Profil sind wichtig für die rutschigen Gassen."
+            ],
+            "hu": [
+              "Viselj termikus fehérneműt; a tenger felől fújó szél jeges.",
+              "A nap decemberben már délután 4 előtt lemegy.",
+              "Sok kávézó kínál 'Glögg'-öt (forralt bort) télen.",
+              "A jó profilú bakancs fontos a csúszós sikátorokban."
+            ],
+            "ro": [
+              "Purtați lenjerie termică; vântul de pe mare este tăios.",
+              "Soarele apune în decembrie înainte de ora 16:00.",
+              "Multe cafenele oferă 'Glögg' (vin fiert) iarna.",
+              "Ghetele cu talpă aderentă sunt esențiale pe străzile alunecoase."
+            ],
+            "en": [
+              "Wear thermal layers; the wind from the sea is biting.",
+              "The sun sets before 4 PM in December.",
+              "Many cafes offer 'Glögg' (mulled wine) in winter.",
+              "Boots with good grip are essential for the slippery alleys."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -745,6 +927,206 @@
           "Pay attention to the dedicated cycle paths (cykelbana) and traffic rules.",
           "A helmet is recommended but not legally required for adults."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen starten wir unsere Radtour am Stortorget. Mit wetterfester Kleidung radeln wir zur Admiralitätskirche und weiter nach Stumholmen, wo das Marinemuseum eine trockene Pause ermöglicht. Mittags stärken wir uns in der Stadt, bevor wir gegen den Wind nach Brändaholm fahren. Der Tag endet mit einer wohlverdienten Fika im Trockenen.",
+            "hu": "Az eső ellenére a Stortorgeten kezdjük a kerékpáros túrát. Vízhatlan ruhában tekerünk az Admiralitás-templomhoz, majd a Stumholmenre, ahol a múzeum száraz pihenőt kínál. Ebéd után a széllel dacolva tekerünk Brändaholm felé. A napot egy jól megérdemelt, fedett helyen elfogyasztott 'fika'-val zárjuk.",
+            "ro": "În ciuda ploii, începem turul cu bicicleta din Stortorget. Echipat cu haine impermeabile, pedalăm spre Biserica Amiralității și mai departe spre Stumholmen, unde muzeul oferă o pauză uscată. După prânz, pedalăm contra vântului spre Brändaholm. Ziua se încheie cu o 'fika' binemeritată la adăpost.",
+            "en": "Despite the rain, we start our bike tour at Stortorget. Clad in waterproof gear, we cycle to the Admiralty Church and on to Stumholmen, where the museum offers a dry break. After lunch, we brave the wind towards Brändaholm. The day ends with a well-deserved 'fika' in a dry spot."
+          },
+          "stops": [
+            {
+              "name": "Stortorget & Fredrik's Church",
+              "tip_5lang": {
+                "de": "Kopfsteinpflaster ist bei Regen sehr rutschig.",
+                "hu": "A macskakő esőben nagyon csúszós.",
+                "ro": "Piatra cubică este foarte alunecoasă pe ploaie.",
+                "en": "Cobblestones are very slippery in the rain."
+              }
+            },
+            {
+              "name": "Admiralty Church & Rosenbom",
+              "tip_5lang": {
+                "de": "Kurzer Stopp unter dem Vordach der Kirche.",
+                "hu": "Rövid megálló a templom előtetője alatt.",
+                "ro": "Scurt popas sub streașina bisericii.",
+                "en": "Short stop under the church overhang."
+              }
+            },
+            {
+              "name": "Naval Museum on Stumholmen",
+              "tip_5lang": {
+                "de": "Fahrradständer direkt vor dem Eingang nutzen.",
+                "hu": "Használd a bejárat előtti kerékpártárolót.",
+                "ro": "Folosiți rastelele de biciclete direct la intrare.",
+                "en": "Use the bike racks right outside the entrance."
+              }
+            },
+            {
+              "name": "Lunch in the city",
+              "tip_5lang": {
+                "de": "Suchen Sie ein Lokal mit Abstellmöglichkeit im Sichtfeld.",
+                "hu": "Keress olyan helyet, ahol rálátsz a bringádra.",
+                "ro": "Căutați un loc cu parcare pentru biciclete la vedere.",
+                "en": "Look for a place where you can see your bike from inside."
+              }
+            },
+            {
+              "name": "Brändaholm",
+              "tip_5lang": {
+                "de": "Vorsicht bei Böen auf dem Weg zur Insel.",
+                "hu": "Vigyázz a széllökésekre a sziget felé vezető úton.",
+                "ro": "Atenție la rafalele de vânt pe drumul spre insulă.",
+                "en": "Watch out for gusts on the way to the island."
+              }
+            },
+            {
+              "name": "Ride along the coast",
+              "tip_5lang": {
+                "de": "Spritzschutz ist bei nassen Straßen Gold wert.",
+                "hu": "A sárvédő aranyat ér a vizes utakon.",
+                "ro": "Apărătorile de noroi fac toți banii pe drumuri ude.",
+                "en": "Mudguards are worth their weight in gold on wet roads."
+              }
+            },
+            {
+              "name": "Coffee Break (Fika)",
+              "tip_5lang": {
+                "de": "Wärmen Sie Ihre Hände an einer Tasse Kaffee.",
+                "hu": "Melegítsd fel a kezed egy csésze kávéval.",
+                "ro": "Încălziți-vă mâinile cu o ceașcă de cafea.",
+                "en": "Warm your hands with a cup of coffee."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Bremsen; der Bremsweg ist bei Nässe länger.",
+              "Vermeiden Sie das Überfahren von nassen Fahrbahnmarkierungen.",
+              "Ein Regencape schützt auch die Oberschenkel beim Treten.",
+              "Die Windrichtung kann sich an der Küste schnell ändern."
+            ],
+            "hu": [
+              "Ellenőrizd a fékeket; a féktávolság vizes úton hosszabb.",
+              "Kerüld a vizes felfestéseket az úton.",
+              "Az esőponcsó a combokat is védi tekerés közben.",
+              "A szélirány a parton gyorsan változhat."
+            ],
+            "ro": [
+              "Verificați frânele; distanța de frânare e mai mare pe ud.",
+              "Evitați să treceți peste marcajele rutiere umede.",
+              "O pelerină de ploaie protejează și coapsele în timp ce pedalați.",
+              "Direcția vântului se poate schimba rapid pe coastă."
+            ],
+            "en": [
+              "Check your brakes; stopping distance is longer in the wet.",
+              "Avoid riding over wet road markings.",
+              "A rain poncho also protects your thighs while pedaling.",
+              "Wind direction can change quickly on the coast."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "In der Winterkälte radeln wir vorsichtig vom Stortorget los. Die Admiralitätskirche wirkt im Frost beinahe magisch. Das Marinemuseum ist ein willkommener Ort zum Aufwärmen, bevor wir uns auf den Weg nach Brändaholm machen. Die verschneiten Wege erfordern Konzentration, aber die Aussicht auf die Küste belohnt uns. Der Tag endet gemütlich bei einer heißen Fika.",
+            "hu": "A téli hidegben óvatosan indulunk el a Stortorgetről. Az Admiralitás-templom szinte varázslatos a fagyban. A Tengerészeti Múzeum szívesen látott hely a felmelegedéshez, mielőtt Brändaholm felé vesszük az irányt. A havas utak koncentrációt igényelnek, de a parti kilátás kárpótol. A napot egy forró 'fika' mellett zárjuk.",
+            "ro": "În frigul iernii, plecăm cu grijă din Stortorget. Biserica Amiralității pare aproape magică sub promoroacă. Muzeul Naval este un loc binevenit pentru încălzire înainte de a pleca spre Brändaholm. Drumurile înzăpezite necesită concentrare, dar priveliștea coastei merită efortul. Ziua se încheie confortabil cu o 'fika' fierbinte.",
+            "en": "In the winter cold, we cycle carefully from Stortorget. The Admiralty Church looks almost magical in the frost. The Naval Museum is a welcome place to warm up before heading to Brändaholm. The snowy paths require concentration, but the coastal view is rewarding. The day ends cozily with a hot 'fika'."
+          },
+          "stops": [
+            {
+              "name": "Stortorget & Fredrik's Church",
+              "tip_5lang": {
+                "de": "Achten Sie auf verstecktes Eis unter dünnem Schnee.",
+                "hu": "Vigyázz a vékony hó alatti rejtett jégre.",
+                "ro": "Atenție la gheața ascunsă sub zăpada subțire.",
+                "en": "Watch out for hidden ice under thin snow."
+              }
+            },
+            {
+              "name": "Admiralty Church & Rosenbom",
+              "tip_5lang": {
+                "de": "Kurzer Halt; bleiben Sie in Bewegung, um warm zu bleiben.",
+                "hu": "Rövid megálló; maradj mozgásban, hogy ne fázz meg.",
+                "ro": "Oprire scurtă; rămâneți în mișcare pentru a nu îngheța.",
+                "en": "Short stop; keep moving to stay warm."
+              }
+            },
+            {
+              "name": "Naval Museum on Stumholmen",
+              "tip_5lang": {
+                "de": "Parken Sie windgeschützt hinter dem Gebäude.",
+                "hu": "Parkolj szélvédett helyen az épület mögött.",
+                "ro": "Parcați într-un loc ferit de vânt în spatele clădirii.",
+                "en": "Park in a wind-sheltered spot behind the building."
+              }
+            },
+            {
+              "name": "Lunch in the city",
+              "tip_5lang": {
+                "de": "Wählen Sie kalorienreiches Essen für mehr Energie.",
+                "hu": "Válassz kalóriadús ételt az energiához.",
+                "ro": "Alegeți mâncare calorică pentru mai multă energie.",
+                "en": "Choose calorie-rich food for more energy."
+              }
+            },
+            {
+              "name": "Brändaholm",
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den schmalen Pfaden.",
+                "hu": "Tekerj óvatosan a szűk ösvényeken.",
+                "ro": "Pedalați cu atenție pe potecile înguste.",
+                "en": "Ride carefully on the narrow paths."
+              }
+            },
+            {
+              "name": "Ride along the coast",
+              "tip_5lang": {
+                "de": "Der eisige Meereswind erfordert gute Handschuhe.",
+                "hu": "A jeges tengeri szél jó kesztyűt igényel.",
+                "ro": "Vântul înghețat de pe mare necesită mănuși bune.",
+                "en": "The icy sea wind requires good gloves."
+              }
+            },
+            {
+              "name": "Coffee Break (Fika)",
+              "tip_5lang": {
+                "de": "Heißer Kakao ist die beste Belohnung nach der Tour.",
+                "hu": "A forró kakaó a legjobb jutalom a túra után.",
+                "ro": "Cacaoa fierbinte e cea mai bună recompensă după tur.",
+                "en": "Hot cocoa is the best reward after the tour."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie im Winter Reifen mit Spikes, falls vorhanden.",
+              "Schmieren Sie die Kette häufiger wegen des Streusalzes.",
+              "Licht ist bereits ab 15:00 Uhr lebenswichtig.",
+              "Vermeiden Sie abrupte Bremsmanöver auf glattem Untergrund."
+            ],
+            "hu": [
+              "Télen használj szöges gumit, ha van.",
+              "A sós hólé miatt gyakrabban olajozd a láncot.",
+              "A világítás már délután 3-tól életmentő.",
+              "Kerüld a hirtelen fékezést a csúszós talajon."
+            ],
+            "ro": [
+              "Folosiți cauciucuri cu ținte iarna, dacă aveți.",
+              "Ungeți lanțul mai des din cauza sării de pe drum.",
+              "Luminile sunt vitale încă de la ora 15:00.",
+              "Evitați frânările bruște pe suprafețe alunecoase."
+            ],
+            "en": [
+              "Use studded tires in winter if available.",
+              "Lube the chain more often due to road salt.",
+              "Lights are vital starting from 3 PM.",
+              "Avoid abrupt braking on slippery ground."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1101,6 +1483,188 @@
           "A car allows you to also visit more distant attractions like Ronneby Brunnspark.",
           "The roads on the islands can be narrow, so drive carefully."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag lässt sich im Auto am bequemsten bewältigen. Wir parken trocken auf Trossö und besuchen die Fredrik-Kirche. Weiter geht es zum Marinemuseum, das direkt angefahren werden kann. Nach einem gemütlichen Mittagessen fahren wir zur Festung Kungsholm, wo wir den Blick auf das stürmische Meer aus dem warmen Wagen genießen. Der Tag endet mit einem kurzen Stopp in Brändaholm.",
+            "hu": "Az esős napot autóval a legkényelmesebb átvészelni. Trossö szigetén parkolunk le, és meglátogatjuk a Fredrik-templomot. Innen a Tengerészeti Múzeumhoz hajtunk, amely közvetlenül megközelíthető. Egy kellemes ebéd után a Kungsholm erődhöz utazunk, élvezve a viharos tenger látványát a meleg autóból. A napot egy rövid brändaholmi megállóval zárjuk.",
+            "ro": "O zi ploioasă este cel mai ușor de parcurs cu mașina. Parcăm în siguranță pe Trossö și vizităm Biserica lui Fredrik. Continuăm spre Muzeul Naval, unde se poate ajunge direct cu mașina. După un prânz plăcut, mergem la Fortăreața Kungsholm, admirând marea agitată din mașina caldă. Ziua se încheie cu o scurtă oprire în Brändaholm.",
+            "en": "A rainy day is most comfortably handled by car. We park dry on Trossö and visit Fredrik's Church. We then drive to the Naval Museum, which is directly accessible. After a pleasant lunch, we travel to Kungsholm Fortress, enjoying the stormy sea view from the warm car. The day ends with a quick stop in Brändaholm."
+          },
+          "stops": [
+            {
+              "name": "Arrival and Parking on Trossö",
+              "tip_5lang": {
+                "de": "Nutzen Sie Parkhäuser, um trocken ins Zentrum zu kommen.",
+                "hu": "Használd a parkolóházakat, hogy szárazon juss a központba.",
+                "ro": "Folosiți parcările etajate pentru a ajunge uscați în centru.",
+                "en": "Use parking garages to get to the center dry."
+              }
+            },
+            {
+              "name": "Fredrik's Church and Stortorget",
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Platz für kurze Wege im Regen.",
+                "hu": "Parkolj közvetlenül a téren, hogy keveset ázz a templomig.",
+                "ro": "Parcați direct în piață pentru distanțe scurte prin ploaie.",
+                "en": "Park directly on the square for short walks in the rain."
+              }
+            },
+            {
+              "name": "Drive and Exploration of Stumholmen",
+              "tip_5lang": {
+                "de": "Es gibt Parkplätze direkt am Museumseingang.",
+                "hu": "Közvetlenül a múzeum bejáratánál is van parkoló.",
+                "ro": "Există locuri de parcare chiar lângă intrarea muzeului.",
+                "en": "There are parking spaces right by the museum entrance."
+              }
+            },
+            {
+              "name": "Lunch with a View",
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe des Restaurants.",
+                "hu": "Parkolj az étterem közelében.",
+                "ro": "Parcați în apropierea restaurantului.",
+                "en": "Park close to the restaurant."
+              }
+            },
+            {
+              "name": "Trip to Kungsholm Fortress",
+              "tip_5lang": {
+                "de": "Prüfen Sie, ob die Fähre bei Starkwind fährt.",
+                "hu": "Ellenőrizd, jár-e a komp erős szélben.",
+                "ro": "Verificați dacă feribotul circulă pe vânt puternic.",
+                "en": "Check if the ferry runs during high winds."
+              }
+            },
+            {
+              "name": "Walk in Brändaholm",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp reicht bei starkem Regen.",
+                "hu": "Erős esőben egy rövid fotómegálló is elég.",
+                "ro": "O scurtă oprire foto e suficientă pe ploaie torențială.",
+                "en": "A short photo stop is enough in heavy rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf große Pfützen in den tiefer gelegenen Straßen.",
+              "Die Sicht kann bei Küstenregen schnell abnehmen.",
+              "Park-Apps sind bequemer als nasse Parkscheinautomaten.",
+              "Nutzen Sie die Sitzheizung nach einem nassen Spaziergang."
+            ],
+            "hu": [
+              "Vigyázz a nagy tócsákra az alacsonyabban fekvő utcákon.",
+              "A látási viszonyok a tengerparti esőben gyorsan romolhatnak.",
+              "A parkoló appok kényelmesebbek, mint a vizes automaták.",
+              "Használd az ülésfűtést egy vizes séta után."
+            ],
+            "ro": [
+              "Atenție la bălțile mari de pe străzile joase.",
+              "Vizibilitatea poate scădea rapid în timpul ploii de coastă.",
+              "Aplicațiile de parcare sunt mai comode decât automatele ude.",
+              "Folosiți încălzirea în scaune după o plimbare prin ploaie."
+            ],
+            "en": [
+              "Watch out for large puddles in low-lying streets.",
+              "Visibility can drop quickly in coastal rain.",
+              "Parking apps are more convenient than wet ticket machines.",
+              "Use seat heating after a wet walk."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An einem kalten Wintertag bietet das Auto den besten Schutz vor dem eisigen Frost. Nach dem Besuch der Fredrik-Kirche fahren wir zum Marinemuseum auf Stumholmen. Ein warmes Mittagessen stärkt uns für die Weiterfahrt zur Festung Kungsholm, die im Winterlicht besonders eindrucksvoll wirkt. Vor Einbruch der frühen Dunkelheit besuchen wir die roten Häuser von Brändaholm.",
+            "hu": "Egy hideg téli napon az autó nyújtja a legjobb védelmet a jeges fagy ellen. A Fredrik-templom megtekintése után a stumholmeni Tengerészeti Múzeumhoz hajtunk. Egy meleg ebéd ad erőt a Kungsholm erődhöz vezető úthoz, amely a téli fényekben különösen lenyűgöző. A korai sötétedés előtt még meglátogatjuk Brändaholm vörös házait.",
+            "ro": "Într-o zi rece de iarnă, mașina oferă cea mai bună protecție împotriva gerului. După vizitarea Bisericii lui Fredrik, mergem la Muzeul Naval de pe Stumholmen. Un prânz cald ne dă putere pentru drumul spre Fortăreața Kungsholm, care arată impresionant în lumina iernii. Înainte de lăsarea întunericului, vizităm casele roșii din Brändaholm.",
+            "en": "On a cold winter day, the car provides the best protection from the icy frost. After visiting Fredrik's Church, we drive to the Naval Museum on Stumholmen. A warm lunch fuels us for the trip to Kungsholm Fortress, which looks particularly impressive in winter light. Before the early darkness sets in, we visit the red houses of Brändaholm."
+          },
+          "stops": [
+            {
+              "name": "Arrival and Parking on Trossö",
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihr Frostschutzmittel aufgefüllt ist.",
+                "hu": "Győződj meg róla, hogy fel van töltve a fagyálló.",
+                "ro": "Asigurați-vă că lichidul antigel este completat.",
+                "en": "Ensure your antifreeze levels are topped up."
+              }
+            },
+            {
+              "name": "Fredrik's Church and Stortorget",
+              "tip_5lang": {
+                "de": "Vorsicht beim Einparken auf vereisten Plätzen.",
+                "hu": "Vigyázz a parkolásnál a jeges tereken.",
+                "ro": "Atenție la parcare în piețele înghețate.",
+                "en": "Be careful when parking on frozen squares."
+              }
+            },
+            {
+              "name": "Drive and Exploration of Stumholmen",
+              "tip_5lang": {
+                "de": "Die Brücke nach Stumholmen kann bei Frost glatt sein.",
+                "hu": "A Stumholmenre vezető híd fagyban csúszós lehet.",
+                "ro": "Podul spre Stumholmen poate fi alunecos pe ger.",
+                "en": "The bridge to Stumholmen can be slippery in the frost."
+              }
+            },
+            {
+              "name": "Lunch with a View",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den Hafen aus dem warmen Restaurant.",
+                "hu": "Élvezd a kilátást a kikötőre a meleg étteremből.",
+                "ro": "Bucurați-vă de vederea spre port din restaurantul cald.",
+                "en": "Enjoy the harbor view from the warm restaurant."
+              }
+            },
+            {
+              "name": "Trip to Kungsholm Fortress",
+              "tip_5lang": {
+                "de": "Halten Sie die Kamera für das Winterlicht bereit.",
+                "hu": "Legyen kéznél a kamera a téli fényekhez.",
+                "ro": "Aveți camera pregătită pentru lumina de iarnă.",
+                "en": "Keep your camera ready for the winter light."
+              }
+            },
+            {
+              "name": "Walk in Brändaholm",
+              "tip_5lang": {
+                "de": "Bleiben Sie im Auto, falls es schneit, und genießen Sie die Sicht.",
+                "hu": "Maradj az autóban, ha esik a hó, és nézd a kilátást.",
+                "ro": "Rămâneți în mașină dacă ninge și admirați priveliștea.",
+                "en": "Stay in the car if it's snowing and enjoy the view."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in Schweden gesetzlich vorgeschrieben.",
+              "Halten Sie einen Eiskratzer und Besen im Auto bereit.",
+              "Dieselkraftstoff kann bei extremer Kälte Probleme machen.",
+              "Planen Sie mehr Zeit für die Fahrt auf glatten Brücken ein."
+            ],
+            "hu": [
+              "Svédországban törvényileg kötelező a téli gumi.",
+              "Legyen az autóban jégkaparó és kefe.",
+              "A dízel üzemanyag extrém hidegben gondot okozhat.",
+              "Hagyj több időt a közlekedésre a csúszós hidakon."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii prin lege în Suedia.",
+              "Păstrați o răzuitoare de gheață și o perie în mașină.",
+              "Motorina poate pune probleme la ger extrem.",
+              "Alocați mai mult timp pentru condusul pe poduri alunecoase."
+            ],
+            "en": [
+              "Winter tires are legally required in Sweden.",
+              "Keep an ice scraper and brush in the car.",
+              "Diesel fuel can cause issues in extreme cold.",
+              "Allow extra time for driving across slippery bridges."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1457,6 +2021,188 @@
           "The archipelago ferries are a fantastic way to experience the scenery and are considered part of the local public transport.",
           "Pay attention to the timetables, especially in the evening and on weekends, as frequencies may be lower."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus erreichen wir bequem den Stortorget und die Fredrik-Kirche. Der kurze Weg zum Marinemuseum führt über die Brücke nach Stumholmen. Die Fähre zur Festung Kungsholm bietet eine geschützte Überfahrt mit Blick auf die stürmische Ostsee. Den regnerischen Tag beenden wir in einem gemütlichen Restaurant im Stadtzentrum, bevor wir den Bus zurück nehmen.",
+            "hu": "Busszal kényelmesen elérjük a Stortorgetet és a Fredrik-templomot. A Tengerészeti Múzeumhoz vezető rövid út a stumholmeni hídon át vezet. A Kungsholm erődhöz tartó komp védett átkelést kínál, kilátással a viharos Balti-tengerre. Az esős napot a belváros egyik hangulatos éttermében zárjuk, mielőtt visszabuszoznánk.",
+            "ro": "Cu autobuzul ajungem confortabil în Stortorget și la Biserica lui Fredrik. Drumul scurt spre Muzeul Naval trece peste podul spre Stumholmen. Feribotul spre Fortăreața Kungsholm oferă o traversare protejată cu vedere spre Marea Baltică agitată. Încheiem ziua ploioasă într-un restaurant primitor din centru.",
+            "en": "By bus, we easily reach Stortorget and Fredrik's Church. The short walk to the Naval Museum leads across the bridge to Stumholmen. The ferry to Kungsholm Fortress offers a sheltered crossing with views of the stormy Baltic Sea. We end the rainy day in a cozy restaurant in the city center before taking the bus back."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Stortorget",
+              "tip_5lang": {
+                "de": "Warten Sie in den Arkaden auf den nächsten Anschluss.",
+                "hu": "Várj az árkádok alatt a következő csatlakozásra.",
+                "ro": "Așteptați sub arcade următoarea legătură.",
+                "en": "Wait under the arcades for your next connection."
+              }
+            },
+            {
+              "name": "Fredrik's Church",
+              "tip_5lang": {
+                "de": "Nur 2 Minuten Fußweg von der Bushaltestelle.",
+                "hu": "Csak 2 perc séta a buszmegállótól.",
+                "ro": "La doar 2 minute de mers pe jos de stația de autobuz.",
+                "en": "Only a 2-minute walk from the bus stop."
+              }
+            },
+            {
+              "name": "Walk to Stumholmen",
+              "tip_5lang": {
+                "de": "Schritte beschleunigen, wenn der Wind von See drückt.",
+                "hu": "Gyorsítsd fel a lépteidet, ha fúj a tengeri szél.",
+                "ro": "Grăbiți pasul dacă vântul bate dinspre mare.",
+                "en": "Quickly cross the bridge if the sea wind is strong."
+              }
+            },
+            {
+              "name": "Naval Museum & Admiralty Church",
+              "tip_5lang": {
+                "de": "Drinnen gibt es viele Sitzgelegenheiten zum Ausruhen.",
+                "hu": "Odabent sok ülőhely van a pihenéshez.",
+                "ro": "În interior sunt multe locuri de șezut pentru odihnă.",
+                "en": "There are plenty of seats inside to rest."
+              }
+            },
+            {
+              "name": "Ferry Trip and Kungsholm Fortress",
+              "tip_5lang": {
+                "de": "Bleiben Sie unter Deck, um trocken zu bleiben.",
+                "hu": "Maradj a fedélzet alatt, hogy száraz maradj.",
+                "ro": "Rămâneți sub punte pentru a nu vă uda.",
+                "en": "Stay below deck to keep dry."
+              }
+            },
+            {
+              "name": "Dinner in the City Center",
+              "tip_5lang": {
+                "de": "Restaurants liegen nah an den zentralen Buslinien.",
+                "hu": "Az éttermek közel vannak a központi buszvonalakhoz.",
+                "ro": "Restaurantele sunt aproape de liniile centrale de autobuz.",
+                "en": "Restaurants are close to the central bus lines."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die App von 'Blekingetrafiken' ist ideal für Echtzeit-Infos.",
+              "Busse fahren im Stadtzentrum sehr häufig.",
+              "Die Fähre nach Kungsholm ist Teil des ÖPNV.",
+              "Bushaltestellen haben oft kleine Unterstände."
+            ],
+            "hu": [
+              "A 'Blekingetrafiken' app ideális a valós idejű infókhoz.",
+              "A buszok a belvárosban nagyon gyakran járnak.",
+              "A Kungsholm erődhöz járó komp a tömegközlekedés része.",
+              "A buszmegállóknak gyakran van kis esőbeállója."
+            ],
+            "ro": [
+              "Aplicația 'Blekingetrafiken' e ideală pentru info în timp real.",
+              "Autobuzele circulă foarte des în centrul orașului.",
+              "Feribotul spre Kungsholm face parte din transportul public.",
+              "Stațiile de autobuz au adesea mici adăposturi."
+            ],
+            "en": [
+              "The 'Blekingetrafiken' app is ideal for real-time info.",
+              "Buses run very frequently in the city center.",
+              "The ferry to Kungsholm is part of the public transport.",
+              "Bus stops often have small shelters."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Bus bringt uns durch die Winterlandschaft zum Stortorget. Nach der Besichtigung der Fredrik-Kirche spazieren wir zum Marinemuseum, wo wir uns aufwärmen können. Die winterliche Fährfahrt zur Festung Kungsholm bietet eine spektakuläre Sicht auf die vereisten Schären. Den Abend verbringen wir gemütlich im Zentrum, bevor der Bus uns zurückbringt.",
+            "hu": "A busz a téli tájon át visz minket a Stortorgetre. A Fredrik-templom után a Tengerészeti Múzeumhoz sétálunk, ahol felmelegedhetünk. A téli kompozás a Kungsholm erődhöz látványos kilátást nyújt a jeges szigetvilágra. Az estét a belvárosban töltjük, mielőtt visszabuszoznánk.",
+            "ro": "Autobuzul ne duce prin peisajul de iarnă spre Stortorget. După vizitarea Bisericii lui Fredrik, mergem la Muzeul Naval pentru a ne încălzi. Călătoria cu feribotul spre Fortăreața Kungsholm oferă o vedere spectaculoasă asupra arhipelagului înghețat. Petrecem seara în centru înainte de a lua autobuzul înapoi.",
+            "en": "The bus takes us through the winter landscape to Stortorget. After visiting Fredrik's Church, we walk to the Naval Museum, where we can warm up. The winter ferry ride to Kungsholm Fortress offers spectacular views of the icy archipelago. We spend the evening cozily in the center before the bus takes us back."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Stortorget",
+              "tip_5lang": {
+                "de": "Nutzen Sie den beheizten Bus zum Aufwärmen.",
+                "hu": "Használd a fűtött buszt a felmelegedéshez.",
+                "ro": "Folosiți autobuzul încălzit pentru a vă dezmorți.",
+                "en": "Use the heated bus to warm up."
+              }
+            },
+            {
+              "name": "Fredrik's Church",
+              "tip_5lang": {
+                "de": "Die Kirche bietet eine gute Pause von der Kälte.",
+                "hu": "A templom jó pihenőt kínál a hideg elől.",
+                "ro": "Biserica oferă o pauză bună de la frig.",
+                "en": "The church offers a good break from the cold."
+              }
+            },
+            {
+              "name": "Walk to Stumholmen",
+              "tip_5lang": {
+                "de": "Gehen Sie zügig, der Wind ist auf der Brücke am stärksten.",
+                "hu": "Sétálj tempósan, a szél a hídon a legerősebb.",
+                "ro": "Mergeți vioi, vântul e cel mai puternic pe pod.",
+                "en": "Walk briskly, the wind is strongest on the bridge."
+              }
+            },
+            {
+              "name": "Naval Museum & Admiralty Church",
+              "tip_5lang": {
+                "de": "Das Museum ist im Winter sehr ruhig und warm.",
+                "hu": "A múzeum télen nagyon csendes és meleg.",
+                "ro": "Muzeul este foarte liniștit și cald iarna.",
+                "en": "The museum is very quiet and warm in winter."
+              }
+            },
+            {
+              "name": "Ferry Trip and Kungsholm Fortress",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das Eis vom Innenraum aus.",
+                "hu": "Élvezd a kilátást a jégre a belső térből.",
+                "ro": "Admirați gheața din interiorul feribotului.",
+                "en": "Enjoy the ice view from the indoor area."
+              }
+            },
+            {
+              "name": "Dinner in the City Center",
+              "tip_5lang": {
+                "de": "Der zentrale Busknotenpunkt ist nur wenige Gehminuten entfernt.",
+                "hu": "A központi buszcsomópont csak pár perc séta.",
+                "ro": "Nodul central de autobuze e la doar câteva minute de mers pe jos.",
+                "en": "The central bus hub is just a few minutes' walk away."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse sind im Winter meist sehr pünktlich und warm.",
+              "Fahrpläne können an Feiertagen variieren.",
+              "Die Fähren verkehren im Winter seltener.",
+              "Halten Sie Ihr Ticket griffbereit, um nicht lange in der Kälte zu suchen."
+            ],
+            "hu": [
+              "A buszok télen általában pontosak és melegek.",
+              "A menetrendek ünnepnapokon változhatnak.",
+              "A kompok télen ritkábban járnak.",
+              "Legyen kéznél a jegyed, hogy ne a hidegben kelljen keresgélni."
+            ],
+            "ro": [
+              "Autobuzele sunt de obicei punctuale și calde iarna.",
+              "Orarele pot varia în zilele de sărbătoare.",
+              "Feriboturile circulă mai rar iarna.",
+              "Aveți biletul la îndemână pentru a nu căuta prin buzunare în frig."
+            ],
+            "en": [
+              "Buses are usually very punctual and warm in winter.",
+              "Schedules may vary on public holidays.",
+              "Ferries run less frequently in winter.",
+              "Keep your ticket ready so you don't have to search in the cold."
+            ]
+          }
+        }
       }
     }
   }

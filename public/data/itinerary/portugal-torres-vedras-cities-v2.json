@@ -386,6 +386,210 @@
           "Bring a water bottle, especially for the walk to the aqueduct and hermitage.",
           "Check the opening hours for the museum and churches, as they can vary."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie am Chafariz dos Canos und suchen Sie bald Schutz in der Santa Maria Kirche. Den Mittag verbringen Sie im Leonel Trindade Museum, das einen hervorragenden Rückzugsort vor den Schauern bietet. Am Nachmittag erkunden Sie das Aquädukt unter einem stabilen Schirm. Der Abend klingt bei einem warmen Getränk in den Arkaden der Innenstadt trocken aus.",
+            "hu": "Induljon a Chafariz dos Canos kúttól, majd keressen menedéket a vár templomában. A déli órákat töltse a Leonel Trindade Múzeumban, amely tágas tereivel kiváló búvóhely a záporok elől. Délután egy esernyővel felszerelkezve tekintse meg a vízvezetéket. Az estét a belváros fedett részei alatt, egy forró kávé mellett zárhatja.",
+            "ro": "Începeți la fântâna Chafariz dos Canos, apoi adăpostiți-vă rapid în biserica Santa Maria. Petreceți amiaza în Muzeul Leonel Trindade, un refugiu excelent împotriva ploii. După-amiaza, explorați apeductul protejat de o umbrelă solidă. Seara se încheie confortabil cu o băutură caldă sub arcadele din centrul orașului.",
+            "en": "Start at the Chafariz dos Canos fountain and soon seek shelter in the Santa Maria church. Spend the midday in the Leonel Trindade Museum, which offers an excellent retreat from the showers. In the afternoon, explore the aqueduct under a sturdy umbrella. The evening ends dry with a warm drink under the downtown arcades."
+          },
+          "stops": [
+            {
+              "name": "Start: Chafariz dos Canos Fountain",
+              "tip_5lang": {
+                "de": "Vorsicht, das Kopfsteinpflaster rund um den Brunnen wird bei Nässe sehr rutschig.",
+                "hu": "Vigyázzon, a kút körüli macskaköves burkolat nedvesen nagyon csúszóssá válik.",
+                "ro": "Atenție, pavajul din jurul fântânii devine foarte alunecos când este umed.",
+                "en": "Watch out, the cobblestone pavement around the fountain becomes very slippery when wet."
+              }
+            },
+            {
+              "name": "Church of Santa Maria do Castelo",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Innenraum für eine längere Besichtigung, während es draußen regnet.",
+                "hu": "Használja ki a belső teret egy hosszabb látogatásra, amíg kint esik az eső.",
+                "ro": "Profitați de interior pentru o vizită prelungită în timp ce afară plouă.",
+                "en": "Take advantage of the interior for a longer visit while it rains outside."
+              }
+            },
+            {
+              "name": "Torres Vedras Castle",
+              "tip_5lang": {
+                "de": "Die Burgmauern sind ungeschützt; ein windfester Regenschirm ist hier unerlässlich.",
+                "hu": "A várfalak nyitottak; egy szélálló esernyő itt elengedhetetlen a bástyákhoz.",
+                "ro": "Zidurile castelului sunt neprotejate; o umbrelă rezistentă la vânt este esențială aici.",
+                "en": "The castle walls are unprotected; a windproof umbrella is essential here on the ramparts."
+              }
+            },
+            {
+              "name": "Leonel Trindade Municipal Museum",
+              "tip_5lang": {
+                "de": "Der ideale Ort, um die stärkste Regenphase des Tages im Trockenen zu überbrücken.",
+                "hu": "Ideális helyszín a nap leghevesebb esőzésének szárazon történő átvészelésére.",
+                "ro": "Locul ideal pentru a petrece cea mai intensă perioadă de ploaie a zilei la adăpost.",
+                "en": "The ideal location to spend the heaviest rain period of the day in the dry."
+              }
+            },
+            {
+              "name": "Lunch in the city center",
+              "coords": [
+                -9.262,
+                39.091
+              ],
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit Innenplätzen statt der Terrasse am Platz.",
+                "hu": "Válasszon belső asztallal rendelkező éttermet a téri teraszok helyett.",
+                "ro": "Alegeți un restaurant cu locuri în interior în locul teraselor din piață.",
+                "en": "Choose a restaurant with indoor seating instead of the plaza terraces."
+              }
+            },
+            {
+              "name": "Aqueduct of Fonte dos Canos",
+              "tip_5lang": {
+                "de": "Die hohen Bögen bieten kaum Schutz vor Schlagregen; bleiben Sie in Bewegung.",
+                "hu": "A magas ívek alig védenek a verőfényes esőtől; maradjon folyamatosan mozgásban.",
+                "ro": "Arcadele înalte oferă puțin adăpost împotriva ploii oblice; rămâneți în mișcare.",
+                "en": "The high arches offer little shelter from driving rain; keep moving."
+              }
+            },
+            {
+              "name": "Hermitage of Nossa Senhora do Ameal",
+              "tip_5lang": {
+                "de": "Der kurze Anstieg zum Hügel kann bei Regen schlammig und rutschig sein.",
+                "hu": "A dombra vezető rövid emelkedő esőben sáros és csúszós lehet.",
+                "ro": "Scurta urcare pe deal poate fi noroioasă și alunecoasă pe ploaie.",
+                "en": "The short climb up the hill can be muddy and slippery in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Wanderschuhe für die steilen Gassen zur Burg.",
+              "Das Städtische Museum ist montags geschlossen, planen Sie entsprechend.",
+              "Kaufen Sie traditionelle 'Pastéis de Feijão' als Proviant für die Regenpausen.",
+              "Die Arkaden am Praça da República bieten trockene Laufwege im Zentrum."
+            ],
+            "hu": [
+              "Viseljen vízálló túracipőt a várba vezető meredek, csúszós utcákhoz.",
+              "A városi múzeum hétfőnként zárva tart, igazítsa ehhez a tervét.",
+              "Vásároljon hagyományos 'Pastéis de Feijão' süteményt az esőszünetekre.",
+              "A Praça da República árkádjai száraz gyalogutat biztosítanak a központban."
+            ],
+            "ro": [
+              "Purtați pantofi de drumeție impermeabili pentru străzile abrupte spre castel.",
+              "Muzeul municipal este închis lunea, planificați vizita corespunzător.",
+              "Cumpărați tradiționalele 'Pastéis de Feijão' ca provizii pentru pauzele de ploaie.",
+              "Arcadele din Praça da República oferă trasee uscate în centrul orașului."
+            ],
+            "en": [
+              "Wear waterproof hiking shoes for the steep, slippery streets to the castle.",
+              "The municipal museum is closed on Mondays, plan your trip accordingly.",
+              "Buy traditional 'Pastéis de Feijão' pastries as snacks for the rain breaks.",
+              "The arcades at Praça da República provide dry walking paths in the center."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie Torres Vedras bei klarer Winterluft am historischen Brunnen. Mittags wärmen Sie sich bei den Ausstellungen im Museum auf, bevor das weiche Winterlicht die Burgmauern in Gold taucht. Da die Sonne bereits gegen 17:30 Uhr untergeht, erreichen Sie die Einsiedelei von Ameal rechtzeitig zum Dämmerlicht. Der Abend gehört der lokalen Gastronomie mit deftigen Wintergerichten.",
+            "hu": "Élje át Torres Vedras-t a tiszta téli levegőn a történelmi kútnál. Délben melegedjen fel a múzeum kiállításai között, mielőtt a lágy téli fények aranyba vonnák a várfalakat. Mivel a nap már 17:30 körül nyugszik, az Ameal remetelakhoz még a szürkület előtt érkezzen meg. Az estét a helyi gasztronómia tartalmas téli ételei teszik teljessé.",
+            "ro": "Experimentați Torres Vedras în aerul curat de iarnă la fântâna istorică. La prânz, încălziți-vă printre expozițiile muzeului, înainte ca lumina blândă de iarnă să aurescă zidurile castelului. Deoarece soarele apune deja în jur de 17:30, ajungeți la schitul Ameal la timp pentru amurg. Seara aparține gastronomiei locale cu preparate consistente de iarnă.",
+            "en": "Experience Torres Vedras in the clear winter air at the historical fountain. At midday, warm up among the museum's exhibitions before the soft winter light bathes the castle walls in gold. Since the sun sets around 17:30, reach the Ameal hermitage in time for the twilight. The evening belongs to local gastronomy with hearty winter dishes."
+          },
+          "stops": [
+            {
+              "name": "Start: Chafariz dos Canos Fountain",
+              "tip_5lang": {
+                "de": "Morgens kann Raureif auf den Steinen liegen; achten Sie auf glatte Stellen.",
+                "hu": "Reggelente zúzmara lehet a köveken; ügyeljen a jeges, csúszós foltokra.",
+                "ro": "Dimineața poate apărea chiciură pe pietre; atenție la porțiunile alunecoase.",
+                "en": "Frost may appear on the stones in the morning; watch out for slippery patches."
+              }
+            },
+            {
+              "name": "Church of Santa Maria do Castelo",
+              "tip_5lang": {
+                "de": "In der Kirche ist es oft kühler als draußen; behalten Sie Ihre Jacke an.",
+                "hu": "A templomban gyakran hűvösebb van, mint kint; ne vegye le a kabátját.",
+                "ro": "În biserică este adesea mai rece decât afară; păstrați-vă haina pe dvs.",
+                "en": "It is often cooler inside the church than outside; keep your jacket on."
+              }
+            },
+            {
+              "name": "Torres Vedras Castle",
+              "tip_5lang": {
+                "de": "Nutzen Sie den frühen Nachmittag für Fotos bei tiefstehender Wintersonne.",
+                "hu": "Használja ki a kora délutánt fotózásra az alacsonyan járó téli napfényben.",
+                "ro": "Profitați de începutul după-amiezii pentru fotografii în lumina joasă a soarelui.",
+                "en": "Take advantage of the early afternoon for photos in the low winter sun."
+              }
+            },
+            {
+              "name": "Leonel Trindade Municipal Museum",
+              "tip_5lang": {
+                "de": "Die gut beheizten Räume bieten eine willkommene Pause von der kühlen Brise.",
+                "hu": "A jól fűtött termek kellemes pihenőt nyújtanak a hűvös szél elől.",
+                "ro": "Sălile bine încălzite oferă o pauză binevenită de briza răcoroasă.",
+                "en": "The well-heated rooms provide a welcome break from the cool breeze."
+              }
+            },
+            {
+              "name": "Lunch in the city center",
+              "tip_5lang": {
+                "de": "Probieren Sie saisonale Gerichte mit Kabeljau oder regionalem Wein.",
+                "hu": "Kóstolja meg a szezonális tőkehalas ételeket vagy a tájjellegű bort.",
+                "ro": "Gustați preparatele sezoniere cu cod sau vinul regional.",
+                "en": "Try seasonal cod dishes or regional wine."
+              }
+            },
+            {
+              "name": "Aqueduct of Fonte dos Canos",
+              "tip_5lang": {
+                "de": "Der Wind pfeift im Winter oft durch die Arkaden; ein Schal ist ratsam.",
+                "hu": "A szél télen gyakran átfütyül az ívek között; sál viselése tanácsos.",
+                "ro": "Vântul suflă adesea prin arcade iarna; se recomandă purtarea unui fular.",
+                "en": "The wind often whistles through the arches in winter; a scarf is advised."
+              }
+            },
+            {
+              "name": "Hermitage of Nossa Senhora do Ameal",
+              "tip_5lang": {
+                "de": "Planen Sie den Rückweg vor 17:30 Uhr ein, da es schnell dunkel wird.",
+                "hu": "Tervezze a visszautat 17:30 előttre, mert hamar besötétedik.",
+                "ro": "Planificați drumul de întoarcere înainte de 17:30, deoarece se întunecă repede.",
+                "en": "Plan your return journey before 17:30, as it gets dark quickly."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Temperaturen liegen im Winter oft bei milden 10-15 Grad Celsius.",
+              "Zwiebelprinzip bei der Kleidung hilft gegen den wechselhaften Wind.",
+              "Die Sonne verschwindet früh hinter den Hügeln; Licht im Museum nutzen.",
+              "Besuchen Sie lokale Weingüter für eine Verkostung im warmen Weinkeller."
+            ],
+            "hu": [
+              "A hőmérséklet télen gyakran enyhe, 10-15 Celsius-fok körül alakul.",
+              "A réteges öltözködés segít védekezni a változékony szél ellen.",
+              "A nap korán eltűnik a dombok mögött; használja ki a múzeumi időt.",
+              "Látogasson el helyi borászatokba egy kóstolóra a meleg pincékben."
+            ],
+            "ro": [
+              "Temperaturile iarna sunt adesea blânde, în jur de 10-15 grade Celsius.",
+              "Îmbrăcămintea în straturi ajută împotriva vântului schimbător.",
+              "Soarele dispare devreme în spatele dealurilor; folosiți timpul la muzeu.",
+              "Vizitați cramele locale pentru o degustare în pivnițele calde."
+            ],
+            "en": [
+              "Temperatures in winter are often mild, around 10-15 degrees Celsius.",
+              "Layered clothing helps protect against the changeable wind.",
+              "The sun disappears early behind the hills; make use of museum time.",
+              "Visit local wineries for a tasting in the warm cellars."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -742,6 +946,188 @@
           "Roads outside the city can be narrow, ride with caution.",
           "Take plenty of water and some snacks for the longer ride to the convent."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihre Radtour an der Burg und nutzen Sie die Abfahrten vorsichtig bei Nässe. Das Museum bietet eine lange Pause, um den stärksten Regen abzuwarten. Nach einem Mittagessen am Fluss folgen Sie dem Aquädukt auf befestigten Wegen. Der Ausflug endet am Kloster Varatojo, wobei Sie auf spritzendes Wasser auf den Nebenstraßen achten sollten.",
+            "hu": "Kezdje a biciklis túrát a várnál, és óvatosan ereszkedjen le a nedves úton. A múzeum hosszú pihenőt kínál a hevesebb esőzés idejére. A folyóparti ebéd után kövesse a vízvezetéket szilárd burkolatú utakon. A kirándulás a Varatojo kolostornál ér véget, ügyelve a mellékutakon felcsapódó vízre.",
+            "ro": "Începeți turul cu bicicleta la castel și coborâți cu prudență pe drumul umed. Muzeul oferă o pauză lungă pentru a aștepta trecerea ploii torențiale. După un prânz pe malul râului, urmați apeductul pe drumuri pavate. Excursia se încheie la mănăstirea Varatojo, fiind atenți la apa împroșcată pe drumurile secundare.",
+            "en": "Start your bike tour at the castle and descend carefully on the wet roads. The museum offers a long break to wait out the heaviest rain. After a riverside lunch, follow the aqueduct on paved paths. The trip ends at the Varatojo Convent, staying alert for splashing water on the side roads."
+          },
+          "stops": [
+            {
+              "name": "Start: Torres Vedras Castle",
+              "tip_5lang": {
+                "de": "Vermeiden Sie scharfe Bremsmanöver auf den nassen Pflastersteinen der Burg.",
+                "hu": "Kerülje az éles fékezést a vár körüli nedves macskaköveken.",
+                "ro": "Evitați frânările bruște pe pavajul umed din jurul castelului.",
+                "en": "Avoid sharp braking on the wet cobblestones around the castle."
+              }
+            },
+            {
+              "name": "Leonel Trindade Municipal Museum",
+              "tip_5lang": {
+                "de": "Fahrradständer im Außenbereich sind vorhanden; bringen Sie eine Sattelabdeckung mit.",
+                "hu": "Kültéri kerékpártárolók elérhetőek; hozzon magával nyeregvédő huzatot.",
+                "ro": "Sunt disponibile suporturi externe pentru biciclete; aduceți o protecție pentru șa.",
+                "en": "Outdoor bike racks are available; bring a saddle cover."
+              }
+            },
+            {
+              "name": "Chafariz dos Canos Fountain",
+              "tip_5lang": {
+                "de": "Kurzer Stopp für Fotos; achten Sie auf Pfützen in der Brunnenumgebung.",
+                "hu": "Rövid megálló fotózásra; ügyeljen a tócsákra a kút környékén.",
+                "ro": "Oprire scurtă pentru fotografii; atenție la bălțile din jurul fântânii.",
+                "en": "Short stop for photos; watch out for puddles in the fountain area."
+              }
+            },
+            {
+              "name": "Lunch near the river",
+              "tip_5lang": {
+                "de": "Suchen Sie einen Platz mit Blick auf das Rad, aber geschützt vor Wind.",
+                "hu": "Keressen olyan helyet, ahonnan rálát a biciklire, de védve van a széltől.",
+                "ro": "Căutați un loc cu vedere la bicicletă, dar protejat de vânt.",
+                "en": "Look for a spot with a view of the bike but protected from the wind."
+              }
+            },
+            {
+              "name": "Aqueduct of Fonte dos Canos",
+              "tip_5lang": {
+                "de": "Der Weg entlang des Aquädukts kann bei Regen teilweise verschlammt sein.",
+                "hu": "A vízvezeték menti út esőben helyenként sáros lehet.",
+                "ro": "Drumul de-a lungul apeductului poate fi parțial înnoroiat pe ploaie.",
+                "en": "The path along the aqueduct can be partially muddy in the rain."
+              }
+            },
+            {
+              "name": "Convent of Varatojo",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad unter den Bäumen ab, um es vor direktem Regen zu schützen.",
+                "hu": "Parkoljon a fák alatt, hogy óvja a biciklit a közvetlen esőtől.",
+                "ro": "Parcați bicicleta sub copaci pentru a o proteja de ploaia directă.",
+                "en": "Park the bike under the trees to protect it from direct rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind bei Regen in Torres Vedras unverzichtbar.",
+              "Prüfen Sie Ihre Bremsbeläge vor der Tour durch das hügelige Gelände.",
+              "Tragen Sie neongelbe Regenbekleidung für bessere Sichtbarkeit.",
+              "Die Radwege im Stadtzentrum können bei Nässe rutschig sein."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen az esős Torres Vedras-i túrához.",
+              "Ellenőrizze a fékbetéteket a dombos terepen való indulás előtt.",
+              "Viseljen láthatósági esőruházatot a jobb észlelhetőség érdekében.",
+              "A belvárosi kerékpárutak nedvesen csúszóssá válhatnak."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt indispensabile pentru ploaia din Torres Vedras.",
+              "Verificați plăcuțele de frână înainte de turul pe teren deluros.",
+              "Purtați haine de ploaie reflectorizante pentru o vizibilitate mai bună.",
+              "Pistele de biciclete din centru pot fi alunecoase când sunt ude."
+            ],
+            "en": [
+              "Mudguards are essential for rain in Torres Vedras.",
+              "Check your brake pads before touring the hilly terrain.",
+              "Wear high-visibility rain gear for better detectability.",
+              "Bike paths in the city center can be slippery when wet."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie am Vormittag an der Burg, wenn der Morgennebel sich lichtet. Das Museum bietet eine willkommene Aufwärmpause auf halber Strecke. Nach dem Mittagessen nutzen Sie die milden Sonnenstunden für die Fahrt zum Aquädukt. Die Tour endet am Kloster Varatojo im sanften Abendlicht, bevor die Temperaturen nach Sonnenuntergang spürbar sinken.",
+            "hu": "Kezdje a délelőttöt a várnál, amikor a reggeli köd felszáll. A múzeum kellemes melegedőt kínál a táv felénél. Ebéd után használja ki az enyhe napsütéses órákat a vízvezetékhez vezető úton. A túra a Varatojo kolostornál ér véget a lágy esti fényekben, mielőtt naplemente után a hőmérséklet érezhetően csökkenne.",
+            "ro": "Începeți dimineața la castel, când ceața matinală se ridică. Muzeul oferă un loc plăcut de încălzire la jumătatea traseului. După prânz, profitați de orele cu soare blând pentru drumul spre apeduct. Turul se încheie la mănăstirea Varatojo în lumina serii, înainte ca temperatura să scadă simțitor după apus.",
+            "en": "Start the morning at the castle as the morning mist lifts. The museum offers a welcome warm-up at the halfway point. After lunch, take advantage of the mild sunny hours for the ride to the aqueduct. The tour ends at the Varatojo Convent in the soft evening light before temperatures drop noticeably after sunset."
+          },
+          "stops": [
+            {
+              "name": "Start: Torres Vedras Castle",
+              "tip_5lang": {
+                "de": "Die Auffahrt zur Burg hält Sie an kalten Wintermorgen warm.",
+                "hu": "A várba vezető emelkedő segít bemelegedni a hideg téli reggelen.",
+                "ro": "Urcarea spre castel vă va ajuta să vă încălziți în dimineața rece de iarnă.",
+                "en": "The climb to the castle will keep you warm on cold winter mornings."
+              }
+            },
+            {
+              "name": "Leonel Trindade Municipal Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe, um schwere Winterkleidung während des Besuchs abzulegen.",
+                "hu": "Használja a ruhatárat, hogy levegye a nehéz téli ruhát a látogatás idejére.",
+                "ro": "Folosiți garderoba pentru a lăsa hainele groase de iarnă pe durata vizitei.",
+                "en": "Use the cloakroom to drop off heavy winter clothing during the visit."
+              }
+            },
+            {
+              "name": "Chafariz dos Canos Fountain",
+              "tip_5lang": {
+                "de": "Das Wasser des Brunnens wirkt im Winter dampfend bei kühler Luft.",
+                "hu": "A kút vize télen gőzölgőnek tűnhet a hűvös levegőben.",
+                "ro": "Apa fântânii poate părea aburindă în aerul rece de iarnă.",
+                "en": "The fountain water may appear steaming in the cool winter air."
+              }
+            },
+            {
+              "name": "Lunch near the river",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit einer windgeschützten, sonnigen Glasfront.",
+                "hu": "Válasszon szélvédett, napos üvegfallal rendelkező éttermet.",
+                "ro": "Alegeți un restaurant cu o fațadă de sticlă însorită și protejată de vânt.",
+                "en": "Choose a restaurant with a sunlit glass front protected from the wind."
+              }
+            },
+            {
+              "name": "Aqueduct of Fonte dos Canos",
+              "tip_5lang": {
+                "de": "Bei tiefstehender Sonne werfen die Bögen des Aquädukts lange Schatten.",
+                "hu": "Alacsony napállásnál a vízvezeték ívei hosszú árnyékot vetnek.",
+                "ro": "Când soarele este jos, arcadele apeductului aruncă umbre lungi.",
+                "en": "With the sun low, the arches of the aqueduct cast long shadows."
+              }
+            },
+            {
+              "name": "Convent of Varatojo",
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihre Fahrradbeleuchtung für den Rückweg funktioniert.",
+                "hu": "Győződjön meg róla, hogy a kerékpáros világítás működik a visszautashoz.",
+                "ro": "Asigurați-vă că luminile bicicletei funcționează pentru drumul de întoarcere.",
+                "en": "Ensure your bike lights are working for the return journey."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vollfinger-Handschuhe sind für die Abfahrten im Winter ratsam.",
+              "Die Luftfeuchtigkeit in Küstennähe lässt die Kälte intensiver wirken.",
+              "Planen Sie die Tour zwischen 10:00 und 16:30 Uhr für bestes Licht.",
+              "Ein Thermosbehälter mit warmem Tee ist ein guter Begleiter."
+            ],
+            "hu": [
+              "A téli lejtőkhöz zárt kesztyű viselése javasolt.",
+              "A tengerközeli páratartalom miatt a hideg intenzívebbnek tűnhet.",
+              "A túrát 10:00 és 16:30 közé tervezze a legjobb fényviszonyokhoz.",
+              "Egy termosz meleg teával jó szolgálatot tehet az út során."
+            ],
+            "ro": [
+              "Se recomandă purtarea mănușilor întregi pentru coborârile de iarnă.",
+              "Umiditatea din apropierea coastei face ca frigul să pară mai intens.",
+              "Planificați turul între orele 10:00 și 16:30 pentru cea mai bună lumină.",
+              "Un termos cu ceai cald este un însoțitor util pe drum."
+            ],
+            "en": [
+              "Full-finger gloves are recommended for winter descents.",
+              "The humidity near the coast makes the cold feel more intense.",
+              "Plan the tour between 10:00 and 16:30 for the best lighting conditions.",
+              "A thermos with warm tea is a good companion on the road."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1122,6 +1508,206 @@
           "Parking in the center can be tricky; use paid parking for peace of mind.",
           "Bring both comfortable walking shoes and good driving shoes."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den PKW, um bequem zwischen den historischen Stätten zu pendeln. Parken Sie am Vormittag nahe der Burg und besichtigen Sie die Kirche trocken. Das Museum bietet ausreichend Parkmöglichkeiten und Schutz vor dem Mittagsschauer. Am Nachmittag fahren Sie zum Fort São Vicente und zum Kloster Varatojo, wobei Sie die Landschaft aus dem sicheren Fahrzeug genießen.",
+            "hu": "Használja az autót a történelmi helyszínek közötti kényelmes közlekedéshez. Parkoljon a vár közelében délelőtt, és látogassa meg szárazon a templomot. A múzeumnál bőséges parkolóhely és menedék várja a déli zápor idején. Délután látogasson el a São Vicente erődhöz és a Varatojo kolostorhoz, élvezve a tájat a jármű biztonságából.",
+            "ro": "Utilizați mașina pentru a pendula confortabil între siturile istorice. Parcați lângă castel dimineața și vizitați biserica la adăpost. Muzeul oferă locuri de parcare suficiente și protecție împotriva ploii de la prânz. După-amiaza, conduceți spre Fortul São Vicente și mănăstirea Varatojo, bucurându-vă de peisaj din siguranța vehiculului.",
+            "en": "Use the car to conveniently commute between historical sites. Park near the castle in the morning and visit the church in the dry. The museum offers ample parking and shelter from the midday shower. In the afternoon, drive to Fort São Vicente and the Varatojo Convent, enjoying the scenery from the safety of your vehicle."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Park Downtown & Castle",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz an der Rua Dr. Gomes de Avelar für kurzen Fußweg.",
+                "hu": "Használja a Rua Dr. Gomes de Avelar parkolóját a rövid sétához.",
+                "ro": "Utilizați parcarea de pe Rua Dr. Gomes de Avelar pentru un drum scurt pe jos.",
+                "en": "Use the parking lot on Rua Dr. Gomes de Avelar for a short walk."
+              }
+            },
+            {
+              "name": "Church of Santa Maria do Castelo",
+              "tip_5lang": {
+                "de": "Lassen Sie den Schirm im Auto, wenn Sie direkt vor dem Eingang parken.",
+                "hu": "Hagyja az esernyőt az autóban, ha közvetlenül a bejáratnál parkol.",
+                "ro": "Lăsați umbrela în mașină dacă parcați direct în fața intrării.",
+                "en": "Leave the umbrella in the car if you park directly in front of the entrance."
+              }
+            },
+            {
+              "name": "Leonel Trindade Municipal Museum",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist oft überflutet; achten Sie auf tiefe Pfützen.",
+                "hu": "A parkoló gyakran víz alatt áll; ügyeljen a mély tócsákra.",
+                "ro": "Parcarea este adesea inundată; atenție la bălțile adânci.",
+                "en": "The parking lot is often flooded; watch out for deep puddles."
+              }
+            },
+            {
+              "name": "Lunch in the city center",
+              "tip_5lang": {
+                "de": "Suchen Sie ein Parkhaus, um trocken ins Restaurant zu gelangen.",
+                "hu": "Keressen parkolóházat, hogy szárazon jusson el az étterembe.",
+                "ro": "Căutați o parcare etajată pentru a ajunge uscat la restaurant.",
+                "en": "Look for a parking garage to reach the restaurant dry."
+              }
+            },
+            {
+              "name": "Cluster B: Fort of São Vicente",
+              "tip_5lang": {
+                "de": "Die Zufahrt zum Fort kann bei starkem Regen rutschig sein.",
+                "hu": "Az erődhöz vezető felhajtó heves esőben csúszós lehet.",
+                "ro": "Accesul către fort poate fi alunecos în caz de ploaie abundentă.",
+                "en": "The access road to the fort can be slippery in heavy rain."
+              }
+            },
+            {
+              "name": "Cluster C: Convent of Varatojo",
+              "tip_5lang": {
+                "de": "Parken Sie unter dem Vordach des Klostereingangs, falls verfügbar.",
+                "hu": "Parkoljon a kolostor bejáratának előteteje alatt, ha szabad.",
+                "ro": "Parcați sub copertina intrării mănăstirii, dacă este disponibilă.",
+                "en": "Park under the overhang of the convent entrance if available."
+              }
+            },
+            {
+              "name": "Viewpoint near Varatojo",
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Regen im Auto und genießen Sie die Aussicht.",
+                "hu": "Maradjon az autóban heves esőzéskor, és onnan élvezze a kilátást.",
+                "ro": "Rămâneți în mașină în caz de ploaie torențială și admirați vederea.",
+                "en": "Stay in the car during heavy rain and enjoy the view from there."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie die Wischerblätter vor der Fahrt durch die Hügel.",
+              "Vermeiden Sie bei Sturmflut die Straßen in direkter Flussnähe.",
+              "Einige Parkplätze im Zentrum sind bei Regen oft überfüllt.",
+              "Die Sicht auf die Küstenlandschaft ist bei Regen oft neblig-mystisch."
+            ],
+            "hu": [
+              "Ellenőrizze az ablaktörlőket a dombok közötti autózás előtt.",
+              "Viharos esőben kerülje a közvetlenül a folyó melletti utakat.",
+              "Néhány belvárosi parkoló esőben gyakran túlzsúfolt.",
+              "A partmenti táj esőben gyakran ködös-misztikus látványt nyújt."
+            ],
+            "ro": [
+              "Verificați ștergătoarele înainte de a conduce printre dealuri.",
+              "Evitați drumurile direct de lângă râu în caz de ploaie torențială.",
+              "Unele parcări din centru sunt adesea aglomerate pe ploaie.",
+              "Peisajul de coastă oferă adesea o vedere cețoasă și mistică pe ploaie."
+            ],
+            "en": [
+              "Check the wipers before driving through the hills.",
+              "Avoid roads directly next to the river during stormy rain.",
+              "Some downtown parking lots are often overcrowded in the rain.",
+              "The coastal landscape often offers a foggy-mystical view in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie am kühlen Wintermorgen im Stadtzentrum und parken Sie bequem an der Burg. Mittags bietet das Museum eine beheizte Umgebung für kulturelle Entdeckungen. Die Fahrt zum Fort São Vicente am Nachmittag ermöglicht weite Ausblicke bei klarer Winterluft. Den Sonnenuntergang erleben Sie am Aussichtspunkt bei Varatojo, bevor Sie zum Abendessen ins beleuchtete Zentrum zurückkehren.",
+            "hu": "Kezdje a hűvös téli reggelt a belvárosban, és parkoljon kényelmesen a várnál. Délben a múzeum fűtött környezetet biztosít a kulturális felfedezéshez. A délutáni autózás a São Vicente erődhöz tiszta téli levegőt és tágas kilátást kínál. A naplementét a Varatojo melletti kilátópontnál élje át, mielőtt visszatérne a kivilágított központba vacsorázni.",
+            "ro": "Începeți dimineața răcoroasă de iarnă în centrul orașului și parcați confortabil la castel. La prânz, muzeul oferă un mediu încălzit pentru explorări culturale. Conducerea spre Fortul São Vicente după-amiaza oferă vederi largi în aerul curat de iarnă. Experimentați apusul la punctul de belvedere de lângă Varatojo, înainte de a reveni în centrul iluminat pentru cină.",
+            "en": "Start the cool winter morning in the city center and park comfortably at the castle. At midday, the museum provides a heated environment for cultural discovery. The drive to Fort São Vicente in the afternoon offers expansive views in the clear winter air. Experience the sunset at the viewpoint near Varatojo before returning to the illuminated center for dinner."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Park Downtown & Castle",
+              "tip_5lang": {
+                "de": "Stellen Sie die Heizung im Auto ein, während Sie die Burg besichtigen.",
+                "hu": "Állítsa be az autó fűtését, amíg a várat látogatja.",
+                "ro": "Reglați încălzirea în mașină în timp ce vizitați castelul.",
+                "en": "Adjust the car heating while you visit the castle."
+              }
+            },
+            {
+              "name": "Church of Santa Maria do Castelo",
+              "tip_5lang": {
+                "de": "Die Parkplätze direkt am Hügel sind im Winter meist frei.",
+                "hu": "A közvetlenül a dombon található parkolóhelyek télen többnyire üresek.",
+                "ro": "Locurile de parcare direct de pe deal sunt de obicei libere iarna.",
+                "en": "Parking spaces directly on the hill are mostly empty in winter."
+              }
+            },
+            {
+              "name": "Leonel Trindade Municipal Museum",
+              "tip_5lang": {
+                "de": "Ein warmer Ort, um die kühlen Mittagsstunden zu überbrücken.",
+                "hu": "Meleg helyszín a hűvös déli órák átvészelésére.",
+                "ro": "Un loc cald pentru a petrece orele răcoroase de la prânz.",
+                "en": "A warm place to spend the cool midday hours."
+              }
+            },
+            {
+              "name": "Lunch in the city center",
+              "tip_5lang": {
+                "de": "Im Winter sind die Parkplätze in der Nähe der Restaurants begehrt.",
+                "hu": "Télen az éttermek közeli parkolóhelyek igen keresettek.",
+                "ro": "Iarna, locurile de parcare din apropierea restaurantelor sunt la mare căutare.",
+                "en": "In winter, parking spaces near restaurants are in high demand."
+              }
+            },
+            {
+              "name": "Cluster B: Fort of São Vicente",
+              "tip_5lang": {
+                "de": "Bringen Sie warme Kleidung für den Spaziergang auf dem Fortgelände mit.",
+                "hu": "Hozzon meleg ruhát az erőd területén tett sétához.",
+                "ro": "Aduceți haine groase pentru plimbarea pe teritoriul fortului.",
+                "en": "Bring warm clothes for the walk on the fort grounds."
+              }
+            },
+            {
+              "name": "Cluster C: Convent of Varatojo",
+              "tip_5lang": {
+                "de": "Das Kloster liegt im Winter oft im Schatten der umliegenden Hügel.",
+                "hu": "A kolostor télen gyakran a környező dombok árnyékában fekszik.",
+                "ro": "Mănăstirea se află adesea în umbra dealurilor înconjurătoare iarna.",
+                "en": "The convent is often in the shadow of the surrounding hills in winter."
+              }
+            },
+            {
+              "name": "Viewpoint near Varatojo",
+              "tip_5lang": {
+                "de": "Der beste Ort für Fotos vom Sonnenuntergang gegen 17:15 Uhr.",
+                "hu": "A legjobb helyszín a naplementés fotókhoz 17:15 körül.",
+                "ro": "Cel mai bun loc pentru fotografii cu apusul soarelui în jur de 17:15.",
+                "en": "The best spot for sunset photos around 17:15."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Straßen sind im Winter meist trocken, aber oft neblig.",
+              "Nutzen Sie die kürzeren Tage für Fahrten in der Dämmerung.",
+              "Regionale Weinkellereien bieten im Winter gemütliche Touren an.",
+              "Tragen Sie festes Schuhwerk für die Besichtigung der Festungsanlagen."
+            ],
+            "hu": [
+              "Az utak télen többnyire szárazak, de gyakran ködösek.",
+              "Használja ki a rövidebb nappalokat a szürkületi autózáshoz.",
+              "A regionális borászatok télen hangulatos túrákat kínálnak.",
+              "Viseljen stabil lábbelit az erődrendszerek látogatásához."
+            ],
+            "ro": [
+              "Drumurile sunt de obicei uscate iarna, dar adesea cețoase.",
+              "Profitați de zilele mai scurte pentru plimbări la amurg.",
+              "Cramele regionale oferă tururi primitoare iarna.",
+              "Purtați încălțăminte stabilă pentru vizitarea fortificațiilor."
+            ],
+            "en": [
+              "Roads are mostly dry in winter, but often foggy.",
+              "Take advantage of the shorter days for twilight drives.",
+              "Regional wineries offer cozy tours in winter.",
+              "Wear sturdy footwear for visiting the fortifications."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1478,6 +2064,188 @@
           "Allow for extra time for potential bus delays.",
           "Be aware that bus frequency may be reduced in the evenings and on weekends."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie die lokalen Buslinien, um die Burg am Vormittag trocken zu erreichen. Das Museum im Zentrum bietet einen idealen Aufenthalt während der Mittagsstunden. Am Nachmittag bringt Sie der Bus zum Aquädukt, wo Sie die beeindruckenden Bögen im Regen besichtigen. Den Tag beenden Sie in der Einsiedelei von Ameal, wobei Sie die Fahrpläne für die Rückfahrt im Auge behalten.",
+            "hu": "Használja a helyi autóbuszjáratokat, hogy délelőtt szárazon érje el a várat. A központi múzeum ideális tartózkodási hely a déli órákban. Délután a busz elviszi a vízvezetékhez, ahol az esőben is lenyűgöző íveket láthatja. A napot az Ameal remetelaknál zárja, figyelve a visszautazáshoz szükséges menetrendet.",
+            "ro": "Utilizați liniile locale de autobuz pentru a ajunge la castel uscat dimineața. Muzeul din centru oferă un loc ideal de ședere în orele prânzului. După-amiaza, autobuzul vă duce la apeduct, unde puteți vedea arcadele impresionante pe ploaie. Încheiați ziua la schitul Ameal, urmărind orarul pentru drumul de întoarcere.",
+            "en": "Use the local bus lines to reach the castle dry in the morning. The central museum provides an ideal stay during the midday hours. In the afternoon, the bus takes you to the aqueduct, where you can see the impressive arches in the rain. End the day at the Ameal hermitage, keeping an eye on the schedule for the return journey."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Arrive in Center & Castle",
+              "tip_5lang": {
+                "de": "Warten Sie in der Bushaltestelle, bis der stärkste Guss vorbei ist.",
+                "hu": "Várjon a buszmegállóban, amíg a hevesebb zápor elvonul.",
+                "ro": "Așteptați în stația de autobuz până trece ploaia torențială.",
+                "en": "Wait in the bus stop until the heaviest downpour passes."
+              }
+            },
+            {
+              "name": "Church of Santa Maria do Castelo",
+              "tip_5lang": {
+                "de": "Der Fußweg von der Haltestelle zur Kirche ist kurz und gepflastert.",
+                "hu": "A megállótól a templomig vezető út rövid és burkolt.",
+                "ro": "Drumul de la stație până la biserică este scurt și pavat.",
+                "en": "The walk from the stop to the church is short and paved."
+              }
+            },
+            {
+              "name": "Leonel Trindade Municipal Museum",
+              "tip_5lang": {
+                "de": "In der Nähe befinden sich überdachte Wartebereiche für den Bus.",
+                "hu": "A közelben fedett várakozóhelyek találhatók a buszhoz.",
+                "ro": "În apropiere se află zone de așteptare acoperite pentru autobuz.",
+                "en": "Covered waiting areas for the bus are located nearby."
+              }
+            },
+            {
+              "name": "Lunch",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Lokal direkt an einer der Hauptbusachsen.",
+                "hu": "Válasszon egy éttermet közvetlenül az egyik fő buszvonal mentén.",
+                "ro": "Alegeți un local situat direct pe una dintre axele principale de autobuz.",
+                "en": "Choose a place directly on one of the main bus routes."
+              }
+            },
+            {
+              "name": "Cluster B: Aqueduct of Fonte dos Canos",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Echtzeit-App für den Bus, um unnötiges Warten im Regen zu vermeiden.",
+                "hu": "Ellenőrizze a busz valós idejű alkalmazását, hogy elkerülje az esőben való várakozást.",
+                "ro": "Verificați aplicația în timp real pentru autobuz pentru a evita așteptarea în ploaie.",
+                "en": "Check the real-time bus app to avoid unnecessary waiting in the rain."
+              }
+            },
+            {
+              "name": "Hermitage of Nossa Senhora do Ameal",
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Sie den letzten Bus zurück ins Zentrum nehmen.",
+                "hu": "Győződjön meg róla, hogy eléri az utolsó buszt vissza a központba.",
+                "ro": "Asigurați-vă că prindeți ultimul autobuz înapoi spre centru.",
+                "en": "Make sure you catch the last bus back to the center."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die 'TUT' Stadtbusse für kurze Strecken im Zentrum.",
+              "Halten Sie Kleingeld für das Ticket beim Busfahrer bereit.",
+              "Die Busfrequenz kann bei schlechtem Wetter leicht variieren.",
+              "Die meisten Haltestellen im Zentrum sind überdacht."
+            ],
+            "hu": [
+              "Használja a 'TUT' városi buszokat a központi rövid távokhoz.",
+              "Legyen Önnél aprópénz a buszsofőrnél történő jegyvásárláshoz.",
+              "A buszok gyakorisága rossz idő esetén kissé változhat.",
+              "A legtöbb belvárosi buszmegálló fedett."
+            ],
+            "ro": [
+              "Utilizați autobuzele urbane 'TUT' pentru distanțe scurte în centru.",
+              "Aveți pregătit mărunt pentru cumpărarea biletului de la șofer.",
+              "Frecvența autobuzelor poate varia ușor în caz de vreme rea.",
+              "Majoritatea stațiilor din centru sunt acoperite."
+            ],
+            "en": [
+              "Use the 'TUT' city buses for short distances in the center.",
+              "Have small change ready for buying a ticket from the driver.",
+              "Bus frequency may vary slightly in case of bad weather.",
+              "Most downtown bus stops are covered."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie am Vormittag mit dem Bus Richtung Burg und genießen Sie die klare Sicht. Den Mittag verbringen Sie im gut beheizten Stadtmuseum. Am Nachmittag bringt Sie der Nahverkehr zum Aquädukt und zur Einsiedelei von Ameal, wobei Sie das warme Innere des Busses zwischen den Stopps schätzen. Planen Sie den Rückweg vor Einbruch der Dunkelheit ein, um die Fahrpläne optimal zu nutzen.",
+            "hu": "Kezdje a délelőttöt busszal a vár felé, és élvezze a tiszta kilátást. A déli órákat a jól fűtött városi múzeumban töltse. Délután a tömegközlekedés elviszi a vízvezetékhez és az Ameal remetelakhoz, értékelve a busz melegét a megállók között. A visszautat sötétedés előttre tervezze a menetrend optimális kihasználása érdekében.",
+            "ro": "Începeți dimineața cu autobuzul spre castel și bucurați-vă de vederea clară. Petreceți amiaza în muzeul municipal bine încălzit. După-amiaza, transportul public vă duce la apeduct și la schitul Ameal, apreciind căldura autobuzului între stații. Planificați drumul de întoarcere înainte de lăsarea întunericului pentru a utiliza optim orarul.",
+            "en": "Start the morning by bus towards the castle and enjoy the clear view. Spend the midday in the well-heated municipal museum. In the afternoon, public transport takes you to the aqueduct and the Ameal hermitage, appreciating the warmth of the bus between stops. Plan the return journey before dark to make the most of the schedule."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Arrive in Center & Castle",
+              "tip_5lang": {
+                "de": "Im Winter sind die Busse morgens oft weniger überfüllt.",
+                "hu": "Télen a buszok reggelente gyakran kevésbé zsúfoltak.",
+                "ro": "Iarna, autobuzele sunt adesea mai puțin aglomerate dimineața.",
+                "en": "In winter, buses are often less crowded in the morning."
+              }
+            },
+            {
+              "name": "Church of Santa Maria do Castelo",
+              "tip_5lang": {
+                "de": "Die Haltestelle am Fuße des Burgbergs ist gut beleuchtet.",
+                "hu": "A várhegy lábánál található buszmegálló jól kivilágított.",
+                "ro": "Stația de la baza dealului castelului este bine iluminată.",
+                "en": "The bus stop at the foot of the castle hill is well lit."
+              }
+            },
+            {
+              "name": "Leonel Trindade Municipal Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch als Aufwärmstopp zwischen den Fahrten.",
+                "hu": "Használja a múzeumi látogatást melegedőként az utazások között.",
+                "ro": "Utilizați vizita la muzeu ca punct de încălzire între călătorii.",
+                "en": "Use the museum visit as a warm-up stop between trips."
+              }
+            },
+            {
+              "name": "Lunch",
+              "tip_5lang": {
+                "de": "Im Winter sind die Fahrpläne der Überlandbusse oft reduziert.",
+                "hu": "Télen a távolsági buszok menetrendje gyakran ritkább.",
+                "ro": "Iarna, orarul autobuzelor interurbane este adesea redus.",
+                "en": "In winter, intercity bus schedules are often reduced."
+              }
+            },
+            {
+              "name": "Cluster B: Aqueduct of Fonte dos Canos",
+              "tip_5lang": {
+                "de": "Achten Sie auf die kürzeren Wartezeiten in der Kälte durch genaue Planung.",
+                "hu": "Ügyeljen a pontos tervezésre, hogy keveset kelljen a hidegben várnia.",
+                "ro": "Atenție la planificarea exactă pentru a scurta timpul de așteptare în frig.",
+                "en": "Ensure exact planning to shorten waiting times in the cold."
+              }
+            },
+            {
+              "name": "Hermitage of Nossa Senhora do Ameal",
+              "tip_5lang": {
+                "de": "Die letzte Busverbindung fährt hier oft bereits gegen 18:00 Uhr ab.",
+                "hu": "Az utolsó buszjárat innen gyakran már 18:00 körül elindul.",
+                "ro": "Ultima legătură de autobuz pleacă de aici adesea deja în jur de 18:00.",
+                "en": "The last bus connection from here often departs as early as 18:00."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Busse sind im Winter gut beheizt und komfortabel.",
+              "Prüfen Sie Wochenend-Fahrpläne, da diese im Winter abweichen können.",
+              "Kombinieren Sie Busfahrten mit kurzen Spaziergängen im Zentrum.",
+              "Die Touristeninformation am Praça da República hilft bei Fahrplänen."
+            ],
+            "hu": [
+              "A buszok télen jól fűtöttek és kényelmesek.",
+              "Ellenőrizze a hétvégi menetrendeket, mert azok télen eltérhetnek.",
+              "Kombinálja a buszozást rövid belvárosi sétákkal.",
+              "A Praça da República-n található információs iroda segít a menetrendben."
+            ],
+            "ro": [
+              "Autobuzele sunt bine încălzite și confortabile iarna.",
+              "Verificați orarul de weekend, deoarece poate diferi iarna.",
+              "Combinați mersul cu autobuzul cu scurte plimbări în centru.",
+              "Biroul de informații din Praça da República vă ajută cu orarul."
+            ],
+            "en": [
+              "Buses are well-heated and comfortable in winter.",
+              "Check weekend schedules, as they may differ in winter.",
+              "Combine bus rides with short walks in the center.",
+              "The information office at Praça da República helps with schedules."
+            ]
+          }
+        }
       }
     }
   }

@@ -386,6 +386,206 @@
           "Plan for lunch at one of the traditional restaurants around the main square.",
           "Ask for recommendations at the Wine Museum for an afternoon wine tasting."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mór bei Regen beginnt im historischen Zentrum, wo Gebäude wie das Rathaus Schutz bieten. Mittags erkunden Sie die prächtigen Innenräume des Schlosses Lamberg. Am Nachmittag vertiefen Sie sich im Weinmuseum in die lokale Kultur, während es draußen regnet. Den Abend verbringen Sie gemütlich in einem unterirdischen Weinkeller bei einem Glas Ezerjó.",
+            "hu": "Az esős Mór felfedezése a központban indul, ahol a városháza árkádjai nyújtanak menedéket. Délben a Lamberg-kastély belső tereiben és kiállításain vészelheti át a záport. Délután a Bormúzeum tárlatait böngészve maradhat szárazon. Az estét egy hangulatos, mélyen fekvő borospincében zárjuk, ahol az eső kopogása nem zavarja a kóstolót.",
+            "ro": "Explorarea orașului Mór pe ploaie începe în centrul istoric, unde clădirile oferă adăpost. La prânz, vizitați interioarele Castelului Lamberg pentru a rămâne uscat. După-amiaza este dedicată Muzeului Vinului, un refugiu cultural perfect. Seara se încheie într-o cramă tradițională, unde atmosfera este caldă și primitoare, indiferent de vreme.",
+            "en": "A rainy Mór tour starts in the historic center, using the Town Hall's architecture for cover. At noon, the interior of Lamberg Castle serves as a grand dry haven. Spend the afternoon immersed in local history at the Wine Museum while it pours outside. The evening concludes in a cozy underground cellar, tasting the famous Ezerjó wine."
+          },
+          "stops": [
+            {
+              "name": "Town Hall of Mór",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden des Rathauses, um dem stärksten Regen auszuweichen.",
+                "hu": "Használja a városháza boltíves bejáratait a hirtelen záporok elleni védekezésre.",
+                "ro": "Folosiți arcadele primăriei pentru a vă adăposti de ploaia torențială.",
+                "en": "Use the Town Hall's archways to seek shelter from sudden downpours."
+              }
+            },
+            {
+              "name": "Capuchin Church and Monastery",
+              "tip_5lang": {
+                "de": "Ein ruhiger, trockener Ort, um die barocke Ausstattung in Ruhe zu bewundern.",
+                "hu": "Csendes, száraz helyszín a barokk oltár és a belső tér megcsodálásához.",
+                "ro": "Un loc liniștit și uscat pentru a admira interiorul baroc în tihnă.",
+                "en": "A peaceful, dry spot to admire the Baroque altar and interior."
+              }
+            },
+            {
+              "name": "World War Memorial",
+              "tip_5lang": {
+                "de": "Nur ein kurzer Stopp mit aufgespanntem Regenschirm auf dem Weg zum Museum.",
+                "hu": "Csak egy gyors megálló ernyővel a múzeum felé vezető úton.",
+                "ro": "O oprire scurtă cu umbrela deschisă în drum spre muzeu.",
+                "en": "A quick stop with your umbrella up while heading towards the museum."
+              }
+            },
+            {
+              "name": "Mór Wine Museum",
+              "tip_5lang": {
+                "de": "Der perfekte Ort für einen längeren Aufenthalt, wenn es draußen regnet.",
+                "hu": "Ideális helyszín egy hosszabb látogatáshoz, amíg eláll az eső.",
+                "ro": "Locul perfect pentru o vizită prelungită în timp ce plouă afară.",
+                "en": "The perfect location for an extended visit while waiting for the rain to stop."
+              }
+            },
+            {
+              "name": "Lamberg Castle",
+              "tip_5lang": {
+                "de": "Die Ausstellungen im Schloss bieten stundenlangen Schutz vor dem Wetter.",
+                "hu": "A kastély kiállításai órákra elfeledtetik a kinti rossz időt.",
+                "ro": "Expozițiile din castel oferă adăpost pentru câteva ore bune.",
+                "en": "The castle's exhibitions offer shelter for several hours."
+              }
+            },
+            {
+              "name": "Castle Garden",
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den befestigten Wegen, um Schlamm im Park zu vermeiden.",
+                "hu": "Maradjon a kövezett sétányokon, hogy elkerülje a sárfelverődést.",
+                "ro": "Rămâneți pe aleile pavate pentru a evita noroiul din parc.",
+                "en": "Stick to the paved paths to avoid mud in the park."
+              }
+            },
+            {
+              "name": "Bozsoki Wine Cellar",
+              "tip_5lang": {
+                "de": "In der tiefen Kellerei ist die Feuchtigkeit draußen völlig vergessen.",
+                "hu": "A mély pincében teljesen elfelejtheti a kinti esős időjárást.",
+                "ro": "În pivnița adâncă, veți uita complet de umezeala de afară.",
+                "en": "In the deep cellar, you'll completely forget about the wet weather outside."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da das Pflaster im Zentrum rutschig sein kann.",
+              "Ein großer Regenschirm ist für die Wege zwischen den Museen unerlässlich.",
+              "Das Weinmuseum und das Schloss Lamberg sind ideale Rückzugsorte bei Regen.",
+              "Im Weinhaus am Hauptplatz können Sie bei einer Tasse Tee auf Wetterbesserung warten."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert a központ macskakövei csúszósak lehetnek.",
+              "Egy stabil esernyő elengedhetetlen a múzeumok közötti rövid sétákhoz.",
+              "A Bormúzeum és a Lamberg-kastély a legjobb fedett program eső esetén.",
+              "A pincelátogatás során a páratartalom állandó, így az eső ott nem zavaró."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, pavajul central poate fi alunecos.",
+              "O umbrelă solidă este esențială pentru plimbările scurte între obiective.",
+              "Muzeul Vinului și Castelul Lamberg sunt cele mai bune refugii în caz de ploaie.",
+              "Puteți aștepta trecerea ploii într-una dintre cafenelele de pe strada principală."
+            ],
+            "en": [
+              "Wear waterproof shoes as the cobblestones in the center can be slippery.",
+              "A sturdy umbrella is essential for the short walks between indoor stops.",
+              "The Wine Museum and Lamberg Castle are the best indoor options for rainy days.",
+              "Cellar visits are unaffected by rain, making them perfect evening programs."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Mór im Winter versprüht einen besonderen Charme mit Lichtern am Rathausplatz. Der Vormittag gehört der Geschichte in der Kapuzinerkirche. Zu Mittag wärmen Sie sich im prächtigen Schloss Lamberg auf. Da die Sonne früh untergeht, besuchen Sie das Weinmuseum am Nachmittag und beenden den Tag bei einem wärmenden Glas Rotwein oder Glühwein in einer der berühmten Kellereien.",
+            "hu": "A téli Mór varázsát a városháza körüli ünnepi fények adják. A délelőttöt a Kapucinus templom csendjében kezdjük. Délben a fűtött Lamberg-kastély termeiben melegedhetünk fel. Mivel korán sötétedik, a délutánt már a Bormúzeumban töltjük, majd az estét egy fűtött borospincében zárjuk, ahol a forralt bor is előkerülhet.",
+            "ro": "Mór pe timp de iarnă are un farmec aparte, cu lumini festive în centru. Dimineața începe cu o vizită la Biserica Capucinilor. La prânz, Castelul Lamberg oferă un interior călduros și fascinant. Deoarece soarele apune devreme, vizitați Muzeul Vinului după-amiaza, apoi retrageți-vă într-o cramă încălzită pentru o degustare relaxantă.",
+            "en": "Winter in Mór is atmospheric with festive lights around the main square. Start the morning with local history, then warm up inside the grand Lamberg Castle at noon. Since the sun sets early, enjoy the Wine Museum in the afternoon before heading to a cozy, heated wine cellar for a rewarding glass of red or mulled wine."
+          },
+          "stops": [
+            {
+              "name": "Town Hall of Mór",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf dem Kopfsteinpflaster vor dem Rathaus.",
+                "hu": "Vigyázzon a városháza előtti macskaköveken az esetleges jegesedés miatt.",
+                "ro": "Atenție la poleiul de pe pavajul din fața primăriei.",
+                "en": "Watch out for icy patches on the cobblestones in front of the Town Hall."
+              }
+            },
+            {
+              "name": "Capuchin Church and Monastery",
+              "tip_5lang": {
+                "de": "Im Inneren ist es kühler als erwartet; behalten Sie Ihren Mantel an.",
+                "hu": "A templom belső tere hűvösebb lehet, ne vegye le a kabátját.",
+                "ro": "Interiorul bisericii poate fi destul de rece; păstrați haina pe dvs.",
+                "en": "The church interior can be chilly; it's best to keep your coat on."
+              }
+            },
+            {
+              "name": "World War Memorial",
+              "tip_5lang": {
+                "de": "Ein kurzer, stimmungsvoller Stopp in der frischen Winterluft.",
+                "hu": "Rövid, hangulatos megálló a friss téli levegőn.",
+                "ro": "O oprire scurtă și atmosferică în aerul proaspăt de iarnă.",
+                "en": "A brief, atmospheric stop in the crisp winter air."
+              }
+            },
+            {
+              "name": "Mór Wine Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch, um sich zwischen den Spaziergängen aufzuwärmen.",
+                "hu": "Használja ki a múzeumi látogatást a városi séta közbeni felmelegedésre.",
+                "ro": "Profită de vizita la muzeu pentru a te încălzi între plimbări.",
+                "en": "Use the museum visit to warm up between your outdoor walks."
+              }
+            },
+            {
+              "name": "Lamberg Castle",
+              "tip_5lang": {
+                "de": "Der Schlossgarten ist im Winter bei Reif oder Schnee besonders fotogen.",
+                "hu": "A kastélykert zúzmarásan vagy hóban különösen fotogén télen.",
+                "ro": "Grădina castelului este foarte fotogenică iarna, sub chiciură sau zăpadă.",
+                "en": "The castle garden is especially photogenic in winter under frost or snow."
+              }
+            },
+            {
+              "name": "Castle Garden",
+              "tip_5lang": {
+                "de": "Die Wege können bei Frost rutschig sein; gehen Sie vorsichtig.",
+                "hu": "A kerti utak fagyosak és csúszósak lehetnek, óvatosan közlekedjen.",
+                "ro": "Potecile din grădină pot fi alunecoase; mergeți cu atenție.",
+                "en": "Garden paths can be slippery in freezing weather; walk carefully."
+              }
+            },
+            {
+              "name": "Bozsoki Wine Cellar",
+              "tip_5lang": {
+                "de": "Fragen Sie nach dem speziellen hausgemachten Glühwein zum Aufwärmen.",
+                "hu": "Kérdezzen rá a ház specialitására, a forralt borra a felmelegedéshez.",
+                "ro": "Întrebați de vinul fiert, specialitatea casei, pentru a vă încălzi.",
+                "en": "Ask for the house specialty mulled wine to help you warm up."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Stiefel mit gutem Profil sind wichtig für die gepflasterten Wege.",
+              "Beachten Sie den frühen Sonnenuntergang gegen 16:30 Uhr.",
+              "Zwiebelprinzip bei der Kleidung hilft beim Wechsel zwischen Frost und geheizten Räumen.",
+              "Die Weinkeller bieten eine angenehme, konstante Temperatur gegenüber dem Frost draußen."
+            ],
+            "hu": [
+              "A jól tapadó talpú, meleg bakancs elengedhetetlen a macskaköves utcákon.",
+              "Számoljon a korai sötétedéssel, ami délután fél 5 körül már beköszönt.",
+              "Öltözzön rétegesen, mert a kastély és a múzeum jól fűtött.",
+              "A pincékben télen is állandó 12-14 fok van, ami kintinél melegebbnek érződik."
+            ],
+            "ro": [
+              "Ghetele călduroase cu talpă aderentă sunt esențiale pe străzile pavate.",
+              "Rețineți că soarele apune devreme, în jurul orei 16:30.",
+              "Îmbrăcați-vă în straturi pentru a face față diferenței de temperatură interior-exterior.",
+              "Pivnițele de vin au o temperatură constantă, fiind mai calde decât aerul de afară."
+            ],
+            "en": [
+              "Warm boots with good grip are essential for the cobblestone streets.",
+              "Keep in mind the early sunset, which occurs around 4:30 PM in winter.",
+              "Dress in layers to stay comfortable when moving between the cold and heated rooms.",
+              "Wine cellars maintain a constant temperature, feeling warmer than the winter air."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -766,6 +966,206 @@
           "Many wineries on the outskirts are accessible by bike.",
           "Bring plenty of water, especially for the ride through the vineyards in the afternoon."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radtouren in Mór bei Regen erfordern Vorsicht auf den Pflastersteinen im Zentrum. Den Vormittag verbringen Sie meist überdacht am Rathaus und in der Kirche. Mittags bietet das Schloss Lamberg einen sicheren Hafen. Die Fahrt durch die Weinberge am Nachmittag ist kurz und erfrischend, gefolgt von einer wohlverdienten Rast in der Weinkellerei Bozsoki.",
+            "hu": "Az esős móri bringázás óvatosságot igényel a csúszós városi köveken. A délelőttöt fedett helyeken, a városháza és a templom környékén töltjük. Délben a Lamberg-kastély nyújt menedéket a bicikliknek is. A délutáni szőlőhegyi tekerést lerövidítjük, és hamarabb érkezünk a Bozsoki pincébe száradni.",
+            "ro": "Turul cu bicicleta pe ploaie în Mór necesită prudență pe pavajul din centru. Dimineața este petrecută în zone adăpostite lângă primărie și biserică. La prânz, Castelul Lamberg este refugiul ideal. Plimbarea prin podgorii de după-amiază este scurtă, urmată de o odihnă meritată la crama Bozsoki.",
+            "en": "Cycling in Mór during rain requires caution on the central cobblestones. Spend the morning near the Town Hall and church archways. At noon, Lamberg Castle provides a perfect dry base. The afternoon vineyard ride is kept brief and refreshing, leading straight to the warmth of the Bozsoki wine cellar."
+          },
+          "stops": [
+            {
+              "name": "Town Hall of Mór",
+              "tip_5lang": {
+                "de": "Vorsicht beim Bremsen auf den nassen Pflastersteinen vor dem Rathaus.",
+                "hu": "Fékezzen óvatosan a városháza előtti vizes macskaköveken.",
+                "ro": "Frânați cu grijă pe pavajul umed din fața primăriei.",
+                "en": "Brake carefully on the wet cobblestones in front of the Town Hall."
+              }
+            },
+            {
+              "name": "Capuchin Church and Monastery",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad unter das Vordach, bevor Sie die Kirche betreten.",
+                "hu": "Támassza a bringát az előtető alá, mielőtt belépne a templomba.",
+                "ro": "Lăsați bicicleta sub streașină înainte de a intra în biserică.",
+                "en": "Park your bike under the overhang before entering the church."
+              }
+            },
+            {
+              "name": "Lamberg Castle and Castle Garden",
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Bereiche im Schlosshof zum Abstellen der Räder.",
+                "hu": "Használja a kastélyudvar fedett részeit a kerékpárok tárolására.",
+                "ro": "Folosiți zonele acoperite din curtea castelului pentru biciclete.",
+                "en": "Use the covered areas in the castle courtyard to park your bikes."
+              }
+            },
+            {
+              "name": "Mór Wine Museum",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Regenkleidung kurz zu lüften und zu trocknen.",
+                "hu": "Ideális helyszín az esőruházat rövid szellőztetésére és szárítására.",
+                "ro": "Un loc ideal pentru a aerisi și a usca echipamentul de ploaie.",
+                "en": "An ideal spot to briefly air out and dry your rain gear."
+              }
+            },
+            {
+              "name": "Statue of Pál Teleki",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp; achten Sie auf Pfützen in der Umgebung.",
+                "hu": "Gyors fotómegálló; ügyeljen a szobor körüli tócsákra.",
+                "ro": "Scurtă oprire pentru poze; atenție la bălțile din zonă.",
+                "en": "Quick photo stop; watch out for puddles around the statue."
+              }
+            },
+            {
+              "name": "Ride through the Vineyards",
+              "tip_5lang": {
+                "de": "Bleiben Sie auf Asphalt; Feldwege können bei Regen sehr schlammig sein.",
+                "hu": "Maradjon az aszfalton; a dűlőutak nagyon sárosak lehetnek esőben.",
+                "ro": "Rămâneți pe asfalt; drumurile de pământ pot fi foarte noroioase.",
+                "en": "Stick to the asphalt; dirt paths can be very muddy in the rain."
+              }
+            },
+            {
+              "name": "Bozsoki Wine Cellar",
+              "tip_5lang": {
+                "de": "Sichern Sie die Räder und genießen Sie die trockene Kelleratmosphäre.",
+                "hu": "Zárja le a bringákat, és élvezze a pince száraz, nyugodt klímáját.",
+                "ro": "Asigurați bicicletele și bucurați-vă de atmosfera uscată din cramă.",
+                "en": "Lock your bikes and enjoy the dry, calm atmosphere of the cellar."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche am Fahrrad sind bei diesem Wetter absolut notwendig.",
+              "Vermeiden Sie scharfe Kurven auf dem nassen Kopfsteinpflaster im Zentrum.",
+              "Eine wasserfeste Regenponcho schützt Sie und Ihren Rucksack am besten.",
+              "Planen Sie mehr Zeit für die Fahrt durch die Weinberge ein (Rutschgefahr)."
+            ],
+            "hu": [
+              "A sárvédő használata elengedhetetlen ilyen időben a felverődés ellen.",
+              "Kerülje az éles kanyarokat a vizes városi macskaköveken.",
+              "Egy jó minőségű esőponcsó védi önt és a hátizsákját is.",
+              "Számoljon hosszabb menetidővel a szőlőhegyi szakaszon a csúszós út miatt."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt absolut necesare pe această vreme.",
+              "Evitați virajele bruște pe pavajul umed din centrul orașului.",
+              "O pelerină de ploaie de calitate vă va proteja atât pe dvs. cât și rucsacul.",
+              "Alocați mai mult timp pentru secțiunea din podgorii din cauza drumului alunecos."
+            ],
+            "en": [
+              "Mudguards are essential in this weather to protect against splashes.",
+              "Avoid sharp turns on the wet cobblestones in the city center.",
+              "A high-quality rain poncho will best protect both you and your backpack.",
+              "Allow extra time for the vineyard section due to potentially slippery roads."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in Mór bietet klare Luft und schöne Ausblicke. Der Vormittag im Zentrum erfordert Vorsicht wegen Frost. Mittags wärmen Sie sich im Schloss auf, bevor Sie am Nachmittag eine verkürzte Runde durch die Weinberge drehen. Der Tag endet früh bei Sonnenuntergang in der gemütlichen Kellerei Bozsoki, wo Sie Ihre kalten Hände am Weinglas wärmen.",
+            "hu": "A téli kerékpározás Móron friss levegőt és tiszta kilátást kínál. A délelőtti városi tekerésnél figyelni kell a fagyfoltokra. Délben a kastélyban melegszünk fel, majd délután egy rövidített kört teszünk a szőlőben. A nap korán, naplementekor ér véget a Bozsoki pincénél, ahol végre felmelegedhetünk.",
+            "ro": "Ciclismul de iarnă în Mór oferă aer curat și priveliști clare. Dimineața în centru necesită atenție sporită la îngheț. La prânz vă încălziți la castel, apoi faceți o tură scurtă prin podgorii după-amiaza. Ziua se încheie devreme, la apus, în atmosfera primitoare a cramei Bozsoki.",
+            "en": "Winter cycling in Mór offers crisp air and clear views. Use caution during the morning city ride due to frost. Warm up inside the castle at noon, then take a shortened loop through the vineyards in the afternoon. The day ends early at sunset at the Bozsoki cellar, the perfect place to thaw out."
+          },
+          "stops": [
+            {
+              "name": "Town Hall of Mór",
+              "tip_5lang": {
+                "de": "Achten Sie auf überfrierende Nässe im Schatten der Gebäude.",
+                "hu": "Ügyeljen a felfagyásokra az épületek árnyékos oldalán.",
+                "ro": "Atenție la porțiunile înghețate de la umbra clădirilor.",
+                "en": "Watch out for patches of ice in the shadows of the buildings."
+              }
+            },
+            {
+              "name": "Capuchin Church and Monastery",
+              "tip_5lang": {
+                "de": "Kurze Pause; lassen Sie die Handschuhe an, wenn Sie draußen stehen.",
+                "hu": "Rövid pihenő; ne vegye le a kesztyűt, amíg a bringánál áll.",
+                "ro": "Pauză scurtă; nu vă scoateți mănușile cât timp stați lângă bicicletă.",
+                "en": "Short break; keep your gloves on while standing by your bike."
+              }
+            },
+            {
+              "name": "Lamberg Castle and Castle Garden",
+              "tip_5lang": {
+                "de": "Gönnen Sie sich eine lange Pause im warmen Inneren des Schlosses.",
+                "hu": "Tartson hosszabb pihenőt a kastély fűtött belső termeiben.",
+                "ro": "Luați o pauză lungă în interiorul călduros al castelului.",
+                "en": "Take a long break inside the warm interior of the castle."
+              }
+            },
+            {
+              "name": "Mór Wine Museum",
+              "tip_5lang": {
+                "de": "Ein guter Stopp, um die Durchblutung der Füße wieder anzuregen.",
+                "hu": "Kiváló megálló a lábujjak átmozgatására és felmelegítésére.",
+                "ro": "O oprire excelentă pentru a vă dezmorți picioarele.",
+                "en": "A great stop to warm up your toes and regain circulation."
+              }
+            },
+            {
+              "name": "Statue of Pál Teleki",
+              "tip_5lang": {
+                "de": "Nur ein schneller Blick; der Wind kann hier im Winter beißen.",
+                "hu": "Csak egy gyors pillantás; a szél metsző lehet itt télen.",
+                "ro": "Doar o privire rapidă; vântul poate fi tăios aici iarna.",
+                "en": "Just a quick glance; the wind can be biting here in winter."
+              }
+            },
+            {
+              "name": "Ride through the Vineyards",
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Kleidung; die freien Flächen sind sehr zugig.",
+                "hu": "Viseljen szélálló ruhát; a nyílt terepen sokkal hidegebb van.",
+                "ro": "Purtați haine rezistente la vânt; zonele deschise sunt foarte expuse.",
+                "en": "Wear windproof clothing; the open areas are much colder."
+              }
+            },
+            {
+              "name": "Bozsoki Wine Cellar",
+              "tip_5lang": {
+                "de": "Der krönende Abschluss mit warmem Keller-Ambiente vor der Heimfahrt.",
+                "hu": "A nap fénypontja a fűtött kóstolóhelyiség a hazaindulás előtt.",
+                "ro": "Finalul perfect cu o atmosferă caldă înainte de plecare.",
+                "en": "The highlight of the day: a warm tasting room before heading home."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Handschuhe und eine Mütze unter dem Helm sind Pflicht.",
+              "Achten Sie auf den Windchill-Effekt bei der Abfahrt von den Weinbergen.",
+              "Die Tage sind kurz; sorgen Sie für eine funktionierende Fahrradbeleuchtung.",
+              "Vermeiden Sie bei Frost zu hohen Reifendruck für bessere Bodenhaftung."
+            ],
+            "hu": [
+              "Meleg kesztyű és a sisak alá való sapka kötelező felszerelés.",
+              "Számoljon a szél hűtő hatásával a szőlőhegyi lejtőkön.",
+              "A nappalok rövidek, ellenőrizze a kerékpáros lámpák állapotát.",
+              "Fagyos úton ne fújja túl keményre a gumikat a jobb tapadásért."
+            ],
+            "ro": [
+              "Mănușile călduroase și o căciulă sub cască sunt obligatorii.",
+              "Țineți cont de factorul de răcire al vântului la coborârea din podgorii.",
+              "Zilele sunt scurte; asigurați-vă că luminile bicicletei funcționează.",
+              "Pe timp de îngheț, nu umflați cauciucurile la maximum pentru o aderență mai bună."
+            ],
+            "en": [
+              "Warm gloves and a thin cap under your helmet are mandatory.",
+              "Be aware of the wind chill factor when descending from the vineyards.",
+              "Days are short; ensure your bike lights are in good working order.",
+              "In freezing conditions, keep tire pressure slightly lower for better grip."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1146,6 +1546,206 @@
           "The driver should be responsible during the wine tasting. Many wineries sell wine to take away.",
           "The roads to the vineyards can be narrow, drive carefully."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mór mit dem Auto bei Regen ist komfortabel, da Sie direkt an den Sehenswürdigkeiten parken können. Vormittags besuchen Sie das Schloss Lamberg fast ohne nass zu werden. Mittags parken Sie im Zentrum für den Besuch von Rathaus und Kirche. Den Nachmittag verbringen Sie trocken im Weinmuseum, und die Fahrt zum Weingut in den Weinbergen ist im Auto sicher und bequem.",
+            "hu": "Autóval az esős Mór kényelmesen bejárható, hiszen közvetlenül a látnivalóknál parkolhatunk. Délelőtt a Lamberg-kastélyt szinte ázásmentesen érhetjük el. Délben a központban parkolunk a városháza és a templom mellett. A délutánt a Bormúzeumban töltjük, a szőlőhegyi pincéhez pedig szárazon érkezünk meg autóval.",
+            "ro": "Mór cu mașina pe ploaie este confortabil, deoarece puteți parca chiar lângă obiective. Dimineața vizitați Castelul Lamberg fără să vă udați prea tare. La prânz, parcați în centru pentru primărie și biserică. După-amiaza o petreceți la Muzeul Vinului, iar drumul spre podgorii este sigur și comod în mașină.",
+            "en": "Exploring Mór by car in the rain is convenient, allowing you to park right by the attractions. Visit Lamberg Castle in the morning with minimal exposure. At noon, park in the center for the Town Hall and church. Spend a dry afternoon at the Wine Museum, and enjoy a comfortable drive to the vineyards for the evening program."
+          },
+          "stops": [
+            {
+              "name": "Parking at Lamberg Castle",
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Haupteingang des Schlosses.",
+                "hu": "Parkoljon a lehető legközelebb a kastély főbejáratához.",
+                "ro": "Parcați cât mai aproape de intrarea principală a castelului.",
+                "en": "Park as close to the main entrance of the castle as possible."
+              }
+            },
+            {
+              "name": "Lamberg Castle",
+              "tip_5lang": {
+                "de": "Lassen Sie Ihren Regenschirm im Auto, wenn Sie direkt vor dem Tor parken.",
+                "hu": "Az esernyőt a kocsiban is hagyhatja, ha közvetlenül a kapu előtt áll meg.",
+                "ro": "Puteți lăsa umbrela în mașină dacă parcați chiar în fața porții.",
+                "en": "You can leave your umbrella in the car if you park right in front of the gate."
+              }
+            },
+            {
+              "name": "Castle Garden",
+              "tip_5lang": {
+                "de": "Ein kurzer Blick aus dem Auto oder ein schneller Spaziergang bei Regenpause.",
+                "hu": "Csak egy gyors pillantás a kocsiból, vagy séta egy esőszünetben.",
+                "ro": "O privire rapidă din mașină sau o plimbare scurtă între reprizele de ploaie.",
+                "en": "A quick look from the car or a short walk during a break in the rain."
+              }
+            },
+            {
+              "name": "Parking in the City Center",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkplätze in der Nähe der Kapuzinerkirche.",
+                "hu": "Használja a Kapucinus templom melletti parkolóhelyeket.",
+                "ro": "Folosiți locurile de parcare de lângă Biserica Capucinilor.",
+                "en": "Use the parking spaces located near the Capuchin church."
+              }
+            },
+            {
+              "name": "Town Hall and Capuchin Church",
+              "tip_5lang": {
+                "de": "Beide Gebäude sind nur wenige Schritte vom Parkplatz entfernt.",
+                "hu": "Mindkét épület csupán pár lépésre van a parkolótól.",
+                "ro": "Ambele clădiri sunt la doar câțiva pași de parcare.",
+                "en": "Both buildings are just a few steps away from the parking lot."
+              }
+            },
+            {
+              "name": "Mór Wine Museum",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist direkt vor dem Museum; ideal bei Starkregen.",
+                "hu": "A parkoló közvetlenül a múzeum előtt van; ideális szakadó esőben.",
+                "ro": "Parcarea este chiar în fața muzeului; ideal în caz de ploaie torențială.",
+                "en": "The parking lot is right in front of the museum; ideal during heavy rain."
+              }
+            },
+            {
+              "name": "Winery in the Vineyards (e.g., Bozsoki)",
+              "tip_5lang": {
+                "de": "Die Zufahrt zu den Weingütern ist asphaltiert und sicher bei Regen.",
+                "hu": "A pincékhez vezető út aszfaltozott és esőben is biztonságos.",
+                "ro": "Drumul spre crame este asfaltat și sigur pe timp de ploaie.",
+                "en": "The road to the wineries is paved and safe even in rainy weather."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf beschlagene Scheiben; nutzen Sie die Klimaanlage zur Entfeuchtung.",
+              "In Mór gibt es viele Parkmöglichkeiten direkt im Zentrum.",
+              "Die Feldwege in den Weinbergen sollten bei Regen gemieden werden; bleiben Sie auf Asphalt.",
+              "Ein kleiner Taschenregenschirm im Seitenfach ist immer nützlich."
+            ],
+            "hu": [
+              "Ügyeljen a szélvédők párásodására; használja a klímát a páramentesítéshez.",
+              "Móron számos parkolóhely található közvetlenül a központban.",
+              "A szőlőhegyi dűlőutakat kerülje esőben; maradjon a szilárd burkolatú utakon.",
+              "Egy kisméretű esernyő az ajtózsebben mindig jól jöhet a rövid szakaszokon."
+            ],
+            "ro": [
+              "Atenție la aburirea geamurilor; folosiți aerul condiționat pentru dezaburire.",
+              "În Mór există multe locuri de parcare chiar în centrul orașului.",
+              "Evitați drumurile de pământ din podgorii pe ploaie; rămâneți pe asfalt.",
+              "O umbrelă mică în buzunarul portierei este întotdeauna utilă."
+            ],
+            "en": [
+              "Watch out for fogged-up windows; use the AC for quick dehumidifying.",
+              "Mór offers plenty of parking spaces directly in the city center.",
+              "Avoid dirt tracks in the vineyards during rain; stick to paved roads.",
+              "Keep a small umbrella in the door pocket for the short walks to entrances."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Autofahrt durch Mór zeigt die Stadt von ihrer gemütlichen Seite. Vormittags besichtigen Sie das prächtige Schloss Lamberg. Mittags erkunden Sie das beleuchtete Zentrum rund um das Rathaus. Der Nachmittag gehört dem Weinmuseum, bevor Sie am frühen Abend zu einem Weingut fahren, um den Tag bei Kaminfeuer und lokalem Wein ausklingen zu lassen.",
+            "hu": "A téli autós kirándulás Móron a város meghitt arcát mutatja meg. Délelőtt a fűtött Lamberg-kastélyt keressük fel. Délben a díszkivilágított központot fedezzük fel a városháza körül. A délutánt a Bormúzeumban töltjük, majd kora este egy szőlőhegyi pincéhez hajtunk, ahol a kandalló mellett élvezhetjük a helyi bort.",
+            "ro": "O excursie cu mașina iarna prin Mór dezvăluie latura primitoare a orașului. Dimineața vizitați Castelul Lamberg. La prânz, explorați centrul iluminat festiv în jurul primăriei. După-amiaza aparține Muzeului Vinului, iar seara devreme conduceți spre o cramă pentru a încheia ziua lângă un șemineu cu vin local.",
+            "en": "A winter drive through Mór reveals the town's cozy side. Start the morning at the magnificent Lamberg Castle. At noon, explore the festively lit center around the Town Hall. Spend the afternoon at the Wine Museum before driving to a vineyard in the early evening to enjoy local wine by a warm fireplace."
+          },
+          "stops": [
+            {
+              "name": "Parking at Lamberg Castle",
+              "tip_5lang": {
+                "de": "Achten Sie auf Schneehaufen oder Eisreste auf dem Parkplatz.",
+                "hu": "Ügyeljen a hóbuckákra vagy jégfoltokra a parkoló területén.",
+                "ro": "Atenție la mormanele de zăpadă sau gheața din parcare.",
+                "en": "Watch out for snow banks or icy patches in the parking area."
+              }
+            },
+            {
+              "name": "Lamberg Castle",
+              "tip_5lang": {
+                "de": "Genießen Sie die weihnachtliche Dekoration im Schlossinneren.",
+                "hu": "Élvezze a kastély belső tereinek ünnepi dekorációját.",
+                "ro": "Bucurați-vă de decorațiunile de iarnă din interiorul castelului.",
+                "en": "Enjoy the festive winter decorations inside the castle rooms."
+              }
+            },
+            {
+              "name": "Castle Garden",
+              "tip_5lang": {
+                "de": "Bei Schnee bietet der Garten eine wunderschöne Kulisse für Fotos.",
+                "hu": "Hóesésben a kert gyönyörű hátteret biztosít a fotózáshoz.",
+                "ro": "Dacă ninge, grădina oferă un cadru superb pentru fotografii.",
+                "en": "In the snow, the garden provides a beautiful backdrop for photos."
+              }
+            },
+            {
+              "name": "Parking in the City Center",
+              "tip_5lang": {
+                "de": "Zentrale Parkplätze sind im Winter oft schnell geräumt.",
+                "hu": "A központi parkolókat télen általában gyorsan letakarítják.",
+                "ro": "Parcările centrale sunt de obicei curățate rapid iarna.",
+                "en": "Central parking lots are usually cleared of snow quickly in winter."
+              }
+            },
+            {
+              "name": "Town Hall and Capuchin Church",
+              "tip_5lang": {
+                "de": "Die Abendbeleuchtung ist hier besonders sehenswert.",
+                "hu": "Az esti díszkivilágítás itt különösen látványos télen.",
+                "ro": "Iluminatul festiv de seară este deosebit de frumos aici.",
+                "en": "The evening festive lighting is particularly beautiful here."
+              }
+            },
+            {
+              "name": "Mór Wine Museum",
+              "tip_5lang": {
+                "de": "Ein warmer Ort, um die Zeit bis zum frühen Abend zu überbrücken.",
+                "hu": "Meleg helyszín a kora esti programig hátralévő idő eltöltésére.",
+                "ro": "Un loc călduros pentru a petrece timpul până la programul de seară.",
+                "en": "A warm indoor location to spend time until the evening program."
+              }
+            },
+            {
+              "name": "Winery in the Vineyards (e.g., Bozsoki)",
+              "tip_5lang": {
+                "de": "Prüfen Sie bei starkem Schneefall die Befahrbarkeit der Nebenwege.",
+                "hu": "Erős havazás esetén ellenőrizze a mellékutak járhatóságát.",
+                "ro": "În caz de ninsoare abundentă, verificați starea drumurilor secundare.",
+                "en": "In case of heavy snowfall, check the condition of secondary roads."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in dieser hügeligen Region absolut notwendig.",
+              "Führen Sie einen Eiskratzer und Frostschutzmittel für die Scheiben mit.",
+              "Die Fahrt in die Weinberge kann bei Glätte anspruchsvoll sein; fahren Sie vorsichtig.",
+              "Nutzen Sie die Sitzheizung für maximalen Komfort zwischen den Stopps."
+            ],
+            "hu": [
+              "A téli gumi használata ebben a dombos régióban elengedhetetlen.",
+              "Legyen önnél jégkaparó és téli szélvédőmosó folyadék.",
+              "A szőlőhegyi utak jegesedéskor trükkösek lehetnek; vezessen óvatosan.",
+              "Használja az ülésfűtést a megállók közötti maximális kényelemért."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii în această regiune deluroasă.",
+              "Asigurați-vă că aveți o racletă și lichid de parbriz de iarnă.",
+              "Drumurile spre podgorii pot fi dificile pe polei; conduceți cu prudență.",
+              "Folosiți încălzirea în scaune pentru confort maxim între opriri."
+            ],
+            "en": [
+              "Winter tires are absolutely necessary in this hilly region.",
+              "Keep an ice scraper and winter windshield fluid in the car.",
+              "Vineyard roads can be tricky when icy; drive with extra caution.",
+              "Use your seat heaters for maximum comfort between the different stops."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1502,6 +2102,188 @@
           "Most buses depart from Szent István Square.",
           "Some wine cellars may not be directly accessible by public transport, plan for a short walk."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mór mit öffentlichen Verkehrsmitteln bei Regen erfordert gute Planung der Busverbindungen. Vormittags nutzen Sie die Haltestellen im Zentrum, um schnell zum Rathaus und zur Kirche zu gelangen. Mittags bringt Sie der Bus direkt zum Schloss Lamberg. Den Nachmittag verbringen Sie im Weinmuseum, und abends erreichen Sie die Kellereien bequem mit einer kurzen Busfahrt.",
+            "hu": "Tömegközlekedéssel az esős Mór jó időzítést igényel a buszjáratok között. Délelőtt a központi megállóból gyorsan elérhető a városháza és a templom. Délben a busz szinte a Lamberg-kastély kapujában tesz le. A délutánt a Bormúzeumban töltjük, majd busszal közelítjük meg az esti pincelátogatás helyszínét.",
+            "ro": "Explorarea orașului Mór cu transportul public pe ploaie necesită o bună planificare. Dimineața, folosiți stațiile centrale pentru a ajunge rapid la primărie și biserică. La prânz, autobuzul vă lasă aproape de Castelul Lamberg. După-amiaza o petreceți la Muzeul Vinului, iar seara ajungeți la crame cu un drum scurt cu autobuzul.",
+            "en": "Public transit in Mór during rain requires good timing of the local bus schedules. In the morning, use central stops for quick access to the Town Hall and church. At noon, the bus drops you right near Lamberg Castle. Spend a dry afternoon at the Wine Museum before heading to the cellars by bus for the evening."
+          },
+          "stops": [
+            {
+              "name": "Center (Szent István Square bus stop)",
+              "tip_5lang": {
+                "de": "Die Haltestelle bietet ein Wartehäuschen als Schutz vor Regen.",
+                "hu": "A buszmegálló fedett várója védelmet nyújt az eső ellen.",
+                "ro": "Stația de autobuz are un adăpost care vă protejează de ploaie.",
+                "en": "The bus stop has a shelter to keep you dry while waiting."
+              }
+            },
+            {
+              "name": "Town Hall and Capuchin Church",
+              "tip_5lang": {
+                "de": "Nur ein kurzer Fußweg von der Haltestelle; halten Sie den Schirm bereit.",
+                "hu": "Csak rövid séta a megállótól; tartsa készenlétben az esernyőt.",
+                "ro": "Doar o scurtă plimbare de la stație; țineți umbrela la îndemână.",
+                "en": "Only a short walk from the stop; keep your umbrella ready."
+              }
+            },
+            {
+              "name": "Mór Wine Museum",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Abfahrtszeiten im Voraus, um langes Warten im Regen zu vermeiden.",
+                "hu": "Ellenőrizze előre a menetrendet, hogy ne kelljen sokat várnia az esőben.",
+                "ro": "Verificați orarul în avans pentru a nu aștepta mult în ploaie.",
+                "en": "Check the schedule in advance to avoid waiting too long in the rain."
+              }
+            },
+            {
+              "name": "Bus stop at Lamberg Castle",
+              "tip_5lang": {
+                "de": "Die Haltestelle liegt sehr nah am Schlosseingang.",
+                "hu": "A megálló nagyon közel van a kastély bejáratához.",
+                "ro": "Stația este situată foarte aproape de intrarea în castel.",
+                "en": "The bus stop is located very close to the castle entrance."
+              }
+            },
+            {
+              "name": "Lamberg Castle and Castle Garden",
+              "tip_5lang": {
+                "de": "Bleiben Sie im Schloss, bis kurz vor Abfahrt Ihres nächsten Busses.",
+                "hu": "Maradjon a kastélyban a következő busz indulása előtti percekig.",
+                "ro": "Rămâneți în castel până cu câteva minute înainte de plecarea autobuzului.",
+                "en": "Stay inside the castle until a few minutes before your bus arrives."
+              }
+            },
+            {
+              "name": "Bozsoki Wine Cellar",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist nur wenige Gehminuten von der Kellerei entfernt.",
+                "hu": "A megálló csupán pár perc sétára található a pincétől.",
+                "ro": "Stația este la doar câteva minute de mers pe jos de cramă.",
+                "en": "The stop is only a few minutes' walk from the wine cellar."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die lokale Fahrplan-App, um Verspätungen bei Regen zu prüfen.",
+              "Die Busse der Linien 8360 und 8381 verbinden die wichtigsten Punkte.",
+              "Halten Sie Kleingeld oder eine kontaktlose Karte für den Fahrkartenkauf bereit.",
+              "Die Wartebereiche am Szent István Platz sind gut überdacht."
+            ],
+            "hu": [
+              "Használja a menetrendi alkalmazást az eső miatti esetleges késések követésére.",
+              "A 8360-as és 8381-es járatok kötik össze a legfontosabb pontokat.",
+              "Készítsen elő aprópénzt vagy bankkártyát a jegyvásárláshoz.",
+              "A Szent István téri váróhelyiségek jól védettek az időjárástól."
+            ],
+            "ro": [
+              "Folosiți aplicația de transport pentru a verifica eventualele întârzieri.",
+              "Liniile 8360 și 8381 fac legătura între cele mai importante puncte.",
+              "Pregătiți mărunțiș sau cardul bancar pentru achiziționarea biletului.",
+              "Zonele de așteptare din Piața Szent István sunt bine protejate de ploaie."
+            ],
+            "en": [
+              "Use a transit app to track potential delays during rainy weather.",
+              "Bus lines 8360 and 8381 connect the most important sightseeing spots.",
+              "Have some small change or a contactless card ready for ticket purchase.",
+              "The waiting areas at Szent István Square offer good protection from the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintertag in Mór mit dem Bus ist gemütlich und sicher. Der Vormittag im Zentrum bietet weihnachtliche Atmosphäre an den Haltestellen. Mittags wärmen Sie sich im Schloss auf, das gut mit dem Bus erreichbar ist. Den Nachmittag verbringen Sie im Weinmuseum, und zum Abschluss bringt Sie der Bus zur Kellerei, wo Sie den Tag entspannt beenden können.",
+            "hu": "A téli móri buszozás kényelmes és biztonságos módja a városnézésnek. Délelőtt a központban az ünnepi díszítésben gyönyörködhetünk a megállóknál. Délben a kastély fűtött tereiben melegszünk fel. A délutánt a Bormúzeumban töltjük, majd busszal érkezünk az esti pincelátogatásra.",
+            "ro": "O zi de iarnă în Mór cu autobuzul este o modalitate comodă și sigură de vizitare. Dimineața, bucurați-vă de atmosfera festivă din stațiile centrale. La prânz, vizitați Castelul Lamberg. După-amiaza aparține Muzeului Vinului, iar seara ajungeți cu autobuzul la cramă pentru un final relaxant.",
+            "en": "A winter day in Mór by bus is a comfortable and safe way to sightsee. Enjoy the festive atmosphere at the central stops in the morning. Warm up inside the castle at noon, easily reached by local bus. Spend the afternoon at the Wine Museum before taking the bus to your evening wine cellar visit."
+          },
+          "stops": [
+            {
+              "name": "Center (Szent István Square bus stop)",
+              "tip_5lang": {
+                "de": "Ein warmer Kaffee am Platz verkürzt die Wartezeit auf den Bus.",
+                "hu": "Egy forró kávé a téren segít elütni az időt a busz érkezéséig.",
+                "ro": "O cafea fierbinte în piață face așteptarea autobuzului mai plăcută.",
+                "en": "A hot coffee at the square helps pass the time while waiting for the bus."
+              }
+            },
+            {
+              "name": "Town Hall and Capuchin Church",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Weihnachtsbeleuchtung auf dem Weg zur Haltestelle.",
+                "hu": "Csodálja meg az ünnepi fényeket a megálló felé vezető úton.",
+                "ro": "Admirați luminile de Crăciun în drum spre stație.",
+                "en": "Admire the Christmas lights while walking towards the bus stop."
+              }
+            },
+            {
+              "name": "Mór Wine Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Museum als warmen Aufenthaltsort bis zur Abfahrt.",
+                "hu": "Használja a múzeumot meleg váróhelyként a busz indulásáig.",
+                "ro": "Folosiți muzeul ca loc de așteptare călduros până la plecare.",
+                "en": "Use the museum as a warm place to stay until your bus departs."
+              }
+            },
+            {
+              "name": "Bus stop at Lamberg Castle",
+              "tip_5lang": {
+                "de": "Achten Sie auf gestreute Wege zwischen Bus und Schloss.",
+                "hu": "Ügyeljen a felszórt utakra a busz és a kastély között.",
+                "ro": "Atenție la aleile curățate între stație și castel.",
+                "en": "Watch for salted or cleared paths between the bus and the castle."
+              }
+            },
+            {
+              "name": "Lamberg Castle and Castle Garden",
+              "tip_5lang": {
+                "de": "Der Schlossgarten wirkt im Winter wie verzaubert.",
+                "hu": "A kastélykert télen olyan, mint egy elvarázsolt birodalom.",
+                "ro": "Grădina castelului arată ca un tărâm vrăjit pe timp de iarnă.",
+                "en": "The castle garden looks like an enchanted realm in the winter."
+              }
+            },
+            {
+              "name": "Bozsoki Wine Cellar",
+              "tip_5lang": {
+                "de": "Planen Sie den Rückweg zum Bus vor Einbruch der Dunkelheit.",
+                "hu": "Tervezze meg a visszautat a buszhoz a sötétedés beállta előtt.",
+                "ro": "Planificați drumul de întoarcere la stație înainte de lăsarea întunericului.",
+                "en": "Plan your return walk to the bus stop before it gets dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie warme Kleidung, da die Busse manchmal kühl sein können.",
+              "Die Fahrpläne können im Winter bei starkem Schneefall leicht abweichen.",
+              "Nutzen Sie die geheizten Cafés am Szent István Platz als Wartezonen.",
+              "Die letzte Busverbindung am frühen Abend sollte im Voraus geprüft werden."
+            ],
+            "hu": [
+              "Öltözzön melegen, mert a buszokon is hűvösebb lehet az időnkénti ajtónyitáskor.",
+              "Havazás esetén a menetrendben kisebb eltérések fordulhatnak elő.",
+              "Használja a Szent István téri fűtött kávézókat váróteremként.",
+              "Az utolsó kora esti járatokat érdemes előre ellenőrizni."
+            ],
+            "ro": [
+              "Îmbrăcați-vă gros, deoarece în autobuze poate fi răcoare.",
+              "În caz de ninsoare, pot apărea mici întârzieri în orarul autobuzelor.",
+              "Folosiți cafenelele încălzite din Piața Szent István ca zone de așteptare.",
+              "Verificați din timp ultimele curse de seară."
+            ],
+            "en": [
+              "Dress warmly as buses can get chilly when doors open frequently.",
+              "In case of snowfall, slight deviations in the schedule may occur.",
+              "Use the heated cafes at Szent István Square as cozy waiting areas.",
+              "Be sure to check the last bus connections in the early evening."
+            ]
+          }
+        }
       }
     }
   }

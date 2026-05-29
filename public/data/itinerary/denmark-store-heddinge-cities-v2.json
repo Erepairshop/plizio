@@ -257,6 +257,170 @@
           "Most shops close in the early afternoon, so plan your shopping accordingly.",
           "Bring a reusable water bottle; there are public fountains available."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag in der geschützten achteckigen St. Katharina Kirche, wo die dicken Mauern den Regen draußen halten. Mittags bietet das Stevns Museum eine trockene und faszinierende Flucht in die Erdgeschichte. Am Nachmittag spazieren Sie mit dem Regenschirm zum Wasserturm und genießen danach ein gemütliches Mittagessen im Stadtzentrum. Den Tag lassen Sie beim Schaufensterbummel in der Algade ausklingen, während die Pfützen das Licht der Stadt reflektieren.",
+            "hu": "Kezdje a napot a Szent Katalin-templom vastag falai között, amely tökéletes menedék az eső elől. Délben a Stevns Múzeum kínál száraz és izgalmas kikapcsolódást a földtörténet világában. Délután egy esernyős séta vár a víztoronyhoz, majd egy hosszabb ebéd a városközpontban. A napot az Algade utca boltjai alatt zárhatja, ahol az esőáztatta aszfalton megcsillannak az esti fények.",
+            "ro": "Începeți ziua între zidurile groase ale Bisericii Sfânta Ecaterina, un adăpost perfect împotriva ploii. La prânz, Muzeul Stevns oferă o evadare uscată și fascinantă în istoria pământului. După-amiaza, o plimbare cu umbrela spre turnul de apă, urmată de un prânz prelungit în centrul orașului. Încheiați ziua pe strada Algade, unde vitrinele magazinelor oferă protecție și lumini calde reflectate în bălți.",
+            "en": "Start your day inside the thick walls of Saint Katharina Church, a perfect shelter from the rain. At noon, the Stevns Museum provides a dry and fascinating escape into geological history. In the afternoon, take an umbrella stroll to the water tower, followed by a long, cozy lunch in the town center. End the day browsing the shops on Algade street, where the wet pavement reflects the city lights."
+          },
+          "stops": [
+            {
+              "name": "Saint Katharina Church",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich, um Ihren Regenschirm auszuschütteln.",
+                "hu": "Használja a fedett bejáratot az esernyő lerázásához a belépés előtt.",
+                "ro": "Folosiți intrarea acoperită pentru a scutura umbrela înainte de a intra.",
+                "en": "Use the covered entrance area to shake off your umbrella before entering."
+              }
+            },
+            {
+              "name": "Stevns Museum",
+              "tip_5lang": {
+                "de": "Idealer Ort, um nasse Kleidung an der Garderobe zu trocknen.",
+                "hu": "Ideális hely a vizes ruhák megszárítására a ruhatárnál.",
+                "ro": "Loc ideal pentru a vă usca hainele ude la garderobă.",
+                "en": "Ideal place to dry off wet clothes at the cloakroom."
+              }
+            },
+            {
+              "name": "Store Heddinge Water Tower",
+              "tip_5lang": {
+                "de": "Der Boden kann bei Nässe rutschig sein, halten Sie sich am Geländer fest.",
+                "hu": "A talaj nedvesen csúszós lehet, kapaszkodjon a korlátba.",
+                "ro": "Podeaua poate fi alunecoasă când este udă, țineți-vă de balustradă.",
+                "en": "The ground can be slippery when wet, hold onto the railings."
+              }
+            },
+            {
+              "name": "Lunch in the town center",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit Fensterplatz, um dem Regen zuzusehen.",
+                "hu": "Válasszon ablak melletti asztalt, és élvezze az eső látványát a melegből.",
+                "ro": "Alegeți un restaurant cu loc la fereastră pentru a privi ploaia.",
+                "en": "Choose a restaurant with a window seat to watch the rain fall."
+              }
+            },
+            {
+              "name": "Stroll down Algade street",
+              "tip_5lang": {
+                "de": "Die Markisen der Geschäfte bieten guten Schutz beim Gehen.",
+                "hu": "Az üzletek előtetői jó védelmet nyújtanak séta közben.",
+                "ro": "Copertinele magazinelor oferă o protecție bună în timp ce mergeți.",
+                "en": "The shop awnings provide good shelter while walking."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da sich in der Altstadt Pfützen bilden können.",
+              "Ein stabiler Regenschirm ist wegen des Küstenwindes besser als ein billiger.",
+              "Museen und Kirchen sind Ihre besten Freunde für trockene Pausen.",
+              "Nutzen Sie die Regenzeit für ein ausgiebiges dänisches 'Hygge'-Mittagessen."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert az óvárosban megállhat az esővíz.",
+              "A tengerparti szél miatt egy stabil esernyő jobb, mint az eldobható változatok.",
+              "A múzeumok és templomok a legjobb helyek a száraz szünetekhez.",
+              "Használja ki az esős időt egy kiadós dán 'Hygge' ebédre."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, deoarece se pot forma bălți în centrul vechi.",
+              "O umbrelă robustă este mai bună decât una ieftină din cauza vântului de coastă.",
+              "Muzeele și bisericile sunt cei mai buni prieteni pentru pauze uscate.",
+              "Profită de timpul ploios pentru un prânz danez 'Hygge' prelungit."
+            ],
+            "en": [
+              "Wear waterproof shoes as puddles can form in the old town area.",
+              "A sturdy umbrella is better than a cheap one due to coastal winds.",
+              "Museums and churches are your best friends for dry breaks.",
+              "Use the rainy weather as an excuse for a long Danish 'Hygge' lunch."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie die Stille des dänischen Winters in der St. Katharina Kirche am Morgen. Mittags wärmen Sie sich im Stevns Museum auf, während Sie die Klippengeschichte studieren. Der Nachmittag führt Sie zum frostigen Wasserturm, gefolgt von einer heißen Schokolade im Stadtzentrum. Wenn die Sonne früh untergeht, erstrahlt die Algade in festlichem Licht und lädt zu einem winterlichen Spaziergang ein.",
+            "hu": "Élje át a dán tél csendjét a Szent Katalin-templomban a reggeli órákban. Délben melegedjen fel a Stevns Múzeumban, miközben a sziklák történetét tanulmányozza. A délután a fagyos víztoronyhoz vezet, majd egy forró csokoládé vár a városközpontban. Mivel a nap korán nyugszik, az Algade utca ünnepi fényben úszik, tökéletes helyszínt biztosítva az esti sétához.",
+            "ro": "Experimentați liniștea iernii daneze în Biserica Sfânta Ecaterina dimineața. La prânz, încălziți-vă în Muzeul Stevns în timp ce studiați istoria falezei. După-amiaza vă duce la turnul de apă înghețat, urmat de o ciocolată caldă în centru. Deoarece soarele apune devreme, strada Algade strălucește în lumini festive, invitându-vă la o plimbare de iarnă.",
+            "en": "Experience the silence of the Danish winter at Saint Katharina Church in the morning. At noon, warm up in the Stevns Museum while studying the cliff's history. The afternoon leads you to the frosty water tower, followed by a hot chocolate in the town center. As the sun sets early, Algade street glows with festive lights, inviting you for a winter stroll."
+          },
+          "stops": [
+            {
+              "name": "Saint Katharina Church",
+              "tip_5lang": {
+                "de": "Die Steinkirche ist kalt, behalten Sie Ihren Mantel an.",
+                "hu": "A kőtemplom hideg lehet, tartsa magán a kabátját.",
+                "ro": "Biserica de piatră este rece, păstrați-vă haina pe dvs.",
+                "en": "The stone church is cold inside, keep your coat on."
+              }
+            },
+            {
+              "name": "Stevns Museum",
+              "tip_5lang": {
+                "de": "Genießen Sie die Heizung und nehmen Sie sich Zeit für die Ausstellungen.",
+                "hu": "Élvezze a fűtést és szánjon időt a kiállításokra.",
+                "ro": "Bucurați-vă de căldură și acordați-vă timp pentru expoziții.",
+                "en": "Enjoy the heating and take your time with the exhibits."
+              }
+            },
+            {
+              "name": "Store Heddinge Water Tower",
+              "tip_5lang": {
+                "de": "Der Wind oben kann eisig sein, Mütze und Handschuhe sind Pflicht.",
+                "hu": "A szél a magasban jeges lehet, a sapka és kesztyű kötelező.",
+                "ro": "Vântul la înălțime poate fi tăios, căciula și mănușile sunt obligatorii.",
+                "en": "The wind at the top can be icy, hat and gloves are a must."
+              }
+            },
+            {
+              "name": "Lunch in the town center",
+              "tip_5lang": {
+                "de": "Bestellen Sie eine warme Suppe, um die Kälte zu vertreiben.",
+                "hu": "Rendeljen egy forró levest, hogy elűzze a hideget.",
+                "ro": "Comandați o supă caldă pentru a alunga frigul.",
+                "en": "Order a warm soup to chase away the winter chill."
+              }
+            },
+            {
+              "name": "Stroll down Algade street",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf dem Bürgersteig.",
+                "hu": "Ügyeljen a jeges foltokra a járdán.",
+                "ro": "Aveți grijă la porțiunile înghețate de pe trotuar.",
+                "en": "Watch out for icy patches on the pavement."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht gegen 16:00 Uhr unter, planen Sie Außenaktivitäten früh.",
+              "Zwiebelprinzip bei der Kleidung schützt am besten vor dem kalten Wind.",
+              "Viele Cafés bieten Decken für einen kurzen Kaffee im Freien an.",
+              "Achten Sie auf die kürzeren Öffnungszeiten einiger lokaler Geschäfte."
+            ],
+            "hu": [
+              "A nap 16:00 körül nyugszik, tervezze a kinti programokat korábbra.",
+              "A réteges öltözködés véd meg legjobban a hideg tengerparti széltől.",
+              "Sok kávézó kínál pokrócot egy rövid kinti kávézáshoz.",
+              "Figyeljen a helyi boltok rövidebb téli nyitvatartási idejére."
+            ],
+            "ro": [
+              "Soarele apune în jurul orei 16:00, planificați activitățile în aer liber devreme.",
+              "Îmbrăcămintea în straturi vă protejează cel mai bine de vântul rece.",
+              "Multe cafenele oferă pături pentru o cafea scurtă afară.",
+              "Atenție la orele de funcționare reduse ale unor magazine locale."
+            ],
+            "en": [
+              "The sun sets around 16:00, so plan your outdoor activities early.",
+              "Layered clothing is the best protection against the cold coastal wind.",
+              "Many cafes offer blankets for a short coffee break outside.",
+              "Note the shorter winter opening hours for some local shops."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -555,6 +719,188 @@
           "Bring plenty of water and snacks for the ride.",
           "Most attractions have bike racks available."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotzen Sie dem Regen auf dem Weg zur St. Katharina Kirche, bevor Sie die Küste ansteuern. Die Fahrt nach Højerup ist bei Nässe eine Herausforderung, aber die Stevns Klint Klippen wirken im Regen dramatisch und mystisch. Suchen Sie Schutz im Stevnsfort Museum, einem perfekten Ort für eine lange, trockene Pause. Die Rückfahrt führt Sie über Rødvig Harbour, wo der Geruch von Meer und Regen in der Luft liegt.",
+            "hu": "Dacoljon az esővel a Szent Katalin-templom felé, mielőtt a part felé venné az irányt. A Højerupba vezető út nedvesen kihívás, de a Stevns Klint sziklái drámai és misztikus látványt nyújtanak esőben. Keressen menedéket a Stevnsfort Múzeumban, amely tökéletes hely egy hosszú, száraz pihenőhöz. A visszaút Rødvig kikötőjén keresztül vezet, ahol a tenger és az eső illata keveredik a levegőben.",
+            "ro": "Înfruntați ploaia spre Biserica Sfânta Ecaterina înainte de a porni spre coastă. Drumul spre Højerup este o provocare pe carosabil umed, dar faleza Stevns Klint arată dramatic și mistic în ploaie. Căutați adăpost în Muzeul Stevnsfort, locul perfect pentru o pauză lungă și uscată. Drumul de întoarcere trece prin portul Rødvig, unde mirosul de mare și ploaie plutește în aer.",
+            "en": "Brave the rain on your way to Saint Katharina Church before heading to the coast. The ride to Højerup is challenging when wet, but the Stevns Klint cliffs look dramatic and mystical in the rain. Seek shelter at the Stevnsfort Museum, a perfect place for a long, dry break. The return trip takes you through Rødvig Harbour, where the scent of sea and rain fills the air."
+          },
+          "stops": [
+            {
+              "name": "Saint Katharina Church",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad unter den Bäumen ab, um den Sattel trocken zu halten.",
+                "hu": "Parkoljon a fák alatt, hogy a nyereg száraz maradjon.",
+                "ro": "Parcați bicicleta sub copaci pentru a menține șaua uscată.",
+                "en": "Park your bike under the trees to keep the saddle dry."
+              }
+            },
+            {
+              "name": "Ride towards Højerup",
+              "tip_5lang": {
+                "de": "Vorsicht vor Aquaplaning auf den Landstraßen.",
+                "hu": "Vigyázat, a vízen felúszás veszélyes lehet az országúton.",
+                "ro": "Atenție la acvaplanare pe drumurile de țară.",
+                "en": "Watch out for aquaplaning on the country roads."
+              }
+            },
+            {
+              "name": "Højerup Old Church & Stevns Klint",
+              "tip_5lang": {
+                "de": "Die Klippenpfade können sehr schlammig und rutschig sein.",
+                "hu": "A sziklaparti ösvények nagyon sárosak és csúszósak lehetnek.",
+                "ro": "Cărările de pe faleză pot fi foarte noroioase și alunecoase.",
+                "en": "The cliff paths can be very muddy and slippery."
+              }
+            },
+            {
+              "name": "Cold War Museum Stevnsfort",
+              "tip_5lang": {
+                "de": "Ein großartiger Ort, um der Witterung für zwei Stunden zu entkommen.",
+                "hu": "Nagyszerű hely, hogy két órára elmeneküljön az időjárás elől.",
+                "ro": "Un loc excelent pentru a scăpa de intemperii timp de două ore.",
+                "en": "A great place to escape the elements for two hours."
+              }
+            },
+            {
+              "name": "Ride to Rødvig Harbour",
+              "tip_5lang": {
+                "de": "Die Hafenanlagen sind bei Regen oft sehr leer und ruhig.",
+                "hu": "A kikötő környéke esőben gyakran nagyon üres és csendes.",
+                "ro": "Zona portului este adesea goală și liniștită când plouă.",
+                "en": "The harbour area is often very empty and quiet when it rains."
+              }
+            },
+            {
+              "name": "Ride back to Store Heddinge",
+              "tip_5lang": {
+                "de": "Beleuchtung einschalten, um die Sichtbarkeit im Regen zu erhöhen.",
+                "hu": "Kapcsolja be a lámpákat a jobb láthatóság érdekében az esőben.",
+                "ro": "Aprindeți luminile pentru a crește vizibilitatea în ploaie.",
+                "en": "Turn on your lights to increase visibility in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vollständige Regenbekleidung (Hose und Jacke) ist unerlässlich.",
+              "Vorsicht in Kurven, der Straßenbelag kann rutschig sein.",
+              "Ein Sattelschutz hält Ihren Sitz während der Stopps trocken.",
+              "Die Stevns Klint Küste ist bei Regen besonders windanfällig."
+            ],
+            "hu": [
+              "A teljes esőruházat (nadrág és kabát) elengedhetetlen.",
+              "Vigyázzon a kanyarokban, az útfelület csúszós lehet.",
+              "Egy nyereghuzat szárazon tartja az ülést a megállók alatt.",
+              "A Stevns Klint partvidéke esőben különösen szeles lehet."
+            ],
+            "ro": [
+              "Echipamentul complet de ploaie (pantaloni și jachetă) este esențial.",
+              "Atenție în curbe, suprafața drumului poate fi alunecoasă.",
+              "O protecție pentru șa vă menține scaunul uscat în timpul opririlor.",
+              "Coasta Stevns Klint este deosebit de expusă vântului când plouă."
+            ],
+            "en": [
+              "Full rain gear (trousers and jacket) is essential.",
+              "Be careful in corners, the road surface can be slippery.",
+              "A saddle cover will keep your seat dry during stops.",
+              "The Stevns Klint coast is particularly windy during rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Radtour erfordert Mut und warme Schichten, beginnend an der St. Katharina Kirche. Die Fahrt nach Højerup bietet weite Blicke über gefrorene Felder unter grauem Himmel. An den Stevns Klint Klippen peitscht der kalte Ostseewind, was den Besuch im Stevnsfort Museum umso lohnender macht. In Rødvig Harbour können Sie den Eisschollen im Wasser zusehen, bevor Sie sich auf den Rückweg machen.",
+            "hu": "A téli kerékpározás bátorságot és réteges öltözködést igényel, a Szent Katalin-templomtól indulva. A Højerup felé vezető út tágas kilátást nyújt a fagyott mezőkre a szürke ég alatt. A Stevns Klint szikláinál metsző keleti szél fúj, ami még értékesebbé teszi a Stevnsfort Múzeum melegét. Rødvig kikötőjében nézheti a vízben úszó jégtáblákat, mielőtt visszaindulna.",
+            "ro": "O tură cu bicicleta iarna necesită curaj și straturi calde, pornind de la Biserica Sfânta Ecaterina. Drumul spre Højerup oferă vederi largi peste câmpurile înghețate sub un cer gri. La faleza Stevns Klint, vântul rece al Balticii bate cu putere, făcând vizita la Muzeul Stevnsfort cu atât mai utilă. În portul Rødvig puteți vedea sloiurile de gheață înainte de întoarcere.",
+            "en": "A winter bike ride requires courage and warm layers, starting from Saint Katharina Church. The ride to Højerup offers wide views over frozen fields under grey skies. At the Stevns Klint cliffs, the cold Baltic wind whips hard, making the visit to Stevnsfort Museum all the more rewarding. At Rødvig Harbour, you can watch the ice floes before making your way back."
+          },
+          "stops": [
+            {
+              "name": "Saint Katharina Church",
+              "tip_5lang": {
+                "de": "Bewegen Sie Ihre Zehen, um die Durchblutung in der Kälte zu fördern.",
+                "hu": "Mozgassa a lábujjait, hogy serkentse a vérkeringést a hidegben.",
+                "ro": "Mișcați-vă degetele de la picioare pentru a stimula circulația în frig.",
+                "en": "Wiggle your toes to keep the circulation going in the cold."
+              }
+            },
+            {
+              "name": "Ride towards Højerup",
+              "tip_5lang": {
+                "de": "Vorsicht vor überfrierender Nässe in schattigen Bereichen.",
+                "hu": "Vigyázzon a lefagyott nedvességre az árnyékos szakaszokon.",
+                "ro": "Atenție la porțiunile înghețate în zonele umbrite.",
+                "en": "Watch out for black ice in shaded areas."
+              }
+            },
+            {
+              "name": "Højerup Old Church & Stevns Klint",
+              "tip_5lang": {
+                "de": "Der Windchill-Effekt ist an der Klippe extrem hoch.",
+                "hu": "A szél hűtő hatása a sziklaparton rendkívül erős.",
+                "ro": "Efectul de răcire al vântului este extrem de puternic pe faleză.",
+                "en": "The wind chill factor is extremely high at the cliff edge."
+              }
+            },
+            {
+              "name": "Cold War Museum Stevnsfort",
+              "tip_5lang": {
+                "de": "Die unterirdischen Gänge haben das ganze Jahr über konstante 10 Grad.",
+                "hu": "A föld alatti folyosókon egész évben állandó 10 fok van.",
+                "ro": "Tunelurile subterane au o temperatură constantă de 10 grade tot anul.",
+                "en": "The underground tunnels have a constant 10 degrees year-round."
+              }
+            },
+            {
+              "name": "Ride to Rødvig Harbour",
+              "tip_5lang": {
+                "de": "Suchen Sie ein beheiztes Café für eine warme Pause.",
+                "hu": "Keressen egy fűtött kávézót egy melegítő szünethez.",
+                "ro": "Căutați o cafenea încălzită pentru o pauză caldă.",
+                "en": "Look for a heated cafe for a warming break."
+              }
+            },
+            {
+              "name": "Ride back to Store Heddinge",
+              "tip_5lang": {
+                "de": "Treten Sie kräftig in die Pedale, um die Körperwärme zu halten.",
+                "hu": "Tekerjen ütemesen, hogy fenntartsa a testhőmérsékletét.",
+                "ro": "Pedalați susținut pentru a menține căldura corporală.",
+                "en": "Pedal vigorously to maintain your body heat."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterfeste Handschuhe und Überschuhe sind für diese Tour ein Muss.",
+              "Prüfen Sie den Reifendruck, etwas weniger bietet mehr Grip auf Eis.",
+              "Nehmen Sie eine Thermoskanne mit einem heißen Getränk mit.",
+              "Verkürzen Sie die Stopps im Freien, um nicht auszukühlen."
+            ],
+            "hu": [
+              "A télálló kesztyű és kamásli kötelező ehhez a túrához.",
+              "Ellenőrizze a guminyomást, a kicsit laposabb gumi jobban tapad jégen.",
+              "Vigyen magával termoszt forró itallal.",
+              "Rövidítse le a kinti megállókat, hogy ne hűljön ki túlságosan."
+            ],
+            "ro": [
+              "Mănușile de iarnă și protecțiile pentru pantofi sunt obligatorii.",
+              "Verificați presiunea în anvelope, o presiune mai mică oferă aderență pe gheață.",
+              "Luați un termos cu o băutură caldă la dvs.",
+              "Scurtați opririle în aer liber pentru a nu vă răci corpul."
+            ],
+            "en": [
+              "Winter gloves and shoe covers are a must for this tour.",
+              "Check tyre pressure; slightly lower pressure offers better grip on ice.",
+              "Bring a thermos with a hot drink to stay warm.",
+              "Keep outdoor stops short to avoid getting too cold."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -882,6 +1228,206 @@
           "Keep some cash on hand for small purchases at farm shops.",
           "The country roads are narrow, so drive with care."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Genießen Sie den Komfort Ihres Autos während der Fahrt durch das verregnete Seeland. Nach dem Besuch der St. Katharina Kirche fahren Sie zum Stevns Museum, um trocken in die Geschichte einzutauchen. Die Fahrt zu den Stevns Klint Klippen bietet spektakuläre Ausblicke direkt vom Parkplatz aus. In Rødvig Harbour können Sie das maritime Treiben beobachten, während die Tropfen gegen die Autoscheiben trommeln.",
+            "hu": "Élvezze autója kényelmét, miközben az esős Sjælland vidékén autózik. A Szent Katalin-templom után látogasson el a Stevns Múzeumba, hogy szárazon merüljön el a múltban. A Stevns Klint szikláihoz vezető út látványos kilátást kínál közvetlenül a parkolóból is. Rødvig kikötőjében figyelheti a tengeri nyüzsgést, miközben az esőcseppek az autó ablakán kopognak.",
+            "ro": "Bucurați-vă de confortul mașinii în timp ce conduceți prin Zealand-ul ploios. După vizitarea Bisericii Sfânta Ecaterina, mergeți la Muzeul Stevns pentru a explora istoria la adăpost. Drumul spre faleza Stevns Klint oferă vederi spectaculoase chiar din parcare. În portul Rødvig puteți observa activitatea maritimă în timp ce picăturile de ploaie bat în geamurile mașinii.",
+            "en": "Enjoy the comfort of your car while driving through rainy Zealand. After visiting Saint Katharina Church, head to Stevns Museum to dive into history while staying dry. The drive to Stevns Klint offers spectacular views right from the parking lot. At Rødvig Harbour, you can watch the maritime activity while raindrops drum against the car windows."
+          },
+          "stops": [
+            {
+              "name": "Cluster Start: Parking in Store Heddinge Town Center",
+              "tip_5lang": {
+                "de": "Suchen Sie einen Parkplatz in der Nähe des Eingangs, um Laufwege im Regen zu minimieren.",
+                "hu": "Keressen parkolót a bejárathoz közel, hogy minimalizálja az esőben való gyaloglást.",
+                "ro": "Căutați un loc de parcare lângă intrare pentru a minimiza mersul prin ploaie.",
+                "en": "Look for a parking spot near the entrance to minimize walking in the rain."
+              }
+            },
+            {
+              "name": "Saint Katharina Church",
+              "tip_5lang": {
+                "de": "Lassen Sie nasse Regenschirme im Kofferraum.",
+                "hu": "Hagyja a vizes esernyőket a csomagtartóban.",
+                "ro": "Lăsați umbrelele ude în portbagaj.",
+                "en": "Leave wet umbrellas in the trunk."
+              }
+            },
+            {
+              "name": "Stevns Museum",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist nur wenige Schritte vom Museum entfernt.",
+                "hu": "A parkoló csak néhány lépésre van a múzeumtól.",
+                "ro": "Parcarea este la doar câțiva pași de muzeu.",
+                "en": "The parking lot is just a few steps from the museum."
+              }
+            },
+            {
+              "name": "Cluster Start: Stevns Klint & Museum",
+              "tip_5lang": {
+                "de": "Bei starkem Regen ist das Museum die sicherste Option.",
+                "hu": "Heves esőzés esetén a múzeum a legbiztonságosabb választás.",
+                "ro": "În caz de ploaie torențială, muzeul este cea mai sigură opțiune.",
+                "en": "In heavy rain, the museum is the safest and driest option."
+              }
+            },
+            {
+              "name": "Højerup Old Church",
+              "tip_5lang": {
+                "de": "Kurzer, aber potenziell rutschiger Weg vom Parkplatz zur Kirche.",
+                "hu": "Rövid, de potenciálisan csúszós út a parkolótól a templomig.",
+                "ro": "Drum scurt, dar potențial alunecos de la parcare la biserică.",
+                "en": "Short but potentially slippery walk from the parking lot to the church."
+              }
+            },
+            {
+              "name": "Boesdal Limestone Quarry",
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Regen im Auto und genießen Sie die Aussicht.",
+                "hu": "Heves esőben maradjon az autóban és onnan nézze a kilátást.",
+                "ro": "Rămâneți în mașină în caz de ploaie puternică și admirați vederea.",
+                "en": "Stay in the car and enjoy the view if the rain is too heavy."
+              }
+            },
+            {
+              "name": "Rødvig Harbour",
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Kai, um die Schiffe zu sehen.",
+                "hu": "Parkoljon közvetlenül a rakparton, hogy lássa a hajókat.",
+                "ro": "Parcați chiar pe chei pentru a vedea navele.",
+                "en": "Park directly on the quay to see the boats."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf den Küstenstraßen.",
+              "Halten Sie ein Handtuch im Auto bereit, um sich abzutrocknen.",
+              "Prüfen Sie den Zustand Ihrer Scheibenwischer vor der Abfahrt.",
+              "Die Parkplätze an den Klippen können bei Regen schlammig sein."
+            ],
+            "hu": [
+              "Vigyázzon a vízen felúszásra a parti utakon.",
+              "Tartson egy törölközőt az autóban a megszárítkozáshoz.",
+              "Indulás előtt ellenőrizze az ablaktörlők állapotát.",
+              "A szikláknál lévő parkolók esőben sárosak lehetnek."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumurile de coastă.",
+              "Țineți un prosop în mașină pentru a vă usca.",
+              "Verificați starea ștergătoarelor înainte de plecare.",
+              "Parcările de la faleză pot fi noroioase când plouă."
+            ],
+            "en": [
+              "Watch out for aquaplaning on the coastal roads.",
+              "Keep a towel in the car to dry off.",
+              "Check the condition of your windshield wipers before departing.",
+              "Parking lots near the cliffs can be muddy in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Fahrt durch Store Heddinge beginnt gemütlich in Ihrem beheizten Fahrzeug. Besuchen Sie die historische St. Katharina Kirche und das Stevns Museum, bevor Sie zu den dramatisch verschneiten Stevns Klint Klippen aufbrechen. Die Kälte draußen macht den Anblick der gefrorenen Ostsee umso beeindruckender. Beenden Sie Ihre Tour in Rødvig Harbour, wo die Wintersonne früh hinter dem Horizont verschwindet.",
+            "hu": "A téli autózás Store Heddinge környékén kényelmesen indul fűtött járművében. Látogasson el a Szent Katalin-templomba és a Stevns Múzeumba, mielőtt a hófödte Stevns Klint sziklák felé indulna. A kinti hideg még lenyűgözőbbé teszi a fagyott Balti-tenger látványát. Zárja a túrát Rødvig kikötőjében, ahol a téli nap korán eltűnik a horizont mögött.",
+            "ro": "O călătorie de iarnă prin Store Heddinge începe confortabil în vehiculul dvs. încălzit. Vizitați Biserica Sfânta Ecaterina și Muzeul Stevns înainte de a porni spre faleza înzăpezită Stevns Klint. Frigul de afară face vederea Balticii înghețate și mai impresionantă. Încheiați turul în portul Rødvig, unde soarele de iarnă dispare devreme sub orizont.",
+            "en": "A winter drive through Store Heddinge starts comfortably in your heated vehicle. Visit the historic Saint Katharina Church and Stevns Museum before heading to the dramatically snowy Stevns Klint cliffs. The cold outside makes the sight of the frozen Baltic Sea all the more impressive. End your tour at Rødvig Harbour, where the winter sun disappears early behind the horizon."
+          },
+          "stops": [
+            {
+              "name": "Cluster Start: Parking in Store Heddinge Town Center",
+              "tip_5lang": {
+                "de": "Vorsicht vor vereisten Parkplätzen am Morgen.",
+                "hu": "Vigyázzon a jeges parkolókra a reggeli órákban.",
+                "ro": "Atenție la parcările înghețate dimineața.",
+                "en": "Watch out for icy parking spots in the morning."
+              }
+            },
+            {
+              "name": "Saint Katharina Church",
+              "tip_5lang": {
+                "de": "Kurzer Weg, aber achten Sie auf rutschige Steine.",
+                "hu": "Rövid út, de ügyeljen a csúszós kövekre.",
+                "ro": "Drum scurt, dar atenție la pietrele alunecoase.",
+                "en": "Short walk, but watch out for slippery stones."
+              }
+            },
+            {
+              "name": "Stevns Museum",
+              "tip_5lang": {
+                "de": "Ideale Aufwärmpause zwischen den Fahrten.",
+                "hu": "Ideális melegedő szünet két autózás között.",
+                "ro": "Pauză ideală de încălzire între drumuri.",
+                "en": "Ideal warming break between drives."
+              }
+            },
+            {
+              "name": "Cluster Start: Stevns Klint & Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Museumscafé für ein heißes Getränk.",
+                "hu": "Használja a múzeum kávézóját egy forró italhoz.",
+                "ro": "Folosiți cafeneaua muzeului pentru o băutură caldă.",
+                "en": "Use the museum cafe for a hot drink."
+              }
+            },
+            {
+              "name": "Højerup Old Church",
+              "tip_5lang": {
+                "de": "Extremer Windchill auf dem Weg zur Kirche.",
+                "hu": "Rendkívül erős szél a templomhoz vezető úton.",
+                "ro": "Vânt foarte tăios în drum spre biserică.",
+                "en": "Extreme wind chill on the path to the church."
+              }
+            },
+            {
+              "name": "Boesdal Limestone Quarry",
+              "tip_5lang": {
+                "de": "Die Zufahrt kann bei Schnee schwierig sein.",
+                "hu": "A behajtás nehézkes lehet nagy hóban.",
+                "ro": "Accesul poate fi dificil în caz de zăpadă.",
+                "en": "Access might be difficult in heavy snow."
+              }
+            },
+            {
+              "name": "Rødvig Harbour",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das Eis im Hafen vom warmen Auto aus.",
+                "hu": "Élvezze a kikötői jég látványát a meleg autóból.",
+                "ro": "Bucurați-vă de vederea gheții din port din mașina caldă.",
+                "en": "Enjoy the view of the ice in the harbour from your warm car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in Dänemark bei diesen Bedingungen Pflicht.",
+              "Führen Sie einen Eiskratzer und Frostschutzmittel mit.",
+              "Die Küstenstraßen können schnell verwehen, fahren Sie vorsichtig.",
+              "Die Sonne geht früh unter, beenden Sie Ihre Tour vor 16 Uhr."
+            ],
+            "hu": [
+              "A téli gumi ilyen körülmények között kötelező Dániában.",
+              "Legyen Önnél jégkaparó és fagyálló folyadék.",
+              "A parti utakat gyorsan befújhatja a hó, vezessen óvatosan.",
+              "A nap korán nyugszik, fejezze be a túrát 16 óra előtt."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii în aceste condiții în Danemarca.",
+              "Aveți la dvs. o racletă și lichid antigel.",
+              "Drumurile de coastă pot fi rapid acoperite de zăpadă spulberată.",
+              "Soarele apune devreme, terminați turul înainte de ora 16:00."
+            ],
+            "en": [
+              "Winter tires are mandatory in Denmark under these conditions.",
+              "Carry an ice scraper and anti-freeze with you.",
+              "Coastal roads can drift over quickly, drive carefully.",
+              "The sun sets early, so finish your tour before 16:00."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1185,6 +1731,188 @@
           "Rural buses may not be frequent, so plan your return journey.",
           "Wave to the bus driver to signal them to stop at your stop."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihre Reise am Bahnhof Store Heddinge, der Schutz vor dem Regen bietet. Nach der St. Katharina Kirche bringt Sie der Bus zu den Stevns Klint Klippen, wo das Wetter die dramatische Atmosphäre unterstreicht. Das Stevnsfort Museum ist ein idealer Rückzugsort bei anhaltendem Regen. Den Tag schließen Sie in Rødvig ab, bevor Sie mit dem Zug zurück nach Store Heddinge fahren.",
+            "hu": "Kezdje utazását a Store Heddinge vasútállomáson, amely védelmet nyújt az eső elől. A Szent Katalin-templom után busszal utazzon a Stevns Klint sziklákhoz, ahol az időjárás csak fokozza a drámai hangulatot. A Stevnsfort Múzeum ideális menedék tartós eső esetén. A napot Rødvigben zárhatja, mielőtt vonattal visszatérne Store Heddingébe.",
+            "ro": "Începeți călătoria la gara Store Heddinge, care oferă protecție împotriva ploii. După Biserica Sfânta Ecaterina, autobuzul vă duce la faleza Stevns Klint, unde vremea subliniază atmosfera dramatică. Muzeul Stevnsfort este un refugiu ideal în caz de ploaie persistentă. Încheiați ziua în Rødvig înainte de a reveni cu trenul în Store Heddinge.",
+            "en": "Start your journey at Store Heddinge station, which offers shelter from the rain. After Saint Katharina Church, take the bus to Stevns Klint, where the weather enhances the dramatic atmosphere. Stevnsfort Museum is an ideal retreat during persistent rain. End your day in Rødvig before taking the train back to Store Heddinge."
+          },
+          "stops": [
+            {
+              "name": "Cluster Start: Store Heddinge Station",
+              "tip_5lang": {
+                "de": "Warten Sie in der Bahnhofshalle auf Ihren Zug.",
+                "hu": "Várjon a vonatára az állomás épületében.",
+                "ro": "Așteptați trenul în interiorul gării.",
+                "en": "Wait for your train inside the station building."
+              }
+            },
+            {
+              "name": "Saint Katharina Church",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Weg durch bebaute Gebiete für mehr Schutz.",
+                "hu": "Használja a beépített területeken vezető utat a több védelemért.",
+                "ro": "Folosiți drumul prin zonele construite pentru mai multă protecție.",
+                "en": "Use paths through built-up areas for more protection."
+              }
+            },
+            {
+              "name": "Trip to Stevns Klint",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Busverbindungen online, um Wartezeiten im Regen zu vermeiden.",
+                "hu": "Ellenőrizze a buszmenetrendet online, hogy elkerülje az esőben való várakozást.",
+                "ro": "Verificați mersul autobuzelor online pentru a evita așteptarea în ploaie.",
+                "en": "Check bus schedules online to avoid waiting in the rain."
+              }
+            },
+            {
+              "name": "Højerup Old Church & Stevns Klint",
+              "tip_5lang": {
+                "de": "Suchen Sie bei Schauern Schutz in der alten Kirche.",
+                "hu": "Zápor esetén keressen menedéket a régi templomban.",
+                "ro": "Căutați adăpost în biserica veche în caz de aversă.",
+                "en": "Seek shelter in the old church during showers."
+              }
+            },
+            {
+              "name": "Trip to Rødvig",
+              "tip_5lang": {
+                "de": "Genießen Sie die trockene Fahrt im Bus.",
+                "hu": "Élvezze a száraz utazást a buszon.",
+                "ro": "Bucurați-vă de călătoria uscată cu autobuzul.",
+                "en": "Enjoy the dry ride on the bus."
+              }
+            },
+            {
+              "name": "Return to Store Heddinge",
+              "tip_5lang": {
+                "de": "Die Züge fahren regelmäßig und pünktlich.",
+                "hu": "A vonatok rendszeresen és pontosan közlekednek.",
+                "ro": "Trenurile circulă regulat și punctual.",
+                "en": "Trains run regularly and punctually."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die 'Rejseplanen' App für Live-Updates bei Wetterverzögerungen.",
+              "Bahnhöfe bieten meist gute Unterstellmöglichkeiten.",
+              "Halten Sie Kleingeld oder eine Reisekarte für den Bus bereit.",
+              "Die Busse in dieser Region sind sauber und meistens beheizt."
+            ],
+            "hu": [
+              "Használja a 'Rejseplanen' alkalmazást az élő frissítésekért.",
+              "A vasútállomások általában jó fedett várakozóhelyet kínálnak.",
+              "Legyen Önnél aprópénz vagy utazási kártya a buszhoz.",
+              "A régió buszai tiszták és általában fűtöttek."
+            ],
+            "ro": [
+              "Folosiți aplicația 'Rejseplanen' pentru actualizări live.",
+              "Gările oferă de obicei locuri bune de adăpost.",
+              "Aveți pregătit mărunțiș sau un card de călătorie pentru autobuz.",
+              "Autobuzele din această regiune sunt curate și de obicei încălzite."
+            ],
+            "en": [
+              "Use the 'Rejseplanen' app for live updates during weather delays.",
+              "Train stations usually offer good sheltered waiting areas.",
+              "Have small change or a travel card ready for the bus.",
+              "Buses in this region are clean and usually heated."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre Wintertour am Bahnhof Store Heddinge, wo die Wärme der Wartehalle willkommen ist. Die St. Katharina Kirche wirkt im Winterlicht besonders andächtig. Mit dem Bus erreichen Sie die gefrorenen Stevns Klint Klippen, ein beeindruckendes Naturschauspiel. Nach einem Besuch im Stevnsfort Museum kehren Sie nach Rødvig zurück und genießen die Heimfahrt im warmen Zug nach Store Heddinge.",
+            "hu": "Kezdje téli túráját a Store Heddinge vasútállomáson, ahol a váróterem melege fogadja. A Szent Katalin-templom különösen áhítatos a téli fényekben. Busszal érheti el a fagyott Stevns Klint sziklákat, amely lenyűgöző természeti látvány. A Stevnsfort Múzeum után térjen vissza Rødvigbe, majd élvezze a hazautat a meleg vonaton Store Heddingébe.",
+            "ro": "Începeți turul de iarnă la gara Store Heddinge, unde căldura sălii de așteptare este binevenită. Biserica Sfânta Ecaterina pare deosebit de solemnă în lumina iernii. Cu autobuzul ajungeți la faleza înghețată Stevns Klint, un spectacol natural impresionant. După o vizită la Muzeul Stevnsfort, reveniți în Rødvig și bucurați-vă de drumul spre casă în trenul cald.",
+            "en": "Start your winter tour at Store Heddinge station, where the warmth of the waiting room is welcome. Saint Katharina Church looks especially solemn in the winter light. By bus, you reach the frozen Stevns Klint cliffs, an impressive natural spectacle. After a visit to Stevnsfort Museum, return to Rødvig and enjoy the ride home in a warm train."
+          },
+          "stops": [
+            {
+              "name": "Cluster Start: Store Heddinge Station",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Wartehalle, um nicht in der Kälte zu stehen.",
+                "hu": "Használja a várótermet, hogy ne a hidegben várakozzon.",
+                "ro": "Folosiți sala de așteptare pentru a nu sta în frig.",
+                "en": "Use the waiting room to avoid standing in the cold."
+              }
+            },
+            {
+              "name": "Saint Katharina Church",
+              "tip_5lang": {
+                "de": "Achten Sie auf gestreute Wege um die Kirche herum.",
+                "hu": "Ügyeljen a felszórt utakra a templom körül.",
+                "ro": "Atenție la căile curățate din jurul bisericii.",
+                "en": "Watch out for gritted paths around the church."
+              }
+            },
+            {
+              "name": "Trip to Stevns Klint",
+              "tip_5lang": {
+                "de": "Im Winter können die Busse aufgrund von Schnee leicht verspätet sein.",
+                "hu": "Télen a buszok a hó miatt némi késéssel közlekedhetnek.",
+                "ro": "Iarna, autobuzele pot avea întârzieri ușoare din cauza zăpezii.",
+                "en": "In winter, buses may have slight delays due to snow."
+              }
+            },
+            {
+              "name": "Højerup Old Church & Stevns Klint",
+              "tip_5lang": {
+                "de": "Bewegen Sie sich viel, um warm zu bleiben.",
+                "hu": "Mozogjon sokat, hogy melegen tartsa magát.",
+                "ro": "Mișcați-vă mult pentru a vă menține căldura corporală.",
+                "en": "Keep moving to stay warm."
+              }
+            },
+            {
+              "name": "Trip to Rødvig",
+              "tip_5lang": {
+                "de": "Die Busfahrt bietet eine gute Gelegenheit zum Aufwärmen.",
+                "hu": "A buszos utazás jó alkalom a felmelegedésre.",
+                "ro": "Călătoria cu autobuzul oferă o ocazie bună de încălzire.",
+                "en": "The bus ride is a good opportunity to warm up."
+              }
+            },
+            {
+              "name": "Return to Store Heddinge",
+              "tip_5lang": {
+                "de": "Der Zug ist meist die zuverlässigste Verbindung bei Schnee.",
+                "hu": "A vonat általában a legmegbízhatóbb közlekedési eszköz hóban.",
+                "ro": "Trenul este de obicei cea mai sigură legătură în caz de zăpadă.",
+                "en": "The train is usually the most reliable connection in snowy weather."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Planen Sie Pufferzeiten für Anschlüsse ein, falls es schneit.",
+              "Tragen Sie warme Winterschuhe für die Wege zu den Haltestellen.",
+              "Die Züge sind gut beheizt, ideal zum Thauen.",
+              "Prüfen Sie die letzte Abfahrt, sie könnte im Winter früher sein."
+            ],
+            "hu": [
+              "Számoljon ráhagyással a csatlakozásoknál, ha havazik.",
+              "Viseljen meleg téli cipőt a megállókhoz vezető úton.",
+              "A vonatok jól fűtöttek, ideálisak a felmelegedéshez.",
+              "Ellenőrizze az utolsó járatot, télen korábban indulhat."
+            ],
+            "ro": [
+              "Planificați timp suplimentar pentru conexiuni în caz de ninsoare.",
+              "Purtați încălțăminte de iarnă călduroasă pentru drumul spre stații.",
+              "Trenurile sunt bine încălzite, ideale pentru a vă dezmorți.",
+              "Verificați ultima plecare, iarna ar putea fi mai devreme."
+            ],
+            "en": [
+              "Allow extra time for connections if it snows.",
+              "Wear warm winter boots for the walks to the stops.",
+              "Trains are well-heated, ideal for thawing out.",
+              "Check the last departure time; it might be earlier in winter."
+            ]
+          }
+        }
       }
     }
   }

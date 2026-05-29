@@ -1,0 +1,1302 @@
+{
+  "city_id": "ES-BCN",
+  "anchor": {
+    "name": "Barcelona",
+    "coords": [
+      2.1734,
+      41.3851
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:45",
+      "total_km": 6.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Gotisches Viertel (Barri Gòtic)",
+            "hu": "Gótikus negyed (Barri Gòtic)",
+            "ro": "Cartierul Gotic (Barri Gòtic)",
+            "en": "Gothic Quarter (Barri Gòtic)"
+          },
+          "coords": [
+            2.1764,
+            41.3831
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Verlieren Sie sich in den engen Gassen, um versteckte Plätze zu finden.",
+            "hu": "Tévedj el a szűk utcákban, hogy rejtett tereket találj.",
+            "ro": "Rătăciți-vă pe aleile înguste pentru a găsi piețe ascunse.",
+            "en": "Get lost in the narrow alleys to find hidden squares."
+          }
+        },
+        {
+          "name": {
+            "de": "La Rambla",
+            "hu": "La Rambla",
+            "ro": "La Rambla",
+            "en": "La Rambla"
+          },
+          "coords": [
+            2.173,
+            41.3798
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Besuchen Sie den Boqueria-Markt für frische Säfte und lokale Snacks.",
+            "hu": "Nézz be a Boqueria piacra egy friss gyümölcsléért és helyi falatokért.",
+            "ro": "Vizitați Piața Boqueria pentru sucuri proaspete și gustări locale.",
+            "en": "Visit the Boqueria Market for fresh juices and local snacks."
+          }
+        },
+        {
+          "name": {
+            "de": "Picasso-Museum",
+            "hu": "Picasso Múzeum",
+            "ro": "Muzeul Picasso",
+            "en": "Museu Picasso"
+          },
+          "coords": [
+            2.181,
+            41.3852
+          ],
+          "category": "museums",
+          "arrive_at": "12:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kaufen Sie Tickets im Voraus online, um lange Warteschlangen zu vermeiden.",
+            "hu": "Vegyél jegyet előre online, hogy elkerüld a hosszú sorokat.",
+            "ro": "Cumpărați biletele online în avans pentru a evita cozile lungi.",
+            "en": "Buy tickets online in advance to avoid the long queues."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Batlló",
+            "hu": "Casa Batlló",
+            "ro": "Casa Batlló",
+            "en": "Casa Batlló"
+          },
+          "coords": [
+            2.165,
+            41.3916
+          ],
+          "category": "museums",
+          "arrive_at": "14:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 1.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die Fassade ist bei Nacht wunderschön beleuchtet.",
+            "hu": "A homlokzat éjjel gyönyörűen ki van világítva.",
+            "ro": "Fațada este frumos luminată noaptea.",
+            "en": "The facade is beautifully illuminated at night."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Milà (La Pedrera)",
+            "hu": "Casa Milà (La Pedrera)",
+            "ro": "Casa Milà (La Pedrera)",
+            "en": "Casa Milà (La Pedrera)"
+          },
+          "coords": [
+            2.1619,
+            41.3954
+          ],
+          "category": "museums",
+          "arrive_at": "15:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die Dachterrasse bietet skurrile Schornsteine und eine tolle Aussicht.",
+            "hu": "A tetőterasz szeszélyes kéményeket és remek kilátást kínál.",
+            "ro": "Terasa de pe acoperiș are coșuri de fum bizare și vederi minunate.",
+            "en": "The roof terrace features whimsical chimneys and great views."
+          }
+        },
+        {
+          "name": {
+            "de": "Sagrada Família",
+            "hu": "Sagrada Família",
+            "ro": "Sagrada Família",
+            "en": "Sagrada Família"
+          },
+          "coords": [
+            2.1744,
+            41.4036
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "17:35",
+          "stay_min": 70,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Licht durch die Buntglasfenster am späten Nachmittag ist magisch.",
+            "hu": "A késő délutáni fény a festett üvegablakokon keresztül varázslatos.",
+            "ro": "Lumina prin vitralii după-amiaza târziu este magică.",
+            "en": "The light through the stained-glass windows in the late afternoon is magical."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit einem Spaziergang durch die labyrinthischen Gassen des Gotischen Viertels. Am Mittag pulsiert die Energie der La Rambla, die Sie zum Picasso-Museum führt, wo Sie in die Jugendwerke des Künstlers eintauchen. Der Nachmittag ist Gaudí gewidmet, mit Besuchen der fantasievollen Casa Batlló und Casa Milà. Beenden Sie Ihren Tag an der beeindruckenden Sagrada Família und bestaunen Sie, wie das Nachmittagslicht das Innere in ein Kaleidoskop aus Farben verwandelt.",
+        "hu": "Kezdje a reggelt a Gótikus negyed labirintusszerű utcáin sétálva. Délben érezze a La Rambla lüktető energiáját, amely elvezeti a Picasso Múzeumhoz, ahol elmerülhet a művész korai munkáiban. A délután Gaudíé, a fantáziadús Casa Batlló és Casa Milà meglátogatásával. A napot a lenyűgöző Sagrada Famíliánál zárja, csodálva, ahogy a délutáni fény a belső teret a színek kaleidoszkópjává változtatja.",
+        "ro": "Începeți dimineața cu o plimbare pe aleile labirintice ale Cartierului Gotic. La prânz, simțiți energia vibrantă de pe La Rambla, care vă duce la Muzeul Picasso pentru o imersiune în operele de tinerețe ale artistului. După-amiaza este dedicată lui Gaudí, cu vizite la imaginativele Casa Batlló și Casa Milà. Încheiați ziua la impresionanta Sagrada Família, minunându-vă de cum lumina de după-amiază transformă interiorul într-un caleidoscop de culori.",
+        "en": "Start your morning wandering through the labyrinthine alleys of the Gothic Quarter. By midday, feel the vibrant energy of La Rambla, leading you to the Picasso Museum for an immersion in the artist's early works. The afternoon is dedicated to Gaudí, with visits to the imaginative Casa Batlló and Casa Milà. End your day at the awe-inspiring Sagrada Família, marveling as the afternoon light transforms the interior into a kaleidoscope of color."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tapas",
+            "tip": "Probieren Sie Patatas Bravas, Pimientos de Padrón und Pan con Tomate."
+          },
+          {
+            "name": "Paella",
+            "tip": "Eine Paella mit Meeresfrüchten in der Nähe des Strandes ist ein Muss."
+          },
+          {
+            "name": "Crema Catalana",
+            "tip": "Das lokale Dessert, ähnlich der Crème brûlée, aber mit Zitrus- und Zimtnote."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tapas",
+            "tip": "Kóstold meg a patatas bravast, pimientos de padrónt és a pan con tomatét."
+          },
+          {
+            "name": "Paella",
+            "tip": "Egy tenger gyümölcsei paella a strand közelében kötelező."
+          },
+          {
+            "name": "Crema Catalana",
+            "tip": "A helyi desszert, hasonló a crème brûlée-hez, de citrusos és fahéjas ízzel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tapas",
+            "tip": "Încercați patatas bravas, pimientos de padrón și pan con tomate."
+          },
+          {
+            "name": "Paella",
+            "tip": "O paella cu fructe de mare lângă plajă este obligatorie."
+          },
+          {
+            "name": "Crema Catalana",
+            "tip": "Desertul local, similar cu crème brûlée, dar cu o notă de citrice și scorțișoară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tapas",
+            "tip": "Try patatas bravas, pimientos de padrón, and pan con tomate."
+          },
+          {
+            "name": "Paella",
+            "tip": "A seafood paella near the beach is a must-try experience."
+          },
+          {
+            "name": "Crema Catalana",
+            "tip": "The local dessert, similar to crème brûlée but with a citrus and cinnamon twist."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parc de la Ciutadella",
+            "tip": "Mieten Sie ein Ruderboot auf dem See oder finden Sie einen ruhigen Platz im Gras.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Montjuïc Gärten",
+            "tip": "Erkunden Sie die verschiedenen Gärten auf dem Montjuïc-Hügel für einen friedlichen Rückzugsort.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Strand von Barceloneta am frühen Morgen",
+            "tip": "Erleben Sie den Sonnenaufgang und die ruhige Atmosphäre, bevor die Menschenmassen eintreffen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parc de la Ciutadella",
+            "tip": "Bérelj csónakot a tavon, vagy keress egy csendes helyet a fűben.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Montjuïc kertjei",
+            "tip": "Fedezd fel a Montjuïc hegy különböző kertjeit egy békés elvonulásért.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Barceloneta strand kora reggel",
+            "tip": "Élvezd a napfelkeltét és a csendes hangulatot, mielőtt a tömeg megérkezik.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parc de la Ciutadella",
+            "tip": "Închiriați o barcă cu vâsle pe lac sau găsiți un loc liniștit pe iarbă.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădinile Montjuïc",
+            "tip": "Explorați diversele grădini de pe dealul Montjuïc pentru o retragere pașnică.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Plaja Barceloneta dimineața devreme",
+            "tip": "Prindeți răsăritul și atmosfera liniștită înainte de sosirea mulțimilor.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parc de la Ciutadella",
+            "tip": "Rent a rowboat on the lake or find a quiet patch of grass.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Montjuïc Gardens",
+            "tip": "Explore the various gardens on Montjuïc hill for a peaceful retreat.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Barceloneta Beach in the early morning",
+            "tip": "Catch the sunrise and the calm atmosphere before the crowds arrive.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Boqueria-Markt",
+            "tip": "Ein Fest für die Sinne mit frischen Produkten, Säften und Tapas-Bars."
+          },
+          {
+            "name": "Passeig de Gràcia",
+            "tip": "Barcelonas Antwort auf die Champs-Élysées, gesäumt von Luxusmarken."
+          },
+          {
+            "name": "El Born",
+            "tip": "Entdecken Sie unabhängige Boutiquen und Kunsthandwerksläden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boqueria piac",
+            "tip": "Az érzékek ünnepe friss termékekkel, gyümölcslevekkel és tapas bárokkal."
+          },
+          {
+            "name": "Passeig de Gràcia",
+            "tip": "Barcelona válasza a Champs-Élysées-re, luxusmárkákkal szegélyezve."
+          },
+          {
+            "name": "El Born",
+            "tip": "Fedezd fel a független butikokat és a kézműves boltokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Boqueria",
+            "tip": "Un festin pentru simțuri, cu produse proaspete, sucuri și baruri de tapas."
+          },
+          {
+            "name": "Passeig de Gràcia",
+            "tip": "Răspunsul Barcelonei la Champs-Élysées, plin de mărci de lux."
+          },
+          {
+            "name": "El Born",
+            "tip": "Explorați buticuri independente și magazine de artizanat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Boqueria Market",
+            "tip": "A feast for the senses, with fresh produce, juices, and tapas bars."
+          },
+          {
+            "name": "Passeig de Gràcia",
+            "tip": "Barcelona's answer to the Champs-Élysées, lined with luxury brands."
+          },
+          {
+            "name": "El Born",
+            "tip": "Explore independent boutiques and artisan craft shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Achten Sie auf Taschendiebe in überfüllten Gegenden wie La Rambla.",
+          "Viele Museen haben an bestimmten Tagen oder zu bestimmten Zeiten freien Eintritt.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit; es gibt viele öffentliche Brunnen."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt, sokat fogsz gyalogolni.",
+          "Vigyázz a zsebtolvajokra a forgalmas helyeken, mint a La Rambla.",
+          "Sok múzeum ingyenes bizonyos napokon vagy időpontokban.",
+          "Vigyél magaddal újratölthető vizes palackot; sok nyilvános ivókút van."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, veți merge mult pe jos.",
+          "Fiți atenți la hoții de buzunare în zonele aglomerate precum La Rambla.",
+          "Multe muzee au intrare gratuită în anumite zile sau la anumite ore.",
+          "Luați o sticlă de apă reutilizabilă; există multe fântâni publice."
+        ],
+        "en": [
+          "Wear comfortable shoes, you will be doing a lot of walking.",
+          "Be aware of pickpockets in crowded areas like La Rambla.",
+          "Many museums have free entry on certain days or at specific times.",
+          "Carry a reusable water bottle; there are many public fountains."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 15.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Gotisches Viertel (Barri Gòtic)",
+            "hu": "Gótikus negyed (Barri Gòtic)",
+            "ro": "Cartierul Gotic (Barri Gòtic)",
+            "en": "Gothic Quarter (Barri Gòtic)"
+          },
+          "coords": [
+            2.1764,
+            41.3831
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad gut ab und erkunden Sie die engsten Gassen zu Fuß.",
+            "hu": "Zárd le jól a biciklidet, és gyalog fedezd fel a legszűkebb utcákat.",
+            "ro": "Legați-vă bine bicicleta și explorați cele mai înguste alei pe jos.",
+            "en": "Lock your bike securely and explore the narrowest alleys on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "La Barceloneta",
+            "hu": "La Barceloneta",
+            "ro": "La Barceloneta",
+            "en": "La Barceloneta"
+          },
+          "coords": [
+            2.1895,
+            41.3795
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahren Sie die Promenade entlang und genießen Sie die Meeresbrise.",
+            "hu": "Tekerj végig a sétányon, és élvezd a tengeri szellőt.",
+            "ro": "Pedalați de-a lungul promenadei pentru o briză de mare.",
+            "en": "Cycle along the promenade for a sea breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc de la Ciutadella",
+            "hu": "Parc de la Ciutadella",
+            "ro": "Parc de la Ciutadella",
+            "en": "Parc de la Ciutadella"
+          },
+          "coords": [
+            2.1872,
+            41.3882
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein perfekter Ort für ein Picknick nach einem Vormittag am Strand.",
+            "hu": "Tökéletes hely egy piknikre a strandon töltött délelőtt után.",
+            "ro": "Un loc perfect pentru un picnic după o dimineață la plajă.",
+            "en": "A perfect spot for a picnic after a morning at the beach."
+          }
+        },
+        {
+          "name": {
+            "de": "Sagrada Família",
+            "hu": "Sagrada Família",
+            "ro": "Sagrada Família",
+            "en": "Sagrada Família"
+          },
+          "coords": [
+            2.1744,
+            41.4036
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Nutzen Sie die Fahrradständer in der Nähe und buchen Sie Ihre Eintrittszeit im Voraus.",
+            "hu": "Használd a közeli kerékpártárolókat, és foglald le előre a belépési időpontot.",
+            "ro": "Folosiți suporturile de biciclete din apropiere și rezervați-vă ora de intrare în avans.",
+            "en": "Use the bike racks nearby and book your entry time in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Park Güell",
+            "hu": "Park Güell",
+            "ro": "Parcul Güell",
+            "en": "Park Güell"
+          },
+          "coords": [
+            2.1527,
+            41.4145
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 6.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Seien Sie auf einen steilen Anstieg vorbereitet, die Aussicht ist es wert.",
+            "hu": "Készülj fel egy meredek emelkedőre; a kilátás megéri.",
+            "ro": "Fiți pregătiți pentru o urcare abruptă; priveliștea merită efortul.",
+            "en": "Be prepared for a steep climb to get here; the views are worth it."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt im Herzen der Altstadt, dem Gotischen Viertel, bevor Sie zum Strand von Barceloneta radeln, um Sonne und Meer zu genießen. Machen Sie am Mittag eine entspannte Pause im grünen Parc de la Ciutadella. Am Nachmittag radeln Sie landeinwärts, um Gaudís Meisterwerk, die Sagrada Família, zu bestaunen. Die Tour endet mit einem anspruchsvollen, aber lohnenden Anstieg zum Park Güell, wo Sie bei Sonnenuntergang einen Panoramablick über die Stadt genießen.",
+        "hu": "A nap a régi város szívében, a Gótikus negyedben kezdődik, mielőtt a Barceloneta strandjára tekernél napozni és a tengerben gyönyörködni. Délben tarts egy pihentető szünetet a zöld Parc de la Ciutadellában. Délután tekerj be a városba, hogy megcsodáld Gaudí mesterművét, a Sagrada Famíliát. A túra egy kihívást jelentő, de megérő emelkedővel zárul a Park Güellbe, ahol naplementekor panorámás kilátás nyílik a városra.",
+        "ro": "Ziua începe în inima orașului vechi, Cartierul Gotic, înainte de a pedala spre plaja Barceloneta pentru soare și mare. La prânz, luați o pauză relaxantă în verdele Parc de la Ciutadella. După-amiaza, pedalați spre interior pentru a admira capodopera lui Gaudí, Sagrada Família. Turul se încheie cu o urcare provocatoare, dar plină de satisfacții, spre Parcul Güell, pentru vederi panoramice ale orașului la apus.",
+        "en": "Your day starts in the heart of the old city, the Gothic Quarter, before cycling to Barceloneta beach for some sun and sea. At midday, take a relaxing break in the green expanse of Parc de la Ciutadella. In the afternoon, cycle inland to marvel at Gaudí's masterpiece, the Sagrada Família. The tour concludes with a challenging but rewarding climb to Park Güell for panoramic city views at sunset."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bocadillos",
+            "tip": "Perfektes Fahrrad-Essen; holen Sie sich eines mit Jamón Ibérico."
+          },
+          {
+            "name": "Xiringuitos",
+            "tip": "Strandbars in Barceloneta, die frische Meeresfrüchte und kalte Getränke servieren."
+          },
+          {
+            "name": "Orxata",
+            "tip": "Ein erfrischendes, süßes Getränk aus Erdmandeln, ideal nach einer Radtour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bocadillók",
+            "tip": "Tökéletes kerékpáros étel; vegyél egyet Jamón Ibéricóval."
+          },
+          {
+            "name": "Xiringuitók",
+            "tip": "Strandbárok a Barcelonetán, ahol friss tengeri ételeket és hideg italokat szolgálnak fel."
+          },
+          {
+            "name": "Orxata",
+            "tip": "Frissítő, édes ital tigrismogyoróból, ideális egy kerékpártúra után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bocadillos",
+            "tip": "Mâncare perfectă pentru bicicliști; luați unul cu jamón ibérico."
+          },
+          {
+            "name": "Xiringuitos",
+            "tip": "Baruri pe plajă în Barceloneta care servesc fructe de mare proaspete și băuturi reci."
+          },
+          {
+            "name": "Orxata",
+            "tip": "O băutură răcoritoare, dulce, făcută din alune tigru, perfectă după o plimbare cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bocadillos",
+            "tip": "Perfect cycling food; grab one with Jamón Ibérico."
+          },
+          {
+            "name": "Xiringuitos",
+            "tip": "Beach bars in Barceloneta serving fresh seafood and cold drinks."
+          },
+          {
+            "name": "Orxata",
+            "tip": "A refreshing, sweet drink made from tiger nuts, perfect after a ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Carretera de les Aigües",
+            "tip": "Ein beliebter Radweg in den Hügeln mit fantastischer Aussicht.",
+            "emoji": "🚵‍♀️"
+          },
+          {
+            "name": "Parc del Laberint d'Horta",
+            "tip": "Barcelonas ältester Garten mit einem Heckenlabyrinth.",
+            "emoji": " labyrinth "
+          },
+          {
+            "name": "Strand von Bogatell",
+            "tip": "Eine ruhigere Alternative zu Barceloneta, perfekt zum Entspannen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Carretera de les Aigües",
+            "tip": "Népszerű kerékpárút a hegyekben, fantasztikus kilátással.",
+            "emoji": "🚵‍♀️"
+          },
+          {
+            "name": "Parc del Laberint d'Horta",
+            "tip": "Barcelona legrégebbi kertje sövénylabirintussal.",
+            "emoji": " labyrinth "
+          },
+          {
+            "name": "Bogatell strand",
+            "tip": "Csendesebb alternatívája a Barcelonetának, tökéletes a pihenéshez.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Carretera de les Aigües",
+            "tip": "O pistă de biciclete populară pe dealuri, cu vederi fantastice.",
+            "emoji": "🚵‍♀️"
+          },
+          {
+            "name": "Parc del Laberint d'Horta",
+            "tip": "Cea mai veche grădină din Barcelona, cu un labirint de gard viu.",
+            "emoji": " labyrinth "
+          },
+          {
+            "name": "Plaja Bogatell",
+            "tip": "O alternativă mai liniștită la Barceloneta, perfectă pentru relaxare.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Carretera de les Aigües",
+            "tip": "A popular cycling path in the hills with fantastic views.",
+            "emoji": "🚵‍♀️"
+          },
+          {
+            "name": "Parc del Laberint d'Horta",
+            "tip": "Barcelona's oldest garden, featuring a hedge maze.",
+            "emoji": " labyrinth "
+          },
+          {
+            "name": "Bogatell Beach",
+            "tip": "A quieter alternative to Barceloneta, perfect for relaxing.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie das öffentliche Fahrradverleihsystem 'Bicing' nur, wenn Sie Anwohner sind; Touristen müssen bei privaten Unternehmen mieten.",
+          "Achten Sie auf Fußgänger, besonders auf gemeinsamen Wegen.",
+          "Die Hügel können eine Herausforderung sein; ein E-Bike könnte eine gute Option sein.",
+          "Schließen Sie Ihr Fahrrad immer gut ab, auch wenn Sie es nur kurz abstellen."
+        ],
+        "hu": [
+          "A 'Bicing' közbringarendszert csak helyiek használhatják; a turistáknak magáncégektől kell bérelniük.",
+          "Figyelj a gyalogosokra, különösen a közös utakon.",
+          "A hegyek kihívást jelenthetnek; egy e-bike jó opció lehet.",
+          "Mindig zárd le jól a biciklidet, még akkor is, ha csak rövid időre hagyod ott."
+        ],
+        "ro": [
+          "Folosiți sistemul public de închiriere de biciclete 'Bicing' doar dacă sunteți rezident; turiștii trebuie să închirieze de la companii private.",
+          "Fiți atenți la pietoni, mai ales pe căile comune.",
+          "Dealurile pot fi provocatoare; o bicicletă electrică ar putea fi o opțiune bună.",
+          "Legați-vă întotdeauna bine bicicleta, chiar și atunci când o lăsați pentru o clipă."
+        ],
+        "en": [
+          "The public bike-sharing 'Bicing' is for residents only; tourists must rent from private companies.",
+          "Be mindful of pedestrians, especially on shared paths.",
+          "The hills can be challenging; an e-bike might be a good option.",
+          "Always lock your bike securely, even if leaving it for a moment."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:40",
+      "total_km": 32.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Park Güell",
+            "hu": "Park Güell",
+            "ro": "Parcul Güell",
+            "en": "Park Güell"
+          },
+          "coords": [
+            2.1527,
+            41.4145
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Kommen Sie früh an, um einen Parkplatz zu finden und den Menschenmassen zu entgehen.",
+            "hu": "Érkezz korán, hogy parkolóhelyet találj és elkerüld a tömeget.",
+            "ro": "Ajungeți devreme pentru a găsi un loc de parcare și pentru a evita aglomerația.",
+            "en": "Arrive early to find parking and beat the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Bunkers del Carmel (Aussichtspunkt)",
+            "hu": "Bunkers del Carmel (kilátó)",
+            "ro": "Buncărele del Carmel (punct de belvedere)",
+            "en": "Bunkers del Carmel (Viewpoint)"
+          },
+          "coords": [
+            2.1625,
+            41.4214
+          ],
+          "category": "natural features",
+          "arrive_at": "11:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kein offizielles Denkmal, sondern ein lokaler Favorit für 360°-Ansichten.",
+            "hu": "Nem hivatalos látnivaló, hanem a helyiek kedvence a 360°-os kilátásért.",
+            "ro": "Nu este un monument oficial, ci un favorit local pentru vederi de 360°.",
+            "en": "Not an official monument, but a local favorite for 360° views."
+          }
+        },
+        {
+          "name": {
+            "de": "Camp Nou",
+            "hu": "Camp Nou",
+            "ro": "Camp Nou",
+            "en": "Camp Nou"
+          },
+          "coords": [
+            2.1228,
+            41.3809
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 12.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Auch wenn Sie kein Fußballfan sind, ist die Stadiontour beeindruckend.",
+            "hu": "Még ha nem is vagy focirajongó, a stadiontúra lenyűgöző.",
+            "ro": "Chiar dacă nu sunteți un fan al fotbalului, turul stadionului este impresionant.",
+            "en": "Even if you're not a football fan, the stadium tour is impressive."
+          }
+        },
+        {
+          "name": {
+            "de": "Montjuïc Hügel",
+            "hu": "Montjuïc hegy",
+            "ro": "Dealul Montjuïc",
+            "en": "Montjuïc Hill"
+          },
+          "coords": [
+            2.1654,
+            41.3654
+          ],
+          "category": "natural features",
+          "arrive_at": "14:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Schloss Montjuïc für eine tolle Aussicht auf den Hafen.",
+            "hu": "Vezess fel a Montjuïc kastélyhoz a kikötőre nyíló remek kilátásért.",
+            "ro": "Conduceți până la Castelul Montjuïc pentru vederi minunate ale portului.",
+            "en": "Drive to the top to Montjuïc Castle for great views of the port."
+          }
+        },
+        {
+          "name": {
+            "de": "Poble Espanyol",
+            "hu": "Poble Espanyol",
+            "ro": "Poble Espanyol",
+            "en": "Poble Espanyol"
+          },
+          "coords": [
+            2.1488,
+            41.3686
+          ],
+          "category": "museums",
+          "arrive_at": "15:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Freilichtmuseum, das verschiedene spanische Architekturstile zeigt.",
+            "hu": "Szabadtéri múzeum, amely a spanyol építészet különböző stílusait mutatja be.",
+            "ro": "Un muzeu în aer liber care prezintă diferite stiluri arhitecturale spaniole.",
+            "en": "An open-air museum showcasing different Spanish architectural styles."
+          }
+        },
+        {
+          "name": {
+            "de": "Magischer Brunnen von Montjuïc",
+            "hu": "A Montjuïc varázslatos szökőkútja",
+            "ro": "Fântâna Magică din Montjuïc",
+            "en": "Magic Fountain of Montjuïc"
+          },
+          "coords": [
+            2.1517,
+            41.3712
+          ],
+          "category": "landmark",
+          "arrive_at": "17:15",
+          "stay_min": 85,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 10.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Überprüfen Sie den Zeitplan für die Abendlicht- und Musikshow.",
+            "hu": "Ellenőrizd az esti fény- és zeneshow menetrendjét.",
+            "ro": "Verificați programul pentru spectacolul de lumini și muzică de seară.",
+            "en": "Check the schedule for the evening light and music show."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag hoch oben im Park Güell und genießen Sie Gaudís Launenhaftigkeit, bevor Sie zu den Bunkers del Carmel für einen Panoramablick weitergehen. Am Mittag fahren Sie quer durch die Stadt zum legendären Camp Nou für eine Dosis Fußballgeschichte. Am Nachmittag erklimmen Sie einen anderen Hügel, den Montjuïc, um die Aussicht auf die Burg und das architektonische Mosaik des Poble Espanyol zu genießen. Beenden Sie Ihren Tag mit dem Auto am Fuße des Hügels, um die spektakuläre Licht- und Musikshow des Magischen Brunnens zu erleben, ein perfekter Abschluss.",
+        "hu": "Kezdje a napot a magasban, a Park Güellben, élvezve Gaudí szeszélyét, mielőtt a Bunkers del Carmelhez menne egy panorámás kilátásért. Délben szelje át a várost a legendás Camp Nouhoz egy adag futballtörténelemért. Délután másszon meg egy másik hegyet, a Montjuïcot, ahonnan kilátás nyílik a várra és a Poble Espanyol építészeti mozaikjára. A napot a hegy lábánál zárja, hogy szemtanúja legyen a Varázslatos Szökőkút látványos fény- és zeneshow-jának, amely tökéletes befejezés.",
+        "ro": "Începeți ziua la înălțime în Parcul Güell, absorbind fantezia lui Gaudí, înainte de a continua spre Buncărele del Carmel pentru vederi panoramice. La prânz, traversați orașul spre iconic-ul Camp Nou pentru o doză de istorie a fotbalului. După-amiaza, urcați pe un alt deal, Montjuïc, pentru priveliștile castelului și mozaicul arhitectural din Poble Espanyol. Încheiați ziua conducând la poalele dealului pentru a asista la spectacolul spectaculos de lumini și muzică al Fântânii Magice, un final perfect.",
+        "en": "Start your day up high at Park Güell, absorbing Gaudí's whimsy, before continuing to the Bunkers del Carmel for panoramic views. At midday, drive across town to the iconic Camp Nou for a dose of football history. In the afternoon, ascend another hill, Montjuïc, for castle views and the architectural mosaic of Poble Espanyol. End your day by driving to the base of the hill to witness the Magic Fountain's spectacular light and music show, a perfect finale."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Menú del Día",
+            "tip": "Suchen Sie nach Restaurants, die ein Mittagsmenü mit 3 Gängen zu einem festen Preis anbieten, oft eine tolle Sache."
+          },
+          {
+            "name": "Cava",
+            "tip": "Der lokale Sekt. Besuchen Sie eine Cava-Bar in der Gegend von Penedès, wenn Sie Zeit haben."
+          },
+          {
+            "name": "Calçots",
+            "tip": "Wenn Sie im späten Winter oder frühen Frühling zu Besuch sind, verpassen Sie nicht das Calçotada-Festmahl."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Menú del Día",
+            "tip": "Keress olyan éttermeket, amelyek 3 fogásos ebédmenüt kínálnak fix áron, gyakran remek ajánlat."
+          },
+          {
+            "name": "Cava",
+            "tip": "A helyi pezsgő. Látogass el egy Cava bárba a Penedès régióban, ha van időd."
+          },
+          {
+            "name": "Calçots",
+            "tip": "Ha késő télen vagy kora tavasszal látogatsz el, ne hagyd ki a calçotada lakomát."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Menú del Día",
+            "tip": "Căutați restaurante care oferă un meniu de prânz cu 3 feluri la preț fix, adesea o afacere excelentă."
+          },
+          {
+            "name": "Cava",
+            "tip": "Vinul spumant local. Vizitați un bar Cava în zona Penedès dacă aveți timp."
+          },
+          {
+            "name": "Calçots",
+            "tip": "Dacă vizitați la sfârșitul iernii sau la începutul primăverii, nu ratați festinul calçotada."
+          }
+        ],
+        "en": [
+          {
+            "name": "Menú del Día",
+            "tip": "Look for restaurants offering a 3-course fixed-price lunch menu, often a great deal."
+          },
+          {
+            "name": "Cava",
+            "tip": "The local sparkling wine. Visit a Cava bar in the Penedès region if you have time."
+          },
+          {
+            "name": "Calçots",
+            "tip": "If visiting in late winter or early spring, don't miss the calçotada feast."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Tibidabo",
+            "tip": "Fahren Sie zum höchsten Punkt der Stadt für atemberaubende Ausblicke und einen altmodischen Vergnügungspark.",
+            "emoji": "🎡"
+          },
+          {
+            "name": "Kloster von Pedralbes",
+            "tip": "Ein wunderschönes gotisches Kloster, das eine Oase der Ruhe bietet.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parc del Laberint d'Horta",
+            "tip": "Verlieren Sie sich im Heckenlabyrinth in Barcelonas ältestem Garten.",
+            "emoji": " labyrinth "
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tibidabo",
+            "tip": "Vezess el a város legmagasabb pontjára a lélegzetelállító kilátásért és egy régimódi vidámparkért.",
+            "emoji": "🎡"
+          },
+          {
+            "name": "Pedralbes kolostor",
+            "tip": "Gyönyörű gótikus kolostor, amely a nyugalom oázisát kínálja.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parc del Laberint d'Horta",
+            "tip": "Tévedj el a sövénylabirintusban Barcelona legrégebbi kertjében.",
+            "emoji": " labyrinth "
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tibidabo",
+            "tip": "Conduceți până la cel mai înalt punct al orașului pentru vederi uluitoare și un parc de distracții de modă veche.",
+            "emoji": "🎡"
+          },
+          {
+            "name": "Mănăstirea Pedralbes",
+            "tip": "O mănăstire gotică frumoasă care oferă o oază de pace.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parc del Laberint d'Horta",
+            "tip": "Pierdeți-vă în labirintul de gard viu din cea mai veche grădină a Barcelonei.",
+            "emoji": " labyrinth "
+          }
+        ],
+        "en": [
+          {
+            "name": "Tibidabo",
+            "tip": "Drive to the highest point in the city for breathtaking views and an old-fashioned amusement park.",
+            "emoji": "🎡"
+          },
+          {
+            "name": "Monastery of Pedralbes",
+            "tip": "A beautiful Gothic monastery offering an oasis of peace.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parc del Laberint d'Horta",
+            "tip": "Get lost in the hedge maze at Barcelona's oldest garden.",
+            "emoji": " labyrinth "
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken ist teuer und schwer zu finden; nutzen Sie Parkhäuser anstatt auf der Straße zu parken.",
+          "Seien Sie sich der Umweltzonen (ZBE) bewusst, die den Zugang für bestimmte Fahrzeuge beschränken.",
+          "Verkehr kann besonders zu Stoßzeiten stark sein.",
+          "Ein Auto ist am besten für Ausflüge außerhalb des Stadtzentrums geeignet, wie Montserrat oder die Küste von Girona."
+        ],
+        "hu": [
+          "A parkolás drága és nehézkes; használj parkolóházakat az utcai parkolás helyett.",
+          "Figyelj a környezetvédelmi zónákra (ZBE), amelyek korlátozzák bizonyos járművek behajtását.",
+          "A forgalom nagy lehet, különösen csúcsidőben.",
+          "Az autó a legjobb a városközponton kívüli kirándulásokhoz, mint például Montserrat vagy a Girona partvidéke."
+        ],
+        "ro": [
+          "Parcarea este scumpă și greu de găsit; folosiți parcările subterane în loc de parcarea pe stradă.",
+          "Fiți conștienți de zonele cu emisii scăzute (ZBE) care restricționează accesul anumitor vehicule.",
+          "Traficul poate fi intens, mai ales la orele de vârf.",
+          "O mașină este cea mai bună pentru a explora în afara centrului orașului, cum ar fi Montserrat sau coasta Girona."
+        ],
+        "en": [
+          "Parking is expensive and difficult to find; use public parking garages rather than street parking.",
+          "Be aware of the Low Emission Zones (ZBE) which restrict access for certain vehicles.",
+          "Traffic can be heavy, especially during rush hours.",
+          "A car is best for exploring outside the city center, like Montserrat or the Girona coast."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:05",
+      "total_km": 10.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaça de Catalunya",
+            "hu": "Plaça de Catalunya",
+            "ro": "Plaça de Catalunya",
+            "en": "Plaça de Catalunya"
+          },
+          "coords": [
+            2.17,
+            41.387
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Der Verkehrsknotenpunkt der Stadt. Perfekter Ausgangspunkt.",
+            "hu": "A város közlekedési csomópontja. Tökéletes kiindulópont.",
+            "ro": "Nodul de transport al orașului. Punct de plecare perfect.",
+            "en": "The city's transport hub. Perfect starting point."
+          }
+        },
+        {
+          "name": {
+            "de": "La Rambla & Gotisches Viertel",
+            "hu": "La Rambla és Gótikus negyed",
+            "ro": "La Rambla și Cartierul Gotic",
+            "en": "La Rambla & Gothic Quarter"
+          },
+          "coords": [
+            2.175,
+            41.382
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Gehen Sie von der Plaça de Catalunya aus die La Rambla entlang.",
+            "hu": "Sétálj le a La Ramblán a Plaça de Catalunyáról.",
+            "ro": "Coborâți pe La Rambla de la Plaça de Catalunya.",
+            "en": "Walk down La Rambla from Plaça de Catalunya."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Batlló",
+            "hu": "Casa Batlló",
+            "ro": "Casa Batlló",
+            "en": "Casa Batlló"
+          },
+          "coords": [
+            2.165,
+            41.3916
+          ],
+          "category": "museums",
+          "arrive_at": "11:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie die U-Bahn L3 von Liceu nach Passeig de Gràcia.",
+            "hu": "Menj az L3 metróval a Liceutól a Passeig de Gràciáig.",
+            "ro": "Luați metroul L3 de la Liceu la Passeig de Gràcia.",
+            "en": "Take the L3 metro from Liceu to Passeig de Gràcia."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Milà (La Pedrera)",
+            "hu": "Casa Milà (La Pedrera)",
+            "ro": "Casa Milà (La Pedrera)",
+            "en": "Casa Milà (La Pedrera)"
+          },
+          "coords": [
+            2.1619,
+            41.3954
+          ],
+          "category": "museums",
+          "arrive_at": "12:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur einen kurzen Spaziergang von der Casa Batlló entfernt.",
+            "hu": "Csak egy rövid séta a Casa Batllótól.",
+            "ro": "La o scurtă plimbare de Casa Batlló.",
+            "en": "Just a short walk up the street from Casa Batlló."
+          }
+        },
+        {
+          "name": {
+            "de": "Sagrada Família",
+            "hu": "Sagrada Família",
+            "ro": "Sagrada Família",
+            "en": "Sagrada Família"
+          },
+          "coords": [
+            2.1744,
+            41.4036
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie die U-Bahn L5 von Diagonal zur Sagrada Família.",
+            "hu": "Menj az L5 metróval a Diagonaltól a Sagrada Famíliáig.",
+            "ro": "Luați metroul L5 de la Diagonal la Sagrada Família.",
+            "en": "Take the L5 metro from Diagonal to Sagrada Família."
+          }
+        },
+        {
+          "name": {
+            "de": "La Barceloneta",
+            "hu": "La Barceloneta",
+            "ro": "La Barceloneta",
+            "en": "La Barceloneta"
+          },
+          "coords": [
+            2.1895,
+            41.3795
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:20",
+          "stay_min": 105,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie die L2 und dann die L4 nach Barceloneta für einen entspannten Abend.",
+            "hu": "Menj az L2-vel, majd az L4-gyel a Barcelonetáig egy pihentető estéért.",
+            "ro": "Luați L2 apoi L4 până la Barceloneta pentru o seară relaxantă.",
+            "en": "Take the L2 then L4 to Barceloneta for a relaxing evening."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie am zentralen Knotenpunkt Plaça de Catalunya und spazieren Sie die La Rambla hinunter ins Herz des Gotischen Viertels. Am Mittag bringt Sie eine kurze U-Bahnfahrt zum Passeig de Gràcia, wo Sie in Gaudís architektonische Wunder, Casa Batlló und Casa Milà, eintauchen. Am Nachmittag bringt Sie eine weitere U-Bahnfahrt zur unumgänglichen Sagrada Família. Beenden Sie Ihren Tag mit einer Fahrt mit öffentlichen Verkehrsmitteln zum Strand von Barceloneta, um sich zu entspannen und die Meeresbrise zu genießen, während die Sonne untergeht.",
+        "hu": "Kezdje a központi Plaça de Catalunyánál, és sétáljon le a La Ramblán a Gótikus negyed szívébe. Délben egy rövid metróút a Passeig de Gràciára visz, hogy elmerüljön Gaudí építészeti csodáiban, a Casa Batllóban és a Casa Milàban. Délután egy másik metróút elvisz a kihagyhatatlan Sagrada Famíliához. A napot egy utazással zárja a Barceloneta strandra, hogy pihenjen és élvezze a tengeri szellőt, miközben a nap lenyugszik.",
+        "ro": "Porniți de la nodul central, Plaça de Catalunya, și plimbați-vă pe La Rambla în inima Cartierului Gotic. La prânz, o scurtă călătorie cu metroul vă duce pe Passeig de Gràcia pentru a vă cufunda în minunile arhitecturale ale lui Gaudí, Casa Batlló și Casa Milà. După-amiaza, o altă călătorie cu metroul vă duce la inevitabila Sagrada Família. Încheiați ziua luând transportul public spre plaja Barceloneta pentru a vă relaxa și a vă bucura de briza mării la apus.",
+        "en": "Start at the central hub, Plaça de Catalunya, and stroll down La Rambla into the heart of the Gothic Quarter. At midday, a short metro ride takes you to Passeig de Gràcia to immerse yourself in Gaudí's architectural wonders, Casa Batlló and Casa Milà. In the afternoon, another metro trip brings you to the unmissable Sagrada Família. End your day by taking public transit to Barceloneta beach to unwind and enjoy the sea breeze as the sun sets."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Mercat de la Boqueria",
+            "tip": "Holen Sie sich ein Mittagessen zum Mitnehmen von einer der vielen Essensstände im Markt."
+          },
+          {
+            "name": "Pintxos",
+            "tip": "Besuchen Sie die Carrer de Blai für eine große Auswahl an Pintxo-Bars (baskische Tapas)."
+          },
+          {
+            "name": "Vermut",
+            "tip": "Genießen Sie einen Aperitif vor dem Abendessen mit lokalem Wermut und Oliven."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mercat de la Boqueria",
+            "tip": "Vegyél egy elviteles ebédet a piac számos ételstandjának egyikéből."
+          },
+          {
+            "name": "Pintxos",
+            "tip": "Látogass el a Carrer de Blaiba a pintxo (baszk tapas) bárok széles választékáért."
+          },
+          {
+            "name": "Vermut",
+            "tip": "Élvezz egy vacsora előtti aperitifet helyi vermuttal és olajbogyóval."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mercat de la Boqueria",
+            "tip": "Luați un prânz la pachet de la una dintre numeroasele tarabe cu mâncare de pe piață."
+          },
+          {
+            "name": "Pintxos",
+            "tip": "Mergeți pe Carrer de Blai pentru o mare varietate de baruri de pintxos (tapas basce)."
+          },
+          {
+            "name": "Vermut",
+            "tip": "Bucurați-vă de un aperitiv înainte de cină cu vermut local și măsline."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mercat de la Boqueria",
+            "tip": "Grab a takeaway lunch from one of the many food stalls inside the market."
+          },
+          {
+            "name": "Pintxos",
+            "tip": "Head to Carrer de Blai for a huge variety of pintxos (Basque-style tapas) bars."
+          },
+          {
+            "name": "Vermut",
+            "tip": "Enjoy a pre-dinner aperitif of local vermouth and olives."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gärten von Montjuïc",
+            "tip": "Nehmen Sie die Standseilbahn und dann die Seilbahn für eine ruhige Flucht und tolle Aussicht.",
+            "emoji": "🚠"
+          },
+          {
+            "name": "Parc de la Creueta del Coll",
+            "tip": "Ein weniger bekannter Park mit einem großen See, der im Sommer als Pool dient.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Friedhof von Poblenou",
+            "tip": "Ein wunderschöner und friedlicher Ort mit neoklassischen Skulpturen.",
+            "emoji": "⚰️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Montjuïc kertjei",
+            "tip": "Menj a siklóval, majd a felvonóval egy csendes menekülésért és remek kilátásért.",
+            "emoji": "🚠"
+          },
+          {
+            "name": "Parc de la Creueta del Coll",
+            "tip": "Kevésbé ismert park nagy tóval, amely nyáron medenceként funkcionál.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Poblenou temető",
+            "tip": "Gyönyörű és békés hely neoklasszikus szobrokkal.",
+            "emoji": "⚰️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile din Montjuïc",
+            "tip": "Luați funicularul și apoi telecabina pentru o evadare liniștită și vederi minunate.",
+            "emoji": "🚠"
+          },
+          {
+            "name": "Parc de la Creueta del Coll",
+            "tip": "Un parc mai puțin cunoscut, cu un lac mare care servește drept piscină vara.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cimitirul Poblenou",
+            "tip": "Un loc frumos și liniștit, cu sculpturi neoclasice.",
+            "emoji": "⚰️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gardens of Montjuïc",
+            "tip": "Take the funicular and then the cable car for a quiet escape and great views.",
+            "emoji": "🚠"
+          },
+          {
+            "name": "Parc de la Creueta del Coll",
+            "tip": "A lesser-known park with a large lake that doubles as a pool in summer.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Poblenou Cemetery",
+            "tip": "A beautiful and peaceful place featuring neoclassical sculptures.",
+            "emoji": "⚰️"
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine T-Casual-Karte für 10 Fahrten, die viel günstiger ist als Einzeltickets.",
+          "Die U-Bahn ist der schnellste Weg, um sich fortzubewegen, aber Busse bieten bessere Aussichten.",
+          "Validieren Sie Ihr Ticket immer.",
+          "Die U-Bahn kann zu Stoßzeiten sehr voll werden, also passen Sie auf Ihre Sachen auf."
+        ],
+        "hu": [
+          "Vegyél egy T-Casual bérletet 10 utazásra, ami sokkal olcsóbb, mint az egyedi jegyek.",
+          "A metró a leggyorsabb közlekedési mód, de a buszok jobb kilátást nyújtanak.",
+          "Mindig érvényesítsd a jegyedet.",
+          "A metró csúcsidőben nagyon zsúfolt lehet, ezért vigyázz az értékeidre."
+        ],
+        "ro": [
+          "Cumpărați un card T-Casual pentru 10 călătorii, este mult mai ieftin decât biletele individuale.",
+          "Metroul este cel mai rapid mod de a vă deplasa, dar autobuzele oferă vederi mai bune.",
+          "Validați-vă întotdeauna biletul.",
+          "Metroul poate deveni foarte aglomerat la orele de vârf, așa că aveți grijă de bunurile dumneavoastră."
+        ],
+        "en": [
+          "Buy a T-Casual card for 10 journeys, which is much cheaper than single tickets.",
+          "The metro is the fastest way to get around, but buses offer better views.",
+          "Always validate your ticket.",
+          "The metro can get very crowded during peak hours, so watch your belongings."
+        ]
+      }
+    }
+  }
+}
